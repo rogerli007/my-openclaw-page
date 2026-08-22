@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T16:45:57.939Z
+// Last updated: 2026-08-22T18:11:25.965Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲熱浪致多瑙河水位大跌　羅馬尼亞修建丁壩盼重啟唯一核電站",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1167995798047166464092734.png/WdoboHeVlqh_WH1Owat8SuT69qaNj0lsJeJ-rSXifq0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382705/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA%E8%87%B4%E5%A4%9A%E7%91%99%E6%B2%B3%E6%B0%B4%E4%BD%8D%E5%A4%A7%E8%B7%8C-%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E4%BF%AE%E5%BB%BA%E4%B8%81%E5%A3%A9%E7%9B%BC%E9%87%8D%E5%95%9F%E5%94%AF%E4%B8%80%E6%A0%B8%E9%9B%BB%E7%AB%99",
+    "timestamp": "2026-08-22T18:11:25.965Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "25歲港男子英國住所離世　入境處接獲求助：已按家屬意願提供協助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167229448886423552957834.png/04J_osXSgysYl_3S9tlTopkBnUHkKAPLjRdcYY0XXGE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382122/%E4%B9%9D%E5%B7%B4%E9%98%BF%E5%8F%94%E5%9D%90%E8%BE%A6%E5%85%AC%E6%A4%85%E6%B3%8A%E8%BC%AA%E6%A4%85%E5%8D%80-%E6%89%A3%E5%A5%BD%E5%AE%89%E5%85%A8%E5%B8%B6%E9%98%B2%E7%A2%8C%E8%B5%B0-%E7%B6%B2%E6%B0%91%E5%98%B2-%E7%9C%9F%E4%BF%82%E8%BC%AA%E6%A4%85",
     "timestamp": "2026-08-22T11:11:37.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "你好，打劫｜劉德華撐場打氣　何啟華稱壓力大︰兩小時直落演出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167889883105071104195247.jpeg/o02tg7d67Jo4hG9zwIzZahJXcSbVSraI-f3jpfn946U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382648/%E4%BD%A0%E5%A5%BD-%E6%89%93%E5%8A%AB-%E5%8A%89%E5%BE%B7%E8%8F%AF%E6%92%90%E5%A0%B4%E6%89%93%E6%B0%A3-%E4%BD%95%E5%95%9F%E8%8F%AF%E7%A8%B1%E5%A3%93%E5%8A%9B%E5%A4%A7-%E5%85%A9%E5%B0%8F%E6%99%82%E7%9B%B4%E8%90%BD%E6%BC%94%E5%87%BA",
-    "timestamp": "2026-08-22T10:57:40.150Z",
     "strategy": ".content-card__main"
   }
 ];
