@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T06:01:47.167Z
+// Last updated: 2026-08-22T06:34:21.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國批准對韓國出售「響尾蛇」導彈　確保與雙方協同作戰能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167837959114723328359647.jpeg/_gynpyl2eHwe-_gFd_pwsIAYYOlHaCkylkcWqpZHFqo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382603/%E7%BE%8E%E5%9C%8B%E6%89%B9%E5%87%86%E5%B0%8D%E9%9F%93%E5%9C%8B%E5%87%BA%E5%94%AE-%E9%9F%BF%E5%B0%BE%E8%9B%87-%E5%B0%8E%E5%BD%88-%E7%A2%BA%E4%BF%9D%E8%88%87%E9%9B%99%E6%96%B9%E5%8D%94%E5%90%8C%E4%BD%9C%E6%88%B0%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-08-22T06:34:21.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上半年私宅落成7654伙　四年次高　私宅動工量2667伙創16年新低",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167713696789565440786192.jpeg/bk2lkSormBXJCEKjJfG8dSRLSO72KX82lUsFO5VLBTs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382537/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6",
     "timestamp": "2026-08-21T22:45:14.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨　局部地區有狂風雷暴　最高氣溫32度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167713696789565440786192.jpeg/bk2lkSormBXJCEKjJfG8dSRLSO72KX82lUsFO5VLBTs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382537/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6",
-    "timestamp": "2026-08-21T22:12:04.530Z",
     "strategy": ".content-card__main"
   }
 ];
