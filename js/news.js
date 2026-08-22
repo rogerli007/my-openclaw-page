@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T01:37:28.520Z
+// Last updated: 2026-08-22T02:16:17.007Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔚觀全局｜使命感非無限犧牲理由：制度如何守住社工？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167116941828034560528609.jpeg/mxvdYSRYyx5W98H3YQKTshiQwqAfzlV2Yo8M9WKPDPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60381892/%E8%94%9A%E8%A7%80%E5%85%A8%E5%B1%80-%E4%BD%BF%E5%91%BD%E6%84%9F%E9%9D%9E%E7%84%A1%E9%99%90%E7%8A%A7%E7%89%B2%E7%90%86%E7%94%B1-%E5%88%B6%E5%BA%A6%E5%A6%82%E4%BD%95%E5%AE%88%E4%BD%8F%E7%A4%BE%E5%B7%A5",
+    "timestamp": "2026-08-22T02:16:17.007Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美債保衛戰｜特朗普稱干預債市　是貝森特自己拿的主意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167646095442972672951247.png/At7hb6JuibbksSqzJZC859lZ1qex2VH2ScEgp0nBIKc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382531/%E5%B1%B1%E6%9D%B1%E8%87%A8%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%88%86%E7%82%B8-%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%AF-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-21T18:35:25.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山東臨沂一平房院落爆炸　致1死2失聯｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167646095442972672951247.png/At7hb6JuibbksSqzJZC859lZ1qex2VH2ScEgp0nBIKc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382531/%E5%B1%B1%E6%9D%B1%E8%87%A8%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%88%86%E7%82%B8-%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%AF-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-21T18:02:46.481Z",
     "strategy": ".content-card__main"
   }
 ];
