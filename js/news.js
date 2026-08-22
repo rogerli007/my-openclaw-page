@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T16:29:50.159Z
+// Last updated: 2026-08-22T16:45:57.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "25歲港男子英國住所離世　入境處接獲求助：已按家屬意願提供協助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1167993788895858688836129.jpeg/4dRb5u76Zxc2EIlJpB6u232dj5r3oKiJs3qkGrN6pBo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382706/25%E6%AD%B2%E6%B8%AF%E7%94%B7%E5%AD%90%E8%8B%B1%E5%9C%8B%E4%BD%8F%E6%89%80%E9%9B%A2%E4%B8%96-%E5%85%A5%E5%A2%83%E8%99%95%E6%8E%A5%E7%8D%B2%E6%B1%82%E5%8A%A9-%E5%B7%B2%E6%8C%89%E5%AE%B6%E5%B1%AC%E6%84%8F%E9%A1%98%E6%8F%90%E4%BE%9B%E5%8D%94%E5%8A%A9",
+    "timestamp": "2026-08-22T16:45:57.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古天樂演唱會｜劉德華合唱《獨自去偷歡》義氣許諾：你嗌我就出現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167889883105071104195247.jpeg/o02tg7d67Jo4hG9zwIzZahJXcSbVSraI-f3jpfn946U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382648/%E4%BD%A0%E5%A5%BD-%E6%89%93%E5%8A%AB-%E5%8A%89%E5%BE%B7%E8%8F%AF%E6%92%90%E5%A0%B4%E6%89%93%E6%B0%A3-%E4%BD%95%E5%95%9F%E8%8F%AF%E7%A8%B1%E5%A3%93%E5%8A%9B%E5%A4%A7-%E5%85%A9%E5%B0%8F%E6%99%82%E7%9B%B4%E8%90%BD%E6%BC%94%E5%87%BA",
     "timestamp": "2026-08-22T10:57:40.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當娜Katy Perry等明星效應吸美客　《奧德賽》熱潮帶動希臘旅遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149477837514739712298301.jpeg/V1dV-UOxCPL1_tO2WXPpd8Zxpvb0Mfi3Uwa2KFMGtig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382656/%E9%BA%A5%E7%95%B6%E5%A8%9Ckaty-perry%E7%AD%89%E6%98%8E%E6%98%9F%E6%95%88%E6%87%89%E5%90%B8%E7%BE%8E%E5%AE%A2-%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E7%86%B1%E6%BD%AE%E5%B8%B6%E5%8B%95%E5%B8%8C%E8%87%98%E6%97%85%E9%81%8A",
-    "timestamp": "2026-08-22T10:44:56.891Z",
     "strategy": ".content-card__main"
   }
 ];
