@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T20:45:01.730Z
+// Last updated: 2026-08-22T20:57:41.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜大坑男子墮樓　跌落平台當場死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168052649640071168103824.jpeg/zY-o30SkHFbigQ8PqQ1PlVOpR7vLw7ulZYURW1-FEVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382714/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9D%91%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E8%B7%8C%E8%90%BD%E5%B9%B3%E5%8F%B0%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-08-22T20:57:41.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜大坑男子墮樓　跌落平台當場死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260207/1096923557155311616420178.jpeg/UeMZ2YWWhOtx5to7_A7qrtBxsVlavcTBZh-tpmYfraY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382691/%E5%85%AD%E5%90%88%E5%BD%A98-25%E9%A0%AD%E7%8D%8E1900%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-08-22T13:58:36.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國警車恐怖車禍　與可疑車輛追逐期間相撞　7死包括2警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167945365484212224932081.jpeg/_iIwt8QPCKBBMfjsSaKNKZGmmJfVtDakbvri2W764tk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382682/%E8%8B%B1%E5%9C%8B%E8%AD%A6%E8%BB%8A%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E8%88%87%E5%8F%AF%E7%96%91%E8%BB%8A%E8%BC%9B%E8%BF%BD%E9%80%90%E6%9C%9F%E9%96%93%E7%9B%B8%E6%92%9E-7%E6%AD%BB%E5%8C%85%E6%8B%AC2%E8%AD%A6",
-    "timestamp": "2026-08-22T13:36:42.267Z",
     "strategy": ".content-card__main"
   }
 ];
