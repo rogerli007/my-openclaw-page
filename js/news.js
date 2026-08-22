@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T05:31:40.620Z
+// Last updated: 2026-08-22T05:47:19.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞幸七夕聯名「素人情侶」動畫被抵制　網民：抄襲多部經典日漫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166413827890221056704856.jpeg/OvTqhF6aWVGNiwzuVrFIPamRU3viU_igd0_0MHdP9DA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60381168/%E7%91%9E%E5%B9%B8%E4%B8%83%E5%A4%95%E8%81%AF%E5%90%8D-%E7%B4%A0%E4%BA%BA%E6%83%85%E4%BE%B6-%E5%8B%95%E7%95%AB%E8%A2%AB%E6%8A%B5%E5%88%B6-%E7%B6%B2%E6%B0%91-%E6%8A%84%E8%A5%B2%E5%A4%9A%E9%83%A8%E7%B6%93%E5%85%B8%E6%97%A5%E6%BC%AB",
+    "timestamp": "2026-08-22T05:47:19.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周230宗網購騙案失$800萬　有騙徒一人分演多角呃$3萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167675923634327552531804.jpeg/iYTt-b8bPh8i6tP2CFCOj_F2gruuWxGr0ZoYgNGaGIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382533/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%9B%9B%E9%80%BC%E8%BF%91400%E5%85%AC%E9%87%8C-%E5%8D%87%E7%B4%9A%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%BD%E5%90%8D",
     "timestamp": "2026-08-21T21:57:37.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜天文台料下周四逼近400公里　升級熱帶風暴為何未命名？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167675923634327552531804.jpeg/iYTt-b8bPh8i6tP2CFCOj_F2gruuWxGr0ZoYgNGaGIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382533/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%9B%9B%E9%80%BC%E8%BF%91400%E5%85%AC%E9%87%8C-%E5%8D%87%E7%B4%9A%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%BD%E5%90%8D",
-    "timestamp": "2026-08-21T21:45:00.785Z",
     "strategy": ".content-card__main"
   }
 ];
