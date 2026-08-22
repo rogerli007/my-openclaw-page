@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T09:03:51.746Z
+// Last updated: 2026-08-22T09:17:48.372Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│廣東7歲女迷路　向警察畫｢抽象母親｣喊｢我是中國人｣超爆笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167876760654581760956473.jpeg/wfEceNO7kDQMxJhzhvmcvUsTkr4JkCi3O1KhVTtSoVU?v=w1920",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382640/%E6%9C%89%E7%89%87-%E5%BB%A3%E6%9D%B17%E6%AD%B2%E5%A5%B3%E8%BF%B7%E8%B7%AF-%E5%90%91%E8%AD%A6%E5%AF%9F%E7%95%AB-%E6%8A%BD%E8%B1%A1%E6%AF%8D%E8%A6%AA-%E5%96%8A-%E6%88%91%E6%98%AF%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E8%B6%85%E7%88%86%E7%AC%91",
+    "timestamp": "2026-08-22T09:17:48.372Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TIMA國際音樂大賞｜禁帶發光裝置、螢光棒、長傘　一文看交通安排",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167116941828034560528609.jpeg/mxvdYSRYyx5W98H3YQKTshiQwqAfzlV2Yo8M9WKPDPU?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60381892/%E8%94%9A%E8%A7%80%E5%85%A8%E5%B1%80-%E4%BD%BF%E5%91%BD%E6%84%9F%E9%9D%9E%E7%84%A1%E9%99%90%E7%8A%A7%E7%89%B2%E7%90%86%E7%94%B1-%E5%88%B6%E5%BA%A6%E5%A6%82%E4%BD%95%E5%AE%88%E4%BD%8F%E7%A4%BE%E5%B7%A5",
     "timestamp": "2026-08-22T02:16:17.007Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美債保衛戰｜特朗普稱干預債市　是貝森特自己拿的主意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167415573638811648147689.jpeg/V3SN_kipqAKdCXsH3Ahe-uiUhtgqfZIvsum1VLLptVQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382552/%E7%BE%8E%E5%82%B5%E4%BF%9D%E8%A1%9B%E6%88%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B9%B2%E9%A0%90%E5%82%B5%E5%B8%82-%E6%98%AF%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%87%AA%E5%B7%B1%E6%8B%BF%E7%9A%84%E4%B8%BB%E6%84%8F",
-    "timestamp": "2026-08-22T01:37:28.520Z",
     "strategy": ".content-card__main"
   }
 ];
