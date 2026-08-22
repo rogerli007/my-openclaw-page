@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T21:57:11.537Z
+// Last updated: 2026-08-22T22:13:33.780Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡住宅大廈私人供水系統故障　工程人員搶修　水務署設水車水箱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168073490419421184207395.jpeg/0HAfrUj6C97yX2XFlgdk9dkdIFU37jU0Of3P2zn9z9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382720/%E7%B4%85%E7%A3%A1%E4%BD%8F%E5%AE%85%E5%A4%A7%E5%BB%88%E7%A7%81%E4%BA%BA%E4%BE%9B%E6%B0%B4%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%93%A1%E6%90%B6%E4%BF%AE-%E6%B0%B4%E5%8B%99%E7%BD%B2%E8%A8%AD%E6%B0%B4%E8%BB%8A%E6%B0%B4%E7%AE%B1",
+    "timestamp": "2026-08-22T22:13:33.780Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土耳其商船黑海遇襲　無人機連續襲擊致1死8傷｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167967743522115584714906.jpeg/p1NOcIQzoaorF0HNYldsvSmhIKVtm2fssaALfLGgC3w",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382695/%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%81%8B%E5%8B%95%E6%9C%83-%E6%9C%89%E7%89%87-9-39%E7%A7%92%E5%BF%AB%E9%81%8E%E4%BF%9D%E7%89%B9-%E4%B8%AD%E5%9C%8B%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%89%93%E7%A0%B4%E4%BA%BA%E9%A1%9E%E7%99%BE%E7%B1%B3%E7%B4%80%E9%8C%84",
     "timestamp": "2026-08-22T14:57:36.339Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林盛斌18歲大女Faye沖繩畢業遊　首晒比堅尼惹火身材",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167555083706044416186357.png/_sccW6srcFCFHwSTgUGKgYGdMURGNq6tJa28ZCWtvGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382484/%E6%9E%97%E7%9B%9B%E6%96%8C18%E6%AD%B2%E5%A4%A7%E5%A5%B3faye%E6%B2%96%E7%B9%A9%E7%95%A2%E6%A5%AD%E9%81%8A-%E9%A6%96%E6%99%92%E6%AF%94%E5%A0%85%E5%B0%BC%E6%83%B9%E7%81%AB%E8%BA%AB%E6%9D%90",
-    "timestamp": "2026-08-22T14:44:26.934Z",
     "strategy": ".content-card__main"
   }
 ];
