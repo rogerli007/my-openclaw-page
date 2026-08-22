@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T11:29:10.527Z
+// Last updated: 2026-08-22T11:43:16.203Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日出康城海瑅灣系列連沽10伙　套現逾7550萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115330722383532032407851.jpeg/kElrYQ6CxvECidq3TURxnB4UdW9StQ7FXSe7IF0nuyA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60382667/%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%E6%B5%B7%E7%91%85%E7%81%A3%E7%B3%BB%E5%88%97%E9%80%A3%E6%B2%BD10%E4%BC%99-%E5%A5%97%E7%8F%BE%E9%80%BE7550%E8%90%AC",
+    "timestamp": "2026-08-22T11:43:16.203Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孔劉粉絲見面會2026澳門｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167820298939011072718345.jpeg/O-WHMr5AtP65hvO6wx75KfOljqdo3ZI2wBb_l8AW_5c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382596/%E4%B8%80%E5%91%A8230%E5%AE%97%E7%B6%B2%E8%B3%BC%E9%A8%99%E6%A1%88%E5%A4%B1-800%E8%90%AC-%E6%9C%89%E9%A8%99%E5%BE%92%E4%B8%80%E4%BA%BA%E5%88%86%E6%BC%94%E5%A4%9A%E8%A7%92%E5%91%83-3%E8%90%AC",
     "timestamp": "2026-08-22T05:31:40.620Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "民政總署：業主大會授權票限制未定　會考慮是否過於嚴格",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137867280458321920038641.jpeg/3d4v8ovKRBnrVbuCM7fSJLDOh1LAd8yGPCldUyYpXVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60382590/%E6%B0%91%E6%94%BF%E7%B8%BD%E7%BD%B2-%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%8E%88%E6%AC%8A%E7%A5%A8%E9%99%90%E5%88%B6%E6%9C%AA%E5%AE%9A-%E6%9C%83%E8%80%83%E6%85%AE%E6%98%AF%E5%90%A6%E9%81%8E%E6%96%BC%E5%9A%B4%E6%A0%BC",
-    "timestamp": "2026-08-22T05:16:02.379Z",
     "strategy": ".content-card__main"
   }
 ];
