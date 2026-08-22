@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T10:00:30.006Z
+// Last updated: 2026-08-22T10:44:56.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當娜Katy Perry等明星效應吸美客　《奧德賽》熱潮帶動希臘旅遊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149477837514739712298301.jpeg/V1dV-UOxCPL1_tO2WXPpd8Zxpvb0Mfi3Uwa2KFMGtig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382656/%E9%BA%A5%E7%95%B6%E5%A8%9Ckaty-perry%E7%AD%89%E6%98%8E%E6%98%9F%E6%95%88%E6%87%89%E5%90%B8%E7%BE%8E%E5%AE%A2-%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E7%86%B1%E6%BD%AE%E5%B8%B6%E5%8B%95%E5%B8%8C%E8%87%98%E6%97%85%E9%81%8A",
+    "timestamp": "2026-08-22T10:44:56.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4｜鄭家聲遭網民疑未完賽先拿TVB入場券　回應內定風波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166254993578135552674138.jpeg/pN1cyxYwKOiHGe5XfatXr2PSMktiV5YC8ng_f_J4P38?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382582/%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E6%85%AE%E6%94%BE%E5%AF%AC%E7%89%9B%E8%82%89%E9%80%B2%E5%8F%A3%E7%BE%8E%E5%9C%8B%E9%97%9C%E7%A8%85-%E6%83%B9%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E5%8F%8A%E7%89%A7%E5%A0%B4%E4%B8%BB%E4%B8%8D%E6%BB%BF",
     "timestamp": "2026-08-22T03:55:07.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加媒：萬斯私下嘲諷卡尼　宣稱比特朗普強硬　實際談判頻頻讓步",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167791396875145216385019.jpeg/1eG3G1mrhK9pW3LzPokcaP6rue2E27L8IwAvkiMAL5I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382581/%E5%8A%A0%E5%AA%92-%E8%90%AC%E6%96%AF%E7%A7%81%E4%B8%8B%E5%98%B2%E8%AB%B7%E5%8D%A1%E5%B0%BC-%E5%AE%A3%E7%A8%B1%E6%AF%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%B7%E7%A1%AC-%E5%AF%A6%E9%9A%9B%E8%AB%87%E5%88%A4%E9%A0%BB%E9%A0%BB%E8%AE%93%E6%AD%A5",
-    "timestamp": "2026-08-22T03:34:18.076Z",
     "strategy": ".content-card__main"
   }
 ];
