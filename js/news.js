@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T05:01:48.444Z
+// Last updated: 2026-08-22T05:16:02.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "民政總署：業主大會授權票限制未定　會考慮是否過於嚴格",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260531/1137867280458321920038641.jpeg/3d4v8ovKRBnrVbuCM7fSJLDOh1LAd8yGPCldUyYpXVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60382590/%E6%B0%91%E6%94%BF%E7%B8%BD%E7%BD%B2-%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E6%8E%88%E6%AC%8A%E7%A5%A8%E9%99%90%E5%88%B6%E6%9C%AA%E5%AE%9A-%E6%9C%83%E8%80%83%E6%85%AE%E6%98%AF%E5%90%A6%E9%81%8E%E6%96%BC%E5%9A%B4%E6%A0%BC",
+    "timestamp": "2026-08-22T05:16:02.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "半山西摩道送貨男　貨車尾板上墮地　受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167675923634327552531804.jpeg/iYTt-b8bPh8i6tP2CFCOj_F2gruuWxGr0ZoYgNGaGIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382533/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%B8%8B%E5%91%A8%E5%9B%9B%E9%80%BC%E8%BF%91400%E5%85%AC%E9%87%8C-%E5%8D%87%E7%B4%9A%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4%E7%82%BA%E4%BD%95%E6%9C%AA%E5%91%BD%E5%90%8D",
     "timestamp": "2026-08-21T21:29:46.669Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TikTok被控違反兒童隱私　砸31億與美國司法部達成和解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/5306766/org/0faf77304571fa8358c26957727221e8.jpg/O2teJJ7S-8pzaTNJXEAf-YIOI3izuv2faVakLGlWpCw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382536/tiktok%E8%A2%AB%E6%8E%A7%E9%81%95%E5%8F%8D%E5%85%92%E7%AB%A5%E9%9A%B1%E7%A7%81-%E7%A0%B831%E5%84%84%E8%88%87%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E9%81%94%E6%88%90%E5%92%8C%E8%A7%A3",
-    "timestamp": "2026-08-21T21:12:41.684Z",
     "strategy": ".content-card__main"
   }
 ];
