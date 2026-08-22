@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T15:10:39.012Z
+// Last updated: 2026-08-22T15:29:37.016Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4｜吳亦偉被伍仲衡寸爆唱歌似泰文　親回應有靠山傳聞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167939879108087808503647.jpeg/m80JRU_Fd92v3xTX86oe-JeAaxWBluhSd5b9xk2W_cY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382681/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E5%90%B3%E4%BA%A6%E5%81%89%E8%A6%AA%E5%9B%9E%E6%87%89%E8%A2%AB%E4%BC%8D%E4%BB%B2%E8%A1%A1%E5%AF%B8%E7%88%86%E5%94%B1%E6%AD%8C%E4%BC%BC%E6%B3%B0%E6%96%87%E5%85%BC%E6%9C%89%E9%9D%A0%E5%B1%B1%E5%82%B3%E8%81%9E",
+    "timestamp": "2026-08-22T15:29:37.016Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本男公關陷阱！24歲女為供養男公關湊$2.9萬　轉戰街頭賣淫被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053396443710099456729014.jpeg/nF5mEjVA74jWDcJoQk2RBWHiWR43vLXIW0KDyltCg8o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382647/%E4%BA%8C%E6%88%B0%E7%B5%90%E6%9D%9F81%E5%91%A8%E5%B9%B4-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%87%B4%E8%A9%9E%E6%9C%AA%E6%8F%90%E5%8F%8D%E7%9C%81-%E7%9F%B3%E7%A0%B4%E8%8C%82-%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%B8%8D%E6%8F%90%E5%97%8E",
     "timestamp": "2026-08-22T09:48:50.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4｜尹景順被網民質疑是「內定三甲」 回應宣傳海報爭議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167877089848725504083261.jpeg/vs_m-1oNoQDn0qzIQtImKFjcIJLeWXDK5t3FmNzdxZg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382637/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E5%B0%B9%E6%99%AF%E9%A0%86%E8%A2%AB%E7%B6%B2%E6%B0%91%E8%B3%AA%E7%96%91%E6%98%AF-%E5%85%A7%E5%AE%9A%E4%B8%89%E7%94%B2-%E5%9B%9E%E6%87%89%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1%E7%88%AD%E8%AD%B0",
-    "timestamp": "2026-08-22T09:34:21.368Z",
     "strategy": ".content-card__main"
   }
 ];
