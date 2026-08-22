@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T04:36:44.164Z
+// Last updated: 2026-08-22T05:01:48.444Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "半山西摩道送貨男　貨車尾板上墮地　受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167812896911003648941867.jpeg/5PK1cF3t1sp8Kvpu3RQ8LFPP9HMAChSilrpT6Za6U-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382588/%E5%8D%8A%E5%B1%B1%E8%A5%BF%E6%91%A9%E9%81%93%E9%80%81%E8%B2%A8%E7%94%B7-%E8%B2%A8%E8%BB%8A%E5%B0%BE%E6%9D%BF%E4%B8%8A%E5%A2%AE%E5%9C%B0-%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-08-22T05:01:48.444Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "支聯會案｜政府強烈譴責外部勢力誤導抹黑　被告非因政治觀點受審",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5306766/org/0faf77304571fa8358c26957727221e8.jpg/O2teJJ7S-8pzaTNJXEAf-YIOI3izuv2faVakLGlWpCw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382536/tiktok%E8%A2%AB%E6%8E%A7%E9%81%95%E5%8F%8D%E5%85%92%E7%AB%A5%E9%9A%B1%E7%A7%81-%E7%A0%B831%E5%84%84%E8%88%87%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E9%81%94%E6%88%90%E5%92%8C%E8%A7%A3",
     "timestamp": "2026-08-21T21:12:41.684Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌小童坐女司機大腿　「齊駕車」涉危駕　目擊者：可報警｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167686657839730688506341.png/zTyHScYIj367IyaWKxCiaa-NRwHnw6XC4HeBB-B3gQc",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382535/%E8%91%B5%E6%B6%8C%E5%B0%8F%E7%AB%A5%E5%9D%90%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%A4%A7%E8%85%BF-%E9%BD%8A%E9%A7%95%E8%BB%8A-%E6%B6%89%E5%8D%B1%E9%A7%95-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%8F%AF%E5%A0%B1%E8%AD%A6-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-21T20:57:57.972Z",
     "strategy": ".content-card__main"
   }
 ];
