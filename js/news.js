@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T19:32:33.071Z
+// Last updated: 2026-08-22T19:45:12.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜北大嶼山公路大塞車　車隊的士撞開2車疑開路　2人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167768879414382592831076.jpeg/zYF8D3ih_gDploAb6P0xMfGyg8x3EJrXdUHeE3VB3hM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382712/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E6%92%9E%E9%96%8B2%E8%BB%8A%E7%96%91%E9%96%8B%E8%B7%AF-2%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-08-22T19:45:12.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北美貿易戰開打　美國加徵50%關稅　卡尼稱實行等值反制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167921893915758592514276.jpeg/MP2jvZctQPD89DEjB9qaxUWdYLW0LeYo9syyuMzMsrg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382668/%E8%88%8A%E5%95%86%E5%A0%B4%E8%88%96%E8%AE%8A%E6%AF%92%E5%93%81%E5%80%89-%E6%9D%91%E5%B1%8B%E4%BD%9C%E8%A3%BD%E6%AF%92%E5%B7%A5%E5%A0%B4-%E8%AD%A6%E6%8B%98%E5%B9%B4%E8%BC%95%E7%94%B7%E5%A5%B3%E6%AA%A2-1-600%E8%90%AC%E8%B2%A8",
     "timestamp": "2026-08-22T12:13:13.675Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOFT香港旺角MOKO開業首日人流不絕　有顧客專程來買「透明豉油」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167872533274300416640239.jpeg/kz0m_23E68uTQGoFHioQ0juj1pSobnbEtYuY6pCLmOo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382639/loft%E9%A6%99%E6%B8%AF%E6%97%BA%E8%A7%92moko%E9%96%8B%E6%A5%AD%E9%A6%96%E6%97%A5%E4%BA%BA%E6%B5%81%E4%B8%8D%E7%B5%95-%E6%9C%89%E9%A1%A7%E5%AE%A2%E5%B0%88%E7%A8%8B%E4%BE%86%E8%B2%B7-%E9%80%8F%E6%98%8E%E8%B1%89%E6%B2%B9",
-    "timestamp": "2026-08-22T11:57:36.022Z",
     "strategy": ".content-card__main"
   }
 ];
