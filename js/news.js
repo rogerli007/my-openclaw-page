@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T19:56:36.662Z
+// Last updated: 2026-08-22T20:10:44.123Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜北大嶼山公路大塞車　車隊的士撞開2車疑開路　2人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168045732528132096206843.jpeg/Fi68-g2LTGop3aj5vEXtF-4x2u-5Dzw4X4SefF-Ennw",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382712/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E6%92%9E%E9%96%8B2%E8%BB%8A%E7%96%91%E9%96%8B%E8%B7%AF-2%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-08-22T20:10:44.123Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜北大嶼山公路大塞車　車隊的士撞開2車疑開路　2人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158419948586930176910364.jpeg/VHJ2nG4FiY_vsE3gPWGODwG-oCLZI7cCMukRgTLpEYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382677/%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%B9%B4iphone%E6%9C%88%E4%BE%9B%E5%BC%95%E7%88%86%E7%88%B6%E5%AD%90%E7%88%AD%E5%9F%B7%E9%9B%99%E9%9B%99%E5%A2%AE%E5%B4%96%E4%BA%A1-%E6%AF%8D%E8%A6%AA%E7%9B%AE%E7%9D%B9%E5%BE%8C%E9%9A%A8%E4%B9%8B%E8%80%8C%E5%8E%BB",
     "timestamp": "2026-08-22T12:54:04.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗：國防產能已翻倍　能「邊打邊造」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250623/1013859175341494272460952.jpeg/sE4CRXHPZRLnKhviXg8msMzdQb7wRJkQ9mrvzPZq78w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382674/%E4%BC%8A%E6%9C%97-%E5%9C%8B%E9%98%B2%E7%94%A2%E8%83%BD%E5%B7%B2%E7%BF%BB%E5%80%8D-%E8%83%BD-%E9%82%8A%E6%89%93%E9%82%8A%E9%80%A0",
-    "timestamp": "2026-08-22T12:31:10.716Z",
     "strategy": ".content-card__main"
   }
 ];
