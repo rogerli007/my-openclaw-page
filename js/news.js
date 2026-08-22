@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T23:29:22.939Z
+// Last updated: 2026-08-22T23:43:02.296Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狂徒夜襲泰國南部三府　縱火爆炸槍擊遍野　至少兩人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168092270956646400901543.png/C0rjGm-_yi_qfW5JnbYWZ9-MLS88bgvQJguTjyYLk48?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382722/%E7%8B%82%E5%BE%92%E5%A4%9C%E8%A5%B2%E6%B3%B0%E5%9C%8B%E5%8D%97%E9%83%A8%E4%B8%89%E5%BA%9C-%E7%B8%B1%E7%81%AB%E7%88%86%E7%82%B8%E6%A7%8D%E6%93%8A%E9%81%8D%E9%87%8E-%E8%87%B3%E5%B0%91%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-08-22T23:43:02.296Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "狂徒夜襲泰國南部三府　縱火爆炸槍擊遍野　至少兩人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1167993788895858688836129.jpeg/4dRb5u76Zxc2EIlJpB6u232dj5r3oKiJs3qkGrN6pBo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382706/25%E6%AD%B2%E6%B8%AF%E7%94%B7%E5%AD%90%E8%8B%B1%E5%9C%8B%E4%BD%8F%E6%89%80%E9%9B%A2%E4%B8%96-%E5%85%A5%E5%A2%83%E8%99%95%E6%8E%A5%E7%8D%B2%E6%B1%82%E5%8A%A9-%E5%B7%B2%E6%8C%89%E5%AE%B6%E5%B1%AC%E6%84%8F%E9%A1%98%E6%8F%90%E4%BE%9B%E5%8D%94%E5%8A%A9",
     "timestamp": "2026-08-22T16:45:57.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古天樂演唱會｜劉德華合唱《獨自去偷歡》義氣許諾：你嗌我就出現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1167989732009840640734098.jpeg/DiGnFwydE9vUd26sOKJPhmCZyHH9dYv6q2tOEp5rThI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60382704/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8A%89%E5%BE%B7%E8%8F%AF%E5%90%88%E5%94%B1-%E7%8D%A8%E8%87%AA%E5%8E%BB%E5%81%B7%E6%AD%A1-%E7%BE%A9%E6%B0%A3%E8%A8%B1%E8%AB%BE-%E4%BD%A0%E5%97%8C%E6%88%91%E5%B0%B1%E5%87%BA%E7%8F%BE",
-    "timestamp": "2026-08-22T16:29:50.159Z",
     "strategy": ".content-card__main"
   }
 ];
