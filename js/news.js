@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T00:54:09.935Z
+// Last updated: 2026-08-22T01:37:28.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美債保衛戰｜特朗普稱干預債市　是貝森特自己拿的主意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167415573638811648147689.jpeg/V3SN_kipqAKdCXsH3Ahe-uiUhtgqfZIvsum1VLLptVQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60382552/%E7%BE%8E%E5%82%B5%E4%BF%9D%E8%A1%9B%E6%88%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B9%B2%E9%A0%90%E5%82%B5%E5%B8%82-%E6%98%AF%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%87%AA%E5%B7%B1%E6%8B%BF%E7%9A%84%E4%B8%BB%E6%84%8F",
+    "timestamp": "2026-08-22T01:37:28.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞典高中持劍襲擊案　一死三傷　警方拘捕18歲男子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167646095442972672951247.png/At7hb6JuibbksSqzJZC859lZ1qex2VH2ScEgp0nBIKc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382531/%E5%B1%B1%E6%9D%B1%E8%87%A8%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%88%86%E7%82%B8-%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%AF-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-21T18:02:46.481Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山東臨沂一平房院落爆炸　致1死2失聯｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167646095442972672951247.png/At7hb6JuibbksSqzJZC859lZ1qex2VH2ScEgp0nBIKc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382531/%E5%B1%B1%E6%9D%B1%E8%87%A8%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%88%86%E7%82%B8-%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%AF-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-21T17:47:38.460Z",
     "strategy": ".content-card__main"
   }
 ];
