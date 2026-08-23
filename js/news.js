@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T21:29:33.451Z
+// Last updated: 2026-08-23T21:44:07.460Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗議會委員會通過草案條款　准向取道霍爾木茲海峽船隻收費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141026802504830976385049.jpeg/7MP8PfTHnShGgfNtXqunwQIRUDrWslOki98_3IvfP9w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382894/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E8%8D%89%E6%A1%88%E6%A2%9D%E6%AC%BE-%E5%87%86%E5%90%91%E5%8F%96%E9%81%93%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E9%9A%BB%E6%94%B6%E8%B2%BB",
+    "timestamp": "2026-08-23T21:44:07.460Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗議會委員會通過草案條款　准向取道霍爾木茲海峽船隻收費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168286180832186368034518.jpeg/VEtM0bjJ2xURvNrl1UH5poO4YdYc5IXIx0OMmcdDjJk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60382852/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%8C%A6%E8%B3%BD21%E6%AD%B2%E8%98%AD%E5%B0%BC%E4%BA%9E%E8%BC%95%E9%AC%86%E5%B0%81%E7%8E%8B-%E6%B3%95%E5%9C%8B%E9%80%A3%E8%B4%8F%E7%94%B7%E5%96%AE%E6%B7%B7%E9%9B%99%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D",
     "timestamp": "2026-08-23T15:29:35.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "僅華人可領免費珍奶　澳洲男批種族歧視　蜜雪急割席外賣平台澄清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167887127543812096261085.png/1SRtJfgPxxPU_IxVsdYGVSPY6faIjzrrNws9NTcLPTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381822/%E5%83%85%E8%8F%AF%E4%BA%BA%E5%8F%AF%E9%A0%98%E5%85%8D%E8%B2%BB%E7%8F%8D%E5%A5%B6-%E6%BE%B3%E6%B4%B2%E7%94%B7%E6%89%B9%E7%A8%AE%E6%97%8F%E6%AD%A7%E8%A6%96-%E8%9C%9C%E9%9B%AA%E6%80%A5%E5%89%B2%E5%B8%AD%E5%A4%96%E8%B3%A3%E5%B9%B3%E5%8F%B0%E6%BE%84%E6%B8%85",
-    "timestamp": "2026-08-23T15:11:43.226Z",
     "strategy": ".content-card__main"
   }
 ];
