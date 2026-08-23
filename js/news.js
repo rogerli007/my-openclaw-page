@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T05:16:10.448Z
+// Last updated: 2026-08-23T05:48:22.819Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湖南14歲少年惠州海邊智救溺水一家三口　獲官方評「見義勇為」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168180645399105536452087.png/ZVwjx2x4hDNlOaSCFcKHuVfa99bWFDUK1Sq_vtUqv74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382768/%E6%B9%96%E5%8D%9714%E6%AD%B2%E5%B0%91%E5%B9%B4%E6%83%A0%E5%B7%9E%E6%B5%B7%E9%82%8A%E6%99%BA%E6%95%91%E6%BA%BA%E6%B0%B4%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3-%E7%8D%B2%E5%AE%98%E6%96%B9%E8%A9%95-%E8%A6%8B%E7%BE%A9%E5%8B%87%E7%82%BA",
+    "timestamp": "2026-08-23T05:48:22.819Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佐敦大廈44歲尼泊爾籍男子梯間暈倒　送院搶救後不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168052649640071168103824.jpeg/zY-o30SkHFbigQ8PqQ1PlVOpR7vLw7ulZYURW1-FEVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382714/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9D%91%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E8%B7%8C%E8%90%BD%E5%B9%B3%E5%8F%B0%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-08-22T20:57:41.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜大坑男子墮樓　跌落平台當場死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168052649640071168103824.jpeg/zY-o30SkHFbigQ8PqQ1PlVOpR7vLw7ulZYURW1-FEVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382714/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9D%91%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E8%B7%8C%E8%90%BD%E5%B9%B3%E5%8F%B0%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-08-22T20:45:01.730Z",
     "strategy": ".content-card__main"
   }
 ];
