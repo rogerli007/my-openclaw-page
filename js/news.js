@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T14:29:47.873Z
+// Last updated: 2026-08-23T14:45:03.928Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4決賽｜冠軍尹景順起底曾深陷抑鬱：一日諗十幾次自殘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168325820205240320471905.jpeg/M0YexQtWVOZLr1Azd-cXQbBAH_7qPpF4yT4V0sk-FdI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382870/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD-%E5%86%A0%E8%BB%8D%E5%B0%B9%E6%99%AF%E9%A0%86%E8%B5%B7%E5%BA%95%E6%9B%BE%E6%B7%B1%E9%99%B7%E6%8A%91%E9%AC%B1-%E4%B8%80%E6%97%A5%E8%AB%97%E5%8D%81%E5%B9%BE%E6%AC%A1%E8%87%AA%E6%AE%98",
+    "timestamp": "2026-08-23T14:45:03.928Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張與辰首回應以蒼蠅Falala致敬張國榮風波：真係冇心詆毀哥哥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250424/992158821398876160451079.jpeg/iiM47aHVO5DYQVC3Ljx-cF74vLGn5ir64eErYOHhK2A",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382811/%E6%B3%B0%E5%BC%8F%E8%82%89%E7%A2%8E%E7%85%8E%E8%9B%8B%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E5%96%AE20%E5%88%86%E9%90%98%E5%AE%8C%E6%88%90-1%E6%8B%9B%E9%A6%99%E6%96%99%E5%A4%AA%E5%A4%9A%E9%83%BD%E5%94%94%E6%80%95",
     "timestamp": "2026-08-23T08:36:04.544Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公屋申請2026懶人包│入息資產限額調高！4類人優先上樓+富戶政策",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115232714614640640380261.jpeg/vSpmMkg0cN62ZYoVTZuKjPBbB7wZHOEVO-YeqjvmHqo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60335326/%E5%85%AC%E5%B1%8B%E7%94%B3%E8%AB%8B%E6%87%B6%E4%BA%BA%E5%8C%85-%E7%94%B3%E8%AB%8B%E8%B3%87%E6%A0%BC-%E5%85%A5%E6%81%AF%E9%99%90%E9%A1%8D-%E8%B3%87%E7%94%A2%E4%B8%8A%E9%99%90-%E5%AF%8C%E6%88%B6%E6%94%BF%E7%AD%96-%E5%84%AA%E5%85%88%E7%BE%A4%E7%B5%84",
-    "timestamp": "2026-08-23T08:16:29.400Z",
     "strategy": ".content-card__main"
   }
 ];
