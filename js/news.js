@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T03:28:32.700Z
+// Last updated: 2026-08-23T03:53:10.184Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三浦璃來木原龍一IG宣布訂婚　米蘭冬奧花式溜冰金牌組合CP成真",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168119693827903488350218.jpeg/3yAr2xa_U8iduolyORw-P_Xjip2-eo3jhE2y0oRNstI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60382726/%E4%B8%89%E6%B5%A6%E7%92%83%E4%BE%86%E6%9C%A8%E5%8E%9F%E9%BE%8D%E4%B8%80ig%E5%AE%A3%E5%B8%83%E8%A8%82%E5%A9%9A-%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7%E8%8A%B1%E5%BC%8F%E6%BA%9C%E5%86%B0%E9%87%91%E7%89%8C%E7%B5%84%E5%90%88cp%E6%88%90%E7%9C%9F",
+    "timestamp": "2026-08-23T03:53:10.184Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三旋共舞再現　｢紫檀｣逼近兩廣或引山泥傾瀉　「簡拉維」影響台灣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167768879414382592831076.jpeg/zYF8D3ih_gDploAb6P0xMfGyg8x3EJrXdUHeE3VB3hM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382712/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E6%92%9E%E9%96%8B2%E8%BB%8A%E7%96%91%E9%96%8B%E8%B7%AF-2%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-22T19:56:36.662Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜北大嶼山公路大塞車　車隊的士撞開2車疑開路　2人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167768879414382592831076.jpeg/zYF8D3ih_gDploAb6P0xMfGyg8x3EJrXdUHeE3VB3hM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382712/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E6%92%9E%E9%96%8B2%E8%BB%8A%E7%96%91%E9%96%8B%E8%B7%AF-2%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-08-22T19:45:12.089Z",
     "strategy": ".content-card__main"
   }
 ];
