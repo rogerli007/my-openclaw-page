@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T17:44:11.733Z
+// Last updated: 2026-08-23T17:56:36.652Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗革命衛隊稱已制定方案　應對美國經濟戰等各種敵對行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230929/784406292142755840257860.jpeg/YjIl7eYs6MYgyi-VhRvJVd7cVTiRFfRdsgCpjLIAqYw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382880/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%A8%B1%E5%B7%B2%E5%88%B6%E5%AE%9A%E6%96%B9%E6%A1%88-%E6%87%89%E5%B0%8D%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E6%88%B0%E7%AD%89%E5%90%84%E7%A8%AE%E6%95%B5%E5%B0%8D%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-08-23T17:56:36.652Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗革命衛隊稱已制定方案　應對美國經濟戰等各種敵對行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168241002180251648609587.jpeg/4WmAjKGTRWX2nDlnR8kG6rFCrjdTQgUONWWLmjVli5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382817/%E9%A3%9B%E8%B6%8A%E5%95%9F%E5%BE%B7100km-%E8%A6%AA%E5%AD%90%E7%9B%83%E5%90%B8%E5%BC%95%E4%B8%8D%E5%90%8C%E7%B5%84%E5%90%88-%E8%B6%85%E9%A6%AC%E8%B7%91%E6%89%8B%E6%94%9C%E5%85%92%E5%AD%90%E5%A5%AA%E5%86%A0",
     "timestamp": "2026-08-23T11:43:47.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4決賽丨啟德體藝館迎登峯之戰　七強選手猛人背景曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168208644412542976382061.jpeg/eUxWsmdcEz92yR2ZV72nWezeyzdMy-AFYGb1VGBm9VQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382783/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD-%E5%95%9F%E5%BE%B7%E9%AB%94%E8%97%9D%E9%A4%A8%E8%BF%8E%E7%99%BB%E5%B3%AF%E4%B9%8B%E6%88%B0-%E4%B8%83%E5%BC%B7%E9%81%B8%E6%89%8B%E7%8C%9B%E4%BA%BA%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-08-23T11:29:02.877Z",
     "strategy": ".content-card__main"
   }
 ];
