@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T11:13:29.820Z
+// Last updated: 2026-08-23T11:29:02.877Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4決賽丨啟德體藝館迎登峯之戰　七強選手猛人背景曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168208644412542976382061.jpeg/eUxWsmdcEz92yR2ZV72nWezeyzdMy-AFYGb1VGBm9VQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382783/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD-%E5%95%9F%E5%BE%B7%E9%AB%94%E8%97%9D%E9%A4%A8%E8%BF%8E%E7%99%BB%E5%B3%AF%E4%B9%8B%E6%88%B0-%E4%B8%83%E5%BC%B7%E9%81%B8%E6%89%8B%E7%8C%9B%E4%BA%BA%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-08-23T11:29:02.877Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地著名戰地記者唐師曾因病逝世　年僅65歲　與唐英年為遠房宗親",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167899785282195456042736.jpeg/TMiqympYFOLQQfd_k7R1Psb7_wDJl1fyqH1WZKh9VmQ",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382562/%E5%9F%8E%E5%B7%B4%E5%AE%A2%E8%A1%8C%E8%BB%8A%E6%9C%9F%E9%96%93%E6%94%9C%E8%A1%8C%E6%9D%8E%E7%AB%99%E4%B8%8A%E5%B1%A4%E9%80%9A%E9%81%93-%E7%B6%B2%E6%B0%91%E6%86%82%E5%A4%B1%E9%87%8D%E5%BF%83%E6%98%93%E7%BF%BB%E8%BB%8A-%E5%9F%8E%E5%B7%B4%E5%9B%9E%E6%87%89",
     "timestamp": "2026-08-23T04:20:48.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三浦璃來木原龍一IG宣布訂婚　米蘭冬奧花式溜冰金牌組合CP成真",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168119693827903488350218.jpeg/3yAr2xa_U8iduolyORw-P_Xjip2-eo3jhE2y0oRNstI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60382726/%E4%B8%89%E6%B5%A6%E7%92%83%E4%BE%86%E6%9C%A8%E5%8E%9F%E9%BE%8D%E4%B8%80ig%E5%AE%A3%E5%B8%83%E8%A8%82%E5%A9%9A-%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7%E8%8A%B1%E5%BC%8F%E6%BA%9C%E5%86%B0%E9%87%91%E7%89%8C%E7%B5%84%E5%90%88cp%E6%88%90%E7%9C%9F",
-    "timestamp": "2026-08-23T03:53:10.184Z",
     "strategy": ".content-card__main"
   }
 ];
