@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T04:50:43.070Z
+// Last updated: 2026-08-23T05:16:10.448Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佐敦大廈44歲尼泊爾籍男子梯間暈倒　送院搶救後不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250720/1023417354521939968129580.jpeg/R-549-Cfo5ENrb8aY3C4nW2omeCZUn0bgmXhWbhl4Vk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382765/%E4%BD%90%E6%95%A6%E5%A4%A7%E5%BB%8844%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%B1%8D%E7%94%B7%E5%AD%90%E6%A2%AF%E9%96%93%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-08-23T05:16:10.448Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅根被指密謀復出拍Netflix《瘋狂紳士幫》　英媒：計劃已被擱置",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168052649640071168103824.jpeg/zY-o30SkHFbigQ8PqQ1PlVOpR7vLw7ulZYURW1-FEVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382714/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9D%91%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E8%B7%8C%E8%90%BD%E5%B9%B3%E5%8F%B0%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-08-22T20:45:01.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣華醫院約束帶和床墊燒毀　火警有可疑　25歲男病人涉縱火被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168043283809570816502439.jpeg/0NvTxiU_Xbr9f-cEfnOSESpT7fbGeo7_1xf5J9cX-Sc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382713/%E5%BB%A3%E8%8F%AF%E9%86%AB%E9%99%A2%E7%B4%84%E6%9D%9F%E5%B8%B6%E5%92%8C%E5%BA%8A%E5%A2%8A%E7%87%92%E6%AF%80-%E7%81%AB%E8%AD%A6%E6%9C%89%E5%8F%AF%E7%96%91-25%E6%AD%B2%E7%94%B7%E7%97%85%E4%BA%BA%E6%B6%89%E7%B8%B1%E7%81%AB%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-22T20:29:35.047Z",
     "strategy": ".content-card__main"
   }
 ];
