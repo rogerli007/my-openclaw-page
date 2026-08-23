@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T05:48:22.819Z
+// Last updated: 2026-08-23T06:19:03.091Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片！佐敦女狗主任小狗過馬路中大便無清理　私家車主：沙板沾屎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168191889057255424238956.jpeg/zvo8IkdWU6pFkRO1ybtbseRkBodRekCMwB2PtMAdj7Q",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382740/%E6%9C%89%E7%89%87-%E4%BD%90%E6%95%A6%E7%8B%97%E4%B8%BB%E4%BB%BB%E5%B0%8F%E7%8B%97%E9%A6%AC%E8%B7%AF%E4%B8%AD%E5%BF%83%E5%A4%A7%E4%BE%BF-%E7%84%A1%E6%B8%85%E7%90%86%E5%8D%B3%E9%9B%A2%E5%8E%BB-%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%85%98%E6%B2%BE%E7%B3%9E",
+    "timestamp": "2026-08-23T06:19:03.091Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湖南14歲少年惠州海邊智救溺水一家三口　獲官方評「見義勇為」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168052649640071168103824.jpeg/zY-o30SkHFbigQ8PqQ1PlVOpR7vLw7ulZYURW1-FEVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382714/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9D%91%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E8%B7%8C%E8%90%BD%E5%B9%B3%E5%8F%B0%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-08-22T21:12:20.436Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜大坑男子墮樓　跌落平台當場死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168052649640071168103824.jpeg/zY-o30SkHFbigQ8PqQ1PlVOpR7vLw7ulZYURW1-FEVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382714/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9D%91%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E8%B7%8C%E8%90%BD%E5%B9%B3%E5%8F%B0%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-08-22T20:57:41.621Z",
     "strategy": ".content-card__main"
   }
 ];
