@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T20:10:33.723Z
+// Last updated: 2026-08-23T20:29:32.547Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "畿內亞堆填區垃圾山倒塌　至少30死22人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168407529718288384654792.jpeg/OSin7QVtNIJ5nqzkIgEO8PY78bL6FcjRx5oBrceaAa0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382889/%E7%95%BF%E5%85%A7%E4%BA%9E%E5%A0%86%E5%A1%AB%E5%8D%80%E5%9E%83%E5%9C%BE%E5%B1%B1%E5%80%92%E5%A1%8C-%E8%87%B3%E5%B0%9130%E6%AD%BB22%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-08-23T20:29:32.547Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "畿內亞堆填區垃圾山倒塌　至少30死22人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168325820205240320471905.jpeg/M0YexQtWVOZLr1Azd-cXQbBAH_7qPpF4yT4V0sk-FdI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382870/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD-%E5%86%A0%E8%BB%8D%E5%B0%B9%E6%99%AF%E9%A0%86%E8%B5%B7%E5%BA%95%E6%9B%BE%E6%B7%B1%E9%99%B7%E6%8A%91%E9%AC%B1-%E4%B8%80%E6%97%A5%E8%AB%97%E5%8D%81%E5%B9%BE%E6%AC%A1%E8%87%AA%E6%AE%98",
     "timestamp": "2026-08-23T14:45:03.928Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張與辰首回應以蒼蠅Falala致敬張國榮風波：真係冇心詆毀哥哥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168314924162617344126598.jpeg/MD69nNbaEqmn_LxyMSwuQ4F3oGniQA0p-u2Eh_rthIc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382864/%E5%BC%B5%E8%88%87%E8%BE%B0%E9%A6%96%E5%9B%9E%E6%87%89%E4%BB%A5%E8%92%BC%E8%A0%85falala%E8%87%B4%E6%95%AC%E5%BC%B5%E5%9C%8B%E6%A6%AE%E9%A2%A8%E6%B3%A2-%E7%9C%9F%E4%BF%82%E5%86%87%E5%BF%83%E8%A9%86%E6%AF%80%E5%93%A5%E5%93%A5",
-    "timestamp": "2026-08-23T14:29:47.873Z",
     "strategy": ".content-card__main"
   }
 ];
