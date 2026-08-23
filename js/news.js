@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T10:12:15.254Z
+// Last updated: 2026-08-23T10:29:48.742Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TIMA｜IVE仙氣現身劇透唱《ELEVEN》  MEOVV撒嬌派心電暈Fans",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168264020436717568941762.jpeg/sdzkZ2lKr3ucj11G1g608QGZi7MnaeJJLTHwNy0x8Dc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382831/tima-ive%E4%BB%99%E6%B0%A3%E7%8F%BE%E8%BA%AB%E5%8A%87%E9%80%8F%E5%94%B1-eleven-meovv%E6%92%92%E5%AC%8C%E6%B4%BE%E5%BF%83%E9%9B%BB%E6%9A%88fans",
+    "timestamp": "2026-08-23T10:29:48.742Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國家非遺「阿尺木刮」無樂器伴奏領唱踏歌　源於山羊引路恩情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168069472326520832168093.jpeg/1-Ah4lWGrFzrUWleSxZPfZucobzqhP8RAkZG_QJGRv0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60382709/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%BC%94%E5%94%B1%E6%9C%83-%E5%A3%93%E8%BB%B8%E5%94%B1-%E9%A2%A8%E5%86%8D%E8%B5%B7%E6%99%82-%E5%93%A5%E5%93%A5%E5%96%BA%E6%88%91%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%A5%BD%E7%B7%8A%E8%A6%81",
     "timestamp": "2026-08-23T01:37:31.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家｜入屋小生無緣新劇驚失業　重返《流行都市》：驚中年危機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167894830777372672506438.jpeg/1a_rz5InZV2exA8DApPBeeMlrC94NykkGAj7vBgI-7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381226/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%84%A6%E6%B5%A9%E8%BB%92%E7%84%A1%E7%B7%A3%E6%96%B0%E5%8A%87%E9%A9%9A%E5%A4%B1%E6%A5%AD-%E9%87%8D%E8%BF%94-%E6%B5%81%E8%A1%8C%E9%83%BD%E5%B8%82-%E5%A5%BD%E9%A9%9A%E4%B8%AD%E5%B9%B4%E5%8D%B1%E6%A9%9F",
-    "timestamp": "2026-08-23T00:54:47.748Z",
     "strategy": ".content-card__main"
   }
 ];
