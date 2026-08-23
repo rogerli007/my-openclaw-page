@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T14:45:03.928Z
+// Last updated: 2026-08-23T14:57:46.322Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北海道對出海域6.0級地震　縱橫遊4團處當地　導遊指札幌沒震感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260209/1097514605615386624186075.jpeg/UobF2IsFOehKB2iRZnuDI1RnIi2QcYS_awYyeGsGMng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382869/%E5%8C%97%E6%B5%B7%E9%81%93%E5%B0%8D%E5%87%BA%E6%B5%B7%E5%9F%9F6-0%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%B8%B1%E6%A9%AB%E9%81%8A4%E5%9C%98%E8%99%95%E7%95%B6%E5%9C%B0-%E5%B0%8E%E9%81%8A%E6%8C%87%E6%9C%AD%E5%B9%8C%E6%B2%92%E9%9C%87%E6%84%9F",
+    "timestamp": "2026-08-23T14:57:46.322Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4決賽｜冠軍尹景順起底曾深陷抑鬱：一日諗十幾次自殘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168215969856753664456729.jpeg/k4-1y7djCRo1PXHCoFBC757CtXYNyf31AhT_gQIU_4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382791/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD-%E8%B3%BD%E5%88%B6%E5%8F%8A%E6%AD%8C%E5%96%AE%E7%B5%82%E6%A5%B5%E6%9B%9D%E5%85%89-%E6%9C%80%E5%BE%8C3%E5%BC%B7-%E5%BF%85%E6%AE%BA%E6%AD%8C-%E7%88%AD%E5%86%A0%E8%BB%8D",
     "timestamp": "2026-08-23T08:50:35.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰式肉碎煎蛋飯食譜｜做法簡單20分鐘完成、1招香料太多都唔怕！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250424/992158821398876160451079.jpeg/iiM47aHVO5DYQVC3Ljx-cF74vLGn5ir64eErYOHhK2A",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382811/%E6%B3%B0%E5%BC%8F%E8%82%89%E7%A2%8E%E7%85%8E%E8%9B%8B%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E5%96%AE20%E5%88%86%E9%90%98%E5%AE%8C%E6%88%90-1%E6%8B%9B%E9%A6%99%E6%96%99%E5%A4%AA%E5%A4%9A%E9%83%BD%E5%94%94%E6%80%95",
-    "timestamp": "2026-08-23T08:36:04.544Z",
     "strategy": ".content-card__main"
   }
 ];
