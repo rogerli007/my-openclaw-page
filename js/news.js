@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T07:07:05.946Z
+// Last updated: 2026-08-23T07:31:30.650Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仔大道城巴與貨車相撞　4人輕傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168217396343738368365241.jpeg/FZ6uAkexw40tgFZmTSqzpRbP3JgdIGTzjCVDUYwlQ1E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382786/%E9%A6%99%E6%B8%AF%E4%BB%94%E5%A4%A7%E9%81%93%E5%9F%8E%E5%B7%B4%E8%88%87%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-4%E4%BA%BA%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-08-23T07:31:30.650Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥｜59歲婦女靠睡前運動狂減7kg！3招核心訓練輕鬆瘦肚腩瘦腿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168073490419421184207395.jpeg/0HAfrUj6C97yX2XFlgdk9dkdIFU37jU0Of3P2zn9z9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382720/%E7%B4%85%E7%A3%A1%E4%BD%8F%E5%AE%85%E5%A4%A7%E5%BB%88%E7%A7%81%E4%BA%BA%E4%BE%9B%E6%B0%B4%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%93%A1%E6%90%B6%E4%BF%AE-%E6%B0%B4%E5%8B%99%E7%BD%B2%E8%A8%AD%E6%B0%B4%E8%BB%8A%E6%B0%B4%E7%AE%B1",
     "timestamp": "2026-08-22T22:13:33.780Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土耳其商船黑海遇襲　無人機連續襲擊致1死8傷｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168062328894132224479601.jpeg/Ls1kBwW1coZD4e0EE-1HNoE7B9boB6bbBpp29QaadvU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382716/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%95%86%E8%88%B9%E9%BB%91%E6%B5%B7%E9%81%87%E8%A5%B2-%E7%84%A1%E4%BA%BA%E6%A9%9F%E9%80%A3%E7%BA%8C%E8%A5%B2%E6%93%8A%E8%87%B41%E6%AD%BB8%E5%82%B7-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-22T21:57:11.537Z",
     "strategy": ".content-card__main"
   }
 ];
