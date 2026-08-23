@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T16:11:03.578Z
+// Last updated: 2026-08-23T16:59:51.907Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "水泉澳邨單位遭爆竊　住戶失逾20萬現金、珠寶金器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382878/%E6%B0%B4%E6%B3%89%E6%BE%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E4%BD%8F%E6%88%B6%E5%A4%B1%E9%80%BE20%E8%90%AC%E7%8F%BE%E9%87%91-%E7%8F%A0%E5%AF%B6%E9%87%91%E5%99%A8",
+    "timestamp": "2026-08-23T16:59:51.907Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "空槍丨綁架富豪兒子只為天價贖金　朱一龍梁家輝精彩對手戲獲讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168265844078153728734190.jpeg/vFG8PsORsmVEgIdhl2N5anRR7FKPIcLIppCNzKaQjcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382838/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD%E7%B4%85%E5%9C%B0%E6%B0%88-%E5%85%A8%E5%A0%B4%E7%84%A6%E9%BB%9E%E8%A2%AB%E6%90%B6%E8%B5%B0-%E9%9B%BB%E5%8F%B0%E9%AB%98%E5%B1%A4%E8%80%81%E5%A9%86%E9%96%83%E4%BA%AE%E7%8F%BE%E8%BA%AB",
     "timestamp": "2026-08-23T10:45:02.473Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TIMA｜IVE仙氣現身劇透唱《ELEVEN》  MEOVV撒嬌派心電暈Fans",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168264020436717568941762.jpeg/sdzkZ2lKr3ucj11G1g608QGZi7MnaeJJLTHwNy0x8Dc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382831/tima-ive%E4%BB%99%E6%B0%A3%E7%8F%BE%E8%BA%AB%E5%8A%87%E9%80%8F%E5%94%B1-eleven-meovv%E6%92%92%E5%AC%8C%E6%B4%BE%E5%BF%83%E9%9B%BB%E6%9A%88fans",
-    "timestamp": "2026-08-23T10:29:48.742Z",
     "strategy": ".content-card__main"
   }
 ];
