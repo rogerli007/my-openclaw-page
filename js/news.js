@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T23:43:04.086Z
+// Last updated: 2026-08-23T23:56:30.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美加貿易戰｜特朗普犯上跟伊朗戰爭一樣的錯誤？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168387378990026752159238.png/cXNSVr4ytrljriFkGcE3uEpM9lBOAoZ6CIyjrgiMo64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60382884/%E7%BE%8E%E5%8A%A0%E8%B2%BF%E6%98%93%E6%88%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%AF%E4%B8%8A%E8%B7%9F%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%B8%80%E6%A8%A3%E7%9A%84%E9%8C%AF%E8%AA%A4",
+    "timestamp": "2026-08-23T23:56:30.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美加貿易戰｜特朗普犯上跟伊朗戰爭一樣的錯誤？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230929/784406292142755840257860.jpeg/YjIl7eYs6MYgyi-VhRvJVd7cVTiRFfRdsgCpjLIAqYw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382880/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%A8%B1%E5%B7%B2%E5%88%B6%E5%AE%9A%E6%96%B9%E6%A1%88-%E6%87%89%E5%B0%8D%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E6%88%B0%E7%AD%89%E5%90%84%E7%A8%AE%E6%95%B5%E5%B0%8D%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-08-23T17:56:36.652Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗革命衛隊稱已制定方案　應對美國經濟戰等各種敵對行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230929/784406292142755840257860.jpeg/YjIl7eYs6MYgyi-VhRvJVd7cVTiRFfRdsgCpjLIAqYw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382880/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%A8%B1%E5%B7%B2%E5%88%B6%E5%AE%9A%E6%96%B9%E6%A1%88-%E6%87%89%E5%B0%8D%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E6%88%B0%E7%AD%89%E5%90%84%E7%A8%AE%E6%95%B5%E5%B0%8D%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-08-23T17:44:11.733Z",
     "strategy": ".content-card__main"
   }
 ];
