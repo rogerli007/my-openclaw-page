@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T19:55:46.442Z
+// Last updated: 2026-08-23T20:10:33.723Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "畿內亞堆填區垃圾山倒塌　至少30死22人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168407529718288384654792.jpeg/OSin7QVtNIJ5nqzkIgEO8PY78bL6FcjRx5oBrceaAa0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382889/%E7%95%BF%E5%85%A7%E4%BA%9E%E5%A0%86%E5%A1%AB%E5%8D%80%E5%9E%83%E5%9C%BE%E5%B1%B1%E5%80%92%E5%A1%8C-%E8%87%B3%E5%B0%9130%E6%AD%BB22%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-08-23T20:10:33.723Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海兒否認暫別幕前   工作排到明年一月：要揾多啲錢實現夢想",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168314924162617344126598.jpeg/MD69nNbaEqmn_LxyMSwuQ4F3oGniQA0p-u2Eh_rthIc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382864/%E5%BC%B5%E8%88%87%E8%BE%B0%E9%A6%96%E5%9B%9E%E6%87%89%E4%BB%A5%E8%92%BC%E8%A0%85falala%E8%87%B4%E6%95%AC%E5%BC%B5%E5%9C%8B%E6%A6%AE%E9%A2%A8%E6%B3%A2-%E7%9C%9F%E4%BF%82%E5%86%87%E5%BF%83%E8%A9%86%E6%AF%80%E5%93%A5%E5%93%A5",
     "timestamp": "2026-08-23T14:29:47.873Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中聲4決賽｜吳亦偉跳唱《皮囊》　巫啟賢語出驚人：MJ唱都要對嘴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168317716847661056681709.jpeg/ssdSML5lRN7Fw4Ibzu40fqunFBs0nTxZccwJ-XHMCfk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382868/%E4%B8%AD%E8%81%B24%E6%B1%BA%E8%B3%BD-%E5%90%B3%E4%BA%A6%E5%81%89%E8%B7%B3%E5%94%B1-%E7%9A%AE%E5%9B%8A-%E5%B7%AB%E5%95%9F%E8%B3%A2%E8%AA%9E%E5%87%BA%E9%A9%9A%E4%BA%BA-mj%E5%94%B1%E9%83%BD%E8%A6%81%E5%B0%8D%E5%98%B4",
-    "timestamp": "2026-08-23T14:13:15.055Z",
     "strategy": ".content-card__main"
   }
 ];
