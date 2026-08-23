@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T04:20:48.755Z
+// Last updated: 2026-08-23T04:50:43.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅根被指密謀復出拍Netflix《瘋狂紳士幫》　英媒：計劃已被擱置",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168177530448908288824371.jpeg/VVEBADdf3RcQgS85LhtpvmGdEd-vS9WVaEfLHmhHyx4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382763/%E6%A2%85%E6%A0%B9%E8%A2%AB%E6%8C%87%E5%AF%86%E8%AC%80%E5%BE%A9%E5%87%BA%E6%8B%8Dnetflix-%E7%98%8B%E7%8B%82%E7%B4%B3%E5%A3%AB%E5%B9%AB-%E8%8B%B1%E5%AA%92-%E8%A8%88%E5%8A%83%E5%B7%B2%E8%A2%AB%E6%93%B1%E7%BD%AE",
+    "timestamp": "2026-08-23T04:50:43.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "城巴客行車期間攜行李站上層通道！網民憂失重心易翻車　城巴回應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168043283809570816502439.jpeg/0NvTxiU_Xbr9f-cEfnOSESpT7fbGeo7_1xf5J9cX-Sc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382713/%E5%BB%A3%E8%8F%AF%E9%86%AB%E9%99%A2%E7%B4%84%E6%9D%9F%E5%B8%B6%E5%92%8C%E5%BA%8A%E5%A2%8A%E7%87%92%E6%AF%80-%E7%81%AB%E8%AD%A6%E6%9C%89%E5%8F%AF%E7%96%91-25%E6%AD%B2%E7%94%B7%E7%97%85%E4%BA%BA%E6%B6%89%E7%B8%B1%E7%81%AB%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-22T20:29:35.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜北大嶼山公路大塞車　車隊的士撞開2車疑開路　2人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168045732528132096206843.jpeg/Fi68-g2LTGop3aj5vEXtF-4x2u-5Dzw4X4SefF-Ennw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382712/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E6%92%9E%E9%96%8B2%E8%BB%8A%E7%96%91%E9%96%8B%E8%B7%AF-2%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-08-22T20:10:44.123Z",
     "strategy": ".content-card__main"
   }
 ];
