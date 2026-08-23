@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T18:31:18.434Z
+// Last updated: 2026-08-23T18:49:09.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌邨老翁墮樓亡　警調查揭一女子伏屍單位內　身上有利器傷痕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168384897396510720576841.jpeg/dj8J0AlPP03ueMT1MUblL2bNxVtOvsGgSDGS1WIxktU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382883/%E8%91%B5%E6%B6%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%8F%AD%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BC%8F%E5%B1%8D%E5%96%AE%E4%BD%8D%E5%85%A7-%E8%BA%AB%E4%B8%8A%E6%9C%89%E5%88%A9%E5%99%A8%E5%82%B7%E7%97%95",
+    "timestamp": "2026-08-23T18:49:09.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌邨老翁墮樓亡　警調查揭一女子伏屍單位內",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160925300557615104189074.jpeg/FxCwLQdMo4mRiiP1LuR3F07QzFOh284WDMsyHQzLMh0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382842/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%86%E4%BA%AB%E5%AE%98%E9%82%B8%E9%A9%9A%E9%81%87%E8%9F%91%E8%9E%82%E8%BB%BC%E4%BA%8B%E9%81%AD%E8%BD%9F-%E7%B6%B2%E6%B0%91%E5%98%B2-%E7%84%A1%E8%A6%96%E6%B0%91%E7%94%9F%E5%9B%B0%E8%8B%A6",
     "timestamp": "2026-08-23T12:54:38.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "毛骨悚然的戀愛線上看結局劇情｜Netflix更新時間+演員陣容簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156663709049819136254976.jpeg/GXB679htlTwZ9RAkYnVW7-leW9yIqQDwM3Ft6jNxbeo",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372651/%E6%AF%9B%E9%AA%A8%E6%82%9A%E7%84%B6%E7%9A%84%E6%88%80%E6%84%9B%E7%B7%9A%E4%B8%8A%E7%9C%8B%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-netflix%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%99%A3%E5%AE%B9%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-08-23T12:13:28.234Z",
     "strategy": ".content-card__main"
   }
 ];
