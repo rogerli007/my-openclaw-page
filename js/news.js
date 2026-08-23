@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T17:12:13.511Z
+// Last updated: 2026-08-23T17:29:00.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "水泉澳邨單位遭爆竊　住戶失逾20萬現金、珠寶金器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382878/%E6%B0%B4%E6%B3%89%E6%BE%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E4%BD%8F%E6%88%B6%E5%A4%B1%E9%80%BE20%E8%90%AC%E7%8F%BE%E9%87%91-%E7%8F%A0%E5%AF%B6%E9%87%91%E5%99%A8",
+    "timestamp": "2026-08-23T17:29:00.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "水泉澳邨單位遭爆竊　住戶失逾20萬現金、珠寶金器",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168263446110670848832695.png/TK2NCUvzgqtr6u2J9WDKe735AAFt898wUj_De1I_w3s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382837/%E5%85%A7%E5%9C%B0%E8%91%97%E5%90%8D%E6%88%B0%E5%9C%B0%E8%A8%98%E8%80%85%E5%94%90%E5%B8%AB%E6%9B%BE%E5%9B%A0%E7%97%85%E9%80%9D%E4%B8%96-%E5%B9%B4%E5%83%8565%E6%AD%B2-%E8%88%87%E5%94%90%E8%8B%B1%E5%B9%B4%E7%82%BA%E9%81%A0%E6%88%BF%E5%AE%97%E8%A6%AA",
     "timestamp": "2026-08-23T11:13:29.820Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4決賽紅地氈｜全場焦點被搶走　電台高層老婆閃亮現身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168265844078153728734190.jpeg/vFG8PsORsmVEgIdhl2N5anRR7FKPIcLIppCNzKaQjcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382838/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD%E7%B4%85%E5%9C%B0%E6%B0%88-%E5%85%A8%E5%A0%B4%E7%84%A6%E9%BB%9E%E8%A2%AB%E6%90%B6%E8%B5%B0-%E9%9B%BB%E5%8F%B0%E9%AB%98%E5%B1%A4%E8%80%81%E5%A9%86%E9%96%83%E4%BA%AE%E7%8F%BE%E8%BA%AB",
-    "timestamp": "2026-08-23T11:02:07.919Z",
     "strategy": ".content-card__main"
   }
 ];
