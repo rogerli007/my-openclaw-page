@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T15:29:35.786Z
+// Last updated: 2026-08-23T15:43:55.262Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "多摩川殺人事件｜河上飄浮行李箱竟藏男屍　前女友一家揭恐怖內情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166353801666367488209738.jpeg/PFS0QleNlOPzKtRsjR6D4ne83CcF8_V5UKuzW1Crs1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60299394/%E5%A4%9A%E6%91%A9%E5%B7%9D%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-%E6%B2%B3%E4%B8%8A%E9%A3%84%E6%B5%AE%E8%A1%8C%E6%9D%8E%E7%AE%B1%E7%AB%9F%E8%97%8F%E7%94%B7%E5%B1%8D-%E5%89%8D%E5%A5%B3%E5%8F%8B%E4%B8%80%E5%AE%B6%E6%8F%AD%E6%81%90%E6%80%96%E5%85%A7%E6%83%85",
+    "timestamp": "2026-08-23T15:43:55.262Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球世錦賽21歲蘭尼亞輕鬆封王　法國連贏男單混雙世界冠軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168244536703455232419875.png/zihsOsAu6e1WpHNvAd5eNNTTY6Qoo3pr2FropOJa6KQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60382788/%E5%9C%8B%E5%AE%B6%E9%9D%9E%E9%81%BA-%E9%98%BF%E5%B0%BA%E6%9C%A8%E5%88%AE-%E7%84%A1%E6%A8%82%E5%99%A8%E4%BC%B4%E5%A5%8F%E9%A0%98%E5%94%B1%E8%B8%8F%E6%AD%8C-%E6%BA%90%E6%96%BC%E5%B1%B1%E7%BE%8A%E5%BC%95%E8%B7%AF%E6%81%A9%E6%83%85",
     "timestamp": "2026-08-23T10:12:15.254Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4決賽紅地氈｜曾志偉率歷屆參賽者入場 支嚳儀低胸搶鏡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168254705864806400049278.jpeg/LZNxJm53tJDRWIRe9WyUYyTtbvtOA1UKFmMjexZjI3s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382830/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD%E7%B4%85%E5%9C%B0%E6%B0%88-%E6%9B%BE%E5%BF%97%E5%81%89%E7%8E%87%E6%AD%B7%E5%B1%86%E5%8F%83%E8%B3%BD%E8%80%85%E5%85%A5%E5%A0%B4-%E6%94%AF%E5%9A%B3%E5%84%80%E4%BD%8E%E8%83%B8%E6%90%B6%E9%8F%A1",
-    "timestamp": "2026-08-23T09:59:02.421Z",
     "strategy": ".content-card__main"
   }
 ];
