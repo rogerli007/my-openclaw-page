@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T11:43:47.193Z
+// Last updated: 2026-08-23T11:56:46.005Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柴灣道45歲男子家中暈倒猝逝　母親揭發惜已太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168282518663729152617583.png/O6JgGcZr2tMdEgAkQe2TitqkPEVkd6wJvfFEOr3xRDo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382849/%E6%9F%B4%E7%81%A3%E9%81%9345%E6%AD%B2%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92%E7%8C%9D%E9%80%9D-%E6%AF%8D%E8%A6%AA%E6%8F%AD%E7%99%BC%E6%83%9C%E5%B7%B2%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-08-23T11:56:46.005Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飛越啟德100KM｜親子盃吸引不同組合　超馬跑手攜兒子奪冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250720/1023417354521939968129580.jpeg/R-549-Cfo5ENrb8aY3C4nW2omeCZUn0bgmXhWbhl4Vk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382765/%E4%BD%90%E6%95%A6%E5%A4%A7%E5%BB%8844%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%B1%8D%E7%94%B7%E5%AD%90%E6%A2%AF%E9%96%93%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-08-23T05:16:10.448Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅根被指密謀復出拍Netflix《瘋狂紳士幫》　英媒：計劃已被擱置",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168177530448908288824371.jpeg/VVEBADdf3RcQgS85LhtpvmGdEd-vS9WVaEfLHmhHyx4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382763/%E6%A2%85%E6%A0%B9%E8%A2%AB%E6%8C%87%E5%AF%86%E8%AC%80%E5%BE%A9%E5%87%BA%E6%8B%8Dnetflix-%E7%98%8B%E7%8B%82%E7%B4%B3%E5%A3%AB%E5%B9%AB-%E8%8B%B1%E5%AA%92-%E8%A8%88%E5%8A%83%E5%B7%B2%E8%A2%AB%E6%93%B1%E7%BD%AE",
-    "timestamp": "2026-08-23T04:50:43.070Z",
     "strategy": ".content-card__main"
   }
 ];
