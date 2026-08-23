@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T17:56:36.652Z
+// Last updated: 2026-08-23T18:11:54.956Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌邨老翁墮樓亡　警調查揭一女子伏屍單位內",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167791828250923008985273.jpeg/qa3uf0m_otcoI11419JtVSKyhTEsobQtE-9ygxPvcoM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382883/%E8%91%B5%E6%B6%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%8F%AD%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BC%8F%E5%B1%8D%E5%96%AE%E4%BD%8D%E5%85%A7",
+    "timestamp": "2026-08-23T18:11:54.956Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗革命衛隊稱已制定方案　應對美國經濟戰等各種敵對行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168282518663729152617583.png/O6JgGcZr2tMdEgAkQe2TitqkPEVkd6wJvfFEOr3xRDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382849/%E6%9F%B4%E7%81%A3%E9%81%9345%E6%AD%B2%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92%E7%8C%9D%E9%80%9D-%E6%AF%8D%E8%A6%AA%E6%8F%AD%E7%99%BC%E6%83%9C%E5%B7%B2%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-08-23T11:56:46.005Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飛越啟德100KM｜親子盃吸引不同組合　超馬跑手攜兒子奪冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168241002180251648609587.jpeg/4WmAjKGTRWX2nDlnR8kG6rFCrjdTQgUONWWLmjVli5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382817/%E9%A3%9B%E8%B6%8A%E5%95%9F%E5%BE%B7100km-%E8%A6%AA%E5%AD%90%E7%9B%83%E5%90%B8%E5%BC%95%E4%B8%8D%E5%90%8C%E7%B5%84%E5%90%88-%E8%B6%85%E9%A6%AC%E8%B7%91%E6%89%8B%E6%94%9C%E5%85%92%E5%AD%90%E5%A5%AA%E5%86%A0",
-    "timestamp": "2026-08-23T11:43:47.193Z",
     "strategy": ".content-card__main"
   }
 ];
