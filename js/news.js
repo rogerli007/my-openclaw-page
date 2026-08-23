@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T22:44:00.855Z
+// Last updated: 2026-08-23T22:57:46.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日驟雨逐漸增多及有雷暴　最高32度　明後日或掛風球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168442454358102016135298.jpeg/neZcRVvbNaJ1AZseh19671MW89DenFnC9xG4evcRuHo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382879/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%A9%9F%E9%9B%A8%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%9832%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%88%96%E6%8E%9B%E9%A2%A8%E7%90%83",
+    "timestamp": "2026-08-23T22:57:46.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日驟雨逐漸增多及有雷暴　最高32度　明後日或掛風球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382878/%E6%B0%B4%E6%B3%89%E6%BE%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E4%BD%8F%E6%88%B6%E5%A4%B1%E9%80%BE20%E8%90%AC%E7%8F%BE%E9%87%91-%E7%8F%A0%E5%AF%B6%E9%87%91%E5%99%A8",
     "timestamp": "2026-08-23T17:29:00.449Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "水泉澳邨單位遭爆竊　住戶失逾20萬現金、珠寶金器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382878/%E6%B0%B4%E6%B3%89%E6%BE%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E4%BD%8F%E6%88%B6%E5%A4%B1%E9%80%BE20%E8%90%AC%E7%8F%BE%E9%87%91-%E7%8F%A0%E5%AF%B6%E9%87%91%E5%99%A8",
-    "timestamp": "2026-08-23T17:12:13.511Z",
     "strategy": ".content-card__main"
   }
 ];
