@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T19:03:50.673Z
+// Last updated: 2026-08-23T19:16:19.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國首都街頭變賽車場　特朗普出席為建國250周年慶祝畫上句號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168392629239418880235791.jpeg/7eyiYdfhOW6Rgg4zNb3gHDcir5O8Vov6Fo-b2xaPm9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382886/%E7%BE%8E%E5%9C%8B%E9%A6%96%E9%83%BD%E8%A1%97%E9%A0%AD%E8%AE%8A%E8%B3%BD%E8%BB%8A%E5%A0%B4-%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E7%82%BA%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4%E6%85%B6%E7%A5%9D%E7%95%AB%E4%B8%8A%E5%8F%A5%E8%99%9F",
+    "timestamp": "2026-08-23T19:16:19.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌邨老翁墮樓亡　警調查揭一女子伏屍單位內　身上有利器傷痕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240919/913441859240464384854267.jpeg/1hU3ruAPzBr-s97nQAaG3mKikirb6Z_-tPOQ07TzkNM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382848/%E5%BE%B7%E5%9C%8B%E5%B0%87%E6%96%A5%E9%80%BE%E5%8D%83%E5%84%84%E5%BB%BA%E6%96%B0%E9%81%A0%E7%A8%8B%E6%AD%A6%E5%99%A8%E5%BA%AB%E5%88%B6%E4%BF%84-%E5%8F%AF%E6%89%93%E6%93%8A%E6%95%B8%E5%8D%83%E5%85%AC%E9%87%8C%E5%A4%96%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-08-23T13:47:19.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾志偉嘆《狩謊》衛詩雅受傷無可避免：冇人諗到會受傷同咁嚴重",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168300272582135808804629.jpeg/phs7lghi6X4EGGloKMJM6dtwD1GihvwXUVx_SVFcf0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382857/%E6%9B%BE%E5%BF%97%E5%81%89%E5%98%86-%E7%8B%A9%E8%AC%8A-%E8%A1%9B%E8%A9%A9%E9%9B%85%E5%8F%97%E5%82%B7%E7%84%A1%E5%8F%AF%E9%81%BF%E5%85%8D-%E5%86%87%E4%BA%BA%E8%AB%97%E5%88%B0%E6%9C%83%E5%8F%97%E5%82%B7%E5%90%8C%E5%92%81%E5%9A%B4%E9%87%8D",
-    "timestamp": "2026-08-23T13:20:36.873Z",
     "strategy": ".content-card__main"
   }
 ];
