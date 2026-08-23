@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T14:13:15.055Z
+// Last updated: 2026-08-23T14:29:47.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張與辰首回應以蒼蠅Falala致敬張國榮風波：真係冇心詆毀哥哥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168314924162617344126598.jpeg/MD69nNbaEqmn_LxyMSwuQ4F3oGniQA0p-u2Eh_rthIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382864/%E5%BC%B5%E8%88%87%E8%BE%B0%E9%A6%96%E5%9B%9E%E6%87%89%E4%BB%A5%E8%92%BC%E8%A0%85falala%E8%87%B4%E6%95%AC%E5%BC%B5%E5%9C%8B%E6%A6%AE%E9%A2%A8%E6%B3%A2-%E7%9C%9F%E4%BF%82%E5%86%87%E5%BF%83%E8%A9%86%E6%AF%80%E5%93%A5%E5%93%A5",
+    "timestamp": "2026-08-23T14:29:47.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中聲4決賽｜吳亦偉跳唱《皮囊》　巫啟賢語出驚人：MJ唱都要對嘴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260330/1115232714614640640380261.jpeg/vSpmMkg0cN62ZYoVTZuKjPBbB7wZHOEVO-YeqjvmHqo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60335326/%E5%85%AC%E5%B1%8B%E7%94%B3%E8%AB%8B%E6%87%B6%E4%BA%BA%E5%8C%85-%E7%94%B3%E8%AB%8B%E8%B3%87%E6%A0%BC-%E5%85%A5%E6%81%AF%E9%99%90%E9%A1%8D-%E8%B3%87%E7%94%A2%E4%B8%8A%E9%99%90-%E5%AF%8C%E6%88%B6%E6%94%BF%E7%AD%96-%E5%84%AA%E5%85%88%E7%BE%A4%E7%B5%84",
     "timestamp": "2026-08-23T08:16:29.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男團LOONG9突宣布解散　成立後多紛爭冼靖峰、文佐匡等純「掛名」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240612/877703692634034176950413.jpeg/w3VCDvcsGuGoz1am6AjoobiCDaIGnxvAm6xbFKGsWxQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382795/%E7%94%B7%E5%9C%98loong9%E7%AA%81%E5%AE%A3%E5%B8%83%E8%A7%A3%E6%95%A3-%E6%88%90%E7%AB%8B%E5%BE%8C%E5%A4%9A%E7%B4%9B%E7%88%AD%E5%86%BC%E9%9D%96%E5%B3%B0-%E6%96%87%E4%BD%90%E5%8C%A1%E7%AD%89%E7%B4%94-%E6%8E%9B%E5%90%8D",
-    "timestamp": "2026-08-23T07:49:28.803Z",
     "strategy": ".content-card__main"
   }
 ];
