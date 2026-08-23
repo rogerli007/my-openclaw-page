@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T11:02:07.919Z
+// Last updated: 2026-08-23T11:13:29.820Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地著名戰地記者唐師曾因病逝世　年僅65歲　與唐英年為遠房宗親",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168263446110670848832695.png/TK2NCUvzgqtr6u2J9WDKe735AAFt898wUj_De1I_w3s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382837/%E5%85%A7%E5%9C%B0%E8%91%97%E5%90%8D%E6%88%B0%E5%9C%B0%E8%A8%98%E8%80%85%E5%94%90%E5%B8%AB%E6%9B%BE%E5%9B%A0%E7%97%85%E9%80%9D%E4%B8%96-%E5%B9%B4%E5%83%8565%E6%AD%B2-%E8%88%87%E5%94%90%E8%8B%B1%E5%B9%B4%E7%82%BA%E9%81%A0%E6%88%BF%E5%AE%97%E8%A6%AA",
+    "timestamp": "2026-08-23T11:13:29.820Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4決賽紅地氈｜全場焦點被搶走　電台高層老婆閃亮現身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168119693827903488350218.jpeg/3yAr2xa_U8iduolyORw-P_Xjip2-eo3jhE2y0oRNstI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60382726/%E4%B8%89%E6%B5%A6%E7%92%83%E4%BE%86%E6%9C%A8%E5%8E%9F%E9%BE%8D%E4%B8%80ig%E5%AE%A3%E5%B8%83%E8%A8%82%E5%A9%9A-%E7%B1%B3%E8%98%AD%E5%86%AC%E5%A5%A7%E8%8A%B1%E5%BC%8F%E6%BA%9C%E5%86%B0%E9%87%91%E7%89%8C%E7%B5%84%E5%90%88cp%E6%88%90%E7%9C%9F",
     "timestamp": "2026-08-23T03:53:10.184Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三旋共舞再現　｢紫檀｣逼近兩廣或引山泥傾瀉　「簡拉維」影響台灣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168154742782693376715329.png/3qHDYByBzQcwhb8AwzINpqpryoaCrsWZE2voTRNr6E0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382742/%E4%B8%89%E6%97%8B%E5%85%B1%E8%88%9E%E5%86%8D%E7%8F%BE-%E7%B4%AB%E6%AA%80-%E9%80%BC%E8%BF%91%E5%85%A9%E5%BB%A3%E6%88%96%E5%BC%95%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89-%E7%B0%A1%E6%8B%89%E7%B6%AD-%E5%BD%B1%E9%9F%BF%E5%8F%B0%E7%81%A3",
-    "timestamp": "2026-08-23T03:28:32.700Z",
     "strategy": ".content-card__main"
   }
 ];
