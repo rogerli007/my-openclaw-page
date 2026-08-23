@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T14:57:46.322Z
+// Last updated: 2026-08-23T15:11:43.226Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "僅華人可領免費珍奶　澳洲男批種族歧視　蜜雪急割席外賣平台澄清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167887127543812096261085.png/1SRtJfgPxxPU_IxVsdYGVSPY6faIjzrrNws9NTcLPTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381822/%E5%83%85%E8%8F%AF%E4%BA%BA%E5%8F%AF%E9%A0%98%E5%85%8D%E8%B2%BB%E7%8F%8D%E5%A5%B6-%E6%BE%B3%E6%B4%B2%E7%94%B7%E6%89%B9%E7%A8%AE%E6%97%8F%E6%AD%A7%E8%A6%96-%E8%9C%9C%E9%9B%AA%E6%80%A5%E5%89%B2%E5%B8%AD%E5%A4%96%E8%B3%A3%E5%B9%B3%E5%8F%B0%E6%BE%84%E6%B8%85",
+    "timestamp": "2026-08-23T15:11:43.226Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北海道對出海域6.0級地震　縱橫遊4團處當地　導遊指札幌沒震感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168245394245685248689571.jpeg/37vGtH4TGcznnpbTU3QSp3Q7WHLrz86CFAEyhhQBMoY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382814/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AE%89%E5%85%A8%E7%B6%93%E7%90%86%E5%A2%AE%E6%96%83-%E9%81%BA%E5%AD%80%E6%84%9F%E8%AC%9D%E5%B8%82%E6%B0%91%E8%A7%A3%E7%87%83%E7%9C%89%E4%B9%8B%E6%80%A5-%E7%B5%A6%E4%BA%88%E5%8B%87%E6%B0%A3%E9%9D%A2%E5%B0%8D%E7%94%9F%E6%B4%BB",
     "timestamp": "2026-08-23T09:46:58.658Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4決賽丨賽制及歌單終極曝光　最後3強「必殺歌」爭冠軍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168215969856753664456729.jpeg/k4-1y7djCRo1PXHCoFBC757CtXYNyf31AhT_gQIU_4E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382791/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD-%E8%B3%BD%E5%88%B6%E5%8F%8A%E6%AD%8C%E5%96%AE%E7%B5%82%E6%A5%B5%E6%9B%9D%E5%85%89-%E6%9C%80%E5%BE%8C3%E5%BC%B7-%E5%BF%85%E6%AE%BA%E6%AD%8C-%E7%88%AD%E5%86%A0%E8%BB%8D",
-    "timestamp": "2026-08-23T08:50:35.719Z",
     "strategy": ".content-card__main"
   }
 ];
