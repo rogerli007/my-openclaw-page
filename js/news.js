@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T15:43:55.262Z
+// Last updated: 2026-08-23T16:11:03.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "空槍丨綁架富豪兒子只為天價贖金　朱一龍梁家輝精彩對手戲獲讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168254399529619456753941.jpeg/ljpnuMLkIS-E6fdvW_d7K_W8dHVSdXkRn4NGFp-DRhY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60381816/%E7%A9%BA%E6%A7%8D-%E7%B6%81%E6%9E%B6%E5%AF%8C%E8%B1%AA%E5%85%92%E5%AD%90%E5%8F%AA%E7%82%BA%E5%A4%A9%E5%83%B9%E8%B4%96%E9%87%91-%E6%9C%B1%E4%B8%80%E9%BE%8D%E6%A2%81%E5%AE%B6%E8%BC%9D%E7%B2%BE%E5%BD%A9%E5%B0%8D%E6%89%8B%E6%88%B2%E7%8D%B2%E8%AE%9A",
+    "timestamp": "2026-08-23T16:11:03.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "多摩川殺人事件｜河上飄浮行李箱竟藏男屍　前女友一家揭恐怖內情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168264020436717568941762.jpeg/sdzkZ2lKr3ucj11G1g608QGZi7MnaeJJLTHwNy0x8Dc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382831/tima-ive%E4%BB%99%E6%B0%A3%E7%8F%BE%E8%BA%AB%E5%8A%87%E9%80%8F%E5%94%B1-eleven-meovv%E6%92%92%E5%AC%8C%E6%B4%BE%E5%BF%83%E9%9B%BB%E6%9A%88fans",
     "timestamp": "2026-08-23T10:29:48.742Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國家非遺「阿尺木刮」無樂器伴奏領唱踏歌　源於山羊引路恩情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168244536703455232419875.png/zihsOsAu6e1WpHNvAd5eNNTTY6Qoo3pr2FropOJa6KQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60382788/%E5%9C%8B%E5%AE%B6%E9%9D%9E%E9%81%BA-%E9%98%BF%E5%B0%BA%E6%9C%A8%E5%88%AE-%E7%84%A1%E6%A8%82%E5%99%A8%E4%BC%B4%E5%A5%8F%E9%A0%98%E5%94%B1%E8%B8%8F%E6%AD%8C-%E6%BA%90%E6%96%BC%E5%B1%B1%E7%BE%8A%E5%BC%95%E8%B7%AF%E6%81%A9%E6%83%85",
-    "timestamp": "2026-08-23T10:12:15.254Z",
     "strategy": ".content-card__main"
   }
 ];
