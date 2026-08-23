@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T22:10:44.259Z
+// Last updated: 2026-08-23T22:30:20.221Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古天樂新猛將揸波子開工極有型　曾傳結婚收一份七位數人情有福氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168262867753897984514960.jpeg/sZdXixQFTbgPPVa7yN6wI2jx67Ob1xEebRErA20RKwM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382804/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%96%B0%E7%8C%9B%E5%B0%87%E6%8F%B8%E6%B3%A2%E5%AD%90%E9%96%8B%E5%B7%A5%E6%A5%B5%E6%9C%89%E5%9E%8B-%E6%9B%BE%E5%82%B3%E7%B5%90%E5%A9%9A%E6%94%B6%E4%B8%80%E4%BB%BD%E4%B8%83%E4%BD%8D%E6%95%B8%E4%BA%BA%E6%83%85%E6%9C%89%E7%A6%8F%E6%B0%A3",
+    "timestamp": "2026-08-23T22:30:20.221Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古天樂新猛將揸波子開工極有型　曾傳結婚收一份七位數人情有福氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210609/479415066022645760014958.jpeg/FdtYJYEecyPHata_qhd9RCRMyGBTmruUCv_UxQr_1MU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382878/%E6%B0%B4%E6%B3%89%E6%BE%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E4%BD%8F%E6%88%B6%E5%A4%B1%E9%80%BE20%E8%90%AC%E7%8F%BE%E9%87%91-%E7%8F%A0%E5%AF%B6%E9%87%91%E5%99%A8",
     "timestamp": "2026-08-23T16:59:51.907Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "空槍丨綁架富豪兒子只為天價贖金　朱一龍梁家輝精彩對手戲獲讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168254399529619456753941.jpeg/ljpnuMLkIS-E6fdvW_d7K_W8dHVSdXkRn4NGFp-DRhY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60381816/%E7%A9%BA%E6%A7%8D-%E7%B6%81%E6%9E%B6%E5%AF%8C%E8%B1%AA%E5%85%92%E5%AD%90%E5%8F%AA%E7%82%BA%E5%A4%A9%E5%83%B9%E8%B4%96%E9%87%91-%E6%9C%B1%E4%B8%80%E9%BE%8D%E6%A2%81%E5%AE%B6%E8%BC%9D%E7%B2%BE%E5%BD%A9%E5%B0%8D%E6%89%8B%E6%88%B2%E7%8D%B2%E8%AE%9A",
-    "timestamp": "2026-08-23T16:11:03.578Z",
     "strategy": ".content-card__main"
   }
 ];
