@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T11:56:46.005Z
+// Last updated: 2026-08-23T12:13:28.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "毛骨悚然的戀愛線上看結局劇情｜Netflix更新時間+演員陣容簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156663709049819136254976.jpeg/GXB679htlTwZ9RAkYnVW7-leW9yIqQDwM3Ft6jNxbeo",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60372651/%E6%AF%9B%E9%AA%A8%E6%82%9A%E7%84%B6%E7%9A%84%E6%88%80%E6%84%9B%E7%B7%9A%E4%B8%8A%E7%9C%8B%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-netflix%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%99%A3%E5%AE%B9%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-08-23T12:13:28.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柴灣道45歲男子家中暈倒猝逝　母親揭發惜已太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168180645399105536452087.png/ZVwjx2x4hDNlOaSCFcKHuVfa99bWFDUK1Sq_vtUqv74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382768/%E6%B9%96%E5%8D%9714%E6%AD%B2%E5%B0%91%E5%B9%B4%E6%83%A0%E5%B7%9E%E6%B5%B7%E9%82%8A%E6%99%BA%E6%95%91%E6%BA%BA%E6%B0%B4%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3-%E7%8D%B2%E5%AE%98%E6%96%B9%E8%A9%95-%E8%A6%8B%E7%BE%A9%E5%8B%87%E7%82%BA",
     "timestamp": "2026-08-23T05:48:22.819Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佐敦大廈44歲尼泊爾籍男子梯間暈倒　送院搶救後不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250720/1023417354521939968129580.jpeg/R-549-Cfo5ENrb8aY3C4nW2omeCZUn0bgmXhWbhl4Vk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382765/%E4%BD%90%E6%95%A6%E5%A4%A7%E5%BB%8844%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%B1%8D%E7%94%B7%E5%AD%90%E6%A2%AF%E9%96%93%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-08-23T05:16:10.448Z",
     "strategy": ".content-card__main"
   }
 ];
