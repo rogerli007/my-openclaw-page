@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T19:33:28.879Z
+// Last updated: 2026-08-23T19:55:46.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海兒否認暫別幕前   工作排到明年一月：要揾多啲錢實現夢想",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168368974316965888879423.jpeg/WDyY5r6_vVwOpW2ak4FKjdKtQ8bCADTKxnFt4fxxbeE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382881/%E6%B5%B7%E5%85%92%E5%90%A6%E8%AA%8D%E6%9A%AB%E5%88%A5%E5%B9%95%E5%89%8D-%E5%B7%A5%E4%BD%9C%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4%E4%B8%80%E6%9C%88-%E8%A6%81%E6%8F%BE%E5%A4%9A%E5%95%B2%E9%8C%A2%E5%AF%A6%E7%8F%BE%E5%A4%A2%E6%83%B3",
+    "timestamp": "2026-08-23T19:55:46.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海兒否認暫別幕前   工作排到明年一月：要揾多啲錢實現夢想",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168317716847661056681709.jpeg/ssdSML5lRN7Fw4Ibzu40fqunFBs0nTxZccwJ-XHMCfk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382868/%E4%B8%AD%E8%81%B24%E6%B1%BA%E8%B3%BD-%E5%90%B3%E4%BA%A6%E5%81%89%E8%B7%B3%E5%94%B1-%E7%9A%AE%E5%9B%8A-%E5%B7%AB%E5%95%9F%E8%B3%A2%E8%AA%9E%E5%87%BA%E9%A9%9A%E4%BA%BA-mj%E5%94%B1%E9%83%BD%E8%A6%81%E5%B0%8D%E5%98%B4",
     "timestamp": "2026-08-23T14:13:15.055Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中年好聲音4決賽｜李龍基疑帶新歡入場　坐山頂位交頭接耳密斟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168314803467325440317865.jpeg/2HD5D4nMqVxOWMLWsOWf67RdZ7EIiQFatzY3e4E2N3s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382865/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD-%E6%9D%8E%E9%BE%8D%E5%9F%BA%E7%96%91%E5%B8%B6%E6%96%B0%E6%AD%A1%E5%85%A5%E5%A0%B4-%E5%9D%90%E5%B1%B1%E9%A0%82%E4%BD%8D%E4%BA%A4%E9%A0%AD%E6%8E%A5%E8%80%B3%E5%AF%86%E6%96%9F",
-    "timestamp": "2026-08-23T14:01:34.152Z",
     "strategy": ".content-card__main"
   }
 ];
