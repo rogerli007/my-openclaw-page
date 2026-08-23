@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-22T23:57:13.295Z
+// Last updated: 2026-08-23T00:54:47.748Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家｜入屋小生無緣新劇驚失業　重返《流行都市》：驚中年危機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167894830777372672506438.jpeg/1a_rz5InZV2exA8DApPBeeMlrC94NykkGAj7vBgI-7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60381226/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%84%A6%E6%B5%A9%E8%BB%92%E7%84%A1%E7%B7%A3%E6%96%B0%E5%8A%87%E9%A9%9A%E5%A4%B1%E6%A5%AD-%E9%87%8D%E8%BF%94-%E6%B5%81%E8%A1%8C%E9%83%BD%E5%B8%82-%E5%A5%BD%E9%A9%9A%E4%B8%AD%E5%B9%B4%E5%8D%B1%E6%A9%9F",
+    "timestamp": "2026-08-23T00:54:47.748Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏無人機襲俄線上零售倉庫釀10死　普京稱基輔「打開潘朵拉盒子」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168015188922732544029687.jpeg/-ypr9jag6IijQJPbW1jYwXJlCUmX3MOlhx9ZsocfWbI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382710/%E6%97%A5%E6%9C%AC%E8%8C%A8%E5%9F%8E%E5%8D%97%E9%83%A8%E7%99%BC%E7%94%9F5-9%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E6%9C%89%E9%9C%87%E6%84%9F",
     "timestamp": "2026-08-22T18:30:19.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲熱浪致多瑙河水位大跌　羅馬尼亞修建丁壩盼重啟唯一核電站",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1167995798047166464092734.png/WdoboHeVlqh_WH1Owat8SuT69qaNj0lsJeJ-rSXifq0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382705/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA%E8%87%B4%E5%A4%9A%E7%91%99%E6%B2%B3%E6%B0%B4%E4%BD%8D%E5%A4%A7%E8%B7%8C-%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E4%BF%AE%E5%BB%BA%E4%B8%81%E5%A3%A9%E7%9B%BC%E9%87%8D%E5%95%9F%E5%94%AF%E4%B8%80%E6%A0%B8%E9%9B%BB%E7%AB%99",
-    "timestamp": "2026-08-22T18:11:25.965Z",
     "strategy": ".content-card__main"
   }
 ];
