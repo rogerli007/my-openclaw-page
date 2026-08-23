@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T08:50:35.719Z
+// Last updated: 2026-08-23T09:46:58.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城安全經理墮斃｜遺孀感謝市民解燃眉之急　給予勇氣面對生活",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168245394245685248689571.jpeg/37vGtH4TGcznnpbTU3QSp3Q7WHLrz86CFAEyhhQBMoY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382814/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AE%89%E5%85%A8%E7%B6%93%E7%90%86%E5%A2%AE%E6%96%83-%E9%81%BA%E5%AD%80%E6%84%9F%E8%AC%9D%E5%B8%82%E6%B0%91%E8%A7%A3%E7%87%83%E7%9C%89%E4%B9%8B%E6%80%A5-%E7%B5%A6%E4%BA%88%E5%8B%87%E6%B0%A3%E9%9D%A2%E5%B0%8D%E7%94%9F%E6%B4%BB",
+    "timestamp": "2026-08-23T09:46:58.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4決賽丨賽制及歌單終極曝光　最後3強「必殺歌」爭冠軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168092270956646400901543.png/C0rjGm-_yi_qfW5JnbYWZ9-MLS88bgvQJguTjyYLk48?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382722/%E7%8B%82%E5%BE%92%E5%A4%9C%E8%A5%B2%E6%B3%B0%E5%9C%8B%E5%8D%97%E9%83%A8%E4%B8%89%E5%BA%9C-%E7%B8%B1%E7%81%AB%E7%88%86%E7%82%B8%E6%A7%8D%E6%93%8A%E9%81%8D%E9%87%8E-%E8%87%B3%E5%B0%91%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-22T23:43:02.296Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "狂徒夜襲泰國南部三府　縱火爆炸槍擊遍野　至少兩人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168092270956646400901543.png/C0rjGm-_yi_qfW5JnbYWZ9-MLS88bgvQJguTjyYLk48?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382722/%E7%8B%82%E5%BE%92%E5%A4%9C%E8%A5%B2%E6%B3%B0%E5%9C%8B%E5%8D%97%E9%83%A8%E4%B8%89%E5%BA%9C-%E7%B8%B1%E7%81%AB%E7%88%86%E7%82%B8%E6%A7%8D%E6%93%8A%E9%81%8D%E9%87%8E-%E8%87%B3%E5%B0%91%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-08-22T23:29:22.939Z",
     "strategy": ".content-card__main"
   }
 ];
