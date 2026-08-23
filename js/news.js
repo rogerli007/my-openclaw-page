@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T03:53:10.184Z
+// Last updated: 2026-08-23T04:20:48.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "城巴客行車期間攜行李站上層通道！網民憂失重心易翻車　城巴回應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167899785282195456042736.jpeg/TMiqympYFOLQQfd_k7R1Psb7_wDJl1fyqH1WZKh9VmQ",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382562/%E5%9F%8E%E5%B7%B4%E5%AE%A2%E8%A1%8C%E8%BB%8A%E6%9C%9F%E9%96%93%E6%94%9C%E8%A1%8C%E6%9D%8E%E7%AB%99%E4%B8%8A%E5%B1%A4%E9%80%9A%E9%81%93-%E7%B6%B2%E6%B0%91%E6%86%82%E5%A4%B1%E9%87%8D%E5%BF%83%E6%98%93%E7%BF%BB%E8%BB%8A-%E5%9F%8E%E5%B7%B4%E5%9B%9E%E6%87%89",
+    "timestamp": "2026-08-23T04:20:48.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三浦璃來木原龍一IG宣布訂婚　米蘭冬奧花式溜冰金牌組合CP成真",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168045732528132096206843.jpeg/Fi68-g2LTGop3aj5vEXtF-4x2u-5Dzw4X4SefF-Ennw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382712/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E6%92%9E%E9%96%8B2%E8%BB%8A%E7%96%91%E9%96%8B%E8%B7%AF-2%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-22T20:10:44.123Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜北大嶼山公路大塞車　車隊的士撞開2車疑開路　2人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167768879414382592831076.jpeg/zYF8D3ih_gDploAb6P0xMfGyg8x3EJrXdUHeE3VB3hM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382712/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E6%92%9E%E9%96%8B2%E8%BB%8A%E7%96%91%E9%96%8B%E8%B7%AF-2%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-08-22T19:56:36.662Z",
     "strategy": ".content-card__main"
   }
 ];
