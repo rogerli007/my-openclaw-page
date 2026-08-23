@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T02:51:24.364Z
+// Last updated: 2026-08-23T03:28:32.700Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三旋共舞再現　｢紫檀｣逼近兩廣或引山泥傾瀉　「簡拉維」影響台灣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168154742782693376715329.png/3qHDYByBzQcwhb8AwzINpqpryoaCrsWZE2voTRNr6E0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382742/%E4%B8%89%E6%97%8B%E5%85%B1%E8%88%9E%E5%86%8D%E7%8F%BE-%E7%B4%AB%E6%AA%80-%E9%80%BC%E8%BF%91%E5%85%A9%E5%BB%A3%E6%88%96%E5%BC%95%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89-%E7%B0%A1%E6%8B%89%E7%B6%AD-%E5%BD%B1%E9%9F%BF%E5%8F%B0%E7%81%A3",
+    "timestamp": "2026-08-23T03:28:32.700Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "6成美國人後悔與伴侶同居　有人不做家務當巨嬰　調查揭3大導火線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167768879414382592831076.jpeg/zYF8D3ih_gDploAb6P0xMfGyg8x3EJrXdUHeE3VB3hM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382712/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E6%92%9E%E9%96%8B2%E8%BB%8A%E7%96%91%E9%96%8B%E8%B7%AF-2%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-22T19:45:12.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北美貿易戰開打　美國加徵50%關稅　卡尼稱實行等值反制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150833035134898176436975.jpeg/847-hg5QxzIpfT6AJWsOV0XhGp5tXISx_baHuf22h7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382711/%E5%8C%97%E7%BE%8E%E8%B2%BF%E6%98%93%E6%88%B0%E9%96%8B%E6%89%93-%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%BE%B550-%E9%97%9C%E7%A8%85-%E5%8D%A1%E5%B0%BC%E7%A8%B1%E5%AF%A6%E8%A1%8C%E7%AD%89%E5%80%BC%E5%8F%8D%E5%88%B6",
-    "timestamp": "2026-08-22T19:32:33.071Z",
     "strategy": ".content-card__main"
   }
 ];
