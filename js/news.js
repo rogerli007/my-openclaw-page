@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T12:13:28.234Z
+// Last updated: 2026-08-23T12:54:38.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗分享官邸驚遇蟑螂軼事遭轟　網民嘲：無視民生困苦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160925300557615104189074.jpeg/FxCwLQdMo4mRiiP1LuR3F07QzFOh284WDMsyHQzLMh0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382842/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%86%E4%BA%AB%E5%AE%98%E9%82%B8%E9%A9%9A%E9%81%87%E8%9F%91%E8%9E%82%E8%BB%BC%E4%BA%8B%E9%81%AD%E8%BD%9F-%E7%B6%B2%E6%B0%91%E5%98%B2-%E7%84%A1%E8%A6%96%E6%B0%91%E7%94%9F%E5%9B%B0%E8%8B%A6",
+    "timestamp": "2026-08-23T12:54:38.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "毛骨悚然的戀愛線上看結局劇情｜Netflix更新時間+演員陣容簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168191889057255424238956.jpeg/zvo8IkdWU6pFkRO1ybtbseRkBodRekCMwB2PtMAdj7Q",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382740/%E6%9C%89%E7%89%87-%E4%BD%90%E6%95%A6%E7%8B%97%E4%B8%BB%E4%BB%BB%E5%B0%8F%E7%8B%97%E9%A6%AC%E8%B7%AF%E4%B8%AD%E5%BF%83%E5%A4%A7%E4%BE%BF-%E7%84%A1%E6%B8%85%E7%90%86%E5%8D%B3%E9%9B%A2%E5%8E%BB-%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%85%98%E6%B2%BE%E7%B3%9E",
     "timestamp": "2026-08-23T06:19:03.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湖南14歲少年惠州海邊智救溺水一家三口　獲官方評「見義勇為」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168180645399105536452087.png/ZVwjx2x4hDNlOaSCFcKHuVfa99bWFDUK1Sq_vtUqv74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60382768/%E6%B9%96%E5%8D%9714%E6%AD%B2%E5%B0%91%E5%B9%B4%E6%83%A0%E5%B7%9E%E6%B5%B7%E9%82%8A%E6%99%BA%E6%95%91%E6%BA%BA%E6%B0%B4%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3-%E7%8D%B2%E5%AE%98%E6%96%B9%E8%A9%95-%E8%A6%8B%E7%BE%A9%E5%8B%87%E7%82%BA",
-    "timestamp": "2026-08-23T05:48:22.819Z",
     "strategy": ".content-card__main"
   }
 ];
