@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T15:11:43.226Z
+// Last updated: 2026-08-23T15:29:35.786Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球世錦賽21歲蘭尼亞輕鬆封王　法國連贏男單混雙世界冠軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168286180832186368034518.jpeg/VEtM0bjJ2xURvNrl1UH5poO4YdYc5IXIx0OMmcdDjJk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60382852/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%8C%A6%E8%B3%BD21%E6%AD%B2%E8%98%AD%E5%B0%BC%E4%BA%9E%E8%BC%95%E9%AC%86%E5%B0%81%E7%8E%8B-%E6%B3%95%E5%9C%8B%E9%80%A3%E8%B4%8F%E7%94%B7%E5%96%AE%E6%B7%B7%E9%9B%99%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D",
+    "timestamp": "2026-08-23T15:29:35.786Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "僅華人可領免費珍奶　澳洲男批種族歧視　蜜雪急割席外賣平台澄清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168254705864806400049278.jpeg/LZNxJm53tJDRWIRe9WyUYyTtbvtOA1UKFmMjexZjI3s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382830/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD%E7%B4%85%E5%9C%B0%E6%B0%88-%E6%9B%BE%E5%BF%97%E5%81%89%E7%8E%87%E6%AD%B7%E5%B1%86%E5%8F%83%E8%B3%BD%E8%80%85%E5%85%A5%E5%A0%B4-%E6%94%AF%E5%9A%B3%E5%84%80%E4%BD%8E%E8%83%B8%E6%90%B6%E9%8F%A1",
     "timestamp": "2026-08-23T09:59:02.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城安全經理墮斃｜遺孀感謝市民解燃眉之急　給予勇氣面對生活",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168245394245685248689571.jpeg/37vGtH4TGcznnpbTU3QSp3Q7WHLrz86CFAEyhhQBMoY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382814/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AE%89%E5%85%A8%E7%B6%93%E7%90%86%E5%A2%AE%E6%96%83-%E9%81%BA%E5%AD%80%E6%84%9F%E8%AC%9D%E5%B8%82%E6%B0%91%E8%A7%A3%E7%87%83%E7%9C%89%E4%B9%8B%E6%80%A5-%E7%B5%A6%E4%BA%88%E5%8B%87%E6%B0%A3%E9%9D%A2%E5%B0%8D%E7%94%9F%E6%B4%BB",
-    "timestamp": "2026-08-23T09:46:58.658Z",
     "strategy": ".content-card__main"
   }
 ];
