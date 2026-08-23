@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T14:01:34.152Z
+// Last updated: 2026-08-23T14:13:15.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中聲4決賽｜吳亦偉跳唱《皮囊》　巫啟賢語出驚人：MJ唱都要對嘴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168317716847661056681709.jpeg/ssdSML5lRN7Fw4Ibzu40fqunFBs0nTxZccwJ-XHMCfk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382868/%E4%B8%AD%E8%81%B24%E6%B1%BA%E8%B3%BD-%E5%90%B3%E4%BA%A6%E5%81%89%E8%B7%B3%E5%94%B1-%E7%9A%AE%E5%9B%8A-%E5%B7%AB%E5%95%9F%E8%B3%A2%E8%AA%9E%E5%87%BA%E9%A9%9A%E4%BA%BA-mj%E5%94%B1%E9%83%BD%E8%A6%81%E5%B0%8D%E5%98%B4",
+    "timestamp": "2026-08-23T14:13:15.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4決賽｜李龍基疑帶新歡入場　坐山頂位交頭接耳密斟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240612/877703692634034176950413.jpeg/w3VCDvcsGuGoz1am6AjoobiCDaIGnxvAm6xbFKGsWxQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382795/%E7%94%B7%E5%9C%98loong9%E7%AA%81%E5%AE%A3%E5%B8%83%E8%A7%A3%E6%95%A3-%E6%88%90%E7%AB%8B%E5%BE%8C%E5%A4%9A%E7%B4%9B%E7%88%AD%E5%86%BC%E9%9D%96%E5%B3%B0-%E6%96%87%E4%BD%90%E5%8C%A1%E7%AD%89%E7%B4%94-%E6%8E%9B%E5%90%8D",
     "timestamp": "2026-08-23T07:49:28.803Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港仔大道城巴與貨車相撞　4人輕傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168217396343738368365241.jpeg/FZ6uAkexw40tgFZmTSqzpRbP3JgdIGTzjCVDUYwlQ1E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382786/%E9%A6%99%E6%B8%AF%E4%BB%94%E5%A4%A7%E9%81%93%E5%9F%8E%E5%B7%B4%E8%88%87%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-4%E4%BA%BA%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-08-23T07:31:30.650Z",
     "strategy": ".content-card__main"
   }
 ];
