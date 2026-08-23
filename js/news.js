@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T13:20:36.873Z
+// Last updated: 2026-08-23T13:47:19.140Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國將斥逾千億建新遠程武器庫制俄　可打擊數千公里外目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240919/913441859240464384854267.jpeg/1hU3ruAPzBr-s97nQAaG3mKikirb6Z_-tPOQ07TzkNM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382848/%E5%BE%B7%E5%9C%8B%E5%B0%87%E6%96%A5%E9%80%BE%E5%8D%83%E5%84%84%E5%BB%BA%E6%96%B0%E9%81%A0%E7%A8%8B%E6%AD%A6%E5%99%A8%E5%BA%AB%E5%88%B6%E4%BF%84-%E5%8F%AF%E6%89%93%E6%93%8A%E6%95%B8%E5%8D%83%E5%85%AC%E9%87%8C%E5%A4%96%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-08-23T13:47:19.140Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾志偉嘆《狩謊》衛詩雅受傷無可避免：冇人諗到會受傷同咁嚴重",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150817876026855424056731.png/yPEO-9sBhacOHjr2Z6oxACW1htOUVze0P9ekC0rXpAs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60367025/%E6%B8%9B%E8%82%A5-59%E6%AD%B2%E5%A9%A6%E5%A5%B3%E9%9D%A0%E7%9D%A1%E5%89%8D%E9%81%8B%E5%8B%95%E7%8B%82%E6%B8%9B7kg-3%E6%8B%9B%E6%A0%B8%E5%BF%83%E8%A8%93%E7%B7%B4%E8%BC%95%E9%AC%86%E7%98%A6%E8%82%9A%E8%85%A9%E7%98%A6%E8%85%BF",
     "timestamp": "2026-08-23T07:07:05.946Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片！佐敦女狗主任小狗過馬路中大便無清理　私家車主：沙板沾屎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168191889057255424238956.jpeg/zvo8IkdWU6pFkRO1ybtbseRkBodRekCMwB2PtMAdj7Q",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382740/%E6%9C%89%E7%89%87-%E4%BD%90%E6%95%A6%E7%8B%97%E4%B8%BB%E4%BB%BB%E5%B0%8F%E7%8B%97%E9%A6%AC%E8%B7%AF%E4%B8%AD%E5%BF%83%E5%A4%A7%E4%BE%BF-%E7%84%A1%E6%B8%85%E7%90%86%E5%8D%B3%E9%9B%A2%E5%8E%BB-%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%85%98%E6%B2%BE%E7%B3%9E",
-    "timestamp": "2026-08-23T06:36:59.874Z",
     "strategy": ".content-card__main"
   }
 ];
