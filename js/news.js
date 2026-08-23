@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T00:54:47.748Z
+// Last updated: 2026-08-23T01:37:31.786Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古天樂演唱會｜壓軸唱《風再起時》　「哥哥喺我心目中好緊要」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168069472326520832168093.jpeg/1-Ah4lWGrFzrUWleSxZPfZucobzqhP8RAkZG_QJGRv0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60382709/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%BC%94%E5%94%B1%E6%9C%83-%E5%A3%93%E8%BB%B8%E5%94%B1-%E9%A2%A8%E5%86%8D%E8%B5%B7%E6%99%82-%E5%93%A5%E5%93%A5%E5%96%BA%E6%88%91%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%A5%BD%E7%B7%8A%E8%A6%81",
+    "timestamp": "2026-08-23T01:37:31.786Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家｜入屋小生無緣新劇驚失業　重返《流行都市》：驚中年危機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150833035134898176436975.jpeg/847-hg5QxzIpfT6AJWsOV0XhGp5tXISx_baHuf22h7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382711/%E5%8C%97%E7%BE%8E%E8%B2%BF%E6%98%93%E6%88%B0%E9%96%8B%E6%89%93-%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%BE%B550-%E9%97%9C%E7%A8%85-%E5%8D%A1%E5%B0%BC%E7%A8%B1%E5%AF%A6%E8%A1%8C%E7%AD%89%E5%80%BC%E5%8F%8D%E5%88%B6",
     "timestamp": "2026-08-22T19:04:46.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本茨城南部發生5.9級地震　東京有震感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168015188922732544029687.jpeg/-ypr9jag6IijQJPbW1jYwXJlCUmX3MOlhx9ZsocfWbI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382710/%E6%97%A5%E6%9C%AC%E8%8C%A8%E5%9F%8E%E5%8D%97%E9%83%A8%E7%99%BC%E7%94%9F5-9%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E6%9C%89%E9%9C%87%E6%84%9F",
-    "timestamp": "2026-08-22T18:30:19.178Z",
     "strategy": ".content-card__main"
   }
 ];
