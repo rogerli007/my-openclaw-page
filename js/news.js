@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T10:45:02.473Z
+// Last updated: 2026-08-23T11:02:07.919Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4決賽紅地氈｜全場焦點被搶走　電台高層老婆閃亮現身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168265844078153728734190.jpeg/vFG8PsORsmVEgIdhl2N5anRR7FKPIcLIppCNzKaQjcw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382838/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD%E7%B4%85%E5%9C%B0%E6%B0%88-%E5%85%A8%E5%A0%B4%E7%84%A6%E9%BB%9E%E8%A2%AB%E6%90%B6%E8%B5%B0-%E9%9B%BB%E5%8F%B0%E9%AB%98%E5%B1%A4%E8%80%81%E5%A9%86%E9%96%83%E4%BA%AE%E7%8F%BE%E8%BA%AB",
+    "timestamp": "2026-08-23T11:02:07.919Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中年好聲音4決賽紅地氈｜全場焦點被搶走　電台高層老婆閃亮現身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168154742782693376715329.png/3qHDYByBzQcwhb8AwzINpqpryoaCrsWZE2voTRNr6E0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60382742/%E4%B8%89%E6%97%8B%E5%85%B1%E8%88%9E%E5%86%8D%E7%8F%BE-%E7%B4%AB%E6%AA%80-%E9%80%BC%E8%BF%91%E5%85%A9%E5%BB%A3%E6%88%96%E5%BC%95%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89-%E7%B0%A1%E6%8B%89%E7%B6%AD-%E5%BD%B1%E9%9F%BF%E5%8F%B0%E7%81%A3",
     "timestamp": "2026-08-23T03:28:32.700Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "6成美國人後悔與伴侶同居　有人不做家務當巨嬰　調查揭3大導火線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167522523248594944804351.jpeg/hCxbio7uWcL1TASklUlmfEleTt6791NTjbPIfo2zyH4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382385/6%E6%88%90%E7%BE%8E%E5%9C%8B%E4%BA%BA%E5%BE%8C%E6%82%94%E8%88%87%E4%BC%B4%E4%BE%B6%E5%90%8C%E5%B1%85-%E6%9C%89%E4%BA%BA%E4%B8%8D%E5%81%9A%E5%AE%B6%E5%8B%99%E7%95%B6%E5%B7%A8%E5%AC%B0-%E8%AA%BF%E6%9F%A5%E6%8F%AD3%E5%A4%A7%E5%B0%8E%E7%81%AB%E7%B7%9A",
-    "timestamp": "2026-08-23T02:51:24.364Z",
     "strategy": ".content-card__main"
   }
 ];
