@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-23T08:36:04.544Z
+// Last updated: 2026-08-23T08:50:35.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中年好聲音4決賽丨賽制及歌單終極曝光　最後3強「必殺歌」爭冠軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168215969856753664456729.jpeg/k4-1y7djCRo1PXHCoFBC757CtXYNyf31AhT_gQIU_4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382791/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E6%B1%BA%E8%B3%BD-%E8%B3%BD%E5%88%B6%E5%8F%8A%E6%AD%8C%E5%96%AE%E7%B5%82%E6%A5%B5%E6%9B%9D%E5%85%89-%E6%9C%80%E5%BE%8C3%E5%BC%B7-%E5%BF%85%E6%AE%BA%E6%AD%8C-%E7%88%AD%E5%86%A0%E8%BB%8D",
+    "timestamp": "2026-08-23T08:50:35.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰式肉碎煎蛋飯食譜｜做法簡單20分鐘完成、1招香料太多都唔怕！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168092270956646400901543.png/C0rjGm-_yi_qfW5JnbYWZ9-MLS88bgvQJguTjyYLk48?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382722/%E7%8B%82%E5%BE%92%E5%A4%9C%E8%A5%B2%E6%B3%B0%E5%9C%8B%E5%8D%97%E9%83%A8%E4%B8%89%E5%BA%9C-%E7%B8%B1%E7%81%AB%E7%88%86%E7%82%B8%E6%A7%8D%E6%93%8A%E9%81%8D%E9%87%8E-%E8%87%B3%E5%B0%91%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-22T23:29:22.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨　初時局部地區有雷暴　最高氣溫32度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168081415300976640210758.jpeg/pjk97PU0bvJKKSUJend9WEtY7pS65dbWPVMtrwdTLa8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382718/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6",
-    "timestamp": "2026-08-22T22:59:14.827Z",
     "strategy": ".content-card__main"
   }
 ];
