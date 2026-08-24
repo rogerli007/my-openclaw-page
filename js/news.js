@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T00:24:21.069Z
+// Last updated: 2026-08-24T00:54:35.572Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地劇《重器》錢興良案屈打成招亡妻歸來　5點相似還原佘祥林案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168330955543285760703984.png/b4bnpnWjFIDDR0Ty0n6pUSwJSYiqbVdqJyky7ScpMu0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381802/%E5%85%A7%E5%9C%B0%E5%8A%87-%E9%87%8D%E5%99%A8-%E9%8C%A2%E8%88%88%E8%89%AF%E6%A1%88%E5%B1%88%E6%89%93%E6%88%90%E6%8B%9B%E4%BA%A1%E5%A6%BB%E6%AD%B8%E4%BE%86-5%E9%BB%9E%E7%9B%B8%E4%BC%BC%E9%82%84%E5%8E%9F%E4%BD%98%E7%A5%A5%E6%9E%97%E6%A1%88",
+    "timestamp": "2026-08-24T00:54:35.572Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地劇《重器》錢興良案屈打成招亡妻歸來　5點相似還原佘祥林案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168382859090595840385902.jpeg/y_bk8A0itPtjMK_nfu7vLyU2I3F08UkO611HTsFdR04?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382883/%E8%91%B5%E6%B6%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%8F%AD%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BC%8F%E5%B1%8D%E5%96%AE%E4%BD%8D%E5%85%A7",
     "timestamp": "2026-08-23T18:31:18.434Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌邨老翁墮樓亡　警調查揭一女子伏屍單位內",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167791828250923008985273.jpeg/qa3uf0m_otcoI11419JtVSKyhTEsobQtE-9ygxPvcoM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382883/%E8%91%B5%E6%B6%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%8F%AD%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BC%8F%E5%B1%8D%E5%96%AE%E4%BD%8D%E5%85%A7",
-    "timestamp": "2026-08-23T18:11:54.956Z",
     "strategy": ".content-card__main"
   }
 ];
