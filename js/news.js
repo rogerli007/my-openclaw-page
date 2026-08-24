@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T16:55:49.910Z
+// Last updated: 2026-08-24T17:17:29.816Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本觀光船東京灣撞防波堤　9人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168712511877287936085173.png/SLDZ9bDmddPO5Af4bEpQTU3mS7kdtZIstwUQH7cFEB8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383242/%E6%97%A5%E6%9C%AC%E8%A7%80%E5%85%89%E8%88%B9%E6%9D%B1%E4%BA%AC%E7%81%A3%E6%92%9E%E9%98%B2%E6%B3%A2%E5%A0%A4-9%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-08-24T17:17:29.816Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本觀光船東京灣撞防波堤　9人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080125658287312896857624.jpeg/eQrtp2meHqOyAMRDZy2rPuAHGXz6JxJopaLQXYOi0F0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383030/%E6%97%85%E9%81%8A%E5%B7%B4%E5%8F%B8%E6%A9%9F%E5%BE%9E%E5%BE%8C%E8%BC%BE%E9%81%8E%E5%A5%B3%E6%95%99%E5%B8%AB-%E8%87%B4%E5%A4%9A%E8%99%95%E9%AA%A8%E6%8A%98%E4%BB%8D%E7%95%99%E9%99%A2-%E5%AE%98%E8%B3%AA%E7%96%91%E6%82%94%E6%84%8F%E5%9B%9A4%E6%9C%88",
     "timestamp": "2026-08-24T05:52:57.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普的內心戲：「對付不了中國，還對付不了加拿大？」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058353830653071360798341.jpeg/Mc6pu1ff0AEsib5oBxFTWjVgOz3940La6IPTk-iD05M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60383021/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%85%A7%E5%BF%83%E6%88%B2-%E5%B0%8D%E4%BB%98%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9C%8B-%E9%82%84%E5%B0%8D%E4%BB%98%E4%B8%8D%E4%BA%86%E5%8A%A0%E6%8B%BF%E5%A4%A7",
-    "timestamp": "2026-08-24T05:32:19.161Z",
     "strategy": ".content-card__main"
   }
 ];
