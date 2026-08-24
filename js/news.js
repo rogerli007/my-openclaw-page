@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T12:21:07.869Z
+// Last updated: 2026-08-24T12:37:13.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東南亞抵港行李藏$620萬私煙　海關破多案拘14人　判囚8至20個月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168653187658289152167348.jpeg/DoxtirwBcEGBftNMKN_2FrNqLZOAjIU5X_qSZ1_6kmc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383215/%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%8A%B5%E6%B8%AF%E8%A1%8C%E6%9D%8E%E8%97%8F-620%E8%90%AC%E7%A7%81%E7%85%99-%E6%B5%B7%E9%97%9C%E7%A0%B4%E5%A4%9A%E6%A1%88%E6%8B%9814%E4%BA%BA-%E5%88%A4%E5%9B%9A8%E8%87%B320%E5%80%8B%E6%9C%88",
+    "timestamp": "2026-08-24T12:37:13.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "放狗遭惡漢指控狗咬人阻離開　警證「傷者」無被咬　狗主籲護權益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167520520715898880486207.jpeg/OQDsVgtjZwWxnJGC4NsU1GwHWCTG3YFYz6pblM-qW5Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60382405/honor-robot-phone%E5%AF%A6%E6%B8%AC-ai%E6%89%8B%E6%A9%9F%E9%8F%A1%E9%A0%AD%E6%9C%83%E8%87%AA%E5%B7%B1%E8%BD%89-%E8%87%AA%E5%8B%95%E8%B7%9F%E6%8B%8D%E9%82%84%E8%83%BD%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-08-24T02:17:51.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "4個經常「想太多」的星座　巨蟹總覺別人話中有話　雙子暗裏悲觀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251103/1062072838246109184320154.png/3LXcJZuptiQlDCYbP_XYTxRhmXOkE2e7GkqEQhpKhEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60291093/4%E5%80%8B%E7%B6%93%E5%B8%B8-%E6%83%B3%E5%A4%AA%E5%A4%9A-%E7%9A%84%E6%98%9F%E5%BA%A7-%E5%B7%A8%E8%9F%B9%E7%B8%BD%E8%A6%BA%E5%88%A5%E4%BA%BA%E8%A9%B1%E4%B8%AD%E6%9C%89%E8%A9%B1-%E9%9B%99%E5%AD%90%E6%9A%97%E8%A3%8F%E6%82%B2%E8%A7%80",
-    "timestamp": "2026-08-24T01:43:13.337Z",
     "strategy": ".content-card__main"
   }
 ];
