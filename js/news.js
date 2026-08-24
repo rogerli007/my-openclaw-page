@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T05:52:57.001Z
+// Last updated: 2026-08-24T06:24:40.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗稱南部發現新大型天然氣田　近8成可開採且營運開發成本較低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1438153/org/0724c2652ba1831a3c596f2577e94201.JPG/pd_jpsvI2IGaYaVkLXdJmaET6YyKZyzSkLgsG5C4LBs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383024/%E4%BC%8A%E6%9C%97%E7%A8%B1%E5%8D%97%E9%83%A8%E7%99%BC%E7%8F%BE%E6%96%B0%E5%A4%A7%E5%9E%8B%E5%A4%A9%E7%84%B6%E6%B0%A3%E7%94%B0-%E8%BF%918%E6%88%90%E5%8F%AF%E9%96%8B%E6%8E%A1%E4%B8%94%E7%87%9F%E9%81%8B%E9%96%8B%E7%99%BC%E6%88%90%E6%9C%AC%E8%BC%83%E4%BD%8E",
+    "timestamp": "2026-08-24T06:24:40.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旅遊巴司機從後輾過女教師　致多處骨折仍留院　官質疑悔意囚4月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141026802504830976385049.jpeg/7MP8PfTHnShGgfNtXqunwQIRUDrWslOki98_3IvfP9w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382894/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E8%8D%89%E6%A1%88%E6%A2%9D%E6%AC%BE-%E5%87%86%E5%90%91%E5%8F%96%E9%81%93%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E9%9A%BB%E6%94%B6%E8%B2%BB",
     "timestamp": "2026-08-23T21:56:36.065Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗議會委員會通過草案條款　准向取道霍爾木茲海峽船隻收費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141026802504830976385049.jpeg/7MP8PfTHnShGgfNtXqunwQIRUDrWslOki98_3IvfP9w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382894/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E8%8D%89%E6%A1%88%E6%A2%9D%E6%AC%BE-%E5%87%86%E5%90%91%E5%8F%96%E9%81%93%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E9%9A%BB%E6%94%B6%E8%B2%BB",
-    "timestamp": "2026-08-23T21:44:07.460Z",
     "strategy": ".content-card__main"
   }
 ];
