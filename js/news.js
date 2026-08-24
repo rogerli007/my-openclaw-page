@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T17:34:23.526Z
+// Last updated: 2026-08-24T17:51:43.444Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪水橋片區｜中海外、招商局、華潤、京東、信置各佔聯營公司17%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168728995030634496910367.jpeg/dvEeweAC5DyqA-cDyyjdgCzptVQiUyrlT1-BwE9fgcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60383247/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%89%87%E5%8D%80-%E4%B8%AD%E6%B5%B7%E5%A4%96-%E6%8B%9B%E5%95%86%E5%B1%80-%E8%8F%AF%E6%BD%A4-%E4%BA%AC%E6%9D%B1-%E4%BF%A1%E7%BD%AE%E5%90%84%E4%BD%94%E8%81%AF%E7%87%9F%E5%85%AC%E5%8F%B817",
+    "timestamp": "2026-08-24T17:51:43.444Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洪水橋片區｜中海外、招商局、華潤、京東、信置各佔聯營公司17%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168567524380381184974601.jpeg/1uINeBF5yT9i4aeeKMLoSdzLLnSKCykrykH458pB-Oc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60383023/%E6%9C%80%E5%B9%B3%E5%AD%B8%E7%94%9Fplan%E6%89%8B%E6%A9%9F%E6%9C%88%E8%B2%BB%E8%A8%88%E5%8A%83%E6%A0%BC%E5%83%B9-3hk-csl-smartone-%E4%B8%AD%E7%A7%BB5g%E8%AA%B0%E6%9C%80%E6%8A%B5",
     "timestamp": "2026-08-24T06:53:25.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗稱南部發現新大型天然氣田　近8成可開採且營運開發成本較低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1438153/org/0724c2652ba1831a3c596f2577e94201.JPG/pd_jpsvI2IGaYaVkLXdJmaET6YyKZyzSkLgsG5C4LBs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383024/%E4%BC%8A%E6%9C%97%E7%A8%B1%E5%8D%97%E9%83%A8%E7%99%BC%E7%8F%BE%E6%96%B0%E5%A4%A7%E5%9E%8B%E5%A4%A9%E7%84%B6%E6%B0%A3%E7%94%B0-%E8%BF%918%E6%88%90%E5%8F%AF%E9%96%8B%E6%8E%A1%E4%B8%94%E7%87%9F%E9%81%8B%E9%96%8B%E7%99%BC%E6%88%90%E6%9C%AC%E8%BC%83%E4%BD%8E",
-    "timestamp": "2026-08-24T06:24:40.671Z",
     "strategy": ".content-card__main"
   }
 ];
