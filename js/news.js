@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T18:16:27.534Z
+// Last updated: 2026-08-24T18:56:47.495Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭博社：美國或在習特會前公布　依產能過剩對華加徵7.5%關稅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103186894943948800406783.jpeg/0leeNN1Mh1IMp2hlPdzVepNk2WthDFItyUAaPslAGj4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383250/%E5%BD%AD%E5%8D%9A%E7%A4%BE-%E7%BE%8E%E5%9C%8B%E6%88%96%E5%9C%A8%E7%BF%92%E7%89%B9%E6%9C%83%E5%89%8D%E5%85%AC%E5%B8%83-%E4%BE%9D%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E5%B0%8D%E8%8F%AF%E5%8A%A0%E5%BE%B57-5-%E9%97%9C%E7%A8%85",
+    "timestamp": "2026-08-24T18:56:47.495Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博社：美國或在習特會前公布　依產能過剩對華加徵7.5%關稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250710/1020028271376470016705316.jpeg/zv3HLhGRWi8sDdGq9otiIyltMGQ98OltQM5vKUDObyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383112/%E7%BE%8E%E5%AA%92-perplexity%E6%88%96%E5%86%8D%E7%8D%B2nvidia%E6%8A%95%E8%B3%87-%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E6%96%99%E8%B6%85%E9%81%8E300%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-08-24T08:52:49.986Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地男星遭狂粉強拉車門貼臉拍照　下車「失控出手」拍落手機怒吼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168524963133526016801527.png/vgKt59hNcSQIJiTzcHtcsm3pUlLvXm-oTmaUz05mlM8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382987/%E5%85%A7%E5%9C%B0%E7%94%B7%E6%98%9F%E9%81%AD%E7%8B%82%E7%B2%89%E5%BC%B7%E6%8B%89%E8%BB%8A%E9%96%80%E8%B2%BC%E8%87%89%E6%8B%8D%E7%85%A7-%E4%B8%8B%E8%BB%8A-%E5%A4%B1%E6%8E%A7%E5%87%BA%E6%89%8B-%E6%8B%8D%E8%90%BD%E6%89%8B%E6%A9%9F%E6%80%92%E5%90%BC",
-    "timestamp": "2026-08-24T07:36:00.803Z",
     "strategy": ".content-card__main"
   }
 ];
