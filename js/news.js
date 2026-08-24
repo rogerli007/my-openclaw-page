@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T02:50:18.236Z
+// Last updated: 2026-08-24T03:17:56.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當勞男女霸位食燒味飯！被勸阻拒離開1舉動更衰　員工做法獲讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168513035803824128843159.jpeg/4Fh87VhEZi4JLEzsdi7i5ofWcNDp3va1n868kp_OvJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382905/%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%94%B7%E5%A5%B3%E9%9C%B8%E4%BD%8D%E9%A3%9F%E7%87%92%E5%91%B3%E9%A3%AF-%E8%A2%AB%E5%8B%B8%E9%98%BB%E5%86%9A%E9%A3%AF%E7%9B%92%E6%8B%92%E9%9B%A2%E9%96%8B-%E5%A5%B3%E5%93%A1%E5%B7%A5%E5%81%9A%E6%B3%95%E7%8D%B2%E8%AE%9A",
+    "timestamp": "2026-08-24T03:17:56.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣南部暴雨成災　高雄4天下完全年一半雨量　台南車站變｢碼頭｣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168368974316965888879423.jpeg/WDyY5r6_vVwOpW2ak4FKjdKtQ8bCADTKxnFt4fxxbeE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382881/%E6%B5%B7%E5%85%92%E5%90%A6%E8%AA%8D%E6%9A%AB%E5%88%A5%E5%B9%95%E5%89%8D-%E5%B7%A5%E4%BD%9C%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4%E4%B8%80%E6%9C%88-%E8%A6%81%E6%8F%BE%E5%A4%9A%E5%95%B2%E9%8C%A2%E5%AF%A6%E7%8F%BE%E5%A4%A2%E6%83%B3",
     "timestamp": "2026-08-23T19:33:28.879Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國首都街頭變賽車場　特朗普出席為建國250周年慶祝畫上句號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168392629239418880235791.jpeg/7eyiYdfhOW6Rgg4zNb3gHDcir5O8Vov6Fo-b2xaPm9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382886/%E7%BE%8E%E5%9C%8B%E9%A6%96%E9%83%BD%E8%A1%97%E9%A0%AD%E8%AE%8A%E8%B3%BD%E8%BB%8A%E5%A0%B4-%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E7%82%BA%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4%E6%85%B6%E7%A5%9D%E7%95%AB%E4%B8%8A%E5%8F%A5%E8%99%9F",
-    "timestamp": "2026-08-23T19:16:19.964Z",
     "strategy": ".content-card__main"
   }
 ];
