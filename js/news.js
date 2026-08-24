@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T14:55:21.226Z
+// Last updated: 2026-08-24T15:22:20.735Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧凱文用港普訪問劉洋被反嘲：你嘅廣東話講得真廣東",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168677965173624832425930.jpeg/G--bRJr7jD-NH8Uc0gGZRibWD_yq4NDZZkEYzWZBGM0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383232/%E9%84%A7%E5%87%B1%E6%96%87%E7%94%A8%E6%B8%AF%E6%99%AE%E8%A8%AA%E5%95%8F%E5%8A%89%E6%B4%8B%E8%A2%AB%E5%8F%8D%E5%98%B2-%E4%BD%A0%E5%98%85%E5%BB%A3%E6%9D%B1%E8%A9%B1%E8%AC%9B%E5%BE%97%E7%9C%9F%E5%BB%A3%E6%9D%B1",
+    "timestamp": "2026-08-24T15:22:20.735Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福島核電站排污滿3年　累計排17萬噸僅減少8%　日方促港澳撤禁令",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240313/844458633952497664927406.jpeg/9Nbcc8vBaNBRcHSJDTI-tZiVyNZZvILzfQmES30JhEs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382982/%E6%8C%AA%E5%A8%81%E5%9C%8B%E7%8E%8B%E8%A1%80%E6%B6%B2%E7%B4%B0%E8%8F%8C%E6%84%9F%E6%9F%93%E5%85%A5%E9%99%A2-%E5%81%A5%E5%BA%B7%E4%B8%80%E5%BA%A6%E6%83%A1%E5%8C%96",
     "timestamp": "2026-08-24T04:08:32.200Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞蝦堡下架｜港麥當勞指檢測機構證安全　推廣已完冀明年再見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168520207367409664067259.jpeg/SWLG4nt_Yo0pOJHO7jBvSwTexXhspbOJrlCn4a5Qp-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382970/%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%9D%A6%E5%A0%A1%E4%B8%8B%E6%9E%B6-%E6%B8%AF%E9%BA%A5%E7%95%B6%E5%8B%9E%E6%8C%87%E6%AA%A2%E6%B8%AC%E6%A9%9F%E6%A7%8B%E8%AD%89%E5%AE%89%E5%85%A8-%E6%8E%A8%E5%BB%A3%E5%B7%B2%E5%AE%8C%E5%86%80%E6%98%8E%E5%B9%B4%E5%86%8D%E8%A6%8B",
-    "timestamp": "2026-08-24T03:43:02.823Z",
     "strategy": ".content-card__main"
   }
 ];
