@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T20:14:49.222Z
+// Last updated: 2026-08-24T20:30:41.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳鸚鵡疑遭剪翼　警拘39歲主人涉殘酷對待動物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142259355081510912371409.jpeg/jOYZYh_moz79Kjpp_TtBie6kxNrWCSq4aC8X2lIvF9o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383257/%E5%B0%87%E8%BB%8D%E6%BE%B3%E9%B8%9A%E9%B5%A1%E7%96%91%E9%81%AD%E5%89%AA%E7%BF%BC-%E8%AD%A6%E6%8B%9839%E6%AD%B2%E4%B8%BB%E4%BA%BA%E6%B6%89%E6%AE%98%E9%85%B7%E5%B0%8D%E5%BE%85%E5%8B%95%E7%89%A9",
+    "timestamp": "2026-08-24T20:30:41.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洪水橋片區｜團結香港基金歡迎招標結果　劉國勳稱展示產業新城",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130533347110686720512936.jpeg/a2smQaRGqd38VLXAB5AotTnSXklMFbWZ8ATJLNUEySw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383202/%E4%B8%8A%E5%8D%8A%E5%B9%B463%E4%BA%BA%E8%BB%8A%E7%A6%8D%E5%96%AA%E7%94%9F-%E8%AD%A6%E5%85%A9%E5%91%A8%E7%99%BC%E9%80%BE4000%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE-%E7%A5%A8%E6%8E%A7%E8%BF%91%E5%8D%83%E4%BA%BA%E4%BA%82%E9%81%8E%E8%B7%AF",
     "timestamp": "2026-08-24T11:31:18.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國豪華列車｜4大奢華鐵路　睇新疆絕景　林都號/新東方快車攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168635008856887296035862.png/jlDPt3-q8Wt0kWv3rWkTsFOLKBHtLj1MuBVlKrgVZSo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60383074/%E4%B8%AD%E5%9C%8B%E8%B1%AA%E8%8F%AF%E5%88%97%E8%BB%8A-4%E5%A4%A7%E5%A5%A2%E8%8F%AF%E9%90%B5%E8%B7%AF-%E7%9D%87%E6%96%B0%E7%96%86%E7%B5%95%E6%99%AF-%E6%9E%97%E9%83%BD%E8%99%9F-%E6%96%B0%E6%9D%B1%E6%96%B9%E5%BF%AB%E8%BB%8A%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-08-24T11:15:29.822Z",
     "strategy": ".content-card__main"
   }
 ];
