@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T18:56:47.495Z
+// Last updated: 2026-08-24T19:19:40.371Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林定國率團訪新疆　推廣香港法律和解決爭議服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168755096083894272589472.jpeg/Rnvt-1-m8f05vRMc6pq95RNaxsWUsu9f2KHgd9ih4Hc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60383253/%E6%9E%97%E5%AE%9A%E5%9C%8B%E7%8E%87%E5%9C%98%E8%A8%AA%E6%96%B0%E7%96%86-%E6%8E%A8%E5%BB%A3%E9%A6%99%E6%B8%AF%E6%B3%95%E5%BE%8B%E5%92%8C%E8%A7%A3%E6%B1%BA%E7%88%AD%E8%AD%B0%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-08-24T19:19:40.371Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博社：美國或在習特會前公布　依產能過剩對華加徵7.5%關稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168623352080764928498073.png/QDHgBjsnpTP6DgBpDz0NvKAABYxVKoblDn9zYQ5_c2E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60383133/%E9%8A%85%E9%91%BC%E7%81%A3cafe-10%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%A4%A7%E7%8E%BB%E7%92%83%E7%AA%97-180%E5%BA%A6%E6%B5%B7%E6%99%AF-%E5%BF%85%E8%A9%A6%E5%92%96%E5%95%A1-%E8%8A%9D%E5%A3%AB%E8%9B%8B%E7%B3%95",
     "timestamp": "2026-08-24T10:22:11.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：Perplexity或再獲Nvidia投資　公司估值料超過300億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250710/1020028271376470016705316.jpeg/zv3HLhGRWi8sDdGq9otiIyltMGQ98OltQM5vKUDObyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383112/%E7%BE%8E%E5%AA%92-perplexity%E6%88%96%E5%86%8D%E7%8D%B2nvidia%E6%8A%95%E8%B3%87-%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E6%96%99%E8%B6%85%E9%81%8E300%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-08-24T08:52:49.986Z",
     "strategy": ".content-card__main"
   }
 ];
