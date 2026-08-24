@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T20:30:41.867Z
+// Last updated: 2026-08-24T20:49:16.149Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大老山隧道兩私家車相撞　管內交通一度擠塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168777538672005120603825.jpeg/-BnhH40O7QppmSPzs-UEwaOvytEBNHjfNl00HDZdNBw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383258/%E5%A4%A7%E8%80%81%E5%B1%B1%E9%9A%A7%E9%81%93%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%AE%A1%E5%85%A7%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
+    "timestamp": "2026-08-24T20:49:16.149Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳鸚鵡疑遭剪翼　警拘39歲主人涉殘酷對待動物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/18249/org/3e5c01736cb0545a655e1056c8f0ab8c.jpg/FQRNyISRUqYypN5wNp8DHn96WzLca5ISUTiliFE4pYg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383178/%E6%95%99%E8%82%B2%E5%B1%80%E5%84%AA%E5%8C%96%E9%AB%98%E4%B8%AD%E6%95%B8%E7%90%86%E7%A7%91%E7%9B%AE%E8%AA%B2%E7%A8%8B%E8%A8%AD%E7%BD%AE-%E5%B0%87%E5%8A%83%E5%88%86%E5%9F%BA%E7%A4%8E%E8%88%87%E9%9D%9E%E5%9F%BA%E7%A4%8E%E8%AA%B2%E9%A1%8C",
     "timestamp": "2026-08-24T12:01:16.371Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上半年63人車禍喪生　警兩周發逾4000張牛肉乾　票控近千人亂過路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130533347110686720512936.jpeg/a2smQaRGqd38VLXAB5AotTnSXklMFbWZ8ATJLNUEySw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383202/%E4%B8%8A%E5%8D%8A%E5%B9%B463%E4%BA%BA%E8%BB%8A%E7%A6%8D%E5%96%AA%E7%94%9F-%E8%AD%A6%E5%85%A9%E5%91%A8%E7%99%BC%E9%80%BE4000%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE-%E7%A5%A8%E6%8E%A7%E8%BF%91%E5%8D%83%E4%BA%BA%E4%BA%82%E9%81%8E%E8%B7%AF",
-    "timestamp": "2026-08-24T11:31:18.046Z",
     "strategy": ".content-card__main"
   }
 ];
