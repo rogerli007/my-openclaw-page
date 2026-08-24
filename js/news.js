@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T02:17:51.378Z
+// Last updated: 2026-08-24T02:50:18.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣南部暴雨成災　高雄4天下完全年一半雨量　台南車站變｢碼頭｣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168510597256450048948703.jpeg/hc-Dqs6wACraZ0PsBkUJfhz2eXxVr0lie_sJPXv7CT0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60382946/%E5%8F%B0%E7%81%A3%E5%8D%97%E9%83%A8%E6%9A%B4%E9%9B%A8%E6%88%90%E7%81%BD-%E9%AB%98%E9%9B%844%E5%A4%A9%E4%B8%8B%E5%AE%8C%E5%85%A8%E5%B9%B4%E4%B8%80%E5%8D%8A%E9%9B%A8%E9%87%8F-%E5%8F%B0%E5%8D%97%E8%BB%8A%E7%AB%99%E8%AE%8A-%E7%A2%BC%E9%A0%AD",
+    "timestamp": "2026-08-24T02:50:18.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "HONOR Robot Phone實測　AI手機鏡頭會自己轉　自動跟拍還能對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168392629239418880235791.jpeg/7eyiYdfhOW6Rgg4zNb3gHDcir5O8Vov6Fo-b2xaPm9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382886/%E7%BE%8E%E5%9C%8B%E9%A6%96%E9%83%BD%E8%A1%97%E9%A0%AD%E8%AE%8A%E8%B3%BD%E8%BB%8A%E5%A0%B4-%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E7%82%BA%E5%BB%BA%E5%9C%8B250%E5%91%A8%E5%B9%B4%E6%85%B6%E7%A5%9D%E7%95%AB%E4%B8%8A%E5%8F%A5%E8%99%9F",
     "timestamp": "2026-08-23T19:16:19.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌邨老翁墮樓亡　警調查揭一女子伏屍單位內　身上有利器傷痕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168384897396510720576841.jpeg/dj8J0AlPP03ueMT1MUblL2bNxVtOvsGgSDGS1WIxktU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382883/%E8%91%B5%E6%B6%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%8F%AD%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BC%8F%E5%B1%8D%E5%96%AE%E4%BD%8D%E5%85%A7-%E8%BA%AB%E4%B8%8A%E6%9C%89%E5%88%A9%E5%99%A8%E5%82%B7%E7%97%95",
-    "timestamp": "2026-08-23T19:03:50.673Z",
     "strategy": ".content-card__main"
   }
 ];
