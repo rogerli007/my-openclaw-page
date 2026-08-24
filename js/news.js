@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T15:22:20.735Z
+// Last updated: 2026-08-24T16:17:33.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運跆拳道｜品勢代表初戰亞運　呂靖楠冀以佳績證港隊實力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168694233377280000935064.jpeg/cqAzjh18A-jLU-trpZTNUkxtu-esQtlWX0Dl9F9A5fQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383239/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E8%B7%86%E6%8B%B3%E9%81%93-%E5%93%81%E5%8B%A2%E4%BB%A3%E8%A1%A8%E5%88%9D%E6%88%B0%E4%BA%9E%E9%81%8B-%E5%91%82%E9%9D%96%E6%A5%A0%E5%86%80%E4%BB%A5%E4%BD%B3%E7%B8%BE%E8%AD%89%E6%B8%AF%E9%9A%8A%E5%AF%A6%E5%8A%9B",
+    "timestamp": "2026-08-24T16:17:33.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧凱文用港普訪問劉洋被反嘲：你嘅廣東話講得真廣東",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168532941312102400971328.jpeg/fuAGRoOPx7A7t_QJnBBkELqg4-m70qWUMKMz8TCjM_E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60382983/%E4%BA%94%E7%86%8A%E7%96%91%E6%AF%80%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E8%A2%AB%E6%8D%95-%E6%81%90%E9%9D%A2%E8%87%A85%E5%B9%B4%E7%9B%A3%E7%A6%81%E4%B8%94%E7%B5%82%E8%BA%AB%E7%A6%81%E6%AD%A2%E8%B5%B4%E6%97%A5",
     "timestamp": "2026-08-24T04:35:17.359Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "挪威國王血液細菌感染入院　健康一度惡化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240313/844458633952497664927406.jpeg/9Nbcc8vBaNBRcHSJDTI-tZiVyNZZvILzfQmES30JhEs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382982/%E6%8C%AA%E5%A8%81%E5%9C%8B%E7%8E%8B%E8%A1%80%E6%B6%B2%E7%B4%B0%E8%8F%8C%E6%84%9F%E6%9F%93%E5%85%A5%E9%99%A2-%E5%81%A5%E5%BA%B7%E4%B8%80%E5%BA%A6%E6%83%A1%E5%8C%96",
-    "timestamp": "2026-08-24T04:08:32.200Z",
     "strategy": ".content-card__main"
   }
 ];
