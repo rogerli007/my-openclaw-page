@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T04:08:32.200Z
+// Last updated: 2026-08-24T04:35:17.359Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣藝人五熊疑毀日本國寶被捕！恐面臨5年監禁且終身禁止赴日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168532941312102400971328.jpeg/fuAGRoOPx7A7t_QJnBBkELqg4-m70qWUMKMz8TCjM_E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60382983/%E4%BA%94%E7%86%8A%E7%96%91%E6%AF%80%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E8%A2%AB%E6%8D%95-%E6%81%90%E9%9D%A2%E8%87%A85%E5%B9%B4%E7%9B%A3%E7%A6%81%E4%B8%94%E7%B5%82%E8%BA%AB%E7%A6%81%E6%AD%A2%E8%B5%B4%E6%97%A5",
+    "timestamp": "2026-08-24T04:35:17.359Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "挪威國王血液細菌感染入院　健康一度惡化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168407529718288384654792.jpeg/OSin7QVtNIJ5nqzkIgEO8PY78bL6FcjRx5oBrceaAa0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382889/%E7%95%BF%E5%85%A7%E4%BA%9E%E5%A0%86%E5%A1%AB%E5%8D%80%E5%9E%83%E5%9C%BE%E5%B1%B1%E5%80%92%E5%A1%8C-%E8%87%B3%E5%B0%9130%E6%AD%BB22%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-08-23T20:29:32.547Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "畿內亞堆填區垃圾山倒塌　至少30死22人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168407529718288384654792.jpeg/OSin7QVtNIJ5nqzkIgEO8PY78bL6FcjRx5oBrceaAa0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382889/%E7%95%BF%E5%85%A7%E4%BA%9E%E5%A0%86%E5%A1%AB%E5%8D%80%E5%9E%83%E5%9C%BE%E5%B1%B1%E5%80%92%E5%A1%8C-%E8%87%B3%E5%B0%9130%E6%AD%BB22%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-08-23T20:10:33.723Z",
     "strategy": ".content-card__main"
   }
 ];
