@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T12:01:16.371Z
+// Last updated: 2026-08-24T12:21:07.869Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "放狗遭惡漢指控狗咬人阻離開　警證「傷者」無被咬　狗主籲護權益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168641612306190336283701.jpeg/C2wOOije4z5GMByImOKtu6SRKUzf_jRqPCgdFCooHRQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382990/%E6%94%BE%E7%8B%97%E9%81%AD%E6%83%A1%E6%BC%A2%E6%8C%87%E6%8E%A7%E7%8B%97%E5%92%AC%E4%BA%BA%E9%98%BB%E9%9B%A2%E9%96%8B-%E8%AD%A6%E8%AD%89-%E5%82%B7%E8%80%85-%E7%84%A1%E8%A2%AB%E5%92%AC-%E7%8B%97%E4%B8%BB%E7%B1%B2%E8%AD%B7%E6%AC%8A%E7%9B%8A",
+    "timestamp": "2026-08-24T12:21:07.869Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教育局優化高中數理科目課程設置　將劃分基礎與非基礎課題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251103/1062072838246109184320154.png/3LXcJZuptiQlDCYbP_XYTxRhmXOkE2e7GkqEQhpKhEI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60291093/4%E5%80%8B%E7%B6%93%E5%B8%B8-%E6%83%B3%E5%A4%AA%E5%A4%9A-%E7%9A%84%E6%98%9F%E5%BA%A7-%E5%B7%A8%E8%9F%B9%E7%B8%BD%E8%A6%BA%E5%88%A5%E4%BA%BA%E8%A9%B1%E4%B8%AD%E6%9C%89%E8%A9%B1-%E9%9B%99%E5%AD%90%E6%9A%97%E8%A3%8F%E6%82%B2%E8%A7%80",
     "timestamp": "2026-08-24T01:43:13.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地劇《重器》錢興良案屈打成招亡妻歸來　5點相似還原佘祥林案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168330955543285760703984.png/b4bnpnWjFIDDR0Ty0n6pUSwJSYiqbVdqJyky7ScpMu0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381802/%E5%85%A7%E5%9C%B0%E5%8A%87-%E9%87%8D%E5%99%A8-%E9%8C%A2%E8%88%88%E8%89%AF%E6%A1%88%E5%B1%88%E6%89%93%E6%88%90%E6%8B%9B%E4%BA%A1%E5%A6%BB%E6%AD%B8%E4%BE%86-5%E9%BB%9E%E7%9B%B8%E4%BC%BC%E9%82%84%E5%8E%9F%E4%BD%98%E7%A5%A5%E6%9E%97%E6%A1%88",
-    "timestamp": "2026-08-24T00:54:35.572Z",
     "strategy": ".content-card__main"
   }
 ];
