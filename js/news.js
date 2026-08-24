@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T22:30:59.686Z
+// Last updated: 2026-08-24T22:46:43.730Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "71歲王晶瘋狂眨眼惹中風先兆　最新全家福驚見招牌大肚腩縮水變細",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168556938166800384367249.png/aejqmnlFqVx2lgZOQjcRmp5jJm4ranosxY4-McWOPjE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383034/71%E6%AD%B2%E7%8E%8B%E6%99%B6%E7%98%8B%E7%8B%82%E7%9C%A8%E7%9C%BC%E6%83%B9%E4%B8%AD%E9%A2%A8%E5%85%88%E5%85%86-%E6%9C%80%E6%96%B0%E5%85%A8%E5%AE%B6%E7%A6%8F%E9%A9%9A%E8%A6%8B%E6%8B%9B%E7%89%8C%E5%A4%A7%E8%82%9A%E8%85%A9%E7%B8%AE%E6%B0%B4%E8%AE%8A%E7%B4%B0",
+    "timestamp": "2026-08-24T22:46:43.730Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴基斯坦陸軍總參謀長、阿曼外長先後到訪　與伊朗商地區局勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168677965173624832425930.jpeg/G--bRJr7jD-NH8Uc0gGZRibWD_yq4NDZZkEYzWZBGM0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383232/%E9%84%A7%E5%87%B1%E6%96%87%E7%94%A8%E6%B8%AF%E6%99%AE%E8%A8%AA%E5%95%8F%E5%8A%89%E6%B4%8B%E8%A2%AB%E5%8F%8D%E5%98%B2-%E4%BD%A0%E5%98%85%E5%BB%A3%E6%9D%B1%E8%A9%B1%E8%AC%9B%E5%BE%97%E7%9C%9F%E5%BB%A3%E6%9D%B1",
     "timestamp": "2026-08-24T15:22:20.735Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福島核電站排污滿3年　累計排17萬噸僅減少8%　日方促港澳撤禁令",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220207/567454574076497920019728.jpeg/czbPl7UkVd-ER43Qt2UD8guPtHVrrQpq3B0rpNwdK6Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383236/%E7%A6%8F%E5%B3%B6%E6%A0%B8%E9%9B%BB%E7%AB%99%E6%8E%92%E6%B1%A1%E6%BB%BF3%E5%B9%B4-%E7%B4%AF%E8%A8%88%E6%8E%9217%E8%90%AC%E5%99%B8%E5%83%85%E6%B8%9B%E5%B0%918-%E6%97%A5%E6%96%B9%E4%BF%83%E6%B8%AF%E6%BE%B3%E6%92%A4%E7%A6%81%E4%BB%A4",
-    "timestamp": "2026-08-24T14:55:21.226Z",
     "strategy": ".content-card__main"
   }
 ];
