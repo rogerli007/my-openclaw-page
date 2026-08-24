@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T21:47:16.230Z
+// Last updated: 2026-08-24T22:00:43.499Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜車路士作客3：2勝富咸　新三叉戟各建一功",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168779584527667200295610.jpeg/vpx07NfuMXORnpSeDjMob7Qre9rkQ-_pdTocMnU6HDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383259/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%BD%9C%E5%AE%A23-2%E5%8B%9D%E5%AF%8C%E5%92%B8-%E6%96%B0%E4%B8%89%E5%8F%89%E6%88%9F%E5%90%84%E5%BB%BA%E4%B8%80%E5%8A%9F",
+    "timestamp": "2026-08-24T22:00:43.499Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜車路士作客3：2勝富咸　新三叉戟各建一功",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168637168558542848628745.jpeg/B7Xm8WrizY3Xizx4lNHRupD9kIy5l6nB-FX0_t1V9P4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383186/%E9%80%A3%E9%8E%96%E5%81%A5%E8%BA%AB%E5%AE%A4%E6%89%BF%E7%A7%9F%E7%B5%90%E6%A5%AD%E9%85%92%E6%A8%93%E5%B7%A8%E8%88%96-efx24-%E5%81%A5%E8%BA%AB%E9%9C%80%E6%B1%82%E5%A2%9E-%E4%B8%8D%E6%86%82%E4%B8%8D%E5%9B%9E%E6%9C%AC",
     "timestamp": "2026-08-24T13:11:53.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東南亞抵港行李藏$620萬私煙　海關破多案拘14人　判囚8至20個月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168653187658289152167348.jpeg/DoxtirwBcEGBftNMKN_2FrNqLZOAjIU5X_qSZ1_6kmc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383215/%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%8A%B5%E6%B8%AF%E8%A1%8C%E6%9D%8E%E8%97%8F-620%E8%90%AC%E7%A7%81%E7%85%99-%E6%B5%B7%E9%97%9C%E7%A0%B4%E5%A4%9A%E6%A1%88%E6%8B%9814%E4%BA%BA-%E5%88%A4%E5%9B%9A8%E8%87%B320%E5%80%8B%E6%9C%88",
-    "timestamp": "2026-08-24T12:37:13.087Z",
     "strategy": ".content-card__main"
   }
 ];
