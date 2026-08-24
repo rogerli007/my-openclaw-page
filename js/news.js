@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T03:43:02.823Z
+// Last updated: 2026-08-24T04:08:32.200Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "挪威國王血液細菌感染入院　健康一度惡化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240313/844458633952497664927406.jpeg/9Nbcc8vBaNBRcHSJDTI-tZiVyNZZvILzfQmES30JhEs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382982/%E6%8C%AA%E5%A8%81%E5%9C%8B%E7%8E%8B%E8%A1%80%E6%B6%B2%E7%B4%B0%E8%8F%8C%E6%84%9F%E6%9F%93%E5%85%A5%E9%99%A2-%E5%81%A5%E5%BA%B7%E4%B8%80%E5%BA%A6%E6%83%A1%E5%8C%96",
+    "timestamp": "2026-08-24T04:08:32.200Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞蝦堡下架｜港麥當勞指檢測機構證安全　推廣已完冀明年再見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168407529718288384654792.jpeg/OSin7QVtNIJ5nqzkIgEO8PY78bL6FcjRx5oBrceaAa0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382889/%E7%95%BF%E5%85%A7%E4%BA%9E%E5%A0%86%E5%A1%AB%E5%8D%80%E5%9E%83%E5%9C%BE%E5%B1%B1%E5%80%92%E5%A1%8C-%E8%87%B3%E5%B0%9130%E6%AD%BB22%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-08-23T20:10:33.723Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海兒否認暫別幕前   工作排到明年一月：要揾多啲錢實現夢想",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168368974316965888879423.jpeg/WDyY5r6_vVwOpW2ak4FKjdKtQ8bCADTKxnFt4fxxbeE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382881/%E6%B5%B7%E5%85%92%E5%90%A6%E8%AA%8D%E6%9A%AB%E5%88%A5%E5%B9%95%E5%89%8D-%E5%B7%A5%E4%BD%9C%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4%E4%B8%80%E6%9C%88-%E8%A6%81%E6%8F%BE%E5%A4%9A%E5%95%B2%E9%8C%A2%E5%AF%A6%E7%8F%BE%E5%A4%A2%E6%83%B3",
-    "timestamp": "2026-08-23T19:55:46.442Z",
     "strategy": ".content-card__main"
   }
 ];
