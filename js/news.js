@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T13:11:53.488Z
+// Last updated: 2026-08-24T14:07:42.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國女子曼谷酒店外遭綁　被帶往泰緬邊境途中跳車自救｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168677082612371456942657.jpeg/DFtogR39Nf9QCsgcUxOXRDeRzSZjPxNHrXwOW618Dls",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60383230/%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%9B%BC%E8%B0%B7%E9%85%92%E5%BA%97%E5%A4%96%E9%81%AD%E7%B6%81-%E8%A2%AB%E5%B8%B6%E5%BE%80%E6%B3%B0%E7%B7%AC%E9%82%8A%E5%A2%83%E9%80%94%E4%B8%AD%E8%B7%B3%E8%BB%8A%E8%87%AA%E6%95%91-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-24T14:07:42.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "連鎖健身室承租結業酒樓巨舖　EFX24：健身需求增　不憂不回本",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168513035803824128843159.jpeg/4Fh87VhEZi4JLEzsdi7i5ofWcNDp3va1n868kp_OvJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382905/%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%94%B7%E5%A5%B3%E9%9C%B8%E4%BD%8D%E9%A3%9F%E7%87%92%E5%91%B3%E9%A3%AF-%E8%A2%AB%E5%8B%B8%E9%98%BB%E5%86%9A%E9%A3%AF%E7%9B%92%E6%8B%92%E9%9B%A2%E9%96%8B-%E5%A5%B3%E5%93%A1%E5%B7%A5%E5%81%9A%E6%B3%95%E7%8D%B2%E8%AE%9A",
     "timestamp": "2026-08-24T03:17:56.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣南部暴雨成災　高雄4天下完全年一半雨量　台南車站變｢碼頭｣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168510597256450048948703.jpeg/hc-Dqs6wACraZ0PsBkUJfhz2eXxVr0lie_sJPXv7CT0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60382946/%E5%8F%B0%E7%81%A3%E5%8D%97%E9%83%A8%E6%9A%B4%E9%9B%A8%E6%88%90%E7%81%BD-%E9%AB%98%E9%9B%844%E5%A4%A9%E4%B8%8B%E5%AE%8C%E5%85%A8%E5%B9%B4%E4%B8%80%E5%8D%8A%E9%9B%A8%E9%87%8F-%E5%8F%B0%E5%8D%97%E8%BB%8A%E7%AB%99%E8%AE%8A-%E7%A2%BC%E9%A0%AD",
-    "timestamp": "2026-08-24T02:50:18.236Z",
     "strategy": ".content-card__main"
   }
 ];
