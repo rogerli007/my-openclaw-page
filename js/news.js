@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T03:17:56.012Z
+// Last updated: 2026-08-24T03:43:02.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當勞蝦堡下架｜港麥當勞指檢測機構證安全　推廣已完冀明年再見",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168520207367409664067259.jpeg/SWLG4nt_Yo0pOJHO7jBvSwTexXhspbOJrlCn4a5Qp-E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382970/%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%9D%A6%E5%A0%A1%E4%B8%8B%E6%9E%B6-%E6%B8%AF%E9%BA%A5%E7%95%B6%E5%8B%9E%E6%8C%87%E6%AA%A2%E6%B8%AC%E6%A9%9F%E6%A7%8B%E8%AD%89%E5%AE%89%E5%85%A8-%E6%8E%A8%E5%BB%A3%E5%B7%B2%E5%AE%8C%E5%86%80%E6%98%8E%E5%B9%B4%E5%86%8D%E8%A6%8B",
+    "timestamp": "2026-08-24T03:43:02.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞男女霸位食燒味飯！被勸阻拒離開1舉動更衰　員工做法獲讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168368974316965888879423.jpeg/WDyY5r6_vVwOpW2ak4FKjdKtQ8bCADTKxnFt4fxxbeE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382881/%E6%B5%B7%E5%85%92%E5%90%A6%E8%AA%8D%E6%9A%AB%E5%88%A5%E5%B9%95%E5%89%8D-%E5%B7%A5%E4%BD%9C%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4%E4%B8%80%E6%9C%88-%E8%A6%81%E6%8F%BE%E5%A4%9A%E5%95%B2%E9%8C%A2%E5%AF%A6%E7%8F%BE%E5%A4%A2%E6%83%B3",
     "timestamp": "2026-08-23T19:55:46.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海兒否認暫別幕前   工作排到明年一月：要揾多啲錢實現夢想",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168368974316965888879423.jpeg/WDyY5r6_vVwOpW2ak4FKjdKtQ8bCADTKxnFt4fxxbeE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382881/%E6%B5%B7%E5%85%92%E5%90%A6%E8%AA%8D%E6%9A%AB%E5%88%A5%E5%B9%95%E5%89%8D-%E5%B7%A5%E4%BD%9C%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4%E4%B8%80%E6%9C%88-%E8%A6%81%E6%8F%BE%E5%A4%9A%E5%95%B2%E9%8C%A2%E5%AF%A6%E7%8F%BE%E5%A4%A2%E6%83%B3",
-    "timestamp": "2026-08-23T19:33:28.879Z",
     "strategy": ".content-card__main"
   }
 ];
