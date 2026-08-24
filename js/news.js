@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T19:19:40.371Z
+// Last updated: 2026-08-24T20:00:03.494Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪水橋片區｜團結香港基金歡迎招標結果　劉國勳稱展示產業新城",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141149899887218688164527.jpeg/r3IJVpEMWLX668vwnGNGVEqZNg3uO3yPlcC8dZXAvHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383254/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%89%87%E5%8D%80-%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E5%9F%BA%E9%87%91%E6%AD%A1%E8%BF%8E%E6%8B%9B%E6%A8%99%E7%B5%90%E6%9E%9C-%E5%8A%89%E5%9C%8B%E5%8B%B3%E7%A8%B1%E5%B1%95%E7%A4%BA%E7%94%A2%E6%A5%AD%E6%96%B0%E5%9F%8E",
+    "timestamp": "2026-08-24T20:00:03.494Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林定國率團訪新疆　推廣香港法律和解決爭議服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168628923064389632814039.jpeg/56PuF3LityynKMFH7aZoqvGQb_KdIFsKFHY63xR2Ot8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383193/%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%94%98%E5%A2%AE%E6%8A%95%E8%B3%87%E9%A8%99%E6%A1%88%E8%A2%AB%E5%91%83-120%E8%90%AC-%E5%B0%8B-%E5%8F%8D%E8%A9%90%E8%81%AF%E7%9B%9F%E5%BE%8B%E5%B8%AB-%E8%BF%BD%E8%A8%8E%E5%86%8D%E5%A4%B130%E8%90%AC",
     "timestamp": "2026-08-24T10:50:36.958Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "銅鑼灣Cafe｜10大推介！大玻璃窗+180度海景　必試咖啡、芝士蛋糕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168623352080764928498073.png/QDHgBjsnpTP6DgBpDz0NvKAABYxVKoblDn9zYQ5_c2E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60383133/%E9%8A%85%E9%91%BC%E7%81%A3cafe-10%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%A4%A7%E7%8E%BB%E7%92%83%E7%AA%97-180%E5%BA%A6%E6%B5%B7%E6%99%AF-%E5%BF%85%E8%A9%A6%E5%92%96%E5%95%A1-%E8%8A%9D%E5%A3%AB%E8%9B%8B%E7%B3%95",
-    "timestamp": "2026-08-24T10:22:11.999Z",
     "strategy": ".content-card__main"
   }
 ];
