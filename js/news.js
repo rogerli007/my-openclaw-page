@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T11:15:29.822Z
+// Last updated: 2026-08-24T11:31:18.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上半年63人車禍喪生　警兩周發逾4000張牛肉乾　票控近千人亂過路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260511/1130533347110686720512936.jpeg/a2smQaRGqd38VLXAB5AotTnSXklMFbWZ8ATJLNUEySw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383202/%E4%B8%8A%E5%8D%8A%E5%B9%B463%E4%BA%BA%E8%BB%8A%E7%A6%8D%E5%96%AA%E7%94%9F-%E8%AD%A6%E5%85%A9%E5%91%A8%E7%99%BC%E9%80%BE4000%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE-%E7%A5%A8%E6%8E%A7%E8%BF%91%E5%8D%83%E4%BA%BA%E4%BA%82%E9%81%8E%E8%B7%AF",
+    "timestamp": "2026-08-24T11:31:18.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國豪華列車｜4大奢華鐵路　睇新疆絕景　林都號/新東方快車攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168330955543285760703984.png/b4bnpnWjFIDDR0Ty0n6pUSwJSYiqbVdqJyky7ScpMu0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60381802/%E5%85%A7%E5%9C%B0%E5%8A%87-%E9%87%8D%E5%99%A8-%E9%8C%A2%E8%88%88%E8%89%AF%E6%A1%88%E5%B1%88%E6%89%93%E6%88%90%E6%8B%9B%E4%BA%A1%E5%A6%BB%E6%AD%B8%E4%BE%86-5%E9%BB%9E%E7%9B%B8%E4%BC%BC%E9%82%84%E5%8E%9F%E4%BD%98%E7%A5%A5%E6%9E%97%E6%A1%88",
     "timestamp": "2026-08-24T00:24:21.069Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美加貿易戰｜特朗普犯上跟伊朗戰爭一樣的錯誤？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168387378990026752159238.png/cXNSVr4ytrljriFkGcE3uEpM9lBOAoZ6CIyjrgiMo64?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60382884/%E7%BE%8E%E5%8A%A0%E8%B2%BF%E6%98%93%E6%88%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%AF%E4%B8%8A%E8%B7%9F%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%B8%80%E6%A8%A3%E7%9A%84%E9%8C%AF%E8%AA%A4",
-    "timestamp": "2026-08-23T23:56:30.452Z",
     "strategy": ".content-card__main"
   }
 ];
