@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T07:36:00.803Z
+// Last updated: 2026-08-24T08:52:49.986Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：Perplexity或再獲Nvidia投資　公司估值料超過300億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250710/1020028271376470016705316.jpeg/zv3HLhGRWi8sDdGq9otiIyltMGQ98OltQM5vKUDObyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383112/%E7%BE%8E%E5%AA%92-perplexity%E6%88%96%E5%86%8D%E7%8D%B2nvidia%E6%8A%95%E8%B3%87-%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E6%96%99%E8%B6%85%E9%81%8E300%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-08-24T08:52:49.986Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地男星遭狂粉強拉車門貼臉拍照　下車「失控出手」拍落手機怒吼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168442454358102016135298.jpeg/neZcRVvbNaJ1AZseh19671MW89DenFnC9xG4evcRuHo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382879/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%A9%9F%E9%9B%A8%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%9832%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%88%96%E6%8E%9B%E9%A2%A8%E7%90%83",
     "timestamp": "2026-08-23T22:44:00.855Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古天樂新猛將揸波子開工極有型　曾傳結婚收一份七位數人情有福氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168262867753897984514960.jpeg/sZdXixQFTbgPPVa7yN6wI2jx67Ob1xEebRErA20RKwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382804/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%96%B0%E7%8C%9B%E5%B0%87%E6%8F%B8%E6%B3%A2%E5%AD%90%E9%96%8B%E5%B7%A5%E6%A5%B5%E6%9C%89%E5%9E%8B-%E6%9B%BE%E5%82%B3%E7%B5%90%E5%A9%9A%E6%94%B6%E4%B8%80%E4%BB%BD%E4%B8%83%E4%BD%8D%E6%95%B8%E4%BA%BA%E6%83%85%E6%9C%89%E7%A6%8F%E6%B0%A3",
-    "timestamp": "2026-08-23T22:30:20.221Z",
     "strategy": ".content-card__main"
   }
 ];
