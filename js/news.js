@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T04:35:17.359Z
+// Last updated: 2026-08-24T05:06:47.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "返學水樽揀邊款好？睇清4款水樽一周唔洗有幾污糟　必學清洗方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220420/593475697347923968560127.jpeg/6tMm0r4YguItHFVB0Hu_8yVSUTPaSl8EcsY5lHLGOZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/761199/%E8%BF%94%E5%AD%B8%E6%B0%B4%E6%A8%BD%E6%8F%80%E9%82%8A%E6%AC%BE%E5%A5%BD-%E7%9D%87%E6%B8%854%E6%AC%BE%E6%B0%B4%E6%A8%BD%E4%B8%80%E5%91%A8%E5%94%94%E6%B4%97%E6%9C%89%E5%B9%BE%E6%B1%A1%E7%B3%9F-%E5%BF%85%E5%AD%B8%E6%B8%85%E6%B4%97%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-08-24T05:06:47.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣藝人五熊疑毀日本國寶被捕！恐面臨5年監禁且終身禁止赴日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141026802504830976385049.jpeg/7MP8PfTHnShGgfNtXqunwQIRUDrWslOki98_3IvfP9w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382894/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E8%8D%89%E6%A1%88%E6%A2%9D%E6%AC%BE-%E5%87%86%E5%90%91%E5%8F%96%E9%81%93%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E9%9A%BB%E6%94%B6%E8%B2%BB",
     "timestamp": "2026-08-23T21:11:53.136Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "畿內亞堆填區垃圾山倒塌　至少30死22人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168407529718288384654792.jpeg/OSin7QVtNIJ5nqzkIgEO8PY78bL6FcjRx5oBrceaAa0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382889/%E7%95%BF%E5%85%A7%E4%BA%9E%E5%A0%86%E5%A1%AB%E5%8D%80%E5%9E%83%E5%9C%BE%E5%B1%B1%E5%80%92%E5%A1%8C-%E8%87%B3%E5%B0%9130%E6%AD%BB22%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-08-23T20:29:32.547Z",
     "strategy": ".content-card__main"
   }
 ];
