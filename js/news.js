@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T14:07:42.724Z
+// Last updated: 2026-08-24T14:55:21.226Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福島核電站排污滿3年　累計排17萬噸僅減少8%　日方促港澳撤禁令",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220207/567454574076497920019728.jpeg/czbPl7UkVd-ER43Qt2UD8guPtHVrrQpq3B0rpNwdK6Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383236/%E7%A6%8F%E5%B3%B6%E6%A0%B8%E9%9B%BB%E7%AB%99%E6%8E%92%E6%B1%A1%E6%BB%BF3%E5%B9%B4-%E7%B4%AF%E8%A8%88%E6%8E%9217%E8%90%AC%E5%99%B8%E5%83%85%E6%B8%9B%E5%B0%918-%E6%97%A5%E6%96%B9%E4%BF%83%E6%B8%AF%E6%BE%B3%E6%92%A4%E7%A6%81%E4%BB%A4",
+    "timestamp": "2026-08-24T14:55:21.226Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國女子曼谷酒店外遭綁　被帶往泰緬邊境途中跳車自救｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168520207367409664067259.jpeg/SWLG4nt_Yo0pOJHO7jBvSwTexXhspbOJrlCn4a5Qp-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60382970/%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%9D%A6%E5%A0%A1%E4%B8%8B%E6%9E%B6-%E6%B8%AF%E9%BA%A5%E7%95%B6%E5%8B%9E%E6%8C%87%E6%AA%A2%E6%B8%AC%E6%A9%9F%E6%A7%8B%E8%AD%89%E5%AE%89%E5%85%A8-%E6%8E%A8%E5%BB%A3%E5%B7%B2%E5%AE%8C%E5%86%80%E6%98%8E%E5%B9%B4%E5%86%8D%E8%A6%8B",
     "timestamp": "2026-08-24T03:43:02.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞男女霸位食燒味飯！被勸阻拒離開1舉動更衰　員工做法獲讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168513035803824128843159.jpeg/4Fh87VhEZi4JLEzsdi7i5ofWcNDp3va1n868kp_OvJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382905/%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%94%B7%E5%A5%B3%E9%9C%B8%E4%BD%8D%E9%A3%9F%E7%87%92%E5%91%B3%E9%A3%AF-%E8%A2%AB%E5%8B%B8%E9%98%BB%E5%86%9A%E9%A3%AF%E7%9B%92%E6%8B%92%E9%9B%A2%E9%96%8B-%E5%A5%B3%E5%93%A1%E5%B7%A5%E5%81%9A%E6%B3%95%E7%8D%B2%E8%AE%9A",
-    "timestamp": "2026-08-24T03:17:56.012Z",
     "strategy": ".content-card__main"
   }
 ];
