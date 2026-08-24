@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T01:43:13.337Z
+// Last updated: 2026-08-24T02:17:51.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "HONOR Robot Phone實測　AI手機鏡頭會自己轉　自動跟拍還能對話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167520520715898880486207.jpeg/OQDsVgtjZwWxnJGC4NsU1GwHWCTG3YFYz6pblM-qW5Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60382405/honor-robot-phone%E5%AF%A6%E6%B8%AC-ai%E6%89%8B%E6%A9%9F%E9%8F%A1%E9%A0%AD%E6%9C%83%E8%87%AA%E5%B7%B1%E8%BD%89-%E8%87%AA%E5%8B%95%E8%B7%9F%E6%8B%8D%E9%82%84%E8%83%BD%E5%B0%8D%E8%A9%B1",
+    "timestamp": "2026-08-24T02:17:51.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "4個經常「想太多」的星座　巨蟹總覺別人話中有話　雙子暗裏悲觀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168384897396510720576841.jpeg/dj8J0AlPP03ueMT1MUblL2bNxVtOvsGgSDGS1WIxktU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382883/%E8%91%B5%E6%B6%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%8F%AD%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BC%8F%E5%B1%8D%E5%96%AE%E4%BD%8D%E5%85%A7-%E8%BA%AB%E4%B8%8A%E6%9C%89%E5%88%A9%E5%99%A8%E5%82%B7%E7%97%95",
     "timestamp": "2026-08-23T19:03:50.673Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌邨老翁墮樓亡　警調查揭一女子伏屍單位內　身上有利器傷痕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168384897396510720576841.jpeg/dj8J0AlPP03ueMT1MUblL2bNxVtOvsGgSDGS1WIxktU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382883/%E8%91%B5%E6%B6%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%8F%AD%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BC%8F%E5%B1%8D%E5%96%AE%E4%BD%8D%E5%85%A7-%E8%BA%AB%E4%B8%8A%E6%9C%89%E5%88%A9%E5%99%A8%E5%82%B7%E7%97%95",
-    "timestamp": "2026-08-23T18:49:09.793Z",
     "strategy": ".content-card__main"
   }
 ];
