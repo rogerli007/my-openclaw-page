@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T16:17:33.615Z
+// Last updated: 2026-08-24T16:34:47.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本觀光船東京灣撞防波堤　9人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168712511877287936085173.png/SLDZ9bDmddPO5Af4bEpQTU3mS7kdtZIstwUQH7cFEB8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383242/%E6%97%A5%E6%9C%AC%E8%A7%80%E5%85%89%E8%88%B9%E6%9D%B1%E4%BA%AC%E7%81%A3%E6%92%9E%E9%98%B2%E6%B3%A2%E5%A0%A4-9%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-08-24T16:34:47.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運跆拳道｜品勢代表初戰亞運　呂靖楠冀以佳績證港隊實力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220420/593475697347923968560127.jpeg/6tMm0r4YguItHFVB0Hu_8yVSUTPaSl8EcsY5lHLGOZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/761199/%E8%BF%94%E5%AD%B8%E6%B0%B4%E6%A8%BD%E6%8F%80%E9%82%8A%E6%AC%BE%E5%A5%BD-%E7%9D%87%E6%B8%854%E6%AC%BE%E6%B0%B4%E6%A8%BD%E4%B8%80%E5%91%A8%E5%94%94%E6%B4%97%E6%9C%89%E5%B9%BE%E6%B1%A1%E7%B3%9F-%E5%BF%85%E5%AD%B8%E6%B8%85%E6%B4%97%E6%96%B9%E6%B3%95",
     "timestamp": "2026-08-24T05:06:47.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣藝人五熊疑毀日本國寶被捕！恐面臨5年監禁且終身禁止赴日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168532941312102400971328.jpeg/fuAGRoOPx7A7t_QJnBBkELqg4-m70qWUMKMz8TCjM_E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60382983/%E4%BA%94%E7%86%8A%E7%96%91%E6%AF%80%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E8%A2%AB%E6%8D%95-%E6%81%90%E9%9D%A2%E8%87%A85%E5%B9%B4%E7%9B%A3%E7%A6%81%E4%B8%94%E7%B5%82%E8%BA%AB%E7%A6%81%E6%AD%A2%E8%B5%B4%E6%97%A5",
-    "timestamp": "2026-08-24T04:35:17.359Z",
     "strategy": ".content-card__main"
   }
 ];
