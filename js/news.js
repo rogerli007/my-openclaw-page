@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T12:37:13.087Z
+// Last updated: 2026-08-24T13:11:53.488Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "連鎖健身室承租結業酒樓巨舖　EFX24：健身需求增　不憂不回本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168637168558542848628745.jpeg/B7Xm8WrizY3Xizx4lNHRupD9kIy5l6nB-FX0_t1V9P4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383186/%E9%80%A3%E9%8E%96%E5%81%A5%E8%BA%AB%E5%AE%A4%E6%89%BF%E7%A7%9F%E7%B5%90%E6%A5%AD%E9%85%92%E6%A8%93%E5%B7%A8%E8%88%96-efx24-%E5%81%A5%E8%BA%AB%E9%9C%80%E6%B1%82%E5%A2%9E-%E4%B8%8D%E6%86%82%E4%B8%8D%E5%9B%9E%E6%9C%AC",
+    "timestamp": "2026-08-24T13:11:53.488Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東南亞抵港行李藏$620萬私煙　海關破多案拘14人　判囚8至20個月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168510597256450048948703.jpeg/hc-Dqs6wACraZ0PsBkUJfhz2eXxVr0lie_sJPXv7CT0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60382946/%E5%8F%B0%E7%81%A3%E5%8D%97%E9%83%A8%E6%9A%B4%E9%9B%A8%E6%88%90%E7%81%BD-%E9%AB%98%E9%9B%844%E5%A4%A9%E4%B8%8B%E5%AE%8C%E5%85%A8%E5%B9%B4%E4%B8%80%E5%8D%8A%E9%9B%A8%E9%87%8F-%E5%8F%B0%E5%8D%97%E8%BB%8A%E7%AB%99%E8%AE%8A-%E7%A2%BC%E9%A0%AD",
     "timestamp": "2026-08-24T02:50:18.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "HONOR Robot Phone實測　AI手機鏡頭會自己轉　自動跟拍還能對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167520520715898880486207.jpeg/OQDsVgtjZwWxnJGC4NsU1GwHWCTG3YFYz6pblM-qW5Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60382405/honor-robot-phone%E5%AF%A6%E6%B8%AC-ai%E6%89%8B%E6%A9%9F%E9%8F%A1%E9%A0%AD%E6%9C%83%E8%87%AA%E5%B7%B1%E8%BD%89-%E8%87%AA%E5%8B%95%E8%B7%9F%E6%8B%8D%E9%82%84%E8%83%BD%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-08-24T02:17:51.378Z",
     "strategy": ".content-card__main"
   }
 ];
