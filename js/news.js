@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T05:06:47.982Z
+// Last updated: 2026-08-24T05:32:19.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普的內心戲：「對付不了中國，還對付不了加拿大？」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058353830653071360798341.jpeg/Mc6pu1ff0AEsib5oBxFTWjVgOz3940La6IPTk-iD05M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60383021/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%85%A7%E5%BF%83%E6%88%B2-%E5%B0%8D%E4%BB%98%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9C%8B-%E9%82%84%E5%B0%8D%E4%BB%98%E4%B8%8D%E4%BA%86%E5%8A%A0%E6%8B%BF%E5%A4%A7",
+    "timestamp": "2026-08-24T05:32:19.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "返學水樽揀邊款好？睇清4款水樽一周唔洗有幾污糟　必學清洗方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141026802504830976385049.jpeg/7MP8PfTHnShGgfNtXqunwQIRUDrWslOki98_3IvfP9w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382894/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E8%8D%89%E6%A1%88%E6%A2%9D%E6%AC%BE-%E5%87%86%E5%90%91%E5%8F%96%E9%81%93%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E9%9A%BB%E6%94%B6%E8%B2%BB",
     "timestamp": "2026-08-23T21:29:33.451Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗議會委員會通過草案條款　准向取道霍爾木茲海峽船隻收費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141026802504830976385049.jpeg/7MP8PfTHnShGgfNtXqunwQIRUDrWslOki98_3IvfP9w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382894/%E4%BC%8A%E6%9C%97%E8%AD%B0%E6%9C%83%E5%A7%94%E5%93%A1%E6%9C%83%E9%80%9A%E9%81%8E%E8%8D%89%E6%A1%88%E6%A2%9D%E6%AC%BE-%E5%87%86%E5%90%91%E5%8F%96%E9%81%93%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E9%9A%BB%E6%94%B6%E8%B2%BB",
-    "timestamp": "2026-08-23T21:11:53.136Z",
     "strategy": ".content-card__main"
   }
 ];
