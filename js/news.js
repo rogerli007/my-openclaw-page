@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T00:54:35.572Z
+// Last updated: 2026-08-24T01:43:13.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "4個經常「想太多」的星座　巨蟹總覺別人話中有話　雙子暗裏悲觀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251103/1062072838246109184320154.png/3LXcJZuptiQlDCYbP_XYTxRhmXOkE2e7GkqEQhpKhEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60291093/4%E5%80%8B%E7%B6%93%E5%B8%B8-%E6%83%B3%E5%A4%AA%E5%A4%9A-%E7%9A%84%E6%98%9F%E5%BA%A7-%E5%B7%A8%E8%9F%B9%E7%B8%BD%E8%A6%BA%E5%88%A5%E4%BA%BA%E8%A9%B1%E4%B8%AD%E6%9C%89%E8%A9%B1-%E9%9B%99%E5%AD%90%E6%9A%97%E8%A3%8F%E6%82%B2%E8%A7%80",
+    "timestamp": "2026-08-24T01:43:13.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地劇《重器》錢興良案屈打成招亡妻歸來　5點相似還原佘祥林案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168384897396510720576841.jpeg/dj8J0AlPP03ueMT1MUblL2bNxVtOvsGgSDGS1WIxktU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382883/%E8%91%B5%E6%B6%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%8F%AD%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BC%8F%E5%B1%8D%E5%96%AE%E4%BD%8D%E5%85%A7-%E8%BA%AB%E4%B8%8A%E6%9C%89%E5%88%A9%E5%99%A8%E5%82%B7%E7%97%95",
     "timestamp": "2026-08-23T18:49:09.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌邨老翁墮樓亡　警調查揭一女子伏屍單位內",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168382859090595840385902.jpeg/y_bk8A0itPtjMK_nfu7vLyU2I3F08UkO611HTsFdR04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60382883/%E8%91%B5%E6%B6%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%8F%AD%E4%B8%80%E5%A5%B3%E5%AD%90%E4%BC%8F%E5%B1%8D%E5%96%AE%E4%BD%8D%E5%85%A7",
-    "timestamp": "2026-08-23T18:31:18.434Z",
     "strategy": ".content-card__main"
   }
 ];
