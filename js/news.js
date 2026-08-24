@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T06:53:25.714Z
+// Last updated: 2026-08-24T07:36:00.803Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地男星遭狂粉強拉車門貼臉拍照　下車「失控出手」拍落手機怒吼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168524963133526016801527.png/vgKt59hNcSQIJiTzcHtcsm3pUlLvXm-oTmaUz05mlM8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382987/%E5%85%A7%E5%9C%B0%E7%94%B7%E6%98%9F%E9%81%AD%E7%8B%82%E7%B2%89%E5%BC%B7%E6%8B%89%E8%BB%8A%E9%96%80%E8%B2%BC%E8%87%89%E6%8B%8D%E7%85%A7-%E4%B8%8B%E8%BB%8A-%E5%A4%B1%E6%8E%A7%E5%87%BA%E6%89%8B-%E6%8B%8D%E8%90%BD%E6%89%8B%E6%A9%9F%E6%80%92%E5%90%BC",
+    "timestamp": "2026-08-24T07:36:00.803Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最平學生plan手機月費計劃格價｜3HK/csl/SmarTone/中移5G誰最抵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168262867753897984514960.jpeg/sZdXixQFTbgPPVa7yN6wI2jx67Ob1xEebRErA20RKwM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382804/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%96%B0%E7%8C%9B%E5%B0%87%E6%8F%B8%E6%B3%A2%E5%AD%90%E9%96%8B%E5%B7%A5%E6%A5%B5%E6%9C%89%E5%9E%8B-%E6%9B%BE%E5%82%B3%E7%B5%90%E5%A9%9A%E6%94%B6%E4%B8%80%E4%BB%BD%E4%B8%83%E4%BD%8D%E6%95%B8%E4%BA%BA%E6%83%85%E6%9C%89%E7%A6%8F%E6%B0%A3",
     "timestamp": "2026-08-23T22:30:20.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古天樂新猛將揸波子開工極有型　曾傳結婚收一份七位數人情有福氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168262867753897984514960.jpeg/sZdXixQFTbgPPVa7yN6wI2jx67Ob1xEebRErA20RKwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382804/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%96%B0%E7%8C%9B%E5%B0%87%E6%8F%B8%E6%B3%A2%E5%AD%90%E9%96%8B%E5%B7%A5%E6%A5%B5%E6%9C%89%E5%9E%8B-%E6%9B%BE%E5%82%B3%E7%B5%90%E5%A9%9A%E6%94%B6%E4%B8%80%E4%BB%BD%E4%B8%83%E4%BD%8D%E6%95%B8%E4%BA%BA%E6%83%85%E6%9C%89%E7%A6%8F%E6%B0%A3",
-    "timestamp": "2026-08-23T22:10:44.259Z",
     "strategy": ".content-card__main"
   }
 ];
