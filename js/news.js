@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T10:22:11.999Z
+// Last updated: 2026-08-24T10:50:36.958Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女子不甘墮投資騙案被呃$120萬　尋「反詐聯盟律師」追討再失30萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168628923064389632814039.jpeg/56PuF3LityynKMFH7aZoqvGQb_KdIFsKFHY63xR2Ot8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383193/%E5%A5%B3%E5%AD%90%E4%B8%8D%E7%94%98%E5%A2%AE%E6%8A%95%E8%B3%87%E9%A8%99%E6%A1%88%E8%A2%AB%E5%91%83-120%E8%90%AC-%E5%B0%8B-%E5%8F%8D%E8%A9%90%E8%81%AF%E7%9B%9F%E5%BE%8B%E5%B8%AB-%E8%BF%BD%E8%A8%8E%E5%86%8D%E5%A4%B130%E8%90%AC",
+    "timestamp": "2026-08-24T10:50:36.958Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銅鑼灣Cafe｜10大推介！大玻璃窗+180度海景　必試咖啡、芝士蛋糕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168387378990026752159238.png/cXNSVr4ytrljriFkGcE3uEpM9lBOAoZ6CIyjrgiMo64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60382884/%E7%BE%8E%E5%8A%A0%E8%B2%BF%E6%98%93%E6%88%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%AF%E4%B8%8A%E8%B7%9F%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E4%B8%80%E6%A8%A3%E7%9A%84%E9%8C%AF%E8%AA%A4",
     "timestamp": "2026-08-23T23:43:04.086Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日驟雨逐漸增多及有雷暴　最高32度　明後日或掛風球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168442454358102016135298.jpeg/neZcRVvbNaJ1AZseh19671MW89DenFnC9xG4evcRuHo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60382879/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E9%A9%9F%E9%9B%A8%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%9C%80%E9%AB%9832%E5%BA%A6-%E6%98%8E%E5%BE%8C%E6%97%A5%E6%88%96%E6%8E%9B%E9%A2%A8%E7%90%83",
-    "timestamp": "2026-08-23T22:57:46.520Z",
     "strategy": ".content-card__main"
   }
 ];
