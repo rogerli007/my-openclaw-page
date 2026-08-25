@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T18:36:07.680Z
+// Last updated: 2026-08-25T19:05:32.102Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗與阿曼聯合聲明：擬霍爾木茲海峽建立共同商定安全通道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169117255754059776987013.jpeg/I0RUox0wvP7pxB-GUPU6HQC1pGpgSInLNlvLljZby5Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383652/%E4%BC%8A%E6%9C%97%E8%88%87%E9%98%BF%E6%9B%BC%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E6%93%AC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BB%BA%E7%AB%8B%E5%85%B1%E5%90%8C%E5%95%86%E5%AE%9A%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%93",
+    "timestamp": "2026-08-25T19:05:32.102Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國德州野火蔓延超200公里　當局下令緊急疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168978357539311616763915.jpeg/WZvsHRWnhCcRHpfsAr1dDFmsZwjTaFDxVpuO4FabjuA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60383557/%E5%8D%80%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89-%E5%85%83%E6%9C%97-%E5%A4%A9%E6%B0%B4%E5%9C%8D-%E5%8C%97%E5%8D%80%E5%B1%85%E6%B0%91%E6%B3%A8%E6%84%8F-%E9%81%B8%E7%AE%A1%E6%9C%83%E5%80%A1%E5%9B%9B%E9%81%B8%E5%8D%80%E6%94%B9%E5%8A%83%E7%95%8C",
     "timestamp": "2026-08-25T11:14:07.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026跆拳道｜香港運動員名單+賽程賽果+歷屆成績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168993276695416832519304.jpeg/JIrYy6PPtOdgTwanEn_Tm2c5cEg_ElYMy81bsMvNW7A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380339/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E8%B7%86%E6%8B%B3%E9%81%93-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
-    "timestamp": "2026-08-25T10:50:41.173Z",
     "strategy": ".content-card__main"
   }
 ];
