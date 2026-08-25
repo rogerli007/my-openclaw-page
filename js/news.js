@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T22:30:32.453Z
+// Last updated: 2026-08-25T22:47:13.388Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "55歲傳婚變男星尖沙咀食飯　樣貌回到出道時被封為「凍齡天花板」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169048801583828992705986.jpeg/Il0ODezLjeD2vRoAHt471tl7SH_4xhOHHEyg3BxMoNw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383423/55%E6%AD%B2%E5%90%B3%E5%A5%87%E9%9A%86%E5%B0%96%E6%B2%99%E5%92%80%E9%A3%9F%E9%A3%AF-%E6%A8%A3%E8%B2%8C%E5%9B%9E%E5%88%B0%E5%87%BA%E9%81%93%E6%99%82%E8%A2%AB%E5%B0%81%E7%82%BA-%E5%87%8D%E9%BD%A1%E5%A4%A9%E8%8A%B1%E6%9D%BF",
+    "timestamp": "2026-08-25T22:47:13.388Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消費者應掌握樓宇質素評分　討論屋苑五星級制｜汪敦敬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154050566918377472437895.jpeg/ONTpheaZauVbNQyO-20UHxTllT3esn3nkL8Ivoa_CL4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60383324/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%91%A8%E4%B8%89%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-08-25T16:24:42.310Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門元朗打擊非法賣淫　13女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169066665497858048478201.jpeg/rqR8IkFdJl6JengavDpXM7xXFG0hQtKKfF07cXxdO3E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383638/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%83%E6%9C%97%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E8%B3%A3%E6%B7%AB-13%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-25T15:51:51.018Z",
     "strategy": ".content-card__main"
   }
 ];
