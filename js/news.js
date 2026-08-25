@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T11:46:12.335Z
+// Last updated: 2026-08-25T12:00:52.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗南昌街男子墮樓　壓中貨車反彈落地　當場死亡｜珍惜生命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169008423547703296728104.jpeg/yvbsm2w1DcmYcTm8PJcWBTDGcMQiHKVtm5bkrZuW5K0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383598/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%8D%97%E6%98%8C%E8%A1%97%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E5%A3%93%E4%B8%AD%E8%B2%A8%E8%BB%8A%E5%8F%8D%E5%BD%88%E8%90%BD%E5%9C%B0-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1-%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD",
+    "timestamp": "2026-08-25T12:00:52.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國25歲女留學生韓國失蹤多天　韓警全面調查　家屬向領事館求助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60383280/token%E9%9C%80%E6%B1%82%E9%A9%85%E5%8B%95%E7%AE%97%E5%8A%9B%E7%88%86%E7%99%BC-%E9%98%BF%E9%87%8C%E9%85%8D%E8%82%A1%E5%8A%A0%E9%80%9Fai%E5%9F%BA%E5%BB%BA%E4%BD%88%E5%B1%80-%E5%BD%AD%E5%81%89%E6%96%B0",
     "timestamp": "2026-08-25T02:20:48.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "敘利亞獲美國剔出支持恐怖主義國家名單　兩國關係進一步改善",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151682454923251712079158.jpeg/0VCS05T7ZIGRAIeXXvP0b8d1a_qbpzXuPFrk3jxa5N4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383278/%E6%95%98%E5%88%A9%E4%BA%9E%E7%8D%B2%E7%BE%8E%E5%9C%8B%E5%89%94%E5%87%BA%E6%94%AF%E6%8C%81%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9%E5%9C%8B%E5%AE%B6%E5%90%8D%E5%96%AE-%E5%85%A9%E5%9C%8B%E9%97%9C%E4%BF%82%E9%80%B2%E4%B8%80%E6%AD%A5%E6%94%B9%E5%96%84",
-    "timestamp": "2026-08-25T01:37:37.159Z",
     "strategy": ".content-card__main"
   }
 ];
