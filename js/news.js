@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T05:35:35.042Z
+// Last updated: 2026-08-25T06:20:09.184Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "情侶2千住深圳希爾頓旗下酒店女生被蟲咬到滿腿疹　經理竟稱正常",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168916099966701568697832.jpeg/D3he9dDgEKEV9bH9uwK7Fo9nPU-BF1oF2uYL_trmC_4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383395/%E6%83%85%E4%BE%B62%E5%8D%83%E4%BD%8F%E6%B7%B1%E5%9C%B3%E5%B8%8C%E7%88%BE%E9%A0%93%E6%97%97%E4%B8%8B%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%9F%B2%E5%92%AC%E5%88%B0%E6%BB%BF%E8%85%BF%E7%96%B9-%E7%B6%93%E7%90%86%E7%AB%9F%E7%A8%B1%E6%AD%A3%E5%B8%B8",
+    "timestamp": "2026-08-25T06:20:09.184Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "耗資540億港元！法國沙特合作 全球第二座龍珠主題樂園將落戶巴黎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168777538672005120603825.jpeg/-BnhH40O7QppmSPzs-UEwaOvytEBNHjfNl00HDZdNBw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383258/%E5%A4%A7%E8%80%81%E5%B1%B1%E9%9A%A7%E9%81%93%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%AE%A1%E5%85%A7%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-08-24T20:49:16.149Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳鸚鵡疑遭剪翼　警拘39歲主人涉殘酷對待動物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142259355081510912371409.jpeg/jOYZYh_moz79Kjpp_TtBie6kxNrWCSq4aC8X2lIvF9o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383257/%E5%B0%87%E8%BB%8D%E6%BE%B3%E9%B8%9A%E9%B5%A1%E7%96%91%E9%81%AD%E5%89%AA%E7%BF%BC-%E8%AD%A6%E6%8B%9839%E6%AD%B2%E4%B8%BB%E4%BA%BA%E6%B6%89%E6%AE%98%E9%85%B7%E5%B0%8D%E5%BE%85%E5%8B%95%E7%89%A9",
-    "timestamp": "2026-08-24T20:30:41.867Z",
     "strategy": ".content-card__main"
   }
 ];
