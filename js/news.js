@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T07:52:01.802Z
+// Last updated: 2026-08-25T08:22:32.936Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前童星Raquel Lee提告迪士尼　14歲拍攝遭灌酒性侵　劇組包庇無視",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168925866718138368978634.png/G2nkDnvKLy79TINFrFSYZ_c9BSxEM-HEQ3LLcUNyy3E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383414/%E5%89%8D%E7%AB%A5%E6%98%9Fraquel-lee%E6%8F%90%E5%91%8A%E8%BF%AA%E5%A3%AB%E5%B0%BC-14%E6%AD%B2%E6%8B%8D%E6%94%9D%E9%81%AD%E7%81%8C%E9%85%92%E6%80%A7%E4%BE%B5-%E5%8A%87%E7%B5%84%E5%8C%85%E5%BA%87%E7%84%A1%E8%A6%96",
+    "timestamp": "2026-08-25T08:22:32.936Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "越式洗髮按摩「撥筋」出事！台女慘患腦脊髓液滲漏 嚴重恐致中風",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168718732839620608078129.jpeg/TJuS0Wp-VAroH1Pk6un2Ep7ZwCY3NU3hrj102q49dNo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383244/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%99%B8%E8%BB%8D%E7%B8%BD%E5%8F%83%E8%AC%80%E9%95%B7-%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E5%85%88%E5%BE%8C%E5%88%B0%E8%A8%AA-%E8%88%87%E4%BC%8A%E6%9C%97%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
     "timestamp": "2026-08-24T22:13:43.171Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜車路士作客3：2勝富咸　新三叉戟各建一功",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168779584527667200295610.jpeg/vpx07NfuMXORnpSeDjMob7Qre9rkQ-_pdTocMnU6HDI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383259/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%BD%9C%E5%AE%A23-2%E5%8B%9D%E5%AF%8C%E5%92%B8-%E6%96%B0%E4%B8%89%E5%8F%89%E6%88%9F%E5%90%84%E5%BB%BA%E4%B8%80%E5%8A%9F",
-    "timestamp": "2026-08-24T22:00:43.499Z",
     "strategy": ".content-card__main"
   }
 ];
