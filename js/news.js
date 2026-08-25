@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T21:32:08.109Z
+// Last updated: 2026-08-25T22:03:54.473Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄉村音樂天后桃莉芭頓離世享年80歲　特朗普下令降半旗致敬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169148574890463232375148.jpeg/2bOZLOHmCWxVayZDIgY1OIsnml4jVY7AjZbmCI2W5gg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383657/%E9%84%89%E6%9D%91%E9%9F%B3%E6%A8%82%E5%A4%A9%E5%90%8E%E6%A1%83%E8%8E%89%E8%8A%AD%E9%A0%93%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B480%E6%AD%B2-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%99%8D%E5%8D%8A%E6%97%97%E8%87%B4%E6%95%AC",
+    "timestamp": "2026-08-25T22:03:54.473Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄉村音樂天后桃莉芭頓離世享年80歲　特朗普下令降半旗致敬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169049710183321600389174.jpeg/PcfTTIkenKPP1zQj_WvXHsVLRLByE2UdhSsDgIUrA4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383624/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8A%B5%E6%B8%AF-%E6%B3%B3%E6%B1%A0%E6%B6%88%E6%AF%92%E5%8A%91-%E5%8C%85%E8%A3%B9%E8%97%8F-500%E8%90%ACk%E4%BB%94-%E6%B5%B7%E9%97%9C%E7%9B%A3%E6%8E%A7%E9%81%9E%E9%80%81%E6%8B%98%E4%B8%80%E5%A5%B3",
     "timestamp": "2026-08-25T14:58:15.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美加貿易談判談不攏　特朗普：考慮將安大略湖改名「美國湖」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169045887230414848758463.png/UCX8iFrB7JEpPFYSefaVszFQmFu6OdoWC_0s4Av9LOA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383619/%E7%BE%8E%E5%8A%A0%E8%B2%BF%E6%98%93%E8%AB%87%E5%88%A4%E8%AB%87%E4%B8%8D%E6%94%8F-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%80%83%E6%85%AE%E5%B0%87%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%94%B9%E5%90%8D-%E7%BE%8E%E5%9C%8B%E6%B9%96",
-    "timestamp": "2026-08-25T14:34:28.709Z",
     "strategy": ".content-card__main"
   }
 ];
