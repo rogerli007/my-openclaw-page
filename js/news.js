@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T02:20:48.054Z
+// Last updated: 2026-08-25T02:46:49.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五熊毀日本國寶佛足石過程曝光！搖瓶子祈禱喊｢世界和平｣潑油",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168868978697703424361948.jpeg/fxa5CCa6iaIU_xFJzntS2I4Zov3CbvCPPToRHz06ER8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60383289/%E4%BA%94%E7%86%8A%E6%AF%80%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E4%BD%9B%E8%B6%B3%E7%9F%B3%E9%81%8E%E7%A8%8B%E6%9B%9D%E5%85%89-%E6%90%96%E7%93%B6%E5%AD%90%E7%A5%88%E7%A6%B1%E5%96%8A-%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3-%E6%BD%91%E6%B2%B9",
+    "timestamp": "2026-08-25T02:46:49.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Token需求驅動算力爆發　阿里配股加速AI基建佈局｜彭偉新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103186894943948800406783.jpeg/0leeNN1Mh1IMp2hlPdzVepNk2WthDFItyUAaPslAGj4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383250/%E5%BD%AD%E5%8D%9A%E7%A4%BE-%E7%BE%8E%E5%9C%8B%E6%88%96%E5%9C%A8%E7%BF%92%E7%89%B9%E6%9C%83%E5%89%8D%E5%85%AC%E5%B8%83-%E4%BE%9D%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E5%B0%8D%E8%8F%AF%E5%8A%A0%E5%BE%B57-5-%E9%97%9C%E7%A8%85",
     "timestamp": "2026-08-24T18:16:27.534Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洪水橋片區｜中海外、招商局、華潤、京東、信置各佔聯營公司17%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168728995030634496910367.jpeg/dvEeweAC5DyqA-cDyyjdgCzptVQiUyrlT1-BwE9fgcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60383247/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%89%87%E5%8D%80-%E4%B8%AD%E6%B5%B7%E5%A4%96-%E6%8B%9B%E5%95%86%E5%B1%80-%E8%8F%AF%E6%BD%A4-%E4%BA%AC%E6%9D%B1-%E4%BF%A1%E7%BD%AE%E5%90%84%E4%BD%94%E8%81%AF%E7%87%9F%E5%85%AC%E5%8F%B817",
-    "timestamp": "2026-08-24T17:51:43.444Z",
     "strategy": ".content-card__main"
   }
 ];
