@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T06:20:09.184Z
+// Last updated: 2026-08-25T06:52:28.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜機械人舉重「選手」扛槓鈴失控衝向裁判桌　倒地被擔架抬離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168926200182083584761803.jpeg/cQQIqQu2sq6mynR5HDErMpvvuk5PIWvTUVv9-FFb_fg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383398/%E6%9C%89%E7%89%87-%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%88%89%E9%87%8D-%E9%81%B8%E6%89%8B-%E6%89%9B%E6%A7%93%E9%88%B4%E5%A4%B1%E6%8E%A7%E8%A1%9D%E5%90%91%E8%A3%81%E5%88%A4%E6%A1%8C-%E5%80%92%E5%9C%B0%E8%A2%AB%E6%93%94%E6%9E%B6%E6%8A%AC%E9%9B%A2",
+    "timestamp": "2026-08-25T06:52:28.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "情侶2千住深圳希爾頓旗下酒店女生被蟲咬到滿腿疹　經理竟稱正常",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168777538672005120603825.jpeg/-BnhH40O7QppmSPzs-UEwaOvytEBNHjfNl00HDZdNBw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383258/%E5%A4%A7%E8%80%81%E5%B1%B1%E9%9A%A7%E9%81%93%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%AE%A1%E5%85%A7%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-08-24T21:05:55.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大老山隧道兩私家車相撞　管內交通一度擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168777538672005120603825.jpeg/-BnhH40O7QppmSPzs-UEwaOvytEBNHjfNl00HDZdNBw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383258/%E5%A4%A7%E8%80%81%E5%B1%B1%E9%9A%A7%E9%81%93%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%AE%A1%E5%85%A7%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-08-24T20:49:16.149Z",
     "strategy": ".content-card__main"
   }
 ];
