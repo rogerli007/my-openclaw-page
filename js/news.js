@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T01:37:37.159Z
+// Last updated: 2026-08-25T02:20:48.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Token需求驅動算力爆發　阿里配股加速AI基建佈局｜彭偉新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60383280/token%E9%9C%80%E6%B1%82%E9%A9%85%E5%8B%95%E7%AE%97%E5%8A%9B%E7%88%86%E7%99%BC-%E9%98%BF%E9%87%8C%E9%85%8D%E8%82%A1%E5%8A%A0%E9%80%9Fai%E5%9F%BA%E5%BB%BA%E4%BD%88%E5%B1%80-%E5%BD%AD%E5%81%89%E6%96%B0",
+    "timestamp": "2026-08-25T02:20:48.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "敘利亞獲美國剔出支持恐怖主義國家名單　兩國關係進一步改善",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168728995030634496910367.jpeg/dvEeweAC5DyqA-cDyyjdgCzptVQiUyrlT1-BwE9fgcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60383247/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%89%87%E5%8D%80-%E4%B8%AD%E6%B5%B7%E5%A4%96-%E6%8B%9B%E5%95%86%E5%B1%80-%E8%8F%AF%E6%BD%A4-%E4%BA%AC%E6%9D%B1-%E4%BF%A1%E7%BD%AE%E5%90%84%E4%BD%94%E8%81%AF%E7%87%9F%E5%85%AC%E5%8F%B817",
     "timestamp": "2026-08-24T17:51:43.444Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洪水橋片區｜中海外、招商局、華潤、京東、信置各佔聯營公司17%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168728995030634496910367.jpeg/dvEeweAC5DyqA-cDyyjdgCzptVQiUyrlT1-BwE9fgcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60383247/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%89%87%E5%8D%80-%E4%B8%AD%E6%B5%B7%E5%A4%96-%E6%8B%9B%E5%95%86%E5%B1%80-%E8%8F%AF%E6%BD%A4-%E4%BA%AC%E6%9D%B1-%E4%BF%A1%E7%BD%AE%E5%90%84%E4%BD%94%E8%81%AF%E7%87%9F%E5%85%AC%E5%8F%B817",
-    "timestamp": "2026-08-24T17:34:23.526Z",
     "strategy": ".content-card__main"
   }
 ];
