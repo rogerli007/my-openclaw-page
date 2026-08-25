@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T06:52:28.755Z
+// Last updated: 2026-08-25T07:25:20.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "統計師涉跟蹤並偷拍女生　裁遊蕩罪不成立　官建議就纏擾行為立法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098965145645748224589273.jpeg/pkBgKm_Rikj29UFbxHZ8EZ43bc-6Fu13ehcMT18XDE8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383446/%E7%B5%B1%E8%A8%88%E5%B8%AB%E6%B6%89%E8%B7%9F%E8%B9%A4%E4%B8%A6%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F-%E8%A3%81%E9%81%8A%E8%95%A9%E7%BD%AA%E4%B8%8D%E6%88%90%E7%AB%8B-%E5%AE%98%E5%BB%BA%E8%AD%B0%E5%B0%B1%E7%BA%8F%E6%93%BE%E8%A1%8C%E7%82%BA%E7%AB%8B%E6%B3%95",
+    "timestamp": "2026-08-25T07:25:20.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜機械人舉重「選手」扛槓鈴失控衝向裁判桌　倒地被擔架抬離",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168779584527667200295610.jpeg/vpx07NfuMXORnpSeDjMob7Qre9rkQ-_pdTocMnU6HDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383259/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%BD%9C%E5%AE%A23-2%E5%8B%9D%E5%AF%8C%E5%92%B8-%E6%96%B0%E4%B8%89%E5%8F%89%E6%88%9F%E5%90%84%E5%BB%BA%E4%B8%80%E5%8A%9F",
     "timestamp": "2026-08-24T21:47:16.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大老山隧道兩私家車相撞　管內交通一度擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168777538672005120603825.jpeg/-BnhH40O7QppmSPzs-UEwaOvytEBNHjfNl00HDZdNBw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383258/%E5%A4%A7%E8%80%81%E5%B1%B1%E9%9A%A7%E9%81%93%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%AE%A1%E5%85%A7%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-08-24T21:05:55.617Z",
     "strategy": ".content-card__main"
   }
 ];
