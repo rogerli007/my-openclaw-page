@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T12:18:45.823Z
+// Last updated: 2026-08-25T12:38:04.877Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫生馬亮生無向染新冠病毒慢性病病人開抗病毒藥物　醫委會訓斥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168961101312823296423870.jpeg/wuR20-3lgcLUMYMYWr12RRMgJz36_fQsq79PcY6_T3E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383507/%E9%86%AB%E7%94%9F%E9%A6%AC%E4%BA%AE%E7%94%9F%E7%84%A1%E5%90%91%E6%9F%93%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%85%A2%E6%80%A7%E7%97%85%E7%97%85%E4%BA%BA%E9%96%8B%E6%8A%97%E7%97%85%E6%AF%92%E8%97%A5%E7%89%A9-%E9%86%AB%E5%A7%94%E6%9C%83%E8%A8%93%E6%96%A5",
+    "timestamp": "2026-08-25T12:38:04.877Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重慶野豬襲擊村民釀1死1傷　52歲男遭頂下山崖摔死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155930274681327616683142.jpeg/J5RkHs44LGCkh5gbogyInSgkMINvcEioQfenJUH3pyU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60371834/tiffany-young%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-08-25T03:36:44.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五熊毀日本國寶佛足石過程曝光！搖瓶子祈禱喊｢世界和平｣潑油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168868978697703424361948.jpeg/fxa5CCa6iaIU_xFJzntS2I4Zov3CbvCPPToRHz06ER8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60383289/%E4%BA%94%E7%86%8A%E6%AF%80%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E4%BD%9B%E8%B6%B3%E7%9F%B3%E9%81%8E%E7%A8%8B%E6%9B%9D%E5%85%89-%E6%90%96%E7%93%B6%E5%AD%90%E7%A5%88%E7%A6%B1%E5%96%8A-%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3-%E6%BD%91%E6%B2%B9",
-    "timestamp": "2026-08-25T02:46:49.910Z",
     "strategy": ".content-card__main"
   }
 ];
