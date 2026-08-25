@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T19:05:32.102Z
+// Last updated: 2026-08-25T19:31:23.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗與阿曼聯合聲明：擬霍爾木茲海峽建立共同商定安全通道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169117255754059776987013.jpeg/I0RUox0wvP7pxB-GUPU6HQC1pGpgSInLNlvLljZby5Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383652/%E4%BC%8A%E6%9C%97%E8%88%87%E9%98%BF%E6%9B%BC%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E6%93%AC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BB%BA%E7%AB%8B%E5%85%B1%E5%90%8C%E5%95%86%E5%AE%9A%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%93",
+    "timestamp": "2026-08-25T19:31:23.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗與阿曼聯合聲明：擬霍爾木茲海峽建立共同商定安全通道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162379236934422528932608.jpeg/lNh-cQIYzL9qyNc_qs6nJJReca40GLwn4on_IceJ_yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383594/%E5%8C%A1%E6%99%BA%E6%9C%83%E8%88%8D%E7%9B%A3%E6%B6%89%E5%A7%A6%E5%A5%B3%E9%99%A2%E5%8F%8B-%E4%BA%8B%E4%B8%BB%E5%90%8C%E6%84%8F%E7%84%A1%E6%80%A7%E6%8E%A5%E8%A7%B8-%E4%BD%86%E7%A8%B1%E4%B8%8D%E6%B8%85%E6%A5%9A%E9%80%99%E5%AD%97%E6%84%8F%E6%80%9D",
     "timestamp": "2026-08-25T11:30:46.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "區議會選舉｜元朗、天水圍、北區居民注意　選管會倡四選區改劃界",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168978357539311616763915.jpeg/WZvsHRWnhCcRHpfsAr1dDFmsZwjTaFDxVpuO4FabjuA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60383557/%E5%8D%80%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89-%E5%85%83%E6%9C%97-%E5%A4%A9%E6%B0%B4%E5%9C%8D-%E5%8C%97%E5%8D%80%E5%B1%85%E6%B0%91%E6%B3%A8%E6%84%8F-%E9%81%B8%E7%AE%A1%E6%9C%83%E5%80%A1%E5%9B%9B%E9%81%B8%E5%8D%80%E6%94%B9%E5%8A%83%E7%95%8C",
-    "timestamp": "2026-08-25T11:14:07.036Z",
     "strategy": ".content-card__main"
   }
 ];
