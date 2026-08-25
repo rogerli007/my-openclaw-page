@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T23:30:29.470Z
+// Last updated: 2026-08-25T23:46:30.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「中東北約」的誘惑：伊朗若入局，將如何撕裂世界",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158555502083313664921867.jpeg/r30UGfzBLwN-Wjtwf3MgAvGTt_OnFdutjVEteY1RLXk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60383472/%E4%B8%AD%E6%9D%B1%E5%8C%97%E7%B4%84-%E7%9A%84%E8%AA%98%E6%83%91-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%85%A5%E5%B1%80-%E5%B0%87%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E4%B8%96%E7%95%8C",
+    "timestamp": "2026-08-25T23:46:30.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥針/瘦瘦針新發現│台大跨國研究：GLP-1藥物降41%肥胖癌症風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122582879306518528072968.jpeg/RZqkiwbyVbPl3exXhYAJqB01UlPklnwXJdVMhyXVTIc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383647/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%B0%B4%E9%9B%B7%E5%B7%B2%E5%85%A8%E9%83%A8%E6%B8%85%E9%99%A4-%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%B8%83%E9%9B%B7%E9%9B%B6%E5%AE%B9%E5%BF%8D",
     "timestamp": "2026-08-25T17:47:33.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大對美加徵千億報復關稅　推措施支援受影響加國工人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168961183017865216728530.jpeg/wOPe6N2UiYB1V_mvCSCSc5YPdrM2po4MrCxG0KwsRtA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383640/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B0%8D%E7%BE%8E%E5%8A%A0%E5%BE%B5%E5%8D%83%E5%84%84%E5%A0%B1%E5%BE%A9%E9%97%9C%E7%A8%85-%E6%8E%A8%E6%8E%AA%E6%96%BD%E6%94%AF%E6%8F%B4%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%8A%A0%E5%9C%8B%E5%B7%A5%E4%BA%BA",
-    "timestamp": "2026-08-25T17:07:28.288Z",
     "strategy": ".content-card__main"
   }
 ];
