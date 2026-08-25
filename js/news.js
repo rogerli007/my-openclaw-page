@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T12:00:52.394Z
+// Last updated: 2026-08-25T12:18:45.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重慶野豬襲擊村民釀1死1傷　52歲男遭頂下山崖摔死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169013735444975616789105.jpeg/dL_Fxz9gFkBtGyRU-l2cUvRUqR6qkdZQnwit7vkIre4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383592/%E9%87%8D%E6%85%B6%E9%87%8E%E8%B1%AC%E8%A5%B2%E6%93%8A%E6%9D%91%E6%B0%91%E9%87%801%E6%AD%BB1%E5%82%B7-52%E6%AD%B2%E7%94%B7%E9%81%AD%E9%A0%82%E4%B8%8B%E5%B1%B1%E5%B4%96%E6%91%94%E6%AD%BB",
+    "timestamp": "2026-08-25T12:18:45.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗南昌街男子墮樓　壓中貨車反彈落地　當場死亡｜珍惜生命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168868978697703424361948.jpeg/fxa5CCa6iaIU_xFJzntS2I4Zov3CbvCPPToRHz06ER8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60383289/%E4%BA%94%E7%86%8A%E6%AF%80%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E4%BD%9B%E8%B6%B3%E7%9F%B3%E9%81%8E%E7%A8%8B%E6%9B%9D%E5%85%89-%E6%90%96%E7%93%B6%E5%AD%90%E7%A5%88%E7%A6%B1%E5%96%8A-%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3-%E6%BD%91%E6%B2%B9",
     "timestamp": "2026-08-25T02:46:49.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Token需求驅動算力爆發　阿里配股加速AI基建佈局｜彭偉新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60383280/token%E9%9C%80%E6%B1%82%E9%A9%85%E5%8B%95%E7%AE%97%E5%8A%9B%E7%88%86%E7%99%BC-%E9%98%BF%E9%87%8C%E9%85%8D%E8%82%A1%E5%8A%A0%E9%80%9Fai%E5%9F%BA%E5%BB%BA%E4%BD%88%E5%B1%80-%E5%BD%AD%E5%81%89%E6%96%B0",
-    "timestamp": "2026-08-25T02:20:48.054Z",
     "strategy": ".content-card__main"
   }
 ];
