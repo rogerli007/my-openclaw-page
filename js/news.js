@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T20:15:40.089Z
+// Last updated: 2026-08-25T20:31:04.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣2男貨車內吸毒　熱心途人報案　警檢$4.5萬毒品拘2男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169129935697088512580439.jpeg/YM8EI7UM6wpJ9i6WTikDlgo2uT-lbW7r4j-feeI_n3k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383653/%E9%9D%92%E8%A1%A32%E7%94%B7%E8%B2%A8%E8%BB%8A%E5%85%A7%E5%90%B8%E6%AF%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%AA%A2-4-5%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%982%E7%94%B7",
+    "timestamp": "2026-08-25T20:31:04.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗與阿曼聯合聲明：擬霍爾木茲海峽建立共同商定安全通道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168961101312823296423870.jpeg/wuR20-3lgcLUMYMYWr12RRMgJz36_fQsq79PcY6_T3E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383507/%E9%86%AB%E7%94%9F%E9%A6%AC%E4%BA%AE%E7%94%9F%E7%84%A1%E5%90%91%E6%9F%93%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%85%A2%E6%80%A7%E7%97%85%E7%97%85%E4%BA%BA%E9%96%8B%E6%8A%97%E7%97%85%E6%AF%92%E8%97%A5%E7%89%A9-%E9%86%AB%E5%A7%94%E6%9C%83%E8%A8%93%E6%96%A5",
     "timestamp": "2026-08-25T12:38:04.877Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重慶野豬襲擊村民釀1死1傷　52歲男遭頂下山崖摔死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169013735444975616789105.jpeg/dL_Fxz9gFkBtGyRU-l2cUvRUqR6qkdZQnwit7vkIre4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383592/%E9%87%8D%E6%85%B6%E9%87%8E%E8%B1%AC%E8%A5%B2%E6%93%8A%E6%9D%91%E6%B0%91%E9%87%801%E6%AD%BB1%E5%82%B7-52%E6%AD%B2%E7%94%B7%E9%81%AD%E9%A0%82%E4%B8%8B%E5%B1%B1%E5%B4%96%E6%91%94%E6%AD%BB",
-    "timestamp": "2026-08-25T12:18:45.823Z",
     "strategy": ".content-card__main"
   }
 ];
