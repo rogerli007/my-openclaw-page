@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T00:54:25.721Z
+// Last updated: 2026-08-25T01:37:37.159Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "敘利亞獲美國剔出支持恐怖主義國家名單　兩國關係進一步改善",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151682454923251712079158.jpeg/0VCS05T7ZIGRAIeXXvP0b8d1a_qbpzXuPFrk3jxa5N4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383278/%E6%95%98%E5%88%A9%E4%BA%9E%E7%8D%B2%E7%BE%8E%E5%9C%8B%E5%89%94%E5%87%BA%E6%94%AF%E6%8C%81%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9%E5%9C%8B%E5%AE%B6%E5%90%8D%E5%96%AE-%E5%85%A9%E5%9C%8B%E9%97%9C%E4%BF%82%E9%80%B2%E4%B8%80%E6%AD%A5%E6%94%B9%E5%96%84",
+    "timestamp": "2026-08-25T01:37:37.159Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美網外圍賽｜黃澤林力爭再寫歷史　首圈逆轉挫丹麥球手晉級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168728995030634496910367.jpeg/dvEeweAC5DyqA-cDyyjdgCzptVQiUyrlT1-BwE9fgcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60383247/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%89%87%E5%8D%80-%E4%B8%AD%E6%B5%B7%E5%A4%96-%E6%8B%9B%E5%95%86%E5%B1%80-%E8%8F%AF%E6%BD%A4-%E4%BA%AC%E6%9D%B1-%E4%BF%A1%E7%BD%AE%E5%90%84%E4%BD%94%E8%81%AF%E7%87%9F%E5%85%AC%E5%8F%B817",
     "timestamp": "2026-08-24T17:34:23.526Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本觀光船東京灣撞防波堤　9人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168712511877287936085173.png/SLDZ9bDmddPO5Af4bEpQTU3mS7kdtZIstwUQH7cFEB8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383242/%E6%97%A5%E6%9C%AC%E8%A7%80%E5%85%89%E8%88%B9%E6%9D%B1%E4%BA%AC%E7%81%A3%E6%92%9E%E9%98%B2%E6%B3%A2%E5%A0%A4-9%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-08-24T17:17:29.816Z",
     "strategy": ".content-card__main"
   }
 ];
