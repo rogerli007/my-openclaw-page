@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T22:03:54.473Z
+// Last updated: 2026-08-25T22:13:57.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消費者應掌握樓宇質素評分　討論屋苑五星級制｜汪敦敬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168994978836254720342106.jpeg/vgVegBkmPWkUDyGH9YmMr63dcJtqMhIlY87orWPO6K0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60383484/%E6%B6%88%E8%B2%BB%E8%80%85%E6%87%89%E6%8E%8C%E6%8F%A1%E6%A8%93%E5%AE%87%E8%B3%AA%E7%B4%A0%E8%A9%95%E5%88%86-%E8%A8%8E%E8%AB%96%E5%B1%8B%E8%8B%91%E4%BA%94%E6%98%9F%E7%B4%9A%E5%88%B6-%E6%B1%AA%E6%95%A6%E6%95%AC",
+    "timestamp": "2026-08-25T22:13:57.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄉村音樂天后桃莉芭頓離世享年80歲　特朗普下令降半旗致敬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169046408855162880241365.jpeg/Li2izzB8aKC1OlCXTenz4vIz33JS66L-_CuXI_wrlyM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383621/%E5%A7%9A%E7%84%AF%E8%8F%B2%E5%88%86%E4%BA%AB%E7%B4%90%E7%B4%84%E6%8B%8D%E6%94%9D%E5%B0%88%E8%BC%AF%E7%85%A7%E8%B6%A3%E4%BA%8B-%E4%B8%8A%E4%B8%80%E5%88%BB%E4%BB%B2%E9%9C%87%E7%B7%8A-%E4%B8%8B%E4%B8%80%E7%A7%92%E8%A6%81%E8%91%97%E7%BE%BD%E7%B5%A8",
     "timestamp": "2026-08-25T15:24:33.411Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙抵港「泳池消毒劑」包裹藏$500萬K仔　海關監控遞送拘一女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169049710183321600389174.jpeg/PcfTTIkenKPP1zQj_WvXHsVLRLByE2UdhSsDgIUrA4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383624/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8A%B5%E6%B8%AF-%E6%B3%B3%E6%B1%A0%E6%B6%88%E6%AF%92%E5%8A%91-%E5%8C%85%E8%A3%B9%E8%97%8F-500%E8%90%ACk%E4%BB%94-%E6%B5%B7%E9%97%9C%E7%9B%A3%E6%8E%A7%E9%81%9E%E9%80%81%E6%8B%98%E4%B8%80%E5%A5%B3",
-    "timestamp": "2026-08-25T14:58:15.002Z",
     "strategy": ".content-card__main"
   }
 ];
