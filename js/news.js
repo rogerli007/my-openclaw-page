@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T14:58:15.002Z
+// Last updated: 2026-08-25T15:24:33.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姚焯菲分享紐約拍攝專輯照趣事　上一刻仲震緊：下一秒要著羽絨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169046408855162880241365.jpeg/Li2izzB8aKC1OlCXTenz4vIz33JS66L-_CuXI_wrlyM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383621/%E5%A7%9A%E7%84%AF%E8%8F%B2%E5%88%86%E4%BA%AB%E7%B4%90%E7%B4%84%E6%8B%8D%E6%94%9D%E5%B0%88%E8%BC%AF%E7%85%A7%E8%B6%A3%E4%BA%8B-%E4%B8%8A%E4%B8%80%E5%88%BB%E4%BB%B2%E9%9C%87%E7%B7%8A-%E4%B8%8B%E4%B8%80%E7%A7%92%E8%A6%81%E8%91%97%E7%BE%BD%E7%B5%A8",
+    "timestamp": "2026-08-25T15:24:33.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙抵港「泳池消毒劑」包裹藏$500萬K仔　海關監控遞送拘一女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168916099966701568697832.jpeg/D3he9dDgEKEV9bH9uwK7Fo9nPU-BF1oF2uYL_trmC_4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383395/%E6%83%85%E4%BE%B62%E5%8D%83%E4%BD%8F%E6%B7%B1%E5%9C%B3%E5%B8%8C%E7%88%BE%E9%A0%93%E6%97%97%E4%B8%8B%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%9F%B2%E5%92%AC%E5%88%B0%E6%BB%BF%E8%85%BF%E7%96%B9-%E7%B6%93%E7%90%86%E7%AB%9F%E7%A8%B1%E6%AD%A3%E5%B8%B8",
     "timestamp": "2026-08-25T06:20:09.184Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "耗資540億港元！法國沙特合作 全球第二座龍珠主題樂園將落戶巴黎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168913301464158208389054.jpeg/NOwwnt2O-_5Agjt_1NxbYFxizqwkq4kSr7UKgK-1CoA?v=w1920",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60383390/%E8%80%97%E8%B3%87540%E5%84%84%E6%B8%AF%E5%85%83-%E6%B3%95%E5%9C%8B%E6%B2%99%E7%89%B9%E5%90%88%E4%BD%9C-%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E5%BA%A7%E9%BE%8D%E7%8F%A0%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92%E5%B0%87%E8%90%BD%E6%88%B6%E5%B7%B4%E9%BB%8E",
-    "timestamp": "2026-08-25T05:35:35.042Z",
     "strategy": ".content-card__main"
   }
 ];
