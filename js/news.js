@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T20:31:04.173Z
+// Last updated: 2026-08-25T21:02:42.011Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣2男貨車內吸毒　熱心途人報案　警檢$4.5萬毒品拘2男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169140983384772608259068.jpeg/Itv-bxgOiYb-iPhJdWM1gYHicu0d4BJ3aPdtW2j3bVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383653/%E9%9D%92%E8%A1%A32%E7%94%B7%E8%B2%A8%E8%BB%8A%E5%85%A7%E5%90%B8%E6%AF%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%AA%A2-4-5%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%982%E7%94%B7",
+    "timestamp": "2026-08-25T21:02:42.011Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣2男貨車內吸毒　熱心途人報案　警檢$4.5萬毒品拘2男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168978068522405888892637.jpeg/c3ICQSmeYANZ-fd9ZNibfrbxifLvoZialfFgnrDxYJ4?v=w1920",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383563/%E7%B6%A0%E7%BD%AE%E5%B1%85%E7%9B%9B%E7%B7%BB%E8%8B%91-%E9%A6%96%E6%97%A5%E5%A4%9A%E5%BD%A9%E8%99%B9%E9%82%A8%E8%A5%BF%E7%92%B0%E9%82%A8%E9%87%8D%E5%BB%BA%E6%88%B6%E6%8F%80%E6%A8%93-%E5%A5%BD%E9%96%8B%E5%BF%83%E6%8F%80%E5%88%B0%E6%83%B3%E8%A6%81%E5%98%85",
     "timestamp": "2026-08-25T13:38:35.820Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫生馬亮生無向染新冠病毒慢性病病人開抗病毒藥物　醫委會訓斥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168961101312823296423870.jpeg/wuR20-3lgcLUMYMYWr12RRMgJz36_fQsq79PcY6_T3E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383507/%E9%86%AB%E7%94%9F%E9%A6%AC%E4%BA%AE%E7%94%9F%E7%84%A1%E5%90%91%E6%9F%93%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%85%A2%E6%80%A7%E7%97%85%E7%97%85%E4%BA%BA%E9%96%8B%E6%8A%97%E7%97%85%E6%AF%92%E8%97%A5%E7%89%A9-%E9%86%AB%E5%A7%94%E6%9C%83%E8%A8%93%E6%96%A5",
-    "timestamp": "2026-08-25T12:38:04.877Z",
     "strategy": ".content-card__main"
   }
 ];
