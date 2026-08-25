@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T15:51:51.018Z
+// Last updated: 2026-08-25T16:24:42.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜周三上班注意　天文台料間中有驟雨及狂風雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154050566918377472437895.jpeg/ONTpheaZauVbNQyO-20UHxTllT3esn3nkL8Ivoa_CL4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60383324/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%91%A8%E4%B8%89%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E9%96%93%E4%B8%AD%E6%9C%89%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-08-25T16:24:42.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門元朗打擊非法賣淫　13女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098965145645748224589273.jpeg/pkBgKm_Rikj29UFbxHZ8EZ43bc-6Fu13ehcMT18XDE8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383446/%E7%B5%B1%E8%A8%88%E5%B8%AB%E6%B6%89%E8%B7%9F%E8%B9%A4%E4%B8%A6%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F-%E8%A3%81%E9%81%8A%E8%95%A9%E7%BD%AA%E4%B8%8D%E6%88%90%E7%AB%8B-%E5%AE%98%E5%BB%BA%E8%AD%B0%E5%B0%B1%E7%BA%8F%E6%93%BE%E8%A1%8C%E7%82%BA%E7%AB%8B%E6%B3%95",
     "timestamp": "2026-08-25T07:25:20.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜機械人舉重「選手」扛槓鈴失控衝向裁判桌　倒地被擔架抬離",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168926200182083584761803.jpeg/cQQIqQu2sq6mynR5HDErMpvvuk5PIWvTUVv9-FFb_fg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383398/%E6%9C%89%E7%89%87-%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%88%89%E9%87%8D-%E9%81%B8%E6%89%8B-%E6%89%9B%E6%A7%93%E9%88%B4%E5%A4%B1%E6%8E%A7%E8%A1%9D%E5%90%91%E8%A3%81%E5%88%A4%E6%A1%8C-%E5%80%92%E5%9C%B0%E8%A2%AB%E6%93%94%E6%9E%B6%E6%8A%AC%E9%9B%A2",
-    "timestamp": "2026-08-25T06:52:28.755Z",
     "strategy": ".content-card__main"
   }
 ];
