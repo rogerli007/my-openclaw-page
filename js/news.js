@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T21:02:42.011Z
+// Last updated: 2026-08-25T21:17:15.098Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣2男貨車內吸毒　熱心途人報案　警檢$4.5萬毒品拘2男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169140983384772608259068.jpeg/Itv-bxgOiYb-iPhJdWM1gYHicu0d4BJ3aPdtW2j3bVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383653/%E9%9D%92%E8%A1%A32%E7%94%B7%E8%B2%A8%E8%BB%8A%E5%85%A7%E5%90%B8%E6%AF%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%AA%A2-4-5%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%982%E7%94%B7",
+    "timestamp": "2026-08-25T21:17:15.098Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣2男貨車內吸毒　熱心途人報案　警檢$4.5萬毒品拘2男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169041608784482304251368.jpeg/LmLyGLz2apntcBm3Ga0haHpdUDK--ZDAz-mSlc_pkpU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383616/%E7%BE%8E%E5%9C%8B%E7%A5%9E%E7%A7%98%E9%81%8B%E8%BC%B8%E6%A9%9F%E9%A3%9B%E6%8A%B5%E4%BF%84%E7%BE%85%E6%96%AF%E9%A6%96%E9%83%BD-%E5%85%8B%E5%AE%AE%E6%8B%92%E5%9B%9E%E6%87%89-%E6%B2%92%E6%9C%89%E8%B3%87%E6%96%99",
     "timestamp": "2026-08-25T14:08:20.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "綠置居盛緻苑｜首日多彩虹邨西環邨重建戶揀樓：好開心揀到想要嘅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168978068522405888892637.jpeg/c3ICQSmeYANZ-fd9ZNibfrbxifLvoZialfFgnrDxYJ4?v=w1920",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383563/%E7%B6%A0%E7%BD%AE%E5%B1%85%E7%9B%9B%E7%B7%BB%E8%8B%91-%E9%A6%96%E6%97%A5%E5%A4%9A%E5%BD%A9%E8%99%B9%E9%82%A8%E8%A5%BF%E7%92%B0%E9%82%A8%E9%87%8D%E5%BB%BA%E6%88%B6%E6%8F%80%E6%A8%93-%E5%A5%BD%E9%96%8B%E5%BF%83%E6%8F%80%E5%88%B0%E6%83%B3%E8%A6%81%E5%98%85",
-    "timestamp": "2026-08-25T13:38:35.820Z",
     "strategy": ".content-card__main"
   }
 ];
