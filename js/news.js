@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T07:25:20.767Z
+// Last updated: 2026-08-25T07:52:01.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "越式洗髮按摩「撥筋」出事！台女慘患腦脊髓液滲漏 嚴重恐致中風",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168905962187132928251638.jpeg/TlTLdogzSZu1mb8Kadv0rM7KfhY-EEF3T5DraU-Q62k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60383365/%E8%B6%8A%E5%BC%8F%E6%B4%97%E9%AB%AE%E6%8C%89%E6%91%A9-%E6%92%A5%E7%AD%8B-%E5%87%BA%E4%BA%8B-%E5%8F%B0%E5%A5%B3%E6%85%98%E6%82%A3%E8%85%A6%E8%84%8A%E9%AB%93%E6%B6%B2%E6%BB%B2%E6%BC%8F-%E5%9A%B4%E9%87%8D%E6%81%90%E8%87%B4%E4%B8%AD%E9%A2%A8",
+    "timestamp": "2026-08-25T07:52:01.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "統計師涉跟蹤並偷拍女生　裁遊蕩罪不成立　官建議就纏擾行為立法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168779584527667200295610.jpeg/vpx07NfuMXORnpSeDjMob7Qre9rkQ-_pdTocMnU6HDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383259/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%BD%9C%E5%AE%A23-2%E5%8B%9D%E5%AF%8C%E5%92%B8-%E6%96%B0%E4%B8%89%E5%8F%89%E6%88%9F%E5%90%84%E5%BB%BA%E4%B8%80%E5%8A%9F",
     "timestamp": "2026-08-24T22:00:43.499Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜車路士作客3：2勝富咸　新三叉戟各建一功",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168779584527667200295610.jpeg/vpx07NfuMXORnpSeDjMob7Qre9rkQ-_pdTocMnU6HDI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383259/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%BD%9C%E5%AE%A23-2%E5%8B%9D%E5%AF%8C%E5%92%B8-%E6%96%B0%E4%B8%89%E5%8F%89%E6%88%9F%E5%90%84%E5%BB%BA%E4%B8%80%E5%8A%9F",
-    "timestamp": "2026-08-24T21:47:16.230Z",
     "strategy": ".content-card__main"
   }
 ];
