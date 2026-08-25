@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T20:02:06.130Z
+// Last updated: 2026-08-25T20:15:40.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗與阿曼聯合聲明：擬霍爾木茲海峽建立共同商定安全通道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169117255754059776987013.jpeg/I0RUox0wvP7pxB-GUPU6HQC1pGpgSInLNlvLljZby5Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383652/%E4%BC%8A%E6%9C%97%E8%88%87%E9%98%BF%E6%9B%BC%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E6%93%AC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BB%BA%E7%AB%8B%E5%85%B1%E5%90%8C%E5%95%86%E5%AE%9A%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%93",
+    "timestamp": "2026-08-25T20:15:40.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗與阿曼聯合聲明：擬霍爾木茲海峽建立共同商定安全通道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169013735444975616789105.jpeg/dL_Fxz9gFkBtGyRU-l2cUvRUqR6qkdZQnwit7vkIre4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383592/%E9%87%8D%E6%85%B6%E9%87%8E%E8%B1%AC%E8%A5%B2%E6%93%8A%E6%9D%91%E6%B0%91%E9%87%801%E6%AD%BB1%E5%82%B7-52%E6%AD%B2%E7%94%B7%E9%81%AD%E9%A0%82%E4%B8%8B%E5%B1%B1%E5%B4%96%E6%91%94%E6%AD%BB",
     "timestamp": "2026-08-25T12:18:45.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗南昌街男子墮樓　壓中貨車反彈落地　當場死亡｜珍惜生命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169008423547703296728104.jpeg/yvbsm2w1DcmYcTm8PJcWBTDGcMQiHKVtm5bkrZuW5K0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383598/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%8D%97%E6%98%8C%E8%A1%97%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E5%A3%93%E4%B8%AD%E8%B2%A8%E8%BB%8A%E5%8F%8D%E5%BD%88%E8%90%BD%E5%9C%B0-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1-%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD",
-    "timestamp": "2026-08-25T12:00:52.394Z",
     "strategy": ".content-card__main"
   }
 ];
