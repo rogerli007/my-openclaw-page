@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T04:06:29.728Z
+// Last updated: 2026-08-25T04:53:02.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "龍珠主題樂園｜沙特擬投資60億歐元　在巴黎近郊興建漫畫主題公園",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168902267282132992653048.jpeg/0XJeKI4l-jZcdx72kJr8pYUS7yC34yS95APs_eQD7P0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383368/%E9%BE%8D%E7%8F%A0%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92-%E6%B2%99%E7%89%B9%E6%93%AC%E6%8A%95%E8%B3%8760%E5%84%84%E6%AD%90%E5%85%83-%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%BF%91%E9%83%8A%E8%88%88%E5%BB%BA%E6%BC%AB%E7%95%AB%E4%B8%BB%E9%A1%8C%E5%85%AC%E5%9C%92",
+    "timestamp": "2026-08-25T04:53:02.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有毒廚房紙｜內地柚家廚房紙致癌物超標 恐影響發育及神經系統",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141149899887218688164527.jpeg/r3IJVpEMWLX668vwnGNGVEqZNg3uO3yPlcC8dZXAvHU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383254/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%89%87%E5%8D%80-%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E5%9F%BA%E9%87%91%E6%AD%A1%E8%BF%8E%E6%8B%9B%E6%A8%99%E7%B5%90%E6%9E%9C-%E5%8A%89%E5%9C%8B%E5%8B%B3%E7%A8%B1%E5%B1%95%E7%A4%BA%E7%94%A2%E6%A5%AD%E6%96%B0%E5%9F%8E",
     "timestamp": "2026-08-24T20:00:03.494Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林定國率團訪新疆　推廣香港法律和解決爭議服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168755096083894272589472.jpeg/Rnvt-1-m8f05vRMc6pq95RNaxsWUsu9f2KHgd9ih4Hc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60383253/%E6%9E%97%E5%AE%9A%E5%9C%8B%E7%8E%87%E5%9C%98%E8%A8%AA%E6%96%B0%E7%96%86-%E6%8E%A8%E5%BB%A3%E9%A6%99%E6%B8%AF%E6%B3%95%E5%BE%8B%E5%92%8C%E8%A7%A3%E6%B1%BA%E7%88%AD%E8%AD%B0%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-08-24T19:19:40.371Z",
     "strategy": ".content-card__main"
   }
 ];
