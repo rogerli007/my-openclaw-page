@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T09:50:16.941Z
+// Last updated: 2026-08-25T10:31:40.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓濟州張美蘭遺體距住所僅400米　警查死因　男友駁斥自殺可能性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168534833085943808375821.png/Bkf9H3AfXgMImWUpvvt9LYhkILXia1e6op2xeaKdsXk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383538/%E9%9F%93%E6%BF%9F%E5%B7%9E%E5%BC%B5%E7%BE%8E%E8%98%AD%E9%81%BA%E9%AB%94%E8%B7%9D%E4%BD%8F%E6%89%80%E5%83%85400%E7%B1%B3-%E8%AD%A6%E6%9F%A5%E6%AD%BB%E5%9B%A0-%E7%94%B7%E5%8F%8B%E9%A7%81%E6%96%A5%E8%87%AA%E6%AE%BA%E5%8F%AF%E8%83%BD%E6%80%A7",
+    "timestamp": "2026-08-25T10:31:40.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "凱旋珠寶玉石文化館涉未制止導遊威迫旅客購物　遭旅監局停牌30日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168556938166800384367249.png/aejqmnlFqVx2lgZOQjcRmp5jJm4ranosxY4-McWOPjE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383034/71%E6%AD%B2%E7%8E%8B%E6%99%B6%E7%98%8B%E7%8B%82%E7%9C%A8%E7%9C%BC%E6%83%B9%E4%B8%AD%E9%A2%A8%E5%85%88%E5%85%86-%E6%9C%80%E6%96%B0%E5%85%A8%E5%AE%B6%E7%A6%8F%E9%A9%9A%E8%A6%8B%E6%8B%9B%E7%89%8C%E5%A4%A7%E8%82%9A%E8%85%A9%E7%B8%AE%E6%B0%B4%E8%AE%8A%E7%B4%B0",
     "timestamp": "2026-08-24T23:00:10.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "71歲王晶瘋狂眨眼惹中風先兆　最新全家福驚見招牌大肚腩縮水變細",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168556938166800384367249.png/aejqmnlFqVx2lgZOQjcRmp5jJm4ranosxY4-McWOPjE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383034/71%E6%AD%B2%E7%8E%8B%E6%99%B6%E7%98%8B%E7%8B%82%E7%9C%A8%E7%9C%BC%E6%83%B9%E4%B8%AD%E9%A2%A8%E5%85%88%E5%85%86-%E6%9C%80%E6%96%B0%E5%85%A8%E5%AE%B6%E7%A6%8F%E9%A9%9A%E8%A6%8B%E6%8B%9B%E7%89%8C%E5%A4%A7%E8%82%9A%E8%85%A9%E7%B8%AE%E6%B0%B4%E8%AE%8A%E7%B4%B0",
-    "timestamp": "2026-08-24T22:46:43.730Z",
     "strategy": ".content-card__main"
   }
 ];
