@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T14:08:20.104Z
+// Last updated: 2026-08-25T14:34:28.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美加貿易談判談不攏　特朗普：考慮將安大略湖改名「美國湖」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169045887230414848758463.png/UCX8iFrB7JEpPFYSefaVszFQmFu6OdoWC_0s4Av9LOA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383619/%E7%BE%8E%E5%8A%A0%E8%B2%BF%E6%98%93%E8%AB%87%E5%88%A4%E8%AB%87%E4%B8%8D%E6%94%8F-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%80%83%E6%85%AE%E5%B0%87%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%94%B9%E5%90%8D-%E7%BE%8E%E5%9C%8B%E6%B9%96",
+    "timestamp": "2026-08-25T14:34:28.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國神秘運輸機飛抵俄羅斯首都　克宮拒回應：沒有資料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220329/585447406296895488192835.jpeg/qSESuCW7p8xVRjMSzcjZsiuFa4cuIp1KFiRvahYkb2o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60383381/%E6%97%A5%E6%B8%85%E9%A3%9F%E5%93%81%E4%B8%AD%E6%9C%9F%E7%9B%88%E5%88%A9%E5%8D%8712-%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%B7%E8%BF%913",
     "timestamp": "2026-08-25T05:18:23.225Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "龍珠主題樂園｜沙特擬投資60億歐元　在巴黎近郊興建漫畫主題公園",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168902267282132992653048.jpeg/0XJeKI4l-jZcdx72kJr8pYUS7yC34yS95APs_eQD7P0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383368/%E9%BE%8D%E7%8F%A0%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92-%E6%B2%99%E7%89%B9%E6%93%AC%E6%8A%95%E8%B3%8760%E5%84%84%E6%AD%90%E5%85%83-%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%BF%91%E9%83%8A%E8%88%88%E5%BB%BA%E6%BC%AB%E7%95%AB%E4%B8%BB%E9%A1%8C%E5%85%AC%E5%9C%92",
-    "timestamp": "2026-08-25T04:53:02.129Z",
     "strategy": ".content-card__main"
   }
 ];
