@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T00:23:16.853Z
+// Last updated: 2026-08-25T00:54:25.721Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美網外圍賽｜黃澤林力爭再寫歷史　首圈逆轉挫丹麥球手晉級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168840445610954752128605.png/PYdIE8mltGIil5KCnZ8rXYJUA2qQjympAKTN9gCkzfY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383272/%E7%BE%8E%E7%B6%B2%E5%A4%96%E5%9C%8D%E8%B3%BD-%E9%BB%83%E6%BE%A4%E6%9E%97%E5%8A%9B%E7%88%AD%E5%86%8D%E5%AF%AB%E6%AD%B7%E5%8F%B2-%E9%A6%96%E5%9C%88%E9%80%86%E8%BD%89%E6%8C%AB%E4%B8%B9%E9%BA%A5%E7%90%83%E6%89%8B%E6%99%89%E7%B4%9A",
+    "timestamp": "2026-08-25T00:54:25.721Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門青山公路一個月內兩度爆水管　黃泥水湧出　街坊呻或要停水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168712511877287936085173.png/SLDZ9bDmddPO5Af4bEpQTU3mS7kdtZIstwUQH7cFEB8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383242/%E6%97%A5%E6%9C%AC%E8%A7%80%E5%85%89%E8%88%B9%E6%9D%B1%E4%BA%AC%E7%81%A3%E6%92%9E%E9%98%B2%E6%B3%A2%E5%A0%A4-9%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-24T17:17:29.816Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本觀光船東京灣撞防波堤　9人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168712511877287936085173.png/SLDZ9bDmddPO5Af4bEpQTU3mS7kdtZIstwUQH7cFEB8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383242/%E6%97%A5%E6%9C%AC%E8%A7%80%E5%85%89%E8%88%B9%E6%9D%B1%E4%BA%AC%E7%81%A3%E6%92%9E%E9%98%B2%E6%B3%A2%E5%A0%A4-9%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-08-24T16:55:49.910Z",
     "strategy": ".content-card__main"
   }
 ];
