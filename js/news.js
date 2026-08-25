@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T21:17:15.098Z
+// Last updated: 2026-08-25T21:32:08.109Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄉村音樂天后桃莉芭頓離世享年80歲　特朗普下令降半旗致敬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169148574890463232375148.jpeg/2bOZLOHmCWxVayZDIgY1OIsnml4jVY7AjZbmCI2W5gg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383657/%E9%84%89%E6%9D%91%E9%9F%B3%E6%A8%82%E5%A4%A9%E5%90%8E%E6%A1%83%E8%8E%89%E8%8A%AD%E9%A0%93%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B480%E6%AD%B2-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%99%8D%E5%8D%8A%E6%97%97%E8%87%B4%E6%95%AC",
+    "timestamp": "2026-08-25T21:32:08.109Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣2男貨車內吸毒　熱心途人報案　警檢$4.5萬毒品拘2男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169045887230414848758463.png/UCX8iFrB7JEpPFYSefaVszFQmFu6OdoWC_0s4Av9LOA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383619/%E7%BE%8E%E5%8A%A0%E8%B2%BF%E6%98%93%E8%AB%87%E5%88%A4%E8%AB%87%E4%B8%8D%E6%94%8F-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%80%83%E6%85%AE%E5%B0%87%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%94%B9%E5%90%8D-%E7%BE%8E%E5%9C%8B%E6%B9%96",
     "timestamp": "2026-08-25T14:34:28.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國神秘運輸機飛抵俄羅斯首都　克宮拒回應：沒有資料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169041608784482304251368.jpeg/LmLyGLz2apntcBm3Ga0haHpdUDK--ZDAz-mSlc_pkpU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383616/%E7%BE%8E%E5%9C%8B%E7%A5%9E%E7%A7%98%E9%81%8B%E8%BC%B8%E6%A9%9F%E9%A3%9B%E6%8A%B5%E4%BF%84%E7%BE%85%E6%96%AF%E9%A6%96%E9%83%BD-%E5%85%8B%E5%AE%AE%E6%8B%92%E5%9B%9E%E6%87%89-%E6%B2%92%E6%9C%89%E8%B3%87%E6%96%99",
-    "timestamp": "2026-08-25T14:08:20.104Z",
     "strategy": ".content-card__main"
   }
 ];
