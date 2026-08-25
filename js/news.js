@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T14:34:28.709Z
+// Last updated: 2026-08-25T14:58:15.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙抵港「泳池消毒劑」包裹藏$500萬K仔　海關監控遞送拘一女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169049710183321600389174.jpeg/PcfTTIkenKPP1zQj_WvXHsVLRLByE2UdhSsDgIUrA4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383624/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8A%B5%E6%B8%AF-%E6%B3%B3%E6%B1%A0%E6%B6%88%E6%AF%92%E5%8A%91-%E5%8C%85%E8%A3%B9%E8%97%8F-500%E8%90%ACk%E4%BB%94-%E6%B5%B7%E9%97%9C%E7%9B%A3%E6%8E%A7%E9%81%9E%E9%80%81%E6%8B%98%E4%B8%80%E5%A5%B3",
+    "timestamp": "2026-08-25T14:58:15.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美加貿易談判談不攏　特朗普：考慮將安大略湖改名「美國湖」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168913301464158208389054.jpeg/NOwwnt2O-_5Agjt_1NxbYFxizqwkq4kSr7UKgK-1CoA?v=w1920",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60383390/%E8%80%97%E8%B3%87540%E5%84%84%E6%B8%AF%E5%85%83-%E6%B3%95%E5%9C%8B%E6%B2%99%E7%89%B9%E5%90%88%E4%BD%9C-%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E5%BA%A7%E9%BE%8D%E7%8F%A0%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92%E5%B0%87%E8%90%BD%E6%88%B6%E5%B7%B4%E9%BB%8E",
     "timestamp": "2026-08-25T05:35:35.042Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日清食品中期盈利升12%　收入增長近3%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220329/585447406296895488192835.jpeg/qSESuCW7p8xVRjMSzcjZsiuFa4cuIp1KFiRvahYkb2o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60383381/%E6%97%A5%E6%B8%85%E9%A3%9F%E5%93%81%E4%B8%AD%E6%9C%9F%E7%9B%88%E5%88%A9%E5%8D%8712-%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%B7%E8%BF%913",
-    "timestamp": "2026-08-25T05:18:23.225Z",
     "strategy": ".content-card__main"
   }
 ];
