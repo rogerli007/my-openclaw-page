@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T11:30:46.530Z
+// Last updated: 2026-08-25T11:46:12.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國25歲女留學生韓國失蹤多天　韓警全面調查　家屬向領事館求助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169005448704036864653817.png/17b57ZDnuPZT_GwGM-lQjMTAei8amqE31c1yW9XNcls?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383596/%E4%B8%AD%E5%9C%8B25%E6%AD%B2%E5%A5%B3%E7%95%99%E5%AD%B8%E7%94%9F%E9%9F%93%E5%9C%8B%E5%A4%B1%E8%B9%A4%E5%A4%9A%E5%A4%A9-%E9%9F%93%E8%AD%A6%E5%85%A8%E9%9D%A2%E8%AA%BF%E6%9F%A5-%E5%AE%B6%E5%B1%AC%E5%90%91%E9%A0%98%E4%BA%8B%E9%A4%A8%E6%B1%82%E5%8A%A9",
+    "timestamp": "2026-08-25T11:46:12.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "匡智會舍監涉姦女院友　事主同意無性接觸　但稱不清楚這字意思",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151682454923251712079158.jpeg/0VCS05T7ZIGRAIeXXvP0b8d1a_qbpzXuPFrk3jxa5N4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383278/%E6%95%98%E5%88%A9%E4%BA%9E%E7%8D%B2%E7%BE%8E%E5%9C%8B%E5%89%94%E5%87%BA%E6%94%AF%E6%8C%81%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9%E5%9C%8B%E5%AE%B6%E5%90%8D%E5%96%AE-%E5%85%A9%E5%9C%8B%E9%97%9C%E4%BF%82%E9%80%B2%E4%B8%80%E6%AD%A5%E6%94%B9%E5%96%84",
     "timestamp": "2026-08-25T01:37:37.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美網外圍賽｜黃澤林力爭再寫歷史　首圈逆轉挫丹麥球手晉級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168840445610954752128605.png/PYdIE8mltGIil5KCnZ8rXYJUA2qQjympAKTN9gCkzfY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383272/%E7%BE%8E%E7%B6%B2%E5%A4%96%E5%9C%8D%E8%B3%BD-%E9%BB%83%E6%BE%A4%E6%9E%97%E5%8A%9B%E7%88%AD%E5%86%8D%E5%AF%AB%E6%AD%B7%E5%8F%B2-%E9%A6%96%E5%9C%88%E9%80%86%E8%BD%89%E6%8C%AB%E4%B8%B9%E9%BA%A5%E7%90%83%E6%89%8B%E6%99%89%E7%B4%9A",
-    "timestamp": "2026-08-25T00:54:25.721Z",
     "strategy": ".content-card__main"
   }
 ];
