@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T23:46:30.578Z
+// Last updated: 2026-08-25T23:57:22.772Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「中東北約」的誘惑：伊朗若入局，將如何撕裂世界",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158555502083313664921867.jpeg/r30UGfzBLwN-Wjtwf3MgAvGTt_OnFdutjVEteY1RLXk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60383472/%E4%B8%AD%E6%9D%B1%E5%8C%97%E7%B4%84-%E7%9A%84%E8%AA%98%E6%83%91-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%85%A5%E5%B1%80-%E5%B0%87%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E4%B8%96%E7%95%8C",
+    "timestamp": "2026-08-25T23:57:22.772Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「中東北約」的誘惑：伊朗若入局，將如何撕裂世界",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169098914272382976307862.jpeg/zEvxAcAlPEwzL2-5MVaXRzuxRSRNZYRFWmeTA1pnkwM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383649/%E8%8D%83%E7%81%A3%E5%8F%AF%E7%96%91%E5%8F%B8%E6%A9%9F%E6%90%AC%E8%B2%A8%E9%96%8B%E8%BB%8A-%E8%AD%A6%E6%88%AA%E6%9F%A5%E6%AA%A2-2-6%E8%90%AC%E6%AF%92%E5%93%81-34%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-25T18:02:24.655Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：霍爾木茲海峽水雷已全部清除　對伊朗布雷零容忍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122582879306518528072968.jpeg/RZqkiwbyVbPl3exXhYAJqB01UlPklnwXJdVMhyXVTIc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383647/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%B0%B4%E9%9B%B7%E5%B7%B2%E5%85%A8%E9%83%A8%E6%B8%85%E9%99%A4-%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%B8%83%E9%9B%B7%E9%9B%B6%E5%AE%B9%E5%BF%8D",
-    "timestamp": "2026-08-25T17:47:33.556Z",
     "strategy": ".content-card__main"
   }
 ];
