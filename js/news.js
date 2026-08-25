@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T18:02:24.655Z
+// Last updated: 2026-08-25T18:18:10.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國德州野火蔓延超200公里　當局下令緊急疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169101880060547072739251.png/shf4PMBrNvwJGC8ZvQXCx_XS2wsIuYt3pae2eKWntng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383650/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E9%87%8E%E7%81%AB%E8%94%93%E5%BB%B6%E8%B6%85200%E5%85%AC%E9%87%8C-%E7%95%B6%E5%B1%80%E4%B8%8B%E4%BB%A4%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-08-25T18:18:10.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣可疑司機搬貨開車　警截查檢$2.6萬毒品　34歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168534833085943808375821.png/Bkf9H3AfXgMImWUpvvt9LYhkILXia1e6op2xeaKdsXk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383538/%E9%9F%93%E6%BF%9F%E5%B7%9E%E5%BC%B5%E7%BE%8E%E8%98%AD%E9%81%BA%E9%AB%94%E8%B7%9D%E4%BD%8F%E6%89%80%E5%83%85400%E7%B1%B3-%E8%AD%A6%E6%9F%A5%E6%AD%BB%E5%9B%A0-%E7%94%B7%E5%8F%8B%E9%A7%81%E6%96%A5%E8%87%AA%E6%AE%BA%E5%8F%AF%E8%83%BD%E6%80%A7",
     "timestamp": "2026-08-25T10:31:40.018Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "凱旋珠寶玉石文化館涉未制止導遊威迫旅客購物　遭旅監局停牌30日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168973514565226496816205.png/B2xd-q9xAEcOLJC5_I_P_CqYK9OggUWwNTUwZzU1MGc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383527/%E5%87%B1%E6%97%8B%E7%8F%A0%E5%AF%B6%E7%8E%89%E7%9F%B3%E6%96%87%E5%8C%96%E9%A4%A8%E6%B6%89%E6%9C%AA%E5%88%B6%E6%AD%A2%E5%B0%8E%E9%81%8A%E5%A8%81%E8%BF%AB%E6%97%85%E5%AE%A2%E8%B3%BC%E7%89%A9-%E9%81%AD%E6%97%85%E7%9B%A3%E5%B1%80%E5%81%9C%E7%89%8C30%E6%97%A5",
-    "timestamp": "2026-08-25T09:50:16.941Z",
     "strategy": ".content-card__main"
   }
 ];
