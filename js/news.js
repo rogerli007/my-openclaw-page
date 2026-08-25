@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T15:24:33.411Z
+// Last updated: 2026-08-25T15:51:51.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門元朗打擊非法賣淫　13女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169066665497858048478201.jpeg/rqR8IkFdJl6JengavDpXM7xXFG0hQtKKfF07cXxdO3E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383638/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%83%E6%9C%97%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E8%B3%A3%E6%B7%AB-13%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-25T15:51:51.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姚焯菲分享紐約拍攝專輯照趣事　上一刻仲震緊：下一秒要著羽絨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168926200182083584761803.jpeg/cQQIqQu2sq6mynR5HDErMpvvuk5PIWvTUVv9-FFb_fg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383398/%E6%9C%89%E7%89%87-%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%88%89%E9%87%8D-%E9%81%B8%E6%89%8B-%E6%89%9B%E6%A7%93%E9%88%B4%E5%A4%B1%E6%8E%A7%E8%A1%9D%E5%90%91%E8%A3%81%E5%88%A4%E6%A1%8C-%E5%80%92%E5%9C%B0%E8%A2%AB%E6%93%94%E6%9E%B6%E6%8A%AC%E9%9B%A2",
     "timestamp": "2026-08-25T06:52:28.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "情侶2千住深圳希爾頓旗下酒店女生被蟲咬到滿腿疹　經理竟稱正常",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168916099966701568697832.jpeg/D3he9dDgEKEV9bH9uwK7Fo9nPU-BF1oF2uYL_trmC_4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383395/%E6%83%85%E4%BE%B62%E5%8D%83%E4%BD%8F%E6%B7%B1%E5%9C%B3%E5%B8%8C%E7%88%BE%E9%A0%93%E6%97%97%E4%B8%8B%E9%85%92%E5%BA%97%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%9F%B2%E5%92%AC%E5%88%B0%E6%BB%BF%E8%85%BF%E7%96%B9-%E7%B6%93%E7%90%86%E7%AB%9F%E7%A8%B1%E6%AD%A3%E5%B8%B8",
-    "timestamp": "2026-08-25T06:20:09.184Z",
     "strategy": ".content-card__main"
   }
 ];
