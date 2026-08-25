@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T17:47:33.556Z
+// Last updated: 2026-08-25T18:02:24.655Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣可疑司機搬貨開車　警截查檢$2.6萬毒品　34歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169098914272382976307862.jpeg/zEvxAcAlPEwzL2-5MVaXRzuxRSRNZYRFWmeTA1pnkwM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383649/%E8%8D%83%E7%81%A3%E5%8F%AF%E7%96%91%E5%8F%B8%E6%A9%9F%E6%90%AC%E8%B2%A8%E9%96%8B%E8%BB%8A-%E8%AD%A6%E6%88%AA%E6%9F%A5%E6%AA%A2-2-6%E8%90%AC%E6%AF%92%E5%93%81-34%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-25T18:02:24.655Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：霍爾木茲海峽水雷已全部清除　對伊朗布雷零容忍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168973514565226496816205.png/B2xd-q9xAEcOLJC5_I_P_CqYK9OggUWwNTUwZzU1MGc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383527/%E5%87%B1%E6%97%8B%E7%8F%A0%E5%AF%B6%E7%8E%89%E7%9F%B3%E6%96%87%E5%8C%96%E9%A4%A8%E6%B6%89%E6%9C%AA%E5%88%B6%E6%AD%A2%E5%B0%8E%E9%81%8A%E5%A8%81%E8%BF%AB%E6%97%85%E5%AE%A2%E8%B3%BC%E7%89%A9-%E9%81%AD%E6%97%85%E7%9B%A3%E5%B1%80%E5%81%9C%E7%89%8C30%E6%97%A5",
     "timestamp": "2026-08-25T09:50:16.941Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "整容醫生提議脫疣打肉毒桿菌　丹麥首相：發訊息請討論有意義的事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168950919975407616608351.jpeg/5cVD-ldiydMQkmLV1F0zZjbt9cXROtQ5uAn4qbgJ-Kk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383479/%E6%95%B4%E5%AE%B9%E9%86%AB%E7%94%9F%E6%8F%90%E8%AD%B0%E8%84%AB%E7%96%A3%E6%89%93%E8%82%89%E6%AF%92%E6%A1%BF%E8%8F%8C-%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8-%E7%99%BC%E8%A8%8A%E6%81%AF%E8%AB%8B%E8%A8%8E%E8%AB%96%E6%9C%89%E6%84%8F%E7%BE%A9%E7%9A%84%E4%BA%8B",
-    "timestamp": "2026-08-25T08:52:06.258Z",
     "strategy": ".content-card__main"
   }
 ];
