@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T04:53:02.129Z
+// Last updated: 2026-08-25T05:18:23.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日清食品中期盈利升12%　收入增長近3%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220329/585447406296895488192835.jpeg/qSESuCW7p8xVRjMSzcjZsiuFa4cuIp1KFiRvahYkb2o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60383381/%E6%97%A5%E6%B8%85%E9%A3%9F%E5%93%81%E4%B8%AD%E6%9C%9F%E7%9B%88%E5%88%A9%E5%8D%8712-%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%B7%E8%BF%913",
+    "timestamp": "2026-08-25T05:18:23.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "龍珠主題樂園｜沙特擬投資60億歐元　在巴黎近郊興建漫畫主題公園",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141149899887218688164527.jpeg/r3IJVpEMWLX668vwnGNGVEqZNg3uO3yPlcC8dZXAvHU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383254/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%89%87%E5%8D%80-%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E5%9F%BA%E9%87%91%E6%AD%A1%E8%BF%8E%E6%8B%9B%E6%A8%99%E7%B5%90%E6%9E%9C-%E5%8A%89%E5%9C%8B%E5%8B%B3%E7%A8%B1%E5%B1%95%E7%A4%BA%E7%94%A2%E6%A5%AD%E6%96%B0%E5%9F%8E",
     "timestamp": "2026-08-24T20:14:49.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洪水橋片區｜團結香港基金歡迎招標結果　劉國勳稱展示產業新城",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260609/1141149899887218688164527.jpeg/r3IJVpEMWLX668vwnGNGVEqZNg3uO3yPlcC8dZXAvHU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383254/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%89%87%E5%8D%80-%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E5%9F%BA%E9%87%91%E6%AD%A1%E8%BF%8E%E6%8B%9B%E6%A8%99%E7%B5%90%E6%9E%9C-%E5%8A%89%E5%9C%8B%E5%8B%B3%E7%A8%B1%E5%B1%95%E7%A4%BA%E7%94%A2%E6%A5%AD%E6%96%B0%E5%9F%8E",
-    "timestamp": "2026-08-24T20:00:03.494Z",
     "strategy": ".content-card__main"
   }
 ];
