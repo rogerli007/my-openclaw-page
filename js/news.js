@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T16:37:56.356Z
+// Last updated: 2026-08-25T17:07:28.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大對美加徵千億報復關稅　推措施支援受影響加國工人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168961183017865216728530.jpeg/wOPe6N2UiYB1V_mvCSCSc5YPdrM2po4MrCxG0KwsRtA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383640/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B0%8D%E7%BE%8E%E5%8A%A0%E5%BE%B5%E5%8D%83%E5%84%84%E5%A0%B1%E5%BE%A9%E9%97%9C%E7%A8%85-%E6%8E%A8%E6%8E%AA%E6%96%BD%E6%94%AF%E6%8F%B4%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%8A%A0%E5%9C%8B%E5%B7%A5%E4%BA%BA",
+    "timestamp": "2026-08-25T17:07:28.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "卓永興主持地區治理專組會議　檢視加強社區支援、提升市容等成效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168925866718138368978634.png/G2nkDnvKLy79TINFrFSYZ_c9BSxEM-HEQ3LLcUNyy3E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383414/%E5%89%8D%E7%AB%A5%E6%98%9Fraquel-lee%E6%8F%90%E5%91%8A%E8%BF%AA%E5%A3%AB%E5%B0%BC-14%E6%AD%B2%E6%8B%8D%E6%94%9D%E9%81%AD%E7%81%8C%E9%85%92%E6%80%A7%E4%BE%B5-%E5%8A%87%E7%B5%84%E5%8C%85%E5%BA%87%E7%84%A1%E8%A6%96",
     "timestamp": "2026-08-25T08:22:32.936Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "越式洗髮按摩「撥筋」出事！台女慘患腦脊髓液滲漏 嚴重恐致中風",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168905962187132928251638.jpeg/TlTLdogzSZu1mb8Kadv0rM7KfhY-EEF3T5DraU-Q62k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60383365/%E8%B6%8A%E5%BC%8F%E6%B4%97%E9%AB%AE%E6%8C%89%E6%91%A9-%E6%92%A5%E7%AD%8B-%E5%87%BA%E4%BA%8B-%E5%8F%B0%E5%A5%B3%E6%85%98%E6%82%A3%E8%85%A6%E8%84%8A%E9%AB%93%E6%B6%B2%E6%BB%B2%E6%BC%8F-%E5%9A%B4%E9%87%8D%E6%81%90%E8%87%B4%E4%B8%AD%E9%A2%A8",
-    "timestamp": "2026-08-25T07:52:01.802Z",
     "strategy": ".content-card__main"
   }
 ];
