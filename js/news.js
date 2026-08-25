@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T13:38:35.820Z
+// Last updated: 2026-08-25T14:08:20.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國神秘運輸機飛抵俄羅斯首都　克宮拒回應：沒有資料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169041608784482304251368.jpeg/LmLyGLz2apntcBm3Ga0haHpdUDK--ZDAz-mSlc_pkpU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383616/%E7%BE%8E%E5%9C%8B%E7%A5%9E%E7%A7%98%E9%81%8B%E8%BC%B8%E6%A9%9F%E9%A3%9B%E6%8A%B5%E4%BF%84%E7%BE%85%E6%96%AF%E9%A6%96%E9%83%BD-%E5%85%8B%E5%AE%AE%E6%8B%92%E5%9B%9E%E6%87%89-%E6%B2%92%E6%9C%89%E8%B3%87%E6%96%99",
+    "timestamp": "2026-08-25T14:08:20.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "綠置居盛緻苑｜首日多彩虹邨西環邨重建戶揀樓：好開心揀到想要嘅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168902267282132992653048.jpeg/0XJeKI4l-jZcdx72kJr8pYUS7yC34yS95APs_eQD7P0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383368/%E9%BE%8D%E7%8F%A0%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92-%E6%B2%99%E7%89%B9%E6%93%AC%E6%8A%95%E8%B3%8760%E5%84%84%E6%AD%90%E5%85%83-%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%BF%91%E9%83%8A%E8%88%88%E5%BB%BA%E6%BC%AB%E7%95%AB%E4%B8%BB%E9%A1%8C%E5%85%AC%E5%9C%92",
     "timestamp": "2026-08-25T04:53:02.129Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有毒廚房紙｜內地柚家廚房紙致癌物超標 恐影響發育及神經系統",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168885216278745088736941.jpeg/KQZHJGCYFuQqRa0An7uTGniRvucCs3hIbCAqCWwgKgk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60383141/%E6%9C%89%E6%AF%92%E5%BB%9A%E6%88%BF%E7%B4%99-%E5%85%A7%E5%9C%B0%E6%9F%9A%E5%AE%B6%E5%BB%9A%E6%88%BF%E7%B4%99%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A8%99-%E6%81%90%E5%BD%B1%E9%9F%BF%E7%99%BC%E8%82%B2%E5%8F%8A%E7%A5%9E%E7%B6%93%E7%B3%BB%E7%B5%B1",
-    "timestamp": "2026-08-25T04:06:29.728Z",
     "strategy": ".content-card__main"
   }
 ];
