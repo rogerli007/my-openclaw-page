@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T03:36:44.828Z
+// Last updated: 2026-08-25T04:06:29.728Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有毒廚房紙｜內地柚家廚房紙致癌物超標 恐影響發育及神經系統",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168885216278745088736941.jpeg/KQZHJGCYFuQqRa0An7uTGniRvucCs3hIbCAqCWwgKgk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60383141/%E6%9C%89%E6%AF%92%E5%BB%9A%E6%88%BF%E7%B4%99-%E5%85%A7%E5%9C%B0%E6%9F%9A%E5%AE%B6%E5%BB%9A%E6%88%BF%E7%B4%99%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A8%99-%E6%81%90%E5%BD%B1%E9%9F%BF%E7%99%BC%E8%82%B2%E5%8F%8A%E7%A5%9E%E7%B6%93%E7%B3%BB%E7%B5%B1",
+    "timestamp": "2026-08-25T04:06:29.728Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Tiffany Young演唱會2026香港｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168755096083894272589472.jpeg/Rnvt-1-m8f05vRMc6pq95RNaxsWUsu9f2KHgd9ih4Hc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60383253/%E6%9E%97%E5%AE%9A%E5%9C%8B%E7%8E%87%E5%9C%98%E8%A8%AA%E6%96%B0%E7%96%86-%E6%8E%A8%E5%BB%A3%E9%A6%99%E6%B8%AF%E6%B3%95%E5%BE%8B%E5%92%8C%E8%A7%A3%E6%B1%BA%E7%88%AD%E8%AD%B0%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-08-24T19:19:40.371Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博社：美國或在習特會前公布　依產能過剩對華加徵7.5%關稅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103186894943948800406783.jpeg/0leeNN1Mh1IMp2hlPdzVepNk2WthDFItyUAaPslAGj4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383250/%E5%BD%AD%E5%8D%9A%E7%A4%BE-%E7%BE%8E%E5%9C%8B%E6%88%96%E5%9C%A8%E7%BF%92%E7%89%B9%E6%9C%83%E5%89%8D%E5%85%AC%E5%B8%83-%E4%BE%9D%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E5%B0%8D%E8%8F%AF%E5%8A%A0%E5%BE%B57-5-%E9%97%9C%E7%A8%85",
-    "timestamp": "2026-08-24T18:56:47.495Z",
     "strategy": ".content-card__main"
   }
 ];
