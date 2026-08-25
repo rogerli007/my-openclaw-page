@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T17:07:28.288Z
+// Last updated: 2026-08-25T17:47:33.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：霍爾木茲海峽水雷已全部清除　對伊朗布雷零容忍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260419/1122582879306518528072968.jpeg/RZqkiwbyVbPl3exXhYAJqB01UlPklnwXJdVMhyXVTIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383647/%E7%89%B9%E6%9C%97%E6%99%AE-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%B0%B4%E9%9B%B7%E5%B7%B2%E5%85%A8%E9%83%A8%E6%B8%85%E9%99%A4-%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%B8%83%E9%9B%B7%E9%9B%B6%E5%AE%B9%E5%BF%8D",
+    "timestamp": "2026-08-25T17:47:33.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大對美加徵千億報復關稅　推措施支援受影響加國工人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168950919975407616608351.jpeg/5cVD-ldiydMQkmLV1F0zZjbt9cXROtQ5uAn4qbgJ-Kk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383479/%E6%95%B4%E5%AE%B9%E9%86%AB%E7%94%9F%E6%8F%90%E8%AD%B0%E8%84%AB%E7%96%A3%E6%89%93%E8%82%89%E6%AF%92%E6%A1%BF%E8%8F%8C-%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8-%E7%99%BC%E8%A8%8A%E6%81%AF%E8%AB%8B%E8%A8%8E%E8%AB%96%E6%9C%89%E6%84%8F%E7%BE%A9%E7%9A%84%E4%BA%8B",
     "timestamp": "2026-08-25T08:52:06.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前童星Raquel Lee提告迪士尼　14歲拍攝遭灌酒性侵　劇組包庇無視",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168925866718138368978634.png/G2nkDnvKLy79TINFrFSYZ_c9BSxEM-HEQ3LLcUNyy3E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383414/%E5%89%8D%E7%AB%A5%E6%98%9Fraquel-lee%E6%8F%90%E5%91%8A%E8%BF%AA%E5%A3%AB%E5%B0%BC-14%E6%AD%B2%E6%8B%8D%E6%94%9D%E9%81%AD%E7%81%8C%E9%85%92%E6%80%A7%E4%BE%B5-%E5%8A%87%E7%B5%84%E5%8C%85%E5%BA%87%E7%84%A1%E8%A6%96",
-    "timestamp": "2026-08-25T08:22:32.936Z",
     "strategy": ".content-card__main"
   }
 ];
