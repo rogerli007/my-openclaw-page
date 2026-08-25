@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T18:18:10.767Z
+// Last updated: 2026-08-25T18:36:07.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國德州野火蔓延超200公里　當局下令緊急疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169101880060547072739251.png/shf4PMBrNvwJGC8ZvQXCx_XS2wsIuYt3pae2eKWntng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383650/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E9%87%8E%E7%81%AB%E8%94%93%E5%BB%B6%E8%B6%85200%E5%85%AC%E9%87%8C-%E7%95%B6%E5%B1%80%E4%B8%8B%E4%BB%A4%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-08-25T18:36:07.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國德州野火蔓延超200公里　當局下令緊急疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168993276695416832519304.jpeg/JIrYy6PPtOdgTwanEn_Tm2c5cEg_ElYMy81bsMvNW7A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380339/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E8%B7%86%E6%8B%B3%E9%81%93-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
     "timestamp": "2026-08-25T10:50:41.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓濟州張美蘭遺體距住所僅400米　警查死因　男友駁斥自殺可能性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168534833085943808375821.png/Bkf9H3AfXgMImWUpvvt9LYhkILXia1e6op2xeaKdsXk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383538/%E9%9F%93%E6%BF%9F%E5%B7%9E%E5%BC%B5%E7%BE%8E%E8%98%AD%E9%81%BA%E9%AB%94%E8%B7%9D%E4%BD%8F%E6%89%80%E5%83%85400%E7%B1%B3-%E8%AD%A6%E6%9F%A5%E6%AD%BB%E5%9B%A0-%E7%94%B7%E5%8F%8B%E9%A7%81%E6%96%A5%E8%87%AA%E6%AE%BA%E5%8F%AF%E8%83%BD%E6%80%A7",
-    "timestamp": "2026-08-25T10:31:40.018Z",
     "strategy": ".content-card__main"
   }
 ];
