@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T12:38:04.877Z
+// Last updated: 2026-08-25T13:38:35.820Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "綠置居盛緻苑｜首日多彩虹邨西環邨重建戶揀樓：好開心揀到想要嘅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168978068522405888892637.jpeg/c3ICQSmeYANZ-fd9ZNibfrbxifLvoZialfFgnrDxYJ4?v=w1920",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383563/%E7%B6%A0%E7%BD%AE%E5%B1%85%E7%9B%9B%E7%B7%BB%E8%8B%91-%E9%A6%96%E6%97%A5%E5%A4%9A%E5%BD%A9%E8%99%B9%E9%82%A8%E8%A5%BF%E7%92%B0%E9%82%A8%E9%87%8D%E5%BB%BA%E6%88%B6%E6%8F%80%E6%A8%93-%E5%A5%BD%E9%96%8B%E5%BF%83%E6%8F%80%E5%88%B0%E6%83%B3%E8%A6%81%E5%98%85",
+    "timestamp": "2026-08-25T13:38:35.820Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫生馬亮生無向染新冠病毒慢性病病人開抗病毒藥物　醫委會訓斥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168885216278745088736941.jpeg/KQZHJGCYFuQqRa0An7uTGniRvucCs3hIbCAqCWwgKgk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60383141/%E6%9C%89%E6%AF%92%E5%BB%9A%E6%88%BF%E7%B4%99-%E5%85%A7%E5%9C%B0%E6%9F%9A%E5%AE%B6%E5%BB%9A%E6%88%BF%E7%B4%99%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A8%99-%E6%81%90%E5%BD%B1%E9%9F%BF%E7%99%BC%E8%82%B2%E5%8F%8A%E7%A5%9E%E7%B6%93%E7%B3%BB%E7%B5%B1",
     "timestamp": "2026-08-25T04:06:29.728Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Tiffany Young演唱會2026香港｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1155930274681327616683142.jpeg/J5RkHs44LGCkh5gbogyInSgkMINvcEioQfenJUH3pyU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60371834/tiffany-young%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-08-25T03:36:44.828Z",
     "strategy": ".content-card__main"
   }
 ];
