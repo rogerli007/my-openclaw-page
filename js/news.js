@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-24T23:56:55.177Z
+// Last updated: 2026-08-25T00:23:16.853Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門青山公路一個月內兩度爆水管　黃泥水湧出　街坊呻或要停水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168830885730979840025146.jpeg/WThy1QCpHAt4FUQN1mQcdYHHqQcKzyFWXifLtV4ny7U",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383267/%E5%B1%AF%E9%96%80%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E4%B8%80%E5%80%8B%E6%9C%88%E5%85%A7%E5%85%A9%E5%BA%A6%E7%88%86%E6%B0%B4%E7%AE%A1-%E9%BB%83%E6%B3%A5%E6%B0%B4%E6%B9%A7%E5%87%BA-%E8%A1%97%E5%9D%8A%E5%91%BB%E6%88%96%E8%A6%81%E5%81%9C%E6%B0%B4",
+    "timestamp": "2026-08-25T00:23:16.853Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新加坡繼父借祈禱猥褻15歲繼女　廁所藏手機偷拍　老師家訪揭惡行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168712511877287936085173.png/SLDZ9bDmddPO5Af4bEpQTU3mS7kdtZIstwUQH7cFEB8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383242/%E6%97%A5%E6%9C%AC%E8%A7%80%E5%85%89%E8%88%B9%E6%9D%B1%E4%BA%AC%E7%81%A3%E6%92%9E%E9%98%B2%E6%B3%A2%E5%A0%A4-9%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-08-24T16:55:49.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本觀光船東京灣撞防波堤　9人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168712511877287936085173.png/SLDZ9bDmddPO5Af4bEpQTU3mS7kdtZIstwUQH7cFEB8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383242/%E6%97%A5%E6%9C%AC%E8%A7%80%E5%85%89%E8%88%B9%E6%9D%B1%E4%BA%AC%E7%81%A3%E6%92%9E%E9%98%B2%E6%B3%A2%E5%A0%A4-9%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-08-24T16:34:47.709Z",
     "strategy": ".content-card__main"
   }
 ];
