@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T10:50:41.173Z
+// Last updated: 2026-08-25T11:14:07.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "區議會選舉｜元朗、天水圍、北區居民注意　選管會倡四選區改劃界",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168978357539311616763915.jpeg/WZvsHRWnhCcRHpfsAr1dDFmsZwjTaFDxVpuO4FabjuA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60383557/%E5%8D%80%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89-%E5%85%83%E6%9C%97-%E5%A4%A9%E6%B0%B4%E5%9C%8D-%E5%8C%97%E5%8D%80%E5%B1%85%E6%B0%91%E6%B3%A8%E6%84%8F-%E9%81%B8%E7%AE%A1%E6%9C%83%E5%80%A1%E5%9B%9B%E9%81%B8%E5%8D%80%E6%94%B9%E5%8A%83%E7%95%8C",
+    "timestamp": "2026-08-25T11:14:07.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運會2026跆拳道｜香港運動員名單+賽程賽果+歷屆成績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168830885730979840025146.jpeg/WThy1QCpHAt4FUQN1mQcdYHHqQcKzyFWXifLtV4ny7U",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383267/%E5%B1%AF%E9%96%80%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E4%B8%80%E5%80%8B%E6%9C%88%E5%85%A7%E5%85%A9%E5%BA%A6%E7%88%86%E6%B0%B4%E7%AE%A1-%E9%BB%83%E6%B3%A5%E6%B0%B4%E6%B9%A7%E5%87%BA-%E8%A1%97%E5%9D%8A%E5%91%BB%E6%88%96%E8%A6%81%E5%81%9C%E6%B0%B4",
     "timestamp": "2026-08-25T00:23:16.853Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新加坡繼父借祈禱猥褻15歲繼女　廁所藏手機偷拍　老師家訪揭惡行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168579559025545216264305.png/4qhGQRyHNSxCOzXaxEC1FbpyUbnZ5JcV9rGdEPaxnRA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60381644/%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%B9%BC%E7%88%B6%E5%80%9F%E7%A5%88%E7%A6%B1%E7%8C%A5%E8%A4%BB15%E6%AD%B2%E7%B9%BC%E5%A5%B3-%E5%BB%81%E6%89%80%E8%97%8F%E6%89%8B%E6%A9%9F%E5%81%B7%E6%8B%8D-%E8%80%81%E5%B8%AB%E5%AE%B6%E8%A8%AA%E6%8F%AD%E6%83%A1%E8%A1%8C",
-    "timestamp": "2026-08-24T23:56:55.177Z",
     "strategy": ".content-card__main"
   }
 ];
