@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T08:52:06.258Z
+// Last updated: 2026-08-25T09:50:16.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "凱旋珠寶玉石文化館涉未制止導遊威迫旅客購物　遭旅監局停牌30日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168973514565226496816205.png/B2xd-q9xAEcOLJC5_I_P_CqYK9OggUWwNTUwZzU1MGc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383527/%E5%87%B1%E6%97%8B%E7%8F%A0%E5%AF%B6%E7%8E%89%E7%9F%B3%E6%96%87%E5%8C%96%E9%A4%A8%E6%B6%89%E6%9C%AA%E5%88%B6%E6%AD%A2%E5%B0%8E%E9%81%8A%E5%A8%81%E8%BF%AB%E6%97%85%E5%AE%A2%E8%B3%BC%E7%89%A9-%E9%81%AD%E6%97%85%E7%9B%A3%E5%B1%80%E5%81%9C%E7%89%8C30%E6%97%A5",
+    "timestamp": "2026-08-25T09:50:16.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "整容醫生提議脫疣打肉毒桿菌　丹麥首相：發訊息請討論有意義的事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168556938166800384367249.png/aejqmnlFqVx2lgZOQjcRmp5jJm4ranosxY4-McWOPjE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383034/71%E6%AD%B2%E7%8E%8B%E6%99%B6%E7%98%8B%E7%8B%82%E7%9C%A8%E7%9C%BC%E6%83%B9%E4%B8%AD%E9%A2%A8%E5%85%88%E5%85%86-%E6%9C%80%E6%96%B0%E5%85%A8%E5%AE%B6%E7%A6%8F%E9%A9%9A%E8%A6%8B%E6%8B%9B%E7%89%8C%E5%A4%A7%E8%82%9A%E8%85%A9%E7%B8%AE%E6%B0%B4%E8%AE%8A%E7%B4%B0",
     "timestamp": "2026-08-24T22:46:43.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦陸軍總參謀長、阿曼外長先後到訪　與伊朗商地區局勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168718732839620608078129.jpeg/TJuS0Wp-VAroH1Pk6un2Ep7ZwCY3NU3hrj102q49dNo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383244/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%99%B8%E8%BB%8D%E7%B8%BD%E5%8F%83%E8%AC%80%E9%95%B7-%E9%98%BF%E6%9B%BC%E5%A4%96%E9%95%B7%E5%85%88%E5%BE%8C%E5%88%B0%E8%A8%AA-%E8%88%87%E4%BC%8A%E6%9C%97%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
-    "timestamp": "2026-08-24T22:30:59.686Z",
     "strategy": ".content-card__main"
   }
 ];
