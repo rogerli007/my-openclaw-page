@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T23:03:07.171Z
+// Last updated: 2026-08-25T23:30:29.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "減肥針/瘦瘦針新發現│台大跨國研究：GLP-1藥物降41%肥胖癌症風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166360530596663296169503.jpeg/X8XRXQ2KG9DPrSEwwkirEHONMwgaT7s7ndofpZ3aH6U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60379119/%E6%B8%9B%E8%82%A5%E9%87%9D-%E7%98%A6%E7%98%A6%E9%87%9D%E6%96%B0%E7%99%BC%E7%8F%BE-%E5%8F%B0%E5%A4%A7%E8%B7%A8%E5%9C%8B%E7%A0%94%E7%A9%B6-glp-1%E8%97%A5%E7%89%A9%E9%99%8D41-%E8%82%A5%E8%83%96%E7%99%8C%E7%97%87%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-08-25T23:30:29.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運會2026馬術｜香港運動員名單+賽程賽果+歷屆成績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168961183017865216728530.jpeg/wOPe6N2UiYB1V_mvCSCSc5YPdrM2po4MrCxG0KwsRtA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383640/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B0%8D%E7%BE%8E%E5%8A%A0%E5%BE%B5%E5%8D%83%E5%84%84%E5%A0%B1%E5%BE%A9%E9%97%9C%E7%A8%85-%E6%8E%A8%E6%8E%AA%E6%96%BD%E6%94%AF%E6%8F%B4%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%8A%A0%E5%9C%8B%E5%B7%A5%E4%BA%BA",
     "timestamp": "2026-08-25T17:07:28.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "卓永興主持地區治理專組會議　檢視加強社區支援、提升市容等成效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169074386334912512132480.jpeg/wlST4OMkk2QGErvwcjiw-21vfjMWdSQyoASJTaAEiU0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60383642/%E5%8D%93%E6%B0%B8%E8%88%88%E4%B8%BB%E6%8C%81%E5%9C%B0%E5%8D%80%E6%B2%BB%E7%90%86%E5%B0%88%E7%B5%84%E6%9C%83%E8%AD%B0-%E6%AA%A2%E8%A6%96%E5%8A%A0%E5%BC%B7%E7%A4%BE%E5%8D%80%E6%94%AF%E6%8F%B4-%E6%8F%90%E5%8D%87%E5%B8%82%E5%AE%B9%E7%AD%89%E6%88%90%E6%95%88",
-    "timestamp": "2026-08-25T16:37:56.356Z",
     "strategy": ".content-card__main"
   }
 ];
