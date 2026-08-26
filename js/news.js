@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T13:42:39.402Z
+// Last updated: 2026-08-26T14:33:56.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "不良一族尋愛記2｜伊藤美美菜登場太亮眼　網讚與彩朱同等級美貌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169319812942270464278049.png/rsgpDKEbFMm9pc_sAn9F8432z6Mo4CMyL5_RWS-f0Vk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383873/%E4%B8%8D%E8%89%AF%E4%B8%80%E6%97%8F%E5%B0%8B%E6%84%9B%E8%A8%982-%E4%BC%8A%E8%97%A4%E7%BE%8E%E7%BE%8E%E8%8F%9C%E7%99%BB%E5%A0%B4%E5%A4%AA%E4%BA%AE%E7%9C%BC-%E7%B6%B2%E8%AE%9A%E8%88%87%E5%BD%A9%E6%9C%B1%E5%90%8C%E7%AD%89%E7%B4%9A%E7%BE%8E%E8%B2%8C",
+    "timestamp": "2026-08-26T14:33:56.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉亦菲39歲生日公主Look仙氣逼人　唐嫣連續12年送祝福閨密情甜爆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169241739395862528689207.jpeg/159_QcZzCrLvmJw9mBDF_672B95qa1m0Y3RuL2N0bi8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383727/%E5%BC%B5%E6%A0%A2%E8%8A%9D%E5%89%8D%E7%B6%93%E7%90%86%E4%BA%BA%E4%BD%99%E6%AF%93%E8%88%88%E7%8F%BE%E8%BA%AB%E8%AD%A6%E7%BD%B2%E9%8C%84%E5%8F%A3%E4%BE%9B-%E6%8C%87%E6%8E%A7%E6%9C%89%E4%BA%BA%E5%BA%AD%E4%B8%8A%E7%88%86%E8%82%9A%E4%BD%9C%E5%81%87%E8%AD%89",
     "timestamp": "2026-08-26T04:22:00.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旅行注意｜搭飛機5大飲食禁忌！機師警告隨時胃痛脫水 咖啡都唔得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241024/926149299027316736203894.jpeg/moq1DtJxRVxO51yvl-63UctDrZ1gM6_InM9DqpzPQ6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1068820/%E6%97%85%E8%A1%8C%E6%B3%A8%E6%84%8F-%E6%90%AD%E9%A3%9B%E6%A9%9F5%E5%A4%A7%E9%A3%B2%E9%A3%9F%E7%A6%81%E5%BF%8C-%E6%A9%9F%E5%B8%AB%E8%AD%A6%E5%91%8A%E9%9A%A8%E6%99%82%E8%83%83%E7%97%9B%E8%84%AB%E6%B0%B4-%E5%92%96%E5%95%A1%E9%83%BD%E5%94%94%E5%BE%97",
-    "timestamp": "2026-08-26T02:51:38.187Z",
     "strategy": ".content-card__main"
   }
 ];
