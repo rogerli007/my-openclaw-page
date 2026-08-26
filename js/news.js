@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T11:34:06.070Z
+// Last updated: 2026-08-26T12:39:18.195Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "徐杰離世｜27歲美聲小歌王徐杰因肝病離世！5類人高危+護肝4食物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169382264077815808690278.jpeg/cuKEHv_oOjlU-r_A347UHIx50fYBCjI4zCsmpswrJqY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60383895/%E5%BE%90%E6%9D%B0%E9%9B%A2%E4%B8%96-27%E6%AD%B2%E7%BE%8E%E8%81%B2%E5%B0%8F%E6%AD%8C%E7%8E%8B%E5%BE%90%E6%9D%B0%E5%9B%A0%E8%82%9D%E7%97%85%E9%9B%A2%E4%B8%96-5%E9%A1%9E%E4%BA%BA%E9%AB%98%E5%8D%B1-%E8%AD%B7%E8%82%9D4%E9%A3%9F%E7%89%A9",
+    "timestamp": "2026-08-26T12:39:18.195Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑授權票｜01揭黃碧嬌疑收「離世授權」　民政：已交執法部門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168607057436217344845763.png/G4vs_uwW-l87cZlm4FJTogq3arYvnAeIOjWbKDo1myg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60383148/%E8%B7%AF%E8%98%AD%E6%96%AC%E7%8D%B276%E5%84%84%E7%BE%8E%E5%85%83%E9%9B%BB%E5%BD%B1%E7%A5%A8%E6%88%BF%E4%B8%94%E7%84%A1%E6%95%97%E4%BB%97-%E4%BB%96%E8%B7%9D%E5%BD%B1%E5%8F%B2%E7%AC%AC%E4%B8%80%E5%B0%8E%E6%BC%94%E9%82%84%E6%9C%89%E5%A4%9A%E9%81%A0",
     "timestamp": "2026-08-26T01:37:54.919Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗稱達成霍爾木茲海峽臨時航線諒解　現階段僅限商船通行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159301489177399296096341.jpeg/RBP39WENfnWOmFpY-VnTwuwrucMpq2-sBXG7_AVxu_w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383667/%E4%BC%8A%E6%9C%97%E7%A8%B1%E9%81%94%E6%88%90%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%87%A8%E6%99%82%E8%88%AA%E7%B7%9A%E8%AB%92%E8%A7%A3-%E7%8F%BE%E9%9A%8E%E6%AE%B5%E5%83%85%E9%99%90%E5%95%86%E8%88%B9%E9%80%9A%E8%A1%8C",
-    "timestamp": "2026-08-26T00:54:04.356Z",
     "strategy": ".content-card__main"
   }
 ];
