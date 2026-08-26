@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T10:19:20.534Z
+// Last updated: 2026-08-26T11:02:25.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│觀塘apm阿婆掌摑到女童跌地！變3女混戰：唔好走　警拘2女子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169354679138652160729631.jpeg/B27YkEiIptEdr3jn9Zb6y4-xWlVdmz5snzYb0Z82G9E",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60383955/%E6%9C%89%E7%89%87-%E8%A7%80%E5%A1%98apm%E9%98%BF%E5%A9%86%E6%8E%8C%E6%91%91%E5%88%B0%E5%A5%B3%E7%AB%A5%E8%B7%8C%E5%9C%B0-%E8%AE%8A3%E5%A5%B3%E6%B7%B7%E6%88%B0-%E5%94%94%E5%A5%BD%E8%B5%B0-%E8%AD%A6%E6%8B%982%E5%A5%B3%E5%AD%90",
+    "timestamp": "2026-08-26T11:02:25.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌工廈停車場複式計費惹議　泊5小時收$550　場方稱已展示收費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158555502083313664921867.jpeg/r30UGfzBLwN-Wjtwf3MgAvGTt_OnFdutjVEteY1RLXk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60383472/%E4%B8%AD%E6%9D%B1%E5%8C%97%E7%B4%84-%E7%9A%84%E8%AA%98%E6%83%91-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%85%A5%E5%B1%80-%E5%B0%87%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E4%B8%96%E7%95%8C",
     "timestamp": "2026-08-25T23:57:22.772Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「中東北約」的誘惑：伊朗若入局，將如何撕裂世界",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158555502083313664921867.jpeg/r30UGfzBLwN-Wjtwf3MgAvGTt_OnFdutjVEteY1RLXk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60383472/%E4%B8%AD%E6%9D%B1%E5%8C%97%E7%B4%84-%E7%9A%84%E8%AA%98%E6%83%91-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%85%A5%E5%B1%80-%E5%B0%87%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E4%B8%96%E7%95%8C",
-    "timestamp": "2026-08-25T23:46:30.578Z",
     "strategy": ".content-card__main"
   }
 ];
