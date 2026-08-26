@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T21:26:33.106Z
+// Last updated: 2026-08-26T22:33:38.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘇永康低調建5間內地小學　曾斥2830萬買北角半山豪宅身家極豐厚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169402867606360064278614.jpeg/VzoMwiS4ab2iKyzpuCgcore7yGuEoqGYINv7BCDb-wQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383913/%E8%98%87%E6%B0%B8%E5%BA%B7%E4%BD%8E%E8%AA%BF%E5%BB%BA5%E9%96%93%E5%85%A7%E5%9C%B0%E5%B0%8F%E5%AD%B8-%E6%9B%BE%E6%96%A52830%E8%90%AC%E8%B2%B7%E5%8C%97%E8%A7%92%E5%8D%8A%E5%B1%B1%E8%B1%AA%E5%AE%85%E8%BA%AB%E5%AE%B6%E6%A5%B5%E8%B1%90%E5%8E%9A",
+    "timestamp": "2026-08-26T22:33:38.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Nvidia次季營收按年翻倍勝預期　市後股價曾跌逾2%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169306409649573888689274.jpeg/-T-VAhTlWcRqUzX1qvrazh34LOfBLZjUZcijXWXIo10?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383827/%E9%9F%93%E5%9C%8B%E6%BF%9F%E5%B7%9E%E5%BC%B5%E7%BE%8E%E8%98%AD%E6%A1%88-%E8%AD%A6%E6%96%B9%E6%A8%B9%E4%B8%8A%E6%AA%A2%E7%8D%B2%E7%B9%A9%E7%B4%A2-%E6%8E%A8%E6%B8%AC%E5%A4%B1%E8%B9%A4%E7%BF%8C%E6%97%A5%E7%B8%8A%E6%AD%BB",
     "timestamp": "2026-08-26T07:52:23.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT中國大滿貫｜王楚欽孫穎莎領銜出戰　決賽門票最平逾千元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169288957356150784532016.jpeg/ajZ4Q3Uzd9rf7S0jmUuQsZnaJZKTX3MQDaOxZQ2jsWU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383798/wtt%E4%B8%AD%E5%9C%8B%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E7%8E%8B%E6%A5%9A%E6%AC%BD%E5%AD%AB%E7%A9%8E%E8%8E%8E%E9%A0%98%E9%8A%9C%E5%87%BA%E6%88%B0-%E6%B1%BA%E8%B3%BD%E9%96%80%E7%A5%A8%E6%9C%80%E5%B9%B3%E9%80%BE%E5%8D%83%E5%85%83",
-    "timestamp": "2026-08-26T07:25:06.800Z",
     "strategy": ".content-card__main"
   }
 ];
