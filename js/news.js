@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T06:53:22.509Z
+// Last updated: 2026-08-26T07:25:06.800Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT中國大滿貫｜王楚欽孫穎莎領銜出戰　決賽門票最平逾千元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169288957356150784532016.jpeg/ajZ4Q3Uzd9rf7S0jmUuQsZnaJZKTX3MQDaOxZQ2jsWU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383798/wtt%E4%B8%AD%E5%9C%8B%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E7%8E%8B%E6%A5%9A%E6%AC%BD%E5%AD%AB%E7%A9%8E%E8%8E%8E%E9%A0%98%E9%8A%9C%E5%87%BA%E6%88%B0-%E6%B1%BA%E8%B3%BD%E9%96%80%E7%A5%A8%E6%9C%80%E5%B9%B3%E9%80%BE%E5%8D%83%E5%85%83",
+    "timestamp": "2026-08-26T07:25:06.800Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴基斯坦首都醫院火災　美媒：至少13新生兒死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168994978836254720342106.jpeg/vgVegBkmPWkUDyGH9YmMr63dcJtqMhIlY87orWPO6K0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60383484/%E6%B6%88%E8%B2%BB%E8%80%85%E6%87%89%E6%8E%8C%E6%8F%A1%E6%A8%93%E5%AE%87%E8%B3%AA%E7%B4%A0%E8%A9%95%E5%88%86-%E8%A8%8E%E8%AB%96%E5%B1%8B%E8%8B%91%E4%BA%94%E6%98%9F%E7%B4%9A%E5%88%B6-%E6%B1%AA%E6%95%A6%E6%95%AC",
     "timestamp": "2026-08-25T22:13:57.671Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄉村音樂天后桃莉芭頓離世享年80歲　特朗普下令降半旗致敬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169148574890463232375148.jpeg/2bOZLOHmCWxVayZDIgY1OIsnml4jVY7AjZbmCI2W5gg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383657/%E9%84%89%E6%9D%91%E9%9F%B3%E6%A8%82%E5%A4%A9%E5%90%8E%E6%A1%83%E8%8E%89%E8%8A%AD%E9%A0%93%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B480%E6%AD%B2-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%99%8D%E5%8D%8A%E6%97%97%E8%87%B4%E6%95%AC",
-    "timestamp": "2026-08-25T22:03:54.473Z",
     "strategy": ".content-card__main"
   }
 ];
