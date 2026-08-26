@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T02:19:33.664Z
+// Last updated: 2026-08-26T02:51:38.187Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旅行注意｜搭飛機5大飲食禁忌！機師警告隨時胃痛脫水 咖啡都唔得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241024/926149299027316736203894.jpeg/moq1DtJxRVxO51yvl-63UctDrZ1gM6_InM9DqpzPQ6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1068820/%E6%97%85%E8%A1%8C%E6%B3%A8%E6%84%8F-%E6%90%AD%E9%A3%9B%E6%A9%9F5%E5%A4%A7%E9%A3%B2%E9%A3%9F%E7%A6%81%E5%BF%8C-%E6%A9%9F%E5%B8%AB%E8%AD%A6%E5%91%8A%E9%9A%A8%E6%99%82%E8%83%83%E7%97%9B%E8%84%AB%E6%B0%B4-%E5%92%96%E5%95%A1%E9%83%BD%E5%94%94%E5%BE%97",
+    "timestamp": "2026-08-26T02:51:38.187Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜天水圍朗天路私家車失控　撞水馬陣後四輪朝天　司機蹤沓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169117255754059776987013.jpeg/I0RUox0wvP7pxB-GUPU6HQC1pGpgSInLNlvLljZby5Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383652/%E4%BC%8A%E6%9C%97%E8%88%87%E9%98%BF%E6%9B%BC%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E6%93%AC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BB%BA%E7%AB%8B%E5%85%B1%E5%90%8C%E5%95%86%E5%AE%9A%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%93",
     "timestamp": "2026-08-25T19:48:25.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗與阿曼聯合聲明：擬霍爾木茲海峽建立共同商定安全通道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169117255754059776987013.jpeg/I0RUox0wvP7pxB-GUPU6HQC1pGpgSInLNlvLljZby5Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383652/%E4%BC%8A%E6%9C%97%E8%88%87%E9%98%BF%E6%9B%BC%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E6%93%AC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BB%BA%E7%AB%8B%E5%85%B1%E5%90%8C%E5%95%86%E5%AE%9A%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%93",
-    "timestamp": "2026-08-25T19:31:23.847Z",
     "strategy": ".content-card__main"
   }
 ];
