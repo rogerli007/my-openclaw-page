@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T11:02:25.267Z
+// Last updated: 2026-08-26T11:17:53.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Bill Gates擬11月訪華晤習近平　推動全球AI治理合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230616/746427908913893376983015.jpeg/6b9UR2B7Sk9GEvwrMiXEpQypKssSiQiJvYicYL2InGA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383896/bill-gates%E6%93%AC11%E6%9C%88%E8%A8%AA%E8%8F%AF%E6%99%A4%E7%BF%92%E8%BF%91%E5%B9%B3-%E6%8E%A8%E5%8B%95%E5%85%A8%E7%90%83ai%E6%B2%BB%E7%90%86%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-08-26T11:17:53.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│觀塘apm阿婆掌摑到女童跌地！變3女混戰：唔好走　警拘2女子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154050566918377472437895.jpeg/ONTpheaZauVbNQyO-20UHxTllT3esn3nkL8Ivoa_CL4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60383324/%E4%B8%8A%E7%8F%AD%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%8F%AF%E8%83%BD%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-08-26T00:24:11.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「中東北約」的誘惑：伊朗若入局，將如何撕裂世界",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158555502083313664921867.jpeg/r30UGfzBLwN-Wjtwf3MgAvGTt_OnFdutjVEteY1RLXk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60383472/%E4%B8%AD%E6%9D%B1%E5%8C%97%E7%B4%84-%E7%9A%84%E8%AA%98%E6%83%91-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%85%A5%E5%B1%80-%E5%B0%87%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E4%B8%96%E7%95%8C",
-    "timestamp": "2026-08-25T23:57:22.772Z",
     "strategy": ".content-card__main"
   }
 ];
