@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T19:43:40.288Z
+// Last updated: 2026-08-26T21:26:33.106Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Nvidia次季營收按年翻倍勝預期　市後股價曾跌逾2%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250827/1037510484640796672136854.jpeg/7QilP7uT80Nrp457vOpDkQlaVLL3IDM7BdAKegXQCno?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384036/nvidia%E6%AC%A1%E5%AD%A3%E7%87%9F%E6%94%B6%E6%8C%89%E5%B9%B4%E7%BF%BB%E5%80%8D%E5%8B%9D%E9%A0%90%E6%9C%9F-%E5%B8%82%E5%BE%8C%E8%82%A1%E5%83%B9%E6%9B%BE%E8%B7%8C%E9%80%BE2",
+    "timestamp": "2026-08-26T21:26:33.106Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土耳其滑翔傘墜山　一名中國遊客遇難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169288957356150784532016.jpeg/ajZ4Q3Uzd9rf7S0jmUuQsZnaJZKTX3MQDaOxZQ2jsWU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383798/wtt%E4%B8%AD%E5%9C%8B%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E7%8E%8B%E6%A5%9A%E6%AC%BD%E5%AD%AB%E7%A9%8E%E8%8E%8E%E9%A0%98%E9%8A%9C%E5%87%BA%E6%88%B0-%E6%B1%BA%E8%B3%BD%E9%96%80%E7%A5%A8%E6%9C%80%E5%B9%B3%E9%80%BE%E5%8D%83%E5%85%83",
     "timestamp": "2026-08-26T07:25:06.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴基斯坦首都醫院火災　美媒：至少13新生兒死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169278318663438336604897.jpeg/PYTj-u8nfKMT_k7XZNflIwCW4phnDE85vJUAX7yVAF8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383774/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%A6%96%E9%83%BD%E9%86%AB%E9%99%A2%E7%81%AB%E7%81%BD-%E7%BE%8E%E5%AA%92-%E8%87%B3%E5%B0%9113%E6%96%B0%E7%94%9F%E5%85%92%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-08-26T06:53:22.509Z",
     "strategy": ".content-card__main"
   }
 ];
