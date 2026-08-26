@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-25T23:57:22.772Z
+// Last updated: 2026-08-26T00:24:11.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上班最新天氣｜天文台：未來一兩小時香港廣泛地區可能受大雨影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154050566918377472437895.jpeg/ONTpheaZauVbNQyO-20UHxTllT3esn3nkL8Ivoa_CL4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60383324/%E4%B8%8A%E7%8F%AD%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%8F%AF%E8%83%BD%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-08-26T00:24:11.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「中東北約」的誘惑：伊朗若入局，將如何撕裂世界",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169101880060547072739251.png/shf4PMBrNvwJGC8ZvQXCx_XS2wsIuYt3pae2eKWntng?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383650/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E9%87%8E%E7%81%AB%E8%94%93%E5%BB%B6%E8%B6%85200%E5%85%AC%E9%87%8C-%E7%95%B6%E5%B1%80%E4%B8%8B%E4%BB%A4%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3",
     "timestamp": "2026-08-25T18:18:10.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣可疑司機搬貨開車　警截查檢$2.6萬毒品　34歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169098914272382976307862.jpeg/zEvxAcAlPEwzL2-5MVaXRzuxRSRNZYRFWmeTA1pnkwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383649/%E8%8D%83%E7%81%A3%E5%8F%AF%E7%96%91%E5%8F%B8%E6%A9%9F%E6%90%AC%E8%B2%A8%E9%96%8B%E8%BB%8A-%E8%AD%A6%E6%88%AA%E6%9F%A5%E6%AA%A2-2-6%E8%90%AC%E6%AF%92%E5%93%81-34%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-25T18:02:24.655Z",
     "strategy": ".content-card__main"
   }
 ];
