@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T00:24:11.787Z
+// Last updated: 2026-08-26T00:54:04.356Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗稱達成霍爾木茲海峽臨時航線諒解　現階段僅限商船通行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159301489177399296096341.jpeg/RBP39WENfnWOmFpY-VnTwuwrucMpq2-sBXG7_AVxu_w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383667/%E4%BC%8A%E6%9C%97%E7%A8%B1%E9%81%94%E6%88%90%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%87%A8%E6%99%82%E8%88%AA%E7%B7%9A%E8%AB%92%E8%A7%A3-%E7%8F%BE%E9%9A%8E%E6%AE%B5%E5%83%85%E9%99%90%E5%95%86%E8%88%B9%E9%80%9A%E8%A1%8C",
+    "timestamp": "2026-08-26T00:54:04.356Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上班最新天氣｜天文台：未來一兩小時香港廣泛地區可能受大雨影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169101880060547072739251.png/shf4PMBrNvwJGC8ZvQXCx_XS2wsIuYt3pae2eKWntng?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383650/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E9%87%8E%E7%81%AB%E8%94%93%E5%BB%B6%E8%B6%85200%E5%85%AC%E9%87%8C-%E7%95%B6%E5%B1%80%E4%B8%8B%E4%BB%A4%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3",
     "timestamp": "2026-08-25T18:36:07.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國德州野火蔓延超200公里　當局下令緊急疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169101880060547072739251.png/shf4PMBrNvwJGC8ZvQXCx_XS2wsIuYt3pae2eKWntng?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383650/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E9%87%8E%E7%81%AB%E8%94%93%E5%BB%B6%E8%B6%85200%E5%85%AC%E9%87%8C-%E7%95%B6%E5%B1%80%E4%B8%8B%E4%BB%A4%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-08-25T18:18:10.767Z",
     "strategy": ".content-card__main"
   }
 ];
