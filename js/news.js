@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T12:39:18.195Z
+// Last updated: 2026-08-26T13:12:50.339Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國濟州張美蘭案：警指死因為縊死　謀殺機會低　韓教授提質疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168988930557612032971568.jpeg/ZsAD92YGgk-4Zp5Yvw-qHKz6XTzeG0Zvv7uctr-7nLY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383988/%E9%9F%93%E5%9C%8B%E6%BF%9F%E5%B7%9E%E5%BC%B5%E7%BE%8E%E8%98%AD%E6%A1%88-%E8%AD%A6%E6%8C%87%E6%AD%BB%E5%9B%A0%E7%82%BA%E7%B8%8A%E6%AD%BB-%E8%AC%80%E6%AE%BA%E6%A9%9F%E6%9C%83%E4%BD%8E-%E9%9F%93%E6%95%99%E6%8E%88%E6%8F%90%E8%B3%AA%E7%96%91",
+    "timestamp": "2026-08-26T13:12:50.339Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "徐杰離世｜27歲美聲小歌王徐杰因肝病離世！5類人高危+護肝4食物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169220915163041792372546.jpeg/3yQ8fKJWUei-EmmNss5jRrJbQzWVTOuQwwcxtMMHMbQ",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383675/%E6%9C%89%E7%89%87-%E5%A4%A9%E6%B0%B4%E5%9C%8D%E6%9C%97%E5%A4%A9%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7-%E6%92%9E%E6%B0%B4%E9%A6%AC%E9%99%A3%E5%BE%8C%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%B2%93",
     "timestamp": "2026-08-26T02:19:33.664Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路蘭斬獲76億美元電影票房且無敗仗　他距影史第一導演還有多遠？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168607057436217344845763.png/G4vs_uwW-l87cZlm4FJTogq3arYvnAeIOjWbKDo1myg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60383148/%E8%B7%AF%E8%98%AD%E6%96%AC%E7%8D%B276%E5%84%84%E7%BE%8E%E5%85%83%E9%9B%BB%E5%BD%B1%E7%A5%A8%E6%88%BF%E4%B8%94%E7%84%A1%E6%95%97%E4%BB%97-%E4%BB%96%E8%B7%9D%E5%BD%B1%E5%8F%B2%E7%AC%AC%E4%B8%80%E5%B0%8E%E6%BC%94%E9%82%84%E6%9C%89%E5%A4%9A%E9%81%A0",
-    "timestamp": "2026-08-26T01:37:54.919Z",
     "strategy": ".content-card__main"
   }
 ];
