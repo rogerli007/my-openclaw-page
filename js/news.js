@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T22:33:38.163Z
+// Last updated: 2026-08-26T23:47:23.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜佐敦文景樓女子墮樓　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169550213031923712340765.jpeg/m6D2EGnLCgh_pIdIXVIwOt3oXtPNX_fnWtSVt1rUlbc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384046/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%BD%90%E6%95%A6%E6%96%87%E6%99%AF%E6%A8%93%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-08-26T23:47:23.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘇永康低調建5間內地小學　曾斥2830萬買北角半山豪宅身家極豐厚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169290238112043008734019.jpeg/EWtKa_FvIWAQXQgIUMDebvjXDQKvqLhBiHKiyIhyosg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60383825/chantel%E5%A7%9A%E7%84%AF%E8%8F%B2%E5%82%99%E6%88%B0%E9%A6%96%E5%80%8B%E5%80%8B%E5%94%B1-%E5%AF%86%E9%9B%86%E6%8E%92%E7%B7%B4%E4%B8%8D%E5%96%8A%E7%B4%AF%E6%84%9F%E8%AC%9D%E7%B2%89%E7%B5%B2%E6%94%AF%E6%8C%81",
     "timestamp": "2026-08-26T08:22:36.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國濟州張美蘭案　警方樹上檢獲繩索　推測失蹤翌日縊死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169306409649573888689274.jpeg/-T-VAhTlWcRqUzX1qvrazh34LOfBLZjUZcijXWXIo10?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383827/%E9%9F%93%E5%9C%8B%E6%BF%9F%E5%B7%9E%E5%BC%B5%E7%BE%8E%E8%98%AD%E6%A1%88-%E8%AD%A6%E6%96%B9%E6%A8%B9%E4%B8%8A%E6%AA%A2%E7%8D%B2%E7%B9%A9%E7%B4%A2-%E6%8E%A8%E6%B8%AC%E5%A4%B1%E8%B9%A4%E7%BF%8C%E6%97%A5%E7%B8%8A%E6%AD%BB",
-    "timestamp": "2026-08-26T07:52:23.875Z",
     "strategy": ".content-card__main"
   }
 ];
