@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T18:06:51.956Z
+// Last updated: 2026-08-26T19:02:23.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜水利部分析成因及隱患　四大銀行確保災區金融服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169467674212700160572164.jpeg/ks2PfRF9XRxmLl7g3gsxUbPt2sAK4NTqGLqfJRi6nyU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384029/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%B0%B4%E5%88%A9%E9%83%A8%E5%88%86%E6%9E%90%E6%88%90%E5%9B%A0%E5%8F%8A%E9%9A%B1%E6%82%A3-%E5%9B%9B%E5%A4%A7%E9%8A%80%E8%A1%8C%E7%A2%BA%E4%BF%9D%E7%81%BD%E5%8D%80%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-08-26T19:02:23.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "焗豬扒飯食譜｜做法簡易煮出快餐店經典味道、加1物惹味濃郁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169237354657878016703159.jpeg/sed35OId8srd84whBSgQdFRj4wUDnX-EhexVooXsVaI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383702/%E8%8B%B1%E8%B6%85%E8%BD%89%E6%9C%83-%E5%86%8D%E7%B0%BD%E6%9B%BC%E5%9F%8E%E5%B7%B4%E8%A5%BF%E9%82%8A%E9%8B%92%E6%B2%99%E9%9B%B2%E5%A5%B4-%E7%86%B1%E5%88%BA%E4%BB%8A%E5%A4%8F%E5%BC%95%E6%8F%B4%E8%8A%B1%E8%B2%BB%E7%A0%B43%E5%84%84%E8%8B%B1%E9%8E%8A",
     "timestamp": "2026-08-26T06:21:55.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安踏體育股價抽升逾6%　中期派息增一成｜港股異動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098657442310393856972346.jpeg/D36vV_jYYNZ7w1EtKZlDULXPLndHh-MBQEVqk0BFapM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60383802/%E5%AE%89%E8%B8%8F%E9%AB%94%E8%82%B2%E8%82%A1%E5%83%B9%E6%8A%BD%E5%8D%87%E9%80%BE6-%E4%B8%AD%E6%9C%9F%E6%B4%BE%E6%81%AF%E5%A2%9E%E4%B8%80%E6%88%90-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
-    "timestamp": "2026-08-26T06:02:01.958Z",
     "strategy": ".content-card__main"
   }
 ];
