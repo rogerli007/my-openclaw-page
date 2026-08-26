@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T11:17:53.334Z
+// Last updated: 2026-08-26T11:34:06.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑授權票｜01揭黃碧嬌疑收「離世授權」　民政：已交執法部門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166461743522648064028914.jpeg/Pj3OKR-gWjJC1NM4fpQPpyVJz3FDMJ3HxqvM6sarzOo?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60383975/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%8E%88%E6%AC%8A%E7%A5%A8-01%E6%8F%AD%E9%BB%83%E7%A2%A7%E5%AC%8C%E7%96%91%E6%94%B6-%E9%9B%A2%E4%B8%96%E6%8E%88%E6%AC%8A-%E6%B0%91%E6%94%BF-%E5%B7%B2%E4%BA%A4%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80",
+    "timestamp": "2026-08-26T11:34:06.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Bill Gates擬11月訪華晤習近平　推動全球AI治理合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159301489177399296096341.jpeg/RBP39WENfnWOmFpY-VnTwuwrucMpq2-sBXG7_AVxu_w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383667/%E4%BC%8A%E6%9C%97%E7%A8%B1%E9%81%94%E6%88%90%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%87%A8%E6%99%82%E8%88%AA%E7%B7%9A%E8%AB%92%E8%A7%A3-%E7%8F%BE%E9%9A%8E%E6%AE%B5%E5%83%85%E9%99%90%E5%95%86%E8%88%B9%E9%80%9A%E8%A1%8C",
     "timestamp": "2026-08-26T00:54:04.356Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上班最新天氣｜天文台：未來一兩小時香港廣泛地區可能受大雨影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260715/1154050566918377472437895.jpeg/ONTpheaZauVbNQyO-20UHxTllT3esn3nkL8Ivoa_CL4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60383324/%E4%B8%8A%E7%8F%AD%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E5%B0%8F%E6%99%82%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%B3%9B%E5%9C%B0%E5%8D%80%E5%8F%AF%E8%83%BD%E5%8F%97%E5%A4%A7%E9%9B%A8%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-08-26T00:24:11.787Z",
     "strategy": ".content-card__main"
   }
 ];
