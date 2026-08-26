@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T13:12:50.339Z
+// Last updated: 2026-08-26T13:42:39.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉亦菲39歲生日公主Look仙氣逼人　唐嫣連續12年送祝福閨密情甜爆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169311129688608768160973.jpeg/ldfFd7ThI8yM8WhLKi-f77LQNAnbkCovvszXAb7M1wE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383846/%E5%8A%89%E4%BA%A6%E8%8F%B239%E6%AD%B2%E7%94%9F%E6%97%A5%E5%85%AC%E4%B8%BBlook%E4%BB%99%E6%B0%A3%E9%80%BC%E4%BA%BA-%E5%94%90%E5%AB%A3%E9%80%A3%E7%BA%8C12%E5%B9%B4%E9%80%81%E7%A5%9D%E7%A6%8F%E9%96%A8%E5%AF%86%E6%83%85%E7%94%9C%E7%88%86",
+    "timestamp": "2026-08-26T13:42:39.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國濟州張美蘭案：警指死因為縊死　謀殺機會低　韓教授提質疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241024/926149299027316736203894.jpeg/moq1DtJxRVxO51yvl-63UctDrZ1gM6_InM9DqpzPQ6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/1068820/%E6%97%85%E8%A1%8C%E6%B3%A8%E6%84%8F-%E6%90%AD%E9%A3%9B%E6%A9%9F5%E5%A4%A7%E9%A3%B2%E9%A3%9F%E7%A6%81%E5%BF%8C-%E6%A9%9F%E5%B8%AB%E8%AD%A6%E5%91%8A%E9%9A%A8%E6%99%82%E8%83%83%E7%97%9B%E8%84%AB%E6%B0%B4-%E5%92%96%E5%95%A1%E9%83%BD%E5%94%94%E5%BE%97",
     "timestamp": "2026-08-26T02:51:38.187Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜天水圍朗天路私家車失控　撞水馬陣後四輪朝天　司機蹤沓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169220915163041792372546.jpeg/3yQ8fKJWUei-EmmNss5jRrJbQzWVTOuQwwcxtMMHMbQ",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383675/%E6%9C%89%E7%89%87-%E5%A4%A9%E6%B0%B4%E5%9C%8D%E6%9C%97%E5%A4%A9%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7-%E6%92%9E%E6%B0%B4%E9%A6%AC%E9%99%A3%E5%BE%8C%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%B2%93",
-    "timestamp": "2026-08-26T02:19:33.664Z",
     "strategy": ".content-card__main"
   }
 ];
