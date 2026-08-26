@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T06:21:55.573Z
+// Last updated: 2026-08-26T06:53:22.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴基斯坦首都醫院火災　美媒：至少13新生兒死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169278318663438336604897.jpeg/PYTj-u8nfKMT_k7XZNflIwCW4phnDE85vJUAX7yVAF8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383774/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%A6%96%E9%83%BD%E9%86%AB%E9%99%A2%E7%81%AB%E7%81%BD-%E7%BE%8E%E5%AA%92-%E8%87%B3%E5%B0%9113%E6%96%B0%E7%94%9F%E5%85%92%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-08-26T06:53:22.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超轉會｜再簽曼城巴西邊鋒沙雲奴　熱刺今夏引援花費破3億英鎊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169148574890463232375148.jpeg/2bOZLOHmCWxVayZDIgY1OIsnml4jVY7AjZbmCI2W5gg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383657/%E9%84%89%E6%9D%91%E9%9F%B3%E6%A8%82%E5%A4%A9%E5%90%8E%E6%A1%83%E8%8E%89%E8%8A%AD%E9%A0%93%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B480%E6%AD%B2-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%99%8D%E5%8D%8A%E6%97%97%E8%87%B4%E6%95%AC",
     "timestamp": "2026-08-25T22:03:54.473Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄉村音樂天后桃莉芭頓離世享年80歲　特朗普下令降半旗致敬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169148574890463232375148.jpeg/2bOZLOHmCWxVayZDIgY1OIsnml4jVY7AjZbmCI2W5gg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383657/%E9%84%89%E6%9D%91%E9%9F%B3%E6%A8%82%E5%A4%A9%E5%90%8E%E6%A1%83%E8%8E%89%E8%8A%AD%E9%A0%93%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B480%E6%AD%B2-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%99%8D%E5%8D%8A%E6%97%97%E8%87%B4%E6%95%AC",
-    "timestamp": "2026-08-25T21:32:08.109Z",
     "strategy": ".content-card__main"
   }
 ];
