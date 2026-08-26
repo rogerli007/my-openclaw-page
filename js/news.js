@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T05:18:17.602Z
+// Last updated: 2026-08-26T05:35:20.828Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "揀三文魚貼士｜揀弓形或半月形？日本專家拆解關鍵+4部位最佳吃法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169271236367224832560429.png/hptfPxeG3O1r8ro3ZQSCIKj5P3Kpx2kNvpBFWL6QRVg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60377152/%E6%8F%80%E4%B8%89%E6%96%87%E9%AD%9A%E8%B2%BC%E5%A3%AB-%E6%8F%80%E5%BC%93%E5%BD%A2%E6%88%96%E5%8D%8A%E6%9C%88%E5%BD%A2-%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E9%97%9C%E9%8D%B5-4%E9%83%A8%E4%BD%8D%E6%9C%80%E4%BD%B3%E5%90%83%E6%B3%95",
+    "timestamp": "2026-08-26T05:35:20.828Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "揀三文魚貼士｜揀弓形或半月形？日本專家拆解關鍵+4部位最佳吃法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169140983384772608259068.jpeg/Itv-bxgOiYb-iPhJdWM1gYHicu0d4BJ3aPdtW2j3bVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383653/%E9%9D%92%E8%A1%A32%E7%94%B7%E8%B2%A8%E8%BB%8A%E5%85%A7%E5%90%B8%E6%AF%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%AA%A2-4-5%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%982%E7%94%B7",
     "timestamp": "2026-08-25T21:02:42.011Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣2男貨車內吸毒　熱心途人報案　警檢$4.5萬毒品拘2男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169129935697088512580439.jpeg/YM8EI7UM6wpJ9i6WTikDlgo2uT-lbW7r4j-feeI_n3k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383653/%E9%9D%92%E8%A1%A32%E7%94%B7%E8%B2%A8%E8%BB%8A%E5%85%A7%E5%90%B8%E6%AF%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%AA%A2-4-5%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%982%E7%94%B7",
-    "timestamp": "2026-08-25T20:31:04.173Z",
     "strategy": ".content-card__main"
   }
 ];
