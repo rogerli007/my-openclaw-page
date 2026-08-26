@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T19:02:23.601Z
+// Last updated: 2026-08-26T19:43:40.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其滑翔傘墜山　一名中國遊客遇難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169477133739757568530279.png/cWsdQvG-iDHuKjywrWnWodPSlFrX1Wv57QyrhO0Mq4Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384031/%E5%9C%9F%E8%80%B3%E5%85%B6%E6%BB%91%E7%BF%94%E5%82%98%E5%A2%9C%E5%B1%B1-%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E9%81%87%E9%9B%A3",
+    "timestamp": "2026-08-26T19:43:40.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜水利部分析成因及隱患　四大銀行確保災區金融服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169278318663438336604897.jpeg/PYTj-u8nfKMT_k7XZNflIwCW4phnDE85vJUAX7yVAF8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383774/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%A6%96%E9%83%BD%E9%86%AB%E9%99%A2%E7%81%AB%E7%81%BD-%E7%BE%8E%E5%AA%92-%E8%87%B3%E5%B0%9113%E6%96%B0%E7%94%9F%E5%85%92%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-08-26T06:53:22.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超轉會｜再簽曼城巴西邊鋒沙雲奴　熱刺今夏引援花費破3億英鎊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169237354657878016703159.jpeg/sed35OId8srd84whBSgQdFRj4wUDnX-EhexVooXsVaI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383702/%E8%8B%B1%E8%B6%85%E8%BD%89%E6%9C%83-%E5%86%8D%E7%B0%BD%E6%9B%BC%E5%9F%8E%E5%B7%B4%E8%A5%BF%E9%82%8A%E9%8B%92%E6%B2%99%E9%9B%B2%E5%A5%B4-%E7%86%B1%E5%88%BA%E4%BB%8A%E5%A4%8F%E5%BC%95%E6%8F%B4%E8%8A%B1%E8%B2%BB%E7%A0%B43%E5%84%84%E8%8B%B1%E9%8E%8A",
-    "timestamp": "2026-08-26T06:21:55.573Z",
     "strategy": ".content-card__main"
   }
 ];
