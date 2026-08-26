@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T14:33:56.963Z
+// Last updated: 2026-08-26T14:57:25.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關破兩宗機場旅客販毒案　檢$1500萬K仔　拘3人包括兩本地男女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169414264419520512923081.jpeg/593JIyOZsAGmQcSZ_7Uc4MKNM60ksnbr4dZ-teHWfrU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384008/%E6%B5%B7%E9%97%9C%E7%A0%B4%E5%85%A9%E5%AE%97%E6%A9%9F%E5%A0%B4%E6%97%85%E5%AE%A2%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2-1500%E8%90%ACk%E4%BB%94-%E6%8B%983%E4%BA%BA%E5%8C%85%E6%8B%AC%E5%85%A9%E6%9C%AC%E5%9C%B0%E7%94%B7%E5%A5%B3",
+    "timestamp": "2026-08-26T14:57:25.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不良一族尋愛記2｜伊藤美美菜登場太亮眼　網讚與彩朱同等級美貌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169241434830671872076124.jpeg/MdIEnypb1RdhxLB3PwqFIJNM8ck6zH-SrkZz_K5Gc_w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60383674/%E6%95%99%E5%A4%A7%E8%87%AA%E7%A0%94ai%E5%AD%B8%E7%BF%92%E5%B9%B3%E5%8F%B0-%E5%AD%B8%E7%94%9F%E5%8A%9F%E8%AA%B2%E6%8F%90%E4%BA%A4%E7%8E%87%E5%8F%8A%E6%BA%96%E7%A2%BA%E5%BA%A6%E5%A4%A7%E5%B9%85%E4%B8%8A%E5%8D%87",
     "timestamp": "2026-08-26T04:51:20.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張栢芝前經理人余毓興現身警署錄口供　指控有人庭上爆肚作假證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169241739395862528689207.jpeg/159_QcZzCrLvmJw9mBDF_672B95qa1m0Y3RuL2N0bi8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383727/%E5%BC%B5%E6%A0%A2%E8%8A%9D%E5%89%8D%E7%B6%93%E7%90%86%E4%BA%BA%E4%BD%99%E6%AF%93%E8%88%88%E7%8F%BE%E8%BA%AB%E8%AD%A6%E7%BD%B2%E9%8C%84%E5%8F%A3%E4%BE%9B-%E6%8C%87%E6%8E%A7%E6%9C%89%E4%BA%BA%E5%BA%AD%E4%B8%8A%E7%88%86%E8%82%9A%E4%BD%9C%E5%81%87%E8%AD%89",
-    "timestamp": "2026-08-26T04:22:00.582Z",
     "strategy": ".content-card__main"
   }
 ];
