@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T09:52:08.184Z
+// Last updated: 2026-08-26T10:19:20.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌工廈停車場複式計費惹議　泊5小時收$550　場方稱已展示收費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169308751442743296950324.jpeg/ZdB1FS0tSTkV6xZG_L5E-6xCkVYnswQQO2tDWhFrQ1o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383857/%E8%91%B5%E6%B6%8C%E5%B7%A5%E5%BB%88%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%A4%87%E5%BC%8F%E8%A8%88%E8%B2%BB%E6%83%B9%E8%AD%B0-%E6%B3%8A5%E5%B0%8F%E6%99%82%E6%94%B6-550-%E5%A0%B4%E6%96%B9%E7%A8%B1%E5%B7%B2%E5%B1%95%E7%A4%BA%E6%94%B6%E8%B2%BB",
+    "timestamp": "2026-08-26T10:19:20.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "匡智會舍監涉姦女院友　護理員指被告多留女生區　曾聞事主曾投訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158555502083313664921867.jpeg/r30UGfzBLwN-Wjtwf3MgAvGTt_OnFdutjVEteY1RLXk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60383472/%E4%B8%AD%E6%9D%B1%E5%8C%97%E7%B4%84-%E7%9A%84%E8%AA%98%E6%83%91-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%85%A5%E5%B1%80-%E5%B0%87%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E4%B8%96%E7%95%8C",
     "timestamp": "2026-08-25T23:46:30.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥針/瘦瘦針新發現│台大跨國研究：GLP-1藥物降41%肥胖癌症風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166360530596663296169503.jpeg/X8XRXQ2KG9DPrSEwwkirEHONMwgaT7s7ndofpZ3aH6U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60379119/%E6%B8%9B%E8%82%A5%E9%87%9D-%E7%98%A6%E7%98%A6%E9%87%9D%E6%96%B0%E7%99%BC%E7%8F%BE-%E5%8F%B0%E5%A4%A7%E8%B7%A8%E5%9C%8B%E7%A0%94%E7%A9%B6-glp-1%E8%97%A5%E7%89%A9%E9%99%8D41-%E8%82%A5%E8%83%96%E7%99%8C%E7%97%87%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-08-25T23:30:29.470Z",
     "strategy": ".content-card__main"
   }
 ];
