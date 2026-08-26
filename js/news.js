@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T08:52:07.372Z
+// Last updated: 2026-08-26T09:52:08.184Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "匡智會舍監涉姦女院友　護理員指被告多留女生區　曾聞事主曾投訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169340512721702912918204.jpeg/-yjVKDw35iLbDlOkSL713WcGb3M-ZT0qHWHJ6Dhhyeg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383943/%E5%8C%A1%E6%99%BA%E6%9C%83%E8%88%8D%E7%9B%A3%E6%B6%89%E5%A7%A6%E5%A5%B3%E9%99%A2%E5%8F%8B-%E8%AD%B7%E7%90%86%E5%93%A1%E6%8C%87%E8%A2%AB%E5%91%8A%E5%A4%9A%E7%95%99%E5%A5%B3%E7%94%9F%E5%8D%80-%E6%9B%BE%E8%81%9E%E4%BA%8B%E4%B8%BB%E6%9B%BE%E6%8A%95%E8%A8%B4",
+    "timestamp": "2026-08-26T09:52:08.184Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "COLLAR新碟以番茄貫穿　Marf創作《SKSKZAZA》傳遞微小但強大力量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166360530596663296169503.jpeg/X8XRXQ2KG9DPrSEwwkirEHONMwgaT7s7ndofpZ3aH6U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60379119/%E6%B8%9B%E8%82%A5%E9%87%9D-%E7%98%A6%E7%98%A6%E9%87%9D%E6%96%B0%E7%99%BC%E7%8F%BE-%E5%8F%B0%E5%A4%A7%E8%B7%A8%E5%9C%8B%E7%A0%94%E7%A9%B6-glp-1%E8%97%A5%E7%89%A9%E9%99%8D41-%E8%82%A5%E8%83%96%E7%99%8C%E7%97%87%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-08-25T23:30:29.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026馬術｜香港運動員名單+賽程賽果+歷屆成績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231007/787422210125991936258419.jpeg/wwopiJQ7EMP3amEsNyP44BnlZZQA6Y113TaHG902hxs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380269/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%A6%AC%E8%A1%93-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
-    "timestamp": "2026-08-25T23:03:07.171Z",
     "strategy": ".content-card__main"
   }
 ];
