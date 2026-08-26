@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T15:57:19.272Z
+// Last updated: 2026-08-26T17:55:14.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "焗豬扒飯食譜｜做法簡易煮出快餐店經典味道、加1物惹味濃郁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250827/1037403406404161536514263.jpeg/gvXe5bHd9KDL4tBYp7BBJT28KNxtj7Wt1aa-TdWmvk0",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60384028/%E7%84%97%E8%B1%AC%E6%89%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E7%85%AE%E5%87%BA%E5%BF%AB%E9%A4%90%E5%BA%97%E7%B6%93%E5%85%B8%E5%91%B3%E9%81%93-%E5%8A%A01%E7%89%A9%E6%83%B9%E5%91%B3%E6%BF%83%E9%83%81",
+    "timestamp": "2026-08-26T17:55:14.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普證實CIA局長訪俄　克宮稱未與普京會面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169271236367224832560429.png/hptfPxeG3O1r8ro3ZQSCIKj5P3Kpx2kNvpBFWL6QRVg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60377152/%E6%8F%80%E4%B8%89%E6%96%87%E9%AD%9A%E8%B2%BC%E5%A3%AB-%E6%8F%80%E5%BC%93%E5%BD%A2%E6%88%96%E5%8D%8A%E6%9C%88%E5%BD%A2-%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E9%97%9C%E9%8D%B5-4%E9%83%A8%E4%BD%8D%E6%9C%80%E4%BD%B3%E5%90%83%E6%B3%95",
     "timestamp": "2026-08-26T05:35:20.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "揀三文魚貼士｜揀弓形或半月形？日本專家拆解關鍵+4部位最佳吃法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169271236367224832560429.png/hptfPxeG3O1r8ro3ZQSCIKj5P3Kpx2kNvpBFWL6QRVg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60377152/%E6%8F%80%E4%B8%89%E6%96%87%E9%AD%9A%E8%B2%BC%E5%A3%AB-%E6%8F%80%E5%BC%93%E5%BD%A2%E6%88%96%E5%8D%8A%E6%9C%88%E5%BD%A2-%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E9%97%9C%E9%8D%B5-4%E9%83%A8%E4%BD%8D%E6%9C%80%E4%BD%B3%E5%90%83%E6%B3%95",
-    "timestamp": "2026-08-26T05:18:17.602Z",
     "strategy": ".content-card__main"
   }
 ];
