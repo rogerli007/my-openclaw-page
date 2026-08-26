@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T02:51:38.187Z
+// Last updated: 2026-08-26T04:22:00.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張栢芝前經理人余毓興現身警署錄口供　指控有人庭上爆肚作假證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169241739395862528689207.jpeg/159_QcZzCrLvmJw9mBDF_672B95qa1m0Y3RuL2N0bi8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383727/%E5%BC%B5%E6%A0%A2%E8%8A%9D%E5%89%8D%E7%B6%93%E7%90%86%E4%BA%BA%E4%BD%99%E6%AF%93%E8%88%88%E7%8F%BE%E8%BA%AB%E8%AD%A6%E7%BD%B2%E9%8C%84%E5%8F%A3%E4%BE%9B-%E6%8C%87%E6%8E%A7%E6%9C%89%E4%BA%BA%E5%BA%AD%E4%B8%8A%E7%88%86%E8%82%9A%E4%BD%9C%E5%81%87%E8%AD%89",
+    "timestamp": "2026-08-26T04:22:00.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旅行注意｜搭飛機5大飲食禁忌！機師警告隨時胃痛脫水 咖啡都唔得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169117255754059776987013.jpeg/I0RUox0wvP7pxB-GUPU6HQC1pGpgSInLNlvLljZby5Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383652/%E4%BC%8A%E6%9C%97%E8%88%87%E9%98%BF%E6%9B%BC%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E6%93%AC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BB%BA%E7%AB%8B%E5%85%B1%E5%90%8C%E5%95%86%E5%AE%9A%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%93",
     "timestamp": "2026-08-25T20:02:06.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗與阿曼聯合聲明：擬霍爾木茲海峽建立共同商定安全通道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169117255754059776987013.jpeg/I0RUox0wvP7pxB-GUPU6HQC1pGpgSInLNlvLljZby5Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383652/%E4%BC%8A%E6%9C%97%E8%88%87%E9%98%BF%E6%9B%BC%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E6%93%AC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%BB%BA%E7%AB%8B%E5%85%B1%E5%90%8C%E5%95%86%E5%AE%9A%E5%AE%89%E5%85%A8%E9%80%9A%E9%81%93",
-    "timestamp": "2026-08-25T19:48:25.957Z",
     "strategy": ".content-card__main"
   }
 ];
