@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T08:22:36.923Z
+// Last updated: 2026-08-26T08:52:07.372Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "COLLAR新碟以番茄貫穿　Marf創作《SKSKZAZA》傳遞微小但強大力量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169323698503553024125470.jpeg/YucomVDXEeizet5Kep6kIaTK0GHYTG0H5hYpk-YWKZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60383881/collar%E6%96%B0%E7%A2%9F%E4%BB%A5%E7%95%AA%E8%8C%84%E8%B2%AB%E7%A9%BF-marf%E5%89%B5%E4%BD%9C-skskzaza-%E5%82%B3%E9%81%9E%E5%BE%AE%E5%B0%8F%E4%BD%86%E5%BC%B7%E5%A4%A7%E5%8A%9B%E9%87%8F",
+    "timestamp": "2026-08-26T08:52:07.372Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Chantel姚焯菲備戰首個個唱　密集排練不喊累感謝粉絲支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231007/787422210125991936258419.jpeg/wwopiJQ7EMP3amEsNyP44BnlZZQA6Y113TaHG902hxs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60380269/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%A6%AC%E8%A1%93-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
     "timestamp": "2026-08-25T23:03:07.171Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "55歲傳婚變男星尖沙咀食飯　樣貌回到出道時被封為「凍齡天花板」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1169048801583828992705986.jpeg/Il0ODezLjeD2vRoAHt471tl7SH_4xhOHHEyg3BxMoNw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383423/55%E6%AD%B2%E5%90%B3%E5%A5%87%E9%9A%86%E5%B0%96%E6%B2%99%E5%92%80%E9%A3%9F%E9%A3%AF-%E6%A8%A3%E8%B2%8C%E5%9B%9E%E5%88%B0%E5%87%BA%E9%81%93%E6%99%82%E8%A2%AB%E5%B0%81%E7%82%BA-%E5%87%8D%E9%BD%A1%E5%A4%A9%E8%8A%B1%E6%9D%BF",
-    "timestamp": "2026-08-25T22:47:13.388Z",
     "strategy": ".content-card__main"
   }
 ];
