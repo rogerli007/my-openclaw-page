@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T06:02:01.958Z
+// Last updated: 2026-08-26T06:21:55.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超轉會｜再簽曼城巴西邊鋒沙雲奴　熱刺今夏引援花費破3億英鎊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169237354657878016703159.jpeg/sed35OId8srd84whBSgQdFRj4wUDnX-EhexVooXsVaI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60383702/%E8%8B%B1%E8%B6%85%E8%BD%89%E6%9C%83-%E5%86%8D%E7%B0%BD%E6%9B%BC%E5%9F%8E%E5%B7%B4%E8%A5%BF%E9%82%8A%E9%8B%92%E6%B2%99%E9%9B%B2%E5%A5%B4-%E7%86%B1%E5%88%BA%E4%BB%8A%E5%A4%8F%E5%BC%95%E6%8F%B4%E8%8A%B1%E8%B2%BB%E7%A0%B43%E5%84%84%E8%8B%B1%E9%8E%8A",
+    "timestamp": "2026-08-26T06:21:55.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安踏體育股價抽升逾6%　中期派息增一成｜港股異動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169148574890463232375148.jpeg/2bOZLOHmCWxVayZDIgY1OIsnml4jVY7AjZbmCI2W5gg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383657/%E9%84%89%E6%9D%91%E9%9F%B3%E6%A8%82%E5%A4%A9%E5%90%8E%E6%A1%83%E8%8E%89%E8%8A%AD%E9%A0%93%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B480%E6%AD%B2-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%99%8D%E5%8D%8A%E6%97%97%E8%87%B4%E6%95%AC",
     "timestamp": "2026-08-25T21:32:08.109Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣2男貨車內吸毒　熱心途人報案　警檢$4.5萬毒品拘2男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169140983384772608259068.jpeg/Itv-bxgOiYb-iPhJdWM1gYHicu0d4BJ3aPdtW2j3bVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60383653/%E9%9D%92%E8%A1%A32%E7%94%B7%E8%B2%A8%E8%BB%8A%E5%85%A7%E5%90%B8%E6%AF%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%AA%A2-4-5%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%982%E7%94%B7",
-    "timestamp": "2026-08-25T21:17:15.098Z",
     "strategy": ".content-card__main"
   }
 ];
