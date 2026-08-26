@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T07:25:06.800Z
+// Last updated: 2026-08-26T07:52:23.875Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國濟州張美蘭案　警方樹上檢獲繩索　推測失蹤翌日縊死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169306409649573888689274.jpeg/-T-VAhTlWcRqUzX1qvrazh34LOfBLZjUZcijXWXIo10?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383827/%E9%9F%93%E5%9C%8B%E6%BF%9F%E5%B7%9E%E5%BC%B5%E7%BE%8E%E8%98%AD%E6%A1%88-%E8%AD%A6%E6%96%B9%E6%A8%B9%E4%B8%8A%E6%AA%A2%E7%8D%B2%E7%B9%A9%E7%B4%A2-%E6%8E%A8%E6%B8%AC%E5%A4%B1%E8%B9%A4%E7%BF%8C%E6%97%A5%E7%B8%8A%E6%AD%BB",
+    "timestamp": "2026-08-26T07:52:23.875Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT中國大滿貫｜王楚欽孫穎莎領銜出戰　決賽門票最平逾千元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168994978836254720342106.jpeg/vgVegBkmPWkUDyGH9YmMr63dcJtqMhIlY87orWPO6K0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60383484/%E6%B6%88%E8%B2%BB%E8%80%85%E6%87%89%E6%8E%8C%E6%8F%A1%E6%A8%93%E5%AE%87%E8%B3%AA%E7%B4%A0%E8%A9%95%E5%88%86-%E8%A8%8E%E8%AB%96%E5%B1%8B%E8%8B%91%E4%BA%94%E6%98%9F%E7%B4%9A%E5%88%B6-%E6%B1%AA%E6%95%A6%E6%95%AC",
     "timestamp": "2026-08-25T22:30:32.453Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消費者應掌握樓宇質素評分　討論屋苑五星級制｜汪敦敬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168994978836254720342106.jpeg/vgVegBkmPWkUDyGH9YmMr63dcJtqMhIlY87orWPO6K0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60383484/%E6%B6%88%E8%B2%BB%E8%80%85%E6%87%89%E6%8E%8C%E6%8F%A1%E6%A8%93%E5%AE%87%E8%B3%AA%E7%B4%A0%E8%A9%95%E5%88%86-%E8%A8%8E%E8%AB%96%E5%B1%8B%E8%8B%91%E4%BA%94%E6%98%9F%E7%B4%9A%E5%88%B6-%E6%B1%AA%E6%95%A6%E6%95%AC",
-    "timestamp": "2026-08-25T22:13:57.671Z",
     "strategy": ".content-card__main"
   }
 ];
