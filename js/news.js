@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-27T07:15:31.419Z
+// Last updated: 2026-08-27T10:38:32.903Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大雨濕鞋　女子商場廁所「乾手機吹鞋」引眾怒：隔著螢幕都聞到味",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169692624219541504416908.png/u0aQ0RpWFNMI0JxvOLKzjf3we-ygcEpmaZCgvGmQoLw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384315/%E5%A4%A7%E9%9B%A8%E6%BF%95%E9%9E%8B-%E5%A5%B3%E5%AD%90%E5%95%86%E5%A0%B4%E5%BB%81%E6%89%80-%E4%B9%BE%E6%89%8B%E6%A9%9F%E5%90%B9%E9%9E%8B-%E5%BC%95%E7%9C%BE%E6%80%92-%E9%9A%94%E8%91%97%E8%9E%A2%E5%B9%95%E9%83%BD%E8%81%9E%E5%88%B0%E5%91%B3",
+    "timestamp": "2026-08-27T10:38:32.903Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜內地專家推斷原因：高位冰岩崩塌衝下狹窄河谷致禍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230616/746427908913893376983015.jpeg/6b9UR2B7Sk9GEvwrMiXEpQypKssSiQiJvYicYL2InGA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383896/bill-gates%E6%93%AC11%E6%9C%88%E8%A8%AA%E8%8F%AF%E6%99%A4%E7%BF%92%E8%BF%91%E5%B9%B3-%E6%8E%A8%E5%8B%95%E5%85%A8%E7%90%83ai%E6%B2%BB%E7%90%86%E5%90%88%E4%BD%9C",
     "timestamp": "2026-08-26T11:17:53.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│觀塘apm阿婆掌摑到女童跌地！變3女混戰：唔好走　警拘2女子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169354679138652160729631.jpeg/B27YkEiIptEdr3jn9Zb6y4-xWlVdmz5snzYb0Z82G9E",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60383955/%E6%9C%89%E7%89%87-%E8%A7%80%E5%A1%98apm%E9%98%BF%E5%A9%86%E6%8E%8C%E6%91%91%E5%88%B0%E5%A5%B3%E7%AB%A5%E8%B7%8C%E5%9C%B0-%E8%AE%8A3%E5%A5%B3%E6%B7%B7%E6%88%B0-%E5%94%94%E5%A5%BD%E8%B5%B0-%E8%AD%A6%E6%8B%982%E5%A5%B3%E5%AD%90",
-    "timestamp": "2026-08-26T11:02:25.267Z",
     "strategy": ".content-card__main"
   }
 ];
