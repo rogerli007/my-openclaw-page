@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-27T04:38:37.286Z
+// Last updated: 2026-08-27T07:15:31.419Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜內地專家推斷原因：高位冰岩崩塌衝下狹窄河谷致禍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169644376888971264763840.jpeg/KvMQ2t3Z4tDZuts1ga8dDO5zxncRY6Lcanh7Lmp4ey4",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384183/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%85%A7%E5%9C%B0%E5%B0%88%E5%AE%B6%E6%8E%A8%E6%96%B7%E5%8E%9F%E5%9B%A0-%E9%AB%98%E4%BD%8D%E5%86%B0%E5%B2%A9%E5%B4%A9%E5%A1%8C%E8%A1%9D%E4%B8%8B%E7%8B%B9%E7%AA%84%E6%B2%B3%E8%B0%B7%E8%87%B4%E7%A6%8D",
+    "timestamp": "2026-08-27T07:15:31.419Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TXT演唱會2027香港｜門票優先/公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169354679138652160729631.jpeg/B27YkEiIptEdr3jn9Zb6y4-xWlVdmz5snzYb0Z82G9E",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60383955/%E6%9C%89%E7%89%87-%E8%A7%80%E5%A1%98apm%E9%98%BF%E5%A9%86%E6%8E%8C%E6%91%91%E5%88%B0%E5%A5%B3%E7%AB%A5%E8%B7%8C%E5%9C%B0-%E8%AE%8A3%E5%A5%B3%E6%B7%B7%E6%88%B0-%E5%94%94%E5%A5%BD%E8%B5%B0-%E8%AD%A6%E6%8B%982%E5%A5%B3%E5%AD%90",
     "timestamp": "2026-08-26T11:02:25.267Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌工廈停車場複式計費惹議　泊5小時收$550　場方稱已展示收費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169308751442743296950324.jpeg/ZdB1FS0tSTkV6xZG_L5E-6xCkVYnswQQO2tDWhFrQ1o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383857/%E8%91%B5%E6%B6%8C%E5%B7%A5%E5%BB%88%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%A4%87%E5%BC%8F%E8%A8%88%E8%B2%BB%E6%83%B9%E8%AD%B0-%E6%B3%8A5%E5%B0%8F%E6%99%82%E6%94%B6-550-%E5%A0%B4%E6%96%B9%E7%A8%B1%E5%B7%B2%E5%B1%95%E7%A4%BA%E6%94%B6%E8%B2%BB",
-    "timestamp": "2026-08-26T10:19:20.534Z",
     "strategy": ".content-card__main"
   }
 ];
