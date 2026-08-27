@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-27T10:38:32.903Z
+// Last updated: 2026-08-27T14:30:43.208Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德媒：德國柏林附近學校發生襲擊案2死　警拘一疑犯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162493534796779520605173.jpeg/7TAuThlc83jitEiVkNwsNW73ENQDaQ6RIk4qOyJOKjs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384390/%E5%BE%B7%E5%AA%92-%E5%BE%B7%E5%9C%8B%E6%9F%8F%E6%9E%97%E9%99%84%E8%BF%91%E5%AD%B8%E6%A0%A1%E7%99%BC%E7%94%9F%E8%A5%B2%E6%93%8A%E6%A1%882%E6%AD%BB-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%96%91%E7%8A%AF",
+    "timestamp": "2026-08-27T14:30:43.208Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大雨濕鞋　女子商場廁所「乾手機吹鞋」引眾怒：隔著螢幕都聞到味",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166461743522648064028914.jpeg/Pj3OKR-gWjJC1NM4fpQPpyVJz3FDMJ3HxqvM6sarzOo?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60383975/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%8E%88%E6%AC%8A%E7%A5%A8-01%E6%8F%AD%E9%BB%83%E7%A2%A7%E5%AC%8C%E7%96%91%E6%94%B6-%E9%9B%A2%E4%B8%96%E6%8E%88%E6%AC%8A-%E6%B0%91%E6%94%BF-%E5%B7%B2%E4%BA%A4%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80",
     "timestamp": "2026-08-26T11:34:06.070Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Bill Gates擬11月訪華晤習近平　推動全球AI治理合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230616/746427908913893376983015.jpeg/6b9UR2B7Sk9GEvwrMiXEpQypKssSiQiJvYicYL2InGA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383896/bill-gates%E6%93%AC11%E6%9C%88%E8%A8%AA%E8%8F%AF%E6%99%A4%E7%BF%92%E8%BF%91%E5%B9%B3-%E6%8E%A8%E5%8B%95%E5%85%A8%E7%90%83ai%E6%B2%BB%E7%90%86%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-08-26T11:17:53.334Z",
     "strategy": ".content-card__main"
   }
 ];
