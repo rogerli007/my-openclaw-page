@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-27T01:03:17.523Z
+// Last updated: 2026-08-27T02:48:53.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "草間彌神器官衰竭逝世終年97歲  回顧日本國寶級藝術大師傳奇一生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169595872359485440427603.jpeg/Jj7ftmTC9tNl8Ay8TG2YIBPxKhE1ZtRMZH_HYGR_x2A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60384101/%E8%8D%89%E9%96%93%E5%BD%8C%E7%A5%9E%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD%E9%80%9D%E4%B8%96%E7%B5%82%E5%B9%B497%E6%AD%B2-%E5%9B%9E%E9%A1%A7%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E7%B4%9A%E8%97%9D%E8%A1%93%E5%A4%A7%E5%B8%AB%E5%82%B3%E5%A5%87%E4%B8%80%E7%94%9F",
+    "timestamp": "2026-08-27T02:48:53.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普宣佈國家緊急狀態禁部分外國電網設備　中國製造商或受影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169340512721702912918204.jpeg/-yjVKDw35iLbDlOkSL713WcGb3M-ZT0qHWHJ6Dhhyeg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383943/%E5%8C%A1%E6%99%BA%E6%9C%83%E8%88%8D%E7%9B%A3%E6%B6%89%E5%A7%A6%E5%A5%B3%E9%99%A2%E5%8F%8B-%E8%AD%B7%E7%90%86%E5%93%A1%E6%8C%87%E8%A2%AB%E5%91%8A%E5%A4%9A%E7%95%99%E5%A5%B3%E7%94%9F%E5%8D%80-%E6%9B%BE%E8%81%9E%E4%BA%8B%E4%B8%BB%E6%9B%BE%E6%8A%95%E8%A8%B4",
     "timestamp": "2026-08-26T09:52:08.184Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "COLLAR新碟以番茄貫穿　Marf創作《SKSKZAZA》傳遞微小但強大力量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169323698503553024125470.jpeg/YucomVDXEeizet5Kep6kIaTK0GHYTG0H5hYpk-YWKZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60383881/collar%E6%96%B0%E7%A2%9F%E4%BB%A5%E7%95%AA%E8%8C%84%E8%B2%AB%E7%A9%BF-marf%E5%89%B5%E4%BD%9C-skskzaza-%E5%82%B3%E9%81%9E%E5%BE%AE%E5%B0%8F%E4%BD%86%E5%BC%B7%E5%A4%A7%E5%8A%9B%E9%87%8F",
-    "timestamp": "2026-08-26T08:52:07.372Z",
     "strategy": ".content-card__main"
   }
 ];
