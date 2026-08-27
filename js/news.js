@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-26T23:47:23.233Z
+// Last updated: 2026-08-27T01:03:17.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普宣佈國家緊急狀態禁部分外國電網設備　中國製造商或受影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160113880261726208408376.jpeg/6d_RQIPSWPzi1vC9a9dLnCf46_E2bKTELM1sayzNbGs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384057/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E4%BD%88%E5%9C%8B%E5%AE%B6%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B%E7%A6%81%E9%83%A8%E5%88%86%E5%A4%96%E5%9C%8B%E9%9B%BB%E7%B6%B2%E8%A8%AD%E5%82%99-%E4%B8%AD%E5%9C%8B%E8%A3%BD%E9%80%A0%E5%95%86%E6%88%96%E5%8F%97%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-08-27T01:03:17.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜佐敦文景樓女子墮樓　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169323698503553024125470.jpeg/YucomVDXEeizet5Kep6kIaTK0GHYTG0H5hYpk-YWKZM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60383881/collar%E6%96%B0%E7%A2%9F%E4%BB%A5%E7%95%AA%E8%8C%84%E8%B2%AB%E7%A9%BF-marf%E5%89%B5%E4%BD%9C-skskzaza-%E5%82%B3%E9%81%9E%E5%BE%AE%E5%B0%8F%E4%BD%86%E5%BC%B7%E5%A4%A7%E5%8A%9B%E9%87%8F",
     "timestamp": "2026-08-26T08:52:07.372Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Chantel姚焯菲備戰首個個唱　密集排練不喊累感謝粉絲支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169290238112043008734019.jpeg/EWtKa_FvIWAQXQgIUMDebvjXDQKvqLhBiHKiyIhyosg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60383825/chantel%E5%A7%9A%E7%84%AF%E8%8F%B2%E5%82%99%E6%88%B0%E9%A6%96%E5%80%8B%E5%80%8B%E5%94%B1-%E5%AF%86%E9%9B%86%E6%8E%92%E7%B7%B4%E4%B8%8D%E5%96%8A%E7%B4%AF%E6%84%9F%E8%AC%9D%E7%B2%89%E7%B5%B2%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-08-26T08:22:36.923Z",
     "strategy": ".content-card__main"
   }
 ];
