@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-27T14:30:43.208Z
+// Last updated: 2026-08-27T18:19:33.326Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超特攻｜曼聯狂風掃落「葉」　力爭首勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169597662249357312098572.jpeg/JkJgAUNjGL5lmqzcx7H58K9syVVbfZTh_l3k1_5d5Nc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60384093/%E8%8B%B1%E8%B6%85%E7%89%B9%E6%94%BB-%E6%9B%BC%E8%81%AF%E7%8B%82%E9%A2%A8%E6%8E%83%E8%90%BD-%E8%91%89-%E5%8A%9B%E7%88%AD%E9%A6%96%E5%8B%9D",
+    "timestamp": "2026-08-27T18:19:33.326Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德媒：德國柏林附近學校發生襲擊案2死　警拘一疑犯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169382264077815808690278.jpeg/cuKEHv_oOjlU-r_A347UHIx50fYBCjI4zCsmpswrJqY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60383895/%E5%BE%90%E6%9D%B0%E9%9B%A2%E4%B8%96-27%E6%AD%B2%E7%BE%8E%E8%81%B2%E5%B0%8F%E6%AD%8C%E7%8E%8B%E5%BE%90%E6%9D%B0%E5%9B%A0%E8%82%9D%E7%97%85%E9%9B%A2%E4%B8%96-5%E9%A1%9E%E4%BA%BA%E9%AB%98%E5%8D%B1-%E8%AD%B7%E8%82%9D4%E9%A3%9F%E7%89%A9",
     "timestamp": "2026-08-26T12:39:18.195Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑授權票｜01揭黃碧嬌疑收「離世授權」　民政：已交執法部門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166461743522648064028914.jpeg/Pj3OKR-gWjJC1NM4fpQPpyVJz3FDMJ3HxqvM6sarzOo?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60383975/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%8E%88%E6%AC%8A%E7%A5%A8-01%E6%8F%AD%E9%BB%83%E7%A2%A7%E5%AC%8C%E7%96%91%E6%94%B6-%E9%9B%A2%E4%B8%96%E6%8E%88%E6%AC%8A-%E6%B0%91%E6%94%BF-%E5%B7%B2%E4%BA%A4%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80",
-    "timestamp": "2026-08-26T11:34:06.070Z",
     "strategy": ".content-card__main"
   }
 ];
