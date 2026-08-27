@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-27T02:48:53.745Z
+// Last updated: 2026-08-27T04:38:37.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TXT演唱會2027香港｜門票優先/公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169609193330577408986170.jpeg/oQ13gUi-8Yt4HV65SNNifw_n1FThT2IjQjQkMUI0JDE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60384132/txt%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-08-27T04:38:37.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "草間彌神器官衰竭逝世終年97歲  回顧日本國寶級藝術大師傳奇一生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169308751442743296950324.jpeg/ZdB1FS0tSTkV6xZG_L5E-6xCkVYnswQQO2tDWhFrQ1o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383857/%E8%91%B5%E6%B6%8C%E5%B7%A5%E5%BB%88%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%A4%87%E5%BC%8F%E8%A8%88%E8%B2%BB%E6%83%B9%E8%AD%B0-%E6%B3%8A5%E5%B0%8F%E6%99%82%E6%94%B6-550-%E5%A0%B4%E6%96%B9%E7%A8%B1%E5%B7%B2%E5%B1%95%E7%A4%BA%E6%94%B6%E8%B2%BB",
     "timestamp": "2026-08-26T10:19:20.534Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "匡智會舍監涉姦女院友　護理員指被告多留女生區　曾聞事主曾投訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169340512721702912918204.jpeg/-yjVKDw35iLbDlOkSL713WcGb3M-ZT0qHWHJ6Dhhyeg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383943/%E5%8C%A1%E6%99%BA%E6%9C%83%E8%88%8D%E7%9B%A3%E6%B6%89%E5%A7%A6%E5%A5%B3%E9%99%A2%E5%8F%8B-%E8%AD%B7%E7%90%86%E5%93%A1%E6%8C%87%E8%A2%AB%E5%91%8A%E5%A4%9A%E7%95%99%E5%A5%B3%E7%94%9F%E5%8D%80-%E6%9B%BE%E8%81%9E%E4%BA%8B%E4%B8%BB%E6%9B%BE%E6%8A%95%E8%A8%B4",
-    "timestamp": "2026-08-26T09:52:08.184Z",
     "strategy": ".content-card__main"
   }
 ];
