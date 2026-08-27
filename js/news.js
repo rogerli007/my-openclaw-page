@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-27T18:19:33.326Z
+// Last updated: 2026-08-27T21:38:20.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將特朗普比作希特勒　美國教育部發片後刪除｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169876897878773760523149.png/lF6nyjdBtxnZwGscRKiWoj5kM9O1oYW1nVElb51RJW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384420/%E5%B0%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%AF%94%E4%BD%9C%E5%B8%8C%E7%89%B9%E5%8B%92-%E7%BE%8E%E5%9C%8B%E6%95%99%E8%82%B2%E9%83%A8%E7%99%BC%E7%89%87%E5%BE%8C%E5%88%AA%E9%99%A4-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-27T21:38:20.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超特攻｜曼聯狂風掃落「葉」　力爭首勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168988930557612032971568.jpeg/ZsAD92YGgk-4Zp5Yvw-qHKz6XTzeG0Zvv7uctr-7nLY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383988/%E9%9F%93%E5%9C%8B%E6%BF%9F%E5%B7%9E%E5%BC%B5%E7%BE%8E%E8%98%AD%E6%A1%88-%E8%AD%A6%E6%8C%87%E6%AD%BB%E5%9B%A0%E7%82%BA%E7%B8%8A%E6%AD%BB-%E8%AC%80%E6%AE%BA%E6%A9%9F%E6%9C%83%E4%BD%8E-%E9%9F%93%E6%95%99%E6%8E%88%E6%8F%90%E8%B3%AA%E7%96%91",
     "timestamp": "2026-08-26T13:12:50.339Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "徐杰離世｜27歲美聲小歌王徐杰因肝病離世！5類人高危+護肝4食物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169382264077815808690278.jpeg/cuKEHv_oOjlU-r_A347UHIx50fYBCjI4zCsmpswrJqY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60383895/%E5%BE%90%E6%9D%B0%E9%9B%A2%E4%B8%96-27%E6%AD%B2%E7%BE%8E%E8%81%B2%E5%B0%8F%E6%AD%8C%E7%8E%8B%E5%BE%90%E6%9D%B0%E5%9B%A0%E8%82%9D%E7%97%85%E9%9B%A2%E4%B8%96-5%E9%A1%9E%E4%BA%BA%E9%AB%98%E5%8D%B1-%E8%AD%B7%E8%82%9D4%E9%A3%9F%E7%89%A9",
-    "timestamp": "2026-08-26T12:39:18.195Z",
     "strategy": ".content-card__main"
   }
 ];
