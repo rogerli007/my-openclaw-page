@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-28T22:53:39.787Z
+// Last updated: 2026-08-28T23:22:22.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冤案實錄｜《重器》藍本佘祥林案謎團：無名女屍是誰？真兇是誰？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170213884020133888631584.png/-ikxq6PvxVqKESfp8yffGRvvAIq3l2IFWNt841jbfOM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60382409/%E5%86%A4%E6%A1%88%E5%AF%A6%E9%8C%84-%E9%87%8D%E5%99%A8-%E8%97%8D%E6%9C%AC%E4%BD%98%E7%A5%A5%E6%9E%97%E6%A1%88%E8%AC%8E%E5%9C%98-%E7%84%A1%E5%90%8D%E5%A5%B3%E5%B1%8D%E6%98%AF%E8%AA%B0-%E7%9C%9F%E5%85%87%E6%98%AF%E8%AA%B0",
+    "timestamp": "2026-08-28T23:22:22.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英極右評論員被ICE拘留　曾倡超市設檢查站遣返移民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169550213031923712340765.jpeg/m6D2EGnLCgh_pIdIXVIwOt3oXtPNX_fnWtSVt1rUlbc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384046/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%BD%90%E6%95%A6%E6%96%87%E6%99%AF%E6%A8%93%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-08-26T23:47:23.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘇永康低調建5間內地小學　曾斥2830萬買北角半山豪宅身家極豐厚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169402867606360064278614.jpeg/VzoMwiS4ab2iKyzpuCgcore7yGuEoqGYINv7BCDb-wQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383913/%E8%98%87%E6%B0%B8%E5%BA%B7%E4%BD%8E%E8%AA%BF%E5%BB%BA5%E9%96%93%E5%85%A7%E5%9C%B0%E5%B0%8F%E5%AD%B8-%E6%9B%BE%E6%96%A52830%E8%90%AC%E8%B2%B7%E5%8C%97%E8%A7%92%E5%8D%8A%E5%B1%B1%E8%B1%AA%E5%AE%85%E8%BA%AB%E5%AE%B6%E6%A5%B5%E8%B1%90%E5%8E%9A",
-    "timestamp": "2026-08-26T22:33:38.163Z",
     "strategy": ".content-card__main"
   }
 ];
