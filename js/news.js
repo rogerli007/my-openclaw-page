@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-28T00:46:17.310Z
+// Last updated: 2026-08-28T03:39:49.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜官方：暫停簽發往西藏日喀則市電子邊境管理區通行證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169951962305662976569317.jpeg/wL9a_t2EIQSexLThKZsLuvhQf7vmE6SkKKzENSisxDU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384491/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%AE%98%E6%96%B9-%E6%9A%AB%E5%81%9C%E7%B0%BD%E7%99%BC%E5%BE%80%E8%A5%BF%E8%97%8F%E6%97%A5%E5%96%80%E5%89%87%E5%B8%82%E9%9B%BB%E5%AD%90%E9%82%8A%E5%A2%83%E7%AE%A1%E7%90%86%E5%8D%80%E9%80%9A%E8%A1%8C%E8%AD%89",
+    "timestamp": "2026-08-28T03:39:49.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳泳銘入選《時代》AI百大人物　領阿里巴巴完成重要轉型",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169319812942270464278049.png/rsgpDKEbFMm9pc_sAn9F8432z6Mo4CMyL5_RWS-f0Vk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383873/%E4%B8%8D%E8%89%AF%E4%B8%80%E6%97%8F%E5%B0%8B%E6%84%9B%E8%A8%982-%E4%BC%8A%E8%97%A4%E7%BE%8E%E7%BE%8E%E8%8F%9C%E7%99%BB%E5%A0%B4%E5%A4%AA%E4%BA%AE%E7%9C%BC-%E7%B6%B2%E8%AE%9A%E8%88%87%E5%BD%A9%E6%9C%B1%E5%90%8C%E7%AD%89%E7%B4%9A%E7%BE%8E%E8%B2%8C",
     "timestamp": "2026-08-26T14:33:56.963Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉亦菲39歲生日公主Look仙氣逼人　唐嫣連續12年送祝福閨密情甜爆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169311129688608768160973.jpeg/ldfFd7ThI8yM8WhLKi-f77LQNAnbkCovvszXAb7M1wE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383846/%E5%8A%89%E4%BA%A6%E8%8F%B239%E6%AD%B2%E7%94%9F%E6%97%A5%E5%85%AC%E4%B8%BBlook%E4%BB%99%E6%B0%A3%E9%80%BC%E4%BA%BA-%E5%94%90%E5%AB%A3%E9%80%A3%E7%BA%8C12%E5%B9%B4%E9%80%81%E7%A5%9D%E7%A6%8F%E9%96%A8%E5%AF%86%E6%83%85%E7%94%9C%E7%88%86",
-    "timestamp": "2026-08-26T13:42:39.402Z",
     "strategy": ".content-card__main"
   }
 ];
