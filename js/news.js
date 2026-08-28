@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-28T06:24:19.778Z
+// Last updated: 2026-08-28T09:53:56.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "受賄人民幣7.46億餘元　湖北省委前書記蔣超良一審被判死緩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170055490776862720973654.jpeg/c4_DWHXkIZ6RUlPBSSZmDAxxzxuKXbHCYNTwoGDU8KA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384673/%E5%8F%97%E8%B3%84%E4%BA%BA%E6%B0%91%E5%B9%A37-46%E5%84%84%E9%A4%98%E5%85%83-%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E5%89%8D%E6%9B%B8%E8%A8%98%E8%94%A3%E8%B6%85%E8%89%AF%E4%B8%80%E5%AF%A9%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%B7%A9",
+    "timestamp": "2026-08-28T09:53:56.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI泡沬論｜鎧俠和閃迪擬投資約310億美元　在日本擴記憶晶片產能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118005207951872000312846.jpeg/hFjX_UhK0sjIluQrTPI-dW8MsxLq9alE_qsNz_6rDc8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384014/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%89%E5%AF%A6cia%E5%B1%80%E9%95%B7%E8%A8%AA%E4%BF%84-%E5%85%8B%E5%AE%AE%E7%A8%B1%E6%9C%AA%E8%88%87%E6%99%AE%E4%BA%AC%E6%9C%83%E9%9D%A2",
     "timestamp": "2026-08-26T15:57:19.272Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關破兩宗機場旅客販毒案　檢$1500萬K仔　拘3人包括兩本地男女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169414264419520512923081.jpeg/593JIyOZsAGmQcSZ_7Uc4MKNM60ksnbr4dZ-teHWfrU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384008/%E6%B5%B7%E9%97%9C%E7%A0%B4%E5%85%A9%E5%AE%97%E6%A9%9F%E5%A0%B4%E6%97%85%E5%AE%A2%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2-1500%E8%90%ACk%E4%BB%94-%E6%8B%983%E4%BA%BA%E5%8C%85%E6%8B%AC%E5%85%A9%E6%9C%AC%E5%9C%B0%E7%94%B7%E5%A5%B3",
-    "timestamp": "2026-08-26T14:57:25.554Z",
     "strategy": ".content-card__main"
   }
 ];
