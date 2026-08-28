@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-28T18:29:20.846Z
+// Last updated: 2026-08-28T21:56:29.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國司法部修改聲明　稱政府機構被列為中國黑客攻擊目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136747476175294464729608.jpeg/qdbr8S5WvMmcMoIPJf-ukMsc4FjQgHCM-FrUkfha1JE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384784/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E4%BF%AE%E6%94%B9%E8%81%B2%E6%98%8E-%E7%A8%B1%E6%94%BF%E5%BA%9C%E6%A9%9F%E6%A7%8B%E8%A2%AB%E5%88%97%E7%82%BA%E4%B8%AD%E5%9C%8B%E9%BB%91%E5%AE%A2%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-08-28T21:56:29.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "牛頭角商廈$11萬手機疑遭盜走　21歲男報案　警方列盜竊調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169467674212700160572164.jpeg/ks2PfRF9XRxmLl7g3gsxUbPt2sAK4NTqGLqfJRi6nyU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384029/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%B0%B4%E5%88%A9%E9%83%A8%E5%88%86%E6%9E%90%E6%88%90%E5%9B%A0%E5%8F%8A%E9%9A%B1%E6%82%A3-%E5%9B%9B%E5%A4%A7%E9%8A%80%E8%A1%8C%E7%A2%BA%E4%BF%9D%E7%81%BD%E5%8D%80%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-08-26T19:02:23.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "焗豬扒飯食譜｜做法簡易煮出快餐店經典味道、加1物惹味濃郁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250827/1037403406404161536514263.jpeg/gvXe5bHd9KDL4tBYp7BBJT28KNxtj7Wt1aa-TdWmvk0",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60384028/%E7%84%97%E8%B1%AC%E6%89%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E7%85%AE%E5%87%BA%E5%BF%AB%E9%A4%90%E5%BA%97%E7%B6%93%E5%85%B8%E5%91%B3%E9%81%93-%E5%8A%A01%E7%89%A9%E6%83%B9%E5%91%B3%E6%BF%83%E9%83%81",
-    "timestamp": "2026-08-26T18:06:51.956Z",
     "strategy": ".content-card__main"
   }
 ];
