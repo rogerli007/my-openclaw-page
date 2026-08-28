@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-27T21:38:20.812Z
+// Last updated: 2026-08-28T00:46:17.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳泳銘入選《時代》AI百大人物　領阿里巴巴完成重要轉型",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250924/1047472186895372288750926.jpeg/7zfor8H69KAKRsID3qmphJtu_a7fEjuwNLToYTS06GE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384437/%E5%90%B3%E6%B3%B3%E9%8A%98%E5%85%A5%E9%81%B8-%E6%99%82%E4%BB%A3-ai%E7%99%BE%E5%A4%A7%E4%BA%BA%E7%89%A9-%E9%A0%98%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AE%8C%E6%88%90%E9%87%8D%E8%A6%81%E8%BD%89%E5%9E%8B",
+    "timestamp": "2026-08-28T00:46:17.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將特朗普比作希特勒　美國教育部發片後刪除｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169311129688608768160973.jpeg/ldfFd7ThI8yM8WhLKi-f77LQNAnbkCovvszXAb7M1wE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383846/%E5%8A%89%E4%BA%A6%E8%8F%B239%E6%AD%B2%E7%94%9F%E6%97%A5%E5%85%AC%E4%B8%BBlook%E4%BB%99%E6%B0%A3%E9%80%BC%E4%BA%BA-%E5%94%90%E5%AB%A3%E9%80%A3%E7%BA%8C12%E5%B9%B4%E9%80%81%E7%A5%9D%E7%A6%8F%E9%96%A8%E5%AF%86%E6%83%85%E7%94%9C%E7%88%86",
     "timestamp": "2026-08-26T13:42:39.402Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國濟州張美蘭案：警指死因為縊死　謀殺機會低　韓教授提質疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168988930557612032971568.jpeg/ZsAD92YGgk-4Zp5Yvw-qHKz6XTzeG0Zvv7uctr-7nLY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383988/%E9%9F%93%E5%9C%8B%E6%BF%9F%E5%B7%9E%E5%BC%B5%E7%BE%8E%E8%98%AD%E6%A1%88-%E8%AD%A6%E6%8C%87%E6%AD%BB%E5%9B%A0%E7%82%BA%E7%B8%8A%E6%AD%BB-%E8%AC%80%E6%AE%BA%E6%A9%9F%E6%9C%83%E4%BD%8E-%E9%9F%93%E6%95%99%E6%8E%88%E6%8F%90%E8%B3%AA%E7%96%91",
-    "timestamp": "2026-08-26T13:12:50.339Z",
     "strategy": ".content-card__main"
   }
 ];
