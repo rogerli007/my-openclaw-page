@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-28T23:22:22.781Z
+// Last updated: 2026-08-28T23:43:46.574Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沃什忽然「變鷹」推升加息押注　現貨黃金急插逾3%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159337412988899328058314.jpeg/Th4jSuKIKPCtYXfanpA1J8Zj54yqg2-aj6Gz3o-hs94?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384793/%E6%B2%83%E4%BB%80%E5%BF%BD%E7%84%B6-%E8%AE%8A%E9%B7%B9-%E6%8E%A8%E5%8D%87%E5%8A%A0%E6%81%AF%E6%8A%BC%E6%B3%A8-%E7%8F%BE%E8%B2%A8%E9%BB%83%E9%87%91%E6%80%A5%E6%8F%92%E9%80%BE3",
+    "timestamp": "2026-08-28T23:43:46.574Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冤案實錄｜《重器》藍本佘祥林案謎團：無名女屍是誰？真兇是誰？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160113880261726208408376.jpeg/6d_RQIPSWPzi1vC9a9dLnCf46_E2bKTELM1sayzNbGs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384057/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E4%BD%88%E5%9C%8B%E5%AE%B6%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B%E7%A6%81%E9%83%A8%E5%88%86%E5%A4%96%E5%9C%8B%E9%9B%BB%E7%B6%B2%E8%A8%AD%E5%82%99-%E4%B8%AD%E5%9C%8B%E8%A3%BD%E9%80%A0%E5%95%86%E6%88%96%E5%8F%97%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-08-27T01:03:17.523Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜佐敦文景樓女子墮樓　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169550213031923712340765.jpeg/m6D2EGnLCgh_pIdIXVIwOt3oXtPNX_fnWtSVt1rUlbc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384046/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%BD%90%E6%95%A6%E6%96%87%E6%99%AF%E6%A8%93%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-08-26T23:47:23.233Z",
     "strategy": ".content-card__main"
   }
 ];
