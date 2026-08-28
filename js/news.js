@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-28T03:39:49.604Z
+// Last updated: 2026-08-28T06:24:19.778Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI泡沬論｜鎧俠和閃迪擬投資約310億美元　在日本擴記憶晶片產能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117796730738315264157806.png/e0hHCoWWHX6NxJmiHwGTTYGyg61pPPTqrU7PJq1OzyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384568/ai%E6%B3%A1%E6%B2%AC%E8%AB%96-%E9%8E%A7%E4%BF%A0%E5%92%8C%E9%96%83%E8%BF%AA%E6%93%AC%E6%8A%95%E8%B3%87%E7%B4%84310%E5%84%84%E7%BE%8E%E5%85%83-%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%93%B4%E8%A8%98%E6%86%B6%E6%99%B6%E7%89%87%E7%94%A2%E8%83%BD",
+    "timestamp": "2026-08-28T06:24:19.778Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜官方：暫停簽發往西藏日喀則市電子邊境管理區通行證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169414264419520512923081.jpeg/593JIyOZsAGmQcSZ_7Uc4MKNM60ksnbr4dZ-teHWfrU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384008/%E6%B5%B7%E9%97%9C%E7%A0%B4%E5%85%A9%E5%AE%97%E6%A9%9F%E5%A0%B4%E6%97%85%E5%AE%A2%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2-1500%E8%90%ACk%E4%BB%94-%E6%8B%983%E4%BA%BA%E5%8C%85%E6%8B%AC%E5%85%A9%E6%9C%AC%E5%9C%B0%E7%94%B7%E5%A5%B3",
     "timestamp": "2026-08-26T14:57:25.554Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不良一族尋愛記2｜伊藤美美菜登場太亮眼　網讚與彩朱同等級美貌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169319812942270464278049.png/rsgpDKEbFMm9pc_sAn9F8432z6Mo4CMyL5_RWS-f0Vk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383873/%E4%B8%8D%E8%89%AF%E4%B8%80%E6%97%8F%E5%B0%8B%E6%84%9B%E8%A8%982-%E4%BC%8A%E8%97%A4%E7%BE%8E%E7%BE%8E%E8%8F%9C%E7%99%BB%E5%A0%B4%E5%A4%AA%E4%BA%AE%E7%9C%BC-%E7%B6%B2%E8%AE%9A%E8%88%87%E5%BD%A9%E6%9C%B1%E5%90%8C%E7%AD%89%E7%B4%9A%E7%BE%8E%E8%B2%8C",
-    "timestamp": "2026-08-26T14:33:56.963Z",
     "strategy": ".content-card__main"
   }
 ];
