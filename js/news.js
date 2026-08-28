@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-28T22:40:23.174Z
+// Last updated: 2026-08-28T22:53:39.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英極右評論員被ICE拘留　曾倡超市設檢查站遣返移民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170257106104750080342068.png/ixkv5CLXHyiUjEOdLGQTB5miuwvQnSfDaaBW52mgVuc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384787/%E8%8B%B1%E6%A5%B5%E5%8F%B3%E8%A9%95%E8%AB%96%E5%93%A1%E8%A2%ABice%E6%8B%98%E7%95%99-%E6%9B%BE%E5%80%A1%E8%B6%85%E5%B8%82%E8%A8%AD%E6%AA%A2%E6%9F%A5%E7%AB%99%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91",
+    "timestamp": "2026-08-28T22:53:39.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英極右評論員被ICE拘留　曾倡超市設檢查站遣返移民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169402867606360064278614.jpeg/VzoMwiS4ab2iKyzpuCgcore7yGuEoqGYINv7BCDb-wQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383913/%E8%98%87%E6%B0%B8%E5%BA%B7%E4%BD%8E%E8%AA%BF%E5%BB%BA5%E9%96%93%E5%85%A7%E5%9C%B0%E5%B0%8F%E5%AD%B8-%E6%9B%BE%E6%96%A52830%E8%90%AC%E8%B2%B7%E5%8C%97%E8%A7%92%E5%8D%8A%E5%B1%B1%E8%B1%AA%E5%AE%85%E8%BA%AB%E5%AE%B6%E6%A5%B5%E8%B1%90%E5%8E%9A",
     "timestamp": "2026-08-26T22:33:38.163Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Nvidia次季營收按年翻倍勝預期　市後股價曾跌逾2%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250827/1037510484640796672136854.jpeg/7QilP7uT80Nrp457vOpDkQlaVLL3IDM7BdAKegXQCno?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384036/nvidia%E6%AC%A1%E5%AD%A3%E7%87%9F%E6%94%B6%E6%8C%89%E5%B9%B4%E7%BF%BB%E5%80%8D%E5%8B%9D%E9%A0%90%E6%9C%9F-%E5%B8%82%E5%BE%8C%E8%82%A1%E5%83%B9%E6%9B%BE%E8%B7%8C%E9%80%BE2",
-    "timestamp": "2026-08-26T21:26:33.106Z",
     "strategy": ".content-card__main"
   }
 ];
