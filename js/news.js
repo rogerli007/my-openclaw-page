@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-28T21:56:29.605Z
+// Last updated: 2026-08-28T22:26:08.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "反駁特朗普控制霍爾木茲海峽說法　伊朗軍方：未經協調禁止通過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147416586064236544284903.jpeg/8HWmDiKncuai10zwMfFVgdNTWeWtqjFE1nAPgdZwD4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384786/%E5%8F%8D%E9%A7%81%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A7%E5%88%B6%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%AA%AA%E6%B3%95-%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%9C%AA%E7%B6%93%E5%8D%94%E8%AA%BF%E7%A6%81%E6%AD%A2%E9%80%9A%E9%81%8E",
+    "timestamp": "2026-08-28T22:26:08.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國司法部修改聲明　稱政府機構被列為中國黑客攻擊目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169477133739757568530279.png/cWsdQvG-iDHuKjywrWnWodPSlFrX1Wv57QyrhO0Mq4Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384031/%E5%9C%9F%E8%80%B3%E5%85%B6%E6%BB%91%E7%BF%94%E5%82%98%E5%A2%9C%E5%B1%B1-%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E9%81%87%E9%9B%A3",
     "timestamp": "2026-08-26T19:43:40.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜水利部分析成因及隱患　四大銀行確保災區金融服務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169467674212700160572164.jpeg/ks2PfRF9XRxmLl7g3gsxUbPt2sAK4NTqGLqfJRi6nyU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384029/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%B0%B4%E5%88%A9%E9%83%A8%E5%88%86%E6%9E%90%E6%88%90%E5%9B%A0%E5%8F%8A%E9%9A%B1%E6%82%A3-%E5%9B%9B%E5%A4%A7%E9%8A%80%E8%A1%8C%E7%A2%BA%E4%BF%9D%E7%81%BD%E5%8D%80%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8B%99",
-    "timestamp": "2026-08-26T19:02:23.601Z",
     "strategy": ".content-card__main"
   }
 ];
