@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T06:56:39.078Z
+// Last updated: 2026-08-29T07:42:19.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女子凌晨送外賣被導航｢騙｣入深山　被狗追仍不放棄警花2小時救人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169613527267151872718302.jpeg/Rzk0RIApH28ZPm-yMOMvvgT7QSPtK8j8fdtYsX3bWLE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60384129/%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E9%80%81%E5%A4%96%E8%B3%A3%E8%A2%AB%E5%B0%8E%E8%88%AA-%E9%A8%99-%E5%85%A5%E6%B7%B1%E5%B1%B1-%E8%A2%AB%E7%8B%97%E8%BF%BD%E4%BB%8D%E4%B8%8D%E6%94%BE%E6%A3%84%E8%AD%A6%E8%8A%B12%E5%B0%8F%E6%99%82%E6%95%91%E4%BA%BA",
+    "timestamp": "2026-08-29T07:42:19.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國財政部擴大對伊朗制裁名單　香港公司入列",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170257106104750080342068.png/ixkv5CLXHyiUjEOdLGQTB5miuwvQnSfDaaBW52mgVuc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384787/%E8%8B%B1%E6%A5%B5%E5%8F%B3%E8%A9%95%E8%AB%96%E5%93%A1%E8%A2%ABice%E6%8B%98%E7%95%99-%E6%9B%BE%E5%80%A1%E8%B6%85%E5%B8%82%E8%A8%AD%E6%AA%A2%E6%9F%A5%E7%AB%99%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91",
     "timestamp": "2026-08-28T22:53:39.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英極右評論員被ICE拘留　曾倡超市設檢查站遣返移民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170257106104750080342068.png/ixkv5CLXHyiUjEOdLGQTB5miuwvQnSfDaaBW52mgVuc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384787/%E8%8B%B1%E6%A5%B5%E5%8F%B3%E8%A9%95%E8%AB%96%E5%93%A1%E8%A2%ABice%E6%8B%98%E7%95%99-%E6%9B%BE%E5%80%A1%E8%B6%85%E5%B8%82%E8%A8%AD%E6%AA%A2%E6%9F%A5%E7%AB%99%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91",
-    "timestamp": "2026-08-28T22:40:23.174Z",
     "strategy": ".content-card__main"
   }
 ];
