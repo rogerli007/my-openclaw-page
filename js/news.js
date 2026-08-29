@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T07:42:19.878Z
+// Last updated: 2026-08-29T07:54:10.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "訪莫斯科警告勿襲北約國家　美CIA局長剛離開　俄羅斯射洲際導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118005207951872000312846.jpeg/hFjX_UhK0sjIluQrTPI-dW8MsxLq9alE_qsNz_6rDc8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384861/%E8%A8%AA%E8%8E%AB%E6%96%AF%E7%A7%91%E8%AD%A6%E5%91%8A%E5%8B%BF%E8%A5%B2%E5%8C%97%E7%B4%84%E5%9C%8B%E5%AE%B6-%E7%BE%8Ecia%E5%B1%80%E9%95%B7%E5%89%9B%E9%9B%A2%E9%96%8B-%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%84%E6%B4%B2%E9%9A%9B%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-08-29T07:54:10.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女子凌晨送外賣被導航｢騙｣入深山　被狗追仍不放棄警花2小時救人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170213884020133888631584.png/-ikxq6PvxVqKESfp8yffGRvvAIq3l2IFWNt841jbfOM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60382409/%E5%86%A4%E6%A1%88%E5%AF%A6%E9%8C%84-%E9%87%8D%E5%99%A8-%E8%97%8D%E6%9C%AC%E4%BD%98%E7%A5%A5%E6%9E%97%E6%A1%88%E8%AC%8E%E5%9C%98-%E7%84%A1%E5%90%8D%E5%A5%B3%E5%B1%8D%E6%98%AF%E8%AA%B0-%E7%9C%9F%E5%85%87%E6%98%AF%E8%AA%B0",
     "timestamp": "2026-08-28T23:22:22.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英極右評論員被ICE拘留　曾倡超市設檢查站遣返移民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170257106104750080342068.png/ixkv5CLXHyiUjEOdLGQTB5miuwvQnSfDaaBW52mgVuc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384787/%E8%8B%B1%E6%A5%B5%E5%8F%B3%E8%A9%95%E8%AB%96%E5%93%A1%E8%A2%ABice%E6%8B%98%E7%95%99-%E6%9B%BE%E5%80%A1%E8%B6%85%E5%B8%82%E8%A8%AD%E6%AA%A2%E6%9F%A5%E7%AB%99%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91",
-    "timestamp": "2026-08-28T22:53:39.787Z",
     "strategy": ".content-card__main"
   }
 ];
