@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T15:40:55.975Z
+// Last updated: 2026-08-29T15:53:28.526Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慈雲山男子報案稱童黨燒死蛇　警到場發現蛇屍無燒過　證實誤會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170517077262340096428573.jpeg/FSSz8C0nqk-JGGjESx03cYKUcmcdJSh9TCorNHYqKzQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384925/%E6%85%88%E9%9B%B2%E5%B1%B1%E7%94%B7%E5%AD%90%E5%A0%B1%E6%A1%88%E7%A8%B1%E7%AB%A5%E9%BB%A8%E7%87%92%E6%AD%BB%E8%9B%87-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%99%BC%E7%8F%BE%E8%9B%87%E5%B1%8D%E7%84%A1%E7%87%92%E9%81%8E-%E8%AD%89%E5%AF%A6%E8%AA%A4%E6%9C%83",
+    "timestamp": "2026-08-29T15:53:28.526Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "106人困「煉獄車廂」活活燒死　使日本改善電車安全的櫻木町事故",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170411441941909504356280.png/f0D0tFoNVCUaz3W4zQR_SxvgLrxcbRlvqA-7jqgPu44?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384873/%E6%B8%AF%E5%A7%902026-2%E8%99%9F%E6%9D%8E%E6%BE%A4%E6%AC%A3%E8%A2%AB%E6%8C%87-%E7%BF%BB%E7%89%88%E6%9D%8E%E5%98%89%E6%AC%A3-%E4%B8%80%E4%B8%96%E9%83%BD%E5%94%94%E6%9C%83%E6%84%9F%E6%87%89%E5%88%B0",
     "timestamp": "2026-08-29T09:29:34.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大灣區12法律團體簽AI倡議　毛樂禮：AI僅屬輔助不可替代專業判斴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170418757059743744145269.jpeg/cr_eEssl8-Srv6DX5QKKaPdff7ivcP9Vq6wKNausCjU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60384877/%E5%A4%A7%E7%81%A3%E5%8D%8012%E6%B3%95%E5%BE%8B%E5%9C%98%E9%AB%94%E7%B0%BDai%E5%80%A1%E8%AD%B0-%E6%AF%9B%E6%A8%82%E7%A6%AE-ai%E5%83%85%E5%B1%AC%E8%BC%94%E5%8A%A9%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3%E5%B0%88%E6%A5%AD%E5%88%A4%E6%96%B4",
-    "timestamp": "2026-08-29T09:19:27.711Z",
     "strategy": ".content-card__main"
   }
 ];
