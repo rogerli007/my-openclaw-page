@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T09:29:34.576Z
+// Last updated: 2026-08-29T10:17:46.258Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "盂蘭節土瓜灣街坊燒街衣│女子嫌阻路咒罵：死咗7個老竇　全網怒轟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170421167488503808195243.png/MqfBjgxUSjfGotVFiqjNRZ-vud7rgGMBm7KKiZuyiok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384818/%E7%9B%82%E8%98%AD%E7%AF%80%E5%9C%9F%E7%93%9C%E7%81%A3%E8%A1%97%E5%9D%8A%E7%87%92%E8%A1%97%E8%A1%A3-%E5%A5%B3%E5%AD%90%E5%AB%8C%E9%98%BB%E8%B7%AF%E5%92%92%E7%BD%B5-%E6%AD%BB%E5%92%977%E5%80%8B%E8%80%81%E7%AB%87-%E5%85%A8%E7%B6%B2%E6%80%92%E8%BD%9F",
+    "timestamp": "2026-08-29T10:17:46.258Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港姐2026｜2號李澤欣被指「翻版李嘉欣」: 一世都唔會感應到",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169750388685934592089157.jpeg/5f5eccC5CJDBi2nQAthBtg76ylF13G4yo4C35aOAt-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384803/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E7%99%BB%E5%B1%B1%E5%9A%AE%E5%B0%8E%E8%87%A8%E5%8D%B1%E4%B8%8D%E4%BA%82%E6%95%9110%E4%BA%BA-%E5%8F%A6%E4%B8%80%E9%9A%8A%E6%8E%92%E9%9A%8A%E9%81%8E%E9%97%9C%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E",
     "timestamp": "2026-08-29T02:23:57.075Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "4個最不愛哭「硬骨頭」星座　如看到山羊座流淚代表他已接近崩潰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143537958511448064467321.jpeg/xhq42L7gCRGvYfmiXgSwILSJMkRtK9Xig0GekINBnpA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60291691/4%E5%80%8B%E6%9C%80%E4%B8%8D%E6%84%9B%E5%93%AD-%E7%A1%AC%E9%AA%A8%E9%A0%AD-%E6%98%9F%E5%BA%A7-%E5%A6%82%E7%9C%8B%E5%88%B0%E5%B1%B1%E7%BE%8A%E5%BA%A7%E6%B5%81%E6%B7%9A%E4%BB%A3%E8%A1%A8%E4%BB%96%E5%B7%B2%E6%8E%A5%E8%BF%91%E5%B4%A9%E6%BD%B0",
-    "timestamp": "2026-08-29T01:53:54.813Z",
     "strategy": ".content-card__main"
   }
 ];
