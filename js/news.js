@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T10:17:46.258Z
+// Last updated: 2026-08-29T10:29:15.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼泊爾山洪源頭？無人機拍下冰川崩塌一刻　英媒：與湧入方向吻合",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170436377741889536281590.png/_kKjHJ3AJSfo70jsCBocuoG9Fc5HqFbvZNkVJmTZFSY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384886/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA%E6%BA%90%E9%A0%AD-%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8B%8D%E4%B8%8B%E5%86%B0%E5%B7%9D%E5%B4%A9%E5%A1%8C%E4%B8%80%E5%88%BB-%E8%8B%B1%E5%AA%92-%E8%88%87%E6%B9%A7%E5%85%A5%E6%96%B9%E5%90%91%E5%90%BB%E5%90%88",
+    "timestamp": "2026-08-29T10:29:15.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "盂蘭節土瓜灣街坊燒街衣│女子嫌阻路咒罵：死咗7個老竇　全網怒轟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170318103771353088982460.jpeg/AqrTOU0V6PkaD8aqc6uyhiJ3TVfS9ntH3BnJd9wZyXc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60384774/%E8%8F%AF%E6%BD%A4%E5%8F%A1%E7%92%9Fi%E6%AC%A1%E8%BC%AA%E5%83%B9%E5%96%AE%E9%96%8B%E8%B3%A3133%E4%BC%99-%E7%99%BC%E5%B1%95%E5%95%86-%E5%A4%A7%E6%89%8B%E5%AE%A2%E6%96%99%E4%BD%94%E5%85%A9%E6%88%90",
     "timestamp": "2026-08-29T02:43:33.739Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜登山嚮導臨危不亂救10人　另一隊排隊過關下落不明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169750388685934592089157.jpeg/5f5eccC5CJDBi2nQAthBtg76ylF13G4yo4C35aOAt-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384803/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E7%99%BB%E5%B1%B1%E5%9A%AE%E5%B0%8E%E8%87%A8%E5%8D%B1%E4%B8%8D%E4%BA%82%E6%95%9110%E4%BA%BA-%E5%8F%A6%E4%B8%80%E9%9A%8A%E6%8E%92%E9%9A%8A%E9%81%8E%E9%97%9C%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E",
-    "timestamp": "2026-08-29T02:23:57.075Z",
     "strategy": ".content-card__main"
   }
 ];
