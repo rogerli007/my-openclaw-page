@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T04:21:23.812Z
+// Last updated: 2026-08-29T04:42:03.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "母親家中性交易10歲女童遭男子猥褻　台北市政府240天未安置惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251123/1069103294607003648819045.png/ouLKYBW5ID-ig5pxVJU0uPsJefi1DwGg_WIhEP1iIRA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60384807/%E6%AF%8D%E8%A6%AA%E5%AE%B6%E4%B8%AD%E6%80%A7%E4%BA%A4%E6%98%9310%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%94%B7%E5%AD%90%E7%8C%A5%E8%A4%BB-%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C240%E5%A4%A9%E6%9C%AA%E5%AE%89%E7%BD%AE%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-08-29T04:42:03.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜尼泊爾被指拒外援　外長：需專業技術支持非搜救援助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250924/1047472186895372288750926.jpeg/7zfor8H69KAKRsID3qmphJtu_a7fEjuwNLToYTS06GE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384437/%E5%90%B3%E6%B3%B3%E9%8A%98%E5%85%A5%E9%81%B8-%E6%99%82%E4%BB%A3-ai%E7%99%BE%E5%A4%A7%E4%BA%BA%E7%89%A9-%E9%A0%98%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AE%8C%E6%88%90%E9%87%8D%E8%A6%81%E8%BD%89%E5%9E%8B",
     "timestamp": "2026-08-28T00:46:17.310Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將特朗普比作希特勒　美國教育部發片後刪除｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169876897878773760523149.png/lF6nyjdBtxnZwGscRKiWoj5kM9O1oYW1nVElb51RJW8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384420/%E5%B0%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%AF%94%E4%BD%9C%E5%B8%8C%E7%89%B9%E5%8B%92-%E7%BE%8E%E5%9C%8B%E6%95%99%E8%82%B2%E9%83%A8%E7%99%BC%E7%89%87%E5%BE%8C%E5%88%AA%E9%99%A4-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-27T21:38:20.812Z",
     "strategy": ".content-card__main"
   }
 ];
