@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T08:54:13.427Z
+// Last updated: 2026-08-29T09:19:27.711Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大灣區12法律團體簽AI倡議　毛樂禮：AI僅屬輔助不可替代專業判斴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170418757059743744145269.jpeg/cr_eEssl8-Srv6DX5QKKaPdff7ivcP9Vq6wKNausCjU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60384877/%E5%A4%A7%E7%81%A3%E5%8D%8012%E6%B3%95%E5%BE%8B%E5%9C%98%E9%AB%94%E7%B0%BDai%E5%80%A1%E8%AD%B0-%E6%AF%9B%E6%A8%82%E7%A6%AE-ai%E5%83%85%E5%B1%AC%E8%BC%94%E5%8A%A9%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3%E5%B0%88%E6%A5%AD%E5%88%A4%E6%96%B4",
+    "timestamp": "2026-08-29T09:19:27.711Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "據報有8歲狗Baku被指屬格鬥狗　遭漁護署即場帶走調查、禁止探望",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170084567499935744953276.jpeg/ef9YSn2mRLEvW8zNIhagrYZsWnXkYpPF5NgQS-TYEEs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384187/%E6%9E%97%E6%BC%AA%E5%A8%B8%E7%BD%95%E8%AB%87%E8%88%87%E5%89%8D%E8%AD%A6%E5%8F%B8%E8%80%81%E5%85%AC%E7%9B%B8%E8%99%95-%E7%88%86%E5%B0%8D%E6%96%B9%E9%9B%B6%E6%B5%AA%E6%BC%AB%E7%94%9F%E6%97%A5%E5%8F%AB%E5%B7%A5%E4%BA%BA%E7%87%89%E8%8A%B1%E8%86%A0%E5%86%A7%E5%A6%BB",
     "timestamp": "2026-08-29T00:44:38.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沃什忽然「變鷹」推升加息押注　現貨黃金急插逾3%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159337412988899328058314.jpeg/Th4jSuKIKPCtYXfanpA1J8Zj54yqg2-aj6Gz3o-hs94?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384793/%E6%B2%83%E4%BB%80%E5%BF%BD%E7%84%B6-%E8%AE%8A%E9%B7%B9-%E6%8E%A8%E5%8D%87%E5%8A%A0%E6%81%AF%E6%8A%BC%E6%B3%A8-%E7%8F%BE%E8%B2%A8%E9%BB%83%E9%87%91%E6%80%A5%E6%8F%92%E9%80%BE3",
-    "timestamp": "2026-08-28T23:43:46.574Z",
     "strategy": ".content-card__main"
   }
 ];
