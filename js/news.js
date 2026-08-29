@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T06:48:20.570Z
+// Last updated: 2026-08-29T06:56:39.078Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國財政部擴大對伊朗制裁名單　香港公司入列",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250327/981725415435407360196845.jpeg/2UkFPI4Pxs4sbxBu5PYg4K1warHc8k_sfN_H23zfx9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384849/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E6%93%B4%E5%A4%A7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81%E5%90%8D%E5%96%AE-%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E5%85%A5%E5%88%97",
+    "timestamp": "2026-08-29T06:56:39.078Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國財政部擴大對伊朗制裁名單　香港公司入列",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170257106104750080342068.png/ixkv5CLXHyiUjEOdLGQTB5miuwvQnSfDaaBW52mgVuc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384787/%E8%8B%B1%E6%A5%B5%E5%8F%B3%E8%A9%95%E8%AB%96%E5%93%A1%E8%A2%ABice%E6%8B%98%E7%95%99-%E6%9B%BE%E5%80%A1%E8%B6%85%E5%B8%82%E8%A8%AD%E6%AA%A2%E6%9F%A5%E7%AB%99%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91",
     "timestamp": "2026-08-28T22:40:23.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "反駁特朗普控制霍爾木茲海峽說法　伊朗軍方：未經協調禁止通過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147416586064236544284903.jpeg/8HWmDiKncuai10zwMfFVgdNTWeWtqjFE1nAPgdZwD4E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384786/%E5%8F%8D%E9%A7%81%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A7%E5%88%B6%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%AA%AA%E6%B3%95-%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%9C%AA%E7%B6%93%E5%8D%94%E8%AA%BF%E7%A6%81%E6%AD%A2%E9%80%9A%E9%81%8E",
-    "timestamp": "2026-08-28T22:26:08.894Z",
     "strategy": ".content-card__main"
   }
 ];
