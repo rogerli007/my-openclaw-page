@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T16:30:35.677Z
+// Last updated: 2026-08-29T16:41:42.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩金多寶9.5頭獎2.28億｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170523917610127360179524.jpeg/CFRQxbPE6zw-ZPNwnZ7NDvV4zrzV0hgN7ortHO6K7Rw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384930/%E5%85%AD%E5%90%88%E5%BD%A9%E9%87%91%E5%A4%9A%E5%AF%B69-5%E9%A0%AD%E7%8D%8E2-28%E5%84%84-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-08-29T16:41:42.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩金多寶9.5頭獎2.28億｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170436377741889536281590.png/_kKjHJ3AJSfo70jsCBocuoG9Fc5HqFbvZNkVJmTZFSY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384886/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA%E6%BA%90%E9%A0%AD-%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8B%8D%E4%B8%8B%E5%86%B0%E5%B7%9D%E5%B4%A9%E5%A1%8C%E4%B8%80%E5%88%BB-%E8%8B%B1%E5%AA%92-%E8%88%87%E6%B9%A7%E5%85%A5%E6%96%B9%E5%90%91%E5%90%BB%E5%90%88",
     "timestamp": "2026-08-29T10:29:15.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "盂蘭節土瓜灣街坊燒街衣│女子嫌阻路咒罵：死咗7個老竇　全網怒轟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170421167488503808195243.png/MqfBjgxUSjfGotVFiqjNRZ-vud7rgGMBm7KKiZuyiok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384818/%E7%9B%82%E8%98%AD%E7%AF%80%E5%9C%9F%E7%93%9C%E7%81%A3%E8%A1%97%E5%9D%8A%E7%87%92%E8%A1%97%E8%A1%A3-%E5%A5%B3%E5%AD%90%E5%AB%8C%E9%98%BB%E8%B7%AF%E5%92%92%E7%BD%B5-%E6%AD%BB%E5%92%977%E5%80%8B%E8%80%81%E7%AB%87-%E5%85%A8%E7%B6%B2%E6%80%92%E8%BD%9F",
-    "timestamp": "2026-08-29T10:17:46.258Z",
     "strategy": ".content-card__main"
   }
 ];
