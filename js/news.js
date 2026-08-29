@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T09:19:27.711Z
+// Last updated: 2026-08-29T09:29:34.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港姐2026｜2號李澤欣被指「翻版李嘉欣」: 一世都唔會感應到",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170411441941909504356280.png/f0D0tFoNVCUaz3W4zQR_SxvgLrxcbRlvqA-7jqgPu44?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384873/%E6%B8%AF%E5%A7%902026-2%E8%99%9F%E6%9D%8E%E6%BE%A4%E6%AC%A3%E8%A2%AB%E6%8C%87-%E7%BF%BB%E7%89%88%E6%9D%8E%E5%98%89%E6%AC%A3-%E4%B8%80%E4%B8%96%E9%83%BD%E5%94%94%E6%9C%83%E6%84%9F%E6%87%89%E5%88%B0",
+    "timestamp": "2026-08-29T09:29:34.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大灣區12法律團體簽AI倡議　毛樂禮：AI僅屬輔助不可替代專業判斴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143537958511448064467321.jpeg/xhq42L7gCRGvYfmiXgSwILSJMkRtK9Xig0GekINBnpA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60291691/4%E5%80%8B%E6%9C%80%E4%B8%8D%E6%84%9B%E5%93%AD-%E7%A1%AC%E9%AA%A8%E9%A0%AD-%E6%98%9F%E5%BA%A7-%E5%A6%82%E7%9C%8B%E5%88%B0%E5%B1%B1%E7%BE%8A%E5%BA%A7%E6%B5%81%E6%B7%9A%E4%BB%A3%E8%A1%A8%E4%BB%96%E5%B7%B2%E6%8E%A5%E8%BF%91%E5%B4%A9%E6%BD%B0",
     "timestamp": "2026-08-29T01:53:54.813Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林漪娸罕談與前警司老公相處　爆對方零浪漫生日叫工人燉花膠冧妻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170084567499935744953276.jpeg/ef9YSn2mRLEvW8zNIhagrYZsWnXkYpPF5NgQS-TYEEs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384187/%E6%9E%97%E6%BC%AA%E5%A8%B8%E7%BD%95%E8%AB%87%E8%88%87%E5%89%8D%E8%AD%A6%E5%8F%B8%E8%80%81%E5%85%AC%E7%9B%B8%E8%99%95-%E7%88%86%E5%B0%8D%E6%96%B9%E9%9B%B6%E6%B5%AA%E6%BC%AB%E7%94%9F%E6%97%A5%E5%8F%AB%E5%B7%A5%E4%BA%BA%E7%87%89%E8%8A%B1%E8%86%A0%E5%86%A7%E5%A6%BB",
-    "timestamp": "2026-08-29T00:44:38.001Z",
     "strategy": ".content-card__main"
   }
 ];
