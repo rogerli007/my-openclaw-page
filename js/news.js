@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T21:17:04.727Z
+// Last updated: 2026-08-29T21:27:47.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗錦綉花園獨立屋遭爆竊　49歲男損失戒指和玉鐲　共值$30萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170593381793927168076391.jpeg/DklX7VheOVb1npomLcp5l94JKZUUUibVNcPEdA_DxHQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384948/%E5%85%83%E6%9C%97%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%92%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-49%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1%E6%88%92%E6%8C%87%E5%92%8C%E7%8E%89%E9%90%B2-%E5%85%B1%E5%80%BC-30%E8%90%AC",
+    "timestamp": "2026-08-29T21:27:47.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗錦綉花園獨立屋遭爆竊　49歲男損失戒指和玉鐲　共值$30萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159845033059291136846192.jpeg/qXHDzpd9rX7h0dS6yyfUBqKYHavx_uvakYagJPuGoCQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60284089/106%E4%BA%BA%E5%9B%B0-%E7%85%89%E7%8D%84%E8%BB%8A%E5%BB%82-%E6%B4%BB%E6%B4%BB%E7%87%92%E6%AD%BB-%E4%BD%BF%E6%97%A5%E6%9C%AC%E6%94%B9%E5%96%84%E9%9B%BB%E8%BB%8A%E5%AE%89%E5%85%A8%E7%9A%84%E6%AB%BB%E6%9C%A8%E7%94%BA%E4%BA%8B%E6%95%85",
     "timestamp": "2026-08-29T15:40:55.975Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東涌東站地盤唧車撞冧磚牆　磚塊墮下層　港鐵：暫停涉事範圍工程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170507104872566784409625.jpeg/6qUqRB62bqnU_J-DSrvm5WT25-Z1GKnIElqJBBJaiQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384924/%E6%9D%B1%E6%B6%8C%E6%9D%B1%E7%AB%99%E5%9C%B0%E7%9B%A4%E5%94%A7%E8%BB%8A%E6%92%9E%E5%86%A7%E7%A3%9A%E7%89%86-%E7%A3%9A%E5%A1%8A%E5%A2%AE%E4%B8%8B%E5%B1%A4-%E6%B8%AF%E9%90%B5-%E6%9A%AB%E5%81%9C%E6%B6%89%E4%BA%8B%E7%AF%84%E5%9C%8D%E5%B7%A5%E7%A8%8B",
-    "timestamp": "2026-08-29T15:18:02.132Z",
     "strategy": ".content-card__main"
   }
 ];
