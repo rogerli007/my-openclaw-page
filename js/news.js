@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T07:54:10.516Z
+// Last updated: 2026-08-29T08:54:13.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "據報有8歲狗Baku被指屬格鬥狗　遭漁護署即場帶走調查、禁止探望",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170413031377604608704139.jpeg/XoYMSlo8zUHToHMTgN8pnHAppVFBZIznjRqGPY0ahj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60384847/%E6%93%9A%E5%A0%B1%E6%9C%898%E6%AD%B2%E7%8B%97baku%E8%A2%AB%E6%8C%87%E5%B1%AC%E6%A0%BC%E9%AC%A5%E7%8B%97-%E9%81%AD%E6%BC%81%E8%AD%B7%E7%BD%B2%E5%8D%B3%E5%A0%B4%E5%B8%B6%E8%B5%B0%E8%AA%BF%E6%9F%A5-%E7%A6%81%E6%AD%A2%E6%8E%A2%E6%9C%9B",
+    "timestamp": "2026-08-29T08:54:13.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "訪莫斯科警告勿襲北約國家　美CIA局長剛離開　俄羅斯射洲際導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159337412988899328058314.jpeg/Th4jSuKIKPCtYXfanpA1J8Zj54yqg2-aj6Gz3o-hs94?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384793/%E6%B2%83%E4%BB%80%E5%BF%BD%E7%84%B6-%E8%AE%8A%E9%B7%B9-%E6%8E%A8%E5%8D%87%E5%8A%A0%E6%81%AF%E6%8A%BC%E6%B3%A8-%E7%8F%BE%E8%B2%A8%E9%BB%83%E9%87%91%E6%80%A5%E6%8F%92%E9%80%BE3",
     "timestamp": "2026-08-28T23:43:46.574Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冤案實錄｜《重器》藍本佘祥林案謎團：無名女屍是誰？真兇是誰？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170213884020133888631584.png/-ikxq6PvxVqKESfp8yffGRvvAIq3l2IFWNt841jbfOM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60382409/%E5%86%A4%E6%A1%88%E5%AF%A6%E9%8C%84-%E9%87%8D%E5%99%A8-%E8%97%8D%E6%9C%AC%E4%BD%98%E7%A5%A5%E6%9E%97%E6%A1%88%E8%AC%8E%E5%9C%98-%E7%84%A1%E5%90%8D%E5%A5%B3%E5%B1%8D%E6%98%AF%E8%AA%B0-%E7%9C%9F%E5%85%87%E6%98%AF%E8%AA%B0",
-    "timestamp": "2026-08-28T23:22:22.781Z",
     "strategy": ".content-card__main"
   }
 ];
