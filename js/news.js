@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T06:28:07.894Z
+// Last updated: 2026-08-29T06:48:20.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國財政部擴大對伊朗制裁名單　香港公司入列",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250327/981725415435407360196845.jpeg/2UkFPI4Pxs4sbxBu5PYg4K1warHc8k_sfN_H23zfx9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384849/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E6%93%B4%E5%A4%A7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81%E5%90%8D%E5%96%AE-%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E5%85%A5%E5%88%97",
+    "timestamp": "2026-08-29T06:48:20.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜內地高壓嚴打王星案，香港拐賣人口仍陷「無罪可定」？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260627/1147416586064236544284903.jpeg/8HWmDiKncuai10zwMfFVgdNTWeWtqjFE1nAPgdZwD4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384786/%E5%8F%8D%E9%A7%81%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A7%E5%88%B6%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%AA%AA%E6%B3%95-%E4%BC%8A%E6%9C%97%E8%BB%8D%E6%96%B9-%E6%9C%AA%E7%B6%93%E5%8D%94%E8%AA%BF%E7%A6%81%E6%AD%A2%E9%80%9A%E9%81%8E",
     "timestamp": "2026-08-28T22:26:08.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國司法部修改聲明　稱政府機構被列為中國黑客攻擊目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136747476175294464729608.jpeg/qdbr8S5WvMmcMoIPJf-ukMsc4FjQgHCM-FrUkfha1JE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384784/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E4%BF%AE%E6%94%B9%E8%81%B2%E6%98%8E-%E7%A8%B1%E6%94%BF%E5%BA%9C%E6%A9%9F%E6%A7%8B%E8%A2%AB%E5%88%97%E7%82%BA%E4%B8%AD%E5%9C%8B%E9%BB%91%E5%AE%A2%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-08-28T21:56:29.605Z",
     "strategy": ".content-card__main"
   }
 ];
