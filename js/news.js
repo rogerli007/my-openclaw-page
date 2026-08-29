@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T22:22:27.373Z
+// Last updated: 2026-08-29T22:29:22.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜部分地區驟雨較多及有雷暴　日間最高氣溫約31度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170616627004182528904573.jpeg/7S15y91j6R_d3D2RdMaqJeM3c3wUh13ljR4TJrceEyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60384950/%E5%A4%A9%E6%B0%A3-%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8431%E5%BA%A6",
+    "timestamp": "2026-08-29T22:29:22.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秀茂坪七人車「自炒」　掃毀安全島鐵欄　司機蹤杳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170523917610127360179524.jpeg/CFRQxbPE6zw-ZPNwnZ7NDvV4zrzV0hgN7ortHO6K7Rw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384930/%E5%85%AD%E5%90%88%E5%BD%A9%E9%87%91%E5%A4%9A%E5%AF%B69-5%E9%A0%AD%E7%8D%8E2-28%E5%84%84-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-08-29T16:41:42.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩金多寶9.5頭獎2.28億｜6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170523917610127360179524.jpeg/CFRQxbPE6zw-ZPNwnZ7NDvV4zrzV0hgN7ortHO6K7Rw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384930/%E5%85%AD%E5%90%88%E5%BD%A9%E9%87%91%E5%A4%9A%E5%AF%B69-5%E9%A0%AD%E7%8D%8E2-28%E5%84%84-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-08-29T16:30:35.677Z",
     "strategy": ".content-card__main"
   }
 ];
