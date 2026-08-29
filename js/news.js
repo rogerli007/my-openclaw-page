@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T23:45:16.159Z
+// Last updated: 2026-08-29T23:53:28.290Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼日爾兵變襲擊總統府及機場　首都對峙局勢未明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170637432366829568042917.png/6pw31cmaY1Aw9nmLVLYggz-HWcSJ25jxRKH510Sh-dc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384955/%E5%B0%BC%E6%97%A5%E7%88%BE%E5%85%B5%E8%AE%8A%E8%A5%B2%E6%93%8A%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%8F%8A%E6%A9%9F%E5%A0%B4-%E9%A6%96%E9%83%BD%E5%B0%8D%E5%B3%99%E5%B1%80%E5%8B%A2%E6%9C%AA%E6%98%8E",
+    "timestamp": "2026-08-29T23:53:28.290Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大持刀男闖麥當勞　遭勇男奪刀壓制　逃出店外圖搶警車遭擊斃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170551129172348928176925.jpeg/oOe_UJxIDFvKXZZ7y0R7FYde5tt3oesvtHay67R2sus?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384935/%E8%A5%BF%E7%92%B0%E8%80%81%E7%BF%81%E7%96%91%E7%84%A1%E7%89%BD%E7%B9%A9%E6%94%BE%E7%8B%97%E5%92%AC%E5%82%B7%E4%BA%BA-5%E6%97%A5%E5%BE%8C%E5%86%8D%E7%84%A1%E6%88%B4%E7%8B%97%E7%B9%A9%E9%81%9B%E7%8B%97-%E7%9B%AE%E6%93%8A%E8%80%85%E5%A0%B1%E6%A1%88",
     "timestamp": "2026-08-29T18:22:10.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "早春晴朗線上看劇情｜最新追劇日曆/更新時間+演員關係圖+簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167575404999872512802169.jpeg/UqSgRYmXnJSIuk0BuvOKA7lK_pRP7MHSvA2msbwNprE?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382498/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-08-29T17:53:24.827Z",
     "strategy": ".content-card__main"
   }
 ];
