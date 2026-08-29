@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T16:41:42.450Z
+// Last updated: 2026-08-29T16:53:23.574Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭桂坊MMA．有片｜眾男倒地混戰纏鬥　起飛腳幫拖　途人嚇到四散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170531764544737280035429.jpeg/3OYFuz1jf1ubAUJBW2stYtBZbwsc4fZW6Qm8wukJvMI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384929/%E8%98%AD%E6%A1%82%E5%9D%8Amma-%E6%9C%89%E7%89%87-%E7%9C%BE%E7%94%B7%E5%80%92%E5%9C%B0%E6%B7%B7%E6%88%B0%E7%BA%8F%E9%AC%A5-%E8%B5%B7%E9%A3%9B%E8%85%B3%E5%B9%AB%E6%8B%96-%E9%80%94%E4%BA%BA%E5%9A%87%E5%88%B0%E5%9B%9B%E6%95%A3",
+    "timestamp": "2026-08-29T16:53:23.574Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩金多寶9.5頭獎2.28億｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170434041615224832728361.png/20qEoepjNzZpHWu-MZhac0c0pf6Lb_fMGdyy9BncsvQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384885/%E9%BB%83%E5%BB%BA%E6%9D%B1%E5%AD%96%E6%B8%AF%E5%A7%90%E4%BA%9E%E8%BB%8D%E5%90%8C%E8%A1%8C-%E8%88%87%E7%BE%85%E5%A4%A9%E5%AE%87%E9%99%B3%E6%87%BF%E5%BE%B7%E7%96%91double-dating%E9%97%9C%E4%BF%82%E5%BE%AE%E5%A6%99",
     "timestamp": "2026-08-29T10:43:44.751Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾山洪源頭？無人機拍下冰川崩塌一刻　英媒：與湧入方向吻合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170436377741889536281590.png/_kKjHJ3AJSfo70jsCBocuoG9Fc5HqFbvZNkVJmTZFSY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384886/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA%E6%BA%90%E9%A0%AD-%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8B%8D%E4%B8%8B%E5%86%B0%E5%B7%9D%E5%B4%A9%E5%A1%8C%E4%B8%80%E5%88%BB-%E8%8B%B1%E5%AA%92-%E8%88%87%E6%B9%A7%E5%85%A5%E6%96%B9%E5%90%91%E5%90%BB%E5%90%88",
-    "timestamp": "2026-08-29T10:29:15.904Z",
     "strategy": ".content-card__main"
   }
 ];
