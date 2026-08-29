@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T01:53:54.813Z
+// Last updated: 2026-08-29T02:23:57.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜登山嚮導臨危不亂救10人　另一隊排隊過關下落不明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169750388685934592089157.jpeg/5f5eccC5CJDBi2nQAthBtg76ylF13G4yo4C35aOAt-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384803/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E7%99%BB%E5%B1%B1%E5%9A%AE%E5%B0%8E%E8%87%A8%E5%8D%B1%E4%B8%8D%E4%BA%82%E6%95%9110%E4%BA%BA-%E5%8F%A6%E4%B8%80%E9%9A%8A%E6%8E%92%E9%9A%8A%E9%81%8E%E9%97%9C%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E",
+    "timestamp": "2026-08-29T02:23:57.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "4個最不愛哭「硬骨頭」星座　如看到山羊座流淚代表他已接近崩潰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169644376888971264763840.jpeg/KvMQ2t3Z4tDZuts1ga8dDO5zxncRY6Lcanh7Lmp4ey4",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384183/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%85%A7%E5%9C%B0%E5%B0%88%E5%AE%B6%E6%8E%A8%E6%96%B7%E5%8E%9F%E5%9B%A0-%E9%AB%98%E4%BD%8D%E5%86%B0%E5%B2%A9%E5%B4%A9%E5%A1%8C%E8%A1%9D%E4%B8%8B%E7%8B%B9%E7%AA%84%E6%B2%B3%E8%B0%B7%E8%87%B4%E7%A6%8D",
     "timestamp": "2026-08-27T07:15:31.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TXT演唱會2027香港｜門票優先/公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169609193330577408986170.jpeg/oQ13gUi-8Yt4HV65SNNifw_n1FThT2IjQjQkMUI0JDE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60384132/txt%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-08-27T04:38:37.286Z",
     "strategy": ".content-card__main"
   }
 ];
