@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T10:43:44.751Z
+// Last updated: 2026-08-29T10:54:09.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃建東孖港姐亞軍同行　與羅天宇陳懿德疑Double Dating關係微妙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170434041615224832728361.png/20qEoepjNzZpHWu-MZhac0c0pf6Lb_fMGdyy9BncsvQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384885/%E9%BB%83%E5%BB%BA%E6%9D%B1%E5%AD%96%E6%B8%AF%E5%A7%90%E4%BA%9E%E8%BB%8D%E5%90%8C%E8%A1%8C-%E8%88%87%E7%BE%85%E5%A4%A9%E5%AE%87%E9%99%B3%E6%87%BF%E5%BE%B7%E7%96%91double-dating%E9%97%9C%E4%BF%82%E5%BE%AE%E5%A6%99",
+    "timestamp": "2026-08-29T10:54:09.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃建東孖港姐亞軍同行　與羅天宇陳懿德疑Double Dating關係微妙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162443624865075200423785.png/QSbk7K9LjsZRgwdkL6f6ohyE6QWOO5lsNcyGGjXMhho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60376046/%E8%85%95%E9%8C%B6-%E6%8E%A840-%E5%A5%B3%E6%80%A7%E6%9C%80%E5%96%9C%E6%84%9B11%E5%A4%A7%E5%93%81%E7%89%8C-%E5%B0%8D%E7%85%A7%E5%80%8B%E6%80%A7%E9%81%B8cartier-rolex%E5%91%BD%E5%AE%9A%E6%AC%BE",
     "timestamp": "2026-08-29T03:53:24.856Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒曝赫格塞思有意2028年競選總統　五角大樓否認：愚蠢的猜測",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170325957647536128285439.jpeg/pnJpg2hN1yqFB3qNgK1R7eCjULo8BcC6T36CLk9-gi4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384823/%E7%BE%8E%E5%AA%92%E6%9B%9D%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E6%9C%89%E6%84%8F2028%E5%B9%B4%E7%AB%B6%E9%81%B8%E7%B8%BD%E7%B5%B1-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A8%93%E5%90%A6%E8%AA%8D-%E6%84%9A%E8%A0%A2%E7%9A%84%E7%8C%9C%E6%B8%AC",
-    "timestamp": "2026-08-29T03:21:46.244Z",
     "strategy": ".content-card__main"
   }
 ];
