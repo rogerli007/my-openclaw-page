@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T14:18:04.853Z
+// Last updated: 2026-08-29T14:28:22.079Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "錦田公路薄餅店內電動滑板車起火　消防迅速救熄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170492479229661184120497.png/Zop_-OCaG1_bSlckJZPF-XBZve0vT6dGBVZ9MwVWfTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384919/%E9%8C%A6%E7%94%B0%E5%85%AC%E8%B7%AF%E8%96%84%E9%A4%85%E5%BA%97%E5%85%A7%E9%9B%BB%E5%8B%95%E6%BB%91%E6%9D%BF%E8%BB%8A%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%BF%85%E9%80%9F%E6%95%91%E7%86%84",
+    "timestamp": "2026-08-29T14:28:22.079Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜利物浦主場迫和森林　開季連續兩場失分未開勝門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169613527267151872718302.jpeg/Rzk0RIApH28ZPm-yMOMvvgT7QSPtK8j8fdtYsX3bWLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60384129/%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E9%80%81%E5%A4%96%E8%B3%A3%E8%A2%AB%E5%B0%8E%E8%88%AA-%E9%A8%99-%E5%85%A5%E6%B7%B1%E5%B1%B1-%E8%A2%AB%E7%8B%97%E8%BF%BD%E4%BB%8D%E4%B8%8D%E6%94%BE%E6%A3%84%E8%AD%A6%E8%8A%B12%E5%B0%8F%E6%99%82%E6%95%91%E4%BA%BA",
     "timestamp": "2026-08-29T07:42:19.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國財政部擴大對伊朗制裁名單　香港公司入列",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250327/981725415435407360196845.jpeg/2UkFPI4Pxs4sbxBu5PYg4K1warHc8k_sfN_H23zfx9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384849/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E6%93%B4%E5%A4%A7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81%E5%90%8D%E5%96%AE-%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E5%85%A5%E5%88%97",
-    "timestamp": "2026-08-29T06:56:39.078Z",
     "strategy": ".content-card__main"
   }
 ];
