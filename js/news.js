@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T12:26:02.449Z
+// Last updated: 2026-08-29T12:44:35.574Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "孫宇晨《我的女友景甜》原文｜五千萬美元代孕背景、交往細節一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170129610550022144679541.png/O20eKynqayibot7MkUAwfxPFWEedGvQr9coXlvXKF5Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384746/%E5%AD%AB%E5%AE%87%E6%99%A8-%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%99%AF%E7%94%9C-%E5%8E%9F%E6%96%87-%E4%BA%94%E5%8D%83%E8%90%AC%E7%BE%8E%E5%85%83%E4%BB%A3%E5%AD%95%E8%83%8C%E6%99%AF-%E4%BA%A4%E5%BE%80%E7%B4%B0%E7%AF%80%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-08-29T12:44:35.574Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "YT周殷廷紅館開騷大騷深V胸肌　合唱Tyson Yoshi掀高潮送模型車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170360569543266304167593.png/lWDaW3JMseSJ4XWvqqr67KtADioomfnSXkTI915EyPc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60384839/%E7%8F%BE%E5%A0%B4%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89-%E7%A6%8F%E5%BB%BA%E6%B5%B7%E8%AD%A6%E5%9C%A8%E9%87%91%E9%96%80%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E9%96%8B%E5%B1%95%E5%B8%B8%E6%85%8B%E5%9F%B7%E6%B3%95%E5%B7%A1%E6%9F%A5",
     "timestamp": "2026-08-29T05:30:12.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《時代》2026年百大AI人物　馬斯克、奧特曼上榜　黃仁勳未入列",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170355488433377280542036.png/j4_HmOmgkvEZq450gEu65c6BtVHl7oSzuOCN8rjgjfI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384838/%E6%99%82%E4%BB%A3-2026%E5%B9%B4%E7%99%BE%E5%A4%A7ai%E4%BA%BA%E7%89%A9-%E9%A6%AC%E6%96%AF%E5%85%8B-%E5%A5%A7%E7%89%B9%E6%9B%BC%E4%B8%8A%E6%A6%9C-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9C%AA%E5%85%A5%E5%88%97",
-    "timestamp": "2026-08-29T05:18:44.167Z",
     "strategy": ".content-card__main"
   }
 ];
