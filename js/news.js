@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T05:18:44.167Z
+// Last updated: 2026-08-29T05:30:12.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "現場畫面曝光　福建海警在金門附近海域開展常態執法巡查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170360569543266304167593.png/lWDaW3JMseSJ4XWvqqr67KtADioomfnSXkTI915EyPc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60384839/%E7%8F%BE%E5%A0%B4%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89-%E7%A6%8F%E5%BB%BA%E6%B5%B7%E8%AD%A6%E5%9C%A8%E9%87%91%E9%96%80%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E9%96%8B%E5%B1%95%E5%B8%B8%E6%85%8B%E5%9F%B7%E6%B3%95%E5%B7%A1%E6%9F%A5",
+    "timestamp": "2026-08-29T05:30:12.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《時代》2026年百大AI人物　馬斯克、奧特曼上榜　黃仁勳未入列",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170055490776862720973654.jpeg/c4_DWHXkIZ6RUlPBSSZmDAxxzxuKXbHCYNTwoGDU8KA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384673/%E5%8F%97%E8%B3%84%E4%BA%BA%E6%B0%91%E5%B9%A37-46%E5%84%84%E9%A4%98%E5%85%83-%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%E5%89%8D%E6%9B%B8%E8%A8%98%E8%94%A3%E8%B6%85%E8%89%AF%E4%B8%80%E5%AF%A9%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%B7%A9",
     "timestamp": "2026-08-28T09:53:56.636Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI泡沬論｜鎧俠和閃迪擬投資約310億美元　在日本擴記憶晶片產能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117796730738315264157806.png/e0hHCoWWHX6NxJmiHwGTTYGyg61pPPTqrU7PJq1OzyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384568/ai%E6%B3%A1%E6%B2%AC%E8%AB%96-%E9%8E%A7%E4%BF%A0%E5%92%8C%E9%96%83%E8%BF%AA%E6%93%AC%E6%8A%95%E8%B3%87%E7%B4%84310%E5%84%84%E7%BE%8E%E5%85%83-%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%93%B4%E8%A8%98%E6%86%B6%E6%99%B6%E7%89%87%E7%94%A2%E8%83%BD",
-    "timestamp": "2026-08-28T06:24:19.778Z",
     "strategy": ".content-card__main"
   }
 ];
