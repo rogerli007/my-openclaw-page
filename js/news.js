@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T11:53:40.724Z
+// Last updated: 2026-08-29T12:26:02.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "YT周殷廷紅館開騷大騷深V胸肌　合唱Tyson Yoshi掀高潮送模型車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170421755588644864039824.jpeg/cCho6R3vqr23PdzOXNop2lKxeeemlIJ40d3Iq9HdyKs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60384879/yt%E5%91%A8%E6%AE%B7%E5%BB%B7%E7%B4%85%E9%A4%A8%E9%96%8B%E9%A8%B7%E5%A4%A7%E9%A8%B7%E6%B7%B1v%E8%83%B8%E8%82%8C-%E5%90%88%E5%94%B1tyson-yoshi%E6%8E%80%E9%AB%98%E6%BD%AE%E9%80%81%E6%A8%A1%E5%9E%8B%E8%BB%8A",
+    "timestamp": "2026-08-29T12:26:02.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈里一家返英傳因梅根復出拍《瘋狂紳士幫》　英媒：難找合適角色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170355488433377280542036.png/j4_HmOmgkvEZq450gEu65c6BtVHl7oSzuOCN8rjgjfI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384838/%E6%99%82%E4%BB%A3-2026%E5%B9%B4%E7%99%BE%E5%A4%A7ai%E4%BA%BA%E7%89%A9-%E9%A6%AC%E6%96%AF%E5%85%8B-%E5%A5%A7%E7%89%B9%E6%9B%BC%E4%B8%8A%E6%A6%9C-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9C%AA%E5%85%A5%E5%88%97",
     "timestamp": "2026-08-29T05:18:44.167Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜大埔浸信會公立學校新校舍開幕　新學年全面恢復運作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170342617070702592213796.jpeg/4xuMIZ5U-fyNz0DNH0aeQHi9D3Qyfr57I_yR3yP8kd8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60384836/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%A7%E5%9F%94%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1%E6%96%B0%E6%A0%A1%E8%88%8D%E9%96%8B%E5%B9%95-%E6%96%B0%E5%AD%B8%E5%B9%B4%E5%85%A8%E9%9D%A2%E6%81%A2%E5%BE%A9%E9%81%8B%E4%BD%9C",
-    "timestamp": "2026-08-29T04:53:38.353Z",
     "strategy": ".content-card__main"
   }
 ];
