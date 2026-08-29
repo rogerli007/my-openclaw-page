@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T03:21:46.244Z
+// Last updated: 2026-08-29T03:53:24.856Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "腕錶｜推40+女性最喜愛11大品牌　對照個性選Cartier/Rolex命定款",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162443624865075200423785.png/QSbk7K9LjsZRgwdkL6f6ohyE6QWOO5lsNcyGGjXMhho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60376046/%E8%85%95%E9%8C%B6-%E6%8E%A840-%E5%A5%B3%E6%80%A7%E6%9C%80%E5%96%9C%E6%84%9B11%E5%A4%A7%E5%93%81%E7%89%8C-%E5%B0%8D%E7%85%A7%E5%80%8B%E6%80%A7%E9%81%B8cartier-rolex%E5%91%BD%E5%AE%9A%E6%AC%BE",
+    "timestamp": "2026-08-29T03:53:24.856Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒曝赫格塞思有意2028年競選總統　五角大樓否認：愚蠢的猜測",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169597662249357312098572.jpeg/JkJgAUNjGL5lmqzcx7H58K9syVVbfZTh_l3k1_5d5Nc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60384093/%E8%8B%B1%E8%B6%85%E7%89%B9%E6%94%BB-%E6%9B%BC%E8%81%AF%E7%8B%82%E9%A2%A8%E6%8E%83%E8%90%BD-%E8%91%89-%E5%8A%9B%E7%88%AD%E9%A6%96%E5%8B%9D",
     "timestamp": "2026-08-27T18:19:33.326Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德媒：德國柏林附近學校發生襲擊案2死　警拘一疑犯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162493534796779520605173.jpeg/7TAuThlc83jitEiVkNwsNW73ENQDaQ6RIk4qOyJOKjs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384390/%E5%BE%B7%E5%AA%92-%E5%BE%B7%E5%9C%8B%E6%9F%8F%E6%9E%97%E9%99%84%E8%BF%91%E5%AD%B8%E6%A0%A1%E7%99%BC%E7%94%9F%E8%A5%B2%E6%93%8A%E6%A1%882%E6%AD%BB-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%96%91%E7%8A%AF",
-    "timestamp": "2026-08-27T14:30:43.208Z",
     "strategy": ".content-card__main"
   }
 ];
