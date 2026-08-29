@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T00:44:38.001Z
+// Last updated: 2026-08-29T01:53:54.813Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "4個最不愛哭「硬骨頭」星座　如看到山羊座流淚代表他已接近崩潰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143537958511448064467321.jpeg/xhq42L7gCRGvYfmiXgSwILSJMkRtK9Xig0GekINBnpA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60291691/4%E5%80%8B%E6%9C%80%E4%B8%8D%E6%84%9B%E5%93%AD-%E7%A1%AC%E9%AA%A8%E9%A0%AD-%E6%98%9F%E5%BA%A7-%E5%A6%82%E7%9C%8B%E5%88%B0%E5%B1%B1%E7%BE%8A%E5%BA%A7%E6%B5%81%E6%B7%9A%E4%BB%A3%E8%A1%A8%E4%BB%96%E5%B7%B2%E6%8E%A5%E8%BF%91%E5%B4%A9%E6%BD%B0",
+    "timestamp": "2026-08-29T01:53:54.813Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林漪娸罕談與前警司老公相處　爆對方零浪漫生日叫工人燉花膠冧妻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169609193330577408986170.jpeg/oQ13gUi-8Yt4HV65SNNifw_n1FThT2IjQjQkMUI0JDE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60384132/txt%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-08-27T04:38:37.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "草間彌神器官衰竭逝世終年97歲  回顧日本國寶級藝術大師傳奇一生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169595872359485440427603.jpeg/Jj7ftmTC9tNl8Ay8TG2YIBPxKhE1ZtRMZH_HYGR_x2A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60384101/%E8%8D%89%E9%96%93%E5%BD%8C%E7%A5%9E%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD%E9%80%9D%E4%B8%96%E7%B5%82%E5%B9%B497%E6%AD%B2-%E5%9B%9E%E9%A1%A7%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E7%B4%9A%E8%97%9D%E8%A1%93%E5%A4%A7%E5%B8%AB%E5%82%B3%E5%A5%87%E4%B8%80%E7%94%9F",
-    "timestamp": "2026-08-27T02:48:53.745Z",
     "strategy": ".content-card__main"
   }
 ];
