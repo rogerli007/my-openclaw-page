@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T20:53:48.815Z
+// Last updated: 2026-08-29T21:17:04.727Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗錦綉花園獨立屋遭爆竊　49歲男損失戒指和玉鐲　共值$30萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170593381793927168076391.jpeg/DklX7VheOVb1npomLcp5l94JKZUUUibVNcPEdA_DxHQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384948/%E5%85%83%E6%9C%97%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%92%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-49%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1%E6%88%92%E6%8C%87%E5%92%8C%E7%8E%89%E9%90%B2-%E5%85%B1%E5%80%BC-30%E8%90%AC",
+    "timestamp": "2026-08-29T21:17:04.727Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170507104872566784409625.jpeg/6qUqRB62bqnU_J-DSrvm5WT25-Z1GKnIElqJBBJaiQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384924/%E6%9D%B1%E6%B6%8C%E6%9D%B1%E7%AB%99%E5%9C%B0%E7%9B%A4%E5%94%A7%E8%BB%8A%E6%92%9E%E5%86%A7%E7%A3%9A%E7%89%86-%E7%A3%9A%E5%A1%8A%E5%A2%AE%E4%B8%8B%E5%B1%A4-%E6%B8%AF%E9%90%B5-%E6%9A%AB%E5%81%9C%E6%B6%89%E4%BA%8B%E7%AF%84%E5%9C%8D%E5%B7%A5%E7%A8%8B",
     "timestamp": "2026-08-29T15:18:02.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘇韻姿單身3年首錄內地戀綜　獲讚似足阿Sa成功配對183cm男模",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170400001323438080634287.jpeg/S6niEAO-Whomsa8Pda2nfN4ohnV3obJbKbHloCmx5aA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384864/%E8%98%87%E9%9F%BB%E5%A7%BF%E5%96%AE%E8%BA%AB3%E5%B9%B4%E9%A6%96%E9%8C%84%E5%85%A7%E5%9C%B0%E6%88%80%E7%B6%9C-%E7%8D%B2%E8%AE%9A%E4%BC%BC%E8%B6%B3%E9%98%BFsa%E6%88%90%E5%8A%9F%E9%85%8D%E5%B0%8D183cm%E7%94%B7%E6%A8%A1",
-    "timestamp": "2026-08-29T14:41:08.481Z",
     "strategy": ".content-card__main"
   }
 ];
