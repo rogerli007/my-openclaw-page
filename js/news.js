@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T20:40:45.028Z
+// Last updated: 2026-08-29T20:53:48.815Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
+    "timestamp": "2026-08-29T20:53:48.815Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170400001323438080634287.jpeg/S6niEAO-Whomsa8Pda2nfN4ohnV3obJbKbHloCmx5aA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384864/%E8%98%87%E9%9F%BB%E5%A7%BF%E5%96%AE%E8%BA%AB3%E5%B9%B4%E9%A6%96%E9%8C%84%E5%85%A7%E5%9C%B0%E6%88%80%E7%B6%9C-%E7%8D%B2%E8%AE%9A%E4%BC%BC%E8%B6%B3%E9%98%BFsa%E6%88%90%E5%8A%9F%E9%85%8D%E5%B0%8D183cm%E7%94%B7%E6%A8%A1",
     "timestamp": "2026-08-29T14:41:08.481Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "錦田公路薄餅店內電動滑板車起火　消防迅速救熄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170492479229661184120497.png/Zop_-OCaG1_bSlckJZPF-XBZve0vT6dGBVZ9MwVWfTM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384919/%E9%8C%A6%E7%94%B0%E5%85%AC%E8%B7%AF%E8%96%84%E9%A4%85%E5%BA%97%E5%85%A7%E9%9B%BB%E5%8B%95%E6%BB%91%E6%9D%BF%E8%BB%8A%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%BF%85%E9%80%9F%E6%95%91%E7%86%84",
-    "timestamp": "2026-08-29T14:28:22.079Z",
     "strategy": ".content-card__main"
   }
 ];
