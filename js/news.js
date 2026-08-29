@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T04:42:03.607Z
+// Last updated: 2026-08-29T04:53:38.353Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜大埔浸信會公立學校新校舍開幕　新學年全面恢復運作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170342617070702592213796.jpeg/4xuMIZ5U-fyNz0DNH0aeQHi9D3Qyfr57I_yR3yP8kd8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60384836/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%A7%E5%9F%94%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1%E6%96%B0%E6%A0%A1%E8%88%8D%E9%96%8B%E5%B9%95-%E6%96%B0%E5%AD%B8%E5%B9%B4%E5%85%A8%E9%9D%A2%E6%81%A2%E5%BE%A9%E9%81%8B%E4%BD%9C",
+    "timestamp": "2026-08-29T04:53:38.353Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "母親家中性交易10歲女童遭男子猥褻　台北市政府240天未安置惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169951962305662976569317.jpeg/wL9a_t2EIQSexLThKZsLuvhQf7vmE6SkKKzENSisxDU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384491/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%AE%98%E6%96%B9-%E6%9A%AB%E5%81%9C%E7%B0%BD%E7%99%BC%E5%BE%80%E8%A5%BF%E8%97%8F%E6%97%A5%E5%96%80%E5%89%87%E5%B8%82%E9%9B%BB%E5%AD%90%E9%82%8A%E5%A2%83%E7%AE%A1%E7%90%86%E5%8D%80%E9%80%9A%E8%A1%8C%E8%AD%89",
     "timestamp": "2026-08-28T03:39:49.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳泳銘入選《時代》AI百大人物　領阿里巴巴完成重要轉型",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250924/1047472186895372288750926.jpeg/7zfor8H69KAKRsID3qmphJtu_a7fEjuwNLToYTS06GE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384437/%E5%90%B3%E6%B3%B3%E9%8A%98%E5%85%A5%E9%81%B8-%E6%99%82%E4%BB%A3-ai%E7%99%BE%E5%A4%A7%E4%BA%BA%E7%89%A9-%E9%A0%98%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AE%8C%E6%88%90%E9%87%8D%E8%A6%81%E8%BD%89%E5%9E%8B",
-    "timestamp": "2026-08-28T00:46:17.310Z",
     "strategy": ".content-card__main"
   }
 ];
