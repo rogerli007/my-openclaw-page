@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T05:53:41.061Z
+// Last updated: 2026-08-29T06:28:07.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜內地高壓嚴打王星案，香港拐賣人口仍陷「無罪可定」？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168944505605328896279306.jpeg/8PBoZ9qFub6crxaCtPhItc_D7neaQOJE28ltxNvJbcQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60383004/%E4%BE%86%E7%A8%BF-%E5%85%A7%E5%9C%B0%E9%AB%98%E5%A3%93%E5%9A%B4%E6%89%93%E7%8E%8B%E6%98%9F%E6%A1%88-%E9%A6%99%E6%B8%AF%E6%8B%90%E8%B3%A3%E4%BA%BA%E5%8F%A3%E4%BB%8D%E9%99%B7-%E7%84%A1%E7%BD%AA%E5%8F%AF%E5%AE%9A",
+    "timestamp": "2026-08-29T06:28:07.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孫宇晨追討景甜3000萬突態度大變　宣布「休戰」：這件事到我為止",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136747476175294464729608.jpeg/qdbr8S5WvMmcMoIPJf-ukMsc4FjQgHCM-FrUkfha1JE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384784/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E4%BF%AE%E6%94%B9%E8%81%B2%E6%98%8E-%E7%A8%B1%E6%94%BF%E5%BA%9C%E6%A9%9F%E6%A7%8B%E8%A2%AB%E5%88%97%E7%82%BA%E4%B8%AD%E5%9C%8B%E9%BB%91%E5%AE%A2%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-08-28T21:56:29.605Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛頭角商廈$11萬手機疑遭盜走　21歲男報案　警方列盜竊調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170192527932788736064952.jpeg/LSdfI68T6SNJoeMApvTCxEjurszMEiezNOQeRQ7kHkU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384778/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%95%86%E5%BB%88-11%E8%90%AC%E6%89%8B%E6%A9%9F%E7%96%91%E9%81%AD%E7%9B%9C%E8%B5%B0-21%E6%AD%B2%E7%94%B7%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%96%B9%E5%88%97%E7%9B%9C%E7%AB%8A%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-08-28T18:29:20.846Z",
     "strategy": ".content-card__main"
   }
 ];
