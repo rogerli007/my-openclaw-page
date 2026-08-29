@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T19:40:57.747Z
+// Last updated: 2026-08-29T19:53:34.066Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
+    "timestamp": "2026-08-29T19:53:34.066Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170400888787832832910346.jpeg/CPQK3L-N6mV26GGI2yIdWv2Vi6Zbx23mG4nODBuJzgw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384854/twice%E6%AD%A3%E5%80%BC%E7%BA%8C%E7%B4%84%E5%8D%94%E5%95%86%E6%9C%9F-%E6%88%90%E5%93%A1%E5%A8%9C%E7%92%89%E8%B1%AA%E6%93%B295%E5%84%84%E9%9F%93%E5%85%83%E8%B3%BC%E5%85%A5%E6%B8%85%E6%BD%AD%E6%B4%9E%E8%BD%89%E8%A7%92%E5%A4%A7%E5%BB%88",
     "timestamp": "2026-08-29T13:41:10.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港小姐2026丨AI技術打造決賽舞台　盧蔚晴打碟片爆紅穩坐人氣王",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170461376351571968851490.jpeg/4Yc7TM2XY4wBRF_I0RJ-mSlZoZsCA7bdmOd4W5jneFs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384904/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-ai%E6%8A%80%E8%A1%93%E6%89%93%E9%80%A0%E6%B1%BA%E8%B3%BD%E8%88%9E%E5%8F%B0-%E7%9B%A7%E8%94%9A%E6%99%B4%E6%89%93%E7%A2%9F%E7%89%87%E7%88%86%E7%B4%85%E7%A9%A9%E5%9D%90%E4%BA%BA%E6%B0%A3%E7%8E%8B",
-    "timestamp": "2026-08-29T13:16:58.923Z",
     "strategy": ".content-card__main"
   }
 ];
