@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T22:54:07.393Z
+// Last updated: 2026-08-29T23:26:33.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大持刀男闖麥當勞　遭勇男奪刀壓制　逃出店外圖搶警車遭擊斃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170526513620062208679345.png/wqFiz4_ctY0dBtCkKtZIOW9FGbJBDYoFHlNdqB5TXag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60373152/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8C%81%E5%88%80%E7%94%B7%E9%97%96%E9%BA%A5%E7%95%B6%E5%8B%9E-%E9%81%AD%E5%8B%87%E7%94%B7%E5%A5%AA%E5%88%80%E5%A3%93%E5%88%B6-%E9%80%83%E5%87%BA%E5%BA%97%E5%A4%96%E5%9C%96%E6%90%B6%E8%AD%A6%E8%BB%8A%E9%81%AD%E6%93%8A%E6%96%83",
+    "timestamp": "2026-08-29T23:26:33.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍天恒邨眾男打架　妻子目擊報案　丈夫遭圍毆昏迷送院兼被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167575404999872512802169.jpeg/UqSgRYmXnJSIuk0BuvOKA7lK_pRP7MHSvA2msbwNprE?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382498/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-08-29T17:27:13.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭桂坊MMA．有片｜眾男倒地混戰纏鬥　起飛腳幫拖　途人嚇到四散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170531764544737280035429.jpeg/3OYFuz1jf1ubAUJBW2stYtBZbwsc4fZW6Qm8wukJvMI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384929/%E8%98%AD%E6%A1%82%E5%9D%8Amma-%E6%9C%89%E7%89%87-%E7%9C%BE%E7%94%B7%E5%80%92%E5%9C%B0%E6%B7%B7%E6%88%B0%E7%BA%8F%E9%AC%A5-%E8%B5%B7%E9%A3%9B%E8%85%B3%E5%B9%AB%E6%8B%96-%E9%80%94%E4%BA%BA%E5%9A%87%E5%88%B0%E5%9B%9B%E6%95%A3",
-    "timestamp": "2026-08-29T17:17:11.073Z",
     "strategy": ".content-card__main"
   }
 ];
