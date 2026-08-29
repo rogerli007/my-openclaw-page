@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T17:27:13.659Z
+// Last updated: 2026-08-29T17:53:24.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "早春晴朗線上看劇情｜最新追劇日曆/更新時間+演員關係圖+簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167575404999872512802169.jpeg/UqSgRYmXnJSIuk0BuvOKA7lK_pRP7MHSvA2msbwNprE?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382498/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-08-29T17:53:24.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "早春晴朗線上看劇情｜最新追劇日曆/更新時間+演員關係圖+簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260115/1088428244434161664420867.jpeg/BmOQXxZOYRcQVhkZzhagji2kmGCbdda7F0aPoRdGj6E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384892/70%E5%A4%9A%E5%B9%B4%E9%A6%96%E6%AC%A1-%E5%85%A7%E5%9C%B0%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E8%B7%8C%E7%A0%B4800%E8%90%AC%E5%89%B5%E6%96%B0%E4%BD%8E-%E4%BA%BA%E5%8F%A3%E7%B5%90%E6%A7%8B%E9%9D%A2%E8%87%A8%E6%8C%91%E6%88%B0",
     "timestamp": "2026-08-29T11:25:36.000Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅子溢楊茜堯出席愛女幼稚園畢業禮　曬囡囡成長對比片見證蛻變",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170395449731846144160928.jpeg/UkAbAYSUlYiqAhtJQxhVXFMagIhQpKyy0bp_7tG6f-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384862/%E7%BE%85%E5%AD%90%E6%BA%A2%E6%A5%8A%E8%8C%9C%E5%A0%AF%E5%87%BA%E5%B8%AD%E6%84%9B%E5%A5%B3%E5%B9%BC%E7%A8%9A%E5%9C%92%E7%95%A2%E6%A5%AD%E7%A6%AE-%E6%9B%AC%E5%9B%A1%E5%9B%A1%E6%88%90%E9%95%B7%E5%B0%8D%E6%AF%94%E7%89%87%E8%A6%8B%E8%AD%89%E8%9B%BB%E8%AE%8A",
-    "timestamp": "2026-08-29T11:16:11.934Z",
     "strategy": ".content-card__main"
   }
 ];
