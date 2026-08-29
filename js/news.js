@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T10:54:09.457Z
+// Last updated: 2026-08-29T11:16:11.934Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅子溢楊茜堯出席愛女幼稚園畢業禮　曬囡囡成長對比片見證蛻變",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170395449731846144160928.jpeg/UkAbAYSUlYiqAhtJQxhVXFMagIhQpKyy0bp_7tG6f-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384862/%E7%BE%85%E5%AD%90%E6%BA%A2%E6%A5%8A%E8%8C%9C%E5%A0%AF%E5%87%BA%E5%B8%AD%E6%84%9B%E5%A5%B3%E5%B9%BC%E7%A8%9A%E5%9C%92%E7%95%A2%E6%A5%AD%E7%A6%AE-%E6%9B%AC%E5%9B%A1%E5%9B%A1%E6%88%90%E9%95%B7%E5%B0%8D%E6%AF%94%E7%89%87%E8%A6%8B%E8%AD%89%E8%9B%BB%E8%AE%8A",
+    "timestamp": "2026-08-29T11:16:11.934Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃建東孖港姐亞軍同行　與羅天宇陳懿德疑Double Dating關係微妙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170339931885670400980146.jpeg/8vd1Wvyha2hyTi37dCKEaSnX7CLWHTRXtF7t3rRe7d4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384833/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE%E8%A2%AB%E6%8C%87%E6%8B%92%E5%A4%96%E6%8F%B4-%E5%A4%96%E9%95%B7-%E9%9C%80%E5%B0%88%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8C%81%E9%9D%9E%E6%90%9C%E6%95%91%E6%8F%B4%E5%8A%A9",
     "timestamp": "2026-08-29T04:21:23.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "腕錶｜推40+女性最喜愛11大品牌　對照個性選Cartier/Rolex命定款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162443624865075200423785.png/QSbk7K9LjsZRgwdkL6f6ohyE6QWOO5lsNcyGGjXMhho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60376046/%E8%85%95%E9%8C%B6-%E6%8E%A840-%E5%A5%B3%E6%80%A7%E6%9C%80%E5%96%9C%E6%84%9B11%E5%A4%A7%E5%93%81%E7%89%8C-%E5%B0%8D%E7%85%A7%E5%80%8B%E6%80%A7%E9%81%B8cartier-rolex%E5%91%BD%E5%AE%9A%E6%AC%BE",
-    "timestamp": "2026-08-29T03:53:24.856Z",
     "strategy": ".content-card__main"
   }
 ];
