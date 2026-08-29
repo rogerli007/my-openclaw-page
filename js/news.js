@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T04:53:38.353Z
+// Last updated: 2026-08-29T05:18:44.167Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《時代》2026年百大AI人物　馬斯克、奧特曼上榜　黃仁勳未入列",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170355488433377280542036.png/j4_HmOmgkvEZq450gEu65c6BtVHl7oSzuOCN8rjgjfI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384838/%E6%99%82%E4%BB%A3-2026%E5%B9%B4%E7%99%BE%E5%A4%A7ai%E4%BA%BA%E7%89%A9-%E9%A6%AC%E6%96%AF%E5%85%8B-%E5%A5%A7%E7%89%B9%E6%9B%BC%E4%B8%8A%E6%A6%9C-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9C%AA%E5%85%A5%E5%88%97",
+    "timestamp": "2026-08-29T05:18:44.167Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜大埔浸信會公立學校新校舍開幕　新學年全面恢復運作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260406/1117796730738315264157806.png/e0hHCoWWHX6NxJmiHwGTTYGyg61pPPTqrU7PJq1OzyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384568/ai%E6%B3%A1%E6%B2%AC%E8%AB%96-%E9%8E%A7%E4%BF%A0%E5%92%8C%E9%96%83%E8%BF%AA%E6%93%AC%E6%8A%95%E8%B3%87%E7%B4%84310%E5%84%84%E7%BE%8E%E5%85%83-%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%93%B4%E8%A8%98%E6%86%B6%E6%99%B6%E7%89%87%E7%94%A2%E8%83%BD",
     "timestamp": "2026-08-28T06:24:19.778Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜官方：暫停簽發往西藏日喀則市電子邊境管理區通行證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169951962305662976569317.jpeg/wL9a_t2EIQSexLThKZsLuvhQf7vmE6SkKKzENSisxDU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384491/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%AE%98%E6%96%B9-%E6%9A%AB%E5%81%9C%E7%B0%BD%E7%99%BC%E5%BE%80%E8%A5%BF%E8%97%8F%E6%97%A5%E5%96%80%E5%89%87%E5%B8%82%E9%9B%BB%E5%AD%90%E9%82%8A%E5%A2%83%E7%AE%A1%E7%90%86%E5%8D%80%E9%80%9A%E8%A1%8C%E8%AD%89",
-    "timestamp": "2026-08-28T03:39:49.604Z",
     "strategy": ".content-card__main"
   }
 ];
