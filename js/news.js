@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T13:53:40.871Z
+// Last updated: 2026-08-29T14:18:04.853Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜利物浦主場迫和森林　開季連續兩場失分未開勝門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170493175433793536768901.png/8fnroQ25eobjV-GED49HS-lT816IpJEaFP4JoBT-CaA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60384918/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%B8%BB%E5%A0%B4%E8%BF%AB%E5%92%8C%E6%A3%AE%E6%9E%97-%E9%96%8B%E5%AD%A3%E9%80%A3%E7%BA%8C%E5%85%A9%E5%A0%B4%E5%A4%B1%E5%88%86%E6%9C%AA%E9%96%8B%E5%8B%9D%E9%96%80",
+    "timestamp": "2026-08-29T14:18:04.853Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TWICE正值續約協商期　成員娜璉豪擲95億韓元購入清潭洞轉角大廈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250327/981725415435407360196845.jpeg/2UkFPI4Pxs4sbxBu5PYg4K1warHc8k_sfN_H23zfx9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384849/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E6%93%B4%E5%A4%A7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81%E5%90%8D%E5%96%AE-%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E5%85%A5%E5%88%97",
     "timestamp": "2026-08-29T06:56:39.078Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國財政部擴大對伊朗制裁名單　香港公司入列",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250327/981725415435407360196845.jpeg/2UkFPI4Pxs4sbxBu5PYg4K1warHc8k_sfN_H23zfx9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384849/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E6%93%B4%E5%A4%A7%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81%E5%90%8D%E5%96%AE-%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E5%85%A5%E5%88%97",
-    "timestamp": "2026-08-29T06:48:20.570Z",
     "strategy": ".content-card__main"
   }
 ];
