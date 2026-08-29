@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T14:41:08.481Z
+// Last updated: 2026-08-29T15:18:02.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌東站地盤唧車撞冧磚牆　磚塊墮下層　港鐵：暫停涉事範圍工程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170507104872566784409625.jpeg/6qUqRB62bqnU_J-DSrvm5WT25-Z1GKnIElqJBBJaiQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384924/%E6%9D%B1%E6%B6%8C%E6%9D%B1%E7%AB%99%E5%9C%B0%E7%9B%A4%E5%94%A7%E8%BB%8A%E6%92%9E%E5%86%A7%E7%A3%9A%E7%89%86-%E7%A3%9A%E5%A1%8A%E5%A2%AE%E4%B8%8B%E5%B1%A4-%E6%B8%AF%E9%90%B5-%E6%9A%AB%E5%81%9C%E6%B6%89%E4%BA%8B%E7%AF%84%E5%9C%8D%E5%B7%A5%E7%A8%8B",
+    "timestamp": "2026-08-29T15:18:02.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘇韻姿單身3年首錄內地戀綜　獲讚似足阿Sa成功配對183cm男模",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170413031377604608704139.jpeg/XoYMSlo8zUHToHMTgN8pnHAppVFBZIznjRqGPY0ahj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60384847/%E6%93%9A%E5%A0%B1%E6%9C%898%E6%AD%B2%E7%8B%97baku%E8%A2%AB%E6%8C%87%E5%B1%AC%E6%A0%BC%E9%AC%A5%E7%8B%97-%E9%81%AD%E6%BC%81%E8%AD%B7%E7%BD%B2%E5%8D%B3%E5%A0%B4%E5%B8%B6%E8%B5%B0%E8%AA%BF%E6%9F%A5-%E7%A6%81%E6%AD%A2%E6%8E%A2%E6%9C%9B",
     "timestamp": "2026-08-29T08:54:13.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "訪莫斯科警告勿襲北約國家　美CIA局長剛離開　俄羅斯射洲際導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260407/1118005207951872000312846.jpeg/hFjX_UhK0sjIluQrTPI-dW8MsxLq9alE_qsNz_6rDc8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384861/%E8%A8%AA%E8%8E%AB%E6%96%AF%E7%A7%91%E8%AD%A6%E5%91%8A%E5%8B%BF%E8%A5%B2%E5%8C%97%E7%B4%84%E5%9C%8B%E5%AE%B6-%E7%BE%8Ecia%E5%B1%80%E9%95%B7%E5%89%9B%E9%9B%A2%E9%96%8B-%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%84%E6%B4%B2%E9%9A%9B%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-08-29T07:54:10.516Z",
     "strategy": ".content-card__main"
   }
 ];
