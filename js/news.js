@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T22:41:16.760Z
+// Last updated: 2026-08-29T22:54:07.393Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍天恒邨眾男打架　妻子目擊報案　丈夫遭圍毆昏迷送院兼被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170617151195713536480692.jpeg/6rlj9wtQnu26h6zzkuLrirAyI187fT-ajOgH47boB-M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384953/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%81%92%E9%82%A8%E7%9C%BE%E7%94%B7%E6%89%93%E6%9E%B6-%E5%A6%BB%E5%AD%90%E7%9B%AE%E6%93%8A%E5%A0%B1%E6%A1%88-%E4%B8%88%E5%A4%AB%E9%81%AD%E5%9C%8D%E6%AF%86%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E5%85%BC%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-29T22:54:07.393Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "索馬里與土耳其聯合行動　解救貨船擊斃14名海盜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170531764544737280035429.jpeg/3OYFuz1jf1ubAUJBW2stYtBZbwsc4fZW6Qm8wukJvMI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384929/%E8%98%AD%E6%A1%82%E5%9D%8Amma-%E6%9C%89%E7%89%87-%E7%9C%BE%E7%94%B7%E5%80%92%E5%9C%B0%E6%B7%B7%E6%88%B0%E7%BA%8F%E9%AC%A5-%E8%B5%B7%E9%A3%9B%E8%85%B3%E5%B9%AB%E6%8B%96-%E9%80%94%E4%BA%BA%E5%9A%87%E5%88%B0%E5%9B%9B%E6%95%A3",
     "timestamp": "2026-08-29T17:17:11.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭桂坊MMA．有片｜眾男倒地混戰纏鬥　起飛腳幫拖　途人嚇到四散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170531764544737280035429.jpeg/3OYFuz1jf1ubAUJBW2stYtBZbwsc4fZW6Qm8wukJvMI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384929/%E8%98%AD%E6%A1%82%E5%9D%8Amma-%E6%9C%89%E7%89%87-%E7%9C%BE%E7%94%B7%E5%80%92%E5%9C%B0%E6%B7%B7%E6%88%B0%E7%BA%8F%E9%AC%A5-%E8%B5%B7%E9%A3%9B%E8%85%B3%E5%B9%AB%E6%8B%96-%E9%80%94%E4%BA%BA%E5%9A%87%E5%88%B0%E5%9B%9B%E6%95%A3",
-    "timestamp": "2026-08-29T16:53:23.574Z",
     "strategy": ".content-card__main"
   }
 ];
