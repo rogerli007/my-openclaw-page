@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T02:43:33.739Z
+// Last updated: 2026-08-29T03:21:46.244Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒曝赫格塞思有意2028年競選總統　五角大樓否認：愚蠢的猜測",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170325957647536128285439.jpeg/pnJpg2hN1yqFB3qNgK1R7eCjULo8BcC6T36CLk9-gi4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384823/%E7%BE%8E%E5%AA%92%E6%9B%9D%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E6%9C%89%E6%84%8F2028%E5%B9%B4%E7%AB%B6%E9%81%B8%E7%B8%BD%E7%B5%B1-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A8%93%E5%90%A6%E8%AA%8D-%E6%84%9A%E8%A0%A2%E7%9A%84%E7%8C%9C%E6%B8%AC",
+    "timestamp": "2026-08-29T03:21:46.244Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華潤叡璟I次輪價單開賣133伙　發展商：大手客料佔兩成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162493534796779520605173.jpeg/7TAuThlc83jitEiVkNwsNW73ENQDaQ6RIk4qOyJOKjs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384390/%E5%BE%B7%E5%AA%92-%E5%BE%B7%E5%9C%8B%E6%9F%8F%E6%9E%97%E9%99%84%E8%BF%91%E5%AD%B8%E6%A0%A1%E7%99%BC%E7%94%9F%E8%A5%B2%E6%93%8A%E6%A1%882%E6%AD%BB-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%96%91%E7%8A%AF",
     "timestamp": "2026-08-27T14:30:43.208Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大雨濕鞋　女子商場廁所「乾手機吹鞋」引眾怒：隔著螢幕都聞到味",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169692624219541504416908.png/u0aQ0RpWFNMI0JxvOLKzjf3we-ygcEpmaZCgvGmQoLw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384315/%E5%A4%A7%E9%9B%A8%E6%BF%95%E9%9E%8B-%E5%A5%B3%E5%AD%90%E5%95%86%E5%A0%B4%E5%BB%81%E6%89%80-%E4%B9%BE%E6%89%8B%E6%A9%9F%E5%90%B9%E9%9E%8B-%E5%BC%95%E7%9C%BE%E6%80%92-%E9%9A%94%E8%91%97%E8%9E%A2%E5%B9%95%E9%83%BD%E8%81%9E%E5%88%B0%E5%91%B3",
-    "timestamp": "2026-08-27T10:38:32.903Z",
     "strategy": ".content-card__main"
   }
 ];
