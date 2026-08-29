@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T20:29:36.901Z
+// Last updated: 2026-08-29T20:40:45.028Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
+    "timestamp": "2026-08-29T20:40:45.028Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170492479229661184120497.png/Zop_-OCaG1_bSlckJZPF-XBZve0vT6dGBVZ9MwVWfTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384919/%E9%8C%A6%E7%94%B0%E5%85%AC%E8%B7%AF%E8%96%84%E9%A4%85%E5%BA%97%E5%85%A7%E9%9B%BB%E5%8B%95%E6%BB%91%E6%9D%BF%E8%BB%8A%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%BF%85%E9%80%9F%E6%95%91%E7%86%84",
     "timestamp": "2026-08-29T14:28:22.079Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜利物浦主場迫和森林　開季連續兩場失分未開勝門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170493175433793536768901.png/8fnroQ25eobjV-GED49HS-lT816IpJEaFP4JoBT-CaA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60384918/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%B8%BB%E5%A0%B4%E8%BF%AB%E5%92%8C%E6%A3%AE%E6%9E%97-%E9%96%8B%E5%AD%A3%E9%80%A3%E7%BA%8C%E5%85%A9%E5%A0%B4%E5%A4%B1%E5%88%86%E6%9C%AA%E9%96%8B%E5%8B%9D%E9%96%80",
-    "timestamp": "2026-08-29T14:18:04.853Z",
     "strategy": ".content-card__main"
   }
 ];
