@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T17:17:11.073Z
+// Last updated: 2026-08-29T17:27:13.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "早春晴朗線上看劇情｜最新追劇日曆/更新時間+演員關係圖+簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167575404999872512802169.jpeg/UqSgRYmXnJSIuk0BuvOKA7lK_pRP7MHSvA2msbwNprE?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382498/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-08-29T17:27:13.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭桂坊MMA．有片｜眾男倒地混戰纏鬥　起飛腳幫拖　途人嚇到四散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170395449731846144160928.jpeg/UkAbAYSUlYiqAhtJQxhVXFMagIhQpKyy0bp_7tG6f-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384862/%E7%BE%85%E5%AD%90%E6%BA%A2%E6%A5%8A%E8%8C%9C%E5%A0%AF%E5%87%BA%E5%B8%AD%E6%84%9B%E5%A5%B3%E5%B9%BC%E7%A8%9A%E5%9C%92%E7%95%A2%E6%A5%AD%E7%A6%AE-%E6%9B%AC%E5%9B%A1%E5%9B%A1%E6%88%90%E9%95%B7%E5%B0%8D%E6%AF%94%E7%89%87%E8%A6%8B%E8%AD%89%E8%9B%BB%E8%AE%8A",
     "timestamp": "2026-08-29T11:16:11.934Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃建東孖港姐亞軍同行　與羅天宇陳懿德疑Double Dating關係微妙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170434041615224832728361.png/20qEoepjNzZpHWu-MZhac0c0pf6Lb_fMGdyy9BncsvQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384885/%E9%BB%83%E5%BB%BA%E6%9D%B1%E5%AD%96%E6%B8%AF%E5%A7%90%E4%BA%9E%E8%BB%8D%E5%90%8C%E8%A1%8C-%E8%88%87%E7%BE%85%E5%A4%A9%E5%AE%87%E9%99%B3%E6%87%BF%E5%BE%B7%E7%96%91double-dating%E9%97%9C%E4%BF%82%E5%BE%AE%E5%A6%99",
-    "timestamp": "2026-08-29T10:54:09.457Z",
     "strategy": ".content-card__main"
   }
 ];
