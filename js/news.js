@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T18:42:00.385Z
+// Last updated: 2026-08-29T18:53:19.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西環老翁疑無牽繩放狗咬傷人　5日後再無戴狗繩遛狗　目擊者報案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170551129172348928176925.jpeg/oOe_UJxIDFvKXZZ7y0R7FYde5tt3oesvtHay67R2sus?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384935/%E8%A5%BF%E7%92%B0%E8%80%81%E7%BF%81%E7%96%91%E7%84%A1%E7%89%BD%E7%B9%A9%E6%94%BE%E7%8B%97%E5%92%AC%E5%82%B7%E4%BA%BA-5%E6%97%A5%E5%BE%8C%E5%86%8D%E7%84%A1%E6%88%B4%E7%8B%97%E7%B9%A9%E9%81%9B%E7%8B%97-%E7%9B%AE%E6%93%8A%E8%80%85%E5%A0%B1%E6%A1%88",
+    "timestamp": "2026-08-29T18:53:19.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西環老翁疑無牽繩放狗咬傷人　5日後再無戴狗繩遛狗　目擊者報案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170129610550022144679541.png/O20eKynqayibot7MkUAwfxPFWEedGvQr9coXlvXKF5Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384746/%E5%AD%AB%E5%AE%87%E6%99%A8-%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%99%AF%E7%94%9C-%E5%8E%9F%E6%96%87-%E4%BA%94%E5%8D%83%E8%90%AC%E7%BE%8E%E5%85%83%E4%BB%A3%E5%AD%95%E8%83%8C%E6%99%AF-%E4%BA%A4%E5%BE%80%E7%B4%B0%E7%AF%80%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-08-29T12:44:35.574Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "YT周殷廷紅館開騷大騷深V胸肌　合唱Tyson Yoshi掀高潮送模型車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170421755588644864039824.jpeg/cCho6R3vqr23PdzOXNop2lKxeeemlIJ40d3Iq9HdyKs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60384879/yt%E5%91%A8%E6%AE%B7%E5%BB%B7%E7%B4%85%E9%A4%A8%E9%96%8B%E9%A8%B7%E5%A4%A7%E9%A8%B7%E6%B7%B1v%E8%83%B8%E8%82%8C-%E5%90%88%E5%94%B1tyson-yoshi%E6%8E%80%E9%AB%98%E6%BD%AE%E9%80%81%E6%A8%A1%E5%9E%8B%E8%BB%8A",
-    "timestamp": "2026-08-29T12:26:02.449Z",
     "strategy": ".content-card__main"
   }
 ];
