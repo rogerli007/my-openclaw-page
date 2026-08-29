@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T16:53:23.574Z
+// Last updated: 2026-08-29T17:17:11.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭桂坊MMA．有片｜眾男倒地混戰纏鬥　起飛腳幫拖　途人嚇到四散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170531764544737280035429.jpeg/3OYFuz1jf1ubAUJBW2stYtBZbwsc4fZW6Qm8wukJvMI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384929/%E8%98%AD%E6%A1%82%E5%9D%8Amma-%E6%9C%89%E7%89%87-%E7%9C%BE%E7%94%B7%E5%80%92%E5%9C%B0%E6%B7%B7%E6%88%B0%E7%BA%8F%E9%AC%A5-%E8%B5%B7%E9%A3%9B%E8%85%B3%E5%B9%AB%E6%8B%96-%E9%80%94%E4%BA%BA%E5%9A%87%E5%88%B0%E5%9B%9B%E6%95%A3",
+    "timestamp": "2026-08-29T17:17:11.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭桂坊MMA．有片｜眾男倒地混戰纏鬥　起飛腳幫拖　途人嚇到四散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170434041615224832728361.png/20qEoepjNzZpHWu-MZhac0c0pf6Lb_fMGdyy9BncsvQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384885/%E9%BB%83%E5%BB%BA%E6%9D%B1%E5%AD%96%E6%B8%AF%E5%A7%90%E4%BA%9E%E8%BB%8D%E5%90%8C%E8%A1%8C-%E8%88%87%E7%BE%85%E5%A4%A9%E5%AE%87%E9%99%B3%E6%87%BF%E5%BE%B7%E7%96%91double-dating%E9%97%9C%E4%BF%82%E5%BE%AE%E5%A6%99",
     "timestamp": "2026-08-29T10:54:09.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃建東孖港姐亞軍同行　與羅天宇陳懿德疑Double Dating關係微妙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170434041615224832728361.png/20qEoepjNzZpHWu-MZhac0c0pf6Lb_fMGdyy9BncsvQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384885/%E9%BB%83%E5%BB%BA%E6%9D%B1%E5%AD%96%E6%B8%AF%E5%A7%90%E4%BA%9E%E8%BB%8D%E5%90%8C%E8%A1%8C-%E8%88%87%E7%BE%85%E5%A4%A9%E5%AE%87%E9%99%B3%E6%87%BF%E5%BE%B7%E7%96%91double-dating%E9%97%9C%E4%BF%82%E5%BE%AE%E5%A6%99",
-    "timestamp": "2026-08-29T10:43:44.751Z",
     "strategy": ".content-card__main"
   }
 ];
