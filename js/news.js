@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T12:53:37.766Z
+// Last updated: 2026-08-29T13:16:58.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港小姐2026丨AI技術打造決賽舞台　盧蔚晴打碟片爆紅穩坐人氣王",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170461376351571968851490.jpeg/4Yc7TM2XY4wBRF_I0RJ-mSlZoZsCA7bdmOd4W5jneFs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384904/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-ai%E6%8A%80%E8%A1%93%E6%89%93%E9%80%A0%E6%B1%BA%E8%B3%BD%E8%88%9E%E5%8F%B0-%E7%9B%A7%E8%94%9A%E6%99%B4%E6%89%93%E7%A2%9F%E7%89%87%E7%88%86%E7%B4%85%E7%A9%A9%E5%9D%90%E4%BA%BA%E6%B0%A3%E7%8E%8B",
+    "timestamp": "2026-08-29T13:16:58.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陸浩明求婚一刻忘記感人誓詞　緊張過做港姐司儀：似女人生仔咁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170365238126579712659103.jpeg/_zrpv2zvbNsRQSbsgpumdb1AfGJJtr-LQIeoUUCHqFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384843/%E5%AD%AB%E5%AE%87%E6%99%A8%E8%BF%BD%E8%A8%8E%E6%99%AF%E7%94%9C3000%E8%90%AC%E7%AA%81%E6%85%8B%E5%BA%A6%E5%A4%A7%E8%AE%8A-%E5%AE%A3%E5%B8%83-%E4%BC%91%E6%88%B0-%E9%80%99%E4%BB%B6%E4%BA%8B%E5%88%B0%E6%88%91%E7%82%BA%E6%AD%A2",
     "timestamp": "2026-08-29T05:53:41.061Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本急欲參與烏克蘭戰事　想撈什麼好處？合產民用無人機只是幌子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170033172910444544975462.jpeg/2e-jGoWHhzdPlr9WkshTqh5jneE28mpRLZgQgy2YEIM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384559/%E6%97%A5%E6%9C%AC%E6%80%A5%E6%AC%B2%E5%8F%83%E8%88%87%E7%83%8F%E5%85%8B%E8%98%AD%E6%88%B0%E4%BA%8B-%E6%83%B3%E6%92%88%E4%BB%80%E9%BA%BC%E5%A5%BD%E8%99%95-%E5%90%88%E7%94%A2%E6%B0%91%E7%94%A8%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%8F%AA%E6%98%AF%E5%B9%8C%E5%AD%90",
-    "timestamp": "2026-08-29T05:41:32.899Z",
     "strategy": ".content-card__main"
   }
 ];
