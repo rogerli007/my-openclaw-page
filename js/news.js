@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-28T23:43:46.574Z
+// Last updated: 2026-08-29T00:44:38.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林漪娸罕談與前警司老公相處　爆對方零浪漫生日叫工人燉花膠冧妻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170084567499935744953276.jpeg/ef9YSn2mRLEvW8zNIhagrYZsWnXkYpPF5NgQS-TYEEs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384187/%E6%9E%97%E6%BC%AA%E5%A8%B8%E7%BD%95%E8%AB%87%E8%88%87%E5%89%8D%E8%AD%A6%E5%8F%B8%E8%80%81%E5%85%AC%E7%9B%B8%E8%99%95-%E7%88%86%E5%B0%8D%E6%96%B9%E9%9B%B6%E6%B5%AA%E6%BC%AB%E7%94%9F%E6%97%A5%E5%8F%AB%E5%B7%A5%E4%BA%BA%E7%87%89%E8%8A%B1%E8%86%A0%E5%86%A7%E5%A6%BB",
+    "timestamp": "2026-08-29T00:44:38.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沃什忽然「變鷹」推升加息押注　現貨黃金急插逾3%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169595872359485440427603.jpeg/Jj7ftmTC9tNl8Ay8TG2YIBPxKhE1ZtRMZH_HYGR_x2A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60384101/%E8%8D%89%E9%96%93%E5%BD%8C%E7%A5%9E%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD%E9%80%9D%E4%B8%96%E7%B5%82%E5%B9%B497%E6%AD%B2-%E5%9B%9E%E9%A1%A7%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E7%B4%9A%E8%97%9D%E8%A1%93%E5%A4%A7%E5%B8%AB%E5%82%B3%E5%A5%87%E4%B8%80%E7%94%9F",
     "timestamp": "2026-08-27T02:48:53.745Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普宣佈國家緊急狀態禁部分外國電網設備　中國製造商或受影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260801/1160113880261726208408376.jpeg/6d_RQIPSWPzi1vC9a9dLnCf46_E2bKTELM1sayzNbGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384057/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E4%BD%88%E5%9C%8B%E5%AE%B6%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B%E7%A6%81%E9%83%A8%E5%88%86%E5%A4%96%E5%9C%8B%E9%9B%BB%E7%B6%B2%E8%A8%AD%E5%82%99-%E4%B8%AD%E5%9C%8B%E8%A3%BD%E9%80%A0%E5%95%86%E6%88%96%E5%8F%97%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-08-27T01:03:17.523Z",
     "strategy": ".content-card__main"
   }
 ];
