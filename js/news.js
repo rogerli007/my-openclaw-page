@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T11:16:11.934Z
+// Last updated: 2026-08-29T11:25:36.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "70多年首次！內地出生人口跌破800萬創新低　人口結構面臨挑戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260115/1088428244434161664420867.jpeg/BmOQXxZOYRcQVhkZzhagji2kmGCbdda7F0aPoRdGj6E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384892/70%E5%A4%9A%E5%B9%B4%E9%A6%96%E6%AC%A1-%E5%85%A7%E5%9C%B0%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E8%B7%8C%E7%A0%B4800%E8%90%AC%E5%89%B5%E6%96%B0%E4%BD%8E-%E4%BA%BA%E5%8F%A3%E7%B5%90%E6%A7%8B%E9%9D%A2%E8%87%A8%E6%8C%91%E6%88%B0",
+    "timestamp": "2026-08-29T11:25:36.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅子溢楊茜堯出席愛女幼稚園畢業禮　曬囡囡成長對比片見證蛻變",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251123/1069103294607003648819045.png/ouLKYBW5ID-ig5pxVJU0uPsJefi1DwGg_WIhEP1iIRA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60384807/%E6%AF%8D%E8%A6%AA%E5%AE%B6%E4%B8%AD%E6%80%A7%E4%BA%A4%E6%98%9310%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%94%B7%E5%AD%90%E7%8C%A5%E8%A4%BB-%E5%8F%B0%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C240%E5%A4%A9%E6%9C%AA%E5%AE%89%E7%BD%AE%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-08-29T04:42:03.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜尼泊爾被指拒外援　外長：需專業技術支持非搜救援助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170339931885670400980146.jpeg/8vd1Wvyha2hyTi37dCKEaSnX7CLWHTRXtF7t3rRe7d4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384833/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE%E8%A2%AB%E6%8C%87%E6%8B%92%E5%A4%96%E6%8F%B4-%E5%A4%96%E9%95%B7-%E9%9C%80%E5%B0%88%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8C%81%E9%9D%9E%E6%90%9C%E6%95%91%E6%8F%B4%E5%8A%A9",
-    "timestamp": "2026-08-29T04:21:23.812Z",
     "strategy": ".content-card__main"
   }
 ];
