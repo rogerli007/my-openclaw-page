@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T15:18:02.132Z
+// Last updated: 2026-08-29T15:40:55.975Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "106人困「煉獄車廂」活活燒死　使日本改善電車安全的櫻木町事故",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159845033059291136846192.jpeg/qXHDzpd9rX7h0dS6yyfUBqKYHavx_uvakYagJPuGoCQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60284089/106%E4%BA%BA%E5%9B%B0-%E7%85%89%E7%8D%84%E8%BB%8A%E5%BB%82-%E6%B4%BB%E6%B4%BB%E7%87%92%E6%AD%BB-%E4%BD%BF%E6%97%A5%E6%9C%AC%E6%94%B9%E5%96%84%E9%9B%BB%E8%BB%8A%E5%AE%89%E5%85%A8%E7%9A%84%E6%AB%BB%E6%9C%A8%E7%94%BA%E4%BA%8B%E6%95%85",
+    "timestamp": "2026-08-29T15:40:55.975Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌東站地盤唧車撞冧磚牆　磚塊墮下層　港鐵：暫停涉事範圍工程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170418757059743744145269.jpeg/cr_eEssl8-Srv6DX5QKKaPdff7ivcP9Vq6wKNausCjU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60384877/%E5%A4%A7%E7%81%A3%E5%8D%8012%E6%B3%95%E5%BE%8B%E5%9C%98%E9%AB%94%E7%B0%BDai%E5%80%A1%E8%AD%B0-%E6%AF%9B%E6%A8%82%E7%A6%AE-ai%E5%83%85%E5%B1%AC%E8%BC%94%E5%8A%A9%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3%E5%B0%88%E6%A5%AD%E5%88%A4%E6%96%B4",
     "timestamp": "2026-08-29T09:19:27.711Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "據報有8歲狗Baku被指屬格鬥狗　遭漁護署即場帶走調查、禁止探望",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170413031377604608704139.jpeg/XoYMSlo8zUHToHMTgN8pnHAppVFBZIznjRqGPY0ahj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60384847/%E6%93%9A%E5%A0%B1%E6%9C%898%E6%AD%B2%E7%8B%97baku%E8%A2%AB%E6%8C%87%E5%B1%AC%E6%A0%BC%E9%AC%A5%E7%8B%97-%E9%81%AD%E6%BC%81%E8%AD%B7%E7%BD%B2%E5%8D%B3%E5%A0%B4%E5%B8%B6%E8%B5%B0%E8%AA%BF%E6%9F%A5-%E7%A6%81%E6%AD%A2%E6%8E%A2%E6%9C%9B",
-    "timestamp": "2026-08-29T08:54:13.427Z",
     "strategy": ".content-card__main"
   }
 ];
