@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T13:16:58.923Z
+// Last updated: 2026-08-29T13:41:10.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TWICE正值續約協商期　成員娜璉豪擲95億韓元購入清潭洞轉角大廈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170400888787832832910346.jpeg/CPQK3L-N6mV26GGI2yIdWv2Vi6Zbx23mG4nODBuJzgw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384854/twice%E6%AD%A3%E5%80%BC%E7%BA%8C%E7%B4%84%E5%8D%94%E5%95%86%E6%9C%9F-%E6%88%90%E5%93%A1%E5%A8%9C%E7%92%89%E8%B1%AA%E6%93%B295%E5%84%84%E9%9F%93%E5%85%83%E8%B3%BC%E5%85%A5%E6%B8%85%E6%BD%AD%E6%B4%9E%E8%BD%89%E8%A7%92%E5%A4%A7%E5%BB%88",
+    "timestamp": "2026-08-29T13:41:10.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港小姐2026丨AI技術打造決賽舞台　盧蔚晴打碟片爆紅穩坐人氣王",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168944505605328896279306.jpeg/8PBoZ9qFub6crxaCtPhItc_D7neaQOJE28ltxNvJbcQ?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60383004/%E4%BE%86%E7%A8%BF-%E5%85%A7%E5%9C%B0%E9%AB%98%E5%A3%93%E5%9A%B4%E6%89%93%E7%8E%8B%E6%98%9F%E6%A1%88-%E9%A6%99%E6%B8%AF%E6%8B%90%E8%B3%A3%E4%BA%BA%E5%8F%A3%E4%BB%8D%E9%99%B7-%E7%84%A1%E7%BD%AA%E5%8F%AF%E5%AE%9A",
     "timestamp": "2026-08-29T06:28:07.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "孫宇晨追討景甜3000萬突態度大變　宣布「休戰」：這件事到我為止",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170365238126579712659103.jpeg/_zrpv2zvbNsRQSbsgpumdb1AfGJJtr-LQIeoUUCHqFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60384843/%E5%AD%AB%E5%AE%87%E6%99%A8%E8%BF%BD%E8%A8%8E%E6%99%AF%E7%94%9C3000%E8%90%AC%E7%AA%81%E6%85%8B%E5%BA%A6%E5%A4%A7%E8%AE%8A-%E5%AE%A3%E5%B8%83-%E4%BC%91%E6%88%B0-%E9%80%99%E4%BB%B6%E4%BA%8B%E5%88%B0%E6%88%91%E7%82%BA%E6%AD%A2",
-    "timestamp": "2026-08-29T05:53:41.061Z",
     "strategy": ".content-card__main"
   }
 ];
