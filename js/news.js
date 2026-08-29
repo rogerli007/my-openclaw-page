@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T22:29:22.818Z
+// Last updated: 2026-08-29T22:41:16.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "索馬里與土耳其聯合行動　解救貨船擊斃14名海盜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170621283088470016460583.jpeg/XhyUxtO6GRhrBXwLOclXcVmsdKAoOsowUHItDFByLQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384952/%E7%B4%A2%E9%A6%AC%E9%87%8C%E8%88%87%E5%9C%9F%E8%80%B3%E5%85%B6%E8%81%AF%E5%90%88%E8%A1%8C%E5%8B%95-%E8%A7%A3%E6%95%91%E8%B2%A8%E8%88%B9%E6%93%8A%E6%96%8314%E5%90%8D%E6%B5%B7%E7%9B%9C",
+    "timestamp": "2026-08-29T22:41:16.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜部分地區驟雨較多及有雷暴　日間最高氣溫約31度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170531764544737280035429.jpeg/3OYFuz1jf1ubAUJBW2stYtBZbwsc4fZW6Qm8wukJvMI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384929/%E8%98%AD%E6%A1%82%E5%9D%8Amma-%E6%9C%89%E7%89%87-%E7%9C%BE%E7%94%B7%E5%80%92%E5%9C%B0%E6%B7%B7%E6%88%B0%E7%BA%8F%E9%AC%A5-%E8%B5%B7%E9%A3%9B%E8%85%B3%E5%B9%AB%E6%8B%96-%E9%80%94%E4%BA%BA%E5%9A%87%E5%88%B0%E5%9B%9B%E6%95%A3",
     "timestamp": "2026-08-29T16:53:23.574Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩金多寶9.5頭獎2.28億｜6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170523917610127360179524.jpeg/CFRQxbPE6zw-ZPNwnZ7NDvV4zrzV0hgN7ortHO6K7Rw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384930/%E5%85%AD%E5%90%88%E5%BD%A9%E9%87%91%E5%A4%9A%E5%AF%B69-5%E9%A0%AD%E7%8D%8E2-28%E5%84%84-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-08-29T16:41:42.450Z",
     "strategy": ".content-card__main"
   }
 ];
