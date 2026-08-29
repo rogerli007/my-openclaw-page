@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T03:53:24.856Z
+// Last updated: 2026-08-29T04:21:23.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜尼泊爾被指拒外援　外長：需專業技術支持非搜救援助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170339931885670400980146.jpeg/8vd1Wvyha2hyTi37dCKEaSnX7CLWHTRXtF7t3rRe7d4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384833/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE%E8%A2%AB%E6%8C%87%E6%8B%92%E5%A4%96%E6%8F%B4-%E5%A4%96%E9%95%B7-%E9%9C%80%E5%B0%88%E6%A5%AD%E6%8A%80%E8%A1%93%E6%94%AF%E6%8C%81%E9%9D%9E%E6%90%9C%E6%95%91%E6%8F%B4%E5%8A%A9",
+    "timestamp": "2026-08-29T04:21:23.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "腕錶｜推40+女性最喜愛11大品牌　對照個性選Cartier/Rolex命定款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169876897878773760523149.png/lF6nyjdBtxnZwGscRKiWoj5kM9O1oYW1nVElb51RJW8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384420/%E5%B0%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%AF%94%E4%BD%9C%E5%B8%8C%E7%89%B9%E5%8B%92-%E7%BE%8E%E5%9C%8B%E6%95%99%E8%82%B2%E9%83%A8%E7%99%BC%E7%89%87%E5%BE%8C%E5%88%AA%E9%99%A4-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-27T21:38:20.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超特攻｜曼聯狂風掃落「葉」　力爭首勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169597662249357312098572.jpeg/JkJgAUNjGL5lmqzcx7H58K9syVVbfZTh_l3k1_5d5Nc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60384093/%E8%8B%B1%E8%B6%85%E7%89%B9%E6%94%BB-%E6%9B%BC%E8%81%AF%E7%8B%82%E9%A2%A8%E6%8E%83%E8%90%BD-%E8%91%89-%E5%8A%9B%E7%88%AD%E9%A6%96%E5%8B%9D",
-    "timestamp": "2026-08-27T18:19:33.326Z",
     "strategy": ".content-card__main"
   }
 ];
