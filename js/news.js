@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T05:55:09.243Z
+// Last updated: 2026-08-30T06:29:52.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港姐2026｜周芳姿廣東話唔好驚到全身震　顏懿菲博士光環無懼高齡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1144033824900911104470982.jpeg/iA5lICC6rQFj7U9kY2QszusL8rG6zNbjvfr0_of69P4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60361446/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E5%91%A8%E8%8A%B3%E5%A7%BF%E5%BB%A3%E6%9D%B1%E8%A9%B1%E5%94%94%E5%A5%BD%E9%A9%9A%E5%88%B0%E9%A1%AB%E6%8A%96-%E9%A1%8F%E6%87%BF%E8%8F%B2%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%84%A1%E6%87%BC%E9%AB%98%E9%BD%A1",
+    "timestamp": "2026-08-30T06:29:52.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告．五年規劃｜立法會下月合併辯論　李慧琼：突顯兩者關連",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170616627004182528904573.jpeg/7S15y91j6R_d3D2RdMaqJeM3c3wUh13ljR4TJrceEyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60384950/%E5%A4%A9%E6%B0%A3-%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8431%E5%BA%A6",
     "timestamp": "2026-08-29T22:29:22.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秀茂坪七人車「自炒」　掃毀安全島鐵欄　司機蹤杳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170613987386068992297160.jpeg/hQzAwA8mWfgzuUoYvaGZQjlpB21FnZxBHDG0ySYxtMk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384951/%E7%A7%80%E8%8C%82%E5%9D%AA%E4%B8%83%E4%BA%BA%E8%BB%8A-%E8%87%AA%E7%82%92-%E6%8E%83%E6%AF%80%E5%AE%89%E5%85%A8%E5%B3%B6%E9%90%B5%E6%AC%84-%E5%8F%B8%E6%A9%9F%E8%B9%A4%E6%9D%B3",
-    "timestamp": "2026-08-29T22:22:27.373Z",
     "strategy": ".content-card__main"
   }
 ];
