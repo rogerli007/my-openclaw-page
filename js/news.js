@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T01:51:39.256Z
+// Last updated: 2026-08-30T02:27:31.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新天氣｜天文台：珠江口以西有雷雨區　未來兩三小時或影響本港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170616627004182528904573.jpeg/7S15y91j6R_d3D2RdMaqJeM3c3wUh13ljR4TJrceEyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60384970/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E7%8F%A0%E6%B1%9F%E5%8F%A3%E4%BB%A5%E8%A5%BF%E6%9C%89%E9%9B%B7%E9%9B%A8%E5%8D%80-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E5%B0%8F%E6%99%82%E6%88%96%E5%BD%B1%E9%9F%BF%E6%9C%AC%E6%B8%AF",
+    "timestamp": "2026-08-30T02:27:31.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗再否認霍爾木茲海峽開放　重申船隻通行須獲德黑蘭許可",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-08-29T19:40:57.747Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長鑫存儲起訴美國國防部　求撤銷中國軍事企業認定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158514992492843008352076.jpeg/C1ODBwD26ObnznokQmqeXiBdHZcmfuEaBM1MugTNTLo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384940/%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E8%B5%B7%E8%A8%B4%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%98%B2%E9%83%A8-%E6%B1%82%E6%92%A4%E9%8A%B7%E4%B8%AD%E5%9C%8B%E8%BB%8D%E4%BA%8B%E4%BC%81%E6%A5%AD%E8%AA%8D%E5%AE%9A",
-    "timestamp": "2026-08-29T19:20:06.438Z",
     "strategy": ".content-card__main"
   }
 ];
