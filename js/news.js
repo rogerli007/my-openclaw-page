@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T13:17:30.894Z
+// Last updated: 2026-08-30T13:27:57.118Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港姐2026｜曹永廉馬國明蕭正楠  廣告時段急忙對稿抹汗補妝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170841145480056832874621.jpeg/1alMXJEUktoTIYvQt3Y6FIVAfDL4iUv7Puf-MT7n_jE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385113/%E6%B8%AF%E5%A7%902026-%E6%9B%B9%E6%B0%B8%E5%BB%89%E9%A6%AC%E5%9C%8B%E6%98%8E%E8%95%AD%E6%AD%A3%E6%A5%A0-%E5%BB%A3%E5%91%8A%E6%99%82%E6%AE%B5%E6%80%A5%E5%BF%99%E5%B0%8D%E7%A8%BF%E6%8A%B9%E6%B1%97%E8%A3%9C%E5%A6%9D",
+    "timestamp": "2026-08-30T13:27:57.118Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港姐2026｜曹永廉馬國明蕭正楠  廣告時段急忙對稿抹汗補妝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146641629336047616714958.jpeg/jN_dfTk9ErWtokVlEYvZCth9nKuB1eFjLpU2Di6VNg4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363633/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E6%B9%AF%E5%AE%B6%E7%90%B3%E9%A9%9A%E7%8F%BE%E6%B0%B4%E7%97%98%E7%96%A4-%E9%99%B3%E6%A2%93%E7%A9%8E%E5%BF%83%E5%8F%A3%E7%8F%BE%E9%9B%A2%E5%A5%87%E7%B4%85%E5%8D%B0",
     "timestamp": "2026-08-30T06:49:26.299Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港姐2026｜周芳姿廣東話唔好驚到全身震　顏懿菲博士光環無懼高齡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1144033824900911104470982.jpeg/iA5lICC6rQFj7U9kY2QszusL8rG6zNbjvfr0_of69P4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60361446/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E5%91%A8%E8%8A%B3%E5%A7%BF%E5%BB%A3%E6%9D%B1%E8%A9%B1%E5%94%94%E5%A5%BD%E9%A9%9A%E5%88%B0%E9%A1%AB%E6%8A%96-%E9%A1%8F%E6%87%BF%E8%8F%B2%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%84%A1%E6%87%BC%E9%AB%98%E9%BD%A1",
-    "timestamp": "2026-08-30T06:29:52.519Z",
     "strategy": ".content-card__main"
   }
 ];
