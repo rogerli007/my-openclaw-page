@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T07:40:55.128Z
+// Last updated: 2026-08-30T08:23:41.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅艷芳媽媽逝世｜覃美金生前患心臟病高血壓　食麥皮暈倒印傭報案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1437509/org/318153d6e04a4aa746f4e9b31bcc2518.jpg/x2YI7xGuLUDtyjrwklVJK9KHY02LzTuMoYw2VqGMNlY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385045/%E6%A2%85%E8%89%B7%E8%8A%B3%E5%AA%BD%E5%AA%BD%E9%80%9D%E4%B8%96-%E8%A6%83%E7%BE%8E%E9%87%91%E7%94%9F%E5%89%8D%E6%82%A3%E5%BF%83%E8%87%9F%E7%97%85%E9%AB%98%E8%A1%80%E5%A3%93-%E9%A3%9F%E9%BA%A5%E7%9A%AE%E6%9A%88%E5%80%92%E5%8D%B0%E5%82%AD%E5%A0%B1%E6%A1%88",
+    "timestamp": "2026-08-30T08:23:41.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅媽離世丨曾指兒子負債纍纍登報脫離關係　梅啟明斥母親鐵石心腸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170526513620062208679345.png/wqFiz4_ctY0dBtCkKtZIOW9FGbJBDYoFHlNdqB5TXag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60373152/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8C%81%E5%88%80%E7%94%B7%E9%97%96%E9%BA%A5%E7%95%B6%E5%8B%9E-%E9%81%AD%E5%8B%87%E7%94%B7%E5%A5%AA%E5%88%80%E5%A3%93%E5%88%B6-%E9%80%83%E5%87%BA%E5%BA%97%E5%A4%96%E5%9C%96%E6%90%B6%E8%AD%A6%E8%BB%8A%E9%81%AD%E6%93%8A%E6%96%83",
     "timestamp": "2026-08-29T23:45:16.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大持刀男闖麥當勞　遭勇男奪刀壓制　逃出店外圖搶警車遭擊斃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170526513620062208679345.png/wqFiz4_ctY0dBtCkKtZIOW9FGbJBDYoFHlNdqB5TXag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60373152/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8C%81%E5%88%80%E7%94%B7%E9%97%96%E9%BA%A5%E7%95%B6%E5%8B%9E-%E9%81%AD%E5%8B%87%E7%94%B7%E5%A5%AA%E5%88%80%E5%A3%93%E5%88%B6-%E9%80%83%E5%87%BA%E5%BA%97%E5%A4%96%E5%9C%96%E6%90%B6%E8%AD%A6%E8%BB%8A%E9%81%AD%E6%93%8A%E6%96%83",
-    "timestamp": "2026-08-29T23:26:33.787Z",
     "strategy": ".content-card__main"
   }
 ];
