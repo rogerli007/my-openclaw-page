@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T04:43:44.558Z
+// Last updated: 2026-08-30T05:19:20.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大港人「救生艇」計劃不延期8.31結束　限期前遞交的申請續理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110958485811499008917268.jpeg/bFYRWxTF6EZRJkAEddjWkDQf_AyHTMjm_uMf-v7jH_o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385000/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B8%AF%E4%BA%BA-%E6%95%91%E7%94%9F%E8%89%87-%E8%A8%88%E5%8A%83%E4%B8%8D%E5%BB%B6%E6%9C%9F8-31%E7%B5%90%E6%9D%9F-%E9%99%90%E6%9C%9F%E5%89%8D%E9%81%9E%E4%BA%A4%E7%9A%84%E7%94%B3%E8%AB%8B%E7%BA%8C%E7%90%86",
+    "timestamp": "2026-08-30T05:19:20.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "為轟-20等新型航空器測試做準備？美媒指新疆試飛基地大規模擴建",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170593381793927168076391.jpeg/DklX7VheOVb1npomLcp5l94JKZUUUibVNcPEdA_DxHQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384948/%E5%85%83%E6%9C%97%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%92%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-49%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1%E6%88%92%E6%8C%87%E5%92%8C%E7%8E%89%E9%90%B2-%E5%85%B1%E5%80%BC-30%E8%90%AC",
     "timestamp": "2026-08-29T21:27:47.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗錦綉花園獨立屋遭爆竊　49歲男損失戒指和玉鐲　共值$30萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170593381793927168076391.jpeg/DklX7VheOVb1npomLcp5l94JKZUUUibVNcPEdA_DxHQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384948/%E5%85%83%E6%9C%97%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%92%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-49%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1%E6%88%92%E6%8C%87%E5%92%8C%E7%8E%89%E9%90%B2-%E5%85%B1%E5%80%BC-30%E8%90%AC",
-    "timestamp": "2026-08-29T21:17:04.727Z",
     "strategy": ".content-card__main"
   }
 ];
