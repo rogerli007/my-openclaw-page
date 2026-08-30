@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T05:19:20.347Z
+// Last updated: 2026-08-30T05:30:36.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣男子墮海昏迷　救援人員救起送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170711276897177600903127.png/Ff8Qdkrk2fGEZSUbsKtSSK60NWg1FoDMYWL392Fi9_c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384993/%E9%9D%92%E8%A1%A3%E7%94%B7%E5%AD%90%E5%A2%AE%E6%B5%B7%E6%98%8F%E8%BF%B7-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-08-30T05:30:36.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大港人「救生艇」計劃不延期8.31結束　限期前遞交的申請續理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170593381793927168076391.jpeg/DklX7VheOVb1npomLcp5l94JKZUUUibVNcPEdA_DxHQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384948/%E5%85%83%E6%9C%97%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%92%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-49%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1%E6%88%92%E6%8C%87%E5%92%8C%E7%8E%89%E9%90%B2-%E5%85%B1%E5%80%BC-30%E8%90%AC",
     "timestamp": "2026-08-29T21:40:45.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗錦綉花園獨立屋遭爆竊　49歲男損失戒指和玉鐲　共值$30萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170593381793927168076391.jpeg/DklX7VheOVb1npomLcp5l94JKZUUUibVNcPEdA_DxHQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384948/%E5%85%83%E6%9C%97%E9%8C%A6%E7%B6%89%E8%8A%B1%E5%9C%92%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-49%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1%E6%88%92%E6%8C%87%E5%92%8C%E7%8E%89%E9%90%B2-%E5%85%B1%E5%80%BC-30%E8%90%AC",
-    "timestamp": "2026-08-29T21:27:47.064Z",
     "strategy": ".content-card__main"
   }
 ];
