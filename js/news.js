@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T17:53:25.892Z
+// Last updated: 2026-08-30T18:42:21.309Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼聯大炒葉士域治5：2取開季首勝　周日晚英超共錄17球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170915243090513920078951.png/sANFU_gaKe1krBgEimZwzJM0agXFExP7WOv2Q1jr9kM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385145/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E5%A4%A7%E7%82%92%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB5-2%E5%8F%96%E9%96%8B%E5%AD%A3%E9%A6%96%E5%8B%9D-%E5%91%A8%E6%97%A5%E6%99%9A%E8%8B%B1%E8%B6%85%E5%85%B1%E9%8C%8417%E7%90%83",
+    "timestamp": "2026-08-30T18:42:21.309Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞浦路斯渡輪翻沉8死17失蹤　船長及7名船員被扣查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170819799089942528620418.jpeg/O6GQUxH6SaKmusamwy5UHolLRJ8RXfCLRnL83EZy_Nw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385097/%E9%96%8B%E5%AD%B8-%E9%AB%98%E9%90%B5%E8%A5%BF%E4%B9%9D%E9%BE%8D%E7%AB%99%E7%8F%BE%E8%BF%94%E6%B8%AF%E6%BD%AE-%E5%AE%B6%E9%95%B7%E8%B6%81%E5%81%87%E6%9C%9F%E5%B0%BE%E8%81%B2%E5%B8%B6%E5%AD%90%E9%81%8A%E7%A6%8F%E5%B7%9E%E8%8A%B1-5000",
     "timestamp": "2026-08-30T12:53:44.043Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "開學｜高鐵西九龍站現返港潮　家長趁假期尾聲帶子遊福州花$5000",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170819799089942528620418.jpeg/O6GQUxH6SaKmusamwy5UHolLRJ8RXfCLRnL83EZy_Nw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385097/%E9%96%8B%E5%AD%B8-%E9%AB%98%E9%90%B5%E8%A5%BF%E4%B9%9D%E9%BE%8D%E7%AB%99%E7%8F%BE%E8%BF%94%E6%B8%AF%E6%BD%AE-%E5%AE%B6%E9%95%B7%E8%B6%81%E5%81%87%E6%9C%9F%E5%B0%BE%E8%81%B2%E5%B8%B6%E5%AD%90%E9%81%8A%E7%A6%8F%E5%B7%9E%E8%8A%B1-5000",
-    "timestamp": "2026-08-30T12:45:11.222Z",
     "strategy": ".content-card__main"
   }
 ];
