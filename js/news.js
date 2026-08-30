@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T12:53:44.043Z
+// Last updated: 2026-08-30T13:17:30.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港姐2026｜曹永廉馬國明蕭正楠  廣告時段急忙對稿抹汗補妝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170841145480056832874621.jpeg/1alMXJEUktoTIYvQt3Y6FIVAfDL4iUv7Puf-MT7n_jE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385113/%E6%B8%AF%E5%A7%902026-%E6%9B%B9%E6%B0%B8%E5%BB%89%E9%A6%AC%E5%9C%8B%E6%98%8E%E8%95%AD%E6%AD%A3%E6%A5%A0-%E5%BB%A3%E5%91%8A%E6%99%82%E6%AE%B5%E6%80%A5%E5%BF%99%E5%B0%8D%E7%A8%BF%E6%8A%B9%E6%B1%97%E8%A3%9C%E5%A6%9D",
+    "timestamp": "2026-08-30T13:17:30.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "開學｜高鐵西九龍站現返港潮　家長趁假期尾聲帶子遊福州花$5000",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1144033824900911104470982.jpeg/iA5lICC6rQFj7U9kY2QszusL8rG6zNbjvfr0_of69P4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60361446/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E5%91%A8%E8%8A%B3%E5%A7%BF%E5%BB%A3%E6%9D%B1%E8%A9%B1%E5%94%94%E5%A5%BD%E9%A9%9A%E5%88%B0%E9%A1%AB%E6%8A%96-%E9%A1%8F%E6%87%BF%E8%8F%B2%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%84%A1%E6%87%BC%E9%AB%98%E9%BD%A1",
     "timestamp": "2026-08-30T06:29:52.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告．五年規劃｜立法會下月合併辯論　李慧琼：突顯兩者關連",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260611/1141740643068940288541968.png/V80b2KmQtauGNPhJh9pPcGoePiIlyl_kdX11s3V9dbM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60385004/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E7%AB%8B%E6%B3%95%E6%9C%83%E4%B8%8B%E6%9C%88%E5%90%88%E4%BD%B5%E8%BE%AF%E8%AB%96-%E6%9D%8E%E6%85%A7%E7%90%BC-%E7%AA%81%E9%A1%AF%E5%85%A9%E8%80%85%E9%97%9C%E9%80%A3",
-    "timestamp": "2026-08-30T05:55:09.243Z",
     "strategy": ".content-card__main"
   }
 ];
