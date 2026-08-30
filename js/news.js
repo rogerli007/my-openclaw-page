@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T14:53:35.041Z
+// Last updated: 2026-08-30T15:17:30.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北美雙職華人家庭煮食難　大華超市推「亞洲鮮食生活」賣現炒熟食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170819834527617024610247.png/hwHylbLEOZoe_D6_O5jgm6UJnRI9Yb8M5Z2lWuWdpVo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378949/%E5%8C%97%E7%BE%8E%E9%9B%99%E8%81%B7%E8%8F%AF%E4%BA%BA%E5%AE%B6%E5%BA%AD%E7%85%AE%E9%A3%9F%E9%9B%A3-%E5%A4%A7%E8%8F%AF%E8%B6%85%E5%B8%82%E6%8E%A8-%E4%BA%9E%E6%B4%B2%E9%AE%AE%E9%A3%9F%E7%94%9F%E6%B4%BB-%E8%B3%A3%E7%8F%BE%E7%82%92%E7%86%9F%E9%A3%9F",
+    "timestamp": "2026-08-30T15:17:30.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港小姐2026完整賽果｜袁絲珩奪冠、鄧匡閔亞軍李澤欣雙料季軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132122090418212864318674.jpeg/WvYuu0kmoWtk3ZBBIwWvQQE1_SKStXYGX_5hn2X-YZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385060/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%B3%95%E5%9C%98%E5%89%8D%E5%A7%94%E5%93%A1%E6%B1%9F%E7%A5%A5%E7%99%BC%E8%A2%AB%E6%8E%A7%E5%85%A9%E9%A0%85%E8%A9%90%E9%A8%99%E5%8F%8A%E4%B8%80%E9%A0%85%E6%B4%97%E9%BB%91%E9%8C%A2%E7%BD%AA-%E6%9C%AC%E5%91%A8%E4%BA%8C%E6%8F%90%E5%A0%82",
     "timestamp": "2026-08-30T09:31:24.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑法團前委員江祥發被控兩項詐騙及一項洗黑錢罪　本周二提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132122090418212864318674.jpeg/WvYuu0kmoWtk3ZBBIwWvQQE1_SKStXYGX_5hn2X-YZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385060/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%B3%95%E5%9C%98%E5%89%8D%E5%A7%94%E5%93%A1%E6%B1%9F%E7%A5%A5%E7%99%BC%E8%A2%AB%E6%8E%A7%E5%85%A9%E9%A0%85%E8%A9%90%E9%A8%99%E5%8F%8A%E4%B8%80%E9%A0%85%E6%B4%97%E9%BB%91%E9%8C%A2%E7%BD%AA-%E6%9C%AC%E5%91%A8%E4%BA%8C%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-08-30T09:21:24.014Z",
     "strategy": ".content-card__main"
   }
 ];
