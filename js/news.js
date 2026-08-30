@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T16:42:35.169Z
+// Last updated: 2026-08-30T17:16:08.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古天樂澳門演唱會｜姜濤做壓軸嘉賓　要求公主抱起古生再贈強吻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170890416338243584306912.jpeg/8LircoPqUcIwiPADOI_PKMSvp2zOw9Ve0CmXz9Apl88?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385135/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%BE%B3%E9%96%80%E6%BC%94%E5%94%B1%E6%9C%83-%E5%A7%9C%E6%BF%A4%E5%81%9A%E5%A3%93%E8%BB%B8%E5%98%89%E8%B3%93-%E8%A6%81%E6%B1%82%E5%85%AC%E4%B8%BB%E6%8A%B1%E8%B5%B7%E5%8F%A4%E7%94%9F%E5%86%8D%E8%B4%88%E5%BC%B7%E5%90%BB",
+    "timestamp": "2026-08-30T17:16:08.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜尼泊爾中學校長果斷疏散　挽救逾1600名學生性命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170810058951364608869534.jpeg/Ftmm-YgfbbS_iJetR6MPbq0KKYYceOMcJCRWNCQkVjQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385088/%E6%A2%85%E5%95%9F%E6%98%8E%E5%86%8D%E8%A6%8B%E6%A2%85%E5%AA%BD%E5%B7%B2%E5%9C%A8%E5%81%9C%E5%B1%8D%E9%96%93-%E5%94%94%E8%A6%BA%E6%9C%AA%E5%92%8C%E8%A7%A3%E6%9C%89%E9%81%BA%E6%86%BE-%E6%AF%8D%E5%AD%90%E6%9C%89%E5%92%A9%E9%9A%94%E5%A4%9C%E4%BB%87",
     "timestamp": "2026-08-30T11:28:08.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流・一片睇清｜奪命泥石流　冰崩引發每秒50米碎屑流滅村",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170742956794056704468095.jpeg/aW8I2BeRv1ESRyTE90ID3fKSXtz2yiiqPixfUj4sX1I",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60384906/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%80%E7%89%87%E7%9D%87%E6%B8%85-%E5%A5%AA%E5%91%BD%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%86%B0%E5%B4%A9%E5%BC%95%E7%99%BC%E6%AF%8F%E7%A7%9250%E7%B1%B3%E7%A2%8E%E5%B1%91%E6%B5%81%E6%BB%85%E6%9D%91",
-    "timestamp": "2026-08-30T11:18:49.414Z",
     "strategy": ".content-card__main"
   }
 ];
