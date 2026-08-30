@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T14:40:38.835Z
+// Last updated: 2026-08-30T14:53:35.041Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港小姐2026完整賽果｜袁絲珩奪冠、鄧匡閔亞軍李澤欣雙料季軍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170861447727550464149852.jpeg/9Q4kYgvEzod_bWEPglFYVnbEX2FISPMPOSrFKTkqxSk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385034/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026%E6%B1%BA%E8%B3%BD%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-%E8%A2%81%E7%B5%B2%E7%8F%A9%E5%A5%AA%E5%86%A0-%E9%84%A7%E5%8C%A1%E9%96%94%E6%9D%8E%E6%BE%A4%E6%AC%A3%E5%A5%AA%E4%BA%9E%E5%AD%A3%E8%BB%8D",
+    "timestamp": "2026-08-30T14:53:35.041Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮提詞機操作員內幕下注遭調查　被罰逾6萬美元及交出非法所得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132122090418212864318674.jpeg/WvYuu0kmoWtk3ZBBIwWvQQE1_SKStXYGX_5hn2X-YZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385060/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%B3%95%E5%9C%98%E5%89%8D%E5%A7%94%E5%93%A1%E6%B1%9F%E7%A5%A5%E7%99%BC%E8%A2%AB%E6%8E%A7%E5%85%A9%E9%A0%85%E8%A9%90%E9%A8%99%E5%8F%8A%E4%B8%80%E9%A0%85%E6%B4%97%E9%BB%91%E9%8C%A2%E7%BD%AA-%E6%9C%AC%E5%91%A8%E4%BA%8C%E6%8F%90%E5%A0%82",
     "timestamp": "2026-08-30T09:21:24.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5人食順德淡水魚刺身確診肝吸蟲病　中疾控：成蟲可在人體活30年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2068056/org/342d86be0e27e8171347e3ee29a3a21f.jpg/WV7vr9DONgTcVlIMK0MnbynSToTzL1b56bns-Om57Pg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60385055/5%E4%BA%BA%E9%A3%9F%E9%A0%86%E5%BE%B7%E6%B7%A1%E6%B0%B4%E9%AD%9A%E5%88%BA%E8%BA%AB%E7%A2%BA%E8%A8%BA%E8%82%9D%E5%90%B8%E8%9F%B2%E7%97%85-%E4%B8%AD%E7%96%BE%E6%8E%A7-%E6%88%90%E8%9F%B2%E5%8F%AF%E5%9C%A8%E4%BA%BA%E9%AB%94%E6%B4%BB30%E5%B9%B4",
-    "timestamp": "2026-08-30T08:53:41.452Z",
     "strategy": ".content-card__main"
   }
 ];
