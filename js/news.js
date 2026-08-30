@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T09:21:24.014Z
+// Last updated: 2026-08-30T09:31:24.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑法團前委員江祥發被控兩項詐騙及一項洗黑錢罪　本周二提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132122090418212864318674.jpeg/WvYuu0kmoWtk3ZBBIwWvQQE1_SKStXYGX_5hn2X-YZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385060/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%B3%95%E5%9C%98%E5%89%8D%E5%A7%94%E5%93%A1%E6%B1%9F%E7%A5%A5%E7%99%BC%E8%A2%AB%E6%8E%A7%E5%85%A9%E9%A0%85%E8%A9%90%E9%A8%99%E5%8F%8A%E4%B8%80%E9%A0%85%E6%B4%97%E9%BB%91%E9%8C%A2%E7%BD%AA-%E6%9C%AC%E5%91%A8%E4%BA%8C%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-08-30T09:31:24.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑法團前委員江祥發被控兩項詐騙及一項洗黑錢罪　本周二提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105527479386247168563178.jpeg/JhiypWa-CZE4Ndjgl-m3GM-VKNnskSi6Okw75jpMO-Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384964/%E4%BC%8A%E6%9C%97%E5%86%8D%E5%90%A6%E8%AA%8D%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%96%8B%E6%94%BE-%E9%87%8D%E7%94%B3%E8%88%B9%E9%9A%BB%E9%80%9A%E8%A1%8C%E9%A0%88%E7%8D%B2%E5%BE%B7%E9%BB%91%E8%98%AD%E8%A8%B1%E5%8F%AF",
     "timestamp": "2026-08-30T01:51:39.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧專訪｜從小被灌輸男生險惡　家禁露營遊船河：仲有得剩嘅？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170420067096072192345209.jpeg/z01z0hw_XWhyJidOC__-I-ZL8pZu4qHTLvofMy76HzM",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383750/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%B0%88%E8%A8%AA-%E5%BE%9E%E5%B0%8F%E8%A2%AB%E7%81%8C%E8%BC%B8%E7%94%B7%E7%94%9F%E9%9A%AA%E6%83%A1-%E5%AE%B6%E7%A6%81%E9%9C%B2%E7%87%9F%E9%81%8A%E8%88%B9%E6%B2%B3-%E4%BB%B2%E6%9C%89%E5%BE%97%E5%89%A9%E5%98%85",
-    "timestamp": "2026-08-30T01:31:32.940Z",
     "strategy": ".content-card__main"
   }
 ];
