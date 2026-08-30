@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T21:17:20.384Z
+// Last updated: 2026-08-30T21:27:31.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "迪士尼的士疑濫收逾200元過橋費　遊客：打破了我對香港的濾鏡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170950897446948864962014.png/ZNjLV8xSS-TmOKwfvBCn-vOGPp33lCh_TynY708p2O8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385150/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9A%84%E5%A3%AB%E7%96%91%E6%BF%AB%E6%94%B6%E9%80%BE200%E5%85%83%E9%81%8E%E6%A9%8B%E8%B2%BB-%E9%81%8A%E5%AE%A2-%E6%89%93%E7%A0%B4%E4%BA%86%E6%88%91%E5%B0%8D%E9%A6%99%E6%B8%AF%E7%9A%84%E6%BF%BE%E9%8F%A1",
+    "timestamp": "2026-08-30T21:27:31.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "迪士尼的士疑濫收逾200元過橋費　遊客：打破了我對香港的濾鏡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154845605235789824790214.jpeg/J8xrG3A57ol-B0p0J4wfef2vj27ueH2WjMTdSYzE3Uk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385117/%E7%99%BD%E5%AE%AE%E6%8F%90%E8%A9%9E%E6%A9%9F%E6%93%8D%E4%BD%9C%E5%93%A1%E5%85%A7%E5%B9%95%E4%B8%8B%E6%B3%A8%E9%81%AD%E8%AA%BF%E6%9F%A5-%E8%A2%AB%E7%BD%B0%E9%80%BE6%E8%90%AC%E7%BE%8E%E5%85%83%E5%8F%8A%E4%BA%A4%E5%87%BA%E9%9D%9E%E6%B3%95%E6%89%80%E5%BE%97",
     "timestamp": "2026-08-30T14:40:38.835Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梁凱晴驚爆與黃建東拍拖睇騷  即時劃清界線：下次會企遠啲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170856858966036480958276.jpeg/7YvBf0lmt9EFT5s_OhxsJDHP9cGUMAxBH85oGR_OaBk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385121/%E6%A2%81%E5%87%B1%E6%99%B4%E9%A9%9A%E7%88%86%E8%88%87%E9%BB%83%E5%BB%BA%E6%9D%B1%E6%8B%8D%E6%8B%96%E7%9D%87%E9%A8%B7-%E5%8D%B3%E6%99%82%E5%8A%83%E6%B8%85%E7%95%8C%E7%B7%9A-%E4%B8%8B%E6%AC%A1%E6%9C%83%E4%BC%81%E9%81%A0%E5%95%B2",
-    "timestamp": "2026-08-30T14:29:16.645Z",
     "strategy": ".content-card__main"
   }
 ];
