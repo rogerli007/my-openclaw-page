@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T08:53:41.452Z
+// Last updated: 2026-08-30T09:21:24.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑法團前委員江祥發被控兩項詐騙及一項洗黑錢罪　本周二提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132122090418212864318674.jpeg/WvYuu0kmoWtk3ZBBIwWvQQE1_SKStXYGX_5hn2X-YZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385060/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%B3%95%E5%9C%98%E5%89%8D%E5%A7%94%E5%93%A1%E6%B1%9F%E7%A5%A5%E7%99%BC%E8%A2%AB%E6%8E%A7%E5%85%A9%E9%A0%85%E8%A9%90%E9%A8%99%E5%8F%8A%E4%B8%80%E9%A0%85%E6%B4%97%E9%BB%91%E9%8C%A2%E7%BD%AA-%E6%9C%AC%E5%91%A8%E4%BA%8C%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-08-30T09:21:24.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5人食順德淡水魚刺身確診肝吸蟲病　中疾控：成蟲可在人體活30年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170420067096072192345209.jpeg/z01z0hw_XWhyJidOC__-I-ZL8pZu4qHTLvofMy76HzM",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383750/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%B0%88%E8%A8%AA-%E5%BE%9E%E5%B0%8F%E8%A2%AB%E7%81%8C%E8%BC%B8%E7%94%B7%E7%94%9F%E9%9A%AA%E6%83%A1-%E5%AE%B6%E7%A6%81%E9%9C%B2%E7%87%9F%E9%81%8A%E8%88%B9%E6%B2%B3-%E4%BB%B2%E6%9C%89%E5%BE%97%E5%89%A9%E5%98%85",
     "timestamp": "2026-08-30T01:31:32.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2.28億六合彩50週年金多寶9.5攪珠｜Gemini計3組最旺膽拖投注組合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170653156955131904240753.jpeg/Z3KXM2yLpIFoXQW9QYBFUCol75QKEedEI5vbISOb2yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60384954/2-28%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A950%E9%80%B1%E5%B9%B4%E9%87%91%E5%A4%9A%E5%AF%B69-5%E6%94%AA%E7%8F%A0-gemini%E8%A8%883%E7%B5%84%E6%9C%80%E6%97%BA%E8%86%BD%E6%8B%96%E6%8A%95%E6%B3%A8%E7%B5%84%E5%90%88",
-    "timestamp": "2026-08-30T00:54:00.679Z",
     "strategy": ".content-card__main"
   }
 ];
