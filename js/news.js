@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T15:41:19.465Z
+// Last updated: 2026-08-30T16:20:15.354Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WhatsApp騎劫｜逆市飆升禍及親友　警拆解奪號手法　教你防騙四招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170869723068370944429187.jpeg/KNx7L8v5s6XmBCb3Bf6tKVEZGpROnpdMD0B-7w9Afu8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384718/whatsapp%E9%A8%8E%E5%8A%AB-%E9%80%86%E5%B8%82%E9%A3%86%E5%8D%87%E7%A6%8D%E5%8F%8A%E8%A6%AA%E5%8F%8B-%E8%AD%A6%E6%8B%86%E8%A7%A3%E5%A5%AA%E8%99%9F%E6%89%8B%E6%B3%95-%E6%95%99%E4%BD%A0%E9%98%B2%E9%A8%99%E5%9B%9B%E6%8B%9B",
+    "timestamp": "2026-08-30T16:20:15.354Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雙旋共舞｜ 天文台料低壓區向東橫過港南面　另一低壓區移向琉球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170795473217261568178096.png/jpqqUggcMAZFs5km2EDAz0434Rgiid1DRVQILUVUCC0?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385066/%E6%9C%89%E7%89%87-%E4%B8%AD%E8%B6%85%E7%90%83%E5%93%A1%E9%98%AE%E5%A5%87%E9%BE%8D%E9%80%B2%E7%90%83%E6%85%B6%E7%A5%9D-%E7%9B%B4%E6%92%AD%E9%AB%98%E8%88%89-%E5%81%9C%E6%AD%A2%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9-%E8%AD%B7%E8%84%9B%E6%9D%BF",
     "timestamp": "2026-08-30T10:45:16.098Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張雪機車創辦人現身香港　親自為何君堯等車主交付新車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170787540710461440932576.png/MRCh6JkbkQVJeUwR6UPCj9zted7HexmDI0R9HCNEfRw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385062/%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E5%89%B5%E8%BE%A6%E4%BA%BA%E7%8F%BE%E8%BA%AB%E9%A6%99%E6%B8%AF-%E8%A6%AA%E8%87%AA%E7%82%BA%E4%BD%95%E5%90%9B%E5%A0%AF%E7%AD%89%E8%BB%8A%E4%B8%BB%E4%BA%A4%E4%BB%98%E6%96%B0%E8%BB%8A",
-    "timestamp": "2026-08-30T10:18:38.083Z",
     "strategy": ".content-card__main"
   }
 ];
