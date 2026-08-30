@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T06:58:29.208Z
+// Last updated: 2026-08-30T07:40:55.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅媽離世丨曾指兒子負債纍纍登報脫離關係　梅啟明斥母親鐵石心腸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170756589229969408792605.jpeg/i0c_wgaQ6Sq2njztq2Z5k-QNSFff5Z8gP1ertT9Xq7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385029/%E6%A2%85%E5%AA%BD%E9%9B%A2%E4%B8%96-%E6%9B%BE%E6%8C%87%E5%85%92%E5%AD%90%E8%B2%A0%E5%82%B5%E7%BA%8D%E7%BA%8D%E7%99%BB%E5%A0%B1%E8%84%AB%E9%9B%A2%E9%97%9C%E4%BF%82-%E6%A2%85%E5%95%9F%E6%98%8E%E6%96%A5%E6%AF%8D%E8%A6%AA%E9%90%B5%E7%9F%B3%E5%BF%83%E8%85%B8",
+    "timestamp": "2026-08-30T07:40:55.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港小姐2026｜湯家琳驚現水痘疤、陳梓穎心口現離奇紅印",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170526513620062208679345.png/wqFiz4_ctY0dBtCkKtZIOW9FGbJBDYoFHlNdqB5TXag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60373152/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8C%81%E5%88%80%E7%94%B7%E9%97%96%E9%BA%A5%E7%95%B6%E5%8B%9E-%E9%81%AD%E5%8B%87%E7%94%B7%E5%A5%AA%E5%88%80%E5%A3%93%E5%88%B6-%E9%80%83%E5%87%BA%E5%BA%97%E5%A4%96%E5%9C%96%E6%90%B6%E8%AD%A6%E8%BB%8A%E9%81%AD%E6%93%8A%E6%96%83",
     "timestamp": "2026-08-29T23:26:33.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍天恒邨眾男打架　妻子目擊報案　丈夫遭圍毆昏迷送院兼被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170617151195713536480692.jpeg/6rlj9wtQnu26h6zzkuLrirAyI187fT-ajOgH47boB-M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384953/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%81%92%E9%82%A8%E7%9C%BE%E7%94%B7%E6%89%93%E6%9E%B6-%E5%A6%BB%E5%AD%90%E7%9B%AE%E6%93%8A%E5%A0%B1%E6%A1%88-%E4%B8%88%E5%A4%AB%E9%81%AD%E5%9C%8D%E6%AF%86%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E5%85%BC%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-29T22:54:07.393Z",
     "strategy": ".content-card__main"
   }
 ];
