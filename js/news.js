@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T00:54:00.679Z
+// Last updated: 2026-08-30T01:31:32.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧專訪｜從小被灌輸男生險惡　家禁露營遊船河：仲有得剩嘅？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170420067096072192345209.jpeg/z01z0hw_XWhyJidOC__-I-ZL8pZu4qHTLvofMy76HzM",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60383750/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%B0%88%E8%A8%AA-%E5%BE%9E%E5%B0%8F%E8%A2%AB%E7%81%8C%E8%BC%B8%E7%94%B7%E7%94%9F%E9%9A%AA%E6%83%A1-%E5%AE%B6%E7%A6%81%E9%9C%B2%E7%87%9F%E9%81%8A%E8%88%B9%E6%B2%B3-%E4%BB%B2%E6%9C%89%E5%BE%97%E5%89%A9%E5%98%85",
+    "timestamp": "2026-08-30T01:31:32.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2.28億六合彩50週年金多寶9.5攪珠｜Gemini計3組最旺膽拖投注組合",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170551129172348928176925.jpeg/oOe_UJxIDFvKXZZ7y0R7FYde5tt3oesvtHay67R2sus?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384935/%E8%A5%BF%E7%92%B0%E8%80%81%E7%BF%81%E7%96%91%E7%84%A1%E7%89%BD%E7%B9%A9%E6%94%BE%E7%8B%97%E5%92%AC%E5%82%B7%E4%BA%BA-5%E6%97%A5%E5%BE%8C%E5%86%8D%E7%84%A1%E6%88%B4%E7%8B%97%E7%B9%A9%E9%81%9B%E7%8B%97-%E7%9B%AE%E6%93%8A%E8%80%85%E5%A0%B1%E6%A1%88",
     "timestamp": "2026-08-29T18:53:19.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西環老翁疑無牽繩放狗咬傷人　5日後再無戴狗繩遛狗　目擊者報案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170551129172348928176925.jpeg/oOe_UJxIDFvKXZZ7y0R7FYde5tt3oesvtHay67R2sus?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384935/%E8%A5%BF%E7%92%B0%E8%80%81%E7%BF%81%E7%96%91%E7%84%A1%E7%89%BD%E7%B9%A9%E6%94%BE%E7%8B%97%E5%92%AC%E5%82%B7%E4%BA%BA-5%E6%97%A5%E5%BE%8C%E5%86%8D%E7%84%A1%E6%88%B4%E7%8B%97%E7%B9%A9%E9%81%9B%E7%8B%97-%E7%9B%AE%E6%93%8A%E8%80%85%E5%A0%B1%E6%A1%88",
-    "timestamp": "2026-08-29T18:42:00.385Z",
     "strategy": ".content-card__main"
   }
 ];
