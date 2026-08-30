@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T22:18:25.039Z
+// Last updated: 2026-08-30T22:29:17.194Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨及狂風雷暴　驟雨逐漸增多　最高31度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170976447272062976617954.jpeg/iF1vOkxqJO3iCdF14udLYdrlt3i7oj9_dv749nb--PY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385138/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E9%A9%9F%E9%9B%A8%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A-%E6%9C%80%E9%AB%9831%E5%BA%A6",
+    "timestamp": "2026-08-30T22:29:17.194Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新盤激發購買力　十大屋苑周末12宗成交　太古城連錄3宗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170766580456361984071845.jpeg/dWeAU9_UAjDAvVoBjZTVeAG8Ou7ze6QjrHGQ5qxxkOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385048/%E9%9B%99%E6%97%8B%E5%85%B1%E8%88%9E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E5%8D%80%E5%90%91%E6%9D%B1%E6%A9%AB%E9%81%8E%E6%B8%AF%E5%8D%97%E9%9D%A2-%E5%8F%A6%E4%B8%80%E4%BD%8E%E5%A3%93%E5%8D%80%E7%A7%BB%E5%90%91%E7%90%89%E7%90%83",
     "timestamp": "2026-08-30T15:29:31.139Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北美雙職華人家庭煮食難　大華超市推「亞洲鮮食生活」賣現炒熟食",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170819834527617024610247.png/hwHylbLEOZoe_D6_O5jgm6UJnRI9Yb8M5Z2lWuWdpVo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60378949/%E5%8C%97%E7%BE%8E%E9%9B%99%E8%81%B7%E8%8F%AF%E4%BA%BA%E5%AE%B6%E5%BA%AD%E7%85%AE%E9%A3%9F%E9%9B%A3-%E5%A4%A7%E8%8F%AF%E8%B6%85%E5%B8%82%E6%8E%A8-%E4%BA%9E%E6%B4%B2%E9%AE%AE%E9%A3%9F%E7%94%9F%E6%B4%BB-%E8%B3%A3%E7%8F%BE%E7%82%92%E7%86%9F%E9%A3%9F",
-    "timestamp": "2026-08-30T15:17:30.485Z",
     "strategy": ".content-card__main"
   }
 ];
