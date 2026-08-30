@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T11:28:08.686Z
+// Last updated: 2026-08-30T11:41:28.405Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜新堰塞湖形成　自然資源部初判8處地質災害高風險點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170723196308033536094723.png/oC1CYJAFUuShQ4LIOUaF0wPhTomYSuX3g4eE64OHhOs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385003/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%96%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BD%A2%E6%88%90-%E8%87%AA%E7%84%B6%E8%B3%87%E6%BA%90%E9%83%A8%E5%88%9D%E5%88%A48%E8%99%95%E5%9C%B0%E8%B3%AA%E7%81%BD%E5%AE%B3%E9%AB%98%E9%A2%A8%E9%9A%AA%E9%BB%9E",
+    "timestamp": "2026-08-30T11:41:28.405Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅啟明再見梅媽已在停屍間　唔覺未和解有遺憾：母子有咩隔夜仇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240916/912395897806000128239617.jpeg/d5r7snDIeKoT77GPrQ9bSJzrXZyMcZ87iDwJsIg8CbA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384980/%E7%82%BA%E8%BD%9F-20%E7%AD%89%E6%96%B0%E5%9E%8B%E8%88%AA%E7%A9%BA%E5%99%A8%E6%B8%AC%E8%A9%A6%E5%81%9A%E6%BA%96%E5%82%99-%E7%BE%8E%E5%AA%92%E6%8C%87%E6%96%B0%E7%96%86%E8%A9%A6%E9%A3%9B%E5%9F%BA%E5%9C%B0%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%93%B4%E5%BB%BA",
     "timestamp": "2026-08-30T04:43:44.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港小姐2026｜袁絲珩盼好成績、鄧匡閔克服笑容僵硬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1144048375075704832025396.jpeg/5qBzEnBGui1L_s3tUBt60GYAMN4fj6pwzuKusPTirrA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60361296/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E8%A2%81%E7%B5%B2%E7%8F%A9%E7%9B%BC%E5%A5%BD%E6%88%90%E7%B8%BE-%E9%84%A7%E5%8C%A1%E9%96%94%E5%85%8B%E6%9C%8D%E7%AC%91%E5%AE%B9%E5%83%B5%E7%A1%AC",
-    "timestamp": "2026-08-30T04:22:31.520Z",
     "strategy": ".content-card__main"
   }
 ];
