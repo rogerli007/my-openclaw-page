@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T13:41:20.743Z
+// Last updated: 2026-08-30T13:53:30.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "報告指AI失控個案創紀錄　英監察組織促政府立法強制通報及干預",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250616/1011181289488781312913027.jpeg/yROFJq1kbN6KwfH7HQCMb0EE1iYP9gTFnb_0IZ2_9CE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385081/%E5%A0%B1%E5%91%8A%E6%8C%87ai%E5%A4%B1%E6%8E%A7%E5%80%8B%E6%A1%88%E5%89%B5%E7%B4%80%E9%8C%84-%E8%8B%B1%E7%9B%A3%E5%AF%9F%E7%B5%84%E7%B9%94%E4%BF%83%E6%94%BF%E5%BA%9C%E7%AB%8B%E6%B3%95%E5%BC%B7%E5%88%B6%E9%80%9A%E5%A0%B1%E5%8F%8A%E5%B9%B2%E9%A0%90",
+    "timestamp": "2026-08-30T13:53:30.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洗面都會洗錯？臉部根本不需要深層清潔　泡泡多不代表洗得乾淨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170756589229969408792605.jpeg/i0c_wgaQ6Sq2njztq2Z5k-QNSFff5Z8gP1ertT9Xq7U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385029/%E6%A2%85%E5%AA%BD%E9%9B%A2%E4%B8%96-%E6%9B%BE%E6%8C%87%E5%85%92%E5%AD%90%E8%B2%A0%E5%82%B5%E7%BA%8D%E7%BA%8D%E7%99%BB%E5%A0%B1%E8%84%AB%E9%9B%A2%E9%97%9C%E4%BF%82-%E6%A2%85%E5%95%9F%E6%98%8E%E6%96%A5%E6%AF%8D%E8%A6%AA%E9%90%B5%E7%9F%B3%E5%BF%83%E8%85%B8",
     "timestamp": "2026-08-30T07:40:55.128Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港小姐2026｜湯家琳驚現水痘疤、陳梓穎心口現離奇紅印",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146641629336047616714958.jpeg/jN_dfTk9ErWtokVlEYvZCth9nKuB1eFjLpU2Di6VNg4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363633/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E6%B9%AF%E5%AE%B6%E7%90%B3%E9%A9%9A%E7%8F%BE%E6%B0%B4%E7%97%98%E7%96%A4-%E9%99%B3%E6%A2%93%E7%A9%8E%E5%BF%83%E5%8F%A3%E7%8F%BE%E9%9B%A2%E5%A5%87%E7%B4%85%E5%8D%B0",
-    "timestamp": "2026-08-30T06:58:29.208Z",
     "strategy": ".content-card__main"
   }
 ];
