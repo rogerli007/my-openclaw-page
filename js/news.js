@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T15:17:30.485Z
+// Last updated: 2026-08-30T15:29:31.139Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雙旋共舞｜ 天文台料低壓區向東橫過港南面　另一低壓區移向琉球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170766580456361984071845.jpeg/dWeAU9_UAjDAvVoBjZTVeAG8Ou7ze6QjrHGQ5qxxkOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385048/%E9%9B%99%E6%97%8B%E5%85%B1%E8%88%9E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E5%8D%80%E5%90%91%E6%9D%B1%E6%A9%AB%E9%81%8E%E6%B8%AF%E5%8D%97%E9%9D%A2-%E5%8F%A6%E4%B8%80%E4%BD%8E%E5%A3%93%E5%8D%80%E7%A7%BB%E5%90%91%E7%90%89%E7%90%83",
+    "timestamp": "2026-08-30T15:29:31.139Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北美雙職華人家庭煮食難　大華超市推「亞洲鮮食生活」賣現炒熟食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170774197341786112293064.jpeg/hwXxhf4978fB3B5P-BCSBTq7mDnJg84C4pBw_OKQcPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385057/%E6%B3%B0%E5%9C%8B%E9%A9%85%E9%80%90%E5%A4%96%E7%B1%8D%E4%BA%BA%E5%A3%AB%E6%96%B0%E8%A6%8F%E7%94%9F%E6%95%88-%E5%AE%98%E5%93%A1-%E5%B0%8D%E9%81%95%E6%B3%95%E5%A4%96%E5%9C%8B%E6%97%85%E5%AE%A2%E5%8F%8A%E5%B7%A5%E4%BA%BA%E9%9B%B6%E5%AE%B9%E5%BF%8D",
     "timestamp": "2026-08-30T09:42:17.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑法團前委員江祥發被控兩項詐騙及一項洗黑錢罪　本周二提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132122090418212864318674.jpeg/WvYuu0kmoWtk3ZBBIwWvQQE1_SKStXYGX_5hn2X-YZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385060/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%B3%95%E5%9C%98%E5%89%8D%E5%A7%94%E5%93%A1%E6%B1%9F%E7%A5%A5%E7%99%BC%E8%A2%AB%E6%8E%A7%E5%85%A9%E9%A0%85%E8%A9%90%E9%A8%99%E5%8F%8A%E4%B8%80%E9%A0%85%E6%B4%97%E9%BB%91%E9%8C%A2%E7%BD%AA-%E6%9C%AC%E5%91%A8%E4%BA%8C%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-08-30T09:31:24.279Z",
     "strategy": ".content-card__main"
   }
 ];
