@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T13:27:57.118Z
+// Last updated: 2026-08-30T13:41:20.743Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洗面都會洗錯？臉部根本不需要深層清潔　泡泡多不代表洗得乾淨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141427886998163456157983.jpeg/e6BNotCvg5CEMCyyXV4yubM34faKzLXbMFOeXjBTnl4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60275345/%E6%B4%97%E9%9D%A2%E9%83%BD%E6%9C%83%E6%B4%97%E9%8C%AF-%E8%87%89%E9%83%A8%E6%A0%B9%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94-%E6%B3%A1%E6%B3%A1%E5%A4%9A%E4%B8%8D%E4%BB%A3%E8%A1%A8%E6%B4%97%E5%BE%97%E4%B9%BE%E6%B7%A8",
+    "timestamp": "2026-08-30T13:41:20.743Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港姐2026｜曹永廉馬國明蕭正楠  廣告時段急忙對稿抹汗補妝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146641629336047616714958.jpeg/jN_dfTk9ErWtokVlEYvZCth9nKuB1eFjLpU2Di6VNg4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363633/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E6%B9%AF%E5%AE%B6%E7%90%B3%E9%A9%9A%E7%8F%BE%E6%B0%B4%E7%97%98%E7%96%A4-%E9%99%B3%E6%A2%93%E7%A9%8E%E5%BF%83%E5%8F%A3%E7%8F%BE%E9%9B%A2%E5%A5%87%E7%B4%85%E5%8D%B0",
     "timestamp": "2026-08-30T06:58:29.208Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港小姐2026｜湯家琳驚現水痘疤、陳梓穎心口現離奇紅印",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146641629336047616714958.jpeg/jN_dfTk9ErWtokVlEYvZCth9nKuB1eFjLpU2Di6VNg4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363633/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E6%B9%AF%E5%AE%B6%E7%90%B3%E9%A9%9A%E7%8F%BE%E6%B0%B4%E7%97%98%E7%96%A4-%E9%99%B3%E6%A2%93%E7%A9%8E%E5%BF%83%E5%8F%A3%E7%8F%BE%E9%9B%A2%E5%A5%87%E7%B4%85%E5%8D%B0",
-    "timestamp": "2026-08-30T06:49:26.299Z",
     "strategy": ".content-card__main"
   }
 ];
