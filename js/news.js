@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T18:42:21.309Z
+// Last updated: 2026-08-30T19:24:50.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：將用委內瑞拉石油補充美國戰略儲備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170879832372809728140739.jpeg/dVTWRDVm-j5mDWmvwCfiTkUv8IuF4ZcJ1G-FhtRvhYY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385128/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B0%87%E7%94%A8%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E8%A3%9C%E5%85%85%E7%BE%8E%E5%9C%8B%E6%88%B0%E7%95%A5%E5%84%B2%E5%82%99",
+    "timestamp": "2026-08-30T19:24:50.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼聯大炒葉士域治5：2取開季首勝　周日晚英超共錄17球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170841145480056832874621.jpeg/1alMXJEUktoTIYvQt3Y6FIVAfDL4iUv7Puf-MT7n_jE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385113/%E6%B8%AF%E5%A7%902026-%E6%9B%B9%E6%B0%B8%E5%BB%89%E9%A6%AC%E5%9C%8B%E6%98%8E%E8%95%AD%E6%AD%A3%E6%A5%A0-%E5%BB%A3%E5%91%8A%E6%99%82%E6%AE%B5%E6%80%A5%E5%BF%99%E5%B0%8D%E7%A8%BF%E6%8A%B9%E6%B1%97%E8%A3%9C%E5%A6%9D",
     "timestamp": "2026-08-30T13:17:30.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "開學｜高鐵西九龍站現返港潮　家長趁假期尾聲帶子遊福州花$5000",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170819799089942528620418.jpeg/O6GQUxH6SaKmusamwy5UHolLRJ8RXfCLRnL83EZy_Nw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385097/%E9%96%8B%E5%AD%B8-%E9%AB%98%E9%90%B5%E8%A5%BF%E4%B9%9D%E9%BE%8D%E7%AB%99%E7%8F%BE%E8%BF%94%E6%B8%AF%E6%BD%AE-%E5%AE%B6%E9%95%B7%E8%B6%81%E5%81%87%E6%9C%9F%E5%B0%BE%E8%81%B2%E5%B8%B6%E5%AD%90%E9%81%8A%E7%A6%8F%E5%B7%9E%E8%8A%B1-5000",
-    "timestamp": "2026-08-30T12:53:44.043Z",
     "strategy": ".content-card__main"
   }
 ];
