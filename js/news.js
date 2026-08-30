@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T10:45:16.098Z
+// Last updated: 2026-08-30T10:53:48.303Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港小姐2026決賽紅地氈二｜落選港姐現身　解放豐滿上圍令人驚訝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170803854007078912289471.jpeg/IZk-paGhs4T3OYzG4GAgHDREdSx_xi8D80HP0MVBz9A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385085/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026%E6%B1%BA%E8%B3%BD%E7%B4%85%E5%9C%B0%E6%B0%88%E4%BA%8C-%E8%90%BD%E9%81%B8%E6%B8%AF%E5%A7%90%E7%8F%BE%E8%BA%AB-%E8%A7%A3%E6%94%BE%E8%B1%90%E6%BB%BF%E4%B8%8A%E5%9C%8D%E4%BB%A4%E4%BA%BA%E9%A9%9A%E8%A8%9D",
+    "timestamp": "2026-08-30T10:53:48.303Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜中超球員阮奇龍進球慶祝　直播高舉「停止虐待動物」護脛板",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170694821279436800289134.png/ikzjM6CHnGnIRmig5i5y9qvE1JB2OKY8XZkcE12ZHBM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384978/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8E%9F%E5%B8%82%E9%95%B7%E8%A6%83%E5%81%89%E4%B8%AD%E8%BE%AD%E8%81%B74%E6%97%A5%E5%BE%8C%E5%B1%A5%E6%96%B0-%E5%87%BA%E4%BB%BB%E5%BB%A3%E6%9D%B1%E7%9C%81%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E6%9C%83%E9%A0%98%E5%B0%8E",
     "timestamp": "2026-08-30T03:45:06.139Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾洪災｜97歲婦奇蹟獲救　搭挖泥機坐鏟斗歸來如勇士｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170687528630489088507492.jpeg/-sctsCiUT-Zu7f_VbEXKubGg2q3KZbCstSkfArUpHwI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384972/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD-97%E6%AD%B2%E5%A9%A6%E5%A5%87%E8%B9%9F%E7%8D%B2%E6%95%91-%E6%90%AD%E6%8C%96%E6%B3%A5%E6%A9%9F%E5%9D%90%E9%8F%9F%E6%96%97%E6%AD%B8%E4%BE%86%E5%A6%82%E5%8B%87%E5%A3%AB-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-08-30T03:23:16.683Z",
     "strategy": ".content-card__main"
   }
 ];
