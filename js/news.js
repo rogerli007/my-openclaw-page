@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T22:29:17.194Z
+// Last updated: 2026-08-30T23:27:05.201Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美網｜黃澤林首晉第二主場作賽　先贏一盤反輸三盤首圈止步",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170995081767817216738496.jpeg/__GUbzhK3zFPhpM7Fp7s10J33q3IvKm4j_-X3o__l94?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385132/%E7%BE%8E%E7%B6%B2-%E9%BB%83%E6%BE%A4%E6%9E%97%E9%A6%96%E6%99%89%E7%AC%AC%E4%BA%8C%E4%B8%BB%E5%A0%B4%E4%BD%9C%E8%B3%BD-%E5%85%88%E8%B4%8F%E4%B8%80%E7%9B%A4%E5%8F%8D%E8%BC%B8%E4%B8%89%E7%9B%A4%E9%A6%96%E5%9C%88%E6%AD%A2%E6%AD%A5",
+    "timestamp": "2026-08-30T23:27:05.201Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨及狂風雷暴　驟雨逐漸增多　最高31度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170766580456361984071845.jpeg/dWeAU9_UAjDAvVoBjZTVeAG8Ou7ze6QjrHGQ5qxxkOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385048/%E9%9B%99%E6%97%8B%E5%85%B1%E8%88%9E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E5%8D%80%E5%90%91%E6%9D%B1%E6%A9%AB%E9%81%8E%E6%B8%AF%E5%8D%97%E9%9D%A2-%E5%8F%A6%E4%B8%80%E4%BD%8E%E5%A3%93%E5%8D%80%E7%A7%BB%E5%90%91%E7%90%89%E7%90%83",
     "timestamp": "2026-08-30T15:41:19.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雙旋共舞｜ 天文台料低壓區向東橫過港南面　另一低壓區移向琉球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170766580456361984071845.jpeg/dWeAU9_UAjDAvVoBjZTVeAG8Ou7ze6QjrHGQ5qxxkOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385048/%E9%9B%99%E6%97%8B%E5%85%B1%E8%88%9E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E5%8D%80%E5%90%91%E6%9D%B1%E6%A9%AB%E9%81%8E%E6%B8%AF%E5%8D%97%E9%9D%A2-%E5%8F%A6%E4%B8%80%E4%BD%8E%E5%A3%93%E5%8D%80%E7%A7%BB%E5%90%91%E7%90%89%E7%90%83",
-    "timestamp": "2026-08-30T15:29:31.139Z",
     "strategy": ".content-card__main"
   }
 ];
