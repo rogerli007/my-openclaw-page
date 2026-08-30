@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T20:30:30.294Z
+// Last updated: 2026-08-30T20:53:21.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "迪士尼的士疑濫收逾200元過橋費　遊客：打破了我對香港的濾鏡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170950897446948864962014.png/ZNjLV8xSS-TmOKwfvBCn-vOGPp33lCh_TynY708p2O8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385150/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9A%84%E5%A3%AB%E7%96%91%E6%BF%AB%E6%94%B6%E9%80%BE200%E5%85%83%E9%81%8E%E6%A9%8B%E8%B2%BB-%E9%81%8A%E5%AE%A2-%E6%89%93%E7%A0%B4%E4%BA%86%E6%88%91%E5%B0%8D%E9%A6%99%E6%B8%AF%E7%9A%84%E6%BF%BE%E9%8F%A1",
+    "timestamp": "2026-08-30T20:53:21.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘迴旋處兩車相撞　電單車司機受傷　私家車司機涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170856858966036480958276.jpeg/7YvBf0lmt9EFT5s_OhxsJDHP9cGUMAxBH85oGR_OaBk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385121/%E6%A2%81%E5%87%B1%E6%99%B4%E9%A9%9A%E7%88%86%E8%88%87%E9%BB%83%E5%BB%BA%E6%9D%B1%E6%8B%8D%E6%8B%96%E7%9D%87%E9%A8%B7-%E5%8D%B3%E6%99%82%E5%8A%83%E6%B8%85%E7%95%8C%E7%B7%9A-%E4%B8%8B%E6%AC%A1%E6%9C%83%E4%BC%81%E9%81%A0%E5%95%B2",
     "timestamp": "2026-08-30T14:18:18.634Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "報告指AI失控個案創紀錄　英監察組織促政府立法強制通報及干預",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250616/1011181289488781312913027.jpeg/yROFJq1kbN6KwfH7HQCMb0EE1iYP9gTFnb_0IZ2_9CE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385081/%E5%A0%B1%E5%91%8A%E6%8C%87ai%E5%A4%B1%E6%8E%A7%E5%80%8B%E6%A1%88%E5%89%B5%E7%B4%80%E9%8C%84-%E8%8B%B1%E7%9B%A3%E5%AF%9F%E7%B5%84%E7%B9%94%E4%BF%83%E6%94%BF%E5%BA%9C%E7%AB%8B%E6%B3%95%E5%BC%B7%E5%88%B6%E9%80%9A%E5%A0%B1%E5%8F%8A%E5%B9%B2%E9%A0%90",
-    "timestamp": "2026-08-30T13:53:30.336Z",
     "strategy": ".content-card__main"
   }
 ];
