@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T02:27:31.755Z
+// Last updated: 2026-08-30T02:54:38.547Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "食客退回高級牛扒去哪了？侍應親揭餐廳4大內幕：水樽從來不清洗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170011149454807040957382.jpeg/GFzPX7ofAULEuG8y48zHseIFb87MpoDofThoXH04aFw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384557/%E9%A3%9F%E5%AE%A2%E9%80%80%E5%9B%9E%E9%AB%98%E7%B4%9A%E7%89%9B%E6%89%92%E5%8E%BB%E5%93%AA%E4%BA%86-%E4%BE%8D%E6%87%89%E8%A6%AA%E6%8F%AD%E9%A4%90%E5%BB%B34%E5%A4%A7%E5%85%A7%E5%B9%95-%E6%B0%B4%E6%A8%BD%E5%BE%9E%E4%BE%86%E4%B8%8D%E6%B8%85%E6%B4%97",
+    "timestamp": "2026-08-30T02:54:38.547Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新天氣｜天文台：珠江口以西有雷雨區　未來兩三小時或影響本港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-08-29T19:53:34.066Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-08-29T19:40:57.747Z",
     "strategy": ".content-card__main"
   }
 ];
