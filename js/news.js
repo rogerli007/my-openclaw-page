@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T21:27:31.615Z
+// Last updated: 2026-08-30T21:53:50.249Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜中方再有專家抵尼泊爾　助災區隧道探查和搜救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170970161205874688315209.jpeg/GZuUSDAyca9MD8ujuMsgiOM8Nf3LMdYjBzJc0AcyXNA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385153/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%AD%E6%96%B9%E5%86%8D%E6%9C%89%E5%B0%88%E5%AE%B6%E6%8A%B5%E5%B0%BC%E6%B3%8A%E7%88%BE-%E5%8A%A9%E7%81%BD%E5%8D%80%E9%9A%A7%E9%81%93%E6%8E%A2%E6%9F%A5%E5%92%8C%E6%90%9C%E6%95%91",
+    "timestamp": "2026-08-30T21:53:50.249Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "迪士尼的士疑濫收逾200元過橋費　遊客：打破了我對香港的濾鏡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170861447727550464149852.jpeg/9Q4kYgvEzod_bWEPglFYVnbEX2FISPMPOSrFKTkqxSk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385034/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026%E6%B1%BA%E8%B3%BD%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-%E8%A2%81%E7%B5%B2%E7%8F%A9%E5%A5%AA%E5%86%A0-%E9%84%A7%E5%8C%A1%E9%96%94%E6%9D%8E%E6%BE%A4%E6%AC%A3%E5%A5%AA%E4%BA%9E%E5%AD%A3%E8%BB%8D",
     "timestamp": "2026-08-30T14:53:35.041Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮提詞機操作員內幕下注遭調查　被罰逾6萬美元及交出非法所得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154845605235789824790214.jpeg/J8xrG3A57ol-B0p0J4wfef2vj27ueH2WjMTdSYzE3Uk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385117/%E7%99%BD%E5%AE%AE%E6%8F%90%E8%A9%9E%E6%A9%9F%E6%93%8D%E4%BD%9C%E5%93%A1%E5%85%A7%E5%B9%95%E4%B8%8B%E6%B3%A8%E9%81%AD%E8%AA%BF%E6%9F%A5-%E8%A2%AB%E7%BD%B0%E9%80%BE6%E8%90%AC%E7%BE%8E%E5%85%83%E5%8F%8A%E4%BA%A4%E5%87%BA%E9%9D%9E%E6%B3%95%E6%89%80%E5%BE%97",
-    "timestamp": "2026-08-30T14:40:38.835Z",
     "strategy": ".content-card__main"
   }
 ];
