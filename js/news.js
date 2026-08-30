@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T10:53:48.303Z
+// Last updated: 2026-08-30T11:18:49.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流・一片睇清｜奪命泥石流　冰崩引發每秒50米碎屑流滅村",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170742956794056704468095.jpeg/aW8I2BeRv1ESRyTE90ID3fKSXtz2yiiqPixfUj4sX1I",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60384906/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%80%E7%89%87%E7%9D%87%E6%B8%85-%E5%A5%AA%E5%91%BD%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%86%B0%E5%B4%A9%E5%BC%95%E7%99%BC%E6%AF%8F%E7%A7%9250%E7%B1%B3%E7%A2%8E%E5%B1%91%E6%B5%81%E6%BB%85%E6%9D%91",
+    "timestamp": "2026-08-30T11:18:49.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港小姐2026決賽紅地氈二｜落選港姐現身　解放豐滿上圍令人驚訝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170698202958008320578921.jpeg/JVXHjpPkVjB94zt2UJqKu3QK-2FzpFzaS-NFp0vjRac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60384983/%E5%BC%B7%E7%A9%8D%E9%87%91-%E5%8A%89%E9%BA%A5%E5%98%89%E8%BB%92-%E4%BD%8E%E5%85%A5%E6%81%AF%E5%83%B1%E5%93%A1%E4%BE%9B40%E5%B9%B4%E5%8F%AF%E5%84%B2-153%E8%90%AC-%E8%87%AA%E9%A1%98%E4%BE%9B%E6%AC%BE%E6%9B%B4%E8%91%97%E6%95%B8",
     "timestamp": "2026-08-30T03:53:50.936Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳市原市長覃偉中辭職4日後履新　出任廣東省人大常委會領導",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170694821279436800289134.png/ikzjM6CHnGnIRmig5i5y9qvE1JB2OKY8XZkcE12ZHBM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384978/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8E%9F%E5%B8%82%E9%95%B7%E8%A6%83%E5%81%89%E4%B8%AD%E8%BE%AD%E8%81%B74%E6%97%A5%E5%BE%8C%E5%B1%A5%E6%96%B0-%E5%87%BA%E4%BB%BB%E5%BB%A3%E6%9D%B1%E7%9C%81%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E6%9C%83%E9%A0%98%E5%B0%8E",
-    "timestamp": "2026-08-30T03:45:06.139Z",
     "strategy": ".content-card__main"
   }
 ];
