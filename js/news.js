@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T17:26:19.189Z
+// Last updated: 2026-08-30T17:41:05.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "塞浦路斯渡輪翻沉8死17失蹤　船長及7名船員被扣查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170902849937346560730946.jpeg/XETcBBD75Wdx0UEDdyXE0lni8nxpfOETnZ49dp2ePXY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385141/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%B8%A1%E8%BC%AA%E7%BF%BB%E6%B2%898%E6%AD%BB17%E5%A4%B1%E8%B9%A4-%E8%88%B9%E9%95%B7%E5%8F%8A7%E5%90%8D%E8%88%B9%E5%93%A1%E8%A2%AB%E6%89%A3%E6%9F%A5",
+    "timestamp": "2026-08-30T17:41:05.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞浦路斯渡輪翻沉7死23失蹤　船長及7名船員被扣查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170820597299548160348250.jpeg/pfOb4ENBra8_oyyFdMcpA9RrZLvFiqgArVMq1a1TKtU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385089/%E5%A7%9A%E7%84%AF%E8%8F%B2%E6%8A%B1%E7%97%85%E9%96%8B%E9%A8%B7%E9%AB%98%E9%9F%B3%E9%9B%B6%E5%A4%B1%E6%BA%96-%E7%9F%AD%E8%A4%B2%E8%B7%B3%E5%94%B1disco-medley%E5%85%A8%E5%A0%B4high%E7%88%86",
     "timestamp": "2026-08-30T12:26:04.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜新堰塞湖形成　自然資源部初判8處地質災害高風險點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170723196308033536094723.png/oC1CYJAFUuShQ4LIOUaF0wPhTomYSuX3g4eE64OHhOs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385003/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%96%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BD%A2%E6%88%90-%E8%87%AA%E7%84%B6%E8%B3%87%E6%BA%90%E9%83%A8%E5%88%9D%E5%88%A48%E8%99%95%E5%9C%B0%E8%B3%AA%E7%81%BD%E5%AE%B3%E9%AB%98%E9%A2%A8%E9%9A%AA%E9%BB%9E",
-    "timestamp": "2026-08-30T11:41:28.405Z",
     "strategy": ".content-card__main"
   }
 ];
