@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T20:18:40.215Z
+// Last updated: 2026-08-30T20:30:30.294Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘迴旋處兩車相撞　電單車司機受傷　私家車司機涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385149/%E8%A7%80%E5%A1%98%E8%BF%B4%E6%97%8B%E8%99%95%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-30T20:30:30.294Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘迴旋處兩車相撞　電單車司機受傷　私家車司機涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250616/1011181289488781312913027.jpeg/yROFJq1kbN6KwfH7HQCMb0EE1iYP9gTFnb_0IZ2_9CE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385081/%E5%A0%B1%E5%91%8A%E6%8C%87ai%E5%A4%B1%E6%8E%A7%E5%80%8B%E6%A1%88%E5%89%B5%E7%B4%80%E9%8C%84-%E8%8B%B1%E7%9B%A3%E5%AF%9F%E7%B5%84%E7%B9%94%E4%BF%83%E6%94%BF%E5%BA%9C%E7%AB%8B%E6%B3%95%E5%BC%B7%E5%88%B6%E9%80%9A%E5%A0%B1%E5%8F%8A%E5%B9%B2%E9%A0%90",
     "timestamp": "2026-08-30T13:53:30.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洗面都會洗錯？臉部根本不需要深層清潔　泡泡多不代表洗得乾淨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141427886998163456157983.jpeg/e6BNotCvg5CEMCyyXV4yubM34faKzLXbMFOeXjBTnl4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60275345/%E6%B4%97%E9%9D%A2%E9%83%BD%E6%9C%83%E6%B4%97%E9%8C%AF-%E8%87%89%E9%83%A8%E6%A0%B9%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E6%B7%B1%E5%B1%A4%E6%B8%85%E6%BD%94-%E6%B3%A1%E6%B3%A1%E5%A4%9A%E4%B8%8D%E4%BB%A3%E8%A1%A8%E6%B4%97%E5%BE%97%E4%B9%BE%E6%B7%A8",
-    "timestamp": "2026-08-30T13:41:20.743Z",
     "strategy": ".content-card__main"
   }
 ];
