@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T15:29:31.139Z
+// Last updated: 2026-08-30T15:41:19.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雙旋共舞｜ 天文台料低壓區向東橫過港南面　另一低壓區移向琉球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170766580456361984071845.jpeg/dWeAU9_UAjDAvVoBjZTVeAG8Ou7ze6QjrHGQ5qxxkOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385048/%E9%9B%99%E6%97%8B%E5%85%B1%E8%88%9E-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BD%8E%E5%A3%93%E5%8D%80%E5%90%91%E6%9D%B1%E6%A9%AB%E9%81%8E%E6%B8%AF%E5%8D%97%E9%9D%A2-%E5%8F%A6%E4%B8%80%E4%BD%8E%E5%A3%93%E5%8D%80%E7%A7%BB%E5%90%91%E7%90%89%E7%90%83",
+    "timestamp": "2026-08-30T15:41:19.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雙旋共舞｜ 天文台料低壓區向東橫過港南面　另一低壓區移向琉球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170787540710461440932576.png/MRCh6JkbkQVJeUwR6UPCj9zted7HexmDI0R9HCNEfRw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385062/%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E5%89%B5%E8%BE%A6%E4%BA%BA%E7%8F%BE%E8%BA%AB%E9%A6%99%E6%B8%AF-%E8%A6%AA%E8%87%AA%E7%82%BA%E4%BD%95%E5%90%9B%E5%A0%AF%E7%AD%89%E8%BB%8A%E4%B8%BB%E4%BA%A4%E4%BB%98%E6%96%B0%E8%BB%8A",
     "timestamp": "2026-08-30T10:18:38.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國驅逐外籍人士新規生效　官員：對違法外國旅客及工人零容忍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170774197341786112293064.jpeg/hwXxhf4978fB3B5P-BCSBTq7mDnJg84C4pBw_OKQcPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385057/%E6%B3%B0%E5%9C%8B%E9%A9%85%E9%80%90%E5%A4%96%E7%B1%8D%E4%BA%BA%E5%A3%AB%E6%96%B0%E8%A6%8F%E7%94%9F%E6%95%88-%E5%AE%98%E5%93%A1-%E5%B0%8D%E9%81%95%E6%B3%95%E5%A4%96%E5%9C%8B%E6%97%85%E5%AE%A2%E5%8F%8A%E5%B7%A5%E4%BA%BA%E9%9B%B6%E5%AE%B9%E5%BF%8D",
-    "timestamp": "2026-08-30T09:42:17.164Z",
     "strategy": ".content-card__main"
   }
 ];
