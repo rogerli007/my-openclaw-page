@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T01:31:32.940Z
+// Last updated: 2026-08-30T01:51:39.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗再否認霍爾木茲海峽開放　重申船隻通行須獲德黑蘭許可",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260303/1105527479386247168563178.jpeg/JhiypWa-CZE4Ndjgl-m3GM-VKNnskSi6Okw75jpMO-Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384964/%E4%BC%8A%E6%9C%97%E5%86%8D%E5%90%A6%E8%AA%8D%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%96%8B%E6%94%BE-%E9%87%8D%E7%94%B3%E8%88%B9%E9%9A%BB%E9%80%9A%E8%A1%8C%E9%A0%88%E7%8D%B2%E5%BE%B7%E9%BB%91%E8%98%AD%E8%A8%B1%E5%8F%AF",
+    "timestamp": "2026-08-30T01:51:39.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧專訪｜從小被灌輸男生險惡　家禁露營遊船河：仲有得剩嘅？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158514992492843008352076.jpeg/C1ODBwD26ObnznokQmqeXiBdHZcmfuEaBM1MugTNTLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384940/%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E8%B5%B7%E8%A8%B4%E7%BE%8E%E5%9C%8B%E5%9C%8B%E9%98%B2%E9%83%A8-%E6%B1%82%E6%92%A4%E9%8A%B7%E4%B8%AD%E5%9C%8B%E8%BB%8D%E4%BA%8B%E4%BC%81%E6%A5%AD%E8%AA%8D%E5%AE%9A",
     "timestamp": "2026-08-29T19:20:06.438Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西環老翁疑無牽繩放狗咬傷人　5日後再無戴狗繩遛狗　目擊者報案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170551129172348928176925.jpeg/oOe_UJxIDFvKXZZ7y0R7FYde5tt3oesvtHay67R2sus?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384935/%E8%A5%BF%E7%92%B0%E8%80%81%E7%BF%81%E7%96%91%E7%84%A1%E7%89%BD%E7%B9%A9%E6%94%BE%E7%8B%97%E5%92%AC%E5%82%B7%E4%BA%BA-5%E6%97%A5%E5%BE%8C%E5%86%8D%E7%84%A1%E6%88%B4%E7%8B%97%E7%B9%A9%E9%81%9B%E7%8B%97-%E7%9B%AE%E6%93%8A%E8%80%85%E5%A0%B1%E6%A1%88",
-    "timestamp": "2026-08-29T18:53:19.982Z",
     "strategy": ".content-card__main"
   }
 ];
