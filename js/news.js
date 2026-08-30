@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T14:29:16.645Z
+// Last updated: 2026-08-30T14:40:38.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮提詞機操作員內幕下注遭調查　被罰逾6萬美元及交出非法所得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260717/1154845605235789824790214.jpeg/J8xrG3A57ol-B0p0J4wfef2vj27ueH2WjMTdSYzE3Uk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385117/%E7%99%BD%E5%AE%AE%E6%8F%90%E8%A9%9E%E6%A9%9F%E6%93%8D%E4%BD%9C%E5%93%A1%E5%85%A7%E5%B9%95%E4%B8%8B%E6%B3%A8%E9%81%AD%E8%AA%BF%E6%9F%A5-%E8%A2%AB%E7%BD%B0%E9%80%BE6%E8%90%AC%E7%BE%8E%E5%85%83%E5%8F%8A%E4%BA%A4%E5%87%BA%E9%9D%9E%E6%B3%95%E6%89%80%E5%BE%97",
+    "timestamp": "2026-08-30T14:40:38.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁凱晴驚爆與黃建東拍拖睇騷  即時劃清界線：下次會企遠啲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2068056/org/342d86be0e27e8171347e3ee29a3a21f.jpg/WV7vr9DONgTcVlIMK0MnbynSToTzL1b56bns-Om57Pg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60385055/5%E4%BA%BA%E9%A3%9F%E9%A0%86%E5%BE%B7%E6%B7%A1%E6%B0%B4%E9%AD%9A%E5%88%BA%E8%BA%AB%E7%A2%BA%E8%A8%BA%E8%82%9D%E5%90%B8%E8%9F%B2%E7%97%85-%E4%B8%AD%E7%96%BE%E6%8E%A7-%E6%88%90%E8%9F%B2%E5%8F%AF%E5%9C%A8%E4%BA%BA%E9%AB%94%E6%B4%BB30%E5%B9%B4",
     "timestamp": "2026-08-30T08:53:41.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅媽離世｜梅啟明未婚妻趕到醫院　曾高調宣布再婚卻被踢爆未離婚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170771989183336448091347.jpeg/5YUbmzSuP4Oj8EAAVqTkwfsvhUnZiPHRpaMqoJOjKqA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385052/%E6%A2%85%E5%AA%BD%E9%9B%A2%E4%B8%96-%E6%A2%85%E5%95%9F%E6%98%8E%E6%9C%AA%E5%A9%9A%E5%A6%BB%E8%B6%95%E5%88%B0%E9%86%AB%E9%99%A2-%E6%9B%BE%E9%AB%98%E8%AA%BF%E5%AE%A3%E5%B8%83%E5%86%8D%E5%A9%9A%E5%8D%BB%E8%A2%AB%E8%B8%A2%E7%88%86%E6%9C%AA%E9%9B%A2%E5%A9%9A",
-    "timestamp": "2026-08-30T08:44:16.056Z",
     "strategy": ".content-card__main"
   }
 ];
