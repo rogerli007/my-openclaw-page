@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T16:32:08.020Z
+// Last updated: 2026-08-30T16:42:35.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜尼泊爾中學校長果斷疏散　挽救逾1600名學生性命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170890558646784000872546.png/ledlC6ftdFQGzCXeBYXiuRC_EFwvVPhyovOJx6Lzicc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385136/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE%E4%B8%AD%E5%AD%B8%E6%A0%A1%E9%95%B7%E6%9E%9C%E6%96%B7%E7%96%8F%E6%95%A3-%E6%8C%BD%E6%95%91%E9%80%BE1600%E5%90%8D%E5%AD%B8%E7%94%9F%E6%80%A7%E5%91%BD",
+    "timestamp": "2026-08-30T16:42:35.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WhatsApp騎劫｜逆市飆升禍及親友　警拆解奪號手法　教你防騙四招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170742956794056704468095.jpeg/aW8I2BeRv1ESRyTE90ID3fKSXtz2yiiqPixfUj4sX1I",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60384906/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%80%E7%89%87%E7%9D%87%E6%B8%85-%E5%A5%AA%E5%91%BD%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%86%B0%E5%B4%A9%E5%BC%95%E7%99%BC%E6%AF%8F%E7%A7%9250%E7%B1%B3%E7%A2%8E%E5%B1%91%E6%B5%81%E6%BB%85%E6%9D%91",
     "timestamp": "2026-08-30T11:18:49.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港小姐2026決賽紅地氈二｜落選港姐現身　解放豐滿上圍令人驚訝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170803854007078912289471.jpeg/IZk-paGhs4T3OYzG4GAgHDREdSx_xi8D80HP0MVBz9A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385085/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026%E6%B1%BA%E8%B3%BD%E7%B4%85%E5%9C%B0%E6%B0%88%E4%BA%8C-%E8%90%BD%E9%81%B8%E6%B8%AF%E5%A7%90%E7%8F%BE%E8%BA%AB-%E8%A7%A3%E6%94%BE%E8%B1%90%E6%BB%BF%E4%B8%8A%E5%9C%8D%E4%BB%A4%E4%BA%BA%E9%A9%9A%E8%A8%9D",
-    "timestamp": "2026-08-30T10:53:48.303Z",
     "strategy": ".content-card__main"
   }
 ];
