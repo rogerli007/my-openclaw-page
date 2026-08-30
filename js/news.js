@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-29T23:53:28.290Z
+// Last updated: 2026-08-30T00:54:00.679Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2.28億六合彩50週年金多寶9.5攪珠｜Gemini計3組最旺膽拖投注組合",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170653156955131904240753.jpeg/Z3KXM2yLpIFoXQW9QYBFUCol75QKEedEI5vbISOb2yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60384954/2-28%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A950%E9%80%B1%E5%B9%B4%E9%87%91%E5%A4%9A%E5%AF%B69-5%E6%94%AA%E7%8F%A0-gemini%E8%A8%883%E7%B5%84%E6%9C%80%E6%97%BA%E8%86%BD%E6%8B%96%E6%8A%95%E6%B3%A8%E7%B5%84%E5%90%88",
+    "timestamp": "2026-08-30T00:54:00.679Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼日爾兵變襲擊總統府及機場　首都對峙局勢未明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170551129172348928176925.jpeg/oOe_UJxIDFvKXZZ7y0R7FYde5tt3oesvtHay67R2sus?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384935/%E8%A5%BF%E7%92%B0%E8%80%81%E7%BF%81%E7%96%91%E7%84%A1%E7%89%BD%E7%B9%A9%E6%94%BE%E7%8B%97%E5%92%AC%E5%82%B7%E4%BA%BA-5%E6%97%A5%E5%BE%8C%E5%86%8D%E7%84%A1%E6%88%B4%E7%8B%97%E7%B9%A9%E9%81%9B%E7%8B%97-%E7%9B%AE%E6%93%8A%E8%80%85%E5%A0%B1%E6%A1%88",
     "timestamp": "2026-08-29T18:42:00.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西環老翁疑無牽繩放狗咬傷人　5日後再無戴狗繩遛狗　目擊者報案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170551129172348928176925.jpeg/oOe_UJxIDFvKXZZ7y0R7FYde5tt3oesvtHay67R2sus?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384935/%E8%A5%BF%E7%92%B0%E8%80%81%E7%BF%81%E7%96%91%E7%84%A1%E7%89%BD%E7%B9%A9%E6%94%BE%E7%8B%97%E5%92%AC%E5%82%B7%E4%BA%BA-5%E6%97%A5%E5%BE%8C%E5%86%8D%E7%84%A1%E6%88%B4%E7%8B%97%E7%B9%A9%E9%81%9B%E7%8B%97-%E7%9B%AE%E6%93%8A%E8%80%85%E5%A0%B1%E6%A1%88",
-    "timestamp": "2026-08-29T18:22:10.847Z",
     "strategy": ".content-card__main"
   }
 ];
