@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T02:54:38.547Z
+// Last updated: 2026-08-30T03:23:16.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼泊爾洪災｜97歲婦奇蹟獲救　搭挖泥機坐鏟斗歸來如勇士｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170687528630489088507492.jpeg/-sctsCiUT-Zu7f_VbEXKubGg2q3KZbCstSkfArUpHwI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384972/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD-97%E6%AD%B2%E5%A9%A6%E5%A5%87%E8%B9%9F%E7%8D%B2%E6%95%91-%E6%90%AD%E6%8C%96%E6%B3%A5%E6%A9%9F%E5%9D%90%E9%8F%9F%E6%96%97%E6%AD%B8%E4%BE%86%E5%A6%82%E5%8B%87%E5%A3%AB-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-08-30T03:23:16.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "食客退回高級牛扒去哪了？侍應親揭餐廳4大內幕：水樽從來不清洗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-08-29T20:18:13.914Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-08-29T19:53:34.066Z",
     "strategy": ".content-card__main"
   }
 ];
