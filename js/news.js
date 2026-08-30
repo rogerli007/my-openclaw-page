@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T17:16:08.349Z
+// Last updated: 2026-08-30T17:26:19.189Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "塞浦路斯渡輪翻沉7死23失蹤　船長及7名船員被扣查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170902849937346560730946.jpeg/XETcBBD75Wdx0UEDdyXE0lni8nxpfOETnZ49dp2ePXY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385141/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%B8%A1%E8%BC%AA%E7%BF%BB%E6%B2%897%E6%AD%BB23%E5%A4%B1%E8%B9%A4-%E8%88%B9%E9%95%B7%E5%8F%8A7%E5%90%8D%E8%88%B9%E5%93%A1%E8%A2%AB%E6%89%A3%E6%9F%A5",
+    "timestamp": "2026-08-30T17:26:19.189Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古天樂澳門演唱會｜姜濤做壓軸嘉賓　要求公主抱起古生再贈強吻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170723196308033536094723.png/oC1CYJAFUuShQ4LIOUaF0wPhTomYSuX3g4eE64OHhOs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385003/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%96%B0%E5%A0%B0%E5%A1%9E%E6%B9%96%E5%BD%A2%E6%88%90-%E8%87%AA%E7%84%B6%E8%B3%87%E6%BA%90%E9%83%A8%E5%88%9D%E5%88%A48%E8%99%95%E5%9C%B0%E8%B3%AA%E7%81%BD%E5%AE%B3%E9%AB%98%E9%A2%A8%E9%9A%AA%E9%BB%9E",
     "timestamp": "2026-08-30T11:41:28.405Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅啟明再見梅媽已在停屍間　唔覺未和解有遺憾：母子有咩隔夜仇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170810058951364608869534.jpeg/Ftmm-YgfbbS_iJetR6MPbq0KKYYceOMcJCRWNCQkVjQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385088/%E6%A2%85%E5%95%9F%E6%98%8E%E5%86%8D%E8%A6%8B%E6%A2%85%E5%AA%BD%E5%B7%B2%E5%9C%A8%E5%81%9C%E5%B1%8D%E9%96%93-%E5%94%94%E8%A6%BA%E6%9C%AA%E5%92%8C%E8%A7%A3%E6%9C%89%E9%81%BA%E6%86%BE-%E6%AF%8D%E5%AD%90%E6%9C%89%E5%92%A9%E9%9A%94%E5%A4%9C%E4%BB%87",
-    "timestamp": "2026-08-30T11:28:08.686Z",
     "strategy": ".content-card__main"
   }
 ];
