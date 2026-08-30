@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T03:23:16.683Z
+// Last updated: 2026-08-30T03:45:06.139Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳市原市長覃偉中辭職4日後履新　出任廣東省人大常委會領導",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170694821279436800289134.png/ikzjM6CHnGnIRmig5i5y9qvE1JB2OKY8XZkcE12ZHBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384978/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8E%9F%E5%B8%82%E9%95%B7%E8%A6%83%E5%81%89%E4%B8%AD%E8%BE%AD%E8%81%B74%E6%97%A5%E5%BE%8C%E5%B1%A5%E6%96%B0-%E5%87%BA%E4%BB%BB%E5%BB%A3%E6%9D%B1%E7%9C%81%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E6%9C%83%E9%A0%98%E5%B0%8E",
+    "timestamp": "2026-08-30T03:45:06.139Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼泊爾洪災｜97歲婦奇蹟獲救　搭挖泥機坐鏟斗歸來如勇士｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-08-29T20:29:36.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-08-29T20:18:13.914Z",
     "strategy": ".content-card__main"
   }
 ];
