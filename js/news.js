@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T06:29:52.519Z
+// Last updated: 2026-08-30T06:49:26.299Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港小姐2026｜湯家琳驚現水痘疤、陳梓穎心口現離奇紅印",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146641629336047616714958.jpeg/jN_dfTk9ErWtokVlEYvZCth9nKuB1eFjLpU2Di6VNg4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363633/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E6%B9%AF%E5%AE%B6%E7%90%B3%E9%A9%9A%E7%8F%BE%E6%B0%B4%E7%97%98%E7%96%A4-%E9%99%B3%E6%A2%93%E7%A9%8E%E5%BF%83%E5%8F%A3%E7%8F%BE%E9%9B%A2%E5%A5%87%E7%B4%85%E5%8D%B0",
+    "timestamp": "2026-08-30T06:49:26.299Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港姐2026｜周芳姿廣東話唔好驚到全身震　顏懿菲博士光環無懼高齡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170621283088470016460583.jpeg/XhyUxtO6GRhrBXwLOclXcVmsdKAoOsowUHItDFByLQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384952/%E7%B4%A2%E9%A6%AC%E9%87%8C%E8%88%87%E5%9C%9F%E8%80%B3%E5%85%B6%E8%81%AF%E5%90%88%E8%A1%8C%E5%8B%95-%E8%A7%A3%E6%95%91%E8%B2%A8%E8%88%B9%E6%93%8A%E6%96%8314%E5%90%8D%E6%B5%B7%E7%9B%9C",
     "timestamp": "2026-08-29T22:41:16.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜部分地區驟雨較多及有雷暴　日間最高氣溫約31度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170616627004182528904573.jpeg/7S15y91j6R_d3D2RdMaqJeM3c3wUh13ljR4TJrceEyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60384950/%E5%A4%A9%E6%B0%A3-%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8431%E5%BA%A6",
-    "timestamp": "2026-08-29T22:29:22.818Z",
     "strategy": ".content-card__main"
   }
 ];
