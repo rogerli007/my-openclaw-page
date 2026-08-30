@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T03:45:06.139Z
+// Last updated: 2026-08-30T03:53:50.936Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "強積金｜劉麥嘉軒：低入息僱員供40年可儲$153萬　自願供款更著數",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170698202958008320578921.jpeg/JVXHjpPkVjB94zt2UJqKu3QK-2FzpFzaS-NFp0vjRac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60384983/%E5%BC%B7%E7%A9%8D%E9%87%91-%E5%8A%89%E9%BA%A5%E5%98%89%E8%BB%92-%E4%BD%8E%E5%85%A5%E6%81%AF%E5%83%B1%E5%93%A1%E4%BE%9B40%E5%B9%B4%E5%8F%AF%E5%84%B2-153%E8%90%AC-%E8%87%AA%E9%A1%98%E4%BE%9B%E6%AC%BE%E6%9B%B4%E8%91%97%E6%95%B8",
+    "timestamp": "2026-08-30T03:53:50.936Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳市原市長覃偉中辭職4日後履新　出任廣東省人大常委會領導",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-08-29T20:40:45.028Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-08-29T20:29:36.901Z",
     "strategy": ".content-card__main"
   }
 ];
