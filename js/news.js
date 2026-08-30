@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T09:42:17.164Z
+// Last updated: 2026-08-30T10:18:38.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張雪機車創辦人現身香港　親自為何君堯等車主交付新車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170787540710461440932576.png/MRCh6JkbkQVJeUwR6UPCj9zted7HexmDI0R9HCNEfRw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385062/%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E5%89%B5%E8%BE%A6%E4%BA%BA%E7%8F%BE%E8%BA%AB%E9%A6%99%E6%B8%AF-%E8%A6%AA%E8%87%AA%E7%82%BA%E4%BD%95%E5%90%9B%E5%A0%AF%E7%AD%89%E8%BB%8A%E4%B8%BB%E4%BA%A4%E4%BB%98%E6%96%B0%E8%BB%8A",
+    "timestamp": "2026-08-30T10:18:38.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國驅逐外籍人士新規生效　官員：對違法外國旅客及工人零容忍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170011149454807040957382.jpeg/GFzPX7ofAULEuG8y48zHseIFb87MpoDofThoXH04aFw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384557/%E9%A3%9F%E5%AE%A2%E9%80%80%E5%9B%9E%E9%AB%98%E7%B4%9A%E7%89%9B%E6%89%92%E5%8E%BB%E5%93%AA%E4%BA%86-%E4%BE%8D%E6%87%89%E8%A6%AA%E6%8F%AD%E9%A4%90%E5%BB%B34%E5%A4%A7%E5%85%A7%E5%B9%95-%E6%B0%B4%E6%A8%BD%E5%BE%9E%E4%BE%86%E4%B8%8D%E6%B8%85%E6%B4%97",
     "timestamp": "2026-08-30T02:54:38.547Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最新天氣｜天文台：珠江口以西有雷雨區　未來兩三小時或影響本港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170616627004182528904573.jpeg/7S15y91j6R_d3D2RdMaqJeM3c3wUh13ljR4TJrceEyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60384970/%E6%9C%80%E6%96%B0%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E7%8F%A0%E6%B1%9F%E5%8F%A3%E4%BB%A5%E8%A5%BF%E6%9C%89%E9%9B%B7%E9%9B%A8%E5%8D%80-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E5%B0%8F%E6%99%82%E6%88%96%E5%BD%B1%E9%9F%BF%E6%9C%AC%E6%B8%AF",
-    "timestamp": "2026-08-30T02:27:31.755Z",
     "strategy": ".content-card__main"
   }
 ];
