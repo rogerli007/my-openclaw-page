@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T11:41:28.405Z
+// Last updated: 2026-08-30T12:26:04.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姚焯菲抱病開騷高音零失準　 短褲跳唱Disco Medley全場High爆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170820597299548160348250.jpeg/pfOb4ENBra8_oyyFdMcpA9RrZLvFiqgArVMq1a1TKtU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385089/%E5%A7%9A%E7%84%AF%E8%8F%B2%E6%8A%B1%E7%97%85%E9%96%8B%E9%A8%B7%E9%AB%98%E9%9F%B3%E9%9B%B6%E5%A4%B1%E6%BA%96-%E7%9F%AD%E8%A4%B2%E8%B7%B3%E5%94%B1disco-medley%E5%85%A8%E5%A0%B4high%E7%88%86",
+    "timestamp": "2026-08-30T12:26:04.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜新堰塞湖形成　自然資源部初判8處地質災害高風險點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260318/1110958485811499008917268.jpeg/bFYRWxTF6EZRJkAEddjWkDQf_AyHTMjm_uMf-v7jH_o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385000/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B8%AF%E4%BA%BA-%E6%95%91%E7%94%9F%E8%89%87-%E8%A8%88%E5%8A%83%E4%B8%8D%E5%BB%B6%E6%9C%9F8-31%E7%B5%90%E6%9D%9F-%E9%99%90%E6%9C%9F%E5%89%8D%E9%81%9E%E4%BA%A4%E7%9A%84%E7%94%B3%E8%AB%8B%E7%BA%8C%E7%90%86",
     "timestamp": "2026-08-30T05:19:20.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "為轟-20等新型航空器測試做準備？美媒指新疆試飛基地大規模擴建",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240916/912395897806000128239617.jpeg/d5r7snDIeKoT77GPrQ9bSJzrXZyMcZ87iDwJsIg8CbA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60384980/%E7%82%BA%E8%BD%9F-20%E7%AD%89%E6%96%B0%E5%9E%8B%E8%88%AA%E7%A9%BA%E5%99%A8%E6%B8%AC%E8%A9%A6%E5%81%9A%E6%BA%96%E5%82%99-%E7%BE%8E%E5%AA%92%E6%8C%87%E6%96%B0%E7%96%86%E8%A9%A6%E9%A3%9B%E5%9F%BA%E5%9C%B0%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%93%B4%E5%BB%BA",
-    "timestamp": "2026-08-30T04:43:44.558Z",
     "strategy": ".content-card__main"
   }
 ];
