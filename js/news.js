@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T06:49:26.299Z
+// Last updated: 2026-08-30T06:58:29.208Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港小姐2026｜湯家琳驚現水痘疤、陳梓穎心口現離奇紅印",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260625/1146641629336047616714958.jpeg/jN_dfTk9ErWtokVlEYvZCth9nKuB1eFjLpU2Di6VNg4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60363633/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E6%B9%AF%E5%AE%B6%E7%90%B3%E9%A9%9A%E7%8F%BE%E6%B0%B4%E7%97%98%E7%96%A4-%E9%99%B3%E6%A2%93%E7%A9%8E%E5%BF%83%E5%8F%A3%E7%8F%BE%E9%9B%A2%E5%A5%87%E7%B4%85%E5%8D%B0",
+    "timestamp": "2026-08-30T06:58:29.208Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港小姐2026｜湯家琳驚現水痘疤、陳梓穎心口現離奇紅印",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170617151195713536480692.jpeg/6rlj9wtQnu26h6zzkuLrirAyI187fT-ajOgH47boB-M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384953/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%81%92%E9%82%A8%E7%9C%BE%E7%94%B7%E6%89%93%E6%9E%B6-%E5%A6%BB%E5%AD%90%E7%9B%AE%E6%93%8A%E5%A0%B1%E6%A1%88-%E4%B8%88%E5%A4%AB%E9%81%AD%E5%9C%8D%E6%AF%86%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E5%85%BC%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-29T22:54:07.393Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "索馬里與土耳其聯合行動　解救貨船擊斃14名海盜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170621283088470016460583.jpeg/XhyUxtO6GRhrBXwLOclXcVmsdKAoOsowUHItDFByLQw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384952/%E7%B4%A2%E9%A6%AC%E9%87%8C%E8%88%87%E5%9C%9F%E8%80%B3%E5%85%B6%E8%81%AF%E5%90%88%E8%A1%8C%E5%8B%95-%E8%A7%A3%E6%95%91%E8%B2%A8%E8%88%B9%E6%93%8A%E6%96%8314%E5%90%8D%E6%B5%B7%E7%9B%9C",
-    "timestamp": "2026-08-29T22:41:16.760Z",
     "strategy": ".content-card__main"
   }
 ];
