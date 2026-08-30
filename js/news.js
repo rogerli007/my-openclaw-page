@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T17:41:05.546Z
+// Last updated: 2026-08-30T17:53:25.892Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "塞浦路斯渡輪翻沉8死17失蹤　船長及7名船員被扣查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170902849937346560730946.jpeg/XETcBBD75Wdx0UEDdyXE0lni8nxpfOETnZ49dp2ePXY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385141/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%B8%A1%E8%BC%AA%E7%BF%BB%E6%B2%898%E6%AD%BB17%E5%A4%B1%E8%B9%A4-%E8%88%B9%E9%95%B7%E5%8F%8A7%E5%90%8D%E8%88%B9%E5%93%A1%E8%A2%AB%E6%89%A3%E6%9F%A5",
+    "timestamp": "2026-08-30T17:53:25.892Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞浦路斯渡輪翻沉8死17失蹤　船長及7名船員被扣查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170819799089942528620418.jpeg/O6GQUxH6SaKmusamwy5UHolLRJ8RXfCLRnL83EZy_Nw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385097/%E9%96%8B%E5%AD%B8-%E9%AB%98%E9%90%B5%E8%A5%BF%E4%B9%9D%E9%BE%8D%E7%AB%99%E7%8F%BE%E8%BF%94%E6%B8%AF%E6%BD%AE-%E5%AE%B6%E9%95%B7%E8%B6%81%E5%81%87%E6%9C%9F%E5%B0%BE%E8%81%B2%E5%B8%B6%E5%AD%90%E9%81%8A%E7%A6%8F%E5%B7%9E%E8%8A%B1-5000",
     "timestamp": "2026-08-30T12:45:11.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "姚焯菲抱病開騷高音零失準　 短褲跳唱Disco Medley全場High爆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170820597299548160348250.jpeg/pfOb4ENBra8_oyyFdMcpA9RrZLvFiqgArVMq1a1TKtU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385089/%E5%A7%9A%E7%84%AF%E8%8F%B2%E6%8A%B1%E7%97%85%E9%96%8B%E9%A8%B7%E9%AB%98%E9%9F%B3%E9%9B%B6%E5%A4%B1%E6%BA%96-%E7%9F%AD%E8%A4%B2%E8%B7%B3%E5%94%B1disco-medley%E5%85%A8%E5%A0%B4high%E7%88%86",
-    "timestamp": "2026-08-30T12:26:04.660Z",
     "strategy": ".content-card__main"
   }
 ];
