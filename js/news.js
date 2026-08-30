@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T14:18:18.634Z
+// Last updated: 2026-08-30T14:29:16.645Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梁凱晴驚爆與黃建東拍拖睇騷  即時劃清界線：下次會企遠啲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170856858966036480958276.jpeg/7YvBf0lmt9EFT5s_OhxsJDHP9cGUMAxBH85oGR_OaBk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385121/%E6%A2%81%E5%87%B1%E6%99%B4%E9%A9%9A%E7%88%86%E8%88%87%E9%BB%83%E5%BB%BA%E6%9D%B1%E6%8B%8D%E6%8B%96%E7%9D%87%E9%A8%B7-%E5%8D%B3%E6%99%82%E5%8A%83%E6%B8%85%E7%95%8C%E7%B7%9A-%E4%B8%8B%E6%AC%A1%E6%9C%83%E4%BC%81%E9%81%A0%E5%95%B2",
+    "timestamp": "2026-08-30T14:29:16.645Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁凱晴驚爆與黃建東拍拖睇騷  即時劃清界線：下次會企遠啲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170771989183336448091347.jpeg/5YUbmzSuP4Oj8EAAVqTkwfsvhUnZiPHRpaMqoJOjKqA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385052/%E6%A2%85%E5%AA%BD%E9%9B%A2%E4%B8%96-%E6%A2%85%E5%95%9F%E6%98%8E%E6%9C%AA%E5%A9%9A%E5%A6%BB%E8%B6%95%E5%88%B0%E9%86%AB%E9%99%A2-%E6%9B%BE%E9%AB%98%E8%AA%BF%E5%AE%A3%E5%B8%83%E5%86%8D%E5%A9%9A%E5%8D%BB%E8%A2%AB%E8%B8%A2%E7%88%86%E6%9C%AA%E9%9B%A2%E5%A9%9A",
     "timestamp": "2026-08-30T08:44:16.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅艷芳媽媽逝世｜覃美金生前患心臟病高血壓　食麥皮暈倒印傭報案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1437509/org/318153d6e04a4aa746f4e9b31bcc2518.jpg/x2YI7xGuLUDtyjrwklVJK9KHY02LzTuMoYw2VqGMNlY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385045/%E6%A2%85%E8%89%B7%E8%8A%B3%E5%AA%BD%E5%AA%BD%E9%80%9D%E4%B8%96-%E8%A6%83%E7%BE%8E%E9%87%91%E7%94%9F%E5%89%8D%E6%82%A3%E5%BF%83%E8%87%9F%E7%97%85%E9%AB%98%E8%A1%80%E5%A3%93-%E9%A3%9F%E9%BA%A5%E7%9A%AE%E6%9A%88%E5%80%92%E5%8D%B0%E5%82%AD%E5%A0%B1%E6%A1%88",
-    "timestamp": "2026-08-30T08:23:41.884Z",
     "strategy": ".content-card__main"
   }
 ];
