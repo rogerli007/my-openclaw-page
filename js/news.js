@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T19:24:50.355Z
+// Last updated: 2026-08-30T19:41:07.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘迴旋處兩車相撞　電單車司機受傷　私家車司機涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385149/%E8%A7%80%E5%A1%98%E8%BF%B4%E6%97%8B%E8%99%95%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-08-30T19:41:07.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：將用委內瑞拉石油補充美國戰略儲備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170841145480056832874621.jpeg/1alMXJEUktoTIYvQt3Y6FIVAfDL4iUv7Puf-MT7n_jE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385113/%E6%B8%AF%E5%A7%902026-%E6%9B%B9%E6%B0%B8%E5%BB%89%E9%A6%AC%E5%9C%8B%E6%98%8E%E8%95%AD%E6%AD%A3%E6%A5%A0-%E5%BB%A3%E5%91%8A%E6%99%82%E6%AE%B5%E6%80%A5%E5%BF%99%E5%B0%8D%E7%A8%BF%E6%8A%B9%E6%B1%97%E8%A3%9C%E5%A6%9D",
     "timestamp": "2026-08-30T13:27:57.118Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港姐2026｜曹永廉馬國明蕭正楠  廣告時段急忙對稿抹汗補妝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170841145480056832874621.jpeg/1alMXJEUktoTIYvQt3Y6FIVAfDL4iUv7Puf-MT7n_jE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385113/%E6%B8%AF%E5%A7%902026-%E6%9B%B9%E6%B0%B8%E5%BB%89%E9%A6%AC%E5%9C%8B%E6%98%8E%E8%95%AD%E6%AD%A3%E6%A5%A0-%E5%BB%A3%E5%91%8A%E6%99%82%E6%AE%B5%E6%80%A5%E5%BF%99%E5%B0%8D%E7%A8%BF%E6%8A%B9%E6%B1%97%E8%A3%9C%E5%A6%9D",
-    "timestamp": "2026-08-30T13:17:30.894Z",
     "strategy": ".content-card__main"
   }
 ];
