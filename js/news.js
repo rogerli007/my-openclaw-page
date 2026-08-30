@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T10:18:38.083Z
+// Last updated: 2026-08-30T10:45:16.098Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜中超球員阮奇龍進球慶祝　直播高舉「停止虐待動物」護脛板",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170795473217261568178096.png/jpqqUggcMAZFs5km2EDAz0434Rgiid1DRVQILUVUCC0?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385066/%E6%9C%89%E7%89%87-%E4%B8%AD%E8%B6%85%E7%90%83%E5%93%A1%E9%98%AE%E5%A5%87%E9%BE%8D%E9%80%B2%E7%90%83%E6%85%B6%E7%A5%9D-%E7%9B%B4%E6%92%AD%E9%AB%98%E8%88%89-%E5%81%9C%E6%AD%A2%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9-%E8%AD%B7%E8%84%9B%E6%9D%BF",
+    "timestamp": "2026-08-30T10:45:16.098Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張雪機車創辦人現身香港　親自為何君堯等車主交付新車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170687528630489088507492.jpeg/-sctsCiUT-Zu7f_VbEXKubGg2q3KZbCstSkfArUpHwI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384972/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD-97%E6%AD%B2%E5%A9%A6%E5%A5%87%E8%B9%9F%E7%8D%B2%E6%95%91-%E6%90%AD%E6%8C%96%E6%B3%A5%E6%A9%9F%E5%9D%90%E9%8F%9F%E6%96%97%E6%AD%B8%E4%BE%86%E5%A6%82%E5%8B%87%E5%A3%AB-%E6%9C%89%E7%89%87",
     "timestamp": "2026-08-30T03:23:16.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "食客退回高級牛扒去哪了？侍應親揭餐廳4大內幕：水樽從來不清洗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170011149454807040957382.jpeg/GFzPX7ofAULEuG8y48zHseIFb87MpoDofThoXH04aFw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384557/%E9%A3%9F%E5%AE%A2%E9%80%80%E5%9B%9E%E9%AB%98%E7%B4%9A%E7%89%9B%E6%89%92%E5%8E%BB%E5%93%AA%E4%BA%86-%E4%BE%8D%E6%87%89%E8%A6%AA%E6%8F%AD%E9%A4%90%E5%BB%B34%E5%A4%A7%E5%85%A7%E5%B9%95-%E6%B0%B4%E6%A8%BD%E5%BE%9E%E4%BE%86%E4%B8%8D%E6%B8%85%E6%B4%97",
-    "timestamp": "2026-08-30T02:54:38.547Z",
     "strategy": ".content-card__main"
   }
 ];
