@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T03:53:50.936Z
+// Last updated: 2026-08-30T04:22:31.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港小姐2026｜袁絲珩盼好成績、鄧匡閔克服笑容僵硬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1144048375075704832025396.jpeg/5qBzEnBGui1L_s3tUBt60GYAMN4fj6pwzuKusPTirrA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60361296/%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%902026-%E8%A2%81%E7%B5%B2%E7%8F%A9%E7%9B%BC%E5%A5%BD%E6%88%90%E7%B8%BE-%E9%84%A7%E5%8C%A1%E9%96%94%E5%85%8B%E6%9C%8D%E7%AC%91%E5%AE%B9%E5%83%B5%E7%A1%AC",
+    "timestamp": "2026-08-30T04:22:31.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "強積金｜劉麥嘉軒：低入息僱員供40年可儲$153萬　自願供款更著數",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-08-29T20:53:48.815Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長青公路3車相撞　車毀無人傷　現場交通一度擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170572068610117632705813.jpeg/8xk1HtSwdsnRTwQMztPWWG4AfkMcdkjswvL7RcLy-0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384943/%E9%95%B7%E9%9D%92%E5%85%AC%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%BB%8A%E6%AF%80%E7%84%A1%E4%BA%BA%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-08-29T20:40:45.028Z",
     "strategy": ".content-card__main"
   }
 ];
