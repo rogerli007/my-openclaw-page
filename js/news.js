@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T21:53:48.842Z
+// Last updated: 2026-08-31T22:31:07.212Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "放狗入洗衣機｜警繼續調查IG男用戶　指暫未有證據顯示在香港發生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171340759060713472460851.jpeg/gD5euHktXZc0unN9FvbTLPNAto0ZXacA8bYICfG2CAk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385514/%E6%94%BE%E7%8B%97%E5%85%A5%E6%B4%97%E8%A1%A3%E6%A9%9F-%E8%AD%A6%E7%B9%BC%E7%BA%8C%E8%AA%BF%E6%9F%A5ig%E7%94%B7%E7%94%A8%E6%88%B6-%E6%8C%87%E6%9A%AB%E6%9C%AA%E6%9C%89%E8%AD%89%E6%93%9A%E9%A1%AF%E7%A4%BA%E5%9C%A8%E9%A6%99%E6%B8%AF%E7%99%BC%E7%94%9F",
+    "timestamp": "2026-08-31T22:31:07.212Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跑步｜萬宜路上落高低 713米  曾曉彤教你克服「魔鬼級鋸齒爬升」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171246960766619648590467.jpeg/IUj4nJrjfZBe1ftAENq7croqqv-4iokpLOn_Vizp_1Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385493/%E6%95%99%E5%B1%80%E6%96%B0%E5%AD%B8%E5%B9%B4%E6%8E%A8%E5%A4%9A%E9%A0%85%E6%B4%BB%E5%8B%95-%E6%8E%A8%E5%BB%A3%E6%A0%A1%E5%9C%92%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7-%E9%A0%90%E9%98%B2%E6%AC%BA%E5%87%8C",
     "timestamp": "2026-08-31T16:21:58.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蚊患｜食環署公布8月誘蚊器指數　僅啟德超過10%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171243068796440576519820.jpeg/osAgHZM3etSiQUQsWu-OWHL-a9ueV75S7pGkuO6RpLg?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60385491/%E8%9A%8A%E6%82%A3-%E9%A3%9F%E7%92%B0%E7%BD%B2%E5%85%AC%E5%B8%838%E6%9C%88%E8%AA%98%E8%9A%8A%E5%99%A8%E6%8C%87%E6%95%B8-%E5%83%85%E5%95%9F%E5%BE%B7%E8%B6%85%E9%81%8E10",
-    "timestamp": "2026-08-31T15:53:59.637Z",
     "strategy": ".content-card__main"
   }
 ];
