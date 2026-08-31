@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T19:26:15.509Z
+// Last updated: 2026-08-31T19:41:28.020Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普揚言將重擊伊朗　反擊美軍駐約旦基地受襲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385506/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%9A%E8%A8%80%E5%B0%87%E9%87%8D%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%8F%8D%E6%93%8A%E7%BE%8E%E8%BB%8D%E9%A7%90%E7%B4%84%E6%97%A6%E5%9F%BA%E5%9C%B0%E5%8F%97%E8%A5%B2",
+    "timestamp": "2026-08-31T19:41:28.020Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171195193278337024216854.jpeg/vn0CZ7uO5oHm4Np_M7lspjEI0gTHDVXtD1374Q9d--E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385460/%E5%BD%AD%E9%BA%97%E5%AA%9B%E5%90%8C%E5%90%89%E7%88%BE%E5%90%89%E6%96%AF%E7%B8%BD%E7%B5%B1%E5%A4%AB%E4%BA%BA%E6%89%8E%E5%B8%95%E7%BE%85%E5%A8%83%E5%8F%83%E8%A7%80%E5%8D%9A%E7%89%A9%E9%A4%A8-%E5%86%80%E4%BF%83%E4%BA%BA%E6%96%87%E4%BA%A4%E6%B5%81",
     "timestamp": "2026-08-31T12:50:54.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "利用同行兒童運近1600支私煙　48歲內地女遭海關拘捕　判囚8周",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171190087124258816862753.jpeg/PJZa1hUhw9_-qcAiRGy0ySGMJFwhF1Ro8H4GZ_B-Bmc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385457/%E5%88%A9%E7%94%A8%E5%90%8C%E8%A1%8C%E5%85%92%E7%AB%A5%E9%81%8B%E8%BF%911600%E6%94%AF%E7%A7%81%E7%85%99-48%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8D%95-%E5%88%A4%E5%9B%9A8%E5%91%A8",
-    "timestamp": "2026-08-31T12:30:01.556Z",
     "strategy": ".content-card__main"
   }
 ];
