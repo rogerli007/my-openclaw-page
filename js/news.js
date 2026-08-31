@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T08:52:21.394Z
+// Last updated: 2026-08-31T08:59:18.955Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼泊爾洪災增至919死近4800人失蹤　總理稱傷亡財產損失難以統計",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171017912157212672812374.jpeg/01p-DErDC9nKaEVRmn4zUWU-tgAEgi2iO2PbnTtj250?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385365/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD%E5%A2%9E%E8%87%B3919%E6%AD%BB%E8%BF%914800%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E7%B8%BD%E7%90%86%E7%A8%B1%E5%82%B7%E4%BA%A1%E8%B2%A1%E7%94%A2%E6%90%8D%E5%A4%B1%E9%9B%A3%E4%BB%A5%E7%B5%B1%E8%A8%88",
+    "timestamp": "2026-08-31T08:59:18.955Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SHEIN上市丨暗盤早段瀉逾13% 　一手賬蝕656元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170995081767817216738496.jpeg/__GUbzhK3zFPhpM7Fp7s10J33q3IvKm4j_-X3o__l94?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385132/%E7%BE%8E%E7%B6%B2-%E9%BB%83%E6%BE%A4%E6%9E%97%E9%A6%96%E6%99%89%E7%AC%AC%E4%BA%8C%E4%B8%BB%E5%A0%B4%E4%BD%9C%E8%B3%BD-%E5%85%88%E8%B4%8F%E4%B8%80%E7%9B%A4%E5%8F%8D%E8%BC%B8%E4%B8%89%E7%9B%A4%E9%A6%96%E5%9C%88%E6%AD%A2%E6%AD%A5",
     "timestamp": "2026-08-30T23:27:05.201Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨及狂風雷暴　驟雨逐漸增多　最高31度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170976447272062976617954.jpeg/iF1vOkxqJO3iCdF14udLYdrlt3i7oj9_dv749nb--PY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385138/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E9%A9%9F%E9%9B%A8%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A-%E6%9C%80%E9%AB%9831%E5%BA%A6",
-    "timestamp": "2026-08-30T22:29:17.194Z",
     "strategy": ".content-card__main"
   }
 ];
