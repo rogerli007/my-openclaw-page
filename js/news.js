@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T19:20:48.566Z
+// Last updated: 2026-08-31T19:26:15.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
+    "timestamp": "2026-08-31T19:26:15.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171190087124258816862753.jpeg/PJZa1hUhw9_-qcAiRGy0ySGMJFwhF1Ro8H4GZ_B-Bmc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385457/%E5%88%A9%E7%94%A8%E5%90%8C%E8%A1%8C%E5%85%92%E7%AB%A5%E9%81%8B%E8%BF%911600%E6%94%AF%E7%A7%81%E7%85%99-48%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8D%95-%E5%88%A4%E5%9B%9A8%E5%91%A8",
     "timestamp": "2026-08-31T12:30:01.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平會見俄羅斯總統普京",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134073073150988288310485.jpeg/eyjN_zubmn80xI7ulyLlwDsNKOao2BtFRE89H0RPPR8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385452/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E8%A6%8B%E4%BF%84%E7%BE%85%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%99%AE%E4%BA%AC",
-    "timestamp": "2026-08-31T11:54:03.284Z",
     "strategy": ".content-card__main"
   }
 ];
