@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T17:41:11.825Z
+// Last updated: 2026-08-31T17:53:40.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯入境處東九龍區反黑工　拘4男7女　最細18歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171254259803492352047529.jpeg/FMs7AIUiw5ehQZKxVKusebof3EsV91I0qGhV3KhoVdw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385497/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%9D%B1%E4%B9%9D%E9%BE%8D%E5%8D%80%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%984%E7%94%B77%E5%A5%B3-%E6%9C%80%E7%B4%B018%E6%AD%B2",
+    "timestamp": "2026-08-31T17:53:40.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯入境處東九龍區反黑工　拘4男7女　最細18歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154476213666844672146029.jpeg/UXU2EOIeO0Ww0zZr-l0-pz4ExeqGHt5M0zEXFNMxFxQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60370663/%E9%83%AD%E5%AF%8C%E5%9F%8E%E6%BC%94%E5%94%B1%E6%9C%832026%E6%B7%B1%E5%9C%B3-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-08-31T09:55:04.282Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "20歲女極端節食驚患脂肪肝！早期無症狀　持續惡化恐致肝硬化肝癌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169686169512841216953140.jpeg/vIAA81w2dUa7GzpB9lf372bQlmDGq6XEBm5zrwZuc68?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60382198/20%E6%AD%B2%E5%A5%B3%E6%A5%B5%E7%AB%AF%E7%AF%80%E9%A3%9F%E9%A9%9A%E6%82%A3%E8%84%82%E8%82%AA%E8%82%9D-%E6%97%A9%E6%9C%9F%E7%84%A1%E7%97%87%E7%8B%80-%E6%8C%81%E7%BA%8C%E6%83%A1%E5%8C%96%E6%81%90%E8%87%B4%E8%82%9D%E7%A1%AC%E5%8C%96%E8%82%9D%E7%99%8C",
-    "timestamp": "2026-08-31T09:46:04.492Z",
     "strategy": ".content-card__main"
   }
 ];
