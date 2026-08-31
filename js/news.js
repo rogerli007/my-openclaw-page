@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T16:53:05.404Z
+// Last updated: 2026-08-31T17:29:09.742Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人口調查｜123萬適婚男女從未結婚　本地「剩男」比「剩女」多3萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250830/1038498631541329920785619.jpeg/uh3gFDsvhGrsluQKJmVClOACXAKXQ-KKOIB2vziAdr8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385464/%E4%BA%BA%E5%8F%A3%E8%AA%BF%E6%9F%A5-123%E8%90%AC%E9%81%A9%E5%A9%9A%E7%94%B7%E5%A5%B3%E5%BE%9E%E6%9C%AA%E7%B5%90%E5%A9%9A-%E6%9C%AC%E5%9C%B0-%E5%89%A9%E7%94%B7-%E6%AF%94-%E5%89%A9%E5%A5%B3-%E5%A4%9A3%E8%90%AC",
+    "timestamp": "2026-08-31T17:29:09.742Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伍富橋老婆梁兆楹晒大肚孕照勁唯美　感性發長文準備迎接新生命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171126753339379712127653.jpeg/__313e7pcleKFEftaJ0oKzR3Xb0pS0PW-t0vUfrdL1E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385336/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-90%E5%BE%8C%E7%8D%A8%E7%94%9F%E5%A5%B3%E8%AD%A6%E5%A4%B1%E8%81%AF4%E5%A4%A9-%E7%88%B6%E8%A6%AA%E5%B4%A9%E6%BD%B0-%E5%82%B7%E6%AE%98%E9%83%BD%E5%A5%BD%E5%8F%AA%E8%A6%81%E6%B4%BB%E8%91%97",
     "timestamp": "2026-08-31T09:27:52.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾洪災增至919死近4800人失蹤　總理稱傷亡財產損失難以統計",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171017912157212672812374.jpeg/01p-DErDC9nKaEVRmn4zUWU-tgAEgi2iO2PbnTtj250?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385365/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD%E5%A2%9E%E8%87%B3919%E6%AD%BB%E8%BF%914800%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E7%B8%BD%E7%90%86%E7%A8%B1%E5%82%B7%E4%BA%A1%E8%B2%A1%E7%94%A2%E6%90%8D%E5%A4%B1%E9%9B%A3%E4%BB%A5%E7%B5%B1%E8%A8%88",
-    "timestamp": "2026-08-31T08:59:18.955Z",
     "strategy": ".content-card__main"
   }
 ];
