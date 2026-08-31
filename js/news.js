@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T02:55:56.229Z
+// Last updated: 2026-08-31T03:25:21.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Google Maps美國版為安大略湖改名　安省省長：美加應簽貿易協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171054271605510144815094.jpeg/folIVZWjsEs9vkHJxpYBbHOcJffQsXdf0Ic_p9CHP6c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385215/google-maps%E7%BE%8E%E5%9C%8B%E7%89%88%E7%82%BA%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%94%B9%E5%90%8D-%E5%AE%89%E7%9C%81%E7%9C%81%E9%95%B7-%E7%BE%8E%E5%8A%A0%E6%87%89%E7%B0%BD%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-08-31T03:25:21.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2.28億六合彩50週年金多寶9.5攪珠｜Gemini計3組最旺膽拖投注組合",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170902849937346560730946.jpeg/XETcBBD75Wdx0UEDdyXE0lni8nxpfOETnZ49dp2ePXY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385141/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%B8%A1%E8%BC%AA%E7%BF%BB%E6%B2%898%E6%AD%BB17%E5%A4%B1%E8%B9%A4-%E8%88%B9%E9%95%B7%E5%8F%8A7%E5%90%8D%E8%88%B9%E5%93%A1%E8%A2%AB%E6%89%A3%E6%9F%A5",
     "timestamp": "2026-08-30T17:41:05.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞浦路斯渡輪翻沉7死23失蹤　船長及7名船員被扣查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170902849937346560730946.jpeg/XETcBBD75Wdx0UEDdyXE0lni8nxpfOETnZ49dp2ePXY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385141/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%B8%A1%E8%BC%AA%E7%BF%BB%E6%B2%897%E6%AD%BB23%E5%A4%B1%E8%B9%A4-%E8%88%B9%E9%95%B7%E5%8F%8A7%E5%90%8D%E8%88%B9%E5%93%A1%E8%A2%AB%E6%89%A3%E6%9F%A5",
-    "timestamp": "2026-08-30T17:26:19.189Z",
     "strategy": ".content-card__main"
   }
 ];
