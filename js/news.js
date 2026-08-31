@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T14:54:42.032Z
+// Last updated: 2026-08-31T15:21:42.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜馬鞍山街坊商場按摩店變淫窟？700元就有性服務:都ok㗎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171216313117315072591376.jpeg/D0satI0wqCZHN-Xyuz1y0BJD1jsF2qo3ZZ0s2GWdLNg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385473/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%A1%97%E5%9D%8A%E5%95%86%E5%A0%B4%E6%8C%89%E6%91%A9%E5%BA%97%E8%AE%8A%E6%B7%AB%E7%AA%9F-700%E5%85%83%E5%B0%B1%E6%9C%89%E6%80%A7%E6%9C%8D%E5%8B%99-%E9%83%BDok%E3%97%8E",
+    "timestamp": "2026-08-31T15:21:42.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無牌防癌針｜01獨家揭醫療中心涉訛稱有防癌疫苗　衞生署嚴肅跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171086917207330816421568.png/tSbQxh2CXEIUwpKkE5ibORS3wJujadQPL8BjzS_AY80?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385275/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD-6%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%B4%BB%E5%9F%8B3%E5%A4%A9-%E6%90%9C%E6%95%91%E9%9A%8A%E8%81%BD%E7%93%A6%E7%A4%AB%E5%82%B3%E5%BE%AE%E5%BC%B1%E5%93%AD%E8%81%B2%E5%A5%87%E8%B9%9F%E6%95%91%E5%87%BA",
     "timestamp": "2026-08-31T07:40:10.536Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "早春晴朗線上看劇情｜最新更新時間/追劇日曆+演員關係圖+簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171111324793442304320764.jpeg/HdKYWAwHAtXwVFeXvvDrFG6-NAsrvtQm76tGre-rRq0?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382498/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-08-31T07:07:48.351Z",
     "strategy": ".content-card__main"
   }
 ];
