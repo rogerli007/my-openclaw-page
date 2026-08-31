@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T07:40:10.536Z
+// Last updated: 2026-08-31T07:56:01.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CAVALLUNA馬術劇場｜門票獨家85折優惠碼/教學+購票連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145791151702282240826471.png/PPZ7gWbls8zSzp6GL04DgFCfsGUZypeRsKeAPrCngD4",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60362753/cavalluna%E9%A6%AC%E8%A1%93%E5%8A%87%E5%A0%B4-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B685%E6%8A%98%E5%84%AA%E6%83%A0%E7%A2%BC-%E6%95%99%E5%AD%B8-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-08-31T07:56:01.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼泊爾洪災｜6歲女童遭活埋3天　搜救隊聽瓦礫傳微弱哭聲奇蹟救出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170970161205874688315209.jpeg/GZuUSDAyca9MD8ujuMsgiOM8Nf3LMdYjBzJc0AcyXNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385153/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%AD%E6%96%B9%E5%86%8D%E6%9C%89%E5%B0%88%E5%AE%B6%E6%8A%B5%E5%B0%BC%E6%B3%8A%E7%88%BE-%E5%8A%A9%E7%81%BD%E5%8D%80%E9%9A%A7%E9%81%93%E6%8E%A2%E6%9F%A5%E5%92%8C%E6%90%9C%E6%95%91",
     "timestamp": "2026-08-30T21:53:50.249Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "迪士尼的士疑濫收逾200元過橋費　遊客：打破了我對香港的濾鏡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170950897446948864962014.png/ZNjLV8xSS-TmOKwfvBCn-vOGPp33lCh_TynY708p2O8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385150/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9A%84%E5%A3%AB%E7%96%91%E6%BF%AB%E6%94%B6%E9%80%BE200%E5%85%83%E9%81%8E%E6%A9%8B%E8%B2%BB-%E9%81%8A%E5%AE%A2-%E6%89%93%E7%A0%B4%E4%BA%86%E6%88%91%E5%B0%8D%E9%A6%99%E6%B8%AF%E7%9A%84%E6%BF%BE%E9%8F%A1",
-    "timestamp": "2026-08-30T21:27:31.615Z",
     "strategy": ".content-card__main"
   }
 ];
