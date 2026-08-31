@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T18:53:43.588Z
+// Last updated: 2026-08-31T19:20:48.566Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
+    "timestamp": "2026-08-31T19:20:48.566Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134073073150988288310485.jpeg/eyjN_zubmn80xI7ulyLlwDsNKOao2BtFRE89H0RPPR8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385452/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E8%A6%8B%E4%BF%84%E7%BE%85%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%99%AE%E4%BA%AC",
     "timestamp": "2026-08-31T11:54:03.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角砵蘭街重型貨車撞遮雨棚　毀大廈外牆致墮石屎　警圍封調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171164916539723776945078.jpeg/itGMTBLaNyueapbkgE3lxlBruvEHYWy1FbinshW4p7I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385426/%E6%97%BA%E8%A7%92%E7%A0%B5%E8%98%AD%E8%A1%97%E9%87%8D%E5%9E%8B%E8%B2%A8%E8%BB%8A%E6%92%9E%E9%81%AE%E9%9B%A8%E6%A3%9A-%E6%AF%80%E5%A4%A7%E5%BB%88%E5%A4%96%E7%89%86%E8%87%B4%E5%A2%AE%E7%9F%B3%E5%B1%8E-%E8%AD%A6%E5%9C%8D%E5%B0%81%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-08-31T10:53:47.135Z",
     "strategy": ".content-card__main"
   }
 ];
