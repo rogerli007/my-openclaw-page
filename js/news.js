@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T10:42:23.714Z
+// Last updated: 2026-08-31T10:53:47.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角砵蘭街重型貨車撞遮雨棚　毀大廈外牆致墮石屎　警圍封調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171164916539723776945078.jpeg/itGMTBLaNyueapbkgE3lxlBruvEHYWy1FbinshW4p7I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385426/%E6%97%BA%E8%A7%92%E7%A0%B5%E8%98%AD%E8%A1%97%E9%87%8D%E5%9E%8B%E8%B2%A8%E8%BB%8A%E6%92%9E%E9%81%AE%E9%9B%A8%E6%A3%9A-%E6%AF%80%E5%A4%A7%E5%BB%88%E5%A4%96%E7%89%86%E8%87%B4%E5%A2%AE%E7%9F%B3%E5%B1%8E-%E8%AD%A6%E5%9C%8D%E5%B0%81%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-08-31T10:53:47.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特快公屋1268伙9.2起揀樓　慈樂邨、順天邨、翠林邨共3伙涉凶殺案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171054271605510144815094.jpeg/folIVZWjsEs9vkHJxpYBbHOcJffQsXdf0Ic_p9CHP6c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385215/google-maps%E7%BE%8E%E5%9C%8B%E7%89%88%E7%82%BA%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%94%B9%E5%90%8D-%E5%AE%89%E7%9C%81%E7%9C%81%E9%95%B7-%E7%BE%8E%E5%8A%A0%E6%87%89%E7%B0%BD%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-08-31T03:25:21.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2.28億六合彩50週年金多寶9.5攪珠｜Gemini計3組最旺膽拖投注組合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170653156955131904240753.jpeg/Z3KXM2yLpIFoXQW9QYBFUCol75QKEedEI5vbISOb2yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60384954/2-28%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A950%E9%80%B1%E5%B9%B4%E9%87%91%E5%A4%9A%E5%AF%B69-5%E6%94%AA%E7%8F%A0-gemini%E8%A8%883%E7%B5%84%E6%9C%80%E6%97%BA%E8%86%BD%E6%8B%96%E6%8A%95%E6%B3%A8%E7%B5%84%E5%90%88",
-    "timestamp": "2026-08-31T02:55:56.229Z",
     "strategy": ".content-card__main"
   }
 ];
