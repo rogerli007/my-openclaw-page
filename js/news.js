@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T12:30:01.556Z
+// Last updated: 2026-08-31T12:50:54.829Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭麗媛同吉爾吉斯總統夫人扎帕羅娃參觀博物館　冀促人文交流",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171195193278337024216854.jpeg/vn0CZ7uO5oHm4Np_M7lspjEI0gTHDVXtD1374Q9d--E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385460/%E5%BD%AD%E9%BA%97%E5%AA%9B%E5%90%8C%E5%90%89%E7%88%BE%E5%90%89%E6%96%AF%E7%B8%BD%E7%B5%B1%E5%A4%AB%E4%BA%BA%E6%89%8E%E5%B8%95%E7%BE%85%E5%A8%83%E5%8F%83%E8%A7%80%E5%8D%9A%E7%89%A9%E9%A4%A8-%E5%86%80%E4%BF%83%E4%BA%BA%E6%96%87%E4%BA%A4%E6%B5%81",
+    "timestamp": "2026-08-31T12:50:54.829Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "利用同行兒童運近1600支私煙　48歲內地女遭海關拘捕　判囚8周",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171069778924670976578620.png/YxTjlQgGfsk74_Noyu62ZJgLnPYKIChqRrrxVka68VY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385257/%E6%BF%9F%E5%B7%9E%E5%86%8D%E5%82%B3%E5%A4%B1%E8%B9%A4%E8%80%85%E6%AD%BB%E4%BA%A1%E6%A1%88-20%E5%A4%9A%E6%AD%B2%E8%BB%8D%E4%BA%BA%E5%B8%B6%E9%87%A3%E5%85%B7%E5%87%BA%E9%96%80-%E7%BF%8C%E6%97%A5%E7%99%BC%E7%8F%BE%E9%99%B3%E5%B1%8D%E6%B5%B7%E5%B2%B8",
     "timestamp": "2026-08-31T04:25:18.206Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞幣保衛戰｜日圓兌美元再度跌破160　美日上次干預成果減退",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136616543111876608014963.jpeg/oI-4YmPdFtbhRB5nCxlR0qgWLBl3j10dtx59wLcefcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385240/%E4%BA%9E%E5%B9%A3%E4%BF%9D%E8%A1%9B%E6%88%B0-%E6%97%A5%E5%9C%93%E5%85%8C%E7%BE%8E%E5%85%83%E5%86%8D%E5%BA%A6%E8%B7%8C%E7%A0%B4160-%E7%BE%8E%E6%97%A5%E4%B8%8A%E6%AC%A1%E5%B9%B2%E9%A0%90%E6%88%90%E6%9E%9C%E6%B8%9B%E9%80%80",
-    "timestamp": "2026-08-31T03:56:30.262Z",
     "strategy": ".content-card__main"
   }
 ];
