@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T00:53:23.614Z
+// Last updated: 2026-08-31T01:34:53.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美團績後高開逾2%　次季調整後淨利潤飆近七成｜港股異動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034850395295584256349857.jpeg/Ca84YFQne2I5f5PdODvoSkUHIQ63mKcHndkRXp3ZEV4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385170/%E7%BE%8E%E5%9C%98%E7%B8%BE%E5%BE%8C%E9%AB%98%E9%96%8B%E9%80%BE2-%E6%AC%A1%E5%AD%A3%E8%AA%BF%E6%95%B4%E5%BE%8C%E6%B7%A8%E5%88%A9%E6%BD%A4%E9%A3%86%E8%BF%91%E4%B8%83%E6%88%90-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
+    "timestamp": "2026-08-31T01:34:53.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "電腦節化解漲價陣痛，憑AI實踐與跨界體驗重塑零售價值",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170890558646784000872546.png/ledlC6ftdFQGzCXeBYXiuRC_EFwvVPhyovOJx6Lzicc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385136/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE%E4%B8%AD%E5%AD%B8%E6%A0%A1%E9%95%B7%E6%9E%9C%E6%96%B7%E7%96%8F%E6%95%A3-%E6%8C%BD%E6%95%91%E9%80%BE1600%E5%90%8D%E5%AD%B8%E7%94%9F%E6%80%A7%E5%91%BD",
     "timestamp": "2026-08-30T16:42:35.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WhatsApp騎劫｜逆市飆升禍及親友　警拆解奪號手法　教你防騙四招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170869723068370944429187.jpeg/KNx7L8v5s6XmBCb3Bf6tKVEZGpROnpdMD0B-7w9Afu8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384718/whatsapp%E9%A8%8E%E5%8A%AB-%E9%80%86%E5%B8%82%E9%A3%86%E5%8D%87%E7%A6%8D%E5%8F%8A%E8%A6%AA%E5%8F%8B-%E8%AD%A6%E6%8B%86%E8%A7%A3%E5%A5%AA%E8%99%9F%E6%89%8B%E6%B3%95-%E6%95%99%E4%BD%A0%E9%98%B2%E9%A8%99%E5%9B%9B%E6%8B%9B",
-    "timestamp": "2026-08-30T16:32:08.020Z",
     "strategy": ".content-card__main"
   }
 ];
