@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T15:21:42.510Z
+// Last updated: 2026-08-31T15:53:59.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蚊患｜食環署公布8月誘蚊器指數　僅啟德超過10%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171243068796440576519820.jpeg/osAgHZM3etSiQUQsWu-OWHL-a9ueV75S7pGkuO6RpLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60385491/%E8%9A%8A%E6%82%A3-%E9%A3%9F%E7%92%B0%E7%BD%B2%E5%85%AC%E5%B8%838%E6%9C%88%E8%AA%98%E8%9A%8A%E5%99%A8%E6%8C%87%E6%95%B8-%E5%83%85%E5%95%9F%E5%BE%B7%E8%B6%85%E9%81%8E10",
+    "timestamp": "2026-08-31T15:53:59.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜馬鞍山街坊商場按摩店變淫窟？700元就有性服務:都ok㗎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145791151702282240826471.png/PPZ7gWbls8zSzp6GL04DgFCfsGUZypeRsKeAPrCngD4",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60362753/cavalluna%E9%A6%AC%E8%A1%93%E5%8A%87%E5%A0%B4-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B685%E6%8A%98%E5%84%AA%E6%83%A0%E7%A2%BC-%E6%95%99%E5%AD%B8-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-08-31T07:56:01.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾洪災｜6歲女童遭活埋3天　搜救隊聽瓦礫傳微弱哭聲奇蹟救出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171086917207330816421568.png/tSbQxh2CXEIUwpKkE5ibORS3wJujadQPL8BjzS_AY80?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385275/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD-6%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%B4%BB%E5%9F%8B3%E5%A4%A9-%E6%90%9C%E6%95%91%E9%9A%8A%E8%81%BD%E7%93%A6%E7%A4%AB%E5%82%B3%E5%BE%AE%E5%BC%B1%E5%93%AD%E8%81%B2%E5%A5%87%E8%B9%9F%E6%95%91%E5%87%BA",
-    "timestamp": "2026-08-31T07:40:10.536Z",
     "strategy": ".content-card__main"
   }
 ];
