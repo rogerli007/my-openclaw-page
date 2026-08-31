@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T17:53:40.089Z
+// Last updated: 2026-08-31T18:25:16.900Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "呈祥道私家車疑自炒鏟草叢　司機不顧而去　警到場調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171277617211379712450286.jpeg/hmP13xAAbH_KsquuSNswEpqbh_dPrLzp3cJHVffCR1U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385500/%E5%91%88%E7%A5%A5%E9%81%93%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%87%AA%E7%82%92%E9%8F%9F%E8%8D%89%E5%8F%A2-%E5%8F%B8%E6%A9%9F%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-08-31T18:25:16.900Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯入境處東九龍區反黑工　拘4男7女　最細18歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171142835596955648584763.jpeg/tInW09TduNC5-29D4WkDpL2uNXYf08gKngo3_Z4KN_0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385410/%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%829%E5%80%8B%E4%BA%A4%E6%98%93%E6%97%A5%E8%82%A1%E5%83%B9%E8%BF%91%E4%B9%8E-%E8%85%B0%E6%96%AC-%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E9%80%BE2100%E5%84%84",
     "timestamp": "2026-08-31T10:22:02.160Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭富城演唱會2026深圳｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154476213666844672146029.jpeg/UXU2EOIeO0Ww0zZr-l0-pz4ExeqGHt5M0zEXFNMxFxQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60370663/%E9%83%AD%E5%AF%8C%E5%9F%8E%E6%BC%94%E5%94%B1%E6%9C%832026%E6%B7%B1%E5%9C%B3-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-08-31T09:55:04.282Z",
     "strategy": ".content-card__main"
   }
 ];
