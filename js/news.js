@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T05:43:00.003Z
+// Last updated: 2026-08-31T06:40:01.555Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DJI運動相機拍大佛意外觸發AI手勢反覆啟停引議　網笑：佛曰Stop",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171052386060341248256930.jpeg/-2mQcNcz4pWgdLUfIOfxuU2zlt1IXJc2wJpC0cCaQtE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385213/dji%E9%81%8B%E5%8B%95%E7%9B%B8%E6%A9%9F%E6%8B%8D%E5%A4%A7%E4%BD%9B%E6%84%8F%E5%A4%96%E8%A7%B8%E7%99%BCai%E6%89%8B%E5%8B%A2%E5%8F%8D%E8%A6%86%E5%95%9F%E5%81%9C%E5%BC%95%E8%AD%B0-%E7%B6%B2%E7%AC%91-%E4%BD%9B%E6%9B%B0stop",
+    "timestamp": "2026-08-31T06:40:01.555Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "膠樽重用髒過馬桶4萬倍？拆解樽底密碼1-7號哪個安全+洗水樽4步",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170950897446948864962014.png/ZNjLV8xSS-TmOKwfvBCn-vOGPp33lCh_TynY708p2O8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385150/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9A%84%E5%A3%AB%E7%96%91%E6%BF%AB%E6%94%B6%E9%80%BE200%E5%85%83%E9%81%8E%E6%A9%8B%E8%B2%BB-%E9%81%8A%E5%AE%A2-%E6%89%93%E7%A0%B4%E4%BA%86%E6%88%91%E5%B0%8D%E9%A6%99%E6%B8%AF%E7%9A%84%E6%BF%BE%E9%8F%A1",
     "timestamp": "2026-08-30T20:53:21.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘迴旋處兩車相撞　電單車司機受傷　私家車司機涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385149/%E8%A7%80%E5%A1%98%E8%BF%B4%E6%97%8B%E8%99%95%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-30T20:30:30.294Z",
     "strategy": ".content-card__main"
   }
 ];
