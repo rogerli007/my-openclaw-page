@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T10:22:02.160Z
+// Last updated: 2026-08-31T10:42:23.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特快公屋1268伙9.2起揀樓　慈樂邨、順天邨、翠林邨共3伙涉凶殺案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250901/1039271229564915712820714.jpeg/mvEOzR9gXlKp-vkDt1ox8g8PGhpldtx5IEmwZyBJsGc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385335/%E7%89%B9%E5%BF%AB%E5%85%AC%E5%B1%8B1268%E4%BC%999-2%E8%B5%B7%E6%8F%80%E6%A8%93-%E6%85%88%E6%A8%82%E9%82%A8-%E9%A0%86%E5%A4%A9%E9%82%A8-%E7%BF%A0%E6%9E%97%E9%82%A8%E5%85%B13%E4%BC%99%E6%B6%89%E5%87%B6%E6%AE%BA%E6%A1%88",
+    "timestamp": "2026-08-31T10:42:23.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宇樹科技上市9個交易日股價近乎「腰斬」　市值蒸發逾2100億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170653156955131904240753.jpeg/Z3KXM2yLpIFoXQW9QYBFUCol75QKEedEI5vbISOb2yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60384954/2-28%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A950%E9%80%B1%E5%B9%B4%E9%87%91%E5%A4%9A%E5%AF%B69-5%E6%94%AA%E7%8F%A0-gemini%E8%A8%883%E7%B5%84%E6%9C%80%E6%97%BA%E8%86%BD%E6%8B%96%E6%8A%95%E6%B3%A8%E7%B5%84%E5%90%88",
     "timestamp": "2026-08-31T02:55:56.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周末新盤交回落至188宗　叡璟I次輪133伙沽清　緹外5.8億沽頂層戶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171036399323844608951426.jpeg/n6SjUwlNm_17afGJJrQ6x_ifK5dheJwnTAGn10wBp9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385181/%E5%91%A8%E6%9C%AB%E6%96%B0%E7%9B%A4%E4%BA%A4%E5%9B%9E%E8%90%BD%E8%87%B3188%E5%AE%97-%E5%8F%A1%E7%92%9Fi%E6%AC%A1%E8%BC%AA133%E4%BC%99%E6%B2%BD%E6%B8%85-%E7%B7%B9%E5%A4%965-8%E5%84%84%E6%B2%BD%E9%A0%82%E5%B1%A4%E6%88%B6",
-    "timestamp": "2026-08-31T02:34:58.596Z",
     "strategy": ".content-card__main"
   }
 ];
