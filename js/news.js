@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T03:25:21.230Z
+// Last updated: 2026-08-31T03:51:15.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞幣保衛戰｜日圓兌美元再度跌破160　美日上次干預成果減退",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136616543111876608014963.jpeg/oI-4YmPdFtbhRB5nCxlR0qgWLBl3j10dtx59wLcefcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385240/%E4%BA%9E%E5%B9%A3%E4%BF%9D%E8%A1%9B%E6%88%B0-%E6%97%A5%E5%9C%93%E5%85%8C%E7%BE%8E%E5%85%83%E5%86%8D%E5%BA%A6%E8%B7%8C%E7%A0%B4160-%E7%BE%8E%E6%97%A5%E4%B8%8A%E6%AC%A1%E5%B9%B2%E9%A0%90%E6%88%90%E6%9E%9C%E6%B8%9B%E9%80%80",
+    "timestamp": "2026-08-31T03:51:15.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Google Maps美國版為安大略湖改名　安省省長：美加應簽貿易協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170902849937346560730946.jpeg/XETcBBD75Wdx0UEDdyXE0lni8nxpfOETnZ49dp2ePXY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385141/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%B8%A1%E8%BC%AA%E7%BF%BB%E6%B2%898%E6%AD%BB17%E5%A4%B1%E8%B9%A4-%E8%88%B9%E9%95%B7%E5%8F%8A7%E5%90%8D%E8%88%B9%E5%93%A1%E8%A2%AB%E6%89%A3%E6%9F%A5",
     "timestamp": "2026-08-30T17:53:25.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞浦路斯渡輪翻沉8死17失蹤　船長及7名船員被扣查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170902849937346560730946.jpeg/XETcBBD75Wdx0UEDdyXE0lni8nxpfOETnZ49dp2ePXY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385141/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%B8%A1%E8%BC%AA%E7%BF%BB%E6%B2%898%E6%AD%BB17%E5%A4%B1%E8%B9%A4-%E8%88%B9%E9%95%B7%E5%8F%8A7%E5%90%8D%E8%88%B9%E5%93%A1%E8%A2%AB%E6%89%A3%E6%9F%A5",
-    "timestamp": "2026-08-30T17:41:05.546Z",
     "strategy": ".content-card__main"
   }
 ];
