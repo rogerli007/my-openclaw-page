@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T16:21:58.906Z
+// Last updated: 2026-08-31T16:41:36.971Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伍富橋老婆梁兆楹晒大肚孕照勁唯美　感性發長文準備迎接新生命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171194466233487360439165.jpeg/uuK1lvqvRQJTlGCcYUGkn20JAX5H-w4Xc6LiS3Oi4ks?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385462/%E4%BC%8D%E5%AF%8C%E6%A9%8B%E8%80%81%E5%A9%86%E6%A2%81%E5%85%86%E6%A5%B9%E6%99%92%E5%A4%A7%E8%82%9A%E5%AD%95%E7%85%A7%E5%8B%81%E5%94%AF%E7%BE%8E-%E6%84%9F%E6%80%A7%E7%99%BC%E9%95%B7%E6%96%87%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E6%96%B0%E7%94%9F%E5%91%BD",
+    "timestamp": "2026-08-31T16:41:36.971Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教局新學年推多項活動　推廣校園精神健康、預防欺凌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171134534951899136674285.jpeg/X_MfXQoGJIoqowifSnlLvkkGoPJe4azhUkfZslJH2bI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385369/shein%E4%B8%8A%E5%B8%82-%E6%9A%97%E7%9B%A4%E6%97%A9%E6%AE%B5%E7%80%89%E9%80%BE13-%E4%B8%80%E6%89%8B%E8%B3%AC%E8%9D%95656%E5%85%83",
     "timestamp": "2026-08-31T08:52:21.394Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平與吉爾吉斯總統會談　簽署友好條約強調高質量建中吉烏鐵路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171131344105771008564301.jpeg/aduR5ZtNSde-GHsDPpeVcsO7-_JEsfdMCO22AQjttgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385356/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E5%90%89%E7%88%BE%E5%90%89%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%9C%83%E8%AB%87-%E7%B0%BD%E7%BD%B2%E5%8F%8B%E5%A5%BD%E6%A2%9D%E7%B4%84%E5%BC%B7%E8%AA%BF%E9%AB%98%E8%B3%AA%E9%87%8F%E5%BB%BA%E4%B8%AD%E5%90%89%E7%83%8F%E9%90%B5%E8%B7%AF",
-    "timestamp": "2026-08-31T08:31:36.604Z",
     "strategy": ".content-card__main"
   }
 ];
