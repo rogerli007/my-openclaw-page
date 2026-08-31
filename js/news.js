@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T22:31:07.212Z
+// Last updated: 2026-08-31T22:43:19.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "影壇大哥患肺癌腦癌曾中風　太太生日贈巨型壽桃連咀兩啖感謝照顧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171140576146362368097263.jpeg/VjUxD86TrzeSYpECE_0XInJS2k69oSdadaJzdnWic3Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385348/%E9%99%B3%E6%83%A0%E6%95%8F%E6%82%A3%E8%82%BA%E7%99%8C%E8%85%A6%E7%99%8C%E6%9B%BE%E4%B8%AD%E9%A2%A8-%E8%80%81%E4%BC%B4%E7%94%9F%E6%97%A5%E8%B4%88%E5%B7%A8%E5%9E%8B%E5%A3%BD%E5%8C%85%E9%80%A3%E5%92%80%E5%85%A9%E5%95%96%E6%84%9F%E8%AC%9D%E7%85%A7%E9%A1%A7",
+    "timestamp": "2026-08-31T22:43:19.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "放狗入洗衣機｜警繼續調查IG男用戶　指暫未有證據顯示在香港發生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171194466233487360439165.jpeg/uuK1lvqvRQJTlGCcYUGkn20JAX5H-w4Xc6LiS3Oi4ks?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385462/%E4%BC%8D%E5%AF%8C%E6%A9%8B%E8%80%81%E5%A9%86%E6%A2%81%E5%85%86%E6%A5%B9%E6%99%92%E5%A4%A7%E8%82%9A%E5%AD%95%E7%85%A7%E5%8B%81%E5%94%AF%E7%BE%8E-%E6%84%9F%E6%80%A7%E7%99%BC%E9%95%B7%E6%96%87%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E6%96%B0%E7%94%9F%E5%91%BD",
     "timestamp": "2026-08-31T16:41:36.971Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教局新學年推多項活動　推廣校園精神健康、預防欺凌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171246960766619648590467.jpeg/IUj4nJrjfZBe1ftAENq7croqqv-4iokpLOn_Vizp_1Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385493/%E6%95%99%E5%B1%80%E6%96%B0%E5%AD%B8%E5%B9%B4%E6%8E%A8%E5%A4%9A%E9%A0%85%E6%B4%BB%E5%8B%95-%E6%8E%A8%E5%BB%A3%E6%A0%A1%E5%9C%92%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7-%E9%A0%90%E9%98%B2%E6%AC%BA%E5%87%8C",
-    "timestamp": "2026-08-31T16:21:58.906Z",
     "strategy": ".content-card__main"
   }
 ];
