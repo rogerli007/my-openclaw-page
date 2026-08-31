@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T16:41:36.971Z
+// Last updated: 2026-08-31T16:53:05.404Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伍富橋老婆梁兆楹晒大肚孕照勁唯美　感性發長文準備迎接新生命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171194466233487360439165.jpeg/uuK1lvqvRQJTlGCcYUGkn20JAX5H-w4Xc6LiS3Oi4ks?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385462/%E4%BC%8D%E5%AF%8C%E6%A9%8B%E8%80%81%E5%A9%86%E6%A2%81%E5%85%86%E6%A5%B9%E6%99%92%E5%A4%A7%E8%82%9A%E5%AD%95%E7%85%A7%E5%8B%81%E5%94%AF%E7%BE%8E-%E6%84%9F%E6%80%A7%E7%99%BC%E9%95%B7%E6%96%87%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E6%96%B0%E7%94%9F%E5%91%BD",
+    "timestamp": "2026-08-31T16:53:05.404Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伍富橋老婆梁兆楹晒大肚孕照勁唯美　感性發長文準備迎接新生命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171017912157212672812374.jpeg/01p-DErDC9nKaEVRmn4zUWU-tgAEgi2iO2PbnTtj250?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385365/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD%E5%A2%9E%E8%87%B3919%E6%AD%BB%E8%BF%914800%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E7%B8%BD%E7%90%86%E7%A8%B1%E5%82%B7%E4%BA%A1%E8%B2%A1%E7%94%A2%E6%90%8D%E5%A4%B1%E9%9B%A3%E4%BB%A5%E7%B5%B1%E8%A8%88",
     "timestamp": "2026-08-31T08:59:18.955Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SHEIN上市丨暗盤早段瀉逾13% 　一手賬蝕656元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171134534951899136674285.jpeg/X_MfXQoGJIoqowifSnlLvkkGoPJe4azhUkfZslJH2bI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385369/shein%E4%B8%8A%E5%B8%82-%E6%9A%97%E7%9B%A4%E6%97%A9%E6%AE%B5%E7%80%89%E9%80%BE13-%E4%B8%80%E6%89%8B%E8%B3%AC%E8%9D%95656%E5%85%83",
-    "timestamp": "2026-08-31T08:52:21.394Z",
     "strategy": ".content-card__main"
   }
 ];
