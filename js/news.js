@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T08:59:18.955Z
+// Last updated: 2026-08-31T09:27:52.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜90後獨生女警失聯4天　父親崩潰：傷殘都好只要活著",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171126753339379712127653.jpeg/__313e7pcleKFEftaJ0oKzR3Xb0pS0PW-t0vUfrdL1E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385336/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-90%E5%BE%8C%E7%8D%A8%E7%94%9F%E5%A5%B3%E8%AD%A6%E5%A4%B1%E8%81%AF4%E5%A4%A9-%E7%88%B6%E8%A6%AA%E5%B4%A9%E6%BD%B0-%E5%82%B7%E6%AE%98%E9%83%BD%E5%A5%BD%E5%8F%AA%E8%A6%81%E6%B4%BB%E8%91%97",
+    "timestamp": "2026-08-31T09:27:52.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼泊爾洪災增至919死近4800人失蹤　總理稱傷亡財產損失難以統計",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170071864689561600126098.jpeg/lod5a70fit6cjz-TW0R13ECgrUt9lcNtQ-NcXEPjXFw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384702/%E5%9C%B0%E7%94%A2%E6%AD%B7%E7%B6%93%E8%82%A1%E8%AA%BF%E6%95%B4-%E5%B1%AC%E9%95%B7%E7%B7%9A%E6%8A%95%E8%B3%87%E8%89%AF%E6%A9%9F-%E4%BC%8D%E7%A6%AE%E8%B3%A2",
     "timestamp": "2026-08-30T23:41:06.396Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美網｜黃澤林首晉第二主場作賽　先贏一盤反輸三盤首圈止步",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170995081767817216738496.jpeg/__GUbzhK3zFPhpM7Fp7s10J33q3IvKm4j_-X3o__l94?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385132/%E7%BE%8E%E7%B6%B2-%E9%BB%83%E6%BE%A4%E6%9E%97%E9%A6%96%E6%99%89%E7%AC%AC%E4%BA%8C%E4%B8%BB%E5%A0%B4%E4%BD%9C%E8%B3%BD-%E5%85%88%E8%B4%8F%E4%B8%80%E7%9B%A4%E5%8F%8D%E8%BC%B8%E4%B8%89%E7%9B%A4%E9%A6%96%E5%9C%88%E6%AD%A2%E6%AD%A5",
-    "timestamp": "2026-08-30T23:27:05.201Z",
     "strategy": ".content-card__main"
   }
 ];
