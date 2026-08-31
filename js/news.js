@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T15:53:59.637Z
+// Last updated: 2026-08-31T16:21:58.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教局新學年推多項活動　推廣校園精神健康、預防欺凌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171246960766619648590467.jpeg/IUj4nJrjfZBe1ftAENq7croqqv-4iokpLOn_Vizp_1Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385493/%E6%95%99%E5%B1%80%E6%96%B0%E5%AD%B8%E5%B9%B4%E6%8E%A8%E5%A4%9A%E9%A0%85%E6%B4%BB%E5%8B%95-%E6%8E%A8%E5%BB%A3%E6%A0%A1%E5%9C%92%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7-%E9%A0%90%E9%98%B2%E6%AC%BA%E5%87%8C",
+    "timestamp": "2026-08-31T16:21:58.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蚊患｜食環署公布8月誘蚊器指數　僅啟德超過10%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171131344105771008564301.jpeg/aduR5ZtNSde-GHsDPpeVcsO7-_JEsfdMCO22AQjttgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385356/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E5%90%89%E7%88%BE%E5%90%89%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%9C%83%E8%AB%87-%E7%B0%BD%E7%BD%B2%E5%8F%8B%E5%A5%BD%E6%A2%9D%E7%B4%84%E5%BC%B7%E8%AA%BF%E9%AB%98%E8%B3%AA%E9%87%8F%E5%BB%BA%E4%B8%AD%E5%90%89%E7%83%8F%E9%90%B5%E8%B7%AF",
     "timestamp": "2026-08-31T08:31:36.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "CAVALLUNA馬術劇場｜門票獨家85折優惠碼/教學+購票連結+座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145791151702282240826471.png/PPZ7gWbls8zSzp6GL04DgFCfsGUZypeRsKeAPrCngD4",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60362753/cavalluna%E9%A6%AC%E8%A1%93%E5%8A%87%E5%A0%B4-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B685%E6%8A%98%E5%84%AA%E6%83%A0%E7%A2%BC-%E6%95%99%E5%AD%B8-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-08-31T07:56:01.034Z",
     "strategy": ".content-card__main"
   }
 ];
