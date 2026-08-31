@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T13:53:50.409Z
+// Last updated: 2026-08-31T14:23:07.216Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "格鬥犬｜鑑定狗隻靠目測　組織稱有準則　議員倡狗牌標明混入品種",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171218402602127360931748.jpeg/BTT2DIP_XuWwMhKg8V02FWq8Cxf8THUrCqGCMwqhgjM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385371/%E6%A0%BC%E9%AC%A5%E7%8A%AC-%E9%91%91%E5%AE%9A%E7%8B%97%E9%9A%BB%E9%9D%A0%E7%9B%AE%E6%B8%AC-%E7%B5%84%E7%B9%94%E7%A8%B1%E6%9C%89%E6%BA%96%E5%89%87-%E8%AD%B0%E5%93%A1%E5%80%A1%E7%8B%97%E7%89%8C%E6%A8%99%E6%98%8E%E6%B7%B7%E5%85%A5%E5%93%81%E7%A8%AE",
+    "timestamp": "2026-08-31T14:23:07.216Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新世界深圳瑧悅推港人置業優惠　高達13.8萬人幣　港人買家佔10%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171088958545727488207891.png/LIAVNy6iafsMjwPdIG5zxlmOpEdSyB90XnhbTF54W0w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381448/%E8%86%A0%E6%A8%BD%E9%87%8D%E7%94%A8%E9%AB%92%E9%81%8E%E9%A6%AC%E6%A1%B64%E8%90%AC%E5%80%8D-%E6%8B%86%E8%A7%A3%E6%A8%BD%E5%BA%95%E5%AF%86%E7%A2%BC1-7%E8%99%9F%E5%93%AA%E5%80%8B%E5%AE%89%E5%85%A8-%E6%B4%97%E6%B0%B4%E6%A8%BD4%E6%AD%A5",
     "timestamp": "2026-08-31T05:43:00.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜奧脫福看台暴雨下又變水舞間　曼聯球場維修未處理漏水問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171028235308240896736091.png/ArybzngN2VVNUpuR_6gTxfqv4Kgsz43gM16igDNeooA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385165/%E8%8B%B1%E8%B6%85-%E5%A5%A7%E8%84%AB%E7%A6%8F%E7%9C%8B%E5%8F%B0%E6%9A%B4%E9%9B%A8%E4%B8%8B%E5%8F%88%E8%AE%8A%E6%B0%B4%E8%88%9E%E9%96%93-%E6%9B%BC%E8%81%AF%E7%90%83%E5%A0%B4%E7%B6%AD%E4%BF%AE%E6%9C%AA%E8%99%95%E7%90%86%E6%BC%8F%E6%B0%B4%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-08-31T05:21:46.575Z",
     "strategy": ".content-card__main"
   }
 ];
