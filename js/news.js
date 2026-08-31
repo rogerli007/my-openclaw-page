@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T22:43:19.607Z
+// Last updated: 2026-08-31T22:53:43.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "影壇大哥患肺癌腦癌曾中風　太太生日贈巨型壽桃連咀兩啖感謝照顧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171140576146362368097263.jpeg/VjUxD86TrzeSYpECE_0XInJS2k69oSdadaJzdnWic3Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385348/%E9%99%B3%E6%83%A0%E6%95%8F%E6%82%A3%E8%82%BA%E7%99%8C%E8%85%A6%E7%99%8C%E6%9B%BE%E4%B8%AD%E9%A2%A8-%E8%80%81%E4%BC%B4%E7%94%9F%E6%97%A5%E8%B4%88%E5%B7%A8%E5%9E%8B%E5%A3%BD%E5%8C%85%E9%80%A3%E5%92%80%E5%85%A9%E5%95%96%E6%84%9F%E8%AC%9D%E7%85%A7%E9%A1%A7",
+    "timestamp": "2026-08-31T22:53:43.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "影壇大哥患肺癌腦癌曾中風　太太生日贈巨型壽桃連咀兩啖感謝照顧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171194466233487360439165.jpeg/uuK1lvqvRQJTlGCcYUGkn20JAX5H-w4Xc6LiS3Oi4ks?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385462/%E4%BC%8D%E5%AF%8C%E6%A9%8B%E8%80%81%E5%A9%86%E6%A2%81%E5%85%86%E6%A5%B9%E6%99%92%E5%A4%A7%E8%82%9A%E5%AD%95%E7%85%A7%E5%8B%81%E5%94%AF%E7%BE%8E-%E6%84%9F%E6%80%A7%E7%99%BC%E9%95%B7%E6%96%87%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E6%96%B0%E7%94%9F%E5%91%BD",
     "timestamp": "2026-08-31T16:53:05.404Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伍富橋老婆梁兆楹晒大肚孕照勁唯美　感性發長文準備迎接新生命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171194466233487360439165.jpeg/uuK1lvqvRQJTlGCcYUGkn20JAX5H-w4Xc6LiS3Oi4ks?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385462/%E4%BC%8D%E5%AF%8C%E6%A9%8B%E8%80%81%E5%A9%86%E6%A2%81%E5%85%86%E6%A5%B9%E6%99%92%E5%A4%A7%E8%82%9A%E5%AD%95%E7%85%A7%E5%8B%81%E5%94%AF%E7%BE%8E-%E6%84%9F%E6%80%A7%E7%99%BC%E9%95%B7%E6%96%87%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E6%96%B0%E7%94%9F%E5%91%BD",
-    "timestamp": "2026-08-31T16:41:36.971Z",
     "strategy": ".content-card__main"
   }
 ];
