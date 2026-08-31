@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T19:53:43.707Z
+// Last updated: 2026-08-31T20:22:14.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普揚言將重擊伊朗　反擊美軍駐約旦基地受襲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385506/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%9A%E8%A8%80%E5%B0%87%E9%87%8D%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%8F%8D%E6%93%8A%E7%BE%8E%E8%BB%8D%E9%A7%90%E7%B4%84%E6%97%A6%E5%9F%BA%E5%9C%B0%E5%8F%97%E8%A5%B2",
+    "timestamp": "2026-08-31T20:22:14.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普揚言將重擊伊朗　反擊美軍駐約旦基地受襲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171209929017528320038421.jpeg/MVeh2OW8weAa-_QbB2v_NSlRuZZ1sWmywUpAJMFKQCQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385346/%E6%96%B0%E4%B8%96%E7%95%8C%E6%B7%B1%E5%9C%B3%E7%91%A7%E6%82%85%E6%8E%A8%E6%B8%AF%E4%BA%BA%E7%BD%AE%E6%A5%AD%E5%84%AA%E6%83%A0-%E9%AB%98%E9%81%9413-8%E8%90%AC%E4%BA%BA%E5%B9%A3-%E6%B8%AF%E4%BA%BA%E8%B2%B7%E5%AE%B6%E4%BD%9410",
     "timestamp": "2026-08-31T13:53:50.409Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聖保羅男女中學奪「合唱團奧運」兩冠軍　校方透露學生為養聲戒口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171193614580060160653247.jpeg/lTu_UYhVKzpdGNCpJEIaetQJ-_3NcuqY5xMXuOcTF7g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60385459/%E8%81%96%E4%BF%9D%E7%BE%85%E7%94%B7%E5%A5%B3%E4%B8%AD%E5%AD%B8%E5%A5%AA-%E5%90%88%E5%94%B1%E5%9C%98%E5%A5%A7%E9%81%8B-%E5%85%A9%E5%86%A0%E8%BB%8D-%E6%A0%A1%E6%96%B9%E9%80%8F%E9%9C%B2%E5%AD%B8%E7%94%9F%E7%82%BA%E9%A4%8A%E8%81%B2%E6%88%92%E5%8F%A3",
-    "timestamp": "2026-08-31T13:45:42.908Z",
     "strategy": ".content-card__main"
   }
 ];
