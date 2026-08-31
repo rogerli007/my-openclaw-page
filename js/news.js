@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T09:46:04.492Z
+// Last updated: 2026-08-31T09:55:04.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭富城演唱會2026深圳｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154476213666844672146029.jpeg/UXU2EOIeO0Ww0zZr-l0-pz4ExeqGHt5M0zEXFNMxFxQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60370663/%E9%83%AD%E5%AF%8C%E5%9F%8E%E6%BC%94%E5%94%B1%E6%9C%832026%E6%B7%B1%E5%9C%B3-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-08-31T09:55:04.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "20歲女極端節食驚患脂肪肝！早期無症狀　持續惡化恐致肝硬化肝癌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034850395295584256349857.jpeg/Ca84YFQne2I5f5PdODvoSkUHIQ63mKcHndkRXp3ZEV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385170/%E7%BE%8E%E5%9C%98%E7%B8%BE%E5%BE%8C%E9%AB%98%E9%96%8B%E9%80%BE2-%E6%AC%A1%E5%AD%A3%E8%AA%BF%E6%95%B4%E5%BE%8C%E6%B7%A8%E5%88%A9%E6%BD%A4%E9%A3%86%E8%BF%91%E4%B8%83%E6%88%90-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
     "timestamp": "2026-08-31T01:34:53.483Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "電腦節化解漲價陣痛，憑AI實踐與跨界體驗重塑零售價值",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169942019825471488751628.png/HX-covbJ3tRvyeoWJWF7-Uk5CTSHYCl9R9fpTkfX6U4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60384450/%E9%9B%BB%E8%85%A6%E7%AF%80%E5%8C%96%E8%A7%A3%E6%BC%B2%E5%83%B9%E9%99%A3%E7%97%9B-%E6%86%91ai%E5%AF%A6%E8%B8%90%E8%88%87%E8%B7%A8%E7%95%8C%E9%AB%94%E9%A9%97%E9%87%8D%E5%A1%91%E9%9B%B6%E5%94%AE%E5%83%B9%E5%80%BC",
-    "timestamp": "2026-08-31T00:53:23.614Z",
     "strategy": ".content-card__main"
   }
 ];
