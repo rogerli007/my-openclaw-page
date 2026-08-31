@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T10:53:47.135Z
+// Last updated: 2026-08-31T11:54:03.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平會見俄羅斯總統普京",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134073073150988288310485.jpeg/eyjN_zubmn80xI7ulyLlwDsNKOao2BtFRE89H0RPPR8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385452/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%9C%83%E8%A6%8B%E4%BF%84%E7%BE%85%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%99%AE%E4%BA%AC",
+    "timestamp": "2026-08-31T11:54:03.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角砵蘭街重型貨車撞遮雨棚　毀大廈外牆致墮石屎　警圍封調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136616543111876608014963.jpeg/oI-4YmPdFtbhRB5nCxlR0qgWLBl3j10dtx59wLcefcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385240/%E4%BA%9E%E5%B9%A3%E4%BF%9D%E8%A1%9B%E6%88%B0-%E6%97%A5%E5%9C%93%E5%85%8C%E7%BE%8E%E5%85%83%E5%86%8D%E5%BA%A6%E8%B7%8C%E7%A0%B4160-%E7%BE%8E%E6%97%A5%E4%B8%8A%E6%AC%A1%E5%B9%B2%E9%A0%90%E6%88%90%E6%9E%9C%E6%B8%9B%E9%80%80",
     "timestamp": "2026-08-31T03:51:15.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Google Maps美國版為安大略湖改名　安省省長：美加應簽貿易協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171054271605510144815094.jpeg/folIVZWjsEs9vkHJxpYBbHOcJffQsXdf0Ic_p9CHP6c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385215/google-maps%E7%BE%8E%E5%9C%8B%E7%89%88%E7%82%BA%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%94%B9%E5%90%8D-%E5%AE%89%E7%9C%81%E7%9C%81%E9%95%B7-%E7%BE%8E%E5%8A%A0%E6%87%89%E7%B0%BD%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-08-31T03:25:21.230Z",
     "strategy": ".content-card__main"
   }
 ];
