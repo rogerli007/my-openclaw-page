@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T04:25:18.206Z
+// Last updated: 2026-08-31T04:47:13.856Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍海逸君綽酒店自助餐｜$405起！鮑魚/龍蝦/刺身任食！低至55折",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171073256145293312582014.png/2U2T6M67Zy8izeg66nccQpdYsJshtZtiNrOelzaznpc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60385265/%E4%B9%9D%E9%BE%8D%E6%B5%B7%E9%80%B8%E5%90%9B%E7%B6%BD%E9%85%92%E5%BA%97%E8%87%AA%E5%8A%A9%E9%A4%90-405%E8%B5%B7-%E9%AE%91%E9%AD%9A-%E9%BE%8D%E8%9D%A6-%E5%88%BA%E8%BA%AB%E4%BB%BB%E9%A3%9F-%E4%BD%8E%E8%87%B355%E6%8A%98",
+    "timestamp": "2026-08-31T04:47:13.856Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "濟州再傳失蹤者死亡案　20多歲軍人帶釣具出門　翌日發現陳屍海岸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385149/%E8%A7%80%E5%A1%98%E8%BF%B4%E6%97%8B%E8%99%95%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-30T19:41:07.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：將用委內瑞拉石油補充美國戰略儲備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170879832372809728140739.jpeg/dVTWRDVm-j5mDWmvwCfiTkUv8IuF4ZcJ1G-FhtRvhYY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385128/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B0%87%E7%94%A8%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E8%A3%9C%E5%85%85%E7%BE%8E%E5%9C%8B%E6%88%B0%E7%95%A5%E5%84%B2%E5%82%99",
-    "timestamp": "2026-08-30T19:24:50.355Z",
     "strategy": ".content-card__main"
   }
 ];
