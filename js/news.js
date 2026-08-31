@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T17:29:09.742Z
+// Last updated: 2026-08-31T17:41:11.825Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯入境處東九龍區反黑工　拘4男7女　最細18歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171254259803492352047529.jpeg/FMs7AIUiw5ehQZKxVKusebof3EsV91I0qGhV3KhoVdw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385497/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%9D%B1%E4%B9%9D%E9%BE%8D%E5%8D%80%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%984%E7%94%B77%E5%A5%B3-%E6%9C%80%E7%B4%B018%E6%AD%B2",
+    "timestamp": "2026-08-31T17:41:11.825Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人口調查｜123萬適婚男女從未結婚　本地「剩男」比「剩女」多3萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169686169512841216953140.jpeg/vIAA81w2dUa7GzpB9lf372bQlmDGq6XEBm5zrwZuc68?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60382198/20%E6%AD%B2%E5%A5%B3%E6%A5%B5%E7%AB%AF%E7%AF%80%E9%A3%9F%E9%A9%9A%E6%82%A3%E8%84%82%E8%82%AA%E8%82%9D-%E6%97%A9%E6%9C%9F%E7%84%A1%E7%97%87%E7%8B%80-%E6%8C%81%E7%BA%8C%E6%83%A1%E5%8C%96%E6%81%90%E8%87%B4%E8%82%9D%E7%A1%AC%E5%8C%96%E8%82%9D%E7%99%8C",
     "timestamp": "2026-08-31T09:46:04.492Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜90後獨生女警失聯4天　父親崩潰：傷殘都好只要活著",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171126753339379712127653.jpeg/__313e7pcleKFEftaJ0oKzR3Xb0pS0PW-t0vUfrdL1E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385336/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-90%E5%BE%8C%E7%8D%A8%E7%94%9F%E5%A5%B3%E8%AD%A6%E5%A4%B1%E8%81%AF4%E5%A4%A9-%E7%88%B6%E8%A6%AA%E5%B4%A9%E6%BD%B0-%E5%82%B7%E6%AE%98%E9%83%BD%E5%A5%BD%E5%8F%AA%E8%A6%81%E6%B4%BB%E8%91%97",
-    "timestamp": "2026-08-31T09:27:52.964Z",
     "strategy": ".content-card__main"
   }
 ];
