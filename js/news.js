@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T14:43:56.198Z
+// Last updated: 2026-08-31T14:54:42.032Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無牌防癌針｜01獨家揭醫療中心涉訛稱有防癌疫苗　衞生署嚴肅跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167180970281930752120943.jpeg/EWvUnJQwxEL7KXNsJAddHvZgxVdQ3dhe9_DKOffwyjk",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385478/%E7%84%A1%E7%89%8C%E9%98%B2%E7%99%8C%E9%87%9D-01%E7%8D%A8%E5%AE%B6%E6%8F%AD%E9%86%AB%E7%99%82%E4%B8%AD%E5%BF%83%E6%B6%89%E8%A8%9B%E7%A8%B1%E6%9C%89%E9%98%B2%E7%99%8C%E7%96%AB%E8%8B%97-%E8%A1%9E%E7%94%9F%E7%BD%B2%E5%9A%B4%E8%82%85%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-08-31T14:54:42.032Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SS級美女被戴綠帽惹議　工作穩定自己有層樓　拍拖5年已談婚論嫁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171111324793442304320764.jpeg/HdKYWAwHAtXwVFeXvvDrFG6-NAsrvtQm76tGre-rRq0?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382498/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-08-31T07:07:48.351Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DJI運動相機拍大佛意外觸發AI手勢反覆啟停引議　網笑：佛曰Stop",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171052386060341248256930.jpeg/-2mQcNcz4pWgdLUfIOfxuU2zlt1IXJc2wJpC0cCaQtE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385213/dji%E9%81%8B%E5%8B%95%E7%9B%B8%E6%A9%9F%E6%8B%8D%E5%A4%A7%E4%BD%9B%E6%84%8F%E5%A4%96%E8%A7%B8%E7%99%BCai%E6%89%8B%E5%8B%A2%E5%8F%8D%E8%A6%86%E5%95%9F%E5%81%9C%E5%BC%95%E8%AD%B0-%E7%B6%B2%E7%AC%91-%E4%BD%9B%E6%9B%B0stop",
-    "timestamp": "2026-08-31T06:40:01.555Z",
     "strategy": ".content-card__main"
   }
 ];
