@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-30T23:41:06.396Z
+// Last updated: 2026-08-31T00:53:23.614Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "電腦節化解漲價陣痛，憑AI實踐與跨界體驗重塑零售價值",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169942019825471488751628.png/HX-covbJ3tRvyeoWJWF7-Uk5CTSHYCl9R9fpTkfX6U4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60384450/%E9%9B%BB%E8%85%A6%E7%AF%80%E5%8C%96%E8%A7%A3%E6%BC%B2%E5%83%B9%E9%99%A3%E7%97%9B-%E6%86%91ai%E5%AF%A6%E8%B8%90%E8%88%87%E8%B7%A8%E7%95%8C%E9%AB%94%E9%A9%97%E9%87%8D%E5%A1%91%E9%9B%B6%E5%94%AE%E5%83%B9%E5%80%BC",
+    "timestamp": "2026-08-31T00:53:23.614Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "地產歷經股調整　屬長線投資良機｜伍禮賢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170869723068370944429187.jpeg/KNx7L8v5s6XmBCb3Bf6tKVEZGpROnpdMD0B-7w9Afu8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384718/whatsapp%E9%A8%8E%E5%8A%AB-%E9%80%86%E5%B8%82%E9%A3%86%E5%8D%87%E7%A6%8D%E5%8F%8A%E8%A6%AA%E5%8F%8B-%E8%AD%A6%E6%8B%86%E8%A7%A3%E5%A5%AA%E8%99%9F%E6%89%8B%E6%B3%95-%E6%95%99%E4%BD%A0%E9%98%B2%E9%A8%99%E5%9B%9B%E6%8B%9B",
     "timestamp": "2026-08-30T16:32:08.020Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WhatsApp騎劫｜逆市飆升禍及親友　警拆解奪號手法　教你防騙四招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170869723068370944429187.jpeg/KNx7L8v5s6XmBCb3Bf6tKVEZGpROnpdMD0B-7w9Afu8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384718/whatsapp%E9%A8%8E%E5%8A%AB-%E9%80%86%E5%B8%82%E9%A3%86%E5%8D%87%E7%A6%8D%E5%8F%8A%E8%A6%AA%E5%8F%8B-%E8%AD%A6%E6%8B%86%E8%A7%A3%E5%A5%AA%E8%99%9F%E6%89%8B%E6%B3%95-%E6%95%99%E4%BD%A0%E9%98%B2%E9%A8%99%E5%9B%9B%E6%8B%9B",
-    "timestamp": "2026-08-30T16:20:15.354Z",
     "strategy": ".content-card__main"
   }
 ];
