@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T07:07:48.351Z
+// Last updated: 2026-08-31T07:40:10.536Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼泊爾洪災｜6歲女童遭活埋3天　搜救隊聽瓦礫傳微弱哭聲奇蹟救出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171086917207330816421568.png/tSbQxh2CXEIUwpKkE5ibORS3wJujadQPL8BjzS_AY80?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385275/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD-6%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E6%B4%BB%E5%9F%8B3%E5%A4%A9-%E6%90%9C%E6%95%91%E9%9A%8A%E8%81%BD%E7%93%A6%E7%A4%AB%E5%82%B3%E5%BE%AE%E5%BC%B1%E5%93%AD%E8%81%B2%E5%A5%87%E8%B9%9F%E6%95%91%E5%87%BA",
+    "timestamp": "2026-08-31T07:40:10.536Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "早春晴朗線上看劇情｜最新更新時間/追劇日曆+演員關係圖+簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170950897446948864962014.png/ZNjLV8xSS-TmOKwfvBCn-vOGPp33lCh_TynY708p2O8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385150/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9A%84%E5%A3%AB%E7%96%91%E6%BF%AB%E6%94%B6%E9%80%BE200%E5%85%83%E9%81%8E%E6%A9%8B%E8%B2%BB-%E9%81%8A%E5%AE%A2-%E6%89%93%E7%A0%B4%E4%BA%86%E6%88%91%E5%B0%8D%E9%A6%99%E6%B8%AF%E7%9A%84%E6%BF%BE%E9%8F%A1",
     "timestamp": "2026-08-30T21:27:31.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "迪士尼的士疑濫收逾200元過橋費　遊客：打破了我對香港的濾鏡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170950897446948864962014.png/ZNjLV8xSS-TmOKwfvBCn-vOGPp33lCh_TynY708p2O8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385150/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9A%84%E5%A3%AB%E7%96%91%E6%BF%AB%E6%94%B6%E9%80%BE200%E5%85%83%E9%81%8E%E6%A9%8B%E8%B2%BB-%E9%81%8A%E5%AE%A2-%E6%89%93%E7%A0%B4%E4%BA%86%E6%88%91%E5%B0%8D%E9%A6%99%E6%B8%AF%E7%9A%84%E6%BF%BE%E9%8F%A1",
-    "timestamp": "2026-08-30T21:17:20.384Z",
     "strategy": ".content-card__main"
   }
 ];
