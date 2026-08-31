@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T01:34:53.483Z
+// Last updated: 2026-08-31T02:34:58.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周末新盤交回落至188宗　叡璟I次輪133伙沽清　緹外5.8億沽頂層戶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171036399323844608951426.jpeg/n6SjUwlNm_17afGJJrQ6x_ifK5dheJwnTAGn10wBp9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385181/%E5%91%A8%E6%9C%AB%E6%96%B0%E7%9B%A4%E4%BA%A4%E5%9B%9E%E8%90%BD%E8%87%B3188%E5%AE%97-%E5%8F%A1%E7%92%9Fi%E6%AC%A1%E8%BC%AA133%E4%BC%99%E6%B2%BD%E6%B8%85-%E7%B7%B9%E5%A4%965-8%E5%84%84%E6%B2%BD%E9%A0%82%E5%B1%A4%E6%88%B6",
+    "timestamp": "2026-08-31T02:34:58.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美團績後高開逾2%　次季調整後淨利潤飆近七成｜港股異動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170890416338243584306912.jpeg/8LircoPqUcIwiPADOI_PKMSvp2zOw9Ve0CmXz9Apl88?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385135/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%BE%B3%E9%96%80%E6%BC%94%E5%94%B1%E6%9C%83-%E5%A7%9C%E6%BF%A4%E5%81%9A%E5%A3%93%E8%BB%B8%E5%98%89%E8%B3%93-%E8%A6%81%E6%B1%82%E5%85%AC%E4%B8%BB%E6%8A%B1%E8%B5%B7%E5%8F%A4%E7%94%9F%E5%86%8D%E8%B4%88%E5%BC%B7%E5%90%BB",
     "timestamp": "2026-08-30T17:16:08.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜尼泊爾中學校長果斷疏散　挽救逾1600名學生性命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170890558646784000872546.png/ledlC6ftdFQGzCXeBYXiuRC_EFwvVPhyovOJx6Lzicc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385136/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE%E4%B8%AD%E5%AD%B8%E6%A0%A1%E9%95%B7%E6%9E%9C%E6%96%B7%E7%96%8F%E6%95%A3-%E6%8C%BD%E6%95%91%E9%80%BE1600%E5%90%8D%E5%AD%B8%E7%94%9F%E6%80%A7%E5%91%BD",
-    "timestamp": "2026-08-30T16:42:35.169Z",
     "strategy": ".content-card__main"
   }
 ];
