@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T21:18:41.407Z
+// Last updated: 2026-08-31T21:29:21.375Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跑步｜萬宜路上落高低 713米  曾曉彤教你克服「魔鬼級鋸齒爬升」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171326535399903232916052.jpeg/hznK4GXeZ37cXEV5ezNkM68N71Q4yGBh5DV1h-Q1dYc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385511/%E8%B7%91%E6%AD%A5-%E8%90%AC%E5%AE%9C%E8%B7%AF%E4%B8%8A%E8%90%BD%E9%AB%98%E4%BD%8E-713%E7%B1%B3-%E6%9B%BE%E6%9B%89%E5%BD%A4%E6%95%99%E4%BD%A0%E5%85%8B%E6%9C%8D-%E9%AD%94%E9%AC%BC%E7%B4%9A%E9%8B%B8%E9%BD%92%E7%88%AC%E5%8D%87",
+    "timestamp": "2026-08-31T21:29:21.375Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：特朗普擬向伊朗發動有限度打擊　以防霍爾木茲船隻受襲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171216313117315072591376.jpeg/D0satI0wqCZHN-Xyuz1y0BJD1jsF2qo3ZZ0s2GWdLNg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385473/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%A1%97%E5%9D%8A%E5%95%86%E5%A0%B4%E6%8C%89%E6%91%A9%E5%BA%97%E8%AE%8A%E6%B7%AB%E7%AA%9F-700%E5%85%83%E5%B0%B1%E6%9C%89%E6%80%A7%E6%9C%8D%E5%8B%99-%E9%83%BDok%E3%97%8E",
     "timestamp": "2026-08-31T15:21:42.510Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無牌防癌針｜01獨家揭醫療中心涉訛稱有防癌疫苗　衞生署嚴肅跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260820/1167180970281930752120943.jpeg/EWvUnJQwxEL7KXNsJAddHvZgxVdQ3dhe9_DKOffwyjk",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385478/%E7%84%A1%E7%89%8C%E9%98%B2%E7%99%8C%E9%87%9D-01%E7%8D%A8%E5%AE%B6%E6%8F%AD%E9%86%AB%E7%99%82%E4%B8%AD%E5%BF%83%E6%B6%89%E8%A8%9B%E7%A8%B1%E6%9C%89%E9%98%B2%E7%99%8C%E7%96%AB%E8%8B%97-%E8%A1%9E%E7%94%9F%E7%BD%B2%E5%9A%B4%E8%82%85%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-08-31T14:54:42.032Z",
     "strategy": ".content-card__main"
   }
 ];
