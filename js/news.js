@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T04:47:13.856Z
+// Last updated: 2026-08-31T05:21:46.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜奧脫福看台暴雨下又變水舞間　曼聯球場維修未處理漏水問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171028235308240896736091.png/ArybzngN2VVNUpuR_6gTxfqv4Kgsz43gM16igDNeooA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385165/%E8%8B%B1%E8%B6%85-%E5%A5%A7%E8%84%AB%E7%A6%8F%E7%9C%8B%E5%8F%B0%E6%9A%B4%E9%9B%A8%E4%B8%8B%E5%8F%88%E8%AE%8A%E6%B0%B4%E8%88%9E%E9%96%93-%E6%9B%BC%E8%81%AF%E7%90%83%E5%A0%B4%E7%B6%AD%E4%BF%AE%E6%9C%AA%E8%99%95%E7%90%86%E6%BC%8F%E6%B0%B4%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-08-31T05:21:46.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍海逸君綽酒店自助餐｜$405起！鮑魚/龍蝦/刺身任食！低至55折",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385149/%E8%A7%80%E5%A1%98%E8%BF%B4%E6%97%8B%E8%99%95%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-08-30T20:18:40.215Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘迴旋處兩車相撞　電單車司機受傷　私家車司機涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385149/%E8%A7%80%E5%A1%98%E8%BF%B4%E6%97%8B%E8%99%95%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-08-30T19:41:07.237Z",
     "strategy": ".content-card__main"
   }
 ];
