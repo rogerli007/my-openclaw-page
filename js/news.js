@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T12:50:54.829Z
+// Last updated: 2026-08-31T13:45:42.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聖保羅男女中學奪「合唱團奧運」兩冠軍　校方透露學生為養聲戒口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171193614580060160653247.jpeg/lTu_UYhVKzpdGNCpJEIaetQJ-_3NcuqY5xMXuOcTF7g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60385459/%E8%81%96%E4%BF%9D%E7%BE%85%E7%94%B7%E5%A5%B3%E4%B8%AD%E5%AD%B8%E5%A5%AA-%E5%90%88%E5%94%B1%E5%9C%98%E5%A5%A7%E9%81%8B-%E5%85%A9%E5%86%A0%E8%BB%8D-%E6%A0%A1%E6%96%B9%E9%80%8F%E9%9C%B2%E5%AD%B8%E7%94%9F%E7%82%BA%E9%A4%8A%E8%81%B2%E6%88%92%E5%8F%A3",
+    "timestamp": "2026-08-31T13:45:42.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭麗媛同吉爾吉斯總統夫人扎帕羅娃參觀博物館　冀促人文交流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171073256145293312582014.png/2U2T6M67Zy8izeg66nccQpdYsJshtZtiNrOelzaznpc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60385265/%E4%B9%9D%E9%BE%8D%E6%B5%B7%E9%80%B8%E5%90%9B%E7%B6%BD%E9%85%92%E5%BA%97%E8%87%AA%E5%8A%A9%E9%A4%90-405%E8%B5%B7-%E9%AE%91%E9%AD%9A-%E9%BE%8D%E8%9D%A6-%E5%88%BA%E8%BA%AB%E4%BB%BB%E9%A3%9F-%E4%BD%8E%E8%87%B355%E6%8A%98",
     "timestamp": "2026-08-31T04:47:13.856Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "濟州再傳失蹤者死亡案　20多歲軍人帶釣具出門　翌日發現陳屍海岸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171069778924670976578620.png/YxTjlQgGfsk74_Noyu62ZJgLnPYKIChqRrrxVka68VY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385257/%E6%BF%9F%E5%B7%9E%E5%86%8D%E5%82%B3%E5%A4%B1%E8%B9%A4%E8%80%85%E6%AD%BB%E4%BA%A1%E6%A1%88-20%E5%A4%9A%E6%AD%B2%E8%BB%8D%E4%BA%BA%E5%B8%B6%E9%87%A3%E5%85%B7%E5%87%BA%E9%96%80-%E7%BF%8C%E6%97%A5%E7%99%BC%E7%8F%BE%E9%99%B3%E5%B1%8D%E6%B5%B7%E5%B2%B8",
-    "timestamp": "2026-08-31T04:25:18.206Z",
     "strategy": ".content-card__main"
   }
 ];
