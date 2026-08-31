@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T02:34:58.596Z
+// Last updated: 2026-08-31T02:55:56.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2.28億六合彩50週年金多寶9.5攪珠｜Gemini計3組最旺膽拖投注組合",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170653156955131904240753.jpeg/Z3KXM2yLpIFoXQW9QYBFUCol75QKEedEI5vbISOb2yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60384954/2-28%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A950%E9%80%B1%E5%B9%B4%E9%87%91%E5%A4%9A%E5%AF%B69-5%E6%94%AA%E7%8F%A0-gemini%E8%A8%883%E7%B5%84%E6%9C%80%E6%97%BA%E8%86%BD%E6%8B%96%E6%8A%95%E6%B3%A8%E7%B5%84%E5%90%88",
+    "timestamp": "2026-08-31T02:55:56.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周末新盤交回落至188宗　叡璟I次輪133伙沽清　緹外5.8億沽頂層戶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170902849937346560730946.jpeg/XETcBBD75Wdx0UEDdyXE0lni8nxpfOETnZ49dp2ePXY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385141/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%B8%A1%E8%BC%AA%E7%BF%BB%E6%B2%897%E6%AD%BB23%E5%A4%B1%E8%B9%A4-%E8%88%B9%E9%95%B7%E5%8F%8A7%E5%90%8D%E8%88%B9%E5%93%A1%E8%A2%AB%E6%89%A3%E6%9F%A5",
     "timestamp": "2026-08-30T17:26:19.189Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古天樂澳門演唱會｜姜濤做壓軸嘉賓　要求公主抱起古生再贈強吻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170890416338243584306912.jpeg/8LircoPqUcIwiPADOI_PKMSvp2zOw9Ve0CmXz9Apl88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385135/%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%BE%B3%E9%96%80%E6%BC%94%E5%94%B1%E6%9C%83-%E5%A7%9C%E6%BF%A4%E5%81%9A%E5%A3%93%E8%BB%B8%E5%98%89%E8%B3%93-%E8%A6%81%E6%B1%82%E5%85%AC%E4%B8%BB%E6%8A%B1%E8%B5%B7%E5%8F%A4%E7%94%9F%E5%86%8D%E8%B4%88%E5%BC%B7%E5%90%BB",
-    "timestamp": "2026-08-30T17:16:08.349Z",
     "strategy": ".content-card__main"
   }
 ];
