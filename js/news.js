@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T14:23:07.216Z
+// Last updated: 2026-08-31T14:43:56.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SS級美女被戴綠帽惹議　工作穩定自己有層樓　拍拖5年已談婚論嫁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143602329526734848694307.jpeg/SnwlYUs7PTOu1rVso-pvTDG5w561r8PjAtgnowLYJ6M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60277151/ss%E7%B4%9A%E7%BE%8E%E5%A5%B3%E8%A2%AB%E6%88%B4%E7%B6%A0%E5%B8%BD%E6%83%B9%E8%AD%B0-%E5%B7%A5%E4%BD%9C%E7%A9%A9%E5%AE%9A%E8%87%AA%E5%B7%B1%E6%9C%89%E5%B1%A4%E6%A8%93-%E6%8B%8D%E6%8B%965%E5%B9%B4%E5%B7%B2%E8%AB%87%E5%A9%9A%E8%AB%96%E5%AB%81",
+    "timestamp": "2026-08-31T14:43:56.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "格鬥犬｜鑑定狗隻靠目測　組織稱有準則　議員倡狗牌標明混入品種",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171052386060341248256930.jpeg/-2mQcNcz4pWgdLUfIOfxuU2zlt1IXJc2wJpC0cCaQtE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385213/dji%E9%81%8B%E5%8B%95%E7%9B%B8%E6%A9%9F%E6%8B%8D%E5%A4%A7%E4%BD%9B%E6%84%8F%E5%A4%96%E8%A7%B8%E7%99%BCai%E6%89%8B%E5%8B%A2%E5%8F%8D%E8%A6%86%E5%95%9F%E5%81%9C%E5%BC%95%E8%AD%B0-%E7%B6%B2%E7%AC%91-%E4%BD%9B%E6%9B%B0stop",
     "timestamp": "2026-08-31T06:40:01.555Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "膠樽重用髒過馬桶4萬倍？拆解樽底密碼1-7號哪個安全+洗水樽4步",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171088958545727488207891.png/LIAVNy6iafsMjwPdIG5zxlmOpEdSyB90XnhbTF54W0w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60381448/%E8%86%A0%E6%A8%BD%E9%87%8D%E7%94%A8%E9%AB%92%E9%81%8E%E9%A6%AC%E6%A1%B64%E8%90%AC%E5%80%8D-%E6%8B%86%E8%A7%A3%E6%A8%BD%E5%BA%95%E5%AF%86%E7%A2%BC1-7%E8%99%9F%E5%93%AA%E5%80%8B%E5%AE%89%E5%85%A8-%E6%B4%97%E6%B0%B4%E6%A8%BD4%E6%AD%A5",
-    "timestamp": "2026-08-31T05:43:00.003Z",
     "strategy": ".content-card__main"
   }
 ];
