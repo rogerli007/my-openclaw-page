@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T03:56:30.262Z
+// Last updated: 2026-08-31T04:25:18.206Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "濟州再傳失蹤者死亡案　20多歲軍人帶釣具出門　翌日發現陳屍海岸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171069778924670976578620.png/YxTjlQgGfsk74_Noyu62ZJgLnPYKIChqRrrxVka68VY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385257/%E6%BF%9F%E5%B7%9E%E5%86%8D%E5%82%B3%E5%A4%B1%E8%B9%A4%E8%80%85%E6%AD%BB%E4%BA%A1%E6%A1%88-20%E5%A4%9A%E6%AD%B2%E8%BB%8D%E4%BA%BA%E5%B8%B6%E9%87%A3%E5%85%B7%E5%87%BA%E9%96%80-%E7%BF%8C%E6%97%A5%E7%99%BC%E7%8F%BE%E9%99%B3%E5%B1%8D%E6%B5%B7%E5%B2%B8",
+    "timestamp": "2026-08-31T04:25:18.206Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞幣保衛戰｜日圓兌美元再度跌破160　美日上次干預成果減退",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170879832372809728140739.jpeg/dVTWRDVm-j5mDWmvwCfiTkUv8IuF4ZcJ1G-FhtRvhYY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385128/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B0%87%E7%94%A8%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E8%A3%9C%E5%85%85%E7%BE%8E%E5%9C%8B%E6%88%B0%E7%95%A5%E5%84%B2%E5%82%99",
     "timestamp": "2026-08-30T19:24:50.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼聯大炒葉士域治5：2取開季首勝　周日晚英超共錄17球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170915243090513920078951.png/sANFU_gaKe1krBgEimZwzJM0agXFExP7WOv2Q1jr9kM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385145/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E5%A4%A7%E7%82%92%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB5-2%E5%8F%96%E9%96%8B%E5%AD%A3%E9%A6%96%E5%8B%9D-%E5%91%A8%E6%97%A5%E6%99%9A%E8%8B%B1%E8%B6%85%E5%85%B1%E9%8C%8417%E7%90%83",
-    "timestamp": "2026-08-30T18:42:21.309Z",
     "strategy": ".content-card__main"
   }
 ];
