@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T07:56:01.034Z
+// Last updated: 2026-08-31T08:31:36.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平與吉爾吉斯總統會談　簽署友好條約強調高質量建中吉烏鐵路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171131344105771008564301.jpeg/aduR5ZtNSde-GHsDPpeVcsO7-_JEsfdMCO22AQjttgE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385356/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E5%90%89%E7%88%BE%E5%90%89%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%9C%83%E8%AB%87-%E7%B0%BD%E7%BD%B2%E5%8F%8B%E5%A5%BD%E6%A2%9D%E7%B4%84%E5%BC%B7%E8%AA%BF%E9%AB%98%E8%B3%AA%E9%87%8F%E5%BB%BA%E4%B8%AD%E5%90%89%E7%83%8F%E9%90%B5%E8%B7%AF",
+    "timestamp": "2026-08-31T08:31:36.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "CAVALLUNA馬術劇場｜門票獨家85折優惠碼/教學+購票連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220724/628004039426052096356189.jpeg/z8P9Q9TTRi0jSLhuR1cNw65a7o2AMwx17Z-6Qu2fukI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385127/%E6%96%B0%E7%9B%A4%E6%BF%80%E7%99%BC%E8%B3%BC%E8%B2%B7%E5%8A%9B-%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB12%E5%AE%97%E6%88%90%E4%BA%A4-%E5%A4%AA%E5%8F%A4%E5%9F%8E%E9%80%A3%E9%8C%843%E5%AE%97",
     "timestamp": "2026-08-30T22:18:25.039Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜中方再有專家抵尼泊爾　助災區隧道探查和搜救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170970161205874688315209.jpeg/GZuUSDAyca9MD8ujuMsgiOM8Nf3LMdYjBzJc0AcyXNA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385153/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%AD%E6%96%B9%E5%86%8D%E6%9C%89%E5%B0%88%E5%AE%B6%E6%8A%B5%E5%B0%BC%E6%B3%8A%E7%88%BE-%E5%8A%A9%E7%81%BD%E5%8D%80%E9%9A%A7%E9%81%93%E6%8E%A2%E6%9F%A5%E5%92%8C%E6%90%9C%E6%95%91",
-    "timestamp": "2026-08-30T21:53:50.249Z",
     "strategy": ".content-card__main"
   }
 ];
