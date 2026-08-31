@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T11:54:03.284Z
+// Last updated: 2026-08-31T12:30:01.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "利用同行兒童運近1600支私煙　48歲內地女遭海關拘捕　判囚8周",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171190087124258816862753.jpeg/PJZa1hUhw9_-qcAiRGy0ySGMJFwhF1Ro8H4GZ_B-Bmc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385457/%E5%88%A9%E7%94%A8%E5%90%8C%E8%A1%8C%E5%85%92%E7%AB%A5%E9%81%8B%E8%BF%911600%E6%94%AF%E7%A7%81%E7%85%99-48%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A5%B3%E9%81%AD%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8D%95-%E5%88%A4%E5%9B%9A8%E5%91%A8",
+    "timestamp": "2026-08-31T12:30:01.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平會見俄羅斯總統普京",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136616543111876608014963.jpeg/oI-4YmPdFtbhRB5nCxlR0qgWLBl3j10dtx59wLcefcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385240/%E4%BA%9E%E5%B9%A3%E4%BF%9D%E8%A1%9B%E6%88%B0-%E6%97%A5%E5%9C%93%E5%85%8C%E7%BE%8E%E5%85%83%E5%86%8D%E5%BA%A6%E8%B7%8C%E7%A0%B4160-%E7%BE%8E%E6%97%A5%E4%B8%8A%E6%AC%A1%E5%B9%B2%E9%A0%90%E6%88%90%E6%9E%9C%E6%B8%9B%E9%80%80",
     "timestamp": "2026-08-31T03:56:30.262Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞幣保衛戰｜日圓兌美元再度跌破160　美日上次干預成果減退",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136616543111876608014963.jpeg/oI-4YmPdFtbhRB5nCxlR0qgWLBl3j10dtx59wLcefcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385240/%E4%BA%9E%E5%B9%A3%E4%BF%9D%E8%A1%9B%E6%88%B0-%E6%97%A5%E5%9C%93%E5%85%8C%E7%BE%8E%E5%85%83%E5%86%8D%E5%BA%A6%E8%B7%8C%E7%A0%B4160-%E7%BE%8E%E6%97%A5%E4%B8%8A%E6%AC%A1%E5%B9%B2%E9%A0%90%E6%88%90%E6%9E%9C%E6%B8%9B%E9%80%80",
-    "timestamp": "2026-08-31T03:51:15.687Z",
     "strategy": ".content-card__main"
   }
 ];
