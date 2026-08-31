@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T23:29:21.099Z
+// Last updated: 2026-08-31T23:43:29.437Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皮膚癌症末期擴散全身！澳洲六旬農夫做心臟手術　腫瘤奇蹟全消退",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168601128141590528306175.jpeg/Xn_zn2mGvuROfn-pLSPWsCtmtKgIwyL8olZ4pKJWeKQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60380087/%E7%9A%AE%E8%86%9A%E7%99%8C%E7%97%87%E6%9C%AB%E6%9C%9F%E6%93%B4%E6%95%A3%E5%85%A8%E8%BA%AB-%E6%BE%B3%E6%B4%B2%E5%85%AD%E6%97%AC%E8%BE%B2%E5%A4%AB%E5%81%9A%E5%BF%83%E8%87%9F%E6%89%8B%E8%A1%93-%E8%85%AB%E7%98%A4%E5%A5%87%E8%B9%9F%E5%85%A8%E6%B6%88%E9%80%80",
+    "timestamp": "2026-08-31T23:43:29.437Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "皮膚癌症末期擴散全身！澳洲六旬農夫做心臟手術　腫瘤奇蹟全消退",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171254259803492352047529.jpeg/FMs7AIUiw5ehQZKxVKusebof3EsV91I0qGhV3KhoVdw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385497/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%9D%B1%E4%B9%9D%E9%BE%8D%E5%8D%80%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%984%E7%94%B77%E5%A5%B3-%E6%9C%80%E7%B4%B018%E6%AD%B2",
     "timestamp": "2026-08-31T17:53:40.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯入境處東九龍區反黑工　拘4男7女　最細18歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171254259803492352047529.jpeg/FMs7AIUiw5ehQZKxVKusebof3EsV91I0qGhV3KhoVdw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385497/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%9D%B1%E4%B9%9D%E9%BE%8D%E5%8D%80%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%984%E7%94%B77%E5%A5%B3-%E6%9C%80%E7%B4%B018%E6%AD%B2",
-    "timestamp": "2026-08-31T17:41:11.825Z",
     "strategy": ".content-card__main"
   }
 ];
