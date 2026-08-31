@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T18:25:16.900Z
+// Last updated: 2026-08-31T18:44:42.774Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
+    "timestamp": "2026-08-31T18:44:42.774Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "呈祥道私家車疑自炒鏟草叢　司機不顧而去　警到場調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250901/1039271229564915712820714.jpeg/mvEOzR9gXlKp-vkDt1ox8g8PGhpldtx5IEmwZyBJsGc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385335/%E7%89%B9%E5%BF%AB%E5%85%AC%E5%B1%8B1268%E4%BC%999-2%E8%B5%B7%E6%8F%80%E6%A8%93-%E6%85%88%E6%A8%82%E9%82%A8-%E9%A0%86%E5%A4%A9%E9%82%A8-%E7%BF%A0%E6%9E%97%E9%82%A8%E5%85%B13%E4%BC%99%E6%B6%89%E5%87%B6%E6%AE%BA%E6%A1%88",
     "timestamp": "2026-08-31T10:42:23.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宇樹科技上市9個交易日股價近乎「腰斬」　市值蒸發逾2100億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171142835596955648584763.jpeg/tInW09TduNC5-29D4WkDpL2uNXYf08gKngo3_Z4KN_0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385410/%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%829%E5%80%8B%E4%BA%A4%E6%98%93%E6%97%A5%E8%82%A1%E5%83%B9%E8%BF%91%E4%B9%8E-%E8%85%B0%E6%96%AC-%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E9%80%BE2100%E5%84%84",
-    "timestamp": "2026-08-31T10:22:02.160Z",
     "strategy": ".content-card__main"
   }
 ];
