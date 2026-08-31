@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T09:27:52.964Z
+// Last updated: 2026-08-31T09:46:04.492Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "20歲女極端節食驚患脂肪肝！早期無症狀　持續惡化恐致肝硬化肝癌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260827/1169686169512841216953140.jpeg/vIAA81w2dUa7GzpB9lf372bQlmDGq6XEBm5zrwZuc68?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60382198/20%E6%AD%B2%E5%A5%B3%E6%A5%B5%E7%AB%AF%E7%AF%80%E9%A3%9F%E9%A9%9A%E6%82%A3%E8%84%82%E8%82%AA%E8%82%9D-%E6%97%A9%E6%9C%9F%E7%84%A1%E7%97%87%E7%8B%80-%E6%8C%81%E7%BA%8C%E6%83%A1%E5%8C%96%E6%81%90%E8%87%B4%E8%82%9D%E7%A1%AC%E5%8C%96%E8%82%9D%E7%99%8C",
+    "timestamp": "2026-08-31T09:46:04.492Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜90後獨生女警失聯4天　父親崩潰：傷殘都好只要活著",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169942019825471488751628.png/HX-covbJ3tRvyeoWJWF7-Uk5CTSHYCl9R9fpTkfX6U4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60384450/%E9%9B%BB%E8%85%A6%E7%AF%80%E5%8C%96%E8%A7%A3%E6%BC%B2%E5%83%B9%E9%99%A3%E7%97%9B-%E6%86%91ai%E5%AF%A6%E8%B8%90%E8%88%87%E8%B7%A8%E7%95%8C%E9%AB%94%E9%A9%97%E9%87%8D%E5%A1%91%E9%9B%B6%E5%94%AE%E5%83%B9%E5%80%BC",
     "timestamp": "2026-08-31T00:53:23.614Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "地產歷經股調整　屬長線投資良機｜伍禮賢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170071864689561600126098.jpeg/lod5a70fit6cjz-TW0R13ECgrUt9lcNtQ-NcXEPjXFw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60384702/%E5%9C%B0%E7%94%A2%E6%AD%B7%E7%B6%93%E8%82%A1%E8%AA%BF%E6%95%B4-%E5%B1%AC%E9%95%B7%E7%B7%9A%E6%8A%95%E8%B3%87%E8%89%AF%E6%A9%9F-%E4%BC%8D%E7%A6%AE%E8%B3%A2",
-    "timestamp": "2026-08-30T23:41:06.396Z",
     "strategy": ".content-card__main"
   }
 ];
