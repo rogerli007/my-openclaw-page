@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T08:31:36.604Z
+// Last updated: 2026-08-31T08:52:21.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SHEIN上市丨暗盤早段瀉逾13% 　一手賬蝕656元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171134534951899136674285.jpeg/X_MfXQoGJIoqowifSnlLvkkGoPJe4azhUkfZslJH2bI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385369/shein%E4%B8%8A%E5%B8%82-%E6%9A%97%E7%9B%A4%E6%97%A9%E6%AE%B5%E7%80%89%E9%80%BE13-%E4%B8%80%E6%89%8B%E8%B3%AC%E8%9D%95656%E5%85%83",
+    "timestamp": "2026-08-31T08:52:21.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平與吉爾吉斯總統會談　簽署友好條約強調高質量建中吉烏鐵路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1170976447272062976617954.jpeg/iF1vOkxqJO3iCdF14udLYdrlt3i7oj9_dv749nb--PY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385138/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E5%8F%8A%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E9%A9%9F%E9%9B%A8%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A-%E6%9C%80%E9%AB%9831%E5%BA%A6",
     "timestamp": "2026-08-30T22:29:17.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新盤激發購買力　十大屋苑周末12宗成交　太古城連錄3宗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220724/628004039426052096356189.jpeg/z8P9Q9TTRi0jSLhuR1cNw65a7o2AMwx17Z-6Qu2fukI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385127/%E6%96%B0%E7%9B%A4%E6%BF%80%E7%99%BC%E8%B3%BC%E8%B2%B7%E5%8A%9B-%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB12%E5%AE%97%E6%88%90%E4%BA%A4-%E5%A4%AA%E5%8F%A4%E5%9F%8E%E9%80%A3%E9%8C%843%E5%AE%97",
-    "timestamp": "2026-08-30T22:18:25.039Z",
     "strategy": ".content-card__main"
   }
 ];
