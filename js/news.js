@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T09:55:04.282Z
+// Last updated: 2026-08-31T10:22:02.160Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宇樹科技上市9個交易日股價近乎「腰斬」　市值蒸發逾2100億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171142835596955648584763.jpeg/tInW09TduNC5-29D4WkDpL2uNXYf08gKngo3_Z4KN_0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385410/%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%829%E5%80%8B%E4%BA%A4%E6%98%93%E6%97%A5%E8%82%A1%E5%83%B9%E8%BF%91%E4%B9%8E-%E8%85%B0%E6%96%AC-%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E9%80%BE2100%E5%84%84",
+    "timestamp": "2026-08-31T10:22:02.160Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭富城演唱會2026深圳｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171036399323844608951426.jpeg/n6SjUwlNm_17afGJJrQ6x_ifK5dheJwnTAGn10wBp9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385181/%E5%91%A8%E6%9C%AB%E6%96%B0%E7%9B%A4%E4%BA%A4%E5%9B%9E%E8%90%BD%E8%87%B3188%E5%AE%97-%E5%8F%A1%E7%92%9Fi%E6%AC%A1%E8%BC%AA133%E4%BC%99%E6%B2%BD%E6%B8%85-%E7%B7%B9%E5%A4%965-8%E5%84%84%E6%B2%BD%E9%A0%82%E5%B1%A4%E6%88%B6",
     "timestamp": "2026-08-31T02:34:58.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美團績後高開逾2%　次季調整後淨利潤飆近七成｜港股異動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034850395295584256349857.jpeg/Ca84YFQne2I5f5PdODvoSkUHIQ63mKcHndkRXp3ZEV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385170/%E7%BE%8E%E5%9C%98%E7%B8%BE%E5%BE%8C%E9%AB%98%E9%96%8B%E9%80%BE2-%E6%AC%A1%E5%AD%A3%E8%AA%BF%E6%95%B4%E5%BE%8C%E6%B7%A8%E5%88%A9%E6%BD%A4%E9%A3%86%E8%BF%91%E4%B8%83%E6%88%90-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
-    "timestamp": "2026-08-31T01:34:53.483Z",
     "strategy": ".content-card__main"
   }
 ];
