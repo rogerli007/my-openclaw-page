@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T11:54:20.002Z
+// Last updated: 2026-09-01T12:29:17.246Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣超市28歲女遭偷拍裙底　警追查5日拘涉案48歲漢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171548892727087104623947.jpeg/zzQN3odggshfjFxxIm6bajVN2dUMaUa71g0SytYNEso?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385855/%E9%9D%92%E8%A1%A3%E8%B6%85%E5%B8%8228%E6%AD%B2%E5%A5%B3%E9%81%AD%E5%81%B7%E6%8B%8D%E8%A3%99%E5%BA%95-%E8%AD%A6%E8%BF%BD%E6%9F%A55%E6%97%A5%E6%8B%98%E6%B6%89%E6%A1%8848%E6%AD%B2%E6%BC%A2",
+    "timestamp": "2026-09-01T12:29:17.246Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "智神星一號運載火箭首飛成功　中國再有民企解鎖可複用火箭入軌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171434143892901888957280.jpeg/tizx3-WCbeiqMbjN2qQLKzMmzvBXQr0rtx5w87cecPM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385636/39%E6%AD%B2%E7%BE%8E%E6%96%AF%E6%84%88%E8%80%81%E6%84%88%E5%BC%B7-%E7%90%83%E6%9C%83%E8%88%87%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%94%9F%E6%B6%AF%E4%BA%94%E6%AC%A1%E9%80%B2%E5%8C%96-%E6%95%A3%E6%AD%A5%E5%B8%9D%E6%88%90%E7%B5%82%E6%A5%B5%E5%BD%A2%E6%85%8B",
     "timestamp": "2026-09-01T05:21:07.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "庫克卸任蘋果CEO　執掌15年打造4萬億美元帝國　擴張產品服務生態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123299912834879488463701.jpeg/QErasSrPGEhvhjl4wJBHCyXXDnFK0yXv7m6BhO5ugYQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385622/%E5%BA%AB%E5%85%8B%E5%8D%B8%E4%BB%BB%E8%98%8B%E6%9E%9Cceo-%E5%9F%B7%E6%8E%8C15%E5%B9%B4%E6%89%93%E9%80%A04%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%B8%9D%E5%9C%8B-%E6%93%B4%E5%BC%B5%E7%94%A2%E5%93%81%E6%9C%8D%E5%8B%99%E7%94%9F%E6%85%8B",
-    "timestamp": "2026-09-01T04:54:48.175Z",
     "strategy": ".content-card__main"
   }
 ];
