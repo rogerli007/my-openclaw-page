@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T19:40:50.545Z
+// Last updated: 2026-09-01T19:54:02.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗據指再攻擊美軍基地　稱美方行動令霍爾木茲海峽進一步封鎖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220717/625290084580593664582076.jpeg/sKBfNMoTTPAWOjErbcVtHgas7RjFhE0rpruOj6a7jo8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385917/%E4%BC%8A%E6%9C%97%E6%93%9A%E6%8C%87%E5%86%8D%E6%94%BB%E6%93%8A%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E7%A8%B1%E7%BE%8E%E6%96%B9%E8%A1%8C%E5%8B%95%E4%BB%A4%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%80%B2%E4%B8%80%E6%AD%A5%E5%B0%81%E9%8E%96",
+    "timestamp": "2026-09-01T19:54:02.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱新一輪打擊正當　伊朗若報復將被更猛烈攻勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171480598909292544190483.jpeg/Ih0Jv5HfMP73Zao3Ypar5xGjny_JMESaoPPhFKDz4RQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385726/%E6%99%BA%E7%A5%9E%E6%98%9F%E4%B8%80%E8%99%9F%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9B%E6%88%90%E5%8A%9F-%E4%B8%AD%E5%9C%8B%E5%86%8D%E6%9C%89%E6%B0%91%E4%BC%81%E8%A7%A3%E9%8E%96%E5%8F%AF%E8%A4%87%E7%94%A8%E7%81%AB%E7%AE%AD%E5%85%A5%E8%BB%8C",
     "timestamp": "2026-09-01T11:54:20.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡錫進批丟中國男人臉　孫宇晨發文回應遭批「扮高價婚禮受害者」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170145789062680576541803.jpeg/lxh6vbFqxDx4D-0krBd6rYnke8EjyjUaAKcSNwCnEjc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385843/%E8%83%A1%E9%8C%AB%E9%80%B2%E6%89%B9%E4%B8%9F%E4%B8%AD%E5%9C%8B%E7%94%B7%E4%BA%BA%E8%87%89-%E5%AD%AB%E5%AE%87%E6%99%A8%E7%99%BC%E6%96%87%E5%9B%9E%E6%87%89%E9%81%AD%E6%89%B9-%E6%89%AE%E9%AB%98%E5%83%B9%E5%A9%9A%E7%A6%AE%E5%8F%97%E5%AE%B3%E8%80%85",
-    "timestamp": "2026-09-01T11:30:55.548Z",
     "strategy": ".content-card__main"
   }
 ];
