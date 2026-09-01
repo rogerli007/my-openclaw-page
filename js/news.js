@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T21:18:17.154Z
+// Last updated: 2026-09-01T21:30:13.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-01T21:30:13.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171515059797495808417593.jpeg/XTZOSvcn7rEtzrO5-P8Xsnq6Ul5JJ6cLw7FRcMOxUXA",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60385750/%E6%99%AF%E7%94%9C%E6%8D%B2%E4%BB%A3%E5%AD%95%E6%81%90%E8%A2%AB%E5%B0%81%E6%AE%BA-%E6%8F%AD%E5%9C%B0%E4%B8%8B%E4%BB%A3%E5%AD%95%E9%BB%91%E7%94%A2-%E7%84%A1%E9%BA%BB%E9%86%89%E5%8F%96%E5%8D%B5%E6%9C%88%E5%81%9A150%E5%8F%B0%E6%89%8B%E8%A1%93",
     "timestamp": "2026-09-01T13:54:40.675Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬時亨撐「識人好過識字」　笑言與林超英少來往緣由　惹全場捧腹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171567626766258176527310.jpeg/MOyGUXeXOD61_eZY7Al4AF1WG2u1VkRmOm7-1Tpu_tU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385866/%E9%A6%AC%E6%99%82%E4%BA%A8%E6%92%90-%E8%AD%98%E4%BA%BA%E5%A5%BD%E9%81%8E%E8%AD%98%E5%AD%97-%E7%AC%91%E8%A8%80%E8%88%87%E6%9E%97%E8%B6%85%E8%8B%B1%E5%B0%91%E4%BE%86%E5%BE%80%E7%B7%A3%E7%94%B1-%E6%83%B9%E5%85%A8%E5%A0%B4%E6%8D%A7%E8%85%B9",
-    "timestamp": "2026-09-01T13:42:12.397Z",
     "strategy": ".content-card__main"
   }
 ];
