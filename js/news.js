@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T13:20:41.285Z
+// Last updated: 2026-09-01T13:42:12.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬時亨撐「識人好過識字」　笑言與林超英少來往緣由　惹全場捧腹",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171567626766258176527310.jpeg/MOyGUXeXOD61_eZY7Al4AF1WG2u1VkRmOm7-1Tpu_tU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385866/%E9%A6%AC%E6%99%82%E4%BA%A8%E6%92%90-%E8%AD%98%E4%BA%BA%E5%A5%BD%E9%81%8E%E8%AD%98%E5%AD%97-%E7%AC%91%E8%A8%80%E8%88%87%E6%9E%97%E8%B6%85%E8%8B%B1%E5%B0%91%E4%BE%86%E5%BE%80%E7%B7%A3%E7%94%B1-%E6%83%B9%E5%85%A8%E5%A0%B4%E6%8D%A7%E8%85%B9",
+    "timestamp": "2026-09-01T13:42:12.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "火炭麗峰花園71歲婦游泳遇溺亡　消息：為全球知名社交媒體高層",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220902/642335898184192000908546.jpeg/o7ecmntY1zbqabWao2llzfROP7tsEockkjzBkZI8wZE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60385547/%E5%B0%8F%E5%AD%B8%E7%B8%AE%E7%8F%AD-%E6%96%B0%E5%AD%B8%E5%B9%B4%E5%85%A8%E6%B8%AF%E6%B8%9B143%E7%8F%AD%E5%B0%8F%E4%B8%80%E6%AF%9425%E5%AD%B8%E5%B9%B4%E5%A4%9A%E9%80%BE%E5%80%8D-61%E6%A0%A1%E5%83%85%E9%96%8B1%E7%8F%AD",
     "timestamp": "2026-09-01T06:33:55.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國情報機構：美朝對話現積極信號　兩國峰會或隨時舉行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056319485939552256207834.jpeg/XpTFGj9EMqr-7GPLMkMU13R7UjDI0hunJxYnLicWJy4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385668/%E9%9F%93%E5%9C%8B%E6%83%85%E5%A0%B1%E6%A9%9F%E6%A7%8B-%E7%BE%8E%E6%9C%9D%E5%B0%8D%E8%A9%B1%E7%8F%BE%E7%A9%8D%E6%A5%B5%E4%BF%A1%E8%99%9F-%E5%85%A9%E5%9C%8B%E5%B3%B0%E6%9C%83%E6%88%96%E9%9A%A8%E6%99%82%E8%88%89%E8%A1%8C",
-    "timestamp": "2026-09-01T05:53:32.120Z",
     "strategy": ".content-card__main"
   }
 ];
