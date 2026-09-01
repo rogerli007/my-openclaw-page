@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T22:19:02.430Z
+// Last updated: 2026-09-01T22:29:22.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京否認無人機襲萊比錫機場　北約及歐洲多國聲援德國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171702336628723712521034.jpeg/C30g72-47zTO-hS_9wXpK1b9JXdD1Z7fV-7tnVfu7Z0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385926/%E6%99%AE%E4%BA%AC%E5%90%A6%E8%AA%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E8%90%8A%E6%AF%94%E9%8C%AB%E6%A9%9F%E5%A0%B4-%E5%8C%97%E7%B4%84%E5%8F%8A%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E8%81%B2%E6%8F%B4%E5%BE%B7%E5%9C%8B",
+    "timestamp": "2026-09-01T22:29:22.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙德爾風球｜一號風球生效　今日有幾陣狂風驟雨　日間最高約30度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171588635972079616156293.jpeg/VkD1_iEMAIW8i-EdMDmheAzLQnWSqOgZJbjYlCW42JQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385892/%E9%8A%80%E6%B2%B3%E9%80%9A%E7%94%A8%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%9B%B6%E5%94%AE%E5%BA%97%E9%96%8B%E6%A5%AD-%E8%A8%98%E8%80%85%E5%AF%A6%E6%B8%AC%E8%B2%B7%E6%B0%B4%E9%9C%80%E6%99%822%E5%88%8616%E7%A7%92-%E6%9C%83%E7%AD%94%E6%B3%95%E8%AA%9E",
     "timestamp": "2026-09-01T15:24:55.278Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科技園公司慶祝邁向25周年　帶領香港創科進入新篇章",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171513891306344448271506.jpeg/0-Ojo48kH7iSB6IChcCE6CM_7ObHcMdhT7brb0-2628?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BC%81%E6%A5%AD%E5%89%B5%E6%96%B0/60385803/%E7%A7%91%E6%8A%80%E5%9C%92%E5%85%AC%E5%8F%B8%E6%85%B6%E7%A5%9D%E9%82%81%E5%90%9125%E5%91%A8%E5%B9%B4-%E5%B8%B6%E9%A0%98%E9%A6%99%E6%B8%AF%E5%89%B5%E7%A7%91%E9%80%B2%E5%85%A5%E6%96%B0%E7%AF%87%E7%AB%A0",
-    "timestamp": "2026-09-01T14:56:48.288Z",
     "strategy": ".content-card__main"
   }
 ];
