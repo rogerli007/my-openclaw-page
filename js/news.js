@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T22:54:18.966Z
+// Last updated: 2026-09-01T23:17:39.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8月車企成績單出爐！　零跑「一騎絕塵」　極氪再創新高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251105/1062813404432961536584027.jpeg/aZjNcsdCmwL8NhKQKCkFTQvfpdQQEMSQVCmFKlQphSo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385933/8%E6%9C%88%E8%BB%8A%E4%BC%81%E6%88%90%E7%B8%BE%E5%96%AE%E5%87%BA%E7%88%90-%E9%9B%B6%E8%B7%91-%E4%B8%80%E9%A8%8E%E7%B5%95%E5%A1%B5-%E6%A5%B5%E6%B0%AA%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98",
+    "timestamp": "2026-09-01T23:17:39.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港姐冠軍與富商15歲仔遺傳強大美貌　身高直迫米九勁大隻：帥很多",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171625274207375360702138.jpeg/Xhf7IXBLN-t2mTLi3kmId3tS-G1nQkduap06vVCdOr0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385903/%E6%B5%B7%E9%97%9C%E5%A4%9A%E8%99%95%E6%90%97%E7%A0%B44%E5%80%8B%E7%A7%81%E7%85%99%E5%80%89-%E6%AA%A2-2000%E8%90%AC%E8%B2%A8%E5%92%8C%E5%AE%A3%E5%82%B3%E5%96%AE%E5%BC%B5-%E6%8B%98%E6%8D%954%E5%90%8D%E7%84%A1%E6%A5%AD%E7%94%B7",
     "timestamp": "2026-09-01T17:18:11.620Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Dyson二合一電動牙刷CameraJet｜水牙線+牙刷+微鏡頭精準噴洗牙縫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171613080220602368967280.jpeg/doX8nx-yVkSS9eLXHpPvDW7GRMiIyekWICUSyyAlEss?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60385847/dyson%E4%BA%8C%E5%90%88%E4%B8%80%E9%9B%BB%E5%8B%95%E7%89%99%E5%88%B7camerajet-%E6%B0%B4%E7%89%99%E7%B7%9A-%E7%89%99%E5%88%B7-%E5%BE%AE%E9%8F%A1%E9%A0%AD%E7%B2%BE%E6%BA%96%E5%99%B4%E6%B4%97%E7%89%99%E7%B8%AB",
-    "timestamp": "2026-09-01T16:41:39.940Z",
     "strategy": ".content-card__main"
   }
 ];
