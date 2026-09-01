@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T09:54:22.312Z
+// Last updated: 2026-09-01T10:21:42.254Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "29歲中國籍女子日本鹿兒島行山　停車場附近迷路後失聯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171520794409308160568213.jpeg/8cLWkcrt3wE53Rr9gomSrJGFc-Wso8FFT5OG6U-Thuk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385812/29%E6%AD%B2%E4%B8%AD%E5%9C%8B%E7%B1%8D%E5%A5%B3%E5%AD%90%E6%97%A5%E6%9C%AC%E9%B9%BF%E5%85%92%E5%B3%B6%E8%A1%8C%E5%B1%B1-%E5%81%9C%E8%BB%8A%E5%A0%B4%E9%99%84%E8%BF%91%E8%BF%B7%E8%B7%AF%E5%BE%8C%E5%A4%B1%E8%81%AF",
+    "timestamp": "2026-09-01T10:21:42.254Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Meta收購叫停風波後　內地AI初創Manus正式恢復獨立營運",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123308254554755072189345.jpeg/i06126zQHtswDRnv6JBEqNHZkZSHE5F5NW6sozVurKM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385562/%E5%BA%AB%E5%85%8B%E5%8D%B8%E4%BB%BB%E8%98%8B%E6%9E%9Cceo-%E5%91%8A%E5%88%A5%E4%BF%A1%E8%87%B4%E6%95%AC%E5%96%AC%E5%B8%83%E6%96%AF",
     "timestamp": "2026-09-01T02:40:46.523Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Anthropic與英偉達陣營成員Lambda　達350億美元算力合作協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112363836024819712159743.jpeg/BGp6CnogZA8T380_LwEHIzEY1b-QpTibNhj-WjYY_lo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385532/anthropic%E8%88%87%E8%8B%B1%E5%81%89%E9%81%94%E9%99%A3%E7%87%9F%E6%88%90%E5%93%A1lambda-%E9%81%94350%E5%84%84%E7%BE%8E%E5%85%83%E7%AE%97%E5%8A%9B%E5%90%88%E4%BD%9C%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-09-01T02:05:12.619Z",
     "strategy": ".content-card__main"
   }
 ];
