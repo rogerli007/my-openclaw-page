@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T20:41:49.439Z
+// Last updated: 2026-09-01T20:55:26.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "避免政府停擺　臨時開支法案獲美國眾議院通過　已送交特朗普簽署",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240324/848399188285722624639125.jpeg/LZSP8McQQZhINVzM72iLRVwItXJ15ZiXLo6GjS6Oho0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385920/%E9%81%BF%E5%85%8D%E6%94%BF%E5%BA%9C%E5%81%9C%E6%93%BA-%E8%87%A8%E6%99%82%E9%96%8B%E6%94%AF%E6%B3%95%E6%A1%88%E7%8D%B2%E7%BE%8E%E5%9C%8B%E7%9C%BE%E8%AD%B0%E9%99%A2%E9%80%9A%E9%81%8E-%E5%B7%B2%E9%80%81%E4%BA%A4%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E7%BD%B2",
+    "timestamp": "2026-09-01T20:55:26.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔住宅單位變地下竹館　32人被捕年紀最大91歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171516966821695488018265.jpeg/L6stQycpgcxGOUCB-St9KnymozHRXvuC3qxIa96sSGs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385813/%E7%81%AB%E7%82%AD%E9%BA%97%E5%B3%B0%E8%8A%B1%E5%9C%9271%E6%AD%B2%E5%A9%A6%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA%E4%BA%A1-%E6%B6%88%E6%81%AF-%E7%82%BA%E5%85%A8%E7%90%83%E7%9F%A5%E5%90%8D%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E9%AB%98%E5%B1%A4",
     "timestamp": "2026-09-01T13:20:41.285Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺女被狗咬　不滿查半年證據不足　漁護：檢控前須客觀評估證據",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170853310777790464185490.jpeg/24oZ5Nz_JIn3Rs-RlOSxhMH9HDMzTPhF11CsXddQrF0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384379/%E7%B2%89%E5%B6%BA%E5%A5%B3%E8%A2%AB%E7%8B%97%E5%92%AC-%E4%B8%8D%E6%BB%BF%E6%9F%A5%E5%8D%8A%E5%B9%B4%E8%AD%89%E6%93%9A%E4%B8%8D%E8%B6%B3-%E6%BC%81%E8%AD%B7-%E6%AA%A2%E6%8E%A7%E5%89%8D%E9%A0%88%E5%AE%A2%E8%A7%80%E8%A9%95%E4%BC%B0%E8%AD%89%E6%93%9A",
-    "timestamp": "2026-09-01T12:50:23.369Z",
     "strategy": ".content-card__main"
   }
 ];
