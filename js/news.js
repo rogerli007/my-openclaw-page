@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T04:45:42.999Z
+// Last updated: 2026-09-01T04:54:48.175Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "庫克卸任蘋果CEO　執掌15年打造4萬億美元帝國　擴張產品服務生態",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123299912834879488463701.jpeg/QErasSrPGEhvhjl4wJBHCyXXDnFK0yXv7m6BhO5ugYQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385622/%E5%BA%AB%E5%85%8B%E5%8D%B8%E4%BB%BB%E8%98%8B%E6%9E%9Cceo-%E5%9F%B7%E6%8E%8C15%E5%B9%B4%E6%89%93%E9%80%A04%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%B8%9D%E5%9C%8B-%E6%93%B4%E5%BC%B5%E7%94%A2%E5%93%81%E6%9C%8D%E5%8B%99%E7%94%9F%E6%85%8B",
+    "timestamp": "2026-09-01T04:54:48.175Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秋葵保存｜保鮮2貼士冷藏前多1步可放1個月！4招揀鮮嫩秋葵挑深色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385506/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%9A%E8%A8%80%E5%B0%87%E9%87%8D%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%8F%8D%E6%93%8A%E7%BE%8E%E8%BB%8D%E9%A7%90%E7%B4%84%E6%97%A6%E5%9F%BA%E5%9C%B0%E5%8F%97%E8%A5%B2",
     "timestamp": "2026-08-31T20:41:40.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普揚言將重擊伊朗　反擊美軍駐約旦基地受襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385506/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%9A%E8%A8%80%E5%B0%87%E9%87%8D%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%8F%8D%E6%93%8A%E7%BE%8E%E8%BB%8D%E9%A7%90%E7%B4%84%E6%97%A6%E5%9F%BA%E5%9C%B0%E5%8F%97%E8%A5%B2",
-    "timestamp": "2026-08-31T20:22:14.525Z",
     "strategy": ".content-card__main"
   }
 ];
