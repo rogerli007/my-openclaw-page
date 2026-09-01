@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T21:41:27.060Z
+// Last updated: 2026-09-01T21:54:04.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-01T21:54:04.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171577702587568128610374.png/TZpFdGBD86NvPfPEHiwxtbTo7FDy0Q0PVx0B7FcdAew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385874/%E6%99%AE%E4%BA%AC%E6%99%A4%E4%BD%A9%E6%BE%A4%E5%B8%8C%E9%BD%8A%E6%8F%9A-%E7%A8%B1%E4%BF%84%E8%88%87%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E7%AB%99%E4%B8%80%E8%B5%B7-%E4%BC%8A%E6%96%B9%E5%80%A1%E6%8A%B5%E5%88%B6%E7%BE%8E%E5%96%AE%E9%82%8A%E4%B8%BB%E7%BE%A9",
     "timestamp": "2026-09-01T14:43:39.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱千雪陀B七個月瞞老公穿高跟鞋　過來人鼓勵李澤欣：季軍好嘢嚟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171532949225476096095371.jpeg/drbcPtbX6rtf2ax8193LHdGq8oz_CkakD4wtwjWMLcI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385730/%E6%9C%B1%E5%8D%83%E9%9B%AA%E9%99%80b%E4%B8%83%E5%80%8B%E6%9C%88%E7%9E%9E%E8%80%81%E5%85%AC%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B-%E9%81%8E%E4%BE%86%E4%BA%BA%E9%BC%93%E5%8B%B5%E6%9D%8E%E6%BE%A4%E6%AC%A3-%E5%AD%A3%E8%BB%8D%E5%A5%BD%E5%98%A2%E5%9A%9F",
-    "timestamp": "2026-09-01T14:21:22.584Z",
     "strategy": ".content-card__main"
   }
 ];
