@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T01:39:08.128Z
+// Last updated: 2026-09-01T02:05:12.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Anthropic與英偉達陣營成員Lambda　達350億美元算力合作協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112363836024819712159743.jpeg/BGp6CnogZA8T380_LwEHIzEY1b-QpTibNhj-WjYY_lo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385532/anthropic%E8%88%87%E8%8B%B1%E5%81%89%E9%81%94%E9%99%A3%E7%87%9F%E6%88%90%E5%93%A1lambda-%E9%81%94350%E5%84%84%E7%BE%8E%E5%85%83%E7%AE%97%E5%8A%9B%E5%90%88%E4%BD%9C%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-09-01T02:05:12.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LE SSERAFIM十一月首度登陸澳門一連兩場　勢掀全球FEARNOT搶飛潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
     "timestamp": "2026-08-31T19:20:48.566Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
-    "timestamp": "2026-08-31T18:53:43.588Z",
     "strategy": ".content-card__main"
   }
 ];
