@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-08-31T23:53:29.840Z
+// Last updated: 2026-09-01T00:57:34.922Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "開學日｜大角咀詩歌舞街中學男生落私家車返學　遭車轆壓腳掌受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171373377768656896586372.jpeg/TRcykOXe-C9SQIytHEnmrYADNE633jq5GXoJ5Rl6CeU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385519/%E9%96%8B%E5%AD%B8%E6%97%A5-%E5%A4%A7%E8%A7%92%E5%92%80%E8%A9%A9%E6%AD%8C%E8%88%9E%E8%A1%97%E4%B8%AD%E5%AD%B8%E7%94%B7%E7%94%9F%E8%90%BD%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BF%94%E5%AD%B8-%E9%81%AD%E8%BB%8A%E8%BD%86%E5%A3%93%E8%85%B3%E6%8E%8C%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-09-01T00:57:34.922Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "投行觀點｜里昂︰內地現房銷售改革將重塑市場　料明年樓價回升5%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
     "timestamp": "2026-08-31T18:44:42.774Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "呈祥道私家車疑自炒鏟草叢　司機不顧而去　警到場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171277617211379712450286.jpeg/hmP13xAAbH_KsquuSNswEpqbh_dPrLzp3cJHVffCR1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385500/%E5%91%88%E7%A5%A5%E9%81%93%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%87%AA%E7%82%92%E9%8F%9F%E8%8D%89%E5%8F%A2-%E5%8F%B8%E6%A9%9F%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-08-31T18:25:16.900Z",
     "strategy": ".content-card__main"
   }
 ];
