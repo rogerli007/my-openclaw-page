@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T10:21:42.254Z
+// Last updated: 2026-09-01T10:43:36.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩15歲男童｢P圖改身分證｣　紋青龍白虎大花臂無法入學　家長索償",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171511368298270720853742.jpeg/YPOz20hTrxJUJXMA8Uw1eOta1gd8vJKxgZ829oGfNvY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60385787/%E5%85%A915%E6%AD%B2%E7%94%B7%E7%AB%A5-p%E5%9C%96%E6%94%B9%E8%BA%AB%E5%88%86%E8%AD%89-%E7%B4%8B%E9%9D%92%E9%BE%8D%E7%99%BD%E8%99%8E%E5%A4%A7%E8%8A%B1%E8%87%82%E7%84%A1%E6%B3%95%E5%85%A5%E5%AD%B8-%E5%AE%B6%E9%95%B7%E7%B4%A2%E5%84%9F",
+    "timestamp": "2026-09-01T10:43:36.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "29歲中國籍女子日本鹿兒島行山　停車場附近迷路後失聯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170379983911129088708351.jpeg/hPNYkXQcRFaRR2lZUpYIfhJ7M1Tqyivu8_pYt_P6WLc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385571/%E6%9E%97%E6%99%BA%E9%81%A0%E7%A8%B1%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%A7%94%E5%93%A1%E6%9C%83%E5%A0%B1%E5%91%8A%E4%B8%80%E5%87%BA%E6%9C%83%E5%8D%B3%E5%88%86%E6%9E%90-%E5%A6%82%E6%9C%89%E9%9C%80%E8%A6%81%E5%B0%87%E7%B4%8D%E5%85%A5%E5%AF%A9%E8%A8%88",
     "timestamp": "2026-09-01T02:56:31.386Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "庫克卸任蘋果CEO　告別信致敬喬布斯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123308254554755072189345.jpeg/i06126zQHtswDRnv6JBEqNHZkZSHE5F5NW6sozVurKM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385562/%E5%BA%AB%E5%85%8B%E5%8D%B8%E4%BB%BB%E8%98%8B%E6%9E%9Cceo-%E5%91%8A%E5%88%A5%E4%BF%A1%E8%87%B4%E6%95%AC%E5%96%AC%E5%B8%83%E6%96%AF",
-    "timestamp": "2026-09-01T02:40:46.523Z",
     "strategy": ".content-card__main"
   }
 ];
