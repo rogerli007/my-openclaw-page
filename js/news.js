@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T16:41:39.940Z
+// Last updated: 2026-09-01T17:18:11.620Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關多處搗破4個私煙倉　檢$2000萬貨和宣傳單張　拘捕4名無業男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171625274207375360702138.jpeg/Xhf7IXBLN-t2mTLi3kmId3tS-G1nQkduap06vVCdOr0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385903/%E6%B5%B7%E9%97%9C%E5%A4%9A%E8%99%95%E6%90%97%E7%A0%B44%E5%80%8B%E7%A7%81%E7%85%99%E5%80%89-%E6%AA%A2-2000%E8%90%AC%E8%B2%A8%E5%92%8C%E5%AE%A3%E5%82%B3%E5%96%AE%E5%BC%B5-%E6%8B%98%E6%8D%954%E5%90%8D%E7%84%A1%E6%A5%AD%E7%94%B7",
+    "timestamp": "2026-09-01T17:18:11.620Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Dyson二合一電動牙刷CameraJet｜水牙線+牙刷+微鏡頭精準噴洗牙縫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171507556212805632175326.jpeg/EGp7Ct3gfWqg9flwQdDERx31tEYr2q-X2zMR_dszEf0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385747/%E7%B4%85%E7%A3%A1midtown-south%E5%85%AD%E6%9C%9F%E5%91%BD%E5%90%8D-%E6%98%A0%E5%8C%AF-%E5%85%A8%E7%9B%A4263%E4%BC%99-%E6%9C%80%E5%BF%AB%E5%85%A9%E6%97%A5%E5%85%A7%E9%96%8B%E5%83%B9",
     "timestamp": "2026-09-01T09:24:44.026Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "開學｜深圳校服款式全市統一　超市文具店均有售　網民籲全國推廣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171499489408585728543209.jpeg/PE5HswbHA0TtF1HWDAaVIt22A4tmIn3npjJq7KYyauw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60385760/%E9%96%8B%E5%AD%B8-%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D%E6%AC%BE%E5%BC%8F%E5%85%A8%E5%B8%82%E7%B5%B1%E4%B8%80-%E8%B6%85%E5%B8%82%E6%96%87%E5%85%B7%E5%BA%97%E5%9D%87%E6%9C%89%E5%94%AE-%E7%B6%B2%E6%B0%91%E7%B1%B2%E5%85%A8%E5%9C%8B%E6%8E%A8%E5%BB%A3",
-    "timestamp": "2026-09-01T08:57:53.002Z",
     "strategy": ".content-card__main"
   }
 ];
