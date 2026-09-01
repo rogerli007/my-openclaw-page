@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T09:24:44.026Z
+// Last updated: 2026-09-01T09:44:34.084Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺公路七人車疑行錯路突切影子線　泥頭車收掣不及猛撞釀2傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171510435782856704902358.jpeg/Nm03h0adhpne0lFhhT8N_0GWP_Hr6h3-lAPAl5QDwJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385797/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E4%B8%83%E4%BA%BA%E8%BB%8A%E7%96%91%E8%A1%8C%E9%8C%AF%E8%B7%AF%E7%AA%81%E5%88%87%E5%BD%B1%E5%AD%90%E7%B7%9A-%E6%B3%A5%E9%A0%AD%E8%BB%8A%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E7%8C%9B%E6%92%9E%E9%87%802%E5%82%B7",
+    "timestamp": "2026-09-01T09:44:34.084Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡MIDTOWN SOUTH六期命名「映匯」　全盤263伙、最快兩日內開價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171220707594473472915240.jpeg/hm9gD57KxIyfrTuCwfq4SUxk3MLWnPywDToCEg06AhI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385471/le-sserafim%E5%8D%81%E4%B8%80%E6%9C%88%E9%A6%96%E5%BA%A6%E7%99%BB%E9%99%B8%E6%BE%B3%E9%96%80%E4%B8%80%E9%80%A3%E5%85%A9%E5%A0%B4-%E5%8B%A2%E6%8E%80%E5%85%A8%E7%90%83fearnot%E6%90%B6%E9%A3%9B%E6%BD%AE",
     "timestamp": "2026-09-01T01:39:08.128Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "開學日｜大角咀詩歌舞街中學男生落私家車返學　遭車轆壓腳掌受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171373377768656896586372.jpeg/TRcykOXe-C9SQIytHEnmrYADNE633jq5GXoJ5Rl6CeU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385519/%E9%96%8B%E5%AD%B8%E6%97%A5-%E5%A4%A7%E8%A7%92%E5%92%80%E8%A9%A9%E6%AD%8C%E8%88%9E%E8%A1%97%E4%B8%AD%E5%AD%B8%E7%94%B7%E7%94%9F%E8%90%BD%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BF%94%E5%AD%B8-%E9%81%AD%E8%BB%8A%E8%BD%86%E5%A3%93%E8%85%B3%E6%8E%8C%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-09-01T00:57:34.922Z",
     "strategy": ".content-card__main"
   }
 ];
