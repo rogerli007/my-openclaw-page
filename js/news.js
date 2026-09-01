@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T08:28:28.444Z
+// Last updated: 2026-09-01T08:48:08.996Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳自瑤自爆生日王浩信有表示　談教女兒識異性防渣男：觀念要正確",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171479745007718400375960.jpeg/nxk2GPYD2g5IPsCRv3fgOd5NB-mYPmJ5wctaovvLWqI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385682/%E9%99%B3%E8%87%AA%E7%91%A4%E8%87%AA%E7%88%86%E7%94%9F%E6%97%A5%E7%8E%8B%E6%B5%A9%E4%BF%A1%E6%9C%89%E8%A1%A8%E7%A4%BA-%E8%AB%87%E6%95%99%E5%A5%B3%E5%85%92%E8%AD%98%E7%95%B0%E6%80%A7%E9%98%B2%E6%B8%A3%E7%94%B7-%E8%A7%80%E5%BF%B5%E8%A6%81%E6%AD%A3%E7%A2%BA",
+    "timestamp": "2026-09-01T08:48:08.996Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "強積金總資產逾1.5萬億　積金局為逾9萬名僱員追討1.77億拖欠供款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168601128141590528306175.jpeg/Xn_zn2mGvuROfn-pLSPWsCtmtKgIwyL8olZ4pKJWeKQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60380087/%E7%9A%AE%E8%86%9A%E7%99%8C%E7%97%87%E6%9C%AB%E6%9C%9F%E6%93%B4%E6%95%A3%E5%85%A8%E8%BA%AB-%E6%BE%B3%E6%B4%B2%E5%85%AD%E6%97%AC%E8%BE%B2%E5%A4%AB%E5%81%9A%E5%BF%83%E8%87%9F%E6%89%8B%E8%A1%93-%E8%85%AB%E7%98%A4%E5%A5%87%E8%B9%9F%E5%85%A8%E6%B6%88%E9%80%80",
     "timestamp": "2026-08-31T23:43:29.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "皮膚癌症末期擴散全身！澳洲六旬農夫做心臟手術　腫瘤奇蹟全消退",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168601128141590528306175.jpeg/Xn_zn2mGvuROfn-pLSPWsCtmtKgIwyL8olZ4pKJWeKQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60380087/%E7%9A%AE%E8%86%9A%E7%99%8C%E7%97%87%E6%9C%AB%E6%9C%9F%E6%93%B4%E6%95%A3%E5%85%A8%E8%BA%AB-%E6%BE%B3%E6%B4%B2%E5%85%AD%E6%97%AC%E8%BE%B2%E5%A4%AB%E5%81%9A%E5%BF%83%E8%87%9F%E6%89%8B%E8%A1%93-%E8%85%AB%E7%98%A4%E5%A5%87%E8%B9%9F%E5%85%A8%E6%B6%88%E9%80%80",
-    "timestamp": "2026-08-31T23:29:21.099Z",
     "strategy": ".content-card__main"
   }
 ];
