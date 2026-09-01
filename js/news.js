@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T21:54:04.724Z
+// Last updated: 2026-09-01T22:19:02.430Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙德爾風球｜一號風球生效　今日有幾陣狂風驟雨　日間最高約30度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171699288926195712630519.jpeg/u00H6xCTjOp8wZTB0jtmrxF3Ux1vqjPHJJVVUySVVVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385908/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E7%94%9F%E6%95%88-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6",
+    "timestamp": "2026-09-01T22:19:02.430Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171513891306344448271506.jpeg/0-Ojo48kH7iSB6IChcCE6CM_7ObHcMdhT7brb0-2628?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BC%81%E6%A5%AD%E5%89%B5%E6%96%B0/60385803/%E7%A7%91%E6%8A%80%E5%9C%92%E5%85%AC%E5%8F%B8%E6%85%B6%E7%A5%9D%E9%82%81%E5%90%9125%E5%91%A8%E5%B9%B4-%E5%B8%B6%E9%A0%98%E9%A6%99%E6%B8%AF%E5%89%B5%E7%A7%91%E9%80%B2%E5%85%A5%E6%96%B0%E7%AF%87%E7%AB%A0",
     "timestamp": "2026-09-01T14:56:48.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京晤佩澤希齊揚　稱俄與伊朗人民站一起　伊方倡抵制美單邊主義",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171577702587568128610374.png/TZpFdGBD86NvPfPEHiwxtbTo7FDy0Q0PVx0B7FcdAew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385874/%E6%99%AE%E4%BA%AC%E6%99%A4%E4%BD%A9%E6%BE%A4%E5%B8%8C%E9%BD%8A%E6%8F%9A-%E7%A8%B1%E4%BF%84%E8%88%87%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E7%AB%99%E4%B8%80%E8%B5%B7-%E4%BC%8A%E6%96%B9%E5%80%A1%E6%8A%B5%E5%88%B6%E7%BE%8E%E5%96%AE%E9%82%8A%E4%B8%BB%E7%BE%A9",
-    "timestamp": "2026-09-01T14:43:39.147Z",
     "strategy": ".content-card__main"
   }
 ];
