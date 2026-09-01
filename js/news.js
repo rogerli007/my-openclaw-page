@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T13:42:12.397Z
+// Last updated: 2026-09-01T13:54:40.675Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "景甜捲代孕恐被封殺？揭地下代孕黑產　無麻醉取卵月做150台手術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171515059797495808417593.jpeg/XTZOSvcn7rEtzrO5-P8Xsnq6Ul5JJ6cLw7FRcMOxUXA",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60385750/%E6%99%AF%E7%94%9C%E6%8D%B2%E4%BB%A3%E5%AD%95%E6%81%90%E8%A2%AB%E5%B0%81%E6%AE%BA-%E6%8F%AD%E5%9C%B0%E4%B8%8B%E4%BB%A3%E5%AD%95%E9%BB%91%E7%94%A2-%E7%84%A1%E9%BA%BB%E9%86%89%E5%8F%96%E5%8D%B5%E6%9C%88%E5%81%9A150%E5%8F%B0%E6%89%8B%E8%A1%93",
+    "timestamp": "2026-09-01T13:54:40.675Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬時亨撐「識人好過識字」　笑言與林超英少來往緣由　惹全場捧腹",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113126671843594240861253.jpeg/TKzf9DaPwgSL1GfEfIKgJ5BVf2gGIsLqJEqKWyRKils?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385690/%E7%BE%8E%E8%81%AF%E5%84%B2%E8%AD%B0%E6%81%AF%E5%89%8D%E5%A4%95-%E5%85%A8%E7%90%83%E5%82%B5%E6%81%AF%E5%8D%87%E8%87%B32008%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98-%E5%B8%82%E5%A0%B4%E5%B0%8D%E5%8A%A0%E6%81%AF%E9%A0%90%E6%9C%9F%E5%8D%87%E6%BA%AB",
     "timestamp": "2026-09-01T06:57:30.655Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小學縮班｜新學年全港減143班小一比25學年多逾倍　61校僅開1班",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220902/642335898184192000908546.jpeg/o7ecmntY1zbqabWao2llzfROP7tsEockkjzBkZI8wZE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60385547/%E5%B0%8F%E5%AD%B8%E7%B8%AE%E7%8F%AD-%E6%96%B0%E5%AD%B8%E5%B9%B4%E5%85%A8%E6%B8%AF%E6%B8%9B143%E7%8F%AD%E5%B0%8F%E4%B8%80%E6%AF%9425%E5%AD%B8%E5%B9%B4%E5%A4%9A%E9%80%BE%E5%80%8D-61%E6%A0%A1%E5%83%85%E9%96%8B1%E7%8F%AD",
-    "timestamp": "2026-09-01T06:33:55.829Z",
     "strategy": ".content-card__main"
   }
 ];
