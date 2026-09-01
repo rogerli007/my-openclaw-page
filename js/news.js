@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T07:44:45.307Z
+// Last updated: 2026-09-01T07:53:53.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國叫停Meta收購案後　Manus恢復獨立運營　原創始團隊繼續掌舵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1086044834252197888406527.jpeg/uQLeIF1KS8-gBqsOvIgyjbt72DLG0zheDTs71Q07O9U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385733/%E4%B8%AD%E5%9C%8B%E5%8F%AB%E5%81%9Cmeta%E6%94%B6%E8%B3%BC%E6%A1%88%E5%BE%8C-manus%E6%81%A2%E5%BE%A9%E7%8D%A8%E7%AB%8B%E9%81%8B%E7%87%9F-%E5%8E%9F%E5%89%B5%E5%A7%8B%E5%9C%98%E9%9A%8A%E7%B9%BC%E7%BA%8C%E6%8E%8C%E8%88%B5",
+    "timestamp": "2026-09-01T07:53:53.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運｜滑板小將初戰亞運　12歲黃若澄體驗不一樣開學日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170786579300487168308672.png/Rxj6B_I8VFn4ZJt8nBTHi7nuzAjaY4rn_D-sfPw_rHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60383924/%E5%8F%B0%E7%94%B7%E7%94%A8%E6%8E%83%E5%9C%B0%E6%A9%9F%E6%A2%B0%E4%BA%BA%E6%8D%89%E5%A7%A6-%E5%81%B7%E6%8B%8D%E5%A6%BB%E5%85%A8%E8%A3%B8%E5%81%B7%E9%A3%9F%E7%8D%B2%E8%B3%A0-12%E8%90%AC-1%E5%8E%9F%E5%9B%A0%E5%8F%8D%E9%81%AD%E5%88%A4%E5%9B%9A",
     "timestamp": "2026-08-31T23:18:15.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "影壇大哥患肺癌腦癌曾中風　太太生日贈巨型壽桃連咀兩啖感謝照顧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171140576146362368097263.jpeg/VjUxD86TrzeSYpECE_0XInJS2k69oSdadaJzdnWic3Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385348/%E9%99%B3%E6%83%A0%E6%95%8F%E6%82%A3%E8%82%BA%E7%99%8C%E8%85%A6%E7%99%8C%E6%9B%BE%E4%B8%AD%E9%A2%A8-%E8%80%81%E4%BC%B4%E7%94%9F%E6%97%A5%E8%B4%88%E5%B7%A8%E5%9E%8B%E5%A3%BD%E5%8C%85%E9%80%A3%E5%92%80%E5%85%A9%E5%95%96%E6%84%9F%E8%AC%9D%E7%85%A7%E9%A1%A7",
-    "timestamp": "2026-08-31T22:53:43.509Z",
     "strategy": ".content-card__main"
   }
 ];
