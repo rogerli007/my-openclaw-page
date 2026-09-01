@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T08:48:08.996Z
+// Last updated: 2026-09-01T08:57:53.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "開學｜深圳校服款式全市統一　超市文具店均有售　網民籲全國推廣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171499489408585728543209.jpeg/PE5HswbHA0TtF1HWDAaVIt22A4tmIn3npjJq7KYyauw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60385760/%E9%96%8B%E5%AD%B8-%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D%E6%AC%BE%E5%BC%8F%E5%85%A8%E5%B8%82%E7%B5%B1%E4%B8%80-%E8%B6%85%E5%B8%82%E6%96%87%E5%85%B7%E5%BA%97%E5%9D%87%E6%9C%89%E5%94%AE-%E7%B6%B2%E6%B0%91%E7%B1%B2%E5%85%A8%E5%9C%8B%E6%8E%A8%E5%BB%A3",
+    "timestamp": "2026-09-01T08:57:53.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳自瑤自爆生日王浩信有表示　談教女兒識異性防渣男：觀念要正確",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106173657509531648465278.jpeg/w5_sg5PefZpcdKPVY2GbfRIgxzTNheiECyw5JgssOSY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385517/%E6%8A%95%E8%A1%8C%E8%A7%80%E9%BB%9E-%E9%87%8C%E6%98%82-%E5%85%A7%E5%9C%B0%E7%8F%BE%E6%88%BF%E9%8A%B7%E5%94%AE%E6%94%B9%E9%9D%A9%E5%B0%87%E9%87%8D%E5%A1%91%E5%B8%82%E5%A0%B4-%E6%96%99%E6%98%8E%E5%B9%B4%E6%A8%93%E5%83%B9%E5%9B%9E%E5%8D%875",
     "timestamp": "2026-08-31T23:53:29.840Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "皮膚癌症末期擴散全身！澳洲六旬農夫做心臟手術　腫瘤奇蹟全消退",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168601128141590528306175.jpeg/Xn_zn2mGvuROfn-pLSPWsCtmtKgIwyL8olZ4pKJWeKQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60380087/%E7%9A%AE%E8%86%9A%E7%99%8C%E7%97%87%E6%9C%AB%E6%9C%9F%E6%93%B4%E6%95%A3%E5%85%A8%E8%BA%AB-%E6%BE%B3%E6%B4%B2%E5%85%AD%E6%97%AC%E8%BE%B2%E5%A4%AB%E5%81%9A%E5%BF%83%E8%87%9F%E6%89%8B%E8%A1%93-%E8%85%AB%E7%98%A4%E5%A5%87%E8%B9%9F%E5%85%A8%E6%B6%88%E9%80%80",
-    "timestamp": "2026-08-31T23:43:29.437Z",
     "strategy": ".content-card__main"
   }
 ];
