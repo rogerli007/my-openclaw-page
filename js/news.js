@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T20:20:25.665Z
+// Last updated: 2026-09-01T20:41:49.439Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔住宅單位變地下竹館　32人被捕年紀最大91歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171677441542852608681532.jpeg/aRb3SIEViwStShgMXBI9YQvseJNcBCyyCrALawqwC2s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385921/%E5%A4%A7%E5%9F%94%E4%BD%8F%E5%AE%85%E5%96%AE%E4%BD%8D%E8%AE%8A%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-32%E4%BA%BA%E8%A2%AB%E6%8D%95%E5%B9%B4%E7%B4%80%E6%9C%80%E5%A4%A791%E6%AD%B2",
+    "timestamp": "2026-09-01T20:41:49.439Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗據指再攻擊美軍基地　稱美方行動令霍爾木茲海峽進一步封鎖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170853310777790464185490.jpeg/24oZ5Nz_JIn3Rs-RlOSxhMH9HDMzTPhF11CsXddQrF0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384379/%E7%B2%89%E5%B6%BA%E5%A5%B3%E8%A2%AB%E7%8B%97%E5%92%AC-%E4%B8%8D%E6%BB%BF%E6%9F%A5%E5%8D%8A%E5%B9%B4%E8%AD%89%E6%93%9A%E4%B8%8D%E8%B6%B3-%E6%BC%81%E8%AD%B7-%E6%AA%A2%E6%8E%A7%E5%89%8D%E9%A0%88%E5%AE%A2%E8%A7%80%E8%A9%95%E4%BC%B0%E8%AD%89%E6%93%9A",
     "timestamp": "2026-09-01T12:50:23.369Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣超市28歲女遭偷拍裙底　警追查5日拘涉案48歲漢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171548892727087104623947.jpeg/zzQN3odggshfjFxxIm6bajVN2dUMaUa71g0SytYNEso?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385855/%E9%9D%92%E8%A1%A3%E8%B6%85%E5%B8%8228%E6%AD%B2%E5%A5%B3%E9%81%AD%E5%81%B7%E6%8B%8D%E8%A3%99%E5%BA%95-%E8%AD%A6%E8%BF%BD%E6%9F%A55%E6%97%A5%E6%8B%98%E6%B6%89%E6%A1%8848%E6%AD%B2%E6%BC%A2",
-    "timestamp": "2026-09-01T12:29:17.246Z",
     "strategy": ".content-card__main"
   }
 ];
