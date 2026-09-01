@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T00:57:34.922Z
+// Last updated: 2026-09-01T01:39:08.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LE SSERAFIM十一月首度登陸澳門一連兩場　勢掀全球FEARNOT搶飛潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171220707594473472915240.jpeg/hm9gD57KxIyfrTuCwfq4SUxk3MLWnPywDToCEg06AhI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385471/le-sserafim%E5%8D%81%E4%B8%80%E6%9C%88%E9%A6%96%E5%BA%A6%E7%99%BB%E9%99%B8%E6%BE%B3%E9%96%80%E4%B8%80%E9%80%A3%E5%85%A9%E5%A0%B4-%E5%8B%A2%E6%8E%80%E5%85%A8%E7%90%83fearnot%E6%90%B6%E9%A3%9B%E6%BD%AE",
+    "timestamp": "2026-09-01T01:39:08.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "開學日｜大角咀詩歌舞街中學男生落私家車返學　遭車轆壓腳掌受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
     "timestamp": "2026-08-31T18:53:43.588Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
-    "timestamp": "2026-08-31T18:44:42.774Z",
     "strategy": ".content-card__main"
   }
 ];
