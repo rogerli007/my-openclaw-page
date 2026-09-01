@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T13:54:40.675Z
+// Last updated: 2026-09-01T14:21:22.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱千雪陀B七個月瞞老公穿高跟鞋　過來人鼓勵李澤欣：季軍好嘢嚟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171532949225476096095371.jpeg/drbcPtbX6rtf2ax8193LHdGq8oz_CkakD4wtwjWMLcI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385730/%E6%9C%B1%E5%8D%83%E9%9B%AA%E9%99%80b%E4%B8%83%E5%80%8B%E6%9C%88%E7%9E%9E%E8%80%81%E5%85%AC%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B-%E9%81%8E%E4%BE%86%E4%BA%BA%E9%BC%93%E5%8B%B5%E6%9D%8E%E6%BE%A4%E6%AC%A3-%E5%AD%A3%E8%BB%8D%E5%A5%BD%E5%98%A2%E5%9A%9F",
+    "timestamp": "2026-09-01T14:21:22.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "景甜捲代孕恐被封殺？揭地下代孕黑產　無麻醉取卵月做150台手術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171475839552851968032794.jpeg/xhlfoQRcxBn72g5PTv-pbxJKDfmEeJREpNPFA6TTxQM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60385705/g-e-m-%E9%84%A7%E7%B4%AB%E6%A3%8B%E9%A6%96%E9%83%A8%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AA%AA-%E5%95%9F%E7%A4%BA%E8%B7%AF-%E5%85%A5%E5%9C%8D%E9%8A%80%E6%B2%B3%E7%8D%8E-%E7%9B%B4%E5%91%BC%E7%84%A1%E6%AF%94%E9%96%8B%E5%BF%83",
     "timestamp": "2026-09-01T07:22:36.717Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯儲議息前夕　全球債息升至2008年來最高　市場對加息預期升溫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113126671843594240861253.jpeg/TKzf9DaPwgSL1GfEfIKgJ5BVf2gGIsLqJEqKWyRKils?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385690/%E7%BE%8E%E8%81%AF%E5%84%B2%E8%AD%B0%E6%81%AF%E5%89%8D%E5%A4%95-%E5%85%A8%E7%90%83%E5%82%B5%E6%81%AF%E5%8D%87%E8%87%B32008%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98-%E5%B8%82%E5%A0%B4%E5%B0%8D%E5%8A%A0%E6%81%AF%E9%A0%90%E6%9C%9F%E5%8D%87%E6%BA%AB",
-    "timestamp": "2026-09-01T06:57:30.655Z",
     "strategy": ".content-card__main"
   }
 ];
