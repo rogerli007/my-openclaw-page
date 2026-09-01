@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T14:56:48.288Z
+// Last updated: 2026-09-01T15:24:55.278Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銀河通用機械人零售店開業　記者實測買水需時2分16秒　會答法語",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171588635972079616156293.jpeg/VkD1_iEMAIW8i-EdMDmheAzLQnWSqOgZJbjYlCW42JQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385892/%E9%8A%80%E6%B2%B3%E9%80%9A%E7%94%A8%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%9B%B6%E5%94%AE%E5%BA%97%E9%96%8B%E6%A5%AD-%E8%A8%98%E8%80%85%E5%AF%A6%E6%B8%AC%E8%B2%B7%E6%B0%B4%E9%9C%80%E6%99%822%E5%88%8616%E7%A7%92-%E6%9C%83%E7%AD%94%E6%B3%95%E8%AA%9E",
+    "timestamp": "2026-09-01T15:24:55.278Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科技園公司慶祝邁向25周年　帶領香港創科進入新篇章",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171483869501722624241968.jpeg/17gi4Wn-OGFyq_2D4fOcG5lwbdVyGnCKmjSL15o0i9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385738/%E5%BC%B7%E7%A9%8D%E9%87%91%E7%B8%BD%E8%B3%87%E7%94%A2%E9%80%BE1-5%E8%90%AC%E5%84%84-%E7%A9%8D%E9%87%91%E5%B1%80%E7%82%BA%E9%80%BE9%E8%90%AC%E5%90%8D%E5%83%B1%E5%93%A1%E8%BF%BD%E8%A8%8E1-77%E5%84%84%E6%8B%96%E6%AC%A0%E4%BE%9B%E6%AC%BE",
     "timestamp": "2026-09-01T08:28:28.444Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國叫停Meta收購案後　Manus恢復獨立運營　原創始團隊繼續掌舵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1086044834252197888406527.jpeg/uQLeIF1KS8-gBqsOvIgyjbt72DLG0zheDTs71Q07O9U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385733/%E4%B8%AD%E5%9C%8B%E5%8F%AB%E5%81%9Cmeta%E6%94%B6%E8%B3%BC%E6%A1%88%E5%BE%8C-manus%E6%81%A2%E5%BE%A9%E7%8D%A8%E7%AB%8B%E9%81%8B%E7%87%9F-%E5%8E%9F%E5%89%B5%E5%A7%8B%E5%9C%98%E9%9A%8A%E7%B9%BC%E7%BA%8C%E6%8E%8C%E8%88%B5",
-    "timestamp": "2026-09-01T07:53:53.940Z",
     "strategy": ".content-card__main"
   }
 ];
