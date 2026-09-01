@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T02:40:46.523Z
+// Last updated: 2026-09-01T02:56:31.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林智遠稱宏福苑大火委員會報告一出會即分析　如有需要將納入審計",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170379983911129088708351.jpeg/hPNYkXQcRFaRR2lZUpYIfhJ7M1Tqyivu8_pYt_P6WLc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385571/%E6%9E%97%E6%99%BA%E9%81%A0%E7%A8%B1%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%A7%94%E5%93%A1%E6%9C%83%E5%A0%B1%E5%91%8A%E4%B8%80%E5%87%BA%E6%9C%83%E5%8D%B3%E5%88%86%E6%9E%90-%E5%A6%82%E6%9C%89%E9%9C%80%E8%A6%81%E5%B0%87%E7%B4%8D%E5%85%A5%E5%AF%A9%E8%A8%88",
+    "timestamp": "2026-09-01T02:56:31.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "庫克卸任蘋果CEO　告別信致敬喬布斯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385506/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%9A%E8%A8%80%E5%B0%87%E9%87%8D%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%8F%8D%E6%93%8A%E7%BE%8E%E8%BB%8D%E9%A7%90%E7%B4%84%E6%97%A6%E5%9F%BA%E5%9C%B0%E5%8F%97%E8%A5%B2",
     "timestamp": "2026-08-31T19:41:28.020Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
-    "timestamp": "2026-08-31T19:26:15.509Z",
     "strategy": ".content-card__main"
   }
 ];
