@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T15:24:55.278Z
+// Last updated: 2026-09-01T15:57:46.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "可樂雞翼食譜｜做法簡單香甜惹味免糖免豉油！煎香再煮20分鐘即成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989522128439087104729861.jpeg/QwxOsEK9hrGrANoFysjuJptXOdTixorXX-P9vV_j_b0",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60383966/%E5%8F%AF%E6%A8%82%E9%9B%9E%E7%BF%BC%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E5%96%AE%E9%A6%99%E7%94%9C%E6%83%B9%E5%91%B3%E5%85%8D%E7%B3%96%E5%85%8D%E8%B1%89%E6%B2%B9-%E7%85%8E%E9%A6%99%E5%86%8D%E7%85%AE20%E5%88%86%E9%90%98%E5%8D%B3%E6%88%90",
+    "timestamp": "2026-09-01T15:57:46.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銀河通用機械人零售店開業　記者實測買水需時2分16秒　會答法語",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171479745007718400375960.jpeg/nxk2GPYD2g5IPsCRv3fgOd5NB-mYPmJ5wctaovvLWqI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385682/%E9%99%B3%E8%87%AA%E7%91%A4%E8%87%AA%E7%88%86%E7%94%9F%E6%97%A5%E7%8E%8B%E6%B5%A9%E4%BF%A1%E6%9C%89%E8%A1%A8%E7%A4%BA-%E8%AB%87%E6%95%99%E5%A5%B3%E5%85%92%E8%AD%98%E7%95%B0%E6%80%A7%E9%98%B2%E6%B8%A3%E7%94%B7-%E8%A7%80%E5%BF%B5%E8%A6%81%E6%AD%A3%E7%A2%BA",
     "timestamp": "2026-09-01T08:48:08.996Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "強積金總資產逾1.5萬億　積金局為逾9萬名僱員追討1.77億拖欠供款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171483869501722624241968.jpeg/17gi4Wn-OGFyq_2D4fOcG5lwbdVyGnCKmjSL15o0i9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385738/%E5%BC%B7%E7%A9%8D%E9%87%91%E7%B8%BD%E8%B3%87%E7%94%A2%E9%80%BE1-5%E8%90%AC%E5%84%84-%E7%A9%8D%E9%87%91%E5%B1%80%E7%82%BA%E9%80%BE9%E8%90%AC%E5%90%8D%E5%83%B1%E5%93%A1%E8%BF%BD%E8%A8%8E1-77%E5%84%84%E6%8B%96%E6%AC%A0%E4%BE%9B%E6%AC%BE",
-    "timestamp": "2026-09-01T08:28:28.444Z",
     "strategy": ".content-card__main"
   }
 ];
