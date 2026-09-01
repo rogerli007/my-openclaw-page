@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T17:18:11.620Z
+// Last updated: 2026-09-01T17:41:12.887Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "詭異沙德爾料將回馬槍向西移動並減弱　日本比天文台預測更近本港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171604849637199872482319.jpeg/t3NEvTimubPUTUUP7BYC5VYrhLPJUoFouiTEw7okxMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385905/%E8%A9%AD%E7%95%B0%E6%B2%99%E5%BE%B7%E7%88%BE%E6%96%99%E5%B0%87%E5%9B%9E%E9%A6%AC%E6%A7%8D%E5%90%91%E8%A5%BF%E7%A7%BB%E5%8B%95%E4%B8%A6%E6%B8%9B%E5%BC%B1-%E6%97%A5%E6%9C%AC%E6%AF%94%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E6%B8%AC%E6%9B%B4%E8%BF%91%E6%9C%AC%E6%B8%AF",
+    "timestamp": "2026-09-01T17:41:12.887Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關多處搗破4個私煙倉　檢$2000萬貨和宣傳單張　拘捕4名無業男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171510435782856704902358.jpeg/Nm03h0adhpne0lFhhT8N_0GWP_Hr6h3-lAPAl5QDwJc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385797/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E4%B8%83%E4%BA%BA%E8%BB%8A%E7%96%91%E8%A1%8C%E9%8C%AF%E8%B7%AF%E7%AA%81%E5%88%87%E5%BD%B1%E5%AD%90%E7%B7%9A-%E6%B3%A5%E9%A0%AD%E8%BB%8A%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E7%8C%9B%E6%92%9E%E9%87%802%E5%82%B7",
     "timestamp": "2026-09-01T09:44:34.084Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡MIDTOWN SOUTH六期命名「映匯」　全盤263伙、最快兩日內開價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171507556212805632175326.jpeg/EGp7Ct3gfWqg9flwQdDERx31tEYr2q-X2zMR_dszEf0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385747/%E7%B4%85%E7%A3%A1midtown-south%E5%85%AD%E6%9C%9F%E5%91%BD%E5%90%8D-%E6%98%A0%E5%8C%AF-%E5%85%A8%E7%9B%A4263%E4%BC%99-%E6%9C%80%E5%BF%AB%E5%85%A9%E6%97%A5%E5%85%A7%E9%96%8B%E5%83%B9",
-    "timestamp": "2026-09-01T09:24:44.026Z",
     "strategy": ".content-card__main"
   }
 ];
