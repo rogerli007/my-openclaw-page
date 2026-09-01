@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T09:44:34.084Z
+// Last updated: 2026-09-01T09:54:22.312Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Meta收購叫停風波後　內地AI初創Manus正式恢復獨立營運",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171513023328686080652430.jpeg/CpjngAj-hg1-yPXcjP8YnyEUBJ0HVM4ye7BCT3uwQk8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385793/meta%E6%94%B6%E8%B3%BC%E5%8F%AB%E5%81%9C%E9%A2%A8%E6%B3%A2%E5%BE%8C-%E5%85%A7%E5%9C%B0ai%E5%88%9D%E5%89%B5manus%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%BE%A9%E7%8D%A8%E7%AB%8B%E7%87%9F%E9%81%8B",
+    "timestamp": "2026-09-01T09:54:22.312Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺公路七人車疑行錯路突切影子線　泥頭車收掣不及猛撞釀2傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260322/1112363836024819712159743.jpeg/BGp6CnogZA8T380_LwEHIzEY1b-QpTibNhj-WjYY_lo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385532/anthropic%E8%88%87%E8%8B%B1%E5%81%89%E9%81%94%E9%99%A3%E7%87%9F%E6%88%90%E5%93%A1lambda-%E9%81%94350%E5%84%84%E7%BE%8E%E5%85%83%E7%AE%97%E5%8A%9B%E5%90%88%E4%BD%9C%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-09-01T02:05:12.619Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LE SSERAFIM十一月首度登陸澳門一連兩場　勢掀全球FEARNOT搶飛潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171220707594473472915240.jpeg/hm9gD57KxIyfrTuCwfq4SUxk3MLWnPywDToCEg06AhI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385471/le-sserafim%E5%8D%81%E4%B8%80%E6%9C%88%E9%A6%96%E5%BA%A6%E7%99%BB%E9%99%B8%E6%BE%B3%E9%96%80%E4%B8%80%E9%80%A3%E5%85%A9%E5%A0%B4-%E5%8B%A2%E6%8E%80%E5%85%A8%E7%90%83fearnot%E6%90%B6%E9%A3%9B%E6%BD%AE",
-    "timestamp": "2026-09-01T01:39:08.128Z",
     "strategy": ".content-card__main"
   }
 ];
