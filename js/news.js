@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T11:30:55.548Z
+// Last updated: 2026-09-01T11:54:20.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "智神星一號運載火箭首飛成功　中國再有民企解鎖可複用火箭入軌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171480598909292544190483.jpeg/Ih0Jv5HfMP73Zao3Ypar5xGjny_JMESaoPPhFKDz4RQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385726/%E6%99%BA%E7%A5%9E%E6%98%9F%E4%B8%80%E8%99%9F%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9B%E6%88%90%E5%8A%9F-%E4%B8%AD%E5%9C%8B%E5%86%8D%E6%9C%89%E6%B0%91%E4%BC%81%E8%A7%A3%E9%8E%96%E5%8F%AF%E8%A4%87%E7%94%A8%E7%81%AB%E7%AE%AD%E5%85%A5%E8%BB%8C",
+    "timestamp": "2026-09-01T11:54:20.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡錫進批丟中國男人臉　孫宇晨發文回應遭批「扮高價婚禮受害者」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123299912834879488463701.jpeg/QErasSrPGEhvhjl4wJBHCyXXDnFK0yXv7m6BhO5ugYQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385622/%E5%BA%AB%E5%85%8B%E5%8D%B8%E4%BB%BB%E8%98%8B%E6%9E%9Cceo-%E5%9F%B7%E6%8E%8C15%E5%B9%B4%E6%89%93%E9%80%A04%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%B8%9D%E5%9C%8B-%E6%93%B4%E5%BC%B5%E7%94%A2%E5%93%81%E6%9C%8D%E5%8B%99%E7%94%9F%E6%85%8B",
     "timestamp": "2026-09-01T04:54:48.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秋葵保存｜保鮮2貼士冷藏前多1步可放1個月！4招揀鮮嫩秋葵挑深色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231221/814347855786414080786504.jpeg/rMnwJ39h9NaHGpiDL-JkPcjIykjJvZYd7xEX4e8RF-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/119933/%E7%A7%8B%E8%91%B5%E4%BF%9D%E5%AD%98-%E4%BF%9D%E9%AE%AE2%E8%B2%BC%E5%A3%AB%E5%86%B7%E8%97%8F%E5%89%8D%E5%A4%9A1%E6%AD%A5%E5%8F%AF%E6%94%BE1%E5%80%8B%E6%9C%88-4%E6%8B%9B%E6%8F%80%E9%AE%AE%E5%AB%A9%E7%A7%8B%E8%91%B5%E6%8C%91%E6%B7%B1%E8%89%B2",
-    "timestamp": "2026-09-01T04:45:42.999Z",
     "strategy": ".content-card__main"
   }
 ];
