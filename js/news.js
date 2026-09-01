@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T10:53:55.699Z
+// Last updated: 2026-09-01T11:30:55.548Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡錫進批丟中國男人臉　孫宇晨發文回應遭批「扮高價婚禮受害者」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170145789062680576541803.jpeg/lxh6vbFqxDx4D-0krBd6rYnke8EjyjUaAKcSNwCnEjc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385843/%E8%83%A1%E9%8C%AB%E9%80%B2%E6%89%B9%E4%B8%9F%E4%B8%AD%E5%9C%8B%E7%94%B7%E4%BA%BA%E8%87%89-%E5%AD%AB%E5%AE%87%E6%99%A8%E7%99%BC%E6%96%87%E5%9B%9E%E6%87%89%E9%81%AD%E6%89%B9-%E6%89%AE%E9%AB%98%E5%83%B9%E5%A9%9A%E7%A6%AE%E5%8F%97%E5%AE%B3%E8%80%85",
+    "timestamp": "2026-09-01T11:30:55.548Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "據報再有混種狗被定為格鬥犬遭漁護署扣留　狗主稱難抵壓力終棄養",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231221/814347855786414080786504.jpeg/rMnwJ39h9NaHGpiDL-JkPcjIykjJvZYd7xEX4e8RF-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/119933/%E7%A7%8B%E8%91%B5%E4%BF%9D%E5%AD%98-%E4%BF%9D%E9%AE%AE2%E8%B2%BC%E5%A3%AB%E5%86%B7%E8%97%8F%E5%89%8D%E5%A4%9A1%E6%AD%A5%E5%8F%AF%E6%94%BE1%E5%80%8B%E6%9C%88-4%E6%8B%9B%E6%8F%80%E9%AE%AE%E5%AB%A9%E7%A7%8B%E8%91%B5%E6%8C%91%E6%B7%B1%E8%89%B2",
     "timestamp": "2026-09-01T04:45:42.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜吉隆舉行悼念活動　救援現場鳴笛向遇難者致哀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171411414183710720712039.jpeg/T3nP5TbpLGLV2uvZt8mliijc5I2SPOLbrZLpgK2S6YA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385584/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%90%89%E9%9A%86%E8%88%89%E8%A1%8C%E6%82%BC%E5%BF%B5%E6%B4%BB%E5%8B%95-%E6%95%91%E6%8F%B4%E7%8F%BE%E5%A0%B4%E9%B3%B4%E7%AC%9B%E5%90%91%E9%81%87%E9%9B%A3%E8%80%85%E8%87%B4%E5%93%80",
-    "timestamp": "2026-09-01T03:25:53.306Z",
     "strategy": ".content-card__main"
   }
 ];
