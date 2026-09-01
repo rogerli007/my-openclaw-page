@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T19:54:02.660Z
+// Last updated: 2026-09-01T20:20:25.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗據指再攻擊美軍基地　稱美方行動令霍爾木茲海峽進一步封鎖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220717/625290084580593664582076.jpeg/sKBfNMoTTPAWOjErbcVtHgas7RjFhE0rpruOj6a7jo8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385917/%E4%BC%8A%E6%9C%97%E6%93%9A%E6%8C%87%E5%86%8D%E6%94%BB%E6%93%8A%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E7%A8%B1%E7%BE%8E%E6%96%B9%E8%A1%8C%E5%8B%95%E4%BB%A4%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%80%B2%E4%B8%80%E6%AD%A5%E5%B0%81%E9%8E%96",
+    "timestamp": "2026-09-01T20:20:25.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗據指再攻擊美軍基地　稱美方行動令霍爾木茲海峽進一步封鎖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171548892727087104623947.jpeg/zzQN3odggshfjFxxIm6bajVN2dUMaUa71g0SytYNEso?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385855/%E9%9D%92%E8%A1%A3%E8%B6%85%E5%B8%8228%E6%AD%B2%E5%A5%B3%E9%81%AD%E5%81%B7%E6%8B%8D%E8%A3%99%E5%BA%95-%E8%AD%A6%E8%BF%BD%E6%9F%A55%E6%97%A5%E6%8B%98%E6%B6%89%E6%A1%8848%E6%AD%B2%E6%BC%A2",
     "timestamp": "2026-09-01T12:29:17.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "智神星一號運載火箭首飛成功　中國再有民企解鎖可複用火箭入軌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171480598909292544190483.jpeg/Ih0Jv5HfMP73Zao3Ypar5xGjny_JMESaoPPhFKDz4RQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385726/%E6%99%BA%E7%A5%9E%E6%98%9F%E4%B8%80%E8%99%9F%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD%E9%A6%96%E9%A3%9B%E6%88%90%E5%8A%9F-%E4%B8%AD%E5%9C%8B%E5%86%8D%E6%9C%89%E6%B0%91%E4%BC%81%E8%A7%A3%E9%8E%96%E5%8F%AF%E8%A4%87%E7%94%A8%E7%81%AB%E7%AE%AD%E5%85%A5%E8%BB%8C",
-    "timestamp": "2026-09-01T11:54:20.002Z",
     "strategy": ".content-card__main"
   }
 ];
