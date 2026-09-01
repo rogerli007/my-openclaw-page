@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T19:17:49.629Z
+// Last updated: 2026-09-01T19:29:00.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱新一輪打擊正當　伊朗若報復將被更猛烈攻勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385914/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%96%B0%E4%B8%80%E8%BC%AA%E6%89%93%E6%93%8A%E6%AD%A3%E7%95%B6-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%A0%B1%E5%BE%A9%E5%B0%87%E8%A2%AB%E6%9B%B4%E7%8C%9B%E7%83%88%E6%94%BB%E5%8B%A2",
+    "timestamp": "2026-09-01T19:29:00.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱新一輪打擊正當　伊朗若報復將被更猛烈攻勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171455789009735680087943.jpeg/BORe7gJnsNJ_iOsUsBMlpZGJtTikpJExQN0L9EDdC_Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60385657/%E6%93%9A%E5%A0%B1%E5%86%8D%E6%9C%89%E6%B7%B7%E7%A8%AE%E7%8B%97%E8%A2%AB%E5%AE%9A%E7%82%BA%E6%A0%BC%E9%AC%A5%E7%8A%AC%E9%81%AD%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%89%A3%E7%95%99-%E7%8B%97%E4%B8%BB%E7%A8%B1%E9%9B%A3%E6%8A%B5%E5%A3%93%E5%8A%9B%E7%B5%82%E6%A3%84%E9%A4%8A",
     "timestamp": "2026-09-01T10:53:55.699Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩15歲男童｢P圖改身分證｣　紋青龍白虎大花臂無法入學　家長索償",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171511368298270720853742.jpeg/YPOz20hTrxJUJXMA8Uw1eOta1gd8vJKxgZ829oGfNvY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60385787/%E5%85%A915%E6%AD%B2%E7%94%B7%E7%AB%A5-p%E5%9C%96%E6%94%B9%E8%BA%AB%E5%88%86%E8%AD%89-%E7%B4%8B%E9%9D%92%E9%BE%8D%E7%99%BD%E8%99%8E%E5%A4%A7%E8%8A%B1%E8%87%82%E7%84%A1%E6%B3%95%E5%85%A5%E5%AD%B8-%E5%AE%B6%E9%95%B7%E7%B4%A2%E5%84%9F",
-    "timestamp": "2026-09-01T10:43:36.052Z",
     "strategy": ".content-card__main"
   }
 ];
