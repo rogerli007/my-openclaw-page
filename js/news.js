@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T12:29:17.246Z
+// Last updated: 2026-09-01T12:50:23.369Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺女被狗咬　不滿查半年證據不足　漁護：檢控前須客觀評估證據",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170853310777790464185490.jpeg/24oZ5Nz_JIn3Rs-RlOSxhMH9HDMzTPhF11CsXddQrF0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60384379/%E7%B2%89%E5%B6%BA%E5%A5%B3%E8%A2%AB%E7%8B%97%E5%92%AC-%E4%B8%8D%E6%BB%BF%E6%9F%A5%E5%8D%8A%E5%B9%B4%E8%AD%89%E6%93%9A%E4%B8%8D%E8%B6%B3-%E6%BC%81%E8%AD%B7-%E6%AA%A2%E6%8E%A7%E5%89%8D%E9%A0%88%E5%AE%A2%E8%A7%80%E8%A9%95%E4%BC%B0%E8%AD%89%E6%93%9A",
+    "timestamp": "2026-09-01T12:50:23.369Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣超市28歲女遭偷拍裙底　警追查5日拘涉案48歲漢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210401/454308077236129792856942.jpeg/Zf5V7Nxgo7wFv5d9J-rHR7MtxR1QH_WZ4SPMAuEjzAI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385656/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E9%95%B7%E5%AF%A6-%E9%95%B7%E5%92%8C%E5%8F%8A%E6%9D%8E%E5%98%89%E8%AA%A0%E5%9F%BA%E9%87%91%E6%9C%83-%E6%8D%901500%E8%90%AC%E4%BA%BA%E5%B9%A3%E6%94%AF%E6%8F%B4%E6%95%91%E7%81%BD",
     "timestamp": "2026-09-01T05:43:35.138Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "39歲美斯愈老愈強　球會與國家隊生涯五次進化　散步帝成終極形態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171434143892901888957280.jpeg/tizx3-WCbeiqMbjN2qQLKzMmzvBXQr0rtx5w87cecPM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385636/39%E6%AD%B2%E7%BE%8E%E6%96%AF%E6%84%88%E8%80%81%E6%84%88%E5%BC%B7-%E7%90%83%E6%9C%83%E8%88%87%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%94%9F%E6%B6%AF%E4%BA%94%E6%AC%A1%E9%80%B2%E5%8C%96-%E6%95%A3%E6%AD%A5%E5%B8%9D%E6%88%90%E7%B5%82%E6%A5%B5%E5%BD%A2%E6%85%8B",
-    "timestamp": "2026-09-01T05:21:07.132Z",
     "strategy": ".content-card__main"
   }
 ];
