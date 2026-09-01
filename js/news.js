@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T02:05:12.619Z
+// Last updated: 2026-09-01T02:40:46.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "庫克卸任蘋果CEO　告別信致敬喬布斯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260421/1123308254554755072189345.jpeg/i06126zQHtswDRnv6JBEqNHZkZSHE5F5NW6sozVurKM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385562/%E5%BA%AB%E5%85%8B%E5%8D%B8%E4%BB%BB%E8%98%8B%E6%9E%9Cceo-%E5%91%8A%E5%88%A5%E4%BF%A1%E8%87%B4%E6%95%AC%E5%96%AC%E5%B8%83%E6%96%AF",
+    "timestamp": "2026-09-01T02:40:46.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic與英偉達陣營成員Lambda　達350億美元算力合作協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
     "timestamp": "2026-08-31T19:26:15.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜林超英形容沙德爾詭異　40年氣象生涯未遇過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171282727396184064958172.jpeg/dbt4WiOU0fmBmsmS9Qc5QwjxYwCD-chnJV4VbiVeFW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385502/%E6%89%93%E9%A2%A8-%E6%9E%97%E8%B6%85%E8%8B%B1%E5%BD%A2%E5%AE%B9%E6%B2%99%E5%BE%B7%E7%88%BE%E8%A9%AD%E7%95%B0-40%E5%B9%B4%E6%B0%A3%E8%B1%A1%E7%94%9F%E6%B6%AF%E6%9C%AA%E9%81%87%E9%81%8E",
-    "timestamp": "2026-08-31T19:20:48.566Z",
     "strategy": ".content-card__main"
   }
 ];
