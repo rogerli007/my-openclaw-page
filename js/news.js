@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T17:54:32.392Z
+// Last updated: 2026-09-01T18:54:47.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍宣布開始空襲伊朗境內革命衛隊目標　伊媒：多地發生爆炸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164879374705496064739280.jpeg/QtfZ8dIboa4nPXBKXlyOqjJ-TWY714xEf4LR8H-C0fA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385906/%E7%BE%8E%E8%BB%8D%E5%AE%A3%E5%B8%83%E9%96%8B%E5%A7%8B%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%A2%83%E5%85%A7%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%9B%AE%E6%A8%99-%E4%BC%8A%E5%AA%92-%E5%A4%9A%E5%9C%B0%E7%99%BC%E7%94%9F%E7%88%86%E7%82%B8",
+    "timestamp": "2026-09-01T18:54:47.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "詭異沙德爾料將回馬槍向西移動並減弱　日本比天文台預測更近本港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171520794409308160568213.jpeg/8cLWkcrt3wE53Rr9gomSrJGFc-Wso8FFT5OG6U-Thuk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385812/29%E6%AD%B2%E4%B8%AD%E5%9C%8B%E7%B1%8D%E5%A5%B3%E5%AD%90%E6%97%A5%E6%9C%AC%E9%B9%BF%E5%85%92%E5%B3%B6%E8%A1%8C%E5%B1%B1-%E5%81%9C%E8%BB%8A%E5%A0%B4%E9%99%84%E8%BF%91%E8%BF%B7%E8%B7%AF%E5%BE%8C%E5%A4%B1%E8%81%AF",
     "timestamp": "2026-09-01T10:21:42.254Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Meta收購叫停風波後　內地AI初創Manus正式恢復獨立營運",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171513023328686080652430.jpeg/CpjngAj-hg1-yPXcjP8YnyEUBJ0HVM4ye7BCT3uwQk8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385793/meta%E6%94%B6%E8%B3%BC%E5%8F%AB%E5%81%9C%E9%A2%A8%E6%B3%A2%E5%BE%8C-%E5%85%A7%E5%9C%B0ai%E5%88%9D%E5%89%B5manus%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%BE%A9%E7%8D%A8%E7%AB%8B%E7%87%9F%E9%81%8B",
-    "timestamp": "2026-09-01T09:54:22.312Z",
     "strategy": ".content-card__main"
   }
 ];
