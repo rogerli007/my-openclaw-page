@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T08:57:53.002Z
+// Last updated: 2026-09-01T09:24:44.026Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡MIDTOWN SOUTH六期命名「映匯」　全盤263伙、最快兩日內開價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171507556212805632175326.jpeg/EGp7Ct3gfWqg9flwQdDERx31tEYr2q-X2zMR_dszEf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385747/%E7%B4%85%E7%A3%A1midtown-south%E5%85%AD%E6%9C%9F%E5%91%BD%E5%90%8D-%E6%98%A0%E5%8C%AF-%E5%85%A8%E7%9B%A4263%E4%BC%99-%E6%9C%80%E5%BF%AB%E5%85%A9%E6%97%A5%E5%85%A7%E9%96%8B%E5%83%B9",
+    "timestamp": "2026-09-01T09:24:44.026Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "開學｜深圳校服款式全市統一　超市文具店均有售　網民籲全國推廣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171373377768656896586372.jpeg/TRcykOXe-C9SQIytHEnmrYADNE633jq5GXoJ5Rl6CeU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385519/%E9%96%8B%E5%AD%B8%E6%97%A5-%E5%A4%A7%E8%A7%92%E5%92%80%E8%A9%A9%E6%AD%8C%E8%88%9E%E8%A1%97%E4%B8%AD%E5%AD%B8%E7%94%B7%E7%94%9F%E8%90%BD%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BF%94%E5%AD%B8-%E9%81%AD%E8%BB%8A%E8%BD%86%E5%A3%93%E8%85%B3%E6%8E%8C%E5%8F%97%E5%82%B7",
     "timestamp": "2026-09-01T00:57:34.922Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "投行觀點｜里昂︰內地現房銷售改革將重塑市場　料明年樓價回升5%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106173657509531648465278.jpeg/w5_sg5PefZpcdKPVY2GbfRIgxzTNheiECyw5JgssOSY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385517/%E6%8A%95%E8%A1%8C%E8%A7%80%E9%BB%9E-%E9%87%8C%E6%98%82-%E5%85%A7%E5%9C%B0%E7%8F%BE%E6%88%BF%E9%8A%B7%E5%94%AE%E6%94%B9%E9%9D%A9%E5%B0%87%E9%87%8D%E5%A1%91%E5%B8%82%E5%A0%B4-%E6%96%99%E6%98%8E%E5%B9%B4%E6%A8%93%E5%83%B9%E5%9B%9E%E5%8D%875",
-    "timestamp": "2026-08-31T23:53:29.840Z",
     "strategy": ".content-card__main"
   }
 ];
