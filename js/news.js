@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T21:30:13.465Z
+// Last updated: 2026-09-01T21:41:27.060Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-01T21:41:27.060Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171532949225476096095371.jpeg/drbcPtbX6rtf2ax8193LHdGq8oz_CkakD4wtwjWMLcI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385730/%E6%9C%B1%E5%8D%83%E9%9B%AA%E9%99%80b%E4%B8%83%E5%80%8B%E6%9C%88%E7%9E%9E%E8%80%81%E5%85%AC%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B-%E9%81%8E%E4%BE%86%E4%BA%BA%E9%BC%93%E5%8B%B5%E6%9D%8E%E6%BE%A4%E6%AC%A3-%E5%AD%A3%E8%BB%8D%E5%A5%BD%E5%98%A2%E5%9A%9F",
     "timestamp": "2026-09-01T14:21:22.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "景甜捲代孕恐被封殺？揭地下代孕黑產　無麻醉取卵月做150台手術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171515059797495808417593.jpeg/XTZOSvcn7rEtzrO5-P8Xsnq6Ul5JJ6cLw7FRcMOxUXA",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60385750/%E6%99%AF%E7%94%9C%E6%8D%B2%E4%BB%A3%E5%AD%95%E6%81%90%E8%A2%AB%E5%B0%81%E6%AE%BA-%E6%8F%AD%E5%9C%B0%E4%B8%8B%E4%BB%A3%E5%AD%95%E9%BB%91%E7%94%A2-%E7%84%A1%E9%BA%BB%E9%86%89%E5%8F%96%E5%8D%B5%E6%9C%88%E5%81%9A150%E5%8F%B0%E6%89%8B%E8%A1%93",
-    "timestamp": "2026-09-01T13:54:40.675Z",
     "strategy": ".content-card__main"
   }
 ];
