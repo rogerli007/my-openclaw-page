@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T04:54:48.175Z
+// Last updated: 2026-09-01T05:21:07.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "39歲美斯愈老愈強　球會與國家隊生涯五次進化　散步帝成終極形態",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171434143892901888957280.jpeg/tizx3-WCbeiqMbjN2qQLKzMmzvBXQr0rtx5w87cecPM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385636/39%E6%AD%B2%E7%BE%8E%E6%96%AF%E6%84%88%E8%80%81%E6%84%88%E5%BC%B7-%E7%90%83%E6%9C%83%E8%88%87%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%94%9F%E6%B6%AF%E4%BA%94%E6%AC%A1%E9%80%B2%E5%8C%96-%E6%95%A3%E6%AD%A5%E5%B8%9D%E6%88%90%E7%B5%82%E6%A5%B5%E5%BD%A2%E6%85%8B",
+    "timestamp": "2026-09-01T05:21:07.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "庫克卸任蘋果CEO　執掌15年打造4萬億美元帝國　擴張產品服務生態",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385506/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%9A%E8%A8%80%E5%B0%87%E9%87%8D%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%8F%8D%E6%93%8A%E7%BE%8E%E8%BB%8D%E9%A7%90%E7%B4%84%E6%97%A6%E5%9F%BA%E5%9C%B0%E5%8F%97%E8%A5%B2",
     "timestamp": "2026-08-31T20:53:29.474Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普揚言將重擊伊朗　反擊美軍駐約旦基地受襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382025192509440025461.jpeg/-dvTwbHzBkgR4bY2fsFoFJDr8u3N5pKt7Ml4gOzJeIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385506/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%9A%E8%A8%80%E5%B0%87%E9%87%8D%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%8F%8D%E6%93%8A%E7%BE%8E%E8%BB%8D%E9%A7%90%E7%B4%84%E6%97%A6%E5%9F%BA%E5%9C%B0%E5%8F%97%E8%A5%B2",
-    "timestamp": "2026-08-31T20:41:40.456Z",
     "strategy": ".content-card__main"
   }
 ];
