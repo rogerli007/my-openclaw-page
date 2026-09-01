@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T23:27:42.407Z
+// Last updated: 2026-09-01T23:40:31.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8大運動禁忌｜日專家指朝早食蕉為大忌?! 教你一招18分鐘提升體力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220811/634465886513664000903241.png/sIl82bC7sJDf3vChcsZUY9mAeUxcZ8GrmKVdiJilXYg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/802088/8%E5%A4%A7%E9%81%8B%E5%8B%95%E7%A6%81%E5%BF%8C-%E6%97%A5%E5%B0%88%E5%AE%B6%E6%8C%87%E6%9C%9D%E6%97%A9%E9%A3%9F%E8%95%89%E7%82%BA%E5%A4%A7%E5%BF%8C-%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B18%E5%88%86%E9%90%98%E6%8F%90%E5%8D%87%E9%AB%94%E5%8A%9B",
+    "timestamp": "2026-09-01T23:40:31.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "8大運動禁忌｜日專家指朝早食蕉為大忌?! 教你一招18分鐘提升體力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171604849637199872482319.jpeg/t3NEvTimubPUTUUP7BYC5VYrhLPJUoFouiTEw7okxMM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385905/%E8%A9%AD%E7%95%B0%E6%B2%99%E5%BE%B7%E7%88%BE%E6%96%99%E5%B0%87%E5%9B%9E%E9%A6%AC%E6%A7%8D%E5%90%91%E8%A5%BF%E7%A7%BB%E5%8B%95%E4%B8%A6%E6%B8%9B%E5%BC%B1-%E6%97%A5%E6%9C%AC%E6%AF%94%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E6%B8%AC%E6%9B%B4%E8%BF%91%E6%9C%AC%E6%B8%AF",
     "timestamp": "2026-09-01T17:54:32.392Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "詭異沙德爾料將回馬槍向西移動並減弱　日本比天文台預測更近本港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171604849637199872482319.jpeg/t3NEvTimubPUTUUP7BYC5VYrhLPJUoFouiTEw7okxMM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385905/%E8%A9%AD%E7%95%B0%E6%B2%99%E5%BE%B7%E7%88%BE%E6%96%99%E5%B0%87%E5%9B%9E%E9%A6%AC%E6%A7%8D%E5%90%91%E8%A5%BF%E7%A7%BB%E5%8B%95%E4%B8%A6%E6%B8%9B%E5%BC%B1-%E6%97%A5%E6%9C%AC%E6%AF%94%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E6%B8%AC%E6%9B%B4%E8%BF%91%E6%9C%AC%E6%B8%AF",
-    "timestamp": "2026-09-01T17:41:12.887Z",
     "strategy": ".content-card__main"
   }
 ];
