@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T14:43:39.147Z
+// Last updated: 2026-09-01T14:56:48.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科技園公司慶祝邁向25周年　帶領香港創科進入新篇章",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171513891306344448271506.jpeg/0-Ojo48kH7iSB6IChcCE6CM_7ObHcMdhT7brb0-2628?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BC%81%E6%A5%AD%E5%89%B5%E6%96%B0/60385803/%E7%A7%91%E6%8A%80%E5%9C%92%E5%85%AC%E5%8F%B8%E6%85%B6%E7%A5%9D%E9%82%81%E5%90%9125%E5%91%A8%E5%B9%B4-%E5%B8%B6%E9%A0%98%E9%A6%99%E6%B8%AF%E5%89%B5%E7%A7%91%E9%80%B2%E5%85%A5%E6%96%B0%E7%AF%87%E7%AB%A0",
+    "timestamp": "2026-09-01T14:56:48.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京晤佩澤希齊揚　稱俄與伊朗人民站一起　伊方倡抵制美單邊主義",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1086044834252197888406527.jpeg/uQLeIF1KS8-gBqsOvIgyjbt72DLG0zheDTs71Q07O9U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385733/%E4%B8%AD%E5%9C%8B%E5%8F%AB%E5%81%9Cmeta%E6%94%B6%E8%B3%BC%E6%A1%88%E5%BE%8C-manus%E6%81%A2%E5%BE%A9%E7%8D%A8%E7%AB%8B%E9%81%8B%E7%87%9F-%E5%8E%9F%E5%89%B5%E5%A7%8B%E5%9C%98%E9%9A%8A%E7%B9%BC%E7%BA%8C%E6%8E%8C%E8%88%B5",
     "timestamp": "2026-09-01T07:53:53.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運｜滑板小將初戰亞運　12歲黃若澄體驗不一樣開學日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171479100783595520284057.jpeg/k3KaiO_CB01Kihw5bs4J8w8qWVXfXzdacNSx13DUsdc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385476/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%BB%91%E6%9D%BF%E5%B0%8F%E5%B0%87%E5%88%9D%E6%88%B0%E4%BA%9E%E9%81%8B-12%E6%AD%B2%E9%BB%83%E8%8B%A5%E6%BE%84%E9%AB%94%E9%A9%97%E4%B8%8D%E4%B8%80%E6%A8%A3%E9%96%8B%E5%AD%B8%E6%97%A5",
-    "timestamp": "2026-09-01T07:44:45.307Z",
     "strategy": ".content-card__main"
   }
 ];
