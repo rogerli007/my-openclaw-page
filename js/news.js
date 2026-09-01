@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T20:55:26.414Z
+// Last updated: 2026-09-01T21:18:17.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-01T21:18:17.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "避免政府停擺　臨時開支法案獲美國眾議院通過　已送交特朗普簽署",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171567626766258176527310.jpeg/MOyGUXeXOD61_eZY7Al4AF1WG2u1VkRmOm7-1Tpu_tU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385866/%E9%A6%AC%E6%99%82%E4%BA%A8%E6%92%90-%E8%AD%98%E4%BA%BA%E5%A5%BD%E9%81%8E%E8%AD%98%E5%AD%97-%E7%AC%91%E8%A8%80%E8%88%87%E6%9E%97%E8%B6%85%E8%8B%B1%E5%B0%91%E4%BE%86%E5%BE%80%E7%B7%A3%E7%94%B1-%E6%83%B9%E5%85%A8%E5%A0%B4%E6%8D%A7%E8%85%B9",
     "timestamp": "2026-09-01T13:42:12.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "火炭麗峰花園71歲婦游泳遇溺亡　消息：為全球知名社交媒體高層",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171516966821695488018265.jpeg/L6stQycpgcxGOUCB-St9KnymozHRXvuC3qxIa96sSGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385813/%E7%81%AB%E7%82%AD%E9%BA%97%E5%B3%B0%E8%8A%B1%E5%9C%9271%E6%AD%B2%E5%A9%A6%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA%E4%BA%A1-%E6%B6%88%E6%81%AF-%E7%82%BA%E5%85%A8%E7%90%83%E7%9F%A5%E5%90%8D%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E9%AB%98%E5%B1%A4",
-    "timestamp": "2026-09-01T13:20:41.285Z",
     "strategy": ".content-card__main"
   }
 ];
