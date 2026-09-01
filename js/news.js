@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T05:53:32.120Z
+// Last updated: 2026-09-01T06:33:55.829Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小學縮班｜新學年全港減143班小一比25學年多逾倍　61校僅開1班",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220902/642335898184192000908546.jpeg/o7ecmntY1zbqabWao2llzfROP7tsEockkjzBkZI8wZE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60385547/%E5%B0%8F%E5%AD%B8%E7%B8%AE%E7%8F%AD-%E6%96%B0%E5%AD%B8%E5%B9%B4%E5%85%A8%E6%B8%AF%E6%B8%9B143%E7%8F%AD%E5%B0%8F%E4%B8%80%E6%AF%9425%E5%AD%B8%E5%B9%B4%E5%A4%9A%E9%80%BE%E5%80%8D-61%E6%A0%A1%E5%83%85%E9%96%8B1%E7%8F%AD",
+    "timestamp": "2026-09-01T06:33:55.829Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國情報機構：美朝對話現積極信號　兩國峰會或隨時舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171326535399903232916052.jpeg/hznK4GXeZ37cXEV5ezNkM68N71Q4yGBh5DV1h-Q1dYc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385511/%E8%B7%91%E6%AD%A5-%E8%90%AC%E5%AE%9C%E8%B7%AF%E4%B8%8A%E8%90%BD%E9%AB%98%E4%BD%8E-713%E7%B1%B3-%E6%9B%BE%E6%9B%89%E5%BD%A4%E6%95%99%E4%BD%A0%E5%85%8B%E6%9C%8D-%E9%AD%94%E9%AC%BC%E7%B4%9A%E9%8B%B8%E9%BD%92%E7%88%AC%E5%8D%87",
     "timestamp": "2026-08-31T21:53:48.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跑步｜萬宜路上落高低 713米  曾曉彤教你克服「魔鬼級鋸齒爬升」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171326535399903232916052.jpeg/hznK4GXeZ37cXEV5ezNkM68N71Q4yGBh5DV1h-Q1dYc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385511/%E8%B7%91%E6%AD%A5-%E8%90%AC%E5%AE%9C%E8%B7%AF%E4%B8%8A%E8%90%BD%E9%AB%98%E4%BD%8E-713%E7%B1%B3-%E6%9B%BE%E6%9B%89%E5%BD%A4%E6%95%99%E4%BD%A0%E5%85%8B%E6%9C%8D-%E9%AD%94%E9%AC%BC%E7%B4%9A%E9%8B%B8%E9%BD%92%E7%88%AC%E5%8D%87",
-    "timestamp": "2026-08-31T21:29:21.375Z",
     "strategy": ".content-card__main"
   }
 ];
