@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T05:43:35.138Z
+// Last updated: 2026-09-01T05:53:32.120Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國情報機構：美朝對話現積極信號　兩國峰會或隨時舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056319485939552256207834.jpeg/XpTFGj9EMqr-7GPLMkMU13R7UjDI0hunJxYnLicWJy4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385668/%E9%9F%93%E5%9C%8B%E6%83%85%E5%A0%B1%E6%A9%9F%E6%A7%8B-%E7%BE%8E%E6%9C%9D%E5%B0%8D%E8%A9%B1%E7%8F%BE%E7%A9%8D%E6%A5%B5%E4%BF%A1%E8%99%9F-%E5%85%A9%E5%9C%8B%E5%B3%B0%E6%9C%83%E6%88%96%E9%9A%A8%E6%99%82%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-09-01T05:53:32.120Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜長實、長和及李嘉誠基金會　捐1500萬人幣支援救災",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171326535399903232916052.jpeg/hznK4GXeZ37cXEV5ezNkM68N71Q4yGBh5DV1h-Q1dYc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60385511/%E8%B7%91%E6%AD%A5-%E8%90%AC%E5%AE%9C%E8%B7%AF%E4%B8%8A%E8%90%BD%E9%AB%98%E4%BD%8E-713%E7%B1%B3-%E6%9B%BE%E6%9B%89%E5%BD%A4%E6%95%99%E4%BD%A0%E5%85%8B%E6%9C%8D-%E9%AD%94%E9%AC%BC%E7%B4%9A%E9%8B%B8%E9%BD%92%E7%88%AC%E5%8D%87",
     "timestamp": "2026-08-31T21:29:21.375Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：特朗普擬向伊朗發動有限度打擊　以防霍爾木茲船隻受襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168813081141186560379845.jpeg/kXK7UrhR2dCf_BhSsb5W4Ufl1YmNb-iQoivOTKIrzkw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385508/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E5%90%91%E4%BC%8A%E6%9C%97%E7%99%BC%E5%8B%95%E6%9C%89%E9%99%90%E5%BA%A6%E6%89%93%E6%93%8A-%E4%BB%A5%E9%98%B2%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E8%88%B9%E9%9A%BB%E5%8F%97%E8%A5%B2",
-    "timestamp": "2026-08-31T21:18:41.407Z",
     "strategy": ".content-card__main"
   }
 ];
