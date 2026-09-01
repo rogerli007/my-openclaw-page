@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T06:57:30.655Z
+// Last updated: 2026-09-01T07:22:36.717Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G.E.M.鄧紫棋首部科幻小說《啟示路》入圍銀河獎　直呼無比開心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171475839552851968032794.jpeg/xhlfoQRcxBn72g5PTv-pbxJKDfmEeJREpNPFA6TTxQM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60385705/g-e-m-%E9%84%A7%E7%B4%AB%E6%A3%8B%E9%A6%96%E9%83%A8%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AA%AA-%E5%95%9F%E7%A4%BA%E8%B7%AF-%E5%85%A5%E5%9C%8D%E9%8A%80%E6%B2%B3%E7%8D%8E-%E7%9B%B4%E5%91%BC%E7%84%A1%E6%AF%94%E9%96%8B%E5%BF%83",
+    "timestamp": "2026-09-01T07:22:36.717Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯儲議息前夕　全球債息升至2008年來最高　市場對加息預期升溫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171140576146362368097263.jpeg/VjUxD86TrzeSYpECE_0XInJS2k69oSdadaJzdnWic3Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385348/%E9%99%B3%E6%83%A0%E6%95%8F%E6%82%A3%E8%82%BA%E7%99%8C%E8%85%A6%E7%99%8C%E6%9B%BE%E4%B8%AD%E9%A2%A8-%E8%80%81%E4%BC%B4%E7%94%9F%E6%97%A5%E8%B4%88%E5%B7%A8%E5%9E%8B%E5%A3%BD%E5%8C%85%E9%80%A3%E5%92%80%E5%85%A9%E5%95%96%E6%84%9F%E8%AC%9D%E7%85%A7%E9%A1%A7",
     "timestamp": "2026-08-31T22:43:19.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "放狗入洗衣機｜警繼續調查IG男用戶　指暫未有證據顯示在香港發生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171340759060713472460851.jpeg/gD5euHktXZc0unN9FvbTLPNAto0ZXacA8bYICfG2CAk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385514/%E6%94%BE%E7%8B%97%E5%85%A5%E6%B4%97%E8%A1%A3%E6%A9%9F-%E8%AD%A6%E7%B9%BC%E7%BA%8C%E8%AA%BF%E6%9F%A5ig%E7%94%B7%E7%94%A8%E6%88%B6-%E6%8C%87%E6%9A%AB%E6%9C%AA%E6%9C%89%E8%AD%89%E6%93%9A%E9%A1%AF%E7%A4%BA%E5%9C%A8%E9%A6%99%E6%B8%AF%E7%99%BC%E7%94%9F",
-    "timestamp": "2026-08-31T22:31:07.212Z",
     "strategy": ".content-card__main"
   }
 ];
