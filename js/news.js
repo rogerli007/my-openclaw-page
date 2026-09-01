@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T23:17:39.894Z
+// Last updated: 2026-09-01T23:27:42.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8大運動禁忌｜日專家指朝早食蕉為大忌?! 教你一招18分鐘提升體力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220811/634465886513664000903241.png/sIl82bC7sJDf3vChcsZUY9mAeUxcZ8GrmKVdiJilXYg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/802088/8%E5%A4%A7%E9%81%8B%E5%8B%95%E7%A6%81%E5%BF%8C-%E6%97%A5%E5%B0%88%E5%AE%B6%E6%8C%87%E6%9C%9D%E6%97%A9%E9%A3%9F%E8%95%89%E7%82%BA%E5%A4%A7%E5%BF%8C-%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B18%E5%88%86%E9%90%98%E6%8F%90%E5%8D%87%E9%AB%94%E5%8A%9B",
+    "timestamp": "2026-09-01T23:27:42.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "8月車企成績單出爐！　零跑「一騎絕塵」　極氪再創新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171604849637199872482319.jpeg/t3NEvTimubPUTUUP7BYC5VYrhLPJUoFouiTEw7okxMM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385905/%E8%A9%AD%E7%95%B0%E6%B2%99%E5%BE%B7%E7%88%BE%E6%96%99%E5%B0%87%E5%9B%9E%E9%A6%AC%E6%A7%8D%E5%90%91%E8%A5%BF%E7%A7%BB%E5%8B%95%E4%B8%A6%E6%B8%9B%E5%BC%B1-%E6%97%A5%E6%9C%AC%E6%AF%94%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E6%B8%AC%E6%9B%B4%E8%BF%91%E6%9C%AC%E6%B8%AF",
     "timestamp": "2026-09-01T17:41:12.887Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關多處搗破4個私煙倉　檢$2000萬貨和宣傳單張　拘捕4名無業男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171625274207375360702138.jpeg/Xhf7IXBLN-t2mTLi3kmId3tS-G1nQkduap06vVCdOr0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385903/%E6%B5%B7%E9%97%9C%E5%A4%9A%E8%99%95%E6%90%97%E7%A0%B44%E5%80%8B%E7%A7%81%E7%85%99%E5%80%89-%E6%AA%A2-2000%E8%90%AC%E8%B2%A8%E5%92%8C%E5%AE%A3%E5%82%B3%E5%96%AE%E5%BC%B5-%E6%8B%98%E6%8D%954%E5%90%8D%E7%84%A1%E6%A5%AD%E7%94%B7",
-    "timestamp": "2026-09-01T17:18:11.620Z",
     "strategy": ".content-card__main"
   }
 ];
