@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T23:40:31.999Z
+// Last updated: 2026-09-01T23:53:46.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秘魯宣布與伊朗斷交　指一再威脅中東穩定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230507/732024472281812992195347.jpeg/_JqSWEQZjh_aGBLRw0EdgedkEmLCAkgic7XNpnO1zaY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385935/%E7%A7%98%E9%AD%AF%E5%AE%A3%E5%B8%83%E8%88%87%E4%BC%8A%E6%9C%97%E6%96%B7%E4%BA%A4-%E6%8C%87%E4%B8%80%E5%86%8D%E5%A8%81%E8%84%85%E4%B8%AD%E6%9D%B1%E7%A9%A9%E5%AE%9A",
+    "timestamp": "2026-09-01T23:53:46.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "8大運動禁忌｜日專家指朝早食蕉為大忌?! 教你一招18分鐘提升體力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164879374705496064739280.jpeg/QtfZ8dIboa4nPXBKXlyOqjJ-TWY714xEf4LR8H-C0fA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385906/%E7%BE%8E%E8%BB%8D%E5%AE%A3%E5%B8%83%E9%96%8B%E5%A7%8B%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%A2%83%E5%85%A7%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%9B%AE%E6%A8%99-%E4%BC%8A%E5%AA%92-%E5%A4%9A%E5%9C%B0%E7%99%BC%E7%94%9F%E7%88%86%E7%82%B8",
     "timestamp": "2026-09-01T18:54:47.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "詭異沙德爾料將回馬槍向西移動並減弱　日本比天文台預測更近本港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171604849637199872482319.jpeg/t3NEvTimubPUTUUP7BYC5VYrhLPJUoFouiTEw7okxMM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385905/%E8%A9%AD%E7%95%B0%E6%B2%99%E5%BE%B7%E7%88%BE%E6%96%99%E5%B0%87%E5%9B%9E%E9%A6%AC%E6%A7%8D%E5%90%91%E8%A5%BF%E7%A7%BB%E5%8B%95%E4%B8%A6%E6%B8%9B%E5%BC%B1-%E6%97%A5%E6%9C%AC%E6%AF%94%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E6%B8%AC%E6%9B%B4%E8%BF%91%E6%9C%AC%E6%B8%AF",
-    "timestamp": "2026-09-01T17:54:32.392Z",
     "strategy": ".content-card__main"
   }
 ];
