@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T07:57:00.302Z
+// Last updated: 2026-09-02T08:27:20.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「學霸港姐」許子萱進軍樂壇　進錄音室3小時硬撼十級難度新歌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171818538512420864186753.jpeg/cfkrJ11DoHzFi3hlJnikwd1hCbK0py85fleAaX5XgGk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386093/%E5%AD%B8%E9%9C%B8%E6%B8%AF%E5%A7%90-%E8%A8%B1%E5%AD%90%E8%90%B1%E9%80%B2%E8%BB%8D%E6%A8%82%E5%A3%87-%E9%80%B2%E9%8C%84%E9%9F%B3%E5%AE%A43%E5%B0%8F%E6%99%82%E7%A1%AC%E6%92%BC%E5%8D%81%E7%B4%9A%E9%9B%A3%E5%BA%A6%E6%96%B0%E6%AD%8C",
+    "timestamp": "2026-09-02T08:27:20.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石蔭宣道浸信會前司庫　涉18年間偷取2380元　被控21罪還押候訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220811/634465886513664000903241.png/sIl82bC7sJDf3vChcsZUY9mAeUxcZ8GrmKVdiJilXYg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/802088/8%E5%A4%A7%E9%81%8B%E5%8B%95%E7%A6%81%E5%BF%8C-%E6%97%A5%E5%B0%88%E5%AE%B6%E6%8C%87%E6%9C%9D%E6%97%A9%E9%A3%9F%E8%95%89%E7%82%BA%E5%A4%A7%E5%BF%8C-%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B18%E5%88%86%E9%90%98%E6%8F%90%E5%8D%87%E9%AB%94%E5%8A%9B",
     "timestamp": "2026-09-01T23:27:42.407Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "8月車企成績單出爐！　零跑「一騎絕塵」　極氪再創新高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251105/1062813404432961536584027.jpeg/aZjNcsdCmwL8NhKQKCkFTQvfpdQQEMSQVCmFKlQphSo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385933/8%E6%9C%88%E8%BB%8A%E4%BC%81%E6%88%90%E7%B8%BE%E5%96%AE%E5%87%BA%E7%88%90-%E9%9B%B6%E8%B7%91-%E4%B8%80%E9%A8%8E%E7%B5%95%E5%A1%B5-%E6%A5%B5%E6%B0%AA%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98",
-    "timestamp": "2026-09-01T23:17:39.894Z",
     "strategy": ".content-card__main"
   }
 ];
