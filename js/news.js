@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T17:16:06.089Z
+// Last updated: 2026-09-02T17:30:15.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙德爾風球最新｜天文台：一號風球早上維持　周五評須否改發3號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171873342584524800730256.jpeg/f9OUeUiVWVhdP3O3iuaWoZsgmCDpTMqf3MFex9zBXsc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385255/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83%E6%9C%80%E6%96%B0-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81-%E5%91%A8%E4%BA%94%E8%A9%95%E9%A0%88%E5%90%A6%E6%94%B9%E7%99%BC3%E8%99%9F",
+    "timestamp": "2026-09-02T17:30:15.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑業主大會｜居民質疑為何保險續期　引述合安稱會再安排上樓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171870349021679616970564.jpeg/zM2wFC46RhbLPOEZH0AFXaHOR-wUjCZpcdGJEXHRiRE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386205/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE-%E5%BE%A9%E6%B4%BB-%E6%9C%80%E6%97%A9%E5%91%A8%E5%9B%9B%E6%B1%95%E9%A0%AD%E8%87%B3%E6%83%A0%E5%B7%9E%E4%B8%80%E5%B8%B6%E7%99%BB%E9%99%B8-%E6%B7%B1%E5%9C%B3%E6%9C%89%E5%88%97%E8%BB%8A%E5%81%9C%E9%81%8B",
     "timestamp": "2026-09-02T09:53:35.078Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "星宇車燈解約107名應屆生董事長致歉　網民批：毫無誠意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171852280324952064320564.jpeg/Gu9k1CLIlvFB_JponpxsWL8m1SvFIhVPeVfdA3lX3QM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386161/%E6%98%9F%E5%AE%87%E8%BB%8A%E7%87%88%E8%A7%A3%E7%B4%84107%E5%90%8D%E6%87%89%E5%B1%86%E7%94%9F%E8%91%A3%E4%BA%8B%E9%95%B7%E8%87%B4%E6%AD%89-%E7%B6%B2%E6%B0%91%E6%89%B9-%E6%AF%AB%E7%84%A1%E8%AA%A0%E6%84%8F",
-    "timestamp": "2026-09-02T09:44:42.527Z",
     "strategy": ".content-card__main"
   }
 ];
