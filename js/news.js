@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T16:44:52.260Z
+// Last updated: 2026-09-02T16:53:59.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉兆銘離世｜羅淑佩致哀　將銘記其才華與奉獻精神",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1872899/org/00cc4f2c6dc87ec7604a4a20946c99ad.png/ogCsZPCwZwhQFruZI-2hlb-awl8Rw1ocIGv5GSBr-Rk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386316/%E5%8A%89%E5%85%86%E9%8A%98%E9%9B%A2%E4%B8%96-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%B4%E5%93%80-%E5%B0%87%E9%8A%98%E8%A8%98%E5%85%B6%E6%89%8D%E8%8F%AF%E8%88%87%E5%A5%89%E7%8D%BB%E7%B2%BE%E7%A5%9E",
+    "timestamp": "2026-09-02T16:53:59.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉兆銘離世｜羅淑佩致哀　將銘記其才華與奉獻精神",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171855533804621824573082.jpeg/2IIFSRcN2wCB6gFmKBu1SfDORHLlthbWeA9euXgPXrk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60386136/pok%C3%A9mon-run-30%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%AF%B6%E5%8F%AF%E5%A4%A2%E4%B8%BB%E9%A1%8C%E8%B7%91%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF%E7%A7%91%E5%AD%B8%E5%9C%92-%E9%99%84%E5%A0%B1%E5%90%8D%E6%94%BB%E7%95%A5",
     "timestamp": "2026-09-02T08:57:27.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡映匯最快明日開價　料下周開售　全新兩房連儲物室示位曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171854377737129984483791.jpeg/mmtuTd6JrMBYkdJ67geXLpuehWioq-zFWxWYZ1sVmGc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60386166/%E7%B4%85%E7%A3%A1%E6%98%A0%E5%8C%AF%E6%9C%80%E5%BF%AB%E6%98%8E%E6%97%A5%E9%96%8B%E5%83%B9-%E6%96%99%E4%B8%8B%E5%91%A8%E9%96%8B%E5%94%AE-%E5%85%A8%E6%96%B0%E5%85%A9%E6%88%BF%E9%80%A3%E5%84%B2%E7%89%A9%E5%AE%A4%E7%A4%BA%E4%BD%8D%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-09-02T08:47:00.952Z",
     "strategy": ".content-card__main"
   }
 ];
