@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T08:57:27.003Z
+// Last updated: 2026-09-02T09:44:42.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "星宇車燈解約107名應屆生董事長致歉　網民批：毫無誠意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171852280324952064320564.jpeg/Gu9k1CLIlvFB_JponpxsWL8m1SvFIhVPeVfdA3lX3QM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386161/%E6%98%9F%E5%AE%87%E8%BB%8A%E7%87%88%E8%A7%A3%E7%B4%84107%E5%90%8D%E6%87%89%E5%B1%86%E7%94%9F%E8%91%A3%E4%BA%8B%E9%95%B7%E8%87%B4%E6%AD%89-%E7%B6%B2%E6%B0%91%E6%89%B9-%E6%AF%AB%E7%84%A1%E8%AA%A0%E6%84%8F",
+    "timestamp": "2026-09-02T09:44:42.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Pokémon Run 30懶人包｜寶可夢主題跑登陸香港科學園！附報名攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164900075067936768124739.jpeg/KRMxoWHvHgLtklkd6fE65Nw8-pVMLOWiP_VATz_1QE8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60379926/%E8%A8%97%E4%BB%98%E6%84%9B%E8%B2%93%E8%A6%81%E6%BA%96%E5%82%99%E5%B9%BE%E5%A4%9A%E9%8C%A2-%E9%A4%8A%E8%B2%93%E7%B5%82%E8%80%81%E9%A0%90%E7%AE%97%E5%A4%A7%E5%85%AC%E9%96%8B-%E6%8F%AD%E5%B9%B3%E5%83%B9%E8%A8%97%E7%AE%A1%E6%A9%9F%E6%A7%8B%E9%99%B7%E9%98%B1",
     "timestamp": "2026-09-02T00:49:07.532Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秘魯宣布與伊朗斷交　指一再威脅中東穩定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230507/732024472281812992195347.jpeg/_JqSWEQZjh_aGBLRw0EdgedkEmLCAkgic7XNpnO1zaY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385935/%E7%A7%98%E9%AD%AF%E5%AE%A3%E5%B8%83%E8%88%87%E4%BC%8A%E6%9C%97%E6%96%B7%E4%BA%A4-%E6%8C%87%E4%B8%80%E5%86%8D%E5%A8%81%E8%84%85%E4%B8%AD%E6%9D%B1%E7%A9%A9%E5%AE%9A",
-    "timestamp": "2026-09-01T23:53:46.293Z",
     "strategy": ".content-card__main"
   }
 ];
