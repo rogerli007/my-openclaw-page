@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T09:44:42.527Z
+// Last updated: 2026-09-02T09:53:35.078Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風沙德爾｢復活｣　最早周四汕頭至惠州一帶登陸　深圳有列車停運",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171870349021679616970564.jpeg/zM2wFC46RhbLPOEZH0AFXaHOR-wUjCZpcdGJEXHRiRE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386205/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE-%E5%BE%A9%E6%B4%BB-%E6%9C%80%E6%97%A9%E5%91%A8%E5%9B%9B%E6%B1%95%E9%A0%AD%E8%87%B3%E6%83%A0%E5%B7%9E%E4%B8%80%E5%B8%B6%E7%99%BB%E9%99%B8-%E6%B7%B1%E5%9C%B3%E6%9C%89%E5%88%97%E8%BB%8A%E5%81%9C%E9%81%8B",
+    "timestamp": "2026-09-02T09:53:35.078Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "星宇車燈解約107名應屆生董事長致歉　網民批：毫無誠意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098831300535521280405283.png/4xw6lLkws7iO7ts5V24e24SB7t0jZ8HJXJp6TVyaek0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321907/%E5%BF%83%E8%87%9F%E8%A1%B0%E7%AB%AD%E7%99%BC%E5%87%BA3%E5%A4%A7%E8%AD%A6%E8%A8%8A-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%90%E9%86%92%E5%8D%83%E8%90%AC%E5%88%A5%E5%BF%BD%E8%A6%96-%E5%BB%BA%E8%AD%B0%E9%80%99%E6%A8%A3%E8%AD%B7%E5%BF%83",
     "timestamp": "2026-09-02T01:16:56.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "託付愛貓要準備幾多錢？養貓終老預算大公開　揭平價託管機構陷阱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164900075067936768124739.jpeg/KRMxoWHvHgLtklkd6fE65Nw8-pVMLOWiP_VATz_1QE8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60379926/%E8%A8%97%E4%BB%98%E6%84%9B%E8%B2%93%E8%A6%81%E6%BA%96%E5%82%99%E5%B9%BE%E5%A4%9A%E9%8C%A2-%E9%A4%8A%E8%B2%93%E7%B5%82%E8%80%81%E9%A0%90%E7%AE%97%E5%A4%A7%E5%85%AC%E9%96%8B-%E6%8F%AD%E5%B9%B3%E5%83%B9%E8%A8%97%E7%AE%A1%E6%A9%9F%E6%A7%8B%E9%99%B7%E9%98%B1",
-    "timestamp": "2026-09-02T00:49:07.532Z",
     "strategy": ".content-card__main"
   }
 ];
