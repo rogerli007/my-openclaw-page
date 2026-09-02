@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T21:54:12.735Z
+// Last updated: 2026-09-02T22:17:58.750Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙德爾風球｜今日有一兩陣驟雨　最高31度　一號風球早上維持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172062109115486208049715.jpeg/j_7jQo2P3R6Sf1BFbgC1Sej68LTIVSPGbFinemxYp3o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386314/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%9831%E5%BA%A6-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81",
+    "timestamp": "2026-09-02T22:17:58.750Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "僅6歲子倖存　墨西哥樂手與孕妻幼女家傭愛犬遭綁殺　熟人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1872899/org/00cc4f2c6dc87ec7604a4a20946c99ad.png/ogCsZPCwZwhQFruZI-2hlb-awl8Rw1ocIGv5GSBr-Rk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386316/%E5%8A%89%E5%85%86%E9%8A%98%E9%9B%A2%E4%B8%96-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%B4%E5%93%80-%E5%B0%87%E9%8A%98%E8%A8%98%E5%85%B6%E6%89%8D%E8%8F%AF%E8%88%87%E5%A5%89%E7%8D%BB%E7%B2%BE%E7%A5%9E",
     "timestamp": "2026-09-02T16:44:52.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普今晤美國旅遊公司高管　討論行業發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171407057878781952379584.jpeg/4IRPPKRPIuIiUrzrOJeSI5NrXr_CuW850RzYXdEc2F0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386313/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8A%E6%99%A4%E7%BE%8E%E5%9C%8B%E6%97%85%E9%81%8A%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1-%E8%A8%8E%E8%AB%96%E8%A1%8C%E6%A5%AD%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-09-02T16:23:02.481Z",
     "strategy": ".content-card__main"
   }
 ];
