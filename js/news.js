@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T04:25:23.452Z
+// Last updated: 2026-09-02T04:46:37.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳觀泰離世｜歷4段婚姻曾與黃造時拍拖　73歲娶細30年太太極甜蜜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171798302778200064635417.jpeg/yvyszZYbwoAiEwj1BPvrsbR9OQOTdQ6XhTKa5YUymuU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386051/%E9%99%B3%E8%A7%80%E6%B3%B0%E9%9B%A2%E4%B8%96-%E6%AD%B74%E6%AE%B5%E5%A9%9A%E5%A7%BB%E6%9B%BE%E8%88%87%E9%BB%83%E9%80%A0%E6%99%82%E6%8B%8D%E6%8B%96-73%E6%AD%B2%E5%A8%B6%E7%B4%B030%E5%B9%B4%E5%A4%AA%E5%A4%AA%E6%A5%B5%E7%94%9C%E8%9C%9C",
+    "timestamp": "2026-09-02T04:46:37.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳觀泰離世｜去年精神飽滿說話清晰　曾自爆紅白血球失衡險死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-01T21:30:13.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-01T21:18:17.154Z",
     "strategy": ".content-card__main"
   }
 ];
