@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T13:21:04.659Z
+// Last updated: 2026-09-02T13:43:59.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜放蛇被按摩淫窟女技師除褲推前列腺　街頭上演雞飛狗走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171935164738048000704823.jpeg/Uizjwedb8Ls6nGp9LlAL2U_A5pwqwEOW2ul02NrpdNg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386283/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%94%BE%E8%9B%87%E8%A2%AB%E6%8C%89%E6%91%A9%E6%B7%AB%E7%AA%9F%E5%A5%B3%E6%8A%80%E5%B8%AB%E9%99%A4%E8%A4%B2%E6%8E%A8%E5%89%8D%E5%88%97%E8%85%BA-%E8%A1%97%E9%A0%AD%E4%B8%8A%E6%BC%94%E9%9B%9E%E9%A3%9B%E7%8B%97%E8%B5%B0",
+    "timestamp": "2026-09-02T13:43:59.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑業主大會｜核數報告出錯　上次大會否決　核數師請辭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150844473597497344490672.jpeg/plycEfAQCZe7f06L8TZ8tlxPYOfNkwUeF--diBfvnYg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385976/%E6%B8%AF%E9%90%B5%E5%B1%AF%E9%96%80%E7%AC%AC16%E5%8D%802%E6%9C%9F%E5%B7%A8%E7%84%A1%E9%9C%B8%E4%BB%8A%E6%88%AA%E6%A8%99-%E6%9A%AB%E6%94%B63%E4%BB%BD%E6%A8%99%E6%9B%B8-%E6%96%B0%E5%9C%B0-%E6%81%92%E5%9C%B0%E7%AB%B6%E6%8A%95",
     "timestamp": "2026-09-02T05:20:53.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小一自行分配學位27/28｜學額出爐手持15分點部署？附5大填表攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171801629347811328071632.jpeg/qcCj4FnIhhv4kNi2ODtaoOL8V9_qiUTGvi5oC74uaAs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60386060/%E5%B0%8F%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D27-28-%E5%AD%B8%E9%A1%8D%E5%87%BA%E7%88%90%E6%89%8B%E6%8C%8115%E5%88%86%E9%BB%9E%E9%83%A8%E7%BD%B2-%E9%99%845%E5%A4%A7%E5%A1%AB%E8%A1%A8%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-09-02T04:56:58.585Z",
     "strategy": ".content-card__main"
   }
 ];
