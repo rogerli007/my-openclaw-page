@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T02:54:49.608Z
+// Last updated: 2026-09-02T03:45:50.822Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜尼泊爾8歲男童爬樹求生被獲救 母親失而復得終重逢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171575733399588864058246.jpeg/1kh5aRpH0mQloWeAANMLuknpKEHTTTCyYeg-yWHoPsk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60385873/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE8%E6%AD%B2%E7%94%B7%E7%AB%A5%E7%88%AC%E6%A8%B9%E6%B1%82%E7%94%9F%E8%A2%AB%E7%8D%B2%E6%95%91-%E6%AF%8D%E8%A6%AA%E5%A4%B1%E8%80%8C%E5%BE%A9%E5%BE%97%E7%B5%82%E9%87%8D%E9%80%A2",
+    "timestamp": "2026-09-02T03:45:50.822Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不再免稅！中國取消外籍個人股息紅利免稅政策　即日起按20%徵稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171677441542852608681532.jpeg/aRb3SIEViwStShgMXBI9YQvseJNcBCyyCrALawqwC2s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385921/%E5%A4%A7%E5%9F%94%E4%BD%8F%E5%AE%85%E5%96%AE%E4%BD%8D%E8%AE%8A%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-32%E4%BA%BA%E8%A2%AB%E6%8D%95%E5%B9%B4%E7%B4%80%E6%9C%80%E5%A4%A791%E6%AD%B2",
     "timestamp": "2026-09-01T20:41:49.439Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗據指再攻擊美軍基地　稱美方行動令霍爾木茲海峽進一步封鎖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220717/625290084580593664582076.jpeg/sKBfNMoTTPAWOjErbcVtHgas7RjFhE0rpruOj6a7jo8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385917/%E4%BC%8A%E6%9C%97%E6%93%9A%E6%8C%87%E5%86%8D%E6%94%BB%E6%93%8A%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E7%A8%B1%E7%BE%8E%E6%96%B9%E8%A1%8C%E5%8B%95%E4%BB%A4%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%80%B2%E4%B8%80%E6%AD%A5%E5%B0%81%E9%8E%96",
-    "timestamp": "2026-09-01T20:20:25.665Z",
     "strategy": ".content-card__main"
   }
 ];
