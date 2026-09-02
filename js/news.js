@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T21:41:28.448Z
+// Last updated: 2026-09-02T21:54:12.735Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "僅6歲子倖存　墨西哥樂手與孕妻幼女家傭愛犬遭綁殺　熟人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172050590084108288156082.png/_yjbex1-EfP_mt5w6hhhFfQqtd5UVRmf860n1fOtJ9U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386334/%E5%83%856%E6%AD%B2%E5%AD%90%E5%80%96%E5%AD%98-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%A8%82%E6%89%8B%E8%88%87%E5%AD%95%E5%A6%BB%E5%B9%BC%E5%A5%B3%E5%AE%B6%E5%82%AD%E6%84%9B%E7%8A%AC%E9%81%AD%E7%B6%81%E6%AE%BA-%E7%86%9F%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-02T21:54:12.735Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "僅6歲子倖存　墨西哥樂手與孕妻幼女家傭愛犬遭綁殺　熟人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171407057878781952379584.jpeg/4IRPPKRPIuIiUrzrOJeSI5NrXr_CuW850RzYXdEc2F0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386313/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8A%E6%99%A4%E7%BE%8E%E5%9C%8B%E6%97%85%E9%81%8A%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1-%E8%A8%8E%E8%AB%96%E8%A1%8C%E6%A5%AD%E7%99%BC%E5%B1%95",
     "timestamp": "2026-09-02T16:23:02.481Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜灣仔奧迪司機圖切線　開鄰線的士門得逞　目擊者嘲有創意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171962762495004672728160.jpeg/uGzy0jClsw7NzJMEzbLrGiZfnV10cn72IZ-LOyGfizs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386308/%E8%BB%8Acam-%E7%81%A3%E4%BB%94%E5%A5%A7%E8%BF%AA%E5%8F%B8%E6%A9%9F%E5%9C%96%E5%88%87%E7%B7%9A-%E9%96%8B%E9%84%B0%E7%B7%9A%E7%9A%84%E5%A3%AB%E9%96%80%E5%BE%97%E9%80%9E-%E7%9B%AE%E6%93%8A%E8%80%85%E5%98%B2%E6%9C%89%E5%89%B5%E6%84%8F",
-    "timestamp": "2026-09-02T15:54:53.957Z",
     "strategy": ".content-card__main"
   }
 ];
