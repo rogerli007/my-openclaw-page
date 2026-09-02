@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T07:04:34.344Z
+// Last updated: 2026-09-02T07:29:11.430Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "戶口被用以收宏福苑騙款案　法官同意廚師囚11月過重　下調至7月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070796762697961472785126.jpeg/J1vy0andnnJtwAcuDwNHAlkFMT4FdN6tp2U5HJ1lORw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386133/%E6%88%B6%E5%8F%A3%E8%A2%AB%E7%94%A8%E4%BB%A5%E6%94%B6%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%A8%99%E6%AC%BE%E6%A1%88-%E6%B3%95%E5%AE%98%E5%90%8C%E6%84%8F%E5%BB%9A%E5%B8%AB%E5%9B%9A11%E6%9C%88%E9%81%8E%E9%87%8D-%E4%B8%8B%E8%AA%BF%E8%87%B37%E6%9C%88",
+    "timestamp": "2026-09-02T07:29:11.430Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新《國防動員法》可徵收台企資產？國台辦：依法保障合法權益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171531373425463296643821.jpeg/LaepxCPDfuDGxWfmlZTHf0EOPXfP22w_WAXSp1gF0qc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385749/%E6%9D%8E%E5%98%89%E6%AC%A315%E6%AD%B2%E4%BB%94%E8%A8%B1%E5%BB%BA%E5%BD%A4%E9%81%BA%E5%82%B3%E5%BC%B7%E5%A4%A7%E7%BE%8E%E8%B2%8C-%E8%BA%AB%E9%AB%98%E7%9B%B4%E8%BF%AB%E7%B1%B3%E4%B9%9D%E5%8B%81%E5%A4%A7%E9%9A%BB-%E5%B8%A5%E5%BE%88%E5%A4%9A",
     "timestamp": "2026-09-01T22:41:29.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京否認無人機襲萊比錫機場　北約及歐洲多國聲援德國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171702336628723712521034.jpeg/C30g72-47zTO-hS_9wXpK1b9JXdD1Z7fV-7tnVfu7Z0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385926/%E6%99%AE%E4%BA%AC%E5%90%A6%E8%AA%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E8%90%8A%E6%AF%94%E9%8C%AB%E6%A9%9F%E5%A0%B4-%E5%8C%97%E7%B4%84%E5%8F%8A%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E8%81%B2%E6%8F%B4%E5%BE%B7%E5%9C%8B",
-    "timestamp": "2026-09-01T22:29:22.162Z",
     "strategy": ".content-card__main"
   }
 ];
