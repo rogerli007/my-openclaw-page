@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T08:27:20.894Z
+// Last updated: 2026-09-02T08:47:00.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡映匯最快明日開價　料下周開售　全新兩房連儲物室示位曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171854377737129984483791.jpeg/mmtuTd6JrMBYkdJ67geXLpuehWioq-zFWxWYZ1sVmGc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60386166/%E7%B4%85%E7%A3%A1%E6%98%A0%E5%8C%AF%E6%9C%80%E5%BF%AB%E6%98%8E%E6%97%A5%E9%96%8B%E5%83%B9-%E6%96%99%E4%B8%8B%E5%91%A8%E9%96%8B%E5%94%AE-%E5%85%A8%E6%96%B0%E5%85%A9%E6%88%BF%E9%80%A3%E5%84%B2%E7%89%A9%E5%AE%A4%E7%A4%BA%E4%BD%8D%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-09-02T08:47:00.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「學霸港姐」許子萱進軍樂壇　進錄音室3小時硬撼十級難度新歌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220811/634465886513664000903241.png/sIl82bC7sJDf3vChcsZUY9mAeUxcZ8GrmKVdiJilXYg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/802088/8%E5%A4%A7%E9%81%8B%E5%8B%95%E7%A6%81%E5%BF%8C-%E6%97%A5%E5%B0%88%E5%AE%B6%E6%8C%87%E6%9C%9D%E6%97%A9%E9%A3%9F%E8%95%89%E7%82%BA%E5%A4%A7%E5%BF%8C-%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B18%E5%88%86%E9%90%98%E6%8F%90%E5%8D%87%E9%AB%94%E5%8A%9B",
     "timestamp": "2026-09-01T23:40:31.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "8大運動禁忌｜日專家指朝早食蕉為大忌?! 教你一招18分鐘提升體力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220811/634465886513664000903241.png/sIl82bC7sJDf3vChcsZUY9mAeUxcZ8GrmKVdiJilXYg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/802088/8%E5%A4%A7%E9%81%8B%E5%8B%95%E7%A6%81%E5%BF%8C-%E6%97%A5%E5%B0%88%E5%AE%B6%E6%8C%87%E6%9C%9D%E6%97%A9%E9%A3%9F%E8%95%89%E7%82%BA%E5%A4%A7%E5%BF%8C-%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B18%E5%88%86%E9%90%98%E6%8F%90%E5%8D%87%E9%AB%94%E5%8A%9B",
-    "timestamp": "2026-09-01T23:27:42.407Z",
     "strategy": ".content-card__main"
   }
 ];
