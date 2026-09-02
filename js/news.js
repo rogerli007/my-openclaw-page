@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T17:42:14.463Z
+// Last updated: 2026-09-02T18:25:23.713Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門元朗打擊非法賣淫　31女被捕　年紀最輕16歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172001641361051648093542.jpeg/DVbozhX8-0lLvnq8GkbmULlz8wfF_gp3Eh8V8BIfFfA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386322/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%83%E6%9C%97%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E8%B3%A3%E6%B7%AB-31%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E8%BC%9516%E6%AD%B2",
+    "timestamp": "2026-09-02T18:25:23.713Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大角咀的士撞私家車推前撼日產　男子被兩車夾傷送院　司機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171888560836448256956170.png/Czj3w5U21TL6_rvEUuk21VzSa_vIpD4UHdex0x3XsdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60386194/%E8%A1%8C%E6%9D%8E%E7%AE%B1%E9%A0%82%E9%83%A8%E7%A5%9E%E7%A7%98%E6%8B%89%E5%B8%B6%E6%80%8E%E9%BA%BC%E7%94%A8-%E7%B6%B2%E6%B0%91%E6%8F%AD%E7%A5%9E%E5%8A%9F%E8%83%BD-%E9%96%8B%E5%A4%96%E6%8E%9B%E8%B2%B7%E5%A4%9A10kg%E6%88%B0%E5%88%A9%E5%93%81",
     "timestamp": "2026-09-02T10:44:34.693Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "耀才創辦人葉茂林妻等人2億沽薄扶林全幢住宅　14年帳近平手離場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997518887765413888748510.jpeg/jGX0WZZzZhNZn58QW7qmEQ1kjdosGWGVakD8tGpA_LQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60386233/%E8%80%80%E6%89%8D%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%91%89%E8%8C%82%E6%9E%97%E5%A6%BB%E7%AD%89%E4%BA%BA2%E5%84%84%E6%B2%BD%E8%96%84%E6%89%B6%E6%9E%97%E5%85%A8%E5%B9%A2%E4%BD%8F%E5%AE%85-14%E5%B9%B4%E5%B8%B3%E8%BF%91%E5%B9%B3%E6%89%8B%E9%9B%A2%E5%A0%B4",
-    "timestamp": "2026-09-02T10:22:05.708Z",
     "strategy": ".content-card__main"
   }
 ];
