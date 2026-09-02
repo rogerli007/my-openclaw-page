@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-01T23:53:46.293Z
+// Last updated: 2026-09-02T00:49:07.532Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "託付愛貓要準備幾多錢？養貓終老預算大公開　揭平價託管機構陷阱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164900075067936768124739.jpeg/KRMxoWHvHgLtklkd6fE65Nw8-pVMLOWiP_VATz_1QE8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%B5%E7%89%A9/60379926/%E8%A8%97%E4%BB%98%E6%84%9B%E8%B2%93%E8%A6%81%E6%BA%96%E5%82%99%E5%B9%BE%E5%A4%9A%E9%8C%A2-%E9%A4%8A%E8%B2%93%E7%B5%82%E8%80%81%E9%A0%90%E7%AE%97%E5%A4%A7%E5%85%AC%E9%96%8B-%E6%8F%AD%E5%B9%B3%E5%83%B9%E8%A8%97%E7%AE%A1%E6%A9%9F%E6%A7%8B%E9%99%B7%E9%98%B1",
+    "timestamp": "2026-09-02T00:49:07.532Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秘魯宣布與伊朗斷交　指一再威脅中東穩定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385914/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%96%B0%E4%B8%80%E8%BC%AA%E6%89%93%E6%93%8A%E6%AD%A3%E7%95%B6-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%A0%B1%E5%BE%A9%E5%B0%87%E8%A2%AB%E6%9B%B4%E7%8C%9B%E7%83%88%E6%94%BB%E5%8B%A2",
     "timestamp": "2026-09-01T19:17:49.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍宣布開始空襲伊朗境內革命衛隊目標　伊媒：多地發生爆炸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164879374705496064739280.jpeg/QtfZ8dIboa4nPXBKXlyOqjJ-TWY714xEf4LR8H-C0fA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385906/%E7%BE%8E%E8%BB%8D%E5%AE%A3%E5%B8%83%E9%96%8B%E5%A7%8B%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E5%A2%83%E5%85%A7%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E7%9B%AE%E6%A8%99-%E4%BC%8A%E5%AA%92-%E5%A4%9A%E5%9C%B0%E7%99%BC%E7%94%9F%E7%88%86%E7%82%B8",
-    "timestamp": "2026-09-01T18:54:47.064Z",
     "strategy": ".content-card__main"
   }
 ];
