@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T07:44:54.133Z
+// Last updated: 2026-09-02T07:57:00.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石蔭宣道浸信會前司庫　涉18年間偷取2380元　被控21罪還押候訊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148576910998507520796451.jpeg/PMVGwH9iec3Oz-8j5dbJrthiP0DmBPm-esOMpl_DjKY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386159/%E7%9F%B3%E8%94%AD%E5%AE%A3%E9%81%93%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%89%8D%E5%8F%B8%E5%BA%AB-%E6%B6%8918%E5%B9%B4%E9%96%93%E5%81%B7%E5%8F%962380%E5%85%83-%E8%A2%AB%E6%8E%A721%E7%BD%AA%E9%82%84%E6%8A%BC%E5%80%99%E8%A8%8A",
+    "timestamp": "2026-09-02T07:57:00.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "挪威新國王哈康八世宣誓效忠憲法　公主陪同　王后因術後休養缺席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251105/1062813404432961536584027.jpeg/aZjNcsdCmwL8NhKQKCkFTQvfpdQQEMSQVCmFKlQphSo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385933/8%E6%9C%88%E8%BB%8A%E4%BC%81%E6%88%90%E7%B8%BE%E5%96%AE%E5%87%BA%E7%88%90-%E9%9B%B6%E8%B7%91-%E4%B8%80%E9%A8%8E%E7%B5%95%E5%A1%B5-%E6%A5%B5%E6%B0%AA%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98",
     "timestamp": "2026-09-01T23:17:39.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港姐冠軍與富商15歲仔遺傳強大美貌　身高直迫米九勁大隻：帥很多",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171531373425463296643821.jpeg/LaepxCPDfuDGxWfmlZTHf0EOPXfP22w_WAXSp1gF0qc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385749/%E6%9D%8E%E5%98%89%E6%AC%A315%E6%AD%B2%E4%BB%94%E8%A8%B1%E5%BB%BA%E5%BD%A4%E9%81%BA%E5%82%B3%E5%BC%B7%E5%A4%A7%E7%BE%8E%E8%B2%8C-%E8%BA%AB%E9%AB%98%E7%9B%B4%E8%BF%AB%E7%B1%B3%E4%B9%9D%E5%8B%81%E5%A4%A7%E9%9A%BB-%E5%B8%A5%E5%BE%88%E5%A4%9A",
-    "timestamp": "2026-09-01T22:54:18.966Z",
     "strategy": ".content-card__main"
   }
 ];
