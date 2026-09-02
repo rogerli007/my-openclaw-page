@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T15:54:53.957Z
+// Last updated: 2026-09-02T16:23:02.481Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普今晤美國旅遊公司高管　討論行業發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171407057878781952379584.jpeg/4IRPPKRPIuIiUrzrOJeSI5NrXr_CuW850RzYXdEc2F0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386313/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8A%E6%99%A4%E7%BE%8E%E5%9C%8B%E6%97%85%E9%81%8A%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1-%E8%A8%8E%E8%AB%96%E8%A1%8C%E6%A5%AD%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-09-02T16:23:02.481Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜灣仔奧迪司機圖切線　開鄰線的士門得逞　目擊者嘲有創意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171818538512420864186753.jpeg/cfkrJ11DoHzFi3hlJnikwd1hCbK0py85fleAaX5XgGk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386093/%E5%AD%B8%E9%9C%B8%E6%B8%AF%E5%A7%90-%E8%A8%B1%E5%AD%90%E8%90%B1%E9%80%B2%E8%BB%8D%E6%A8%82%E5%A3%87-%E9%80%B2%E9%8C%84%E9%9F%B3%E5%AE%A43%E5%B0%8F%E6%99%82%E7%A1%AC%E6%92%BC%E5%8D%81%E7%B4%9A%E9%9B%A3%E5%BA%A6%E6%96%B0%E6%AD%8C",
     "timestamp": "2026-09-02T08:27:20.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石蔭宣道浸信會前司庫　涉18年間偷取2380元　被控21罪還押候訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148576910998507520796451.jpeg/PMVGwH9iec3Oz-8j5dbJrthiP0DmBPm-esOMpl_DjKY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386159/%E7%9F%B3%E8%94%AD%E5%AE%A3%E9%81%93%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%89%8D%E5%8F%B8%E5%BA%AB-%E6%B6%8918%E5%B9%B4%E9%96%93%E5%81%B7%E5%8F%962380%E5%85%83-%E8%A2%AB%E6%8E%A721%E7%BD%AA%E9%82%84%E6%8A%BC%E5%80%99%E8%A8%8A",
-    "timestamp": "2026-09-02T07:57:00.302Z",
     "strategy": ".content-card__main"
   }
 ];
