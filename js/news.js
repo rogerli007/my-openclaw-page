@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T07:29:11.430Z
+// Last updated: 2026-09-02T07:44:54.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "挪威新國王哈康八世宣誓效忠憲法　公主陪同　王后因術後休養缺席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171816942948847616210456.png/dZ7LP-eo_UawmyxOj_dxuh-YgXJwYOpZ1_pDzNf6Q8w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386090/%E6%8C%AA%E5%A8%81%E6%96%B0%E5%9C%8B%E7%8E%8B%E5%93%88%E5%BA%B7%E5%85%AB%E4%B8%96%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0%E6%86%B2%E6%B3%95-%E5%85%AC%E4%B8%BB%E9%99%AA%E5%90%8C-%E7%8E%8B%E5%90%8E%E5%9B%A0%E8%A1%93%E5%BE%8C%E4%BC%91%E9%A4%8A%E7%BC%BA%E5%B8%AD",
+    "timestamp": "2026-09-02T07:44:54.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "戶口被用以收宏福苑騙款案　法官同意廚師囚11月過重　下調至7月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171531373425463296643821.jpeg/LaepxCPDfuDGxWfmlZTHf0EOPXfP22w_WAXSp1gF0qc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385749/%E6%9D%8E%E5%98%89%E6%AC%A315%E6%AD%B2%E4%BB%94%E8%A8%B1%E5%BB%BA%E5%BD%A4%E9%81%BA%E5%82%B3%E5%BC%B7%E5%A4%A7%E7%BE%8E%E8%B2%8C-%E8%BA%AB%E9%AB%98%E7%9B%B4%E8%BF%AB%E7%B1%B3%E4%B9%9D%E5%8B%81%E5%A4%A7%E9%9A%BB-%E5%B8%A5%E5%BE%88%E5%A4%9A",
     "timestamp": "2026-09-01T22:54:18.966Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港姐冠軍與富商15歲仔遺傳強大美貌　身高直迫米九勁大隻：帥很多",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171531373425463296643821.jpeg/LaepxCPDfuDGxWfmlZTHf0EOPXfP22w_WAXSp1gF0qc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385749/%E6%9D%8E%E5%98%89%E6%AC%A315%E6%AD%B2%E4%BB%94%E8%A8%B1%E5%BB%BA%E5%BD%A4%E9%81%BA%E5%82%B3%E5%BC%B7%E5%A4%A7%E7%BE%8E%E8%B2%8C-%E8%BA%AB%E9%AB%98%E7%9B%B4%E8%BF%AB%E7%B1%B3%E4%B9%9D%E5%8B%81%E5%A4%A7%E9%9A%BB-%E5%B8%A5%E5%BE%88%E5%A4%9A",
-    "timestamp": "2026-09-01T22:41:29.077Z",
     "strategy": ".content-card__main"
   }
 ];
