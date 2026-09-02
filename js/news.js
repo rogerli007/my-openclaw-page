@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T20:42:19.131Z
+// Last updated: 2026-09-02T20:53:53.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警觀塘發現可疑私家車　檢獲$1.3萬毒品包括依托咪酯　18歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172037301522403328071892.jpeg/jaEXCLfACY1vlwi2xDrOIIgrj3kENqovvjBWGoQwVho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386331/%E8%AD%A6%E8%A7%80%E5%A1%98%E7%99%BC%E7%8F%BE%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%AA%A2%E7%8D%B2-1-3%E8%90%AC%E6%AF%92%E5%93%81%E5%8C%85%E6%8B%AC%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF-18%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-02T20:53:53.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警觀塘發現可疑私家車　檢獲$1.3萬毒品包括依托咪酯　18歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171842041294884864549306.jpeg/K1vx5gCDbIi7KwTFjc9pmw60Y2CAsKq-hpVpJ4aVaSc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386126/golden-child%E4%B8%BB%E5%94%B1%E5%B4%94%E8%AA%A0%E5%85%81%E9%A6%96%E6%8E%A8%E7%B2%B5%E8%AA%9E%E5%96%AE%E6%9B%B2-9%E6%9C%8810%E6%97%A5%E8%A7%80%E5%A1%98apm%E8%88%89%E8%A1%8C%E7%99%BC%E5%B8%83%E6%9C%83",
     "timestamp": "2026-09-02T14:21:00.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警搗長沙灣道非法釣魚機賭場　拘8人包括一主持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171935844861218816605497.png/r52EwTO2moHv4G9hkN0FNbcTagUVK6jq8LMq5PCzKuQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386286/%E8%AD%A6%E6%90%97%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%93%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E5%A0%B4-%E6%8B%988%E4%BA%BA%E5%8C%85%E6%8B%AC%E4%B8%80%E4%B8%BB%E6%8C%81",
-    "timestamp": "2026-09-02T13:53:38.523Z",
     "strategy": ".content-card__main"
   }
 ];
