@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T03:45:50.822Z
+// Last updated: 2026-09-02T03:54:35.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "告別「子涵梓萱」　內地潮興用詩詞典故取名　廣東人愛起什麼名？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171776794060132352419352.jpeg/HP6aat65pkq3C_hoTre1BxhIb4FipTIRXkomwF5KJsA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60385979/%E5%91%8A%E5%88%A5-%E5%AD%90%E6%B6%B5%E6%A2%93%E8%90%B1-%E5%85%A7%E5%9C%B0%E6%BD%AE%E8%88%88%E7%94%A8%E8%A9%A9%E8%A9%9E%E5%85%B8%E6%95%85%E5%8F%96%E5%90%8D-%E5%BB%A3%E6%9D%B1%E4%BA%BA%E6%84%9B%E8%B5%B7%E4%BB%80%E9%BA%BC%E5%90%8D",
+    "timestamp": "2026-09-02T03:54:35.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜尼泊爾8歲男童爬樹求生被獲救 母親失而復得終重逢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240324/848399188285722624639125.jpeg/LZSP8McQQZhINVzM72iLRVwItXJ15ZiXLo6GjS6Oho0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385920/%E9%81%BF%E5%85%8D%E6%94%BF%E5%BA%9C%E5%81%9C%E6%93%BA-%E8%87%A8%E6%99%82%E9%96%8B%E6%94%AF%E6%B3%95%E6%A1%88%E7%8D%B2%E7%BE%8E%E5%9C%8B%E7%9C%BE%E8%AD%B0%E9%99%A2%E9%80%9A%E9%81%8E-%E5%B7%B2%E9%80%81%E4%BA%A4%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E7%BD%B2",
     "timestamp": "2026-09-01T20:55:26.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔住宅單位變地下竹館　32人被捕年紀最大91歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171677441542852608681532.jpeg/aRb3SIEViwStShgMXBI9YQvseJNcBCyyCrALawqwC2s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385921/%E5%A4%A7%E5%9F%94%E4%BD%8F%E5%AE%85%E5%96%AE%E4%BD%8D%E8%AE%8A%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-32%E4%BA%BA%E8%A2%AB%E6%8D%95%E5%B9%B4%E7%B4%80%E6%9C%80%E5%A4%A791%E6%AD%B2",
-    "timestamp": "2026-09-01T20:41:49.439Z",
     "strategy": ".content-card__main"
   }
 ];
