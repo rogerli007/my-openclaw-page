@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T13:43:59.873Z
+// Last updated: 2026-09-02T13:53:38.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警搗長沙灣道非法釣魚機賭場　拘8人包括一主持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171935844861218816605497.png/r52EwTO2moHv4G9hkN0FNbcTagUVK6jq8LMq5PCzKuQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386286/%E8%AD%A6%E6%90%97%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%93%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E5%A0%B4-%E6%8B%988%E4%BA%BA%E5%8C%85%E6%8B%AC%E4%B8%80%E4%B8%BB%E6%8C%81",
+    "timestamp": "2026-09-02T13:53:38.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜放蛇被按摩淫窟女技師除褲推前列腺　街頭上演雞飛狗走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171810647227240448892015.jpeg/yt5ua0UW3_YJZuQbW6HbiBruPKM1D166Bfw0EyD8NBM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386071/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E5%85%AC%E5%B1%8B%E8%81%AF%E6%9C%83%E5%86%8D%E6%8F%90%E5%87%86%E6%8F%90%E5%8F%96%E9%83%A8%E4%BB%BD%E5%BC%B7%E7%A9%8D%E9%87%91%E8%B2%B7%E6%A8%93-%E4%B9%9F%E5%80%A1%E5%8A%A0%E5%BF%AB%E5%85%AC%E5%B1%8B%E9%87%8D%E5%BB%BA",
     "timestamp": "2026-09-02T05:54:17.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵屯門第16區2期巨無霸今截標　暫收3份標書　新地、恒地競投",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150844473597497344490672.jpeg/plycEfAQCZe7f06L8TZ8tlxPYOfNkwUeF--diBfvnYg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385976/%E6%B8%AF%E9%90%B5%E5%B1%AF%E9%96%80%E7%AC%AC16%E5%8D%802%E6%9C%9F%E5%B7%A8%E7%84%A1%E9%9C%B8%E4%BB%8A%E6%88%AA%E6%A8%99-%E6%9A%AB%E6%94%B63%E4%BB%BD%E6%A8%99%E6%9B%B8-%E6%96%B0%E5%9C%B0-%E6%81%92%E5%9C%B0%E7%AB%B6%E6%8A%95",
-    "timestamp": "2026-09-02T05:20:53.188Z",
     "strategy": ".content-card__main"
   }
 ];
