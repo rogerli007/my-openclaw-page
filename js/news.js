@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T16:23:02.481Z
+// Last updated: 2026-09-02T16:44:52.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉兆銘離世｜羅淑佩致哀　將銘記其才華與奉獻精神",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1872899/org/00cc4f2c6dc87ec7604a4a20946c99ad.png/ogCsZPCwZwhQFruZI-2hlb-awl8Rw1ocIGv5GSBr-Rk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386316/%E5%8A%89%E5%85%86%E9%8A%98%E9%9B%A2%E4%B8%96-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%B4%E5%93%80-%E5%B0%87%E9%8A%98%E8%A8%98%E5%85%B6%E6%89%8D%E8%8F%AF%E8%88%87%E5%A5%89%E7%8D%BB%E7%B2%BE%E7%A5%9E",
+    "timestamp": "2026-09-02T16:44:52.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普今晤美國旅遊公司高管　討論行業發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171854377737129984483791.jpeg/mmtuTd6JrMBYkdJ67geXLpuehWioq-zFWxWYZ1sVmGc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60386166/%E7%B4%85%E7%A3%A1%E6%98%A0%E5%8C%AF%E6%9C%80%E5%BF%AB%E6%98%8E%E6%97%A5%E9%96%8B%E5%83%B9-%E6%96%99%E4%B8%8B%E5%91%A8%E9%96%8B%E5%94%AE-%E5%85%A8%E6%96%B0%E5%85%A9%E6%88%BF%E9%80%A3%E5%84%B2%E7%89%A9%E5%AE%A4%E7%A4%BA%E4%BD%8D%E6%9B%9D%E5%85%89",
     "timestamp": "2026-09-02T08:47:00.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「學霸港姐」許子萱進軍樂壇　進錄音室3小時硬撼十級難度新歌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171818538512420864186753.jpeg/cfkrJ11DoHzFi3hlJnikwd1hCbK0py85fleAaX5XgGk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386093/%E5%AD%B8%E9%9C%B8%E6%B8%AF%E5%A7%90-%E8%A8%B1%E5%AD%90%E8%90%B1%E9%80%B2%E8%BB%8D%E6%A8%82%E5%A3%87-%E9%80%B2%E9%8C%84%E9%9F%B3%E5%AE%A43%E5%B0%8F%E6%99%82%E7%A1%AC%E6%92%BC%E5%8D%81%E7%B4%9A%E9%9B%A3%E5%BA%A6%E6%96%B0%E6%AD%8C",
-    "timestamp": "2026-09-02T08:27:20.894Z",
     "strategy": ".content-card__main"
   }
 ];
