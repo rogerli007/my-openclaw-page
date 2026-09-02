@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T04:56:58.585Z
+// Last updated: 2026-09-02T05:20:53.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵屯門第16區2期巨無霸今截標　暫收3份標書　新地、恒地競投",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260706/1150844473597497344490672.jpeg/plycEfAQCZe7f06L8TZ8tlxPYOfNkwUeF--diBfvnYg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60385976/%E6%B8%AF%E9%90%B5%E5%B1%AF%E9%96%80%E7%AC%AC16%E5%8D%802%E6%9C%9F%E5%B7%A8%E7%84%A1%E9%9C%B8%E4%BB%8A%E6%88%AA%E6%A8%99-%E6%9A%AB%E6%94%B63%E4%BB%BD%E6%A8%99%E6%9B%B8-%E6%96%B0%E5%9C%B0-%E6%81%92%E5%9C%B0%E7%AB%B6%E6%8A%95",
+    "timestamp": "2026-09-02T05:20:53.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小一自行分配學位27/28｜學額出爐手持15分點部署？附5大填表攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-01T21:54:04.724Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-01T21:41:27.060Z",
     "strategy": ".content-card__main"
   }
 ];
