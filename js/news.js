@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T22:40:53.211Z
+// Last updated: 2026-09-02T22:53:56.742Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前亞視花旦合體帶貨被嘲明星難民營　老闆蔡淇俊怒轟：18線又點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171899073108643840834275.jpeg/XbNUdzAbthAOvoJzPRiZQ-a_Wo9-wXA0BoyQ4gaMkOI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386119/%E8%94%A1%E6%9B%89%E5%84%80%E5%8A%89%E7%8E%89%E5%A9%B7%E5%90%88%E9%AB%94%E5%B8%B6%E8%B2%A8%E8%A2%AB%E5%98%B2%E6%98%8E%E6%98%9F%E9%9B%A3%E6%B0%91%E7%87%9F-%E8%80%81%E9%97%86%E8%94%A1%E6%B7%87%E4%BF%8A%E6%80%92%E8%BD%9F-18%E7%B7%9A%E5%8F%88%E9%BB%9E",
+    "timestamp": "2026-09-02T22:53:56.742Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙德爾風球｜今日有一兩陣驟雨　最高31度　一號風球早上維持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171873342584524800730256.jpeg/f9OUeUiVWVhdP3O3iuaWoZsgmCDpTMqf3MFex9zBXsc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385255/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83%E6%9C%80%E6%96%B0-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81-%E5%91%A8%E4%BA%94%E8%A9%95%E9%A0%88%E5%90%A6%E6%94%B9%E7%99%BC3%E8%99%9F",
     "timestamp": "2026-09-02T17:30:15.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑業主大會｜居民質疑為何保險續期　引述合安稱會再安排上樓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1171977060847980544601287.jpeg/upB9wKR9WsOjezB4L-GnoGKThQqaU0noG42hvj6Nob4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386315/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E5%B1%85%E6%B0%91%E8%B3%AA%E7%96%91%E7%82%BA%E4%BD%95%E4%BF%9D%E9%9A%AA%E7%BA%8C%E6%9C%9F-%E5%BC%95%E8%BF%B0%E5%90%88%E5%AE%89%E7%A8%B1%E6%9C%83%E5%86%8D%E5%AE%89%E6%8E%92%E4%B8%8A%E6%A8%93",
-    "timestamp": "2026-09-02T17:16:06.089Z",
     "strategy": ".content-card__main"
   }
 ];
