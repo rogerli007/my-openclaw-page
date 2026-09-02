@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T08:47:00.952Z
+// Last updated: 2026-09-02T08:57:27.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Pokémon Run 30懶人包｜寶可夢主題跑登陸香港科學園！附報名攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171855533804621824573082.jpeg/2IIFSRcN2wCB6gFmKBu1SfDORHLlthbWeA9euXgPXrk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60386136/pok%C3%A9mon-run-30%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%AF%B6%E5%8F%AF%E5%A4%A2%E4%B8%BB%E9%A1%8C%E8%B7%91%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF%E7%A7%91%E5%AD%B8%E5%9C%92-%E9%99%84%E5%A0%B1%E5%90%8D%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-09-02T08:57:27.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡映匯最快明日開價　料下周開售　全新兩房連儲物室示位曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230507/732024472281812992195347.jpeg/_JqSWEQZjh_aGBLRw0EdgedkEmLCAkgic7XNpnO1zaY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385935/%E7%A7%98%E9%AD%AF%E5%AE%A3%E5%B8%83%E8%88%87%E4%BC%8A%E6%9C%97%E6%96%B7%E4%BA%A4-%E6%8C%87%E4%B8%80%E5%86%8D%E5%A8%81%E8%84%85%E4%B8%AD%E6%9D%B1%E7%A9%A9%E5%AE%9A",
     "timestamp": "2026-09-01T23:53:46.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "8大運動禁忌｜日專家指朝早食蕉為大忌?! 教你一招18分鐘提升體力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220811/634465886513664000903241.png/sIl82bC7sJDf3vChcsZUY9mAeUxcZ8GrmKVdiJilXYg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/802088/8%E5%A4%A7%E9%81%8B%E5%8B%95%E7%A6%81%E5%BF%8C-%E6%97%A5%E5%B0%88%E5%AE%B6%E6%8C%87%E6%9C%9D%E6%97%A9%E9%A3%9F%E8%95%89%E7%82%BA%E5%A4%A7%E5%BF%8C-%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B18%E5%88%86%E9%90%98%E6%8F%90%E5%8D%87%E9%AB%94%E5%8A%9B",
-    "timestamp": "2026-09-01T23:40:31.999Z",
     "strategy": ".content-card__main"
   }
 ];
