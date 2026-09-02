@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T09:53:35.078Z
+// Last updated: 2026-09-02T10:22:05.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "耀才創辦人葉茂林妻等人2億沽薄扶林全幢住宅　14年帳近平手離場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997518887765413888748510.jpeg/jGX0WZZzZhNZn58QW7qmEQ1kjdosGWGVakD8tGpA_LQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60386233/%E8%80%80%E6%89%8D%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%91%89%E8%8C%82%E6%9E%97%E5%A6%BB%E7%AD%89%E4%BA%BA2%E5%84%84%E6%B2%BD%E8%96%84%E6%89%B6%E6%9E%97%E5%85%A8%E5%B9%A2%E4%BD%8F%E5%AE%85-14%E5%B9%B4%E5%B8%B3%E8%BF%91%E5%B9%B3%E6%89%8B%E9%9B%A2%E5%A0%B4",
+    "timestamp": "2026-09-02T10:22:05.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風沙德爾｢復活｣　最早周四汕頭至惠州一帶登陸　深圳有列車停運",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171752881628385280301768.jpeg/nO7kgE6JtDAHdm-Q1AfyTKoBlSeVJiV3oz2naaM9p2k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385940/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%9D%92%E8%A1%A3%E9%95%B7%E5%BA%B7%E9%82%A8%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-02T01:42:02.806Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "心臟衰竭發出3大警訊！營養師提醒千萬別忽視　建議這樣護心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098831300535521280405283.png/4xw6lLkws7iO7ts5V24e24SB7t0jZ8HJXJp6TVyaek0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321907/%E5%BF%83%E8%87%9F%E8%A1%B0%E7%AB%AD%E7%99%BC%E5%87%BA3%E5%A4%A7%E8%AD%A6%E8%A8%8A-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%90%E9%86%92%E5%8D%83%E8%90%AC%E5%88%A5%E5%BF%BD%E8%A6%96-%E5%BB%BA%E8%AD%B0%E9%80%99%E6%A8%A3%E8%AD%B7%E5%BF%83",
-    "timestamp": "2026-09-02T01:16:56.173Z",
     "strategy": ".content-card__main"
   }
 ];
