@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T16:53:59.302Z
+// Last updated: 2026-09-02T17:16:06.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑業主大會｜居民質疑為何保險續期　引述合安稱會再安排上樓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1171977060847980544601287.jpeg/upB9wKR9WsOjezB4L-GnoGKThQqaU0noG42hvj6Nob4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386315/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E5%B1%85%E6%B0%91%E8%B3%AA%E7%96%91%E7%82%BA%E4%BD%95%E4%BF%9D%E9%9A%AA%E7%BA%8C%E6%9C%9F-%E5%BC%95%E8%BF%B0%E5%90%88%E5%AE%89%E7%A8%B1%E6%9C%83%E5%86%8D%E5%AE%89%E6%8E%92%E4%B8%8A%E6%A8%93",
+    "timestamp": "2026-09-02T17:16:06.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉兆銘離世｜羅淑佩致哀　將銘記其才華與奉獻精神",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171852280324952064320564.jpeg/Gu9k1CLIlvFB_JponpxsWL8m1SvFIhVPeVfdA3lX3QM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386161/%E6%98%9F%E5%AE%87%E8%BB%8A%E7%87%88%E8%A7%A3%E7%B4%84107%E5%90%8D%E6%87%89%E5%B1%86%E7%94%9F%E8%91%A3%E4%BA%8B%E9%95%B7%E8%87%B4%E6%AD%89-%E7%B6%B2%E6%B0%91%E6%89%B9-%E6%AF%AB%E7%84%A1%E8%AA%A0%E6%84%8F",
     "timestamp": "2026-09-02T09:44:42.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Pokémon Run 30懶人包｜寶可夢主題跑登陸香港科學園！附報名攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171855533804621824573082.jpeg/2IIFSRcN2wCB6gFmKBu1SfDORHLlthbWeA9euXgPXrk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60386136/pok%C3%A9mon-run-30%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%AF%B6%E5%8F%AF%E5%A4%A2%E4%B8%BB%E9%A1%8C%E8%B7%91%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF%E7%A7%91%E5%AD%B8%E5%9C%92-%E9%99%84%E5%A0%B1%E5%90%8D%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-09-02T08:57:27.003Z",
     "strategy": ".content-card__main"
   }
 ];
