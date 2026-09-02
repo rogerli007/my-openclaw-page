@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T11:19:29.529Z
+// Last updated: 2026-09-02T11:32:14.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶煙花｜3.1萬枚煙花分八幕維港上演　其中一幕以Ian歌曲作配樂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171867408537751552401682.png/wFfA9YY7lhX8QxDreBdqc5eZIcDYrMZxxTbFpcU2xaU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386186/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1-3-1%E8%90%AC%E6%9E%9A%E7%85%99%E8%8A%B1%E5%88%86%E5%85%AB%E5%B9%95%E7%B6%AD%E6%B8%AF%E4%B8%8A%E6%BC%94-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%B9%95%E4%BB%A5ian%E6%AD%8C%E6%9B%B2%E4%BD%9C%E9%85%8D%E6%A8%82",
+    "timestamp": "2026-09-02T11:32:14.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關單日搗6私煙倉　拘8人檢$5080萬貨　瓦解一出口私煙走私鏈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171776794060132352419352.jpeg/HP6aat65pkq3C_hoTre1BxhIb4FipTIRXkomwF5KJsA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60385979/%E5%91%8A%E5%88%A5-%E5%AD%90%E6%B6%B5%E6%A2%93%E8%90%B1-%E5%85%A7%E5%9C%B0%E6%BD%AE%E8%88%88%E7%94%A8%E8%A9%A9%E8%A9%9E%E5%85%B8%E6%95%85%E5%8F%96%E5%90%8D-%E5%BB%A3%E6%9D%B1%E4%BA%BA%E6%84%9B%E8%B5%B7%E4%BB%80%E9%BA%BC%E5%90%8D",
     "timestamp": "2026-09-02T03:54:35.292Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜尼泊爾8歲男童爬樹求生被獲救 母親失而復得終重逢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171575733399588864058246.jpeg/1kh5aRpH0mQloWeAANMLuknpKEHTTTCyYeg-yWHoPsk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60385873/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE8%E6%AD%B2%E7%94%B7%E7%AB%A5%E7%88%AC%E6%A8%B9%E6%B1%82%E7%94%9F%E8%A2%AB%E7%8D%B2%E6%95%91-%E6%AF%8D%E8%A6%AA%E5%A4%B1%E8%80%8C%E5%BE%A9%E5%BE%97%E7%B5%82%E9%87%8D%E9%80%A2",
-    "timestamp": "2026-09-02T03:45:50.822Z",
     "strategy": ".content-card__main"
   }
 ];
