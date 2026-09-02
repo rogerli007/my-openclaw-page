@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T12:29:43.991Z
+// Last updated: 2026-09-02T12:50:21.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳觀泰離世｜小30歲現任太太湯謹如罕曝光　端莊大方氣質優雅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171871279054065664516073.jpeg/h5fHpyW2t8GfKydBTjHV6t-tGv_qtNjLcdr9TnHa_U4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386202/%E9%99%B3%E8%A7%80%E6%B3%B0%E9%9B%A2%E4%B8%96-%E5%B0%8F30%E6%AD%B2%E7%8F%BE%E4%BB%BB%E5%A4%AA%E5%A4%AA%E6%B9%AF%E8%AC%B9%E5%A6%82%E7%BD%95%E6%9B%9D%E5%85%89-%E7%AB%AF%E8%8E%8A%E5%A4%A7%E6%96%B9%E6%B0%A3%E8%B3%AA%E5%84%AA%E9%9B%85",
+    "timestamp": "2026-09-02T12:50:21.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜中方更新死傷人數：災害已致21人遇難　541人失聯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171798302778200064635417.jpeg/yvyszZYbwoAiEwj1BPvrsbR9OQOTdQ6XhTKa5YUymuU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386051/%E9%99%B3%E8%A7%80%E6%B3%B0%E9%9B%A2%E4%B8%96-%E6%AD%B74%E6%AE%B5%E5%A9%9A%E5%A7%BB%E6%9B%BE%E8%88%87%E9%BB%83%E9%80%A0%E6%99%82%E6%8B%8D%E6%8B%96-73%E6%AD%B2%E5%A8%B6%E7%B4%B030%E5%B9%B4%E5%A4%AA%E5%A4%AA%E6%A5%B5%E7%94%9C%E8%9C%9C",
     "timestamp": "2026-09-02T04:46:37.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳觀泰離世｜去年精神飽滿說話清晰　曾自爆紅白血球失衡險死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171793637231562752531768.jpeg/_O32pdIgSGl9Th_eUJvbQHROEh5x8JP-pM5gNKTOYDQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60386049/%E9%99%B3%E8%A7%80%E6%B3%B0%E9%9B%A2%E4%B8%96-%E5%8E%BB%E5%B9%B4%E7%B2%BE%E7%A5%9E%E9%A3%BD%E6%BB%BF%E8%AA%AA%E8%A9%B1%E6%B8%85%E6%99%B0-%E6%9B%BE%E8%87%AA%E7%88%86%E7%B4%85%E7%99%BD%E8%A1%80%E7%90%83%E5%A4%B1%E8%A1%A1%E9%9A%AA%E6%AD%BB",
-    "timestamp": "2026-09-02T04:25:23.452Z",
     "strategy": ".content-card__main"
   }
 ];
