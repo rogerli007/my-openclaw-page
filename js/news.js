@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T12:50:21.363Z
+// Last updated: 2026-09-02T13:21:04.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑業主大會｜核數報告出錯　上次大會否決　核數師請辭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171920019227938816237094.jpeg/718MdzC3DFtNw0FzxiTZWymQJPJWBNSp6A3pCOgN6Qg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386275/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E6%A0%B8%E6%95%B8%E5%A0%B1%E5%91%8A%E5%87%BA%E9%8C%AF-%E4%B8%8A%E6%AC%A1%E5%A4%A7%E6%9C%83%E5%90%A6%E6%B1%BA-%E6%A0%B8%E6%95%B8%E5%B8%AB%E8%AB%8B%E8%BE%AD",
+    "timestamp": "2026-09-02T13:21:04.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳觀泰離世｜小30歲現任太太湯謹如罕曝光　端莊大方氣質優雅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171801629347811328071632.jpeg/qcCj4FnIhhv4kNi2ODtaoOL8V9_qiUTGvi5oC74uaAs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60386060/%E5%B0%8F%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D27-28-%E5%AD%B8%E9%A1%8D%E5%87%BA%E7%88%90%E6%89%8B%E6%8C%8115%E5%88%86%E9%BB%9E%E9%83%A8%E7%BD%B2-%E9%99%845%E5%A4%A7%E5%A1%AB%E8%A1%A8%E6%94%BB%E7%95%A5",
     "timestamp": "2026-09-02T04:56:58.585Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳觀泰離世｜歷4段婚姻曾與黃造時拍拖　73歲娶細30年太太極甜蜜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171798302778200064635417.jpeg/yvyszZYbwoAiEwj1BPvrsbR9OQOTdQ6XhTKa5YUymuU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386051/%E9%99%B3%E8%A7%80%E6%B3%B0%E9%9B%A2%E4%B8%96-%E6%AD%B74%E6%AE%B5%E5%A9%9A%E5%A7%BB%E6%9B%BE%E8%88%87%E9%BB%83%E9%80%A0%E6%99%82%E6%8B%8D%E6%8B%96-73%E6%AD%B2%E5%A8%B6%E7%B4%B030%E5%B9%B4%E5%A4%AA%E5%A4%AA%E6%A5%B5%E7%94%9C%E8%9C%9C",
-    "timestamp": "2026-09-02T04:46:37.156Z",
     "strategy": ".content-card__main"
   }
 ];
