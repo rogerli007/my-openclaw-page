@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T19:28:16.810Z
+// Last updated: 2026-09-02T19:40:47.131Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳籲G20勿就「理論危害」制定AI規則",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136709384756269056871246.jpeg/bjRSpH9zesTyI8xMSCU8Pb3LXva6ECka8qNM8PKjTPA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386324/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B1%B2g20%E5%8B%BF%E5%B0%B1-%E7%90%86%E8%AB%96%E5%8D%B1%E5%AE%B3-%E5%88%B6%E5%AE%9Aai%E8%A6%8F%E5%89%87",
+    "timestamp": "2026-09-02T19:40:47.131Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳籲G20勿就「理論危害」制定AI規則",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171871279054065664516073.jpeg/h5fHpyW2t8GfKydBTjHV6t-tGv_qtNjLcdr9TnHa_U4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386202/%E9%99%B3%E8%A7%80%E6%B3%B0%E9%9B%A2%E4%B8%96-%E5%B0%8F30%E6%AD%B2%E7%8F%BE%E4%BB%BB%E5%A4%AA%E5%A4%AA%E6%B9%AF%E8%AC%B9%E5%A6%82%E7%BD%95%E6%9B%9D%E5%85%89-%E7%AB%AF%E8%8E%8A%E5%A4%A7%E6%96%B9%E6%B0%A3%E8%B3%AA%E5%84%AA%E9%9B%85",
     "timestamp": "2026-09-02T12:50:21.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜中方更新死傷人數：災害已致21人遇難　541人失聯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171916131254931456972643.png/3_S10tSg-FPjr6DSOBldq_7ZBLe6GQ0db-cFV2_nBVc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386272/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%AD%E6%96%B9%E6%9B%B4%E6%96%B0%E6%AD%BB%E5%82%B7%E4%BA%BA%E6%95%B8-%E7%81%BD%E5%AE%B3%E5%B7%B2%E8%87%B421%E4%BA%BA%E9%81%87%E9%9B%A3-541%E4%BA%BA%E5%A4%B1%E8%81%AF",
-    "timestamp": "2026-09-02T12:29:43.991Z",
     "strategy": ".content-card__main"
   }
 ];
