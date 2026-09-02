@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T10:44:34.693Z
+// Last updated: 2026-09-02T10:53:44.888Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科大訊飛高層爆出軌女下屬傳遭解職　綠帽夫發22頁文件曬露骨對話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171889837754552320482905.jpeg/Ru5KePnaONILXeQDggH2-tyUL8mjBy-ewQFJ0sEBSdI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60386219/%E7%A7%91%E5%A4%A7%E8%A8%8A%E9%A3%9B%E9%AB%98%E5%B1%A4%E7%88%86%E5%87%BA%E8%BB%8C%E5%A5%B3%E4%B8%8B%E5%B1%AC%E5%82%B3%E9%81%AD%E8%A7%A3%E8%81%B7-%E7%B6%A0%E5%B8%BD%E5%A4%AB%E7%99%BC22%E9%A0%81%E6%96%87%E4%BB%B6%E6%9B%AC%E9%9C%B2%E9%AA%A8%E5%B0%8D%E8%A9%B1",
+    "timestamp": "2026-09-02T10:53:44.888Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行李箱頂部神秘拉帶怎麼用？網民揭神功能：開外掛買多10KG戰利品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171769441680101376610538.png/QaCdYN015orJ2g5mQPqBvVBlNsj5yv8-LinIPi4pyD4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385971/%E4%B8%8D%E5%86%8D%E5%85%8D%E7%A8%85-%E4%B8%AD%E5%9C%8B%E5%8F%96%E6%B6%88%E5%A4%96%E7%B1%8D%E5%80%8B%E4%BA%BA%E8%82%A1%E6%81%AF%E7%B4%85%E5%88%A9%E5%85%8D%E7%A8%85%E6%94%BF%E7%AD%96-%E5%8D%B3%E6%97%A5%E8%B5%B7%E6%8C%8920-%E5%BE%B5%E7%A8%85",
     "timestamp": "2026-09-02T02:54:49.608Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "百度集團最快9月7日有望納入港股通　全棧AI價值重估在即｜彭偉新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385945/%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9C%98%E6%9C%80%E5%BF%AB9%E6%9C%887%E6%97%A5%E6%9C%89%E6%9C%9B%E7%B4%8D%E5%85%A5%E6%B8%AF%E8%82%A1%E9%80%9A-%E5%85%A8%E6%A3%A7ai%E5%83%B9%E5%80%BC%E9%87%8D%E4%BC%B0%E5%9C%A8%E5%8D%B3-%E5%BD%AD%E5%81%89%E6%96%B0",
-    "timestamp": "2026-09-02T02:17:59.736Z",
     "strategy": ".content-card__main"
   }
 ];
