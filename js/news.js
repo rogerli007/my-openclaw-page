@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T05:54:17.757Z
+// Last updated: 2026-09-02T07:04:34.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新《國防動員法》可徵收台企資產？國台辦：依法保障合法權益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156551631706263552071832.jpeg/gW1izZlazQRvOMf6elQjF7ZFzxs9K2LZxwSiGscEoho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386116/%E6%96%B0-%E5%9C%8B%E9%98%B2%E5%8B%95%E5%93%A1%E6%B3%95-%E5%8F%AF%E5%BE%B5%E6%94%B6%E5%8F%B0%E4%BC%81%E8%B3%87%E7%94%A2-%E5%9C%8B%E5%8F%B0%E8%BE%A6-%E4%BE%9D%E6%B3%95%E4%BF%9D%E9%9A%9C%E5%90%88%E6%B3%95%E6%AC%8A%E7%9B%8A",
+    "timestamp": "2026-09-02T07:04:34.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜公屋聯會再提准提取部份強積金買樓　也倡加快公屋重建",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171702336628723712521034.jpeg/C30g72-47zTO-hS_9wXpK1b9JXdD1Z7fV-7tnVfu7Z0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385926/%E6%99%AE%E4%BA%AC%E5%90%A6%E8%AA%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E8%90%8A%E6%AF%94%E9%8C%AB%E6%A9%9F%E5%A0%B4-%E5%8C%97%E7%B4%84%E5%8F%8A%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E8%81%B2%E6%8F%B4%E5%BE%B7%E5%9C%8B",
     "timestamp": "2026-09-01T22:29:22.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙德爾風球｜一號風球生效　今日有幾陣狂風驟雨　日間最高約30度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171699288926195712630519.jpeg/u00H6xCTjOp8wZTB0jtmrxF3Ux1vqjPHJJVVUySVVVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385908/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E7%94%9F%E6%95%88-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6",
-    "timestamp": "2026-09-01T22:19:02.430Z",
     "strategy": ".content-card__main"
   }
 ];
