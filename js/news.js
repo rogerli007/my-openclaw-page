@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T13:53:38.523Z
+// Last updated: 2026-09-02T14:21:00.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Golden Child主唱崔誠允首推粵語單曲　9月10日觀塘apm舉行發布會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171842041294884864549306.jpeg/K1vx5gCDbIi7KwTFjc9pmw60Y2CAsKq-hpVpJ4aVaSc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386126/golden-child%E4%B8%BB%E5%94%B1%E5%B4%94%E8%AA%A0%E5%85%81%E9%A6%96%E6%8E%A8%E7%B2%B5%E8%AA%9E%E5%96%AE%E6%9B%B2-9%E6%9C%8810%E6%97%A5%E8%A7%80%E5%A1%98apm%E8%88%89%E8%A1%8C%E7%99%BC%E5%B8%83%E6%9C%83",
+    "timestamp": "2026-09-02T14:21:00.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警搗長沙灣道非法釣魚機賭場　拘8人包括一主持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156551631706263552071832.jpeg/gW1izZlazQRvOMf6elQjF7ZFzxs9K2LZxwSiGscEoho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386116/%E6%96%B0-%E5%9C%8B%E9%98%B2%E5%8B%95%E5%93%A1%E6%B3%95-%E5%8F%AF%E5%BE%B5%E6%94%B6%E5%8F%B0%E4%BC%81%E8%B3%87%E7%94%A2-%E5%9C%8B%E5%8F%B0%E8%BE%A6-%E4%BE%9D%E6%B3%95%E4%BF%9D%E9%9A%9C%E5%90%88%E6%B3%95%E6%AC%8A%E7%9B%8A",
     "timestamp": "2026-09-02T07:04:34.344Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告｜公屋聯會再提准提取部份強積金買樓　也倡加快公屋重建",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171810647227240448892015.jpeg/yt5ua0UW3_YJZuQbW6HbiBruPKM1D166Bfw0EyD8NBM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386071/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E5%85%AC%E5%B1%8B%E8%81%AF%E6%9C%83%E5%86%8D%E6%8F%90%E5%87%86%E6%8F%90%E5%8F%96%E9%83%A8%E4%BB%BD%E5%BC%B7%E7%A9%8D%E9%87%91%E8%B2%B7%E6%A8%93-%E4%B9%9F%E5%80%A1%E5%8A%A0%E5%BF%AB%E5%85%AC%E5%B1%8B%E9%87%8D%E5%BB%BA",
-    "timestamp": "2026-09-02T05:54:17.757Z",
     "strategy": ".content-card__main"
   }
 ];
