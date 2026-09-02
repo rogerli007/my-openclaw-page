@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T20:20:38.844Z
+// Last updated: 2026-09-02T20:42:19.131Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警觀塘發現可疑私家車　檢獲$1.3萬毒品包括依托咪酯　18歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172037301522403328071892.jpeg/jaEXCLfACY1vlwi2xDrOIIgrj3kENqovvjBWGoQwVho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386331/%E8%AD%A6%E8%A7%80%E5%A1%98%E7%99%BC%E7%8F%BE%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%AA%A2%E7%8D%B2-1-3%E8%90%AC%E6%AF%92%E5%93%81%E5%8C%85%E6%8B%AC%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF-18%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-02T20:42:19.131Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港澳直升機定期航班暫停服務　「空中快線」營運方稱考慮市場變化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171935844861218816605497.png/r52EwTO2moHv4G9hkN0FNbcTagUVK6jq8LMq5PCzKuQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386286/%E8%AD%A6%E6%90%97%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%93%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E5%A0%B4-%E6%8B%988%E4%BA%BA%E5%8C%85%E6%8B%AC%E4%B8%80%E4%B8%BB%E6%8C%81",
     "timestamp": "2026-09-02T13:53:38.523Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜放蛇被按摩淫窟女技師除褲推前列腺　街頭上演雞飛狗走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171935164738048000704823.jpeg/Uizjwedb8Ls6nGp9LlAL2U_A5pwqwEOW2ul02NrpdNg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386283/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%94%BE%E8%9B%87%E8%A2%AB%E6%8C%89%E6%91%A9%E6%B7%AB%E7%AA%9F%E5%A5%B3%E6%8A%80%E5%B8%AB%E9%99%A4%E8%A4%B2%E6%8E%A8%E5%89%8D%E5%88%97%E8%85%BA-%E8%A1%97%E9%A0%AD%E4%B8%8A%E6%BC%94%E9%9B%9E%E9%A3%9B%E7%8B%97%E8%B5%B0",
-    "timestamp": "2026-09-02T13:43:59.873Z",
     "strategy": ".content-card__main"
   }
 ];
