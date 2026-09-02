@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T23:17:53.859Z
+// Last updated: 2026-09-02T23:41:57.877Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國不再對日本抱有幻想",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/467239/org/b8dde51ba2ee357ee5d561322bbe357e.jpg/yjXaOVKUUXkz0Ef2YZvsuqqowbx56vykRGCrb0Rgq28?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60386221/%E4%B8%AD%E5%9C%8B%E4%B8%8D%E5%86%8D%E5%B0%8D%E6%97%A5%E6%9C%AC%E6%8A%B1%E6%9C%89%E5%B9%BB%E6%83%B3",
+    "timestamp": "2026-09-02T23:41:57.877Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Nvidia收漲逾3%　摩通分析師路演後仍力撐　稱業務瓶頸不在需求端",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172001641361051648093542.jpeg/DVbozhX8-0lLvnq8GkbmULlz8wfF_gp3Eh8V8BIfFfA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386322/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%83%E6%9C%97%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E8%B3%A3%E6%B7%AB-31%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E8%BC%9516%E6%AD%B2",
     "timestamp": "2026-09-02T18:25:23.713Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大角咀的士撞私家車推前撼日產　男子被兩車夾傷送院　司機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1171992827463208960369740.jpeg/vWCTb9C60-xbzQQyYhMMOhh87J7gml0DlS7KpZUuyqU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386319/%E5%A4%A7%E8%A7%92%E5%92%80%E7%9A%84%E5%A3%AB%E6%92%9E%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%8E%A8%E5%89%8D%E6%92%BC%E6%97%A5%E7%94%A2-%E7%94%B7%E5%AD%90%E8%A2%AB%E5%85%A9%E8%BB%8A%E5%A4%BE%E5%82%B7%E9%80%81%E9%99%A2-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-02T17:42:14.463Z",
     "strategy": ".content-card__main"
   }
 ];
