@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T03:54:35.292Z
+// Last updated: 2026-09-02T04:25:23.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳觀泰離世｜去年精神飽滿說話清晰　曾自爆紅白血球失衡險死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171793637231562752531768.jpeg/_O32pdIgSGl9Th_eUJvbQHROEh5x8JP-pM5gNKTOYDQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60386049/%E9%99%B3%E8%A7%80%E6%B3%B0%E9%9B%A2%E4%B8%96-%E5%8E%BB%E5%B9%B4%E7%B2%BE%E7%A5%9E%E9%A3%BD%E6%BB%BF%E8%AA%AA%E8%A9%B1%E6%B8%85%E6%99%B0-%E6%9B%BE%E8%87%AA%E7%88%86%E7%B4%85%E7%99%BD%E8%A1%80%E7%90%83%E5%A4%B1%E8%A1%A1%E9%9A%AA%E6%AD%BB",
+    "timestamp": "2026-09-02T04:25:23.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "告別「子涵梓萱」　內地潮興用詩詞典故取名　廣東人愛起什麼名？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-01T21:18:17.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "避免政府停擺　臨時開支法案獲美國眾議院通過　已送交特朗普簽署",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240324/848399188285722624639125.jpeg/LZSP8McQQZhINVzM72iLRVwItXJ15ZiXLo6GjS6Oho0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385920/%E9%81%BF%E5%85%8D%E6%94%BF%E5%BA%9C%E5%81%9C%E6%93%BA-%E8%87%A8%E6%99%82%E9%96%8B%E6%94%AF%E6%B3%95%E6%A1%88%E7%8D%B2%E7%BE%8E%E5%9C%8B%E7%9C%BE%E8%AD%B0%E9%99%A2%E9%80%9A%E9%81%8E-%E5%B7%B2%E9%80%81%E4%BA%A4%E7%89%B9%E6%9C%97%E6%99%AE%E7%B0%BD%E7%BD%B2",
-    "timestamp": "2026-09-01T20:55:26.414Z",
     "strategy": ".content-card__main"
   }
 ];
