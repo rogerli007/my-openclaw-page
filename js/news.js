@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T05:20:53.188Z
+// Last updated: 2026-09-02T05:54:17.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜公屋聯會再提准提取部份強積金買樓　也倡加快公屋重建",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171810647227240448892015.jpeg/yt5ua0UW3_YJZuQbW6HbiBruPKM1D166Bfw0EyD8NBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386071/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E5%85%AC%E5%B1%8B%E8%81%AF%E6%9C%83%E5%86%8D%E6%8F%90%E5%87%86%E6%8F%90%E5%8F%96%E9%83%A8%E4%BB%BD%E5%BC%B7%E7%A9%8D%E9%87%91%E8%B2%B7%E6%A8%93-%E4%B9%9F%E5%80%A1%E5%8A%A0%E5%BF%AB%E5%85%AC%E5%B1%8B%E9%87%8D%E5%BB%BA",
+    "timestamp": "2026-09-02T05:54:17.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵屯門第16區2期巨無霸今截標　暫收3份標書　新地、恒地競投",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171699288926195712630519.jpeg/u00H6xCTjOp8wZTB0jtmrxF3Ux1vqjPHJJVVUySVVVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385908/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E7%94%9F%E6%95%88-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6",
     "timestamp": "2026-09-01T22:19:02.430Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌私家車撞手推車致老婦跌倒　熱心途人不滿理論被推　司機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171631050384740352061539.jpeg/DsoW50BTmgZtYiA5JEQUOeMPMNV1LAGL75M64tWTOuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385907/%E8%91%B5%E6%B6%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%89%8B%E6%8E%A8%E8%BB%8A%E8%87%B4%E8%80%81%E5%A9%A6%E8%B7%8C%E5%80%92-%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E4%B8%8D%E6%BB%BF%E7%90%86%E8%AB%96%E8%A2%AB%E6%8E%A8-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-01T21:54:04.724Z",
     "strategy": ".content-card__main"
   }
 ];
