@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T22:53:56.742Z
+// Last updated: 2026-09-02T23:17:53.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Nvidia收漲逾3%　摩通分析師路演後仍力撐　稱業務瓶頸不在需求端",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165453084583792640924730.jpeg/9tHs-nECaTDNRj7tIWFcC_5KoZmXT11UKJxkEyicZBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386339/nvidia%E6%94%B6%E6%BC%B2%E9%80%BE3-%E6%91%A9%E9%80%9A%E5%88%86%E6%9E%90%E5%B8%AB%E8%B7%AF%E6%BC%94%E5%BE%8C%E4%BB%8D%E5%8A%9B%E6%92%90-%E7%A8%B1%E6%A5%AD%E5%8B%99%E7%93%B6%E9%A0%B8%E4%B8%8D%E5%9C%A8%E9%9C%80%E6%B1%82%E7%AB%AF",
+    "timestamp": "2026-09-02T23:17:53.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前亞視花旦合體帶貨被嘲明星難民營　老闆蔡淇俊怒轟：18線又點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1171992827463208960369740.jpeg/vWCTb9C60-xbzQQyYhMMOhh87J7gml0DlS7KpZUuyqU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386319/%E5%A4%A7%E8%A7%92%E5%92%80%E7%9A%84%E5%A3%AB%E6%92%9E%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%8E%A8%E5%89%8D%E6%92%BC%E6%97%A5%E7%94%A2-%E7%94%B7%E5%AD%90%E8%A2%AB%E5%85%A9%E8%BB%8A%E5%A4%BE%E5%82%B7%E9%80%81%E9%99%A2-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-02T17:42:14.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙德爾風球最新｜天文台：一號風球早上維持　周五評須否改發3號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171873342584524800730256.jpeg/f9OUeUiVWVhdP3O3iuaWoZsgmCDpTMqf3MFex9zBXsc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60385255/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83%E6%9C%80%E6%96%B0-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81-%E5%91%A8%E4%BA%94%E8%A9%95%E9%A0%88%E5%90%A6%E6%94%B9%E7%99%BC3%E8%99%9F",
-    "timestamp": "2026-09-02T17:30:15.382Z",
     "strategy": ".content-card__main"
   }
 ];
