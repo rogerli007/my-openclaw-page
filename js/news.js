@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T10:53:44.888Z
+// Last updated: 2026-09-02T11:19:29.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關單日搗6私煙倉　拘8人檢$5080萬貨　瓦解一出口私煙走私鏈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171894042661752832713865.jpeg/FAJKMPF2cnQdP8gU23p6VLUfQ4QIqGDVR7HOh0exzoc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386257/%E6%B5%B7%E9%97%9C%E5%96%AE%E6%97%A5%E6%90%976%E7%A7%81%E7%85%99%E5%80%89-%E6%8B%988%E4%BA%BA%E6%AA%A2-5080%E8%90%AC%E8%B2%A8-%E7%93%A6%E8%A7%A3%E4%B8%80%E5%87%BA%E5%8F%A3%E7%A7%81%E7%85%99%E8%B5%B0%E7%A7%81%E9%8F%88",
+    "timestamp": "2026-09-02T11:19:29.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科大訊飛高層爆出軌女下屬傳遭解職　綠帽夫發22頁文件曬露骨對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171575733399588864058246.jpeg/1kh5aRpH0mQloWeAANMLuknpKEHTTTCyYeg-yWHoPsk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60385873/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE8%E6%AD%B2%E7%94%B7%E7%AB%A5%E7%88%AC%E6%A8%B9%E6%B1%82%E7%94%9F%E8%A2%AB%E7%8D%B2%E6%95%91-%E6%AF%8D%E8%A6%AA%E5%A4%B1%E8%80%8C%E5%BE%A9%E5%BE%97%E7%B5%82%E9%87%8D%E9%80%A2",
     "timestamp": "2026-09-02T03:45:50.822Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不再免稅！中國取消外籍個人股息紅利免稅政策　即日起按20%徵稅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171769441680101376610538.png/QaCdYN015orJ2g5mQPqBvVBlNsj5yv8-LinIPi4pyD4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60385971/%E4%B8%8D%E5%86%8D%E5%85%8D%E7%A8%85-%E4%B8%AD%E5%9C%8B%E5%8F%96%E6%B6%88%E5%A4%96%E7%B1%8D%E5%80%8B%E4%BA%BA%E8%82%A1%E6%81%AF%E7%B4%85%E5%88%A9%E5%85%8D%E7%A8%85%E6%94%BF%E7%AD%96-%E5%8D%B3%E6%97%A5%E8%B5%B7%E6%8C%8920-%E5%BE%B5%E7%A8%85",
-    "timestamp": "2026-09-02T02:54:49.608Z",
     "strategy": ".content-card__main"
   }
 ];
