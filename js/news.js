@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T17:30:15.382Z
+// Last updated: 2026-09-02T17:42:14.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大角咀的士撞私家車推前撼日產　男子被兩車夾傷送院　司機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1171992827463208960369740.jpeg/vWCTb9C60-xbzQQyYhMMOhh87J7gml0DlS7KpZUuyqU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386319/%E5%A4%A7%E8%A7%92%E5%92%80%E7%9A%84%E5%A3%AB%E6%92%9E%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%8E%A8%E5%89%8D%E6%92%BC%E6%97%A5%E7%94%A2-%E7%94%B7%E5%AD%90%E8%A2%AB%E5%85%A9%E8%BB%8A%E5%A4%BE%E5%82%B7%E9%80%81%E9%99%A2-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-02T17:42:14.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙德爾風球最新｜天文台：一號風球早上維持　周五評須否改發3號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997518887765413888748510.jpeg/jGX0WZZzZhNZn58QW7qmEQ1kjdosGWGVakD8tGpA_LQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60386233/%E8%80%80%E6%89%8D%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%91%89%E8%8C%82%E6%9E%97%E5%A6%BB%E7%AD%89%E4%BA%BA2%E5%84%84%E6%B2%BD%E8%96%84%E6%89%B6%E6%9E%97%E5%85%A8%E5%B9%A2%E4%BD%8F%E5%AE%85-14%E5%B9%B4%E5%B8%B3%E8%BF%91%E5%B9%B3%E6%89%8B%E9%9B%A2%E5%A0%B4",
     "timestamp": "2026-09-02T10:22:05.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "颱風沙德爾｢復活｣　最早周四汕頭至惠州一帶登陸　深圳有列車停運",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171870349021679616970564.jpeg/zM2wFC46RhbLPOEZH0AFXaHOR-wUjCZpcdGJEXHRiRE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386205/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE-%E5%BE%A9%E6%B4%BB-%E6%9C%80%E6%97%A9%E5%91%A8%E5%9B%9B%E6%B1%95%E9%A0%AD%E8%87%B3%E6%83%A0%E5%B7%9E%E4%B8%80%E5%B8%B6%E7%99%BB%E9%99%B8-%E6%B7%B1%E5%9C%B3%E6%9C%89%E5%88%97%E8%BB%8A%E5%81%9C%E9%81%8B",
-    "timestamp": "2026-09-02T09:53:35.078Z",
     "strategy": ".content-card__main"
   }
 ];
