@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T10:22:05.708Z
+// Last updated: 2026-09-02T10:44:34.693Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "行李箱頂部神秘拉帶怎麼用？網民揭神功能：開外掛買多10KG戰利品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171888560836448256956170.png/Czj3w5U21TL6_rvEUuk21VzSa_vIpD4UHdex0x3XsdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60386194/%E8%A1%8C%E6%9D%8E%E7%AE%B1%E9%A0%82%E9%83%A8%E7%A5%9E%E7%A7%98%E6%8B%89%E5%B8%B6%E6%80%8E%E9%BA%BC%E7%94%A8-%E7%B6%B2%E6%B0%91%E6%8F%AD%E7%A5%9E%E5%8A%9F%E8%83%BD-%E9%96%8B%E5%A4%96%E6%8E%9B%E8%B2%B7%E5%A4%9A10kg%E6%88%B0%E5%88%A9%E5%93%81",
+    "timestamp": "2026-09-02T10:44:34.693Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "耀才創辦人葉茂林妻等人2億沽薄扶林全幢住宅　14年帳近平手離場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385945/%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9C%98%E6%9C%80%E5%BF%AB9%E6%9C%887%E6%97%A5%E6%9C%89%E6%9C%9B%E7%B4%8D%E5%85%A5%E6%B8%AF%E8%82%A1%E9%80%9A-%E5%85%A8%E6%A3%A7ai%E5%83%B9%E5%80%BC%E9%87%8D%E4%BC%B0%E5%9C%A8%E5%8D%B3-%E5%BD%AD%E5%81%89%E6%96%B0",
     "timestamp": "2026-09-02T02:17:59.736Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜青衣長康邨男子墮樓　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171752881628385280301768.jpeg/nO7kgE6JtDAHdm-Q1AfyTKoBlSeVJiV3oz2naaM9p2k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385940/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%9D%92%E8%A1%A3%E9%95%B7%E5%BA%B7%E9%82%A8%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-02T01:42:02.806Z",
     "strategy": ".content-card__main"
   }
 ];
