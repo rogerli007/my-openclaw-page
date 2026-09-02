@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T15:44:09.242Z
+// Last updated: 2026-09-02T15:54:53.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜灣仔奧迪司機圖切線　開鄰線的士門得逞　目擊者嘲有創意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171962762495004672728160.jpeg/uGzy0jClsw7NzJMEzbLrGiZfnV10cn72IZ-LOyGfizs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386308/%E8%BB%8Acam-%E7%81%A3%E4%BB%94%E5%A5%A7%E8%BF%AA%E5%8F%B8%E6%A9%9F%E5%9C%96%E5%88%87%E7%B7%9A-%E9%96%8B%E9%84%B0%E7%B7%9A%E7%9A%84%E5%A3%AB%E9%96%80%E5%BE%97%E9%80%9E-%E7%9B%AE%E6%93%8A%E8%80%85%E5%98%B2%E6%9C%89%E5%89%B5%E6%84%8F",
+    "timestamp": "2026-09-02T15:54:53.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BLACKPINK Rosé傳拒「霸王茶姬」百億韓元代言　邀約失敗內幕曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148576910998507520796451.jpeg/PMVGwH9iec3Oz-8j5dbJrthiP0DmBPm-esOMpl_DjKY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386159/%E7%9F%B3%E8%94%AD%E5%AE%A3%E9%81%93%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%89%8D%E5%8F%B8%E5%BA%AB-%E6%B6%8918%E5%B9%B4%E9%96%93%E5%81%B7%E5%8F%962380%E5%85%83-%E8%A2%AB%E6%8E%A721%E7%BD%AA%E9%82%84%E6%8A%BC%E5%80%99%E8%A8%8A",
     "timestamp": "2026-09-02T07:57:00.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "挪威新國王哈康八世宣誓效忠憲法　公主陪同　王后因術後休養缺席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171816942948847616210456.png/dZ7LP-eo_UawmyxOj_dxuh-YgXJwYOpZ1_pDzNf6Q8w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386090/%E6%8C%AA%E5%A8%81%E6%96%B0%E5%9C%8B%E7%8E%8B%E5%93%88%E5%BA%B7%E5%85%AB%E4%B8%96%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0%E6%86%B2%E6%B3%95-%E5%85%AC%E4%B8%BB%E9%99%AA%E5%90%8C-%E7%8E%8B%E5%90%8E%E5%9B%A0%E8%A1%93%E5%BE%8C%E4%BC%91%E9%A4%8A%E7%BC%BA%E5%B8%AD",
-    "timestamp": "2026-09-02T07:44:54.133Z",
     "strategy": ".content-card__main"
   }
 ];
