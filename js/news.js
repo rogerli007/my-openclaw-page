@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T23:41:57.877Z
+// Last updated: 2026-09-02T23:53:50.224Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國不再對日本抱有幻想",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/467239/org/b8dde51ba2ee357ee5d561322bbe357e.jpg/yjXaOVKUUXkz0Ef2YZvsuqqowbx56vykRGCrb0Rgq28?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60386221/%E4%B8%AD%E5%9C%8B%E4%B8%8D%E5%86%8D%E5%B0%8D%E6%97%A5%E6%9C%AC%E6%8A%B1%E6%9C%89%E5%B9%BB%E6%83%B3",
+    "timestamp": "2026-09-02T23:53:50.224Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國不再對日本抱有幻想",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171912112948121600504163.png/UrZaN3-lNiW2GsFIgdsIVoaci5YLVSzm8la4s_JWuLM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386325/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%B5%90%E6%9D%9F%E5%B0%8D%E5%9F%83%E5%8F%8A%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F-%E7%A8%B1%E9%9B%99%E6%96%B9%E8%A6%81%E5%BC%98%E6%8F%9A%E5%B9%B3%E7%AD%89%E4%BA%92%E9%91%92%E5%B0%8D%E8%A9%B1%E5%8C%85%E5%AE%B9%E6%96%87%E6%98%8E%E8%A7%80",
     "timestamp": "2026-09-02T18:44:58.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門元朗打擊非法賣淫　31女被捕　年紀最輕16歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172001641361051648093542.jpeg/DVbozhX8-0lLvnq8GkbmULlz8wfF_gp3Eh8V8BIfFfA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386322/%E8%B7%A8%E9%83%A8%E9%96%80%E5%85%83%E6%9C%97%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E8%B3%A3%E6%B7%AB-31%E5%A5%B3%E8%A2%AB%E6%8D%95-%E5%B9%B4%E7%B4%80%E6%9C%80%E8%BC%9516%E6%AD%B2",
-    "timestamp": "2026-09-02T18:25:23.713Z",
     "strategy": ".content-card__main"
   }
 ];
