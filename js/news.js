@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T18:25:23.713Z
+// Last updated: 2026-09-02T18:44:58.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平結束對埃及國事訪問　稱雙方要弘揚平等互鑒對話包容文明觀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171912112948121600504163.png/UrZaN3-lNiW2GsFIgdsIVoaci5YLVSzm8la4s_JWuLM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386325/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%B5%90%E6%9D%9F%E5%B0%8D%E5%9F%83%E5%8F%8A%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F-%E7%A8%B1%E9%9B%99%E6%96%B9%E8%A6%81%E5%BC%98%E6%8F%9A%E5%B9%B3%E7%AD%89%E4%BA%92%E9%91%92%E5%B0%8D%E8%A9%B1%E5%8C%85%E5%AE%B9%E6%96%87%E6%98%8E%E8%A7%80",
+    "timestamp": "2026-09-02T18:44:58.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門元朗打擊非法賣淫　31女被捕　年紀最輕16歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171889837754552320482905.jpeg/Ru5KePnaONILXeQDggH2-tyUL8mjBy-ewQFJ0sEBSdI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60386219/%E7%A7%91%E5%A4%A7%E8%A8%8A%E9%A3%9B%E9%AB%98%E5%B1%A4%E7%88%86%E5%87%BA%E8%BB%8C%E5%A5%B3%E4%B8%8B%E5%B1%AC%E5%82%B3%E9%81%AD%E8%A7%A3%E8%81%B7-%E7%B6%A0%E5%B8%BD%E5%A4%AB%E7%99%BC22%E9%A0%81%E6%96%87%E4%BB%B6%E6%9B%AC%E9%9C%B2%E9%AA%A8%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-09-02T10:53:44.888Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "行李箱頂部神秘拉帶怎麼用？網民揭神功能：開外掛買多10KG戰利品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171888560836448256956170.png/Czj3w5U21TL6_rvEUuk21VzSa_vIpD4UHdex0x3XsdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60386194/%E8%A1%8C%E6%9D%8E%E7%AE%B1%E9%A0%82%E9%83%A8%E7%A5%9E%E7%A7%98%E6%8B%89%E5%B8%B6%E6%80%8E%E9%BA%BC%E7%94%A8-%E7%B6%B2%E6%B0%91%E6%8F%AD%E7%A5%9E%E5%8A%9F%E8%83%BD-%E9%96%8B%E5%A4%96%E6%8E%9B%E8%B2%B7%E5%A4%9A10kg%E6%88%B0%E5%88%A9%E5%93%81",
-    "timestamp": "2026-09-02T10:44:34.693Z",
     "strategy": ".content-card__main"
   }
 ];
