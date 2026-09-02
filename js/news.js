@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T22:33:20.254Z
+// Last updated: 2026-09-02T22:40:53.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙德爾風球｜今日有一兩陣驟雨　最高31度　一號風球早上維持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172062109115486208049715.jpeg/j_7jQo2P3R6Sf1BFbgC1Sej68LTIVSPGbFinemxYp3o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386314/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%9831%E5%BA%A6-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81",
+    "timestamp": "2026-09-02T22:40:53.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙德爾風球｜今日有一兩陣驟雨　最高31度　一號風球早上維持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1171977060847980544601287.jpeg/upB9wKR9WsOjezB4L-GnoGKThQqaU0noG42hvj6Nob4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386315/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E5%B1%85%E6%B0%91%E8%B3%AA%E7%96%91%E7%82%BA%E4%BD%95%E4%BF%9D%E9%9A%AA%E7%BA%8C%E6%9C%9F-%E5%BC%95%E8%BF%B0%E5%90%88%E5%AE%89%E7%A8%B1%E6%9C%83%E5%86%8D%E5%AE%89%E6%8E%92%E4%B8%8A%E6%A8%93",
     "timestamp": "2026-09-02T17:16:06.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉兆銘離世｜羅淑佩致哀　將銘記其才華與奉獻精神",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1872899/org/00cc4f2c6dc87ec7604a4a20946c99ad.png/ogCsZPCwZwhQFruZI-2hlb-awl8Rw1ocIGv5GSBr-Rk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386316/%E5%8A%89%E5%85%86%E9%8A%98%E9%9B%A2%E4%B8%96-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%B4%E5%93%80-%E5%B0%87%E9%8A%98%E8%A8%98%E5%85%B6%E6%89%8D%E8%8F%AF%E8%88%87%E5%A5%89%E7%8D%BB%E7%B2%BE%E7%A5%9E",
-    "timestamp": "2026-09-02T16:53:59.302Z",
     "strategy": ".content-card__main"
   }
 ];
