@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T15:22:51.203Z
+// Last updated: 2026-09-02T15:44:09.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BLACKPINK Rosé傳拒「霸王茶姬」百億韓元代言　邀約失敗內幕曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171851249247588352154380.png/JzD5E2NILQOpKYGd9rbCRZZyCEKFrmXtTNg1tEzYNbQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386140/blackpink-ros%C3%A9%E5%82%B3%E6%8B%92-%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC-%E7%99%BE%E5%84%84%E9%9F%93%E5%85%83%E4%BB%A3%E8%A8%80-%E9%82%80%E7%B4%84%E5%A4%B1%E6%95%97%E5%85%A7%E5%B9%95%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-09-02T15:44:09.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蕩蕩蕩寇誌｜張家輝持槍冷笑掃射　阮經天超緊張驚呼：我唔識演",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171816942948847616210456.png/dZ7LP-eo_UawmyxOj_dxuh-YgXJwYOpZ1_pDzNf6Q8w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386090/%E6%8C%AA%E5%A8%81%E6%96%B0%E5%9C%8B%E7%8E%8B%E5%93%88%E5%BA%B7%E5%85%AB%E4%B8%96%E5%AE%A3%E8%AA%93%E6%95%88%E5%BF%A0%E6%86%B2%E6%B3%95-%E5%85%AC%E4%B8%BB%E9%99%AA%E5%90%8C-%E7%8E%8B%E5%90%8E%E5%9B%A0%E8%A1%93%E5%BE%8C%E4%BC%91%E9%A4%8A%E7%BC%BA%E5%B8%AD",
     "timestamp": "2026-09-02T07:44:54.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "戶口被用以收宏福苑騙款案　法官同意廚師囚11月過重　下調至7月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070796762697961472785126.jpeg/J1vy0andnnJtwAcuDwNHAlkFMT4FdN6tp2U5HJ1lORw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386133/%E6%88%B6%E5%8F%A3%E8%A2%AB%E7%94%A8%E4%BB%A5%E6%94%B6%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%A8%99%E6%AC%BE%E6%A1%88-%E6%B3%95%E5%AE%98%E5%90%8C%E6%84%8F%E5%BB%9A%E5%B8%AB%E5%9B%9A11%E6%9C%88%E9%81%8E%E9%87%8D-%E4%B8%8B%E8%AA%BF%E8%87%B37%E6%9C%88",
-    "timestamp": "2026-09-02T07:29:11.430Z",
     "strategy": ".content-card__main"
   }
 ];
