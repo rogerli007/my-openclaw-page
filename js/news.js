@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T20:53:53.881Z
+// Last updated: 2026-09-02T21:17:56.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖東私家車行車不穩　35歲男司機「吹波波」超標　涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172044606867509248072458.jpeg/JnSqz8K-pj56cZMtT9EjYdB0uxipDpKSsYGkDYuBpA0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386332/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9-35%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E6%B3%A2%E6%B3%A2-%E8%B6%85%E6%A8%99-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-02T21:17:56.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警觀塘發現可疑私家車　檢獲$1.3萬毒品包括依托咪酯　18歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171876621200658432132987.jpeg/2xEsoa7c0sRcy_yGOcQQY2Ro13PorG5vHOuIVxzriFc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60386232/%E8%95%A9%E8%95%A9%E8%95%A9%E5%AF%87%E8%AA%8C-%E5%BC%B5%E5%AE%B6%E8%BC%9D%E6%8C%81%E6%A7%8D%E5%86%B7%E7%AC%91%E6%8E%83%E5%B0%84-%E9%98%AE%E7%B6%93%E5%A4%A9%E8%B6%85%E7%B7%8A%E5%BC%B5%E9%A9%9A%E5%91%BC-%E6%88%91%E5%94%94%E8%AD%98%E6%BC%94",
     "timestamp": "2026-09-02T15:22:51.203Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Golden Child主唱崔誠允首推粵語單曲　9月10日觀塘apm舉行發布會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171842041294884864549306.jpeg/K1vx5gCDbIi7KwTFjc9pmw60Y2CAsKq-hpVpJ4aVaSc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386126/golden-child%E4%B8%BB%E5%94%B1%E5%B4%94%E8%AA%A0%E5%85%81%E9%A6%96%E6%8E%A8%E7%B2%B5%E8%AA%9E%E5%96%AE%E6%9B%B2-9%E6%9C%8810%E6%97%A5%E8%A7%80%E5%A1%98apm%E8%88%89%E8%A1%8C%E7%99%BC%E5%B8%83%E6%9C%83",
-    "timestamp": "2026-09-02T14:21:00.507Z",
     "strategy": ".content-card__main"
   }
 ];
