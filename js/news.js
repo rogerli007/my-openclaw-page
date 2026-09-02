@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T14:21:00.507Z
+// Last updated: 2026-09-02T15:22:51.203Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蕩蕩蕩寇誌｜張家輝持槍冷笑掃射　阮經天超緊張驚呼：我唔識演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171876621200658432132987.jpeg/2xEsoa7c0sRcy_yGOcQQY2Ro13PorG5vHOuIVxzriFc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60386232/%E8%95%A9%E8%95%A9%E8%95%A9%E5%AF%87%E8%AA%8C-%E5%BC%B5%E5%AE%B6%E8%BC%9D%E6%8C%81%E6%A7%8D%E5%86%B7%E7%AC%91%E6%8E%83%E5%B0%84-%E9%98%AE%E7%B6%93%E5%A4%A9%E8%B6%85%E7%B7%8A%E5%BC%B5%E9%A9%9A%E5%91%BC-%E6%88%91%E5%94%94%E8%AD%98%E6%BC%94",
+    "timestamp": "2026-09-02T15:22:51.203Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Golden Child主唱崔誠允首推粵語單曲　9月10日觀塘apm舉行發布會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070796762697961472785126.jpeg/J1vy0andnnJtwAcuDwNHAlkFMT4FdN6tp2U5HJ1lORw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386133/%E6%88%B6%E5%8F%A3%E8%A2%AB%E7%94%A8%E4%BB%A5%E6%94%B6%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%A8%99%E6%AC%BE%E6%A1%88-%E6%B3%95%E5%AE%98%E5%90%8C%E6%84%8F%E5%BB%9A%E5%B8%AB%E5%9B%9A11%E6%9C%88%E9%81%8E%E9%87%8D-%E4%B8%8B%E8%AA%BF%E8%87%B37%E6%9C%88",
     "timestamp": "2026-09-02T07:29:11.430Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新《國防動員法》可徵收台企資產？國台辦：依法保障合法權益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156551631706263552071832.jpeg/gW1izZlazQRvOMf6elQjF7ZFzxs9K2LZxwSiGscEoho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386116/%E6%96%B0-%E5%9C%8B%E9%98%B2%E5%8B%95%E5%93%A1%E6%B3%95-%E5%8F%AF%E5%BE%B5%E6%94%B6%E5%8F%B0%E4%BC%81%E8%B3%87%E7%94%A2-%E5%9C%8B%E5%8F%B0%E8%BE%A6-%E4%BE%9D%E6%B3%95%E4%BF%9D%E9%9A%9C%E5%90%88%E6%B3%95%E6%AC%8A%E7%9B%8A",
-    "timestamp": "2026-09-02T07:04:34.344Z",
     "strategy": ".content-card__main"
   }
 ];
