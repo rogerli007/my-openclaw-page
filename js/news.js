@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T01:16:56.173Z
+// Last updated: 2026-09-02T01:42:02.806Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜青衣長康邨男子墮樓　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171752881628385280301768.jpeg/nO7kgE6JtDAHdm-Q1AfyTKoBlSeVJiV3oz2naaM9p2k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60385940/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%9D%92%E8%A1%A3%E9%95%B7%E5%BA%B7%E9%82%A8%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-02T01:42:02.806Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "心臟衰竭發出3大警訊！營養師提醒千萬別忽視　建議這樣護心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385914/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%96%B0%E4%B8%80%E8%BC%AA%E6%89%93%E6%93%8A%E6%AD%A3%E7%95%B6-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%A0%B1%E5%BE%A9%E5%B0%87%E8%A2%AB%E6%9B%B4%E7%8C%9B%E7%83%88%E6%94%BB%E5%8B%A2",
     "timestamp": "2026-09-01T19:40:50.545Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱新一輪打擊正當　伊朗若報復將被更猛烈攻勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385914/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%96%B0%E4%B8%80%E8%BC%AA%E6%89%93%E6%93%8A%E6%AD%A3%E7%95%B6-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%A0%B1%E5%BE%A9%E5%B0%87%E8%A2%AB%E6%9B%B4%E7%8C%9B%E7%83%88%E6%94%BB%E5%8B%A2",
-    "timestamp": "2026-09-01T19:29:00.073Z",
     "strategy": ".content-card__main"
   }
 ];
