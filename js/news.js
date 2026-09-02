@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T01:42:02.806Z
+// Last updated: 2026-09-02T02:17:59.736Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "百度集團最快9月7日有望納入港股通　全棧AI價值重估在即｜彭偉新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60385945/%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9C%98%E6%9C%80%E5%BF%AB9%E6%9C%887%E6%97%A5%E6%9C%89%E6%9C%9B%E7%B4%8D%E5%85%A5%E6%B8%AF%E8%82%A1%E9%80%9A-%E5%85%A8%E6%A3%A7ai%E5%83%B9%E5%80%BC%E9%87%8D%E4%BC%B0%E5%9C%A8%E5%8D%B3-%E5%BD%AD%E5%81%89%E6%96%B0",
+    "timestamp": "2026-09-02T02:17:59.736Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜青衣長康邨男子墮樓　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220717/625290084580593664582076.jpeg/sKBfNMoTTPAWOjErbcVtHgas7RjFhE0rpruOj6a7jo8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385917/%E4%BC%8A%E6%9C%97%E6%93%9A%E6%8C%87%E5%86%8D%E6%94%BB%E6%93%8A%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E7%A8%B1%E7%BE%8E%E6%96%B9%E8%A1%8C%E5%8B%95%E4%BB%A4%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%80%B2%E4%B8%80%E6%AD%A5%E5%B0%81%E9%8E%96",
     "timestamp": "2026-09-01T19:54:02.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱新一輪打擊正當　伊朗若報復將被更猛烈攻勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385914/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%96%B0%E4%B8%80%E8%BC%AA%E6%89%93%E6%93%8A%E6%AD%A3%E7%95%B6-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%A0%B1%E5%BE%A9%E5%B0%87%E8%A2%AB%E6%9B%B4%E7%8C%9B%E7%83%88%E6%94%BB%E5%8B%A2",
-    "timestamp": "2026-09-01T19:40:50.545Z",
     "strategy": ".content-card__main"
   }
 ];
