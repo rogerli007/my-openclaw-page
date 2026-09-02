@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T00:49:07.532Z
+// Last updated: 2026-09-02T01:16:56.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "心臟衰竭發出3大警訊！營養師提醒千萬別忽視　建議這樣護心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1098831300535521280405283.png/4xw6lLkws7iO7ts5V24e24SB7t0jZ8HJXJp6TVyaek0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60321907/%E5%BF%83%E8%87%9F%E8%A1%B0%E7%AB%AD%E7%99%BC%E5%87%BA3%E5%A4%A7%E8%AD%A6%E8%A8%8A-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%90%E9%86%92%E5%8D%83%E8%90%AC%E5%88%A5%E5%BF%BD%E8%A6%96-%E5%BB%BA%E8%AD%B0%E9%80%99%E6%A8%A3%E8%AD%B7%E5%BF%83",
+    "timestamp": "2026-09-02T01:16:56.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "託付愛貓要準備幾多錢？養貓終老預算大公開　揭平價託管機構陷阱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385914/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%96%B0%E4%B8%80%E8%BC%AA%E6%89%93%E6%93%8A%E6%AD%A3%E7%95%B6-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%A0%B1%E5%BE%A9%E5%B0%87%E8%A2%AB%E6%9B%B4%E7%8C%9B%E7%83%88%E6%94%BB%E5%8B%A2",
     "timestamp": "2026-09-01T19:29:00.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱新一輪打擊正當　伊朗若報復將被更猛烈攻勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163711830166605824241309.jpeg/W8CiNusm_bxe5mRtK6KFFaguAGT3bTkc41Ilx-NSJcc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60385914/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%96%B0%E4%B8%80%E8%BC%AA%E6%89%93%E6%93%8A%E6%AD%A3%E7%95%B6-%E4%BC%8A%E6%9C%97%E8%8B%A5%E5%A0%B1%E5%BE%A9%E5%B0%87%E8%A2%AB%E6%9B%B4%E7%8C%9B%E7%83%88%E6%94%BB%E5%8B%A2",
-    "timestamp": "2026-09-01T19:17:49.629Z",
     "strategy": ".content-card__main"
   }
 ];
