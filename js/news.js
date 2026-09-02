@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T18:44:58.633Z
+// Last updated: 2026-09-02T18:54:20.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：建議霍爾木茲海峽改名「特朗普海峽」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172010994965155840387125.png/7EMVSmCnffFQcvobEXd8P2IRuAkkstOnrvXTda7103U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386327/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BB%BA%E8%AD%B0%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%94%B9%E5%90%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%B3%BD",
+    "timestamp": "2026-09-02T18:54:20.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平結束對埃及國事訪問　稱雙方要弘揚平等互鑒對話包容文明觀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171894042661752832713865.jpeg/FAJKMPF2cnQdP8gU23p6VLUfQ4QIqGDVR7HOh0exzoc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386257/%E6%B5%B7%E9%97%9C%E5%96%AE%E6%97%A5%E6%90%976%E7%A7%81%E7%85%99%E5%80%89-%E6%8B%988%E4%BA%BA%E6%AA%A2-5080%E8%90%AC%E8%B2%A8-%E7%93%A6%E8%A7%A3%E4%B8%80%E5%87%BA%E5%8F%A3%E7%A7%81%E7%85%99%E8%B5%B0%E7%A7%81%E9%8F%88",
     "timestamp": "2026-09-02T11:19:29.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科大訊飛高層爆出軌女下屬傳遭解職　綠帽夫發22頁文件曬露骨對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171889837754552320482905.jpeg/Ru5KePnaONILXeQDggH2-tyUL8mjBy-ewQFJ0sEBSdI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60386219/%E7%A7%91%E5%A4%A7%E8%A8%8A%E9%A3%9B%E9%AB%98%E5%B1%A4%E7%88%86%E5%87%BA%E8%BB%8C%E5%A5%B3%E4%B8%8B%E5%B1%AC%E5%82%B3%E9%81%AD%E8%A7%A3%E8%81%B7-%E7%B6%A0%E5%B8%BD%E5%A4%AB%E7%99%BC22%E9%A0%81%E6%96%87%E4%BB%B6%E6%9B%AC%E9%9C%B2%E9%AA%A8%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-09-02T10:53:44.888Z",
     "strategy": ".content-card__main"
   }
 ];
