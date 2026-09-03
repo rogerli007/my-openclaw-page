@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T12:51:57.279Z
+// Last updated: 2026-09-03T13:18:41.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "拿美國護照可留港人身份？綠卡vs護照有何分別？一圖看清權利限制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171623184651259904149723.png/FyuRd4BRPO8T5u89UjCCuQeoNpMoeg5BGXSiQxl0okM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60373241/%E6%8B%BF%E8%AD%B7%E7%85%A7%E8%83%BD%E4%BF%9D%E7%95%99%E9%A6%99%E6%B8%AF%E8%BA%AB%E4%BB%BD-%E7%BE%8E%E5%9C%8B%E7%B6%A0%E5%8D%A1%E8%AD%B7%E7%85%A7%E5%8D%80%E5%88%A5%E5%9C%A8%E5%93%AA-%E4%B8%80%E5%9C%96%E7%9D%87%E6%B8%85%E6%AC%8A%E5%88%A9%E9%99%90%E5%88%B6",
+    "timestamp": "2026-09-03T13:18:41.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "心臟科醫生王國耀做手術時涉重用一次性導管　專家證人指屬高風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172119546207670272067132.png/UMUQI1Fi8qZY-uhrtssfOPsprkEyMXQqD2r23w9q9t8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386352/%E7%BE%8E%E5%9C%8B%E6%98%8E%E5%B0%BC%E9%98%BF%E6%B3%A2%E5%88%A9%E6%96%AF%E5%B8%82%E4%B8%AD%E5%BF%83%E7%88%86%E6%A7%8D%E6%93%8A-%E6%A7%8D%E6%89%8B%E5%9C%A8%E5%85%A73%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E5%8F%A6%E6%9C%896%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-09-03T02:08:09.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "丁薛祥會見俄羅斯總統普京　中俄將加強投資和能源等重點領域合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172117296710160384361842.jpeg/FAIIr4QKJGThWGhOmfc5XSlrssV4NaRptHfNurR3zbo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386357/%E4%B8%81%E8%96%9B%E7%A5%A5%E6%9C%83%E8%A6%8B%E4%BF%84%E7%BE%85%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%99%AE%E4%BA%AC-%E4%B8%AD%E4%BF%84%E5%B0%87%E5%8A%A0%E5%BC%B7%E6%8A%95%E8%B3%87%E5%92%8C%E8%83%BD%E6%BA%90%E7%AD%89%E9%87%8D%E9%BB%9E%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-09-03T01:46:56.896Z",
     "strategy": ".content-card__main"
   }
 ];
