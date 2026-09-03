@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T05:48:58.130Z
+// Last updated: 2026-09-03T06:31:52.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "拐子婆梅姨將開庭　受害家長：想問她拐賣多少孩子，心裏怎麼想？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172154304186814464598610.jpeg/RVfC0qmWIuRnvrI3IOGvUviKE7xXsHtqyHFlL8hxZS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386437/%E6%8B%90%E5%AD%90%E5%A9%86%E6%A2%85%E5%A7%A8%E5%B0%87%E9%96%8B%E5%BA%AD-%E5%8F%97%E5%AE%B3%E5%AE%B6%E9%95%B7-%E6%83%B3%E5%95%8F%E5%A5%B9%E6%8B%90%E8%B3%A3%E5%A4%9A%E5%B0%91%E5%AD%A9%E5%AD%90-%E5%BF%83%E8%A3%8F%E6%80%8E%E9%BA%BC%E6%83%B3",
+    "timestamp": "2026-09-03T06:31:52.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銅鑼灣駕駛考試中心　電單車撞考牌官車再撼壆　「學神」受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172037301522403328071892.jpeg/jaEXCLfACY1vlwi2xDrOIIgrj3kENqovvjBWGoQwVho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386331/%E8%AD%A6%E8%A7%80%E5%A1%98%E7%99%BC%E7%8F%BE%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%AA%A2%E7%8D%B2-1-3%E8%90%AC%E6%AF%92%E5%93%81%E5%8C%85%E6%8B%AC%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF-18%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-02T20:53:53.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警觀塘發現可疑私家車　檢獲$1.3萬毒品包括依托咪酯　18歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172037301522403328071892.jpeg/jaEXCLfACY1vlwi2xDrOIIgrj3kENqovvjBWGoQwVho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386331/%E8%AD%A6%E8%A7%80%E5%A1%98%E7%99%BC%E7%8F%BE%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%AA%A2%E7%8D%B2-1-3%E8%90%AC%E6%AF%92%E5%93%81%E5%8C%85%E6%8B%AC%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF-18%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-02T20:42:19.131Z",
     "strategy": ".content-card__main"
   }
 ];
