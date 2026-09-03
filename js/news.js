@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T09:53:41.514Z
+// Last updated: 2026-09-03T10:26:02.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林盛斌澳門棟篤笑Boxer上陣玩驚險特技　化身苦主爆笑數奇人奇事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172178849673252864985617.jpeg/iV9nbzaY4AquOhNpz2V-6NJf5pQTMZUtgFVFnYBVRZ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386460/%E6%9E%97%E7%9B%9B%E6%96%8C%E6%BE%B3%E9%96%80%E6%A3%9F%E7%AF%A4%E7%AC%91boxer%E4%B8%8A%E9%99%A3%E7%8E%A9%E9%A9%9A%E9%9A%AA%E7%89%B9%E6%8A%80-%E5%8C%96%E8%BA%AB%E8%8B%A6%E4%B8%BB%E7%88%86%E7%AC%91%E6%95%B8%E5%A5%87%E4%BA%BA%E5%A5%87%E4%BA%8B",
+    "timestamp": "2026-09-03T10:26:02.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：白宮向SpaceX等美企施壓　要求缺席馬克龍主辦太空峰會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165453084583792640924730.jpeg/9tHs-nECaTDNRj7tIWFcC_5KoZmXT11UKJxkEyicZBM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386339/nvidia%E6%94%B6%E6%BC%B2%E9%80%BE3-%E6%91%A9%E9%80%9A%E5%88%86%E6%9E%90%E5%B8%AB%E8%B7%AF%E6%BC%94%E5%BE%8C%E4%BB%8D%E5%8A%9B%E6%92%90-%E7%A8%B1%E6%A5%AD%E5%8B%99%E7%93%B6%E9%A0%B8%E4%B8%8D%E5%9C%A8%E9%9C%80%E6%B1%82%E7%AB%AF",
     "timestamp": "2026-09-02T23:17:53.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前亞視花旦合體帶貨被嘲明星難民營　老闆蔡淇俊怒轟：18線又點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171899073108643840834275.jpeg/XbNUdzAbthAOvoJzPRiZQ-a_Wo9-wXA0BoyQ4gaMkOI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386119/%E8%94%A1%E6%9B%89%E5%84%80%E5%8A%89%E7%8E%89%E5%A9%B7%E5%90%88%E9%AB%94%E5%B8%B6%E8%B2%A8%E8%A2%AB%E5%98%B2%E6%98%8E%E6%98%9F%E9%9B%A3%E6%B0%91%E7%87%9F-%E8%80%81%E9%97%86%E8%94%A1%E6%B7%87%E4%BF%8A%E6%80%92%E8%BD%9F-18%E7%B7%9A%E5%8F%88%E9%BB%9E",
-    "timestamp": "2026-09-02T22:53:56.742Z",
     "strategy": ".content-card__main"
   }
 ];
