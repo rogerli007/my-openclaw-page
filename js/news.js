@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T08:28:03.695Z
+// Last updated: 2026-09-03T08:58:47.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "孫千是誰？《早春晴朗》尚之桃　10點認識「東北全智賢」長腿女神",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172217266628988928281506.png/lgXp6F-3bltmXP97i0AEhHEmcNKc6N9dMZXRezGV0Xs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386487/%E5%AD%AB%E5%8D%83%E6%98%AF%E8%AA%B0-%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E5%B0%9A%E4%B9%8B%E6%A1%83-10%E9%BB%9E%E8%AA%8D%E8%AD%98-%E6%9D%B1%E5%8C%97%E5%85%A8%E6%99%BA%E8%B3%A2-%E9%95%B7%E8%85%BF%E5%A5%B3%E7%A5%9E",
+    "timestamp": "2026-09-03T08:58:47.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神配對計劃2｜9.6強勢回歸　郭珮文Tube Top搶鏡陳若思自爆孤獨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172062109115486208049715.jpeg/j_7jQo2P3R6Sf1BFbgC1Sej68LTIVSPGbFinemxYp3o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386314/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%9831%E5%BA%A6-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81",
     "timestamp": "2026-09-02T22:17:58.750Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "僅6歲子倖存　墨西哥樂手與孕妻幼女家傭愛犬遭綁殺　熟人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172050590084108288156082.png/_yjbex1-EfP_mt5w6hhhFfQqtd5UVRmf860n1fOtJ9U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386334/%E5%83%856%E6%AD%B2%E5%AD%90%E5%80%96%E5%AD%98-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%A8%82%E6%89%8B%E8%88%87%E5%AD%95%E5%A6%BB%E5%B9%BC%E5%A5%B3%E5%AE%B6%E5%82%AD%E6%84%9B%E7%8A%AC%E9%81%AD%E7%B6%81%E6%AE%BA-%E7%86%9F%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-02T21:54:12.735Z",
     "strategy": ".content-card__main"
   }
 ];
