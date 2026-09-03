@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T21:53:31.242Z
+// Last updated: 2026-09-03T22:19:19.815Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "家長生活繁忙沒時間照顧自己？專家教3個生活小改變實踐自我關懷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172034731802365952075892.jpeg/1wrrS5Jwy6klju1N_J09CDWywh4Np5nWnulRv57pUb8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60385919/%E5%AE%B6%E9%95%B7%E7%94%9F%E6%B4%BB%E7%B9%81%E5%BF%99%E6%B2%92%E6%99%82%E9%96%93%E7%85%A7%E9%A1%A7%E8%87%AA%E5%B7%B1-%E5%B0%88%E5%AE%B6%E6%95%993%E5%80%8B%E7%94%9F%E6%B4%BB%E5%B0%8F%E6%94%B9%E8%AE%8A%E5%AF%A6%E8%B8%90%E8%87%AA%E6%88%91%E9%97%9C%E6%87%B7",
+    "timestamp": "2026-09-03T22:19:19.815Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九龍公路比亞迪撞電單車　鐵騎士滑前20米嚴重擦傷　一度昏迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250720/1023688969474281472239145.jpeg/_e9nFXT3rntoYe1OXeongzCA3wAFxrK8-ZgFp_mYBac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386643/%E6%97%A5%E4%B8%AD%E5%8F%8B%E5%A5%BD%E8%AD%B0%E5%93%A1%E8%81%AF%E7%9B%9F%E6%93%AC%E6%9C%88%E5%85%A7%E6%B4%BE%E5%B9%B4%E8%BC%95%E6%88%90%E5%93%A1%E8%A8%AA%E8%8F%AF-2025-11%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1",
     "timestamp": "2026-09-03T16:43:34.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日中友好議員聯盟擬月內派年輕成員訪華　2025.11以來首次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250720/1023688969474281472239145.jpeg/_e9nFXT3rntoYe1OXeongzCA3wAFxrK8-ZgFp_mYBac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386643/%E6%97%A5%E4%B8%AD%E5%8F%8B%E5%A5%BD%E8%AD%B0%E5%93%A1%E8%81%AF%E7%9B%9F%E6%93%AC%E6%9C%88%E5%85%A7%E6%B4%BE%E5%B9%B4%E8%BC%95%E6%88%90%E5%93%A1%E8%A8%AA%E8%8F%AF-2025-11%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1",
-    "timestamp": "2026-09-03T16:23:00.292Z",
     "strategy": ".content-card__main"
   }
 ];
