@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T06:31:52.527Z
+// Last updated: 2026-09-03T06:56:14.790Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《韓國製造2》9月登陸Disney+　升官黑化玄彬對決偏執復仇鄭雨盛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172157681847242752521390.png/99IKAAzxaiU1FKDeqmp7Q_wo5LubPlIgDwrJNg8KyTY",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60386378/%E9%9F%93%E5%9C%8B%E8%A3%BD%E9%80%A02-9%E6%9C%88%E7%99%BB%E9%99%B8disney-%E5%8D%87%E5%AE%98%E9%BB%91%E5%8C%96%E7%8E%84%E5%BD%AC%E5%B0%8D%E6%B1%BA%E5%81%8F%E5%9F%B7%E5%BE%A9%E4%BB%87%E9%84%AD%E9%9B%A8%E7%9B%9B",
+    "timestamp": "2026-09-03T06:56:14.790Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "拐子婆梅姨將開庭　受害家長：想問她拐賣多少孩子，心裏怎麼想？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172044606867509248072458.jpeg/JnSqz8K-pj56cZMtT9EjYdB0uxipDpKSsYGkDYuBpA0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386332/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9-35%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E6%B3%A2%E6%B3%A2-%E8%B6%85%E6%A8%99-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-02T21:17:56.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警觀塘發現可疑私家車　檢獲$1.3萬毒品包括依托咪酯　18歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172037301522403328071892.jpeg/jaEXCLfACY1vlwi2xDrOIIgrj3kENqovvjBWGoQwVho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386331/%E8%AD%A6%E8%A7%80%E5%A1%98%E7%99%BC%E7%8F%BE%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%AA%A2%E7%8D%B2-1-3%E8%90%AC%E6%AF%92%E5%93%81%E5%8C%85%E6%8B%AC%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF-18%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-02T20:53:53.881Z",
     "strategy": ".content-card__main"
   }
 ];
