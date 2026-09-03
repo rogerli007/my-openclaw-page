@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T16:23:00.292Z
+// Last updated: 2026-09-03T16:43:34.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日中友好議員聯盟擬月內派年輕成員訪華　2025.11以來首次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250720/1023688969474281472239145.jpeg/_e9nFXT3rntoYe1OXeongzCA3wAFxrK8-ZgFp_mYBac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386643/%E6%97%A5%E4%B8%AD%E5%8F%8B%E5%A5%BD%E8%AD%B0%E5%93%A1%E8%81%AF%E7%9B%9F%E6%93%AC%E6%9C%88%E5%85%A7%E6%B4%BE%E5%B9%B4%E8%BC%95%E6%88%90%E5%93%A1%E8%A8%AA%E8%8F%AF-2025-11%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1",
+    "timestamp": "2026-09-03T16:43:34.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日中友好議員聯盟擬月內派年輕成員訪華　2025.11以來首次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172198489937940480143075.jpeg/7b0pkPptHWwvLN2TTgSjE_Xi5kdhWibf17EvP9exLz8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386492/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-9-6%E5%BC%B7%E5%8B%A2%E5%9B%9E%E6%AD%B8-%E9%83%AD%E7%8F%AE%E6%96%87tube-top%E6%90%B6%E9%8F%A1%E9%99%B3%E8%8B%A5%E6%80%9D%E8%87%AA%E7%88%86%E5%AD%A4%E7%8D%A8",
     "timestamp": "2026-09-03T08:28:03.695Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣告鉅子Kitty Lun倫潔瑩離世　Meta讚揚悉心引領及栽培團隊人才",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172207565547769856574813.jpeg/XPYN_lfsuha-nKk-eHIFHwRDVjIVZDv6-JsWXfibFl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386521/%E5%BB%A3%E5%91%8A%E9%89%85%E5%AD%90kitty-lun%E5%80%AB%E6%BD%94%E7%91%A9%E9%9B%A2%E4%B8%96-meta%E8%AE%9A%E6%8F%9A%E6%82%89%E5%BF%83%E5%BC%95%E9%A0%98%E5%8F%8A%E6%A0%BD%E5%9F%B9%E5%9C%98%E9%9A%8A%E4%BA%BA%E6%89%8D",
-    "timestamp": "2026-09-03T07:54:33.116Z",
     "strategy": ".content-card__main"
   }
 ];
