@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T13:18:41.192Z
+// Last updated: 2026-09-03T13:42:45.282Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "智能叛變？俄羅斯店機械人試圖連環飛踢顧客　遭送走重啟｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172289798720196608942736.png/_7bhCuKhesZpnU_KOrpawn0gTEvThK9VS81coUvNXKE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386624/%E6%99%BA%E8%83%BD%E5%8F%9B%E8%AE%8A-%E4%BF%84%E7%BE%85%E6%96%AF%E5%BA%97%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%A9%A6%E5%9C%96%E9%80%A3%E7%92%B0%E9%A3%9B%E8%B8%A2%E9%A1%A7%E5%AE%A2-%E9%81%AD%E9%80%81%E8%B5%B0%E9%87%8D%E5%95%9F-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-03T13:42:45.282Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "拿美國護照可留港人身份？綠卡vs護照有何分別？一圖看清權利限制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144097831523454976972143.jpeg/cn3aEoXAvNIIOwO7XsAIe6hEnu6g9bvYfHxugnx8boI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386367/%E7%BE%8E%E8%81%AF%E5%84%B2%E5%B1%80%E8%A4%90%E7%9A%AE%E6%9B%B8%E6%8C%87%E7%B6%93%E6%BF%9F%E6%BA%AB%E5%92%8C%E6%93%B4%E5%BC%B5-%E7%B6%93%E6%BF%9F%E5%89%8D%E6%99%AF%E6%AD%A3%E5%90%91%E6%83%9F%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7%E6%97%A5%E7%9B%8A%E5%8D%87%E9%AB%98",
     "timestamp": "2026-09-03T03:29:31.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國明尼阿波利斯市中心爆槍擊　槍手在內3人死亡　另有6人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172119546207670272067132.png/UMUQI1Fi8qZY-uhrtssfOPsprkEyMXQqD2r23w9q9t8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386352/%E7%BE%8E%E5%9C%8B%E6%98%8E%E5%B0%BC%E9%98%BF%E6%B3%A2%E5%88%A9%E6%96%AF%E5%B8%82%E4%B8%AD%E5%BF%83%E7%88%86%E6%A7%8D%E6%93%8A-%E6%A7%8D%E6%89%8B%E5%9C%A8%E5%85%A73%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E5%8F%A6%E6%9C%896%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-09-03T02:08:09.379Z",
     "strategy": ".content-card__main"
   }
 ];
