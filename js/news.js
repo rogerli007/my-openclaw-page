@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T19:54:23.513Z
+// Last updated: 2026-09-03T20:32:53.077Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-03T20:32:53.077Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172289798720196608942736.png/_7bhCuKhesZpnU_KOrpawn0gTEvThK9VS81coUvNXKE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386624/%E6%99%BA%E8%83%BD%E5%8F%9B%E8%AE%8A-%E4%BF%84%E7%BE%85%E6%96%AF%E5%BA%97%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%A9%A6%E5%9C%96%E9%80%A3%E7%92%B0%E9%A3%9B%E8%B8%A2%E9%A1%A7%E5%AE%A2-%E9%81%AD%E9%80%81%E8%B5%B0%E9%87%8D%E5%95%9F-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-03T13:42:45.282Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "拿美國護照可留港人身份？綠卡vs護照有何分別？一圖看清權利限制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171623184651259904149723.png/FyuRd4BRPO8T5u89UjCCuQeoNpMoeg5BGXSiQxl0okM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60373241/%E6%8B%BF%E8%AD%B7%E7%85%A7%E8%83%BD%E4%BF%9D%E7%95%99%E9%A6%99%E6%B8%AF%E8%BA%AB%E4%BB%BD-%E7%BE%8E%E5%9C%8B%E7%B6%A0%E5%8D%A1%E8%AD%B7%E7%85%A7%E5%8D%80%E5%88%A5%E5%9C%A8%E5%93%AA-%E4%B8%80%E5%9C%96%E7%9D%87%E6%B8%85%E6%AC%8A%E5%88%A9%E9%99%90%E5%88%B6",
-    "timestamp": "2026-09-03T13:18:41.192Z",
     "strategy": ".content-card__main"
   }
 ];
