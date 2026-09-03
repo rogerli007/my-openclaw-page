@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T10:26:02.904Z
+// Last updated: 2026-09-03T10:53:30.736Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "孫藝珍一家3口被捕獲東京出遊　玄彬鬍鬚吸睛　網讚3歲兒漂亮似AI",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172237948477771776675493.png/OKZvx1aDRj0wEbOs3d9U1spEB5Bf2Yw1OQ6SHjkOkh4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386566/%E5%AD%AB%E8%97%9D%E7%8F%8D%E4%B8%80%E5%AE%B63%E5%8F%A3%E8%A2%AB%E6%8D%95%E7%8D%B2%E6%9D%B1%E4%BA%AC%E5%87%BA%E9%81%8A-%E7%8E%84%E5%BD%AC%E9%AC%8D%E9%AC%9A%E5%90%B8%E7%9D%9B-%E7%B6%B2%E8%AE%9A3%E6%AD%B2%E5%85%92%E6%BC%82%E4%BA%AE%E4%BC%BCai",
+    "timestamp": "2026-09-03T10:53:30.736Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林盛斌澳門棟篤笑Boxer上陣玩驚險特技　化身苦主爆笑數奇人奇事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/467239/org/b8dde51ba2ee357ee5d561322bbe357e.jpg/yjXaOVKUUXkz0Ef2YZvsuqqowbx56vykRGCrb0Rgq28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60386221/%E4%B8%AD%E5%9C%8B%E4%B8%8D%E5%86%8D%E5%B0%8D%E6%97%A5%E6%9C%AC%E6%8A%B1%E6%9C%89%E5%B9%BB%E6%83%B3",
     "timestamp": "2026-09-02T23:41:57.877Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Nvidia收漲逾3%　摩通分析師路演後仍力撐　稱業務瓶頸不在需求端",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165453084583792640924730.jpeg/9tHs-nECaTDNRj7tIWFcC_5KoZmXT11UKJxkEyicZBM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386339/nvidia%E6%94%B6%E6%BC%B2%E9%80%BE3-%E6%91%A9%E9%80%9A%E5%88%86%E6%9E%90%E5%B8%AB%E8%B7%AF%E6%BC%94%E5%BE%8C%E4%BB%8D%E5%8A%9B%E6%92%90-%E7%A8%B1%E6%A5%AD%E5%8B%99%E7%93%B6%E9%A0%B8%E4%B8%8D%E5%9C%A8%E9%9C%80%E6%B1%82%E7%AB%AF",
-    "timestamp": "2026-09-02T23:17:53.859Z",
     "strategy": ".content-card__main"
   }
 ];
