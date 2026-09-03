@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T09:44:19.422Z
+// Last updated: 2026-09-03T09:53:41.514Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：白宮向SpaceX等美企施壓　要求缺席馬克龍主辦太空峰會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1412070/org/ac0d53ec2d15dbdc0f57817f4192a220.jpg/Qon1eqRWGvgEabZlMlX79kV3HIwwjOdGmSQYyJkkGMg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386565/%E7%BE%8E%E5%AA%92-%E7%99%BD%E5%AE%AE%E5%90%91spacex%E7%AD%89%E7%BE%8E%E4%BC%81%E6%96%BD%E5%A3%93-%E8%A6%81%E6%B1%82%E7%BC%BA%E5%B8%AD%E9%A6%AC%E5%85%8B%E9%BE%8D%E4%B8%BB%E8%BE%A6%E5%A4%AA%E7%A9%BA%E5%B3%B0%E6%9C%83",
+    "timestamp": "2026-09-03T09:53:41.514Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗醫院新大樓壞𨋢｜報道指𨋢槽歪斜所致　建築署拒透露工程細節",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171899073108643840834275.jpeg/XbNUdzAbthAOvoJzPRiZQ-a_Wo9-wXA0BoyQ4gaMkOI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386119/%E8%94%A1%E6%9B%89%E5%84%80%E5%8A%89%E7%8E%89%E5%A9%B7%E5%90%88%E9%AB%94%E5%B8%B6%E8%B2%A8%E8%A2%AB%E5%98%B2%E6%98%8E%E6%98%9F%E9%9B%A3%E6%B0%91%E7%87%9F-%E8%80%81%E9%97%86%E8%94%A1%E6%B7%87%E4%BF%8A%E6%80%92%E8%BD%9F-18%E7%B7%9A%E5%8F%88%E9%BB%9E",
     "timestamp": "2026-09-02T22:53:56.742Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙德爾風球｜今日有一兩陣驟雨　最高31度　一號風球早上維持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172062109115486208049715.jpeg/j_7jQo2P3R6Sf1BFbgC1Sej68LTIVSPGbFinemxYp3o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386314/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%9831%E5%BA%A6-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81",
-    "timestamp": "2026-09-02T22:40:53.211Z",
     "strategy": ".content-card__main"
   }
 ];
