@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T21:41:20.988Z
+// Last updated: 2026-09-03T21:53:31.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九龍公路比亞迪撞電單車　鐵騎士滑前20米嚴重擦傷　一度昏迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172407444588990464187625.jpeg/P6JVRM3ASlRpAGFN6DlTANPS5kvRWFGrCRVsYTMVbGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386661/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%85%AC%E8%B7%AF%E6%AF%94%E4%BA%9E%E8%BF%AA%E6%92%9E%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%BB%91%E5%89%8D20%E7%B1%B3%E5%9A%B4%E9%87%8D%E6%93%A6%E5%82%B7-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7",
+    "timestamp": "2026-09-03T21:53:31.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九龍公路比亞迪撞電單車　鐵騎士滑前20米嚴重擦傷　一度昏迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250720/1023688969474281472239145.jpeg/_e9nFXT3rntoYe1OXeongzCA3wAFxrK8-ZgFp_mYBac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386643/%E6%97%A5%E4%B8%AD%E5%8F%8B%E5%A5%BD%E8%AD%B0%E5%93%A1%E8%81%AF%E7%9B%9F%E6%93%AC%E6%9C%88%E5%85%A7%E6%B4%BE%E5%B9%B4%E8%BC%95%E6%88%90%E5%93%A1%E8%A8%AA%E8%8F%AF-2025-11%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1",
     "timestamp": "2026-09-03T16:23:00.292Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》十周年｜政商界翹楚雲集　李家超：百尺竿頭更進一步",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172315393394479104948036.jpeg/y1Wys46MTPnteZ3C099jp6Ot5EoRNRyVD_N5mg_zeZo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386620/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E6%94%BF%E5%95%86%E7%95%8C%E7%BF%B9%E6%A5%9A%E9%9B%B2%E9%9B%86-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E7%99%BE%E5%B0%BA%E7%AB%BF%E9%A0%AD%E6%9B%B4%E9%80%B2%E4%B8%80%E6%AD%A5",
-    "timestamp": "2026-09-03T15:53:53.503Z",
     "strategy": ".content-card__main"
   }
 ];
