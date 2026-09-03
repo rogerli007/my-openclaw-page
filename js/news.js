@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T14:43:25.148Z
+// Last updated: 2026-09-03T15:40:37.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年｜梁振英盼講好香港故事　談百年變局下媒體使命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172317986338377728793062.jpeg/vZ4gG4TpB-sXe4xxUv9QE-ybf3tbCviNfsERnn7BEZ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386623/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E6%A2%81%E6%8C%AF%E8%8B%B1%E7%9B%BC%E8%AC%9B%E5%A5%BD%E9%A6%99%E6%B8%AF%E6%95%85%E4%BA%8B-%E8%AB%87%E7%99%BE%E5%B9%B4%E8%AE%8A%E5%B1%80%E4%B8%8B%E5%AA%92%E9%AB%94%E4%BD%BF%E5%91%BD",
+    "timestamp": "2026-09-03T15:40:37.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼野火毒煙席捲東南亞　飄至馬來西亞菲律賓等地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172157681847242752521390.png/99IKAAzxaiU1FKDeqmp7Q_wo5LubPlIgDwrJNg8KyTY",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60386378/%E9%9F%93%E5%9C%8B%E8%A3%BD%E9%80%A02-9%E6%9C%88%E7%99%BB%E9%99%B8disney-%E5%8D%87%E5%AE%98%E9%BB%91%E5%8C%96%E7%8E%84%E5%BD%AC%E5%B0%8D%E6%B1%BA%E5%81%8F%E5%9F%B7%E5%BE%A9%E4%BB%87%E9%84%AD%E9%9B%A8%E7%9B%9B",
     "timestamp": "2026-09-03T06:56:14.790Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "拐子婆梅姨將開庭　受害家長：想問她拐賣多少孩子，心裏怎麼想？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172154304186814464598610.jpeg/RVfC0qmWIuRnvrI3IOGvUviKE7xXsHtqyHFlL8hxZS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386437/%E6%8B%90%E5%AD%90%E5%A9%86%E6%A2%85%E5%A7%A8%E5%B0%87%E9%96%8B%E5%BA%AD-%E5%8F%97%E5%AE%B3%E5%AE%B6%E9%95%B7-%E6%83%B3%E5%95%8F%E5%A5%B9%E6%8B%90%E8%B3%A3%E5%A4%9A%E5%B0%91%E5%AD%A9%E5%AD%90-%E5%BF%83%E8%A3%8F%E6%80%8E%E9%BA%BC%E6%83%B3",
-    "timestamp": "2026-09-03T06:31:52.527Z",
     "strategy": ".content-card__main"
   }
 ];
