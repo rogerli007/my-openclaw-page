@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T15:53:53.503Z
+// Last updated: 2026-09-03T16:23:00.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日中友好議員聯盟擬月內派年輕成員訪華　2025.11以來首次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250720/1023688969474281472239145.jpeg/_e9nFXT3rntoYe1OXeongzCA3wAFxrK8-ZgFp_mYBac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386643/%E6%97%A5%E4%B8%AD%E5%8F%8B%E5%A5%BD%E8%AD%B0%E5%93%A1%E8%81%AF%E7%9B%9F%E6%93%AC%E6%9C%88%E5%85%A7%E6%B4%BE%E5%B9%B4%E8%BC%95%E6%88%90%E5%93%A1%E8%A8%AA%E8%8F%AF-2025-11%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1",
+    "timestamp": "2026-09-03T16:23:00.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》十周年｜政商界翹楚雲集　李家超：百尺竿頭更進一步",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172207565547769856574813.jpeg/XPYN_lfsuha-nKk-eHIFHwRDVjIVZDv6-JsWXfibFl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386521/%E5%BB%A3%E5%91%8A%E9%89%85%E5%AD%90kitty-lun%E5%80%AB%E6%BD%94%E7%91%A9%E9%9B%A2%E4%B8%96-meta%E8%AE%9A%E6%8F%9A%E6%82%89%E5%BF%83%E5%BC%95%E9%A0%98%E5%8F%8A%E6%A0%BD%E5%9F%B9%E5%9C%98%E9%9A%8A%E4%BA%BA%E6%89%8D",
     "timestamp": "2026-09-03T07:54:33.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃錦輝醉駕｜被控酒後駕駛等四項控罪　下周三沙田裁判法院提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096454311082201088740692.jpeg/uTw8NFcToxU5gZMOWSEz_Af9uWIhC4pQNX1xAzV9cQM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386517/%E9%BB%83%E9%8C%A6%E8%BC%9D%E9%86%89%E9%A7%95-%E8%A2%AB%E6%8E%A7%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E7%AD%89%E5%9B%9B%E9%A0%85%E6%8E%A7%E7%BD%AA-%E4%B8%8B%E5%91%A8%E4%B8%89%E6%B2%99%E7%94%B0%E8%A3%81%E5%88%A4%E6%B3%95%E9%99%A2%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-09-03T07:43:09.897Z",
     "strategy": ".content-card__main"
   }
 ];
