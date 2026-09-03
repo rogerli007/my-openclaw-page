@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T13:42:45.282Z
+// Last updated: 2026-09-03T13:53:52.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運劍擊｜符妤名因傷錯失大賽　歷膝傷三戰亞運更可貴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172291749066838016692710.jpeg/yuCR-i3nNiijbc8NJGkTPWrq-PyFM4WWNv5o_zb-aP8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60386381/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E5%8A%8D%E6%93%8A-%E7%AC%A6%E5%A6%A4%E5%90%8D%E5%9B%A0%E5%82%B7%E9%8C%AF%E5%A4%B1%E5%A4%A7%E8%B3%BD-%E6%AD%B7%E8%86%9D%E5%82%B7%E4%B8%89%E6%88%B0%E4%BA%9E%E9%81%8B%E6%9B%B4%E5%8F%AF%E8%B2%B4",
+    "timestamp": "2026-09-03T13:53:52.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "智能叛變？俄羅斯店機械人試圖連環飛踢顧客　遭送走重啟｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172164670899884032172904.jpeg/b2GCvmjdcQ1VHOOG1l0fMbVZZtPSZW8LDwUnbw8FJ28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386455/%E6%B9%AF%E7%9B%88%E7%9B%88%E6%8B%8D%E7%89%87%E5%91%BC%E7%B1%B2%E6%84%9B%E8%87%AA%E5%B7%B1-%E4%BB%A5%E5%A5%B3%E6%80%A7%E8%A7%92%E5%BA%A6%E5%88%86%E4%BA%AB%E5%81%A5%E5%BA%B7%E4%B9%8B%E9%81%93",
     "timestamp": "2026-09-03T05:02:07.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯儲局褐皮書指經濟溫和擴張　經濟前景正向惟不確定性日益升高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144097831523454976972143.jpeg/cn3aEoXAvNIIOwO7XsAIe6hEnu6g9bvYfHxugnx8boI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386367/%E7%BE%8E%E8%81%AF%E5%84%B2%E5%B1%80%E8%A4%90%E7%9A%AE%E6%9B%B8%E6%8C%87%E7%B6%93%E6%BF%9F%E6%BA%AB%E5%92%8C%E6%93%B4%E5%BC%B5-%E7%B6%93%E6%BF%9F%E5%89%8D%E6%99%AF%E6%AD%A3%E5%90%91%E6%83%9F%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7%E6%97%A5%E7%9B%8A%E5%8D%87%E9%AB%98",
-    "timestamp": "2026-09-03T03:29:31.377Z",
     "strategy": ".content-card__main"
   }
 ];
