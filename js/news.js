@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-02T23:53:50.224Z
+// Last updated: 2026-09-03T00:49:45.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玩命打卡！2女硬闖美國黃石大稜鏡溫泉　華氏188°F泉水旁自拍捱轟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171249479718801408175946.png/0eTkOP2KUKocz2hlrgZ73ZOYqvBjndc134jnMN-I5zA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372901/%E7%8E%A9%E5%91%BD%E6%89%93%E5%8D%A1-2%E5%A5%B3%E7%A1%AC%E9%97%96%E7%BE%8E%E5%9C%8B%E9%BB%83%E7%9F%B3%E5%A4%A7%E7%A8%9C%E9%8F%A1%E6%BA%AB%E6%B3%89-%E8%8F%AF%E6%B0%8F188-f%E6%B3%89%E6%B0%B4%E6%97%81%E8%87%AA%E6%8B%8D%E6%8D%B1%E8%BD%9F",
+    "timestamp": "2026-09-03T00:49:45.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國不再對日本抱有幻想",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172010994965155840387125.png/7EMVSmCnffFQcvobEXd8P2IRuAkkstOnrvXTda7103U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386327/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BB%BA%E8%AD%B0%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%94%B9%E5%90%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%B3%BD",
     "timestamp": "2026-09-02T18:54:20.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平結束對埃及國事訪問　稱雙方要弘揚平等互鑒對話包容文明觀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171912112948121600504163.png/UrZaN3-lNiW2GsFIgdsIVoaci5YLVSzm8la4s_JWuLM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386325/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%B5%90%E6%9D%9F%E5%B0%8D%E5%9F%83%E5%8F%8A%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F-%E7%A8%B1%E9%9B%99%E6%96%B9%E8%A6%81%E5%BC%98%E6%8F%9A%E5%B9%B3%E7%AD%89%E4%BA%92%E9%91%92%E5%B0%8D%E8%A9%B1%E5%8C%85%E5%AE%B9%E6%96%87%E6%98%8E%E8%A7%80",
-    "timestamp": "2026-09-02T18:44:58.633Z",
     "strategy": ".content-card__main"
   }
 ];
