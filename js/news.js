@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T15:40:37.904Z
+// Last updated: 2026-09-03T15:53:53.503Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年｜政商界翹楚雲集　李家超：百尺竿頭更進一步",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172315393394479104948036.jpeg/y1Wys46MTPnteZ3C099jp6Ot5EoRNRyVD_N5mg_zeZo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386620/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E6%94%BF%E5%95%86%E7%95%8C%E7%BF%B9%E6%A5%9A%E9%9B%B2%E9%9B%86-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E7%99%BE%E5%B0%BA%E7%AB%BF%E9%A0%AD%E6%9B%B4%E9%80%B2%E4%B8%80%E6%AD%A5",
+    "timestamp": "2026-09-03T15:53:53.503Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》十周年｜梁振英盼講好香港故事　談百年變局下媒體使命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096454311082201088740692.jpeg/uTw8NFcToxU5gZMOWSEz_Af9uWIhC4pQNX1xAzV9cQM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386517/%E9%BB%83%E9%8C%A6%E8%BC%9D%E9%86%89%E9%A7%95-%E8%A2%AB%E6%8E%A7%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E7%AD%89%E5%9B%9B%E9%A0%85%E6%8E%A7%E7%BD%AA-%E4%B8%8B%E5%91%A8%E4%B8%89%E6%B2%99%E7%94%B0%E8%A3%81%E5%88%A4%E6%B3%95%E9%99%A2%E6%8F%90%E5%A0%82",
     "timestamp": "2026-09-03T07:43:09.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《韓國製造2》9月登陸Disney+　升官黑化玄彬對決偏執復仇鄭雨盛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172157681847242752521390.png/99IKAAzxaiU1FKDeqmp7Q_wo5LubPlIgDwrJNg8KyTY",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60386378/%E9%9F%93%E5%9C%8B%E8%A3%BD%E9%80%A02-9%E6%9C%88%E7%99%BB%E9%99%B8disney-%E5%8D%87%E5%AE%98%E9%BB%91%E5%8C%96%E7%8E%84%E5%BD%AC%E5%B0%8D%E6%B1%BA%E5%81%8F%E5%9F%B7%E5%BE%A9%E4%BB%87%E9%84%AD%E9%9B%A8%E7%9B%9B",
-    "timestamp": "2026-09-03T06:56:14.790Z",
     "strategy": ".content-card__main"
   }
 ];
