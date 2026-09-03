@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T13:53:52.847Z
+// Last updated: 2026-09-03T14:20:03.598Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大坑銅鑼灣道會所　七旬翁打羽毛球突暈倒　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172303130340102144074685.png/brNNxED2aq-MRhNdSnGVbVKryjgV6V3TeFHOinhRzoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386633/%E5%A4%A7%E5%9D%91%E9%8A%85%E9%91%BC%E7%81%A3%E9%81%93%E6%9C%83%E6%89%80-%E4%B8%83%E6%97%AC%E7%BF%81%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E7%AA%81%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-09-03T14:20:03.598Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運劍擊｜符妤名因傷錯失大賽　歷膝傷三戰亞運更可貴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172175850078998528896172.jpeg/PinyxGPOJG77LwOCYvwtNsxvCAcRM2IFKE-BzyhPgc8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386461/%E9%8A%85%E9%91%BC%E7%81%A3%E9%A7%95%E9%A7%9B%E8%80%83%E8%A9%A6%E4%B8%AD%E5%BF%83-%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%92%9E%E8%80%83%E7%89%8C%E5%AE%98%E8%BB%8A%E5%86%8D%E6%92%BC%E5%A3%86-%E5%AD%B8%E7%A5%9E-%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-03T05:48:58.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湯盈盈拍片呼籲愛自己　以女性角度分享健康之道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172164670899884032172904.jpeg/b2GCvmjdcQ1VHOOG1l0fMbVZZtPSZW8LDwUnbw8FJ28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386455/%E6%B9%AF%E7%9B%88%E7%9B%88%E6%8B%8D%E7%89%87%E5%91%BC%E7%B1%B2%E6%84%9B%E8%87%AA%E5%B7%B1-%E4%BB%A5%E5%A5%B3%E6%80%A7%E8%A7%92%E5%BA%A6%E5%88%86%E4%BA%AB%E5%81%A5%E5%BA%B7%E4%B9%8B%E9%81%93",
-    "timestamp": "2026-09-03T05:02:07.952Z",
     "strategy": ".content-card__main"
   }
 ];
