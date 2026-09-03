@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T19:18:53.802Z
+// Last updated: 2026-09-03T19:26:21.625Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-03T19:26:21.625Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172259177058275328382950.jpeg/ekhSjNLE1MOXBfgzMAMOQeL2MuABu_q73-l1Fd_pdRU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60386436/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E5%8A%8D%E6%93%8A-%E5%BC%B5%E5%AE%B6%E6%9C%97%E5%9B%9B%E6%88%B0%E4%BA%9E%E9%81%8B%E5%98%86%E5%85%89%E9%99%B0%E5%8C%86%E5%8C%86-%E8%BC%95%E9%AC%86%E5%BF%83%E6%85%8B%E8%A1%9D%E5%9C%98%E9%AB%94%E9%87%91%E7%89%8C",
     "timestamp": "2026-09-03T11:54:05.735Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜荃灣單車徑跑步爆爭執　中年男起飛腳踢單車　推撞老翁狂奔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172254048305287168310729.jpeg/0_QXqQ0wWI2AlVe9hpJRpVyWN0H-UDC6UadEjVGnRI0",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386557/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E5%96%AE%E8%BB%8A%E5%BE%91%E8%B7%91%E6%AD%A5%E7%88%86%E7%88%AD%E5%9F%B7-%E4%B8%AD%E5%B9%B4%E7%94%B7%E8%B5%B7%E9%A3%9B%E8%85%B3%E8%B8%A2%E5%96%AE%E8%BB%8A-%E6%8E%A8%E6%92%9E%E8%80%81%E7%BF%81%E7%8B%82%E5%A5%94",
-    "timestamp": "2026-09-03T11:44:36.361Z",
     "strategy": ".content-card__main"
   }
 ];
