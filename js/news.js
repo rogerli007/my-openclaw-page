@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T10:53:30.736Z
+// Last updated: 2026-09-03T11:29:32.076Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳醫院病房變證婚場地　癌末病人病榻見證愛女出嫁：再無遺憾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172257290099625984028954.jpeg/LVWD1NtonNp_mK74oZbwJ1znXT_QIjM-PkAYNT5AGDU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386599/%E5%B0%87%E8%BB%8D%E6%BE%B3%E9%86%AB%E9%99%A2%E7%97%85%E6%88%BF%E8%AE%8A%E8%AD%89%E5%A9%9A%E5%A0%B4%E5%9C%B0-%E7%99%8C%E6%9C%AB%E7%97%85%E4%BA%BA%E7%97%85%E6%A6%BB%E8%A6%8B%E8%AD%89%E6%84%9B%E5%A5%B3%E5%87%BA%E5%AB%81-%E5%86%8D%E7%84%A1%E9%81%BA%E6%86%BE",
+    "timestamp": "2026-09-03T11:29:32.076Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孫藝珍一家3口被捕獲東京出遊　玄彬鬍鬚吸睛　網讚3歲兒漂亮似AI",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/467239/org/b8dde51ba2ee357ee5d561322bbe357e.jpg/yjXaOVKUUXkz0Ef2YZvsuqqowbx56vykRGCrb0Rgq28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60386221/%E4%B8%AD%E5%9C%8B%E4%B8%8D%E5%86%8D%E5%B0%8D%E6%97%A5%E6%9C%AC%E6%8A%B1%E6%9C%89%E5%B9%BB%E6%83%B3",
     "timestamp": "2026-09-02T23:53:50.224Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國不再對日本抱有幻想",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/467239/org/b8dde51ba2ee357ee5d561322bbe357e.jpg/yjXaOVKUUXkz0Ef2YZvsuqqowbx56vykRGCrb0Rgq28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60386221/%E4%B8%AD%E5%9C%8B%E4%B8%8D%E5%86%8D%E5%B0%8D%E6%97%A5%E6%9C%AC%E6%8A%B1%E6%9C%89%E5%B9%BB%E6%83%B3",
-    "timestamp": "2026-09-02T23:41:57.877Z",
     "strategy": ".content-card__main"
   }
 ];
