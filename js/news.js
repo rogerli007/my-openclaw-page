@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T23:28:03.697Z
+// Last updated: 2026-09-03T23:42:19.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京罕稱有機會達和平協議　澤連斯基：美談判代表將訪基輔莫斯科",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139814706773495808967315.jpeg/TPh7kqs72SZlssFnLbsgJGrkd0bNGDh3Ev6UvhL-lL4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386675/%E6%99%AE%E4%BA%AC%E7%BD%95%E7%A8%B1%E6%9C%89%E6%A9%9F%E6%9C%83%E9%81%94%E5%92%8C%E5%B9%B3%E5%8D%94%E8%AD%B0-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E8%AB%87%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%B0%87%E8%A8%AA%E5%9F%BA%E8%BC%94%E8%8E%AB%E6%96%AF%E7%A7%91",
+    "timestamp": "2026-09-03T23:42:19.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│女生坐關愛座被老婦猛撞罵「爸媽死了沒人教」　神應對獲讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172348693655851008756823.jpeg/-tNIl-vqK-LXqJ1ofyx2HeANTTjVImMDN7BbzjewW84?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386650/%E4%BC%8A%E6%9C%97%E7%82%BA%E9%81%87%E8%A5%B2%E5%A9%9A%E7%A6%AE%E7%BD%B9%E9%9B%A3%E8%80%85%E8%88%89%E6%AE%AF-%E5%90%91%E7%A7%91%E5%A8%81%E7%89%B9%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E5%B0%84%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-09-03T18:24:37.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗為遇襲婚禮罹難者舉殯　向科威特美軍基地射導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172348693655851008756823.jpeg/-tNIl-vqK-LXqJ1ofyx2HeANTTjVImMDN7BbzjewW84?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386650/%E4%BC%8A%E6%9C%97%E7%82%BA%E9%81%87%E8%A5%B2%E5%A9%9A%E7%A6%AE%E7%BD%B9%E9%9B%A3%E8%80%85%E8%88%89%E6%AE%AF-%E5%90%91%E7%A7%91%E5%A8%81%E7%89%B9%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E5%B0%84%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-09-03T17:54:16.960Z",
     "strategy": ".content-card__main"
   }
 ];
