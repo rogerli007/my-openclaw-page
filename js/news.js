@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T11:29:32.076Z
+// Last updated: 2026-09-03T11:44:36.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜荃灣單車徑跑步爆爭執　中年男起飛腳踢單車　推撞老翁狂奔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172254048305287168310729.jpeg/0_QXqQ0wWI2AlVe9hpJRpVyWN0H-UDC6UadEjVGnRI0",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386557/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E5%96%AE%E8%BB%8A%E5%BE%91%E8%B7%91%E6%AD%A5%E7%88%86%E7%88%AD%E5%9F%B7-%E4%B8%AD%E5%B9%B4%E7%94%B7%E8%B5%B7%E9%A3%9B%E8%85%B3%E8%B8%A2%E5%96%AE%E8%BB%8A-%E6%8E%A8%E6%92%9E%E8%80%81%E7%BF%81%E7%8B%82%E5%A5%94",
+    "timestamp": "2026-09-03T11:44:36.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳醫院病房變證婚場地　癌末病人病榻見證愛女出嫁：再無遺憾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171249479718801408175946.png/0eTkOP2KUKocz2hlrgZ73ZOYqvBjndc134jnMN-I5zA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372901/%E7%8E%A9%E5%91%BD%E6%89%93%E5%8D%A1-2%E5%A5%B3%E7%A1%AC%E9%97%96%E7%BE%8E%E5%9C%8B%E9%BB%83%E7%9F%B3%E5%A4%A7%E7%A8%9C%E9%8F%A1%E6%BA%AB%E6%B3%89-%E8%8F%AF%E6%B0%8F188-f%E6%B3%89%E6%B0%B4%E6%97%81%E8%87%AA%E6%8B%8D%E6%8D%B1%E8%BD%9F",
     "timestamp": "2026-09-03T00:49:45.908Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國不再對日本抱有幻想",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/467239/org/b8dde51ba2ee357ee5d561322bbe357e.jpg/yjXaOVKUUXkz0Ef2YZvsuqqowbx56vykRGCrb0Rgq28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60386221/%E4%B8%AD%E5%9C%8B%E4%B8%8D%E5%86%8D%E5%B0%8D%E6%97%A5%E6%9C%AC%E6%8A%B1%E6%9C%89%E5%B9%BB%E6%83%B3",
-    "timestamp": "2026-09-02T23:53:50.224Z",
     "strategy": ".content-card__main"
   }
 ];
