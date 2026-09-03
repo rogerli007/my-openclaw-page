@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T22:19:19.815Z
+// Last updated: 2026-09-03T22:43:58.381Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "55歲TVB「吸金王」兩奪視帝狂受捧　街邊坐凳仔化妝自己拎遮拍攝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172281552969666560072836.jpeg/uAaWLq05qXgAVB_oiydCWamQrxaeiZnk2-fPqtvnz6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386543/55%E6%AD%B2-%E5%90%B8%E9%87%91%E7%8E%8B-%E9%99%B3%E8%B1%AA%E5%85%A9%E5%A5%AA%E8%A6%96%E5%B8%9D%E7%8B%82%E5%8F%97%E6%8D%A7-%E8%A1%97%E9%82%8A%E5%9D%90%E5%87%B3%E4%BB%94%E5%8C%96%E5%A6%9D%E8%87%AA%E5%B7%B1%E6%8B%8E%E9%81%AE%E6%8B%8D%E6%94%9D",
+    "timestamp": "2026-09-03T22:43:58.381Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "家長生活繁忙沒時間照顧自己？專家教3個生活小改變實踐自我關懷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172339958069858304201794.jpeg/bSxkQ8fv5ZfraenK7j7HiCzeWA-fKvetFLVe3RS1Xt0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386639/%E5%B0%96%E6%B2%99%E5%92%80%E5%A4%A9%E6%98%9F%E7%A2%BC%E9%A0%ADmma-%E6%9C%89%E7%89%87-2%E7%94%B7%E6%89%AF%E9%AB%AE%E7%BA%8F%E9%AC%A5%E5%80%92%E5%9C%B0-%E9%BB%91%E8%A1%A3%E7%94%B7%E5%A3%93%E5%88%B6%E9%98%BF%E4%BC%AF%E6%8B%B3%E6%AF%86",
     "timestamp": "2026-09-03T16:53:28.391Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日中友好議員聯盟擬月內派年輕成員訪華　2025.11以來首次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250720/1023688969474281472239145.jpeg/_e9nFXT3rntoYe1OXeongzCA3wAFxrK8-ZgFp_mYBac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386643/%E6%97%A5%E4%B8%AD%E5%8F%8B%E5%A5%BD%E8%AD%B0%E5%93%A1%E8%81%AF%E7%9B%9F%E6%93%AC%E6%9C%88%E5%85%A7%E6%B4%BE%E5%B9%B4%E8%BC%95%E6%88%90%E5%93%A1%E8%A8%AA%E8%8F%AF-2025-11%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1",
-    "timestamp": "2026-09-03T16:43:34.573Z",
     "strategy": ".content-card__main"
   }
 ];
