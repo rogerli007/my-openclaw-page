@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T01:18:00.496Z
+// Last updated: 2026-09-03T01:46:56.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丁薛祥會見俄羅斯總統普京　中俄將加強投資和能源等重點領域合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172117296710160384361842.jpeg/FAIIr4QKJGThWGhOmfc5XSlrssV4NaRptHfNurR3zbo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386357/%E4%B8%81%E8%96%9B%E7%A5%A5%E6%9C%83%E8%A6%8B%E4%BF%84%E7%BE%85%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%99%AE%E4%BA%AC-%E4%B8%AD%E4%BF%84%E5%B0%87%E5%8A%A0%E5%BC%B7%E6%8A%95%E8%B3%87%E5%92%8C%E8%83%BD%E6%BA%90%E7%AD%89%E9%87%8D%E9%BB%9E%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-09-03T01:46:56.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "暑期作業「離奇失蹤」？重慶高中生報警求助尋背包　翻開全是空白",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136709384756269056871246.jpeg/bjRSpH9zesTyI8xMSCU8Pb3LXva6ECka8qNM8PKjTPA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386324/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B1%B2g20%E5%8B%BF%E5%B0%B1-%E7%90%86%E8%AB%96%E5%8D%B1%E5%AE%B3-%E5%88%B6%E5%AE%9Aai%E8%A6%8F%E5%89%87",
     "timestamp": "2026-09-02T19:28:16.810Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳籲G20勿就「理論危害」制定AI規則",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136709384756269056871246.jpeg/bjRSpH9zesTyI8xMSCU8Pb3LXva6ECka8qNM8PKjTPA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386324/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B1%B2g20%E5%8B%BF%E5%B0%B1-%E7%90%86%E8%AB%96%E5%8D%B1%E5%AE%B3-%E5%88%B6%E5%AE%9Aai%E8%A6%8F%E5%89%87",
-    "timestamp": "2026-09-02T19:18:13.465Z",
     "strategy": ".content-card__main"
   }
 ];
