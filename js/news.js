@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T05:02:07.952Z
+// Last updated: 2026-09-03T05:48:58.130Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銅鑼灣駕駛考試中心　電單車撞考牌官車再撼壆　「學神」受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172175850078998528896172.jpeg/PinyxGPOJG77LwOCYvwtNsxvCAcRM2IFKE-BzyhPgc8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386461/%E9%8A%85%E9%91%BC%E7%81%A3%E9%A7%95%E9%A7%9B%E8%80%83%E8%A9%A6%E4%B8%AD%E5%BF%83-%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%92%9E%E8%80%83%E7%89%8C%E5%AE%98%E8%BB%8A%E5%86%8D%E6%92%BC%E5%A3%86-%E5%AD%B8%E7%A5%9E-%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-03T05:48:58.130Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湯盈盈拍片呼籲愛自己　以女性角度分享健康之道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172037301522403328071892.jpeg/jaEXCLfACY1vlwi2xDrOIIgrj3kENqovvjBWGoQwVho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386331/%E8%AD%A6%E8%A7%80%E5%A1%98%E7%99%BC%E7%8F%BE%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%AA%A2%E7%8D%B2-1-3%E8%90%AC%E6%AF%92%E5%93%81%E5%8C%85%E6%8B%AC%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF-18%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-02T20:42:19.131Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港澳直升機定期航班暫停服務　「空中快線」營運方稱考慮市場變化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172022380495638528527390.jpeg/-KE8jDJi6gcQXkUd4qLSoSXecdQzFzsqmdS0-ZnUtPk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386329/%E6%B8%AF%E6%BE%B3%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%AE%9A%E6%9C%9F%E8%88%AA%E7%8F%AD%E6%9A%AB%E5%81%9C%E6%9C%8D%E5%8B%99-%E7%A9%BA%E4%B8%AD%E5%BF%AB%E7%B7%9A-%E7%87%9F%E9%81%8B%E6%96%B9%E7%A8%B1%E8%80%83%E6%85%AE%E5%B8%82%E5%A0%B4%E8%AE%8A%E5%8C%96",
-    "timestamp": "2026-09-02T20:20:38.844Z",
     "strategy": ".content-card__main"
   }
 ];
