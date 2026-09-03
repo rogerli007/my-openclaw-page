@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T11:54:05.735Z
+// Last updated: 2026-09-03T12:51:57.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "心臟科醫生王國耀做手術時涉重用一次性導管　專家證人指屬高風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168955255883304960914672.jpeg/w9Ylv4N0wYfaFpU8xEPI_EBUiAVDpgqGfX8CfH1_Anw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386603/%E5%BF%83%E8%87%9F%E7%A7%91%E9%86%AB%E7%94%9F%E7%8E%8B%E5%9C%8B%E8%80%80%E5%81%9A%E6%89%8B%E8%A1%93%E6%99%82%E6%B6%89%E9%87%8D%E7%94%A8%E4%B8%80%E6%AC%A1%E6%80%A7%E5%B0%8E%E7%AE%A1-%E5%B0%88%E5%AE%B6%E8%AD%89%E4%BA%BA%E6%8C%87%E5%B1%AC%E9%AB%98%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-09-03T12:51:57.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運劍擊｜張家朗四戰亞運嘆光陰匆匆　輕鬆心態衝團體金牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172117296710160384361842.jpeg/FAIIr4QKJGThWGhOmfc5XSlrssV4NaRptHfNurR3zbo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386357/%E4%B8%81%E8%96%9B%E7%A5%A5%E6%9C%83%E8%A6%8B%E4%BF%84%E7%BE%85%E6%96%AF%E7%B8%BD%E7%B5%B1%E6%99%AE%E4%BA%AC-%E4%B8%AD%E4%BF%84%E5%B0%87%E5%8A%A0%E5%BC%B7%E6%8A%95%E8%B3%87%E5%92%8C%E8%83%BD%E6%BA%90%E7%AD%89%E9%87%8D%E9%BB%9E%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C",
     "timestamp": "2026-09-03T01:46:56.896Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "暑期作業「離奇失蹤」？重慶高中生報警求助尋背包　翻開全是空白",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171916993461227520681940.png/sr6mpW2PAyZ4qYcuRmKH03sAge9_VSQShNhyRYTYckU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385720/%E6%9A%91%E6%9C%9F%E4%BD%9C%E6%A5%AD-%E9%9B%A2%E5%A5%87%E5%A4%B1%E8%B9%A4-%E9%87%8D%E6%85%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9%E5%B0%8B%E8%83%8C%E5%8C%85-%E7%BF%BB%E9%96%8B%E5%85%A8%E6%98%AF%E7%A9%BA%E7%99%BD",
-    "timestamp": "2026-09-03T01:18:00.496Z",
     "strategy": ".content-card__main"
   }
 ];
