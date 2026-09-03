@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T14:20:03.598Z
+// Last updated: 2026-09-03T14:43:25.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印尼野火毒煙席捲東南亞　飄至馬來西亞菲律賓等地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172302630534254592329650.jpeg/9Pj9NJPmtEM3MYxua49q7NowuF3OLjcbymx76Mpse-g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386632/%E5%8D%B0%E5%B0%BC%E9%87%8E%E7%81%AB%E6%AF%92%E7%85%99%E5%B8%AD%E6%8D%B2%E6%9D%B1%E5%8D%97%E4%BA%9E-%E9%A3%84%E8%87%B3%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%AD%89%E5%9C%B0",
+    "timestamp": "2026-09-03T14:43:25.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大坑銅鑼灣道會所　七旬翁打羽毛球突暈倒　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172154304186814464598610.jpeg/RVfC0qmWIuRnvrI3IOGvUviKE7xXsHtqyHFlL8hxZS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386437/%E6%8B%90%E5%AD%90%E5%A9%86%E6%A2%85%E5%A7%A8%E5%B0%87%E9%96%8B%E5%BA%AD-%E5%8F%97%E5%AE%B3%E5%AE%B6%E9%95%B7-%E6%83%B3%E5%95%8F%E5%A5%B9%E6%8B%90%E8%B3%A3%E5%A4%9A%E5%B0%91%E5%AD%A9%E5%AD%90-%E5%BF%83%E8%A3%8F%E6%80%8E%E9%BA%BC%E6%83%B3",
     "timestamp": "2026-09-03T06:31:52.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "銅鑼灣駕駛考試中心　電單車撞考牌官車再撼壆　「學神」受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172175850078998528896172.jpeg/PinyxGPOJG77LwOCYvwtNsxvCAcRM2IFKE-BzyhPgc8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386461/%E9%8A%85%E9%91%BC%E7%81%A3%E9%A7%95%E9%A7%9B%E8%80%83%E8%A9%A6%E4%B8%AD%E5%BF%83-%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%92%9E%E8%80%83%E7%89%8C%E5%AE%98%E8%BB%8A%E5%86%8D%E6%92%BC%E5%A3%86-%E5%AD%B8%E7%A5%9E-%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-03T05:48:58.130Z",
     "strategy": ".content-card__main"
   }
 ];
