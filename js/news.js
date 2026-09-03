@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T08:58:47.957Z
+// Last updated: 2026-09-03T09:23:48.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新加坡總理黃循財訪泰國　兩國領袖同台表演Let It Be｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172223253901611008362590.png/eIWM9Y_Ro1KzFsFovYr4knmRfqk-68fzKbZqGCm2ahg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60386554/%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%B8%BD%E7%90%86%E9%BB%83%E5%BE%AA%E8%B2%A1%E8%A8%AA%E6%B3%B0%E5%9C%8B-%E5%85%A9%E5%9C%8B%E9%A0%98%E8%A2%96%E5%90%8C%E5%8F%B0%E8%A1%A8%E6%BC%94let-it-be-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-03T09:23:48.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孫千是誰？《早春晴朗》尚之桃　10點認識「東北全智賢」長腿女神",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172062109115486208049715.jpeg/j_7jQo2P3R6Sf1BFbgC1Sej68LTIVSPGbFinemxYp3o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386314/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%9831%E5%BA%A6-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81",
     "timestamp": "2026-09-02T22:33:20.254Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙德爾風球｜今日有一兩陣驟雨　最高31度　一號風球早上維持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172062109115486208049715.jpeg/j_7jQo2P3R6Sf1BFbgC1Sej68LTIVSPGbFinemxYp3o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386314/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%9831%E5%BA%A6-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81",
-    "timestamp": "2026-09-02T22:17:58.750Z",
     "strategy": ".content-card__main"
   }
 ];
