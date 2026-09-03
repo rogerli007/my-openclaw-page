@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T01:46:56.896Z
+// Last updated: 2026-09-03T02:08:09.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國明尼阿波利斯市中心爆槍擊　槍手在內3人死亡　另有6人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172119546207670272067132.png/UMUQI1Fi8qZY-uhrtssfOPsprkEyMXQqD2r23w9q9t8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386352/%E7%BE%8E%E5%9C%8B%E6%98%8E%E5%B0%BC%E9%98%BF%E6%B3%A2%E5%88%A9%E6%96%AF%E5%B8%82%E4%B8%AD%E5%BF%83%E7%88%86%E6%A7%8D%E6%93%8A-%E6%A7%8D%E6%89%8B%E5%9C%A8%E5%85%A73%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E5%8F%A6%E6%9C%896%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-09-03T02:08:09.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丁薛祥會見俄羅斯總統普京　中俄將加強投資和能源等重點領域合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136709384756269056871246.jpeg/bjRSpH9zesTyI8xMSCU8Pb3LXva6ECka8qNM8PKjTPA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386324/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B1%B2g20%E5%8B%BF%E5%B0%B1-%E7%90%86%E8%AB%96%E5%8D%B1%E5%AE%B3-%E5%88%B6%E5%AE%9Aai%E8%A6%8F%E5%89%87",
     "timestamp": "2026-09-02T19:40:47.131Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳籲G20勿就「理論危害」制定AI規則",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136709384756269056871246.jpeg/bjRSpH9zesTyI8xMSCU8Pb3LXva6ECka8qNM8PKjTPA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386324/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B1%B2g20%E5%8B%BF%E5%B0%B1-%E7%90%86%E8%AB%96%E5%8D%B1%E5%AE%B3-%E5%88%B6%E5%AE%9Aai%E8%A6%8F%E5%89%87",
-    "timestamp": "2026-09-02T19:28:16.810Z",
     "strategy": ".content-card__main"
   }
 ];
