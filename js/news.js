@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T17:42:19.194Z
+// Last updated: 2026-09-03T17:54:16.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗為遇襲婚禮罹難者舉殯　向科威特美軍基地射導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172348693655851008756823.jpeg/-tNIl-vqK-LXqJ1ofyx2HeANTTjVImMDN7BbzjewW84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386650/%E4%BC%8A%E6%9C%97%E7%82%BA%E9%81%87%E8%A5%B2%E5%A9%9A%E7%A6%AE%E7%BD%B9%E9%9B%A3%E8%80%85%E8%88%89%E6%AE%AF-%E5%90%91%E7%A7%91%E5%A8%81%E7%89%B9%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E5%B0%84%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-09-03T17:54:16.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗為遇襲婚禮罹難者舉殯　向科威特美軍基地射導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1412070/org/ac0d53ec2d15dbdc0f57817f4192a220.jpg/Qon1eqRWGvgEabZlMlX79kV3HIwwjOdGmSQYyJkkGMg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386565/%E7%BE%8E%E5%AA%92-%E7%99%BD%E5%AE%AE%E5%90%91spacex%E7%AD%89%E7%BE%8E%E4%BC%81%E6%96%BD%E5%A3%93-%E8%A6%81%E6%B1%82%E7%BC%BA%E5%B8%AD%E9%A6%AC%E5%85%8B%E9%BE%8D%E4%B8%BB%E8%BE%A6%E5%A4%AA%E7%A9%BA%E5%B3%B0%E6%9C%83",
     "timestamp": "2026-09-03T09:53:41.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪麗醫院新大樓壞𨋢｜報道指𨋢槽歪斜所致　建築署拒透露工程細節",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167286386680664064560498.jpeg/GazwWAQ0cG-oUWj8oKG4irhQxMcwn61pFajvQRWo70E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386539/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E6%96%B0%E5%A4%A7%E6%A8%93%E5%A3%9E%F0%A8%8B%A2-%E5%A0%B1%E9%81%93%E6%8C%87%F0%A8%8B%A2%E6%A7%BD%E6%AD%AA%E6%96%9C%E6%89%80%E8%87%B4-%E5%BB%BA%E7%AF%89%E7%BD%B2%E6%8B%92%E9%80%8F%E9%9C%B2%E5%B7%A5%E7%A8%8B%E7%B4%B0%E7%AF%80",
-    "timestamp": "2026-09-03T09:44:19.422Z",
     "strategy": ".content-card__main"
   }
 ];
