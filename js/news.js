@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T23:42:19.827Z
+// Last updated: 2026-09-03T23:53:44.430Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "IVE 張員瑛修長美腿秘訣　器械皮拉提斯對塑造體態的3大好處",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172160937969324032054812.png/WisAquoJjCrmO1TEXxFSFTt2j4OirMlu6SBe0ukgXtI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60385784/ive-%E5%BC%B5%E5%93%A1%E7%91%9B%E4%BF%AE%E9%95%B7%E7%BE%8E%E8%85%BF%E7%A7%98%E8%A8%A3-%E5%99%A8%E6%A2%B0%E7%9A%AE%E6%8B%89%E6%8F%90%E6%96%AF%E5%B0%8D%E5%A1%91%E9%80%A0%E9%AB%94%E6%85%8B%E7%9A%843%E5%A4%A7%E5%A5%BD%E8%99%95",
+    "timestamp": "2026-09-03T23:53:44.430Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京罕稱有機會達和平協議　澤連斯基：美談判代表將訪基輔莫斯科",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168142073723883520829740.jpeg/-4NDz-AyflpM48AfK_Qebbp-3Lc20OO8o_WqsqP1qrI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386652/%E5%8A%A0-%E9%A1%98%E8%88%87%E7%BE%8E%E7%B0%BD%E4%BA%92%E5%88%A9%E5%8D%94%E8%AD%B0%E4%BD%86%E4%BB%BB%E4%BD%95%E5%8D%94%E8%AD%B0%E9%A0%88%E5%85%B7%E5%8F%AF%E4%BF%A1%E5%BA%A6-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8B%BF%E7%95%B6%E6%95%B5%E4%BA%BA",
     "timestamp": "2026-09-03T18:46:16.956Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗為遇襲婚禮罹難者舉殯　向科威特美軍基地射導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172348693655851008756823.jpeg/-tNIl-vqK-LXqJ1ofyx2HeANTTjVImMDN7BbzjewW84?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386650/%E4%BC%8A%E6%9C%97%E7%82%BA%E9%81%87%E8%A5%B2%E5%A9%9A%E7%A6%AE%E7%BD%B9%E9%9B%A3%E8%80%85%E8%88%89%E6%AE%AF-%E5%90%91%E7%A7%91%E5%A8%81%E7%89%B9%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E5%B0%84%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-09-03T18:24:37.994Z",
     "strategy": ".content-card__main"
   }
 ];
