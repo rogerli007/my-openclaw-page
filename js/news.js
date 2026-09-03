@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T21:30:00.592Z
+// Last updated: 2026-09-03T21:41:20.988Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九龍公路比亞迪撞電單車　鐵騎士滑前20米嚴重擦傷　一度昏迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172407444588990464187625.jpeg/P6JVRM3ASlRpAGFN6DlTANPS5kvRWFGrCRVsYTMVbGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386661/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%85%AC%E8%B7%AF%E6%AF%94%E4%BA%9E%E8%BF%AA%E6%92%9E%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%BB%91%E5%89%8D20%E7%B1%B3%E5%9A%B4%E9%87%8D%E6%93%A6%E5%82%B7-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7",
+    "timestamp": "2026-09-03T21:41:20.988Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九龍公路比亞迪撞電單車　鐵騎士滑前20米嚴重擦傷　一度昏迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172315393394479104948036.jpeg/y1Wys46MTPnteZ3C099jp6Ot5EoRNRyVD_N5mg_zeZo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386620/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E6%94%BF%E5%95%86%E7%95%8C%E7%BF%B9%E6%A5%9A%E9%9B%B2%E9%9B%86-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E7%99%BE%E5%B0%BA%E7%AB%BF%E9%A0%AD%E6%9B%B4%E9%80%B2%E4%B8%80%E6%AD%A5",
     "timestamp": "2026-09-03T15:53:53.503Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》十周年｜梁振英盼講好香港故事　談百年變局下媒體使命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172317986338377728793062.jpeg/vZ4gG4TpB-sXe4xxUv9QE-ybf3tbCviNfsERnn7BEZ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386623/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E6%A2%81%E6%8C%AF%E8%8B%B1%E7%9B%BC%E8%AC%9B%E5%A5%BD%E9%A6%99%E6%B8%AF%E6%95%85%E4%BA%8B-%E8%AB%87%E7%99%BE%E5%B9%B4%E8%AE%8A%E5%B1%80%E4%B8%8B%E5%AA%92%E9%AB%94%E4%BD%BF%E5%91%BD",
-    "timestamp": "2026-09-03T15:40:37.904Z",
     "strategy": ".content-card__main"
   }
 ];
