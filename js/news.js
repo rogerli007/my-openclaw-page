@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T06:56:14.790Z
+// Last updated: 2026-09-03T07:43:09.897Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃錦輝醉駕｜被控酒後駕駛等四項控罪　下周三沙田裁判法院提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260206/1096454311082201088740692.jpeg/uTw8NFcToxU5gZMOWSEz_Af9uWIhC4pQNX1xAzV9cQM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386517/%E9%BB%83%E9%8C%A6%E8%BC%9D%E9%86%89%E9%A7%95-%E8%A2%AB%E6%8E%A7%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E7%AD%89%E5%9B%9B%E9%A0%85%E6%8E%A7%E7%BD%AA-%E4%B8%8B%E5%91%A8%E4%B8%89%E6%B2%99%E7%94%B0%E8%A3%81%E5%88%A4%E6%B3%95%E9%99%A2%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-09-03T07:43:09.897Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《韓國製造2》9月登陸Disney+　升官黑化玄彬對決偏執復仇鄭雨盛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172050590084108288156082.png/_yjbex1-EfP_mt5w6hhhFfQqtd5UVRmf860n1fOtJ9U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386334/%E5%83%856%E6%AD%B2%E5%AD%90%E5%80%96%E5%AD%98-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%A8%82%E6%89%8B%E8%88%87%E5%AD%95%E5%A6%BB%E5%B9%BC%E5%A5%B3%E5%AE%B6%E5%82%AD%E6%84%9B%E7%8A%AC%E9%81%AD%E7%B6%81%E6%AE%BA-%E7%86%9F%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-02T21:29:20.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖東私家車行車不穩　35歲男司機「吹波波」超標　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172044606867509248072458.jpeg/JnSqz8K-pj56cZMtT9EjYdB0uxipDpKSsYGkDYuBpA0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386332/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9-35%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E6%B3%A2%E6%B3%A2-%E8%B6%85%E6%A8%99-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-02T21:17:56.639Z",
     "strategy": ".content-card__main"
   }
 ];
