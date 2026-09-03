@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T00:49:45.908Z
+// Last updated: 2026-09-03T01:18:00.496Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "暑期作業「離奇失蹤」？重慶高中生報警求助尋背包　翻開全是空白",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171916993461227520681940.png/sr6mpW2PAyZ4qYcuRmKH03sAge9_VSQShNhyRYTYckU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385720/%E6%9A%91%E6%9C%9F%E4%BD%9C%E6%A5%AD-%E9%9B%A2%E5%A5%87%E5%A4%B1%E8%B9%A4-%E9%87%8D%E6%85%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9%E5%B0%8B%E8%83%8C%E5%8C%85-%E7%BF%BB%E9%96%8B%E5%85%A8%E6%98%AF%E7%A9%BA%E7%99%BD",
+    "timestamp": "2026-09-03T01:18:00.496Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玩命打卡！2女硬闖美國黃石大稜鏡溫泉　華氏188°F泉水旁自拍捱轟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260528/1136709384756269056871246.jpeg/bjRSpH9zesTyI8xMSCU8Pb3LXva6ECka8qNM8PKjTPA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386324/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B1%B2g20%E5%8B%BF%E5%B0%B1-%E7%90%86%E8%AB%96%E5%8D%B1%E5%AE%B3-%E5%88%B6%E5%AE%9Aai%E8%A6%8F%E5%89%87",
     "timestamp": "2026-09-02T19:18:13.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：建議霍爾木茲海峽改名「特朗普海峽」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172010994965155840387125.png/7EMVSmCnffFQcvobEXd8P2IRuAkkstOnrvXTda7103U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386327/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BB%BA%E8%AD%B0%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E6%94%B9%E5%90%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%B3%BD",
-    "timestamp": "2026-09-02T18:54:20.044Z",
     "strategy": ".content-card__main"
   }
 ];
