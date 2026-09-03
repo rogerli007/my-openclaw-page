@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T19:26:21.625Z
+// Last updated: 2026-09-03T19:41:37.598Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-03T19:41:37.598Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168955255883304960914672.jpeg/w9Ylv4N0wYfaFpU8xEPI_EBUiAVDpgqGfX8CfH1_Anw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386603/%E5%BF%83%E8%87%9F%E7%A7%91%E9%86%AB%E7%94%9F%E7%8E%8B%E5%9C%8B%E8%80%80%E5%81%9A%E6%89%8B%E8%A1%93%E6%99%82%E6%B6%89%E9%87%8D%E7%94%A8%E4%B8%80%E6%AC%A1%E6%80%A7%E5%B0%8E%E7%AE%A1-%E5%B0%88%E5%AE%B6%E8%AD%89%E4%BA%BA%E6%8C%87%E5%B1%AC%E9%AB%98%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-09-03T12:51:57.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運劍擊｜張家朗四戰亞運嘆光陰匆匆　輕鬆心態衝團體金牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172259177058275328382950.jpeg/ekhSjNLE1MOXBfgzMAMOQeL2MuABu_q73-l1Fd_pdRU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60386436/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E5%8A%8D%E6%93%8A-%E5%BC%B5%E5%AE%B6%E6%9C%97%E5%9B%9B%E6%88%B0%E4%BA%9E%E9%81%8B%E5%98%86%E5%85%89%E9%99%B0%E5%8C%86%E5%8C%86-%E8%BC%95%E9%AC%86%E5%BF%83%E6%85%8B%E8%A1%9D%E5%9C%98%E9%AB%94%E9%87%91%E7%89%8C",
-    "timestamp": "2026-09-03T11:54:05.735Z",
     "strategy": ".content-card__main"
   }
 ];
