@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T16:43:34.573Z
+// Last updated: 2026-09-03T16:53:28.391Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀天星碼頭MMA．有片｜2男扯髮纏鬥倒地　黑衣男壓制阿伯拳毆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172339958069858304201794.jpeg/bSxkQ8fv5ZfraenK7j7HiCzeWA-fKvetFLVe3RS1Xt0",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386639/%E5%B0%96%E6%B2%99%E5%92%80%E5%A4%A9%E6%98%9F%E7%A2%BC%E9%A0%ADmma-%E6%9C%89%E7%89%87-2%E7%94%B7%E6%89%AF%E9%AB%AE%E7%BA%8F%E9%AC%A5%E5%80%92%E5%9C%B0-%E9%BB%91%E8%A1%A3%E7%94%B7%E5%A3%93%E5%88%B6%E9%98%BF%E4%BC%AF%E6%8B%B3%E6%AF%86",
+    "timestamp": "2026-09-03T16:53:28.391Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日中友好議員聯盟擬月內派年輕成員訪華　2025.11以來首次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172217266628988928281506.png/lgXp6F-3bltmXP97i0AEhHEmcNKc6N9dMZXRezGV0Xs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386487/%E5%AD%AB%E5%8D%83%E6%98%AF%E8%AA%B0-%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E5%B0%9A%E4%B9%8B%E6%A1%83-10%E9%BB%9E%E8%AA%8D%E8%AD%98-%E6%9D%B1%E5%8C%97%E5%85%A8%E6%99%BA%E8%B3%A2-%E9%95%B7%E8%85%BF%E5%A5%B3%E7%A5%9E",
     "timestamp": "2026-09-03T08:58:47.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神配對計劃2｜9.6強勢回歸　郭珮文Tube Top搶鏡陳若思自爆孤獨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172198489937940480143075.jpeg/7b0pkPptHWwvLN2TTgSjE_Xi5kdhWibf17EvP9exLz8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386492/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-9-6%E5%BC%B7%E5%8B%A2%E5%9B%9E%E6%AD%B8-%E9%83%AD%E7%8F%AE%E6%96%87tube-top%E6%90%B6%E9%8F%A1%E9%99%B3%E8%8B%A5%E6%80%9D%E8%87%AA%E7%88%86%E5%AD%A4%E7%8D%A8",
-    "timestamp": "2026-09-03T08:28:03.695Z",
     "strategy": ".content-card__main"
   }
 ];
