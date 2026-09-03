@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T17:54:16.960Z
+// Last updated: 2026-09-03T18:24:37.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗為遇襲婚禮罹難者舉殯　向科威特美軍基地射導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172348693655851008756823.jpeg/-tNIl-vqK-LXqJ1ofyx2HeANTTjVImMDN7BbzjewW84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386650/%E4%BC%8A%E6%9C%97%E7%82%BA%E9%81%87%E8%A5%B2%E5%A9%9A%E7%A6%AE%E7%BD%B9%E9%9B%A3%E8%80%85%E8%88%89%E6%AE%AF-%E5%90%91%E7%A7%91%E5%A8%81%E7%89%B9%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E5%B0%84%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-09-03T18:24:37.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗為遇襲婚禮罹難者舉殯　向科威特美軍基地射導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172178849673252864985617.jpeg/iV9nbzaY4AquOhNpz2V-6NJf5pQTMZUtgFVFnYBVRZ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386460/%E6%9E%97%E7%9B%9B%E6%96%8C%E6%BE%B3%E9%96%80%E6%A3%9F%E7%AF%A4%E7%AC%91boxer%E4%B8%8A%E9%99%A3%E7%8E%A9%E9%A9%9A%E9%9A%AA%E7%89%B9%E6%8A%80-%E5%8C%96%E8%BA%AB%E8%8B%A6%E4%B8%BB%E7%88%86%E7%AC%91%E6%95%B8%E5%A5%87%E4%BA%BA%E5%A5%87%E4%BA%8B",
     "timestamp": "2026-09-03T10:26:02.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：白宮向SpaceX等美企施壓　要求缺席馬克龍主辦太空峰會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1412070/org/ac0d53ec2d15dbdc0f57817f4192a220.jpg/Qon1eqRWGvgEabZlMlX79kV3HIwwjOdGmSQYyJkkGMg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386565/%E7%BE%8E%E5%AA%92-%E7%99%BD%E5%AE%AE%E5%90%91spacex%E7%AD%89%E7%BE%8E%E4%BC%81%E6%96%BD%E5%A3%93-%E8%A6%81%E6%B1%82%E7%BC%BA%E5%B8%AD%E9%A6%AC%E5%85%8B%E9%BE%8D%E4%B8%BB%E8%BE%A6%E5%A4%AA%E7%A9%BA%E5%B3%B0%E6%9C%83",
-    "timestamp": "2026-09-03T09:53:41.514Z",
     "strategy": ".content-card__main"
   }
 ];
