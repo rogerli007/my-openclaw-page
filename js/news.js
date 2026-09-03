@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T16:53:28.391Z
+// Last updated: 2026-09-03T17:31:08.954Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗為遇襲婚禮罹難者舉殯　向科威特美軍基地射導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172348693655851008756823.jpeg/-tNIl-vqK-LXqJ1ofyx2HeANTTjVImMDN7BbzjewW84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386650/%E4%BC%8A%E6%9C%97%E7%82%BA%E9%81%87%E8%A5%B2%E5%A9%9A%E7%A6%AE%E7%BD%B9%E9%9B%A3%E8%80%85%E8%88%89%E6%AE%AF-%E5%90%91%E7%A7%91%E5%A8%81%E7%89%B9%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E5%B0%84%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-09-03T17:31:08.954Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀天星碼頭MMA．有片｜2男扯髮纏鬥倒地　黑衣男壓制阿伯拳毆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172223253901611008362590.png/eIWM9Y_Ro1KzFsFovYr4knmRfqk-68fzKbZqGCm2ahg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60386554/%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%B8%BD%E7%90%86%E9%BB%83%E5%BE%AA%E8%B2%A1%E8%A8%AA%E6%B3%B0%E5%9C%8B-%E5%85%A9%E5%9C%8B%E9%A0%98%E8%A2%96%E5%90%8C%E5%8F%B0%E8%A1%A8%E6%BC%94let-it-be-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-03T09:23:48.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "孫千是誰？《早春晴朗》尚之桃　10點認識「東北全智賢」長腿女神",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172217266628988928281506.png/lgXp6F-3bltmXP97i0AEhHEmcNKc6N9dMZXRezGV0Xs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386487/%E5%AD%AB%E5%8D%83%E6%98%AF%E8%AA%B0-%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E5%B0%9A%E4%B9%8B%E6%A1%83-10%E9%BB%9E%E8%AA%8D%E8%AD%98-%E6%9D%B1%E5%8C%97%E5%85%A8%E6%99%BA%E8%B3%A2-%E9%95%B7%E8%85%BF%E5%A5%B3%E7%A5%9E",
-    "timestamp": "2026-09-03T08:58:47.957Z",
     "strategy": ".content-card__main"
   }
 ];
