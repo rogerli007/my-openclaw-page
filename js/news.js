@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T09:23:48.148Z
+// Last updated: 2026-09-03T09:44:19.422Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院新大樓壞𨋢｜報道指𨋢槽歪斜所致　建築署拒透露工程細節",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167286386680664064560498.jpeg/GazwWAQ0cG-oUWj8oKG4irhQxMcwn61pFajvQRWo70E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386539/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E6%96%B0%E5%A4%A7%E6%A8%93%E5%A3%9E%F0%A8%8B%A2-%E5%A0%B1%E9%81%93%E6%8C%87%F0%A8%8B%A2%E6%A7%BD%E6%AD%AA%E6%96%9C%E6%89%80%E8%87%B4-%E5%BB%BA%E7%AF%89%E7%BD%B2%E6%8B%92%E9%80%8F%E9%9C%B2%E5%B7%A5%E7%A8%8B%E7%B4%B0%E7%AF%80",
+    "timestamp": "2026-09-03T09:44:19.422Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新加坡總理黃循財訪泰國　兩國領袖同台表演Let It Be｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172062109115486208049715.jpeg/j_7jQo2P3R6Sf1BFbgC1Sej68LTIVSPGbFinemxYp3o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386314/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%9831%E5%BA%A6-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81",
     "timestamp": "2026-09-02T22:40:53.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙德爾風球｜今日有一兩陣驟雨　最高31度　一號風球早上維持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172062109115486208049715.jpeg/j_7jQo2P3R6Sf1BFbgC1Sej68LTIVSPGbFinemxYp3o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386314/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%A8%E7%90%83-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%9831%E5%BA%A6-%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E6%97%A9%E4%B8%8A%E7%B6%AD%E6%8C%81",
-    "timestamp": "2026-09-02T22:33:20.254Z",
     "strategy": ".content-card__main"
   }
 ];
