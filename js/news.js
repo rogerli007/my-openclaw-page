@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T11:44:36.361Z
+// Last updated: 2026-09-03T11:54:05.735Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運劍擊｜張家朗四戰亞運嘆光陰匆匆　輕鬆心態衝團體金牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172259177058275328382950.jpeg/ekhSjNLE1MOXBfgzMAMOQeL2MuABu_q73-l1Fd_pdRU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60386436/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E5%8A%8D%E6%93%8A-%E5%BC%B5%E5%AE%B6%E6%9C%97%E5%9B%9B%E6%88%B0%E4%BA%9E%E9%81%8B%E5%98%86%E5%85%89%E9%99%B0%E5%8C%86%E5%8C%86-%E8%BC%95%E9%AC%86%E5%BF%83%E6%85%8B%E8%A1%9D%E5%9C%98%E9%AB%94%E9%87%91%E7%89%8C",
+    "timestamp": "2026-09-03T11:54:05.735Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜荃灣單車徑跑步爆爭執　中年男起飛腳踢單車　推撞老翁狂奔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171916993461227520681940.png/sr6mpW2PAyZ4qYcuRmKH03sAge9_VSQShNhyRYTYckU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385720/%E6%9A%91%E6%9C%9F%E4%BD%9C%E6%A5%AD-%E9%9B%A2%E5%A5%87%E5%A4%B1%E8%B9%A4-%E9%87%8D%E6%85%B6%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9%E5%B0%8B%E8%83%8C%E5%8C%85-%E7%BF%BB%E9%96%8B%E5%85%A8%E6%98%AF%E7%A9%BA%E7%99%BD",
     "timestamp": "2026-09-03T01:18:00.496Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玩命打卡！2女硬闖美國黃石大稜鏡溫泉　華氏188°F泉水旁自拍捱轟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171249479718801408175946.png/0eTkOP2KUKocz2hlrgZ73ZOYqvBjndc134jnMN-I5zA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60372901/%E7%8E%A9%E5%91%BD%E6%89%93%E5%8D%A1-2%E5%A5%B3%E7%A1%AC%E9%97%96%E7%BE%8E%E5%9C%8B%E9%BB%83%E7%9F%B3%E5%A4%A7%E7%A8%9C%E9%8F%A1%E6%BA%AB%E6%B3%89-%E8%8F%AF%E6%B0%8F188-f%E6%B3%89%E6%B0%B4%E6%97%81%E8%87%AA%E6%8B%8D%E6%8D%B1%E8%BD%9F",
-    "timestamp": "2026-09-03T00:49:45.908Z",
     "strategy": ".content-card__main"
   }
 ];
