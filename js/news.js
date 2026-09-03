@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T07:43:09.897Z
+// Last updated: 2026-09-03T07:54:33.116Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣告鉅子Kitty Lun倫潔瑩離世　Meta讚揚悉心引領及栽培團隊人才",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172207565547769856574813.jpeg/XPYN_lfsuha-nKk-eHIFHwRDVjIVZDv6-JsWXfibFl0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386521/%E5%BB%A3%E5%91%8A%E9%89%85%E5%AD%90kitty-lun%E5%80%AB%E6%BD%94%E7%91%A9%E9%9B%A2%E4%B8%96-meta%E8%AE%9A%E6%8F%9A%E6%82%89%E5%BF%83%E5%BC%95%E9%A0%98%E5%8F%8A%E6%A0%BD%E5%9F%B9%E5%9C%98%E9%9A%8A%E4%BA%BA%E6%89%8D",
+    "timestamp": "2026-09-03T07:54:33.116Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃錦輝醉駕｜被控酒後駕駛等四項控罪　下周三沙田裁判法院提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172050590084108288156082.png/_yjbex1-EfP_mt5w6hhhFfQqtd5UVRmf860n1fOtJ9U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386334/%E5%83%856%E6%AD%B2%E5%AD%90%E5%80%96%E5%AD%98-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%A8%82%E6%89%8B%E8%88%87%E5%AD%95%E5%A6%BB%E5%B9%BC%E5%A5%B3%E5%AE%B6%E5%82%AD%E6%84%9B%E7%8A%AC%E9%81%AD%E7%B6%81%E6%AE%BA-%E7%86%9F%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-02T21:41:28.448Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "僅6歲子倖存　墨西哥樂手與孕妻幼女家傭愛犬遭綁殺　熟人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172050590084108288156082.png/_yjbex1-EfP_mt5w6hhhFfQqtd5UVRmf860n1fOtJ9U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386334/%E5%83%856%E6%AD%B2%E5%AD%90%E5%80%96%E5%AD%98-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%A8%82%E6%89%8B%E8%88%87%E5%AD%95%E5%A6%BB%E5%B9%BC%E5%A5%B3%E5%AE%B6%E5%82%AD%E6%84%9B%E7%8A%AC%E9%81%AD%E7%B6%81%E6%AE%BA-%E7%86%9F%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-02T21:29:20.460Z",
     "strategy": ".content-card__main"
   }
 ];
