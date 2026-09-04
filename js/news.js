@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T22:18:33.785Z
+// Last updated: 2026-09-04T22:40:47.304Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英視障男偷女友車醉駕上高速　盲駛240公里無碰撞　靠前車燈導航",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172540062059991040685902.png/XJZNdRjrt-E4DArWNjmH-8DnpyOGer_oQm5FakJuRWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376393/%E8%8B%B1%E8%A6%96%E9%9A%9C%E7%94%B7%E5%81%B7%E5%A5%B3%E5%8F%8B%E8%BB%8A%E9%86%89%E9%A7%95%E4%B8%8A%E9%AB%98%E9%80%9F-%E7%9B%B2%E9%A7%9B240%E5%85%AC%E9%87%8C%E7%84%A1%E7%A2%B0%E6%92%9E-%E9%9D%A0%E5%89%8D%E8%BB%8A%E7%87%88%E5%B0%8E%E8%88%AA",
+    "timestamp": "2026-09-04T22:40:47.304Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜日間部分時間有陽光　市區氣溫最高31度　局部地區有驟雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230407/721075588684582912806459.jpeg/F85evE4hjvIL24HmZ-4j34UvT2aYE8vwalfie2pX4ns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387012/%E5%85%8B%E5%AE%AE-%E7%BE%8E%E5%9C%8B%E7%89%B9%E4%BD%BF%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E8%A8%AA%E4%BF%84%E7%BE%85%E6%96%AF%E6%99%82-%E6%9C%83%E8%A6%81%E6%B1%82%E7%83%8F%E5%85%8B%E8%98%AD%E5%81%9C%E6%AD%A2%E8%A5%B2%E6%93%8A",
     "timestamp": "2026-09-04T16:22:51.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭珮文爆黃宗澤「識食」論    事後零聯絡：以為冇咁大影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172586820706242560741620.jpeg/MtNG4KsYiGomnPxQCzeW2TfOfMmUwJi0ffvGk337xpM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386894/%E9%83%AD%E7%8F%AE%E6%96%87%E7%88%86%E9%BB%83%E5%AE%97%E6%BE%A4-%E8%AD%98%E9%A3%9F-%E8%AB%96-%E4%BA%8B%E5%BE%8C%E9%9B%B6%E8%81%AF%E7%B5%A1-%E4%BB%A5%E7%82%BA%E5%86%87%E5%92%81%E5%A4%A7%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-09-04T15:51:49.305Z",
     "strategy": ".content-card__main"
   }
 ];
