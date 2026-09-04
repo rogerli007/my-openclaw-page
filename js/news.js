@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T12:28:29.443Z
+// Last updated: 2026-09-04T12:52:09.783Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院壞𨋢｜發展局高度關注　全面檢視建築署機電署的驗收監管",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164184946571874304026517.jpeg/5bURH8rVnngCwT6YYAoFhb3YZI0Spcj7gFn2ZaVZ9mU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386986/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E7%99%BC%E5%B1%95%E5%B1%80%E9%AB%98%E5%BA%A6%E9%97%9C%E6%B3%A8-%E5%85%A8%E9%9D%A2%E6%AA%A2%E8%A6%96%E5%BB%BA%E7%AF%89%E7%BD%B2%E6%A9%9F%E9%9B%BB%E7%BD%B2%E7%9A%84%E9%A9%97%E6%94%B6%E7%9B%A3%E7%AE%A1",
+    "timestamp": "2026-09-04T12:52:09.783Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》十周年｜羅浩銘客串荷里活電影　望自創英雄IP上大銀幕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172530288912240640819563.jpeg/eDce169I-qlbzrZ6EgwRuwarCcLPxV68h8iiXIfIolw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386780/%E5%9F%8E%E5%A4%A7ocamp%E7%8E%A9%E9%99%A4%E8%A1%AB-%E7%B4%80%E5%BE%8B%E8%AA%BF%E6%9F%A5%E5%AE%8C%E6%88%90-%E6%B6%89%E4%BA%8B%E5%AD%B8%E7%94%9F%E8%AA%8D%E9%8C%AF%E8%87%B4%E6%AD%89-%E6%8E%A5%E5%8F%97%E8%99%95%E5%88%86",
     "timestamp": "2026-09-04T05:19:44.007Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警東九龍打擊「白牌車」　兩司機當場被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172525728558747648748219.jpeg/-XMTz_fPXPqPKxVaSDwGAYoFp60nvBV_SI_nFUiP5xU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386773/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E6%89%93%E6%93%8A-%E7%99%BD%E7%89%8C%E8%BB%8A-%E5%85%A9%E5%8F%B8%E6%A9%9F%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-04T04:56:31.713Z",
     "strategy": ".content-card__main"
   }
 ];
