@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T20:53:39.341Z
+// Last updated: 2026-09-04T21:17:28.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
+    "timestamp": "2026-09-04T21:17:28.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172220562622124032564930.png/RpYdGJqs0-v5sSLAxcjOLUjmReBnYrvqDmeT7Q5nk-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377332/2026%E5%8A%A0%E5%B7%9Emedi-cal%E6%96%B0%E5%88%B6%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%96%B0%E5%A2%9E80%E5%B7%A5%E6%99%82%E9%96%80%E6%AA%BB-%E9%95%B7%E8%80%85%E8%B3%87%E7%94%A2%E5%A4%A7%E5%B9%85%E6%94%B6%E7%B7%8A",
     "timestamp": "2026-09-04T15:20:26.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "照燒雞扒飯食譜｜做法簡易20分鐘完成、香甜嫩滑勝過日式連鎖店",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/980065/org/69690ddd450935bc9f1fc74987fb337c.jpg/Sb5z1Earu99GijzNUpURmIoS3GIU5XZtGQJAbRkCQG0?v=w1920",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387007/%E7%85%A7%E7%87%92%E9%9B%9E%E6%89%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%9320%E5%88%86%E9%90%98%E5%AE%8C%E6%88%90-%E9%A6%99%E7%94%9C%E5%AB%A9%E6%BB%91%E5%8B%9D%E9%81%8E%E6%97%A5%E5%BC%8F%E9%80%A3%E9%8E%96%E5%BA%97",
-    "timestamp": "2026-09-04T14:44:35.910Z",
     "strategy": ".content-card__main"
   }
 ];
