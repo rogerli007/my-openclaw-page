@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T19:15:49.338Z
+// Last updated: 2026-09-04T19:25:21.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜長沙灣過渡房屋女子燒炭　昏迷送院搶救回天乏術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
+    "timestamp": "2026-09-04T19:25:21.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜長沙灣過渡房屋女子燒炭　昏迷送院搶救回天乏術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164184946571874304026517.jpeg/5bURH8rVnngCwT6YYAoFhb3YZI0Spcj7gFn2ZaVZ9mU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386986/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E7%99%BC%E5%B1%95%E5%B1%80%E9%AB%98%E5%BA%A6%E9%97%9C%E6%B3%A8-%E5%85%A8%E9%9D%A2%E6%AA%A2%E8%A6%96%E5%BB%BA%E7%AF%89%E7%BD%B2%E6%A9%9F%E9%9B%BB%E7%BD%B2%E7%9A%84%E9%A9%97%E6%94%B6%E7%9B%A3%E7%AE%A1",
     "timestamp": "2026-09-04T12:52:09.783Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》十周年｜羅浩銘客串荷里活電影　望自創英雄IP上大銀幕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172627664905703424871430.jpeg/ZJUkOBpGLXkZhhM51RTefmUE_oYKLoogoD-KlKA_ipQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386649/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E7%BE%85%E6%B5%A9%E9%8A%98%E5%AE%A2%E4%B8%B2%E8%8D%B7%E9%87%8C%E6%B4%BB%E9%9B%BB%E5%BD%B1-%E6%9C%9B%E8%87%AA%E5%89%B5%E8%8B%B1%E9%9B%84ip%E4%B8%8A%E5%A4%A7%E9%8A%80%E5%B9%95",
-    "timestamp": "2026-09-04T12:28:29.443Z",
     "strategy": ".content-card__main"
   }
 ];
