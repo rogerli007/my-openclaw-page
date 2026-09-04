@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T17:41:03.456Z
+// Last updated: 2026-09-04T17:51:36.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銀行發現400宗非接觸式流動支付服務騙案　金管局接獲報告籲提防",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172715012708372480045713.jpeg/jzh1sPkdO3rwwP0kgc3f4BVw64oSkpvo85DEFvOQxBY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387014/%E9%8A%80%E8%A1%8C%E7%99%BC%E7%8F%BE400%E5%AE%97%E9%9D%9E%E6%8E%A5%E8%A7%B8%E5%BC%8F%E6%B5%81%E5%8B%95%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8B%99%E9%A8%99%E6%A1%88-%E9%87%91%E7%AE%A1%E5%B1%80%E6%8E%A5%E7%8D%B2%E5%A0%B1%E5%91%8A%E7%B1%B2%E6%8F%90%E9%98%B2",
+    "timestamp": "2026-09-04T17:51:36.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銀行發現400宗非接觸式流動支付服務騙案　金管局接獲報告籲提防",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158027172267823104271960.jpeg/5eEgfpaRBhFK1utsHDpKT7rwuV6qlIIdGcVtFAPFbRQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386893/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%8D%97%E6%B5%B7%E4%B8%AD%E9%83%A8%E4%B8%8B%E5%91%A8%E5%BE%8C%E6%9C%9F%E6%88%96%E6%9C%89%E4%BD%8E%E5%A3%93%E5%8D%80%E7%99%BC%E5%B1%95-9-10%E8%BD%89%E5%90%B9%E6%9D%B1%E5%8C%97%E9%A2%A8",
     "timestamp": "2026-09-04T11:18:18.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港產女太空人｜  消息指與黎家盈「天地對話」　最快下周舉行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134791057255436288310542.png/lVYdoaKqlIuOy8Ue-pUfm9S4f6JfmvOjin6VfIp-lXw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386927/%E6%B8%AF%E7%94%A2%E5%A5%B3%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E6%B6%88%E6%81%AF%E6%8C%87%E8%88%87%E9%BB%8E%E5%AE%B6%E7%9B%88-%E5%A4%A9%E5%9C%B0%E5%B0%8D%E8%A9%B1-%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%88%89%E8%A1%8C",
-    "timestamp": "2026-09-04T10:56:02.641Z",
     "strategy": ".content-card__main"
   }
 ];
