@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T15:20:26.587Z
+// Last updated: 2026-09-04T15:41:51.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭珮文爆黃宗澤「識食」論    事後零聯絡：以為冇咁大影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172586820706242560741620.jpeg/MtNG4KsYiGomnPxQCzeW2TfOfMmUwJi0ffvGk337xpM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386894/%E9%83%AD%E7%8F%AE%E6%96%87%E7%88%86%E9%BB%83%E5%AE%97%E6%BE%A4-%E8%AD%98%E9%A3%9F-%E8%AB%96-%E4%BA%8B%E5%BE%8C%E9%9B%B6%E8%81%AF%E7%B5%A1-%E4%BB%A5%E7%82%BA%E5%86%87%E5%92%81%E5%A4%A7%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-09-04T15:41:51.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026加州Medi-Cal新制懶人包：新增80工時門檻、長者資產大幅收緊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172586037927481344380542.png/upk6Q9jyY8PMEVIcEktQ15oVtNBFo9vxCi_j5Aov4-Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386872/%E9%A2%B1%E9%A2%A8%E7%A7%91%E7%BE%85%E6%97%BA%E8%A5%B2%E6%97%A5%E6%9C%AC-%E5%AE%AE%E5%B4%8E%E7%B8%A3%E8%90%BD%E6%9A%B4%E9%9B%A8%E9%80%BE300%E6%AF%AB%E7%B1%B3-%E5%9B%9B%E5%9C%8B%E4%B9%9D%E5%B7%9E%E6%98%8E%E7%BA%8C%E9%99%8D%E5%A4%A7%E9%9B%A8",
     "timestamp": "2026-09-04T08:58:12.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林奕匡兒子第二日返幼稚園唔見父母爆喊　拒絕做虎爸只會適量鞭策",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172347614067167232054163.png/pUF8RF1A0_LwYcuDdEci3QhUNTCzxkfGrVVC3q1VQt4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386646/%E6%9E%97%E5%A5%95%E5%8C%A1%E5%85%92%E5%AD%90%E7%AC%AC%E4%BA%8C%E6%97%A5%E8%BF%94%E5%B9%BC%E7%A8%9A%E5%9C%92%E5%94%94%E8%A6%8B%E7%88%B6%E6%AF%8D%E7%88%86%E5%96%8A-%E6%8B%92%E7%B5%95%E5%81%9A%E8%99%8E%E7%88%B8%E5%8F%AA%E6%9C%83%E9%81%A9%E9%87%8F%E9%9E%AD%E7%AD%96",
-    "timestamp": "2026-09-04T08:49:28.465Z",
     "strategy": ".content-card__main"
   }
 ];
