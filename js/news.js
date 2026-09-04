@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T07:46:23.471Z
+// Last updated: 2026-09-04T07:56:09.925Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼泊爾山洪快淹沒隧道　軍人摸黑划橡皮艇救援　災民痛失17名親人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172566263642198016134527.jpeg/NfBc_QcAmf4sfGGcPY9f9_VZ9G1_N1F8f1pnqH9aZ6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386808/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA%E5%BF%AB%E6%B7%B9%E6%B2%92%E9%9A%A7%E9%81%93-%E8%BB%8D%E4%BA%BA%E6%91%B8%E9%BB%91%E5%88%92%E6%A9%A1%E7%9A%AE%E8%89%87%E6%95%91%E6%8F%B4-%E7%81%BD%E6%B0%91%E7%97%9B%E5%A4%B117%E5%90%8D%E8%A6%AA%E4%BA%BA",
+    "timestamp": "2026-09-04T07:56:09.925Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "壽司郎又出事！北京分店顧客「給小孩接尿」　店方稱消毒銷毀餐具",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172281552969666560072836.jpeg/uAaWLq05qXgAVB_oiydCWamQrxaeiZnk2-fPqtvnz6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386543/55%E6%AD%B2-%E5%90%B8%E9%87%91%E7%8E%8B-%E9%99%B3%E8%B1%AA%E5%85%A9%E5%A5%AA%E8%A6%96%E5%B8%9D%E7%8B%82%E5%8F%97%E6%8D%A7-%E8%A1%97%E9%82%8A%E5%9D%90%E5%87%B3%E4%BB%94%E5%8C%96%E5%A6%9D%E8%87%AA%E5%B7%B1%E6%8B%8E%E9%81%AE%E6%8B%8D%E6%94%9D",
     "timestamp": "2026-09-03T22:43:58.381Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "家長生活繁忙沒時間照顧自己？專家教3個生活小改變實踐自我關懷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172034731802365952075892.jpeg/1wrrS5Jwy6klju1N_J09CDWywh4Np5nWnulRv57pUb8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60385919/%E5%AE%B6%E9%95%B7%E7%94%9F%E6%B4%BB%E7%B9%81%E5%BF%99%E6%B2%92%E6%99%82%E9%96%93%E7%85%A7%E9%A1%A7%E8%87%AA%E5%B7%B1-%E5%B0%88%E5%AE%B6%E6%95%993%E5%80%8B%E7%94%9F%E6%B4%BB%E5%B0%8F%E6%94%B9%E8%AE%8A%E5%AF%A6%E8%B8%90%E8%87%AA%E6%88%91%E9%97%9C%E6%87%B7",
-    "timestamp": "2026-09-03T22:19:19.815Z",
     "strategy": ".content-card__main"
   }
 ];
