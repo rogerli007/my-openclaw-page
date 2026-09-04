@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T17:20:12.882Z
+// Last updated: 2026-09-04T17:28:37.172Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社：實屬罕見　習近平將帶龐大商務代表團訪美",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240327/849616184440524800362057.jpeg/iARPBLJfHbnU_JMbP4f-LRJfU5L3IKSS4eBs-uHgbPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387015/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%AF%A6%E5%B1%AC%E7%BD%95%E8%A6%8B-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%B8%B6%E9%BE%90%E5%A4%A7%E5%95%86%E5%8B%99%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E7%BE%8E",
+    "timestamp": "2026-09-04T17:28:37.172Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社：實屬罕見　習近平將帶龐大商務代表團訪美",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127932867444609024298430.jpeg/BlpE82zrTNy3lT1Z0kYxumKvi_XjehYI-Zlue_mZbns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60386939/%E9%AB%98%E6%B5%A9%E6%96%87%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%82%BA%E9%AB%98%E7%AD%89%E6%B3%95%E9%99%A2%E4%B8%8A%E8%A8%B4%E5%BA%AD%E6%B3%95%E5%AE%98-%E4%B8%8B%E5%91%A8%E4%B8%80%E7%94%9F%E6%95%88",
     "timestamp": "2026-09-04T10:41:07.654Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超市優惠｜惠康/百佳/佳宝/AEON 4折起！百佳滿$150減$18＋$1隻蛋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172599944805093376912680.jpeg/RHv4ExPgkUZc1RVhLoYBVok05fypKsna6j-1meo_tZk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60386807/%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E6%83%A0%E5%BA%B7-%E7%99%BE%E4%BD%B3-%E4%BD%B3%E5%AE%9D-aeon-4%E6%8A%98%E8%B5%B7-%E7%99%BE%E4%BD%B3%E6%BB%BF-150%E6%B8%9B-18-1%E9%9A%BB%E8%9B%8B",
-    "timestamp": "2026-09-04T10:22:28.089Z",
     "strategy": ".content-card__main"
   }
 ];
