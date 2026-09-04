@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T03:23:33.997Z
+// Last updated: 2026-09-04T03:54:28.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣IVE火警．有片｜香港專業教育學院分校失火　逾400人急疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172507012643164160410698.jpeg/pE4PdmATbnadeJ4jhz1HuTnj7WGmngJfrLlGnKy5Rpw?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386733/%E9%9D%92%E8%A1%A3ive%E7%81%AB%E8%AD%A6-%E6%9C%89%E7%89%87-%E9%A6%99%E6%B8%AF%E5%B0%88%E6%A5%AD%E6%95%99%E8%82%B2%E5%AD%B8%E9%99%A2%E5%88%86%E6%A0%A1%E5%A4%B1%E7%81%AB-%E9%80%BE400%E4%BA%BA%E6%80%A5%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-09-04T03:54:28.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博︰愈來愈企業上市時「自肥」　分貨益「親友團」｜新股IPO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172397465899372544928063.jpeg/ihPdw6qZ9vIQUoNrrCHAFqWaPrpLLJGVWeTuZ1nk7mc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386663/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%81%E9%80%BE1290%E6%AD%BB-%E6%B0%B4%E9%9B%BB%E7%AB%99%E9%9A%A7%E9%81%93%E5%80%96%E5%AD%98%E5%B7%A5%E4%BA%BA%E6%86%B6%E9%80%83%E5%91%BD%E9%81%8E%E7%A8%8B-%E5%88%B0%E8%99%95%E5%B1%8D%E9%AB%94",
     "timestamp": "2026-09-03T20:50:50.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾泥石流逾1290死　水電站隧道倖存工人憶逃命過程：到處屍體",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172397465899372544928063.jpeg/ihPdw6qZ9vIQUoNrrCHAFqWaPrpLLJGVWeTuZ1nk7mc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386663/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%81%E9%80%BE1290%E6%AD%BB-%E6%B0%B4%E9%9B%BB%E7%AB%99%E9%9A%A7%E9%81%93%E5%80%96%E5%AD%98%E5%B7%A5%E4%BA%BA%E6%86%B6%E9%80%83%E5%91%BD%E9%81%8E%E7%A8%8B-%E5%88%B0%E8%99%95%E5%B1%8D%E9%AB%94",
-    "timestamp": "2026-09-03T20:43:50.625Z",
     "strategy": ".content-card__main"
   }
 ];
