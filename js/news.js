@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T13:40:38.310Z
+// Last updated: 2026-09-04T13:53:55.721Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC｜代表團打卡廣州黑科技！試玩小鵬飛行汽車、AI技術驚艷外賓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172597386652946432302891.jpeg/7N86xg_LeRXn34bJM76r55M4HJSO7kIx4lKpNuJSqTY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60386892/apec-%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%89%93%E5%8D%A1%E5%BB%A3%E5%B7%9E%E9%BB%91%E7%A7%91%E6%8A%80-%E8%A9%A6%E7%8E%A9%E5%B0%8F%E9%B5%AC%E9%A3%9B%E8%A1%8C%E6%B1%BD%E8%BB%8A-ai%E6%8A%80%E8%A1%93%E9%A9%9A%E8%89%B7%E5%A4%96%E8%B3%93",
+    "timestamp": "2026-09-04T13:53:55.721Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：特朗普女婿庫什納與特使週末出訪俄烏　冀重啟和談努力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172566158876872704492850.jpeg/MqeMDfwkaG7H3FleFEycSOopSXEM-oPsNjje1zY43tc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60386830/%E5%A3%BD%E5%8F%B8%E9%83%8E%E5%8F%88%E5%87%BA%E4%BA%8B-%E5%8C%97%E4%BA%AC%E5%88%86%E5%BA%97%E9%A1%A7%E5%AE%A2-%E7%B5%A6%E5%B0%8F%E5%AD%A9%E6%8E%A5%E5%B0%BF-%E5%BA%97%E6%96%B9%E7%A8%B1%E6%B6%88%E6%AF%92%E9%8A%B7%E6%AF%80%E9%A4%90%E5%85%B7",
     "timestamp": "2026-09-04T07:46:23.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼浮潛中國夫婦亡　家屬疑男事主救妻遇難　尋同船遊客還原真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172539326588784640805347.jpeg/QR_vmlTZEyX1NE9_XH8YKAoqB1_x491zTxw6308cOt8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386791/%E5%8D%B0%E5%B0%BC%E6%B5%AE%E6%BD%9B%E4%B8%AD%E5%9C%8B%E5%A4%AB%E5%A9%A6%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E7%96%91%E7%94%B7%E4%BA%8B%E4%B8%BB%E6%95%91%E5%A6%BB%E9%81%87%E9%9B%A3-%E5%B0%8B%E5%90%8C%E8%88%B9%E9%81%8A%E5%AE%A2%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-09-04T06:30:28.759Z",
     "strategy": ".content-card__main"
   }
 ];
