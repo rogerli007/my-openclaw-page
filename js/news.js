@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T10:56:02.641Z
+// Last updated: 2026-09-04T11:18:18.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風？天文台料南海中部下周後期或有低壓區發展　9.10轉吹東北風",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158027172267823104271960.jpeg/5eEgfpaRBhFK1utsHDpKT7rwuV6qlIIdGcVtFAPFbRQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386893/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%8D%97%E6%B5%B7%E4%B8%AD%E9%83%A8%E4%B8%8B%E5%91%A8%E5%BE%8C%E6%9C%9F%E6%88%96%E6%9C%89%E4%BD%8E%E5%A3%93%E5%8D%80%E7%99%BC%E5%B1%95-9-10%E8%BD%89%E5%90%B9%E6%9D%B1%E5%8C%97%E9%A2%A8",
+    "timestamp": "2026-09-04T11:18:18.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港產女太空人｜  消息指與黎家盈「天地對話」　最快下周舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172156225240961024215968.jpeg/rxY-i06egYbFO1fXWSrwCcQSJT1LU_4d14xDANeMQwA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60386404/%E6%9D%AD%E5%B7%9E%E5%A5%B3%E8%AC%8A%E7%A8%B1%E9%9B%BB%E6%A2%AF%E9%81%AD%E7%94%B7%E9%84%B0%E5%B1%85%E7%8C%A5%E8%A4%BB%E6%AF%86%E6%89%93-%E5%8D%9A%E5%90%8C%E6%83%85%E5%A4%A7%E7%BF%BB%E8%BB%8A%E7%B5%82%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8B%98%E7%95%99",
     "timestamp": "2026-09-04T02:49:17.551Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大坑勵德邨單位疑閉門失火　一度傳出爆炸聲　40人疏散離開",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172479646634086400103259.jpeg/uFo-HEFdf1ltA-aCCUlJAjD8S-N2NZrGrfHaCq3x2go?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386682/%E5%A4%A7%E5%9D%91%E5%8B%B5%E5%BE%B7%E9%82%A8%E5%96%AE%E4%BD%8D%E7%96%91%E9%96%89%E9%96%80%E5%A4%B1%E7%81%AB-%E4%B8%80%E5%BA%A6%E5%82%B3%E5%87%BA%E7%88%86%E7%82%B8%E8%81%B2-40%E4%BA%BA%E7%96%8F%E6%95%A3%E9%9B%A2%E9%96%8B",
-    "timestamp": "2026-09-04T01:58:18.446Z",
     "strategy": ".content-card__main"
   }
 ];
