@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T11:33:01.877Z
+// Last updated: 2026-09-04T11:38:23.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "流感｜14歲長期病患女童染甲流併發敗血性休克　情況嚴重留醫PICU",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240215/834919117159927808507481.jpeg/1gIkzSLAm4Fqwim4dFH2KDrfXE-X0JRxvsJTXr7CU14?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386970/%E6%B5%81%E6%84%9F-14%E6%AD%B2%E9%95%B7%E6%9C%9F%E7%97%85%E6%82%A3%E5%A5%B3%E7%AB%A5%E6%9F%93%E7%94%B2%E6%B5%81%E4%BD%B5%E7%99%BC%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B-%E6%83%85%E6%B3%81%E5%9A%B4%E9%87%8D%E7%95%99%E9%86%ABpicu",
+    "timestamp": "2026-09-04T11:38:23.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "流感｜14歲長期病患女童染甲流併發敗血性休克　情況嚴重留醫PICU",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260805/1161740112061534208713864.jpeg/vvFBnhlsBwyGPUs41A_sHuVrCKzKjmzYc7ZDUnO2Q1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386721/%E5%BD%AD%E5%8D%9A-%E6%84%88%E4%BE%86%E6%84%88%E4%BC%81%E6%A5%AD%E4%B8%8A%E5%B8%82%E6%99%82-%E8%87%AA%E8%82%A5-%E5%88%86%E8%B2%A8%E7%9B%8A-%E8%A6%AA%E5%8F%8B%E5%9C%98-%E6%96%B0%E8%82%A1ipo",
     "timestamp": "2026-09-04T03:23:33.997Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "于品海｜下一個十年：由被動改變到主動改革",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172466997502414848148023.jpeg/kLMOmX3y4oFSmD_xGHjOT3D3DCkkO73xgZaXoIGWl6A?v=w1920",
-    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60386457/%E4%BA%8E%E5%93%81%E6%B5%B7-%E4%B8%8B%E4%B8%80%E5%80%8B%E5%8D%81%E5%B9%B4-%E7%94%B1%E8%A2%AB%E5%8B%95%E6%94%B9%E8%AE%8A%E5%88%B0%E4%B8%BB%E5%8B%95%E6%94%B9%E9%9D%A9",
-    "timestamp": "2026-09-04T02:56:53.956Z",
     "strategy": ".content-card__main"
   }
 ];
