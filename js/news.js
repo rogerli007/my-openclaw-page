@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T10:41:07.654Z
+// Last updated: 2026-09-04T10:56:02.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港產女太空人｜  消息指與黎家盈「天地對話」　最快下周舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134791057255436288310542.png/lVYdoaKqlIuOy8Ue-pUfm9S4f6JfmvOjin6VfIp-lXw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386927/%E6%B8%AF%E7%94%A2%E5%A5%B3%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E6%B6%88%E6%81%AF%E6%8C%87%E8%88%87%E9%BB%8E%E5%AE%B6%E7%9B%88-%E5%A4%A9%E5%9C%B0%E5%B0%8D%E8%A9%B1-%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-09-04T10:56:02.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高浩文獲委任為高等法院上訴庭法官　下周一生效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172479646634086400103259.jpeg/uFo-HEFdf1ltA-aCCUlJAjD8S-N2NZrGrfHaCq3x2go?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386682/%E5%A4%A7%E5%9D%91%E5%8B%B5%E5%BE%B7%E9%82%A8%E5%96%AE%E4%BD%8D%E7%96%91%E9%96%89%E9%96%80%E5%A4%B1%E7%81%AB-%E4%B8%80%E5%BA%A6%E5%82%B3%E5%87%BA%E7%88%86%E7%82%B8%E8%81%B2-40%E4%BA%BA%E7%96%8F%E6%95%A3%E9%9B%A2%E9%96%8B",
     "timestamp": "2026-09-04T01:58:18.446Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美專家赴大灣區對比中美AI　直指矽谷泡沫嚴重　深圳勝在硬件實體",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172205615066386432320894.jpeg/YoypmUyZWO5arMsxzuVYrl7jShe19N3RHEOhFRxDoRU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386491/%E7%BE%8E%E5%B0%88%E5%AE%B6%E8%B5%B4%E5%A4%A7%E7%81%A3%E5%8D%80%E5%B0%8D%E6%AF%94%E4%B8%AD%E7%BE%8Eai-%E7%9B%B4%E6%8C%87%E7%9F%BD%E8%B0%B7%E6%B3%A1%E6%B2%AB%E5%9A%B4%E9%87%8D-%E6%B7%B1%E5%9C%B3%E5%8B%9D%E5%9C%A8%E7%A1%AC%E4%BB%B6%E5%AF%A6%E9%AB%94",
-    "timestamp": "2026-09-04T01:36:41.021Z",
     "strategy": ".content-card__main"
   }
 ];
