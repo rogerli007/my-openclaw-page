@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T14:20:06.630Z
+// Last updated: 2026-09-04T14:44:35.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "照燒雞扒飯食譜｜做法簡易20分鐘完成、香甜嫩滑勝過日式連鎖店",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/980065/org/69690ddd450935bc9f1fc74987fb337c.jpg/Sb5z1Earu99GijzNUpURmIoS3GIU5XZtGQJAbRkCQG0?v=w1920",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387007/%E7%85%A7%E7%87%92%E9%9B%9E%E6%89%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%9320%E5%88%86%E9%90%98%E5%AE%8C%E6%88%90-%E9%A6%99%E7%94%9C%E5%AB%A9%E6%BB%91%E5%8B%9D%E9%81%8E%E6%97%A5%E5%BC%8F%E9%80%A3%E9%8E%96%E5%BA%97",
+    "timestamp": "2026-09-04T14:44:35.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟盈苑｜有業主投訴30戶私下拆牆　房屋局：如證實違規會下令還原",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172553806500597760780149.jpeg/ESSeBxTiykiBzbY_Y4dNR9AntO0sRVf9_UQzXf1EM10?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386815/gareth-t%E6%B9%AF%E4%BB%A4%E5%B1%B1%E7%96%912027%E9%A6%99%E6%B8%AF%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-09-04T08:26:28.776Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾山洪快淹沒隧道　軍人摸黑划橡皮艇救援　災民痛失17名親人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172566263642198016134527.jpeg/NfBc_QcAmf4sfGGcPY9f9_VZ9G1_N1F8f1pnqH9aZ6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386808/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA%E5%BF%AB%E6%B7%B9%E6%B2%92%E9%9A%A7%E9%81%93-%E8%BB%8D%E4%BA%BA%E6%91%B8%E9%BB%91%E5%88%92%E6%A9%A1%E7%9A%AE%E8%89%87%E6%95%91%E6%8F%B4-%E7%81%BD%E6%B0%91%E7%97%9B%E5%A4%B117%E5%90%8D%E8%A6%AA%E4%BA%BA",
-    "timestamp": "2026-09-04T07:56:09.925Z",
     "strategy": ".content-card__main"
   }
 ];
