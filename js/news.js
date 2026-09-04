@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T17:28:37.172Z
+// Last updated: 2026-09-04T17:41:03.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銀行發現400宗非接觸式流動支付服務騙案　金管局接獲報告籲提防",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172715012708372480045713.jpeg/jzh1sPkdO3rwwP0kgc3f4BVw64oSkpvo85DEFvOQxBY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387014/%E9%8A%80%E8%A1%8C%E7%99%BC%E7%8F%BE400%E5%AE%97%E9%9D%9E%E6%8E%A5%E8%A7%B8%E5%BC%8F%E6%B5%81%E5%8B%95%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8B%99%E9%A8%99%E6%A1%88-%E9%87%91%E7%AE%A1%E5%B1%80%E6%8E%A5%E7%8D%B2%E5%A0%B1%E5%91%8A%E7%B1%B2%E6%8F%90%E9%98%B2",
+    "timestamp": "2026-09-04T17:41:03.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社：實屬罕見　習近平將帶龐大商務代表團訪美",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134791057255436288310542.png/lVYdoaKqlIuOy8Ue-pUfm9S4f6JfmvOjin6VfIp-lXw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386927/%E6%B8%AF%E7%94%A2%E5%A5%B3%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E6%B6%88%E6%81%AF%E6%8C%87%E8%88%87%E9%BB%8E%E5%AE%B6%E7%9B%88-%E5%A4%A9%E5%9C%B0%E5%B0%8D%E8%A9%B1-%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%88%89%E8%A1%8C",
     "timestamp": "2026-09-04T10:56:02.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高浩文獲委任為高等法院上訴庭法官　下周一生效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127932867444609024298430.jpeg/BlpE82zrTNy3lT1Z0kYxumKvi_XjehYI-Zlue_mZbns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60386939/%E9%AB%98%E6%B5%A9%E6%96%87%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%82%BA%E9%AB%98%E7%AD%89%E6%B3%95%E9%99%A2%E4%B8%8A%E8%A8%B4%E5%BA%AD%E6%B3%95%E5%AE%98-%E4%B8%8B%E5%91%A8%E4%B8%80%E7%94%9F%E6%95%88",
-    "timestamp": "2026-09-04T10:41:07.654Z",
     "strategy": ".content-card__main"
   }
 ];
