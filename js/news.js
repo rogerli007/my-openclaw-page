@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T11:56:49.093Z
+// Last updated: 2026-09-04T12:28:29.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年｜羅浩銘客串荷里活電影　望自創英雄IP上大銀幕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172627664905703424871430.jpeg/ZJUkOBpGLXkZhhM51RTefmUE_oYKLoogoD-KlKA_ipQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386649/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E7%BE%85%E6%B5%A9%E9%8A%98%E5%AE%A2%E4%B8%B2%E8%8D%B7%E9%87%8C%E6%B4%BB%E9%9B%BB%E5%BD%B1-%E6%9C%9B%E8%87%AA%E5%89%B5%E8%8B%B1%E9%9B%84ip%E4%B8%8A%E5%A4%A7%E9%8A%80%E5%B9%95",
+    "timestamp": "2026-09-04T12:28:29.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球｜吳英倫挫中國翁泓陽　與李卓耀雙線爭入決賽｜中國大師賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172525728558747648748219.jpeg/-XMTz_fPXPqPKxVaSDwGAYoFp60nvBV_SI_nFUiP5xU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386773/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E6%89%93%E6%93%8A-%E7%99%BD%E7%89%8C%E8%BB%8A-%E5%85%A9%E5%8F%B8%E6%A9%9F%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-04T04:56:31.713Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣IVE火警．有片｜香港專業教育學院分校失火　逾400人急疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172507012643164160410698.jpeg/pE4PdmATbnadeJ4jhz1HuTnj7WGmngJfrLlGnKy5Rpw?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386733/%E9%9D%92%E8%A1%A3ive%E7%81%AB%E8%AD%A6-%E6%9C%89%E7%89%87-%E9%A6%99%E6%B8%AF%E5%B0%88%E6%A5%AD%E6%95%99%E8%82%B2%E5%AD%B8%E9%99%A2%E5%88%86%E6%A0%A1%E5%A4%B1%E7%81%AB-%E9%80%BE400%E4%BA%BA%E6%80%A5%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-09-04T03:54:28.923Z",
     "strategy": ".content-card__main"
   }
 ];
