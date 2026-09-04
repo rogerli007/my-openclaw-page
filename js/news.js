@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-03T23:53:44.430Z
+// Last updated: 2026-09-04T00:43:35.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OpenAI發布GPT-6 Astra模型　稱其或接近實現AGI",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156616099370897408064172.jpeg/q7l5j7atPI2gzC4T_-XtGQ0R69xpPDFpQg_8QUIP_EE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386678/openai%E7%99%BC%E5%B8%83gpt-6-astra%E6%A8%A1%E5%9E%8B-%E7%A8%B1%E5%85%B6%E6%88%96%E6%8E%A5%E8%BF%91%E5%AF%A6%E7%8F%BEagi",
+    "timestamp": "2026-09-04T00:43:35.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "IVE 張員瑛修長美腿秘訣　器械皮拉提斯對塑造體態的3大好處",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-03T18:55:39.499Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加：願與美簽互利協議但任何協議須具可信度　特朗普警告勿當敵人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260823/1168142073723883520829740.jpeg/-4NDz-AyflpM48AfK_Qebbp-3Lc20OO8o_WqsqP1qrI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386652/%E5%8A%A0-%E9%A1%98%E8%88%87%E7%BE%8E%E7%B0%BD%E4%BA%92%E5%88%A9%E5%8D%94%E8%AD%B0%E4%BD%86%E4%BB%BB%E4%BD%95%E5%8D%94%E8%AD%B0%E9%A0%88%E5%85%B7%E5%8F%AF%E4%BF%A1%E5%BA%A6-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8B%BF%E7%95%B6%E6%95%B5%E4%BA%BA",
-    "timestamp": "2026-09-03T18:46:16.956Z",
     "strategy": ".content-card__main"
   }
 ];
