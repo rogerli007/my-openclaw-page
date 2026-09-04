@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T01:12:57.105Z
+// Last updated: 2026-09-04T01:36:41.021Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美專家赴大灣區對比中美AI　直指矽谷泡沫嚴重　深圳勝在硬件實體",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172205615066386432320894.jpeg/YoypmUyZWO5arMsxzuVYrl7jShe19N3RHEOhFRxDoRU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386491/%E7%BE%8E%E5%B0%88%E5%AE%B6%E8%B5%B4%E5%A4%A7%E7%81%A3%E5%8D%80%E5%B0%8D%E6%AF%94%E4%B8%AD%E7%BE%8Eai-%E7%9B%B4%E6%8C%87%E7%9F%BD%E8%B0%B7%E6%B3%A1%E6%B2%AB%E5%9A%B4%E9%87%8D-%E6%B7%B1%E5%9C%B3%E5%8B%9D%E5%9C%A8%E7%A1%AC%E4%BB%B6%E5%AF%A6%E9%AB%94",
+    "timestamp": "2026-09-04T01:36:41.021Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平9月底訪美　美貿易代表：美中屆時或公布農業貿易相關安排",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-03T19:26:21.625Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-03T19:18:53.802Z",
     "strategy": ".content-card__main"
   }
 ];
