@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T14:44:35.910Z
+// Last updated: 2026-09-04T15:20:26.587Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026加州Medi-Cal新制懶人包：新增80工時門檻、長者資產大幅收緊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172220562622124032564930.png/RpYdGJqs0-v5sSLAxcjOLUjmReBnYrvqDmeT7Q5nk-0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377332/2026%E5%8A%A0%E5%B7%9Emedi-cal%E6%96%B0%E5%88%B6%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%96%B0%E5%A2%9E80%E5%B7%A5%E6%99%82%E9%96%80%E6%AA%BB-%E9%95%B7%E8%80%85%E8%B3%87%E7%94%A2%E5%A4%A7%E5%B9%85%E6%94%B6%E7%B7%8A",
+    "timestamp": "2026-09-04T15:20:26.587Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "照燒雞扒飯食譜｜做法簡易20分鐘完成、香甜嫩滑勝過日式連鎖店",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172347614067167232054163.png/pUF8RF1A0_LwYcuDdEci3QhUNTCzxkfGrVVC3q1VQt4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386646/%E6%9E%97%E5%A5%95%E5%8C%A1%E5%85%92%E5%AD%90%E7%AC%AC%E4%BA%8C%E6%97%A5%E8%BF%94%E5%B9%BC%E7%A8%9A%E5%9C%92%E5%94%94%E8%A6%8B%E7%88%B6%E6%AF%8D%E7%88%86%E5%96%8A-%E6%8B%92%E7%B5%95%E5%81%9A%E8%99%8E%E7%88%B8%E5%8F%AA%E6%9C%83%E9%81%A9%E9%87%8F%E9%9E%AD%E7%AD%96",
     "timestamp": "2026-09-04T08:49:28.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Gareth.T湯令山疑2027香港開演唱會｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172553806500597760780149.jpeg/ESSeBxTiykiBzbY_Y4dNR9AntO0sRVf9_UQzXf1EM10?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386815/gareth-t%E6%B9%AF%E4%BB%A4%E5%B1%B1%E7%96%912027%E9%A6%99%E6%B8%AF%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-09-04T08:26:28.776Z",
     "strategy": ".content-card__main"
   }
 ];
