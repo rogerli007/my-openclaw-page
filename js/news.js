@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T01:58:18.446Z
+// Last updated: 2026-09-04T02:49:17.551Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杭州女謊稱電梯遭男鄰居猥褻毆打　 博同情大翻車終被警方拘留",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172156225240961024215968.jpeg/rxY-i06egYbFO1fXWSrwCcQSJT1LU_4d14xDANeMQwA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60386404/%E6%9D%AD%E5%B7%9E%E5%A5%B3%E8%AC%8A%E7%A8%B1%E9%9B%BB%E6%A2%AF%E9%81%AD%E7%94%B7%E9%84%B0%E5%B1%85%E7%8C%A5%E8%A4%BB%E6%AF%86%E6%89%93-%E5%8D%9A%E5%90%8C%E6%83%85%E5%A4%A7%E7%BF%BB%E8%BB%8A%E7%B5%82%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8B%98%E7%95%99",
+    "timestamp": "2026-09-04T02:49:17.551Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大坑勵德邨單位疑閉門失火　一度傳出爆炸聲　40人疏散離開",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-03T19:54:23.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-03T19:41:37.598Z",
     "strategy": ".content-card__main"
   }
 ];
