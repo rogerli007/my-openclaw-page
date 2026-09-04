@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T21:54:25.693Z
+// Last updated: 2026-09-04T22:18:33.785Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜日間部分時間有陽光　市區氣溫最高31度　局部地區有驟雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172784869168648192794526.jpeg/fKPMgbU7ULYcvKM0cjz9oYifJ2IpNajPQBuoQXobqEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387027/%E5%A4%A9%E6%B0%A3-%E6%97%A5%E9%96%93%E9%83%A8%E5%88%86%E6%99%82%E9%96%93%E6%9C%89%E9%99%BD%E5%85%89-%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E6%9C%80%E9%AB%9831%E5%BA%A6-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8",
+    "timestamp": "2026-09-04T22:18:33.785Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普擬擲5億美元助中期選舉　稱這是「我控制的錢」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172586820706242560741620.jpeg/MtNG4KsYiGomnPxQCzeW2TfOfMmUwJi0ffvGk337xpM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386894/%E9%83%AD%E7%8F%AE%E6%96%87%E7%88%86%E9%BB%83%E5%AE%97%E6%BE%A4-%E8%AD%98%E9%A3%9F-%E8%AB%96-%E4%BA%8B%E5%BE%8C%E9%9B%B6%E8%81%AF%E7%B5%A1-%E4%BB%A5%E7%82%BA%E5%86%87%E5%92%81%E5%A4%A7%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-09-04T15:51:49.305Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭珮文爆黃宗澤「識食」論    事後零聯絡：以為冇咁大影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172586820706242560741620.jpeg/MtNG4KsYiGomnPxQCzeW2TfOfMmUwJi0ffvGk337xpM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386894/%E9%83%AD%E7%8F%AE%E6%96%87%E7%88%86%E9%BB%83%E5%AE%97%E6%BE%A4-%E8%AD%98%E9%A3%9F-%E8%AB%96-%E4%BA%8B%E5%BE%8C%E9%9B%B6%E8%81%AF%E7%B5%A1-%E4%BB%A5%E7%82%BA%E5%86%87%E5%92%81%E5%A4%A7%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-09-04T15:41:51.731Z",
     "strategy": ".content-card__main"
   }
 ];
