@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T16:40:02.880Z
+// Last updated: 2026-09-04T17:20:12.882Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社：實屬罕見　習近平將帶龐大商務代表團訪美",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240327/849616184440524800362057.jpeg/iARPBLJfHbnU_JMbP4f-LRJfU5L3IKSS4eBs-uHgbPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387015/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%AF%A6%E5%B1%AC%E7%BD%95%E8%A6%8B-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%B8%B6%E9%BE%90%E5%A4%A7%E5%95%86%E5%8B%99%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E7%BE%8E",
+    "timestamp": "2026-09-04T17:20:12.882Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄烏證實美國特使週末到訪　要求停止襲擊活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172599944805093376912680.jpeg/RHv4ExPgkUZc1RVhLoYBVok05fypKsna6j-1meo_tZk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60386807/%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E6%83%A0%E5%BA%B7-%E7%99%BE%E4%BD%B3-%E4%BD%B3%E5%AE%9D-aeon-4%E6%8A%98%E8%B5%B7-%E7%99%BE%E4%BD%B3%E6%BB%BF-150%E6%B8%9B-18-1%E9%9A%BB%E8%9B%8B",
     "timestamp": "2026-09-04T10:22:28.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧炳強率團赴延安研修　下周一攜六紀律部長首長考察上海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170442256981692416207194.jpeg/R48P-6nRM4tZ_vo__xYOaxZtnYiXg3Y7s_IkZrPyJGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60386934/%E9%84%A7%E7%82%B3%E5%BC%B7%E7%8E%87%E5%9C%98%E8%B5%B4%E5%BB%B6%E5%AE%89%E7%A0%94%E4%BF%AE-%E4%B8%8B%E5%91%A8%E4%B8%80%E6%94%9C%E5%85%AD%E7%B4%80%E5%BE%8B%E9%83%A8%E9%95%B7%E9%A6%96%E9%95%B7%E8%80%83%E5%AF%9F%E4%B8%8A%E6%B5%B7",
-    "timestamp": "2026-09-04T09:55:27.592Z",
     "strategy": ".content-card__main"
   }
 ];
