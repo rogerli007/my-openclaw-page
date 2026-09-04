@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T09:55:27.592Z
+// Last updated: 2026-09-04T10:22:28.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超市優惠｜惠康/百佳/佳宝/AEON 4折起！百佳滿$150減$18＋$1隻蛋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172599944805093376912680.jpeg/RHv4ExPgkUZc1RVhLoYBVok05fypKsna6j-1meo_tZk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60386807/%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E6%83%A0%E5%BA%B7-%E7%99%BE%E4%BD%B3-%E4%BD%B3%E5%AE%9D-aeon-4%E6%8A%98%E8%B5%B7-%E7%99%BE%E4%BD%B3%E6%BB%BF-150%E6%B8%9B-18-1%E9%9A%BB%E8%9B%8B",
+    "timestamp": "2026-09-04T10:22:28.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧炳強率團赴延安研修　下周一攜六紀律部長首長考察上海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132472465189113856301627.jpeg/w_4ZaigA0vof2Qwt3XYNNnHTqqRnlZrJ0lQbQdJUG0E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386680/%E7%BF%92%E8%BF%91%E5%B9%B39%E6%9C%88%E5%BA%95%E8%A8%AA%E7%BE%8E-%E7%BE%8E%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8-%E7%BE%8E%E4%B8%AD%E5%B1%86%E6%99%82%E6%88%96%E5%85%AC%E5%B8%83%E8%BE%B2%E6%A5%AD%E8%B2%BF%E6%98%93%E7%9B%B8%E9%97%9C%E5%AE%89%E6%8E%92",
     "timestamp": "2026-09-04T01:12:57.105Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OpenAI發布GPT-6 Astra模型　稱其或接近實現AGI",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156616099370897408064172.jpeg/q7l5j7atPI2gzC4T_-XtGQ0R69xpPDFpQg_8QUIP_EE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386678/openai%E7%99%BC%E5%B8%83gpt-6-astra%E6%A8%A1%E5%9E%8B-%E7%A8%B1%E5%85%B6%E6%88%96%E6%8E%A5%E8%BF%91%E5%AF%A6%E7%8F%BEagi",
-    "timestamp": "2026-09-04T00:43:35.034Z",
     "strategy": ".content-card__main"
   }
 ];
