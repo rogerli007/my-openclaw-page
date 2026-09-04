@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T03:54:28.923Z
+// Last updated: 2026-09-04T04:56:31.713Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警東九龍打擊「白牌車」　兩司機當場被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172525728558747648748219.jpeg/-XMTz_fPXPqPKxVaSDwGAYoFp60nvBV_SI_nFUiP5xU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386773/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E6%89%93%E6%93%8A-%E7%99%BD%E7%89%8C%E8%BB%8A-%E5%85%A9%E5%8F%B8%E6%A9%9F%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-04T04:56:31.713Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣IVE火警．有片｜香港專業教育學院分校失火　逾400人急疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172407444588990464187625.jpeg/P6JVRM3ASlRpAGFN6DlTANPS5kvRWFGrCRVsYTMVbGE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386661/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%85%AC%E8%B7%AF%E6%AF%94%E4%BA%9E%E8%BF%AA%E6%92%9E%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%BB%91%E5%89%8D20%E7%B1%B3%E5%9A%B4%E9%87%8D%E6%93%A6%E5%82%B7-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7",
     "timestamp": "2026-09-03T21:17:17.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾泥石流逾1290死　水電站隧道倖存工人憶逃命過程：到處屍體",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172397465899372544928063.jpeg/ihPdw6qZ9vIQUoNrrCHAFqWaPrpLLJGVWeTuZ1nk7mc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386663/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%81%E9%80%BE1290%E6%AD%BB-%E6%B0%B4%E9%9B%BB%E7%AB%99%E9%9A%A7%E9%81%93%E5%80%96%E5%AD%98%E5%B7%A5%E4%BA%BA%E6%86%B6%E9%80%83%E5%91%BD%E9%81%8E%E7%A8%8B-%E5%88%B0%E8%99%95%E5%B1%8D%E9%AB%94",
-    "timestamp": "2026-09-03T20:50:50.044Z",
     "strategy": ".content-card__main"
   }
 ];
