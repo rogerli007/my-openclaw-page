@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T01:36:41.021Z
+// Last updated: 2026-09-04T01:58:18.446Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大坑勵德邨單位疑閉門失火　一度傳出爆炸聲　40人疏散離開",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172479646634086400103259.jpeg/uFo-HEFdf1ltA-aCCUlJAjD8S-N2NZrGrfHaCq3x2go?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386682/%E5%A4%A7%E5%9D%91%E5%8B%B5%E5%BE%B7%E9%82%A8%E5%96%AE%E4%BD%8D%E7%96%91%E9%96%89%E9%96%80%E5%A4%B1%E7%81%AB-%E4%B8%80%E5%BA%A6%E5%82%B3%E5%87%BA%E7%88%86%E7%82%B8%E8%81%B2-40%E4%BA%BA%E7%96%8F%E6%95%A3%E9%9B%A2%E9%96%8B",
+    "timestamp": "2026-09-04T01:58:18.446Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美專家赴大灣區對比中美AI　直指矽谷泡沫嚴重　深圳勝在硬件實體",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-03T19:41:37.598Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-03T19:26:21.625Z",
     "strategy": ".content-card__main"
   }
 ];
