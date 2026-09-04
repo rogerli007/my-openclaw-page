@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T19:53:31.433Z
+// Last updated: 2026-09-04T20:32:29.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
+    "timestamp": "2026-09-04T20:32:29.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜長沙灣過渡房屋女子燒炭　昏迷送院搶救回天乏術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172597386652946432302891.jpeg/7N86xg_LeRXn34bJM76r55M4HJSO7kIx4lKpNuJSqTY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60386892/apec-%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%89%93%E5%8D%A1%E5%BB%A3%E5%B7%9E%E9%BB%91%E7%A7%91%E6%8A%80-%E8%A9%A6%E7%8E%A9%E5%B0%8F%E9%B5%AC%E9%A3%9B%E8%A1%8C%E6%B1%BD%E8%BB%8A-ai%E6%8A%80%E8%A1%93%E9%A9%9A%E8%89%B7%E5%A4%96%E8%B3%93",
     "timestamp": "2026-09-04T13:53:55.721Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：特朗普女婿庫什納與特使週末出訪俄烏　冀重啟和談努力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113448319708827648702138.jpeg/Au_jRUSSJXpcFcq0O-NBTrGdiNNEfwrbswAcELMAHBA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386995/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%BA%AB%E4%BB%80%E7%B4%8D%E8%88%87%E7%89%B9%E4%BD%BF%E9%80%B1%E6%9C%AB%E5%87%BA%E8%A8%AA%E4%BF%84%E7%83%8F-%E5%86%80%E9%87%8D%E5%95%9F%E5%92%8C%E8%AB%87%E5%8A%AA%E5%8A%9B",
-    "timestamp": "2026-09-04T13:40:38.310Z",
     "strategy": ".content-card__main"
   }
 ];
