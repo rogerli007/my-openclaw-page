@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T15:51:49.305Z
+// Last updated: 2026-09-04T16:22:51.400Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "克宮：美國特使威特科夫訪俄羅斯時　會要求烏克蘭停止襲擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230407/721075588684582912806459.jpeg/F85evE4hjvIL24HmZ-4j34UvT2aYE8vwalfie2pX4ns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387012/%E5%85%8B%E5%AE%AE-%E7%BE%8E%E5%9C%8B%E7%89%B9%E4%BD%BF%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E8%A8%AA%E4%BF%84%E7%BE%85%E6%96%AF%E6%99%82-%E6%9C%83%E8%A6%81%E6%B1%82%E7%83%8F%E5%85%8B%E8%98%AD%E5%81%9C%E6%AD%A2%E8%A5%B2%E6%93%8A",
+    "timestamp": "2026-09-04T16:22:51.400Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭珮文爆黃宗澤「識食」論    事後零聯絡：以為冇咁大影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221015/657902481921019904956840.jpeg/OSgD2hLBuHJf8FdcMQE-nDDOUz4xwwzELDo75BY6O-Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386925/%E7%99%BE%E4%BD%B3%E5%89%8D%E5%93%A1%E5%B7%A5%E4%BB%A5-%E9%AC%BC%E5%B7%A5-%E9%A8%99%E8%96%AA328%E8%90%AC-%E7%B6%93%E7%90%86%E8%A2%AB%E6%B4%BE%E8%AA%BF%E6%9F%A5%E5%8F%8D%E8%A2%AB%E6%94%B6%E8%B3%A3-5%E4%BA%BA%E8%AA%8D%E7%BD%AA",
     "timestamp": "2026-09-04T09:46:16.645Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "渣打馬拉松2027報名日期+路線　半馬名額增4000　增設啟德海濱跑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172595591285313536510387.jpeg/B5Cl1Kut2NzrZagD9LWWAbMtbNnCcnyFmXJ18ZlydfE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60386908/%E6%B8%A3%E6%89%93%E9%A6%AC%E6%8B%89%E6%9D%BE2027%E5%A0%B1%E5%90%8D%E6%97%A5%E6%9C%9F-%E8%B7%AF%E7%B7%9A-%E5%8D%8A%E9%A6%AC%E5%90%8D%E9%A1%8D%E5%A2%9E4000-%E5%A2%9E%E8%A8%AD%E5%95%9F%E5%BE%B7%E6%B5%B7%E6%BF%B1%E8%B7%91",
-    "timestamp": "2026-09-04T09:24:52.226Z",
     "strategy": ".content-card__main"
   }
 ];
