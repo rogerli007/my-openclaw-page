@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T10:22:28.089Z
+// Last updated: 2026-09-04T10:41:07.654Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高浩文獲委任為高等法院上訴庭法官　下周一生效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260504/1127932867444609024298430.jpeg/BlpE82zrTNy3lT1Z0kYxumKvi_XjehYI-Zlue_mZbns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60386939/%E9%AB%98%E6%B5%A9%E6%96%87%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%82%BA%E9%AB%98%E7%AD%89%E6%B3%95%E9%99%A2%E4%B8%8A%E8%A8%B4%E5%BA%AD%E6%B3%95%E5%AE%98-%E4%B8%8B%E5%91%A8%E4%B8%80%E7%94%9F%E6%95%88",
+    "timestamp": "2026-09-04T10:41:07.654Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超市優惠｜惠康/百佳/佳宝/AEON 4折起！百佳滿$150減$18＋$1隻蛋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172205615066386432320894.jpeg/YoypmUyZWO5arMsxzuVYrl7jShe19N3RHEOhFRxDoRU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386491/%E7%BE%8E%E5%B0%88%E5%AE%B6%E8%B5%B4%E5%A4%A7%E7%81%A3%E5%8D%80%E5%B0%8D%E6%AF%94%E4%B8%AD%E7%BE%8Eai-%E7%9B%B4%E6%8C%87%E7%9F%BD%E8%B0%B7%E6%B3%A1%E6%B2%AB%E5%9A%B4%E9%87%8D-%E6%B7%B1%E5%9C%B3%E5%8B%9D%E5%9C%A8%E7%A1%AC%E4%BB%B6%E5%AF%A6%E9%AB%94",
     "timestamp": "2026-09-04T01:36:41.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平9月底訪美　美貿易代表：美中屆時或公布農業貿易相關安排",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132472465189113856301627.jpeg/w_4ZaigA0vof2Qwt3XYNNnHTqqRnlZrJ0lQbQdJUG0E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386680/%E7%BF%92%E8%BF%91%E5%B9%B39%E6%9C%88%E5%BA%95%E8%A8%AA%E7%BE%8E-%E7%BE%8E%E8%B2%BF%E6%98%93%E4%BB%A3%E8%A1%A8-%E7%BE%8E%E4%B8%AD%E5%B1%86%E6%99%82%E6%88%96%E5%85%AC%E5%B8%83%E8%BE%B2%E6%A5%AD%E8%B2%BF%E6%98%93%E7%9B%B8%E9%97%9C%E5%AE%89%E6%8E%92",
-    "timestamp": "2026-09-04T01:12:57.105Z",
     "strategy": ".content-card__main"
   }
 ];
