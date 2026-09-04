@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T17:51:36.923Z
+// Last updated: 2026-09-04T18:22:16.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜土瓜灣男子墮橋跌落行人路　送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172724701106016256049176.jpeg/6wPG0z-0ImYyxOwXqvzVehXDJgJxm8pQnhwzgKQcM4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387017/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%9C%9F%E7%93%9C%E7%81%A3%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A9%8B%E8%B7%8C%E8%90%BD%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-04T18:22:16.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銀行發現400宗非接觸式流動支付服務騙案　金管局接獲報告籲提防",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240215/834919117159927808507481.jpeg/1gIkzSLAm4Fqwim4dFH2KDrfXE-X0JRxvsJTXr7CU14?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386970/%E6%B5%81%E6%84%9F-14%E6%AD%B2%E9%95%B7%E6%9C%9F%E7%97%85%E6%82%A3%E5%A5%B3%E7%AB%A5%E6%9F%93%E7%94%B2%E6%B5%81%E4%BD%B5%E7%99%BC%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B-%E6%83%85%E6%B3%81%E5%9A%B4%E9%87%8D%E7%95%99%E9%86%ABpicu",
     "timestamp": "2026-09-04T11:33:01.877Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風？天文台料南海中部下周後期或有低壓區發展　9.10轉吹東北風",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158027172267823104271960.jpeg/5eEgfpaRBhFK1utsHDpKT7rwuV6qlIIdGcVtFAPFbRQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60386893/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%8D%97%E6%B5%B7%E4%B8%AD%E9%83%A8%E4%B8%8B%E5%91%A8%E5%BE%8C%E6%9C%9F%E6%88%96%E6%9C%89%E4%BD%8E%E5%A3%93%E5%8D%80%E7%99%BC%E5%B1%95-9-10%E8%BD%89%E5%90%B9%E6%9D%B1%E5%8C%97%E9%A2%A8",
-    "timestamp": "2026-09-04T11:18:18.209Z",
     "strategy": ".content-card__main"
   }
 ];
