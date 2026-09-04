@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T04:56:31.713Z
+// Last updated: 2026-09-04T05:19:44.007Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "城大Ocamp玩除衫｜紀律調查完成　涉事學生認錯致歉　接受處分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172530288912240640819563.jpeg/eDce169I-qlbzrZ6EgwRuwarCcLPxV68h8iiXIfIolw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386780/%E5%9F%8E%E5%A4%A7ocamp%E7%8E%A9%E9%99%A4%E8%A1%AB-%E7%B4%80%E5%BE%8B%E8%AA%BF%E6%9F%A5%E5%AE%8C%E6%88%90-%E6%B6%89%E4%BA%8B%E5%AD%B8%E7%94%9F%E8%AA%8D%E9%8C%AF%E8%87%B4%E6%AD%89-%E6%8E%A5%E5%8F%97%E8%99%95%E5%88%86",
+    "timestamp": "2026-09-04T05:19:44.007Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警東九龍打擊「白牌車」　兩司機當場被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172407444588990464187625.jpeg/P6JVRM3ASlRpAGFN6DlTANPS5kvRWFGrCRVsYTMVbGE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386661/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%85%AC%E8%B7%AF%E6%AF%94%E4%BA%9E%E8%BF%AA%E6%92%9E%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%BB%91%E5%89%8D20%E7%B1%B3%E5%9A%B4%E9%87%8D%E6%93%A6%E5%82%B7-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7",
     "timestamp": "2026-09-03T21:30:00.592Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西九龍公路比亞迪撞電單車　鐵騎士滑前20米嚴重擦傷　一度昏迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172407444588990464187625.jpeg/P6JVRM3ASlRpAGFN6DlTANPS5kvRWFGrCRVsYTMVbGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386661/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%85%AC%E8%B7%AF%E6%AF%94%E4%BA%9E%E8%BF%AA%E6%92%9E%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%BB%91%E5%89%8D20%E7%B1%B3%E5%9A%B4%E9%87%8D%E6%93%A6%E5%82%B7-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7",
-    "timestamp": "2026-09-03T21:17:17.276Z",
     "strategy": ".content-card__main"
   }
 ];
