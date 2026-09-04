@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T09:46:16.645Z
+// Last updated: 2026-09-04T09:55:27.592Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧炳強率團赴延安研修　下周一攜六紀律部長首長考察上海",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170442256981692416207194.jpeg/R48P-6nRM4tZ_vo__xYOaxZtnYiXg3Y7s_IkZrPyJGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60386934/%E9%84%A7%E7%82%B3%E5%BC%B7%E7%8E%87%E5%9C%98%E8%B5%B4%E5%BB%B6%E5%AE%89%E7%A0%94%E4%BF%AE-%E4%B8%8B%E5%91%A8%E4%B8%80%E6%94%9C%E5%85%AD%E7%B4%80%E5%BE%8B%E9%83%A8%E9%95%B7%E9%A6%96%E9%95%B7%E8%80%83%E5%AF%9F%E4%B8%8A%E6%B5%B7",
+    "timestamp": "2026-09-04T09:55:27.592Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百佳前員工以「鬼工」騙薪328萬　經理被派調查反被收賣　5人認罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156616099370897408064172.jpeg/q7l5j7atPI2gzC4T_-XtGQ0R69xpPDFpQg_8QUIP_EE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386678/openai%E7%99%BC%E5%B8%83gpt-6-astra%E6%A8%A1%E5%9E%8B-%E7%A8%B1%E5%85%B6%E6%88%96%E6%8E%A5%E8%BF%91%E5%AF%A6%E7%8F%BEagi",
     "timestamp": "2026-09-04T00:43:35.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "IVE 張員瑛修長美腿秘訣　器械皮拉提斯對塑造體態的3大好處",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172160937969324032054812.png/WisAquoJjCrmO1TEXxFSFTt2j4OirMlu6SBe0ukgXtI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60385784/ive-%E5%BC%B5%E5%93%A1%E7%91%9B%E4%BF%AE%E9%95%B7%E7%BE%8E%E8%85%BF%E7%A7%98%E8%A8%A3-%E5%99%A8%E6%A2%B0%E7%9A%AE%E6%8B%89%E6%8F%90%E6%96%AF%E5%B0%8D%E5%A1%91%E9%80%A0%E9%AB%94%E6%85%8B%E7%9A%843%E5%A4%A7%E5%A5%BD%E8%99%95",
-    "timestamp": "2026-09-03T23:53:44.430Z",
     "strategy": ".content-card__main"
   }
 ];
