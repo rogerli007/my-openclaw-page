@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T08:26:28.776Z
+// Last updated: 2026-09-04T08:49:28.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林奕匡兒子第二日返幼稚園唔見父母爆喊　拒絕做虎爸只會適量鞭策",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172347614067167232054163.png/pUF8RF1A0_LwYcuDdEci3QhUNTCzxkfGrVVC3q1VQt4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60386646/%E6%9E%97%E5%A5%95%E5%8C%A1%E5%85%92%E5%AD%90%E7%AC%AC%E4%BA%8C%E6%97%A5%E8%BF%94%E5%B9%BC%E7%A8%9A%E5%9C%92%E5%94%94%E8%A6%8B%E7%88%B6%E6%AF%8D%E7%88%86%E5%96%8A-%E6%8B%92%E7%B5%95%E5%81%9A%E8%99%8E%E7%88%B8%E5%8F%AA%E6%9C%83%E9%81%A9%E9%87%8F%E9%9E%AD%E7%AD%96",
+    "timestamp": "2026-09-04T08:49:28.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Gareth.T湯令山疑2027香港開演唱會｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172280716768055296402971.jpeg/fWi-ea2Bk4Y-breAmUWokb2gwfbG2NKsZcK1cWXCtXE",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60386414/%E6%9C%89%E7%89%87-%E5%A5%B3%E7%94%9F%E5%9D%90%E9%97%9C%E6%84%9B%E5%BA%A7-%E8%A2%AB%E8%80%81%E5%A9%A6%E7%8C%9B%E6%92%9E%E7%BD%B5-%E7%88%B8%E5%AA%BD%E6%AD%BB%E4%BA%86%E6%B2%92%E4%BA%BA%E6%95%99-%E7%88%B6%E6%80%92%E6%8F%90%E5%91%8A",
     "timestamp": "2026-09-03T23:20:12.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "55歲TVB「吸金王」兩奪視帝狂受捧　街邊坐凳仔化妝自己拎遮拍攝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172281552969666560072836.jpeg/uAaWLq05qXgAVB_oiydCWamQrxaeiZnk2-fPqtvnz6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386543/55%E6%AD%B2-%E5%90%B8%E9%87%91%E7%8E%8B-%E9%99%B3%E8%B1%AA%E5%85%A9%E5%A5%AA%E8%A6%96%E5%B8%9D%E7%8B%82%E5%8F%97%E6%8D%A7-%E8%A1%97%E9%82%8A%E5%9D%90%E5%87%B3%E4%BB%94%E5%8C%96%E5%A6%9D%E8%87%AA%E5%B7%B1%E6%8B%8E%E9%81%AE%E6%8B%8D%E6%94%9D",
-    "timestamp": "2026-09-03T22:55:56.505Z",
     "strategy": ".content-card__main"
   }
 ];
