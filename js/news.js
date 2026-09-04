@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T08:49:28.465Z
+// Last updated: 2026-09-04T08:58:12.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風科羅旺襲日本　宮崎縣落暴雨逾300毫米　四國九州明續降大雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172586037927481344380542.png/upk6Q9jyY8PMEVIcEktQ15oVtNBFo9vxCi_j5Aov4-Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386872/%E9%A2%B1%E9%A2%A8%E7%A7%91%E7%BE%85%E6%97%BA%E8%A5%B2%E6%97%A5%E6%9C%AC-%E5%AE%AE%E5%B4%8E%E7%B8%A3%E8%90%BD%E6%9A%B4%E9%9B%A8%E9%80%BE300%E6%AF%AB%E7%B1%B3-%E5%9B%9B%E5%9C%8B%E4%B9%9D%E5%B7%9E%E6%98%8E%E7%BA%8C%E9%99%8D%E5%A4%A7%E9%9B%A8",
+    "timestamp": "2026-09-04T08:58:12.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林奕匡兒子第二日返幼稚園唔見父母爆喊　拒絕做虎爸只會適量鞭策",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172280716768055296402971.jpeg/fWi-ea2Bk4Y-breAmUWokb2gwfbG2NKsZcK1cWXCtXE",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60386414/%E6%9C%89%E7%89%87-%E5%A5%B3%E7%94%9F%E5%9D%90%E9%97%9C%E6%84%9B%E5%BA%A7-%E8%A2%AB%E8%80%81%E5%A9%A6%E7%8C%9B%E6%92%9E%E7%BD%B5-%E7%88%B8%E5%AA%BD%E6%AD%BB%E4%BA%86%E6%B2%92%E4%BA%BA%E6%95%99-%E7%88%B6%E6%80%92%E6%8F%90%E5%91%8A",
     "timestamp": "2026-09-03T23:28:03.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│女生坐關愛座被老婦猛撞罵「爸媽死了沒人教」　神應對獲讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172280716768055296402971.jpeg/fWi-ea2Bk4Y-breAmUWokb2gwfbG2NKsZcK1cWXCtXE",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60386414/%E6%9C%89%E7%89%87-%E5%A5%B3%E7%94%9F%E5%9D%90%E9%97%9C%E6%84%9B%E5%BA%A7-%E8%A2%AB%E8%80%81%E5%A9%A6%E7%8C%9B%E6%92%9E%E7%BD%B5-%E7%88%B8%E5%AA%BD%E6%AD%BB%E4%BA%86%E6%B2%92%E4%BA%BA%E6%95%99-%E7%88%B6%E6%80%92%E6%8F%90%E5%91%8A",
-    "timestamp": "2026-09-03T23:20:12.222Z",
     "strategy": ".content-card__main"
   }
 ];
