@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T21:17:28.595Z
+// Last updated: 2026-09-04T21:54:25.693Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普擬擲5億美元助中期選舉　稱這是「我控制的錢」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172273323619389440641582.jpeg/rC7iKzQjj75OzU8fe2MavM_ltwi-oAAGCt5GgQreRoE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387028/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E6%93%B25%E5%84%84%E7%BE%8E%E5%85%83%E5%8A%A9%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%A8%B1%E9%80%99%E6%98%AF-%E6%88%91%E6%8E%A7%E5%88%B6%E7%9A%84%E9%8C%A2",
+    "timestamp": "2026-09-04T21:54:25.693Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172586820706242560741620.jpeg/MtNG4KsYiGomnPxQCzeW2TfOfMmUwJi0ffvGk337xpM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386894/%E9%83%AD%E7%8F%AE%E6%96%87%E7%88%86%E9%BB%83%E5%AE%97%E6%BE%A4-%E8%AD%98%E9%A3%9F-%E8%AB%96-%E4%BA%8B%E5%BE%8C%E9%9B%B6%E8%81%AF%E7%B5%A1-%E4%BB%A5%E7%82%BA%E5%86%87%E5%92%81%E5%A4%A7%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-09-04T15:41:51.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026加州Medi-Cal新制懶人包：新增80工時門檻、長者資產大幅收緊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172220562622124032564930.png/RpYdGJqs0-v5sSLAxcjOLUjmReBnYrvqDmeT7Q5nk-0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377332/2026%E5%8A%A0%E5%B7%9Emedi-cal%E6%96%B0%E5%88%B6%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%96%B0%E5%A2%9E80%E5%B7%A5%E6%99%82%E9%96%80%E6%AA%BB-%E9%95%B7%E8%80%85%E8%B3%87%E7%94%A2%E5%A4%A7%E5%B9%85%E6%94%B6%E7%B7%8A",
-    "timestamp": "2026-09-04T15:20:26.587Z",
     "strategy": ".content-card__main"
   }
 ];
