@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T20:32:29.090Z
+// Last updated: 2026-09-04T20:43:18.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
+    "timestamp": "2026-09-04T20:43:18.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260605/1139639391170334720498076.jpeg/Vivaqo51F5HBAgw9gtd02P3vcnFrVbh8BE_h4gRP4eI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386862/%E5%95%9F%E7%9B%88%E8%8B%91-%E6%9C%89%E6%A5%AD%E4%B8%BB%E6%8A%95%E8%A8%B430%E6%88%B6%E7%A7%81%E4%B8%8B%E6%8B%86%E7%89%86-%E6%88%BF%E5%B1%8B%E5%B1%80-%E5%A6%82%E8%AD%89%E5%AF%A6%E9%81%95%E8%A6%8F%E6%9C%83%E4%B8%8B%E4%BB%A4%E9%82%84%E5%8E%9F",
     "timestamp": "2026-09-04T14:20:06.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC｜代表團打卡廣州黑科技！試玩小鵬飛行汽車、AI技術驚艷外賓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172597386652946432302891.jpeg/7N86xg_LeRXn34bJM76r55M4HJSO7kIx4lKpNuJSqTY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60386892/apec-%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%89%93%E5%8D%A1%E5%BB%A3%E5%B7%9E%E9%BB%91%E7%A7%91%E6%8A%80-%E8%A9%A6%E7%8E%A9%E5%B0%8F%E9%B5%AC%E9%A3%9B%E8%A1%8C%E6%B1%BD%E8%BB%8A-ai%E6%8A%80%E8%A1%93%E9%A9%9A%E8%89%B7%E5%A4%96%E8%B3%93",
-    "timestamp": "2026-09-04T13:53:55.721Z",
     "strategy": ".content-card__main"
   }
 ];
