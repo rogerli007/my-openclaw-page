@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T12:52:09.783Z
+// Last updated: 2026-09-04T13:20:02.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "52歲郭羨妮街頭被野生捕獲　零濾鏡真實顏值惹熱議：沒醫美仍漂亮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172639760183726080698143.jpeg/cXcppxSpqKwb-CZ6tm1_JgDY0-pgo-L-e8BXfHvAV3w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386985/52%E6%AD%B2%E9%83%AD%E7%BE%A8%E5%A6%AE%E8%A1%97%E9%A0%AD%E8%A2%AB%E9%87%8E%E7%94%9F%E6%8D%95%E7%8D%B2-%E9%9B%B6%E6%BF%BE%E9%8F%A1%E7%9C%9F%E5%AF%A6%E9%A1%8F%E5%80%BC%E6%83%B9%E7%86%B1%E8%AD%B0-%E6%B2%92%E9%86%AB%E7%BE%8E%E4%BB%8D%E6%BC%82%E4%BA%AE",
+    "timestamp": "2026-09-04T13:20:02.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗醫院壞𨋢｜發展局高度關注　全面檢視建築署機電署的驗收監管",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172541802209611776376954.jpeg/fE-fPFHwNDNgzjSRle8BfWTwg9NM-flMYhGObWIRjm0",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60386783/ps5-state-of-play-9%E6%9C%88%E6%87%B6%E4%BA%BA%E5%8C%85-gta-vi%E6%89%8B%E6%8E%A3-ff7%E5%AE%8C%E7%B5%90%E7%AF%87%E7%99%BC%E5%94%AE%E6%97%A5%E5%85%AC%E9%96%8B",
     "timestamp": "2026-09-04T05:54:00.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "城大Ocamp玩除衫｜紀律調查完成　涉事學生認錯致歉　接受處分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172530288912240640819563.jpeg/eDce169I-qlbzrZ6EgwRuwarCcLPxV68h8iiXIfIolw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386780/%E5%9F%8E%E5%A4%A7ocamp%E7%8E%A9%E9%99%A4%E8%A1%AB-%E7%B4%80%E5%BE%8B%E8%AA%BF%E6%9F%A5%E5%AE%8C%E6%88%90-%E6%B6%89%E4%BA%8B%E5%AD%B8%E7%94%9F%E8%AA%8D%E9%8C%AF%E8%87%B4%E6%AD%89-%E6%8E%A5%E5%8F%97%E8%99%95%E5%88%86",
-    "timestamp": "2026-09-04T05:19:44.007Z",
     "strategy": ".content-card__main"
   }
 ];
