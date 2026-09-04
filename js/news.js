@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T22:51:25.122Z
+// Last updated: 2026-09-04T23:17:43.997Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "暴跌逾17%！Lululemon營收淨利雙降　全年預期大幅下調｜美股",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121106236872331264456207.jpeg/OoQwnTXg-3WwVbCgU0_qPQ7e_X_8v285WHPZmlhz2Zo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386790/%E6%9A%B4%E8%B7%8C%E9%80%BE17-lululemon%E7%87%9F%E6%94%B6%E6%B7%A8%E5%88%A9%E9%9B%99%E9%99%8D-%E5%85%A8%E5%B9%B4%E9%A0%90%E6%9C%9F%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%AA%BF-%E7%BE%8E%E8%82%A1",
+    "timestamp": "2026-09-04T23:17:43.997Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英視障男偷女友車醉駕上高速　盲駛240公里無碰撞　靠前車燈導航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240327/849616184440524800362057.jpeg/iARPBLJfHbnU_JMbP4f-LRJfU5L3IKSS4eBs-uHgbPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387015/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%AF%A6%E5%B1%AC%E7%BD%95%E8%A6%8B-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%B8%B6%E9%BE%90%E5%A4%A7%E5%95%86%E5%8B%99%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E7%BE%8E",
     "timestamp": "2026-09-04T17:20:12.882Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄烏證實美國特使週末到訪　要求停止襲擊活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230407/721075588684582912806459.jpeg/F85evE4hjvIL24HmZ-4j34UvT2aYE8vwalfie2pX4ns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387012/%E4%BF%84%E7%83%8F%E8%AD%89%E5%AF%A6%E7%BE%8E%E5%9C%8B%E7%89%B9%E4%BD%BF%E9%80%B1%E6%9C%AB%E5%88%B0%E8%A8%AA-%E8%A6%81%E6%B1%82%E5%81%9C%E6%AD%A2%E8%A5%B2%E6%93%8A%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-09-04T16:40:02.880Z",
     "strategy": ".content-card__main"
   }
 ];
