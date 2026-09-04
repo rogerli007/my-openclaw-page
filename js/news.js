@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T23:37:36.511Z
+// Last updated: 2026-09-04T23:53:37.231Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "證監據報上月搜查華泰金控辦公室　CEO也被問詢　涉個別客戶操作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058442269666840576071384.jpeg/O90aabkL9NaGQfAcapMK-Q9eMgSVZpB1pahAQqWoQEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387034/%E8%AD%89%E7%9B%A3%E6%93%9A%E5%A0%B1%E4%B8%8A%E6%9C%88%E6%90%9C%E6%9F%A5%E8%8F%AF%E6%B3%B0%E9%87%91%E6%8E%A7%E8%BE%A6%E5%85%AC%E5%AE%A4-ceo%E4%B9%9F%E8%A2%AB%E5%95%8F%E8%A9%A2-%E6%B6%89%E5%80%8B%E5%88%A5%E5%AE%A2%E6%88%B6%E6%93%8D%E4%BD%9C",
+    "timestamp": "2026-09-04T23:53:37.231Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普再「出口術」　稱增長不會導致通脹　美應維持全球最低利率",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172715012708372480045713.jpeg/jzh1sPkdO3rwwP0kgc3f4BVw64oSkpvo85DEFvOQxBY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387014/%E9%8A%80%E8%A1%8C%E7%99%BC%E7%8F%BE400%E5%AE%97%E9%9D%9E%E6%8E%A5%E8%A7%B8%E5%BC%8F%E6%B5%81%E5%8B%95%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8B%99%E9%A8%99%E6%A1%88-%E9%87%91%E7%AE%A1%E5%B1%80%E6%8E%A5%E7%8D%B2%E5%A0%B1%E5%91%8A%E7%B1%B2%E6%8F%90%E9%98%B2",
     "timestamp": "2026-09-04T17:51:36.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "銀行發現400宗非接觸式流動支付服務騙案　金管局接獲報告籲提防",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172715012708372480045713.jpeg/jzh1sPkdO3rwwP0kgc3f4BVw64oSkpvo85DEFvOQxBY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387014/%E9%8A%80%E8%A1%8C%E7%99%BC%E7%8F%BE400%E5%AE%97%E9%9D%9E%E6%8E%A5%E8%A7%B8%E5%BC%8F%E6%B5%81%E5%8B%95%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8B%99%E9%A8%99%E6%A1%88-%E9%87%91%E7%AE%A1%E5%B1%80%E6%8E%A5%E7%8D%B2%E5%A0%B1%E5%91%8A%E7%B1%B2%E6%8F%90%E9%98%B2",
-    "timestamp": "2026-09-04T17:41:03.456Z",
     "strategy": ".content-card__main"
   }
 ];
