@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T16:22:51.400Z
+// Last updated: 2026-09-04T16:40:02.880Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄烏證實美國特使週末到訪　要求停止襲擊活動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230407/721075588684582912806459.jpeg/F85evE4hjvIL24HmZ-4j34UvT2aYE8vwalfie2pX4ns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387012/%E4%BF%84%E7%83%8F%E8%AD%89%E5%AF%A6%E7%BE%8E%E5%9C%8B%E7%89%B9%E4%BD%BF%E9%80%B1%E6%9C%AB%E5%88%B0%E8%A8%AA-%E8%A6%81%E6%B1%82%E5%81%9C%E6%AD%A2%E8%A5%B2%E6%93%8A%E6%B4%BB%E5%8B%95",
+    "timestamp": "2026-09-04T16:40:02.880Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "克宮：美國特使威特科夫訪俄羅斯時　會要求烏克蘭停止襲擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170442256981692416207194.jpeg/R48P-6nRM4tZ_vo__xYOaxZtnYiXg3Y7s_IkZrPyJGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60386934/%E9%84%A7%E7%82%B3%E5%BC%B7%E7%8E%87%E5%9C%98%E8%B5%B4%E5%BB%B6%E5%AE%89%E7%A0%94%E4%BF%AE-%E4%B8%8B%E5%91%A8%E4%B8%80%E6%94%9C%E5%85%AD%E7%B4%80%E5%BE%8B%E9%83%A8%E9%95%B7%E9%A6%96%E9%95%B7%E8%80%83%E5%AF%9F%E4%B8%8A%E6%B5%B7",
     "timestamp": "2026-09-04T09:55:27.592Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "百佳前員工以「鬼工」騙薪328萬　經理被派調查反被收賣　5人認罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221015/657902481921019904956840.jpeg/OSgD2hLBuHJf8FdcMQE-nDDOUz4xwwzELDo75BY6O-Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386925/%E7%99%BE%E4%BD%B3%E5%89%8D%E5%93%A1%E5%B7%A5%E4%BB%A5-%E9%AC%BC%E5%B7%A5-%E9%A8%99%E8%96%AA328%E8%90%AC-%E7%B6%93%E7%90%86%E8%A2%AB%E6%B4%BE%E8%AA%BF%E6%9F%A5%E5%8F%8D%E8%A2%AB%E6%94%B6%E8%B3%A3-5%E4%BA%BA%E8%AA%8D%E7%BD%AA",
-    "timestamp": "2026-09-04T09:46:16.645Z",
     "strategy": ".content-card__main"
   }
 ];
