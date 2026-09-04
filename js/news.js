@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T05:19:44.007Z
+// Last updated: 2026-09-04T05:54:00.091Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "PS5 State of Play 9月懶人包：GTA VI手掣、FF7完結篇發售日公開",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172541802209611776376954.jpeg/fE-fPFHwNDNgzjSRle8BfWTwg9NM-flMYhGObWIRjm0",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60386783/ps5-state-of-play-9%E6%9C%88%E6%87%B6%E4%BA%BA%E5%8C%85-gta-vi%E6%89%8B%E6%8E%A3-ff7%E5%AE%8C%E7%B5%90%E7%AF%87%E7%99%BC%E5%94%AE%E6%97%A5%E5%85%AC%E9%96%8B",
+    "timestamp": "2026-09-04T05:54:00.091Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "城大Ocamp玩除衫｜紀律調查完成　涉事學生認錯致歉　接受處分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172407444588990464187625.jpeg/P6JVRM3ASlRpAGFN6DlTANPS5kvRWFGrCRVsYTMVbGE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386661/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%85%AC%E8%B7%AF%E6%AF%94%E4%BA%9E%E8%BF%AA%E6%92%9E%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%BB%91%E5%89%8D20%E7%B1%B3%E5%9A%B4%E9%87%8D%E6%93%A6%E5%82%B7-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7",
     "timestamp": "2026-09-03T21:41:20.988Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西九龍公路比亞迪撞電單車　鐵騎士滑前20米嚴重擦傷　一度昏迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172407444588990464187625.jpeg/P6JVRM3ASlRpAGFN6DlTANPS5kvRWFGrCRVsYTMVbGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386661/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E5%85%AC%E8%B7%AF%E6%AF%94%E4%BA%9E%E8%BF%AA%E6%92%9E%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%BB%91%E5%89%8D20%E7%B1%B3%E5%9A%B4%E9%87%8D%E6%93%A6%E5%82%B7-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7",
-    "timestamp": "2026-09-03T21:30:00.592Z",
     "strategy": ".content-card__main"
   }
 ];
