@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T23:28:15.374Z
+// Last updated: 2026-09-04T23:37:36.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普再「出口術」　稱增長不會導致通脹　美應維持全球最低利率",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172622405495951360681594.jpeg/V1WPFCKOZv75lOl8Zz9J7ahs8_WJsoY8p_zB46f8weM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387031/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D-%E5%87%BA%E5%8F%A3%E8%A1%93-%E7%A8%B1%E5%A2%9E%E9%95%B7%E4%B8%8D%E6%9C%83%E5%B0%8E%E8%87%B4%E9%80%9A%E8%84%B9-%E7%BE%8E%E6%87%89%E7%B6%AD%E6%8C%81%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E%E5%88%A9%E7%8E%87",
+    "timestamp": "2026-09-04T23:37:36.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普再「出口術」　稱增長不會導致通脹　美應維持全球最低利率",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172715012708372480045713.jpeg/jzh1sPkdO3rwwP0kgc3f4BVw64oSkpvo85DEFvOQxBY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387014/%E9%8A%80%E8%A1%8C%E7%99%BC%E7%8F%BE400%E5%AE%97%E9%9D%9E%E6%8E%A5%E8%A7%B8%E5%BC%8F%E6%B5%81%E5%8B%95%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8B%99%E9%A8%99%E6%A1%88-%E9%87%91%E7%AE%A1%E5%B1%80%E6%8E%A5%E7%8D%B2%E5%A0%B1%E5%91%8A%E7%B1%B2%E6%8F%90%E9%98%B2",
     "timestamp": "2026-09-04T17:41:03.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社：實屬罕見　習近平將帶龐大商務代表團訪美",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240327/849616184440524800362057.jpeg/iARPBLJfHbnU_JMbP4f-LRJfU5L3IKSS4eBs-uHgbPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387015/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%AF%A6%E5%B1%AC%E7%BD%95%E8%A6%8B-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%B8%B6%E9%BE%90%E5%A4%A7%E5%95%86%E5%8B%99%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E7%BE%8E",
-    "timestamp": "2026-09-04T17:28:37.172Z",
     "strategy": ".content-card__main"
   }
 ];
