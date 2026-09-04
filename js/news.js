@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T18:43:55.480Z
+// Last updated: 2026-09-04T18:53:58.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜長沙灣過渡房屋男子燒炭　昏迷送院搶救回天乏術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E7%94%B7%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
+    "timestamp": "2026-09-04T18:53:58.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜長沙灣過渡房屋男子燒炭　昏迷送院搶救回天乏術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172632916778291200478159.jpeg/EABMXnvmwZ6pZ8-GfioGe5I1goci42B9FlQIVhZUCFY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60386976/%E7%BE%BD%E6%AF%9B%E7%90%83-%E5%90%B3%E8%8B%B1%E5%80%AB%E6%8C%AB%E4%B8%AD%E5%9C%8B%E7%BF%81%E6%B3%93%E9%99%BD-%E8%88%87%E6%9D%8E%E5%8D%93%E8%80%80%E9%9B%99%E7%B7%9A%E7%88%AD%E5%85%A5%E6%B1%BA%E8%B3%BD-%E4%B8%AD%E5%9C%8B%E5%A4%A7%E5%B8%AB%E8%B3%BD",
     "timestamp": "2026-09-04T11:56:49.093Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流感｜14歲長期病患女童染甲流併發敗血性休克　情況嚴重留醫PICU",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240215/834919117159927808507481.jpeg/1gIkzSLAm4Fqwim4dFH2KDrfXE-X0JRxvsJTXr7CU14?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386970/%E6%B5%81%E6%84%9F-14%E6%AD%B2%E9%95%B7%E6%9C%9F%E7%97%85%E6%82%A3%E5%A5%B3%E7%AB%A5%E6%9F%93%E7%94%B2%E6%B5%81%E4%BD%B5%E7%99%BC%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B-%E6%83%85%E6%B3%81%E5%9A%B4%E9%87%8D%E7%95%99%E9%86%ABpicu",
-    "timestamp": "2026-09-04T11:38:23.209Z",
     "strategy": ".content-card__main"
   }
 ];
