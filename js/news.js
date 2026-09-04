@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T23:17:43.997Z
+// Last updated: 2026-09-04T23:28:15.374Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普再「出口術」　稱增長不會導致通脹　美應維持全球最低利率",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172622405495951360681594.jpeg/V1WPFCKOZv75lOl8Zz9J7ahs8_WJsoY8p_zB46f8weM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387031/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D-%E5%87%BA%E5%8F%A3%E8%A1%93-%E7%A8%B1%E5%A2%9E%E9%95%B7%E4%B8%8D%E6%9C%83%E5%B0%8E%E8%87%B4%E9%80%9A%E8%84%B9-%E7%BE%8E%E6%87%89%E7%B6%AD%E6%8C%81%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E%E5%88%A9%E7%8E%87",
+    "timestamp": "2026-09-04T23:28:15.374Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "暴跌逾17%！Lululemon營收淨利雙降　全年預期大幅下調｜美股",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240327/849616184440524800362057.jpeg/iARPBLJfHbnU_JMbP4f-LRJfU5L3IKSS4eBs-uHgbPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387015/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%AF%A6%E5%B1%AC%E7%BD%95%E8%A6%8B-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%B8%B6%E9%BE%90%E5%A4%A7%E5%95%86%E5%8B%99%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E7%BE%8E",
     "timestamp": "2026-09-04T17:28:37.172Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社：實屬罕見　習近平將帶龐大商務代表團訪美",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240327/849616184440524800362057.jpeg/iARPBLJfHbnU_JMbP4f-LRJfU5L3IKSS4eBs-uHgbPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387015/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%AF%A6%E5%B1%AC%E7%BD%95%E8%A6%8B-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%B8%B6%E9%BE%90%E5%A4%A7%E5%95%86%E5%8B%99%E4%BB%A3%E8%A1%A8%E5%9C%98%E8%A8%AA%E7%BE%8E",
-    "timestamp": "2026-09-04T17:20:12.882Z",
     "strategy": ".content-card__main"
   }
 ];
