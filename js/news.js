@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T02:49:17.551Z
+// Last updated: 2026-09-04T02:56:53.956Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "于品海｜下一個十年：由被動改變到主動改革",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172466997502414848148023.jpeg/kLMOmX3y4oFSmD_xGHjOT3D3DCkkO73xgZaXoIGWl6A?v=w1920",
+    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60386457/%E4%BA%8E%E5%93%81%E6%B5%B7-%E4%B8%8B%E4%B8%80%E5%80%8B%E5%8D%81%E5%B9%B4-%E7%94%B1%E8%A2%AB%E5%8B%95%E6%94%B9%E8%AE%8A%E5%88%B0%E4%B8%BB%E5%8B%95%E6%94%B9%E9%9D%A9",
+    "timestamp": "2026-09-04T02:56:53.956Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杭州女謊稱電梯遭男鄰居猥褻毆打　 博同情大翻車終被警方拘留",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-03T20:32:53.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖東私家車左搖右擺　46歲男司機「吹爆波」　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172374209930727424450398.jpeg/x6NkrXsBa0v6WB-31je2NzhZzvx0cmI5OIkxAgKJMQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60386656/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA-46%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-03T19:54:23.513Z",
     "strategy": ".content-card__main"
   }
 ];
