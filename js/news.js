@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T13:20:02.402Z
+// Last updated: 2026-09-04T13:40:38.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：特朗普女婿庫什納與特使週末出訪俄烏　冀重啟和談努力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113448319708827648702138.jpeg/Au_jRUSSJXpcFcq0O-NBTrGdiNNEfwrbswAcELMAHBA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386995/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%BA%AB%E4%BB%80%E7%B4%8D%E8%88%87%E7%89%B9%E4%BD%BF%E9%80%B1%E6%9C%AB%E5%87%BA%E8%A8%AA%E4%BF%84%E7%83%8F-%E5%86%80%E9%87%8D%E5%95%9F%E5%92%8C%E8%AB%87%E5%8A%AA%E5%8A%9B",
+    "timestamp": "2026-09-04T13:40:38.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "52歲郭羨妮街頭被野生捕獲　零濾鏡真實顏值惹熱議：沒醫美仍漂亮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172539326588784640805347.jpeg/QR_vmlTZEyX1NE9_XH8YKAoqB1_x491zTxw6308cOt8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386791/%E5%8D%B0%E5%B0%BC%E6%B5%AE%E6%BD%9B%E4%B8%AD%E5%9C%8B%E5%A4%AB%E5%A9%A6%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E7%96%91%E7%94%B7%E4%BA%8B%E4%B8%BB%E6%95%91%E5%A6%BB%E9%81%87%E9%9B%A3-%E5%B0%8B%E5%90%8C%E8%88%B9%E9%81%8A%E5%AE%A2%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-09-04T06:30:28.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "PS5 State of Play 9月懶人包：GTA VI手掣、FF7完結篇發售日公開",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172541802209611776376954.jpeg/fE-fPFHwNDNgzjSRle8BfWTwg9NM-flMYhGObWIRjm0",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60386783/ps5-state-of-play-9%E6%9C%88%E6%87%B6%E4%BA%BA%E5%8C%85-gta-vi%E6%89%8B%E6%8E%A3-ff7%E5%AE%8C%E7%B5%90%E7%AF%87%E7%99%BC%E5%94%AE%E6%97%A5%E5%85%AC%E9%96%8B",
-    "timestamp": "2026-09-04T05:54:00.091Z",
     "strategy": ".content-card__main"
   }
 ];
