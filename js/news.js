@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T05:41:12.746Z
+// Last updated: 2026-09-05T06:49:34.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼泊爾泥石流1342死　水電廠3A隧道救出2人後　搜救隊：再無發現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172916101575610368497156.jpeg/GTqr8NYIJB4Mm-K0qucnU6uZfcEH7jkXV_Qp8Vf0KfE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387094/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%811342%E6%AD%BB-%E6%B0%B4%E9%9B%BB%E5%BB%A03a%E9%9A%A7%E9%81%93%E6%95%91%E5%87%BA2%E4%BA%BA%E5%BE%8C-%E6%90%9C%E6%95%91%E9%9A%8A-%E5%86%8D%E7%84%A1%E7%99%BC%E7%8F%BE",
+    "timestamp": "2026-09-05T06:49:34.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩金多寶9.5頭獎2.28億｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172784869168648192794526.jpeg/fKPMgbU7ULYcvKM0cjz9oYifJ2IpNajPQBuoQXobqEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387027/%E5%A4%A9%E6%B0%A3-%E6%97%A5%E9%96%93%E9%83%A8%E5%88%86%E6%99%82%E9%96%93%E6%9C%89%E9%99%BD%E5%85%89-%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E6%9C%80%E9%AB%9831%E5%BA%A6-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8",
     "timestamp": "2026-09-04T22:18:33.785Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普擬擲5億美元助中期選舉　稱這是「我控制的錢」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172273323619389440641582.jpeg/rC7iKzQjj75OzU8fe2MavM_ltwi-oAAGCt5GgQreRoE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387028/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E6%93%B25%E5%84%84%E7%BE%8E%E5%85%83%E5%8A%A9%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%A8%B1%E9%80%99%E6%98%AF-%E6%88%91%E6%8E%A7%E5%88%B6%E7%9A%84%E9%8C%A2",
-    "timestamp": "2026-09-04T21:54:25.693Z",
     "strategy": ".content-card__main"
   }
 ];
