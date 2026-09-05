@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T09:19:09.781Z
+// Last updated: 2026-09-05T09:29:57.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「科羅旺」拐彎　新颱風「杜鵑」或將生成　廣東未來3日天氣平穩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172934371783479296703926.jpeg/hBOYvNGax6rW-U5ecAz0jx5_kA9MCDH6a8RViWvEVYk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387117/%E7%A7%91%E7%BE%85%E6%97%BA-%E6%8B%90%E5%BD%8E-%E6%96%B0%E9%A2%B1%E9%A2%A8-%E6%9D%9C%E9%B5%91-%E6%88%96%E5%B0%87%E7%94%9F%E6%88%90-%E5%BB%A3%E6%9D%B1%E6%9C%AA%E4%BE%863%E6%97%A5%E5%A4%A9%E6%B0%A3%E5%B9%B3%E7%A9%A9",
+    "timestamp": "2026-09-05T09:29:57.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大維修｜甯漢豪：部署全新服務支援法團和業主　目標年內推出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058442269666840576071384.jpeg/O90aabkL9NaGQfAcapMK-Q9eMgSVZpB1pahAQqWoQEI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387034/%E8%AD%89%E7%9B%A3%E6%93%9A%E5%A0%B1%E4%B8%8A%E6%9C%88%E6%90%9C%E6%9F%A5%E8%8F%AF%E6%B3%B0%E9%87%91%E6%8E%A7%E8%BE%A6%E5%85%AC%E5%AE%A4-ceo%E4%B9%9F%E8%A2%AB%E5%95%8F%E8%A9%A2-%E6%B6%89%E5%80%8B%E5%88%A5%E5%AE%A2%E6%88%B6%E6%93%8D%E4%BD%9C",
     "timestamp": "2026-09-04T23:53:37.231Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普再「出口術」　稱增長不會導致通脹　美應維持全球最低利率",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172622405495951360681594.jpeg/V1WPFCKOZv75lOl8Zz9J7ahs8_WJsoY8p_zB46f8weM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387031/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D-%E5%87%BA%E5%8F%A3%E8%A1%93-%E7%A8%B1%E5%A2%9E%E9%95%B7%E4%B8%8D%E6%9C%83%E5%B0%8E%E8%87%B4%E9%80%9A%E8%84%B9-%E7%BE%8E%E6%87%89%E7%B6%AD%E6%8C%81%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E%E5%88%A9%E7%8E%87",
-    "timestamp": "2026-09-04T23:37:36.511Z",
     "strategy": ".content-card__main"
   }
 ];
