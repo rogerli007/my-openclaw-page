@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T10:53:21.084Z
+// Last updated: 2026-09-05T11:17:02.588Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2.28億頭獎六合彩｜50周年金多寶今晚攪珠　五大熱門號碼一文看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172977860189622272270618.jpeg/r1taKZrBv9PcRZyY_kwns0lTDUTD__xFIRoRMQQaETE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387169/2-28%E5%84%84%E9%A0%AD%E7%8D%8E%E5%85%AD%E5%90%88%E5%BD%A9-50%E5%91%A8%E5%B9%B4%E9%87%91%E5%A4%9A%E5%AF%B6%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E4%BA%94%E5%A4%A7%E7%86%B1%E9%96%80%E8%99%9F%E7%A2%BC%E4%B8%80%E6%96%87%E7%9C%8B",
+    "timestamp": "2026-09-05T11:17:02.588Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼泊爾泥石流｜憂傷父借錢尋子　翻山越嶺赴災區盼奇蹟：他能逃生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171403151014629376248679.jpeg/pBcNs7_-6dNgaH0GEBlgckVhoRh8XxwabhX980sV_fM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387064/%E7%B8%AE%E7%8F%AD%E6%AE%BA%E6%A0%A1-%E8%94%A1%E8%8B%A5%E8%93%AE%E6%8C%87%E5%AD%B8%E9%BD%A1%E4%BA%BA%E5%8F%A3%E8%B7%8C%E5%8D%81%E5%B9%B4%E5%85%A7%E4%B8%8D%E6%9C%83%E9%80%86%E8%BD%89-%E7%B1%B2%E5%90%84%E6%96%B9%E9%9D%A2%E5%B0%8D%E7%8F%BE%E5%AF%A6",
     "timestamp": "2026-09-05T04:23:29.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江西吉安遂川縣高坪鎮發生山泥傾瀉　有十餘人被埋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172874627169390592285174.jpeg/zAPcm3sP9xakQPmoFN739c48BBgItilHZGfjmGRn45g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387071/%E6%B1%9F%E8%A5%BF%E5%90%89%E5%AE%89%E9%81%82%E5%B7%9D%E7%B8%A3%E9%AB%98%E5%9D%AA%E9%8E%AE%E7%99%BC%E7%94%9F%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89-%E6%9C%89%E5%8D%81%E9%A4%98%E4%BA%BA%E8%A2%AB%E5%9F%8B",
-    "timestamp": "2026-09-05T03:57:15.810Z",
     "strategy": ".content-card__main"
   }
 ];
