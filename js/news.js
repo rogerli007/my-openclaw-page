@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T07:30:21.156Z
+// Last updated: 2026-09-05T07:53:41.182Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立法會交通委員會訪高德總部　了解用大數據實時監測公路流量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172927059572297728912640.jpeg/EPnnF71TsCbkzlpd_8vPbdEnCpVp3wTiMWrLTTFqy00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387112/%E7%AB%8B%E6%B3%95%E6%9C%83%E4%BA%A4%E9%80%9A%E5%A7%94%E5%93%A1%E6%9C%83%E8%A8%AA%E9%AB%98%E5%BE%B7%E7%B8%BD%E9%83%A8-%E4%BA%86%E8%A7%A3%E7%94%A8%E5%A4%A7%E6%95%B8%E6%93%9A%E5%AF%A6%E6%99%82%E7%9B%A3%E6%B8%AC%E5%85%AC%E8%B7%AF%E6%B5%81%E9%87%8F",
+    "timestamp": "2026-09-05T07:53:41.182Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國航母林肯號抵達泰國　兩水兵涉醉酒鬧事　遭遣返艦上",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121106236872331264456207.jpeg/OoQwnTXg-3WwVbCgU0_qPQ7e_X_8v285WHPZmlhz2Zo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386790/%E6%9A%B4%E8%B7%8C%E9%80%BE17-lululemon%E7%87%9F%E6%94%B6%E6%B7%A8%E5%88%A9%E9%9B%99%E9%99%8D-%E5%85%A8%E5%B9%B4%E9%A0%90%E6%9C%9F%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%AA%BF-%E7%BE%8E%E8%82%A1",
     "timestamp": "2026-09-04T23:17:43.997Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英視障男偷女友車醉駕上高速　盲駛240公里無碰撞　靠前車燈導航",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172540062059991040685902.png/XJZNdRjrt-E4DArWNjmH-8DnpyOGer_oQm5FakJuRWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376393/%E8%8B%B1%E8%A6%96%E9%9A%9C%E7%94%B7%E5%81%B7%E5%A5%B3%E5%8F%8B%E8%BB%8A%E9%86%89%E9%A7%95%E4%B8%8A%E9%AB%98%E9%80%9F-%E7%9B%B2%E9%A7%9B240%E5%85%AC%E9%87%8C%E7%84%A1%E7%A2%B0%E6%92%9E-%E9%9D%A0%E5%89%8D%E8%BB%8A%E7%87%88%E5%B0%8E%E8%88%AA",
-    "timestamp": "2026-09-04T22:51:25.122Z",
     "strategy": ".content-card__main"
   }
 ];
