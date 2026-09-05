@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T23:26:29.175Z
+// Last updated: 2026-09-05T23:41:31.261Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "塞爾維亞總統武契奇獲黨推舉選總理　將辭去總統職務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148887741069529088907634.jpeg/Kfh2Ikzu-MdAXirEdasHgulI_79DSFwkWyRZrFskWaw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387224/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B8%BD%E7%B5%B1%E6%AD%A6%E5%A5%91%E5%A5%87%E7%8D%B2%E9%BB%A8%E6%8E%A8%E8%88%89%E9%81%B8%E7%B8%BD%E7%90%86-%E5%B0%87%E8%BE%AD%E5%8E%BB%E7%B8%BD%E7%B5%B1%E8%81%B7%E5%8B%99",
+    "timestamp": "2026-09-05T23:41:31.261Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞爾維亞總統武契奇獲黨推舉選總理　將辭去總統職務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173085985248907264734596.jpeg/VS-doAtY6DHu4DSizN0pjOFA0yIhOiwLkste7KjLXuw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387209/%E5%AF%B6%E6%9E%97%E9%82%A8%E7%88%B6%E5%AD%90%E6%88%BF%E7%94%A2%E5%95%8F%E9%A1%8C%E7%88%AD%E5%9F%B7-%E5%85%92%E5%AD%90%E5%BE%92%E6%89%8B%E6%96%BD%E8%A5%B2-%E7%88%B6%E6%8C%81%E9%8E%85%E5%88%80-%E5%85%A9%E7%88%B6%E5%AD%90%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-05T18:21:26.832Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警「放蛇」中環去港島山頂　黑的司機索$350車資　涉4宗罪被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173071357739536384357462.jpeg/QeRUSaKsTkbltaz25K0FzU_fzNBVCQzIskFwuYhBcLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387203/%E8%AD%A6-%E6%94%BE%E8%9B%87-%E4%B8%AD%E7%92%B0%E5%8E%BB%E6%B8%AF%E5%B3%B6%E5%B1%B1%E9%A0%82-%E9%BB%91%E7%9A%84%E5%8F%B8%E6%A9%9F%E7%B4%A2-350%E8%BB%8A%E8%B3%87-%E6%B6%894%E5%AE%97%E7%BD%AA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-05T17:41:07.187Z",
     "strategy": ".content-card__main"
   }
 ];
