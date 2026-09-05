@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T04:23:29.865Z
+// Last updated: 2026-09-05T04:43:44.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國柴油零售價創歷史新高　推動供應鏈成本上漲　消費者壓力增加",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231030/795797449342980096045267.jpeg/2BENByc1iIcU0VamJwnhcWcGRcXqeIM-BWpBNAVqQTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387077/%E7%BE%8E%E5%9C%8B%E6%9F%B4%E6%B2%B9%E9%9B%B6%E5%94%AE%E5%83%B9%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E6%8E%A8%E5%8B%95%E4%BE%9B%E6%87%89%E9%8F%88%E6%88%90%E6%9C%AC%E4%B8%8A%E6%BC%B2-%E6%B6%88%E8%B2%BB%E8%80%85%E5%A3%93%E5%8A%9B%E5%A2%9E%E5%8A%A0",
+    "timestamp": "2026-09-05T04:43:44.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "縮班殺校｜蔡若蓮指學齡人口跌十年內不會逆轉　籲各方面對現實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
     "timestamp": "2026-09-04T20:32:29.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜長沙灣過渡房屋女子燒炭　昏迷送院搶救回天乏術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
-    "timestamp": "2026-09-04T19:53:31.433Z",
     "strategy": ".content-card__main"
   }
 ];
