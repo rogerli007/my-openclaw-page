@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T13:59:09.412Z
+// Last updated: 2026-09-05T14:17:37.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郵寄選票寄出　美國關鍵中期選舉投票正式開始",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172273437419245568421073.jpeg/DVNGgSCAAs-GSlMJMueYPML8humGGPFjSOrXK0jq1ys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387140/%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8%E5%AF%84%E5%87%BA-%E7%BE%8E%E5%9C%8B%E9%97%9C%E9%8D%B5%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E9%96%8B%E5%A7%8B",
+    "timestamp": "2026-09-05T14:17:37.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港同志影展｜眾星撐開幕電影《滿地可人兒》《華麗絲煞列車》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172916101575610368497156.jpeg/GTqr8NYIJB4Mm-K0qucnU6uZfcEH7jkXV_Qp8Vf0KfE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387094/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%811342%E6%AD%BB-%E6%B0%B4%E9%9B%BB%E5%BB%A03a%E9%9A%A7%E9%81%93%E6%95%91%E5%87%BA2%E4%BA%BA%E5%BE%8C-%E6%90%9C%E6%95%91%E9%9A%8A-%E5%86%8D%E7%84%A1%E7%99%BC%E7%8F%BE",
     "timestamp": "2026-09-05T06:49:34.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩金多寶9.5頭獎2.28億｜6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170523917610127360179524.jpeg/CFRQxbPE6zw-ZPNwnZ7NDvV4zrzV0hgN7ortHO6K7Rw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384930/%E5%85%AD%E5%90%88%E5%BD%A9%E9%87%91%E5%A4%9A%E5%AF%B69-5%E9%A0%AD%E7%8D%8E2-28%E5%84%84-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-09-05T05:41:12.746Z",
     "strategy": ".content-card__main"
   }
 ];
