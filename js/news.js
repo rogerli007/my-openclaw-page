@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T15:26:06.995Z
+// Last updated: 2026-09-05T15:53:28.985Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟盈苑｜業主投訴住戶集體拆廚廁牆　房屋局指獲轉介12疑違規單位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250727/1026157779590582272465219.jpeg/kn4GewRK3Ej3BOy1wgRqI_2J4qzq00O-yOv-3cjr_t0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387198/%E5%95%9F%E7%9B%88%E8%8B%91-%E6%A5%AD%E4%B8%BB%E6%8A%95%E8%A8%B4%E4%BD%8F%E6%88%B6%E9%9B%86%E9%AB%94%E6%8B%86%E5%BB%9A%E5%BB%81%E7%89%86-%E6%88%BF%E5%B1%8B%E5%B1%80%E6%8C%87%E7%8D%B2%E8%BD%89%E4%BB%8B12%E7%96%91%E9%81%95%E8%A6%8F%E5%96%AE%E4%BD%8D",
+    "timestamp": "2026-09-05T15:53:28.985Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西灣河欣景花園印傭暈倒　昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166724731257229312571924.jpeg/bGmq5SAWMn9YhXvxf6J8uU6NRGbP_sMVNsXxkTbF8ZE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387111/%E7%BE%8E%E5%9C%8B%E6%89%BF%E8%AB%BEnvidia%E6%99%B6%E7%89%87%E4%BE%9B%E6%87%89-%E4%BF%83%E6%88%90%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E8%88%87%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E5%88%9D%E6%AD%A5%E5%92%8C%E5%B9%B3%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-09-05T08:43:48.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立法會交通委員會訪高德總部　了解用大數據實時監測公路流量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172927059572297728912640.jpeg/EPnnF71TsCbkzlpd_8vPbdEnCpVp3wTiMWrLTTFqy00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387112/%E7%AB%8B%E6%B3%95%E6%9C%83%E4%BA%A4%E9%80%9A%E5%A7%94%E5%93%A1%E6%9C%83%E8%A8%AA%E9%AB%98%E5%BE%B7%E7%B8%BD%E9%83%A8-%E4%BA%86%E8%A7%A3%E7%94%A8%E5%A4%A7%E6%95%B8%E6%93%9A%E5%AF%A6%E6%99%82%E7%9B%A3%E6%B8%AC%E5%85%AC%E8%B7%AF%E6%B5%81%E9%87%8F",
-    "timestamp": "2026-09-05T07:53:41.182Z",
     "strategy": ".content-card__main"
   }
 ];
