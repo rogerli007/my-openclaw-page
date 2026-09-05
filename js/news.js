@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T02:52:20.597Z
+// Last updated: 2026-09-05T03:23:27.855Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角東區走廊兩私家車相撞　一司機昏迷送院搶救　往中環交通受阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172867320029122560951746.jpeg/JHnFMeMGsIdjUPmJrlz4q28gvMNeq-t4PcMB2D3DAdg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387063/%E5%8C%97%E8%A7%92%E6%9D%B1%E5%8D%80%E8%B5%B0%E5%BB%8A%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E4%B8%80%E5%8F%B8%E6%A9%9F%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E5%BE%80%E4%B8%AD%E7%92%B0%E4%BA%A4%E9%80%9A%E5%8F%97%E9%98%BB",
+    "timestamp": "2026-09-05T03:23:27.855Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯無人機襲烏國安局總部　澤連斯基：俄方直接瞄準局長辦公室",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
     "timestamp": "2026-09-04T19:25:21.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜長沙灣過渡房屋女子燒炭　昏迷送院搶救回天乏術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
-    "timestamp": "2026-09-04T19:15:49.338Z",
     "strategy": ".content-card__main"
   }
 ];
