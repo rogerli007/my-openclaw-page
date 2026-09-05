@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T21:19:13.163Z
+// Last updated: 2026-09-05T21:23:27.307Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜銅鑼灣希慎道警察鐵馬亮閃燈　遭Tesla攔腰撞倒　影片曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173128384394301440245786.jpeg/zD4HQ73zZ82sVj1rR9K4w3zMHy0vq3lYK_5UYiv-VGI",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-09-05T21:23:27.307Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜銅鑼灣希慎道警察鐵馬亮閃燈　遭Tesla攔腰撞倒　影片曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1173002365721120768018763.jpeg/k1S0rCgZ0NNy-xSfd9sgbZhAB6B4llyAuiR3qrokd6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387174/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-59%E6%AD%B2%E5%A4%A7%E9%9A%BBrocky%E9%84%AD%E5%81%A5%E6%A8%82%E6%90%B5%E7%9C%9F%E6%84%9B-%E8%87%AA%E7%88%86%E6%9B%BE%E6%88%8026%E6%AD%B2%E5%A5%B3%E5%8F%8B",
     "timestamp": "2026-09-05T14:29:18.412Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郵寄選票寄出　美國關鍵中期選舉投票正式開始",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172273437419245568421073.jpeg/DVNGgSCAAs-GSlMJMueYPML8humGGPFjSOrXK0jq1ys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387140/%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8%E5%AF%84%E5%87%BA-%E7%BE%8E%E5%9C%8B%E9%97%9C%E9%8D%B5%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E9%96%8B%E5%A7%8B",
-    "timestamp": "2026-09-05T14:17:37.029Z",
     "strategy": ".content-card__main"
   }
 ];
