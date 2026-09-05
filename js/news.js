@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T19:25:15.306Z
+// Last updated: 2026-09-05T19:53:20.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仔隧道出口　綿羊仔疑天雨路滑自炒撞欄　鐵騎士昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173114190315917312521907.jpeg/FeCrAdYHNNMA44l7qe-sQC-uuc4FUfcwEG9j_ypvY_8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387216/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3-%E7%B6%BF%E7%BE%8A%E4%BB%94%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-09-05T19:53:20.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍反擊伊朗打中2油輪　司令：你若開火我便施更高經濟代價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172971956564135936471652.png/1R4XHo-XP4mvC1KXDzeBa-AJfHLgcJYXvwOBrL8Dgaw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60387141/netflix%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E5%AD%AB%E5%8D%83%E6%B1%82%E5%A9%9A%E9%81%AD%E4%BA%95%E6%9F%8F%E7%84%B6%E6%8B%92%E7%B5%95-%E7%B6%B2%E6%B0%91%E5%B0%81-%E5%8F%B2%E8%A9%A9%E7%B4%9A%E9%AC%BC%E4%B8%80%E9%9B%86",
     "timestamp": "2026-09-05T11:53:38.956Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2.28億頭獎六合彩｜50周年金多寶今晚攪珠　五大熱門號碼一文看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172977860189622272270618.jpeg/r1taKZrBv9PcRZyY_kwns0lTDUTD__xFIRoRMQQaETE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387169/2-28%E5%84%84%E9%A0%AD%E7%8D%8E%E5%85%AD%E5%90%88%E5%BD%A9-50%E5%91%A8%E5%B9%B4%E9%87%91%E5%A4%9A%E5%AF%B6%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E4%BA%94%E5%A4%A7%E7%86%B1%E9%96%80%E8%99%9F%E7%A2%BC%E4%B8%80%E6%96%87%E7%9C%8B",
-    "timestamp": "2026-09-05T11:17:02.588Z",
     "strategy": ".content-card__main"
   }
 ];
