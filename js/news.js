@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T06:58:31.565Z
+// Last updated: 2026-09-05T07:30:21.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國航母林肯號抵達泰國　兩水兵涉醉酒鬧事　遭遣返艦上",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172545746671636480361728.jpeg/2vfwOR4AWEJlwdt4w8VScg87uVEbwuks23wWBtt8FgY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387099/%E7%BE%8E%E5%9C%8B%E8%88%AA%E6%AF%8D%E6%9E%97%E8%82%AF%E8%99%9F%E6%8A%B5%E9%81%94%E6%B3%B0%E5%9C%8B-%E5%85%A9%E6%B0%B4%E5%85%B5%E6%B6%89%E9%86%89%E9%85%92%E9%AC%A7%E4%BA%8B-%E9%81%AD%E9%81%A3%E8%BF%94%E8%89%A6%E4%B8%8A",
+    "timestamp": "2026-09-05T07:30:21.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼泊爾泥石流1342死　水電廠3A隧道救出2人後　搜救隊：再無發現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172540062059991040685902.png/XJZNdRjrt-E4DArWNjmH-8DnpyOGer_oQm5FakJuRWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376393/%E8%8B%B1%E8%A6%96%E9%9A%9C%E7%94%B7%E5%81%B7%E5%A5%B3%E5%8F%8B%E8%BB%8A%E9%86%89%E9%A7%95%E4%B8%8A%E9%AB%98%E9%80%9F-%E7%9B%B2%E9%A7%9B240%E5%85%AC%E9%87%8C%E7%84%A1%E7%A2%B0%E6%92%9E-%E9%9D%A0%E5%89%8D%E8%BB%8A%E7%87%88%E5%B0%8E%E8%88%AA",
     "timestamp": "2026-09-04T22:51:25.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英視障男偷女友車醉駕上高速　盲駛240公里無碰撞　靠前車燈導航",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172540062059991040685902.png/XJZNdRjrt-E4DArWNjmH-8DnpyOGer_oQm5FakJuRWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376393/%E8%8B%B1%E8%A6%96%E9%9A%9C%E7%94%B7%E5%81%B7%E5%A5%B3%E5%8F%8B%E8%BB%8A%E9%86%89%E9%A7%95%E4%B8%8A%E9%AB%98%E9%80%9F-%E7%9B%B2%E9%A7%9B240%E5%85%AC%E9%87%8C%E7%84%A1%E7%A2%B0%E6%92%9E-%E9%9D%A0%E5%89%8D%E8%BB%8A%E7%87%88%E5%B0%8E%E8%88%AA",
-    "timestamp": "2026-09-04T22:40:47.304Z",
     "strategy": ".content-card__main"
   }
 ];
