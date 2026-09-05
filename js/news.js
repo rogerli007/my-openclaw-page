@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T20:18:36.941Z
+// Last updated: 2026-09-05T20:29:58.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仔隧道出口　綿羊仔疑天雨路滑自炒撞欄　鐵騎士昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173114190315917312521907.jpeg/FeCrAdYHNNMA44l7qe-sQC-uuc4FUfcwEG9j_ypvY_8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387216/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3-%E7%B6%BF%E7%BE%8A%E4%BB%94%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-09-05T20:29:58.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔隧道出口　綿羊仔疑天雨路滑自炒撞欄　鐵騎士昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1173007651252998144467512.png/7AAfwhz9WTBk-SFUSMrQhmUqSBijJmOZZPlYhGT5WIQ",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387177/%E4%B8%AD%E5%9C%8B%E7%94%B7%E5%9B%B0%E9%9A%A7%E9%81%9310%E5%A4%A9%E7%8D%B2%E6%95%91-%E7%A8%B1%E8%A6%8B%E4%BA%AE%E5%85%89%E5%B0%B1%E4%BD%BF%E5%8B%81%E5%96%8A-%E7%87%88%E7%85%A7%E5%88%B0%E7%9C%BC%E5%89%8D%E6%99%82%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1",
     "timestamp": "2026-09-05T12:49:41.640Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DJ女神樂宜遭連環惡意恐嚇　接連收到恐怖「斷頭模型」包裹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172963172907225088823695.jpeg/8tcG4-cWNhI6QmK9j762rjLI8Ak9Oas_SEwxz0hMMc8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387148/dj%E5%A5%B3%E7%A5%9E%E6%A8%82%E5%AE%9C%E9%81%AD%E9%80%A3%E7%92%B0%E6%83%A1%E6%84%8F%E6%81%90%E5%9A%87-%E6%8E%A5%E9%80%A3%E6%94%B6%E5%88%B0%E6%81%90%E6%80%96-%E6%96%B7%E9%A0%AD%E6%A8%A1%E5%9E%8B-%E5%8C%85%E8%A3%B9",
-    "timestamp": "2026-09-05T12:25:24.856Z",
     "strategy": ".content-card__main"
   }
 ];
