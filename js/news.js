@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T03:57:15.810Z
+// Last updated: 2026-09-05T04:23:29.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "縮班殺校｜蔡若蓮指學齡人口跌十年內不會逆轉　籲各方面對現實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171403151014629376248679.jpeg/pBcNs7_-6dNgaH0GEBlgckVhoRh8XxwabhX980sV_fM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387064/%E7%B8%AE%E7%8F%AD%E6%AE%BA%E6%A0%A1-%E8%94%A1%E8%8B%A5%E8%93%AE%E6%8C%87%E5%AD%B8%E9%BD%A1%E4%BA%BA%E5%8F%A3%E8%B7%8C%E5%8D%81%E5%B9%B4%E5%85%A7%E4%B8%8D%E6%9C%83%E9%80%86%E8%BD%89-%E7%B1%B2%E5%90%84%E6%96%B9%E9%9D%A2%E5%B0%8D%E7%8F%BE%E5%AF%A6",
+    "timestamp": "2026-09-05T04:23:29.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江西吉安遂川縣高坪鎮發生山泥傾瀉　有十餘人被埋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
     "timestamp": "2026-09-04T19:53:31.433Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜長沙灣過渡房屋女子燒炭　昏迷送院搶救回天乏術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
-    "timestamp": "2026-09-04T19:44:46.866Z",
     "strategy": ".content-card__main"
   }
 ];
