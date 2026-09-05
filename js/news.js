@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T07:53:41.182Z
+// Last updated: 2026-09-05T08:43:48.581Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國承諾Nvidia晶片供應　促成亞美尼亞與阿塞拜疆初步和平協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166724731257229312571924.jpeg/bGmq5SAWMn9YhXvxf6J8uU6NRGbP_sMVNsXxkTbF8ZE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387111/%E7%BE%8E%E5%9C%8B%E6%89%BF%E8%AB%BEnvidia%E6%99%B6%E7%89%87%E4%BE%9B%E6%87%89-%E4%BF%83%E6%88%90%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E8%88%87%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E5%88%9D%E6%AD%A5%E5%92%8C%E5%B9%B3%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-09-05T08:43:48.581Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立法會交通委員會訪高德總部　了解用大數據實時監測公路流量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172622405495951360681594.jpeg/V1WPFCKOZv75lOl8Zz9J7ahs8_WJsoY8p_zB46f8weM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387031/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D-%E5%87%BA%E5%8F%A3%E8%A1%93-%E7%A8%B1%E5%A2%9E%E9%95%B7%E4%B8%8D%E6%9C%83%E5%B0%8E%E8%87%B4%E9%80%9A%E8%84%B9-%E7%BE%8E%E6%87%89%E7%B6%AD%E6%8C%81%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E%E5%88%A9%E7%8E%87",
     "timestamp": "2026-09-04T23:28:15.374Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "暴跌逾17%！Lululemon營收淨利雙降　全年預期大幅下調｜美股",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121106236872331264456207.jpeg/OoQwnTXg-3WwVbCgU0_qPQ7e_X_8v285WHPZmlhz2Zo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60386790/%E6%9A%B4%E8%B7%8C%E9%80%BE17-lululemon%E7%87%9F%E6%94%B6%E6%B7%A8%E5%88%A9%E9%9B%99%E9%99%8D-%E5%85%A8%E5%B9%B4%E9%A0%90%E6%9C%9F%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%AA%BF-%E7%BE%8E%E8%82%A1",
-    "timestamp": "2026-09-04T23:17:43.997Z",
     "strategy": ".content-card__main"
   }
 ];
