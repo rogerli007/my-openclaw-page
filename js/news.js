@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T05:31:19.124Z
+// Last updated: 2026-09-05T05:41:12.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩金多寶9.5頭獎2.28億｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170523917610127360179524.jpeg/CFRQxbPE6zw-ZPNwnZ7NDvV4zrzV0hgN7ortHO6K7Rw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384930/%E5%85%AD%E5%90%88%E5%BD%A9%E9%87%91%E5%A4%9A%E5%AF%B69-5%E9%A0%AD%E7%8D%8E2-28%E5%84%84-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-09-05T05:41:12.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車CAM｜Tesla衝前攝入兩車　司機昏迷　途經警3分鐘人工呼吸急救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172273323619389440641582.jpeg/rC7iKzQjj75OzU8fe2MavM_ltwi-oAAGCt5GgQreRoE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387028/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E6%93%B25%E5%84%84%E7%BE%8E%E5%85%83%E5%8A%A9%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%A8%B1%E9%80%99%E6%98%AF-%E6%88%91%E6%8E%A7%E5%88%B6%E7%9A%84%E9%8C%A2",
     "timestamp": "2026-09-04T21:54:25.693Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
-    "timestamp": "2026-09-04T21:17:28.595Z",
     "strategy": ".content-card__main"
   }
 ];
