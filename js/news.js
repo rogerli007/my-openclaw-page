@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T05:19:06.786Z
+// Last updated: 2026-09-05T05:31:19.124Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車CAM｜Tesla衝前攝入兩車　司機昏迷　途經警3分鐘人工呼吸急救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172894484581584896390781.jpeg/5doKh1LdLabxHbAh-jFzDvVUSOPt0MyKjgGQiI4BkIg",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387076/%E8%BB%8Acam-tesla%E8%A1%9D%E5%89%8D%E6%94%9D%E5%85%A5%E5%85%A9%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E6%98%8F%E8%BF%B7-%E9%80%94%E7%B6%93%E8%AD%A63%E5%88%86%E9%90%98%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%80%A5%E6%95%91",
+    "timestamp": "2026-09-05T05:31:19.124Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玄戰｜預測今晚 2.28 億六合彩開彩冧巴  神John心水多單數",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
     "timestamp": "2026-09-04T21:17:28.595Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
-    "timestamp": "2026-09-04T20:53:39.341Z",
     "strategy": ".content-card__main"
   }
 ];
