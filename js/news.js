@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T22:40:41.843Z
+// Last updated: 2026-09-05T22:53:41.937Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國初創火箭首入軌　歐洲躋身衛星發射競賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173152881327476736296034.jpeg/RuZiVaXFU0Osz_1A4qGA05nVdOMmh9kKvl4dA75eHQM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387223/%E5%BE%B7%E5%9C%8B%E5%88%9D%E5%89%B5%E7%81%AB%E7%AE%AD%E9%A6%96%E5%85%A5%E8%BB%8C-%E6%AD%90%E6%B4%B2%E8%BA%8B%E8%BA%AB%E8%A1%9B%E6%98%9F%E7%99%BC%E5%B0%84%E7%AB%B6%E8%B3%BD",
+    "timestamp": "2026-09-05T22:53:41.937Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國初創火箭首入軌　歐洲躋身衛星發射競賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173065371863748608257916.jpeg/rqYXwAE90FQ_Omzm_0gSlRL-e2CQ8j4tt8BDYI3AQ2A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387199/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9D%91%E5%8B%B5%E5%BE%B7%E9%82%A8%E5%A5%B3%E7%AB%A5%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-05T16:52:09.544Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜大坑勵德邨女童墮樓　昏迷送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173065371863748608257916.jpeg/rqYXwAE90FQ_Omzm_0gSlRL-e2CQ8j4tt8BDYI3AQ2A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387199/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9D%91%E5%8B%B5%E5%BE%B7%E9%82%A8%E5%A5%B3%E7%AB%A5%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-05T16:42:09.618Z",
     "strategy": ".content-card__main"
   }
 ];
