@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T15:53:28.985Z
+// Last updated: 2026-09-05T16:30:16.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜熱刺三戰未嘗一勝　作客森林靠VAR保住開季第一分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173064387443822592059864.png/ZfbSa5Xn6pw1M7TznLwR5FCY6to6kCo8Cz1kQAs9ZEA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387200/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%B8%89%E6%88%B0%E6%9C%AA%E5%98%97%E4%B8%80%E5%8B%9D-%E4%BD%9C%E5%AE%A2%E6%A3%AE%E6%9E%97%E9%9D%A0var%E4%BF%9D%E4%BD%8F%E9%96%8B%E5%AD%A3%E7%AC%AC%E4%B8%80%E5%88%86",
+    "timestamp": "2026-09-05T16:30:16.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟盈苑｜業主投訴住戶集體拆廚廁牆　房屋局指獲轉介12疑違規單位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172940092013023232962051.jpeg/smX0_tmrczPqVuVFaBDhCyZeAZBmYvSj4AQLJuAECyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387128/%E5%A4%A7%E7%B6%AD%E4%BF%AE-%E7%94%AF%E6%BC%A2%E8%B1%AA-%E9%83%A8%E7%BD%B2%E5%85%A8%E6%96%B0%E6%9C%8D%E5%8B%99%E6%94%AF%E6%8F%B4%E6%B3%95%E5%9C%98%E5%92%8C%E6%A5%AD%E4%B8%BB-%E7%9B%AE%E6%A8%99%E5%B9%B4%E5%85%A7%E6%8E%A8%E5%87%BA",
     "timestamp": "2026-09-05T09:19:09.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國承諾Nvidia晶片供應　促成亞美尼亞與阿塞拜疆初步和平協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166724731257229312571924.jpeg/bGmq5SAWMn9YhXvxf6J8uU6NRGbP_sMVNsXxkTbF8ZE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387111/%E7%BE%8E%E5%9C%8B%E6%89%BF%E8%AB%BEnvidia%E6%99%B6%E7%89%87%E4%BE%9B%E6%87%89-%E4%BF%83%E6%88%90%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E%E8%88%87%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E5%88%9D%E6%AD%A5%E5%92%8C%E5%B9%B3%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-09-05T08:43:48.581Z",
     "strategy": ".content-card__main"
   }
 ];
