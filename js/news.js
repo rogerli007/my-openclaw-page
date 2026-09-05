@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T19:15:21.663Z
+// Last updated: 2026-09-05T19:25:15.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍反擊伊朗打中2油輪　司令：你若開火我便施更高經濟代價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172963087020462080904861.png/S13nvQT-7WdvuIdFqpa7tk_LedLNWOgVoYz-8KGM_vA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387214/%E7%BE%8E%E8%BB%8D%E5%8F%8D%E6%93%8A%E4%BC%8A%E6%9C%97%E6%89%93%E4%B8%AD2%E6%B2%B9%E8%BC%AA-%E5%8F%B8%E4%BB%A4-%E4%BD%A0%E8%8B%A5%E9%96%8B%E7%81%AB%E6%88%91%E4%BE%BF%E6%96%BD%E6%9B%B4%E9%AB%98%E7%B6%93%E6%BF%9F%E4%BB%A3%E5%83%B9",
+    "timestamp": "2026-09-05T19:25:15.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美軍反擊伊朗打中2油輪　司令：你若開火我便施更高經濟代價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172977860189622272270618.jpeg/r1taKZrBv9PcRZyY_kwns0lTDUTD__xFIRoRMQQaETE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387169/2-28%E5%84%84%E9%A0%AD%E7%8D%8E%E5%85%AD%E5%90%88%E5%BD%A9-50%E5%91%A8%E5%B9%B4%E9%87%91%E5%A4%9A%E5%AF%B6%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E4%BA%94%E5%A4%A7%E7%86%B1%E9%96%80%E8%99%9F%E7%A2%BC%E4%B8%80%E6%96%87%E7%9C%8B",
     "timestamp": "2026-09-05T11:17:02.588Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾泥石流｜憂傷父借錢尋子　翻山越嶺赴災區盼奇蹟：他能逃生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172977010197139456412573.jpeg/RAQyrbVHYe0QFaw91ldu3xhAkfVWFjZGRNM8PUTTPD0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387144/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%86%82%E5%82%B7%E7%88%B6%E5%80%9F%E9%8C%A2%E5%B0%8B%E5%AD%90-%E7%BF%BB%E5%B1%B1%E8%B6%8A%E5%B6%BA%E8%B5%B4%E7%81%BD%E5%8D%80%E7%9B%BC%E5%A5%87%E8%B9%9F-%E4%BB%96%E8%83%BD%E9%80%83%E7%94%9F",
-    "timestamp": "2026-09-05T10:53:21.084Z",
     "strategy": ".content-card__main"
   }
 ];
