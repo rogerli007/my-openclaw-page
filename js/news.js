@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T09:29:57.070Z
+// Last updated: 2026-09-05T09:42:39.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "elka鄭芷淇又一城快閃唱《洗腦歌》　名導何爵天爆MV秘密Casting",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172662479059161088957813.jpeg/B61GejvNJaKD6_mqKIYccBzt7b7lXe4OKE5WiihOVoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387002/elka%E9%84%AD%E8%8A%B7%E6%B7%87%E5%8F%88%E4%B8%80%E5%9F%8E%E5%BF%AB%E9%96%83%E5%94%B1-%E6%B4%97%E8%85%A6%E6%AD%8C-%E5%90%8D%E5%B0%8E%E4%BD%95%E7%88%B5%E5%A4%A9%E7%88%86mv%E7%A7%98%E5%AF%86casting",
+    "timestamp": "2026-09-05T09:42:39.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「科羅旺」拐彎　新颱風「杜鵑」或將生成　廣東未來3日天氣平穩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172657566707093504239671.jpeg/bgKLcsAXIipvTa7-JWpontF3lZPA5CFxPuBD7z7gQ-8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386099/9%E5%A4%A7%E8%80%81%E7%89%8C%E5%A5%B3%E6%98%9F%E6%BF%80%E7%BD%95%E5%90%8C%E6%A1%86-%E9%BB%8E%E7%87%95%E7%8F%8A%E6%A2%81%E5%B0%8F%E5%86%B0%E7%BE%85%E9%9C%96%E5%AD%AB%E4%BD%B3%E5%90%9B%E9%BD%8A%E8%81%9A%E9%A2%A8%E9%87%87%E4%BE%9D%E8%88%8A",
     "timestamp": "2026-09-05T00:43:37.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "證監據報上月搜查華泰金控辦公室　CEO也被問詢　涉個別客戶操作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058442269666840576071384.jpeg/O90aabkL9NaGQfAcapMK-Q9eMgSVZpB1pahAQqWoQEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387034/%E8%AD%89%E7%9B%A3%E6%93%9A%E5%A0%B1%E4%B8%8A%E6%9C%88%E6%90%9C%E6%9F%A5%E8%8F%AF%E6%B3%B0%E9%87%91%E6%8E%A7%E8%BE%A6%E5%85%AC%E5%AE%A4-ceo%E4%B9%9F%E8%A2%AB%E5%95%8F%E8%A9%A2-%E6%B6%89%E5%80%8B%E5%88%A5%E5%AE%A2%E6%88%B6%E6%93%8D%E4%BD%9C",
-    "timestamp": "2026-09-04T23:53:37.231Z",
     "strategy": ".content-card__main"
   }
 ];
