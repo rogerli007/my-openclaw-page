@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T04:53:25.279Z
+// Last updated: 2026-09-05T05:19:06.786Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玄戰｜預測今晚 2.28 億六合彩開彩冧巴  神John心水多單數",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172890344514129920254170.jpeg/uWmsF9Gdh5FY3GJON5Fz24gG9eD6j5mZPXgfVT14H1U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387079/%E7%8E%84%E6%88%B0-%E9%A0%90%E6%B8%AC%E4%BB%8A%E6%99%9A-2-28-%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E9%96%8B%E5%BD%A9%E5%86%A7%E5%B7%B4-%E7%A5%9Ejohn%E5%BF%83%E6%B0%B4%E5%A4%9A%E5%96%AE%E6%95%B8",
+    "timestamp": "2026-09-05T05:19:06.786Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國柴油零售價創歷史新高　推動供應鏈成本上漲　消費者壓力增加",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
     "timestamp": "2026-09-04T20:53:39.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
-    "timestamp": "2026-09-04T20:43:18.672Z",
     "strategy": ".content-card__main"
   }
 ];
