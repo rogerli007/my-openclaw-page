@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T12:25:24.856Z
+// Last updated: 2026-09-05T12:49:41.640Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國男困隧道10天獲救　稱見亮光就使勁喊：燈照到眼前時不敢相信",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1173007651252998144467512.png/7AAfwhz9WTBk-SFUSMrQhmUqSBijJmOZZPlYhGT5WIQ",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387177/%E4%B8%AD%E5%9C%8B%E7%94%B7%E5%9B%B0%E9%9A%A7%E9%81%9310%E5%A4%A9%E7%8D%B2%E6%95%91-%E7%A8%B1%E8%A6%8B%E4%BA%AE%E5%85%89%E5%B0%B1%E4%BD%BF%E5%8B%81%E5%96%8A-%E7%87%88%E7%85%A7%E5%88%B0%E7%9C%BC%E5%89%8D%E6%99%82%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1",
+    "timestamp": "2026-09-05T12:49:41.640Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DJ女神樂宜遭連環惡意恐嚇　接連收到恐怖「斷頭模型」包裹",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172890344514129920254170.jpeg/uWmsF9Gdh5FY3GJON5Fz24gG9eD6j5mZPXgfVT14H1U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387079/%E7%8E%84%E6%88%B0-%E9%A0%90%E6%B8%AC%E4%BB%8A%E6%99%9A-2-28-%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E9%96%8B%E5%BD%A9%E5%86%A7%E5%B7%B4-%E7%A5%9Ejohn%E5%BF%83%E6%B0%B4%E5%A4%9A%E5%96%AE%E6%95%B8",
     "timestamp": "2026-09-05T05:19:06.786Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國柴油零售價創歷史新高　推動供應鏈成本上漲　消費者壓力增加",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231030/795797449342980096045267.jpeg/2BENByc1iIcU0VamJwnhcWcGRcXqeIM-BWpBNAVqQTQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387077/%E7%BE%8E%E5%9C%8B%E6%9F%B4%E6%B2%B9%E9%9B%B6%E5%94%AE%E5%83%B9%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E6%8E%A8%E5%8B%95%E4%BE%9B%E6%87%89%E9%8F%88%E6%88%90%E6%9C%AC%E4%B8%8A%E6%BC%B2-%E6%B6%88%E8%B2%BB%E8%80%85%E5%A3%93%E5%8A%9B%E5%A2%9E%E5%8A%A0",
-    "timestamp": "2026-09-05T04:53:25.279Z",
     "strategy": ".content-card__main"
   }
 ];
