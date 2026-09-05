@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T16:30:16.198Z
+// Last updated: 2026-09-05T16:42:09.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜大坑勵德邨女童墮樓　昏迷送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173065371863748608257916.jpeg/rqYXwAE90FQ_Omzm_0gSlRL-e2CQ8j4tt8BDYI3AQ2A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387199/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9D%91%E5%8B%B5%E5%BE%B7%E9%82%A8%E5%A5%B3%E7%AB%A5%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-05T16:42:09.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜熱刺三戰未嘗一勝　作客森林靠VAR保住開季第一分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172934371783479296703926.jpeg/hBOYvNGax6rW-U5ecAz0jx5_kA9MCDH6a8RViWvEVYk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387117/%E7%A7%91%E7%BE%85%E6%97%BA-%E6%8B%90%E5%BD%8E-%E6%96%B0%E9%A2%B1%E9%A2%A8-%E6%9D%9C%E9%B5%91-%E6%88%96%E5%B0%87%E7%94%9F%E6%88%90-%E5%BB%A3%E6%9D%B1%E6%9C%AA%E4%BE%863%E6%97%A5%E5%A4%A9%E6%B0%A3%E5%B9%B3%E7%A9%A9",
     "timestamp": "2026-09-05T09:29:57.070Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大維修｜甯漢豪：部署全新服務支援法團和業主　目標年內推出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172940092013023232962051.jpeg/smX0_tmrczPqVuVFaBDhCyZeAZBmYvSj4AQLJuAECyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387128/%E5%A4%A7%E7%B6%AD%E4%BF%AE-%E7%94%AF%E6%BC%A2%E8%B1%AA-%E9%83%A8%E7%BD%B2%E5%85%A8%E6%96%B0%E6%9C%8D%E5%8B%99%E6%94%AF%E6%8F%B4%E6%B3%95%E5%9C%98%E5%92%8C%E6%A5%AD%E4%B8%BB-%E7%9B%AE%E6%A8%99%E5%B9%B4%E5%85%A7%E6%8E%A8%E5%87%BA",
-    "timestamp": "2026-09-05T09:19:09.781Z",
     "strategy": ".content-card__main"
   }
 ];
