@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T16:52:09.544Z
+// Last updated: 2026-09-05T17:15:59.105Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警「放蛇」中環去港島山頂　黑的司機索$350車資　涉4宗罪被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173071357739536384357462.jpeg/QeRUSaKsTkbltaz25K0FzU_fzNBVCQzIskFwuYhBcLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387203/%E8%AD%A6-%E6%94%BE%E8%9B%87-%E4%B8%AD%E7%92%B0%E5%8E%BB%E6%B8%AF%E5%B3%B6%E5%B1%B1%E9%A0%82-%E9%BB%91%E7%9A%84%E5%8F%B8%E6%A9%9F%E7%B4%A2-350%E8%BB%8A%E8%B3%87-%E6%B6%894%E5%AE%97%E7%BD%AA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-05T17:15:59.105Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜大坑勵德邨女童墮樓　昏迷送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172662479059161088957813.jpeg/B61GejvNJaKD6_mqKIYccBzt7b7lXe4OKE5WiihOVoo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387002/elka%E9%84%AD%E8%8A%B7%E6%B7%87%E5%8F%88%E4%B8%80%E5%9F%8E%E5%BF%AB%E9%96%83%E5%94%B1-%E6%B4%97%E8%85%A6%E6%AD%8C-%E5%90%8D%E5%B0%8E%E4%BD%95%E7%88%B5%E5%A4%A9%E7%88%86mv%E7%A7%98%E5%AF%86casting",
     "timestamp": "2026-09-05T09:54:10.600Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "elka鄭芷淇又一城快閃唱《洗腦歌》　名導何爵天爆MV秘密Casting",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172662479059161088957813.jpeg/B61GejvNJaKD6_mqKIYccBzt7b7lXe4OKE5WiihOVoo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387002/elka%E9%84%AD%E8%8A%B7%E6%B7%87%E5%8F%88%E4%B8%80%E5%9F%8E%E5%BF%AB%E9%96%83%E5%94%B1-%E6%B4%97%E8%85%A6%E6%AD%8C-%E5%90%8D%E5%B0%8E%E4%BD%95%E7%88%B5%E5%A4%A9%E7%88%86mv%E7%A7%98%E5%AF%86casting",
-    "timestamp": "2026-09-05T09:42:39.927Z",
     "strategy": ".content-card__main"
   }
 ];
