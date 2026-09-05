@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T01:17:22.653Z
+// Last updated: 2026-09-05T01:56:42.476Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《龍餐館》無劇透影評　旁觀者視角穿透中東　用一碗熱飯喚醒人性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172591259592691712821079.jpeg/yKUfPL2mGlqqcMzOd6sple3H1feViIEFA_Yw_wP2MP8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379673/%E9%BE%8D%E9%A4%90%E9%A4%A8-%E7%84%A1%E5%8A%87%E9%80%8F%E5%BD%B1%E8%A9%95-%E6%97%81%E8%A7%80%E8%80%85%E8%A6%96%E8%A7%92%E7%A9%BF%E9%80%8F%E4%B8%AD%E6%9D%B1-%E7%94%A8%E4%B8%80%E7%A2%97%E7%86%B1%E9%A3%AF%E5%96%9A%E9%86%92%E4%BA%BA%E6%80%A7",
+    "timestamp": "2026-09-05T01:56:42.476Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3姊弟遭父母獨留在家　肚餓報警求助　警員上門炒雞蛋麵餵飽獲讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E7%94%B7%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
     "timestamp": "2026-09-04T18:53:58.086Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜長沙灣過渡房屋男子燒炭　昏迷送院搶救回天乏術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E7%94%B7%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
-    "timestamp": "2026-09-04T18:43:55.480Z",
     "strategy": ".content-card__main"
   }
 ];
