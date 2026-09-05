@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T20:53:50.615Z
+// Last updated: 2026-09-05T21:19:13.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜銅鑼灣希慎道警察鐵馬亮閃燈　遭Tesla攔腰撞倒　影片曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173128384394301440245786.jpeg/zD4HQ73zZ82sVj1rR9K4w3zMHy0vq3lYK_5UYiv-VGI",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-09-05T21:19:13.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜銅鑼灣希慎道警察鐵馬亮閃燈　遭Tesla攔腰撞倒　影片曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172273437419245568421073.jpeg/DVNGgSCAAs-GSlMJMueYPML8humGGPFjSOrXK0jq1ys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387140/%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8%E5%AF%84%E5%87%BA-%E7%BE%8E%E5%9C%8B%E9%97%9C%E9%8D%B5%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8A%95%E7%A5%A8%E6%AD%A3%E5%BC%8F%E9%96%8B%E5%A7%8B",
     "timestamp": "2026-09-05T14:17:37.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港同志影展｜眾星撐開幕電影《滿地可人兒》《華麗絲煞列車》",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172953174579875840475981.jpeg/Au3cdDiVrVZp2TIhc_YmFYHHCRMZvu6qlrrxS5a68Us?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60387138/%E9%A6%99%E6%B8%AF%E5%90%8C%E5%BF%97%E5%BD%B1%E5%B1%95-%E7%9C%BE%E6%98%9F%E6%92%90%E9%96%8B%E5%B9%95%E9%9B%BB%E5%BD%B1-%E6%BB%BF%E5%9C%B0%E5%8F%AF%E4%BA%BA%E5%85%92-%E8%8F%AF%E9%BA%97%E7%B5%B2%E7%85%9E%E5%88%97%E8%BB%8A",
-    "timestamp": "2026-09-05T13:59:09.412Z",
     "strategy": ".content-card__main"
   }
 ];
