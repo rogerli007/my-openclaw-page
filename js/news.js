@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T06:49:34.173Z
+// Last updated: 2026-09-05T06:58:31.565Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼泊爾泥石流1342死　水電廠3A隧道救出2人後　搜救隊：再無發現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172916101575610368497156.jpeg/GTqr8NYIJB4Mm-K0qucnU6uZfcEH7jkXV_Qp8Vf0KfE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387094/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%811342%E6%AD%BB-%E6%B0%B4%E9%9B%BB%E5%BB%A03a%E9%9A%A7%E9%81%93%E6%95%91%E5%87%BA2%E4%BA%BA%E5%BE%8C-%E6%90%9C%E6%95%91%E9%9A%8A-%E5%86%8D%E7%84%A1%E7%99%BC%E7%8F%BE",
+    "timestamp": "2026-09-05T06:58:31.565Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼泊爾泥石流1342死　水電廠3A隧道救出2人後　搜救隊：再無發現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172540062059991040685902.png/XJZNdRjrt-E4DArWNjmH-8DnpyOGer_oQm5FakJuRWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376393/%E8%8B%B1%E8%A6%96%E9%9A%9C%E7%94%B7%E5%81%B7%E5%A5%B3%E5%8F%8B%E8%BB%8A%E9%86%89%E9%A7%95%E4%B8%8A%E9%AB%98%E9%80%9F-%E7%9B%B2%E9%A7%9B240%E5%85%AC%E9%87%8C%E7%84%A1%E7%A2%B0%E6%92%9E-%E9%9D%A0%E5%89%8D%E8%BB%8A%E7%87%88%E5%B0%8E%E8%88%AA",
     "timestamp": "2026-09-04T22:40:47.304Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜日間部分時間有陽光　市區氣溫最高31度　局部地區有驟雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172784869168648192794526.jpeg/fKPMgbU7ULYcvKM0cjz9oYifJ2IpNajPQBuoQXobqEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387027/%E5%A4%A9%E6%B0%A3-%E6%97%A5%E9%96%93%E9%83%A8%E5%88%86%E6%99%82%E9%96%93%E6%9C%89%E9%99%BD%E5%85%89-%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E6%9C%80%E9%AB%9831%E5%BA%A6-%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8",
-    "timestamp": "2026-09-04T22:18:33.785Z",
     "strategy": ".content-card__main"
   }
 ];
