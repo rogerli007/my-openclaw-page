@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T10:18:00.357Z
+// Last updated: 2026-09-05T10:31:39.499Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運會2026跳水｜香港運動員名單+賽程賽果+歷屆成績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172971496524484608341867.jpeg/jLmhoNFrW3yhw2FzUO_Dgt-H9NwoYgo28OsT8PDrE_A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387155/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E8%B7%B3%E6%B0%B4-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
+    "timestamp": "2026-09-05T10:31:39.499Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "莊思敏分享母親喪禮片遭網民批博流量　淚灑回應：唔係早拍晚播",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172853316837707776769512.jpeg/wNMGZOp6bMnjUUhxx412mCiBIbira8tc3IfzddyH83U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387050/%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E7%83%8F%E5%9C%8B%E5%AE%89%E5%B1%80%E7%B8%BD%E9%83%A8-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E4%BF%84%E6%96%B9%E7%9B%B4%E6%8E%A5%E7%9E%84%E6%BA%96%E5%B1%80%E9%95%B7%E8%BE%A6%E5%85%AC%E5%AE%A4",
     "timestamp": "2026-09-05T02:52:20.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《龍餐館》無劇透影評　旁觀者視角穿透中東　用一碗熱飯喚醒人性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172591259592691712821079.jpeg/yKUfPL2mGlqqcMzOd6sple3H1feViIEFA_Yw_wP2MP8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379673/%E9%BE%8D%E9%A4%90%E9%A4%A8-%E7%84%A1%E5%8A%87%E9%80%8F%E5%BD%B1%E8%A9%95-%E6%97%81%E8%A7%80%E8%80%85%E8%A6%96%E8%A7%92%E7%A9%BF%E9%80%8F%E4%B8%AD%E6%9D%B1-%E7%94%A8%E4%B8%80%E7%A2%97%E7%86%B1%E9%A3%AF%E5%96%9A%E9%86%92%E4%BA%BA%E6%80%A7",
-    "timestamp": "2026-09-05T01:56:42.476Z",
     "strategy": ".content-card__main"
   }
 ];
