@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T09:42:39.927Z
+// Last updated: 2026-09-05T09:54:10.600Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "elka鄭芷淇又一城快閃唱《洗腦歌》　名導何爵天爆MV秘密Casting",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172662479059161088957813.jpeg/B61GejvNJaKD6_mqKIYccBzt7b7lXe4OKE5WiihOVoo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387002/elka%E9%84%AD%E8%8A%B7%E6%B7%87%E5%8F%88%E4%B8%80%E5%9F%8E%E5%BF%AB%E9%96%83%E5%94%B1-%E6%B4%97%E8%85%A6%E6%AD%8C-%E5%90%8D%E5%B0%8E%E4%BD%95%E7%88%B5%E5%A4%A9%E7%88%86mv%E7%A7%98%E5%AF%86casting",
+    "timestamp": "2026-09-05T09:54:10.600Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "elka鄭芷淇又一城快閃唱《洗腦歌》　名導何爵天爆MV秘密Casting",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172247269118840832293187.png/hCAcoTyKW41Ddze-3yC0kqr7oGWAh5EmvCDttrwg7bY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60383489/3%E5%A7%8A%E5%BC%9F%E9%81%AD%E7%88%B6%E6%AF%8D%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E8%82%9A%E9%A4%93%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9-%E8%AD%A6%E5%93%A1%E4%B8%8A%E9%96%80%E7%82%92%E9%9B%9E%E8%9B%8B%E9%BA%B5%E9%A4%B5%E9%A3%BD%E7%8D%B2%E8%AE%9A",
     "timestamp": "2026-09-05T01:17:22.653Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "9大老牌女星激罕同框　黎燕珊梁小冰羅霖孫佳君齊聚風采依舊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172657566707093504239671.jpeg/bgKLcsAXIipvTa7-JWpontF3lZPA5CFxPuBD7z7gQ-8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386099/9%E5%A4%A7%E8%80%81%E7%89%8C%E5%A5%B3%E6%98%9F%E6%BF%80%E7%BD%95%E5%90%8C%E6%A1%86-%E9%BB%8E%E7%87%95%E7%8F%8A%E6%A2%81%E5%B0%8F%E5%86%B0%E7%BE%85%E9%9C%96%E5%AD%AB%E4%BD%B3%E5%90%9B%E9%BD%8A%E8%81%9A%E9%A2%A8%E9%87%87%E4%BE%9D%E8%88%8A",
-    "timestamp": "2026-09-05T00:43:37.793Z",
     "strategy": ".content-card__main"
   }
 ];
