@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T17:41:07.187Z
+// Last updated: 2026-09-05T18:21:26.832Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寶林邨父子房產問題爭執　兒子徒手施襲　父持鎅刀　兩父子被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173085985248907264734596.jpeg/VS-doAtY6DHu4DSizN0pjOFA0yIhOiwLkste7KjLXuw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387209/%E5%AF%B6%E6%9E%97%E9%82%A8%E7%88%B6%E5%AD%90%E6%88%BF%E7%94%A2%E5%95%8F%E9%A1%8C%E7%88%AD%E5%9F%B7-%E5%85%92%E5%AD%90%E5%BE%92%E6%89%8B%E6%96%BD%E8%A5%B2-%E7%88%B6%E6%8C%81%E9%8E%85%E5%88%80-%E5%85%A9%E7%88%B6%E5%AD%90%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-05T18:21:26.832Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警「放蛇」中環去港島山頂　黑的司機索$350車資　涉4宗罪被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172971496524484608341867.jpeg/jLmhoNFrW3yhw2FzUO_Dgt-H9NwoYgo28OsT8PDrE_A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387155/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E8%B7%B3%E6%B0%B4-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
     "timestamp": "2026-09-05T10:31:39.499Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莊思敏分享母親喪禮片遭網民批博流量　淚灑回應：唔係早拍晚播",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172968432233091072375194.jpeg/FVE85eaWkdd6b3eSAXbBXF5yPr11UG_G0FWGk-VVhpM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387157/%E8%8E%8A%E6%80%9D%E6%95%8F%E5%88%86%E4%BA%AB%E6%AF%8D%E8%A6%AA%E5%96%AA%E7%A6%AE%E7%89%87%E9%81%AD%E7%B6%B2%E6%B0%91%E6%89%B9%E5%8D%9A%E6%B5%81%E9%87%8F-%E6%B7%9A%E7%81%91%E5%9B%9E%E6%87%89-%E5%94%94%E4%BF%82%E6%97%A9%E6%8B%8D%E6%99%9A%E6%92%AD",
-    "timestamp": "2026-09-05T10:18:00.357Z",
     "strategy": ".content-card__main"
   }
 ];
