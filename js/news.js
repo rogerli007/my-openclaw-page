@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T20:40:54.566Z
+// Last updated: 2026-09-05T20:53:50.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜銅鑼灣希慎道警察鐵馬亮閃燈　遭Tesla攔腰撞倒　影片曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173128384394301440245786.jpeg/zD4HQ73zZ82sVj1rR9K4w3zMHy0vq3lYK_5UYiv-VGI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-09-05T20:53:50.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔隧道出口　綿羊仔疑天雨路滑自炒撞欄　鐵騎士昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172953174579875840475981.jpeg/Au3cdDiVrVZp2TIhc_YmFYHHCRMZvu6qlrrxS5a68Us?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60387138/%E9%A6%99%E6%B8%AF%E5%90%8C%E5%BF%97%E5%BD%B1%E5%B1%95-%E7%9C%BE%E6%98%9F%E6%92%90%E9%96%8B%E5%B9%95%E9%9B%BB%E5%BD%B1-%E6%BB%BF%E5%9C%B0%E5%8F%AF%E4%BA%BA%E5%85%92-%E8%8F%AF%E9%BA%97%E7%B5%B2%E7%85%9E%E5%88%97%E8%BB%8A",
     "timestamp": "2026-09-05T13:59:09.412Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊梓菁甲狀腺上眼已康復停藥　單親湊仔感激家人：全力Support",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172993011718557696396012.jpeg/Fo6plOnHMzZSYkwQd9K_U4lk94AZFF1glA4GW6EOBls?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387170/%E6%A5%8A%E6%A2%93%E8%8F%81%E7%94%B2%E7%8B%80%E8%85%BA%E4%B8%8A%E7%9C%BC%E5%B7%B2%E5%BA%B7%E5%BE%A9%E5%81%9C%E8%97%A5-%E5%96%AE%E8%A6%AA%E6%B9%8A%E4%BB%94%E6%84%9F%E6%BF%80%E5%AE%B6%E4%BA%BA-%E5%85%A8%E5%8A%9Bsupport",
-    "timestamp": "2026-09-05T13:40:46.024Z",
     "strategy": ".content-card__main"
   }
 ];
