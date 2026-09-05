@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T08:43:48.581Z
+// Last updated: 2026-09-05T09:19:09.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大維修｜甯漢豪：部署全新服務支援法團和業主　目標年內推出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172940092013023232962051.jpeg/smX0_tmrczPqVuVFaBDhCyZeAZBmYvSj4AQLJuAECyY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387128/%E5%A4%A7%E7%B6%AD%E4%BF%AE-%E7%94%AF%E6%BC%A2%E8%B1%AA-%E9%83%A8%E7%BD%B2%E5%85%A8%E6%96%B0%E6%9C%8D%E5%8B%99%E6%94%AF%E6%8F%B4%E6%B3%95%E5%9C%98%E5%92%8C%E6%A5%AD%E4%B8%BB-%E7%9B%AE%E6%A8%99%E5%B9%B4%E5%85%A7%E6%8E%A8%E5%87%BA",
+    "timestamp": "2026-09-05T09:19:09.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國承諾Nvidia晶片供應　促成亞美尼亞與阿塞拜疆初步和平協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172622405495951360681594.jpeg/V1WPFCKOZv75lOl8Zz9J7ahs8_WJsoY8p_zB46f8weM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387031/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D-%E5%87%BA%E5%8F%A3%E8%A1%93-%E7%A8%B1%E5%A2%9E%E9%95%B7%E4%B8%8D%E6%9C%83%E5%B0%8E%E8%87%B4%E9%80%9A%E8%84%B9-%E7%BE%8E%E6%87%89%E7%B6%AD%E6%8C%81%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E%E5%88%A9%E7%8E%87",
     "timestamp": "2026-09-04T23:37:36.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普再「出口術」　稱增長不會導致通脹　美應維持全球最低利率",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172622405495951360681594.jpeg/V1WPFCKOZv75lOl8Zz9J7ahs8_WJsoY8p_zB46f8weM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387031/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D-%E5%87%BA%E5%8F%A3%E8%A1%93-%E7%A8%B1%E5%A2%9E%E9%95%B7%E4%B8%8D%E6%9C%83%E5%B0%8E%E8%87%B4%E9%80%9A%E8%84%B9-%E7%BE%8E%E6%87%89%E7%B6%AD%E6%8C%81%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E%E5%88%A9%E7%8E%87",
-    "timestamp": "2026-09-04T23:28:15.374Z",
     "strategy": ".content-card__main"
   }
 ];
