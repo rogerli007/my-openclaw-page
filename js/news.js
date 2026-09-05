@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T09:54:10.600Z
+// Last updated: 2026-09-05T10:18:00.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "莊思敏分享母親喪禮片遭網民批博流量　淚灑回應：唔係早拍晚播",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172968432233091072375194.jpeg/FVE85eaWkdd6b3eSAXbBXF5yPr11UG_G0FWGk-VVhpM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387157/%E8%8E%8A%E6%80%9D%E6%95%8F%E5%88%86%E4%BA%AB%E6%AF%8D%E8%A6%AA%E5%96%AA%E7%A6%AE%E7%89%87%E9%81%AD%E7%B6%B2%E6%B0%91%E6%89%B9%E5%8D%9A%E6%B5%81%E9%87%8F-%E6%B7%9A%E7%81%91%E5%9B%9E%E6%87%89-%E5%94%94%E4%BF%82%E6%97%A9%E6%8B%8D%E6%99%9A%E6%92%AD",
+    "timestamp": "2026-09-05T10:18:00.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "elka鄭芷淇又一城快閃唱《洗腦歌》　名導何爵天爆MV秘密Casting",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172591259592691712821079.jpeg/yKUfPL2mGlqqcMzOd6sple3H1feViIEFA_Yw_wP2MP8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60379673/%E9%BE%8D%E9%A4%90%E9%A4%A8-%E7%84%A1%E5%8A%87%E9%80%8F%E5%BD%B1%E8%A9%95-%E6%97%81%E8%A7%80%E8%80%85%E8%A6%96%E8%A7%92%E7%A9%BF%E9%80%8F%E4%B8%AD%E6%9D%B1-%E7%94%A8%E4%B8%80%E7%A2%97%E7%86%B1%E9%A3%AF%E5%96%9A%E9%86%92%E4%BA%BA%E6%80%A7",
     "timestamp": "2026-09-05T01:56:42.476Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3姊弟遭父母獨留在家　肚餓報警求助　警員上門炒雞蛋麵餵飽獲讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172247269118840832293187.png/hCAcoTyKW41Ddze-3yC0kqr7oGWAh5EmvCDttrwg7bY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60383489/3%E5%A7%8A%E5%BC%9F%E9%81%AD%E7%88%B6%E6%AF%8D%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E8%82%9A%E9%A4%93%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9-%E8%AD%A6%E5%93%A1%E4%B8%8A%E9%96%80%E7%82%92%E9%9B%9E%E8%9B%8B%E9%BA%B5%E9%A4%B5%E9%A3%BD%E7%8D%B2%E8%AE%9A",
-    "timestamp": "2026-09-05T01:17:22.653Z",
     "strategy": ".content-card__main"
   }
 ];
