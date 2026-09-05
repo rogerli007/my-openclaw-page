@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-04T23:53:37.231Z
+// Last updated: 2026-09-05T00:43:37.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "9大老牌女星激罕同框　黎燕珊梁小冰羅霖孫佳君齊聚風采依舊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172657566707093504239671.jpeg/bgKLcsAXIipvTa7-JWpontF3lZPA5CFxPuBD7z7gQ-8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386099/9%E5%A4%A7%E8%80%81%E7%89%8C%E5%A5%B3%E6%98%9F%E6%BF%80%E7%BD%95%E5%90%8C%E6%A1%86-%E9%BB%8E%E7%87%95%E7%8F%8A%E6%A2%81%E5%B0%8F%E5%86%B0%E7%BE%85%E9%9C%96%E5%AD%AB%E4%BD%B3%E5%90%9B%E9%BD%8A%E8%81%9A%E9%A2%A8%E9%87%87%E4%BE%9D%E8%88%8A",
+    "timestamp": "2026-09-05T00:43:37.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "證監據報上月搜查華泰金控辦公室　CEO也被問詢　涉個別客戶操作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172724701106016256049176.jpeg/6wPG0z-0ImYyxOwXqvzVehXDJgJxm8pQnhwzgKQcM4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387017/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%9C%9F%E7%93%9C%E7%81%A3%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A9%8B%E8%B7%8C%E8%90%BD%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-04T18:22:16.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "銀行發現400宗非接觸式流動支付服務騙案　金管局接獲報告籲提防",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172715012708372480045713.jpeg/jzh1sPkdO3rwwP0kgc3f4BVw64oSkpvo85DEFvOQxBY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387014/%E9%8A%80%E8%A1%8C%E7%99%BC%E7%8F%BE400%E5%AE%97%E9%9D%9E%E6%8E%A5%E8%A7%B8%E5%BC%8F%E6%B5%81%E5%8B%95%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8B%99%E9%A8%99%E6%A1%88-%E9%87%91%E7%AE%A1%E5%B1%80%E6%8E%A5%E7%8D%B2%E5%A0%B1%E5%91%8A%E7%B1%B2%E6%8F%90%E9%98%B2",
-    "timestamp": "2026-09-04T17:51:36.923Z",
     "strategy": ".content-card__main"
   }
 ];
