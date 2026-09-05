@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T11:17:02.588Z
+// Last updated: 2026-09-05T11:53:38.956Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Netflix早春晴朗｜孫千求婚遭井柏然拒絕　網民封：史詩級鬼一集",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172971956564135936471652.png/1R4XHo-XP4mvC1KXDzeBa-AJfHLgcJYXvwOBrL8Dgaw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60387141/netflix%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E5%AD%AB%E5%8D%83%E6%B1%82%E5%A9%9A%E9%81%AD%E4%BA%95%E6%9F%8F%E7%84%B6%E6%8B%92%E7%B5%95-%E7%B6%B2%E6%B0%91%E5%B0%81-%E5%8F%B2%E8%A9%A9%E7%B4%9A%E9%AC%BC%E4%B8%80%E9%9B%86",
+    "timestamp": "2026-09-05T11:53:38.956Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2.28億頭獎六合彩｜50周年金多寶今晚攪珠　五大熱門號碼一文看",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231030/795797449342980096045267.jpeg/2BENByc1iIcU0VamJwnhcWcGRcXqeIM-BWpBNAVqQTQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387077/%E7%BE%8E%E5%9C%8B%E6%9F%B4%E6%B2%B9%E9%9B%B6%E5%94%AE%E5%83%B9%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E6%8E%A8%E5%8B%95%E4%BE%9B%E6%87%89%E9%8F%88%E6%88%90%E6%9C%AC%E4%B8%8A%E6%BC%B2-%E6%B6%88%E8%B2%BB%E8%80%85%E5%A3%93%E5%8A%9B%E5%A2%9E%E5%8A%A0",
     "timestamp": "2026-09-05T04:43:44.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "縮班殺校｜蔡若蓮指學齡人口跌十年內不會逆轉　籲各方面對現實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171403151014629376248679.jpeg/pBcNs7_-6dNgaH0GEBlgckVhoRh8XxwabhX980sV_fM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387064/%E7%B8%AE%E7%8F%AD%E6%AE%BA%E6%A0%A1-%E8%94%A1%E8%8B%A5%E8%93%AE%E6%8C%87%E5%AD%B8%E9%BD%A1%E4%BA%BA%E5%8F%A3%E8%B7%8C%E5%8D%81%E5%B9%B4%E5%85%A7%E4%B8%8D%E6%9C%83%E9%80%86%E8%BD%89-%E7%B1%B2%E5%90%84%E6%96%B9%E9%9D%A2%E5%B0%8D%E7%8F%BE%E5%AF%A6",
-    "timestamp": "2026-09-05T04:23:29.865Z",
     "strategy": ".content-card__main"
   }
 ];
