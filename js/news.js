@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T23:16:44.652Z
+// Last updated: 2026-09-05T23:26:29.175Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "塞爾維亞總統武契奇獲黨推舉選總理　將辭去總統職務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148887741069529088907634.jpeg/Kfh2Ikzu-MdAXirEdasHgulI_79DSFwkWyRZrFskWaw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387224/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B8%BD%E7%B5%B1%E6%AD%A6%E5%A5%91%E5%A5%87%E7%8D%B2%E9%BB%A8%E6%8E%A8%E8%88%89%E9%81%B8%E7%B8%BD%E7%90%86-%E5%B0%87%E8%BE%AD%E5%8E%BB%E7%B8%BD%E7%B5%B1%E8%81%B7%E5%8B%99",
+    "timestamp": "2026-09-05T23:26:29.175Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國初創火箭首入軌　歐洲躋身衛星發射競賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173071357739536384357462.jpeg/QeRUSaKsTkbltaz25K0FzU_fzNBVCQzIskFwuYhBcLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387203/%E8%AD%A6-%E6%94%BE%E8%9B%87-%E4%B8%AD%E7%92%B0%E5%8E%BB%E6%B8%AF%E5%B3%B6%E5%B1%B1%E9%A0%82-%E9%BB%91%E7%9A%84%E5%8F%B8%E6%A9%9F%E7%B4%A2-350%E8%BB%8A%E8%B3%87-%E6%B6%894%E5%AE%97%E7%BD%AA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-05T17:41:07.187Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警「放蛇」中環去港島山頂　黑的司機索$350車資　涉4宗罪被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173071357739536384357462.jpeg/QeRUSaKsTkbltaz25K0FzU_fzNBVCQzIskFwuYhBcLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387203/%E8%AD%A6-%E6%94%BE%E8%9B%87-%E4%B8%AD%E7%92%B0%E5%8E%BB%E6%B8%AF%E5%B3%B6%E5%B1%B1%E9%A0%82-%E9%BB%91%E7%9A%84%E5%8F%B8%E6%A9%9F%E7%B4%A2-350%E8%BB%8A%E8%B3%87-%E6%B6%894%E5%AE%97%E7%BD%AA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-05T17:15:59.105Z",
     "strategy": ".content-card__main"
   }
 ];
