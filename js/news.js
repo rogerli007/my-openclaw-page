@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T12:49:41.640Z
+// Last updated: 2026-09-05T13:40:46.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊梓菁甲狀腺上眼已康復停藥　單親湊仔感激家人：全力Support",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172993011718557696396012.jpeg/Fo6plOnHMzZSYkwQd9K_U4lk94AZFF1glA4GW6EOBls?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387170/%E6%A5%8A%E6%A2%93%E8%8F%81%E7%94%B2%E7%8B%80%E8%85%BA%E4%B8%8A%E7%9C%BC%E5%B7%B2%E5%BA%B7%E5%BE%A9%E5%81%9C%E8%97%A5-%E5%96%AE%E8%A6%AA%E6%B9%8A%E4%BB%94%E6%84%9F%E6%BF%80%E5%AE%B6%E4%BA%BA-%E5%85%A8%E5%8A%9Bsupport",
+    "timestamp": "2026-09-05T13:40:46.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國男困隧道10天獲救　稱見亮光就使勁喊：燈照到眼前時不敢相信",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172894484581584896390781.jpeg/5doKh1LdLabxHbAh-jFzDvVUSOPt0MyKjgGQiI4BkIg",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387076/%E8%BB%8Acam-tesla%E8%A1%9D%E5%89%8D%E6%94%9D%E5%85%A5%E5%85%A9%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E6%98%8F%E8%BF%B7-%E9%80%94%E7%B6%93%E8%AD%A63%E5%88%86%E9%90%98%E4%BA%BA%E5%B7%A5%E5%91%BC%E5%90%B8%E6%80%A5%E6%95%91",
     "timestamp": "2026-09-05T05:31:19.124Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玄戰｜預測今晚 2.28 億六合彩開彩冧巴  神John心水多單數",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172890344514129920254170.jpeg/uWmsF9Gdh5FY3GJON5Fz24gG9eD6j5mZPXgfVT14H1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387079/%E7%8E%84%E6%88%B0-%E9%A0%90%E6%B8%AC%E4%BB%8A%E6%99%9A-2-28-%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E9%96%8B%E5%BD%A9%E5%86%A7%E5%B7%B4-%E7%A5%9Ejohn%E5%BF%83%E6%B0%B4%E5%A4%9A%E5%96%AE%E6%95%B8",
-    "timestamp": "2026-09-05T05:19:06.786Z",
     "strategy": ".content-card__main"
   }
 ];
