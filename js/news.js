@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T10:31:39.499Z
+// Last updated: 2026-09-05T10:37:17.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福士汽車文件披露：德國工廠每架車成本是中國4倍　工人時薪差5倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172966745942528000124863.jpeg/LQCWfmtwU6oBkOXgXRZsOkNZqzsSTQ_XGVJztBlSc7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387151/%E7%A6%8F%E5%A3%AB%E6%B1%BD%E8%BB%8A%E6%96%87%E4%BB%B6%E6%8A%AB%E9%9C%B2-%E5%BE%B7%E5%9C%8B%E5%B7%A5%E5%BB%A0%E6%AF%8F%E6%9E%B6%E8%BB%8A%E6%88%90%E6%9C%AC%E6%98%AF%E4%B8%AD%E5%9C%8B4%E5%80%8D-%E5%B7%A5%E4%BA%BA%E6%99%82%E8%96%AA%E5%B7%AE5%E5%80%8D",
+    "timestamp": "2026-09-05T10:37:17.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運會2026跳水｜香港運動員名單+賽程賽果+歷屆成績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172867320029122560951746.jpeg/JHnFMeMGsIdjUPmJrlz4q28gvMNeq-t4PcMB2D3DAdg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387063/%E5%8C%97%E8%A7%92%E6%9D%B1%E5%8D%80%E8%B5%B0%E5%BB%8A%E5%85%A9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%9B%B8%E6%92%9E-%E4%B8%80%E5%8F%B8%E6%A9%9F%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E5%BE%80%E4%B8%AD%E7%92%B0%E4%BA%A4%E9%80%9A%E5%8F%97%E9%98%BB",
     "timestamp": "2026-09-05T03:23:27.855Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯無人機襲烏國安局總部　澤連斯基：俄方直接瞄準局長辦公室",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172853316837707776769512.jpeg/wNMGZOp6bMnjUUhxx412mCiBIbira8tc3IfzddyH83U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387050/%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E7%83%8F%E5%9C%8B%E5%AE%89%E5%B1%80%E7%B8%BD%E9%83%A8-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E4%BF%84%E6%96%B9%E7%9B%B4%E6%8E%A5%E7%9E%84%E6%BA%96%E5%B1%80%E9%95%B7%E8%BE%A6%E5%85%AC%E5%AE%A4",
-    "timestamp": "2026-09-05T02:52:20.597Z",
     "strategy": ".content-card__main"
   }
 ];
