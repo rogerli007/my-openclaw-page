@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T14:29:18.412Z
+// Last updated: 2026-09-05T14:40:54.385Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神配對計劃2｜59歲大隻Rocky鄭健樂搵真愛　自爆曾戀26歲女友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1173002365721120768018763.jpeg/k1S0rCgZ0NNy-xSfd9sgbZhAB6B4llyAuiR3qrokd6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387174/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-59%E6%AD%B2%E5%A4%A7%E9%9A%BBrocky%E9%84%AD%E5%81%A5%E6%A8%82%E6%90%B5%E7%9C%9F%E6%84%9B-%E8%87%AA%E7%88%86%E6%9B%BE%E6%88%8026%E6%AD%B2%E5%A5%B3%E5%8F%8B",
+    "timestamp": "2026-09-05T14:40:54.385Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神配對計劃2｜59歲大隻Rocky鄭健樂搵真愛　自爆曾戀26歲女友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172545746671636480361728.jpeg/2vfwOR4AWEJlwdt4w8VScg87uVEbwuks23wWBtt8FgY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387099/%E7%BE%8E%E5%9C%8B%E8%88%AA%E6%AF%8D%E6%9E%97%E8%82%AF%E8%99%9F%E6%8A%B5%E9%81%94%E6%B3%B0%E5%9C%8B-%E5%85%A9%E6%B0%B4%E5%85%B5%E6%B6%89%E9%86%89%E9%85%92%E9%AC%A7%E4%BA%8B-%E9%81%AD%E9%81%A3%E8%BF%94%E8%89%A6%E4%B8%8A",
     "timestamp": "2026-09-05T07:30:21.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾泥石流1342死　水電廠3A隧道救出2人後　搜救隊：再無發現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172916101575610368497156.jpeg/GTqr8NYIJB4Mm-K0qucnU6uZfcEH7jkXV_Qp8Vf0KfE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387094/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%811342%E6%AD%BB-%E6%B0%B4%E9%9B%BB%E5%BB%A03a%E9%9A%A7%E9%81%93%E6%95%91%E5%87%BA2%E4%BA%BA%E5%BE%8C-%E6%90%9C%E6%95%91%E9%9A%8A-%E5%86%8D%E7%84%A1%E7%99%BC%E7%8F%BE",
-    "timestamp": "2026-09-05T06:58:31.565Z",
     "strategy": ".content-card__main"
   }
 ];
