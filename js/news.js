@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T01:56:42.476Z
+// Last updated: 2026-09-05T02:52:20.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯無人機襲烏國安局總部　澤連斯基：俄方直接瞄準局長辦公室",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172853316837707776769512.jpeg/wNMGZOp6bMnjUUhxx412mCiBIbira8tc3IfzddyH83U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387050/%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E7%83%8F%E5%9C%8B%E5%AE%89%E5%B1%80%E7%B8%BD%E9%83%A8-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E4%BF%84%E6%96%B9%E7%9B%B4%E6%8E%A5%E7%9E%84%E6%BA%96%E5%B1%80%E9%95%B7%E8%BE%A6%E5%85%AC%E5%AE%A4",
+    "timestamp": "2026-09-05T02:52:20.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《龍餐館》無劇透影評　旁觀者視角穿透中東　用一碗熱飯喚醒人性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
     "timestamp": "2026-09-04T19:15:49.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜長沙灣過渡房屋男子燒炭　昏迷送院搶救回天乏術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172732426196094976372648.jpeg/5Qv6qRBzrOem6dzTMtxj8TZvcAVVP65OmC4X-pguF_o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387021/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%95%B7%E6%B2%99%E7%81%A3%E9%81%8E%E6%B8%A1%E6%88%BF%E5%B1%8B%E7%94%B7%E5%AD%90%E7%87%92%E7%82%AD-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93",
-    "timestamp": "2026-09-04T18:53:58.086Z",
     "strategy": ".content-card__main"
   }
 ];
