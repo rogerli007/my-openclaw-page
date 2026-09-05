@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T18:21:26.832Z
+// Last updated: 2026-09-05T18:53:24.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薏仁綠豆沙做法｜功效清熱消水腫＋簡易2招極速「開花」起沙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997587742693003264523104.jpeg/tBA-B8ECK9FUL2KAjeDXuBo5jcLawvZSLc4obS3OKG0",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387211/%E7%B3%96%E6%B0%B4%E9%A3%9F%E8%AD%9C-%E8%96%8F%E4%BB%81%E7%B6%A0%E8%B1%86%E6%B2%99%E6%B6%88%E6%9A%91%E6%B6%88%E6%B0%B4%E8%85%AB-%E7%B0%A1%E6%98%93%E5%85%A9%E6%8B%9B%E6%A5%B5%E9%80%9F-%E9%96%8B%E8%8A%B1-%E8%B5%B7%E6%B2%99",
+    "timestamp": "2026-09-05T18:53:24.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寶林邨父子房產問題爭執　兒子徒手施襲　父持鎅刀　兩父子被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172966745942528000124863.jpeg/LQCWfmtwU6oBkOXgXRZsOkNZqzsSTQ_XGVJztBlSc7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387151/%E7%A6%8F%E5%A3%AB%E6%B1%BD%E8%BB%8A%E6%96%87%E4%BB%B6%E6%8A%AB%E9%9C%B2-%E5%BE%B7%E5%9C%8B%E5%B7%A5%E5%BB%A0%E6%AF%8F%E6%9E%B6%E8%BB%8A%E6%88%90%E6%9C%AC%E6%98%AF%E4%B8%AD%E5%9C%8B4%E5%80%8D-%E5%B7%A5%E4%BA%BA%E6%99%82%E8%96%AA%E5%B7%AE5%E5%80%8D",
     "timestamp": "2026-09-05T10:37:17.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026跳水｜香港運動員名單+賽程賽果+歷屆成績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172971496524484608341867.jpeg/jLmhoNFrW3yhw2FzUO_Dgt-H9NwoYgo28OsT8PDrE_A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387155/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E8%B7%B3%E6%B0%B4-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
-    "timestamp": "2026-09-05T10:31:39.499Z",
     "strategy": ".content-card__main"
   }
 ];
