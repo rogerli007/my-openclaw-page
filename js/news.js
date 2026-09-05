@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T04:43:44.470Z
+// Last updated: 2026-09-05T04:53:25.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國柴油零售價創歷史新高　推動供應鏈成本上漲　消費者壓力增加",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231030/795797449342980096045267.jpeg/2BENByc1iIcU0VamJwnhcWcGRcXqeIM-BWpBNAVqQTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387077/%E7%BE%8E%E5%9C%8B%E6%9F%B4%E6%B2%B9%E9%9B%B6%E5%94%AE%E5%83%B9%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E6%8E%A8%E5%8B%95%E4%BE%9B%E6%87%89%E9%8F%88%E6%88%90%E6%9C%AC%E4%B8%8A%E6%BC%B2-%E6%B6%88%E8%B2%BB%E8%80%85%E5%A3%93%E5%8A%9B%E5%A2%9E%E5%8A%A0",
+    "timestamp": "2026-09-05T04:53:25.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國柴油零售價創歷史新高　推動供應鏈成本上漲　消費者壓力增加",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
     "timestamp": "2026-09-04T20:43:18.672Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "被指暫停與加拿大反壟斷合作　美國司法部：不實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387025/%E8%A2%AB%E6%8C%87%E6%9A%AB%E5%81%9C%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%90%88%E4%BD%9C-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8-%E4%B8%8D%E5%AF%A6",
-    "timestamp": "2026-09-04T20:32:29.090Z",
     "strategy": ".content-card__main"
   }
 ];
