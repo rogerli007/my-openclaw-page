@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T01:55:13.298Z
+// Last updated: 2026-09-06T02:27:10.642Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玉桂山老翁行山昏迷　直升機吊起送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173213138644897792175382.jpeg/HLES2hs784bLK1WAi_vNp4B2xOG_9VWjVXRbZFV0W2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387230/%E7%8E%89%E6%A1%82%E5%B1%B1%E8%80%81%E7%BF%81%E8%A1%8C%E5%B1%B1%E6%98%8F%E8%BF%B7-%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%90%8A%E8%B5%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-09-06T02:27:10.642Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中加軍方時隔8年重啟防務對話　表達加強兩軍務實交流合作意願",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173114190315917312521907.jpeg/FeCrAdYHNNMA44l7qe-sQC-uuc4FUfcwEG9j_ypvY_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387216/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3-%E7%B6%BF%E7%BE%8A%E4%BB%94%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-05T19:53:20.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍反擊伊朗打中2油輪　司令：你若開火我便施更高經濟代價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172963087020462080904861.png/S13nvQT-7WdvuIdFqpa7tk_LedLNWOgVoYz-8KGM_vA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387214/%E7%BE%8E%E8%BB%8D%E5%8F%8D%E6%93%8A%E4%BC%8A%E6%9C%97%E6%89%93%E4%B8%AD2%E6%B2%B9%E8%BC%AA-%E5%8F%B8%E4%BB%A4-%E4%BD%A0%E8%8B%A5%E9%96%8B%E7%81%AB%E6%88%91%E4%BE%BF%E6%96%BD%E6%9B%B4%E9%AB%98%E7%B6%93%E6%BF%9F%E4%BB%A3%E5%83%B9",
-    "timestamp": "2026-09-05T19:25:15.306Z",
     "strategy": ".content-card__main"
   }
 ];
