@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T14:41:12.792Z
+// Last updated: 2026-09-06T14:50:18.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林盛斌旗下藝人42歲生日開P排場勁　獲四代港姐冠軍包圍「加冕」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173318152189120512139567.png/_hsVRaZPHmJrxnVyLUQL83VgjiZnikN4M5qCkTOagpE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387318/%E5%8A%89%E6%99%A8%E8%8A%9D42%E6%AD%B2%E7%94%9F%E6%97%A5%E9%96%8Bp%E6%8E%92%E5%A0%B4%E5%8B%81-%E7%8D%B2%E5%9B%9B%E4%BB%A3%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%8C%85%E5%9C%8D-%E5%8A%A0%E5%86%95",
+    "timestamp": "2026-09-06T14:50:18.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林盛斌旗下藝人42歲生日開P排場勁　獲四代港姐冠軍包圍「加冕」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173316604750991360275409.jpeg/3ZnnOz2LiK1vA9bSPoFlS2bpaKmx2EVz57gT-ee4E_k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387319/chiikawa%E6%8B%89%E9%BA%B5%E5%BA%97%E7%B5%90%E6%A5%AD-%E6%B7%B1%E5%9C%B3%E6%97%85%E5%AE%A2%E6%9C%80%E5%BE%8C%E5%85%89%E9%A1%A7-%E5%8F%AA%E6%B1%82%E6%89%93%E5%8D%A1%E4%B8%8D%E4%BB%8B%E6%84%8F%E9%A3%9F%E8%A9%95%E6%99%AE%E9%80%9A",
     "timestamp": "2026-09-06T09:42:21.183Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球．中國賽「香港打吡」吳英倫挫李卓耀　男單包辦冠亞創歷史",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173246172395999232476903.jpeg/Xntu0ut6teo-JkmyWcPkg6oFnw_wKDGTCr_F5Qq_xeU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387263/%E7%BE%BD%E6%AF%9B%E7%90%83-%E4%B8%AD%E5%9C%8B%E8%B3%BD-%E9%A6%99%E6%B8%AF%E6%89%93%E5%90%A1-%E5%90%B3%E8%8B%B1%E5%80%AB%E6%8C%AB%E6%9D%8E%E5%8D%93%E8%80%80-%E7%94%B7%E5%96%AE%E5%8C%85%E8%BE%A6%E5%86%A0%E4%BA%9E%E5%89%B5%E6%AD%B7%E5%8F%B2",
-    "timestamp": "2026-09-06T09:31:56.249Z",
     "strategy": ".content-card__main"
   }
 ];
