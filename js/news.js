@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T16:43:06.943Z
+// Last updated: 2026-09-06T16:54:50.333Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳懿德拒認羅天宇是兔仔被食住　麥玲玲讚上等姻緣：希望好事近啦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173398232034709504451987.jpeg/KkDGDQrrxJkEYFbbDacaOlp6AIVYJwewcSi7gUsou4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387374/%E9%99%B3%E6%87%BF%E5%BE%B7%E6%8B%92%E8%AA%8D%E7%BE%85%E5%A4%A9%E5%AE%87%E6%98%AF%E5%85%94%E4%BB%94%E8%A2%AB%E9%A3%9F%E4%BD%8F-%E9%BA%A5%E7%8E%B2%E7%8E%B2%E8%AE%9A%E4%B8%8A%E7%AD%89%E5%A7%BB%E7%B7%A3-%E5%B8%8C%E6%9C%9B%E5%A5%BD%E4%BA%8B%E8%BF%91%E5%95%A6",
+    "timestamp": "2026-09-06T16:54:50.333Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳懿德拒認羅天宇是兔仔被食住　麥玲玲讚上等姻緣：希望好事近啦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173327125160136704235647.jpeg/i6zbYwNU6jy0cIF-ugKW4OdZrKIfO9oQ3K5IvPauSLw?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60387338/%E7%81%A3%E4%BB%94-%E6%A2%B3%E5%8C%96%E5%80%89-%E5%91%BB%E8%A2%AB%E6%A3%9A%E6%9E%B6-%E6%B4%BB%E5%9F%8B-%E7%B5%90%E6%A5%AD-%E5%BA%97%E5%93%A1%E7%88%86%E6%98%AF%E5%99%B1%E9%A0%AD%E6%83%9F%E7%A2%BA%E5%B0%91%E4%B8%89%E6%88%90%E5%AE%A2",
     "timestamp": "2026-09-06T10:54:01.550Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港姐冠軍盧淑儀為上山詩鈉慶生　52歲凍齡美貌撞樣郭羨妮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173307815217860608605287.jpeg/hK_MZbnoFLXon8ffajhawjXokuRylXe89Q0NY_UNDWM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387300/%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E7%9B%A7%E6%B7%91%E5%84%80%E7%82%BA%E4%B8%8A%E5%B1%B1%E8%A9%A9%E9%88%89%E6%85%B6%E7%94%9F-52%E6%AD%B2%E5%87%8D%E9%BD%A1%E7%BE%8E%E8%B2%8C%E6%92%9E%E6%A8%A3%E9%83%AD%E7%BE%A8%E5%A6%AE",
-    "timestamp": "2026-09-06T10:40:50.721Z",
     "strategy": ".content-card__main"
   }
 ];
