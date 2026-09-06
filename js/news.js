@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T14:15:23.902Z
+// Last updated: 2026-09-06T14:28:49.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥玲玲梅分析梅啟明面相複雜　指其有想法勸家和萬事興：見好就收",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173367190330544128941870.jpeg/uEl54blf6-D2L5mLAaW_xPARh1Zl_S7OKeGdIinhnSI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387367/%E9%BA%A5%E7%8E%B2%E7%8E%B2%E6%A2%85%E5%88%86%E6%9E%90%E6%A2%85%E5%95%9F%E6%98%8E%E9%9D%A2%E7%9B%B8%E8%A4%87%E9%9B%9C-%E6%8C%87%E5%85%B6%E6%9C%89%E6%83%B3%E6%B3%95%E5%8B%B8%E5%AE%B6%E5%92%8C%E8%90%AC%E4%BA%8B%E8%88%88-%E8%A6%8B%E5%A5%BD%E5%B0%B1%E6%94%B6",
+    "timestamp": "2026-09-06T14:28:49.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謊稱協助採購復必泰疫苗詐騙2.3億　台｢疫苗掮客｣潛逃香港遭通緝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173316441663868928102467.jpeg/PAfYzCE2eaR-JLX0Wjy40CIFuzbkBnM5PLb3gDy294A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387323/%E6%94%BF%E5%BA%9C%E7%A9%BA%E9%96%93%E6%95%B8%E6%93%9A%E6%87%89%E7%94%A8%E6%93%B4%E8%87%B3%E7%A4%BE%E7%A6%8F%E5%8F%8A%E9%81%A0%E8%B6%B3-%E6%98%8E%E5%B9%B4%E6%8E%A5%E5%85%A5ai%E5%B9%B3%E5%8F%B0%E5%8F%AF%E6%90%9C%E7%BE%85%E6%94%BF%E5%BA%9C%E6%95%B8%E6%93%9A",
     "timestamp": "2026-09-06T09:19:33.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "叡璟I連續三輪沽清　連招標累售482伙套45.6億　2期已取預售文件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173310474553397248167893.jpeg/VcvjrVtb9zloXB7bwaS_k9bEE87Wf8UK4XfM9OF3zPQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60387315/%E5%8F%A1%E7%92%9Fi%E9%80%A3%E7%BA%8C%E4%B8%89%E8%BC%AA%E6%B2%BD%E6%B8%85-%E9%80%A3%E6%8B%9B%E6%A8%99%E7%B4%AF%E5%94%AE482%E4%BC%99%E5%A5%9745-6%E5%84%84-2%E6%9C%9F%E5%B7%B2%E5%8F%96%E9%A0%90%E5%94%AE%E6%96%87%E4%BB%B6",
-    "timestamp": "2026-09-06T08:54:00.491Z",
     "strategy": ".content-card__main"
   }
 ];
