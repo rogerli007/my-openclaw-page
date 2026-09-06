@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T16:54:50.333Z
+// Last updated: 2026-09-06T17:16:21.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美特使訪烏晤澤連斯基　討論冬季援助、戰後保障及冀重啟三方和談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173435561856602112495816.jpeg/Cfr1wH4Iaq6ZZ7fVqCVlSe1apmJQiCGU3nadkN52nZA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387398/%E7%BE%8E%E7%89%B9%E4%BD%BF%E8%A8%AA%E7%83%8F%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E8%A8%8E%E8%AB%96%E5%86%AC%E5%AD%A3%E6%8F%B4%E5%8A%A9-%E6%88%B0%E5%BE%8C%E4%BF%9D%E9%9A%9C%E5%8F%8A%E5%86%80%E9%87%8D%E5%95%9F%E4%B8%89%E6%96%B9%E5%92%8C%E8%AB%87",
+    "timestamp": "2026-09-06T17:16:21.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳懿德拒認羅天宇是兔仔被食住　麥玲玲讚上等姻緣：希望好事近啦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173345885896052736316428.jpeg/BqVdXKT_4EI-0-1aNCroNSsRo0GWOPmkgcJlzYHCZc0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387358/%E5%B8%8C%E6%85%8E%E9%81%93tesla%E6%92%9E%E9%90%B5%E9%A6%AC-%E8%AD%A6-%E4%BA%A4%E8%AD%A6%E6%81%90%E6%93%A0%E5%A1%9E%E9%98%BB%E7%B7%8A%E6%80%A5%E6%9C%8D%E5%8B%99-%E4%BA%AE%E8%AD%A6%E7%A4%BA%E7%87%88%E9%80%86%E7%B7%9A%E9%A7%9B%E5%85%A5",
     "timestamp": "2026-09-06T11:17:25.290Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "灣仔「梳化倉」呻被棚架「活埋」結業　店員爆是噱頭惟確少三成客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173327125160136704235647.jpeg/i6zbYwNU6jy0cIF-ugKW4OdZrKIfO9oQ3K5IvPauSLw?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60387338/%E7%81%A3%E4%BB%94-%E6%A2%B3%E5%8C%96%E5%80%89-%E5%91%BB%E8%A2%AB%E6%A3%9A%E6%9E%B6-%E6%B4%BB%E5%9F%8B-%E7%B5%90%E6%A5%AD-%E5%BA%97%E5%93%A1%E7%88%86%E6%98%AF%E5%99%B1%E9%A0%AD%E6%83%9F%E7%A2%BA%E5%B0%91%E4%B8%89%E6%88%90%E5%AE%A2",
-    "timestamp": "2026-09-06T10:54:01.550Z",
     "strategy": ".content-card__main"
   }
 ];
