@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T19:40:59.169Z
+// Last updated: 2026-09-06T19:53:25.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔45歲男子機舖內遭4漢持木棍施襲　警反三合會行動組跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387408/%E5%A4%A7%E5%9F%9445%E6%AD%B2%E7%94%B7%E5%AD%90%E6%A9%9F%E8%88%96%E5%85%A7%E9%81%AD4%E6%BC%A2%E6%8C%81%E6%9C%A8%E6%A3%8D%E6%96%BD%E8%A5%B2-%E8%AD%A6%E5%8F%8D%E4%B8%89%E5%90%88%E6%9C%83%E8%A1%8C%E5%8B%95%E7%B5%84%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-09-06T19:53:25.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔45歲男子機舖內遭4漢持木棍施襲　警反三合會行動組跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173331470639435776187943.jpeg/2lDsvf_Uw6ZMrD8t1kvhKaIA-r6GpSX3C_rrwwv668M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387344/%E9%8D%BE%E6%AC%A3%E6%BD%BC%E8%A5%BF%E8%A3%9D%E7%9C%BC%E9%8F%A1look%E6%9B%AC%E5%BE%A1%E5%A7%90%E6%B0%A3%E5%A0%B4-%E4%B8%80%E5%80%8B%E7%9C%BC%E7%A5%9E%E9%9B%BB%E6%9A%88%E7%B6%B2%E6%B0%91-%E5%91%BD%E9%83%BD%E7%95%80%E5%9F%8B%E4%BD%A0",
     "timestamp": "2026-09-06T13:27:27.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美小學課堂設專屬「放屁角」　學生免舉手自由排氣　網民反應兩極",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172240689015033856196372.png/6jAFwjZxc0pT-1l58jnBbydiG7YfypbfSOqmy0jqpss?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385599/%E7%BE%8E%E5%B0%8F%E5%AD%B8%E8%AA%B2%E5%A0%82%E8%A8%AD%E5%B0%88%E5%B1%AC-%E6%94%BE%E5%B1%81%E8%A7%92-%E5%AD%B8%E7%94%9F%E5%85%8D%E8%88%89%E6%89%8B%E8%87%AA%E7%94%B1%E6%8E%92%E6%B0%A3-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5",
-    "timestamp": "2026-09-06T13:14:29.605Z",
     "strategy": ".content-card__main"
   }
 ];
