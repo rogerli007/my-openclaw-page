@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T00:53:53.357Z
+// Last updated: 2026-09-06T01:36:16.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本欲參與超遠程空戰？國防預算洩端倪　ASM-3可威脅中國預警機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171875862568505344708324.png/wsesKgubUg47wuVBo6S0Y6RpQjGvFuCkqcJehKnCXoQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60386225/%E6%97%A5%E6%9C%AC%E6%AC%B2%E5%8F%83%E8%88%87%E8%B6%85%E9%81%A0%E7%A8%8B%E7%A9%BA%E6%88%B0-%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E6%B4%A9%E7%AB%AF%E5%80%AA-asm-3%E5%8F%AF%E5%A8%81%E8%84%85%E4%B8%AD%E5%9C%8B%E9%A0%90%E8%AD%A6%E6%A9%9F",
+    "timestamp": "2026-09-06T01:36:16.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「翻版苟芸慧」苦讀7年獲港大PCLL錄取　曾涉官非離巢絕跡娛圈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172963087020462080904861.png/S13nvQT-7WdvuIdFqpa7tk_LedLNWOgVoYz-8KGM_vA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387214/%E7%BE%8E%E8%BB%8D%E5%8F%8D%E6%93%8A%E4%BC%8A%E6%9C%97%E6%89%93%E4%B8%AD2%E6%B2%B9%E8%BC%AA-%E5%8F%B8%E4%BB%A4-%E4%BD%A0%E8%8B%A5%E9%96%8B%E7%81%AB%E6%88%91%E4%BE%BF%E6%96%BD%E6%9B%B4%E9%AB%98%E7%B6%93%E6%BF%9F%E4%BB%A3%E5%83%B9",
     "timestamp": "2026-09-05T19:15:21.663Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薏仁綠豆沙做法｜功效清熱消水腫＋簡易2招極速「開花」起沙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997587742693003264523104.jpeg/tBA-B8ECK9FUL2KAjeDXuBo5jcLawvZSLc4obS3OKG0",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387211/%E7%B3%96%E6%B0%B4%E9%A3%9F%E8%AD%9C-%E8%96%8F%E4%BB%81%E7%B6%A0%E8%B1%86%E6%B2%99%E6%B6%88%E6%9A%91%E6%B6%88%E6%B0%B4%E8%85%AB-%E7%B0%A1%E6%98%93%E5%85%A9%E6%8B%9B%E6%A5%B5%E9%80%9F-%E9%96%8B%E8%8A%B1-%E8%B5%B7%E6%B2%99",
-    "timestamp": "2026-09-05T18:53:24.939Z",
     "strategy": ".content-card__main"
   }
 ];
