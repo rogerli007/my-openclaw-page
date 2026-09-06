@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T05:54:52.058Z
+// Last updated: 2026-09-06T06:29:07.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遊日注意｜科羅旺沖繩兜圈後移向日本本洲　天文台料周三登陸四國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173271073274204160504281.png/hPCjWdbFdf_2y5hE3GMlwjJ2gCzfx0U9WfXsj1n17I8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387271/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E7%A7%91%E7%BE%85%E6%97%BA%E6%B2%96%E7%B9%A9%E5%85%9C%E5%9C%88%E5%BE%8C%E7%A7%BB%E5%90%91%E6%97%A5%E6%9C%AC%E6%9C%AC%E6%B4%B2-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E4%B8%89%E7%99%BB%E9%99%B8%E5%9B%9B%E5%9C%8B",
+    "timestamp": "2026-09-06T06:29:07.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利羅馬鬥獸場周邊治安惡化　劃定「紅色區域」保障遊客安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173145715476533248528347.png/iID15j_8-H7D7BMATGdUjSKyiJAbhPNFnK0SLJytEiw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
     "timestamp": "2026-09-05T22:15:05.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜銅鑼灣希慎道警察鐵馬亮閃燈　遭Tesla攔腰撞倒　影片曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173145715476533248528347.png/iID15j_8-H7D7BMATGdUjSKyiJAbhPNFnK0SLJytEiw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-09-05T21:50:07.354Z",
     "strategy": ".content-card__main"
   }
 ];
