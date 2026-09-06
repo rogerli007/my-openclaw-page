@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T16:30:11.468Z
+// Last updated: 2026-09-06T16:43:06.943Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳懿德拒認羅天宇是兔仔被食住　麥玲玲讚上等姻緣：希望好事近啦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173398232034709504451987.jpeg/KkDGDQrrxJkEYFbbDacaOlp6AIVYJwewcSi7gUsou4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387374/%E9%99%B3%E6%87%BF%E5%BE%B7%E6%8B%92%E8%AA%8D%E7%BE%85%E5%A4%A9%E5%AE%87%E6%98%AF%E5%85%94%E4%BB%94%E8%A2%AB%E9%A3%9F%E4%BD%8F-%E9%BA%A5%E7%8E%B2%E7%8E%B2%E8%AE%9A%E4%B8%8A%E7%AD%89%E5%A7%BB%E7%B7%A3-%E5%B8%8C%E6%9C%9B%E5%A5%BD%E4%BA%8B%E8%BF%91%E5%95%A6",
+    "timestamp": "2026-09-06T16:43:06.943Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼聯作客兩度領先　愛華頓補時階段勁射破網追和2：2",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173307815217860608605287.jpeg/hK_MZbnoFLXon8ffajhawjXokuRylXe89Q0NY_UNDWM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387300/%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E7%9B%A7%E6%B7%91%E5%84%80%E7%82%BA%E4%B8%8A%E5%B1%B1%E8%A9%A9%E9%88%89%E6%85%B6%E7%94%9F-52%E6%AD%B2%E5%87%8D%E9%BD%A1%E7%BE%8E%E8%B2%8C%E6%92%9E%E6%A8%A3%E9%83%AD%E7%BE%A8%E5%A6%AE",
     "timestamp": "2026-09-06T10:40:50.721Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅淑佩鍾情港產IP《功夫三腳貓》　透露是養貓之人｜政壇諸事町",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173332128751423488082753.jpeg/jb6sGxFrrNfGLj7XVI4ibwOdpU5UX1WdHHywFRx8sBU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387339/%E7%BE%85%E6%B7%91%E4%BD%A9%E9%8D%BE%E6%83%85%E6%B8%AF%E7%94%A2ip-%E5%8A%9F%E5%A4%AB%E4%B8%89%E8%85%B3%E8%B2%93-%E9%80%8F%E9%9C%B2%E6%98%AF%E9%A4%8A%E8%B2%93%E4%B9%8B%E4%BA%BA-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
-    "timestamp": "2026-09-06T10:30:07.047Z",
     "strategy": ".content-card__main"
   }
 ];
