@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T13:41:11.311Z
+// Last updated: 2026-09-06T13:54:32.711Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國特使訪烏晤澤連斯基　據報英法德國家安全顧問同日亦抵基輔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173379366260838400751042.jpeg/-mbNQ_VxkdEV6CTekWFWa_WQVf4jFsHWCA9pMwgPaTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387373/%E7%BE%8E%E5%9C%8B%E7%89%B9%E4%BD%BF%E8%A8%AA%E7%83%8F%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%93%9A%E5%A0%B1%E8%8B%B1%E6%B3%95%E5%BE%B7%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A1%A7%E5%95%8F%E5%90%8C%E6%97%A5%E4%BA%A6%E6%8A%B5%E5%9F%BA%E8%BC%94",
+    "timestamp": "2026-09-06T13:54:32.711Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》十周年｜葉劉、海關關長是忠實讀者！陳子達勉為民發聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220916/647511405137760256273198.jpeg/G6nnSVvbn1GinpMEN_2l3_gYkaYQHi5HqpzWG6qc1hs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387313/%E9%86%89%E9%9B%9E%E5%81%9A%E6%B3%95-%E6%B5%B8%E9%86%89%E9%9B%9E%E8%8B%A6%E6%BE%80%E5%9A%A1%E5%8F%A32%E5%A4%A7%E9%97%9C%E9%8D%B5%E5%81%9A%E9%8C%AF-%E5%B0%88%E5%AE%B6%E6%95%99%E5%8A%A01%E7%A8%AE%E6%B0%B4%E6%9E%9C%E6%8F%90%E9%A6%99%E5%8E%BB%E8%8B%A6",
     "timestamp": "2026-09-06T08:43:50.019Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國人壽集團將獲財政部注資350億：增強穩健經營和風險抵禦能力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173303038463447040180237.jpeg/DMOeDQbTWkzD_NLEKiwaq7fkPNK0RXone3WbEXt1mxE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387306/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%A3%BD%E9%9B%86%E5%9C%98%E5%B0%87%E7%8D%B2%E8%B2%A1%E6%94%BF%E9%83%A8%E6%B3%A8%E8%B3%87350%E5%84%84-%E5%A2%9E%E5%BC%B7%E7%A9%A9%E5%81%A5%E7%B6%93%E7%87%9F%E5%92%8C%E9%A2%A8%E9%9A%AA%E6%8A%B5%E7%A6%A6%E8%83%BD%E5%8A%9B",
-    "timestamp": "2026-09-06T08:20:47.241Z",
     "strategy": ".content-card__main"
   }
 ];
