@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T13:14:29.605Z
+// Last updated: 2026-09-06T13:27:27.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾欣潼西裝眼鏡Look曬御姐氣場　一個眼神電暈網民：命都畀埋你！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173331470639435776187943.jpeg/2lDsvf_Uw6ZMrD8t1kvhKaIA-r6GpSX3C_rrwwv668M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387344/%E9%8D%BE%E6%AC%A3%E6%BD%BC%E8%A5%BF%E8%A3%9D%E7%9C%BC%E9%8F%A1look%E6%9B%AC%E5%BE%A1%E5%A7%90%E6%B0%A3%E5%A0%B4-%E4%B8%80%E5%80%8B%E7%9C%BC%E7%A5%9E%E9%9B%BB%E6%9A%88%E7%B6%B2%E6%B0%91-%E5%91%BD%E9%83%BD%E7%95%80%E5%9F%8B%E4%BD%A0",
+    "timestamp": "2026-09-06T13:27:27.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美小學課堂設專屬「放屁角」　學生免舉手自由排氣　網民反應兩極",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173295309959204864341826.png/uNvk5Bbq6yPQNnWNGy8SBkTG2HE4BFAEG80zjBvNM4w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387302/%E4%BF%84%E9%81%A0%E6%9D%B1%E5%9F%8E%E5%B8%82%E7%AB%8B%E6%8A%97%E6%97%A5%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E5%83%8F-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A6%81%E6%B1%82%E7%A7%BB%E9%99%A4-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-09-06T07:53:34.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "早春晴朗線上看分集劇情｜最新更新時間/追劇日曆+演員關係圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171111324793442304320764.jpeg/HdKYWAwHAtXwVFeXvvDrFG6-NAsrvtQm76tGre-rRq0?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382498/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%88%86%E9%9B%86%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96",
-    "timestamp": "2026-09-06T07:24:08.643Z",
     "strategy": ".content-card__main"
   }
 ];
