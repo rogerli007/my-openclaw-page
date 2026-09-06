@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T12:45:26.496Z
+// Last updated: 2026-09-06T13:14:29.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美小學課堂設專屬「放屁角」　學生免舉手自由排氣　網民反應兩極",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172240689015033856196372.png/6jAFwjZxc0pT-1l58jnBbydiG7YfypbfSOqmy0jqpss?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385599/%E7%BE%8E%E5%B0%8F%E5%AD%B8%E8%AA%B2%E5%A0%82%E8%A8%AD%E5%B0%88%E5%B1%AC-%E6%94%BE%E5%B1%81%E8%A7%92-%E5%AD%B8%E7%94%9F%E5%85%8D%E8%88%89%E6%89%8B%E8%87%AA%E7%94%B1%E6%8E%92%E6%B0%A3-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5",
+    "timestamp": "2026-09-06T13:14:29.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "民主剛果婚宴會場起火　至少22死多人傷｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171111324793442304320764.jpeg/HdKYWAwHAtXwVFeXvvDrFG6-NAsrvtQm76tGre-rRq0?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60382498/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%88%86%E9%9B%86%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96",
     "timestamp": "2026-09-06T07:24:08.643Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遊日注意｜科羅旺沖繩兜圈後移向日本本洲　天文台料周三登陸四國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173271073274204160504281.png/hPCjWdbFdf_2y5hE3GMlwjJ2gCzfx0U9WfXsj1n17I8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387271/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E7%A7%91%E7%BE%85%E6%97%BA%E6%B2%96%E7%B9%A9%E5%85%9C%E5%9C%88%E5%BE%8C%E7%A7%BB%E5%90%91%E6%97%A5%E6%9C%AC%E6%9C%AC%E6%B4%B2-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E4%B8%89%E7%99%BB%E9%99%B8%E5%9B%9B%E5%9C%8B",
-    "timestamp": "2026-09-06T06:29:07.443Z",
     "strategy": ".content-card__main"
   }
 ];
