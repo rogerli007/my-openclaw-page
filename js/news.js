@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T15:54:01.452Z
+// Last updated: 2026-09-06T16:30:11.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼聯作客兩度領先　愛華頓補時階段勁射破網追和2：2",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173424808822575104584129.png/Ul5iGkAZZ4Ews4bMbV9LyPa4-7-Pp7a9x9PQ0sfT0NI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387391/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%E5%85%A9%E5%BA%A6%E9%A0%98%E5%85%88-%E6%84%9B%E8%8F%AF%E9%A0%93%E8%A3%9C%E6%99%82%E9%9A%8E%E6%AE%B5%E5%8B%81%E5%B0%84%E7%A0%B4%E7%B6%B2%E8%BF%BD%E5%92%8C2-2",
+    "timestamp": "2026-09-06T16:30:11.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳美齡三姊妹罕有合體歎下午茶　凍齡外貌搶Fo位位背景猛料勁顯赫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173332128751423488082753.jpeg/jb6sGxFrrNfGLj7XVI4ibwOdpU5UX1WdHHywFRx8sBU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387339/%E7%BE%85%E6%B7%91%E4%BD%A9%E9%8D%BE%E6%83%85%E6%B8%AF%E7%94%A2ip-%E5%8A%9F%E5%A4%AB%E4%B8%89%E8%85%B3%E8%B2%93-%E9%80%8F%E9%9C%B2%E6%98%AF%E9%A4%8A%E8%B2%93%E4%B9%8B%E4%BA%BA-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
     "timestamp": "2026-09-06T10:30:07.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "China GT上海站賽車炒車後起火　車隊怒斥救援不力宣佈退賽｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173332815882752000526341.png/CAQa-mHdiB2McnqGZeYc_ciHIxxf561yfF8ZM3xfGTM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387327/china-gt%E4%B8%8A%E6%B5%B7%E7%AB%99%E8%B3%BD%E8%BB%8A%E7%82%92%E8%BB%8A%E5%BE%8C%E8%B5%B7%E7%81%AB-%E8%BB%8A%E9%9A%8A%E6%80%92%E6%96%A5%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%E5%AE%A3%E4%BD%88%E9%80%80%E8%B3%BD-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-06T10:17:56.434Z",
     "strategy": ".content-card__main"
   }
 ];
