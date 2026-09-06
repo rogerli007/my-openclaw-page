@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T12:25:44.114Z
+// Last updated: 2026-09-06T12:45:26.496Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "民主剛果婚宴會場起火　至少22死多人傷｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173333819516784640541862.png/-q3Hs6I_yD6FN7JNwd-eT1gdbHhah0-BUOOnPFDjpzw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387347/%E6%B0%91%E4%B8%BB%E5%89%9B%E6%9E%9C%E5%A9%9A%E5%AE%B4%E6%9C%83%E5%A0%B4%E8%B5%B7%E7%81%AB-%E8%87%B3%E5%B0%9122%E6%AD%BB%E5%A4%9A%E4%BA%BA%E5%82%B7-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-06T12:45:26.496Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "破邊洲預約制｜實施次日1430人預約　再逾半人「甩底」僅660人到",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173271073274204160504281.png/hPCjWdbFdf_2y5hE3GMlwjJ2gCzfx0U9WfXsj1n17I8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387271/%E9%81%8A%E6%97%A5%E6%B3%A8%E6%84%8F-%E7%A7%91%E7%BE%85%E6%97%BA%E6%B2%96%E7%B9%A9%E5%85%9C%E5%9C%88%E5%BE%8C%E7%A7%BB%E5%90%91%E6%97%A5%E6%9C%AC%E6%9C%AC%E6%B4%B2-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E4%B8%89%E7%99%BB%E9%99%B8%E5%9B%9B%E5%9C%8B",
     "timestamp": "2026-09-06T06:29:07.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利羅馬鬥獸場周邊治安惡化　劃定「紅色區域」保障遊客安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051266258210656256450387.jpeg/Na2i7wneMHJTsZgFX7eDLglwoZgemjXS-YqtnPmKrZw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387252/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%85%E9%A6%AC%E9%AC%A5%E7%8D%B8%E5%A0%B4%E5%91%A8%E9%82%8A%E6%B2%BB%E5%AE%89%E6%83%A1%E5%8C%96-%E5%8A%83%E5%AE%9A-%E7%B4%85%E8%89%B2%E5%8D%80%E5%9F%9F-%E4%BF%9D%E9%9A%9C%E9%81%8A%E5%AE%A2%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-09-06T05:54:52.058Z",
     "strategy": ".content-card__main"
   }
 ];
