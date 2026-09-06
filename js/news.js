@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T18:54:31.138Z
+// Last updated: 2026-09-06T19:26:43.555Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "求職騙局冒充拯救貓狗協會賣旗　協會感痛心：籌備半年善心被利用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173458415247167488381520.jpeg/rn2sKHhM9pxoq52imwl7ELCeMUjTG9tpYOkW80rpFvM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387405/%E6%B1%82%E8%81%B7%E9%A8%99%E5%B1%80%E5%86%92%E5%85%85%E6%8B%AF%E6%95%91%E8%B2%93%E7%8B%97%E5%8D%94%E6%9C%83%E8%B3%A3%E6%97%97-%E5%8D%94%E6%9C%83%E6%84%9F%E7%97%9B%E5%BF%83-%E7%B1%8C%E5%82%99%E5%8D%8A%E5%B9%B4%E5%96%84%E5%BF%83%E8%A2%AB%E5%88%A9%E7%94%A8",
+    "timestamp": "2026-09-06T19:26:43.555Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運會2026水球｜香港運動員名單+賽程賽果+歷屆成績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173333819516784640541862.png/-q3Hs6I_yD6FN7JNwd-eT1gdbHhah0-BUOOnPFDjpzw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387347/%E6%B0%91%E4%B8%BB%E5%89%9B%E6%9E%9C%E5%A9%9A%E5%AE%B4%E6%9C%83%E5%A0%B4%E8%B5%B7%E7%81%AB-%E8%87%B3%E5%B0%9122%E6%AD%BB%E5%A4%9A%E4%BA%BA%E5%82%B7-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-06T12:45:26.496Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "破邊洲預約制｜實施次日1430人預約　再逾半人「甩底」僅660人到",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240221/837051379800346624786312.jpeg/KHep5CNP0n2pIRqtGFmTCCmw8aRXfxOdp1qlLKdapSw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387366/%E7%A0%B4%E9%82%8A%E6%B4%B2%E9%A0%90%E7%B4%84%E5%88%B6-%E5%AF%A6%E6%96%BD%E6%AC%A1%E6%97%A51430%E4%BA%BA%E9%A0%90%E7%B4%84-%E5%86%8D%E9%80%BE%E5%8D%8A%E4%BA%BA-%E7%94%A9%E5%BA%95-%E5%83%85660%E4%BA%BA%E5%88%B0",
-    "timestamp": "2026-09-06T12:25:44.114Z",
     "strategy": ".content-card__main"
   }
 ];
