@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T19:26:43.555Z
+// Last updated: 2026-09-06T19:40:59.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔45歲男子機舖內遭4漢持木棍施襲　警反三合會行動組跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387408/%E5%A4%A7%E5%9F%9445%E6%AD%B2%E7%94%B7%E5%AD%90%E6%A9%9F%E8%88%96%E5%85%A7%E9%81%AD4%E6%BC%A2%E6%8C%81%E6%9C%A8%E6%A3%8D%E6%96%BD%E8%A5%B2-%E8%AD%A6%E5%8F%8D%E4%B8%89%E5%90%88%E6%9C%83%E8%A1%8C%E5%8B%95%E7%B5%84%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-09-06T19:40:59.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "求職騙局冒充拯救貓狗協會賣旗　協會感痛心：籌備半年善心被利用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172240689015033856196372.png/6jAFwjZxc0pT-1l58jnBbydiG7YfypbfSOqmy0jqpss?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385599/%E7%BE%8E%E5%B0%8F%E5%AD%B8%E8%AA%B2%E5%A0%82%E8%A8%AD%E5%B0%88%E5%B1%AC-%E6%94%BE%E5%B1%81%E8%A7%92-%E5%AD%B8%E7%94%9F%E5%85%8D%E8%88%89%E6%89%8B%E8%87%AA%E7%94%B1%E6%8E%92%E6%B0%A3-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5",
     "timestamp": "2026-09-06T13:14:29.605Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "民主剛果婚宴會場起火　至少22死多人傷｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173333819516784640541862.png/-q3Hs6I_yD6FN7JNwd-eT1gdbHhah0-BUOOnPFDjpzw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387347/%E6%B0%91%E4%B8%BB%E5%89%9B%E6%9E%9C%E5%A9%9A%E5%AE%B4%E6%9C%83%E5%A0%B4%E8%B5%B7%E7%81%AB-%E8%87%B3%E5%B0%9122%E6%AD%BB%E5%A4%9A%E4%BA%BA%E5%82%B7-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-06T12:45:26.496Z",
     "strategy": ".content-card__main"
   }
 ];
