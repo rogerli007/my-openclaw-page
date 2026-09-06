@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T09:42:21.183Z
+// Last updated: 2026-09-06T09:58:11.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外傭六成薪金匯回鄉月剩$2000　組織倡增外傭最低工資至$6172",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173320377183506432351786.jpeg/R9GsOjxD4G7m6caQ0QX0R__NssjhjJOkle2VcLztlXA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387322/%E5%A4%96%E5%82%AD%E5%85%AD%E6%88%90%E8%96%AA%E9%87%91%E5%8C%AF%E5%9B%9E%E9%84%89%E6%9C%88%E5%89%A9-2000-%E7%B5%84%E7%B9%94%E5%80%A1%E5%A2%9E%E5%A4%96%E5%82%AD%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B3%87%E8%87%B3-6172",
+    "timestamp": "2026-09-06T09:58:11.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Chiikawa拉麵店結業｜深圳旅客最後光顧　只求打卡不介意食評普通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240827/905199202923974656029851.jpeg/OpMvpecv0jTaTmtM5SndFZMMiD-6eCIYOtW_IDrVvyA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387228/%E4%B8%AD%E5%8A%A0%E8%BB%8D%E6%96%B9%E6%99%82%E9%9A%948%E5%B9%B4%E9%87%8D%E5%95%9F%E9%98%B2%E5%8B%99%E5%B0%8D%E8%A9%B1-%E8%A1%A8%E9%81%94%E5%8A%A0%E5%BC%B7%E5%85%A9%E8%BB%8D%E5%8B%99%E5%AF%A6%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C%E6%84%8F%E9%A1%98",
     "timestamp": "2026-09-06T01:55:13.298Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本欲參與超遠程空戰？國防預算洩端倪　ASM-3可威脅中國預警機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171875862568505344708324.png/wsesKgubUg47wuVBo6S0Y6RpQjGvFuCkqcJehKnCXoQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60386225/%E6%97%A5%E6%9C%AC%E6%AC%B2%E5%8F%83%E8%88%87%E8%B6%85%E9%81%A0%E7%A8%8B%E7%A9%BA%E6%88%B0-%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E6%B4%A9%E7%AB%AF%E5%80%AA-asm-3%E5%8F%AF%E5%A8%81%E8%84%85%E4%B8%AD%E5%9C%8B%E9%A0%90%E8%AD%A6%E6%A9%9F",
-    "timestamp": "2026-09-06T01:36:16.884Z",
     "strategy": ".content-card__main"
   }
 ];
