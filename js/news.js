@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T02:46:19.732Z
+// Last updated: 2026-09-06T02:55:13.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗擬對以色列發動「10.7式」襲擊　計劃與代理人發動多線攻擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260726/1158130962530308096542638.jpeg/57al301x4x7YlOU6-FZpYE4kteu6mGjRbuBdb27gXW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387236/%E4%BC%8A%E6%9C%97%E6%93%AC%E5%B0%8D%E4%BB%A5%E8%89%B2%E5%88%97%E7%99%BC%E5%8B%95-10-7%E5%BC%8F-%E8%A5%B2%E6%93%8A-%E8%A8%88%E5%8A%83%E8%88%87%E4%BB%A3%E7%90%86%E4%BA%BA%E7%99%BC%E5%8B%95%E5%A4%9A%E7%B7%9A%E6%94%BB%E6%93%8A",
+    "timestamp": "2026-09-06T02:55:13.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "扮睇手機掩人耳目　黑衣男入深圳褲帶藏自製大麻煙　羅湖海關攔截",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173114190315917312521907.jpeg/FeCrAdYHNNMA44l7qe-sQC-uuc4FUfcwEG9j_ypvY_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387216/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3-%E7%B6%BF%E7%BE%8A%E4%BB%94%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-05T20:29:58.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港仔隧道出口　綿羊仔疑天雨路滑自炒撞欄　鐵騎士昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173114190315917312521907.jpeg/FeCrAdYHNNMA44l7qe-sQC-uuc4FUfcwEG9j_ypvY_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387216/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3-%E7%B6%BF%E7%BE%8A%E4%BB%94%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-05T20:18:36.941Z",
     "strategy": ".content-card__main"
   }
 ];
