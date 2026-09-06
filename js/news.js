@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T05:42:35.133Z
+// Last updated: 2026-09-06T05:54:52.058Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利羅馬鬥獸場周邊治安惡化　劃定「紅色區域」保障遊客安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051266258210656256450387.jpeg/Na2i7wneMHJTsZgFX7eDLglwoZgemjXS-YqtnPmKrZw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387252/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%85%E9%A6%AC%E9%AC%A5%E7%8D%B8%E5%A0%B4%E5%91%A8%E9%82%8A%E6%B2%BB%E5%AE%89%E6%83%A1%E5%8C%96-%E5%8A%83%E5%AE%9A-%E7%B4%85%E8%89%B2%E5%8D%80%E5%9F%9F-%E4%BF%9D%E9%9A%9C%E9%81%8A%E5%AE%A2%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-09-06T05:54:52.058Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利羅馬鬥獸場周邊治安惡化　劃定「紅色區域」保障遊客安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173145715476533248528347.png/iID15j_8-H7D7BMATGdUjSKyiJAbhPNFnK0SLJytEiw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
     "timestamp": "2026-09-05T21:50:07.354Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜銅鑼灣希慎道警察鐵馬亮閃燈　遭Tesla攔腰撞倒　影片曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173128384394301440245786.jpeg/zD4HQ73zZ82sVj1rR9K4w3zMHy0vq3lYK_5UYiv-VGI",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-09-05T21:41:29.848Z",
     "strategy": ".content-card__main"
   }
 ];
