@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T22:17:54.401Z
+// Last updated: 2026-09-06T22:24:57.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨最高32度　稍後局部地區驟雨較多及有雷暴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173512774026792960036291.jpeg/a6JhrvsBgMPUcm99T5BqPiB-er1Ag1MYdZ6Xx3Wel8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387409/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9832%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4",
+    "timestamp": "2026-09-06T22:24:57.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科技園x恒生Living Lab2.0　銀行真實環境科企實測助金融數碼轉型",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173311277812944896823457.jpeg/ipSAozIih_RpgRzaAvUXhjqtnp1LUPa3bspBEm7KQRI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387258/%E9%99%B3%E7%BE%8E%E9%BD%A1%E4%B8%89%E5%A7%8A%E5%A6%B9%E7%BD%95%E6%9C%89%E5%90%88%E9%AB%94%E6%AD%8E%E4%B8%8B%E5%8D%88%E8%8C%B6-%E5%87%8D%E9%BD%A1%E5%A4%96%E8%B2%8C%E6%90%B6fo%E4%BD%8D%E4%BD%8D%E8%83%8C%E6%99%AF%E7%8C%9B%E6%96%99%E5%8B%81%E9%A1%AF%E8%B5%AB",
     "timestamp": "2026-09-06T15:54:01.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神配對計劃｜「極速陳豪」現身TVB？　表演唱校歌評判笑到碌地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173409236206489600236041.jpeg/9-HN8j1uwkp53SFtd9hd6p1HTlLYftwdnfxpgZ38aYE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387387/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%83-%E6%A5%B5%E9%80%9F%E9%99%B3%E8%B1%AA-%E7%8F%BE%E8%BA%ABtvb-%E8%A1%A8%E6%BC%94%E5%94%B1%E6%A0%A1%E6%AD%8C%E8%A9%95%E5%88%A4%E7%AC%91%E5%88%B0%E7%A2%8C%E5%9C%B0",
-    "timestamp": "2026-09-06T15:28:38.824Z",
     "strategy": ".content-card__main"
   }
 ];
