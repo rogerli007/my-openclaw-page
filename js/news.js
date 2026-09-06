@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T14:28:49.651Z
+// Last updated: 2026-09-06T14:41:12.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林盛斌旗下藝人42歲生日開P排場勁　獲四代港姐冠軍包圍「加冕」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173318152189120512139567.png/_hsVRaZPHmJrxnVyLUQL83VgjiZnikN4M5qCkTOagpE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387318/%E5%8A%89%E6%99%A8%E8%8A%9D42%E6%AD%B2%E7%94%9F%E6%97%A5%E9%96%8Bp%E6%8E%92%E5%A0%B4%E5%8B%81-%E7%8D%B2%E5%9B%9B%E4%BB%A3%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%8C%85%E5%9C%8D-%E5%8A%A0%E5%86%95",
+    "timestamp": "2026-09-06T14:41:12.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥玲玲梅分析梅啟明面相複雜　指其有想法勸家和萬事興：見好就收",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173246172395999232476903.jpeg/Xntu0ut6teo-JkmyWcPkg6oFnw_wKDGTCr_F5Qq_xeU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387263/%E7%BE%BD%E6%AF%9B%E7%90%83-%E4%B8%AD%E5%9C%8B%E8%B3%BD-%E9%A6%99%E6%B8%AF%E6%89%93%E5%90%A1-%E5%90%B3%E8%8B%B1%E5%80%AB%E6%8C%AB%E6%9D%8E%E5%8D%93%E8%80%80-%E7%94%B7%E5%96%AE%E5%8C%85%E8%BE%A6%E5%86%A0%E4%BA%9E%E5%89%B5%E6%AD%B7%E5%8F%B2",
     "timestamp": "2026-09-06T09:31:56.249Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "政府空間數據應用擴至社福及遠足　明年接入AI平台可搜羅政府數據",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173316441663868928102467.jpeg/PAfYzCE2eaR-JLX0Wjy40CIFuzbkBnM5PLb3gDy294A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387323/%E6%94%BF%E5%BA%9C%E7%A9%BA%E9%96%93%E6%95%B8%E6%93%9A%E6%87%89%E7%94%A8%E6%93%B4%E8%87%B3%E7%A4%BE%E7%A6%8F%E5%8F%8A%E9%81%A0%E8%B6%B3-%E6%98%8E%E5%B9%B4%E6%8E%A5%E5%85%A5ai%E5%B9%B3%E5%8F%B0%E5%8F%AF%E6%90%9C%E7%BE%85%E6%94%BF%E5%BA%9C%E6%95%B8%E6%93%9A",
-    "timestamp": "2026-09-06T09:19:33.926Z",
     "strategy": ".content-card__main"
   }
 ];
