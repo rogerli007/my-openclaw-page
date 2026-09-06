@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T09:58:11.497Z
+// Last updated: 2026-09-06T10:17:56.434Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "China GT上海站賽車炒車後起火　車隊怒斥救援不力宣佈退賽｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173332815882752000526341.png/CAQa-mHdiB2McnqGZeYc_ciHIxxf561yfF8ZM3xfGTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387327/china-gt%E4%B8%8A%E6%B5%B7%E7%AB%99%E8%B3%BD%E8%BB%8A%E7%82%92%E8%BB%8A%E5%BE%8C%E8%B5%B7%E7%81%AB-%E8%BB%8A%E9%9A%8A%E6%80%92%E6%96%A5%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%E5%AE%A3%E4%BD%88%E9%80%80%E8%B3%BD-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-06T10:17:56.434Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外傭六成薪金匯回鄉月剩$2000　組織倡增外傭最低工資至$6172",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173213138644897792175382.jpeg/HLES2hs784bLK1WAi_vNp4B2xOG_9VWjVXRbZFV0W2Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387230/%E7%8E%89%E6%A1%82%E5%B1%B1%E8%80%81%E7%BF%81%E8%A1%8C%E5%B1%B1%E6%98%8F%E8%BF%B7-%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%90%8A%E8%B5%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-06T02:27:10.642Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中加軍方時隔8年重啟防務對話　表達加強兩軍務實交流合作意願",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240827/905199202923974656029851.jpeg/OpMvpecv0jTaTmtM5SndFZMMiD-6eCIYOtW_IDrVvyA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387228/%E4%B8%AD%E5%8A%A0%E8%BB%8D%E6%96%B9%E6%99%82%E9%9A%948%E5%B9%B4%E9%87%8D%E5%95%9F%E9%98%B2%E5%8B%99%E5%B0%8D%E8%A9%B1-%E8%A1%A8%E9%81%94%E5%8A%A0%E5%BC%B7%E5%85%A9%E8%BB%8D%E5%8B%99%E5%AF%A6%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C%E6%84%8F%E9%A1%98",
-    "timestamp": "2026-09-06T01:55:13.298Z",
     "strategy": ".content-card__main"
   }
 ];
