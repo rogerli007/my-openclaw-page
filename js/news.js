@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-05T23:41:31.261Z
+// Last updated: 2026-09-06T00:53:53.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「翻版苟芸慧」苦讀7年獲港大PCLL錄取　曾涉官非離巢絕跡娛圈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172979846645551104548109.jpeg/HWYXOQtvx0pZ714bijYTCorcin7Glk2qL0GbGS9Bmxk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387129/%E5%89%8D%E8%8F%AF%E5%A7%90%E5%AD%A3%E8%BB%8D%E5%BC%B5%E6%85%A7%E9%9B%AF%E8%8B%A6%E8%AE%807%E5%B9%B4%E7%8D%B2%E6%B8%AF%E5%A4%A7pcll%E9%8C%84%E5%8F%96-%E6%9B%BE%E6%B6%89%E5%AE%98%E9%9D%9E%E9%9B%A2%E5%B7%A2%E7%B5%95%E8%B7%A1%E5%A8%9B%E5%9C%88",
+    "timestamp": "2026-09-06T00:53:53.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞爾維亞總統武契奇獲黨推舉選總理　將辭去總統職務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250509/997587742693003264523104.jpeg/tBA-B8ECK9FUL2KAjeDXuBo5jcLawvZSLc4obS3OKG0",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387211/%E7%B3%96%E6%B0%B4%E9%A3%9F%E8%AD%9C-%E8%96%8F%E4%BB%81%E7%B6%A0%E8%B1%86%E6%B2%99%E6%B6%88%E6%9A%91%E6%B6%88%E6%B0%B4%E8%85%AB-%E7%B0%A1%E6%98%93%E5%85%A9%E6%8B%9B%E6%A5%B5%E9%80%9F-%E9%96%8B%E8%8A%B1-%E8%B5%B7%E6%B2%99",
     "timestamp": "2026-09-05T18:53:24.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寶林邨父子房產問題爭執　兒子徒手施襲　父持鎅刀　兩父子被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173085985248907264734596.jpeg/VS-doAtY6DHu4DSizN0pjOFA0yIhOiwLkste7KjLXuw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387209/%E5%AF%B6%E6%9E%97%E9%82%A8%E7%88%B6%E5%AD%90%E6%88%BF%E7%94%A2%E5%95%8F%E9%A1%8C%E7%88%AD%E5%9F%B7-%E5%85%92%E5%AD%90%E5%BE%92%E6%89%8B%E6%96%BD%E8%A5%B2-%E7%88%B6%E6%8C%81%E9%8E%85%E5%88%80-%E5%85%A9%E7%88%B6%E5%AD%90%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-05T18:21:26.832Z",
     "strategy": ".content-card__main"
   }
 ];
