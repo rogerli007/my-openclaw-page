@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T21:39:12.645Z
+// Last updated: 2026-09-06T21:53:57.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Amazon貨機降落邁阿密衝出跑道　撞上多車起火冒煙　據指多人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173490277936009216629871.jpeg/vWaLmC_Hlu9QaA0uLgIsDK9u2jV4X2UT7WTT4e1k0-E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387413/amazon%E8%B2%A8%E6%A9%9F%E9%99%8D%E8%90%BD%E9%82%81%E9%98%BF%E5%AF%86%E8%A1%9D%E5%87%BA%E8%B7%91%E9%81%93-%E6%92%9E%E4%B8%8A%E5%A4%9A%E8%BB%8A%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%93%9A%E6%8C%87%E5%A4%9A%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-09-06T21:53:57.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Amazon貨機降落邁阿密衝出跑道　撞上多車起火冒煙　據指多人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173318152189120512139567.png/_hsVRaZPHmJrxnVyLUQL83VgjiZnikN4M5qCkTOagpE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387318/%E5%8A%89%E6%99%A8%E8%8A%9D42%E6%AD%B2%E7%94%9F%E6%97%A5%E9%96%8Bp%E6%8E%92%E5%A0%B4%E5%8B%81-%E7%8D%B2%E5%9B%9B%E4%BB%A3%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%8C%85%E5%9C%8D-%E5%8A%A0%E5%86%95",
     "timestamp": "2026-09-06T14:50:18.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林盛斌旗下藝人42歲生日開P排場勁　獲四代港姐冠軍包圍「加冕」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173318152189120512139567.png/_hsVRaZPHmJrxnVyLUQL83VgjiZnikN4M5qCkTOagpE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387318/%E5%8A%89%E6%99%A8%E8%8A%9D42%E6%AD%B2%E7%94%9F%E6%97%A5%E9%96%8Bp%E6%8E%92%E5%A0%B4%E5%8B%81-%E7%8D%B2%E5%9B%9B%E4%BB%A3%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%8C%85%E5%9C%8D-%E5%8A%A0%E5%86%95",
-    "timestamp": "2026-09-06T14:41:12.792Z",
     "strategy": ".content-card__main"
   }
 ];
