@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T17:53:37.869Z
+// Last updated: 2026-09-06T18:23:39.430Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運會2026韻律泳｜香港運動員名單+賽程賽果+歷屆成績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173440797626863616625071.jpeg/4ASCI4nn9IX80sVe8aWxfG6mWH2Rp_eAeImG1XiJhtU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387400/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%9F%BB%E5%BE%8B%E6%B3%B3-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
+    "timestamp": "2026-09-06T18:23:39.430Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美特使訪烏晤澤連斯基　討論冬季援助、戰後保障及冀重啟三方和談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173350351965786112816470.png/MqO1ttsQuDhymxl4nnKYzoXwUlInLq8ESMKSYkjCkmI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387364/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%BA%A5%E8%A9%A9%E6%95%8F%E8%87%AA%E7%88%86%E5%8D%81%E5%B9%B4%E5%86%87%E9%A3%B2%E6%B1%BD%E6%B0%B4-%E5%94%90%E6%B5%A9%E5%98%89%E6%BF%80%E8%AE%9A-%E8%B6%85%E9%A4%8A%E7%94%9F",
     "timestamp": "2026-09-06T11:53:18.492Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "為什麼男生只把你當好兄弟？拆解4大星座女性格特質與單身原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049739437824544768145298.jpeg/-IcCnmmt5vX_5P9WFWBMFghShuUhmXQxX3HDoV9xw6E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60281305/%E7%82%BA%E4%BB%80%E9%BA%BC%E7%94%B7%E7%94%9F%E5%8F%AA%E6%8A%8A%E4%BD%A0%E7%95%B6%E5%A5%BD%E5%85%84%E5%BC%9F-%E6%8B%86%E8%A7%A34%E5%A4%A7%E6%98%9F%E5%BA%A7%E5%A5%B3%E6%80%A7%E6%A0%BC%E7%89%B9%E8%B3%AA%E8%88%87%E5%96%AE%E8%BA%AB%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-09-06T11:40:58.706Z",
     "strategy": ".content-card__main"
   }
 ];
