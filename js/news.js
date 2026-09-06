@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T23:37:58.633Z
+// Last updated: 2026-09-06T23:54:04.688Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜中方率境外記者赴災區　已就261外籍失蹤者通報各國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173463616515477504195803.jpeg/RgQ2NoZi8lPXyVNSLs9FUZ23E6mf2Q52xZ0lxcWdJcU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387406/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%AD%E6%96%B9%E7%8E%87%E5%A2%83%E5%A4%96%E8%A8%98%E8%80%85%E8%B5%B4%E7%81%BD%E5%8D%80-%E5%B7%B2%E5%B0%B1261%E5%A4%96%E7%B1%8D%E5%A4%B1%E8%B9%A4%E8%80%85%E9%80%9A%E5%A0%B1%E5%90%84%E5%9C%8B",
+    "timestamp": "2026-09-06T23:54:04.688Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本柴犬墮海求生26小時　漂流5公里登島奇蹟生還　網民反應兩極",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173435561856602112495816.jpeg/Cfr1wH4Iaq6ZZ7fVqCVlSe1apmJQiCGU3nadkN52nZA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387398/%E7%BE%8E%E7%89%B9%E4%BD%BF%E8%A8%AA%E7%83%8F%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E8%A8%8E%E8%AB%96%E5%86%AC%E5%AD%A3%E6%8F%B4%E5%8A%A9-%E6%88%B0%E5%BE%8C%E4%BF%9D%E9%9A%9C%E5%8F%8A%E5%86%80%E9%87%8D%E5%95%9F%E4%B8%89%E6%96%B9%E5%92%8C%E8%AB%87",
     "timestamp": "2026-09-06T17:53:37.869Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美特使訪烏晤澤連斯基　討論冬季援助、戰後保障及冀重啟三方和談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173435561856602112495816.jpeg/Cfr1wH4Iaq6ZZ7fVqCVlSe1apmJQiCGU3nadkN52nZA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387398/%E7%BE%8E%E7%89%B9%E4%BD%BF%E8%A8%AA%E7%83%8F%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E8%A8%8E%E8%AB%96%E5%86%AC%E5%AD%A3%E6%8F%B4%E5%8A%A9-%E6%88%B0%E5%BE%8C%E4%BF%9D%E9%9A%9C%E5%8F%8A%E5%86%80%E9%87%8D%E5%95%9F%E4%B8%89%E6%96%B9%E5%92%8C%E8%AB%87",
-    "timestamp": "2026-09-06T17:41:21.367Z",
     "strategy": ".content-card__main"
   }
 ];
