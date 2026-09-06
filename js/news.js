@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T11:26:53.817Z
+// Last updated: 2026-09-06T11:40:58.706Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "為什麼男生只把你當好兄弟？拆解4大星座女性格特質與單身原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049739437824544768145298.jpeg/-IcCnmmt5vX_5P9WFWBMFghShuUhmXQxX3HDoV9xw6E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60281305/%E7%82%BA%E4%BB%80%E9%BA%BC%E7%94%B7%E7%94%9F%E5%8F%AA%E6%8A%8A%E4%BD%A0%E7%95%B6%E5%A5%BD%E5%85%84%E5%BC%9F-%E6%8B%86%E8%A7%A34%E5%A4%A7%E6%98%9F%E5%BA%A7%E5%A5%B3%E6%80%A7%E6%A0%BC%E7%89%B9%E8%B3%AA%E8%88%87%E5%96%AE%E8%BA%AB%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-09-06T11:40:58.706Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "希慎道Tesla撞鐵馬｜警:交警恐擠塞阻緊急服務　亮警示燈逆線駛入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173254268992360448264170.jpeg/aV2TcZQCGEX1brVURX2ulQ8Jcx_Mddab18nEw9fJxMM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387269/%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E4%BD%8E%E5%85%A9%E5%A4%96%E7%B1%8D%E5%96%AE%E8%BB%8A%E6%BC%A2-%E5%82%B7%E8%80%85%E4%B8%80%E5%BA%A6%E5%80%92%E8%87%A5%E8%B7%AF%E4%B8%AD%E5%BE%85%E6%8F%B4",
     "timestamp": "2026-09-06T05:19:17.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026上半年單車事故急升9死　警教育執法並行　新界北發逾百傳票",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173243561466925056098413.jpeg/IC_503vnR-NGVfs5pqQW9E7YWnriZP2Tj2GWaI9hlmg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387262/2026%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%96%AE%E8%BB%8A%E4%BA%8B%E6%95%85%E6%80%A5%E5%8D%879%E6%AD%BB-%E8%AD%A6%E6%95%99%E8%82%B2%E5%9F%B7%E6%B3%95%E4%B8%A6%E8%A1%8C-%E6%96%B0%E7%95%8C%E5%8C%97%E7%99%BC%E9%80%BE%E7%99%BE%E5%82%B3%E7%A5%A8",
-    "timestamp": "2026-09-06T04:43:32.705Z",
     "strategy": ".content-card__main"
   }
 ];
