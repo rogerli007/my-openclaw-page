@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T21:53:57.034Z
+// Last updated: 2026-09-06T22:17:54.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科技園x恒生Living Lab2.0　銀行真實環境科企實測助金融數碼轉型",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171148965467394048126045.jpeg/nMYJMi7fyGzZzlpOzZQQ5__WjcyR6xhTd-xMDHfsTAw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60380573/%E7%A7%91%E6%8A%80%E5%9C%92x%E6%81%92%E7%94%9Fliving-lab2-0-%E9%8A%80%E8%A1%8C%E7%9C%9F%E5%AF%A6%E7%92%B0%E5%A2%83%E7%A7%91%E4%BC%81%E5%AF%A6%E6%B8%AC%E5%8A%A9%E9%87%91%E8%9E%8D%E6%95%B8%E7%A2%BC%E8%BD%89%E5%9E%8B",
+    "timestamp": "2026-09-06T22:17:54.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Amazon貨機降落邁阿密衝出跑道　撞上多車起火冒煙　據指多人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173409236206489600236041.jpeg/9-HN8j1uwkp53SFtd9hd6p1HTlLYftwdnfxpgZ38aYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387387/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%83-%E6%A5%B5%E9%80%9F%E9%99%B3%E8%B1%AA-%E7%8F%BE%E8%BA%ABtvb-%E8%A1%A8%E6%BC%94%E5%94%B1%E6%A0%A1%E6%AD%8C%E8%A9%95%E5%88%A4%E7%AC%91%E5%88%B0%E7%A2%8C%E5%9C%B0",
     "timestamp": "2026-09-06T15:28:38.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林盛斌旗下藝人42歲生日開P排場勁　獲四代港姐冠軍包圍「加冕」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173318152189120512139567.png/_hsVRaZPHmJrxnVyLUQL83VgjiZnikN4M5qCkTOagpE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387318/%E5%8A%89%E6%99%A8%E8%8A%9D42%E6%AD%B2%E7%94%9F%E6%97%A5%E9%96%8Bp%E6%8E%92%E5%A0%B4%E5%8B%81-%E7%8D%B2%E5%9B%9B%E4%BB%A3%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E5%8C%85%E5%9C%8D-%E5%8A%A0%E5%86%95",
-    "timestamp": "2026-09-06T14:50:18.680Z",
     "strategy": ".content-card__main"
   }
 ];
