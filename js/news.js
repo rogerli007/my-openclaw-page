@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T13:54:32.711Z
+// Last updated: 2026-09-06T14:15:23.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謊稱協助採購復必泰疫苗詐騙2.3億　台｢疫苗掮客｣潛逃香港遭通緝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173390869345079296791350.jpeg/yaNzgXVi9ylYFluwomuAFOXiyv9Kpky9ybwtKcm8LSk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60387381/%E8%AC%8A%E7%A8%B1%E5%8D%94%E5%8A%A9%E6%8E%A1%E8%B3%BC%E5%BE%A9%E5%BF%85%E6%B3%B0%E7%96%AB%E8%8B%97%E8%A9%90%E9%A8%992-3%E5%84%84-%E5%8F%B0-%E7%96%AB%E8%8B%97%E6%8E%AE%E5%AE%A2-%E6%BD%9B%E9%80%83%E9%A6%99%E6%B8%AF%E9%81%AD%E9%80%9A%E7%B7%9D",
+    "timestamp": "2026-09-06T14:15:23.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國特使訪烏晤澤連斯基　據報英法德國家安全顧問同日亦抵基輔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173310474553397248167893.jpeg/VcvjrVtb9zloXB7bwaS_k9bEE87Wf8UK4XfM9OF3zPQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60387315/%E5%8F%A1%E7%92%9Fi%E9%80%A3%E7%BA%8C%E4%B8%89%E8%BC%AA%E6%B2%BD%E6%B8%85-%E9%80%A3%E6%8B%9B%E6%A8%99%E7%B4%AF%E5%94%AE482%E4%BC%99%E5%A5%9745-6%E5%84%84-2%E6%9C%9F%E5%B7%B2%E5%8F%96%E9%A0%90%E5%94%AE%E6%96%87%E4%BB%B6",
     "timestamp": "2026-09-06T08:54:00.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醉雞做法｜浸醉雞苦澀嚡口2大關鍵做錯！專家教加1種水果提香去苦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220916/647511405137760256273198.jpeg/G6nnSVvbn1GinpMEN_2l3_gYkaYQHi5HqpzWG6qc1hs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387313/%E9%86%89%E9%9B%9E%E5%81%9A%E6%B3%95-%E6%B5%B8%E9%86%89%E9%9B%9E%E8%8B%A6%E6%BE%80%E5%9A%A1%E5%8F%A32%E5%A4%A7%E9%97%9C%E9%8D%B5%E5%81%9A%E9%8C%AF-%E5%B0%88%E5%AE%B6%E6%95%99%E5%8A%A01%E7%A8%AE%E6%B0%B4%E6%9E%9C%E6%8F%90%E9%A6%99%E5%8E%BB%E8%8B%A6",
-    "timestamp": "2026-09-06T08:43:50.019Z",
     "strategy": ".content-card__main"
   }
 ];
