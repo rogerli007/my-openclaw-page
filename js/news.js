@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T18:23:39.430Z
+// Last updated: 2026-09-06T18:54:31.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運會2026水球｜香港運動員名單+賽程賽果+歷屆成績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173452780212326400946081.jpeg/vftfSI8eqLuX9kq5zr4DahpXBeFsD1bQvOFu7rzhbu4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387403/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B0%B4%E7%90%83-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
+    "timestamp": "2026-09-06T18:54:31.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運會2026韻律泳｜香港運動員名單+賽程賽果+歷屆成績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240221/837051379800346624786312.jpeg/KHep5CNP0n2pIRqtGFmTCCmw8aRXfxOdp1qlLKdapSw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387366/%E7%A0%B4%E9%82%8A%E6%B4%B2%E9%A0%90%E7%B4%84%E5%88%B6-%E5%AF%A6%E6%96%BD%E6%AC%A1%E6%97%A51430%E4%BA%BA%E9%A0%90%E7%B4%84-%E5%86%8D%E9%80%BE%E5%8D%8A%E4%BA%BA-%E7%94%A9%E5%BA%95-%E5%83%85660%E4%BA%BA%E5%88%B0",
     "timestamp": "2026-09-06T12:25:44.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》十周年丨麥詩敏自爆十年冇飲汽水　唐浩嘉激讚：超養生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173350351965786112816470.png/MqO1ttsQuDhymxl4nnKYzoXwUlInLq8ESMKSYkjCkmI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387364/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%BA%A5%E8%A9%A9%E6%95%8F%E8%87%AA%E7%88%86%E5%8D%81%E5%B9%B4%E5%86%87%E9%A3%B2%E6%B1%BD%E6%B0%B4-%E5%94%90%E6%B5%A9%E5%98%89%E6%BF%80%E8%AE%9A-%E8%B6%85%E9%A4%8A%E7%94%9F",
-    "timestamp": "2026-09-06T11:53:18.492Z",
     "strategy": ".content-card__main"
   }
 ];
