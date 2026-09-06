@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T08:20:47.241Z
+// Last updated: 2026-09-06T08:43:50.019Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醉雞做法｜浸醉雞苦澀嚡口2大關鍵做錯！專家教加1種水果提香去苦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220916/647511405137760256273198.jpeg/G6nnSVvbn1GinpMEN_2l3_gYkaYQHi5HqpzWG6qc1hs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387313/%E9%86%89%E9%9B%9E%E5%81%9A%E6%B3%95-%E6%B5%B8%E9%86%89%E9%9B%9E%E8%8B%A6%E6%BE%80%E5%9A%A1%E5%8F%A32%E5%A4%A7%E9%97%9C%E9%8D%B5%E5%81%9A%E9%8C%AF-%E5%B0%88%E5%AE%B6%E6%95%99%E5%8A%A01%E7%A8%AE%E6%B0%B4%E6%9E%9C%E6%8F%90%E9%A6%99%E5%8E%BB%E8%8B%A6",
+    "timestamp": "2026-09-06T08:43:50.019Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國人壽集團將獲財政部注資350億：增強穩健經營和風險抵禦能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173152881327476736296034.jpeg/RuZiVaXFU0Osz_1A4qGA05nVdOMmh9kKvl4dA75eHQM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387223/%E5%BE%B7%E5%9C%8B%E5%88%9D%E5%89%B5%E7%81%AB%E7%AE%AD%E9%A6%96%E5%85%A5%E8%BB%8C-%E6%AD%90%E6%B4%B2%E8%BA%8B%E8%BA%AB%E8%A1%9B%E6%98%9F%E7%99%BC%E5%B0%84%E7%AB%B6%E8%B3%BD",
     "timestamp": "2026-09-05T23:16:44.652Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國初創火箭首入軌　歐洲躋身衛星發射競賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173152881327476736296034.jpeg/RuZiVaXFU0Osz_1A4qGA05nVdOMmh9kKvl4dA75eHQM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387223/%E5%BE%B7%E5%9C%8B%E5%88%9D%E5%89%B5%E7%81%AB%E7%AE%AD%E9%A6%96%E5%85%A5%E8%BB%8C-%E6%AD%90%E6%B4%B2%E8%BA%8B%E8%BA%AB%E8%A1%9B%E6%98%9F%E7%99%BC%E5%B0%84%E7%AB%B6%E8%B3%BD",
-    "timestamp": "2026-09-05T22:53:41.937Z",
     "strategy": ".content-card__main"
   }
 ];
