@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T07:53:34.531Z
+// Last updated: 2026-09-06T08:20:47.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國人壽集團將獲財政部注資350億：增強穩健經營和風險抵禦能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173303038463447040180237.jpeg/DMOeDQbTWkzD_NLEKiwaq7fkPNK0RXone3WbEXt1mxE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387306/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%A3%BD%E9%9B%86%E5%9C%98%E5%B0%87%E7%8D%B2%E8%B2%A1%E6%94%BF%E9%83%A8%E6%B3%A8%E8%B3%87350%E5%84%84-%E5%A2%9E%E5%BC%B7%E7%A9%A9%E5%81%A5%E7%B6%93%E7%87%9F%E5%92%8C%E9%A2%A8%E9%9A%AA%E6%8A%B5%E7%A6%A6%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-09-06T08:20:47.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄遠東城市立抗日勝利紀念像　高市早苗要求移除：「不可接受」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173152881327476736296034.jpeg/RuZiVaXFU0Osz_1A4qGA05nVdOMmh9kKvl4dA75eHQM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387223/%E5%BE%B7%E5%9C%8B%E5%88%9D%E5%89%B5%E7%81%AB%E7%AE%AD%E9%A6%96%E5%85%A5%E8%BB%8C-%E6%AD%90%E6%B4%B2%E8%BA%8B%E8%BA%AB%E8%A1%9B%E6%98%9F%E7%99%BC%E5%B0%84%E7%AB%B6%E8%B3%BD",
     "timestamp": "2026-09-05T22:53:41.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國初創火箭首入軌　歐洲躋身衛星發射競賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173152881327476736296034.jpeg/RuZiVaXFU0Osz_1A4qGA05nVdOMmh9kKvl4dA75eHQM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387223/%E5%BE%B7%E5%9C%8B%E5%88%9D%E5%89%B5%E7%81%AB%E7%AE%AD%E9%A6%96%E5%85%A5%E8%BB%8C-%E6%AD%90%E6%B4%B2%E8%BA%8B%E8%BA%AB%E8%A1%9B%E6%98%9F%E7%99%BC%E5%B0%84%E7%AB%B6%E8%B3%BD",
-    "timestamp": "2026-09-05T22:40:41.843Z",
     "strategy": ".content-card__main"
   }
 ];
