@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T01:36:16.884Z
+// Last updated: 2026-09-06T01:55:13.298Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中加軍方時隔8年重啟防務對話　表達加強兩軍務實交流合作意願",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240827/905199202923974656029851.jpeg/OpMvpecv0jTaTmtM5SndFZMMiD-6eCIYOtW_IDrVvyA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387228/%E4%B8%AD%E5%8A%A0%E8%BB%8D%E6%96%B9%E6%99%82%E9%9A%948%E5%B9%B4%E9%87%8D%E5%95%9F%E9%98%B2%E5%8B%99%E5%B0%8D%E8%A9%B1-%E8%A1%A8%E9%81%94%E5%8A%A0%E5%BC%B7%E5%85%A9%E8%BB%8D%E5%8B%99%E5%AF%A6%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C%E6%84%8F%E9%A1%98",
+    "timestamp": "2026-09-06T01:55:13.298Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本欲參與超遠程空戰？國防預算洩端倪　ASM-3可威脅中國預警機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172963087020462080904861.png/S13nvQT-7WdvuIdFqpa7tk_LedLNWOgVoYz-8KGM_vA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387214/%E7%BE%8E%E8%BB%8D%E5%8F%8D%E6%93%8A%E4%BC%8A%E6%9C%97%E6%89%93%E4%B8%AD2%E6%B2%B9%E8%BC%AA-%E5%8F%B8%E4%BB%A4-%E4%BD%A0%E8%8B%A5%E9%96%8B%E7%81%AB%E6%88%91%E4%BE%BF%E6%96%BD%E6%9B%B4%E9%AB%98%E7%B6%93%E6%BF%9F%E4%BB%A3%E5%83%B9",
     "timestamp": "2026-09-05T19:25:15.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美軍反擊伊朗打中2油輪　司令：你若開火我便施更高經濟代價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172963087020462080904861.png/S13nvQT-7WdvuIdFqpa7tk_LedLNWOgVoYz-8KGM_vA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387214/%E7%BE%8E%E8%BB%8D%E5%8F%8D%E6%93%8A%E4%BC%8A%E6%9C%97%E6%89%93%E4%B8%AD2%E6%B2%B9%E8%BC%AA-%E5%8F%B8%E4%BB%A4-%E4%BD%A0%E8%8B%A5%E9%96%8B%E7%81%AB%E6%88%91%E4%BE%BF%E6%96%BD%E6%9B%B4%E9%AB%98%E7%B6%93%E6%BF%9F%E4%BB%A3%E5%83%B9",
-    "timestamp": "2026-09-05T19:15:21.663Z",
     "strategy": ".content-card__main"
   }
 ];
