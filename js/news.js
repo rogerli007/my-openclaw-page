@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T14:50:18.680Z
+// Last updated: 2026-09-06T15:28:38.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神配對計劃｜「極速陳豪」現身TVB？　表演唱校歌評判笑到碌地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173409236206489600236041.jpeg/9-HN8j1uwkp53SFtd9hd6p1HTlLYftwdnfxpgZ38aYE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387387/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%83-%E6%A5%B5%E9%80%9F%E9%99%B3%E8%B1%AA-%E7%8F%BE%E8%BA%ABtvb-%E8%A1%A8%E6%BC%94%E5%94%B1%E6%A0%A1%E6%AD%8C%E8%A9%95%E5%88%A4%E7%AC%91%E5%88%B0%E7%A2%8C%E5%9C%B0",
+    "timestamp": "2026-09-06T15:28:38.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林盛斌旗下藝人42歲生日開P排場勁　獲四代港姐冠軍包圍「加冕」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173320377183506432351786.jpeg/R9GsOjxD4G7m6caQ0QX0R__NssjhjJOkle2VcLztlXA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387322/%E5%A4%96%E5%82%AD%E5%85%AD%E6%88%90%E8%96%AA%E9%87%91%E5%8C%AF%E5%9B%9E%E9%84%89%E6%9C%88%E5%89%A9-2000-%E7%B5%84%E7%B9%94%E5%80%A1%E5%A2%9E%E5%A4%96%E5%82%AD%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B3%87%E8%87%B3-6172",
     "timestamp": "2026-09-06T09:58:11.497Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Chiikawa拉麵店結業｜深圳旅客最後光顧　只求打卡不介意食評普通",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173316604750991360275409.jpeg/3ZnnOz2LiK1vA9bSPoFlS2bpaKmx2EVz57gT-ee4E_k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387319/chiikawa%E6%8B%89%E9%BA%B5%E5%BA%97%E7%B5%90%E6%A5%AD-%E6%B7%B1%E5%9C%B3%E6%97%85%E5%AE%A2%E6%9C%80%E5%BE%8C%E5%85%89%E9%A1%A7-%E5%8F%AA%E6%B1%82%E6%89%93%E5%8D%A1%E4%B8%8D%E4%BB%8B%E6%84%8F%E9%A3%9F%E8%A9%95%E6%99%AE%E9%80%9A",
-    "timestamp": "2026-09-06T09:42:21.183Z",
     "strategy": ".content-card__main"
   }
 ];
