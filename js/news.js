@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T22:24:57.974Z
+// Last updated: 2026-09-06T22:41:38.589Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "90年代樂壇天后捱過低潮近年復出開騷　入場歌迷嘆失望：嗓子壞了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173398749532131328914586.jpeg/qgGj58FYh7rbEdOn9dbeNQpyRTs8HERh-Ob_LPjm_yw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387351/90%E5%B9%B4%E4%BB%A3%E6%A8%82%E5%A3%87%E5%A4%A9%E5%90%8E%E6%8D%B1%E9%81%8E%E4%BD%8E%E6%BD%AE%E8%BF%91%E5%B9%B4%E5%BE%A9%E5%87%BA%E9%96%8B%E9%A8%B7-%E5%85%A5%E5%A0%B4%E6%AD%8C%E8%BF%B7%E5%98%86%E5%A4%B1%E6%9C%9B-%E5%97%93%E5%AD%90%E5%A3%9E%E4%BA%86",
+    "timestamp": "2026-09-06T22:41:38.589Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有幾陣驟雨最高32度　稍後局部地區驟雨較多及有雷暴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173424808822575104584129.png/Ul5iGkAZZ4Ews4bMbV9LyPa4-7-Pp7a9x9PQ0sfT0NI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387391/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%E5%85%A9%E5%BA%A6%E9%A0%98%E5%85%88-%E6%84%9B%E8%8F%AF%E9%A0%93%E8%A3%9C%E6%99%82%E9%9A%8E%E6%AE%B5%E5%8B%81%E5%B0%84%E7%A0%B4%E7%B6%B2%E8%BF%BD%E5%92%8C2-2",
     "timestamp": "2026-09-06T16:30:11.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳美齡三姊妹罕有合體歎下午茶　凍齡外貌搶Fo位位背景猛料勁顯赫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173311277812944896823457.jpeg/ipSAozIih_RpgRzaAvUXhjqtnp1LUPa3bspBEm7KQRI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387258/%E9%99%B3%E7%BE%8E%E9%BD%A1%E4%B8%89%E5%A7%8A%E5%A6%B9%E7%BD%95%E6%9C%89%E5%90%88%E9%AB%94%E6%AD%8E%E4%B8%8B%E5%8D%88%E8%8C%B6-%E5%87%8D%E9%BD%A1%E5%A4%96%E8%B2%8C%E6%90%B6fo%E4%BD%8D%E4%BD%8D%E8%83%8C%E6%99%AF%E7%8C%9B%E6%96%99%E5%8B%81%E9%A1%AF%E8%B5%AB",
-    "timestamp": "2026-09-06T15:54:01.452Z",
     "strategy": ".content-card__main"
   }
 ];
