@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T10:17:56.434Z
+// Last updated: 2026-09-06T10:30:07.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅淑佩鍾情港產IP《功夫三腳貓》　透露是養貓之人｜政壇諸事町",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173332128751423488082753.jpeg/jb6sGxFrrNfGLj7XVI4ibwOdpU5UX1WdHHywFRx8sBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387339/%E7%BE%85%E6%B7%91%E4%BD%A9%E9%8D%BE%E6%83%85%E6%B8%AF%E7%94%A2ip-%E5%8A%9F%E5%A4%AB%E4%B8%89%E8%85%B3%E8%B2%93-%E9%80%8F%E9%9C%B2%E6%98%AF%E9%A4%8A%E8%B2%93%E4%B9%8B%E4%BA%BA-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
+    "timestamp": "2026-09-06T10:30:07.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "China GT上海站賽車炒車後起火　車隊怒斥救援不力宣佈退賽｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173218200444211200702381.png/-D30Ol5QBnTZnKax1pWrkotBBYgXn_VueqLScnqi0nI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60387240/%E6%89%AE%E7%9D%87%E6%89%8B%E6%A9%9F%E6%8E%A9%E4%BA%BA%E8%80%B3%E7%9B%AE-%E9%BB%91%E8%A1%A3%E7%94%B7%E5%85%A5%E6%B7%B1%E5%9C%B3%E8%A4%B2%E5%B8%B6%E8%97%8F%E8%87%AA%E8%A3%BD%E5%A4%A7%E9%BA%BB%E7%85%99-%E7%BE%85%E6%B9%96%E6%B5%B7%E9%97%9C%E6%94%94%E6%88%AA",
     "timestamp": "2026-09-06T02:46:19.732Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玉桂山老翁行山昏迷　直升機吊起送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173213138644897792175382.jpeg/HLES2hs784bLK1WAi_vNp4B2xOG_9VWjVXRbZFV0W2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387230/%E7%8E%89%E6%A1%82%E5%B1%B1%E8%80%81%E7%BF%81%E8%A1%8C%E5%B1%B1%E6%98%8F%E8%BF%B7-%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%90%8A%E8%B5%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-06T02:27:10.642Z",
     "strategy": ".content-card__main"
   }
 ];
