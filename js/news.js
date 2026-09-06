@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T11:17:25.290Z
+// Last updated: 2026-09-06T11:26:53.817Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "希慎道Tesla撞鐵馬｜警:交警恐擠塞阻緊急服務　亮警示燈逆線駛入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173345885896052736316428.jpeg/BqVdXKT_4EI-0-1aNCroNSsRo0GWOPmkgcJlzYHCZc0",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387358/%E5%B8%8C%E6%85%8E%E9%81%93tesla%E6%92%9E%E9%90%B5%E9%A6%AC-%E8%AD%A6-%E4%BA%A4%E8%AD%A6%E6%81%90%E6%93%A0%E5%A1%9E%E9%98%BB%E7%B7%8A%E6%80%A5%E6%9C%8D%E5%8B%99-%E4%BA%AE%E8%AD%A6%E7%A4%BA%E7%87%88%E9%80%86%E7%B7%9A%E9%A7%9B%E5%85%A5",
+    "timestamp": "2026-09-06T11:26:53.817Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "希慎道Tesla撞鐵馬｜警:交警恐擠塞阻緊急服務　亮警示燈逆線駛入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173243561466925056098413.jpeg/IC_503vnR-NGVfs5pqQW9E7YWnriZP2Tj2GWaI9hlmg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387262/2026%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%96%AE%E8%BB%8A%E4%BA%8B%E6%95%85%E6%80%A5%E5%8D%879%E6%AD%BB-%E8%AD%A6%E6%95%99%E8%82%B2%E5%9F%B7%E6%B3%95%E4%B8%A6%E8%A1%8C-%E6%96%B0%E7%95%8C%E5%8C%97%E7%99%BC%E9%80%BE%E7%99%BE%E5%82%B3%E7%A5%A8",
     "timestamp": "2026-09-06T04:43:32.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "腸癌患者不滿療效「藏刀入錦旗」尋仇　行動不便醫生無辜被刺多刀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173224228992847872580764.png/HCliSyB9V3WgcHMnFbRn6HUAK9CpmOh9RSE3bUUhN20?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387248/%E8%85%B8%E7%99%8C%E6%82%A3%E8%80%85%E4%B8%8D%E6%BB%BF%E7%99%82%E6%95%88-%E8%97%8F%E5%88%80%E5%85%A5%E9%8C%A6%E6%97%97-%E5%B0%8B%E4%BB%87-%E8%A1%8C%E5%8B%95%E4%B8%8D%E4%BE%BF%E9%86%AB%E7%94%9F%E7%84%A1%E8%BE%9C%E8%A2%AB%E5%88%BA%E5%A4%9A%E5%88%80",
-    "timestamp": "2026-09-06T03:45:09.749Z",
     "strategy": ".content-card__main"
   }
 ];
