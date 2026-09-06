@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T11:40:58.706Z
+// Last updated: 2026-09-06T11:53:18.492Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年丨麥詩敏自爆十年冇飲汽水　唐浩嘉激讚：超養生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173350351965786112816470.png/MqO1ttsQuDhymxl4nnKYzoXwUlInLq8ESMKSYkjCkmI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387364/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%BA%A5%E8%A9%A9%E6%95%8F%E8%87%AA%E7%88%86%E5%8D%81%E5%B9%B4%E5%86%87%E9%A3%B2%E6%B1%BD%E6%B0%B4-%E5%94%90%E6%B5%A9%E5%98%89%E6%BF%80%E8%AE%9A-%E8%B6%85%E9%A4%8A%E7%94%9F",
+    "timestamp": "2026-09-06T11:53:18.492Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "為什麼男生只把你當好兄弟？拆解4大星座女性格特質與單身原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251004/1051266258210656256450387.jpeg/Na2i7wneMHJTsZgFX7eDLglwoZgemjXS-YqtnPmKrZw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387252/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%85%E9%A6%AC%E9%AC%A5%E7%8D%B8%E5%A0%B4%E5%91%A8%E9%82%8A%E6%B2%BB%E5%AE%89%E6%83%A1%E5%8C%96-%E5%8A%83%E5%AE%9A-%E7%B4%85%E8%89%B2%E5%8D%80%E5%9F%9F-%E4%BF%9D%E9%9A%9C%E9%81%8A%E5%AE%A2%E5%AE%89%E5%85%A8",
     "timestamp": "2026-09-06T05:42:35.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西貢大網仔路私家車撞低兩外籍單車漢　傷者一度倒臥路中待援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173254268992360448264170.jpeg/aV2TcZQCGEX1brVURX2ulQ8Jcx_Mddab18nEw9fJxMM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387269/%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E4%BD%8E%E5%85%A9%E5%A4%96%E7%B1%8D%E5%96%AE%E8%BB%8A%E6%BC%A2-%E5%82%B7%E8%80%85%E4%B8%80%E5%BA%A6%E5%80%92%E8%87%A5%E8%B7%AF%E4%B8%AD%E5%BE%85%E6%8F%B4",
-    "timestamp": "2026-09-06T05:19:17.657Z",
     "strategy": ".content-card__main"
   }
 ];
