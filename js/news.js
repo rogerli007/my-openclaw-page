@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T08:54:00.491Z
+// Last updated: 2026-09-06T09:19:33.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "政府空間數據應用擴至社福及遠足　明年接入AI平台可搜羅政府數據",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173316441663868928102467.jpeg/PAfYzCE2eaR-JLX0Wjy40CIFuzbkBnM5PLb3gDy294A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387323/%E6%94%BF%E5%BA%9C%E7%A9%BA%E9%96%93%E6%95%B8%E6%93%9A%E6%87%89%E7%94%A8%E6%93%B4%E8%87%B3%E7%A4%BE%E7%A6%8F%E5%8F%8A%E9%81%A0%E8%B6%B3-%E6%98%8E%E5%B9%B4%E6%8E%A5%E5%85%A5ai%E5%B9%B3%E5%8F%B0%E5%8F%AF%E6%90%9C%E7%BE%85%E6%94%BF%E5%BA%9C%E6%95%B8%E6%93%9A",
+    "timestamp": "2026-09-06T09:19:33.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "叡璟I連續三輪沽清　連招標累售482伙套45.6億　2期已取預售文件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148887741069529088907634.jpeg/Kfh2Ikzu-MdAXirEdasHgulI_79DSFwkWyRZrFskWaw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387224/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B8%BD%E7%B5%B1%E6%AD%A6%E5%A5%91%E5%A5%87%E7%8D%B2%E9%BB%A8%E6%8E%A8%E8%88%89%E9%81%B8%E7%B8%BD%E7%90%86-%E5%B0%87%E8%BE%AD%E5%8E%BB%E7%B8%BD%E7%B5%B1%E8%81%B7%E5%8B%99",
     "timestamp": "2026-09-05T23:41:31.261Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞爾維亞總統武契奇獲黨推舉選總理　將辭去總統職務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148887741069529088907634.jpeg/Kfh2Ikzu-MdAXirEdasHgulI_79DSFwkWyRZrFskWaw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387224/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B8%BD%E7%B5%B1%E6%AD%A6%E5%A5%91%E5%A5%87%E7%8D%B2%E9%BB%A8%E6%8E%A8%E8%88%89%E9%81%B8%E7%B8%BD%E7%90%86-%E5%B0%87%E8%BE%AD%E5%8E%BB%E7%B8%BD%E7%B5%B1%E8%81%B7%E5%8B%99",
-    "timestamp": "2026-09-05T23:26:29.175Z",
     "strategy": ".content-card__main"
   }
 ];
