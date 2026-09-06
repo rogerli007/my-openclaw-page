@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T03:23:36.106Z
+// Last updated: 2026-09-06T03:45:09.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "腸癌患者不滿療效「藏刀入錦旗」尋仇　行動不便醫生無辜被刺多刀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173224228992847872580764.png/HCliSyB9V3WgcHMnFbRn6HUAK9CpmOh9RSE3bUUhN20?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387248/%E8%85%B8%E7%99%8C%E6%82%A3%E8%80%85%E4%B8%8D%E6%BB%BF%E7%99%82%E6%95%88-%E8%97%8F%E5%88%80%E5%85%A5%E9%8C%A6%E6%97%97-%E5%B0%8B%E4%BB%87-%E8%A1%8C%E5%8B%95%E4%B8%8D%E4%BE%BF%E9%86%AB%E7%94%9F%E7%84%A1%E8%BE%9C%E8%A2%AB%E5%88%BA%E5%A4%9A%E5%88%80",
+    "timestamp": "2026-09-06T03:45:09.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗高登電腦中心冒煙　消防開喉撲救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173128384394301440245786.jpeg/zD4HQ73zZ82sVj1rR9K4w3zMHy0vq3lYK_5UYiv-VGI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
     "timestamp": "2026-09-05T20:53:50.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港仔隧道出口　綿羊仔疑天雨路滑自炒撞欄　鐵騎士昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173114190315917312521907.jpeg/FeCrAdYHNNMA44l7qe-sQC-uuc4FUfcwEG9j_ypvY_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387216/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3-%E7%B6%BF%E7%BE%8A%E4%BB%94%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-05T20:40:54.566Z",
     "strategy": ".content-card__main"
   }
 ];
