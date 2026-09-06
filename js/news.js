@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T04:43:32.705Z
+// Last updated: 2026-09-06T05:19:17.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢大網仔路私家車撞低兩外籍單車漢　傷者一度倒臥路中待援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173254268992360448264170.jpeg/aV2TcZQCGEX1brVURX2ulQ8Jcx_Mddab18nEw9fJxMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387269/%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E4%BD%8E%E5%85%A9%E5%A4%96%E7%B1%8D%E5%96%AE%E8%BB%8A%E6%BC%A2-%E5%82%B7%E8%80%85%E4%B8%80%E5%BA%A6%E5%80%92%E8%87%A5%E8%B7%AF%E4%B8%AD%E5%BE%85%E6%8F%B4",
+    "timestamp": "2026-09-06T05:19:17.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026上半年單車事故急升9死　警教育執法並行　新界北發逾百傳票",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173128384394301440245786.jpeg/zD4HQ73zZ82sVj1rR9K4w3zMHy0vq3lYK_5UYiv-VGI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
     "timestamp": "2026-09-05T21:23:27.307Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜銅鑼灣希慎道警察鐵馬亮閃燈　遭Tesla攔腰撞倒　影片曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173128384394301440245786.jpeg/zD4HQ73zZ82sVj1rR9K4w3zMHy0vq3lYK_5UYiv-VGI",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387217/%E8%BB%8Acam-%E9%8A%85%E9%91%BC%E7%81%A3%E5%B8%8C%E6%85%8E%E9%81%93%E8%AD%A6%E5%AF%9F%E9%90%B5%E9%A6%AC%E4%BA%AE%E9%96%83%E7%87%88-%E9%81%ADtesla%E6%94%94%E8%85%B0%E6%92%9E%E5%80%92-%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-09-05T21:19:13.163Z",
     "strategy": ".content-card__main"
   }
 ];
