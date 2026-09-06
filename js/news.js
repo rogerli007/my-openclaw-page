@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T13:27:27.999Z
+// Last updated: 2026-09-06T13:41:11.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年｜葉劉、海關關長是忠實讀者！陳子達勉為民發聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173375900750712832968317.jpeg/QSXiPd5Y63AISUfkCWbnYLn4cHLYRUnb7Gs0yOxrNMg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387369/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E8%91%89%E5%8A%89-%E6%B5%B7%E9%97%9C%E9%97%9C%E9%95%B7%E6%98%AF%E5%BF%A0%E5%AF%A6%E8%AE%80%E8%80%85-%E9%99%B3%E5%AD%90%E9%81%94%E5%8B%89%E7%82%BA%E6%B0%91%E7%99%BC%E8%81%B2",
+    "timestamp": "2026-09-06T13:41:11.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾欣潼西裝眼鏡Look曬御姐氣場　一個眼神電暈網民：命都畀埋你！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173303038463447040180237.jpeg/DMOeDQbTWkzD_NLEKiwaq7fkPNK0RXone3WbEXt1mxE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387306/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%A3%BD%E9%9B%86%E5%9C%98%E5%B0%87%E7%8D%B2%E8%B2%A1%E6%94%BF%E9%83%A8%E6%B3%A8%E8%B3%87350%E5%84%84-%E5%A2%9E%E5%BC%B7%E7%A9%A9%E5%81%A5%E7%B6%93%E7%87%9F%E5%92%8C%E9%A2%A8%E9%9A%AA%E6%8A%B5%E7%A6%A6%E8%83%BD%E5%8A%9B",
     "timestamp": "2026-09-06T08:20:47.241Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄遠東城市立抗日勝利紀念像　高市早苗要求移除：「不可接受」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173295309959204864341826.png/uNvk5Bbq6yPQNnWNGy8SBkTG2HE4BFAEG80zjBvNM4w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387302/%E4%BF%84%E9%81%A0%E6%9D%B1%E5%9F%8E%E5%B8%82%E7%AB%8B%E6%8A%97%E6%97%A5%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E5%83%8F-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A6%81%E6%B1%82%E7%A7%BB%E9%99%A4-%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-09-06T07:53:34.531Z",
     "strategy": ".content-card__main"
   }
 ];
