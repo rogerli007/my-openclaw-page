@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T20:19:03.215Z
+// Last updated: 2026-09-06T20:28:07.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運會2026射擊｜香港運動員名單+賽程賽果+歷屆成績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173481802610774016638419.jpeg/13Ag8BzQyq1M7W6_mvnV3an0JnZ1PqNO_gMwRP4DMEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387407/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%B0%84%E6%93%8A-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
+    "timestamp": "2026-09-06T20:28:07.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運會2026射擊｜香港運動員名單+賽程賽果+歷屆成績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173379366260838400751042.jpeg/-mbNQ_VxkdEV6CTekWFWa_WQVf4jFsHWCA9pMwgPaTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387373/%E7%BE%8E%E5%9C%8B%E7%89%B9%E4%BD%BF%E8%A8%AA%E7%83%8F%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%93%9A%E5%A0%B1%E8%8B%B1%E6%B3%95%E5%BE%B7%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A1%A7%E5%95%8F%E5%90%8C%E6%97%A5%E4%BA%A6%E6%8A%B5%E5%9F%BA%E8%BC%94",
     "timestamp": "2026-09-06T13:54:32.711Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》十周年｜葉劉、海關關長是忠實讀者！陳子達勉為民發聲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173375900750712832968317.jpeg/QSXiPd5Y63AISUfkCWbnYLn4cHLYRUnb7Gs0yOxrNMg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387369/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E8%91%89%E5%8A%89-%E6%B5%B7%E9%97%9C%E9%97%9C%E9%95%B7%E6%98%AF%E5%BF%A0%E5%AF%A6%E8%AE%80%E8%80%85-%E9%99%B3%E5%AD%90%E9%81%94%E5%8B%89%E7%82%BA%E6%B0%91%E7%99%BC%E8%81%B2",
-    "timestamp": "2026-09-06T13:41:11.311Z",
     "strategy": ".content-card__main"
   }
 ];
