@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T02:55:13.382Z
+// Last updated: 2026-09-06T03:23:36.106Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗高登電腦中心冒煙　消防開喉撲救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173225762489110528798150.jpeg/E46M52vivQlrSpneWBHkucRodNmlPfskY4SOvWOEjr0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387243/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%AB%98%E7%99%BB%E9%9B%BB%E8%85%A6%E4%B8%AD%E5%BF%83%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E6%92%B2%E6%95%91",
+    "timestamp": "2026-09-06T03:23:36.106Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗擬對以色列發動「10.7式」襲擊　計劃與代理人發動多線攻擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173114190315917312521907.jpeg/FeCrAdYHNNMA44l7qe-sQC-uuc4FUfcwEG9j_ypvY_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387216/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3-%E7%B6%BF%E7%BE%8A%E4%BB%94%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-05T20:40:54.566Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港仔隧道出口　綿羊仔疑天雨路滑自炒撞欄　鐵騎士昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173114190315917312521907.jpeg/FeCrAdYHNNMA44l7qe-sQC-uuc4FUfcwEG9j_ypvY_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387216/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%93%E5%87%BA%E5%8F%A3-%E7%B6%BF%E7%BE%8A%E4%BB%94%E7%96%91%E5%A4%A9%E9%9B%A8%E8%B7%AF%E6%BB%91%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-05T20:29:58.133Z",
     "strategy": ".content-card__main"
   }
 ];
