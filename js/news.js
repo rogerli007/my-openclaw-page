@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T20:38:27.933Z
+// Last updated: 2026-09-06T20:53:19.317Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運會2026射擊｜香港運動員名單+賽程賽果+歷屆成績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173481802610774016638419.jpeg/13Ag8BzQyq1M7W6_mvnV3an0JnZ1PqNO_gMwRP4DMEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387407/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%B0%84%E6%93%8A-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
+    "timestamp": "2026-09-06T20:53:19.317Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運會2026射擊｜香港運動員名單+賽程賽果+歷屆成績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173367190330544128941870.jpeg/uEl54blf6-D2L5mLAaW_xPARh1Zl_S7OKeGdIinhnSI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387367/%E9%BA%A5%E7%8E%B2%E7%8E%B2%E6%A2%85%E5%88%86%E6%9E%90%E6%A2%85%E5%95%9F%E6%98%8E%E9%9D%A2%E7%9B%B8%E8%A4%87%E9%9B%9C-%E6%8C%87%E5%85%B6%E6%9C%89%E6%83%B3%E6%B3%95%E5%8B%B8%E5%AE%B6%E5%92%8C%E8%90%AC%E4%BA%8B%E8%88%88-%E8%A6%8B%E5%A5%BD%E5%B0%B1%E6%94%B6",
     "timestamp": "2026-09-06T14:28:49.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謊稱協助採購復必泰疫苗詐騙2.3億　台｢疫苗掮客｣潛逃香港遭通緝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173390869345079296791350.jpeg/yaNzgXVi9ylYFluwomuAFOXiyv9Kpky9ybwtKcm8LSk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60387381/%E8%AC%8A%E7%A8%B1%E5%8D%94%E5%8A%A9%E6%8E%A1%E8%B3%BC%E5%BE%A9%E5%BF%85%E6%B3%B0%E7%96%AB%E8%8B%97%E8%A9%90%E9%A8%992-3%E5%84%84-%E5%8F%B0-%E7%96%AB%E8%8B%97%E6%8E%AE%E5%AE%A2-%E6%BD%9B%E9%80%83%E9%A6%99%E6%B8%AF%E9%81%AD%E9%80%9A%E7%B7%9D",
-    "timestamp": "2026-09-06T14:15:23.902Z",
     "strategy": ".content-card__main"
   }
 ];
