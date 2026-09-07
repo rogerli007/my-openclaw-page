@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T11:41:59.916Z
+// Last updated: 2026-09-07T11:50:33.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "徐崢監製《囧徒之預演告別》被封年度神劇！黑色幽默揭網紅圈亂象",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173702407629049856453072.png/I3vwlRQ9JkSYYlqsi4daEw2ENCO4-ht-UEQY91BEGPc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60387648/%E5%BE%90%E5%B4%A2%E7%9B%A3%E8%A3%BD-%E5%9B%A7%E5%BE%92%E4%B9%8B%E9%A0%90%E6%BC%94%E5%91%8A%E5%88%A5-%E8%A2%AB%E5%B0%81%E5%B9%B4%E5%BA%A6%E7%A5%9E%E5%8A%87-%E9%BB%91%E8%89%B2%E5%B9%BD%E9%BB%98%E6%8F%AD%E7%B6%B2%E7%B4%85%E5%9C%88%E4%BA%82%E8%B1%A1",
+    "timestamp": "2026-09-07T11:50:33.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "徐崢監製《囧徒之預演告別》被封年度神劇！黑色幽默揭網紅圈亂象",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173463616515477504195803.jpeg/RgQ2NoZi8lPXyVNSLs9FUZ23E6mf2Q52xZ0lxcWdJcU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387406/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%AD%E6%96%B9%E7%8E%87%E5%A2%83%E5%A4%96%E8%A8%98%E8%80%85%E8%B5%B4%E7%81%BD%E5%8D%80-%E5%B7%B2%E5%B0%B1261%E5%A4%96%E7%B1%8D%E5%A4%B1%E8%B9%A4%E8%80%85%E9%80%9A%E5%A0%B1%E5%90%84%E5%9C%8B",
     "timestamp": "2026-09-06T23:54:04.688Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本柴犬墮海求生26小時　漂流5公里登島奇蹟生還　網民反應兩極",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172977117353218048893017.png/KHgqHoncE8E2JF34oyf98tL70xt6C53bLfc0jy33NI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385996/%E6%97%A5%E6%9C%AC%E6%9F%B4%E7%8A%AC%E5%A2%AE%E6%B5%B7%E6%B1%82%E7%94%9F26%E5%B0%8F%E6%99%82-%E6%BC%82%E6%B5%815%E5%85%AC%E9%87%8C%E7%99%BB%E5%B3%B6%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5",
-    "timestamp": "2026-09-06T23:37:58.633Z",
     "strategy": ".content-card__main"
   }
 ];
