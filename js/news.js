@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-06T23:54:04.688Z
+// Last updated: 2026-09-07T01:58:16.592Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "墨西哥中部小鎮發生煙火爆炸　釀至少10死64人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173566109966667776673025.jpeg/A02CUqtXwrZZqplagkSya0uoCx-doIK6gDD7IoAw-yI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387429/%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%AD%E9%83%A8%E5%B0%8F%E9%8E%AE%E7%99%BC%E7%94%9F%E7%85%99%E7%81%AB%E7%88%86%E7%82%B8-%E9%87%80%E8%87%B3%E5%B0%9110%E6%AD%BB64%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-09-07T01:58:16.592Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西藏泥石流｜中方率境外記者赴災區　已就261外籍失蹤者通報各國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173440797626863616625071.jpeg/4ASCI4nn9IX80sVe8aWxfG6mWH2Rp_eAeImG1XiJhtU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387400/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%9F%BB%E5%BE%8B%E6%B3%B3-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
     "timestamp": "2026-09-06T18:23:39.430Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美特使訪烏晤澤連斯基　討論冬季援助、戰後保障及冀重啟三方和談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173435561856602112495816.jpeg/Cfr1wH4Iaq6ZZ7fVqCVlSe1apmJQiCGU3nadkN52nZA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387398/%E7%BE%8E%E7%89%B9%E4%BD%BF%E8%A8%AA%E7%83%8F%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E8%A8%8E%E8%AB%96%E5%86%AC%E5%AD%A3%E6%8F%B4%E5%8A%A9-%E6%88%B0%E5%BE%8C%E4%BF%9D%E9%9A%9C%E5%8F%8A%E5%86%80%E9%87%8D%E5%95%9F%E4%B8%89%E6%96%B9%E5%92%8C%E8%AB%87",
-    "timestamp": "2026-09-06T17:53:37.869Z",
     "strategy": ".content-card__main"
   }
 ];
