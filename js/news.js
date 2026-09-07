@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T15:56:29.668Z
+// Last updated: 2026-09-07T16:42:15.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾智華轟《女足》霸檔期　田啟文回應《廚師發辦》減場：戲院現實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173770265511858176591764.jpeg/ABPDM2S_Ol3CoWc_2n5c8sNHcfpYVYufsClGToYpRk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387748/%E6%9B%BE%E6%99%BA%E8%8F%AF%E8%BD%9F-%E5%A5%B3%E8%B6%B3-%E9%9C%B8%E6%AA%94%E6%9C%9F-%E7%94%B0%E5%95%9F%E6%96%87%E5%9B%9E%E6%87%89-%E5%BB%9A%E5%B8%AB%E7%99%BC%E8%BE%A6-%E6%B8%9B%E5%A0%B4-%E6%88%B2%E9%99%A2%E7%8F%BE%E5%AF%A6",
+    "timestamp": "2026-09-07T16:42:15.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一架最平20.99萬人幣！　小米汽車︰澎程系列開賣4分鐘鎖單1萬架",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173660854680293376962871.png/oEBja9yPksVqW5_xAybtJIAr4MoZGj5wpCIxuqQiMbo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387479/%E7%9D%A1%E5%89%8D%E5%96%9D%E6%B0%B4%E6%80%95%E6%B0%B4%E8%85%AB-%E9%86%AB%E6%8F%AD%E6%97%A9%E4%B8%8A%E7%8F%BE3%E6%83%85%E6%B3%81%E6%81%90%E7%BC%BA%E6%B0%B4%E6%98%93%E4%B8%AD%E9%A2%A8-2%E6%9D%AF%E6%95%91%E5%91%BD%E6%B0%B4%E8%AD%B7%E8%A1%80%E7%AE%A1",
     "timestamp": "2026-09-07T08:03:05.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梁熙讀博士前局長授課　梁文廣讀碩士由議會同事講書｜政壇諸事町",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173645322514075648498536.jpeg/cQc_qHBDqHKAQcq653SVfFL0OoEKlzvLF9Ud2BfVHdg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387552/%E6%A2%81%E7%86%99%E8%AE%80%E5%8D%9A%E5%A3%AB%E5%89%8D%E5%B1%80%E9%95%B7%E6%8E%88%E8%AA%B2-%E6%A2%81%E6%96%87%E5%BB%A3%E8%AE%80%E7%A2%A9%E5%A3%AB%E7%94%B1%E8%AD%B0%E6%9C%83%E5%90%8C%E4%BA%8B%E8%AC%9B%E6%9B%B8-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
-    "timestamp": "2026-09-07T07:09:32.211Z",
     "strategy": ".content-card__main"
   }
 ];
