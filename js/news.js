@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T10:42:56.148Z
+// Last updated: 2026-09-07T11:32:30.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "克宮：不排除重啟俄美烏三方會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250312/976639292489076736785304.jpeg/2MkUHo-oX73SmbII4BGFml_i1v3whKKeIvZs0CL2bNA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387718/%E5%85%8B%E5%AE%AE-%E4%B8%8D%E6%8E%92%E9%99%A4%E9%87%8D%E5%95%9F%E4%BF%84%E7%BE%8E%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-09-07T11:32:30.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江西女生赴港追星致全家低保被取消引激辯　官方：正核查家庭情況",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172977117353218048893017.png/KHgqHoncE8E2JF34oyf98tL70xt6C53bLfc0jy33NI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385996/%E6%97%A5%E6%9C%AC%E6%9F%B4%E7%8A%AC%E5%A2%AE%E6%B5%B7%E6%B1%82%E7%94%9F26%E5%B0%8F%E6%99%82-%E6%BC%82%E6%B5%815%E5%85%AC%E9%87%8C%E7%99%BB%E5%B3%B6%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5",
     "timestamp": "2026-09-06T23:27:24.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本柴犬墮海求生26小時　漂流5公里登島奇蹟生還　網民反應兩極",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172977117353218048893017.png/KHgqHoncE8E2JF34oyf98tL70xt6C53bLfc0jy33NI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385996/%E6%97%A5%E6%9C%AC%E6%9F%B4%E7%8A%AC%E5%A2%AE%E6%B5%B7%E6%B1%82%E7%94%9F26%E5%B0%8F%E6%99%82-%E6%BC%82%E6%B5%815%E5%85%AC%E9%87%8C%E7%99%BB%E5%B3%B6%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5",
-    "timestamp": "2026-09-06T23:17:00.622Z",
     "strategy": ".content-card__main"
   }
 ];
