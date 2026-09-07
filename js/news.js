@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T15:33:39.424Z
+// Last updated: 2026-09-07T15:44:04.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廉署夥毒罪辦推全新國際反貪課程　共同打擊公職人員非法致富",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173774556150632448485236.jpeg/Kco3JI5iMi1pmaOZDGjXdtpu5CfNBzTo3td2C97Xdgs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387750/%E5%BB%89%E7%BD%B2%E5%A4%A5%E6%AF%92%E7%BD%AA%E8%BE%A6%E6%8E%A8%E5%85%A8%E6%96%B0%E5%9C%8B%E9%9A%9B%E5%8F%8D%E8%B2%AA%E8%AA%B2%E7%A8%8B-%E5%85%B1%E5%90%8C%E6%89%93%E6%93%8A%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E9%9D%9E%E6%B3%95%E8%87%B4%E5%AF%8C",
+    "timestamp": "2026-09-07T15:44:04.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廉署夥毒罪辦推全新國際反貪課程　共同打擊公職人員非法致富",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173630889670742016198725.jpeg/KTJGggNLLz_cnnJaNF7C0-v6MqXuK-IksPQ2DbD0Ng0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60387536/%E7%A5%9E%E5%B7%A7%E5%90%88-%E6%B9%96%E5%8C%972%E5%A5%B3%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F-%E4%BB%8A%E8%80%83%E4%B8%8A%E5%90%8C%E5%A4%A7%E5%AD%B8%E5%90%8C%E4%B8%80%E5%AD%B8%E7%B3%BB",
     "timestamp": "2026-09-07T06:41:10.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘋果秋季發佈會倒數 | 盤點6款新產品預測、規格與開售時間一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173599643083214848426530.jpeg/N-TmetECywStBZdwXJldyhgyXUd3ZZiSdneFUXZ3hVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60387466/%E8%98%8B%E6%9E%9C%E7%A7%8B%E5%AD%A3%E7%99%BC%E4%BD%88%E6%9C%83%E5%80%92%E6%95%B8-%E7%9B%A4%E9%BB%9E6%E6%AC%BE%E6%96%B0%E7%94%A2%E5%93%81%E9%A0%90%E6%B8%AC-%E8%A6%8F%E6%A0%BC%E8%88%87%E9%96%8B%E5%94%AE%E6%99%82%E9%96%93%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-09-07T05:43:59.513Z",
     "strategy": ".content-card__main"
   }
 ];
