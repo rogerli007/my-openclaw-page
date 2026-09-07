@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T03:57:47.502Z
+// Last updated: 2026-09-07T04:47:25.172Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅媽喪禮恐鬧雙胞　陸偉雄籲遺囑承辦人公開關鍵條文令梅啟明死心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173605905648848896684153.jpeg/8x-psngIOH89SLcFFDLf8h3LQcRnifYLxf5ZEcX-WRE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387414/%E6%A2%85%E5%AA%BD%E5%96%AA%E7%A6%AE%E6%81%90%E9%AC%A7%E9%9B%99%E8%83%9E-%E9%99%B8%E5%81%89%E9%9B%84%E7%B1%B2%E9%81%BA%E5%9B%91%E6%89%BF%E8%BE%A6%E4%BA%BA%E5%85%AC%E9%96%8B%E9%97%9C%E9%8D%B5%E6%A2%9D%E6%96%87%E4%BB%A4%E6%A2%85%E5%95%9F%E6%98%8E%E6%AD%BB%E5%BF%83",
+    "timestamp": "2026-09-07T04:47:25.172Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福田口岸免費巴士｜新路線直達4商場！卓悅中心+深圳之眼｜附班次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173481802610774016638419.jpeg/13Ag8BzQyq1M7W6_mvnV3an0JnZ1PqNO_gMwRP4DMEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387407/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%B0%84%E6%93%8A-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
     "timestamp": "2026-09-06T20:19:03.215Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔45歲男子機舖內遭4漢持木棍施襲　警反三合會行動組跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387408/%E5%A4%A7%E5%9F%9445%E6%AD%B2%E7%94%B7%E5%AD%90%E6%A9%9F%E8%88%96%E5%85%A7%E9%81%AD4%E6%BC%A2%E6%8C%81%E6%9C%A8%E6%A3%8D%E6%96%BD%E8%A5%B2-%E8%AD%A6%E5%8F%8D%E4%B8%89%E5%90%88%E6%9C%83%E8%A1%8C%E5%8B%95%E7%B5%84%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-09-06T19:53:25.712Z",
     "strategy": ".content-card__main"
   }
 ];
