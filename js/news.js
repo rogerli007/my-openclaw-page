@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T02:54:21.862Z
+// Last updated: 2026-09-07T03:47:46.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印尼火山噴發致8座機場關閉　交通部指航班取消已影響17萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173591830554480640238941.jpeg/IsoA3doBNhQnvYyJcUyY_AeOCz-OX1g_VPvOYlT7zmI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387482/%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC%E8%87%B48%E5%BA%A7%E6%A9%9F%E5%A0%B4%E9%97%9C%E9%96%89-%E4%BA%A4%E9%80%9A%E9%83%A8%E6%8C%87%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%E5%B7%B2%E5%BD%B1%E9%9F%BF17%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-09-07T03:47:46.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命︱將軍澳中學男生危站6樓外牆石壆　人員展開遊說",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387408/%E5%A4%A7%E5%9F%9445%E6%AD%B2%E7%94%B7%E5%AD%90%E6%A9%9F%E8%88%96%E5%85%A7%E9%81%AD4%E6%BC%A2%E6%8C%81%E6%9C%A8%E6%A3%8D%E6%96%BD%E8%A5%B2-%E8%AD%A6%E5%8F%8D%E4%B8%89%E5%90%88%E6%9C%83%E8%A1%8C%E5%8B%95%E7%B5%84%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-09-06T19:40:59.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "求職騙局冒充拯救貓狗協會賣旗　協會感痛心：籌備半年善心被利用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173458415247167488381520.jpeg/rn2sKHhM9pxoq52imwl7ELCeMUjTG9tpYOkW80rpFvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387405/%E6%B1%82%E8%81%B7%E9%A8%99%E5%B1%80%E5%86%92%E5%85%85%E6%8B%AF%E6%95%91%E8%B2%93%E7%8B%97%E5%8D%94%E6%9C%83%E8%B3%A3%E6%97%97-%E5%8D%94%E6%9C%83%E6%84%9F%E7%97%9B%E5%BF%83-%E7%B1%8C%E5%82%99%E5%8D%8A%E5%B9%B4%E5%96%84%E5%BF%83%E8%A2%AB%E5%88%A9%E7%94%A8",
-    "timestamp": "2026-09-06T19:26:43.555Z",
     "strategy": ".content-card__main"
   }
 ];
