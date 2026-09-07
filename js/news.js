@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T19:27:45.038Z
+// Last updated: 2026-09-07T19:41:52.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯入境處油尖區掃黃、反黑工　拘30人最細16歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
+    "timestamp": "2026-09-07T19:41:52.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯入境處油尖區掃黃、反黑工　拘30人最細16歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173717568427397120596134.jpeg/RI1IH9aGQSlvqlVy5XWizlarxWTPjCOUdPWc3nT1nN4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387721/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E8%AA%95%E8%BE%B0%E6%8E%A8%E5%87%BA%E4%BA%94%E5%A4%A7%E7%B4%80%E5%BF%B5%E9%A0%85%E7%9B%AE-%E9%8D%BE%E9%8E%AE%E6%BF%A4%E5%A5%B3%E5%85%92%E9%8D%BE%E6%87%BF%E7%8D%BB%E5%94%B1%E8%87%B4%E6%95%AC%E5%93%A5%E5%93%A5",
     "timestamp": "2026-09-07T13:21:42.791Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "剛坐便盆椅大便！喘氣男昏迷醫護尊重意願不施救　醫生解奪命原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173729935450181632785604.png/9u159mcC2g14m2CcnfBO4lkhpcA0Unh-68RxTevEcU0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384882/%E5%89%9B%E5%9D%90%E4%BE%BF%E7%9B%86%E6%A4%85%E5%A4%A7%E4%BE%BF-%E5%96%98%E6%B0%A3%E7%94%B7%E6%98%8F%E8%BF%B7%E9%86%AB%E8%AD%B7%E5%B0%8A%E9%87%8D%E6%84%8F%E9%A1%98%E4%B8%8D%E6%96%BD%E6%95%91-%E9%86%AB%E7%94%9F%E8%A7%A3%E5%A5%AA%E5%91%BD%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-09-07T12:51:28.977Z",
     "strategy": ".content-card__main"
   }
 ];
