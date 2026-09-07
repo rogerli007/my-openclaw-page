@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T03:47:46.633Z
+// Last updated: 2026-09-07T03:57:47.502Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福田口岸免費巴士｜新路線直達4商場！卓悅中心+深圳之眼｜附班次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173598433466912768095173.png/frrI4CW0l7WlKMqNVg1sYjq0eY8m9uEFZASQmWQEkJk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60387460/%E7%A6%8F%E7%94%B0%E5%8F%A3%E5%B2%B8%E5%85%8D%E8%B2%BB%E5%B7%B4%E5%A3%AB-%E6%96%B0%E8%B7%AF%E7%B7%9A%E7%9B%B4%E9%81%944%E5%95%86%E5%A0%B4-%E5%8D%93%E6%82%85%E4%B8%AD%E5%BF%83-%E6%B7%B1%E5%9C%B3%E4%B9%8B%E7%9C%BC-%E9%99%84%E7%8F%AD%E6%AC%A1",
+    "timestamp": "2026-09-07T03:57:47.502Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼火山噴發致8座機場關閉　交通部指航班取消已影響17萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387408/%E5%A4%A7%E5%9F%9445%E6%AD%B2%E7%94%B7%E5%AD%90%E6%A9%9F%E8%88%96%E5%85%A7%E9%81%AD4%E6%BC%A2%E6%8C%81%E6%9C%A8%E6%A3%8D%E6%96%BD%E8%A5%B2-%E8%AD%A6%E5%8F%8D%E4%B8%89%E5%90%88%E6%9C%83%E8%A1%8C%E5%8B%95%E7%B5%84%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-09-06T19:53:25.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔45歲男子機舖內遭4漢持木棍施襲　警反三合會行動組跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387408/%E5%A4%A7%E5%9F%9445%E6%AD%B2%E7%94%B7%E5%AD%90%E6%A9%9F%E8%88%96%E5%85%A7%E9%81%AD4%E6%BC%A2%E6%8C%81%E6%9C%A8%E6%A3%8D%E6%96%BD%E8%A5%B2-%E8%AD%A6%E5%8F%8D%E4%B8%89%E5%90%88%E6%9C%83%E8%A1%8C%E5%8B%95%E7%B5%84%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-09-06T19:40:59.169Z",
     "strategy": ".content-card__main"
   }
 ];
