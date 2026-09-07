@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T16:42:15.072Z
+// Last updated: 2026-09-07T16:54:03.682Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾智華轟《女足》霸檔期　田啟文回應《廚師發辦》減場：戲院現實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173770265511858176591764.jpeg/ABPDM2S_Ol3CoWc_2n5c8sNHcfpYVYufsClGToYpRk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387748/%E6%9B%BE%E6%99%BA%E8%8F%AF%E8%BD%9F-%E5%A5%B3%E8%B6%B3-%E9%9C%B8%E6%AA%94%E6%9C%9F-%E7%94%B0%E5%95%9F%E6%96%87%E5%9B%9E%E6%87%89-%E5%BB%9A%E5%B8%AB%E7%99%BC%E8%BE%A6-%E6%B8%9B%E5%A0%B4-%E6%88%B2%E9%99%A2%E7%8F%BE%E5%AF%A6",
+    "timestamp": "2026-09-07T16:54:03.682Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾智華轟《女足》霸檔期　田啟文回應《廚師發辦》減場：戲院現實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173666334844653568293857.jpeg/e2onybsMkCd69zOEfB5PiyZdOtN7ZrVtIXuLSyF7i0s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387617/%E7%BE%8E%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%80%99%E9%81%B8%E4%BA%BA%E7%AB%B6%E9%81%B8%E6%B4%BB%E5%8B%95%E9%81%87%E8%A5%B2%E9%87%80%E5%A4%9A%E4%BA%BA%E5%82%B7-%E4%B8%80%E5%90%8D%E6%8C%81%E6%A7%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-07T08:26:17.924Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "睡前喝水怕水腫？醫揭早上現3情況恐缺水易中風+2杯救命水護血管",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173660854680293376962871.png/oEBja9yPksVqW5_xAybtJIAr4MoZGj5wpCIxuqQiMbo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387479/%E7%9D%A1%E5%89%8D%E5%96%9D%E6%B0%B4%E6%80%95%E6%B0%B4%E8%85%AB-%E9%86%AB%E6%8F%AD%E6%97%A9%E4%B8%8A%E7%8F%BE3%E6%83%85%E6%B3%81%E6%81%90%E7%BC%BA%E6%B0%B4%E6%98%93%E4%B8%AD%E9%A2%A8-2%E6%9D%AF%E6%95%91%E5%91%BD%E6%B0%B4%E8%AD%B7%E8%A1%80%E7%AE%A1",
-    "timestamp": "2026-09-07T08:03:05.213Z",
     "strategy": ".content-card__main"
   }
 ];
