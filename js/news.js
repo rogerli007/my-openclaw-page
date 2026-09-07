@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T08:26:17.924Z
+// Last updated: 2026-09-07T09:27:44.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華為發佈首款搭載｢邏輯折疊｣技術晶片手機Mate XT 2  19999元起售",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173676163806007296438125.jpeg/3IBc-st1Fm14z6DdiI_046o7GH-s003io1tnDaNbZw0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387636/%E8%8F%AF%E7%82%BA%E7%99%BC%E4%BD%88%E9%A6%96%E6%AC%BE%E6%90%AD%E8%BC%89-%E9%82%8F%E8%BC%AF%E6%8A%98%E7%96%8A-%E6%8A%80%E8%A1%93%E6%99%B6%E7%89%87%E6%89%8B%E6%A9%9Fmate-xt-2-19999%E5%85%83%E8%B5%B7%E5%94%AE",
+    "timestamp": "2026-09-07T09:27:44.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美俄亥俄州民主黨候選人競選活動遇襲釀多人傷　一名持槍男子被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173398749532131328914586.jpeg/qgGj58FYh7rbEdOn9dbeNQpyRTs8HERh-Ob_LPjm_yw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387351/90%E5%B9%B4%E4%BB%A3%E6%A8%82%E5%A3%87%E5%A4%A9%E5%90%8E%E6%8D%B1%E9%81%8E%E4%BD%8E%E6%BD%AE%E8%BF%91%E5%B9%B4%E5%BE%A9%E5%87%BA%E9%96%8B%E9%A8%B7-%E5%85%A5%E5%A0%B4%E6%AD%8C%E8%BF%B7%E5%98%86%E5%A4%B1%E6%9C%9B-%E5%97%93%E5%AD%90%E5%A3%9E%E4%BA%86",
     "timestamp": "2026-09-06T22:41:38.589Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨最高32度　稍後局部地區驟雨較多及有雷暴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173512774026792960036291.jpeg/a6JhrvsBgMPUcm99T5BqPiB-er1Ag1MYdZ6Xx3Wel8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387409/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9832%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4",
-    "timestamp": "2026-09-06T22:24:57.974Z",
     "strategy": ".content-card__main"
   }
 ];
