@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T08:03:05.213Z
+// Last updated: 2026-09-07T08:26:17.924Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美俄亥俄州民主黨候選人競選活動遇襲釀多人傷　一名持槍男子被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173666334844653568293857.jpeg/e2onybsMkCd69zOEfB5PiyZdOtN7ZrVtIXuLSyF7i0s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387617/%E7%BE%8E%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%80%99%E9%81%B8%E4%BA%BA%E7%AB%B6%E9%81%B8%E6%B4%BB%E5%8B%95%E9%81%87%E8%A5%B2%E9%87%80%E5%A4%9A%E4%BA%BA%E5%82%B7-%E4%B8%80%E5%90%8D%E6%8C%81%E6%A7%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-07T08:26:17.924Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "睡前喝水怕水腫？醫揭早上現3情況恐缺水易中風+2杯救命水護血管",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173512774026792960036291.jpeg/a6JhrvsBgMPUcm99T5BqPiB-er1Ag1MYdZ6Xx3Wel8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387409/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8%E6%9C%80%E9%AB%9832%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E9%A9%9F%E9%9B%A8%E8%BC%83%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4",
     "timestamp": "2026-09-06T22:24:57.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科技園x恒生Living Lab2.0　銀行真實環境科企實測助金融數碼轉型",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171148965467394048126045.jpeg/nMYJMi7fyGzZzlpOzZQQ5__WjcyR6xhTd-xMDHfsTAw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60380573/%E7%A7%91%E6%8A%80%E5%9C%92x%E6%81%92%E7%94%9Fliving-lab2-0-%E9%8A%80%E8%A1%8C%E7%9C%9F%E5%AF%A6%E7%92%B0%E5%A2%83%E7%A7%91%E4%BC%81%E5%AF%A6%E6%B8%AC%E5%8A%A9%E9%87%91%E8%9E%8D%E6%95%B8%E7%A2%BC%E8%BD%89%E5%9E%8B",
-    "timestamp": "2026-09-06T22:17:54.401Z",
     "strategy": ".content-card__main"
   }
 ];
