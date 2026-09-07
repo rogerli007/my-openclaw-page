@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T18:53:55.280Z
+// Last updated: 2026-09-07T19:16:44.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄撤銷德國駐聖彼得堡總領館運作許可　歌德學院員工須9.13前離境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172247258851184640720318.jpeg/oo_8kkRua1M1ds0FJ0Qfgzg-Pgp9jspTHzxp1x88adc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387758/%E4%BF%84%E6%92%A4%E9%8A%B7%E5%BE%B7%E5%9C%8B%E9%A7%90%E8%81%96%E5%BD%BC%E5%BE%97%E5%A0%A1%E7%B8%BD%E9%A0%98%E9%A4%A8%E9%81%8B%E4%BD%9C%E8%A8%B1%E5%8F%AF-%E6%AD%8C%E5%BE%B7%E5%AD%B8%E9%99%A2%E5%93%A1%E5%B7%A5%E9%A0%889-13%E5%89%8D%E9%9B%A2%E5%A2%83",
+    "timestamp": "2026-09-07T19:16:44.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：高市料9.16改組內閣　訪美前完成黨政人事調整",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130867212064657408890147.jpeg/0RVmriKW8negijVgQ_PcIVT08snlza04UnLNbVJyzW0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387727/%E7%94%B7%E5%AD%90%E6%B6%89%E8%88%876%E8%87%B37%E6%AD%B2%E5%A6%B9%E4%BA%82%E5%80%AB-%E8%BE%AF%E6%96%B9%E6%8C%87%E8%A2%AB%E5%91%8A%E6%9B%BE%E8%A2%AB%E8%AD%A6%E6%89%93-%E5%8F%8A%E6%96%A5-%E4%BD%A0%E4%BF%82%E5%92%AA%E7%84%A1%E4%BA%BA%E6%80%A7",
     "timestamp": "2026-09-07T12:27:36.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "徐崢監製《囧徒之預演告別》被封年度神劇！黑色幽默揭網紅圈亂象",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173702407629049856453072.png/I3vwlRQ9JkSYYlqsi4daEw2ENCO4-ht-UEQY91BEGPc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60387648/%E5%BE%90%E5%B4%A2%E7%9B%A3%E8%A3%BD-%E5%9B%A7%E5%BE%92%E4%B9%8B%E9%A0%90%E6%BC%94%E5%91%8A%E5%88%A5-%E8%A2%AB%E5%B0%81%E5%B9%B4%E5%BA%A6%E7%A5%9E%E5%8A%87-%E9%BB%91%E8%89%B2%E5%B9%BD%E9%BB%98%E6%8F%AD%E7%B6%B2%E7%B4%85%E5%9C%88%E4%BA%82%E8%B1%A1",
-    "timestamp": "2026-09-07T11:50:33.114Z",
     "strategy": ".content-card__main"
   }
 ];
