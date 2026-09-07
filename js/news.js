@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T21:53:51.614Z
+// Last updated: 2026-09-07T22:18:18.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致天晴　日間酷熱約33度　未來兩三日有一兩陣驟雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173872749597429760795832.jpeg/OfFdtQHSzFNXPtvHXm6Eh-VM1T6I1BHECWjIngloyJ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387756/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E9%85%B7%E7%86%B1%E7%B4%8433%E5%BA%A6-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8",
+    "timestamp": "2026-09-07T22:18:18.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地私家車連撞3車傷男警　重案組列狂亂駕駛調查　追緝2男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173770265511858176591764.jpeg/ABPDM2S_Ol3CoWc_2n5c8sNHcfpYVYufsClGToYpRk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387748/%E6%9B%BE%E6%99%BA%E8%8F%AF%E8%BD%9F-%E5%A5%B3%E8%B6%B3-%E9%9C%B8%E6%AA%94%E6%9C%9F-%E7%94%B0%E5%95%9F%E6%96%87%E5%9B%9E%E6%87%89-%E5%BB%9A%E5%B8%AB%E7%99%BC%E8%BE%A6-%E6%B8%9B%E5%A0%B4-%E6%88%B2%E9%99%A2%E7%8F%BE%E5%AF%A6",
     "timestamp": "2026-09-07T16:42:15.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一架最平20.99萬人幣！　小米汽車︰澎程系列開賣4分鐘鎖單1萬架",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173780352250941440617493.jpeg/sqSkQtGVQ3aFmcNKdtUE_8l5yLSVwRjSuVBBULlQQVA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387754/%E4%B8%80%E6%9E%B6%E6%9C%80%E5%B9%B320-99%E8%90%AC%E4%BA%BA%E5%B9%A3-%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BB%8A-%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E9%96%8B%E8%B3%A34%E5%88%86%E9%90%98%E9%8E%96%E5%96%AE1%E8%90%AC%E6%9E%B6",
-    "timestamp": "2026-09-07T15:56:29.668Z",
     "strategy": ".content-card__main"
   }
 ];
