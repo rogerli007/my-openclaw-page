@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T02:28:38.075Z
+// Last updated: 2026-09-07T02:54:21.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命︱將軍澳中學男生危站6樓外牆石壆　人員展開遊說",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173577647599390720920415.jpeg/M8zzUnd11pKDYw1z3I1cxc4db_zTlvab668YJM6vGCQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387437/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%AD%E5%AD%B8%E7%94%B7%E7%94%9F%E5%8D%B1%E7%AB%996%E6%A8%93%E5%A4%96%E7%89%86%E7%9F%B3%E5%A3%86-%E4%BA%BA%E5%93%A1%E5%B1%95%E9%96%8B%E9%81%8A%E8%AA%AA",
+    "timestamp": "2026-09-07T02:54:21.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈巴雪山8天兩墮崖亡　運營方：未報備登山出事概不負責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173458415247167488381520.jpeg/rn2sKHhM9pxoq52imwl7ELCeMUjTG9tpYOkW80rpFvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387405/%E6%B1%82%E8%81%B7%E9%A8%99%E5%B1%80%E5%86%92%E5%85%85%E6%8B%AF%E6%95%91%E8%B2%93%E7%8B%97%E5%8D%94%E6%9C%83%E8%B3%A3%E6%97%97-%E5%8D%94%E6%9C%83%E6%84%9F%E7%97%9B%E5%BF%83-%E7%B1%8C%E5%82%99%E5%8D%8A%E5%B9%B4%E5%96%84%E5%BF%83%E8%A2%AB%E5%88%A9%E7%94%A8",
     "timestamp": "2026-09-06T19:26:43.555Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026水球｜香港運動員名單+賽程賽果+歷屆成績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173452780212326400946081.jpeg/vftfSI8eqLuX9kq5zr4DahpXBeFsD1bQvOFu7rzhbu4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387403/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B0%B4%E7%90%83-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
-    "timestamp": "2026-09-06T18:54:31.138Z",
     "strategy": ".content-card__main"
   }
 ];
