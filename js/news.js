@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T09:27:44.573Z
+// Last updated: 2026-09-07T09:56:49.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣2.34億元騙案｢疫苗掮客｣李易儒　疑潛逃香港後仍更新本港公司",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173689647646117888059183.jpeg/dre5lwDWv9rkmUKr0gEKiJNhpir03Lux4B-i8OAfovA?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60387678/%E5%8F%B0%E7%81%A32-34%E5%84%84%E5%85%83%E9%A8%99%E6%A1%88-%E7%96%AB%E8%8B%97%E6%8E%AE%E5%AE%A2-%E6%9D%8E%E6%98%93%E5%84%92-%E7%96%91%E6%BD%9B%E9%80%83%E9%A6%99%E6%B8%AF%E5%BE%8C%E4%BB%8D%E6%9B%B4%E6%96%B0%E6%9C%AC%E6%B8%AF%E5%85%AC%E5%8F%B8",
+    "timestamp": "2026-09-07T09:56:49.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華為發佈首款搭載｢邏輯折疊｣技術晶片手機Mate XT 2  19999元起售",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173398749532131328914586.jpeg/qgGj58FYh7rbEdOn9dbeNQpyRTs8HERh-Ob_LPjm_yw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387351/90%E5%B9%B4%E4%BB%A3%E6%A8%82%E5%A3%87%E5%A4%A9%E5%90%8E%E6%8D%B1%E9%81%8E%E4%BD%8E%E6%BD%AE%E8%BF%91%E5%B9%B4%E5%BE%A9%E5%87%BA%E9%96%8B%E9%A8%B7-%E5%85%A5%E5%A0%B4%E6%AD%8C%E8%BF%B7%E5%98%86%E5%A4%B1%E6%9C%9B-%E5%97%93%E5%AD%90%E5%A3%9E%E4%BA%86",
     "timestamp": "2026-09-06T22:50:12.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "90年代樂壇天后捱過低潮近年復出開騷　入場歌迷嘆失望：嗓子壞了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173398749532131328914586.jpeg/qgGj58FYh7rbEdOn9dbeNQpyRTs8HERh-Ob_LPjm_yw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387351/90%E5%B9%B4%E4%BB%A3%E6%A8%82%E5%A3%87%E5%A4%A9%E5%90%8E%E6%8D%B1%E9%81%8E%E4%BD%8E%E6%BD%AE%E8%BF%91%E5%B9%B4%E5%BE%A9%E5%87%BA%E9%96%8B%E9%A8%B7-%E5%85%A5%E5%A0%B4%E6%AD%8C%E8%BF%B7%E5%98%86%E5%A4%B1%E6%9C%9B-%E5%97%93%E5%AD%90%E5%A3%9E%E4%BA%86",
-    "timestamp": "2026-09-06T22:41:38.589Z",
     "strategy": ".content-card__main"
   }
 ];
