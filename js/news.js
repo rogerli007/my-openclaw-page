@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T15:44:04.582Z
+// Last updated: 2026-09-07T15:56:29.668Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一架最平20.99萬人幣！　小米汽車︰澎程系列開賣4分鐘鎖單1萬架",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173780352250941440617493.jpeg/sqSkQtGVQ3aFmcNKdtUE_8l5yLSVwRjSuVBBULlQQVA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387754/%E4%B8%80%E6%9E%B6%E6%9C%80%E5%B9%B320-99%E8%90%AC%E4%BA%BA%E5%B9%A3-%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BB%8A-%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E9%96%8B%E8%B3%A34%E5%88%86%E9%90%98%E9%8E%96%E5%96%AE1%E8%90%AC%E6%9E%B6",
+    "timestamp": "2026-09-07T15:56:29.668Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廉署夥毒罪辦推全新國際反貪課程　共同打擊公職人員非法致富",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173645322514075648498536.jpeg/cQc_qHBDqHKAQcq653SVfFL0OoEKlzvLF9Ud2BfVHdg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387552/%E6%A2%81%E7%86%99%E8%AE%80%E5%8D%9A%E5%A3%AB%E5%89%8D%E5%B1%80%E9%95%B7%E6%8E%88%E8%AA%B2-%E6%A2%81%E6%96%87%E5%BB%A3%E8%AE%80%E7%A2%A9%E5%A3%AB%E7%94%B1%E8%AD%B0%E6%9C%83%E5%90%8C%E4%BA%8B%E8%AC%9B%E6%9B%B8-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
     "timestamp": "2026-09-07T07:09:32.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "神巧合！湖北2女同名同姓同年同月同日生　今考上同大學同一學系",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173630889670742016198725.jpeg/KTJGggNLLz_cnnJaNF7C0-v6MqXuK-IksPQ2DbD0Ng0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60387536/%E7%A5%9E%E5%B7%A7%E5%90%88-%E6%B9%96%E5%8C%972%E5%A5%B3%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F-%E4%BB%8A%E8%80%83%E4%B8%8A%E5%90%8C%E5%A4%A7%E5%AD%B8%E5%90%8C%E4%B8%80%E5%AD%B8%E7%B3%BB",
-    "timestamp": "2026-09-07T06:41:10.763Z",
     "strategy": ".content-card__main"
   }
 ];
