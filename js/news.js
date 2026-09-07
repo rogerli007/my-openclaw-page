@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T05:21:08.996Z
+// Last updated: 2026-09-07T05:43:59.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘋果秋季發佈會倒數 | 盤點6款新產品預測、規格與開售時間一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173599643083214848426530.jpeg/N-TmetECywStBZdwXJldyhgyXUd3ZZiSdneFUXZ3hVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60387466/%E8%98%8B%E6%9E%9C%E7%A7%8B%E5%AD%A3%E7%99%BC%E4%BD%88%E6%9C%83%E5%80%92%E6%95%B8-%E7%9B%A4%E9%BB%9E6%E6%AC%BE%E6%96%B0%E7%94%A2%E5%93%81%E9%A0%90%E6%B8%AC-%E8%A6%8F%E6%A0%BC%E8%88%87%E9%96%8B%E5%94%AE%E6%99%82%E9%96%93%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-09-07T05:43:59.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關羅湖管制站連拘2男女涉走私活體病蟲　檢200隻蟋蟀13公斤蟑螂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173481802610774016638419.jpeg/13Ag8BzQyq1M7W6_mvnV3an0JnZ1PqNO_gMwRP4DMEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387407/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%B0%84%E6%93%8A-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
     "timestamp": "2026-09-06T20:53:19.317Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026射擊｜香港運動員名單+賽程賽果+歷屆成績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173481802610774016638419.jpeg/13Ag8BzQyq1M7W6_mvnV3an0JnZ1PqNO_gMwRP4DMEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387407/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%B0%84%E6%93%8A-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
-    "timestamp": "2026-09-06T20:38:27.933Z",
     "strategy": ".content-card__main"
   }
 ];
