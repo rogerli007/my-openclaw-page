@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T21:20:19.522Z
+// Last updated: 2026-09-07T21:29:39.503Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地私家車連撞3車傷男警　重案組列狂亂駕駛調查　追緝2男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173861550235062272632017.jpeg/JWN0pvUuJvMuCKBXXzkXuH_Qhg9cI_BX6wdQAOsHUAA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387765/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%A3%E6%92%9E3%E8%BB%8A%E5%82%B7%E7%94%B7%E8%AD%A6-%E9%87%8D%E6%A1%88%E7%B5%84%E5%88%97%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E8%AA%BF%E6%9F%A5-%E8%BF%BD%E7%B7%9D2%E7%94%B7",
+    "timestamp": "2026-09-07T21:29:39.503Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英王查理斯發信：哈里夫婦返英身份未變　不具王室公職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173774556150632448485236.jpeg/Kco3JI5iMi1pmaOZDGjXdtpu5CfNBzTo3td2C97Xdgs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387750/%E5%BB%89%E7%BD%B2%E5%A4%A5%E6%AF%92%E7%BD%AA%E8%BE%A6%E6%8E%A8%E5%85%A8%E6%96%B0%E5%9C%8B%E9%9A%9B%E5%8F%8D%E8%B2%AA%E8%AA%B2%E7%A8%8B-%E5%85%B1%E5%90%8C%E6%89%93%E6%93%8A%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E9%9D%9E%E6%B3%95%E8%87%B4%E5%AF%8C",
     "timestamp": "2026-09-07T15:33:39.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "溫哥華長者注意！祈福劫案、分心竊案頻生　八旬翁痛失亡妻鑽戒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173325470955999232510936.png/w4HBLFa-vr0OFb8rd0tCDR5tQ9Lyu3fLMJ1FUzCdRVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376773/%E6%BA%AB%E5%93%A5%E8%8F%AF%E9%95%B7%E8%80%85%E6%B3%A8%E6%84%8F-%E7%A5%88%E7%A6%8F%E5%8A%AB%E6%A1%88-%E5%88%86%E5%BF%83%E7%AB%8A%E6%A1%88%E9%A0%BB%E7%94%9F-%E5%85%AB%E6%97%AC%E7%BF%81%E7%97%9B%E5%A4%B1%E4%BA%A1%E5%A6%BB%E9%91%BD%E6%88%92",
-    "timestamp": "2026-09-07T15:19:47.831Z",
     "strategy": ".content-card__main"
   }
 ];
