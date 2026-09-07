@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T19:16:44.380Z
+// Last updated: 2026-09-07T19:27:45.038Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯入境處油尖區掃黃、反黑工　拘30人最細16歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
+    "timestamp": "2026-09-07T19:27:45.038Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄撤銷德國駐聖彼得堡總領館運作許可　歌德學院員工須9.13前離境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173729935450181632785604.png/9u159mcC2g14m2CcnfBO4lkhpcA0Unh-68RxTevEcU0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384882/%E5%89%9B%E5%9D%90%E4%BE%BF%E7%9B%86%E6%A4%85%E5%A4%A7%E4%BE%BF-%E5%96%98%E6%B0%A3%E7%94%B7%E6%98%8F%E8%BF%B7%E9%86%AB%E8%AD%B7%E5%B0%8A%E9%87%8D%E6%84%8F%E9%A1%98%E4%B8%8D%E6%96%BD%E6%95%91-%E9%86%AB%E7%94%9F%E8%A7%A3%E5%A5%AA%E5%91%BD%E5%8E%9F%E5%9B%A0",
     "timestamp": "2026-09-07T12:51:28.977Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男子涉與6至7歲妹亂倫　辯方指被告曾被警打　及斥：你係咪無人性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130867212064657408890147.jpeg/0RVmriKW8negijVgQ_PcIVT08snlza04UnLNbVJyzW0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387727/%E7%94%B7%E5%AD%90%E6%B6%89%E8%88%876%E8%87%B37%E6%AD%B2%E5%A6%B9%E4%BA%82%E5%80%AB-%E8%BE%AF%E6%96%B9%E6%8C%87%E8%A2%AB%E5%91%8A%E6%9B%BE%E8%A2%AB%E8%AD%A6%E6%89%93-%E5%8F%8A%E6%96%A5-%E4%BD%A0%E4%BF%82%E5%92%AA%E7%84%A1%E4%BA%BA%E6%80%A7",
-    "timestamp": "2026-09-07T12:27:36.881Z",
     "strategy": ".content-card__main"
   }
 ];
