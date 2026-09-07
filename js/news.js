@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T12:51:28.977Z
+// Last updated: 2026-09-07T13:21:42.791Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張國榮70誕辰推出五大紀念項目　鍾鎮濤女兒鍾懿獻唱致敬哥哥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173717568427397120596134.jpeg/RI1IH9aGQSlvqlVy5XWizlarxWTPjCOUdPWc3nT1nN4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387721/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E8%AA%95%E8%BE%B0%E6%8E%A8%E5%87%BA%E4%BA%94%E5%A4%A7%E7%B4%80%E5%BF%B5%E9%A0%85%E7%9B%AE-%E9%8D%BE%E9%8E%AE%E6%BF%A4%E5%A5%B3%E5%85%92%E9%8D%BE%E6%87%BF%E7%8D%BB%E5%94%B1%E8%87%B4%E6%95%AC%E5%93%A5%E5%93%A5",
+    "timestamp": "2026-09-07T13:21:42.791Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "剛坐便盆椅大便！喘氣男昏迷醫護尊重意願不施救　醫生解奪命原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173577647599390720920415.jpeg/M8zzUnd11pKDYw1z3I1cxc4db_zTlvab668YJM6vGCQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387437/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%AD%E5%AD%B8%E7%94%B7%E7%94%9F%E5%8D%B1%E7%AB%996%E6%A8%93%E5%A4%96%E7%89%86%E7%9F%B3%E5%A3%86-%E4%BA%BA%E5%93%A1%E5%B1%95%E9%96%8B%E9%81%8A%E8%AA%AA",
     "timestamp": "2026-09-07T02:54:21.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈巴雪山8天兩墮崖亡　運營方：未報備登山出事概不負責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240130/829065344533401600602349.png/5Zov3u9BOIFzsbP---Av5kZYfiAxkTfOJw-jyCcPo8g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387442/%E5%93%88%E5%B7%B4%E9%9B%AA%E5%B1%B18%E5%A4%A9%E5%85%A9%E5%A2%AE%E5%B4%96%E4%BA%A1-%E9%81%8B%E7%87%9F%E6%96%B9-%E6%9C%AA%E5%A0%B1%E5%82%99%E7%99%BB%E5%B1%B1%E5%87%BA%E4%BA%8B%E6%A6%82%E4%B8%8D%E8%B2%A0%E8%B2%AC",
-    "timestamp": "2026-09-07T02:28:38.075Z",
     "strategy": ".content-card__main"
   }
 ];
