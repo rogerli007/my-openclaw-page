@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T17:18:43.396Z
+// Last updated: 2026-09-07T17:41:03.444Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：高市料9.16改組內閣　訪美前完成黨政人事調整",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387757/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%96%999-16%E6%94%B9%E7%B5%84%E5%85%A7%E9%96%A3-%E8%A8%AA%E7%BE%8E%E5%89%8D%E5%AE%8C%E6%88%90%E9%BB%A8%E6%94%BF%E4%BA%BA%E4%BA%8B%E8%AA%BF%E6%95%B4",
+    "timestamp": "2026-09-07T17:41:03.444Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾智華轟《女足》霸檔期　田啟文回應《廚師發辦》減場：戲院現實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173689647646117888059183.jpeg/dre5lwDWv9rkmUKr0gEKiJNhpir03Lux4B-i8OAfovA?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60387678/%E5%8F%B0%E7%81%A32-34%E5%84%84%E5%85%83%E9%A8%99%E6%A1%88-%E7%96%AB%E8%8B%97%E6%8E%AE%E5%AE%A2-%E6%9D%8E%E6%98%93%E5%84%92-%E7%96%91%E6%BD%9B%E9%80%83%E9%A6%99%E6%B8%AF%E5%BE%8C%E4%BB%8D%E6%9B%B4%E6%96%B0%E6%9C%AC%E6%B8%AF%E5%85%AC%E5%8F%B8",
     "timestamp": "2026-09-07T09:56:49.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華為發佈首款搭載｢邏輯折疊｣技術晶片手機Mate XT 2  19999元起售",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173676163806007296438125.jpeg/3IBc-st1Fm14z6DdiI_046o7GH-s003io1tnDaNbZw0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387636/%E8%8F%AF%E7%82%BA%E7%99%BC%E4%BD%88%E9%A6%96%E6%AC%BE%E6%90%AD%E8%BC%89-%E9%82%8F%E8%BC%AF%E6%8A%98%E7%96%8A-%E6%8A%80%E8%A1%93%E6%99%B6%E7%89%87%E6%89%8B%E6%A9%9Fmate-xt-2-19999%E5%85%83%E8%B5%B7%E5%94%AE",
-    "timestamp": "2026-09-07T09:27:44.573Z",
     "strategy": ".content-card__main"
   }
 ];
