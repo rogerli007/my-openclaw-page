@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T17:41:03.444Z
+// Last updated: 2026-09-07T17:54:08.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：高市料9.16改組內閣　訪美前完成黨政人事調整",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387757/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%96%999-16%E6%94%B9%E7%B5%84%E5%85%A7%E9%96%A3-%E8%A8%AA%E7%BE%8E%E5%89%8D%E5%AE%8C%E6%88%90%E9%BB%A8%E6%94%BF%E4%BA%BA%E4%BA%8B%E8%AA%BF%E6%95%B4",
+    "timestamp": "2026-09-07T17:54:08.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：高市料9.16改組內閣　訪美前完成黨政人事調整",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173699691741712384316207.png/y3o1ETmgNjVuUou6nZ4WoUEZSWO4kMMPb6sI92-rCPc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387707/%E6%B1%9F%E8%A5%BF%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E8%BF%BD%E6%98%9F%E8%87%B4%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E8%A2%AB%E5%8F%96%E6%B6%88%E5%BC%95%E6%BF%80%E8%BE%AF-%E5%AE%98%E6%96%B9-%E6%AD%A3%E6%A0%B8%E6%9F%A5%E5%AE%B6%E5%BA%AD%E6%83%85%E6%B3%81",
     "timestamp": "2026-09-07T10:42:56.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣2.34億元騙案｢疫苗掮客｣李易儒　疑潛逃香港後仍更新本港公司",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173689647646117888059183.jpeg/dre5lwDWv9rkmUKr0gEKiJNhpir03Lux4B-i8OAfovA?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60387678/%E5%8F%B0%E7%81%A32-34%E5%84%84%E5%85%83%E9%A8%99%E6%A1%88-%E7%96%AB%E8%8B%97%E6%8E%AE%E5%AE%A2-%E6%9D%8E%E6%98%93%E5%84%92-%E7%96%91%E6%BD%9B%E9%80%83%E9%A6%99%E6%B8%AF%E5%BE%8C%E4%BB%8D%E6%9B%B4%E6%96%B0%E6%9C%AC%E6%B8%AF%E5%85%AC%E5%8F%B8",
-    "timestamp": "2026-09-07T09:56:49.090Z",
     "strategy": ".content-card__main"
   }
 ];
