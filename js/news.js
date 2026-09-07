@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T01:58:16.592Z
+// Last updated: 2026-09-07T02:28:38.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈巴雪山8天兩墮崖亡　運營方：未報備登山出事概不負責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240130/829065344533401600602349.png/5Zov3u9BOIFzsbP---Av5kZYfiAxkTfOJw-jyCcPo8g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387442/%E5%93%88%E5%B7%B4%E9%9B%AA%E5%B1%B18%E5%A4%A9%E5%85%A9%E5%A2%AE%E5%B4%96%E4%BA%A1-%E9%81%8B%E7%87%9F%E6%96%B9-%E6%9C%AA%E5%A0%B1%E5%82%99%E7%99%BB%E5%B1%B1%E5%87%BA%E4%BA%8B%E6%A6%82%E4%B8%8D%E8%B2%A0%E8%B2%AC",
+    "timestamp": "2026-09-07T02:28:38.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "墨西哥中部小鎮發生煙火爆炸　釀至少10死64人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173452780212326400946081.jpeg/vftfSI8eqLuX9kq5zr4DahpXBeFsD1bQvOFu7rzhbu4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387403/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B0%B4%E7%90%83-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
     "timestamp": "2026-09-06T18:54:31.138Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026韻律泳｜香港運動員名單+賽程賽果+歷屆成績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173440797626863616625071.jpeg/4ASCI4nn9IX80sVe8aWxfG6mWH2Rp_eAeImG1XiJhtU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387400/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%9F%BB%E5%BE%8B%E6%B3%B3-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
-    "timestamp": "2026-09-06T18:23:39.430Z",
     "strategy": ".content-card__main"
   }
 ];
