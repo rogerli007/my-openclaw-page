@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T22:26:10.891Z
+// Last updated: 2026-09-07T22:42:17.027Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜荃灣54歲男子墮平台　昏迷送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387769/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A354%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E5%B9%B3%E5%8F%B0-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-09-07T22:42:17.027Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗大廈雜物起火　起火原因有可疑　警列縱火案調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173770265511858176591764.jpeg/ABPDM2S_Ol3CoWc_2n5c8sNHcfpYVYufsClGToYpRk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387748/%E6%9B%BE%E6%99%BA%E8%8F%AF%E8%BD%9F-%E5%A5%B3%E8%B6%B3-%E9%9C%B8%E6%AA%94%E6%9C%9F-%E7%94%B0%E5%95%9F%E6%96%87%E5%9B%9E%E6%87%89-%E5%BB%9A%E5%B8%AB%E7%99%BC%E8%BE%A6-%E6%B8%9B%E5%A0%B4-%E6%88%B2%E9%99%A2%E7%8F%BE%E5%AF%A6",
     "timestamp": "2026-09-07T17:18:43.396Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾智華轟《女足》霸檔期　田啟文回應《廚師發辦》減場：戲院現實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173770265511858176591764.jpeg/ABPDM2S_Ol3CoWc_2n5c8sNHcfpYVYufsClGToYpRk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387748/%E6%9B%BE%E6%99%BA%E8%8F%AF%E8%BD%9F-%E5%A5%B3%E8%B6%B3-%E9%9C%B8%E6%AA%94%E6%9C%9F-%E7%94%B0%E5%95%9F%E6%96%87%E5%9B%9E%E6%87%89-%E5%BB%9A%E5%B8%AB%E7%99%BC%E8%BE%A6-%E6%B8%9B%E5%A0%B4-%E6%88%B2%E9%99%A2%E7%8F%BE%E5%AF%A6",
-    "timestamp": "2026-09-07T16:54:03.682Z",
     "strategy": ".content-card__main"
   }
 ];
