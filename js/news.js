@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T07:09:32.211Z
+// Last updated: 2026-09-07T08:03:05.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "睡前喝水怕水腫？醫揭早上現3情況恐缺水易中風+2杯救命水護血管",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173660854680293376962871.png/oEBja9yPksVqW5_xAybtJIAr4MoZGj5wpCIxuqQiMbo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60387479/%E7%9D%A1%E5%89%8D%E5%96%9D%E6%B0%B4%E6%80%95%E6%B0%B4%E8%85%AB-%E9%86%AB%E6%8F%AD%E6%97%A9%E4%B8%8A%E7%8F%BE3%E6%83%85%E6%B3%81%E6%81%90%E7%BC%BA%E6%B0%B4%E6%98%93%E4%B8%AD%E9%A2%A8-2%E6%9D%AF%E6%95%91%E5%91%BD%E6%B0%B4%E8%AD%B7%E8%A1%80%E7%AE%A1",
+    "timestamp": "2026-09-07T08:03:05.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁熙讀博士前局長授課　梁文廣讀碩士由議會同事講書｜政壇諸事町",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260831/1171148965467394048126045.jpeg/nMYJMi7fyGzZzlpOzZQQ5__WjcyR6xhTd-xMDHfsTAw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60380573/%E7%A7%91%E6%8A%80%E5%9C%92x%E6%81%92%E7%94%9Fliving-lab2-0-%E9%8A%80%E8%A1%8C%E7%9C%9F%E5%AF%A6%E7%92%B0%E5%A2%83%E7%A7%91%E4%BC%81%E5%AF%A6%E6%B8%AC%E5%8A%A9%E9%87%91%E8%9E%8D%E6%95%B8%E7%A2%BC%E8%BD%89%E5%9E%8B",
     "timestamp": "2026-09-06T22:17:54.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Amazon貨機降落邁阿密衝出跑道　撞上多車起火冒煙　據指多人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173490277936009216629871.jpeg/vWaLmC_Hlu9QaA0uLgIsDK9u2jV4X2UT7WTT4e1k0-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387413/amazon%E8%B2%A8%E6%A9%9F%E9%99%8D%E8%90%BD%E9%82%81%E9%98%BF%E5%AF%86%E8%A1%9D%E5%87%BA%E8%B7%91%E9%81%93-%E6%92%9E%E4%B8%8A%E5%A4%9A%E8%BB%8A%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%93%9A%E6%8C%87%E5%A4%9A%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-09-06T21:53:57.034Z",
     "strategy": ".content-card__main"
   }
 ];
