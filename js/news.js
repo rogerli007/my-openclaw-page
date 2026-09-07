@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T18:23:34.133Z
+// Last updated: 2026-09-07T18:45:35.593Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：高市料9.16改組內閣　訪美前完成黨政人事調整",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387757/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%96%999-16%E6%94%B9%E7%B5%84%E5%85%A7%E9%96%A3-%E8%A8%AA%E7%BE%8E%E5%89%8D%E5%AE%8C%E6%88%90%E9%BB%A8%E6%94%BF%E4%BA%BA%E4%BA%8B%E8%AA%BF%E6%95%B4",
+    "timestamp": "2026-09-07T18:45:35.593Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：高市料9.16改組內閣　訪美前完成黨政人事調整",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173702407629049856453072.png/I3vwlRQ9JkSYYlqsi4daEw2ENCO4-ht-UEQY91BEGPc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60387648/%E5%BE%90%E5%B4%A2%E7%9B%A3%E8%A3%BD-%E5%9B%A7%E5%BE%92%E4%B9%8B%E9%A0%90%E6%BC%94%E5%91%8A%E5%88%A5-%E8%A2%AB%E5%B0%81%E5%B9%B4%E5%BA%A6%E7%A5%9E%E5%8A%87-%E9%BB%91%E8%89%B2%E5%B9%BD%E9%BB%98%E6%8F%AD%E7%B6%B2%E7%B4%85%E5%9C%88%E4%BA%82%E8%B1%A1",
     "timestamp": "2026-09-07T11:41:59.916Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "克宮：不排除重啟俄美烏三方會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250312/976639292489076736785304.jpeg/2MkUHo-oX73SmbII4BGFml_i1v3whKKeIvZs0CL2bNA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387718/%E5%85%8B%E5%AE%AE-%E4%B8%8D%E6%8E%92%E9%99%A4%E9%87%8D%E5%95%9F%E4%BF%84%E7%BE%8E%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-09-07T11:32:30.088Z",
     "strategy": ".content-card__main"
   }
 ];
