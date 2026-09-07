@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T12:27:36.881Z
+// Last updated: 2026-09-07T12:51:28.977Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "剛坐便盆椅大便！喘氣男昏迷醫護尊重意願不施救　醫生解奪命原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173729935450181632785604.png/9u159mcC2g14m2CcnfBO4lkhpcA0Unh-68RxTevEcU0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384882/%E5%89%9B%E5%9D%90%E4%BE%BF%E7%9B%86%E6%A4%85%E5%A4%A7%E4%BE%BF-%E5%96%98%E6%B0%A3%E7%94%B7%E6%98%8F%E8%BF%B7%E9%86%AB%E8%AD%B7%E5%B0%8A%E9%87%8D%E6%84%8F%E9%A1%98%E4%B8%8D%E6%96%BD%E6%95%91-%E9%86%AB%E7%94%9F%E8%A7%A3%E5%A5%AA%E5%91%BD%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-09-07T12:51:28.977Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男子涉與6至7歲妹亂倫　辯方指被告曾被警打　及斥：你係咪無人性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240130/829065344533401600602349.png/5Zov3u9BOIFzsbP---Av5kZYfiAxkTfOJw-jyCcPo8g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387442/%E5%93%88%E5%B7%B4%E9%9B%AA%E5%B1%B18%E5%A4%A9%E5%85%A9%E5%A2%AE%E5%B4%96%E4%BA%A1-%E9%81%8B%E7%87%9F%E6%96%B9-%E6%9C%AA%E5%A0%B1%E5%82%99%E7%99%BB%E5%B1%B1%E5%87%BA%E4%BA%8B%E6%A6%82%E4%B8%8D%E8%B2%A0%E8%B2%AC",
     "timestamp": "2026-09-07T02:28:38.075Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "墨西哥中部小鎮發生煙火爆炸　釀至少10死64人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173566109966667776673025.jpeg/A02CUqtXwrZZqplagkSya0uoCx-doIK6gDD7IoAw-yI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387429/%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%AD%E9%83%A8%E5%B0%8F%E9%8E%AE%E7%99%BC%E7%94%9F%E7%85%99%E7%81%AB%E7%88%86%E7%82%B8-%E9%87%80%E8%87%B3%E5%B0%9110%E6%AD%BB64%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-09-07T01:58:16.592Z",
     "strategy": ".content-card__main"
   }
 ];
