@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T15:19:47.831Z
+// Last updated: 2026-09-07T15:33:39.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廉署夥毒罪辦推全新國際反貪課程　共同打擊公職人員非法致富",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173774556150632448485236.jpeg/Kco3JI5iMi1pmaOZDGjXdtpu5CfNBzTo3td2C97Xdgs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387750/%E5%BB%89%E7%BD%B2%E5%A4%A5%E6%AF%92%E7%BD%AA%E8%BE%A6%E6%8E%A8%E5%85%A8%E6%96%B0%E5%9C%8B%E9%9A%9B%E5%8F%8D%E8%B2%AA%E8%AA%B2%E7%A8%8B-%E5%85%B1%E5%90%8C%E6%89%93%E6%93%8A%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E9%9D%9E%E6%B3%95%E8%87%B4%E5%AF%8C",
+    "timestamp": "2026-09-07T15:33:39.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "溫哥華長者注意！祈福劫案、分心竊案頻生　八旬翁痛失亡妻鑽戒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173599643083214848426530.jpeg/N-TmetECywStBZdwXJldyhgyXUd3ZZiSdneFUXZ3hVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60387466/%E8%98%8B%E6%9E%9C%E7%A7%8B%E5%AD%A3%E7%99%BC%E4%BD%88%E6%9C%83%E5%80%92%E6%95%B8-%E7%9B%A4%E9%BB%9E6%E6%AC%BE%E6%96%B0%E7%94%A2%E5%93%81%E9%A0%90%E6%B8%AC-%E8%A6%8F%E6%A0%BC%E8%88%87%E9%96%8B%E5%94%AE%E6%99%82%E9%96%93%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-09-07T05:43:59.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關羅湖管制站連拘2男女涉走私活體病蟲　檢200隻蟋蟀13公斤蟑螂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173617910585757696691572.jpeg/RJw1Oaxlbqroixlhel7fbqFJgDLCTtGjBvCa0QbwmtE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387518/%E6%B5%B7%E9%97%9C%E7%BE%85%E6%B9%96%E7%AE%A1%E5%88%B6%E7%AB%99%E9%80%A3%E6%8B%982%E7%94%B7%E5%A5%B3%E6%B6%89%E8%B5%B0%E7%A7%81%E6%B4%BB%E9%AB%94%E7%97%85%E8%9F%B2-%E6%AA%A2200%E9%9A%BB%E8%9F%8B%E8%9F%8013%E5%85%AC%E6%96%A4%E8%9F%91%E8%9E%82",
-    "timestamp": "2026-09-07T05:21:08.996Z",
     "strategy": ".content-card__main"
   }
 ];
