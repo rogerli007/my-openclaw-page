@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T13:53:29.603Z
+// Last updated: 2026-09-07T14:21:41.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "24歲吃播網紅病逝　曾直播食70個皮蛋　遺言籲：身體永遠是第一位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173756062428303360425608.jpeg/YjBv1LCRr2ieMPp5mvK73M_UaUoP-9o4hzSo_oc0qP4",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60387741/24%E6%AD%B2%E5%90%83%E6%92%AD%E7%B6%B2%E7%B4%85%E7%97%85%E9%80%9D-%E6%9B%BE%E7%9B%B4%E6%92%AD%E9%A3%9F70%E5%80%8B%E7%9A%AE%E8%9B%8B-%E9%81%BA%E8%A8%80%E7%B1%B2-%E8%BA%AB%E9%AB%94%E6%B0%B8%E9%81%A0%E6%98%AF%E7%AC%AC%E4%B8%80%E4%BD%8D",
+    "timestamp": "2026-09-07T14:21:41.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌華姐冰室外賣現老鼠｜食環署：部份地方衞生欠佳　已提出檢控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173598433466912768095173.png/frrI4CW0l7WlKMqNVg1sYjq0eY8m9uEFZASQmWQEkJk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60387460/%E7%A6%8F%E7%94%B0%E5%8F%A3%E5%B2%B8%E5%85%8D%E8%B2%BB%E5%B7%B4%E5%A3%AB-%E6%96%B0%E8%B7%AF%E7%B7%9A%E7%9B%B4%E9%81%944%E5%95%86%E5%A0%B4-%E5%8D%93%E6%82%85%E4%B8%AD%E5%BF%83-%E6%B7%B1%E5%9C%B3%E4%B9%8B%E7%9C%BC-%E9%99%84%E7%8F%AD%E6%AC%A1",
     "timestamp": "2026-09-07T03:57:47.502Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼火山噴發致8座機場關閉　交通部指航班取消已影響17萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173591830554480640238941.jpeg/IsoA3doBNhQnvYyJcUyY_AeOCz-OX1g_VPvOYlT7zmI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387482/%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC%E8%87%B48%E5%BA%A7%E6%A9%9F%E5%A0%B4%E9%97%9C%E9%96%89-%E4%BA%A4%E9%80%9A%E9%83%A8%E6%8C%87%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%E5%B7%B2%E5%BD%B1%E9%9F%BF17%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-09-07T03:47:46.633Z",
     "strategy": ".content-card__main"
   }
 ];
