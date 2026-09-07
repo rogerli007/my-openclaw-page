@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T13:21:42.791Z
+// Last updated: 2026-09-07T13:53:29.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌華姐冰室外賣現老鼠｜食環署：部份地方衞生欠佳　已提出檢控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173746978916405248860732.jpeg/0Gl8ME3vmxSUIVkgHldKZ0ZScsfizNBDOANfzzgDX88",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387733/%E8%91%B5%E6%B6%8C%E8%8F%AF%E5%A7%90%E5%86%B0%E5%AE%A4%E5%A4%96%E8%B3%A3%E7%8F%BE%E8%80%81%E9%BC%A0-%E9%A3%9F%E7%92%B0%E7%BD%B2-%E9%83%A8%E4%BB%BD%E5%9C%B0%E6%96%B9%E8%A1%9E%E7%94%9F%E6%AC%A0%E4%BD%B3-%E5%B7%B2%E6%8F%90%E5%87%BA%E6%AA%A2%E6%8E%A7",
+    "timestamp": "2026-09-07T13:53:29.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張國榮70誕辰推出五大紀念項目　鍾鎮濤女兒鍾懿獻唱致敬哥哥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173591830554480640238941.jpeg/IsoA3doBNhQnvYyJcUyY_AeOCz-OX1g_VPvOYlT7zmI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387482/%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC%E8%87%B48%E5%BA%A7%E6%A9%9F%E5%A0%B4%E9%97%9C%E9%96%89-%E4%BA%A4%E9%80%9A%E9%83%A8%E6%8C%87%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%E5%B7%B2%E5%BD%B1%E9%9F%BF17%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-09-07T03:47:46.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命︱將軍澳中學男生危站6樓外牆石壆　人員展開遊說",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173577647599390720920415.jpeg/M8zzUnd11pKDYw1z3I1cxc4db_zTlvab668YJM6vGCQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387437/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%AD%E5%AD%B8%E7%94%B7%E7%94%9F%E5%8D%B1%E7%AB%996%E6%A8%93%E5%A4%96%E7%89%86%E7%9F%B3%E5%A3%86-%E4%BA%BA%E5%93%A1%E5%B1%95%E9%96%8B%E9%81%8A%E8%AA%AA",
-    "timestamp": "2026-09-07T02:54:21.862Z",
     "strategy": ".content-card__main"
   }
 ];
