@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T14:43:02.875Z
+// Last updated: 2026-09-07T14:53:42.294Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國據報擬應美方要求向霍爾木茲派兵　輿論反彈後改口：尚無定論",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220401/586671844036186112852073.jpeg/jGu6rn4xKh6-ZBdiZO-wfTJUKAM-GFJQ6wX_oesF_6E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387734/%E9%9F%93%E5%9C%8B%E6%93%9A%E5%A0%B1%E6%93%AC%E6%87%89%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E5%90%91%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B4%BE%E5%85%B5-%E8%BC%BF%E8%AB%96%E5%8F%8D%E5%BD%88%E5%BE%8C%E6%94%B9%E5%8F%A3-%E5%B0%9A%E7%84%A1%E5%AE%9A%E8%AB%96",
+    "timestamp": "2026-09-07T14:53:42.294Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國據報擬應美方要求向霍爾木茲派兵　輿論反彈後改口：尚無定論",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173605905648848896684153.jpeg/8x-psngIOH89SLcFFDLf8h3LQcRnifYLxf5ZEcX-WRE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387414/%E6%A2%85%E5%AA%BD%E5%96%AA%E7%A6%AE%E6%81%90%E9%AC%A7%E9%9B%99%E8%83%9E-%E9%99%B8%E5%81%89%E9%9B%84%E7%B1%B2%E9%81%BA%E5%9B%91%E6%89%BF%E8%BE%A6%E4%BA%BA%E5%85%AC%E9%96%8B%E9%97%9C%E9%8D%B5%E6%A2%9D%E6%96%87%E4%BB%A4%E6%A2%85%E5%95%9F%E6%98%8E%E6%AD%BB%E5%BF%83",
     "timestamp": "2026-09-07T04:57:16.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅媽喪禮恐鬧雙胞　陸偉雄籲遺囑承辦人公開關鍵條文令梅啟明死心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173605905648848896684153.jpeg/8x-psngIOH89SLcFFDLf8h3LQcRnifYLxf5ZEcX-WRE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387414/%E6%A2%85%E5%AA%BD%E5%96%AA%E7%A6%AE%E6%81%90%E9%AC%A7%E9%9B%99%E8%83%9E-%E9%99%B8%E5%81%89%E9%9B%84%E7%B1%B2%E9%81%BA%E5%9B%91%E6%89%BF%E8%BE%A6%E4%BA%BA%E5%85%AC%E9%96%8B%E9%97%9C%E9%8D%B5%E6%A2%9D%E6%96%87%E4%BB%A4%E6%A2%85%E5%95%9F%E6%98%8E%E6%AD%BB%E5%BF%83",
-    "timestamp": "2026-09-07T04:47:25.172Z",
     "strategy": ".content-card__main"
   }
 ];
