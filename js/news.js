@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T17:54:08.617Z
+// Last updated: 2026-09-07T18:23:34.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：高市料9.16改組內閣　訪美前完成黨政人事調整",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387757/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%96%999-16%E6%94%B9%E7%B5%84%E5%85%A7%E9%96%A3-%E8%A8%AA%E7%BE%8E%E5%89%8D%E5%AE%8C%E6%88%90%E9%BB%A8%E6%94%BF%E4%BA%BA%E4%BA%8B%E8%AA%BF%E6%95%B4",
+    "timestamp": "2026-09-07T18:23:34.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：高市料9.16改組內閣　訪美前完成黨政人事調整",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250312/976639292489076736785304.jpeg/2MkUHo-oX73SmbII4BGFml_i1v3whKKeIvZs0CL2bNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387718/%E5%85%8B%E5%AE%AE-%E4%B8%8D%E6%8E%92%E9%99%A4%E9%87%8D%E5%95%9F%E4%BF%84%E7%BE%8E%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
     "timestamp": "2026-09-07T11:32:30.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江西女生赴港追星致全家低保被取消引激辯　官方：正核查家庭情況",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173699691741712384316207.png/y3o1ETmgNjVuUou6nZ4WoUEZSWO4kMMPb6sI92-rCPc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387707/%E6%B1%9F%E8%A5%BF%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E8%BF%BD%E6%98%9F%E8%87%B4%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E8%A2%AB%E5%8F%96%E6%B6%88%E5%BC%95%E6%BF%80%E8%BE%AF-%E5%AE%98%E6%96%B9-%E6%AD%A3%E6%A0%B8%E6%9F%A5%E5%AE%B6%E5%BA%AD%E6%83%85%E6%B3%81",
-    "timestamp": "2026-09-07T10:42:56.148Z",
     "strategy": ".content-card__main"
   }
 ];
