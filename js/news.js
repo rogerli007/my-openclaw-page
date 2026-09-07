@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T11:50:33.114Z
+// Last updated: 2026-09-07T12:27:36.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男子涉與6至7歲妹亂倫　辯方指被告曾被警打　及斥：你係咪無人性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1130867212064657408890147.jpeg/0RVmriKW8negijVgQ_PcIVT08snlza04UnLNbVJyzW0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387727/%E7%94%B7%E5%AD%90%E6%B6%89%E8%88%876%E8%87%B37%E6%AD%B2%E5%A6%B9%E4%BA%82%E5%80%AB-%E8%BE%AF%E6%96%B9%E6%8C%87%E8%A2%AB%E5%91%8A%E6%9B%BE%E8%A2%AB%E8%AD%A6%E6%89%93-%E5%8F%8A%E6%96%A5-%E4%BD%A0%E4%BF%82%E5%92%AA%E7%84%A1%E4%BA%BA%E6%80%A7",
+    "timestamp": "2026-09-07T12:27:36.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "徐崢監製《囧徒之預演告別》被封年度神劇！黑色幽默揭網紅圈亂象",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173566109966667776673025.jpeg/A02CUqtXwrZZqplagkSya0uoCx-doIK6gDD7IoAw-yI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387429/%E5%A2%A8%E8%A5%BF%E5%93%A5%E4%B8%AD%E9%83%A8%E5%B0%8F%E9%8E%AE%E7%99%BC%E7%94%9F%E7%85%99%E7%81%AB%E7%88%86%E7%82%B8-%E9%87%80%E8%87%B3%E5%B0%9110%E6%AD%BB64%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-09-07T01:58:16.592Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜中方率境外記者赴災區　已就261外籍失蹤者通報各國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173463616515477504195803.jpeg/RgQ2NoZi8lPXyVNSLs9FUZ23E6mf2Q52xZ0lxcWdJcU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387406/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E4%B8%AD%E6%96%B9%E7%8E%87%E5%A2%83%E5%A4%96%E8%A8%98%E8%80%85%E8%B5%B4%E7%81%BD%E5%8D%80-%E5%B7%B2%E5%B0%B1261%E5%A4%96%E7%B1%8D%E5%A4%B1%E8%B9%A4%E8%80%85%E9%80%9A%E5%A0%B1%E5%90%84%E5%9C%8B",
-    "timestamp": "2026-09-06T23:54:04.688Z",
     "strategy": ".content-card__main"
   }
 ];
