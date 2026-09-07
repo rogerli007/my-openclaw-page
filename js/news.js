@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T05:43:59.513Z
+// Last updated: 2026-09-07T06:41:10.763Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "神巧合！湖北2女同名同姓同年同月同日生　今考上同大學同一學系",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173630889670742016198725.jpeg/KTJGggNLLz_cnnJaNF7C0-v6MqXuK-IksPQ2DbD0Ng0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60387536/%E7%A5%9E%E5%B7%A7%E5%90%88-%E6%B9%96%E5%8C%972%E5%A5%B3%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F-%E4%BB%8A%E8%80%83%E4%B8%8A%E5%90%8C%E5%A4%A7%E5%AD%B8%E5%90%8C%E4%B8%80%E5%AD%B8%E7%B3%BB",
+    "timestamp": "2026-09-07T06:41:10.763Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘋果秋季發佈會倒數 | 盤點6款新產品預測、規格與開售時間一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173490277936009216629871.jpeg/vWaLmC_Hlu9QaA0uLgIsDK9u2jV4X2UT7WTT4e1k0-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387413/amazon%E8%B2%A8%E6%A9%9F%E9%99%8D%E8%90%BD%E9%82%81%E9%98%BF%E5%AF%86%E8%A1%9D%E5%87%BA%E8%B7%91%E9%81%93-%E6%92%9E%E4%B8%8A%E5%A4%9A%E8%BB%8A%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%93%9A%E6%8C%87%E5%A4%9A%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-09-06T21:39:12.645Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運會2026射擊｜香港運動員名單+賽程賽果+歷屆成績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173481802610774016638419.jpeg/13Ag8BzQyq1M7W6_mvnV3an0JnZ1PqNO_gMwRP4DMEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60387407/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%B0%84%E6%93%8A-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E5%90%8D%E5%96%AE-%E8%B3%BD%E7%A8%8B%E8%B3%BD%E6%9E%9C-%E6%AD%B7%E5%B1%86%E6%88%90%E7%B8%BE",
-    "timestamp": "2026-09-06T20:53:19.317Z",
     "strategy": ".content-card__main"
   }
 ];
