@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T19:41:52.944Z
+// Last updated: 2026-09-07T19:53:41.303Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯入境處油尖區掃黃、反黑工　拘30人最細16歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
+    "timestamp": "2026-09-07T19:53:41.303Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯入境處油尖區掃黃、反黑工　拘30人最細16歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173746978916405248860732.jpeg/0Gl8ME3vmxSUIVkgHldKZ0ZScsfizNBDOANfzzgDX88",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387733/%E8%91%B5%E6%B6%8C%E8%8F%AF%E5%A7%90%E5%86%B0%E5%AE%A4%E5%A4%96%E8%B3%A3%E7%8F%BE%E8%80%81%E9%BC%A0-%E9%A3%9F%E7%92%B0%E7%BD%B2-%E9%83%A8%E4%BB%BD%E5%9C%B0%E6%96%B9%E8%A1%9E%E7%94%9F%E6%AC%A0%E4%BD%B3-%E5%B7%B2%E6%8F%90%E5%87%BA%E6%AA%A2%E6%8E%A7",
     "timestamp": "2026-09-07T13:53:29.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張國榮70誕辰推出五大紀念項目　鍾鎮濤女兒鍾懿獻唱致敬哥哥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173717568427397120596134.jpeg/RI1IH9aGQSlvqlVy5XWizlarxWTPjCOUdPWc3nT1nN4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387721/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E8%AA%95%E8%BE%B0%E6%8E%A8%E5%87%BA%E4%BA%94%E5%A4%A7%E7%B4%80%E5%BF%B5%E9%A0%85%E7%9B%AE-%E9%8D%BE%E9%8E%AE%E6%BF%A4%E5%A5%B3%E5%85%92%E9%8D%BE%E6%87%BF%E7%8D%BB%E5%94%B1%E8%87%B4%E6%95%AC%E5%93%A5%E5%93%A5",
-    "timestamp": "2026-09-07T13:21:42.791Z",
     "strategy": ".content-card__main"
   }
 ];
