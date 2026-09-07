@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T21:41:17.445Z
+// Last updated: 2026-09-07T21:53:51.614Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地私家車連撞3車傷男警　重案組列狂亂駕駛調查　追緝2男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173869955859353600726031.jpeg/mRUQ0HfdklZnom51mdwPyzZ7ur-u5efMAeSOUAHkjlA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387765/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%A3%E6%92%9E3%E8%BB%8A%E5%82%B7%E7%94%B7%E8%AD%A6-%E9%87%8D%E6%A1%88%E7%B5%84%E5%88%97%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E8%AA%BF%E6%9F%A5-%E8%BF%BD%E7%B7%9D2%E7%94%B7",
+    "timestamp": "2026-09-07T21:53:51.614Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地私家車連撞3車傷男警　重案組列狂亂駕駛調查　追緝2男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173780352250941440617493.jpeg/sqSkQtGVQ3aFmcNKdtUE_8l5yLSVwRjSuVBBULlQQVA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387754/%E4%B8%80%E6%9E%B6%E6%9C%80%E5%B9%B320-99%E8%90%AC%E4%BA%BA%E5%B9%A3-%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BB%8A-%E6%BE%8E%E7%A8%8B%E7%B3%BB%E5%88%97%E9%96%8B%E8%B3%A34%E5%88%86%E9%90%98%E9%8E%96%E5%96%AE1%E8%90%AC%E6%9E%B6",
     "timestamp": "2026-09-07T15:56:29.668Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廉署夥毒罪辦推全新國際反貪課程　共同打擊公職人員非法致富",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173774556150632448485236.jpeg/Kco3JI5iMi1pmaOZDGjXdtpu5CfNBzTo3td2C97Xdgs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387750/%E5%BB%89%E7%BD%B2%E5%A4%A5%E6%AF%92%E7%BD%AA%E8%BE%A6%E6%8E%A8%E5%85%A8%E6%96%B0%E5%9C%8B%E9%9A%9B%E5%8F%8D%E8%B2%AA%E8%AA%B2%E7%A8%8B-%E5%85%B1%E5%90%8C%E6%89%93%E6%93%8A%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E9%9D%9E%E6%B3%95%E8%87%B4%E5%AF%8C",
-    "timestamp": "2026-09-07T15:44:04.582Z",
     "strategy": ".content-card__main"
   }
 ];
