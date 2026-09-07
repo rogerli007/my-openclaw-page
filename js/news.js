@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T20:43:47.009Z
+// Last updated: 2026-09-07T20:53:52.287Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英王查理斯發信：哈里夫婦返英身份未變　不具王室公職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250126/960140276821659648103296.jpeg/zQ2rT5JOeRKYzUOsYON9h2XqPACxftObbyBLF28gSxc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387760/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E7%99%BC%E4%BF%A1-%E5%93%88%E9%87%8C%E5%A4%AB%E5%A9%A6%E8%BF%94%E8%8B%B1%E8%BA%AB%E4%BB%BD%E6%9C%AA%E8%AE%8A-%E4%B8%8D%E5%85%B7%E7%8E%8B%E5%AE%A4%E5%85%AC%E8%81%B7",
+    "timestamp": "2026-09-07T20:53:52.287Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英王查理斯發信：哈里夫婦返英身份未變　不具王室公職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220401/586671844036186112852073.jpeg/jGu6rn4xKh6-ZBdiZO-wfTJUKAM-GFJQ6wX_oesF_6E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387734/%E9%9F%93%E5%9C%8B%E6%93%9A%E5%A0%B1%E6%93%AC%E6%87%89%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E5%90%91%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B4%BE%E5%85%B5-%E8%BC%BF%E8%AB%96%E5%8F%8D%E5%BD%88%E5%BE%8C%E6%94%B9%E5%8F%A3-%E5%B0%9A%E7%84%A1%E5%AE%9A%E8%AB%96",
     "timestamp": "2026-09-07T14:53:42.294Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國據報擬應美方要求向霍爾木茲派兵　輿論反彈後改口：尚無定論",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220401/586671844036186112852073.jpeg/jGu6rn4xKh6-ZBdiZO-wfTJUKAM-GFJQ6wX_oesF_6E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387734/%E9%9F%93%E5%9C%8B%E6%93%9A%E5%A0%B1%E6%93%AC%E6%87%89%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E5%90%91%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B4%BE%E5%85%B5-%E8%BC%BF%E8%AB%96%E5%8F%8D%E5%BD%88%E5%BE%8C%E6%94%B9%E5%8F%A3-%E5%B0%9A%E7%84%A1%E5%AE%9A%E8%AB%96",
-    "timestamp": "2026-09-07T14:43:02.875Z",
     "strategy": ".content-card__main"
   }
 ];
