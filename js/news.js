@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T09:56:49.090Z
+// Last updated: 2026-09-07T10:42:56.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江西女生赴港追星致全家低保被取消引激辯　官方：正核查家庭情況",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173699691741712384316207.png/y3o1ETmgNjVuUou6nZ4WoUEZSWO4kMMPb6sI92-rCPc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387707/%E6%B1%9F%E8%A5%BF%E5%A5%B3%E7%94%9F%E8%B5%B4%E6%B8%AF%E8%BF%BD%E6%98%9F%E8%87%B4%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E8%A2%AB%E5%8F%96%E6%B6%88%E5%BC%95%E6%BF%80%E8%BE%AF-%E5%AE%98%E6%96%B9-%E6%AD%A3%E6%A0%B8%E6%9F%A5%E5%AE%B6%E5%BA%AD%E6%83%85%E6%B3%81",
+    "timestamp": "2026-09-07T10:42:56.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣2.34億元騙案｢疫苗掮客｣李易儒　疑潛逃香港後仍更新本港公司",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172977117353218048893017.png/KHgqHoncE8E2JF34oyf98tL70xt6C53bLfc0jy33NI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60385996/%E6%97%A5%E6%9C%AC%E6%9F%B4%E7%8A%AC%E5%A2%AE%E6%B5%B7%E6%B1%82%E7%94%9F26%E5%B0%8F%E6%99%82-%E6%BC%82%E6%B5%815%E5%85%AC%E9%87%8C%E7%99%BB%E5%B3%B6%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84-%E7%B6%B2%E6%B0%91%E5%8F%8D%E6%87%89%E5%85%A9%E6%A5%B5",
     "timestamp": "2026-09-06T23:17:00.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "90年代樂壇天后捱過低潮近年復出開騷　入場歌迷嘆失望：嗓子壞了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173398749532131328914586.jpeg/qgGj58FYh7rbEdOn9dbeNQpyRTs8HERh-Ob_LPjm_yw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387351/90%E5%B9%B4%E4%BB%A3%E6%A8%82%E5%A3%87%E5%A4%A9%E5%90%8E%E6%8D%B1%E9%81%8E%E4%BD%8E%E6%BD%AE%E8%BF%91%E5%B9%B4%E5%BE%A9%E5%87%BA%E9%96%8B%E9%A8%B7-%E5%85%A5%E5%A0%B4%E6%AD%8C%E8%BF%B7%E5%98%86%E5%A4%B1%E6%9C%9B-%E5%97%93%E5%AD%90%E5%A3%9E%E4%BA%86",
-    "timestamp": "2026-09-06T22:50:12.216Z",
     "strategy": ".content-card__main"
   }
 ];
