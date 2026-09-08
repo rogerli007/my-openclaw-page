@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T02:01:49.555Z
+// Last updated: 2026-09-08T02:32:41.715Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲律賓總統表弟涉巨額貪腐　小馬可斯稱大義滅親痛苦且正確",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173937566039150592918260.png/tDffZAzVq_vVzpixfTsd9YYcgBP3mYvXhgFxgIYBcYA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387789/%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%B8%BD%E7%B5%B1%E8%A1%A8%E5%BC%9F%E6%B6%89%E5%B7%A8%E9%A1%8D%E8%B2%AA%E8%85%90-%E5%B0%8F%E9%A6%AC%E5%8F%AF%E6%96%AF%E7%A8%B1%E5%A4%A7%E7%BE%A9%E6%BB%85%E8%A6%AA%E7%97%9B%E8%8B%A6%E4%B8%94%E6%AD%A3%E7%A2%BA",
+    "timestamp": "2026-09-08T02:32:41.715Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不拍戲也能賺錢！AI短劇掀「人臉授權」熱潮　普通人每部收益曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
     "timestamp": "2026-09-07T19:53:41.303Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯入境處油尖區掃黃、反黑工　拘30人最細16歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
-    "timestamp": "2026-09-07T19:41:52.944Z",
     "strategy": ".content-card__main"
   }
 ];
