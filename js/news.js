@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T05:20:40.771Z
+// Last updated: 2026-09-08T05:43:17.620Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日男涉按緊急掣阻礙新幹線惹官非　疑列車內偷迪士尼頸枕套再被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173988263803752448814372.jpeg/yGLe8shZ0YwHlikQ0uVop6mC-oVWypI8Rw3fxUcN38U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387897/%E6%97%A5%E7%94%B7%E6%B6%89%E6%8C%89%E7%B7%8A%E6%80%A5%E6%8E%A3%E9%98%BB%E7%A4%99%E6%96%B0%E5%B9%B9%E7%B7%9A%E6%83%B9%E5%AE%98%E9%9D%9E-%E7%96%91%E5%88%97%E8%BB%8A%E5%85%A7%E5%81%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%A0%B8%E6%9E%95%E5%A5%97%E5%86%8D%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-08T05:43:17.620Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "16名公務員獲推薦赴聯合國工作　李家超寄語說好香港故事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230303/708387986995154944180732.jpeg/miPkl2tCeFbhc6oerIbmzJvRGCnTcsEV4mQ7xuJkO8Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387768/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%A4%A7%E5%BB%88%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E6%9C%89%E5%8F%AF%E7%96%91-%E8%AD%A6%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-09-07T22:26:10.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致天晴　日間酷熱約33度　未來兩三日有一兩陣驟雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173872749597429760795832.jpeg/OfFdtQHSzFNXPtvHXm6Eh-VM1T6I1BHECWjIngloyJ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387756/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E9%85%B7%E7%86%B1%E7%B4%8433%E5%BA%A6-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8",
-    "timestamp": "2026-09-07T22:18:18.981Z",
     "strategy": ".content-card__main"
   }
 ];
