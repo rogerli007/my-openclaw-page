@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T23:42:09.388Z
+// Last updated: 2026-09-08T23:54:01.469Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無視華盛頓警告：日本正上演金融版「珍珠港2.0」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174058323398365184160258.jpeg/ke1tdDt4IkI0v_sVrkAp1UaFQNBv8tF_8rpL2PK6S9g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60388054/%E7%84%A1%E8%A6%96%E8%8F%AF%E7%9B%9B%E9%A0%93%E8%AD%A6%E5%91%8A-%E6%97%A5%E6%9C%AC%E6%AD%A3%E4%B8%8A%E6%BC%94%E9%87%91%E8%9E%8D%E7%89%88-%E7%8F%8D%E7%8F%A0%E6%B8%AF2-0",
+    "timestamp": "2026-09-08T23:54:01.469Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無視華盛頓警告：日本正上演金融版「珍珠港2.0」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220414/591210310421975040829416.jpeg/8D82wDKKZpexMUaTqVZVeyhoZI55s85ujY1Q1o2NUNY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388125/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%A2%81%E6%8C%AF%E8%8B%B1%E8%AE%9A%E9%AB%98%E7%9E%BB%E9%81%A0%E7%9F%9A%E8%AC%80%E5%8A%83%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95-%E8%A7%A3%E6%B1%BA%E6%B7%B1%E5%B1%A4%E6%AC%A1%E6%B0%91%E7%94%9F%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-09-08T17:42:50.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國空管故障數百航班停飛　倫敦往上海航班被迫中途返航",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158394015305961472412506.jpeg/YcAcmJJEobt5hyWcYU2cPSJEQ8efUanR5tSzN-bUszc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388124/%E8%8B%B1%E5%9C%8B%E7%A9%BA%E7%AE%A1%E6%95%85%E9%9A%9C%E6%95%B8%E7%99%BE%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B-%E5%80%AB%E6%95%A6%E5%BE%80%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%8F%AD%E8%A2%AB%E8%BF%AB%E4%B8%AD%E9%80%94%E8%BF%94%E8%88%AA",
-    "timestamp": "2026-09-08T17:32:32.090Z",
     "strategy": ".content-card__main"
   }
 ];
