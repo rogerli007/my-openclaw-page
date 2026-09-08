@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T20:29:50.589Z
+// Last updated: 2026-09-08T20:44:12.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華離世｜童年來港不懂廣東話　17歲負笈英國只會3句英文",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3110119/org/35c948967cb76a15b9f2e636fb08b055.jpg/rXp35B8Mk0lEcvQpUFySxPGpS68Wf1duMYtWeRuLVnk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388135/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%9B%A2%E4%B8%96-%E7%AB%A5%E5%B9%B4%E4%BE%86%E6%B8%AF%E4%B8%8D%E6%87%82%E5%BB%A3%E6%9D%B1%E8%A9%B1-17%E6%AD%B2%E8%B2%A0%E7%AC%88%E8%8B%B1%E5%9C%8B%E5%8F%AA%E6%9C%833%E5%8F%A5%E8%8B%B1%E6%96%87",
+    "timestamp": "2026-09-08T20:44:12.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華離世｜童年來港不懂廣東話　17歲負笈英國只會3句英文",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173258870672330752846513.jpeg/oWinHCTHslvjpXPfc9qiD76loWyATQaQMSI2WzEiNls?v=w1920",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388083/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%82%B5%E5%AE%B6%E8%BC%9D-%E7%AB%99%E5%9C%A8%E6%96%B0%E8%81%9E%E6%9C%80%E5%89%8D%E7%B7%9A-%E5%B1%95%E7%8F%BE%E5%B0%88%E6%A5%AD%E5%A0%85%E6%AF%85%E8%88%87%E6%93%94%E7%95%B6",
     "timestamp": "2026-09-08T13:22:15.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《我的剩餘戀愛》大結局倒數！人氣王金善浩與三女糾纏引爆四角戀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174041734758273024039814.jpeg/GWChlpISZ07-K7OSOxPyO5kt_xjWAcgkbXl-Lm15fi4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387994/%E6%88%91%E7%9A%84%E5%89%A9%E9%A4%98%E6%88%80%E6%84%9B-%E5%A4%A7%E7%B5%90%E5%B1%80%E5%80%92%E6%95%B8-%E4%BA%BA%E6%B0%A3%E7%8E%8B%E9%87%91%E5%96%84%E6%B5%A9%E8%88%87%E4%B8%89%E5%A5%B3%E7%B3%BE%E7%BA%8F%E5%BC%95%E7%88%86%E5%9B%9B%E8%A7%92%E6%88%80",
-    "timestamp": "2026-09-08T12:28:47.753Z",
     "strategy": ".content-card__main"
   }
 ];
