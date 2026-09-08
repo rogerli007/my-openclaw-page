@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T22:41:26.185Z
+// Last updated: 2026-09-08T22:57:03.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "71歲老戲骨曾被TVB有靠山演員欺負　北上升級與趙雅芝同坐受尊重",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174068775545212928087416.jpeg/8FB7mGqdohvslyrQ4mY1pmiVNQn1iwlqnB2LFZwdixU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387915/71%E6%AD%B2%E9%99%B3%E6%A6%AE%E5%B3%BB%E6%9B%BE%E8%A2%ABtvb%E6%9C%89%E9%9D%A0%E5%B1%B1%E6%BC%94%E5%93%A1%E6%AC%BA%E8%B2%A0-%E5%8C%97%E4%B8%8A%E5%8D%87%E7%B4%9A%E8%88%87%E8%B6%99%E9%9B%85%E8%8A%9D%E5%90%8C%E5%9D%90%E5%8F%97%E5%B0%8A%E9%87%8D",
+    "timestamp": "2026-09-08T22:57:03.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日局部地區有驟雨　最高約31度　未來一兩日早上氣溫稍降",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174150747576078336109846.jpeg/1_0v0vlwXfkhyO56Ea4DyuRQFr4tceHh5FbU6eRW1Ok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388109/%E9%A6%AC%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E5%85%AC%E7%9B%8A%E6%85%88%E5%96%84%E8%AB%96%E5%A3%87%E9%96%89%E5%B9%95-%E5%85%A8%E7%90%83%E9%80%BE2000%E4%BB%A3%E8%A1%A8%E5%85%B1%E8%B3%8010%E5%91%A8%E5%B9%B4",
     "timestamp": "2026-09-08T16:44:18.039Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泳兒入行20週年演唱會登陸澳門　以音樂回饋樂迷共度珍貴「當下」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174027037636038656205364.jpeg/OGFB2ode82ngFGLTrOsNcgpZ2bJIrGf7KkmMPSpJjD0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387964/%E6%B3%B3%E5%85%92%E5%85%A5%E8%A1%8C20%E9%80%B1%E5%B9%B4%E6%BC%94%E5%94%B1%E6%9C%83%E7%99%BB%E9%99%B8%E6%BE%B3%E9%96%80-%E4%BB%A5%E9%9F%B3%E6%A8%82%E5%9B%9E%E9%A5%8B%E6%A8%82%E8%BF%B7%E5%85%B1%E5%BA%A6%E7%8F%8D%E8%B2%B4-%E7%95%B6%E4%B8%8B",
-    "timestamp": "2026-09-08T16:22:37.505Z",
     "strategy": ".content-card__main"
   }
 ];
