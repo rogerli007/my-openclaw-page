@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T17:32:32.090Z
+// Last updated: 2026-09-08T17:42:50.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世︱梁振英讚高瞻遠矚謀劃長遠發展　解決深層次民生問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220414/591210310421975040829416.jpeg/8D82wDKKZpexMUaTqVZVeyhoZI55s85ujY1Q1o2NUNY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388125/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%A2%81%E6%8C%AF%E8%8B%B1%E8%AE%9A%E9%AB%98%E7%9E%BB%E9%81%A0%E7%9F%9A%E8%AC%80%E5%8A%83%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95-%E8%A7%A3%E6%B1%BA%E6%B7%B1%E5%B1%A4%E6%AC%A1%E6%B0%91%E7%94%9F%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-09-08T17:42:50.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國空管故障數百航班停飛　倫敦往上海航班被迫中途返航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174056458841493504354968.jpeg/q_85WvmAhZoQO5pW7xQ5m-F6fsa8YbaI-tv6pvrb-qY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388037/%E8%AD%9A%E5%87%B1%E7%90%AA%E5%91%88%E8%AB%8B%E9%84%A7%E7%89%B9%E5%B8%8C%E5%91%82%E6%99%B6%E6%99%B6%E7%A0%B4%E7%94%A2%E6%A1%88%E9%96%8B%E5%AF%A9-%E4%B8%89%E6%96%B9%E6%9C%AA%E6%9C%89%E5%88%B0%E5%BA%AD%E5%AE%A3%E5%B8%83%E6%8A%BC%E5%BE%8C%E5%86%8D%E8%A8%8A",
     "timestamp": "2026-09-08T10:21:36.765Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃翠如帶囝囝首度飛大馬緊張到失眠　「蕭哈哈」顏值超越蕭正楠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174005538451623936739024.jpeg/EXyjBrXyPrbUZ6vNiQ5C7ztIDOjI4amgs9n2hrPZ9oY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387868/%E9%BB%83%E7%BF%A0%E5%A6%82%E5%B8%B6%E5%9B%9D%E5%9B%9D%E9%A6%96%E5%BA%A6%E9%A3%9B%E5%A4%A7%E9%A6%AC%E7%B7%8A%E5%BC%B5%E5%88%B0%E5%A4%B1%E7%9C%A0-%E8%95%AD%E5%93%88%E5%93%88-%E9%A1%8F%E5%80%BC%E8%B6%85%E8%B6%8A%E8%95%AD%E6%AD%A3%E6%A5%A0",
-    "timestamp": "2026-09-08T09:44:41.241Z",
     "strategy": ".content-card__main"
   }
 ];
