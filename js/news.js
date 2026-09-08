@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T08:46:15.440Z
+// Last updated: 2026-09-08T08:56:45.373Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "數字銀行開實體地舖！大象進駐銅鑼灣：向以不同渠道優化客戶體驗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174037577758412800048167.jpeg/PI9B77tunVyC7jBBprWeAi1I_7zXcFxBTb8YTHi_GEw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387986/%E6%95%B8%E5%AD%97%E9%8A%80%E8%A1%8C%E9%96%8B%E5%AF%A6%E9%AB%94%E5%9C%B0%E8%88%96-%E5%A4%A7%E8%B1%A1%E9%80%B2%E9%A7%90%E9%8A%85%E9%91%BC%E7%81%A3-%E5%90%91%E4%BB%A5%E4%B8%8D%E5%90%8C%E6%B8%A0%E9%81%93%E5%84%AA%E5%8C%96%E5%AE%A2%E6%88%B6%E9%AB%94%E9%A9%97",
+    "timestamp": "2026-09-08T08:56:45.373Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "食隔夜凍西瓜險送命！六旬婦「雪櫃惡菌」上腦 眼球僵硬面癱昏迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173778798366167040038164.jpeg/rWIxoFlHyYCX6J0ywOWFjSNRpUYm1RqZWZsRrFmbEaw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387751/%E6%B9%96%E5%8D%97%E8%8E%BD%E5%B1%B1%E6%89%93%E9%80%A0-%E4%B8%8D%E7%94%A8%E7%88%AC%E7%9A%84%E5%B1%B1-%E4%B8%AD%E5%9C%8B%E9%A6%96%E5%80%8B%E7%84%A1%E9%9A%9C%E7%A4%99%E5%B1%B1%E5%B6%BD%E6%99%AF%E5%8D%80%E8%B4%8F%E9%9F%93%E5%AE%A2%E9%9D%92%E7%9D%9E",
     "timestamp": "2026-09-08T01:13:07.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗基隆街後巷火警　疑煙頭肇禍　街坊自行救熄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173910470562680832741823.jpeg/WZNBQv2CKjic5KobbGWOk1OVy87h1HJ2vHkqo7x5KqM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387772/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%9F%BA%E9%9A%86%E8%A1%97%E5%BE%8C%E5%B7%B7%E7%81%AB%E8%AD%A6-%E7%96%91%E7%85%99%E9%A0%AD%E8%82%87%E7%A6%8D-%E8%A1%97%E5%9D%8A%E8%87%AA%E8%A1%8C%E6%95%91%E7%86%84",
-    "timestamp": "2026-09-08T00:48:50.607Z",
     "strategy": ".content-card__main"
   }
 ];
