@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T04:24:01.337Z
+// Last updated: 2026-09-08T04:54:16.931Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日央行下周議息　次季GDP增幅高於先前預估　強化加息理由",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027278924243013632384750.jpeg/oYHwEZTA92SABl3FHZIEvAPb8ojX5r8FJgEEuCYBBLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387884/%E6%97%A5%E5%A4%AE%E8%A1%8C%E4%B8%8B%E5%91%A8%E8%AD%B0%E6%81%AF-%E6%AC%A1%E5%AD%A3gdp%E5%A2%9E%E5%B9%85%E9%AB%98%E6%96%BC%E5%85%88%E5%89%8D%E9%A0%90%E4%BC%B0-%E5%BC%B7%E5%8C%96%E5%8A%A0%E6%81%AF%E7%90%86%E7%94%B1",
+    "timestamp": "2026-09-08T04:54:16.931Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女籃世界盃｜中國隊狂勝意大利20分　下場戰波多黎各爭八強席位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173869955859353600726031.jpeg/mRUQ0HfdklZnom51mdwPyzZ7ur-u5efMAeSOUAHkjlA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387765/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%A3%E6%92%9E3%E8%BB%8A%E5%82%B7%E7%94%B7%E8%AD%A6-%E9%87%8D%E6%A1%88%E7%B5%84%E5%88%97%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E8%AA%BF%E6%9F%A5-%E8%BF%BD%E7%B7%9D2%E7%94%B7",
     "timestamp": "2026-09-07T21:53:51.614Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地私家車連撞3車傷男警　重案組列狂亂駕駛調查　追緝2男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173861550235062272632017.jpeg/JWN0pvUuJvMuCKBXXzkXuH_Qhg9cI_BX6wdQAOsHUAA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387765/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%A3%E6%92%9E3%E8%BB%8A%E5%82%B7%E7%94%B7%E8%AD%A6-%E9%87%8D%E6%A1%88%E7%B5%84%E5%88%97%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E8%AA%BF%E6%9F%A5-%E8%BF%BD%E7%B7%9D2%E7%94%B7",
-    "timestamp": "2026-09-07T21:41:17.445Z",
     "strategy": ".content-card__main"
   }
 ];
