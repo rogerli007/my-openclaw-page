@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T16:22:37.505Z
+// Last updated: 2026-09-08T16:44:18.039Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬會2026香港國際公益慈善論壇閉幕　全球逾2000代表共賀10周年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174150747576078336109846.jpeg/1_0v0vlwXfkhyO56Ea4DyuRQFr4tceHh5FbU6eRW1Ok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388109/%E9%A6%AC%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E5%85%AC%E7%9B%8A%E6%85%88%E5%96%84%E8%AB%96%E5%A3%87%E9%96%89%E5%B9%95-%E5%85%A8%E7%90%83%E9%80%BE2000%E4%BB%A3%E8%A1%A8%E5%85%B1%E8%B3%8010%E5%91%A8%E5%B9%B4",
+    "timestamp": "2026-09-08T16:44:18.039Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泳兒入行20週年演唱會登陸澳門　以音樂回饋樂迷共度珍貴「當下」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174027644094648320432598.jpeg/-klxIqCAo8S4mmzP46Kk5UDgkXO7oTgMGds1WxnbNVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60387942/%E9%A3%9F%E9%9A%94%E5%A4%9C%E5%87%8D%E8%A5%BF%E7%93%9C%E9%9A%AA%E9%80%81%E5%91%BD-%E5%85%AD%E6%97%AC%E5%A9%A6-%E9%9B%AA%E6%AB%83%E6%83%A1%E8%8F%8C-%E4%B8%8A%E8%85%A6-%E7%9C%BC%E7%90%83%E5%83%B5%E7%A1%AC%E9%9D%A2%E7%99%B1%E6%98%8F%E8%BF%B7",
     "timestamp": "2026-09-08T08:46:15.440Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "1991深水埗劫殺案　專家指T恤血跡與被告脗合率達412兆分之一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174029584056717312930217.jpeg/rAl2-ScRMH8SGyZCjPGwqRXXDvCwwEtPJ8qhCgLKoQo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387975/1991%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%8A%AB%E6%AE%BA%E6%A1%88-%E5%B0%88%E5%AE%B6%E6%8C%87t%E6%81%A4%E8%A1%80%E8%B7%A1%E8%88%87%E8%A2%AB%E5%91%8A%E8%84%97%E5%90%88%E7%8E%87%E9%81%94412%E5%85%86%E5%88%86%E4%B9%8B%E4%B8%80",
-    "timestamp": "2026-09-08T08:27:21.143Z",
     "strategy": ".content-card__main"
   }
 ];
