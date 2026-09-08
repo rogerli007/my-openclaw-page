@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T21:41:48.003Z
+// Last updated: 2026-09-08T21:53:53.986Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜尖沙咀八旬翁持鎅刀自殘尋死　身體多處受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171766892013031424064182.jpeg/5JU9IYjUVTdBS9qB3078KiukrutpA6voDl21pw5dtac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388138/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%96%E6%B2%99%E5%92%80%E5%85%AB%E6%97%AC%E7%BF%81%E6%8C%81%E9%8E%85%E5%88%80%E8%87%AA%E6%AE%98%E5%B0%8B%E6%AD%BB-%E8%BA%AB%E9%AB%94%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-08T21:53:53.986Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜皇馬2：1國際米蘭　曼城作客2：０波圖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174124893436907520047518.jpeg/BDZenHbl-H2hhfk1WDIB-SiZzfkhrq85XGqjmFxqo5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60388106/%E5%8F%97%E8%B3%84%E8%BF%911-5%E5%84%84-%E5%B1%B1%E8%A5%BF%E5%8E%9F%E7%9C%81%E9%95%B7%E9%87%91%E6%B9%98%E8%BB%8D%E5%88%A4%E6%AD%BB%E7%B7%A9",
     "timestamp": "2026-09-08T14:43:52.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "丁子朗擔任主持雙語切換勁流利　柯煒林盼香港團隊在金馬奪獎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174066138913443840649705.jpeg/1Q-ETC-wg0qDxxozZk4A0xi0zEwYk70ns6hSN7OoUjc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388064/%E4%B8%81%E5%AD%90%E6%9C%97%E6%93%94%E4%BB%BB%E4%B8%BB%E6%8C%81%E9%9B%99%E8%AA%9E%E5%88%87%E6%8F%9B%E5%8B%81%E6%B5%81%E5%88%A9-%E6%9F%AF%E7%85%92%E6%9E%97%E7%9B%BC%E9%A6%99%E6%B8%AF%E5%9C%98%E9%9A%8A%E5%9C%A8%E9%87%91%E9%A6%AC%E5%A5%AA%E7%8D%8E",
-    "timestamp": "2026-09-08T14:22:29.825Z",
     "strategy": ".content-card__main"
   }
 ];
