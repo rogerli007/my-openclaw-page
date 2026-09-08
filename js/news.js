@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T11:53:53.082Z
+// Last updated: 2026-09-08T12:28:47.753Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《我的剩餘戀愛》大結局倒數！人氣王金善浩與三女糾纏引爆四角戀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174041734758273024039814.jpeg/GWChlpISZ07-K7OSOxPyO5kt_xjWAcgkbXl-Lm15fi4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387994/%E6%88%91%E7%9A%84%E5%89%A9%E9%A4%98%E6%88%80%E6%84%9B-%E5%A4%A7%E7%B5%90%E5%B1%80%E5%80%92%E6%95%B8-%E4%BA%BA%E6%B0%A3%E7%8E%8B%E9%87%91%E5%96%84%E6%B5%A9%E8%88%87%E4%B8%89%E5%A5%B3%E7%B3%BE%E7%BA%8F%E5%BC%95%E7%88%86%E5%9B%9B%E8%A7%92%E6%88%80",
+    "timestamp": "2026-09-08T12:28:47.753Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平與英國首相貝安德通話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027278924243013632384750.jpeg/oYHwEZTA92SABl3FHZIEvAPb8ojX5r8FJgEEuCYBBLg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387884/%E6%97%A5%E5%A4%AE%E8%A1%8C%E4%B8%8B%E5%91%A8%E8%AD%B0%E6%81%AF-%E6%AC%A1%E5%AD%A3gdp%E5%A2%9E%E5%B9%85%E9%AB%98%E6%96%BC%E5%85%88%E5%89%8D%E9%A0%90%E4%BC%B0-%E5%BC%B7%E5%8C%96%E5%8A%A0%E6%81%AF%E7%90%86%E7%94%B1",
     "timestamp": "2026-09-08T04:54:16.931Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女籃世界盃｜中國隊狂勝意大利20分　下場戰波多黎各爭八強席位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173965795626061824708256.jpeg/9pMztnXcXhfWO0J8ljEXtRtl3J0dNFIIHlUg4B5VIOA?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60387835/%E5%A5%B3%E7%B1%83%E4%B8%96%E7%95%8C%E7%9B%83-%E4%B8%AD%E5%9C%8B%E9%9A%8A%E7%8B%82%E5%8B%9D%E6%84%8F%E5%A4%A7%E5%88%A920%E5%88%86-%E4%B8%8B%E5%A0%B4%E6%88%B0%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84%E7%88%AD%E5%85%AB%E5%BC%B7%E5%B8%AD%E4%BD%8D",
-    "timestamp": "2026-09-08T04:24:01.337Z",
     "strategy": ".content-card__main"
   }
 ];
