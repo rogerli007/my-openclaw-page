@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T06:32:21.660Z
+// Last updated: 2026-09-08T06:55:47.563Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡映匯擬日內加推、公佈首張銷售安排　暫收2100票、超購近18倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174004160232689664324198.jpeg/y8_cYlG0Li5_qRKk4EK6mNrYgdzA7sHkq26CHKtughw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60387920/%E7%B4%85%E7%A3%A1%E6%98%A0%E5%8C%AF%E6%93%AC%E6%97%A5%E5%85%A7%E5%8A%A0%E6%8E%A8-%E5%85%AC%E4%BD%88%E9%A6%96%E5%BC%B5%E9%8A%B7%E5%94%AE%E5%AE%89%E6%8E%92-%E6%9A%AB%E6%94%B62100%E7%A5%A8-%E8%B6%85%E8%B3%BC%E8%BF%9118%E5%80%8D",
+    "timestamp": "2026-09-08T06:55:47.563Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告2026前瞻｜重推租置料交代　港珠澳橋私家車乘客無感通關",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387769/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A354%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E5%B9%B3%E5%8F%B0-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-09-07T22:55:39.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜荃灣54歲男子墮平台　昏迷送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387769/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A354%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E5%B9%B3%E5%8F%B0-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-09-07T22:42:17.027Z",
     "strategy": ".content-card__main"
   }
 ];
