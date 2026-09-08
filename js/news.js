@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T14:54:00.216Z
+// Last updated: 2026-09-08T15:20:56.635Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "700磅內地男呼吸衰竭命危！12名醫護抬上床 醫生：先保命、再減重",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174128792642260992524318.png/5vjTWnYspUF1Dd2PbY1R_3JmPrBV1Fu3aY7JSmmOyUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387811/700%E7%A3%85%E5%85%A7%E5%9C%B0%E7%94%B7%E5%91%BC%E5%90%B8%E8%A1%B0%E7%AB%AD%E5%91%BD%E5%8D%B1-12%E5%90%8D%E9%86%AB%E8%AD%B7%E6%8A%AC%E4%B8%8A%E5%BA%8A-%E9%86%AB%E7%94%9F-%E5%85%88%E4%BF%9D%E5%91%BD-%E5%86%8D%E6%B8%9B%E9%87%8D",
+    "timestamp": "2026-09-08T15:20:56.635Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "接受私企「保母式」服務　受賄近1.5億　山西原省長金湘軍判死緩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174022212282224640930185.png/ewW2OxKYOvCBOCwrknI9W0WbsQChhthXjVSrZ41Uq2c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60387957/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E4%BD%9B%E6%95%99%E6%9E%97%E9%87%91%E6%AE%BF%E7%B4%80%E5%BF%B5%E5%B0%8F%E5%AD%B8%E4%BB%A5-%E6%AD%A3%E5%90%91%E6%95%99%E8%82%B2-%E4%BC%B4%E5%B0%8F%E4%B8%80%E6%96%B0%E7%94%9F%E6%84%89%E5%BF%AB%E5%95%9F%E8%88%AA",
     "timestamp": "2026-09-08T07:53:57.997Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無業男涉推人出馬路　事主等巴士突遭從後一推　覺整個人飛咗出去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174017158066212864906835.jpeg/Kj7uJ9FrknNQKn8a8KYrdyyIHPTmuXlrx7rcT-K63E8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387951/%E7%84%A1%E6%A5%AD%E7%94%B7%E6%B6%89%E6%8E%A8%E4%BA%BA%E5%87%BA%E9%A6%AC%E8%B7%AF-%E4%BA%8B%E4%B8%BB%E7%AD%89%E5%B7%B4%E5%A3%AB%E7%AA%81%E9%81%AD%E5%BE%9E%E5%BE%8C%E4%B8%80%E6%8E%A8-%E8%A6%BA%E6%95%B4%E5%80%8B%E4%BA%BA%E9%A3%9B%E5%92%97%E5%87%BA%E5%8E%BB",
-    "timestamp": "2026-09-08T07:47:28.591Z",
     "strategy": ".content-card__main"
   }
 ];
