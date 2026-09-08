@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T23:18:00.458Z
+// Last updated: 2026-09-08T23:30:29.030Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "牛頭角彩德邨35歲男藏依托咪酯及電子煙　涉藏毒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230704/752829228411785216276304.jpeg/cvR_qdSYyy5kjs46AMu7JjEMqqjwdd3uP4jIrj-IyK4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388141/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%BD%A9%E5%BE%B7%E9%82%A835%E6%AD%B2%E7%94%B7%E8%97%8F%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E5%8F%8A%E9%9B%BB%E5%AD%90%E7%85%99-%E6%B6%89%E8%97%8F%E6%AF%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-08T23:30:29.030Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美華裔司機微信接單變運200磅大麻！喊冤枉仍判罪成　綠卡恐不保",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174162586485133312398401.jpeg/uyuDmnz4SftT5_qDzRhnVyHg-BPiHZ_lhB2dNoQdnTY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388123/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%89%AF%E5%9C%8B%E7%B4%9A%E9%A0%98%E5%B0%8E%E4%BA%BA%E5%8F%AF%E5%9C%8B%E8%91%AC-%E5%8F%83%E8%80%83%E9%9C%8D%E8%8B%B1%E6%9D%B1-%E5%AE%89%E5%AD%90%E4%BB%8B%E4%BA%AB%E6%9C%80%E9%AB%98%E5%BE%85%E9%81%87",
     "timestamp": "2026-09-08T17:19:56.638Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬會2026香港國際公益慈善論壇閉幕　全球逾2000代表共賀10周年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174150747576078336109846.jpeg/1_0v0vlwXfkhyO56Ea4DyuRQFr4tceHh5FbU6eRW1Ok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388109/%E9%A6%AC%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E5%85%AC%E7%9B%8A%E6%85%88%E5%96%84%E8%AB%96%E5%A3%87%E9%96%89%E5%B9%95-%E5%85%A8%E7%90%83%E9%80%BE2000%E4%BB%A3%E8%A1%A8%E5%85%B1%E8%B3%8010%E5%91%A8%E5%B9%B4",
-    "timestamp": "2026-09-08T16:54:22.012Z",
     "strategy": ".content-card__main"
   }
 ];
