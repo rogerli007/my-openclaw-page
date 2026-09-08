@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T01:13:07.549Z
+// Last updated: 2026-09-08T02:01:49.555Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "不拍戲也能賺錢！AI短劇掀「人臉授權」熱潮　普通人每部收益曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173687398823890944834025.jpeg/IHWCSt0h2djcxlVSMLN-YMyFt5KpIB8K6xBNVOsQTVQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387668/%E4%B8%8D%E6%8B%8D%E6%88%B2%E4%B9%9F%E8%83%BD%E8%B3%BA%E9%8C%A2-ai%E7%9F%AD%E5%8A%87%E6%8E%80-%E4%BA%BA%E8%87%89%E6%8E%88%E6%AC%8A-%E7%86%B1%E6%BD%AE-%E6%99%AE%E9%80%9A%E4%BA%BA%E6%AF%8F%E9%83%A8%E6%94%B6%E7%9B%8A%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-09-08T02:01:49.555Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湖南莽山打造｢不用爬的山｣　中國首個無障礙山嶽景區贏韓客青睞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
     "timestamp": "2026-09-07T19:41:52.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯入境處油尖區掃黃、反黑工　拘30人最細16歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
-    "timestamp": "2026-09-07T19:27:45.038Z",
     "strategy": ".content-card__main"
   }
 ];
