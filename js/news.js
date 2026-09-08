@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T23:30:29.030Z
+// Last updated: 2026-09-08T23:42:09.388Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無視華盛頓警告：日本正上演金融版「珍珠港2.0」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174058323398365184160258.jpeg/ke1tdDt4IkI0v_sVrkAp1UaFQNBv8tF_8rpL2PK6S9g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60388054/%E7%84%A1%E8%A6%96%E8%8F%AF%E7%9B%9B%E9%A0%93%E8%AD%A6%E5%91%8A-%E6%97%A5%E6%9C%AC%E6%AD%A3%E4%B8%8A%E6%BC%94%E9%87%91%E8%9E%8D%E7%89%88-%E7%8F%8D%E7%8F%A0%E6%B8%AF2-0",
+    "timestamp": "2026-09-08T23:42:09.388Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "牛頭角彩德邨35歲男藏依托咪酯及電子煙　涉藏毒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158394015305961472412506.jpeg/YcAcmJJEobt5hyWcYU2cPSJEQ8efUanR5tSzN-bUszc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388124/%E8%8B%B1%E5%9C%8B%E7%A9%BA%E7%AE%A1%E6%95%85%E9%9A%9C%E6%95%B8%E7%99%BE%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B-%E5%80%AB%E6%95%A6%E5%BE%80%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%8F%AD%E8%A2%AB%E8%BF%AB%E4%B8%AD%E9%80%94%E8%BF%94%E8%88%AA",
     "timestamp": "2026-09-08T17:32:32.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世｜副國級領導人可國葬？參考霍英東、安子介享最高待遇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174162586485133312398401.jpeg/uyuDmnz4SftT5_qDzRhnVyHg-BPiHZ_lhB2dNoQdnTY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388123/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%89%AF%E5%9C%8B%E7%B4%9A%E9%A0%98%E5%B0%8E%E4%BA%BA%E5%8F%AF%E5%9C%8B%E8%91%AC-%E5%8F%83%E8%80%83%E9%9C%8D%E8%8B%B1%E6%9D%B1-%E5%AE%89%E5%AD%90%E4%BB%8B%E4%BA%AB%E6%9C%80%E9%AB%98%E5%BE%85%E9%81%87",
-    "timestamp": "2026-09-08T17:19:56.638Z",
     "strategy": ".content-card__main"
   }
 ];
