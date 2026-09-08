@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-07T23:52:16.064Z
+// Last updated: 2026-09-08T00:48:50.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗基隆街後巷火警　疑煙頭肇禍　街坊自行救熄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173910470562680832741823.jpeg/WZNBQv2CKjic5KobbGWOk1OVy87h1HJ2vHkqo7x5KqM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387772/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%9F%BA%E9%9A%86%E8%A1%97%E5%BE%8C%E5%B7%B7%E7%81%AB%E8%AD%A6-%E7%96%91%E7%85%99%E9%A0%AD%E8%82%87%E7%A6%8D-%E8%A1%97%E5%9D%8A%E8%87%AA%E8%A1%8C%E6%95%91%E7%86%84",
+    "timestamp": "2026-09-08T00:48:50.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "從「一帶一路」到伊朗戰爭　中國在中東的軍事角色正在上升？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172247258851184640720318.jpeg/oo_8kkRua1M1ds0FJ0Qfgzg-Pgp9jspTHzxp1x88adc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387758/%E4%BF%84%E6%92%A4%E9%8A%B7%E5%BE%B7%E5%9C%8B%E9%A7%90%E8%81%96%E5%BD%BC%E5%BE%97%E5%A0%A1%E7%B8%BD%E9%A0%98%E9%A4%A8%E9%81%8B%E4%BD%9C%E8%A8%B1%E5%8F%AF-%E6%AD%8C%E5%BE%B7%E5%AD%B8%E9%99%A2%E5%93%A1%E5%B7%A5%E9%A0%889-13%E5%89%8D%E9%9B%A2%E5%A2%83",
     "timestamp": "2026-09-07T19:16:44.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日媒：高市料9.16改組內閣　訪美前完成黨政人事調整",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387757/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%96%999-16%E6%94%B9%E7%B5%84%E5%85%A7%E9%96%A3-%E8%A8%AA%E7%BE%8E%E5%89%8D%E5%AE%8C%E6%88%90%E9%BB%A8%E6%94%BF%E4%BA%BA%E4%BA%8B%E8%AA%BF%E6%95%B4",
-    "timestamp": "2026-09-07T18:53:55.280Z",
     "strategy": ".content-card__main"
   }
 ];
