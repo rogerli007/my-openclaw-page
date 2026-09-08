@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T14:22:29.825Z
+// Last updated: 2026-09-08T14:43:52.593Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "受賄近1.5億　山西原省長金湘軍判死緩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174124893436907520047518.jpeg/BDZenHbl-H2hhfk1WDIB-SiZzfkhrq85XGqjmFxqo5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60388106/%E5%8F%97%E8%B3%84%E8%BF%911-5%E5%84%84-%E5%B1%B1%E8%A5%BF%E5%8E%9F%E7%9C%81%E9%95%B7%E9%87%91%E6%B9%98%E8%BB%8D%E5%88%A4%E6%AD%BB%E7%B7%A9",
+    "timestamp": "2026-09-08T14:43:52.593Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丁子朗擔任主持雙語切換勁流利　柯煒林盼香港團隊在金馬奪獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174000018147774464148097.jpeg/MP09Q_7JG_TJlbL4vsIBuCvsiRkcsX8Z4o2pcOKNqXA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60387904/%E5%9C%8B%E5%AD%B8%E5%A4%A7%E5%B8%AB%E9%8C%A2%E7%A9%86%E6%AC%A1%E5%AD%90%E7%97%85%E9%80%9D%E4%BA%AB%E5%B9%B494%E6%AD%B2-1949%E5%B9%B4%E5%BE%8C%E7%95%99%E5%9C%A8%E5%A4%A7%E9%99%B8%E6%9B%BE%E6%96%B7%E7%B5%95%E8%81%AF%E7%B9%AB31%E5%B9%B4",
     "timestamp": "2026-09-08T07:22:11.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡映匯擬日內加推、公佈首張銷售安排　暫收2100票、超購近18倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174004160232689664324198.jpeg/y8_cYlG0Li5_qRKk4EK6mNrYgdzA7sHkq26CHKtughw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60387920/%E7%B4%85%E7%A3%A1%E6%98%A0%E5%8C%AF%E6%93%AC%E6%97%A5%E5%85%A7%E5%8A%A0%E6%8E%A8-%E5%85%AC%E4%BD%88%E9%A6%96%E5%BC%B5%E9%8A%B7%E5%94%AE%E5%AE%89%E6%8E%92-%E6%9A%AB%E6%94%B62100%E7%A5%A8-%E8%B6%85%E8%B3%BC%E8%BF%9118%E5%80%8D",
-    "timestamp": "2026-09-08T06:55:47.563Z",
     "strategy": ".content-card__main"
   }
 ];
