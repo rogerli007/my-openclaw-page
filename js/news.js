@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T04:54:16.931Z
+// Last updated: 2026-09-08T05:20:40.771Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "16名公務員獲推薦赴聯合國工作　李家超寄語說好香港故事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173974285643943936471295.jpeg/_rWNZFMI3Zi2TIW2Iq0C2GUm_jP3sUhhNWWQSRBlkEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387881/16%E5%90%8D%E5%85%AC%E5%8B%99%E5%93%A1%E7%8D%B2%E6%8E%A8%E8%96%A6%E8%B5%B4%E8%81%AF%E5%90%88%E5%9C%8B%E5%B7%A5%E4%BD%9C-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%AF%84%E8%AA%9E%E8%AA%AA%E5%A5%BD%E9%A6%99%E6%B8%AF%E6%95%85%E4%BA%8B",
+    "timestamp": "2026-09-08T05:20:40.771Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日央行下周議息　次季GDP增幅高於先前預估　強化加息理由",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173872749597429760795832.jpeg/OfFdtQHSzFNXPtvHXm6Eh-VM1T6I1BHECWjIngloyJ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60387756/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E9%85%B7%E7%86%B1%E7%B4%8433%E5%BA%A6-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8",
     "timestamp": "2026-09-07T22:18:18.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地私家車連撞3車傷男警　重案組列狂亂駕駛調查　追緝2男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173869955859353600726031.jpeg/mRUQ0HfdklZnom51mdwPyzZ7ur-u5efMAeSOUAHkjlA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387765/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%A3%E6%92%9E3%E8%BB%8A%E5%82%B7%E7%94%B7%E8%AD%A6-%E9%87%8D%E6%A1%88%E7%B5%84%E5%88%97%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E8%AA%BF%E6%9F%A5-%E8%BF%BD%E7%B7%9D2%E7%94%B7",
-    "timestamp": "2026-09-07T21:53:51.614Z",
     "strategy": ".content-card__main"
   }
 ];
