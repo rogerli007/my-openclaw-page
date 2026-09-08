@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T16:54:22.012Z
+// Last updated: 2026-09-08T17:19:56.638Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世｜副國級領導人可國葬？參考霍英東、安子介享最高待遇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174162586485133312398401.jpeg/uyuDmnz4SftT5_qDzRhnVyHg-BPiHZ_lhB2dNoQdnTY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388123/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%89%AF%E5%9C%8B%E7%B4%9A%E9%A0%98%E5%B0%8E%E4%BA%BA%E5%8F%AF%E5%9C%8B%E8%91%AC-%E5%8F%83%E8%80%83%E9%9C%8D%E8%8B%B1%E6%9D%B1-%E5%AE%89%E5%AD%90%E4%BB%8B%E4%BA%AB%E6%9C%80%E9%AB%98%E5%BE%85%E9%81%87",
+    "timestamp": "2026-09-08T17:19:56.638Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬會2026香港國際公益慈善論壇閉幕　全球逾2000代表共賀10周年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174033219801059328243675.jpeg/63wO4eM_trngVXty0aLFziGK54aXMdiSuWCbe7lgm3s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387950/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E6%9D%8E%E8%8A%B7%E6%99%B4%E7%88%86%E7%A7%98%E6%92%BB%E7%94%9C%E5%93%81%E7%94%B7%E7%A5%9E%E9%BB%83%E9%81%94%E6%96%87-%E5%90%8C%E5%A0%B4%E7%9D%87%E9%A8%B7%E6%8B%8D%E6%8B%96%E9%9A%94%E7%A9%BA%E6%94%BE%E9%96%83",
     "timestamp": "2026-09-08T09:23:03.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "數字銀行開實體地舖！大象進駐銅鑼灣：向以不同渠道優化客戶體驗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174037577758412800048167.jpeg/PI9B77tunVyC7jBBprWeAi1I_7zXcFxBTb8YTHi_GEw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387986/%E6%95%B8%E5%AD%97%E9%8A%80%E8%A1%8C%E9%96%8B%E5%AF%A6%E9%AB%94%E5%9C%B0%E8%88%96-%E5%A4%A7%E8%B1%A1%E9%80%B2%E9%A7%90%E9%8A%85%E9%91%BC%E7%81%A3-%E5%90%91%E4%BB%A5%E4%B8%8D%E5%90%8C%E6%B8%A0%E9%81%93%E5%84%AA%E5%8C%96%E5%AE%A2%E6%88%B6%E9%AB%94%E9%A9%97",
-    "timestamp": "2026-09-08T08:56:45.373Z",
     "strategy": ".content-card__main"
   }
 ];
