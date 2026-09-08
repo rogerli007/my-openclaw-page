@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T19:17:50.305Z
+// Last updated: 2026-09-08T20:19:45.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華離世｜從船王之子到投身仕途　官方出生日期也有故事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/249940/org/54b5d2fa4535e2e4b748da54c10eb523.jpg/jbtroryiB7LPcv65QgXPeXxL_fDAKBzggbDsQoGw7EI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388134/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%9B%A2%E4%B8%96-%E5%BE%9E%E8%88%B9%E7%8E%8B%E4%B9%8B%E5%AD%90%E5%88%B0%E6%8A%95%E8%BA%AB%E4%BB%95%E9%80%94-%E5%AE%98%E6%96%B9%E5%87%BA%E7%94%9F%E6%97%A5%E6%9C%9F%E4%B9%9F%E6%9C%89%E6%95%85%E4%BA%8B",
+    "timestamp": "2026-09-08T20:19:45.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜阿士東維拉作客3：2勝布魯日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240703/885169374791471104054396.jpeg/HNCZC64bQKFXWFMGJa706RFrvFsxxlvWzw31fs8N9X4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388072/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E8%8B%B1%E5%9C%8B%E9%A6%96%E7%9B%B8%E8%B2%9D%E5%AE%89%E5%BE%B7%E9%80%9A%E8%A9%B1",
     "timestamp": "2026-09-08T11:53:53.082Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘋果摺疊機推出首年　機構預測市佔率或將超越華為",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164937936853012480760493.jpeg/rBob-nQeAoEoPon2f8Z3V6N-TrWkD4DPydYY4MnWGOA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388029/%E8%98%8B%E6%9E%9C%E6%91%BA%E7%96%8A%E6%A9%9F%E6%8E%A8%E5%87%BA%E9%A6%96%E5%B9%B4-%E6%A9%9F%E6%A7%8B%E9%A0%90%E6%B8%AC%E5%B8%82%E4%BD%94%E7%8E%87%E6%88%96%E5%B0%87%E8%B6%85%E8%B6%8A%E8%8F%AF%E7%82%BA",
-    "timestamp": "2026-09-08T11:42:52.152Z",
     "strategy": ".content-card__main"
   }
 ];
