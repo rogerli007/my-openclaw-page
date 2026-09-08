@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T09:23:03.133Z
+// Last updated: 2026-09-08T09:44:41.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃翠如帶囝囝首度飛大馬緊張到失眠　「蕭哈哈」顏值超越蕭正楠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174005538451623936739024.jpeg/EXyjBrXyPrbUZ6vNiQ5C7ztIDOjI4amgs9n2hrPZ9oY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387868/%E9%BB%83%E7%BF%A0%E5%A6%82%E5%B8%B6%E5%9B%9D%E5%9B%9D%E9%A6%96%E5%BA%A6%E9%A3%9B%E5%A4%A7%E9%A6%AC%E7%B7%8A%E5%BC%B5%E5%88%B0%E5%A4%B1%E7%9C%A0-%E8%95%AD%E5%93%88%E5%93%88-%E9%A1%8F%E5%80%BC%E8%B6%85%E8%B6%8A%E8%95%AD%E6%AD%A3%E6%A5%A0",
+    "timestamp": "2026-09-08T09:44:41.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《愛回家》李芷晴爆秘撻甜品男神黃達文　同場睇騷拍拖隔空放閃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173937566039150592918260.png/tDffZAzVq_vVzpixfTsd9YYcgBP3mYvXhgFxgIYBcYA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387789/%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%B8%BD%E7%B5%B1%E8%A1%A8%E5%BC%9F%E6%B6%89%E5%B7%A8%E9%A1%8D%E8%B2%AA%E8%85%90-%E5%B0%8F%E9%A6%AC%E5%8F%AF%E6%96%AF%E7%A8%B1%E5%A4%A7%E7%BE%A9%E6%BB%85%E8%A6%AA%E7%97%9B%E8%8B%A6%E4%B8%94%E6%AD%A3%E7%A2%BA",
     "timestamp": "2026-09-08T02:32:41.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不拍戲也能賺錢！AI短劇掀「人臉授權」熱潮　普通人每部收益曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173687398823890944834025.jpeg/IHWCSt0h2djcxlVSMLN-YMyFt5KpIB8K6xBNVOsQTVQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387668/%E4%B8%8D%E6%8B%8D%E6%88%B2%E4%B9%9F%E8%83%BD%E8%B3%BA%E9%8C%A2-ai%E7%9F%AD%E5%8A%87%E6%8E%80-%E4%BA%BA%E8%87%89%E6%8E%88%E6%AC%8A-%E7%86%B1%E6%BD%AE-%E6%99%AE%E9%80%9A%E4%BA%BA%E6%AF%8F%E9%83%A8%E6%94%B6%E7%9B%8A%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-09-08T02:01:49.555Z",
     "strategy": ".content-card__main"
   }
 ];
