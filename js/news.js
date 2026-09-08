@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T02:54:28.361Z
+// Last updated: 2026-09-08T03:24:08.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年．圖輯｜投資、地產界聚首　龐建貽《商談》受訪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173676444434305024684531.jpeg/Fy9SxmfkIRi6xLfVdJqmx0mfKjrU8HLvr2LhdK9i4XQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387632/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E5%9C%96%E8%BC%AF-%E6%8A%95%E8%B3%87-%E5%9C%B0%E7%94%A2%E7%95%8C%E8%81%9A%E9%A6%96-%E9%BE%90%E5%BB%BA%E8%B2%BD-%E5%95%86%E8%AB%87-%E5%8F%97%E8%A8%AA",
+    "timestamp": "2026-09-08T03:24:08.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銅價破頂！銅業股盤初拉升　江西銅漲近半成丨港股異動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250126/960140276821659648103296.jpeg/zQ2rT5JOeRKYzUOsYON9h2XqPACxftObbyBLF28gSxc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387760/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E7%99%BC%E4%BF%A1-%E5%93%88%E9%87%8C%E5%A4%AB%E5%A9%A6%E8%BF%94%E8%8B%B1%E8%BA%AB%E4%BB%BD%E6%9C%AA%E8%AE%8A-%E4%B8%8D%E5%85%B7%E7%8E%8B%E5%AE%A4%E5%85%AC%E8%81%B7",
     "timestamp": "2026-09-07T20:53:52.287Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英王查理斯發信：哈里夫婦返英身份未變　不具王室公職",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250126/960140276821659648103296.jpeg/zQ2rT5JOeRKYzUOsYON9h2XqPACxftObbyBLF28gSxc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387760/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E7%99%BC%E4%BF%A1-%E5%93%88%E9%87%8C%E5%A4%AB%E5%A9%A6%E8%BF%94%E8%8B%B1%E8%BA%AB%E4%BB%BD%E6%9C%AA%E8%AE%8A-%E4%B8%8D%E5%85%B7%E7%8E%8B%E5%AE%A4%E5%85%AC%E8%81%B7",
-    "timestamp": "2026-09-07T20:43:47.009Z",
     "strategy": ".content-card__main"
   }
 ];
