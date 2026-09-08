@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T12:28:47.753Z
+// Last updated: 2026-09-08T13:22:15.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年｜邵家輝：站在新聞最前線　展現專業堅毅與擔當",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173258870672330752846513.jpeg/oWinHCTHslvjpXPfc9qiD76loWyATQaQMSI2WzEiNls?v=w1920",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388083/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%82%B5%E5%AE%B6%E8%BC%9D-%E7%AB%99%E5%9C%A8%E6%96%B0%E8%81%9E%E6%9C%80%E5%89%8D%E7%B7%9A-%E5%B1%95%E7%8F%BE%E5%B0%88%E6%A5%AD%E5%A0%85%E6%AF%85%E8%88%87%E6%93%94%E7%95%B6",
+    "timestamp": "2026-09-08T13:22:15.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《我的剩餘戀愛》大結局倒數！人氣王金善浩與三女糾纏引爆四角戀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173974285643943936471295.jpeg/_rWNZFMI3Zi2TIW2Iq0C2GUm_jP3sUhhNWWQSRBlkEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387881/16%E5%90%8D%E5%85%AC%E5%8B%99%E5%93%A1%E7%8D%B2%E6%8E%A8%E8%96%A6%E8%B5%B4%E8%81%AF%E5%90%88%E5%9C%8B%E5%B7%A5%E4%BD%9C-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%AF%84%E8%AA%9E%E8%AA%AA%E5%A5%BD%E9%A6%99%E6%B8%AF%E6%95%85%E4%BA%8B",
     "timestamp": "2026-09-08T05:20:40.771Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日央行下周議息　次季GDP增幅高於先前預估　強化加息理由",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027278924243013632384750.jpeg/oYHwEZTA92SABl3FHZIEvAPb8ojX5r8FJgEEuCYBBLg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387884/%E6%97%A5%E5%A4%AE%E8%A1%8C%E4%B8%8B%E5%91%A8%E8%AD%B0%E6%81%AF-%E6%AC%A1%E5%AD%A3gdp%E5%A2%9E%E5%B9%85%E9%AB%98%E6%96%BC%E5%85%88%E5%89%8D%E9%A0%90%E4%BC%B0-%E5%BC%B7%E5%8C%96%E5%8A%A0%E6%81%AF%E7%90%86%E7%94%B1",
-    "timestamp": "2026-09-08T04:54:16.931Z",
     "strategy": ".content-card__main"
   }
 ];
