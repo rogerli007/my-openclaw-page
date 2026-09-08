@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T07:47:28.591Z
+// Last updated: 2026-09-08T07:53:57.997Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "校園天地｜佛教林金殿紀念小學以「正向教育」伴小一新生愉快啟航",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174022212282224640930185.png/ewW2OxKYOvCBOCwrknI9W0WbsQChhthXjVSrZ41Uq2c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60387957/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E4%BD%9B%E6%95%99%E6%9E%97%E9%87%91%E6%AE%BF%E7%B4%80%E5%BF%B5%E5%B0%8F%E5%AD%B8%E4%BB%A5-%E6%AD%A3%E5%90%91%E6%95%99%E8%82%B2-%E4%BC%B4%E5%B0%8F%E4%B8%80%E6%96%B0%E7%94%9F%E6%84%89%E5%BF%AB%E5%95%9F%E8%88%AA",
+    "timestamp": "2026-09-08T07:53:57.997Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無業男涉推人出馬路　事主等巴士突遭從後一推　覺整個人飛咗出去",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128719499332161536154692.jpeg/Wcc8HjH09aNhvnuJ0C-X-7jhKaQxWKL6kqHf2JKh39g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60387763/%E5%BE%9E-%E4%B8%80%E5%B8%B6%E4%B8%80%E8%B7%AF-%E5%88%B0%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E4%B8%AD%E6%9D%B1%E7%9A%84%E8%BB%8D%E4%BA%8B%E8%A7%92%E8%89%B2%E6%AD%A3%E5%9C%A8%E4%B8%8A%E5%8D%87",
     "timestamp": "2026-09-07T23:41:30.102Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "從「一帶一路」到伊朗戰爭　中國在中東的軍事角色正在上升？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128719499332161536154692.jpeg/Wcc8HjH09aNhvnuJ0C-X-7jhKaQxWKL6kqHf2JKh39g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60387763/%E5%BE%9E-%E4%B8%80%E5%B8%B6%E4%B8%80%E8%B7%AF-%E5%88%B0%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E4%B8%AD%E6%9D%B1%E7%9A%84%E8%BB%8D%E4%BA%8B%E8%A7%92%E8%89%B2%E6%AD%A3%E5%9C%A8%E4%B8%8A%E5%8D%87",
-    "timestamp": "2026-09-07T23:29:47.641Z",
     "strategy": ".content-card__main"
   }
 ];
