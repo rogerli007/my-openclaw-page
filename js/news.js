@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T10:21:36.765Z
+// Last updated: 2026-09-08T10:42:38.045Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普招牌金髮消失　媒體質疑染髮或戴假髮：他的頭髮怎麼了？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174043434936176640291605.jpeg/7ALnwO7Esu8JeNbB07T0zCMCnYoKIbIcqXhYFKl4WBQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60388004/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9B%E7%89%8C%E9%87%91%E9%AB%AE%E6%B6%88%E5%A4%B1-%E5%AA%92%E9%AB%94%E8%B3%AA%E7%96%91%E6%9F%93%E9%AB%AE%E6%88%96%E6%88%B4%E5%81%87%E9%AB%AE-%E4%BB%96%E7%9A%84%E9%A0%AD%E9%AB%AE%E6%80%8E%E9%BA%BC%E4%BA%86",
+    "timestamp": "2026-09-08T10:42:38.045Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚凱琪呈請鄧特希呂晶晶破產案開審　三方未有到庭宣布押後再訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230226/706557585255305216410759.jpeg/P_bPW720kCRkQ6lzYhvgfn2UWbk1HHLmFsYamRbGGpk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387805/%E9%8A%85%E5%83%B9%E7%A0%B4%E9%A0%82-%E9%8A%85%E6%A5%AD%E8%82%A1%E7%9B%A4%E5%88%9D%E6%8B%89%E5%8D%87-%E6%B1%9F%E8%A5%BF%E9%8A%85%E6%BC%B2%E8%BF%91%E5%8D%8A%E6%88%90-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
     "timestamp": "2026-09-08T02:54:28.361Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡映匯推三張價單共111伙　暫收1900個認購登記　超購逾16倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173941525537755136487069.jpeg/7WdnLzgfqoGsAwiqHekPEcxraQn6oYVw8rJ3tvKyd7Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60387799/%E7%B4%85%E7%A3%A1%E6%98%A0%E5%8C%AF%E6%8E%A8%E4%B8%89%E5%BC%B5%E5%83%B9%E5%96%AE%E5%85%B1111%E4%BC%99-%E6%9A%AB%E6%94%B61900%E5%80%8B%E8%AA%8D%E8%B3%BC%E7%99%BB%E8%A8%98-%E8%B6%85%E8%B3%BC%E9%80%BE16%E5%80%8D",
-    "timestamp": "2026-09-08T02:49:21.145Z",
     "strategy": ".content-card__main"
   }
 ];
