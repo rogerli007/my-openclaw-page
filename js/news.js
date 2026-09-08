@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T22:18:20.719Z
+// Last updated: 2026-09-08T22:32:29.977Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日局部地區有驟雨　最高約31度　未來一兩日早上氣溫稍降",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174236402846666752861024.jpeg/_ZTHQ1oKqszDZRmdJys87CXVjQuC_-48TnrSZE560mQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60388113/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E7%B4%8431%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
+    "timestamp": "2026-09-08T22:32:29.977Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日局部地區有驟雨　最高約31度　未來一兩日早上氣溫稍降",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174128792642260992524318.png/5vjTWnYspUF1Dd2PbY1R_3JmPrBV1Fu3aY7JSmmOyUo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387811/700%E7%A3%85%E5%85%A7%E5%9C%B0%E7%94%B7%E5%91%BC%E5%90%B8%E8%A1%B0%E7%AB%AD%E5%91%BD%E5%8D%B1-12%E5%90%8D%E9%86%AB%E8%AD%B7%E6%8A%AC%E4%B8%8A%E5%BA%8A-%E9%86%AB%E7%94%9F-%E5%85%88%E4%BF%9D%E5%91%BD-%E5%86%8D%E6%B8%9B%E9%87%8D",
     "timestamp": "2026-09-08T15:20:56.635Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "接受私企「保母式」服務　受賄近1.5億　山西原省長金湘軍判死緩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174124893436907520047518.jpeg/BDZenHbl-H2hhfk1WDIB-SiZzfkhrq85XGqjmFxqo5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60388106/%E6%8E%A5%E5%8F%97%E7%A7%81%E4%BC%81-%E4%BF%9D%E6%AF%8D%E5%BC%8F-%E6%9C%8D%E5%8B%99-%E5%8F%97%E8%B3%84%E8%BF%911-5%E5%84%84-%E5%B1%B1%E8%A5%BF%E5%8E%9F%E7%9C%81%E9%95%B7%E9%87%91%E6%B9%98%E8%BB%8D%E5%88%A4%E6%AD%BB%E7%B7%A9",
-    "timestamp": "2026-09-08T14:54:00.216Z",
     "strategy": ".content-card__main"
   }
 ];
