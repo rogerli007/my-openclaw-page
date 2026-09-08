@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T05:43:17.620Z
+// Last updated: 2026-09-08T06:32:21.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告2026前瞻｜重推租置料交代　港珠澳橋私家車乘客無感通關",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250917/1044919661877399552564120.jpeg/yIH5qBqdQI62HsPikaW0zsk3_7L7SXOdHKC13Aagtdw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387894/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026%E5%89%8D%E7%9E%BB-%E9%87%8D%E6%8E%A8%E7%A7%9F%E7%BD%AE%E6%96%99%E4%BA%A4%E4%BB%A3-%E6%B8%AF%E7%8F%A0%E6%BE%B3%E6%A9%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E4%B9%98%E5%AE%A2%E7%84%A1%E6%84%9F%E9%80%9A%E9%97%9C",
+    "timestamp": "2026-09-08T06:32:21.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日男涉按緊急掣阻礙新幹線惹官非　疑列車內偷迪士尼頸枕套再被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387769/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A354%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E5%B9%B3%E5%8F%B0-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-09-07T22:42:17.027Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗大廈雜物起火　起火原因有可疑　警列縱火案調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230303/708387986995154944180732.jpeg/miPkl2tCeFbhc6oerIbmzJvRGCnTcsEV4mQ7xuJkO8Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387768/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%A4%A7%E5%BB%88%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E6%9C%89%E5%8F%AF%E7%96%91-%E8%AD%A6%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-09-07T22:26:10.891Z",
     "strategy": ".content-card__main"
   }
 ];
