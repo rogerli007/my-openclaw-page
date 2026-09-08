@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T08:27:21.143Z
+// Last updated: 2026-09-08T08:46:15.440Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "食隔夜凍西瓜險送命！六旬婦「雪櫃惡菌」上腦 眼球僵硬面癱昏迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174027644094648320432598.jpeg/-klxIqCAo8S4mmzP46Kk5UDgkXO7oTgMGds1WxnbNVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60387942/%E9%A3%9F%E9%9A%94%E5%A4%9C%E5%87%8D%E8%A5%BF%E7%93%9C%E9%9A%AA%E9%80%81%E5%91%BD-%E5%85%AD%E6%97%AC%E5%A9%A6-%E9%9B%AA%E6%AB%83%E6%83%A1%E8%8F%8C-%E4%B8%8A%E8%85%A6-%E7%9C%BC%E7%90%83%E5%83%B5%E7%A1%AC%E9%9D%A2%E7%99%B1%E6%98%8F%E8%BF%B7",
+    "timestamp": "2026-09-08T08:46:15.440Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "1991深水埗劫殺案　專家指T恤血跡與被告脗合率達412兆分之一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173910470562680832741823.jpeg/WZNBQv2CKjic5KobbGWOk1OVy87h1HJ2vHkqo7x5KqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387772/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%9F%BA%E9%9A%86%E8%A1%97%E5%BE%8C%E5%B7%B7%E7%81%AB%E8%AD%A6-%E7%96%91%E7%85%99%E9%A0%AD%E8%82%87%E7%A6%8D-%E8%A1%97%E5%9D%8A%E8%87%AA%E8%A1%8C%E6%95%91%E7%86%84",
     "timestamp": "2026-09-08T00:48:50.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "從「一帶一路」到伊朗戰爭　中國在中東的軍事角色正在上升？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128719499332161536154692.jpeg/Wcc8HjH09aNhvnuJ0C-X-7jhKaQxWKL6kqHf2JKh39g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60387763/%E5%BE%9E-%E4%B8%80%E5%B8%B6%E4%B8%80%E8%B7%AF-%E5%88%B0%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E4%B8%AD%E6%9D%B1%E7%9A%84%E8%BB%8D%E4%BA%8B%E8%A7%92%E8%89%B2%E6%AD%A3%E5%9C%A8%E4%B8%8A%E5%8D%87",
-    "timestamp": "2026-09-07T23:52:16.064Z",
     "strategy": ".content-card__main"
   }
 ];
