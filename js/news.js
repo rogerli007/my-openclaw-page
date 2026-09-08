@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T03:45:51.189Z
+// Last updated: 2026-09-08T03:55:27.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港珠澳大橋擬推車上無感通關　李耀培倡保留人工查驗通道助覆核",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144289699083325440423819.jpeg/_2f3bWSzzukUGCCi3Cedawvlih7Er9Y4R0fNhUdHzYU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387837/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E6%93%AC%E6%8E%A8%E8%BB%8A%E4%B8%8A%E7%84%A1%E6%84%9F%E9%80%9A%E9%97%9C-%E6%9D%8E%E8%80%80%E5%9F%B9%E5%80%A1%E4%BF%9D%E7%95%99%E4%BA%BA%E5%B7%A5%E6%9F%A5%E9%A9%97%E9%80%9A%E9%81%93%E5%8A%A9%E8%A6%86%E6%A0%B8",
+    "timestamp": "2026-09-08T03:55:27.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "涉偷拍脫罪但遭警隊革職　前警員憂付不起訟費　撤銷司法覆核申請",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173861550235062272632017.jpeg/JWN0pvUuJvMuCKBXXzkXuH_Qhg9cI_BX6wdQAOsHUAA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387765/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%A3%E6%92%9E3%E8%BB%8A%E5%82%B7%E7%94%B7%E8%AD%A6-%E9%87%8D%E6%A1%88%E7%B5%84%E5%88%97%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E8%AA%BF%E6%9F%A5-%E8%BF%BD%E7%B7%9D2%E7%94%B7",
     "timestamp": "2026-09-07T21:29:39.503Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英王查理斯發信：哈里夫婦返英身份未變　不具王室公職",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250126/960140276821659648103296.jpeg/zQ2rT5JOeRKYzUOsYON9h2XqPACxftObbyBLF28gSxc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387760/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E7%99%BC%E4%BF%A1-%E5%93%88%E9%87%8C%E5%A4%AB%E5%A9%A6%E8%BF%94%E8%8B%B1%E8%BA%AB%E4%BB%BD%E6%9C%AA%E8%AE%8A-%E4%B8%8D%E5%85%B7%E7%8E%8B%E5%AE%A4%E5%85%AC%E8%81%B7",
-    "timestamp": "2026-09-07T21:20:19.522Z",
     "strategy": ".content-card__main"
   }
 ];
