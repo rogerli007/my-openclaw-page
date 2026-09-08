@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T10:42:38.045Z
+// Last updated: 2026-09-08T10:54:09.377Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "井柏然早春晴朗爆紅！與前女友倪妮分手原因曝光：結婚不選對方",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173949008079491072029536.jpeg/ZRG-kGl1pq4-4zKCrBt_AADBpBGJ9qGp_SVCPf0lQj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387795/%E4%BA%95%E6%9F%8F%E7%84%B6%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%88%86%E7%B4%85-%E8%88%87%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%80%AA%E5%A6%AE%E5%88%86%E6%89%8B%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-%E7%B5%90%E5%A9%9A%E4%B8%8D%E9%81%B8%E5%B0%8D%E6%96%B9",
+    "timestamp": "2026-09-08T10:54:09.377Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普招牌金髮消失　媒體質疑染髮或戴假髮：他的頭髮怎麼了？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173676444434305024684531.jpeg/Fy9SxmfkIRi6xLfVdJqmx0mfKjrU8HLvr2LhdK9i4XQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387632/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E5%9C%96%E8%BC%AF-%E6%8A%95%E8%B3%87-%E5%9C%B0%E7%94%A2%E7%95%8C%E8%81%9A%E9%A6%96-%E9%BE%90%E5%BB%BA%E8%B2%BD-%E5%95%86%E8%AB%87-%E5%8F%97%E8%A8%AA",
     "timestamp": "2026-09-08T03:24:08.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "銅價破頂！銅業股盤初拉升　江西銅漲近半成丨港股異動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230226/706557585255305216410759.jpeg/P_bPW720kCRkQ6lzYhvgfn2UWbk1HHLmFsYamRbGGpk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387805/%E9%8A%85%E5%83%B9%E7%A0%B4%E9%A0%82-%E9%8A%85%E6%A5%AD%E8%82%A1%E7%9B%A4%E5%88%9D%E6%8B%89%E5%8D%87-%E6%B1%9F%E8%A5%BF%E9%8A%85%E6%BC%B2%E8%BF%91%E5%8D%8A%E6%88%90-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
-    "timestamp": "2026-09-08T02:54:28.361Z",
     "strategy": ".content-card__main"
   }
 ];
