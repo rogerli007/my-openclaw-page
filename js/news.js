@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T16:44:18.039Z
+// Last updated: 2026-09-08T16:54:22.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬會2026香港國際公益慈善論壇閉幕　全球逾2000代表共賀10周年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174150747576078336109846.jpeg/1_0v0vlwXfkhyO56Ea4DyuRQFr4tceHh5FbU6eRW1Ok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388109/%E9%A6%AC%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E5%85%AC%E7%9B%8A%E6%85%88%E5%96%84%E8%AB%96%E5%A3%87%E9%96%89%E5%B9%95-%E5%85%A8%E7%90%83%E9%80%BE2000%E4%BB%A3%E8%A1%A8%E5%85%B1%E8%B3%8010%E5%91%A8%E5%B9%B4",
+    "timestamp": "2026-09-08T16:54:22.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬會2026香港國際公益慈善論壇閉幕　全球逾2000代表共賀10周年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174037577758412800048167.jpeg/PI9B77tunVyC7jBBprWeAi1I_7zXcFxBTb8YTHi_GEw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387986/%E6%95%B8%E5%AD%97%E9%8A%80%E8%A1%8C%E9%96%8B%E5%AF%A6%E9%AB%94%E5%9C%B0%E8%88%96-%E5%A4%A7%E8%B1%A1%E9%80%B2%E9%A7%90%E9%8A%85%E9%91%BC%E7%81%A3-%E5%90%91%E4%BB%A5%E4%B8%8D%E5%90%8C%E6%B8%A0%E9%81%93%E5%84%AA%E5%8C%96%E5%AE%A2%E6%88%B6%E9%AB%94%E9%A9%97",
     "timestamp": "2026-09-08T08:56:45.373Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "食隔夜凍西瓜險送命！六旬婦「雪櫃惡菌」上腦 眼球僵硬面癱昏迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174027644094648320432598.jpeg/-klxIqCAo8S4mmzP46Kk5UDgkXO7oTgMGds1WxnbNVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60387942/%E9%A3%9F%E9%9A%94%E5%A4%9C%E5%87%8D%E8%A5%BF%E7%93%9C%E9%9A%AA%E9%80%81%E5%91%BD-%E5%85%AD%E6%97%AC%E5%A9%A6-%E9%9B%AA%E6%AB%83%E6%83%A1%E8%8F%8C-%E4%B8%8A%E8%85%A6-%E7%9C%BC%E7%90%83%E5%83%B5%E7%A1%AC%E9%9D%A2%E7%99%B1%E6%98%8F%E8%BF%B7",
-    "timestamp": "2026-09-08T08:46:15.440Z",
     "strategy": ".content-card__main"
   }
 ];
