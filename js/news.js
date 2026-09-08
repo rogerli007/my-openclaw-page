@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T00:48:50.607Z
+// Last updated: 2026-09-08T01:13:07.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湖南莽山打造｢不用爬的山｣　中國首個無障礙山嶽景區贏韓客青睞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173778798366167040038164.jpeg/rWIxoFlHyYCX6J0ywOWFjSNRpUYm1RqZWZsRrFmbEaw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60387751/%E6%B9%96%E5%8D%97%E8%8E%BD%E5%B1%B1%E6%89%93%E9%80%A0-%E4%B8%8D%E7%94%A8%E7%88%AC%E7%9A%84%E5%B1%B1-%E4%B8%AD%E5%9C%8B%E9%A6%96%E5%80%8B%E7%84%A1%E9%9A%9C%E7%A4%99%E5%B1%B1%E5%B6%BD%E6%99%AF%E5%8D%80%E8%B4%8F%E9%9F%93%E5%AE%A2%E9%9D%92%E7%9D%9E",
+    "timestamp": "2026-09-08T01:13:07.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗基隆街後巷火警　疑煙頭肇禍　街坊自行救熄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
     "timestamp": "2026-09-07T19:27:45.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄撤銷德國駐聖彼得堡總領館運作許可　歌德學院員工須9.13前離境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172247258851184640720318.jpeg/oo_8kkRua1M1ds0FJ0Qfgzg-Pgp9jspTHzxp1x88adc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387758/%E4%BF%84%E6%92%A4%E9%8A%B7%E5%BE%B7%E5%9C%8B%E9%A7%90%E8%81%96%E5%BD%BC%E5%BE%97%E5%A0%A1%E7%B8%BD%E9%A0%98%E9%A4%A8%E9%81%8B%E4%BD%9C%E8%A8%B1%E5%8F%AF-%E6%AD%8C%E5%BE%B7%E5%AD%B8%E9%99%A2%E5%93%A1%E5%B7%A5%E9%A0%889-13%E5%89%8D%E9%9B%A2%E5%A2%83",
-    "timestamp": "2026-09-07T19:16:44.380Z",
     "strategy": ".content-card__main"
   }
 ];
