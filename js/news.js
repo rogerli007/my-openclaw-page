@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T13:22:15.895Z
+// Last updated: 2026-09-08T13:44:06.838Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年｜陳克勤：為港提供嚴肅思考空間　價值不言而喻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174108472401203200410768.png/M43BYgu_Pkpda84MYgJriRJteqV-i_AgzK4adMyuGnQ?v=w1920",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388078/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%99%B3%E5%85%8B%E5%8B%A4-%E7%82%BA%E6%B8%AF%E6%8F%90%E4%BE%9B%E5%9A%B4%E8%82%85%E6%80%9D%E8%80%83%E7%A9%BA%E9%96%93-%E5%83%B9%E5%80%BC%E4%B8%8D%E8%A8%80%E8%80%8C%E5%96%BB",
+    "timestamp": "2026-09-08T13:44:06.838Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》十周年｜邵家輝：站在新聞最前線　展現專業堅毅與擔當",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173988263803752448814372.jpeg/yGLe8shZ0YwHlikQ0uVop6mC-oVWypI8Rw3fxUcN38U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387897/%E6%97%A5%E7%94%B7%E6%B6%89%E6%8C%89%E7%B7%8A%E6%80%A5%E6%8E%A3%E9%98%BB%E7%A4%99%E6%96%B0%E5%B9%B9%E7%B7%9A%E6%83%B9%E5%AE%98%E9%9D%9E-%E7%96%91%E5%88%97%E8%BB%8A%E5%85%A7%E5%81%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%A0%B8%E6%9E%95%E5%A5%97%E5%86%8D%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-08T05:43:17.620Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "16名公務員獲推薦赴聯合國工作　李家超寄語說好香港故事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173974285643943936471295.jpeg/_rWNZFMI3Zi2TIW2Iq0C2GUm_jP3sUhhNWWQSRBlkEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387881/16%E5%90%8D%E5%85%AC%E5%8B%99%E5%93%A1%E7%8D%B2%E6%8E%A8%E8%96%A6%E8%B5%B4%E8%81%AF%E5%90%88%E5%9C%8B%E5%B7%A5%E4%BD%9C-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%AF%84%E8%AA%9E%E8%AA%AA%E5%A5%BD%E9%A6%99%E6%B8%AF%E6%95%85%E4%BA%8B",
-    "timestamp": "2026-09-08T05:20:40.771Z",
     "strategy": ".content-card__main"
   }
 ];
