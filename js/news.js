@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T22:57:03.023Z
+// Last updated: 2026-09-08T23:18:00.458Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美華裔司機微信接單變運200磅大麻！喊冤枉仍判罪成　綠卡恐不保",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173997781610663936146523.png/2zMTkff9taVy-BOVB-YBLc-f-_53D5CZEfHoSRHx6Ek",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60378539/%E7%BE%8E%E8%8F%AF%E8%A3%94%E5%8F%B8%E6%A9%9F%E5%BE%AE%E4%BF%A1%E6%8E%A5%E5%96%AE%E8%AE%8A%E9%81%8B200%E7%A3%85%E5%A4%A7%E9%BA%BB-%E5%96%8A%E5%86%A4%E6%9E%89%E4%BB%8D%E5%88%A4%E7%BD%AA%E6%88%90-%E7%B6%A0%E5%8D%A1%E6%81%90%E4%B8%8D%E4%BF%9D",
+    "timestamp": "2026-09-08T23:18:00.458Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "71歲老戲骨曾被TVB有靠山演員欺負　北上升級與趙雅芝同坐受尊重",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174150747576078336109846.jpeg/1_0v0vlwXfkhyO56Ea4DyuRQFr4tceHh5FbU6eRW1Ok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388109/%E9%A6%AC%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E5%85%AC%E7%9B%8A%E6%85%88%E5%96%84%E8%AB%96%E5%A3%87%E9%96%89%E5%B9%95-%E5%85%A8%E7%90%83%E9%80%BE2000%E4%BB%A3%E8%A1%A8%E5%85%B1%E8%B3%8010%E5%91%A8%E5%B9%B4",
     "timestamp": "2026-09-08T16:54:22.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬會2026香港國際公益慈善論壇閉幕　全球逾2000代表共賀10周年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174150747576078336109846.jpeg/1_0v0vlwXfkhyO56Ea4DyuRQFr4tceHh5FbU6eRW1Ok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388109/%E9%A6%AC%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E5%85%AC%E7%9B%8A%E6%85%88%E5%96%84%E8%AB%96%E5%A3%87%E9%96%89%E5%B9%95-%E5%85%A8%E7%90%83%E9%80%BE2000%E4%BB%A3%E8%A1%A8%E5%85%B1%E8%B3%8010%E5%91%A8%E5%B9%B4",
-    "timestamp": "2026-09-08T16:44:18.039Z",
     "strategy": ".content-card__main"
   }
 ];
