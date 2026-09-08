@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T10:54:09.377Z
+// Last updated: 2026-09-08T11:19:03.777Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜邱達根倡司長級督導航天科技　削1%基建開支轉投創科業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174062836091981824057281.jpeg/Y-owpkMygbxwW4geCacYgoQvcnwczuMA8DTROvA00To?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388060/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%82%B1%E9%81%94%E6%A0%B9%E5%80%A1%E5%8F%B8%E9%95%B7%E7%B4%9A%E7%9D%A3%E5%B0%8E%E8%88%AA%E5%A4%A9%E7%A7%91%E6%8A%80-%E5%89%8A1-%E5%9F%BA%E5%BB%BA%E9%96%8B%E6%94%AF%E8%BD%89%E6%8A%95%E5%89%B5%E7%A7%91%E6%A5%AD",
+    "timestamp": "2026-09-08T11:19:03.777Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "井柏然早春晴朗爆紅！與前女友倪妮分手原因曝光：結婚不選對方",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173958750621405184416820.jpeg/ks0UjrJ-TThStMnVfWCuZnwtLbXmYQ3GGLRLTj20S04?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387845/%E6%B6%89%E5%81%B7%E6%8B%8D%E8%84%AB%E7%BD%AA%E4%BD%86%E9%81%AD%E8%AD%A6%E9%9A%8A%E9%9D%A9%E8%81%B7-%E5%89%8D%E8%AD%A6%E5%93%A1%E6%86%82%E4%BB%98%E4%B8%8D%E8%B5%B7%E8%A8%9F%E8%B2%BB-%E6%92%A4%E9%8A%B7%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E7%94%B3%E8%AB%8B",
     "timestamp": "2026-09-08T03:45:51.189Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》十周年．圖輯｜投資、地產界聚首　龐建貽《商談》受訪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173676444434305024684531.jpeg/Fy9SxmfkIRi6xLfVdJqmx0mfKjrU8HLvr2LhdK9i4XQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387632/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E5%9C%96%E8%BC%AF-%E6%8A%95%E8%B3%87-%E5%9C%B0%E7%94%A2%E7%95%8C%E8%81%9A%E9%A6%96-%E9%BE%90%E5%BB%BA%E8%B2%BD-%E5%95%86%E8%AB%87-%E5%8F%97%E8%A8%AA",
-    "timestamp": "2026-09-08T03:24:08.680Z",
     "strategy": ".content-card__main"
   }
 ];
