@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T13:44:06.838Z
+// Last updated: 2026-09-08T13:53:52.076Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年｜陳克勤：為港提供嚴肅思考空間　價值不言而喻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174108472401203200410768.png/M43BYgu_Pkpda84MYgJriRJteqV-i_AgzK4adMyuGnQ?v=w1920",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388078/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%99%B3%E5%85%8B%E5%8B%A4-%E7%82%BA%E6%B8%AF%E6%8F%90%E4%BE%9B%E5%9A%B4%E8%82%85%E6%80%9D%E8%80%83%E7%A9%BA%E9%96%93-%E5%83%B9%E5%80%BC%E4%B8%8D%E8%A8%80%E8%80%8C%E5%96%BB",
+    "timestamp": "2026-09-08T13:53:52.076Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》十周年｜陳克勤：為港提供嚴肅思考空間　價值不言而喻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250917/1044919661877399552564120.jpeg/yIH5qBqdQI62HsPikaW0zsk3_7L7SXOdHKC13Aagtdw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60387894/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026%E5%89%8D%E7%9E%BB-%E9%87%8D%E6%8E%A8%E7%A7%9F%E7%BD%AE%E6%96%99%E4%BA%A4%E4%BB%A3-%E6%B8%AF%E7%8F%A0%E6%BE%B3%E6%A9%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E4%B9%98%E5%AE%A2%E7%84%A1%E6%84%9F%E9%80%9A%E9%97%9C",
     "timestamp": "2026-09-08T06:32:21.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日男涉按緊急掣阻礙新幹線惹官非　疑列車內偷迪士尼頸枕套再被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173988263803752448814372.jpeg/yGLe8shZ0YwHlikQ0uVop6mC-oVWypI8Rw3fxUcN38U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387897/%E6%97%A5%E7%94%B7%E6%B6%89%E6%8C%89%E7%B7%8A%E6%80%A5%E6%8E%A3%E9%98%BB%E7%A4%99%E6%96%B0%E5%B9%B9%E7%B7%9A%E6%83%B9%E5%AE%98%E9%9D%9E-%E7%96%91%E5%88%97%E8%BB%8A%E5%85%A7%E5%81%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%A0%B8%E6%9E%95%E5%A5%97%E5%86%8D%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-08T05:43:17.620Z",
     "strategy": ".content-card__main"
   }
 ];
