@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T03:55:27.462Z
+// Last updated: 2026-09-08T04:24:01.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女籃世界盃｜中國隊狂勝意大利20分　下場戰波多黎各爭八強席位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173965795626061824708256.jpeg/9pMztnXcXhfWO0J8ljEXtRtl3J0dNFIIHlUg4B5VIOA?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60387835/%E5%A5%B3%E7%B1%83%E4%B8%96%E7%95%8C%E7%9B%83-%E4%B8%AD%E5%9C%8B%E9%9A%8A%E7%8B%82%E5%8B%9D%E6%84%8F%E5%A4%A7%E5%88%A920%E5%88%86-%E4%B8%8B%E5%A0%B4%E6%88%B0%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84%E7%88%AD%E5%85%AB%E5%BC%B7%E5%B8%AD%E4%BD%8D",
+    "timestamp": "2026-09-08T04:24:01.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港珠澳大橋擬推車上無感通關　李耀培倡保留人工查驗通道助覆核",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173861550235062272632017.jpeg/JWN0pvUuJvMuCKBXXzkXuH_Qhg9cI_BX6wdQAOsHUAA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387765/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%A3%E6%92%9E3%E8%BB%8A%E5%82%B7%E7%94%B7%E8%AD%A6-%E9%87%8D%E6%A1%88%E7%B5%84%E5%88%97%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E8%AA%BF%E6%9F%A5-%E8%BF%BD%E7%B7%9D2%E7%94%B7",
     "timestamp": "2026-09-07T21:41:17.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地私家車連撞3車傷男警　重案組列狂亂駕駛調查　追緝2男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173861550235062272632017.jpeg/JWN0pvUuJvMuCKBXXzkXuH_Qhg9cI_BX6wdQAOsHUAA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387765/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%A3%E6%92%9E3%E8%BB%8A%E5%82%B7%E7%94%B7%E8%AD%A6-%E9%87%8D%E6%A1%88%E7%B5%84%E5%88%97%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E8%AA%BF%E6%9F%A5-%E8%BF%BD%E7%B7%9D2%E7%94%B7",
-    "timestamp": "2026-09-07T21:29:39.503Z",
     "strategy": ".content-card__main"
   }
 ];
