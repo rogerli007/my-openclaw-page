@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T17:42:50.657Z
+// Last updated: 2026-09-08T17:56:18.130Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世︱梁振英讚高瞻遠矚謀劃長遠發展　解決深層次民生問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220414/591210310421975040829416.jpeg/8D82wDKKZpexMUaTqVZVeyhoZI55s85ujY1Q1o2NUNY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388125/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%A2%81%E6%8C%AF%E8%8B%B1%E8%AE%9A%E9%AB%98%E7%9E%BB%E9%81%A0%E7%9F%9A%E8%AC%80%E5%8A%83%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95-%E8%A7%A3%E6%B1%BA%E6%B7%B1%E5%B1%A4%E6%AC%A1%E6%B0%91%E7%94%9F%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-09-08T17:56:18.130Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華逝世︱梁振英讚高瞻遠矚謀劃長遠發展　解決深層次民生問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174043434936176640291605.jpeg/7ALnwO7Esu8JeNbB07T0zCMCnYoKIbIcqXhYFKl4WBQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60388004/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9B%E7%89%8C%E9%87%91%E9%AB%AE%E6%B6%88%E5%A4%B1-%E5%AA%92%E9%AB%94%E8%B3%AA%E7%96%91%E6%9F%93%E9%AB%AE%E6%88%96%E6%88%B4%E5%81%87%E9%AB%AE-%E4%BB%96%E7%9A%84%E9%A0%AD%E9%AB%AE%E6%80%8E%E9%BA%BC%E4%BA%86",
     "timestamp": "2026-09-08T10:42:38.045Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚凱琪呈請鄧特希呂晶晶破產案開審　三方未有到庭宣布押後再訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174056458841493504354968.jpeg/q_85WvmAhZoQO5pW7xQ5m-F6fsa8YbaI-tv6pvrb-qY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388037/%E8%AD%9A%E5%87%B1%E7%90%AA%E5%91%88%E8%AB%8B%E9%84%A7%E7%89%B9%E5%B8%8C%E5%91%82%E6%99%B6%E6%99%B6%E7%A0%B4%E7%94%A2%E6%A1%88%E9%96%8B%E5%AF%A9-%E4%B8%89%E6%96%B9%E6%9C%AA%E6%9C%89%E5%88%B0%E5%BA%AD%E5%AE%A3%E5%B8%83%E6%8A%BC%E5%BE%8C%E5%86%8D%E8%A8%8A",
-    "timestamp": "2026-09-08T10:21:36.765Z",
     "strategy": ".content-card__main"
   }
 ];
