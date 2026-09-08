@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T15:20:56.635Z
+// Last updated: 2026-09-08T16:22:37.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泳兒入行20週年演唱會登陸澳門　以音樂回饋樂迷共度珍貴「當下」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174027037636038656205364.jpeg/OGFB2ode82ngFGLTrOsNcgpZ2bJIrGf7KkmMPSpJjD0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387964/%E6%B3%B3%E5%85%92%E5%85%A5%E8%A1%8C20%E9%80%B1%E5%B9%B4%E6%BC%94%E5%94%B1%E6%9C%83%E7%99%BB%E9%99%B8%E6%BE%B3%E9%96%80-%E4%BB%A5%E9%9F%B3%E6%A8%82%E5%9B%9E%E9%A5%8B%E6%A8%82%E8%BF%B7%E5%85%B1%E5%BA%A6%E7%8F%8D%E8%B2%B4-%E7%95%B6%E4%B8%8B",
+    "timestamp": "2026-09-08T16:22:37.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "700磅內地男呼吸衰竭命危！12名醫護抬上床 醫生：先保命、再減重",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174029584056717312930217.jpeg/rAl2-ScRMH8SGyZCjPGwqRXXDvCwwEtPJ8qhCgLKoQo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387975/1991%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%8A%AB%E6%AE%BA%E6%A1%88-%E5%B0%88%E5%AE%B6%E6%8C%87t%E6%81%A4%E8%A1%80%E8%B7%A1%E8%88%87%E8%A2%AB%E5%91%8A%E8%84%97%E5%90%88%E7%8E%87%E9%81%94412%E5%85%86%E5%88%86%E4%B9%8B%E4%B8%80",
     "timestamp": "2026-09-08T08:27:21.143Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "校園天地｜佛教林金殿紀念小學以「正向教育」伴小一新生愉快啟航",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174022212282224640930185.png/ewW2OxKYOvCBOCwrknI9W0WbsQChhthXjVSrZ41Uq2c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60387957/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E4%BD%9B%E6%95%99%E6%9E%97%E9%87%91%E6%AE%BF%E7%B4%80%E5%BF%B5%E5%B0%8F%E5%AD%B8%E4%BB%A5-%E6%AD%A3%E5%90%91%E6%95%99%E8%82%B2-%E4%BC%B4%E5%B0%8F%E4%B8%80%E6%96%B0%E7%94%9F%E6%84%89%E5%BF%AB%E5%95%9F%E8%88%AA",
-    "timestamp": "2026-09-08T07:53:57.997Z",
     "strategy": ".content-card__main"
   }
 ];
