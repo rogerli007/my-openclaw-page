@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T02:49:21.145Z
+// Last updated: 2026-09-08T02:54:28.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銅價破頂！銅業股盤初拉升　江西銅漲近半成丨港股異動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230226/706557585255305216410759.jpeg/P_bPW720kCRkQ6lzYhvgfn2UWbk1HHLmFsYamRbGGpk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60387805/%E9%8A%85%E5%83%B9%E7%A0%B4%E9%A0%82-%E9%8A%85%E6%A5%AD%E8%82%A1%E7%9B%A4%E5%88%9D%E6%8B%89%E5%8D%87-%E6%B1%9F%E8%A5%BF%E9%8A%85%E6%BC%B2%E8%BF%91%E5%8D%8A%E6%88%90-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
+    "timestamp": "2026-09-08T02:54:28.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡映匯推三張價單共111伙　暫收1900個認購登記　超購逾16倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250126/960140276821659648103296.jpeg/zQ2rT5JOeRKYzUOsYON9h2XqPACxftObbyBLF28gSxc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387760/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E7%90%86%E6%96%AF%E7%99%BC%E4%BF%A1-%E5%93%88%E9%87%8C%E5%A4%AB%E5%A9%A6%E8%BF%94%E8%8B%B1%E8%BA%AB%E4%BB%BD%E6%9C%AA%E8%AE%8A-%E4%B8%8D%E5%85%B7%E7%8E%8B%E5%AE%A4%E5%85%AC%E8%81%B7",
     "timestamp": "2026-09-07T20:43:47.009Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯入境處油尖區掃黃、反黑工　拘30人最細16歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
-    "timestamp": "2026-09-07T20:19:31.795Z",
     "strategy": ".content-card__main"
   }
 ];
