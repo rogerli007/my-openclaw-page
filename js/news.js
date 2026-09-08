@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T18:46:19.499Z
+// Last updated: 2026-09-08T19:17:50.305Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜阿士東維拉作客3：2勝布魯日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174188021512146944309815.jpeg/aPzj6n8eWGeF-rDbX-svHXfrzZbFnkCtYpAaZmKQGmY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388131/%E6%AD%90%E8%81%AF-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E4%BD%9C%E5%AE%A23-2%E5%8B%9D%E5%B8%83%E9%AD%AF%E6%97%A5",
+    "timestamp": "2026-09-08T19:17:50.305Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警察學院聯同慈善機構中秋活動教防騙　長者、學生等近500人參與",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164937936853012480760493.jpeg/rBob-nQeAoEoPon2f8Z3V6N-TrWkD4DPydYY4MnWGOA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388029/%E8%98%8B%E6%9E%9C%E6%91%BA%E7%96%8A%E6%A9%9F%E6%8E%A8%E5%87%BA%E9%A6%96%E5%B9%B4-%E6%A9%9F%E6%A7%8B%E9%A0%90%E6%B8%AC%E5%B8%82%E4%BD%94%E7%8E%87%E6%88%96%E5%B0%87%E8%B6%85%E8%B6%8A%E8%8F%AF%E7%82%BA",
     "timestamp": "2026-09-08T11:42:52.152Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告｜邱達根倡司長級督導航天科技　削1%基建開支轉投創科業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174062836091981824057281.jpeg/Y-owpkMygbxwW4geCacYgoQvcnwczuMA8DTROvA00To?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388060/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%82%B1%E9%81%94%E6%A0%B9%E5%80%A1%E5%8F%B8%E9%95%B7%E7%B4%9A%E7%9D%A3%E5%B0%8E%E8%88%AA%E5%A4%A9%E7%A7%91%E6%8A%80-%E5%89%8A1-%E5%9F%BA%E5%BB%BA%E9%96%8B%E6%94%AF%E8%BD%89%E6%8A%95%E5%89%B5%E7%A7%91%E6%A5%AD",
-    "timestamp": "2026-09-08T11:19:03.777Z",
     "strategy": ".content-card__main"
   }
 ];
