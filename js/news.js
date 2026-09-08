@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T14:43:52.593Z
+// Last updated: 2026-09-08T14:54:00.216Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "接受私企「保母式」服務　受賄近1.5億　山西原省長金湘軍判死緩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174124893436907520047518.jpeg/BDZenHbl-H2hhfk1WDIB-SiZzfkhrq85XGqjmFxqo5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60388106/%E6%8E%A5%E5%8F%97%E7%A7%81%E4%BC%81-%E4%BF%9D%E6%AF%8D%E5%BC%8F-%E6%9C%8D%E5%8B%99-%E5%8F%97%E8%B3%84%E8%BF%911-5%E5%84%84-%E5%B1%B1%E8%A5%BF%E5%8E%9F%E7%9C%81%E9%95%B7%E9%87%91%E6%B9%98%E8%BB%8D%E5%88%A4%E6%AD%BB%E7%B7%A9",
+    "timestamp": "2026-09-08T14:54:00.216Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "受賄近1.5億　山西原省長金湘軍判死緩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174017158066212864906835.jpeg/Kj7uJ9FrknNQKn8a8KYrdyyIHPTmuXlrx7rcT-K63E8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387951/%E7%84%A1%E6%A5%AD%E7%94%B7%E6%B6%89%E6%8E%A8%E4%BA%BA%E5%87%BA%E9%A6%AC%E8%B7%AF-%E4%BA%8B%E4%B8%BB%E7%AD%89%E5%B7%B4%E5%A3%AB%E7%AA%81%E9%81%AD%E5%BE%9E%E5%BE%8C%E4%B8%80%E6%8E%A8-%E8%A6%BA%E6%95%B4%E5%80%8B%E4%BA%BA%E9%A3%9B%E5%92%97%E5%87%BA%E5%8E%BB",
     "timestamp": "2026-09-08T07:47:28.591Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國學大師錢穆次子病逝享年94歲　1949年後留在大陸曾斷絕聯繫31年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174000018147774464148097.jpeg/MP09Q_7JG_TJlbL4vsIBuCvsiRkcsX8Z4o2pcOKNqXA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60387904/%E5%9C%8B%E5%AD%B8%E5%A4%A7%E5%B8%AB%E9%8C%A2%E7%A9%86%E6%AC%A1%E5%AD%90%E7%97%85%E9%80%9D%E4%BA%AB%E5%B9%B494%E6%AD%B2-1949%E5%B9%B4%E5%BE%8C%E7%95%99%E5%9C%A8%E5%A4%A7%E9%99%B8%E6%9B%BE%E6%96%B7%E7%B5%95%E8%81%AF%E7%B9%AB31%E5%B9%B4",
-    "timestamp": "2026-09-08T07:22:11.839Z",
     "strategy": ".content-card__main"
   }
 ];
