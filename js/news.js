@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T06:55:47.563Z
+// Last updated: 2026-09-08T07:22:11.839Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國學大師錢穆次子病逝享年94歲　1949年後留在大陸曾斷絕聯繫31年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174000018147774464148097.jpeg/MP09Q_7JG_TJlbL4vsIBuCvsiRkcsX8Z4o2pcOKNqXA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60387904/%E5%9C%8B%E5%AD%B8%E5%A4%A7%E5%B8%AB%E9%8C%A2%E7%A9%86%E6%AC%A1%E5%AD%90%E7%97%85%E9%80%9D%E4%BA%AB%E5%B9%B494%E6%AD%B2-1949%E5%B9%B4%E5%BE%8C%E7%95%99%E5%9C%A8%E5%A4%A7%E9%99%B8%E6%9B%BE%E6%96%B7%E7%B5%95%E8%81%AF%E7%B9%AB31%E5%B9%B4",
+    "timestamp": "2026-09-08T07:22:11.839Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡映匯擬日內加推、公佈首張銷售安排　暫收2100票、超購近18倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173305670691196928206194.png/nZSce7E6YEXyDRu1THtYXBXUMdZutPFnQmnDvEJpw7w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382022/%E6%BE%B3%E6%B4%B2%E4%B8%AD%E9%A4%90%E5%BB%B3%E6%85%B6%E7%94%9F%E8%A8%AD%E5%AE%B4%E5%9F%8B%E5%96%AE-4%E8%90%AC-%E6%83%85%E4%BE%B6%E6%89%B9%E4%B8%8D%E5%90%88%E7%90%86%E6%8B%92%E4%BB%98-%E5%BA%97%E6%96%B9%E9%97%9C%E9%96%80%E7%88%86%E8%A1%9D%E7%AA%81",
     "timestamp": "2026-09-07T23:18:45.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜荃灣54歲男子墮平台　昏迷送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387769/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%83%E7%81%A354%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E5%B9%B3%E5%8F%B0-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-09-07T22:55:39.281Z",
     "strategy": ".content-card__main"
   }
 ];
