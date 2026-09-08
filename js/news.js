@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T02:32:41.715Z
+// Last updated: 2026-09-08T02:49:21.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡映匯推三張價單共111伙　暫收1900個認購登記　超購逾16倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173941525537755136487069.jpeg/7WdnLzgfqoGsAwiqHekPEcxraQn6oYVw8rJ3tvKyd7Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60387799/%E7%B4%85%E7%A3%A1%E6%98%A0%E5%8C%AF%E6%8E%A8%E4%B8%89%E5%BC%B5%E5%83%B9%E5%96%AE%E5%85%B1111%E4%BC%99-%E6%9A%AB%E6%94%B61900%E5%80%8B%E8%AA%8D%E8%B3%BC%E7%99%BB%E8%A8%98-%E8%B6%85%E8%B3%BC%E9%80%BE16%E5%80%8D",
+    "timestamp": "2026-09-08T02:49:21.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲律賓總統表弟涉巨額貪腐　小馬可斯稱大義滅親痛苦且正確",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
     "timestamp": "2026-09-07T20:19:31.795Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯入境處油尖區掃黃、反黑工　拘30人最細16歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172476245414252544710932.jpeg/lo2kSQdcU45uGCyrgq3HXkA4ghmaseefDEcWewxHFns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60387762/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E5%8D%80%E6%8E%83%E9%BB%83-%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%8B%9830%E4%BA%BA%E6%9C%80%E7%B4%B016%E6%AD%B2",
-    "timestamp": "2026-09-07T19:53:41.303Z",
     "strategy": ".content-card__main"
   }
 ];
