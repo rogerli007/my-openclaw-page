@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T22:32:29.977Z
+// Last updated: 2026-09-08T22:41:26.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日局部地區有驟雨　最高約31度　未來一兩日早上氣溫稍降",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174236402846666752861024.jpeg/_ZTHQ1oKqszDZRmdJys87CXVjQuC_-48TnrSZE560mQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60388113/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E7%B4%8431%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
+    "timestamp": "2026-09-08T22:41:26.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日局部地區有驟雨　最高約31度　未來一兩日早上氣溫稍降",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174027037636038656205364.jpeg/OGFB2ode82ngFGLTrOsNcgpZ2bJIrGf7KkmMPSpJjD0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60387964/%E6%B3%B3%E5%85%92%E5%85%A5%E8%A1%8C20%E9%80%B1%E5%B9%B4%E6%BC%94%E5%94%B1%E6%9C%83%E7%99%BB%E9%99%B8%E6%BE%B3%E9%96%80-%E4%BB%A5%E9%9F%B3%E6%A8%82%E5%9B%9E%E9%A5%8B%E6%A8%82%E8%BF%B7%E5%85%B1%E5%BA%A6%E7%8F%8D%E8%B2%B4-%E7%95%B6%E4%B8%8B",
     "timestamp": "2026-09-08T16:22:37.505Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "700磅內地男呼吸衰竭命危！12名醫護抬上床 醫生：先保命、再減重",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174128792642260992524318.png/5vjTWnYspUF1Dd2PbY1R_3JmPrBV1Fu3aY7JSmmOyUo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387811/700%E7%A3%85%E5%85%A7%E5%9C%B0%E7%94%B7%E5%91%BC%E5%90%B8%E8%A1%B0%E7%AB%AD%E5%91%BD%E5%8D%B1-12%E5%90%8D%E9%86%AB%E8%AD%B7%E6%8A%AC%E4%B8%8A%E5%BA%8A-%E9%86%AB%E7%94%9F-%E5%85%88%E4%BF%9D%E5%91%BD-%E5%86%8D%E6%B8%9B%E9%87%8D",
-    "timestamp": "2026-09-08T15:20:56.635Z",
     "strategy": ".content-card__main"
   }
 ];
