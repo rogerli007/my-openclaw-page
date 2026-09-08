@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T21:17:46.474Z
+// Last updated: 2026-09-08T21:27:59.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜皇馬2：1國際米蘭　曼城作客2：０波圖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174219683902001152174283.jpeg/X1j1Rozp-ITDv-PtF0SYFSkHdDjlgeIPp5zCu6ecwrs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388136/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC2-1%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-%EF%BC%90%E6%B3%A2%E5%9C%96",
+    "timestamp": "2026-09-08T21:27:59.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜皇馬2：1國際米蘭　曼城作客2：０波圖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174108472401203200410768.png/M43BYgu_Pkpda84MYgJriRJteqV-i_AgzK4adMyuGnQ?v=w1920",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388078/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%99%B3%E5%85%8B%E5%8B%A4-%E7%82%BA%E6%B8%AF%E6%8F%90%E4%BE%9B%E5%9A%B4%E8%82%85%E6%80%9D%E8%80%83%E7%A9%BA%E9%96%93-%E5%83%B9%E5%80%BC%E4%B8%8D%E8%A8%80%E8%80%8C%E5%96%BB",
     "timestamp": "2026-09-08T13:53:52.076Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》十周年｜陳克勤：為港提供嚴肅思考空間　價值不言而喻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174108472401203200410768.png/M43BYgu_Pkpda84MYgJriRJteqV-i_AgzK4adMyuGnQ?v=w1920",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388078/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%99%B3%E5%85%8B%E5%8B%A4-%E7%82%BA%E6%B8%AF%E6%8F%90%E4%BE%9B%E5%9A%B4%E8%82%85%E6%80%9D%E8%80%83%E7%A9%BA%E9%96%93-%E5%83%B9%E5%80%BC%E4%B8%8D%E8%A8%80%E8%80%8C%E5%96%BB",
-    "timestamp": "2026-09-08T13:44:06.838Z",
     "strategy": ".content-card__main"
   }
 ];
