@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T09:44:41.241Z
+// Last updated: 2026-09-08T10:21:36.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚凱琪呈請鄧特希呂晶晶破產案開審　三方未有到庭宣布押後再訊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174056458841493504354968.jpeg/q_85WvmAhZoQO5pW7xQ5m-F6fsa8YbaI-tv6pvrb-qY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388037/%E8%AD%9A%E5%87%B1%E7%90%AA%E5%91%88%E8%AB%8B%E9%84%A7%E7%89%B9%E5%B8%8C%E5%91%82%E6%99%B6%E6%99%B6%E7%A0%B4%E7%94%A2%E6%A1%88%E9%96%8B%E5%AF%A9-%E4%B8%89%E6%96%B9%E6%9C%AA%E6%9C%89%E5%88%B0%E5%BA%AD%E5%AE%A3%E5%B8%83%E6%8A%BC%E5%BE%8C%E5%86%8D%E8%A8%8A",
+    "timestamp": "2026-09-08T10:21:36.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃翠如帶囝囝首度飛大馬緊張到失眠　「蕭哈哈」顏值超越蕭正楠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173941525537755136487069.jpeg/7WdnLzgfqoGsAwiqHekPEcxraQn6oYVw8rJ3tvKyd7Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60387799/%E7%B4%85%E7%A3%A1%E6%98%A0%E5%8C%AF%E6%8E%A8%E4%B8%89%E5%BC%B5%E5%83%B9%E5%96%AE%E5%85%B1111%E4%BC%99-%E6%9A%AB%E6%94%B61900%E5%80%8B%E8%AA%8D%E8%B3%BC%E7%99%BB%E8%A8%98-%E8%B6%85%E8%B3%BC%E9%80%BE16%E5%80%8D",
     "timestamp": "2026-09-08T02:49:21.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菲律賓總統表弟涉巨額貪腐　小馬可斯稱大義滅親痛苦且正確",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173937566039150592918260.png/tDffZAzVq_vVzpixfTsd9YYcgBP3mYvXhgFxgIYBcYA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387789/%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%B8%BD%E7%B5%B1%E8%A1%A8%E5%BC%9F%E6%B6%89%E5%B7%A8%E9%A1%8D%E8%B2%AA%E8%85%90-%E5%B0%8F%E9%A6%AC%E5%8F%AF%E6%96%AF%E7%A8%B1%E5%A4%A7%E7%BE%A9%E6%BB%85%E8%A6%AA%E7%97%9B%E8%8B%A6%E4%B8%94%E6%AD%A3%E7%A2%BA",
-    "timestamp": "2026-09-08T02:32:41.715Z",
     "strategy": ".content-card__main"
   }
 ];
