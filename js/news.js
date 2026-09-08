@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T07:53:57.997Z
+// Last updated: 2026-09-08T08:27:21.143Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "1991深水埗劫殺案　專家指T恤血跡與被告脗合率達412兆分之一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174029584056717312930217.jpeg/rAl2-ScRMH8SGyZCjPGwqRXXDvCwwEtPJ8qhCgLKoQo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60387975/1991%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%8A%AB%E6%AE%BA%E6%A1%88-%E5%B0%88%E5%AE%B6%E6%8C%87t%E6%81%A4%E8%A1%80%E8%B7%A1%E8%88%87%E8%A2%AB%E5%91%8A%E8%84%97%E5%90%88%E7%8E%87%E9%81%94412%E5%85%86%E5%88%86%E4%B9%8B%E4%B8%80",
+    "timestamp": "2026-09-08T08:27:21.143Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "校園天地｜佛教林金殿紀念小學以「正向教育」伴小一新生愉快啟航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128719499332161536154692.jpeg/Wcc8HjH09aNhvnuJ0C-X-7jhKaQxWKL6kqHf2JKh39g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60387763/%E5%BE%9E-%E4%B8%80%E5%B8%B6%E4%B8%80%E8%B7%AF-%E5%88%B0%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E4%B8%AD%E6%9D%B1%E7%9A%84%E8%BB%8D%E4%BA%8B%E8%A7%92%E8%89%B2%E6%AD%A3%E5%9C%A8%E4%B8%8A%E5%8D%87",
     "timestamp": "2026-09-07T23:52:16.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "從「一帶一路」到伊朗戰爭　中國在中東的軍事角色正在上升？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128719499332161536154692.jpeg/Wcc8HjH09aNhvnuJ0C-X-7jhKaQxWKL6kqHf2JKh39g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60387763/%E5%BE%9E-%E4%B8%80%E5%B8%B6%E4%B8%80%E8%B7%AF-%E5%88%B0%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E4%B8%AD%E6%9D%B1%E7%9A%84%E8%BB%8D%E4%BA%8B%E8%A7%92%E8%89%B2%E6%AD%A3%E5%9C%A8%E4%B8%8A%E5%8D%87",
-    "timestamp": "2026-09-07T23:41:30.102Z",
     "strategy": ".content-card__main"
   }
 ];
