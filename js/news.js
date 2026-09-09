@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T05:53:43.308Z
+// Last updated: 2026-09-09T06:32:34.565Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "40歲日本話題女王澤尻英龍華新戀情！與33歲男星橋本良亮澀谷攬腰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174338116849242112682704.png/tlnm2AQSuE7U6PBUwGS-qQxqd3G5rsUChwoByocKAco?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388010/40%E6%AD%B2%E6%97%A5%E6%9C%AC%E8%A9%B1%E9%A1%8C%E5%A5%B3%E7%8E%8B%E6%BE%A4%E5%B0%BB%E8%8B%B1%E9%BE%8D%E8%8F%AF%E6%96%B0%E6%88%80%E6%83%85-%E8%88%8733%E6%AD%B2%E7%94%B7%E6%98%9F%E6%A9%8B%E6%9C%AC%E8%89%AF%E4%BA%AE%E6%BE%80%E8%B0%B7%E6%94%AC%E8%85%B0",
+    "timestamp": "2026-09-09T06:32:34.565Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "結業潮｜花千樹出版社公布因營運調整　即日起停運　終結27年歷史",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174236402846666752861024.jpeg/_ZTHQ1oKqszDZRmdJys87CXVjQuC_-48TnrSZE560mQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60388113/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E7%B4%8431%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
     "timestamp": "2026-09-08T22:32:29.977Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日局部地區有驟雨　最高約31度　未來一兩日早上氣溫稍降",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174236402846666752861024.jpeg/_ZTHQ1oKqszDZRmdJys87CXVjQuC_-48TnrSZE560mQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60388113/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E7%B4%8431%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
-    "timestamp": "2026-09-08T22:18:20.719Z",
     "strategy": ".content-card__main"
   }
 ];
