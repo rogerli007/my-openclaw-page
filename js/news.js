@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T11:19:06.830Z
+// Last updated: 2026-09-09T11:31:31.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "研究指飲酒致癌死亡人數30年翻一倍！男子頻飲酒致肝癌現8cm腫瘤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173620712737345536312874.jpeg/GIT0gz2GYJxiGnE6ri8GjaShKKgoCs1GFmTvgxZk74M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386806/%E7%A0%94%E7%A9%B6%E6%8C%87%E9%A3%B2%E9%85%92%E8%87%B4%E7%99%8C%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B830%E5%B9%B4%E7%BF%BB%E4%B8%80%E5%80%8D-%E7%94%B7%E5%AD%90%E9%A0%BB%E9%A3%B2%E9%85%92%E8%87%B4%E8%82%9D%E7%99%8C%E7%8F%BE8cm%E8%85%AB%E7%98%A4",
+    "timestamp": "2026-09-09T11:31:31.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王祖藍爆大女「戀愛腦」分手後秒交新歡　坦言婚後脾氣被太太磨平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174305528998793216067845.jpeg/CYVO6plsBine-63hSY9r5WDh7POg7VUW4e4dzOHuHcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388189/%E5%89%8D%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E9%BB%83%E9%8C%A6%E8%BC%9D%E6%B6%89%E9%86%89%E9%85%92%E9%A7%95%E9%A7%9B-%E5%87%86%E4%BF%9D%E9%87%8B%E8%87%B311-11%E5%86%8D%E6%8F%90%E8%A8%8A",
     "timestamp": "2026-09-09T02:58:24.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前立法會議員黃錦輝涉醉酒駕駛　准保釋至11.11再提訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174305528998793216067845.jpeg/CYVO6plsBine-63hSY9r5WDh7POg7VUW4e4dzOHuHcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388189/%E5%89%8D%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E9%BB%83%E9%8C%A6%E8%BC%9D%E6%B6%89%E9%86%89%E9%85%92%E9%A7%95%E9%A7%9B-%E5%87%86%E4%BF%9D%E9%87%8B%E8%87%B311-11%E5%86%8D%E6%8F%90%E8%A8%8A",
-    "timestamp": "2026-09-09T02:49:50.237Z",
     "strategy": ".content-card__main"
   }
 ];
