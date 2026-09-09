@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T13:53:40.056Z
+// Last updated: 2026-09-09T14:20:40.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "5大視帝視后大馬開新戲　陳展鵬鄭則士夏雨張振朗袁偉豪陣容強大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174379650328039424962083.jpeg/njdYsOinasGCz4Um0DvSsNeQPNgW5XjdacoK_WnKCv0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388345/5%E5%A4%A7%E8%A6%96%E5%B8%9D%E8%A6%96%E5%90%8E%E5%A4%A7%E9%A6%AC%E9%96%8B%E6%96%B0%E6%88%B2-%E9%99%B3%E5%B1%95%E9%B5%AC%E9%84%AD%E5%89%87%E5%A3%AB%E5%A4%8F%E9%9B%A8%E5%BC%B5%E6%8C%AF%E6%9C%97%E8%A2%81%E5%81%89%E8%B1%AA%E9%99%A3%E5%AE%B9%E5%BC%B7%E5%A4%A7",
+    "timestamp": "2026-09-09T14:20:40.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《神探打邊爐》改編成為AI文字遊戲？DELF 2026探討人工智能|何故",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174352541475934208086512.jpeg/7ao6ukoiH1r6UEhQsAdD6eK99jBJtQJoTgqGwU4KhsE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388311/%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%AD%A6%E5%91%8A-%E8%8B%A5%E5%9C%A8%E4%B8%AD%E7%BE%8Eai%E7%AB%B6%E7%88%AD%E4%B8%AD%E5%A4%B1%E6%95%97-%E7%BE%8E%E5%9C%8B%E6%B2%92%E6%9C%89%E6%98%8E%E5%A4%A9%E5%8F%AF%E8%A8%80",
     "timestamp": "2026-09-09T06:56:19.189Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "40歲日本話題女王澤尻英龍華新戀情！與33歲男星橋本良亮澀谷攬腰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174338116849242112682704.png/tlnm2AQSuE7U6PBUwGS-qQxqd3G5rsUChwoByocKAco?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388010/40%E6%AD%B2%E6%97%A5%E6%9C%AC%E8%A9%B1%E9%A1%8C%E5%A5%B3%E7%8E%8B%E6%BE%A4%E5%B0%BB%E8%8B%B1%E9%BE%8D%E8%8F%AF%E6%96%B0%E6%88%80%E6%83%85-%E8%88%8733%E6%AD%B2%E7%94%B7%E6%98%9F%E6%A9%8B%E6%9C%AC%E8%89%AF%E4%BA%AE%E6%BE%80%E8%B0%B7%E6%94%AC%E8%85%B0",
-    "timestamp": "2026-09-09T06:32:34.565Z",
     "strategy": ".content-card__main"
   }
 ];
