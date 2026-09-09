@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T22:29:28.875Z
+// Last updated: 2026-09-09T22:53:54.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢兩村屋遭連環爆竊　兩住戶共損失$47萬財物　包括勞力士手錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174607845442719744482310.jpeg/bNq20XKNrFyQL3DxA8WSO6JdcNSQ6CEofudRnn7nUZ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388558/%E8%A5%BF%E8%B2%A2%E5%85%A9%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-%E5%85%A9%E4%BD%8F%E6%88%B6%E5%85%B1%E6%90%8D%E5%A4%B1-47%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E6%89%8B%E9%8C%B6",
+    "timestamp": "2026-09-09T22:53:54.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德簡約公屋女嬰昏迷　送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174494873152131072142893.jpeg/TXKRNiGbsx7KFL1q8olyFp0nitrQrwhuVkrCTVZKwk0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388522/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E5%81%B5%E7%A0%B43%E5%AE%97%E8%B7%A8%E5%A2%83%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2%E7%8D%B2%E9%80%BE-1500%E8%90%AC%E6%AF%92%E5%93%81-5%E7%94%B7%E5%A5%B3%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-09T15:46:39.857Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑特設銷售計劃11.15攪珠　設網上直播　簽買賣協議始可揀樓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260102/1083877379794800640085934.jpeg/Jxz2E-lR4stMUv0XlKBeUbfIig3d1SU96LgyHs64Mh4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388523/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%89%B9%E8%A8%AD%E9%8A%B7%E5%94%AE%E8%A8%88%E5%8A%8311-15%E6%94%AA%E7%8F%A0-%E8%A8%AD%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD-%E7%B0%BD%E8%B2%B7%E8%B3%A3%E5%8D%94%E8%AD%B0%E5%A7%8B%E5%8F%AF%E6%8F%80%E6%A8%93",
-    "timestamp": "2026-09-09T15:33:35.079Z",
     "strategy": ".content-card__main"
   }
 ];
