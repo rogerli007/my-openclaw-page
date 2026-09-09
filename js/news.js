@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T10:43:17.990Z
+// Last updated: 2026-09-09T10:53:22.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《點五步》林耀聲轉行做地盤搵食意外受傷　吳浩康力撐：辛苦你",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174416003048673280610854.jpeg/68425xM8bajW1Qoz3HhQywadvHq-bKt4HAAX5hwAF-Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388429/%E9%BB%9E%E4%BA%94%E6%AD%A5-%E6%9E%97%E8%80%80%E8%81%B2%E8%BD%89%E8%A1%8C%E5%81%9A%E5%9C%B0%E7%9B%A4%E6%90%B5%E9%A3%9F%E6%84%8F%E5%A4%96%E5%8F%97%E5%82%B7-%E5%90%B3%E6%B5%A9%E5%BA%B7%E5%8A%9B%E6%92%90-%E8%BE%9B%E8%8B%A6%E4%BD%A0",
+    "timestamp": "2026-09-09T10:53:22.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《留家靈》激發二創港星名諧音變恐怖電影名　網民：廣東話萬歲！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/311752/org/60d13f796d6b4a27e58680bcc7b80e4b.jpg/OQHwSyfxiRdxQ2sVIzQ_OV2dkMuzeWlTugtrDboLaw0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388161/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%90%8C%E9%84%89%E6%9E%97%E9%84%AD%E6%9C%88%E5%A8%A5%E6%86%B6%E6%85%88%E7%A5%A5%E9%95%B7%E8%80%85-%E9%96%8B%E5%B1%95-%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6-%E5%88%A9%E5%9C%A8%E5%8D%83%E7%A7%8B",
     "timestamp": "2026-09-09T02:33:17.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "經常揉搓眼睛竟致結膜炎　停止4行為：關燈玩手機　科學護眼7注意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171869828160425984150493.jpeg/v8O3ABkZAmd0CwKF4LhmqsKafNdHdmoAX9LPyl_Sz8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60382393/%E7%B6%93%E5%B8%B8%E6%8F%89%E6%90%93%E7%9C%BC%E7%9D%9B%E7%AB%9F%E8%87%B4%E7%B5%90%E8%86%9C%E7%82%8E-%E5%81%9C%E6%AD%A24%E8%A1%8C%E7%82%BA-%E9%97%9C%E7%87%88%E7%8E%A9%E6%89%8B%E6%A9%9F-%E7%A7%91%E5%AD%B8%E8%AD%B7%E7%9C%BC7%E6%B3%A8%E6%84%8F",
-    "timestamp": "2026-09-09T02:02:37.801Z",
     "strategy": ".content-card__main"
   }
 ];
