@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T13:43:33.234Z
+// Last updated: 2026-09-09T13:53:40.056Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《神探打邊爐》改編成為AI文字遊戲？DELF 2026探討人工智能|何故",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174393049824890880024781.jpeg/yD6Vcn9CK7k9jnrpvSfsBujWKlC2aLR2WsVMSlrFTEo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60388026/%E7%A5%9E%E6%8E%A2%E6%89%93%E9%82%8A%E7%88%90-%E6%94%B9%E7%B7%A8%E6%88%90%E7%82%BAai%E6%96%87%E5%AD%97%E9%81%8A%E6%88%B2-delf-2026%E6%8E%A2%E8%A8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E4%BD%95%E6%95%85",
+    "timestamp": "2026-09-09T13:53:40.056Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《神探打邊爐》改編成為AI文字遊戲？DELF 2026探討人工智能|何故",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174338116849242112682704.png/tlnm2AQSuE7U6PBUwGS-qQxqd3G5rsUChwoByocKAco?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388010/40%E6%AD%B2%E6%97%A5%E6%9C%AC%E8%A9%B1%E9%A1%8C%E5%A5%B3%E7%8E%8B%E6%BE%A4%E5%B0%BB%E8%8B%B1%E9%BE%8D%E8%8F%AF%E6%96%B0%E6%88%80%E6%83%85-%E8%88%8733%E6%AD%B2%E7%94%B7%E6%98%9F%E6%A9%8B%E6%9C%AC%E8%89%AF%E4%BA%AE%E6%BE%80%E8%B0%B7%E6%94%AC%E8%85%B0",
     "timestamp": "2026-09-09T06:32:34.565Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "結業潮｜花千樹出版社公布因營運調整　即日起停運　終結27年歷史",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174351022718455808165248.jpeg/KOzpY_USaZPVKWJP8BREigRwbKEsIQAOynsA8sp7API?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388314/%E7%B5%90%E6%A5%AD%E6%BD%AE-%E8%8A%B1%E5%8D%83%E6%A8%B9%E5%87%BA%E7%89%88%E7%A4%BE%E5%85%AC%E5%B8%83%E5%9B%A0%E7%87%9F%E9%81%8B%E8%AA%BF%E6%95%B4-%E5%8D%B3%E6%97%A5%E8%B5%B7%E5%81%9C%E9%81%8B-%E7%B5%82%E7%B5%9027%E5%B9%B4%E6%AD%B7%E5%8F%B2",
-    "timestamp": "2026-09-09T05:53:43.308Z",
     "strategy": ".content-card__main"
   }
 ];
