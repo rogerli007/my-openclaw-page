@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T01:16:20.401Z
+// Last updated: 2026-09-09T01:41:57.136Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告2026前瞻︱摩通︰不排除港府進一步上調豪宅印花稅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116072546907983872624130.jpeg/FWNC5Sww1IVGaaUhgnhrLoch-MZad8ahSUq2jUlKto0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388157/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026%E5%89%8D%E7%9E%BB-%E6%91%A9%E9%80%9A-%E4%B8%8D%E6%8E%92%E9%99%A4%E6%B8%AF%E5%BA%9C%E9%80%B2%E4%B8%80%E6%AD%A5%E4%B8%8A%E8%AA%BF%E8%B1%AA%E5%AE%85%E5%8D%B0%E8%8A%B1%E7%A8%85",
+    "timestamp": "2026-09-09T01:41:57.136Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大馬跨境巴士失控側翻　白衣男化身「人肉梯子」救人　獲網民激讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174174614683652096085612.jpeg/v3uqKnmh4Esf5K3QRY2McLjnS_VVRLGlMBSFQzAUhUM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388127/%E8%AD%A6%E5%AF%9F%E5%AD%B8%E9%99%A2%E8%81%AF%E5%90%8C%E6%85%88%E5%96%84%E6%A9%9F%E6%A7%8B%E4%B8%AD%E7%A7%8B%E6%B4%BB%E5%8B%95%E6%95%99%E9%98%B2%E9%A8%99-%E9%95%B7%E8%80%85-%E5%AD%B8%E7%94%9F%E7%AD%89%E8%BF%91500%E4%BA%BA%E5%8F%83%E8%88%87",
     "timestamp": "2026-09-08T18:24:22.649Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世︱梁振英讚高瞻遠矚謀劃長遠發展　解決深層次民生問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220414/591210310421975040829416.jpeg/8D82wDKKZpexMUaTqVZVeyhoZI55s85ujY1Q1o2NUNY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388125/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%A2%81%E6%8C%AF%E8%8B%B1%E8%AE%9A%E9%AB%98%E7%9E%BB%E9%81%A0%E7%9F%9A%E8%AC%80%E5%8A%83%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95-%E8%A7%A3%E6%B1%BA%E6%B7%B1%E5%B1%A4%E6%AC%A1%E6%B0%91%E7%94%9F%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-09-08T17:56:18.130Z",
     "strategy": ".content-card__main"
   }
 ];
