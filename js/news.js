@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T21:44:33.336Z
+// Last updated: 2026-09-09T21:54:13.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AirPods 5登場｜1.5 倍更強主動消噪　支援Siri AI　實現即時翻譯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174587867091963904523178.png/Sb7elJ6rS6QUAYrc8Vnr_k7aOQYtsW_-90NrQfdDa0E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388549/airpods-5%E7%99%BB%E5%A0%B4-1-5-%E5%80%8D%E6%9B%B4%E5%BC%B7%E4%B8%BB%E5%8B%95%E6%B6%88%E5%99%AA-%E6%94%AF%E6%8F%B4siri-ai-%E5%AF%A6%E7%8F%BE%E5%8D%B3%E6%99%82%E7%BF%BB%E8%AD%AF",
+    "timestamp": "2026-09-09T21:54:13.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Apple發布會推摺機　IShowSpeed直播遇五月天阿信齊讚iPhone Duo",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108429726235496448024819.jpeg/DEWi0ic-0GRLdvVGZGg9xNethpcu5mA9dcqWbHXKlmw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388517/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%8F%8A%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E6%A1%88-%E9%A6%AE%E5%81%89%E5%85%89%E5%8F%8A%E6%9E%97%E6%96%87%E5%AE%97%E5%B0%B1%E5%88%A4%E5%88%91%E4%B8%8A%E8%A8%B4-%E6%98%8E%E5%B9%B41-22%E8%81%86%E8%A8%8A",
     "timestamp": "2026-09-09T14:53:32.019Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊持續海上對峙　波斯灣和阿曼灣傳多艘商船遇襲癱瘓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174473009180708864609315.png/n0S7YJQB5JOmEj4AYvD94MJnWCIllNKr9YJWNvWCVjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388511/%E7%BE%8E%E4%BC%8A%E6%8C%81%E7%BA%8C%E6%B5%B7%E4%B8%8A%E5%B0%8D%E5%B3%99-%E6%B3%A2%E6%96%AF%E7%81%A3%E5%92%8C%E9%98%BF%E6%9B%BC%E7%81%A3%E5%82%B3%E5%A4%9A%E8%89%98%E5%95%86%E8%88%B9%E9%81%87%E8%A5%B2%E7%99%B1%E7%98%93",
-    "timestamp": "2026-09-09T14:43:56.668Z",
     "strategy": ".content-card__main"
   }
 ];
