@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T16:22:18.809Z
+// Last updated: 2026-09-09T16:44:14.553Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薯蓉食譜｜做法簡易免牛油免忌廉低脂版、香滑軟綿全靠1秘密武器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250428/993595060652085248342168.jpeg/kGeuGSI11neyWCvSLP-qBieVdnY67PKcw8yiUMPMolA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60388528/%E8%96%AF%E8%93%89%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E5%85%8D%E7%89%9B%E6%B2%B9%E5%85%8D%E5%BF%8C%E5%BB%89%E4%BD%8E%E8%84%82%E7%89%88-%E9%A6%99%E6%BB%91%E8%BB%9F%E7%B6%BF%E5%85%A8%E9%9D%A01%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8",
+    "timestamp": "2026-09-09T16:44:14.553Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃智雯出席《黃金囍事》馬來西亞發布會　再續前緣夥袁偉豪演夫妻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174348689674604544428906.jpeg/6B7v4K4SRcQM05Hz-0nJ7nY-eqVPDL7Wtggya7YIMms?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388288/%E7%95%99%E5%AE%B6%E9%9D%88-%E6%BF%80%E7%99%BC%E4%BA%8C%E5%89%B5%E6%B8%AF%E6%98%9F%E5%90%8D%E8%AB%A7%E9%9F%B3%E8%AE%8A%E6%81%90%E6%80%96%E9%9B%BB%E5%BD%B1%E5%90%8D-%E7%B6%B2%E6%B0%91-%E5%BB%A3%E6%9D%B1%E8%A9%B1%E8%90%AC%E6%AD%B2",
     "timestamp": "2026-09-09T10:43:17.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玄戰丨Jim Sir龜殼實時算中爆冷賽馬　網民轟造假洪永城力證清白",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174397034749235200817236.jpeg/wcswO5-9aPyycm9o3kOqHg8-dUdUS-uNzKRhYcykYWE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388392/%E7%8E%84%E6%88%B0-jim-sir%E9%BE%9C%E6%AE%BC%E5%AF%A6%E6%99%82%E7%AE%97%E4%B8%AD%E7%88%86%E5%86%B7%E8%B3%BD%E9%A6%AC-%E7%B6%B2%E6%B0%91%E8%BD%9F%E9%80%A0%E5%81%87%E6%B4%AA%E6%B0%B8%E5%9F%8E%E5%8A%9B%E8%AD%89%E6%B8%85%E7%99%BD",
-    "timestamp": "2026-09-09T10:20:56.993Z",
     "strategy": ".content-card__main"
   }
 ];
