@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T20:20:31.539Z
+// Last updated: 2026-09-09T20:41:53.976Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo登場｜Apple首部摺機價格有驚喜　7.6吋螢幕無摺痕？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174574877974204416246805.png/NKI9A1tcjCR9nYATBj83Kp6006ePeB2XJ5cVqSeXFak?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388543/iphone-duo%E7%99%BB%E5%A0%B4-apple%E9%A6%96%E9%83%A8%E6%91%BA%E6%A9%9F%E5%83%B9%E6%A0%BC%E6%9C%89%E9%A9%9A%E5%96%9C-7-6%E5%90%8B%E8%9E%A2%E5%B9%95%E7%84%A1%E6%91%BA%E7%97%95",
+    "timestamp": "2026-09-09T20:41:53.976Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Apple Watch Series 12／Ultra 4登場｜S11晶片全面強化健康偵測",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174393049824890880024781.jpeg/yD6Vcn9CK7k9jnrpvSfsBujWKlC2aLR2WsVMSlrFTEo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60388026/%E7%A5%9E%E6%8E%A2%E6%89%93%E9%82%8A%E7%88%90-%E6%94%B9%E7%B7%A8%E6%88%90%E7%82%BAai%E6%96%87%E5%AD%97%E9%81%8A%E6%88%B2-delf-2026%E6%8E%A2%E8%A8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E4%BD%95%E6%95%85",
     "timestamp": "2026-09-09T13:53:40.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《神探打邊爐》改編成為AI文字遊戲？DELF 2026探討人工智能|何故",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174393049824890880024781.jpeg/yD6Vcn9CK7k9jnrpvSfsBujWKlC2aLR2WsVMSlrFTEo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60388026/%E7%A5%9E%E6%8E%A2%E6%89%93%E9%82%8A%E7%88%90-%E6%94%B9%E7%B7%A8%E6%88%90%E7%82%BAai%E6%96%87%E5%AD%97%E9%81%8A%E6%88%B2-delf-2026%E6%8E%A2%E8%A8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E4%BD%95%E6%95%85",
-    "timestamp": "2026-09-09T13:43:33.234Z",
     "strategy": ".content-card__main"
   }
 ];
