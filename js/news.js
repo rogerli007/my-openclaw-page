@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T11:31:31.306Z
+// Last updated: 2026-09-09T11:43:21.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Stanley@MIRROR過大禮勁曬滿枱金器　6對龍鳳鈪兩對重量級流星錘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174434406643929088127064.jpeg/KGlOacXSRwmOLJ4rgZzdjvR2y2c55GpE0-YWVNPmFlQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388479/stanley-mirror%E9%81%8E%E5%A4%A7%E7%A6%AE%E5%8B%81%E6%9B%AC%E6%BB%BF%E6%9E%B1%E9%87%91%E5%99%A8-6%E5%B0%8D%E9%BE%8D%E9%B3%B3%E9%88%AA%E5%85%A9%E5%B0%8D%E9%87%8D%E9%87%8F%E7%B4%9A%E6%B5%81%E6%98%9F%E9%8C%98",
+    "timestamp": "2026-09-09T11:43:21.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "研究指飲酒致癌死亡人數30年翻一倍！男子頻飲酒致肝癌現8cm腫瘤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174309994451963904350281.jpeg/rqq9zge3iolGZUPyvzmOoyhqfy2KLBA8RGnGJERpxiQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388163/%E6%97%A5%E7%9A%84%E5%A3%AB%E5%B7%A8%E9%A0%AD%E8%80%81%E9%97%86%E7%88%86%E8%81%B7%E5%A0%B4%E9%9C%B8%E5%87%8C-%E5%9B%A0%E5%93%A1%E5%B7%A5-%E8%8B%B1%E8%AA%9E%E4%B8%8D%E5%A5%BD-%E6%9A%B4%E6%80%92%E6%8E%9F%E9%90%B5%E6%AB%88%E9%81%AD%E7%82%8E%E4%B8%8A",
     "timestamp": "2026-09-09T03:24:00.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前立法會議員黃錦輝涉醉酒駕駛　准保釋至11.11再提訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174305528998793216067845.jpeg/CYVO6plsBine-63hSY9r5WDh7POg7VUW4e4dzOHuHcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388189/%E5%89%8D%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E9%BB%83%E9%8C%A6%E8%BC%9D%E6%B6%89%E9%86%89%E9%85%92%E9%A7%95%E9%A7%9B-%E5%87%86%E4%BF%9D%E9%87%8B%E8%87%B311-11%E5%86%8D%E6%8F%90%E8%A8%8A",
-    "timestamp": "2026-09-09T02:58:24.364Z",
     "strategy": ".content-card__main"
   }
 ];
