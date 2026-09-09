@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T02:58:24.364Z
+// Last updated: 2026-09-09T03:24:00.426Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日的士巨頭老闆爆職場霸凌！因員工「英語不好」暴怒掟鐵櫈遭炎上",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174309994451963904350281.jpeg/rqq9zge3iolGZUPyvzmOoyhqfy2KLBA8RGnGJERpxiQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388163/%E6%97%A5%E7%9A%84%E5%A3%AB%E5%B7%A8%E9%A0%AD%E8%80%81%E9%97%86%E7%88%86%E8%81%B7%E5%A0%B4%E9%9C%B8%E5%87%8C-%E5%9B%A0%E5%93%A1%E5%B7%A5-%E8%8B%B1%E8%AA%9E%E4%B8%8D%E5%A5%BD-%E6%9A%B4%E6%80%92%E6%8E%9F%E9%90%B5%E6%AB%88%E9%81%AD%E7%82%8E%E4%B8%8A",
+    "timestamp": "2026-09-09T03:24:00.426Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前立法會議員黃錦輝涉醉酒駕駛　准保釋至11.11再提訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3110119/org/35c948967cb76a15b9f2e636fb08b055.jpg/rXp35B8Mk0lEcvQpUFySxPGpS68Wf1duMYtWeRuLVnk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388135/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%9B%A2%E4%B8%96-%E7%AB%A5%E5%B9%B4%E4%BE%86%E6%B8%AF%E4%B8%8D%E6%87%82%E5%BB%A3%E6%9D%B1%E8%A9%B1-17%E6%AD%B2%E8%B2%A0%E7%AC%88%E8%8B%B1%E5%9C%8B%E5%8F%AA%E6%9C%833%E5%8F%A5%E8%8B%B1%E6%96%87",
     "timestamp": "2026-09-08T20:44:12.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華離世｜童年來港不懂廣東話　17歲負笈英國只會3句英文",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3110119/org/35c948967cb76a15b9f2e636fb08b055.jpg/rXp35B8Mk0lEcvQpUFySxPGpS68Wf1duMYtWeRuLVnk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388135/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%9B%A2%E4%B8%96-%E7%AB%A5%E5%B9%B4%E4%BE%86%E6%B8%AF%E4%B8%8D%E6%87%82%E5%BB%A3%E6%9D%B1%E8%A9%B1-17%E6%AD%B2%E8%B2%A0%E7%AC%88%E8%8B%B1%E5%9C%8B%E5%8F%AA%E6%9C%833%E5%8F%A5%E8%8B%B1%E6%96%87",
-    "timestamp": "2026-09-08T20:29:50.589Z",
     "strategy": ".content-card__main"
   }
 ];
