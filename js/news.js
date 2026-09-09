@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T12:51:11.111Z
+// Last updated: 2026-09-09T13:20:20.215Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世｜兩大商會指任內落實CEPA　助香港產品及服務業入內地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174319846599430144572904.jpeg/GdqoC-SJYc6S6IOLpYOMOYpvsExo_RJm8cpV0PHKVdA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388492/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%85%A9%E5%A4%A7%E5%95%86%E6%9C%83%E6%8C%87%E4%BB%BB%E5%85%A7%E8%90%BD%E5%AF%A6cepa-%E5%8A%A9%E9%A6%99%E6%B8%AF%E7%94%A2%E5%93%81%E5%8F%8A%E6%9C%8D%E5%8B%99%E6%A5%AD%E5%85%A5%E5%85%A7%E5%9C%B0",
+    "timestamp": "2026-09-09T13:20:20.215Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佘詩曼與姜濤拍廣告要排舞拍MV　對方帶「新寵」開工︰好得意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133726748203028480126730.jpeg/9zkSIYTEiV-FSsgi3qpHUO3zDRdB_ZDyqs5uDqrObg4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388293/%E5%84%AA%E5%9C%B0%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%A6%96%E6%8E%9B%E7%88%86%E5%8D%87-%E5%8D%88%E5%BE%8C%E5%8D%87%E5%B9%85%E6%93%B4%E5%A4%A7%E8%87%B31-6%E5%80%8D-%E6%96%B0%E8%82%A1ip0",
     "timestamp": "2026-09-09T05:22:04.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世｜特首李家超發文致哀　政府網頁首頁部份轉為黑白",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174327245573984256078396.png/nI2XxW_fUiUdBNb_O60QdnTNQFazWIMmWwcoV1sHKFc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388155/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%99%BC%E6%96%87%E8%87%B4%E5%93%80-%E6%94%BF%E5%BA%9C%E7%B6%B2%E9%A0%81%E9%A6%96%E9%A0%81%E9%83%A8%E4%BB%BD%E8%BD%89%E7%82%BA%E9%BB%91%E7%99%BD",
-    "timestamp": "2026-09-09T04:23:33.881Z",
     "strategy": ".content-card__main"
   }
 ];
