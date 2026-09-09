@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T03:46:17.451Z
+// Last updated: 2026-09-09T03:56:38.490Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世｜李浩然憶一事惹怒董建華　竟獲主動安慰讓步採納意見",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174322999273197568691042.jpeg/gR1Fy4yFqz4PJgt55igi4iPzXTELzKCITzaANk82gDY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388179/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%9D%8E%E6%B5%A9%E7%84%B6%E6%86%B6%E4%B8%80%E4%BA%8B%E6%83%B9%E6%80%92%E8%91%A3%E5%BB%BA%E8%8F%AF-%E7%AB%9F%E7%8D%B2%E4%B8%BB%E5%8B%95%E5%AE%89%E6%85%B0%E8%AE%93%E6%AD%A5%E6%8E%A1%E7%B4%8D%E6%84%8F%E8%A6%8B",
+    "timestamp": "2026-09-09T03:56:38.490Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華逝世︱李家超哀悼憶帶領香港抵禦金融風暴　巨大貢獻永存心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174219683902001152174283.jpeg/X1j1Rozp-ITDv-PtF0SYFSkHdDjlgeIPp5zCu6ecwrs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388136/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC2-1%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-%EF%BC%90%E6%B3%A2%E5%9C%96",
     "timestamp": "2026-09-08T21:27:59.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜皇馬2：1國際米蘭　曼城作客2：０波圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174219683902001152174283.jpeg/X1j1Rozp-ITDv-PtF0SYFSkHdDjlgeIPp5zCu6ecwrs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388136/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC2-1%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-%EF%BC%90%E6%B3%A2%E5%9C%96",
-    "timestamp": "2026-09-08T21:17:46.474Z",
     "strategy": ".content-card__main"
   }
 ];
