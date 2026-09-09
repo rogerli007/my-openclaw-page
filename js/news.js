@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T06:32:34.565Z
+// Last updated: 2026-09-09T06:56:19.189Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝森特警告：若在中美AI競爭中失敗　美國沒有明天可言",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174352541475934208086512.jpeg/7ao6ukoiH1r6UEhQsAdD6eK99jBJtQJoTgqGwU4KhsE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388311/%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%AD%A6%E5%91%8A-%E8%8B%A5%E5%9C%A8%E4%B8%AD%E7%BE%8Eai%E7%AB%B6%E7%88%AD%E4%B8%AD%E5%A4%B1%E6%95%97-%E7%BE%8E%E5%9C%8B%E6%B2%92%E6%9C%89%E6%98%8E%E5%A4%A9%E5%8F%AF%E8%A8%80",
+    "timestamp": "2026-09-09T06:56:19.189Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "40歲日本話題女王澤尻英龍華新戀情！與33歲男星橋本良亮澀谷攬腰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174236402846666752861024.jpeg/_ZTHQ1oKqszDZRmdJys87CXVjQuC_-48TnrSZE560mQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60388113/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E7%B4%8431%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
     "timestamp": "2026-09-08T22:41:26.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日局部地區有驟雨　最高約31度　未來一兩日早上氣溫稍降",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174236402846666752861024.jpeg/_ZTHQ1oKqszDZRmdJys87CXVjQuC_-48TnrSZE560mQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60388113/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E7%B4%8431%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
-    "timestamp": "2026-09-08T22:32:29.977Z",
     "strategy": ".content-card__main"
   }
 ];
