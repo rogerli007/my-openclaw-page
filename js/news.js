@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T10:20:56.993Z
+// Last updated: 2026-09-09T10:43:17.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《留家靈》激發二創港星名諧音變恐怖電影名　網民：廣東話萬歲！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174348689674604544428906.jpeg/6B7v4K4SRcQM05Hz-0nJ7nY-eqVPDL7Wtggya7YIMms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388288/%E7%95%99%E5%AE%B6%E9%9D%88-%E6%BF%80%E7%99%BC%E4%BA%8C%E5%89%B5%E6%B8%AF%E6%98%9F%E5%90%8D%E8%AB%A7%E9%9F%B3%E8%AE%8A%E6%81%90%E6%80%96%E9%9B%BB%E5%BD%B1%E5%90%8D-%E7%B6%B2%E6%B0%91-%E5%BB%A3%E6%9D%B1%E8%A9%B1%E8%90%AC%E6%AD%B2",
+    "timestamp": "2026-09-09T10:43:17.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玄戰丨Jim Sir龜殼實時算中爆冷賽馬　網民轟造假洪永城力證清白",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171869828160425984150493.jpeg/v8O3ABkZAmd0CwKF4LhmqsKafNdHdmoAX9LPyl_Sz8o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60382393/%E7%B6%93%E5%B8%B8%E6%8F%89%E6%90%93%E7%9C%BC%E7%9D%9B%E7%AB%9F%E8%87%B4%E7%B5%90%E8%86%9C%E7%82%8E-%E5%81%9C%E6%AD%A24%E8%A1%8C%E7%82%BA-%E9%97%9C%E7%87%88%E7%8E%A9%E6%89%8B%E6%A9%9F-%E7%A7%91%E5%AD%B8%E8%AD%B7%E7%9C%BC7%E6%B3%A8%E6%84%8F",
     "timestamp": "2026-09-09T02:02:37.801Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告2026前瞻︱摩通︰不排除港府進一步上調豪宅印花稅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116072546907983872624130.jpeg/FWNC5Sww1IVGaaUhgnhrLoch-MZad8ahSUq2jUlKto0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388157/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026%E5%89%8D%E7%9E%BB-%E6%91%A9%E9%80%9A-%E4%B8%8D%E6%8E%92%E9%99%A4%E6%B8%AF%E5%BA%9C%E9%80%B2%E4%B8%80%E6%AD%A5%E4%B8%8A%E8%AA%BF%E8%B1%AA%E5%AE%85%E5%8D%B0%E8%8A%B1%E7%A8%85",
-    "timestamp": "2026-09-09T01:41:57.136Z",
     "strategy": ".content-card__main"
   }
 ];
