@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T09:44:48.256Z
+// Last updated: 2026-09-09T10:20:56.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玄戰丨Jim Sir龜殼實時算中爆冷賽馬　網民轟造假洪永城力證清白",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174397034749235200817236.jpeg/wcswO5-9aPyycm9o3kOqHg8-dUdUS-uNzKRhYcykYWE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388392/%E7%8E%84%E6%88%B0-jim-sir%E9%BE%9C%E6%AE%BC%E5%AF%A6%E6%99%82%E7%AE%97%E4%B8%AD%E7%88%86%E5%86%B7%E8%B3%BD%E9%A6%AC-%E7%B6%B2%E6%B0%91%E8%BD%9F%E9%80%A0%E5%81%87%E6%B4%AA%E6%B0%B8%E5%9F%8E%E5%8A%9B%E8%AD%89%E6%B8%85%E7%99%BD",
+    "timestamp": "2026-09-09T10:20:56.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前建行亞洲客戶經理收賄47萬美元等值加密貨幣　區域法院認罪候判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260401/1116072546907983872624130.jpeg/FWNC5Sww1IVGaaUhgnhrLoch-MZad8ahSUq2jUlKto0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388157/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026%E5%89%8D%E7%9E%BB-%E6%91%A9%E9%80%9A-%E4%B8%8D%E6%8E%92%E9%99%A4%E6%B8%AF%E5%BA%9C%E9%80%B2%E4%B8%80%E6%AD%A5%E4%B8%8A%E8%AA%BF%E8%B1%AA%E5%AE%85%E5%8D%B0%E8%8A%B1%E7%A8%85",
     "timestamp": "2026-09-09T01:41:57.136Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬跨境巴士失控側翻　白衣男化身「人肉梯子」救人　獲網民激讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173622803493031936968512.png/nPirapBORAcjwkhbDTcMc9tDd68h9tfvvSeT2b0nk9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60386910/%E5%A4%A7%E9%A6%AC%E8%B7%A8%E5%A2%83%E5%B7%B4%E5%A3%AB%E5%A4%B1%E6%8E%A7%E5%81%B4%E7%BF%BB-%E7%99%BD%E8%A1%A3%E7%94%B7%E5%8C%96%E8%BA%AB-%E4%BA%BA%E8%82%89%E6%A2%AF%E5%AD%90-%E6%95%91%E4%BA%BA-%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A",
-    "timestamp": "2026-09-09T01:16:20.401Z",
     "strategy": ".content-card__main"
   }
 ];
