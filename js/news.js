@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T05:22:04.812Z
+// Last updated: 2026-09-09T05:53:43.308Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "結業潮｜花千樹出版社公布因營運調整　即日起停運　終結27年歷史",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174351022718455808165248.jpeg/KOzpY_USaZPVKWJP8BREigRwbKEsIQAOynsA8sp7API?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388314/%E7%B5%90%E6%A5%AD%E6%BD%AE-%E8%8A%B1%E5%8D%83%E6%A8%B9%E5%87%BA%E7%89%88%E7%A4%BE%E5%85%AC%E5%B8%83%E5%9B%A0%E7%87%9F%E9%81%8B%E8%AA%BF%E6%95%B4-%E5%8D%B3%E6%97%A5%E8%B5%B7%E5%81%9C%E9%81%8B-%E7%B5%82%E7%B5%9027%E5%B9%B4%E6%AD%B7%E5%8F%B2",
+    "timestamp": "2026-09-09T05:53:43.308Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "優地機器人首掛爆升　午後升幅擴大至1.6倍丨新股IP0",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174236402846666752861024.jpeg/_ZTHQ1oKqszDZRmdJys87CXVjQuC_-48TnrSZE560mQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60388113/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E7%B4%8431%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E4%B8%8A%E6%B0%A3%E6%BA%AB%E7%A8%8D%E9%99%8D",
     "timestamp": "2026-09-08T22:18:20.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜尖沙咀八旬翁持鎅刀自殘尋死　身體多處受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171766892013031424064182.jpeg/5JU9IYjUVTdBS9qB3078KiukrutpA6voDl21pw5dtac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388138/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%96%E6%B2%99%E5%92%80%E5%85%AB%E6%97%AC%E7%BF%81%E6%8C%81%E9%8E%85%E5%88%80%E8%87%AA%E6%AE%98%E5%B0%8B%E6%AD%BB-%E8%BA%AB%E9%AB%94%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-08T21:53:53.986Z",
     "strategy": ".content-card__main"
   }
 ];
