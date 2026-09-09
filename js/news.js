@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T04:23:33.881Z
+// Last updated: 2026-09-09T05:22:04.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "優地機器人首掛爆升　午後升幅擴大至1.6倍丨新股IP0",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133726748203028480126730.jpeg/9zkSIYTEiV-FSsgi3qpHUO3zDRdB_ZDyqs5uDqrObg4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388293/%E5%84%AA%E5%9C%B0%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%A6%96%E6%8E%9B%E7%88%86%E5%8D%87-%E5%8D%88%E5%BE%8C%E5%8D%87%E5%B9%85%E6%93%B4%E5%A4%A7%E8%87%B31-6%E5%80%8D-%E6%96%B0%E8%82%A1ip0",
+    "timestamp": "2026-09-09T05:22:04.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華逝世｜特首李家超發文致哀　政府網頁首頁部份轉為黑白",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171766892013031424064182.jpeg/5JU9IYjUVTdBS9qB3078KiukrutpA6voDl21pw5dtac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388138/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%96%E6%B2%99%E5%92%80%E5%85%AB%E6%97%AC%E7%BF%81%E6%8C%81%E9%8E%85%E5%88%80%E8%87%AA%E6%AE%98%E5%B0%8B%E6%AD%BB-%E8%BA%AB%E9%AB%94%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-08T21:53:53.986Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜皇馬2：1國際米蘭　曼城作客2：０波圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174219683902001152174283.jpeg/X1j1Rozp-ITDv-PtF0SYFSkHdDjlgeIPp5zCu6ecwrs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388136/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC2-1%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-%EF%BC%90%E6%B3%A2%E5%9C%96",
-    "timestamp": "2026-09-08T21:41:48.003Z",
     "strategy": ".content-card__main"
   }
 ];
