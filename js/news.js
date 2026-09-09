@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T21:54:13.641Z
+// Last updated: 2026-09-09T22:19:07.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "千禧女神44歲生日回顧十年逆襲路　上市公司負債以1美元賣盤重組",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174401740842209280178462.jpeg/RA4qaqFlJ5SwenuyQUpveEOXi39OpI3cnyRn1J8kZ9Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388291/%E5%8D%83%E7%A6%A7%E5%A5%B3%E7%A5%9E44%E6%AD%B2%E7%94%9F%E6%97%A5%E5%9B%9E%E9%A1%A7%E5%8D%81%E5%B9%B4%E9%80%86%E8%A5%B2%E8%B7%AF-%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%B2%A0%E5%82%B5%E4%BB%A51%E7%BE%8E%E5%85%83%E8%B3%A3%E7%9B%A4%E9%87%8D%E7%B5%84",
+    "timestamp": "2026-09-09T22:19:07.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AirPods 5登場｜1.5 倍更強主動消噪　支援Siri AI　實現即時翻譯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174417559454224384240857.jpeg/X_SboQNcPHd-IBrafmcc9uIEIUFSwpcIVjj7nVY4-50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388416/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E8%AA%95%E8%BE%B0%E8%88%8A%E5%B1%85%E5%AE%A2%E5%BB%B3%E6%9B%B8%E6%88%BF%E9%A6%96%E5%BA%A6%E9%87%8D%E7%8F%BE-%E5%B8%B6-%E5%93%A5-%E8%BF%B7%E7%A9%BF%E8%B6%8A%E5%93%A5%E5%93%A5%E7%94%9F%E6%B4%BB%E6%99%82%E5%85%89",
     "timestamp": "2026-09-09T15:20:12.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎智英及蘋果日報案　馮偉光及林文宗就判刑上訴　明年1.22聆訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108429726235496448024819.jpeg/DEWi0ic-0GRLdvVGZGg9xNethpcu5mA9dcqWbHXKlmw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388517/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%8F%8A%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E6%A1%88-%E9%A6%AE%E5%81%89%E5%85%89%E5%8F%8A%E6%9E%97%E6%96%87%E5%AE%97%E5%B0%B1%E5%88%A4%E5%88%91%E4%B8%8A%E8%A8%B4-%E6%98%8E%E5%B9%B41-22%E8%81%86%E8%A8%8A",
-    "timestamp": "2026-09-09T14:53:32.019Z",
     "strategy": ".content-card__main"
   }
 ];
