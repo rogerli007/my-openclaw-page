@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T03:56:38.490Z
+// Last updated: 2026-09-09T04:23:33.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世｜特首李家超發文致哀　政府網頁首頁部份轉為黑白",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174327245573984256078396.png/nI2XxW_fUiUdBNb_O60QdnTNQFazWIMmWwcoV1sHKFc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388155/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%99%BC%E6%96%87%E8%87%B4%E5%93%80-%E6%94%BF%E5%BA%9C%E7%B6%B2%E9%A0%81%E9%A6%96%E9%A0%81%E9%83%A8%E4%BB%BD%E8%BD%89%E7%82%BA%E9%BB%91%E7%99%BD",
+    "timestamp": "2026-09-09T04:23:33.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華逝世｜李浩然憶一事惹怒董建華　竟獲主動安慰讓步採納意見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174219683902001152174283.jpeg/X1j1Rozp-ITDv-PtF0SYFSkHdDjlgeIPp5zCu6ecwrs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388136/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC2-1%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-%EF%BC%90%E6%B3%A2%E5%9C%96",
     "timestamp": "2026-09-08T21:41:48.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜皇馬2：1國際米蘭　曼城作客2：０波圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174219683902001152174283.jpeg/X1j1Rozp-ITDv-PtF0SYFSkHdDjlgeIPp5zCu6ecwrs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388136/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC2-1%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-%EF%BC%90%E6%B3%A2%E5%9C%96",
-    "timestamp": "2026-09-08T21:27:59.034Z",
     "strategy": ".content-card__main"
   }
 ];
