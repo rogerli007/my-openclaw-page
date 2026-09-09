@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T19:27:40.443Z
+// Last updated: 2026-09-09T19:40:53.502Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：普京冀達成協議結束戰事　俄烏領袖互相憎恨窒礙和平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174560899235581952645237.jpeg/KJLOdb83iMxs37mReHoFhE-bJX_8d3zdx0c4GMdHOBg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388547/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC%E5%86%80%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B-%E4%BF%84%E7%83%8F%E9%A0%98%E8%A2%96%E4%BA%92%E7%9B%B8%E6%86%8E%E6%81%A8%E7%AA%92%E7%A4%99%E5%92%8C%E5%B9%B3",
+    "timestamp": "2026-09-09T19:40:53.502Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18 Pro登場｜首配可變光圈　A20 Pro效能、續航全面升級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174442443366469632692758.jpeg/eRMxiLcd_6mREYGGEoT3jpiLmQl-tVX1buDoX27g6F8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388475/%E4%BD%98%E8%A9%A9%E6%9B%BC%E8%88%87%E5%A7%9C%E6%BF%A4%E6%8B%8D%E5%BB%A3%E5%91%8A%E8%A6%81%E6%8E%92%E8%88%9E%E6%8B%8Dmv-%E5%B0%8D%E6%96%B9%E5%B8%B6-%E6%96%B0%E5%AF%B5-%E9%96%8B%E5%B7%A5-%E5%A5%BD%E5%BE%97%E6%84%8F",
     "timestamp": "2026-09-09T12:51:11.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世．拆局｜八年特首生涯壯志未酬　三大遺憾值得深思",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174423514069864448934128.jpeg/J_F7da4qkoCqr0gc6zK2oSeqAm-57hp08QZ45_EGeOc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388466/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%8B%86%E5%B1%80-%E5%85%AB%E5%B9%B4%E7%89%B9%E9%A6%96%E7%94%9F%E6%B6%AF%E5%A3%AF%E5%BF%97%E6%9C%AA%E9%85%AC-%E4%B8%89%E5%A4%A7%E9%81%BA%E6%86%BE%E5%80%BC%E5%BE%97%E6%B7%B1%E6%80%9D",
-    "timestamp": "2026-09-09T12:28:59.831Z",
     "strategy": ".content-card__main"
   }
 ];
