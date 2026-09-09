@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T18:53:43.357Z
+// Last updated: 2026-09-09T19:27:40.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro登場｜首配可變光圈　A20 Pro效能、續航全面升級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174554984214171648923406.jpeg/z2uN0bUXKggAHxvlglPvUzcnAPL6t98_JhjsbSYY7G0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388534/iphone-18-pro%E7%99%BB%E5%A0%B4-%E9%A6%96%E9%85%8D%E5%8F%AF%E8%AE%8A%E5%85%89%E5%9C%88-a20-pro%E6%95%88%E8%83%BD-%E7%BA%8C%E8%88%AA%E5%85%A8%E9%9D%A2%E5%8D%87%E7%B4%9A",
+    "timestamp": "2026-09-09T19:27:40.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18 Pro登場｜首配可變光圈　A20 Pro效能、續航全面升級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174423514069864448934128.jpeg/J_F7da4qkoCqr0gc6zK2oSeqAm-57hp08QZ45_EGeOc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388466/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%8B%86%E5%B1%80-%E5%85%AB%E5%B9%B4%E7%89%B9%E9%A6%96%E7%94%9F%E6%B6%AF%E5%A3%AF%E5%BF%97%E6%9C%AA%E9%85%AC-%E4%B8%89%E5%A4%A7%E9%81%BA%E6%86%BE%E5%80%BC%E5%BE%97%E6%B7%B1%E6%80%9D",
     "timestamp": "2026-09-09T12:28:59.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Netflix《醜聞》孫藝珍產後復出挑戰19禁極限！網民：玄彬知情嗎?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174415907754086400682379.png/aCyhquKHVPE7O4x47cy9B7usU7mEgmrgaYWLRWmFi0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388394/netflix-%E9%86%9C%E8%81%9E-%E5%AD%AB%E8%97%9D%E7%8F%8D%E7%94%A2%E5%BE%8C%E5%BE%A9%E5%87%BA%E6%8C%91%E6%88%B019%E7%A6%81%E6%A5%B5%E9%99%90-%E7%B6%B2%E6%B0%91-%E7%8E%84%E5%BD%AC%E7%9F%A5%E6%83%85%E5%97%8E",
-    "timestamp": "2026-09-09T11:56:09.725Z",
     "strategy": ".content-card__main"
   }
 ];
