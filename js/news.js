@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T09:22:49.238Z
+// Last updated: 2026-09-09T09:44:48.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前建行亞洲客戶經理收賄47萬美元等值加密貨幣　區域法院認罪候判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085926601574584320506423.jpeg/62mFzC3HMUG8sLnYxcP-HXIzjhSGFIS4g4SFlYOEhZU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388414/%E5%89%8D%E5%BB%BA%E8%A1%8C%E4%BA%9E%E6%B4%B2%E5%AE%A2%E6%88%B6%E7%B6%93%E7%90%86%E6%94%B6%E8%B3%8447%E8%90%AC%E7%BE%8E%E5%85%83%E7%AD%89%E5%80%BC%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-%E5%8D%80%E5%9F%9F%E6%B3%95%E9%99%A2%E8%AA%8D%E7%BD%AA%E5%80%99%E5%88%A4",
+    "timestamp": "2026-09-09T09:44:48.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT香港總決賽｜黃鎮廷杜凱琹獲混雙席位　連續兩年主場獻技",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173622803493031936968512.png/nPirapBORAcjwkhbDTcMc9tDd68h9tfvvSeT2b0nk9k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60386910/%E5%A4%A7%E9%A6%AC%E8%B7%A8%E5%A2%83%E5%B7%B4%E5%A3%AB%E5%A4%B1%E6%8E%A7%E5%81%B4%E7%BF%BB-%E7%99%BD%E8%A1%A3%E7%94%B7%E5%8C%96%E8%BA%AB-%E4%BA%BA%E8%82%89%E6%A2%AF%E5%AD%90-%E6%95%91%E4%BA%BA-%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A",
     "timestamp": "2026-09-09T01:16:20.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無視華盛頓警告：日本正上演金融版「珍珠港2.0」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174058323398365184160258.jpeg/ke1tdDt4IkI0v_sVrkAp1UaFQNBv8tF_8rpL2PK6S9g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60388054/%E7%84%A1%E8%A6%96%E8%8F%AF%E7%9B%9B%E9%A0%93%E8%AD%A6%E5%91%8A-%E6%97%A5%E6%9C%AC%E6%AD%A3%E4%B8%8A%E6%BC%94%E9%87%91%E8%9E%8D%E7%89%88-%E7%8F%8D%E7%8F%A0%E6%B8%AF2-0",
-    "timestamp": "2026-09-08T23:54:01.469Z",
     "strategy": ".content-card__main"
   }
 ];
