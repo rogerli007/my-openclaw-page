@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T14:20:40.173Z
+// Last updated: 2026-09-09T14:43:56.668Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊持續海上對峙　波斯灣和阿曼灣傳多艘商船遇襲癱瘓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174473009180708864609315.png/n0S7YJQB5JOmEj4AYvD94MJnWCIllNKr9YJWNvWCVjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388511/%E7%BE%8E%E4%BC%8A%E6%8C%81%E7%BA%8C%E6%B5%B7%E4%B8%8A%E5%B0%8D%E5%B3%99-%E6%B3%A2%E6%96%AF%E7%81%A3%E5%92%8C%E9%98%BF%E6%9B%BC%E7%81%A3%E5%82%B3%E5%A4%9A%E8%89%98%E5%95%86%E8%88%B9%E9%81%87%E8%A5%B2%E7%99%B1%E7%98%93",
+    "timestamp": "2026-09-09T14:43:56.668Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5大視帝視后大馬開新戲　陳展鵬鄭則士夏雨張振朗袁偉豪陣容強大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174381504990547968650127.png/3I_cADY5diB2lgZJxUfIpVFKLAY3zY1Brhvn2K4b59g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60388340/%E6%B7%B1%E5%9C%B3%E5%A2%93%E5%9C%92%E7%AE%A1%E7%90%86%E5%93%A1%E6%9C%88%E8%96%AA-1-5%E8%90%AC-%E5%86%B7%E9%96%80%E8%81%B7%E6%A5%AD%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%90%B6%E7%88%86%E5%B1%95%E7%8F%BE%E6%96%B0%E5%83%B9%E5%80%BC%E8%A7%80",
     "timestamp": "2026-09-09T07:44:32.713Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝森特警告：若在中美AI競爭中失敗　美國沒有明天可言",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174352541475934208086512.jpeg/7ao6ukoiH1r6UEhQsAdD6eK99jBJtQJoTgqGwU4KhsE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388311/%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%AD%A6%E5%91%8A-%E8%8B%A5%E5%9C%A8%E4%B8%AD%E7%BE%8Eai%E7%AB%B6%E7%88%AD%E4%B8%AD%E5%A4%B1%E6%95%97-%E7%BE%8E%E5%9C%8B%E6%B2%92%E6%9C%89%E6%98%8E%E5%A4%A9%E5%8F%AF%E8%A8%80",
-    "timestamp": "2026-09-09T06:56:19.189Z",
     "strategy": ".content-card__main"
   }
 ];
