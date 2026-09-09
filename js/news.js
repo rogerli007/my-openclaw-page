@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T15:46:39.857Z
+// Last updated: 2026-09-09T15:55:30.795Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜「大慈善家」被揭呃足過千萬　聲稱幫內地生來港讀大學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174473174381760512876251.jpeg/yehpC8DCBoOe4MjCFjgAcWeQbL7qtJW-HfgzLR34My0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388505/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A4%A7%E6%85%88%E5%96%84%E5%AE%B6-%E8%A2%AB%E6%8F%AD%E5%91%83%E8%B6%B3%E9%81%8E%E5%8D%83%E8%90%AC-%E8%81%B2%E7%A8%B1%E5%B9%AB%E5%85%A7%E5%9C%B0%E7%94%9F%E4%BE%86%E6%B8%AF%E8%AE%80%E5%A4%A7%E5%AD%B8",
+    "timestamp": "2026-09-09T15:55:30.795Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關機場偵破3宗跨境販毒案　檢獲逾$1500萬毒品　5男女旅客被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085926601574584320506423.jpeg/62mFzC3HMUG8sLnYxcP-HXIzjhSGFIS4g4SFlYOEhZU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388414/%E5%89%8D%E5%BB%BA%E8%A1%8C%E4%BA%9E%E6%B4%B2%E5%AE%A2%E6%88%B6%E7%B6%93%E7%90%86%E6%94%B6%E8%B3%8447%E8%90%AC%E7%BE%8E%E5%85%83%E7%AD%89%E5%80%BC%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-%E5%8D%80%E5%9F%9F%E6%B3%95%E9%99%A2%E8%AA%8D%E7%BD%AA%E5%80%99%E5%88%A4",
     "timestamp": "2026-09-09T09:44:48.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT香港總決賽｜黃鎮廷杜凱琹獲混雙席位　連續兩年主場獻技",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174323193054236672298740.jpeg/f_dSNNB1ZvV_rYrRA4LnAJG8Tyy4g55Q5UMQq-VDEKs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388245/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E9%BB%83%E9%8E%AE%E5%BB%B7%E6%9D%9C%E5%87%B1%E7%90%B9%E7%8D%B2%E6%B7%B7%E9%9B%99%E5%B8%AD%E4%BD%8D-%E9%80%A3%E7%BA%8C%E5%85%A9%E5%B9%B4%E4%B8%BB%E5%A0%B4%E7%8D%BB%E6%8A%80",
-    "timestamp": "2026-09-09T09:22:49.238Z",
     "strategy": ".content-card__main"
   }
 ];
