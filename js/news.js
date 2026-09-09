@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-08T23:54:01.469Z
+// Last updated: 2026-09-09T01:16:20.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大馬跨境巴士失控側翻　白衣男化身「人肉梯子」救人　獲網民激讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173622803493031936968512.png/nPirapBORAcjwkhbDTcMc9tDd68h9tfvvSeT2b0nk9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60386910/%E5%A4%A7%E9%A6%AC%E8%B7%A8%E5%A2%83%E5%B7%B4%E5%A3%AB%E5%A4%B1%E6%8E%A7%E5%81%B4%E7%BF%BB-%E7%99%BD%E8%A1%A3%E7%94%B7%E5%8C%96%E8%BA%AB-%E4%BA%BA%E8%82%89%E6%A2%AF%E5%AD%90-%E6%95%91%E4%BA%BA-%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A",
+    "timestamp": "2026-09-09T01:16:20.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無視華盛頓警告：日本正上演金融版「珍珠港2.0」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220414/591210310421975040829416.jpeg/8D82wDKKZpexMUaTqVZVeyhoZI55s85ujY1Q1o2NUNY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388125/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%A2%81%E6%8C%AF%E8%8B%B1%E8%AE%9A%E9%AB%98%E7%9E%BB%E9%81%A0%E7%9F%9A%E8%AC%80%E5%8A%83%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95-%E8%A7%A3%E6%B1%BA%E6%B7%B1%E5%B1%A4%E6%AC%A1%E6%B0%91%E7%94%9F%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-09-08T17:56:18.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世︱梁振英讚高瞻遠矚謀劃長遠發展　解決深層次民生問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220414/591210310421975040829416.jpeg/8D82wDKKZpexMUaTqVZVeyhoZI55s85ujY1Q1o2NUNY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388125/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%A2%81%E6%8C%AF%E8%8B%B1%E8%AE%9A%E9%AB%98%E7%9E%BB%E9%81%A0%E7%9F%9A%E8%AC%80%E5%8A%83%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95-%E8%A7%A3%E6%B1%BA%E6%B7%B1%E5%B1%A4%E6%AC%A1%E6%B0%91%E7%94%9F%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-09-08T17:42:50.657Z",
     "strategy": ".content-card__main"
   }
 ];
