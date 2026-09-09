@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T14:43:56.668Z
+// Last updated: 2026-09-09T14:53:32.019Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎智英及蘋果日報案　馮偉光及林文宗就判刑上訴　明年1.22聆訊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108429726235496448024819.jpeg/DEWi0ic-0GRLdvVGZGg9xNethpcu5mA9dcqWbHXKlmw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388517/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%8F%8A%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E6%A1%88-%E9%A6%AE%E5%81%89%E5%85%89%E5%8F%8A%E6%9E%97%E6%96%87%E5%AE%97%E5%B0%B1%E5%88%A4%E5%88%91%E4%B8%8A%E8%A8%B4-%E6%98%8E%E5%B9%B41-22%E8%81%86%E8%A8%8A",
+    "timestamp": "2026-09-09T14:53:32.019Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊持續海上對峙　波斯灣和阿曼灣傳多艘商船遇襲癱瘓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174381504990547968650127.png/3I_cADY5diB2lgZJxUfIpVFKLAY3zY1Brhvn2K4b59g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60388340/%E6%B7%B1%E5%9C%B3%E5%A2%93%E5%9C%92%E7%AE%A1%E7%90%86%E5%93%A1%E6%9C%88%E8%96%AA-1-5%E8%90%AC-%E5%86%B7%E9%96%80%E8%81%B7%E6%A5%AD%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%90%B6%E7%88%86%E5%B1%95%E7%8F%BE%E6%96%B0%E5%83%B9%E5%80%BC%E8%A7%80",
     "timestamp": "2026-09-09T07:53:55.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳墓園管理員月薪¥1.5萬　冷門職業年輕人搶爆展現新價值觀？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174381504990547968650127.png/3I_cADY5diB2lgZJxUfIpVFKLAY3zY1Brhvn2K4b59g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60388340/%E6%B7%B1%E5%9C%B3%E5%A2%93%E5%9C%92%E7%AE%A1%E7%90%86%E5%93%A1%E6%9C%88%E8%96%AA-1-5%E8%90%AC-%E5%86%B7%E9%96%80%E8%81%B7%E6%A5%AD%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%90%B6%E7%88%86%E5%B1%95%E7%8F%BE%E6%96%B0%E5%83%B9%E5%80%BC%E8%A7%80",
-    "timestamp": "2026-09-09T07:44:32.713Z",
     "strategy": ".content-card__main"
   }
 ];
