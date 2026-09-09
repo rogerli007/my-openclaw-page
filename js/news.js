@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T20:53:47.138Z
+// Last updated: 2026-09-09T21:44:33.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Apple發布會推摺機　IShowSpeed直播遇五月天阿信齊讚iPhone Duo",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174590156452139008261407.png/c6n2PJ1S9Ff_zL4iDgV_k76xTM2DCKR9GWwxhhlsMYY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388553/apple%E7%99%BC%E5%B8%83%E6%9C%83%E6%8E%A8%E6%91%BA%E6%A9%9F-ishowspeed%E7%9B%B4%E6%92%AD%E9%81%87%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E9%BD%8A%E8%AE%9Aiphone-duo",
+    "timestamp": "2026-09-09T21:44:33.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo登場｜Apple首部摺機價格有驚喜　7.6吋螢幕無摺痕？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174473009180708864609315.png/n0S7YJQB5JOmEj4AYvD94MJnWCIllNKr9YJWNvWCVjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388511/%E7%BE%8E%E4%BC%8A%E6%8C%81%E7%BA%8C%E6%B5%B7%E4%B8%8A%E5%B0%8D%E5%B3%99-%E6%B3%A2%E6%96%AF%E7%81%A3%E5%92%8C%E9%98%BF%E6%9B%BC%E7%81%A3%E5%82%B3%E5%A4%9A%E8%89%98%E5%95%86%E8%88%B9%E9%81%87%E8%A5%B2%E7%99%B1%E7%98%93",
     "timestamp": "2026-09-09T14:43:56.668Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "5大視帝視后大馬開新戲　陳展鵬鄭則士夏雨張振朗袁偉豪陣容強大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174379650328039424962083.jpeg/njdYsOinasGCz4Um0DvSsNeQPNgW5XjdacoK_WnKCv0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388345/5%E5%A4%A7%E8%A6%96%E5%B8%9D%E8%A6%96%E5%90%8E%E5%A4%A7%E9%A6%AC%E9%96%8B%E6%96%B0%E6%88%B2-%E9%99%B3%E5%B1%95%E9%B5%AC%E9%84%AD%E5%89%87%E5%A3%AB%E5%A4%8F%E9%9B%A8%E5%BC%B5%E6%8C%AF%E6%9C%97%E8%A2%81%E5%81%89%E8%B1%AA%E9%99%A3%E5%AE%B9%E5%BC%B7%E5%A4%A7",
-    "timestamp": "2026-09-09T14:20:40.173Z",
     "strategy": ".content-card__main"
   }
 ];
