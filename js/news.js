@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T17:41:43.607Z
+// Last updated: 2026-09-09T17:53:53.524Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一帶一路｜投資推廣署與津巴布韋交換備忘錄　合作促進雙向投資",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174533952287805440298135.jpeg/LSlvW1QDxQGI35QBWP6ckaK_32rZM-C2xWQqzcVkKs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388535/%E4%B8%80%E5%B8%B6%E4%B8%80%E8%B7%AF-%E6%8A%95%E8%B3%87%E6%8E%A8%E5%BB%A3%E7%BD%B2%E8%88%87%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%8B%E4%BA%A4%E6%8F%9B%E5%82%99%E5%BF%98%E9%8C%84-%E5%90%88%E4%BD%9C%E4%BF%83%E9%80%B2%E9%9B%99%E5%90%91%E6%8A%95%E8%B3%87",
+    "timestamp": "2026-09-09T17:53:53.524Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廉署與摩洛哥、泰國交換備忘錄　加強反貪合作共建廉潔絲路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174434406643929088127064.jpeg/KGlOacXSRwmOLJ4rgZzdjvR2y2c55GpE0-YWVNPmFlQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388479/stanley-mirror%E9%81%8E%E5%A4%A7%E7%A6%AE%E5%8B%81%E6%9B%AC%E6%BB%BF%E6%9E%B1%E9%87%91%E5%99%A8-6%E5%B0%8D%E9%BE%8D%E9%B3%B3%E9%88%AA%E5%85%A9%E5%B0%8D%E9%87%8D%E9%87%8F%E7%B4%9A%E6%B5%81%E6%98%9F%E9%8C%98",
     "timestamp": "2026-09-09T11:43:21.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "研究指飲酒致癌死亡人數30年翻一倍！男子頻飲酒致肝癌現8cm腫瘤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173620712737345536312874.jpeg/GIT0gz2GYJxiGnE6ri8GjaShKKgoCs1GFmTvgxZk74M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386806/%E7%A0%94%E7%A9%B6%E6%8C%87%E9%A3%B2%E9%85%92%E8%87%B4%E7%99%8C%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B830%E5%B9%B4%E7%BF%BB%E4%B8%80%E5%80%8D-%E7%94%B7%E5%AD%90%E9%A0%BB%E9%A3%B2%E9%85%92%E8%87%B4%E8%82%9D%E7%99%8C%E7%8F%BE8cm%E8%85%AB%E7%98%A4",
-    "timestamp": "2026-09-09T11:31:31.306Z",
     "strategy": ".content-card__main"
   }
 ];
