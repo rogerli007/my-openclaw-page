@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T03:24:00.426Z
+// Last updated: 2026-09-09T03:46:17.451Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世︱李家超哀悼憶帶領香港抵禦金融風暴　巨大貢獻永存心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174319846599430144572904.jpeg/GdqoC-SJYc6S6IOLpYOMOYpvsExo_RJm8cpV0PHKVdA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388239/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%93%80%E6%82%BC%E6%86%B6%E5%B8%B6%E9%A0%98%E9%A6%99%E6%B8%AF%E6%8A%B5%E7%A6%A6%E9%87%91%E8%9E%8D%E9%A2%A8%E6%9A%B4-%E5%B7%A8%E5%A4%A7%E8%B2%A2%E7%8D%BB%E6%B0%B8%E5%AD%98%E5%BF%83",
+    "timestamp": "2026-09-09T03:46:17.451Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日的士巨頭老闆爆職場霸凌！因員工「英語不好」暴怒掟鐵櫈遭炎上",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174219683902001152174283.jpeg/X1j1Rozp-ITDv-PtF0SYFSkHdDjlgeIPp5zCu6ecwrs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388136/%E6%AD%90%E8%81%AF-%E7%9A%87%E9%A6%AC2-1%E5%9C%8B%E9%9A%9B%E7%B1%B3%E8%98%AD-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A22-%EF%BC%90%E6%B3%A2%E5%9C%96",
     "timestamp": "2026-09-08T21:17:46.474Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華離世｜童年來港不懂廣東話　17歲負笈英國只會3句英文",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3110119/org/35c948967cb76a15b9f2e636fb08b055.jpg/rXp35B8Mk0lEcvQpUFySxPGpS68Wf1duMYtWeRuLVnk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388135/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%9B%A2%E4%B8%96-%E7%AB%A5%E5%B9%B4%E4%BE%86%E6%B8%AF%E4%B8%8D%E6%87%82%E5%BB%A3%E6%9D%B1%E8%A9%B1-17%E6%AD%B2%E8%B2%A0%E7%AC%88%E8%8B%B1%E5%9C%8B%E5%8F%AA%E6%9C%833%E5%8F%A5%E8%8B%B1%E6%96%87",
-    "timestamp": "2026-09-08T20:44:12.865Z",
     "strategy": ".content-card__main"
   }
 ];
