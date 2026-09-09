@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T08:55:41.415Z
+// Last updated: 2026-09-09T09:22:49.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT香港總決賽｜黃鎮廷杜凱琹獲混雙席位　連續兩年主場獻技",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174323193054236672298740.jpeg/f_dSNNB1ZvV_rYrRA4LnAJG8Tyy4g55Q5UMQq-VDEKs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388245/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E9%BB%83%E9%8E%AE%E5%BB%B7%E6%9D%9C%E5%87%B1%E7%90%B9%E7%8D%B2%E6%B7%B7%E9%9B%99%E5%B8%AD%E4%BD%8D-%E9%80%A3%E7%BA%8C%E5%85%A9%E5%B9%B4%E4%B8%BB%E5%A0%B4%E7%8D%BB%E6%8A%80",
+    "timestamp": "2026-09-09T09:22:49.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵審視二蚊特惠站去留　市民冀盡社會責任補貼：慳到兩餐飯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174058323398365184160258.jpeg/ke1tdDt4IkI0v_sVrkAp1UaFQNBv8tF_8rpL2PK6S9g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60388054/%E7%84%A1%E8%A6%96%E8%8F%AF%E7%9B%9B%E9%A0%93%E8%AD%A6%E5%91%8A-%E6%97%A5%E6%9C%AC%E6%AD%A3%E4%B8%8A%E6%BC%94%E9%87%91%E8%9E%8D%E7%89%88-%E7%8F%8D%E7%8F%A0%E6%B8%AF2-0",
     "timestamp": "2026-09-08T23:54:01.469Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無視華盛頓警告：日本正上演金融版「珍珠港2.0」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174058323398365184160258.jpeg/ke1tdDt4IkI0v_sVrkAp1UaFQNBv8tF_8rpL2PK6S9g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60388054/%E7%84%A1%E8%A6%96%E8%8F%AF%E7%9B%9B%E9%A0%93%E8%AD%A6%E5%91%8A-%E6%97%A5%E6%9C%AC%E6%AD%A3%E4%B8%8A%E6%BC%94%E9%87%91%E8%9E%8D%E7%89%88-%E7%8F%8D%E7%8F%A0%E6%B8%AF2-0",
-    "timestamp": "2026-09-08T23:42:09.388Z",
     "strategy": ".content-card__main"
   }
 ];
