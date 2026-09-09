@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T11:43:21.169Z
+// Last updated: 2026-09-09T11:56:09.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Netflix《醜聞》孫藝珍產後復出挑戰19禁極限！網民：玄彬知情嗎?",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174415907754086400682379.png/aCyhquKHVPE7O4x47cy9B7usU7mEgmrgaYWLRWmFi0U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388394/netflix-%E9%86%9C%E8%81%9E-%E5%AD%AB%E8%97%9D%E7%8F%8D%E7%94%A2%E5%BE%8C%E5%BE%A9%E5%87%BA%E6%8C%91%E6%88%B019%E7%A6%81%E6%A5%B5%E9%99%90-%E7%B6%B2%E6%B0%91-%E7%8E%84%E5%BD%AC%E7%9F%A5%E6%83%85%E5%97%8E",
+    "timestamp": "2026-09-09T11:56:09.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Stanley@MIRROR過大禮勁曬滿枱金器　6對龍鳳鈪兩對重量級流星錘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174319846599430144572904.jpeg/GdqoC-SJYc6S6IOLpYOMOYpvsExo_RJm8cpV0PHKVdA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388239/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%93%80%E6%82%BC%E6%86%B6%E5%B8%B6%E9%A0%98%E9%A6%99%E6%B8%AF%E6%8A%B5%E7%A6%A6%E9%87%91%E8%9E%8D%E9%A2%A8%E6%9A%B4-%E5%B7%A8%E5%A4%A7%E8%B2%A2%E7%8D%BB%E6%B0%B8%E5%AD%98%E5%BF%83",
     "timestamp": "2026-09-09T03:46:17.451Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日的士巨頭老闆爆職場霸凌！因員工「英語不好」暴怒掟鐵櫈遭炎上",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174309994451963904350281.jpeg/rqq9zge3iolGZUPyvzmOoyhqfy2KLBA8RGnGJERpxiQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388163/%E6%97%A5%E7%9A%84%E5%A3%AB%E5%B7%A8%E9%A0%AD%E8%80%81%E9%97%86%E7%88%86%E8%81%B7%E5%A0%B4%E9%9C%B8%E5%87%8C-%E5%9B%A0%E5%93%A1%E5%B7%A5-%E8%8B%B1%E8%AA%9E%E4%B8%8D%E5%A5%BD-%E6%9A%B4%E6%80%92%E6%8E%9F%E9%90%B5%E6%AB%88%E9%81%AD%E7%82%8E%E4%B8%8A",
-    "timestamp": "2026-09-09T03:24:00.426Z",
     "strategy": ".content-card__main"
   }
 ];
