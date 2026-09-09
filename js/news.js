@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T13:20:20.215Z
+// Last updated: 2026-09-09T13:43:33.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《神探打邊爐》改編成為AI文字遊戲？DELF 2026探討人工智能|何故",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174393049824890880024781.jpeg/yD6Vcn9CK7k9jnrpvSfsBujWKlC2aLR2WsVMSlrFTEo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60388026/%E7%A5%9E%E6%8E%A2%E6%89%93%E9%82%8A%E7%88%90-%E6%94%B9%E7%B7%A8%E6%88%90%E7%82%BAai%E6%96%87%E5%AD%97%E9%81%8A%E6%88%B2-delf-2026%E6%8E%A2%E8%A8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E4%BD%95%E6%95%85",
+    "timestamp": "2026-09-09T13:43:33.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華逝世｜兩大商會指任內落實CEPA　助香港產品及服務業入內地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174351022718455808165248.jpeg/KOzpY_USaZPVKWJP8BREigRwbKEsIQAOynsA8sp7API?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388314/%E7%B5%90%E6%A5%AD%E6%BD%AE-%E8%8A%B1%E5%8D%83%E6%A8%B9%E5%87%BA%E7%89%88%E7%A4%BE%E5%85%AC%E5%B8%83%E5%9B%A0%E7%87%9F%E9%81%8B%E8%AA%BF%E6%95%B4-%E5%8D%B3%E6%97%A5%E8%B5%B7%E5%81%9C%E9%81%8B-%E7%B5%82%E7%B5%9027%E5%B9%B4%E6%AD%B7%E5%8F%B2",
     "timestamp": "2026-09-09T05:53:43.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "優地機器人首掛爆升　午後升幅擴大至1.6倍丨新股IP0",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133726748203028480126730.jpeg/9zkSIYTEiV-FSsgi3qpHUO3zDRdB_ZDyqs5uDqrObg4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388293/%E5%84%AA%E5%9C%B0%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%A6%96%E6%8E%9B%E7%88%86%E5%8D%87-%E5%8D%88%E5%BE%8C%E5%8D%87%E5%B9%85%E6%93%B4%E5%A4%A7%E8%87%B31-6%E5%80%8D-%E6%96%B0%E8%82%A1ip0",
-    "timestamp": "2026-09-09T05:22:04.812Z",
     "strategy": ".content-card__main"
   }
 ];
