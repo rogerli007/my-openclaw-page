@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T07:53:55.714Z
+// Last updated: 2026-09-09T08:26:29.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兒童食物安全｜內地爆紅零食「可食用課本」藏隱患官方促全面禁售",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174387448222846976730246.jpeg/EqkuNJSq1J1oB8DfdJ_IS__Uze9EKgYn1-Bqydfgask?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60388376/%E5%85%92%E7%AB%A5%E9%A3%9F%E7%89%A9%E5%AE%89%E5%85%A8-%E5%85%A7%E5%9C%B0%E7%88%86%E7%B4%85%E9%9B%B6%E9%A3%9F-%E5%8F%AF%E9%A3%9F%E7%94%A8%E8%AA%B2%E6%9C%AC-%E8%97%8F%E9%9A%B1%E6%82%A3%E5%AE%98%E6%96%B9%E4%BF%83%E5%85%A8%E9%9D%A2%E7%A6%81%E5%94%AE",
+    "timestamp": "2026-09-09T08:26:29.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳墓園管理員月薪¥1.5萬　冷門職業年輕人搶爆展現新價值觀？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230704/752829228411785216276304.jpeg/cvR_qdSYyy5kjs46AMu7JjEMqqjwdd3uP4jIrj-IyK4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388141/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%BD%A9%E5%BE%B7%E9%82%A835%E6%AD%B2%E7%94%B7%E8%97%8F%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E5%8F%8A%E9%9B%BB%E5%AD%90%E7%85%99-%E6%B6%89%E8%97%8F%E6%AF%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-08T23:30:29.030Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美華裔司機微信接單變運200磅大麻！喊冤枉仍判罪成　綠卡恐不保",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173997781610663936146523.png/2zMTkff9taVy-BOVB-YBLc-f-_53D5CZEfHoSRHx6Ek",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60378539/%E7%BE%8E%E8%8F%AF%E8%A3%94%E5%8F%B8%E6%A9%9F%E5%BE%AE%E4%BF%A1%E6%8E%A5%E5%96%AE%E8%AE%8A%E9%81%8B200%E7%A3%85%E5%A4%A7%E9%BA%BB-%E5%96%8A%E5%86%A4%E6%9E%89%E4%BB%8D%E5%88%A4%E7%BD%AA%E6%88%90-%E7%B6%A0%E5%8D%A1%E6%81%90%E4%B8%8D%E4%BF%9D",
-    "timestamp": "2026-09-08T23:18:00.458Z",
     "strategy": ".content-card__main"
   }
 ];
