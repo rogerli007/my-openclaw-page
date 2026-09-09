@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T12:28:59.831Z
+// Last updated: 2026-09-09T12:51:11.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佘詩曼與姜濤拍廣告要排舞拍MV　對方帶「新寵」開工︰好得意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174442443366469632692758.jpeg/eRMxiLcd_6mREYGGEoT3jpiLmQl-tVX1buDoX27g6F8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388475/%E4%BD%98%E8%A9%A9%E6%9B%BC%E8%88%87%E5%A7%9C%E6%BF%A4%E6%8B%8D%E5%BB%A3%E5%91%8A%E8%A6%81%E6%8E%92%E8%88%9E%E6%8B%8Dmv-%E5%B0%8D%E6%96%B9%E5%B8%B6-%E6%96%B0%E5%AF%B5-%E9%96%8B%E5%B7%A5-%E5%A5%BD%E5%BE%97%E6%84%8F",
+    "timestamp": "2026-09-09T12:51:11.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華逝世．拆局｜八年特首生涯壯志未酬　三大遺憾值得深思",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174327245573984256078396.png/nI2XxW_fUiUdBNb_O60QdnTNQFazWIMmWwcoV1sHKFc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388155/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%99%BC%E6%96%87%E8%87%B4%E5%93%80-%E6%94%BF%E5%BA%9C%E7%B6%B2%E9%A0%81%E9%A6%96%E9%A0%81%E9%83%A8%E4%BB%BD%E8%BD%89%E7%82%BA%E9%BB%91%E7%99%BD",
     "timestamp": "2026-09-09T04:23:33.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世｜李浩然憶一事惹怒董建華　竟獲主動安慰讓步採納意見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174322999273197568691042.jpeg/gR1Fy4yFqz4PJgt55igi4iPzXTELzKCITzaANk82gDY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388179/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%9D%8E%E6%B5%A9%E7%84%B6%E6%86%B6%E4%B8%80%E4%BA%8B%E6%83%B9%E6%80%92%E8%91%A3%E5%BB%BA%E8%8F%AF-%E7%AB%9F%E7%8D%B2%E4%B8%BB%E5%8B%95%E5%AE%89%E6%85%B0%E8%AE%93%E6%AD%A5%E6%8E%A1%E7%B4%8D%E6%84%8F%E8%A6%8B",
-    "timestamp": "2026-09-09T03:56:38.490Z",
     "strategy": ".content-card__main"
   }
 ];
