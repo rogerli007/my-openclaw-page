@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T02:33:17.894Z
+// Last updated: 2026-09-09T02:49:50.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前立法會議員黃錦輝涉醉酒駕駛　准保釋至11.11再提訊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174305528998793216067845.jpeg/CYVO6plsBine-63hSY9r5WDh7POg7VUW4e4dzOHuHcw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388189/%E5%89%8D%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E9%BB%83%E9%8C%A6%E8%BC%9D%E6%B6%89%E9%86%89%E9%85%92%E9%A7%95%E9%A7%9B-%E5%87%86%E4%BF%9D%E9%87%8B%E8%87%B311-11%E5%86%8D%E6%8F%90%E8%A8%8A",
+    "timestamp": "2026-09-09T02:49:50.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華逝世｜同鄉林鄭月娥憶慈祥長者：開展「一國兩制」利在千秋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/249940/org/54b5d2fa4535e2e4b748da54c10eb523.jpg/jbtroryiB7LPcv65QgXPeXxL_fDAKBzggbDsQoGw7EI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388134/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%9B%A2%E4%B8%96-%E5%BE%9E%E8%88%B9%E7%8E%8B%E4%B9%8B%E5%AD%90%E5%88%B0%E6%8A%95%E8%BA%AB%E4%BB%95%E9%80%94-%E5%AE%98%E6%96%B9%E5%87%BA%E7%94%9F%E6%97%A5%E6%9C%9F%E4%B9%9F%E6%9C%89%E6%95%85%E4%BA%8B",
     "timestamp": "2026-09-08T20:19:45.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜阿士東維拉作客3：2勝布魯日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174188021512146944309815.jpeg/aPzj6n8eWGeF-rDbX-svHXfrzZbFnkCtYpAaZmKQGmY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388131/%E6%AD%90%E8%81%AF-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E4%BD%9C%E5%AE%A23-2%E5%8B%9D%E5%B8%83%E9%AD%AF%E6%97%A5",
-    "timestamp": "2026-09-08T19:17:50.305Z",
     "strategy": ".content-card__main"
   }
 ];
