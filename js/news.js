@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T23:29:50.917Z
+// Last updated: 2026-09-09T23:41:25.635Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大腸癌年輕化｜32歲男無家族史患三期　醫揭3大傷腸習慣＋4大徵兆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171810505770143744542139.jpeg/mxg7YbBwjCnvvfTO3uSAdM6xRsnEX_4ZggVw5IIFcOQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60384507/%E5%A4%A7%E8%85%B8%E7%99%8C%E5%B9%B4%E8%BC%95%E5%8C%96-32%E6%AD%B2%E7%94%B7%E7%84%A1%E5%AE%B6%E6%97%8F%E5%8F%B2%E6%82%A3%E4%B8%89%E6%9C%9F-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%82%B7%E8%85%B8%E7%BF%92%E6%85%A3-4%E5%A4%A7%E5%BE%B5%E5%85%86",
+    "timestamp": "2026-09-09T23:41:25.635Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo面世｜iPhone 17 Air 17e 16舊機全線加價最高加$2,800",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174470665697234944568731.jpeg/0wr5hoSbZVnL1tS5CEnyi9xsBRRAD72rgS8AEYEvABE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388504/%E9%BB%83%E6%99%BA%E9%9B%AF%E5%87%BA%E5%B8%AD-%E9%BB%83%E9%87%91%E5%9B%8D%E4%BA%8B-%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E7%99%BC%E5%B8%83%E6%9C%83-%E5%86%8D%E7%BA%8C%E5%89%8D%E7%B7%A3%E5%A4%A5%E8%A2%81%E5%81%89%E8%B1%AA%E6%BC%94%E5%A4%AB%E5%A6%BB",
     "timestamp": "2026-09-09T16:22:18.809Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜「大慈善家」被揭呃足過千萬　聲稱幫內地生來港讀大學",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174473174381760512876251.jpeg/yehpC8DCBoOe4MjCFjgAcWeQbL7qtJW-HfgzLR34My0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388505/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A4%A7%E6%85%88%E5%96%84%E5%AE%B6-%E8%A2%AB%E6%8F%AD%E5%91%83%E8%B6%B3%E9%81%8E%E5%8D%83%E8%90%AC-%E8%81%B2%E7%A8%B1%E5%B9%AB%E5%85%A7%E5%9C%B0%E7%94%9F%E4%BE%86%E6%B8%AF%E8%AE%80%E5%A4%A7%E5%AD%B8",
-    "timestamp": "2026-09-09T15:55:30.795Z",
     "strategy": ".content-card__main"
   }
 ];
