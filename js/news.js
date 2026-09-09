@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T19:53:11.335Z
+// Last updated: 2026-09-09T20:20:31.539Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Apple Watch Series 12／Ultra 4登場｜S11晶片全面強化健康偵測",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174564327449956352436507.jpeg/8amr0JWABBO8UCNp3IGL3uCynrTL9mo_sLQf97C0H_c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388546/apple-watch-series-12-ultra-4%E7%99%BB%E5%A0%B4-s11%E6%99%B6%E7%89%87%E5%85%A8%E9%9D%A2%E5%BC%B7%E5%8C%96%E5%81%A5%E5%BA%B7%E5%81%B5%E6%B8%AC",
+    "timestamp": "2026-09-09T20:20:31.539Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：普京冀達成協議結束戰事　俄烏領袖互相憎恨窒礙和平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174393049824890880024781.jpeg/yD6Vcn9CK7k9jnrpvSfsBujWKlC2aLR2WsVMSlrFTEo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60388026/%E7%A5%9E%E6%8E%A2%E6%89%93%E9%82%8A%E7%88%90-%E6%94%B9%E7%B7%A8%E6%88%90%E7%82%BAai%E6%96%87%E5%AD%97%E9%81%8A%E6%88%B2-delf-2026%E6%8E%A2%E8%A8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E4%BD%95%E6%95%85",
     "timestamp": "2026-09-09T13:43:33.234Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世｜兩大商會指任內落實CEPA　助香港產品及服務業入內地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174319846599430144572904.jpeg/GdqoC-SJYc6S6IOLpYOMOYpvsExo_RJm8cpV0PHKVdA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388492/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%85%A9%E5%A4%A7%E5%95%86%E6%9C%83%E6%8C%87%E4%BB%BB%E5%85%A7%E8%90%BD%E5%AF%A6cepa-%E5%8A%A9%E9%A6%99%E6%B8%AF%E7%94%A2%E5%93%81%E5%8F%8A%E6%9C%8D%E5%8B%99%E6%A5%AD%E5%85%A5%E5%85%A7%E5%9C%B0",
-    "timestamp": "2026-09-09T13:20:20.215Z",
     "strategy": ".content-card__main"
   }
 ];
