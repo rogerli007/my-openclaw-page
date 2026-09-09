@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T14:53:32.019Z
+// Last updated: 2026-09-09T15:20:12.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張國榮70誕辰舊居客廳書房首度重現　帶「哥」迷穿越哥哥生活時光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174417559454224384240857.jpeg/X_SboQNcPHd-IBrafmcc9uIEIUFSwpcIVjj7nVY4-50?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388416/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E8%AA%95%E8%BE%B0%E8%88%8A%E5%B1%85%E5%AE%A2%E5%BB%B3%E6%9B%B8%E6%88%BF%E9%A6%96%E5%BA%A6%E9%87%8D%E7%8F%BE-%E5%B8%B6-%E5%93%A5-%E8%BF%B7%E7%A9%BF%E8%B6%8A%E5%93%A5%E5%93%A5%E7%94%9F%E6%B4%BB%E6%99%82%E5%85%89",
+    "timestamp": "2026-09-09T15:20:12.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎智英及蘋果日報案　馮偉光及林文宗就判刑上訴　明年1.22聆訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174387448222846976730246.jpeg/EqkuNJSq1J1oB8DfdJ_IS__Uze9EKgYn1-Bqydfgask?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60388376/%E5%85%92%E7%AB%A5%E9%A3%9F%E7%89%A9%E5%AE%89%E5%85%A8-%E5%85%A7%E5%9C%B0%E7%88%86%E7%B4%85%E9%9B%B6%E9%A3%9F-%E5%8F%AF%E9%A3%9F%E7%94%A8%E8%AA%B2%E6%9C%AC-%E8%97%8F%E9%9A%B1%E6%82%A3%E5%AE%98%E6%96%B9%E4%BF%83%E5%85%A8%E9%9D%A2%E7%A6%81%E5%94%AE",
     "timestamp": "2026-09-09T08:26:29.423Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳墓園管理員月薪¥1.5萬　冷門職業年輕人搶爆展現新價值觀？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174381504990547968650127.png/3I_cADY5diB2lgZJxUfIpVFKLAY3zY1Brhvn2K4b59g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60388340/%E6%B7%B1%E5%9C%B3%E5%A2%93%E5%9C%92%E7%AE%A1%E7%90%86%E5%93%A1%E6%9C%88%E8%96%AA-1-5%E8%90%AC-%E5%86%B7%E9%96%80%E8%81%B7%E6%A5%AD%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%90%B6%E7%88%86%E5%B1%95%E7%8F%BE%E6%96%B0%E5%83%B9%E5%80%BC%E8%A7%80",
-    "timestamp": "2026-09-09T07:53:55.714Z",
     "strategy": ".content-card__main"
   }
 ];
