@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T22:53:54.256Z
+// Last updated: 2026-09-09T23:29:50.917Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo面世｜iPhone 17 Air 17e 16舊機全線加價最高加$2,800",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174614735488815104027958.png/FBHiCBisLX5NfVqVSR9Jj3-IEJIvu9lv-bekc_m3pHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388554/iphone-duo%E9%9D%A2%E4%B8%96-iphone-17-air-17e-16%E8%88%8A%E6%A9%9F%E5%85%A8%E7%B7%9A%E5%8A%A0%E5%83%B9%E6%9C%80%E9%AB%98%E5%8A%A0-2-800",
+    "timestamp": "2026-09-09T23:29:50.917Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢兩村屋遭連環爆竊　兩住戶共損失$47萬財物　包括勞力士手錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174473174381760512876251.jpeg/yehpC8DCBoOe4MjCFjgAcWeQbL7qtJW-HfgzLR34My0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388505/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A4%A7%E6%85%88%E5%96%84%E5%AE%B6-%E8%A2%AB%E6%8F%AD%E5%91%83%E8%B6%B3%E9%81%8E%E5%8D%83%E8%90%AC-%E8%81%B2%E7%A8%B1%E5%B9%AB%E5%85%A7%E5%9C%B0%E7%94%9F%E4%BE%86%E6%B8%AF%E8%AE%80%E5%A4%A7%E5%AD%B8",
     "timestamp": "2026-09-09T15:55:30.795Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關機場偵破3宗跨境販毒案　檢獲逾$1500萬毒品　5男女旅客被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174494873152131072142893.jpeg/TXKRNiGbsx7KFL1q8olyFp0nitrQrwhuVkrCTVZKwk0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388522/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E5%81%B5%E7%A0%B43%E5%AE%97%E8%B7%A8%E5%A2%83%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2%E7%8D%B2%E9%80%BE-1500%E8%90%AC%E6%AF%92%E5%93%81-5%E7%94%B7%E5%A5%B3%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-09T15:46:39.857Z",
     "strategy": ".content-card__main"
   }
 ];
