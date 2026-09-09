@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T10:53:22.336Z
+// Last updated: 2026-09-09T11:19:06.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王祖藍爆大女「戀愛腦」分手後秒交新歡　坦言婚後脾氣被太太磨平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174393041486614528507894.jpeg/riI6ozWqvQvCdprMGwxnjFUydyk3X67H37QQ7N-0EOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388373/%E7%8E%8B%E7%A5%96%E8%97%8D%E7%88%86%E5%A4%A7%E5%A5%B3-%E6%88%80%E6%84%9B%E8%85%A6-%E5%88%86%E6%89%8B%E5%BE%8C%E7%A7%92%E4%BA%A4%E6%96%B0%E6%AD%A1-%E5%9D%A6%E8%A8%80%E5%A9%9A%E5%BE%8C%E8%84%BE%E6%B0%A3%E8%A2%AB%E5%A4%AA%E5%A4%AA%E7%A3%A8%E5%B9%B3",
+    "timestamp": "2026-09-09T11:19:06.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《點五步》林耀聲轉行做地盤搵食意外受傷　吳浩康力撐：辛苦你",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174305528998793216067845.jpeg/CYVO6plsBine-63hSY9r5WDh7POg7VUW4e4dzOHuHcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388189/%E5%89%8D%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E9%BB%83%E9%8C%A6%E8%BC%9D%E6%B6%89%E9%86%89%E9%85%92%E9%A7%95%E9%A7%9B-%E5%87%86%E4%BF%9D%E9%87%8B%E8%87%B311-11%E5%86%8D%E6%8F%90%E8%A8%8A",
     "timestamp": "2026-09-09T02:49:50.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世｜同鄉林鄭月娥憶慈祥長者：開展「一國兩制」利在千秋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/311752/org/60d13f796d6b4a27e58680bcc7b80e4b.jpg/OQHwSyfxiRdxQ2sVIzQ_OV2dkMuzeWlTugtrDboLaw0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388161/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%90%8C%E9%84%89%E6%9E%97%E9%84%AD%E6%9C%88%E5%A8%A5%E6%86%B6%E6%85%88%E7%A5%A5%E9%95%B7%E8%80%85-%E9%96%8B%E5%B1%95-%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6-%E5%88%A9%E5%9C%A8%E5%8D%83%E7%A7%8B",
-    "timestamp": "2026-09-09T02:33:17.894Z",
     "strategy": ".content-card__main"
   }
 ];
