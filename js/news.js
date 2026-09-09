@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T02:02:37.801Z
+// Last updated: 2026-09-09T02:33:17.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世｜同鄉林鄭月娥憶慈祥長者：開展「一國兩制」利在千秋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/311752/org/60d13f796d6b4a27e58680bcc7b80e4b.jpg/OQHwSyfxiRdxQ2sVIzQ_OV2dkMuzeWlTugtrDboLaw0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388161/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%90%8C%E9%84%89%E6%9E%97%E9%84%AD%E6%9C%88%E5%A8%A5%E6%86%B6%E6%85%88%E7%A5%A5%E9%95%B7%E8%80%85-%E9%96%8B%E5%B1%95-%E4%B8%80%E5%9C%8B%E5%85%A9%E5%88%B6-%E5%88%A9%E5%9C%A8%E5%8D%83%E7%A7%8B",
+    "timestamp": "2026-09-09T02:33:17.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "經常揉搓眼睛竟致結膜炎　停止4行為：關燈玩手機　科學護眼7注意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174188021512146944309815.jpeg/aPzj6n8eWGeF-rDbX-svHXfrzZbFnkCtYpAaZmKQGmY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388131/%E6%AD%90%E8%81%AF-%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89%E4%BD%9C%E5%AE%A23-2%E5%8B%9D%E5%B8%83%E9%AD%AF%E6%97%A5",
     "timestamp": "2026-09-08T19:17:50.305Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警察學院聯同慈善機構中秋活動教防騙　長者、學生等近500人參與",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174174614683652096085612.jpeg/v3uqKnmh4Esf5K3QRY2McLjnS_VVRLGlMBSFQzAUhUM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388127/%E8%AD%A6%E5%AF%9F%E5%AD%B8%E9%99%A2%E8%81%AF%E5%90%8C%E6%85%88%E5%96%84%E6%A9%9F%E6%A7%8B%E4%B8%AD%E7%A7%8B%E6%B4%BB%E5%8B%95%E6%95%99%E9%98%B2%E9%A8%99-%E9%95%B7%E8%80%85-%E5%AD%B8%E7%94%9F%E7%AD%89%E8%BF%91500%E4%BA%BA%E5%8F%83%E8%88%87",
-    "timestamp": "2026-09-08T18:46:19.499Z",
     "strategy": ".content-card__main"
   }
 ];
