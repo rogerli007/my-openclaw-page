@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T07:44:32.713Z
+// Last updated: 2026-09-09T07:53:55.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳墓園管理員月薪¥1.5萬　冷門職業年輕人搶爆展現新價值觀？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174381504990547968650127.png/3I_cADY5diB2lgZJxUfIpVFKLAY3zY1Brhvn2K4b59g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60388340/%E6%B7%B1%E5%9C%B3%E5%A2%93%E5%9C%92%E7%AE%A1%E7%90%86%E5%93%A1%E6%9C%88%E8%96%AA-1-5%E8%90%AC-%E5%86%B7%E9%96%80%E8%81%B7%E6%A5%AD%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%90%B6%E7%88%86%E5%B1%95%E7%8F%BE%E6%96%B0%E5%83%B9%E5%80%BC%E8%A7%80",
+    "timestamp": "2026-09-09T07:53:55.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳墓園管理員月薪¥1.5萬　冷門職業年輕人搶爆展現新價值觀？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173997781610663936146523.png/2zMTkff9taVy-BOVB-YBLc-f-_53D5CZEfHoSRHx6Ek",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60378539/%E7%BE%8E%E8%8F%AF%E8%A3%94%E5%8F%B8%E6%A9%9F%E5%BE%AE%E4%BF%A1%E6%8E%A5%E5%96%AE%E8%AE%8A%E9%81%8B200%E7%A3%85%E5%A4%A7%E9%BA%BB-%E5%96%8A%E5%86%A4%E6%9E%89%E4%BB%8D%E5%88%A4%E7%BD%AA%E6%88%90-%E7%B6%A0%E5%8D%A1%E6%81%90%E4%B8%8D%E4%BF%9D",
     "timestamp": "2026-09-08T23:18:00.458Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "71歲老戲骨曾被TVB有靠山演員欺負　北上升級與趙雅芝同坐受尊重",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174068775545212928087416.jpeg/8FB7mGqdohvslyrQ4mY1pmiVNQn1iwlqnB2LFZwdixU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387915/71%E6%AD%B2%E9%99%B3%E6%A6%AE%E5%B3%BB%E6%9B%BE%E8%A2%ABtvb%E6%9C%89%E9%9D%A0%E5%B1%B1%E6%BC%94%E5%93%A1%E6%AC%BA%E8%B2%A0-%E5%8C%97%E4%B8%8A%E5%8D%87%E7%B4%9A%E8%88%87%E8%B6%99%E9%9B%85%E8%8A%9D%E5%90%8C%E5%9D%90%E5%8F%97%E5%B0%8A%E9%87%8D",
-    "timestamp": "2026-09-08T22:57:03.023Z",
     "strategy": ".content-card__main"
   }
 ];
