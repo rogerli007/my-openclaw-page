@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T17:53:53.524Z
+// Last updated: 2026-09-09T18:53:43.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro登場｜首配可變光圈　A20 Pro效能、續航全面升級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174547166773907456283907.jpeg/TYPTN3sbVL3k8MBRpLRO1ZYkt_HlEW5ESM-ND0jPjQ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388534/iphone-18-pro%E7%99%BB%E5%A0%B4-%E9%A6%96%E9%85%8D%E5%8F%AF%E8%AE%8A%E5%85%89%E5%9C%88-a20-pro%E6%95%88%E8%83%BD-%E7%BA%8C%E8%88%AA%E5%85%A8%E9%9D%A2%E5%8D%87%E7%B4%9A",
+    "timestamp": "2026-09-09T18:53:43.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一帶一路｜投資推廣署與津巴布韋交換備忘錄　合作促進雙向投資",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174415907754086400682379.png/aCyhquKHVPE7O4x47cy9B7usU7mEgmrgaYWLRWmFi0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388394/netflix-%E9%86%9C%E8%81%9E-%E5%AD%AB%E8%97%9D%E7%8F%8D%E7%94%A2%E5%BE%8C%E5%BE%A9%E5%87%BA%E6%8C%91%E6%88%B019%E7%A6%81%E6%A5%B5%E9%99%90-%E7%B6%B2%E6%B0%91-%E7%8E%84%E5%BD%AC%E7%9F%A5%E6%83%85%E5%97%8E",
     "timestamp": "2026-09-09T11:56:09.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Stanley@MIRROR過大禮勁曬滿枱金器　6對龍鳳鈪兩對重量級流星錘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174434406643929088127064.jpeg/KGlOacXSRwmOLJ4rgZzdjvR2y2c55GpE0-YWVNPmFlQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388479/stanley-mirror%E9%81%8E%E5%A4%A7%E7%A6%AE%E5%8B%81%E6%9B%AC%E6%BB%BF%E6%9E%B1%E9%87%91%E5%99%A8-6%E5%B0%8D%E9%BE%8D%E9%B3%B3%E9%88%AA%E5%85%A9%E5%B0%8D%E9%87%8D%E9%87%8F%E7%B4%9A%E6%B5%81%E6%98%9F%E9%8C%98",
-    "timestamp": "2026-09-09T11:43:21.169Z",
     "strategy": ".content-card__main"
   }
 ];
