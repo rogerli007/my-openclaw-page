@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T11:56:09.725Z
+// Last updated: 2026-09-09T12:28:59.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世．拆局｜八年特首生涯壯志未酬　三大遺憾值得深思",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174423514069864448934128.jpeg/J_F7da4qkoCqr0gc6zK2oSeqAm-57hp08QZ45_EGeOc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388466/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%8B%86%E5%B1%80-%E5%85%AB%E5%B9%B4%E7%89%B9%E9%A6%96%E7%94%9F%E6%B6%AF%E5%A3%AF%E5%BF%97%E6%9C%AA%E9%85%AC-%E4%B8%89%E5%A4%A7%E9%81%BA%E6%86%BE%E5%80%BC%E5%BE%97%E6%B7%B1%E6%80%9D",
+    "timestamp": "2026-09-09T12:28:59.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Netflix《醜聞》孫藝珍產後復出挑戰19禁極限！網民：玄彬知情嗎?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174322999273197568691042.jpeg/gR1Fy4yFqz4PJgt55igi4iPzXTELzKCITzaANk82gDY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388179/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%9D%8E%E6%B5%A9%E7%84%B6%E6%86%B6%E4%B8%80%E4%BA%8B%E6%83%B9%E6%80%92%E8%91%A3%E5%BB%BA%E8%8F%AF-%E7%AB%9F%E7%8D%B2%E4%B8%BB%E5%8B%95%E5%AE%89%E6%85%B0%E8%AE%93%E6%AD%A5%E6%8E%A1%E7%B4%8D%E6%84%8F%E8%A6%8B",
     "timestamp": "2026-09-09T03:56:38.490Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世︱李家超哀悼憶帶領香港抵禦金融風暴　巨大貢獻永存心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174319846599430144572904.jpeg/GdqoC-SJYc6S6IOLpYOMOYpvsExo_RJm8cpV0PHKVdA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388239/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%93%80%E6%82%BC%E6%86%B6%E5%B8%B6%E9%A0%98%E9%A6%99%E6%B8%AF%E6%8A%B5%E7%A6%A6%E9%87%91%E8%9E%8D%E9%A2%A8%E6%9A%B4-%E5%B7%A8%E5%A4%A7%E8%B2%A2%E7%8D%BB%E6%B0%B8%E5%AD%98%E5%BF%83",
-    "timestamp": "2026-09-09T03:46:17.451Z",
     "strategy": ".content-card__main"
   }
 ];
