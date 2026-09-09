@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T15:20:12.708Z
+// Last updated: 2026-09-09T15:33:35.079Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑特設銷售計劃11.15攪珠　設網上直播　簽買賣協議始可揀樓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260102/1083877379794800640085934.jpeg/Jxz2E-lR4stMUv0XlKBeUbfIig3d1SU96LgyHs64Mh4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388523/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%89%B9%E8%A8%AD%E9%8A%B7%E5%94%AE%E8%A8%88%E5%8A%8311-15%E6%94%AA%E7%8F%A0-%E8%A8%AD%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD-%E7%B0%BD%E8%B2%B7%E8%B3%A3%E5%8D%94%E8%AD%B0%E5%A7%8B%E5%8F%AF%E6%8F%80%E6%A8%93",
+    "timestamp": "2026-09-09T15:33:35.079Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張國榮70誕辰舊居客廳書房首度重現　帶「哥」迷穿越哥哥生活時光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174390384776712192035961.jpeg/Iutx2WAhA51qeT1ffOHxjqoHaRIERmeDwjLR_ucy0f4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388367/%E6%B8%AF%E9%90%B5%E5%AF%A9%E8%A6%96%E4%BA%8C%E8%9A%8A%E7%89%B9%E6%83%A0%E7%AB%99%E5%8E%BB%E7%95%99-%E5%B8%82%E6%B0%91%E5%86%80%E7%9B%A1%E7%A4%BE%E6%9C%83%E8%B2%AC%E4%BB%BB%E8%A3%9C%E8%B2%BC-%E6%85%B3%E5%88%B0%E5%85%A9%E9%A4%90%E9%A3%AF",
     "timestamp": "2026-09-09T08:55:41.415Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兒童食物安全｜內地爆紅零食「可食用課本」藏隱患官方促全面禁售",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174387448222846976730246.jpeg/EqkuNJSq1J1oB8DfdJ_IS__Uze9EKgYn1-Bqydfgask?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60388376/%E5%85%92%E7%AB%A5%E9%A3%9F%E7%89%A9%E5%AE%89%E5%85%A8-%E5%85%A7%E5%9C%B0%E7%88%86%E7%B4%85%E9%9B%B6%E9%A3%9F-%E5%8F%AF%E9%A3%9F%E7%94%A8%E8%AA%B2%E6%9C%AC-%E8%97%8F%E9%9A%B1%E6%82%A3%E5%AE%98%E6%96%B9%E4%BF%83%E5%85%A8%E9%9D%A2%E7%A6%81%E5%94%AE",
-    "timestamp": "2026-09-09T08:26:29.423Z",
     "strategy": ".content-card__main"
   }
 ];
