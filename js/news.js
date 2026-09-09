@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T15:33:35.079Z
+// Last updated: 2026-09-09T15:46:39.857Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關機場偵破3宗跨境販毒案　檢獲逾$1500萬毒品　5男女旅客被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174494873152131072142893.jpeg/TXKRNiGbsx7KFL1q8olyFp0nitrQrwhuVkrCTVZKwk0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388522/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E5%81%B5%E7%A0%B43%E5%AE%97%E8%B7%A8%E5%A2%83%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2%E7%8D%B2%E9%80%BE-1500%E8%90%AC%E6%AF%92%E5%93%81-5%E7%94%B7%E5%A5%B3%E6%97%85%E5%AE%A2%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-09T15:46:39.857Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑特設銷售計劃11.15攪珠　設網上直播　簽買賣協議始可揀樓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174323193054236672298740.jpeg/f_dSNNB1ZvV_rYrRA4LnAJG8Tyy4g55Q5UMQq-VDEKs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388245/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E9%BB%83%E9%8E%AE%E5%BB%B7%E6%9D%9C%E5%87%B1%E7%90%B9%E7%8D%B2%E6%B7%B7%E9%9B%99%E5%B8%AD%E4%BD%8D-%E9%80%A3%E7%BA%8C%E5%85%A9%E5%B9%B4%E4%B8%BB%E5%A0%B4%E7%8D%BB%E6%8A%80",
     "timestamp": "2026-09-09T09:22:49.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵審視二蚊特惠站去留　市民冀盡社會責任補貼：慳到兩餐飯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174390384776712192035961.jpeg/Iutx2WAhA51qeT1ffOHxjqoHaRIERmeDwjLR_ucy0f4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388367/%E6%B8%AF%E9%90%B5%E5%AF%A9%E8%A6%96%E4%BA%8C%E8%9A%8A%E7%89%B9%E6%83%A0%E7%AB%99%E5%8E%BB%E7%95%99-%E5%B8%82%E6%B0%91%E5%86%80%E7%9B%A1%E7%A4%BE%E6%9C%83%E8%B2%AC%E4%BB%BB%E8%A3%9C%E8%B2%BC-%E6%85%B3%E5%88%B0%E5%85%A9%E9%A4%90%E9%A3%AF",
-    "timestamp": "2026-09-09T08:55:41.415Z",
     "strategy": ".content-card__main"
   }
 ];
