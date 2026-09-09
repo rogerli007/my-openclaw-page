@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T08:26:29.423Z
+// Last updated: 2026-09-09T08:55:41.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵審視二蚊特惠站去留　市民冀盡社會責任補貼：慳到兩餐飯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174390384776712192035961.jpeg/Iutx2WAhA51qeT1ffOHxjqoHaRIERmeDwjLR_ucy0f4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388367/%E6%B8%AF%E9%90%B5%E5%AF%A9%E8%A6%96%E4%BA%8C%E8%9A%8A%E7%89%B9%E6%83%A0%E7%AB%99%E5%8E%BB%E7%95%99-%E5%B8%82%E6%B0%91%E5%86%80%E7%9B%A1%E7%A4%BE%E6%9C%83%E8%B2%AC%E4%BB%BB%E8%A3%9C%E8%B2%BC-%E6%85%B3%E5%88%B0%E5%85%A9%E9%A4%90%E9%A3%AF",
+    "timestamp": "2026-09-09T08:55:41.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兒童食物安全｜內地爆紅零食「可食用課本」藏隱患官方促全面禁售",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174058323398365184160258.jpeg/ke1tdDt4IkI0v_sVrkAp1UaFQNBv8tF_8rpL2PK6S9g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60388054/%E7%84%A1%E8%A6%96%E8%8F%AF%E7%9B%9B%E9%A0%93%E8%AD%A6%E5%91%8A-%E6%97%A5%E6%9C%AC%E6%AD%A3%E4%B8%8A%E6%BC%94%E9%87%91%E8%9E%8D%E7%89%88-%E7%8F%8D%E7%8F%A0%E6%B8%AF2-0",
     "timestamp": "2026-09-08T23:42:09.388Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛頭角彩德邨35歲男藏依托咪酯及電子煙　涉藏毒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230704/752829228411785216276304.jpeg/cvR_qdSYyy5kjs46AMu7JjEMqqjwdd3uP4jIrj-IyK4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388141/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%BD%A9%E5%BE%B7%E9%82%A835%E6%AD%B2%E7%94%B7%E8%97%8F%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E5%8F%8A%E9%9B%BB%E5%AD%90%E7%85%99-%E6%B6%89%E8%97%8F%E6%AF%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-08T23:30:29.030Z",
     "strategy": ".content-card__main"
   }
 ];
