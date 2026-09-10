@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T17:29:46.164Z
+// Last updated: 2026-09-10T17:41:22.565Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳柏宇當年街頭遇同期新人被爆粗問候　同小肥曾在頒獎禮上生恩怨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174879371974938624369758.jpeg/XfjCXpNUjuvgfubiduzTRTY8dkRfAwWYt_jE7bf4xO0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388934/%E9%99%B3%E6%9F%8F%E5%AE%87%E7%95%B6%E5%B9%B4%E8%A1%97%E9%A0%AD%E9%81%87%E5%90%8C%E6%9C%9F%E6%96%B0%E4%BA%BA%E8%A2%AB%E7%88%86%E7%B2%97%E5%95%8F%E5%80%99-%E5%90%8C%E5%B0%8F%E8%82%A5%E6%9B%BE%E5%9C%A8%E9%A0%92%E7%8D%8E%E7%A6%AE%E4%B8%8A%E7%94%9F%E6%81%A9%E6%80%A8",
+    "timestamp": "2026-09-10T17:41:22.565Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳柏宇當年街頭遇同期新人被爆粗問候　同小肥曾在頒獎禮上生恩怨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174797163071279104469301.jpeg/JV2kMJAGSD8otQLjrBaNDIkqs7G1pDpRImwYYgdsGGI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388883/%E7%9B%B4%E6%93%8A%E5%AF%8C%E8%B1%AAvolvo%E9%9B%99%E5%B1%A4%E9%9B%BB%E5%8B%95%E5%B7%B4%E9%A6%96%E5%BA%A6%E9%A6%99%E6%B8%AF%E4%BA%AE%E7%9B%B8-%E6%9C%80%E5%BF%AB%E5%85%A9%E5%B0%8F%E6%99%82%E5%85%85%E6%BB%BF%E9%9B%BB-%E5%A4%9A%E5%9C%96",
     "timestamp": "2026-09-10T11:30:54.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地平治逃走｜警檢偉哥　揭司機停牌運毒　女友助匿酒店同被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174793906655596544524690.jpeg/FZ5OPePB8qnaljT4rQLn6AiowtcSVkzkgfocPYH6HD0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388879/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%B9%B3%E6%B2%BB%E9%80%83%E8%B5%B0-%E8%AD%A6%E6%AA%A2%E5%81%89%E5%93%A5-%E6%8F%AD%E5%8F%B8%E6%A9%9F%E5%81%9C%E7%89%8C%E9%81%8B%E6%AF%92-%E5%A5%B3%E5%8F%8B%E5%8A%A9%E5%8C%BF%E9%85%92%E5%BA%97%E5%90%8C%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-10T11:19:01.663Z",
     "strategy": ".content-card__main"
   }
 ];
