@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T21:17:16.380Z
+// Last updated: 2026-09-10T21:41:43.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜曼聯4：0擊敗沙巴FC",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174947547832127488267394.jpeg/z0x78Kn6_j9WtmjxgFNX7yc0m0aPB4Ckm54du5ueHbs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388947/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF4-0%E6%93%8A%E6%95%97%E6%B2%99%E5%B7%B4fc",
+    "timestamp": "2026-09-10T21:41:43.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜曼聯4：0擊敗沙巴FC",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174786061600034816264187.jpeg/xD7S6BTpZTmCNGetTVn24_MOjOxKUbyOUzmv9lM5r_Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388866/%E5%8F%A4%E6%B4%9E%E5%8C%97%E4%BB%8A%E6%98%8E%E5%85%A9%E5%B9%B41-2%E8%90%AC%E5%96%AE%E4%BD%8D%E8%90%BD%E6%88%90-%E9%A0%90%E7%95%99%E7%94%A8%E5%9C%B0%E7%99%BC%E5%B1%95%E5%9C%8B%E5%AE%B6%E6%88%90%E5%B0%B1%E5%8D%9A%E7%89%A9%E9%A4%A8",
     "timestamp": "2026-09-10T15:00:24.960Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警土瓜灣街頭發現失車搜出毒品　拘38歲男涉藏毒偷車等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174849405195390976862593.jpeg/68enAdUxOiwhOb1-GZ1rmMz7zE7k1cCJIYCKxiGAisY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388922/%E8%AD%A6%E5%9C%9F%E7%93%9C%E7%81%A3%E8%A1%97%E9%A0%AD%E7%99%BC%E7%8F%BE%E5%A4%B1%E8%BB%8A%E6%90%9C%E5%87%BA%E6%AF%92%E5%93%81-%E6%8B%9838%E6%AD%B2%E7%94%B7%E6%B6%89%E8%97%8F%E6%AF%92%E5%81%B7%E8%BB%8A%E7%AD%89",
-    "timestamp": "2026-09-10T14:46:19.355Z",
     "strategy": ".content-card__main"
   }
 ];
