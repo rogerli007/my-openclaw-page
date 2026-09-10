@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T18:22:42.096Z
+// Last updated: 2026-09-10T18:44:58.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "圓方平台工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B9%B3%E5%8F%B0%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
+    "timestamp": "2026-09-10T18:44:58.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜青馬大橋車隊的士司機棄車跳海　救援人員尋人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174779179556671488427536.jpeg/LIHXQIuHtat7vExd83jadT0KfzOHa7TncIHxIHCB8SA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60388892/iphone-duo-%E5%85%A7%E5%9C%B0%E9%BB%83%E7%89%9B%E5%83%B9%E5%8A%A0%E5%83%B9-1%E5%8D%83%E8%87%B3-5%E5%8D%83-%E6%9C%80%E9%AB%98%E6%A8%99%E5%83%B9-9-9%E8%90%AC",
     "timestamp": "2026-09-10T12:29:18.775Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬「天然草藥咖啡」含偉哥壯陽成分　警深水埗拘一名70歲男子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174799669268582400820497.png/Y593g9mwK3dXZFklJFllozDFEsBM1ce1Y6VLGmOlSxo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388884/%E5%A4%A7%E9%A6%AC-%E5%A4%A9%E7%84%B6%E8%8D%89%E8%97%A5%E5%92%96%E5%95%A1-%E5%90%AB%E5%81%89%E5%93%A5%E5%A3%AF%E9%99%BD%E6%88%90%E5%88%86-%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%8B%98%E4%B8%80%E5%90%8D70%E6%AD%B2%E7%94%B7%E5%AD%90",
-    "timestamp": "2026-09-10T11:43:22.901Z",
     "strategy": ".content-card__main"
   }
 ];
