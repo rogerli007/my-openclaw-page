@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-09T23:41:25.635Z
+// Last updated: 2026-09-10T00:47:13.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃子華疑演出周殷廷首執導作　改編80年代連環殺手「雨夜屠夫」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174484618179514368685394.jpeg/c6pFBDBPXCNWbuSKxfHbnp0U1AUp5n5M3Kq2CNyqtgg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388514/%E9%BB%83%E5%AD%90%E8%8F%AF%E7%96%91%E6%BC%94%E5%87%BA%E5%91%A8%E6%AE%B7%E5%BB%B7%E9%A6%96%E5%9F%B7%E5%B0%8E%E4%BD%9C-%E6%94%B9%E7%B7%A880%E5%B9%B4%E4%BB%A3%E9%80%A3%E7%92%B0%E6%AE%BA%E6%89%8B-%E9%9B%A8%E5%A4%9C%E5%B1%A0%E5%A4%AB",
+    "timestamp": "2026-09-10T00:47:13.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大腸癌年輕化｜32歲男無家族史患三期　醫揭3大傷腸習慣＋4大徵兆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250428/993595060652085248342168.jpeg/kGeuGSI11neyWCvSLP-qBieVdnY67PKcw8yiUMPMolA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60388528/%E8%96%AF%E8%93%89%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E5%85%8D%E7%89%9B%E6%B2%B9%E5%85%8D%E5%BF%8C%E5%BB%89%E4%BD%8E%E8%84%82%E7%89%88-%E9%A6%99%E6%BB%91%E8%BB%9F%E7%B6%BF%E5%85%A8%E9%9D%A01%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8",
     "timestamp": "2026-09-09T16:44:14.553Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃智雯出席《黃金囍事》馬來西亞發布會　再續前緣夥袁偉豪演夫妻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174470665697234944568731.jpeg/0wr5hoSbZVnL1tS5CEnyi9xsBRRAD72rgS8AEYEvABE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388504/%E9%BB%83%E6%99%BA%E9%9B%AF%E5%87%BA%E5%B8%AD-%E9%BB%83%E9%87%91%E5%9B%8D%E4%BA%8B-%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E7%99%BC%E5%B8%83%E6%9C%83-%E5%86%8D%E7%BA%8C%E5%89%8D%E7%B7%A3%E5%A4%A5%E8%A2%81%E5%81%89%E8%B1%AA%E6%BC%94%E5%A4%AB%E5%A6%BB",
-    "timestamp": "2026-09-09T16:22:18.809Z",
     "strategy": ".content-card__main"
   }
 ];
