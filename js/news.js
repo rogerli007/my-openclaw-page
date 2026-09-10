@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T22:28:28.130Z
+// Last updated: 2026-09-10T22:41:25.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前頂級花旦與台灣男星婚後曝光美國生活　80歲陪仔新抱狂食行街",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174797895400951808384529.jpeg/UfFkaagjmdufIJcEoGBW8-syBkjVvfxLUqGc4VKhnOE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388721/%E8%83%A1%E7%87%95%E5%A6%AE%E8%88%87%E5%8F%B0%E7%81%A3%E7%94%B7%E6%98%9F%E7%B5%90%E5%A9%9A%E6%9B%9D%E5%85%89%E7%BE%8E%E5%9C%8B%E7%94%9F%E6%B4%BB-80%E6%AD%B2%E9%99%AA%E4%BB%94%E6%96%B0%E6%8A%B1%E7%8B%82%E9%A3%9F%E8%A1%8C%E8%A1%97",
+    "timestamp": "2026-09-10T22:41:25.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大窩口邨妻子暈倒　丈夫報案　送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174836352248713216250743.png/vQVIvMOooAOT66mYL9r6RvOveSMfALo2nt5q5p7eauY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388915/%E9%9F%93%E5%9C%8B%E6%83%85%E5%A0%B1%E6%A9%9F%E6%A7%8B-%E9%87%91%E6%AD%A3%E6%81%A9%E5%A5%B3%E5%85%92%E9%87%91%E4%B8%BB%E6%84%9B%E6%8E%A5%E5%8F%97%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%9F%B9%E9%A4%8A-%E6%9C%89%E4%B8%80%E5%90%8D%E5%B9%B4%E5%B9%BC%E5%BC%9F%E5%A6%B9",
     "timestamp": "2026-09-10T15:53:54.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鼓鼓台中簽唱會化身最暖樹洞陪伴歌迷落淚　MV破百萬透露客串戲劇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174768082820796416154863.jpeg/INpUVfmaGGOzWumNhZrVrN-kbDysYMlcFkYu6xZGLus?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60388812/%E9%BC%93%E9%BC%93%E5%8F%B0%E4%B8%AD%E7%B0%BD%E5%94%B1%E6%9C%83%E5%8C%96%E8%BA%AB%E6%9C%80%E6%9A%96%E6%A8%B9%E6%B4%9E%E9%99%AA%E4%BC%B4%E6%AD%8C%E8%BF%B7%E8%90%BD%E6%B7%9A-mv%E7%A0%B4%E7%99%BE%E8%90%AC%E9%80%8F%E9%9C%B2%E5%AE%A2%E4%B8%B2%E6%88%B2%E5%8A%87",
-    "timestamp": "2026-09-10T15:42:28.914Z",
     "strategy": ".content-card__main"
   }
 ];
