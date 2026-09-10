@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T07:22:24.147Z
+// Last updated: 2026-09-10T07:44:14.972Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社：習近平訪美前夕　中方單周採購100萬噸美國大豆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132472496374026240690143.jpeg/k7ihxtt-mjnt8QAzhDN49C_vfbymOR_IB2idJgdonSY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388730/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E5%89%8D%E5%A4%95-%E4%B8%AD%E6%96%B9%E5%96%AE%E5%91%A8%E6%8E%A1%E8%B3%BC100%E8%90%AC%E5%99%B8%E7%BE%8E%E5%9C%8B%E5%A4%A7%E8%B1%86",
+    "timestamp": "2026-09-10T07:44:14.972Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新加坡擬採用「化學閹割」重罰性罪犯　冀減少相關犯罪問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174401740842209280178462.jpeg/RA4qaqFlJ5SwenuyQUpveEOXi39OpI3cnyRn1J8kZ9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388291/%E5%8D%83%E7%A6%A7%E5%A5%B3%E7%A5%9E44%E6%AD%B2%E7%94%9F%E6%97%A5%E5%9B%9E%E9%A1%A7%E5%8D%81%E5%B9%B4%E9%80%86%E8%A5%B2%E8%B7%AF-%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%B2%A0%E5%82%B5%E4%BB%A51%E7%BE%8E%E5%85%83%E8%B3%A3%E7%9B%A4%E9%87%8D%E7%B5%84",
     "timestamp": "2026-09-09T22:19:07.692Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AirPods 5登場｜1.5 倍更強主動消噪　支援Siri AI　實現即時翻譯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174587867091963904523178.png/Sb7elJ6rS6QUAYrc8Vnr_k7aOQYtsW_-90NrQfdDa0E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388549/airpods-5%E7%99%BB%E5%A0%B4-1-5-%E5%80%8D%E6%9B%B4%E5%BC%B7%E4%B8%BB%E5%8B%95%E6%B6%88%E5%99%AA-%E6%94%AF%E6%8F%B4siri-ai-%E5%AF%A6%E7%8F%BE%E5%8D%B3%E6%99%82%E7%BF%BB%E8%AD%AF",
-    "timestamp": "2026-09-09T21:54:13.641Z",
     "strategy": ".content-card__main"
   }
 ];
