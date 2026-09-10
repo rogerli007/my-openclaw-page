@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T23:27:23.056Z
+// Last updated: 2026-09-10T23:41:22.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "911事件25周年｜美國CDC啟動兒童健康研究　追蹤2.5萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174963311368736768523619.jpeg/VT5ZoeWllSuDM5rFrwTUqZE6kexuqBCYb9DwOm_Q8Do?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388952/911%E4%BA%8B%E4%BB%B625%E5%91%A8%E5%B9%B4-%E7%BE%8E%E5%9C%8Bcdc%E5%95%9F%E5%8B%95%E5%85%92%E7%AB%A5%E5%81%A5%E5%BA%B7%E7%A0%94%E7%A9%B6-%E8%BF%BD%E8%B9%A42-5%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-09-10T23:41:22.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "911事件25周年｜美國CDC啟動兒童健康研究　追蹤2.5萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174870444994465792250187.jpeg/ykQeWTr3JkUmlrYBXqV9eZJQjVBxKz_RESgZoxEoGaM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388928/%E8%8D%83%E7%81%A3%E8%B2%A8%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E3%E5%90%8D%E5%A5%B3%E5%AD%B8%E7%94%9F-%E5%8F%B8%E6%A9%9F%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2-%E6%A1%88%E4%BB%B6%E5%B0%87%E6%8F%90%E5%A0%82-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-10T16:53:53.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣貨車衝紅燈險撞3名女學生　司機同日落網　案件將提堂｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174870444994465792250187.jpeg/ykQeWTr3JkUmlrYBXqV9eZJQjVBxKz_RESgZoxEoGaM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388928/%E8%8D%83%E7%81%A3%E8%B2%A8%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E3%E5%90%8D%E5%A5%B3%E5%AD%B8%E7%94%9F-%E5%8F%B8%E6%A9%9F%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2-%E6%A1%88%E4%BB%B6%E5%B0%87%E6%8F%90%E5%A0%82-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-10T16:42:02.552Z",
     "strategy": ".content-card__main"
   }
 ];
