@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T08:27:34.643Z
+// Last updated: 2026-09-10T08:47:14.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "證監會出手整頓IPO！　撥康視雲勒令停牌　股份需求或涉人為操縱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058442269666840576071384.jpeg/O90aabkL9NaGQfAcapMK-Q9eMgSVZpB1pahAQqWoQEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388792/%E8%AD%89%E7%9B%A3%E6%9C%83%E5%87%BA%E6%89%8B%E6%95%B4%E9%A0%93ipo-%E6%92%A5%E5%BA%B7%E8%A6%96%E9%9B%B2%E5%8B%92%E4%BB%A4%E5%81%9C%E7%89%8C-%E8%82%A1%E4%BB%BD%E9%9C%80%E6%B1%82%E6%88%96%E6%B6%89%E4%BA%BA%E7%82%BA%E6%93%8D%E7%B8%B1",
+    "timestamp": "2026-09-10T08:47:14.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地「十五五」財金政策登場！證監縮短IPO審核　中美研降稅300億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174614735488815104027958.png/FBHiCBisLX5NfVqVSR9Jj3-IEJIvu9lv-bekc_m3pHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388554/iphone-duo%E9%9D%A2%E4%B8%96-iphone-17-air-17e-16%E8%88%8A%E6%A9%9F%E5%85%A8%E7%B7%9A%E5%8A%A0%E5%83%B9%E6%9C%80%E9%AB%98%E5%8A%A0-2-800",
     "timestamp": "2026-09-09T23:29:50.917Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西貢兩村屋遭連環爆竊　兩住戶共損失$47萬財物　包括勞力士手錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174607845442719744482310.jpeg/bNq20XKNrFyQL3DxA8WSO6JdcNSQ6CEofudRnn7nUZ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388558/%E8%A5%BF%E8%B2%A2%E5%85%A9%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-%E5%85%A9%E4%BD%8F%E6%88%B6%E5%85%B1%E6%90%8D%E5%A4%B1-47%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E6%89%8B%E9%8C%B6",
-    "timestamp": "2026-09-09T22:53:54.256Z",
     "strategy": ".content-card__main"
   }
 ];
