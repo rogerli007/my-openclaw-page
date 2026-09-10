@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T22:59:30.855Z
+// Last updated: 2026-09-10T23:27:23.056Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "911事件25周年｜美國CDC啟動兒童健康研究　追蹤2.5萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174963311368736768523619.jpeg/VT5ZoeWllSuDM5rFrwTUqZE6kexuqBCYb9DwOm_Q8Do?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388952/911%E4%BA%8B%E4%BB%B625%E5%91%A8%E5%B9%B4-%E7%BE%8E%E5%9C%8Bcdc%E5%95%9F%E5%8B%95%E5%85%92%E7%AB%A5%E5%81%A5%E5%BA%B7%E7%A0%94%E7%A9%B6-%E8%BF%BD%E8%B9%A42-5%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-09-10T23:27:23.056Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前頂級花旦與台灣男星婚後曝光美國生活　80歲陪仔新抱狂食行街",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174870444994465792250187.jpeg/ykQeWTr3JkUmlrYBXqV9eZJQjVBxKz_RESgZoxEoGaM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388928/%E8%8D%83%E7%81%A3%E8%B2%A8%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E3%E5%90%8D%E5%A5%B3%E5%AD%B8%E7%94%9F-%E5%8F%B8%E6%A9%9F%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2-%E6%A1%88%E4%BB%B6%E5%B0%87%E6%8F%90%E5%A0%82-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-10T16:42:02.552Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國最高法院阻密蘇里新選區重劃地圖生效　共和黨眾議院優勢受挫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132319767642771456269073.jpeg/YAPRE6lhANkDOrZwThfqrkJfh3YP98X-mAzGCZgMxgk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388933/%E7%BE%8E%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E9%98%BB%E5%AF%86%E8%98%87%E9%87%8C%E6%96%B0%E9%81%B8%E5%8D%80%E9%87%8D%E5%8A%83%E5%9C%B0%E5%9C%96%E7%94%9F%E6%95%88-%E5%85%B1%E5%92%8C%E9%BB%A8%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%84%AA%E5%8B%A2%E5%8F%97%E6%8C%AB",
-    "timestamp": "2026-09-10T16:21:12.990Z",
     "strategy": ".content-card__main"
   }
 ];
