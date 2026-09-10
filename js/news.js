@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T14:19:29.769Z
+// Last updated: 2026-09-10T14:33:24.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天宮課堂｜林建岳：港府應借機推動科研教育　大力培養科研人才",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174846002725654528439267.jpeg/XiN1tCLaUaqHmx80eJB1XVKIxV5Z7UBLK_BYuyvwWLs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388907/%E5%A4%A9%E5%AE%AE%E8%AA%B2%E5%A0%82-%E6%9E%97%E5%BB%BA%E5%B2%B3-%E6%B8%AF%E5%BA%9C%E6%87%89%E5%80%9F%E6%A9%9F%E6%8E%A8%E5%8B%95%E7%A7%91%E7%A0%94%E6%95%99%E8%82%B2-%E5%A4%A7%E5%8A%9B%E5%9F%B9%E9%A4%8A%E7%A7%91%E7%A0%94%E4%BA%BA%E6%89%8D",
+    "timestamp": "2026-09-10T14:33:24.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩9.12頭獎800萬｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174727529869611008827193.jpeg/hUd6jTufIMruvsjXaR9p6OJUZm8e4XYrEuCBExLggRM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388666/%E5%81%87%E5%86%92%E5%AE%98%E5%93%A1%E9%A8%99%E6%A1%88-19%E6%AD%B2%E5%A5%B3%E5%A4%A7%E5%B0%88%E7%94%9F%E6%94%B6%E5%A0%B1%E9%85%AC%E5%81%9A%E7%89%B9%E5%8B%99-%E9%80%81%E5%81%87%E6%96%87%E4%BB%B6%E6%B6%89-180%E8%90%AC%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-10T06:56:22.522Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩自閉男子加入倡港獨聯盟　官斥行為屬賣國求榮　判囚36至38月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220921/649322143275814912528409.jpeg/EuBpPfHBXye11CoeoQNPUuGOQ03aI6c6GALXDxgC1w8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388717/%E5%85%A9%E8%87%AA%E9%96%89%E7%94%B7%E5%AD%90%E5%8A%A0%E5%85%A5%E5%80%A1%E6%B8%AF%E7%8D%A8%E8%81%AF%E7%9B%9F-%E5%AE%98%E6%96%A5%E8%A1%8C%E7%82%BA%E5%B1%AC%E8%B3%A3%E5%9C%8B%E6%B1%82%E6%A6%AE-%E5%88%A4%E5%9B%9A36%E8%87%B338%E6%9C%88",
-    "timestamp": "2026-09-10T06:32:05.135Z",
     "strategy": ".content-card__main"
   }
 ];
