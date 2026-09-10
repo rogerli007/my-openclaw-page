@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T09:22:05.108Z
+// Last updated: 2026-09-10T09:45:08.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美聯：樓市正走出整固期　料全年樓價升15%　第四季私樓成交增5成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149278104838213632315078.jpeg/0OpWL_N1Q8bhBQ1xoPvw1kuKBMBXLCF7zlhAP-tYQD8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60388833/%E7%BE%8E%E8%81%AF-%E6%A8%93%E5%B8%82%E6%AD%A3%E8%B5%B0%E5%87%BA%E6%95%B4%E5%9B%BA%E6%9C%9F-%E6%96%99%E5%85%A8%E5%B9%B4%E6%A8%93%E5%83%B9%E5%8D%8715-%E7%AC%AC%E5%9B%9B%E5%AD%A3%E7%A7%81%E6%A8%93%E6%88%90%E4%BA%A4%E5%A2%9E5%E6%88%90",
+    "timestamp": "2026-09-10T09:45:08.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教大生涉Ocamp性侵案　陪審團裁被告強姦非禮等5罪成　明日判刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174484618179514368685394.jpeg/c6pFBDBPXCNWbuSKxfHbnp0U1AUp5n5M3Kq2CNyqtgg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388514/%E9%BB%83%E5%AD%90%E8%8F%AF%E7%96%91%E6%BC%94%E5%87%BA%E5%91%A8%E6%AE%B7%E5%BB%B7%E9%A6%96%E5%9F%B7%E5%B0%8E%E4%BD%9C-%E6%94%B9%E7%B7%A880%E5%B9%B4%E4%BB%A3%E9%80%A3%E7%92%B0%E6%AE%BA%E6%89%8B-%E9%9B%A8%E5%A4%9C%E5%B1%A0%E5%A4%AB",
     "timestamp": "2026-09-10T00:47:13.628Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大腸癌年輕化｜32歲男無家族史患三期　醫揭3大傷腸習慣＋4大徵兆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171810505770143744542139.jpeg/mxg7YbBwjCnvvfTO3uSAdM6xRsnEX_4ZggVw5IIFcOQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60384507/%E5%A4%A7%E8%85%B8%E7%99%8C%E5%B9%B4%E8%BC%95%E5%8C%96-32%E6%AD%B2%E7%94%B7%E7%84%A1%E5%AE%B6%E6%97%8F%E5%8F%B2%E6%82%A3%E4%B8%89%E6%9C%9F-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%82%B7%E8%85%B8%E7%BF%92%E6%85%A3-4%E5%A4%A7%E5%BE%B5%E5%85%86",
-    "timestamp": "2026-09-09T23:41:25.635Z",
     "strategy": ".content-card__main"
   }
 ];
