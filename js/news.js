@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T03:23:53.784Z
+// Last updated: 2026-09-10T03:46:14.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋水果｜營養師評8種水果營養1款糖分=4楊桃　柿維他命C=梨15倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174682775043706880104375.jpeg/VGEeovHKnsS3PxX-N6NPyd1HHY0MwWJHcBU_kXAVP5E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60388648/%E4%B8%AD%E7%A7%8B%E6%B0%B4%E6%9E%9C-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%A9%958%E7%A8%AE%E6%B0%B4%E6%9E%9C%E7%87%9F%E9%A4%8A1%E6%AC%BE%E7%B3%96%E5%88%86-4%E6%A5%8A%E6%A1%83-%E6%9F%BF%E7%B6%AD%E4%BB%96%E5%91%BDc-%E6%A2%A815%E5%80%8D",
+    "timestamp": "2026-09-10T03:46:14.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Apple發布會｜iPhone Duo設計純eSIM疑出事　一度傳中國延期上市",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174560899235581952645237.jpeg/KJLOdb83iMxs37mReHoFhE-bJX_8d3zdx0c4GMdHOBg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388547/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC%E5%86%80%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B-%E4%BF%84%E7%83%8F%E9%A0%98%E8%A2%96%E4%BA%92%E7%9B%B8%E6%86%8E%E6%81%A8%E7%AA%92%E7%A4%99%E5%92%8C%E5%B9%B3",
     "timestamp": "2026-09-09T19:40:53.502Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro登場｜首配可變光圈　A20 Pro效能、續航全面升級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174554984214171648923406.jpeg/z2uN0bUXKggAHxvlglPvUzcnAPL6t98_JhjsbSYY7G0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388534/iphone-18-pro%E7%99%BB%E5%A0%B4-%E9%A6%96%E9%85%8D%E5%8F%AF%E8%AE%8A%E5%85%89%E5%9C%88-a20-pro%E6%95%88%E8%83%BD-%E7%BA%8C%E8%88%AA%E5%85%A8%E9%9D%A2%E5%8D%87%E7%B4%9A",
-    "timestamp": "2026-09-09T19:27:40.443Z",
     "strategy": ".content-card__main"
   }
 ];
