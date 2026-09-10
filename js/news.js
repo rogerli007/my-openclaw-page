@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T11:43:22.901Z
+// Last updated: 2026-09-10T12:29:18.775Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo｜內地黃牛價加價¥1千至¥5千　最高標價¥9.9萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174779179556671488427536.jpeg/LIHXQIuHtat7vExd83jadT0KfzOHa7TncIHxIHCB8SA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60388892/iphone-duo-%E5%85%A7%E5%9C%B0%E9%BB%83%E7%89%9B%E5%83%B9%E5%8A%A0%E5%83%B9-1%E5%8D%83%E8%87%B3-5%E5%8D%83-%E6%9C%80%E9%AB%98%E6%A8%99%E5%83%B9-9-9%E8%90%AC",
+    "timestamp": "2026-09-10T12:29:18.775Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大馬「天然草藥咖啡」含偉哥壯陽成分　警深水埗拘一名70歲男子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164937936853012480760493.jpeg/rBob-nQeAoEoPon2f8Z3V6N-TrWkD4DPydYY4MnWGOA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388615/apple%E7%99%BC%E5%B8%83%E6%9C%83-iphone-duo%E8%A8%AD%E8%A8%88%E7%B4%94esim%E7%96%91%E5%87%BA%E4%BA%8B-%E4%B8%80%E5%BA%A6%E5%82%B3%E4%B8%AD%E5%9C%8B%E5%BB%B6%E6%9C%9F%E4%B8%8A%E5%B8%82",
     "timestamp": "2026-09-10T03:23:53.784Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅天宇大方認愛陳懿德獲媽媽肯定　朝結婚邁進：我哋熱戀期好幸福",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174662551435218944782940.jpeg/G1wrMtHZFmH6fGomSQIc_bop7hwKGrEmdAnumXQJ7pk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388592/%E7%BE%85%E5%A4%A9%E5%AE%87%E5%A4%A7%E6%96%B9%E8%AA%8D%E6%84%9B%E9%99%B3%E6%87%BF%E5%BE%B7%E7%8D%B2%E5%AA%BD%E5%AA%BD%E8%82%AF%E5%AE%9A-%E6%9C%9D%E7%B5%90%E5%A9%9A%E9%82%81%E9%80%B2-%E6%88%91%E5%93%8B%E7%86%B1%E6%88%80%E6%9C%9F%E5%A5%BD%E5%B9%B8%E7%A6%8F",
-    "timestamp": "2026-09-10T02:56:59.493Z",
     "strategy": ".content-card__main"
   }
 ];
