@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T13:31:56.165Z
+// Last updated: 2026-09-10T13:54:41.798Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲馬術劇場CAVALLUNA啟德進行綵排　馬會安排基層及長者搶先看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174833827944599552980271.jpeg/slIgdiwQ9JrKfyj_qPuijmBIW_9dXiQpMbiD7DG4g-w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388910/%E6%AD%90%E6%B4%B2%E9%A6%AC%E8%A1%93%E5%8A%87%E5%A0%B4cavalluna%E5%95%9F%E5%BE%B7%E9%80%B2%E8%A1%8C%E7%B6%B5%E6%8E%92-%E9%A6%AC%E6%9C%83%E5%AE%89%E6%8E%92%E5%9F%BA%E5%B1%A4%E5%8F%8A%E9%95%B7%E8%80%85%E6%90%B6%E5%85%88%E7%9C%8B",
+    "timestamp": "2026-09-10T13:54:41.798Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本多地食肆遇外國女子強行兜售國旗　專家籲別妥協　免助長滋擾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174675653711106048428159.jpeg/JSZv8KpBmEPUXrqX5jszNFRVJ_sgAvjb4h18dOIdfHQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60388587/%E5%8F%B0%E7%81%A3%E5%85%84%E5%A6%B9%E8%AA%98%E9%A8%99%E6%B1%82%E8%81%B7%E8%80%85%E8%B5%B4%E9%99%B8%E6%91%98%E5%99%A8%E5%AE%98-%E6%AF%8F%E5%90%8D%E5%8F%AF%E8%B3%BA240%E8%90%AC%E6%AA%A2%E6%96%B9%E6%B1%82%E8%99%95%E9%87%8D%E5%88%91",
     "timestamp": "2026-09-10T05:56:08.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀彌敦道中型貨車撼低交通燈柱　網民：呢個彎唔係咁易過嘅！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174697411742797824106957.jpeg/6QFTKStb-NFVIOFzN81YJH0rY7XbuuFIstuCLbLbgi0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388680/%E5%B0%96%E6%B2%99%E5%92%80%E5%BD%8C%E6%95%A6%E9%81%93%E4%B8%AD%E5%9E%8B%E8%B2%A8%E8%BB%8A%E6%92%BC%E4%BD%8E%E4%BA%A4%E9%80%9A%E7%87%88%E6%9F%B1-%E7%B6%B2%E6%B0%91-%E5%91%A2%E5%80%8B%E5%BD%8E%E5%94%94%E4%BF%82%E5%92%81%E6%98%93%E9%81%8E%E5%98%85",
-    "timestamp": "2026-09-10T04:54:45.878Z",
     "strategy": ".content-card__main"
   }
 ];
