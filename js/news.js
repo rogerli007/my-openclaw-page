@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T09:58:08.091Z
+// Last updated: 2026-09-10T10:53:56.079Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo vs Galaxy Z Fold 8規格對比：Apple首款摺機值得買嗎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174777127959007232073149.jpeg/oHU1x1U0sNCyUp6MBqUXAyMlNEtr4O4umDLlMJgy5TA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388822/iphone-duo-vs-galaxy-z-fold-8%E8%A6%8F%E6%A0%BC%E5%B0%8D%E6%AF%94-apple%E9%A6%96%E6%AC%BE%E6%91%BA%E6%A9%9F%E5%80%BC%E5%BE%97%E8%B2%B7%E5%97%8E",
+    "timestamp": "2026-09-10T10:53:56.079Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "14歲少女涉與5男性交　與YouTuber交歡　猜錯對方年齡遭箍頸及打",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174404571372457984468902.png/RU4o6ANrzfUOfBVNtosAWobeNrjAlSvGHEd4CRxHeAk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388372/%E5%8A%89%E5%BE%B7%E8%8F%AF%E8%AB%87%E5%87%BA%E9%81%9340%E9%A4%98%E5%B9%B4%E6%84%9F%E6%82%9F-%E5%9D%A6%E8%A8%80%E6%AD%B7%E5%A4%9A%E6%AC%A1%E9%81%B8%E6%93%87-%E5%BF%AB65%E6%AD%B2%E6%89%8D%E6%9C%83%E4%B8%89%E6%80%9D%E8%80%8C%E5%BE%8C%E8%A1%8C",
     "timestamp": "2026-09-10T01:38:30.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜外媒質疑隱匿吉隆災情　新聞治理應從闢謠轉向制度化透明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174061016783261696957631.jpeg/hKgCswfUIQ0uepkm_41AVK9wy4Dj6aRXWhh4FVoYeBU?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60387858/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E8%B3%AA%E7%96%91%E9%9A%B1%E5%8C%BF%E5%90%89%E9%9A%86%E7%81%BD%E6%83%85-%E6%96%B0%E8%81%9E%E6%B2%BB%E7%90%86%E6%87%89%E5%BE%9E%E9%97%A2%E8%AC%A0%E8%BD%89%E5%90%91%E5%88%B6%E5%BA%A6%E5%8C%96%E9%80%8F%E6%98%8E",
-    "timestamp": "2026-09-10T01:17:37.830Z",
     "strategy": ".content-card__main"
   }
 ];
