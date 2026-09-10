@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T02:56:59.493Z
+// Last updated: 2026-09-10T03:23:53.784Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Apple發布會｜iPhone Duo設計純eSIM疑出事　一度傳中國延期上市",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164937936853012480760493.jpeg/rBob-nQeAoEoPon2f8Z3V6N-TrWkD4DPydYY4MnWGOA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388615/apple%E7%99%BC%E5%B8%83%E6%9C%83-iphone-duo%E8%A8%AD%E8%A8%88%E7%B4%94esim%E7%96%91%E5%87%BA%E4%BA%8B-%E4%B8%80%E5%BA%A6%E5%82%B3%E4%B8%AD%E5%9C%8B%E5%BB%B6%E6%9C%9F%E4%B8%8A%E5%B8%82",
+    "timestamp": "2026-09-10T03:23:53.784Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅天宇大方認愛陳懿德獲媽媽肯定　朝結婚邁進：我哋熱戀期好幸福",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174554984214171648923406.jpeg/z2uN0bUXKggAHxvlglPvUzcnAPL6t98_JhjsbSYY7G0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388534/iphone-18-pro%E7%99%BB%E5%A0%B4-%E9%A6%96%E9%85%8D%E5%8F%AF%E8%AE%8A%E5%85%89%E5%9C%88-a20-pro%E6%95%88%E8%83%BD-%E7%BA%8C%E8%88%AA%E5%85%A8%E9%9D%A2%E5%8D%87%E7%B4%9A",
     "timestamp": "2026-09-09T19:27:40.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro登場｜首配可變光圈　A20 Pro效能、續航全面升級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174547166773907456283907.jpeg/TYPTN3sbVL3k8MBRpLRO1ZYkt_HlEW5ESM-ND0jPjQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388534/iphone-18-pro%E7%99%BB%E5%A0%B4-%E9%A6%96%E9%85%8D%E5%8F%AF%E8%AE%8A%E5%85%89%E5%9C%88-a20-pro%E6%95%88%E8%83%BD-%E7%BA%8C%E8%88%AA%E5%85%A8%E9%9D%A2%E5%8D%87%E7%B4%9A",
-    "timestamp": "2026-09-09T18:53:43.357Z",
     "strategy": ".content-card__main"
   }
 ];
