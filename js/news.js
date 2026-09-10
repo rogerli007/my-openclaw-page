@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T07:54:17.398Z
+// Last updated: 2026-09-10T08:27:34.643Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地「十五五」財金政策登場！證監縮短IPO審核　中美研降稅300億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158493154677100544157634.jpeg/vfGUFNNr_vV9mskquuBqByRnAfSFRlClzQQVuM0EFbg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388768/%E5%85%A7%E5%9C%B0-%E5%8D%81%E4%BA%94%E4%BA%94-%E8%B2%A1%E9%87%91%E6%94%BF%E7%AD%96%E7%99%BB%E5%A0%B4-%E8%AD%89%E7%9B%A3%E7%B8%AE%E7%9F%ADipo%E5%AF%A9%E6%A0%B8-%E4%B8%AD%E7%BE%8E%E7%A0%94%E9%99%8D%E7%A8%85300%E5%84%84",
+    "timestamp": "2026-09-10T08:27:34.643Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "成人ADHD點分辨？精神科醫生拆解症狀與評估",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174607845442719744482310.jpeg/bNq20XKNrFyQL3DxA8WSO6JdcNSQ6CEofudRnn7nUZ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388558/%E8%A5%BF%E8%B2%A2%E5%85%A9%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-%E5%85%A9%E4%BD%8F%E6%88%B6%E5%85%B1%E6%90%8D%E5%A4%B1-47%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E6%89%8B%E9%8C%B6",
     "timestamp": "2026-09-09T22:53:54.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啟德簡約公屋女嬰昏迷　送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174602894851182592589213.jpeg/arDsG5Fjl4-4CLDKb2MhGN1nCGwcVZD-YwcAmlkHAJo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388556/%E5%95%9F%E5%BE%B7%E7%B0%A1%E7%B4%84%E5%85%AC%E5%B1%8B%E5%A5%B3%E5%AC%B0%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-09T22:29:28.875Z",
     "strategy": ".content-card__main"
   }
 ];
