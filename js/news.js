@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T09:45:08.993Z
+// Last updated: 2026-09-10T09:58:08.091Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "14歲少女涉與5男性交　與YouTuber交歡　猜錯對方年齡遭箍頸及打",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174445823958716416341650.jpeg/7dqohMBvvkBjoMc0knOGqlWWY6Mt64x6v0XafJpF2nw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388841/14%E6%AD%B2%E5%B0%91%E5%A5%B3%E6%B6%89%E8%88%875%E7%94%B7%E6%80%A7%E4%BA%A4-%E8%88%87youtuber%E4%BA%A4%E6%AD%A1-%E7%8C%9C%E9%8C%AF%E5%B0%8D%E6%96%B9%E5%B9%B4%E9%BD%A1%E9%81%AD%E7%AE%8D%E9%A0%B8%E5%8F%8A%E6%89%93",
+    "timestamp": "2026-09-10T09:58:08.091Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯：樓市正走出整固期　料全年樓價升15%　第四季私樓成交增5成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174061016783261696957631.jpeg/hKgCswfUIQ0uepkm_41AVK9wy4Dj6aRXWhh4FVoYeBU?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60387858/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E8%B3%AA%E7%96%91%E9%9A%B1%E5%8C%BF%E5%90%89%E9%9A%86%E7%81%BD%E6%83%85-%E6%96%B0%E8%81%9E%E6%B2%BB%E7%90%86%E6%87%89%E5%BE%9E%E9%97%A2%E8%AC%A0%E8%BD%89%E5%90%91%E5%88%B6%E5%BA%A6%E5%8C%96%E9%80%8F%E6%98%8E",
     "timestamp": "2026-09-10T01:17:37.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃子華疑演出周殷廷首執導作　改編80年代連環殺手「雨夜屠夫」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174484618179514368685394.jpeg/c6pFBDBPXCNWbuSKxfHbnp0U1AUp5n5M3Kq2CNyqtgg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388514/%E9%BB%83%E5%AD%90%E8%8F%AF%E7%96%91%E6%BC%94%E5%87%BA%E5%91%A8%E6%AE%B7%E5%BB%B7%E9%A6%96%E5%9F%B7%E5%B0%8E%E4%BD%9C-%E6%94%B9%E7%B7%A880%E5%B9%B4%E4%BB%A3%E9%80%A3%E7%92%B0%E6%AE%BA%E6%89%8B-%E9%9B%A8%E5%A4%9C%E5%B1%A0%E5%A4%AB",
-    "timestamp": "2026-09-10T00:47:13.628Z",
     "strategy": ".content-card__main"
   }
 ];
