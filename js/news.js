@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T15:00:24.960Z
+// Last updated: 2026-09-10T15:20:21.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳庭欣自爆偏愛熟男　不介意與謝東閔組情侶檔：中秋搞場友誼波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174793743283261440493865.jpeg/RkGoj80q53KinIxxJyQZc6nHVT9MgD6vnE93JKZPdyQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388877/%E9%99%B3%E5%BA%AD%E6%AC%A3%E8%87%AA%E7%88%86%E5%81%8F%E6%84%9B%E7%86%9F%E7%94%B7-%E4%B8%8D%E4%BB%8B%E6%84%8F%E8%88%87%E8%AC%9D%E6%9D%B1%E9%96%94%E7%B5%84%E6%83%85%E4%BE%B6%E6%AA%94-%E4%B8%AD%E7%A7%8B%E6%90%9E%E5%A0%B4%E5%8F%8B%E8%AA%BC%E6%B3%A2",
+    "timestamp": "2026-09-10T15:20:21.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古洞北今明兩年1.2萬單位落成　預留用地發展國家成就博物館",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174691658755739648820571.jpeg/3wT4qCzFnkeksaeScf7MQQm5s1b1EhOe2KA6L9igOi8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60388672/%E6%88%90%E4%BA%BAadhd%E9%BB%9E%E5%88%86%E8%BE%A8-%E7%B2%BE%E7%A5%9E%E7%A7%91%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A3%E7%97%87%E7%8B%80%E8%88%87%E8%A9%95%E4%BC%B0",
     "timestamp": "2026-09-10T07:54:17.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社：習近平訪美前夕　中方單周採購100萬噸美國大豆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132472496374026240690143.jpeg/k7ihxtt-mjnt8QAzhDN49C_vfbymOR_IB2idJgdonSY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388730/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E5%89%8D%E5%A4%95-%E4%B8%AD%E6%96%B9%E5%96%AE%E5%91%A8%E6%8E%A1%E8%B3%BC100%E8%90%AC%E5%99%B8%E7%BE%8E%E5%9C%8B%E5%A4%A7%E8%B1%86",
-    "timestamp": "2026-09-10T07:44:14.972Z",
     "strategy": ".content-card__main"
   }
 ];
