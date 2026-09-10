@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T12:29:18.775Z
+// Last updated: 2026-09-10T12:51:05.174Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "流感｜黃大仙醫院2病房爆疫　8長者病人、2職員染甲流　情況穩定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/374398/org/2ad2a22ead85e36e1fb80ea463620fde.jpg/DOdhiZcTi3qw7terrqWZ0_yIAJsMyQ2v01ap5dNWqeU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388899/%E6%B5%81%E6%84%9F-%E9%BB%83%E5%A4%A7%E4%BB%99%E9%86%AB%E9%99%A22%E7%97%85%E6%88%BF%E7%88%86%E7%96%AB-8%E9%95%B7%E8%80%85%E7%97%85%E4%BA%BA-2%E8%81%B7%E5%93%A1%E6%9F%93%E7%94%B2%E6%B5%81-%E6%83%85%E6%B3%81%E7%A9%A9%E5%AE%9A",
+    "timestamp": "2026-09-10T12:51:05.174Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo｜內地黃牛價加價¥1千至¥5千　最高標價¥9.9萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174682775043706880104375.jpeg/VGEeovHKnsS3PxX-N6NPyd1HHY0MwWJHcBU_kXAVP5E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60388648/%E4%B8%AD%E7%A7%8B%E6%B0%B4%E6%9E%9C-%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%A9%958%E7%A8%AE%E6%B0%B4%E6%9E%9C%E7%87%9F%E9%A4%8A1%E6%AC%BE%E7%B3%96%E5%88%86-4%E6%A5%8A%E6%A1%83-%E6%9F%BF%E7%B6%AD%E4%BB%96%E5%91%BDc-%E6%A2%A815%E5%80%8D",
     "timestamp": "2026-09-10T03:46:14.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Apple發布會｜iPhone Duo設計純eSIM疑出事　一度傳中國延期上市",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260814/1164937936853012480760493.jpeg/rBob-nQeAoEoPon2f8Z3V6N-TrWkD4DPydYY4MnWGOA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388615/apple%E7%99%BC%E5%B8%83%E6%9C%83-iphone-duo%E8%A8%AD%E8%A8%88%E7%B4%94esim%E7%96%91%E5%87%BA%E4%BA%8B-%E4%B8%80%E5%BA%A6%E5%82%B3%E4%B8%AD%E5%9C%8B%E5%BB%B6%E6%9C%9F%E4%B8%8A%E5%B8%82",
-    "timestamp": "2026-09-10T03:23:53.784Z",
     "strategy": ".content-card__main"
   }
 ];
