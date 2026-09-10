@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T15:20:21.824Z
+// Last updated: 2026-09-10T15:42:28.914Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鼓鼓台中簽唱會化身最暖樹洞陪伴歌迷落淚　MV破百萬透露客串戲劇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174768082820796416154863.jpeg/INpUVfmaGGOzWumNhZrVrN-kbDysYMlcFkYu6xZGLus?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60388812/%E9%BC%93%E9%BC%93%E5%8F%B0%E4%B8%AD%E7%B0%BD%E5%94%B1%E6%9C%83%E5%8C%96%E8%BA%AB%E6%9C%80%E6%9A%96%E6%A8%B9%E6%B4%9E%E9%99%AA%E4%BC%B4%E6%AD%8C%E8%BF%B7%E8%90%BD%E6%B7%9A-mv%E7%A0%B4%E7%99%BE%E8%90%AC%E9%80%8F%E9%9C%B2%E5%AE%A2%E4%B8%B2%E6%88%B2%E5%8A%87",
+    "timestamp": "2026-09-10T15:42:28.914Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳庭欣自爆偏愛熟男　不介意與謝東閔組情侶檔：中秋搞場友誼波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158493154677100544157634.jpeg/vfGUFNNr_vV9mskquuBqByRnAfSFRlClzQQVuM0EFbg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388768/%E5%85%A7%E5%9C%B0-%E5%8D%81%E4%BA%94%E4%BA%94-%E8%B2%A1%E9%87%91%E6%94%BF%E7%AD%96%E7%99%BB%E5%A0%B4-%E8%AD%89%E7%9B%A3%E7%B8%AE%E7%9F%ADipo%E5%AF%A9%E6%A0%B8-%E4%B8%AD%E7%BE%8E%E7%A0%94%E9%99%8D%E7%A8%85300%E5%84%84",
     "timestamp": "2026-09-10T08:27:34.643Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "成人ADHD點分辨？精神科醫生拆解症狀與評估",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174691658755739648820571.jpeg/3wT4qCzFnkeksaeScf7MQQm5s1b1EhOe2KA6L9igOi8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60388672/%E6%88%90%E4%BA%BAadhd%E9%BB%9E%E5%88%86%E8%BE%A8-%E7%B2%BE%E7%A5%9E%E7%A7%91%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A3%E7%97%87%E7%8B%80%E8%88%87%E8%A9%95%E4%BC%B0",
-    "timestamp": "2026-09-10T07:54:17.398Z",
     "strategy": ".content-card__main"
   }
 ];
