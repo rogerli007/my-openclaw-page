@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T14:33:24.209Z
+// Last updated: 2026-09-10T14:46:19.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警土瓜灣街頭發現失車搜出毒品　拘38歲男涉藏毒偷車等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174849405195390976862593.jpeg/68enAdUxOiwhOb1-GZ1rmMz7zE7k1cCJIYCKxiGAisY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388922/%E8%AD%A6%E5%9C%9F%E7%93%9C%E7%81%A3%E8%A1%97%E9%A0%AD%E7%99%BC%E7%8F%BE%E5%A4%B1%E8%BB%8A%E6%90%9C%E5%87%BA%E6%AF%92%E5%93%81-%E6%8B%9838%E6%AD%B2%E7%94%B7%E6%B6%89%E8%97%8F%E6%AF%92%E5%81%B7%E8%BB%8A%E7%AD%89",
+    "timestamp": "2026-09-10T14:46:19.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天宮課堂｜林建岳：港府應借機推動科研教育　大力培養科研人才",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174738189294768128850914.png/6gyTrXP3dT2bET7ltrvqbYse3bDFYqDIb9o4U2_aOFM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388741/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%93%AC%E6%8E%A1%E7%94%A8-%E5%8C%96%E5%AD%B8%E9%96%B9%E5%89%B2-%E9%87%8D%E7%BD%B0%E6%80%A7%E7%BD%AA%E7%8A%AF-%E5%86%80%E6%B8%9B%E5%B0%91%E7%9B%B8%E9%97%9C%E7%8A%AF%E7%BD%AA%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-09-10T07:22:24.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "假冒官員騙案｜19歲女大專生收報酬做特務　送假文件涉$180萬被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174727529869611008827193.jpeg/hUd6jTufIMruvsjXaR9p6OJUZm8e4XYrEuCBExLggRM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388666/%E5%81%87%E5%86%92%E5%AE%98%E5%93%A1%E9%A8%99%E6%A1%88-19%E6%AD%B2%E5%A5%B3%E5%A4%A7%E5%B0%88%E7%94%9F%E6%94%B6%E5%A0%B1%E9%85%AC%E5%81%9A%E7%89%B9%E5%8B%99-%E9%80%81%E5%81%87%E6%96%87%E4%BB%B6%E6%B6%89-180%E8%90%AC%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-10T06:56:22.522Z",
     "strategy": ".content-card__main"
   }
 ];
