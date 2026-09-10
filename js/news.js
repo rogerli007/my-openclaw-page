@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T15:53:54.719Z
+// Last updated: 2026-09-10T16:21:12.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國最高法院阻密蘇里新選區重劃地圖生效　共和黨眾議院優勢受挫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132319767642771456269073.jpeg/YAPRE6lhANkDOrZwThfqrkJfh3YP98X-mAzGCZgMxgk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388933/%E7%BE%8E%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E9%98%BB%E5%AF%86%E8%98%87%E9%87%8C%E6%96%B0%E9%81%B8%E5%8D%80%E9%87%8D%E5%8A%83%E5%9C%B0%E5%9C%96%E7%94%9F%E6%95%88-%E5%85%B1%E5%92%8C%E9%BB%A8%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%84%AA%E5%8B%A2%E5%8F%97%E6%8C%AB",
+    "timestamp": "2026-09-10T16:21:12.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國情報機構：金正恩女兒金主愛接受接班人培養　有一名年幼弟妹",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120373677586649088503729.jpeg/l4bUCqVvr--LG2zj5tTOM93j_BX9wtXPqnIltqpyJbY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388684/%E6%95%99%E5%A4%A7%E7%94%9F%E6%B6%89ocamp%E6%80%A7%E4%BE%B5%E6%A1%88-%E9%99%AA%E5%AF%A9%E5%9C%98%E8%A3%81%E8%A2%AB%E5%91%8A%E5%BC%B7%E5%A7%A6%E9%9D%9E%E7%A6%AE%E7%AD%895%E7%BD%AA%E6%88%90-%E6%98%8E%E6%97%A5%E5%88%A4%E5%88%91",
     "timestamp": "2026-09-10T09:22:05.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "證監會出手整頓IPO！　撥康視雲勒令停牌　股份需求或涉人為操縱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058442269666840576071384.jpeg/O90aabkL9NaGQfAcapMK-Q9eMgSVZpB1pahAQqWoQEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388792/%E8%AD%89%E7%9B%A3%E6%9C%83%E5%87%BA%E6%89%8B%E6%95%B4%E9%A0%93ipo-%E6%92%A5%E5%BA%B7%E8%A6%96%E9%9B%B2%E5%8B%92%E4%BB%A4%E5%81%9C%E7%89%8C-%E8%82%A1%E4%BB%BD%E9%9C%80%E6%B1%82%E6%88%96%E6%B6%89%E4%BA%BA%E7%82%BA%E6%93%8D%E7%B8%B1",
-    "timestamp": "2026-09-10T08:47:14.624Z",
     "strategy": ".content-card__main"
   }
 ];
