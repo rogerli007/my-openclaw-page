@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T01:59:46.415Z
+// Last updated: 2026-09-10T02:47:50.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅天宇大方認愛陳懿德獲媽媽肯定　朝結婚邁進：我哋熱戀期好幸福",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174662551435218944782940.jpeg/G1wrMtHZFmH6fGomSQIc_bop7hwKGrEmdAnumXQJ7pk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388592/%E7%BE%85%E5%A4%A9%E5%AE%87%E5%A4%A7%E6%96%B9%E8%AA%8D%E6%84%9B%E9%99%B3%E6%87%BF%E5%BE%B7%E7%8D%B2%E5%AA%BD%E5%AA%BD%E8%82%AF%E5%AE%9A-%E6%9C%9D%E7%B5%90%E5%A9%9A%E9%82%81%E9%80%B2-%E6%88%91%E5%93%8B%E7%86%B1%E6%88%80%E6%9C%9F%E5%A5%BD%E5%B9%B8%E7%A6%8F",
+    "timestamp": "2026-09-10T02:47:50.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "久守必失！港股挫逾330點穿25000點大關　科技股走樣｜港股異動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174533952287805440298135.jpeg/LSlvW1QDxQGI35QBWP6ckaK_32rZM-C2xWQqzcVkKs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388535/%E4%B8%80%E5%B8%B6%E4%B8%80%E8%B7%AF-%E6%8A%95%E8%B3%87%E6%8E%A8%E5%BB%A3%E7%BD%B2%E8%88%87%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%8B%E4%BA%A4%E6%8F%9B%E5%82%99%E5%BF%98%E9%8C%84-%E5%90%88%E4%BD%9C%E4%BF%83%E9%80%B2%E9%9B%99%E5%90%91%E6%8A%95%E8%B3%87",
     "timestamp": "2026-09-09T17:53:53.524Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廉署與摩洛哥、泰國交換備忘錄　加強反貪合作共建廉潔絲路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174525576074104832485390.jpeg/qpv3XCno6jXlaA_cfF1Rp5GFVoJtZin0koCtR5KArUc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388530/%E5%BB%89%E7%BD%B2%E8%88%87%E6%91%A9%E6%B4%9B%E5%93%A5-%E6%B3%B0%E5%9C%8B%E4%BA%A4%E6%8F%9B%E5%82%99%E5%BF%98%E9%8C%84-%E5%8A%A0%E5%BC%B7%E5%8F%8D%E8%B2%AA%E5%90%88%E4%BD%9C%E5%85%B1%E5%BB%BA%E5%BB%89%E6%BD%94%E7%B5%B2%E8%B7%AF",
-    "timestamp": "2026-09-09T17:41:43.607Z",
     "strategy": ".content-card__main"
   }
 ];
