@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T04:23:44.248Z
+// Last updated: 2026-09-10T04:54:45.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀彌敦道中型貨車撼低交通燈柱　網民：呢個彎唔係咁易過嘅！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174697411742797824106957.jpeg/6QFTKStb-NFVIOFzN81YJH0rY7XbuuFIstuCLbLbgi0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388680/%E5%B0%96%E6%B2%99%E5%92%80%E5%BD%8C%E6%95%A6%E9%81%93%E4%B8%AD%E5%9E%8B%E8%B2%A8%E8%BB%8A%E6%92%BC%E4%BD%8E%E4%BA%A4%E9%80%9A%E7%87%88%E6%9F%B1-%E7%B6%B2%E6%B0%91-%E5%91%A2%E5%80%8B%E5%BD%8E%E5%94%94%E4%BF%82%E5%92%81%E6%98%93%E9%81%8E%E5%98%85",
+    "timestamp": "2026-09-10T04:54:45.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜阿仙奴隊長奧迪加特走出低潮　轟「世界波」領軍勝拿玻里",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174564327449956352436507.jpeg/8amr0JWABBO8UCNp3IGL3uCynrTL9mo_sLQf97C0H_c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388546/apple-watch-series-12-ultra-4%E7%99%BB%E5%A0%B4-s11%E6%99%B6%E7%89%87%E5%85%A8%E9%9D%A2%E5%BC%B7%E5%8C%96%E5%81%A5%E5%BA%B7%E5%81%B5%E6%B8%AC",
     "timestamp": "2026-09-09T20:20:31.539Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：普京冀達成協議結束戰事　俄烏領袖互相憎恨窒礙和平",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174560899235581952645237.jpeg/KJLOdb83iMxs37mReHoFhE-bJX_8d3zdx0c4GMdHOBg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388547/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC%E5%86%80%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B-%E4%BF%84%E7%83%8F%E9%A0%98%E8%A2%96%E4%BA%92%E7%9B%B8%E6%86%8E%E6%81%A8%E7%AA%92%E7%A4%99%E5%92%8C%E5%B9%B3",
-    "timestamp": "2026-09-09T19:53:11.335Z",
     "strategy": ".content-card__main"
   }
 ];
