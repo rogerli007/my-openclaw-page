@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T19:42:16.760Z
+// Last updated: 2026-09-10T19:53:53.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "圓方對開工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B0%8D%E9%96%8B%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
+    "timestamp": "2026-09-10T19:53:53.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "圓方對開工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174817434490769408430918.png/ak0K7mTngCA1679_1DrRJbTD2Y0Jk-69qYGoRqmBqEY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388901/%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E9%A3%9F%E8%82%86%E9%81%87%E5%A4%96%E5%9C%8B%E5%A5%B3%E5%AD%90%E5%BC%B7%E8%A1%8C%E5%85%9C%E5%94%AE%E5%9C%8B%E6%97%97-%E5%B0%88%E5%AE%B6%E7%B1%B2%E5%88%A5%E5%A6%A5%E5%8D%94-%E5%85%8D%E5%8A%A9%E9%95%B7%E6%BB%8B%E6%93%BE",
     "timestamp": "2026-09-10T13:31:56.165Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《女神配對計劃2》Oscar接受大10年姐姐　曾失戀暴瘦剩48kg日夜喊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174773626155569152350629.jpeg/c9UcNQ4F_FC98LIDbVbhQnQiejSfG2DRoDgJVaA4CVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388820/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-oscar%E6%8E%A5%E5%8F%97%E5%A4%A710%E5%B9%B4%E5%A7%90%E5%A7%90-%E6%9B%BE%E5%A4%B1%E6%88%80%E6%9A%B4%E7%98%A6%E5%89%A948kg%E6%97%A5%E5%A4%9C%E5%96%8A",
-    "timestamp": "2026-09-10T13:19:28.703Z",
     "strategy": ".content-card__main"
   }
 ];
