@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T20:54:25.159Z
+// Last updated: 2026-09-10T21:17:16.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜曼聯4：0擊敗沙巴FC",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174947547832127488267394.jpeg/z0x78Kn6_j9WtmjxgFNX7yc0m0aPB4Ckm54du5ueHbs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388947/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF4-0%E6%93%8A%E6%95%97%E6%B2%99%E5%B7%B4fc",
+    "timestamp": "2026-09-10T21:17:16.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞士旅遊巴翻側多人死傷　荷蘭旅行社：48人團9.7出發",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174849405195390976862593.jpeg/68enAdUxOiwhOb1-GZ1rmMz7zE7k1cCJIYCKxiGAisY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388922/%E8%AD%A6%E5%9C%9F%E7%93%9C%E7%81%A3%E8%A1%97%E9%A0%AD%E7%99%BC%E7%8F%BE%E5%A4%B1%E8%BB%8A%E6%90%9C%E5%87%BA%E6%AF%92%E5%93%81-%E6%8B%9838%E6%AD%B2%E7%94%B7%E6%B6%89%E8%97%8F%E6%AF%92%E5%81%B7%E8%BB%8A%E7%AD%89",
     "timestamp": "2026-09-10T14:46:19.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天宮課堂｜林建岳：港府應借機推動科研教育　大力培養科研人才",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174846002725654528439267.jpeg/XiN1tCLaUaqHmx80eJB1XVKIxV5Z7UBLK_BYuyvwWLs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60388907/%E5%A4%A9%E5%AE%AE%E8%AA%B2%E5%A0%82-%E6%9E%97%E5%BB%BA%E5%B2%B3-%E6%B8%AF%E5%BA%9C%E6%87%89%E5%80%9F%E6%A9%9F%E6%8E%A8%E5%8B%95%E7%A7%91%E7%A0%94%E6%95%99%E8%82%B2-%E5%A4%A7%E5%8A%9B%E5%9F%B9%E9%A4%8A%E7%A7%91%E7%A0%94%E4%BA%BA%E6%89%8D",
-    "timestamp": "2026-09-10T14:33:24.209Z",
     "strategy": ".content-card__main"
   }
 ];
