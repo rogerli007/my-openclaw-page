@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T08:47:14.624Z
+// Last updated: 2026-09-10T09:22:05.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教大生涉Ocamp性侵案　陪審團裁被告強姦非禮等5罪成　明日判刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260413/1120373677586649088503729.jpeg/l4bUCqVvr--LG2zj5tTOM93j_BX9wtXPqnIltqpyJbY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388684/%E6%95%99%E5%A4%A7%E7%94%9F%E6%B6%89ocamp%E6%80%A7%E4%BE%B5%E6%A1%88-%E9%99%AA%E5%AF%A9%E5%9C%98%E8%A3%81%E8%A2%AB%E5%91%8A%E5%BC%B7%E5%A7%A6%E9%9D%9E%E7%A6%AE%E7%AD%895%E7%BD%AA%E6%88%90-%E6%98%8E%E6%97%A5%E5%88%A4%E5%88%91",
+    "timestamp": "2026-09-10T09:22:05.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "證監會出手整頓IPO！　撥康視雲勒令停牌　股份需求或涉人為操縱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171810505770143744542139.jpeg/mxg7YbBwjCnvvfTO3uSAdM6xRsnEX_4ZggVw5IIFcOQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60384507/%E5%A4%A7%E8%85%B8%E7%99%8C%E5%B9%B4%E8%BC%95%E5%8C%96-32%E6%AD%B2%E7%94%B7%E7%84%A1%E5%AE%B6%E6%97%8F%E5%8F%B2%E6%82%A3%E4%B8%89%E6%9C%9F-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%82%B7%E8%85%B8%E7%BF%92%E6%85%A3-4%E5%A4%A7%E5%BE%B5%E5%85%86",
     "timestamp": "2026-09-09T23:41:25.635Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo面世｜iPhone 17 Air 17e 16舊機全線加價最高加$2,800",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174614735488815104027958.png/FBHiCBisLX5NfVqVSR9Jj3-IEJIvu9lv-bekc_m3pHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388554/iphone-duo%E9%9D%A2%E4%B8%96-iphone-17-air-17e-16%E8%88%8A%E6%A9%9F%E5%85%A8%E7%B7%9A%E5%8A%A0%E5%83%B9%E6%9C%80%E9%AB%98%E5%8A%A0-2-800",
-    "timestamp": "2026-09-09T23:29:50.917Z",
     "strategy": ".content-card__main"
   }
 ];
