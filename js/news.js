@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T16:53:53.836Z
+// Last updated: 2026-09-10T17:18:07.937Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣貨車衝紅燈險撞3名女學生　司機同日落網　案件將提堂｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174870444994465792250187.jpeg/ykQeWTr3JkUmlrYBXqV9eZJQjVBxKz_RESgZoxEoGaM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388928/%E8%8D%83%E7%81%A3%E8%B2%A8%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E3%E5%90%8D%E5%A5%B3%E5%AD%B8%E7%94%9F-%E5%8F%B8%E6%A9%9F%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2-%E6%A1%88%E4%BB%B6%E5%B0%87%E6%8F%90%E5%A0%82-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-10T17:18:07.937Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣貨車衝紅燈險撞3名女學生　司機同日落網　案件將提堂｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174777127959007232073149.jpeg/oHU1x1U0sNCyUp6MBqUXAyMlNEtr4O4umDLlMJgy5TA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388822/iphone-duo-vs-galaxy-z-fold-8%E8%A6%8F%E6%A0%BC%E5%B0%8D%E6%AF%94-apple%E9%A6%96%E6%AC%BE%E6%91%BA%E6%A9%9F%E5%80%BC%E5%BE%97%E8%B2%B7%E5%97%8E",
     "timestamp": "2026-09-10T10:53:56.079Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "14歲少女涉與5男性交　與YouTuber交歡　猜錯對方年齡遭箍頸及打",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174445823958716416341650.jpeg/7dqohMBvvkBjoMc0knOGqlWWY6Mt64x6v0XafJpF2nw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388841/14%E6%AD%B2%E5%B0%91%E5%A5%B3%E6%B6%89%E8%88%875%E7%94%B7%E6%80%A7%E4%BA%A4-%E8%88%87youtuber%E4%BA%A4%E6%AD%A1-%E7%8C%9C%E9%8C%AF%E5%B0%8D%E6%96%B9%E5%B9%B4%E9%BD%A1%E9%81%AD%E7%AE%8D%E9%A0%B8%E5%8F%8A%E6%89%93",
-    "timestamp": "2026-09-10T09:58:08.091Z",
     "strategy": ".content-card__main"
   }
 ];
