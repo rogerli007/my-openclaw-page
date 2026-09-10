@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T13:19:28.703Z
+// Last updated: 2026-09-10T13:31:56.165Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本多地食肆遇外國女子強行兜售國旗　專家籲別妥協　免助長滋擾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174817434490769408430918.png/ak0K7mTngCA1679_1DrRJbTD2Y0Jk-69qYGoRqmBqEY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388901/%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E9%A3%9F%E8%82%86%E9%81%87%E5%A4%96%E5%9C%8B%E5%A5%B3%E5%AD%90%E5%BC%B7%E8%A1%8C%E5%85%9C%E5%94%AE%E5%9C%8B%E6%97%97-%E5%B0%88%E5%AE%B6%E7%B1%B2%E5%88%A5%E5%A6%A5%E5%8D%94-%E5%85%8D%E5%8A%A9%E9%95%B7%E6%BB%8B%E6%93%BE",
+    "timestamp": "2026-09-10T13:31:56.165Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《女神配對計劃2》Oscar接受大10年姐姐　曾失戀暴瘦剩48kg日夜喊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174697411742797824106957.jpeg/6QFTKStb-NFVIOFzN81YJH0rY7XbuuFIstuCLbLbgi0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388680/%E5%B0%96%E6%B2%99%E5%92%80%E5%BD%8C%E6%95%A6%E9%81%93%E4%B8%AD%E5%9E%8B%E8%B2%A8%E8%BB%8A%E6%92%BC%E4%BD%8E%E4%BA%A4%E9%80%9A%E7%87%88%E6%9F%B1-%E7%B6%B2%E6%B0%91-%E5%91%A2%E5%80%8B%E5%BD%8E%E5%94%94%E4%BF%82%E5%92%81%E6%98%93%E9%81%8E%E5%98%85",
     "timestamp": "2026-09-10T04:54:45.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜阿仙奴隊長奧迪加特走出低潮　轟「世界波」領軍勝拿玻里",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174675251640930304609437.jpeg/jy7GTExrv9-_lwDsPE5xbpTKmqs7-bqmvPSsM7z0rDM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388568/%E6%AD%90%E8%81%AF-%E9%98%BF%E4%BB%99%E5%A5%B4%E9%9A%8A%E9%95%B7%E5%A5%A7%E8%BF%AA%E5%8A%A0%E7%89%B9%E8%B5%B0%E5%87%BA%E4%BD%8E%E6%BD%AE-%E8%BD%9F-%E4%B8%96%E7%95%8C%E6%B3%A2-%E9%A0%98%E8%BB%8D%E5%8B%9D%E6%8B%BF%E7%8E%BB%E9%87%8C",
-    "timestamp": "2026-09-10T04:23:44.248Z",
     "strategy": ".content-card__main"
   }
 ];
