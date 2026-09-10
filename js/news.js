@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T01:17:37.830Z
+// Last updated: 2026-09-10T01:38:30.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉德華談出道40餘年感悟　坦言歷多次選擇：快65歲才會三思而後行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174404571372457984468902.png/RU4o6ANrzfUOfBVNtosAWobeNrjAlSvGHEd4CRxHeAk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388372/%E5%8A%89%E5%BE%B7%E8%8F%AF%E8%AB%87%E5%87%BA%E9%81%9340%E9%A4%98%E5%B9%B4%E6%84%9F%E6%82%9F-%E5%9D%A6%E8%A8%80%E6%AD%B7%E5%A4%9A%E6%AC%A1%E9%81%B8%E6%93%87-%E5%BF%AB65%E6%AD%B2%E6%89%8D%E6%9C%83%E4%B8%89%E6%80%9D%E8%80%8C%E5%BE%8C%E8%A1%8C",
+    "timestamp": "2026-09-10T01:38:30.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜外媒質疑隱匿吉隆災情　新聞治理應從闢謠轉向制度化透明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174525576074104832485390.jpeg/qpv3XCno6jXlaA_cfF1Rp5GFVoJtZin0koCtR5KArUc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388530/%E5%BB%89%E7%BD%B2%E8%88%87%E6%91%A9%E6%B4%9B%E5%93%A5-%E6%B3%B0%E5%9C%8B%E4%BA%A4%E6%8F%9B%E5%82%99%E5%BF%98%E9%8C%84-%E5%8A%A0%E5%BC%B7%E5%8F%8D%E8%B2%AA%E5%90%88%E4%BD%9C%E5%85%B1%E5%BB%BA%E5%BB%89%E6%BD%94%E7%B5%B2%E8%B7%AF",
     "timestamp": "2026-09-09T17:23:42.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薯蓉食譜｜做法簡易免牛油免忌廉低脂版、香滑軟綿全靠1秘密武器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250428/993595060652085248342168.jpeg/kGeuGSI11neyWCvSLP-qBieVdnY67PKcw8yiUMPMolA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60388528/%E8%96%AF%E8%93%89%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E5%85%8D%E7%89%9B%E6%B2%B9%E5%85%8D%E5%BF%8C%E5%BB%89%E4%BD%8E%E8%84%82%E7%89%88-%E9%A6%99%E6%BB%91%E8%BB%9F%E7%B6%BF%E5%85%A8%E9%9D%A01%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8",
-    "timestamp": "2026-09-09T16:53:48.453Z",
     "strategy": ".content-card__main"
   }
 ];
