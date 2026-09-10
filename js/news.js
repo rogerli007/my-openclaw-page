@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T00:47:13.628Z
+// Last updated: 2026-09-10T01:17:37.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜外媒質疑隱匿吉隆災情　新聞治理應從闢謠轉向制度化透明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174061016783261696957631.jpeg/hKgCswfUIQ0uepkm_41AVK9wy4Dj6aRXWhh4FVoYeBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60387858/%E4%BE%86%E7%A8%BF-%E5%A4%96%E5%AA%92%E8%B3%AA%E7%96%91%E9%9A%B1%E5%8C%BF%E5%90%89%E9%9A%86%E7%81%BD%E6%83%85-%E6%96%B0%E8%81%9E%E6%B2%BB%E7%90%86%E6%87%89%E5%BE%9E%E9%97%A2%E8%AC%A0%E8%BD%89%E5%90%91%E5%88%B6%E5%BA%A6%E5%8C%96%E9%80%8F%E6%98%8E",
+    "timestamp": "2026-09-10T01:17:37.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃子華疑演出周殷廷首執導作　改編80年代連環殺手「雨夜屠夫」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250428/993595060652085248342168.jpeg/kGeuGSI11neyWCvSLP-qBieVdnY67PKcw8yiUMPMolA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60388528/%E8%96%AF%E8%93%89%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E5%85%8D%E7%89%9B%E6%B2%B9%E5%85%8D%E5%BF%8C%E5%BB%89%E4%BD%8E%E8%84%82%E7%89%88-%E9%A6%99%E6%BB%91%E8%BB%9F%E7%B6%BF%E5%85%A8%E9%9D%A01%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8",
     "timestamp": "2026-09-09T16:53:48.453Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薯蓉食譜｜做法簡易免牛油免忌廉低脂版、香滑軟綿全靠1秘密武器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250428/993595060652085248342168.jpeg/kGeuGSI11neyWCvSLP-qBieVdnY67PKcw8yiUMPMolA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60388528/%E8%96%AF%E8%93%89%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E5%85%8D%E7%89%9B%E6%B2%B9%E5%85%8D%E5%BF%8C%E5%BB%89%E4%BD%8E%E8%84%82%E7%89%88-%E9%A6%99%E6%BB%91%E8%BB%9F%E7%B6%BF%E5%85%A8%E9%9D%A01%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8",
-    "timestamp": "2026-09-09T16:44:14.553Z",
     "strategy": ".content-card__main"
   }
 ];
