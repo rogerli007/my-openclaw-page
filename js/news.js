@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T04:54:45.878Z
+// Last updated: 2026-09-10T05:56:08.752Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣兄妹誘騙求職者赴陸摘器官　每名可賺240萬檢方求處重刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174675653711106048428159.jpeg/JSZv8KpBmEPUXrqX5jszNFRVJ_sgAvjb4h18dOIdfHQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60388587/%E5%8F%B0%E7%81%A3%E5%85%84%E5%A6%B9%E8%AA%98%E9%A8%99%E6%B1%82%E8%81%B7%E8%80%85%E8%B5%B4%E9%99%B8%E6%91%98%E5%99%A8%E5%AE%98-%E6%AF%8F%E5%90%8D%E5%8F%AF%E8%B3%BA240%E8%90%AC%E6%AA%A2%E6%96%B9%E6%B1%82%E8%99%95%E9%87%8D%E5%88%91",
+    "timestamp": "2026-09-10T05:56:08.752Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀彌敦道中型貨車撼低交通燈柱　網民：呢個彎唔係咁易過嘅！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174574877974204416246805.png/NKI9A1tcjCR9nYATBj83Kp6006ePeB2XJ5cVqSeXFak?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388543/iphone-duo%E7%99%BB%E5%A0%B4-apple%E9%A6%96%E9%83%A8%E6%91%BA%E6%A9%9F%E5%83%B9%E6%A0%BC%E6%9C%89%E9%A9%9A%E5%96%9C-7-6%E5%90%8B%E8%9E%A2%E5%B9%95%E7%84%A1%E6%91%BA%E7%97%95",
     "timestamp": "2026-09-09T20:41:53.976Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Apple Watch Series 12／Ultra 4登場｜S11晶片全面強化健康偵測",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174564327449956352436507.jpeg/8amr0JWABBO8UCNp3IGL3uCynrTL9mo_sLQf97C0H_c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388546/apple-watch-series-12-ultra-4%E7%99%BB%E5%A0%B4-s11%E6%99%B6%E7%89%87%E5%85%A8%E9%9D%A2%E5%BC%B7%E5%8C%96%E5%81%A5%E5%BA%B7%E5%81%B5%E6%B8%AC",
-    "timestamp": "2026-09-09T20:20:31.539Z",
     "strategy": ".content-card__main"
   }
 ];
