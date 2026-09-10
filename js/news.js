@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T07:44:14.972Z
+// Last updated: 2026-09-10T07:54:17.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "成人ADHD點分辨？精神科醫生拆解症狀與評估",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174691658755739648820571.jpeg/3wT4qCzFnkeksaeScf7MQQm5s1b1EhOe2KA6L9igOi8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60388672/%E6%88%90%E4%BA%BAadhd%E9%BB%9E%E5%88%86%E8%BE%A8-%E7%B2%BE%E7%A5%9E%E7%A7%91%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A3%E7%97%87%E7%8B%80%E8%88%87%E8%A9%95%E4%BC%B0",
+    "timestamp": "2026-09-10T07:54:17.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社：習近平訪美前夕　中方單周採購100萬噸美國大豆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174602894851182592589213.jpeg/arDsG5Fjl4-4CLDKb2MhGN1nCGwcVZD-YwcAmlkHAJo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388556/%E5%95%9F%E5%BE%B7%E7%B0%A1%E7%B4%84%E5%85%AC%E5%B1%8B%E5%A5%B3%E5%AC%B0%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-09T22:29:28.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "千禧女神44歲生日回顧十年逆襲路　上市公司負債以1美元賣盤重組",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174401740842209280178462.jpeg/RA4qaqFlJ5SwenuyQUpveEOXi39OpI3cnyRn1J8kZ9Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388291/%E5%8D%83%E7%A6%A7%E5%A5%B3%E7%A5%9E44%E6%AD%B2%E7%94%9F%E6%97%A5%E5%9B%9E%E9%A1%A7%E5%8D%81%E5%B9%B4%E9%80%86%E8%A5%B2%E8%B7%AF-%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%B2%A0%E5%82%B5%E4%BB%A51%E7%BE%8E%E5%85%83%E8%B3%A3%E7%9B%A4%E9%87%8D%E7%B5%84",
-    "timestamp": "2026-09-09T22:19:07.692Z",
     "strategy": ".content-card__main"
   }
 ];
