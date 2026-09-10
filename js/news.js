@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T03:46:14.990Z
+// Last updated: 2026-09-10T04:23:44.248Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜阿仙奴隊長奧迪加特走出低潮　轟「世界波」領軍勝拿玻里",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174675251640930304609437.jpeg/jy7GTExrv9-_lwDsPE5xbpTKmqs7-bqmvPSsM7z0rDM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388568/%E6%AD%90%E8%81%AF-%E9%98%BF%E4%BB%99%E5%A5%B4%E9%9A%8A%E9%95%B7%E5%A5%A7%E8%BF%AA%E5%8A%A0%E7%89%B9%E8%B5%B0%E5%87%BA%E4%BD%8E%E6%BD%AE-%E8%BD%9F-%E4%B8%96%E7%95%8C%E6%B3%A2-%E9%A0%98%E8%BB%8D%E5%8B%9D%E6%8B%BF%E7%8E%BB%E9%87%8C",
+    "timestamp": "2026-09-10T04:23:44.248Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中秋水果｜營養師評8種水果營養1款糖分=4楊桃　柿維他命C=梨15倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174560899235581952645237.jpeg/KJLOdb83iMxs37mReHoFhE-bJX_8d3zdx0c4GMdHOBg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388547/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC%E5%86%80%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B-%E4%BF%84%E7%83%8F%E9%A0%98%E8%A2%96%E4%BA%92%E7%9B%B8%E6%86%8E%E6%81%A8%E7%AA%92%E7%A4%99%E5%92%8C%E5%B9%B3",
     "timestamp": "2026-09-09T19:53:11.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：普京冀達成協議結束戰事　俄烏領袖互相憎恨窒礙和平",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174560899235581952645237.jpeg/KJLOdb83iMxs37mReHoFhE-bJX_8d3zdx0c4GMdHOBg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388547/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC%E5%86%80%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B-%E4%BF%84%E7%83%8F%E9%A0%98%E8%A2%96%E4%BA%92%E7%9B%B8%E6%86%8E%E6%81%A8%E7%AA%92%E7%A4%99%E5%92%8C%E5%B9%B3",
-    "timestamp": "2026-09-09T19:40:53.502Z",
     "strategy": ".content-card__main"
   }
 ];
