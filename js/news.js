@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T19:25:41.559Z
+// Last updated: 2026-09-10T19:42:16.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "圓方對開工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B0%8D%E9%96%8B%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
+    "timestamp": "2026-09-10T19:42:16.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "圓方對開工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174773626155569152350629.jpeg/c9UcNQ4F_FC98LIDbVbhQnQiejSfG2DRoDgJVaA4CVU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388820/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-oscar%E6%8E%A5%E5%8F%97%E5%A4%A710%E5%B9%B4%E5%A7%90%E5%A7%90-%E6%9B%BE%E5%A4%B1%E6%88%80%E6%9A%B4%E7%98%A6%E5%89%A948kg%E6%97%A5%E5%A4%9C%E5%96%8A",
     "timestamp": "2026-09-10T13:19:28.703Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流感｜黃大仙醫院2病房爆疫　8長者病人、2職員染甲流　情況穩定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/374398/org/2ad2a22ead85e36e1fb80ea463620fde.jpg/DOdhiZcTi3qw7terrqWZ0_yIAJsMyQ2v01ap5dNWqeU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388899/%E6%B5%81%E6%84%9F-%E9%BB%83%E5%A4%A7%E4%BB%99%E9%86%AB%E9%99%A22%E7%97%85%E6%88%BF%E7%88%86%E7%96%AB-8%E9%95%B7%E8%80%85%E7%97%85%E4%BA%BA-2%E8%81%B7%E5%93%A1%E6%9F%93%E7%94%B2%E6%B5%81-%E6%83%85%E6%B3%81%E7%A9%A9%E5%AE%9A",
-    "timestamp": "2026-09-10T12:51:05.174Z",
     "strategy": ".content-card__main"
   }
 ];
