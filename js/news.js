@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T21:54:22.137Z
+// Last updated: 2026-09-10T22:28:28.130Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大窩口邨妻子暈倒　丈夫報案　送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174962982757601280278934.jpeg/98HR2E8euEbKYZLPE4pgGvWe3hA6A_cXHTRO0ic0TtI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388950/%E5%A4%A7%E7%AA%A9%E5%8F%A3%E9%82%A8%E5%A6%BB%E5%AD%90%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-10T22:28:28.130Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秘魯加入美國反毒聯盟「美洲之盾」　魯比奧到訪加深安全合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174768082820796416154863.jpeg/INpUVfmaGGOzWumNhZrVrN-kbDysYMlcFkYu6xZGLus?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60388812/%E9%BC%93%E9%BC%93%E5%8F%B0%E4%B8%AD%E7%B0%BD%E5%94%B1%E6%9C%83%E5%8C%96%E8%BA%AB%E6%9C%80%E6%9A%96%E6%A8%B9%E6%B4%9E%E9%99%AA%E4%BC%B4%E6%AD%8C%E8%BF%B7%E8%90%BD%E6%B7%9A-mv%E7%A0%B4%E7%99%BE%E8%90%AC%E9%80%8F%E9%9C%B2%E5%AE%A2%E4%B8%B2%E6%88%B2%E5%8A%87",
     "timestamp": "2026-09-10T15:42:28.914Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳庭欣自爆偏愛熟男　不介意與謝東閔組情侶檔：中秋搞場友誼波",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174793743283261440493865.jpeg/RkGoj80q53KinIxxJyQZc6nHVT9MgD6vnE93JKZPdyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388877/%E9%99%B3%E5%BA%AD%E6%AC%A3%E8%87%AA%E7%88%86%E5%81%8F%E6%84%9B%E7%86%9F%E7%94%B7-%E4%B8%8D%E4%BB%8B%E6%84%8F%E8%88%87%E8%AC%9D%E6%9D%B1%E9%96%94%E7%B5%84%E6%83%85%E4%BE%B6%E6%AA%94-%E4%B8%AD%E7%A7%8B%E6%90%9E%E5%A0%B4%E5%8F%8B%E8%AA%BC%E6%B3%A2",
-    "timestamp": "2026-09-10T15:20:21.824Z",
     "strategy": ".content-card__main"
   }
 ];
