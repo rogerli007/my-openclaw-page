@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T11:19:01.663Z
+// Last updated: 2026-09-10T11:30:54.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直擊富豪Volvo雙層電動巴首度香港亮相　最快兩小時充滿電｜多圖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174797163071279104469301.jpeg/JV2kMJAGSD8otQLjrBaNDIkqs7G1pDpRImwYYgdsGGI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388883/%E7%9B%B4%E6%93%8A%E5%AF%8C%E8%B1%AAvolvo%E9%9B%99%E5%B1%A4%E9%9B%BB%E5%8B%95%E5%B7%B4%E9%A6%96%E5%BA%A6%E9%A6%99%E6%B8%AF%E4%BA%AE%E7%9B%B8-%E6%9C%80%E5%BF%AB%E5%85%A9%E5%B0%8F%E6%99%82%E5%85%85%E6%BB%BF%E9%9B%BB-%E5%A4%9A%E5%9C%96",
+    "timestamp": "2026-09-10T11:30:54.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地平治逃走｜警檢偉哥　揭司機停牌運毒　女友助匿酒店同被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174662551435218944782940.jpeg/G1wrMtHZFmH6fGomSQIc_bop7hwKGrEmdAnumXQJ7pk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388592/%E7%BE%85%E5%A4%A9%E5%AE%87%E5%A4%A7%E6%96%B9%E8%AA%8D%E6%84%9B%E9%99%B3%E6%87%BF%E5%BE%B7%E7%8D%B2%E5%AA%BD%E5%AA%BD%E8%82%AF%E5%AE%9A-%E6%9C%9D%E7%B5%90%E5%A9%9A%E9%82%81%E9%80%B2-%E6%88%91%E5%93%8B%E7%86%B1%E6%88%80%E6%9C%9F%E5%A5%BD%E5%B9%B8%E7%A6%8F",
     "timestamp": "2026-09-10T02:47:50.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "久守必失！港股挫逾330點穿25000點大關　科技股走樣｜港股異動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142402037980336128205169.jpeg/QYnodJuqofNMgA8hymW3HLdqvprghxaSr0-R769Pke8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388579/%E4%B9%85%E5%AE%88%E5%BF%85%E5%A4%B1-%E6%B8%AF%E8%82%A1%E6%8C%AB%E9%80%BE330%E9%BB%9E%E7%A9%BF25000%E9%BB%9E%E5%A4%A7%E9%97%9C-%E7%A7%91%E6%8A%80%E8%82%A1%E8%B5%B0%E6%A8%A3-%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95",
-    "timestamp": "2026-09-10T01:59:46.415Z",
     "strategy": ".content-card__main"
   }
 ];
