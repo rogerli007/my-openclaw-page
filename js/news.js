@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T06:56:22.522Z
+// Last updated: 2026-09-10T07:22:24.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新加坡擬採用「化學閹割」重罰性罪犯　冀減少相關犯罪問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174738189294768128850914.png/6gyTrXP3dT2bET7ltrvqbYse3bDFYqDIb9o4U2_aOFM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388741/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%93%AC%E6%8E%A1%E7%94%A8-%E5%8C%96%E5%AD%B8%E9%96%B9%E5%89%B2-%E9%87%8D%E7%BD%B0%E6%80%A7%E7%BD%AA%E7%8A%AF-%E5%86%80%E6%B8%9B%E5%B0%91%E7%9B%B8%E9%97%9C%E7%8A%AF%E7%BD%AA%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-09-10T07:22:24.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "假冒官員騙案｜19歲女大專生收報酬做特務　送假文件涉$180萬被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174587867091963904523178.png/Sb7elJ6rS6QUAYrc8Vnr_k7aOQYtsW_-90NrQfdDa0E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388549/airpods-5%E7%99%BB%E5%A0%B4-1-5-%E5%80%8D%E6%9B%B4%E5%BC%B7%E4%B8%BB%E5%8B%95%E6%B6%88%E5%99%AA-%E6%94%AF%E6%8F%B4siri-ai-%E5%AF%A6%E7%8F%BE%E5%8D%B3%E6%99%82%E7%BF%BB%E8%AD%AF",
     "timestamp": "2026-09-09T21:54:13.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Apple發布會推摺機　IShowSpeed直播遇五月天阿信齊讚iPhone Duo",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174590156452139008261407.png/c6n2PJ1S9Ff_zL4iDgV_k76xTM2DCKR9GWwxhhlsMYY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388553/apple%E7%99%BC%E5%B8%83%E6%9C%83%E6%8E%A8%E6%91%BA%E6%A9%9F-ishowspeed%E7%9B%B4%E6%92%AD%E9%81%87%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E9%BD%8A%E8%AE%9Aiphone-duo",
-    "timestamp": "2026-09-09T21:44:33.336Z",
     "strategy": ".content-card__main"
   }
 ];
