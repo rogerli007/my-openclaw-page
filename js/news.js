@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T11:30:54.306Z
+// Last updated: 2026-09-10T11:43:22.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大馬「天然草藥咖啡」含偉哥壯陽成分　警深水埗拘一名70歲男子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174799669268582400820497.png/Y593g9mwK3dXZFklJFllozDFEsBM1ce1Y6VLGmOlSxo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388884/%E5%A4%A7%E9%A6%AC-%E5%A4%A9%E7%84%B6%E8%8D%89%E8%97%A5%E5%92%96%E5%95%A1-%E5%90%AB%E5%81%89%E5%93%A5%E5%A3%AF%E9%99%BD%E6%88%90%E5%88%86-%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%8B%98%E4%B8%80%E5%90%8D70%E6%AD%B2%E7%94%B7%E5%AD%90",
+    "timestamp": "2026-09-10T11:43:22.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "直擊富豪Volvo雙層電動巴首度香港亮相　最快兩小時充滿電｜多圖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174662551435218944782940.jpeg/G1wrMtHZFmH6fGomSQIc_bop7hwKGrEmdAnumXQJ7pk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388592/%E7%BE%85%E5%A4%A9%E5%AE%87%E5%A4%A7%E6%96%B9%E8%AA%8D%E6%84%9B%E9%99%B3%E6%87%BF%E5%BE%B7%E7%8D%B2%E5%AA%BD%E5%AA%BD%E8%82%AF%E5%AE%9A-%E6%9C%9D%E7%B5%90%E5%A9%9A%E9%82%81%E9%80%B2-%E6%88%91%E5%93%8B%E7%86%B1%E6%88%80%E6%9C%9F%E5%A5%BD%E5%B9%B8%E7%A6%8F",
     "timestamp": "2026-09-10T02:56:59.493Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅天宇大方認愛陳懿德獲媽媽肯定　朝結婚邁進：我哋熱戀期好幸福",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174662551435218944782940.jpeg/G1wrMtHZFmH6fGomSQIc_bop7hwKGrEmdAnumXQJ7pk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388592/%E7%BE%85%E5%A4%A9%E5%AE%87%E5%A4%A7%E6%96%B9%E8%AA%8D%E6%84%9B%E9%99%B3%E6%87%BF%E5%BE%B7%E7%8D%B2%E5%AA%BD%E5%AA%BD%E8%82%AF%E5%AE%9A-%E6%9C%9D%E7%B5%90%E5%A9%9A%E9%82%81%E9%80%B2-%E6%88%91%E5%93%8B%E7%86%B1%E6%88%80%E6%9C%9F%E5%A5%BD%E5%B9%B8%E7%A6%8F",
-    "timestamp": "2026-09-10T02:47:50.401Z",
     "strategy": ".content-card__main"
   }
 ];
