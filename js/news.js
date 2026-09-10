@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T16:42:02.552Z
+// Last updated: 2026-09-10T16:53:53.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣貨車衝紅燈險撞3名女學生　司機同日落網　案件將提堂｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174870444994465792250187.jpeg/ykQeWTr3JkUmlrYBXqV9eZJQjVBxKz_RESgZoxEoGaM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388928/%E8%8D%83%E7%81%A3%E8%B2%A8%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E3%E5%90%8D%E5%A5%B3%E5%AD%B8%E7%94%9F-%E5%8F%B8%E6%A9%9F%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2-%E6%A1%88%E4%BB%B6%E5%B0%87%E6%8F%90%E5%A0%82-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-10T16:53:53.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣貨車衝紅燈險撞3名女學生　司機同日落網　案件將提堂｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174445823958716416341650.jpeg/7dqohMBvvkBjoMc0knOGqlWWY6Mt64x6v0XafJpF2nw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388841/14%E6%AD%B2%E5%B0%91%E5%A5%B3%E6%B6%89%E8%88%875%E7%94%B7%E6%80%A7%E4%BA%A4-%E8%88%87youtuber%E4%BA%A4%E6%AD%A1-%E7%8C%9C%E9%8C%AF%E5%B0%8D%E6%96%B9%E5%B9%B4%E9%BD%A1%E9%81%AD%E7%AE%8D%E9%A0%B8%E5%8F%8A%E6%89%93",
     "timestamp": "2026-09-10T09:58:08.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯：樓市正走出整固期　料全年樓價升15%　第四季私樓成交增5成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149278104838213632315078.jpeg/0OpWL_N1Q8bhBQ1xoPvw1kuKBMBXLCF7zlhAP-tYQD8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60388833/%E7%BE%8E%E8%81%AF-%E6%A8%93%E5%B8%82%E6%AD%A3%E8%B5%B0%E5%87%BA%E6%95%B4%E5%9B%BA%E6%9C%9F-%E6%96%99%E5%85%A8%E5%B9%B4%E6%A8%93%E5%83%B9%E5%8D%8715-%E7%AC%AC%E5%9B%9B%E5%AD%A3%E7%A7%81%E6%A8%93%E6%88%90%E4%BA%A4%E5%A2%9E5%E6%88%90",
-    "timestamp": "2026-09-10T09:45:08.993Z",
     "strategy": ".content-card__main"
   }
 ];
