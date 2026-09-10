@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T18:44:58.144Z
+// Last updated: 2026-09-10T19:25:41.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "圓方對開工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B0%8D%E9%96%8B%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
+    "timestamp": "2026-09-10T19:25:41.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "圓方平台工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/374398/org/2ad2a22ead85e36e1fb80ea463620fde.jpg/DOdhiZcTi3qw7terrqWZ0_yIAJsMyQ2v01ap5dNWqeU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388899/%E6%B5%81%E6%84%9F-%E9%BB%83%E5%A4%A7%E4%BB%99%E9%86%AB%E9%99%A22%E7%97%85%E6%88%BF%E7%88%86%E7%96%AB-8%E9%95%B7%E8%80%85%E7%97%85%E4%BA%BA-2%E8%81%B7%E5%93%A1%E6%9F%93%E7%94%B2%E6%B5%81-%E6%83%85%E6%B3%81%E7%A9%A9%E5%AE%9A",
     "timestamp": "2026-09-10T12:51:05.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo｜內地黃牛價加價¥1千至¥5千　最高標價¥9.9萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174779179556671488427536.jpeg/LIHXQIuHtat7vExd83jadT0KfzOHa7TncIHxIHCB8SA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60388892/iphone-duo-%E5%85%A7%E5%9C%B0%E9%BB%83%E7%89%9B%E5%83%B9%E5%8A%A0%E5%83%B9-1%E5%8D%83%E8%87%B3-5%E5%8D%83-%E6%9C%80%E9%AB%98%E6%A8%99%E5%83%B9-9-9%E8%90%AC",
-    "timestamp": "2026-09-10T12:29:18.775Z",
     "strategy": ".content-card__main"
   }
 ];
