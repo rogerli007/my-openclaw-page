@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T15:42:28.914Z
+// Last updated: 2026-09-10T15:53:54.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國情報機構：金正恩女兒金主愛接受接班人培養　有一名年幼弟妹",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174836352248713216250743.png/vQVIvMOooAOT66mYL9r6RvOveSMfALo2nt5q5p7eauY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388915/%E9%9F%93%E5%9C%8B%E6%83%85%E5%A0%B1%E6%A9%9F%E6%A7%8B-%E9%87%91%E6%AD%A3%E6%81%A9%E5%A5%B3%E5%85%92%E9%87%91%E4%B8%BB%E6%84%9B%E6%8E%A5%E5%8F%97%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%9F%B9%E9%A4%8A-%E6%9C%89%E4%B8%80%E5%90%8D%E5%B9%B4%E5%B9%BC%E5%BC%9F%E5%A6%B9",
+    "timestamp": "2026-09-10T15:53:54.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鼓鼓台中簽唱會化身最暖樹洞陪伴歌迷落淚　MV破百萬透露客串戲劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251024/1058442269666840576071384.jpeg/O90aabkL9NaGQfAcapMK-Q9eMgSVZpB1pahAQqWoQEI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388792/%E8%AD%89%E7%9B%A3%E6%9C%83%E5%87%BA%E6%89%8B%E6%95%B4%E9%A0%93ipo-%E6%92%A5%E5%BA%B7%E8%A6%96%E9%9B%B2%E5%8B%92%E4%BB%A4%E5%81%9C%E7%89%8C-%E8%82%A1%E4%BB%BD%E9%9C%80%E6%B1%82%E6%88%96%E6%B6%89%E4%BA%BA%E7%82%BA%E6%93%8D%E7%B8%B1",
     "timestamp": "2026-09-10T08:47:14.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地「十五五」財金政策登場！證監縮短IPO審核　中美研降稅300億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158493154677100544157634.jpeg/vfGUFNNr_vV9mskquuBqByRnAfSFRlClzQQVuM0EFbg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388768/%E5%85%A7%E5%9C%B0-%E5%8D%81%E4%BA%94%E4%BA%94-%E8%B2%A1%E9%87%91%E6%94%BF%E7%AD%96%E7%99%BB%E5%A0%B4-%E8%AD%89%E7%9B%A3%E7%B8%AE%E7%9F%ADipo%E5%AF%A9%E6%A0%B8-%E4%B8%AD%E7%BE%8E%E7%A0%94%E9%99%8D%E7%A8%85300%E5%84%84",
-    "timestamp": "2026-09-10T08:27:34.643Z",
     "strategy": ".content-card__main"
   }
 ];
