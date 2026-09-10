@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T19:53:53.531Z
+// Last updated: 2026-09-10T20:18:38.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞士旅遊巴翻側多人死傷　荷蘭旅行社：48人團9.7出發",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174930238044377088056913.png/zpxaxOqRcik08ftCpIuIvVuzBIJDdxELCRcESQkXBEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388943/%E7%91%9E%E5%A3%AB%E6%97%85%E9%81%8A%E5%B7%B4%E7%BF%BB%E5%81%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E5%82%B7-%E8%8D%B7%E8%98%AD%E6%97%85%E8%A1%8C%E7%A4%BE-48%E4%BA%BA%E5%9C%989-7%E5%87%BA%E7%99%BC",
+    "timestamp": "2026-09-10T20:18:38.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "圓方對開工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174833827944599552980271.jpeg/slIgdiwQ9JrKfyj_qPuijmBIW_9dXiQpMbiD7DG4g-w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388910/%E6%AD%90%E6%B4%B2%E9%A6%AC%E8%A1%93%E5%8A%87%E5%A0%B4cavalluna%E5%95%9F%E5%BE%B7%E9%80%B2%E8%A1%8C%E7%B6%B5%E6%8E%92-%E9%A6%AC%E6%9C%83%E5%AE%89%E6%8E%92%E5%9F%BA%E5%B1%A4%E5%8F%8A%E9%95%B7%E8%80%85%E6%90%B6%E5%85%88%E7%9C%8B",
     "timestamp": "2026-09-10T13:54:41.798Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本多地食肆遇外國女子強行兜售國旗　專家籲別妥協　免助長滋擾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174817434490769408430918.png/ak0K7mTngCA1679_1DrRJbTD2Y0Jk-69qYGoRqmBqEY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388901/%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E9%A3%9F%E8%82%86%E9%81%87%E5%A4%96%E5%9C%8B%E5%A5%B3%E5%AD%90%E5%BC%B7%E8%A1%8C%E5%85%9C%E5%94%AE%E5%9C%8B%E6%97%97-%E5%B0%88%E5%AE%B6%E7%B1%B2%E5%88%A5%E5%A6%A5%E5%8D%94-%E5%85%8D%E5%8A%A9%E9%95%B7%E6%BB%8B%E6%93%BE",
-    "timestamp": "2026-09-10T13:31:56.165Z",
     "strategy": ".content-card__main"
   }
 ];
