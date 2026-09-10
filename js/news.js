@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T17:41:22.565Z
+// Last updated: 2026-09-10T18:22:42.096Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜青馬大橋車隊的士司機棄車跳海　救援人員尋人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174891217352134656605742.jpeg/aO7fKDjGotXu4yT7I_mg-vqrfkGCpe_wXd3Yzmfd2M4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388936/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%A3%84%E8%BB%8A%E8%B7%B3%E6%B5%B7-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E5%B0%8B%E4%BA%BA",
+    "timestamp": "2026-09-10T18:22:42.096Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳柏宇當年街頭遇同期新人被爆粗問候　同小肥曾在頒獎禮上生恩怨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174799669268582400820497.png/Y593g9mwK3dXZFklJFllozDFEsBM1ce1Y6VLGmOlSxo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388884/%E5%A4%A7%E9%A6%AC-%E5%A4%A9%E7%84%B6%E8%8D%89%E8%97%A5%E5%92%96%E5%95%A1-%E5%90%AB%E5%81%89%E5%93%A5%E5%A3%AF%E9%99%BD%E6%88%90%E5%88%86-%E8%AD%A6%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%8B%98%E4%B8%80%E5%90%8D70%E6%AD%B2%E7%94%B7%E5%AD%90",
     "timestamp": "2026-09-10T11:43:22.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直擊富豪Volvo雙層電動巴首度香港亮相　最快兩小時充滿電｜多圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174797163071279104469301.jpeg/JV2kMJAGSD8otQLjrBaNDIkqs7G1pDpRImwYYgdsGGI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388883/%E7%9B%B4%E6%93%8A%E5%AF%8C%E8%B1%AAvolvo%E9%9B%99%E5%B1%A4%E9%9B%BB%E5%8B%95%E5%B7%B4%E9%A6%96%E5%BA%A6%E9%A6%99%E6%B8%AF%E4%BA%AE%E7%9B%B8-%E6%9C%80%E5%BF%AB%E5%85%A9%E5%B0%8F%E6%99%82%E5%85%85%E6%BB%BF%E9%9B%BB-%E5%A4%9A%E5%9C%96",
-    "timestamp": "2026-09-10T11:30:54.306Z",
     "strategy": ".content-card__main"
   }
 ];
