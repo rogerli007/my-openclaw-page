@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T06:32:05.135Z
+// Last updated: 2026-09-10T06:56:22.522Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "假冒官員騙案｜19歲女大專生收報酬做特務　送假文件涉$180萬被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174727529869611008827193.jpeg/hUd6jTufIMruvsjXaR9p6OJUZm8e4XYrEuCBExLggRM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388666/%E5%81%87%E5%86%92%E5%AE%98%E5%93%A1%E9%A8%99%E6%A1%88-19%E6%AD%B2%E5%A5%B3%E5%A4%A7%E5%B0%88%E7%94%9F%E6%94%B6%E5%A0%B1%E9%85%AC%E5%81%9A%E7%89%B9%E5%8B%99-%E9%80%81%E5%81%87%E6%96%87%E4%BB%B6%E6%B6%89-180%E8%90%AC%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-10T06:56:22.522Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩自閉男子加入倡港獨聯盟　官斥行為屬賣國求榮　判囚36至38月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174590156452139008261407.png/c6n2PJ1S9Ff_zL4iDgV_k76xTM2DCKR9GWwxhhlsMYY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388553/apple%E7%99%BC%E5%B8%83%E6%9C%83%E6%8E%A8%E6%91%BA%E6%A9%9F-ishowspeed%E7%9B%B4%E6%92%AD%E9%81%87%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E9%BD%8A%E8%AE%9Aiphone-duo",
     "timestamp": "2026-09-09T21:44:33.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo登場｜Apple首部摺機價格有驚喜　7.6吋螢幕無摺痕？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174574877974204416246805.png/NKI9A1tcjCR9nYATBj83Kp6006ePeB2XJ5cVqSeXFak?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60388543/iphone-duo%E7%99%BB%E5%A0%B4-apple%E9%A6%96%E9%83%A8%E6%91%BA%E6%A9%9F%E5%83%B9%E6%A0%BC%E6%9C%89%E9%A9%9A%E5%96%9C-7-6%E5%90%8B%E8%9E%A2%E5%B9%95%E7%84%A1%E6%91%BA%E7%97%95",
-    "timestamp": "2026-09-09T20:53:47.138Z",
     "strategy": ".content-card__main"
   }
 ];
