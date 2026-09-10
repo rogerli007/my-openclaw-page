@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T14:46:19.355Z
+// Last updated: 2026-09-10T15:00:24.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古洞北今明兩年1.2萬單位落成　預留用地發展國家成就博物館",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174786061600034816264187.jpeg/xD7S6BTpZTmCNGetTVn24_MOjOxKUbyOUzmv9lM5r_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60388866/%E5%8F%A4%E6%B4%9E%E5%8C%97%E4%BB%8A%E6%98%8E%E5%85%A9%E5%B9%B41-2%E8%90%AC%E5%96%AE%E4%BD%8D%E8%90%BD%E6%88%90-%E9%A0%90%E7%95%99%E7%94%A8%E5%9C%B0%E7%99%BC%E5%B1%95%E5%9C%8B%E5%AE%B6%E6%88%90%E5%B0%B1%E5%8D%9A%E7%89%A9%E9%A4%A8",
+    "timestamp": "2026-09-10T15:00:24.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警土瓜灣街頭發現失車搜出毒品　拘38歲男涉藏毒偷車等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132472496374026240690143.jpeg/k7ihxtt-mjnt8QAzhDN49C_vfbymOR_IB2idJgdonSY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388730/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E5%89%8D%E5%A4%95-%E4%B8%AD%E6%96%B9%E5%96%AE%E5%91%A8%E6%8E%A1%E8%B3%BC100%E8%90%AC%E5%99%B8%E7%BE%8E%E5%9C%8B%E5%A4%A7%E8%B1%86",
     "timestamp": "2026-09-10T07:44:14.972Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新加坡擬採用「化學閹割」重罰性罪犯　冀減少相關犯罪問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174738189294768128850914.png/6gyTrXP3dT2bET7ltrvqbYse3bDFYqDIb9o4U2_aOFM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388741/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%93%AC%E6%8E%A1%E7%94%A8-%E5%8C%96%E5%AD%B8%E9%96%B9%E5%89%B2-%E9%87%8D%E7%BD%B0%E6%80%A7%E7%BD%AA%E7%8A%AF-%E5%86%80%E6%B8%9B%E5%B0%91%E7%9B%B8%E9%97%9C%E7%8A%AF%E7%BD%AA%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-09-10T07:22:24.147Z",
     "strategy": ".content-card__main"
   }
 ];
