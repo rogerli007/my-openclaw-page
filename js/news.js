@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T22:41:25.615Z
+// Last updated: 2026-09-10T22:59:30.855Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前頂級花旦與台灣男星婚後曝光美國生活　80歲陪仔新抱狂食行街",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174797895400951808384529.jpeg/UfFkaagjmdufIJcEoGBW8-syBkjVvfxLUqGc4VKhnOE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388721/%E8%83%A1%E7%87%95%E5%A6%AE%E8%88%87%E5%8F%B0%E7%81%A3%E7%94%B7%E6%98%9F%E7%B5%90%E5%A9%9A%E6%9B%9D%E5%85%89%E7%BE%8E%E5%9C%8B%E7%94%9F%E6%B4%BB-80%E6%AD%B2%E9%99%AA%E4%BB%94%E6%96%B0%E6%8A%B1%E7%8B%82%E9%A3%9F%E8%A1%8C%E8%A1%97",
+    "timestamp": "2026-09-10T22:59:30.855Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前頂級花旦與台灣男星婚後曝光美國生活　80歲陪仔新抱狂食行街",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132319767642771456269073.jpeg/YAPRE6lhANkDOrZwThfqrkJfh3YP98X-mAzGCZgMxgk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388933/%E7%BE%8E%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E9%98%BB%E5%AF%86%E8%98%87%E9%87%8C%E6%96%B0%E9%81%B8%E5%8D%80%E9%87%8D%E5%8A%83%E5%9C%B0%E5%9C%96%E7%94%9F%E6%95%88-%E5%85%B1%E5%92%8C%E9%BB%A8%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%84%AA%E5%8B%A2%E5%8F%97%E6%8C%AB",
     "timestamp": "2026-09-10T16:21:12.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國情報機構：金正恩女兒金主愛接受接班人培養　有一名年幼弟妹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174836352248713216250743.png/vQVIvMOooAOT66mYL9r6RvOveSMfALo2nt5q5p7eauY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388915/%E9%9F%93%E5%9C%8B%E6%83%85%E5%A0%B1%E6%A9%9F%E6%A7%8B-%E9%87%91%E6%AD%A3%E6%81%A9%E5%A5%B3%E5%85%92%E9%87%91%E4%B8%BB%E6%84%9B%E6%8E%A5%E5%8F%97%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%9F%B9%E9%A4%8A-%E6%9C%89%E4%B8%80%E5%90%8D%E5%B9%B4%E5%B9%BC%E5%BC%9F%E5%A6%B9",
-    "timestamp": "2026-09-10T15:53:54.719Z",
     "strategy": ".content-card__main"
   }
 ];
