@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T09:54:04.540Z
+// Last updated: 2026-09-11T10:42:59.721Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周大福北角新盤皇璇上樓書　單幢式設計涉194伙　最細277呎平台戶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175145194106916864482531.jpeg/mpQEZGNvVOAfKEkOLvOPnBs_sUV9k2yi9O0MQ_TtDEM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60389221/%E5%91%A8%E5%A4%A7%E7%A6%8F%E5%8C%97%E8%A7%92%E6%96%B0%E7%9B%A4%E7%9A%87%E7%92%87%E4%B8%8A%E6%A8%93%E6%9B%B8-%E5%96%AE%E5%B9%A2%E5%BC%8F%E8%A8%AD%E8%A8%88%E6%B6%89194%E4%BC%99-%E6%9C%80%E7%B4%B0277%E5%91%8E%E5%B9%B3%E5%8F%B0%E6%88%B6",
+    "timestamp": "2026-09-11T10:42:59.721Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雷宇揚離世丨拍《陰陽路》成一代鬼王　曾拍檔周星馳演瀟灑哥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250926/1048185662714417152759823.jpeg/8RvrfhItj9NUIGZsAPh_RDmzGF_rR-HJOVQxbzlUMW8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388968/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-%E5%9B%A0%E7%AE%97%E5%8A%9B%E7%9F%AD%E7%BC%BA%E6%B5%81%E5%A4%B1%E6%A5%AD%E5%8B%99-%E5%BE%AE%E8%BB%9F%E6%93%AC%E6%93%B4%E5%A4%A7%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E8%A6%8F%E6%A8%A1%E9%80%BE%E4%B8%89%E5%80%8D",
     "timestamp": "2026-09-11T01:44:07.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張衞健陪伴重病粉絲走完最後一程　扶靈火葬親力親為獲讚至情至聖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174727636748865536945712.jpeg/6S9Rj00bCzxuzFsW7dOsFYr9-2jwpsE0bY3j_W2N4_0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388704/%E5%BC%B5%E8%A1%9E%E5%81%A5%E9%99%AA%E4%BC%B4%E9%87%8D%E7%97%85%E7%B2%89%E7%B5%B2%E8%B5%B0%E5%AE%8C%E6%9C%80%E5%BE%8C%E4%B8%80%E7%A8%8B-%E6%89%B6%E9%9D%88%E7%81%AB%E8%91%AC%E8%A6%AA%E5%8A%9B%E8%A6%AA%E7%82%BA%E7%8D%B2%E8%AE%9A%E8%87%B3%E6%83%85%E8%87%B3%E8%81%96",
-    "timestamp": "2026-09-11T01:14:08.628Z",
     "strategy": ".content-card__main"
   }
 ];
