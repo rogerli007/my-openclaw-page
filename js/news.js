@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T09:43:46.918Z
+// Last updated: 2026-09-11T09:54:04.540Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雷宇揚離世丨拍《陰陽路》成一代鬼王　曾拍檔周星馳演瀟灑哥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175122949007478784345028.jpeg/d68XiKCcFxlwHazVrjrL442IsRBYWjfigXqo8oF6qPI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389164/%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96-%E6%8B%8D-%E9%99%B0%E9%99%BD%E8%B7%AF-%E6%88%90%E4%B8%80%E4%BB%A3%E9%AC%BC%E7%8E%8B-%E6%9B%BE%E6%8B%8D%E6%AA%94%E5%91%A8%E6%98%9F%E9%A6%B3%E6%BC%94%E7%80%9F%E7%81%91%E5%93%A5",
+    "timestamp": "2026-09-11T09:54:04.540Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵阿伯被指非禮！吊帶女擋門逼落車：全車人陪你　後續更狂惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174727636748865536945712.jpeg/6S9Rj00bCzxuzFsW7dOsFYr9-2jwpsE0bY3j_W2N4_0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388704/%E5%BC%B5%E8%A1%9E%E5%81%A5%E9%99%AA%E4%BC%B4%E9%87%8D%E7%97%85%E7%B2%89%E7%B5%B2%E8%B5%B0%E5%AE%8C%E6%9C%80%E5%BE%8C%E4%B8%80%E7%A8%8B-%E6%89%B6%E9%9D%88%E7%81%AB%E8%91%AC%E8%A6%AA%E5%8A%9B%E8%A6%AA%E7%82%BA%E7%8D%B2%E8%AE%9A%E8%87%B3%E6%83%85%E8%87%B3%E8%81%96",
     "timestamp": "2026-09-11T01:14:08.628Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《早春晴朗》結局！欒念帶尚之桃走時光走廊　承認「孫遠翥很好」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174762919024398336549130.png/lrAEk5T9WxntQrXngoALmXGYYCyLxpEfbj2XKW49lyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388728/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E7%B5%90%E5%B1%80-%E6%AC%92%E5%BF%B5%E5%B8%B6%E5%B0%9A%E4%B9%8B%E6%A1%83%E8%B5%B0%E6%99%82%E5%85%89%E8%B5%B0%E5%BB%8A-%E6%89%BF%E8%AA%8D-%E5%AD%AB%E9%81%A0%E7%BF%A5%E5%BE%88%E5%A5%BD",
-    "timestamp": "2026-09-11T00:47:18.431Z",
     "strategy": ".content-card__main"
   }
 ];
