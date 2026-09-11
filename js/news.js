@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T04:54:10.616Z
+// Last updated: 2026-09-11T05:21:19.119Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋節團飯4大推介｜富豪酒店人均$347起！燕窩＋鮑魚 1間早鳥8折",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171489374966124544037289.jpeg/EKDWkTd7kgt1SzYanNGyu0-HskD7i8EcGlHa1RpR2tU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60382287/%E4%B8%AD%E7%A7%8B%E7%AF%80%E5%9C%98%E9%A3%AF4%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%AF%8C%E8%B1%AA%E9%85%92%E5%BA%97%E4%BA%BA%E5%9D%87-347%E8%B5%B7-%E7%87%95%E7%AA%A9-%E9%AE%91%E9%AD%9A-1%E9%96%93%E6%97%A9%E9%B3%A58%E6%8A%98",
+    "timestamp": "2026-09-11T05:21:19.119Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "渣打馬拉松2027報名日期+路線　半馬名額增4000　增設啟德海濱跑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174930238044377088056913.png/zpxaxOqRcik08ftCpIuIvVuzBIJDdxELCRcESQkXBEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388943/%E7%91%9E%E5%A3%AB%E6%97%85%E9%81%8A%E5%B7%B4%E7%BF%BB%E5%81%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E5%82%B7-%E8%8D%B7%E8%98%AD%E6%97%85%E8%A1%8C%E7%A4%BE-48%E4%BA%BA%E5%9C%989-7%E5%87%BA%E7%99%BC",
     "timestamp": "2026-09-10T20:54:25.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士旅遊巴翻側多人死傷　荷蘭旅行社：48人團9.7出發",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174930238044377088056913.png/zpxaxOqRcik08ftCpIuIvVuzBIJDdxELCRcESQkXBEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388943/%E7%91%9E%E5%A3%AB%E6%97%85%E9%81%8A%E5%B7%B4%E7%BF%BB%E5%81%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E5%82%B7-%E8%8D%B7%E8%98%AD%E6%97%85%E8%A1%8C%E7%A4%BE-48%E4%BA%BA%E5%9C%989-7%E5%87%BA%E7%99%BC",
-    "timestamp": "2026-09-10T20:42:44.062Z",
     "strategy": ".content-card__main"
   }
 ];
