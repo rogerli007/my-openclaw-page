@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T12:32:07.997Z
+// Last updated: 2026-09-11T12:50:02.700Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運田徑｜港隊派37人出戰　賈慧妍父見證初戰大舞台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175164142386941952103697.jpeg/JC8tTzo3_XCJzgYVEXbS5vuSksuUeKpsHEdy-xxHcvs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389001/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E7%94%B0%E5%BE%91-%E6%B8%AF%E9%9A%8A%E6%B4%BE37%E4%BA%BA%E5%87%BA%E6%88%B0-%E8%B3%88%E6%85%A7%E5%A6%8D%E7%88%B6%E8%A6%8B%E8%AD%89%E5%88%9D%E6%88%B0%E5%A4%A7%E8%88%9E%E5%8F%B0",
+    "timestamp": "2026-09-11T12:50:02.700Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孫藝珍短裙走光NANA急伸手幫壓裙擺　網民被圈粉狂讚：真正姊妹情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162379236934422528932608.jpeg/lNh-cQIYzL9qyNc_qs6nJJReca40GLwn4on_IceJ_yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389040/%E6%95%99%E5%A4%A7%E7%94%9Focamp%E6%80%A7%E4%BE%B5%E6%A1%88-%E5%AE%98%E5%85%88%E5%8F%965%E5%90%8D%E4%BA%8B%E4%B8%BB%E5%89%B5%E5%82%B7%E5%A0%B1%E5%91%8A-%E6%8A%BC%E5%BE%8C%E8%87%B310-9%E5%88%A4%E5%88%91",
     "timestamp": "2026-09-11T03:55:19.429Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安踏收購Puma獲市監總局「綠燈」　無條件批准涉資15億歐元交易",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098657442310393856972346.jpeg/D36vV_jYYNZ7w1EtKZlDULXPLndHh-MBQEVqk0BFapM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389017/%E5%AE%89%E8%B8%8F%E6%94%B6%E8%B3%BCpuma%E7%8D%B2%E5%B8%82%E7%9B%A3%E7%B8%BD%E5%B1%80-%E7%B6%A0%E7%87%88-%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%89%B9%E5%87%86%E6%B6%89%E8%B3%8715%E5%84%84%E6%AD%90%E5%85%83%E4%BA%A4%E6%98%93",
-    "timestamp": "2026-09-11T03:46:05.004Z",
     "strategy": ".content-card__main"
   }
 ];
