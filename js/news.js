@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T13:56:45.523Z
+// Last updated: 2026-09-11T14:21:18.947Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本防衛大臣重申：不排除擁有核動力潛艇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175200798896820224741602.jpeg/AaQUanHN2ccfW0HXIZpz1fOCuu8X5vazHPufRBz7n0Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389266/%E6%97%A5%E6%9C%AC%E9%98%B2%E8%A1%9B%E5%A4%A7%E8%87%A3%E9%87%8D%E7%94%B3-%E4%B8%8D%E6%8E%92%E9%99%A4%E6%93%81%E6%9C%89%E6%A0%B8%E5%8B%95%E5%8A%9B%E6%BD%9B%E8%89%87",
+    "timestamp": "2026-09-11T14:21:18.947Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟紅館演唱會｜激減17磅險甩褲　宣布最後一騷：希望大家珍惜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171489374966124544037289.jpeg/EKDWkTd7kgt1SzYanNGyu0-HskD7i8EcGlHa1RpR2tU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60382287/%E4%B8%AD%E7%A7%8B%E7%AF%80%E5%9C%98%E9%A3%AF4%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%AF%8C%E8%B1%AA%E9%85%92%E5%BA%97%E4%BA%BA%E5%9D%87-347%E8%B5%B7-%E7%87%95%E7%AA%A9-%E9%AE%91%E9%AD%9A-1%E9%96%93%E6%97%A9%E9%B3%A58%E6%8A%98",
     "timestamp": "2026-09-11T05:21:19.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "渣打馬拉松2027報名日期+路線　半馬名額增4000　增設啟德海濱跑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172621590391689216602374.jpeg/F1XtRClDOMHNjhLw4cx65kPJj-MRvTEPjEnugIxJ7oA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60386908/%E6%B8%A3%E6%89%93%E9%A6%AC%E6%8B%89%E6%9D%BE2027-%E5%A0%B1%E5%90%8D%E6%97%A5%E6%9C%9F-%E8%B2%BB%E7%94%A8-%E5%8D%8A%E9%A6%AC%E5%85%A8%E9%A6%AC%E8%B7%AF%E7%B7%9A%E5%9C%96-%E5%A2%9E%E8%A8%AD%E5%95%9F%E5%BE%B7%E6%B5%B7%E6%BF%B1%E8%B7%91",
-    "timestamp": "2026-09-11T04:54:10.616Z",
     "strategy": ".content-card__main"
   }
 ];
