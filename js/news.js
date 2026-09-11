@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T23:28:41.119Z
+// Last updated: 2026-09-11T23:43:04.524Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尿泡是腎病警號！56歲男確診腎病　逾半患者無痛　醫生解5大徵兆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171811442244980736514692.jpeg/WZxOGFhr2chJFM5yBIFRQLMqhzLIeT0GdeDak3Xg2pM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385685/%E5%B0%BF%E6%B3%A1%E6%98%AF%E8%85%8E%E7%97%85%E8%AD%A6%E8%99%9F-56%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E8%85%8E%E7%97%85-%E9%80%BE%E5%8D%8A%E6%82%A3%E8%80%85%E7%84%A1%E7%97%9B-%E9%86%AB%E7%94%9F%E8%A7%A35%E5%A4%A7%E5%BE%B5%E5%85%86",
+    "timestamp": "2026-09-11T23:43:04.524Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尿泡是腎病警號！56歲男確診腎病　逾半患者無痛　醫生解5大徵兆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159504973885607936054168.jpeg/6nB46C8kgFLYri9LGy0jZMFttJAUGZ8_qAjz26gI89s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389283/%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E5%B2%A9%E5%B1%8B%E6%AF%85%E6%93%AC9-27%E8%B5%B7%E7%8E%87%E8%B2%BF%E6%98%93%E5%9C%98%E9%AB%94%E8%A8%AA%E8%8F%AF-%E5%B0%8B%E6%B1%82%E8%88%87%E4%B8%AD%E6%96%B9%E9%A0%98%E5%B0%8E%E5%B1%A4%E6%9C%83%E9%9D%A2",
     "timestamp": "2026-09-11T17:30:22.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警油尖打擊無牌賣酒巡查多處　檢逾$2萬酒精飲品　5人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175246557474197504270419.jpeg/h3xdmuvKEZJTM4h5TqdFa6H5ISMf_DSyAJ8D0ACfA9A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389282/%E8%AD%A6%E6%B2%B9%E5%B0%96%E6%89%93%E6%93%8A%E7%84%A1%E7%89%8C%E8%B3%A3%E9%85%92%E5%B7%A1%E6%9F%A5%E5%A4%9A%E8%99%95-%E6%AA%A2%E9%80%BE-2%E8%90%AC%E9%85%92%E7%B2%BE%E9%A3%B2%E5%93%81-5%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-11T17:17:57.212Z",
     "strategy": ".content-card__main"
   }
 ];
