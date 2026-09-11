@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T16:23:13.593Z
+// Last updated: 2026-09-11T16:43:37.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍麥當勞綠衣男騷擾陌生婦　職員制止遇襲　眾人倒地｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175239057848930304836492.jpeg/FKmxpQk0BUIhLeWun5ZjL2t_gj9oE0kvSyEKakshCmo",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389278/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%B6%A0%E8%A1%A3%E7%94%B7%E9%A8%B7%E6%93%BE%E9%99%8C%E7%94%9F%E5%A9%A6-%E8%81%B7%E5%93%A1%E5%88%B6%E6%AD%A2%E9%81%87%E8%A5%B2-%E7%9C%BE%E4%BA%BA%E5%80%92%E5%9C%B0-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-11T16:43:37.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "911襲擊25周年　特朗普：永不會忘記",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240809/898615588916563968867293.jpeg/h-mA9KofhIDaWflulgw1fL_v3YyzYArcVROWsVUTlrE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60389161/%E4%B8%AD%E5%8E%9Fccl%E6%88%90%E4%BB%BD%E5%B1%8B%E8%8B%91%E5%A2%9E%E5%8A%A07%E5%80%8B%E8%87%B3150%E5%80%8B-%E5%8C%85%E6%8B%AC%E5%BD%A2%E8%96%88-%E7%BF%B0%E6%9E%97%E5%B3%B0-%E6%B5%B7%E4%B9%8B%E6%88%80%E7%AD%89",
     "timestamp": "2026-09-11T08:26:02.737Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "半山雅翠園35歲印度婦暈倒　母發現報案送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167286386680664064560498.jpeg/GazwWAQ0cG-oUWj8oKG4irhQxMcwn61pFajvQRWo70E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389141/%E5%8D%8A%E5%B1%B1%E9%9B%85%E7%BF%A0%E5%9C%9235%E6%AD%B2%E5%8D%B0%E5%BA%A6%E5%A9%A6%E6%9A%88%E5%80%92-%E6%AF%8D%E7%99%BC%E7%8F%BE%E5%A0%B1%E6%A1%88%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-11T07:56:18.431Z",
     "strategy": ".content-card__main"
   }
 ];
