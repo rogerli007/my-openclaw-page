@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T07:56:18.431Z
+// Last updated: 2026-09-11T08:26:02.737Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中原CCL成份屋苑增加7個至150個　包括形薈、翰林峰、海之戀等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240809/898615588916563968867293.jpeg/h-mA9KofhIDaWflulgw1fL_v3YyzYArcVROWsVUTlrE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60389161/%E4%B8%AD%E5%8E%9Fccl%E6%88%90%E4%BB%BD%E5%B1%8B%E8%8B%91%E5%A2%9E%E5%8A%A07%E5%80%8B%E8%87%B3150%E5%80%8B-%E5%8C%85%E6%8B%AC%E5%BD%A2%E8%96%88-%E7%BF%B0%E6%9E%97%E5%B3%B0-%E6%B5%B7%E4%B9%8B%E6%88%80%E7%AD%89",
+    "timestamp": "2026-09-11T08:26:02.737Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "半山雅翠園35歲印度婦暈倒　母發現報案送院惜不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174797895400951808384529.jpeg/UfFkaagjmdufIJcEoGBW8-syBkjVvfxLUqGc4VKhnOE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388721/%E8%83%A1%E7%87%95%E5%A6%AE%E8%88%87%E5%8F%B0%E7%81%A3%E7%94%B7%E6%98%9F%E7%B5%90%E5%A9%9A%E6%9B%9D%E5%85%89%E7%BE%8E%E5%9C%8B%E7%94%9F%E6%B4%BB-80%E6%AD%B2%E9%99%AA%E4%BB%94%E6%96%B0%E6%8A%B1%E7%8B%82%E9%A3%9F%E8%A1%8C%E8%A1%97",
     "timestamp": "2026-09-10T22:59:30.855Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前頂級花旦與台灣男星婚後曝光美國生活　80歲陪仔新抱狂食行街",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174797895400951808384529.jpeg/UfFkaagjmdufIJcEoGBW8-syBkjVvfxLUqGc4VKhnOE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388721/%E8%83%A1%E7%87%95%E5%A6%AE%E8%88%87%E5%8F%B0%E7%81%A3%E7%94%B7%E6%98%9F%E7%B5%90%E5%A9%9A%E6%9B%9D%E5%85%89%E7%BE%8E%E5%9C%8B%E7%94%9F%E6%B4%BB-80%E6%AD%B2%E9%99%AA%E4%BB%94%E6%96%B0%E6%8A%B1%E7%8B%82%E9%A3%9F%E8%A1%8C%E8%A1%97",
-    "timestamp": "2026-09-10T22:41:25.615Z",
     "strategy": ".content-card__main"
   }
 ];
