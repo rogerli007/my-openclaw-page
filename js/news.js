@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T22:59:35.631Z
+// Last updated: 2026-09-11T23:17:55.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│網傳媳婦和公公車震被抓姦半裸逃跑　網民笑:肥水不流外人田",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174772424982401024240198.png/ueVF7MI45EELQFiw0wX5Tcs0F1wfRcD8cFXwK3BV8Cs",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60388348/%E6%9C%89%E7%89%87-%E7%B6%B2%E5%82%B3%E5%AA%B3%E5%A9%A6%E5%92%8C%E5%85%AC%E5%85%AC%E8%BB%8A%E9%9C%87%E8%A2%AB%E6%8A%93%E5%A7%A6%E5%8D%8A%E8%A3%B8%E9%80%83%E8%B7%91-%E7%B6%B2%E6%B0%91%E7%AC%91-%E8%82%A5%E6%B0%B4%E4%B8%8D%E6%B5%81%E5%A4%96%E4%BA%BA%E7%94%B0",
+    "timestamp": "2026-09-11T23:17:55.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有驟雨　稍後驟雨漸多及有雷暴　明日部分地區雨勢較大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175239057848930304836492.jpeg/FKmxpQk0BUIhLeWun5ZjL2t_gj9oE0kvSyEKakshCmo",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389278/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%B6%A0%E8%A1%A3%E7%94%B7%E9%A8%B7%E6%93%BE%E9%99%8C%E7%94%9F%E5%A9%A6-%E8%81%B7%E5%93%A1%E5%88%B6%E6%AD%A2%E9%81%87%E8%A5%B2-%E7%9C%BE%E4%BA%BA%E5%80%92%E5%9C%B0-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-11T16:53:23.815Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍麥當勞綠衣男騷擾陌生婦　職員制止遇襲　眾人倒地｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175239057848930304836492.jpeg/FKmxpQk0BUIhLeWun5ZjL2t_gj9oE0kvSyEKakshCmo",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389278/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%B6%A0%E8%A1%A3%E7%94%B7%E9%A8%B7%E6%93%BE%E9%99%8C%E7%94%9F%E5%A9%A6-%E8%81%B7%E5%93%A1%E5%88%B6%E6%AD%A2%E9%81%87%E8%A5%B2-%E7%9C%BE%E4%BA%BA%E5%80%92%E5%9C%B0-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-11T16:43:37.115Z",
     "strategy": ".content-card__main"
   }
 ];
