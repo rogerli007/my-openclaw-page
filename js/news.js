@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T21:28:37.700Z
+// Last updated: 2026-09-11T21:53:45.446Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "911襲擊25周年　萬斯與美國4民主黨前總統同框",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175295935014506496067835.jpeg/4eBr4Z-yhmR--zMIpVZnqFAPK3-nOa__XXbUWl121Fo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389293/911%E8%A5%B2%E6%93%8A25%E5%91%A8%E5%B9%B4-%E8%90%AC%E6%96%AF%E8%88%87%E7%BE%8E%E5%9C%8B4%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%89%8D%E7%B8%BD%E7%B5%B1%E5%90%8C%E6%A1%86",
+    "timestamp": "2026-09-11T21:53:45.446Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國：朝鮮向東海發射不明飛行物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175190101488046080485326.jpeg/Nkfx6ke_RfoCPdj1e4sNeG6iaBOXxxLNLh_q4i4f6uI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389259/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E7%B6%B2%E4%B8%8A%E4%BA%A4%E5%8F%8B%E9%A9%9A%E9%81%87%E9%A8%99%E5%B1%80%E7%9B%BC%E7%94%A8%E6%84%9B%E6%84%9F%E5%8C%96%E6%8F%B4%E4%BA%A4%E5%A6%B9-%E8%A6%8B%E9%9D%A2%E7%AB%9F%E7%B4%A2%E7%99%BE%E8%90%AC",
     "timestamp": "2026-09-11T14:53:51.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "多名中國人被ICE拘留時死亡　比監獄更難捱　留學生別自以為安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174321694827876352109385.jpeg/Kx4lduqLWpUx8kNs_OWL8HlTT-lcl5xAWviGD1r4hg8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388183/%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E4%BA%BA%E8%A2%ABice%E6%8B%98%E7%95%99%E6%99%82%E6%AD%BB%E4%BA%A1-%E6%AF%94%E7%9B%A3%E7%8D%84%E6%9B%B4%E9%9B%A3%E6%8D%B1-%E7%95%99%E5%AD%B8%E7%94%9F%E5%88%A5%E8%87%AA%E4%BB%A5%E7%82%BA%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-09-11T14:43:28.460Z",
     "strategy": ".content-card__main"
   }
 ];
