@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T18:53:54.550Z
+// Last updated: 2026-09-11T19:19:34.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
+    "timestamp": "2026-09-11T19:19:34.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113901656182886400830425.jpeg/56xGf15pyVstpIIuE0RpmXL2-SgxhnaTeqFOTXqhTk0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389225/%E7%B6%B2%E4%B8%8A%E5%B9%B3%E5%8F%B0%E6%B6%89%E8%99%9B%E5%A0%B1%E9%80%BE200%E6%94%BF%E5%BA%9C%E7%89%99%E9%86%AB%E9%A7%90%E8%A8%BA-%E8%A1%9E%E7%94%9F%E7%BD%B2%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E7%B1%B2%E5%B8%82%E6%B0%91%E5%8B%BF%E8%BC%95%E4%BF%A1",
     "timestamp": "2026-09-11T11:19:02.662Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慳電｜比冷氣機更耗電！4大家電食電怪、盡快行動避免年燒萬6電費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240516/867797166729465856806573.jpeg/Nh9zf2ZaWNFz-chPq4QjBBww64yiK1xGYXYsD2F2LA8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/1020008/%E6%85%B3%E9%9B%BB-%E6%AF%94%E5%86%B7%E6%B0%A3%E6%A9%9F%E6%9B%B4%E8%80%97%E9%9B%BB-4%E5%A4%A7%E5%AE%B6%E9%9B%BB%E9%A3%9F%E9%9B%BB%E6%80%AA-%E7%9B%A1%E5%BF%AB%E8%A1%8C%E5%8B%95%E9%81%BF%E5%85%8D%E5%B9%B4%E7%87%92%E8%90%AC6%E9%9B%BB%E8%B2%BB",
-    "timestamp": "2026-09-11T10:53:59.756Z",
     "strategy": ".content-card__main"
   }
 ];
