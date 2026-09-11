@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T05:42:25.852Z
+// Last updated: 2026-09-11T05:54:24.664Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱晨麗賀汽車改裝品牌登陸香港　揀男友要睇駕駛態度：車品好秤先",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175072998944673792975621.jpeg/Cta3pxV4XDe41liP4M0VfCmxbi9tuJNycc-41HHPuNQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389072/%E6%9C%B1%E6%99%A8%E9%BA%97%E8%B3%80%E6%B1%BD%E8%BB%8A%E6%94%B9%E8%A3%9D%E5%93%81%E7%89%8C%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF-%E6%8F%80%E7%94%B7%E5%8F%8B%E8%A6%81%E7%9D%87%E9%A7%95%E9%A7%9B%E6%85%8B%E5%BA%A6-%E8%BB%8A%E5%93%81%E5%A5%BD%E7%A7%A4%E5%85%88",
+    "timestamp": "2026-09-11T05:54:24.664Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "支聯會案｜國安法後涉3案　拒交資料終極得直　六四集會24人罪成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174947547832127488267394.jpeg/z0x78Kn6_j9WtmjxgFNX7yc0m0aPB4Ckm54du5ueHbs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388947/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF4-0%E6%93%8A%E6%95%97%E6%B2%99%E5%B7%B4fc",
     "timestamp": "2026-09-10T21:41:43.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜曼聯4：0擊敗沙巴FC",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174947547832127488267394.jpeg/z0x78Kn6_j9WtmjxgFNX7yc0m0aPB4Ckm54du5ueHbs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60388947/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF4-0%E6%93%8A%E6%95%97%E6%B2%99%E5%B7%B4fc",
-    "timestamp": "2026-09-10T21:17:16.380Z",
     "strategy": ".content-card__main"
   }
 ];
