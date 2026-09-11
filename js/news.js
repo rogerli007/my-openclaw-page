@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T00:47:18.431Z
+// Last updated: 2026-09-11T01:14:08.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張衞健陪伴重病粉絲走完最後一程　扶靈火葬親力親為獲讚至情至聖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174727636748865536945712.jpeg/6S9Rj00bCzxuzFsW7dOsFYr9-2jwpsE0bY3j_W2N4_0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388704/%E5%BC%B5%E8%A1%9E%E5%81%A5%E9%99%AA%E4%BC%B4%E9%87%8D%E7%97%85%E7%B2%89%E7%B5%B2%E8%B5%B0%E5%AE%8C%E6%9C%80%E5%BE%8C%E4%B8%80%E7%A8%8B-%E6%89%B6%E9%9D%88%E7%81%AB%E8%91%AC%E8%A6%AA%E5%8A%9B%E8%A6%AA%E7%82%BA%E7%8D%B2%E8%AE%9A%E8%87%B3%E6%83%85%E8%87%B3%E8%81%96",
+    "timestamp": "2026-09-11T01:14:08.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《早春晴朗》結局！欒念帶尚之桃走時光走廊　承認「孫遠翥很好」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174879371974938624369758.jpeg/XfjCXpNUjuvgfubiduzTRTY8dkRfAwWYt_jE7bf4xO0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388934/%E9%99%B3%E6%9F%8F%E5%AE%87%E7%95%B6%E5%B9%B4%E8%A1%97%E9%A0%AD%E9%81%87%E5%90%8C%E6%9C%9F%E6%96%B0%E4%BA%BA%E8%A2%AB%E7%88%86%E7%B2%97%E5%95%8F%E5%80%99-%E5%90%8C%E5%B0%8F%E8%82%A5%E6%9B%BE%E5%9C%A8%E9%A0%92%E7%8D%8E%E7%A6%AE%E4%B8%8A%E7%94%9F%E6%81%A9%E6%80%A8",
     "timestamp": "2026-09-10T17:29:46.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣貨車衝紅燈險撞3名女學生　司機同日落網　案件將提堂｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174870444994465792250187.jpeg/ykQeWTr3JkUmlrYBXqV9eZJQjVBxKz_RESgZoxEoGaM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388928/%E8%8D%83%E7%81%A3%E8%B2%A8%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E3%E5%90%8D%E5%A5%B3%E5%AD%B8%E7%94%9F-%E5%8F%B8%E6%A9%9F%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2-%E6%A1%88%E4%BB%B6%E5%B0%87%E6%8F%90%E5%A0%82-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-10T17:18:07.937Z",
     "strategy": ".content-card__main"
   }
 ];
