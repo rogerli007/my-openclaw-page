@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T13:33:46.895Z
+// Last updated: 2026-09-11T13:56:45.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚詠麟紅館演唱會｜激減17磅險甩褲　宣布最後一騷：希望大家珍惜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175195459887566848374518.jpeg/2fRdB9B-UOYd2411O711xwsm7xcBf5gAc6FOxEqhTsQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389263/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%83-%E6%BF%80%E6%B8%9B17%E7%A3%85%E9%9A%AA%E7%94%A9%E8%A4%B2-%E5%AE%A3%E5%B8%83%E6%9C%80%E5%BE%8C%E4%B8%80%E9%A8%B7-%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E7%8F%8D%E6%83%9C",
+    "timestamp": "2026-09-11T13:56:45.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲律賓巴拉望省渡輪大火增至35死　倖存者：兩下爆炸聲後出現火災",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172621590391689216602374.jpeg/F1XtRClDOMHNjhLw4cx65kPJj-MRvTEPjEnugIxJ7oA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60386908/%E6%B8%A3%E6%89%93%E9%A6%AC%E6%8B%89%E6%9D%BE2027-%E5%A0%B1%E5%90%8D%E6%97%A5%E6%9C%9F-%E8%B2%BB%E7%94%A8-%E5%8D%8A%E9%A6%AC%E5%85%A8%E9%A6%AC%E8%B7%AF%E7%B7%9A%E5%9C%96-%E5%A2%9E%E8%A8%AD%E5%95%9F%E5%BE%B7%E6%B5%B7%E6%BF%B1%E8%B7%91",
     "timestamp": "2026-09-11T04:54:10.616Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中華文化x媒體素養　香港01招募活動助理　彈性參與青年教育項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175058643343642624165370.jpeg/uAv2QPVDY0S0ztdB_mYVkyRRAAs5FE3epwa4jqcGuI4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60378348/%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96x%E5%AA%92%E9%AB%94%E7%B4%A0%E9%A4%8A-%E9%A6%99%E6%B8%AF01%E6%8B%9B%E5%8B%9F%E6%B4%BB%E5%8B%95%E5%8A%A9%E7%90%86-%E5%BD%88%E6%80%A7%E5%8F%83%E8%88%87%E9%9D%92%E5%B9%B4%E6%95%99%E8%82%B2%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-09-11T04:45:20.276Z",
     "strategy": ".content-card__main"
   }
 ];
