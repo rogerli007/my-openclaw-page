@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T14:21:18.947Z
+// Last updated: 2026-09-11T14:43:28.460Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "多名中國人被ICE拘留時死亡　比監獄更難捱　留學生別自以為安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174321694827876352109385.jpeg/Kx4lduqLWpUx8kNs_OWL8HlTT-lcl5xAWviGD1r4hg8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388183/%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E4%BA%BA%E8%A2%ABice%E6%8B%98%E7%95%99%E6%99%82%E6%AD%BB%E4%BA%A1-%E6%AF%94%E7%9B%A3%E7%8D%84%E6%9B%B4%E9%9B%A3%E6%8D%B1-%E7%95%99%E5%AD%B8%E7%94%9F%E5%88%A5%E8%87%AA%E4%BB%A5%E7%82%BA%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-09-11T14:43:28.460Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本防衛大臣重申：不排除擁有核動力潛艇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220522/605070148172255232740129.jpeg/n7u4Uiu5jHc0BQSeR1JyDqTPVLWGLI6qnJwtUZycLVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60385885/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E5%9C%8B%E5%AE%89%E6%B3%95%E5%BE%8C%E6%B6%893%E6%A1%88-%E6%8B%92%E4%BA%A4%E8%B3%87%E6%96%99%E7%B5%82%E6%A5%B5%E5%BE%97%E7%9B%B4-%E5%85%AD%E5%9B%9B%E9%9B%86%E6%9C%8324%E4%BA%BA%E7%BD%AA%E6%88%90",
     "timestamp": "2026-09-11T05:42:25.852Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中秋節團飯4大推介｜富豪酒店人均$347起！燕窩＋鮑魚 1間早鳥8折",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171489374966124544037289.jpeg/EKDWkTd7kgt1SzYanNGyu0-HskD7i8EcGlHa1RpR2tU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60382287/%E4%B8%AD%E7%A7%8B%E7%AF%80%E5%9C%98%E9%A3%AF4%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%AF%8C%E8%B1%AA%E9%85%92%E5%BA%97%E4%BA%BA%E5%9D%87-347%E8%B5%B7-%E7%87%95%E7%AA%A9-%E9%AE%91%E9%AD%9A-1%E9%96%93%E6%97%A9%E9%B3%A58%E6%8A%98",
-    "timestamp": "2026-09-11T05:21:19.119Z",
     "strategy": ".content-card__main"
   }
 ];
