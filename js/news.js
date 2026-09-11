@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T14:43:28.460Z
+// Last updated: 2026-09-11T14:53:51.112Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜苦主網上交友驚遇騙局盼用愛感化援交妹　見面竟索百萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175190101488046080485326.jpeg/Nkfx6ke_RfoCPdj1e4sNeG6iaBOXxxLNLh_q4i4f6uI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389259/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E7%B6%B2%E4%B8%8A%E4%BA%A4%E5%8F%8B%E9%A9%9A%E9%81%87%E9%A8%99%E5%B1%80%E7%9B%BC%E7%94%A8%E6%84%9B%E6%84%9F%E5%8C%96%E6%8F%B4%E4%BA%A4%E5%A6%B9-%E8%A6%8B%E9%9D%A2%E7%AB%9F%E7%B4%A2%E7%99%BE%E8%90%AC",
+    "timestamp": "2026-09-11T14:53:51.112Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "多名中國人被ICE拘留時死亡　比監獄更難捱　留學生別自以為安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175072998944673792975621.jpeg/Cta3pxV4XDe41liP4M0VfCmxbi9tuJNycc-41HHPuNQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389072/%E6%9C%B1%E6%99%A8%E9%BA%97%E8%B3%80%E6%B1%BD%E8%BB%8A%E6%94%B9%E8%A3%9D%E5%93%81%E7%89%8C%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF-%E6%8F%80%E7%94%B7%E5%8F%8B%E8%A6%81%E7%9D%87%E9%A7%95%E9%A7%9B%E6%85%8B%E5%BA%A6-%E8%BB%8A%E5%93%81%E5%A5%BD%E7%A7%A4%E5%85%88",
     "timestamp": "2026-09-11T05:54:24.664Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "支聯會案｜國安法後涉3案　拒交資料終極得直　六四集會24人罪成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220522/605070148172255232740129.jpeg/n7u4Uiu5jHc0BQSeR1JyDqTPVLWGLI6qnJwtUZycLVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60385885/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E5%9C%8B%E5%AE%89%E6%B3%95%E5%BE%8C%E6%B6%893%E6%A1%88-%E6%8B%92%E4%BA%A4%E8%B3%87%E6%96%99%E7%B5%82%E6%A5%B5%E5%BE%97%E7%9B%B4-%E5%85%AD%E5%9B%9B%E9%9B%86%E6%9C%8324%E4%BA%BA%E7%BD%AA%E6%88%90",
-    "timestamp": "2026-09-11T05:42:25.852Z",
     "strategy": ".content-card__main"
   }
 ];
