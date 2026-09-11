@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T10:53:59.756Z
+// Last updated: 2026-09-11T11:19:02.662Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網上平台涉虛報逾200政府牙醫駐診　衞生署已報警　籲市民勿輕信",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113901656182886400830425.jpeg/56xGf15pyVstpIIuE0RpmXL2-SgxhnaTeqFOTXqhTk0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389225/%E7%B6%B2%E4%B8%8A%E5%B9%B3%E5%8F%B0%E6%B6%89%E8%99%9B%E5%A0%B1%E9%80%BE200%E6%94%BF%E5%BA%9C%E7%89%99%E9%86%AB%E9%A7%90%E8%A8%BA-%E8%A1%9E%E7%94%9F%E7%BD%B2%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E7%B1%B2%E5%B8%82%E6%B0%91%E5%8B%BF%E8%BC%95%E4%BF%A1",
+    "timestamp": "2026-09-11T11:19:02.662Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慳電｜比冷氣機更耗電！4大家電食電怪、盡快行動避免年燒萬6電費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174761990720065536743052.jpeg/v6_GMu_9kLBhqV3MPCHualJawmcpWeP7NK_sRTSv7EU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388733/%E7%8E%84%E6%88%B0-%E5%BC%B5%E8%87%B4%E6%81%86%E8%A2%AB%E5%B8%AB%E5%82%85%E6%89%B9%E4%B8%AD%E8%A1%B0%E8%B6%B3%E4%B8%83%E5%B9%B4-%E8%A6%AA%E8%AA%8D%E6%84%9F%E6%83%85%E6%B7%B7%E4%BA%82%E7%B4%AF%E4%BA%8B%E6%A5%AD%E6%9C%8B%E5%8F%8B%E7%9B%A1%E5%A4%B1",
     "timestamp": "2026-09-11T02:47:47.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳翠林邨36歲男子墮樓亡　疑因財困尋短",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240815/900822995897946112749180.jpeg/I4rLV3VL-3M6b1nCN-4vdJg_uKiKFMRVVmAooVZgKKE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388974/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%BF%A0%E6%9E%97%E9%82%A836%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1-%E7%96%91%E5%9B%A0%E8%B2%A1%E5%9B%B0%E5%B0%8B%E7%9F%AD",
-    "timestamp": "2026-09-11T01:59:50.901Z",
     "strategy": ".content-card__main"
   }
 ];
