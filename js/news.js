@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T22:18:35.368Z
+// Last updated: 2026-09-11T22:31:46.583Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有驟雨　稍後驟雨漸多及有雷暴　明日部分地區雨勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175321467567476736572039.jpeg/qWq6X4ShkgWuy3gFYi5ZmQv0xdLR7eXlS3LjB3Fy4wc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389292/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%98%8E%E6%97%A5%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-09-11T22:31:46.583Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日有驟雨　稍後驟雨漸多及有雷暴　明日部分地區雨勢較大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175216503419572224417586.jpeg/u0XXv4eJwfyhp0kwcWoytkIGkeetl0sLlHY625R2Ots?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389277/%E5%85%AD%E5%90%88%E5%BD%A9%E5%88%86%E9%8C%A2%E5%94%94%E5%8B%BB%E8%AE%8A%E7%9B%9C%E7%AB%8A-%E5%BE%8B%E5%B8%AB%E6%8C%87%E6%AD%B8%E9%82%84%E7%8D%8E%E9%87%91%E5%B7%B2%E5%86%87%E7%94%A8-%E6%88%96%E6%88%90%E6%97%A5%E5%BE%8C%E6%B1%82%E6%83%85%E7%90%86%E7%94%B1",
     "timestamp": "2026-09-11T15:54:23.365Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚詠麟紅館演唱會｜唱《一生中最愛》一度哽咽　感謝歌迷多年支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175220679188942848468091.jpeg/uNDeJYaMKKDBulnZugz8NaTiFm-VVOtBM6izZQaos2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389271/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%83-%E5%94%B1-%E4%B8%80%E7%94%9F%E4%B8%AD%E6%9C%80%E6%84%9B-%E4%B8%80%E5%BA%A6%E5%93%BD%E5%92%BD-%E6%84%9F%E8%AC%9D%E6%AD%8C%E8%BF%B7%E5%A4%9A%E5%B9%B4%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-09-11T15:19:50.025Z",
     "strategy": ".content-card__main"
   }
 ];
