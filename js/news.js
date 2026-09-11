@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T09:21:39.031Z
+// Last updated: 2026-09-11T09:43:46.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵阿伯被指非禮！吊帶女擋門逼落車：全車人陪你　後續更狂惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250915/1044322886694735872023765.jpeg/fHwzYxGdswXIP9Hc0j8fqI7EW5P-FArbChhjuQoYY7k",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60276525/%E6%B8%AF%E9%90%B5%E9%98%BF%E4%BC%AF%E8%A2%AB%E6%8C%87%E9%9D%9E%E7%A6%AE-%E5%90%8A%E5%B8%B6%E5%A5%B3%E6%93%8B%E9%96%80%E9%80%BC%E8%90%BD%E8%BB%8A-%E5%85%A8%E8%BB%8A%E4%BA%BA%E9%99%AA%E4%BD%A0-%E5%BE%8C%E7%BA%8C%E6%9B%B4%E7%8B%82%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-09-11T09:43:46.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾麗淇驚傳入ICU後突發聲明　認身體出狀況：懇請大家給予空間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174762919024398336549130.png/lrAEk5T9WxntQrXngoALmXGYYCyLxpEfbj2XKW49lyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388728/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E7%B5%90%E5%B1%80-%E6%AC%92%E5%BF%B5%E5%B8%B6%E5%B0%9A%E4%B9%8B%E6%A1%83%E8%B5%B0%E6%99%82%E5%85%89%E8%B5%B0%E5%BB%8A-%E6%89%BF%E8%AA%8D-%E5%AD%AB%E9%81%A0%E7%BF%A5%E5%BE%88%E5%A5%BD",
     "timestamp": "2026-09-11T00:47:18.431Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "911事件25周年｜美國CDC啟動兒童健康研究　追蹤2.5萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174963311368736768523619.jpeg/VT5ZoeWllSuDM5rFrwTUqZE6kexuqBCYb9DwOm_Q8Do?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388952/911%E4%BA%8B%E4%BB%B625%E5%91%A8%E5%B9%B4-%E7%BE%8E%E5%9C%8Bcdc%E5%95%9F%E5%8B%95%E5%85%92%E7%AB%A5%E5%81%A5%E5%BA%B7%E7%A0%94%E7%A9%B6-%E8%BF%BD%E8%B9%A42-5%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-09-10T23:41:22.029Z",
     "strategy": ".content-card__main"
   }
 ];
