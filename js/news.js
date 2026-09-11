@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T20:41:32.972Z
+// Last updated: 2026-09-11T21:17:36.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國：朝鮮向東海發射不明飛行物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5ddf9bb8b66f770df1c157ae.jpg/X5f7mfFP0SLjGHJxK_1loLz4XONe4QvlSO1I5UjtSOU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389291/%E9%9F%93%E5%9C%8B-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E4%B8%8D%E6%98%8E%E9%A3%9B%E8%A1%8C%E7%89%A9",
+    "timestamp": "2026-09-11T21:17:36.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "淺水灣豪宅遭爆竊　25歲女損失$46萬財物　包括勞力士名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175200798896820224741602.jpeg/AaQUanHN2ccfW0HXIZpz1fOCuu8X5vazHPufRBz7n0Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389266/%E6%97%A5%E6%9C%AC%E9%98%B2%E8%A1%9B%E5%A4%A7%E8%87%A3%E9%87%8D%E7%94%B3-%E4%B8%8D%E6%8E%92%E9%99%A4%E6%93%81%E6%9C%89%E6%A0%B8%E5%8B%95%E5%8A%9B%E6%BD%9B%E8%89%87",
     "timestamp": "2026-09-11T14:21:18.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚詠麟紅館演唱會｜激減17磅險甩褲　宣布最後一騷：希望大家珍惜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175195459887566848374518.jpeg/2fRdB9B-UOYd2411O711xwsm7xcBf5gAc6FOxEqhTsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389263/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%83-%E6%BF%80%E6%B8%9B17%E7%A3%85%E9%9A%AA%E7%94%A9%E8%A4%B2-%E5%AE%A3%E5%B8%83%E6%9C%80%E5%BE%8C%E4%B8%80%E9%A8%B7-%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E7%8F%8D%E6%83%9C",
-    "timestamp": "2026-09-11T13:56:45.523Z",
     "strategy": ".content-card__main"
   }
 ];
