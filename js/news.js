@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T08:57:03.708Z
+// Last updated: 2026-09-11T09:21:39.031Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾麗淇驚傳入ICU後突發聲明　認身體出狀況：懇請大家給予空間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175129737211678720012763.png/UoH6aq3YmRfXDxYm6gysF-m5-BM6llVuWShkJ1koZCc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389196/%E9%8D%BE%E9%BA%97%E6%B7%87%E9%A9%9A%E5%82%B3%E5%85%A5icu%E5%BE%8C%E7%AA%81%E7%99%BC%E8%81%B2%E6%98%8E-%E8%AA%8D%E8%BA%AB%E9%AB%94%E5%87%BA%E7%8B%80%E6%B3%81-%E6%87%87%E8%AB%8B%E5%A4%A7%E5%AE%B6%E7%B5%A6%E4%BA%88%E7%A9%BA%E9%96%93",
+    "timestamp": "2026-09-11T09:21:39.031Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18／Duo面世｜iPhone 16 17回收價全線升值｜僅1機跌$1280",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174963311368736768523619.jpeg/VT5ZoeWllSuDM5rFrwTUqZE6kexuqBCYb9DwOm_Q8Do?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388952/911%E4%BA%8B%E4%BB%B625%E5%91%A8%E5%B9%B4-%E7%BE%8E%E5%9C%8Bcdc%E5%95%9F%E5%8B%95%E5%85%92%E7%AB%A5%E5%81%A5%E5%BA%B7%E7%A0%94%E7%A9%B6-%E8%BF%BD%E8%B9%A42-5%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-09-10T23:41:22.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "911事件25周年｜美國CDC啟動兒童健康研究　追蹤2.5萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174963311368736768523619.jpeg/VT5ZoeWllSuDM5rFrwTUqZE6kexuqBCYb9DwOm_Q8Do?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388952/911%E4%BA%8B%E4%BB%B625%E5%91%A8%E5%B9%B4-%E7%BE%8E%E5%9C%8Bcdc%E5%95%9F%E5%8B%95%E5%85%92%E7%AB%A5%E5%81%A5%E5%BA%B7%E7%A0%94%E7%A9%B6-%E8%BF%BD%E8%B9%A42-5%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-09-10T23:27:23.056Z",
     "strategy": ".content-card__main"
   }
 ];
