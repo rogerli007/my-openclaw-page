@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T19:28:22.504Z
+// Last updated: 2026-09-11T19:41:30.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
+    "timestamp": "2026-09-11T19:41:30.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175140476404109312035198.png/9zUsaK14fuA--ilrx9YvqLiCR7fnHjiONcPgCjXD4Ao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389214/%E5%AD%AB%E8%97%9D%E7%8F%8D%E7%9F%AD%E8%A3%99%E8%B5%B0%E5%85%89nana%E6%80%A5%E4%BC%B8%E6%89%8B%E5%B9%AB%E5%A3%93%E8%A3%99%E6%93%BA-%E7%B6%B2%E6%B0%91%E8%A2%AB%E5%9C%88%E7%B2%89%E7%8B%82%E8%AE%9A-%E7%9C%9F%E6%AD%A3%E5%A7%8A%E5%A6%B9%E6%83%85",
     "timestamp": "2026-09-11T12:32:07.997Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雷宇揚離世｜昔日螢幕情侶關寶慧晒合照　痛心貼滿流淚Emoji悼念",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175151032754245632785231.jpeg/vKoze_GyuJU1ZB4e4AV5Nht-11Ug7-vLU4hp0VOIadE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389229/%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96-%E6%98%94%E6%97%A5%E8%9E%A2%E5%B9%95%E6%83%85%E4%BE%B6%E9%97%9C%E5%AF%B6%E6%85%A7%E6%99%92%E5%90%88%E7%85%A7-%E7%97%9B%E5%BF%83%E8%B2%BC%E6%BB%BF%E6%B5%81%E6%B7%9Aemoji%E6%82%BC%E5%BF%B5",
-    "timestamp": "2026-09-11T11:53:56.821Z",
     "strategy": ".content-card__main"
   }
 ];
