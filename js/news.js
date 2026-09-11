@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T10:42:59.721Z
+// Last updated: 2026-09-11T10:53:59.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慳電｜比冷氣機更耗電！4大家電食電怪、盡快行動避免年燒萬6電費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240516/867797166729465856806573.jpeg/Nh9zf2ZaWNFz-chPq4QjBBww64yiK1xGYXYsD2F2LA8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/1020008/%E6%85%B3%E9%9B%BB-%E6%AF%94%E5%86%B7%E6%B0%A3%E6%A9%9F%E6%9B%B4%E8%80%97%E9%9B%BB-4%E5%A4%A7%E5%AE%B6%E9%9B%BB%E9%A3%9F%E9%9B%BB%E6%80%AA-%E7%9B%A1%E5%BF%AB%E8%A1%8C%E5%8B%95%E9%81%BF%E5%85%8D%E5%B9%B4%E7%87%92%E8%90%AC6%E9%9B%BB%E8%B2%BB",
+    "timestamp": "2026-09-11T10:53:59.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周大福北角新盤皇璇上樓書　單幢式設計涉194伙　最細277呎平台戶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240815/900822995897946112749180.jpeg/I4rLV3VL-3M6b1nCN-4vdJg_uKiKFMRVVmAooVZgKKE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388974/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%BF%A0%E6%9E%97%E9%82%A836%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1-%E7%96%91%E5%9B%A0%E8%B2%A1%E5%9B%B0%E5%B0%8B%E7%9F%AD",
     "timestamp": "2026-09-11T01:59:50.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI泡沫論｜因算力短缺流失業務　微軟擬擴大數據中心規模逾三倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250926/1048185662714417152759823.jpeg/8RvrfhItj9NUIGZsAPh_RDmzGF_rR-HJOVQxbzlUMW8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388968/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-%E5%9B%A0%E7%AE%97%E5%8A%9B%E7%9F%AD%E7%BC%BA%E6%B5%81%E5%A4%B1%E6%A5%AD%E5%8B%99-%E5%BE%AE%E8%BB%9F%E6%93%AC%E6%93%B4%E5%A4%A7%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E8%A6%8F%E6%A8%A1%E9%80%BE%E4%B8%89%E5%80%8D",
-    "timestamp": "2026-09-11T01:44:07.830Z",
     "strategy": ".content-card__main"
   }
 ];
