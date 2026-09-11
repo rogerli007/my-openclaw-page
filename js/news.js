@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T01:59:50.901Z
+// Last updated: 2026-09-11T02:47:47.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玄戰｜張致恆被師傅批中衰足七年　親認感情混亂累事業朋友盡失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174761990720065536743052.jpeg/v6_GMu_9kLBhqV3MPCHualJawmcpWeP7NK_sRTSv7EU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388733/%E7%8E%84%E6%88%B0-%E5%BC%B5%E8%87%B4%E6%81%86%E8%A2%AB%E5%B8%AB%E5%82%85%E6%89%B9%E4%B8%AD%E8%A1%B0%E8%B6%B3%E4%B8%83%E5%B9%B4-%E8%A6%AA%E8%AA%8D%E6%84%9F%E6%83%85%E6%B7%B7%E4%BA%82%E7%B4%AF%E4%BA%8B%E6%A5%AD%E6%9C%8B%E5%8F%8B%E7%9B%A1%E5%A4%B1",
+    "timestamp": "2026-09-11T02:47:47.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳翠林邨36歲男子墮樓亡　疑因財困尋短",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B9%B3%E5%8F%B0%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
     "timestamp": "2026-09-10T18:44:58.144Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜青馬大橋車隊的士司機棄車跳海　救援人員尋人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174891217352134656605742.jpeg/aO7fKDjGotXu4yT7I_mg-vqrfkGCpe_wXd3Yzmfd2M4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388936/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B%E8%BB%8A%E9%9A%8A%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%A3%84%E8%BB%8A%E8%B7%B3%E6%B5%B7-%E6%95%91%E6%8F%B4%E4%BA%BA%E5%93%A1%E5%B0%8B%E4%BA%BA",
-    "timestamp": "2026-09-10T18:22:42.096Z",
     "strategy": ".content-card__main"
   }
 ];
