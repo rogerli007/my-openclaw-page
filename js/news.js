@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T02:47:47.311Z
+// Last updated: 2026-09-11T03:23:57.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "毛豆功效｜40歲後難入睡？營養師教吃凍毛豆助眠附食譜+通便5功效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175040456300433408923610.png/4g2zPoB4vhngoL9qkXrSTn0XvNr5tQIZdrTzPXa08z0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60385233/%E6%AF%9B%E8%B1%86%E5%8A%9F%E6%95%88-40%E6%AD%B2%E5%BE%8C%E9%9B%A3%E5%85%A5%E7%9D%A1-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%99%E5%90%83%E5%87%8D%E6%AF%9B%E8%B1%86%E5%8A%A9%E7%9C%A0%E9%99%84%E9%A3%9F%E8%AD%9C-%E9%80%9A%E4%BE%BF5%E5%8A%9F%E6%95%88",
+    "timestamp": "2026-09-11T03:23:57.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玄戰｜張致恆被師傅批中衰足七年　親認感情混亂累事業朋友盡失",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B0%8D%E9%96%8B%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
     "timestamp": "2026-09-10T19:25:41.559Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "圓方平台工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B9%B3%E5%8F%B0%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
-    "timestamp": "2026-09-10T18:44:58.144Z",
     "strategy": ".content-card__main"
   }
 ];
