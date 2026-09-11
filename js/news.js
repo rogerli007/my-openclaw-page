@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T19:54:15.771Z
+// Last updated: 2026-09-11T20:20:31.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "淺水灣豪宅遭爆竊　25歲女損失$46萬財物　包括勞力士名錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175283113996062720085723.jpeg/QGvkZcRf52rgh5v4gcaPPGwMFfMsF5YwRQC5yH8Aucg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389287/%E6%B7%BA%E6%B0%B4%E7%81%A3%E8%B1%AA%E5%AE%85%E9%81%AD%E7%88%86%E7%AB%8A-25%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1-46%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
+    "timestamp": "2026-09-11T20:20:31.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國交通部長：北部地區火車脫軌　初步評估約20傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175193587277631488394168.jpeg/YAoKR9EM-ZMrM3k5ULRswYVYV0MMk1I220g3LNtINyw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389262/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B7%B4%E6%8B%89%E6%9C%9B%E7%9C%81%E6%B8%A1%E8%BC%AA%E5%A4%A7%E7%81%AB%E5%A2%9E%E8%87%B335%E6%AD%BB-%E5%80%96%E5%AD%98%E8%80%85-%E5%85%A9%E4%B8%8B%E7%88%86%E7%82%B8%E8%81%B2%E5%BE%8C%E5%87%BA%E7%8F%BE%E7%81%AB%E7%81%BD",
     "timestamp": "2026-09-11T13:33:46.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運田徑｜港隊派37人出戰　賈慧妍父見證初戰大舞台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175164142386941952103697.jpeg/JC8tTzo3_XCJzgYVEXbS5vuSksuUeKpsHEdy-xxHcvs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389001/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E7%94%B0%E5%BE%91-%E6%B8%AF%E9%9A%8A%E6%B4%BE37%E4%BA%BA%E5%87%BA%E6%88%B0-%E8%B3%88%E6%85%A7%E5%A6%8D%E7%88%B6%E8%A6%8B%E8%AD%89%E5%88%9D%E6%88%B0%E5%A4%A7%E8%88%9E%E5%8F%B0",
-    "timestamp": "2026-09-11T12:50:02.700Z",
     "strategy": ".content-card__main"
   }
 ];
