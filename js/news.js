@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T01:14:08.628Z
+// Last updated: 2026-09-11T01:44:07.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI泡沫論｜因算力短缺流失業務　微軟擬擴大數據中心規模逾三倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250926/1048185662714417152759823.jpeg/8RvrfhItj9NUIGZsAPh_RDmzGF_rR-HJOVQxbzlUMW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60388968/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-%E5%9B%A0%E7%AE%97%E5%8A%9B%E7%9F%AD%E7%BC%BA%E6%B5%81%E5%A4%B1%E6%A5%AD%E5%8B%99-%E5%BE%AE%E8%BB%9F%E6%93%AC%E6%93%B4%E5%A4%A7%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E8%A6%8F%E6%A8%A1%E9%80%BE%E4%B8%89%E5%80%8D",
+    "timestamp": "2026-09-11T01:44:07.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張衞健陪伴重病粉絲走完最後一程　扶靈火葬親力親為獲讚至情至聖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174879371974938624369758.jpeg/XfjCXpNUjuvgfubiduzTRTY8dkRfAwWYt_jE7bf4xO0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388934/%E9%99%B3%E6%9F%8F%E5%AE%87%E7%95%B6%E5%B9%B4%E8%A1%97%E9%A0%AD%E9%81%87%E5%90%8C%E6%9C%9F%E6%96%B0%E4%BA%BA%E8%A2%AB%E7%88%86%E7%B2%97%E5%95%8F%E5%80%99-%E5%90%8C%E5%B0%8F%E8%82%A5%E6%9B%BE%E5%9C%A8%E9%A0%92%E7%8D%8E%E7%A6%AE%E4%B8%8A%E7%94%9F%E6%81%A9%E6%80%A8",
     "timestamp": "2026-09-10T17:41:22.565Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳柏宇當年街頭遇同期新人被爆粗問候　同小肥曾在頒獎禮上生恩怨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174879371974938624369758.jpeg/XfjCXpNUjuvgfubiduzTRTY8dkRfAwWYt_jE7bf4xO0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388934/%E9%99%B3%E6%9F%8F%E5%AE%87%E7%95%B6%E5%B9%B4%E8%A1%97%E9%A0%AD%E9%81%87%E5%90%8C%E6%9C%9F%E6%96%B0%E4%BA%BA%E8%A2%AB%E7%88%86%E7%B2%97%E5%95%8F%E5%80%99-%E5%90%8C%E5%B0%8F%E8%82%A5%E6%9B%BE%E5%9C%A8%E9%A0%92%E7%8D%8E%E7%A6%AE%E4%B8%8A%E7%94%9F%E6%81%A9%E6%80%A8",
-    "timestamp": "2026-09-10T17:29:46.164Z",
     "strategy": ".content-card__main"
   }
 ];
