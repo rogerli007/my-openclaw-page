@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T23:17:55.242Z
+// Last updated: 2026-09-11T23:28:41.119Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尿泡是腎病警號！56歲男確診腎病　逾半患者無痛　醫生解5大徵兆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171811442244980736514692.jpeg/WZxOGFhr2chJFM5yBIFRQLMqhzLIeT0GdeDak3Xg2pM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385685/%E5%B0%BF%E6%B3%A1%E6%98%AF%E8%85%8E%E7%97%85%E8%AD%A6%E8%99%9F-56%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E8%85%8E%E7%97%85-%E9%80%BE%E5%8D%8A%E6%82%A3%E8%80%85%E7%84%A1%E7%97%9B-%E9%86%AB%E7%94%9F%E8%A7%A35%E5%A4%A7%E5%BE%B5%E5%85%86",
+    "timestamp": "2026-09-11T23:28:41.119Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│網傳媳婦和公公車震被抓姦半裸逃跑　網民笑:肥水不流外人田",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175246557474197504270419.jpeg/h3xdmuvKEZJTM4h5TqdFa6H5ISMf_DSyAJ8D0ACfA9A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389282/%E8%AD%A6%E6%B2%B9%E5%B0%96%E6%89%93%E6%93%8A%E7%84%A1%E7%89%8C%E8%B3%A3%E9%85%92%E5%B7%A1%E6%9F%A5%E5%A4%9A%E8%99%95-%E6%AA%A2%E9%80%BE-2%E8%90%AC%E9%85%92%E7%B2%BE%E9%A3%B2%E5%93%81-5%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-11T17:17:57.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍麥當勞綠衣男騷擾陌生婦　職員制止遇襲　眾人倒地｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175239057848930304836492.jpeg/FKmxpQk0BUIhLeWun5ZjL2t_gj9oE0kvSyEKakshCmo",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389278/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%B6%A0%E8%A1%A3%E7%94%B7%E9%A8%B7%E6%93%BE%E9%99%8C%E7%94%9F%E5%A9%A6-%E8%81%B7%E5%93%A1%E5%88%B6%E6%AD%A2%E9%81%87%E8%A5%B2-%E7%9C%BE%E4%BA%BA%E5%80%92%E5%9C%B0-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-11T16:53:23.815Z",
     "strategy": ".content-card__main"
   }
 ];
