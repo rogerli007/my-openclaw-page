@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T03:55:19.429Z
+// Last updated: 2026-09-11T04:45:20.276Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中華文化x媒體素養　香港01招募活動助理　彈性參與青年教育項目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175058643343642624165370.jpeg/uAv2QPVDY0S0ztdB_mYVkyRRAAs5FE3epwa4jqcGuI4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60378348/%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96x%E5%AA%92%E9%AB%94%E7%B4%A0%E9%A4%8A-%E9%A6%99%E6%B8%AF01%E6%8B%9B%E5%8B%9F%E6%B4%BB%E5%8B%95%E5%8A%A9%E7%90%86-%E5%BD%88%E6%80%A7%E5%8F%83%E8%88%87%E9%9D%92%E5%B9%B4%E6%95%99%E8%82%B2%E9%A0%85%E7%9B%AE",
+    "timestamp": "2026-09-11T04:45:20.276Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教大生Ocamp性侵案　官先取5名事主創傷報告　押後至10.9判刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174930238044377088056913.png/zpxaxOqRcik08ftCpIuIvVuzBIJDdxELCRcESQkXBEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388943/%E7%91%9E%E5%A3%AB%E6%97%85%E9%81%8A%E5%B7%B4%E7%BF%BB%E5%81%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E5%82%B7-%E8%8D%B7%E8%98%AD%E6%97%85%E8%A1%8C%E7%A4%BE-48%E4%BA%BA%E5%9C%989-7%E5%87%BA%E7%99%BC",
     "timestamp": "2026-09-10T20:18:38.423Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "圓方對開工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B0%8D%E9%96%8B%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
-    "timestamp": "2026-09-10T19:53:53.531Z",
     "strategy": ".content-card__main"
   }
 ];
