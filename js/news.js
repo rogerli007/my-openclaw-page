@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T11:53:56.821Z
+// Last updated: 2026-09-11T12:32:07.997Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "孫藝珍短裙走光NANA急伸手幫壓裙擺　網民被圈粉狂讚：真正姊妹情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175140476404109312035198.png/9zUsaK14fuA--ilrx9YvqLiCR7fnHjiONcPgCjXD4Ao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389214/%E5%AD%AB%E8%97%9D%E7%8F%8D%E7%9F%AD%E8%A3%99%E8%B5%B0%E5%85%89nana%E6%80%A5%E4%BC%B8%E6%89%8B%E5%B9%AB%E5%A3%93%E8%A3%99%E6%93%BA-%E7%B6%B2%E6%B0%91%E8%A2%AB%E5%9C%88%E7%B2%89%E7%8B%82%E8%AE%9A-%E7%9C%9F%E6%AD%A3%E5%A7%8A%E5%A6%B9%E6%83%85",
+    "timestamp": "2026-09-11T12:32:07.997Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雷宇揚離世｜昔日螢幕情侶關寶慧晒合照　痛心貼滿流淚Emoji悼念",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098657442310393856972346.jpeg/D36vV_jYYNZ7w1EtKZlDULXPLndHh-MBQEVqk0BFapM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389017/%E5%AE%89%E8%B8%8F%E6%94%B6%E8%B3%BCpuma%E7%8D%B2%E5%B8%82%E7%9B%A3%E7%B8%BD%E5%B1%80-%E7%B6%A0%E7%87%88-%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%89%B9%E5%87%86%E6%B6%89%E8%B3%8715%E5%84%84%E6%AD%90%E5%85%83%E4%BA%A4%E6%98%93",
     "timestamp": "2026-09-11T03:46:05.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "毛豆功效｜40歲後難入睡？營養師教吃凍毛豆助眠附食譜+通便5功效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175040456300433408923610.png/4g2zPoB4vhngoL9qkXrSTn0XvNr5tQIZdrTzPXa08z0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60385233/%E6%AF%9B%E8%B1%86%E5%8A%9F%E6%95%88-40%E6%AD%B2%E5%BE%8C%E9%9B%A3%E5%85%A5%E7%9D%A1-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%99%E5%90%83%E5%87%8D%E6%AF%9B%E8%B1%86%E5%8A%A9%E7%9C%A0%E9%99%84%E9%A3%9F%E8%AD%9C-%E9%80%9A%E4%BE%BF5%E5%8A%9F%E6%95%88",
-    "timestamp": "2026-09-11T03:23:57.738Z",
     "strategy": ".content-card__main"
   }
 ];
