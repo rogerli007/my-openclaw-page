@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T21:17:36.379Z
+// Last updated: 2026-09-11T21:28:37.700Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國：朝鮮向東海發射不明飛行物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5ddf9bb8b66f770df1c157ae.jpg/X5f7mfFP0SLjGHJxK_1loLz4XONe4QvlSO1I5UjtSOU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389291/%E9%9F%93%E5%9C%8B-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E4%B8%8D%E6%98%8E%E9%A3%9B%E8%A1%8C%E7%89%A9",
+    "timestamp": "2026-09-11T21:28:37.700Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國：朝鮮向東海發射不明飛行物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174321694827876352109385.jpeg/Kx4lduqLWpUx8kNs_OWL8HlTT-lcl5xAWviGD1r4hg8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388183/%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E4%BA%BA%E8%A2%ABice%E6%8B%98%E7%95%99%E6%99%82%E6%AD%BB%E4%BA%A1-%E6%AF%94%E7%9B%A3%E7%8D%84%E6%9B%B4%E9%9B%A3%E6%8D%B1-%E7%95%99%E5%AD%B8%E7%94%9F%E5%88%A5%E8%87%AA%E4%BB%A5%E7%82%BA%E5%AE%89%E5%85%A8",
     "timestamp": "2026-09-11T14:43:28.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本防衛大臣重申：不排除擁有核動力潛艇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175200798896820224741602.jpeg/AaQUanHN2ccfW0HXIZpz1fOCuu8X5vazHPufRBz7n0Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389266/%E6%97%A5%E6%9C%AC%E9%98%B2%E8%A1%9B%E5%A4%A7%E8%87%A3%E9%87%8D%E7%94%B3-%E4%B8%8D%E6%8E%92%E9%99%A4%E6%93%81%E6%9C%89%E6%A0%B8%E5%8B%95%E5%8A%9B%E6%BD%9B%E8%89%87",
-    "timestamp": "2026-09-11T14:21:18.947Z",
     "strategy": ".content-card__main"
   }
 ];
