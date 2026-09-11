@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T12:50:02.700Z
+// Last updated: 2026-09-11T13:33:46.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲律賓巴拉望省渡輪大火增至35死　倖存者：兩下爆炸聲後出現火災",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175193587277631488394168.jpeg/YAoKR9EM-ZMrM3k5ULRswYVYV0MMk1I220g3LNtINyw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389262/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B7%B4%E6%8B%89%E6%9C%9B%E7%9C%81%E6%B8%A1%E8%BC%AA%E5%A4%A7%E7%81%AB%E5%A2%9E%E8%87%B335%E6%AD%BB-%E5%80%96%E5%AD%98%E8%80%85-%E5%85%A9%E4%B8%8B%E7%88%86%E7%82%B8%E8%81%B2%E5%BE%8C%E5%87%BA%E7%8F%BE%E7%81%AB%E7%81%BD",
+    "timestamp": "2026-09-11T13:33:46.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運田徑｜港隊派37人出戰　賈慧妍父見證初戰大舞台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175058643343642624165370.jpeg/uAv2QPVDY0S0ztdB_mYVkyRRAAs5FE3epwa4jqcGuI4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60378348/%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96x%E5%AA%92%E9%AB%94%E7%B4%A0%E9%A4%8A-%E9%A6%99%E6%B8%AF01%E6%8B%9B%E5%8B%9F%E6%B4%BB%E5%8B%95%E5%8A%A9%E7%90%86-%E5%BD%88%E6%80%A7%E5%8F%83%E8%88%87%E9%9D%92%E5%B9%B4%E6%95%99%E8%82%B2%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-09-11T04:45:20.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教大生Ocamp性侵案　官先取5名事主創傷報告　押後至10.9判刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162379236934422528932608.jpeg/lNh-cQIYzL9qyNc_qs6nJJReca40GLwn4on_IceJ_yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389040/%E6%95%99%E5%A4%A7%E7%94%9Focamp%E6%80%A7%E4%BE%B5%E6%A1%88-%E5%AE%98%E5%85%88%E5%8F%965%E5%90%8D%E4%BA%8B%E4%B8%BB%E5%89%B5%E5%82%B7%E5%A0%B1%E5%91%8A-%E6%8A%BC%E5%BE%8C%E8%87%B310-9%E5%88%A4%E5%88%91",
-    "timestamp": "2026-09-11T03:55:19.429Z",
     "strategy": ".content-card__main"
   }
 ];
