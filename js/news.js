@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T08:26:02.737Z
+// Last updated: 2026-09-11T08:57:03.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18／Duo面世｜iPhone 16 17回收價全線升值｜僅1機跌$1280",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260826/1169319294106865664154782.jpeg/EZVu94Fl7EyknuRSfQtBPFILdU_48EMO6_gEnOv4BJw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60389138/iphone-18-duo%E9%9D%A2%E4%B8%96-iphone-16-17%E5%9B%9E%E6%94%B6%E5%83%B9%E5%85%A8%E7%B7%9A%E5%8D%87%E5%80%BC-%E5%83%851%E6%A9%9F%E8%B7%8C-1280",
+    "timestamp": "2026-09-11T08:57:03.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中原CCL成份屋苑增加7個至150個　包括形薈、翰林峰、海之戀等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174963311368736768523619.jpeg/VT5ZoeWllSuDM5rFrwTUqZE6kexuqBCYb9DwOm_Q8Do?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388952/911%E4%BA%8B%E4%BB%B625%E5%91%A8%E5%B9%B4-%E7%BE%8E%E5%9C%8Bcdc%E5%95%9F%E5%8B%95%E5%85%92%E7%AB%A5%E5%81%A5%E5%BA%B7%E7%A0%94%E7%A9%B6-%E8%BF%BD%E8%B9%A42-5%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-09-10T23:27:23.056Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前頂級花旦與台灣男星婚後曝光美國生活　80歲陪仔新抱狂食行街",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174797895400951808384529.jpeg/UfFkaagjmdufIJcEoGBW8-syBkjVvfxLUqGc4VKhnOE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388721/%E8%83%A1%E7%87%95%E5%A6%AE%E8%88%87%E5%8F%B0%E7%81%A3%E7%94%B7%E6%98%9F%E7%B5%90%E5%A9%9A%E6%9B%9D%E5%85%89%E7%BE%8E%E5%9C%8B%E7%94%9F%E6%B4%BB-80%E6%AD%B2%E9%99%AA%E4%BB%94%E6%96%B0%E6%8A%B1%E7%8B%82%E9%A3%9F%E8%A1%8C%E8%A1%97",
-    "timestamp": "2026-09-10T22:59:30.855Z",
     "strategy": ".content-card__main"
   }
 ];
