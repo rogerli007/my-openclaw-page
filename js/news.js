@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T17:30:22.089Z
+// Last updated: 2026-09-11T17:53:38.303Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山恆安邨單位傳異味　消防爆門證實夫妻倒斃屋內　重案組跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175256323822981120176429.jpeg/dk5m6AxjAHudqCGb34kYY2pSE6MMt45-q2emkJFnppA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389284/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%81%86%E5%AE%89%E9%82%A8%E5%96%AE%E4%BD%8D%E5%82%B3%E7%95%B0%E5%91%B3-%E6%B6%88%E9%98%B2%E7%88%86%E9%96%80%E8%AD%89%E5%AF%A6%E5%A4%AB%E5%A6%BB%E5%80%92%E6%96%83%E5%B1%8B%E5%85%A7-%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-09-11T17:53:38.303Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本前外相岩屋毅擬9.27起率貿易團體訪華　尋求與中方領導層會面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175122949007478784345028.jpeg/d68XiKCcFxlwHazVrjrL442IsRBYWjfigXqo8oF6qPI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389164/%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96-%E6%8B%8D-%E9%99%B0%E9%99%BD%E8%B7%AF-%E6%88%90%E4%B8%80%E4%BB%A3%E9%AC%BC%E7%8E%8B-%E6%9B%BE%E6%8B%8D%E6%AA%94%E5%91%A8%E6%98%9F%E9%A6%B3%E6%BC%94%E7%80%9F%E7%81%91%E5%93%A5",
     "timestamp": "2026-09-11T09:54:04.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵阿伯被指非禮！吊帶女擋門逼落車：全車人陪你　後續更狂惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250915/1044322886694735872023765.jpeg/fHwzYxGdswXIP9Hc0j8fqI7EW5P-FArbChhjuQoYY7k",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60276525/%E6%B8%AF%E9%90%B5%E9%98%BF%E4%BC%AF%E8%A2%AB%E6%8C%87%E9%9D%9E%E7%A6%AE-%E5%90%8A%E5%B8%B6%E5%A5%B3%E6%93%8B%E9%96%80%E9%80%BC%E8%90%BD%E8%BB%8A-%E5%85%A8%E8%BB%8A%E4%BA%BA%E9%99%AA%E4%BD%A0-%E5%BE%8C%E7%BA%8C%E6%9B%B4%E7%8B%82%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-09-11T09:43:46.918Z",
     "strategy": ".content-card__main"
   }
 ];
