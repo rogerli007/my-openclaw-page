@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T04:45:20.276Z
+// Last updated: 2026-09-11T04:54:10.616Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "渣打馬拉松2027報名日期+路線　半馬名額增4000　增設啟德海濱跑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172621590391689216602374.jpeg/F1XtRClDOMHNjhLw4cx65kPJj-MRvTEPjEnugIxJ7oA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60386908/%E6%B8%A3%E6%89%93%E9%A6%AC%E6%8B%89%E6%9D%BE2027-%E5%A0%B1%E5%90%8D%E6%97%A5%E6%9C%9F-%E8%B2%BB%E7%94%A8-%E5%8D%8A%E9%A6%AC%E5%85%A8%E9%A6%AC%E8%B7%AF%E7%B7%9A%E5%9C%96-%E5%A2%9E%E8%A8%AD%E5%95%9F%E5%BE%B7%E6%B5%B7%E6%BF%B1%E8%B7%91",
+    "timestamp": "2026-09-11T04:54:10.616Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中華文化x媒體素養　香港01招募活動助理　彈性參與青年教育項目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174930238044377088056913.png/zpxaxOqRcik08ftCpIuIvVuzBIJDdxELCRcESQkXBEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388943/%E7%91%9E%E5%A3%AB%E6%97%85%E9%81%8A%E5%B7%B4%E7%BF%BB%E5%81%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E5%82%B7-%E8%8D%B7%E8%98%AD%E6%97%85%E8%A1%8C%E7%A4%BE-48%E4%BA%BA%E5%9C%989-7%E5%87%BA%E7%99%BC",
     "timestamp": "2026-09-10T20:42:44.062Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士旅遊巴翻側多人死傷　荷蘭旅行社：48人團9.7出發",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174930238044377088056913.png/zpxaxOqRcik08ftCpIuIvVuzBIJDdxELCRcESQkXBEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388943/%E7%91%9E%E5%A3%AB%E6%97%85%E9%81%8A%E5%B7%B4%E7%BF%BB%E5%81%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E5%82%B7-%E8%8D%B7%E8%98%AD%E6%97%85%E8%A1%8C%E7%A4%BE-48%E4%BA%BA%E5%9C%989-7%E5%87%BA%E7%99%BC",
-    "timestamp": "2026-09-10T20:18:38.423Z",
     "strategy": ".content-card__main"
   }
 ];
