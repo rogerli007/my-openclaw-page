@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T19:41:30.443Z
+// Last updated: 2026-09-11T19:54:15.771Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國交通部長：北部地區火車脫軌　初步評估約20傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175290464325079040980632.jpeg/v1oSZy1E_zKbbIfg5xlKaYr_1ztny19ugBdzUIAXc1A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389288/%E6%B3%95%E5%9C%8B%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7-%E5%8C%97%E9%83%A8%E5%9C%B0%E5%8D%80%E7%81%AB%E8%BB%8A%E8%84%AB%E8%BB%8C-%E5%88%9D%E6%AD%A5%E8%A9%95%E4%BC%B0%E7%B4%8420%E5%82%B7",
+    "timestamp": "2026-09-11T19:54:15.771Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175164142386941952103697.jpeg/JC8tTzo3_XCJzgYVEXbS5vuSksuUeKpsHEdy-xxHcvs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389001/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E7%94%B0%E5%BE%91-%E6%B8%AF%E9%9A%8A%E6%B4%BE37%E4%BA%BA%E5%87%BA%E6%88%B0-%E8%B3%88%E6%85%A7%E5%A6%8D%E7%88%B6%E8%A6%8B%E8%AD%89%E5%88%9D%E6%88%B0%E5%A4%A7%E8%88%9E%E5%8F%B0",
     "timestamp": "2026-09-11T12:50:02.700Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "孫藝珍短裙走光NANA急伸手幫壓裙擺　網民被圈粉狂讚：真正姊妹情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175140476404109312035198.png/9zUsaK14fuA--ilrx9YvqLiCR7fnHjiONcPgCjXD4Ao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389214/%E5%AD%AB%E8%97%9D%E7%8F%8D%E7%9F%AD%E8%A3%99%E8%B5%B0%E5%85%89nana%E6%80%A5%E4%BC%B8%E6%89%8B%E5%B9%AB%E5%A3%93%E8%A3%99%E6%93%BA-%E7%B6%B2%E6%B0%91%E8%A2%AB%E5%9C%88%E7%B2%89%E7%8B%82%E8%AE%9A-%E7%9C%9F%E6%AD%A3%E5%A7%8A%E5%A6%B9%E6%83%85",
-    "timestamp": "2026-09-11T12:32:07.997Z",
     "strategy": ".content-card__main"
   }
 ];
