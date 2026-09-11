@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T15:19:50.025Z
+// Last updated: 2026-09-11T15:54:23.365Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩分錢唔勻變盜竊　律師指歸還獎金已冇用　或成日後求情理由",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175216503419572224417586.jpeg/u0XXv4eJwfyhp0kwcWoytkIGkeetl0sLlHY625R2Ots?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389277/%E5%85%AD%E5%90%88%E5%BD%A9%E5%88%86%E9%8C%A2%E5%94%94%E5%8B%BB%E8%AE%8A%E7%9B%9C%E7%AB%8A-%E5%BE%8B%E5%B8%AB%E6%8C%87%E6%AD%B8%E9%82%84%E7%8D%8E%E9%87%91%E5%B7%B2%E5%86%87%E7%94%A8-%E6%88%96%E6%88%90%E6%97%A5%E5%BE%8C%E6%B1%82%E6%83%85%E7%90%86%E7%94%B1",
+    "timestamp": "2026-09-11T15:54:23.365Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟紅館演唱會｜唱《一生中最愛》一度哽咽　感謝歌迷多年支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175101888719228928387240.png/PENgrmWtbXScMjfXCsOmlNa-M4FNoJNf9bRQo_W0UKM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60389134/%E6%B1%9F%E8%A5%BF%E8%A8%98%E8%80%85%E6%8E%A1%E8%A8%AA%E6%B7%B1%E5%9C%B3%E6%B0%91%E5%AE%BF%E6%A5%AD%E4%B8%BB%E8%A2%AB%E6%8E%8C%E6%91%91%E8%87%B3%E8%80%B3%E9%B3%B4-51%E6%AD%B2%E6%B6%89%E6%A1%88%E7%94%B7%E8%A2%AB%E8%A1%8C%E6%8B%98",
     "timestamp": "2026-09-11T07:47:02.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "支聯會案．判刑｜3名被告還押逾千日　何俊仁料最快2028年出獄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3323310/org/04b9c3470948480922c2dc7c2cac57a0.jpg/w0M75tsbiLc0YKyaIBEa3uVBi8_rsWjRA1LbrwNS268?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389092/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E5%88%A4%E5%88%91-3%E5%90%8D%E8%A2%AB%E5%91%8A%E9%82%84%E6%8A%BC%E9%80%BE%E5%8D%83%E6%97%A5-%E4%BD%95%E4%BF%8A%E4%BB%81%E6%96%99%E6%9C%80%E5%BF%AB2028%E5%B9%B4%E5%87%BA%E7%8D%84",
-    "timestamp": "2026-09-11T06:31:43.613Z",
     "strategy": ".content-card__main"
   }
 ];
