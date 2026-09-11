@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T17:17:57.212Z
+// Last updated: 2026-09-11T17:30:22.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本前外相岩屋毅擬9.27起率貿易團體訪華　尋求與中方領導層會面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159504973885607936054168.jpeg/6nB46C8kgFLYri9LGy0jZMFttJAUGZ8_qAjz26gI89s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389283/%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E5%B2%A9%E5%B1%8B%E6%AF%85%E6%93%AC9-27%E8%B5%B7%E7%8E%87%E8%B2%BF%E6%98%93%E5%9C%98%E9%AB%94%E8%A8%AA%E8%8F%AF-%E5%B0%8B%E6%B1%82%E8%88%87%E4%B8%AD%E6%96%B9%E9%A0%98%E5%B0%8E%E5%B1%A4%E6%9C%83%E9%9D%A2",
+    "timestamp": "2026-09-11T17:30:22.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警油尖打擊無牌賣酒巡查多處　檢逾$2萬酒精飲品　5人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250915/1044322886694735872023765.jpeg/fHwzYxGdswXIP9Hc0j8fqI7EW5P-FArbChhjuQoYY7k",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60276525/%E6%B8%AF%E9%90%B5%E9%98%BF%E4%BC%AF%E8%A2%AB%E6%8C%87%E9%9D%9E%E7%A6%AE-%E5%90%8A%E5%B8%B6%E5%A5%B3%E6%93%8B%E9%96%80%E9%80%BC%E8%90%BD%E8%BB%8A-%E5%85%A8%E8%BB%8A%E4%BA%BA%E9%99%AA%E4%BD%A0-%E5%BE%8C%E7%BA%8C%E6%9B%B4%E7%8B%82%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-09-11T09:43:46.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鍾麗淇驚傳入ICU後突發聲明　認身體出狀況：懇請大家給予空間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175129737211678720012763.png/UoH6aq3YmRfXDxYm6gysF-m5-BM6llVuWShkJ1koZCc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389196/%E9%8D%BE%E9%BA%97%E6%B7%87%E9%A9%9A%E5%82%B3%E5%85%A5icu%E5%BE%8C%E7%AA%81%E7%99%BC%E8%81%B2%E6%98%8E-%E8%AA%8D%E8%BA%AB%E9%AB%94%E5%87%BA%E7%8B%80%E6%B3%81-%E6%87%87%E8%AB%8B%E5%A4%A7%E5%AE%B6%E7%B5%A6%E4%BA%88%E7%A9%BA%E9%96%93",
-    "timestamp": "2026-09-11T09:21:39.031Z",
     "strategy": ".content-card__main"
   }
 ];
