@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T03:23:57.738Z
+// Last updated: 2026-09-11T03:46:05.004Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安踏收購Puma獲市監總局「綠燈」　無條件批准涉資15億歐元交易",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260212/1098657442310393856972346.jpeg/D36vV_jYYNZ7w1EtKZlDULXPLndHh-MBQEVqk0BFapM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389017/%E5%AE%89%E8%B8%8F%E6%94%B6%E8%B3%BCpuma%E7%8D%B2%E5%B8%82%E7%9B%A3%E7%B8%BD%E5%B1%80-%E7%B6%A0%E7%87%88-%E7%84%A1%E6%A2%9D%E4%BB%B6%E6%89%B9%E5%87%86%E6%B6%89%E8%B3%8715%E5%84%84%E6%AD%90%E5%85%83%E4%BA%A4%E6%98%93",
+    "timestamp": "2026-09-11T03:46:05.004Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "毛豆功效｜40歲後難入睡？營養師教吃凍毛豆助眠附食譜+通便5功效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B0%8D%E9%96%8B%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
     "timestamp": "2026-09-10T19:42:16.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "圓方對開工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B0%8D%E9%96%8B%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
-    "timestamp": "2026-09-10T19:25:41.559Z",
     "strategy": ".content-card__main"
   }
 ];
