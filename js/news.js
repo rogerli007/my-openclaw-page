@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T23:43:04.524Z
+// Last updated: 2026-09-11T23:54:13.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尿泡是腎病警號！56歲男確診腎病　逾半患者無痛　醫生解5大徵兆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171811442244980736514692.jpeg/WZxOGFhr2chJFM5yBIFRQLMqhzLIeT0GdeDak3Xg2pM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385685/%E5%B0%BF%E6%B3%A1%E6%98%AF%E8%85%8E%E7%97%85%E8%AD%A6%E8%99%9F-56%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E8%85%8E%E7%97%85-%E9%80%BE%E5%8D%8A%E6%82%A3%E8%80%85%E7%84%A1%E7%97%9B-%E9%86%AB%E7%94%9F%E8%A7%A35%E5%A4%A7%E5%BE%B5%E5%85%86",
+    "timestamp": "2026-09-11T23:54:13.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尿泡是腎病警號！56歲男確診腎病　逾半患者無痛　醫生解5大徵兆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175256323822981120176429.jpeg/dk5m6AxjAHudqCGb34kYY2pSE6MMt45-q2emkJFnppA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389284/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%81%86%E5%AE%89%E9%82%A8%E5%96%AE%E4%BD%8D%E5%82%B3%E7%95%B0%E5%91%B3-%E6%B6%88%E9%98%B2%E7%88%86%E9%96%80%E8%AD%89%E5%AF%A6%E5%A4%AB%E5%A6%BB%E5%80%92%E6%96%83%E5%B1%8B%E5%85%A7-%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-09-11T17:53:38.303Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本前外相岩屋毅擬9.27起率貿易團體訪華　尋求與中方領導層會面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159504973885607936054168.jpeg/6nB46C8kgFLYri9LGy0jZMFttJAUGZ8_qAjz26gI89s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389283/%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E5%B2%A9%E5%B1%8B%E6%AF%85%E6%93%AC9-27%E8%B5%B7%E7%8E%87%E8%B2%BF%E6%98%93%E5%9C%98%E9%AB%94%E8%A8%AA%E8%8F%AF-%E5%B0%8B%E6%B1%82%E8%88%87%E4%B8%AD%E6%96%B9%E9%A0%98%E5%B0%8E%E5%B1%A4%E6%9C%83%E9%9D%A2",
-    "timestamp": "2026-09-11T17:30:22.089Z",
     "strategy": ".content-card__main"
   }
 ];
