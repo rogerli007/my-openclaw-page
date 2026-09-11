@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T06:31:43.613Z
+// Last updated: 2026-09-11T07:47:02.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江西記者採訪深圳民宿業主被掌摑至耳鳴　51歲涉案男被行拘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175101888719228928387240.png/PENgrmWtbXScMjfXCsOmlNa-M4FNoJNf9bRQo_W0UKM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60389134/%E6%B1%9F%E8%A5%BF%E8%A8%98%E8%80%85%E6%8E%A1%E8%A8%AA%E6%B7%B1%E5%9C%B3%E6%B0%91%E5%AE%BF%E6%A5%AD%E4%B8%BB%E8%A2%AB%E6%8E%8C%E6%91%91%E8%87%B3%E8%80%B3%E9%B3%B4-51%E6%AD%B2%E6%B6%89%E6%A1%88%E7%94%B7%E8%A2%AB%E8%A1%8C%E6%8B%98",
+    "timestamp": "2026-09-11T07:47:02.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "支聯會案．判刑｜3名被告還押逾千日　何俊仁料最快2028年出獄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174962982757601280278934.jpeg/98HR2E8euEbKYZLPE4pgGvWe3hA6A_cXHTRO0ic0TtI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388950/%E5%A4%A7%E7%AA%A9%E5%8F%A3%E9%82%A8%E5%A6%BB%E5%AD%90%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-10T22:28:28.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秘魯加入美國反毒聯盟「美洲之盾」　魯比奧到訪加深安全合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174945928495239168809435.jpeg/cMvjXu1uc77D_syyDHvh-d-8JmTKt-E54j91UOI_dVA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388949/%E7%A7%98%E9%AD%AF%E5%8A%A0%E5%85%A5%E7%BE%8E%E5%9C%8B%E5%8F%8D%E6%AF%92%E8%81%AF%E7%9B%9F-%E7%BE%8E%E6%B4%B2%E4%B9%8B%E7%9B%BE-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%88%B0%E8%A8%AA%E5%8A%A0%E6%B7%B1%E5%AE%89%E5%85%A8%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-09-10T21:54:22.137Z",
     "strategy": ".content-card__main"
   }
 ];
