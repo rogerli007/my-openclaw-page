@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-10T23:41:22.029Z
+// Last updated: 2026-09-11T00:47:18.431Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《早春晴朗》結局！欒念帶尚之桃走時光走廊　承認「孫遠翥很好」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174762919024398336549130.png/lrAEk5T9WxntQrXngoALmXGYYCyLxpEfbj2XKW49lyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60388728/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E7%B5%90%E5%B1%80-%E6%AC%92%E5%BF%B5%E5%B8%B6%E5%B0%9A%E4%B9%8B%E6%A1%83%E8%B5%B0%E6%99%82%E5%85%89%E8%B5%B0%E5%BB%8A-%E6%89%BF%E8%AA%8D-%E5%AD%AB%E9%81%A0%E7%BF%A5%E5%BE%88%E5%A5%BD",
+    "timestamp": "2026-09-11T00:47:18.431Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "911事件25周年｜美國CDC啟動兒童健康研究　追蹤2.5萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174870444994465792250187.jpeg/ykQeWTr3JkUmlrYBXqV9eZJQjVBxKz_RESgZoxEoGaM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388928/%E8%8D%83%E7%81%A3%E8%B2%A8%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E3%E5%90%8D%E5%A5%B3%E5%AD%B8%E7%94%9F-%E5%8F%B8%E6%A9%9F%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2-%E6%A1%88%E4%BB%B6%E5%B0%87%E6%8F%90%E5%A0%82-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-10T17:18:07.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣貨車衝紅燈險撞3名女學生　司機同日落網　案件將提堂｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174870444994465792250187.jpeg/ykQeWTr3JkUmlrYBXqV9eZJQjVBxKz_RESgZoxEoGaM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388928/%E8%8D%83%E7%81%A3%E8%B2%A8%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E3%E5%90%8D%E5%A5%B3%E5%AD%B8%E7%94%9F-%E5%8F%B8%E6%A9%9F%E5%90%8C%E6%97%A5%E8%90%BD%E7%B6%B2-%E6%A1%88%E4%BB%B6%E5%B0%87%E6%8F%90%E5%A0%82-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-10T16:53:53.836Z",
     "strategy": ".content-card__main"
   }
 ];
