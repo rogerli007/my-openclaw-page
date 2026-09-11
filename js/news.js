@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T11:19:02.662Z
+// Last updated: 2026-09-11T11:53:56.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雷宇揚離世｜昔日螢幕情侶關寶慧晒合照　痛心貼滿流淚Emoji悼念",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175151032754245632785231.jpeg/vKoze_GyuJU1ZB4e4AV5Nht-11Ug7-vLU4hp0VOIadE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389229/%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96-%E6%98%94%E6%97%A5%E8%9E%A2%E5%B9%95%E6%83%85%E4%BE%B6%E9%97%9C%E5%AF%B6%E6%85%A7%E6%99%92%E5%90%88%E7%85%A7-%E7%97%9B%E5%BF%83%E8%B2%BC%E6%BB%BF%E6%B5%81%E6%B7%9Aemoji%E6%82%BC%E5%BF%B5",
+    "timestamp": "2026-09-11T11:53:56.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網上平台涉虛報逾200政府牙醫駐診　衞生署已報警　籲市民勿輕信",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175040456300433408923610.png/4g2zPoB4vhngoL9qkXrSTn0XvNr5tQIZdrTzPXa08z0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60385233/%E6%AF%9B%E8%B1%86%E5%8A%9F%E6%95%88-40%E6%AD%B2%E5%BE%8C%E9%9B%A3%E5%85%A5%E7%9D%A1-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%95%99%E5%90%83%E5%87%8D%E6%AF%9B%E8%B1%86%E5%8A%A9%E7%9C%A0%E9%99%84%E9%A3%9F%E8%AD%9C-%E9%80%9A%E4%BE%BF5%E5%8A%9F%E6%95%88",
     "timestamp": "2026-09-11T03:23:57.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玄戰｜張致恆被師傅批中衰足七年　親認感情混亂累事業朋友盡失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174761990720065536743052.jpeg/v6_GMu_9kLBhqV3MPCHualJawmcpWeP7NK_sRTSv7EU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60388733/%E7%8E%84%E6%88%B0-%E5%BC%B5%E8%87%B4%E6%81%86%E8%A2%AB%E5%B8%AB%E5%82%85%E6%89%B9%E4%B8%AD%E8%A1%B0%E8%B6%B3%E4%B8%83%E5%B9%B4-%E8%A6%AA%E8%AA%8D%E6%84%9F%E6%83%85%E6%B7%B7%E4%BA%82%E7%B4%AF%E4%BA%8B%E6%A5%AD%E6%9C%8B%E5%8F%8B%E7%9B%A1%E5%A4%B1",
-    "timestamp": "2026-09-11T02:47:47.311Z",
     "strategy": ".content-card__main"
   }
 ];
