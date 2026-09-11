@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T14:53:51.112Z
+// Last updated: 2026-09-11T15:19:50.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚詠麟紅館演唱會｜唱《一生中最愛》一度哽咽　感謝歌迷多年支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175220679188942848468091.jpeg/uNDeJYaMKKDBulnZugz8NaTiFm-VVOtBM6izZQaos2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389271/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%83-%E5%94%B1-%E4%B8%80%E7%94%9F%E4%B8%AD%E6%9C%80%E6%84%9B-%E4%B8%80%E5%BA%A6%E5%93%BD%E5%92%BD-%E6%84%9F%E8%AC%9D%E6%AD%8C%E8%BF%B7%E5%A4%9A%E5%B9%B4%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-09-11T15:19:50.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜苦主網上交友驚遇騙局盼用愛感化援交妹　見面竟索百萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3323310/org/04b9c3470948480922c2dc7c2cac57a0.jpg/w0M75tsbiLc0YKyaIBEa3uVBi8_rsWjRA1LbrwNS268?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389092/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E5%88%A4%E5%88%91-3%E5%90%8D%E8%A2%AB%E5%91%8A%E9%82%84%E6%8A%BC%E9%80%BE%E5%8D%83%E6%97%A5-%E4%BD%95%E4%BF%8A%E4%BB%81%E6%96%99%E6%9C%80%E5%BF%AB2028%E5%B9%B4%E5%87%BA%E7%8D%84",
     "timestamp": "2026-09-11T06:31:43.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱晨麗賀汽車改裝品牌登陸香港　揀男友要睇駕駛態度：車品好秤先",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175072998944673792975621.jpeg/Cta3pxV4XDe41liP4M0VfCmxbi9tuJNycc-41HHPuNQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389072/%E6%9C%B1%E6%99%A8%E9%BA%97%E8%B3%80%E6%B1%BD%E8%BB%8A%E6%94%B9%E8%A3%9D%E5%93%81%E7%89%8C%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF-%E6%8F%80%E7%94%B7%E5%8F%8B%E8%A6%81%E7%9D%87%E9%A7%95%E9%A7%9B%E6%85%8B%E5%BA%A6-%E8%BB%8A%E5%93%81%E5%A5%BD%E7%A7%A4%E5%85%88",
-    "timestamp": "2026-09-11T05:54:24.664Z",
     "strategy": ".content-card__main"
   }
 ];
