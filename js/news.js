@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T03:46:05.004Z
+// Last updated: 2026-09-11T03:55:19.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教大生Ocamp性侵案　官先取5名事主創傷報告　押後至10.9判刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162379236934422528932608.jpeg/lNh-cQIYzL9qyNc_qs6nJJReca40GLwn4on_IceJ_yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389040/%E6%95%99%E5%A4%A7%E7%94%9Focamp%E6%80%A7%E4%BE%B5%E6%A1%88-%E5%AE%98%E5%85%88%E5%8F%965%E5%90%8D%E4%BA%8B%E4%B8%BB%E5%89%B5%E5%82%B7%E5%A0%B1%E5%91%8A-%E6%8A%BC%E5%BE%8C%E8%87%B310-9%E5%88%A4%E5%88%91",
+    "timestamp": "2026-09-11T03:55:19.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安踏收購Puma獲市監總局「綠燈」　無條件批准涉資15億歐元交易",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B0%8D%E9%96%8B%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
     "timestamp": "2026-09-10T19:53:53.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "圓方對開工程車擬掛慶祝國慶標語　遭的士猛撞　的士司機一度被困",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174903678239248384420785.jpeg/Qw4L47n1T_0sGuRQSmTQ9ZivQHOBelFJZJvAHl6bwB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60388940/%E5%9C%93%E6%96%B9%E5%B0%8D%E9%96%8B%E5%B7%A5%E7%A8%8B%E8%BB%8A%E6%93%AC%E6%8E%9B%E6%85%B6%E7%A5%9D%E5%9C%8B%E6%85%B6%E6%A8%99%E8%AA%9E-%E9%81%AD%E7%9A%84%E5%A3%AB%E7%8C%9B%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0",
-    "timestamp": "2026-09-10T19:42:16.760Z",
     "strategy": ".content-card__main"
   }
 ];
