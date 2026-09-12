@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T07:45:56.238Z
+// Last updated: 2026-09-12T07:56:43.214Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "億元六合彩 ｜食環督察中獎拒平分　加國工友夾錢中3億案件更離奇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175469749182664704084152.jpeg/ddIY09Z7OljXkKfsPLn1syGJIMIi7SmSFmZwVhZmcFY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389366/%E5%84%84%E5%85%83%E5%85%AD%E5%90%88%E5%BD%A9-%E9%A3%9F%E7%92%B0%E7%9D%A3%E5%AF%9F%E4%B8%AD%E7%8D%8E%E6%8B%92%E5%B9%B3%E5%88%86-%E5%8A%A0%E5%9C%8B%E5%B7%A5%E5%8F%8B%E5%A4%BE%E9%8C%A2%E4%B8%AD3%E5%84%84%E6%A1%88%E4%BB%B6%E6%9B%B4%E9%9B%A2%E5%A5%87",
+    "timestamp": "2026-09-12T07:56:43.214Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅淑佩：啟德體育園盛事帶動經濟活動　冀賽事每年重返",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171811442244980736514692.jpeg/WZxOGFhr2chJFM5yBIFRQLMqhzLIeT0GdeDak3Xg2pM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385685/%E5%B0%BF%E6%B3%A1%E6%98%AF%E8%85%8E%E7%97%85%E8%AD%A6%E8%99%9F-56%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E8%85%8E%E7%97%85-%E9%80%BE%E5%8D%8A%E6%82%A3%E8%80%85%E7%84%A1%E7%97%9B-%E9%86%AB%E7%94%9F%E8%A7%A35%E5%A4%A7%E5%BE%B5%E5%85%86",
     "timestamp": "2026-09-11T23:43:04.524Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尿泡是腎病警號！56歲男確診腎病　逾半患者無痛　醫生解5大徵兆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171811442244980736514692.jpeg/WZxOGFhr2chJFM5yBIFRQLMqhzLIeT0GdeDak3Xg2pM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385685/%E5%B0%BF%E6%B3%A1%E6%98%AF%E8%85%8E%E7%97%85%E8%AD%A6%E8%99%9F-56%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E8%85%8E%E7%97%85-%E9%80%BE%E5%8D%8A%E6%82%A3%E8%80%85%E7%84%A1%E7%97%9B-%E9%86%AB%E7%94%9F%E8%A7%A35%E5%A4%A7%E5%BE%B5%E5%85%86",
-    "timestamp": "2026-09-11T23:28:41.119Z",
     "strategy": ".content-card__main"
   }
 ];
