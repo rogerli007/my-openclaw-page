@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T13:17:52.309Z
+// Last updated: 2026-09-12T13:41:32.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何雁詩鄭俊弘將4歲罕見病兒移居惹抨擊　上周半山豪宅打牌超寫意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175499537494577152327549.jpeg/zgpwRhqIe9DVzbnH9jq7p5-Vg6BCpAMVQ2cM1ENnDNQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389373/%E4%BD%95%E9%9B%81%E8%A9%A9%E9%84%AD%E4%BF%8A%E5%BC%98%E5%B0%874%E6%AD%B2%E7%BD%95%E8%A6%8B%E7%97%85%E5%85%92%E7%A7%BB%E5%B1%85%E6%83%B9%E6%8A%A8%E6%93%8A-%E4%B8%8A%E5%91%A8%E5%8D%8A%E5%B1%B1%E8%B1%AA%E5%AE%85%E6%89%93%E7%89%8C%E8%B6%85%E5%AF%AB%E6%84%8F",
+    "timestamp": "2026-09-12T13:41:32.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌42區公屋石屎未達標　工程師指情況罕見　影響視乎強度與範圍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140687996157169664865409.jpeg/zoIiZLEisUYGz120D5CmtGGvHhQ7J0J3-IboB_iG6Ac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389348/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E6%9E%97%E5%AE%9A%E5%9C%8B-%E5%AF%A9%E8%A8%8A%E7%AC%A6%E5%90%88%E6%B3%95%E6%B2%BB-%E5%A4%96%E5%9C%8B%E5%B0%8D%E8%A3%81%E6%B1%BA%E6%89%B9%E8%A9%95%E5%B1%AC%E5%8F%A3%E8%99%9F%E5%BC%8F",
     "timestamp": "2026-09-12T05:32:12.412Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佛山店主孩子開學欠房租　暖心房東得知後「買根烤腸」付2萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175399829019299840863091.jpeg/XkrsV1CpsaOYezDBEdxDikCBbNWts_VQI37xPyN-8T8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389321/%E4%BD%9B%E5%B1%B1%E5%BA%97%E4%B8%BB%E5%AD%A9%E5%AD%90%E9%96%8B%E5%AD%B8%E6%AC%A0%E6%88%BF%E7%A7%9F-%E6%9A%96%E5%BF%83%E6%88%BF%E6%9D%B1%E5%BE%97%E7%9F%A5%E5%BE%8C-%E8%B2%B7%E6%A0%B9%E7%83%A4%E8%85%B8-%E4%BB%982%E8%90%AC%E5%85%83",
-    "timestamp": "2026-09-12T05:19:05.532Z",
     "strategy": ".content-card__main"
   }
 ];
