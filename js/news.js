@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T06:29:30.243Z
+// Last updated: 2026-09-12T06:50:34.928Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "四川一女子稱被公職人員推入廁所強姦　縣局「不予立案」被推翻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175453855115120640673254.jpeg/8R7HX52gaKABcCxXpMHb3kmEiRHs37WPnaBPrp2gT64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389357/%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A5%B3%E5%AD%90%E7%A8%B1%E8%A2%AB%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E6%8E%A8%E5%85%A5%E5%BB%81%E6%89%80%E5%BC%B7%E5%A7%A6-%E7%B8%A3%E5%B1%80-%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88-%E8%A2%AB%E6%8E%A8%E7%BF%BB",
+    "timestamp": "2026-09-12T06:50:34.928Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山恆安邨雙屍｜夫婦同患「三高」　需定期覆診　妻失智症5年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175321467567476736572039.jpeg/qWq6X4ShkgWuy3gFYi5ZmQv0xdLR7eXlS3LjB3Fy4wc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389292/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%98%8E%E6%97%A5%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
     "timestamp": "2026-09-11T22:59:35.631Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有驟雨　稍後驟雨漸多及有雷暴　明日部分地區雨勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175321467567476736572039.jpeg/qWq6X4ShkgWuy3gFYi5ZmQv0xdLR7eXlS3LjB3Fy4wc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389292/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%98%8E%E6%97%A5%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-09-11T22:43:05.372Z",
     "strategy": ".content-card__main"
   }
 ];
