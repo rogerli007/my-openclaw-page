@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T07:19:27.666Z
+// Last updated: 2026-09-12T07:45:56.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅淑佩：啟德體育園盛事帶動經濟活動　冀賽事每年重返",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250925/1047859456844500992914583.png/E86aYieHB0CRG8Zt0wk1zuS3ENsDoXXfWhGRhFoRkYQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389361/%E7%BE%85%E6%B7%91%E4%BD%A9-%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92%E7%9B%9B%E4%BA%8B%E5%B8%B6%E5%8B%95%E7%B6%93%E6%BF%9F%E6%B4%BB%E5%8B%95-%E5%86%80%E8%B3%BD%E4%BA%8B%E6%AF%8F%E5%B9%B4%E9%87%8D%E8%BF%94",
+    "timestamp": "2026-09-12T07:45:56.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佛山美食｜順德桑拿雞/無骨鯽魚一鍋三吃　五指毛桃蒸出鮮甜原味",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171811442244980736514692.jpeg/WZxOGFhr2chJFM5yBIFRQLMqhzLIeT0GdeDak3Xg2pM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385685/%E5%B0%BF%E6%B3%A1%E6%98%AF%E8%85%8E%E7%97%85%E8%AD%A6%E8%99%9F-56%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E8%85%8E%E7%97%85-%E9%80%BE%E5%8D%8A%E6%82%A3%E8%80%85%E7%84%A1%E7%97%9B-%E9%86%AB%E7%94%9F%E8%A7%A35%E5%A4%A7%E5%BE%B5%E5%85%86",
     "timestamp": "2026-09-11T23:28:41.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│網傳媳婦和公公車震被抓姦半裸逃跑　網民笑:肥水不流外人田",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174772424982401024240198.png/ueVF7MI45EELQFiw0wX5Tcs0F1wfRcD8cFXwK3BV8Cs",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60388348/%E6%9C%89%E7%89%87-%E7%B6%B2%E5%82%B3%E5%AA%B3%E5%A9%A6%E5%92%8C%E5%85%AC%E5%85%AC%E8%BB%8A%E9%9C%87%E8%A2%AB%E6%8A%93%E5%A7%A6%E5%8D%8A%E8%A3%B8%E9%80%83%E8%B7%91-%E7%B6%B2%E6%B0%91%E7%AC%91-%E8%82%A5%E6%B0%B4%E4%B8%8D%E6%B5%81%E5%A4%96%E4%BA%BA%E7%94%B0",
-    "timestamp": "2026-09-11T23:17:55.242Z",
     "strategy": ".content-card__main"
   }
 ];
