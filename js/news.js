@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T03:53:48.059Z
+// Last updated: 2026-09-12T04:22:12.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國加息概率升至90%　抗通脹只是藉口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144097831523454976972143.jpeg/cn3aEoXAvNIIOwO7XsAIe6hEnu6g9bvYfHxugnx8boI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60389333/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF%E6%A6%82%E7%8E%87%E5%8D%87%E8%87%B390-%E6%8A%97%E9%80%9A%E8%84%B9%E5%8F%AA%E6%98%AF%E8%97%89%E5%8F%A3",
+    "timestamp": "2026-09-12T04:22:12.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秀茂坪安泰邨夫婦擸刀爭執　分別涉襲擊及藏有攻擊性武器被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175283113996062720085723.jpeg/QGvkZcRf52rgh5v4gcaPPGwMFfMsF5YwRQC5yH8Aucg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389287/%E6%B7%BA%E6%B0%B4%E7%81%A3%E8%B1%AA%E5%AE%85%E9%81%AD%E7%88%86%E7%AB%8A-25%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1-46%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-09-11T20:20:31.619Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國交通部長：北部地區火車脫軌　初步評估約20傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175290464325079040980632.jpeg/v1oSZy1E_zKbbIfg5xlKaYr_1ztny19ugBdzUIAXc1A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389288/%E6%B3%95%E5%9C%8B%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7-%E5%8C%97%E9%83%A8%E5%9C%B0%E5%8D%80%E7%81%AB%E8%BB%8A%E8%84%AB%E8%BB%8C-%E5%88%9D%E6%AD%A5%E8%A9%95%E4%BC%B0%E7%B4%8420%E5%82%B7",
-    "timestamp": "2026-09-11T19:54:15.771Z",
     "strategy": ".content-card__main"
   }
 ];
