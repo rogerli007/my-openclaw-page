@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T05:19:05.532Z
+// Last updated: 2026-09-12T05:32:12.412Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "支聯會案｜林定國：審訊符合法治   外國對裁決批評屬口號式",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140687996157169664865409.jpeg/zoIiZLEisUYGz120D5CmtGGvHhQ7J0J3-IboB_iG6Ac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389348/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E6%9E%97%E5%AE%9A%E5%9C%8B-%E5%AF%A9%E8%A8%8A%E7%AC%A6%E5%90%88%E6%B3%95%E6%B2%BB-%E5%A4%96%E5%9C%8B%E5%B0%8D%E8%A3%81%E6%B1%BA%E6%89%B9%E8%A9%95%E5%B1%AC%E5%8F%A3%E8%99%9F%E5%BC%8F",
+    "timestamp": "2026-09-12T05:32:12.412Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佛山店主孩子開學欠房租　暖心房東得知後「買根烤腸」付2萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175295935014506496067835.jpeg/4eBr4Z-yhmR--zMIpVZnqFAPK3-nOa__XXbUWl121Fo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389293/911%E8%A5%B2%E6%93%8A25%E5%91%A8%E5%B9%B4-%E8%90%AC%E6%96%AF%E8%88%87%E7%BE%8E%E5%9C%8B4%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%89%8D%E7%B8%BD%E7%B5%B1%E5%90%8C%E6%A1%86",
     "timestamp": "2026-09-11T21:53:45.446Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國：朝鮮向東海發射不明飛行物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5ddf9bb8b66f770df1c157ae.jpg/X5f7mfFP0SLjGHJxK_1loLz4XONe4QvlSO1I5UjtSOU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389291/%E9%9F%93%E5%9C%8B-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E4%B8%8D%E6%98%8E%E9%A3%9B%E8%A1%8C%E7%89%A9",
-    "timestamp": "2026-09-11T21:28:37.700Z",
     "strategy": ".content-card__main"
   }
 ];
