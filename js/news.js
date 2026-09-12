@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T15:53:37.125Z
+// Last updated: 2026-09-12T16:20:03.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone18 Pro｜預購收大量信用卡收款短訊　方保僑指網絡擠塞所致",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174862061381881856356274.jpeg/sH6RXwCESo4s7T94gX19BwsfpG6v3UERoVsqAKFbKgA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389431/iphone18-pro-%E9%A0%90%E8%B3%BC%E6%94%B6%E5%A4%A7%E9%87%8F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%94%B6%E6%AC%BE%E7%9F%AD%E8%A8%8A-%E6%96%B9%E4%BF%9D%E5%83%91%E6%8C%87%E7%B6%B2%E7%B5%A1%E6%93%A0%E5%A1%9E%E6%89%80%E8%87%B4",
+    "timestamp": "2026-09-12T16:20:03.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雷宇揚離世｜張瑛兒子張煒曬合照悼念　曾被勸勿結婚：繼續做浪子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175158375227330560704689.jpeg/kxSAWkUMwa3LqhIWYunNMxp53WRhK_6mn6qMyJ-qjMg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382003/%E5%90%83%E5%BE%97%E4%B8%8D%E5%A4%9A%E5%8D%BB%E9%9B%A3%E7%98%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB-%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81%E6%98%AF%E9%97%9C%E9%8D%B5-%E7%84%A1%E6%B7%BB%E5%8A%A0%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%8A%A9%E6%B8%9B%E8%82%A5",
     "timestamp": "2026-09-12T08:23:32.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "億元六合彩 ｜食環督察中獎拒平分　加國工友夾錢中3億案件更離奇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175469749182664704084152.jpeg/ddIY09Z7OljXkKfsPLn1syGJIMIi7SmSFmZwVhZmcFY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389366/%E5%84%84%E5%85%83%E5%85%AD%E5%90%88%E5%BD%A9-%E9%A3%9F%E7%92%B0%E7%9D%A3%E5%AF%9F%E4%B8%AD%E7%8D%8E%E6%8B%92%E5%B9%B3%E5%88%86-%E5%8A%A0%E5%9C%8B%E5%B7%A5%E5%8F%8B%E5%A4%BE%E9%8C%A2%E4%B8%AD3%E5%84%84%E6%A1%88%E4%BB%B6%E6%9B%B4%E9%9B%A2%E5%A5%87",
-    "timestamp": "2026-09-12T07:56:43.214Z",
     "strategy": ".content-card__main"
   }
 ];
