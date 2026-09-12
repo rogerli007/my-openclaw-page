@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T20:50:49.122Z
+// Last updated: 2026-09-12T21:18:09.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府削FEMA半數人手　美國法官裁定違法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174829569274810368948716.jpeg/nAjC08c5UNet-oMa6LrulD2qzThTdEz0gaEHc4GhB3M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389444/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%89%8Afema%E5%8D%8A%E6%95%B8%E4%BA%BA%E6%89%8B-%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E8%A3%81%E5%AE%9A%E9%81%95%E6%B3%95",
+    "timestamp": "2026-09-12T21:18:09.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普政府削FEMA半數人手　美國法官裁定違法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174075971192492032576031.png/O4ZQzsdnZuMPEuHmdmjzpmgAGzJ2AZ6UD5P_Zg-T_2Y",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377067/%E5%A4%96%E7%B1%8D%E5%AE%A2%E9%81%8A%E8%B6%8A%E5%8D%97-%E5%9D%90%E9%9C%B8%E7%8E%8B%E8%BB%8A-%E8%AC%9D%E8%AC%9D%E4%BB%A3%E8%BB%8A%E8%B3%87%E5%8F%B8%E6%A9%9F%E5%82%BB%E7%9C%BC-%E7%96%91%E6%9C%89%E5%8F%8D%E8%BD%89-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-12T15:17:27.307Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩今晚罕見故障　動用後備攪珠機及號碼球　800萬頭獎無人中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175563252789153792745192.png/7f2mF4VMjjaxe4IjTT_JaHpF5HquVAzxadeG8GnXhvA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389424/%E5%85%AD%E5%90%88%E5%BD%A9%E4%BB%8A%E6%99%9A%E7%BD%95%E8%A6%8B%E6%95%85%E9%9A%9C-%E5%8B%95%E7%94%A8%E5%BE%8C%E5%82%99%E6%94%AA%E7%8F%A0%E6%A9%9F%E5%8F%8A%E8%99%9F%E7%A2%BC%E7%90%83-800%E8%90%AC%E9%A0%AD%E7%8D%8E%E7%84%A1%E4%BA%BA%E4%B8%AD",
-    "timestamp": "2026-09-12T14:31:11.729Z",
     "strategy": ".content-card__main"
   }
 ];
