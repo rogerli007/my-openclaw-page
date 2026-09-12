@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T11:26:57.551Z
+// Last updated: 2026-09-12T11:42:01.039Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國北部地區火車出軌至少44傷　法媒：警方懷疑人為破壞所致",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175526913817448448526734.png/moWTTvy5n1nLLX9FQVsy_4BcKNSVwU_43Za5_d2Wuf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389403/%E6%B3%95%E5%9C%8B%E5%8C%97%E9%83%A8%E5%9C%B0%E5%8D%80%E7%81%AB%E8%BB%8A%E5%87%BA%E8%BB%8C%E8%87%B3%E5%B0%9144%E5%82%B7-%E6%B3%95%E5%AA%92-%E8%AD%A6%E6%96%B9%E6%87%B7%E7%96%91%E4%BA%BA%E7%82%BA%E7%A0%B4%E5%A3%9E%E6%89%80%E8%87%B4",
+    "timestamp": "2026-09-12T11:42:01.039Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星｜陳嘉佳求Bob介紹對象　爆經典咀戲幕後：口水鼻涕齊晒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240106/820163571945443328501639.jpeg/5mXLe1E9GU4iOnW6XniVdkSBk4qxL7b1wO0jQOrtI0A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389331/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AE%89%E6%B3%B0%E9%82%A8%E5%A4%AB%E5%A9%A6%E6%93%B8%E5%88%80%E7%88%AD%E5%9F%B7-%E5%88%86%E5%88%A5%E6%B6%89%E8%A5%B2%E6%93%8A%E5%8F%8A%E8%97%8F%E6%9C%89%E6%94%BB%E6%93%8A%E6%80%A7%E6%AD%A6%E5%99%A8%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-12T03:53:48.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告｜議員倡加碼鼓勵生育　發「子女幸福卡」享公共設施折扣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143158400989925376614925.jpeg/P0wtTsMvdJxvL_vsbNIkVZhJX658sgRfLf6wKAj-sCg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389324/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%8A%A0%E7%A2%BC%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2-%E7%99%BC-%E5%AD%90%E5%A5%B3%E5%B9%B8%E7%A6%8F%E5%8D%A1-%E4%BA%AB%E5%85%AC%E5%85%B1%E8%A8%AD%E6%96%BD%E6%8A%98%E6%89%A3",
-    "timestamp": "2026-09-12T03:45:22.719Z",
     "strategy": ".content-card__main"
   }
 ];
