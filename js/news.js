@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T20:32:50.797Z
+// Last updated: 2026-09-12T20:50:49.122Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府削FEMA半數人手　美國法官裁定違法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174829569274810368948716.jpeg/nAjC08c5UNet-oMa6LrulD2qzThTdEz0gaEHc4GhB3M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389444/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%89%8Afema%E5%8D%8A%E6%95%B8%E4%BA%BA%E6%89%8B-%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E8%A3%81%E5%AE%9A%E9%81%95%E6%B3%95",
+    "timestamp": "2026-09-12T20:50:49.122Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南灣隧道前車收慢　貨車險撞　車胎懸空「彈下彈下」｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175563252789153792745192.png/7f2mF4VMjjaxe4IjTT_JaHpF5HquVAzxadeG8GnXhvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389424/%E5%85%AD%E5%90%88%E5%BD%A9%E4%BB%8A%E6%99%9A%E7%BD%95%E8%A6%8B%E6%95%85%E9%9A%9C-%E5%8B%95%E7%94%A8%E5%BE%8C%E5%82%99%E6%94%AA%E7%8F%A0%E6%A9%9F%E5%8F%8A%E8%99%9F%E7%A2%BC%E7%90%83-800%E8%90%AC%E9%A0%AD%E7%8D%8E%E7%84%A1%E4%BA%BA%E4%B8%AD",
     "timestamp": "2026-09-12T14:31:11.729Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪麗醫院壞𨋢｜據報建築署總工程策劃經理被辭職　署方指不符事實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175426037920567296631729.jpeg/k90pLWZhfnbvgOHVek5fXQZBm8XR1v3Q2gNkitoDZIo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389350/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E6%93%9A%E5%A0%B1%E5%BB%BA%E7%AF%89%E7%BD%B2%E7%B8%BD%E5%B7%A5%E7%A8%8B%E7%AD%96%E5%8A%83%E7%B6%93%E7%90%86%E8%A2%AB%E8%BE%AD%E8%81%B7-%E7%BD%B2%E6%96%B9%E6%8C%87%E4%B8%8D%E7%AC%A6%E4%BA%8B%E5%AF%A6",
-    "timestamp": "2026-09-12T14:17:54.993Z",
     "strategy": ".content-card__main"
   }
 ];
