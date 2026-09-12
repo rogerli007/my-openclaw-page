@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T04:54:21.287Z
+// Last updated: 2026-09-12T05:19:05.532Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佛山店主孩子開學欠房租　暖心房東得知後「買根烤腸」付2萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175399829019299840863091.jpeg/XkrsV1CpsaOYezDBEdxDikCBbNWts_VQI37xPyN-8T8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389321/%E4%BD%9B%E5%B1%B1%E5%BA%97%E4%B8%BB%E5%AD%A9%E5%AD%90%E9%96%8B%E5%AD%B8%E6%AC%A0%E6%88%BF%E7%A7%9F-%E6%9A%96%E5%BF%83%E6%88%BF%E6%9D%B1%E5%BE%97%E7%9F%A5%E5%BE%8C-%E8%B2%B7%E6%A0%B9%E7%83%A4%E8%85%B8-%E4%BB%982%E8%90%AC%E5%85%83",
+    "timestamp": "2026-09-12T05:19:05.532Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "挪威前國王哈拉爾五世甫下葬　胞姊阿斯特麗德公主離世享年94歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5ddf9bb8b66f770df1c157ae.jpg/X5f7mfFP0SLjGHJxK_1loLz4XONe4QvlSO1I5UjtSOU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389291/%E9%9F%93%E5%9C%8B-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E4%B8%8D%E6%98%8E%E9%A3%9B%E8%A1%8C%E7%89%A9",
     "timestamp": "2026-09-11T21:28:37.700Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國：朝鮮向東海發射不明飛行物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5ddf9bb8b66f770df1c157ae.jpg/X5f7mfFP0SLjGHJxK_1loLz4XONe4QvlSO1I5UjtSOU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389291/%E9%9F%93%E5%9C%8B-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E4%B8%8D%E6%98%8E%E9%A3%9B%E8%A1%8C%E7%89%A9",
-    "timestamp": "2026-09-11T21:17:36.379Z",
     "strategy": ".content-card__main"
   }
 ];
