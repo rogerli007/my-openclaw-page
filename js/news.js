@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T19:15:28.197Z
+// Last updated: 2026-09-12T19:29:51.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "布魯塞爾機場現無人機　航班中斷半小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-09-12T19:29:51.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "布魯塞爾機場現無人機　航班中斷半小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175499537494577152327549.jpeg/zgpwRhqIe9DVzbnH9jq7p5-Vg6BCpAMVQ2cM1ENnDNQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389373/%E4%BD%95%E9%9B%81%E8%A9%A9%E9%84%AD%E4%BF%8A%E5%BC%98%E5%B0%874%E6%AD%B2%E7%BD%95%E8%A6%8B%E7%97%85%E5%85%92%E7%A7%BB%E5%B1%85%E6%83%B9%E6%8A%A8%E6%93%8A-%E4%B8%8A%E5%91%A8%E5%8D%8A%E5%B1%B1%E8%B1%AA%E5%AE%85%E6%89%93%E7%89%8C%E8%B6%85%E5%AF%AB%E6%84%8F",
     "timestamp": "2026-09-12T13:41:32.811Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東涌42區公屋石屎未達標　工程師指情況罕見　影響視乎強度與範圍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175520717018501120413980.jpeg/ybfcc31wnmiIvw7Qfn0c28CQzIptPVBXUzaK0nY2itI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389402/%E6%9D%B1%E6%B6%8C42%E5%8D%80%E5%85%AC%E5%B1%8B%E7%9F%B3%E5%B1%8E%E6%9C%AA%E9%81%94%E6%A8%99-%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%8C%87%E6%83%85%E6%B3%81%E7%BD%95%E8%A6%8B-%E5%BD%B1%E9%9F%BF%E8%A6%96%E4%B9%8E%E5%BC%B7%E5%BA%A6%E8%88%87%E7%AF%84%E5%9C%8D",
-    "timestamp": "2026-09-12T13:17:52.309Z",
     "strategy": ".content-card__main"
   }
 ];
