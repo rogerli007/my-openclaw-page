@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T12:54:51.712Z
+// Last updated: 2026-09-12T13:17:52.309Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌42區公屋石屎未達標　工程師指情況罕見　影響視乎強度與範圍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175520717018501120413980.jpeg/ybfcc31wnmiIvw7Qfn0c28CQzIptPVBXUzaK0nY2itI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389402/%E6%9D%B1%E6%B6%8C42%E5%8D%80%E5%85%AC%E5%B1%8B%E7%9F%B3%E5%B1%8E%E6%9C%AA%E9%81%94%E6%A8%99-%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%8C%87%E6%83%85%E6%B3%81%E7%BD%95%E8%A6%8B-%E5%BD%B1%E9%9F%BF%E8%A6%96%E4%B9%8E%E5%BC%B7%E5%BA%A6%E8%88%87%E7%AF%84%E5%9C%8D",
+    "timestamp": "2026-09-12T13:17:52.309Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角電動單車撞10歲童不顧而去　內地男騎手翌日涉危駕等6罪就逮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175399829019299840863091.jpeg/XkrsV1CpsaOYezDBEdxDikCBbNWts_VQI37xPyN-8T8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389321/%E4%BD%9B%E5%B1%B1%E5%BA%97%E4%B8%BB%E5%AD%A9%E5%AD%90%E9%96%8B%E5%AD%B8%E6%AC%A0%E6%88%BF%E7%A7%9F-%E6%9A%96%E5%BF%83%E6%88%BF%E6%9D%B1%E5%BE%97%E7%9F%A5%E5%BE%8C-%E8%B2%B7%E6%A0%B9%E7%83%A4%E8%85%B8-%E4%BB%982%E8%90%AC%E5%85%83",
     "timestamp": "2026-09-12T05:19:05.532Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "挪威前國王哈拉爾五世甫下葬　胞姊阿斯特麗德公主離世享年94歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175421611327623168420963.jpeg/sFAqBQlLiEVqfJR1C_VlyaU4uhUUsdUmu7_XMru_1zI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389329/%E6%8C%AA%E5%A8%81%E5%89%8D%E5%9C%8B%E7%8E%8B%E5%93%88%E6%8B%89%E7%88%BE%E4%BA%94%E4%B8%96%E7%94%AB%E4%B8%8B%E8%91%AC-%E8%83%9E%E5%A7%8A%E9%98%BF%E6%96%AF%E7%89%B9%E9%BA%97%E5%BE%B7%E5%85%AC%E4%B8%BB%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B494%E6%AD%B2",
-    "timestamp": "2026-09-12T04:54:21.287Z",
     "strategy": ".content-card__main"
   }
 ];
