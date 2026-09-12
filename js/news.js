@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T13:41:32.811Z
+// Last updated: 2026-09-12T13:55:38.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山昂坪滑翔傘意外　外籍婦掛10米高樹　直升機出動救援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175559563403857920879603.jpeg/Qc-tFDD9EXHjZAEhzphgkFJ9ssF4IlAlNLF1KzSxdSs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389420/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%9D%AA%E6%BB%91%E7%BF%94%E5%82%98%E6%84%8F%E5%A4%96-%E5%A4%96%E7%B1%8D%E5%A9%A6%E6%8E%9B10%E7%B1%B3%E9%AB%98%E6%A8%B9-%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%87%BA%E5%8B%95%E6%95%91%E6%8F%B4",
+    "timestamp": "2026-09-12T13:55:38.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何雁詩鄭俊弘將4歲罕見病兒移居惹抨擊　上周半山豪宅打牌超寫意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175436289026035712872134.jpeg/U6LJweyb00wPHbN1eaQZrIQLe1ic7SmI0HZqBdB2agU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389354/%E5%A4%AA%E5%AD%90%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%AE%A2%E8%B2%A8%E8%BB%8A-%E6%8F%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%96%91%E8%97%A5%E5%BE%8C%E9%A7%95%E9%A7%9B%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-12T05:43:19.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "支聯會案｜林定國：審訊符合法治   外國對裁決批評屬口號式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260608/1140687996157169664865409.jpeg/zoIiZLEisUYGz120D5CmtGGvHhQ7J0J3-IboB_iG6Ac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389348/%E6%94%AF%E8%81%AF%E6%9C%83%E6%A1%88-%E6%9E%97%E5%AE%9A%E5%9C%8B-%E5%AF%A9%E8%A8%8A%E7%AC%A6%E5%90%88%E6%B3%95%E6%B2%BB-%E5%A4%96%E5%9C%8B%E5%B0%8D%E8%A3%81%E6%B1%BA%E6%89%B9%E8%A9%95%E5%B1%AC%E5%8F%A3%E8%99%9F%E5%BC%8F",
-    "timestamp": "2026-09-12T05:32:12.412Z",
     "strategy": ".content-card__main"
   }
 ];
