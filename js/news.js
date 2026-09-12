@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T15:17:27.307Z
+// Last updated: 2026-09-12T15:32:41.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚小環與老公結婚19週年「琥珀婚」　甜蜜合照放閃：感恩沿途有妳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175545645507809280150394.jpeg/BbG542IN_hGkGYgrGXFf1sAb50NAsZ13P4TiWj-E4lo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389414/%E8%AD%9A%E5%B0%8F%E7%92%B0%E8%88%87%E8%80%81%E5%85%AC%E7%B5%90%E5%A9%9A19%E9%80%B1%E5%B9%B4-%E7%90%A5%E7%8F%80%E5%A9%9A-%E7%94%9C%E8%9C%9C%E5%90%88%E7%85%A7%E6%94%BE%E9%96%83-%E6%84%9F%E6%81%A9%E6%B2%BF%E9%80%94%E6%9C%89%E5%A6%B3",
+    "timestamp": "2026-09-12T15:32:41.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外籍客遊越南「坐霸王車」？謝謝代車資司機傻眼　疑有反轉｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174756635923451904068935.png/7D99DCihTPHAwxkbEYn0-9ghtW9ovdlLGaBcbBmgXGw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60296467/%E4%BD%9B%E5%B1%B1%E7%BE%8E%E9%A3%9F-%E9%A0%86%E5%BE%B7%E6%A1%91%E6%8B%BF%E9%9B%9E-%E7%84%A1%E9%AA%A8%E9%AF%BD%E9%AD%9A%E4%B8%80%E9%8D%8B%E4%B8%89%E5%90%83-%E4%BA%94%E6%8C%87%E6%AF%9B%E6%A1%83%E8%92%B8%E5%87%BA%E9%AE%AE%E7%94%9C%E5%8E%9F%E5%91%B3",
     "timestamp": "2026-09-12T07:19:27.666Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "四川一女子稱被公職人員推入廁所強姦　縣局「不予立案」被推翻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175453855115120640673254.jpeg/8R7HX52gaKABcCxXpMHb3kmEiRHs37WPnaBPrp2gT64?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389357/%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A5%B3%E5%AD%90%E7%A8%B1%E8%A2%AB%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E6%8E%A8%E5%85%A5%E5%BB%81%E6%89%80%E5%BC%B7%E5%A7%A6-%E7%B8%A3%E5%B1%80-%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88-%E8%A2%AB%E6%8E%A8%E7%BF%BB",
-    "timestamp": "2026-09-12T06:50:34.928Z",
     "strategy": ".content-card__main"
   }
 ];
