@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T03:22:24.703Z
+// Last updated: 2026-09-12T03:45:22.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜議員倡加碼鼓勵生育　發「子女幸福卡」享公共設施折扣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143158400989925376614925.jpeg/P0wtTsMvdJxvL_vsbNIkVZhJX658sgRfLf6wKAj-sCg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389324/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%8A%A0%E7%A2%BC%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2-%E7%99%BC-%E5%AD%90%E5%A5%B3%E5%B9%B8%E7%A6%8F%E5%8D%A1-%E4%BA%AB%E5%85%AC%E5%85%B1%E8%A8%AD%E6%96%BD%E6%8A%98%E6%89%A3",
+    "timestamp": "2026-09-12T03:45:22.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾陪罕見病女兒走出難關 鍾麗淇傳患漸凍症入ICU發聲明望給予空間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
     "timestamp": "2026-09-11T19:41:30.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
-    "timestamp": "2026-09-11T19:28:22.504Z",
     "strategy": ".content-card__main"
   }
 ];
