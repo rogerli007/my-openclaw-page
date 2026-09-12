@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T21:41:02.593Z
+// Last updated: 2026-09-12T21:53:57.006Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警新界北設路障打擊交通違例事項　2男「吹爆波」　同涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175673259098640384350786.jpeg/d9ntQwfGk1mZYdWyfJ8dMQhqfb5tOEWag5Li6YOS4uk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389445/%E8%AD%A6%E6%96%B0%E7%95%8C%E5%8C%97%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%89%93%E6%93%8A%E4%BA%A4%E9%80%9A%E9%81%95%E4%BE%8B%E4%BA%8B%E9%A0%85-2%E7%94%B7-%E5%90%B9%E7%88%86%E6%B3%A2-%E5%90%8C%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-12T21:53:57.006Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警新界北設路障打擊交通違例事項　2男「吹爆波」　同涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175481200467251200895170.jpeg/rBcQyAUNeNjoP31_TxdUyzmr4rBLBkn18f7zk_H-85M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389381/%E8%8B%97%E5%83%91%E5%81%8935%E6%AD%B2%E6%84%9B%E5%A5%B3%E8%8B%97%E5%BD%A4%E6%9B%AC%E7%81%AB%E8%BE%A3%E6%AF%94%E5%A0%85%E5%B0%BC%E7%9B%B8-%E7%BD%95%E8%B2%BC%E7%A5%9E%E7%A7%98%E7%94%B7%E5%A3%AB%E8%83%8C%E5%BD%B1%E7%96%91%E6%B4%A9%E8%9C%9C",
     "timestamp": "2026-09-12T15:41:05.480Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚小環與老公結婚19週年「琥珀婚」　甜蜜合照放閃：感恩沿途有妳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175545645507809280150394.jpeg/BbG542IN_hGkGYgrGXFf1sAb50NAsZ13P4TiWj-E4lo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389414/%E8%AD%9A%E5%B0%8F%E7%92%B0%E8%88%87%E8%80%81%E5%85%AC%E7%B5%90%E5%A9%9A19%E9%80%B1%E5%B9%B4-%E7%90%A5%E7%8F%80%E5%A9%9A-%E7%94%9C%E8%9C%9C%E5%90%88%E7%85%A7%E6%94%BE%E9%96%83-%E6%84%9F%E6%81%A9%E6%B2%BF%E9%80%94%E6%9C%89%E5%A6%B3",
-    "timestamp": "2026-09-12T15:32:41.087Z",
     "strategy": ".content-card__main"
   }
 ];
