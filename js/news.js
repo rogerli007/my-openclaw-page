@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T01:36:49.083Z
+// Last updated: 2026-09-12T01:56:35.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：不反對中國車企在美國生產",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174015847031640064403679.jpeg/atTJ2cqhCvBS_bdW4NH6tyxkgdWmCZnKQ76eqkO-nqo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389307/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E5%8F%8D%E5%B0%8D%E4%B8%AD%E5%9C%8B%E8%BB%8A%E4%BC%81%E5%9C%A8%E7%BE%8E%E5%9C%8B%E7%94%9F%E7%94%A2",
+    "timestamp": "2026-09-12T01:56:35.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人妻送貴價月餅遭奶奶嫌棄轉送他人　過來人親剖「期待錯位」化解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
     "timestamp": "2026-09-11T18:53:54.550Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
-    "timestamp": "2026-09-11T18:44:57.954Z",
     "strategy": ".content-card__main"
   }
 ];
