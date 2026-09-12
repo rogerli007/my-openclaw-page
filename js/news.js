@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T13:55:38.449Z
+// Last updated: 2026-09-12T14:17:54.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院壞𨋢｜據報建築署總工程策劃經理被辭職　署方指不符事實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175426037920567296631729.jpeg/k90pLWZhfnbvgOHVek5fXQZBm8XR1v3Q2gNkitoDZIo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389350/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E6%93%9A%E5%A0%B1%E5%BB%BA%E7%AF%89%E7%BD%B2%E7%B8%BD%E5%B7%A5%E7%A8%8B%E7%AD%96%E5%8A%83%E7%B6%93%E7%90%86%E8%A2%AB%E8%BE%AD%E8%81%B7-%E7%BD%B2%E6%96%B9%E6%8C%87%E4%B8%8D%E7%AC%A6%E4%BA%8B%E5%AF%A6",
+    "timestamp": "2026-09-12T14:17:54.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山昂坪滑翔傘意外　外籍婦掛10米高樹　直升機出動救援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044428921761697792250461.jpeg/vWEvrCxgQJGBXk_NM19bEBlr1wbXZjeMW3-mpFt_pqQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389355/%E5%8D%97%E4%B8%AB%E5%B3%B6%E7%99%BC%E9%9B%BB%E5%BB%A0%E5%B0%8D%E9%96%8B%E6%B5%B7%E9%9D%A2%E9%A9%9A%E7%8F%BE%E6%B5%AE%E5%B1%8D-53%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A9%A6%E8%BA%AB%E4%BA%A1",
     "timestamp": "2026-09-12T05:53:33.965Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太子荔枝角道私家車撞客貨車　揭私家車司機疑藥後駕駛當場被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175436289026035712872134.jpeg/U6LJweyb00wPHbN1eaQZrIQLe1ic7SmI0HZqBdB2agU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389354/%E5%A4%AA%E5%AD%90%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%AE%A2%E8%B2%A8%E8%BB%8A-%E6%8F%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%96%91%E8%97%A5%E5%BE%8C%E9%A7%95%E9%A7%9B%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-12T05:43:19.441Z",
     "strategy": ".content-card__main"
   }
 ];
