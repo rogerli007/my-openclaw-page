@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T15:41:05.480Z
+// Last updated: 2026-09-12T15:53:37.125Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雷宇揚離世｜張瑛兒子張煒曬合照悼念　曾被勸勿結婚：繼續做浪子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175571690269184000872340.jpeg/Po-W9LC9AXEAQjbq5JyfZr0Q7tiqXkcu-18nhftfJ4U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389423/%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96-%E5%BC%B5%E7%91%9B%E5%85%92%E5%AD%90%E5%BC%B5%E7%85%92%E6%9B%AC%E5%90%88%E7%85%A7%E6%82%BC%E5%BF%B5-%E6%9B%BE%E8%A2%AB%E5%8B%B8%E5%8B%BF%E7%B5%90%E5%A9%9A-%E7%B9%BC%E7%BA%8C%E5%81%9A%E6%B5%AA%E5%AD%90",
+    "timestamp": "2026-09-12T15:53:37.125Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "苗僑偉35歲愛女苗彤曬火辣比堅尼相　罕貼神秘男士背影疑洩蜜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175469749182664704084152.jpeg/ddIY09Z7OljXkKfsPLn1syGJIMIi7SmSFmZwVhZmcFY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389366/%E5%84%84%E5%85%83%E5%85%AD%E5%90%88%E5%BD%A9-%E9%A3%9F%E7%92%B0%E7%9D%A3%E5%AF%9F%E4%B8%AD%E7%8D%8E%E6%8B%92%E5%B9%B3%E5%88%86-%E5%8A%A0%E5%9C%8B%E5%B7%A5%E5%8F%8B%E5%A4%BE%E9%8C%A2%E4%B8%AD3%E5%84%84%E6%A1%88%E4%BB%B6%E6%9B%B4%E9%9B%A2%E5%A5%87",
     "timestamp": "2026-09-12T07:56:43.214Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅淑佩：啟德體育園盛事帶動經濟活動　冀賽事每年重返",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250925/1047859456844500992914583.png/E86aYieHB0CRG8Zt0wk1zuS3ENsDoXXfWhGRhFoRkYQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389361/%E7%BE%85%E6%B7%91%E4%BD%A9-%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92%E7%9B%9B%E4%BA%8B%E5%B8%B6%E5%8B%95%E7%B6%93%E6%BF%9F%E6%B4%BB%E5%8B%95-%E5%86%80%E8%B3%BD%E4%BA%8B%E6%AF%8F%E5%B9%B4%E9%87%8D%E8%BF%94",
-    "timestamp": "2026-09-12T07:45:56.238Z",
     "strategy": ".content-card__main"
   }
 ];
