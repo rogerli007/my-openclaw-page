@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-11T23:54:13.578Z
+// Last updated: 2026-09-12T01:36:49.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人妻送貴價月餅遭奶奶嫌棄轉送他人　過來人親剖「期待錯位」化解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173620979985813504127469.png/V0PXRRH3xLdWJ4UdB0nHe368KUhUt2k-yDgb38g4G98?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387507/%E4%BA%BA%E5%A6%BB%E9%80%81%E8%B2%B4%E5%83%B9%E6%9C%88%E9%A4%85%E9%81%AD%E5%A5%B6%E5%A5%B6%E5%AB%8C%E6%A3%84%E8%BD%89%E9%80%81%E4%BB%96%E4%BA%BA-%E9%81%8E%E4%BE%86%E4%BA%BA%E8%A6%AA%E5%89%96-%E6%9C%9F%E5%BE%85%E9%8C%AF%E4%BD%8D-%E5%8C%96%E8%A7%A3",
+    "timestamp": "2026-09-12T01:36:49.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尿泡是腎病警號！56歲男確診腎病　逾半患者無痛　醫生解5大徵兆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
     "timestamp": "2026-09-11T18:44:57.954Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山恆安邨單位傳異味　消防爆門證實夫妻倒斃屋內　重案組跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175256323822981120176429.jpeg/dk5m6AxjAHudqCGb34kYY2pSE6MMt45-q2emkJFnppA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389284/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%81%86%E5%AE%89%E9%82%A8%E5%96%AE%E4%BD%8D%E5%82%B3%E7%95%B0%E5%91%B3-%E6%B6%88%E9%98%B2%E7%88%86%E9%96%80%E8%AD%89%E5%AF%A6%E5%A4%AB%E5%A6%BB%E5%80%92%E6%96%83%E5%B1%8B%E5%85%A7-%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-09-11T17:53:38.303Z",
     "strategy": ".content-card__main"
   }
 ];
