@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T01:56:35.613Z
+// Last updated: 2026-09-12T02:47:01.587Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世｜憶「恩人」馬時亨哽咽　任局長之初獲董生造訪予信心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174467550596042752483715.jpeg/XLHwCXlEa5UwjLmNSWQFXBdDdnutQqTvBP5pBgT-aQY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389309/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%86%B6-%E6%81%A9%E4%BA%BA-%E9%A6%AC%E6%99%82%E4%BA%A8%E5%93%BD%E5%92%BD-%E4%BB%BB%E5%B1%80%E9%95%B7%E4%B9%8B%E5%88%9D%E7%8D%B2%E8%91%A3%E7%94%9F%E9%80%A0%E8%A8%AA%E4%BA%88%E4%BF%A1%E5%BF%83",
+    "timestamp": "2026-09-12T02:47:01.587Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：不反對中國車企在美國生產",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
     "timestamp": "2026-09-11T19:19:34.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
-    "timestamp": "2026-09-11T18:53:54.550Z",
     "strategy": ".content-card__main"
   }
 ];
