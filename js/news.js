@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T10:18:22.390Z
+// Last updated: 2026-09-12T11:26:57.551Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周星星｜陳嘉佳求Bob介紹對象　爆經典咀戲幕後：口水鼻涕齊晒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175464044526571520805736.jpeg/b8epmZPr-SUseidJGol9D4FiNlJpiuHCU4n__FOJ__w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389372/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E9%99%B3%E5%98%89%E4%BD%B3%E6%B1%82bob%E4%BB%8B%E7%B4%B9%E5%B0%8D%E8%B1%A1-%E7%88%86%E7%B6%93%E5%85%B8%E5%92%80%E6%88%B2%E5%B9%95%E5%BE%8C-%E5%8F%A3%E6%B0%B4%E9%BC%BB%E6%B6%95%E9%BD%8A%E6%99%92",
+    "timestamp": "2026-09-12T11:26:57.551Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "體壇札記｜從劉翔買斷自己與樊振東的揮灑從容　思考舉國體制出路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143158400989925376614925.jpeg/P0wtTsMvdJxvL_vsbNIkVZhJX658sgRfLf6wKAj-sCg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389324/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%8A%A0%E7%A2%BC%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2-%E7%99%BC-%E5%AD%90%E5%A5%B3%E5%B9%B8%E7%A6%8F%E5%8D%A1-%E4%BA%AB%E5%85%AC%E5%85%B1%E8%A8%AD%E6%96%BD%E6%8A%98%E6%89%A3",
     "timestamp": "2026-09-12T03:45:22.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾陪罕見病女兒走出難關 鍾麗淇傳患漸凍症入ICU發聲明望給予空間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175392857259773952253467.png/ccNJKNGNytHrIXKLQpYpbV7-2mBmegt59U91PfVPdT0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60389289/%E6%9B%BE%E9%99%AA%E7%BD%95%E8%A6%8B%E7%97%85%E5%A5%B3%E5%85%92%E8%B5%B0%E5%87%BA%E9%9B%A3%E9%97%9C-%E9%8D%BE%E9%BA%97%E6%B7%87%E5%82%B3%E6%82%A3%E6%BC%B8%E5%87%8D%E7%97%87%E5%85%A5icu%E7%99%BC%E8%81%B2%E6%98%8E%E6%9C%9B%E7%B5%A6%E4%BA%88%E7%A9%BA%E9%96%93",
-    "timestamp": "2026-09-12T03:22:24.703Z",
     "strategy": ".content-card__main"
   }
 ];
