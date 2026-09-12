@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T11:42:01.039Z
+// Last updated: 2026-09-12T11:53:42.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雷宇揚廣州出殯兒子花圈放靈堂中央　吳志雄送好友最後一程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175530873680826368632079.png/71db0JOe8CMlIZu-SAWAh69-vZZGIKNNtw0EArcNBAI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389405/%E9%9B%B7%E5%AE%87%E6%8F%9A%E5%BB%A3%E5%B7%9E%E5%87%BA%E6%AE%AF%E5%85%92%E5%AD%90%E8%8A%B1%E5%9C%88%E6%94%BE%E9%9D%88%E5%A0%82%E4%B8%AD%E5%A4%AE-%E5%90%B3%E5%BF%97%E9%9B%84%E9%80%81%E5%A5%BD%E5%8F%8B%E6%9C%80%E5%BE%8C%E4%B8%80%E7%A8%8B",
+    "timestamp": "2026-09-12T11:53:42.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國北部地區火車出軌至少44傷　法媒：警方懷疑人為破壞所致",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260618/1144097831523454976972143.jpeg/cn3aEoXAvNIIOwO7XsAIe6hEnu6g9bvYfHxugnx8boI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60389333/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF%E6%A6%82%E7%8E%87%E5%8D%87%E8%87%B390-%E6%8A%97%E9%80%9A%E8%84%B9%E5%8F%AA%E6%98%AF%E8%97%89%E5%8F%A3",
     "timestamp": "2026-09-12T04:22:12.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秀茂坪安泰邨夫婦擸刀爭執　分別涉襲擊及藏有攻擊性武器被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240106/820163571945443328501639.jpeg/5mXLe1E9GU4iOnW6XniVdkSBk4qxL7b1wO0jQOrtI0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389331/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AE%89%E6%B3%B0%E9%82%A8%E5%A4%AB%E5%A9%A6%E6%93%B8%E5%88%80%E7%88%AD%E5%9F%B7-%E5%88%86%E5%88%A5%E6%B6%89%E8%A5%B2%E6%93%8A%E5%8F%8A%E8%97%8F%E6%9C%89%E6%94%BB%E6%93%8A%E6%80%A7%E6%AD%A6%E5%99%A8%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-12T03:53:48.059Z",
     "strategy": ".content-card__main"
   }
 ];
