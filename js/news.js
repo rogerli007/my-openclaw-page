@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T19:29:51.709Z
+// Last updated: 2026-09-12T19:53:51.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "布魯塞爾機場現無人機　航班中斷半小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-09-12T19:53:51.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "布魯塞爾機場現無人機　航班中斷半小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175559563403857920879603.jpeg/Qc-tFDD9EXHjZAEhzphgkFJ9ssF4IlAlNLF1KzSxdSs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389420/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%9D%AA%E6%BB%91%E7%BF%94%E5%82%98%E6%84%8F%E5%A4%96-%E5%A4%96%E7%B1%8D%E5%A9%A6%E6%8E%9B10%E7%B1%B3%E9%AB%98%E6%A8%B9-%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%87%BA%E5%8B%95%E6%95%91%E6%8F%B4",
     "timestamp": "2026-09-12T13:55:38.449Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何雁詩鄭俊弘將4歲罕見病兒移居惹抨擊　上周半山豪宅打牌超寫意",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175499537494577152327549.jpeg/zgpwRhqIe9DVzbnH9jq7p5-Vg6BCpAMVQ2cM1ENnDNQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389373/%E4%BD%95%E9%9B%81%E8%A9%A9%E9%84%AD%E4%BF%8A%E5%BC%98%E5%B0%874%E6%AD%B2%E7%BD%95%E8%A6%8B%E7%97%85%E5%85%92%E7%A7%BB%E5%B1%85%E6%83%B9%E6%8A%A8%E6%93%8A-%E4%B8%8A%E5%91%A8%E5%8D%8A%E5%B1%B1%E8%B1%AA%E5%AE%85%E6%89%93%E7%89%8C%E8%B6%85%E5%AF%AB%E6%84%8F",
-    "timestamp": "2026-09-12T13:41:32.811Z",
     "strategy": ".content-card__main"
   }
 ];
