@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T06:50:34.928Z
+// Last updated: 2026-09-12T07:19:27.666Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佛山美食｜順德桑拿雞/無骨鯽魚一鍋三吃　五指毛桃蒸出鮮甜原味",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174756635923451904068935.png/7D99DCihTPHAwxkbEYn0-9ghtW9ovdlLGaBcbBmgXGw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60296467/%E4%BD%9B%E5%B1%B1%E7%BE%8E%E9%A3%9F-%E9%A0%86%E5%BE%B7%E6%A1%91%E6%8B%BF%E9%9B%9E-%E7%84%A1%E9%AA%A8%E9%AF%BD%E9%AD%9A%E4%B8%80%E9%8D%8B%E4%B8%89%E5%90%83-%E4%BA%94%E6%8C%87%E6%AF%9B%E6%A1%83%E8%92%B8%E5%87%BA%E9%AE%AE%E7%94%9C%E5%8E%9F%E5%91%B3",
+    "timestamp": "2026-09-12T07:19:27.666Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "四川一女子稱被公職人員推入廁所強姦　縣局「不予立案」被推翻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174772424982401024240198.png/ueVF7MI45EELQFiw0wX5Tcs0F1wfRcD8cFXwK3BV8Cs",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60388348/%E6%9C%89%E7%89%87-%E7%B6%B2%E5%82%B3%E5%AA%B3%E5%A9%A6%E5%92%8C%E5%85%AC%E5%85%AC%E8%BB%8A%E9%9C%87%E8%A2%AB%E6%8A%93%E5%A7%A6%E5%8D%8A%E8%A3%B8%E9%80%83%E8%B7%91-%E7%B6%B2%E6%B0%91%E7%AC%91-%E8%82%A5%E6%B0%B4%E4%B8%8D%E6%B5%81%E5%A4%96%E4%BA%BA%E7%94%B0",
     "timestamp": "2026-09-11T23:17:55.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有驟雨　稍後驟雨漸多及有雷暴　明日部分地區雨勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175321467567476736572039.jpeg/qWq6X4ShkgWuy3gFYi5ZmQv0xdLR7eXlS3LjB3Fy4wc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389292/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%98%8E%E6%97%A5%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-09-11T22:59:35.631Z",
     "strategy": ".content-card__main"
   }
 ];
