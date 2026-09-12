@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T17:16:16.297Z
+// Last updated: 2026-09-12T17:26:44.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "悠長假期｜呂爵安角色名向黎明致敬　證MIRROR三子齊做邱士縉兄弟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175591909121331200057168.jpeg/wJv0TkL23AymJlU7bMEO7xgf6cYqVbq3M3kexDN5HsQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389427/%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E5%91%82%E7%88%B5%E5%AE%89%E8%A7%92%E8%89%B2%E5%90%8D%E5%90%91%E9%BB%8E%E6%98%8E%E8%87%B4%E6%95%AC-%E8%AD%89mirror%E4%B8%89%E5%AD%90%E9%BD%8A%E5%81%9A%E9%82%B1%E5%A3%AB%E7%B8%89%E5%85%84%E5%BC%9F",
+    "timestamp": "2026-09-12T17:26:44.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "悠長假期｜呂爵安角色名向黎明致敬　證MIRROR三子齊做邱士縉兄弟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175464044526571520805736.jpeg/b8epmZPr-SUseidJGol9D4FiNlJpiuHCU4n__FOJ__w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389372/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E9%99%B3%E5%98%89%E4%BD%B3%E6%B1%82bob%E4%BB%8B%E7%B4%B9%E5%B0%8D%E8%B1%A1-%E7%88%86%E7%B6%93%E5%85%B8%E5%92%80%E6%88%B2%E5%B9%95%E5%BE%8C-%E5%8F%A3%E6%B0%B4%E9%BC%BB%E6%B6%95%E9%BD%8A%E6%99%92",
     "timestamp": "2026-09-12T11:26:57.551Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "體壇札記｜從劉翔買斷自己與樊振東的揮灑從容　思考舉國體制出路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230714/756507227342245888670923.jpeg/U5F4ENIGQPmVBW7tc7uBgqp4UV57PaVwwBWBc8AVgXM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389390/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E5%BE%9E%E5%8A%89%E7%BF%94%E8%B2%B7%E6%96%B7%E8%87%AA%E5%B7%B1%E8%88%87%E6%A8%8A%E6%8C%AF%E6%9D%B1%E7%9A%84%E6%8F%AE%E7%81%91%E5%BE%9E%E5%AE%B9-%E6%80%9D%E8%80%83%E8%88%89%E5%9C%8B%E9%AB%94%E5%88%B6%E5%87%BA%E8%B7%AF",
-    "timestamp": "2026-09-12T10:18:22.390Z",
     "strategy": ".content-card__main"
   }
 ];
