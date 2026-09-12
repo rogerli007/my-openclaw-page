@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T05:43:19.441Z
+// Last updated: 2026-09-12T05:53:33.965Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南丫島發電廠對開海面驚現浮屍　53歲內地婦身亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250916/1044428921761697792250461.jpeg/vWEvrCxgQJGBXk_NM19bEBlr1wbXZjeMW3-mpFt_pqQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389355/%E5%8D%97%E4%B8%AB%E5%B3%B6%E7%99%BC%E9%9B%BB%E5%BB%A0%E5%B0%8D%E9%96%8B%E6%B5%B7%E9%9D%A2%E9%A9%9A%E7%8F%BE%E6%B5%AE%E5%B1%8D-53%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A9%A6%E8%BA%AB%E4%BA%A1",
+    "timestamp": "2026-09-12T05:53:33.965Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太子荔枝角道私家車撞客貨車　揭私家車司機疑藥後駕駛當場被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175321467567476736572039.jpeg/qWq6X4ShkgWuy3gFYi5ZmQv0xdLR7eXlS3LjB3Fy4wc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389292/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%98%8E%E6%97%A5%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
     "timestamp": "2026-09-11T22:31:46.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有驟雨　稍後驟雨漸多及有雷暴　明日部分地區雨勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175321467567476736572039.jpeg/qWq6X4ShkgWuy3gFYi5ZmQv0xdLR7eXlS3LjB3Fy4wc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389292/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%98%8E%E6%97%A5%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-09-11T22:18:35.368Z",
     "strategy": ".content-card__main"
   }
 ];
