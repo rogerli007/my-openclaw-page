@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T08:53:47.672Z
+// Last updated: 2026-09-12T09:19:50.239Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神配對計劃2｜19歲男回春論焫㷫全場　神秘前度求復合惹人爆喊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175453873653944320382657.jpeg/Rx1wz6DPy_WeZ5oq-ouBQbu4kLBau8-bcN9Jn3DfSZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389370/%E5%A5%B3%E7%A5%9E%E9%85%8D%E5%B0%8D%E8%A8%88%E5%8A%832-19%E6%AD%B2%E7%94%B7%E5%9B%9E%E6%98%A5%E8%AB%96%E7%84%AB%E3%B7%AB%E5%85%A8%E5%A0%B4-%E7%A5%9E%E7%A7%98%E5%89%8D%E5%BA%A6%E6%B1%82%E5%BE%A9%E5%90%88%E6%83%B9%E4%BA%BA%E7%88%86%E5%96%8A",
+    "timestamp": "2026-09-12T09:19:50.239Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運網球｜黃澤林專心單打衝獎牌　無懼排名前列變壓力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174015847031640064403679.jpeg/atTJ2cqhCvBS_bdW4NH6tyxkgdWmCZnKQ76eqkO-nqo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389307/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E5%8F%8D%E5%B0%8D%E4%B8%AD%E5%9C%8B%E8%BB%8A%E4%BC%81%E5%9C%A8%E7%BE%8E%E5%9C%8B%E7%94%9F%E7%94%A2",
     "timestamp": "2026-09-12T01:56:35.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人妻送貴價月餅遭奶奶嫌棄轉送他人　過來人親剖「期待錯位」化解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173620979985813504127469.png/V0PXRRH3xLdWJ4UdB0nHe368KUhUt2k-yDgb38g4G98?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387507/%E4%BA%BA%E5%A6%BB%E9%80%81%E8%B2%B4%E5%83%B9%E6%9C%88%E9%A4%85%E9%81%AD%E5%A5%B6%E5%A5%B6%E5%AB%8C%E6%A3%84%E8%BD%89%E9%80%81%E4%BB%96%E4%BA%BA-%E9%81%8E%E4%BE%86%E4%BA%BA%E8%A6%AA%E5%89%96-%E6%9C%9F%E5%BE%85%E9%8C%AF%E4%BD%8D-%E5%8C%96%E8%A7%A3",
-    "timestamp": "2026-09-12T01:36:49.083Z",
     "strategy": ".content-card__main"
   }
 ];
