@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T02:47:01.587Z
+// Last updated: 2026-09-12T03:22:24.703Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾陪罕見病女兒走出難關 鍾麗淇傳患漸凍症入ICU發聲明望給予空間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175392857259773952253467.png/ccNJKNGNytHrIXKLQpYpbV7-2mBmegt59U91PfVPdT0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60389289/%E6%9B%BE%E9%99%AA%E7%BD%95%E8%A6%8B%E7%97%85%E5%A5%B3%E5%85%92%E8%B5%B0%E5%87%BA%E9%9B%A3%E9%97%9C-%E9%8D%BE%E9%BA%97%E6%B7%87%E5%82%B3%E6%82%A3%E6%BC%B8%E5%87%8D%E7%97%87%E5%85%A5icu%E7%99%BC%E8%81%B2%E6%98%8E%E6%9C%9B%E7%B5%A6%E4%BA%88%E7%A9%BA%E9%96%93",
+    "timestamp": "2026-09-12T03:22:24.703Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華逝世｜憶「恩人」馬時亨哽咽　任局長之初獲董生造訪予信心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
     "timestamp": "2026-09-11T19:28:22.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
-    "timestamp": "2026-09-11T19:19:34.659Z",
     "strategy": ".content-card__main"
   }
 ];
