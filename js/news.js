@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T21:53:57.006Z
+// Last updated: 2026-09-12T22:28:58.153Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日有幾陣驟雨　初時部分地區雨勢較大　最高氣溫30度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175685475541716992319528.jpeg/YHN3uwzjdsDDstDDjvVhcsqo_1eOaT8rHGquIyZqriM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389447/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB30%E5%BA%A6",
+    "timestamp": "2026-09-12T22:28:58.153Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警新界北設路障打擊交通違例事項　2男「吹爆波」　同涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175571690269184000872340.jpeg/Po-W9LC9AXEAQjbq5JyfZr0Q7tiqXkcu-18nhftfJ4U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389423/%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96-%E5%BC%B5%E7%91%9B%E5%85%92%E5%AD%90%E5%BC%B5%E7%85%92%E6%9B%AC%E5%90%88%E7%85%A7%E6%82%BC%E5%BF%B5-%E6%9B%BE%E8%A2%AB%E5%8B%B8%E5%8B%BF%E7%B5%90%E5%A9%9A-%E7%B9%BC%E7%BA%8C%E5%81%9A%E6%B5%AA%E5%AD%90",
     "timestamp": "2026-09-12T15:53:37.125Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "苗僑偉35歲愛女苗彤曬火辣比堅尼相　罕貼神秘男士背影疑洩蜜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175481200467251200895170.jpeg/rBcQyAUNeNjoP31_TxdUyzmr4rBLBkn18f7zk_H-85M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389381/%E8%8B%97%E5%83%91%E5%81%8935%E6%AD%B2%E6%84%9B%E5%A5%B3%E8%8B%97%E5%BD%A4%E6%9B%AC%E7%81%AB%E8%BE%A3%E6%AF%94%E5%A0%85%E5%B0%BC%E7%9B%B8-%E7%BD%95%E8%B2%BC%E7%A5%9E%E7%A7%98%E7%94%B7%E5%A3%AB%E8%83%8C%E5%BD%B1%E7%96%91%E6%B4%A9%E8%9C%9C",
-    "timestamp": "2026-09-12T15:41:05.480Z",
     "strategy": ".content-card__main"
   }
 ];
