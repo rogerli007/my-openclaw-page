@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T17:53:53.744Z
+// Last updated: 2026-09-12T18:21:51.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "布魯塞爾機場現無人機　航班中斷半小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-09-12T18:21:51.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大抵制美國貨　超市轉購摩洛哥西班牙等地農產品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175543357942796288540712.jpeg/w0FHmZeeYSIASZloL214gOQCJx_gKAbC6zmln-s5pZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389413/%E6%97%BA%E8%A7%92%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E6%92%9E10%E6%AD%B2%E7%AB%A5%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E5%85%A7%E5%9C%B0%E7%94%B7%E9%A8%8E%E6%89%8B%E7%BF%8C%E6%97%A5%E6%B6%89%E5%8D%B1%E9%A7%95%E7%AD%896%E7%BD%AA%E5%B0%B1%E9%80%AE",
     "timestamp": "2026-09-12T12:45:42.643Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雷宇揚廣州出殯兒子花圈放靈堂中央　吳志雄送好友最後一程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175530873680826368632079.png/71db0JOe8CMlIZu-SAWAh69-vZZGIKNNtw0EArcNBAI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389405/%E9%9B%B7%E5%AE%87%E6%8F%9A%E5%BB%A3%E5%B7%9E%E5%87%BA%E6%AE%AF%E5%85%92%E5%AD%90%E8%8A%B1%E5%9C%88%E6%94%BE%E9%9D%88%E5%A0%82%E4%B8%AD%E5%A4%AE-%E5%90%B3%E5%BF%97%E9%9B%84%E9%80%81%E5%A5%BD%E5%8F%8B%E6%9C%80%E5%BE%8C%E4%B8%80%E7%A8%8B",
-    "timestamp": "2026-09-12T11:53:42.292Z",
     "strategy": ".content-card__main"
   }
 ];
