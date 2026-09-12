@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T14:31:11.729Z
+// Last updated: 2026-09-12T15:17:27.307Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外籍客遊越南「坐霸王車」？謝謝代車資司機傻眼　疑有反轉｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174075971192492032576031.png/O4ZQzsdnZuMPEuHmdmjzpmgAGzJ2AZ6UD5P_Zg-T_2Y",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60377067/%E5%A4%96%E7%B1%8D%E5%AE%A2%E9%81%8A%E8%B6%8A%E5%8D%97-%E5%9D%90%E9%9C%B8%E7%8E%8B%E8%BB%8A-%E8%AC%9D%E8%AC%9D%E4%BB%A3%E8%BB%8A%E8%B3%87%E5%8F%B8%E6%A9%9F%E5%82%BB%E7%9C%BC-%E7%96%91%E6%9C%89%E5%8F%8D%E8%BD%89-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-12T15:17:27.307Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩今晚罕見故障　動用後備攪珠機及號碼球　800萬頭獎無人中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175453855115120640673254.jpeg/8R7HX52gaKABcCxXpMHb3kmEiRHs37WPnaBPrp2gT64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389357/%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%A5%B3%E5%AD%90%E7%A8%B1%E8%A2%AB%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E6%8E%A8%E5%85%A5%E5%BB%81%E6%89%80%E5%BC%B7%E5%A7%A6-%E7%B8%A3%E5%B1%80-%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88-%E8%A2%AB%E6%8E%A8%E7%BF%BB",
     "timestamp": "2026-09-12T06:50:34.928Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山恆安邨雙屍｜夫婦同患「三高」　需定期覆診　妻失智症5年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175445017079058432987624.jpeg/va57We_VJ5XMd3aGIKJxDFWGJ3ZVr5JXwex7dMHse3Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389360/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%81%86%E5%AE%89%E9%82%A8%E9%9B%99%E5%B1%8D-%E5%A4%AB%E5%A9%A6%E5%90%8C%E6%82%A3-%E4%B8%89%E9%AB%98-%E9%9C%80%E5%AE%9A%E6%9C%9F%E8%A6%86%E8%A8%BA-%E5%A6%BB%E5%A4%B1%E6%99%BA%E7%97%875%E5%B9%B4",
-    "timestamp": "2026-09-12T06:29:30.243Z",
     "strategy": ".content-card__main"
   }
 ];
