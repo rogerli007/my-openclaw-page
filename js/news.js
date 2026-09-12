@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T07:56:43.214Z
+// Last updated: 2026-09-12T08:23:32.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吃得不多卻難瘦？營養師：超加工食品是關鍵　無添加不一定助減肥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175158375227330560704689.jpeg/kxSAWkUMwa3LqhIWYunNMxp53WRhK_6mn6qMyJ-qjMg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382003/%E5%90%83%E5%BE%97%E4%B8%8D%E5%A4%9A%E5%8D%BB%E9%9B%A3%E7%98%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB-%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81%E6%98%AF%E9%97%9C%E9%8D%B5-%E7%84%A1%E6%B7%BB%E5%8A%A0%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%8A%A9%E6%B8%9B%E8%82%A5",
+    "timestamp": "2026-09-12T08:23:32.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "億元六合彩 ｜食環督察中獎拒平分　加國工友夾錢中3億案件更離奇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171811442244980736514692.jpeg/WZxOGFhr2chJFM5yBIFRQLMqhzLIeT0GdeDak3Xg2pM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385685/%E5%B0%BF%E6%B3%A1%E6%98%AF%E8%85%8E%E7%97%85%E8%AD%A6%E8%99%9F-56%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E8%85%8E%E7%97%85-%E9%80%BE%E5%8D%8A%E6%82%A3%E8%80%85%E7%84%A1%E7%97%9B-%E9%86%AB%E7%94%9F%E8%A7%A35%E5%A4%A7%E5%BE%B5%E5%85%86",
     "timestamp": "2026-09-11T23:54:13.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尿泡是腎病警號！56歲男確診腎病　逾半患者無痛　醫生解5大徵兆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171811442244980736514692.jpeg/WZxOGFhr2chJFM5yBIFRQLMqhzLIeT0GdeDak3Xg2pM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385685/%E5%B0%BF%E6%B3%A1%E6%98%AF%E8%85%8E%E7%97%85%E8%AD%A6%E8%99%9F-56%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E8%85%8E%E7%97%85-%E9%80%BE%E5%8D%8A%E6%82%A3%E8%80%85%E7%84%A1%E7%97%9B-%E9%86%AB%E7%94%9F%E8%A7%A35%E5%A4%A7%E5%BE%B5%E5%85%86",
-    "timestamp": "2026-09-11T23:43:04.524Z",
     "strategy": ".content-card__main"
   }
 ];
