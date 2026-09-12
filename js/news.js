@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T05:53:33.965Z
+// Last updated: 2026-09-12T06:29:30.243Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山恆安邨雙屍｜夫婦同患「三高」　需定期覆診　妻失智症5年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175445017079058432987624.jpeg/va57We_VJ5XMd3aGIKJxDFWGJ3ZVr5JXwex7dMHse3Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389360/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%81%86%E5%AE%89%E9%82%A8%E9%9B%99%E5%B1%8D-%E5%A4%AB%E5%A9%A6%E5%90%8C%E6%82%A3-%E4%B8%89%E9%AB%98-%E9%9C%80%E5%AE%9A%E6%9C%9F%E8%A6%86%E8%A8%BA-%E5%A6%BB%E5%A4%B1%E6%99%BA%E7%97%875%E5%B9%B4",
+    "timestamp": "2026-09-12T06:29:30.243Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南丫島發電廠對開海面驚現浮屍　53歲內地婦身亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175321467567476736572039.jpeg/qWq6X4ShkgWuy3gFYi5ZmQv0xdLR7eXlS3LjB3Fy4wc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389292/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%98%8E%E6%97%A5%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
     "timestamp": "2026-09-11T22:43:05.372Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有驟雨　稍後驟雨漸多及有雷暴　明日部分地區雨勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175321467567476736572039.jpeg/qWq6X4ShkgWuy3gFYi5ZmQv0xdLR7eXlS3LjB3Fy4wc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389292/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E9%A9%9F%E9%9B%A8-%E7%A8%8D%E5%BE%8C%E9%A9%9F%E9%9B%A8%E6%BC%B8%E5%A4%9A%E5%8F%8A%E6%9C%89%E9%9B%B7%E6%9A%B4-%E6%98%8E%E6%97%A5%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-09-11T22:31:46.583Z",
     "strategy": ".content-card__main"
   }
 ];
