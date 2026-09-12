@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T04:43:49.656Z
+// Last updated: 2026-09-12T04:54:21.287Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "挪威前國王哈拉爾五世甫下葬　胞姊阿斯特麗德公主離世享年94歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175421611327623168420963.jpeg/sFAqBQlLiEVqfJR1C_VlyaU4uhUUsdUmu7_XMru_1zI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389329/%E6%8C%AA%E5%A8%81%E5%89%8D%E5%9C%8B%E7%8E%8B%E5%93%88%E6%8B%89%E7%88%BE%E4%BA%94%E4%B8%96%E7%94%AB%E4%B8%8B%E8%91%AC-%E8%83%9E%E5%A7%8A%E9%98%BF%E6%96%AF%E7%89%B9%E9%BA%97%E5%BE%B7%E5%85%AC%E4%B8%BB%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B494%E6%AD%B2",
+    "timestamp": "2026-09-12T04:54:21.287Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "挪威前國王哈拉爾五世甫下葬　胞姊阿斯特麗德公主離世享年94歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5ddf9bb8b66f770df1c157ae.jpg/X5f7mfFP0SLjGHJxK_1loLz4XONe4QvlSO1I5UjtSOU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389291/%E9%9F%93%E5%9C%8B-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E4%B8%8D%E6%98%8E%E9%A3%9B%E8%A1%8C%E7%89%A9",
     "timestamp": "2026-09-11T21:17:36.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "淺水灣豪宅遭爆竊　25歲女損失$46萬財物　包括勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175283113996062720085723.jpeg/QGvkZcRf52rgh5v4gcaPPGwMFfMsF5YwRQC5yH8Aucg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389287/%E6%B7%BA%E6%B0%B4%E7%81%A3%E8%B1%AA%E5%AE%85%E9%81%AD%E7%88%86%E7%AB%8A-25%E6%AD%B2%E5%A5%B3%E6%90%8D%E5%A4%B1-46%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-09-11T20:41:32.972Z",
     "strategy": ".content-card__main"
   }
 ];
