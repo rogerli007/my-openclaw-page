@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T17:26:44.716Z
+// Last updated: 2026-09-12T17:40:45.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大抵制美國貨　超市轉購摩洛哥西班牙等地農產品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389438/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8A%B5%E5%88%B6%E7%BE%8E%E5%9C%8B%E8%B2%A8-%E8%B6%85%E5%B8%82%E8%BD%89%E8%B3%BC%E6%91%A9%E6%B4%9B%E5%93%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E7%AD%89%E5%9C%B0%E8%BE%B2%E7%94%A2%E5%93%81",
+    "timestamp": "2026-09-12T17:40:45.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "悠長假期｜呂爵安角色名向黎明致敬　證MIRROR三子齊做邱士縉兄弟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175526913817448448526734.png/moWTTvy5n1nLLX9FQVsy_4BcKNSVwU_43Za5_d2Wuf0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389403/%E6%B3%95%E5%9C%8B%E5%8C%97%E9%83%A8%E5%9C%B0%E5%8D%80%E7%81%AB%E8%BB%8A%E5%87%BA%E8%BB%8C%E8%87%B3%E5%B0%9144%E5%82%B7-%E6%B3%95%E5%AA%92-%E8%AD%A6%E6%96%B9%E6%87%B7%E7%96%91%E4%BA%BA%E7%82%BA%E7%A0%B4%E5%A3%9E%E6%89%80%E8%87%B4",
     "timestamp": "2026-09-12T11:42:01.039Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一周星星｜陳嘉佳求Bob介紹對象　爆經典咀戲幕後：口水鼻涕齊晒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175464044526571520805736.jpeg/b8epmZPr-SUseidJGol9D4FiNlJpiuHCU4n__FOJ__w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389372/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E9%99%B3%E5%98%89%E4%BD%B3%E6%B1%82bob%E4%BB%8B%E7%B4%B9%E5%B0%8D%E8%B1%A1-%E7%88%86%E7%B6%93%E5%85%B8%E5%92%80%E6%88%B2%E5%B9%95%E5%BE%8C-%E5%8F%A3%E6%B0%B4%E9%BC%BB%E6%B6%95%E9%BD%8A%E6%99%92",
-    "timestamp": "2026-09-12T11:26:57.551Z",
     "strategy": ".content-card__main"
   }
 ];
