@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T03:45:22.719Z
+// Last updated: 2026-09-12T03:53:48.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秀茂坪安泰邨夫婦擸刀爭執　分別涉襲擊及藏有攻擊性武器被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240106/820163571945443328501639.jpeg/5mXLe1E9GU4iOnW6XniVdkSBk4qxL7b1wO0jQOrtI0A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389331/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AE%89%E6%B3%B0%E9%82%A8%E5%A4%AB%E5%A9%A6%E6%93%B8%E5%88%80%E7%88%AD%E5%9F%B7-%E5%88%86%E5%88%A5%E6%B6%89%E8%A5%B2%E6%93%8A%E5%8F%8A%E8%97%8F%E6%9C%89%E6%94%BB%E6%93%8A%E6%80%A7%E6%AD%A6%E5%99%A8%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-12T03:53:48.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜議員倡加碼鼓勵生育　發「子女幸福卡」享公共設施折扣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175290464325079040980632.jpeg/v1oSZy1E_zKbbIfg5xlKaYr_1ztny19ugBdzUIAXc1A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389288/%E6%B3%95%E5%9C%8B%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7-%E5%8C%97%E9%83%A8%E5%9C%B0%E5%8D%80%E7%81%AB%E8%BB%8A%E8%84%AB%E8%BB%8C-%E5%88%9D%E6%AD%A5%E8%A9%95%E4%BC%B0%E7%B4%8420%E5%82%B7",
     "timestamp": "2026-09-11T19:54:15.771Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西灣河私家車轉彎失控剷行人路撞兩男　其中一名傷者雙腳被困轆底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175268535862038528904573.jpeg/rsj43UaISnBvft2yt2OmHWcccYU5evVlf7l2QH-5dkA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389286/%E8%A5%BF%E7%81%A3%E6%B2%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E5%85%A9%E7%94%B7-%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E5%82%B7%E8%80%85%E9%9B%99%E8%85%B3%E8%A2%AB%E5%9B%B0%E8%BD%86%E5%BA%95",
-    "timestamp": "2026-09-11T19:41:30.443Z",
     "strategy": ".content-card__main"
   }
 ];
