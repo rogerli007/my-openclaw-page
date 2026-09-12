@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T16:20:03.884Z
+// Last updated: 2026-09-12T16:32:32.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone18 Pro｜預購收大量信用卡收款短訊　方保僑指網絡擠塞所致",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174862061381881856356274.jpeg/sH6RXwCESo4s7T94gX19BwsfpG6v3UERoVsqAKFbKgA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389431/iphone18-pro-%E9%A0%90%E8%B3%BC%E6%94%B6%E5%A4%A7%E9%87%8F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%94%B6%E6%AC%BE%E7%9F%AD%E8%A8%8A-%E6%96%B9%E4%BF%9D%E5%83%91%E6%8C%87%E7%B6%B2%E7%B5%A1%E6%93%A0%E5%A1%9E%E6%89%80%E8%87%B4",
+    "timestamp": "2026-09-12T16:32:32.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone18 Pro｜預購收大量信用卡收款短訊　方保僑指網絡擠塞所致",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175472460577902592147803.jpeg/aI_iZbYui2grHSSYfiLuPDMTAyUJBoHLQL4MgkC-DII?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389374/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E5%B0%88%E5%BF%83%E5%96%AE%E6%89%93%E8%A1%9D%E7%8D%8E%E7%89%8C-%E7%84%A1%E6%87%BC%E6%8E%92%E5%90%8D%E5%89%8D%E5%88%97%E8%AE%8A%E5%A3%93%E5%8A%9B",
     "timestamp": "2026-09-12T08:53:47.672Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吃得不多卻難瘦？營養師：超加工食品是關鍵　無添加不一定助減肥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175158375227330560704689.jpeg/kxSAWkUMwa3LqhIWYunNMxp53WRhK_6mn6qMyJ-qjMg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60382003/%E5%90%83%E5%BE%97%E4%B8%8D%E5%A4%9A%E5%8D%BB%E9%9B%A3%E7%98%A6-%E7%87%9F%E9%A4%8A%E5%B8%AB-%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81%E6%98%AF%E9%97%9C%E9%8D%B5-%E7%84%A1%E6%B7%BB%E5%8A%A0%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%8A%A9%E6%B8%9B%E8%82%A5",
-    "timestamp": "2026-09-12T08:23:32.213Z",
     "strategy": ".content-card__main"
   }
 ];
