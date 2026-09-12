@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T09:19:50.239Z
+// Last updated: 2026-09-12T09:40:55.102Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌42區三座公屋項目　混凝土強度疑未達標　房屋署正嚴肅跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175496459122905088370846.jpeg/avFnqhqfObD8yCA6m_UWjLRY-kM51z04sgxbSbIMW0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389393/%E6%9D%B1%E6%B6%8C42%E5%8D%80%E4%B8%89%E5%BA%A7%E5%85%AC%E5%B1%8B%E9%A0%85%E7%9B%AE-%E6%B7%B7%E5%87%9D%E5%9C%9F%E5%BC%B7%E5%BA%A6%E7%96%91%E6%9C%AA%E9%81%94%E6%A8%99-%E6%88%BF%E5%B1%8B%E7%BD%B2%E6%AD%A3%E5%9A%B4%E8%82%85%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-09-12T09:40:55.102Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神配對計劃2｜19歲男回春論焫㷫全場　神秘前度求復合惹人爆喊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174467550596042752483715.jpeg/XLHwCXlEa5UwjLmNSWQFXBdDdnutQqTvBP5pBgT-aQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389309/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E6%86%B6-%E6%81%A9%E4%BA%BA-%E9%A6%AC%E6%99%82%E4%BA%A8%E5%93%BD%E5%92%BD-%E4%BB%BB%E5%B1%80%E9%95%B7%E4%B9%8B%E5%88%9D%E7%8D%B2%E8%91%A3%E7%94%9F%E9%80%A0%E8%A8%AA%E4%BA%88%E4%BF%A1%E5%BF%83",
     "timestamp": "2026-09-12T02:47:01.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：不反對中國車企在美國生產",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174015847031640064403679.jpeg/atTJ2cqhCvBS_bdW4NH6tyxkgdWmCZnKQ76eqkO-nqo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389307/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E5%8F%8D%E5%B0%8D%E4%B8%AD%E5%9C%8B%E8%BB%8A%E4%BC%81%E5%9C%A8%E7%BE%8E%E5%9C%8B%E7%94%9F%E7%94%A2",
-    "timestamp": "2026-09-12T01:56:35.613Z",
     "strategy": ".content-card__main"
   }
 ];
