@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T19:53:51.865Z
+// Last updated: 2026-09-12T20:32:50.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南灣隧道前車收慢　貨車險撞　車胎懸空「彈下彈下」｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175649662963552256873941.jpeg/r3AsFdXdI56rNWmqMdQtDu8b5yESPfV0Ut7UOlLe1Do",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389441/%E5%8D%97%E7%81%A3%E9%9A%A7%E9%81%93%E5%89%8D%E8%BB%8A%E6%94%B6%E6%85%A2-%E8%B2%A8%E8%BB%8A%E9%9A%AA%E6%92%9E-%E8%BB%8A%E8%83%8E%E6%87%B8%E7%A9%BA-%E5%BD%88%E4%B8%8B%E5%BD%88%E4%B8%8B-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-12T20:32:50.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "布魯塞爾機場現無人機　航班中斷半小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175426037920567296631729.jpeg/k90pLWZhfnbvgOHVek5fXQZBm8XR1v3Q2gNkitoDZIo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389350/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E6%93%9A%E5%A0%B1%E5%BB%BA%E7%AF%89%E7%BD%B2%E7%B8%BD%E5%B7%A5%E7%A8%8B%E7%AD%96%E5%8A%83%E7%B6%93%E7%90%86%E8%A2%AB%E8%BE%AD%E8%81%B7-%E7%BD%B2%E6%96%B9%E6%8C%87%E4%B8%8D%E7%AC%A6%E4%BA%8B%E5%AF%A6",
     "timestamp": "2026-09-12T14:17:54.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山昂坪滑翔傘意外　外籍婦掛10米高樹　直升機出動救援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175559563403857920879603.jpeg/Qc-tFDD9EXHjZAEhzphgkFJ9ssF4IlAlNLF1KzSxdSs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389420/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%9D%AA%E6%BB%91%E7%BF%94%E5%82%98%E6%84%8F%E5%A4%96-%E5%A4%96%E7%B1%8D%E5%A9%A6%E6%8E%9B10%E7%B1%B3%E9%AB%98%E6%A8%B9-%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%87%BA%E5%8B%95%E6%95%91%E6%8F%B4",
-    "timestamp": "2026-09-12T13:55:38.449Z",
     "strategy": ".content-card__main"
   }
 ];
