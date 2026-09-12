@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T18:21:51.291Z
+// Last updated: 2026-09-12T18:42:05.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "布魯塞爾機場現無人機　航班中斷半小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-09-12T18:42:05.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "布魯塞爾機場現無人機　航班中斷半小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175543357942796288540712.jpeg/w0FHmZeeYSIASZloL214gOQCJx_gKAbC6zmln-s5pZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389413/%E6%97%BA%E8%A7%92%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E6%92%9E10%E6%AD%B2%E7%AB%A5%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E5%85%A7%E5%9C%B0%E7%94%B7%E9%A8%8E%E6%89%8B%E7%BF%8C%E6%97%A5%E6%B6%89%E5%8D%B1%E9%A7%95%E7%AD%896%E7%BD%AA%E5%B0%B1%E9%80%AE",
     "timestamp": "2026-09-12T12:54:51.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角電動單車撞10歲童不顧而去　內地男騎手翌日涉危駕等6罪就逮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175543357942796288540712.jpeg/w0FHmZeeYSIASZloL214gOQCJx_gKAbC6zmln-s5pZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389413/%E6%97%BA%E8%A7%92%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E6%92%9E10%E6%AD%B2%E7%AB%A5%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E5%85%A7%E5%9C%B0%E7%94%B7%E9%A8%8E%E6%89%8B%E7%BF%8C%E6%97%A5%E6%B6%89%E5%8D%B1%E9%A7%95%E7%AD%896%E7%BD%AA%E5%B0%B1%E9%80%AE",
-    "timestamp": "2026-09-12T12:45:42.643Z",
     "strategy": ".content-card__main"
   }
 ];
