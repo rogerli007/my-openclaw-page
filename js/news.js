@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T08:23:32.213Z
+// Last updated: 2026-09-12T08:53:47.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運網球｜黃澤林專心單打衝獎牌　無懼排名前列變壓力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175472460577902592147803.jpeg/aI_iZbYui2grHSSYfiLuPDMTAyUJBoHLQL4MgkC-DII?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389374/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E5%B0%88%E5%BF%83%E5%96%AE%E6%89%93%E8%A1%9D%E7%8D%8E%E7%89%8C-%E7%84%A1%E6%87%BC%E6%8E%92%E5%90%8D%E5%89%8D%E5%88%97%E8%AE%8A%E5%A3%93%E5%8A%9B",
+    "timestamp": "2026-09-12T08:53:47.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吃得不多卻難瘦？營養師：超加工食品是關鍵　無添加不一定助減肥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173620979985813504127469.png/V0PXRRH3xLdWJ4UdB0nHe368KUhUt2k-yDgb38g4G98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387507/%E4%BA%BA%E5%A6%BB%E9%80%81%E8%B2%B4%E5%83%B9%E6%9C%88%E9%A4%85%E9%81%AD%E5%A5%B6%E5%A5%B6%E5%AB%8C%E6%A3%84%E8%BD%89%E9%80%81%E4%BB%96%E4%BA%BA-%E9%81%8E%E4%BE%86%E4%BA%BA%E8%A6%AA%E5%89%96-%E6%9C%9F%E5%BE%85%E9%8C%AF%E4%BD%8D-%E5%8C%96%E8%A7%A3",
     "timestamp": "2026-09-12T01:36:49.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尿泡是腎病警號！56歲男確診腎病　逾半患者無痛　醫生解5大徵兆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171811442244980736514692.jpeg/WZxOGFhr2chJFM5yBIFRQLMqhzLIeT0GdeDak3Xg2pM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385685/%E5%B0%BF%E6%B3%A1%E6%98%AF%E8%85%8E%E7%97%85%E8%AD%A6%E8%99%9F-56%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E8%85%8E%E7%97%85-%E9%80%BE%E5%8D%8A%E6%82%A3%E8%80%85%E7%84%A1%E7%97%9B-%E9%86%AB%E7%94%9F%E8%A7%A35%E5%A4%A7%E5%BE%B5%E5%85%86",
-    "timestamp": "2026-09-11T23:54:13.578Z",
     "strategy": ".content-card__main"
   }
 ];
