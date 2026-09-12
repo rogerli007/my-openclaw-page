@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T23:20:19.930Z
+// Last updated: 2026-09-12T23:42:27.021Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏克蘭官員：基輔籌備10月恢復三方會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167777975299477504148523.jpeg/c2o58SKcxxwMP_d_ClqH9E-d8tmMCH7aRe-cmUXvnJk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389449/%E7%83%8F%E5%85%8B%E8%98%AD%E5%AE%98%E5%93%A1-%E5%9F%BA%E8%BC%94%E7%B1%8C%E5%82%9910%E6%9C%88%E6%81%A2%E5%BE%A9%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-09-12T23:42:27.021Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭官員：基輔籌備10月恢復三方會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175591909121331200057168.jpeg/wJv0TkL23AymJlU7bMEO7xgf6cYqVbq3M3kexDN5HsQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389427/%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E5%91%82%E7%88%B5%E5%AE%89%E8%A7%92%E8%89%B2%E5%90%8D%E5%90%91%E9%BB%8E%E6%98%8E%E8%87%B4%E6%95%AC-%E8%AD%89mirror%E4%B8%89%E5%AD%90%E9%BD%8A%E5%81%9A%E9%82%B1%E5%A3%AB%E7%B8%89%E5%85%84%E5%BC%9F",
     "timestamp": "2026-09-12T16:42:53.467Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone18 Pro｜預購收大量信用卡收款短訊　方保僑指網絡擠塞所致",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174862061381881856356274.jpeg/sH6RXwCESo4s7T94gX19BwsfpG6v3UERoVsqAKFbKgA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389431/iphone18-pro-%E9%A0%90%E8%B3%BC%E6%94%B6%E5%A4%A7%E9%87%8F%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%94%B6%E6%AC%BE%E7%9F%AD%E8%A8%8A-%E6%96%B9%E4%BF%9D%E5%83%91%E6%8C%87%E7%B6%B2%E7%B5%A1%E6%93%A0%E5%A1%9E%E6%89%80%E8%87%B4",
-    "timestamp": "2026-09-12T16:32:32.156Z",
     "strategy": ".content-card__main"
   }
 ];
