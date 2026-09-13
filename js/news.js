@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T18:43:21.123Z
+// Last updated: 2026-09-13T18:54:03.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角電動單車撞10歲童不顧而去　內地男騎手涉危駕等6罪今提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175997365065093120834695.jpeg/hw0b_weFBzaTETa-rs-RVzerDSXWWkfkPZYW9D2WFvQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389627/%E6%97%BA%E8%A7%92%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E6%92%9E10%E6%AD%B2%E7%AB%A5%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E5%85%A7%E5%9C%B0%E7%94%B7%E9%A8%8E%E6%89%8B%E6%B6%89%E5%8D%B1%E9%A7%95%E7%AD%896%E7%BD%AA%E4%BB%8A%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-09-13T18:54:03.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：與習近平關係很好　不擔心對方或取消訪美",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173978071527591936269318.jpeg/cGOceg6_hnbPba2lNTiA943sRjBLm4ZLrOryPqzq8j4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389588/iphone-18-pro%E9%A0%90%E8%B3%BC-%E6%95%B8%E7%99%BE%E4%BA%BA%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%81%AD%E7%9B%9C%E7%94%A8-%E8%98%8B%E6%9E%9C%E7%82%BA%E4%BD%95%E4%B8%8D%E8%A8%AD3ds%E8%AA%8D%E8%AD%89",
     "timestamp": "2026-09-13T12:54:48.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro預購｜數百人信用卡遭盜用　蘋果為何不設3DS認證？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173978071527591936269318.jpeg/cGOceg6_hnbPba2lNTiA943sRjBLm4ZLrOryPqzq8j4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389588/iphone-18-pro%E9%A0%90%E8%B3%BC-%E6%95%B8%E7%99%BE%E4%BA%BA%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%81%AD%E7%9B%9C%E7%94%A8-%E8%98%8B%E6%9E%9C%E7%82%BA%E4%BD%95%E4%B8%8D%E8%A8%AD3ds%E8%AA%8D%E8%AD%89",
-    "timestamp": "2026-09-13T12:46:02.358Z",
     "strategy": ".content-card__main"
   }
 ];
