@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-12T23:42:27.021Z
+// Last updated: 2026-09-13T00:53:53.733Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銅鑼灣珠寶店大閘被損毀疑遭爆竊　警調查後證實虛驚一場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175723768966811648938751.jpeg/Z_4dtNdsd8geRciINK9xW-fmDfHSE04oUCuiiVArook?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389456/%E9%8A%85%E9%91%BC%E7%81%A3%E7%8F%A0%E5%AF%B6%E5%BA%97%E5%A4%A7%E9%96%98%E8%A2%AB%E6%90%8D%E6%AF%80%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E5%BE%8C%E8%AD%89%E5%AF%A6%E8%99%9B%E9%A9%9A%E4%B8%80%E5%A0%B4",
+    "timestamp": "2026-09-13T00:53:53.733Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭官員：基輔籌備10月恢復三方會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175591909121331200057168.jpeg/wJv0TkL23AymJlU7bMEO7xgf6cYqVbq3M3kexDN5HsQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389427/%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E5%91%82%E7%88%B5%E5%AE%89%E8%A7%92%E8%89%B2%E5%90%8D%E5%90%91%E9%BB%8E%E6%98%8E%E8%87%B4%E6%95%AC-%E8%AD%89mirror%E4%B8%89%E5%AD%90%E9%BD%8A%E5%81%9A%E9%82%B1%E5%A3%AB%E7%B8%89%E5%85%84%E5%BC%9F",
     "timestamp": "2026-09-12T16:53:53.476Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "悠長假期｜呂爵安角色名向黎明致敬　證MIRROR三子齊做邱士縉兄弟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175591909121331200057168.jpeg/wJv0TkL23AymJlU7bMEO7xgf6cYqVbq3M3kexDN5HsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389427/%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E5%91%82%E7%88%B5%E5%AE%89%E8%A7%92%E8%89%B2%E5%90%8D%E5%90%91%E9%BB%8E%E6%98%8E%E8%87%B4%E6%95%AC-%E8%AD%89mirror%E4%B8%89%E5%AD%90%E9%BD%8A%E5%81%9A%E9%82%B1%E5%A3%AB%E7%B8%89%E5%85%84%E5%BC%9F",
-    "timestamp": "2026-09-12T16:42:53.467Z",
     "strategy": ".content-card__main"
   }
 ];
