@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T11:16:36.075Z
+// Last updated: 2026-09-13T11:42:21.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "結婚後的你是貴婦命還是勞碌命？憑直覺選1字測能否享受富裕生活",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173952019556208640643958.jpeg/i3pOvCpEOnAWwnA5QYVNsUspVE0VyaZj2AUc_9gFHP8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60387801/%E7%B5%90%E5%A9%9A%E5%BE%8C%E7%9A%84%E4%BD%A0%E6%98%AF%E8%B2%B4%E5%A9%A6%E5%91%BD%E9%82%84%E6%98%AF%E5%8B%9E%E7%A2%8C%E5%91%BD-%E6%86%91%E7%9B%B4%E8%A6%BA%E9%81%B81%E5%AD%97%E6%B8%AC%E8%83%BD%E5%90%A6%E4%BA%AB%E5%8F%97%E5%AF%8C%E8%A3%95%E7%94%9F%E6%B4%BB",
+    "timestamp": "2026-09-13T11:42:21.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│澳女HYROX失禁仍完賽奪冠惹議　賽後發開心嘟嘴照：贏就是贏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175757530794561536104859.jpeg/zr1SlA7M7K9krkJKY02IAej2H0Yi6E-Q8i95afIveWk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60389468/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B8%8C%E6%9C%9B%E6%84%9B%E7%88%BE%E8%98%AD%E7%B5%B1%E4%B8%80-%E7%B9%BC%E7%A6%8F%E5%85%8B%E8%98%AD%E5%95%8F%E9%A1%8C%E5%BE%8C%E5%86%8D%E7%8B%A0%E6%8D%85%E8%8B%B1%E5%9C%8B",
     "timestamp": "2026-09-13T02:57:10.677Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔富善街地舖火警　濃煙席捲半空　消防開喉撲救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175753827450621952413702.jpeg/Rikvc5AkMVjD1LoehNEEmFbIyJmC1TELmtO5MJrTuTA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389476/%E5%A4%A7%E5%9F%94%E5%AF%8C%E5%96%84%E8%A1%97%E5%9C%B0%E8%88%96%E7%81%AB%E8%AD%A6-%E6%BF%83%E7%85%99%E5%B8%AD%E6%8D%B2%E5%8D%8A%E7%A9%BA-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E6%92%B2%E6%95%91",
-    "timestamp": "2026-09-13T02:47:25.336Z",
     "strategy": ".content-card__main"
   }
 ];
