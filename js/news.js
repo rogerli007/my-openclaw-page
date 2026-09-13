@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T14:30:07.068Z
+// Last updated: 2026-09-13T14:41:17.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘和樂邨29歲男家中暈倒　母揭發惜送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250517/1000257673117044736359712.jpeg/a68XmEYvAw6dRaWoIkOR-DjEbNywQ9cBWydMnmEnTJ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389607/%E8%A7%80%E5%A1%98%E5%92%8C%E6%A8%82%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E6%AF%8D%E6%8F%AD%E7%99%BC%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-13T14:41:17.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關落馬洲支線管制站截獲進口活貓　61歲內地男客被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175819831807578112237046.jpeg/156Trcz7sgZyhNfDZhbmwFIgmfvbcf1T7EIay-xCGss?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389529/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E8%AA%95%E8%BE%B0%E8%A8%B1%E5%86%A0%E5%82%91ian%E9%BD%8A%E7%8D%BB%E5%94%B1-1956%E6%9E%B6%E7%84%A1%E4%BA%BA%E6%A9%9F%E9%BB%9E%E4%BA%AE%E5%A4%9C%E7%A9%BA%E7%A7%80%E5%B0%88%E5%B1%AC%E5%AF%86%E7%A2%BC",
     "timestamp": "2026-09-13T07:21:14.399Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平倡「大金磚」國家培育一體化市場　提深化合作五項倡議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175818396411891712679410.jpeg/zxmUV8IL6xLzIlfeJDtxgZYhrqtaArg_EQZ7vhEGe74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389532/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%80%A1-%E5%A4%A7%E9%87%91%E7%A3%9A-%E5%9C%8B%E5%AE%B6%E5%9F%B9%E8%82%B2%E4%B8%80%E9%AB%94%E5%8C%96%E5%B8%82%E5%A0%B4-%E6%8F%90%E6%B7%B1%E5%8C%96%E5%90%88%E4%BD%9C%E4%BA%94%E9%A0%85%E5%80%A1%E8%AD%B0",
-    "timestamp": "2026-09-13T06:56:18.178Z",
     "strategy": ".content-card__main"
   }
 ];
