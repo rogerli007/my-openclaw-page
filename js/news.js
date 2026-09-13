@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T08:24:24.334Z
+// Last updated: 2026-09-13T10:11:56.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "龍翔道比亞迪切線受阻追3公里！男子半身伸出窗拍片疑無扣安全帶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175785156401696768973210.jpeg/RtOCAN9eyFgqgyrbphHBPoCMo5p3ejnjGI0nLhiNJy4",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389419/%E9%BE%8D%E7%BF%94%E9%81%93%E6%AF%94%E4%BA%9E%E8%BF%AA%E5%88%87%E7%B7%9A%E5%8F%97%E9%98%BB%E8%BF%BD3%E5%85%AC%E9%87%8C-%E7%94%B7%E5%AD%90%E5%8D%8A%E8%BA%AB%E4%BC%B8%E5%87%BA%E7%AA%97%E6%8B%8D%E7%89%87%E7%96%91%E7%84%A1%E6%89%A3%E5%AE%89%E5%85%A8%E5%B8%B6",
+    "timestamp": "2026-09-13T10:11:56.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江西景德鎮11景點推薦｜陶溪川市集淘瓷器　尋訪古代皇家窯廠遺址",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175723768966811648938751.jpeg/Z_4dtNdsd8geRciINK9xW-fmDfHSE04oUCuiiVArook?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389456/%E9%8A%85%E9%91%BC%E7%81%A3%E7%8F%A0%E5%AF%B6%E5%BA%97%E5%A4%A7%E9%96%98%E8%A2%AB%E6%90%8D%E6%AF%80%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E5%BE%8C%E8%AD%89%E5%AF%A6%E8%99%9B%E9%A9%9A%E4%B8%80%E5%A0%B4",
     "timestamp": "2026-09-13T00:53:53.733Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭官員：基輔籌備10月恢復三方會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167777975299477504148523.jpeg/c2o58SKcxxwMP_d_ClqH9E-d8tmMCH7aRe-cmUXvnJk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389449/%E7%83%8F%E5%85%8B%E8%98%AD%E5%AE%98%E5%93%A1-%E5%9F%BA%E8%BC%94%E7%B1%8C%E5%82%9910%E6%9C%88%E6%81%A2%E5%BE%A9%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-09-12T23:42:27.021Z",
     "strategy": ".content-card__main"
   }
 ];
