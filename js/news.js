@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T10:11:56.644Z
+// Last updated: 2026-09-13T10:34:39.647Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "第83屆威尼斯影展閉幕　中國VR短片《鴿環》奪「威尼斯沉浸大獎」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175870274357170176631490.png/5xR9-GvUoblKkrUh_YngAKpe11MuOop3-bHVOfmx1Tk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60389582/%E7%AC%AC83%E5%B1%86%E5%A8%81%E5%B0%BC%E6%96%AF%E5%BD%B1%E5%B1%95%E9%96%89%E5%B9%95-%E4%B8%AD%E5%9C%8Bvr%E7%9F%AD%E7%89%87-%E9%B4%BF%E7%92%B0-%E5%A5%AA-%E5%A8%81%E5%B0%BC%E6%96%AF%E6%B2%89%E6%B5%B8%E5%A4%A7%E7%8D%8E",
+    "timestamp": "2026-09-13T10:34:39.647Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "龍翔道比亞迪切線受阻追3公里！男子半身伸出窗拍片疑無扣安全帶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174785202040344576781620.png/dQ2dj0nQ7k7e71g4AdTjj4-dIRDfjrhCLg6u7S4Oru0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388698/%E7%94%B7%E5%AD%90%E7%94%A8%E5%8A%9B%E8%87%B4%E8%82%8C%E8%85%B1%E6%92%95%E8%A3%82-%E4%B8%8A%E8%87%82%E9%9A%86%E8%B5%B7%E4%BC%BC-%E5%A4%A7%E5%8A%9B%E6%B0%B4%E6%89%8B-2%E5%A4%A7%E6%B2%BB%E7%99%82%E6%96%B9%E6%A1%88%E6%8B%86%E8%A7%A3",
     "timestamp": "2026-09-13T01:34:15.568Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "銅鑼灣珠寶店大閘被損毀疑遭爆竊　警調查後證實虛驚一場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175723768966811648938751.jpeg/Z_4dtNdsd8geRciINK9xW-fmDfHSE04oUCuiiVArook?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389456/%E9%8A%85%E9%91%BC%E7%81%A3%E7%8F%A0%E5%AF%B6%E5%BA%97%E5%A4%A7%E9%96%98%E8%A2%AB%E6%90%8D%E6%AF%80%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E5%BE%8C%E8%AD%89%E5%AF%A6%E8%99%9B%E9%A9%9A%E4%B8%80%E5%A0%B4",
-    "timestamp": "2026-09-13T00:53:53.733Z",
     "strategy": ".content-card__main"
   }
 ];
