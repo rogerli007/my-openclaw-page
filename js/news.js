@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T17:27:00.502Z
+// Last updated: 2026-09-13T17:40:58.007Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳洲海獅首次驗出H5N1禽流感　當局憂此瀕危物種進一步受威脅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175972982196015104907615.jpeg/KgQYnOTaOaRNKrsznBcoiIxlnXqlLzcNaKniU2ip4lM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389619/%E6%BE%B3%E6%B4%B2%E6%B5%B7%E7%8D%85%E9%A6%96%E6%AC%A1%E9%A9%97%E5%87%BAh5n1%E7%A6%BD%E6%B5%81%E6%84%9F-%E7%95%B6%E5%B1%80%E6%86%82%E6%AD%A4%E7%80%95%E5%8D%B1%E7%89%A9%E7%A8%AE%E9%80%B2%E4%B8%80%E6%AD%A5%E5%8F%97%E5%A8%81%E8%84%85",
+    "timestamp": "2026-09-13T17:40:58.007Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粟米肉粒飯食譜｜做法簡易零失敗15分完成！1招做出蛋花效果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173952019556208640643958.jpeg/i3pOvCpEOnAWwnA5QYVNsUspVE0VyaZj2AUc_9gFHP8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60387801/%E7%B5%90%E5%A9%9A%E5%BE%8C%E7%9A%84%E4%BD%A0%E6%98%AF%E8%B2%B4%E5%A9%A6%E5%91%BD%E9%82%84%E6%98%AF%E5%8B%9E%E7%A2%8C%E5%91%BD-%E6%86%91%E7%9B%B4%E8%A6%BA%E9%81%B81%E5%AD%97%E6%B8%AC%E8%83%BD%E5%90%A6%E4%BA%AB%E5%8F%97%E5%AF%8C%E8%A3%95%E7%94%9F%E6%B4%BB",
     "timestamp": "2026-09-13T11:42:21.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│澳女HYROX失禁仍完賽奪冠惹議　賽後發開心嘟嘴照：贏就是贏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175875450115723264756203.jpeg/ePAdMGsf1IIGFTIYVXS-CKBV-CtHw0pD1pJf3taSX94?v=w1920",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389585/%E6%9C%89%E7%89%87-%E6%BE%B3%E5%A5%B3hyrox%E5%A4%B1%E7%A6%81%E4%BB%8D%E5%AE%8C%E8%B3%BD%E5%A5%AA%E5%86%A0%E6%83%B9%E8%AD%B0-%E8%B3%BD%E5%BE%8C%E7%99%BC%E9%96%8B%E5%BF%83%E5%98%9F%E5%98%B4%E7%85%A7-%E8%B4%8F%E5%B0%B1%E6%98%AF%E8%B4%8F",
-    "timestamp": "2026-09-13T11:16:36.075Z",
     "strategy": ".content-card__main"
   }
 ];
