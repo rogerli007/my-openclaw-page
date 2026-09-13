@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T03:55:12.781Z
+// Last updated: 2026-09-13T04:22:52.009Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地五年減少近三萬所小學　生源劇減致多地將校舍改養老院覓出路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175777540447408128210859.png/pkwal_9X3rbT2xPOC6sMNhOh-yiSB2B9b-gD2W_oA9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60389483/%E5%85%A7%E5%9C%B0%E4%BA%94%E5%B9%B4%E6%B8%9B%E5%B0%91%E8%BF%91%E4%B8%89%E8%90%AC%E6%89%80%E5%B0%8F%E5%AD%B8-%E7%94%9F%E6%BA%90%E5%8A%87%E6%B8%9B%E8%87%B4%E5%A4%9A%E5%9C%B0%E5%B0%87%E6%A0%A1%E8%88%8D%E6%94%B9%E9%A4%8A%E8%80%81%E9%99%A2%E8%A6%93%E5%87%BA%E8%B7%AF",
+    "timestamp": "2026-09-13T04:22:52.009Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026十大抗皺精華推介　修復法令紋與抬頭紋　敏感肌也能安心用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
     "timestamp": "2026-09-12T19:29:51.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "布魯塞爾機場現無人機　航班中斷半小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-09-12T19:15:28.197Z",
     "strategy": ".content-card__main"
   }
 ];
