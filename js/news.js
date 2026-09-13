@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T10:55:24.075Z
+// Last updated: 2026-09-13T11:16:36.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│澳女HYROX失禁仍完賽奪冠惹議　賽後發開心嘟嘴照：贏就是贏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175875450115723264756203.jpeg/ePAdMGsf1IIGFTIYVXS-CKBV-CtHw0pD1pJf3taSX94?v=w1920",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389585/%E6%9C%89%E7%89%87-%E6%BE%B3%E5%A5%B3hyrox%E5%A4%B1%E7%A6%81%E4%BB%8D%E5%AE%8C%E8%B3%BD%E5%A5%AA%E5%86%A0%E6%83%B9%E8%AD%B0-%E8%B3%BD%E5%BE%8C%E7%99%BC%E9%96%8B%E5%BF%83%E5%98%9F%E5%98%B4%E7%85%A7-%E8%B4%8F%E5%B0%B1%E6%98%AF%E8%B4%8F",
+    "timestamp": "2026-09-13T11:16:36.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《悠長假期》森本玲夫猝逝　曾涉性侵50位未成年　2女星出面指控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175753827450621952413702.jpeg/Rikvc5AkMVjD1LoehNEEmFbIyJmC1TELmtO5MJrTuTA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389476/%E5%A4%A7%E5%9F%94%E5%AF%8C%E5%96%84%E8%A1%97%E5%9C%B0%E8%88%96%E7%81%AB%E8%AD%A6-%E6%BF%83%E7%85%99%E5%B8%AD%E6%8D%B2%E5%8D%8A%E7%A9%BA-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E6%92%B2%E6%95%91",
     "timestamp": "2026-09-13T02:47:25.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔運頭塘邨18歲男疑飲醉酒　推跌女警終被制服　涉襲警被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221119/670718306033995776402167.jpeg/UqZgYaTxA6pIkZzP68Oa1r9SRyhCvvzL2kSrZPBEq2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389462/%E5%A4%A7%E5%9F%94%E9%81%8B%E9%A0%AD%E5%A1%98%E9%82%A818%E6%AD%B2%E7%94%B7%E7%96%91%E9%A3%B2%E9%86%89%E9%85%92-%E6%8E%A8%E8%B7%8C%E5%A5%B3%E8%AD%A6%E7%B5%82%E8%A2%AB%E5%88%B6%E6%9C%8D-%E6%B6%89%E8%A5%B2%E8%AD%A6%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-13T01:57:04.334Z",
     "strategy": ".content-card__main"
   }
 ];
