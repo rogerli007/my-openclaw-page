@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T18:21:48.474Z
+// Last updated: 2026-09-13T18:43:21.123Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：與習近平關係很好　不擔心對方或取消訪美",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175989340296187904623074.jpeg/5JfqLga2vKvqPvIqLZaSjoHjbAHF_nctdJeCyXSXgsk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389623/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E9%97%9C%E4%BF%82%E5%BE%88%E5%A5%BD-%E4%B8%8D%E6%93%94%E5%BF%83%E5%B0%8D%E6%96%B9%E6%88%96%E5%8F%96%E6%B6%88%E8%A8%AA%E7%BE%8E",
+    "timestamp": "2026-09-13T18:43:21.123Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅淑佩自費看Jeffrey主演《浪花男女》 讚郊野背景電影如旅遊大使",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173978071527591936269318.jpeg/cGOceg6_hnbPba2lNTiA943sRjBLm4ZLrOryPqzq8j4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389588/iphone-18-pro%E9%A0%90%E8%B3%BC-%E6%95%B8%E7%99%BE%E4%BA%BA%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%81%AD%E7%9B%9C%E7%94%A8-%E8%98%8B%E6%9E%9C%E7%82%BA%E4%BD%95%E4%B8%8D%E8%A8%AD3ds%E8%AA%8D%E8%AD%89",
     "timestamp": "2026-09-13T12:46:02.358Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莫迪警告地緣政治與氣候危機影響加劇　籲南方國家加強合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175601335878684672296507.jpeg/zMBamdsVldrCZt-MpdwbpBitTD9hfsQ-e15kGXteZBk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389571/%E8%8E%AB%E8%BF%AA%E8%AD%A6%E5%91%8A%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%88%87%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F%E5%BD%B1%E9%9F%BF%E5%8A%A0%E5%8A%87-%E7%B1%B2%E5%8D%97%E6%96%B9%E5%9C%8B%E5%AE%B6%E5%8A%A0%E5%BC%B7%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-09-13T12:26:05.362Z",
     "strategy": ".content-card__main"
   }
 ];
