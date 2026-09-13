@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T16:44:20.239Z
+// Last updated: 2026-09-13T16:53:50.479Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粟米肉粒飯食譜｜做法簡易零失敗15分完成！1招做出蛋花效果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250919/1045782514519511040064183.jpeg/pi2W47RdWhKvNixIOOdfuOOddV737wSDHKPKIByjyiA",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60389618/%E7%B2%9F%E7%B1%B3%E8%82%89%E7%B2%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%9715%E5%88%86%E5%AE%8C%E6%88%90-1%E6%8B%9B%E5%81%9A%E5%87%BA%E8%9B%8B%E8%8A%B1%E6%95%88%E6%9E%9C",
+    "timestamp": "2026-09-13T16:53:50.479Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粟米肉粒飯食譜｜做法簡易零失敗15分完成！1招做出蛋花效果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175870274357170176631490.png/5xR9-GvUoblKkrUh_YngAKpe11MuOop3-bHVOfmx1Tk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60389582/%E7%AC%AC83%E5%B1%86%E5%A8%81%E5%B0%BC%E6%96%AF%E5%BD%B1%E5%B1%95%E9%96%89%E5%B9%95-%E4%B8%AD%E5%9C%8Bvr%E7%9F%AD%E7%89%87-%E9%B4%BF%E7%92%B0-%E5%A5%AA-%E5%A8%81%E5%B0%BC%E6%96%AF%E6%B2%89%E6%B5%B8%E5%A4%A7%E7%8D%8E",
     "timestamp": "2026-09-13T10:34:39.647Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "龍翔道比亞迪切線受阻追3公里！男子半身伸出窗拍片疑無扣安全帶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175785156401696768973210.jpeg/RtOCAN9eyFgqgyrbphHBPoCMo5p3ejnjGI0nLhiNJy4",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389419/%E9%BE%8D%E7%BF%94%E9%81%93%E6%AF%94%E4%BA%9E%E8%BF%AA%E5%88%87%E7%B7%9A%E5%8F%97%E9%98%BB%E8%BF%BD3%E5%85%AC%E9%87%8C-%E7%94%B7%E5%AD%90%E5%8D%8A%E8%BA%AB%E4%BC%B8%E5%87%BA%E7%AA%97%E6%8B%8D%E7%89%87%E7%96%91%E7%84%A1%E6%89%A3%E5%AE%89%E5%85%A8%E5%B8%B6",
-    "timestamp": "2026-09-13T10:11:56.644Z",
     "strategy": ".content-card__main"
   }
 ];
