@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T04:48:29.123Z
+// Last updated: 2026-09-13T05:20:15.436Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "視力時清時矇、狂流眼水係乾眼症警號？醫生教睇成分揀啱眼藥水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175104023540273152103296.jpeg/vCoYlkaie-aWcBuP19AIwOpRW0lcGC5cVaMB_VWjAf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60389137/%E8%A6%96%E5%8A%9B%E6%99%82%E6%B8%85%E6%99%82%E7%9F%87-%E7%8B%82%E6%B5%81%E7%9C%BC%E6%B0%B4%E4%BF%82%E4%B9%BE%E7%9C%BC%E7%97%87%E8%AD%A6%E8%99%9F-%E9%86%AB%E7%94%9F%E6%95%99%E7%9D%87%E6%88%90%E5%88%86%E6%8F%80%E5%95%B1%E7%9C%BC%E8%97%A5%E6%B0%B4",
+    "timestamp": "2026-09-13T05:20:15.436Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲律賓巴拉望省渡輪大火增至76死　當局正確認受害者與火災原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175649662963552256873941.jpeg/r3AsFdXdI56rNWmqMdQtDu8b5yESPfV0Ut7UOlLe1Do",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389441/%E5%8D%97%E7%81%A3%E9%9A%A7%E9%81%93%E5%89%8D%E8%BB%8A%E6%94%B6%E6%85%A2-%E8%B2%A8%E8%BB%8A%E9%9A%AA%E6%92%9E-%E8%BB%8A%E8%83%8E%E6%87%B8%E7%A9%BA-%E5%BD%88%E4%B8%8B%E5%BD%88%E4%B8%8B-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-12T20:32:50.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "布魯塞爾機場現無人機　航班中斷半小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-09-12T19:53:51.865Z",
     "strategy": ".content-card__main"
   }
 ];
