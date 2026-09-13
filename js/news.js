@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T16:53:50.479Z
+// Last updated: 2026-09-13T17:16:58.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粟米肉粒飯食譜｜做法簡易零失敗15分完成！1招做出蛋花效果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250919/1045782514519511040064183.jpeg/pi2W47RdWhKvNixIOOdfuOOddV737wSDHKPKIByjyiA",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60389618/%E7%B2%9F%E7%B1%B3%E8%82%89%E7%B2%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%9715%E5%88%86%E5%AE%8C%E6%88%90-1%E6%8B%9B%E5%81%9A%E5%87%BA%E8%9B%8B%E8%8A%B1%E6%95%88%E6%9E%9C",
+    "timestamp": "2026-09-13T17:16:58.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粟米肉粒飯食譜｜做法簡易零失敗15分完成！1招做出蛋花效果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175868753422848000042586.png/Hz5n5a2TdqxwYlPrRt3nxQzR4TwwmSWsRuvLEUbryxE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389566/%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E6%A3%AE%E6%9C%AC%E7%8E%B2%E5%A4%AB%E7%8C%9D%E9%80%9D-%E6%9B%BE%E6%B6%89%E6%80%A7%E4%BE%B550%E4%BD%8D%E6%9C%AA%E6%88%90%E5%B9%B4-2%E5%A5%B3%E6%98%9F%E5%87%BA%E9%9D%A2%E6%8C%87%E6%8E%A7",
     "timestamp": "2026-09-13T10:55:24.075Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "第83屆威尼斯影展閉幕　中國VR短片《鴿環》奪「威尼斯沉浸大獎」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175870274357170176631490.png/5xR9-GvUoblKkrUh_YngAKpe11MuOop3-bHVOfmx1Tk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60389582/%E7%AC%AC83%E5%B1%86%E5%A8%81%E5%B0%BC%E6%96%AF%E5%BD%B1%E5%B1%95%E9%96%89%E5%B9%95-%E4%B8%AD%E5%9C%8Bvr%E7%9F%AD%E7%89%87-%E9%B4%BF%E7%92%B0-%E5%A5%AA-%E5%A8%81%E5%B0%BC%E6%96%AF%E6%B2%89%E6%B5%B8%E5%A4%A7%E7%8D%8E",
-    "timestamp": "2026-09-13T10:34:39.647Z",
     "strategy": ".content-card__main"
   }
 ];
