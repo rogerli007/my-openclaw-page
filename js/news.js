@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T01:57:04.334Z
+// Last updated: 2026-09-13T02:47:25.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔富善街地舖火警　濃煙席捲半空　消防開喉撲救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175753827450621952413702.jpeg/Rikvc5AkMVjD1LoehNEEmFbIyJmC1TELmtO5MJrTuTA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389476/%E5%A4%A7%E5%9F%94%E5%AF%8C%E5%96%84%E8%A1%97%E5%9C%B0%E8%88%96%E7%81%AB%E8%AD%A6-%E6%BF%83%E7%85%99%E5%B8%AD%E6%8D%B2%E5%8D%8A%E7%A9%BA-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E6%92%B2%E6%95%91",
+    "timestamp": "2026-09-13T02:47:25.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔運頭塘邨18歲男疑飲醉酒　推跌女警終被制服　涉襲警被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168890696501825536461830.jpeg/Sm6U6I3cyJxM25t_tliT3IzE6YcAkAtX4ImXquCJl6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389438/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8A%B5%E5%88%B6%E7%BE%8E%E5%9C%8B%E8%B2%A8-%E8%B6%85%E5%B8%82%E8%BD%89%E8%B3%BC%E6%91%A9%E6%B4%9B%E5%93%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E7%AD%89%E5%9C%B0%E8%BE%B2%E7%94%A2%E5%93%81",
     "timestamp": "2026-09-12T17:40:45.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "悠長假期｜呂爵安角色名向黎明致敬　證MIRROR三子齊做邱士縉兄弟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175591909121331200057168.jpeg/wJv0TkL23AymJlU7bMEO7xgf6cYqVbq3M3kexDN5HsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389427/%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E5%91%82%E7%88%B5%E5%AE%89%E8%A7%92%E8%89%B2%E5%90%8D%E5%90%91%E9%BB%8E%E6%98%8E%E8%87%B4%E6%95%AC-%E8%AD%89mirror%E4%B8%89%E5%AD%90%E9%BD%8A%E5%81%9A%E9%82%B1%E5%A3%AB%E7%B8%89%E5%85%84%E5%BC%9F",
-    "timestamp": "2026-09-12T17:26:44.716Z",
     "strategy": ".content-card__main"
   }
 ];
