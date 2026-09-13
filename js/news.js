@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T13:41:54.216Z
+// Last updated: 2026-09-13T13:53:29.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美特使料未來幾週公布俄烏談判新進展　俄方：可在阿聯酋三方會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139814706773495808967315.jpeg/TPh7kqs72SZlssFnLbsgJGrkd0bNGDh3Ev6UvhL-lL4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389599/%E7%BE%8E%E7%89%B9%E4%BD%BF%E6%96%99%E6%9C%AA%E4%BE%86%E5%B9%BE%E9%80%B1%E5%85%AC%E5%B8%83%E4%BF%84%E7%83%8F%E8%AB%87%E5%88%A4%E6%96%B0%E9%80%B2%E5%B1%95-%E4%BF%84%E6%96%B9-%E5%8F%AF%E5%9C%A8%E9%98%BF%E8%81%AF%E9%85%8B%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-09-13T13:53:29.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "獲美國大學取錄別急著分享　他因太善良疑遭朋友陷害Offer被撤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175794819390246912071325.jpeg/b4ewxBT4L4T57LgO05ZjCHyG0jT9si8MQv0uOkL9Ljo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389509/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%99%B3%E7%BF%8A%E5%BA%AD-%E5%96%84%E7%94%A8%E7%A7%91%E6%8A%80%E8%88%87%E5%A4%9A%E5%AA%92%E9%AB%94%E5%84%AA%E5%8B%A2-%E5%A0%B1%E9%81%93%E6%9C%89%E5%95%9F%E7%99%BC%E6%80%A7",
     "timestamp": "2026-09-13T05:53:59.220Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角單位傳異味　警搗毒窟檢$4萬海洛英等毒品　拘4名男女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319297949700096715439.jpeg/OmyxoSdISYd8Db92s4jsavwzgHMYbfmYCTLrsTMy67E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389511/%E6%97%BA%E8%A7%92%E5%96%AE%E4%BD%8D%E5%82%B3%E7%95%B0%E5%91%B3-%E8%AD%A6%E6%90%97%E6%AF%92%E7%AA%9F%E6%AA%A2-4%E8%90%AC%E6%B5%B7%E6%B4%9B%E8%8B%B1%E7%AD%89%E6%AF%92%E5%93%81-%E6%8B%984%E5%90%8D%E7%94%B7%E5%A5%B3",
-    "timestamp": "2026-09-13T05:43:42.841Z",
     "strategy": ".content-card__main"
   }
 ];
