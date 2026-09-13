@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T07:54:34.739Z
+// Last updated: 2026-09-13T08:24:24.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江西景德鎮11景點推薦｜陶溪川市集淘瓷器　尋訪古代皇家窯廠遺址",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175108831424811008735809.png/iwjpDFGJyHYH5p6FJzM-rcGVas8cIgwg3FhcO9xYXDs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60388455/%E6%B1%9F%E8%A5%BF%E6%99%AF%E5%BE%B7%E9%8E%AE11%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-%E9%99%B6%E6%BA%AA%E5%B7%9D%E5%B8%82%E9%9B%86%E6%B7%98%E7%93%B7%E5%99%A8-%E5%B0%8B%E8%A8%AA%E5%8F%A4%E4%BB%A3%E7%9A%87%E5%AE%B6%E7%AA%AF%E5%BB%A0%E9%81%BA%E5%9D%80",
+    "timestamp": "2026-09-13T08:24:24.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "河北醫科大學第二醫院員工11年收賄46次　涉額¥1.84億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167777975299477504148523.jpeg/c2o58SKcxxwMP_d_ClqH9E-d8tmMCH7aRe-cmUXvnJk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389449/%E7%83%8F%E5%85%8B%E8%98%AD%E5%AE%98%E5%93%A1-%E5%9F%BA%E8%BC%94%E7%B1%8C%E5%82%9910%E6%9C%88%E6%81%A2%E5%BE%A9%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
     "timestamp": "2026-09-12T23:42:27.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭官員：基輔籌備10月恢復三方會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167777975299477504148523.jpeg/c2o58SKcxxwMP_d_ClqH9E-d8tmMCH7aRe-cmUXvnJk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389449/%E7%83%8F%E5%85%8B%E8%98%AD%E5%AE%98%E5%93%A1-%E5%9F%BA%E8%BC%94%E7%B1%8C%E5%82%9910%E6%9C%88%E6%81%A2%E5%BE%A9%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-09-12T23:20:19.930Z",
     "strategy": ".content-card__main"
   }
 ];
