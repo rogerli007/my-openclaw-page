@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T22:47:01.459Z
+// Last updated: 2026-09-13T22:53:41.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "居台亞視小生感激江美儀提攜走過人生低谷　難忘常幫對方買M巾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175841332061540352765098.jpeg/fkFyZ7IgKmh83SB93ydPQvUBqPcXEi6rqEyueKhMrng",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389506/%E5%BC%B5%E5%95%9F%E6%A8%82%E6%84%9F%E6%BF%80%E6%B1%9F%E7%BE%8E%E5%84%80%E6%8F%90%E6%94%9C%E8%B5%B0%E9%81%8E%E4%BA%BA%E7%94%9F%E4%BD%8E%E8%B0%B7-%E9%9B%A3%E5%BF%98%E5%B8%B8%E5%B9%AB%E5%B0%8D%E6%96%B9%E8%B2%B7m%E5%B7%BE",
+    "timestamp": "2026-09-13T22:53:41.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "居台亞視小生感激江美儀提攜走過人生低谷　難忘常幫對方買M巾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250919/1045782514519511040064183.jpeg/pi2W47RdWhKvNixIOOdfuOOddV737wSDHKPKIByjyiA",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60389618/%E7%B2%9F%E7%B1%B3%E8%82%89%E7%B2%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%9715%E5%88%86%E5%AE%8C%E6%88%90-1%E6%8B%9B%E5%81%9A%E5%87%BA%E8%9B%8B%E8%8A%B1%E6%95%88%E6%9E%9C",
     "timestamp": "2026-09-13T17:16:58.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粟米肉粒飯食譜｜做法簡易零失敗15分完成！1招做出蛋花效果",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250919/1045782514519511040064183.jpeg/pi2W47RdWhKvNixIOOdfuOOddV737wSDHKPKIByjyiA",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60389618/%E7%B2%9F%E7%B1%B3%E8%82%89%E7%B2%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%9715%E5%88%86%E5%AE%8C%E6%88%90-1%E6%8B%9B%E5%81%9A%E5%87%BA%E8%9B%8B%E8%8A%B1%E6%95%88%E6%9E%9C",
-    "timestamp": "2026-09-13T16:53:50.479Z",
     "strategy": ".content-card__main"
   }
 ];
