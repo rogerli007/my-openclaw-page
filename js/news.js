@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T07:21:14.399Z
+// Last updated: 2026-09-13T07:41:57.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三國演義騙了你　諸葛亮沒用過空城計　用此計者竟是「一介武夫」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173627654658592768193785.png/ZiqP0IpUDKDtBBH8Y2obUVkt99EXzhRGvX2LAr19iwI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387498/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E9%A8%99%E4%BA%86%E4%BD%A0-%E8%AB%B8%E8%91%9B%E4%BA%AE%E6%B2%92%E7%94%A8%E9%81%8E%E7%A9%BA%E5%9F%8E%E8%A8%88-%E7%94%A8%E6%AD%A4%E8%A8%88%E8%80%85%E7%AB%9F%E6%98%AF-%E4%B8%80%E4%BB%8B%E6%AD%A6%E5%A4%AB",
+    "timestamp": "2026-09-13T07:41:57.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張國榮70誕辰許冠傑Ian齊獻唱　1956架無人機點亮夜空秀專屬密碼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175685475541716992319528.jpeg/YHN3uwzjdsDDstDDjvVhcsqo_1eOaT8rHGquIyZqriM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389447/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB30%E5%BA%A6",
     "timestamp": "2026-09-12T22:43:56.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨　初時部分地區雨勢較大　最高氣溫30度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175685475541716992319528.jpeg/YHN3uwzjdsDDstDDjvVhcsqo_1eOaT8rHGquIyZqriM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389447/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB30%E5%BA%A6",
-    "timestamp": "2026-09-12T22:28:58.153Z",
     "strategy": ".content-card__main"
   }
 ];
