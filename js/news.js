@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T04:22:52.009Z
+// Last updated: 2026-09-13T04:48:29.123Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲律賓巴拉望省渡輪大火增至76死　當局正確認受害者與火災原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175780992405737472539246.jpeg/jIahZ0v4j8HIEmVdnxdBHTQBnN1RvEn8b60uxW-tLsU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389496/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B7%B4%E6%8B%89%E6%9C%9B%E7%9C%81%E6%B8%A1%E8%BC%AA%E5%A4%A7%E7%81%AB%E5%A2%9E%E8%87%B376%E6%AD%BB-%E7%95%B6%E5%B1%80%E6%AD%A3%E7%A2%BA%E8%AA%8D%E5%8F%97%E5%AE%B3%E8%80%85%E8%88%87%E7%81%AB%E7%81%BD%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-09-13T04:48:29.123Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地五年減少近三萬所小學　生源劇減致多地將校舍改養老院覓出路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
     "timestamp": "2026-09-12T19:53:51.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "布魯塞爾機場現無人機　航班中斷半小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-09-12T19:29:51.709Z",
     "strategy": ".content-card__main"
   }
 ];
