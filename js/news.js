@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T17:40:58.007Z
+// Last updated: 2026-09-13T17:57:02.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油尖旺關愛隊九龍公園舉辦定向活動　推廣多元共融跨文化溝通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175985792468652032918245.jpeg/r9uVCv8ZqpHSvyAsHbtxjJY__r5STb3W0Jm3DdCZtw0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389622/%E6%B2%B9%E5%B0%96%E6%97%BA%E9%97%9C%E6%84%9B%E9%9A%8A%E4%B9%9D%E9%BE%8D%E5%85%AC%E5%9C%92%E8%88%89%E8%BE%A6%E5%AE%9A%E5%90%91%E6%B4%BB%E5%8B%95-%E6%8E%A8%E5%BB%A3%E5%A4%9A%E5%85%83%E5%85%B1%E8%9E%8D%E8%B7%A8%E6%96%87%E5%8C%96%E6%BA%9D%E9%80%9A",
+    "timestamp": "2026-09-13T17:57:02.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳洲海獅首次驗出H5N1禽流感　當局憂此瀕危物種進一步受威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035778761733181440254371.jpeg/Fd071PzHEKUEDdWRjXuwdtKa5jqpxvGwtfsTZI_7E2Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389593/%E6%B8%AF%E5%B3%B6%E5%B8%83%E5%8A%9B%E5%BE%91%E8%A1%8C%E5%B1%B1%E5%AE%A2%E7%99%BC%E7%8F%BE%E4%B8%80%E6%9E%9A%E6%88%B0%E6%99%82%E5%AD%90%E5%BD%88-%E8%AD%A6%E6%AA%A2%E8%B5%B0%E5%8C%96%E9%A9%97",
     "timestamp": "2026-09-13T11:53:47.249Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "結婚後的你是貴婦命還是勞碌命？憑直覺選1字測能否享受富裕生活",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173952019556208640643958.jpeg/i3pOvCpEOnAWwnA5QYVNsUspVE0VyaZj2AUc_9gFHP8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60387801/%E7%B5%90%E5%A9%9A%E5%BE%8C%E7%9A%84%E4%BD%A0%E6%98%AF%E8%B2%B4%E5%A9%A6%E5%91%BD%E9%82%84%E6%98%AF%E5%8B%9E%E7%A2%8C%E5%91%BD-%E6%86%91%E7%9B%B4%E8%A6%BA%E9%81%B81%E5%AD%97%E6%B8%AC%E8%83%BD%E5%90%A6%E4%BA%AB%E5%8F%97%E5%AF%8C%E8%A3%95%E7%94%9F%E6%B4%BB",
-    "timestamp": "2026-09-13T11:42:21.831Z",
     "strategy": ".content-card__main"
   }
 ];
