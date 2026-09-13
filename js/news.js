@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T13:34:20.339Z
+// Last updated: 2026-09-13T13:41:54.216Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "獲美國大學取錄別急著分享　他因太善良疑遭朋友陷害Offer被撤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171775427669135360517826.jpeg/Fk2v1yZsGh26e6lw4wsfAcBsCFEc2bi5YkONyGJDjcg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384696/%E7%8D%B2%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%AD%B8%E5%8F%96%E9%8C%84%E5%88%A5%E6%80%A5%E8%91%97%E5%88%86%E4%BA%AB-%E4%BB%96%E5%9B%A0%E5%A4%AA%E5%96%84%E8%89%AF%E7%96%91%E9%81%AD%E6%9C%8B%E5%8F%8B%E9%99%B7%E5%AE%B3offer%E8%A2%AB%E6%92%A4",
+    "timestamp": "2026-09-13T13:41:54.216Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遊台發中正紀念堂、入台證照片踩紅線？大陸TSH48女團偶像遭解約",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319297949700096715439.jpeg/OmyxoSdISYd8Db92s4jsavwzgHMYbfmYCTLrsTMy67E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389511/%E6%97%BA%E8%A7%92%E5%96%AE%E4%BD%8D%E5%82%B3%E7%95%B0%E5%91%B3-%E8%AD%A6%E6%90%97%E6%AF%92%E7%AA%9F%E6%AA%A2-4%E8%90%AC%E6%B5%B7%E6%B4%9B%E8%8B%B1%E7%AD%89%E6%AF%92%E5%93%81-%E6%8B%984%E5%90%8D%E7%94%B7%E5%A5%B3",
     "timestamp": "2026-09-13T05:43:42.841Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "視力時清時矇、狂流眼水係乾眼症警號？醫生教睇成分揀啱眼藥水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175104023540273152103296.jpeg/vCoYlkaie-aWcBuP19AIwOpRW0lcGC5cVaMB_VWjAf0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60389137/%E8%A6%96%E5%8A%9B%E6%99%82%E6%B8%85%E6%99%82%E7%9F%87-%E7%8B%82%E6%B5%81%E7%9C%BC%E6%B0%B4%E4%BF%82%E4%B9%BE%E7%9C%BC%E7%97%87%E8%AD%A6%E8%99%9F-%E9%86%AB%E7%94%9F%E6%95%99%E7%9D%87%E6%88%90%E5%88%86%E6%8F%80%E5%95%B1%E7%9C%BC%E8%97%A5%E6%B0%B4",
-    "timestamp": "2026-09-13T05:20:15.436Z",
     "strategy": ".content-card__main"
   }
 ];
