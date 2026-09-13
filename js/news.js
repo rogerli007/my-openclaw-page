@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T11:42:21.831Z
+// Last updated: 2026-09-13T11:53:47.249Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港島布力徑行山客發現一枚戰時子彈　警檢走化驗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035778761733181440254371.jpeg/Fd071PzHEKUEDdWRjXuwdtKa5jqpxvGwtfsTZI_7E2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389593/%E6%B8%AF%E5%B3%B6%E5%B8%83%E5%8A%9B%E5%BE%91%E8%A1%8C%E5%B1%B1%E5%AE%A2%E7%99%BC%E7%8F%BE%E4%B8%80%E6%9E%9A%E6%88%B0%E6%99%82%E5%AD%90%E5%BD%88-%E8%AD%A6%E6%AA%A2%E8%B5%B0%E5%8C%96%E9%A9%97",
+    "timestamp": "2026-09-13T11:53:47.249Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "結婚後的你是貴婦命還是勞碌命？憑直覺選1字測能否享受富裕生活",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157724472006938624981503.jpeg/AoloMxL6y9EYL9CkzCOiRfaYlPpBgxmg8mlFq_JpRas?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60389440/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E8%83%A1%E5%A1%9E%E5%85%A5%E5%A0%B4-%E4%B8%80-%E4%B9%9F%E9%96%80%E7%B4%85%E6%B5%B7%E6%B2%BF%E5%B2%B8%E6%B7%AA%E9%99%B7-%E4%BC%8A%E6%9C%97%E7%9A%84%E6%96%B0%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2",
     "timestamp": "2026-09-13T03:24:53.490Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱希望愛爾蘭統一　繼福克蘭問題後再狠捅英國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175757530794561536104859.jpeg/zr1SlA7M7K9krkJKY02IAej2H0Yi6E-Q8i95afIveWk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60389468/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B8%8C%E6%9C%9B%E6%84%9B%E7%88%BE%E8%98%AD%E7%B5%B1%E4%B8%80-%E7%B9%BC%E7%A6%8F%E5%85%8B%E8%98%AD%E5%95%8F%E9%A1%8C%E5%BE%8C%E5%86%8D%E7%8B%A0%E6%8D%85%E8%8B%B1%E5%9C%8B",
-    "timestamp": "2026-09-13T02:57:10.677Z",
     "strategy": ".content-card__main"
   }
 ];
