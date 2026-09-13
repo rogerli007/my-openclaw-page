@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T23:32:39.761Z
+// Last updated: 2026-09-13T23:41:03.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰51歲男深宵全裸潛入魚池性侵錦鯉　涉4罪終落網　揭曾性侵犬隻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175831773104312320106793.png/mXqZZmfvjlmhAnMZOs42hqtiENe-Xd8q26ohLNuqISw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60388742/%E6%B3%B051%E6%AD%B2%E7%94%B7%E6%B7%B1%E5%AE%B5%E5%85%A8%E8%A3%B8%E6%BD%9B%E5%85%A5%E9%AD%9A%E6%B1%A0%E6%80%A7%E4%BE%B5%E9%8C%A6%E9%AF%89-%E6%B6%894%E7%BD%AA%E7%B5%82%E8%90%BD%E7%B6%B2-%E6%8F%AD%E6%9B%BE%E6%80%A7%E4%BE%B5%E7%8A%AC%E9%9A%BB",
+    "timestamp": "2026-09-13T23:41:03.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰51歲男深宵全裸潛入魚池性侵錦鯉　涉4罪終落網　揭曾性侵犬隻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175985792468652032918245.jpeg/r9uVCv8ZqpHSvyAsHbtxjJY__r5STb3W0Jm3DdCZtw0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389622/%E6%B2%B9%E5%B0%96%E6%97%BA%E9%97%9C%E6%84%9B%E9%9A%8A%E4%B9%9D%E9%BE%8D%E5%85%AC%E5%9C%92%E8%88%89%E8%BE%A6%E5%AE%9A%E5%90%91%E6%B4%BB%E5%8B%95-%E6%8E%A8%E5%BB%A3%E5%A4%9A%E5%85%83%E5%85%B1%E8%9E%8D%E8%B7%A8%E6%96%87%E5%8C%96%E6%BA%9D%E9%80%9A",
     "timestamp": "2026-09-13T17:57:02.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澳洲海獅首次驗出H5N1禽流感　當局憂此瀕危物種進一步受威脅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175972982196015104907615.jpeg/KgQYnOTaOaRNKrsznBcoiIxlnXqlLzcNaKniU2ip4lM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389619/%E6%BE%B3%E6%B4%B2%E6%B5%B7%E7%8D%85%E9%A6%96%E6%AC%A1%E9%A9%97%E5%87%BAh5n1%E7%A6%BD%E6%B5%81%E6%84%9F-%E7%95%B6%E5%B1%80%E6%86%82%E6%AD%A4%E7%80%95%E5%8D%B1%E7%89%A9%E7%A8%AE%E9%80%B2%E4%B8%80%E6%AD%A5%E5%8F%97%E5%A8%81%E8%84%85",
-    "timestamp": "2026-09-13T17:40:58.007Z",
     "strategy": ".content-card__main"
   }
 ];
