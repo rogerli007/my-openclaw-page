@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T21:28:32.200Z
+// Last updated: 2026-09-13T21:41:09.961Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前英揆約翰遜等歐洲政要列車　離烏途中疑遭俄無人機列攻擊目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176030086529290240542690.png/WVSeatOprtwReGiUOhVoBm9KsRHdqm8CTmXacU5l2nE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389633/%E5%89%8D%E8%8B%B1%E6%8F%86%E7%B4%84%E7%BF%B0%E9%81%9C%E7%AD%89%E6%AD%90%E6%B4%B2%E6%94%BF%E8%A6%81%E5%88%97%E8%BB%8A-%E9%9B%A2%E7%83%8F%E9%80%94%E4%B8%AD%E7%96%91%E9%81%AD%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%88%97%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-09-13T21:41:09.961Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前英揆約翰遜等歐洲政要列車　離烏途中疑遭俄無人機列攻擊目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175954924769382400843791.jpeg/RJg0-eWyzzW3ediK4TTkwfx_akKwE0EVNSnHqzUpx6s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389617/%E5%A5%B3%E7%A5%9E2-%E9%83%AD%E7%8F%AE%E6%96%87%E5%89%8D%E7%94%B7%E5%8F%8B%E8%B5%B7%E5%BA%95%E4%B8%BB%E4%BF%AE%E5%BF%83%E7%90%86%E5%AD%B8%E8%88%87%E6%B3%95%E5%BE%8B-%E5%B9%B4%E8%96%AA300%E8%90%AC%E5%81%9A%E6%AD%8C%E6%89%8B",
     "timestamp": "2026-09-13T16:33:14.298Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "衛蘭空降灣仔海旁驚喜合唱《大哥》　全場High爆網民直呼如夢境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175832819633491968840139.jpeg/Nc6s9VtW-4YuGykANy9eD8QG2A5YHyX0C1_vcwtf73M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389538/%E8%A1%9B%E8%98%AD%E7%A9%BA%E9%99%8D%E7%81%A3%E4%BB%94%E6%B5%B7%E6%97%81%E9%A9%9A%E5%96%9C%E5%90%88%E5%94%B1-%E5%A4%A7%E5%93%A5-%E5%85%A8%E5%A0%B4high%E7%88%86%E7%B6%B2%E6%B0%91%E7%9B%B4%E5%91%BC%E5%A6%82%E5%A4%A2%E5%A2%83",
-    "timestamp": "2026-09-13T15:41:36.203Z",
     "strategy": ".content-card__main"
   }
 ];
