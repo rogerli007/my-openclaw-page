@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T19:54:01.198Z
+// Last updated: 2026-09-13T20:19:45.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本沖繩縣知事選舉　保守派古謝玄太當選",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176015761701867520152063.png/f_yEbQpHPhmrzpvOLQjAIEFI24KC_xk4fQ6n6X0Op-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389630/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A3%E7%9F%A5%E4%BA%8B%E9%81%B8%E8%88%89-%E4%BF%9D%E5%AE%88%E6%B4%BE%E5%8F%A4%E8%AC%9D%E7%8E%84%E5%A4%AA%E7%95%B6%E9%81%B8",
+    "timestamp": "2026-09-13T20:19:45.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水56歲女子疑虐狗　家人大義滅親報警　警垃圾桶尋獲貴婦狗拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139814706773495808967315.jpeg/TPh7kqs72SZlssFnLbsgJGrkd0bNGDh3Ev6UvhL-lL4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389599/%E7%BE%8E%E7%89%B9%E4%BD%BF%E6%96%99%E6%9C%AA%E4%BE%86%E5%B9%BE%E9%80%B1%E5%85%AC%E5%B8%83%E4%BF%84%E7%83%8F%E8%AB%87%E5%88%A4%E6%96%B0%E9%80%B2%E5%B1%95-%E4%BF%84%E6%96%B9-%E5%8F%AF%E5%9C%A8%E9%98%BF%E8%81%AF%E9%85%8B%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
     "timestamp": "2026-09-13T13:53:29.960Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "獲美國大學取錄別急著分享　他因太善良疑遭朋友陷害Offer被撤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171775427669135360517826.jpeg/Fk2v1yZsGh26e6lw4wsfAcBsCFEc2bi5YkONyGJDjcg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384696/%E7%8D%B2%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%AD%B8%E5%8F%96%E9%8C%84%E5%88%A5%E6%80%A5%E8%91%97%E5%88%86%E4%BA%AB-%E4%BB%96%E5%9B%A0%E5%A4%AA%E5%96%84%E8%89%AF%E7%96%91%E9%81%AD%E6%9C%8B%E5%8F%8B%E9%99%B7%E5%AE%B3offer%E8%A2%AB%E6%92%A4",
-    "timestamp": "2026-09-13T13:41:54.216Z",
     "strategy": ".content-card__main"
   }
 ];
