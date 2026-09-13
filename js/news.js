@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T05:20:15.436Z
+// Last updated: 2026-09-13T05:43:42.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角單位傳異味　警搗毒窟檢$4萬海洛英等毒品　拘4名男女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167319297949700096715439.jpeg/OmyxoSdISYd8Db92s4jsavwzgHMYbfmYCTLrsTMy67E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389511/%E6%97%BA%E8%A7%92%E5%96%AE%E4%BD%8D%E5%82%B3%E7%95%B0%E5%91%B3-%E8%AD%A6%E6%90%97%E6%AF%92%E7%AA%9F%E6%AA%A2-4%E8%90%AC%E6%B5%B7%E6%B4%9B%E8%8B%B1%E7%AD%89%E6%AF%92%E5%93%81-%E6%8B%984%E5%90%8D%E7%94%B7%E5%A5%B3",
+    "timestamp": "2026-09-13T05:43:42.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "視力時清時矇、狂流眼水係乾眼症警號？醫生教睇成分揀啱眼藥水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174829569274810368948716.jpeg/nAjC08c5UNet-oMa6LrulD2qzThTdEz0gaEHc4GhB3M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389444/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%89%8Afema%E5%8D%8A%E6%95%B8%E4%BA%BA%E6%89%8B-%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E8%A3%81%E5%AE%9A%E9%81%95%E6%B3%95",
     "timestamp": "2026-09-12T20:50:49.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南灣隧道前車收慢　貨車險撞　車胎懸空「彈下彈下」｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175649662963552256873941.jpeg/r3AsFdXdI56rNWmqMdQtDu8b5yESPfV0Ut7UOlLe1Do",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389441/%E5%8D%97%E7%81%A3%E9%9A%A7%E9%81%93%E5%89%8D%E8%BB%8A%E6%94%B6%E6%85%A2-%E8%B2%A8%E8%BB%8A%E9%9A%AA%E6%92%9E-%E8%BB%8A%E8%83%8E%E6%87%B8%E7%A9%BA-%E5%BD%88%E4%B8%8B%E5%BD%88%E4%B8%8B-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-12T20:32:50.797Z",
     "strategy": ".content-card__main"
   }
 ];
