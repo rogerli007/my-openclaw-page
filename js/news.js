@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T12:54:48.235Z
+// Last updated: 2026-09-13T13:18:05.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遊台發中正紀念堂、入台證照片踩紅線？大陸TSH48女團偶像遭解約",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175847387772489728037154.jpeg/OOx9b4MMORFFCw4CRDm62G_Ysf8YeYT0ahIoMmoSKDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389552/%E9%81%8A%E5%8F%B0%E7%99%BC%E4%B8%AD%E6%AD%A3%E7%B4%80%E5%BF%B5%E5%A0%82-%E5%85%A5%E5%8F%B0%E8%AD%89%E7%85%A7%E7%89%87%E8%B8%A9%E7%B4%85%E7%B7%9A-%E5%A4%A7%E9%99%B8tsh48%E5%A5%B3%E5%9C%98%E5%81%B6%E5%83%8F%E9%81%AD%E8%A7%A3%E7%B4%84",
+    "timestamp": "2026-09-13T13:18:05.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18 Pro預購｜數百人信用卡遭盜用　蘋果為何不設3DS認證？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175780992405737472539246.jpeg/jIahZ0v4j8HIEmVdnxdBHTQBnN1RvEn8b60uxW-tLsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389496/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B7%B4%E6%8B%89%E6%9C%9B%E7%9C%81%E6%B8%A1%E8%BC%AA%E5%A4%A7%E7%81%AB%E5%A2%9E%E8%87%B376%E6%AD%BB-%E7%95%B6%E5%B1%80%E6%AD%A3%E7%A2%BA%E8%AA%8D%E5%8F%97%E5%AE%B3%E8%80%85%E8%88%87%E7%81%AB%E7%81%BD%E5%8E%9F%E5%9B%A0",
     "timestamp": "2026-09-13T04:48:29.123Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地五年減少近三萬所小學　生源劇減致多地將校舍改養老院覓出路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175777540447408128210859.png/pkwal_9X3rbT2xPOC6sMNhOh-yiSB2B9b-gD2W_oA9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60389483/%E5%85%A7%E5%9C%B0%E4%BA%94%E5%B9%B4%E6%B8%9B%E5%B0%91%E8%BF%91%E4%B8%89%E8%90%AC%E6%89%80%E5%B0%8F%E5%AD%B8-%E7%94%9F%E6%BA%90%E5%8A%87%E6%B8%9B%E8%87%B4%E5%A4%9A%E5%9C%B0%E5%B0%87%E6%A0%A1%E8%88%8D%E6%94%B9%E9%A4%8A%E8%80%81%E9%99%A2%E8%A6%93%E5%87%BA%E8%B7%AF",
-    "timestamp": "2026-09-13T04:22:52.009Z",
     "strategy": ".content-card__main"
   }
 ];
