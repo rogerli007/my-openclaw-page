@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T05:53:59.220Z
+// Last updated: 2026-09-13T06:33:34.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈里王子宣布返英慈善行！威廉王子拒會面　內部爆「早就警告過」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175785958394564608352174.png/8E9uyp0KfULc5JyhnZOhZCrqL3z4KdeC-wG1BfsBtQU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389473/%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90%E5%AE%A3%E5%B8%83%E8%BF%94%E8%8B%B1%E6%85%88%E5%96%84%E8%A1%8C-%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E6%8B%92%E6%9C%83%E9%9D%A2-%E5%85%A7%E9%83%A8%E7%88%86-%E6%97%A9%E5%B0%B1%E8%AD%A6%E5%91%8A%E9%81%8E",
+    "timestamp": "2026-09-13T06:33:34.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》十周年｜陳翊庭︰善用科技與多媒體優勢　報道有啟發性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175673259098640384350786.jpeg/d9ntQwfGk1mZYdWyfJ8dMQhqfb5tOEWag5Li6YOS4uk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389445/%E8%AD%A6%E6%96%B0%E7%95%8C%E5%8C%97%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%89%93%E6%93%8A%E4%BA%A4%E9%80%9A%E9%81%95%E4%BE%8B%E4%BA%8B%E9%A0%85-2%E7%94%B7-%E5%90%B9%E7%88%86%E6%B3%A2-%E5%90%8C%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-12T21:41:02.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府削FEMA半數人手　美國法官裁定違法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174829569274810368948716.jpeg/nAjC08c5UNet-oMa6LrulD2qzThTdEz0gaEHc4GhB3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389444/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%89%8Afema%E5%8D%8A%E6%95%B8%E4%BA%BA%E6%89%8B-%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E8%A3%81%E5%AE%9A%E9%81%95%E6%B3%95",
-    "timestamp": "2026-09-12T21:18:09.957Z",
     "strategy": ".content-card__main"
   }
 ];
