@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T07:41:57.957Z
+// Last updated: 2026-09-13T07:54:34.739Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "河北醫科大學第二醫院員工11年收賄46次　涉額¥1.84億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175833086106013696081392.png/-PoTjFDPEeQh1Fh1GXxp9ZCgJzOXhdDxI92NZiPdjWY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60389545/%E6%B2%B3%E5%8C%97%E9%86%AB%E7%A7%91%E5%A4%A7%E5%AD%B8%E7%AC%AC%E4%BA%8C%E9%86%AB%E9%99%A2%E5%93%A1%E5%B7%A511%E5%B9%B4%E6%94%B6%E8%B3%8446%E6%AC%A1-%E6%B6%89%E9%A1%8D-1-84%E5%84%84%E5%85%83",
+    "timestamp": "2026-09-13T07:54:34.739Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三國演義騙了你　諸葛亮沒用過空城計　用此計者竟是「一介武夫」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167777975299477504148523.jpeg/c2o58SKcxxwMP_d_ClqH9E-d8tmMCH7aRe-cmUXvnJk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389449/%E7%83%8F%E5%85%8B%E8%98%AD%E5%AE%98%E5%93%A1-%E5%9F%BA%E8%BC%94%E7%B1%8C%E5%82%9910%E6%9C%88%E6%81%A2%E5%BE%A9%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87",
     "timestamp": "2026-09-12T23:20:19.930Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日有幾陣驟雨　初時部分地區雨勢較大　最高氣溫30度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175685475541716992319528.jpeg/YHN3uwzjdsDDstDDjvVhcsqo_1eOaT8rHGquIyZqriM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389447/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB30%E5%BA%A6",
-    "timestamp": "2026-09-12T22:43:56.488Z",
     "strategy": ".content-card__main"
   }
 ];
