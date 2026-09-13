@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T21:41:09.961Z
+// Last updated: 2026-09-13T22:19:58.729Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日早晚有幾陣驟雨　日間炎熱最高約32度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176048934565711872186570.jpeg/9uMxoYvrxsYMRMslo_HtycgxHZ7jZ6h4GRRepxkUXqc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389621/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E6%9C%80%E9%AB%98%E7%B4%8432%E5%BA%A6",
+    "timestamp": "2026-09-13T22:19:58.729Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前英揆約翰遜等歐洲政要列車　離烏途中疑遭俄無人機列攻擊目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250919/1045782514519511040064183.jpeg/pi2W47RdWhKvNixIOOdfuOOddV737wSDHKPKIByjyiA",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60389618/%E7%B2%9F%E7%B1%B3%E8%82%89%E7%B2%92%E9%A3%AF%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%9715%E5%88%86%E5%AE%8C%E6%88%90-1%E6%8B%9B%E5%81%9A%E5%87%BA%E8%9B%8B%E8%8A%B1%E6%95%88%E6%9E%9C",
     "timestamp": "2026-09-13T16:44:20.239Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神2｜郭珮文前男友起底主修心理學與法律　年薪300萬做歌手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175954924769382400843791.jpeg/RJg0-eWyzzW3ediK4TTkwfx_akKwE0EVNSnHqzUpx6s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389617/%E5%A5%B3%E7%A5%9E2-%E9%83%AD%E7%8F%AE%E6%96%87%E5%89%8D%E7%94%B7%E5%8F%8B%E8%B5%B7%E5%BA%95%E4%B8%BB%E4%BF%AE%E5%BF%83%E7%90%86%E5%AD%B8%E8%88%87%E6%B3%95%E5%BE%8B-%E5%B9%B4%E8%96%AA300%E8%90%AC%E5%81%9A%E6%AD%8C%E6%89%8B",
-    "timestamp": "2026-09-13T16:33:14.298Z",
     "strategy": ".content-card__main"
   }
 ];
