@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T03:24:53.490Z
+// Last updated: 2026-09-13T03:46:12.276Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026十大抗皺精華推介　修復法令紋與抬頭紋　敏感肌也能安心用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172198796843552768356470.jpeg/8NKOExGeUTlMc4ArcbqhgyYz0OM0VJWARbFdPkWxXT4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60386476/2026%E5%8D%81%E5%A4%A7%E6%8A%97%E7%9A%BA%E7%B2%BE%E8%8F%AF%E6%8E%A8%E4%BB%8B-%E4%BF%AE%E5%BE%A9%E6%B3%95%E4%BB%A4%E7%B4%8B%E8%88%87%E6%8A%AC%E9%A0%AD%E7%B4%8B-%E6%95%8F%E6%84%9F%E8%82%8C%E4%B9%9F%E8%83%BD%E5%AE%89%E5%BF%83%E7%94%A8",
+    "timestamp": "2026-09-13T03:46:12.276Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭胡塞入場・一｜也門紅海沿岸淪陷　伊朗的新霍爾木茲？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
     "timestamp": "2026-09-12T18:42:05.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "布魯塞爾機場現無人機　航班中斷半小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260714/1153792972634984448192874.jpeg/EkU8lfgszu4HlwSveoSj19awvS88O3IBfrRvmX60b5k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389439/%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E6%A9%9F%E5%A0%B4%E7%8F%BE%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%88%AA%E7%8F%AD%E4%B8%AD%E6%96%B7%E5%8D%8A%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-09-12T18:21:51.291Z",
     "strategy": ".content-card__main"
   }
 ];
