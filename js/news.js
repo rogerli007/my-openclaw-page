@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T14:41:17.529Z
+// Last updated: 2026-09-13T15:29:39.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜6旬姊妹花爭80歲阿伯大打出手　勝方挑釁：上埋床喇喎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175912270195068928917203.jpeg/SMeYawRNi0FlAx83BlFjsL0SpT_EKR4Kn-o6Yp_qOmI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389600/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-6%E6%97%AC%E5%A7%8A%E5%A6%B9%E8%8A%B1%E7%88%AD80%E6%AD%B2%E9%98%BF%E4%BC%AF%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B-%E5%8B%9D%E6%96%B9%E6%8C%91%E9%87%81-%E4%B8%8A%E5%9F%8B%E5%BA%8A%E5%96%87%E5%96%8E",
+    "timestamp": "2026-09-13T15:29:39.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘和樂邨29歲男家中暈倒　母揭發惜送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173627654658592768193785.png/ZiqP0IpUDKDtBBH8Y2obUVkt99EXzhRGvX2LAr19iwI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387498/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E9%A8%99%E4%BA%86%E4%BD%A0-%E8%AB%B8%E8%91%9B%E4%BA%AE%E6%B2%92%E7%94%A8%E9%81%8E%E7%A9%BA%E5%9F%8E%E8%A8%88-%E7%94%A8%E6%AD%A4%E8%A8%88%E8%80%85%E7%AB%9F%E6%98%AF-%E4%B8%80%E4%BB%8B%E6%AD%A6%E5%A4%AB",
     "timestamp": "2026-09-13T07:41:57.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張國榮70誕辰許冠傑Ian齊獻唱　1956架無人機點亮夜空秀專屬密碼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175819831807578112237046.jpeg/156Trcz7sgZyhNfDZhbmwFIgmfvbcf1T7EIay-xCGss?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389529/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E8%AA%95%E8%BE%B0%E8%A8%B1%E5%86%A0%E5%82%91ian%E9%BD%8A%E7%8D%BB%E5%94%B1-1956%E6%9E%B6%E7%84%A1%E4%BA%BA%E6%A9%9F%E9%BB%9E%E4%BA%AE%E5%A4%9C%E7%A9%BA%E7%A7%80%E5%B0%88%E5%B1%AC%E5%AF%86%E7%A2%BC",
-    "timestamp": "2026-09-13T07:21:14.399Z",
     "strategy": ".content-card__main"
   }
 ];
