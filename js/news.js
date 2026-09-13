@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T13:53:29.960Z
+// Last updated: 2026-09-13T14:18:21.985Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "唐文龍被認錯做林文龍疑黑面網民急解釋　陳敏之：記住我個好兄弟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175892011715137536320547.jpeg/bl22zdhQMN-OwUvTbQFXKvosXvglpUP3USpM8FEqTPA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389596/%E5%94%90%E6%96%87%E9%BE%8D%E8%A2%AB%E8%AA%8D%E9%8C%AF%E5%81%9A%E6%9E%97%E6%96%87%E9%BE%8D%E7%96%91%E9%BB%91%E9%9D%A2%E7%B6%B2%E6%B0%91%E6%80%A5%E8%A7%A3%E9%87%8B-%E9%99%B3%E6%95%8F%E4%B9%8B-%E8%A8%98%E4%BD%8F%E6%88%91%E5%80%8B%E5%A5%BD%E5%85%84%E5%BC%9F",
+    "timestamp": "2026-09-13T14:18:21.985Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美特使料未來幾週公布俄烏談判新進展　俄方：可在阿聯酋三方會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175785958394564608352174.png/8E9uyp0KfULc5JyhnZOhZCrqL3z4KdeC-wG1BfsBtQU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389473/%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90%E5%AE%A3%E5%B8%83%E8%BF%94%E8%8B%B1%E6%85%88%E5%96%84%E8%A1%8C-%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E6%8B%92%E6%9C%83%E9%9D%A2-%E5%85%A7%E9%83%A8%E7%88%86-%E6%97%A9%E5%B0%B1%E8%AD%A6%E5%91%8A%E9%81%8E",
     "timestamp": "2026-09-13T06:33:34.510Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》十周年｜陳翊庭︰善用科技與多媒體優勢　報道有啟發性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175794819390246912071325.jpeg/b4ewxBT4L4T57LgO05ZjCHyG0jT9si8MQv0uOkL9Ljo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389509/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%99%B3%E7%BF%8A%E5%BA%AD-%E5%96%84%E7%94%A8%E7%A7%91%E6%8A%80%E8%88%87%E5%A4%9A%E5%AA%92%E9%AB%94%E5%84%AA%E5%8B%A2-%E5%A0%B1%E9%81%93%E6%9C%89%E5%95%9F%E7%99%BC%E6%80%A7",
-    "timestamp": "2026-09-13T05:53:59.220Z",
     "strategy": ".content-card__main"
   }
 ];
