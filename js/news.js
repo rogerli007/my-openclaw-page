@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T13:18:05.962Z
+// Last updated: 2026-09-13T13:34:20.339Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遊台發中正紀念堂、入台證照片踩紅線？大陸TSH48女團偶像遭解約",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175847387772489728037154.jpeg/OOx9b4MMORFFCw4CRDm62G_Ysf8YeYT0ahIoMmoSKDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389552/%E9%81%8A%E5%8F%B0%E7%99%BC%E4%B8%AD%E6%AD%A3%E7%B4%80%E5%BF%B5%E5%A0%82-%E5%85%A5%E5%8F%B0%E8%AD%89%E7%85%A7%E7%89%87%E8%B8%A9%E7%B4%85%E7%B7%9A-%E5%A4%A7%E9%99%B8tsh48%E5%A5%B3%E5%9C%98%E5%81%B6%E5%83%8F%E9%81%AD%E8%A7%A3%E7%B4%84",
+    "timestamp": "2026-09-13T13:34:20.339Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遊台發中正紀念堂、入台證照片踩紅線？大陸TSH48女團偶像遭解約",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175104023540273152103296.jpeg/vCoYlkaie-aWcBuP19AIwOpRW0lcGC5cVaMB_VWjAf0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60389137/%E8%A6%96%E5%8A%9B%E6%99%82%E6%B8%85%E6%99%82%E7%9F%87-%E7%8B%82%E6%B5%81%E7%9C%BC%E6%B0%B4%E4%BF%82%E4%B9%BE%E7%9C%BC%E7%97%87%E8%AD%A6%E8%99%9F-%E9%86%AB%E7%94%9F%E6%95%99%E7%9D%87%E6%88%90%E5%88%86%E6%8F%80%E5%95%B1%E7%9C%BC%E8%97%A5%E6%B0%B4",
     "timestamp": "2026-09-13T05:20:15.436Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菲律賓巴拉望省渡輪大火增至76死　當局正確認受害者與火災原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175780992405737472539246.jpeg/jIahZ0v4j8HIEmVdnxdBHTQBnN1RvEn8b60uxW-tLsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389496/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B7%B4%E6%8B%89%E6%9C%9B%E7%9C%81%E6%B8%A1%E8%BC%AA%E5%A4%A7%E7%81%AB%E5%A2%9E%E8%87%B376%E6%AD%BB-%E7%95%B6%E5%B1%80%E6%AD%A3%E7%A2%BA%E8%AA%8D%E5%8F%97%E5%AE%B3%E8%80%85%E8%88%87%E7%81%AB%E7%81%BD%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-09-13T04:48:29.123Z",
     "strategy": ".content-card__main"
   }
 ];
