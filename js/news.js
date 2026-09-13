@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T19:41:23.813Z
+// Last updated: 2026-09-13T19:54:01.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水56歲女子疑虐狗　家人大義滅親報警　警垃圾桶尋獲貴婦狗拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389629/%E4%B8%8A%E6%B0%B456%E6%AD%B2%E5%A5%B3%E5%AD%90%E7%96%91%E8%99%90%E7%8B%97-%E5%AE%B6%E4%BA%BA%E5%A4%A7%E7%BE%A9%E6%BB%85%E8%A6%AA%E5%A0%B1%E8%AD%A6-%E8%AD%A6%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%B0%8B%E7%8D%B2%E8%B2%B4%E5%A9%A6%E7%8B%97%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-09-13T19:54:01.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水56歲女子疑虐狗　家人大義滅親報警　警垃圾桶尋獲貴婦狗拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171775427669135360517826.jpeg/Fk2v1yZsGh26e6lw4wsfAcBsCFEc2bi5YkONyGJDjcg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384696/%E7%8D%B2%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%AD%B8%E5%8F%96%E9%8C%84%E5%88%A5%E6%80%A5%E8%91%97%E5%88%86%E4%BA%AB-%E4%BB%96%E5%9B%A0%E5%A4%AA%E5%96%84%E8%89%AF%E7%96%91%E9%81%AD%E6%9C%8B%E5%8F%8B%E9%99%B7%E5%AE%B3offer%E8%A2%AB%E6%92%A4",
     "timestamp": "2026-09-13T13:41:54.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遊台發中正紀念堂、入台證照片踩紅線？大陸TSH48女團偶像遭解約",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175847387772489728037154.jpeg/OOx9b4MMORFFCw4CRDm62G_Ysf8YeYT0ahIoMmoSKDI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60389552/%E9%81%8A%E5%8F%B0%E7%99%BC%E4%B8%AD%E6%AD%A3%E7%B4%80%E5%BF%B5%E5%A0%82-%E5%85%A5%E5%8F%B0%E8%AD%89%E7%85%A7%E7%89%87%E8%B8%A9%E7%B4%85%E7%B7%9A-%E5%A4%A7%E9%99%B8tsh48%E5%A5%B3%E5%9C%98%E5%81%B6%E5%83%8F%E9%81%AD%E8%A7%A3%E7%B4%84",
-    "timestamp": "2026-09-13T13:34:20.339Z",
     "strategy": ".content-card__main"
   }
 ];
