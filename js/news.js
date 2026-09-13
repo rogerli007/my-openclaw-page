@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T20:42:55.349Z
+// Last updated: 2026-09-13T20:53:45.182Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本沖繩縣知事選舉　保守派古謝玄太當選",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176015761701867520152063.png/f_yEbQpHPhmrzpvOLQjAIEFI24KC_xk4fQ6n6X0Op-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389630/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A3%E7%9F%A5%E4%BA%8B%E9%81%B8%E8%88%89-%E4%BF%9D%E5%AE%88%E6%B4%BE%E5%8F%A4%E8%AC%9D%E7%8E%84%E5%A4%AA%E7%95%B6%E9%81%B8",
+    "timestamp": "2026-09-13T20:53:45.182Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本沖繩縣知事選舉　保守派古謝玄太當選",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250517/1000257673117044736359712.jpeg/a68XmEYvAw6dRaWoIkOR-DjEbNywQ9cBWydMnmEnTJ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389607/%E8%A7%80%E5%A1%98%E5%92%8C%E6%A8%82%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E6%AF%8D%E6%8F%AD%E7%99%BC%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-13T14:41:17.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關落馬洲支線管制站截獲進口活貓　61歲內地男客被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175929256979468288234697.jpeg/rHBBPCx9G8Ivbxr8D8TzxZ-RyS6DsdXsXD6ev1w-nr8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389605/%E6%B5%B7%E9%97%9C%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%94%AF%E7%B7%9A%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA%E7%8D%B2%E9%80%B2%E5%8F%A3%E6%B4%BB%E8%B2%93-61%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E5%AE%A2%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-13T14:30:07.068Z",
     "strategy": ".content-card__main"
   }
 ];
