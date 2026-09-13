@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T15:29:39.918Z
+// Last updated: 2026-09-13T15:41:36.203Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "衛蘭空降灣仔海旁驚喜合唱《大哥》　全場High爆網民直呼如夢境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175832819633491968840139.jpeg/Nc6s9VtW-4YuGykANy9eD8QG2A5YHyX0C1_vcwtf73M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389538/%E8%A1%9B%E8%98%AD%E7%A9%BA%E9%99%8D%E7%81%A3%E4%BB%94%E6%B5%B7%E6%97%81%E9%A9%9A%E5%96%9C%E5%90%88%E5%94%B1-%E5%A4%A7%E5%93%A5-%E5%85%A8%E5%A0%B4high%E7%88%86%E7%B6%B2%E6%B0%91%E7%9B%B4%E5%91%BC%E5%A6%82%E5%A4%A2%E5%A2%83",
+    "timestamp": "2026-09-13T15:41:36.203Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜6旬姊妹花爭80歲阿伯大打出手　勝方挑釁：上埋床喇喎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175833086106013696081392.png/-PoTjFDPEeQh1Fh1GXxp9ZCgJzOXhdDxI92NZiPdjWY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60389545/%E6%B2%B3%E5%8C%97%E9%86%AB%E7%A7%91%E5%A4%A7%E5%AD%B8%E7%AC%AC%E4%BA%8C%E9%86%AB%E9%99%A2%E5%93%A1%E5%B7%A511%E5%B9%B4%E6%94%B6%E8%B3%8446%E6%AC%A1-%E6%B6%89%E9%A1%8D-1-84%E5%84%84%E5%85%83",
     "timestamp": "2026-09-13T07:54:34.739Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三國演義騙了你　諸葛亮沒用過空城計　用此計者竟是「一介武夫」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173627654658592768193785.png/ZiqP0IpUDKDtBBH8Y2obUVkt99EXzhRGvX2LAr19iwI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387498/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E9%A8%99%E4%BA%86%E4%BD%A0-%E8%AB%B8%E8%91%9B%E4%BA%AE%E6%B2%92%E7%94%A8%E9%81%8E%E7%A9%BA%E5%9F%8E%E8%A8%88-%E7%94%A8%E6%AD%A4%E8%A8%88%E8%80%85%E7%AB%9F%E6%98%AF-%E4%B8%80%E4%BB%8B%E6%AD%A6%E5%A4%AB",
-    "timestamp": "2026-09-13T07:41:57.957Z",
     "strategy": ".content-card__main"
   }
 ];
