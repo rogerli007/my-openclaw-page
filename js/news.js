@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T14:18:21.985Z
+// Last updated: 2026-09-13T14:30:07.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關落馬洲支線管制站截獲進口活貓　61歲內地男客被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175929256979468288234697.jpeg/rHBBPCx9G8Ivbxr8D8TzxZ-RyS6DsdXsXD6ev1w-nr8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389605/%E6%B5%B7%E9%97%9C%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%94%AF%E7%B7%9A%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA%E7%8D%B2%E9%80%B2%E5%8F%A3%E6%B4%BB%E8%B2%93-61%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E5%AE%A2%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-13T14:30:07.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "唐文龍被認錯做林文龍疑黑面網民急解釋　陳敏之：記住我個好兄弟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175818396411891712679410.jpeg/zxmUV8IL6xLzIlfeJDtxgZYhrqtaArg_EQZ7vhEGe74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389532/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%80%A1-%E5%A4%A7%E9%87%91%E7%A3%9A-%E5%9C%8B%E5%AE%B6%E5%9F%B9%E8%82%B2%E4%B8%80%E9%AB%94%E5%8C%96%E5%B8%82%E5%A0%B4-%E6%8F%90%E6%B7%B1%E5%8C%96%E5%90%88%E4%BD%9C%E4%BA%94%E9%A0%85%E5%80%A1%E8%AD%B0",
     "timestamp": "2026-09-13T06:56:18.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈里王子宣布返英慈善行！威廉王子拒會面　內部爆「早就警告過」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175785958394564608352174.png/8E9uyp0KfULc5JyhnZOhZCrqL3z4KdeC-wG1BfsBtQU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389473/%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90%E5%AE%A3%E5%B8%83%E8%BF%94%E8%8B%B1%E6%85%88%E5%96%84%E8%A1%8C-%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E6%8B%92%E6%9C%83%E9%9D%A2-%E5%85%A7%E9%83%A8%E7%88%86-%E6%97%A9%E5%B0%B1%E8%AD%A6%E5%91%8A%E9%81%8E",
-    "timestamp": "2026-09-13T06:33:34.510Z",
     "strategy": ".content-card__main"
   }
 ];
