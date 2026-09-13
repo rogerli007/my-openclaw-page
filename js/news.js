@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T12:26:05.362Z
+// Last updated: 2026-09-13T12:46:02.358Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro預購｜數百人信用卡遭盜用　蘋果為何不設3DS認證？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173978071527591936269318.jpeg/cGOceg6_hnbPba2lNTiA943sRjBLm4ZLrOryPqzq8j4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389588/iphone-18-pro%E9%A0%90%E8%B3%BC-%E6%95%B8%E7%99%BE%E4%BA%BA%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%81%AD%E7%9B%9C%E7%94%A8-%E8%98%8B%E6%9E%9C%E7%82%BA%E4%BD%95%E4%B8%8D%E8%A8%AD3ds%E8%AA%8D%E8%AD%89",
+    "timestamp": "2026-09-13T12:46:02.358Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "莫迪警告地緣政治與氣候危機影響加劇　籲南方國家加強合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172198796843552768356470.jpeg/8NKOExGeUTlMc4ArcbqhgyYz0OM0VJWARbFdPkWxXT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60386476/2026%E5%8D%81%E5%A4%A7%E6%8A%97%E7%9A%BA%E7%B2%BE%E8%8F%AF%E6%8E%A8%E4%BB%8B-%E4%BF%AE%E5%BE%A9%E6%B3%95%E4%BB%A4%E7%B4%8B%E8%88%87%E6%8A%AC%E9%A0%AD%E7%B4%8B-%E6%95%8F%E6%84%9F%E8%82%8C%E4%B9%9F%E8%83%BD%E5%AE%89%E5%BF%83%E7%94%A8",
     "timestamp": "2026-09-13T03:55:12.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026十大抗皺精華推介　修復法令紋與抬頭紋　敏感肌也能安心用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172198796843552768356470.jpeg/8NKOExGeUTlMc4ArcbqhgyYz0OM0VJWARbFdPkWxXT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60386476/2026%E5%8D%81%E5%A4%A7%E6%8A%97%E7%9A%BA%E7%B2%BE%E8%8F%AF%E6%8E%A8%E4%BB%8B-%E4%BF%AE%E5%BE%A9%E6%B3%95%E4%BB%A4%E7%B4%8B%E8%88%87%E6%8A%AC%E9%A0%AD%E7%B4%8B-%E6%95%8F%E6%84%9F%E8%82%8C%E4%B9%9F%E8%83%BD%E5%AE%89%E5%BF%83%E7%94%A8",
-    "timestamp": "2026-09-13T03:46:12.276Z",
     "strategy": ".content-card__main"
   }
 ];
