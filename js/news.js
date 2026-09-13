@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T15:41:36.203Z
+// Last updated: 2026-09-13T16:33:14.298Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2｜郭珮文前男友起底主修心理學與法律　年薪300萬做歌手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175954924769382400843791.jpeg/RJg0-eWyzzW3ediK4TTkwfx_akKwE0EVNSnHqzUpx6s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389617/%E5%A5%B3%E7%A5%9E2-%E9%83%AD%E7%8F%AE%E6%96%87%E5%89%8D%E7%94%B7%E5%8F%8B%E8%B5%B7%E5%BA%95%E4%B8%BB%E4%BF%AE%E5%BF%83%E7%90%86%E5%AD%B8%E8%88%87%E6%B3%95%E5%BE%8B-%E5%B9%B4%E8%96%AA300%E8%90%AC%E5%81%9A%E6%AD%8C%E6%89%8B",
+    "timestamp": "2026-09-13T16:33:14.298Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "衛蘭空降灣仔海旁驚喜合唱《大哥》　全場High爆網民直呼如夢境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175108831424811008735809.png/iwjpDFGJyHYH5p6FJzM-rcGVas8cIgwg3FhcO9xYXDs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60388455/%E6%B1%9F%E8%A5%BF%E6%99%AF%E5%BE%B7%E9%8E%AE11%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-%E9%99%B6%E6%BA%AA%E5%B7%9D%E5%B8%82%E9%9B%86%E6%B7%98%E7%93%B7%E5%99%A8-%E5%B0%8B%E8%A8%AA%E5%8F%A4%E4%BB%A3%E7%9A%87%E5%AE%B6%E7%AA%AF%E5%BB%A0%E9%81%BA%E5%9D%80",
     "timestamp": "2026-09-13T08:24:24.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "河北醫科大學第二醫院員工11年收賄46次　涉額¥1.84億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175833086106013696081392.png/-PoTjFDPEeQh1Fh1GXxp9ZCgJzOXhdDxI92NZiPdjWY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60389545/%E6%B2%B3%E5%8C%97%E9%86%AB%E7%A7%91%E5%A4%A7%E5%AD%B8%E7%AC%AC%E4%BA%8C%E9%86%AB%E9%99%A2%E5%93%A1%E5%B7%A511%E5%B9%B4%E6%94%B6%E8%B3%8446%E6%AC%A1-%E6%B6%89%E9%A1%8D-1-84%E5%84%84%E5%85%83",
-    "timestamp": "2026-09-13T07:54:34.739Z",
     "strategy": ".content-card__main"
   }
 ];
