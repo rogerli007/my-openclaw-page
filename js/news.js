@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T06:56:18.178Z
+// Last updated: 2026-09-13T07:21:14.399Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張國榮70誕辰許冠傑Ian齊獻唱　1956架無人機點亮夜空秀專屬密碼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175819831807578112237046.jpeg/156Trcz7sgZyhNfDZhbmwFIgmfvbcf1T7EIay-xCGss?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389529/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E8%AA%95%E8%BE%B0%E8%A8%B1%E5%86%A0%E5%82%91ian%E9%BD%8A%E7%8D%BB%E5%94%B1-1956%E6%9E%B6%E7%84%A1%E4%BA%BA%E6%A9%9F%E9%BB%9E%E4%BA%AE%E5%A4%9C%E7%A9%BA%E7%A7%80%E5%B0%88%E5%B1%AC%E5%AF%86%E7%A2%BC",
+    "timestamp": "2026-09-13T07:21:14.399Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平倡「大金磚」國家培育一體化市場　提深化合作五項倡議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175685475541716992319528.jpeg/YHN3uwzjdsDDstDDjvVhcsqo_1eOaT8rHGquIyZqriM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389447/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E5%88%9D%E6%99%82%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E9%9B%A8%E5%8B%A2%E8%BC%83%E5%A4%A7-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB30%E5%BA%A6",
     "timestamp": "2026-09-12T22:28:58.153Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警新界北設路障打擊交通違例事項　2男「吹爆波」　同涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175673259098640384350786.jpeg/d9ntQwfGk1mZYdWyfJ8dMQhqfb5tOEWag5Li6YOS4uk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389445/%E8%AD%A6%E6%96%B0%E7%95%8C%E5%8C%97%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%89%93%E6%93%8A%E4%BA%A4%E9%80%9A%E9%81%95%E4%BE%8B%E4%BA%8B%E9%A0%85-2%E7%94%B7-%E5%90%B9%E7%88%86%E6%B3%A2-%E5%90%8C%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-12T21:53:57.006Z",
     "strategy": ".content-card__main"
   }
 ];
