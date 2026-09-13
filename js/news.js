@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T12:46:02.358Z
+// Last updated: 2026-09-13T12:54:48.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro預購｜數百人信用卡遭盜用　蘋果為何不設3DS認證？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173978071527591936269318.jpeg/cGOceg6_hnbPba2lNTiA943sRjBLm4ZLrOryPqzq8j4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389588/iphone-18-pro%E9%A0%90%E8%B3%BC-%E6%95%B8%E7%99%BE%E4%BA%BA%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%81%AD%E7%9B%9C%E7%94%A8-%E8%98%8B%E6%9E%9C%E7%82%BA%E4%BD%95%E4%B8%8D%E8%A8%AD3ds%E8%AA%8D%E8%AD%89",
+    "timestamp": "2026-09-13T12:54:48.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18 Pro預購｜數百人信用卡遭盜用　蘋果為何不設3DS認證？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175777540447408128210859.png/pkwal_9X3rbT2xPOC6sMNhOh-yiSB2B9b-gD2W_oA9k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60389483/%E5%85%A7%E5%9C%B0%E4%BA%94%E5%B9%B4%E6%B8%9B%E5%B0%91%E8%BF%91%E4%B8%89%E8%90%AC%E6%89%80%E5%B0%8F%E5%AD%B8-%E7%94%9F%E6%BA%90%E5%8A%87%E6%B8%9B%E8%87%B4%E5%A4%9A%E5%9C%B0%E5%B0%87%E6%A0%A1%E8%88%8D%E6%94%B9%E9%A4%8A%E8%80%81%E9%99%A2%E8%A6%93%E5%87%BA%E8%B7%AF",
     "timestamp": "2026-09-13T04:22:52.009Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026十大抗皺精華推介　修復法令紋與抬頭紋　敏感肌也能安心用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172198796843552768356470.jpeg/8NKOExGeUTlMc4ArcbqhgyYz0OM0VJWARbFdPkWxXT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60386476/2026%E5%8D%81%E5%A4%A7%E6%8A%97%E7%9A%BA%E7%B2%BE%E8%8F%AF%E6%8E%A8%E4%BB%8B-%E4%BF%AE%E5%BE%A9%E6%B3%95%E4%BB%A4%E7%B4%8B%E8%88%87%E6%8A%AC%E9%A0%AD%E7%B4%8B-%E6%95%8F%E6%84%9F%E8%82%8C%E4%B9%9F%E8%83%BD%E5%AE%89%E5%BF%83%E7%94%A8",
-    "timestamp": "2026-09-13T03:55:12.781Z",
     "strategy": ".content-card__main"
   }
 ];
