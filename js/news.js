@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T05:43:42.841Z
+// Last updated: 2026-09-13T05:53:59.220Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年｜陳翊庭︰善用科技與多媒體優勢　報道有啟發性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175794819390246912071325.jpeg/b4ewxBT4L4T57LgO05ZjCHyG0jT9si8MQv0uOkL9Ljo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389509/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%99%B3%E7%BF%8A%E5%BA%AD-%E5%96%84%E7%94%A8%E7%A7%91%E6%8A%80%E8%88%87%E5%A4%9A%E5%AA%92%E9%AB%94%E5%84%AA%E5%8B%A2-%E5%A0%B1%E9%81%93%E6%9C%89%E5%95%9F%E7%99%BC%E6%80%A7",
+    "timestamp": "2026-09-13T05:53:59.220Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角單位傳異味　警搗毒窟檢$4萬海洛英等毒品　拘4名男女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174829569274810368948716.jpeg/nAjC08c5UNet-oMa6LrulD2qzThTdEz0gaEHc4GhB3M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389444/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%89%8Afema%E5%8D%8A%E6%95%B8%E4%BA%BA%E6%89%8B-%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E8%A3%81%E5%AE%9A%E9%81%95%E6%B3%95",
     "timestamp": "2026-09-12T21:18:09.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府削FEMA半數人手　美國法官裁定違法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174829569274810368948716.jpeg/nAjC08c5UNet-oMa6LrulD2qzThTdEz0gaEHc4GhB3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389444/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%89%8Afema%E5%8D%8A%E6%95%B8%E4%BA%BA%E6%89%8B-%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E8%A3%81%E5%AE%9A%E9%81%95%E6%B3%95",
-    "timestamp": "2026-09-12T20:50:49.122Z",
     "strategy": ".content-card__main"
   }
 ];
