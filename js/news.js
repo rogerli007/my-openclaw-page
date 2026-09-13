@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T17:57:02.995Z
+// Last updated: 2026-09-13T18:21:48.474Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅淑佩自費看Jeffrey主演《浪花男女》 讚郊野背景電影如旅遊大使",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175989089758351360359710.jpeg/w6Ogr97XHPO9nmrU4WJwuCCOmnM0JTZyZJuLYmSbi2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389624/%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%AA%E8%B2%BB%E7%9C%8Bjeffrey%E4%B8%BB%E6%BC%94-%E6%B5%AA%E8%8A%B1%E7%94%B7%E5%A5%B3-%E8%AE%9A%E9%83%8A%E9%87%8E%E8%83%8C%E6%99%AF%E9%9B%BB%E5%BD%B1%E5%A6%82%E6%97%85%E9%81%8A%E5%A4%A7%E4%BD%BF",
+    "timestamp": "2026-09-13T18:21:48.474Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油尖旺關愛隊九龍公園舉辦定向活動　推廣多元共融跨文化溝通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175601335878684672296507.jpeg/zMBamdsVldrCZt-MpdwbpBitTD9hfsQ-e15kGXteZBk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389571/%E8%8E%AB%E8%BF%AA%E8%AD%A6%E5%91%8A%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%88%87%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F%E5%BD%B1%E9%9F%BF%E5%8A%A0%E5%8A%87-%E7%B1%B2%E5%8D%97%E6%96%B9%E5%9C%8B%E5%AE%B6%E5%8A%A0%E5%BC%B7%E5%90%88%E4%BD%9C",
     "timestamp": "2026-09-13T12:26:05.362Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港島布力徑行山客發現一枚戰時子彈　警檢走化驗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035778761733181440254371.jpeg/Fd071PzHEKUEDdWRjXuwdtKa5jqpxvGwtfsTZI_7E2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389593/%E6%B8%AF%E5%B3%B6%E5%B8%83%E5%8A%9B%E5%BE%91%E8%A1%8C%E5%B1%B1%E5%AE%A2%E7%99%BC%E7%8F%BE%E4%B8%80%E6%9E%9A%E6%88%B0%E6%99%82%E5%AD%90%E5%BD%88-%E8%AD%A6%E6%AA%A2%E8%B5%B0%E5%8C%96%E9%A9%97",
-    "timestamp": "2026-09-13T11:53:47.249Z",
     "strategy": ".content-card__main"
   }
 ];
