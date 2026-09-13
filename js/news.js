@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T00:53:53.733Z
+// Last updated: 2026-09-13T01:34:15.568Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男子用力致肌腱撕裂　上臂隆起似「大力水手」　2大治療方案拆解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174785202040344576781620.png/dQ2dj0nQ7k7e71g4AdTjj4-dIRDfjrhCLg6u7S4Oru0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388698/%E7%94%B7%E5%AD%90%E7%94%A8%E5%8A%9B%E8%87%B4%E8%82%8C%E8%85%B1%E6%92%95%E8%A3%82-%E4%B8%8A%E8%87%82%E9%9A%86%E8%B5%B7%E4%BC%BC-%E5%A4%A7%E5%8A%9B%E6%B0%B4%E6%89%8B-2%E5%A4%A7%E6%B2%BB%E7%99%82%E6%96%B9%E6%A1%88%E6%8B%86%E8%A7%A3",
+    "timestamp": "2026-09-13T01:34:15.568Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銅鑼灣珠寶店大閘被損毀疑遭爆竊　警調查後證實虛驚一場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175591909121331200057168.jpeg/wJv0TkL23AymJlU7bMEO7xgf6cYqVbq3M3kexDN5HsQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389427/%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E5%91%82%E7%88%B5%E5%AE%89%E8%A7%92%E8%89%B2%E5%90%8D%E5%90%91%E9%BB%8E%E6%98%8E%E8%87%B4%E6%95%AC-%E8%AD%89mirror%E4%B8%89%E5%AD%90%E9%BD%8A%E5%81%9A%E9%82%B1%E5%A3%AB%E7%B8%89%E5%85%84%E5%BC%9F",
     "timestamp": "2026-09-12T17:16:16.297Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "悠長假期｜呂爵安角色名向黎明致敬　證MIRROR三子齊做邱士縉兄弟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175591909121331200057168.jpeg/wJv0TkL23AymJlU7bMEO7xgf6cYqVbq3M3kexDN5HsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389427/%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E5%91%82%E7%88%B5%E5%AE%89%E8%A7%92%E8%89%B2%E5%90%8D%E5%90%91%E9%BB%8E%E6%98%8E%E8%87%B4%E6%95%AC-%E8%AD%89mirror%E4%B8%89%E5%AD%90%E9%BD%8A%E5%81%9A%E9%82%B1%E5%A3%AB%E7%B8%89%E5%85%84%E5%BC%9F",
-    "timestamp": "2026-09-12T16:53:53.476Z",
     "strategy": ".content-card__main"
   }
 ];
