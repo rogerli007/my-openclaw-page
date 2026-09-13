@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T10:34:39.647Z
+// Last updated: 2026-09-13T10:55:24.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《悠長假期》森本玲夫猝逝　曾涉性侵50位未成年　2女星出面指控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175868753422848000042586.png/Hz5n5a2TdqxwYlPrRt3nxQzR4TwwmSWsRuvLEUbryxE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389566/%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E6%A3%AE%E6%9C%AC%E7%8E%B2%E5%A4%AB%E7%8C%9D%E9%80%9D-%E6%9B%BE%E6%B6%89%E6%80%A7%E4%BE%B550%E4%BD%8D%E6%9C%AA%E6%88%90%E5%B9%B4-2%E5%A5%B3%E6%98%9F%E5%87%BA%E9%9D%A2%E6%8C%87%E6%8E%A7",
+    "timestamp": "2026-09-13T10:55:24.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "第83屆威尼斯影展閉幕　中國VR短片《鴿環》奪「威尼斯沉浸大獎」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221119/670718306033995776402167.jpeg/UqZgYaTxA6pIkZzP68Oa1r9SRyhCvvzL2kSrZPBEq2Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389462/%E5%A4%A7%E5%9F%94%E9%81%8B%E9%A0%AD%E5%A1%98%E9%82%A818%E6%AD%B2%E7%94%B7%E7%96%91%E9%A3%B2%E9%86%89%E9%85%92-%E6%8E%A8%E8%B7%8C%E5%A5%B3%E8%AD%A6%E7%B5%82%E8%A2%AB%E5%88%B6%E6%9C%8D-%E6%B6%89%E8%A5%B2%E8%AD%A6%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-13T01:57:04.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男子用力致肌腱撕裂　上臂隆起似「大力水手」　2大治療方案拆解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174785202040344576781620.png/dQ2dj0nQ7k7e71g4AdTjj4-dIRDfjrhCLg6u7S4Oru0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388698/%E7%94%B7%E5%AD%90%E7%94%A8%E5%8A%9B%E8%87%B4%E8%82%8C%E8%85%B1%E6%92%95%E8%A3%82-%E4%B8%8A%E8%87%82%E9%9A%86%E8%B5%B7%E4%BC%BC-%E5%A4%A7%E5%8A%9B%E6%B0%B4%E6%89%8B-2%E5%A4%A7%E6%B2%BB%E7%99%82%E6%96%B9%E6%A1%88%E6%8B%86%E8%A7%A3",
-    "timestamp": "2026-09-13T01:34:15.568Z",
     "strategy": ".content-card__main"
   }
 ];
