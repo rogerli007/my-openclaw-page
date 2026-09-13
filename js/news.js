@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T20:53:45.182Z
+// Last updated: 2026-09-13T21:17:27.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前英揆約翰遜等歐洲政要列車　離烏途中疑遭俄無人機列攻擊目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176030086529290240542690.png/WVSeatOprtwReGiUOhVoBm9KsRHdqm8CTmXacU5l2nE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389633/%E5%89%8D%E8%8B%B1%E6%8F%86%E7%B4%84%E7%BF%B0%E9%81%9C%E7%AD%89%E6%AD%90%E6%B4%B2%E6%94%BF%E8%A6%81%E5%88%97%E8%BB%8A-%E9%9B%A2%E7%83%8F%E9%80%94%E4%B8%AD%E7%96%91%E9%81%AD%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%88%97%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-09-13T21:17:27.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本沖繩縣知事選舉　保守派古謝玄太當選",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175912270195068928917203.jpeg/SMeYawRNi0FlAx83BlFjsL0SpT_EKR4Kn-o6Yp_qOmI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389600/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-6%E6%97%AC%E5%A7%8A%E5%A6%B9%E8%8A%B1%E7%88%AD80%E6%AD%B2%E9%98%BF%E4%BC%AF%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B-%E5%8B%9D%E6%96%B9%E6%8C%91%E9%87%81-%E4%B8%8A%E5%9F%8B%E5%BA%8A%E5%96%87%E5%96%8E",
     "timestamp": "2026-09-13T15:29:39.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘和樂邨29歲男家中暈倒　母揭發惜送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250517/1000257673117044736359712.jpeg/a68XmEYvAw6dRaWoIkOR-DjEbNywQ9cBWydMnmEnTJ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389607/%E8%A7%80%E5%A1%98%E5%92%8C%E6%A8%82%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E6%AF%8D%E6%8F%AD%E7%99%BC%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-13T14:41:17.529Z",
     "strategy": ".content-card__main"
   }
 ];
