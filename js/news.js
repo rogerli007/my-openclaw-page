@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T15:25:15.881Z
+// Last updated: 2026-09-14T15:43:47.370Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯入境處深水埗掃黃　拘18名內地女涉違反逗留條件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176312903888801792072368.jpeg/74kajVYVE-auffNnwLVwarwOv3LTyos4App5qAKaeag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389960/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%8E%83%E9%BB%83-%E6%8B%9818%E5%90%8D%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%B6%89%E9%81%95%E5%8F%8D%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6",
+    "timestamp": "2026-09-14T15:43:47.370Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜6旬婦斬情絲成全閨密與男友：腳踏兩船嘅男人值得槍斃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176190431159914496459270.jpeg/6VJqQ2M8c4mRgMmDHdzE-tU4sH_7G1iRPlzhWz5c4Vs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389807/903-allstar%E7%B1%83%E7%90%83%E8%B3%BD2026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-09-14T07:43:09.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告前瞻｜有報道指擬再推鼓勵生育組合拳　不與星洲鬥派錢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103135899673432064405761.jpeg/F274y2k27TA0cR3hOEr8nw-2R9JAQLHCOPwj3iL8I94?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389750/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E5%89%8D%E7%9E%BB-%E6%9C%89%E5%A0%B1%E9%81%93%E6%8C%87%E6%93%AC%E5%86%8D%E6%8E%A8%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2%E7%B5%84%E5%90%88%E6%8B%B3-%E4%B8%8D%E8%88%87%E6%98%9F%E6%B4%B2%E9%AC%A5%E6%B4%BE%E9%8C%A2",
-    "timestamp": "2026-09-14T05:53:59.552Z",
     "strategy": ".content-card__main"
   }
 ];
