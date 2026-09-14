@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T02:04:51.174Z
+// Last updated: 2026-09-14T02:42:45.467Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "信用卡疑遭盜用購iPhone　金管局：無額外認證商戶須承擔交易損失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175844360344834048642039.png/50Ol9g1Je30pKOnpWv0G7ZEgfwNiZ3oWKS6IoikuiKI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389673/%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%96%91%E9%81%AD%E7%9B%9C%E7%94%A8%E8%B3%BCiphone-%E9%87%91%E7%AE%A1%E5%B1%80-%E7%84%A1%E9%A1%8D%E5%A4%96%E8%AA%8D%E8%AD%89%E5%95%86%E6%88%B6%E9%A0%88%E6%89%BF%E6%93%94%E4%BA%A4%E6%98%93%E6%90%8D%E5%A4%B1",
+    "timestamp": "2026-09-14T02:42:45.467Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "團結香港基金｜香港郵政何去何從（下）：財政「包底」不可或缺？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175997365065093120834695.jpeg/hw0b_weFBzaTETa-rs-RVzerDSXWWkfkPZYW9D2WFvQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389627/%E6%97%BA%E8%A7%92%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E6%92%9E10%E6%AD%B2%E7%AB%A5%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E5%85%A7%E5%9C%B0%E7%94%B7%E9%A8%8E%E6%89%8B%E6%B6%89%E5%8D%B1%E9%A7%95%E7%AD%896%E7%BD%AA%E4%BB%8A%E6%8F%90%E5%A0%82",
     "timestamp": "2026-09-13T19:15:31.048Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角電動單車撞10歲童不顧而去　內地男騎手涉危駕等6罪今提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175997365065093120834695.jpeg/hw0b_weFBzaTETa-rs-RVzerDSXWWkfkPZYW9D2WFvQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389627/%E6%97%BA%E8%A7%92%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E6%92%9E10%E6%AD%B2%E7%AB%A5%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E5%85%A7%E5%9C%B0%E7%94%B7%E9%A8%8E%E6%89%8B%E6%B6%89%E5%8D%B1%E9%A7%95%E7%AD%896%E7%BD%AA%E4%BB%8A%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-09-13T18:54:03.456Z",
     "strategy": ".content-card__main"
   }
 ];
