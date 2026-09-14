@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T05:44:37.246Z
+// Last updated: 2026-09-14T05:53:59.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告前瞻｜有報道指擬再推鼓勵生育組合拳　不與星洲鬥派錢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103135899673432064405761.jpeg/F274y2k27TA0cR3hOEr8nw-2R9JAQLHCOPwj3iL8I94?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389750/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E5%89%8D%E7%9E%BB-%E6%9C%89%E5%A0%B1%E9%81%93%E6%8C%87%E6%93%AC%E5%86%8D%E6%8E%A8%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2%E7%B5%84%E5%90%88%E6%8B%B3-%E4%B8%8D%E8%88%87%E6%98%9F%E6%B4%B2%E9%AC%A5%E6%B4%BE%E9%8C%A2",
+    "timestamp": "2026-09-14T05:53:59.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告前瞻｜有報道指擬再推鼓勵生育組合拳　不與星洲鬥派錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176030086529290240542690.png/WVSeatOprtwReGiUOhVoBm9KsRHdqm8CTmXacU5l2nE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389633/%E5%89%8D%E8%8B%B1%E6%8F%86%E7%B4%84%E7%BF%B0%E9%81%9C%E7%AD%89%E6%AD%90%E6%B4%B2%E6%94%BF%E8%A6%81%E5%88%97%E8%BB%8A-%E9%9B%A2%E7%83%8F%E9%80%94%E4%B8%AD%E7%96%91%E9%81%AD%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%88%97%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-09-13T21:28:32.200Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前英揆約翰遜等歐洲政要列車　離烏途中疑遭俄無人機列攻擊目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176030086529290240542690.png/WVSeatOprtwReGiUOhVoBm9KsRHdqm8CTmXacU5l2nE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389633/%E5%89%8D%E8%8B%B1%E6%8F%86%E7%B4%84%E7%BF%B0%E9%81%9C%E7%AD%89%E6%AD%90%E6%B4%B2%E6%94%BF%E8%A6%81%E5%88%97%E8%BB%8A-%E9%9B%A2%E7%83%8F%E9%80%94%E4%B8%AD%E7%96%91%E9%81%AD%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%88%97%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-09-13T21:17:27.995Z",
     "strategy": ".content-card__main"
   }
 ];
