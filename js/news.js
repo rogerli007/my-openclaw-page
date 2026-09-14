@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T20:43:52.453Z
+// Last updated: 2026-09-14T20:54:36.300Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：高市早苗16日調整自民黨人事　17日改組內閣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389975/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%9716%E6%97%A5%E8%AA%BF%E6%95%B4%E8%87%AA%E6%B0%91%E9%BB%A8%E4%BA%BA%E4%BA%8B-17%E6%97%A5%E6%94%B9%E7%B5%84%E5%85%A7%E9%96%A3",
+    "timestamp": "2026-09-14T20:54:36.300Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國10年期債息曾突破5%　2023年10月以来首次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176212907134816256460127.jpeg/UQ-IDVXEPZsX89rs8DOiDEDe03qAlhfs0WDdidFg3Yk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389849/%E5%86%8D%E6%AC%A1%E9%9B%B2%E7%95%AB%E7%9A%84%E6%9C%88%E5%85%89-%E9%9A%9410%E5%B9%B4%E5%86%8D%E5%90%88%E9%AB%94-%E6%9C%B4%E5%AF%B6%E5%8A%8D%E9%87%91%E8%A3%95%E8%B2%9E%E9%87%8D%E7%A9%BF%E6%88%B2%E6%9C%8D%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA",
     "timestamp": "2026-09-14T12:30:39.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《蘭香如故》男扮女裝爆紅　告別惡搞敷衍獲讚：終於尊重大眾智商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176228688434302976749201.png/5xXWRn8rQuIgDgzJ9bkYRTHk6GoTCA-eO0shSjtLIUo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60389851/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%9D%E7%88%86%E7%B4%85-%E5%91%8A%E5%88%A5%E6%83%A1%E6%90%9E%E6%95%B7%E8%A1%8D%E7%8D%B2%E8%AE%9A-%E7%B5%82%E6%96%BC%E5%B0%8A%E9%87%8D%E5%A4%A7%E7%9C%BE%E6%99%BA%E5%95%86",
-    "timestamp": "2026-09-14T11:55:04.011Z",
     "strategy": ".content-card__main"
   }
 ];
