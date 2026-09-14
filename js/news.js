@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T04:48:47.902Z
+// Last updated: 2026-09-14T05:21:46.067Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《早春晴朗》井柏然自帶私服！拆解Hermès、YSL等奢華穿搭天花板",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175149953211699200271609.png/1ZE0Xcp0S8rcbvYiQHeb1LGkCmlszYXxPNYdgjzWHYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60389088/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E4%BA%95%E6%9F%8F%E7%84%B6%E8%87%AA%E5%B8%B6%E7%A7%81%E6%9C%8D-%E6%8B%86%E8%A7%A3herm%C3%A8s-ysl%E7%AD%89%E5%A5%A2%E8%8F%AF%E7%A9%BF%E6%90%AD%E5%A4%A9%E8%8A%B1%E6%9D%BF",
+    "timestamp": "2026-09-14T05:21:46.067Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑安置方案｜特設銷售計劃9.15攪珠有網上直播　下午上載結果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176015761701867520152063.png/f_yEbQpHPhmrzpvOLQjAIEFI24KC_xk4fQ6n6X0Op-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389630/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A3%E7%9F%A5%E4%BA%8B%E9%81%B8%E8%88%89-%E4%BF%9D%E5%AE%88%E6%B4%BE%E5%8F%A4%E8%AC%9D%E7%8E%84%E5%A4%AA%E7%95%B6%E9%81%B8",
     "timestamp": "2026-09-13T20:53:45.182Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本沖繩縣知事選舉　保守派古謝玄太當選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176015761701867520152063.png/f_yEbQpHPhmrzpvOLQjAIEFI24KC_xk4fQ6n6X0Op-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389630/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A3%E7%9F%A5%E4%BA%8B%E9%81%B8%E8%88%89-%E4%BF%9D%E5%AE%88%E6%B4%BE%E5%8F%A4%E8%AC%9D%E7%8E%84%E5%A4%AA%E7%95%B6%E9%81%B8",
-    "timestamp": "2026-09-13T20:42:55.349Z",
     "strategy": ".content-card__main"
   }
 ];
