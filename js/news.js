@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T14:22:41.843Z
+// Last updated: 2026-09-14T14:54:58.972Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳敏之自製AI騎呢露底跳舞片被指「核突」　高EQ回應：玩吓笑吓啫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176288972825956352967425.png/HWVq5lCNcrclD1cG7yycaEumhJ8GCgieqma4kKpmuJA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389945/%E9%99%B3%E6%95%8F%E4%B9%8B%E8%87%AA%E8%A3%BDai%E9%A8%8E%E5%91%A2%E9%9C%B2%E5%BA%95%E8%B7%B3%E8%88%9E%E7%89%87%E8%A2%AB%E6%8C%87-%E6%A0%B8%E7%AA%81-%E9%AB%98eq%E5%9B%9E%E6%87%89-%E7%8E%A9%E5%90%93%E7%AC%91%E5%90%93%E5%95%AB",
+    "timestamp": "2026-09-14T14:54:58.972Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃淑蔓11月TIDES首開個人專場　化身動漫主角邀歌迷Cosplay入場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103135899673432064405761.jpeg/F274y2k27TA0cR3hOEr8nw-2R9JAQLHCOPwj3iL8I94?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389750/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E5%89%8D%E7%9E%BB-%E6%9C%89%E5%A0%B1%E9%81%93%E6%8C%87%E6%93%AC%E5%86%8D%E6%8E%A8%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2%E7%B5%84%E5%90%88%E6%8B%B3-%E4%B8%8D%E8%88%87%E6%98%9F%E6%B4%B2%E9%AC%A5%E6%B4%BE%E9%8C%A2",
     "timestamp": "2026-09-14T05:44:37.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《早春晴朗》井柏然自帶私服！拆解Hermès、YSL等奢華穿搭天花板",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175149953211699200271609.png/1ZE0Xcp0S8rcbvYiQHeb1LGkCmlszYXxPNYdgjzWHYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60389088/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E4%BA%95%E6%9F%8F%E7%84%B6%E8%87%AA%E5%B8%B6%E7%A7%81%E6%9C%8D-%E6%8B%86%E8%A7%A3herm%C3%A8s-ysl%E7%AD%89%E5%A5%A2%E8%8F%AF%E7%A9%BF%E6%90%AD%E5%A4%A9%E8%8A%B1%E6%9D%BF",
-    "timestamp": "2026-09-14T05:21:46.067Z",
     "strategy": ".content-card__main"
   }
 ];
