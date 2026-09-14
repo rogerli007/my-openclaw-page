@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T11:55:04.011Z
+// Last updated: 2026-09-14T12:30:39.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《再次雲畫的月光》隔10年再合體　朴寶劍金裕貞重穿戲服掀回憶殺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176212907134816256460127.jpeg/UQ-IDVXEPZsX89rs8DOiDEDe03qAlhfs0WDdidFg3Yk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389849/%E5%86%8D%E6%AC%A1%E9%9B%B2%E7%95%AB%E7%9A%84%E6%9C%88%E5%85%89-%E9%9A%9410%E5%B9%B4%E5%86%8D%E5%90%88%E9%AB%94-%E6%9C%B4%E5%AF%B6%E5%8A%8D%E9%87%91%E8%A3%95%E8%B2%9E%E9%87%8D%E7%A9%BF%E6%88%B2%E6%9C%8D%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA",
+    "timestamp": "2026-09-14T12:30:39.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《蘭香如故》男扮女裝爆紅　告別惡搞敷衍獲讚：終於尊重大眾智商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176122004453986304290617.png/9BA66rx3j7zQ8lzxTCEjLNJvDWkd7QLLzvEsJs7xLCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60389689/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E5%BE%9E%E6%93%8D%E6%8E%A7ai%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%92%8C%E6%A9%9F%E6%A2%B0%E7%8B%97%E5%88%B0%E8%B6%B3%E7%90%83%E8%B3%BD%E5%8F%8A%E8%A1%A8%E6%BC%94",
     "timestamp": "2026-09-14T03:26:04.082Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周末新盤跌近三成錄193宗　映匯沽136伙　啟德海灣4伙吸金逾4千萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176117996406444032587246.jpeg/-VjLpgHvsnH9XtYf-Jt3BT79a08YUn0yBcmrcAXJq3A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60389674/%E5%91%A8%E6%9C%AB%E6%96%B0%E7%9B%A4%E8%B7%8C%E8%BF%91%E4%B8%89%E6%88%90%E9%8C%84193%E5%AE%97-%E6%98%A0%E5%8C%AF%E6%B2%BD136%E4%BC%99-%E5%95%9F%E5%BE%B7%E6%B5%B7%E7%81%A34%E4%BC%99%E5%90%B8%E9%87%91%E9%80%BE4%E5%8D%83%E8%90%AC",
-    "timestamp": "2026-09-14T02:59:20.114Z",
     "strategy": ".content-card__main"
   }
 ];
