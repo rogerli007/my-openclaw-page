@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T17:55:09.688Z
+// Last updated: 2026-09-14T18:24:58.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田隆亨邨私家車自炒撞欄　司機不顧而去再返現場　涉販毒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176353399302524928973648.jpeg/IHXr7VDE7PyL2DYgmuRLjY6Xm3zY-_6yJLPmQQ6z5kE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389970/%E6%B2%99%E7%94%B0%E9%9A%86%E4%BA%A8%E9%82%A8%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB%E5%86%8D%E8%BF%94%E7%8F%BE%E5%A0%B4-%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-14T18:24:58.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱伊朗想迅速達成協議　伊朗否認欲重啟談判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176144096591351808137865.jpeg/k6pz4FBeTJqna_UJ7QhS9MC6L8otjECWQqFcD0KhXA8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60388195/%E7%84%A1%E7%B3%96%E9%99%B7%E9%98%B1-%E7%84%A1%E7%B3%96%E6%89%8B%E6%90%96%E8%B6%8A%E9%A3%B2%E8%B6%8A%E8%82%A5-%E6%AC%8A%E5%A8%81%E6%A9%9F%E6%A7%8B%E6%8B%86%E8%A7%A3%E5%A5%B6%E7%B2%BE%E8%88%87%E9%85%8D%E6%96%99%E7%86%B1%E9%87%8F%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-09-14T09:58:21.016Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Stephen Curry訪港｜梁銶琚女生與巨星合照：贏咗99.999%嘅人！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176211278872449024879254.jpeg/M4NPtENtp2ThZ-n0lwSCu_EaHbzGpAPE7luLDstbiw4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389863/stephen-curry%E8%A8%AA%E6%B8%AF-%E6%A2%81%E9%8A%B6%E7%90%9A%E5%A5%B3%E7%94%9F%E8%88%87%E5%B7%A8%E6%98%9F%E5%90%88%E7%85%A7-%E8%B4%8F%E5%92%9799-999-%E5%98%85%E4%BA%BA",
-    "timestamp": "2026-09-14T09:51:23.353Z",
     "strategy": ".content-card__main"
   }
 ];
