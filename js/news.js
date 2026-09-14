@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T18:24:58.821Z
+// Last updated: 2026-09-14T18:46:18.290Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田隆亨邨私家車自炒撞欄　司機不顧而去再返現場　涉販毒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176353399302524928973648.jpeg/IHXr7VDE7PyL2DYgmuRLjY6Xm3zY-_6yJLPmQQ6z5kE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389970/%E6%B2%99%E7%94%B0%E9%9A%86%E4%BA%A8%E9%82%A8%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB%E5%86%8D%E8%BF%94%E7%8F%BE%E5%A0%B4-%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-14T18:46:18.290Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田隆亨邨私家車自炒撞欄　司機不顧而去再返現場　涉販毒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176222719654498304432861.png/N1gbu1A5QF40SZgP1ZwGRd0BzhfJYJmuLx2pFC8dqRQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389880/hyrox%E5%A5%B3%E9%81%B8%E6%89%8B%E5%A4%B1%E7%A6%81%E6%B1%A1%E6%9F%93%E8%B3%BD%E9%81%93-%E9%9A%94%E5%A4%A9%E5%90%B3%E5%BB%BA%E8%B1%AA%E5%90%8C%E8%B3%BD%E5%A0%B4%E7%B6%B2%E6%B0%91%E6%80%A5%E5%95%8F%E5%80%99-%E8%B8%A9%E5%88%B0%E6%B2%92",
     "timestamp": "2026-09-14T10:45:41.702Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無糖陷阱│無糖手搖越飲越肥？權威機構拆解奶精與配料熱量真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176144096591351808137865.jpeg/k6pz4FBeTJqna_UJ7QhS9MC6L8otjECWQqFcD0KhXA8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60388195/%E7%84%A1%E7%B3%96%E9%99%B7%E9%98%B1-%E7%84%A1%E7%B3%96%E6%89%8B%E6%90%96%E8%B6%8A%E9%A3%B2%E8%B6%8A%E8%82%A5-%E6%AC%8A%E5%A8%81%E6%A9%9F%E6%A7%8B%E6%8B%86%E8%A7%A3%E5%A5%B6%E7%B2%BE%E8%88%87%E9%85%8D%E6%96%99%E7%86%B1%E9%87%8F%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-09-14T09:58:21.016Z",
     "strategy": ".content-card__main"
   }
 ];
