@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T08:51:55.756Z
+// Last updated: 2026-09-14T09:27:22.248Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2300億港元！字節跳動傳大額聯貸　28家銀行搶灘、中資成主力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109171503846395904670439.jpeg/edrHe__n4mZzlWfd4dURn8Ho8DimaNqvT-QC_U_kAv0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389870/2300%E5%84%84%E6%B8%AF%E5%85%83-%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E5%82%B3%E5%A4%A7%E9%A1%8D%E8%81%AF%E8%B2%B8-28%E5%AE%B6%E9%8A%80%E8%A1%8C%E6%90%B6%E7%81%98-%E4%B8%AD%E8%B3%87%E6%88%90%E4%B8%BB%E5%8A%9B",
+    "timestamp": "2026-09-14T09:27:22.248Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國拳手澳洲參賽被對手當眾種族歧視　華人團體示範教科書式維權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175831773104312320106793.png/mXqZZmfvjlmhAnMZOs42hqtiENe-Xd8q26ohLNuqISw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60388742/%E6%B3%B051%E6%AD%B2%E7%94%B7%E6%B7%B1%E5%AE%B5%E5%85%A8%E8%A3%B8%E6%BD%9B%E5%85%A5%E9%AD%9A%E6%B1%A0%E6%80%A7%E4%BE%B5%E9%8C%A6%E9%AF%89-%E6%B6%894%E7%BD%AA%E7%B5%82%E8%90%BD%E7%B6%B2-%E6%8F%AD%E6%9B%BE%E6%80%A7%E4%BE%B5%E7%8A%AC%E9%9A%BB",
     "timestamp": "2026-09-13T23:17:25.360Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "居台亞視小生感激江美儀提攜走過人生低谷　難忘常幫對方買M巾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175841332061540352765098.jpeg/fkFyZ7IgKmh83SB93ydPQvUBqPcXEi6rqEyueKhMrng",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389506/%E5%BC%B5%E5%95%9F%E6%A8%82%E6%84%9F%E6%BF%80%E6%B1%9F%E7%BE%8E%E5%84%80%E6%8F%90%E6%94%9C%E8%B5%B0%E9%81%8E%E4%BA%BA%E7%94%9F%E4%BD%8E%E8%B0%B7-%E9%9B%A3%E5%BF%98%E5%B8%B8%E5%B9%AB%E5%B0%8D%E6%96%B9%E8%B2%B7m%E5%B7%BE",
-    "timestamp": "2026-09-13T22:53:41.138Z",
     "strategy": ".content-card__main"
   }
 ];
