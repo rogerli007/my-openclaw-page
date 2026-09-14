@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T10:56:29.383Z
+// Last updated: 2026-09-14T11:20:08.512Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運｜李思穎棄戰公路專注場地爭金　同時為爭奧運積分備戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176244824840343552167095.jpeg/kAOz1HL8otxKy1cEdohHTxpO_8pHP6aXr7qVIa-6lSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389910/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%9D%8E%E6%80%9D%E7%A9%8E%E6%A3%84%E6%88%B0%E5%85%AC%E8%B7%AF%E5%B0%88%E6%B3%A8%E5%A0%B4%E5%9C%B0%E7%88%AD%E9%87%91-%E5%90%8C%E6%99%82%E7%82%BA%E7%88%AD%E5%A5%A7%E9%81%8B%E7%A9%8D%E5%88%86%E5%82%99%E6%88%B0",
+    "timestamp": "2026-09-14T11:20:08.512Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡塞戳破了沙特的麥加協議：金錢買不來安全　結盟等不到援兵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174662127424638976827164.jpeg/-cXbJr4URSxWGHoLwT8iMce9ZcTK8yrcw6u3o8Ort6M?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60388409/%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E5%9F%BA%E9%87%91-%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF%E4%BD%95%E5%8E%BB%E4%BD%95%E5%BE%9E-%E4%B8%8B-%E8%B2%A1%E6%94%BF-%E5%8C%85%E5%BA%95-%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA",
     "timestamp": "2026-09-14T02:04:51.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普重申支持愛爾蘭統一　無視英國不滿及反對",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175989340296187904623074.jpeg/5JfqLga2vKvqPvIqLZaSjoHjbAHF_nctdJeCyXSXgsk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389651/%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E6%94%AF%E6%8C%81%E6%84%9B%E7%88%BE%E8%98%AD%E7%B5%B1%E4%B8%80-%E7%84%A1%E8%A6%96%E8%8B%B1%E5%9C%8B%E4%B8%8D%E6%BB%BF%E5%8F%8A%E5%8F%8D%E5%B0%8D",
-    "timestamp": "2026-09-14T01:37:50.296Z",
     "strategy": ".content-card__main"
   }
 ];
