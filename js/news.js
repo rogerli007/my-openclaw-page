@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T11:20:08.512Z
+// Last updated: 2026-09-14T11:33:22.385Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "商場變運動場！恒地新都城中心大搞「運動行銷」　力谷人流消費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176247081325563904360185.jpeg/rb3jJ8w0CyXEu9f5wqY7aku6YAvtMAXE7COGFuwjhhY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60388265/%E5%95%86%E5%A0%B4%E8%AE%8A%E9%81%8B%E5%8B%95%E5%A0%B4-%E6%81%92%E5%9C%B0%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%90%9E-%E9%81%8B%E5%8B%95%E8%A1%8C%E9%8A%B7-%E5%8A%9B%E8%B0%B7%E4%BA%BA%E6%B5%81%E6%B6%88%E8%B2%BB",
+    "timestamp": "2026-09-14T11:33:22.385Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運｜李思穎棄戰公路專注場地爭金　同時為爭奧運積分備戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175844360344834048642039.png/50Ol9g1Je30pKOnpWv0G7ZEgfwNiZ3oWKS6IoikuiKI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389673/%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%96%91%E9%81%AD%E7%9B%9C%E7%94%A8%E8%B3%BCiphone-%E9%87%91%E7%AE%A1%E5%B1%80-%E7%84%A1%E9%A1%8D%E5%A4%96%E8%AA%8D%E8%AD%89%E5%95%86%E6%88%B6%E9%A0%88%E6%89%BF%E6%93%94%E4%BA%A4%E6%98%93%E6%90%8D%E5%A4%B1",
     "timestamp": "2026-09-14T02:42:45.467Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "團結香港基金｜香港郵政何去何從（下）：財政「包底」不可或缺？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174662127424638976827164.jpeg/-cXbJr4URSxWGHoLwT8iMce9ZcTK8yrcw6u3o8Ort6M?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60388409/%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E5%9F%BA%E9%87%91-%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF%E4%BD%95%E5%8E%BB%E4%BD%95%E5%BE%9E-%E4%B8%8B-%E8%B2%A1%E6%94%BF-%E5%8C%85%E5%BA%95-%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA",
-    "timestamp": "2026-09-14T02:04:51.174Z",
     "strategy": ".content-card__main"
   }
 ];
