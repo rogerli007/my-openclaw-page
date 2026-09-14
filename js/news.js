@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T11:33:22.385Z
+// Last updated: 2026-09-14T11:55:04.011Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《蘭香如故》男扮女裝爆紅　告別惡搞敷衍獲讚：終於尊重大眾智商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176228688434302976749201.png/5xXWRn8rQuIgDgzJ9bkYRTHk6GoTCA-eO0shSjtLIUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60389851/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%9D%E7%88%86%E7%B4%85-%E5%91%8A%E5%88%A5%E6%83%A1%E6%90%9E%E6%95%B7%E8%A1%8D%E7%8D%B2%E8%AE%9A-%E7%B5%82%E6%96%BC%E5%B0%8A%E9%87%8D%E5%A4%A7%E7%9C%BE%E6%99%BA%E5%95%86",
+    "timestamp": "2026-09-14T11:55:04.011Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "商場變運動場！恒地新都城中心大搞「運動行銷」　力谷人流消費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176117996406444032587246.jpeg/-VjLpgHvsnH9XtYf-Jt3BT79a08YUn0yBcmrcAXJq3A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60389674/%E5%91%A8%E6%9C%AB%E6%96%B0%E7%9B%A4%E8%B7%8C%E8%BF%91%E4%B8%89%E6%88%90%E9%8C%84193%E5%AE%97-%E6%98%A0%E5%8C%AF%E6%B2%BD136%E4%BC%99-%E5%95%9F%E5%BE%B7%E6%B5%B7%E7%81%A34%E4%BC%99%E5%90%B8%E9%87%91%E9%80%BE4%E5%8D%83%E8%90%AC",
     "timestamp": "2026-09-14T02:59:20.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "信用卡疑遭盜用購iPhone　金管局：無額外認證商戶須承擔交易損失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175844360344834048642039.png/50Ol9g1Je30pKOnpWv0G7ZEgfwNiZ3oWKS6IoikuiKI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389673/%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%96%91%E9%81%AD%E7%9B%9C%E7%94%A8%E8%B3%BCiphone-%E9%87%91%E7%AE%A1%E5%B1%80-%E7%84%A1%E9%A1%8D%E5%A4%96%E8%AA%8D%E8%AD%89%E5%95%86%E6%88%B6%E9%A0%88%E6%89%BF%E6%93%94%E4%BA%A4%E6%98%93%E6%90%8D%E5%A4%B1",
-    "timestamp": "2026-09-14T02:42:45.467Z",
     "strategy": ".content-card__main"
   }
 ];
