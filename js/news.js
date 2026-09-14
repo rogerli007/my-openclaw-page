@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T03:26:04.082Z
+// Last updated: 2026-09-14T03:59:02.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太興優惠｜送$500優惠券！$3換多士/沙嗲雞2串+減$35！14品牌適用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176129097370177536218095.jpeg/G5V1mvyLV2PiPH5LQK3Mq5DrhXL8cfC6_rwsKP68LCg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60389680/%E5%A4%AA%E8%88%88%E5%84%AA%E6%83%A0-%E9%80%81-500%E5%84%AA%E6%83%A0%E5%88%B8-3%E6%8F%9B%E5%A4%9A%E5%A3%AB-%E6%B2%99%E5%97%B2%E9%9B%9E2%E4%B8%B2-%E6%B8%9B-35-14%E5%93%81%E7%89%8C%E9%81%A9%E7%94%A8",
+    "timestamp": "2026-09-14T03:59:02.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "校園天地｜從操控AI機械人和機械狗到足球賽及表演",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176015761701867520152063.png/f_yEbQpHPhmrzpvOLQjAIEFI24KC_xk4fQ6n6X0Op-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389630/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A3%E7%9F%A5%E4%BA%8B%E9%81%B8%E8%88%89-%E4%BF%9D%E5%AE%88%E6%B4%BE%E5%8F%A4%E8%AC%9D%E7%8E%84%E5%A4%AA%E7%95%B6%E9%81%B8",
     "timestamp": "2026-09-13T20:19:45.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水56歲女子疑虐狗　家人大義滅親報警　警垃圾桶尋獲貴婦狗拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389629/%E4%B8%8A%E6%B0%B456%E6%AD%B2%E5%A5%B3%E5%AD%90%E7%96%91%E8%99%90%E7%8B%97-%E5%AE%B6%E4%BA%BA%E5%A4%A7%E7%BE%A9%E6%BB%85%E8%A6%AA%E5%A0%B1%E8%AD%A6-%E8%AD%A6%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%B0%8B%E7%8D%B2%E8%B2%B4%E5%A9%A6%E7%8B%97%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-09-13T19:54:01.198Z",
     "strategy": ".content-card__main"
   }
 ];
