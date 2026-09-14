@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T22:44:25.085Z
+// Last updated: 2026-09-14T22:55:21.692Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "武打巨星被爆曾遭嫌棄　當紅女星直接羞辱：你這種人能配我嗎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176304533802848256895327.png/ETthJZiaFDDkJxzsN9TUdzD47YliFNYD3agh9N2oIfQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60389836/%E6%88%90%E9%BE%8D%E8%A2%AB%E7%88%86%E6%9B%BE%E9%81%AD%E5%AB%8C%E6%A3%84-%E7%95%B6%E7%B4%85%E5%A5%B3%E6%98%9F%E7%9B%B4%E6%8E%A5%E7%BE%9E%E8%BE%B1-%E4%BD%A0%E9%80%99%E7%A8%AE%E4%BA%BA%E8%83%BD%E9%85%8D%E6%88%91%E5%97%8E",
+    "timestamp": "2026-09-14T22:55:21.692Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "武打巨星被爆曾遭嫌棄　當紅女星直接羞辱：你這種人能配我嗎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176282447172603904089254.jpeg/CVX2WWibtBnNJeqjOkRQ8CZgbJmTEergusl1AbrJdQE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389943/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-6%E6%97%AC%E5%A9%A6%E6%96%AC%E6%83%85%E7%B5%B2%E6%88%90%E5%85%A8%E9%96%A8%E5%AF%86%E8%88%87%E7%94%B7%E5%8F%8B-%E8%85%B3%E8%B8%8F%E5%85%A9%E8%88%B9%E5%98%85%E7%94%B7%E4%BA%BA%E5%80%BC%E5%BE%97%E6%A7%8D%E6%96%83",
     "timestamp": "2026-09-14T15:25:15.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳敏之自製AI騎呢露底跳舞片被指「核突」　高EQ回應：玩吓笑吓啫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176288972825956352967425.png/HWVq5lCNcrclD1cG7yycaEumhJ8GCgieqma4kKpmuJA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389945/%E9%99%B3%E6%95%8F%E4%B9%8B%E8%87%AA%E8%A3%BDai%E9%A8%8E%E5%91%A2%E9%9C%B2%E5%BA%95%E8%B7%B3%E8%88%9E%E7%89%87%E8%A2%AB%E6%8C%87-%E6%A0%B8%E7%AA%81-%E9%AB%98eq%E5%9B%9E%E6%87%89-%E7%8E%A9%E5%90%93%E7%AC%91%E5%90%93%E5%95%AB",
-    "timestamp": "2026-09-14T14:54:58.972Z",
     "strategy": ".content-card__main"
   }
 ];
