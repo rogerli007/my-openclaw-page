@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T13:56:50.348Z
+// Last updated: 2026-09-14T14:22:41.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃淑蔓11月TIDES首開個人專場　化身動漫主角邀歌迷Cosplay入場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176254962720575488106458.jpeg/CMcFkbDdhkIw7dxgIyEsf-Csht5qdovqgs8geoLPIHo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389925/%E9%BB%83%E6%B7%91%E8%94%9311%E6%9C%88tides%E9%A6%96%E9%96%8B%E5%80%8B%E4%BA%BA%E5%B0%88%E5%A0%B4-%E5%8C%96%E8%BA%AB%E5%8B%95%E6%BC%AB%E4%B8%BB%E8%A7%92%E9%82%80%E6%AD%8C%E8%BF%B7cosplay%E5%85%A5%E5%A0%B4",
+    "timestamp": "2026-09-14T14:22:41.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘇格蘭威爾斯及北愛首長簽署歷史性備忘錄　揚言西敏寺時代結束",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175149953211699200271609.png/1ZE0Xcp0S8rcbvYiQHeb1LGkCmlszYXxPNYdgjzWHYI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60389088/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97-%E4%BA%95%E6%9F%8F%E7%84%B6%E8%87%AA%E5%B8%B6%E7%A7%81%E6%9C%8D-%E6%8B%86%E8%A7%A3herm%C3%A8s-ysl%E7%AD%89%E5%A5%A2%E8%8F%AF%E7%A9%BF%E6%90%AD%E5%A4%A9%E8%8A%B1%E6%9D%BF",
     "timestamp": "2026-09-14T05:21:46.067Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑安置方案｜特設銷售計劃9.15攪珠有網上直播　下午上載結果",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151495444145246208957640.jpeg/de3P0cxXECAm4sx9eyVYkb5gK1m8AzwxZ7MCVWezAlU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389737/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88-%E7%89%B9%E8%A8%AD%E9%8A%B7%E5%94%AE%E8%A8%88%E5%8A%839-15%E6%94%AA%E7%8F%A0%E6%9C%89%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD-%E4%B8%8B%E5%8D%88%E4%B8%8A%E8%BC%89%E7%B5%90%E6%9E%9C",
-    "timestamp": "2026-09-14T04:48:47.902Z",
     "strategy": ".content-card__main"
   }
 ];
