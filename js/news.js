@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T04:25:05.239Z
+// Last updated: 2026-09-14T04:48:47.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑安置方案｜特設銷售計劃9.15攪珠有網上直播　下午上載結果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151495444145246208957640.jpeg/de3P0cxXECAm4sx9eyVYkb5gK1m8AzwxZ7MCVWezAlU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389737/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88-%E7%89%B9%E8%A8%AD%E9%8A%B7%E5%94%AE%E8%A8%88%E5%8A%839-15%E6%94%AA%E7%8F%A0%E6%9C%89%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD-%E4%B8%8B%E5%8D%88%E4%B8%8A%E8%BC%89%E7%B5%90%E6%9E%9C",
+    "timestamp": "2026-09-14T04:48:47.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雲雀叫天錄劇情｜最新追劇日曆/更新時間+演員關係圖+角色簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176015761701867520152063.png/f_yEbQpHPhmrzpvOLQjAIEFI24KC_xk4fQ6n6X0Op-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389630/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A3%E7%9F%A5%E4%BA%8B%E9%81%B8%E8%88%89-%E4%BF%9D%E5%AE%88%E6%B4%BE%E5%8F%A4%E8%AC%9D%E7%8E%84%E5%A4%AA%E7%95%B6%E9%81%B8",
     "timestamp": "2026-09-13T20:42:55.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本沖繩縣知事選舉　保守派古謝玄太當選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176015761701867520152063.png/f_yEbQpHPhmrzpvOLQjAIEFI24KC_xk4fQ6n6X0Op-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389630/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A3%E7%9F%A5%E4%BA%8B%E9%81%B8%E8%88%89-%E4%BF%9D%E5%AE%88%E6%B4%BE%E5%8F%A4%E8%AC%9D%E7%8E%84%E5%A4%AA%E7%95%B6%E9%81%B8",
-    "timestamp": "2026-09-13T20:31:40.463Z",
     "strategy": ".content-card__main"
   }
 ];
