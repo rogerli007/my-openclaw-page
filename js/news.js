@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T09:58:21.016Z
+// Last updated: 2026-09-14T10:45:41.702Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "HYROX女選手失禁污染賽道　隔天吳建豪同賽場網民急問候：踩到沒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176222719654498304432861.png/N1gbu1A5QF40SZgP1ZwGRd0BzhfJYJmuLx2pFC8dqRQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389880/hyrox%E5%A5%B3%E9%81%B8%E6%89%8B%E5%A4%B1%E7%A6%81%E6%B1%A1%E6%9F%93%E8%B3%BD%E9%81%93-%E9%9A%94%E5%A4%A9%E5%90%B3%E5%BB%BA%E8%B1%AA%E5%90%8C%E8%B3%BD%E5%A0%B4%E7%B6%B2%E6%B0%91%E6%80%A5%E5%95%8F%E5%80%99-%E8%B8%A9%E5%88%B0%E6%B2%92",
+    "timestamp": "2026-09-14T10:45:41.702Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無糖陷阱│無糖手搖越飲越肥？權威機構拆解奶精與配料熱量真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175109036194926592793206.jpeg/g8yrSL9z1NAb0PyLTw7eVRjGK6fWC_DAYhDX3mIQ194?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389117/%E9%9D%9E%E8%BE%B2-%E8%88%87-%E5%B0%8F%E9%9D%9E%E8%BE%B2-%E7%9A%84%E5%90%8C%E8%88%87%E4%B8%8D%E5%90%8C-%E4%BC%8D%E7%A6%AE%E8%B3%A2",
     "timestamp": "2026-09-13T23:54:42.298Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰51歲男深宵全裸潛入魚池性侵錦鯉　涉4罪終落網　揭曾性侵犬隻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175831773104312320106793.png/mXqZZmfvjlmhAnMZOs42hqtiENe-Xd8q26ohLNuqISw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60388742/%E6%B3%B051%E6%AD%B2%E7%94%B7%E6%B7%B1%E5%AE%B5%E5%85%A8%E8%A3%B8%E6%BD%9B%E5%85%A5%E9%AD%9A%E6%B1%A0%E6%80%A7%E4%BE%B5%E9%8C%A6%E9%AF%89-%E6%B6%894%E7%BD%AA%E7%B5%82%E8%90%BD%E7%B6%B2-%E6%8F%AD%E6%9B%BE%E6%80%A7%E4%BE%B5%E7%8A%AC%E9%9A%BB",
-    "timestamp": "2026-09-13T23:41:03.150Z",
     "strategy": ".content-card__main"
   }
 ];
