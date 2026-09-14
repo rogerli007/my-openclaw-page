@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T12:30:39.207Z
+// Last updated: 2026-09-14T12:52:57.193Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro預購｜方保僑：騙徒已掌握個人資料　提防二次詐騙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176222208394006528537260.jpeg/M26m71lVSnrjWo2U-jmNfZRF0s_aKXYwOAUPzjgFD84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389937/iphone-18-pro%E9%A0%90%E8%B3%BC-%E6%96%B9%E4%BF%9D%E5%83%91-%E9%A8%99%E5%BE%92%E5%B7%B2%E6%8E%8C%E6%8F%A1%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99-%E6%8F%90%E9%98%B2%E4%BA%8C%E6%AC%A1%E8%A9%90%E9%A8%99",
+    "timestamp": "2026-09-14T12:52:57.193Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《再次雲畫的月光》隔10年再合體　朴寶劍金裕貞重穿戲服掀回憶殺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176129097370177536218095.jpeg/G5V1mvyLV2PiPH5LQK3Mq5DrhXL8cfC6_rwsKP68LCg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60389680/%E5%A4%AA%E8%88%88%E5%84%AA%E6%83%A0-%E9%80%81-500%E5%84%AA%E6%83%A0%E5%88%B8-3%E6%8F%9B%E5%A4%9A%E5%A3%AB-%E6%B2%99%E5%97%B2%E9%9B%9E2%E4%B8%B2-%E6%B8%9B-35-14%E5%93%81%E7%89%8C%E9%81%A9%E7%94%A8",
     "timestamp": "2026-09-14T03:59:02.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "校園天地｜從操控AI機械人和機械狗到足球賽及表演",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176122004453986304290617.png/9BA66rx3j7zQ8lzxTCEjLNJvDWkd7QLLzvEsJs7xLCY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60389689/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E5%BE%9E%E6%93%8D%E6%8E%A7ai%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%92%8C%E6%A9%9F%E6%A2%B0%E7%8B%97%E5%88%B0%E8%B6%B3%E7%90%83%E8%B3%BD%E5%8F%8A%E8%A1%A8%E6%BC%94",
-    "timestamp": "2026-09-14T03:26:04.082Z",
     "strategy": ".content-card__main"
   }
 ];
