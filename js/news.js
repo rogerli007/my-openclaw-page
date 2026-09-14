@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T07:43:09.632Z
+// Last updated: 2026-09-14T07:59:10.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CHIIKAWA中秋燈會｜9.21啟德AIRSIDE見面！迴旋木馬+兔仔燈籠必睇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163852085108674560159368.jpeg/Iroe5XzVOoNl2XbMZdNQUjYLOB7OM8szOUVezjlFXs4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60389816/chiikawa%E4%B8%AD%E7%A7%8B%E7%87%88%E6%9C%83-9-21%E5%95%9F%E5%BE%B7airside%E8%A6%8B%E9%9D%A2-%E8%BF%B4%E6%97%8B%E6%9C%A8%E9%A6%AC-%E5%85%94%E4%BB%94%E7%87%88%E7%B1%A0%E5%BF%85%E7%9D%87",
+    "timestamp": "2026-09-14T07:59:10.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "903 AllStar籃球賽2026香港｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176048934565711872186570.jpeg/9uMxoYvrxsYMRMslo_HtycgxHZ7jZ6h4GRRepxkUXqc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389621/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E6%9C%80%E9%AB%98%E7%B4%8432%E5%BA%A6",
     "timestamp": "2026-09-13T22:19:58.729Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前英揆約翰遜等歐洲政要列車　離烏途中疑遭俄無人機列攻擊目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176030086529290240542690.png/WVSeatOprtwReGiUOhVoBm9KsRHdqm8CTmXacU5l2nE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389633/%E5%89%8D%E8%8B%B1%E6%8F%86%E7%B4%84%E7%BF%B0%E9%81%9C%E7%AD%89%E6%AD%90%E6%B4%B2%E6%94%BF%E8%A6%81%E5%88%97%E8%BB%8A-%E9%9B%A2%E7%83%8F%E9%80%94%E4%B8%AD%E7%96%91%E9%81%AD%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%88%97%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-09-13T21:41:09.961Z",
     "strategy": ".content-card__main"
   }
 ];
