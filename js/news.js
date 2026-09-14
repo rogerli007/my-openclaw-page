@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T19:40:29.111Z
+// Last updated: 2026-09-14T19:54:02.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國10年期債息突破5%　2023年10月以来首次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2255679/org/51484e92c8807437939455e0bbd1fbf0.jpg/g11VTRjrLBhno4R9Qh8adba7XBw6z9KY3K03FdytNxU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389972/%E7%BE%8E%E5%9C%8B10%E5%B9%B4%E6%9C%9F%E5%82%B5%E6%81%AF%E7%AA%81%E7%A0%B45-2023%E5%B9%B410%E6%9C%88%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1",
+    "timestamp": "2026-09-14T19:54:02.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國10年期債息突破5%　2023年10月以来首次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176247081325563904360185.jpeg/rb3jJ8w0CyXEu9f5wqY7aku6YAvtMAXE7COGFuwjhhY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60388265/%E5%95%86%E5%A0%B4%E8%AE%8A%E9%81%8B%E5%8B%95%E5%A0%B4-%E6%81%92%E5%9C%B0%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%AD%E5%BF%83%E5%A4%A7%E6%90%9E-%E9%81%8B%E5%8B%95%E8%A1%8C%E9%8A%B7-%E5%8A%9B%E8%B0%B7%E4%BA%BA%E6%B5%81%E6%B6%88%E8%B2%BB",
     "timestamp": "2026-09-14T11:33:22.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運｜李思穎棄戰公路專注場地爭金　同時為爭奧運積分備戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176244824840343552167095.jpeg/kAOz1HL8otxKy1cEdohHTxpO_8pHP6aXr7qVIa-6lSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389910/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%9D%8E%E6%80%9D%E7%A9%8E%E6%A3%84%E6%88%B0%E5%85%AC%E8%B7%AF%E5%B0%88%E6%B3%A8%E5%A0%B4%E5%9C%B0%E7%88%AD%E9%87%91-%E5%90%8C%E6%99%82%E7%82%BA%E7%88%AD%E5%A5%A7%E9%81%8B%E7%A9%8D%E5%88%86%E5%82%99%E6%88%B0",
-    "timestamp": "2026-09-14T11:20:08.512Z",
     "strategy": ".content-card__main"
   }
 ];
