@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-13T23:54:42.298Z
+// Last updated: 2026-09-14T01:37:50.296Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普重申支持愛爾蘭統一　無視英國不滿及反對",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175989340296187904623074.jpeg/5JfqLga2vKvqPvIqLZaSjoHjbAHF_nctdJeCyXSXgsk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389651/%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E6%94%AF%E6%8C%81%E6%84%9B%E7%88%BE%E8%98%AD%E7%B5%B1%E4%B8%80-%E7%84%A1%E8%A6%96%E8%8B%B1%E5%9C%8B%E4%B8%8D%E6%BB%BF%E5%8F%8A%E5%8F%8D%E5%B0%8D",
+    "timestamp": "2026-09-14T01:37:50.296Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「非農」與「小非農」的同與不同｜伍禮賢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175989340296187904623074.jpeg/5JfqLga2vKvqPvIqLZaSjoHjbAHF_nctdJeCyXSXgsk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389623/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E9%97%9C%E4%BF%82%E5%BE%88%E5%A5%BD-%E4%B8%8D%E6%93%94%E5%BF%83%E5%B0%8D%E6%96%B9%E6%88%96%E5%8F%96%E6%B6%88%E8%A8%AA%E7%BE%8E",
     "timestamp": "2026-09-13T18:43:21.123Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅淑佩自費看Jeffrey主演《浪花男女》 讚郊野背景電影如旅遊大使",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175989089758351360359710.jpeg/w6Ogr97XHPO9nmrU4WJwuCCOmnM0JTZyZJuLYmSbi2I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389624/%E7%BE%85%E6%B7%91%E4%BD%A9%E8%87%AA%E8%B2%BB%E7%9C%8Bjeffrey%E4%B8%BB%E6%BC%94-%E6%B5%AA%E8%8A%B1%E7%94%B7%E5%A5%B3-%E8%AE%9A%E9%83%8A%E9%87%8E%E8%83%8C%E6%99%AF%E9%9B%BB%E5%BD%B1%E5%A6%82%E6%97%85%E9%81%8A%E5%A4%A7%E4%BD%BF",
-    "timestamp": "2026-09-13T18:21:48.474Z",
     "strategy": ".content-card__main"
   }
 ];
