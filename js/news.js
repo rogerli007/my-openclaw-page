@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T23:28:14.030Z
+// Last updated: 2026-09-14T23:54:31.650Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗稱有油輪觸雷後爆炸起火　美軍指散布謊言圖阻商船通行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176399313128001536684590.jpeg/-yrIDzxdS_2-m3io4Lw6DHwVuMd6NXXJzcciu83HIrs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389980/%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%9C%89%E6%B2%B9%E8%BC%AA%E8%A7%B8%E9%9B%B7%E5%BE%8C%E7%88%86%E7%82%B8%E8%B5%B7%E7%81%AB-%E7%BE%8E%E8%BB%8D%E6%8C%87%E6%95%A3%E5%B8%83%E8%AC%8A%E8%A8%80%E5%9C%96%E9%98%BB%E5%95%86%E8%88%B9%E9%80%9A%E8%A1%8C",
+    "timestamp": "2026-09-14T23:54:31.650Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "多倫多163cm華美女嫁122cm侏儒男　無懼網民惡言　最萌身高差惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176186860720885760614839.jpeg/FglMMdbBr3TNPv4w860w4aKm4VkA0hb7-SJLLNwiSyw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60389352/%E9%A6%99%E6%B8%AF%E7%99%BE%E5%B9%B4%E6%80%A7%E5%B7%A5%E4%BD%9C%E5%8F%B2%E5%B1%95%E8%A6%BD%E5%85%8D%E8%B2%BB%E5%8F%83%E8%A7%80-19%E4%BD%8D%E5%BE%9E%E6%A5%AD%E5%93%A1%E8%BF%B0%E8%AA%AA%E5%BF%83%E8%81%B2-%E5%86%80%E6%89%93%E7%A0%B4%E5%81%8F%E8%A6%8B",
     "timestamp": "2026-09-14T16:21:15.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東涌公屋地盤石屎未達標　混凝土供應商永輝車輛如常出入地盤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176309355310485504495286.jpeg/YTn30emfajQB8hJ739Y0uezXxNh1pjWorRMIxq0TCMY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389947/%E6%9D%B1%E6%B6%8C%E5%85%AC%E5%B1%8B%E5%9C%B0%E7%9B%A4%E7%9F%B3%E5%B1%8E%E6%9C%AA%E9%81%94%E6%A8%99-%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%BE%9B%E6%87%89%E5%95%86%E6%B0%B8%E8%BC%9D%E8%BB%8A%E8%BC%9B%E5%A6%82%E5%B8%B8%E5%87%BA%E5%85%A5%E5%9C%B0%E7%9B%A4",
-    "timestamp": "2026-09-14T15:53:50.199Z",
     "strategy": ".content-card__main"
   }
 ];
