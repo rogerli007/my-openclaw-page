@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T16:21:15.999Z
+// Last updated: 2026-09-14T16:54:13.947Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山街頭聚集惹疑　2內地青年被警搜出他人iPhone、銀行卡被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240811/899226505236713472061574.jpeg/_1-NlCfYrN0RdYm7pg430Lcw13hx4gZx2yKfP9sinz8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389968/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%A1%97%E9%A0%AD%E8%81%9A%E9%9B%86%E6%83%B9%E7%96%91-2%E5%85%A7%E5%9C%B0%E9%9D%92%E5%B9%B4%E8%A2%AB%E8%AD%A6%E6%90%9C%E5%87%BA%E4%BB%96%E4%BA%BAiphone-%E9%8A%80%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-14T16:54:13.947Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港百年性工作史展覽免費參觀　19位從業員述說心聲　冀打破偏見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176187374871252992876201.jpeg/RIJEf81fPgaMRVYCibZD7hZiEzFIEI7bCN3rVAjd61Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389771/%E4%B8%AD%E5%9C%8B%E6%8B%B3%E6%89%8B%E6%BE%B3%E6%B4%B2%E5%8F%83%E8%B3%BD%E8%A2%AB%E5%B0%8D%E6%89%8B%E7%95%B6%E7%9C%BE%E7%A8%AE%E6%97%8F%E6%AD%A7%E8%A6%96-%E8%8F%AF%E4%BA%BA%E5%9C%98%E9%AB%94%E7%A4%BA%E7%AF%84%E6%95%99%E7%A7%91%E6%9B%B8%E5%BC%8F%E7%B6%AD%E6%AC%8A",
     "timestamp": "2026-09-14T08:51:55.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國拳手澳洲參賽被對手當眾種族歧視　華人團體示範教科書式維權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176187374871252992876201.jpeg/RIJEf81fPgaMRVYCibZD7hZiEzFIEI7bCN3rVAjd61Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389771/%E4%B8%AD%E5%9C%8B%E6%8B%B3%E6%89%8B%E6%BE%B3%E6%B4%B2%E5%8F%83%E8%B3%BD%E8%A2%AB%E5%B0%8D%E6%89%8B%E7%95%B6%E7%9C%BE%E7%A8%AE%E6%97%8F%E6%AD%A7%E8%A6%96-%E8%8F%AF%E4%BA%BA%E5%9C%98%E9%AB%94%E7%A4%BA%E7%AF%84%E6%95%99%E7%A7%91%E6%9B%B8%E5%BC%8F%E7%B6%AD%E6%AC%8A",
-    "timestamp": "2026-09-14T08:31:30.530Z",
     "strategy": ".content-card__main"
   }
 ];
