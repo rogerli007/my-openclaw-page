@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T01:37:50.296Z
+// Last updated: 2026-09-14T02:04:51.174Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "團結香港基金｜香港郵政何去何從（下）：財政「包底」不可或缺？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174662127424638976827164.jpeg/-cXbJr4URSxWGHoLwT8iMce9ZcTK8yrcw6u3o8Ort6M?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60388409/%E5%9C%98%E7%B5%90%E9%A6%99%E6%B8%AF%E5%9F%BA%E9%87%91-%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF%E4%BD%95%E5%8E%BB%E4%BD%95%E5%BE%9E-%E4%B8%8B-%E8%B2%A1%E6%94%BF-%E5%8C%85%E5%BA%95-%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA",
+    "timestamp": "2026-09-14T02:04:51.174Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普重申支持愛爾蘭統一　無視英國不滿及反對",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175997365065093120834695.jpeg/hw0b_weFBzaTETa-rs-RVzerDSXWWkfkPZYW9D2WFvQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389627/%E6%97%BA%E8%A7%92%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E6%92%9E10%E6%AD%B2%E7%AB%A5%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E5%85%A7%E5%9C%B0%E7%94%B7%E9%A8%8E%E6%89%8B%E6%B6%89%E5%8D%B1%E9%A7%95%E7%AD%896%E7%BD%AA%E4%BB%8A%E6%8F%90%E5%A0%82",
     "timestamp": "2026-09-13T18:54:03.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：與習近平關係很好　不擔心對方或取消訪美",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1175989340296187904623074.jpeg/5JfqLga2vKvqPvIqLZaSjoHjbAHF_nctdJeCyXSXgsk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389623/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E9%97%9C%E4%BF%82%E5%BE%88%E5%A5%BD-%E4%B8%8D%E6%93%94%E5%BF%83%E5%B0%8D%E6%96%B9%E6%88%96%E5%8F%96%E6%B6%88%E8%A8%AA%E7%BE%8E",
-    "timestamp": "2026-09-13T18:43:21.123Z",
     "strategy": ".content-card__main"
   }
 ];
