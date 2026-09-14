@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T02:59:20.114Z
+// Last updated: 2026-09-14T03:26:04.082Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "校園天地｜從操控AI機械人和機械狗到足球賽及表演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176122004453986304290617.png/9BA66rx3j7zQ8lzxTCEjLNJvDWkd7QLLzvEsJs7xLCY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60389689/%E6%A0%A1%E5%9C%92%E5%A4%A9%E5%9C%B0-%E5%BE%9E%E6%93%8D%E6%8E%A7ai%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%92%8C%E6%A9%9F%E6%A2%B0%E7%8B%97%E5%88%B0%E8%B6%B3%E7%90%83%E8%B3%BD%E5%8F%8A%E8%A1%A8%E6%BC%94",
+    "timestamp": "2026-09-14T03:26:04.082Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周末新盤跌近三成錄193宗　映匯沽136伙　啟德海灣4伙吸金逾4千萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389629/%E4%B8%8A%E6%B0%B456%E6%AD%B2%E5%A5%B3%E5%AD%90%E7%96%91%E8%99%90%E7%8B%97-%E5%AE%B6%E4%BA%BA%E5%A4%A7%E7%BE%A9%E6%BB%85%E8%A6%AA%E5%A0%B1%E8%AD%A6-%E8%AD%A6%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%B0%8B%E7%8D%B2%E8%B2%B4%E5%A9%A6%E7%8B%97%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-09-13T19:54:01.198Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水56歲女子疑虐狗　家人大義滅親報警　警垃圾桶尋獲貴婦狗拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172434029723521024198064.jpeg/n3rWPeb8peOW7e7n2J8fHBZ_f9mUerjrOTw_GQM8Pxk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389629/%E4%B8%8A%E6%B0%B456%E6%AD%B2%E5%A5%B3%E5%AD%90%E7%96%91%E8%99%90%E7%8B%97-%E5%AE%B6%E4%BA%BA%E5%A4%A7%E7%BE%A9%E6%BB%85%E8%A6%AA%E5%A0%B1%E8%AD%A6-%E8%AD%A6%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%B0%8B%E7%8D%B2%E8%B2%B4%E5%A9%A6%E7%8B%97%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-09-13T19:41:23.813Z",
     "strategy": ".content-card__main"
   }
 ];
