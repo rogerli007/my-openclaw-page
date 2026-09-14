@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T21:43:53.968Z
+// Last updated: 2026-09-14T22:32:07.691Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "武打巨星被爆曾遭嫌棄　當紅女星直接羞辱：你這種人能配我嗎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176304533802848256895327.png/ETthJZiaFDDkJxzsN9TUdzD47YliFNYD3agh9N2oIfQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60389836/%E6%88%90%E9%BE%8D%E8%A2%AB%E7%88%86%E6%9B%BE%E9%81%AD%E5%AB%8C%E6%A3%84-%E7%95%B6%E7%B4%85%E5%A5%B3%E6%98%9F%E7%9B%B4%E6%8E%A5%E7%BE%9E%E8%BE%B1-%E4%BD%A0%E9%80%99%E7%A8%AE%E4%BA%BA%E8%83%BD%E9%85%8D%E6%88%91%E5%97%8E",
+    "timestamp": "2026-09-14T22:32:07.691Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜列斯聯4：1勝紐卡素　升上第三位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176254962720575488106458.jpeg/CMcFkbDdhkIw7dxgIyEsf-Csht5qdovqgs8geoLPIHo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389925/%E9%BB%83%E6%B7%91%E8%94%9311%E6%9C%88tides%E9%A6%96%E9%96%8B%E5%80%8B%E4%BA%BA%E5%B0%88%E5%A0%B4-%E5%8C%96%E8%BA%AB%E5%8B%95%E6%BC%AB%E4%B8%BB%E8%A7%92%E9%82%80%E6%AD%8C%E8%BF%B7cosplay%E5%85%A5%E5%A0%B4",
     "timestamp": "2026-09-14T14:22:41.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘇格蘭威爾斯及北愛首長簽署歷史性備忘錄　揚言西敏寺時代結束",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176166675297341440812356.jpeg/jwdT9DeG1pXzrE1Z3jytD8469oXsmYDrA1tengNbXp4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389941/%E8%98%87%E6%A0%BC%E8%98%AD%E5%A8%81%E7%88%BE%E6%96%AF%E5%8F%8A%E5%8C%97%E6%84%9B%E9%A6%96%E9%95%B7%E7%B0%BD%E7%BD%B2%E6%AD%B7%E5%8F%B2%E6%80%A7%E5%82%99%E5%BF%98%E9%8C%84-%E6%8F%9A%E8%A8%80%E8%A5%BF%E6%95%8F%E5%AF%BA%E6%99%82%E4%BB%A3%E7%B5%90%E6%9D%9F",
-    "timestamp": "2026-09-14T13:56:50.348Z",
     "strategy": ".content-card__main"
   }
 ];
