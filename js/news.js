@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T03:59:02.213Z
+// Last updated: 2026-09-14T04:25:05.239Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雲雀叫天錄劇情｜最新追劇日曆/更新時間+演員關係圖+角色簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175099984987557888809274.jpeg/V8ar7JDHy8esA-sqs3BtZRSQMzVNBKta_-Bd0__gXdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389125/%E9%9B%B2%E9%9B%80%E5%8F%AB%E5%A4%A9%E9%8C%84%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-09-14T04:25:05.239Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太興優惠｜送$500優惠券！$3換多士/沙嗲雞2串+減$35！14品牌適用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176015761701867520152063.png/f_yEbQpHPhmrzpvOLQjAIEFI24KC_xk4fQ6n6X0Op-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389630/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A3%E7%9F%A5%E4%BA%8B%E9%81%B8%E8%88%89-%E4%BF%9D%E5%AE%88%E6%B4%BE%E5%8F%A4%E8%AC%9D%E7%8E%84%E5%A4%AA%E7%95%B6%E9%81%B8",
     "timestamp": "2026-09-13T20:31:40.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本沖繩縣知事選舉　保守派古謝玄太當選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176015761701867520152063.png/f_yEbQpHPhmrzpvOLQjAIEFI24KC_xk4fQ6n6X0Op-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389630/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A3%E7%9F%A5%E4%BA%8B%E9%81%B8%E8%88%89-%E4%BF%9D%E5%AE%88%E6%B4%BE%E5%8F%A4%E8%AC%9D%E7%8E%84%E5%A4%AA%E7%95%B6%E9%81%B8",
-    "timestamp": "2026-09-13T20:19:45.867Z",
     "strategy": ".content-card__main"
   }
 ];
