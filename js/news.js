@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T15:43:47.370Z
+// Last updated: 2026-09-14T15:53:50.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌公屋地盤石屎未達標　混凝土供應商永輝車輛如常出入地盤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176309355310485504495286.jpeg/YTn30emfajQB8hJ739Y0uezXxNh1pjWorRMIxq0TCMY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389947/%E6%9D%B1%E6%B6%8C%E5%85%AC%E5%B1%8B%E5%9C%B0%E7%9B%A4%E7%9F%B3%E5%B1%8E%E6%9C%AA%E9%81%94%E6%A8%99-%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%BE%9B%E6%87%89%E5%95%86%E6%B0%B8%E8%BC%9D%E8%BB%8A%E8%BC%9B%E5%A6%82%E5%B8%B8%E5%87%BA%E5%85%A5%E5%9C%B0%E7%9B%A4",
+    "timestamp": "2026-09-14T15:53:50.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯入境處深水埗掃黃　拘18名內地女涉違反逗留條件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163852085108674560159368.jpeg/Iroe5XzVOoNl2XbMZdNQUjYLOB7OM8szOUVezjlFXs4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60389816/chiikawa%E4%B8%AD%E7%A7%8B%E7%87%88%E6%9C%83-9-21%E5%95%9F%E5%BE%B7airside%E8%A6%8B%E9%9D%A2-%E8%BF%B4%E6%97%8B%E6%9C%A8%E9%A6%AC-%E5%85%94%E4%BB%94%E7%87%88%E7%B1%A0%E5%BF%85%E7%9D%87",
     "timestamp": "2026-09-14T07:59:10.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "903 AllStar籃球賽2026香港｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176190431159914496459270.jpeg/6VJqQ2M8c4mRgMmDHdzE-tU4sH_7G1iRPlzhWz5c4Vs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389807/903-allstar%E7%B1%83%E7%90%83%E8%B3%BD2026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-09-14T07:43:09.632Z",
     "strategy": ".content-card__main"
   }
 ];
