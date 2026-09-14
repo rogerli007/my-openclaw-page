@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T07:59:10.847Z
+// Last updated: 2026-09-14T08:31:30.530Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國拳手澳洲參賽被對手當眾種族歧視　華人團體示範教科書式維權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176187374871252992876201.jpeg/RIJEf81fPgaMRVYCibZD7hZiEzFIEI7bCN3rVAjd61Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389771/%E4%B8%AD%E5%9C%8B%E6%8B%B3%E6%89%8B%E6%BE%B3%E6%B4%B2%E5%8F%83%E8%B3%BD%E8%A2%AB%E5%B0%8D%E6%89%8B%E7%95%B6%E7%9C%BE%E7%A8%AE%E6%97%8F%E6%AD%A7%E8%A6%96-%E8%8F%AF%E4%BA%BA%E5%9C%98%E9%AB%94%E7%A4%BA%E7%AF%84%E6%95%99%E7%A7%91%E6%9B%B8%E5%BC%8F%E7%B6%AD%E6%AC%8A",
+    "timestamp": "2026-09-14T08:31:30.530Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "CHIIKAWA中秋燈會｜9.21啟德AIRSIDE見面！迴旋木馬+兔仔燈籠必睇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175841332061540352765098.jpeg/fkFyZ7IgKmh83SB93ydPQvUBqPcXEi6rqEyueKhMrng",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389506/%E5%BC%B5%E5%95%9F%E6%A8%82%E6%84%9F%E6%BF%80%E6%B1%9F%E7%BE%8E%E5%84%80%E6%8F%90%E6%94%9C%E8%B5%B0%E9%81%8E%E4%BA%BA%E7%94%9F%E4%BD%8E%E8%B0%B7-%E9%9B%A3%E5%BF%98%E5%B8%B8%E5%B9%AB%E5%B0%8D%E6%96%B9%E8%B2%B7m%E5%B7%BE",
     "timestamp": "2026-09-13T22:47:01.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日早晚有幾陣驟雨　日間炎熱最高約32度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176048934565711872186570.jpeg/9uMxoYvrxsYMRMslo_HtycgxHZ7jZ6h4GRRepxkUXqc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60389621/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E6%9C%80%E9%AB%98%E7%B4%8432%E5%BA%A6",
-    "timestamp": "2026-09-13T22:19:58.729Z",
     "strategy": ".content-card__main"
   }
 ];
