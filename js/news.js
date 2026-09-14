@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T22:55:21.692Z
+// Last updated: 2026-09-14T23:17:37.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告前瞻｜單位愈建愈細躺平何罪　北都能否破局實現住大啲？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176304484905652224564903.jpeg/j7Nb6us6v3wwkQd2V45-vzq3AmCa6W_lSSQahUkkGoU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389273/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E5%89%8D%E7%9E%BB-%E5%96%AE%E4%BD%8D%E6%84%88%E5%BB%BA%E6%84%88%E7%B4%B0%E8%BA%BA%E5%B9%B3%E4%BD%95%E7%BD%AA-%E5%8C%97%E9%83%BD%E8%83%BD%E5%90%A6%E7%A0%B4%E5%B1%80%E5%AF%A6%E7%8F%BE%E4%BD%8F%E5%A4%A7%E5%95%B2",
+    "timestamp": "2026-09-14T23:17:37.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "武打巨星被爆曾遭嫌棄　當紅女星直接羞辱：你這種人能配我嗎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176312903888801792072368.jpeg/74kajVYVE-auffNnwLVwarwOv3LTyos4App5qAKaeag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389960/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%8E%83%E9%BB%83-%E6%8B%9818%E5%90%8D%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%B6%89%E9%81%95%E5%8F%8D%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6",
     "timestamp": "2026-09-14T15:43:47.370Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜6旬婦斬情絲成全閨密與男友：腳踏兩船嘅男人值得槍斃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176282447172603904089254.jpeg/CVX2WWibtBnNJeqjOkRQ8CZgbJmTEergusl1AbrJdQE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389943/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-6%E6%97%AC%E5%A9%A6%E6%96%AC%E6%83%85%E7%B5%B2%E6%88%90%E5%85%A8%E9%96%A8%E5%AF%86%E8%88%87%E7%94%B7%E5%8F%8B-%E8%85%B3%E8%B8%8F%E5%85%A9%E8%88%B9%E5%98%85%E7%94%B7%E4%BA%BA%E5%80%BC%E5%BE%97%E6%A7%8D%E6%96%83",
-    "timestamp": "2026-09-14T15:25:15.881Z",
     "strategy": ".content-card__main"
   }
 ];
