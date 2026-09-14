@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T05:53:59.552Z
+// Last updated: 2026-09-14T07:43:09.632Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "903 AllStar籃球賽2026香港｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176190431159914496459270.jpeg/6VJqQ2M8c4mRgMmDHdzE-tU4sH_7G1iRPlzhWz5c4Vs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389807/903-allstar%E7%B1%83%E7%90%83%E8%B3%BD2026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-09-14T07:43:09.632Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告前瞻｜有報道指擬再推鼓勵生育組合拳　不與星洲鬥派錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176030086529290240542690.png/WVSeatOprtwReGiUOhVoBm9KsRHdqm8CTmXacU5l2nE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389633/%E5%89%8D%E8%8B%B1%E6%8F%86%E7%B4%84%E7%BF%B0%E9%81%9C%E7%AD%89%E6%AD%90%E6%B4%B2%E6%94%BF%E8%A6%81%E5%88%97%E8%BB%8A-%E9%9B%A2%E7%83%8F%E9%80%94%E4%B8%AD%E7%96%91%E9%81%AD%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%88%97%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-09-13T21:41:09.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前英揆約翰遜等歐洲政要列車　離烏途中疑遭俄無人機列攻擊目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176030086529290240542690.png/WVSeatOprtwReGiUOhVoBm9KsRHdqm8CTmXacU5l2nE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389633/%E5%89%8D%E8%8B%B1%E6%8F%86%E7%B4%84%E7%BF%B0%E9%81%9C%E7%AD%89%E6%AD%90%E6%B4%B2%E6%94%BF%E8%A6%81%E5%88%97%E8%BB%8A-%E9%9B%A2%E7%83%8F%E9%80%94%E4%B8%AD%E7%96%91%E9%81%AD%E4%BF%84%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%88%97%E6%94%BB%E6%93%8A%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-09-13T21:28:32.200Z",
     "strategy": ".content-card__main"
   }
 ];
