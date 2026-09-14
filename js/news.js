@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T12:52:57.193Z
+// Last updated: 2026-09-14T13:21:39.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026加州買車必讀：首購補貼+9520萬美元撥款　附申請資格與車款",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175529488390295552643127.png/1q0q-nVYCCMN4-osOO4dZ6cnXiGa3SuWcxAnUXMQJ1E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382313/2026%E5%8A%A0%E5%B7%9E%E8%B2%B7%E8%BB%8A%E5%BF%85%E8%AE%80-%E9%A6%96%E8%B3%BC%E8%A3%9C%E8%B2%BC-9520%E8%90%AC%E7%BE%8E%E5%85%83%E6%92%A5%E6%AC%BE-%E9%99%84%E7%94%B3%E8%AB%8B%E8%B3%87%E6%A0%BC%E8%88%87%E8%BB%8A%E6%AC%BE",
+    "timestamp": "2026-09-14T13:21:39.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18 Pro預購｜方保僑：騙徒已掌握個人資料　提防二次詐騙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175099984987557888809274.jpeg/V8ar7JDHy8esA-sqs3BtZRSQMzVNBKta_-Bd0__gXdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389125/%E9%9B%B2%E9%9B%80%E5%8F%AB%E5%A4%A9%E9%8C%84%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-09-14T04:25:05.239Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太興優惠｜送$500優惠券！$3換多士/沙嗲雞2串+減$35！14品牌適用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176129097370177536218095.jpeg/G5V1mvyLV2PiPH5LQK3Mq5DrhXL8cfC6_rwsKP68LCg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60389680/%E5%A4%AA%E8%88%88%E5%84%AA%E6%83%A0-%E9%80%81-500%E5%84%AA%E6%83%A0%E5%88%B8-3%E6%8F%9B%E5%A4%9A%E5%A3%AB-%E6%B2%99%E5%97%B2%E9%9B%9E2%E4%B8%B2-%E6%B8%9B-35-14%E5%93%81%E7%89%8C%E9%81%A9%E7%94%A8",
-    "timestamp": "2026-09-14T03:59:02.213Z",
     "strategy": ".content-card__main"
   }
 ];
