@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T20:54:36.300Z
+// Last updated: 2026-09-14T21:17:22.508Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜列斯聯4：1勝紐卡素　升上第三位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176395499306225664179052.jpeg/QqJvdZWaBhEKuqxAXO0hkSpjPVDigdBI4jkFROI5BUQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389984/%E8%8B%B1%E8%B6%85-%E5%88%97%E6%96%AF%E8%81%AF4-1%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%87%E4%B8%8A%E7%AC%AC%E4%B8%89%E4%BD%8D",
+    "timestamp": "2026-09-14T21:17:22.508Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：高市早苗16日調整自民黨人事　17日改組內閣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176222208394006528537260.jpeg/M26m71lVSnrjWo2U-jmNfZRF0s_aKXYwOAUPzjgFD84?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389937/iphone-18-pro%E9%A0%90%E8%B3%BC-%E6%96%B9%E4%BF%9D%E5%83%91-%E9%A8%99%E5%BE%92%E5%B7%B2%E6%8E%8C%E6%8F%A1%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99-%E6%8F%90%E9%98%B2%E4%BA%8C%E6%AC%A1%E8%A9%90%E9%A8%99",
     "timestamp": "2026-09-14T12:52:57.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《再次雲畫的月光》隔10年再合體　朴寶劍金裕貞重穿戲服掀回憶殺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176212907134816256460127.jpeg/UQ-IDVXEPZsX89rs8DOiDEDe03qAlhfs0WDdidFg3Yk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389849/%E5%86%8D%E6%AC%A1%E9%9B%B2%E7%95%AB%E7%9A%84%E6%9C%88%E5%85%89-%E9%9A%9410%E5%B9%B4%E5%86%8D%E5%90%88%E9%AB%94-%E6%9C%B4%E5%AF%B6%E5%8A%8D%E9%87%91%E8%A3%95%E8%B2%9E%E9%87%8D%E7%A9%BF%E6%88%B2%E6%9C%8D%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA",
-    "timestamp": "2026-09-14T12:30:39.207Z",
     "strategy": ".content-card__main"
   }
 ];
