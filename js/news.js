@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-14T23:17:37.657Z
+// Last updated: 2026-09-14T23:28:14.030Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "多倫多163cm華美女嫁122cm侏儒男　無懼網民惡言　最萌身高差惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175875571465326592275901.png/eCVDe8P5b5d4MVRqEE6Iwn1gUdH9lPfgvTd4b703eG8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384077/%E5%A4%9A%E5%80%AB%E5%A4%9A163cm%E8%8F%AF%E7%BE%8E%E5%A5%B3%E5%AB%81122cm%E4%BE%8F%E5%84%92%E7%94%B7-%E7%84%A1%E6%87%BC%E7%B6%B2%E6%B0%91%E6%83%A1%E8%A8%80-%E6%9C%80%E8%90%8C%E8%BA%AB%E9%AB%98%E5%B7%AE%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-09-14T23:28:14.030Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告前瞻｜單位愈建愈細躺平何罪　北都能否破局實現住大啲？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176309355310485504495286.jpeg/YTn30emfajQB8hJ739Y0uezXxNh1pjWorRMIxq0TCMY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389947/%E6%9D%B1%E6%B6%8C%E5%85%AC%E5%B1%8B%E5%9C%B0%E7%9B%A4%E7%9F%B3%E5%B1%8E%E6%9C%AA%E9%81%94%E6%A8%99-%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%BE%9B%E6%87%89%E5%95%86%E6%B0%B8%E8%BC%9D%E8%BB%8A%E8%BC%9B%E5%A6%82%E5%B8%B8%E5%87%BA%E5%85%A5%E5%9C%B0%E7%9B%A4",
     "timestamp": "2026-09-14T15:53:50.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯入境處深水埗掃黃　拘18名內地女涉違反逗留條件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176312903888801792072368.jpeg/74kajVYVE-auffNnwLVwarwOv3LTyos4App5qAKaeag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389960/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%8E%83%E9%BB%83-%E6%8B%9818%E5%90%8D%E5%85%A7%E5%9C%B0%E5%A5%B3%E6%B6%89%E9%81%95%E5%8F%8D%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6",
-    "timestamp": "2026-09-14T15:43:47.370Z",
     "strategy": ".content-card__main"
   }
 ];
