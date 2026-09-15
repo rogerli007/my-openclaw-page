@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T13:21:06.862Z
+// Last updated: 2026-09-15T13:54:11.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚耀文登葉念琛網台剖白演藝心路　揭《野獸刑警》殺張耀揚真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176590545284239360063278.jpeg/E-nlDrM7gnkkY_wTOP8d78Nuft7eA-LF-IeOAfiHjgE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390265/%E8%AD%9A%E8%80%80%E6%96%87%E7%99%BB%E8%91%89%E5%BF%B5%E7%90%9B%E7%B6%B2%E5%8F%B0%E5%89%96%E7%99%BD%E6%BC%94%E8%97%9D%E5%BF%83%E8%B7%AF-%E6%8F%AD-%E9%87%8E%E7%8D%B8%E5%88%91%E8%AD%A6-%E6%AE%BA%E5%BC%B5%E8%80%80%E6%8F%9A%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-09-15T13:54:11.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Marf東京出席品牌活動　與Rosé@BLACKPINK同場：佢可愛中帶點辣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3266570/org/2933360c358b36adb679f188f33ae5f4.jpg/weqmmzez1FwZnWIIwPEZv0EqPB182wdwR_rwJEf68CQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390092/%E7%BE%8E%E5%9C%8B%E9%99%90%E5%88%B6%E7%95%99%E5%AD%B8%E7%94%9F%E5%8F%8A%E8%A8%98%E8%80%85%E5%81%9C%E7%95%99%E6%9C%9F%E9%99%90%E6%96%B0%E8%A6%8F%E5%AF%A6%E6%96%BD%E5%9C%A8%E5%8D%B3-%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E4%B8%8B%E4%BB%A4%E5%8F%AB%E5%81%9C",
     "timestamp": "2026-09-15T04:46:44.198Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旅遊飲食界9.19-9.20嘉年華派嘉美雞　即睇送機票、跨境車票詳情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176492751072530432643950.png/epb2uL--iMI7B-cAW8U5SX_czyIH41HhFP_NohT_zaI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390063/%E6%97%85%E9%81%8A%E9%A3%B2%E9%A3%9F%E7%95%8C9-19-9-20%E5%98%89%E5%B9%B4%E8%8F%AF%E6%B4%BE%E5%98%89%E7%BE%8E%E9%9B%9E-%E5%8D%B3%E7%9D%87%E9%80%81%E6%A9%9F%E7%A5%A8-%E8%B7%A8%E5%A2%83%E8%BB%8A%E7%A5%A8%E8%A9%B3%E6%83%85",
-    "timestamp": "2026-09-15T03:56:38.074Z",
     "strategy": ".content-card__main"
   }
 ];
