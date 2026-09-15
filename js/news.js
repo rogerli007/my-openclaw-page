@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T05:55:57.219Z
+// Last updated: 2026-09-15T06:33:09.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "共同社：今年停辦「東京·中國電影週」　或與中日關係惡化有關",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251117/1067144472623583232683497.jpeg/AljUr4ngWGUxKyf2jlA_eko62SSvLz2whCFDv4QhQ78?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390140/%E5%85%B1%E5%90%8C%E7%A4%BE-%E4%BB%8A%E5%B9%B4%E5%81%9C%E8%BE%A6-%E6%9D%B1%E4%BA%AC-%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%BD%B1%E9%80%B1-%E6%88%96%E8%88%87%E4%B8%AD%E6%97%A5%E9%97%9C%E4%BF%82%E6%83%A1%E5%8C%96%E6%9C%89%E9%97%9C",
+    "timestamp": "2026-09-15T06:33:09.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告消息｜有指維園網球場或重建用途不止於網球　增觀眾座位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176304533802848256895327.png/ETthJZiaFDDkJxzsN9TUdzD47YliFNYD3agh9N2oIfQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60389836/%E6%88%90%E9%BE%8D%E8%A2%AB%E7%88%86%E6%9B%BE%E9%81%AD%E5%AB%8C%E6%A3%84-%E7%95%B6%E7%B4%85%E5%A5%B3%E6%98%9F%E7%9B%B4%E6%8E%A5%E7%BE%9E%E8%BE%B1-%E4%BD%A0%E9%80%99%E7%A8%AE%E4%BA%BA%E8%83%BD%E9%85%8D%E6%88%91%E5%97%8E",
     "timestamp": "2026-09-14T22:32:07.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜列斯聯4：1勝紐卡素　升上第三位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176395499306225664179052.jpeg/QqJvdZWaBhEKuqxAXO0hkSpjPVDigdBI4jkFROI5BUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389984/%E8%8B%B1%E8%B6%85-%E5%88%97%E6%96%AF%E8%81%AF4-1%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%87%E4%B8%8A%E7%AC%AC%E4%B8%89%E4%BD%8D",
-    "timestamp": "2026-09-14T21:43:53.968Z",
     "strategy": ".content-card__main"
   }
 ];
