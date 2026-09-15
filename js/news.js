@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T15:54:54.121Z
+// Last updated: 2026-09-15T16:21:04.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "許廷鏗去年經歷事業迷茫期　放慢腳步沉澱尋找新養分重新出發",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176666898020962304389602.jpeg/bAphgrkDpr0pffnkhSanykkrJzOpYX_3pWCogKVgqIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390337/%E8%A8%B1%E5%BB%B7%E9%8F%97%E5%8E%BB%E5%B9%B4%E7%B6%93%E6%AD%B7%E4%BA%8B%E6%A5%AD%E8%BF%B7%E8%8C%AB%E6%9C%9F-%E6%94%BE%E6%85%A2%E8%85%B3%E6%AD%A5%E6%B2%89%E6%BE%B1%E5%B0%8B%E6%89%BE%E6%96%B0%E9%A4%8A%E5%88%86%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC",
+    "timestamp": "2026-09-15T16:21:04.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許廷鏗去年經歷事業迷茫期　放慢腳步沉澱尋找新養分重新出發",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176556669547581440095167.jpeg/kEcu5VFaLdJ7lGtRZobtjxzhWZieLV6p9rY8_fa2PP0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390189/%E6%9C%B4%E7%8F%8D%E6%A6%AE%E6%BC%94%E5%94%B1%E6%9C%832027%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-09-15T07:55:26.741Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "威士忌酒瓶藏3kg毒液！23歲台女涉走私依托咪酯日本羽田機場落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176555478516240384783496.png/aOn0HqNHb1CitMOPb887JVGbzX2ClsXHkDHGbZAxxm0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60390190/%E5%A8%81%E5%A3%AB%E5%BF%8C%E9%85%92%E7%93%B6%E8%97%8F3kg%E6%AF%92%E6%B6%B2-23%E6%AD%B2%E5%8F%B0%E5%A5%B3%E6%B6%89%E8%B5%B0%E7%A7%81%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E6%97%A5%E6%9C%AC%E7%BE%BD%E7%94%B0%E6%A9%9F%E5%A0%B4%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-09-15T07:45:42.624Z",
     "strategy": ".content-card__main"
   }
 ];
