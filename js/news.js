@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T16:44:34.090Z
+// Last updated: 2026-09-15T16:54:16.736Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會在即｜崔天凱：中國對美不抱幻想　終將一勞永逸解決台問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176692950663434240947501.jpeg/juOM4ydxwbhGCrKkIBD8FcMklG8H9ADsgCmSkYApkpE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390346/%E7%BF%92%E7%89%B9%E6%9C%83%E5%9C%A8%E5%8D%B3-%E5%B4%94%E5%A4%A9%E5%87%B1-%E4%B8%AD%E5%9C%8B%E5%B0%8D%E7%BE%8E%E4%B8%8D%E6%8A%B1%E5%B9%BB%E6%83%B3-%E7%B5%82%E5%B0%87%E4%B8%80%E5%8B%9E%E6%B0%B8%E9%80%B8%E8%A7%A3%E6%B1%BA%E5%8F%B0%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-09-15T16:54:16.736Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華國葬｜香港殯儀館周六設靈、周日公祭　中央成立治喪委員會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176549457349578752280395.jpeg/0Vg-iS60FyHhYtV9wBBHs64BANgAI_7bvC4vD7wuLw8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390153/%E8%A1%9B%E8%A9%A9%E9%9B%85%E7%B8%AB50%E9%87%9D%E5%BE%8C%E7%81%AB%E9%80%9F%E5%BE%A9%E5%B7%A5%E6%8B%8D-%E7%8B%A9%E8%AC%8A-%E7%84%A1%E6%87%BC%E7%A0%B4%E7%9B%B8%E8%88%87%E6%88%90%E6%AF%85%E6%8B%8D%E6%92%9E%E8%BB%8A%E6%88%B2",
     "timestamp": "2026-09-15T09:23:28.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福安大廈僭建天台屋滲水　清拆令拖足20年　樓下居民：苦不堪言",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176556655014318080853796.jpeg/Cfup1Ef3U1coVunYLBMMPiQad-Lwc0Jj2aZmqvymZqo?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60390098/%E7%A6%8F%E5%AE%89%E5%A4%A7%E5%BB%88%E5%83%AD%E5%BB%BA%E5%A4%A9%E5%8F%B0%E5%B1%8B%E6%BB%B2%E6%B0%B4-%E6%B8%85%E6%8B%86%E4%BB%A4%E6%8B%96%E8%B6%B320%E5%B9%B4-%E6%A8%93%E4%B8%8B%E5%B1%85%E6%B0%91-%E8%8B%A6%E4%B8%8D%E5%A0%AA%E8%A8%80",
-    "timestamp": "2026-09-15T08:49:02.352Z",
     "strategy": ".content-card__main"
   }
 ];
