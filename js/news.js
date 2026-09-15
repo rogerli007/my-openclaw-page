@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T13:54:11.910Z
+// Last updated: 2026-09-15T14:21:30.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟將立法限制15歲以下兒童使用社交及影片平台等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148848085477101568842350.jpeg/kw_auTFhF3gu1O5W8CcQRtykCgwCvQRP_pySHf6ckh0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390329/%E6%AD%90%E7%9B%9F%E5%B0%87%E7%AB%8B%E6%B3%95%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E5%85%92%E7%AB%A5%E4%BD%BF%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%8F%8A%E5%BD%B1%E7%89%87%E5%B9%B3%E5%8F%B0%E7%AD%89",
+    "timestamp": "2026-09-15T14:21:30.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚耀文登葉念琛網台剖白演藝心路　揭《野獸刑警》殺張耀揚真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176509293000658944942867.jpeg/IW7GchBt1JieUT4wybfUF6EVHh91BqdOPSLvsz0i77M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60389899/iphone-18-pro-max%E4%B8%8A%E5%8F%B0%E5%84%AA%E6%83%A0-cmhk-smartone-csl-3hk-%E9%82%8A%E9%96%93%E6%9C%80%E6%8A%B5",
     "timestamp": "2026-09-15T04:56:04.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國限制留學生及記者停留期限新規實施在即　聯邦法官下令叫停",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3266570/org/2933360c358b36adb679f188f33ae5f4.jpg/weqmmzez1FwZnWIIwPEZv0EqPB182wdwR_rwJEf68CQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390092/%E7%BE%8E%E5%9C%8B%E9%99%90%E5%88%B6%E7%95%99%E5%AD%B8%E7%94%9F%E5%8F%8A%E8%A8%98%E8%80%85%E5%81%9C%E7%95%99%E6%9C%9F%E9%99%90%E6%96%B0%E8%A6%8F%E5%AF%A6%E6%96%BD%E5%9C%A8%E5%8D%B3-%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E4%B8%8B%E4%BB%A4%E5%8F%AB%E5%81%9C",
-    "timestamp": "2026-09-15T04:46:44.198Z",
     "strategy": ".content-card__main"
   }
 ];
