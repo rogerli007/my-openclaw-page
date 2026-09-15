@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T07:45:42.624Z
+// Last updated: 2026-09-15T07:55:26.741Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朴珍榮演唱會2027澳門｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176556669547581440095167.jpeg/kEcu5VFaLdJ7lGtRZobtjxzhWZieLV6p9rY8_fa2PP0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390189/%E6%9C%B4%E7%8F%8D%E6%A6%AE%E6%BC%94%E5%94%B1%E6%9C%832027%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-09-15T07:55:26.741Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "威士忌酒瓶藏3kg毒液！23歲台女涉走私依托咪酯日本羽田機場落網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176304533802848256895327.png/ETthJZiaFDDkJxzsN9TUdzD47YliFNYD3agh9N2oIfQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60389836/%E6%88%90%E9%BE%8D%E8%A2%AB%E7%88%86%E6%9B%BE%E9%81%AD%E5%AB%8C%E6%A3%84-%E7%95%B6%E7%B4%85%E5%A5%B3%E6%98%9F%E7%9B%B4%E6%8E%A5%E7%BE%9E%E8%BE%B1-%E4%BD%A0%E9%80%99%E7%A8%AE%E4%BA%BA%E8%83%BD%E9%85%8D%E6%88%91%E5%97%8E",
     "timestamp": "2026-09-14T22:55:21.692Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "武打巨星被爆曾遭嫌棄　當紅女星直接羞辱：你這種人能配我嗎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176304533802848256895327.png/ETthJZiaFDDkJxzsN9TUdzD47YliFNYD3agh9N2oIfQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60389836/%E6%88%90%E9%BE%8D%E8%A2%AB%E7%88%86%E6%9B%BE%E9%81%AD%E5%AB%8C%E6%A3%84-%E7%95%B6%E7%B4%85%E5%A5%B3%E6%98%9F%E7%9B%B4%E6%8E%A5%E7%BE%9E%E8%BE%B1-%E4%BD%A0%E9%80%99%E7%A8%AE%E4%BA%BA%E8%83%BD%E9%85%8D%E6%88%91%E5%97%8E",
-    "timestamp": "2026-09-14T22:44:25.085Z",
     "strategy": ".content-card__main"
   }
 ];
