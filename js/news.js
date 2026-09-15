@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T09:23:28.012Z
+// Last updated: 2026-09-15T09:49:35.921Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上半年呈報吸毒人數按年跌9%　21歲青年以下最常吸食毒品依托咪酯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174050173425291264745138.jpeg/cM2FmFdfGlqtAdAGVFQ4DlRLvE2d2y36kTtzq4c7c6s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390246/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%91%88%E5%A0%B1%E5%90%B8%E6%AF%92%E4%BA%BA%E6%95%B8%E6%8C%89%E5%B9%B4%E8%B7%8C9-21%E6%AD%B2%E9%9D%92%E5%B9%B4%E4%BB%A5%E4%B8%8B%E6%9C%80%E5%B8%B8%E5%90%B8%E9%A3%9F%E6%AF%92%E5%93%81%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF",
+    "timestamp": "2026-09-15T09:49:35.921Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "衛詩雅縫50針後火速復工拍《狩謊》　無懼破相與成毅拍撞車戲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176399313128001536684590.jpeg/-yrIDzxdS_2-m3io4Lw6DHwVuMd6NXXJzcciu83HIrs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389980/%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%9C%89%E6%B2%B9%E8%BC%AA%E8%A7%B8%E9%9B%B7%E5%BE%8C%E7%88%86%E7%82%B8%E8%B5%B7%E7%81%AB-%E7%BE%8E%E8%BB%8D%E6%8C%87%E6%95%A3%E5%B8%83%E8%AC%8A%E8%A8%80%E5%9C%96%E9%98%BB%E5%95%86%E8%88%B9%E9%80%9A%E8%A1%8C",
     "timestamp": "2026-09-14T23:54:31.650Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "多倫多163cm華美女嫁122cm侏儒男　無懼網民惡言　最萌身高差惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175875571465326592275901.png/eCVDe8P5b5d4MVRqEE6Iwn1gUdH9lPfgvTd4b703eG8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384077/%E5%A4%9A%E5%80%AB%E5%A4%9A163cm%E8%8F%AF%E7%BE%8E%E5%A5%B3%E5%AB%81122cm%E4%BE%8F%E5%84%92%E7%94%B7-%E7%84%A1%E6%87%BC%E7%B6%B2%E6%B0%91%E6%83%A1%E8%A8%80-%E6%9C%80%E8%90%8C%E8%BA%AB%E9%AB%98%E5%B7%AE%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-09-14T23:28:14.030Z",
     "strategy": ".content-card__main"
   }
 ];
