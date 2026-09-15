@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T21:43:34.313Z
+// Last updated: 2026-09-15T21:58:06.694Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "與伊朗戰爭成本達380億美元　美國會預算辦公室：每月再增30億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139719553400442880789035.jpeg/yDC6esZPJttlwG9FGI9CwSADXeGeQjkTr_XOIq_1ziI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390368/%E8%88%87%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%88%90%E6%9C%AC%E9%81%94380%E5%84%84%E7%BE%8E%E5%85%83-%E7%BE%8E%E5%9C%8B%E6%9C%83%E9%A0%90%E7%AE%97%E8%BE%A6%E5%85%AC%E5%AE%A4-%E6%AF%8F%E6%9C%88%E5%86%8D%E5%A2%9E30%E5%84%84",
+    "timestamp": "2026-09-15T21:58:06.694Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英聯賽盃｜利物浦3：1熱刺　阿仙奴作客4：2葉士域治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148848085477101568842350.jpeg/kw_auTFhF3gu1O5W8CcQRtykCgwCvQRP_pySHf6ckh0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390329/%E6%AD%90%E7%9B%9F%E5%B0%87%E7%AB%8B%E6%B3%95%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E5%85%92%E7%AB%A5%E4%BD%BF%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%8F%8A%E5%BD%B1%E7%89%87%E5%B9%B3%E5%8F%B0%E7%AD%89",
     "timestamp": "2026-09-15T14:21:30.658Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚耀文登葉念琛網台剖白演藝心路　揭《野獸刑警》殺張耀揚真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176590545284239360063278.jpeg/E-nlDrM7gnkkY_wTOP8d78Nuft7eA-LF-IeOAfiHjgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390265/%E8%AD%9A%E8%80%80%E6%96%87%E7%99%BB%E8%91%89%E5%BF%B5%E7%90%9B%E7%B6%B2%E5%8F%B0%E5%89%96%E7%99%BD%E6%BC%94%E8%97%9D%E5%BF%83%E8%B7%AF-%E6%8F%AD-%E9%87%8E%E7%8D%B8%E5%88%91%E8%AD%A6-%E6%AE%BA%E5%BC%B5%E8%80%80%E6%8F%9A%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-09-15T13:54:11.910Z",
     "strategy": ".content-card__main"
   }
 ];
