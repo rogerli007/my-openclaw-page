@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T10:21:09.971Z
+// Last updated: 2026-09-15T10:43:47.098Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋商場好去處18大推介｜咖啡露營祭/6米高巨型月亮/裕民坊市集",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176597282913521664095236.jpeg/7oRjkg9zuboP4qaqrtIypj1f8gXNuAgn9M1Vr_TNVa8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60390272/%E4%B8%AD%E7%A7%8B%E5%95%86%E5%A0%B4%E5%A5%BD%E5%8E%BB%E8%99%9518%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%92%96%E5%95%A1%E9%9C%B2%E7%87%9F%E7%A5%AD-6%E7%B1%B3%E9%AB%98%E5%B7%A8%E5%9E%8B%E6%9C%88%E4%BA%AE-%E8%A3%95%E6%B0%91%E5%9D%8A%E5%B8%82%E9%9B%86",
+    "timestamp": "2026-09-15T10:43:47.098Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭香如故線上看劇情｜最新更新時間/追劇日曆+演員關係圖+簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241015/922813125873373184568491.jpeg/K3cjVWUHOZcY7lhltJoQUZKv0V9Lr23_ZuLp_UPi6f0?v=w1920",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389768/%E7%9B%B4%E6%92%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%A6%8B%E8%A8%98%E8%80%85-%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E5%B0%81%E9%9D%A2%E6%96%99%E6%9B%9D%E5%85%89-%E6%8E%A8%E7%B5%84%E5%90%88%E6%8B%B3%E8%B0%B7%E7%94%9F%E8%82%B2",
     "timestamp": "2026-09-15T01:44:20.543Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人妻出軌男主播狂賞¥390萬　變賣家產負巨債　發生關係即被分手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175870294712127488251674.png/LfH6RgIquv5241vp1eyTpOJkKGcgrgfMUsxV3FLMVdw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388734/%E4%BA%BA%E5%A6%BB%E5%87%BA%E8%BB%8C%E7%94%B7%E4%B8%BB%E6%92%AD%E7%8B%82%E8%B3%9E-390%E8%90%AC-%E8%AE%8A%E8%B3%A3%E5%AE%B6%E7%94%A2%E8%B2%A0%E5%B7%A8%E5%82%B5-%E7%99%BC%E7%94%9F%E9%97%9C%E4%BF%82%E5%8D%B3%E8%A2%AB%E5%88%86%E6%89%8B",
-    "timestamp": "2026-09-15T00:50:04.027Z",
     "strategy": ".content-card__main"
   }
 ];
