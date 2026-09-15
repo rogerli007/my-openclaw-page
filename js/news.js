@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T14:54:42.531Z
+// Last updated: 2026-09-15T15:20:05.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段跌逾500點　納指挫0.8%　油價漲逾2%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250428/993660677904142336562089.jpeg/4FxnWUlvNAFN7lLzwIaP4efSPeemohQpuK3JyLitycg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390336/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E8%B7%8C%E9%80%BE500%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%8C%AB0-8-%E6%B2%B9%E5%83%B9%E6%BC%B2%E9%80%BE2",
+    "timestamp": "2026-09-15T15:20:05.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國宣布提升與委內瑞拉外交關係　將派大使",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260109/1086351110819549184517083.jpeg/d8i_G5uexpr5rzdu13j57RKQAUQBbGk7IQAlhhsAJYY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390104/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E6%9C%89%E6%8C%87%E7%B6%AD%E5%9C%92%E7%B6%B2%E7%90%83%E5%A0%B4%E6%88%96%E9%87%8D%E5%BB%BA-%E5%A2%9E%E8%A7%80%E7%9C%BE%E5%BA%A7%E4%BD%8D%E9%87%8F",
     "timestamp": "2026-09-15T05:55:57.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧麗欣面目猙獰做Gym自嘲相由心生　網民斥配文句句有骨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176303587618197504975430.jpeg/yM6khUjCLXkSuFOW7MpADBjyiGTxEr_dQENyhkBDcoY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389955/%E9%84%A7%E9%BA%97%E6%AC%A3%E9%9D%A2%E7%9B%AE%E7%8C%99%E7%8D%B0%E5%81%9Agym%E8%87%AA%E5%98%B2%E7%9B%B8%E7%94%B1%E5%BF%83%E7%94%9F-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%85%8D%E6%96%87%E5%8F%A5%E5%8F%A5%E6%9C%89%E9%AA%A8",
-    "timestamp": "2026-09-15T05:44:36.037Z",
     "strategy": ".content-card__main"
   }
 ];
