@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T14:43:49.749Z
+// Last updated: 2026-09-15T14:54:42.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國宣布提升與委內瑞拉外交關係　將派大使",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240922/914574101543129088169482.jpeg/EgJzxLn9mNxRA-hPQmIcEk8y9YdyCuFEGvB6-xrwevs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390331/%E8%8B%B1%E5%9C%8B%E5%AE%A3%E5%B8%83%E6%8F%90%E5%8D%87%E8%88%87%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82-%E5%B0%87%E6%B4%BE%E5%A4%A7%E4%BD%BF",
+    "timestamp": "2026-09-15T14:54:42.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神2｜游嘉欣力勸何沛珈擇一夜情爆肌男　遭網民鬧爆：真係損友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176303587618197504975430.jpeg/yM6khUjCLXkSuFOW7MpADBjyiGTxEr_dQENyhkBDcoY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389955/%E9%84%A7%E9%BA%97%E6%AC%A3%E9%9D%A2%E7%9B%AE%E7%8C%99%E7%8D%B0%E5%81%9Agym%E8%87%AA%E5%98%B2%E7%9B%B8%E7%94%B1%E5%BF%83%E7%94%9F-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%85%8D%E6%96%87%E5%8F%A5%E5%8F%A5%E6%9C%89%E9%AA%A8",
     "timestamp": "2026-09-15T05:44:36.037Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈里夫婦因保安憂慮為子女閃電轉校　強調與學校照顧無關",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176500673777242112290675.jpeg/DLsg7jA0adLlQmM97Np5BRvNBGZT08lR0jNKmNIzSpg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390079/%E5%93%88%E9%87%8C%E5%A4%AB%E5%A9%A6%E5%9B%A0%E4%BF%9D%E5%AE%89%E6%86%82%E6%85%AE%E7%82%BA%E5%AD%90%E5%A5%B3%E9%96%83%E9%9B%BB%E8%BD%89%E6%A0%A1-%E5%BC%B7%E8%AA%BF%E8%88%87%E5%AD%B8%E6%A0%A1%E7%85%A7%E9%A1%A7%E7%84%A1%E9%97%9C",
-    "timestamp": "2026-09-15T05:21:53.923Z",
     "strategy": ".content-card__main"
   }
 ];
