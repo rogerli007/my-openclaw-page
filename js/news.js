@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T11:53:40.188Z
+// Last updated: 2026-09-15T12:28:35.160Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張寶兒搬離6600萬「漏屎水」舊居　愈搬愈富貴兩層複式豪宅曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176602782841442304635042.jpeg/JAZk44VN-49FgKVcV2hUjqenJe1RMf-Jpi2lWaYtpVk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390201/%E5%BC%B5%E5%AF%B6%E5%85%92%E6%90%AC%E9%9B%A26600%E8%90%AC-%E6%BC%8F%E5%B1%8E%E6%B0%B4-%E8%88%8A%E5%B1%85-%E6%84%88%E6%90%AC%E6%84%88%E5%AF%8C%E8%B2%B4%E5%85%A9%E5%B1%A4%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-09-15T12:28:35.160Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福安大廈天台僭建屋滲水20年未拆　天台業權去向自1970年消失",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176260908498817024120569.jpeg/5GuVQiczOVJZdFZoH9YBGesmH0P5JBHy4BUCw-AVAsM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389933/%E9%BB%83%E6%B7%91%E8%94%93%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-09-15T03:47:15.971Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "八鄉獨居翁被偷現金及白米　警方拘捕涉案男　聯關愛隊探訪送米",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176482485073088512021354.png/aAa0KniyV6FnFhuHlVyOukZ1DXThm_AeFnOeCxZzngs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390043/%E5%85%AB%E9%84%89%E7%8D%A8%E5%B1%85%E7%BF%81%E8%A2%AB%E5%81%B7%E7%8F%BE%E9%87%91%E5%8F%8A%E7%99%BD%E7%B1%B3-%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%95%E6%B6%89%E6%A1%88%E7%94%B7-%E8%81%AF%E9%97%9C%E6%84%9B%E9%9A%8A%E6%8E%A2%E8%A8%AA%E9%80%81%E7%B1%B3",
-    "timestamp": "2026-09-15T03:24:28.656Z",
     "strategy": ".content-card__main"
   }
 ];
