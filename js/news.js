@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T21:30:35.789Z
+// Last updated: 2026-09-15T21:43:34.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英聯賽盃｜利物浦3：1熱刺　阿仙奴作客4：2葉士域治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176756697767612416562730.jpeg/wQwGEk6nFxHzzUOnL5JGvmWWVAJifPBuqVkVValZFVU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390367/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%86%B1%E5%88%BA-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-2%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB",
+    "timestamp": "2026-09-15T21:43:34.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英聯賽盃｜利物浦3：1熱刺　阿仙奴作客4：2葉士域治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176590545284239360063278.jpeg/E-nlDrM7gnkkY_wTOP8d78Nuft7eA-LF-IeOAfiHjgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390265/%E8%AD%9A%E8%80%80%E6%96%87%E7%99%BB%E8%91%89%E5%BF%B5%E7%90%9B%E7%B6%B2%E5%8F%B0%E5%89%96%E7%99%BD%E6%BC%94%E8%97%9D%E5%BF%83%E8%B7%AF-%E6%8F%AD-%E9%87%8E%E7%8D%B8%E5%88%91%E8%AD%A6-%E6%AE%BA%E5%BC%B5%E8%80%80%E6%8F%9A%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-09-15T13:54:11.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Marf東京出席品牌活動　與Rosé@BLACKPINK同場：佢可愛中帶點辣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176629193828470784324197.jpeg/ke0BAhDFB_Brb0NJRyeutOUJbUZutHnHL4nRgS-J0YE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390313/marf%E6%9D%B1%E4%BA%AC%E5%87%BA%E5%B8%AD%E5%93%81%E7%89%8C%E6%B4%BB%E5%8B%95-%E8%88%87ros%C3%A9-blackpink%E5%90%8C%E5%A0%B4-%E4%BD%A2%E5%8F%AF%E6%84%9B%E4%B8%AD%E5%B8%B6%E9%BB%9E%E8%BE%A3",
-    "timestamp": "2026-09-15T13:21:06.862Z",
     "strategy": ".content-card__main"
   }
 ];
