@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T06:33:09.523Z
+// Last updated: 2026-09-15T07:45:42.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "威士忌酒瓶藏3kg毒液！23歲台女涉走私依托咪酯日本羽田機場落網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176555478516240384783496.png/aOn0HqNHb1CitMOPb887JVGbzX2ClsXHkDHGbZAxxm0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60390190/%E5%A8%81%E5%A3%AB%E5%BF%8C%E9%85%92%E7%93%B6%E8%97%8F3kg%E6%AF%92%E6%B6%B2-23%E6%AD%B2%E5%8F%B0%E5%A5%B3%E6%B6%89%E8%B5%B0%E7%A7%81%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E6%97%A5%E6%9C%AC%E7%BE%BD%E7%94%B0%E6%A9%9F%E5%A0%B4%E8%90%BD%E7%B6%B2",
+    "timestamp": "2026-09-15T07:45:42.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "共同社：今年停辦「東京·中國電影週」　或與中日關係惡化有關",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176304533802848256895327.png/ETthJZiaFDDkJxzsN9TUdzD47YliFNYD3agh9N2oIfQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60389836/%E6%88%90%E9%BE%8D%E8%A2%AB%E7%88%86%E6%9B%BE%E9%81%AD%E5%AB%8C%E6%A3%84-%E7%95%B6%E7%B4%85%E5%A5%B3%E6%98%9F%E7%9B%B4%E6%8E%A5%E7%BE%9E%E8%BE%B1-%E4%BD%A0%E9%80%99%E7%A8%AE%E4%BA%BA%E8%83%BD%E9%85%8D%E6%88%91%E5%97%8E",
     "timestamp": "2026-09-14T22:44:25.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "武打巨星被爆曾遭嫌棄　當紅女星直接羞辱：你這種人能配我嗎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176304533802848256895327.png/ETthJZiaFDDkJxzsN9TUdzD47YliFNYD3agh9N2oIfQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60389836/%E6%88%90%E9%BE%8D%E8%A2%AB%E7%88%86%E6%9B%BE%E9%81%AD%E5%AB%8C%E6%A3%84-%E7%95%B6%E7%B4%85%E5%A5%B3%E6%98%9F%E7%9B%B4%E6%8E%A5%E7%BE%9E%E8%BE%B1-%E4%BD%A0%E9%80%99%E7%A8%AE%E4%BA%BA%E8%83%BD%E9%85%8D%E6%88%91%E5%97%8E",
-    "timestamp": "2026-09-14T22:32:07.691Z",
     "strategy": ".content-card__main"
   }
 ];
