@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T16:54:16.736Z
+// Last updated: 2026-09-15T17:29:41.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LAWASIA年會韓國揭幕　湯文龍連任執委會成員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176700079491780608690178.jpeg/P5hz4-zV6aMNqS92JfwzI3WF2JH661bPWMtZm1jLWZs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390350/lawasia%E5%B9%B4%E6%9C%83%E9%9F%93%E5%9C%8B%E6%8F%AD%E5%B9%95-%E6%B9%AF%E6%96%87%E9%BE%8D%E9%80%A3%E4%BB%BB%E5%9F%B7%E5%A7%94%E6%9C%83%E6%88%90%E5%93%A1",
+    "timestamp": "2026-09-15T17:29:41.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會在即｜崔天凱：中國對美不抱幻想　終將一勞永逸解決台問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174050173425291264745138.jpeg/cM2FmFdfGlqtAdAGVFQ4DlRLvE2d2y36kTtzq4c7c6s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390246/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%91%88%E5%A0%B1%E5%90%B8%E6%AF%92%E4%BA%BA%E6%95%B8%E6%8C%89%E5%B9%B4%E8%B7%8C9-21%E6%AD%B2%E9%9D%92%E5%B9%B4%E4%BB%A5%E4%B8%8B%E6%9C%80%E5%B8%B8%E5%90%B8%E9%A3%9F%E6%AF%92%E5%93%81%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF",
     "timestamp": "2026-09-15T09:49:35.921Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "衛詩雅縫50針後火速復工拍《狩謊》　無懼破相與成毅拍撞車戲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176549457349578752280395.jpeg/0Vg-iS60FyHhYtV9wBBHs64BANgAI_7bvC4vD7wuLw8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390153/%E8%A1%9B%E8%A9%A9%E9%9B%85%E7%B8%AB50%E9%87%9D%E5%BE%8C%E7%81%AB%E9%80%9F%E5%BE%A9%E5%B7%A5%E6%8B%8D-%E7%8B%A9%E8%AC%8A-%E7%84%A1%E6%87%BC%E7%A0%B4%E7%9B%B8%E8%88%87%E6%88%90%E6%AF%85%E6%8B%8D%E6%92%9E%E8%BB%8A%E6%88%B2",
-    "timestamp": "2026-09-15T09:23:28.012Z",
     "strategy": ".content-card__main"
   }
 ];
