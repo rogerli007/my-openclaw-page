@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T09:49:35.921Z
+// Last updated: 2026-09-15T10:21:09.971Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭香如故線上看劇情｜最新更新時間/追劇日曆+演員關係圖+簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175215063691169792546703.jpeg/64oiXoCaFGSi0zC6-v9KUVLbtGRqORK4-Yh9ufmIfbk",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386929/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-09-15T10:21:09.971Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上半年呈報吸毒人數按年跌9%　21歲青年以下最常吸食毒品依托咪酯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175870294712127488251674.png/LfH6RgIquv5241vp1eyTpOJkKGcgrgfMUsxV3FLMVdw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388734/%E4%BA%BA%E5%A6%BB%E5%87%BA%E8%BB%8C%E7%94%B7%E4%B8%BB%E6%92%AD%E7%8B%82%E8%B3%9E-390%E8%90%AC-%E8%AE%8A%E8%B3%A3%E5%AE%B6%E7%94%A2%E8%B2%A0%E5%B7%A8%E5%82%B5-%E7%99%BC%E7%94%9F%E9%97%9C%E4%BF%82%E5%8D%B3%E8%A2%AB%E5%88%86%E6%89%8B",
     "timestamp": "2026-09-15T00:50:04.027Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗稱有油輪觸雷後爆炸起火　美軍指散布謊言圖阻商船通行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176399313128001536684590.jpeg/-yrIDzxdS_2-m3io4Lw6DHwVuMd6NXXJzcciu83HIrs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389980/%E4%BC%8A%E6%9C%97%E7%A8%B1%E6%9C%89%E6%B2%B9%E8%BC%AA%E8%A7%B8%E9%9B%B7%E5%BE%8C%E7%88%86%E7%82%B8%E8%B5%B7%E7%81%AB-%E7%BE%8E%E8%BB%8D%E6%8C%87%E6%95%A3%E5%B8%83%E8%AC%8A%E8%A8%80%E5%9C%96%E9%98%BB%E5%95%86%E8%88%B9%E9%80%9A%E8%A1%8C",
-    "timestamp": "2026-09-14T23:54:31.650Z",
     "strategy": ".content-card__main"
   }
 ];
