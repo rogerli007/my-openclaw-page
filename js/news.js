@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T10:43:47.098Z
+// Last updated: 2026-09-15T10:53:44.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科技園辦共創共投產業加速峰會　共同企業加速基金首批投資四科企",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176535342098944000120486.png/j8FkZil70XOH25vY-2HOSOosTcComowUbkr4Dm5K-A4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60387887/%E7%A7%91%E6%8A%80%E5%9C%92%E8%BE%A6%E5%85%B1%E5%89%B5%E5%85%B1%E6%8A%95%E7%94%A2%E6%A5%AD%E5%8A%A0%E9%80%9F%E5%B3%B0%E6%9C%83-%E5%85%B1%E5%90%8C%E4%BC%81%E6%A5%AD%E5%8A%A0%E9%80%9F%E5%9F%BA%E9%87%91%E9%A6%96%E6%89%B9%E6%8A%95%E8%B3%87%E5%9B%9B%E7%A7%91%E4%BC%81",
+    "timestamp": "2026-09-15T10:53:44.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中秋商場好去處18大推介｜咖啡露營祭/6米高巨型月亮/裕民坊市集",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176468222786932736041762.jpeg/VEPwD5T7okw4ZAk9hrwLZ6an5WBdtFF7q6nXn46p158?v=w1920",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389768/%E7%9B%B4%E6%92%AD-%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2%E9%A0%88%E7%9B%A1%E5%BF%AB%E7%9F%AF%E6%AD%A3-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%A6%82%E6%B6%89%E6%94%BF%E5%BA%9C%E4%BA%BA%E5%93%A1%E5%B0%87%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB",
     "timestamp": "2026-09-15T02:03:22.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播｜李家超見記者　施政報告封面料曝光　推組合拳谷生育？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241015/922813125873373184568491.jpeg/K3cjVWUHOZcY7lhltJoQUZKv0V9Lr23_ZuLp_UPi6f0?v=w1920",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389768/%E7%9B%B4%E6%92%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%A6%8B%E8%A8%98%E8%80%85-%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E5%B0%81%E9%9D%A2%E6%96%99%E6%9B%9D%E5%85%89-%E6%8E%A8%E7%B5%84%E5%90%88%E6%8B%B3%E8%B0%B7%E7%94%9F%E8%82%B2",
-    "timestamp": "2026-09-15T01:44:20.543Z",
     "strategy": ".content-card__main"
   }
 ];
