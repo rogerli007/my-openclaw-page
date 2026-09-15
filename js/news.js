@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T18:22:50.458Z
+// Last updated: 2026-09-15T18:46:16.203Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英美荷聯合警示　伊朗間諜軟件針對異見人士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080085627044630528436857.jpeg/sSRR6xeqM_dH7WdPa2yhq12bEewZ3g2dKICNjCiAjYw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390356/%E8%8B%B1%E7%BE%8E%E8%8D%B7%E8%81%AF%E5%90%88%E8%AD%A6%E7%A4%BA-%E4%BC%8A%E6%9C%97%E9%96%93%E8%AB%9C%E8%BB%9F%E4%BB%B6%E9%87%9D%E5%B0%8D%E7%95%B0%E8%A6%8B%E4%BA%BA%E5%A3%AB",
+    "timestamp": "2026-09-15T18:46:16.203Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "掃管笏村殺狗疑雲　目擊者聽聞：劏隻狗　警到場無發現列雜項處理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176608994014269440473192.jpeg/YwtVvWnrkRQoqkwYCeebLuxJsE7dbuM0HtARCB7QEQg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390297/%E5%85%A8%E5%9C%8B%E6%94%BF%E5%8D%94%E5%89%8D%E5%B8%B8%E5%A7%94%E7%95%A2%E4%BA%95%E6%B3%89%E5%8F%97%E8%B3%845742%E8%90%AC%E5%9B%9A14%E5%B9%B4-%E6%9B%BE%E5%9B%A0%E9%95%B7%E6%98%A5%E9%95%B7%E7%94%9F%E7%96%AB%E8%8B%97%E6%A1%88%E8%BE%AD%E8%81%B7",
     "timestamp": "2026-09-15T11:19:22.245Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科技園辦共創共投產業加速峰會　共同企業加速基金首批投資四科企",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176535342098944000120486.png/j8FkZil70XOH25vY-2HOSOosTcComowUbkr4Dm5K-A4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60387887/%E7%A7%91%E6%8A%80%E5%9C%92%E8%BE%A6%E5%85%B1%E5%89%B5%E5%85%B1%E6%8A%95%E7%94%A2%E6%A5%AD%E5%8A%A0%E9%80%9F%E5%B3%B0%E6%9C%83-%E5%85%B1%E5%90%8C%E4%BC%81%E6%A5%AD%E5%8A%A0%E9%80%9F%E5%9F%BA%E9%87%91%E9%A6%96%E6%89%B9%E6%8A%95%E8%B3%87%E5%9B%9B%E7%A7%91%E4%BC%81",
-    "timestamp": "2026-09-15T10:53:44.738Z",
     "strategy": ".content-card__main"
   }
 ];
