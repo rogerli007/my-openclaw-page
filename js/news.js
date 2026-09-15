@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T15:33:32.657Z
+// Last updated: 2026-09-15T15:54:54.121Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "許廷鏗去年經歷事業迷茫期　放慢腳步沉澱尋找新養分重新出發",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176666898020962304389602.jpeg/bAphgrkDpr0pffnkhSanykkrJzOpYX_3pWCogKVgqIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390337/%E8%A8%B1%E5%BB%B7%E9%8F%97%E5%8E%BB%E5%B9%B4%E7%B6%93%E6%AD%B7%E4%BA%8B%E6%A5%AD%E8%BF%B7%E8%8C%AB%E6%9C%9F-%E6%94%BE%E6%85%A2%E8%85%B3%E6%AD%A5%E6%B2%89%E6%BE%B1%E5%B0%8B%E6%89%BE%E6%96%B0%E9%A4%8A%E5%88%86%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC",
+    "timestamp": "2026-09-15T15:54:54.121Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本議員訪華晤外長助理劉彬　北京：高市早苗言行是中日最大癥結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176555478516240384783496.png/aOn0HqNHb1CitMOPb887JVGbzX2ClsXHkDHGbZAxxm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60390190/%E5%A8%81%E5%A3%AB%E5%BF%8C%E9%85%92%E7%93%B6%E8%97%8F3kg%E6%AF%92%E6%B6%B2-23%E6%AD%B2%E5%8F%B0%E5%A5%B3%E6%B6%89%E8%B5%B0%E7%A7%81%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E6%97%A5%E6%9C%AC%E7%BE%BD%E7%94%B0%E6%A9%9F%E5%A0%B4%E8%90%BD%E7%B6%B2",
     "timestamp": "2026-09-15T07:45:42.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "共同社：今年停辦「東京·中國電影週」　或與中日關係惡化有關",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251117/1067144472623583232683497.jpeg/AljUr4ngWGUxKyf2jlA_eko62SSvLz2whCFDv4QhQ78?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390140/%E5%85%B1%E5%90%8C%E7%A4%BE-%E4%BB%8A%E5%B9%B4%E5%81%9C%E8%BE%A6-%E6%9D%B1%E4%BA%AC-%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%BD%B1%E9%80%B1-%E6%88%96%E8%88%87%E4%B8%AD%E6%97%A5%E9%97%9C%E4%BF%82%E6%83%A1%E5%8C%96%E6%9C%89%E9%97%9C",
-    "timestamp": "2026-09-15T06:33:09.523Z",
     "strategy": ".content-card__main"
   }
 ];
