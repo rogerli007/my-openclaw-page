@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T02:54:07.808Z
+// Last updated: 2026-09-15T03:24:28.656Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八鄉獨居翁被偷現金及白米　警方拘捕涉案男　聯關愛隊探訪送米",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176482485073088512021354.png/aAa0KniyV6FnFhuHlVyOukZ1DXThm_AeFnOeCxZzngs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390043/%E5%85%AB%E9%84%89%E7%8D%A8%E5%B1%85%E7%BF%81%E8%A2%AB%E5%81%B7%E7%8F%BE%E9%87%91%E5%8F%8A%E7%99%BD%E7%B1%B3-%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%95%E6%B6%89%E6%A1%88%E7%94%B7-%E8%81%AF%E9%97%9C%E6%84%9B%E9%9A%8A%E6%8E%A2%E8%A8%AA%E9%80%81%E7%B1%B3",
+    "timestamp": "2026-09-15T03:24:28.656Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈爾濱馬拉松選手草地便溺惹議　官方承認流動廁所分布不均",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2255679/org/51484e92c8807437939455e0bbd1fbf0.jpg/g11VTRjrLBhno4R9Qh8adba7XBw6z9KY3K03FdytNxU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389972/%E7%BE%8E%E5%9C%8B10%E5%B9%B4%E6%9C%9F%E5%82%B5%E6%81%AF%E7%AA%81%E7%A0%B45-2023%E5%B9%B410%E6%9C%88%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1",
     "timestamp": "2026-09-14T19:17:59.950Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田隆亨邨私家車自炒撞欄　司機不顧而去再返現場　涉販毒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176353399302524928973648.jpeg/IHXr7VDE7PyL2DYgmuRLjY6Xm3zY-_6yJLPmQQ6z5kE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389970/%E6%B2%99%E7%94%B0%E9%9A%86%E4%BA%A8%E9%82%A8%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB%E5%86%8D%E8%BF%94%E7%8F%BE%E5%A0%B4-%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-14T18:46:18.290Z",
     "strategy": ".content-card__main"
   }
 ];
