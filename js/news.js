@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T05:21:53.923Z
+// Last updated: 2026-09-15T05:44:36.037Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧麗欣面目猙獰做Gym自嘲相由心生　網民斥配文句句有骨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176303587618197504975430.jpeg/yM6khUjCLXkSuFOW7MpADBjyiGTxEr_dQENyhkBDcoY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389955/%E9%84%A7%E9%BA%97%E6%AC%A3%E9%9D%A2%E7%9B%AE%E7%8C%99%E7%8D%B0%E5%81%9Agym%E8%87%AA%E5%98%B2%E7%9B%B8%E7%94%B1%E5%BF%83%E7%94%9F-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%85%8D%E6%96%87%E5%8F%A5%E5%8F%A5%E6%9C%89%E9%AA%A8",
+    "timestamp": "2026-09-15T05:44:36.037Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈里夫婦因保安憂慮為子女閃電轉校　強調與學校照顧無關",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176395499306225664179052.jpeg/QqJvdZWaBhEKuqxAXO0hkSpjPVDigdBI4jkFROI5BUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389984/%E8%8B%B1%E8%B6%85-%E5%88%97%E6%96%AF%E8%81%AF4-1%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%87%E4%B8%8A%E7%AC%AC%E4%B8%89%E4%BD%8D",
     "timestamp": "2026-09-14T21:29:11.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜列斯聯4：1勝紐卡素　升上第三位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176395499306225664179052.jpeg/QqJvdZWaBhEKuqxAXO0hkSpjPVDigdBI4jkFROI5BUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389984/%E8%8B%B1%E8%B6%85-%E5%88%97%E6%96%AF%E8%81%AF4-1%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%87%E4%B8%8A%E7%AC%AC%E4%B8%89%E4%BD%8D",
-    "timestamp": "2026-09-14T21:17:22.508Z",
     "strategy": ".content-card__main"
   }
 ];
