@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T17:29:41.150Z
+// Last updated: 2026-09-15T17:41:32.136Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "掃管笏村殺狗疑雲　目擊者聽聞：劏隻狗　警到場無發現列雜項處理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176660705634422784905648.jpeg/jV1-jTGsvk_MAWuLrS6WQvxLIjuDZVVRMQ1qWBQNalg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390334/%E6%8E%83%E7%AE%A1%E7%AC%8F%E6%9D%91%E6%AE%BA%E7%8B%97%E7%96%91%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E8%81%BD%E8%81%9E-%E5%8A%8F%E9%9A%BB%E7%8B%97-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%84%A1%E7%99%BC%E7%8F%BE%E5%88%97%E9%9B%9C%E9%A0%85%E8%99%95%E7%90%86",
+    "timestamp": "2026-09-15T17:41:32.136Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LAWASIA年會韓國揭幕　湯文龍連任執委會成員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175215063691169792546703.jpeg/64oiXoCaFGSi0zC6-v9KUVLbtGRqORK4-Yh9ufmIfbk",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386929/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-09-15T10:21:09.971Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上半年呈報吸毒人數按年跌9%　21歲青年以下最常吸食毒品依托咪酯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174050173425291264745138.jpeg/cM2FmFdfGlqtAdAGVFQ4DlRLvE2d2y36kTtzq4c7c6s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390246/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%91%88%E5%A0%B1%E5%90%B8%E6%AF%92%E4%BA%BA%E6%95%B8%E6%8C%89%E5%B9%B4%E8%B7%8C9-21%E6%AD%B2%E9%9D%92%E5%B9%B4%E4%BB%A5%E4%B8%8B%E6%9C%80%E5%B8%B8%E5%90%B8%E9%A3%9F%E6%AF%92%E5%93%81%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF",
-    "timestamp": "2026-09-15T09:49:35.921Z",
     "strategy": ".content-card__main"
   }
 ];
