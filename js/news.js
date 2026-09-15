@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T22:19:17.173Z
+// Last updated: 2026-09-15T22:35:09.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：專機往返過境摩爾多瓦　俄羅斯無人機兩度闖領空",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174604467224449024973468.jpeg/5pFG_ZFntpRd5RVdjtK7puPXvD8Lr-bGhlSdHIZUnRw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390371/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%B0%88%E6%A9%9F%E5%BE%80%E8%BF%94%E9%81%8E%E5%A2%83%E6%91%A9%E7%88%BE%E5%A4%9A%E7%93%A6-%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%85%A9%E5%BA%A6%E9%97%96%E9%A0%98%E7%A9%BA",
+    "timestamp": "2026-09-15T22:35:09.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日局部地區有驟雨　日間大致天晴　最高31度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240922/914574101543129088169482.jpeg/EgJzxLn9mNxRA-hPQmIcEk8y9YdyCuFEGvB6-xrwevs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390331/%E8%8B%B1%E5%9C%8B%E5%AE%A3%E5%B8%83%E6%8F%90%E5%8D%87%E8%88%87%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82-%E5%B0%87%E6%B4%BE%E5%A4%A7%E4%BD%BF",
     "timestamp": "2026-09-15T14:54:42.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神2｜游嘉欣力勸何沛珈擇一夜情爆肌男　遭網民鬧爆：真係損友",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176595378003251200539724.jpeg/NAO4hcmNJClmnceMRVbkGiIBjGofC5r9AP7dNwD-3Tc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390078/%E5%A5%B3%E7%A5%9E2-%E6%B8%B8%E5%98%89%E6%AC%A3%E5%8A%9B%E5%8B%B8%E4%BD%95%E6%B2%9B%E7%8F%88%E6%93%87%E4%B8%80%E5%A4%9C%E6%83%85%E7%88%86%E8%82%8C%E7%94%B7-%E9%81%AD%E7%B6%B2%E6%B0%91%E9%AC%A7%E7%88%86-%E7%9C%9F%E4%BF%82%E6%90%8D%E5%8F%8B",
-    "timestamp": "2026-09-15T14:43:49.749Z",
     "strategy": ".content-card__main"
   }
 ];
