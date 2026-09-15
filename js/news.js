@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T23:46:05.511Z
+// Last updated: 2026-09-15T23:53:59.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "水煮餐減肥副作用｜極端無油飲食致脫髮停經？營養師拆解零脂陷阱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173615446272774144018935.jpeg/YlTUSoUX44tIhQGP1oI_bmgNyPWh1iXlOovwWzqL8Fs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386184/%E6%B0%B4%E7%85%AE%E9%A4%90%E6%B8%9B%E8%82%A5%E5%89%AF%E4%BD%9C%E7%94%A8-%E6%A5%B5%E7%AB%AF%E7%84%A1%E6%B2%B9%E9%A3%B2%E9%A3%9F%E8%87%B4%E8%84%AB%E9%AB%AE%E5%81%9C%E7%B6%93-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8B%86%E8%A7%A3%E9%9B%B6%E8%84%82%E9%99%B7%E9%98%B1",
+    "timestamp": "2026-09-15T23:53:59.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌葵順街貨車右轉撼交通燈柱　車頭凹陷損毀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176666898020962304389602.jpeg/bAphgrkDpr0pffnkhSanykkrJzOpYX_3pWCogKVgqIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390337/%E8%A8%B1%E5%BB%B7%E9%8F%97%E5%8E%BB%E5%B9%B4%E7%B6%93%E6%AD%B7%E4%BA%8B%E6%A5%AD%E8%BF%B7%E8%8C%AB%E6%9C%9F-%E6%94%BE%E6%85%A2%E8%85%B3%E6%AD%A5%E6%B2%89%E6%BE%B1%E5%B0%8B%E6%89%BE%E6%96%B0%E9%A4%8A%E5%88%86%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC",
     "timestamp": "2026-09-15T16:21:04.292Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許廷鏗去年經歷事業迷茫期　放慢腳步沉澱尋找新養分重新出發",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176666898020962304389602.jpeg/bAphgrkDpr0pffnkhSanykkrJzOpYX_3pWCogKVgqIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390337/%E8%A8%B1%E5%BB%B7%E9%8F%97%E5%8E%BB%E5%B9%B4%E7%B6%93%E6%AD%B7%E4%BA%8B%E6%A5%AD%E8%BF%B7%E8%8C%AB%E6%9C%9F-%E6%94%BE%E6%85%A2%E8%85%B3%E6%AD%A5%E6%B2%89%E6%BE%B1%E5%B0%8B%E6%89%BE%E6%96%B0%E9%A4%8A%E5%88%86%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC",
-    "timestamp": "2026-09-15T15:54:54.121Z",
     "strategy": ".content-card__main"
   }
 ];
