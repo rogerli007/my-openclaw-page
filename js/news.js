@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T02:03:22.513Z
+// Last updated: 2026-09-15T02:34:23.849Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》家長講座　青年耀進發展協會行政總監分享AI時代教養法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174393540302606336753062.jpeg/8zvUPD3JvoGYCE4x1mFkpEhARF_C7H5eESqJDBEqiQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60388011/%E9%A6%99%E6%B8%AF01-%E5%AE%B6%E9%95%B7%E8%AC%9B%E5%BA%A7-%E9%9D%92%E5%B9%B4%E8%80%80%E9%80%B2%E7%99%BC%E5%B1%95%E5%8D%94%E6%9C%83%E8%A1%8C%E6%94%BF%E7%B8%BD%E7%9B%A3%E5%88%86%E4%BA%ABai%E6%99%82%E4%BB%A3%E6%95%99%E9%A4%8A%E6%B3%95",
+    "timestamp": "2026-09-15T02:34:23.849Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "直播｜瑪麗醫院壞𨋢須盡快矯正　李家超：如涉政府人員將追究責任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176353399302524928973648.jpeg/IHXr7VDE7PyL2DYgmuRLjY6Xm3zY-_6yJLPmQQ6z5kE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389970/%E6%B2%99%E7%94%B0%E9%9A%86%E4%BA%A8%E9%82%A8%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB%E5%86%8D%E8%BF%94%E7%8F%BE%E5%A0%B4-%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-14T18:24:58.821Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱伊朗想迅速達成協議　伊朗否認欲重啟談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230731/762729572994125824917602.jpeg/c1UgLxPrlZCU-uS4Q5LsggZZvvbZ8Of-j9Xb4I_V2-A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389964/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E6%83%B3%E8%BF%85%E9%80%9F%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AA%8D%E6%AC%B2%E9%87%8D%E5%95%9F%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-09-14T17:55:09.688Z",
     "strategy": ".content-card__main"
   }
 ];
