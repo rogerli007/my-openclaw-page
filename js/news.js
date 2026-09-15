@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T11:32:31.460Z
+// Last updated: 2026-09-15T11:53:40.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福安大廈天台僭建屋滲水20年未拆　天台業權去向自1970年消失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176600522837200896428791.jpeg/GHu5nkhdYRGUD99_hZvNoresKXOXw2VbaQ7N7GkOzew?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60390294/%E7%A6%8F%E5%AE%89%E5%A4%A7%E5%BB%88%E5%A4%A9%E5%8F%B0%E5%83%AD%E5%BB%BA%E5%B1%8B%E6%BB%B2%E6%B0%B420%E5%B9%B4%E6%9C%AA%E6%8B%86-%E5%A4%A9%E5%8F%B0%E6%A5%AD%E6%AC%8A%E5%8E%BB%E5%90%91%E8%87%AA1970%E5%B9%B4%E6%B6%88%E5%A4%B1",
+    "timestamp": "2026-09-15T11:53:40.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烚雞蛋要幾耐時間？蛋黃半流心不黐殼秘訣＋8個烚煮時間蛋黃狀態",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176482485073088512021354.png/aAa0KniyV6FnFhuHlVyOukZ1DXThm_AeFnOeCxZzngs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390043/%E5%85%AB%E9%84%89%E7%8D%A8%E5%B1%85%E7%BF%81%E8%A2%AB%E5%81%B7%E7%8F%BE%E9%87%91%E5%8F%8A%E7%99%BD%E7%B1%B3-%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%95%E6%B6%89%E6%A1%88%E7%94%B7-%E8%81%AF%E9%97%9C%E6%84%9B%E9%9A%8A%E6%8E%A2%E8%A8%AA%E9%80%81%E7%B1%B3",
     "timestamp": "2026-09-15T03:24:28.656Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈爾濱馬拉松選手草地便溺惹議　官方承認流動廁所分布不均",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176481316548382720187342.jpeg/FDBV5d1QQyliDbCj6UNVk_M7pm-A3FLLnHeW05x3ltM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60390029/%E5%93%88%E7%88%BE%E6%BF%B1%E9%A6%AC%E6%8B%89%E6%9D%BE%E9%81%B8%E6%89%8B%E8%8D%89%E5%9C%B0%E4%BE%BF%E6%BA%BA%E6%83%B9%E8%AD%B0-%E5%AE%98%E6%96%B9%E6%89%BF%E8%AA%8D%E6%B5%81%E5%8B%95%E5%BB%81%E6%89%80%E5%88%86%E5%B8%83%E4%B8%8D%E5%9D%87",
-    "timestamp": "2026-09-15T02:54:07.808Z",
     "strategy": ".content-card__main"
   }
 ];
