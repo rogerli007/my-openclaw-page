@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T12:28:35.160Z
+// Last updated: 2026-09-15T13:21:06.862Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Marf東京出席品牌活動　與Rosé@BLACKPINK同場：佢可愛中帶點辣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176629193828470784324197.jpeg/ke0BAhDFB_Brb0NJRyeutOUJbUZutHnHL4nRgS-J0YE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390313/marf%E6%9D%B1%E4%BA%AC%E5%87%BA%E5%B8%AD%E5%93%81%E7%89%8C%E6%B4%BB%E5%8B%95-%E8%88%87ros%C3%A9-blackpink%E5%90%8C%E5%A0%B4-%E4%BD%A2%E5%8F%AF%E6%84%9B%E4%B8%AD%E5%B8%B6%E9%BB%9E%E8%BE%A3",
+    "timestamp": "2026-09-15T13:21:06.862Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張寶兒搬離6600萬「漏屎水」舊居　愈搬愈富貴兩層複式豪宅曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176492751072530432643950.png/epb2uL--iMI7B-cAW8U5SX_czyIH41HhFP_NohT_zaI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390063/%E6%97%85%E9%81%8A%E9%A3%B2%E9%A3%9F%E7%95%8C9-19-9-20%E5%98%89%E5%B9%B4%E8%8F%AF%E6%B4%BE%E5%98%89%E7%BE%8E%E9%9B%9E-%E5%8D%B3%E7%9D%87%E9%80%81%E6%A9%9F%E7%A5%A8-%E8%B7%A8%E5%A2%83%E8%BB%8A%E7%A5%A8%E8%A9%B3%E6%83%85",
     "timestamp": "2026-09-15T03:56:38.074Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃淑蔓演唱會2026香港｜門票優先公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176260908498817024120569.jpeg/5GuVQiczOVJZdFZoH9YBGesmH0P5JBHy4BUCw-AVAsM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60389933/%E9%BB%83%E6%B7%91%E8%94%93%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-09-15T03:47:15.971Z",
     "strategy": ".content-card__main"
   }
 ];
