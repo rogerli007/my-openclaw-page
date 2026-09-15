@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T16:21:04.292Z
+// Last updated: 2026-09-15T16:44:34.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華國葬｜香港殯儀館周六設靈、周日公祭　中央成立治喪委員會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230827/772527229409169408189652.jpeg/n6A0Hv0DdyryJ3qclcZVkn4ty_sGPz6CNJ8_wDSfP8A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60390311/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%9C%8B%E8%91%AC-%E9%A6%99%E6%B8%AF%E6%AE%AF%E5%84%80%E9%A4%A8%E5%91%A8%E5%85%AD%E8%A8%AD%E9%9D%88-%E5%91%A8%E6%97%A5%E5%85%AC%E7%A5%AD-%E4%B8%AD%E5%A4%AE%E6%88%90%E7%AB%8B%E6%B2%BB%E5%96%AA%E5%A7%94%E5%93%A1%E6%9C%83",
+    "timestamp": "2026-09-15T16:44:34.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許廷鏗去年經歷事業迷茫期　放慢腳步沉澱尋找新養分重新出發",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176556655014318080853796.jpeg/Cfup1Ef3U1coVunYLBMMPiQad-Lwc0Jj2aZmqvymZqo?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60390098/%E7%A6%8F%E5%AE%89%E5%A4%A7%E5%BB%88%E5%83%AD%E5%BB%BA%E5%A4%A9%E5%8F%B0%E5%B1%8B%E6%BB%B2%E6%B0%B4-%E6%B8%85%E6%8B%86%E4%BB%A4%E6%8B%96%E8%B6%B320%E5%B9%B4-%E6%A8%93%E4%B8%8B%E5%B1%85%E6%B0%91-%E8%8B%A6%E4%B8%8D%E5%A0%AA%E8%A8%80",
     "timestamp": "2026-09-15T08:49:02.352Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朴珍榮演唱會2027澳門｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176556669547581440095167.jpeg/kEcu5VFaLdJ7lGtRZobtjxzhWZieLV6p9rY8_fa2PP0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390189/%E6%9C%B4%E7%8F%8D%E6%A6%AE%E6%BC%94%E5%94%B1%E6%9C%832027%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-09-15T07:55:26.741Z",
     "strategy": ".content-card__main"
   }
 ];
