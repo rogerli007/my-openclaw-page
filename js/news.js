@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T22:42:38.384Z
+// Last updated: 2026-09-15T23:19:17.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "疑聽見「全世界都討厭中國人」不滿！中國客拉扯外國客　波及幼童",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176605378805239808274850.jpeg/pPfaDXAvN7hvIRE_zEy-hTEuc2fXmkLLoT5bhKE-W4Q",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389891/%E7%96%91%E8%81%BD%E8%A6%8B-%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E8%A8%8E%E5%8E%AD%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E4%B8%8D%E6%BB%BF-%E4%B8%AD%E5%9C%8B%E5%AE%A2%E6%8B%89%E6%89%AF%E5%A4%96%E5%9C%8B%E5%AE%A2-%E6%B3%A2%E5%8F%8A%E5%B9%BC%E7%AB%A5",
+    "timestamp": "2026-09-15T23:19:17.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：專機往返過境摩爾多瓦　俄羅斯無人機兩度闖領空",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134236979160944640407956.png/qTF7ID8xHnGtTr5qmdZ8sqYleTWMY0mOuawfGLmsHxg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390312/%E6%97%A5%E6%9C%AC%E8%AD%B0%E5%93%A1%E8%A8%AA%E8%8F%AF%E6%99%A4%E5%A4%96%E9%95%B7%E5%8A%A9%E7%90%86%E5%8A%89%E5%BD%AC-%E5%8C%97%E4%BA%AC-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%A1%8C%E6%98%AF%E4%B8%AD%E6%97%A5%E6%9C%80%E5%A4%A7%E7%99%A5%E7%B5%90",
     "timestamp": "2026-09-15T15:33:32.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段跌逾500點　納指挫0.8%　油價漲逾2%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250428/993660677904142336562089.jpeg/4FxnWUlvNAFN7lLzwIaP4efSPeemohQpuK3JyLitycg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390336/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E8%B7%8C%E9%80%BE500%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%8C%AB0-8-%E6%B2%B9%E5%83%B9%E6%BC%B2%E9%80%BE2",
-    "timestamp": "2026-09-15T15:20:05.302Z",
     "strategy": ".content-card__main"
   }
 ];
