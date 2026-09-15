@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T17:41:32.136Z
+// Last updated: 2026-09-15T17:54:25.274Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "掃管笏村殺狗疑雲　目擊者聽聞：劏隻狗　警到場無發現列雜項處理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176660705634422784905648.jpeg/jV1-jTGsvk_MAWuLrS6WQvxLIjuDZVVRMQ1qWBQNalg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390334/%E6%8E%83%E7%AE%A1%E7%AC%8F%E6%9D%91%E6%AE%BA%E7%8B%97%E7%96%91%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E8%81%BD%E8%81%9E-%E5%8A%8F%E9%9A%BB%E7%8B%97-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%84%A1%E7%99%BC%E7%8F%BE%E5%88%97%E9%9B%9C%E9%A0%85%E8%99%95%E7%90%86",
+    "timestamp": "2026-09-15T17:54:25.274Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "掃管笏村殺狗疑雲　目擊者聽聞：劏隻狗　警到場無發現列雜項處理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176597282913521664095236.jpeg/7oRjkg9zuboP4qaqrtIypj1f8gXNuAgn9M1Vr_TNVa8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60390272/%E4%B8%AD%E7%A7%8B%E5%95%86%E5%A0%B4%E5%A5%BD%E5%8E%BB%E8%99%9518%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%92%96%E5%95%A1%E9%9C%B2%E7%87%9F%E7%A5%AD-6%E7%B1%B3%E9%AB%98%E5%B7%A8%E5%9E%8B%E6%9C%88%E4%BA%AE-%E8%A3%95%E6%B0%91%E5%9D%8A%E5%B8%82%E9%9B%86",
     "timestamp": "2026-09-15T10:43:47.098Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭香如故線上看劇情｜最新更新時間/追劇日曆+演員關係圖+簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175215063691169792546703.jpeg/64oiXoCaFGSi0zC6-v9KUVLbtGRqORK4-Yh9ufmIfbk",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60386929/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-09-15T10:21:09.971Z",
     "strategy": ".content-card__main"
   }
 ];
