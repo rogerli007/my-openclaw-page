@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T08:49:02.352Z
+// Last updated: 2026-09-15T09:23:28.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "衛詩雅縫50針後火速復工拍《狩謊》　無懼破相與成毅拍撞車戲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176549457349578752280395.jpeg/0Vg-iS60FyHhYtV9wBBHs64BANgAI_7bvC4vD7wuLw8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390153/%E8%A1%9B%E8%A9%A9%E9%9B%85%E7%B8%AB50%E9%87%9D%E5%BE%8C%E7%81%AB%E9%80%9F%E5%BE%A9%E5%B7%A5%E6%8B%8D-%E7%8B%A9%E8%AC%8A-%E7%84%A1%E6%87%BC%E7%A0%B4%E7%9B%B8%E8%88%87%E6%88%90%E6%AF%85%E6%8B%8D%E6%92%9E%E8%BB%8A%E6%88%B2",
+    "timestamp": "2026-09-15T09:23:28.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福安大廈僭建天台屋滲水　清拆令拖足20年　樓下居民：苦不堪言",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175875571465326592275901.png/eCVDe8P5b5d4MVRqEE6Iwn1gUdH9lPfgvTd4b703eG8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384077/%E5%A4%9A%E5%80%AB%E5%A4%9A163cm%E8%8F%AF%E7%BE%8E%E5%A5%B3%E5%AB%81122cm%E4%BE%8F%E5%84%92%E7%94%B7-%E7%84%A1%E6%87%BC%E7%B6%B2%E6%B0%91%E6%83%A1%E8%A8%80-%E6%9C%80%E8%90%8C%E8%BA%AB%E9%AB%98%E5%B7%AE%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-09-14T23:28:14.030Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告前瞻｜單位愈建愈細躺平何罪　北都能否破局實現住大啲？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176304484905652224564903.jpeg/j7Nb6us6v3wwkQd2V45-vzq3AmCa6W_lSSQahUkkGoU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389273/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E5%89%8D%E7%9E%BB-%E5%96%AE%E4%BD%8D%E6%84%88%E5%BB%BA%E6%84%88%E7%B4%B0%E8%BA%BA%E5%B9%B3%E4%BD%95%E7%BD%AA-%E5%8C%97%E9%83%BD%E8%83%BD%E5%90%A6%E7%A0%B4%E5%B1%80%E5%AF%A6%E7%8F%BE%E4%BD%8F%E5%A4%A7%E5%95%B2",
-    "timestamp": "2026-09-14T23:17:37.657Z",
     "strategy": ".content-card__main"
   }
 ];
