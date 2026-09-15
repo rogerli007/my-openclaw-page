@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T05:44:36.037Z
+// Last updated: 2026-09-15T05:55:57.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告消息｜有指維園網球場或重建用途不止於網球　增觀眾座位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260109/1086351110819549184517083.jpeg/d8i_G5uexpr5rzdu13j57RKQAUQBbGk7IQAlhhsAJYY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390104/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E6%9C%89%E6%8C%87%E7%B6%AD%E5%9C%92%E7%B6%B2%E7%90%83%E5%A0%B4%E6%88%96%E9%87%8D%E5%BB%BA-%E5%A2%9E%E8%A7%80%E7%9C%BE%E5%BA%A7%E4%BD%8D%E9%87%8F",
+    "timestamp": "2026-09-15T05:55:57.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧麗欣面目猙獰做Gym自嘲相由心生　網民斥配文句句有骨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176395499306225664179052.jpeg/QqJvdZWaBhEKuqxAXO0hkSpjPVDigdBI4jkFROI5BUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389984/%E8%8B%B1%E8%B6%85-%E5%88%97%E6%96%AF%E8%81%AF4-1%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%87%E4%B8%8A%E7%AC%AC%E4%B8%89%E4%BD%8D",
     "timestamp": "2026-09-14T21:43:53.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜列斯聯4：1勝紐卡素　升上第三位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176395499306225664179052.jpeg/QqJvdZWaBhEKuqxAXO0hkSpjPVDigdBI4jkFROI5BUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389984/%E8%8B%B1%E8%B6%85-%E5%88%97%E6%96%AF%E8%81%AF4-1%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%87%E4%B8%8A%E7%AC%AC%E4%B8%89%E4%BD%8D",
-    "timestamp": "2026-09-14T21:29:11.222Z",
     "strategy": ".content-card__main"
   }
 ];
