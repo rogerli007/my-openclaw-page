@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T03:47:15.971Z
+// Last updated: 2026-09-15T03:56:38.074Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旅遊飲食界9.19-9.20嘉年華派嘉美雞　即睇送機票、跨境車票詳情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176492751072530432643950.png/epb2uL--iMI7B-cAW8U5SX_czyIH41HhFP_NohT_zaI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390063/%E6%97%85%E9%81%8A%E9%A3%B2%E9%A3%9F%E7%95%8C9-19-9-20%E5%98%89%E5%B9%B4%E8%8F%AF%E6%B4%BE%E5%98%89%E7%BE%8E%E9%9B%9E-%E5%8D%B3%E7%9D%87%E9%80%81%E6%A9%9F%E7%A5%A8-%E8%B7%A8%E5%A2%83%E8%BB%8A%E7%A5%A8%E8%A9%B3%E6%83%85",
+    "timestamp": "2026-09-15T03:56:38.074Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃淑蔓演唱會2026香港｜門票優先公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2255679/org/51484e92c8807437939455e0bbd1fbf0.jpg/g11VTRjrLBhno4R9Qh8adba7XBw6z9KY3K03FdytNxU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389972/%E7%BE%8E%E5%9C%8B10%E5%B9%B4%E6%9C%9F%E5%82%B5%E6%81%AF%E7%AA%81%E7%A0%B45-2023%E5%B9%B410%E6%9C%88%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1",
     "timestamp": "2026-09-14T19:54:02.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國10年期債息突破5%　2023年10月以来首次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2255679/org/51484e92c8807437939455e0bbd1fbf0.jpg/g11VTRjrLBhno4R9Qh8adba7XBw6z9KY3K03FdytNxU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389972/%E7%BE%8E%E5%9C%8B10%E5%B9%B4%E6%9C%9F%E5%82%B5%E6%81%AF%E7%AA%81%E7%A0%B45-2023%E5%B9%B410%E6%9C%88%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1",
-    "timestamp": "2026-09-14T19:40:29.111Z",
     "strategy": ".content-card__main"
   }
 ];
