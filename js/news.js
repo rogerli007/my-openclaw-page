@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T17:54:25.274Z
+// Last updated: 2026-09-15T18:22:50.458Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "掃管笏村殺狗疑雲　目擊者聽聞：劏隻狗　警到場無發現列雜項處理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176660705634422784905648.jpeg/jV1-jTGsvk_MAWuLrS6WQvxLIjuDZVVRMQ1qWBQNalg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390334/%E6%8E%83%E7%AE%A1%E7%AC%8F%E6%9D%91%E6%AE%BA%E7%8B%97%E7%96%91%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E8%81%BD%E8%81%9E-%E5%8A%8F%E9%9A%BB%E7%8B%97-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%84%A1%E7%99%BC%E7%8F%BE%E5%88%97%E9%9B%9C%E9%A0%85%E8%99%95%E7%90%86",
+    "timestamp": "2026-09-15T18:22:50.458Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "掃管笏村殺狗疑雲　目擊者聽聞：劏隻狗　警到場無發現列雜項處理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176535342098944000120486.png/j8FkZil70XOH25vY-2HOSOosTcComowUbkr4Dm5K-A4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60387887/%E7%A7%91%E6%8A%80%E5%9C%92%E8%BE%A6%E5%85%B1%E5%89%B5%E5%85%B1%E6%8A%95%E7%94%A2%E6%A5%AD%E5%8A%A0%E9%80%9F%E5%B3%B0%E6%9C%83-%E5%85%B1%E5%90%8C%E4%BC%81%E6%A5%AD%E5%8A%A0%E9%80%9F%E5%9F%BA%E9%87%91%E9%A6%96%E6%89%B9%E6%8A%95%E8%B3%87%E5%9B%9B%E7%A7%91%E4%BC%81",
     "timestamp": "2026-09-15T10:53:44.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中秋商場好去處18大推介｜咖啡露營祭/6米高巨型月亮/裕民坊市集",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176597282913521664095236.jpeg/7oRjkg9zuboP4qaqrtIypj1f8gXNuAgn9M1Vr_TNVa8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60390272/%E4%B8%AD%E7%A7%8B%E5%95%86%E5%A0%B4%E5%A5%BD%E5%8E%BB%E8%99%9518%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%92%96%E5%95%A1%E9%9C%B2%E7%87%9F%E7%A5%AD-6%E7%B1%B3%E9%AB%98%E5%B7%A8%E5%9E%8B%E6%9C%88%E4%BA%AE-%E8%A3%95%E6%B0%91%E5%9D%8A%E5%B8%82%E9%9B%86",
-    "timestamp": "2026-09-15T10:43:47.098Z",
     "strategy": ".content-card__main"
   }
 ];
