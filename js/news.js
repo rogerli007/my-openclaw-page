@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T02:34:23.849Z
+// Last updated: 2026-09-15T02:54:07.808Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈爾濱馬拉松選手草地便溺惹議　官方承認流動廁所分布不均",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176481316548382720187342.jpeg/FDBV5d1QQyliDbCj6UNVk_M7pm-A3FLLnHeW05x3ltM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60390029/%E5%93%88%E7%88%BE%E6%BF%B1%E9%A6%AC%E6%8B%89%E6%9D%BE%E9%81%B8%E6%89%8B%E8%8D%89%E5%9C%B0%E4%BE%BF%E6%BA%BA%E6%83%B9%E8%AD%B0-%E5%AE%98%E6%96%B9%E6%89%BF%E8%AA%8D%E6%B5%81%E5%8B%95%E5%BB%81%E6%89%80%E5%88%86%E5%B8%83%E4%B8%8D%E5%9D%87",
+    "timestamp": "2026-09-15T02:54:07.808Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》家長講座　青年耀進發展協會行政總監分享AI時代教養法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176353399302524928973648.jpeg/IHXr7VDE7PyL2DYgmuRLjY6Xm3zY-_6yJLPmQQ6z5kE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389970/%E6%B2%99%E7%94%B0%E9%9A%86%E4%BA%A8%E9%82%A8%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB%E5%86%8D%E8%BF%94%E7%8F%BE%E5%A0%B4-%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-14T18:46:18.290Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田隆亨邨私家車自炒撞欄　司機不顧而去再返現場　涉販毒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176353399302524928973648.jpeg/IHXr7VDE7PyL2DYgmuRLjY6Xm3zY-_6yJLPmQQ6z5kE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389970/%E6%B2%99%E7%94%B0%E9%9A%86%E4%BA%A8%E9%82%A8%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB%E5%86%8D%E8%BF%94%E7%8F%BE%E5%A0%B4-%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-14T18:24:58.821Z",
     "strategy": ".content-card__main"
   }
 ];
