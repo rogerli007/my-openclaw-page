@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T21:58:06.694Z
+// Last updated: 2026-09-15T22:19:17.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日局部地區有驟雨　日間大致天晴　最高31度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176773683528732672096518.jpeg/c970TY47wfpg6h9z_Jo4TeRlDejHVhJrf5aaW3-Wmls?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60390354/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%9C%80%E9%AB%9831%E5%BA%A6",
+    "timestamp": "2026-09-15T22:19:17.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "與伊朗戰爭成本達380億美元　美國會預算辦公室：每月再增30億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176595378003251200539724.jpeg/NAO4hcmNJClmnceMRVbkGiIBjGofC5r9AP7dNwD-3Tc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390078/%E5%A5%B3%E7%A5%9E2-%E6%B8%B8%E5%98%89%E6%AC%A3%E5%8A%9B%E5%8B%B8%E4%BD%95%E6%B2%9B%E7%8F%88%E6%93%87%E4%B8%80%E5%A4%9C%E6%83%85%E7%88%86%E8%82%8C%E7%94%B7-%E9%81%AD%E7%B6%B2%E6%B0%91%E9%AC%A7%E7%88%86-%E7%9C%9F%E4%BF%82%E6%90%8D%E5%8F%8B",
     "timestamp": "2026-09-15T14:43:49.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟將立法限制15歲以下兒童使用社交及影片平台等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148848085477101568842350.jpeg/kw_auTFhF3gu1O5W8CcQRtykCgwCvQRP_pySHf6ckh0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390329/%E6%AD%90%E7%9B%9F%E5%B0%87%E7%AB%8B%E6%B3%95%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E5%85%92%E7%AB%A5%E4%BD%BF%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%8F%8A%E5%BD%B1%E7%89%87%E5%B9%B3%E5%8F%B0%E7%AD%89",
-    "timestamp": "2026-09-15T14:21:30.658Z",
     "strategy": ".content-card__main"
   }
 ];
