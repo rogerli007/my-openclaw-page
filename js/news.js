@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T22:35:09.519Z
+// Last updated: 2026-09-15T22:42:38.384Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：專機往返過境摩爾多瓦　俄羅斯無人機兩度闖領空",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174604467224449024973468.jpeg/5pFG_ZFntpRd5RVdjtK7puPXvD8Lr-bGhlSdHIZUnRw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390371/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%B0%88%E6%A9%9F%E5%BE%80%E8%BF%94%E9%81%8E%E5%A2%83%E6%91%A9%E7%88%BE%E5%A4%9A%E7%93%A6-%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%85%A9%E5%BA%A6%E9%97%96%E9%A0%98%E7%A9%BA",
+    "timestamp": "2026-09-15T22:42:38.384Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：專機往返過境摩爾多瓦　俄羅斯無人機兩度闖領空",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250428/993660677904142336562089.jpeg/4FxnWUlvNAFN7lLzwIaP4efSPeemohQpuK3JyLitycg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390336/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E8%B7%8C%E9%80%BE500%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%8C%AB0-8-%E6%B2%B9%E5%83%B9%E6%BC%B2%E9%80%BE2",
     "timestamp": "2026-09-15T15:20:05.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國宣布提升與委內瑞拉外交關係　將派大使",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240922/914574101543129088169482.jpeg/EgJzxLn9mNxRA-hPQmIcEk8y9YdyCuFEGvB6-xrwevs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390331/%E8%8B%B1%E5%9C%8B%E5%AE%A3%E5%B8%83%E6%8F%90%E5%8D%87%E8%88%87%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E5%A4%96%E4%BA%A4%E9%97%9C%E4%BF%82-%E5%B0%87%E6%B4%BE%E5%A4%A7%E4%BD%BF",
-    "timestamp": "2026-09-15T14:54:42.531Z",
     "strategy": ".content-card__main"
   }
 ];
