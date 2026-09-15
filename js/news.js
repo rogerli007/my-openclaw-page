@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T04:46:44.198Z
+// Last updated: 2026-09-15T04:56:04.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro Max上台優惠｜CMHK SmarTone csl 3HK 邊間最抵？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176509293000658944942867.jpeg/IW7GchBt1JieUT4wybfUF6EVHh91BqdOPSLvsz0i77M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60389899/iphone-18-pro-max%E4%B8%8A%E5%8F%B0%E5%84%AA%E6%83%A0-cmhk-smartone-csl-3hk-%E9%82%8A%E9%96%93%E6%9C%80%E6%8A%B5",
+    "timestamp": "2026-09-15T04:56:04.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國限制留學生及記者停留期限新規實施在即　聯邦法官下令叫停",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389975/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%9716%E6%97%A5%E8%AA%BF%E6%95%B4%E8%87%AA%E6%B0%91%E9%BB%A8%E4%BA%BA%E4%BA%8B-17%E6%97%A5%E6%94%B9%E7%B5%84%E5%85%A7%E9%96%A3",
     "timestamp": "2026-09-14T20:54:36.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國10年期債息曾突破5%　2023年10月以来首次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2255679/org/51484e92c8807437939455e0bbd1fbf0.jpg/g11VTRjrLBhno4R9Qh8adba7XBw6z9KY3K03FdytNxU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60389972/%E7%BE%8E%E5%9C%8B10%E5%B9%B4%E6%9C%9F%E5%82%B5%E6%81%AF%E6%9B%BE%E7%AA%81%E7%A0%B45-2023%E5%B9%B410%E6%9C%88%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1",
-    "timestamp": "2026-09-14T20:43:52.453Z",
     "strategy": ".content-card__main"
   }
 ];
