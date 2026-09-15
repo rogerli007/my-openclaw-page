@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T20:56:56.041Z
+// Last updated: 2026-09-15T21:30:35.789Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英聯賽盃｜利物浦3：1熱刺　阿仙奴作客4：2葉士域治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176756697767612416562730.jpeg/wQwGEk6nFxHzzUOnL5JGvmWWVAJifPBuqVkVValZFVU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390367/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%86%B1%E5%88%BA-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-2%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB",
+    "timestamp": "2026-09-15T21:30:35.789Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國法官再阻加特朗普名字　甘迺迪中心董事會通過閉館翻新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176629193828470784324197.jpeg/ke0BAhDFB_Brb0NJRyeutOUJbUZutHnHL4nRgS-J0YE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390313/marf%E6%9D%B1%E4%BA%AC%E5%87%BA%E5%B8%AD%E5%93%81%E7%89%8C%E6%B4%BB%E5%8B%95-%E8%88%87ros%C3%A9-blackpink%E5%90%8C%E5%A0%B4-%E4%BD%A2%E5%8F%AF%E6%84%9B%E4%B8%AD%E5%B8%B6%E9%BB%9E%E8%BE%A3",
     "timestamp": "2026-09-15T13:21:06.862Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張寶兒搬離6600萬「漏屎水」舊居　愈搬愈富貴兩層複式豪宅曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176602782841442304635042.jpeg/JAZk44VN-49FgKVcV2hUjqenJe1RMf-Jpi2lWaYtpVk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390201/%E5%BC%B5%E5%AF%B6%E5%85%92%E6%90%AC%E9%9B%A26600%E8%90%AC-%E6%BC%8F%E5%B1%8E%E6%B0%B4-%E8%88%8A%E5%B1%85-%E6%84%88%E6%90%AC%E6%84%88%E5%AF%8C%E8%B2%B4%E5%85%A9%E5%B1%A4%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-09-15T12:28:35.160Z",
     "strategy": ".content-card__main"
   }
 ];
