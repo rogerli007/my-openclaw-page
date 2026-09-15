@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T18:46:16.203Z
+// Last updated: 2026-09-15T18:55:32.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英美荷聯合警示　伊朗間諜軟件針對異見人士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080085627044630528436857.jpeg/sSRR6xeqM_dH7WdPa2yhq12bEewZ3g2dKICNjCiAjYw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390356/%E8%8B%B1%E7%BE%8E%E8%8D%B7%E8%81%AF%E5%90%88%E8%AD%A6%E7%A4%BA-%E4%BC%8A%E6%9C%97%E9%96%93%E8%AB%9C%E8%BB%9F%E4%BB%B6%E9%87%9D%E5%B0%8D%E7%95%B0%E8%A6%8B%E4%BA%BA%E5%A3%AB",
+    "timestamp": "2026-09-15T18:55:32.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英美荷聯合警示　伊朗間諜軟件針對異見人士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176612976774352896142753.jpeg/vhUJWeQ8qFSEEfQLbwHyU-a1dmfedvsJex3FK3sdxSs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60390255/%E7%83%9A%E9%9B%9E%E8%9B%8B%E8%A6%81%E5%B9%BE%E8%80%90%E6%99%82%E9%96%93-%E8%9B%8B%E9%BB%83%E5%8D%8A%E6%B5%81%E5%BF%83%E4%B8%8D%E9%BB%90%E6%AE%BC%E7%A7%98%E8%A8%A3-8%E5%80%8B%E7%83%9A%E7%85%AE%E6%99%82%E9%96%93%E8%9B%8B%E9%BB%83%E7%8B%80%E6%85%8B",
     "timestamp": "2026-09-15T11:32:31.460Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全國政協前常委畢井泉受賄5742萬囚14年　曾因長春長生疫苗案辭職",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176608994014269440473192.jpeg/YwtVvWnrkRQoqkwYCeebLuxJsE7dbuM0HtARCB7QEQg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390297/%E5%85%A8%E5%9C%8B%E6%94%BF%E5%8D%94%E5%89%8D%E5%B8%B8%E5%A7%94%E7%95%A2%E4%BA%95%E6%B3%89%E5%8F%97%E8%B3%845742%E8%90%AC%E5%9B%9A14%E5%B9%B4-%E6%9B%BE%E5%9B%A0%E9%95%B7%E6%98%A5%E9%95%B7%E7%94%9F%E7%96%AB%E8%8B%97%E6%A1%88%E8%BE%AD%E8%81%B7",
-    "timestamp": "2026-09-15T11:19:22.245Z",
     "strategy": ".content-card__main"
   }
 ];
