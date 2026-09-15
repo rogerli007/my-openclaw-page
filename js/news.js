@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T04:56:04.145Z
+// Last updated: 2026-09-15T05:21:53.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈里夫婦因保安憂慮為子女閃電轉校　強調與學校照顧無關",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176500673777242112290675.jpeg/DLsg7jA0adLlQmM97Np5BRvNBGZT08lR0jNKmNIzSpg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390079/%E5%93%88%E9%87%8C%E5%A4%AB%E5%A9%A6%E5%9B%A0%E4%BF%9D%E5%AE%89%E6%86%82%E6%85%AE%E7%82%BA%E5%AD%90%E5%A5%B3%E9%96%83%E9%9B%BB%E8%BD%89%E6%A0%A1-%E5%BC%B7%E8%AA%BF%E8%88%87%E5%AD%B8%E6%A0%A1%E7%85%A7%E9%A1%A7%E7%84%A1%E9%97%9C",
+    "timestamp": "2026-09-15T05:21:53.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18 Pro Max上台優惠｜CMHK SmarTone csl 3HK 邊間最抵？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176395499306225664179052.jpeg/QqJvdZWaBhEKuqxAXO0hkSpjPVDigdBI4jkFROI5BUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60389984/%E8%8B%B1%E8%B6%85-%E5%88%97%E6%96%AF%E8%81%AF4-1%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E5%8D%87%E4%B8%8A%E7%AC%AC%E4%B8%89%E4%BD%8D",
     "timestamp": "2026-09-14T21:17:22.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日媒：高市早苗16日調整自民黨人事　17日改組內閣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163858820657582080639827.jpeg/yzDvy_704livGF6eXLB9P-7CSJLQc8dd7s6_0-7Ov9M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389975/%E6%97%A5%E5%AA%92-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%9716%E6%97%A5%E8%AA%BF%E6%95%B4%E8%87%AA%E6%B0%91%E9%BB%A8%E4%BA%BA%E4%BA%8B-17%E6%97%A5%E6%94%B9%E7%B5%84%E5%85%A7%E9%96%A3",
-    "timestamp": "2026-09-14T20:54:36.300Z",
     "strategy": ".content-card__main"
   }
 ];
