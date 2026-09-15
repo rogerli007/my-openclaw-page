@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T14:21:30.658Z
+// Last updated: 2026-09-15T14:43:49.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2｜游嘉欣力勸何沛珈擇一夜情爆肌男　遭網民鬧爆：真係損友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176595378003251200539724.jpeg/NAO4hcmNJClmnceMRVbkGiIBjGofC5r9AP7dNwD-3Tc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390078/%E5%A5%B3%E7%A5%9E2-%E6%B8%B8%E5%98%89%E6%AC%A3%E5%8A%9B%E5%8B%B8%E4%BD%95%E6%B2%9B%E7%8F%88%E6%93%87%E4%B8%80%E5%A4%9C%E6%83%85%E7%88%86%E8%82%8C%E7%94%B7-%E9%81%AD%E7%B6%B2%E6%B0%91%E9%AC%A7%E7%88%86-%E7%9C%9F%E4%BF%82%E6%90%8D%E5%8F%8B",
+    "timestamp": "2026-09-15T14:43:49.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟將立法限制15歲以下兒童使用社交及影片平台等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176500673777242112290675.jpeg/DLsg7jA0adLlQmM97Np5BRvNBGZT08lR0jNKmNIzSpg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390079/%E5%93%88%E9%87%8C%E5%A4%AB%E5%A9%A6%E5%9B%A0%E4%BF%9D%E5%AE%89%E6%86%82%E6%85%AE%E7%82%BA%E5%AD%90%E5%A5%B3%E9%96%83%E9%9B%BB%E8%BD%89%E6%A0%A1-%E5%BC%B7%E8%AA%BF%E8%88%87%E5%AD%B8%E6%A0%A1%E7%85%A7%E9%A1%A7%E7%84%A1%E9%97%9C",
     "timestamp": "2026-09-15T05:21:53.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro Max上台優惠｜CMHK SmarTone csl 3HK 邊間最抵？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176509293000658944942867.jpeg/IW7GchBt1JieUT4wybfUF6EVHh91BqdOPSLvsz0i77M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60389899/iphone-18-pro-max%E4%B8%8A%E5%8F%B0%E5%84%AA%E6%83%A0-cmhk-smartone-csl-3hk-%E9%82%8A%E9%96%93%E6%9C%80%E6%8A%B5",
-    "timestamp": "2026-09-15T04:56:04.145Z",
     "strategy": ".content-card__main"
   }
 ];
