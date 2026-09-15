@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T23:19:17.335Z
+// Last updated: 2026-09-15T23:46:05.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌葵順街貨車右轉撼交通燈柱　車頭凹陷損毀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176792496852701184810923.jpeg/VJSkW930eepErSRcIjZRpgjCZeA1NSpzT3qsUE96rFA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390377/%E8%91%B5%E6%B6%8C%E8%91%B5%E9%A0%86%E8%A1%97%E8%B2%A8%E8%BB%8A%E5%8F%B3%E8%BD%89%E6%92%BC%E4%BA%A4%E9%80%9A%E7%87%88%E6%9F%B1-%E8%BB%8A%E9%A0%AD%E5%87%B9%E9%99%B7%E6%90%8D%E6%AF%80",
+    "timestamp": "2026-09-15T23:46:05.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "疑聽見「全世界都討厭中國人」不滿！中國客拉扯外國客　波及幼童",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176666898020962304389602.jpeg/bAphgrkDpr0pffnkhSanykkrJzOpYX_3pWCogKVgqIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390337/%E8%A8%B1%E5%BB%B7%E9%8F%97%E5%8E%BB%E5%B9%B4%E7%B6%93%E6%AD%B7%E4%BA%8B%E6%A5%AD%E8%BF%B7%E8%8C%AB%E6%9C%9F-%E6%94%BE%E6%85%A2%E8%85%B3%E6%AD%A5%E6%B2%89%E6%BE%B1%E5%B0%8B%E6%89%BE%E6%96%B0%E9%A4%8A%E5%88%86%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC",
     "timestamp": "2026-09-15T15:54:54.121Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本議員訪華晤外長助理劉彬　北京：高市早苗言行是中日最大癥結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260521/1134236979160944640407956.png/qTF7ID8xHnGtTr5qmdZ8sqYleTWMY0mOuawfGLmsHxg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390312/%E6%97%A5%E6%9C%AC%E8%AD%B0%E5%93%A1%E8%A8%AA%E8%8F%AF%E6%99%A4%E5%A4%96%E9%95%B7%E5%8A%A9%E7%90%86%E5%8A%89%E5%BD%AC-%E5%8C%97%E4%BA%AC-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%A1%8C%E6%98%AF%E4%B8%AD%E6%97%A5%E6%9C%80%E5%A4%A7%E7%99%A5%E7%B5%90",
-    "timestamp": "2026-09-15T15:33:32.657Z",
     "strategy": ".content-card__main"
   }
 ];
