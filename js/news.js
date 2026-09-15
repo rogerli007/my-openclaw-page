@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T11:19:22.245Z
+// Last updated: 2026-09-15T11:32:31.460Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烚雞蛋要幾耐時間？蛋黃半流心不黐殼秘訣＋8個烚煮時間蛋黃狀態",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176612976774352896142753.jpeg/vhUJWeQ8qFSEEfQLbwHyU-a1dmfedvsJex3FK3sdxSs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60390255/%E7%83%9A%E9%9B%9E%E8%9B%8B%E8%A6%81%E5%B9%BE%E8%80%90%E6%99%82%E9%96%93-%E8%9B%8B%E9%BB%83%E5%8D%8A%E6%B5%81%E5%BF%83%E4%B8%8D%E9%BB%90%E6%AE%BC%E7%A7%98%E8%A8%A3-8%E5%80%8B%E7%83%9A%E7%85%AE%E6%99%82%E9%96%93%E8%9B%8B%E9%BB%83%E7%8B%80%E6%85%8B",
+    "timestamp": "2026-09-15T11:32:31.460Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全國政協前常委畢井泉受賄5742萬囚14年　曾因長春長生疫苗案辭職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176481316548382720187342.jpeg/FDBV5d1QQyliDbCj6UNVk_M7pm-A3FLLnHeW05x3ltM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60390029/%E5%93%88%E7%88%BE%E6%BF%B1%E9%A6%AC%E6%8B%89%E6%9D%BE%E9%81%B8%E6%89%8B%E8%8D%89%E5%9C%B0%E4%BE%BF%E6%BA%BA%E6%83%B9%E8%AD%B0-%E5%AE%98%E6%96%B9%E6%89%BF%E8%AA%8D%E6%B5%81%E5%8B%95%E5%BB%81%E6%89%80%E5%88%86%E5%B8%83%E4%B8%8D%E5%9D%87",
     "timestamp": "2026-09-15T02:54:07.808Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》家長講座　青年耀進發展協會行政總監分享AI時代教養法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174393540302606336753062.jpeg/8zvUPD3JvoGYCE4x1mFkpEhARF_C7H5eESqJDBEqiQw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60388011/%E9%A6%99%E6%B8%AF01-%E5%AE%B6%E9%95%B7%E8%AC%9B%E5%BA%A7-%E9%9D%92%E5%B9%B4%E8%80%80%E9%80%B2%E7%99%BC%E5%B1%95%E5%8D%94%E6%9C%83%E8%A1%8C%E6%94%BF%E7%B8%BD%E7%9B%A3%E5%88%86%E4%BA%ABai%E6%99%82%E4%BB%A3%E6%95%99%E9%A4%8A%E6%B3%95",
-    "timestamp": "2026-09-15T02:34:23.849Z",
     "strategy": ".content-card__main"
   }
 ];
