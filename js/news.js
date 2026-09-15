@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T19:41:46.336Z
+// Last updated: 2026-09-15T20:56:56.041Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國法官再阻加特朗普名字　甘迺迪中心董事會通過閉館翻新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176528650154020864034591.jpeg/Ry_WLFF1xtHchkFPcTuw4EVLCNvFh4hJJSautiUmrrY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390363/%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E5%86%8D%E9%98%BB%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8D%E5%AD%97-%E7%94%98%E8%BF%BA%E8%BF%AA%E4%B8%AD%E5%BF%83%E8%91%A3%E4%BA%8B%E6%9C%83%E9%80%9A%E9%81%8E%E9%96%89%E9%A4%A8%E7%BF%BB%E6%96%B0",
+    "timestamp": "2026-09-15T20:56:56.041Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香山論壇｜韓正歡迎晚宴致辭：堅持多邊主義、反對軍國主義復活",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176602782841442304635042.jpeg/JAZk44VN-49FgKVcV2hUjqenJe1RMf-Jpi2lWaYtpVk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390201/%E5%BC%B5%E5%AF%B6%E5%85%92%E6%90%AC%E9%9B%A26600%E8%90%AC-%E6%BC%8F%E5%B1%8E%E6%B0%B4-%E8%88%8A%E5%B1%85-%E6%84%88%E6%90%AC%E6%84%88%E5%AF%8C%E8%B2%B4%E5%85%A9%E5%B1%A4%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89",
     "timestamp": "2026-09-15T12:28:35.160Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福安大廈天台僭建屋滲水20年未拆　天台業權去向自1970年消失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176600522837200896428791.jpeg/GHu5nkhdYRGUD99_hZvNoresKXOXw2VbaQ7N7GkOzew?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60390294/%E7%A6%8F%E5%AE%89%E5%A4%A7%E5%BB%88%E5%A4%A9%E5%8F%B0%E5%83%AD%E5%BB%BA%E5%B1%8B%E6%BB%B2%E6%B0%B420%E5%B9%B4%E6%9C%AA%E6%8B%86-%E5%A4%A9%E5%8F%B0%E6%A5%AD%E6%AC%8A%E5%8E%BB%E5%90%91%E8%87%AA1970%E5%B9%B4%E6%B6%88%E5%A4%B1",
-    "timestamp": "2026-09-15T11:53:40.188Z",
     "strategy": ".content-card__main"
   }
 ];
