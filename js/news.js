@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T18:55:32.725Z
+// Last updated: 2026-09-15T19:41:46.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香山論壇｜韓正歡迎晚宴致辭：堅持多邊主義、反對軍國主義復活",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176735645813444608412309.jpeg/51Q2Gt-Bul0DGiBsYQCz0qID1Yi5FbXiFRfTYRUX02E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390361/%E9%A6%99%E5%B1%B1%E8%AB%96%E5%A3%87-%E9%9F%93%E6%AD%A3%E6%AD%A1%E8%BF%8E%E6%99%9A%E5%AE%B4%E8%87%B4%E8%BE%AD-%E5%A0%85%E6%8C%81%E5%A4%9A%E9%82%8A%E4%B8%BB%E7%BE%A9-%E5%8F%8D%E5%B0%8D%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9%E5%BE%A9%E6%B4%BB",
+    "timestamp": "2026-09-15T19:41:46.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英美荷聯合警示　伊朗間諜軟件針對異見人士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176600522837200896428791.jpeg/GHu5nkhdYRGUD99_hZvNoresKXOXw2VbaQ7N7GkOzew?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60390294/%E7%A6%8F%E5%AE%89%E5%A4%A7%E5%BB%88%E5%A4%A9%E5%8F%B0%E5%83%AD%E5%BB%BA%E5%B1%8B%E6%BB%B2%E6%B0%B420%E5%B9%B4%E6%9C%AA%E6%8B%86-%E5%A4%A9%E5%8F%B0%E6%A5%AD%E6%AC%8A%E5%8E%BB%E5%90%91%E8%87%AA1970%E5%B9%B4%E6%B6%88%E5%A4%B1",
     "timestamp": "2026-09-15T11:53:40.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烚雞蛋要幾耐時間？蛋黃半流心不黐殼秘訣＋8個烚煮時間蛋黃狀態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176612976774352896142753.jpeg/vhUJWeQ8qFSEEfQLbwHyU-a1dmfedvsJex3FK3sdxSs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60390255/%E7%83%9A%E9%9B%9E%E8%9B%8B%E8%A6%81%E5%B9%BE%E8%80%90%E6%99%82%E9%96%93-%E8%9B%8B%E9%BB%83%E5%8D%8A%E6%B5%81%E5%BF%83%E4%B8%8D%E9%BB%90%E6%AE%BC%E7%A7%98%E8%A8%A3-8%E5%80%8B%E7%83%9A%E7%85%AE%E6%99%82%E9%96%93%E8%9B%8B%E9%BB%83%E7%8B%80%E6%85%8B",
-    "timestamp": "2026-09-15T11:32:31.460Z",
     "strategy": ".content-card__main"
   }
 ];
