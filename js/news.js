@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T01:44:20.543Z
+// Last updated: 2026-09-15T02:03:22.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直播｜瑪麗醫院壞𨋢須盡快矯正　李家超：如涉政府人員將追究責任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176468222786932736041762.jpeg/VEPwD5T7okw4ZAk9hrwLZ6an5WBdtFF7q6nXn46p158?v=w1920",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389768/%E7%9B%B4%E6%92%AD-%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2%E9%A0%88%E7%9B%A1%E5%BF%AB%E7%9F%AF%E6%AD%A3-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%A6%82%E6%B6%89%E6%94%BF%E5%BA%9C%E4%BA%BA%E5%93%A1%E5%B0%87%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB",
+    "timestamp": "2026-09-15T02:03:22.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "直播｜李家超見記者　施政報告封面料曝光　推組合拳谷生育？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230731/762729572994125824917602.jpeg/c1UgLxPrlZCU-uS4Q5LsggZZvvbZ8Of-j9Xb4I_V2-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389964/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BC%8A%E6%9C%97%E6%83%B3%E8%BF%85%E9%80%9F%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0-%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AA%8D%E6%AC%B2%E9%87%8D%E5%95%9F%E8%AB%87%E5%88%A4",
     "timestamp": "2026-09-14T17:55:09.688Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山街頭聚集惹疑　2內地青年被警搜出他人iPhone、銀行卡被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240811/899226505236713472061574.jpeg/_1-NlCfYrN0RdYm7pg430Lcw13hx4gZx2yKfP9sinz8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60389968/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%A1%97%E9%A0%AD%E8%81%9A%E9%9B%86%E6%83%B9%E7%96%91-2%E5%85%A7%E5%9C%B0%E9%9D%92%E5%B9%B4%E8%A2%AB%E8%AD%A6%E6%90%9C%E5%87%BA%E4%BB%96%E4%BA%BAiphone-%E9%8A%80%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-14T17:29:02.492Z",
     "strategy": ".content-card__main"
   }
 ];
