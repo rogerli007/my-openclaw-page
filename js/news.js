@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T10:53:44.738Z
+// Last updated: 2026-09-15T11:19:22.245Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全國政協前常委畢井泉受賄5742萬囚14年　曾因長春長生疫苗案辭職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176608994014269440473192.jpeg/YwtVvWnrkRQoqkwYCeebLuxJsE7dbuM0HtARCB7QEQg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390297/%E5%85%A8%E5%9C%8B%E6%94%BF%E5%8D%94%E5%89%8D%E5%B8%B8%E5%A7%94%E7%95%A2%E4%BA%95%E6%B3%89%E5%8F%97%E8%B3%845742%E8%90%AC%E5%9B%9A14%E5%B9%B4-%E6%9B%BE%E5%9B%A0%E9%95%B7%E6%98%A5%E9%95%B7%E7%94%9F%E7%96%AB%E8%8B%97%E6%A1%88%E8%BE%AD%E8%81%B7",
+    "timestamp": "2026-09-15T11:19:22.245Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科技園辦共創共投產業加速峰會　共同企業加速基金首批投資四科企",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174393540302606336753062.jpeg/8zvUPD3JvoGYCE4x1mFkpEhARF_C7H5eESqJDBEqiQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60388011/%E9%A6%99%E6%B8%AF01-%E5%AE%B6%E9%95%B7%E8%AC%9B%E5%BA%A7-%E9%9D%92%E5%B9%B4%E8%80%80%E9%80%B2%E7%99%BC%E5%B1%95%E5%8D%94%E6%9C%83%E8%A1%8C%E6%94%BF%E7%B8%BD%E7%9B%A3%E5%88%86%E4%BA%ABai%E6%99%82%E4%BB%A3%E6%95%99%E9%A4%8A%E6%B3%95",
     "timestamp": "2026-09-15T02:34:23.849Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播｜瑪麗醫院壞𨋢須盡快矯正　李家超：如涉政府人員將追究責任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176468222786932736041762.jpeg/VEPwD5T7okw4ZAk9hrwLZ6an5WBdtFF7q6nXn46p158?v=w1920",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60389768/%E7%9B%B4%E6%92%AD-%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2%E9%A0%88%E7%9B%A1%E5%BF%AB%E7%9F%AF%E6%AD%A3-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%A6%82%E6%B6%89%E6%94%BF%E5%BA%9C%E4%BA%BA%E5%93%A1%E5%B0%87%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB",
-    "timestamp": "2026-09-15T02:03:22.513Z",
     "strategy": ".content-card__main"
   }
 ];
