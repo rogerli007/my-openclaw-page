@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T03:27:05.258Z
+// Last updated: 2026-09-16T04:23:22.986Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五年規劃｜推動政府數字債券常態化發行　支持海內外龍頭企業上市",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176861656014655488032761.jpeg/1S2Ghmfqcg2ighmYV-8RWh9Z-uDjDauZiP9GiZL_Rok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390495/%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E6%8E%A8%E5%8B%95%E6%94%BF%E5%BA%9C%E6%95%B8%E5%AD%97%E5%82%B5%E5%88%B8%E5%B8%B8%E6%85%8B%E5%8C%96%E7%99%BC%E8%A1%8C-%E6%94%AF%E6%8C%81%E6%B5%B7%E5%85%A7%E5%A4%96%E9%BE%8D%E9%A0%AD%E4%BC%81%E6%A5%AD%E4%B8%8A%E5%B8%82",
+    "timestamp": "2026-09-16T04:23:22.986Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "千葉珠寶疑爆煲　15億黃金珠寶庫存滯銷　低價黃金策略反噬現金流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176660705634422784905648.jpeg/jV1-jTGsvk_MAWuLrS6WQvxLIjuDZVVRMQ1qWBQNalg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390334/%E6%8E%83%E7%AE%A1%E7%AC%8F%E6%9D%91%E6%AE%BA%E7%8B%97%E7%96%91%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E8%81%BD%E8%81%9E-%E5%8A%8F%E9%9A%BB%E7%8B%97-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%84%A1%E7%99%BC%E7%8F%BE%E5%88%97%E9%9B%9C%E9%A0%85%E8%99%95%E7%90%86",
     "timestamp": "2026-09-15T18:22:50.458Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "掃管笏村殺狗疑雲　目擊者聽聞：劏隻狗　警到場無發現列雜項處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176660705634422784905648.jpeg/jV1-jTGsvk_MAWuLrS6WQvxLIjuDZVVRMQ1qWBQNalg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390334/%E6%8E%83%E7%AE%A1%E7%AC%8F%E6%9D%91%E6%AE%BA%E7%8B%97%E7%96%91%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E8%81%BD%E8%81%9E-%E5%8A%8F%E9%9A%BB%E7%8B%97-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%84%A1%E7%99%BC%E7%8F%BE%E5%88%97%E9%9B%9C%E9%A0%85%E8%99%95%E7%90%86",
-    "timestamp": "2026-09-15T17:54:25.274Z",
     "strategy": ".content-card__main"
   }
 ];
