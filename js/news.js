@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T21:43:35.787Z
+// Last updated: 2026-09-16T22:18:41.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「惡樣影帝」北上吸金被指身家逾10億　地踎大排檔食豆腐花谷人氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176953336839016448960745.jpeg/4uQZuR7pTLXsbe82MFeKJVQmqC1ls10haUGhDmlBoQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390592/%E5%90%B3%E9%8E%AE%E5%AE%87%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%A2%AB%E6%8C%87%E8%BA%AB%E5%AE%B6%E9%80%BE10%E5%84%84-%E5%9C%B0%E8%B8%8E%E5%A4%A7%E6%8E%92%E6%AA%94%E9%A3%9F%E8%B1%86%E8%85%90%E8%8A%B1%E8%B0%B7%E4%BA%BA%E6%B0%A3",
+    "timestamp": "2026-09-16T22:18:41.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國加息｜特朗普促迅速減息：利率應降至1%或更低",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176668467999281152504762.jpeg/biah-pT9aUnwyFVomqlHqEK9gKD2Ehy3V-hvslfob7I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390339/%E8%AD%A6%E5%93%A1%E6%9C%B1%E6%8C%AF%E5%9C%8B%E9%81%87%E8%A5%B2%E7%95%99%E9%86%AB21%E5%B9%B4%E4%BA%A1-%E5%88%80%E6%89%8B%E5%88%A4%E5%9B%9A10%E5%B9%B4%E7%A0%B4%E7%94%A2-%E6%9C%8D%E5%88%91%E9%80%BE5%E5%B9%B4%E5%BE%8C%E5%81%87%E9%87%8B",
     "timestamp": "2026-09-16T14:43:37.023Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杏花邨女子倒斃屋內頸有刀傷　警拘一男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176828259749335040742958.jpeg/UEv7-YpkTpUjiliMMzG6JPUuifaUjj0Iy6nGYMupxmA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390796/%E6%9D%8F%E8%8A%B1%E9%82%A8%E5%A5%B3%E5%AD%90%E5%80%92%E6%96%83%E5%B1%8B%E5%85%A7%E9%A0%B8%E6%9C%89%E5%88%80%E5%82%B7-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%94%B7",
-    "timestamp": "2026-09-16T14:21:35.166Z",
     "strategy": ".content-card__main"
   }
 ];
