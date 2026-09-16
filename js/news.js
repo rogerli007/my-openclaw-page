@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T22:43:09.618Z
+// Last updated: 2026-09-16T22:53:53.506Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前TVB小生帳戶不被抖音認證　要靠明星細佬出手打救網民先確定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176952637547876352537986.jpeg/A8OvR7_XYuD1PBBgFCJxmKRv7Cm8V_ubtIIKhbSCCoU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390672/%E5%90%B3%E5%95%9F%E6%98%8E%E5%B8%B3%E6%88%B6%E4%B8%8D%E8%A2%AB%E6%8A%96%E9%9F%B3%E8%AA%8D%E8%AD%89-%E8%A6%81%E9%9D%A0%E7%B4%B0%E4%BD%AC%E5%90%B3%E5%95%9F%E8%8F%AF%E5%87%BA%E6%89%8B%E6%89%93%E6%95%91%E7%B6%B2%E6%B0%91%E5%85%88%E7%A2%BA%E5%AE%9A",
+    "timestamp": "2026-09-16T22:53:53.506Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前TVB小生帳戶不被抖音認證　要靠明星細佬出手打救網民先確定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176960743254265856235691.png/R2RsWZaK9J9h1g2m7rdCp9bQnLjtrmcn4LCmMuCwpjI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390717/%E5%B0%B9%E6%81%A9%E6%83%A0%E7%88%86%E5%81%A5%E5%BA%B7%E4%BA%AE%E7%B4%85%E7%87%88-%E6%89%8B%E8%AE%8A%E9%BB%91%E5%85%A8%E8%BA%AB%E7%B4%85%E8%85%AB-%E6%9B%BE%E5%AE%B3%E6%80%95%E4%BA%BA%E5%A4%9A%E5%A0%B4%E6%89%80%E9%A3%BD%E5%8F%97%E6%8A%98%E7%A3%A8",
     "timestamp": "2026-09-16T15:34:49.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱雀二號改進型火箭發射成功　中國民營航天邁入批量組網新階段",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176863183059554304712598.jpeg/F7pLLZ4fYtcz-CHiLwsGngDcczt_ZmZiFKjpqRSo6ak?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390481/%E6%9C%B1%E9%9B%80%E4%BA%8C%E8%99%9F%E6%94%B9%E9%80%B2%E5%9E%8B%E7%81%AB%E7%AE%AD%E7%99%BC%E5%B0%84%E6%88%90%E5%8A%9F-%E4%B8%AD%E5%9C%8B%E6%B0%91%E7%87%9F%E8%88%AA%E5%A4%A9%E9%82%81%E5%85%A5%E6%89%B9%E9%87%8F%E7%B5%84%E7%B6%B2%E6%96%B0%E9%9A%8E%E6%AE%B5",
-    "timestamp": "2026-09-16T15:19:27.429Z",
     "strategy": ".content-card__main"
   }
 ];
