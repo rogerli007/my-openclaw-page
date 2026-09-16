@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T16:21:45.877Z
+// Last updated: 2026-09-16T16:54:30.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "入境處推「Go香港」App　方便經常訪港旅客入境前登記e-道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211130/542392500070125568251634.jpeg/-UsrFkvLBcACDwUmdwxHhVfFD2Z1eAfp7oA63PiAOtw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390819/%E5%85%A5%E5%A2%83%E8%99%95%E6%8E%A8-go%E9%A6%99%E6%B8%AF-app-%E6%96%B9%E4%BE%BF%E7%B6%93%E5%B8%B8%E8%A8%AA%E6%B8%AF%E6%97%85%E5%AE%A2%E5%85%A5%E5%A2%83%E5%89%8D%E7%99%BB%E8%A8%98e-%E9%81%93",
+    "timestamp": "2026-09-16T16:54:30.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "猴痘｜再增兩宗確診　曾在港與其他男性有高風險接觸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176933204314034176120495.jpeg/Z_q4ajeBu7MdbJr3EhuF7oWPXAiyrIX7uxGJS7sRiUs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390656/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E8%A8%98%E8%80%85%E6%9C%83-%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83%E6%9C%83%E8%B7%A8%E5%B1%86%E8%90%BD%E5%AF%A6-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E8%BF%B0%E8%81%B7%E6%99%82%E5%B0%87%E5%A0%B1%E5%91%8A%E9%80%B2%E5%BA%A6",
     "timestamp": "2026-09-16T09:44:26.766Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡子彤再戰亞運收回「退役宣言」　獲古天樂提點：打到40歲都得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176915777266126848021689.jpeg/wJfdLLFIHzSh9kxqH8WHoYX8y5AooNjOenD1JHpw9SQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390606/%E8%83%A1%E5%AD%90%E5%BD%A4%E5%86%8D%E6%88%B0%E4%BA%9E%E9%81%8B%E6%94%B6%E5%9B%9E-%E9%80%80%E5%BD%B9%E5%AE%A3%E8%A8%80-%E7%8D%B2%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%8F%90%E9%BB%9E-%E6%89%93%E5%88%B040%E6%AD%B2%E9%83%BD%E5%BE%97",
-    "timestamp": "2026-09-16T09:22:16.869Z",
     "strategy": ".content-card__main"
   }
 ];
