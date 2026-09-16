@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T07:55:01.122Z
+// Last updated: 2026-09-16T08:49:02.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秋季家居博覽2026｜9大會場優惠！1折吸塵機+$46電磁爐+梳化56折",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176885027330330624847625.png/kO3mQfwZgXEMG6PbnIECgqjjDuw3MRSrjmN2x45jdsc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60390437/%E7%A7%8B%E5%AD%A3%E5%AE%B6%E5%B1%85%E5%8D%9A%E8%A6%BD2026-9%E5%A4%A7%E6%9C%83%E5%A0%B4%E5%84%AA%E6%83%A0-1%E6%8A%98%E5%90%B8%E5%A1%B5%E6%A9%9F-46%E9%9B%BB%E7%A3%81%E7%88%90-%E6%A2%B3%E5%8C%9656%E6%8A%98",
+    "timestamp": "2026-09-16T08:49:02.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "7000米雪山3死2失蹤　新疆慕士塔格峰連續山難　藏嚮導證買賣黑幕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174604467224449024973468.jpeg/5pFG_ZFntpRd5RVdjtK7puPXvD8Lr-bGhlSdHIZUnRw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390371/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%B0%88%E6%A9%9F%E5%BE%80%E8%BF%94%E9%81%8E%E5%A2%83%E6%91%A9%E7%88%BE%E5%A4%9A%E7%93%A6-%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%85%A9%E5%BA%A6%E9%97%96%E9%A0%98%E7%A9%BA",
     "timestamp": "2026-09-15T22:35:09.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日局部地區有驟雨　日間大致天晴　最高31度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176773683528732672096518.jpeg/c970TY47wfpg6h9z_Jo4TeRlDejHVhJrf5aaW3-Wmls?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60390354/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%9C%80%E9%AB%9831%E5%BA%A6",
-    "timestamp": "2026-09-15T22:19:17.173Z",
     "strategy": ".content-card__main"
   }
 ];
