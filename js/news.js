@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T05:45:12.737Z
+// Last updated: 2026-09-16T05:54:29.898Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女足最前線｜亞運撼烏茲別克女足　中國女足大勝冇難度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176889844186484736783106.jpeg/AxXVIVagla1jHTHWrZQIopokDoH6hgxp6Gk-ruhpPq4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390540/%E5%A5%B3%E8%B6%B3%E6%9C%80%E5%89%8D%E7%B7%9A-%E4%BA%9E%E9%81%8B%E6%92%BC%E7%83%8F%E8%8C%B2%E5%88%A5%E5%85%8B%E5%A5%B3%E8%B6%B3-%E4%B8%AD%E5%9C%8B%E5%A5%B3%E8%B6%B3%E5%A4%A7%E5%8B%9D%E5%86%87%E9%9B%A3%E5%BA%A6",
+    "timestamp": "2026-09-16T05:54:29.898Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜金管局將推七天離岸人民幣投標機制　研AI分析支付數據",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176735645813444608412309.jpeg/51Q2Gt-Bul0DGiBsYQCz0qID1Yi5FbXiFRfTYRUX02E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390361/%E9%A6%99%E5%B1%B1%E8%AB%96%E5%A3%87-%E9%9F%93%E6%AD%A3%E6%AD%A1%E8%BF%8E%E6%99%9A%E5%AE%B4%E8%87%B4%E8%BE%AD-%E5%A0%85%E6%8C%81%E5%A4%9A%E9%82%8A%E4%B8%BB%E7%BE%A9-%E5%8F%8D%E5%B0%8D%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9%E5%BE%A9%E6%B4%BB",
     "timestamp": "2026-09-15T19:41:46.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英美荷聯合警示　伊朗間諜軟件針對異見人士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080085627044630528436857.jpeg/sSRR6xeqM_dH7WdPa2yhq12bEewZ3g2dKICNjCiAjYw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390356/%E8%8B%B1%E7%BE%8E%E8%8D%B7%E8%81%AF%E5%90%88%E8%AD%A6%E7%A4%BA-%E4%BC%8A%E6%9C%97%E9%96%93%E8%AB%9C%E8%BB%9F%E4%BB%B6%E9%87%9D%E5%B0%8D%E7%95%B0%E8%A6%8B%E4%BA%BA%E5%A3%AB",
-    "timestamp": "2026-09-15T18:55:32.725Z",
     "strategy": ".content-card__main"
   }
 ];
