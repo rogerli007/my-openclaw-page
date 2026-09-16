@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-15T23:53:59.970Z
+// Last updated: 2026-09-16T00:47:57.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "極右翼另類選擇黨冒起　州議會選舉首次大勝　衝擊德國及歐洲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176124349556461568930812.jpeg/xKFDngV0lOlDMoLpl4m-h_jbdl9HzBg2KXs1jil7NY4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60389668/%E6%A5%B5%E5%8F%B3%E7%BF%BC%E5%8F%A6%E9%A1%9E%E9%81%B8%E6%93%87%E9%BB%A8%E5%86%92%E8%B5%B7-%E5%B7%9E%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89%E9%A6%96%E6%AC%A1%E5%A4%A7%E5%8B%9D-%E8%A1%9D%E6%93%8A%E5%BE%B7%E5%9C%8B%E5%8F%8A%E6%AD%90%E6%B4%B2",
+    "timestamp": "2026-09-16T00:47:57.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "水煮餐減肥副作用｜極端無油飲食致脫髮停經？營養師拆解零脂陷阱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230827/772527229409169408189652.jpeg/n6A0Hv0DdyryJ3qclcZVkn4ty_sGPz6CNJ8_wDSfP8A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60390311/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%9C%8B%E8%91%AC-%E9%A6%99%E6%B8%AF%E6%AE%AF%E5%84%80%E9%A4%A8%E5%91%A8%E5%85%AD%E8%A8%AD%E9%9D%88-%E5%91%A8%E6%97%A5%E5%85%AC%E7%A5%AD-%E4%B8%AD%E5%A4%AE%E6%88%90%E7%AB%8B%E6%B2%BB%E5%96%AA%E5%A7%94%E5%93%A1%E6%9C%83",
     "timestamp": "2026-09-15T16:44:34.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許廷鏗去年經歷事業迷茫期　放慢腳步沉澱尋找新養分重新出發",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176666898020962304389602.jpeg/bAphgrkDpr0pffnkhSanykkrJzOpYX_3pWCogKVgqIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390337/%E8%A8%B1%E5%BB%B7%E9%8F%97%E5%8E%BB%E5%B9%B4%E7%B6%93%E6%AD%B7%E4%BA%8B%E6%A5%AD%E8%BF%B7%E8%8C%AB%E6%9C%9F-%E6%94%BE%E6%85%A2%E8%85%B3%E6%AD%A5%E6%B2%89%E6%BE%B1%E5%B0%8B%E6%89%BE%E6%96%B0%E9%A4%8A%E5%88%86%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC",
-    "timestamp": "2026-09-15T16:21:04.292Z",
     "strategy": ".content-card__main"
   }
 ];
