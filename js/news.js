@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T22:31:22.722Z
+// Last updated: 2026-09-16T22:43:09.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前TVB小生帳戶不被抖音認證　要靠明星細佬出手打救網民先確定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176952637547876352537986.jpeg/A8OvR7_XYuD1PBBgFCJxmKRv7Cm8V_ubtIIKhbSCCoU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390672/%E5%90%B3%E5%95%9F%E6%98%8E%E5%B8%B3%E6%88%B6%E4%B8%8D%E8%A2%AB%E6%8A%96%E9%9F%B3%E8%AA%8D%E8%AD%89-%E8%A6%81%E9%9D%A0%E7%B4%B0%E4%BD%AC%E5%90%B3%E5%95%9F%E8%8F%AF%E5%87%BA%E6%89%8B%E6%89%93%E6%95%91%E7%B6%B2%E6%B0%91%E5%85%88%E7%A2%BA%E5%AE%9A",
+    "timestamp": "2026-09-16T22:43:09.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「惡樣影帝」北上吸金被指身家逾10億　地踎大排檔食豆腐花谷人氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176863183059554304712598.jpeg/F7pLLZ4fYtcz-CHiLwsGngDcczt_ZmZiFKjpqRSo6ak?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390481/%E6%9C%B1%E9%9B%80%E4%BA%8C%E8%99%9F%E6%94%B9%E9%80%B2%E5%9E%8B%E7%81%AB%E7%AE%AD%E7%99%BC%E5%B0%84%E6%88%90%E5%8A%9F-%E4%B8%AD%E5%9C%8B%E6%B0%91%E7%87%9F%E8%88%AA%E5%A4%A9%E9%82%81%E5%85%A5%E6%89%B9%E9%87%8F%E7%B5%84%E7%B6%B2%E6%96%B0%E9%9A%8E%E6%AE%B5",
     "timestamp": "2026-09-16T15:19:27.429Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "疑香港男女與保安爭執　女子舉中指稱｢收皮啦｣　台北捷運報警提告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1177024401627942912460971.png/NfORUwKa9DxzvolwkFgMz2tHR9voN2Wvx6otAMeqLQA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60390804/%E7%96%91%E9%A6%99%E6%B8%AF%E7%94%B7%E5%A5%B3%E8%88%87%E4%BF%9D%E5%AE%89%E7%88%AD%E5%9F%B7-%E5%A5%B3%E5%AD%90%E8%88%89%E4%B8%AD%E6%8C%87%E7%A8%B1-%E6%94%B6%E7%9A%AE%E5%95%A6-%E5%8F%B0%E5%8C%97%E6%8D%B7%E9%81%8B%E5%A0%B1%E8%AD%A6%E6%8F%90%E5%91%8A",
-    "timestamp": "2026-09-16T14:53:47.629Z",
     "strategy": ".content-card__main"
   }
 ];
