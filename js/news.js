@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T22:53:53.506Z
+// Last updated: 2026-09-16T23:18:10.666Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北京同仁堂捱唔住　本地藥房40萬租中環皇后大道舖　三年零加租！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176605161003421696540176.png/NMC9o2x7E9pT9Au0ado3TE4qdxYpyhIyr4eHQ6-Hh0M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60390292/%E5%8C%97%E4%BA%AC%E5%90%8C%E4%BB%81%E5%A0%82%E6%8D%B1%E5%94%94%E4%BD%8F-%E6%9C%AC%E5%9C%B0%E8%97%A5%E6%88%BF40%E8%90%AC%E7%A7%9F%E4%B8%AD%E7%92%B0%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E8%88%96-%E4%B8%89%E5%B9%B4%E9%9B%B6%E5%8A%A0%E7%A7%9F",
+    "timestamp": "2026-09-16T23:18:10.666Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前TVB小生帳戶不被抖音認證　要靠明星細佬出手打救網民先確定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1177034550417559552843127.jpeg/8JDPnT2oQZbTxDnO5V8_8wcD3OSJbqBYwmlGGsJpRho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390809/%E6%96%B0%E9%81%8B%E8%B7%AF%E7%88%86%E6%B0%B4%E7%AE%A1%E5%A4%A7%E6%B0%B4%E6%B5%B8-%E8%BB%8A%E8%BC%9B%E6%B6%89%E6%B0%B4%E8%80%8C%E8%A1%8C-%E7%A5%A5%E8%8F%AF%E9%82%A8%E5%B1%85%E6%B0%91%E5%91%BB-%E7%84%A1%E6%B0%B4%E9%BB%9E%E6%B2%96%E6%B6%BC",
     "timestamp": "2026-09-16T15:55:08.422Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尹恩惠爆健康亮紅燈「手變黑全身紅腫」　曾害怕人多場所飽受折磨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176960743254265856235691.png/R2RsWZaK9J9h1g2m7rdCp9bQnLjtrmcn4LCmMuCwpjI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390717/%E5%B0%B9%E6%81%A9%E6%83%A0%E7%88%86%E5%81%A5%E5%BA%B7%E4%BA%AE%E7%B4%85%E7%87%88-%E6%89%8B%E8%AE%8A%E9%BB%91%E5%85%A8%E8%BA%AB%E7%B4%85%E8%85%AB-%E6%9B%BE%E5%AE%B3%E6%80%95%E4%BA%BA%E5%A4%9A%E5%A0%B4%E6%89%80%E9%A3%BD%E5%8F%97%E6%8A%98%E7%A3%A8",
-    "timestamp": "2026-09-16T15:34:49.763Z",
     "strategy": ".content-card__main"
   }
 ];
