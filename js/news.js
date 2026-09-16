@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T05:54:29.898Z
+// Last updated: 2026-09-16T06:33:01.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜目標成低空創新應用亞太區樞紐　創科局設專組支持航天",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104143318373109760219740.jpeg/hgQYCo_AEsSBAA-mEVpwsHAmBNbmiGWhMGcwRjBnMEY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390525/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E7%9B%AE%E6%A8%99%E6%88%90%E4%BD%8E%E7%A9%BA%E5%89%B5%E6%96%B0%E6%87%89%E7%94%A8%E4%BA%9E%E5%A4%AA%E5%8D%80%E6%A8%9E%E7%B4%90-%E5%89%B5%E7%A7%91%E5%B1%80%E8%A8%AD%E5%B0%88%E7%B5%84%E6%94%AF%E6%8C%81%E8%88%AA%E5%A4%A9",
+    "timestamp": "2026-09-16T06:33:01.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女足最前線｜亞運撼烏茲別克女足　中國女足大勝冇難度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176528650154020864034591.jpeg/Ry_WLFF1xtHchkFPcTuw4EVLCNvFh4hJJSautiUmrrY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390363/%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E5%86%8D%E9%98%BB%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8D%E5%AD%97-%E7%94%98%E8%BF%BA%E8%BF%AA%E4%B8%AD%E5%BF%83%E8%91%A3%E4%BA%8B%E6%9C%83%E9%80%9A%E9%81%8E%E9%96%89%E9%A4%A8%E7%BF%BB%E6%96%B0",
     "timestamp": "2026-09-15T20:56:56.041Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香山論壇｜韓正歡迎晚宴致辭：堅持多邊主義、反對軍國主義復活",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176735645813444608412309.jpeg/51Q2Gt-Bul0DGiBsYQCz0qID1Yi5FbXiFRfTYRUX02E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390361/%E9%A6%99%E5%B1%B1%E8%AB%96%E5%A3%87-%E9%9F%93%E6%AD%A3%E6%AD%A1%E8%BF%8E%E6%99%9A%E5%AE%B4%E8%87%B4%E8%BE%AD-%E5%A0%85%E6%8C%81%E5%A4%9A%E9%82%8A%E4%B8%BB%E7%BE%A9-%E5%8F%8D%E5%B0%8D%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9%E5%BE%A9%E6%B4%BB",
-    "timestamp": "2026-09-15T19:41:46.336Z",
     "strategy": ".content-card__main"
   }
 ];
