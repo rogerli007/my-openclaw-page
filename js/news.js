@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T04:46:04.882Z
+// Last updated: 2026-09-16T05:45:12.737Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜金管局將推七天離岸人民幣投標機制　研AI分析支付數據",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176861656014655488032761.jpeg/1S2Ghmfqcg2ighmYV-8RWh9Z-uDjDauZiP9GiZL_Rok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390535/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%87%91%E7%AE%A1%E5%B1%80%E5%B0%87%E6%8E%A8%E4%B8%83%E5%A4%A9%E9%9B%A2%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%8A%95%E6%A8%99%E6%A9%9F%E5%88%B6-%E7%A0%94ai%E5%88%86%E6%9E%90%E6%94%AF%E4%BB%98%E6%95%B8%E6%93%9A",
+    "timestamp": "2026-09-16T05:45:12.737Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五年規劃｜優化家辦及基金等稅制　發展巨災及專項風險管理功能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080085627044630528436857.jpeg/sSRR6xeqM_dH7WdPa2yhq12bEewZ3g2dKICNjCiAjYw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390356/%E8%8B%B1%E7%BE%8E%E8%8D%B7%E8%81%AF%E5%90%88%E8%AD%A6%E7%A4%BA-%E4%BC%8A%E6%9C%97%E9%96%93%E8%AB%9C%E8%BB%9F%E4%BB%B6%E9%87%9D%E5%B0%8D%E7%95%B0%E8%A6%8B%E4%BA%BA%E5%A3%AB",
     "timestamp": "2026-09-15T18:55:32.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英美荷聯合警示　伊朗間諜軟件針對異見人士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080085627044630528436857.jpeg/sSRR6xeqM_dH7WdPa2yhq12bEewZ3g2dKICNjCiAjYw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390356/%E8%8B%B1%E7%BE%8E%E8%8D%B7%E8%81%AF%E5%90%88%E8%AD%A6%E7%A4%BA-%E4%BC%8A%E6%9C%97%E9%96%93%E8%AB%9C%E8%BB%9F%E4%BB%B6%E9%87%9D%E5%B0%8D%E7%95%B0%E8%A6%8B%E4%BA%BA%E5%A3%AB",
-    "timestamp": "2026-09-15T18:46:16.203Z",
     "strategy": ".content-card__main"
   }
 ];
