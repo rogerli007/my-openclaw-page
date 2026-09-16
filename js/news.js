@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T18:23:10.709Z
+// Last updated: 2026-09-16T18:46:39.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利大選前取消大部份汽車路稅　梅洛尼：無意提前選舉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172928894114729984342605.jpeg/z_qc_FmF4BDngvjJWJQfh0MEoGcLYwOUemE_XHphP1w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390826/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E9%81%B8%E5%89%8D%E5%8F%96%E6%B6%88%E5%A4%A7%E9%83%A8%E4%BB%BD%E6%B1%BD%E8%BB%8A%E8%B7%AF%E7%A8%85-%E6%A2%85%E6%B4%9B%E5%B0%BC-%E7%84%A1%E6%84%8F%E6%8F%90%E5%89%8D%E9%81%B8%E8%88%89",
+    "timestamp": "2026-09-16T18:46:39.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國加息｜美聯儲加息0.25厘符預期　3年來首次　料今年再加一次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176965673629257728827936.jpeg/qTDcBN2TO_u524W6KLdIBy3LRymmJPEgdTprmXU6a5k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60390602/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%8E%A8%E5%8B%95%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%94%AF%E4%BB%98%E6%94%BF%E5%BA%9C%E9%96%8B%E6%94%AF-%E7%B6%B2%E6%B0%914%E5%A4%A7%E5%88%86%E6%9E%90-1%E5%B0%8D1%E5%8D%B3%E5%88%BB%E6%94%B6",
     "timestamp": "2026-09-16T10:53:32.249Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王賢誌被胞妹爆欠「天文數字」巨債　禍及家人：蘇州屎掉低俾我哋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221227/684486327864922112156723.jpeg/TB5I8TWVETucoqkYWZpbnfx4uNlLu2HyLnLTPhRy0z4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390751/%E7%8E%8B%E8%B3%A2%E8%AA%8C%E8%A2%AB%E8%83%9E%E5%A6%B9%E7%88%86%E6%AC%A0-%E5%A4%A9%E6%96%87%E6%95%B8%E5%AD%97-%E5%B7%A8%E5%82%B5-%E7%A6%8D%E5%8F%8A%E5%AE%B6%E4%BA%BA-%E8%98%87%E5%B7%9E%E5%B1%8E%E6%8E%89%E4%BD%8E%E4%BF%BE%E6%88%91%E5%93%8B",
-    "timestamp": "2026-09-16T10:43:44.602Z",
     "strategy": ".content-card__main"
   }
 ];
