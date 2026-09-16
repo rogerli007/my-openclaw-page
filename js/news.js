@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T14:53:47.629Z
+// Last updated: 2026-09-16T15:19:27.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱雀二號改進型火箭發射成功　中國民營航天邁入批量組網新階段",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176863183059554304712598.jpeg/F7pLLZ4fYtcz-CHiLwsGngDcczt_ZmZiFKjpqRSo6ak?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390481/%E6%9C%B1%E9%9B%80%E4%BA%8C%E8%99%9F%E6%94%B9%E9%80%B2%E5%9E%8B%E7%81%AB%E7%AE%AD%E7%99%BC%E5%B0%84%E6%88%90%E5%8A%9F-%E4%B8%AD%E5%9C%8B%E6%B0%91%E7%87%9F%E8%88%AA%E5%A4%A9%E9%82%81%E5%85%A5%E6%89%B9%E9%87%8F%E7%B5%84%E7%B6%B2%E6%96%B0%E9%9A%8E%E6%AE%B5",
+    "timestamp": "2026-09-16T15:19:27.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "疑香港男女與保安爭執　女子舉中指稱｢收皮啦｣　台北捷運報警提告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176917193326071808301586.png/ZWgTxZ8itrrLjFvFd_g0wAhQAum2K05X7iEMce4hDHE",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390614/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%8920%E5%B9%B4%E5%BE%8C%E5%86%8D%E5%87%BA%E4%BB%BBgatsby%E4%BB%A3%E8%A8%80%E4%BA%BA-%E5%BB%A3%E5%91%8A%E6%9B%9D%E5%85%89-%E9%87%8D%E7%8F%BE%E7%B6%93%E5%85%B8%E9%AD%94%E6%80%A7%E8%88%9E%E6%AD%A5",
     "timestamp": "2026-09-16T07:45:33.351Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜直擊黃昏三角戀　林映輝遇荒誕個案超認真冇笑場獲大讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176899733495484416917643.jpeg/Skepd1CDehJZUfHmsyZ0w6mulKJ4mkJrf8OyR3_Dskc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390469/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%9B%B4%E6%93%8A%E9%BB%83%E6%98%8F%E4%B8%89%E8%A7%92%E6%88%80-%E6%9E%97%E6%98%A0%E8%BC%9D%E9%81%87%E8%8D%92%E8%AA%95%E5%80%8B%E6%A1%88%E8%B6%85%E8%AA%8D%E7%9C%9F%E5%86%87%E7%AC%91%E5%A0%B4%E7%8D%B2%E5%A4%A7%E8%AE%9A",
-    "timestamp": "2026-09-16T07:26:56.441Z",
     "strategy": ".content-card__main"
   }
 ];
