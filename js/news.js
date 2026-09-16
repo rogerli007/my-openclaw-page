@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T23:30:16.338Z
+// Last updated: 2026-09-16T23:41:21.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "偏頭痛硬撐恐中風！59歲男子當感冒突腦梗塞　確診罕見ANCA血管炎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173618866023043072035642.jpeg/rONIp3Ih2bK0Av0RgroTaQM_0ubxt1Lf3AvQ3twL0N4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385404/%E5%81%8F%E9%A0%AD%E7%97%9B%E7%A1%AC%E6%92%90%E6%81%90%E4%B8%AD%E9%A2%A8-59%E6%AD%B2%E7%94%B7%E5%AD%90%E7%95%B6%E6%84%9F%E5%86%92%E7%AA%81%E8%85%A6%E6%A2%97%E5%A1%9E-%E7%A2%BA%E8%A8%BA%E7%BD%95%E8%A6%8Banca%E8%A1%80%E7%AE%A1%E7%82%8E",
+    "timestamp": "2026-09-16T23:41:21.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "偏頭痛硬撐恐中風！59歲男子當感冒突腦梗塞　確診罕見ANCA血管炎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211130/542392500070125568251634.jpeg/-UsrFkvLBcACDwUmdwxHhVfFD2Z1eAfp7oA63PiAOtw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390819/%E5%85%A5%E5%A2%83%E8%99%95%E6%8E%A8-go%E9%A6%99%E6%B8%AF-app-%E6%96%B9%E4%BE%BF%E7%B6%93%E5%B8%B8%E8%A8%AA%E6%B8%AF%E6%97%85%E5%AE%A2%E5%85%A5%E5%A2%83%E5%89%8D%E7%99%BB%E8%A8%98e-%E9%81%93",
     "timestamp": "2026-09-16T16:54:30.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "猴痘｜再增兩宗確診　曾在港與其他男性有高風險接觸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113901656182886400830425.jpeg/56xGf15pyVstpIIuE0RpmXL2-SgxhnaTeqFOTXqhTk0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390814/%E7%8C%B4%E7%97%98-%E5%86%8D%E5%A2%9E%E5%85%A9%E5%AE%97%E7%A2%BA%E8%A8%BA-%E6%9B%BE%E5%9C%A8%E6%B8%AF%E8%88%87%E5%85%B6%E4%BB%96%E7%94%B7%E6%80%A7%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%8E%A5%E8%A7%B8",
-    "timestamp": "2026-09-16T16:21:45.877Z",
     "strategy": ".content-card__main"
   }
 ];
