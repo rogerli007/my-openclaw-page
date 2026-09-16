@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T14:43:37.023Z
+// Last updated: 2026-09-16T14:53:47.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "疑香港男女與保安爭執　女子舉中指稱｢收皮啦｣　台北捷運報警提告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1177024401627942912460971.png/NfORUwKa9DxzvolwkFgMz2tHR9voN2Wvx6otAMeqLQA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60390804/%E7%96%91%E9%A6%99%E6%B8%AF%E7%94%B7%E5%A5%B3%E8%88%87%E4%BF%9D%E5%AE%89%E7%88%AD%E5%9F%B7-%E5%A5%B3%E5%AD%90%E8%88%89%E4%B8%AD%E6%8C%87%E7%A8%B1-%E6%94%B6%E7%9A%AE%E5%95%A6-%E5%8F%B0%E5%8C%97%E6%8D%B7%E9%81%8B%E5%A0%B1%E8%AD%A6%E6%8F%90%E5%91%8A",
+    "timestamp": "2026-09-16T14:53:47.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警員朱振國遇襲留醫21年亡｜刀手判囚10年破產　服刑逾5年後假釋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176899733495484416917643.jpeg/Skepd1CDehJZUfHmsyZ0w6mulKJ4mkJrf8OyR3_Dskc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390469/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%9B%B4%E6%93%8A%E9%BB%83%E6%98%8F%E4%B8%89%E8%A7%92%E6%88%80-%E6%9E%97%E6%98%A0%E8%BC%9D%E9%81%87%E8%8D%92%E8%AA%95%E5%80%8B%E6%A1%88%E8%B6%85%E8%AA%8D%E7%9C%9F%E5%86%87%E7%AC%91%E5%A0%B4%E7%8D%B2%E5%A4%A7%E8%AE%9A",
     "timestamp": "2026-09-16T07:26:56.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗與波斯灣國家會議推遲　霍爾木茲海峽局勢短期難有外交突破",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111233379946205184425031.jpeg/w8RMEeBcg1gA7sbenfNOfL33OekkA2_85C4_n-QuP58?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390435/%E4%BC%8A%E6%9C%97%E8%88%87%E6%B3%A2%E6%96%AF%E7%81%A3%E5%9C%8B%E5%AE%B6%E6%9C%83%E8%AD%B0%E6%8E%A8%E9%81%B2-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%B1%80%E5%8B%A2%E7%9F%AD%E6%9C%9F%E9%9B%A3%E6%9C%89%E5%A4%96%E4%BA%A4%E7%AA%81%E7%A0%B4",
-    "timestamp": "2026-09-16T06:58:29.755Z",
     "strategy": ".content-card__main"
   }
 ];
