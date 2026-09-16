@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T10:43:44.602Z
+// Last updated: 2026-09-16T10:53:32.249Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告2026｜推動人民幣支付政府開支　網民4大分析:1對1即刻收",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176965673629257728827936.jpeg/qTDcBN2TO_u524W6KLdIBy3LRymmJPEgdTprmXU6a5k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60390602/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%8E%A8%E5%8B%95%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%94%AF%E4%BB%98%E6%94%BF%E5%BA%9C%E9%96%8B%E6%94%AF-%E7%B6%B2%E6%B0%914%E5%A4%A7%E5%88%86%E6%9E%90-1%E5%B0%8D1%E5%8D%B3%E5%88%BB%E6%94%B6",
+    "timestamp": "2026-09-16T10:53:32.249Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王賢誌被胞妹爆欠「天文數字」巨債　禍及家人：蘇州屎掉低俾我哋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176579372811816960658907.png/jmEWUMDeit2k6omjooRLUpu3j05gKZQUrXNAK61zQCs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60390242/%E6%AD%8C%E6%89%8Btank%E5%BF%83%E8%82%9D%E7%A7%BB%E6%A4%8D%E5%BE%8C%E5%82%B3%E5%81%A5%E5%BA%B7%E7%95%B0%E7%8B%80-%E9%9D%A2%E6%B5%AE%E8%85%AB%E7%9C%BC%E7%9D%9B%E5%85%85%E8%A1%80%E9%81%AD%E6%93%94%E6%86%82%E6%98%AF%E6%8E%92%E6%96%A5%E5%8F%8D%E6%87%89",
     "timestamp": "2026-09-16T01:41:58.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "極右翼另類選擇黨冒起　州議會選舉首次大勝　衝擊德國及歐洲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176124349556461568930812.jpeg/xKFDngV0lOlDMoLpl4m-h_jbdl9HzBg2KXs1jil7NY4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60389668/%E6%A5%B5%E5%8F%B3%E7%BF%BC%E5%8F%A6%E9%A1%9E%E9%81%B8%E6%93%87%E9%BB%A8%E5%86%92%E8%B5%B7-%E5%B7%9E%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89%E9%A6%96%E6%AC%A1%E5%A4%A7%E5%8B%9D-%E8%A1%9D%E6%93%8A%E5%BE%B7%E5%9C%8B%E5%8F%8A%E6%AD%90%E6%B4%B2",
-    "timestamp": "2026-09-16T00:47:57.256Z",
     "strategy": ".content-card__main"
   }
 ];
