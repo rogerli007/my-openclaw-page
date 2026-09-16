@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T19:54:19.219Z
+// Last updated: 2026-09-16T20:21:20.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國加息｜沃什：高通脹乏改變跡象　白宮：決定相當令人遺憾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177099490813808640197258.jpeg/j7b-hl5omcmiJ34SqGTIkSFykn5WyZT6FJ3H3xSdx98?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390831/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF-%E6%B2%83%E4%BB%80-%E9%AB%98%E9%80%9A%E8%84%B9%E4%B9%8F%E6%94%B9%E8%AE%8A%E8%B7%A1%E8%B1%A1-%E7%99%BD%E5%AE%AE-%E6%B1%BA%E5%AE%9A%E7%9B%B8%E7%95%B6%E4%BB%A4%E4%BA%BA%E9%81%BA%E6%86%BE",
+    "timestamp": "2026-09-16T20:21:20.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門男船員跌落船艙罅隙　被困近2小時獲救　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176935577245716480372510.png/l_3MS1KePWqfTWvC16G-AV-Tv6ALlwQYXNHF9lzRxfY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390560/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E7%B6%AD%E5%9C%92%E7%B6%B2%E7%90%83%E5%A0%B4%E6%93%AC%E9%87%8D%E5%BB%BA-%E5%B8%82%E6%B0%91%E6%94%AF%E6%8C%81-%E6%B6%88%E6%81%AF-%E7%B6%AD%E5%9C%92%E4%BD%88%E5%B1%80%E5%B0%87%E4%B8%8D%E5%90%8C",
     "timestamp": "2026-09-16T12:29:14.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪嘉烈醫院G座疑氣體洩漏｜兩員工不適　院方檢視處理化學品程序",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176980201674903552528614.jpeg/Ipg0FnRsnrk42nshzQA88Ohr36f9mM3w_YXwbv2F8G4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390769/%E7%91%AA%E5%98%89%E7%83%88%E9%86%AB%E9%99%A2g%E5%BA%A7%E7%96%91%E6%B0%A3%E9%AB%94%E6%B4%A9%E6%BC%8F-%E5%85%A9%E5%93%A1%E5%B7%A5%E4%B8%8D%E9%81%A9-%E9%99%A2%E6%96%B9%E6%AA%A2%E8%A6%96%E8%99%95%E7%90%86%E5%8C%96%E5%AD%B8%E5%93%81%E7%A8%8B%E5%BA%8F",
-    "timestamp": "2026-09-16T11:54:23.023Z",
     "strategy": ".content-card__main"
   }
 ];
