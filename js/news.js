@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T17:54:20.435Z
+// Last updated: 2026-09-16T18:23:10.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國加息｜美聯儲加息0.25厘符預期　3年來首次　料今年再加一次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3302512/org/08929f4c259b6e40adb0637230084607.JPG/QpzJcKAX4DfJNkWqiCHAwk-N9-AlkR2azEqDm8xKg5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390619/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF-%E7%BE%8E%E8%81%AF%E5%84%B2%E5%8A%A0%E6%81%AF0-25%E5%8E%98%E7%AC%A6%E9%A0%90%E6%9C%9F-3%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1-%E6%96%99%E4%BB%8A%E5%B9%B4%E5%86%8D%E5%8A%A0%E4%B8%80%E6%AC%A1",
+    "timestamp": "2026-09-16T18:23:10.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五年規劃｜馬會支持北都大學城　捐款30億建生命健康科技教研大樓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221227/684486327864922112156723.jpeg/TB5I8TWVETucoqkYWZpbnfx4uNlLu2HyLnLTPhRy0z4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390751/%E7%8E%8B%E8%B3%A2%E8%AA%8C%E8%A2%AB%E8%83%9E%E5%A6%B9%E7%88%86%E6%AC%A0-%E5%A4%A9%E6%96%87%E6%95%B8%E5%AD%97-%E5%B7%A8%E5%82%B5-%E7%A6%8D%E5%8F%8A%E5%AE%B6%E4%BA%BA-%E8%98%87%E5%B7%9E%E5%B1%8E%E6%8E%89%E4%BD%8E%E4%BF%BE%E6%88%91%E5%93%8B",
     "timestamp": "2026-09-16T10:43:44.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告2026｜未推公屋租置計劃　JLL曾煥平料與北都發展有矛盾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131909750498267136960381.jpeg/Zk3FHIbwojr2eHIUhx56_QuK3ZRgQtdwWTEO6FkxDug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60390723/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%9C%AA%E6%8E%A8%E5%85%AC%E5%B1%8B%E7%A7%9F%E7%BD%AE%E8%A8%88%E5%8A%83-jll%E6%9B%BE%E7%85%A5%E5%B9%B3%E6%96%99%E8%88%87%E5%8C%97%E9%83%BD%E7%99%BC%E5%B1%95%E6%9C%89%E7%9F%9B%E7%9B%BE",
-    "timestamp": "2026-09-16T10:21:15.022Z",
     "strategy": ".content-card__main"
   }
 ];
