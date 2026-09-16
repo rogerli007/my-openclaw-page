@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T13:21:02.351Z
+// Last updated: 2026-09-16T13:35:23.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香山論壇｜伊朗代表：伊方無懼戰爭　籲各國譴責單邊霸權主義",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1177001245206908928857263.jpeg/zERPsBu_fz2LGFSvVGtTsdPKUGTYgNH9tYmq3bWJqt0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390782/%E9%A6%99%E5%B1%B1%E8%AB%96%E5%A3%87-%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E4%BC%8A%E6%96%B9%E7%84%A1%E6%87%BC%E6%88%B0%E7%88%AD-%E7%B1%B2%E5%90%84%E5%9C%8B%E8%AD%B4%E8%B2%AC%E5%96%AE%E9%82%8A%E9%9C%B8%E6%AC%8A%E4%B8%BB%E7%BE%A9",
+    "timestamp": "2026-09-16T13:35:23.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "VIVA新歌《Rainshine》凌晨3點開工拍MV　出動水車全員變落湯雞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176861656014655488032761.jpeg/1S2Ghmfqcg2ighmYV-8RWh9Z-uDjDauZiP9GiZL_Rok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390535/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%87%91%E7%AE%A1%E5%B1%80%E5%B0%87%E6%8E%A8%E4%B8%83%E5%A4%A9%E9%9B%A2%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%8A%95%E6%A8%99%E6%A9%9F%E5%88%B6-%E7%A0%94ai%E5%88%86%E6%9E%90%E6%94%AF%E4%BB%98%E6%95%B8%E6%93%9A",
     "timestamp": "2026-09-16T05:45:12.737Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五年規劃｜優化家辦及基金等稅制　發展巨災及專項風險管理功能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176856416430854144109824.jpeg/H4SNWWyo1LaDDhdOxULurW-uIoNDp0vBRD0v_UQ9L_0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390500/%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E5%84%AA%E5%8C%96%E5%AE%B6%E8%BE%A6%E5%8F%8A%E5%9F%BA%E9%87%91%E7%AD%89%E7%A8%85%E5%88%B6-%E7%99%BC%E5%B1%95%E5%B7%A8%E7%81%BD%E5%8F%8A%E5%B0%88%E9%A0%85%E9%A2%A8%E9%9A%AA%E7%AE%A1%E7%90%86%E5%8A%9F%E8%83%BD",
-    "timestamp": "2026-09-16T04:46:04.882Z",
     "strategy": ".content-card__main"
   }
 ];
