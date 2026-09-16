@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T23:18:10.666Z
+// Last updated: 2026-09-16T23:30:16.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "偏頭痛硬撐恐中風！59歲男子當感冒突腦梗塞　確診罕見ANCA血管炎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173618866023043072035642.jpeg/rONIp3Ih2bK0Av0RgroTaQM_0ubxt1Lf3AvQ3twL0N4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385404/%E5%81%8F%E9%A0%AD%E7%97%9B%E7%A1%AC%E6%92%90%E6%81%90%E4%B8%AD%E9%A2%A8-59%E6%AD%B2%E7%94%B7%E5%AD%90%E7%95%B6%E6%84%9F%E5%86%92%E7%AA%81%E8%85%A6%E6%A2%97%E5%A1%9E-%E7%A2%BA%E8%A8%BA%E7%BD%95%E8%A6%8Banca%E8%A1%80%E7%AE%A1%E7%82%8E",
+    "timestamp": "2026-09-16T23:30:16.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北京同仁堂捱唔住　本地藥房40萬租中環皇后大道舖　三年零加租！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260326/1113901656182886400830425.jpeg/56xGf15pyVstpIIuE0RpmXL2-SgxhnaTeqFOTXqhTk0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390814/%E7%8C%B4%E7%97%98-%E5%86%8D%E5%A2%9E%E5%85%A9%E5%AE%97%E7%A2%BA%E8%A8%BA-%E6%9B%BE%E5%9C%A8%E6%B8%AF%E8%88%87%E5%85%B6%E4%BB%96%E7%94%B7%E6%80%A7%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%8E%A5%E8%A7%B8",
     "timestamp": "2026-09-16T16:21:45.877Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新運路爆水管大水浸　車輛涉水而行　祥華邨居民呻：無水點沖涼？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1177034550417559552843127.jpeg/8JDPnT2oQZbTxDnO5V8_8wcD3OSJbqBYwmlGGsJpRho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390809/%E6%96%B0%E9%81%8B%E8%B7%AF%E7%88%86%E6%B0%B4%E7%AE%A1%E5%A4%A7%E6%B0%B4%E6%B5%B8-%E8%BB%8A%E8%BC%9B%E6%B6%89%E6%B0%B4%E8%80%8C%E8%A1%8C-%E7%A5%A5%E8%8F%AF%E9%82%A8%E5%B1%85%E6%B0%91%E5%91%BB-%E7%84%A1%E6%B0%B4%E9%BB%9E%E6%B2%96%E6%B6%BC",
-    "timestamp": "2026-09-16T15:55:08.422Z",
     "strategy": ".content-card__main"
   }
 ];
