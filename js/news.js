@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T04:23:22.986Z
+// Last updated: 2026-09-16T04:46:04.882Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五年規劃｜優化家辦及基金等稅制　發展巨災及專項風險管理功能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176856416430854144109824.jpeg/H4SNWWyo1LaDDhdOxULurW-uIoNDp0vBRD0v_UQ9L_0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390500/%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E5%84%AA%E5%8C%96%E5%AE%B6%E8%BE%A6%E5%8F%8A%E5%9F%BA%E9%87%91%E7%AD%89%E7%A8%85%E5%88%B6-%E7%99%BC%E5%B1%95%E5%B7%A8%E7%81%BD%E5%8F%8A%E5%B0%88%E9%A0%85%E9%A2%A8%E9%9A%AA%E7%AE%A1%E7%90%86%E5%8A%9F%E8%83%BD",
+    "timestamp": "2026-09-16T04:46:04.882Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "五年規劃｜推動政府數字債券常態化發行　支持海內外龍頭企業上市",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251223/1080085627044630528436857.jpeg/sSRR6xeqM_dH7WdPa2yhq12bEewZ3g2dKICNjCiAjYw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390356/%E8%8B%B1%E7%BE%8E%E8%8D%B7%E8%81%AF%E5%90%88%E8%AD%A6%E7%A4%BA-%E4%BC%8A%E6%9C%97%E9%96%93%E8%AB%9C%E8%BB%9F%E4%BB%B6%E9%87%9D%E5%B0%8D%E7%95%B0%E8%A6%8B%E4%BA%BA%E5%A3%AB",
     "timestamp": "2026-09-15T18:46:16.203Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "掃管笏村殺狗疑雲　目擊者聽聞：劏隻狗　警到場無發現列雜項處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176660705634422784905648.jpeg/jV1-jTGsvk_MAWuLrS6WQvxLIjuDZVVRMQ1qWBQNalg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390334/%E6%8E%83%E7%AE%A1%E7%AC%8F%E6%9D%91%E6%AE%BA%E7%8B%97%E7%96%91%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E8%81%BD%E8%81%9E-%E5%8A%8F%E9%9A%BB%E7%8B%97-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%84%A1%E7%99%BC%E7%8F%BE%E5%88%97%E9%9B%9C%E9%A0%85%E8%99%95%E7%90%86",
-    "timestamp": "2026-09-15T18:22:50.458Z",
     "strategy": ".content-card__main"
   }
 ];
