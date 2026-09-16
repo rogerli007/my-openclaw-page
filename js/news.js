@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T18:46:39.456Z
+// Last updated: 2026-09-16T18:55:50.638Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利大選前取消大部份汽車路稅　梅洛尼：無意提前選舉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172928894114729984342605.jpeg/z_qc_FmF4BDngvjJWJQfh0MEoGcLYwOUemE_XHphP1w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390826/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E9%81%B8%E5%89%8D%E5%8F%96%E6%B6%88%E5%A4%A7%E9%83%A8%E4%BB%BD%E6%B1%BD%E8%BB%8A%E8%B7%AF%E7%A8%85-%E6%A2%85%E6%B4%9B%E5%B0%BC-%E7%84%A1%E6%84%8F%E6%8F%90%E5%89%8D%E9%81%B8%E8%88%89",
+    "timestamp": "2026-09-16T18:55:50.638Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利大選前取消大部份汽車路稅　梅洛尼：無意提前選舉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176970215875940352023895.jpeg/cx6OmcmftGuhd11w-9GrTHJWSJrBNTqBXedEYV3nRGE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390715/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E4%B8%8D%E6%8F%90%E9%87%8D%E6%8E%A8%E7%A7%9F%E7%BD%AE%E8%A8%88%E5%8A%83-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%AE%9A%E5%83%B9%E7%AE%A1%E7%90%86%E6%9C%89%E5%95%8F%E9%A1%8C-%E8%A6%81%E7%B9%BC%E7%BA%8C%E7%A0%94%E7%A9%B6",
     "timestamp": "2026-09-16T11:19:50.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告2026｜推動人民幣支付政府開支　網民4大分析:1對1即刻收",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176965673629257728827936.jpeg/qTDcBN2TO_u524W6KLdIBy3LRymmJPEgdTprmXU6a5k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60390602/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%8E%A8%E5%8B%95%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%94%AF%E4%BB%98%E6%94%BF%E5%BA%9C%E9%96%8B%E6%94%AF-%E7%B6%B2%E6%B0%914%E5%A4%A7%E5%88%86%E6%9E%90-1%E5%B0%8D1%E5%8D%B3%E5%88%BB%E6%94%B6",
-    "timestamp": "2026-09-16T10:53:32.249Z",
     "strategy": ".content-card__main"
   }
 ];
