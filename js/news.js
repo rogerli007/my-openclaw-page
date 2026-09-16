@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T15:19:27.429Z
+// Last updated: 2026-09-16T15:34:49.763Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尹恩惠爆健康亮紅燈「手變黑全身紅腫」　曾害怕人多場所飽受折磨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176960743254265856235691.png/R2RsWZaK9J9h1g2m7rdCp9bQnLjtrmcn4LCmMuCwpjI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390717/%E5%B0%B9%E6%81%A9%E6%83%A0%E7%88%86%E5%81%A5%E5%BA%B7%E4%BA%AE%E7%B4%85%E7%87%88-%E6%89%8B%E8%AE%8A%E9%BB%91%E5%85%A8%E8%BA%AB%E7%B4%85%E8%85%AB-%E6%9B%BE%E5%AE%B3%E6%80%95%E4%BA%BA%E5%A4%9A%E5%A0%B4%E6%89%80%E9%A3%BD%E5%8F%97%E6%8A%98%E7%A3%A8",
+    "timestamp": "2026-09-16T15:34:49.763Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱雀二號改進型火箭發射成功　中國民營航天邁入批量組網新階段",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176907083006611456634097.jpeg/fijmcupNKmpleFXHXpzJuriGaj8VtHYYYCKEdGAihHQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390590/7000%E7%B1%B3%E9%9B%AA%E5%B1%B13%E6%AD%BB2%E5%A4%B1%E8%B9%A4-%E6%96%B0%E7%96%86%E6%85%95%E5%A3%AB%E5%A1%94%E6%A0%BC%E5%B3%B0%E9%80%A3%E7%BA%8C%E5%B1%B1%E9%9B%A3-%E8%97%8F%E5%9A%AE%E5%B0%8E%E8%AD%89%E8%B2%B7%E8%B3%A3%E9%BB%91%E5%B9%95",
     "timestamp": "2026-09-16T07:55:01.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "木村拓哉20年後再出任GATSBY代言人！廣告曝光 重現經典魔性舞步",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176917193326071808301586.png/ZWgTxZ8itrrLjFvFd_g0wAhQAum2K05X7iEMce4hDHE",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390614/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%8920%E5%B9%B4%E5%BE%8C%E5%86%8D%E5%87%BA%E4%BB%BBgatsby%E4%BB%A3%E8%A8%80%E4%BA%BA-%E5%BB%A3%E5%91%8A%E6%9B%9D%E5%85%89-%E9%87%8D%E7%8F%BE%E7%B6%93%E5%85%B8%E9%AD%94%E6%80%A7%E8%88%9E%E6%AD%A5",
-    "timestamp": "2026-09-16T07:45:33.351Z",
     "strategy": ".content-card__main"
   }
 ];
