@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T09:22:16.869Z
+// Last updated: 2026-09-16T09:44:26.766Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告記者會｜五年規劃會跨屆落實　李家超：述職時將報告進度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176933204314034176120495.jpeg/Z_q4ajeBu7MdbJr3EhuF7oWPXAiyrIX7uxGJS7sRiUs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390656/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E8%A8%98%E8%80%85%E6%9C%83-%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83%E6%9C%83%E8%B7%A8%E5%B1%86%E8%90%BD%E5%AF%A6-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E8%BF%B0%E8%81%B7%E6%99%82%E5%B0%87%E5%A0%B1%E5%91%8A%E9%80%B2%E5%BA%A6",
+    "timestamp": "2026-09-16T09:44:26.766Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡子彤再戰亞運收回「退役宣言」　獲古天樂提點：打到40歲都得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176605378805239808274850.jpeg/pPfaDXAvN7hvIRE_zEy-hTEuc2fXmkLLoT5bhKE-W4Q",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389891/%E7%96%91%E8%81%BD%E8%A6%8B-%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E8%A8%8E%E5%8E%AD%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E4%B8%8D%E6%BB%BF-%E4%B8%AD%E5%9C%8B%E5%AE%A2%E6%8B%89%E6%89%AF%E5%A4%96%E5%9C%8B%E5%AE%A2-%E6%B3%A2%E5%8F%8A%E5%B9%BC%E7%AB%A5",
     "timestamp": "2026-09-15T23:19:17.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：專機往返過境摩爾多瓦　俄羅斯無人機兩度闖領空",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174604467224449024973468.jpeg/5pFG_ZFntpRd5RVdjtK7puPXvD8Lr-bGhlSdHIZUnRw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390371/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%B0%88%E6%A9%9F%E5%BE%80%E8%BF%94%E9%81%8E%E5%A2%83%E6%91%A9%E7%88%BE%E5%A4%9A%E7%93%A6-%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%85%A9%E5%BA%A6%E9%97%96%E9%A0%98%E7%A9%BA",
-    "timestamp": "2026-09-15T22:42:38.384Z",
     "strategy": ".content-card__main"
   }
 ];
