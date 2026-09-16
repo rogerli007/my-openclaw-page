@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T09:54:23.583Z
+// Last updated: 2026-09-16T10:21:15.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告2026｜未推公屋租置計劃　JLL曾煥平料與北都發展有矛盾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131909750498267136960381.jpeg/Zk3FHIbwojr2eHIUhx56_QuK3ZRgQtdwWTEO6FkxDug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60390723/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%9C%AA%E6%8E%A8%E5%85%AC%E5%B1%8B%E7%A7%9F%E7%BD%AE%E8%A8%88%E5%8A%83-jll%E6%9B%BE%E7%85%A5%E5%B9%B3%E6%96%99%E8%88%87%E5%8C%97%E9%83%BD%E7%99%BC%E5%B1%95%E6%9C%89%E7%9F%9B%E7%9B%BE",
+    "timestamp": "2026-09-16T10:21:15.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告2026｜政策側重未來土地規劃　CBRE憂忽視市區樓宇老化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173615446272774144018935.jpeg/YlTUSoUX44tIhQGP1oI_bmgNyPWh1iXlOovwWzqL8Fs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386184/%E6%B0%B4%E7%85%AE%E9%A4%90%E6%B8%9B%E8%82%A5%E5%89%AF%E4%BD%9C%E7%94%A8-%E6%A5%B5%E7%AB%AF%E7%84%A1%E6%B2%B9%E9%A3%B2%E9%A3%9F%E8%87%B4%E8%84%AB%E9%AB%AE%E5%81%9C%E7%B6%93-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8B%86%E8%A7%A3%E9%9B%B6%E8%84%82%E9%99%B7%E9%98%B1",
     "timestamp": "2026-09-15T23:53:59.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌葵順街貨車右轉撼交通燈柱　車頭凹陷損毀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176792496852701184810923.jpeg/VJSkW930eepErSRcIjZRpgjCZeA1NSpzT3qsUE96rFA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390377/%E8%91%B5%E6%B6%8C%E8%91%B5%E9%A0%86%E8%A1%97%E8%B2%A8%E8%BB%8A%E5%8F%B3%E8%BD%89%E6%92%BC%E4%BA%A4%E9%80%9A%E7%87%88%E6%9F%B1-%E8%BB%8A%E9%A0%AD%E5%87%B9%E9%99%B7%E6%90%8D%E6%AF%80",
-    "timestamp": "2026-09-15T23:46:05.511Z",
     "strategy": ".content-card__main"
   }
 ];
