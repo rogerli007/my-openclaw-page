@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T17:29:35.937Z
+// Last updated: 2026-09-16T17:54:20.435Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五年規劃｜馬會支持北都大學城　捐款30億建生命健康科技教研大樓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176565788371718144169354.jpeg/lDbyGNABTSeh0RQqZDn-61QK1PgRlkw6k2qpbrZqqW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390824/%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E9%A6%AC%E6%9C%83%E6%94%AF%E6%8C%81%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E6%8D%90%E6%AC%BE30%E5%84%84%E5%BB%BA%E7%94%9F%E5%91%BD%E5%81%A5%E5%BA%B7%E7%A7%91%E6%8A%80%E6%95%99%E7%A0%94%E5%A4%A7%E6%A8%93",
+    "timestamp": "2026-09-16T17:54:20.435Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "與特朗普唱反調？　古特雷斯警告AI風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131909750498267136960381.jpeg/Zk3FHIbwojr2eHIUhx56_QuK3ZRgQtdwWTEO6FkxDug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60390723/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%9C%AA%E6%8E%A8%E5%85%AC%E5%B1%8B%E7%A7%9F%E7%BD%AE%E8%A8%88%E5%8A%83-jll%E6%9B%BE%E7%85%A5%E5%B9%B3%E6%96%99%E8%88%87%E5%8C%97%E9%83%BD%E7%99%BC%E5%B1%95%E6%9C%89%E7%9F%9B%E7%9B%BE",
     "timestamp": "2026-09-16T10:21:15.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告2026｜政策側重未來土地規劃　CBRE憂忽視市區樓宇老化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149278104838213632315078.jpeg/0OpWL_N1Q8bhBQ1xoPvw1kuKBMBXLCF7zlhAP-tYQD8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60390659/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%94%BF%E7%AD%96%E5%81%B4%E9%87%8D%E6%9C%AA%E4%BE%86%E5%9C%9F%E5%9C%B0%E8%A6%8F%E5%8A%83-cbre%E6%86%82%E5%BF%BD%E8%A6%96%E5%B8%82%E5%8D%80%E6%A8%93%E5%AE%87%E8%80%81%E5%8C%96",
-    "timestamp": "2026-09-16T09:54:23.583Z",
     "strategy": ".content-card__main"
   }
 ];
