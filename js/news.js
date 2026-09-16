@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T06:58:29.755Z
+// Last updated: 2026-09-16T07:26:56.441Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜直擊黃昏三角戀　林映輝遇荒誕個案超認真冇笑場獲大讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176899733495484416917643.jpeg/Skepd1CDehJZUfHmsyZ0w6mulKJ4mkJrf8OyR3_Dskc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390469/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%9B%B4%E6%93%8A%E9%BB%83%E6%98%8F%E4%B8%89%E8%A7%92%E6%88%80-%E6%9E%97%E6%98%A0%E8%BC%9D%E9%81%87%E8%8D%92%E8%AA%95%E5%80%8B%E6%A1%88%E8%B6%85%E8%AA%8D%E7%9C%9F%E5%86%87%E7%AC%91%E5%A0%B4%E7%8D%B2%E5%A4%A7%E8%AE%9A",
+    "timestamp": "2026-09-16T07:26:56.441Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗與波斯灣國家會議推遲　霍爾木茲海峽局勢短期難有外交突破",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176756697767612416562730.jpeg/wQwGEk6nFxHzzUOnL5JGvmWWVAJifPBuqVkVValZFVU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390367/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%86%B1%E5%88%BA-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-2%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB",
     "timestamp": "2026-09-15T21:43:34.313Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英聯賽盃｜利物浦3：1熱刺　阿仙奴作客4：2葉士域治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176756697767612416562730.jpeg/wQwGEk6nFxHzzUOnL5JGvmWWVAJifPBuqVkVValZFVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390367/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%86%B1%E5%88%BA-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-2%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB",
-    "timestamp": "2026-09-15T21:30:35.789Z",
     "strategy": ".content-card__main"
   }
 ];
