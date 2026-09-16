@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T11:54:23.023Z
+// Last updated: 2026-09-16T12:29:14.441Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告︱維園網球場擬重建　市民支持　消息：維園佈局將不同",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176935577245716480372510.png/l_3MS1KePWqfTWvC16G-AV-Tv6ALlwQYXNHF9lzRxfY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390560/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E7%B6%AD%E5%9C%92%E7%B6%B2%E7%90%83%E5%A0%B4%E6%93%AC%E9%87%8D%E5%BB%BA-%E5%B8%82%E6%B0%91%E6%94%AF%E6%8C%81-%E6%B6%88%E6%81%AF-%E7%B6%AD%E5%9C%92%E4%BD%88%E5%B1%80%E5%B0%87%E4%B8%8D%E5%90%8C",
+    "timestamp": "2026-09-16T12:29:14.441Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪嘉烈醫院G座疑氣體洩漏｜兩員工不適　院方檢視處理化學品程序",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176861656014655488032761.jpeg/1S2Ghmfqcg2ighmYV-8RWh9Z-uDjDauZiP9GiZL_Rok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390495/%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E6%8E%A8%E5%8B%95%E6%94%BF%E5%BA%9C%E6%95%B8%E5%AD%97%E5%82%B5%E5%88%B8%E5%B8%B8%E6%85%8B%E5%8C%96%E7%99%BC%E8%A1%8C-%E6%94%AF%E6%8C%81%E6%B5%B7%E5%85%A7%E5%A4%96%E9%BE%8D%E9%A0%AD%E4%BC%81%E6%A5%AD%E4%B8%8A%E5%B8%82",
     "timestamp": "2026-09-16T04:23:22.986Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "千葉珠寶疑爆煲　15億黃金珠寶庫存滯銷　低價黃金策略反噬現金流",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176852877335859200063517.png/iBFB8aQC7h7pTMupHY2D2kZ9hjnt4QkBZhc0nWYXNJ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390417/%E5%8D%83%E8%91%89%E7%8F%A0%E5%AF%B6%E7%96%91%E7%88%86%E7%85%B2-15%E5%84%84%E9%BB%83%E9%87%91%E7%8F%A0%E5%AF%B6%E5%BA%AB%E5%AD%98%E6%BB%AF%E9%8A%B7-%E4%BD%8E%E5%83%B9%E9%BB%83%E9%87%91%E7%AD%96%E7%95%A5%E5%8F%8D%E5%99%AC%E7%8F%BE%E9%87%91%E6%B5%81",
-    "timestamp": "2026-09-16T03:27:05.258Z",
     "strategy": ".content-card__main"
   }
 ];
