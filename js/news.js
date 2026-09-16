@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T07:26:56.441Z
+// Last updated: 2026-09-16T07:45:33.351Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "木村拓哉20年後再出任GATSBY代言人！廣告曝光 重現經典魔性舞步",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176917193326071808301586.png/ZWgTxZ8itrrLjFvFd_g0wAhQAum2K05X7iEMce4hDHE",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390614/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%8920%E5%B9%B4%E5%BE%8C%E5%86%8D%E5%87%BA%E4%BB%BBgatsby%E4%BB%A3%E8%A8%80%E4%BA%BA-%E5%BB%A3%E5%91%8A%E6%9B%9D%E5%85%89-%E9%87%8D%E7%8F%BE%E7%B6%93%E5%85%B8%E9%AD%94%E6%80%A7%E8%88%9E%E6%AD%A5",
+    "timestamp": "2026-09-16T07:45:33.351Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜直擊黃昏三角戀　林映輝遇荒誕個案超認真冇笑場獲大讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139719553400442880789035.jpeg/yDC6esZPJttlwG9FGI9CwSADXeGeQjkTr_XOIq_1ziI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390368/%E8%88%87%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%88%90%E6%9C%AC%E9%81%94380%E5%84%84%E7%BE%8E%E5%85%83-%E7%BE%8E%E5%9C%8B%E6%9C%83%E9%A0%90%E7%AE%97%E8%BE%A6%E5%85%AC%E5%AE%A4-%E6%AF%8F%E6%9C%88%E5%86%8D%E5%A2%9E30%E5%84%84",
     "timestamp": "2026-09-15T21:58:06.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英聯賽盃｜利物浦3：1熱刺　阿仙奴作客4：2葉士域治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176756697767612416562730.jpeg/wQwGEk6nFxHzzUOnL5JGvmWWVAJifPBuqVkVValZFVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390367/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%86%B1%E5%88%BA-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-2%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB",
-    "timestamp": "2026-09-15T21:43:34.313Z",
     "strategy": ".content-card__main"
   }
 ];
