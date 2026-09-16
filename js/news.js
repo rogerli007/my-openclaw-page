@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T11:19:50.046Z
+// Last updated: 2026-09-16T11:45:31.265Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜建造商會倡工務工程「三透明」　早期參與須有公平機制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176946965792165888516047.jpeg/tqw44g46DDGG-E8MNwBksYDdnMKFTQSUuxytx7scrcc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390768/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E5%BB%BA%E9%80%A0%E5%95%86%E6%9C%83%E5%80%A1%E5%B7%A5%E5%8B%99%E5%B7%A5%E7%A8%8B-%E4%B8%89%E9%80%8F%E6%98%8E-%E6%97%A9%E6%9C%9F%E5%8F%83%E8%88%87%E9%A0%88%E6%9C%89%E5%85%AC%E5%B9%B3%E6%A9%9F%E5%88%B6",
+    "timestamp": "2026-09-16T11:45:31.265Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告不提重推租置計劃　李家超：定價管理有問題　要繼續研究",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176839292471742464287490.jpeg/IEU4U0c5bqbRt0U51WuKsrXpwH99rHCcTDQE5Uw0BOU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390414/%E8%91%A3%E8%BB%8D%E9%A6%99%E5%B1%B1%E8%AB%96%E5%A3%87%E9%96%8B%E5%B9%95%E5%BC%8F%E8%87%B4%E8%A9%9E-%E5%BC%B7%E8%AA%BF%E4%BB%A5%E6%AD%B7%E5%8F%B2%E6%B8%85%E9%86%92%E9%98%B2%E7%AF%84%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-09-16T02:51:06.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港紋身展2026｜5大必睇！AI試紋身+60位大師獻技+門票獨家9折",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176602443870375936069284.jpeg/D9r60mORlBXWt9SRWI5QyaZ8T2yzEky9j5YTGY-WExk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60390076/%E9%A6%99%E6%B8%AF%E7%B4%8B%E8%BA%AB%E5%B1%952026-5%E5%A4%A7%E5%BF%85%E7%9D%87-ai%E8%A9%A6%E7%B4%8B%E8%BA%AB-60%E4%BD%8D%E5%A4%A7%E5%B8%AB%E7%8D%BB%E6%8A%80-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B69%E6%8A%98",
-    "timestamp": "2026-09-16T02:35:18.820Z",
     "strategy": ".content-card__main"
   }
 ];
