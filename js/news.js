@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T16:54:30.114Z
+// Last updated: 2026-09-16T17:29:35.937Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "與特朗普唱反調？　古特雷斯警告AI風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094251974410375168967083.jpeg/-IpV8s1CjGsueVbJKHBF1N5cIaKwdTK7agZjzmoGY84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390823/%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%94%B1%E5%8F%8D%E8%AA%BF-%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E8%AD%A6%E5%91%8Aai%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-09-16T17:29:35.937Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "入境處推「Go香港」App　方便經常訪港旅客入境前登記e-道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149278104838213632315078.jpeg/0OpWL_N1Q8bhBQ1xoPvw1kuKBMBXLCF7zlhAP-tYQD8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60390659/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%94%BF%E7%AD%96%E5%81%B4%E9%87%8D%E6%9C%AA%E4%BE%86%E5%9C%9F%E5%9C%B0%E8%A6%8F%E5%8A%83-cbre%E6%86%82%E5%BF%BD%E8%A6%96%E5%B8%82%E5%8D%80%E6%A8%93%E5%AE%87%E8%80%81%E5%8C%96",
     "timestamp": "2026-09-16T09:54:23.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告記者會｜五年規劃會跨屆落實　李家超：述職時將報告進度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176933204314034176120495.jpeg/Z_q4ajeBu7MdbJr3EhuF7oWPXAiyrIX7uxGJS7sRiUs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390656/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E8%A8%98%E8%80%85%E6%9C%83-%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83%E6%9C%83%E8%B7%A8%E5%B1%86%E8%90%BD%E5%AF%A6-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E8%BF%B0%E8%81%B7%E6%99%82%E5%B0%87%E5%A0%B1%E5%91%8A%E9%80%B2%E5%BA%A6",
-    "timestamp": "2026-09-16T09:44:26.766Z",
     "strategy": ".content-card__main"
   }
 ];
