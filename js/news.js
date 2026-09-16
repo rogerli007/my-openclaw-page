@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T02:35:18.820Z
+// Last updated: 2026-09-16T02:51:06.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董軍香山論壇開幕式致詞　強調以歷史清醒防範風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176839292471742464287490.jpeg/IEU4U0c5bqbRt0U51WuKsrXpwH99rHCcTDQE5Uw0BOU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390414/%E8%91%A3%E8%BB%8D%E9%A6%99%E5%B1%B1%E8%AB%96%E5%A3%87%E9%96%8B%E5%B9%95%E5%BC%8F%E8%87%B4%E8%A9%9E-%E5%BC%B7%E8%AA%BF%E4%BB%A5%E6%AD%B7%E5%8F%B2%E6%B8%85%E9%86%92%E9%98%B2%E7%AF%84%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-09-16T02:51:06.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港紋身展2026｜5大必睇！AI試紋身+60位大師獻技+門票獨家9折",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176660705634422784905648.jpeg/jV1-jTGsvk_MAWuLrS6WQvxLIjuDZVVRMQ1qWBQNalg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390334/%E6%8E%83%E7%AE%A1%E7%AC%8F%E6%9D%91%E6%AE%BA%E7%8B%97%E7%96%91%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E8%81%BD%E8%81%9E-%E5%8A%8F%E9%9A%BB%E7%8B%97-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%84%A1%E7%99%BC%E7%8F%BE%E5%88%97%E9%9B%9C%E9%A0%85%E8%99%95%E7%90%86",
     "timestamp": "2026-09-15T17:41:32.136Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LAWASIA年會韓國揭幕　湯文龍連任執委會成員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176700079491780608690178.jpeg/P5hz4-zV6aMNqS92JfwzI3WF2JH661bPWMtZm1jLWZs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390350/lawasia%E5%B9%B4%E6%9C%83%E9%9F%93%E5%9C%8B%E6%8F%AD%E5%B9%95-%E6%B9%AF%E6%96%87%E9%BE%8D%E9%80%A3%E4%BB%BB%E5%9F%B7%E5%A7%94%E6%9C%83%E6%88%90%E5%93%A1",
-    "timestamp": "2026-09-15T17:29:41.150Z",
     "strategy": ".content-card__main"
   }
 ];
