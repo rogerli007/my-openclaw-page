@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T20:42:42.909Z
+// Last updated: 2026-09-16T20:53:35.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國德州墮胎禁令致孕婦失救亡　家屬入稟告檢察長",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174742432219140096145920.jpeg/mVCU9E0qSWWbpdNLSQ_x5eRLyDV5NnDDR1i3BUdYtwU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390834/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E5%A2%AE%E8%83%8E%E7%A6%81%E4%BB%A4%E8%87%B4%E5%AD%95%E5%A9%A6%E5%A4%B1%E6%95%91%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E5%85%A5%E7%A8%9F%E5%91%8A%E6%AA%A2%E5%AF%9F%E9%95%B7",
+    "timestamp": "2026-09-16T20:53:35.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國德州墮胎禁令致孕婦失救亡　家屬入稟告檢察長",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1177001245206908928857263.jpeg/zERPsBu_fz2LGFSvVGtTsdPKUGTYgNH9tYmq3bWJqt0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390782/%E9%A6%99%E5%B1%B1%E8%AB%96%E5%A3%87-%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8-%E4%BC%8A%E6%96%B9%E7%84%A1%E6%87%BC%E6%88%B0%E7%88%AD-%E7%B1%B2%E5%90%84%E5%9C%8B%E8%AD%B4%E8%B2%AC%E5%96%AE%E9%82%8A%E9%9C%B8%E6%AC%8A%E4%B8%BB%E7%BE%A9",
     "timestamp": "2026-09-16T13:35:23.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "VIVA新歌《Rainshine》凌晨3點開工拍MV　出動水車全員變落湯雞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176942510400868352384765.jpeg/igM6rLY5MqcgFS581fG-_5x3URnvXfpp6ALdcugC3XI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60390687/viva%E6%96%B0%E6%AD%8C-rainshine-%E5%87%8C%E6%99%A83%E9%BB%9E%E9%96%8B%E5%B7%A5%E6%8B%8Dmv-%E5%87%BA%E5%8B%95%E6%B0%B4%E8%BB%8A%E5%85%A8%E5%93%A1%E8%AE%8A%E8%90%BD%E6%B9%AF%E9%9B%9E",
-    "timestamp": "2026-09-16T13:21:02.351Z",
     "strategy": ".content-card__main"
   }
 ];
