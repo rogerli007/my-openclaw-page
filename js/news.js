@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T01:41:58.705Z
+// Last updated: 2026-09-16T02:35:18.820Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港紋身展2026｜5大必睇！AI試紋身+60位大師獻技+門票獨家9折",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176602443870375936069284.jpeg/D9r60mORlBXWt9SRWI5QyaZ8T2yzEky9j5YTGY-WExk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60390076/%E9%A6%99%E6%B8%AF%E7%B4%8B%E8%BA%AB%E5%B1%952026-5%E5%A4%A7%E5%BF%85%E7%9D%87-ai%E8%A9%A6%E7%B4%8B%E8%BA%AB-60%E4%BD%8D%E5%A4%A7%E5%B8%AB%E7%8D%BB%E6%8A%80-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B69%E6%8A%98",
+    "timestamp": "2026-09-16T02:35:18.820Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歌手TANK心肝移植後傳健康異狀　面浮腫眼睛充血遭擔憂是排斥反應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176700079491780608690178.jpeg/P5hz4-zV6aMNqS92JfwzI3WF2JH661bPWMtZm1jLWZs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390350/lawasia%E5%B9%B4%E6%9C%83%E9%9F%93%E5%9C%8B%E6%8F%AD%E5%B9%95-%E6%B9%AF%E6%96%87%E9%BE%8D%E9%80%A3%E4%BB%BB%E5%9F%B7%E5%A7%94%E6%9C%83%E6%88%90%E5%93%A1",
     "timestamp": "2026-09-15T17:29:41.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會在即｜崔天凱：中國對美不抱幻想　終將一勞永逸解決台問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176692950663434240947501.jpeg/juOM4ydxwbhGCrKkIBD8FcMklG8H9ADsgCmSkYApkpE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390346/%E7%BF%92%E7%89%B9%E6%9C%83%E5%9C%A8%E5%8D%B3-%E5%B4%94%E5%A4%A9%E5%87%B1-%E4%B8%AD%E5%9C%8B%E5%B0%8D%E7%BE%8E%E4%B8%8D%E6%8A%B1%E5%B9%BB%E6%83%B3-%E7%B5%82%E5%B0%87%E4%B8%80%E5%8B%9E%E6%B0%B8%E9%80%B8%E8%A7%A3%E6%B1%BA%E5%8F%B0%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-09-15T16:54:16.736Z",
     "strategy": ".content-card__main"
   }
 ];
