@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T10:53:32.249Z
+// Last updated: 2026-09-16T11:19:50.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告不提重推租置計劃　李家超：定價管理有問題　要繼續研究",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176970215875940352023895.jpeg/cx6OmcmftGuhd11w-9GrTHJWSJrBNTqBXedEYV3nRGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390715/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E4%B8%8D%E6%8F%90%E9%87%8D%E6%8E%A8%E7%A7%9F%E7%BD%AE%E8%A8%88%E5%8A%83-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%AE%9A%E5%83%B9%E7%AE%A1%E7%90%86%E6%9C%89%E5%95%8F%E9%A1%8C-%E8%A6%81%E7%B9%BC%E7%BA%8C%E7%A0%94%E7%A9%B6",
+    "timestamp": "2026-09-16T11:19:50.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告2026｜推動人民幣支付政府開支　網民4大分析:1對1即刻收",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176602443870375936069284.jpeg/D9r60mORlBXWt9SRWI5QyaZ8T2yzEky9j5YTGY-WExk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60390076/%E9%A6%99%E6%B8%AF%E7%B4%8B%E8%BA%AB%E5%B1%952026-5%E5%A4%A7%E5%BF%85%E7%9D%87-ai%E8%A9%A6%E7%B4%8B%E8%BA%AB-60%E4%BD%8D%E5%A4%A7%E5%B8%AB%E7%8D%BB%E6%8A%80-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B69%E6%8A%98",
     "timestamp": "2026-09-16T02:35:18.820Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歌手TANK心肝移植後傳健康異狀　面浮腫眼睛充血遭擔憂是排斥反應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176579372811816960658907.png/jmEWUMDeit2k6omjooRLUpu3j05gKZQUrXNAK61zQCs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60390242/%E6%AD%8C%E6%89%8Btank%E5%BF%83%E8%82%9D%E7%A7%BB%E6%A4%8D%E5%BE%8C%E5%82%B3%E5%81%A5%E5%BA%B7%E7%95%B0%E7%8B%80-%E9%9D%A2%E6%B5%AE%E8%85%AB%E7%9C%BC%E7%9D%9B%E5%85%85%E8%A1%80%E9%81%AD%E6%93%94%E6%86%82%E6%98%AF%E6%8E%92%E6%96%A5%E5%8F%8D%E6%87%89",
-    "timestamp": "2026-09-16T01:41:58.705Z",
     "strategy": ".content-card__main"
   }
 ];
