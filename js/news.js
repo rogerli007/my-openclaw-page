@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T18:55:50.638Z
+// Last updated: 2026-09-16T19:40:41.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門男船員高處墮下　被困近2小時後消防救人　傷者昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177093700434530304823610.jpeg/NKq8SI5fyQwPRGcyvP4fWAV7AurBwccgVxe69W0XuvU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390830/%E5%B1%AF%E9%96%80%E7%94%B7%E8%88%B9%E5%93%A1%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E8%A2%AB%E5%9B%B0%E8%BF%912%E5%B0%8F%E6%99%82%E5%BE%8C%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-09-16T19:40:41.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利大選前取消大部份汽車路稅　梅洛尼：無意提前選舉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176946965792165888516047.jpeg/tqw44g46DDGG-E8MNwBksYDdnMKFTQSUuxytx7scrcc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390768/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E5%BB%BA%E9%80%A0%E5%95%86%E6%9C%83%E5%80%A1%E5%B7%A5%E5%8B%99%E5%B7%A5%E7%A8%8B-%E4%B8%89%E9%80%8F%E6%98%8E-%E6%97%A9%E6%9C%9F%E5%8F%83%E8%88%87%E9%A0%88%E6%9C%89%E5%85%AC%E5%B9%B3%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-09-16T11:45:31.265Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告不提重推租置計劃　李家超：定價管理有問題　要繼續研究",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176970215875940352023895.jpeg/cx6OmcmftGuhd11w-9GrTHJWSJrBNTqBXedEYV3nRGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390715/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E4%B8%8D%E6%8F%90%E9%87%8D%E6%8E%A8%E7%A7%9F%E7%BD%AE%E8%A8%88%E5%8A%83-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%AE%9A%E5%83%B9%E7%AE%A1%E7%90%86%E6%9C%89%E5%95%8F%E9%A1%8C-%E8%A6%81%E7%B9%BC%E7%BA%8C%E7%A0%94%E7%A9%B6",
-    "timestamp": "2026-09-16T11:19:50.046Z",
     "strategy": ".content-card__main"
   }
 ];
