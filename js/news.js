@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T09:44:26.766Z
+// Last updated: 2026-09-16T09:54:23.583Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告2026｜政策側重未來土地規劃　CBRE憂忽視市區樓宇老化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260702/1149278104838213632315078.jpeg/0OpWL_N1Q8bhBQ1xoPvw1kuKBMBXLCF7zlhAP-tYQD8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60390659/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E6%94%BF%E7%AD%96%E5%81%B4%E9%87%8D%E6%9C%AA%E4%BE%86%E5%9C%9F%E5%9C%B0%E8%A6%8F%E5%8A%83-cbre%E6%86%82%E5%BF%BD%E8%A6%96%E5%B8%82%E5%8D%80%E6%A8%93%E5%AE%87%E8%80%81%E5%8C%96",
+    "timestamp": "2026-09-16T09:54:23.583Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告記者會｜五年規劃會跨屆落實　李家超：述職時將報告進度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176792496852701184810923.jpeg/VJSkW930eepErSRcIjZRpgjCZeA1NSpzT3qsUE96rFA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390377/%E8%91%B5%E6%B6%8C%E8%91%B5%E9%A0%86%E8%A1%97%E8%B2%A8%E8%BB%8A%E5%8F%B3%E8%BD%89%E6%92%BC%E4%BA%A4%E9%80%9A%E7%87%88%E6%9F%B1-%E8%BB%8A%E9%A0%AD%E5%87%B9%E9%99%B7%E6%90%8D%E6%AF%80",
     "timestamp": "2026-09-15T23:46:05.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "疑聽見「全世界都討厭中國人」不滿！中國客拉扯外國客　波及幼童",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176605378805239808274850.jpeg/pPfaDXAvN7hvIRE_zEy-hTEuc2fXmkLLoT5bhKE-W4Q",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60389891/%E7%96%91%E8%81%BD%E8%A6%8B-%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E8%A8%8E%E5%8E%AD%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E4%B8%8D%E6%BB%BF-%E4%B8%AD%E5%9C%8B%E5%AE%A2%E6%8B%89%E6%89%AF%E5%A4%96%E5%9C%8B%E5%AE%A2-%E6%B3%A2%E5%8F%8A%E5%B9%BC%E7%AB%A5",
-    "timestamp": "2026-09-15T23:19:17.335Z",
     "strategy": ".content-card__main"
   }
 ];
