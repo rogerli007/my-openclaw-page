@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T07:45:33.351Z
+// Last updated: 2026-09-16T07:55:01.122Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "7000米雪山3死2失蹤　新疆慕士塔格峰連續山難　藏嚮導證買賣黑幕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176907083006611456634097.jpeg/fijmcupNKmpleFXHXpzJuriGaj8VtHYYYCKEdGAihHQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390590/7000%E7%B1%B3%E9%9B%AA%E5%B1%B13%E6%AD%BB2%E5%A4%B1%E8%B9%A4-%E6%96%B0%E7%96%86%E6%85%95%E5%A3%AB%E5%A1%94%E6%A0%BC%E5%B3%B0%E9%80%A3%E7%BA%8C%E5%B1%B1%E9%9B%A3-%E8%97%8F%E5%9A%AE%E5%B0%8E%E8%AD%89%E8%B2%B7%E8%B3%A3%E9%BB%91%E5%B9%95",
+    "timestamp": "2026-09-16T07:55:01.122Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "木村拓哉20年後再出任GATSBY代言人！廣告曝光 重現經典魔性舞步",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176773683528732672096518.jpeg/c970TY47wfpg6h9z_Jo4TeRlDejHVhJrf5aaW3-Wmls?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60390354/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%9C%80%E9%AB%9831%E5%BA%A6",
     "timestamp": "2026-09-15T22:19:17.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "與伊朗戰爭成本達380億美元　美國會預算辦公室：每月再增30億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139719553400442880789035.jpeg/yDC6esZPJttlwG9FGI9CwSADXeGeQjkTr_XOIq_1ziI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390368/%E8%88%87%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%88%90%E6%9C%AC%E9%81%94380%E5%84%84%E7%BE%8E%E5%85%83-%E7%BE%8E%E5%9C%8B%E6%9C%83%E9%A0%90%E7%AE%97%E8%BE%A6%E5%85%AC%E5%AE%A4-%E6%AF%8F%E6%9C%88%E5%86%8D%E5%A2%9E30%E5%84%84",
-    "timestamp": "2026-09-15T21:58:06.694Z",
     "strategy": ".content-card__main"
   }
 ];
