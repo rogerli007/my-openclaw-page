@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T02:51:06.714Z
+// Last updated: 2026-09-16T03:27:05.258Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "千葉珠寶疑爆煲　15億黃金珠寶庫存滯銷　低價黃金策略反噬現金流",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176852877335859200063517.png/iBFB8aQC7h7pTMupHY2D2kZ9hjnt4QkBZhc0nWYXNJ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390417/%E5%8D%83%E8%91%89%E7%8F%A0%E5%AF%B6%E7%96%91%E7%88%86%E7%85%B2-15%E5%84%84%E9%BB%83%E9%87%91%E7%8F%A0%E5%AF%B6%E5%BA%AB%E5%AD%98%E6%BB%AF%E9%8A%B7-%E4%BD%8E%E5%83%B9%E9%BB%83%E9%87%91%E7%AD%96%E7%95%A5%E5%8F%8D%E5%99%AC%E7%8F%BE%E9%87%91%E6%B5%81",
+    "timestamp": "2026-09-16T03:27:05.258Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董軍香山論壇開幕式致詞　強調以歷史清醒防範風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176660705634422784905648.jpeg/jV1-jTGsvk_MAWuLrS6WQvxLIjuDZVVRMQ1qWBQNalg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390334/%E6%8E%83%E7%AE%A1%E7%AC%8F%E6%9D%91%E6%AE%BA%E7%8B%97%E7%96%91%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E8%81%BD%E8%81%9E-%E5%8A%8F%E9%9A%BB%E7%8B%97-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%84%A1%E7%99%BC%E7%8F%BE%E5%88%97%E9%9B%9C%E9%A0%85%E8%99%95%E7%90%86",
     "timestamp": "2026-09-15T17:54:25.274Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "掃管笏村殺狗疑雲　目擊者聽聞：劏隻狗　警到場無發現列雜項處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176660705634422784905648.jpeg/jV1-jTGsvk_MAWuLrS6WQvxLIjuDZVVRMQ1qWBQNalg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390334/%E6%8E%83%E7%AE%A1%E7%AC%8F%E6%9D%91%E6%AE%BA%E7%8B%97%E7%96%91%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E8%81%BD%E8%81%9E-%E5%8A%8F%E9%9A%BB%E7%8B%97-%E8%AD%A6%E5%88%B0%E5%A0%B4%E7%84%A1%E7%99%BC%E7%8F%BE%E5%88%97%E9%9B%9C%E9%A0%85%E8%99%95%E7%90%86",
-    "timestamp": "2026-09-15T17:41:32.136Z",
     "strategy": ".content-card__main"
   }
 ];
