@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T13:35:23.235Z
+// Last updated: 2026-09-16T13:56:05.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "田啟文爆周星馳個性少言喜歡收料　揭業界9成人只想出糧不想做嘢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176949410257440768164025.jpeg/okXNAzhmPC87QciCqvd-hMZMY74_PrvcBloYVgZaGFY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390712/%E7%94%B0%E5%95%9F%E6%96%87%E7%88%86%E5%91%A8%E6%98%9F%E9%A6%B3%E5%80%8B%E6%80%A7%E5%B0%91%E8%A8%80%E5%96%9C%E6%AD%A1%E6%94%B6%E6%96%99-%E6%8F%AD%E6%A5%AD%E7%95%8C9%E6%88%90%E4%BA%BA%E5%8F%AA%E6%83%B3%E5%87%BA%E7%B3%A7%E4%B8%8D%E6%83%B3%E5%81%9A%E5%98%A2",
+    "timestamp": "2026-09-16T13:56:05.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香山論壇｜伊朗代表：伊方無懼戰爭　籲各國譴責單邊霸權主義",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176889844186484736783106.jpeg/AxXVIVagla1jHTHWrZQIopokDoH6hgxp6Gk-ruhpPq4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390540/%E5%A5%B3%E8%B6%B3%E6%9C%80%E5%89%8D%E7%B7%9A-%E4%BA%9E%E9%81%8B%E6%92%BC%E7%83%8F%E8%8C%B2%E5%88%A5%E5%85%8B%E5%A5%B3%E8%B6%B3-%E4%B8%AD%E5%9C%8B%E5%A5%B3%E8%B6%B3%E5%A4%A7%E5%8B%9D%E5%86%87%E9%9B%A3%E5%BA%A6",
     "timestamp": "2026-09-16T05:54:29.898Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告｜金管局將推七天離岸人民幣投標機制　研AI分析支付數據",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176861656014655488032761.jpeg/1S2Ghmfqcg2ighmYV-8RWh9Z-uDjDauZiP9GiZL_Rok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390535/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%87%91%E7%AE%A1%E5%B1%80%E5%B0%87%E6%8E%A8%E4%B8%83%E5%A4%A9%E9%9B%A2%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B9%A3%E6%8A%95%E6%A8%99%E6%A9%9F%E5%88%B6-%E7%A0%94ai%E5%88%86%E6%9E%90%E6%94%AF%E4%BB%98%E6%95%B8%E6%93%9A",
-    "timestamp": "2026-09-16T05:45:12.737Z",
     "strategy": ".content-card__main"
   }
 ];
