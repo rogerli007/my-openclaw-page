@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T11:45:31.265Z
+// Last updated: 2026-09-16T11:54:23.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪嘉烈醫院G座疑氣體洩漏｜兩員工不適　院方檢視處理化學品程序",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176980201674903552528614.jpeg/Ipg0FnRsnrk42nshzQA88Ohr36f9mM3w_YXwbv2F8G4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390769/%E7%91%AA%E5%98%89%E7%83%88%E9%86%AB%E9%99%A2g%E5%BA%A7%E7%96%91%E6%B0%A3%E9%AB%94%E6%B4%A9%E6%BC%8F-%E5%85%A9%E5%93%A1%E5%B7%A5%E4%B8%8D%E9%81%A9-%E9%99%A2%E6%96%B9%E6%AA%A2%E8%A6%96%E8%99%95%E7%90%86%E5%8C%96%E5%AD%B8%E5%93%81%E7%A8%8B%E5%BA%8F",
+    "timestamp": "2026-09-16T11:54:23.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜建造商會倡工務工程「三透明」　早期參與須有公平機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176852877335859200063517.png/iBFB8aQC7h7pTMupHY2D2kZ9hjnt4QkBZhc0nWYXNJ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60390417/%E5%8D%83%E8%91%89%E7%8F%A0%E5%AF%B6%E7%96%91%E7%88%86%E7%85%B2-15%E5%84%84%E9%BB%83%E9%87%91%E7%8F%A0%E5%AF%B6%E5%BA%AB%E5%AD%98%E6%BB%AF%E9%8A%B7-%E4%BD%8E%E5%83%B9%E9%BB%83%E9%87%91%E7%AD%96%E7%95%A5%E5%8F%8D%E5%99%AC%E7%8F%BE%E9%87%91%E6%B5%81",
     "timestamp": "2026-09-16T03:27:05.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董軍香山論壇開幕式致詞　強調以歷史清醒防範風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176839292471742464287490.jpeg/IEU4U0c5bqbRt0U51WuKsrXpwH99rHCcTDQE5Uw0BOU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390414/%E8%91%A3%E8%BB%8D%E9%A6%99%E5%B1%B1%E8%AB%96%E5%A3%87%E9%96%8B%E5%B9%95%E5%BC%8F%E8%87%B4%E8%A9%9E-%E5%BC%B7%E8%AA%BF%E4%BB%A5%E6%AD%B7%E5%8F%B2%E6%B8%85%E9%86%92%E9%98%B2%E7%AF%84%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-09-16T02:51:06.714Z",
     "strategy": ".content-card__main"
   }
 ];
