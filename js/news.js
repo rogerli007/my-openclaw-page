@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T10:21:15.022Z
+// Last updated: 2026-09-16T10:43:44.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王賢誌被胞妹爆欠「天文數字」巨債　禍及家人：蘇州屎掉低俾我哋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221227/684486327864922112156723.jpeg/TB5I8TWVETucoqkYWZpbnfx4uNlLu2HyLnLTPhRy0z4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390751/%E7%8E%8B%E8%B3%A2%E8%AA%8C%E8%A2%AB%E8%83%9E%E5%A6%B9%E7%88%86%E6%AC%A0-%E5%A4%A9%E6%96%87%E6%95%B8%E5%AD%97-%E5%B7%A8%E5%82%B5-%E7%A6%8D%E5%8F%8A%E5%AE%B6%E4%BA%BA-%E8%98%87%E5%B7%9E%E5%B1%8E%E6%8E%89%E4%BD%8E%E4%BF%BE%E6%88%91%E5%93%8B",
+    "timestamp": "2026-09-16T10:43:44.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告2026｜未推公屋租置計劃　JLL曾煥平料與北都發展有矛盾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176124349556461568930812.jpeg/xKFDngV0lOlDMoLpl4m-h_jbdl9HzBg2KXs1jil7NY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60389668/%E6%A5%B5%E5%8F%B3%E7%BF%BC%E5%8F%A6%E9%A1%9E%E9%81%B8%E6%93%87%E9%BB%A8%E5%86%92%E8%B5%B7-%E5%B7%9E%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89%E9%A6%96%E6%AC%A1%E5%A4%A7%E5%8B%9D-%E8%A1%9D%E6%93%8A%E5%BE%B7%E5%9C%8B%E5%8F%8A%E6%AD%90%E6%B4%B2",
     "timestamp": "2026-09-16T00:47:57.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "水煮餐減肥副作用｜極端無油飲食致脫髮停經？營養師拆解零脂陷阱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173615446272774144018935.jpeg/YlTUSoUX44tIhQGP1oI_bmgNyPWh1iXlOovwWzqL8Fs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386184/%E6%B0%B4%E7%85%AE%E9%A4%90%E6%B8%9B%E8%82%A5%E5%89%AF%E4%BD%9C%E7%94%A8-%E6%A5%B5%E7%AB%AF%E7%84%A1%E6%B2%B9%E9%A3%B2%E9%A3%9F%E8%87%B4%E8%84%AB%E9%AB%AE%E5%81%9C%E7%B6%93-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8B%86%E8%A7%A3%E9%9B%B6%E8%84%82%E9%99%B7%E9%98%B1",
-    "timestamp": "2026-09-15T23:53:59.970Z",
     "strategy": ".content-card__main"
   }
 ];
