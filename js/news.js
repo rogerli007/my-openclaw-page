@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T00:47:57.256Z
+// Last updated: 2026-09-16T01:41:58.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歌手TANK心肝移植後傳健康異狀　面浮腫眼睛充血遭擔憂是排斥反應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176579372811816960658907.png/jmEWUMDeit2k6omjooRLUpu3j05gKZQUrXNAK61zQCs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60390242/%E6%AD%8C%E6%89%8Btank%E5%BF%83%E8%82%9D%E7%A7%BB%E6%A4%8D%E5%BE%8C%E5%82%B3%E5%81%A5%E5%BA%B7%E7%95%B0%E7%8B%80-%E9%9D%A2%E6%B5%AE%E8%85%AB%E7%9C%BC%E7%9D%9B%E5%85%85%E8%A1%80%E9%81%AD%E6%93%94%E6%86%82%E6%98%AF%E6%8E%92%E6%96%A5%E5%8F%8D%E6%87%89",
+    "timestamp": "2026-09-16T01:41:58.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "極右翼另類選擇黨冒起　州議會選舉首次大勝　衝擊德國及歐洲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176692950663434240947501.jpeg/juOM4ydxwbhGCrKkIBD8FcMklG8H9ADsgCmSkYApkpE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390346/%E7%BF%92%E7%89%B9%E6%9C%83%E5%9C%A8%E5%8D%B3-%E5%B4%94%E5%A4%A9%E5%87%B1-%E4%B8%AD%E5%9C%8B%E5%B0%8D%E7%BE%8E%E4%B8%8D%E6%8A%B1%E5%B9%BB%E6%83%B3-%E7%B5%82%E5%B0%87%E4%B8%80%E5%8B%9E%E6%B0%B8%E9%80%B8%E8%A7%A3%E6%B1%BA%E5%8F%B0%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-09-15T16:54:16.736Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華國葬｜香港殯儀館周六設靈、周日公祭　中央成立治喪委員會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230827/772527229409169408189652.jpeg/n6A0Hv0DdyryJ3qclcZVkn4ty_sGPz6CNJ8_wDSfP8A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60390311/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%9C%8B%E8%91%AC-%E9%A6%99%E6%B8%AF%E6%AE%AF%E5%84%80%E9%A4%A8%E5%91%A8%E5%85%AD%E8%A8%AD%E9%9D%88-%E5%91%A8%E6%97%A5%E5%85%AC%E7%A5%AD-%E4%B8%AD%E5%A4%AE%E6%88%90%E7%AB%8B%E6%B2%BB%E5%96%AA%E5%A7%94%E5%93%A1%E6%9C%83",
-    "timestamp": "2026-09-15T16:44:34.090Z",
     "strategy": ".content-card__main"
   }
 ];
