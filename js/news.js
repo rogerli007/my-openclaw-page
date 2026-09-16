@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T06:33:01.918Z
+// Last updated: 2026-09-16T06:58:29.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗與波斯灣國家會議推遲　霍爾木茲海峽局勢短期難有外交突破",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260319/1111233379946205184425031.jpeg/w8RMEeBcg1gA7sbenfNOfL33OekkA2_85C4_n-QuP58?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390435/%E4%BC%8A%E6%9C%97%E8%88%87%E6%B3%A2%E6%96%AF%E7%81%A3%E5%9C%8B%E5%AE%B6%E6%9C%83%E8%AD%B0%E6%8E%A8%E9%81%B2-%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%B1%80%E5%8B%A2%E7%9F%AD%E6%9C%9F%E9%9B%A3%E6%9C%89%E5%A4%96%E4%BA%A4%E7%AA%81%E7%A0%B4",
+    "timestamp": "2026-09-16T06:58:29.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜目標成低空創新應用亞太區樞紐　創科局設專組支持航天",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176756697767612416562730.jpeg/wQwGEk6nFxHzzUOnL5JGvmWWVAJifPBuqVkVValZFVU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390367/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A63-1%E7%86%B1%E5%88%BA-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A24-2%E8%91%89%E5%A3%AB%E5%9F%9F%E6%B2%BB",
     "timestamp": "2026-09-15T21:30:35.789Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國法官再阻加特朗普名字　甘迺迪中心董事會通過閉館翻新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176528650154020864034591.jpeg/Ry_WLFF1xtHchkFPcTuw4EVLCNvFh4hJJSautiUmrrY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390363/%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E5%86%8D%E9%98%BB%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8D%E5%AD%97-%E7%94%98%E8%BF%BA%E8%BF%AA%E4%B8%AD%E5%BF%83%E8%91%A3%E4%BA%8B%E6%9C%83%E9%80%9A%E9%81%8E%E9%96%89%E9%A4%A8%E7%BF%BB%E6%96%B0",
-    "timestamp": "2026-09-15T20:56:56.041Z",
     "strategy": ".content-card__main"
   }
 ];
