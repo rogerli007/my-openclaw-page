@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T02:04:41.381Z
+// Last updated: 2026-09-17T02:37:56.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜鼓勵生育不如改善生活？市民向特首談拒生：睇唔到將來",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176538101305184256086537.jpeg/HQGT3z5CNgU8uLAEjc-qPaEMXkXeKO3Jt0040pJNONI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390854/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2%E4%B8%8D%E5%A6%82%E6%94%B9%E5%96%84%E7%94%9F%E6%B4%BB-%E5%B8%82%E6%B0%91%E5%90%91%E7%89%B9%E9%A6%96%E8%AB%87%E6%8B%92%E7%94%9F-%E7%9D%87%E5%94%94%E5%88%B0%E5%B0%87%E4%BE%86",
+    "timestamp": "2026-09-17T02:37:56.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告2026｜多項措施推動創科發展　三大創科園區表示歡迎支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172928894114729984342605.jpeg/z_qc_FmF4BDngvjJWJQfh0MEoGcLYwOUemE_XHphP1w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390826/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E9%81%B8%E5%89%8D%E5%8F%96%E6%B6%88%E5%A4%A7%E9%83%A8%E4%BB%BD%E6%B1%BD%E8%BB%8A%E8%B7%AF%E7%A8%85-%E6%A2%85%E6%B4%9B%E5%B0%BC-%E7%84%A1%E6%84%8F%E6%8F%90%E5%89%8D%E9%81%B8%E8%88%89",
     "timestamp": "2026-09-16T18:46:39.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國加息｜美聯儲加息0.25厘符預期　3年來首次　料今年再加一次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3302512/org/08929f4c259b6e40adb0637230084607.JPG/QpzJcKAX4DfJNkWqiCHAwk-N9-AlkR2azEqDm8xKg5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390619/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF-%E7%BE%8E%E8%81%AF%E5%84%B2%E5%8A%A0%E6%81%AF0-25%E5%8E%98%E7%AC%A6%E9%A0%90%E6%9C%9F-3%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1-%E6%96%99%E4%BB%8A%E5%B9%B4%E5%86%8D%E5%8A%A0%E4%B8%80%E6%AC%A1",
-    "timestamp": "2026-09-16T18:23:10.709Z",
     "strategy": ".content-card__main"
   }
 ];
