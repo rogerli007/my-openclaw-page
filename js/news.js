@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T10:58:35.478Z
+// Last updated: 2026-09-17T11:19:10.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜46歲兩孩之母陳家珮想添丁：生育「組合拳」減托兒壓力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251218/1078282093273812992579063.jpeg/7WIxN_s02WJFep8UU1K7gkhDJ1vFdD6I8n1_WfJ9f1k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391114/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-46%E6%AD%B2%E5%85%A9%E5%AD%A9%E4%B9%8B%E6%AF%8D%E9%99%B3%E5%AE%B6%E7%8F%AE%E6%83%B3%E6%B7%BB%E4%B8%81-%E7%94%9F%E8%82%B2-%E7%B5%84%E5%90%88%E6%8B%B3-%E6%B8%9B%E6%89%98%E5%85%92%E5%A3%93%E5%8A%9B",
+    "timestamp": "2026-09-17T11:19:10.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸第四季啟用　鄧炳強：正測車道電腦系統　將研開通日期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176668635976962048816594.png/l96U0aGxrc36IoCPcPFDHw73RmtM54GnsymQ9bMpkPU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388506/%E8%B7%AF%E8%98%AD-%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E5%8F%B2%E8%A9%A9%E8%A7%A3%E6%9E%90-%E8%8B%B1%E9%9B%84%E7%8B%82%E8%A8%80%E6%83%B9%E6%B5%B7%E7%A5%9E-%E6%BC%82%E6%B5%8110%E5%B9%B4%E5%9B%9E%E5%AE%B6%E9%84%89%E5%BE%A9%E4%BB%87%E8%A8%98",
     "timestamp": "2026-09-17T00:48:20.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "偏頭痛硬撐恐中風！59歲男子當感冒突腦梗塞　確診罕見ANCA血管炎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173618866023043072035642.jpeg/rONIp3Ih2bK0Av0RgroTaQM_0ubxt1Lf3AvQ3twL0N4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385404/%E5%81%8F%E9%A0%AD%E7%97%9B%E7%A1%AC%E6%92%90%E6%81%90%E4%B8%AD%E9%A2%A8-59%E6%AD%B2%E7%94%B7%E5%AD%90%E7%95%B6%E6%84%9F%E5%86%92%E7%AA%81%E8%85%A6%E6%A2%97%E5%A1%9E-%E7%A2%BA%E8%A8%BA%E7%BD%95%E8%A6%8Banca%E8%A1%80%E7%AE%A1%E7%82%8E",
-    "timestamp": "2026-09-16T23:41:21.366Z",
     "strategy": ".content-card__main"
   }
 ];
