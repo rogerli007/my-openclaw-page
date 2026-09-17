@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T09:46:07.126Z
+// Last updated: 2026-09-17T09:55:16.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "終審法院非常任海外法官甘慕賢逝世　司法機構深切哀痛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241218/946078790600101888120634.jpeg/eiUySYbXByWwWYqFRJGJ-KxkQTzi4BLRrZRHCIiURwg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391069/%E7%B5%82%E5%AF%A9%E6%B3%95%E9%99%A2%E9%9D%9E%E5%B8%B8%E4%BB%BB%E6%B5%B7%E5%A4%96%E6%B3%95%E5%AE%98%E7%94%98%E6%85%95%E8%B3%A2%E9%80%9D%E4%B8%96-%E5%8F%B8%E6%B3%95%E6%A9%9F%E6%A7%8B%E6%B7%B1%E5%88%87%E5%93%80%E7%97%9B",
+    "timestamp": "2026-09-17T09:55:16.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比亞迪方程S GT登場售約26萬港元！純電跑車配800V快充+900km續航",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176605161003421696540176.png/NMC9o2x7E9pT9Au0ado3TE4qdxYpyhIyr4eHQ6-Hh0M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60390292/%E5%8C%97%E4%BA%AC%E5%90%8C%E4%BB%81%E5%A0%82%E6%8D%B1%E5%94%94%E4%BD%8F-%E6%9C%AC%E5%9C%B0%E8%97%A5%E6%88%BF40%E8%90%AC%E7%A7%9F%E4%B8%AD%E7%92%B0%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E8%88%96-%E4%B8%89%E5%B9%B4%E9%9B%B6%E5%8A%A0%E7%A7%9F",
     "timestamp": "2026-09-16T23:18:10.666Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前TVB小生帳戶不被抖音認證　要靠明星細佬出手打救網民先確定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176952637547876352537986.jpeg/A8OvR7_XYuD1PBBgFCJxmKRv7Cm8V_ubtIIKhbSCCoU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390672/%E5%90%B3%E5%95%9F%E6%98%8E%E5%B8%B3%E6%88%B6%E4%B8%8D%E8%A2%AB%E6%8A%96%E9%9F%B3%E8%AA%8D%E8%AD%89-%E8%A6%81%E9%9D%A0%E7%B4%B0%E4%BD%AC%E5%90%B3%E5%95%9F%E8%8F%AF%E5%87%BA%E6%89%8B%E6%89%93%E6%95%91%E7%B6%B2%E6%B0%91%E5%85%88%E7%A2%BA%E5%AE%9A",
-    "timestamp": "2026-09-16T22:53:53.506Z",
     "strategy": ".content-card__main"
   }
 ];
