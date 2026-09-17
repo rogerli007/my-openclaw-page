@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T13:43:57.292Z
+// Last updated: 2026-09-17T13:53:44.011Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港足新球衣的「香港味道」　竹蒸籠為靈感　球衣號碼變堅韌之符號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177369862024990720278301.png/scMHagRV6Bv6_1jkuxG39ELHvAVHnizkj1uJeI9biXg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391138/%E6%B8%AF%E8%B6%B3%E6%96%B0%E7%90%83%E8%A1%A3%E7%9A%84-%E9%A6%99%E6%B8%AF%E5%91%B3%E9%81%93-%E7%AB%B9%E8%92%B8%E7%B1%A0%E7%82%BA%E9%9D%88%E6%84%9F-%E7%90%83%E8%A1%A3%E8%99%9F%E7%A2%BC%E8%AE%8A%E5%A0%85%E9%9F%8C%E4%B9%8B%E7%AC%A6%E8%99%9F",
+    "timestamp": "2026-09-17T13:53:44.011Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港足新球衣的「香港味道」　竹蒸籠為靈感　球衣號碼變堅韌之符號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177225671840108544489067.jpeg/iwMfGoqHEl_NJgjNIBP9XY_c5yrjICmaR4qHw0eKh8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390917/%E9%8D%BE%E9%BA%97%E6%B7%87%E6%80%A5%E7%97%85%E5%85%A5%E9%99%A2%E5%A4%9A%E6%97%A5%E5%A5%BD%E5%8F%8B%E8%BC%AA%E6%B5%81%E6%8E%A2%E6%9C%9B-%E6%97%A9%E5%B9%B4%E5%B7%B2%E7%AB%8B%E4%B8%8B%E9%81%BA%E5%9B%91%E7%82%BA%E5%A5%B3%E5%85%92%E7%95%99%E4%B8%8B%E4%BF%9D%E9%9A%9C",
     "timestamp": "2026-09-17T04:23:36.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "U20女足世界盃｜中國隊互射十二碼4：5不敵意大利　無緣八強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177215966128377856083149.jpeg/shZy-MAwrxl8wT3LAD0YH8d6LJX-JxzzX8oJn1_KCZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390901/u20%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E7%9B%83-%E4%B8%AD%E5%9C%8B%E9%9A%8A%E4%BA%92%E5%B0%84%E5%8D%81%E4%BA%8C%E7%A2%BC4-5%E4%B8%8D%E6%95%B5%E6%84%8F%E5%A4%A7%E5%88%A9-%E7%84%A1%E7%B7%A3%E5%85%AB%E5%BC%B7",
-    "timestamp": "2026-09-17T03:57:12.273Z",
     "strategy": ".content-card__main"
   }
 ];
