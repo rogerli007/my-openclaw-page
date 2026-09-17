@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T07:57:09.281Z
+// Last updated: 2026-09-17T09:22:59.903Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國泰航空8月載客量升5%　香港快運微跌　預告9月客運需求相對淡靜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250608/1008428318128738304175432.jpeg/Cl8cM6XPzKphd28DjdXEUyrkqUZKnrd-tFQF4LRUBeA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391068/%E5%9C%8B%E6%B3%B0%E8%88%AA%E7%A9%BA8%E6%9C%88%E8%BC%89%E5%AE%A2%E9%87%8F%E5%8D%875-%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%81%8B%E5%BE%AE%E8%B7%8C-%E9%A0%90%E5%91%8A9%E6%9C%88%E5%AE%A2%E9%81%8B%E9%9C%80%E6%B1%82%E7%9B%B8%E5%B0%8D%E6%B7%A1%E9%9D%9C",
+    "timestamp": "2026-09-17T09:22:59.903Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Starbucks X Snoopy聯名！限量花生漫畫隨行杯／公仔／角色襟章",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176952637547876352537986.jpeg/A8OvR7_XYuD1PBBgFCJxmKRv7Cm8V_ubtIIKhbSCCoU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390672/%E5%90%B3%E5%95%9F%E6%98%8E%E5%B8%B3%E6%88%B6%E4%B8%8D%E8%A2%AB%E6%8A%96%E9%9F%B3%E8%AA%8D%E8%AD%89-%E8%A6%81%E9%9D%A0%E7%B4%B0%E4%BD%AC%E5%90%B3%E5%95%9F%E8%8F%AF%E5%87%BA%E6%89%8B%E6%89%93%E6%95%91%E7%B6%B2%E6%B0%91%E5%85%88%E7%A2%BA%E5%AE%9A",
     "timestamp": "2026-09-16T22:43:09.618Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「惡樣影帝」北上吸金被指身家逾10億　地踎大排檔食豆腐花谷人氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176953336839016448960745.jpeg/4uQZuR7pTLXsbe82MFeKJVQmqC1ls10haUGhDmlBoQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390592/%E5%90%B3%E9%8E%AE%E5%AE%87%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%A2%AB%E6%8C%87%E8%BA%AB%E5%AE%B6%E9%80%BE10%E5%84%84-%E5%9C%B0%E8%B8%8E%E5%A4%A7%E6%8E%92%E6%AA%94%E9%A3%9F%E8%B1%86%E8%85%90%E8%8A%B1%E8%B0%B7%E4%BA%BA%E6%B0%A3",
-    "timestamp": "2026-09-16T22:31:22.722Z",
     "strategy": ".content-card__main"
   }
 ];
