@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T23:17:08.144Z
+// Last updated: 2026-09-17T23:31:45.428Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飛滋兩周未好？小心是口腔癌！53歲男確診　醫生拆解3大危險徵兆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173619080750436352683571.png/P5DUYcrHGzDvRVNRwdtdYf_nY_yWLAfanpx1gp6cdYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386504/%E9%A3%9B%E6%BB%8B%E5%85%A9%E5%91%A8%E6%9C%AA%E5%A5%BD-%E5%B0%8F%E5%BF%83%E6%98%AF%E5%8F%A3%E8%85%94%E7%99%8C-53%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A33%E5%A4%A7%E5%8D%B1%E9%9A%AA%E5%BE%B5%E5%85%86",
+    "timestamp": "2026-09-17T23:31:45.428Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本15歲女高生夥18歲哥哥設仙人跳！澀谷狂毆搭訕男索800萬日圓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177424121689018368465198.jpeg/-sLwv1cy7NlUzxWaVaLdDoGR33rKVFU6A1h4dQNYeHU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391160/%E5%9C%8B%E9%9A%9B%E5%9F%B9%E5%B9%BC%E6%9C%83%E8%B3%A3%E7%AD%86%E7%B1%8C%E6%AC%BE-%E6%94%AF%E6%8F%B4%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%A5%B3%E5%AD%A9%E6%95%99%E8%82%B2-%E6%8F%90%E5%8D%87%E5%B0%8D%E7%AB%A5%E5%A9%9A%E5%95%8F%E9%A1%8C%E8%AA%8D%E8%AD%98",
     "timestamp": "2026-09-17T17:29:03.486Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "查理斯三世警告AI領袖　籲防「生存危險」免太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152516978955522048680391.jpeg/tW2fqW47E53RHKxu8abWoGYsPcgDWzLXAAlPKQAJTyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391157/%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E8%AD%A6%E5%91%8Aai%E9%A0%98%E8%A2%96-%E7%B1%B2%E9%98%B2-%E7%94%9F%E5%AD%98%E5%8D%B1%E9%9A%AA-%E5%85%8D%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-09-17T17:17:32.997Z",
     "strategy": ".content-card__main"
   }
 ];
