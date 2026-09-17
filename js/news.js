@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T16:44:32.004Z
+// Last updated: 2026-09-17T16:54:32.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "查理斯三世警告AI領袖　籲防「生存危險」免太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152516978955522048680391.jpeg/tW2fqW47E53RHKxu8abWoGYsPcgDWzLXAAlPKQAJTyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391157/%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E8%AD%A6%E5%91%8Aai%E9%A0%98%E8%A2%96-%E7%B1%B2%E9%98%B2-%E7%94%9F%E5%AD%98%E5%8D%B1%E9%9A%AA-%E5%85%8D%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-09-17T16:54:32.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "查理斯三世警告AI領袖　籲防「生存危險」免太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176865053383593984741890.jpeg/QaSV0vkFx9uscdyFpxzw48mHkkdy2mTvDA-wLgwPsC4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390478/starbucks-x-snoopy%E8%81%AF%E5%90%8D-%E9%99%90%E9%87%8F%E8%8A%B1%E7%94%9F%E6%BC%AB%E7%95%AB%E9%9A%A8%E8%A1%8C%E6%9D%AF-%E5%85%AC%E4%BB%94-%E8%A7%92%E8%89%B2%E8%A5%9F%E7%AB%A0",
     "timestamp": "2026-09-17T07:57:09.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告．直播｜北都5年內推900公頃熟地　司局長記者會交代重點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176930776797810688374168.jpeg/8f3UlkqvPIv-kXDNE-lVfdAxZlLE4vibBViFHC9YhRw?v=w1920",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390951/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E7%9B%B4%E6%92%AD-%E5%8C%97%E9%83%BD5%E5%B9%B4%E5%85%A7%E6%8E%A8900%E5%85%AC%E9%A0%83%E7%86%9F%E5%9C%B0-%E5%8F%B8%E5%B1%80%E9%95%B7%E8%A8%98%E8%80%85%E6%9C%83%E4%BA%A4%E4%BB%A3%E9%87%8D%E9%BB%9E",
-    "timestamp": "2026-09-17T07:46:00.503Z",
     "strategy": ".content-card__main"
   }
 ];
