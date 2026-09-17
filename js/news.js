@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-16T23:41:21.366Z
+// Last updated: 2026-09-17T00:48:20.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路蘭《奧德賽》史詩解析：英雄狂言惹海神　漂流10年回家鄉復仇記",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176668635976962048816594.png/l96U0aGxrc36IoCPcPFDHw73RmtM54GnsymQ9bMpkPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388506/%E8%B7%AF%E8%98%AD-%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E5%8F%B2%E8%A9%A9%E8%A7%A3%E6%9E%90-%E8%8B%B1%E9%9B%84%E7%8B%82%E8%A8%80%E6%83%B9%E6%B5%B7%E7%A5%9E-%E6%BC%82%E6%B5%8110%E5%B9%B4%E5%9B%9E%E5%AE%B6%E9%84%89%E5%BE%A9%E4%BB%87%E8%A8%98",
+    "timestamp": "2026-09-17T00:48:20.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "偏頭痛硬撐恐中風！59歲男子當感冒突腦梗塞　確診罕見ANCA血管炎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094251974410375168967083.jpeg/-IpV8s1CjGsueVbJKHBF1N5cIaKwdTK7agZjzmoGY84?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390823/%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%94%B1%E5%8F%8D%E8%AA%BF-%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E8%AD%A6%E5%91%8Aai%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-09-16T17:29:35.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "入境處推「Go香港」App　方便經常訪港旅客入境前登記e-道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211130/542392500070125568251634.jpeg/-UsrFkvLBcACDwUmdwxHhVfFD2Z1eAfp7oA63PiAOtw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390819/%E5%85%A5%E5%A2%83%E8%99%95%E6%8E%A8-go%E9%A6%99%E6%B8%AF-app-%E6%96%B9%E4%BE%BF%E7%B6%93%E5%B8%B8%E8%A8%AA%E6%B8%AF%E6%97%85%E5%AE%A2%E5%85%A5%E5%A2%83%E5%89%8D%E7%99%BB%E8%A8%98e-%E9%81%93",
-    "timestamp": "2026-09-16T16:54:30.114Z",
     "strategy": ".content-card__main"
   }
 ];
