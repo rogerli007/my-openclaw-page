@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T20:53:49.415Z
+// Last updated: 2026-09-17T21:31:50.541Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角49歲巴漢遭4同鄉用鐵通襲擊　手腳受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027169707238756352620817.jpeg/SwlEaNPT4Lt_AhCSlFuZBHqIGuQ_-4tWb8Bm8m_AZvI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391171/%E6%97%BA%E8%A7%9249%E6%AD%B2%E5%B7%B4%E6%BC%A2%E9%81%AD4%E5%90%8C%E9%84%89%E7%94%A8%E9%90%B5%E9%80%9A%E8%A5%B2%E6%93%8A-%E6%89%8B%E8%85%B3%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-17T21:31:50.541Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "FBI指阿里抄襲Anthropic後　美政府網站被發現用中國AI搜尋工具",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096200654482837504026513.jpeg/bCOG3l4tWIoddP2WEsC2Cr6Y9h5Uzcwhp-3zxaft88U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391143/%E5%85%AD%E5%90%88%E5%BD%A99-19%E9%A0%AD%E7%8D%8E1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-09-17T14:23:30.343Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港足新球衣的「香港味道」　竹蒸籠為靈感　球衣號碼變堅韌之符號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177369862024990720278301.png/scMHagRV6Bv6_1jkuxG39ELHvAVHnizkj1uJeI9biXg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391138/%E6%B8%AF%E8%B6%B3%E6%96%B0%E7%90%83%E8%A1%A3%E7%9A%84-%E9%A6%99%E6%B8%AF%E5%91%B3%E9%81%93-%E7%AB%B9%E8%92%B8%E7%B1%A0%E7%82%BA%E9%9D%88%E6%84%9F-%E7%90%83%E8%A1%A3%E8%99%9F%E7%A2%BC%E8%AE%8A%E5%A0%85%E9%9F%8C%E4%B9%8B%E7%AC%A6%E8%99%9F",
-    "timestamp": "2026-09-17T13:53:44.011Z",
     "strategy": ".content-card__main"
   }
 ];
