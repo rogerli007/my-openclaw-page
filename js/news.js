@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T09:22:59.903Z
+// Last updated: 2026-09-17T09:46:07.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "比亞迪方程S GT登場售約26萬港元！純電跑車配800V快充+900km續航",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177302974590881792910536.jpeg/OEJp-FD3zmmiYu2y5gT4dcpQFZVdKIpA-pHQgfqR0IE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60390927/%E6%AF%94%E4%BA%9E%E8%BF%AA%E6%96%B9%E7%A8%8Bs-gt%E7%99%BB%E5%A0%B4%E5%94%AE%E7%B4%8426%E8%90%AC%E6%B8%AF%E5%85%83-%E7%B4%94%E9%9B%BB%E8%B7%91%E8%BB%8A%E9%85%8D800v%E5%BF%AB%E5%85%85-900km%E7%BA%8C%E8%88%AA",
+    "timestamp": "2026-09-17T09:46:07.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國泰航空8月載客量升5%　香港快運微跌　預告9月客運需求相對淡靜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176952637547876352537986.jpeg/A8OvR7_XYuD1PBBgFCJxmKRv7Cm8V_ubtIIKhbSCCoU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390672/%E5%90%B3%E5%95%9F%E6%98%8E%E5%B8%B3%E6%88%B6%E4%B8%8D%E8%A2%AB%E6%8A%96%E9%9F%B3%E8%AA%8D%E8%AD%89-%E8%A6%81%E9%9D%A0%E7%B4%B0%E4%BD%AC%E5%90%B3%E5%95%9F%E8%8F%AF%E5%87%BA%E6%89%8B%E6%89%93%E6%95%91%E7%B6%B2%E6%B0%91%E5%85%88%E7%A2%BA%E5%AE%9A",
     "timestamp": "2026-09-16T22:53:53.506Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前TVB小生帳戶不被抖音認證　要靠明星細佬出手打救網民先確定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176952637547876352537986.jpeg/A8OvR7_XYuD1PBBgFCJxmKRv7Cm8V_ubtIIKhbSCCoU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390672/%E5%90%B3%E5%95%9F%E6%98%8E%E5%B8%B3%E6%88%B6%E4%B8%8D%E8%A2%AB%E6%8A%96%E9%9F%B3%E8%AA%8D%E8%AD%89-%E8%A6%81%E9%9D%A0%E7%B4%B0%E4%BD%AC%E5%90%B3%E5%95%9F%E8%8F%AF%E5%87%BA%E6%89%8B%E6%89%93%E6%95%91%E7%B6%B2%E6%B0%91%E5%85%88%E7%A2%BA%E5%AE%9A",
-    "timestamp": "2026-09-16T22:43:09.618Z",
     "strategy": ".content-card__main"
   }
 ];
