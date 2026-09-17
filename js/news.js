@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T04:23:36.993Z
+// Last updated: 2026-09-17T05:22:00.829Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G-SHOCK聯乘GRS手錶開賣！DW-5600九龍衝擊價錢/門市/送Tee詳情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177244261985292288795216.jpeg/fAcAvHKX-riSBHfJ3Or11ejkty0n89O_jGeHvYxnh70?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390919/g-shock%E8%81%AF%E4%B9%98grs%E6%89%8B%E9%8C%B6%E9%96%8B%E8%B3%A3-dw-5600%E4%B9%9D%E9%BE%8D%E8%A1%9D%E6%93%8A%E5%83%B9%E9%8C%A2-%E9%96%80%E5%B8%82-%E9%80%81tee%E8%A9%B3%E6%83%85",
+    "timestamp": "2026-09-17T05:22:00.829Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾麗淇急病入院多日好友輪流探望　早年已立下遺囑為女兒留下保障",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177099490813808640197258.jpeg/j7b-hl5omcmiJ34SqGTIkSFykn5WyZT6FJ3H3xSdx98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390831/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF-%E6%B2%83%E4%BB%80-%E9%AB%98%E9%80%9A%E8%84%B9%E4%B9%8F%E6%94%B9%E8%AE%8A%E8%B7%A1%E8%B1%A1-%E7%99%BD%E5%AE%AE-%E6%B1%BA%E5%AE%9A%E7%9B%B8%E7%95%B6%E4%BB%A4%E4%BA%BA%E9%81%BA%E6%86%BE",
     "timestamp": "2026-09-16T20:21:20.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門男船員跌落船艙罅隙　被困近2小時獲救　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177093700434530304823610.jpeg/NKq8SI5fyQwPRGcyvP4fWAV7AurBwccgVxe69W0XuvU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390830/%E5%B1%AF%E9%96%80%E7%94%B7%E8%88%B9%E5%93%A1%E8%B7%8C%E8%90%BD%E8%88%B9%E8%89%99%E7%BD%85%E9%9A%99-%E8%A2%AB%E5%9B%B0%E8%BF%912%E5%B0%8F%E6%99%82%E7%8D%B2%E6%95%91-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-16T19:54:19.219Z",
     "strategy": ".content-card__main"
   }
 ];
