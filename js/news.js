@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T22:19:08.572Z
+// Last updated: 2026-09-17T22:30:45.652Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人工晶體科技新突破　白內障個人化方案助視力重生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172604059228573696237918.jpeg/gDjTG2e63Kl3Ixsr8Q6N9DiHzQziLOLEN6mZwTepmcE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386760/%E4%BA%BA%E5%B7%A5%E6%99%B6%E9%AB%94%E7%A7%91%E6%8A%80%E6%96%B0%E7%AA%81%E7%A0%B4-%E7%99%BD%E5%85%A7%E9%9A%9C%E5%80%8B%E4%BA%BA%E5%8C%96%E6%96%B9%E6%A1%88%E5%8A%A9%E8%A6%96%E5%8A%9B%E9%87%8D%E7%94%9F",
+    "timestamp": "2026-09-17T22:30:45.652Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人工晶體科技新突破　白內障個人化方案助視力重生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177332958755819520168739.jpeg/aqySqNyyfmXWmo9fOm-4zmLDxf7D-2LPf5LBKn-SwSo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391030/%E9%BA%A5%E5%AE%B6%E7%90%AAdeep-v%E7%8F%BE%E8%BA%AB%E4%BD%9B%E5%B1%B1%E9%9B%B2%E5%90%9E%E5%BA%97%E9%96%8B%E5%BC%B5%E5%89%AA%E7%B6%B5-51%E6%AD%B2%E6%A5%B5%E5%87%8D%E9%BD%A1%E7%8B%80%E6%85%8B%E9%81%A0%E8%B6%85%E5%90%8C%E9%BD%A1%E4%BA%BA",
     "timestamp": "2026-09-17T16:23:50.206Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世｜周日香港殯儀館出殯　上午禁車由渣華道右轉入英皇道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174467550596042752483715.jpeg/XLHwCXlEa5UwjLmNSWQFXBdDdnutQqTvBP5pBgT-aQY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391152/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%91%A8%E6%97%A5%E9%A6%99%E6%B8%AF%E6%AE%AF%E5%84%80%E9%A4%A8%E5%87%BA%E6%AE%AF-%E4%B8%8A%E5%8D%88%E7%A6%81%E8%BB%8A%E7%94%B1%E6%B8%A3%E8%8F%AF%E9%81%93%E5%8F%B3%E8%BD%89%E5%85%A5%E8%8B%B1%E7%9A%87%E9%81%93",
-    "timestamp": "2026-09-17T15:53:59.066Z",
     "strategy": ".content-card__main"
   }
 ];
