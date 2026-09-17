@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T16:23:50.206Z
+// Last updated: 2026-09-17T16:44:32.004Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "查理斯三世警告AI領袖　籲防「生存危險」免太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152516978955522048680391.jpeg/tW2fqW47E53RHKxu8abWoGYsPcgDWzLXAAlPKQAJTyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391157/%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E8%AD%A6%E5%91%8Aai%E9%A0%98%E8%A2%96-%E7%B1%B2%E9%98%B2-%E7%94%9F%E5%AD%98%E5%8D%B1%E9%9A%AA-%E5%85%8D%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-09-17T16:44:32.004Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥家琪Deep V現身佛山雲吞店開張剪綵　51歲極凍齡狀態遠超同齡人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176930776797810688374168.jpeg/8f3UlkqvPIv-kXDNE-lVfdAxZlLE4vibBViFHC9YhRw?v=w1920",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390951/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E7%9B%B4%E6%92%AD-%E5%8C%97%E9%83%BD5%E5%B9%B4%E5%85%A7%E6%8E%A8900%E5%85%AC%E9%A0%83%E7%86%9F%E5%9C%B0-%E5%8F%B8%E5%B1%80%E9%95%B7%E8%A8%98%E8%80%85%E6%9C%83%E4%BA%A4%E4%BB%A3%E9%87%8D%E9%BB%9E",
     "timestamp": "2026-09-17T07:46:00.503Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普擬政府採購排除加拿大產品　指歐盟賦準成員身份或構成敵對",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177254083564670976816034.jpeg/Kd0xMY-RzVl2CSvrQNgobXZNariBT2et3fozRt36M0Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390973/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E6%94%BF%E5%BA%9C%E6%8E%A1%E8%B3%BC%E6%8E%92%E9%99%A4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%94%A2%E5%93%81-%E6%8C%87%E6%AD%90%E7%9B%9F%E8%B3%A6%E6%BA%96%E6%88%90%E5%93%A1%E8%BA%AB%E4%BB%BD%E6%88%96%E6%A7%8B%E6%88%90%E6%95%B5%E5%B0%8D",
-    "timestamp": "2026-09-17T07:24:50.421Z",
     "strategy": ".content-card__main"
   }
 ];
