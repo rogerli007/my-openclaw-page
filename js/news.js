@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T18:57:22.688Z
+// Last updated: 2026-09-17T19:17:52.376Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅啟明唔認係廢男　堅稱侄仔先係廢人由細到大食梅媽：依家嚟謀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177427765910048768864025.jpeg/c9M7f72kddxMMleOKqat-oWK48kGhSAwU9PwoVPT8KE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391161/%E6%A2%85%E5%95%9F%E6%98%8E%E5%94%94%E8%AA%8D%E4%BF%82%E5%BB%A2%E7%94%B7-%E5%A0%85%E7%A8%B1%E4%BE%84%E4%BB%94%E5%85%88%E4%BF%82%E5%BB%A2%E4%BA%BA%E7%94%B1%E7%B4%B0%E5%88%B0%E5%A4%A7%E9%A3%9F%E6%A2%85%E5%AA%BD-%E4%BE%9D%E5%AE%B6%E5%9A%9F%E8%AC%80",
+    "timestamp": "2026-09-17T19:17:52.376Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅啟明唔認係廢男　堅稱侄仔先係廢人由細到大食梅媽：依家嚟謀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220422/594151719978930176638492.jpeg/B226lDCJCOKl8qOv0iCZQgUpjoaEcMIOu9qjC7vaows?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391123/%E5%A4%A7%E8%A7%92%E5%92%80%E7%93%8F%E7%92%BD%E5%85%AD%E6%97%AC%E7%94%B7%E5%B7%A5-%E7%96%91%E5%BE%9E3%E7%B1%B3%E9%AB%98%E6%B0%B4%E7%AE%B1%E5%A2%AE%E4%B8%8B-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-17T11:53:59.563Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恒大物業IPO入貨　小股民稱股價受影響大跌　指招股書失實追355萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240129/828584697847091200589610.jpeg/FvZun56-zNeB77g_P4NbbIZZBwpijtt0wKzBY8CswWM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391119/%E6%81%92%E5%A4%A7%E7%89%A9%E6%A5%ADipo%E5%85%A5%E8%B2%A8-%E5%B0%8F%E8%82%A1%E6%B0%91%E7%A8%B1%E8%82%A1%E5%83%B9%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%A4%A7%E8%B7%8C-%E6%8C%87%E6%8B%9B%E8%82%A1%E6%9B%B8%E5%A4%B1%E5%AF%A6%E8%BF%BD355%E8%90%AC",
-    "timestamp": "2026-09-17T11:32:50.458Z",
     "strategy": ".content-card__main"
   }
 ];
