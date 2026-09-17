@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T03:57:12.273Z
+// Last updated: 2026-09-17T04:23:36.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾麗淇急病入院多日好友輪流探望　早年已立下遺囑為女兒留下保障",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177225671840108544489067.jpeg/iwMfGoqHEl_NJgjNIBP9XY_c5yrjICmaR4qHw0eKh8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390917/%E9%8D%BE%E9%BA%97%E6%B7%87%E6%80%A5%E7%97%85%E5%85%A5%E9%99%A2%E5%A4%9A%E6%97%A5%E5%A5%BD%E5%8F%8B%E8%BC%AA%E6%B5%81%E6%8E%A2%E6%9C%9B-%E6%97%A9%E5%B9%B4%E5%B7%B2%E7%AB%8B%E4%B8%8B%E9%81%BA%E5%9B%91%E7%82%BA%E5%A5%B3%E5%85%92%E7%95%99%E4%B8%8B%E4%BF%9D%E9%9A%9C",
+    "timestamp": "2026-09-17T04:23:36.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "U20女足世界盃｜中國隊互射十二碼4：5不敵意大利　無緣八強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177093700434530304823610.jpeg/NKq8SI5fyQwPRGcyvP4fWAV7AurBwccgVxe69W0XuvU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390830/%E5%B1%AF%E9%96%80%E7%94%B7%E8%88%B9%E5%93%A1%E8%B7%8C%E8%90%BD%E8%88%B9%E8%89%99%E7%BD%85%E9%9A%99-%E8%A2%AB%E5%9B%B0%E8%BF%912%E5%B0%8F%E6%99%82%E7%8D%B2%E6%95%91-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-16T19:54:19.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門男船員高處墮下　被困近2小時後消防救人　傷者昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177093700434530304823610.jpeg/NKq8SI5fyQwPRGcyvP4fWAV7AurBwccgVxe69W0XuvU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390830/%E5%B1%AF%E9%96%80%E7%94%B7%E8%88%B9%E5%93%A1%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E8%A2%AB%E5%9B%B0%E8%BF%912%E5%B0%8F%E6%99%82%E5%BE%8C%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-16T19:40:41.995Z",
     "strategy": ".content-card__main"
   }
 ];
