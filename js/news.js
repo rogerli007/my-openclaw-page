@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T23:31:45.428Z
+// Last updated: 2026-09-17T23:41:33.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飛滋兩周未好？小心是口腔癌！53歲男確診　醫生拆解3大危險徵兆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173619080750436352683571.png/P5DUYcrHGzDvRVNRwdtdYf_nY_yWLAfanpx1gp6cdYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386504/%E9%A3%9B%E6%BB%8B%E5%85%A9%E5%91%A8%E6%9C%AA%E5%A5%BD-%E5%B0%8F%E5%BF%83%E6%98%AF%E5%8F%A3%E8%85%94%E7%99%8C-53%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A33%E5%A4%A7%E5%8D%B1%E9%9A%AA%E5%BE%B5%E5%85%86",
+    "timestamp": "2026-09-17T23:41:33.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飛滋兩周未好？小心是口腔癌！53歲男確診　醫生拆解3大危險徵兆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391159/%E6%AD%90%E7%9B%9F%E6%93%AC%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94-13%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%A6%81%E9%96%8B%E5%B8%B3%E8%99%9F",
     "timestamp": "2026-09-17T17:44:53.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國際培幼會賣筆籌款　支援尼泊爾女孩教育　提升對童婚問題認識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177424121689018368465198.jpeg/-sLwv1cy7NlUzxWaVaLdDoGR33rKVFU6A1h4dQNYeHU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391160/%E5%9C%8B%E9%9A%9B%E5%9F%B9%E5%B9%BC%E6%9C%83%E8%B3%A3%E7%AD%86%E7%B1%8C%E6%AC%BE-%E6%94%AF%E6%8F%B4%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%A5%B3%E5%AD%A9%E6%95%99%E8%82%B2-%E6%8F%90%E5%8D%87%E5%B0%8D%E7%AB%A5%E5%A9%9A%E5%95%8F%E9%A1%8C%E8%AA%8D%E8%AD%98",
-    "timestamp": "2026-09-17T17:29:03.486Z",
     "strategy": ".content-card__main"
   }
 ];
