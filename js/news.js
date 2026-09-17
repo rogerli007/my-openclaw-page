@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T10:21:09.700Z
+// Last updated: 2026-09-17T10:58:35.478Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸第四季啟用　鄧炳強：正測車道電腦系統　將研開通日期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177322537214808064598142.jpeg/mFdUJXDa63ZSCKbV2ieN3HofkSSF_uuYk4V66LaFeug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391103/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%95%9F%E7%94%A8-%E9%84%A7%E7%82%B3%E5%BC%B7-%E6%AD%A3%E6%B8%AC%E8%BB%8A%E9%81%93%E9%9B%BB%E8%85%A6%E7%B3%BB%E7%B5%B1-%E5%B0%87%E7%A0%94%E9%96%8B%E9%80%9A%E6%97%A5%E6%9C%9F",
+    "timestamp": "2026-09-17T10:58:35.478Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "嘴上說不買身體卻很誠實？iPhone 18 Pro首銷成交額竟比上代翻倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173618866023043072035642.jpeg/rONIp3Ih2bK0Av0RgroTaQM_0ubxt1Lf3AvQ3twL0N4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385404/%E5%81%8F%E9%A0%AD%E7%97%9B%E7%A1%AC%E6%92%90%E6%81%90%E4%B8%AD%E9%A2%A8-59%E6%AD%B2%E7%94%B7%E5%AD%90%E7%95%B6%E6%84%9F%E5%86%92%E7%AA%81%E8%85%A6%E6%A2%97%E5%A1%9E-%E7%A2%BA%E8%A8%BA%E7%BD%95%E8%A6%8Banca%E8%A1%80%E7%AE%A1%E7%82%8E",
     "timestamp": "2026-09-16T23:41:21.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "偏頭痛硬撐恐中風！59歲男子當感冒突腦梗塞　確診罕見ANCA血管炎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173618866023043072035642.jpeg/rONIp3Ih2bK0Av0RgroTaQM_0ubxt1Lf3AvQ3twL0N4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60385404/%E5%81%8F%E9%A0%AD%E7%97%9B%E7%A1%AC%E6%92%90%E6%81%90%E4%B8%AD%E9%A2%A8-59%E6%AD%B2%E7%94%B7%E5%AD%90%E7%95%B6%E6%84%9F%E5%86%92%E7%AA%81%E8%85%A6%E6%A2%97%E5%A1%9E-%E7%A2%BA%E8%A8%BA%E7%BD%95%E8%A6%8Banca%E8%A1%80%E7%AE%A1%E7%82%8E",
-    "timestamp": "2026-09-16T23:30:16.338Z",
     "strategy": ".content-card__main"
   }
 ];
