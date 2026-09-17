@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T11:19:10.878Z
+// Last updated: 2026-09-17T11:32:50.458Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恒大物業IPO入貨　小股民稱股價受影響大跌　指招股書失實追355萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240129/828584697847091200589610.jpeg/FvZun56-zNeB77g_P4NbbIZZBwpijtt0wKzBY8CswWM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391119/%E6%81%92%E5%A4%A7%E7%89%A9%E6%A5%ADipo%E5%85%A5%E8%B2%A8-%E5%B0%8F%E8%82%A1%E6%B0%91%E7%A8%B1%E8%82%A1%E5%83%B9%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%A4%A7%E8%B7%8C-%E6%8C%87%E6%8B%9B%E8%82%A1%E6%9B%B8%E5%A4%B1%E5%AF%A6%E8%BF%BD355%E8%90%AC",
+    "timestamp": "2026-09-17T11:32:50.458Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜46歲兩孩之母陳家珮想添丁：生育「組合拳」減托兒壓力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176920279532703744052418.jpeg/7VgYWX_MjJ-nUY8NzPIBgGQVFJ4N9I-uz4MJr8-DCa8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60390620/%E6%B7%B1%E5%9C%B3%E9%BE%8D%E8%8F%AF%E6%A9%9F%E5%A0%B4%E7%8D%B2%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D-%E6%8A%95%E8%B3%8710%E5%84%84%E5%8A%A9%E5%8A%9B%E4%BD%8E%E7%A9%BA%E7%B6%93%E6%BF%9F-%E6%93%AC2027%E5%B9%B4%E5%BA%95%E5%BB%BA%E6%88%90",
     "timestamp": "2026-09-17T01:17:20.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路蘭《奧德賽》史詩解析：英雄狂言惹海神　漂流10年回家鄉復仇記",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176668635976962048816594.png/l96U0aGxrc36IoCPcPFDHw73RmtM54GnsymQ9bMpkPU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60388506/%E8%B7%AF%E8%98%AD-%E5%A5%A7%E5%BE%B7%E8%B3%BD-%E5%8F%B2%E8%A9%A9%E8%A7%A3%E6%9E%90-%E8%8B%B1%E9%9B%84%E7%8B%82%E8%A8%80%E6%83%B9%E6%B5%B7%E7%A5%9E-%E6%BC%82%E6%B5%8110%E5%B9%B4%E5%9B%9E%E5%AE%B6%E9%84%89%E5%BE%A9%E4%BB%87%E8%A8%98",
-    "timestamp": "2026-09-17T00:48:20.337Z",
     "strategy": ".content-card__main"
   }
 ];
