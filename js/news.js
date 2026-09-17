@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T02:37:56.995Z
+// Last updated: 2026-09-17T03:47:26.701Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "56歲莫文蔚5套經典時髦穿搭　白襯衫3種穿法切換風格　隨性又高級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172491828130222080153290.png/V7_PQTjyYeQzw7dwXGmVXriTvKgr52dIHq3f2B6t39g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60386514/56%E6%AD%B2%E8%8E%AB%E6%96%87%E8%94%9A5%E5%A5%97%E7%B6%93%E5%85%B8%E6%99%82%E9%AB%A6%E7%A9%BF%E6%90%AD-%E7%99%BD%E8%A5%AF%E8%A1%AB3%E7%A8%AE%E7%A9%BF%E6%B3%95%E5%88%87%E6%8F%9B%E9%A2%A8%E6%A0%BC-%E9%9A%A8%E6%80%A7%E5%8F%88%E9%AB%98%E7%B4%9A",
+    "timestamp": "2026-09-17T03:47:26.701Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜鼓勵生育不如改善生活？市民向特首談拒生：睇唔到將來",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172928894114729984342605.jpeg/z_qc_FmF4BDngvjJWJQfh0MEoGcLYwOUemE_XHphP1w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390826/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E9%81%B8%E5%89%8D%E5%8F%96%E6%B6%88%E5%A4%A7%E9%83%A8%E4%BB%BD%E6%B1%BD%E8%BB%8A%E8%B7%AF%E7%A8%85-%E6%A2%85%E6%B4%9B%E5%B0%BC-%E7%84%A1%E6%84%8F%E6%8F%90%E5%89%8D%E9%81%B8%E8%88%89",
     "timestamp": "2026-09-16T18:55:50.638Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利大選前取消大部份汽車路稅　梅洛尼：無意提前選舉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172928894114729984342605.jpeg/z_qc_FmF4BDngvjJWJQfh0MEoGcLYwOUemE_XHphP1w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390826/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E9%81%B8%E5%89%8D%E5%8F%96%E6%B6%88%E5%A4%A7%E9%83%A8%E4%BB%BD%E6%B1%BD%E8%BB%8A%E8%B7%AF%E7%A8%85-%E6%A2%85%E6%B4%9B%E5%B0%BC-%E7%84%A1%E6%84%8F%E6%8F%90%E5%89%8D%E9%81%B8%E8%88%89",
-    "timestamp": "2026-09-16T18:46:39.456Z",
     "strategy": ".content-card__main"
   }
 ];
