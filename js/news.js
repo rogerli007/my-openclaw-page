@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T19:29:53.751Z
+// Last updated: 2026-09-17T19:55:14.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荔枝角道搗非法賭檔　拘8人檢值22萬籌碼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177455988400197632024391.jpeg/jW_99_itQbtDvg3p8785Wx955AkdO7YVkNJeTpDSXk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391167/%E8%AD%A6%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%8B%988%E4%BA%BA%E6%AA%A2%E5%80%BC22%E8%90%AC%E7%B1%8C%E7%A2%BC",
+    "timestamp": "2026-09-17T19:55:14.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荔枝角道搗非法賭檔　拘8人檢值22萬籌碼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177363209405861888370612.png/0H_HuD_hNsFQD26X4dFwOzBGsloMPjby3cgi_N3IIvw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391133/hyrox%E5%A4%B1%E7%A6%81%E9%A2%A8%E6%B3%A2-%E6%BE%B3%E6%B4%B2%E5%A5%B3%E9%81%B8%E6%89%8B-%E5%90%91%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91-%E9%81%B8%E6%89%8B%E5%92%8C%E4%B8%BB%E8%BE%A6%E6%96%B9%E8%AA%A0%E6%91%AF%E9%81%93%E6%AD%89",
     "timestamp": "2026-09-17T13:20:20.808Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳建州突發心肌梗塞極速送入ICU　自揭血管塞9成全因一作息習慣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177299428805971968946051.jpeg/jRuJnugsyiQEHHngVyEBY2BqFCtU3-aiFYa-LBWGviw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391049/%E9%99%B3%E5%BB%BA%E5%B7%9E%E7%AA%81%E7%99%BC%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E6%A5%B5%E9%80%9F%E9%80%81%E5%85%A5icu-%E8%87%AA%E6%8F%AD%E8%A1%80%E7%AE%A1%E5%A1%9E9%E6%88%90%E5%85%A8%E5%9B%A0%E4%B8%80%E4%BD%9C%E6%81%AF%E7%BF%92%E6%85%A3",
-    "timestamp": "2026-09-17T12:52:22.588Z",
     "strategy": ".content-card__main"
   }
 ];
