@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T13:20:20.808Z
+// Last updated: 2026-09-17T13:43:57.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港足新球衣的「香港味道」　竹蒸籠為靈感　球衣號碼變堅韌之符號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177369862024990720278301.png/scMHagRV6Bv6_1jkuxG39ELHvAVHnizkj1uJeI9biXg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391138/%E6%B8%AF%E8%B6%B3%E6%96%B0%E7%90%83%E8%A1%A3%E7%9A%84-%E9%A6%99%E6%B8%AF%E5%91%B3%E9%81%93-%E7%AB%B9%E8%92%B8%E7%B1%A0%E7%82%BA%E9%9D%88%E6%84%9F-%E7%90%83%E8%A1%A3%E8%99%9F%E7%A2%BC%E8%AE%8A%E5%A0%85%E9%9F%8C%E4%B9%8B%E7%AC%A6%E8%99%9F",
+    "timestamp": "2026-09-17T13:43:57.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "HYROX失禁風波　澳洲女選手：向中國人民、選手和主辦方誠摯道歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177215966128377856083149.jpeg/shZy-MAwrxl8wT3LAD0YH8d6LJX-JxzzX8oJn1_KCZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390901/u20%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E7%9B%83-%E4%B8%AD%E5%9C%8B%E9%9A%8A%E4%BA%92%E5%B0%84%E5%8D%81%E4%BA%8C%E7%A2%BC4-5%E4%B8%8D%E6%95%B5%E6%84%8F%E5%A4%A7%E5%88%A9-%E7%84%A1%E7%B7%A3%E5%85%AB%E5%BC%B7",
     "timestamp": "2026-09-17T03:57:12.273Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "56歲莫文蔚5套經典時髦穿搭　白襯衫3種穿法切換風格　隨性又高級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172491828130222080153290.png/V7_PQTjyYeQzw7dwXGmVXriTvKgr52dIHq3f2B6t39g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60386514/56%E6%AD%B2%E8%8E%AB%E6%96%87%E8%94%9A5%E5%A5%97%E7%B6%93%E5%85%B8%E6%99%82%E9%AB%A6%E7%A9%BF%E6%90%AD-%E7%99%BD%E8%A5%AF%E8%A1%AB3%E7%A8%AE%E7%A9%BF%E6%B3%95%E5%88%87%E6%8F%9B%E9%A2%A8%E6%A0%BC-%E9%9A%A8%E6%80%A7%E5%8F%88%E9%AB%98%E7%B4%9A",
-    "timestamp": "2026-09-17T03:47:26.701Z",
     "strategy": ".content-card__main"
   }
 ];
