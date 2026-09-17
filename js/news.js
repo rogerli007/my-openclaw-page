@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T05:43:45.297Z
+// Last updated: 2026-09-17T05:55:33.776Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜李家超驚嘆AI發展　警惕只與AI聊天退離社區釀精神問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177245703991332864576980.jpeg/W05zCaSJ2RPoIk_9fiyncy7CvzphTl0y-o9F3vqPRd4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60390934/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%A9%9A%E5%98%86ai%E7%99%BC%E5%B1%95-%E8%AD%A6%E6%83%95%E5%8F%AA%E8%88%87ai%E8%81%8A%E5%A4%A9%E9%80%80%E9%9B%A2%E7%A4%BE%E5%8D%80%E9%87%80%E7%B2%BE%E7%A5%9E%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-09-17T05:55:33.776Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Tesla司機衝黃燈撞斃19歲少女　官斥過路處加速不負責任　囚22月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174742432219140096145920.jpeg/mVCU9E0qSWWbpdNLSQ_x5eRLyDV5NnDDR1i3BUdYtwU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390834/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E5%A2%AE%E8%83%8E%E7%A6%81%E4%BB%A4%E8%87%B4%E5%AD%95%E5%A9%A6%E5%A4%B1%E6%95%91%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E5%85%A5%E7%A8%9F%E5%91%8A%E6%AA%A2%E5%AF%9F%E9%95%B7",
     "timestamp": "2026-09-16T20:53:35.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國德州墮胎禁令致孕婦失救亡　家屬入稟告檢察長",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174742432219140096145920.jpeg/mVCU9E0qSWWbpdNLSQ_x5eRLyDV5NnDDR1i3BUdYtwU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390834/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E5%A2%AE%E8%83%8E%E7%A6%81%E4%BB%A4%E8%87%B4%E5%AD%95%E5%A9%A6%E5%A4%B1%E6%95%91%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E5%85%A5%E7%A8%9F%E5%91%8A%E6%AA%A2%E5%AF%9F%E9%95%B7",
-    "timestamp": "2026-09-16T20:42:42.909Z",
     "strategy": ".content-card__main"
   }
 ];
