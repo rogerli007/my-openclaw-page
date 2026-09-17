@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T05:22:00.829Z
+// Last updated: 2026-09-17T05:43:45.297Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Tesla司機衝黃燈撞斃19歲少女　官斥過路處加速不負責任　囚22月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241107/931130873464623104837642.jpeg/eBKFWpVum4T-vLxSG6aQlPJ_qQ9DjRCRcynnAlkp5wI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390959/tesla%E5%8F%B8%E6%A9%9F%E8%A1%9D%E9%BB%83%E7%87%88%E6%92%9E%E6%96%8319%E6%AD%B2%E5%B0%91%E5%A5%B3-%E5%AE%98%E6%96%A5%E9%81%8E%E8%B7%AF%E8%99%95%E5%8A%A0%E9%80%9F%E4%B8%8D%E8%B2%A0%E8%B2%AC%E4%BB%BB-%E5%9B%9A22%E6%9C%88",
+    "timestamp": "2026-09-17T05:43:45.297Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "G-SHOCK聯乘GRS手錶開賣！DW-5600九龍衝擊價錢/門市/送Tee詳情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174742432219140096145920.jpeg/mVCU9E0qSWWbpdNLSQ_x5eRLyDV5NnDDR1i3BUdYtwU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390834/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E5%A2%AE%E8%83%8E%E7%A6%81%E4%BB%A4%E8%87%B4%E5%AD%95%E5%A9%A6%E5%A4%B1%E6%95%91%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E5%85%A5%E7%A8%9F%E5%91%8A%E6%AA%A2%E5%AF%9F%E9%95%B7",
     "timestamp": "2026-09-16T20:42:42.909Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國加息｜沃什：高通脹乏改變跡象　白宮：決定相當令人遺憾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177099490813808640197258.jpeg/j7b-hl5omcmiJ34SqGTIkSFykn5WyZT6FJ3H3xSdx98?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390831/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF-%E6%B2%83%E4%BB%80-%E9%AB%98%E9%80%9A%E8%84%B9%E4%B9%8F%E6%94%B9%E8%AE%8A%E8%B7%A1%E8%B1%A1-%E7%99%BD%E5%AE%AE-%E6%B1%BA%E5%AE%9A%E7%9B%B8%E7%95%B6%E4%BB%A4%E4%BA%BA%E9%81%BA%E6%86%BE",
-    "timestamp": "2026-09-16T20:21:20.442Z",
     "strategy": ".content-card__main"
   }
 ];
