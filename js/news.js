@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T15:53:59.066Z
+// Last updated: 2026-09-17T16:23:50.206Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥家琪Deep V現身佛山雲吞店開張剪綵　51歲極凍齡狀態遠超同齡人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177332958755819520168739.jpeg/aqySqNyyfmXWmo9fOm-4zmLDxf7D-2LPf5LBKn-SwSo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391030/%E9%BA%A5%E5%AE%B6%E7%90%AAdeep-v%E7%8F%BE%E8%BA%AB%E4%BD%9B%E5%B1%B1%E9%9B%B2%E5%90%9E%E5%BA%97%E9%96%8B%E5%BC%B5%E5%89%AA%E7%B6%B5-51%E6%AD%B2%E6%A5%B5%E5%87%8D%E9%BD%A1%E7%8B%80%E6%85%8B%E9%81%A0%E8%B6%85%E5%90%8C%E9%BD%A1%E4%BA%BA",
+    "timestamp": "2026-09-17T16:23:50.206Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華逝世｜周日香港殯儀館出殯　上午禁車由渣華道右轉入英皇道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177254083564670976816034.jpeg/Kd0xMY-RzVl2CSvrQNgobXZNariBT2et3fozRt36M0Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390973/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E6%94%BF%E5%BA%9C%E6%8E%A1%E8%B3%BC%E6%8E%92%E9%99%A4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%94%A2%E5%93%81-%E6%8C%87%E6%AD%90%E7%9B%9F%E8%B3%A6%E6%BA%96%E6%88%90%E5%93%A1%E8%BA%AB%E4%BB%BD%E6%88%96%E6%A7%8B%E6%88%90%E6%95%B5%E5%B0%8D",
     "timestamp": "2026-09-17T07:24:50.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "花旗︰港首份《五年規劃》及《施政報告》　樓市措施未見驚喜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145702956713119744527419.jpeg/77_bHogMwvYKoG5v4Bw3weEVpbWvgQlo6dTCU-nUwlM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390995/%E8%8A%B1%E6%97%97-%E6%B8%AF%E9%A6%96%E4%BB%BD-%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E5%8F%8A-%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E6%A8%93%E5%B8%82%E6%8E%AA%E6%96%BD%E6%9C%AA%E8%A6%8B%E9%A9%9A%E5%96%9C",
-    "timestamp": "2026-09-17T06:59:48.509Z",
     "strategy": ".content-card__main"
   }
 ];
