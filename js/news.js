@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T05:55:33.776Z
+// Last updated: 2026-09-17T06:59:48.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "花旗︰港首份《五年規劃》及《施政報告》　樓市措施未見驚喜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145702956713119744527419.jpeg/77_bHogMwvYKoG5v4Bw3weEVpbWvgQlo6dTCU-nUwlM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390995/%E8%8A%B1%E6%97%97-%E6%B8%AF%E9%A6%96%E4%BB%BD-%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E5%8F%8A-%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E6%A8%93%E5%B8%82%E6%8E%AA%E6%96%BD%E6%9C%AA%E8%A6%8B%E9%A9%9A%E5%96%9C",
+    "timestamp": "2026-09-17T06:59:48.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜李家超驚嘆AI發展　警惕只與AI聊天退離社區釀精神問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176528650154020864034591.jpeg/Ry_WLFF1xtHchkFPcTuw4EVLCNvFh4hJJSautiUmrrY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390836/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E8%BF%85%E9%80%9F%E6%B8%9B%E6%81%AF-%E5%88%A9%E7%8E%87%E6%87%89%E9%99%8D%E8%87%B31-%E6%88%96%E6%9B%B4%E4%BD%8E",
     "timestamp": "2026-09-16T21:19:14.898Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國德州墮胎禁令致孕婦失救亡　家屬入稟告檢察長",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174742432219140096145920.jpeg/mVCU9E0qSWWbpdNLSQ_x5eRLyDV5NnDDR1i3BUdYtwU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390834/%E7%BE%8E%E5%9C%8B%E5%BE%B7%E5%B7%9E%E5%A2%AE%E8%83%8E%E7%A6%81%E4%BB%A4%E8%87%B4%E5%AD%95%E5%A9%A6%E5%A4%B1%E6%95%91%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E5%85%A5%E7%A8%9F%E5%91%8A%E6%AA%A2%E5%AF%9F%E9%95%B7",
-    "timestamp": "2026-09-16T20:53:35.577Z",
     "strategy": ".content-card__main"
   }
 ];
