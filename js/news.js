@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T21:42:48.459Z
+// Last updated: 2026-09-17T21:54:09.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荃灣截查男子　工廈住所檢值45萬毒品　23歲內地男涉販毒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177489904137932800938170.jpeg/dx_n434vz3vCp6YeZkhycBjK-IckOP4zwlwnf8JcJ38?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391174/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%88%AA%E6%9F%A5%E7%94%B7%E5%AD%90-%E5%B7%A5%E5%BB%88%E4%BD%8F%E6%89%80%E6%AA%A2%E5%80%BC45%E8%90%AC%E6%AF%92%E5%93%81-23%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-17T21:54:09.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣截查男子　工廈住所檢值45萬毒品　23歲內地男涉販毒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177386514724687872205637.png/YZHH6Nb5iceWQxGBJXijREiYoaIDLJtRjJrBqoyawao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391132/%E5%A4%AE%E8%A6%96%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%91%8A%E5%88%A5%E5%BC%8F-%E5%8C%97%E4%BA%AC%E5%85%AB%E5%AF%B6%E5%B1%B1%E8%88%89%E8%A1%8C%E5%91%8A%E5%88%A5%E5%84%80%E5%BC%8F",
     "timestamp": "2026-09-17T14:54:19.451Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "央視知名主持人敬一丹告別式　北京八寶山舉行告別儀式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177386514724687872205637.png/YZHH6Nb5iceWQxGBJXijREiYoaIDLJtRjJrBqoyawao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391132/%E5%A4%AE%E8%A6%96%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%91%8A%E5%88%A5%E5%BC%8F-%E5%8C%97%E4%BA%AC%E5%85%AB%E5%AF%B6%E5%B1%B1%E8%88%89%E8%A1%8C%E5%91%8A%E5%88%A5%E5%84%80%E5%BC%8F",
-    "timestamp": "2026-09-17T14:43:57.043Z",
     "strategy": ".content-card__main"
   }
 ];
