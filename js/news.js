@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T14:23:30.343Z
+// Last updated: 2026-09-17T14:43:57.043Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "央視知名主持人敬一丹告別式　北京八寶山舉行告別儀式",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177386514724687872205637.png/YZHH6Nb5iceWQxGBJXijREiYoaIDLJtRjJrBqoyawao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391132/%E5%A4%AE%E8%A6%96%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%91%8A%E5%88%A5%E5%BC%8F-%E5%8C%97%E4%BA%AC%E5%85%AB%E5%AF%B6%E5%B1%B1%E8%88%89%E8%A1%8C%E5%91%8A%E5%88%A5%E5%84%80%E5%BC%8F",
+    "timestamp": "2026-09-17T14:43:57.043Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩9.19頭獎1300萬｜6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241107/931130873464623104837642.jpeg/eBKFWpVum4T-vLxSG6aQlPJ_qQ9DjRCRcynnAlkp5wI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390959/tesla%E5%8F%B8%E6%A9%9F%E8%A1%9D%E9%BB%83%E7%87%88%E6%92%9E%E6%96%8319%E6%AD%B2%E5%B0%91%E5%A5%B3-%E5%AE%98%E6%96%A5%E9%81%8E%E8%B7%AF%E8%99%95%E5%8A%A0%E9%80%9F%E4%B8%8D%E8%B2%A0%E8%B2%AC%E4%BB%BB-%E5%9B%9A22%E6%9C%88",
     "timestamp": "2026-09-17T05:43:45.297Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G-SHOCK聯乘GRS手錶開賣！DW-5600九龍衝擊價錢/門市/送Tee詳情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177244261985292288795216.jpeg/fAcAvHKX-riSBHfJ3Or11ejkty0n89O_jGeHvYxnh70?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390919/g-shock%E8%81%AF%E4%B9%98grs%E6%89%8B%E9%8C%B6%E9%96%8B%E8%B3%A3-dw-5600%E4%B9%9D%E9%BE%8D%E8%A1%9D%E6%93%8A%E5%83%B9%E9%8C%A2-%E9%96%80%E5%B8%82-%E9%80%81tee%E8%A9%B3%E6%83%85",
-    "timestamp": "2026-09-17T05:22:00.829Z",
     "strategy": ".content-card__main"
   }
 ];
