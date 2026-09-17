@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T00:48:20.337Z
+// Last updated: 2026-09-17T01:17:20.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳龍華機場獲正式命名　投資10億助力低空經濟　擬2027年底建成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176920279532703744052418.jpeg/7VgYWX_MjJ-nUY8NzPIBgGQVFJ4N9I-uz4MJr8-DCa8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60390620/%E6%B7%B1%E5%9C%B3%E9%BE%8D%E8%8F%AF%E6%A9%9F%E5%A0%B4%E7%8D%B2%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D-%E6%8A%95%E8%B3%8710%E5%84%84%E5%8A%A9%E5%8A%9B%E4%BD%8E%E7%A9%BA%E7%B6%93%E6%BF%9F-%E6%93%AC2027%E5%B9%B4%E5%BA%95%E5%BB%BA%E6%88%90",
+    "timestamp": "2026-09-17T01:17:20.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路蘭《奧德賽》史詩解析：英雄狂言惹海神　漂流10年回家鄉復仇記",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176565788371718144169354.jpeg/lDbyGNABTSeh0RQqZDn-61QK1PgRlkw6k2qpbrZqqW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390824/%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E9%A6%AC%E6%9C%83%E6%94%AF%E6%8C%81%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E6%8D%90%E6%AC%BE30%E5%84%84%E5%BB%BA%E7%94%9F%E5%91%BD%E5%81%A5%E5%BA%B7%E7%A7%91%E6%8A%80%E6%95%99%E7%A0%94%E5%A4%A7%E6%A8%93",
     "timestamp": "2026-09-16T17:54:20.435Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "與特朗普唱反調？　古特雷斯警告AI風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260131/1094251974410375168967083.jpeg/-IpV8s1CjGsueVbJKHBF1N5cIaKwdTK7agZjzmoGY84?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390823/%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%94%B1%E5%8F%8D%E8%AA%BF-%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E8%AD%A6%E5%91%8Aai%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-09-16T17:29:35.937Z",
     "strategy": ".content-card__main"
   }
 ];
