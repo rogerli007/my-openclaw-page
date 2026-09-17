@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T13:53:44.011Z
+// Last updated: 2026-09-17T14:23:30.343Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩9.19頭獎1300萬｜6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260205/1096200654482837504026513.jpeg/bCOG3l4tWIoddP2WEsC2Cr6Y9h5Uzcwhp-3zxaft88U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391143/%E5%85%AD%E5%90%88%E5%BD%A99-19%E9%A0%AD%E7%8D%8E1300%E8%90%AC-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-09-17T14:23:30.343Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港足新球衣的「香港味道」　竹蒸籠為靈感　球衣號碼變堅韌之符號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177244261985292288795216.jpeg/fAcAvHKX-riSBHfJ3Or11ejkty0n89O_jGeHvYxnh70?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390919/g-shock%E8%81%AF%E4%B9%98grs%E6%89%8B%E9%8C%B6%E9%96%8B%E8%B3%A3-dw-5600%E4%B9%9D%E9%BE%8D%E8%A1%9D%E6%93%8A%E5%83%B9%E9%8C%A2-%E9%96%80%E5%B8%82-%E9%80%81tee%E8%A9%B3%E6%83%85",
     "timestamp": "2026-09-17T05:22:00.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鍾麗淇急病入院多日好友輪流探望　早年已立下遺囑為女兒留下保障",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177225671840108544489067.jpeg/iwMfGoqHEl_NJgjNIBP9XY_c5yrjICmaR4qHw0eKh8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390917/%E9%8D%BE%E9%BA%97%E6%B7%87%E6%80%A5%E7%97%85%E5%85%A5%E9%99%A2%E5%A4%9A%E6%97%A5%E5%A5%BD%E5%8F%8B%E8%BC%AA%E6%B5%81%E6%8E%A2%E6%9C%9B-%E6%97%A9%E5%B9%B4%E5%B7%B2%E7%AB%8B%E4%B8%8B%E9%81%BA%E5%9B%91%E7%82%BA%E5%A5%B3%E5%85%92%E7%95%99%E4%B8%8B%E4%BF%9D%E9%9A%9C",
-    "timestamp": "2026-09-17T04:23:36.993Z",
     "strategy": ".content-card__main"
   }
 ];
