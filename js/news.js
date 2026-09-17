@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T11:53:59.563Z
+// Last updated: 2026-09-17T12:52:22.588Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳建州突發心肌梗塞極速送入ICU　自揭血管塞9成全因一作息習慣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177299428805971968946051.jpeg/jRuJnugsyiQEHHngVyEBY2BqFCtU3-aiFYa-LBWGviw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391049/%E9%99%B3%E5%BB%BA%E5%B7%9E%E7%AA%81%E7%99%BC%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E6%A5%B5%E9%80%9F%E9%80%81%E5%85%A5icu-%E8%87%AA%E6%8F%AD%E8%A1%80%E7%AE%A1%E5%A1%9E9%E6%88%90%E5%85%A8%E5%9B%A0%E4%B8%80%E4%BD%9C%E6%81%AF%E7%BF%92%E6%85%A3",
+    "timestamp": "2026-09-17T12:52:22.588Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大角咀瓏璽六旬男工　疑從3米高水箱墮下　昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176538101305184256086537.jpeg/HQGT3z5CNgU8uLAEjc-qPaEMXkXeKO3Jt0040pJNONI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390854/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2%E4%B8%8D%E5%A6%82%E6%94%B9%E5%96%84%E7%94%9F%E6%B4%BB-%E5%B8%82%E6%B0%91%E5%90%91%E7%89%B9%E9%A6%96%E8%AB%87%E6%8B%92%E7%94%9F-%E7%9D%87%E5%94%94%E5%88%B0%E5%B0%87%E4%BE%86",
     "timestamp": "2026-09-17T02:37:56.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告2026｜多項措施推動創科發展　三大創科園區表示歡迎支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176946963766185984902714.jpeg/8w_B_6_nbKNZyarEo_fbLlHH6GrrhghjP2HB_Bphwfw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60390847/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E5%A4%9A%E9%A0%85%E6%8E%AA%E6%96%BD%E6%8E%A8%E5%8B%95%E5%89%B5%E7%A7%91%E7%99%BC%E5%B1%95-%E4%B8%89%E5%A4%A7%E5%89%B5%E7%A7%91%E5%9C%92%E5%8D%80%E8%A1%A8%E7%A4%BA%E6%AD%A1%E8%BF%8E%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-09-17T02:04:41.381Z",
     "strategy": ".content-card__main"
   }
 ];
