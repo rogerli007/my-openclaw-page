@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T19:17:52.376Z
+// Last updated: 2026-09-17T19:29:53.751Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荔枝角道搗非法賭檔　拘8人檢值22萬籌碼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177455988400197632024391.jpeg/jW_99_itQbtDvg3p8785Wx955AkdO7YVkNJeTpDSXk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391167/%E8%AD%A6%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%8B%988%E4%BA%BA%E6%AA%A2%E5%80%BC22%E8%90%AC%E7%B1%8C%E7%A2%BC",
+    "timestamp": "2026-09-17T19:29:53.751Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅啟明唔認係廢男　堅稱侄仔先係廢人由細到大食梅媽：依家嚟謀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177299428805971968946051.jpeg/jRuJnugsyiQEHHngVyEBY2BqFCtU3-aiFYa-LBWGviw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391049/%E9%99%B3%E5%BB%BA%E5%B7%9E%E7%AA%81%E7%99%BC%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E6%A5%B5%E9%80%9F%E9%80%81%E5%85%A5icu-%E8%87%AA%E6%8F%AD%E8%A1%80%E7%AE%A1%E5%A1%9E9%E6%88%90%E5%85%A8%E5%9B%A0%E4%B8%80%E4%BD%9C%E6%81%AF%E7%BF%92%E6%85%A3",
     "timestamp": "2026-09-17T12:52:22.588Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大角咀瓏璽六旬男工　疑從3米高水箱墮下　昏迷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220422/594151719978930176638492.jpeg/B226lDCJCOKl8qOv0iCZQgUpjoaEcMIOu9qjC7vaows?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391123/%E5%A4%A7%E8%A7%92%E5%92%80%E7%93%8F%E7%92%BD%E5%85%AD%E6%97%AC%E7%94%B7%E5%B7%A5-%E7%96%91%E5%BE%9E3%E7%B1%B3%E9%AB%98%E6%B0%B4%E7%AE%B1%E5%A2%AE%E4%B8%8B-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-17T11:53:59.563Z",
     "strategy": ".content-card__main"
   }
 ];
