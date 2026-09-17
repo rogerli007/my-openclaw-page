@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T03:47:26.701Z
+// Last updated: 2026-09-17T03:57:12.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "U20女足世界盃｜中國隊互射十二碼4：5不敵意大利　無緣八強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177215966128377856083149.jpeg/shZy-MAwrxl8wT3LAD0YH8d6LJX-JxzzX8oJn1_KCZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390901/u20%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E7%9B%83-%E4%B8%AD%E5%9C%8B%E9%9A%8A%E4%BA%92%E5%B0%84%E5%8D%81%E4%BA%8C%E7%A2%BC4-5%E4%B8%8D%E6%95%B5%E6%84%8F%E5%A4%A7%E5%88%A9-%E7%84%A1%E7%B7%A3%E5%85%AB%E5%BC%B7",
+    "timestamp": "2026-09-17T03:57:12.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "56歲莫文蔚5套經典時髦穿搭　白襯衫3種穿法切換風格　隨性又高級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177093700434530304823610.jpeg/NKq8SI5fyQwPRGcyvP4fWAV7AurBwccgVxe69W0XuvU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60390830/%E5%B1%AF%E9%96%80%E7%94%B7%E8%88%B9%E5%93%A1%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E8%A2%AB%E5%9B%B0%E8%BF%912%E5%B0%8F%E6%99%82%E5%BE%8C%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-16T19:40:41.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利大選前取消大部份汽車路稅　梅洛尼：無意提前選舉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172928894114729984342605.jpeg/z_qc_FmF4BDngvjJWJQfh0MEoGcLYwOUemE_XHphP1w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390826/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E9%81%B8%E5%89%8D%E5%8F%96%E6%B6%88%E5%A4%A7%E9%83%A8%E4%BB%BD%E6%B1%BD%E8%BB%8A%E8%B7%AF%E7%A8%85-%E6%A2%85%E6%B4%9B%E5%B0%BC-%E7%84%A1%E6%84%8F%E6%8F%90%E5%89%8D%E9%81%B8%E8%88%89",
-    "timestamp": "2026-09-16T18:55:50.638Z",
     "strategy": ".content-card__main"
   }
 ];
