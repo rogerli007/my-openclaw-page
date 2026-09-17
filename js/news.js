@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T12:52:22.588Z
+// Last updated: 2026-09-17T13:20:20.808Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "HYROX失禁風波　澳洲女選手：向中國人民、選手和主辦方誠摯道歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177363209405861888370612.png/0H_HuD_hNsFQD26X4dFwOzBGsloMPjby3cgi_N3IIvw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391133/hyrox%E5%A4%B1%E7%A6%81%E9%A2%A8%E6%B3%A2-%E6%BE%B3%E6%B4%B2%E5%A5%B3%E9%81%B8%E6%89%8B-%E5%90%91%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91-%E9%81%B8%E6%89%8B%E5%92%8C%E4%B8%BB%E8%BE%A6%E6%96%B9%E8%AA%A0%E6%91%AF%E9%81%93%E6%AD%89",
+    "timestamp": "2026-09-17T13:20:20.808Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳建州突發心肌梗塞極速送入ICU　自揭血管塞9成全因一作息習慣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172491828130222080153290.png/V7_PQTjyYeQzw7dwXGmVXriTvKgr52dIHq3f2B6t39g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60386514/56%E6%AD%B2%E8%8E%AB%E6%96%87%E8%94%9A5%E5%A5%97%E7%B6%93%E5%85%B8%E6%99%82%E9%AB%A6%E7%A9%BF%E6%90%AD-%E7%99%BD%E8%A5%AF%E8%A1%AB3%E7%A8%AE%E7%A9%BF%E6%B3%95%E5%88%87%E6%8F%9B%E9%A2%A8%E6%A0%BC-%E9%9A%A8%E6%80%A7%E5%8F%88%E9%AB%98%E7%B4%9A",
     "timestamp": "2026-09-17T03:47:26.701Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告｜鼓勵生育不如改善生活？市民向特首談拒生：睇唔到將來",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176538101305184256086537.jpeg/HQGT3z5CNgU8uLAEjc-qPaEMXkXeKO3Jt0040pJNONI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390854/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%BC%93%E5%8B%B5%E7%94%9F%E8%82%B2%E4%B8%8D%E5%A6%82%E6%94%B9%E5%96%84%E7%94%9F%E6%B4%BB-%E5%B8%82%E6%B0%91%E5%90%91%E7%89%B9%E9%A6%96%E8%AB%87%E6%8B%92%E7%94%9F-%E7%9D%87%E5%94%94%E5%88%B0%E5%B0%87%E4%BE%86",
-    "timestamp": "2026-09-17T02:37:56.995Z",
     "strategy": ".content-card__main"
   }
 ];
