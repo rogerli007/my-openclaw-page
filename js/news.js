@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T06:59:48.509Z
+// Last updated: 2026-09-17T07:24:50.421Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普擬政府採購排除加拿大產品　指歐盟賦準成員身份或構成敵對",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177254083564670976816034.jpeg/Kd0xMY-RzVl2CSvrQNgobXZNariBT2et3fozRt36M0Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390973/%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%AC%E6%94%BF%E5%BA%9C%E6%8E%A1%E8%B3%BC%E6%8E%92%E9%99%A4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%94%A2%E5%93%81-%E6%8C%87%E6%AD%90%E7%9B%9F%E8%B3%A6%E6%BA%96%E6%88%90%E5%93%A1%E8%BA%AB%E4%BB%BD%E6%88%96%E6%A7%8B%E6%88%90%E6%95%B5%E5%B0%8D",
+    "timestamp": "2026-09-17T07:24:50.421Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "花旗︰港首份《五年規劃》及《施政報告》　樓市措施未見驚喜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176528650154020864034591.jpeg/Ry_WLFF1xtHchkFPcTuw4EVLCNvFh4hJJSautiUmrrY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390836/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E8%BF%85%E9%80%9F%E6%B8%9B%E6%81%AF-%E5%88%A9%E7%8E%87%E6%87%89%E9%99%8D%E8%87%B31-%E6%88%96%E6%9B%B4%E4%BD%8E",
     "timestamp": "2026-09-16T21:43:35.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國加息｜特朗普促迅速減息：利率應降至1%或更低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176528650154020864034591.jpeg/Ry_WLFF1xtHchkFPcTuw4EVLCNvFh4hJJSautiUmrrY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60390836/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E8%BF%85%E9%80%9F%E6%B8%9B%E6%81%AF-%E5%88%A9%E7%8E%87%E6%87%89%E9%99%8D%E8%87%B31-%E6%88%96%E6%9B%B4%E4%BD%8E",
-    "timestamp": "2026-09-16T21:19:14.898Z",
     "strategy": ".content-card__main"
   }
 ];
