@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T17:17:32.997Z
+// Last updated: 2026-09-17T17:29:03.486Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國際培幼會賣筆籌款　支援尼泊爾女孩教育　提升對童婚問題認識",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177424121689018368465198.jpeg/-sLwv1cy7NlUzxWaVaLdDoGR33rKVFU6A1h4dQNYeHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391160/%E5%9C%8B%E9%9A%9B%E5%9F%B9%E5%B9%BC%E6%9C%83%E8%B3%A3%E7%AD%86%E7%B1%8C%E6%AC%BE-%E6%94%AF%E6%8F%B4%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%A5%B3%E5%AD%A9%E6%95%99%E8%82%B2-%E6%8F%90%E5%8D%87%E5%B0%8D%E7%AB%A5%E5%A9%9A%E5%95%8F%E9%A1%8C%E8%AA%8D%E8%AD%98",
+    "timestamp": "2026-09-17T17:29:03.486Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "查理斯三世警告AI領袖　籲防「生存危險」免太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177302974590881792910536.jpeg/OEJp-FD3zmmiYu2y5gT4dcpQFZVdKIpA-pHQgfqR0IE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60390927/%E6%AF%94%E4%BA%9E%E8%BF%AA%E6%96%B9%E7%A8%8Bs-gt%E7%99%BB%E5%A0%B4%E5%94%AE%E7%B4%8426%E8%90%AC%E6%B8%AF%E5%85%83-%E7%B4%94%E9%9B%BB%E8%B7%91%E8%BB%8A%E9%85%8D800v%E5%BF%AB%E5%85%85-900km%E7%BA%8C%E8%88%AA",
     "timestamp": "2026-09-17T09:46:07.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國泰航空8月載客量升5%　香港快運微跌　預告9月客運需求相對淡靜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250608/1008428318128738304175432.jpeg/Cl8cM6XPzKphd28DjdXEUyrkqUZKnrd-tFQF4LRUBeA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391068/%E5%9C%8B%E6%B3%B0%E8%88%AA%E7%A9%BA8%E6%9C%88%E8%BC%89%E5%AE%A2%E9%87%8F%E5%8D%875-%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%81%8B%E5%BE%AE%E8%B7%8C-%E9%A0%90%E5%91%8A9%E6%9C%88%E5%AE%A2%E9%81%8B%E9%9C%80%E6%B1%82%E7%9B%B8%E5%B0%8D%E6%B7%A1%E9%9D%9C",
-    "timestamp": "2026-09-17T09:22:59.903Z",
     "strategy": ".content-card__main"
   }
 ];
