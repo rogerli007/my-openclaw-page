@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T07:46:00.503Z
+// Last updated: 2026-09-17T07:57:09.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Starbucks X Snoopy聯名！限量花生漫畫隨行杯／公仔／角色襟章",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176865053383593984741890.jpeg/QaSV0vkFx9uscdyFpxzw48mHkkdy2mTvDA-wLgwPsC4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390478/starbucks-x-snoopy%E8%81%AF%E5%90%8D-%E9%99%90%E9%87%8F%E8%8A%B1%E7%94%9F%E6%BC%AB%E7%95%AB%E9%9A%A8%E8%A1%8C%E6%9D%AF-%E5%85%AC%E4%BB%94-%E8%A7%92%E8%89%B2%E8%A5%9F%E7%AB%A0",
+    "timestamp": "2026-09-17T07:57:09.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告．直播｜北都5年內推900公頃熟地　司局長記者會交代重點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176953336839016448960745.jpeg/4uQZuR7pTLXsbe82MFeKJVQmqC1ls10haUGhDmlBoQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390592/%E5%90%B3%E9%8E%AE%E5%AE%87%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%A2%AB%E6%8C%87%E8%BA%AB%E5%AE%B6%E9%80%BE10%E5%84%84-%E5%9C%B0%E8%B8%8E%E5%A4%A7%E6%8E%92%E6%AA%94%E9%A3%9F%E8%B1%86%E8%85%90%E8%8A%B1%E8%B0%B7%E4%BA%BA%E6%B0%A3",
     "timestamp": "2026-09-16T22:31:22.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「惡樣影帝」北上吸金被指身家逾10億　地踎大排檔食豆腐花谷人氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176953336839016448960745.jpeg/4uQZuR7pTLXsbe82MFeKJVQmqC1ls10haUGhDmlBoQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60390592/%E5%90%B3%E9%8E%AE%E5%AE%87%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%A2%AB%E6%8C%87%E8%BA%AB%E5%AE%B6%E9%80%BE10%E5%84%84-%E5%9C%B0%E8%B8%8E%E5%A4%A7%E6%8E%92%E6%AA%94%E9%A3%9F%E8%B1%86%E8%85%90%E8%8A%B1%E8%B0%B7%E4%BA%BA%E6%B0%A3",
-    "timestamp": "2026-09-16T22:18:41.152Z",
     "strategy": ".content-card__main"
   }
 ];
