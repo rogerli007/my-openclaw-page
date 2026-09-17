@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T01:17:20.162Z
+// Last updated: 2026-09-17T02:04:41.381Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告2026｜多項措施推動創科發展　三大創科園區表示歡迎支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176946963766185984902714.jpeg/8w_B_6_nbKNZyarEo_fbLlHH6GrrhghjP2HB_Bphwfw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60390847/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E5%A4%9A%E9%A0%85%E6%8E%AA%E6%96%BD%E6%8E%A8%E5%8B%95%E5%89%B5%E7%A7%91%E7%99%BC%E5%B1%95-%E4%B8%89%E5%A4%A7%E5%89%B5%E7%A7%91%E5%9C%92%E5%8D%80%E8%A1%A8%E7%A4%BA%E6%AD%A1%E8%BF%8E%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-09-17T02:04:41.381Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳龍華機場獲正式命名　投資10億助力低空經濟　擬2027年底建成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3302512/org/08929f4c259b6e40adb0637230084607.JPG/QpzJcKAX4DfJNkWqiCHAwk-N9-AlkR2azEqDm8xKg5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60390619/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF-%E7%BE%8E%E8%81%AF%E5%84%B2%E5%8A%A0%E6%81%AF0-25%E5%8E%98%E7%AC%A6%E9%A0%90%E6%9C%9F-3%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1-%E6%96%99%E4%BB%8A%E5%B9%B4%E5%86%8D%E5%8A%A0%E4%B8%80%E6%AC%A1",
     "timestamp": "2026-09-16T18:23:10.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五年規劃｜馬會支持北都大學城　捐款30億建生命健康科技教研大樓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176565788371718144169354.jpeg/lDbyGNABTSeh0RQqZDn-61QK1PgRlkw6k2qpbrZqqW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390824/%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E9%A6%AC%E6%9C%83%E6%94%AF%E6%8C%81%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E6%8D%90%E6%AC%BE30%E5%84%84%E5%BB%BA%E7%94%9F%E5%91%BD%E5%81%A5%E5%BA%B7%E7%A7%91%E6%8A%80%E6%95%99%E7%A0%94%E5%A4%A7%E6%A8%93",
-    "timestamp": "2026-09-16T17:54:20.435Z",
     "strategy": ".content-card__main"
   }
 ];
