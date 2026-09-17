@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T17:44:53.599Z
+// Last updated: 2026-09-17T17:54:17.783Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟擬限制15歲以下用社交媒體　13歲以下禁開帳號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391159/%E6%AD%90%E7%9B%9F%E6%93%AC%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94-13%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%A6%81%E9%96%8B%E5%B8%B3%E8%99%9F",
+    "timestamp": "2026-09-17T17:54:17.783Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟擬限制15歲以下用社交媒體　13歲以下禁開帳號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177315340195991552306924.jpeg/A9AbSnLdAxazjJSS4c7zCCv8njF2avJ6-zEncvsxJ3I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391060/iphone-18-pro%E5%A4%A9%E7%8C%AB%E9%A6%96%E9%8A%B7%E9%A1%8D%E7%BF%BB%E5%80%8D-%E5%B8%83%E6%A0%B9%E5%9C%B0%E7%B4%85%E8%89%B2%E7%88%86%E7%B4%85-256gb%E6%88%90%E6%90%B6%E8%B3%BC%E9%A6%96%E9%81%B8",
     "timestamp": "2026-09-17T10:21:09.700Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "終審法院非常任海外法官甘慕賢逝世　司法機構深切哀痛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241218/946078790600101888120634.jpeg/eiUySYbXByWwWYqFRJGJ-KxkQTzi4BLRrZRHCIiURwg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391069/%E7%B5%82%E5%AF%A9%E6%B3%95%E9%99%A2%E9%9D%9E%E5%B8%B8%E4%BB%BB%E6%B5%B7%E5%A4%96%E6%B3%95%E5%AE%98%E7%94%98%E6%85%95%E8%B3%A2%E9%80%9D%E4%B8%96-%E5%8F%B8%E6%B3%95%E6%A9%9F%E6%A7%8B%E6%B7%B1%E5%88%87%E5%93%80%E7%97%9B",
-    "timestamp": "2026-09-17T09:55:16.225Z",
     "strategy": ".content-card__main"
   }
 ];
