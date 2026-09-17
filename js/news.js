@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T19:55:14.235Z
+// Last updated: 2026-09-17T20:21:11.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荔枝角道搗非法賭檔　拘8人檢值22萬籌碼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177455988400197632024391.jpeg/jW_99_itQbtDvg3p8785Wx955AkdO7YVkNJeTpDSXk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391167/%E8%AD%A6%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%8B%988%E4%BA%BA%E6%AA%A2%E5%80%BC22%E8%90%AC%E7%B1%8C%E7%A2%BC",
+    "timestamp": "2026-09-17T20:21:11.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荔枝角道搗非法賭檔　拘8人檢值22萬籌碼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177369862024990720278301.png/scMHagRV6Bv6_1jkuxG39ELHvAVHnizkj1uJeI9biXg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391138/%E6%B8%AF%E8%B6%B3%E6%96%B0%E7%90%83%E8%A1%A3%E7%9A%84-%E9%A6%99%E6%B8%AF%E5%91%B3%E9%81%93-%E7%AB%B9%E8%92%B8%E7%B1%A0%E7%82%BA%E9%9D%88%E6%84%9F-%E7%90%83%E8%A1%A3%E8%99%9F%E7%A2%BC%E8%AE%8A%E5%A0%85%E9%9F%8C%E4%B9%8B%E7%AC%A6%E8%99%9F",
     "timestamp": "2026-09-17T13:43:57.292Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "HYROX失禁風波　澳洲女選手：向中國人民、選手和主辦方誠摯道歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177363209405861888370612.png/0H_HuD_hNsFQD26X4dFwOzBGsloMPjby3cgi_N3IIvw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391133/hyrox%E5%A4%B1%E7%A6%81%E9%A2%A8%E6%B3%A2-%E6%BE%B3%E6%B4%B2%E5%A5%B3%E9%81%B8%E6%89%8B-%E5%90%91%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91-%E9%81%B8%E6%89%8B%E5%92%8C%E4%B8%BB%E8%BE%A6%E6%96%B9%E8%AA%A0%E6%91%AF%E9%81%93%E6%AD%89",
-    "timestamp": "2026-09-17T13:20:20.808Z",
     "strategy": ".content-card__main"
   }
 ];
