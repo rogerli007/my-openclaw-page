@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T16:54:32.697Z
+// Last updated: 2026-09-17T17:17:32.997Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "查理斯三世警告AI領袖　籲防「生存危險」免太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152516978955522048680391.jpeg/tW2fqW47E53RHKxu8abWoGYsPcgDWzLXAAlPKQAJTyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391157/%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E8%AD%A6%E5%91%8Aai%E9%A0%98%E8%A2%96-%E7%B1%B2%E9%98%B2-%E7%94%9F%E5%AD%98%E5%8D%B1%E9%9A%AA-%E5%85%8D%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-09-17T17:17:32.997Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "查理斯三世警告AI領袖　籲防「生存危險」免太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250608/1008428318128738304175432.jpeg/Cl8cM6XPzKphd28DjdXEUyrkqUZKnrd-tFQF4LRUBeA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391068/%E5%9C%8B%E6%B3%B0%E8%88%AA%E7%A9%BA8%E6%9C%88%E8%BC%89%E5%AE%A2%E9%87%8F%E5%8D%875-%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%81%8B%E5%BE%AE%E8%B7%8C-%E9%A0%90%E5%91%8A9%E6%9C%88%E5%AE%A2%E9%81%8B%E9%9C%80%E6%B1%82%E7%9B%B8%E5%B0%8D%E6%B7%A1%E9%9D%9C",
     "timestamp": "2026-09-17T09:22:59.903Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Starbucks X Snoopy聯名！限量花生漫畫隨行杯／公仔／角色襟章",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176865053383593984741890.jpeg/QaSV0vkFx9uscdyFpxzw48mHkkdy2mTvDA-wLgwPsC4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390478/starbucks-x-snoopy%E8%81%AF%E5%90%8D-%E9%99%90%E9%87%8F%E8%8A%B1%E7%94%9F%E6%BC%AB%E7%95%AB%E9%9A%A8%E8%A1%8C%E6%9D%AF-%E5%85%AC%E4%BB%94-%E8%A7%92%E8%89%B2%E8%A5%9F%E7%AB%A0",
-    "timestamp": "2026-09-17T07:57:09.281Z",
     "strategy": ".content-card__main"
   }
 ];
