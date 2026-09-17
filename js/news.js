@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T23:41:33.707Z
+// Last updated: 2026-09-17T23:54:27.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗胡塞雙重封鎖沙特石油　美國可置身事外？｜Jack Talk・去片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177294777012457472349721.jpeg/olZYJCSDOFXLViigyMS6pbECx6-aRen6QCdpAUAnaQE",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60390898/%E4%BC%8A%E6%9C%97%E8%83%A1%E5%A1%9E%E9%9B%99%E9%87%8D%E5%B0%81%E9%8E%96%E6%B2%99%E7%89%B9%E7%9F%B3%E6%B2%B9-%E7%BE%8E%E5%9C%8B%E5%8F%AF%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%A4%96-jack-talk-%E5%8E%BB%E7%89%87",
+    "timestamp": "2026-09-17T23:54:27.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飛滋兩周未好？小心是口腔癌！53歲男確診　醫生拆解3大危險徵兆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391159/%E6%AD%90%E7%9B%9F%E6%93%AC%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94-13%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%A6%81%E9%96%8B%E5%B8%B3%E8%99%9F",
     "timestamp": "2026-09-17T17:54:17.783Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟擬限制15歲以下用社交媒體　13歲以下禁開帳號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391159/%E6%AD%90%E7%9B%9F%E6%93%AC%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94-13%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%A6%81%E9%96%8B%E5%B8%B3%E8%99%9F",
-    "timestamp": "2026-09-17T17:44:53.599Z",
     "strategy": ".content-card__main"
   }
 ];
