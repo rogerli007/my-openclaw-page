@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T11:32:50.458Z
+// Last updated: 2026-09-17T11:53:59.563Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大角咀瓏璽六旬男工　疑從3米高水箱墮下　昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220422/594151719978930176638492.jpeg/B226lDCJCOKl8qOv0iCZQgUpjoaEcMIOu9qjC7vaows?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391123/%E5%A4%A7%E8%A7%92%E5%92%80%E7%93%8F%E7%92%BD%E5%85%AD%E6%97%AC%E7%94%B7%E5%B7%A5-%E7%96%91%E5%BE%9E3%E7%B1%B3%E9%AB%98%E6%B0%B4%E7%AE%B1%E5%A2%AE%E4%B8%8B-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-17T11:53:59.563Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恒大物業IPO入貨　小股民稱股價受影響大跌　指招股書失實追355萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176946963766185984902714.jpeg/8w_B_6_nbKNZyarEo_fbLlHH6GrrhghjP2HB_Bphwfw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60390847/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E5%A4%9A%E9%A0%85%E6%8E%AA%E6%96%BD%E6%8E%A8%E5%8B%95%E5%89%B5%E7%A7%91%E7%99%BC%E5%B1%95-%E4%B8%89%E5%A4%A7%E5%89%B5%E7%A7%91%E5%9C%92%E5%8D%80%E8%A1%A8%E7%A4%BA%E6%AD%A1%E8%BF%8E%E6%94%AF%E6%8C%81",
     "timestamp": "2026-09-17T02:04:41.381Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳龍華機場獲正式命名　投資10億助力低空經濟　擬2027年底建成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176920279532703744052418.jpeg/7VgYWX_MjJ-nUY8NzPIBgGQVFJ4N9I-uz4MJr8-DCa8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60390620/%E6%B7%B1%E5%9C%B3%E9%BE%8D%E8%8F%AF%E6%A9%9F%E5%A0%B4%E7%8D%B2%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D-%E6%8A%95%E8%B3%8710%E5%84%84%E5%8A%A9%E5%8A%9B%E4%BD%8E%E7%A9%BA%E7%B6%93%E6%BF%9F-%E6%93%AC2027%E5%B9%B4%E5%BA%95%E5%BB%BA%E6%88%90",
-    "timestamp": "2026-09-17T01:17:20.162Z",
     "strategy": ".content-card__main"
   }
 ];
