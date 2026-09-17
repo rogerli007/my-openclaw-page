@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T21:54:09.981Z
+// Last updated: 2026-09-17T22:19:08.572Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人工晶體科技新突破　白內障個人化方案助視力重生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172604059228573696237918.jpeg/gDjTG2e63Kl3Ixsr8Q6N9DiHzQziLOLEN6mZwTepmcE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386760/%E4%BA%BA%E5%B7%A5%E6%99%B6%E9%AB%94%E7%A7%91%E6%8A%80%E6%96%B0%E7%AA%81%E7%A0%B4-%E7%99%BD%E5%85%A7%E9%9A%9C%E5%80%8B%E4%BA%BA%E5%8C%96%E6%96%B9%E6%A1%88%E5%8A%A9%E8%A6%96%E5%8A%9B%E9%87%8D%E7%94%9F",
+    "timestamp": "2026-09-17T22:19:08.572Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣截查男子　工廈住所檢值45萬毒品　23歲內地男涉販毒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174467550596042752483715.jpeg/XLHwCXlEa5UwjLmNSWQFXBdDdnutQqTvBP5pBgT-aQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391152/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E5%91%A8%E6%97%A5%E9%A6%99%E6%B8%AF%E6%AE%AF%E5%84%80%E9%A4%A8%E5%87%BA%E6%AE%AF-%E4%B8%8A%E5%8D%88%E7%A6%81%E8%BB%8A%E7%94%B1%E6%B8%A3%E8%8F%AF%E9%81%93%E5%8F%B3%E8%BD%89%E5%85%A5%E8%8B%B1%E7%9A%87%E9%81%93",
     "timestamp": "2026-09-17T15:53:59.066Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "央視知名主持人敬一丹告別式　北京八寶山舉行告別儀式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177386514724687872205637.png/YZHH6Nb5iceWQxGBJXijREiYoaIDLJtRjJrBqoyawao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391132/%E5%A4%AE%E8%A6%96%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%91%8A%E5%88%A5%E5%BC%8F-%E5%8C%97%E4%BA%AC%E5%85%AB%E5%AF%B6%E5%B1%B1%E8%88%89%E8%A1%8C%E5%91%8A%E5%88%A5%E5%84%80%E5%BC%8F",
-    "timestamp": "2026-09-17T14:54:19.451Z",
     "strategy": ".content-card__main"
   }
 ];
