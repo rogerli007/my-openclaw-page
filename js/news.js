@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T14:43:57.043Z
+// Last updated: 2026-09-17T14:54:19.451Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "央視知名主持人敬一丹告別式　北京八寶山舉行告別儀式",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177386514724687872205637.png/YZHH6Nb5iceWQxGBJXijREiYoaIDLJtRjJrBqoyawao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391132/%E5%A4%AE%E8%A6%96%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%95%AC%E4%B8%80%E4%B8%B9%E5%91%8A%E5%88%A5%E5%BC%8F-%E5%8C%97%E4%BA%AC%E5%85%AB%E5%AF%B6%E5%B1%B1%E8%88%89%E8%A1%8C%E5%91%8A%E5%88%A5%E5%84%80%E5%BC%8F",
+    "timestamp": "2026-09-17T14:54:19.451Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "央視知名主持人敬一丹告別式　北京八寶山舉行告別儀式",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177245703991332864576980.jpeg/W05zCaSJ2RPoIk_9fiyncy7CvzphTl0y-o9F3vqPRd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60390934/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%A9%9A%E5%98%86ai%E7%99%BC%E5%B1%95-%E8%AD%A6%E6%83%95%E5%8F%AA%E8%88%87ai%E8%81%8A%E5%A4%A9%E9%80%80%E9%9B%A2%E7%A4%BE%E5%8D%80%E9%87%80%E7%B2%BE%E7%A5%9E%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-09-17T05:55:33.776Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Tesla司機衝黃燈撞斃19歲少女　官斥過路處加速不負責任　囚22月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241107/931130873464623104837642.jpeg/eBKFWpVum4T-vLxSG6aQlPJ_qQ9DjRCRcynnAlkp5wI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390959/tesla%E5%8F%B8%E6%A9%9F%E8%A1%9D%E9%BB%83%E7%87%88%E6%92%9E%E6%96%8319%E6%AD%B2%E5%B0%91%E5%A5%B3-%E5%AE%98%E6%96%A5%E9%81%8E%E8%B7%AF%E8%99%95%E5%8A%A0%E9%80%9F%E4%B8%8D%E8%B2%A0%E8%B2%AC%E4%BB%BB-%E5%9B%9A22%E6%9C%88",
-    "timestamp": "2026-09-17T05:43:45.297Z",
     "strategy": ".content-card__main"
   }
 ];
