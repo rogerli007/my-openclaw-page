@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T22:30:45.652Z
+// Last updated: 2026-09-17T22:41:54.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "神級影帝坐車內伸頭出外同粉絲合照　同小朋友極寵愛不停撫摸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177314357642530816942356.jpeg/6qPTxhdmwNAjSLVdwNt-dWSzUdbvoHXTC5PilwuT4pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387988/%E6%A2%81%E5%AE%B6%E8%BC%9D%E5%9D%90%E8%BB%8A%E5%85%A7%E4%BC%B8%E9%A0%AD%E5%87%BA%E5%A4%96%E5%90%8C%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7-%E5%90%8C%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%A5%B5%E5%AF%B5%E6%84%9B%E4%B8%8D%E5%81%9C%E6%92%AB%E6%91%B8",
+    "timestamp": "2026-09-17T22:41:54.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人工晶體科技新突破　白內障個人化方案助視力重生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152516978955522048680391.jpeg/tW2fqW47E53RHKxu8abWoGYsPcgDWzLXAAlPKQAJTyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391157/%E6%9F%A5%E7%90%86%E6%96%AF%E4%B8%89%E4%B8%96%E8%AD%A6%E5%91%8Aai%E9%A0%98%E8%A2%96-%E7%B1%B2%E9%98%B2-%E7%94%9F%E5%AD%98%E5%8D%B1%E9%9A%AA-%E5%85%8D%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-09-17T16:44:32.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥家琪Deep V現身佛山雲吞店開張剪綵　51歲極凍齡狀態遠超同齡人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177332958755819520168739.jpeg/aqySqNyyfmXWmo9fOm-4zmLDxf7D-2LPf5LBKn-SwSo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391030/%E9%BA%A5%E5%AE%B6%E7%90%AAdeep-v%E7%8F%BE%E8%BA%AB%E4%BD%9B%E5%B1%B1%E9%9B%B2%E5%90%9E%E5%BA%97%E9%96%8B%E5%BC%B5%E5%89%AA%E7%B6%B5-51%E6%AD%B2%E6%A5%B5%E5%87%8D%E9%BD%A1%E7%8B%80%E6%85%8B%E9%81%A0%E8%B6%85%E5%90%8C%E9%BD%A1%E4%BA%BA",
-    "timestamp": "2026-09-17T16:23:50.206Z",
     "strategy": ".content-card__main"
   }
 ];
