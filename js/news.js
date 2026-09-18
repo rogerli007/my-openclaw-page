@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T09:21:42.137Z
+// Last updated: 2026-09-18T09:53:52.922Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "43歲蔡卓妍身形圓潤似「孕味濃」　小腹微微隆起引懷孕熱議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177664227427487744693540.jpeg/jT_JmyTaKSFP6IDqn2Xr0THhJmwIOkqapNi8gaTYvIE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391407/43%E6%AD%B2%E8%94%A1%E5%8D%93%E5%A6%8D%E8%BA%AB%E5%BD%A2%E5%9C%93%E6%BD%A4%E4%BC%BC-%E5%AD%95%E5%91%B3%E6%BF%83-%E5%B0%8F%E8%85%B9%E5%BE%AE%E5%BE%AE%E9%9A%86%E8%B5%B7%E5%BC%95%E6%87%B7%E5%AD%95%E7%86%B1%E8%AD%B0",
+    "timestamp": "2026-09-18T09:53:52.922Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王鶴棣遭造謠下體整形失敗變陽痿！男星身體為何成獵奇狂歡工具？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177314654272098304035182.jpeg/wEWp1CtLh87gDlQDciieEOD13JGt6NjO7uVf1e7lX9U",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390053/%E5%8D%B0%E5%B0%BC%E5%88%97%E8%BB%8A%E9%96%80%E5%A4%BE%E8%B2%93%E5%B0%BE-%E6%A9%98%E8%B2%93%E6%85%98%E5%8F%AB%E6%8E%99%E6%89%8E%E6%B1%82%E7%94%9F%E9%9A%AA%E6%96%B7%E5%B0%BE-%E6%9A%96%E7%94%B7%E7%A5%9E%E6%95%91%E6%8F%B4%E7%8D%B2%E6%BF%80%E8%AE%9A",
     "timestamp": "2026-09-18T01:17:56.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗胡塞雙重封鎖沙特石油　美國可置身事外？｜Jack Talk・去片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177294777012457472349721.jpeg/olZYJCSDOFXLViigyMS6pbECx6-aRen6QCdpAUAnaQE",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60390898/%E4%BC%8A%E6%9C%97%E8%83%A1%E5%A1%9E%E9%9B%99%E9%87%8D%E5%B0%81%E9%8E%96%E6%B2%99%E7%89%B9%E7%9F%B3%E6%B2%B9-%E7%BE%8E%E5%9C%8B%E5%8F%AF%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%A4%96-jack-talk-%E5%8E%BB%E7%89%87",
-    "timestamp": "2026-09-17T23:54:27.576Z",
     "strategy": ".content-card__main"
   }
 ];
