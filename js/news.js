@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T05:24:00.125Z
+// Last updated: 2026-09-18T05:43:12.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "養兒育女22年竟非親生！深圳綠帽夫再控妻子婚內轉走1400萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177588236894081024018523.jpeg/g0qS-afrW1WS9UqrAgVOG7XySED1xWqOts9Yy7bPWMs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60391253/%E9%A4%8A%E5%85%92%E8%82%B2%E5%A5%B322%E5%B9%B4%E7%AB%9F%E9%9D%9E%E8%A6%AA%E7%94%9F-%E6%B7%B1%E5%9C%B3%E7%B6%A0%E5%B8%BD%E5%A4%AB%E5%86%8D%E6%8E%A7%E5%A6%BB%E5%AD%90%E5%A9%9A%E5%85%A7%E8%BD%89%E8%B5%B01400%E8%90%AC",
+    "timestamp": "2026-09-18T05:43:12.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古天樂震撼加盟2026年重頭劇集　拍住視帝影帝影后超強卡士鬥戲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172604059228573696237918.jpeg/gDjTG2e63Kl3Ixsr8Q6N9DiHzQziLOLEN6mZwTepmcE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386760/%E4%BA%BA%E5%B7%A5%E6%99%B6%E9%AB%94%E7%A7%91%E6%8A%80%E6%96%B0%E7%AA%81%E7%A0%B4-%E7%99%BD%E5%85%A7%E9%9A%9C%E5%80%8B%E4%BA%BA%E5%8C%96%E6%96%B9%E6%A1%88%E5%8A%A9%E8%A6%96%E5%8A%9B%E9%87%8D%E7%94%9F",
     "timestamp": "2026-09-17T22:19:08.572Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荃灣截查男子　工廈住所檢值45萬毒品　23歲內地男涉販毒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177489904137932800938170.jpeg/dx_n434vz3vCp6YeZkhycBjK-IckOP4zwlwnf8JcJ38?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391174/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%88%AA%E6%9F%A5%E7%94%B7%E5%AD%90-%E5%B7%A5%E5%BB%88%E4%BD%8F%E6%89%80%E6%AA%A2%E5%80%BC45%E8%90%AC%E6%AF%92%E5%93%81-23%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-17T21:54:09.981Z",
     "strategy": ".content-card__main"
   }
 ];
