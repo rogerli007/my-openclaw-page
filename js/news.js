@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T18:49:06.379Z
+// Last updated: 2026-09-18T19:18:03.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯合國報告：烏克蘭衝突普遍性暴力　89%歸咎俄羅斯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156745501580726272806592.jpeg/qd9YjCcCCN8eseEQdKJ8LiLg5NXt1d4vzgq8_M4KvPw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391512/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E8%A1%9D%E7%AA%81%E6%99%AE%E9%81%8D%E6%80%A7%E6%9A%B4%E5%8A%9B-89-%E6%AD%B8%E5%92%8E%E4%BF%84%E7%BE%85%E6%96%AF",
+    "timestamp": "2026-09-18T19:18:03.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯合國報告：烏克蘭衝突普遍性暴力　89%歸咎俄羅斯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177698036726370304538209.jpeg/LxIBzZnRkKuahm9ls0nQKjLlid_P0o0sfgpiE34KYhM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391467/%E7%B6%B2%E5%82%B3%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E7%A8%AE%E7%89%99%E8%A3%9C%E8%B2%BC-%E8%A1%9E%E7%94%9F%E7%BD%B2%E6%BE%84%E6%B8%85%E5%B1%AC%E8%99%9B%E5%81%87%E5%BB%A3%E5%91%8A%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E7%B1%B2%E5%B8%82%E6%B0%91%E6%8F%90%E9%98%B2",
     "timestamp": "2026-09-18T11:43:36.618Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港姐亞軍施宇琪重返劍橋影婚照　高富帥未婚夫首曝光身形魁梧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177690610841161728842791.jpeg/uiBs0oMBqjcowe2DFHWtt84eOA2eIrCHXEIBe1xCAXs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391465/%E6%B8%AF%E5%A7%90%E4%BA%9E%E8%BB%8D%E6%96%BD%E5%AE%87%E7%90%AA%E9%87%8D%E8%BF%94%E5%8A%8D%E6%A9%8B%E5%BD%B1%E5%A9%9A%E7%85%A7-%E9%AB%98%E5%AF%8C%E5%B8%A5%E6%9C%AA%E5%A9%9A%E5%A4%AB%E9%A6%96%E6%9B%9D%E5%85%89%E8%BA%AB%E5%BD%A2%E9%AD%81%E6%A2%A7",
-    "timestamp": "2026-09-18T11:33:32.216Z",
     "strategy": ".content-card__main"
   }
 ];
