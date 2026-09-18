@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T14:24:52.587Z
+// Last updated: 2026-09-18T14:43:38.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "3對星座情侶注定互相折磨　「黐身」雙魚配愛獨立山羊各有各累",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143869639126683648850196.jpeg/YmAql8tqL2VKrChmchQsgxSWv9ZnEX-sB6y1ywestcs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60291925/3%E5%B0%8D%E6%98%9F%E5%BA%A7%E6%83%85%E4%BE%B6%E6%B3%A8%E5%AE%9A%E4%BA%92%E7%9B%B8%E6%8A%98%E7%A3%A8-%E9%BB%90%E8%BA%AB-%E9%9B%99%E9%AD%9A%E9%85%8D%E6%84%9B%E7%8D%A8%E7%AB%8B%E5%B1%B1%E7%BE%8A%E5%90%84%E6%9C%89%E5%90%84%E7%B4%AF",
+    "timestamp": "2026-09-18T14:43:38.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "政府發表高齡化對策報告　提73項措施涵長者醫療健康、跨境養老等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177635089165586432148509.png/QwIuPVDyELisQrWCTNc3BPMUo1ebGTOpoGhOB6BoTgc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391336/iphone-18-pro%E9%96%8B%E8%B3%A3%E4%BA%9E%E6%B4%B2%E7%98%8B%E6%90%B6-%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%9E%9C%E7%B2%89%E9%80%9A%E5%AE%B5%E6%8E%92%E9%9A%8A-%E4%B8%80%E4%BA%BA%E7%8D%A8%E6%94%AC33%E9%83%A8",
     "timestamp": "2026-09-18T07:45:08.900Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro Max 派貨｜17 系列回收價下跌｜12/13舊機繼續升值",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177625640208175104946283.png/vW_SES60ylnW-HI6fIv-4AtL2UQXuowNDSF6TA0hekw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60389138/iphone-18-pro-max-%E6%B4%BE%E8%B2%A8-17-%E7%B3%BB%E5%88%97%E5%9B%9E%E6%94%B6%E5%83%B9%E4%B8%8B%E8%B7%8C-12-13%E8%88%8A%E6%A9%9F%E7%B9%BC%E7%BA%8C%E5%8D%87%E5%80%BC",
-    "timestamp": "2026-09-18T06:32:07.064Z",
     "strategy": ".content-card__main"
   }
 ];
