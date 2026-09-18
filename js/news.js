@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T05:53:53.909Z
+// Last updated: 2026-09-18T06:32:07.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro Max 派貨｜17 系列回收價下跌｜12/13舊機繼續升值",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177625640208175104946283.png/vW_SES60ylnW-HI6fIv-4AtL2UQXuowNDSF6TA0hekw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60389138/iphone-18-pro-max-%E6%B4%BE%E8%B2%A8-17-%E7%B3%BB%E5%88%97%E5%9B%9E%E6%94%B6%E5%83%B9%E4%B8%8B%E8%B7%8C-12-13%E8%88%8A%E6%A9%9F%E7%B9%BC%E7%BA%8C%E5%8D%87%E5%80%BC",
+    "timestamp": "2026-09-18T06:32:07.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "照顧者｜每月開支逾$6000　逾8成未領津貼　團體促放寬申領門檻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177314357642530816942356.jpeg/6qPTxhdmwNAjSLVdwNt-dWSzUdbvoHXTC5PilwuT4pc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387988/%E6%A2%81%E5%AE%B6%E8%BC%9D%E5%9D%90%E8%BB%8A%E5%85%A7%E4%BC%B8%E9%A0%AD%E5%87%BA%E5%A4%96%E5%90%8C%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7-%E5%90%8C%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%A5%B5%E5%AF%B5%E6%84%9B%E4%B8%8D%E5%81%9C%E6%92%AB%E6%91%B8",
     "timestamp": "2026-09-17T22:41:54.230Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人工晶體科技新突破　白內障個人化方案助視力重生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172604059228573696237918.jpeg/gDjTG2e63Kl3Ixsr8Q6N9DiHzQziLOLEN6mZwTepmcE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386760/%E4%BA%BA%E5%B7%A5%E6%99%B6%E9%AB%94%E7%A7%91%E6%8A%80%E6%96%B0%E7%AA%81%E7%A0%B4-%E7%99%BD%E5%85%A7%E9%9A%9C%E5%80%8B%E4%BA%BA%E5%8C%96%E6%96%B9%E6%A1%88%E5%8A%A9%E8%A6%96%E5%8A%9B%E9%87%8D%E7%94%9F",
-    "timestamp": "2026-09-17T22:30:45.652Z",
     "strategy": ".content-card__main"
   }
 ];
