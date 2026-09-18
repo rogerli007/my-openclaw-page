@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T12:28:02.705Z
+// Last updated: 2026-09-18T12:50:43.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張丨蒙面賊偷走三大袋公仔　大圍店主10萬懸紅緝兇警今拘一男子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177716301284511744367240.png/8_UTyDQrM2tH8Kollvdu6xdjzoEFtxtWXpy9cF6cvXA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391481/%E6%9D%B1%E5%BC%B5-%E8%92%99%E9%9D%A2%E8%B3%8A%E5%81%B7%E8%B5%B0%E4%B8%89%E5%A4%A7%E8%A2%8B%E5%85%AC%E4%BB%94-%E5%A4%A7%E5%9C%8D%E5%BA%97%E4%B8%BB10%E8%90%AC%E6%87%B8%E7%B4%85%E7%B7%9D%E5%85%87%E8%AD%A6%E4%BB%8A%E6%8B%98%E4%B8%80%E7%94%B7%E5%AD%90",
+    "timestamp": "2026-09-18T12:50:43.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "颱風杜鵑吹襲日本　20日逼近關東　千葉靜岡或迎400毫米暴雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177596562876928000324059.png/Tjoav5Lvu7sGRzqC8I88Ga2jZKnPCjujo3GA56NxgOc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60391212/%E4%B8%AD%E7%A7%8B%E5%9C%8B%E6%85%B6%E9%81%8E%E9%97%9C%E6%94%BB%E7%95%A5-%E6%B7%B1%E5%9C%B3%E5%8F%A3%E5%B2%B8%E9%AB%98%E5%B3%B0%E6%96%99%E8%A1%9D98%E8%90%AC%E4%BA%BA%E6%AC%A1-%E9%81%BF%E9%96%8B%E9%80%BC%E7%88%86%E6%97%A5%E5%AD%90%E5%87%BA%E7%88%90",
     "timestamp": "2026-09-18T04:46:08.761Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國務院：伊朗高官可赴紐約出席聯合國大會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168900124395442176489203.jpeg/XuGtV-kGluF4vHnY5OsmHpo7fjHdefgHjNiBXYzYgV0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391260/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2-%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E5%8F%AF%E8%B5%B4%E7%B4%90%E7%B4%84%E5%87%BA%E5%B8%AD%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83",
-    "timestamp": "2026-09-18T04:22:47.276Z",
     "strategy": ".content-card__main"
   }
 ];
