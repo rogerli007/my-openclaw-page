@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T20:19:49.963Z
+// Last updated: 2026-09-18T20:37:20.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
+    "timestamp": "2026-09-18T20:37:20.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/372880/org/cef49789ad8f83cd9dd7f35505b38b01.jpg/URXovocXGrM0i9Bf69gnlQUds0sRv3LYV8CIN1fAiDc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391484/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E5%A8%81%E9%99%A2%E9%8C%AF%E9%A4%B5%E5%9B%BA%E9%AB%94%E9%A4%90%E4%BA%88%E9%9C%80%E9%A3%9F%E7%B3%8A%E9%A4%90%E7%94%B7%E7%97%85%E4%BA%BA-%E4%BA%8B%E4%B8%BB%E9%AF%81%E5%96%89%E5%BE%8C%E6%B7%B1%E5%A4%9C%E9%9B%A2%E4%B8%96",
     "timestamp": "2026-09-18T13:19:45.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張丨蒙面賊偷走三大袋公仔　大圍店主10萬懸紅緝兇警今拘一男子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177716301284511744367240.png/8_UTyDQrM2tH8Kollvdu6xdjzoEFtxtWXpy9cF6cvXA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391481/%E6%9D%B1%E5%BC%B5-%E8%92%99%E9%9D%A2%E8%B3%8A%E5%81%B7%E8%B5%B0%E4%B8%89%E5%A4%A7%E8%A2%8B%E5%85%AC%E4%BB%94-%E5%A4%A7%E5%9C%8D%E5%BA%97%E4%B8%BB10%E8%90%AC%E6%87%B8%E7%B4%85%E7%B7%9D%E5%85%87%E8%AD%A6%E4%BB%8A%E6%8B%98%E4%B8%80%E7%94%B7%E5%AD%90",
-    "timestamp": "2026-09-18T12:50:43.595Z",
     "strategy": ".content-card__main"
   }
 ];
