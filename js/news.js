@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-17T23:54:27.576Z
+// Last updated: 2026-09-18T01:17:56.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印尼列車門夾貓尾！橘貓慘叫掙扎求生險斷尾　暖男神救援獲激讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177314654272098304035182.jpeg/wEWp1CtLh87gDlQDciieEOD13JGt6NjO7uVf1e7lX9U",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390053/%E5%8D%B0%E5%B0%BC%E5%88%97%E8%BB%8A%E9%96%80%E5%A4%BE%E8%B2%93%E5%B0%BE-%E6%A9%98%E8%B2%93%E6%85%98%E5%8F%AB%E6%8E%99%E6%89%8E%E6%B1%82%E7%94%9F%E9%9A%AA%E6%96%B7%E5%B0%BE-%E6%9A%96%E7%94%B7%E7%A5%9E%E6%95%91%E6%8F%B4%E7%8D%B2%E6%BF%80%E8%AE%9A",
+    "timestamp": "2026-09-18T01:17:56.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗胡塞雙重封鎖沙特石油　美國可置身事外？｜Jack Talk・去片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391159/%E6%AD%90%E7%9B%9F%E6%93%AC%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94-13%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%A6%81%E9%96%8B%E5%B8%B3%E8%99%9F",
     "timestamp": "2026-09-17T18:24:13.856Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟擬限制15歲以下用社交媒體　13歲以下禁開帳號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391159/%E6%AD%90%E7%9B%9F%E6%93%AC%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94-13%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%A6%81%E9%96%8B%E5%B8%B3%E8%99%9F",
-    "timestamp": "2026-09-17T17:54:17.783Z",
     "strategy": ".content-card__main"
   }
 ];
