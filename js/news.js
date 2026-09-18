@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T12:50:43.595Z
+// Last updated: 2026-09-18T13:19:45.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫療事故｜威院錯餵固體餐予需食糊餐男病人　事主鯁喉後深夜離世",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/372880/org/cef49789ad8f83cd9dd7f35505b38b01.jpg/URXovocXGrM0i9Bf69gnlQUds0sRv3LYV8CIN1fAiDc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391484/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E5%A8%81%E9%99%A2%E9%8C%AF%E9%A4%B5%E5%9B%BA%E9%AB%94%E9%A4%90%E4%BA%88%E9%9C%80%E9%A3%9F%E7%B3%8A%E9%A4%90%E7%94%B7%E7%97%85%E4%BA%BA-%E4%BA%8B%E4%B8%BB%E9%AF%81%E5%96%89%E5%BE%8C%E6%B7%B1%E5%A4%9C%E9%9B%A2%E4%B8%96",
+    "timestamp": "2026-09-18T13:19:45.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張丨蒙面賊偷走三大袋公仔　大圍店主10萬懸紅緝兇警今拘一男子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177599836434731008689714.jpeg/TtNu52_eKCvBSebV8PWr7BlJqtX0THbm_CCkdfwgpHU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60390413/%E6%94%BF%E5%BA%9C%E5%B7%A5%E6%8B%9B%E8%81%98-1823%E8%AB%8B%E5%AE%A2%E6%88%B6%E6%9C%8D%E5%8B%99%E4%B8%BB%E4%BB%BB-%E6%9C%88%E8%96%AA%E5%8F%AF%E9%81%94-24k-dse%E5%AD%B8%E6%AD%B7%E5%8F%AF%E7%94%B3%E8%AB%8B",
     "timestamp": "2026-09-18T04:58:53.628Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中秋國慶過關攻略｜深圳口岸高峰料衝98萬人次！避開逼爆日子出爐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177596562876928000324059.png/Tjoav5Lvu7sGRzqC8I88Ga2jZKnPCjujo3GA56NxgOc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60391212/%E4%B8%AD%E7%A7%8B%E5%9C%8B%E6%85%B6%E9%81%8E%E9%97%9C%E6%94%BB%E7%95%A5-%E6%B7%B1%E5%9C%B3%E5%8F%A3%E5%B2%B8%E9%AB%98%E5%B3%B0%E6%96%99%E8%A1%9D98%E8%90%AC%E4%BA%BA%E6%AC%A1-%E9%81%BF%E9%96%8B%E9%80%BC%E7%88%86%E6%97%A5%E5%AD%90%E5%87%BA%E7%88%90",
-    "timestamp": "2026-09-18T04:46:08.761Z",
     "strategy": ".content-card__main"
   }
 ];
