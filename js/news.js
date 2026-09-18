@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T11:18:47.270Z
+// Last updated: 2026-09-18T11:33:32.216Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港姐亞軍施宇琪重返劍橋影婚照　高富帥未婚夫首曝光身形魁梧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177690610841161728842791.jpeg/uiBs0oMBqjcowe2DFHWtt84eOA2eIrCHXEIBe1xCAXs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391465/%E6%B8%AF%E5%A7%90%E4%BA%9E%E8%BB%8D%E6%96%BD%E5%AE%87%E7%90%AA%E9%87%8D%E8%BF%94%E5%8A%8D%E6%A9%8B%E5%BD%B1%E5%A9%9A%E7%85%A7-%E9%AB%98%E5%AF%8C%E5%B8%A5%E6%9C%AA%E5%A9%9A%E5%A4%AB%E9%A6%96%E6%9B%9D%E5%85%89%E8%BA%AB%E5%BD%A2%E9%AD%81%E6%A2%A7",
+    "timestamp": "2026-09-18T11:33:32.216Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜護士畢業生嘆搵工難　盧寵茂：沒機制聘請所有畢業生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177568329515143168864201.jpeg/PXKuEInOEQyJk7ZylOj4S9f2dxKREmLXILvkmCC75Jg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
     "timestamp": "2026-09-18T02:51:59.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普斥歐盟賦加拿大準成員身份　卡尼：對入歐提議表示歡迎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176937856514396160679854.jpeg/GqwSwQJhN_DEcIcyFv1LOx4WOGtOyYtSLPHD7izxw-4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391196/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%A5%E6%AD%90%E7%9B%9F%E8%B3%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%BA%96%E6%88%90%E5%93%A1%E8%BA%AB%E4%BB%BD-%E5%8D%A1%E5%B0%BC-%E5%B0%8D%E5%85%A5%E6%AD%90%E6%8F%90%E8%AD%B0%E8%A1%A8%E7%A4%BA%E6%AD%A1%E8%BF%8E",
-    "timestamp": "2026-09-18T02:34:13.940Z",
     "strategy": ".content-card__main"
   }
 ];
