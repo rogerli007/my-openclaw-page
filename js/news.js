@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T08:26:13.367Z
+// Last updated: 2026-09-18T08:47:21.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世紀大和解？Edan客串JFFT《旋轉木馬》MV掀熱話　藏5大職場啟示",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177651180109565952749620.jpeg/CmC1bOWtY986PSfCT55he7vcputHboZX_1rVOv9a1To?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60391216/%E4%B8%96%E7%B4%80%E5%A4%A7%E5%92%8C%E8%A7%A3-edan%E5%AE%A2%E4%B8%B2jfft-%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC-mv%E6%8E%80%E7%86%B1%E8%A9%B1-%E8%97%8F5%E5%A4%A7%E8%81%B7%E5%A0%B4%E5%95%9F%E7%A4%BA",
+    "timestamp": "2026-09-18T08:47:21.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸料10.12正式開通　深港雙方今晚舉行聯合消防實戰演練",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173619080750436352683571.png/P5DUYcrHGzDvRVNRwdtdYf_nY_yWLAfanpx1gp6cdYI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386504/%E9%A3%9B%E6%BB%8B%E5%85%A9%E5%91%A8%E6%9C%AA%E5%A5%BD-%E5%B0%8F%E5%BF%83%E6%98%AF%E5%8F%A3%E8%85%94%E7%99%8C-53%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A33%E5%A4%A7%E5%8D%B1%E9%9A%AA%E5%BE%B5%E5%85%86",
     "timestamp": "2026-09-17T23:31:45.428Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本15歲女高生夥18歲哥哥設仙人跳！澀谷狂毆搭訕男索800萬日圓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1177011775615275008960845.png/fTUq8rR8h5APHj3pYA7aJtyU2ScYp4AmHbNEcB2zRHA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390096/%E6%97%A5%E6%9C%AC15%E6%AD%B2%E5%A5%B3%E9%AB%98%E7%94%9F%E5%A4%A518%E6%AD%B2%E5%93%A5%E5%93%A5%E8%A8%AD%E4%BB%99%E4%BA%BA%E8%B7%B3-%E6%BE%80%E8%B0%B7%E7%8B%82%E6%AF%86%E6%90%AD%E8%A8%95%E7%94%B7%E7%B4%A2800%E8%90%AC%E6%97%A5%E5%9C%93",
-    "timestamp": "2026-09-17T23:17:08.144Z",
     "strategy": ".content-card__main"
   }
 ];
