@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T08:57:21.313Z
+// Last updated: 2026-09-18T09:21:42.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王鶴棣遭造謠下體整形失敗變陽痿！男星身體為何成獵奇狂歡工具？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177617293534826496475283.png/o0QpOYhkg6NmXH6bpA2j_pv-5LsMckZsDqrvlw6q75c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391227/%E7%8E%8B%E9%B6%B4%E6%A3%A3%E9%81%AD%E9%80%A0%E8%AC%A0%E4%B8%8B%E9%AB%94%E6%95%B4%E5%BD%A2%E5%A4%B1%E6%95%97%E8%AE%8A%E9%99%BD%E7%97%BF-%E7%94%B7%E6%98%9F%E8%BA%AB%E9%AB%94%E7%82%BA%E4%BD%95%E6%88%90%E7%8D%B5%E5%A5%87%E7%8B%82%E6%AD%A1%E5%B7%A5%E5%85%B7",
+    "timestamp": "2026-09-18T09:21:42.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18 Pro Max先達回收炒價直擊！大插後稍為回穩｜每日更新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177294777012457472349721.jpeg/olZYJCSDOFXLViigyMS6pbECx6-aRen6QCdpAUAnaQE",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60390898/%E4%BC%8A%E6%9C%97%E8%83%A1%E5%A1%9E%E9%9B%99%E9%87%8D%E5%B0%81%E9%8E%96%E6%B2%99%E7%89%B9%E7%9F%B3%E6%B2%B9-%E7%BE%8E%E5%9C%8B%E5%8F%AF%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%A4%96-jack-talk-%E5%8E%BB%E7%89%87",
     "timestamp": "2026-09-17T23:54:27.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飛滋兩周未好？小心是口腔癌！53歲男確診　醫生拆解3大危險徵兆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173619080750436352683571.png/P5DUYcrHGzDvRVNRwdtdYf_nY_yWLAfanpx1gp6cdYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386504/%E9%A3%9B%E6%BB%8B%E5%85%A9%E5%91%A8%E6%9C%AA%E5%A5%BD-%E5%B0%8F%E5%BF%83%E6%98%AF%E5%8F%A3%E8%85%94%E7%99%8C-53%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A33%E5%A4%A7%E5%8D%B1%E9%9A%AA%E5%BE%B5%E5%85%86",
-    "timestamp": "2026-09-17T23:41:33.707Z",
     "strategy": ".content-card__main"
   }
 ];
