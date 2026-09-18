@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T19:18:03.087Z
+// Last updated: 2026-09-18T19:40:36.985Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
+    "timestamp": "2026-09-18T19:40:36.985Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯合國報告：烏克蘭衝突普遍性暴力　89%歸咎俄羅斯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177675079840960512346025.png/ie6UbTIEX0bU6sZ-t27rw9G8PRE2D6OEea6UHnmulB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391357/%E7%8E%8B%E9%B6%B4%E6%A3%A3%E9%81%AD%E9%80%A0%E8%AC%A0%E4%B8%8B%E9%AB%94%E6%B3%A8%E5%B0%84%E7%8E%BB%E5%B0%BF%E9%85%B8-%E7%9B%A4%E9%BB%9E3%E4%BD%8D%E7%94%B7%E6%98%9F%E9%9B%A2%E8%AD%9C%E7%88%86%E6%96%99%E8%88%87%E7%B6%AD%E6%AC%8A%E8%A1%80%E6%B7%9A%E5%8F%B2",
     "timestamp": "2026-09-18T11:54:28.392Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網傳政府提供種牙補貼　衞生署澄清屬虛假廣告已報警　籲市民提防",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177698036726370304538209.jpeg/LxIBzZnRkKuahm9ls0nQKjLlid_P0o0sfgpiE34KYhM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391467/%E7%B6%B2%E5%82%B3%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E7%A8%AE%E7%89%99%E8%A3%9C%E8%B2%BC-%E8%A1%9E%E7%94%9F%E7%BD%B2%E6%BE%84%E6%B8%85%E5%B1%AC%E8%99%9B%E5%81%87%E5%BB%A3%E5%91%8A%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E7%B1%B2%E5%B8%82%E6%B0%91%E6%8F%90%E9%98%B2",
-    "timestamp": "2026-09-18T11:43:36.618Z",
     "strategy": ".content-card__main"
   }
 ];
