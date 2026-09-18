@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T19:40:36.985Z
+// Last updated: 2026-09-18T19:55:06.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
+    "timestamp": "2026-09-18T19:55:06.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177710906235162624102843.png/CvUmRCrXiJYMvAZvQRVGrEqVI-tMarN-LTcyLy03Mi8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391474/%E9%A2%B1%E9%A2%A8%E6%9D%9C%E9%B5%91%E5%90%B9%E8%A5%B2%E6%97%A5%E6%9C%AC-20%E6%97%A5%E9%80%BC%E8%BF%91%E9%97%9C%E6%9D%B1-%E5%8D%83%E8%91%89%E9%9D%9C%E5%B2%A1%E6%88%96%E8%BF%8E400%E6%AF%AB%E7%B1%B3%E6%9A%B4%E9%9B%A8",
     "timestamp": "2026-09-18T12:28:02.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王鶴棣遭造謠下體注射玻尿酸！盤點3位男星離譜爆料與維權血淚史",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177675079840960512346025.png/ie6UbTIEX0bU6sZ-t27rw9G8PRE2D6OEea6UHnmulB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391357/%E7%8E%8B%E9%B6%B4%E6%A3%A3%E9%81%AD%E9%80%A0%E8%AC%A0%E4%B8%8B%E9%AB%94%E6%B3%A8%E5%B0%84%E7%8E%BB%E5%B0%BF%E9%85%B8-%E7%9B%A4%E9%BB%9E3%E4%BD%8D%E7%94%B7%E6%98%9F%E9%9B%A2%E8%AD%9C%E7%88%86%E6%96%99%E8%88%87%E7%B6%AD%E6%AC%8A%E8%A1%80%E6%B7%9A%E5%8F%B2",
-    "timestamp": "2026-09-18T11:54:28.392Z",
     "strategy": ".content-card__main"
   }
 ];
