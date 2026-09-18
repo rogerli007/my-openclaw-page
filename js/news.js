@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T04:46:08.761Z
+// Last updated: 2026-09-18T04:58:53.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "政府工招聘｜1823請客戶服務主任！月薪可達$24K　DSE學歷可申請",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177599836434731008689714.jpeg/TtNu52_eKCvBSebV8PWr7BlJqtX0THbm_CCkdfwgpHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60390413/%E6%94%BF%E5%BA%9C%E5%B7%A5%E6%8B%9B%E8%81%98-1823%E8%AB%8B%E5%AE%A2%E6%88%B6%E6%9C%8D%E5%8B%99%E4%B8%BB%E4%BB%BB-%E6%9C%88%E8%96%AA%E5%8F%AF%E9%81%94-24k-dse%E5%AD%B8%E6%AD%B7%E5%8F%AF%E7%94%B3%E8%AB%8B",
+    "timestamp": "2026-09-18T04:58:53.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中秋國慶過關攻略｜深圳口岸高峰料衝98萬人次！避開逼爆日子出爐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177489904137932800938170.jpeg/dx_n434vz3vCp6YeZkhycBjK-IckOP4zwlwnf8JcJ38?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391174/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%88%AA%E6%9F%A5%E7%94%B7%E5%AD%90-%E5%B7%A5%E5%BB%88%E4%BD%8F%E6%89%80%E6%AA%A2%E5%80%BC45%E8%90%AC%E6%AF%92%E5%93%81-23%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-17T21:42:48.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角49歲巴漢遭4同鄉用鐵通襲擊　手腳受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027169707238756352620817.jpeg/SwlEaNPT4Lt_AhCSlFuZBHqIGuQ_-4tWb8Bm8m_AZvI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391171/%E6%97%BA%E8%A7%9249%E6%AD%B2%E5%B7%B4%E6%BC%A2%E9%81%AD4%E5%90%8C%E9%84%89%E7%94%A8%E9%90%B5%E9%80%9A%E8%A5%B2%E6%93%8A-%E6%89%8B%E8%85%B3%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-17T21:31:50.541Z",
     "strategy": ".content-card__main"
   }
 ];
