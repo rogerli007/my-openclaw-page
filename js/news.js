@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T15:45:38.759Z
+// Last updated: 2026-09-18T15:54:14.598Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周國豐回應《中年好聲音》造馬：我冇呃人　自爆被嘲光頭佬想辭職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177725122300088320326041.jpeg/w563NGXbDqnWCSPqWCyFeMrPKV9aL3bQmEqBQphKgUI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391483/%E5%91%A8%E5%9C%8B%E8%B1%90%E5%9B%9E%E6%87%89-%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3-%E9%80%A0%E9%A6%AC-%E6%88%91%E5%86%87%E5%91%83%E4%BA%BA-%E8%87%AA%E7%88%86%E8%A2%AB%E5%98%B2%E5%85%89%E9%A0%AD%E4%BD%AC%E6%83%B3%E8%BE%AD%E8%81%B7",
+    "timestamp": "2026-09-18T15:54:14.598Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭珮文前男友被批借女方熱度捧自己　曾展望：唔方便評論",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177617293534826496475283.png/o0QpOYhkg6NmXH6bpA2j_pv-5LsMckZsDqrvlw6q75c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391227/%E7%8E%8B%E9%B6%B4%E6%A3%A3%E9%81%AD%E9%80%A0%E8%AC%A0%E4%B8%8B%E9%AB%94%E6%95%B4%E5%BD%A2%E5%A4%B1%E6%95%97%E8%AE%8A%E9%99%BD%E7%97%BF-%E7%94%B7%E6%98%9F%E8%BA%AB%E9%AB%94%E7%82%BA%E4%BD%95%E6%88%90%E7%8D%B5%E5%A5%87%E7%8B%82%E6%AD%A1%E5%B7%A5%E5%85%B7",
     "timestamp": "2026-09-18T09:21:42.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro Max先達回收炒價直擊！大插後稍為回穩｜每日更新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177571439276986368129584.jpeg/P4BApMu5K_i5aqQHJU-FOXCRWxWf7R7zNZf5wjWX-cI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
-    "timestamp": "2026-09-18T08:57:21.313Z",
     "strategy": ".content-card__main"
   }
 ];
