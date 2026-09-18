@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T13:44:38.534Z
+// Last updated: 2026-09-18T13:54:10.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "管家偷走退休副省長243萬名酒手錶判10年半　家屬指控副省長涉貪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177733255890210816429705.png/MUyzmsmwBzPx4WqkeG5tBd4s5fNxwSrxdDVOGXQ1Thk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391460/%E7%AE%A1%E5%AE%B6%E5%81%B7%E8%B5%B0%E9%80%80%E4%BC%91%E5%89%AF%E7%9C%81%E9%95%B7243%E8%90%AC%E5%90%8D%E9%85%92%E6%89%8B%E9%8C%B6%E5%88%A410%E5%B9%B4%E5%8D%8A-%E5%AE%B6%E5%B1%AC%E6%8C%87%E6%8E%A7%E5%89%AF%E7%9C%81%E9%95%B7%E6%B6%89%E8%B2%AA",
+    "timestamp": "2026-09-18T13:54:10.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "猴痘｜再增兩宗確診　潛伏期均曾在港與其他男子有高風險接觸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177612105017200640416375.jpeg/bwatiP6prwEHeXE3qMtZKTGNOze6KkXZvQh_Zb0If2U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391303/%E7%85%A7%E9%A1%A7%E8%80%85-%E6%AF%8F%E6%9C%88%E9%96%8B%E6%94%AF%E9%80%BE-6000-%E9%80%BE8%E6%88%90%E6%9C%AA%E9%A0%98%E6%B4%A5%E8%B2%BC-%E5%9C%98%E9%AB%94%E4%BF%83%E6%94%BE%E5%AF%AC%E7%94%B3%E9%A0%98%E9%96%80%E6%AA%BB",
     "timestamp": "2026-09-18T05:53:53.909Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "養兒育女22年竟非親生！深圳綠帽夫再控妻子婚內轉走1400萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177588236894081024018523.jpeg/g0qS-afrW1WS9UqrAgVOG7XySED1xWqOts9Yy7bPWMs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60391253/%E9%A4%8A%E5%85%92%E8%82%B2%E5%A5%B322%E5%B9%B4%E7%AB%9F%E9%9D%9E%E8%A6%AA%E7%94%9F-%E6%B7%B1%E5%9C%B3%E7%B6%A0%E5%B8%BD%E5%A4%AB%E5%86%8D%E6%8E%A7%E5%A6%BB%E5%AD%90%E5%A9%9A%E5%85%A7%E8%BD%89%E8%B5%B01400%E8%90%AC",
-    "timestamp": "2026-09-18T05:43:12.552Z",
     "strategy": ".content-card__main"
   }
 ];
