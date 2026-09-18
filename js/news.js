@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T02:51:59.169Z
+// Last updated: 2026-09-18T03:23:22.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "會否移居北都？甯漢豪稱港多處好地方　毋須「每一度住勻」顯支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177285840150204416950672.jpeg/SeU8Sf4z8LiUdZ9gn5jJb9GV6OHq1ZyG0WrGxdFqxsU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391232/%E6%9C%83%E5%90%A6%E7%A7%BB%E5%B1%85%E5%8C%97%E9%83%BD-%E7%94%AF%E6%BC%A2%E8%B1%AA%E7%A8%B1%E6%B8%AF%E5%A4%9A%E8%99%95%E5%A5%BD%E5%9C%B0%E6%96%B9-%E6%AF%8B%E9%A0%88-%E6%AF%8F%E4%B8%80%E5%BA%A6%E4%BD%8F%E5%8B%BB-%E9%A1%AF%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-09-18T03:23:22.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18 Pro Max先達回收炒價+2900！首日細機有賺｜每日更新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177455988400197632024391.jpeg/jW_99_itQbtDvg3p8785Wx955AkdO7YVkNJeTpDSXk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391167/%E8%AD%A6%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%8B%988%E4%BA%BA%E6%AA%A2%E5%80%BC22%E8%90%AC%E7%B1%8C%E7%A2%BC",
     "timestamp": "2026-09-17T19:55:14.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荔枝角道搗非法賭檔　拘8人檢值22萬籌碼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177455988400197632024391.jpeg/jW_99_itQbtDvg3p8785Wx955AkdO7YVkNJeTpDSXk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391167/%E8%AD%A6%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%8B%988%E4%BA%BA%E6%AA%A2%E5%80%BC22%E8%90%AC%E7%B1%8C%E7%A2%BC",
-    "timestamp": "2026-09-17T19:29:53.751Z",
     "strategy": ".content-card__main"
   }
 ];
