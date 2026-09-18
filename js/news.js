@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T04:22:47.276Z
+// Last updated: 2026-09-18T04:46:08.761Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋國慶過關攻略｜深圳口岸高峰料衝98萬人次！避開逼爆日子出爐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177596562876928000324059.png/Tjoav5Lvu7sGRzqC8I88Ga2jZKnPCjujo3GA56NxgOc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60391212/%E4%B8%AD%E7%A7%8B%E5%9C%8B%E6%85%B6%E9%81%8E%E9%97%9C%E6%94%BB%E7%95%A5-%E6%B7%B1%E5%9C%B3%E5%8F%A3%E5%B2%B8%E9%AB%98%E5%B3%B0%E6%96%99%E8%A1%9D98%E8%90%AC%E4%BA%BA%E6%AC%A1-%E9%81%BF%E9%96%8B%E9%80%BC%E7%88%86%E6%97%A5%E5%AD%90%E5%87%BA%E7%88%90",
+    "timestamp": "2026-09-18T04:46:08.761Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國務院：伊朗高官可赴紐約出席聯合國大會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027169707238756352620817.jpeg/SwlEaNPT4Lt_AhCSlFuZBHqIGuQ_-4tWb8Bm8m_AZvI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391171/%E6%97%BA%E8%A7%9249%E6%AD%B2%E5%B7%B4%E6%BC%A2%E9%81%AD4%E5%90%8C%E9%84%89%E7%94%A8%E9%90%B5%E9%80%9A%E8%A5%B2%E6%93%8A-%E6%89%8B%E8%85%B3%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-17T21:31:50.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "FBI指阿里抄襲Anthropic後　美政府網站被發現用中國AI搜尋工具",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177473090179829760380924.jpeg/Bc7TGYl8dViAybVcSWYTWVJhcOtZowKvg6E_IYOhPyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391170/fbi%E6%8C%87%E9%98%BF%E9%87%8C%E6%8A%84%E8%A5%B2anthropic%E5%BE%8C-%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%B6%B2%E7%AB%99%E8%A2%AB%E7%99%BC%E7%8F%BE%E7%94%A8%E4%B8%AD%E5%9C%8Bai%E6%90%9C%E5%B0%8B%E5%B7%A5%E5%85%B7",
-    "timestamp": "2026-09-17T20:53:49.415Z",
     "strategy": ".content-card__main"
   }
 ];
