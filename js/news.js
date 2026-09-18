@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T03:23:22.336Z
+// Last updated: 2026-09-18T03:56:31.700Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "落馬洲牛潭尾路村屋31歲女昏倒浴室　朋友揭發惜送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251105/1062704483353628672057963.jpeg/LKJQipGNFy_UF4ZjZL2fTXPJqSoJxXGnTZYWg02WFoM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391250/%E8%90%BD%E9%A6%AC%E6%B4%B2%E7%89%9B%E6%BD%AD%E5%B0%BE%E8%B7%AF%E6%9D%91%E5%B1%8B31%E6%AD%B2%E5%A5%B3%E6%98%8F%E5%80%92%E6%B5%B4%E5%AE%A4-%E6%9C%8B%E5%8F%8B%E6%8F%AD%E7%99%BC%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-18T03:56:31.700Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "會否移居北都？甯漢豪稱港多處好地方　毋須「每一度住勻」顯支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177455988400197632024391.jpeg/jW_99_itQbtDvg3p8785Wx955AkdO7YVkNJeTpDSXk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391167/%E8%AD%A6%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%8B%988%E4%BA%BA%E6%AA%A2%E5%80%BC22%E8%90%AC%E7%B1%8C%E7%A2%BC",
     "timestamp": "2026-09-17T20:21:11.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荔枝角道搗非法賭檔　拘8人檢值22萬籌碼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177455988400197632024391.jpeg/jW_99_itQbtDvg3p8785Wx955AkdO7YVkNJeTpDSXk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391167/%E8%AD%A6%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%8B%988%E4%BA%BA%E6%AA%A2%E5%80%BC22%E8%90%AC%E7%B1%8C%E7%A2%BC",
-    "timestamp": "2026-09-17T19:55:14.235Z",
     "strategy": ".content-card__main"
   }
 ];
