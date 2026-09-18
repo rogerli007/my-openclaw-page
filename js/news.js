@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T03:56:31.700Z
+// Last updated: 2026-09-18T04:22:47.276Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國務院：伊朗高官可赴紐約出席聯合國大會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168900124395442176489203.jpeg/XuGtV-kGluF4vHnY5OsmHpo7fjHdefgHjNiBXYzYgV0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391260/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2-%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E5%8F%AF%E8%B5%B4%E7%B4%90%E7%B4%84%E5%87%BA%E5%B8%AD%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83",
+    "timestamp": "2026-09-18T04:22:47.276Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "落馬洲牛潭尾路村屋31歲女昏倒浴室　朋友揭發惜送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177473090179829760380924.jpeg/Bc7TGYl8dViAybVcSWYTWVJhcOtZowKvg6E_IYOhPyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391170/fbi%E6%8C%87%E9%98%BF%E9%87%8C%E6%8A%84%E8%A5%B2anthropic%E5%BE%8C-%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%B6%B2%E7%AB%99%E8%A2%AB%E7%99%BC%E7%8F%BE%E7%94%A8%E4%B8%AD%E5%9C%8Bai%E6%90%9C%E5%B0%8B%E5%B7%A5%E5%85%B7",
     "timestamp": "2026-09-17T20:53:49.415Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荔枝角道搗非法賭檔　拘8人檢值22萬籌碼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177455988400197632024391.jpeg/jW_99_itQbtDvg3p8785Wx955AkdO7YVkNJeTpDSXk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391167/%E8%AD%A6%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%8B%988%E4%BA%BA%E6%AA%A2%E5%80%BC22%E8%90%AC%E7%B1%8C%E7%A2%BC",
-    "timestamp": "2026-09-17T20:21:11.584Z",
     "strategy": ".content-card__main"
   }
 ];
