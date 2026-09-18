@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T06:32:07.064Z
+// Last updated: 2026-09-18T07:45:08.900Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro開賣亞洲瘋搶　新加坡果粉通宵排隊　一人獨攬33部",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177635089165586432148509.png/QwIuPVDyELisQrWCTNc3BPMUo1ebGTOpoGhOB6BoTgc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391336/iphone-18-pro%E9%96%8B%E8%B3%A3%E4%BA%9E%E6%B4%B2%E7%98%8B%E6%90%B6-%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%9E%9C%E7%B2%89%E9%80%9A%E5%AE%B5%E6%8E%92%E9%9A%8A-%E4%B8%80%E4%BA%BA%E7%8D%A8%E6%94%AC33%E9%83%A8",
+    "timestamp": "2026-09-18T07:45:08.900Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 18 Pro Max 派貨｜17 系列回收價下跌｜12/13舊機繼續升值",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177314357642530816942356.jpeg/6qPTxhdmwNAjSLVdwNt-dWSzUdbvoHXTC5PilwuT4pc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387988/%E6%A2%81%E5%AE%B6%E8%BC%9D%E5%9D%90%E8%BB%8A%E5%85%A7%E4%BC%B8%E9%A0%AD%E5%87%BA%E5%A4%96%E5%90%8C%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7-%E5%90%8C%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%A5%B5%E5%AF%B5%E6%84%9B%E4%B8%8D%E5%81%9C%E6%92%AB%E6%91%B8",
     "timestamp": "2026-09-17T22:53:55.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "神級影帝坐車內伸頭出外同粉絲合照　同小朋友極寵愛不停撫摸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177314357642530816942356.jpeg/6qPTxhdmwNAjSLVdwNt-dWSzUdbvoHXTC5PilwuT4pc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60387988/%E6%A2%81%E5%AE%B6%E8%BC%9D%E5%9D%90%E8%BB%8A%E5%85%A7%E4%BC%B8%E9%A0%AD%E5%87%BA%E5%A4%96%E5%90%8C%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7-%E5%90%8C%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%A5%B5%E5%AF%B5%E6%84%9B%E4%B8%8D%E5%81%9C%E6%92%AB%E6%91%B8",
-    "timestamp": "2026-09-17T22:41:54.230Z",
     "strategy": ".content-card__main"
   }
 ];
