@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T15:33:42.589Z
+// Last updated: 2026-09-18T15:45:38.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭珮文前男友被批借女方熱度捧自己　曾展望：唔方便評論",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177746607181926400045678.jpeg/7S_DB1tiLOJfsZAardZhnVwgUFDLPz053UkbP-dJGz8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391488/%E9%83%AD%E7%8F%AE%E6%96%87%E5%89%8D%E7%94%B7%E5%8F%8B%E8%A2%AB%E6%89%B9%E5%80%9F%E5%A5%B3%E6%96%B9%E7%86%B1%E5%BA%A6%E6%8D%A7%E8%87%AA%E5%B7%B1-%E6%9B%BE%E5%B1%95%E6%9C%9B-%E5%94%94%E6%96%B9%E4%BE%BF%E8%A9%95%E8%AB%96",
+    "timestamp": "2026-09-18T15:45:38.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬來西亞前首相納吉布獲特赦　改居家服刑　須繳清9600萬罰款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177571439276986368129584.jpeg/P4BApMu5K_i5aqQHJU-FOXCRWxWf7R7zNZf5wjWX-cI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
     "timestamp": "2026-09-18T08:57:21.313Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世紀大和解？Edan客串JFFT《旋轉木馬》MV掀熱話　藏5大職場啟示",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177651180109565952749620.jpeg/CmC1bOWtY986PSfCT55he7vcputHboZX_1rVOv9a1To?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60391216/%E4%B8%96%E7%B4%80%E5%A4%A7%E5%92%8C%E8%A7%A3-edan%E5%AE%A2%E4%B8%B2jfft-%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC-mv%E6%8E%80%E7%86%B1%E8%A9%B1-%E8%97%8F5%E5%A4%A7%E8%81%B7%E5%A0%B4%E5%95%9F%E7%A4%BA",
-    "timestamp": "2026-09-18T08:47:21.637Z",
     "strategy": ".content-card__main"
   }
 ];
