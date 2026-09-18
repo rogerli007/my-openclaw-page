@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T13:32:41.115Z
+// Last updated: 2026-09-18T13:44:38.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "猴痘｜再增兩宗確診　潛伏期均曾在港與其他男子有高風險接觸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/759243/org/04d0cb74722404b4d5495d23619e14cf.jpg/OE4l34EiY8qkg-WmCOJbZttTzsKWO9O9A8bDgwPGw4M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391489/%E7%8C%B4%E7%97%98-%E5%86%8D%E5%A2%9E%E5%85%A9%E5%AE%97%E7%A2%BA%E8%A8%BA-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%9D%87%E6%9B%BE%E5%9C%A8%E6%B8%AF%E8%88%87%E5%85%B6%E4%BB%96%E7%94%B7%E5%AD%90%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%8E%A5%E8%A7%B8",
+    "timestamp": "2026-09-18T13:44:38.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《經濟學人》：人均GDP增速放緩影響生活水平　中國德國巴西上榜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177588236894081024018523.jpeg/g0qS-afrW1WS9UqrAgVOG7XySED1xWqOts9Yy7bPWMs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60391253/%E9%A4%8A%E5%85%92%E8%82%B2%E5%A5%B322%E5%B9%B4%E7%AB%9F%E9%9D%9E%E8%A6%AA%E7%94%9F-%E6%B7%B1%E5%9C%B3%E7%B6%A0%E5%B8%BD%E5%A4%AB%E5%86%8D%E6%8E%A7%E5%A6%BB%E5%AD%90%E5%A9%9A%E5%85%A7%E8%BD%89%E8%B5%B01400%E8%90%AC",
     "timestamp": "2026-09-18T05:43:12.552Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古天樂震撼加盟2026年重頭劇集　拍住視帝影帝影后超強卡士鬥戲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177603787582345216279410.jpeg/3JgappoHiRnWpN7KLnAxNUtDDv-9Py6bLl7d9C5e3fQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391291/%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A9%9A%E5%96%9C%E5%AE%A2%E4%B8%B2-%E7%8B%A9%E8%AC%8A-%E6%88%90%E6%AF%85%E6%94%9C%E6%89%8B%E9%87%91%E5%83%8F%E9%99%A3%E5%AE%B9%E5%BC%95%E7%88%86%E6%B8%AF%E9%A2%A8%E6%87%B8%E7%96%91%E6%9C%9F%E5%BE%85",
-    "timestamp": "2026-09-18T05:24:00.125Z",
     "strategy": ".content-card__main"
   }
 ];
