@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T05:43:12.552Z
+// Last updated: 2026-09-18T05:53:53.909Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "照顧者｜每月開支逾$6000　逾8成未領津貼　團體促放寬申領門檻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177612105017200640416375.jpeg/bwatiP6prwEHeXE3qMtZKTGNOze6KkXZvQh_Zb0If2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391303/%E7%85%A7%E9%A1%A7%E8%80%85-%E6%AF%8F%E6%9C%88%E9%96%8B%E6%94%AF%E9%80%BE-6000-%E9%80%BE8%E6%88%90%E6%9C%AA%E9%A0%98%E6%B4%A5%E8%B2%BC-%E5%9C%98%E9%AB%94%E4%BF%83%E6%94%BE%E5%AF%AC%E7%94%B3%E9%A0%98%E9%96%80%E6%AA%BB",
+    "timestamp": "2026-09-18T05:53:53.909Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "養兒育女22年竟非親生！深圳綠帽夫再控妻子婚內轉走1400萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172604059228573696237918.jpeg/gDjTG2e63Kl3Ixsr8Q6N9DiHzQziLOLEN6mZwTepmcE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386760/%E4%BA%BA%E5%B7%A5%E6%99%B6%E9%AB%94%E7%A7%91%E6%8A%80%E6%96%B0%E7%AA%81%E7%A0%B4-%E7%99%BD%E5%85%A7%E9%9A%9C%E5%80%8B%E4%BA%BA%E5%8C%96%E6%96%B9%E6%A1%88%E5%8A%A9%E8%A6%96%E5%8A%9B%E9%87%8D%E7%94%9F",
     "timestamp": "2026-09-17T22:30:45.652Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人工晶體科技新突破　白內障個人化方案助視力重生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172604059228573696237918.jpeg/gDjTG2e63Kl3Ixsr8Q6N9DiHzQziLOLEN6mZwTepmcE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386760/%E4%BA%BA%E5%B7%A5%E6%99%B6%E9%AB%94%E7%A7%91%E6%8A%80%E6%96%B0%E7%AA%81%E7%A0%B4-%E7%99%BD%E5%85%A7%E9%9A%9C%E5%80%8B%E4%BA%BA%E5%8C%96%E6%96%B9%E6%A1%88%E5%8A%A9%E8%A6%96%E5%8A%9B%E9%87%8D%E7%94%9F",
-    "timestamp": "2026-09-17T22:19:08.572Z",
     "strategy": ".content-card__main"
   }
 ];
