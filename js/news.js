@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T14:43:38.669Z
+// Last updated: 2026-09-18T15:19:42.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "視帝陳山聰酒樓登台 頂級排場不再場面冷清 張振朗護航：唔覺得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177723427499282432321740.jpeg/z1tFeQQTYrU8LSUWbGne5y58eLkV3mmgCwUArDEFAKw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391486/%E8%A6%96%E5%B8%9D%E9%99%B3%E5%B1%B1%E8%81%B0%E9%85%92%E6%A8%93%E7%99%BB%E5%8F%B0-%E9%A0%82%E7%B4%9A%E6%8E%92%E5%A0%B4%E4%B8%8D%E5%86%8D%E5%A0%B4%E9%9D%A2%E5%86%B7%E6%B8%85-%E5%BC%B5%E6%8C%AF%E6%9C%97%E8%AD%B7%E8%88%AA-%E5%94%94%E8%A6%BA%E5%BE%97",
+    "timestamp": "2026-09-18T15:19:42.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3對星座情侶注定互相折磨　「黐身」雙魚配愛獨立山羊各有各累",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177567341689442304306825.jpeg/Z--t6aVxUL_EZZuQCR6GyYqJH6ey_pNwuE5ULbhOVC0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391379/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E6%96%9910-12%E6%AD%A3%E5%BC%8F%E9%96%8B%E9%80%9A-%E6%B7%B1%E6%B8%AF%E9%9B%99%E6%96%B9%E4%BB%8A%E6%99%9A%E8%88%89%E8%A1%8C%E8%81%AF%E5%90%88%E6%B6%88%E9%98%B2%E5%AF%A6%E6%88%B0%E6%BC%94%E7%B7%B4",
     "timestamp": "2026-09-18T08:26:13.367Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro開賣亞洲瘋搶　新加坡果粉通宵排隊　一人獨攬33部",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177635089165586432148509.png/QwIuPVDyELisQrWCTNc3BPMUo1ebGTOpoGhOB6BoTgc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391336/iphone-18-pro%E9%96%8B%E8%B3%A3%E4%BA%9E%E6%B4%B2%E7%98%8B%E6%90%B6-%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%9E%9C%E7%B2%89%E9%80%9A%E5%AE%B5%E6%8E%92%E9%9A%8A-%E4%B8%80%E4%BA%BA%E7%8D%A8%E6%94%AC33%E9%83%A8",
-    "timestamp": "2026-09-18T07:45:08.900Z",
     "strategy": ".content-card__main"
   }
 ];
