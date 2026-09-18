@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T09:53:52.922Z
+// Last updated: 2026-09-18T10:21:22.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Trip.com機票優惠碼｜香港01獨家2%優惠！無門檻+不設折扣上限",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171521728094932992504237.png/W6f7Da0NDjB5f17ZaL0O2yKweez1kgQBQKNYDkCjWA4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60385692/trip-com%E6%A9%9F%E7%A5%A8%E5%84%AA%E6%83%A0%E7%A2%BC-%E9%A6%99%E6%B8%AF01%E7%8D%A8%E5%AE%B62-%E5%84%AA%E6%83%A0-%E7%84%A1%E9%96%80%E6%AA%BB-%E4%B8%8D%E8%A8%AD%E6%8A%98%E6%89%A3%E4%B8%8A%E9%99%90",
+    "timestamp": "2026-09-18T10:21:22.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "43歲蔡卓妍身形圓潤似「孕味濃」　小腹微微隆起引懷孕熱議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177220827297353728625487.jpeg/q43KCXz76V3h2KqSL0_NQ_NHpIvc8pa6SwmMQksJjEI?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391192/%E6%9D%8F%E8%8A%B1%E9%82%A8%E8%AC%80%E6%AE%BA-53%E6%AD%B2%E4%B8%BB%E5%A9%A6%E8%BA%AB%E4%B8%AD%E5%A4%9A%E5%88%80%E6%96%83%E5%91%BD-%E5%A4%AB%E8%A2%AB%E6%8E%A7%E4%BB%A5%E4%B8%80%E9%A0%85%E8%AC%80%E6%AE%BA-%E4%BB%8A%E6%97%A9%E6%8F%90%E5%A0%82",
     "timestamp": "2026-09-18T01:41:38.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼列車門夾貓尾！橘貓慘叫掙扎求生險斷尾　暖男神救援獲激讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177314654272098304035182.jpeg/wEWp1CtLh87gDlQDciieEOD13JGt6NjO7uVf1e7lX9U",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390053/%E5%8D%B0%E5%B0%BC%E5%88%97%E8%BB%8A%E9%96%80%E5%A4%BE%E8%B2%93%E5%B0%BE-%E6%A9%98%E8%B2%93%E6%85%98%E5%8F%AB%E6%8E%99%E6%89%8E%E6%B1%82%E7%94%9F%E9%9A%AA%E6%96%B7%E5%B0%BE-%E6%9A%96%E7%94%B7%E7%A5%9E%E6%95%91%E6%8F%B4%E7%8D%B2%E6%BF%80%E8%AE%9A",
-    "timestamp": "2026-09-18T01:17:56.987Z",
     "strategy": ".content-card__main"
   }
 ];
