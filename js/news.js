@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T02:34:13.940Z
+// Last updated: 2026-09-18T02:51:59.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro Max先達回收炒價+2900！首日細機有賺｜每日更新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177568329515143168864201.jpeg/PXKuEInOEQyJk7ZylOj4S9f2dxKREmLXILvkmCC75Jg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
+    "timestamp": "2026-09-18T02:51:59.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普斥歐盟賦加拿大準成員身份　卡尼：對入歐提議表示歡迎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177455988400197632024391.jpeg/jW_99_itQbtDvg3p8785Wx955AkdO7YVkNJeTpDSXk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391167/%E8%AD%A6%E8%8D%94%E6%9E%9D%E8%A7%92%E9%81%93%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%8B%988%E4%BA%BA%E6%AA%A2%E5%80%BC22%E8%90%AC%E7%B1%8C%E7%A2%BC",
     "timestamp": "2026-09-17T19:29:53.751Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅啟明唔認係廢男　堅稱侄仔先係廢人由細到大食梅媽：依家嚟謀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177427765910048768864025.jpeg/c9M7f72kddxMMleOKqat-oWK48kGhSAwU9PwoVPT8KE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391161/%E6%A2%85%E5%95%9F%E6%98%8E%E5%94%94%E8%AA%8D%E4%BF%82%E5%BB%A2%E7%94%B7-%E5%A0%85%E7%A8%B1%E4%BE%84%E4%BB%94%E5%85%88%E4%BF%82%E5%BB%A2%E4%BA%BA%E7%94%B1%E7%B4%B0%E5%88%B0%E5%A4%A7%E9%A3%9F%E6%A2%85%E5%AA%BD-%E4%BE%9D%E5%AE%B6%E5%9A%9F%E8%AC%80",
-    "timestamp": "2026-09-17T19:17:52.376Z",
     "strategy": ".content-card__main"
   }
 ];
