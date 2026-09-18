@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T21:54:40.010Z
+// Last updated: 2026-09-18T22:18:32.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日日間炎熱　市區最高氣溫32度　中秋正日早晚一兩陣微雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177858468929867776851379.jpeg/WEt6UBTuFdic_swgYAmOzkB-0YXainYDk4TgHKmE4Bw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60391523/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6-%E4%B8%AD%E7%A7%8B%E6%AD%A3%E6%97%A5%E6%97%A9%E6%99%9A%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
+    "timestamp": "2026-09-18T22:18:32.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社：美國財長貝森特將與何立峰會談　聚焦AI及稀土",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177735455400005632456918.jpeg/LTqSSFBHWH15DBCkH2GIKyjtPNebF2XBkc3ae5HN2ns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391495/%E6%94%BF%E5%BA%9C%E7%99%BC%E8%A1%A8%E9%AB%98%E9%BD%A1%E5%8C%96%E5%B0%8D%E7%AD%96%E5%A0%B1%E5%91%8A-%E6%8F%9073%E9%A0%85%E6%8E%AA%E6%96%BD%E6%B6%B5%E9%95%B7%E8%80%85%E9%86%AB%E7%99%82%E5%81%A5%E5%BA%B7-%E8%B7%A8%E5%A2%83%E9%A4%8A%E8%80%81%E7%AD%89",
     "timestamp": "2026-09-18T14:24:52.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "管家偷走退休副省長243萬名酒手錶判10年半　家屬指控副省長涉貪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177733255890210816429705.png/MUyzmsmwBzPx4WqkeG5tBd4s5fNxwSrxdDVOGXQ1Thk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391460/%E7%AE%A1%E5%AE%B6%E5%81%B7%E8%B5%B0%E9%80%80%E4%BC%91%E5%89%AF%E7%9C%81%E9%95%B7243%E8%90%AC%E5%90%8D%E9%85%92%E6%89%8B%E9%8C%B6%E5%88%A410%E5%B9%B4%E5%8D%8A-%E5%AE%B6%E5%B1%AC%E6%8C%87%E6%8E%A7%E5%89%AF%E7%9C%81%E9%95%B7%E6%B6%89%E8%B2%AA",
-    "timestamp": "2026-09-18T13:54:10.471Z",
     "strategy": ".content-card__main"
   }
 ];
