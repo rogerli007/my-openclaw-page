@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T11:33:32.216Z
+// Last updated: 2026-09-18T11:43:36.618Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網傳政府提供種牙補貼　衞生署澄清屬虛假廣告已報警　籲市民提防",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177698036726370304538209.jpeg/LxIBzZnRkKuahm9ls0nQKjLlid_P0o0sfgpiE34KYhM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391467/%E7%B6%B2%E5%82%B3%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E7%A8%AE%E7%89%99%E8%A3%9C%E8%B2%BC-%E8%A1%9E%E7%94%9F%E7%BD%B2%E6%BE%84%E6%B8%85%E5%B1%AC%E8%99%9B%E5%81%87%E5%BB%A3%E5%91%8A%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E7%B1%B2%E5%B8%82%E6%B0%91%E6%8F%90%E9%98%B2",
+    "timestamp": "2026-09-18T11:43:36.618Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港姐亞軍施宇琪重返劍橋影婚照　高富帥未婚夫首曝光身形魁梧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177285840150204416950672.jpeg/SeU8Sf4z8LiUdZ9gn5jJb9GV6OHq1ZyG0WrGxdFqxsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391232/%E6%9C%83%E5%90%A6%E7%A7%BB%E5%B1%85%E5%8C%97%E9%83%BD-%E7%94%AF%E6%BC%A2%E8%B1%AA%E7%A8%B1%E6%B8%AF%E5%A4%9A%E8%99%95%E5%A5%BD%E5%9C%B0%E6%96%B9-%E6%AF%8B%E9%A0%88-%E6%AF%8F%E4%B8%80%E5%BA%A6%E4%BD%8F%E5%8B%BB-%E9%A1%AF%E6%94%AF%E6%8C%81",
     "timestamp": "2026-09-18T03:23:22.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro Max先達回收炒價+2900！首日細機有賺｜每日更新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177568329515143168864201.jpeg/PXKuEInOEQyJk7ZylOj4S9f2dxKREmLXILvkmCC75Jg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
-    "timestamp": "2026-09-18T02:51:59.169Z",
     "strategy": ".content-card__main"
   }
 ];
