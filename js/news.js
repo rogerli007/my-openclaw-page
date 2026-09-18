@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T08:47:21.637Z
+// Last updated: 2026-09-18T08:57:21.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro Max先達回收炒價直擊！大插後稍為回穩｜每日更新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177571439276986368129584.jpeg/P4BApMu5K_i5aqQHJU-FOXCRWxWf7R7zNZf5wjWX-cI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
+    "timestamp": "2026-09-18T08:57:21.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世紀大和解？Edan客串JFFT《旋轉木馬》MV掀熱話　藏5大職場啟示",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173619080750436352683571.png/P5DUYcrHGzDvRVNRwdtdYf_nY_yWLAfanpx1gp6cdYI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386504/%E9%A3%9B%E6%BB%8B%E5%85%A9%E5%91%A8%E6%9C%AA%E5%A5%BD-%E5%B0%8F%E5%BF%83%E6%98%AF%E5%8F%A3%E8%85%94%E7%99%8C-53%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A33%E5%A4%A7%E5%8D%B1%E9%9A%AA%E5%BE%B5%E5%85%86",
     "timestamp": "2026-09-17T23:41:33.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飛滋兩周未好？小心是口腔癌！53歲男確診　醫生拆解3大危險徵兆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173619080750436352683571.png/P5DUYcrHGzDvRVNRwdtdYf_nY_yWLAfanpx1gp6cdYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60386504/%E9%A3%9B%E6%BB%8B%E5%85%A9%E5%91%A8%E6%9C%AA%E5%A5%BD-%E5%B0%8F%E5%BF%83%E6%98%AF%E5%8F%A3%E8%85%94%E7%99%8C-53%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A33%E5%A4%A7%E5%8D%B1%E9%9A%AA%E5%BE%B5%E5%85%86",
-    "timestamp": "2026-09-17T23:31:45.428Z",
     "strategy": ".content-card__main"
   }
 ];
