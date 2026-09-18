@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T11:54:28.392Z
+// Last updated: 2026-09-18T12:28:02.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "颱風杜鵑吹襲日本　20日逼近關東　千葉靜岡或迎400毫米暴雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177710906235162624102843.png/CvUmRCrXiJYMvAZvQRVGrEqVI-tMarN-LTcyLy03Mi8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391474/%E9%A2%B1%E9%A2%A8%E6%9D%9C%E9%B5%91%E5%90%B9%E8%A5%B2%E6%97%A5%E6%9C%AC-20%E6%97%A5%E9%80%BC%E8%BF%91%E9%97%9C%E6%9D%B1-%E5%8D%83%E8%91%89%E9%9D%9C%E5%B2%A1%E6%88%96%E8%BF%8E400%E6%AF%AB%E7%B1%B3%E6%9A%B4%E9%9B%A8",
+    "timestamp": "2026-09-18T12:28:02.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王鶴棣遭造謠下體注射玻尿酸！盤點3位男星離譜爆料與維權血淚史",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168900124395442176489203.jpeg/XuGtV-kGluF4vHnY5OsmHpo7fjHdefgHjNiBXYzYgV0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391260/%E7%BE%8E%E5%9C%8B%E5%8B%99%E9%99%A2-%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E5%8F%AF%E8%B5%B4%E7%B4%90%E7%B4%84%E5%87%BA%E5%B8%AD%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83",
     "timestamp": "2026-09-18T04:22:47.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "落馬洲牛潭尾路村屋31歲女昏倒浴室　朋友揭發惜送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251105/1062704483353628672057963.jpeg/LKJQipGNFy_UF4ZjZL2fTXPJqSoJxXGnTZYWg02WFoM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391250/%E8%90%BD%E9%A6%AC%E6%B4%B2%E7%89%9B%E6%BD%AD%E5%B0%BE%E8%B7%AF%E6%9D%91%E5%B1%8B31%E6%AD%B2%E5%A5%B3%E6%98%8F%E5%80%92%E6%B5%B4%E5%AE%A4-%E6%9C%8B%E5%8F%8B%E6%8F%AD%E7%99%BC%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-18T03:56:31.700Z",
     "strategy": ".content-card__main"
   }
 ];
