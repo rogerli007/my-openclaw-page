@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T11:43:36.618Z
+// Last updated: 2026-09-18T11:54:28.392Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王鶴棣遭造謠下體注射玻尿酸！盤點3位男星離譜爆料與維權血淚史",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177675079840960512346025.png/ie6UbTIEX0bU6sZ-t27rw9G8PRE2D6OEea6UHnmulB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391357/%E7%8E%8B%E9%B6%B4%E6%A3%A3%E9%81%AD%E9%80%A0%E8%AC%A0%E4%B8%8B%E9%AB%94%E6%B3%A8%E5%B0%84%E7%8E%BB%E5%B0%BF%E9%85%B8-%E7%9B%A4%E9%BB%9E3%E4%BD%8D%E7%94%B7%E6%98%9F%E9%9B%A2%E8%AD%9C%E7%88%86%E6%96%99%E8%88%87%E7%B6%AD%E6%AC%8A%E8%A1%80%E6%B7%9A%E5%8F%B2",
+    "timestamp": "2026-09-18T11:54:28.392Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網傳政府提供種牙補貼　衞生署澄清屬虛假廣告已報警　籲市民提防",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251105/1062704483353628672057963.jpeg/LKJQipGNFy_UF4ZjZL2fTXPJqSoJxXGnTZYWg02WFoM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391250/%E8%90%BD%E9%A6%AC%E6%B4%B2%E7%89%9B%E6%BD%AD%E5%B0%BE%E8%B7%AF%E6%9D%91%E5%B1%8B31%E6%AD%B2%E5%A5%B3%E6%98%8F%E5%80%92%E6%B5%B4%E5%AE%A4-%E6%9C%8B%E5%8F%8B%E6%8F%AD%E7%99%BC%E6%83%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-18T03:56:31.700Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "會否移居北都？甯漢豪稱港多處好地方　毋須「每一度住勻」顯支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177285840150204416950672.jpeg/SeU8Sf4z8LiUdZ9gn5jJb9GV6OHq1ZyG0WrGxdFqxsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391232/%E6%9C%83%E5%90%A6%E7%A7%BB%E5%B1%85%E5%8C%97%E9%83%BD-%E7%94%AF%E6%BC%A2%E8%B1%AA%E7%A8%B1%E6%B8%AF%E5%A4%9A%E8%99%95%E5%A5%BD%E5%9C%B0%E6%96%B9-%E6%AF%8B%E9%A0%88-%E6%AF%8F%E4%B8%80%E5%BA%A6%E4%BD%8F%E5%8B%BB-%E9%A1%AF%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-09-18T03:23:22.336Z",
     "strategy": ".content-card__main"
   }
 ];
