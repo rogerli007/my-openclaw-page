@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T20:37:20.266Z
+// Last updated: 2026-09-18T20:44:40.976Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
+    "timestamp": "2026-09-18T20:44:40.976Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177725840767586304087631.jpeg/P5-X7cNk9WZr4_lQxq8G7qKOKzotGqGmNHVXmDR1V5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391485/%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%BA%BA-%E4%BA%BA%E5%9D%87gdp%E5%A2%9E%E9%80%9F%E6%94%BE%E7%B7%A9%E5%BD%B1%E9%9F%BF%E7%94%9F%E6%B4%BB%E6%B0%B4%E5%B9%B3-%E4%B8%AD%E5%9C%8B%E5%BE%B7%E5%9C%8B%E5%B7%B4%E8%A5%BF%E4%B8%8A%E6%A6%9C",
     "timestamp": "2026-09-18T13:32:41.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫療事故｜威院錯餵固體餐予需食糊餐男病人　事主鯁喉後深夜離世",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/372880/org/cef49789ad8f83cd9dd7f35505b38b01.jpg/URXovocXGrM0i9Bf69gnlQUds0sRv3LYV8CIN1fAiDc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391484/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E5%A8%81%E9%99%A2%E9%8C%AF%E9%A4%B5%E5%9B%BA%E9%AB%94%E9%A4%90%E4%BA%88%E9%9C%80%E9%A3%9F%E7%B3%8A%E9%A4%90%E7%94%B7%E7%97%85%E4%BA%BA-%E4%BA%8B%E4%B8%BB%E9%AF%81%E5%96%89%E5%BE%8C%E6%B7%B1%E5%A4%9C%E9%9B%A2%E4%B8%96",
-    "timestamp": "2026-09-18T13:19:45.793Z",
     "strategy": ".content-card__main"
   }
 ];
