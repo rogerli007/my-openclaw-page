@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T01:41:38.793Z
+// Last updated: 2026-09-18T02:02:25.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國擬以產能過剩對華加徵關稅　彭博社：或推遲至習特會後公布",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103186894943948800406783.jpeg/0leeNN1Mh1IMp2hlPdzVepNk2WthDFItyUAaPslAGj4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391200/%E7%BE%8E%E5%9C%8B%E6%93%AC%E4%BB%A5%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E5%B0%8D%E8%8F%AF%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E5%BD%AD%E5%8D%9A%E7%A4%BE-%E6%88%96%E6%8E%A8%E9%81%B2%E8%87%B3%E7%BF%92%E7%89%B9%E6%9C%83%E5%BE%8C%E5%85%AC%E5%B8%83",
+    "timestamp": "2026-09-18T02:02:25.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杏花邨謀殺｜53歲主婦身中多刀斃命　夫被控以一項謀殺　今早提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177427765910048768864025.jpeg/c9M7f72kddxMMleOKqat-oWK48kGhSAwU9PwoVPT8KE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391161/%E6%A2%85%E5%95%9F%E6%98%8E%E5%94%94%E8%AA%8D%E4%BF%82%E5%BB%A2%E7%94%B7-%E5%A0%85%E7%A8%B1%E4%BE%84%E4%BB%94%E5%85%88%E4%BF%82%E5%BB%A2%E4%BA%BA%E7%94%B1%E7%B4%B0%E5%88%B0%E5%A4%A7%E9%A3%9F%E6%A2%85%E5%AA%BD-%E4%BE%9D%E5%AE%B6%E5%9A%9F%E8%AC%80",
     "timestamp": "2026-09-17T18:57:22.688Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅啟明唔認係廢男　堅稱侄仔先係廢人由細到大食梅媽：依家嚟謀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177427765910048768864025.jpeg/c9M7f72kddxMMleOKqat-oWK48kGhSAwU9PwoVPT8KE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391161/%E6%A2%85%E5%95%9F%E6%98%8E%E5%94%94%E8%AA%8D%E4%BF%82%E5%BB%A2%E7%94%B7-%E5%A0%85%E7%A8%B1%E4%BE%84%E4%BB%94%E5%85%88%E4%BF%82%E5%BB%A2%E4%BA%BA%E7%94%B1%E7%B4%B0%E5%88%B0%E5%A4%A7%E9%A3%9F%E6%A2%85%E5%AA%BD-%E4%BE%9D%E5%AE%B6%E5%9A%9F%E8%AC%80",
-    "timestamp": "2026-09-17T18:47:17.042Z",
     "strategy": ".content-card__main"
   }
 ];
