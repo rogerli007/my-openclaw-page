@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T22:31:20.990Z
+// Last updated: 2026-09-18T22:42:22.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日日間炎熱　市區最高氣溫32度　中秋正日早晚一兩陣微雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177858468929867776851379.jpeg/WEt6UBTuFdic_swgYAmOzkB-0YXainYDk4TgHKmE4Bw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60391523/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6-%E4%B8%AD%E7%A7%8B%E6%AD%A3%E6%97%A5%E6%97%A9%E6%99%9A%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
+    "timestamp": "2026-09-18T22:42:22.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日日間炎熱　市區最高氣溫32度　中秋正日早晚一兩陣微雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177723427499282432321740.jpeg/z1tFeQQTYrU8LSUWbGne5y58eLkV3mmgCwUArDEFAKw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391486/%E8%A6%96%E5%B8%9D%E9%99%B3%E5%B1%B1%E8%81%B0%E9%85%92%E6%A8%93%E7%99%BB%E5%8F%B0-%E9%A0%82%E7%B4%9A%E6%8E%92%E5%A0%B4%E4%B8%8D%E5%86%8D%E5%A0%B4%E9%9D%A2%E5%86%B7%E6%B8%85-%E5%BC%B5%E6%8C%AF%E6%9C%97%E8%AD%B7%E8%88%AA-%E5%94%94%E8%A6%BA%E5%BE%97",
     "timestamp": "2026-09-18T15:19:42.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3對星座情侶注定互相折磨　「黐身」雙魚配愛獨立山羊各有各累",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143869639126683648850196.jpeg/YmAql8tqL2VKrChmchQsgxSWv9ZnEX-sB6y1ywestcs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60291925/3%E5%B0%8D%E6%98%9F%E5%BA%A7%E6%83%85%E4%BE%B6%E6%B3%A8%E5%AE%9A%E4%BA%92%E7%9B%B8%E6%8A%98%E7%A3%A8-%E9%BB%90%E8%BA%AB-%E9%9B%99%E9%AD%9A%E9%85%8D%E6%84%9B%E7%8D%A8%E7%AB%8B%E5%B1%B1%E7%BE%8A%E5%90%84%E6%9C%89%E5%90%84%E7%B4%AF",
-    "timestamp": "2026-09-18T14:43:38.669Z",
     "strategy": ".content-card__main"
   }
 ];
