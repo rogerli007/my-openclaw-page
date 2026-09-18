@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T13:19:45.793Z
+// Last updated: 2026-09-18T13:32:41.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《經濟學人》：人均GDP增速放緩影響生活水平　中國德國巴西上榜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177725840767586304087631.jpeg/P5-X7cNk9WZr4_lQxq8G7qKOKzotGqGmNHVXmDR1V5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391485/%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%BA%BA-%E4%BA%BA%E5%9D%87gdp%E5%A2%9E%E9%80%9F%E6%94%BE%E7%B7%A9%E5%BD%B1%E9%9F%BF%E7%94%9F%E6%B4%BB%E6%B0%B4%E5%B9%B3-%E4%B8%AD%E5%9C%8B%E5%BE%B7%E5%9C%8B%E5%B7%B4%E8%A5%BF%E4%B8%8A%E6%A6%9C",
+    "timestamp": "2026-09-18T13:32:41.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫療事故｜威院錯餵固體餐予需食糊餐男病人　事主鯁喉後深夜離世",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177603787582345216279410.jpeg/3JgappoHiRnWpN7KLnAxNUtDDv-9Py6bLl7d9C5e3fQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391291/%E5%8F%A4%E5%A4%A9%E6%A8%82%E9%A9%9A%E5%96%9C%E5%AE%A2%E4%B8%B2-%E7%8B%A9%E8%AC%8A-%E6%88%90%E6%AF%85%E6%94%9C%E6%89%8B%E9%87%91%E5%83%8F%E9%99%A3%E5%AE%B9%E5%BC%95%E7%88%86%E6%B8%AF%E9%A2%A8%E6%87%B8%E7%96%91%E6%9C%9F%E5%BE%85",
     "timestamp": "2026-09-18T05:24:00.125Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "政府工招聘｜1823請客戶服務主任！月薪可達$24K　DSE學歷可申請",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177599836434731008689714.jpeg/TtNu52_eKCvBSebV8PWr7BlJqtX0THbm_CCkdfwgpHU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60390413/%E6%94%BF%E5%BA%9C%E5%B7%A5%E6%8B%9B%E8%81%98-1823%E8%AB%8B%E5%AE%A2%E6%88%B6%E6%9C%8D%E5%8B%99%E4%B8%BB%E4%BB%BB-%E6%9C%88%E8%96%AA%E5%8F%AF%E9%81%94-24k-dse%E5%AD%B8%E6%AD%B7%E5%8F%AF%E7%94%B3%E8%AB%8B",
-    "timestamp": "2026-09-18T04:58:53.628Z",
     "strategy": ".content-card__main"
   }
 ];
