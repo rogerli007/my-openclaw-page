@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T20:54:11.253Z
+// Last updated: 2026-09-18T21:54:40.010Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透社：美國財長貝森特將與何立峰會談　聚焦AI及稀土",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174352541475934208086512.jpeg/7ao6ukoiH1r6UEhQsAdD6eK99jBJtQJoTgqGwU4KhsE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391524/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%BE%8E%E5%9C%8B%E8%B2%A1%E9%95%B7%E8%B2%9D%E6%A3%AE%E7%89%B9%E5%B0%87%E8%88%87%E4%BD%95%E7%AB%8B%E5%B3%B0%E6%9C%83%E8%AB%87-%E8%81%9A%E7%84%A6ai%E5%8F%8A%E7%A8%80%E5%9C%9F",
+    "timestamp": "2026-09-18T21:54:40.010Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非法移民湧入休達　歐盟專員促遣返：助長極右政黨支持度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177733255890210816429705.png/MUyzmsmwBzPx4WqkeG5tBd4s5fNxwSrxdDVOGXQ1Thk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391460/%E7%AE%A1%E5%AE%B6%E5%81%B7%E8%B5%B0%E9%80%80%E4%BC%91%E5%89%AF%E7%9C%81%E9%95%B7243%E8%90%AC%E5%90%8D%E9%85%92%E6%89%8B%E9%8C%B6%E5%88%A410%E5%B9%B4%E5%8D%8A-%E5%AE%B6%E5%B1%AC%E6%8C%87%E6%8E%A7%E5%89%AF%E7%9C%81%E9%95%B7%E6%B6%89%E8%B2%AA",
     "timestamp": "2026-09-18T13:54:10.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "猴痘｜再增兩宗確診　潛伏期均曾在港與其他男子有高風險接觸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/759243/org/04d0cb74722404b4d5495d23619e14cf.jpg/OE4l34EiY8qkg-WmCOJbZttTzsKWO9O9A8bDgwPGw4M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391489/%E7%8C%B4%E7%97%98-%E5%86%8D%E5%A2%9E%E5%85%A9%E5%AE%97%E7%A2%BA%E8%A8%BA-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%9D%87%E6%9B%BE%E5%9C%A8%E6%B8%AF%E8%88%87%E5%85%B6%E4%BB%96%E7%94%B7%E5%AD%90%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%8E%A5%E8%A7%B8",
-    "timestamp": "2026-09-18T13:44:38.534Z",
     "strategy": ".content-card__main"
   }
 ];
