@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T10:53:48.757Z
+// Last updated: 2026-09-18T11:18:47.270Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜護士畢業生嘆搵工難　盧寵茂：沒機制聘請所有畢業生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173636068772155392928153.jpeg/19PRZ5aG6j5PoiD-Hu69Xh1sBZLgW8CnbnOY-ktzmPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391458/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E8%AD%B7%E5%A3%AB%E7%95%A2%E6%A5%AD%E7%94%9F%E5%98%86%E6%90%B5%E5%B7%A5%E9%9B%A3-%E7%9B%A7%E5%AF%B5%E8%8C%82-%E6%B2%92%E6%A9%9F%E5%88%B6%E8%81%98%E8%AB%8B%E6%89%80%E6%9C%89%E7%95%A2%E6%A5%AD%E7%94%9F",
+    "timestamp": "2026-09-18T11:18:47.270Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公開反對中美G2　頻繁提議G3　俄羅斯的喊話是宣泄還是宣戰？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176937856514396160679854.jpeg/GqwSwQJhN_DEcIcyFv1LOx4WOGtOyYtSLPHD7izxw-4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391196/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%A5%E6%AD%90%E7%9B%9F%E8%B3%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%BA%96%E6%88%90%E5%93%A1%E8%BA%AB%E4%BB%BD-%E5%8D%A1%E5%B0%BC-%E5%B0%8D%E5%85%A5%E6%AD%90%E6%8F%90%E8%AD%B0%E8%A1%A8%E7%A4%BA%E6%AD%A1%E8%BF%8E",
     "timestamp": "2026-09-18T02:34:13.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國擬以產能過剩對華加徵關稅　彭博社：或推遲至習特會後公布",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103186894943948800406783.jpeg/0leeNN1Mh1IMp2hlPdzVepNk2WthDFItyUAaPslAGj4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391200/%E7%BE%8E%E5%9C%8B%E6%93%AC%E4%BB%A5%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E5%B0%8D%E8%8F%AF%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E5%BD%AD%E5%8D%9A%E7%A4%BE-%E6%88%96%E6%8E%A8%E9%81%B2%E8%87%B3%E7%BF%92%E7%89%B9%E6%9C%83%E5%BE%8C%E5%85%AC%E5%B8%83",
-    "timestamp": "2026-09-18T02:02:25.128Z",
     "strategy": ".content-card__main"
   }
 ];
