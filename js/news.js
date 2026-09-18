@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T17:28:52.204Z
+// Last updated: 2026-09-18T18:23:22.381Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯合國報告：烏克蘭衝突普遍性暴力　89%歸咎俄羅斯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156745501580726272806592.jpeg/qd9YjCcCCN8eseEQdKJ8LiLg5NXt1d4vzgq8_M4KvPw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391512/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E8%A1%9D%E7%AA%81%E6%99%AE%E9%81%8D%E6%80%A7%E6%9A%B4%E5%8A%9B-89-%E6%AD%B8%E5%92%8E%E4%BF%84%E7%BE%85%E6%96%AF",
+    "timestamp": "2026-09-18T18:23:22.381Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "EMSC：智利首都大都會區4.8級地震",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173636068772155392928153.jpeg/19PRZ5aG6j5PoiD-Hu69Xh1sBZLgW8CnbnOY-ktzmPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391458/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E8%AD%B7%E5%A3%AB%E7%95%A2%E6%A5%AD%E7%94%9F%E5%98%86%E6%90%B5%E5%B7%A5%E9%9B%A3-%E7%9B%A7%E5%AF%B5%E8%8C%82-%E6%B2%92%E6%A9%9F%E5%88%B6%E8%81%98%E8%AB%8B%E6%89%80%E6%9C%89%E7%95%A2%E6%A5%AD%E7%94%9F",
     "timestamp": "2026-09-18T11:18:47.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公開反對中美G2　頻繁提議G3　俄羅斯的喊話是宣泄還是宣戰？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5e018d3123ab170deb41f958.jpg/yImtMLcvYt46goI1hXPyKovVKYyjA8uk0AMz59ADM-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60391446/%E5%85%AC%E9%96%8B%E5%8F%8D%E5%B0%8D%E4%B8%AD%E7%BE%8Eg2-%E9%A0%BB%E7%B9%81%E6%8F%90%E8%AD%B0g3-%E4%BF%84%E7%BE%85%E6%96%AF%E7%9A%84%E5%96%8A%E8%A9%B1%E6%98%AF%E5%AE%A3%E6%B3%84%E9%82%84%E6%98%AF%E5%AE%A3%E6%88%B0",
-    "timestamp": "2026-09-18T10:53:48.757Z",
     "strategy": ".content-card__main"
   }
 ];
