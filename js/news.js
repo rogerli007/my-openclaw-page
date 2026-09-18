@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T01:17:56.987Z
+// Last updated: 2026-09-18T01:41:38.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杏花邨謀殺｜53歲主婦身中多刀斃命　夫被控以一項謀殺　今早提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177220827297353728625487.jpeg/q43KCXz76V3h2KqSL0_NQ_NHpIvc8pa6SwmMQksJjEI?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391192/%E6%9D%8F%E8%8A%B1%E9%82%A8%E8%AC%80%E6%AE%BA-53%E6%AD%B2%E4%B8%BB%E5%A9%A6%E8%BA%AB%E4%B8%AD%E5%A4%9A%E5%88%80%E6%96%83%E5%91%BD-%E5%A4%AB%E8%A2%AB%E6%8E%A7%E4%BB%A5%E4%B8%80%E9%A0%85%E8%AC%80%E6%AE%BA-%E4%BB%8A%E6%97%A9%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-09-18T01:41:38.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼列車門夾貓尾！橘貓慘叫掙扎求生險斷尾　暖男神救援獲激讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177427765910048768864025.jpeg/c9M7f72kddxMMleOKqat-oWK48kGhSAwU9PwoVPT8KE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391161/%E6%A2%85%E5%95%9F%E6%98%8E%E5%94%94%E8%AA%8D%E4%BF%82%E5%BB%A2%E7%94%B7-%E5%A0%85%E7%A8%B1%E4%BE%84%E4%BB%94%E5%85%88%E4%BF%82%E5%BB%A2%E4%BA%BA%E7%94%B1%E7%B4%B0%E5%88%B0%E5%A4%A7%E9%A3%9F%E6%A2%85%E5%AA%BD-%E4%BE%9D%E5%AE%B6%E5%9A%9F%E8%AC%80",
     "timestamp": "2026-09-17T18:47:17.042Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟擬限制15歲以下用社交媒體　13歲以下禁開帳號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1862546/org/1d660295efb9fba431f4752dc8bcb7e6.jpg/RfTEaSX3lVHyZPmmj8D2g0fR8KyPjWuRwLLbL8Cy2y8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391159/%E6%AD%90%E7%9B%9F%E6%93%AC%E9%99%90%E5%88%B615%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94-13%E6%AD%B2%E4%BB%A5%E4%B8%8B%E7%A6%81%E9%96%8B%E5%B8%B3%E8%99%9F",
-    "timestamp": "2026-09-17T18:24:13.856Z",
     "strategy": ".content-card__main"
   }
 ];
