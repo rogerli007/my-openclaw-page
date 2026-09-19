@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T12:56:11.237Z
+// Last updated: 2026-09-19T13:30:56.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀彌敦道七人車疑避車剷安全島　網謔：江若琳彎又開彩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178086495752294400518042.jpeg/LFjjbeZJ5IxCMhDA6EKFzv-OgPgbYX0wV9TkwVfU5ME?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391661/%E5%B0%96%E6%B2%99%E5%92%80%E5%BD%8C%E6%95%A6%E9%81%93%E4%B8%83%E4%BA%BA%E8%BB%8A%E7%96%91%E9%81%BF%E8%BB%8A%E5%89%B7%E5%AE%89%E5%85%A8%E5%B3%B6-%E7%B6%B2%E8%AC%94-%E6%B1%9F%E8%8B%A5%E7%90%B3%E5%BD%8E%E5%8F%88%E9%96%8B%E5%BD%A9",
+    "timestamp": "2026-09-19T13:30:56.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈里王子42歲生日英國王室零祝賀！英媒揭白金漢宮冷處理真實原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177948824119808000891346.jpeg/bJNpbdlbNdtqsu227tYCzLTGgIdWD5oCLWULfi1lC34?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391507/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%89%8B%E7%90%83-%E6%B8%AF%E5%A5%B3%E9%9A%8A%E9%A6%96%E6%88%B0%E9%9B%A3%E7%A0%B4%E9%AB%98%E7%89%86%E8%B2%A0%E9%9F%93%E5%9C%8B-%E5%86%80%E7%88%AD%E6%B0%A3%E8%AD%89%E6%95%B4%E9%AB%94%E9%80%B2%E6%AD%A5",
     "timestamp": "2026-09-19T05:44:22.255Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告｜陳美寶料最快10月實施粵艇南下　數十內地船長完成考核",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160566247516147712342809.jpeg/0rBDcwF8PDM3WLwvJQNbXF4yBb7aV1L0wH9C6OV_Qug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391571/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%99%B3%E7%BE%8E%E5%AF%B6%E6%96%99%E6%9C%80%E5%BF%AB10%E6%9C%88%E5%AF%A6%E6%96%BD%E7%B2%B5%E8%89%87%E5%8D%97%E4%B8%8B-%E6%95%B8%E5%8D%81%E5%85%A7%E5%9C%B0%E8%88%B9%E9%95%B7%E5%AE%8C%E6%88%90%E8%80%83%E6%A0%B8",
-    "timestamp": "2026-09-19T05:32:17.878Z",
     "strategy": ".content-card__main"
   }
 ];
