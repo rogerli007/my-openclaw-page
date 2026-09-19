@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T12:25:54.675Z
+// Last updated: 2026-09-19T12:46:44.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西藏泥石流｜應急管理部：死亡失踪592人，災情正進一步核查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171842955627991040342910.jpeg/Sf1uhpOr5wrT4ujAHID4l5LWThEOlXmbTNdQgkzXUII?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391657/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%87%89%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8-%E6%AD%BB%E4%BA%A1%E5%A4%B1%E8%B8%AA592%E4%BA%BA-%E7%81%BD%E6%83%85%E6%AD%A3%E9%80%B2%E4%B8%80%E6%AD%A5%E6%A0%B8%E6%9F%A5",
+    "timestamp": "2026-09-19T12:46:44.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運開幕｜沈曉榆偕楊博文持旗進場　緊張仍享受壯觀場面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177681405883191296298750.jpeg/vjzBAydz_Tj_YBd0hmoYR09mvEiAiDTw6-aZo-vmmaM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391339/%E6%85%88%E9%9B%B2%E5%B1%B1%E9%81%8A%E6%A8%82%E5%A0%B4%E6%94%80%E7%88%AC%E8%A8%AD%E6%96%BD%E9%80%A0%E5%9E%8B%E6%83%B9%E8%AD%B0-%E7%B6%B2%E6%B0%91%E5%98%B2%E4%BC%BC%E5%A4%A7%E4%BE%BF-%E8%87%B4%E6%95%AChyrox%E4%BA%8B%E4%BB%B6",
     "timestamp": "2026-09-19T05:19:00.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam直擊呈祥道紅Van甩泵把　跌落面成障礙物　網民：Mario賽車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177076238515179520849371.png/ODe2sUGgKba7trmVIpOdLiW9K46XgykHFyRjHxckYx8",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390767/%E8%BB%8Acam%E7%9B%B4%E6%93%8A%E5%91%88%E7%A5%A5%E9%81%93%E7%B4%85van%E7%94%A9%E6%B3%B5%E6%8A%8A-%E8%B7%8C%E8%90%BD%E9%9D%A2%E6%88%90%E9%9A%9C%E7%A4%99%E7%89%A9-%E7%B6%B2%E6%B0%91-mario%E8%B3%BD%E8%BB%8A",
-    "timestamp": "2026-09-19T04:22:16.476Z",
     "strategy": ".content-card__main"
   }
 ];
