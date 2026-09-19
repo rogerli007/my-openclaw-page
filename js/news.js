@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T19:54:02.759Z
+// Last updated: 2026-09-19T20:19:08.164Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海怡半島單位高空墮鋁窗　跌落行人路玻璃碎片四散　無人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178189618466525184587692.jpeg/m-LnEQTaDntseBNcBB8d4_yJAtjQIn2PVUDGXVVAxl0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391701/%E6%B5%B7%E6%80%A1%E5%8D%8A%E5%B3%B6%E5%96%AE%E4%BD%8D%E9%AB%98%E7%A9%BA%E5%A2%AE%E9%8B%81%E7%AA%97-%E8%B7%8C%E8%90%BD%E8%A1%8C%E4%BA%BA%E8%B7%AF%E7%8E%BB%E7%92%83%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-09-19T20:19:08.164Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗女子昏迷無呼吸脈搏送院搶救　旁邊有一輛單車　警到場調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178085197191581696893401.jpeg/eg3cA51ikORSGyCeoJjO-NWSD4hYUXI1HV0Xyx1dF8s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391659/%E8%83%A1%E5%AD%90%E5%BD%A4%E7%9B%B8%E9%9A%9412%E5%B9%B4%E5%86%8D%E6%88%B0%E4%BA%9E%E9%81%8B-%E7%99%BB%E6%B8%AF%E9%9A%8A%E5%A4%A7%E5%B7%B4%E7%8D%B2%E9%9A%8A%E5%8F%8B%E6%AD%A1%E5%91%BC%E5%8F%AB%E5%A4%A7%E6%98%8E%E6%98%9F",
     "timestamp": "2026-09-19T13:42:54.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀彌敦道七人車疑避車剷安全島　網謔：江若琳彎又開彩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178086495752294400518042.jpeg/LFjjbeZJ5IxCMhDA6EKFzv-OgPgbYX0wV9TkwVfU5ME?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391661/%E5%B0%96%E6%B2%99%E5%92%80%E5%BD%8C%E6%95%A6%E9%81%93%E4%B8%83%E4%BA%BA%E8%BB%8A%E7%96%91%E9%81%BF%E8%BB%8A%E5%89%B7%E5%AE%89%E5%85%A8%E5%B3%B6-%E7%B6%B2%E8%AC%94-%E6%B1%9F%E8%8B%A5%E7%90%B3%E5%BD%8E%E5%8F%88%E9%96%8B%E5%BD%A9",
-    "timestamp": "2026-09-19T13:30:56.987Z",
     "strategy": ".content-card__main"
   }
 ];
