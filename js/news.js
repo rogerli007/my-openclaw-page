@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T19:25:10.910Z
+// Last updated: 2026-09-19T19:42:32.099Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗女子昏迷無呼吸脈搏送院搶救　旁邊有一輛單車　警到場調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178184720681275392685712.jpeg/_6ijs4ci6ecsi0rptn78BmNyQRwModTbgeKIHLviiBw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391697/%E5%85%83%E6%9C%97%E5%A5%B3%E5%AD%90%E6%98%8F%E8%BF%B7%E7%84%A1%E5%91%BC%E5%90%B8%E8%84%88%E6%90%8F%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E6%97%81%E9%82%8A%E6%9C%89%E4%B8%80%E8%BC%9B%E5%96%AE%E8%BB%8A-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-09-19T19:42:32.099Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國法官擬拒TikTok私隱和解部份條款　4億美元協議遇阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178048919528017920876459.png/cqDqYYJozQ_iWHTweP2Xn9GnWT3Bd8TQ_xlAuv8ZQLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391593/%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%9042%E6%AD%B2%E7%94%9F%E6%97%A5%E8%8B%B1%E5%9C%8B%E7%8E%8B%E5%AE%A4%E9%9B%B6%E7%A5%9D%E8%B3%80-%E8%8B%B1%E5%AA%92%E6%8F%AD%E7%99%BD%E9%87%91%E6%BC%A2%E5%AE%AE%E5%86%B7%E8%99%95%E7%90%86%E7%9C%9F%E5%AF%A6%E5%8E%9F%E5%9B%A0",
     "timestamp": "2026-09-19T12:56:11.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西藏泥石流｜應急管理部：死亡失踪592人，災情正進一步核查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171842955627991040342910.jpeg/Sf1uhpOr5wrT4ujAHID4l5LWThEOlXmbTNdQgkzXUII?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391657/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%87%89%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8-%E6%AD%BB%E4%BA%A1%E5%A4%B1%E8%B8%AA592%E4%BA%BA-%E7%81%BD%E6%83%85%E6%AD%A3%E9%80%B2%E4%B8%80%E6%AD%A5%E6%A0%B8%E6%9F%A5",
-    "timestamp": "2026-09-19T12:46:44.463Z",
     "strategy": ".content-card__main"
   }
 ];
