@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T03:46:02.468Z
+// Last updated: 2026-09-19T04:22:16.476Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam直擊呈祥道紅Van甩泵把　跌落面成障礙物　網民：Mario賽車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177076238515179520849371.png/ODe2sUGgKba7trmVIpOdLiW9K46XgykHFyRjHxckYx8",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390767/%E8%BB%8Acam%E7%9B%B4%E6%93%8A%E5%91%88%E7%A5%A5%E9%81%93%E7%B4%85van%E7%94%A9%E6%B3%B5%E6%8A%8A-%E8%B7%8C%E8%90%BD%E9%9D%A2%E6%88%90%E9%9A%9C%E7%A4%99%E7%89%A9-%E7%B6%B2%E6%B0%91-mario%E8%B3%BD%E8%BB%8A",
+    "timestamp": "2026-09-19T04:22:16.476Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "四川攀枝花鹽邊縣爆發泥石流5人失蹤　多部門趕赴現場搜救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
     "timestamp": "2026-09-18T19:40:36.985Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯合國報告：烏克蘭衝突普遍性暴力　89%歸咎俄羅斯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156745501580726272806592.jpeg/qd9YjCcCCN8eseEQdKJ8LiLg5NXt1d4vzgq8_M4KvPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391512/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E8%A1%9D%E7%AA%81%E6%99%AE%E9%81%8D%E6%80%A7%E6%9A%B4%E5%8A%9B-89-%E6%AD%B8%E5%92%8E%E4%BF%84%E7%BE%85%E6%96%AF",
-    "timestamp": "2026-09-18T19:18:03.087Z",
     "strategy": ".content-card__main"
   }
 ];
