@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T09:54:06.940Z
+// Last updated: 2026-09-19T10:30:45.113Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華設靈｜北角弔唁處續有市民悼念　曾共事員工：董生教我好多",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178024117169819648780321.jpeg/6UqPXXoC6wDPK4vlIaUa1-BwgVHNj8Rcb21SLUptUi0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391625/%E8%91%A3%E5%BB%BA%E8%8F%AF%E8%A8%AD%E9%9D%88-%E5%8C%97%E8%A7%92%E5%BC%94%E5%94%81%E8%99%95%E7%BA%8C%E6%9C%89%E5%B8%82%E6%B0%91%E6%82%BC%E5%BF%B5-%E6%9B%BE%E5%85%B1%E4%BA%8B%E5%93%A1%E5%B7%A5-%E8%91%A3%E7%94%9F%E6%95%99%E6%88%91%E5%A5%BD%E5%A4%9A",
+    "timestamp": "2026-09-19T10:30:45.113Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會｜康文署18區設觀賞站邀市民為運動員打氣　今起開放至10.4",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110367118508953600154206.jpeg/UNtWe-g1FYo9RidUA7aFm7wyxsT0OU_Arc23PK3Ntzw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391536/%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E4%BD%95%E7%AB%8B%E5%B3%B0%E7%8E%87%E5%9C%98%E8%A8%AA%E7%BE%8E-%E9%80%B2%E8%A1%8C%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86",
     "timestamp": "2026-09-19T01:39:11.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳彥祖宣布創立傢俱品牌再拓展事業版圖　首款設計產品曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177710613883785216965370.jpeg/bTwCj9zWfycCZSIyJBoI94QAFgDFatvgPoPRsD6D0bA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391295/%E5%90%B3%E5%BD%A5%E7%A5%96%E5%AE%A3%E5%B8%83%E5%89%B5%E7%AB%8B%E5%82%A2%E4%BF%B1%E5%93%81%E7%89%8C%E5%86%8D%E6%8B%93%E5%B1%95%E4%BA%8B%E6%A5%AD%E7%89%88%E5%9C%96-%E9%A6%96%E6%AC%BE%E8%A8%AD%E8%A8%88%E7%94%A2%E5%93%81%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-09-19T01:14:33.150Z",
     "strategy": ".content-card__main"
   }
 ];
