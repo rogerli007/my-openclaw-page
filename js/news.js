@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T22:54:10.013Z
+// Last updated: 2026-09-19T23:44:00.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "利雅得機場附近冒濃煙火光　胡塞武裝：襲沙特阿拉伯首都敏感目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178061022267969536041982.jpeg/e94NCpNkOKLFjzs-NAgIFa71neb4UlS1j0gwSo9IMEo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391709/%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%99%84%E8%BF%91%E5%86%92%E6%BF%83%E7%85%99%E7%81%AB%E5%85%89-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D-%E8%A5%B2%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E9%A6%96%E9%83%BD%E6%95%8F%E6%84%9F%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-09-19T23:44:00.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔道貨車收慢U-turn　私家車煞車不及直插貨車車尾　司機受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391685/%E4%BC%8A%E6%9C%97-%E5%B7%B2%E5%90%91%E8%AA%BF%E8%A7%A3%E6%96%B9%E5%82%B3%E9%81%94%E5%BE%A9%E8%AB%87%E6%A2%9D%E4%BB%B6-%E4%BF%83%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E8%A7%A3%E5%87%8D%E8%B3%87%E9%87%91",
     "timestamp": "2026-09-19T16:19:48.791Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全球不平衡　林毅夫：82%需求疲軟，不可能靠18%的需求旺盛彌補",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211115/536922317549211648106879.jpeg/OeyeqqyLhZqRetmOX1jwqR_0UiwB2A71mf6UZpn-lGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391681/%E5%85%A8%E7%90%83%E4%B8%8D%E5%B9%B3%E8%A1%A1-%E6%9E%97%E6%AF%85%E5%A4%AB-82-%E9%9C%80%E6%B1%82%E7%96%B2%E8%BB%9F-%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%9D%A018-%E7%9A%84%E9%9C%80%E6%B1%82%E6%97%BA%E7%9B%9B%E5%BD%8C%E8%A3%9C",
-    "timestamp": "2026-09-19T15:54:18.014Z",
     "strategy": ".content-card__main"
   }
 ];
