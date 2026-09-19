@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T21:54:06.753Z
+// Last updated: 2026-09-19T22:40:51.246Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜日間酷熱　市區最高氣溫33度　中秋正日翌日局部地區有驟雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178224557526355968170864.jpeg/2cQbPTnZ4-xov_UdCtOq-zxV40LKIWU_bOGMvFbhjLw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60391707/%E5%A4%A9%E6%B0%A3-%E6%97%A5%E9%96%93%E9%85%B7%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB33%E5%BA%A6-%E4%B8%AD%E7%A7%8B%E6%AD%A3%E6%97%A5%E7%BF%8C%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8",
+    "timestamp": "2026-09-19T22:40:51.246Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國財長貝森特今與何立峰會談　選址摩根大通總部",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178080315017531392493850.jpeg/AUTC8-KmlcSIVatpiNVDYn4kVuTGojZTleT1fpXk9X4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391658/%E4%BC%8D%E6%A8%82%E6%80%A1%E5%BA%A6%E5%81%87%E5%A4%A7%E6%9B%AC%E7%81%AB%E8%BE%A3%E6%AF%94%E5%A0%85%E5%B0%BC-%E9%9B%A2%E5%B7%A2%E8%BD%89%E6%88%B0%E7%A7%91%E6%8A%80%E7%95%8C%E6%88%90%E5%8A%9F%E8%9E%8D%E8%B3%871-3%E5%84%84%E6%B8%AF%E5%85%83",
     "timestamp": "2026-09-19T15:41:01.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何雁詩稱絕非「棄子」打麻雀屬正常社交　減少分享生活：少提為妙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178121238615166976826413.jpeg/DXdOF-vnNFID25mqQWlAVomOfQFk-jywaC70pmgu9KY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391679/%E4%BD%95%E9%9B%81%E8%A9%A9%E7%A8%B1%E7%B5%95%E9%9D%9E-%E6%A3%84%E5%AD%90-%E6%89%93%E9%BA%BB%E9%9B%80%E5%B1%AC%E6%AD%A3%E5%B8%B8%E7%A4%BE%E4%BA%A4-%E6%B8%9B%E5%B0%91%E5%88%86%E4%BA%AB%E7%94%9F%E6%B4%BB-%E5%B0%91%E6%8F%90%E7%82%BA%E5%A6%99",
-    "timestamp": "2026-09-19T15:29:31.176Z",
     "strategy": ".content-card__main"
   }
 ];
