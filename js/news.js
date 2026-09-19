@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T15:41:01.134Z
+// Last updated: 2026-09-19T15:54:18.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全球不平衡　林毅夫：82%需求疲軟，不可能靠18%的需求旺盛彌補",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211115/536922317549211648106879.jpeg/OeyeqqyLhZqRetmOX1jwqR_0UiwB2A71mf6UZpn-lGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391681/%E5%85%A8%E7%90%83%E4%B8%8D%E5%B9%B3%E8%A1%A1-%E6%9E%97%E6%AF%85%E5%A4%AB-82-%E9%9C%80%E6%B1%82%E7%96%B2%E8%BB%9F-%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%9D%A018-%E7%9A%84%E9%9C%80%E6%B1%82%E6%97%BA%E7%9B%9B%E5%BD%8C%E8%A3%9C",
+    "timestamp": "2026-09-19T15:54:18.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伍樂怡度假大曬火辣比堅尼　離巢轉戰科技界成功融資1.3億港元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171807798153973760369145.jpeg/_L4c9tFid0h4V_wXIDPPO2CGp6zOERUKmLeMdJi3jHQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60383297/%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%89%B9%E5%AE%9A%E6%99%82%E6%AE%B5%E8%A1%80%E5%A3%93%E9%A3%86%E5%8D%87-%E9%86%AB%E8%AD%A6%E6%83%95%E5%85%A7%E5%88%86%E6%B3%8C%E9%AB%98%E8%A1%80%E5%A3%93-%E5%97%9C%E9%89%BB%E7%B4%B0%E8%83%9E%E7%98%A4%E8%A7%A3%E6%9E%90",
     "timestamp": "2026-09-19T09:22:32.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世｜靈堂曝光　歷屆特首到場致祭　大批政商界名人送別",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178013570818904064026893.jpeg/X3rbLdN-J-_3VkkPR-Jvd6bnW6OUNXUBqEtLsahLS7E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391589/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E9%9D%88%E5%A0%82%E6%9B%9D%E5%85%89-%E6%AD%B7%E5%B1%86%E7%89%B9%E9%A6%96%E5%88%B0%E5%A0%B4%E8%87%B4%E7%A5%AD-%E5%A4%A7%E6%89%B9%E6%94%BF%E5%95%86%E7%95%8C%E5%90%8D%E4%BA%BA%E9%80%81%E5%88%A5",
-    "timestamp": "2026-09-19T08:53:50.027Z",
     "strategy": ".content-card__main"
   }
 ];
