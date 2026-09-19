@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T05:19:00.918Z
+// Last updated: 2026-09-19T05:32:17.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜陳美寶料最快10月實施粵艇南下　數十內地船長完成考核",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260802/1160566247516147712342809.jpeg/0rBDcwF8PDM3WLwvJQNbXF4yBb7aV1L0wH9C6OV_Qug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391571/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E9%99%B3%E7%BE%8E%E5%AF%B6%E6%96%99%E6%9C%80%E5%BF%AB10%E6%9C%88%E5%AF%A6%E6%96%BD%E7%B2%B5%E8%89%87%E5%8D%97%E4%B8%8B-%E6%95%B8%E5%8D%81%E5%85%A7%E5%9C%B0%E8%88%B9%E9%95%B7%E5%AE%8C%E6%88%90%E8%80%83%E6%A0%B8",
+    "timestamp": "2026-09-19T05:32:17.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慈雲山遊樂場攀爬設施造型惹議！網民嘲似大便：致敬Hyrox事件？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
     "timestamp": "2026-09-18T20:19:49.963Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
-    "timestamp": "2026-09-18T19:55:06.878Z",
     "strategy": ".content-card__main"
   }
 ];
