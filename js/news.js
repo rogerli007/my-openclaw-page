@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T01:39:11.836Z
+// Last updated: 2026-09-19T02:00:01.587Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會在即　特朗普：與習近平關係良好　屆時將達成許多不同協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132165198929465344845610.jpeg/VfPLSGm5PsEEckNfhC2ueQjO_tDmAp3I-LeuAfi3rgE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391539/%E7%BF%92%E7%89%B9%E6%9C%83%E5%9C%A8%E5%8D%B3-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E9%97%9C%E4%BF%82%E8%89%AF%E5%A5%BD-%E5%B1%86%E6%99%82%E5%B0%87%E9%81%94%E6%88%90%E8%A8%B1%E5%A4%9A%E4%B8%8D%E5%90%8C%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-09-19T02:00:01.587Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國商務部：何立峰率團訪美　進行經貿磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/4816966/org/e0d948995b0b8b4d9c70a07131e69f19.jpg/IH8Ds-PHrBv36xhAnudiIqxUeaOH-7GfQuDHjELgx4w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391502/%E5%A8%81%E9%99%A2%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%93%9A%E6%82%89%E9%86%AB%E9%99%A2%E4%BA%8B%E5%89%8D%E7%8D%B2%E7%97%85%E4%BA%BA%E7%97%85%E6%AD%B7-%E7%96%91%E8%AD%B7%E5%A3%AB%E6%BC%8F%E7%9C%8B%E5%87%BA%E9%8C%AF",
     "timestamp": "2026-09-18T16:54:19.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "威院醫療事故｜田北辰：據悉醫院事前獲病人病歷　疑護士漏看出錯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/4816966/org/e0d948995b0b8b4d9c70a07131e69f19.jpg/IH8Ds-PHrBv36xhAnudiIqxUeaOH-7GfQuDHjELgx4w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391502/%E5%A8%81%E9%99%A2%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%93%9A%E6%82%89%E9%86%AB%E9%99%A2%E4%BA%8B%E5%89%8D%E7%8D%B2%E7%97%85%E4%BA%BA%E7%97%85%E6%AD%B7-%E7%96%91%E8%AD%B7%E5%A3%AB%E6%BC%8F%E7%9C%8B%E5%87%BA%E9%8C%AF",
-    "timestamp": "2026-09-18T16:42:46.563Z",
     "strategy": ".content-card__main"
   }
 ];
