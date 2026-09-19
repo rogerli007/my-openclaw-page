@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T13:42:54.059Z
+// Last updated: 2026-09-19T13:54:39.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜熱刺主場2：3輸波球迷無癮離場　維拉打開今季勝之門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178095982454247424049156.jpeg/z8YCH5akJlUzANtwcdZSDANmdu8mm0oTDhSKjA4Uiow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391663/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%B8%BB%E5%A0%B42-3%E8%BC%B8%E6%B3%A2%E7%90%83%E8%BF%B7%E7%84%A1%E7%99%AE%E9%9B%A2%E5%A0%B4-%E7%B6%AD%E6%8B%89%E6%89%93%E9%96%8B%E4%BB%8A%E5%AD%A3%E5%8B%9D%E4%B9%8B%E9%96%80",
+    "timestamp": "2026-09-19T13:54:39.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡子彤相隔12年再戰亞運　登港隊大巴獲隊友歡呼叫大明星",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177961317441474560753901.jpeg/V9k4EFYZivu9s-41f0fOwggNv24-3nJYxjLP6MYyz-g",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391566/%E6%9C%89%E7%89%87-%E6%B7%B1%E5%9C%B3%E7%A0%94%E7%99%BC%E8%BC%89%E4%BA%BAufo%E7%BE%A9%E7%83%8F%E9%96%8B%E5%94%AE%E8%B3%A3-80%E8%90%AC-%E5%8F%AF%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E7%8D%B21-2%E5%84%84%E8%A8%82%E5%96%AE",
     "timestamp": "2026-09-19T06:51:49.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗傷人案．內情｜美容師疑盜前僱主文件　另起爐灶掀糾紛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177984547447377920471532.jpeg/Shyutu49LDske0k16HoPvMoOmCwRfhc8YZS7xGGUu8Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391535/%E5%85%83%E6%9C%97%E5%82%B7%E4%BA%BA%E6%A1%88-%E5%85%A7%E6%83%85-%E7%BE%8E%E5%AE%B9%E5%B8%AB%E7%96%91%E7%9B%9C%E5%89%8D%E5%83%B1%E4%B8%BB%E6%96%87%E4%BB%B6-%E5%8F%A6%E8%B5%B7%E7%88%90%E7%81%B6%E6%8E%80%E7%B3%BE%E7%B4%9B",
-    "timestamp": "2026-09-19T06:31:52.726Z",
     "strategy": ".content-card__main"
   }
 ];
