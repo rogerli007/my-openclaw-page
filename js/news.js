@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T15:29:31.176Z
+// Last updated: 2026-09-19T15:41:01.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伍樂怡度假大曬火辣比堅尼　離巢轉戰科技界成功融資1.3億港元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178080315017531392493850.jpeg/AUTC8-KmlcSIVatpiNVDYn4kVuTGojZTleT1fpXk9X4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391658/%E4%BC%8D%E6%A8%82%E6%80%A1%E5%BA%A6%E5%81%87%E5%A4%A7%E6%9B%AC%E7%81%AB%E8%BE%A3%E6%AF%94%E5%A0%85%E5%B0%BC-%E9%9B%A2%E5%B7%A2%E8%BD%89%E6%88%B0%E7%A7%91%E6%8A%80%E7%95%8C%E6%88%90%E5%8A%9F%E8%9E%8D%E8%B3%871-3%E5%84%84%E6%B8%AF%E5%85%83",
+    "timestamp": "2026-09-19T15:41:01.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何雁詩稱絕非「棄子」打麻雀屬正常社交　減少分享生活：少提為妙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178013570818904064026893.jpeg/X3rbLdN-J-_3VkkPR-Jvd6bnW6OUNXUBqEtLsahLS7E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391589/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E9%9D%88%E5%A0%82%E6%9B%9D%E5%85%89-%E6%AD%B7%E5%B1%86%E7%89%B9%E9%A6%96%E5%88%B0%E5%A0%B4%E8%87%B4%E7%A5%AD-%E5%A4%A7%E6%89%B9%E6%94%BF%E5%95%86%E7%95%8C%E5%90%8D%E4%BA%BA%E9%80%81%E5%88%A5",
     "timestamp": "2026-09-19T08:53:50.027Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華逝世｜靈堂曝光　歷屆特首到場致祭　大批政商界名人送別",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178013570818904064026893.jpeg/X3rbLdN-J-_3VkkPR-Jvd6bnW6OUNXUBqEtLsahLS7E?v=w1920",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391589/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E9%9D%88%E5%A0%82%E6%9B%9D%E5%85%89-%E6%AD%B7%E5%B1%86%E7%89%B9%E9%A6%96%E5%88%B0%E5%A0%B4%E8%87%B4%E7%A5%AD-%E5%A4%A7%E6%89%B9%E6%94%BF%E5%95%86%E7%95%8C%E5%90%8D%E4%BA%BA%E9%80%81%E5%88%A5",
-    "timestamp": "2026-09-19T08:44:48.494Z",
     "strategy": ".content-card__main"
   }
 ];
