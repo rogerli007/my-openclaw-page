@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T10:30:45.113Z
+// Last updated: 2026-09-19T10:47:23.717Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肥媽被梅啟明叫「收皮」　寸爆回應：「經」就收咗，「期」就未收",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178036535652519936749526.jpeg/63jlYFc4HP3KF_4SrvT7cT1h0JTYON02EdjDFiTYwxY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391629/%E8%82%A5%E5%AA%BD%E8%A2%AB%E6%A2%85%E5%95%9F%E6%98%8E%E5%8F%AB-%E6%94%B6%E7%9A%AE-%E5%AF%B8%E7%88%86%E5%9B%9E%E6%87%89-%E7%B6%93-%E5%B0%B1%E6%94%B6%E5%92%97-%E6%9C%9F-%E5%B0%B1%E6%9C%AA%E6%94%B6",
+    "timestamp": "2026-09-19T10:47:23.717Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華設靈｜北角弔唁處續有市民悼念　曾共事員工：董生教我好多",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132165198929465344845610.jpeg/VfPLSGm5PsEEckNfhC2ueQjO_tDmAp3I-LeuAfi3rgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391539/%E7%BF%92%E7%89%B9%E6%9C%83%E5%9C%A8%E5%8D%B3-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E9%97%9C%E4%BF%82%E8%89%AF%E5%A5%BD-%E5%B1%86%E6%99%82%E5%B0%87%E9%81%94%E6%88%90%E8%A8%B1%E5%A4%9A%E4%B8%8D%E5%90%8C%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-09-19T02:00:01.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國商務部：何立峰率團訪美　進行經貿磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260317/1110367118508953600154206.jpeg/UNtWe-g1FYo9RidUA7aFm7wyxsT0OU_Arc23PK3Ntzw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391536/%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E4%BD%95%E7%AB%8B%E5%B3%B0%E7%8E%87%E5%9C%98%E8%A8%AA%E7%BE%8E-%E9%80%B2%E8%A1%8C%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-09-19T01:39:11.836Z",
     "strategy": ".content-card__main"
   }
 ];
