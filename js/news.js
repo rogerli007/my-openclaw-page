@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-18T23:31:15.497Z
+// Last updated: 2026-09-19T00:47:11.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前TVB女星老公曬湊仔日常曝光跑馬地豪宅車庫　頂級超跑陣極奢華",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177697288890355712208765.jpeg/VVWZDR3B1hrYGdQdhb3wZRiYD2AXSFQXaW-rgWlvq4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391070/%E6%A2%81%E9%9D%96%E7%90%AA%E8%80%81%E5%85%AC%E5%88%86%E4%BA%AB%E6%B9%8A%E4%BB%94%E6%97%A5%E5%B8%B8%E6%9B%9D%E5%85%89%E8%B7%91%E9%A6%AC%E5%9C%B0%E8%B1%AA%E5%AE%85%E8%BB%8A%E5%BA%AB-%E9%A0%82%E7%B4%9A%E8%B6%85%E8%B7%91%E9%99%A3%E6%A5%B5%E5%A5%A2%E8%8F%AF",
+    "timestamp": "2026-09-19T00:47:11.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國丹麥達成格陵蘭協議　美軍可駐紮　禁對手設基地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177746607181926400045678.jpeg/7S_DB1tiLOJfsZAardZhnVwgUFDLPz053UkbP-dJGz8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391488/%E9%83%AD%E7%8F%AE%E6%96%87%E5%89%8D%E7%94%B7%E5%8F%8B%E8%A2%AB%E6%89%B9%E5%80%9F%E5%A5%B3%E6%96%B9%E7%86%B1%E5%BA%A6%E6%8D%A7%E8%87%AA%E5%B7%B1-%E6%9B%BE%E5%B1%95%E6%9C%9B-%E5%94%94%E6%96%B9%E4%BE%BF%E8%A9%95%E8%AB%96",
     "timestamp": "2026-09-18T15:45:38.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬來西亞前首相納吉布獲特赦　改居家服刑　須繳清9600萬罰款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240202/830127626956836864053124.jpeg/L6rhVh8Nl7d05FJbdtQp-HdrcOovH203CRa65wkWuuc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391496/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E5%89%8D%E9%A6%96%E7%9B%B8%E7%B4%8D%E5%90%89%E5%B8%83%E7%8D%B2%E7%89%B9%E8%B5%A6-%E6%94%B9%E5%B1%85%E5%AE%B6%E6%9C%8D%E5%88%91-%E9%A0%88%E7%B9%B3%E6%B8%859600%E8%90%AC%E7%BD%B0%E6%AC%BE",
-    "timestamp": "2026-09-18T15:33:42.589Z",
     "strategy": ".content-card__main"
   }
 ];
