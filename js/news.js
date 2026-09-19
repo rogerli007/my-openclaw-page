@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T07:20:30.834Z
+// Last updated: 2026-09-19T08:23:40.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "駿傑集團發展持續穩中求進　投資價值不可忽視｜聶振邦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178010744394878976142863.jpeg/Wfo2VFNFt6PhMV08K_9g4o9ZD6TufGBhtrg4Q7a4OEM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391598/%E9%A7%BF%E5%82%91%E9%9B%86%E5%9C%98%E7%99%BC%E5%B1%95%E6%8C%81%E7%BA%8C%E7%A9%A9%E4%B8%AD%E6%B1%82%E9%80%B2-%E6%8A%95%E8%B3%87%E5%83%B9%E5%80%BC%E4%B8%8D%E5%8F%AF%E5%BF%BD%E8%A6%96-%E8%81%B6%E6%8C%AF%E9%82%A6",
+    "timestamp": "2026-09-19T08:23:40.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關破歷來最大宗海路販毒案　泰國抵港保溫箱藏$1.25億大麻拉3人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177858468929867776851379.jpeg/WEt6UBTuFdic_swgYAmOzkB-0YXainYDk4TgHKmE4Bw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60391523/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6-%E4%B8%AD%E7%A7%8B%E6%AD%A3%E6%97%A5%E6%97%A9%E6%99%9A%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
     "timestamp": "2026-09-18T22:18:32.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社：美國財長貝森特將與何立峰會談　聚焦AI及稀土",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174352541475934208086512.jpeg/7ao6ukoiH1r6UEhQsAdD6eK99jBJtQJoTgqGwU4KhsE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391524/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%BE%8E%E5%9C%8B%E8%B2%A1%E9%95%B7%E8%B2%9D%E6%A3%AE%E7%89%B9%E5%B0%87%E8%88%87%E4%BD%95%E7%AB%8B%E5%B3%B0%E6%9C%83%E8%AB%87-%E8%81%9A%E7%84%A6ai%E5%8F%8A%E7%A8%80%E5%9C%9F",
-    "timestamp": "2026-09-18T21:54:40.010Z",
     "strategy": ".content-card__main"
   }
 ];
