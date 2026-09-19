@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T17:26:56.633Z
+// Last updated: 2026-09-19T17:54:14.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丹麥強調不損主權　特朗普：協議讓美國永久控制格陵蘭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177916230254727168581460.jpeg/wKNd4PnrqGnRnohlgOgzMD5WeVimkmaXUXELVVFxC1U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391695/%E4%B8%B9%E9%BA%A5%E5%BC%B7%E8%AA%BF%E4%B8%8D%E6%90%8D%E4%B8%BB%E6%AC%8A-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%94%E8%AD%B0%E8%AE%93%E7%BE%8E%E5%9C%8B%E6%B0%B8%E4%B9%85%E6%8E%A7%E5%88%B6%E6%A0%BC%E9%99%B5%E8%98%AD",
+    "timestamp": "2026-09-19T17:54:14.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘繞道3的士串燒相撞　5人受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178060818571333632436921.jpeg/GQ4i20jLp68NS0AwhFUF3hP6G4-C7sBtleG-eZXhvnk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391644/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%B1%A2%E8%A5%B2%E6%B2%99%E7%89%B9-%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%99%84%E8%BF%91%E5%86%92%E7%85%99",
     "timestamp": "2026-09-19T11:28:14.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曼谷抵港3內地男行李藏7公斤「零食」　海關揭為$140萬大麻花拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178048486533238784412387.jpeg/imq4yAXik13GmK0ItmhCmBIyCEK6msNyXUuhDl1LoQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391640/%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF3%E5%85%A7%E5%9C%B0%E7%94%B7%E8%A1%8C%E6%9D%8E%E8%97%8F7%E5%85%AC%E6%96%A4-%E9%9B%B6%E9%A3%9F-%E6%B5%B7%E9%97%9C%E6%8F%AD%E7%82%BA-140%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-09-19T10:54:07.532Z",
     "strategy": ".content-card__main"
   }
 ];
