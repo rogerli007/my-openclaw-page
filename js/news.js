@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T11:40:52.179Z
+// Last updated: 2026-09-19T11:56:29.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張繼聰再做監製仍緊張　韋羅莎投訴老公做導演︰我冇得收工",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178061455560282112315864.jpeg/nN5eodDC1t5FkiGJLg8lOzrdxRMkTK9KKRY_sykWP7M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391626/%E5%BC%B5%E7%B9%BC%E8%81%B0%E5%86%8D%E5%81%9A%E7%9B%A3%E8%A3%BD%E4%BB%8D%E7%B7%8A%E5%BC%B5-%E9%9F%8B%E7%BE%85%E8%8E%8E%E6%8A%95%E8%A8%B4%E8%80%81%E5%85%AC%E5%81%9A%E5%B0%8E%E6%BC%94-%E6%88%91%E5%86%87%E5%BE%97%E6%94%B6%E5%B7%A5",
+    "timestamp": "2026-09-19T11:56:29.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭香如故|譚鬆韻遭陷害慘賣青樓　克制哭戲讚爆：無聲演技教科書",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177944018600857600725194.jpeg/9fn566dlrFgQDuoUtNHflfgk_TcCfUu73GzLatxsy2o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391557/%E5%9B%9B%E5%B7%9D%E6%94%80%E6%9E%9D%E8%8A%B1%E9%B9%BD%E9%82%8A%E7%B8%A3%E7%88%86%E7%99%BC%E6%B3%A5%E7%9F%B3%E6%B5%815%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E5%A4%9A%E9%83%A8%E9%96%80%E8%B6%95%E8%B5%B4%E7%8F%BE%E5%A0%B4%E6%90%9C%E6%95%91",
     "timestamp": "2026-09-19T03:46:02.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜銅鑼灣私家車衝紅燈險撞過路途人　網民斥危駕：遲早累死人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177239987519754240824970.jpeg/HFEjuYyjDL47KMxSjl4qSXhm6EXLEPixrCRTpawkU6U",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390742/%E6%9C%89%E7%89%87-%E9%8A%85%E9%91%BC%E7%81%A3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E%E9%81%8E%E8%B7%AF%E9%80%94%E4%BA%BA-%E7%B6%B2%E6%B0%91%E6%96%A5%E5%8D%B1%E9%A7%95-%E9%81%B2%E6%97%A9%E7%B4%AF%E6%AD%BB%E4%BA%BA",
-    "timestamp": "2026-09-19T03:23:41.731Z",
     "strategy": ".content-card__main"
   }
 ];
