@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T21:17:04.901Z
+// Last updated: 2026-09-19T21:54:06.753Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國財長貝森特今與何立峰會談　選址摩根大通總部",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174352541475934208086512.jpeg/7ao6ukoiH1r6UEhQsAdD6eK99jBJtQJoTgqGwU4KhsE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391706/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E9%95%B7%E8%B2%9D%E6%A3%AE%E7%89%B9%E4%BB%8A%E8%88%87%E4%BD%95%E7%AB%8B%E5%B3%B0%E6%9C%83%E8%AB%87-%E9%81%B8%E5%9D%80%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%E7%B8%BD%E9%83%A8",
+    "timestamp": "2026-09-19T21:54:06.753Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜灣仔17歲女天台企跳　近2小時後墮樓　送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178121238615166976826413.jpeg/DXdOF-vnNFID25mqQWlAVomOfQFk-jywaC70pmgu9KY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391679/%E4%BD%95%E9%9B%81%E8%A9%A9%E7%A8%B1%E7%B5%95%E9%9D%9E-%E6%A3%84%E5%AD%90-%E6%89%93%E9%BA%BB%E9%9B%80%E5%B1%AC%E6%AD%A3%E5%B8%B8%E7%A4%BE%E4%BA%A4-%E6%B8%9B%E5%B0%91%E5%88%86%E4%BA%AB%E7%94%9F%E6%B4%BB-%E5%B0%91%E6%8F%90%E7%82%BA%E5%A6%99",
     "timestamp": "2026-09-19T15:29:31.176Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沈芝華親手為孟小冬入殮感情極深　80歲零老花公開兩大凍齡秘訣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178021436678213632782309.jpeg/RzZncQiDIcGp-_PPFr_u1cbkz_IiKv0capixPWqYsT0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391604/%E6%B2%88%E8%8A%9D%E8%8F%AF%E8%A6%AA%E6%89%8B%E7%82%BA%E5%AD%9F%E5%B0%8F%E5%86%AC%E5%85%A5%E6%AE%AE%E6%84%9F%E6%83%85%E6%A5%B5%E6%B7%B1-80%E6%AD%B2%E9%9B%B6%E8%80%81%E8%8A%B1%E5%85%AC%E9%96%8B%E5%85%A9%E5%A4%A7%E5%87%8D%E9%BD%A1%E7%A7%98%E8%A8%A3",
-    "timestamp": "2026-09-19T14:53:36.504Z",
     "strategy": ".content-card__main"
   }
 ];
