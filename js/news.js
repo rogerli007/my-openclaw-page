@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T20:42:44.692Z
+// Last updated: 2026-09-19T21:17:04.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜灣仔17歲女天台企跳　近2小時後墮樓　送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178208794908299264827945.jpeg/CV5Yv24ZfvTevJpuJ9y7aCwcQNvhNBVIydCPG_PQjxs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391704/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%81%A3%E4%BB%9417%E6%AD%B2%E5%A5%B3%E5%A4%A9%E5%8F%B0%E4%BC%81%E8%B7%B3-%E8%BF%912%E5%B0%8F%E6%99%82%E5%BE%8C%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-19T21:17:04.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海怡半島單位高空墮鋁窗　跌落行人路玻璃碎片四散　無人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178021436678213632782309.jpeg/RzZncQiDIcGp-_PPFr_u1cbkz_IiKv0capixPWqYsT0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391604/%E6%B2%88%E8%8A%9D%E8%8F%AF%E8%A6%AA%E6%89%8B%E7%82%BA%E5%AD%9F%E5%B0%8F%E5%86%AC%E5%85%A5%E6%AE%AE%E6%84%9F%E6%83%85%E6%A5%B5%E6%B7%B1-80%E6%AD%B2%E9%9B%B6%E8%80%81%E8%8A%B1%E5%85%AC%E9%96%8B%E5%85%A9%E5%A4%A7%E5%87%8D%E9%BD%A1%E7%A7%98%E8%A8%A3",
     "timestamp": "2026-09-19T14:53:36.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港姐季軍袁文靜晒性感寫真　黑白Bra Top上陣大騷零贅肉馬甲線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178059280264204288749628.jpeg/f8fjHlFciI5mAbc76iu6wX-g4L1LSwxL2lDgCdpQ4Ak?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391643/%E6%B8%AF%E5%A7%90%E5%AD%A3%E8%BB%8D%E8%A2%81%E6%96%87%E9%9D%9C%E6%99%92%E6%80%A7%E6%84%9F%E5%AF%AB%E7%9C%9F-%E9%BB%91%E7%99%BDbra-top%E4%B8%8A%E9%99%A3%E5%A4%A7%E9%A8%B7%E9%9B%B6%E8%B4%85%E8%82%89%E9%A6%AC%E7%94%B2%E7%B7%9A",
-    "timestamp": "2026-09-19T14:30:03.431Z",
     "strategy": ".content-card__main"
   }
 ];
