@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T10:54:07.532Z
+// Last updated: 2026-09-19T11:28:14.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "也門胡塞武裝屢襲沙特　首都利雅得機場附近冒煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178060818571333632436921.jpeg/GQ4i20jLp68NS0AwhFUF3hP6G4-C7sBtleG-eZXhvnk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391644/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%B1%A2%E8%A5%B2%E6%B2%99%E7%89%B9-%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%99%84%E8%BF%91%E5%86%92%E7%85%99",
+    "timestamp": "2026-09-19T11:28:14.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曼谷抵港3內地男行李藏7公斤「零食」　海關揭為$140萬大麻花拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177683272893730816027198.jpeg/rX_B4qGgNnZpH_-m5_C9BACsOCl1A8_tHRHTTR0R000?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391444/%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%89%9B%E4%B8%80%E8%AB%8B%E5%85%A8%E7%8F%AD%E5%96%9D%E9%A3%B2%E6%96%99%E5%8D%BB%E6%B2%92%E9%8C%A2%E8%B2%B7%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BB%BD-%E8%80%81%E9%97%86%E9%9C%B8%E6%B0%A3%E8%88%89%E5%8B%95%E6%9A%96%E5%93%AD%E5%85%A8%E7%B6%B2",
     "timestamp": "2026-09-19T02:47:14.350Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告｜三層機制處理大廈糾紛　區議員：及早介入免予盾升級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251022/1057632125148336128801637.jpeg/xcPi2XsTzz1xXTWwCGmDxuBGiAjkjY0YtaI_1bWiP9U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391504/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E4%B8%89%E5%B1%A4%E6%A9%9F%E5%88%B6%E8%99%95%E7%90%86%E5%A4%A7%E5%BB%88%E7%B3%BE%E7%B4%9B-%E5%8D%80%E8%AD%B0%E5%93%A1-%E5%8F%8A%E6%97%A9%E4%BB%8B%E5%85%A5%E5%85%8D%E4%BA%88%E7%9B%BE%E5%8D%87%E7%B4%9A",
-    "timestamp": "2026-09-19T02:26:37.885Z",
     "strategy": ".content-card__main"
   }
 ];
