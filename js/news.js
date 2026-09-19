@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T04:22:16.476Z
+// Last updated: 2026-09-19T05:19:00.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慈雲山遊樂場攀爬設施造型惹議！網民嘲似大便：致敬Hyrox事件？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177681405883191296298750.jpeg/vjzBAydz_Tj_YBd0hmoYR09mvEiAiDTw6-aZo-vmmaM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391339/%E6%85%88%E9%9B%B2%E5%B1%B1%E9%81%8A%E6%A8%82%E5%A0%B4%E6%94%80%E7%88%AC%E8%A8%AD%E6%96%BD%E9%80%A0%E5%9E%8B%E6%83%B9%E8%AD%B0-%E7%B6%B2%E6%B0%91%E5%98%B2%E4%BC%BC%E5%A4%A7%E4%BE%BF-%E8%87%B4%E6%95%AChyrox%E4%BA%8B%E4%BB%B6",
+    "timestamp": "2026-09-19T05:19:00.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam直擊呈祥道紅Van甩泵把　跌落面成障礙物　網民：Mario賽車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
     "timestamp": "2026-09-18T19:55:06.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
-    "timestamp": "2026-09-18T19:40:36.985Z",
     "strategy": ".content-card__main"
   }
 ];
