@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T22:40:51.246Z
+// Last updated: 2026-09-19T22:54:10.013Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔道貨車收慢U-turn　私家車煞車不及直插貨車車尾　司機受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178228033224445952127456.jpeg/1ry8frCNodst6EkAp6Wv__2ixzpsmpPaa9HzgGvR84A",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391708/%E5%A4%A7%E5%9F%94%E9%81%93%E8%B2%A8%E8%BB%8A%E6%94%B6%E6%85%A2u-turn-%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%85%9E%E8%BB%8A%E4%B8%8D%E5%8F%8A%E7%9B%B4%E6%8F%92%E8%B2%A8%E8%BB%8A%E8%BB%8A%E5%B0%BE-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-09-19T22:54:10.013Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜日間酷熱　市區最高氣溫33度　中秋正日翌日局部地區有驟雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211115/536922317549211648106879.jpeg/OeyeqqyLhZqRetmOX1jwqR_0UiwB2A71mf6UZpn-lGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391681/%E5%85%A8%E7%90%83%E4%B8%8D%E5%B9%B3%E8%A1%A1-%E6%9E%97%E6%AF%85%E5%A4%AB-82-%E9%9C%80%E6%B1%82%E7%96%B2%E8%BB%9F-%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%9D%A018-%E7%9A%84%E9%9C%80%E6%B1%82%E6%97%BA%E7%9B%9B%E5%BD%8C%E8%A3%9C",
     "timestamp": "2026-09-19T15:54:18.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伍樂怡度假大曬火辣比堅尼　離巢轉戰科技界成功融資1.3億港元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178080315017531392493850.jpeg/AUTC8-KmlcSIVatpiNVDYn4kVuTGojZTleT1fpXk9X4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391658/%E4%BC%8D%E6%A8%82%E6%80%A1%E5%BA%A6%E5%81%87%E5%A4%A7%E6%9B%AC%E7%81%AB%E8%BE%A3%E6%AF%94%E5%A0%85%E5%B0%BC-%E9%9B%A2%E5%B7%A2%E8%BD%89%E6%88%B0%E7%A7%91%E6%8A%80%E7%95%8C%E6%88%90%E5%8A%9F%E8%9E%8D%E8%B3%871-3%E5%84%84%E6%B8%AF%E5%85%83",
-    "timestamp": "2026-09-19T15:41:01.134Z",
     "strategy": ".content-card__main"
   }
 ];
