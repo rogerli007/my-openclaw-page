@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T16:54:37.909Z
+// Last updated: 2026-09-19T17:19:33.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘繞道3的士串燒相撞　5人受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178143739663618048651409.jpeg/yxO-6P0hPK1V-DDfHi5Fk7MCx2ddt83sa4sdgGuLHYA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-5%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-19T17:19:33.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘繞道3的士串燒相撞　5人受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178036535652519936749526.jpeg/63jlYFc4HP3KF_4SrvT7cT1h0JTYON02EdjDFiTYwxY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391629/%E8%82%A5%E5%AA%BD%E8%A2%AB%E6%A2%85%E5%95%9F%E6%98%8E%E5%8F%AB-%E6%94%B6%E7%9A%AE-%E5%AF%B8%E7%88%86%E5%9B%9E%E6%87%89-%E7%B6%93-%E5%B0%B1%E6%94%B6%E5%92%97-%E6%9C%9F-%E5%B0%B1%E6%9C%AA%E6%94%B6",
     "timestamp": "2026-09-19T10:47:23.717Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華設靈｜北角弔唁處續有市民悼念　曾共事員工：董生教我好多",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178024117169819648780321.jpeg/6UqPXXoC6wDPK4vlIaUa1-BwgVHNj8Rcb21SLUptUi0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391625/%E8%91%A3%E5%BB%BA%E8%8F%AF%E8%A8%AD%E9%9D%88-%E5%8C%97%E8%A7%92%E5%BC%94%E5%94%81%E8%99%95%E7%BA%8C%E6%9C%89%E5%B8%82%E6%B0%91%E6%82%BC%E5%BF%B5-%E6%9B%BE%E5%85%B1%E4%BA%8B%E5%93%A1%E5%B7%A5-%E8%91%A3%E7%94%9F%E6%95%99%E6%88%91%E5%A5%BD%E5%A4%9A",
-    "timestamp": "2026-09-19T10:30:45.113Z",
     "strategy": ".content-card__main"
   }
 ];
