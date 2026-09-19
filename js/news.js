@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T10:47:23.717Z
+// Last updated: 2026-09-19T10:54:07.532Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曼谷抵港3內地男行李藏7公斤「零食」　海關揭為$140萬大麻花拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178048486533238784412387.jpeg/imq4yAXik13GmK0ItmhCmBIyCEK6msNyXUuhDl1LoQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391640/%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF3%E5%85%A7%E5%9C%B0%E7%94%B7%E8%A1%8C%E6%9D%8E%E8%97%8F7%E5%85%AC%E6%96%A4-%E9%9B%B6%E9%A3%9F-%E6%B5%B7%E9%97%9C%E6%8F%AD%E7%82%BA-140%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-09-19T10:54:07.532Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肥媽被梅啟明叫「收皮」　寸爆回應：「經」就收咗，「期」就未收",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251022/1057632125148336128801637.jpeg/xcPi2XsTzz1xXTWwCGmDxuBGiAjkjY0YtaI_1bWiP9U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391504/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E4%B8%89%E5%B1%A4%E6%A9%9F%E5%88%B6%E8%99%95%E7%90%86%E5%A4%A7%E5%BB%88%E7%B3%BE%E7%B4%9B-%E5%8D%80%E8%AD%B0%E5%93%A1-%E5%8F%8A%E6%97%A9%E4%BB%8B%E5%85%A5%E5%85%8D%E4%BA%88%E7%9B%BE%E5%8D%87%E7%B4%9A",
     "timestamp": "2026-09-19T02:26:37.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會在即　特朗普：與習近平關係良好　屆時將達成許多不同協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132165198929465344845610.jpeg/VfPLSGm5PsEEckNfhC2ueQjO_tDmAp3I-LeuAfi3rgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391539/%E7%BF%92%E7%89%B9%E6%9C%83%E5%9C%A8%E5%8D%B3-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E9%97%9C%E4%BF%82%E8%89%AF%E5%A5%BD-%E5%B1%86%E6%99%82%E5%B0%87%E9%81%94%E6%88%90%E8%A8%B1%E5%A4%9A%E4%B8%8D%E5%90%8C%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-09-19T02:00:01.587Z",
     "strategy": ".content-card__main"
   }
 ];
