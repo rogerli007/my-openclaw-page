@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T18:54:04.423Z
+// Last updated: 2026-09-19T19:25:10.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國法官擬拒TikTok私隱和解部份條款　4億美元協議遇阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171650551495135232128753.jpeg/ljqvJw_JxFXVS4C31lDa0S7OiXMRiaABfpIAAH6SAAA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391698/%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E6%93%AC%E6%8B%92tiktok%E7%A7%81%E9%9A%B1%E5%92%8C%E8%A7%A3%E9%83%A8%E4%BB%BD%E6%A2%9D%E6%AC%BE-4%E5%84%84%E7%BE%8E%E5%85%83%E5%8D%94%E8%AD%B0%E9%81%87%E9%98%BB",
+    "timestamp": "2026-09-19T19:25:10.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國簽制裁俄伊法案　中國商務部：反對次級制裁　保留反制權利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171842955627991040342910.jpeg/Sf1uhpOr5wrT4ujAHID4l5LWThEOlXmbTNdQgkzXUII?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391657/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%87%89%E6%80%A5%E7%AE%A1%E7%90%86%E9%83%A8-%E6%AD%BB%E4%BA%A1%E5%A4%B1%E8%B8%AA592%E4%BA%BA-%E7%81%BD%E6%83%85%E6%AD%A3%E9%80%B2%E4%B8%80%E6%AD%A5%E6%A0%B8%E6%9F%A5",
     "timestamp": "2026-09-19T12:46:44.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運開幕｜沈曉榆偕楊博文持旗進場　緊張仍享受壯觀場面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178073303680552960140698.jpeg/ZcFedF5t4bfjsUJJJ_6HhB3bkk6mlDK_3JAJg9yQCYM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391508/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E9%96%8B%E5%B9%95-%E6%B2%88%E6%9B%89%E6%A6%86%E5%81%95%E6%A5%8A%E5%8D%9A%E6%96%87%E6%8C%81%E6%97%97%E9%80%B2%E5%A0%B4-%E7%B7%8A%E5%BC%B5%E4%BB%8D%E4%BA%AB%E5%8F%97%E5%A3%AF%E8%A7%80%E5%A0%B4%E9%9D%A2",
-    "timestamp": "2026-09-19T12:25:54.675Z",
     "strategy": ".content-card__main"
   }
 ];
