@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T02:00:01.587Z
+// Last updated: 2026-09-19T02:26:37.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜三層機制處理大廈糾紛　區議員：及早介入免予盾升級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251022/1057632125148336128801637.jpeg/xcPi2XsTzz1xXTWwCGmDxuBGiAjkjY0YtaI_1bWiP9U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391504/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E4%B8%89%E5%B1%A4%E6%A9%9F%E5%88%B6%E8%99%95%E7%90%86%E5%A4%A7%E5%BB%88%E7%B3%BE%E7%B4%9B-%E5%8D%80%E8%AD%B0%E5%93%A1-%E5%8F%8A%E6%97%A9%E4%BB%8B%E5%85%A5%E5%85%8D%E4%BA%88%E7%9B%BE%E5%8D%87%E7%B4%9A",
+    "timestamp": "2026-09-19T02:26:37.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會在即　特朗普：與習近平關係良好　屆時將達成許多不同協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177786832717352960986510.jpeg/fmN3cu1CKGOXNJ3QDPn6s_-5hYSEh6jA9iIhnvYiIZ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391510/emsc-%E6%99%BA%E5%88%A9%E9%A6%96%E9%83%BD%E5%A4%A7%E9%83%BD%E6%9C%83%E5%8D%804-8%E7%B4%9A%E5%9C%B0%E9%9C%87",
     "timestamp": "2026-09-18T17:28:52.204Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "威院醫療事故｜田北辰：據悉醫院事前獲病人病歷　疑護士漏看出錯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/4816966/org/e0d948995b0b8b4d9c70a07131e69f19.jpg/IH8Ds-PHrBv36xhAnudiIqxUeaOH-7GfQuDHjELgx4w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391502/%E5%A8%81%E9%99%A2%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%93%9A%E6%82%89%E9%86%AB%E9%99%A2%E4%BA%8B%E5%89%8D%E7%8D%B2%E7%97%85%E4%BA%BA%E7%97%85%E6%AD%B7-%E7%96%91%E8%AD%B7%E5%A3%AB%E6%BC%8F%E7%9C%8B%E5%87%BA%E9%8C%AF",
-    "timestamp": "2026-09-18T16:54:19.174Z",
     "strategy": ".content-card__main"
   }
 ];
