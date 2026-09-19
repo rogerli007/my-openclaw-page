@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T18:22:06.622Z
+// Last updated: 2026-09-19T18:42:36.857Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國簽制裁俄伊法案　中國商務部：反對次級制裁　保留反制權利",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176919805140144128274389.png/hxamW9SKBcmXNkSyYwigYPgQhpror3ejXt1S6l7dUuo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391696/%E7%BE%8E%E5%9C%8B%E7%B0%BD%E5%88%B6%E8%A3%81%E4%BF%84%E4%BC%8A%E6%B3%95%E6%A1%88-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8F%8D%E5%B0%8D%E6%AC%A1%E7%B4%9A%E5%88%B6%E8%A3%81-%E4%BF%9D%E7%95%99%E5%8F%8D%E5%88%B6%E6%AC%8A%E5%88%A9",
+    "timestamp": "2026-09-19T18:42:36.857Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國簽制裁俄伊法案　中國商務部：反對次級制裁　保留反制權利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178061455560282112315864.jpeg/nN5eodDC1t5FkiGJLg8lOzrdxRMkTK9KKRY_sykWP7M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391626/%E5%BC%B5%E7%B9%BC%E8%81%B0%E5%86%8D%E5%81%9A%E7%9B%A3%E8%A3%BD%E4%BB%8D%E7%B7%8A%E5%BC%B5-%E9%9F%8B%E7%BE%85%E8%8E%8E%E6%8A%95%E8%A8%B4%E8%80%81%E5%85%AC%E5%81%9A%E5%B0%8E%E6%BC%94-%E6%88%91%E5%86%87%E5%BE%97%E6%94%B6%E5%B7%A5",
     "timestamp": "2026-09-19T11:56:29.068Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭香如故|譚鬆韻遭陷害慘賣青樓　克制哭戲讚爆：無聲演技教科書",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177968114218831872179862.png/ibYzNcOpvWkFI6xkMqalZ6dUTZVAStVo8ynrv_Mp678?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60391546/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E8%AD%9A%E9%AC%86%E9%9F%BB%E9%81%AD%E9%99%B7%E5%AE%B3%E6%85%98%E8%B3%A3%E9%9D%92%E6%A8%93-%E5%85%8B%E5%88%B6%E5%93%AD%E6%88%B2%E8%AE%9A%E7%88%86-%E7%84%A1%E8%81%B2%E6%BC%94%E6%8A%80%E6%95%99%E7%A7%91%E6%9B%B8",
-    "timestamp": "2026-09-19T11:40:52.179Z",
     "strategy": ".content-card__main"
   }
 ];
