@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T08:23:40.981Z
+// Last updated: 2026-09-19T08:44:48.494Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華逝世｜靈堂曝光　歷屆特首到場致祭　大批政商界名人送別",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178013570818904064026893.jpeg/X3rbLdN-J-_3VkkPR-Jvd6bnW6OUNXUBqEtLsahLS7E?v=w1920",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391589/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E9%9D%88%E5%A0%82%E6%9B%9D%E5%85%89-%E6%AD%B7%E5%B1%86%E7%89%B9%E9%A6%96%E5%88%B0%E5%A0%B4%E8%87%B4%E7%A5%AD-%E5%A4%A7%E6%89%B9%E6%94%BF%E5%95%86%E7%95%8C%E5%90%8D%E4%BA%BA%E9%80%81%E5%88%A5",
+    "timestamp": "2026-09-19T08:44:48.494Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "駿傑集團發展持續穩中求進　投資價值不可忽視｜聶振邦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177858468929867776851379.jpeg/WEt6UBTuFdic_swgYAmOzkB-0YXainYDk4TgHKmE4Bw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60391523/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6-%E4%B8%AD%E7%A7%8B%E6%AD%A3%E6%97%A5%E6%97%A9%E6%99%9A%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
     "timestamp": "2026-09-18T22:31:20.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日日間炎熱　市區最高氣溫32度　中秋正日早晚一兩陣微雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177858468929867776851379.jpeg/WEt6UBTuFdic_swgYAmOzkB-0YXainYDk4TgHKmE4Bw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60391523/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB32%E5%BA%A6-%E4%B8%AD%E7%A7%8B%E6%AD%A3%E6%97%A5%E6%97%A9%E6%99%9A%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
-    "timestamp": "2026-09-18T22:18:32.511Z",
     "strategy": ".content-card__main"
   }
 ];
