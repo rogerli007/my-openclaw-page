@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T02:26:37.885Z
+// Last updated: 2026-09-19T02:47:14.350Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小學生牛一請全班喝飲料卻沒錢買自己的份　老闆霸氣舉動暖哭全網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177683272893730816027198.jpeg/rX_B4qGgNnZpH_-m5_C9BACsOCl1A8_tHRHTTR0R000?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391444/%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%89%9B%E4%B8%80%E8%AB%8B%E5%85%A8%E7%8F%AD%E5%96%9D%E9%A3%B2%E6%96%99%E5%8D%BB%E6%B2%92%E9%8C%A2%E8%B2%B7%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BB%BD-%E8%80%81%E9%97%86%E9%9C%B8%E6%B0%A3%E8%88%89%E5%8B%95%E6%9A%96%E5%93%AD%E5%85%A8%E7%B6%B2",
+    "timestamp": "2026-09-19T02:47:14.350Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜三層機制處理大廈糾紛　區議員：及早介入免予盾升級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156745501580726272806592.jpeg/qd9YjCcCCN8eseEQdKJ8LiLg5NXt1d4vzgq8_M4KvPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391512/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E8%A1%9D%E7%AA%81%E6%99%AE%E9%81%8D%E6%80%A7%E6%9A%B4%E5%8A%9B-89-%E6%AD%B8%E5%92%8E%E4%BF%84%E7%BE%85%E6%96%AF",
     "timestamp": "2026-09-18T18:23:22.381Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "EMSC：智利首都大都會區4.8級地震",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177786832717352960986510.jpeg/fmN3cu1CKGOXNJ3QDPn6s_-5hYSEh6jA9iIhnvYiIZ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391510/emsc-%E6%99%BA%E5%88%A9%E9%A6%96%E9%83%BD%E5%A4%A7%E9%83%BD%E6%9C%83%E5%8D%804-8%E7%B4%9A%E5%9C%B0%E9%9C%87",
-    "timestamp": "2026-09-18T17:28:52.204Z",
     "strategy": ".content-card__main"
   }
 ];
