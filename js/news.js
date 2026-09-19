@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T09:22:32.824Z
+// Last updated: 2026-09-19T09:41:13.125Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "73歲張偉文病情好轉面色紅潤　方俊曬「靚聲王」病床笑顏照報平安",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178015473271312384934608.jpeg/afRFRfLe0n8vvOtbufAeC6Ksa1g3jTmauMhnmLjIZ5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391603/73%E6%AD%B2%E5%BC%B5%E5%81%89%E6%96%87%E7%97%85%E6%83%85%E5%A5%BD%E8%BD%89%E9%9D%A2%E8%89%B2%E7%B4%85%E6%BD%A4-%E6%96%B9%E4%BF%8A%E6%9B%AC-%E9%9D%9A%E8%81%B2%E7%8E%8B-%E7%97%85%E5%BA%8A%E7%AC%91%E9%A1%8F%E7%85%A7%E5%A0%B1%E5%B9%B3%E5%AE%89",
+    "timestamp": "2026-09-19T09:41:13.125Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女子每天特定時段血壓飆升！醫警惕內分泌高血壓：嗜鉻細胞瘤解析",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177697288890355712208765.jpeg/VVWZDR3B1hrYGdQdhb3wZRiYD2AXSFQXaW-rgWlvq4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391070/%E6%A2%81%E9%9D%96%E7%90%AA%E8%80%81%E5%85%AC%E5%88%86%E4%BA%AB%E6%B9%8A%E4%BB%94%E6%97%A5%E5%B8%B8%E6%9B%9D%E5%85%89%E8%B7%91%E9%A6%AC%E5%9C%B0%E8%B1%AA%E5%AE%85%E8%BB%8A%E5%BA%AB-%E9%A0%82%E7%B4%9A%E8%B6%85%E8%B7%91%E9%99%A3%E6%A5%B5%E5%A5%A2%E8%8F%AF",
     "timestamp": "2026-09-19T00:47:11.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國丹麥達成格陵蘭協議　美軍可駐紮　禁對手設基地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176364051538644992986742.jpeg/v5f8TrtcyVPqkN0137WjDE8vEQFe8PAzTnQC1U50AtU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391527/%E7%BE%8E%E5%9C%8B%E4%B8%B9%E9%BA%A5%E9%81%94%E6%88%90%E6%A0%BC%E9%99%B5%E8%98%AD%E5%8D%94%E8%AD%B0-%E7%BE%8E%E8%BB%8D%E5%8F%AF%E9%A7%90%E7%B4%AE-%E7%A6%81%E5%B0%8D%E6%89%8B%E8%A8%AD%E5%9F%BA%E5%9C%B0",
-    "timestamp": "2026-09-18T23:31:15.497Z",
     "strategy": ".content-card__main"
   }
 ];
