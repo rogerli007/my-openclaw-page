@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T18:42:36.857Z
+// Last updated: 2026-09-19T18:54:04.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國簽制裁俄伊法案　中國商務部：反對次級制裁　保留反制權利",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176919805140144128274389.png/hxamW9SKBcmXNkSyYwigYPgQhpror3ejXt1S6l7dUuo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391696/%E7%BE%8E%E5%9C%8B%E7%B0%BD%E5%88%B6%E8%A3%81%E4%BF%84%E4%BC%8A%E6%B3%95%E6%A1%88-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8F%8D%E5%B0%8D%E6%AC%A1%E7%B4%9A%E5%88%B6%E8%A3%81-%E4%BF%9D%E7%95%99%E5%8F%8D%E5%88%B6%E6%AC%8A%E5%88%A9",
+    "timestamp": "2026-09-19T18:54:04.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國簽制裁俄伊法案　中國商務部：反對次級制裁　保留反制權利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178073303680552960140698.jpeg/ZcFedF5t4bfjsUJJJ_6HhB3bkk6mlDK_3JAJg9yQCYM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391508/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E9%96%8B%E5%B9%95-%E6%B2%88%E6%9B%89%E6%A6%86%E5%81%95%E6%A5%8A%E5%8D%9A%E6%96%87%E6%8C%81%E6%97%97%E9%80%B2%E5%A0%B4-%E7%B7%8A%E5%BC%B5%E4%BB%8D%E4%BA%AB%E5%8F%97%E5%A3%AF%E8%A7%80%E5%A0%B4%E9%9D%A2",
     "timestamp": "2026-09-19T12:25:54.675Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張繼聰再做監製仍緊張　韋羅莎投訴老公做導演︰我冇得收工",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178061455560282112315864.jpeg/nN5eodDC1t5FkiGJLg8lOzrdxRMkTK9KKRY_sykWP7M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391626/%E5%BC%B5%E7%B9%BC%E8%81%B0%E5%86%8D%E5%81%9A%E7%9B%A3%E8%A3%BD%E4%BB%8D%E7%B7%8A%E5%BC%B5-%E9%9F%8B%E7%BE%85%E8%8E%8E%E6%8A%95%E8%A8%B4%E8%80%81%E5%85%AC%E5%81%9A%E5%B0%8E%E6%BC%94-%E6%88%91%E5%86%87%E5%BE%97%E6%94%B6%E5%B7%A5",
-    "timestamp": "2026-09-19T11:56:29.068Z",
     "strategy": ".content-card__main"
   }
 ];
