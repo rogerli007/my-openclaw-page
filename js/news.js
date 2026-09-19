@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T11:56:29.068Z
+// Last updated: 2026-09-19T12:25:54.675Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運開幕｜沈曉榆偕楊博文持旗進場　緊張仍享受壯觀場面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178073303680552960140698.jpeg/ZcFedF5t4bfjsUJJJ_6HhB3bkk6mlDK_3JAJg9yQCYM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391508/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E9%96%8B%E5%B9%95-%E6%B2%88%E6%9B%89%E6%A6%86%E5%81%95%E6%A5%8A%E5%8D%9A%E6%96%87%E6%8C%81%E6%97%97%E9%80%B2%E5%A0%B4-%E7%B7%8A%E5%BC%B5%E4%BB%8D%E4%BA%AB%E5%8F%97%E5%A3%AF%E8%A7%80%E5%A0%B4%E9%9D%A2",
+    "timestamp": "2026-09-19T12:25:54.675Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張繼聰再做監製仍緊張　韋羅莎投訴老公做導演︰我冇得收工",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177076238515179520849371.png/ODe2sUGgKba7trmVIpOdLiW9K46XgykHFyRjHxckYx8",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390767/%E8%BB%8Acam%E7%9B%B4%E6%93%8A%E5%91%88%E7%A5%A5%E9%81%93%E7%B4%85van%E7%94%A9%E6%B3%B5%E6%8A%8A-%E8%B7%8C%E8%90%BD%E9%9D%A2%E6%88%90%E9%9A%9C%E7%A4%99%E7%89%A9-%E7%B6%B2%E6%B0%91-mario%E8%B3%BD%E8%BB%8A",
     "timestamp": "2026-09-19T04:22:16.476Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "四川攀枝花鹽邊縣爆發泥石流5人失蹤　多部門趕赴現場搜救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177944018600857600725194.jpeg/9fn566dlrFgQDuoUtNHflfgk_TcCfUu73GzLatxsy2o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391557/%E5%9B%9B%E5%B7%9D%E6%94%80%E6%9E%9D%E8%8A%B1%E9%B9%BD%E9%82%8A%E7%B8%A3%E7%88%86%E7%99%BC%E6%B3%A5%E7%9F%B3%E6%B5%815%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E5%A4%9A%E9%83%A8%E9%96%80%E8%B6%95%E8%B5%B4%E7%8F%BE%E5%A0%B4%E6%90%9C%E6%95%91",
-    "timestamp": "2026-09-19T03:46:02.468Z",
     "strategy": ".content-card__main"
   }
 ];
