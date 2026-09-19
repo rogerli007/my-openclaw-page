@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T06:51:49.944Z
+// Last updated: 2026-09-19T07:20:30.834Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關破歷來最大宗海路販毒案　泰國抵港保溫箱藏$1.25億大麻拉3人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177996842789507072546738.jpeg/TrL64ZVBgL8nWVO9Qj81GawFbU5jqrAMq2FY86thWPM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391569/%E6%B5%B7%E9%97%9C%E7%A0%B4%E6%AD%B7%E4%BE%86%E6%9C%80%E5%A4%A7%E5%AE%97%E6%B5%B7%E8%B7%AF%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%B3%B0%E5%9C%8B%E6%8A%B5%E6%B8%AF%E4%BF%9D%E6%BA%AB%E7%AE%B1%E8%97%8F-1-25%E5%84%84%E5%A4%A7%E9%BA%BB%E6%8B%893%E4%BA%BA",
+    "timestamp": "2026-09-19T07:20:30.834Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜深圳研發載人UFO義烏開售賣¥80萬　可自動駕駛獲1.2億訂單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174352541475934208086512.jpeg/7ao6ukoiH1r6UEhQsAdD6eK99jBJtQJoTgqGwU4KhsE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391524/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%BE%8E%E5%9C%8B%E8%B2%A1%E9%95%B7%E8%B2%9D%E6%A3%AE%E7%89%B9%E5%B0%87%E8%88%87%E4%BD%95%E7%AB%8B%E5%B3%B0%E6%9C%83%E8%AB%87-%E8%81%9A%E7%84%A6ai%E5%8F%8A%E7%A8%80%E5%9C%9F",
     "timestamp": "2026-09-18T21:54:40.010Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非法移民湧入休達　歐盟專員促遣返：助長極右政黨支持度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165954350233686016084536.jpeg/2aauNGBFkw_pwWDrkpPldjNa5ID8rBbJ6jfmkOo35pA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391516/%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E6%B9%A7%E5%85%A5%E4%BC%91%E9%81%94-%E6%AD%90%E7%9B%9F%E5%B0%88%E5%93%A1%E4%BF%83%E9%81%A3%E8%BF%94-%E5%8A%A9%E9%95%B7%E6%A5%B5%E5%8F%B3%E6%94%BF%E9%BB%A8%E6%94%AF%E6%8C%81%E5%BA%A6",
-    "timestamp": "2026-09-18T20:54:11.253Z",
     "strategy": ".content-card__main"
   }
 ];
