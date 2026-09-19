@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T14:53:36.504Z
+// Last updated: 2026-09-19T15:29:31.176Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何雁詩稱絕非「棄子」打麻雀屬正常社交　減少分享生活：少提為妙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178121238615166976826413.jpeg/DXdOF-vnNFID25mqQWlAVomOfQFk-jywaC70pmgu9KY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391679/%E4%BD%95%E9%9B%81%E8%A9%A9%E7%A8%B1%E7%B5%95%E9%9D%9E-%E6%A3%84%E5%AD%90-%E6%89%93%E9%BA%BB%E9%9B%80%E5%B1%AC%E6%AD%A3%E5%B8%B8%E7%A4%BE%E4%BA%A4-%E6%B8%9B%E5%B0%91%E5%88%86%E4%BA%AB%E7%94%9F%E6%B4%BB-%E5%B0%91%E6%8F%90%E7%82%BA%E5%A6%99",
+    "timestamp": "2026-09-19T15:29:31.176Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沈芝華親手為孟小冬入殮感情極深　80歲零老花公開兩大凍齡秘訣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178013570818904064026893.jpeg/X3rbLdN-J-_3VkkPR-Jvd6bnW6OUNXUBqEtLsahLS7E?v=w1920",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391589/%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%80%9D%E4%B8%96-%E9%9D%88%E5%A0%82%E6%9B%9D%E5%85%89-%E6%AD%B7%E5%B1%86%E7%89%B9%E9%A6%96%E5%88%B0%E5%A0%B4%E8%87%B4%E7%A5%AD-%E5%A4%A7%E6%89%B9%E6%94%BF%E5%95%86%E7%95%8C%E5%90%8D%E4%BA%BA%E9%80%81%E5%88%A5",
     "timestamp": "2026-09-19T08:44:48.494Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "駿傑集團發展持續穩中求進　投資價值不可忽視｜聶振邦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178010744394878976142863.jpeg/Wfo2VFNFt6PhMV08K_9g4o9ZD6TufGBhtrg4Q7a4OEM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391598/%E9%A7%BF%E5%82%91%E9%9B%86%E5%9C%98%E7%99%BC%E5%B1%95%E6%8C%81%E7%BA%8C%E7%A9%A9%E4%B8%AD%E6%B1%82%E9%80%B2-%E6%8A%95%E8%B3%87%E5%83%B9%E5%80%BC%E4%B8%8D%E5%8F%AF%E5%BF%BD%E8%A6%96-%E8%81%B6%E6%8C%AF%E9%82%A6",
-    "timestamp": "2026-09-19T08:23:40.981Z",
     "strategy": ".content-card__main"
   }
 ];
