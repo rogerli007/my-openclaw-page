@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T03:23:41.731Z
+// Last updated: 2026-09-19T03:46:02.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "四川攀枝花鹽邊縣爆發泥石流5人失蹤　多部門趕赴現場搜救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177944018600857600725194.jpeg/9fn566dlrFgQDuoUtNHflfgk_TcCfUu73GzLatxsy2o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391557/%E5%9B%9B%E5%B7%9D%E6%94%80%E6%9E%9D%E8%8A%B1%E9%B9%BD%E9%82%8A%E7%B8%A3%E7%88%86%E7%99%BC%E6%B3%A5%E7%9F%B3%E6%B5%815%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E5%A4%9A%E9%83%A8%E9%96%80%E8%B6%95%E8%B5%B4%E7%8F%BE%E5%A0%B4%E6%90%9C%E6%95%91",
+    "timestamp": "2026-09-19T03:46:02.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜銅鑼灣私家車衝紅燈險撞過路途人　網民斥危駕：遲早累死人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156745501580726272806592.jpeg/qd9YjCcCCN8eseEQdKJ8LiLg5NXt1d4vzgq8_M4KvPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391512/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E8%A1%9D%E7%AA%81%E6%99%AE%E9%81%8D%E6%80%A7%E6%9A%B4%E5%8A%9B-89-%E6%AD%B8%E5%92%8E%E4%BF%84%E7%BE%85%E6%96%AF",
     "timestamp": "2026-09-18T19:18:03.087Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯合國報告：烏克蘭衝突普遍性暴力　89%歸咎俄羅斯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156745501580726272806592.jpeg/qd9YjCcCCN8eseEQdKJ8LiLg5NXt1d4vzgq8_M4KvPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391512/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E8%A1%9D%E7%AA%81%E6%99%AE%E9%81%8D%E6%80%A7%E6%9A%B4%E5%8A%9B-89-%E6%AD%B8%E5%92%8E%E4%BF%84%E7%BE%85%E6%96%AF",
-    "timestamp": "2026-09-18T18:49:06.379Z",
     "strategy": ".content-card__main"
   }
 ];
