@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T05:44:22.255Z
+// Last updated: 2026-09-19T06:31:52.726Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗傷人案．內情｜美容師疑盜前僱主文件　另起爐灶掀糾紛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177984547447377920471532.jpeg/Shyutu49LDske0k16HoPvMoOmCwRfhc8YZS7xGGUu8Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391535/%E5%85%83%E6%9C%97%E5%82%B7%E4%BA%BA%E6%A1%88-%E5%85%A7%E6%83%85-%E7%BE%8E%E5%AE%B9%E5%B8%AB%E7%96%91%E7%9B%9C%E5%89%8D%E5%83%B1%E4%B8%BB%E6%96%87%E4%BB%B6-%E5%8F%A6%E8%B5%B7%E7%88%90%E7%81%B6%E6%8E%80%E7%B3%BE%E7%B4%9B",
+    "timestamp": "2026-09-19T06:31:52.726Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運手球｜港女隊首戰難破高牆負韓國　冀爭氣證整體進步",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
     "timestamp": "2026-09-18T20:44:40.976Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
-    "timestamp": "2026-09-18T20:37:20.266Z",
     "strategy": ".content-card__main"
   }
 ];
