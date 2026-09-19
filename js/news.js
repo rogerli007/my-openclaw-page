@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T13:30:56.987Z
+// Last updated: 2026-09-19T13:42:54.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡子彤相隔12年再戰亞運　登港隊大巴獲隊友歡呼叫大明星",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178085197191581696893401.jpeg/eg3cA51ikORSGyCeoJjO-NWSD4hYUXI1HV0Xyx1dF8s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391659/%E8%83%A1%E5%AD%90%E5%BD%A4%E7%9B%B8%E9%9A%9412%E5%B9%B4%E5%86%8D%E6%88%B0%E4%BA%9E%E9%81%8B-%E7%99%BB%E6%B8%AF%E9%9A%8A%E5%A4%A7%E5%B7%B4%E7%8D%B2%E9%9A%8A%E5%8F%8B%E6%AD%A1%E5%91%BC%E5%8F%AB%E5%A4%A7%E6%98%8E%E6%98%9F",
+    "timestamp": "2026-09-19T13:42:54.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀彌敦道七人車疑避車剷安全島　網謔：江若琳彎又開彩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177984547447377920471532.jpeg/Shyutu49LDske0k16HoPvMoOmCwRfhc8YZS7xGGUu8Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391535/%E5%85%83%E6%9C%97%E5%82%B7%E4%BA%BA%E6%A1%88-%E5%85%A7%E6%83%85-%E7%BE%8E%E5%AE%B9%E5%B8%AB%E7%96%91%E7%9B%9C%E5%89%8D%E5%83%B1%E4%B8%BB%E6%96%87%E4%BB%B6-%E5%8F%A6%E8%B5%B7%E7%88%90%E7%81%B6%E6%8E%80%E7%B3%BE%E7%B4%9B",
     "timestamp": "2026-09-19T06:31:52.726Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運手球｜港女隊首戰難破高牆負韓國　冀爭氣證整體進步",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177948824119808000891346.jpeg/bJNpbdlbNdtqsu227tYCzLTGgIdWD5oCLWULfi1lC34?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391507/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%89%8B%E7%90%83-%E6%B8%AF%E5%A5%B3%E9%9A%8A%E9%A6%96%E6%88%B0%E9%9B%A3%E7%A0%B4%E9%AB%98%E7%89%86%E8%B2%A0%E9%9F%93%E5%9C%8B-%E5%86%80%E7%88%AD%E6%B0%A3%E8%AD%89%E6%95%B4%E9%AB%94%E9%80%B2%E6%AD%A5",
-    "timestamp": "2026-09-19T05:44:22.255Z",
     "strategy": ".content-card__main"
   }
 ];
