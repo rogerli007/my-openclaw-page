@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T02:47:14.350Z
+// Last updated: 2026-09-19T03:23:41.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜銅鑼灣私家車衝紅燈險撞過路途人　網民斥危駕：遲早累死人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177239987519754240824970.jpeg/HFEjuYyjDL47KMxSjl4qSXhm6EXLEPixrCRTpawkU6U",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390742/%E6%9C%89%E7%89%87-%E9%8A%85%E9%91%BC%E7%81%A3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E%E9%81%8E%E8%B7%AF%E9%80%94%E4%BA%BA-%E7%B6%B2%E6%B0%91%E6%96%A5%E5%8D%B1%E9%A7%95-%E9%81%B2%E6%97%A9%E7%B4%AF%E6%AD%BB%E4%BA%BA",
+    "timestamp": "2026-09-19T03:23:41.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小學生牛一請全班喝飲料卻沒錢買自己的份　老闆霸氣舉動暖哭全網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156745501580726272806592.jpeg/qd9YjCcCCN8eseEQdKJ8LiLg5NXt1d4vzgq8_M4KvPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391512/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E8%A1%9D%E7%AA%81%E6%99%AE%E9%81%8D%E6%80%A7%E6%9A%B4%E5%8A%9B-89-%E6%AD%B8%E5%92%8E%E4%BF%84%E7%BE%85%E6%96%AF",
     "timestamp": "2026-09-18T18:49:06.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯合國報告：烏克蘭衝突普遍性暴力　89%歸咎俄羅斯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156745501580726272806592.jpeg/qd9YjCcCCN8eseEQdKJ8LiLg5NXt1d4vzgq8_M4KvPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391512/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A0%B1%E5%91%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E8%A1%9D%E7%AA%81%E6%99%AE%E9%81%8D%E6%80%A7%E6%9A%B4%E5%8A%9B-89-%E6%AD%B8%E5%92%8E%E4%BF%84%E7%BE%85%E6%96%AF",
-    "timestamp": "2026-09-18T18:23:22.381Z",
     "strategy": ".content-card__main"
   }
 ];
