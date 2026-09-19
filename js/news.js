@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T16:19:48.791Z
+// Last updated: 2026-09-19T16:43:31.131Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘繞道3的士串燒相撞　至少3人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178133504244846592057216.jpeg/wqXatD-TOJ6BXsgcOX-N0sU9vKfYqs1qgVweiLtcHog?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%913%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-09-19T16:43:31.131Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗：已向調解方傳達復談條件　促結束戰爭解凍資金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178028596401278976729360.jpeg/20NYxy5FefTDipvNk95ficIT6qrMpzG-3F3Gjtxdxo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391616/%E4%BA%9E%E9%81%8B%E6%9C%83-%E5%BA%B7%E6%96%87%E7%BD%B218%E5%8D%80%E8%A8%AD%E8%A7%80%E8%B3%9E%E7%AB%99%E9%82%80%E5%B8%82%E6%B0%91%E7%82%BA%E9%81%8B%E5%8B%95%E5%93%A1%E6%89%93%E6%B0%A3-%E4%BB%8A%E8%B5%B7%E9%96%8B%E6%94%BE%E8%87%B310-4",
     "timestamp": "2026-09-19T09:54:06.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "73歲張偉文病情好轉面色紅潤　方俊曬「靚聲王」病床笑顏照報平安",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178015473271312384934608.jpeg/afRFRfLe0n8vvOtbufAeC6Ksa1g3jTmauMhnmLjIZ5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391603/73%E6%AD%B2%E5%BC%B5%E5%81%89%E6%96%87%E7%97%85%E6%83%85%E5%A5%BD%E8%BD%89%E9%9D%A2%E8%89%B2%E7%B4%85%E6%BD%A4-%E6%96%B9%E4%BF%8A%E6%9B%AC-%E9%9D%9A%E8%81%B2%E7%8E%8B-%E7%97%85%E5%BA%8A%E7%AC%91%E9%A1%8F%E7%85%A7%E5%A0%B1%E5%B9%B3%E5%AE%89",
-    "timestamp": "2026-09-19T09:41:13.125Z",
     "strategy": ".content-card__main"
   }
 ];
