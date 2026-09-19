@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T05:32:17.878Z
+// Last updated: 2026-09-19T05:44:22.255Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運手球｜港女隊首戰難破高牆負韓國　冀爭氣證整體進步",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177948824119808000891346.jpeg/bJNpbdlbNdtqsu227tYCzLTGgIdWD5oCLWULfi1lC34?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391507/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%89%8B%E7%90%83-%E6%B8%AF%E5%A5%B3%E9%9A%8A%E9%A6%96%E6%88%B0%E9%9B%A3%E7%A0%B4%E9%AB%98%E7%89%86%E8%B2%A0%E9%9F%93%E5%9C%8B-%E5%86%80%E7%88%AD%E6%B0%A3%E8%AD%89%E6%95%B4%E9%AB%94%E9%80%B2%E6%AD%A5",
+    "timestamp": "2026-09-19T05:44:22.255Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜陳美寶料最快10月實施粵艇南下　數十內地船長完成考核",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
     "timestamp": "2026-09-18T20:37:20.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
-    "timestamp": "2026-09-18T20:19:49.963Z",
     "strategy": ".content-card__main"
   }
 ];
