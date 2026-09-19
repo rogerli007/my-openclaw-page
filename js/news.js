@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T06:31:52.726Z
+// Last updated: 2026-09-19T06:51:49.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜深圳研發載人UFO義烏開售賣¥80萬　可自動駕駛獲1.2億訂單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177961317441474560753901.jpeg/V9k4EFYZivu9s-41f0fOwggNv24-3nJYxjLP6MYyz-g",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391566/%E6%9C%89%E7%89%87-%E6%B7%B1%E5%9C%B3%E7%A0%94%E7%99%BC%E8%BC%89%E4%BA%BAufo%E7%BE%A9%E7%83%8F%E9%96%8B%E5%94%AE%E8%B3%A3-80%E8%90%AC-%E5%8F%AF%E8%87%AA%E5%8B%95%E9%A7%95%E9%A7%9B%E7%8D%B21-2%E5%84%84%E8%A8%82%E5%96%AE",
+    "timestamp": "2026-09-19T06:51:49.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗傷人案．內情｜美容師疑盜前僱主文件　另起爐灶掀糾紛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165954350233686016084536.jpeg/2aauNGBFkw_pwWDrkpPldjNa5ID8rBbJ6jfmkOo35pA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391516/%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E6%B9%A7%E5%85%A5%E4%BC%91%E9%81%94-%E6%AD%90%E7%9B%9F%E5%B0%88%E5%93%A1%E4%BF%83%E9%81%A3%E8%BF%94-%E5%8A%A9%E9%95%B7%E6%A5%B5%E5%8F%B3%E6%94%BF%E9%BB%A8%E6%94%AF%E6%8C%81%E5%BA%A6",
     "timestamp": "2026-09-18T20:54:11.253Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：即時生效　禁CNN、MSNOW與POLITICO「入白宮」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175390325087145984675213.jpeg/DWb5KZuVJWPhutZaDhY3wZZb15adwqGn9vLHmPbyx5g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391518/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%B3%E6%99%82%E7%94%9F%E6%95%88-%E7%A6%81cnn-msnow%E8%88%87politico-%E5%85%A5%E7%99%BD%E5%AE%AE",
-    "timestamp": "2026-09-18T20:44:40.976Z",
     "strategy": ".content-card__main"
   }
 ];
