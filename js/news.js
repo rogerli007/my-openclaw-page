@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T11:28:14.207Z
+// Last updated: 2026-09-19T11:40:52.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭香如故|譚鬆韻遭陷害慘賣青樓　克制哭戲讚爆：無聲演技教科書",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177968114218831872179862.png/ibYzNcOpvWkFI6xkMqalZ6dUTZVAStVo8ynrv_Mp678?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60391546/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E8%AD%9A%E9%AC%86%E9%9F%BB%E9%81%AD%E9%99%B7%E5%AE%B3%E6%85%98%E8%B3%A3%E9%9D%92%E6%A8%93-%E5%85%8B%E5%88%B6%E5%93%AD%E6%88%B2%E8%AE%9A%E7%88%86-%E7%84%A1%E8%81%B2%E6%BC%94%E6%8A%80%E6%95%99%E7%A7%91%E6%9B%B8",
+    "timestamp": "2026-09-19T11:40:52.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "也門胡塞武裝屢襲沙特　首都利雅得機場附近冒煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177239987519754240824970.jpeg/HFEjuYyjDL47KMxSjl4qSXhm6EXLEPixrCRTpawkU6U",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390742/%E6%9C%89%E7%89%87-%E9%8A%85%E9%91%BC%E7%81%A3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88%E9%9A%AA%E6%92%9E%E9%81%8E%E8%B7%AF%E9%80%94%E4%BA%BA-%E7%B6%B2%E6%B0%91%E6%96%A5%E5%8D%B1%E9%A7%95-%E9%81%B2%E6%97%A9%E7%B4%AF%E6%AD%BB%E4%BA%BA",
     "timestamp": "2026-09-19T03:23:41.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小學生牛一請全班喝飲料卻沒錢買自己的份　老闆霸氣舉動暖哭全網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177683272893730816027198.jpeg/rX_B4qGgNnZpH_-m5_C9BACsOCl1A8_tHRHTTR0R000?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391444/%E5%B0%8F%E5%AD%B8%E7%94%9F%E7%89%9B%E4%B8%80%E8%AB%8B%E5%85%A8%E7%8F%AD%E5%96%9D%E9%A3%B2%E6%96%99%E5%8D%BB%E6%B2%92%E9%8C%A2%E8%B2%B7%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BB%BD-%E8%80%81%E9%97%86%E9%9C%B8%E6%B0%A3%E8%88%89%E5%8B%95%E6%9A%96%E5%93%AD%E5%85%A8%E7%B6%B2",
-    "timestamp": "2026-09-19T02:47:14.350Z",
     "strategy": ".content-card__main"
   }
 ];
