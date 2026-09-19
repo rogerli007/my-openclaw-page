@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T14:30:03.431Z
+// Last updated: 2026-09-19T14:53:36.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈芝華親手為孟小冬入殮感情極深　80歲零老花公開兩大凍齡秘訣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178021436678213632782309.jpeg/RzZncQiDIcGp-_PPFr_u1cbkz_IiKv0capixPWqYsT0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391604/%E6%B2%88%E8%8A%9D%E8%8F%AF%E8%A6%AA%E6%89%8B%E7%82%BA%E5%AD%9F%E5%B0%8F%E5%86%AC%E5%85%A5%E6%AE%AE%E6%84%9F%E6%83%85%E6%A5%B5%E6%B7%B1-80%E6%AD%B2%E9%9B%B6%E8%80%81%E8%8A%B1%E5%85%AC%E9%96%8B%E5%85%A9%E5%A4%A7%E5%87%8D%E9%BD%A1%E7%A7%98%E8%A8%A3",
+    "timestamp": "2026-09-19T14:53:36.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港姐季軍袁文靜晒性感寫真　黑白Bra Top上陣大騷零贅肉馬甲線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178010744394878976142863.jpeg/Wfo2VFNFt6PhMV08K_9g4o9ZD6TufGBhtrg4Q7a4OEM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391598/%E9%A7%BF%E5%82%91%E9%9B%86%E5%9C%98%E7%99%BC%E5%B1%95%E6%8C%81%E7%BA%8C%E7%A9%A9%E4%B8%AD%E6%B1%82%E9%80%B2-%E6%8A%95%E8%B3%87%E5%83%B9%E5%80%BC%E4%B8%8D%E5%8F%AF%E5%BF%BD%E8%A6%96-%E8%81%B6%E6%8C%AF%E9%82%A6",
     "timestamp": "2026-09-19T08:23:40.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關破歷來最大宗海路販毒案　泰國抵港保溫箱藏$1.25億大麻拉3人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177996842789507072546738.jpeg/TrL64ZVBgL8nWVO9Qj81GawFbU5jqrAMq2FY86thWPM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391569/%E6%B5%B7%E9%97%9C%E7%A0%B4%E6%AD%B7%E4%BE%86%E6%9C%80%E5%A4%A7%E5%AE%97%E6%B5%B7%E8%B7%AF%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%B3%B0%E5%9C%8B%E6%8A%B5%E6%B8%AF%E4%BF%9D%E6%BA%AB%E7%AE%B1%E8%97%8F-1-25%E5%84%84%E5%A4%A7%E9%BA%BB%E6%8B%893%E4%BA%BA",
-    "timestamp": "2026-09-19T07:20:30.834Z",
     "strategy": ".content-card__main"
   }
 ];
