@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T17:19:33.859Z
+// Last updated: 2026-09-19T17:26:56.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘繞道3的士串燒相撞　5人受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178143739663618048651409.jpeg/yxO-6P0hPK1V-DDfHi5Fk7MCx2ddt83sa4sdgGuLHYA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-5%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-19T17:26:56.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘繞道3的士串燒相撞　5人受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178048486533238784412387.jpeg/imq4yAXik13GmK0ItmhCmBIyCEK6msNyXUuhDl1LoQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391640/%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF3%E5%85%A7%E5%9C%B0%E7%94%B7%E8%A1%8C%E6%9D%8E%E8%97%8F7%E5%85%AC%E6%96%A4-%E9%9B%B6%E9%A3%9F-%E6%B5%B7%E9%97%9C%E6%8F%AD%E7%82%BA-140%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-09-19T10:54:07.532Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肥媽被梅啟明叫「收皮」　寸爆回應：「經」就收咗，「期」就未收",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178036535652519936749526.jpeg/63jlYFc4HP3KF_4SrvT7cT1h0JTYON02EdjDFiTYwxY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391629/%E8%82%A5%E5%AA%BD%E8%A2%AB%E6%A2%85%E5%95%9F%E6%98%8E%E5%8F%AB-%E6%94%B6%E7%9A%AE-%E5%AF%B8%E7%88%86%E5%9B%9E%E6%87%89-%E7%B6%93-%E5%B0%B1%E6%94%B6%E5%92%97-%E6%9C%9F-%E5%B0%B1%E6%9C%AA%E6%94%B6",
-    "timestamp": "2026-09-19T10:47:23.717Z",
     "strategy": ".content-card__main"
   }
 ];
