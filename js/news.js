@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T19:26:16.906Z
+// Last updated: 2026-09-20T19:40:48.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：胡塞武裝同意不與美交戰　美媒：美軍不會發動進攻性打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175189077570359296462180.jpeg/F_JLonD46PEVWqTNXvmQxScof9Y-OomIwiZC4MImQuA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391942/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%8C%E6%84%8F%E4%B8%8D%E8%88%87%E7%BE%8E%E4%BA%A4%E6%88%B0-%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E4%B8%8D%E6%9C%83%E7%99%BC%E5%8B%95%E9%80%B2%E6%94%BB%E6%80%A7%E6%89%93%E6%93%8A",
+    "timestamp": "2026-09-20T19:40:48.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：胡塞武裝同意不與美交戰　美媒：美軍不會發動進攻性打擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178426568972701696314085.jpeg/s5msXBiWmF77jbAEe_pLO5hoamt7uAf3bzCv128wr9c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391908/converse%E6%96%B0%E5%BB%A3%E5%91%8A%E8%A2%AB%E6%8C%87%E6%B6%89%E4%B8%89k%E9%BB%A8%E7%A7%81%E5%88%91%E5%85%83%E7%B4%A0-%E5%AE%98%E6%96%B9%E6%80%A5%E4%B8%8B%E6%9E%B6%E4%B8%A6%E8%87%B4%E6%AD%89",
     "timestamp": "2026-09-20T12:48:54.197Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莊思明雙臂紋心跳圖悼離世父母　大家姐莊思敏留下四個Emoji",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178415821425217536067429.png/qZWCRzsE3XoM3L-p5L0KtTh_IKoEzdcAP-ET2T_hE9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391898/%E8%8E%8A%E6%80%9D%E6%98%8E%E9%9B%99%E8%87%82%E7%B4%8B%E5%BF%83%E8%B7%B3%E5%9C%96%E6%82%BC%E9%9B%A2%E4%B8%96%E7%88%B6%E6%AF%8D-%E5%A4%A7%E5%AE%B6%E5%A7%90%E8%8E%8A%E6%80%9D%E6%95%8F%E7%95%99%E4%B8%8B%E5%9B%9B%E5%80%8Bemoji",
-    "timestamp": "2026-09-20T12:26:00.527Z",
     "strategy": ".content-card__main"
   }
 ];
