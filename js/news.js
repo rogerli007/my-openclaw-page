@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T02:27:21.623Z
+// Last updated: 2026-09-20T02:48:05.082Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "千人報名比拼！深圳南山舉行全球首場模擬無人機競速線下賽事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178290479343603712851243.png/VRmlsSu5KZ6XP40Tu10WEoE5kmsYDIJQot0EiKLdBIg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391740/%E5%8D%83%E4%BA%BA%E5%A0%B1%E5%90%8D%E6%AF%94%E6%8B%BC-%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E8%88%89%E8%A1%8C%E5%85%A8%E7%90%83%E9%A6%96%E5%A0%B4%E6%A8%A1%E6%93%AC%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%AB%B6%E9%80%9F%E7%B7%9A%E4%B8%8B%E8%B3%BD%E4%BA%8B",
+    "timestamp": "2026-09-20T02:48:05.082Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普組人工智能部隊　稱AI恐慌是騙局拒放慢發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177916230254727168581460.jpeg/wKNd4PnrqGnRnohlgOgzMD5WeVimkmaXUXELVVFxC1U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391695/%E4%B8%B9%E9%BA%A5%E5%BC%B7%E8%AA%BF%E4%B8%8D%E6%90%8D%E4%B8%BB%E6%AC%8A-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%94%E8%AD%B0%E8%AE%93%E7%BE%8E%E5%9C%8B%E6%B0%B8%E4%B9%85%E6%8E%A7%E5%88%B6%E6%A0%BC%E9%99%B5%E8%98%AD",
     "timestamp": "2026-09-19T17:54:14.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘繞道3的士串燒相撞　5人受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178143739663618048651409.jpeg/yxO-6P0hPK1V-DDfHi5Fk7MCx2ddt83sa4sdgGuLHYA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-5%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-19T17:26:56.633Z",
     "strategy": ".content-card__main"
   }
 ];
