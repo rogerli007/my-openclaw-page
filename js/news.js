@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T18:22:30.983Z
+// Last updated: 2026-09-20T18:44:01.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華喪禮｜公祭悼詞全文　讚揚一生踐行「愛國是天經地義」信念",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178402121641365504972018.jpeg/d0rW0xCc92Khz77VB90o20BCVHYc9zY8jtfoSI7X6Eg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391953/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%96%AA%E7%A6%AE-%E5%85%AC%E7%A5%AD%E6%82%BC%E8%A9%9E%E5%85%A8%E6%96%87-%E8%AE%9A%E6%8F%9A%E4%B8%80%E7%94%9F%E8%B8%90%E8%A1%8C-%E6%84%9B%E5%9C%8B%E6%98%AF%E5%A4%A9%E7%B6%93%E5%9C%B0%E7%BE%A9-%E4%BF%A1%E5%BF%B5",
+    "timestamp": "2026-09-20T18:44:01.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼聯作客1：1賽和富咸　利辛度馬天尼斯送烏龍球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178418614429028352325017.jpeg/0Zj0QOysYErx7n211o9aQTXF7hEdV2GcLNH6EAXR-hA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391900/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E5%80%92%E8%87%A5%E4%BD%8D%E7%BD%AE150%E7%B1%B3%E5%A4%96%E5%96%AE%E8%BB%8A%E5%BE%91%E6%BB%BF%E4%BD%88%E7%8B%97%E8%85%B3%E5%8D%B0-%E9%81%BA%E6%B0%B4%E5%85%9C%E9%A3%AF%E7%9B%92",
     "timestamp": "2026-09-20T11:21:01.736Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗疑狗咬死人｜騎手證狗群出沒　親歷被狗追：一隻追，隻隻跟住",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178410227062542336279403.jpeg/ZfxY3oaEXWAvGwIJdrcf2CBzGWBkgXsin6cj07qnI9M?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391893/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E9%A8%8E%E6%89%8B%E8%AD%89%E7%8B%97%E7%BE%A4%E5%87%BA%E6%B2%92-%E8%A6%AA%E6%AD%B7%E8%A2%AB%E7%8B%97%E8%BF%BD-%E4%B8%80%E9%9A%BB%E8%BF%BD-%E9%9A%BB%E9%9A%BB%E8%B7%9F%E4%BD%8F",
-    "timestamp": "2026-09-20T10:54:07.049Z",
     "strategy": ".content-card__main"
   }
 ];
