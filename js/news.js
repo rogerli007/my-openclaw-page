@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T00:53:06.108Z
+// Last updated: 2026-09-20T01:57:12.587Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普林斯頓133年傳統破滅　杜克學費升至76萬　美國留學還值得嗎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176951868723564544356820.jpeg/aiwfvgfB13osWJwnjfqWbDWeOaqosYm3NsMFqDbDBag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390603/%E6%99%AE%E6%9E%97%E6%96%AF%E9%A0%93133%E5%B9%B4%E5%82%B3%E7%B5%B1%E7%A0%B4%E6%BB%85-%E6%9D%9C%E5%85%8B%E5%AD%B8%E8%B2%BB%E5%8D%87%E8%87%B376%E8%90%AC-%E7%BE%8E%E5%9C%8B%E7%95%99%E5%AD%B8%E9%82%84%E5%80%BC%E5%BE%97%E5%97%8E",
+    "timestamp": "2026-09-20T01:57:12.587Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB小花日打四份工靠Coupon慳飯錢　為掃名牌：咖啡都係飲公司",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178143739663618048651409.jpeg/yxO-6P0hPK1V-DDfHi5Fk7MCx2ddt83sa4sdgGuLHYA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-5%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-19T17:19:33.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘繞道3的士串燒相撞　5人受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178143739663618048651409.jpeg/yxO-6P0hPK1V-DDfHi5Fk7MCx2ddt83sa4sdgGuLHYA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-5%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-19T16:54:37.909Z",
     "strategy": ".content-card__main"
   }
 ];
