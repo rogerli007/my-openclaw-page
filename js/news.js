@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T07:53:44.179Z
+// Last updated: 2026-09-20T08:24:39.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周星星丨薛家燕爆鄧兆尊曾假戲真做　廖碧兒罕談感情事甜到漏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178357086300409856563812.jpeg/IfrqSO93EamF54m9bLggJ8xmdq9Maz_VI5rzwyOa88M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391804/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E8%96%9B%E5%AE%B6%E7%87%95%E7%88%86%E9%84%A7%E5%85%86%E5%B0%8A%E6%9B%BE%E5%81%87%E6%88%B2%E7%9C%9F%E5%81%9A-%E5%BB%96%E7%A2%A7%E5%85%92%E7%BD%95%E8%AB%87%E6%84%9F%E6%83%85%E4%BA%8B%E7%94%9C%E5%88%B0%E6%BC%8F",
+    "timestamp": "2026-09-20T08:24:39.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳坑口永隆路獨立屋遭爆竊　失LV等牌子兩手袋及夾萬約值$5萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178061022267969536041982.jpeg/e94NCpNkOKLFjzs-NAgIFa71neb4UlS1j0gwSo9IMEo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391709/%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%99%84%E8%BF%91%E5%86%92%E6%BF%83%E7%85%99%E7%81%AB%E5%85%89-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D-%E8%A5%B2%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E9%A6%96%E9%83%BD%E6%95%8F%E6%84%9F%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-09-19T23:44:00.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔道貨車收慢U-turn　私家車煞車不及直插貨車車尾　司機受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178228033224445952127456.jpeg/1ry8frCNodst6EkAp6Wv__2ixzpsmpPaa9HzgGvR84A",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391708/%E5%A4%A7%E5%9F%94%E9%81%93%E8%B2%A8%E8%BB%8A%E6%94%B6%E6%85%A2u-turn-%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%85%9E%E8%BB%8A%E4%B8%8D%E5%8F%8A%E7%9B%B4%E6%8F%92%E8%B2%A8%E8%BB%8A%E8%BB%8A%E5%B0%BE-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-09-19T22:54:10.013Z",
     "strategy": ".content-card__main"
   }
 ];
