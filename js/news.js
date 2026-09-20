@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T19:18:25.291Z
+// Last updated: 2026-09-20T19:26:16.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：胡塞武裝同意不與美交戰　美媒：美軍不會發動進攻性打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175189077570359296462180.jpeg/F_JLonD46PEVWqTNXvmQxScof9Y-OomIwiZC4MImQuA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391942/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%8C%E6%84%8F%E4%B8%8D%E8%88%87%E7%BE%8E%E4%BA%A4%E6%88%B0-%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E4%B8%8D%E6%9C%83%E7%99%BC%E5%8B%95%E9%80%B2%E6%94%BB%E6%80%A7%E6%89%93%E6%93%8A",
+    "timestamp": "2026-09-20T19:26:16.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗疑狗咬死人｜行動捉3唐狗　警：將按風險評估巡邏涉事郊區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178415821425217536067429.png/qZWCRzsE3XoM3L-p5L0KtTh_IKoEzdcAP-ET2T_hE9k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391898/%E8%8E%8A%E6%80%9D%E6%98%8E%E9%9B%99%E8%87%82%E7%B4%8B%E5%BF%83%E8%B7%B3%E5%9C%96%E6%82%BC%E9%9B%A2%E4%B8%96%E7%88%B6%E6%AF%8D-%E5%A4%A7%E5%AE%B6%E5%A7%90%E8%8E%8A%E6%80%9D%E6%95%8F%E7%95%99%E4%B8%8B%E5%9B%9B%E5%80%8Bemoji",
     "timestamp": "2026-09-20T12:26:00.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗疑狗咬死人｜議員促徹查如證有人飼養　狗主須承擔法律責任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178410227062542336279403.jpeg/ZfxY3oaEXWAvGwIJdrcf2CBzGWBkgXsin6cj07qnI9M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391899/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E8%AD%B0%E5%93%A1%E4%BF%83%E5%BE%B9%E6%9F%A5%E5%A6%82%E8%AD%89%E6%9C%89%E4%BA%BA%E9%A3%BC%E9%A4%8A-%E7%8B%97%E4%B8%BB%E9%A0%88%E6%89%BF%E6%93%94%E6%B3%95%E5%BE%8B%E8%B2%AC%E4%BB%BB",
-    "timestamp": "2026-09-20T11:53:52.824Z",
     "strategy": ".content-card__main"
   }
 ];
