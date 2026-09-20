@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T08:54:16.681Z
+// Last updated: 2026-09-20T09:20:05.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "親家變夫妻！女子婚後撮合親母嫁給老爺　網民笑言：沒有婆媳問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178372594068361216049651.jpeg/ZWKyE6dKSsDFwiedhOteQpa9hnQR6jCOqSTWoakk1qE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60391828/%E8%A6%AA%E5%AE%B6%E8%AE%8A%E5%A4%AB%E5%A6%BB-%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%BE%8C%E6%92%AE%E5%90%88%E8%A6%AA%E6%AF%8D%E5%AB%81%E7%B5%A6%E8%80%81%E7%88%BA-%E7%B6%B2%E6%B0%91%E7%AC%91%E8%A8%80-%E6%B2%92%E6%9C%89%E5%A9%86%E5%AA%B3%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-09-20T09:20:05.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟紅館開騷萬人合唱《朋友》感動落淚　曾華倩獲邀合唱掀高潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176951868723564544356820.jpeg/aiwfvgfB13osWJwnjfqWbDWeOaqosYm3NsMFqDbDBag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390603/%E6%99%AE%E6%9E%97%E6%96%AF%E9%A0%93133%E5%B9%B4%E5%82%B3%E7%B5%B1%E7%A0%B4%E6%BB%85-%E6%9D%9C%E5%85%8B%E5%AD%B8%E8%B2%BB%E5%8D%87%E8%87%B376%E8%90%AC-%E7%BE%8E%E5%9C%8B%E7%95%99%E5%AD%B8%E9%82%84%E5%80%BC%E5%BE%97%E5%97%8E",
     "timestamp": "2026-09-20T01:57:12.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB小花日打四份工靠Coupon慳飯錢　為掃名牌：咖啡都係飲公司",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178058794962259968502147.jpeg/zl26khAhB_Gwdfj3Mf9QENckwxi393O9RSISq0UiEqs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389916/%E7%BE%85%E9%9B%AA%E5%A6%8D%E6%89%93%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%9D%A0%E5%BF%AB%E9%A4%90%E5%BA%97coupon%E6%85%B3%E9%A3%AF%E9%8C%A2%E6%8E%83%E5%90%8D%E7%89%8C-%E9%80%A3%E5%92%96%E5%95%A1%E9%83%BD%E4%BF%82%E9%A3%B2%E5%85%AC%E5%8F%B8",
-    "timestamp": "2026-09-20T00:53:06.108Z",
     "strategy": ".content-card__main"
   }
 ];
