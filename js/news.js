@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T01:57:12.587Z
+// Last updated: 2026-09-20T02:27:21.623Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普組人工智能部隊　稱AI恐慌是騙局拒放慢發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175757095161565184137854.jpeg/ZeIZgezJLrl1iop7V1p_2JOMlMQcuBMYAKPIOwCjyDs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391732/%E7%89%B9%E6%9C%97%E6%99%AE%E7%B5%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%83%A8%E9%9A%8A-%E7%A8%B1ai%E6%81%90%E6%85%8C%E6%98%AF%E9%A8%99%E5%B1%80%E6%8B%92%E6%94%BE%E6%85%A2%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-09-20T02:27:21.623Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普林斯頓133年傳統破滅　杜克學費升至76萬　美國留學還值得嗎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178143739663618048651409.jpeg/yxO-6P0hPK1V-DDfHi5Fk7MCx2ddt83sa4sdgGuLHYA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-5%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-19T17:26:56.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘繞道3的士串燒相撞　5人受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178143739663618048651409.jpeg/yxO-6P0hPK1V-DDfHi5Fk7MCx2ddt83sa4sdgGuLHYA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-5%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-19T17:19:33.859Z",
     "strategy": ".content-card__main"
   }
 ];
