@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T13:40:39.939Z
+// Last updated: 2026-09-20T13:54:38.866Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚詠麟演唱會丨全場合唱《朋友》聽到喊　半個娛樂圈到場撐場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178425755625852928576318.jpeg/FaZZzWXZXe0hk9UX6r7FGACJjp-nM_fsRgtaqEYLWqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60391909/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E5%85%A8%E5%A0%B4%E5%90%88%E5%94%B1-%E6%9C%8B%E5%8F%8B-%E8%81%BD%E5%88%B0%E5%96%8A-%E5%8D%8A%E5%80%8B%E5%A8%9B%E6%A8%82%E5%9C%88%E5%88%B0%E5%A0%B4%E6%92%90%E5%A0%B4",
+    "timestamp": "2026-09-20T13:54:38.866Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗疑狗咬死人｜漁護署：將聯警方於涉事地點　捕捉無人看管狗隻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172874627169390592285174.jpeg/zAPcm3sP9xakQPmoFN739c48BBgItilHZGfjmGRn45g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391805/%E6%97%A5%E9%9F%93-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F%E7%99%BC%E5%B0%84%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-09-20T06:29:44.845Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運2026｜中國首金出爐　女子現代五項團體成功衛冕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178322812050345984249376.jpeg/tdhVhMStt9pYpCFBp33E3bLno2NQ6BSc7utDGe7rQxk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391768/%E4%BA%9E%E9%81%8B2026-%E4%B8%AD%E5%9C%8B%E9%A6%96%E9%87%91%E5%87%BA%E7%88%90-%E5%A5%B3%E5%AD%90%E7%8F%BE%E4%BB%A3%E4%BA%94%E9%A0%85%E5%9C%98%E9%AB%94%E6%88%90%E5%8A%9F%E8%A1%9B%E5%86%95",
-    "timestamp": "2026-09-20T05:53:58.464Z",
     "strategy": ".content-card__main"
   }
 ];
