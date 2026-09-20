@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T11:53:52.824Z
+// Last updated: 2026-09-20T12:26:00.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "莊思明雙臂紋心跳圖悼離世父母　大家姐莊思敏留下四個Emoji",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178415821425217536067429.png/qZWCRzsE3XoM3L-p5L0KtTh_IKoEzdcAP-ET2T_hE9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391898/%E8%8E%8A%E6%80%9D%E6%98%8E%E9%9B%99%E8%87%82%E7%B4%8B%E5%BF%83%E8%B7%B3%E5%9C%96%E6%82%BC%E9%9B%A2%E4%B8%96%E7%88%B6%E6%AF%8D-%E5%A4%A7%E5%AE%B6%E5%A7%90%E8%8E%8A%E6%80%9D%E6%95%8F%E7%95%99%E4%B8%8B%E5%9B%9B%E5%80%8Bemoji",
+    "timestamp": "2026-09-20T12:26:00.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗疑狗咬死人｜議員促徹查如證有人飼養　狗主須承擔法律責任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177205259898982400031978.png/KkIqg3mrsRLFCOVtVtToJQbJ1oiSB6PGZFnCNmRZwjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391773/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%8E%A5%E5%8F%97%E5%A4%AE%E8%A6%96%E8%A8%AA%E5%95%8F-%E7%A8%B1%E6%9C%89%E4%BF%A1%E5%BF%83%E5%AE%8C%E6%88%90%E5%85%A8%E9%83%A8284%E6%8C%87%E6%A8%99",
     "timestamp": "2026-09-20T04:45:36.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "帶捏捏樂出國慘遭安檢攔截？專家曝光搭機正解：直接放進託運行李",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178299205437886464473085.jpeg/mcSWwlnBCKHNVf8l6sUMdpN67WVFfKmwIlVegyJVXoM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60391724/%E5%B8%B6%E6%8D%8F%E6%8D%8F%E6%A8%82%E5%87%BA%E5%9C%8B%E6%85%98%E9%81%AD%E5%AE%89%E6%AA%A2%E6%94%94%E6%88%AA-%E5%B0%88%E5%AE%B6%E6%9B%9D%E5%85%89%E6%90%AD%E6%A9%9F%E6%AD%A3%E8%A7%A3-%E7%9B%B4%E6%8E%A5%E6%94%BE%E9%80%B2%E8%A8%97%E9%81%8B%E8%A1%8C%E6%9D%8E",
-    "timestamp": "2026-09-20T04:23:37.531Z",
     "strategy": ".content-card__main"
   }
 ];
