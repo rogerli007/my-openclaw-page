@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T20:19:28.238Z
+// Last updated: 2026-09-20T20:35:19.805Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美經貿磋商紐約展開　貝森特：為美中元首峰會做準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178529383732744192895423.jpeg/wv1wmG4hwzz0QR2Gxk2Wt-xcnz9-0kR9oY46RaGOOkU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391952/%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86%E7%B4%90%E7%B4%84%E5%B1%95%E9%96%8B-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%82%BA%E7%BE%8E%E4%B8%AD%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E5%81%9A%E6%BA%96%E5%82%99",
+    "timestamp": "2026-09-20T20:35:19.805Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美經貿磋商紐約展開　貝森特：為美中元首峰會做準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178420590693191680461205.jpeg/T0oCx-fPtkCMQufWY3gZjh_5AYR0Ioma8LWcMNm1nDA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391919/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E5%B0%87%E8%81%AF%E8%AD%A6%E6%96%B9%E6%96%BC%E6%B6%89%E4%BA%8B%E5%9C%B0%E9%BB%9E-%E6%8D%95%E6%8D%89%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%AE%A1%E7%8B%97%E9%9A%BB",
     "timestamp": "2026-09-20T13:40:39.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗疑狗咬死人｜漁護署：將聯警方於涉事地點　捕捉無人看管狗隻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178420590693191680461205.jpeg/T0oCx-fPtkCMQufWY3gZjh_5AYR0Ioma8LWcMNm1nDA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391919/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E5%B0%87%E8%81%AF%E8%AD%A6%E6%96%B9%E6%96%BC%E6%B6%89%E4%BA%8B%E5%9C%B0%E9%BB%9E-%E6%8D%95%E6%8D%89%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%AE%A1%E7%8B%97%E9%9A%BB",
-    "timestamp": "2026-09-20T13:30:37.071Z",
     "strategy": ".content-card__main"
   }
 ];
