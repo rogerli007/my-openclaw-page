@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-19T23:53:57.773Z
+// Last updated: 2026-09-20T00:53:06.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB小花日打四份工靠Coupon慳飯錢　為掃名牌：咖啡都係飲公司",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178058794962259968502147.jpeg/zl26khAhB_Gwdfj3Mf9QENckwxi393O9RSISq0UiEqs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389916/%E7%BE%85%E9%9B%AA%E5%A6%8D%E6%89%93%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%9D%A0%E5%BF%AB%E9%A4%90%E5%BA%97coupon%E6%85%B3%E9%A3%AF%E9%8C%A2%E6%8E%83%E5%90%8D%E7%89%8C-%E9%80%A3%E5%92%96%E5%95%A1%E9%83%BD%E4%BF%82%E9%A3%B2%E5%85%AC%E5%8F%B8",
+    "timestamp": "2026-09-20T00:53:06.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "利雅得機場附近冒濃煙火光　胡塞武裝：襲沙特阿拉伯首都敏感目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178143739663618048651409.jpeg/yxO-6P0hPK1V-DDfHi5Fk7MCx2ddt83sa4sdgGuLHYA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-5%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-19T16:54:37.909Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘繞道3的士串燒相撞　至少3人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178133504244846592057216.jpeg/wqXatD-TOJ6BXsgcOX-N0sU9vKfYqs1qgVweiLtcHog?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391684/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E7%9A%84%E5%A3%AB%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%913%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-09-19T16:43:31.131Z",
     "strategy": ".content-card__main"
   }
 ];
