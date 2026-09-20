@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T08:45:23.023Z
+// Last updated: 2026-09-20T08:54:16.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚詠麟紅館開騷萬人合唱《朋友》感動落淚　曾華倩獲邀合唱掀高潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178379050763161600721986.jpeg/R3nSvS25Ei2us8xBBIJ-KJev2jBJHPPfZGX9ZmRl_WY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60391834/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E7%B4%85%E9%A4%A8%E9%96%8B%E9%A8%B7%E8%90%AC%E4%BA%BA%E5%90%88%E5%94%B1-%E6%9C%8B%E5%8F%8B-%E6%84%9F%E5%8B%95%E8%90%BD%E6%B7%9A-%E6%9B%BE%E8%8F%AF%E5%80%A9%E7%8D%B2%E9%82%80%E5%90%88%E5%94%B1%E6%8E%80%E9%AB%98%E6%BD%AE",
+    "timestamp": "2026-09-20T08:54:16.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│揀西瓜爆口角　莽漢竟對準21歲老闆頭狂砸10幾個瓜　賠近7萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178058794962259968502147.jpeg/zl26khAhB_Gwdfj3Mf9QENckwxi393O9RSISq0UiEqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60389916/%E7%BE%85%E9%9B%AA%E5%A6%8D%E6%89%93%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%9D%A0%E5%BF%AB%E9%A4%90%E5%BA%97coupon%E6%85%B3%E9%A3%AF%E9%8C%A2%E6%8E%83%E5%90%8D%E7%89%8C-%E9%80%A3%E5%92%96%E5%95%A1%E9%83%BD%E4%BF%82%E9%A3%B2%E5%85%AC%E5%8F%B8",
     "timestamp": "2026-09-20T00:53:06.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "利雅得機場附近冒濃煙火光　胡塞武裝：襲沙特阿拉伯首都敏感目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178061022267969536041982.jpeg/e94NCpNkOKLFjzs-NAgIFa71neb4UlS1j0gwSo9IMEo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391709/%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%99%84%E8%BF%91%E5%86%92%E6%BF%83%E7%85%99%E7%81%AB%E5%85%89-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D-%E8%A5%B2%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E9%A6%96%E9%83%BD%E6%95%8F%E6%84%9F%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-09-19T23:53:57.773Z",
     "strategy": ".content-card__main"
   }
 ];
