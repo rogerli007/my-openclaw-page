@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T23:29:37.665Z
+// Last updated: 2026-09-20T23:40:44.780Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜LPR連續16個月持平　人行還在等什麼？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250214/967029986420592640375164.jpeg/pgNtGTV2hB9_31l5_yOioRKo0EumNaOKq025bKtNuWw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391868/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-lpr%E9%80%A3%E7%BA%8C16%E5%80%8B%E6%9C%88%E6%8C%81%E5%B9%B3-%E4%BA%BA%E8%A1%8C%E9%82%84%E5%9C%A8%E7%AD%89%E4%BB%80%E9%BA%BC",
+    "timestamp": "2026-09-20T23:40:44.780Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗戰爭胡塞入場・三｜最慘受害者沙特　能不能等到美國老大哥？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172273323619389440641582.jpeg/rC7iKzQjj75OzU8fe2MavM_ltwi-oAAGCt5GgQreRoE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391944/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%AD%A3%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E4%BD%9C%E9%87%8D%E5%A4%A7%E6%B1%BA%E7%AD%96-%E5%8F%AF%E8%83%BD%E9%A1%98%E8%88%87%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E6%9C%83%E9%9D%A2",
     "timestamp": "2026-09-20T16:42:43.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林祖輝昔日過億身家轉戰澳門燒肉店　戲癮大發豁達喊話：男九都做",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178411958332821504651092.jpeg/-mo2lEI86mutZKLA7vNf2CMMgaVqLERdADF74gAxe-I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391800/%E6%9E%97%E7%A5%96%E8%BC%9D%E6%98%94%E6%97%A5%E9%81%8E%E5%84%84%E8%BA%AB%E5%AE%B6%E8%BD%89%E6%88%B0%E6%BE%B3%E9%96%80%E7%87%92%E8%82%89%E5%BA%97-%E6%88%B2%E7%99%AE%E5%A4%A7%E7%99%BC%E8%B1%81%E9%81%94%E5%96%8A%E8%A9%B1-%E7%94%B7%E4%B9%9D%E9%83%BD%E5%81%9A",
-    "timestamp": "2026-09-20T16:21:06.328Z",
     "strategy": ".content-card__main"
   }
 ];
