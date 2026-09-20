@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T15:41:21.538Z
+// Last updated: 2026-09-20T16:21:06.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林祖輝昔日過億身家轉戰澳門燒肉店　戲癮大發豁達喊話：男九都做",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178411958332821504651092.jpeg/-mo2lEI86mutZKLA7vNf2CMMgaVqLERdADF74gAxe-I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391800/%E6%9E%97%E7%A5%96%E8%BC%9D%E6%98%94%E6%97%A5%E9%81%8E%E5%84%84%E8%BA%AB%E5%AE%B6%E8%BD%89%E6%88%B0%E6%BE%B3%E9%96%80%E7%87%92%E8%82%89%E5%BA%97-%E6%88%B2%E7%99%AE%E5%A4%A7%E7%99%BC%E8%B1%81%E9%81%94%E5%96%8A%E8%A9%B1-%E7%94%B7%E4%B9%9D%E9%83%BD%E5%81%9A",
+    "timestamp": "2026-09-20T16:21:06.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奚夢瑤何猷君溫馨一家人帶爬山　仔女暴風式成長完美繼承媽媽基因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178372594068361216049651.jpeg/ZWKyE6dKSsDFwiedhOteQpa9hnQR6jCOqSTWoakk1qE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60391828/%E8%A6%AA%E5%AE%B6%E8%AE%8A%E5%A4%AB%E5%A6%BB-%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%BE%8C%E6%92%AE%E5%90%88%E8%A6%AA%E6%AF%8D%E5%AB%81%E7%B5%A6%E8%80%81%E7%88%BA-%E7%B6%B2%E6%B0%91%E7%AC%91%E8%A8%80-%E6%B2%92%E6%9C%89%E5%A9%86%E5%AA%B3%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-09-20T09:20:05.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚詠麟紅館開騷萬人合唱《朋友》感動落淚　曾華倩獲邀合唱掀高潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178379050763161600721986.jpeg/R3nSvS25Ei2us8xBBIJ-KJev2jBJHPPfZGX9ZmRl_WY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60391834/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E7%B4%85%E9%A4%A8%E9%96%8B%E9%A8%B7%E8%90%AC%E4%BA%BA%E5%90%88%E5%94%B1-%E6%9C%8B%E5%8F%8B-%E6%84%9F%E5%8B%95%E8%90%BD%E6%B7%9A-%E6%9B%BE%E8%8F%AF%E5%80%A9%E7%8D%B2%E9%82%80%E5%90%88%E5%94%B1%E6%8E%80%E9%AB%98%E6%BD%AE",
-    "timestamp": "2026-09-20T08:54:16.681Z",
     "strategy": ".content-card__main"
   }
 ];
