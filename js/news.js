@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T21:54:43.302Z
+// Last updated: 2026-09-20T22:33:27.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "殿堂級天后餐廳歎靚嘢77歲仍擦得　秘婚擁廿物業近3億身家住別墅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178475114174353408472193.jpeg/AQHPylB-k8kf6DMrSNqHu_AdfHdHICQLLEGHoixBh6I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391905/%E5%BE%90%E5%B0%8F%E9%B3%B3%E9%A4%90%E5%BB%B3%E6%AD%8E%E9%9D%9A%E5%98%A277%E6%AD%B2%E4%BB%8D%E6%93%A6%E5%BE%97-%E7%A7%98%E5%A9%9A%E6%93%81%E5%BB%BF%E7%89%A9%E6%A5%AD%E8%BF%913%E5%84%84%E8%BA%AB%E5%AE%B6%E4%BD%8F%E5%88%A5%E5%A2%85",
+    "timestamp": "2026-09-20T22:33:27.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄杜馬選舉｜俄指烏無人機大舉攻襲圖擾選情　無阻執政黨得票領先",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956245986366197760653487.jpeg/OoeEegfmC4Q775hlkb86ifGBHM5VdaAwQ180ZENfNGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391931/%E5%B0%96%E6%B2%99%E5%92%80%E8%AB%BE%E5%A3%AB%E4%BD%9B%E8%87%BA%E5%A5%B3%E5%AD%90%E9%97%96%E9%85%92%E5%90%A7%E6%8F%AE%E8%8F%9C%E5%88%80%E6%AF%80-4-7%E8%90%AC%E8%B2%A1%E7%89%A9-%E6%B6%89%E5%88%91%E4%BA%8B%E6%AF%80%E5%A3%9E%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-20T14:46:55.283Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神2｜人氣靚仔冷氣技工僅獲兩位女神揀中　險不入圍Bob嚇到咆哮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178455969273745408536408.jpeg/ONfjJsUC5i_x7F9HY5maAjNyjJ5ykst1k5r2pJOa9qQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391922/%E5%A5%B3%E7%A5%9E2-%E4%BA%BA%E6%B0%A3%E9%9D%9A%E4%BB%94%E5%86%B7%E6%B0%A3%E6%8A%80%E5%B7%A5%E5%83%85%E7%8D%B2%E5%85%A9%E4%BD%8D%E5%A5%B3%E7%A5%9E%E6%8F%80%E4%B8%AD-%E9%9A%AA%E4%B8%8D%E5%85%A5%E5%9C%8Dbob%E5%9A%87%E5%88%B0%E5%92%86%E5%93%AE",
-    "timestamp": "2026-09-20T14:30:20.473Z",
     "strategy": ".content-card__main"
   }
 ];
