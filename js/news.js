@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T13:54:38.866Z
+// Last updated: 2026-09-20T14:17:34.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長鑫存儲宣布第五代DRAM技術平台實現量產：技術接近最頂尖製程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164642644081512448612358.jpeg/GG94Kb0OlQzf-qm4LbqsJnKhuA9TaZsT3Ce-atwnvmo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391924/%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E5%AE%A3%E5%B8%83%E7%AC%AC%E4%BA%94%E4%BB%A3dram%E6%8A%80%E8%A1%93%E5%B9%B3%E5%8F%B0%E5%AF%A6%E7%8F%BE%E9%87%8F%E7%94%A2-%E6%8A%80%E8%A1%93%E6%8E%A5%E8%BF%91%E6%9C%80%E9%A0%82%E5%B0%96%E8%A3%BD%E7%A8%8B",
+    "timestamp": "2026-09-20T14:17:34.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟演唱會丨全場合唱《朋友》聽到喊　半個娛樂圈到場撐場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178360419400552448518793.jpeg/pOwlkdl_fFHVeTW4R9oHaJFNW8Ww3J8pSFJMOEhSTDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391819/%E9%BB%8E%E5%BD%BC%E5%BE%97%E8%BF%BD%E6%80%9D%E6%9C%83-%E9%99%B3%E5%8F%8B%E6%9E%97%E6%B7%91%E6%95%8F%E4%B8%8A%E5%8F%B0%E5%88%86%E4%BA%AB-%E5%90%88%E5%94%B1-%E6%B5%AA%E5%AD%90%E5%BF%83%E8%81%B2-%E9%80%81%E5%88%A5%E6%89%8D%E5%AD%90",
     "timestamp": "2026-09-20T07:21:25.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日韓：朝鮮向東部海域發射導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172874627169390592285174.jpeg/zAPcm3sP9xakQPmoFN739c48BBgItilHZGfjmGRn45g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391805/%E6%97%A5%E9%9F%93-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F%E7%99%BC%E5%B0%84%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-09-20T06:29:44.845Z",
     "strategy": ".content-card__main"
   }
 ];
