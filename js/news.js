@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T04:23:37.531Z
+// Last updated: 2026-09-20T04:45:36.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施政報告｜李家超接受央視訪問　稱有信心完成全部284指標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177205259898982400031978.png/KkIqg3mrsRLFCOVtVtToJQbJ1oiSB6PGZFnCNmRZwjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391773/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%8E%A5%E5%8F%97%E5%A4%AE%E8%A6%96%E8%A8%AA%E5%95%8F-%E7%A8%B1%E6%9C%89%E4%BF%A1%E5%BF%83%E5%AE%8C%E6%88%90%E5%85%A8%E9%83%A8284%E6%8C%87%E6%A8%99",
+    "timestamp": "2026-09-20T04:45:36.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "帶捏捏樂出國慘遭安檢攔截？專家曝光搭機正解：直接放進託運行李",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178184720681275392685712.jpeg/_6ijs4ci6ecsi0rptn78BmNyQRwModTbgeKIHLviiBw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391697/%E5%85%83%E6%9C%97%E5%A5%B3%E5%AD%90%E6%98%8F%E8%BF%B7%E7%84%A1%E5%91%BC%E5%90%B8%E8%84%88%E6%90%8F%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E6%97%81%E9%82%8A%E6%9C%89%E4%B8%80%E8%BC%9B%E5%96%AE%E8%BB%8A-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-09-19T19:54:02.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗女子昏迷無呼吸脈搏送院搶救　旁邊有一輛單車　警到場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178184720681275392685712.jpeg/_6ijs4ci6ecsi0rptn78BmNyQRwModTbgeKIHLviiBw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391697/%E5%85%83%E6%9C%97%E5%A5%B3%E5%AD%90%E6%98%8F%E8%BF%B7%E7%84%A1%E5%91%BC%E5%90%B8%E8%84%88%E6%90%8F%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E6%97%81%E9%82%8A%E6%9C%89%E4%B8%80%E8%BC%9B%E5%96%AE%E8%BB%8A-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-09-19T19:42:32.099Z",
     "strategy": ".content-card__main"
   }
 ];
