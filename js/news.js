@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T08:24:39.697Z
+// Last updated: 2026-09-20T08:45:23.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│揀西瓜爆口角　莽漢竟對準21歲老闆頭狂砸10幾個瓜　賠近7萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178367986109517824318526.jpeg/U5utkUGudB1qK3vmVZy-Fk4jLkWZoR-v8Au9XPALvVw",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60391816/%E6%9C%89%E7%89%87-%E6%8F%80%E8%A5%BF%E7%93%9C%E7%88%86%E5%8F%A3%E8%A7%92-%E8%8E%BD%E6%BC%A2%E7%AB%9F%E5%B0%8D%E6%BA%9621%E6%AD%B2%E8%80%81%E9%97%86%E9%A0%AD%E7%8B%82%E7%A0%B810%E5%B9%BE%E5%80%8B%E7%93%9C-%E8%B3%A0%E8%BF%917%E8%90%AC",
+    "timestamp": "2026-09-20T08:45:23.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星丨薛家燕爆鄧兆尊曾假戲真做　廖碧兒罕談感情事甜到漏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178061022267969536041982.jpeg/e94NCpNkOKLFjzs-NAgIFa71neb4UlS1j0gwSo9IMEo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391709/%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%99%84%E8%BF%91%E5%86%92%E6%BF%83%E7%85%99%E7%81%AB%E5%85%89-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D-%E8%A5%B2%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E9%A6%96%E9%83%BD%E6%95%8F%E6%84%9F%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-09-19T23:53:57.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "利雅得機場附近冒濃煙火光　胡塞武裝：襲沙特阿拉伯首都敏感目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178061022267969536041982.jpeg/e94NCpNkOKLFjzs-NAgIFa71neb4UlS1j0gwSo9IMEo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391709/%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%99%84%E8%BF%91%E5%86%92%E6%BF%83%E7%85%99%E7%81%AB%E5%85%89-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D-%E8%A5%B2%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E9%A6%96%E9%83%BD%E6%95%8F%E6%84%9F%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-09-19T23:44:00.232Z",
     "strategy": ".content-card__main"
   }
 ];
