@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T03:29:36.782Z
+// Last updated: 2026-09-20T03:47:23.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "PDRN面膜15款推薦　拯救熬夜暗沉換季乾燥脫皮肌膚　急救保養必備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173669425564356608278961.png/HZwK7Hj18LxoPgH3ivCOWKemG9_cXUfMObgLODm4Czg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60387576/pdrn%E9%9D%A2%E8%86%9C15%E6%AC%BE%E6%8E%A8%E8%96%A6-%E6%8B%AF%E6%95%91%E7%86%AC%E5%A4%9C%E6%9A%97%E6%B2%89%E6%8F%9B%E5%AD%A3%E4%B9%BE%E7%87%A5%E8%84%AB%E7%9A%AE%E8%82%8C%E8%86%9A-%E6%80%A5%E6%95%91%E4%BF%9D%E9%A4%8A%E5%BF%85%E5%82%99",
+    "timestamp": "2026-09-20T03:47:23.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國「卡」住　日本央行失去控制力｜點經",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176919805140144128274389.png/hxamW9SKBcmXNkSyYwigYPgQhpror3ejXt1S6l7dUuo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391696/%E7%BE%8E%E5%9C%8B%E7%B0%BD%E5%88%B6%E8%A3%81%E4%BF%84%E4%BC%8A%E6%B3%95%E6%A1%88-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8F%8D%E5%B0%8D%E6%AC%A1%E7%B4%9A%E5%88%B6%E8%A3%81-%E4%BF%9D%E7%95%99%E5%8F%8D%E5%88%B6%E6%AC%8A%E5%88%A9",
     "timestamp": "2026-09-19T18:54:04.423Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國簽制裁俄伊法案　中國商務部：反對次級制裁　保留反制權利",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176919805140144128274389.png/hxamW9SKBcmXNkSyYwigYPgQhpror3ejXt1S6l7dUuo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391696/%E7%BE%8E%E5%9C%8B%E7%B0%BD%E5%88%B6%E8%A3%81%E4%BF%84%E4%BC%8A%E6%B3%95%E6%A1%88-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8F%8D%E5%B0%8D%E6%AC%A1%E7%B4%9A%E5%88%B6%E8%A3%81-%E4%BF%9D%E7%95%99%E5%8F%8D%E5%88%B6%E6%AC%8A%E5%88%A9",
-    "timestamp": "2026-09-19T18:42:36.857Z",
     "strategy": ".content-card__main"
   }
 ];
