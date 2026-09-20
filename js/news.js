@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T03:57:13.899Z
+// Last updated: 2026-09-20T04:23:37.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "帶捏捏樂出國慘遭安檢攔截？專家曝光搭機正解：直接放進託運行李",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178299205437886464473085.jpeg/mcSWwlnBCKHNVf8l6sUMdpN67WVFfKmwIlVegyJVXoM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60391724/%E5%B8%B6%E6%8D%8F%E6%8D%8F%E6%A8%82%E5%87%BA%E5%9C%8B%E6%85%98%E9%81%AD%E5%AE%89%E6%AA%A2%E6%94%94%E6%88%AA-%E5%B0%88%E5%AE%B6%E6%9B%9D%E5%85%89%E6%90%AD%E6%A9%9F%E6%AD%A3%E8%A7%A3-%E7%9B%B4%E6%8E%A5%E6%94%BE%E9%80%B2%E8%A8%97%E9%81%8B%E8%A1%8C%E6%9D%8E",
+    "timestamp": "2026-09-20T04:23:37.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華出殯｜李家超、梁振英等扶靈　蓋國旗靈柩移哥連臣角火葬場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178184720681275392685712.jpeg/_6ijs4ci6ecsi0rptn78BmNyQRwModTbgeKIHLviiBw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391697/%E5%85%83%E6%9C%97%E5%A5%B3%E5%AD%90%E6%98%8F%E8%BF%B7%E7%84%A1%E5%91%BC%E5%90%B8%E8%84%88%E6%90%8F%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E6%97%81%E9%82%8A%E6%9C%89%E4%B8%80%E8%BC%9B%E5%96%AE%E8%BB%8A-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-09-19T19:42:32.099Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國法官擬拒TikTok私隱和解部份條款　4億美元協議遇阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171650551495135232128753.jpeg/ljqvJw_JxFXVS4C31lDa0S7OiXMRiaABfpIAAH6SAAA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391698/%E7%BE%8E%E5%9C%8B%E6%B3%95%E5%AE%98%E6%93%AC%E6%8B%92tiktok%E7%A7%81%E9%9A%B1%E5%92%8C%E8%A7%A3%E9%83%A8%E4%BB%BD%E6%A2%9D%E6%AC%BE-4%E5%84%84%E7%BE%8E%E5%85%83%E5%8D%94%E8%AD%B0%E9%81%87%E9%98%BB",
-    "timestamp": "2026-09-19T19:25:10.910Z",
     "strategy": ".content-card__main"
   }
 ];
