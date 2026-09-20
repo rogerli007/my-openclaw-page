@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T12:26:00.527Z
+// Last updated: 2026-09-20T12:48:54.197Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Converse新廣告被指涉三K黨私刑元素　官方急下架並致歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178426568972701696314085.jpeg/s5msXBiWmF77jbAEe_pLO5hoamt7uAf3bzCv128wr9c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391908/converse%E6%96%B0%E5%BB%A3%E5%91%8A%E8%A2%AB%E6%8C%87%E6%B6%89%E4%B8%89k%E9%BB%A8%E7%A7%81%E5%88%91%E5%85%83%E7%B4%A0-%E5%AE%98%E6%96%B9%E6%80%A5%E4%B8%8B%E6%9E%B6%E4%B8%A6%E8%87%B4%E6%AD%89",
+    "timestamp": "2026-09-20T12:48:54.197Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "莊思明雙臂紋心跳圖悼離世父母　大家姐莊思敏留下四個Emoji",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178012694112899072178653.jpeg/_p86lmud0hUzMqrsAu7dFeqEXR8U0FEzdr_25Ey_9uQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391774/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%9F%93%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%89%8B%E7%90%83%E9%9A%8A%E6%93%8A%E6%95%97%E6%B8%AF%E9%9A%8A-%E8%B3%BD%E5%89%8D%E6%9C%AA%E6%92%AD%E9%9F%93%E4%B8%AD%E5%9C%8B%E6%AD%8C",
     "timestamp": "2026-09-20T05:20:33.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施政報告｜李家超接受央視訪問　稱有信心完成全部284指標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177205259898982400031978.png/KkIqg3mrsRLFCOVtVtToJQbJ1oiSB6PGZFnCNmRZwjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391773/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%8E%A5%E5%8F%97%E5%A4%AE%E8%A6%96%E8%A8%AA%E5%95%8F-%E7%A8%B1%E6%9C%89%E4%BF%A1%E5%BF%83%E5%AE%8C%E6%88%90%E5%85%A8%E9%83%A8284%E6%8C%87%E6%A8%99",
-    "timestamp": "2026-09-20T04:45:36.865Z",
     "strategy": ".content-card__main"
   }
 ];
