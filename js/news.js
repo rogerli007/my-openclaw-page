@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T09:41:24.999Z
+// Last updated: 2026-09-20T10:18:44.625Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "順豐貨車青衣迴旋處轉彎跌唧車！連木板散落馬路被嘲：孖寶賽車？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177617392801419264385072.jpeg/rvdkYqWu8tfFLivLHdYYCP7hJ4kN5p_71O7MCtTuzAo",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391203/%E9%A0%86%E8%B1%90%E8%B2%A8%E8%BB%8A%E9%9D%92%E8%A1%A3%E8%BF%B4%E6%97%8B%E8%99%95%E8%BD%89%E5%BD%8E%E8%B7%8C%E5%94%A7%E8%BB%8A-%E9%80%A3%E6%9C%A8%E6%9D%BF%E6%95%A3%E8%90%BD%E9%A6%AC%E8%B7%AF%E8%A2%AB%E5%98%B2-%E5%AD%96%E5%AF%B6%E8%B3%BD%E8%BB%8A",
+    "timestamp": "2026-09-20T10:18:44.625Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黎彼得追思｜單立文讚揚填詞貢獻：香港樂壇欠Peter哥一個交代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178290479343603712851243.png/VRmlsSu5KZ6XP40Tu10WEoE5kmsYDIJQot0EiKLdBIg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391740/%E5%8D%83%E4%BA%BA%E5%A0%B1%E5%90%8D%E6%AF%94%E6%8B%BC-%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E8%88%89%E8%A1%8C%E5%85%A8%E7%90%83%E9%A6%96%E5%A0%B4%E6%A8%A1%E6%93%AC%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%AB%B6%E9%80%9F%E7%B7%9A%E4%B8%8B%E8%B3%BD%E4%BA%8B",
     "timestamp": "2026-09-20T02:48:05.082Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普組人工智能部隊　稱AI恐慌是騙局拒放慢發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175757095161565184137854.jpeg/ZeIZgezJLrl1iop7V1p_2JOMlMQcuBMYAKPIOwCjyDs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391732/%E7%89%B9%E6%9C%97%E6%99%AE%E7%B5%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%83%A8%E9%9A%8A-%E7%A8%B1ai%E6%81%90%E6%85%8C%E6%98%AF%E9%A8%99%E5%B1%80%E6%8B%92%E6%94%BE%E6%85%A2%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-09-20T02:27:21.623Z",
     "strategy": ".content-card__main"
   }
 ];
