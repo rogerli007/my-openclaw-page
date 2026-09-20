@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T05:43:57.300Z
+// Last updated: 2026-09-20T05:53:58.464Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運2026｜中國首金出爐　女子現代五項團體成功衛冕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178322812050345984249376.jpeg/tdhVhMStt9pYpCFBp33E3bLno2NQ6BSc7utDGe7rQxk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391768/%E4%BA%9E%E9%81%8B2026-%E4%B8%AD%E5%9C%8B%E9%A6%96%E9%87%91%E5%87%BA%E7%88%90-%E5%A5%B3%E5%AD%90%E7%8F%BE%E4%BB%A3%E4%BA%94%E9%A0%85%E5%9C%98%E9%AB%94%E6%88%90%E5%8A%9F%E8%A1%9B%E5%86%95",
+    "timestamp": "2026-09-20T05:53:58.464Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網民刷短劇發現美女演員曾在遊戲詐騙自己！女演員承諾賠償後失聯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178208794908299264827945.jpeg/CV5Yv24ZfvTevJpuJ9y7aCwcQNvhNBVIydCPG_PQjxs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391704/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%81%A3%E4%BB%9417%E6%AD%B2%E5%A5%B3%E5%A4%A9%E5%8F%B0%E4%BC%81%E8%B7%B3-%E8%BF%912%E5%B0%8F%E6%99%82%E5%BE%8C%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-19T21:17:04.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海怡半島單位高空墮鋁窗　跌落行人路玻璃碎片四散　無人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178189618466525184587692.jpeg/m-LnEQTaDntseBNcBB8d4_yJAtjQIn2PVUDGXVVAxl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391701/%E6%B5%B7%E6%80%A1%E5%8D%8A%E5%B3%B6%E5%96%AE%E4%BD%8D%E9%AB%98%E7%A9%BA%E5%A2%AE%E9%8B%81%E7%AA%97-%E8%B7%8C%E8%90%BD%E8%A1%8C%E4%BA%BA%E8%B7%AF%E7%8E%BB%E7%92%83%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-09-19T20:42:44.692Z",
     "strategy": ".content-card__main"
   }
 ];
