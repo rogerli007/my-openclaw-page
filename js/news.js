@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T18:44:01.324Z
+// Last updated: 2026-09-20T19:18:25.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜行動捉3唐狗　警：將按風險評估巡邏涉事郊區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178537958647533568670513.jpeg/iAM4jQI75gWuGeiaT-ZgYfSiZ3oDoqlKx2irtO1oq7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391954/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E8%A1%8C%E5%8B%95%E6%8D%893%E5%94%90%E7%8B%97-%E8%AD%A6-%E5%B0%87%E6%8C%89%E9%A2%A8%E9%9A%AA%E8%A9%95%E4%BC%B0%E5%B7%A1%E9%82%8F%E6%B6%89%E4%BA%8B%E9%83%8A%E5%8D%80",
+    "timestamp": "2026-09-20T19:18:25.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "董建華喪禮｜公祭悼詞全文　讚揚一生踐行「愛國是天經地義」信念",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178410227062542336279403.jpeg/ZfxY3oaEXWAvGwIJdrcf2CBzGWBkgXsin6cj07qnI9M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391899/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E8%AD%B0%E5%93%A1%E4%BF%83%E5%BE%B9%E6%9F%A5%E5%A6%82%E8%AD%89%E6%9C%89%E4%BA%BA%E9%A3%BC%E9%A4%8A-%E7%8B%97%E4%B8%BB%E9%A0%88%E6%89%BF%E6%93%94%E6%B3%95%E5%BE%8B%E8%B2%AC%E4%BB%BB",
     "timestamp": "2026-09-20T11:53:52.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗疑狗咬死人｜倒臥位置150米外單車徑滿佈狗腳印　遺水兜飯盒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178418614429028352325017.jpeg/0Zj0QOysYErx7n211o9aQTXF7hEdV2GcLNH6EAXR-hA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391900/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E5%80%92%E8%87%A5%E4%BD%8D%E7%BD%AE150%E7%B1%B3%E5%A4%96%E5%96%AE%E8%BB%8A%E5%BE%91%E6%BB%BF%E4%BD%88%E7%8B%97%E8%85%B3%E5%8D%B0-%E9%81%BA%E6%B0%B4%E5%85%9C%E9%A3%AF%E7%9B%92",
-    "timestamp": "2026-09-20T11:21:01.736Z",
     "strategy": ".content-card__main"
   }
 ];
