@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T14:54:19.509Z
+// Last updated: 2026-09-20T15:41:21.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "奚夢瑤何猷君溫馨一家人帶爬山　仔女暴風式成長完美繼承媽媽基因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178397876338823168473169.jpeg/Ie7BVFmS_FBBa9Leo31t1-PQDiYj-522C8oXQAvKF0A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391860/%E5%A5%9A%E5%A4%A2%E7%91%A4%E4%BD%95%E7%8C%B7%E5%90%9B%E6%BA%AB%E9%A6%A8%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%B8%B6%E7%88%AC%E5%B1%B1-%E4%BB%94%E5%A5%B3%E6%9A%B4%E9%A2%A8%E5%BC%8F%E6%88%90%E9%95%B7%E5%AE%8C%E7%BE%8E%E7%B9%BC%E6%89%BF%E5%AA%BD%E5%AA%BD%E5%9F%BA%E5%9B%A0",
+    "timestamp": "2026-09-20T15:41:21.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛民邨電錶房冒煙傳爆炸聲　保民樓嘉民樓停水電　數十名住戶暫避",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178379050763161600721986.jpeg/R3nSvS25Ei2us8xBBIJ-KJev2jBJHPPfZGX9ZmRl_WY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60391834/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E7%B4%85%E9%A4%A8%E9%96%8B%E9%A8%B7%E8%90%AC%E4%BA%BA%E5%90%88%E5%94%B1-%E6%9C%8B%E5%8F%8B-%E6%84%9F%E5%8B%95%E8%90%BD%E6%B7%9A-%E6%9B%BE%E8%8F%AF%E5%80%A9%E7%8D%B2%E9%82%80%E5%90%88%E5%94%B1%E6%8E%80%E9%AB%98%E6%BD%AE",
     "timestamp": "2026-09-20T08:54:16.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│揀西瓜爆口角　莽漢竟對準21歲老闆頭狂砸10幾個瓜　賠近7萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178367986109517824318526.jpeg/U5utkUGudB1qK3vmVZy-Fk4jLkWZoR-v8Au9XPALvVw",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60391816/%E6%9C%89%E7%89%87-%E6%8F%80%E8%A5%BF%E7%93%9C%E7%88%86%E5%8F%A3%E8%A7%92-%E8%8E%BD%E6%BC%A2%E7%AB%9F%E5%B0%8D%E6%BA%9621%E6%AD%B2%E8%80%81%E9%97%86%E9%A0%AD%E7%8B%82%E7%A0%B810%E5%B9%BE%E5%80%8B%E7%93%9C-%E8%B3%A0%E8%BF%917%E8%90%AC",
-    "timestamp": "2026-09-20T08:45:23.023Z",
     "strategy": ".content-card__main"
   }
 ];
