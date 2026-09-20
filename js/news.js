@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T06:29:44.845Z
+// Last updated: 2026-09-20T07:21:25.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎彼得追思會｜陳友林淑敏上台分享  合唱《浪子心聲》送別才子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178360419400552448518793.jpeg/pOwlkdl_fFHVeTW4R9oHaJFNW8Ww3J8pSFJMOEhSTDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391819/%E9%BB%8E%E5%BD%BC%E5%BE%97%E8%BF%BD%E6%80%9D%E6%9C%83-%E9%99%B3%E5%8F%8B%E6%9E%97%E6%B7%91%E6%95%8F%E4%B8%8A%E5%8F%B0%E5%88%86%E4%BA%AB-%E5%90%88%E5%94%B1-%E6%B5%AA%E5%AD%90%E5%BF%83%E8%81%B2-%E9%80%81%E5%88%A5%E6%89%8D%E5%AD%90",
+    "timestamp": "2026-09-20T07:21:25.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日韓：朝鮮向東部海域發射導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178224557526355968170864.jpeg/2cQbPTnZ4-xov_UdCtOq-zxV40LKIWU_bOGMvFbhjLw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60391707/%E5%A4%A9%E6%B0%A3-%E6%97%A5%E9%96%93%E9%85%B7%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB33%E5%BA%A6-%E4%B8%AD%E7%A7%8B%E6%AD%A3%E6%97%A5%E7%BF%8C%E6%97%A5%E5%B1%80%E9%83%A8%E5%9C%B0%E5%8D%80%E6%9C%89%E9%A9%9F%E9%9B%A8",
     "timestamp": "2026-09-19T22:40:51.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國財長貝森特今與何立峰會談　選址摩根大通總部",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174352541475934208086512.jpeg/7ao6ukoiH1r6UEhQsAdD6eK99jBJtQJoTgqGwU4KhsE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391706/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E9%95%B7%E8%B2%9D%E6%A3%AE%E7%89%B9%E4%BB%8A%E8%88%87%E4%BD%95%E7%AB%8B%E5%B3%B0%E6%9C%83%E8%AB%87-%E9%81%B8%E5%9D%80%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%E7%B8%BD%E9%83%A8",
-    "timestamp": "2026-09-19T21:54:06.753Z",
     "strategy": ".content-card__main"
   }
 ];
