@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T10:54:07.049Z
+// Last updated: 2026-09-20T11:21:01.736Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜倒臥位置150米外單車徑滿佈狗腳印　遺水兜飯盒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178418614429028352325017.jpeg/0Zj0QOysYErx7n211o9aQTXF7hEdV2GcLNH6EAXR-hA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391900/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E5%80%92%E8%87%A5%E4%BD%8D%E7%BD%AE150%E7%B1%B3%E5%A4%96%E5%96%AE%E8%BB%8A%E5%BE%91%E6%BB%BF%E4%BD%88%E7%8B%97%E8%85%B3%E5%8D%B0-%E9%81%BA%E6%B0%B4%E5%85%9C%E9%A3%AF%E7%9B%92",
+    "timestamp": "2026-09-20T11:21:01.736Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗疑狗咬死人｜騎手證狗群出沒　親歷被狗追：一隻追，隻隻跟住",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178306087275728896389501.jpeg/Lf--D0dWlgaP75O-pmsGV_vSt7kOeCY375Xf4cqV3-E",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391714/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%87%BA%E6%AE%AF-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%A2%81%E6%8C%AF%E8%8B%B1%E7%AD%89%E6%89%B6%E9%9D%88-%E8%93%8B%E5%9C%8B%E6%97%97%E9%9D%88%E6%9F%A9%E7%A7%BB%E5%93%A5%E9%80%A3%E8%87%A3%E8%A7%92%E7%81%AB%E8%91%AC%E5%A0%B4",
     "timestamp": "2026-09-20T03:57:13.899Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "PDRN面膜15款推薦　拯救熬夜暗沉換季乾燥脫皮肌膚　急救保養必備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173669425564356608278961.png/HZwK7Hj18LxoPgH3ivCOWKemG9_cXUfMObgLODm4Czg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60387576/pdrn%E9%9D%A2%E8%86%9C15%E6%AC%BE%E6%8E%A8%E8%96%A6-%E6%8B%AF%E6%95%91%E7%86%AC%E5%A4%9C%E6%9A%97%E6%B2%89%E6%8F%9B%E5%AD%A3%E4%B9%BE%E7%87%A5%E8%84%AB%E7%9A%AE%E8%82%8C%E8%86%9A-%E6%80%A5%E6%95%91%E4%BF%9D%E9%A4%8A%E5%BF%85%E5%82%99",
-    "timestamp": "2026-09-20T03:47:23.471Z",
     "strategy": ".content-card__main"
   }
 ];
