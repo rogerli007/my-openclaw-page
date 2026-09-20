@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T17:53:56.600Z
+// Last updated: 2026-09-20T18:22:30.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼聯作客1：1賽和富咸　利辛度馬天尼斯送烏龍球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178513193241153536247608.jpeg/0CM-Jga8Tov06zBPj4PyV4VtS5jiR87GUkMhfVJDIX0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-1%E8%B3%BD%E5%92%8C%E5%AF%8C%E5%92%B8-%E5%88%A9%E8%BE%9B%E5%BA%A6%E9%A6%AC%E5%A4%A9%E5%B0%BC%E6%96%AF%E9%80%81%E7%83%8F%E9%BE%8D%E7%90%83",
+    "timestamp": "2026-09-20T18:22:30.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼聯作客1：1賽和富咸　利辛度馬天尼斯送烏龍球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178410227062542336279403.jpeg/ZfxY3oaEXWAvGwIJdrcf2CBzGWBkgXsin6cj07qnI9M?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391893/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E9%A8%8E%E6%89%8B%E8%AD%89%E7%8B%97%E7%BE%A4%E5%87%BA%E6%B2%92-%E8%A6%AA%E6%AD%B7%E8%A2%AB%E7%8B%97%E8%BF%BD-%E4%B8%80%E9%9A%BB%E8%BF%BD-%E9%9A%BB%E9%9A%BB%E8%B7%9F%E4%BD%8F",
     "timestamp": "2026-09-20T10:54:07.049Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "永久控制格陵蘭？　特朗普的「交易」不講藝術才是恐怖的國際現實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260118/1089450563986264064275609.jpeg/NQehKz8DjKauaaDwNVAiSLHri-YuyuEL8aWb3PGlm9w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60391890/%E6%B0%B8%E4%B9%85%E6%8E%A7%E5%88%B6%E6%A0%BC%E9%99%B5%E8%98%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84-%E4%BA%A4%E6%98%93-%E4%B8%8D%E8%AC%9B%E8%97%9D%E8%A1%93%E6%89%8D%E6%98%AF%E6%81%90%E6%80%96%E7%9A%84%E5%9C%8B%E9%9A%9B%E7%8F%BE%E5%AF%A6",
-    "timestamp": "2026-09-20T10:42:24.226Z",
     "strategy": ".content-card__main"
   }
 ];
