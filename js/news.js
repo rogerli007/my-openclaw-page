@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T19:53:59.638Z
+// Last updated: 2026-09-20T20:19:28.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美經貿磋商紐約展開　貝森特：為美中元首峰會做準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178529383732744192895423.jpeg/wv1wmG4hwzz0QR2Gxk2Wt-xcnz9-0kR9oY46RaGOOkU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391952/%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86%E7%B4%90%E7%B4%84%E5%B1%95%E9%96%8B-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%82%BA%E7%BE%8E%E4%B8%AD%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E5%81%9A%E6%BA%96%E5%82%99",
+    "timestamp": "2026-09-20T20:19:28.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美經貿磋商紐約展開　貝森特：為美中元首峰會做準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178420590693191680461205.jpeg/T0oCx-fPtkCMQufWY3gZjh_5AYR0Ioma8LWcMNm1nDA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391919/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E5%B0%87%E8%81%AF%E8%AD%A6%E6%96%B9%E6%96%BC%E6%B6%89%E4%BA%8B%E5%9C%B0%E9%BB%9E-%E6%8D%95%E6%8D%89%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%AE%A1%E7%8B%97%E9%9A%BB",
     "timestamp": "2026-09-20T13:30:37.071Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Converse新廣告被指涉三K黨私刑元素　官方急下架並致歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178426568972701696314085.jpeg/s5msXBiWmF77jbAEe_pLO5hoamt7uAf3bzCv128wr9c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391908/converse%E6%96%B0%E5%BB%A3%E5%91%8A%E8%A2%AB%E6%8C%87%E6%B6%89%E4%B8%89k%E9%BB%A8%E7%A7%81%E5%88%91%E5%85%83%E7%B4%A0-%E5%AE%98%E6%96%B9%E6%80%A5%E4%B8%8B%E6%9E%B6%E4%B8%A6%E8%87%B4%E6%AD%89",
-    "timestamp": "2026-09-20T12:56:30.890Z",
     "strategy": ".content-card__main"
   }
 ];
