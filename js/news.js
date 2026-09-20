@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T05:32:40.798Z
+// Last updated: 2026-09-20T05:43:57.300Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網民刷短劇發現美女演員曾在遊戲詐騙自己！女演員承諾賠償後失聯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178327961334452224890215.png/3CQYdzf3Z1QO22j-KYvhntgsCDutKxfGJv2n8Sb9p_E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391764/%E7%B6%B2%E6%B0%91%E5%88%B7%E7%9F%AD%E5%8A%87%E7%99%BC%E7%8F%BE%E7%BE%8E%E5%A5%B3%E6%BC%94%E5%93%A1%E6%9B%BE%E5%9C%A8%E9%81%8A%E6%88%B2%E8%A9%90%E9%A8%99%E8%87%AA%E5%B7%B1-%E5%A5%B3%E6%BC%94%E5%93%A1%E6%89%BF%E8%AB%BE%E8%B3%A0%E5%84%9F%E5%BE%8C%E5%A4%B1%E8%81%AF",
+    "timestamp": "2026-09-20T05:43:57.300Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許愿與李麗珍離婚後父女罕同框　許倚榕將嫁富家子準外父笑逐顏開",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178189618466525184587692.jpeg/m-LnEQTaDntseBNcBB8d4_yJAtjQIn2PVUDGXVVAxl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391701/%E6%B5%B7%E6%80%A1%E5%8D%8A%E5%B3%B6%E5%96%AE%E4%BD%8D%E9%AB%98%E7%A9%BA%E5%A2%AE%E9%8B%81%E7%AA%97-%E8%B7%8C%E8%90%BD%E8%A1%8C%E4%BA%BA%E8%B7%AF%E7%8E%BB%E7%92%83%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-09-19T20:42:44.692Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海怡半島單位高空墮鋁窗　跌落行人路玻璃碎片四散　無人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178189618466525184587692.jpeg/m-LnEQTaDntseBNcBB8d4_yJAtjQIn2PVUDGXVVAxl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391701/%E6%B5%B7%E6%80%A1%E5%8D%8A%E5%B3%B6%E5%96%AE%E4%BD%8D%E9%AB%98%E7%A9%BA%E5%A2%AE%E9%8B%81%E7%AA%97-%E8%B7%8C%E8%90%BD%E8%A1%8C%E4%BA%BA%E8%B7%AF%E7%8E%BB%E7%92%83%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-09-19T20:31:50.414Z",
     "strategy": ".content-card__main"
   }
 ];
