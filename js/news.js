@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T05:53:58.464Z
+// Last updated: 2026-09-20T06:29:44.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日韓：朝鮮向東部海域發射導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172874627169390592285174.jpeg/zAPcm3sP9xakQPmoFN739c48BBgItilHZGfjmGRn45g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391805/%E6%97%A5%E9%9F%93-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F%E7%99%BC%E5%B0%84%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-09-20T06:29:44.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運2026｜中國首金出爐　女子現代五項團體成功衛冕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174352541475934208086512.jpeg/7ao6ukoiH1r6UEhQsAdD6eK99jBJtQJoTgqGwU4KhsE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391706/%E7%BE%8E%E5%9C%8B%E8%B2%A1%E9%95%B7%E8%B2%9D%E6%A3%AE%E7%89%B9%E4%BB%8A%E8%88%87%E4%BD%95%E7%AB%8B%E5%B3%B0%E6%9C%83%E8%AB%87-%E9%81%B8%E5%9D%80%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%E7%B8%BD%E9%83%A8",
     "timestamp": "2026-09-19T21:54:06.753Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜灣仔17歲女天台企跳　近2小時後墮樓　送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178208794908299264827945.jpeg/CV5Yv24ZfvTevJpuJ9y7aCwcQNvhNBVIydCPG_PQjxs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391704/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%81%A3%E4%BB%9417%E6%AD%B2%E5%A5%B3%E5%A4%A9%E5%8F%B0%E4%BC%81%E8%B7%B3-%E8%BF%912%E5%B0%8F%E6%99%82%E5%BE%8C%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-19T21:17:04.901Z",
     "strategy": ".content-card__main"
   }
 ];
