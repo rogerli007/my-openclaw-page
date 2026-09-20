@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T12:56:30.890Z
+// Last updated: 2026-09-20T13:30:37.071Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜漁護署：將聯警方於涉事地點　捕捉無人看管狗隻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178420590693191680461205.jpeg/T0oCx-fPtkCMQufWY3gZjh_5AYR0Ioma8LWcMNm1nDA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391919/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E5%B0%87%E8%81%AF%E8%AD%A6%E6%96%B9%E6%96%BC%E6%B6%89%E4%BA%8B%E5%9C%B0%E9%BB%9E-%E6%8D%95%E6%8D%89%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%AE%A1%E7%8B%97%E9%9A%BB",
+    "timestamp": "2026-09-20T13:30:37.071Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Converse新廣告被指涉三K黨私刑元素　官方急下架並致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178327961334452224890215.png/3CQYdzf3Z1QO22j-KYvhntgsCDutKxfGJv2n8Sb9p_E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391764/%E7%B6%B2%E6%B0%91%E5%88%B7%E7%9F%AD%E5%8A%87%E7%99%BC%E7%8F%BE%E7%BE%8E%E5%A5%B3%E6%BC%94%E5%93%A1%E6%9B%BE%E5%9C%A8%E9%81%8A%E6%88%B2%E8%A9%90%E9%A8%99%E8%87%AA%E5%B7%B1-%E5%A5%B3%E6%BC%94%E5%93%A1%E6%89%BF%E8%AB%BE%E8%B3%A0%E5%84%9F%E5%BE%8C%E5%A4%B1%E8%81%AF",
     "timestamp": "2026-09-20T05:43:57.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許愿與李麗珍離婚後父女罕同框　許倚榕將嫁富家子準外父笑逐顏開",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178305732370501632429516.png/DzllRsc6JIUqyFR1xipac7LNMJi1S5Hv3bsXZt27F2Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391754/%E8%A8%B1%E6%84%BF%E8%88%87%E6%9D%8E%E9%BA%97%E7%8F%8D%E9%9B%A2%E5%A9%9A%E5%BE%8C%E7%88%B6%E5%A5%B3%E7%BD%95%E5%90%8C%E6%A1%86-%E8%A8%B1%E5%80%9A%E6%A6%95%E5%B0%87%E5%AB%81%E5%AF%8C%E5%AE%B6%E5%AD%90%E6%BA%96%E5%A4%96%E7%88%B6%E7%AC%91%E9%80%90%E9%A1%8F%E9%96%8B",
-    "timestamp": "2026-09-20T05:32:40.798Z",
     "strategy": ".content-card__main"
   }
 ];
