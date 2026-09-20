@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T14:30:20.473Z
+// Last updated: 2026-09-20T14:46:55.283Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀諾士佛臺女子闖酒吧揮菜刀毀$4.7萬財物　涉刑事毀壞被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956245986366197760653487.jpeg/OoeEegfmC4Q775hlkb86ifGBHM5VdaAwQ180ZENfNGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391931/%E5%B0%96%E6%B2%99%E5%92%80%E8%AB%BE%E5%A3%AB%E4%BD%9B%E8%87%BA%E5%A5%B3%E5%AD%90%E9%97%96%E9%85%92%E5%90%A7%E6%8F%AE%E8%8F%9C%E5%88%80%E6%AF%80-4-7%E8%90%AC%E8%B2%A1%E7%89%A9-%E6%B6%89%E5%88%91%E4%BA%8B%E6%AF%80%E5%A3%9E%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-20T14:46:55.283Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神2｜人氣靚仔冷氣技工僅獲兩位女神揀中　險不入圍Bob嚇到咆哮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178357086300409856563812.jpeg/IfrqSO93EamF54m9bLggJ8xmdq9Maz_VI5rzwyOa88M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391804/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E8%96%9B%E5%AE%B6%E7%87%95%E7%88%86%E9%84%A7%E5%85%86%E5%B0%8A%E6%9B%BE%E5%81%87%E6%88%B2%E7%9C%9F%E5%81%9A-%E5%BB%96%E7%A2%A7%E5%85%92%E7%BD%95%E8%AB%87%E6%84%9F%E6%83%85%E4%BA%8B%E7%94%9C%E5%88%B0%E6%BC%8F",
     "timestamp": "2026-09-20T08:24:39.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳坑口永隆路獨立屋遭爆竊　失LV等牌子兩手袋及夾萬約值$5萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142259293991473152456839.jpeg/MXnqDTJp9NUPtJpivCQ2nRgvx1OEinnft_DFt43wxbc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391832/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%9D%91%E5%8F%A3%E6%B0%B8%E9%9A%86%E8%B7%AF%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B1lv%E7%AD%89%E7%89%8C%E5%AD%90%E5%85%A9%E6%89%8B%E8%A2%8B%E5%8F%8A%E5%A4%BE%E8%90%AC%E7%B4%84%E5%80%BC-5%E8%90%AC",
-    "timestamp": "2026-09-20T07:53:44.179Z",
     "strategy": ".content-card__main"
   }
 ];
