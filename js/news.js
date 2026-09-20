@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T09:20:05.746Z
+// Last updated: 2026-09-20T09:41:24.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黎彼得追思｜單立文讚揚填詞貢獻：香港樂壇欠Peter哥一個交代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178393583435124736682349.jpeg/_2VekkilvD4zhO8j_PTm5Q5BrNxNEAD7kyzSl5Ms0pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391866/%E9%BB%8E%E5%BD%BC%E5%BE%97%E8%BF%BD%E6%80%9D-%E5%96%AE%E7%AB%8B%E6%96%87%E8%AE%9A%E6%8F%9A%E5%A1%AB%E8%A9%9E%E8%B2%A2%E7%8D%BB-%E9%A6%99%E6%B8%AF%E6%A8%82%E5%A3%87%E6%AC%A0peter%E5%93%A5%E4%B8%80%E5%80%8B%E4%BA%A4%E4%BB%A3",
+    "timestamp": "2026-09-20T09:41:24.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "親家變夫妻！女子婚後撮合親母嫁給老爺　網民笑言：沒有婆媳問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175757095161565184137854.jpeg/ZeIZgezJLrl1iop7V1p_2JOMlMQcuBMYAKPIOwCjyDs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391732/%E7%89%B9%E6%9C%97%E6%99%AE%E7%B5%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%83%A8%E9%9A%8A-%E7%A8%B1ai%E6%81%90%E6%85%8C%E6%98%AF%E9%A8%99%E5%B1%80%E6%8B%92%E6%94%BE%E6%85%A2%E7%99%BC%E5%B1%95",
     "timestamp": "2026-09-20T02:27:21.623Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普林斯頓133年傳統破滅　杜克學費升至76萬　美國留學還值得嗎？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176951868723564544356820.jpeg/aiwfvgfB13osWJwnjfqWbDWeOaqosYm3NsMFqDbDBag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390603/%E6%99%AE%E6%9E%97%E6%96%AF%E9%A0%93133%E5%B9%B4%E5%82%B3%E7%B5%B1%E7%A0%B4%E6%BB%85-%E6%9D%9C%E5%85%8B%E5%AD%B8%E8%B2%BB%E5%8D%87%E8%87%B376%E8%90%AC-%E7%BE%8E%E5%9C%8B%E7%95%99%E5%AD%B8%E9%82%84%E5%80%BC%E5%BE%97%E5%97%8E",
-    "timestamp": "2026-09-20T01:57:12.587Z",
     "strategy": ".content-card__main"
   }
 ];
