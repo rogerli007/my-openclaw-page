@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T16:53:43.874Z
+// Last updated: 2026-09-20T17:29:04.259Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運手球｜港男隊挑戰衛冕卡塔爾　主教練許文邦盛讚鍾樹賢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178506154624421888683740.jpeg/zEqOJtTrj9RTe-XVu6AzcKuDRA9ybWnXYL3B8GC9wfA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391947/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%89%8B%E7%90%83-%E6%B8%AF%E7%94%B7%E9%9A%8A%E6%8C%91%E6%88%B0%E8%A1%9B%E5%86%95%E5%8D%A1%E5%A1%94%E7%88%BE-%E4%B8%BB%E6%95%99%E7%B7%B4%E8%A8%B1%E6%96%87%E9%82%A6%E7%9B%9B%E8%AE%9A%E9%8D%BE%E6%A8%B9%E8%B3%A2",
+    "timestamp": "2026-09-20T17:29:04.259Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱正就伊朗問題作重大決策　可能願與伊朗總統會面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178401008225619968819342.jpeg/nhdoa1ZRL2lQQ87MS3oO2BzuhCpzTKfDMcvPLjHLzy4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391883/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%87%BA%E6%AE%AF-%E6%94%BF%E5%BA%9C%E7%99%BC%E6%94%BE%E9%9D%88%E5%A0%82%E5%85%A7%E9%9D%88%E6%9F%A9%E8%93%8B%E4%B8%8A%E5%9C%8B%E6%97%97%E7%9B%B8%E7%89%87-%E5%85%A8%E9%AB%94%E5%90%91%E9%81%BA%E5%83%8F%E4%B8%89%E9%9E%A0%E8%BA%AC",
     "timestamp": "2026-09-20T10:31:24.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "順豐貨車青衣迴旋處轉彎跌唧車！連木板散落馬路被嘲：孖寶賽車？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177617392801419264385072.jpeg/rvdkYqWu8tfFLivLHdYYCP7hJ4kN5p_71O7MCtTuzAo",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391203/%E9%A0%86%E8%B1%90%E8%B2%A8%E8%BB%8A%E9%9D%92%E8%A1%A3%E8%BF%B4%E6%97%8B%E8%99%95%E8%BD%89%E5%BD%8E%E8%B7%8C%E5%94%A7%E8%BB%8A-%E9%80%A3%E6%9C%A8%E6%9D%BF%E6%95%A3%E8%90%BD%E9%A6%AC%E8%B7%AF%E8%A2%AB%E5%98%B2-%E5%AD%96%E5%AF%B6%E8%B3%BD%E8%BB%8A",
-    "timestamp": "2026-09-20T10:18:44.625Z",
     "strategy": ".content-card__main"
   }
 ];
