@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T13:30:37.071Z
+// Last updated: 2026-09-20T13:40:39.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜漁護署：將聯警方於涉事地點　捕捉無人看管狗隻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178420590693191680461205.jpeg/T0oCx-fPtkCMQufWY3gZjh_5AYR0Ioma8LWcMNm1nDA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391919/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%BC%81%E8%AD%B7%E7%BD%B2-%E5%B0%87%E8%81%AF%E8%AD%A6%E6%96%B9%E6%96%BC%E6%B6%89%E4%BA%8B%E5%9C%B0%E9%BB%9E-%E6%8D%95%E6%8D%89%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%AE%A1%E7%8B%97%E9%9A%BB",
+    "timestamp": "2026-09-20T13:40:39.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗疑狗咬死人｜漁護署：將聯警方於涉事地點　捕捉無人看管狗隻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178322812050345984249376.jpeg/tdhVhMStt9pYpCFBp33E3bLno2NQ6BSc7utDGe7rQxk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391768/%E4%BA%9E%E9%81%8B2026-%E4%B8%AD%E5%9C%8B%E9%A6%96%E9%87%91%E5%87%BA%E7%88%90-%E5%A5%B3%E5%AD%90%E7%8F%BE%E4%BB%A3%E4%BA%94%E9%A0%85%E5%9C%98%E9%AB%94%E6%88%90%E5%8A%9F%E8%A1%9B%E5%86%95",
     "timestamp": "2026-09-20T05:53:58.464Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網民刷短劇發現美女演員曾在遊戲詐騙自己！女演員承諾賠償後失聯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178327961334452224890215.png/3CQYdzf3Z1QO22j-KYvhntgsCDutKxfGJv2n8Sb9p_E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391764/%E7%B6%B2%E6%B0%91%E5%88%B7%E7%9F%AD%E5%8A%87%E7%99%BC%E7%8F%BE%E7%BE%8E%E5%A5%B3%E6%BC%94%E5%93%A1%E6%9B%BE%E5%9C%A8%E9%81%8A%E6%88%B2%E8%A9%90%E9%A8%99%E8%87%AA%E5%B7%B1-%E5%A5%B3%E6%BC%94%E5%93%A1%E6%89%BF%E8%AB%BE%E8%B3%A0%E5%84%9F%E5%BE%8C%E5%A4%B1%E8%81%AF",
-    "timestamp": "2026-09-20T05:43:57.300Z",
     "strategy": ".content-card__main"
   }
 ];
