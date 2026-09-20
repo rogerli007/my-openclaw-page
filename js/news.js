@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T04:45:36.865Z
+// Last updated: 2026-09-20T05:20:33.770Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026｜韓國女子手球隊擊敗港隊　賽前未播韓中國歌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178012694112899072178653.jpeg/_p86lmud0hUzMqrsAu7dFeqEXR8U0FEzdr_25Ey_9uQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391774/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%9F%93%E5%9C%8B%E5%A5%B3%E5%AD%90%E6%89%8B%E7%90%83%E9%9A%8A%E6%93%8A%E6%95%97%E6%B8%AF%E9%9A%8A-%E8%B3%BD%E5%89%8D%E6%9C%AA%E6%92%AD%E9%9F%93%E4%B8%AD%E5%9C%8B%E6%AD%8C",
+    "timestamp": "2026-09-20T05:20:33.770Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施政報告｜李家超接受央視訪問　稱有信心完成全部284指標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178189618466525184587692.jpeg/m-LnEQTaDntseBNcBB8d4_yJAtjQIn2PVUDGXVVAxl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391701/%E6%B5%B7%E6%80%A1%E5%8D%8A%E5%B3%B6%E5%96%AE%E4%BD%8D%E9%AB%98%E7%A9%BA%E5%A2%AE%E9%8B%81%E7%AA%97-%E8%B7%8C%E8%90%BD%E8%A1%8C%E4%BA%BA%E8%B7%AF%E7%8E%BB%E7%92%83%E7%A2%8E%E7%89%87%E5%9B%9B%E6%95%A3-%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-09-19T20:19:08.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗女子昏迷無呼吸脈搏送院搶救　旁邊有一輛單車　警到場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178184720681275392685712.jpeg/_6ijs4ci6ecsi0rptn78BmNyQRwModTbgeKIHLviiBw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391697/%E5%85%83%E6%9C%97%E5%A5%B3%E5%AD%90%E6%98%8F%E8%BF%B7%E7%84%A1%E5%91%BC%E5%90%B8%E8%84%88%E6%90%8F%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E6%97%81%E9%82%8A%E6%9C%89%E4%B8%80%E8%BC%9B%E5%96%AE%E8%BB%8A-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-09-19T19:54:02.759Z",
     "strategy": ".content-card__main"
   }
 ];
