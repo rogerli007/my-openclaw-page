@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T10:18:44.625Z
+// Last updated: 2026-09-20T10:31:24.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董建華出殯｜政府發放靈堂內靈柩蓋上國旗相片　全體向遺像三鞠躬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178401008225619968819342.jpeg/nhdoa1ZRL2lQQ87MS3oO2BzuhCpzTKfDMcvPLjHLzy4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391883/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%87%BA%E6%AE%AF-%E6%94%BF%E5%BA%9C%E7%99%BC%E6%94%BE%E9%9D%88%E5%A0%82%E5%85%A7%E9%9D%88%E6%9F%A9%E8%93%8B%E4%B8%8A%E5%9C%8B%E6%97%97%E7%9B%B8%E7%89%87-%E5%85%A8%E9%AB%94%E5%90%91%E9%81%BA%E5%83%8F%E4%B8%89%E9%9E%A0%E8%BA%AC",
+    "timestamp": "2026-09-20T10:31:24.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "順豐貨車青衣迴旋處轉彎跌唧車！連木板散落馬路被嘲：孖寶賽車？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178289149178810368405826.jpeg/gEQyWzDtG4tx0l1HH7SGbeKchzSBVoMmUf2RsFH9kbA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391721/%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B8%B8%E6%B3%B3-%E4%BD%95%E8%A9%A9%E8%93%93%E6%9A%AB%E6%9C%AA%E7%99%BB%E5%A0%B4-%E6%B8%AF%E9%9A%8A%E5%A5%B3%E5%AD%90100%E8%87%AA%E6%8E%A5%E5%8A%9B%E7%AC%AC4%E5%90%8D%E6%99%89%E6%B1%BA%E8%B3%BD",
     "timestamp": "2026-09-20T02:58:25.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "千人報名比拼！深圳南山舉行全球首場模擬無人機競速線下賽事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178290479343603712851243.png/VRmlsSu5KZ6XP40Tu10WEoE5kmsYDIJQot0EiKLdBIg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391740/%E5%8D%83%E4%BA%BA%E5%A0%B1%E5%90%8D%E6%AF%94%E6%8B%BC-%E6%B7%B1%E5%9C%B3%E5%8D%97%E5%B1%B1%E8%88%89%E8%A1%8C%E5%85%A8%E7%90%83%E9%A6%96%E5%A0%B4%E6%A8%A1%E6%93%AC%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%AB%B6%E9%80%9F%E7%B7%9A%E4%B8%8B%E8%B3%BD%E4%BA%8B",
-    "timestamp": "2026-09-20T02:48:05.082Z",
     "strategy": ".content-card__main"
   }
 ];
