@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T02:48:05.082Z
+// Last updated: 2026-09-20T02:58:25.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026游泳︱何詩蓓暫未登場　港隊女子100自接力第4名晉決賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178289149178810368405826.jpeg/gEQyWzDtG4tx0l1HH7SGbeKchzSBVoMmUf2RsFH9kbA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391721/%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B8%B8%E6%B3%B3-%E4%BD%95%E8%A9%A9%E8%93%93%E6%9A%AB%E6%9C%AA%E7%99%BB%E5%A0%B4-%E6%B8%AF%E9%9A%8A%E5%A5%B3%E5%AD%90100%E8%87%AA%E6%8E%A5%E5%8A%9B%E7%AC%AC4%E5%90%8D%E6%99%89%E6%B1%BA%E8%B3%BD",
+    "timestamp": "2026-09-20T02:58:25.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "千人報名比拼！深圳南山舉行全球首場模擬無人機競速線下賽事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176919805140144128274389.png/hxamW9SKBcmXNkSyYwigYPgQhpror3ejXt1S6l7dUuo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391696/%E7%BE%8E%E5%9C%8B%E7%B0%BD%E5%88%B6%E8%A3%81%E4%BF%84%E4%BC%8A%E6%B3%95%E6%A1%88-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8F%8D%E5%B0%8D%E6%AC%A1%E7%B4%9A%E5%88%B6%E8%A3%81-%E4%BF%9D%E7%95%99%E5%8F%8D%E5%88%B6%E6%AC%8A%E5%88%A9",
     "timestamp": "2026-09-19T18:22:06.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "丹麥強調不損主權　特朗普：協議讓美國永久控制格陵蘭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177916230254727168581460.jpeg/wKNd4PnrqGnRnohlgOgzMD5WeVimkmaXUXELVVFxC1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391695/%E4%B8%B9%E9%BA%A5%E5%BC%B7%E8%AA%BF%E4%B8%8D%E6%90%8D%E4%B8%BB%E6%AC%8A-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8D%94%E8%AD%B0%E8%AE%93%E7%BE%8E%E5%9C%8B%E6%B0%B8%E4%B9%85%E6%8E%A7%E5%88%B6%E6%A0%BC%E9%99%B5%E8%98%AD",
-    "timestamp": "2026-09-19T17:54:14.911Z",
     "strategy": ".content-card__main"
   }
 ];
