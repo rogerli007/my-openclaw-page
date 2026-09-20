@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T20:54:30.090Z
+// Last updated: 2026-09-20T21:41:12.217Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄杜馬選舉｜俄指烏無人機大舉攻襲圖擾選情　無阻執政黨得票領先",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178573591772401664327864.jpeg/1TJhwi7CIHMkK7T5VOc9Wraev7ndE9j7AyXu5QMl7uU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391960/%E4%BF%84%E6%9D%9C%E9%A6%AC%E9%81%B8%E8%88%89-%E4%BF%84%E6%8C%87%E7%83%8F%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%A4%A7%E8%88%89%E6%94%BB%E8%A5%B2%E5%9C%96%E6%93%BE%E9%81%B8%E6%83%85-%E7%84%A1%E9%98%BB%E5%9F%B7%E6%94%BF%E9%BB%A8%E5%BE%97%E7%A5%A8%E9%A0%98%E5%85%88",
+    "timestamp": "2026-09-20T21:41:12.217Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美經貿磋商紐約展開　貝森特：為美中元首峰會做準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164642644081512448612358.jpeg/GG94Kb0OlQzf-qm4LbqsJnKhuA9TaZsT3Ce-atwnvmo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391924/%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E5%AE%A3%E5%B8%83%E7%AC%AC%E4%BA%94%E4%BB%A3dram%E6%8A%80%E8%A1%93%E5%B9%B3%E5%8F%B0%E5%AF%A6%E7%8F%BE%E9%87%8F%E7%94%A2-%E6%8A%80%E8%A1%93%E6%8E%A5%E8%BF%91%E6%9C%80%E9%A0%82%E5%B0%96%E8%A3%BD%E7%A8%8B",
     "timestamp": "2026-09-20T14:17:34.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚詠麟演唱會丨全場合唱《朋友》聽到喊　半個娛樂圈到場撐場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178425755625852928576318.jpeg/FaZZzWXZXe0hk9UX6r7FGACJjp-nM_fsRgtaqEYLWqg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60391909/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E5%85%A8%E5%A0%B4%E5%90%88%E5%94%B1-%E6%9C%8B%E5%8F%8B-%E8%81%BD%E5%88%B0%E5%96%8A-%E5%8D%8A%E5%80%8B%E5%A8%9B%E6%A8%82%E5%9C%88%E5%88%B0%E5%A0%B4%E6%92%90%E5%A0%B4",
-    "timestamp": "2026-09-20T13:54:38.866Z",
     "strategy": ".content-card__main"
   }
 ];
