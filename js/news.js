@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T22:54:23.321Z
+// Last updated: 2026-09-20T23:29:37.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗戰爭胡塞入場・三｜最慘受害者沙特　能不能等到美國老大哥？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129242592161042432963452.jpeg/CreesfZSSCOXk-ht-dJjsKNenM_6lyKUSOgSGkjoEho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60391951/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E8%83%A1%E5%A1%9E%E5%85%A5%E5%A0%B4-%E4%B8%89-%E6%9C%80%E6%85%98%E5%8F%97%E5%AE%B3%E8%80%85%E6%B2%99%E7%89%B9-%E8%83%BD%E4%B8%8D%E8%83%BD%E7%AD%89%E5%88%B0%E7%BE%8E%E5%9C%8B%E8%80%81%E5%A4%A7%E5%93%A5",
+    "timestamp": "2026-09-20T23:29:37.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國兩場州議會選舉　默茨所屬基民盟初步得票顯著下跌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178411958332821504651092.jpeg/-mo2lEI86mutZKLA7vNf2CMMgaVqLERdADF74gAxe-I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391800/%E6%9E%97%E7%A5%96%E8%BC%9D%E6%98%94%E6%97%A5%E9%81%8E%E5%84%84%E8%BA%AB%E5%AE%B6%E8%BD%89%E6%88%B0%E6%BE%B3%E9%96%80%E7%87%92%E8%82%89%E5%BA%97-%E6%88%B2%E7%99%AE%E5%A4%A7%E7%99%BC%E8%B1%81%E9%81%94%E5%96%8A%E8%A9%B1-%E7%94%B7%E4%B9%9D%E9%83%BD%E5%81%9A",
     "timestamp": "2026-09-20T16:21:06.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奚夢瑤何猷君溫馨一家人帶爬山　仔女暴風式成長完美繼承媽媽基因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178397876338823168473169.jpeg/Ie7BVFmS_FBBa9Leo31t1-PQDiYj-522C8oXQAvKF0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391860/%E5%A5%9A%E5%A4%A2%E7%91%A4%E4%BD%95%E7%8C%B7%E5%90%9B%E6%BA%AB%E9%A6%A8%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%B8%B6%E7%88%AC%E5%B1%B1-%E4%BB%94%E5%A5%B3%E6%9A%B4%E9%A2%A8%E5%BC%8F%E6%88%90%E9%95%B7%E5%AE%8C%E7%BE%8E%E7%B9%BC%E6%89%BF%E5%AA%BD%E5%AA%BD%E5%9F%BA%E5%9B%A0",
-    "timestamp": "2026-09-20T15:41:21.538Z",
     "strategy": ".content-card__main"
   }
 ];
