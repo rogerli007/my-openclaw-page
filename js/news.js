@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T10:42:24.226Z
+// Last updated: 2026-09-20T10:54:07.049Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜騎手證狗群出沒　親歷被狗追：一隻追，隻隻跟住",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178410227062542336279403.jpeg/ZfxY3oaEXWAvGwIJdrcf2CBzGWBkgXsin6cj07qnI9M?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391893/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E9%A8%8E%E6%89%8B%E8%AD%89%E7%8B%97%E7%BE%A4%E5%87%BA%E6%B2%92-%E8%A6%AA%E6%AD%B7%E8%A2%AB%E7%8B%97%E8%BF%BD-%E4%B8%80%E9%9A%BB%E8%BF%BD-%E9%9A%BB%E9%9A%BB%E8%B7%9F%E4%BD%8F",
+    "timestamp": "2026-09-20T10:54:07.049Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "永久控制格陵蘭？　特朗普的「交易」不講藝術才是恐怖的國際現實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173669425564356608278961.png/HZwK7Hj18LxoPgH3ivCOWKemG9_cXUfMObgLODm4Czg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60387576/pdrn%E9%9D%A2%E8%86%9C15%E6%AC%BE%E6%8E%A8%E8%96%A6-%E6%8B%AF%E6%95%91%E7%86%AC%E5%A4%9C%E6%9A%97%E6%B2%89%E6%8F%9B%E5%AD%A3%E4%B9%BE%E7%87%A5%E8%84%AB%E7%9A%AE%E8%82%8C%E8%86%9A-%E6%80%A5%E6%95%91%E4%BF%9D%E9%A4%8A%E5%BF%85%E5%82%99",
     "timestamp": "2026-09-20T03:47:23.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國「卡」住　日本央行失去控制力｜點經",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027278924243013632384750.jpeg/oYHwEZTA92SABl3FHZIEvAPb8ojX5r8FJgEEuCYBBLg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60391750/%E7%BE%8E%E5%9C%8B-%E5%8D%A1-%E4%BD%8F-%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6%E5%8A%9B-%E9%BB%9E%E7%B6%93",
-    "timestamp": "2026-09-20T03:29:36.782Z",
     "strategy": ".content-card__main"
   }
 ];
