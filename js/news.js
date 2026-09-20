@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-20T11:21:01.736Z
+// Last updated: 2026-09-20T11:53:52.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜議員促徹查如證有人飼養　狗主須承擔法律責任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178410227062542336279403.jpeg/ZfxY3oaEXWAvGwIJdrcf2CBzGWBkgXsin6cj07qnI9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391899/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E8%AD%B0%E5%93%A1%E4%BF%83%E5%BE%B9%E6%9F%A5%E5%A6%82%E8%AD%89%E6%9C%89%E4%BA%BA%E9%A3%BC%E9%A4%8A-%E7%8B%97%E4%B8%BB%E9%A0%88%E6%89%BF%E6%93%94%E6%B3%95%E5%BE%8B%E8%B2%AC%E4%BB%BB",
+    "timestamp": "2026-09-20T11:53:52.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗疑狗咬死人｜倒臥位置150米外單車徑滿佈狗腳印　遺水兜飯盒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178299205437886464473085.jpeg/mcSWwlnBCKHNVf8l6sUMdpN67WVFfKmwIlVegyJVXoM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60391724/%E5%B8%B6%E6%8D%8F%E6%8D%8F%E6%A8%82%E5%87%BA%E5%9C%8B%E6%85%98%E9%81%AD%E5%AE%89%E6%AA%A2%E6%94%94%E6%88%AA-%E5%B0%88%E5%AE%B6%E6%9B%9D%E5%85%89%E6%90%AD%E6%A9%9F%E6%AD%A3%E8%A7%A3-%E7%9B%B4%E6%8E%A5%E6%94%BE%E9%80%B2%E8%A8%97%E9%81%8B%E8%A1%8C%E6%9D%8E",
     "timestamp": "2026-09-20T04:23:37.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華出殯｜李家超、梁振英等扶靈　蓋國旗靈柩移哥連臣角火葬場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178306087275728896389501.jpeg/Lf--D0dWlgaP75O-pmsGV_vSt7kOeCY375Xf4cqV3-E",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391714/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%87%BA%E6%AE%AF-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%A2%81%E6%8C%AF%E8%8B%B1%E7%AD%89%E6%89%B6%E9%9D%88-%E8%93%8B%E5%9C%8B%E6%97%97%E9%9D%88%E6%9F%A9%E7%A7%BB%E5%93%A5%E9%80%A3%E8%87%A3%E8%A7%92%E7%81%AB%E8%91%AC%E5%A0%B4",
-    "timestamp": "2026-09-20T03:57:13.899Z",
     "strategy": ".content-card__main"
   }
 ];
