@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T03:26:20.564Z
+// Last updated: 2026-09-21T03:49:56.082Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西甲｜皇馬10人應戰負馬體會　摩連奴賽後列印相片轟球證漏判紅牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178665504454217728960485.png/B2EGEZUZmSN2kUiWGLTzdjv1xG2V6xTSYdhi6GHYYug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391970/%E8%A5%BF%E7%94%B2-%E7%9A%87%E9%A6%AC10%E4%BA%BA%E6%87%89%E6%88%B0%E8%B2%A0%E9%A6%AC%E9%AB%94%E6%9C%83-%E6%91%A9%E9%80%A3%E5%A5%B4%E8%B3%BD%E5%BE%8C%E5%88%97%E5%8D%B0%E7%9B%B8%E7%89%87%E8%BD%9F%E7%90%83%E8%AD%89%E6%BC%8F%E5%88%A4%E7%B4%85%E7%89%8C",
+    "timestamp": "2026-09-21T03:49:56.082Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅啟明揚言不貪梅姐身家打官司為贏道氣：一分錢我都唔會要",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178537958647533568670513.jpeg/iAM4jQI75gWuGeiaT-ZgYfSiZ3oDoqlKx2irtO1oq7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391954/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E8%A1%8C%E5%8B%95%E6%8D%893%E5%94%90%E7%8B%97-%E8%AD%A6-%E5%B0%87%E6%8C%89%E9%A2%A8%E9%9A%AA%E8%A9%95%E4%BC%B0%E5%B7%A1%E9%82%8F%E6%B6%89%E4%BA%8B%E9%83%8A%E5%8D%80",
     "timestamp": "2026-09-20T19:18:25.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董建華喪禮｜公祭悼詞全文　讚揚一生踐行「愛國是天經地義」信念",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178402121641365504972018.jpeg/d0rW0xCc92Khz77VB90o20BCVHYc9zY8jtfoSI7X6Eg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391953/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%96%AA%E7%A6%AE-%E5%85%AC%E7%A5%AD%E6%82%BC%E8%A9%9E%E5%85%A8%E6%96%87-%E8%AE%9A%E6%8F%9A%E4%B8%80%E7%94%9F%E8%B8%90%E8%A1%8C-%E6%84%9B%E5%9C%8B%E6%98%AF%E5%A4%A9%E7%B6%93%E5%9C%B0%E7%BE%A9-%E4%BF%A1%E5%BF%B5",
-    "timestamp": "2026-09-20T18:44:01.324Z",
     "strategy": ".content-card__main"
   }
 ];
