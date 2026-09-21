@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T10:54:00.719Z
+// Last updated: 2026-09-21T11:20:13.120Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈震軒首演獨腳戲挑戰極限　背30頁對白邊煮邊演崩潰揭一事最致命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178746229522173952135498.jpeg/UuvCmdLOpRMarjsa63XVg-OgN5MWvK5F5Ld51uS3edY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392179/%E6%B2%88%E9%9C%87%E8%BB%92%E9%A6%96%E6%BC%94%E7%8D%A8%E8%85%B3%E6%88%B2%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90-%E8%83%8C30%E9%A0%81%E5%B0%8D%E7%99%BD%E9%82%8A%E7%85%AE%E9%82%8A%E6%BC%94%E5%B4%A9%E6%BD%B0%E6%8F%AD%E4%B8%80%E4%BA%8B%E6%9C%80%E8%87%B4%E5%91%BD",
+    "timestamp": "2026-09-21T11:20:13.120Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港交所唐家成︰港交所將優化上市制度　深化國際聯繫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250214/967029986420592640375164.jpeg/pgNtGTV2hB9_31l5_yOioRKo0EumNaOKq025bKtNuWw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391868/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-lpr%E9%80%A3%E7%BA%8C16%E5%80%8B%E6%9C%88%E6%8C%81%E5%B9%B3-%E4%BA%BA%E8%A1%8C%E9%82%84%E5%9C%A8%E7%AD%89%E4%BB%80%E9%BA%BC",
     "timestamp": "2026-09-20T23:40:44.780Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗戰爭胡塞入場・三｜最慘受害者沙特　能不能等到美國老大哥？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129242592161042432963452.jpeg/CreesfZSSCOXk-ht-dJjsKNenM_6lyKUSOgSGkjoEho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60391951/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E8%83%A1%E5%A1%9E%E5%85%A5%E5%A0%B4-%E4%B8%89-%E6%9C%80%E6%85%98%E5%8F%97%E5%AE%B3%E8%80%85%E6%B2%99%E7%89%B9-%E8%83%BD%E4%B8%8D%E8%83%BD%E7%AD%89%E5%88%B0%E7%BE%8E%E5%9C%8B%E8%80%81%E5%A4%A7%E5%93%A5",
-    "timestamp": "2026-09-20T23:29:37.665Z",
     "strategy": ".content-card__main"
   }
 ];
