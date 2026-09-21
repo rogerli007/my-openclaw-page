@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T04:25:38.465Z
+// Last updated: 2026-09-21T04:59:53.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄杜馬選舉｜選舉結束料執政統一俄羅斯黨將大勝　為普京續戰正名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178679522053066752342890.jpeg/6kLBs15ghLipOU9iD-QWrYpgmrFln2ZfrwhiUa8IYlE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392072/%E4%BF%84%E6%9D%9C%E9%A6%AC%E9%81%B8%E8%88%89-%E9%81%B8%E8%88%89%E7%B5%90%E6%9D%9F%E6%96%99%E5%9F%B7%E6%94%BF%E7%B5%B1%E4%B8%80%E4%BF%84%E7%BE%85%E6%96%AF%E9%BB%A8%E5%B0%87%E5%A4%A7%E5%8B%9D-%E7%82%BA%E6%99%AE%E4%BA%AC%E7%BA%8C%E6%88%B0%E6%AD%A3%E5%90%8D",
+    "timestamp": "2026-09-21T04:59:53.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網約車考試推出至今已辦四日　陳美寶：逾1.1萬人報考新綜合筆試",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175189077570359296462180.jpeg/F_JLonD46PEVWqTNXvmQxScof9Y-OomIwiZC4MImQuA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391942/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%8C%E6%84%8F%E4%B8%8D%E8%88%87%E7%BE%8E%E4%BA%A4%E6%88%B0-%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E4%B8%8D%E6%9C%83%E7%99%BC%E5%8B%95%E9%80%B2%E6%94%BB%E6%80%A7%E6%89%93%E6%93%8A",
     "timestamp": "2026-09-20T19:40:48.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：胡塞武裝同意不與美交戰　美媒：美軍不會發動進攻性打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175189077570359296462180.jpeg/F_JLonD46PEVWqTNXvmQxScof9Y-OomIwiZC4MImQuA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391942/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%8C%E6%84%8F%E4%B8%8D%E8%88%87%E7%BE%8E%E4%BA%A4%E6%88%B0-%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E4%B8%8D%E6%9C%83%E7%99%BC%E5%8B%95%E9%80%B2%E6%94%BB%E6%80%A7%E6%89%93%E6%93%8A",
-    "timestamp": "2026-09-20T19:26:16.906Z",
     "strategy": ".content-card__main"
   }
 ];
