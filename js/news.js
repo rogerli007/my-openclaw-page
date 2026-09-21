@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T21:31:50.683Z
+// Last updated: 2026-09-21T21:42:26.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "也門最高領導人與特朗普通電話　尋求支持對抗胡塞武裝但未獲承諾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161981700058648576406137.jpeg/uOdSCVXjW3BLy8qyhwlv0jurTnLAu9TBdnc4f3Z3OH8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392361/%E4%B9%9F%E9%96%80%E6%9C%80%E9%AB%98%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E9%9B%BB%E8%A9%B1-%E5%B0%8B%E6%B1%82%E6%94%AF%E6%8C%81%E5%B0%8D%E6%8A%97%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BD%86%E6%9C%AA%E7%8D%B2%E6%89%BF%E8%AB%BE",
+    "timestamp": "2026-09-21T21:42:26.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "也門最高領導人與特朗普通電話　尋求支持對抗胡塞武裝但未獲承諾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178404367565328384613590.png/2nJw8pgjMTWCzvXdoD-rVeDddCXAA6bQore3OKK3tzg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390182/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%80%81%E4%BC%AF%E9%81%AD%E9%BB%91%E7%86%8A%E5%B0%BE%E9%9A%A8-%E6%B7%A1%E5%AE%9A%E6%85%A2%E8%B5%B0%E4%BF%9D%E5%91%BD%E6%88%90%E7%84%A6%E9%BB%9E-%E7%B6%B2%E6%B0%91-%E6%9C%80%E4%BD%B3%E6%B1%82%E7%94%9F%E6%95%99%E6%9D%90",
     "timestamp": "2026-09-21T15:19:38.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "RCEP成立「加入工作組」啟動香港等加入程序　港府：積極配合工作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241120/935855081125842944936572.jpeg/0zmisyKbGkO9vAKO7KCaay5RwjeihtLH3x6HlN8eh5Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392328/rcep%E6%88%90%E7%AB%8B-%E5%8A%A0%E5%85%A5%E5%B7%A5%E4%BD%9C%E7%B5%84-%E5%95%9F%E5%8B%95%E9%A6%99%E6%B8%AF%E7%AD%89%E5%8A%A0%E5%85%A5%E7%A8%8B%E5%BA%8F-%E6%B8%AF%E5%BA%9C-%E7%A9%8D%E6%A5%B5%E9%85%8D%E5%90%88%E5%B7%A5%E4%BD%9C",
-    "timestamp": "2026-09-21T14:45:35.521Z",
     "strategy": ".content-card__main"
   }
 ];
