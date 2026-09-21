@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T14:22:29.322Z
+// Last updated: 2026-09-21T14:45:35.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "RCEP成立「加入工作組」啟動香港等加入程序　港府：積極配合工作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241120/935855081125842944936572.jpeg/0zmisyKbGkO9vAKO7KCaay5RwjeihtLH3x6HlN8eh5Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392328/rcep%E6%88%90%E7%AB%8B-%E5%8A%A0%E5%85%A5%E5%B7%A5%E4%BD%9C%E7%B5%84-%E5%95%9F%E5%8B%95%E9%A6%99%E6%B8%AF%E7%AD%89%E5%8A%A0%E5%85%A5%E7%A8%8B%E5%BA%8F-%E6%B8%AF%E5%BA%9C-%E7%A9%8D%E6%A5%B5%E9%85%8D%E5%90%88%E5%B7%A5%E4%BD%9C",
+    "timestamp": "2026-09-21T14:45:35.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國American Pearl即食生蠔大腸桿菌含量超標13%　食環署命停售",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141339391801692160815673.jpeg/J0uenMHiCEul3DSoUg6bigUTgMHi6RiMfBNJn1kTSZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392063/%E7%B6%B2%E7%B4%84%E8%BB%8A%E8%80%83%E8%A9%A6%E6%8E%A8%E5%87%BA%E8%87%B3%E4%BB%8A%E5%B7%B2%E8%BE%A6%E5%9B%9B%E6%97%A5-%E9%99%B3%E7%BE%8E%E5%AF%B6-%E9%80%BE1-1%E8%90%AC%E4%BA%BA%E5%A0%B1%E8%80%83%E6%96%B0%E7%B6%9C%E5%90%88%E7%AD%86%E8%A9%A6",
     "timestamp": "2026-09-21T04:25:38.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西甲｜皇馬10人應戰負馬體會　摩連奴賽後列印相片轟球證漏判紅牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178665504454217728960485.png/B2EGEZUZmSN2kUiWGLTzdjv1xG2V6xTSYdhi6GHYYug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391970/%E8%A5%BF%E7%94%B2-%E7%9A%87%E9%A6%AC10%E4%BA%BA%E6%87%89%E6%88%B0%E8%B2%A0%E9%A6%AC%E9%AB%94%E6%9C%83-%E6%91%A9%E9%80%A3%E5%A5%B4%E8%B3%BD%E5%BE%8C%E5%88%97%E5%8D%B0%E7%9B%B8%E7%89%87%E8%BD%9F%E7%90%83%E8%AD%89%E6%BC%8F%E5%88%A4%E7%B4%85%E7%89%8C",
-    "timestamp": "2026-09-21T03:49:56.082Z",
     "strategy": ".content-card__main"
   }
 ];
