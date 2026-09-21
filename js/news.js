@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T09:29:02.582Z
+// Last updated: 2026-09-21T09:58:36.436Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國男柬埔寨街頭毒癮發作跪哭求回國　尿檢驗出冰毒陽性後遭遣返",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178759579224248320524378.png/nzFzf1NjJfYtWZt8_Y4nnSaXUzj-BoxE4pz9Q-Kc_UM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60392245/%E4%B8%AD%E5%9C%8B%E7%94%B7%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E9%A0%AD%E6%AF%92%E7%99%AE%E7%99%BC%E4%BD%9C%E8%B7%AA%E5%93%AD%E6%B1%82%E5%9B%9E%E5%9C%8B-%E5%B0%BF%E6%AA%A2%E9%A9%97%E5%87%BA%E5%86%B0%E6%AF%92%E9%99%BD%E6%80%A7%E5%BE%8C%E9%81%AD%E9%81%A3%E8%BF%94",
+    "timestamp": "2026-09-21T09:58:36.436Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運2026｜因為胡子彤　她學廣東話　自製應援物入場支持香港棒球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178475114174353408472193.jpeg/AQHPylB-k8kf6DMrSNqHu_AdfHdHICQLLEGHoixBh6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391905/%E5%BE%90%E5%B0%8F%E9%B3%B3%E9%A4%90%E5%BB%B3%E6%AD%8E%E9%9D%9A%E5%98%A277%E6%AD%B2%E4%BB%8D%E6%93%A6%E5%BE%97-%E7%A7%98%E5%A9%9A%E6%93%81%E5%BB%BF%E7%89%A9%E6%A5%AD%E8%BF%913%E5%84%84%E8%BA%AB%E5%AE%B6%E4%BD%8F%E5%88%A5%E5%A2%85",
     "timestamp": "2026-09-20T22:41:24.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "殿堂級天后餐廳歎靚嘢77歲仍擦得　秘婚擁廿物業近3億身家住別墅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178475114174353408472193.jpeg/AQHPylB-k8kf6DMrSNqHu_AdfHdHICQLLEGHoixBh6I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391905/%E5%BE%90%E5%B0%8F%E9%B3%B3%E9%A4%90%E5%BB%B3%E6%AD%8E%E9%9D%9A%E5%98%A277%E6%AD%B2%E4%BB%8D%E6%93%A6%E5%BE%97-%E7%A7%98%E5%A9%9A%E6%93%81%E5%BB%BF%E7%89%A9%E6%A5%AD%E8%BF%913%E5%84%84%E8%BA%AB%E5%AE%B6%E4%BD%8F%E5%88%A5%E5%A2%85",
-    "timestamp": "2026-09-20T22:33:27.127Z",
     "strategy": ".content-card__main"
   }
 ];
