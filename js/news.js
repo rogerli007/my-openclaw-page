@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T08:52:33.753Z
+// Last updated: 2026-09-21T09:29:02.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運2026｜因為胡子彤　她學廣東話　自製應援物入場支持香港棒球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178752749655822336729015.jpeg/0EDKpzIIutaI85quT_F2HLnvujvoURKtixNAtYsTQLU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392080/%E4%BA%9E%E9%81%8B2026-%E5%9B%A0%E7%82%BA%E8%83%A1%E5%AD%90%E5%BD%A4-%E5%A5%B9%E5%AD%B8%E5%BB%A3%E6%9D%B1%E8%A9%B1-%E8%87%AA%E8%A3%BD%E6%87%89%E6%8F%B4%E7%89%A9%E5%85%A5%E5%A0%B4%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E6%A3%92%E7%90%83",
+    "timestamp": "2026-09-21T09:29:02.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Tesla機械人團隊據報已向多個中國供應商下單　近期走訪工廠審查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178475114174353408472193.jpeg/AQHPylB-k8kf6DMrSNqHu_AdfHdHICQLLEGHoixBh6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391905/%E5%BE%90%E5%B0%8F%E9%B3%B3%E9%A4%90%E5%BB%B3%E6%AD%8E%E9%9D%9A%E5%98%A277%E6%AD%B2%E4%BB%8D%E6%93%A6%E5%BE%97-%E7%A7%98%E5%A9%9A%E6%93%81%E5%BB%BF%E7%89%A9%E6%A5%AD%E8%BF%913%E5%84%84%E8%BA%AB%E5%AE%B6%E4%BD%8F%E5%88%A5%E5%A2%85",
     "timestamp": "2026-09-20T22:33:27.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄杜馬選舉｜俄指烏無人機大舉攻襲圖擾選情　無阻執政黨得票領先",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178573591772401664327864.jpeg/1TJhwi7CIHMkK7T5VOc9Wraev7ndE9j7AyXu5QMl7uU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391960/%E4%BF%84%E6%9D%9C%E9%A6%AC%E9%81%B8%E8%88%89-%E4%BF%84%E6%8C%87%E7%83%8F%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%A4%A7%E8%88%89%E6%94%BB%E8%A5%B2%E5%9C%96%E6%93%BE%E9%81%B8%E6%83%85-%E7%84%A1%E9%98%BB%E5%9F%B7%E6%94%BF%E9%BB%A8%E5%BE%97%E7%A5%A8%E9%A0%98%E5%85%88",
-    "timestamp": "2026-09-20T21:54:43.302Z",
     "strategy": ".content-card__main"
   }
 ];
