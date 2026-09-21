@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T11:20:13.120Z
+// Last updated: 2026-09-21T11:53:51.676Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "水務署前分判商交假巡查報告呃服務費　官下令充公犯罪得益68萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20150721/143746706655ae01ba4376f.jpg/FjOgkwBhKSgdKDZxxSXbAzkqxeKhnYKiebbSeHm20ng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392289/%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%89%8D%E5%88%86%E5%88%A4%E5%95%86%E4%BA%A4%E5%81%87%E5%B7%A1%E6%9F%A5%E5%A0%B1%E5%91%8A%E5%91%83%E6%9C%8D%E5%8B%99%E8%B2%BB-%E5%AE%98%E4%B8%8B%E4%BB%A4%E5%85%85%E5%85%AC%E7%8A%AF%E7%BD%AA%E5%BE%97%E7%9B%8A68%E8%90%AC%E5%85%83",
+    "timestamp": "2026-09-21T11:53:51.676Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沈震軒首演獨腳戲挑戰極限　背30頁對白邊煮邊演崩潰揭一事最致命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178612304246214656562410.jpeg/-HByWExK_0J9dB3VxoIYoGV3M_qwP5-h4Z-Z1uGfmdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391966/%E4%B8%8A%E4%BA%A4%E6%89%80%E9%A6%96%E5%80%8B%E6%B8%AF%E8%B3%87c-reit-%E6%96%B0%E4%B8%96%E7%95%8C%E5%88%86%E6%8B%86%E4%B8%8A%E6%B5%B7k11%E7%89%A9%E6%A5%AD-%E7%99%BC%E8%A1%8C%E8%A6%8F%E6%A8%A1%E9%80%BE38%E5%84%84",
     "timestamp": "2026-09-20T23:54:44.733Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜LPR連續16個月持平　人行還在等什麼？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250214/967029986420592640375164.jpeg/pgNtGTV2hB9_31l5_yOioRKo0EumNaOKq025bKtNuWw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60391868/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-lpr%E9%80%A3%E7%BA%8C16%E5%80%8B%E6%9C%88%E6%8C%81%E5%B9%B3-%E4%BA%BA%E8%A1%8C%E9%82%84%E5%9C%A8%E7%AD%89%E4%BB%80%E9%BA%BC",
-    "timestamp": "2026-09-20T23:40:44.780Z",
     "strategy": ".content-card__main"
   }
 ];
