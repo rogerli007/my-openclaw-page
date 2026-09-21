@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T04:59:53.698Z
+// Last updated: 2026-09-21T05:22:33.464Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾麗淇急病入院留醫ICU十日　湯盈盈指「好咗啲」有望轉普通病房",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178693845777387520658420.jpeg/OjrL46AZbgjYQcx8H-8N_FLxyyLCZ4YRSRDqm0kQ6ps?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392094/%E9%8D%BE%E9%BA%97%E6%B7%87%E6%80%A5%E7%97%85%E5%85%A5%E9%99%A2%E7%95%99%E9%86%ABicu%E5%8D%81%E6%97%A5-%E6%B9%AF%E7%9B%88%E7%9B%88%E6%8C%87-%E5%A5%BD%E5%92%97%E5%95%B2-%E6%9C%89%E6%9C%9B%E8%BD%89%E6%99%AE%E9%80%9A%E7%97%85%E6%88%BF",
+    "timestamp": "2026-09-21T05:22:33.464Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄杜馬選舉｜選舉結束料執政統一俄羅斯黨將大勝　為普京續戰正名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178529383732744192895423.jpeg/wv1wmG4hwzz0QR2Gxk2Wt-xcnz9-0kR9oY46RaGOOkU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391952/%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86%E7%B4%90%E7%B4%84%E5%B1%95%E9%96%8B-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%82%BA%E7%BE%8E%E4%B8%AD%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E5%81%9A%E6%BA%96%E5%82%99",
     "timestamp": "2026-09-20T19:53:59.638Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：胡塞武裝同意不與美交戰　美媒：美軍不會發動進攻性打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175189077570359296462180.jpeg/F_JLonD46PEVWqTNXvmQxScof9Y-OomIwiZC4MImQuA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391942/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%8C%E6%84%8F%E4%B8%8D%E8%88%87%E7%BE%8E%E4%BA%A4%E6%88%B0-%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E4%B8%8D%E6%9C%83%E7%99%BC%E5%8B%95%E9%80%B2%E6%94%BB%E6%80%A7%E6%89%93%E6%93%8A",
-    "timestamp": "2026-09-20T19:40:48.577Z",
     "strategy": ".content-card__main"
   }
 ];
