@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T07:47:15.122Z
+// Last updated: 2026-09-21T08:00:12.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "緬甸多名中國公民捲入涉外婚姻騙案　中使館籲防範風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5e212ca9fd5cc31c9c2bc35d.jpg/25p0itw_iH9MUhLqcE81ffbFtlSZVS9Cb5Gl1m-RpdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392155/%E7%B7%AC%E7%94%B8%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8D%B2%E5%85%A5%E6%B6%89%E5%A4%96%E5%A9%9A%E5%A7%BB%E9%A8%99%E6%A1%88-%E4%B8%AD%E4%BD%BF%E9%A4%A8%E7%B1%B2%E9%98%B2%E7%AF%84%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-09-21T08:00:12.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "緬甸多名中國公民捲入涉外婚姻騙案　中使館籲防範風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178573591772401664327864.jpeg/1TJhwi7CIHMkK7T5VOc9Wraev7ndE9j7AyXu5QMl7uU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391960/%E4%BF%84%E6%9D%9C%E9%A6%AC%E9%81%B8%E8%88%89-%E4%BF%84%E6%8C%87%E7%83%8F%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%A4%A7%E8%88%89%E6%94%BB%E8%A5%B2%E5%9C%96%E6%93%BE%E9%81%B8%E6%83%85-%E7%84%A1%E9%98%BB%E5%9F%B7%E6%94%BF%E9%BB%A8%E5%BE%97%E7%A5%A8%E9%A0%98%E5%85%88",
     "timestamp": "2026-09-20T21:41:12.217Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美經貿磋商紐約展開　貝森特：為美中元首峰會做準備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178529383732744192895423.jpeg/wv1wmG4hwzz0QR2Gxk2Wt-xcnz9-0kR9oY46RaGOOkU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391952/%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86%E7%B4%90%E7%B4%84%E5%B1%95%E9%96%8B-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%82%BA%E7%BE%8E%E4%B8%AD%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E5%81%9A%E6%BA%96%E5%82%99",
-    "timestamp": "2026-09-20T20:54:30.090Z",
     "strategy": ".content-card__main"
   }
 ];
