@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T02:47:36.867Z
+// Last updated: 2026-09-21T02:59:52.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "異動股丨邵氏兄弟急挫逾30%　終止收購CMC影視資產",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250306/974377440975523840389671.jpeg/0uAR_6H3RId_MQ6w-hWUMBfJ5cYpDnNC7STQju0k0I4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60392009/%E7%95%B0%E5%8B%95%E8%82%A1-%E9%82%B5%E6%B0%8F%E5%85%84%E5%BC%9F%E6%80%A5%E6%8C%AB%E9%80%BE30-%E7%B5%82%E6%AD%A2%E6%94%B6%E8%B3%BCcmc%E5%BD%B1%E8%A6%96%E8%B3%87%E7%94%A2",
+    "timestamp": "2026-09-21T02:59:52.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國台辦副主任趙世通履新福建　內定掌管省委統戰部",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178513193241153536247608.jpeg/0CM-Jga8Tov06zBPj4PyV4VtS5jiR87GUkMhfVJDIX0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-1%E8%B3%BD%E5%92%8C%E5%AF%8C%E5%92%B8-%E5%88%A9%E8%BE%9B%E5%BA%A6%E9%A6%AC%E5%A4%A9%E5%B0%BC%E6%96%AF%E9%80%81%E7%83%8F%E9%BE%8D%E7%90%83",
     "timestamp": "2026-09-20T18:22:30.983Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼聯作客1：1賽和富咸　利辛度馬天尼斯送烏龍球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178513193241153536247608.jpeg/0CM-Jga8Tov06zBPj4PyV4VtS5jiR87GUkMhfVJDIX0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-1%E8%B3%BD%E5%92%8C%E5%AF%8C%E5%92%B8-%E5%88%A9%E8%BE%9B%E5%BA%A6%E9%A6%AC%E5%A4%A9%E5%B0%BC%E6%96%AF%E9%80%81%E7%83%8F%E9%BE%8D%E7%90%83",
-    "timestamp": "2026-09-20T17:53:56.600Z",
     "strategy": ".content-card__main"
   }
 ];
