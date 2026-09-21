@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T16:22:18.330Z
+// Last updated: 2026-09-21T16:55:08.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國空管系統兩周內第二次故障　全國多班航機受影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178867319418392576038951.jpeg/hAUOlXnNHiNuo27SPNIuA990smbuhMh04uFQf-LhUH8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392346/%E8%8B%B1%E5%9C%8B%E7%A9%BA%E7%AE%A1%E7%B3%BB%E7%B5%B1%E5%85%A9%E5%91%A8%E5%85%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%95%85%E9%9A%9C-%E5%85%A8%E5%9C%8B%E5%A4%9A%E7%8F%AD%E8%88%AA%E6%A9%9F%E5%8F%97%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-09-21T16:55:08.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "簡啟恩退休｜警務處副處長以國安為榮　難忘初出學堂扶阿婆過馬路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5e212ca9fd5cc31c9c2bc35d.jpg/25p0itw_iH9MUhLqcE81ffbFtlSZVS9Cb5Gl1m-RpdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392155/%E7%B7%AC%E7%94%B8%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8D%B2%E5%85%A5%E6%B6%89%E5%A4%96%E5%A9%9A%E5%A7%BB%E9%A8%99%E6%A1%88-%E4%B8%AD%E4%BD%BF%E9%A4%A8%E7%B1%B2%E9%98%B2%E7%AF%84%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-09-21T08:00:12.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "緬甸多名中國公民捲入涉外婚姻騙案　中使館籲防範風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5e212ca9fd5cc31c9c2bc35d.jpg/25p0itw_iH9MUhLqcE81ffbFtlSZVS9Cb5Gl1m-RpdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392155/%E7%B7%AC%E7%94%B8%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8D%B2%E5%85%A5%E6%B6%89%E5%A4%96%E5%A9%9A%E5%A7%BB%E9%A8%99%E6%A1%88-%E4%B8%AD%E4%BD%BF%E9%A4%A8%E7%B1%B2%E9%98%B2%E7%AF%84%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-09-21T07:47:15.122Z",
     "strategy": ".content-card__main"
   }
 ];
