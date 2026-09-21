@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T17:46:18.474Z
+// Last updated: 2026-09-21T17:54:52.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車cam｜深水埗寶馬遭警追截　剷巴士站攝車罅逃走　衝燈險撞行人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
+    "timestamp": "2026-09-21T17:54:52.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜深水埗寶馬遭警追截　剷巴士站攝車罅逃走　衝燈險撞行人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178766965863354368310864.jpeg/otknXgKDxHMsO760jZz_LXsCM22tbFWmTwRG6E8ERug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392261/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-27%E6%AD%B2%E5%96%AE%E8%BB%8A%E5%A5%B3%E6%BB%BF%E8%BA%AB%E6%92%95%E5%92%AC%E5%82%B7%E7%97%95%E6%AE%9E%E5%91%BD-%E7%8F%BE%E5%A0%B4%E9%98%B2%E6%92%9E%E6%9F%B1%E9%81%BA%E8%A1%80%E8%B7%A1",
     "timestamp": "2026-09-21T10:22:13.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國男柬埔寨街頭毒癮發作跪哭求回國　尿檢驗出冰毒陽性後遭遣返",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178759579224248320524378.png/nzFzf1NjJfYtWZt8_Y4nnSaXUzj-BoxE4pz9Q-Kc_UM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60392245/%E4%B8%AD%E5%9C%8B%E7%94%B7%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E9%A0%AD%E6%AF%92%E7%99%AE%E7%99%BC%E4%BD%9C%E8%B7%AA%E5%93%AD%E6%B1%82%E5%9B%9E%E5%9C%8B-%E5%B0%BF%E6%AA%A2%E9%A9%97%E5%87%BA%E5%86%B0%E6%AF%92%E9%99%BD%E6%80%A7%E5%BE%8C%E9%81%AD%E9%81%A3%E8%BF%94",
-    "timestamp": "2026-09-21T09:58:36.436Z",
     "strategy": ".content-card__main"
   }
 ];
