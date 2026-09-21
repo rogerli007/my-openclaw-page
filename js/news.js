@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T05:22:33.464Z
+// Last updated: 2026-09-21T05:55:33.425Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜草叢泥地現狗腳印　有人樹枝搭棚留糧食疑餵動物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178664859282182144876240.jpeg/qyDVMSJJZvwRlV30WFYSTjoy7DeozW4GL6nqXy-p6l8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392031/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E8%8D%89%E5%8F%A2%E6%B3%A5%E5%9C%B0%E7%8F%BE%E7%8B%97%E8%85%B3%E5%8D%B0-%E6%9C%89%E4%BA%BA%E6%A8%B9%E6%9E%9D%E6%90%AD%E6%A3%9A%E7%95%99%E7%B3%A7%E9%A3%9F%E7%96%91%E9%A4%B5%E5%8B%95%E7%89%A9",
+    "timestamp": "2026-09-21T05:55:33.425Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾麗淇急病入院留醫ICU十日　湯盈盈指「好咗啲」有望轉普通病房",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178529383732744192895423.jpeg/wv1wmG4hwzz0QR2Gxk2Wt-xcnz9-0kR9oY46RaGOOkU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391952/%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86%E7%B4%90%E7%B4%84%E5%B1%95%E9%96%8B-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%82%BA%E7%BE%8E%E4%B8%AD%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E5%81%9A%E6%BA%96%E5%82%99",
     "timestamp": "2026-09-20T20:19:28.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美經貿磋商紐約展開　貝森特：為美中元首峰會做準備",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178529383732744192895423.jpeg/wv1wmG4hwzz0QR2Gxk2Wt-xcnz9-0kR9oY46RaGOOkU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391952/%E4%B8%AD%E7%BE%8E%E7%B6%93%E8%B2%BF%E7%A3%8B%E5%95%86%E7%B4%90%E7%B4%84%E5%B1%95%E9%96%8B-%E8%B2%9D%E6%A3%AE%E7%89%B9-%E7%82%BA%E7%BE%8E%E4%B8%AD%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E5%81%9A%E6%BA%96%E5%82%99",
-    "timestamp": "2026-09-20T19:53:59.638Z",
     "strategy": ".content-card__main"
   }
 ];
