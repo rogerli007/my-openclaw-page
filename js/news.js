@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T18:48:38.422Z
+// Last updated: 2026-09-21T18:59:58.057Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜汀九橋私家車司機疑跳橋　一女子被救起　昏迷送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178889096043433984908264.jpeg/P3mWBHMN4w2ymRUIalh0wEYlK07ce2SmCsNDvgrDQ74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392349/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B1%80%E4%B9%9D%E6%A9%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%96%91%E8%B7%B3%E6%A9%8B-%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%95%91%E8%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-21T18:59:58.057Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜汀九橋私家車司機疑跳橋　一女子被救起　昏迷送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178746229522173952135498.jpeg/UuvCmdLOpRMarjsa63XVg-OgN5MWvK5F5Ld51uS3edY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392179/%E6%B2%88%E9%9C%87%E8%BB%92%E9%A6%96%E6%BC%94%E7%8D%A8%E8%85%B3%E6%88%B2%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90-%E8%83%8C30%E9%A0%81%E5%B0%8D%E7%99%BD%E9%82%8A%E7%85%AE%E9%82%8A%E6%BC%94%E5%B4%A9%E6%BD%B0%E6%8F%AD%E4%B8%80%E4%BA%8B%E6%9C%80%E8%87%B4%E5%91%BD",
     "timestamp": "2026-09-21T11:20:13.120Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港交所唐家成︰港交所將優化上市制度　深化國際聯繫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178777691885670400298105.jpeg/PRajU5sjSUfUxUe7ZmP445aSUl7gVc6es7JoU7OyaFM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60392284/%E6%B8%AF%E4%BA%A4%E6%89%80%E5%94%90%E5%AE%B6%E6%88%90-%E6%B8%AF%E4%BA%A4%E6%89%80%E5%B0%87%E5%84%AA%E5%8C%96%E4%B8%8A%E5%B8%82%E5%88%B6%E5%BA%A6-%E6%B7%B1%E5%8C%96%E5%9C%8B%E9%9A%9B%E8%81%AF%E7%B9%AB",
-    "timestamp": "2026-09-21T10:54:00.719Z",
     "strategy": ".content-card__main"
   }
 ];
