@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T15:47:33.176Z
+// Last updated: 2026-09-21T15:54:16.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚詠麟演唱會順應粉絲要求唱晒三首　即場改《朋友》歌詞答謝歌迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178797768068567040937068.jpeg/wDrS9FjIfE_Y0i1E0vHMILqSR5BsWa9humRsNrpkbDY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60392307/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83%E9%A0%86%E6%87%89%E7%B2%89%E7%B5%B2%E8%A6%81%E6%B1%82%E5%94%B1%E6%99%92%E4%B8%89%E9%A6%96-%E5%8D%B3%E5%A0%B4%E6%94%B9-%E6%9C%8B%E5%8F%8B-%E6%AD%8C%E8%A9%9E%E7%AD%94%E8%AC%9D%E6%AD%8C%E8%BF%B7",
+    "timestamp": "2026-09-21T15:54:16.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟演唱會順應粉絲要求唱晒三首　即場改《朋友》歌詞答謝歌迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178721341218492416013976.jpeg/6aUp--mRDZuQgbcx5Ye1NiHqaRXfBMS3QlvJpEJbyaQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60392149/%E6%96%B0%E8%8F%AF%E7%A4%BE-%E7%BF%92%E8%BF%91%E5%B9%B39%E6%9C%8823%E6%97%A5%E8%87%B325%E6%97%A5%E5%B0%87%E5%B0%8D%E7%BE%8E%E5%9C%8B%E9%80%B2%E8%A1%8C%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F",
     "timestamp": "2026-09-21T07:13:43.727Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗疑狗咬死人｜草叢泥地現狗腳印　有人樹枝搭棚留糧食疑餵動物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178664859282182144876240.jpeg/qyDVMSJJZvwRlV30WFYSTjoy7DeozW4GL6nqXy-p6l8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392031/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E8%8D%89%E5%8F%A2%E6%B3%A5%E5%9C%B0%E7%8F%BE%E7%8B%97%E8%85%B3%E5%8D%B0-%E6%9C%89%E4%BA%BA%E6%A8%B9%E6%9E%9D%E6%90%AD%E6%A3%9A%E7%95%99%E7%B3%A7%E9%A3%9F%E7%96%91%E9%A4%B5%E5%8B%95%E7%89%A9",
-    "timestamp": "2026-09-21T05:55:33.425Z",
     "strategy": ".content-card__main"
   }
 ];
