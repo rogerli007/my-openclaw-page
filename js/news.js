@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T03:49:56.082Z
+// Last updated: 2026-09-21T04:25:38.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網約車考試推出至今已辦四日　陳美寶：逾1.1萬人報考新綜合筆試",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141339391801692160815673.jpeg/J0uenMHiCEul3DSoUg6bigUTgMHi6RiMfBNJn1kTSZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392063/%E7%B6%B2%E7%B4%84%E8%BB%8A%E8%80%83%E8%A9%A6%E6%8E%A8%E5%87%BA%E8%87%B3%E4%BB%8A%E5%B7%B2%E8%BE%A6%E5%9B%9B%E6%97%A5-%E9%99%B3%E7%BE%8E%E5%AF%B6-%E9%80%BE1-1%E8%90%AC%E4%BA%BA%E5%A0%B1%E8%80%83%E6%96%B0%E7%B6%9C%E5%90%88%E7%AD%86%E8%A9%A6",
+    "timestamp": "2026-09-21T04:25:38.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西甲｜皇馬10人應戰負馬體會　摩連奴賽後列印相片轟球證漏判紅牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175189077570359296462180.jpeg/F_JLonD46PEVWqTNXvmQxScof9Y-OomIwiZC4MImQuA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391942/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%8C%E6%84%8F%E4%B8%8D%E8%88%87%E7%BE%8E%E4%BA%A4%E6%88%B0-%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E4%B8%8D%E6%9C%83%E7%99%BC%E5%8B%95%E9%80%B2%E6%94%BB%E6%80%A7%E6%89%93%E6%93%8A",
     "timestamp": "2026-09-20T19:26:16.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗疑狗咬死人｜行動捉3唐狗　警：將按風險評估巡邏涉事郊區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178537958647533568670513.jpeg/iAM4jQI75gWuGeiaT-ZgYfSiZ3oDoqlKx2irtO1oq7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60391954/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E8%A1%8C%E5%8B%95%E6%8D%893%E5%94%90%E7%8B%97-%E8%AD%A6-%E5%B0%87%E6%8C%89%E9%A2%A8%E9%9A%AA%E8%A9%95%E4%BC%B0%E5%B7%A1%E9%82%8F%E6%B6%89%E4%BA%8B%E9%83%8A%E5%8D%80",
-    "timestamp": "2026-09-20T19:18:25.291Z",
     "strategy": ".content-card__main"
   }
 ];
