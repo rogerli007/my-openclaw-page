@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T09:58:36.436Z
+// Last updated: 2026-09-21T10:22:13.686Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜27歲單車女滿身撕咬傷痕殞命　現場防撞柱遺血跡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178766965863354368310864.jpeg/otknXgKDxHMsO760jZz_LXsCM22tbFWmTwRG6E8ERug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392261/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-27%E6%AD%B2%E5%96%AE%E8%BB%8A%E5%A5%B3%E6%BB%BF%E8%BA%AB%E6%92%95%E5%92%AC%E5%82%B7%E7%97%95%E6%AE%9E%E5%91%BD-%E7%8F%BE%E5%A0%B4%E9%98%B2%E6%92%9E%E6%9F%B1%E9%81%BA%E8%A1%80%E8%B7%A1",
+    "timestamp": "2026-09-21T10:22:13.686Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國男柬埔寨街頭毒癮發作跪哭求回國　尿檢驗出冰毒陽性後遭遣返",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178595086976421888798265.jpeg/enxSFuz3zDfGUDWE-H7LjGs5_PNkrp4EnJB6cJyQenA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391964/%E5%BE%B7%E5%9C%8B%E5%85%A9%E5%A0%B4%E5%B7%9E%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89-%E9%BB%98%E8%8C%A8%E6%89%80%E5%B1%AC%E5%9F%BA%E6%B0%91%E7%9B%9F%E5%88%9D%E6%AD%A5%E5%BE%97%E7%A5%A8%E9%A1%AF%E8%91%97%E4%B8%8B%E8%B7%8C",
     "timestamp": "2026-09-20T22:54:23.321Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "殿堂級天后餐廳歎靚嘢77歲仍擦得　秘婚擁廿物業近3億身家住別墅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178475114174353408472193.jpeg/AQHPylB-k8kf6DMrSNqHu_AdfHdHICQLLEGHoixBh6I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391905/%E5%BE%90%E5%B0%8F%E9%B3%B3%E9%A4%90%E5%BB%B3%E6%AD%8E%E9%9D%9A%E5%98%A277%E6%AD%B2%E4%BB%8D%E6%93%A6%E5%BE%97-%E7%A7%98%E5%A9%9A%E6%93%81%E5%BB%BF%E7%89%A9%E6%A5%AD%E8%BF%913%E5%84%84%E8%BA%AB%E5%AE%B6%E4%BD%8F%E5%88%A5%E5%A2%85",
-    "timestamp": "2026-09-20T22:41:24.119Z",
     "strategy": ".content-card__main"
   }
 ];
