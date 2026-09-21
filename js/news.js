@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T23:19:02.083Z
+// Last updated: 2026-09-21T23:43:12.609Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全球貨幣解構（二）｜高息高熱與降息低温：中美背後的博弈牌局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5dd6846123ab170deb41820a.png/rH8DWYB3O8f1_2PHCL6aaxDJ93H0a5QN0f0W1tH9FtY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60392249/%E5%85%A8%E7%90%83%E8%B2%A8%E5%B9%A3%E8%A7%A3%E6%A7%8B-%E4%BA%8C-%E9%AB%98%E6%81%AF%E9%AB%98%E7%86%B1%E8%88%87%E9%99%8D%E6%81%AF%E4%BD%8E%E6%B8%A9-%E4%B8%AD%E7%BE%8E%E8%83%8C%E5%BE%8C%E7%9A%84%E5%8D%9A%E5%BC%88%E7%89%8C%E5%B1%80",
+    "timestamp": "2026-09-21T23:43:12.609Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "狗咬人影片瘋傳！揭17歲仔圖性侵女子　2流浪狗狂吠咬腿勇救弱女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
     "timestamp": "2026-09-21T17:17:19.195Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國空管系統兩周內第二次故障　全國多班航機受影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178867319418392576038951.jpeg/hAUOlXnNHiNuo27SPNIuA990smbuhMh04uFQf-LhUH8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392346/%E8%8B%B1%E5%9C%8B%E7%A9%BA%E7%AE%A1%E7%B3%BB%E7%B5%B1%E5%85%A9%E5%91%A8%E5%85%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%95%85%E9%9A%9C-%E5%85%A8%E5%9C%8B%E5%A4%9A%E7%8F%AD%E8%88%AA%E6%A9%9F%E5%8F%97%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-09-21T16:55:08.445Z",
     "strategy": ".content-card__main"
   }
 ];
