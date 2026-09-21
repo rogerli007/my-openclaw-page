@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T15:54:16.657Z
+// Last updated: 2026-09-21T16:22:18.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "簡啟恩退休｜警務處副處長以國安為榮　難忘初出學堂扶阿婆過馬路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178436990526296064935268.jpeg/oVEu46nEQlPSUUOA5dRcvKqTxsM6VNfpwg_un8IP7p8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391278/%E7%B0%A1%E5%95%9F%E6%81%A9%E9%80%80%E4%BC%91-%E8%AD%A6%E5%8B%99%E8%99%95%E5%89%AF%E8%99%95%E9%95%B7%E4%BB%A5%E5%9C%8B%E5%AE%89%E7%82%BA%E6%A6%AE-%E9%9B%A3%E5%BF%98%E5%88%9D%E5%87%BA%E5%AD%B8%E5%A0%82%E6%89%B6%E9%98%BF%E5%A9%86%E9%81%8E%E9%A6%AC%E8%B7%AF",
+    "timestamp": "2026-09-21T16:22:18.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟演唱會順應粉絲要求唱晒三首　即場改《朋友》歌詞答謝歌迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5e212ca9fd5cc31c9c2bc35d.jpg/25p0itw_iH9MUhLqcE81ffbFtlSZVS9Cb5Gl1m-RpdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392155/%E7%B7%AC%E7%94%B8%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%8D%B2%E5%85%A5%E6%B6%89%E5%A4%96%E5%A9%9A%E5%A7%BB%E9%A8%99%E6%A1%88-%E4%B8%AD%E4%BD%BF%E9%A4%A8%E7%B1%B2%E9%98%B2%E7%AF%84%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-09-21T07:47:15.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新華社：習近平9月23日至25日將對美國進行國事訪問",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178721341218492416013976.jpeg/6aUp--mRDZuQgbcx5Ye1NiHqaRXfBMS3QlvJpEJbyaQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60392149/%E6%96%B0%E8%8F%AF%E7%A4%BE-%E7%BF%92%E8%BF%91%E5%B9%B39%E6%9C%8823%E6%97%A5%E8%87%B325%E6%97%A5%E5%B0%87%E5%B0%8D%E7%BE%8E%E5%9C%8B%E9%80%B2%E8%A1%8C%E5%9C%8B%E4%BA%8B%E8%A8%AA%E5%95%8F",
-    "timestamp": "2026-09-21T07:13:43.727Z",
     "strategy": ".content-card__main"
   }
 ];
