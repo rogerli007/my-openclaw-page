@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T14:45:35.521Z
+// Last updated: 2026-09-21T15:19:38.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大老伯遭黑熊尾隨！淡定慢走保命成焦點　網民：最佳求生教材",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178404367565328384613590.png/2nJw8pgjMTWCzvXdoD-rVeDddCXAA6bQore3OKK3tzg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60390182/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%80%81%E4%BC%AF%E9%81%AD%E9%BB%91%E7%86%8A%E5%B0%BE%E9%9A%A8-%E6%B7%A1%E5%AE%9A%E6%85%A2%E8%B5%B0%E4%BF%9D%E5%91%BD%E6%88%90%E7%84%A6%E9%BB%9E-%E7%B6%B2%E6%B0%91-%E6%9C%80%E4%BD%B3%E6%B1%82%E7%94%9F%E6%95%99%E6%9D%90",
+    "timestamp": "2026-09-21T15:19:38.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "RCEP成立「加入工作組」啟動香港等加入程序　港府：積極配合工作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178679522053066752342890.jpeg/6kLBs15ghLipOU9iD-QWrYpgmrFln2ZfrwhiUa8IYlE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392072/%E4%BF%84%E6%9D%9C%E9%A6%AC%E9%81%B8%E8%88%89-%E9%81%B8%E8%88%89%E7%B5%90%E6%9D%9F%E6%96%99%E5%9F%B7%E6%94%BF%E7%B5%B1%E4%B8%80%E4%BF%84%E7%BE%85%E6%96%AF%E9%BB%A8%E5%B0%87%E5%A4%A7%E5%8B%9D-%E7%82%BA%E6%99%AE%E4%BA%AC%E7%BA%8C%E6%88%B0%E6%AD%A3%E5%90%8D",
     "timestamp": "2026-09-21T04:59:53.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網約車考試推出至今已辦四日　陳美寶：逾1.1萬人報考新綜合筆試",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141339391801692160815673.jpeg/J0uenMHiCEul3DSoUg6bigUTgMHi6RiMfBNJn1kTSZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392063/%E7%B6%B2%E7%B4%84%E8%BB%8A%E8%80%83%E8%A9%A6%E6%8E%A8%E5%87%BA%E8%87%B3%E4%BB%8A%E5%B7%B2%E8%BE%A6%E5%9B%9B%E6%97%A5-%E9%99%B3%E7%BE%8E%E5%AF%B6-%E9%80%BE1-1%E8%90%AC%E4%BA%BA%E5%A0%B1%E8%80%83%E6%96%B0%E7%B6%9C%E5%90%88%E7%AD%86%E8%A9%A6",
-    "timestamp": "2026-09-21T04:25:38.465Z",
     "strategy": ".content-card__main"
   }
 ];
