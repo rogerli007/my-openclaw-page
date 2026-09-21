@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T20:19:48.101Z
+// Last updated: 2026-09-21T20:33:21.048Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警打鼓嶺反走私　搗坪輋儲存倉檢值700萬私煙　33歲男子涉案被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178916328455540736507146.jpeg/OGDjgq9p2wCSad_phY4dErbh3HSCfDWhcFYWg3BWFoM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392359/%E8%AD%A6%E6%89%93%E9%BC%93%E5%B6%BA%E5%8F%8D%E8%B5%B0%E7%A7%81-%E6%90%97%E5%9D%AA%E8%BC%8B%E5%84%B2%E5%AD%98%E5%80%89%E6%AA%A2%E5%80%BC700%E8%90%AC%E7%A7%81%E7%85%99-33%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B6%89%E6%A1%88%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-21T20:33:21.048Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警打鼓嶺反走私　搗坪輋儲存倉檢值700萬私煙　33歲男子涉案被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178766606415695872805214.png/gtFje6477os4wYgh4QLNRxayLGN8lTOMsCU8aLAlPGg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392239/%E6%B1%A0%E6%98%8C%E6%97%AD-%E6%8C%91%E6%83%85%E9%86%9C%E8%81%9E-%E6%88%B2%E5%A4%96%E5%8F%8D%E5%B7%AE%E5%A4%A7-%E8%87%AA%E7%88%86%E6%9B%BE%E6%9C%89%E7%A7%98%E5%AF%86%E5%B8%B3%E8%99%9F-%E5%85%A8%E6%98%AF%E6%88%B0%E5%88%A9%E5%93%81",
     "timestamp": "2026-09-21T13:46:04.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一黃金周｜海關旅監局巡視旅客購物熱點　提醒商戶合規經營",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178790728609173504917623.jpeg/PyClApERTUSX9prfMvcflPWDjcV6Cp_0OMbDTzjGw08?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392305/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E6%B5%B7%E9%97%9C%E6%97%85%E7%9B%A3%E5%B1%80%E5%B7%A1%E8%A6%96%E6%97%85%E5%AE%A2%E8%B3%BC%E7%89%A9%E7%86%B1%E9%BB%9E-%E6%8F%90%E9%86%92%E5%95%86%E6%88%B6%E5%90%88%E8%A6%8F%E7%B6%93%E7%87%9F",
-    "timestamp": "2026-09-21T12:49:28.912Z",
     "strategy": ".content-card__main"
   }
 ];
