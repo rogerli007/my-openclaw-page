@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T22:45:15.676Z
+// Last updated: 2026-09-21T23:19:02.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狗咬人影片瘋傳！揭17歲仔圖性侵女子　2流浪狗狂吠咬腿勇救弱女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178830473204338688095418.png/zEjd2fd-qqyK8UVXum6Nn7MaHVVlKf6T7giDhO4Ig4Q",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387567/%E7%8B%97%E5%92%AC%E4%BA%BA%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E6%8F%AD17%E6%AD%B2%E4%BB%94%E5%9C%96%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90-2%E6%B5%81%E6%B5%AA%E7%8B%97%E7%8B%82%E5%90%A0%E5%92%AC%E8%85%BF%E5%8B%87%E6%95%91%E5%BC%B1%E5%A5%B3",
+    "timestamp": "2026-09-21T23:19:02.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "波蘭：境內美軍料將擴至1.5萬人　包括約5000人部署於永久基地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178867319418392576038951.jpeg/hAUOlXnNHiNuo27SPNIuA990smbuhMh04uFQf-LhUH8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392346/%E8%8B%B1%E5%9C%8B%E7%A9%BA%E7%AE%A1%E7%B3%BB%E7%B5%B1%E5%85%A9%E5%91%A8%E5%85%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%95%85%E9%9A%9C-%E5%85%A8%E5%9C%8B%E5%A4%9A%E7%8F%AD%E8%88%AA%E6%A9%9F%E5%8F%97%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-09-21T16:55:08.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "簡啟恩退休｜警務處副處長以國安為榮　難忘初出學堂扶阿婆過馬路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178436990526296064935268.jpeg/oVEu46nEQlPSUUOA5dRcvKqTxsM6VNfpwg_un8IP7p8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60391278/%E7%B0%A1%E5%95%9F%E6%81%A9%E9%80%80%E4%BC%91-%E8%AD%A6%E5%8B%99%E8%99%95%E5%89%AF%E8%99%95%E9%95%B7%E4%BB%A5%E5%9C%8B%E5%AE%89%E7%82%BA%E6%A6%AE-%E9%9B%A3%E5%BF%98%E5%88%9D%E5%87%BA%E5%AD%B8%E5%A0%82%E6%89%B6%E9%98%BF%E5%A9%86%E9%81%8E%E9%A6%AC%E8%B7%AF",
-    "timestamp": "2026-09-21T16:22:18.330Z",
     "strategy": ".content-card__main"
   }
 ];
