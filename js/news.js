@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T12:49:28.912Z
+// Last updated: 2026-09-21T13:46:04.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "池昌旭《挑情醜聞》戲外反差大　自爆曾有秘密帳號「全是戰利品」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178766606415695872805214.png/gtFje6477os4wYgh4QLNRxayLGN8lTOMsCU8aLAlPGg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392239/%E6%B1%A0%E6%98%8C%E6%97%AD-%E6%8C%91%E6%83%85%E9%86%9C%E8%81%9E-%E6%88%B2%E5%A4%96%E5%8F%8D%E5%B7%AE%E5%A4%A7-%E8%87%AA%E7%88%86%E6%9B%BE%E6%9C%89%E7%A7%98%E5%AF%86%E5%B8%B3%E8%99%9F-%E5%85%A8%E6%98%AF%E6%88%B0%E5%88%A9%E5%93%81",
+    "timestamp": "2026-09-21T13:46:04.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一黃金周｜海關旅監局巡視旅客購物熱點　提醒商戶合規經營",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250306/974377440975523840389671.jpeg/0uAR_6H3RId_MQ6w-hWUMBfJ5cYpDnNC7STQju0k0I4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60392009/%E7%95%B0%E5%8B%95%E8%82%A1-%E9%82%B5%E6%B0%8F%E5%85%84%E5%BC%9F%E6%80%A5%E6%8C%AB%E9%80%BE30-%E7%B5%82%E6%AD%A2%E6%94%B6%E8%B3%BCcmc%E5%BD%B1%E8%A6%96%E8%B3%87%E7%94%A2",
     "timestamp": "2026-09-21T02:59:52.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國台辦副主任趙世通履新福建　內定掌管省委統戰部",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178653464272572416105879.jpeg/Gu1d0d5TlxJlAdzhDkyTX9goAIw4vY-86D-Dq-g_g6s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391994/%E5%9C%8B%E5%8F%B0%E8%BE%A6%E5%89%AF%E4%B8%BB%E4%BB%BB%E8%B6%99%E4%B8%96%E9%80%9A%E5%B1%A5%E6%96%B0%E7%A6%8F%E5%BB%BA-%E5%85%A7%E5%AE%9A%E6%8E%8C%E7%AE%A1%E7%9C%81%E5%A7%94%E7%B5%B1%E6%88%B0%E9%83%A8",
-    "timestamp": "2026-09-21T02:47:36.867Z",
     "strategy": ".content-card__main"
   }
 ];
