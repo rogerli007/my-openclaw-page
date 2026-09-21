@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T15:33:29.298Z
+// Last updated: 2026-09-21T15:47:33.176Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚詠麟演唱會順應粉絲要求唱晒三首　即場改《朋友》歌詞答謝歌迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178797768068567040937068.jpeg/wDrS9FjIfE_Y0i1E0vHMILqSR5BsWa9humRsNrpkbDY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60392307/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83%E9%A0%86%E6%87%89%E7%B2%89%E7%B5%B2%E8%A6%81%E6%B1%82%E5%94%B1%E6%99%92%E4%B8%89%E9%A6%96-%E5%8D%B3%E5%A0%B4%E6%94%B9-%E6%9C%8B%E5%8F%8B-%E6%AD%8C%E8%A9%9E%E7%AD%94%E8%AC%9D%E6%AD%8C%E8%BF%B7",
+    "timestamp": "2026-09-21T15:47:33.176Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "維園中秋綵燈會「世界綵燈大街」大熱　網民稱未開燈已排長龍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178664859282182144876240.jpeg/qyDVMSJJZvwRlV30WFYSTjoy7DeozW4GL6nqXy-p6l8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392031/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E8%8D%89%E5%8F%A2%E6%B3%A5%E5%9C%B0%E7%8F%BE%E7%8B%97%E8%85%B3%E5%8D%B0-%E6%9C%89%E4%BA%BA%E6%A8%B9%E6%9E%9D%E6%90%AD%E6%A3%9A%E7%95%99%E7%B3%A7%E9%A3%9F%E7%96%91%E9%A4%B5%E5%8B%95%E7%89%A9",
     "timestamp": "2026-09-21T05:55:33.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鍾麗淇急病入院留醫ICU十日　湯盈盈指「好咗啲」有望轉普通病房",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178693845777387520658420.jpeg/OjrL46AZbgjYQcx8H-8N_FLxyyLCZ4YRSRDqm0kQ6ps?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392094/%E9%8D%BE%E9%BA%97%E6%B7%87%E6%80%A5%E7%97%85%E5%85%A5%E9%99%A2%E7%95%99%E9%86%ABicu%E5%8D%81%E6%97%A5-%E6%B9%AF%E7%9B%88%E7%9B%88%E6%8C%87-%E5%A5%BD%E5%92%97%E5%95%B2-%E6%9C%89%E6%9C%9B%E8%BD%89%E6%99%AE%E9%80%9A%E7%97%85%E6%88%BF",
-    "timestamp": "2026-09-21T05:22:33.464Z",
     "strategy": ".content-card__main"
   }
 ];
