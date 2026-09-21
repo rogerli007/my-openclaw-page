@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T13:46:04.831Z
+// Last updated: 2026-09-21T13:54:52.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026｜港隊今日奪2金1銀3銅　李家超及羅淑佩同祝賀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178722471864438784163980.jpeg/5K36447yd-W-Uf7V3g0Na26qoWd_7Kzl1bBZ2--wWds?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392320/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E6%B8%AF%E9%9A%8A%E4%BB%8A%E6%97%A5%E5%A5%AA2%E9%87%911%E9%8A%803%E9%8A%85-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%8F%8A%E7%BE%85%E6%B7%91%E4%BD%A9%E5%90%8C%E7%A5%9D%E8%B3%80",
+    "timestamp": "2026-09-21T13:54:52.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "池昌旭《挑情醜聞》戲外反差大　自爆曾有秘密帳號「全是戰利品」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178661703664013312730482.png/T-Wk2Eeg_Ep3HEdbZhGsr37lrIZDyrnFTcSBD03EgQ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392020/%E6%A2%85%E5%95%9F%E6%98%8E%E6%8F%9A%E8%A8%80%E4%B8%8D%E8%B2%AA%E6%A2%85%E5%A7%90%E8%BA%AB%E5%AE%B6%E6%89%93%E5%AE%98%E5%8F%B8%E7%82%BA%E8%B4%8F%E9%81%93%E6%B0%A3-%E4%B8%80%E5%88%86%E9%8C%A2%E6%88%91%E9%83%BD%E5%94%94%E6%9C%83%E8%A6%81",
     "timestamp": "2026-09-21T03:26:20.564Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "異動股丨邵氏兄弟急挫逾30%　終止收購CMC影視資產",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250306/974377440975523840389671.jpeg/0uAR_6H3RId_MQ6w-hWUMBfJ5cYpDnNC7STQju0k0I4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60392009/%E7%95%B0%E5%8B%95%E8%82%A1-%E9%82%B5%E6%B0%8F%E5%85%84%E5%BC%9F%E6%80%A5%E6%8C%AB%E9%80%BE30-%E7%B5%82%E6%AD%A2%E6%94%B6%E8%B3%BCcmc%E5%BD%B1%E8%A6%96%E8%B3%87%E7%94%A2",
-    "timestamp": "2026-09-21T02:59:52.281Z",
     "strategy": ".content-card__main"
   }
 ];
