@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T23:43:12.609Z
+// Last updated: 2026-09-21T23:54:19.098Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AMD漲一成再創歷史新高　晉身萬億美元市值俱樂部｜美股",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021809211648118784534102.jpeg/rtgyiSSF3RnxcBK-XtjYpDakX8Nx1dNcNR4DczUeA3M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60392366/amd%E6%BC%B2%E4%B8%80%E6%88%90%E5%86%8D%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E6%99%89%E8%BA%AB%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E4%BF%B1%E6%A8%82%E9%83%A8-%E7%BE%8E%E8%82%A1",
+    "timestamp": "2026-09-21T23:54:19.098Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全球貨幣解構（二）｜高息高熱與降息低温：中美背後的博弈牌局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
     "timestamp": "2026-09-21T17:29:11.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜深水埗寶馬遭警追截　剷巴士站攝車罅逃走　衝燈險撞行人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
-    "timestamp": "2026-09-21T17:17:19.195Z",
     "strategy": ".content-card__main"
   }
 ];
