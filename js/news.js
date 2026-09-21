@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T02:59:52.281Z
+// Last updated: 2026-09-21T03:26:20.564Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅啟明揚言不貪梅姐身家打官司為贏道氣：一分錢我都唔會要",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178661703664013312730482.png/T-Wk2Eeg_Ep3HEdbZhGsr37lrIZDyrnFTcSBD03EgQ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392020/%E6%A2%85%E5%95%9F%E6%98%8E%E6%8F%9A%E8%A8%80%E4%B8%8D%E8%B2%AA%E6%A2%85%E5%A7%90%E8%BA%AB%E5%AE%B6%E6%89%93%E5%AE%98%E5%8F%B8%E7%82%BA%E8%B4%8F%E9%81%93%E6%B0%A3-%E4%B8%80%E5%88%86%E9%8C%A2%E6%88%91%E9%83%BD%E5%94%94%E6%9C%83%E8%A6%81",
+    "timestamp": "2026-09-21T03:26:20.564Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "異動股丨邵氏兄弟急挫逾30%　終止收購CMC影視資產",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178402121641365504972018.jpeg/d0rW0xCc92Khz77VB90o20BCVHYc9zY8jtfoSI7X6Eg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60391953/%E8%91%A3%E5%BB%BA%E8%8F%AF%E5%96%AA%E7%A6%AE-%E5%85%AC%E7%A5%AD%E6%82%BC%E8%A9%9E%E5%85%A8%E6%96%87-%E8%AE%9A%E6%8F%9A%E4%B8%80%E7%94%9F%E8%B8%90%E8%A1%8C-%E6%84%9B%E5%9C%8B%E6%98%AF%E5%A4%A9%E7%B6%93%E5%9C%B0%E7%BE%A9-%E4%BF%A1%E5%BF%B5",
     "timestamp": "2026-09-20T18:44:01.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼聯作客1：1賽和富咸　利辛度馬天尼斯送烏龍球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178513193241153536247608.jpeg/0CM-Jga8Tov06zBPj4PyV4VtS5jiR87GUkMhfVJDIX0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-1%E8%B3%BD%E5%92%8C%E5%AF%8C%E5%92%B8-%E5%88%A9%E8%BE%9B%E5%BA%A6%E9%A6%AC%E5%A4%A9%E5%B0%BC%E6%96%AF%E9%80%81%E7%83%8F%E9%BE%8D%E7%90%83",
-    "timestamp": "2026-09-20T18:22:30.983Z",
     "strategy": ".content-card__main"
   }
 ];
