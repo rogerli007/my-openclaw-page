@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T17:17:19.195Z
+// Last updated: 2026-09-21T17:29:11.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車cam｜深水埗寶馬遭警追截　剷巴士站攝車罅逃走　衝燈險撞行人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
+    "timestamp": "2026-09-21T17:29:11.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜深水埗寶馬遭警追截　剷巴士站攝車罅逃走　衝燈險撞行人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178752749655822336729015.jpeg/0EDKpzIIutaI85quT_F2HLnvujvoURKtixNAtYsTQLU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392080/%E4%BA%9E%E9%81%8B2026-%E5%9B%A0%E7%82%BA%E8%83%A1%E5%AD%90%E5%BD%A4-%E5%A5%B9%E5%AD%B8%E5%BB%A3%E6%9D%B1%E8%A9%B1-%E8%87%AA%E8%A3%BD%E6%87%89%E6%8F%B4%E7%89%A9%E5%85%A5%E5%A0%B4%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E6%A3%92%E7%90%83",
     "timestamp": "2026-09-21T09:29:02.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Tesla機械人團隊據報已向多個中國供應商下單　近期走訪工廠審查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240507/864489818095489024369572.jpeg/6Z7iys12NFEMTNJcntaltv-hKMK3zf76fiYqKX4mKik?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392193/tesla%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%9C%98%E9%9A%8A%E6%93%9A%E5%A0%B1%E5%B7%B2%E5%90%91%E5%A4%9A%E5%80%8B%E4%B8%AD%E5%9C%8B%E4%BE%9B%E6%87%89%E5%95%86%E4%B8%8B%E5%96%AE-%E8%BF%91%E6%9C%9F%E8%B5%B0%E8%A8%AA%E5%B7%A5%E5%BB%A0%E5%AF%A9%E6%9F%A5",
-    "timestamp": "2026-09-21T08:52:33.753Z",
     "strategy": ".content-card__main"
   }
 ];
