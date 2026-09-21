@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T19:32:46.229Z
+// Last updated: 2026-09-21T19:43:11.112Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣運油車翻側　消防到場戒備　一男乘客受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178909742043500544259861.jpeg/ifK2EmYRWxQQgMit_b7SWpu7Ei0P1i3WwiExk-ghMZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392357/%E9%9D%92%E8%A1%A3%E9%81%8B%E6%B2%B9%E8%BB%8A%E7%BF%BB%E5%81%B4-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%88%92%E5%82%99-%E4%B8%80%E7%94%B7%E4%B9%98%E5%AE%A2%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-21T19:43:11.112Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝森特：中美高層11月深圳再次會面　磋商AI風險及溝通機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/4844686/org/2918748517618b90e5eb7640c9bc16d1.jpg/R49q6bSpJJSkiMs5-lnjyInwv33nmvBIfyb_z38m_88?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392306/%E5%BE%B7%E6%9C%9B%E5%AD%B8%E6%A0%A1%E6%93%AC%E7%A6%81%E7%95%A2%E6%A5%AD%E5%BD%B1%E7%89%87%E8%AC%9B%E7%B2%B5%E8%AA%9E-%E6%A0%A1%E6%96%B9%E8%87%B4%E6%AD%89%E7%A8%B1%E5%B7%B2%E6%92%A4%E9%8A%B7%E6%9C%89%E9%97%9C%E6%8C%87%E5%BC%95",
     "timestamp": "2026-09-21T12:28:18.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "水務署前分判商交假巡查報告呃服務費　官下令充公犯罪得益68萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20150721/143746706655ae01ba4376f.jpg/FjOgkwBhKSgdKDZxxSXbAzkqxeKhnYKiebbSeHm20ng?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392289/%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%89%8D%E5%88%86%E5%88%A4%E5%95%86%E4%BA%A4%E5%81%87%E5%B7%A1%E6%9F%A5%E5%A0%B1%E5%91%8A%E5%91%83%E6%9C%8D%E5%8B%99%E8%B2%BB-%E5%AE%98%E4%B8%8B%E4%BB%A4%E5%85%85%E5%85%AC%E7%8A%AF%E7%BD%AA%E5%BE%97%E7%9B%8A68%E8%90%AC%E5%85%83",
-    "timestamp": "2026-09-21T11:53:51.676Z",
     "strategy": ".content-card__main"
   }
 ];
