@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T22:19:35.402Z
+// Last updated: 2026-09-21T22:33:32.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警跨部門亞博館反恐演習　模擬國際會議受襲　iCasualty速尋傷者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178949855091888128859361.jpeg/oz_BI72wuecp4mmVS-_I1LEgqMdaa9oFUSVnMlElZzI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392363/%E8%AD%A6%E8%B7%A8%E9%83%A8%E9%96%80%E4%BA%9E%E5%8D%9A%E9%A4%A8%E5%8F%8D%E6%81%90%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E5%8F%97%E8%A5%B2-icasualty%E9%80%9F%E5%B0%8B%E5%82%B7%E8%80%85",
+    "timestamp": "2026-09-21T22:33:32.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警跨部門亞博館反恐演習　模擬國際會議受襲　iCasualty速尋傷者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178797768068567040937068.jpeg/wDrS9FjIfE_Y0i1E0vHMILqSR5BsWa9humRsNrpkbDY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60392307/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83%E9%A0%86%E6%87%89%E7%B2%89%E7%B5%B2%E8%A6%81%E6%B1%82%E5%94%B1%E6%99%92%E4%B8%89%E9%A6%96-%E5%8D%B3%E5%A0%B4%E6%94%B9-%E6%9C%8B%E5%8F%8B-%E6%AD%8C%E8%A9%9E%E7%AD%94%E8%AC%9D%E6%AD%8C%E8%BF%B7",
     "timestamp": "2026-09-21T15:54:16.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚詠麟演唱會順應粉絲要求唱晒三首　即場改《朋友》歌詞答謝歌迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178797768068567040937068.jpeg/wDrS9FjIfE_Y0i1E0vHMILqSR5BsWa9humRsNrpkbDY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60392307/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83%E9%A0%86%E6%87%89%E7%B2%89%E7%B5%B2%E8%A6%81%E6%B1%82%E5%94%B1%E6%99%92%E4%B8%89%E9%A6%96-%E5%8D%B3%E5%A0%B4%E6%94%B9-%E6%9C%8B%E5%8F%8B-%E6%AD%8C%E8%A9%9E%E7%AD%94%E8%AC%9D%E6%AD%8C%E8%BF%B7",
-    "timestamp": "2026-09-21T15:47:33.176Z",
     "strategy": ".content-card__main"
   }
 ];
