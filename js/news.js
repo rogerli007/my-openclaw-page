@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T20:33:21.048Z
+// Last updated: 2026-09-21T20:44:33.875Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "淺水灣單位遭撬窗爆竊　女住戶失值60萬元金器珠寶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162346629412425728651028.jpeg/WE94Ux0voP2HypGOZSWuhsL4npaZnow5RUCFMkVAhTI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392360/%E6%B7%BA%E6%B0%B4%E7%81%A3%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E7%AA%97%E7%88%86%E7%AB%8A-%E5%A5%B3%E4%BD%8F%E6%88%B6%E5%A4%B1%E5%80%BC60%E8%90%AC%E5%85%83%E9%87%91%E5%99%A8%E7%8F%A0%E5%AF%B6",
+    "timestamp": "2026-09-21T20:44:33.875Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警打鼓嶺反走私　搗坪輋儲存倉檢值700萬私煙　33歲男子涉案被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178722471864438784163980.jpeg/5K36447yd-W-Uf7V3g0Na26qoWd_7Kzl1bBZ2--wWds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392320/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E6%B8%AF%E9%9A%8A%E4%BB%8A%E6%97%A5%E5%A5%AA2%E9%87%911%E9%8A%803%E9%8A%85-%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%8F%8A%E7%BE%85%E6%B7%91%E4%BD%A9%E5%90%8C%E7%A5%9D%E8%B3%80",
     "timestamp": "2026-09-21T13:54:52.710Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "池昌旭《挑情醜聞》戲外反差大　自爆曾有秘密帳號「全是戰利品」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178766606415695872805214.png/gtFje6477os4wYgh4QLNRxayLGN8lTOMsCU8aLAlPGg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392239/%E6%B1%A0%E6%98%8C%E6%97%AD-%E6%8C%91%E6%83%85%E9%86%9C%E8%81%9E-%E6%88%B2%E5%A4%96%E5%8F%8D%E5%B7%AE%E5%A4%A7-%E8%87%AA%E7%88%86%E6%9B%BE%E6%9C%89%E7%A7%98%E5%AF%86%E5%B8%B3%E8%99%9F-%E5%85%A8%E6%98%AF%E6%88%B0%E5%88%A9%E5%93%81",
-    "timestamp": "2026-09-21T13:46:04.831Z",
     "strategy": ".content-card__main"
   }
 ];
