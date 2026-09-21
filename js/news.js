@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T13:54:52.710Z
+// Last updated: 2026-09-21T14:22:29.322Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國American Pearl即食生蠔大腸桿菌含量超標13%　食環署命停售",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250710/1020038405901258752591740.jpeg/lfXz8FZAxTXiwNEhKJJFjatdsSXs_lsWW5w-3lucPt4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392322/%E7%BE%8E%E5%9C%8Bamerican-pearl%E5%8D%B3%E9%A3%9F%E7%94%9F%E8%A0%94%E5%A4%A7%E8%85%B8%E6%A1%BF%E8%8F%8C%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%9913-%E9%A3%9F%E7%92%B0%E7%BD%B2%E5%91%BD%E5%81%9C%E5%94%AE",
+    "timestamp": "2026-09-21T14:22:29.322Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026｜港隊今日奪2金1銀3銅　李家超及羅淑佩同祝賀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178665504454217728960485.png/B2EGEZUZmSN2kUiWGLTzdjv1xG2V6xTSYdhi6GHYYug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391970/%E8%A5%BF%E7%94%B2-%E7%9A%87%E9%A6%AC10%E4%BA%BA%E6%87%89%E6%88%B0%E8%B2%A0%E9%A6%AC%E9%AB%94%E6%9C%83-%E6%91%A9%E9%80%A3%E5%A5%B4%E8%B3%BD%E5%BE%8C%E5%88%97%E5%8D%B0%E7%9B%B8%E7%89%87%E8%BD%9F%E7%90%83%E8%AD%89%E6%BC%8F%E5%88%A4%E7%B4%85%E7%89%8C",
     "timestamp": "2026-09-21T03:49:56.082Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅啟明揚言不貪梅姐身家打官司為贏道氣：一分錢我都唔會要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178661703664013312730482.png/T-Wk2Eeg_Ep3HEdbZhGsr37lrIZDyrnFTcSBD03EgQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392020/%E6%A2%85%E5%95%9F%E6%98%8E%E6%8F%9A%E8%A8%80%E4%B8%8D%E8%B2%AA%E6%A2%85%E5%A7%90%E8%BA%AB%E5%AE%B6%E6%89%93%E5%AE%98%E5%8F%B8%E7%82%BA%E8%B4%8F%E9%81%93%E6%B0%A3-%E4%B8%80%E5%88%86%E9%8C%A2%E6%88%91%E9%83%BD%E5%94%94%E6%9C%83%E8%A6%81",
-    "timestamp": "2026-09-21T03:26:20.564Z",
     "strategy": ".content-card__main"
   }
 ];
