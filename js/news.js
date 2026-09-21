@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T10:22:13.686Z
+// Last updated: 2026-09-21T10:54:00.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港交所唐家成︰港交所將優化上市制度　深化國際聯繫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178777691885670400298105.jpeg/PRajU5sjSUfUxUe7ZmP445aSUl7gVc6es7JoU7OyaFM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60392284/%E6%B8%AF%E4%BA%A4%E6%89%80%E5%94%90%E5%AE%B6%E6%88%90-%E6%B8%AF%E4%BA%A4%E6%89%80%E5%B0%87%E5%84%AA%E5%8C%96%E4%B8%8A%E5%B8%82%E5%88%B6%E5%BA%A6-%E6%B7%B1%E5%8C%96%E5%9C%8B%E9%9A%9B%E8%81%AF%E7%B9%AB",
+    "timestamp": "2026-09-21T10:54:00.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗疑狗咬死人｜27歲單車女滿身撕咬傷痕殞命　現場防撞柱遺血跡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260508/1129242592161042432963452.jpeg/CreesfZSSCOXk-ht-dJjsKNenM_6lyKUSOgSGkjoEho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60391951/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E8%83%A1%E5%A1%9E%E5%85%A5%E5%A0%B4-%E4%B8%89-%E6%9C%80%E6%85%98%E5%8F%97%E5%AE%B3%E8%80%85%E6%B2%99%E7%89%B9-%E8%83%BD%E4%B8%8D%E8%83%BD%E7%AD%89%E5%88%B0%E7%BE%8E%E5%9C%8B%E8%80%81%E5%A4%A7%E5%93%A5",
     "timestamp": "2026-09-20T23:29:37.665Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國兩場州議會選舉　默茨所屬基民盟初步得票顯著下跌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178595086976421888798265.jpeg/enxSFuz3zDfGUDWE-H7LjGs5_PNkrp4EnJB6cJyQenA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391964/%E5%BE%B7%E5%9C%8B%E5%85%A9%E5%A0%B4%E5%B7%9E%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89-%E9%BB%98%E8%8C%A8%E6%89%80%E5%B1%AC%E5%9F%BA%E6%B0%91%E7%9B%9F%E5%88%9D%E6%AD%A5%E5%BE%97%E7%A5%A8%E9%A1%AF%E8%91%97%E4%B8%8B%E8%B7%8C",
-    "timestamp": "2026-09-20T22:54:23.321Z",
     "strategy": ".content-card__main"
   }
 ];
