@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T02:05:19.322Z
+// Last updated: 2026-09-21T02:47:36.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國台辦副主任趙世通履新福建　內定掌管省委統戰部",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178653464272572416105879.jpeg/Gu1d0d5TlxJlAdzhDkyTX9goAIw4vY-86D-Dq-g_g6s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391994/%E5%9C%8B%E5%8F%B0%E8%BE%A6%E5%89%AF%E4%B8%BB%E4%BB%BB%E8%B6%99%E4%B8%96%E9%80%9A%E5%B1%A5%E6%96%B0%E7%A6%8F%E5%BB%BA-%E5%85%A7%E5%AE%9A%E6%8E%8C%E7%AE%A1%E7%9C%81%E5%A7%94%E7%B5%B1%E6%88%B0%E9%83%A8",
+    "timestamp": "2026-09-21T02:47:36.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普將赴紐約出席聯合國大會　與貝安德高市早苗等多國領袖會晤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178513193241153536247608.jpeg/0CM-Jga8Tov06zBPj4PyV4VtS5jiR87GUkMhfVJDIX0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391948/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-1%E8%B3%BD%E5%92%8C%E5%AF%8C%E5%92%B8-%E5%88%A9%E8%BE%9B%E5%BA%A6%E9%A6%AC%E5%A4%A9%E5%B0%BC%E6%96%AF%E9%80%81%E7%83%8F%E9%BE%8D%E7%90%83",
     "timestamp": "2026-09-20T17:53:56.600Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運手球｜港男隊挑戰衛冕卡塔爾　主教練許文邦盛讚鍾樹賢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178506154624421888683740.jpeg/zEqOJtTrj9RTe-XVu6AzcKuDRA9ybWnXYL3B8GC9wfA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60391947/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E6%89%8B%E7%90%83-%E6%B8%AF%E7%94%B7%E9%9A%8A%E6%8C%91%E6%88%B0%E8%A1%9B%E5%86%95%E5%8D%A1%E5%A1%94%E7%88%BE-%E4%B8%BB%E6%95%99%E7%B7%B4%E8%A8%B1%E6%96%87%E9%82%A6%E7%9B%9B%E8%AE%9A%E9%8D%BE%E6%A8%B9%E8%B3%A2",
-    "timestamp": "2026-09-20T17:29:04.259Z",
     "strategy": ".content-card__main"
   }
 ];
