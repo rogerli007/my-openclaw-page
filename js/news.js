@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T17:54:52.229Z
+// Last updated: 2026-09-21T18:48:38.422Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜汀九橋私家車司機疑跳橋　一女子被救起　昏迷送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178889096043433984908264.jpeg/P3mWBHMN4w2ymRUIalh0wEYlK07ce2SmCsNDvgrDQ74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392349/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B1%80%E4%B9%9D%E6%A9%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%96%91%E8%B7%B3%E6%A9%8B-%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%95%91%E8%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-21T18:48:38.422Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜深水埗寶馬遭警追截　剷巴士站攝車罅逃走　衝燈險撞行人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178777691885670400298105.jpeg/PRajU5sjSUfUxUe7ZmP445aSUl7gVc6es7JoU7OyaFM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60392284/%E6%B8%AF%E4%BA%A4%E6%89%80%E5%94%90%E5%AE%B6%E6%88%90-%E6%B8%AF%E4%BA%A4%E6%89%80%E5%B0%87%E5%84%AA%E5%8C%96%E4%B8%8A%E5%B8%82%E5%88%B6%E5%BA%A6-%E6%B7%B1%E5%8C%96%E5%9C%8B%E9%9A%9B%E8%81%AF%E7%B9%AB",
     "timestamp": "2026-09-21T10:54:00.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗疑狗咬死人｜27歲單車女滿身撕咬傷痕殞命　現場防撞柱遺血跡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178766965863354368310864.jpeg/otknXgKDxHMsO760jZz_LXsCM22tbFWmTwRG6E8ERug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392261/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-27%E6%AD%B2%E5%96%AE%E8%BB%8A%E5%A5%B3%E6%BB%BF%E8%BA%AB%E6%92%95%E5%92%AC%E5%82%B7%E7%97%95%E6%AE%9E%E5%91%BD-%E7%8F%BE%E5%A0%B4%E9%98%B2%E6%92%9E%E6%9F%B1%E9%81%BA%E8%A1%80%E8%B7%A1",
-    "timestamp": "2026-09-21T10:22:13.686Z",
     "strategy": ".content-card__main"
   }
 ];
