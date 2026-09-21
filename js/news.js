@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T12:28:18.892Z
+// Last updated: 2026-09-21T12:49:28.912Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一黃金周｜海關旅監局巡視旅客購物熱點　提醒商戶合規經營",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178790728609173504917623.jpeg/PyClApERTUSX9prfMvcflPWDjcV6Cp_0OMbDTzjGw08?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392305/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E6%B5%B7%E9%97%9C%E6%97%85%E7%9B%A3%E5%B1%80%E5%B7%A1%E8%A6%96%E6%97%85%E5%AE%A2%E8%B3%BC%E7%89%A9%E7%86%B1%E9%BB%9E-%E6%8F%90%E9%86%92%E5%95%86%E6%88%B6%E5%90%88%E8%A6%8F%E7%B6%93%E7%87%9F",
+    "timestamp": "2026-09-21T12:49:28.912Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德望學校擬禁畢業影片講粵語　校方致歉稱已撤銷有關指引",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178653464272572416105879.jpeg/Gu1d0d5TlxJlAdzhDkyTX9goAIw4vY-86D-Dq-g_g6s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60391994/%E5%9C%8B%E5%8F%B0%E8%BE%A6%E5%89%AF%E4%B8%BB%E4%BB%BB%E8%B6%99%E4%B8%96%E9%80%9A%E5%B1%A5%E6%96%B0%E7%A6%8F%E5%BB%BA-%E5%85%A7%E5%AE%9A%E6%8E%8C%E7%AE%A1%E7%9C%81%E5%A7%94%E7%B5%B1%E6%88%B0%E9%83%A8",
     "timestamp": "2026-09-21T02:47:36.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普將赴紐約出席聯合國大會　與貝安德高市早苗等多國領袖會晤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177916230254727168581460.jpeg/wKNd4PnrqGnRnohlgOgzMD5WeVimkmaXUXELVVFxC1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60391980/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E8%B5%B4%E7%B4%90%E7%B4%84%E5%87%BA%E5%B8%AD%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83-%E8%88%87%E8%B2%9D%E5%AE%89%E5%BE%B7%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%AD%89%E5%A4%9A%E5%9C%8B%E9%A0%98%E8%A2%96%E6%9C%83%E6%99%A4",
-    "timestamp": "2026-09-21T02:05:19.322Z",
     "strategy": ".content-card__main"
   }
 ];
