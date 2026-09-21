@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T15:19:38.090Z
+// Last updated: 2026-09-21T15:33:29.298Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "維園中秋綵燈會「世界綵燈大街」大熱　網民稱未開燈已排長龍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177374074553241600793512.jpeg/Yt8ondB2b9CYPADCOp6nVTMVpzTpvt1_0dC7B_TQuwc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392337/%E7%B6%AD%E5%9C%92%E4%B8%AD%E7%A7%8B%E7%B6%B5%E7%87%88%E6%9C%83-%E4%B8%96%E7%95%8C%E7%B6%B5%E7%87%88%E5%A4%A7%E8%A1%97-%E5%A4%A7%E7%86%B1-%E7%B6%B2%E6%B0%91%E7%A8%B1%E6%9C%AA%E9%96%8B%E7%87%88%E5%B7%B2%E6%8E%92%E9%95%B7%E9%BE%8D",
+    "timestamp": "2026-09-21T15:33:29.298Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大老伯遭黑熊尾隨！淡定慢走保命成焦點　網民：最佳求生教材",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178693845777387520658420.jpeg/OjrL46AZbgjYQcx8H-8N_FLxyyLCZ4YRSRDqm0kQ6ps?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392094/%E9%8D%BE%E9%BA%97%E6%B7%87%E6%80%A5%E7%97%85%E5%85%A5%E9%99%A2%E7%95%99%E9%86%ABicu%E5%8D%81%E6%97%A5-%E6%B9%AF%E7%9B%88%E7%9B%88%E6%8C%87-%E5%A5%BD%E5%92%97%E5%95%B2-%E6%9C%89%E6%9C%9B%E8%BD%89%E6%99%AE%E9%80%9A%E7%97%85%E6%88%BF",
     "timestamp": "2026-09-21T05:22:33.464Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄杜馬選舉｜選舉結束料執政統一俄羅斯黨將大勝　為普京續戰正名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178679522053066752342890.jpeg/6kLBs15ghLipOU9iD-QWrYpgmrFln2ZfrwhiUa8IYlE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392072/%E4%BF%84%E6%9D%9C%E9%A6%AC%E9%81%B8%E8%88%89-%E9%81%B8%E8%88%89%E7%B5%90%E6%9D%9F%E6%96%99%E5%9F%B7%E6%94%BF%E7%B5%B1%E4%B8%80%E4%BF%84%E7%BE%85%E6%96%AF%E9%BB%A8%E5%B0%87%E5%A4%A7%E5%8B%9D-%E7%82%BA%E6%99%AE%E4%BA%AC%E7%BA%8C%E6%88%B0%E6%AD%A3%E5%90%8D",
-    "timestamp": "2026-09-21T04:59:53.698Z",
     "strategy": ".content-card__main"
   }
 ];
