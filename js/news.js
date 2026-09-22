@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T22:31:10.649Z
+// Last updated: 2026-09-22T22:42:35.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB監製關文深大爆拍戲秘聞　古天樂真性情某男一食飯唔畀錢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179138024324206592587631.jpeg/1wGAhPaNtVo6EG3c6hq-i96kOhBEpL4pHKovMRyqLzE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392602/%E5%8F%A4%E5%A4%A9%E6%A8%82%E8%A2%ABtvb%E7%9B%A3%E8%A3%BD%E9%97%9C%E6%96%87%E6%B7%B1%E7%88%86%E6%8B%8D%E6%88%B2%E6%90%AD%E8%88%B9%E5%A4%AA%E5%A4%A7%E6%B5%AA%E9%AC%A7%E4%BA%BA-%E6%9C%89%E7%94%B7%E4%B8%80%E9%A3%9F%E9%A3%AF%E5%94%94%E7%95%80%E9%8C%A2",
+    "timestamp": "2026-09-22T22:42:35.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秋分天氣｜今日有一兩陣驟雨　最高約31度　未來數日大致天晴乾燥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179194701366956032206841.jpeg/yUKPQk1dZ78CgAf0uoWK3xsy4sglwfd76zSVg-s0lYM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392744/%E5%B1%AF%E9%96%80%E4%B8%AD%E5%B9%B4%E5%A9%A6%E5%80%92%E6%96%83%E9%9B%9C%E7%89%A9%E5%B1%8B-%E9%81%BA14%E8%B2%93%E7%8D%B2%E5%96%84%E5%BF%83%E4%BA%BA%E8%87%AA%E8%B3%87%E6%9A%AB%E8%A8%97-%E5%86%80%E6%9C%89%E5%BF%83%E4%BA%BA%E9%A0%98%E9%A4%8A",
     "timestamp": "2026-09-22T14:55:54.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "8月全國查處違反八項規定問題近3萬宗　批評教育和處理3.5萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179188504005971968658123.jpeg/P_aLQ51Sln7fxV4yuB10cNzTx-JJwnUq7Kd04eyndOE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60392743/8%E6%9C%88%E5%85%A8%E5%9C%8B%E6%9F%A5%E8%99%95%E9%81%95%E5%8F%8D%E5%85%AB%E9%A0%85%E8%A6%8F%E5%AE%9A%E5%95%8F%E9%A1%8C%E8%BF%913%E8%90%AC%E5%AE%97-%E6%89%B9%E8%A9%95%E6%95%99%E8%82%B2%E5%92%8C%E8%99%95%E7%90%863-5%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-09-22T14:21:34.354Z",
     "strategy": ".content-card__main"
   }
 ];
