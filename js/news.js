@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T17:42:56.687Z
+// Last updated: 2026-09-22T17:54:10.589Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高鐵8周年大抽獎送禮80萬份　MTR Mobile連續3個星期三舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179237717243334656276195.jpeg/H1nSlHHqHsEaYJKZlAMJm_A0ZviBbBrzdqVsfHalbHw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392775/%E9%AB%98%E9%90%B58%E5%91%A8%E5%B9%B4%E5%A4%A7%E6%8A%BD%E7%8D%8E%E9%80%81%E7%A6%AE80%E8%90%AC%E4%BB%BD-mtr-mobile%E9%80%A3%E7%BA%8C3%E5%80%8B%E6%98%9F%E6%9C%9F%E4%B8%89%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-09-22T17:54:10.589Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高鐵8周年大抽獎送禮80萬份　MTR Mobile連續3個星期三舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956245989419782144796513.jpeg/OA9Tn9qhA03U2ljAoayVibWUNMINfkiROHrOYzh6zmM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392696/%E4%BD%90%E6%95%A6%E5%BA%97%E8%88%96%E9%81%87%E7%AB%8A-%E5%A4%B1%E5%85%A9%E9%91%BD%E7%9F%B3%E9%A0%B8%E9%8F%88%E5%85%B1%E5%80%BC%E9%80%BE-11%E8%90%AC-%E8%AD%A6%E7%B7%9D%E5%85%A9%E9%9D%9E%E8%8F%AF%E8%A3%94%E6%BC%A2",
     "timestamp": "2026-09-22T10:54:08.023Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佐敦店舖遇竊　失兩鑽石頸鏈共值逾$11萬　警緝兩非華裔漢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956245989419782144796513.jpeg/OA9Tn9qhA03U2ljAoayVibWUNMINfkiROHrOYzh6zmM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392696/%E4%BD%90%E6%95%A6%E5%BA%97%E8%88%96%E9%81%87%E7%AB%8A-%E5%A4%B1%E5%85%A9%E9%91%BD%E7%9F%B3%E9%A0%B8%E9%8F%88%E5%85%B1%E5%80%BC%E9%80%BE-11%E8%90%AC-%E8%AD%A6%E7%B7%9D%E5%85%A9%E9%9D%9E%E8%8F%AF%E8%A3%94%E6%BC%A2",
-    "timestamp": "2026-09-22T10:44:07.873Z",
     "strategy": ".content-card__main"
   }
 ];
