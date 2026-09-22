@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T17:18:53.718Z
+// Last updated: 2026-09-22T17:31:04.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026游泳︱馬紫玲初戰亞運瘋狂PB　望追隨何詩蓓內外兼修",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179132002566148096053816.jpeg/4Ypxp6jhP3DgR90nLja2IRmgbeDQ1vl5SxIfqksSH6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392687/%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B8%B8%E6%B3%B3-%E9%A6%AC%E7%B4%AB%E7%8E%B2%E5%88%9D%E6%88%B0%E4%BA%9E%E9%81%8B%E7%98%8B%E7%8B%82pb-%E6%9C%9B%E8%BF%BD%E9%9A%A8%E4%BD%95%E8%A9%A9%E8%93%93%E5%85%A7%E5%A4%96%E5%85%BC%E4%BF%AE",
+    "timestamp": "2026-09-22T17:31:04.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026游泳︱馬紫玲初戰亞運瘋狂PB　望追隨何詩蓓內外兼修",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179130132812664832653042.jpeg/9v-gyx-xlwdGRqnoFD_xfh_jZOdK5uLLCO7MSwjuzEs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392670/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B%E5%89%8D%E4%B8%BB%E6%8C%81%E9%BB%83%E7%A9%8E%E5%90%9B%E5%85%A5%E8%87%AA%E7%94%B1%E9%BB%A8-%E8%88%87tvb%E5%AE%8B%E8%8A%9D%E9%BD%A1%E5%81%9A%E9%BB%A8%E5%8F%8B-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
     "timestamp": "2026-09-22T10:22:40.373Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚詠麟演唱會｜溫拿五子世紀合體　《玩吓啦》致敬已故好友黎彼得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179107592476037120549830.jpeg/Hunblg3ZcvvTNDXslJSlNitiCq2822mGVl-oqlZfqKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60392621/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E6%BA%AB%E6%8B%BF%E4%BA%94%E5%AD%90%E4%B8%96%E7%B4%80%E5%90%88%E9%AB%94-%E7%8E%A9%E5%90%93%E5%95%A6-%E8%87%B4%E6%95%AC%E5%B7%B2%E6%95%85%E5%A5%BD%E5%8F%8B%E9%BB%8E%E5%BD%BC%E5%BE%97",
-    "timestamp": "2026-09-22T09:53:39.381Z",
     "strategy": ".content-card__main"
   }
 ];
