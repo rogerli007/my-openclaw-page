@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T18:52:03.137Z
+// Last updated: 2026-09-22T19:18:13.365Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港府反對歐盟委員會年度報告　稱針對維護國家安全內容無稽失實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/872825/org/3d6188b57fdb40325f9b798e033b152f.jpg/wOMj19h1aYjRp8E5XpUz44wUKMSaVkxTiG_KCYhvygk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392781/%E6%B8%AF%E5%BA%9C%E5%8F%8D%E5%B0%8D%E6%AD%90%E7%9B%9F%E5%A7%94%E5%93%A1%E6%9C%83%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A-%E7%A8%B1%E9%87%9D%E5%B0%8D%E7%B6%AD%E8%AD%B7%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%85%A7%E5%AE%B9%E7%84%A1%E7%A8%BD%E5%A4%B1%E5%AF%A6",
+    "timestamp": "2026-09-22T19:18:13.365Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝安德盼參與歐盟「歐洲製造」計劃　籲勿視英國為敵人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179147440960311296862710.jpeg/EUz9n-JaJ194nvD44WefZh2i3ZMVqDRPRuYMX0bmDF8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392708/%E8%AD%A6%E5%B0%96%E6%B2%99%E5%92%80%E5%8F%8A%E6%B2%B9%E9%BA%BB%E5%9C%B0%E6%8B%98%E5%85%A9%E7%94%B7-%E6%B6%89%E9%9D%9E%E6%B3%95%E9%A7%95%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E8%A2%AB%E6%89%A3%E6%9F%A5",
     "timestamp": "2026-09-22T11:44:44.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運2026｜中國13歲泳手于子迪狂攬兩金　200混僅距世績0.4秒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179092285820768256286375.jpeg/hYmAznFB7T8ePyVxdRILsw7eUTz6i5lbN-ootjfqKLY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392554/%E4%BA%9E%E9%81%8B2026-%E4%B8%AD%E5%9C%8B13%E6%AD%B2%E6%B3%B3%E6%89%8B%E4%BA%8E%E5%AD%90%E8%BF%AA%E7%8B%82%E6%94%AC%E5%85%A9%E9%87%91-200%E6%B7%B7%E5%83%85%E8%B7%9D%E4%B8%96%E7%B8%BE0-4%E7%A7%92",
-    "timestamp": "2026-09-22T11:33:20.315Z",
     "strategy": ".content-card__main"
   }
 ];
