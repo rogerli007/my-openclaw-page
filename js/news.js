@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T18:25:30.864Z
+// Last updated: 2026-09-22T18:52:03.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝安德盼參與歐盟「歐洲製造」計劃　籲勿視英國為敵人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157018788713992192085369.jpeg/0SANru55YXNp5ZPTszFpXDxmER_JvZDXfmPNe35jzXs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392779/%E8%B2%9D%E5%AE%89%E5%BE%B7%E7%9B%BC%E5%8F%83%E8%88%87%E6%AD%90%E7%9B%9F-%E6%AD%90%E6%B4%B2%E8%A3%BD%E9%80%A0-%E8%A8%88%E5%8A%83-%E7%B1%B2%E5%8B%BF%E8%A6%96%E8%8B%B1%E5%9C%8B%E7%82%BA%E6%95%B5%E4%BA%BA",
+    "timestamp": "2026-09-22T18:52:03.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高鐵8周年大抽獎送禮80萬份　MTR Mobile連續3個星期三舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179092285820768256286375.jpeg/hYmAznFB7T8ePyVxdRILsw7eUTz6i5lbN-ootjfqKLY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392554/%E4%BA%9E%E9%81%8B2026-%E4%B8%AD%E5%9C%8B13%E6%AD%B2%E6%B3%B3%E6%89%8B%E4%BA%8E%E5%AD%90%E8%BF%AA%E7%8B%82%E6%94%AC%E5%85%A9%E9%87%91-200%E6%B7%B7%E5%83%85%E8%B7%9D%E4%B8%96%E7%B8%BE0-4%E7%A7%92",
     "timestamp": "2026-09-22T11:33:20.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角皇璇周六價單賣140伙　暫收逾5800個票　暫超額認購逾40倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179144700028784640123507.jpeg/9TFBZcZs95nYZnhk7Ox80s0Xuh8mr_ofKi7rBCou6wQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60392705/%E5%8C%97%E8%A7%92%E7%9A%87%E7%92%87%E5%91%A8%E5%85%AD%E5%83%B9%E5%96%AE%E8%B3%A3140%E4%BC%99-%E6%9A%AB%E6%94%B6%E9%80%BE5800%E5%80%8B%E7%A5%A8-%E6%9A%AB%E8%B6%85%E9%A1%8D%E8%AA%8D%E8%B3%BC%E9%80%BE40%E5%80%8D",
-    "timestamp": "2026-09-22T11:19:30.957Z",
     "strategy": ".content-card__main"
   }
 ];
