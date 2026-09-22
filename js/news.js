@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T05:59:50.404Z
+// Last updated: 2026-09-22T06:36:02.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張智霖上海開騷父子檔同台夾Band　19歲張慕童完美複製頂級神顏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179024724450086912405612.jpeg/d3189v4g_aSonpy3C5-yxTqK9fKMS4Xgkg8IoZIPCKE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392385/%E5%BC%B5%E6%99%BA%E9%9C%96%E4%B8%8A%E6%B5%B7%E9%96%8B%E9%A8%B7%E7%88%B6%E5%AD%90%E6%AA%94%E5%90%8C%E5%8F%B0%E5%A4%BEband-19%E6%AD%B2%E5%BC%B5%E6%85%95%E7%AB%A5%E5%AE%8C%E7%BE%8E%E8%A4%87%E8%A3%BD%E9%A0%82%E7%B4%9A%E7%A5%9E%E9%A1%8F",
+    "timestamp": "2026-09-22T06:36:02.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026劍擊．持續更新｜佘繕妡陳渭泠晉級16強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178949855091888128859361.jpeg/oz_BI72wuecp4mmVS-_I1LEgqMdaa9oFUSVnMlElZzI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392363/%E8%AD%A6%E8%B7%A8%E9%83%A8%E9%96%80%E4%BA%9E%E5%8D%9A%E9%A4%A8%E5%8F%8D%E6%81%90%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E5%8F%97%E8%A5%B2-icasualty%E9%80%9F%E5%B0%8B%E5%82%B7%E8%80%85",
     "timestamp": "2026-09-21T22:33:32.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警跨部門亞博館反恐演習　模擬國際會議受襲　iCasualty速尋傷者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178949855091888128859361.jpeg/oz_BI72wuecp4mmVS-_I1LEgqMdaa9oFUSVnMlElZzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392363/%E8%AD%A6%E8%B7%A8%E9%83%A8%E9%96%80%E4%BA%9E%E5%8D%9A%E9%A4%A8%E5%8F%8D%E6%81%90%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E5%8F%97%E8%A5%B2-icasualty%E9%80%9F%E5%B0%8B%E5%82%B7%E8%80%85",
-    "timestamp": "2026-09-21T22:19:35.402Z",
     "strategy": ".content-card__main"
   }
 ];
