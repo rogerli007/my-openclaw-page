@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T04:23:37.583Z
+// Last updated: 2026-09-22T04:46:37.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Twins Sidetrack演唱會2026香港加場｜門票公售攻略+連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177326138884624384576431.jpeg/LhgzlZGXHmeSIk99QBCUyd-WAtNM48c3msJ8SJrCfEg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60388748/twins-sidetrack%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-09-22T04:46:37.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "關門口村偷校裙胸圍內褲　中年漢認盜竊囚2周　官勸更正不良嗜好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251103/1062135405396103168872109.jpeg/BV30IwxajyDP0QSxQooscfb1-Dl47xs9bHcjgGx3I4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392353/%E7%8E%8B%E6%AF%85%E8%88%87%E5%BE%B7%E5%9C%8B%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E4%BF%83%E5%A0%85%E6%8C%81%E5%B0%8D%E8%A9%B1%E5%8D%94%E5%95%86%E8%A7%A3%E6%B1%BA%E4%B8%AD%E6%AD%90%E7%B6%93%E8%B2%BF%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-09-21T20:54:39.869Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "淺水灣單位遭撬窗爆竊　女住戶失值60萬元金器珠寶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162346629412425728651028.jpeg/WE94Ux0voP2HypGOZSWuhsL4npaZnow5RUCFMkVAhTI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392360/%E6%B7%BA%E6%B0%B4%E7%81%A3%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E7%AA%97%E7%88%86%E7%AB%8A-%E5%A5%B3%E4%BD%8F%E6%88%B6%E5%A4%B1%E5%80%BC60%E8%90%AC%E5%85%83%E9%87%91%E5%99%A8%E7%8F%A0%E5%AF%B6",
-    "timestamp": "2026-09-21T20:44:33.875Z",
     "strategy": ".content-card__main"
   }
 ];
