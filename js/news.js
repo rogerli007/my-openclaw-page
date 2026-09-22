@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T13:44:21.203Z
+// Last updated: 2026-09-22T13:54:33.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈里梅根子女開學兩日急轉校！家長群洩私隱+車隊被切斷成導火線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179115562458943488234095.png/D6a3wUYRF05x_BhSInBgSTEswHGvSFwOwHYDn8B2A58?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392560/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E5%AD%90%E5%A5%B3%E9%96%8B%E5%AD%B8%E5%85%A9%E6%97%A5%E6%80%A5%E8%BD%89%E6%A0%A1-%E5%AE%B6%E9%95%B7%E7%BE%A4%E6%B4%A9%E7%A7%81%E9%9A%B1-%E8%BB%8A%E9%9A%8A%E8%A2%AB%E5%88%87%E6%96%B7%E6%88%90%E5%B0%8E%E7%81%AB%E7%B7%9A",
+    "timestamp": "2026-09-22T13:54:33.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "年宵2027｜1564個攤位10.7起競投　維園熟食檔底價12萬與去年相若",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179031811607498752395274.png/nhSJqvpvO5-Gr1bn_EzjzGf_6hB4Id6KhnI79oZyO_Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60382057/%E6%B5%AA%E7%90%B4%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E9%A6%AC%E8%A1%93%E7%9B%9B%E5%85%B87%E4%BA%AE%E9%BB%9E-%E9%96%80%E7%A5%A8%E6%97%A9%E9%B3%A58%E6%8A%98-5%E6%98%9F%E5%A0%B4%E5%9C%B0%E9%9A%9C%E7%A4%99%E8%B3%BD-%E9%A8%8E%E8%A1%93%E8%A1%A8%E6%BC%94",
     "timestamp": "2026-09-22T07:23:48.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會在即　人民日報：中美應破除修昔底德陷阱　慎處台灣問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5d3ac9ed0062511817a97ec2.jpg/s8qvJbHn0osHyhPyy7jy-R9rB793MiICpjcIfaY3CH0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392549/%E7%BF%92%E7%89%B9%E6%9C%83%E5%9C%A8%E5%8D%B3-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1-%E4%B8%AD%E7%BE%8E%E6%87%89%E7%A0%B4%E9%99%A4%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7%E9%99%B7%E9%98%B1-%E6%85%8E%E8%99%95%E5%8F%B0%E7%81%A3%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-09-22T06:58:33.802Z",
     "strategy": ".content-card__main"
   }
 ];
