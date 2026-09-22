@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T01:41:14.453Z
+// Last updated: 2026-09-22T02:30:04.158Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "業主白做？荃灣海濱花園兩房502萬沽　揸三年仲要帳蝕3萬蚊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178769477324509184436150.png/eQN9BJeoLwtMTBpNuBZt3eoEmA3sTf7_iJpzFIiacxQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60392256/%E6%A5%AD%E4%B8%BB%E7%99%BD%E5%81%9A-%E8%8D%83%E7%81%A3%E6%B5%B7%E6%BF%B1%E8%8A%B1%E5%9C%92%E5%85%A9%E6%88%BF502%E8%90%AC%E6%B2%BD-%E6%8F%B8%E4%B8%89%E5%B9%B4%E4%BB%B2%E8%A6%81%E5%B8%B3%E8%9D%953%E8%90%AC%E8%9A%8A",
+    "timestamp": "2026-09-22T02:30:04.158Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會舉行在即　美國重申對日韓防務承諾　推動三方經濟安全磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178889096043433984908264.jpeg/P3mWBHMN4w2ymRUIalh0wEYlK07ce2SmCsNDvgrDQ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392349/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B1%80%E4%B9%9D%E6%A9%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%96%91%E8%B7%B3%E6%A9%8B-%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%95%91%E8%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-21T18:59:58.057Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜汀九橋私家車司機疑跳橋　一女子被救起　昏迷送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178889096043433984908264.jpeg/P3mWBHMN4w2ymRUIalh0wEYlK07ce2SmCsNDvgrDQ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392349/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B1%80%E4%B9%9D%E6%A9%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%96%91%E8%B7%B3%E6%A9%8B-%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%95%91%E8%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-21T18:48:38.422Z",
     "strategy": ".content-card__main"
   }
 ];
