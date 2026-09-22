@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T15:21:05.550Z
+// Last updated: 2026-09-22T15:42:37.231Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026武術︱劉子龍南拳南棍摘銀　賽後狂哭：壓力好大好辛苦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179194970825822208718926.jpeg/VlYtKrBvz2R6bOMffuvCHb1UNRjyJPSq-CuR3vgrkd4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392747/%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%AD%A6%E8%A1%93-%E5%8A%89%E5%AD%90%E9%BE%8D%E5%8D%97%E6%8B%B3%E5%8D%97%E6%A3%8D%E6%91%98%E9%8A%80-%E8%B3%BD%E5%BE%8C%E7%8B%82%E5%93%AD-%E5%A3%93%E5%8A%9B%E5%A5%BD%E5%A4%A7%E5%A5%BD%E8%BE%9B%E8%8B%A6",
+    "timestamp": "2026-09-22T15:42:37.231Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟演唱會｜劉德華靜靜入場  與李克勤同坐有講有笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171861685812596736179304.jpeg/l58eFZ9QMJNXyodKcQS2SqQIfdfitgGpQqdGNkKnRjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60392626/%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89-%E9%84%AD%E9%BA%97%E6%96%87%E7%B1%B2%E5%85%A8%E5%8A%9B%E8%A1%9D%E5%88%BA-%E7%A8%B1%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%AD%A3%E7%82%BA2028%E9%87%8D%E8%BF%94%E5%9F%B7%E6%94%BF%E5%81%9A%E6%BA%96%E5%82%99",
     "timestamp": "2026-09-22T08:59:13.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西九演藝中心明年開幕 港芭進駐表演藝術新地標 成首個駐場藝團",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179108286008397824086924.jpeg/TGhqVhTs9RdipozzsI4dQfI3_gooqLWsK5FjECuRYxA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60392625/%E8%A5%BF%E4%B9%9D%E6%BC%94%E8%97%9D%E4%B8%AD%E5%BF%83%E6%98%8E%E5%B9%B4%E9%96%8B%E5%B9%95-%E6%B8%AF%E8%8A%AD%E9%80%B2%E9%A7%90%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E6%96%B0%E5%9C%B0%E6%A8%99-%E6%88%90%E9%A6%96%E5%80%8B%E9%A7%90%E5%A0%B4%E8%97%9D%E5%9C%98",
-    "timestamp": "2026-09-22T08:49:51.100Z",
     "strategy": ".content-card__main"
   }
 ];
