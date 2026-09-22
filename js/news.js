@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T07:55:38.560Z
+// Last updated: 2026-09-22T08:30:20.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浙江男花17元網購空禮盒裝入散裝月餅　成本不到25元做出高檔效果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179096156974616576540981.jpeg/ZsTMMPyNAylydYvRv7QoRGfyBfEoUEcsAYhUUgGIVFI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60392568/%E6%B5%99%E6%B1%9F%E7%94%B7%E8%8A%B117%E5%85%83%E7%B6%B2%E8%B3%BC%E7%A9%BA%E7%A6%AE%E7%9B%92%E8%A3%9D%E5%85%A5%E6%95%A3%E8%A3%9D%E6%9C%88%E9%A4%85-%E6%88%90%E6%9C%AC%E4%B8%8D%E5%88%B025%E5%85%83%E5%81%9A%E5%87%BA%E9%AB%98%E6%AA%94%E6%95%88%E6%9E%9C",
+    "timestamp": "2026-09-22T08:30:20.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣民政專員區家盛出任近5年換人　曾回應關愛隊報道一席話惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021809211648118784534102.jpeg/rtgyiSSF3RnxcBK-XtjYpDakX8Nx1dNcNR4DczUeA3M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60392366/amd%E6%BC%B2%E4%B8%80%E6%88%90%E5%86%8D%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E6%99%89%E8%BA%AB%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E4%BF%B1%E6%A8%82%E9%83%A8-%E7%BE%8E%E8%82%A1",
     "timestamp": "2026-09-21T23:54:19.098Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全球貨幣解構（二）｜高息高熱與降息低温：中美背後的博弈牌局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5dd6846123ab170deb41820a.png/rH8DWYB3O8f1_2PHCL6aaxDJ93H0a5QN0f0W1tH9FtY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60392249/%E5%85%A8%E7%90%83%E8%B2%A8%E5%B9%A3%E8%A7%A3%E6%A7%8B-%E4%BA%8C-%E9%AB%98%E6%81%AF%E9%AB%98%E7%86%B1%E8%88%87%E9%99%8D%E6%81%AF%E4%BD%8E%E6%B8%A9-%E4%B8%AD%E7%BE%8E%E8%83%8C%E5%BE%8C%E7%9A%84%E5%8D%9A%E5%BC%88%E7%89%8C%E5%B1%80",
-    "timestamp": "2026-09-21T23:43:12.609Z",
     "strategy": ".content-card__main"
   }
 ];
