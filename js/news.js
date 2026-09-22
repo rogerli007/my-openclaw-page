@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T09:21:23.244Z
+// Last updated: 2026-09-22T09:43:29.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳中秋月餅直擊　低糖款銷量飆7成　藥食同源吸港人更有寵物款",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179098196509462528651832.jpeg/bLMdIBagxb0D5izYhhNdxAd4_sHenA463KaJWNymiVg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60392600/%E6%B7%B1%E5%9C%B3%E4%B8%AD%E7%A7%8B%E6%9C%88%E9%A4%85%E7%9B%B4%E6%93%8A-%E4%BD%8E%E7%B3%96%E6%AC%BE%E9%8A%B7%E9%87%8F%E9%A3%867%E6%88%90-%E8%97%A5%E9%A3%9F%E5%90%8C%E6%BA%90%E5%90%B8%E6%B8%AF%E4%BA%BA%E6%9B%B4%E6%9C%89%E5%AF%B5%E7%89%A9%E6%AC%BE",
+    "timestamp": "2026-09-22T09:43:29.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沈曉榆亞運奪金｜啟德體育園贈市民親筆祝福球、辦光展為港隊打氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178769477324509184436150.png/eQN9BJeoLwtMTBpNuBZt3eoEmA3sTf7_iJpzFIiacxQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60392256/%E6%A5%AD%E4%B8%BB%E7%99%BD%E5%81%9A-%E8%8D%83%E7%81%A3%E6%B5%B7%E6%BF%B1%E8%8A%B1%E5%9C%92%E5%85%A9%E6%88%BF502%E8%90%AC%E6%B2%BD-%E6%8F%B8%E4%B8%89%E5%B9%B4%E4%BB%B2%E8%A6%81%E5%B8%B3%E8%9D%953%E8%90%AC%E8%9A%8A",
     "timestamp": "2026-09-22T02:30:04.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會舉行在即　美國重申對日韓防務承諾　推動三方經濟安全磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176535927179186176610542.jpeg/4f0Pd3hRb755iZIQHcNuj-GzqNj8Cg6yPQGd3D0Bndw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392376/%E7%BF%92%E7%89%B9%E6%9C%83%E8%88%89%E8%A1%8C%E5%9C%A8%E5%8D%B3-%E7%BE%8E%E5%9C%8B%E9%87%8D%E7%94%B3%E5%B0%8D%E6%97%A5%E9%9F%93%E9%98%B2%E5%8B%99%E6%89%BF%E8%AB%BE-%E6%8E%A8%E5%8B%95%E4%B8%89%E6%96%B9%E7%B6%93%E6%BF%9F%E5%AE%89%E5%85%A8%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-09-22T01:41:14.453Z",
     "strategy": ".content-card__main"
   }
 ];
