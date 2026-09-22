@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T22:42:35.941Z
+// Last updated: 2026-09-22T22:53:55.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀酒店房疑遇竊　31歲美籍男損失$16萬勞力士名錶　報警求助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179319673406099456961302.jpeg/aO5CTWvDG1VUG_vm4CD3SzueqV8irfqUjQRk0Y0EZNE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392792/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E6%88%BF%E7%96%91%E9%81%87%E7%AB%8A-31%E6%AD%B2%E7%BE%8E%E7%B1%8D%E7%94%B7%E6%90%8D%E5%A4%B1-16%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6-%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9",
+    "timestamp": "2026-09-22T22:53:55.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB監製關文深大爆拍戲秘聞　古天樂真性情某男一食飯唔畀錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179206591472209920791084.jpeg/vM2LKv34QWnOrFS_m4szdbEUblZ2O4R6I2hQ2SNoUNk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60392756/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%9D%9C%E9%9D%9C%E5%85%A5%E5%A0%B4-%E8%88%87%E6%9D%8E%E5%85%8B%E5%8B%A4%E5%90%8C%E5%9D%90%E6%9C%89%E8%AC%9B%E6%9C%89%E7%AC%91",
     "timestamp": "2026-09-22T15:21:05.550Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門中年婦倒斃雜物屋　遺14貓獲善心人自資暫託　冀有心人領養",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179194701366956032206841.jpeg/yUKPQk1dZ78CgAf0uoWK3xsy4sglwfd76zSVg-s0lYM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392744/%E5%B1%AF%E9%96%80%E4%B8%AD%E5%B9%B4%E5%A9%A6%E5%80%92%E6%96%83%E9%9B%9C%E7%89%A9%E5%B1%8B-%E9%81%BA14%E8%B2%93%E7%8D%B2%E5%96%84%E5%BF%83%E4%BA%BA%E8%87%AA%E8%B3%87%E6%9A%AB%E8%A8%97-%E5%86%80%E6%9C%89%E5%BF%83%E4%BA%BA%E9%A0%98%E9%A4%8A",
-    "timestamp": "2026-09-22T14:55:54.437Z",
     "strategy": ".content-card__main"
   }
 ];
