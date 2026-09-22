@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T10:44:07.873Z
+// Last updated: 2026-09-22T10:54:08.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佐敦店舖遇竊　失兩鑽石頸鏈共值逾$11萬　警緝兩非華裔漢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956245989419782144796513.jpeg/OA9Tn9qhA03U2ljAoayVibWUNMINfkiROHrOYzh6zmM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392696/%E4%BD%90%E6%95%A6%E5%BA%97%E8%88%96%E9%81%87%E7%AB%8A-%E5%A4%B1%E5%85%A9%E9%91%BD%E7%9F%B3%E9%A0%B8%E9%8F%88%E5%85%B1%E5%80%BC%E9%80%BE-11%E8%90%AC-%E8%AD%A6%E7%B7%9D%E5%85%A9%E9%9D%9E%E8%8F%AF%E8%A3%94%E6%BC%A2",
+    "timestamp": "2026-09-22T10:54:08.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佐敦店舖遇竊　失兩鑽石頸鏈共值逾$11萬　警緝兩非華裔漢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177711413360070656671289.jpeg/LndICNH8N-TVGof4Irp61FJt2e19lBl1fmOmAH5jpgA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392458/%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BF%83%E7%BE%8E%E6%94%BE%E5%AF%AC%E5%88%B6%E8%A3%81-%E6%8F%9B%E6%9C%9D%E9%AE%AE%E5%87%8D%E7%B5%90%E6%A0%B8%E8%A8%88%E5%8A%83",
     "timestamp": "2026-09-22T03:50:37.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026女排︱中華台北無緣4強　隊長廖苡任憑甜美笑容受熱捧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179024660772163584781439.jpeg/wWL69BUykleOhDgvdwu-jrpOl-n1ohAqAZNeQgGTXkI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392330/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A5%B3%E6%8E%92-%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E7%84%A1%E7%B7%A34%E5%BC%B7-%E9%9A%8A%E9%95%B7%E5%BB%96%E8%8B%A1%E4%BB%BB%E6%86%91%E7%94%9C%E7%BE%8E%E7%AC%91%E5%AE%B9%E5%8F%97%E7%86%B1%E6%8D%A7",
-    "timestamp": "2026-09-22T03:24:37.867Z",
     "strategy": ".content-card__main"
   }
 ];
