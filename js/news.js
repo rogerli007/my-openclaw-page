@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T22:18:30.814Z
+// Last updated: 2026-09-22T22:31:10.649Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秋分天氣｜今日有一兩陣驟雨　最高約31度　未來數日大致天晴乾燥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179312372041519104298173.jpeg/GZhccO6mSouAH4U32swEJ1TgrxUF945WEzCQexMwkHs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60392771/%E7%A7%8B%E5%88%86%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E7%B4%8431%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
+    "timestamp": "2026-09-22T22:31:10.649Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國警方拘2男子　涉圖謀恐襲曼徹斯特猶太社區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179188504005971968658123.jpeg/P_aLQ51Sln7fxV4yuB10cNzTx-JJwnUq7Kd04eyndOE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60392743/8%E6%9C%88%E5%85%A8%E5%9C%8B%E6%9F%A5%E8%99%95%E9%81%95%E5%8F%8D%E5%85%AB%E9%A0%85%E8%A6%8F%E5%AE%9A%E5%95%8F%E9%A1%8C%E8%BF%913%E8%90%AC%E5%AE%97-%E6%89%B9%E8%A9%95%E6%95%99%E8%82%B2%E5%92%8C%E8%99%95%E7%90%863-5%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-09-22T14:21:34.354Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈里梅根子女開學兩日急轉校！家長群洩私隱+車隊被切斷成導火線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179115562458943488234095.png/D6a3wUYRF05x_BhSInBgSTEswHGvSFwOwHYDn8B2A58?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392560/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E5%AD%90%E5%A5%B3%E9%96%8B%E5%AD%B8%E5%85%A9%E6%97%A5%E6%80%A5%E8%BD%89%E6%A0%A1-%E5%AE%B6%E9%95%B7%E7%BE%A4%E6%B4%A9%E7%A7%81%E9%9A%B1-%E8%BB%8A%E9%9A%8A%E8%A2%AB%E5%88%87%E6%96%B7%E6%88%90%E5%B0%8E%E7%81%AB%E7%B7%9A",
-    "timestamp": "2026-09-22T13:54:33.256Z",
     "strategy": ".content-card__main"
   }
 ];
