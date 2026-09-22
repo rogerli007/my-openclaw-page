@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T03:50:37.213Z
+// Last updated: 2026-09-22T04:23:37.583Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "關門口村偷校裙胸圍內褲　中年漢認盜竊囚2周　官勸更正不良嗜好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/366798/org/372666184fce0d9029539c9b9088a5cf.jpg/kkVrIZjUMenyA8pY98Jx54h7Y0JKWlraFQulLRULpS0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392475/%E9%97%9C%E9%96%80%E5%8F%A3%E6%9D%91%E5%81%B7%E6%A0%A1%E8%A3%99%E8%83%B8%E5%9C%8D%E5%85%A7%E8%A4%B2-%E4%B8%AD%E5%B9%B4%E6%BC%A2%E8%AA%8D%E7%9B%9C%E7%AB%8A%E5%9B%9A2%E5%91%A8-%E5%AE%98%E5%8B%B8%E6%9B%B4%E6%AD%A3%E4%B8%8D%E8%89%AF%E5%97%9C%E5%A5%BD",
+    "timestamp": "2026-09-22T04:23:37.583Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李在明促美放寬制裁　換朝鮮凍結核計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162346629412425728651028.jpeg/WE94Ux0voP2HypGOZSWuhsL4npaZnow5RUCFMkVAhTI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392360/%E6%B7%BA%E6%B0%B4%E7%81%A3%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E7%AA%97%E7%88%86%E7%AB%8A-%E5%A5%B3%E4%BD%8F%E6%88%B6%E5%A4%B1%E5%80%BC60%E8%90%AC%E5%85%83%E9%87%91%E5%99%A8%E7%8F%A0%E5%AF%B6",
     "timestamp": "2026-09-21T20:44:33.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警打鼓嶺反走私　搗坪輋儲存倉檢值700萬私煙　33歲男子涉案被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178916328455540736507146.jpeg/OGDjgq9p2wCSad_phY4dErbh3HSCfDWhcFYWg3BWFoM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392359/%E8%AD%A6%E6%89%93%E9%BC%93%E5%B6%BA%E5%8F%8D%E8%B5%B0%E7%A7%81-%E6%90%97%E5%9D%AA%E8%BC%8B%E5%84%B2%E5%AD%98%E5%80%89%E6%AA%A2%E5%80%BC700%E8%90%AC%E7%A7%81%E7%85%99-33%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B6%89%E6%A1%88%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-21T20:33:21.048Z",
     "strategy": ".content-card__main"
   }
 ];
