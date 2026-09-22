@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T10:22:40.373Z
+// Last updated: 2026-09-22T10:44:07.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佐敦店舖遇竊　失兩鑽石頸鏈共值逾$11萬　警緝兩非華裔漢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956245989419782144796513.jpeg/OA9Tn9qhA03U2ljAoayVibWUNMINfkiROHrOYzh6zmM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392696/%E4%BD%90%E6%95%A6%E5%BA%97%E8%88%96%E9%81%87%E7%AB%8A-%E5%A4%B1%E5%85%A9%E9%91%BD%E7%9F%B3%E9%A0%B8%E9%8F%88%E5%85%B1%E5%80%BC%E9%80%BE-11%E8%90%AC-%E8%AD%A6%E7%B7%9D%E5%85%A9%E9%9D%9E%E8%8F%AF%E8%A3%94%E6%BC%A2",
+    "timestamp": "2026-09-22T10:44:07.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望前主持黃穎君入自由黨　與TVB宋芝齡做黨友｜政壇諸事町",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179024660772163584781439.jpeg/wWL69BUykleOhDgvdwu-jrpOl-n1ohAqAZNeQgGTXkI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392330/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A5%B3%E6%8E%92-%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E7%84%A1%E7%B7%A34%E5%BC%B7-%E9%9A%8A%E9%95%B7%E5%BB%96%E8%8B%A1%E4%BB%BB%E6%86%91%E7%94%9C%E7%BE%8E%E7%AC%91%E5%AE%B9%E5%8F%97%E7%86%B1%E6%8D%A7",
     "timestamp": "2026-09-22T03:24:37.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荷里活廣場兇殺　精神病男隨機斬死兩女子　認誤殺判無限期醫院令",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230602/741379644951236608321798.png/xHbHDpV2JDDs0b2NuCOeNT9ns6D2yQ1P9dms3_XZrN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392269/%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4%E5%85%87%E6%AE%BA-%E7%B2%BE%E7%A5%9E%E7%97%85%E7%94%B7%E9%9A%A8%E6%A9%9F%E6%96%AC%E6%AD%BB%E5%85%A9%E5%A5%B3%E5%AD%90-%E8%AA%8D%E8%AA%A4%E6%AE%BA%E5%88%A4%E7%84%A1%E9%99%90%E6%9C%9F%E9%86%AB%E9%99%A2%E4%BB%A4",
-    "timestamp": "2026-09-22T02:59:46.213Z",
     "strategy": ".content-card__main"
   }
 ];
