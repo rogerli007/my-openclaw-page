@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T19:29:51.770Z
+// Last updated: 2026-09-22T20:35:53.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財務披露曝光　路透社：特朗普7月買賣SpaceX股票",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179097760800968704236745.jpeg/ZgutorGw8ga9SacIBYfYqog97PVbQdsEPCcB6zwnAes?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392786/%E8%B2%A1%E5%8B%99%E6%8A%AB%E9%9C%B2%E6%9B%9D%E5%85%89-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%89%B9%E6%9C%97%E6%99%AE7%E6%9C%88%E8%B2%B7%E8%B3%A3spacex%E8%82%A1%E7%A5%A8",
+    "timestamp": "2026-09-22T20:35:53.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港府反對歐盟委員會年度報告　稱針對維護國家安全內容無稽失實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179163195139428352240936.jpeg/VAfwe3awO9paHpuY6agU3vfQMuQVfBUJcritPnK4rT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392722/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%9F%93%E5%AA%92-%E6%9C%9D%E9%AE%AE%E4%BB%A3%E8%A1%A8%E5%9C%982%E6%88%90%E5%93%A1%E6%93%AC%E5%B0%8B%E6%B1%82%E6%97%A5%E6%9C%AC%E5%BA%87%E8%AD%B7-%E6%97%A5%E6%96%B9%E6%9C%AA%E8%AD%89%E5%AF%A6",
     "timestamp": "2026-09-22T12:28:33.252Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "專題｜電影演員轉攻舞台現飽和　張繼聰︰同行要一齊做大個市場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179113158602657792184295.jpeg/7oee-zyqpDjL2TA5a2CL9l34ZbbinYwE-Wdr_flna_0",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60392348/%E5%B0%88%E9%A1%8C-%E9%9B%BB%E5%BD%B1%E6%BC%94%E5%93%A1%E8%BD%89%E6%94%BB%E8%88%9E%E5%8F%B0%E7%8F%BE%E9%A3%BD%E5%92%8C-%E5%BC%B5%E7%B9%BC%E8%81%B0-%E5%90%8C%E8%A1%8C%E8%A6%81%E4%B8%80%E9%BD%8A%E5%81%9A%E5%A4%A7%E5%80%8B%E5%B8%82%E5%A0%B4",
-    "timestamp": "2026-09-22T11:54:06.672Z",
     "strategy": ".content-card__main"
   }
 ];
