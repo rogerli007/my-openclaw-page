@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T22:53:55.698Z
+// Last updated: 2026-09-22T23:17:56.790Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "協和長沙灣新校長鄭家寶談價值觀教育：家長非旁觀者須攜手同行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177846197818232832640812.jpeg/AQKCqE9Pe1I8QGAm-gDOpIIr1zD7Al0Gfuz-eH7s_ng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60391522/%E5%8D%94%E5%92%8C%E9%95%B7%E6%B2%99%E7%81%A3%E6%96%B0%E6%A0%A1%E9%95%B7%E9%84%AD%E5%AE%B6%E5%AF%B6%E8%AB%87%E5%83%B9%E5%80%BC%E8%A7%80%E6%95%99%E8%82%B2-%E5%AE%B6%E9%95%B7%E9%9D%9E%E6%97%81%E8%A7%80%E8%80%85%E9%A0%88%E6%94%9C%E6%89%8B%E5%90%8C%E8%A1%8C",
+    "timestamp": "2026-09-22T23:17:56.790Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀酒店房疑遇竊　31歲美籍男損失$16萬勞力士名錶　報警求助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179194970825822208718926.jpeg/VlYtKrBvz2R6bOMffuvCHb1UNRjyJPSq-CuR3vgrkd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392747/%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%AD%A6%E8%A1%93-%E5%8A%89%E5%AD%90%E9%BE%8D%E5%8D%97%E6%8B%B3%E5%8D%97%E6%A3%8D%E6%91%98%E9%8A%80-%E8%B3%BD%E5%BE%8C%E7%8B%82%E5%93%AD-%E5%A3%93%E5%8A%9B%E5%A5%BD%E5%A4%A7%E5%A5%BD%E8%BE%9B%E8%8B%A6",
     "timestamp": "2026-09-22T15:42:37.231Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚詠麟演唱會｜劉德華靜靜入場  與李克勤同坐有講有笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179206591472209920791084.jpeg/vM2LKv34QWnOrFS_m4szdbEUblZ2O4R6I2hQ2SNoUNk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60392756/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%9D%9C%E9%9D%9C%E5%85%A5%E5%A0%B4-%E8%88%87%E6%9D%8E%E5%85%8B%E5%8B%A4%E5%90%8C%E5%9D%90%E6%9C%89%E8%AC%9B%E6%9C%89%E7%AC%91",
-    "timestamp": "2026-09-22T15:21:05.550Z",
     "strategy": ".content-card__main"
   }
 ];
