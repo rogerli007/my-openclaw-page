@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-21T23:54:19.098Z
+// Last updated: 2026-09-22T00:48:38.299Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋10大禁忌｜男不拜月女不祭灶　風水理氣結合科學拆解賞月避忌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178423623598215168136598.png/vwtpTz1-Dw1MNVzuxRWlzsE71_IFQfjqFkxy3RZMct0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391739/%E4%B8%AD%E7%A7%8B10%E5%A4%A7%E7%A6%81%E5%BF%8C-%E7%94%B7%E4%B8%8D%E6%8B%9C%E6%9C%88%E5%A5%B3%E4%B8%8D%E7%A5%AD%E7%81%B6-%E9%A2%A8%E6%B0%B4%E7%90%86%E6%B0%A3%E7%B5%90%E5%90%88%E7%A7%91%E5%AD%B8%E6%8B%86%E8%A7%A3%E8%B3%9E%E6%9C%88%E9%81%BF%E5%BF%8C",
+    "timestamp": "2026-09-22T00:48:38.299Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AMD漲一成再創歷史新高　晉身萬億美元市值俱樂部｜美股",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
     "timestamp": "2026-09-21T17:46:18.474Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜深水埗寶馬遭警追截　剷巴士站攝車罅逃走　衝燈險撞行人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
-    "timestamp": "2026-09-21T17:29:11.135Z",
     "strategy": ".content-card__main"
   }
 ];
