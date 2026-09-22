@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T02:49:09.890Z
+// Last updated: 2026-09-22T02:59:46.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荷里活廣場兇殺　精神病男隨機斬死兩女子　認誤殺判無限期醫院令",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230602/741379644951236608321798.png/xHbHDpV2JDDs0b2NuCOeNT9ns6D2yQ1P9dms3_XZrN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392269/%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4%E5%85%87%E6%AE%BA-%E7%B2%BE%E7%A5%9E%E7%97%85%E7%94%B7%E9%9A%A8%E6%A9%9F%E6%96%AC%E6%AD%BB%E5%85%A9%E5%A5%B3%E5%AD%90-%E8%AA%8D%E8%AA%A4%E6%AE%BA%E5%88%A4%E7%84%A1%E9%99%90%E6%9C%9F%E9%86%AB%E9%99%A2%E4%BB%A4",
+    "timestamp": "2026-09-22T02:59:46.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山西明長城遭煤企｢腰斬｣截斷排礦渣近二十年　官方罰百萬刑拘高層",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178909742043500544259861.jpeg/ifK2EmYRWxQQgMit_b7SWpu7Ei0P1i3WwiExk-ghMZM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392357/%E9%9D%92%E8%A1%A3%E9%81%8B%E6%B2%B9%E8%BB%8A%E7%BF%BB%E5%81%B4-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%88%92%E5%82%99-%E4%B8%80%E7%94%B7%E4%B9%98%E5%AE%A2%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-21T19:43:11.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝森特：中美高層11月深圳再次會面　磋商AI風險及溝通機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178892479131291648061345.jpeg/u1nqLZU8E86FOb3lVIrWr9Iuzv7DLDsUcreB9HK3gfQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392351/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%B8%AD%E7%BE%8E%E9%AB%98%E5%B1%A411%E6%9C%88%E6%B7%B1%E5%9C%B3%E5%86%8D%E6%AC%A1%E6%9C%83%E9%9D%A2-%E7%A3%8B%E5%95%86ai%E9%A2%A8%E9%9A%AA%E5%8F%8A%E6%BA%9D%E9%80%9A%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-09-21T19:32:46.229Z",
     "strategy": ".content-card__main"
   }
 ];
