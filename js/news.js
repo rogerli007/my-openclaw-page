@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T08:59:13.792Z
+// Last updated: 2026-09-22T09:21:23.244Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈曉榆亞運奪金｜啟德體育園贈市民親筆祝福球、辦光展為港隊打氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179117021955100672957436.jpeg/D9tXBpxVddUiOosvUk3Dmputxi9Ame4NdFEkgnRRJII?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392577/%E6%B2%88%E6%9B%89%E6%A6%86%E4%BA%9E%E9%81%8B%E5%A5%AA%E9%87%91-%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92%E8%B4%88%E5%B8%82%E6%B0%91%E8%A6%AA%E7%AD%86%E7%A5%9D%E7%A6%8F%E7%90%83-%E8%BE%A6%E5%85%89%E5%B1%95%E7%82%BA%E6%B8%AF%E9%9A%8A%E6%89%93%E6%B0%A3",
+    "timestamp": "2026-09-22T09:21:23.244Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九合一選舉｜鄭麗文籲全力衝刺　稱國民黨正為2028重返執政做準備",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176535927179186176610542.jpeg/4f0Pd3hRb755iZIQHcNuj-GzqNj8Cg6yPQGd3D0Bndw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392376/%E7%BF%92%E7%89%B9%E6%9C%83%E8%88%89%E8%A1%8C%E5%9C%A8%E5%8D%B3-%E7%BE%8E%E5%9C%8B%E9%87%8D%E7%94%B3%E5%B0%8D%E6%97%A5%E9%9F%93%E9%98%B2%E5%8B%99%E6%89%BF%E8%AB%BE-%E6%8E%A8%E5%8B%95%E4%B8%89%E6%96%B9%E7%B6%93%E6%BF%9F%E5%AE%89%E5%85%A8%E7%A3%8B%E5%95%86",
     "timestamp": "2026-09-22T01:41:14.453Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026劍擊｜港隊男花女重分途出擊　張家朗蔡俊彥登場爭金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102692937185103872280415.jpeg/tP1rN0mOx9f4gfQGxeascEhg4VgTobYwBlVfvzxVX78?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392373/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E6%B8%AF%E9%9A%8A%E7%94%B7%E8%8A%B1%E5%A5%B3%E9%87%8D%E5%88%86%E9%80%94%E5%87%BA%E6%93%8A-%E5%BC%B5%E5%AE%B6%E6%9C%97%E8%94%A1%E4%BF%8A%E5%BD%A5%E7%99%BB%E5%A0%B4%E7%88%AD%E9%87%91",
-    "timestamp": "2026-09-22T01:16:40.015Z",
     "strategy": ".content-card__main"
   }
 ];
