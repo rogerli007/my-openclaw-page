@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T11:44:44.328Z
+// Last updated: 2026-09-22T11:54:06.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "專題｜電影演員轉攻舞台現飽和　張繼聰︰同行要一齊做大個市場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179113158602657792184295.jpeg/7oee-zyqpDjL2TA5a2CL9l34ZbbinYwE-Wdr_flna_0",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60392348/%E5%B0%88%E9%A1%8C-%E9%9B%BB%E5%BD%B1%E6%BC%94%E5%93%A1%E8%BD%89%E6%94%BB%E8%88%9E%E5%8F%B0%E7%8F%BE%E9%A3%BD%E5%92%8C-%E5%BC%B5%E7%B9%BC%E8%81%B0-%E5%90%8C%E8%A1%8C%E8%A6%81%E4%B8%80%E9%BD%8A%E5%81%9A%E5%A4%A7%E5%80%8B%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-09-22T11:54:06.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警尖沙咀及油麻地拘兩男　涉非法駕電動單車被扣查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178747373275320320734591.jpeg/zYdWMIplV6eo8u1LoL7C-9JZwLUhXTjDwvwEVsL8BFY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
     "timestamp": "2026-09-22T05:21:07.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳茂波訪京與中金董事長會面　籲積極參與本港資本市場發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179049003212345344753408.jpeg/2vRyEXqXMxYt45_0om8q_523iS8ojM9o-L8nY_i_J2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392495/%E9%99%B3%E8%8C%82%E6%B3%A2%E8%A8%AA%E4%BA%AC%E8%88%87%E4%B8%AD%E9%87%91%E8%91%A3%E4%BA%8B%E9%95%B7%E6%9C%83%E9%9D%A2-%E7%B1%B2%E7%A9%8D%E6%A5%B5%E5%8F%83%E8%88%87%E6%9C%AC%E6%B8%AF%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-09-22T04:55:56.321Z",
     "strategy": ".content-card__main"
   }
 ];
