@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T05:44:39.020Z
+// Last updated: 2026-09-22T05:59:50.404Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026劍擊．持續更新｜佘繕妡陳渭泠晉級16強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179042099236966400381675.jpeg/XeFf8DDSMeYrtFyd3bgmnh_dxm0EF93N87MRyfOzEck?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392471/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E4%BD%98%E7%B9%95%E5%A6%A1%E9%99%B3%E6%B8%AD%E6%B3%A0%E6%99%89%E7%B4%9A16%E5%BC%B7",
+    "timestamp": "2026-09-22T05:59:50.404Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026劍擊．持續更新｜張家朗32強止步　蔡俊彥稍後出戰16強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178949855091888128859361.jpeg/oz_BI72wuecp4mmVS-_I1LEgqMdaa9oFUSVnMlElZzI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392363/%E8%AD%A6%E8%B7%A8%E9%83%A8%E9%96%80%E4%BA%9E%E5%8D%9A%E9%A4%A8%E5%8F%8D%E6%81%90%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E5%8F%97%E8%A5%B2-icasualty%E9%80%9F%E5%B0%8B%E5%82%B7%E8%80%85",
     "timestamp": "2026-09-21T22:19:35.402Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "也門最高領導人與特朗普通電話　尋求支持對抗胡塞武裝但未獲承諾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161981700058648576406137.jpeg/uOdSCVXjW3BLy8qyhwlv0jurTnLAu9TBdnc4f3Z3OH8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392361/%E4%B9%9F%E9%96%80%E6%9C%80%E9%AB%98%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E9%9B%BB%E8%A9%B1-%E5%B0%8B%E6%B1%82%E6%94%AF%E6%8C%81%E5%B0%8D%E6%8A%97%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BD%86%E6%9C%AA%E7%8D%B2%E6%89%BF%E8%AB%BE",
-    "timestamp": "2026-09-21T21:55:02.978Z",
     "strategy": ".content-card__main"
   }
 ];
