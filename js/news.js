@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T08:30:20.878Z
+// Last updated: 2026-09-22T08:49:51.100Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九演藝中心明年開幕 港芭進駐表演藝術新地標 成首個駐場藝團",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179108286008397824086924.jpeg/TGhqVhTs9RdipozzsI4dQfI3_gooqLWsK5FjECuRYxA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60392625/%E8%A5%BF%E4%B9%9D%E6%BC%94%E8%97%9D%E4%B8%AD%E5%BF%83%E6%98%8E%E5%B9%B4%E9%96%8B%E5%B9%95-%E6%B8%AF%E8%8A%AD%E9%80%B2%E9%A7%90%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E6%96%B0%E5%9C%B0%E6%A8%99-%E6%88%90%E9%A6%96%E5%80%8B%E9%A7%90%E5%A0%B4%E8%97%9D%E5%9C%98",
+    "timestamp": "2026-09-22T08:49:51.100Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "浙江男花17元網購空禮盒裝入散裝月餅　成本不到25元做出高檔效果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178423623598215168136598.png/vwtpTz1-Dw1MNVzuxRWlzsE71_IFQfjqFkxy3RZMct0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391739/%E4%B8%AD%E7%A7%8B10%E5%A4%A7%E7%A6%81%E5%BF%8C-%E7%94%B7%E4%B8%8D%E6%8B%9C%E6%9C%88%E5%A5%B3%E4%B8%8D%E7%A5%AD%E7%81%B6-%E9%A2%A8%E6%B0%B4%E7%90%86%E6%B0%A3%E7%B5%90%E5%90%88%E7%A7%91%E5%AD%B8%E6%8B%86%E8%A7%A3%E8%B3%9E%E6%9C%88%E9%81%BF%E5%BF%8C",
     "timestamp": "2026-09-22T00:48:38.299Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AMD漲一成再創歷史新高　晉身萬億美元市值俱樂部｜美股",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021809211648118784534102.jpeg/rtgyiSSF3RnxcBK-XtjYpDakX8Nx1dNcNR4DczUeA3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60392366/amd%E6%BC%B2%E4%B8%80%E6%88%90%E5%86%8D%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E6%99%89%E8%BA%AB%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E4%BF%B1%E6%A8%82%E9%83%A8-%E7%BE%8E%E8%82%A1",
-    "timestamp": "2026-09-21T23:54:19.098Z",
     "strategy": ".content-card__main"
   }
 ];
