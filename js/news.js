@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T06:36:02.529Z
+// Last updated: 2026-09-22T06:58:33.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會在即　人民日報：中美應破除修昔底德陷阱　慎處台灣問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5d3ac9ed0062511817a97ec2.jpg/s8qvJbHn0osHyhPyy7jy-R9rB793MiICpjcIfaY3CH0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392549/%E7%BF%92%E7%89%B9%E6%9C%83%E5%9C%A8%E5%8D%B3-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1-%E4%B8%AD%E7%BE%8E%E6%87%89%E7%A0%B4%E9%99%A4%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7%E9%99%B7%E9%98%B1-%E6%85%8E%E8%99%95%E5%8F%B0%E7%81%A3%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-09-22T06:58:33.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張智霖上海開騷父子檔同台夾Band　19歲張慕童完美複製頂級神顏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220529/607716653798526976201736.jpeg/DxX9817kfQSOLrm3vwC7eGLCqTRYMLC9E36IxxN-iMc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392356/%E6%B3%A2%E8%98%AD-%E5%A2%83%E5%85%A7%E7%BE%8E%E8%BB%8D%E6%96%99%E5%B0%87%E6%93%B4%E8%87%B31-5%E8%90%AC%E4%BA%BA-%E5%8C%85%E6%8B%AC%E7%B4%845000%E4%BA%BA%E9%83%A8%E7%BD%B2%E6%96%BC%E6%B0%B8%E4%B9%85%E5%9F%BA%E5%9C%B0",
     "timestamp": "2026-09-21T22:45:15.676Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警跨部門亞博館反恐演習　模擬國際會議受襲　iCasualty速尋傷者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178949855091888128859361.jpeg/oz_BI72wuecp4mmVS-_I1LEgqMdaa9oFUSVnMlElZzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392363/%E8%AD%A6%E8%B7%A8%E9%83%A8%E9%96%80%E4%BA%9E%E5%8D%9A%E9%A4%A8%E5%8F%8D%E6%81%90%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E5%8F%97%E8%A5%B2-icasualty%E9%80%9F%E5%B0%8B%E5%82%B7%E8%80%85",
-    "timestamp": "2026-09-21T22:33:32.558Z",
     "strategy": ".content-card__main"
   }
 ];
