@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T13:21:29.564Z
+// Last updated: 2026-09-22T13:44:21.203Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "年宵2027｜1564個攤位10.7起競投　維園熟食檔底價12萬與去年相若",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099985293337300992513809.jpeg/kNKtvZILbugEapYbEB6aanzX0EpEGdI6DLSnXya0p18?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392725/%E5%B9%B4%E5%AE%B52027-1564%E5%80%8B%E6%94%A4%E4%BD%8D10-7%E8%B5%B7%E7%AB%B6%E6%8A%95-%E7%B6%AD%E5%9C%92%E7%86%9F%E9%A3%9F%E6%AA%94%E5%BA%95%E5%83%B912%E8%90%AC%E8%88%87%E5%8E%BB%E5%B9%B4%E7%9B%B8%E8%8B%A5",
+    "timestamp": "2026-09-22T13:44:21.203Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "釜山巨鯊滯留公園引過萬人潮　民眾擲生雞肉誘鯊　當局推限時管制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5d3ac9ed0062511817a97ec2.jpg/s8qvJbHn0osHyhPyy7jy-R9rB793MiICpjcIfaY3CH0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392549/%E7%BF%92%E7%89%B9%E6%9C%83%E5%9C%A8%E5%8D%B3-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1-%E4%B8%AD%E7%BE%8E%E6%87%89%E7%A0%B4%E9%99%A4%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7%E9%99%B7%E9%98%B1-%E6%85%8E%E8%99%95%E5%8F%B0%E7%81%A3%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-09-22T06:58:33.802Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張智霖上海開騷父子檔同台夾Band　19歲張慕童完美複製頂級神顏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179024724450086912405612.jpeg/d3189v4g_aSonpy3C5-yxTqK9fKMS4Xgkg8IoZIPCKE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392385/%E5%BC%B5%E6%99%BA%E9%9C%96%E4%B8%8A%E6%B5%B7%E9%96%8B%E9%A8%B7%E7%88%B6%E5%AD%90%E6%AA%94%E5%90%8C%E5%8F%B0%E5%A4%BEband-19%E6%AD%B2%E5%BC%B5%E6%85%95%E7%AB%A5%E5%AE%8C%E7%BE%8E%E8%A4%87%E8%A3%BD%E9%A0%82%E7%B4%9A%E7%A5%9E%E9%A1%8F",
-    "timestamp": "2026-09-22T06:36:02.529Z",
     "strategy": ".content-card__main"
   }
 ];
