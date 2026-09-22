@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T11:33:20.315Z
+// Last updated: 2026-09-22T11:44:44.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警尖沙咀及油麻地拘兩男　涉非法駕電動單車被扣查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179147440960311296862710.jpeg/EUz9n-JaJ194nvD44WefZh2i3ZMVqDRPRuYMX0bmDF8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392708/%E8%AD%A6%E5%B0%96%E6%B2%99%E5%92%80%E5%8F%8A%E6%B2%B9%E9%BA%BB%E5%9C%B0%E6%8B%98%E5%85%A9%E7%94%B7-%E6%B6%89%E9%9D%9E%E6%B3%95%E9%A7%95%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E8%A2%AB%E6%89%A3%E6%9F%A5",
+    "timestamp": "2026-09-22T11:44:44.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運2026｜中國13歲泳手于子迪狂攬兩金　200混僅距世績0.4秒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179049003212345344753408.jpeg/2vRyEXqXMxYt45_0om8q_523iS8ojM9o-L8nY_i_J2M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392495/%E9%99%B3%E8%8C%82%E6%B3%A2%E8%A8%AA%E4%BA%AC%E8%88%87%E4%B8%AD%E9%87%91%E8%91%A3%E4%BA%8B%E9%95%B7%E6%9C%83%E9%9D%A2-%E7%B1%B2%E7%A9%8D%E6%A5%B5%E5%8F%83%E8%88%87%E6%9C%AC%E6%B8%AF%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4%E7%99%BC%E5%B1%95",
     "timestamp": "2026-09-22T04:55:56.321Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Twins Sidetrack演唱會2026香港加場｜門票公售攻略+連結+座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177326138884624384576431.jpeg/LhgzlZGXHmeSIk99QBCUyd-WAtNM48c3msJ8SJrCfEg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60388748/twins-sidetrack%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-09-22T04:46:37.111Z",
     "strategy": ".content-card__main"
   }
 ];
