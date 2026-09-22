@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T08:49:51.100Z
+// Last updated: 2026-09-22T08:59:13.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九合一選舉｜鄭麗文籲全力衝刺　稱國民黨正為2028重返執政做準備",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171861685812596736179304.jpeg/l58eFZ9QMJNXyodKcQS2SqQIfdfitgGpQqdGNkKnRjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60392626/%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89-%E9%84%AD%E9%BA%97%E6%96%87%E7%B1%B2%E5%85%A8%E5%8A%9B%E8%A1%9D%E5%88%BA-%E7%A8%B1%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%AD%A3%E7%82%BA2028%E9%87%8D%E8%BF%94%E5%9F%B7%E6%94%BF%E5%81%9A%E6%BA%96%E5%82%99",
+    "timestamp": "2026-09-22T08:59:13.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九演藝中心明年開幕 港芭進駐表演藝術新地標 成首個駐場藝團",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102692937185103872280415.jpeg/tP1rN0mOx9f4gfQGxeascEhg4VgTobYwBlVfvzxVX78?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392373/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E6%B8%AF%E9%9A%8A%E7%94%B7%E8%8A%B1%E5%A5%B3%E9%87%8D%E5%88%86%E9%80%94%E5%87%BA%E6%93%8A-%E5%BC%B5%E5%AE%B6%E6%9C%97%E8%94%A1%E4%BF%8A%E5%BD%A5%E7%99%BB%E5%A0%B4%E7%88%AD%E9%87%91",
     "timestamp": "2026-09-22T01:16:40.015Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中秋10大禁忌｜男不拜月女不祭灶　風水理氣結合科學拆解賞月避忌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178423623598215168136598.png/vwtpTz1-Dw1MNVzuxRWlzsE71_IFQfjqFkxy3RZMct0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391739/%E4%B8%AD%E7%A7%8B10%E5%A4%A7%E7%A6%81%E5%BF%8C-%E7%94%B7%E4%B8%8D%E6%8B%9C%E6%9C%88%E5%A5%B3%E4%B8%8D%E7%A5%AD%E7%81%B6-%E9%A2%A8%E6%B0%B4%E7%90%86%E6%B0%A3%E7%B5%90%E5%90%88%E7%A7%91%E5%AD%B8%E6%8B%86%E8%A7%A3%E8%B3%9E%E6%9C%88%E9%81%BF%E5%BF%8C",
-    "timestamp": "2026-09-22T00:48:38.299Z",
     "strategy": ".content-card__main"
   }
 ];
