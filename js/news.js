@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T00:48:38.299Z
+// Last updated: 2026-09-22T01:16:40.015Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026劍擊｜港隊男花女重分途出擊　張家朗蔡俊彥登場爭金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102692937185103872280415.jpeg/tP1rN0mOx9f4gfQGxeascEhg4VgTobYwBlVfvzxVX78?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392373/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E6%B8%AF%E9%9A%8A%E7%94%B7%E8%8A%B1%E5%A5%B3%E9%87%8D%E5%88%86%E9%80%94%E5%87%BA%E6%93%8A-%E5%BC%B5%E5%AE%B6%E6%9C%97%E8%94%A1%E4%BF%8A%E5%BD%A5%E7%99%BB%E5%A0%B4%E7%88%AD%E9%87%91",
+    "timestamp": "2026-09-22T01:16:40.015Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中秋10大禁忌｜男不拜月女不祭灶　風水理氣結合科學拆解賞月避忌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
     "timestamp": "2026-09-21T17:54:52.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜深水埗寶馬遭警追截　剷巴士站攝車罅逃走　衝燈險撞行人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
-    "timestamp": "2026-09-21T17:46:18.474Z",
     "strategy": ".content-card__main"
   }
 ];
