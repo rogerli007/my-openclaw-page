@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T01:16:40.015Z
+// Last updated: 2026-09-22T01:41:14.453Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會舉行在即　美國重申對日韓防務承諾　推動三方經濟安全磋商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176535927179186176610542.jpeg/4f0Pd3hRb755iZIQHcNuj-GzqNj8Cg6yPQGd3D0Bndw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392376/%E7%BF%92%E7%89%B9%E6%9C%83%E8%88%89%E8%A1%8C%E5%9C%A8%E5%8D%B3-%E7%BE%8E%E5%9C%8B%E9%87%8D%E7%94%B3%E5%B0%8D%E6%97%A5%E9%9F%93%E9%98%B2%E5%8B%99%E6%89%BF%E8%AB%BE-%E6%8E%A8%E5%8B%95%E4%B8%89%E6%96%B9%E7%B6%93%E6%BF%9F%E5%AE%89%E5%85%A8%E7%A3%8B%E5%95%86",
+    "timestamp": "2026-09-22T01:41:14.453Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026劍擊｜港隊男花女重分途出擊　張家朗蔡俊彥登場爭金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178889096043433984908264.jpeg/P3mWBHMN4w2ymRUIalh0wEYlK07ce2SmCsNDvgrDQ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392349/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B1%80%E4%B9%9D%E6%A9%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%96%91%E8%B7%B3%E6%A9%8B-%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%95%91%E8%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-21T18:48:38.422Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜深水埗寶馬遭警追截　剷巴士站攝車罅逃走　衝燈險撞行人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178868522315419648798046.png/Z0cRzItVx6aaWCp6UH6YjG7njh6itDUAEGRVXhBkVV4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392347/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%AF%B6%E9%A6%AC%E9%81%AD%E8%AD%A6%E8%BF%BD%E6%88%AA-%E5%89%B7%E5%B7%B4%E5%A3%AB%E7%AB%99%E6%94%9D%E8%BB%8A%E7%BD%85%E9%80%83%E8%B5%B0-%E8%A1%9D%E7%87%88%E9%9A%AA%E6%92%9E%E8%A1%8C%E4%BA%BA",
-    "timestamp": "2026-09-21T17:54:52.229Z",
     "strategy": ".content-card__main"
   }
 ];
