@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T15:53:45.658Z
+// Last updated: 2026-09-22T16:21:45.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林欣彤神隱9個月再出Post近況曝光　坦言百感交集：很需要勇氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179221968591785984091654.jpeg/zxbcmxx1wGzeuWV26sZ3TVWHJSVqh9v9_SOhav0joWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392769/%E6%9E%97%E6%AC%A3%E5%BD%A4%E7%A5%9E%E9%9A%B19%E5%80%8B%E6%9C%88%E5%86%8D%E5%87%BApost%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E5%9D%A6%E8%A8%80%E7%99%BE%E6%84%9F%E4%BA%A4%E9%9B%86-%E5%BE%88%E9%9C%80%E8%A6%81%E5%8B%87%E6%B0%A3",
+    "timestamp": "2026-09-22T16:21:45.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊偲泳被指與張振朗半山築愛巢備婚　寸報道連醫美療程價錢都錯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179098196509462528651832.jpeg/bLMdIBagxb0D5izYhhNdxAd4_sHenA463KaJWNymiVg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60392600/%E6%B7%B1%E5%9C%B3%E4%B8%AD%E7%A7%8B%E6%9C%88%E9%A4%85%E7%9B%B4%E6%93%8A-%E4%BD%8E%E7%B3%96%E6%AC%BE%E9%8A%B7%E9%87%8F%E9%A3%867%E6%88%90-%E8%97%A5%E9%A3%9F%E5%90%8C%E6%BA%90%E5%90%B8%E6%B8%AF%E4%BA%BA%E6%9B%B4%E6%9C%89%E5%AF%B5%E7%89%A9%E6%AC%BE",
     "timestamp": "2026-09-22T09:43:29.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沈曉榆亞運奪金｜啟德體育園贈市民親筆祝福球、辦光展為港隊打氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179117021955100672957436.jpeg/D9tXBpxVddUiOosvUk3Dmputxi9Ame4NdFEkgnRRJII?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392577/%E6%B2%88%E6%9B%89%E6%A6%86%E4%BA%9E%E9%81%8B%E5%A5%AA%E9%87%91-%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92%E8%B4%88%E5%B8%82%E6%B0%91%E8%A6%AA%E7%AD%86%E7%A5%9D%E7%A6%8F%E7%90%83-%E8%BE%A6%E5%85%89%E5%B1%95%E7%82%BA%E6%B8%AF%E9%9A%8A%E6%89%93%E6%B0%A3",
-    "timestamp": "2026-09-22T09:21:23.244Z",
     "strategy": ".content-card__main"
   }
 ];
