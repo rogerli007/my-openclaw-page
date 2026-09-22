@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T19:18:13.365Z
+// Last updated: 2026-09-22T19:29:51.770Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港府反對歐盟委員會年度報告　稱針對維護國家安全內容無稽失實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/872825/org/3d6188b57fdb40325f9b798e033b152f.jpg/wOMj19h1aYjRp8E5XpUz44wUKMSaVkxTiG_KCYhvygk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392781/%E6%B8%AF%E5%BA%9C%E5%8F%8D%E5%B0%8D%E6%AD%90%E7%9B%9F%E5%A7%94%E5%93%A1%E6%9C%83%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A-%E7%A8%B1%E9%87%9D%E5%B0%8D%E7%B6%AD%E8%AD%B7%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%85%A7%E5%AE%B9%E7%84%A1%E7%A8%BD%E5%A4%B1%E5%AF%A6",
+    "timestamp": "2026-09-22T19:29:51.770Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港府反對歐盟委員會年度報告　稱針對維護國家安全內容無稽失實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179113158602657792184295.jpeg/7oee-zyqpDjL2TA5a2CL9l34ZbbinYwE-Wdr_flna_0",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60392348/%E5%B0%88%E9%A1%8C-%E9%9B%BB%E5%BD%B1%E6%BC%94%E5%93%A1%E8%BD%89%E6%94%BB%E8%88%9E%E5%8F%B0%E7%8F%BE%E9%A3%BD%E5%92%8C-%E5%BC%B5%E7%B9%BC%E8%81%B0-%E5%90%8C%E8%A1%8C%E8%A6%81%E4%B8%80%E9%BD%8A%E5%81%9A%E5%A4%A7%E5%80%8B%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-09-22T11:54:06.672Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警尖沙咀及油麻地拘兩男　涉非法駕電動單車被扣查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179147440960311296862710.jpeg/EUz9n-JaJ194nvD44WefZh2i3ZMVqDRPRuYMX0bmDF8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392708/%E8%AD%A6%E5%B0%96%E6%B2%99%E5%92%80%E5%8F%8A%E6%B2%B9%E9%BA%BB%E5%9C%B0%E6%8B%98%E5%85%A9%E7%94%B7-%E6%B6%89%E9%9D%9E%E6%B3%95%E9%A7%95%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E8%A2%AB%E6%89%A3%E6%9F%A5",
-    "timestamp": "2026-09-22T11:44:44.328Z",
     "strategy": ".content-card__main"
   }
 ];
