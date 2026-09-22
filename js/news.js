@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T13:54:33.256Z
+// Last updated: 2026-09-22T14:21:34.354Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8月全國查處違反八項規定問題近3萬宗　批評教育和處理3.5萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179188504005971968658123.jpeg/P_aLQ51Sln7fxV4yuB10cNzTx-JJwnUq7Kd04eyndOE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60392743/8%E6%9C%88%E5%85%A8%E5%9C%8B%E6%9F%A5%E8%99%95%E9%81%95%E5%8F%8D%E5%85%AB%E9%A0%85%E8%A6%8F%E5%AE%9A%E5%95%8F%E9%A1%8C%E8%BF%913%E8%90%AC%E5%AE%97-%E6%89%B9%E8%A9%95%E6%95%99%E8%82%B2%E5%92%8C%E8%99%95%E7%90%863-5%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-09-22T14:21:34.354Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈里梅根子女開學兩日急轉校！家長群洩私隱+車隊被切斷成導火線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179094061689081856705821.jpeg/x-Z__b5SJvogh3MI8r5rr1UGalhIjOVmB5UQ_geVEP4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392574/%E8%8D%83%E7%81%A3%E6%B0%91%E6%94%BF%E5%B0%88%E5%93%A1%E5%8D%80%E5%AE%B6%E7%9B%9B%E5%87%BA%E4%BB%BB%E8%BF%915%E5%B9%B4%E6%8F%9B%E4%BA%BA-%E6%9B%BE%E5%9B%9E%E6%87%89%E9%97%9C%E6%84%9B%E9%9A%8A%E5%A0%B1%E9%81%93%E4%B8%80%E5%B8%AD%E8%A9%B1%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-09-22T07:55:38.560Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "浪琴香港國際馬術盛典7亮點!門票早鳥8折/5星場地障礙賽/騎術表演",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179031811607498752395274.png/nhSJqvpvO5-Gr1bn_EzjzGf_6hB4Id6KhnI79oZyO_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60382057/%E6%B5%AA%E7%90%B4%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E9%A6%AC%E8%A1%93%E7%9B%9B%E5%85%B87%E4%BA%AE%E9%BB%9E-%E9%96%80%E7%A5%A8%E6%97%A9%E9%B3%A58%E6%8A%98-5%E6%98%9F%E5%A0%B4%E5%9C%B0%E9%9A%9C%E7%A4%99%E8%B3%BD-%E9%A8%8E%E8%A1%93%E8%A1%A8%E6%BC%94",
-    "timestamp": "2026-09-22T07:23:48.112Z",
     "strategy": ".content-card__main"
   }
 ];
