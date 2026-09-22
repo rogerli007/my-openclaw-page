@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T14:21:34.354Z
+// Last updated: 2026-09-22T14:55:54.437Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門中年婦倒斃雜物屋　遺14貓獲善心人自資暫託　冀有心人領養",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179194701366956032206841.jpeg/yUKPQk1dZ78CgAf0uoWK3xsy4sglwfd76zSVg-s0lYM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392744/%E5%B1%AF%E9%96%80%E4%B8%AD%E5%B9%B4%E5%A9%A6%E5%80%92%E6%96%83%E9%9B%9C%E7%89%A9%E5%B1%8B-%E9%81%BA14%E8%B2%93%E7%8D%B2%E5%96%84%E5%BF%83%E4%BA%BA%E8%87%AA%E8%B3%87%E6%9A%AB%E8%A8%97-%E5%86%80%E6%9C%89%E5%BF%83%E4%BA%BA%E9%A0%98%E9%A4%8A",
+    "timestamp": "2026-09-22T14:55:54.437Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "8月全國查處違反八項規定問題近3萬宗　批評教育和處理3.5萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179096156974616576540981.jpeg/ZsTMMPyNAylydYvRv7QoRGfyBfEoUEcsAYhUUgGIVFI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60392568/%E6%B5%99%E6%B1%9F%E7%94%B7%E8%8A%B117%E5%85%83%E7%B6%B2%E8%B3%BC%E7%A9%BA%E7%A6%AE%E7%9B%92%E8%A3%9D%E5%85%A5%E6%95%A3%E8%A3%9D%E6%9C%88%E9%A4%85-%E6%88%90%E6%9C%AC%E4%B8%8D%E5%88%B025%E5%85%83%E5%81%9A%E5%87%BA%E9%AB%98%E6%AA%94%E6%95%88%E6%9E%9C",
     "timestamp": "2026-09-22T08:30:20.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣民政專員區家盛出任近5年換人　曾回應關愛隊報道一席話惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179094061689081856705821.jpeg/x-Z__b5SJvogh3MI8r5rr1UGalhIjOVmB5UQ_geVEP4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392574/%E8%8D%83%E7%81%A3%E6%B0%91%E6%94%BF%E5%B0%88%E5%93%A1%E5%8D%80%E5%AE%B6%E7%9B%9B%E5%87%BA%E4%BB%BB%E8%BF%915%E5%B9%B4%E6%8F%9B%E4%BA%BA-%E6%9B%BE%E5%9B%9E%E6%87%89%E9%97%9C%E6%84%9B%E9%9A%8A%E5%A0%B1%E9%81%93%E4%B8%80%E5%B8%AD%E8%A9%B1%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-09-22T07:55:38.560Z",
     "strategy": ".content-card__main"
   }
 ];
