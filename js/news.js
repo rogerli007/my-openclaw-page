@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T03:24:37.867Z
+// Last updated: 2026-09-22T03:50:37.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李在明促美放寬制裁　換朝鮮凍結核計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177711413360070656671289.jpeg/LndICNH8N-TVGof4Irp61FJt2e19lBl1fmOmAH5jpgA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392458/%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%BF%83%E7%BE%8E%E6%94%BE%E5%AF%AC%E5%88%B6%E8%A3%81-%E6%8F%9B%E6%9C%9D%E9%AE%AE%E5%87%8D%E7%B5%90%E6%A0%B8%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-09-22T03:50:37.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026女排︱中華台北無緣4強　隊長廖苡任憑甜美笑容受熱捧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178916328455540736507146.jpeg/OGDjgq9p2wCSad_phY4dErbh3HSCfDWhcFYWg3BWFoM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392359/%E8%AD%A6%E6%89%93%E9%BC%93%E5%B6%BA%E5%8F%8D%E8%B5%B0%E7%A7%81-%E6%90%97%E5%9D%AA%E8%BC%8B%E5%84%B2%E5%AD%98%E5%80%89%E6%AA%A2%E5%80%BC700%E8%90%AC%E7%A7%81%E7%85%99-33%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B6%89%E6%A1%88%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-21T20:33:21.048Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警打鼓嶺反走私　搗坪輋儲存倉檢值700萬私煙　33歲男子涉案被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178916328455540736507146.jpeg/OGDjgq9p2wCSad_phY4dErbh3HSCfDWhcFYWg3BWFoM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392359/%E8%AD%A6%E6%89%93%E9%BC%93%E5%B6%BA%E5%8F%8D%E8%B5%B0%E7%A7%81-%E6%90%97%E5%9D%AA%E8%BC%8B%E5%84%B2%E5%AD%98%E5%80%89%E6%AA%A2%E5%80%BC700%E8%90%AC%E7%A7%81%E7%85%99-33%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B6%89%E6%A1%88%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-21T20:19:48.101Z",
     "strategy": ".content-card__main"
   }
 ];
