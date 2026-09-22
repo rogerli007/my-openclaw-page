@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T02:59:46.213Z
+// Last updated: 2026-09-22T03:24:37.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026女排︱中華台北無緣4強　隊長廖苡任憑甜美笑容受熱捧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179024660772163584781439.jpeg/wWL69BUykleOhDgvdwu-jrpOl-n1ohAqAZNeQgGTXkI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392330/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A5%B3%E6%8E%92-%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E7%84%A1%E7%B7%A34%E5%BC%B7-%E9%9A%8A%E9%95%B7%E5%BB%96%E8%8B%A1%E4%BB%BB%E6%86%91%E7%94%9C%E7%BE%8E%E7%AC%91%E5%AE%B9%E5%8F%97%E7%86%B1%E6%8D%A7",
+    "timestamp": "2026-09-22T03:24:37.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荷里活廣場兇殺　精神病男隨機斬死兩女子　認誤殺判無限期醫院令",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178916328455540736507146.jpeg/OGDjgq9p2wCSad_phY4dErbh3HSCfDWhcFYWg3BWFoM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392359/%E8%AD%A6%E6%89%93%E9%BC%93%E5%B6%BA%E5%8F%8D%E8%B5%B0%E7%A7%81-%E6%90%97%E5%9D%AA%E8%BC%8B%E5%84%B2%E5%AD%98%E5%80%89%E6%AA%A2%E5%80%BC700%E8%90%AC%E7%A7%81%E7%85%99-33%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B6%89%E6%A1%88%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-21T20:19:48.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣運油車翻側　消防到場戒備　一男乘客受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178909742043500544259861.jpeg/ifK2EmYRWxQQgMit_b7SWpu7Ei0P1i3WwiExk-ghMZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392357/%E9%9D%92%E8%A1%A3%E9%81%8B%E6%B2%B9%E8%BB%8A%E7%BF%BB%E5%81%B4-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%88%92%E5%82%99-%E4%B8%80%E7%94%B7%E4%B9%98%E5%AE%A2%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-21T19:43:11.112Z",
     "strategy": ".content-card__main"
   }
 ];
