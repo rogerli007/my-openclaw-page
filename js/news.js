@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T12:51:34.427Z
+// Last updated: 2026-09-22T13:21:29.564Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "釜山巨鯊滯留公園引過萬人潮　民眾擲生雞肉誘鯊　當局推限時管制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179160652913053696812074.png/x1Wiav4AlIFIsplEXNRq26M044cuJcKR6pYBa-qWAWs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60392604/%E9%87%9C%E5%B1%B1%E5%B7%A8%E9%AF%8A%E6%BB%AF%E7%95%99%E5%85%AC%E5%9C%92%E5%BC%95%E9%81%8E%E8%90%AC%E4%BA%BA%E6%BD%AE-%E6%B0%91%E7%9C%BE%E6%93%B2%E7%94%9F%E9%9B%9E%E8%82%89%E8%AA%98%E9%AF%8A-%E7%95%B6%E5%B1%80%E6%8E%A8%E9%99%90%E6%99%82%E7%AE%A1%E5%88%B6",
+    "timestamp": "2026-09-22T13:21:29.564Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人力推算｜AI衝擊下文書類人力過剩3萬　畢業生、中年影響最深",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179024724450086912405612.jpeg/d3189v4g_aSonpy3C5-yxTqK9fKMS4Xgkg8IoZIPCKE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392385/%E5%BC%B5%E6%99%BA%E9%9C%96%E4%B8%8A%E6%B5%B7%E9%96%8B%E9%A8%B7%E7%88%B6%E5%AD%90%E6%AA%94%E5%90%8C%E5%8F%B0%E5%A4%BEband-19%E6%AD%B2%E5%BC%B5%E6%85%95%E7%AB%A5%E5%AE%8C%E7%BE%8E%E8%A4%87%E8%A3%BD%E9%A0%82%E7%B4%9A%E7%A5%9E%E9%A1%8F",
     "timestamp": "2026-09-22T06:36:02.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026劍擊．持續更新｜佘繕妡陳渭泠晉級16強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179042099236966400381675.jpeg/XeFf8DDSMeYrtFyd3bgmnh_dxm0EF93N87MRyfOzEck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392471/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E4%BD%98%E7%B9%95%E5%A6%A1%E9%99%B3%E6%B8%AD%E6%B3%A0%E6%99%89%E7%B4%9A16%E5%BC%B7",
-    "timestamp": "2026-09-22T05:59:50.404Z",
     "strategy": ".content-card__main"
   }
 ];
