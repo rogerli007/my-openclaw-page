@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T09:53:39.381Z
+// Last updated: 2026-09-22T10:22:40.373Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望前主持黃穎君入自由黨　與TVB宋芝齡做黨友｜政壇諸事町",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179130132812664832653042.jpeg/9v-gyx-xlwdGRqnoFD_xfh_jZOdK5uLLCO7MSwjuzEs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392670/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B%E5%89%8D%E4%B8%BB%E6%8C%81%E9%BB%83%E7%A9%8E%E5%90%9B%E5%85%A5%E8%87%AA%E7%94%B1%E9%BB%A8-%E8%88%87tvb%E5%AE%8B%E8%8A%9D%E9%BD%A1%E5%81%9A%E9%BB%A8%E5%8F%8B-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
+    "timestamp": "2026-09-22T10:22:40.373Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟演唱會｜溫拿五子世紀合體　《玩吓啦》致敬已故好友黎彼得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230602/741379644951236608321798.png/xHbHDpV2JDDs0b2NuCOeNT9ns6D2yQ1P9dms3_XZrN8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392269/%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4%E5%85%87%E6%AE%BA-%E7%B2%BE%E7%A5%9E%E7%97%85%E7%94%B7%E9%9A%A8%E6%A9%9F%E6%96%AC%E6%AD%BB%E5%85%A9%E5%A5%B3%E5%AD%90-%E8%AA%8D%E8%AA%A4%E6%AE%BA%E5%88%A4%E7%84%A1%E9%99%90%E6%9C%9F%E9%86%AB%E9%99%A2%E4%BB%A4",
     "timestamp": "2026-09-22T02:59:46.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山西明長城遭煤企｢腰斬｣截斷排礦渣近二十年　官方罰百萬刑拘高層",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179016941549916160465207.png/xmQqVAHq0MkHz1AUH8nQ7xC45C7w-LhTRkx0o0ZMdKM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60392397/%E5%B1%B1%E8%A5%BF%E6%98%8E%E9%95%B7%E5%9F%8E%E9%81%AD%E7%85%A4%E4%BC%81-%E8%85%B0%E6%96%AC-%E6%88%AA%E6%96%B7%E6%8E%92%E7%A4%A6%E6%B8%A3%E8%BF%91%E4%BA%8C%E5%8D%81%E5%B9%B4-%E5%AE%98%E6%96%B9%E7%BD%B0%E7%99%BE%E8%90%AC%E5%88%91%E6%8B%98%E9%AB%98%E5%B1%A4",
-    "timestamp": "2026-09-22T02:49:09.890Z",
     "strategy": ".content-card__main"
   }
 ];
