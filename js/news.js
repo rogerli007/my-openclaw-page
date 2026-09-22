@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T04:46:37.111Z
+// Last updated: 2026-09-22T04:55:56.321Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳茂波訪京與中金董事長會面　籲積極參與本港資本市場發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179049003212345344753408.jpeg/2vRyEXqXMxYt45_0om8q_523iS8ojM9o-L8nY_i_J2M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392495/%E9%99%B3%E8%8C%82%E6%B3%A2%E8%A8%AA%E4%BA%AC%E8%88%87%E4%B8%AD%E9%87%91%E8%91%A3%E4%BA%8B%E9%95%B7%E6%9C%83%E9%9D%A2-%E7%B1%B2%E7%A9%8D%E6%A5%B5%E5%8F%83%E8%88%87%E6%9C%AC%E6%B8%AF%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-09-22T04:55:56.321Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Twins Sidetrack演唱會2026香港加場｜門票公售攻略+連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161981700058648576406137.jpeg/uOdSCVXjW3BLy8qyhwlv0jurTnLAu9TBdnc4f3Z3OH8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392361/%E4%B9%9F%E9%96%80%E6%9C%80%E9%AB%98%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E9%9B%BB%E8%A9%B1-%E5%B0%8B%E6%B1%82%E6%94%AF%E6%8C%81%E5%B0%8D%E6%8A%97%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BD%86%E6%9C%AA%E7%8D%B2%E6%89%BF%E8%AB%BE",
     "timestamp": "2026-09-21T21:31:50.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅與德國外長通話　促堅持對話協商解決中歐經貿問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251103/1062135405396103168872109.jpeg/BV30IwxajyDP0QSxQooscfb1-Dl47xs9bHcjgGx3I4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392353/%E7%8E%8B%E6%AF%85%E8%88%87%E5%BE%B7%E5%9C%8B%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E4%BF%83%E5%A0%85%E6%8C%81%E5%B0%8D%E8%A9%B1%E5%8D%94%E5%95%86%E8%A7%A3%E6%B1%BA%E4%B8%AD%E6%AD%90%E7%B6%93%E8%B2%BF%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-09-21T20:54:39.869Z",
     "strategy": ".content-card__main"
   }
 ];
