@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T07:23:48.112Z
+// Last updated: 2026-09-22T07:55:38.560Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣民政專員區家盛出任近5年換人　曾回應關愛隊報道一席話惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179094061689081856705821.jpeg/x-Z__b5SJvogh3MI8r5rr1UGalhIjOVmB5UQ_geVEP4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392574/%E8%8D%83%E7%81%A3%E6%B0%91%E6%94%BF%E5%B0%88%E5%93%A1%E5%8D%80%E5%AE%B6%E7%9B%9B%E5%87%BA%E4%BB%BB%E8%BF%915%E5%B9%B4%E6%8F%9B%E4%BA%BA-%E6%9B%BE%E5%9B%9E%E6%87%89%E9%97%9C%E6%84%9B%E9%9A%8A%E5%A0%B1%E9%81%93%E4%B8%80%E5%B8%AD%E8%A9%B1%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-09-22T07:55:38.560Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "浪琴香港國際馬術盛典7亮點!門票早鳥8折/5星場地障礙賽/騎術表演",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5dd6846123ab170deb41820a.png/rH8DWYB3O8f1_2PHCL6aaxDJ93H0a5QN0f0W1tH9FtY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60392249/%E5%85%A8%E7%90%83%E8%B2%A8%E5%B9%A3%E8%A7%A3%E6%A7%8B-%E4%BA%8C-%E9%AB%98%E6%81%AF%E9%AB%98%E7%86%B1%E8%88%87%E9%99%8D%E6%81%AF%E4%BD%8E%E6%B8%A9-%E4%B8%AD%E7%BE%8E%E8%83%8C%E5%BE%8C%E7%9A%84%E5%8D%9A%E5%BC%88%E7%89%8C%E5%B1%80",
     "timestamp": "2026-09-21T23:43:12.609Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "狗咬人影片瘋傳！揭17歲仔圖性侵女子　2流浪狗狂吠咬腿勇救弱女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178830473204338688095418.png/zEjd2fd-qqyK8UVXum6Nn7MaHVVlKf6T7giDhO4Ig4Q",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387567/%E7%8B%97%E5%92%AC%E4%BA%BA%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E6%8F%AD17%E6%AD%B2%E4%BB%94%E5%9C%96%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90-2%E6%B5%81%E6%B5%AA%E7%8B%97%E7%8B%82%E5%90%A0%E5%92%AC%E8%85%BF%E5%8B%87%E6%95%91%E5%BC%B1%E5%A5%B3",
-    "timestamp": "2026-09-21T23:19:02.083Z",
     "strategy": ".content-card__main"
   }
 ];
