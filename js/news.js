@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T04:55:56.321Z
+// Last updated: 2026-09-22T05:21:07.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro Max先達炒價直擊！22/9大紅穩賺$2000｜每日更新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178747373275320320734591.jpeg/zYdWMIplV6eo8u1LoL7C-9JZwLUhXTjDwvwEVsL8BFY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
+    "timestamp": "2026-09-22T05:21:07.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳茂波訪京與中金董事長會面　籲積極參與本港資本市場發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161981700058648576406137.jpeg/uOdSCVXjW3BLy8qyhwlv0jurTnLAu9TBdnc4f3Z3OH8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392361/%E4%B9%9F%E9%96%80%E6%9C%80%E9%AB%98%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E9%9B%BB%E8%A9%B1-%E5%B0%8B%E6%B1%82%E6%94%AF%E6%8C%81%E5%B0%8D%E6%8A%97%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BD%86%E6%9C%AA%E7%8D%B2%E6%89%BF%E8%AB%BE",
     "timestamp": "2026-09-21T21:42:26.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "也門最高領導人與特朗普通電話　尋求支持對抗胡塞武裝但未獲承諾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161981700058648576406137.jpeg/uOdSCVXjW3BLy8qyhwlv0jurTnLAu9TBdnc4f3Z3OH8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392361/%E4%B9%9F%E9%96%80%E6%9C%80%E9%AB%98%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E9%9B%BB%E8%A9%B1-%E5%B0%8B%E6%B1%82%E6%94%AF%E6%8C%81%E5%B0%8D%E6%8A%97%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BD%86%E6%9C%AA%E7%8D%B2%E6%89%BF%E8%AB%BE",
-    "timestamp": "2026-09-21T21:31:50.683Z",
     "strategy": ".content-card__main"
   }
 ];
