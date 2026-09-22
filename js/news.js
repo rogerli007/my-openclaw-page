@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T12:28:33.252Z
+// Last updated: 2026-09-22T12:51:34.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人力推算｜AI衝擊下文書類人力過剩3萬　畢業生、中年影響最深",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1917254/org/7a3517cffecb0586239e8d0684ee9d15.jpg/cy3RtkGILixlz8RIyGlAII9inEi2vAYxExO3NhMTtzY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392729/%E4%BA%BA%E5%8A%9B%E6%8E%A8%E7%AE%97-ai%E8%A1%9D%E6%93%8A%E4%B8%8B%E6%96%87%E6%9B%B8%E9%A1%9E%E4%BA%BA%E5%8A%9B%E9%81%8E%E5%89%A93%E8%90%AC-%E7%95%A2%E6%A5%AD%E7%94%9F-%E4%B8%AD%E5%B9%B4%E5%BD%B1%E9%9F%BF%E6%9C%80%E6%B7%B1",
+    "timestamp": "2026-09-22T12:51:34.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026｜韓媒：朝鮮代表團2成員擬尋求日本庇護　日方未證實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179042099236966400381675.jpeg/XeFf8DDSMeYrtFyd3bgmnh_dxm0EF93N87MRyfOzEck?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392471/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E4%BD%98%E7%B9%95%E5%A6%A1%E9%99%B3%E6%B8%AD%E6%B3%A0%E6%99%89%E7%B4%9A16%E5%BC%B7",
     "timestamp": "2026-09-22T05:59:50.404Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026劍擊．持續更新｜張家朗32強止步　蔡俊彥稍後出戰16強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179012646943330304260934.jpeg/jDCAfnWDbXWSZPWkbmgD0K4Mddhx9Qyr7Z39uO2d_bg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392373/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E5%BC%B5%E5%AE%B6%E6%9C%9732%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E8%94%A1%E4%BF%8A%E5%BD%A5%E7%A8%8D%E5%BE%8C%E5%87%BA%E6%88%B016%E5%BC%B7",
-    "timestamp": "2026-09-22T05:44:39.020Z",
     "strategy": ".content-card__main"
   }
 ];
