@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T02:30:04.158Z
+// Last updated: 2026-09-22T02:49:09.890Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山西明長城遭煤企｢腰斬｣截斷排礦渣近二十年　官方罰百萬刑拘高層",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179016941549916160465207.png/xmQqVAHq0MkHz1AUH8nQ7xC45C7w-LhTRkx0o0ZMdKM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60392397/%E5%B1%B1%E8%A5%BF%E6%98%8E%E9%95%B7%E5%9F%8E%E9%81%AD%E7%85%A4%E4%BC%81-%E8%85%B0%E6%96%AC-%E6%88%AA%E6%96%B7%E6%8E%92%E7%A4%A6%E6%B8%A3%E8%BF%91%E4%BA%8C%E5%8D%81%E5%B9%B4-%E5%AE%98%E6%96%B9%E7%BD%B0%E7%99%BE%E8%90%AC%E5%88%91%E6%8B%98%E9%AB%98%E5%B1%A4",
+    "timestamp": "2026-09-22T02:49:09.890Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "業主白做？荃灣海濱花園兩房502萬沽　揸三年仲要帳蝕3萬蚊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178892479131291648061345.jpeg/u1nqLZU8E86FOb3lVIrWr9Iuzv7DLDsUcreB9HK3gfQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392351/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%B8%AD%E7%BE%8E%E9%AB%98%E5%B1%A411%E6%9C%88%E6%B7%B1%E5%9C%B3%E5%86%8D%E6%AC%A1%E6%9C%83%E9%9D%A2-%E7%A3%8B%E5%95%86ai%E9%A2%A8%E9%9A%AA%E5%8F%8A%E6%BA%9D%E9%80%9A%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-09-21T19:32:46.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜汀九橋私家車司機疑跳橋　一女子被救起　昏迷送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178889096043433984908264.jpeg/P3mWBHMN4w2ymRUIalh0wEYlK07ce2SmCsNDvgrDQ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392349/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%B1%80%E4%B9%9D%E6%A9%8B%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%96%91%E8%B7%B3%E6%A9%8B-%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%95%91%E8%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-21T18:59:58.057Z",
     "strategy": ".content-card__main"
   }
 ];
