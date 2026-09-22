@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T09:43:29.387Z
+// Last updated: 2026-09-22T09:53:39.381Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚詠麟演唱會｜溫拿五子世紀合體　《玩吓啦》致敬已故好友黎彼得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179107592476037120549830.jpeg/Hunblg3ZcvvTNDXslJSlNitiCq2822mGVl-oqlZfqKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60392621/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E6%BC%94%E5%94%B1%E6%9C%83-%E6%BA%AB%E6%8B%BF%E4%BA%94%E5%AD%90%E4%B8%96%E7%B4%80%E5%90%88%E9%AB%94-%E7%8E%A9%E5%90%93%E5%95%A6-%E8%87%B4%E6%95%AC%E5%B7%B2%E6%95%85%E5%A5%BD%E5%8F%8B%E9%BB%8E%E5%BD%BC%E5%BE%97",
+    "timestamp": "2026-09-22T09:53:39.381Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳中秋月餅直擊　低糖款銷量飆7成　藥食同源吸港人更有寵物款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179016941549916160465207.png/xmQqVAHq0MkHz1AUH8nQ7xC45C7w-LhTRkx0o0ZMdKM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60392397/%E5%B1%B1%E8%A5%BF%E6%98%8E%E9%95%B7%E5%9F%8E%E9%81%AD%E7%85%A4%E4%BC%81-%E8%85%B0%E6%96%AC-%E6%88%AA%E6%96%B7%E6%8E%92%E7%A4%A6%E6%B8%A3%E8%BF%91%E4%BA%8C%E5%8D%81%E5%B9%B4-%E5%AE%98%E6%96%B9%E7%BD%B0%E7%99%BE%E8%90%AC%E5%88%91%E6%8B%98%E9%AB%98%E5%B1%A4",
     "timestamp": "2026-09-22T02:49:09.890Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "業主白做？荃灣海濱花園兩房502萬沽　揸三年仲要帳蝕3萬蚊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178769477324509184436150.png/eQN9BJeoLwtMTBpNuBZt3eoEmA3sTf7_iJpzFIiacxQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60392256/%E6%A5%AD%E4%B8%BB%E7%99%BD%E5%81%9A-%E8%8D%83%E7%81%A3%E6%B5%B7%E6%BF%B1%E8%8A%B1%E5%9C%92%E5%85%A9%E6%88%BF502%E8%90%AC%E6%B2%BD-%E6%8F%B8%E4%B8%89%E5%B9%B4%E4%BB%B2%E8%A6%81%E5%B8%B3%E8%9D%953%E8%90%AC%E8%9A%8A",
-    "timestamp": "2026-09-22T02:30:04.158Z",
     "strategy": ".content-card__main"
   }
 ];
