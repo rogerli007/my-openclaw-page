@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T06:58:33.802Z
+// Last updated: 2026-09-22T07:23:48.112Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "浪琴香港國際馬術盛典7亮點!門票早鳥8折/5星場地障礙賽/騎術表演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179031811607498752395274.png/nhSJqvpvO5-Gr1bn_EzjzGf_6hB4Id6KhnI79oZyO_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60382057/%E6%B5%AA%E7%90%B4%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E9%A6%AC%E8%A1%93%E7%9B%9B%E5%85%B87%E4%BA%AE%E9%BB%9E-%E9%96%80%E7%A5%A8%E6%97%A9%E9%B3%A58%E6%8A%98-5%E6%98%9F%E5%A0%B4%E5%9C%B0%E9%9A%9C%E7%A4%99%E8%B3%BD-%E9%A8%8E%E8%A1%93%E8%A1%A8%E6%BC%94",
+    "timestamp": "2026-09-22T07:23:48.112Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會在即　人民日報：中美應破除修昔底德陷阱　慎處台灣問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178830473204338688095418.png/zEjd2fd-qqyK8UVXum6Nn7MaHVVlKf6T7giDhO4Ig4Q",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60387567/%E7%8B%97%E5%92%AC%E4%BA%BA%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E6%8F%AD17%E6%AD%B2%E4%BB%94%E5%9C%96%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%AD%90-2%E6%B5%81%E6%B5%AA%E7%8B%97%E7%8B%82%E5%90%A0%E5%92%AC%E8%85%BF%E5%8B%87%E6%95%91%E5%BC%B1%E5%A5%B3",
     "timestamp": "2026-09-21T23:19:02.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "波蘭：境內美軍料將擴至1.5萬人　包括約5000人部署於永久基地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220529/607716653798526976201736.jpeg/DxX9817kfQSOLrm3vwC7eGLCqTRYMLC9E36IxxN-iMc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392356/%E6%B3%A2%E8%98%AD-%E5%A2%83%E5%85%A7%E7%BE%8E%E8%BB%8D%E6%96%99%E5%B0%87%E6%93%B4%E8%87%B31-5%E8%90%AC%E4%BA%BA-%E5%8C%85%E6%8B%AC%E7%B4%845000%E4%BA%BA%E9%83%A8%E7%BD%B2%E6%96%BC%E6%B0%B8%E4%B9%85%E5%9F%BA%E5%9C%B0",
-    "timestamp": "2026-09-21T22:45:15.676Z",
     "strategy": ".content-card__main"
   }
 ];
