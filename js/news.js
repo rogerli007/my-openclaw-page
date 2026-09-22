@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T11:19:30.957Z
+// Last updated: 2026-09-22T11:33:20.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運2026｜中國13歲泳手于子迪狂攬兩金　200混僅距世績0.4秒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179092285820768256286375.jpeg/hYmAznFB7T8ePyVxdRILsw7eUTz6i5lbN-ootjfqKLY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392554/%E4%BA%9E%E9%81%8B2026-%E4%B8%AD%E5%9C%8B13%E6%AD%B2%E6%B3%B3%E6%89%8B%E4%BA%8E%E5%AD%90%E8%BF%AA%E7%8B%82%E6%94%AC%E5%85%A9%E9%87%91-200%E6%B7%B7%E5%83%85%E8%B7%9D%E4%B8%96%E7%B8%BE0-4%E7%A7%92",
+    "timestamp": "2026-09-22T11:33:20.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角皇璇周六價單賣140伙　暫收逾5800個票　暫超額認購逾40倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177326138884624384576431.jpeg/LhgzlZGXHmeSIk99QBCUyd-WAtNM48c3msJ8SJrCfEg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60388748/twins-sidetrack%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-09-22T04:46:37.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "關門口村偷校裙胸圍內褲　中年漢認盜竊囚2周　官勸更正不良嗜好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/366798/org/372666184fce0d9029539c9b9088a5cf.jpg/kkVrIZjUMenyA8pY98Jx54h7Y0JKWlraFQulLRULpS0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392475/%E9%97%9C%E9%96%80%E5%8F%A3%E6%9D%91%E5%81%B7%E6%A0%A1%E8%A3%99%E8%83%B8%E5%9C%8D%E5%85%A7%E8%A4%B2-%E4%B8%AD%E5%B9%B4%E6%BC%A2%E8%AA%8D%E7%9B%9C%E7%AB%8A%E5%9B%9A2%E5%91%A8-%E5%AE%98%E5%8B%B8%E6%9B%B4%E6%AD%A3%E4%B8%8D%E8%89%AF%E5%97%9C%E5%A5%BD",
-    "timestamp": "2026-09-22T04:23:37.583Z",
     "strategy": ".content-card__main"
   }
 ];
