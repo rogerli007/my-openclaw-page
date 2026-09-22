@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T21:30:17.141Z
+// Last updated: 2026-09-22T21:41:44.539Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財務披露曝光　路透社：特朗普7月買賣SpaceX股票",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179097760800968704236745.jpeg/ZgutorGw8ga9SacIBYfYqog97PVbQdsEPCcB6zwnAes?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392786/%E8%B2%A1%E5%8B%99%E6%8A%AB%E9%9C%B2%E6%9B%9D%E5%85%89-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%89%B9%E6%9C%97%E6%99%AE7%E6%9C%88%E8%B2%B7%E8%B3%A3spacex%E8%82%A1%E7%A5%A8",
+    "timestamp": "2026-09-22T21:41:44.539Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財務披露曝光　路透社：特朗普7月買賣SpaceX股票",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260216/1099985293337300992513809.jpeg/kNKtvZILbugEapYbEB6aanzX0EpEGdI6DLSnXya0p18?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392725/%E5%B9%B4%E5%AE%B52027-1564%E5%80%8B%E6%94%A4%E4%BD%8D10-7%E8%B5%B7%E7%AB%B6%E6%8A%95-%E7%B6%AD%E5%9C%92%E7%86%9F%E9%A3%9F%E6%AA%94%E5%BA%95%E5%83%B912%E8%90%AC%E8%88%87%E5%8E%BB%E5%B9%B4%E7%9B%B8%E8%8B%A5",
     "timestamp": "2026-09-22T13:44:21.203Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "釜山巨鯊滯留公園引過萬人潮　民眾擲生雞肉誘鯊　當局推限時管制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179160652913053696812074.png/x1Wiav4AlIFIsplEXNRq26M044cuJcKR6pYBa-qWAWs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60392604/%E9%87%9C%E5%B1%B1%E5%B7%A8%E9%AF%8A%E6%BB%AF%E7%95%99%E5%85%AC%E5%9C%92%E5%BC%95%E9%81%8E%E8%90%AC%E4%BA%BA%E6%BD%AE-%E6%B0%91%E7%9C%BE%E6%93%B2%E7%94%9F%E9%9B%9E%E8%82%89%E8%AA%98%E9%AF%8A-%E7%95%B6%E5%B1%80%E6%8E%A8%E9%99%90%E6%99%82%E7%AE%A1%E5%88%B6",
-    "timestamp": "2026-09-22T13:21:29.564Z",
     "strategy": ".content-card__main"
   }
 ];
