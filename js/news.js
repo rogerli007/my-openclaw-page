@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T00:47:09.224Z
+// Last updated: 2026-09-23T01:16:19.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港府900公頃熟地「投名狀」　發展商寧交地套現？　北都博弈拆局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177285840150204416950672.jpeg/SeU8Sf4z8LiUdZ9gn5jJb9GV6OHq1ZyG0WrGxdFqxsU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/60391298/%E6%B8%AF%E5%BA%9C900%E5%85%AC%E9%A0%83%E7%86%9F%E5%9C%B0-%E6%8A%95%E5%90%8D%E7%8B%80-%E7%99%BC%E5%B1%95%E5%95%86%E5%AF%A7%E4%BA%A4%E5%9C%B0%E5%A5%97%E7%8F%BE-%E5%8C%97%E9%83%BD%E5%8D%9A%E5%BC%88%E6%8B%86%E5%B1%80",
+    "timestamp": "2026-09-23T01:16:19.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門皇珠路的士與泥頭車相撞　的士司機受傷被困",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179132002566148096053816.jpeg/4Ypxp6jhP3DgR90nLja2IRmgbeDQ1vl5SxIfqksSH6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392687/%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B8%B8%E6%B3%B3-%E9%A6%AC%E7%B4%AB%E7%8E%B2%E5%88%9D%E6%88%B0%E4%BA%9E%E9%81%8B%E7%98%8B%E7%8B%82pb-%E6%9C%9B%E8%BF%BD%E9%9A%A8%E4%BD%95%E8%A9%A9%E8%93%93%E5%85%A7%E5%A4%96%E5%85%BC%E4%BF%AE",
     "timestamp": "2026-09-22T17:31:04.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026游泳︱馬紫玲初戰亞運瘋狂PB　望追隨何詩蓓內外兼修",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179132002566148096053816.jpeg/4Ypxp6jhP3DgR90nLja2IRmgbeDQ1vl5SxIfqksSH6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392687/%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B8%B8%E6%B3%B3-%E9%A6%AC%E7%B4%AB%E7%8E%B2%E5%88%9D%E6%88%B0%E4%BA%9E%E9%81%8B%E7%98%8B%E7%8B%82pb-%E6%9C%9B%E8%BF%BD%E9%9A%A8%E4%BD%95%E8%A9%A9%E8%93%93%E5%85%A7%E5%A4%96%E5%85%BC%E4%BF%AE",
-    "timestamp": "2026-09-22T17:18:53.718Z",
     "strategy": ".content-card__main"
   }
 ];
