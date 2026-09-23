@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T08:27:10.744Z
+// Last updated: 2026-09-23T08:59:25.103Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "嘉諾撒聖心書院女生沾滿粉筆灰疑遭欺凌　校方稱已懲處涉事學生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179455222691401728602453.png/eBABK2JqvCUhZN3pFRM7MJqSHISzoE97vFaFJbxWhSU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393004/%E5%98%89%E8%AB%BE%E6%92%92%E8%81%96%E5%BF%83%E6%9B%B8%E9%99%A2%E5%A5%B3%E7%94%9F%E6%B2%BE%E6%BB%BF%E7%B2%89%E7%AD%86%E7%81%B0%E7%96%91%E9%81%AD%E6%AC%BA%E5%87%8C-%E6%A0%A1%E6%96%B9%E7%A8%B1%E5%B7%B2%E6%87%B2%E8%99%95%E6%B6%89%E4%BA%8B%E5%AD%B8%E7%94%9F",
+    "timestamp": "2026-09-23T08:59:25.103Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運金牌沈曉榆追星故事登韓國SBS　聞偶像EXO已知喜訊：不敢相信",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177846197818232832640812.jpeg/AQKCqE9Pe1I8QGAm-gDOpIIr1zD7Al0Gfuz-eH7s_ng?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60391522/%E5%8D%94%E5%92%8C%E9%95%B7%E6%B2%99%E7%81%A3%E6%96%B0%E6%A0%A1%E9%95%B7%E9%84%AD%E5%AE%B6%E5%AF%B6%E8%AB%87%E5%83%B9%E5%80%BC%E8%A7%80%E6%95%99%E8%82%B2-%E5%AE%B6%E9%95%B7%E9%9D%9E%E6%97%81%E8%A7%80%E8%80%85%E9%A0%88%E6%94%9C%E6%89%8B%E5%90%8C%E8%A1%8C",
     "timestamp": "2026-09-22T23:17:56.790Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀酒店房疑遇竊　31歲美籍男損失$16萬勞力士名錶　報警求助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179319673406099456961302.jpeg/aO5CTWvDG1VUG_vm4CD3SzueqV8irfqUjQRk0Y0EZNE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392792/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E6%88%BF%E7%96%91%E9%81%87%E7%AB%8A-31%E6%AD%B2%E7%BE%8E%E7%B1%8D%E7%94%B7%E6%90%8D%E5%A4%B1-16%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6-%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9",
-    "timestamp": "2026-09-22T22:53:55.698Z",
     "strategy": ".content-card__main"
   }
 ];
