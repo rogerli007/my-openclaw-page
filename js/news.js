@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T03:58:28.868Z
+// Last updated: 2026-09-23T04:24:02.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葉蒨文放閃變罵戰網民圍插　男友曾展望霸氣反擊：反正我點都ok佢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179402584146841600579406.jpeg/u9jODYbPOohLzgKGWXhStaFS7koLBKePaZ2Yx1OdmMc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392899/%E8%91%89%E8%92%A8%E6%96%87%E6%94%BE%E9%96%83%E8%AE%8A%E7%BD%B5%E6%88%B0%E7%B6%B2%E6%B0%91%E5%9C%8D%E6%8F%92-%E7%94%B7%E5%8F%8B%E6%9B%BE%E5%B1%95%E6%9C%9B%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E5%8F%8D%E6%AD%A3%E6%88%91%E9%BB%9E%E9%83%BDok%E4%BD%A2",
+    "timestamp": "2026-09-23T04:24:02.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曹永廉承傳父風拼命養家性格捱出病　幸得太太一席話撿回健康之道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179097760800968704236745.jpeg/ZgutorGw8ga9SacIBYfYqog97PVbQdsEPCcB6zwnAes?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392786/%E8%B2%A1%E5%8B%99%E6%8A%AB%E9%9C%B2%E6%9B%9D%E5%85%89-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%89%B9%E6%9C%97%E6%99%AE7%E6%9C%88%E8%B2%B7%E8%B3%A3spacex%E8%82%A1%E7%A5%A8",
     "timestamp": "2026-09-22T20:35:53.724Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港府反對歐盟委員會年度報告　稱針對維護國家安全內容無稽失實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/872825/org/3d6188b57fdb40325f9b798e033b152f.jpg/wOMj19h1aYjRp8E5XpUz44wUKMSaVkxTiG_KCYhvygk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392781/%E6%B8%AF%E5%BA%9C%E5%8F%8D%E5%B0%8D%E6%AD%90%E7%9B%9F%E5%A7%94%E5%93%A1%E6%9C%83%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A-%E7%A8%B1%E9%87%9D%E5%B0%8D%E7%B6%AD%E8%AD%B7%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%85%A7%E5%AE%B9%E7%84%A1%E7%A8%BD%E5%A4%B1%E5%AF%A6",
-    "timestamp": "2026-09-22T19:29:51.770Z",
     "strategy": ".content-card__main"
   }
 ];
