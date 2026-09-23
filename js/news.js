@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T22:20:14.746Z
+// Last updated: 2026-09-23T22:31:50.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢兩村屋遭連環爆竊　一屋損失$20萬財物　另一屋仍點算中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179674292510527488875612.jpeg/Rol7ldsVqLMFkiI40GqnRmrCJxgIKAtwjYa1N7eGtTc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393187/%E8%A5%BF%E8%B2%A2%E5%85%A9%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-%E4%B8%80%E5%B1%8B%E6%90%8D%E5%A4%B1-20%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8F%A6%E4%B8%80%E5%B1%8B%E4%BB%8D%E9%BB%9E%E7%AE%97%E4%B8%AD",
+    "timestamp": "2026-09-23T22:31:50.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞視小生遺孀現身劉錫賢壽宴　老友重聚淚流滿面：替你走未完的路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179451153524461568086472.jpeg/lMrjpoHoBH6to3l5pCImlyPIIRuJrJywPIWL4DyFi-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392997/%E9%99%B8%E5%8A%87%E6%AD%A3%E5%BC%8F%E9%82%81%E5%85%A5-%E5%A4%A7%E5%90%BB%E6%88%B2%E6%99%82%E4%BB%A3-%E7%8F%BE%E5%81%B6%E9%9B%86%E9%AB%94%E9%9D%A0%E8%A6%AA%E5%AF%86%E6%88%B2%E6%95%91%E5%B8%82%E5%BC%95%E7%99%BC%E5%AF%A9%E7%BE%8E%E7%96%B2%E5%8B%9E",
     "timestamp": "2026-09-23T15:44:56.545Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白歆惠嫁百億富商隱退10年　昔封林志玲接班人　43歲凍齡近照曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179495558218256384807942.png/x63FE92wo8hor18QIBc2R1bt3qmYI-ennq5fA56uXwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393082/%E7%99%BD%E6%AD%86%E6%83%A0%E5%AB%81%E7%99%BE%E5%84%84%E5%AF%8C%E5%95%86%E9%9A%B1%E9%80%8010%E5%B9%B4-%E6%98%94%E5%B0%81%E6%9E%97%E5%BF%97%E7%8E%B2%E6%8E%A5%E7%8F%AD%E4%BA%BA-43%E6%AD%B2%E5%87%8D%E9%BD%A1%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-09-23T15:19:57.709Z",
     "strategy": ".content-card__main"
   }
 ];
