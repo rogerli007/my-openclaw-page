@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T17:46:09.426Z
+// Last updated: 2026-09-23T17:54:41.514Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美晤特朗普前　貝森特見何立峰：對達更大協議持開放態度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179560822943256576695308.jpeg/QgOmlXRnbWA_MAwc02sU-g0yN0svf173TheGG04Xhhs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393174/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D-%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%A6%8B%E4%BD%95%E7%AB%8B%E5%B3%B0-%E5%B0%8D%E9%81%94%E6%9B%B4%E5%A4%A7%E5%8D%94%E8%AD%B0%E6%8C%81%E9%96%8B%E6%94%BE%E6%85%8B%E5%BA%A6",
+    "timestamp": "2026-09-23T17:54:41.514Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美晤特朗普前　貝森特見何立峰：對達更大協議持開放態度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179465914282676224679850.jpeg/RvqdepE7w-ljeS1z6abbOJTWcfCpfVA9owXa2qMF2to",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60393033/%E6%9C%89%E7%89%87-%E4%B8%8A%E6%B5%B7%E5%85%AB%E8%A7%92%E7%B1%A0%E6%BF%80%E6%88%B0-%E8%BA%AB%E9%AB%981-73%E7%B1%B3%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%A2%AB%E8%B8%A2%E5%80%92%E5%BE%8C-%E9%AF%89%E9%AD%9A%E6%89%93%E6%8C%BA-%E7%AB%99%E8%B5%B7",
     "timestamp": "2026-09-23T09:22:33.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "嘉諾撒聖心書院女生沾滿粉筆灰疑遭欺凌　校方稱已懲處涉事學生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179455222691401728602453.png/eBABK2JqvCUhZN3pFRM7MJqSHISzoE97vFaFJbxWhSU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393004/%E5%98%89%E8%AB%BE%E6%92%92%E8%81%96%E5%BF%83%E6%9B%B8%E9%99%A2%E5%A5%B3%E7%94%9F%E6%B2%BE%E6%BB%BF%E7%B2%89%E7%AD%86%E7%81%B0%E7%96%91%E9%81%AD%E6%AC%BA%E5%87%8C-%E6%A0%A1%E6%96%B9%E7%A8%B1%E5%B7%B2%E6%87%B2%E8%99%95%E6%B6%89%E4%BA%8B%E5%AD%B8%E7%94%9F",
-    "timestamp": "2026-09-23T08:59:25.103Z",
     "strategy": ".content-card__main"
   }
 ];
