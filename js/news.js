@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T20:42:33.241Z
+// Last updated: 2026-09-23T20:55:35.417Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石硤尾邨單位遭撬門爆竊　28歲女失逾$70萬財物　包括勞力士名錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179647611443875840917630.jpeg/VFBOGnwwA7nPkpEsY_tfyJJ8bTTJffkT8-ONdfPjjXU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393184/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E9%96%80%E7%88%86%E7%AB%8A-28%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-70%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
+    "timestamp": "2026-09-23T20:55:35.417Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石硤尾邨單位遭撬門爆竊　28歲女失逾$70萬財物　包括勞力士名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179542236199653376642853.jpeg/fUkRy0oulgXE8tuvO8GMvXkXVEjv_hnXyswy6srMMuo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393147/%E5%A4%A7%E5%9F%94%E5%BA%B7%E6%A8%82%E5%9C%92%E8%B7%AF%E7%94%B7%E5%B7%A5%E4%BA%BA%E6%9A%88%E5%80%92%E5%9C%B0%E7%9B%A4%E5%BB%81%E6%89%80%E5%85%A7-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-09-23T13:53:59.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運｜港隊今奪1銀3銅　武術散打取得突破首奪銅牌　羅淑佩祝賀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179537408694292480529807.jpeg/7jR_VK6qy_WpJQoPotkv8onbKCSgzjV2_hIP8v4SD_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393145/%E4%BA%9E%E9%81%8B-%E6%B8%AF%E9%9A%8A%E4%BB%8A%E5%A5%AA1%E9%8A%803%E9%8A%85-%E6%AD%A6%E8%A1%93%E6%95%A3%E6%89%93%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4%E9%A6%96%E5%A5%AA%E9%8A%85%E7%89%8C-%E7%BE%85%E6%B7%91%E4%BD%A9%E7%A5%9D%E8%B3%80",
-    "timestamp": "2026-09-23T13:25:10.070Z",
     "strategy": ".content-card__main"
   }
 ];
