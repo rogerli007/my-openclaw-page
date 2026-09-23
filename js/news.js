@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T18:48:24.389Z
+// Last updated: 2026-09-23T19:01:37.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
+    "timestamp": "2026-09-23T19:01:37.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179494928103772160510398.jpeg/ryZuHAFnvLi0luEPDB-Ez7RgA16NHy_i-49LBvuPSwY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393103/mc%E5%BC%B5%E5%A4%A9%E8%B3%A6%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-09-23T10:54:25.612Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "星聲夢裡人LA LA LAND重登大銀幕！10周年紀念放映限定海報撲飛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179491234708721664734806.jpeg/lOsg1-hiQcp3XMTqR7SjLeCUHB9Sxf7t_bGyMP2xsjA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60393086/%E6%98%9F%E8%81%B2%E5%A4%A2%E8%A3%A1%E4%BA%BAla-la-land%E9%87%8D%E7%99%BB%E5%A4%A7%E9%8A%80%E5%B9%95-10%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5%E6%94%BE%E6%98%A0%E9%99%90%E5%AE%9A%E6%B5%B7%E5%A0%B1%E6%92%B2%E9%A3%9B",
-    "timestamp": "2026-09-23T10:21:37.421Z",
     "strategy": ".content-card__main"
   }
 ];
