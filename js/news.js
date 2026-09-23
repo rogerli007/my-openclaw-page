@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T08:59:25.103Z
+// Last updated: 2026-09-23T09:22:33.694Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜上海八角籠激戰！身高1.73米機械人被踢倒後｢鯉魚打挺｣站起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179465914282676224679850.jpeg/RvqdepE7w-ljeS1z6abbOJTWcfCpfVA9owXa2qMF2to",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60393033/%E6%9C%89%E7%89%87-%E4%B8%8A%E6%B5%B7%E5%85%AB%E8%A7%92%E7%B1%A0%E6%BF%80%E6%88%B0-%E8%BA%AB%E9%AB%981-73%E7%B1%B3%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%A2%AB%E8%B8%A2%E5%80%92%E5%BE%8C-%E9%AF%89%E9%AD%9A%E6%89%93%E6%8C%BA-%E7%AB%99%E8%B5%B7",
+    "timestamp": "2026-09-23T09:22:33.694Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "嘉諾撒聖心書院女生沾滿粉筆灰疑遭欺凌　校方稱已懲處涉事學生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177846197818232832640812.jpeg/AQKCqE9Pe1I8QGAm-gDOpIIr1zD7Al0Gfuz-eH7s_ng?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60391522/%E5%8D%94%E5%92%8C%E9%95%B7%E6%B2%99%E7%81%A3%E6%96%B0%E6%A0%A1%E9%95%B7%E9%84%AD%E5%AE%B6%E5%AF%B6%E8%AB%87%E5%83%B9%E5%80%BC%E8%A7%80%E6%95%99%E8%82%B2-%E5%AE%B6%E9%95%B7%E9%9D%9E%E6%97%81%E8%A7%80%E8%80%85%E9%A0%88%E6%94%9C%E6%89%8B%E5%90%8C%E8%A1%8C",
     "timestamp": "2026-09-22T23:29:59.075Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "協和長沙灣新校長鄭家寶談價值觀教育：家長非旁觀者須攜手同行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177846197818232832640812.jpeg/AQKCqE9Pe1I8QGAm-gDOpIIr1zD7Al0Gfuz-eH7s_ng?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60391522/%E5%8D%94%E5%92%8C%E9%95%B7%E6%B2%99%E7%81%A3%E6%96%B0%E6%A0%A1%E9%95%B7%E9%84%AD%E5%AE%B6%E5%AF%B6%E8%AB%87%E5%83%B9%E5%80%BC%E8%A7%80%E6%95%99%E8%82%B2-%E5%AE%B6%E9%95%B7%E9%9D%9E%E6%97%81%E8%A7%80%E8%80%85%E9%A0%88%E6%94%9C%E6%89%8B%E5%90%8C%E8%A1%8C",
-    "timestamp": "2026-09-22T23:17:56.790Z",
     "strategy": ".content-card__main"
   }
 ];
