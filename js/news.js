@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T23:17:15.281Z
+// Last updated: 2026-09-23T23:27:29.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯邦法官質疑特朗普白宮媒體禁令　指或違法律先例",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179550565282091008264039.jpeg/Tzp_SqB6xiBpG0pj6ctb3KbNQnLfPUiqp0D68adA-vE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393185/%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E8%B3%AA%E7%96%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BD%E5%AE%AE%E5%AA%92%E9%AB%94%E7%A6%81%E4%BB%A4-%E6%8C%87%E6%88%96%E9%81%95%E6%B3%95%E5%BE%8B%E5%85%88%E4%BE%8B",
+    "timestamp": "2026-09-23T23:27:29.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平睽違11年再訪美　特朗普紅地毯、禮炮、戰機「高規格」迎賓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179558877927051264045369.jpeg/QnV42RLRIns4JxmA58uopl_T7tqrnCPy-6TT9fuk0_U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393152/%E8%A3%95%E7%BE%8E%E7%88%86%E5%94%94%E6%80%95%E6%9E%97%E4%BD%9C%E5%85%A5%E7%8D%84%E7%A8%B1%E7%94%9F%E6%B4%BB%E7%9B%B8%E8%BF%91-%E6%9B%BE%E5%8D%8A%E5%B9%B4%E7%84%A1%E6%B3%95%E5%AE%89%E7%9D%A1%E8%AA%98%E7%99%BC%E6%8A%91%E9%AC%B1%E7%97%87",
     "timestamp": "2026-09-23T17:19:40.864Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜觀塘私家車衝紅燈　遇車轉彎急煞停黃格仔　警車駛經斷正",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179584802383204352034917.jpeg/wkNK0p5KwSHv3R1rIr8UmyXFl8XJBvf1hF-_OIRfvzg",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393165/%E8%BB%8Acam-%E8%A7%80%E5%A1%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88-%E9%81%87%E8%BB%8A%E8%BD%89%E5%BD%8E%E6%80%A5%E7%85%9E%E5%81%9C%E9%BB%83%E6%A0%BC%E4%BB%94-%E8%AD%A6%E8%BB%8A%E9%A7%9B%E7%B6%93%E6%96%B7%E6%AD%A3",
-    "timestamp": "2026-09-23T16:55:04.422Z",
     "strategy": ".content-card__main"
   }
 ];
