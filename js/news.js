@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T14:45:07.853Z
+// Last updated: 2026-09-23T14:55:31.744Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美晤特朗普前夕　美財長會見何立峰　本周第2次會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179560722502258688430867.jpeg/8dmk8Y3Z_8GfvzkhlQDNTPB3ahOBVoc4IcDSEiHA0hI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393153/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%A4%95-%E7%BE%8E%E8%B2%A1%E9%95%B7%E6%9C%83%E8%A6%8B%E4%BD%95%E7%AB%8B%E5%B3%B0-%E6%9C%AC%E5%91%A8%E7%AC%AC2%E6%AC%A1%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-09-23T14:55:31.744Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美晤特朗普前夕　美財長會見何立峰　本周第2次會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179416930897891328268971.png/WmtztaEmMljVEN0rRvyyvmhxi64eJ_03fD5Kanw-Smo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392927/%E7%BE%8E%E5%9C%8B%E7%A7%BB%E6%B0%91%E9%83%A8%E9%96%80%E6%8B%98%E9%A6%99%E6%B8%AF%E5%87%BA%E7%94%9F%E5%8A%A0%E5%B7%9E%E8%AD%B0%E5%93%A1%E5%B9%95%E5%83%9A%E6%AF%9B%E7%9A%93%E5%BB%B6-%E6%88%96%E9%9D%A2%E8%87%A8%E9%81%A3%E8%BF%94%E5%9B%9E%E6%B8%AF",
     "timestamp": "2026-09-23T05:20:49.928Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葉蒨文放閃變罵戰網民圍插　男友曾展望霸氣反擊：反正我點都ok佢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179402584146841600579406.jpeg/u9jODYbPOohLzgKGWXhStaFS7koLBKePaZ2Yx1OdmMc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392899/%E8%91%89%E8%92%A8%E6%96%87%E6%94%BE%E9%96%83%E8%AE%8A%E7%BD%B5%E6%88%B0%E7%B6%B2%E6%B0%91%E5%9C%8D%E6%8F%92-%E7%94%B7%E5%8F%8B%E6%9B%BE%E5%B1%95%E6%9C%9B%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E5%8F%8D%E6%AD%A3%E6%88%91%E9%BB%9E%E9%83%BDok%E4%BD%A2",
-    "timestamp": "2026-09-23T04:24:02.812Z",
     "strategy": ".content-card__main"
   }
 ];
