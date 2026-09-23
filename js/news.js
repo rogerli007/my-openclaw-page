@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-22T23:41:13.094Z
+// Last updated: 2026-09-23T00:47:09.224Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門皇珠路的士與泥頭車相撞　的士司機受傷被困",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179347265232310272234810.jpeg/2gTPe-uPY0rOIb3-2n884BmVHUsP7uODLOobMizqGzI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392800/%E5%B1%AF%E9%96%80%E7%9A%87%E7%8F%A0%E8%B7%AF%E7%9A%84%E5%A3%AB%E8%88%87%E6%B3%A5%E9%A0%AD%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E8%A2%AB%E5%9B%B0",
+    "timestamp": "2026-09-23T00:47:09.224Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全球貨幣解構（三）｜中美貨幣權力重構：「金融新時代」如何演進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179132002566148096053816.jpeg/4Ypxp6jhP3DgR90nLja2IRmgbeDQ1vl5SxIfqksSH6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392687/%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B8%B8%E6%B3%B3-%E9%A6%AC%E7%B4%AB%E7%8E%B2%E5%88%9D%E6%88%B0%E4%BA%9E%E9%81%8B%E7%98%8B%E7%8B%82pb-%E6%9C%9B%E8%BF%BD%E9%9A%A8%E4%BD%95%E8%A9%A9%E8%93%93%E5%85%A7%E5%A4%96%E5%85%BC%E4%BF%AE",
     "timestamp": "2026-09-22T17:18:53.718Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林欣彤神隱9個月再出Post近況曝光　坦言百感交集：很需要勇氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179221968591785984091654.jpeg/zxbcmxx1wGzeuWV26sZ3TVWHJSVqh9v9_SOhav0joWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392769/%E6%9E%97%E6%AC%A3%E5%BD%A4%E7%A5%9E%E9%9A%B19%E5%80%8B%E6%9C%88%E5%86%8D%E5%87%BApost%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E5%9D%A6%E8%A8%80%E7%99%BE%E6%84%9F%E4%BA%A4%E9%9B%86-%E5%BE%88%E9%9C%80%E8%A6%81%E5%8B%87%E6%B0%A3",
-    "timestamp": "2026-09-22T16:21:45.148Z",
     "strategy": ".content-card__main"
   }
 ];
