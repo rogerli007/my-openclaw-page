@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T05:54:14.341Z
+// Last updated: 2026-09-23T06:33:14.248Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門一中學兩男生打架　涉襲擊同被捕送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179435501958991872192358.jpeg/GuPecC_Bg6rLr82Jg2jxm2I-Ofp7D71j6MkFW-jJBVs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392963/%E5%B1%AF%E9%96%80%E4%B8%80%E4%B8%AD%E5%AD%B8%E5%85%A9%E7%94%B7%E7%94%9F%E6%89%93%E6%9E%B6-%E6%B6%89%E8%A5%B2%E6%93%8A%E5%90%8C%E8%A2%AB%E6%8D%95%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-23T06:33:14.248Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古代四大頂級文具｜一兩徽墨等於一兩黃金？故宮古畫的「續命」紙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251003/1050875993545248768207358.jpeg/kw-v0h_aAWWQl4Jr-FDbMKBvqStl4HfaUdMX31HTF98?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392790/%E8%8B%B1%E5%9C%8B%E8%AD%A6%E6%96%B9%E6%8B%982%E7%94%B7%E5%AD%90-%E6%B6%89%E5%9C%96%E8%AC%80%E6%81%90%E8%A5%B2%E6%9B%BC%E5%BE%B9%E6%96%AF%E7%89%B9%E7%8C%B6%E5%A4%AA%E7%A4%BE%E5%8D%80",
     "timestamp": "2026-09-22T22:18:30.814Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財務披露曝光　路透社：特朗普7月買賣SpaceX股票",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179097760800968704236745.jpeg/ZgutorGw8ga9SacIBYfYqog97PVbQdsEPCcB6zwnAes?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392786/%E8%B2%A1%E5%8B%99%E6%8A%AB%E9%9C%B2%E6%9B%9D%E5%85%89-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%89%B9%E6%9C%97%E6%99%AE7%E6%9C%88%E8%B2%B7%E8%B3%A3spacex%E8%82%A1%E7%A5%A8",
-    "timestamp": "2026-09-22T21:41:44.539Z",
     "strategy": ".content-card__main"
   }
 ];
