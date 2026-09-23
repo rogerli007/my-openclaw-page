@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T16:45:44.488Z
+// Last updated: 2026-09-23T16:55:04.422Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜觀塘私家車衝紅燈　遇車轉彎急煞停黃格仔　警車駛經斷正",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179584802383204352034917.jpeg/wkNK0p5KwSHv3R1rIr8UmyXFl8XJBvf1hF-_OIRfvzg",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393165/%E8%BB%8Acam-%E8%A7%80%E5%A1%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88-%E9%81%87%E8%BB%8A%E8%BD%89%E5%BD%8E%E6%80%A5%E7%85%9E%E5%81%9C%E9%BB%83%E6%A0%BC%E4%BB%94-%E8%AD%A6%E8%BB%8A%E9%A7%9B%E7%B6%93%E6%96%B7%E6%AD%A3",
+    "timestamp": "2026-09-23T16:55:04.422Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜觀塘私家車衝紅燈　遇車轉彎急煞停黃格仔　警車駛經斷正",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179443153376120832952743.jpeg/4nkmNNtU28kCsoMQ1EN13S1e3hGE80TperqoJHq6qCQ",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60392958/%E6%98%93%E6%BD%94%E9%91%8A%E5%A3%BD%E5%91%BD%E6%9C%89%E5%B9%BE%E9%95%B7-%E4%BF%9D%E9%A4%8A5%E6%8B%9B%E5%A6%82%E4%BD%95%E9%96%8B%E9%8D%8B-2%E6%AD%A5%E5%8E%BB%E7%84%A6%E7%87%B6%E4%B8%8D%E5%82%B7%E5%A1%97%E5%B1%A4%E9%98%B2%E8%87%B4%E7%99%8C%E7%89%A9",
     "timestamp": "2026-09-23T06:59:05.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門一中學兩男生打架　涉襲擊同被捕送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179435501958991872192358.jpeg/GuPecC_Bg6rLr82Jg2jxm2I-Ofp7D71j6MkFW-jJBVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392963/%E5%B1%AF%E9%96%80%E4%B8%80%E4%B8%AD%E5%AD%B8%E5%85%A9%E7%94%B7%E7%94%9F%E6%89%93%E6%9E%B6-%E6%B6%89%E8%A5%B2%E6%93%8A%E5%90%8C%E8%A2%AB%E6%8D%95%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-23T06:33:14.248Z",
     "strategy": ".content-card__main"
   }
 ];
