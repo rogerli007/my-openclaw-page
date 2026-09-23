@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T10:54:25.612Z
+// Last updated: 2026-09-23T11:19:44.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐國聯｜文仙尼重掌意大利首戰鬥比利時　徵召9新星棄老將救亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179483239660654592617953.jpeg/cIy1Q3yiZfcC7C6VhX6glkNN_RRYZzPQdRKSS3USkks?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393057/%E6%AD%90%E5%9C%8B%E8%81%AF-%E6%96%87%E4%BB%99%E5%B0%BC%E9%87%8D%E6%8E%8C%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A6%96%E6%88%B0%E9%AC%A5%E6%AF%94%E5%88%A9%E6%99%82-%E5%BE%B5%E5%8F%AC9%E6%96%B0%E6%98%9F%E6%A3%84%E8%80%81%E5%B0%87%E6%95%91%E4%BA%A1",
+    "timestamp": "2026-09-23T11:19:44.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "MC張天賦演唱會2026澳門｜門票優先公售攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178771560257818624610329.jpeg/FxsOEsv4xS4APyI6pWoF1ZV7-yP-sJQjdRyYBnUcmAY?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60392057/%E5%A4%8F%E5%BB%BA%E8%8A%B3-%E4%BA%8C%E5%95%8F%E5%8C%97%E9%83%BD-%E7%99%BC%E5%B1%95%E7%9A%84-%E9%BB%83%E9%87%91%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7-%E8%97%8F%E5%9C%A8%E4%BD%95%E8%99%95",
     "timestamp": "2026-09-23T02:01:26.750Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港府900公頃熟地「投名狀」　發展商寧交地套現？　北都博弈拆局",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177285840150204416950672.jpeg/SeU8Sf4z8LiUdZ9gn5jJb9GV6OHq1ZyG0WrGxdFqxsU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/60391298/%E6%B8%AF%E5%BA%9C900%E5%85%AC%E9%A0%83%E7%86%9F%E5%9C%B0-%E6%8A%95%E5%90%8D%E7%8B%80-%E7%99%BC%E5%B1%95%E5%95%86%E5%AF%A7%E4%BA%A4%E5%9C%B0%E5%A5%97%E7%8F%BE-%E5%8C%97%E9%83%BD%E5%8D%9A%E5%BC%88%E6%8B%86%E5%B1%80",
-    "timestamp": "2026-09-23T01:16:19.108Z",
     "strategy": ".content-card__main"
   }
 ];
