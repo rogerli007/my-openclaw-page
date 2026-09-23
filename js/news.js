@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T17:19:40.864Z
+// Last updated: 2026-09-23T17:32:44.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "裕美爆唔怕林作入獄稱生活相近　曾半年無法安睡誘發抑鬱症",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179558877927051264045369.jpeg/QnV42RLRIns4JxmA58uopl_T7tqrnCPy-6TT9fuk0_U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393152/%E8%A3%95%E7%BE%8E%E7%88%86%E5%94%94%E6%80%95%E6%9E%97%E4%BD%9C%E5%85%A5%E7%8D%84%E7%A8%B1%E7%94%9F%E6%B4%BB%E7%9B%B8%E8%BF%91-%E6%9B%BE%E5%8D%8A%E5%B9%B4%E7%84%A1%E6%B3%95%E5%AE%89%E7%9D%A1%E8%AA%98%E7%99%BC%E6%8A%91%E9%AC%B1%E7%97%87",
+    "timestamp": "2026-09-23T17:32:44.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "裕美爆唔怕林作入獄稱生活相近　曾半年無法安睡誘發抑鬱症",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179461339886653440865193.jpeg/xv9Q5RnYjTG_OY0EJE6wj_eqaiMfsHbjubkPt7m5D7c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392996/%E4%BA%9E%E9%81%8B%E9%87%91%E7%89%8C%E6%B2%88%E6%9B%89%E6%A6%86%E8%BF%BD%E6%98%9F%E6%95%85%E4%BA%8B%E7%99%BB%E9%9F%93%E5%9C%8Bsbs-%E8%81%9E%E5%81%B6%E5%83%8Fexo%E5%B7%B2%E7%9F%A5%E5%96%9C%E8%A8%8A-%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1",
     "timestamp": "2026-09-23T08:27:10.744Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LoveXpress慈善跑2026｜親子齊跑11月8日支持自閉症青年職涯發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179388540404895744063219.jpeg/Kw6JBsJ3agc63oaghOz9VQHJfCDA9NHd_zSclP80nJQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60390828/lovexpress%E6%85%88%E5%96%84%E8%B7%912026-%E8%A6%AA%E5%AD%90%E9%BD%8A%E8%B7%9111%E6%9C%888%E6%97%A5%E6%94%AF%E6%8C%81%E8%87%AA%E9%96%89%E7%97%87%E9%9D%92%E5%B9%B4%E8%81%B7%E6%B6%AF%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-09-23T07:46:55.698Z",
     "strategy": ".content-card__main"
   }
 ];
