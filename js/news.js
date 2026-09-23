@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T23:27:29.573Z
+// Last updated: 2026-09-23T23:42:45.674Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會｜瑞銀︰有望鞏固過去一年中美關係相對穩定的局面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179693040886091776726583.jpeg/EnhHWpPgvtK_u-t_IcQGMYO59vnHeMkhHyRLJR8kSyU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393194/%E7%BF%92%E7%89%B9%E6%9C%83-%E7%91%9E%E9%8A%80-%E6%9C%89%E6%9C%9B%E9%9E%8F%E5%9B%BA%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E7%9B%B8%E5%B0%8D%E7%A9%A9%E5%AE%9A%E7%9A%84%E5%B1%80%E9%9D%A2",
+    "timestamp": "2026-09-23T23:42:45.674Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯邦法官質疑特朗普白宮媒體禁令　指或違法律先例",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179558877927051264045369.jpeg/QnV42RLRIns4JxmA58uopl_T7tqrnCPy-6TT9fuk0_U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393152/%E8%A3%95%E7%BE%8E%E7%88%86%E5%94%94%E6%80%95%E6%9E%97%E4%BD%9C%E5%85%A5%E7%8D%84%E7%A8%B1%E7%94%9F%E6%B4%BB%E7%9B%B8%E8%BF%91-%E6%9B%BE%E5%8D%8A%E5%B9%B4%E7%84%A1%E6%B3%95%E5%AE%89%E7%9D%A1%E8%AA%98%E7%99%BC%E6%8A%91%E9%AC%B1%E7%97%87",
     "timestamp": "2026-09-23T17:32:44.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "裕美爆唔怕林作入獄稱生活相近　曾半年無法安睡誘發抑鬱症",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179558877927051264045369.jpeg/QnV42RLRIns4JxmA58uopl_T7tqrnCPy-6TT9fuk0_U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393152/%E8%A3%95%E7%BE%8E%E7%88%86%E5%94%94%E6%80%95%E6%9E%97%E4%BD%9C%E5%85%A5%E7%8D%84%E7%A8%B1%E7%94%9F%E6%B4%BB%E7%9B%B8%E8%BF%91-%E6%9B%BE%E5%8D%8A%E5%B9%B4%E7%84%A1%E6%B3%95%E5%AE%89%E7%9D%A1%E8%AA%98%E7%99%BC%E6%8A%91%E9%AC%B1%E7%97%87",
-    "timestamp": "2026-09-23T17:19:40.864Z",
     "strategy": ".content-card__main"
   }
 ];
