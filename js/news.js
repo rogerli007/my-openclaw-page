@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T17:54:41.514Z
+// Last updated: 2026-09-23T18:25:20.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田P牌寶馬私家車疑轉彎失控　越線撞九巴後起火　4傷者送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179609848807952384036149.jpeg/DiYwM0W_vPBktaAmebijnH77CSts1StO_Ui8xcdIvMU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393175/%E6%B2%99%E7%94%B0p%E7%89%8C%E5%AF%B6%E9%A6%AC%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7-%E8%B6%8A%E7%B7%9A%E6%92%9E%E4%B9%9D%E5%B7%B4%E5%BE%8C%E8%B5%B7%E7%81%AB-4%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-09-23T18:25:20.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美晤特朗普前　貝森特見何立峰：對達更大協議持開放態度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179477467564347392456819.jpeg/m8e_C1ybBvh_ucUxZd6dQ-U6kpmTMnqY6IveiOiL3og?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393040/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E9%A6%99%E6%B8%AF%E5%B0%BE%E5%A0%B4%E6%84%9F%E8%A7%B8%E8%90%BD%E6%B7%9A%E9%A3%9B%E5%90%BB-%E9%81%9E%E5%92%AA%E8%88%87%E5%A5%91%E4%BB%94%E9%97%9C%E6%A5%9A%E8%80%80%E5%B0%8D%E5%94%B1-%E6%84%9B%E6%83%85%E9%99%B7%E9%98%B1",
     "timestamp": "2026-09-23T09:56:42.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜上海八角籠激戰！身高1.73米機械人被踢倒後｢鯉魚打挺｣站起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179465914282676224679850.jpeg/RvqdepE7w-ljeS1z6abbOJTWcfCpfVA9owXa2qMF2to",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60393033/%E6%9C%89%E7%89%87-%E4%B8%8A%E6%B5%B7%E5%85%AB%E8%A7%92%E7%B1%A0%E6%BF%80%E6%88%B0-%E8%BA%AB%E9%AB%981-73%E7%B1%B3%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%A2%AB%E8%B8%A2%E5%80%92%E5%BE%8C-%E9%AF%89%E9%AD%9A%E6%89%93%E6%8C%BA-%E7%AB%99%E8%B5%B7",
-    "timestamp": "2026-09-23T09:22:33.694Z",
     "strategy": ".content-card__main"
   }
 ];
