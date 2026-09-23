@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T09:22:33.694Z
+// Last updated: 2026-09-23T09:56:42.828Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚詠麟香港尾場感觸落淚飛吻　遞咪與契仔關楚耀對唱《愛情陷阱》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179477467564347392456819.jpeg/m8e_C1ybBvh_ucUxZd6dQ-U6kpmTMnqY6IveiOiL3og?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393040/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E9%A6%99%E6%B8%AF%E5%B0%BE%E5%A0%B4%E6%84%9F%E8%A7%B8%E8%90%BD%E6%B7%9A%E9%A3%9B%E5%90%BB-%E9%81%9E%E5%92%AA%E8%88%87%E5%A5%91%E4%BB%94%E9%97%9C%E6%A5%9A%E8%80%80%E5%B0%8D%E5%94%B1-%E6%84%9B%E6%83%85%E9%99%B7%E9%98%B1",
+    "timestamp": "2026-09-23T09:56:42.828Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜上海八角籠激戰！身高1.73米機械人被踢倒後｢鯉魚打挺｣站起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1753754/org/1cf89b84cb2e27161a24601d563050d6.jpg/B-fonVnaIPiHGnl7PZwBl-bWc3O78Ue7nXpWiJ16Vog?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60392654/%E5%85%A8%E7%90%83%E8%B2%A8%E5%B9%A3%E8%A7%A3%E6%A7%8B-%E4%B8%89-%E4%B8%AD%E7%BE%8E%E8%B2%A8%E5%B9%A3%E6%AC%8A%E5%8A%9B%E9%87%8D%E6%A7%8B-%E9%87%91%E8%9E%8D%E6%96%B0%E6%99%82%E4%BB%A3-%E5%A6%82%E4%BD%95%E6%BC%94%E9%80%B2",
     "timestamp": "2026-09-22T23:41:13.094Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "協和長沙灣新校長鄭家寶談價值觀教育：家長非旁觀者須攜手同行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177846197818232832640812.jpeg/AQKCqE9Pe1I8QGAm-gDOpIIr1zD7Al0Gfuz-eH7s_ng?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60391522/%E5%8D%94%E5%92%8C%E9%95%B7%E6%B2%99%E7%81%A3%E6%96%B0%E6%A0%A1%E9%95%B7%E9%84%AD%E5%AE%B6%E5%AF%B6%E8%AB%87%E5%83%B9%E5%80%BC%E8%A7%80%E6%95%99%E8%82%B2-%E5%AE%B6%E9%95%B7%E9%9D%9E%E6%97%81%E8%A7%80%E8%80%85%E9%A0%88%E6%94%9C%E6%89%8B%E5%90%8C%E8%A1%8C",
-    "timestamp": "2026-09-22T23:29:59.075Z",
     "strategy": ".content-card__main"
   }
 ];
