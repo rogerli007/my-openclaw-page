@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T10:21:37.421Z
+// Last updated: 2026-09-23T10:54:25.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "MC張天賦演唱會2026澳門｜門票優先公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179494928103772160510398.jpeg/ryZuHAFnvLi0luEPDB-Ez7RgA16NHy_i-49LBvuPSwY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393103/mc%E5%BC%B5%E5%A4%A9%E8%B3%A6%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-09-23T10:54:25.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "星聲夢裡人LA LA LAND重登大銀幕！10周年紀念放映限定海報撲飛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177285840150204416950672.jpeg/SeU8Sf4z8LiUdZ9gn5jJb9GV6OHq1ZyG0WrGxdFqxsU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/60391298/%E6%B8%AF%E5%BA%9C900%E5%85%AC%E9%A0%83%E7%86%9F%E5%9C%B0-%E6%8A%95%E5%90%8D%E7%8B%80-%E7%99%BC%E5%B1%95%E5%95%86%E5%AF%A7%E4%BA%A4%E5%9C%B0%E5%A5%97%E7%8F%BE-%E5%8C%97%E9%83%BD%E5%8D%9A%E5%BC%88%E6%8B%86%E5%B1%80",
     "timestamp": "2026-09-23T01:16:19.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門皇珠路的士與泥頭車相撞　的士司機受傷被困",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179347265232310272234810.jpeg/2gTPe-uPY0rOIb3-2n884BmVHUsP7uODLOobMizqGzI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392800/%E5%B1%AF%E9%96%80%E7%9A%87%E7%8F%A0%E8%B7%AF%E7%9A%84%E5%A3%AB%E8%88%87%E6%B3%A5%E9%A0%AD%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E8%A2%AB%E5%9B%B0",
-    "timestamp": "2026-09-23T00:47:09.224Z",
     "strategy": ".content-card__main"
   }
 ];
