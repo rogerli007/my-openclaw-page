@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T03:50:05.542Z
+// Last updated: 2026-09-23T03:58:28.868Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曹永廉承傳父風拼命養家性格捱出病　幸得太太一席話撿回健康之道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179396875296444416487326.jpeg/CN-GrgUU0JMhSoWR20BSXOIqJrGeaph2iT-Dwok_g8I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392889/%E6%9B%B9%E6%B0%B8%E5%BB%89%E6%89%BF%E5%82%B3%E7%88%B6%E9%A2%A8%E6%8B%BC%E5%91%BD%E9%A4%8A%E5%AE%B6%E6%80%A7%E6%A0%BC%E6%8D%B1%E5%87%BA%E7%97%85-%E5%B9%B8%E5%BE%97%E5%A4%AA%E5%A4%AA%E4%B8%80%E5%B8%AD%E8%A9%B1%E6%92%BF%E5%9B%9E%E5%81%A5%E5%BA%B7%E4%B9%8B%E9%81%93",
+    "timestamp": "2026-09-23T03:58:28.868Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美元首華盛頓再會晤：「戰略穩定」能否跨越雙方分歧？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/872825/org/3d6188b57fdb40325f9b798e033b152f.jpg/wOMj19h1aYjRp8E5XpUz44wUKMSaVkxTiG_KCYhvygk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392781/%E6%B8%AF%E5%BA%9C%E5%8F%8D%E5%B0%8D%E6%AD%90%E7%9B%9F%E5%A7%94%E5%93%A1%E6%9C%83%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A-%E7%A8%B1%E9%87%9D%E5%B0%8D%E7%B6%AD%E8%AD%B7%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%85%A7%E5%AE%B9%E7%84%A1%E7%A8%BD%E5%A4%B1%E5%AF%A6",
     "timestamp": "2026-09-22T19:29:51.770Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港府反對歐盟委員會年度報告　稱針對維護國家安全內容無稽失實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/872825/org/3d6188b57fdb40325f9b798e033b152f.jpg/wOMj19h1aYjRp8E5XpUz44wUKMSaVkxTiG_KCYhvygk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392781/%E6%B8%AF%E5%BA%9C%E5%8F%8D%E5%B0%8D%E6%AD%90%E7%9B%9F%E5%A7%94%E5%93%A1%E6%9C%83%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A-%E7%A8%B1%E9%87%9D%E5%B0%8D%E7%B6%AD%E8%AD%B7%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%85%A7%E5%AE%B9%E7%84%A1%E7%A8%BD%E5%A4%B1%E5%AF%A6",
-    "timestamp": "2026-09-22T19:18:13.365Z",
     "strategy": ".content-card__main"
   }
 ];
