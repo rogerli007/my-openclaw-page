@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T02:01:26.750Z
+// Last updated: 2026-09-23T02:32:31.498Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "孫藝珍爆《愛的迫降》秘辛　開機就拍大結局　飛撲玄彬是自己加戲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178388070148345856236481.png/r7mUizg1wMxGJWRvQPAoAYVO0E-3RzLgqZ7YIqme2CI",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391856/%E5%AD%AB%E8%97%9D%E7%8F%8D%E7%88%86-%E6%84%9B%E7%9A%84%E8%BF%AB%E9%99%8D-%E7%A7%98%E8%BE%9B-%E9%96%8B%E6%A9%9F%E5%B0%B1%E6%8B%8D%E5%A4%A7%E7%B5%90%E5%B1%80-%E9%A3%9B%E6%92%B2%E7%8E%84%E5%BD%AC%E6%98%AF%E8%87%AA%E5%B7%B1%E5%8A%A0%E6%88%B2",
+    "timestamp": "2026-09-23T02:32:31.498Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏建芳｜二問北都：發展的「黃金不確定性」藏在何處？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179237717243334656276195.jpeg/H1nSlHHqHsEaYJKZlAMJm_A0ZviBbBrzdqVsfHalbHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392775/%E9%AB%98%E9%90%B58%E5%91%A8%E5%B9%B4%E5%A4%A7%E6%8A%BD%E7%8D%8E%E9%80%81%E7%A6%AE80%E8%90%AC%E4%BB%BD-mtr-mobile%E9%80%A3%E7%BA%8C3%E5%80%8B%E6%98%9F%E6%9C%9F%E4%B8%89%E8%88%89%E8%A1%8C",
     "timestamp": "2026-09-22T17:54:10.589Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高鐵8周年大抽獎送禮80萬份　MTR Mobile連續3個星期三舉行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179237717243334656276195.jpeg/H1nSlHHqHsEaYJKZlAMJm_A0ZviBbBrzdqVsfHalbHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392775/%E9%AB%98%E9%90%B58%E5%91%A8%E5%B9%B4%E5%A4%A7%E6%8A%BD%E7%8D%8E%E9%80%81%E7%A6%AE80%E8%90%AC%E4%BB%BD-mtr-mobile%E9%80%A3%E7%BA%8C3%E5%80%8B%E6%98%9F%E6%9C%9F%E4%B8%89%E8%88%89%E8%A1%8C",
-    "timestamp": "2026-09-22T17:42:56.687Z",
     "strategy": ".content-card__main"
   }
 ];
