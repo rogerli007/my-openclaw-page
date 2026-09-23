@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T22:54:21.877Z
+// Last updated: 2026-09-23T23:17:15.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平睽違11年再訪美　特朗普紅地毯、禮炮、戰機「高規格」迎賓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179675816599359488891073.jpeg/FPIJ5rMI9JfoyidE3zJD5zX2hM4v3ZJ5Y3GxRWNxsUU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393189/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9D%BD%E9%81%9511%E5%B9%B4%E5%86%8D%E8%A8%AA%E7%BE%8E-%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%85%E5%9C%B0%E6%AF%AF-%E7%A6%AE%E7%82%AE-%E6%88%B0%E6%A9%9F-%E9%AB%98%E8%A6%8F%E6%A0%BC-%E8%BF%8E%E8%B3%93",
+    "timestamp": "2026-09-23T23:17:15.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝森特：中美同意延長釜山貿易休戰協議至2027年1月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179584802383204352034917.jpeg/wkNK0p5KwSHv3R1rIr8UmyXFl8XJBvf1hF-_OIRfvzg",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393165/%E8%BB%8Acam-%E8%A7%80%E5%A1%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88-%E9%81%87%E8%BB%8A%E8%BD%89%E5%BD%8E%E6%80%A5%E7%85%9E%E5%81%9C%E9%BB%83%E6%A0%BC%E4%BB%94-%E8%AD%A6%E8%BB%8A%E9%A7%9B%E7%B6%93%E6%96%B7%E6%AD%A3",
     "timestamp": "2026-09-23T16:55:04.422Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜觀塘私家車衝紅燈　遇車轉彎急煞停黃格仔　警車駛經斷正",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179584802383204352034917.jpeg/wkNK0p5KwSHv3R1rIr8UmyXFl8XJBvf1hF-_OIRfvzg",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393165/%E8%BB%8Acam-%E8%A7%80%E5%A1%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88-%E9%81%87%E8%BB%8A%E8%BD%89%E5%BD%8E%E6%80%A5%E7%85%9E%E5%81%9C%E9%BB%83%E6%A0%BC%E4%BB%94-%E8%AD%A6%E8%BB%8A%E9%A7%9B%E7%B6%93%E6%96%B7%E6%AD%A3",
-    "timestamp": "2026-09-23T16:45:44.488Z",
     "strategy": ".content-card__main"
   }
 ];
