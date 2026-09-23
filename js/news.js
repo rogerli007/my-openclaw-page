@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T11:45:51.904Z
+// Last updated: 2026-09-23T12:52:36.096Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌公屋石屎未達標｜房署公布新一批測試結果　36樣本均高出標準",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179382642898898944798513.jpeg/ClbxkTqoo_WA2uq-jxkKh7L9Fhsr16W7rANtNawDbTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393142/%E6%9D%B1%E6%B6%8C%E5%85%AC%E5%B1%8B%E7%9F%B3%E5%B1%8E%E6%9C%AA%E9%81%94%E6%A8%99-%E6%88%BF%E7%BD%B2%E5%85%AC%E5%B8%83%E6%96%B0%E4%B8%80%E6%89%B9%E6%B8%AC%E8%A9%A6%E7%B5%90%E6%9E%9C-36%E6%A8%A3%E6%9C%AC%E5%9D%87%E9%AB%98%E5%87%BA%E6%A8%99%E6%BA%96",
+    "timestamp": "2026-09-23T12:52:36.096Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗醫院女學護偷同事名牌袋　稱遭爛賭前度所累至財困　囚5月2周",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177314495559634944481562.jpeg/j5o6jwfg-oXx1PZKAYPNbVad0IuHGdEou9-VFrvflRY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60391080/%E8%9D%95%E8%B3%A3%E5%B1%85%E5%B1%8B%E6%8F%9B%E7%A7%81%E6%A8%93-%E6%9F%B4%E7%81%A3%E6%A8%82%E7%BF%A0%E8%87%BA%E5%85%A9%E6%88%BF495%E8%90%AC%E6%B2%BD-%E6%A8%93%E5%83%B96%E5%B9%B4%E8%92%B8%E7%99%BC%E9%80%BE%E5%85%A9%E6%88%90",
     "timestamp": "2026-09-23T02:51:26.526Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "孫藝珍爆《愛的迫降》秘辛　開機就拍大結局　飛撲玄彬是自己加戲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178388070148345856236481.png/r7mUizg1wMxGJWRvQPAoAYVO0E-3RzLgqZ7YIqme2CI",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391856/%E5%AD%AB%E8%97%9D%E7%8F%8D%E7%88%86-%E6%84%9B%E7%9A%84%E8%BF%AB%E9%99%8D-%E7%A7%98%E8%BE%9B-%E9%96%8B%E6%A9%9F%E5%B0%B1%E6%8B%8D%E5%A4%A7%E7%B5%90%E5%B1%80-%E9%A3%9B%E6%92%B2%E7%8E%84%E5%BD%AC%E6%98%AF%E8%87%AA%E5%B7%B1%E5%8A%A0%E6%88%B2",
-    "timestamp": "2026-09-23T02:32:31.498Z",
     "strategy": ".content-card__main"
   }
 ];
