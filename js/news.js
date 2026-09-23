@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T03:25:22.154Z
+// Last updated: 2026-09-23T03:50:05.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美元首華盛頓再會晤：「戰略穩定」能否跨越雙方分歧？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179391692864753664439160.jpeg/ZOnwKikhjf1mh-bhO1abOO_fH9L7v1MUCVUjUAlVI1A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60392817/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%8F%AF%E7%9B%9B%E9%A0%93%E5%86%8D%E6%9C%83%E6%99%A4-%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A-%E8%83%BD%E5%90%A6%E8%B7%A8%E8%B6%8A%E9%9B%99%E6%96%B9%E5%88%86%E6%AD%A7",
+    "timestamp": "2026-09-23T03:50:05.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華郵：習特會重視排場卻缺乏共識　密集會晤已讓美國收斂公開挺台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/872825/org/3d6188b57fdb40325f9b798e033b152f.jpg/wOMj19h1aYjRp8E5XpUz44wUKMSaVkxTiG_KCYhvygk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60392781/%E6%B8%AF%E5%BA%9C%E5%8F%8D%E5%B0%8D%E6%AD%90%E7%9B%9F%E5%A7%94%E5%93%A1%E6%9C%83%E5%B9%B4%E5%BA%A6%E5%A0%B1%E5%91%8A-%E7%A8%B1%E9%87%9D%E5%B0%8D%E7%B6%AD%E8%AD%B7%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%85%A7%E5%AE%B9%E7%84%A1%E7%A8%BD%E5%A4%B1%E5%AF%A6",
     "timestamp": "2026-09-22T19:18:13.365Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝安德盼參與歐盟「歐洲製造」計劃　籲勿視英國為敵人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1157018788713992192085369.jpeg/0SANru55YXNp5ZPTszFpXDxmER_JvZDXfmPNe35jzXs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392779/%E8%B2%9D%E5%AE%89%E5%BE%B7%E7%9B%BC%E5%8F%83%E8%88%87%E6%AD%90%E7%9B%9F-%E6%AD%90%E6%B4%B2%E8%A3%BD%E9%80%A0-%E8%A8%88%E5%8A%83-%E7%B1%B2%E5%8B%BF%E8%A6%96%E8%8B%B1%E5%9C%8B%E7%82%BA%E6%95%B5%E4%BA%BA",
-    "timestamp": "2026-09-22T18:52:03.137Z",
     "strategy": ".content-card__main"
   }
 ];
