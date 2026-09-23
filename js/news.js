@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T07:46:55.698Z
+// Last updated: 2026-09-23T08:27:10.744Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運金牌沈曉榆追星故事登韓國SBS　聞偶像EXO已知喜訊：不敢相信",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179461339886653440865193.jpeg/xv9Q5RnYjTG_OY0EJE6wj_eqaiMfsHbjubkPt7m5D7c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392996/%E4%BA%9E%E9%81%8B%E9%87%91%E7%89%8C%E6%B2%88%E6%9B%89%E6%A6%86%E8%BF%BD%E6%98%9F%E6%95%85%E4%BA%8B%E7%99%BB%E9%9F%93%E5%9C%8Bsbs-%E8%81%9E%E5%81%B6%E5%83%8Fexo%E5%B7%B2%E7%9F%A5%E5%96%9C%E8%A8%8A-%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1",
+    "timestamp": "2026-09-23T08:27:10.744Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LoveXpress慈善跑2026｜親子齊跑11月8日支持自閉症青年職涯發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179319673406099456961302.jpeg/aO5CTWvDG1VUG_vm4CD3SzueqV8irfqUjQRk0Y0EZNE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392792/%E5%B0%96%E6%B2%99%E5%92%80%E9%85%92%E5%BA%97%E6%88%BF%E7%96%91%E9%81%87%E7%AB%8A-31%E6%AD%B2%E7%BE%8E%E7%B1%8D%E7%94%B7%E6%90%8D%E5%A4%B1-16%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6-%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9",
     "timestamp": "2026-09-22T22:53:55.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB監製關文深大爆拍戲秘聞　古天樂真性情某男一食飯唔畀錢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179138024324206592587631.jpeg/1wGAhPaNtVo6EG3c6hq-i96kOhBEpL4pHKovMRyqLzE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392602/%E5%8F%A4%E5%A4%A9%E6%A8%82%E8%A2%ABtvb%E7%9B%A3%E8%A3%BD%E9%97%9C%E6%96%87%E6%B7%B1%E7%88%86%E6%8B%8D%E6%88%B2%E6%90%AD%E8%88%B9%E5%A4%AA%E5%A4%A7%E6%B5%AA%E9%AC%A7%E4%BA%BA-%E6%9C%89%E7%94%B7%E4%B8%80%E9%A3%9F%E9%A3%AF%E5%94%94%E7%95%80%E9%8C%A2",
-    "timestamp": "2026-09-22T22:42:35.941Z",
     "strategy": ".content-card__main"
   }
 ];
