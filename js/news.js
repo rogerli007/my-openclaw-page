@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T15:44:56.545Z
+// Last updated: 2026-09-23T16:45:44.488Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜觀塘私家車衝紅燈　遇車轉彎急煞停黃格仔　警車駛經斷正",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179584802383204352034917.jpeg/wkNK0p5KwSHv3R1rIr8UmyXFl8XJBvf1hF-_OIRfvzg",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393165/%E8%BB%8Acam-%E8%A7%80%E5%A1%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88-%E9%81%87%E8%BB%8A%E8%BD%89%E5%BD%8E%E6%80%A5%E7%85%9E%E5%81%9C%E9%BB%83%E6%A0%BC%E4%BB%94-%E8%AD%A6%E8%BB%8A%E9%A7%9B%E7%B6%93%E6%96%B7%E6%AD%A3",
+    "timestamp": "2026-09-23T16:45:44.488Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陸劇正式邁入「大吻戲時代」　現偶集體靠親密戲救市引發審美疲勞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179435501958991872192358.jpeg/GuPecC_Bg6rLr82Jg2jxm2I-Ofp7D71j6MkFW-jJBVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392963/%E5%B1%AF%E9%96%80%E4%B8%80%E4%B8%AD%E5%AD%B8%E5%85%A9%E7%94%B7%E7%94%9F%E6%89%93%E6%9E%B6-%E6%B6%89%E8%A5%B2%E6%93%8A%E5%90%8C%E8%A2%AB%E6%8D%95%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-23T06:33:14.248Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古代四大頂級文具｜一兩徽墨等於一兩黃金？故宮古畫的「續命」紙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172550830616743936609531.jpeg/LB3qrZvKOqsxGBSO-Trwz5_QBM9VfsiTXcBXEl3AVxI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60386039/%E5%8F%A4%E4%BB%A3%E5%9B%9B%E5%A4%A7%E9%A0%82%E7%B4%9A%E6%96%87%E5%85%B7-%E4%B8%80%E5%85%A9%E5%BE%BD%E5%A2%A8%E7%AD%89%E6%96%BC%E4%B8%80%E5%85%A9%E9%BB%83%E9%87%91-%E6%95%85%E5%AE%AE%E5%8F%A4%E7%95%AB%E7%9A%84-%E7%BA%8C%E5%91%BD-%E7%B4%99",
-    "timestamp": "2026-09-23T05:54:14.341Z",
     "strategy": ".content-card__main"
   }
 ];
