@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T18:25:20.457Z
+// Last updated: 2026-09-23T18:48:24.389Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
+    "timestamp": "2026-09-23T18:48:24.389Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田P牌寶馬私家車疑轉彎失控　越線撞九巴後起火　4傷者送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179491234708721664734806.jpeg/lOsg1-hiQcp3XMTqR7SjLeCUHB9Sxf7t_bGyMP2xsjA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60393086/%E6%98%9F%E8%81%B2%E5%A4%A2%E8%A3%A1%E4%BA%BAla-la-land%E9%87%8D%E7%99%BB%E5%A4%A7%E9%8A%80%E5%B9%95-10%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5%E6%94%BE%E6%98%A0%E9%99%90%E5%AE%9A%E6%B5%B7%E5%A0%B1%E6%92%B2%E9%A3%9B",
     "timestamp": "2026-09-23T10:21:37.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚詠麟香港尾場感觸落淚飛吻　遞咪與契仔關楚耀對唱《愛情陷阱》",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179477467564347392456819.jpeg/m8e_C1ybBvh_ucUxZd6dQ-U6kpmTMnqY6IveiOiL3og?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393040/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E9%A6%99%E6%B8%AF%E5%B0%BE%E5%A0%B4%E6%84%9F%E8%A7%B8%E8%90%BD%E6%B7%9A%E9%A3%9B%E5%90%BB-%E9%81%9E%E5%92%AA%E8%88%87%E5%A5%91%E4%BB%94%E9%97%9C%E6%A5%9A%E8%80%80%E5%B0%8D%E5%94%B1-%E6%84%9B%E6%83%85%E9%99%B7%E9%98%B1",
-    "timestamp": "2026-09-23T09:56:42.828Z",
     "strategy": ".content-card__main"
   }
 ];
