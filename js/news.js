@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T19:01:37.128Z
+// Last updated: 2026-09-23T19:18:51.646Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
+    "timestamp": "2026-09-23T19:18:51.646Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179483239660654592617953.jpeg/cIy1Q3yiZfcC7C6VhX6glkNN_RRYZzPQdRKSS3USkks?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393057/%E6%AD%90%E5%9C%8B%E8%81%AF-%E6%96%87%E4%BB%99%E5%B0%BC%E9%87%8D%E6%8E%8C%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A6%96%E6%88%B0%E9%AC%A5%E6%AF%94%E5%88%A9%E6%99%82-%E5%BE%B5%E5%8F%AC9%E6%96%B0%E6%98%9F%E6%A3%84%E8%80%81%E5%B0%87%E6%95%91%E4%BA%A1",
     "timestamp": "2026-09-23T11:19:44.833Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "MC張天賦演唱會2026澳門｜門票優先公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179494928103772160510398.jpeg/ryZuHAFnvLi0luEPDB-Ez7RgA16NHy_i-49LBvuPSwY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393103/mc%E5%BC%B5%E5%A4%A9%E8%B3%A6%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-09-23T10:54:25.612Z",
     "strategy": ".content-card__main"
   }
 ];
