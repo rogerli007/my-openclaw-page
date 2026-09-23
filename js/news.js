@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T01:16:19.108Z
+// Last updated: 2026-09-23T02:01:26.750Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "夏建芳｜二問北都：發展的「黃金不確定性」藏在何處？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178771560257818624610329.jpeg/FxsOEsv4xS4APyI6pWoF1ZV7-yP-sJQjdRyYBnUcmAY?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60392057/%E5%A4%8F%E5%BB%BA%E8%8A%B3-%E4%BA%8C%E5%95%8F%E5%8C%97%E9%83%BD-%E7%99%BC%E5%B1%95%E7%9A%84-%E9%BB%83%E9%87%91%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7-%E8%97%8F%E5%9C%A8%E4%BD%95%E8%99%95",
+    "timestamp": "2026-09-23T02:01:26.750Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港府900公頃熟地「投名狀」　發展商寧交地套現？　北都博弈拆局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179237717243334656276195.jpeg/H1nSlHHqHsEaYJKZlAMJm_A0ZviBbBrzdqVsfHalbHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392775/%E9%AB%98%E9%90%B58%E5%91%A8%E5%B9%B4%E5%A4%A7%E6%8A%BD%E7%8D%8E%E9%80%81%E7%A6%AE80%E8%90%AC%E4%BB%BD-mtr-mobile%E9%80%A3%E7%BA%8C3%E5%80%8B%E6%98%9F%E6%9C%9F%E4%B8%89%E8%88%89%E8%A1%8C",
     "timestamp": "2026-09-22T17:42:56.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026游泳︱馬紫玲初戰亞運瘋狂PB　望追隨何詩蓓內外兼修",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179132002566148096053816.jpeg/4Ypxp6jhP3DgR90nLja2IRmgbeDQ1vl5SxIfqksSH6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60392687/%E4%BA%9E%E9%81%8B%E6%9C%832026%E6%B8%B8%E6%B3%B3-%E9%A6%AC%E7%B4%AB%E7%8E%B2%E5%88%9D%E6%88%B0%E4%BA%9E%E9%81%8B%E7%98%8B%E7%8B%82pb-%E6%9C%9B%E8%BF%BD%E9%9A%A8%E4%BD%95%E8%A9%A9%E8%93%93%E5%85%A7%E5%A4%96%E5%85%BC%E4%BF%AE",
-    "timestamp": "2026-09-22T17:31:04.621Z",
     "strategy": ".content-card__main"
   }
 ];
