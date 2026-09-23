@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T11:19:44.833Z
+// Last updated: 2026-09-23T11:45:51.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院女學護偷同事名牌袋　稱遭爛賭前度所累至財困　囚5月2周",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174966251819110400795324.jpeg/1hagNAWJsXTjPUOKu7dpqt8-beZcPcVKIT06wxs9OsM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393127/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A5%B3%E5%AD%B8%E8%AD%B7%E5%81%B7%E5%90%8C%E4%BA%8B%E5%90%8D%E7%89%8C%E8%A2%8B-%E7%A8%B1%E9%81%AD%E7%88%9B%E8%B3%AD%E5%89%8D%E5%BA%A6%E6%89%80%E7%B4%AF%E8%87%B3%E8%B2%A1%E5%9B%B0-%E5%9B%9A5%E6%9C%882%E5%91%A8",
+    "timestamp": "2026-09-23T11:45:51.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐國聯｜文仙尼重掌意大利首戰鬥比利時　徵召9新星棄老將救亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178388070148345856236481.png/r7mUizg1wMxGJWRvQPAoAYVO0E-3RzLgqZ7YIqme2CI",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60391856/%E5%AD%AB%E8%97%9D%E7%8F%8D%E7%88%86-%E6%84%9B%E7%9A%84%E8%BF%AB%E9%99%8D-%E7%A7%98%E8%BE%9B-%E9%96%8B%E6%A9%9F%E5%B0%B1%E6%8B%8D%E5%A4%A7%E7%B5%90%E5%B1%80-%E9%A3%9B%E6%92%B2%E7%8E%84%E5%BD%AC%E6%98%AF%E8%87%AA%E5%B7%B1%E5%8A%A0%E6%88%B2",
     "timestamp": "2026-09-23T02:32:31.498Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "夏建芳｜二問北都：發展的「黃金不確定性」藏在何處？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178771560257818624610329.jpeg/FxsOEsv4xS4APyI6pWoF1ZV7-yP-sJQjdRyYBnUcmAY?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60392057/%E5%A4%8F%E5%BB%BA%E8%8A%B3-%E4%BA%8C%E5%95%8F%E5%8C%97%E9%83%BD-%E7%99%BC%E5%B1%95%E7%9A%84-%E9%BB%83%E9%87%91%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7-%E8%97%8F%E5%9C%A8%E4%BD%95%E8%99%95",
-    "timestamp": "2026-09-23T02:01:26.750Z",
     "strategy": ".content-card__main"
   }
 ];
