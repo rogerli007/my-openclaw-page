@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T20:55:35.417Z
+// Last updated: 2026-09-23T21:32:17.887Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石硤尾邨單位遭撬門爆竊　28歲女失逾$70萬財物　包括勞力士名錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179647611443875840917630.jpeg/VFBOGnwwA7nPkpEsY_tfyJJ8bTTJffkT8-ONdfPjjXU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393184/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E9%96%80%E7%88%86%E7%AB%8A-28%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-70%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
+    "timestamp": "2026-09-23T21:32:17.887Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石硤尾邨單位遭撬門爆竊　28歲女失逾$70萬財物　包括勞力士名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179498098087432192089745.png/k5BNw1yFIzKYDHslSjy7F3yqLvrcSkmA-axjjvmsY44?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393011/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E9%80%86%E8%A5%B2-%E5%87%BA%E9%81%9320%E5%B9%B4%E4%B8%8D%E7%B0%BD%E5%A4%A7%E5%85%AC%E5%8F%B8-%E6%8F%AD%E6%86%91%E7%94%9A%E9%BA%BC%E5%B0%81%E5%85%A7%E5%A8%9B%E6%B8%85%E6%B5%81",
     "timestamp": "2026-09-23T14:21:47.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔康樂園路男工人暈倒地盤廁所內　當場死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179542236199653376642853.jpeg/fUkRy0oulgXE8tuvO8GMvXkXVEjv_hnXyswy6srMMuo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393147/%E5%A4%A7%E5%9F%94%E5%BA%B7%E6%A8%82%E5%9C%92%E8%B7%AF%E7%94%B7%E5%B7%A5%E4%BA%BA%E6%9A%88%E5%80%92%E5%9C%B0%E7%9B%A4%E5%BB%81%E6%89%80%E5%85%A7-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-09-23T13:53:59.398Z",
     "strategy": ".content-card__main"
   }
 ];
