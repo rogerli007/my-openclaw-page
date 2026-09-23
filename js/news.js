@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T13:53:59.398Z
+// Last updated: 2026-09-23T14:21:47.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭香如故｜譚松韻逆襲！出道20年不簽大公司　揭憑甚麼封內娛清流",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179498098087432192089745.png/k5BNw1yFIzKYDHslSjy7F3yqLvrcSkmA-axjjvmsY44?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393011/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E9%80%86%E8%A5%B2-%E5%87%BA%E9%81%9320%E5%B9%B4%E4%B8%8D%E7%B0%BD%E5%A4%A7%E5%85%AC%E5%8F%B8-%E6%8F%AD%E6%86%91%E7%94%9A%E9%BA%BC%E5%B0%81%E5%85%A7%E5%A8%9B%E6%B8%85%E6%B5%81",
+    "timestamp": "2026-09-23T14:21:47.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔康樂園路男工人暈倒地盤廁所內　當場死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179396875296444416487326.jpeg/CN-GrgUU0JMhSoWR20BSXOIqJrGeaph2iT-Dwok_g8I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392889/%E6%9B%B9%E6%B0%B8%E5%BB%89%E6%89%BF%E5%82%B3%E7%88%B6%E9%A2%A8%E6%8B%BC%E5%91%BD%E9%A4%8A%E5%AE%B6%E6%80%A7%E6%A0%BC%E6%8D%B1%E5%87%BA%E7%97%85-%E5%B9%B8%E5%BE%97%E5%A4%AA%E5%A4%AA%E4%B8%80%E5%B8%AD%E8%A9%B1%E6%92%BF%E5%9B%9E%E5%81%A5%E5%BA%B7%E4%B9%8B%E9%81%93",
     "timestamp": "2026-09-23T03:58:28.868Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美元首華盛頓再會晤：「戰略穩定」能否跨越雙方分歧？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179391692864753664439160.jpeg/ZOnwKikhjf1mh-bhO1abOO_fH9L7v1MUCVUjUAlVI1A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60392817/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%8F%AF%E7%9B%9B%E9%A0%93%E5%86%8D%E6%9C%83%E6%99%A4-%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A-%E8%83%BD%E5%90%A6%E8%B7%A8%E8%B6%8A%E9%9B%99%E6%96%B9%E5%88%86%E6%AD%A7",
-    "timestamp": "2026-09-23T03:50:05.542Z",
     "strategy": ".content-card__main"
   }
 ];
