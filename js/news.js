@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T06:59:05.263Z
+// Last updated: 2026-09-23T07:46:55.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LoveXpress慈善跑2026｜親子齊跑11月8日支持自閉症青年職涯發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179388540404895744063219.jpeg/Kw6JBsJ3agc63oaghOz9VQHJfCDA9NHd_zSclP80nJQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60390828/lovexpress%E6%85%88%E5%96%84%E8%B7%912026-%E8%A6%AA%E5%AD%90%E9%BD%8A%E8%B7%9111%E6%9C%888%E6%97%A5%E6%94%AF%E6%8C%81%E8%87%AA%E9%96%89%E7%97%87%E9%9D%92%E5%B9%B4%E8%81%B7%E6%B6%AF%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-09-23T07:46:55.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "易潔鑊壽命有幾長？保養5招如何開鍋？2步去焦燶不傷塗層防致癌物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179138024324206592587631.jpeg/1wGAhPaNtVo6EG3c6hq-i96kOhBEpL4pHKovMRyqLzE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392602/%E5%8F%A4%E5%A4%A9%E6%A8%82%E8%A2%ABtvb%E7%9B%A3%E8%A3%BD%E9%97%9C%E6%96%87%E6%B7%B1%E7%88%86%E6%8B%8D%E6%88%B2%E6%90%AD%E8%88%B9%E5%A4%AA%E5%A4%A7%E6%B5%AA%E9%AC%A7%E4%BA%BA-%E6%9C%89%E7%94%B7%E4%B8%80%E9%A3%9F%E9%A3%AF%E5%94%94%E7%95%80%E9%8C%A2",
     "timestamp": "2026-09-22T22:42:35.941Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秋分天氣｜今日有一兩陣驟雨　最高約31度　未來數日大致天晴乾燥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179312372041519104298173.jpeg/GZhccO6mSouAH4U32swEJ1TgrxUF945WEzCQexMwkHs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60392771/%E7%A7%8B%E5%88%86%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%9C%80%E9%AB%98%E7%B4%8431%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
-    "timestamp": "2026-09-22T22:31:10.649Z",
     "strategy": ".content-card__main"
   }
 ];
