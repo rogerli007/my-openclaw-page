@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T22:31:50.525Z
+// Last updated: 2026-09-23T22:54:21.877Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝森特：中美同意延長釜山貿易休戰協議至2027年1月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179494201654513664605781.jpeg/5achLDHhMezlbAjN5u0SIFCWnf4x7M4S0mcnydJnJ8k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393188/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BB%B6%E9%95%B7%E9%87%9C%E5%B1%B1%E8%B2%BF%E6%98%93%E4%BC%91%E6%88%B0%E5%8D%94%E8%AD%B0%E8%87%B32027%E5%B9%B41%E6%9C%88",
+    "timestamp": "2026-09-23T22:54:21.877Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢兩村屋遭連環爆竊　一屋損失$20萬財物　另一屋仍點算中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179584802383204352034917.jpeg/wkNK0p5KwSHv3R1rIr8UmyXFl8XJBvf1hF-_OIRfvzg",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393165/%E8%BB%8Acam-%E8%A7%80%E5%A1%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%9D%E7%B4%85%E7%87%88-%E9%81%87%E8%BB%8A%E8%BD%89%E5%BD%8E%E6%80%A5%E7%85%9E%E5%81%9C%E9%BB%83%E6%A0%BC%E4%BB%94-%E8%AD%A6%E8%BB%8A%E9%A7%9B%E7%B6%93%E6%96%B7%E6%AD%A3",
     "timestamp": "2026-09-23T16:45:44.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陸劇正式邁入「大吻戲時代」　現偶集體靠親密戲救市引發審美疲勞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179451153524461568086472.jpeg/lMrjpoHoBH6to3l5pCImlyPIIRuJrJywPIWL4DyFi-A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392997/%E9%99%B8%E5%8A%87%E6%AD%A3%E5%BC%8F%E9%82%81%E5%85%A5-%E5%A4%A7%E5%90%BB%E6%88%B2%E6%99%82%E4%BB%A3-%E7%8F%BE%E5%81%B6%E9%9B%86%E9%AB%94%E9%9D%A0%E8%A6%AA%E5%AF%86%E6%88%B2%E6%95%91%E5%B8%82%E5%BC%95%E7%99%BC%E5%AF%A9%E7%BE%8E%E7%96%B2%E5%8B%9E",
-    "timestamp": "2026-09-23T15:44:56.545Z",
     "strategy": ".content-card__main"
   }
 ];
