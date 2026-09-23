@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T19:18:51.646Z
+// Last updated: 2026-09-23T19:30:57.778Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
+    "timestamp": "2026-09-23T19:30:57.778Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174966251819110400795324.jpeg/1hagNAWJsXTjPUOKu7dpqt8-beZcPcVKIT06wxs9OsM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393127/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A5%B3%E5%AD%B8%E8%AD%B7%E5%81%B7%E5%90%8C%E4%BA%8B%E5%90%8D%E7%89%8C%E8%A2%8B-%E7%A8%B1%E9%81%AD%E7%88%9B%E8%B3%AD%E5%89%8D%E5%BA%A6%E6%89%80%E7%B4%AF%E8%87%B3%E8%B2%A1%E5%9B%B0-%E5%9B%9A5%E6%9C%882%E5%91%A8",
     "timestamp": "2026-09-23T11:45:51.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐國聯｜文仙尼重掌意大利首戰鬥比利時　徵召9新星棄老將救亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179483239660654592617953.jpeg/cIy1Q3yiZfcC7C6VhX6glkNN_RRYZzPQdRKSS3USkks?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393057/%E6%AD%90%E5%9C%8B%E8%81%AF-%E6%96%87%E4%BB%99%E5%B0%BC%E9%87%8D%E6%8E%8C%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A6%96%E6%88%B0%E9%AC%A5%E6%AF%94%E5%88%A9%E6%99%82-%E5%BE%B5%E5%8F%AC9%E6%96%B0%E6%98%9F%E6%A3%84%E8%80%81%E5%B0%87%E6%95%91%E4%BA%A1",
-    "timestamp": "2026-09-23T11:19:44.833Z",
     "strategy": ".content-card__main"
   }
 ];
