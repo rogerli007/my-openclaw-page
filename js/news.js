@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T14:55:31.744Z
+// Last updated: 2026-09-23T15:19:57.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白歆惠嫁百億富商隱退10年　昔封林志玲接班人　43歲凍齡近照曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179495558218256384807942.png/x63FE92wo8hor18QIBc2R1bt3qmYI-ennq5fA56uXwM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393082/%E7%99%BD%E6%AD%86%E6%83%A0%E5%AB%81%E7%99%BE%E5%84%84%E5%AF%8C%E5%95%86%E9%9A%B1%E9%80%8010%E5%B9%B4-%E6%98%94%E5%B0%81%E6%9E%97%E5%BF%97%E7%8E%B2%E6%8E%A5%E7%8F%AD%E4%BA%BA-43%E6%AD%B2%E5%87%8D%E9%BD%A1%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-09-23T15:19:57.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美晤特朗普前夕　美財長會見何立峰　本周第2次會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172550830616743936609531.jpeg/LB3qrZvKOqsxGBSO-Trwz5_QBM9VfsiTXcBXEl3AVxI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60386039/%E5%8F%A4%E4%BB%A3%E5%9B%9B%E5%A4%A7%E9%A0%82%E7%B4%9A%E6%96%87%E5%85%B7-%E4%B8%80%E5%85%A9%E5%BE%BD%E5%A2%A8%E7%AD%89%E6%96%BC%E4%B8%80%E5%85%A9%E9%BB%83%E9%87%91-%E6%95%85%E5%AE%AE%E5%8F%A4%E7%95%AB%E7%9A%84-%E7%BA%8C%E5%91%BD-%E7%B4%99",
     "timestamp": "2026-09-23T05:44:12.013Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國移民部門拘香港出生加州議員幕僚毛皓延　或面臨遣返回港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179416930897891328268971.png/WmtztaEmMljVEN0rRvyyvmhxi64eJ_03fD5Kanw-Smo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392927/%E7%BE%8E%E5%9C%8B%E7%A7%BB%E6%B0%91%E9%83%A8%E9%96%80%E6%8B%98%E9%A6%99%E6%B8%AF%E5%87%BA%E7%94%9F%E5%8A%A0%E5%B7%9E%E8%AD%B0%E5%93%A1%E5%B9%95%E5%83%9A%E6%AF%9B%E7%9A%93%E5%BB%B6-%E6%88%96%E9%9D%A2%E8%87%A8%E9%81%A3%E8%BF%94%E5%9B%9E%E6%B8%AF",
-    "timestamp": "2026-09-23T05:20:49.928Z",
     "strategy": ".content-card__main"
   }
 ];
