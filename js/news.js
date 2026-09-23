@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T04:24:02.812Z
+// Last updated: 2026-09-23T05:20:49.928Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國移民部門拘香港出生加州議員幕僚毛皓延　或面臨遣返回港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179416930897891328268971.png/WmtztaEmMljVEN0rRvyyvmhxi64eJ_03fD5Kanw-Smo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392927/%E7%BE%8E%E5%9C%8B%E7%A7%BB%E6%B0%91%E9%83%A8%E9%96%80%E6%8B%98%E9%A6%99%E6%B8%AF%E5%87%BA%E7%94%9F%E5%8A%A0%E5%B7%9E%E8%AD%B0%E5%93%A1%E5%B9%95%E5%83%9A%E6%AF%9B%E7%9A%93%E5%BB%B6-%E6%88%96%E9%9D%A2%E8%87%A8%E9%81%A3%E8%BF%94%E5%9B%9E%E6%B8%AF",
+    "timestamp": "2026-09-23T05:20:49.928Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葉蒨文放閃變罵戰網民圍插　男友曾展望霸氣反擊：反正我點都ok佢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179097760800968704236745.jpeg/ZgutorGw8ga9SacIBYfYqog97PVbQdsEPCcB6zwnAes?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392786/%E8%B2%A1%E5%8B%99%E6%8A%AB%E9%9C%B2%E6%9B%9D%E5%85%89-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%89%B9%E6%9C%97%E6%99%AE7%E6%9C%88%E8%B2%B7%E8%B3%A3spacex%E8%82%A1%E7%A5%A8",
     "timestamp": "2026-09-22T20:54:33.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財務披露曝光　路透社：特朗普7月買賣SpaceX股票",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179097760800968704236745.jpeg/ZgutorGw8ga9SacIBYfYqog97PVbQdsEPCcB6zwnAes?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392786/%E8%B2%A1%E5%8B%99%E6%8A%AB%E9%9C%B2%E6%9B%9D%E5%85%89-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%89%B9%E6%9C%97%E6%99%AE7%E6%9C%88%E8%B2%B7%E8%B3%A3spacex%E8%82%A1%E7%A5%A8",
-    "timestamp": "2026-09-22T20:35:53.724Z",
     "strategy": ".content-card__main"
   }
 ];
