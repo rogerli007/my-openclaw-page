@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T21:53:33.220Z
+// Last updated: 2026-09-23T22:20:14.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞視小生遺孀現身劉錫賢壽宴　老友重聚淚流滿面：替你走未完的路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179500015626752000427106.jpeg/hS7A-KEGoQVvdj7BGeclHD5iqC0g_RFzFmQckhZkHJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392936/%E7%94%84%E5%BF%97%E5%BC%B7%E9%81%BA%E5%AD%80%E7%8F%BE%E8%BA%AB%E5%8A%89%E9%8C%AB%E8%B3%A2%E7%94%9F%E6%97%A5%E5%AE%B4-%E8%80%81%E5%8F%8B%E9%87%8D%E8%81%9A%E6%B7%9A%E6%B5%81%E6%BB%BF%E9%9D%A2-%E6%9B%BF%E4%BD%A0%E8%B5%B0%E6%9C%AA%E5%AE%8C%E7%9A%84%E8%B7%AF",
+    "timestamp": "2026-09-23T22:20:14.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石硤尾邨單位遭撬門爆竊　28歲女失逾$70萬財物　包括勞力士名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179495558218256384807942.png/x63FE92wo8hor18QIBc2R1bt3qmYI-ennq5fA56uXwM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393082/%E7%99%BD%E6%AD%86%E6%83%A0%E5%AB%81%E7%99%BE%E5%84%84%E5%AF%8C%E5%95%86%E9%9A%B1%E9%80%8010%E5%B9%B4-%E6%98%94%E5%B0%81%E6%9E%97%E5%BF%97%E7%8E%B2%E6%8E%A5%E7%8F%AD%E4%BA%BA-43%E6%AD%B2%E5%87%8D%E9%BD%A1%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89",
     "timestamp": "2026-09-23T15:19:57.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美晤特朗普前夕　美財長會見何立峰　本周第2次會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179560722502258688430867.jpeg/8dmk8Y3Z_8GfvzkhlQDNTPB3ahOBVoc4IcDSEiHA0hI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393153/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%A4%95-%E7%BE%8E%E8%B2%A1%E9%95%B7%E6%9C%83%E8%A6%8B%E4%BD%95%E7%AB%8B%E5%B3%B0-%E6%9C%AC%E5%91%A8%E7%AC%AC2%E6%AC%A1%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-09-23T14:55:31.744Z",
     "strategy": ".content-card__main"
   }
 ];
