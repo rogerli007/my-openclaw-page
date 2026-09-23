@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T12:52:36.096Z
+// Last updated: 2026-09-23T13:25:10.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運｜港隊今奪1銀3銅　武術散打取得突破首奪銅牌　羅淑佩祝賀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179537408694292480529807.jpeg/7jR_VK6qy_WpJQoPotkv8onbKCSgzjV2_hIP8v4SD_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393145/%E4%BA%9E%E9%81%8B-%E6%B8%AF%E9%9A%8A%E4%BB%8A%E5%A5%AA1%E9%8A%803%E9%8A%85-%E6%AD%A6%E8%A1%93%E6%95%A3%E6%89%93%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4%E9%A6%96%E5%A5%AA%E9%8A%85%E7%89%8C-%E7%BE%85%E6%B7%91%E4%BD%A9%E7%A5%9D%E8%B3%80",
+    "timestamp": "2026-09-23T13:25:10.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌公屋石屎未達標｜房署公布新一批測試結果　36樣本均高出標準",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251030/1060717035064922112318402.jpeg/Oo2YSLUcuhN7GLlwALa9EuPom5Kvbj6Oz08oW89PKFs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60392834/%E8%8F%AF%E9%83%B5-%E7%BF%92%E7%89%B9%E6%9C%83%E9%87%8D%E8%A6%96%E6%8E%92%E5%A0%B4%E5%8D%BB%E7%BC%BA%E4%B9%8F%E5%85%B1%E8%AD%98-%E5%AF%86%E9%9B%86%E6%9C%83%E6%99%A4%E5%B7%B2%E8%AE%93%E7%BE%8E%E5%9C%8B%E6%94%B6%E6%96%82%E5%85%AC%E9%96%8B%E6%8C%BA%E5%8F%B0",
     "timestamp": "2026-09-23T03:25:22.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蝕賣居屋換私樓！柴灣樂翠臺兩房495萬沽　樓價6年蒸發逾兩成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177314495559634944481562.jpeg/j5o6jwfg-oXx1PZKAYPNbVad0IuHGdEou9-VFrvflRY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60391080/%E8%9D%95%E8%B3%A3%E5%B1%85%E5%B1%8B%E6%8F%9B%E7%A7%81%E6%A8%93-%E6%9F%B4%E7%81%A3%E6%A8%82%E7%BF%A0%E8%87%BA%E5%85%A9%E6%88%BF495%E8%90%AC%E6%B2%BD-%E6%A8%93%E5%83%B96%E5%B9%B4%E8%92%B8%E7%99%BC%E9%80%BE%E5%85%A9%E6%88%90",
-    "timestamp": "2026-09-23T02:51:26.526Z",
     "strategy": ".content-card__main"
   }
 ];
