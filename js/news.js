@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T16:55:04.422Z
+// Last updated: 2026-09-23T17:19:40.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "裕美爆唔怕林作入獄稱生活相近　曾半年無法安睡誘發抑鬱症",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179558877927051264045369.jpeg/QnV42RLRIns4JxmA58uopl_T7tqrnCPy-6TT9fuk0_U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393152/%E8%A3%95%E7%BE%8E%E7%88%86%E5%94%94%E6%80%95%E6%9E%97%E4%BD%9C%E5%85%A5%E7%8D%84%E7%A8%B1%E7%94%9F%E6%B4%BB%E7%9B%B8%E8%BF%91-%E6%9B%BE%E5%8D%8A%E5%B9%B4%E7%84%A1%E6%B3%95%E5%AE%89%E7%9D%A1%E8%AA%98%E7%99%BC%E6%8A%91%E9%AC%B1%E7%97%87",
+    "timestamp": "2026-09-23T17:19:40.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜觀塘私家車衝紅燈　遇車轉彎急煞停黃格仔　警車駛經斷正",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179388540404895744063219.jpeg/Kw6JBsJ3agc63oaghOz9VQHJfCDA9NHd_zSclP80nJQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60390828/lovexpress%E6%85%88%E5%96%84%E8%B7%912026-%E8%A6%AA%E5%AD%90%E9%BD%8A%E8%B7%9111%E6%9C%888%E6%97%A5%E6%94%AF%E6%8C%81%E8%87%AA%E9%96%89%E7%97%87%E9%9D%92%E5%B9%B4%E8%81%B7%E6%B6%AF%E7%99%BC%E5%B1%95",
     "timestamp": "2026-09-23T07:46:55.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "易潔鑊壽命有幾長？保養5招如何開鍋？2步去焦燶不傷塗層防致癌物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179443153376120832952743.jpeg/4nkmNNtU28kCsoMQ1EN13S1e3hGE80TperqoJHq6qCQ",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60392958/%E6%98%93%E6%BD%94%E9%91%8A%E5%A3%BD%E5%91%BD%E6%9C%89%E5%B9%BE%E9%95%B7-%E4%BF%9D%E9%A4%8A5%E6%8B%9B%E5%A6%82%E4%BD%95%E9%96%8B%E9%8D%8B-2%E6%AD%A5%E5%8E%BB%E7%84%A6%E7%87%B6%E4%B8%8D%E5%82%B7%E5%A1%97%E5%B1%A4%E9%98%B2%E8%87%B4%E7%99%8C%E7%89%A9",
-    "timestamp": "2026-09-23T06:59:05.263Z",
     "strategy": ".content-card__main"
   }
 ];
