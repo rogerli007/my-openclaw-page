@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T09:56:42.828Z
+// Last updated: 2026-09-23T10:21:37.421Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "星聲夢裡人LA LA LAND重登大銀幕！10周年紀念放映限定海報撲飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179491234708721664734806.jpeg/lOsg1-hiQcp3XMTqR7SjLeCUHB9Sxf7t_bGyMP2xsjA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60393086/%E6%98%9F%E8%81%B2%E5%A4%A2%E8%A3%A1%E4%BA%BAla-la-land%E9%87%8D%E7%99%BB%E5%A4%A7%E9%8A%80%E5%B9%95-10%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5%E6%94%BE%E6%98%A0%E9%99%90%E5%AE%9A%E6%B5%B7%E5%A0%B1%E6%92%B2%E9%A3%9B",
+    "timestamp": "2026-09-23T10:21:37.421Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟香港尾場感觸落淚飛吻　遞咪與契仔關楚耀對唱《愛情陷阱》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179347265232310272234810.jpeg/2gTPe-uPY0rOIb3-2n884BmVHUsP7uODLOobMizqGzI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60392800/%E5%B1%AF%E9%96%80%E7%9A%87%E7%8F%A0%E8%B7%AF%E7%9A%84%E5%A3%AB%E8%88%87%E6%B3%A5%E9%A0%AD%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E8%A2%AB%E5%9B%B0",
     "timestamp": "2026-09-23T00:47:09.224Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全球貨幣解構（三）｜中美貨幣權力重構：「金融新時代」如何演進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1753754/org/1cf89b84cb2e27161a24601d563050d6.jpg/B-fonVnaIPiHGnl7PZwBl-bWc3O78Ue7nXpWiJ16Vog?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60392654/%E5%85%A8%E7%90%83%E8%B2%A8%E5%B9%A3%E8%A7%A3%E6%A7%8B-%E4%B8%89-%E4%B8%AD%E7%BE%8E%E8%B2%A8%E5%B9%A3%E6%AC%8A%E5%8A%9B%E9%87%8D%E6%A7%8B-%E9%87%91%E8%9E%8D%E6%96%B0%E6%99%82%E4%BB%A3-%E5%A6%82%E4%BD%95%E6%BC%94%E9%80%B2",
-    "timestamp": "2026-09-22T23:41:13.094Z",
     "strategy": ".content-card__main"
   }
 ];
