@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T05:20:49.928Z
+// Last updated: 2026-09-23T05:44:12.013Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古代四大頂級文具｜一兩徽墨等於一兩黃金？故宮古畫的「續命」紙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172550830616743936609531.jpeg/LB3qrZvKOqsxGBSO-Trwz5_QBM9VfsiTXcBXEl3AVxI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60386039/%E5%8F%A4%E4%BB%A3%E5%9B%9B%E5%A4%A7%E9%A0%82%E7%B4%9A%E6%96%87%E5%85%B7-%E4%B8%80%E5%85%A9%E5%BE%BD%E5%A2%A8%E7%AD%89%E6%96%BC%E4%B8%80%E5%85%A9%E9%BB%83%E9%87%91-%E6%95%85%E5%AE%AE%E5%8F%A4%E7%95%AB%E7%9A%84-%E7%BA%8C%E5%91%BD-%E7%B4%99",
+    "timestamp": "2026-09-23T05:44:12.013Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國移民部門拘香港出生加州議員幕僚毛皓延　或面臨遣返回港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179097760800968704236745.jpeg/ZgutorGw8ga9SacIBYfYqog97PVbQdsEPCcB6zwnAes?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392786/%E8%B2%A1%E5%8B%99%E6%8A%AB%E9%9C%B2%E6%9B%9D%E5%85%89-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%89%B9%E6%9C%97%E6%99%AE7%E6%9C%88%E8%B2%B7%E8%B3%A3spacex%E8%82%A1%E7%A5%A8",
     "timestamp": "2026-09-22T21:30:17.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財務披露曝光　路透社：特朗普7月買賣SpaceX股票",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179097760800968704236745.jpeg/ZgutorGw8ga9SacIBYfYqog97PVbQdsEPCcB6zwnAes?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60392786/%E8%B2%A1%E5%8B%99%E6%8A%AB%E9%9C%B2%E6%9B%9D%E5%85%89-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E7%89%B9%E6%9C%97%E6%99%AE7%E6%9C%88%E8%B2%B7%E8%B3%A3spacex%E8%82%A1%E7%A5%A8",
-    "timestamp": "2026-09-22T20:54:33.050Z",
     "strategy": ".content-card__main"
   }
 ];
