@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T15:19:57.709Z
+// Last updated: 2026-09-23T15:44:56.545Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陸劇正式邁入「大吻戲時代」　現偶集體靠親密戲救市引發審美疲勞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179451153524461568086472.jpeg/lMrjpoHoBH6to3l5pCImlyPIIRuJrJywPIWL4DyFi-A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392997/%E9%99%B8%E5%8A%87%E6%AD%A3%E5%BC%8F%E9%82%81%E5%85%A5-%E5%A4%A7%E5%90%BB%E6%88%B2%E6%99%82%E4%BB%A3-%E7%8F%BE%E5%81%B6%E9%9B%86%E9%AB%94%E9%9D%A0%E8%A6%AA%E5%AF%86%E6%88%B2%E6%95%91%E5%B8%82%E5%BC%95%E7%99%BC%E5%AF%A9%E7%BE%8E%E7%96%B2%E5%8B%9E",
+    "timestamp": "2026-09-23T15:44:56.545Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白歆惠嫁百億富商隱退10年　昔封林志玲接班人　43歲凍齡近照曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172550830616743936609531.jpeg/LB3qrZvKOqsxGBSO-Trwz5_QBM9VfsiTXcBXEl3AVxI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60386039/%E5%8F%A4%E4%BB%A3%E5%9B%9B%E5%A4%A7%E9%A0%82%E7%B4%9A%E6%96%87%E5%85%B7-%E4%B8%80%E5%85%A9%E5%BE%BD%E5%A2%A8%E7%AD%89%E6%96%BC%E4%B8%80%E5%85%A9%E9%BB%83%E9%87%91-%E6%95%85%E5%AE%AE%E5%8F%A4%E7%95%AB%E7%9A%84-%E7%BA%8C%E5%91%BD-%E7%B4%99",
     "timestamp": "2026-09-23T05:54:14.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古代四大頂級文具｜一兩徽墨等於一兩黃金？故宮古畫的「續命」紙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172550830616743936609531.jpeg/LB3qrZvKOqsxGBSO-Trwz5_QBM9VfsiTXcBXEl3AVxI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60386039/%E5%8F%A4%E4%BB%A3%E5%9B%9B%E5%A4%A7%E9%A0%82%E7%B4%9A%E6%96%87%E5%85%B7-%E4%B8%80%E5%85%A9%E5%BE%BD%E5%A2%A8%E7%AD%89%E6%96%BC%E4%B8%80%E5%85%A9%E9%BB%83%E9%87%91-%E6%95%85%E5%AE%AE%E5%8F%A4%E7%95%AB%E7%9A%84-%E7%BA%8C%E5%91%BD-%E7%B4%99",
-    "timestamp": "2026-09-23T05:44:12.013Z",
     "strategy": ".content-card__main"
   }
 ];
