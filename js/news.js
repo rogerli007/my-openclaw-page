@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T17:32:44.902Z
+// Last updated: 2026-09-23T17:46:09.426Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美晤特朗普前　貝森特見何立峰：對達更大協議持開放態度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179560822943256576695308.jpeg/QgOmlXRnbWA_MAwc02sU-g0yN0svf173TheGG04Xhhs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393174/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D-%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%A6%8B%E4%BD%95%E7%AB%8B%E5%B3%B0-%E5%B0%8D%E9%81%94%E6%9B%B4%E5%A4%A7%E5%8D%94%E8%AD%B0%E6%8C%81%E9%96%8B%E6%94%BE%E6%85%8B%E5%BA%A6",
+    "timestamp": "2026-09-23T17:46:09.426Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "裕美爆唔怕林作入獄稱生活相近　曾半年無法安睡誘發抑鬱症",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179455222691401728602453.png/eBABK2JqvCUhZN3pFRM7MJqSHISzoE97vFaFJbxWhSU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393004/%E5%98%89%E8%AB%BE%E6%92%92%E8%81%96%E5%BF%83%E6%9B%B8%E9%99%A2%E5%A5%B3%E7%94%9F%E6%B2%BE%E6%BB%BF%E7%B2%89%E7%AD%86%E7%81%B0%E7%96%91%E9%81%AD%E6%AC%BA%E5%87%8C-%E6%A0%A1%E6%96%B9%E7%A8%B1%E5%B7%B2%E6%87%B2%E8%99%95%E6%B6%89%E4%BA%8B%E5%AD%B8%E7%94%9F",
     "timestamp": "2026-09-23T08:59:25.103Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運金牌沈曉榆追星故事登韓國SBS　聞偶像EXO已知喜訊：不敢相信",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179461339886653440865193.jpeg/xv9Q5RnYjTG_OY0EJE6wj_eqaiMfsHbjubkPt7m5D7c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392996/%E4%BA%9E%E9%81%8B%E9%87%91%E7%89%8C%E6%B2%88%E6%9B%89%E6%A6%86%E8%BF%BD%E6%98%9F%E6%95%85%E4%BA%8B%E7%99%BB%E9%9F%93%E5%9C%8Bsbs-%E8%81%9E%E5%81%B6%E5%83%8Fexo%E5%B7%B2%E7%9F%A5%E5%96%9C%E8%A8%8A-%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1",
-    "timestamp": "2026-09-23T08:27:10.744Z",
     "strategy": ".content-card__main"
   }
 ];
