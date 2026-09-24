@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T17:53:54.892Z
+// Last updated: 2026-09-24T18:25:10.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮公布國宴菜單　包含黃南瓜濃湯、芝麻脆皮海鱸魚等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179972334052708352459061.jpeg/Ej61Bl0fNLjOGUVASP9_sQTJDcOBBCHTPH9m7jx_Zu4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393585/%E7%99%BD%E5%AE%AE%E5%85%AC%E5%B8%83%E5%9C%8B%E5%AE%B4%E8%8F%9C%E5%96%AE-%E5%8C%85%E5%90%AB%E9%BB%83%E5%8D%97%E7%93%9C%E6%BF%83%E6%B9%AF-%E8%8A%9D%E9%BA%BB%E8%84%86%E7%9A%AE%E6%B5%B7%E9%B1%B8%E9%AD%9A%E7%AD%89",
+    "timestamp": "2026-09-24T18:25:10.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水彩園邨55歲男上門探朋友突暈倒　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085926601574584320506423.jpeg/62mFzC3HMUG8sLnYxcP-HXIzjhSGFIS4g4SFlYOEhZU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393524/%E6%9C%8D%E5%8B%99%E4%BE%9B%E6%87%89%E5%95%86%E8%91%A3%E4%BA%8B%E6%B6%89%E6%95%99%E5%94%86%E5%89%8D%E8%B2%BF%E7%99%BC%E5%B1%80%E7%B6%93%E7%90%86%E6%B3%84%E6%8B%9B%E6%A8%99%E6%A9%9F%E5%AF%86%E7%BD%AA%E6%88%90-%E4%B8%8B%E6%9C%8814%E6%97%A5%E5%88%A4%E5%88%91",
     "timestamp": "2026-09-24T11:34:29.100Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "99歲朱慶祥神級拉琴籌百萬　衝擊世界紀錄「最年長職業小提琴手」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179833549298077696562790.jpeg/NhEsTUIs01KIgM8EWs6l1_4mzcqAzqY-6f557en-ee0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393407/99%E6%AD%B2%E6%9C%B1%E6%85%B6%E7%A5%A5%E7%A5%9E%E7%B4%9A%E6%8B%89%E7%90%B4%E7%B1%8C%E7%99%BE%E8%90%AC-%E8%A1%9D%E6%93%8A%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%9C%80%E5%B9%B4%E9%95%B7%E8%81%B7%E6%A5%AD%E5%B0%8F%E6%8F%90%E7%90%B4%E6%89%8B",
-    "timestamp": "2026-09-24T11:24:56.205Z",
     "strategy": ".content-card__main"
   }
 ];
