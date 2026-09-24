@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T15:43:44.359Z
+// Last updated: 2026-09-24T15:54:00.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋節｜天文台料未來兩晚多雲　市民或在雲隙中賞月　附賞月錦囊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177383574882750464659203.jpeg/HOSq7c1-0mTVaDfUeibbD2orAaCbXy0AH-uqIwXrqiM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60393546/%E4%B8%AD%E7%A7%8B%E7%AF%80-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%9C%AA%E4%BE%86%E5%85%A9%E6%99%9A%E5%A4%9A%E9%9B%B2-%E5%B8%82%E6%B0%91%E6%88%96%E5%9C%A8%E9%9B%B2%E9%9A%99%E4%B8%AD%E8%B3%9E%E6%9C%88-%E9%99%84%E8%B3%9E%E6%9C%88%E9%8C%A6%E5%9B%8A",
+    "timestamp": "2026-09-24T15:54:00.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平：大熊貓將抵亞特蘭大   未來5年邀10萬美國青年赴中國學習",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179811834861981696723604.jpeg/m6XQsnOTJ_QNoOuBYdL_e4ToFliZadNGgOWKIoDliiI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393354/%E5%8D%81%E4%B8%80%E5%9C%8B%E6%85%B6%E5%84%AA%E6%83%A0%E6%87%B6%E4%BA%BA%E5%8C%85-3800%E9%96%93%E9%A3%9F%E8%82%86%E5%85%A8%E8%A6%BD-%E5%A4%AA%E8%88%887%E6%8A%98-%E5%A4%A7%E5%BF%AB%E6%B4%BB-99%E4%BA%8C%E4%BA%BA%E9%A4%90",
     "timestamp": "2026-09-24T09:22:46.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺高球場司法覆核案　政府宣布不上訴　將檢視公屋發展未來路向",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179827094096449536859037.jpeg/hs5oNIT67aN5bkug8R2KDqpBJbK8iyF4DYfZew2H2Xs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393418/%E7%B2%89%E5%B6%BA%E9%AB%98%E7%90%83%E5%A0%B4%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E6%A1%88-%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E4%B8%8D%E4%B8%8A%E8%A8%B4-%E5%B0%87%E6%AA%A2%E8%A6%96%E5%85%AC%E5%B1%8B%E7%99%BC%E5%B1%95%E6%9C%AA%E4%BE%86%E8%B7%AF%E5%90%91",
-    "timestamp": "2026-09-24T08:28:01.154Z",
     "strategy": ".content-card__main"
   }
 ];
