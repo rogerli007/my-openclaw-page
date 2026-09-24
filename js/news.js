@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T10:21:00.915Z
+// Last updated: 2026-09-24T10:45:31.004Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶煙花匯演2026｜放逾3萬枚+4大亮點！ 附時間＋18大推介觀賞位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179862317332959232675809.png/DSUQJLqGudD1c0o2kxlqSuY4JbtLZGw3tn6JabZ-iWk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60393391/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1%E5%8C%AF%E6%BC%942026-%E6%94%BE%E9%80%BE3%E8%90%AC%E6%9E%9A-4%E5%A4%A7%E4%BA%AE%E9%BB%9E-%E9%99%84%E6%99%82%E9%96%93-18%E5%A4%A7%E6%8E%A8%E4%BB%8B%E8%A7%80%E8%B3%9E%E4%BD%8D",
+    "timestamp": "2026-09-24T10:45:31.004Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李明慧指兒子連環出怪事驚現濕底褲　陳燿陽發聲明：本人親自購買",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179455617408962560796132.jpeg/l7jzBUtA7YNS7OtL2SzxRLrMnzuCXnq_NZ6xSjWesUo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60392999/9%E5%80%8B%E6%9C%88%E5%81%B7487%E9%83%A8iphone-17-%E6%89%8B%E6%A9%9F%E5%BA%97%E5%A5%B3%E5%93%A1%E5%B7%A5%E8%AE%8A%E8%B3%A3%E5%8D%83%E8%90%AC%E5%8F%B0%E5%B9%A3-%E8%B3%AD%E9%8C%A2%E5%85%A8%E8%BC%B8%E5%85%89",
     "timestamp": "2026-09-24T01:44:28.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日男育兒假獲批率首破5成　妻隱形家務負擔仍達74%：夫休假更心累",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179500384222187520463715.png/JX144OeSFUyDFZCUrOqs_cDAzlNqc6ZpXGQDdFxkA3Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391862/%E6%97%A5%E7%94%B7%E8%82%B2%E5%85%92%E5%81%87%E7%8D%B2%E6%89%B9%E7%8E%87%E9%A6%96%E7%A0%B45%E6%88%90-%E5%A6%BB%E9%9A%B1%E5%BD%A2%E5%AE%B6%E5%8B%99%E8%B2%A0%E6%93%94%E4%BB%8D%E9%81%9474-%E5%A4%AB%E4%BC%91%E5%81%87%E6%9B%B4%E5%BF%83%E7%B4%AF",
-    "timestamp": "2026-09-24T01:17:19.268Z",
     "strategy": ".content-card__main"
   }
 ];
