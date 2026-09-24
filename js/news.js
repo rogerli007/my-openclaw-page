@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T00:53:35.044Z
+// Last updated: 2026-09-24T01:17:19.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日男育兒假獲批率首破5成　妻隱形家務負擔仍達74%：夫休假更心累",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179500384222187520463715.png/JX144OeSFUyDFZCUrOqs_cDAzlNqc6ZpXGQDdFxkA3Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391862/%E6%97%A5%E7%94%B7%E8%82%B2%E5%85%92%E5%81%87%E7%8D%B2%E6%89%B9%E7%8E%87%E9%A6%96%E7%A0%B45%E6%88%90-%E5%A6%BB%E9%9A%B1%E5%BD%A2%E5%AE%B6%E5%8B%99%E8%B2%A0%E6%93%94%E4%BB%8D%E9%81%9474-%E5%A4%AB%E4%BC%91%E5%81%87%E6%9B%B4%E5%BF%83%E7%B4%AF",
+    "timestamp": "2026-09-24T01:17:19.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "返工注意｜吐露港公路兩車相撞　拖頭貨物傾瀉壓私家車　司機受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179609848807952384036149.jpeg/DiYwM0W_vPBktaAmebijnH77CSts1StO_Ui8xcdIvMU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393175/%E6%B2%99%E7%94%B0p%E7%89%8C%E5%AF%B6%E9%A6%AC%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7-%E8%B6%8A%E7%B7%9A%E6%92%9E%E4%B9%9D%E5%B7%B4%E5%BE%8C%E8%B5%B7%E7%81%AB-4%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-09-23T18:25:20.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美晤特朗普前　貝森特見何立峰：對達更大協議持開放態度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179560822943256576695308.jpeg/QgOmlXRnbWA_MAwc02sU-g0yN0svf173TheGG04Xhhs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393174/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D-%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%A6%8B%E4%BD%95%E7%AB%8B%E5%B3%B0-%E5%B0%8D%E9%81%94%E6%9B%B4%E5%A4%A7%E5%8D%94%E8%AD%B0%E6%8C%81%E9%96%8B%E6%94%BE%E6%85%8B%E5%BA%A6",
-    "timestamp": "2026-09-23T17:54:41.514Z",
     "strategy": ".content-card__main"
   }
 ];
