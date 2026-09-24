@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T10:54:33.090Z
+// Last updated: 2026-09-24T11:24:56.205Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "99歲朱慶祥神級拉琴籌百萬　衝擊世界紀錄「最年長職業小提琴手」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179833549298077696562790.jpeg/NhEsTUIs01KIgM8EWs6l1_4mzcqAzqY-6f557en-ee0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393407/99%E6%AD%B2%E6%9C%B1%E6%85%B6%E7%A5%A5%E7%A5%9E%E7%B4%9A%E6%8B%89%E7%90%B4%E7%B1%8C%E7%99%BE%E8%90%AC-%E8%A1%9D%E6%93%8A%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%9C%80%E5%B9%B4%E9%95%B7%E8%81%B7%E6%A5%AD%E5%B0%8F%E6%8F%90%E7%90%B4%E6%89%8B",
+    "timestamp": "2026-09-24T11:24:56.205Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "93歲「濟公」游本昌病逝　《繁花》爺叔成絶響　陳浩民發文悼念",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179735945964949504542608.png/5rG0jLMzMWp1BxqaHMdDS6zOFAPln-VF55Q97ueUPe4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60393225/%E5%BE%9E%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82-%E5%A3%93%E8%89%99%E7%9F%B3-%E5%88%B0%E9%81%A0%E9%9B%A2%E8%81%9A%E5%85%89%E7%87%88-%E7%BF%92%E7%89%B9%E4%BA%8C%E6%9C%83-%E5%89%8D%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E5%AE%B6",
     "timestamp": "2026-09-24T02:35:08.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜大埔富善邨女子墮樓　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240815/900589434934792192137284.jpeg/Roe9XL9qVXCPTvz6Txa9q3yGxOePqJNGO_sMvh77DL4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393197/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9F%94%E5%AF%8C%E5%96%84%E9%82%A8%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-24T02:04:00.011Z",
     "strategy": ".content-card__main"
   }
 ];
