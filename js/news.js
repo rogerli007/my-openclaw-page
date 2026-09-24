@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T20:54:31.043Z
+// Last updated: 2026-09-24T21:19:43.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地彌敦道2男駕電動單車　警車「夾中間」　網民批猖狂｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180016059286032384095782.jpeg/V2YqaY_94Af_jShC5RzsuKxK028PX95gaIpRpGiKUaQ",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393599/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BD%8C%E6%95%A6%E9%81%932%E7%94%B7%E9%A7%95%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A-%E8%AD%A6%E8%BB%8A-%E5%A4%BE%E4%B8%AD%E9%96%93-%E7%B6%B2%E6%B0%91%E6%89%B9%E7%8C%96%E7%8B%82-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-24T21:19:43.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯合國大會演說最少數十代表離場抗議　內塔尼亞胡斥「道德懦夫」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179728225278889984697835.jpeg/WFILw6WFnqRTm-u1B5wZiehpJ-WG1rixAb4GqAG-Bqg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393238/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%BC%81%E8%AD%B7-5%E6%97%A5%E5%85%B1%E6%8D%898%E7%8B%97%E5%B7%B2%E6%AA%A2%E6%8E%A7%E4%B8%80%E7%95%9C%E9%A4%8A%E4%BA%BA-%E6%9C%89%E8%81%B7%E5%93%A1%E8%A2%AB%E5%92%AC%E5%82%B7",
     "timestamp": "2026-09-24T14:22:24.206Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一片看懂平陸運河｜727億工程如何破解技術、生態經濟三重難題？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179867214233210880314579.jpeg/ZBZcjZzblSL3BC41VsY-UHCHOH4XySygCFKTTghSk04",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60392901/%E4%B8%80%E7%89%87%E7%9C%8B%E6%87%82%E5%B9%B3%E9%99%B8%E9%81%8B%E6%B2%B3-727%E5%84%84%E5%B7%A5%E7%A8%8B%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E6%8A%80%E8%A1%93-%E7%94%9F%E6%85%8B%E7%B6%93%E6%BF%9F%E4%B8%89%E9%87%8D%E9%9B%A3%E9%A1%8C",
-    "timestamp": "2026-09-24T13:45:11.792Z",
     "strategy": ".content-card__main"
   }
 ];
