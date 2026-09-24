@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T16:45:09.022Z
+// Last updated: 2026-09-24T16:55:07.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "衛詩雅出席首映突叫停司儀點名影合照  驚覺唐文龍神秘嘉賓即尷尬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179955339592732672162508.jpeg/iKMyVytF7kiVTjs5RKIDGrsD0RSCLXLV3UbQJd1G0CU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393569/%E8%A1%9B%E8%A9%A9%E9%9B%85%E5%87%BA%E5%B8%AD%E9%A6%96%E6%98%A0%E7%AA%81%E5%8F%AB%E5%81%9C%E5%8F%B8%E5%84%80%E9%BB%9E%E5%90%8D%E5%BD%B1%E5%90%88%E7%85%A7-%E9%A9%9A%E8%A6%BA%E5%94%90%E6%96%87%E9%BE%8D%E7%A5%9E%E7%A7%98%E5%98%89%E8%B3%93%E5%8D%B3%E5%B0%B7%E5%B0%AC",
+    "timestamp": "2026-09-24T16:55:07.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海洋公園哈囉喂聯乘王嘉爾推鬼屋　一鬼屋試玩時甩部件險擊中記者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179854863064895488947530.jpeg/gc41HN9_s330HxAQyCTEzsuYngTl070YnDbpJqo26SY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393493/%E6%9D%8E%E6%98%8E%E6%85%A7%E6%8C%87%E5%85%92%E5%AD%90%E9%80%A3%E7%92%B0%E5%87%BA%E6%80%AA%E4%BA%8B%E9%A9%9A%E7%8F%BE%E6%BF%95%E5%BA%95%E8%A4%B2-%E9%99%B3%E7%87%BF%E9%99%BD%E7%99%BC%E8%81%B2%E6%98%8E-%E6%9C%AC%E4%BA%BA%E8%A6%AA%E8%87%AA%E8%B3%BC%E8%B2%B7",
     "timestamp": "2026-09-24T10:21:00.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長隆直擊｜智元推具身智能項目　逾300部人形機械人進駐樂園",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179847054319423488643572.jpeg/Zy0f4wlGZLnwFbDwP06i-f4fEnOhCuKXZU_T3mVP094?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393476/%E9%95%B7%E9%9A%86%E7%9B%B4%E6%93%8A-%E6%99%BA%E5%85%83%E6%8E%A8%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E9%A0%85%E7%9B%AE-%E9%80%BE300%E9%83%A8%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%80%B2%E9%A7%90%E6%A8%82%E5%9C%92",
-    "timestamp": "2026-09-24T09:55:17.152Z",
     "strategy": ".content-card__main"
   }
 ];
