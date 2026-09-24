@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T08:28:01.154Z
+// Last updated: 2026-09-24T09:22:46.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一國慶優惠懶人包｜3800間食肆全覽　太興7折　大快活$99二人餐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179811834861981696723604.jpeg/m6XQsnOTJ_QNoOuBYdL_e4ToFliZadNGgOWKIoDliiI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393354/%E5%8D%81%E4%B8%80%E5%9C%8B%E6%85%B6%E5%84%AA%E6%83%A0%E6%87%B6%E4%BA%BA%E5%8C%85-3800%E9%96%93%E9%A3%9F%E8%82%86%E5%85%A8%E8%A6%BD-%E5%A4%AA%E8%88%887%E6%8A%98-%E5%A4%A7%E5%BF%AB%E6%B4%BB-99%E4%BA%8C%E4%BA%BA%E9%A4%90",
+    "timestamp": "2026-09-24T09:22:46.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺高球場司法覆核案　政府宣布不上訴　將檢視公屋發展未來路向",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179693040886091776726583.jpeg/EnhHWpPgvtK_u-t_IcQGMYO59vnHeMkhHyRLJR8kSyU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393194/%E7%BF%92%E7%89%B9%E6%9C%83-%E7%91%9E%E9%8A%80-%E6%9C%89%E6%9C%9B%E9%9E%8F%E5%9B%BA%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E7%9B%B8%E5%B0%8D%E7%A9%A9%E5%AE%9A%E7%9A%84%E5%B1%80%E9%9D%A2",
     "timestamp": "2026-09-23T23:42:45.674Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯邦法官質疑特朗普白宮媒體禁令　指或違法律先例",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179550565282091008264039.jpeg/Tzp_SqB6xiBpG0pj6ctb3KbNQnLfPUiqp0D68adA-vE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393185/%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E8%B3%AA%E7%96%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BD%E5%AE%AE%E5%AA%92%E9%AB%94%E7%A6%81%E4%BB%A4-%E6%8C%87%E6%88%96%E9%81%95%E6%B3%95%E5%BE%8B%E5%85%88%E4%BE%8B",
-    "timestamp": "2026-09-23T23:27:29.573Z",
     "strategy": ".content-card__main"
   }
 ];
