@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T14:22:24.206Z
+// Last updated: 2026-09-24T14:51:44.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026田徑︱張灝軒100米搏盡仍出局極沮喪　陳佩琦晉準決賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179907105017040896986270.jpeg/Vot8LrlazzhtlwDYy8o1AXdstYk9UXbUNCbrrg4m664?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393551/%E4%BA%9E%E9%81%8B%E6%9C%832026%E7%94%B0%E5%BE%91-%E5%BC%B5%E7%81%9D%E8%BB%92100%E7%B1%B3%E6%90%8F%E7%9B%A1%E4%BB%8D%E5%87%BA%E5%B1%80%E6%A5%B5%E6%B2%AE%E5%96%AA-%E9%99%B3%E4%BD%A9%E7%90%A6%E6%99%89%E6%BA%96%E6%B1%BA%E8%B3%BD",
+    "timestamp": "2026-09-24T14:51:44.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗疑狗咬死人｜漁護：5日共捉8狗已檢控一畜養人　有職員被咬傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179503119566901248087632.jpeg/HWMiRTL92orjwe2UEa5nmZyPzUGxViPpQfqoDEH6qAw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60393080/%E7%99%BE%E8%80%81%E5%8C%AF-%E8%8A%9D%E5%8A%A0%E5%93%A5-30%E5%91%A8%E5%B9%B4%E7%99%BB%E9%99%B8%E6%B7%B1%E5%9C%B3-%E8%A5%BF%E5%8D%80%E5%8E%9F%E7%8F%AD%E9%99%A3%E5%AE%B9%E9%87%8D%E7%8F%BE%E7%B6%93%E5%85%B8%E9%9F%B3%E6%A8%82%E5%8A%87",
     "timestamp": "2026-09-24T07:28:57.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男乘客港鐵車廂下體觸女子大腿　留透明液　官指問題在心魔囚4周",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178763323303268352410578.jpeg/EzprD4zEkxMltKDMfaEL5ap4QPxOdE4lmfuOFJn7jhQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393348/%E7%94%B7%E4%B9%98%E5%AE%A2%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82%E4%B8%8B%E9%AB%94%E8%A7%B8%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%85%BF-%E7%95%99%E9%80%8F%E6%98%8E%E6%B6%B2-%E5%AE%98%E6%8C%87%E5%95%8F%E9%A1%8C%E5%9C%A8%E5%BF%83%E9%AD%94%E5%9B%9A4%E5%91%A8",
-    "timestamp": "2026-09-24T06:33:11.313Z",
     "strategy": ".content-card__main"
   }
 ];
