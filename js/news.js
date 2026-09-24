@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T04:58:02.275Z
+// Last updated: 2026-09-24T05:44:24.691Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Sony推出入門4K OLED電視系列BRAVIA 6 首次配備4個HDMI2.1連接埠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176935731747098624740821.jpeg/jFloc5zTDqumBF0Baps3rvn-1mqQB065K9dGHCvXRhw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390652/sony%E6%8E%A8%E5%87%BA%E5%85%A5%E9%96%804k-oled%E9%9B%BB%E8%A6%96%E7%B3%BB%E5%88%97bravia-6-%E9%A6%96%E6%AC%A1%E9%85%8D%E5%82%994%E5%80%8Bhdmi2-1%E9%80%A3%E6%8E%A5%E5%9F%A0",
+    "timestamp": "2026-09-24T05:44:24.691Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美｜「神秘專機」對決空軍一號　中美元首座駕有何差異？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179647611443875840917630.jpeg/VFBOGnwwA7nPkpEsY_tfyJJ8bTTJffkT8-ONdfPjjXU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393184/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E9%96%80%E7%88%86%E7%AB%8A-28%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-70%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-09-23T21:44:02.289Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石硤尾邨單位遭撬門爆竊　28歲女失逾$70萬財物　包括勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179647611443875840917630.jpeg/VFBOGnwwA7nPkpEsY_tfyJJ8bTTJffkT8-ONdfPjjXU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393184/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E9%96%80%E7%88%86%E7%AB%8A-28%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-70%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-09-23T21:32:17.887Z",
     "strategy": ".content-card__main"
   }
 ];
