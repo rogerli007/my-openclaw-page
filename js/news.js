@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T21:19:43.558Z
+// Last updated: 2026-09-24T21:32:09.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海麗邨24歲男捱打受傷　姊夫夥同黨共2人逞兇後乘車逃走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180025284452159488345792.jpeg/MCcyv7ICbs73SwdQ5TOxGkDJixyOBIonv4Oq4YWDquE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393601/%E6%B5%B7%E9%BA%97%E9%82%A824%E6%AD%B2%E7%94%B7%E6%8D%B1%E6%89%93%E5%8F%97%E5%82%B7-%E5%A7%8A%E5%A4%AB%E5%A4%A5%E5%90%8C%E9%BB%A8%E5%85%B12%E4%BA%BA%E9%80%9E%E5%85%87%E5%BE%8C%E4%B9%98%E8%BB%8A%E9%80%83%E8%B5%B0",
+    "timestamp": "2026-09-24T21:32:09.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地彌敦道2男駕電動單車　警車「夾中間」　網民批猖狂｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179907105017040896986270.jpeg/Vot8LrlazzhtlwDYy8o1AXdstYk9UXbUNCbrrg4m664?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393551/%E4%BA%9E%E9%81%8B%E6%9C%832026%E7%94%B0%E5%BE%91-%E5%BC%B5%E7%81%9D%E8%BB%92100%E7%B1%B3%E6%90%8F%E7%9B%A1%E4%BB%8D%E5%87%BA%E5%B1%80%E6%A5%B5%E6%B2%AE%E5%96%AA-%E9%99%B3%E4%BD%A9%E7%90%A6%E6%99%89%E6%BA%96%E6%B1%BA%E8%B3%BD",
     "timestamp": "2026-09-24T14:51:44.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗疑狗咬死人｜漁護：5日共捉8狗已檢控一畜養人　有職員被咬傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179728225278889984697835.jpeg/WFILw6WFnqRTm-u1B5wZiehpJ-WG1rixAb4GqAG-Bqg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393238/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%BC%81%E8%AD%B7-5%E6%97%A5%E5%85%B1%E6%8D%898%E7%8B%97%E5%B7%B2%E6%AA%A2%E6%8E%A7%E4%B8%80%E7%95%9C%E9%A4%8A%E4%BA%BA-%E6%9C%89%E8%81%B7%E5%93%A1%E8%A2%AB%E5%92%AC%E5%82%B7",
-    "timestamp": "2026-09-24T14:22:24.206Z",
     "strategy": ".content-card__main"
   }
 ];
