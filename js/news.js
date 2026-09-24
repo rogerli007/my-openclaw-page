@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T22:32:57.511Z
+// Last updated: 2026-09-24T22:49:34.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家女星參觀騰訊總部興奮打卡　六位數合資教育中心任執行董事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179877784672014336085637.jpeg/7WJH92s7Ng0ccS9tJ7n2sqvIEhGBw8LbpxZznacWc50?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393400/%E5%91%82%E6%85%A7%E5%84%80%E5%8F%83%E8%A7%80%E9%A8%B0%E8%A8%8A%E7%B8%BD%E9%83%A8%E8%88%88%E5%A5%AE%E6%89%93%E5%8D%A1-%E5%85%AD%E4%BD%8D%E6%95%B8%E5%90%88%E8%B3%87%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%9F%B7%E8%A1%8C%E8%91%A3%E4%BA%8B",
+    "timestamp": "2026-09-24T22:49:34.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人氣小生電視城外拍戲現超長人龍水洩不通　粉絲震撼人牆逼爆街頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177383574882750464659203.jpeg/HOSq7c1-0mTVaDfUeibbD2orAaCbXy0AH-uqIwXrqiM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60393546/%E4%B8%AD%E7%A7%8B%E7%AF%80-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%9C%AA%E4%BE%86%E5%85%A9%E6%99%9A%E5%A4%9A%E9%9B%B2-%E5%B8%82%E6%B0%91%E6%88%96%E5%9C%A8%E9%9B%B2%E9%9A%99%E4%B8%AD%E8%B3%9E%E6%9C%88-%E9%99%84%E8%B3%9E%E6%9C%88%E9%8C%A6%E5%9B%8A",
     "timestamp": "2026-09-24T15:54:00.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平：大熊貓將抵亞特蘭大   未來5年邀10萬美國青年赴中國學習",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179926130539368448356208.jpeg/OvqdaAZJl_X0vS26rkgR3JXg6jvZxZa0OA4xazgOMWs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393570/%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%A4%A7%E7%86%8A%E8%B2%93%E5%B0%87%E6%8A%B5%E4%BA%9E%E7%89%B9%E8%98%AD%E5%A4%A7-%E6%9C%AA%E4%BE%865%E5%B9%B4%E9%82%8010%E8%90%AC%E7%BE%8E%E5%9C%8B%E9%9D%92%E5%B9%B4%E8%B5%B4%E4%B8%AD%E5%9C%8B%E5%AD%B8%E7%BF%92",
-    "timestamp": "2026-09-24T15:43:44.359Z",
     "strategy": ".content-card__main"
   }
 ];
