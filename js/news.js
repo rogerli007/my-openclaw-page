@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T09:55:17.152Z
+// Last updated: 2026-09-24T10:21:00.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李明慧指兒子連環出怪事驚現濕底褲　陳燿陽發聲明：本人親自購買",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179854863064895488947530.jpeg/gc41HN9_s330HxAQyCTEzsuYngTl070YnDbpJqo26SY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393493/%E6%9D%8E%E6%98%8E%E6%85%A7%E6%8C%87%E5%85%92%E5%AD%90%E9%80%A3%E7%92%B0%E5%87%BA%E6%80%AA%E4%BA%8B%E9%A9%9A%E7%8F%BE%E6%BF%95%E5%BA%95%E8%A4%B2-%E9%99%B3%E7%87%BF%E9%99%BD%E7%99%BC%E8%81%B2%E6%98%8E-%E6%9C%AC%E4%BA%BA%E8%A6%AA%E8%87%AA%E8%B3%BC%E8%B2%B7",
+    "timestamp": "2026-09-24T10:21:00.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長隆直擊｜智元推具身智能項目　逾300部人形機械人進駐樂園",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179500384222187520463715.png/JX144OeSFUyDFZCUrOqs_cDAzlNqc6ZpXGQDdFxkA3Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391862/%E6%97%A5%E7%94%B7%E8%82%B2%E5%85%92%E5%81%87%E7%8D%B2%E6%89%B9%E7%8E%87%E9%A6%96%E7%A0%B45%E6%88%90-%E5%A6%BB%E9%9A%B1%E5%BD%A2%E5%AE%B6%E5%8B%99%E8%B2%A0%E6%93%94%E4%BB%8D%E9%81%9474-%E5%A4%AB%E4%BC%91%E5%81%87%E6%9B%B4%E5%BF%83%E7%B4%AF",
     "timestamp": "2026-09-24T01:17:19.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "返工注意｜吐露港公路兩車相撞　拖頭貨物傾瀉壓私家車　司機受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179712250005426176059614.jpeg/8LyalwcECfte5x41g2rQ-IEBxuWb4QH_7NOp8-zTqfM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393199/%E8%BF%94%E5%B7%A5%E6%B3%A8%E6%84%8F-%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E6%8B%96%E9%A0%AD%E8%B2%A8%E7%89%A9%E5%82%BE%E7%80%89%E5%A3%93%E7%A7%81%E5%AE%B6%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-09-24T00:53:35.044Z",
     "strategy": ".content-card__main"
   }
 ];
