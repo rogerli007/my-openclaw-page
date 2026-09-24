@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T06:33:11.313Z
+// Last updated: 2026-09-24T07:28:57.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "芝加哥音樂劇2026深圳開演！門票早鳥85折+百老匯歌劇重現經典",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179503119566901248087632.jpeg/HWMiRTL92orjwe2UEa5nmZyPzUGxViPpQfqoDEH6qAw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60393080/%E7%99%BE%E8%80%81%E5%8C%AF-%E8%8A%9D%E5%8A%A0%E5%93%A5-30%E5%91%A8%E5%B9%B4%E7%99%BB%E9%99%B8%E6%B7%B1%E5%9C%B3-%E8%A5%BF%E5%8D%80%E5%8E%9F%E7%8F%AD%E9%99%A3%E5%AE%B9%E9%87%8D%E7%8F%BE%E7%B6%93%E5%85%B8%E9%9F%B3%E6%A8%82%E5%8A%87",
+    "timestamp": "2026-09-24T07:28:57.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男乘客港鐵車廂下體觸女子大腿　留透明液　官指問題在心魔囚4周",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179674292510527488875612.jpeg/Rol7ldsVqLMFkiI40GqnRmrCJxgIKAtwjYa1N7eGtTc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393187/%E8%A5%BF%E8%B2%A2%E5%85%A9%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-%E4%B8%80%E5%B1%8B%E6%90%8D%E5%A4%B1-20%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8F%A6%E4%B8%80%E5%B1%8B%E4%BB%8D%E9%BB%9E%E7%AE%97%E4%B8%AD",
     "timestamp": "2026-09-23T22:31:50.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞視小生遺孀現身劉錫賢壽宴　老友重聚淚流滿面：替你走未完的路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179500015626752000427106.jpeg/hS7A-KEGoQVvdj7BGeclHD5iqC0g_RFzFmQckhZkHJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392936/%E7%94%84%E5%BF%97%E5%BC%B7%E9%81%BA%E5%AD%80%E7%8F%BE%E8%BA%AB%E5%8A%89%E9%8C%AB%E8%B3%A2%E7%94%9F%E6%97%A5%E5%AE%B4-%E8%80%81%E5%8F%8B%E9%87%8D%E8%81%9A%E6%B7%9A%E6%B5%81%E6%BB%BF%E9%9D%A2-%E6%9B%BF%E4%BD%A0%E8%B5%B0%E6%9C%AA%E5%AE%8C%E7%9A%84%E8%B7%AF",
-    "timestamp": "2026-09-23T22:20:14.746Z",
     "strategy": ".content-card__main"
   }
 ];
