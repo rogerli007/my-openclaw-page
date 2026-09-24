@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T10:45:31.004Z
+// Last updated: 2026-09-24T10:54:33.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "93歲「濟公」游本昌病逝　《繁花》爺叔成絶響　陳浩民發文悼念",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179858844256309248021538.png/0R8d27wkIbhUjkStI9IESnMVZqUwW9VMLkWmFy5Fphc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393399/93%E6%AD%B2-%E6%BF%9F%E5%85%AC-%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%97%85%E9%80%9D-%E7%B9%81%E8%8A%B1-%E7%88%BA%E5%8F%94%E6%88%90%E7%B5%B6%E9%9F%BF-%E9%99%B3%E6%B5%A9%E6%B0%91%E7%99%BC%E6%96%87%E6%82%BC%E5%BF%B5",
+    "timestamp": "2026-09-24T10:54:33.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶煙花匯演2026｜放逾3萬枚+4大亮點！ 附時間＋18大推介觀賞位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240815/900589434934792192137284.jpeg/Roe9XL9qVXCPTvz6Txa9q3yGxOePqJNGO_sMvh77DL4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393197/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9F%94%E5%AF%8C%E5%96%84%E9%82%A8%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-24T02:04:00.011Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "9個月偷487部iPhone 17　手機店女員工變賣千萬台幣　賭錢全輸光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179455617408962560796132.jpeg/l7jzBUtA7YNS7OtL2SzxRLrMnzuCXnq_NZ6xSjWesUo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60392999/9%E5%80%8B%E6%9C%88%E5%81%B7487%E9%83%A8iphone-17-%E6%89%8B%E6%A9%9F%E5%BA%97%E5%A5%B3%E5%93%A1%E5%B7%A5%E8%AE%8A%E8%B3%A3%E5%8D%83%E8%90%AC%E5%8F%B0%E5%B9%A3-%E8%B3%AD%E9%8C%A2%E5%85%A8%E8%BC%B8%E5%85%89",
-    "timestamp": "2026-09-24T01:44:28.681Z",
     "strategy": ".content-card__main"
   }
 ];
