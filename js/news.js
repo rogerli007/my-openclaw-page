@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T20:21:38.523Z
+// Last updated: 2026-09-24T20:54:31.043Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯合國大會演說最少數十代表離場抗議　內塔尼亞胡斥「道德懦夫」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180009080442327040675924.jpeg/czQ81JV0HNdmu9lh6Lp7bYWrEua7pqoAckMGBnJDBgY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393598/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83%E6%BC%94%E8%AA%AA%E6%9C%80%E5%B0%91%E6%95%B8%E5%8D%81%E4%BB%A3%E8%A1%A8%E9%9B%A2%E5%A0%B4%E6%8A%97%E8%AD%B0-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%96%A5-%E9%81%93%E5%BE%B7%E6%87%A6%E5%A4%AB",
+    "timestamp": "2026-09-24T20:54:31.043Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞道鹹水管爆裂　鹹水供應受影響　預計今早恢復供水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179867214233210880314579.jpeg/ZBZcjZzblSL3BC41VsY-UHCHOH4XySygCFKTTghSk04",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60392901/%E4%B8%80%E7%89%87%E7%9C%8B%E6%87%82%E5%B9%B3%E9%99%B8%E9%81%8B%E6%B2%B3-727%E5%84%84%E5%B7%A5%E7%A8%8B%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E6%8A%80%E8%A1%93-%E7%94%9F%E6%85%8B%E7%B6%93%E6%BF%9F%E4%B8%89%E9%87%8D%E9%9B%A3%E9%A1%8C",
     "timestamp": "2026-09-24T13:45:11.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周家蔚爆日常遭老公糟質盼拍戲覆灼　被問鍾麗淇近況洪天明代答",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179886507008200704391684.jpeg/84VIW-ulvFpoJINu-BcDy-606xJZ1S3MrbegH623oB8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393537/%E5%91%A8%E5%AE%B6%E8%94%9A%E7%88%86%E6%97%A5%E5%B8%B8%E9%81%AD%E8%80%81%E5%85%AC%E7%B3%9F%E8%B3%AA%E7%9B%BC%E6%8B%8D%E6%88%B2%E8%A6%86%E7%81%BC-%E8%A2%AB%E5%95%8F%E9%8D%BE%E9%BA%97%E6%B7%87%E8%BF%91%E6%B3%81%E6%B4%AA%E5%A4%A9%E6%98%8E%E4%BB%A3%E7%AD%94",
-    "timestamp": "2026-09-24T13:20:15.417Z",
     "strategy": ".content-card__main"
   }
 ];
