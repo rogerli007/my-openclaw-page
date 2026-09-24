@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T01:17:19.268Z
+// Last updated: 2026-09-24T01:44:28.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "9個月偷487部iPhone 17　手機店女員工變賣千萬台幣　賭錢全輸光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179455617408962560796132.jpeg/l7jzBUtA7YNS7OtL2SzxRLrMnzuCXnq_NZ6xSjWesUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60392999/9%E5%80%8B%E6%9C%88%E5%81%B7487%E9%83%A8iphone-17-%E6%89%8B%E6%A9%9F%E5%BA%97%E5%A5%B3%E5%93%A1%E5%B7%A5%E8%AE%8A%E8%B3%A3%E5%8D%83%E8%90%AC%E5%8F%B0%E5%B9%A3-%E8%B3%AD%E9%8C%A2%E5%85%A8%E8%BC%B8%E5%85%89",
+    "timestamp": "2026-09-24T01:44:28.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日男育兒假獲批率首破5成　妻隱形家務負擔仍達74%：夫休假更心累",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
     "timestamp": "2026-09-23T18:48:24.389Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田P牌寶馬私家車疑轉彎失控　越線撞九巴後起火　4傷者送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179609848807952384036149.jpeg/DiYwM0W_vPBktaAmebijnH77CSts1StO_Ui8xcdIvMU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393175/%E6%B2%99%E7%94%B0p%E7%89%8C%E5%AF%B6%E9%A6%AC%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%BD%89%E5%BD%8E%E5%A4%B1%E6%8E%A7-%E8%B6%8A%E7%B7%9A%E6%92%9E%E4%B9%9D%E5%B7%B4%E5%BE%8C%E8%B5%B7%E7%81%AB-4%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-09-23T18:25:20.457Z",
     "strategy": ".content-card__main"
   }
 ];
