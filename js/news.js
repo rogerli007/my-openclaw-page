@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T21:43:12.847Z
+// Last updated: 2026-09-24T22:20:31.777Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人氣小生電視城外拍戲現超長人龍水洩不通　粉絲震撼人牆逼爆街頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179876964362620928621435.jpeg/jL4xEfULhajjGM6-LiUVI3x25aP4DDVKhmCBSIZggUg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393330/%E6%88%90%E6%AF%85%E9%9B%BB%E8%A6%96%E5%9F%8E%E5%A4%96%E6%8B%8D-%E7%8B%A9%E8%AC%8A-%E8%B6%85%E9%95%B7%E4%BA%BA%E9%BE%8D%E6%B0%B4%E6%B4%A9%E4%B8%8D%E9%80%9A-%E7%B2%89%E7%B5%B2%E9%9C%87%E6%92%BC%E4%BA%BA%E7%89%86%E9%80%BC%E7%88%86%E8%A1%97%E9%A0%AD",
+    "timestamp": "2026-09-24T22:20:31.777Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海麗邨24歲男捱打受傷　姊夫夥同黨共2人逞兇後乘車逃走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021836693923172352351684.jpeg/MIY33Ffnae3SuY9fIaxxPfKSYJn5pU8Ozw8VNM8PFTQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393566/%E7%9A%84%E5%A3%AB%E7%B6%B2%E7%B4%84%E5%B9%B3%E5%8F%B0%E9%A3%9B%E7%9A%84%E5%B0%87%E5%81%9C%E9%81%8B-uber-%E9%A3%9B%E7%9A%84%E6%9C%8D%E5%8B%9912%E6%9C%88%E5%BA%95%E6%95%B4%E5%90%88%E8%87%B3uber-app",
     "timestamp": "2026-09-24T15:21:12.741Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "關寶慧遇嚴重車禍住院一個月手留6吋疤痕　提雷宇揚離世傷心流淚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179922014815653888749105.jpeg/IHVARr6h-_QgqMm9yaZcEAGArIvZSC8nX3f-eV93_nk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393542/%E9%97%9C%E5%AF%B6%E6%85%A7%E9%81%87%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E4%BD%8F%E9%99%A2%E4%B8%80%E5%80%8B%E6%9C%88%E6%89%8B%E7%95%996%E5%90%8B%E7%96%A4%E7%97%95-%E6%8F%90%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96%E5%82%B7%E5%BF%83%E6%B5%81%E6%B7%9A",
-    "timestamp": "2026-09-24T14:57:07.314Z",
     "strategy": ".content-card__main"
   }
 ];
