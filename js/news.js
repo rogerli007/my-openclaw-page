@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T16:23:32.271Z
+// Last updated: 2026-09-24T16:45:09.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海洋公園哈囉喂聯乘王嘉爾推鬼屋　一鬼屋試玩時甩部件險擊中記者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179940336433500160268574.jpeg/bHMdlpE9YzOgV4zhrZLGcamtQk4pUkUHZwUyjUIFMo0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393567/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E5%93%88%E5%9B%89%E5%96%82%E8%81%AF%E4%B9%98%E7%8E%8B%E5%98%89%E7%88%BE%E6%8E%A8%E9%AC%BC%E5%B1%8B-%E4%B8%80%E9%AC%BC%E5%B1%8B%E8%A9%A6%E7%8E%A9%E6%99%82%E7%94%A9%E9%83%A8%E4%BB%B6%E9%9A%AA%E6%93%8A%E4%B8%AD%E8%A8%98%E8%80%85",
+    "timestamp": "2026-09-24T16:45:09.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三代同糖｜徐榮否認加盟救收視　反指靠劇組救命：有嘢做個心定啲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179847054319423488643572.jpeg/Zy0f4wlGZLnwFbDwP06i-f4fEnOhCuKXZU_T3mVP094?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393476/%E9%95%B7%E9%9A%86%E7%9B%B4%E6%93%8A-%E6%99%BA%E5%85%83%E6%8E%A8%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E9%A0%85%E7%9B%AE-%E9%80%BE300%E9%83%A8%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%80%B2%E9%A7%90%E6%A8%82%E5%9C%92",
     "timestamp": "2026-09-24T09:55:17.152Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美｜魯比奧：對台軍售需權衡美國自身需求及軍工產能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179843454482518016596712.jpeg/0ImJHdikxwG3YTV_kCWLLEbfylDSM8SjToRjrE6EY6w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393465/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E9%9C%80%E6%AC%8A%E8%A1%A1%E7%BE%8E%E5%9C%8B%E8%87%AA%E8%BA%AB%E9%9C%80%E6%B1%82%E5%8F%8A%E8%BB%8D%E5%B7%A5%E7%94%A2%E8%83%BD",
-    "timestamp": "2026-09-24T09:47:15.079Z",
     "strategy": ".content-card__main"
   }
 ];
