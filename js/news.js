@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T14:51:44.242Z
+// Last updated: 2026-09-24T14:57:07.314Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "關寶慧遇嚴重車禍住院一個月手留6吋疤痕　提雷宇揚離世傷心流淚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179922014815653888749105.jpeg/IHVARr6h-_QgqMm9yaZcEAGArIvZSC8nX3f-eV93_nk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393542/%E9%97%9C%E5%AF%B6%E6%85%A7%E9%81%87%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E4%BD%8F%E9%99%A2%E4%B8%80%E5%80%8B%E6%9C%88%E6%89%8B%E7%95%996%E5%90%8B%E7%96%A4%E7%97%95-%E6%8F%90%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96%E5%82%B7%E5%BF%83%E6%B5%81%E6%B7%9A",
+    "timestamp": "2026-09-24T14:57:07.314Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026田徑︱張灝軒100米搏盡仍出局極沮喪　陳佩琦晉準決賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179814432092459008748132.jpeg/ffWhhM1mqkF2rEinLuhHRtUoJJkCr4mKOjX8Ozo1_Ds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60393383/canada-goose%E4%B8%AD%E7%A7%8B%E5%A4%A7%E6%BE%B3%E6%8E%A2%E7%B4%A2%E4%B9%8B%E6%97%85-%E8%AB%87%E5%96%84%E8%A8%80%E6%A2%81%E4%BB%B2%E6%81%86%E9%AB%94%E9%A9%97%E7%99%BE%E5%B9%B4%E6%99%BA%E6%85%A7",
     "timestamp": "2026-09-24T07:46:36.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "芝加哥音樂劇2026深圳開演！門票早鳥85折+百老匯歌劇重現經典",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179503119566901248087632.jpeg/HWMiRTL92orjwe2UEa5nmZyPzUGxViPpQfqoDEH6qAw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60393080/%E7%99%BE%E8%80%81%E5%8C%AF-%E8%8A%9D%E5%8A%A0%E5%93%A5-30%E5%91%A8%E5%B9%B4%E7%99%BB%E9%99%B8%E6%B7%B1%E5%9C%B3-%E8%A5%BF%E5%8D%80%E5%8E%9F%E7%8F%AD%E9%99%A3%E5%AE%B9%E9%87%8D%E7%8F%BE%E7%B6%93%E5%85%B8%E9%9F%B3%E6%A8%82%E5%8A%87",
-    "timestamp": "2026-09-24T07:28:57.846Z",
     "strategy": ".content-card__main"
   }
 ];
