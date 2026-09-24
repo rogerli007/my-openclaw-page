@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T13:20:15.417Z
+// Last updated: 2026-09-24T13:45:11.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一片看懂平陸運河｜727億工程如何破解技術、生態經濟三重難題？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179867214233210880314579.jpeg/ZBZcjZzblSL3BC41VsY-UHCHOH4XySygCFKTTghSk04",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60392901/%E4%B8%80%E7%89%87%E7%9C%8B%E6%87%82%E5%B9%B3%E9%99%B8%E9%81%8B%E6%B2%B3-727%E5%84%84%E5%B7%A5%E7%A8%8B%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E6%8A%80%E8%A1%93-%E7%94%9F%E6%85%8B%E7%B6%93%E6%BF%9F%E4%B8%89%E9%87%8D%E9%9B%A3%E9%A1%8C",
+    "timestamp": "2026-09-24T13:45:11.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周家蔚爆日常遭老公糟質盼拍戲覆灼　被問鍾麗淇近況洪天明代答",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179787469340545024871406.png/8DLDrnwE3OSptozGGCVjrFXMfheftyk6LbVoji21aI4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393323/bigbang%E5%89%8D%E6%88%90%E5%93%A1%E5%8B%9D%E5%88%A9%E8%A2%AB%E6%8E%A7%E6%81%90%E5%9A%87-%E7%8B%82%E6%8F%AE%E9%85%92%E7%93%B6%E6%8F%9A%E8%A8%80%E8%A1%80%E6%B4%97%E9%A4%90%E5%BB%B3-%E6%AE%BA%E4%BD%A0%E4%B8%8D%E9%9B%A3",
     "timestamp": "2026-09-24T05:55:52.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Sony推出入門4K OLED電視系列BRAVIA 6 首次配備4個HDMI2.1連接埠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176935731747098624740821.jpeg/jFloc5zTDqumBF0Baps3rvn-1mqQB065K9dGHCvXRhw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390652/sony%E6%8E%A8%E5%87%BA%E5%85%A5%E9%96%804k-oled%E9%9B%BB%E8%A6%96%E7%B3%BB%E5%88%97bravia-6-%E9%A6%96%E6%AC%A1%E9%85%8D%E5%82%994%E5%80%8Bhdmi2-1%E9%80%A3%E6%8E%A5%E5%9F%A0",
-    "timestamp": "2026-09-24T05:44:24.691Z",
     "strategy": ".content-card__main"
   }
 ];
