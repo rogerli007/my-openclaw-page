@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T15:54:00.269Z
+// Last updated: 2026-09-24T16:23:32.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三代同糖｜徐榮否認加盟救收視　反指靠劇組救命：有嘢做個心定啲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179911915636264960368259.jpeg/zDVDiUVccKba_7MXJuOsG70pIX-K05_HIPNZuSDzWbk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393555/%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%BE%90%E6%A6%AE%E5%90%A6%E8%AA%8D%E5%8A%A0%E7%9B%9F%E6%95%91%E6%94%B6%E8%A6%96-%E5%8F%8D%E6%8C%87%E9%9D%A0%E5%8A%87%E7%B5%84%E6%95%91%E5%91%BD-%E6%9C%89%E5%98%A2%E5%81%9A%E5%80%8B%E5%BF%83%E5%AE%9A%E5%95%B2",
+    "timestamp": "2026-09-24T16:23:32.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中秋節｜天文台料未來兩晚多雲　市民或在雲隙中賞月　附賞月錦囊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179843454482518016596712.jpeg/0ImJHdikxwG3YTV_kCWLLEbfylDSM8SjToRjrE6EY6w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393465/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E9%9C%80%E6%AC%8A%E8%A1%A1%E7%BE%8E%E5%9C%8B%E8%87%AA%E8%BA%AB%E9%9C%80%E6%B1%82%E5%8F%8A%E8%BB%8D%E5%B7%A5%E7%94%A2%E8%83%BD",
     "timestamp": "2026-09-24T09:47:15.079Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一國慶優惠懶人包｜3800間食肆全覽　太興7折　大快活$99二人餐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179811834861981696723604.jpeg/m6XQsnOTJ_QNoOuBYdL_e4ToFliZadNGgOWKIoDliiI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393354/%E5%8D%81%E4%B8%80%E5%9C%8B%E6%85%B6%E5%84%AA%E6%83%A0%E6%87%B6%E4%BA%BA%E5%8C%85-3800%E9%96%93%E9%A3%9F%E8%82%86%E5%85%A8%E8%A6%BD-%E5%A4%AA%E8%88%887%E6%8A%98-%E5%A4%A7%E5%BF%AB%E6%B4%BB-99%E4%BA%8C%E4%BA%BA%E9%A4%90",
-    "timestamp": "2026-09-24T09:22:46.576Z",
     "strategy": ".content-card__main"
   }
 ];
