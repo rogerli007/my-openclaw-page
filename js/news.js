@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T05:44:24.691Z
+// Last updated: 2026-09-24T05:55:52.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG前成員勝利被控恐嚇　狂揮酒瓶揚言血洗餐廳「殺你不難」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179787469340545024871406.png/8DLDrnwE3OSptozGGCVjrFXMfheftyk6LbVoji21aI4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393323/bigbang%E5%89%8D%E6%88%90%E5%93%A1%E5%8B%9D%E5%88%A9%E8%A2%AB%E6%8E%A7%E6%81%90%E5%9A%87-%E7%8B%82%E6%8F%AE%E9%85%92%E7%93%B6%E6%8F%9A%E8%A8%80%E8%A1%80%E6%B4%97%E9%A4%90%E5%BB%B3-%E6%AE%BA%E4%BD%A0%E4%B8%8D%E9%9B%A3",
+    "timestamp": "2026-09-24T05:55:52.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Sony推出入門4K OLED電視系列BRAVIA 6 首次配備4個HDMI2.1連接埠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179647611443875840917630.jpeg/VFBOGnwwA7nPkpEsY_tfyJJ8bTTJffkT8-ONdfPjjXU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393184/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E9%96%80%E7%88%86%E7%AB%8A-28%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-70%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-09-23T21:53:33.220Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石硤尾邨單位遭撬門爆竊　28歲女失逾$70萬財物　包括勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179647611443875840917630.jpeg/VFBOGnwwA7nPkpEsY_tfyJJ8bTTJffkT8-ONdfPjjXU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393184/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E9%96%80%E7%88%86%E7%AB%8A-28%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-70%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-09-23T21:44:02.289Z",
     "strategy": ".content-card__main"
   }
 ];
