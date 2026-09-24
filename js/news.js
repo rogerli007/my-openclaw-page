@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T14:57:07.314Z
+// Last updated: 2026-09-24T15:21:12.741Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "的士網約平台飛的將停運　Uber：飛的服務12月底整合至Uber App",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021836693923172352351684.jpeg/MIY33Ffnae3SuY9fIaxxPfKSYJn5pU8Ozw8VNM8PFTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393566/%E7%9A%84%E5%A3%AB%E7%B6%B2%E7%B4%84%E5%B9%B3%E5%8F%B0%E9%A3%9B%E7%9A%84%E5%B0%87%E5%81%9C%E9%81%8B-uber-%E9%A3%9B%E7%9A%84%E6%9C%8D%E5%8B%9912%E6%9C%88%E5%BA%95%E6%95%B4%E5%90%88%E8%87%B3uber-app",
+    "timestamp": "2026-09-24T15:21:12.741Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "關寶慧遇嚴重車禍住院一個月手留6吋疤痕　提雷宇揚離世傷心流淚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179820318424829952238716.jpeg/_nrk7fL3qX7WS08dHbt3AMA0Iq_UsFSWX3ivEF94rxA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393375/%E7%BE%8E%E5%9C%8B%E5%A4%9A%E6%AC%A1%E7%82%BA%E4%B8%AD%E5%9C%8B%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%A8%AD%E5%9C%8B%E5%AE%B4-%E5%A5%A7%E5%B7%B4%E9%A6%AC%E7%82%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E5%AE%89%E6%8E%92%E9%BE%8D%E8%9D%A6%E8%88%87%E7%B4%B9%E8%88%88%E9%85%92",
     "timestamp": "2026-09-24T07:56:09.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Canada Goose中秋大澳探索之旅  談善言梁仲恆體驗百年智慧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179814432092459008748132.jpeg/ffWhhM1mqkF2rEinLuhHRtUoJJkCr4mKOjX8Ozo1_Ds?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60393383/canada-goose%E4%B8%AD%E7%A7%8B%E5%A4%A7%E6%BE%B3%E6%8E%A2%E7%B4%A2%E4%B9%8B%E6%97%85-%E8%AB%87%E5%96%84%E8%A8%80%E6%A2%81%E4%BB%B2%E6%81%86%E9%AB%94%E9%A9%97%E7%99%BE%E5%B9%B4%E6%99%BA%E6%85%A7",
-    "timestamp": "2026-09-24T07:46:36.828Z",
     "strategy": ".content-card__main"
   }
 ];
