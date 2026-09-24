@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T09:22:46.576Z
+// Last updated: 2026-09-24T09:47:15.079Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美｜魯比奧：對台軍售需權衡美國自身需求及軍工產能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179843454482518016596712.jpeg/0ImJHdikxwG3YTV_kCWLLEbfylDSM8SjToRjrE6EY6w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393465/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E5%B0%8D%E5%8F%B0%E8%BB%8D%E5%94%AE%E9%9C%80%E6%AC%8A%E8%A1%A1%E7%BE%8E%E5%9C%8B%E8%87%AA%E8%BA%AB%E9%9C%80%E6%B1%82%E5%8F%8A%E8%BB%8D%E5%B7%A5%E7%94%A2%E8%83%BD",
+    "timestamp": "2026-09-24T09:47:15.079Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一國慶優惠懶人包｜3800間食肆全覽　太興7折　大快活$99二人餐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179693040886091776726583.jpeg/EnhHWpPgvtK_u-t_IcQGMYO59vnHeMkhHyRLJR8kSyU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393194/%E7%BF%92%E7%89%B9%E6%9C%83-%E7%91%9E%E9%8A%80-%E6%9C%89%E6%9C%9B%E9%9E%8F%E5%9B%BA%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E7%9B%B8%E5%B0%8D%E7%A9%A9%E5%AE%9A%E7%9A%84%E5%B1%80%E9%9D%A2",
     "timestamp": "2026-09-23T23:56:38.348Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會｜瑞銀︰有望鞏固過去一年中美關係相對穩定的局面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179693040886091776726583.jpeg/EnhHWpPgvtK_u-t_IcQGMYO59vnHeMkhHyRLJR8kSyU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393194/%E7%BF%92%E7%89%B9%E6%9C%83-%E7%91%9E%E9%8A%80-%E6%9C%89%E6%9C%9B%E9%9E%8F%E5%9B%BA%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E7%9B%B8%E5%B0%8D%E7%A9%A9%E5%AE%9A%E7%9A%84%E5%B1%80%E9%9D%A2",
-    "timestamp": "2026-09-23T23:42:45.674Z",
     "strategy": ".content-card__main"
   }
 ];
