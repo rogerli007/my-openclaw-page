@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T22:20:31.777Z
+// Last updated: 2026-09-24T22:32:57.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人氣小生電視城外拍戲現超長人龍水洩不通　粉絲震撼人牆逼爆街頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179876964362620928621435.jpeg/jL4xEfULhajjGM6-LiUVI3x25aP4DDVKhmCBSIZggUg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393330/%E6%88%90%E6%AF%85%E9%9B%BB%E8%A6%96%E5%9F%8E%E5%A4%96%E6%8B%8D-%E7%8B%A9%E8%AC%8A-%E8%B6%85%E9%95%B7%E4%BA%BA%E9%BE%8D%E6%B0%B4%E6%B4%A9%E4%B8%8D%E9%80%9A-%E7%B2%89%E7%B5%B2%E9%9C%87%E6%92%BC%E4%BA%BA%E7%89%86%E9%80%BC%E7%88%86%E8%A1%97%E9%A0%AD",
+    "timestamp": "2026-09-24T22:32:57.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人氣小生電視城外拍戲現超長人龍水洩不通　粉絲震撼人牆逼爆街頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179926130539368448356208.jpeg/OvqdaAZJl_X0vS26rkgR3JXg6jvZxZa0OA4xazgOMWs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393570/%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%A4%A7%E7%86%8A%E8%B2%93%E5%B0%87%E6%8A%B5%E4%BA%9E%E7%89%B9%E8%98%AD%E5%A4%A7-%E6%9C%AA%E4%BE%865%E5%B9%B4%E9%82%8010%E8%90%AC%E7%BE%8E%E5%9C%8B%E9%9D%92%E5%B9%B4%E8%B5%B4%E4%B8%AD%E5%9C%8B%E5%AD%B8%E7%BF%92",
     "timestamp": "2026-09-24T15:43:44.359Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "的士網約平台飛的將停運　Uber：飛的服務12月底整合至Uber App",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021836693923172352351684.jpeg/MIY33Ffnae3SuY9fIaxxPfKSYJn5pU8Ozw8VNM8PFTQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393566/%E7%9A%84%E5%A3%AB%E7%B6%B2%E7%B4%84%E5%B9%B3%E5%8F%B0%E9%A3%9B%E7%9A%84%E5%B0%87%E5%81%9C%E9%81%8B-uber-%E9%A3%9B%E7%9A%84%E6%9C%8D%E5%8B%9912%E6%9C%88%E5%BA%95%E6%95%B4%E5%90%88%E8%87%B3uber-app",
-    "timestamp": "2026-09-24T15:21:12.741Z",
     "strategy": ".content-card__main"
   }
 ];
