@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T02:35:08.137Z
+// Last updated: 2026-09-24T03:24:33.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "演員游本昌逝世享年93歲　｢濟公｣之後晚年再憑《繁花》｢爺叔｣爆紅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179752112569978880453071.png/3o50K5_VvDFY0rn1pNZtjRlF2YtJt2TIERvqPxEb6j8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60393257/%E6%BC%94%E5%93%A1%E6%B8%B8%E6%9C%AC%E6%98%8C%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B493%E6%AD%B2-%E6%BF%9F%E5%85%AC-%E4%B9%8B%E5%BE%8C%E6%99%9A%E5%B9%B4%E5%86%8D%E6%86%91-%E7%B9%81%E8%8A%B1-%E7%88%BA%E5%8F%94-%E7%88%86%E7%B4%85",
+    "timestamp": "2026-09-24T03:24:33.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "從中美關係｢壓艙石｣到遠離聚光燈　｢習特二會｣前消失的中國企業家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
     "timestamp": "2026-09-23T19:30:57.778Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
-    "timestamp": "2026-09-23T19:18:51.646Z",
     "strategy": ".content-card__main"
   }
 ];
