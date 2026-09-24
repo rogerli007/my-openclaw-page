@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T13:45:11.792Z
+// Last updated: 2026-09-24T14:22:24.206Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜漁護：5日共捉8狗已檢控一畜養人　有職員被咬傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179728225278889984697835.jpeg/WFILw6WFnqRTm-u1B5wZiehpJ-WG1rixAb4GqAG-Bqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393238/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%BC%81%E8%AD%B7-5%E6%97%A5%E5%85%B1%E6%8D%898%E7%8B%97%E5%B7%B2%E6%AA%A2%E6%8E%A7%E4%B8%80%E7%95%9C%E9%A4%8A%E4%BA%BA-%E6%9C%89%E8%81%B7%E5%93%A1%E8%A2%AB%E5%92%AC%E5%82%B7",
+    "timestamp": "2026-09-24T14:22:24.206Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一片看懂平陸運河｜727億工程如何破解技術、生態經濟三重難題？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178763323303268352410578.jpeg/EzprD4zEkxMltKDMfaEL5ap4QPxOdE4lmfuOFJn7jhQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393348/%E7%94%B7%E4%B9%98%E5%AE%A2%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82%E4%B8%8B%E9%AB%94%E8%A7%B8%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%85%BF-%E7%95%99%E9%80%8F%E6%98%8E%E6%B6%B2-%E5%AE%98%E6%8C%87%E5%95%8F%E9%A1%8C%E5%9C%A8%E5%BF%83%E9%AD%94%E5%9B%9A4%E5%91%A8",
     "timestamp": "2026-09-24T06:33:11.313Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG前成員勝利被控恐嚇　狂揮酒瓶揚言血洗餐廳「殺你不難」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179787469340545024871406.png/8DLDrnwE3OSptozGGCVjrFXMfheftyk6LbVoji21aI4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393323/bigbang%E5%89%8D%E6%88%90%E5%93%A1%E5%8B%9D%E5%88%A9%E8%A2%AB%E6%8E%A7%E6%81%90%E5%9A%87-%E7%8B%82%E6%8F%AE%E9%85%92%E7%93%B6%E6%8F%9A%E8%A8%80%E8%A1%80%E6%B4%97%E9%A4%90%E5%BB%B3-%E6%AE%BA%E4%BD%A0%E4%B8%8D%E9%9B%A3",
-    "timestamp": "2026-09-24T05:55:52.689Z",
     "strategy": ".content-card__main"
   }
 ];
