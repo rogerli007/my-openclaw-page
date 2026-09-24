@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T16:55:07.268Z
+// Last updated: 2026-09-24T17:19:39.567Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美特朗普舉行歡迎儀式　F-22等戰機飛白宮上空致敬｜圖輯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179955492022521856682501.jpeg/9-N_Os64kmsgGd0348szD6a3xQCdaY0-9YMGH_WDBh8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393579/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%89%E8%A1%8C%E6%AD%A1%E8%BF%8E%E5%84%80%E5%BC%8F-f-22%E7%AD%89%E6%88%B0%E6%A9%9F%E9%A3%9B%E7%99%BD%E5%AE%AE%E4%B8%8A%E7%A9%BA%E8%87%B4%E6%95%AC-%E5%9C%96%E8%BC%AF",
+    "timestamp": "2026-09-24T17:19:39.567Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "衛詩雅出席首映突叫停司儀點名影合照  驚覺唐文龍神秘嘉賓即尷尬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179862317332959232675809.png/DSUQJLqGudD1c0o2kxlqSuY4JbtLZGw3tn6JabZ-iWk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60393391/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1%E5%8C%AF%E6%BC%942026-%E6%94%BE%E9%80%BE3%E8%90%AC%E6%9E%9A-4%E5%A4%A7%E4%BA%AE%E9%BB%9E-%E9%99%84%E6%99%82%E9%96%93-18%E5%A4%A7%E6%8E%A8%E4%BB%8B%E8%A7%80%E8%B3%9E%E4%BD%8D",
     "timestamp": "2026-09-24T10:45:31.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李明慧指兒子連環出怪事驚現濕底褲　陳燿陽發聲明：本人親自購買",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179854863064895488947530.jpeg/gc41HN9_s330HxAQyCTEzsuYngTl070YnDbpJqo26SY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393493/%E6%9D%8E%E6%98%8E%E6%85%A7%E6%8C%87%E5%85%92%E5%AD%90%E9%80%A3%E7%92%B0%E5%87%BA%E6%80%AA%E4%BA%8B%E9%A9%9A%E7%8F%BE%E6%BF%95%E5%BA%95%E8%A4%B2-%E9%99%B3%E7%87%BF%E9%99%BD%E7%99%BC%E8%81%B2%E6%98%8E-%E6%9C%AC%E4%BA%BA%E8%A6%AA%E8%87%AA%E8%B3%BC%E8%B2%B7",
-    "timestamp": "2026-09-24T10:21:00.915Z",
     "strategy": ".content-card__main"
   }
 ];
