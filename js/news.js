@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T21:32:09.188Z
+// Last updated: 2026-09-24T21:43:12.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海麗邨24歲男捱打受傷　姊夫夥同黨共2人逞兇後乘車逃走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180025284452159488345792.jpeg/MCcyv7ICbs73SwdQ5TOxGkDJixyOBIonv4Oq4YWDquE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393601/%E6%B5%B7%E9%BA%97%E9%82%A824%E6%AD%B2%E7%94%B7%E6%8D%B1%E6%89%93%E5%8F%97%E5%82%B7-%E5%A7%8A%E5%A4%AB%E5%A4%A5%E5%90%8C%E9%BB%A8%E5%85%B12%E4%BA%BA%E9%80%9E%E5%85%87%E5%BE%8C%E4%B9%98%E8%BB%8A%E9%80%83%E8%B5%B0",
+    "timestamp": "2026-09-24T21:43:12.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海麗邨24歲男捱打受傷　姊夫夥同黨共2人逞兇後乘車逃走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179922014815653888749105.jpeg/IHVARr6h-_QgqMm9yaZcEAGArIvZSC8nX3f-eV93_nk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393542/%E9%97%9C%E5%AF%B6%E6%85%A7%E9%81%87%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E4%BD%8F%E9%99%A2%E4%B8%80%E5%80%8B%E6%9C%88%E6%89%8B%E7%95%996%E5%90%8B%E7%96%A4%E7%97%95-%E6%8F%90%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96%E5%82%B7%E5%BF%83%E6%B5%81%E6%B7%9A",
     "timestamp": "2026-09-24T14:57:07.314Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026田徑︱張灝軒100米搏盡仍出局極沮喪　陳佩琦晉準決賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179907105017040896986270.jpeg/Vot8LrlazzhtlwDYy8o1AXdstYk9UXbUNCbrrg4m664?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393551/%E4%BA%9E%E9%81%8B%E6%9C%832026%E7%94%B0%E5%BE%91-%E5%BC%B5%E7%81%9D%E8%BB%92100%E7%B1%B3%E6%90%8F%E7%9B%A1%E4%BB%8D%E5%87%BA%E5%B1%80%E6%A5%B5%E6%B2%AE%E5%96%AA-%E9%99%B3%E4%BD%A9%E7%90%A6%E6%99%89%E6%BA%96%E6%B1%BA%E8%B3%BD",
-    "timestamp": "2026-09-24T14:51:44.242Z",
     "strategy": ".content-card__main"
   }
 ];
