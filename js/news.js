@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T19:19:42.924Z
+// Last updated: 2026-09-24T19:30:32.989Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平與特朗普會談重點：促美堅持反對台獨　倡美伊重回對話軌道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179978712037199872840591.jpeg/L0yHsMOZOEb__r6-3gf1hb6YN6lohpMox03338dN998?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393590/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E8%AB%87%E9%87%8D%E9%BB%9E-%E4%BF%83%E7%BE%8E%E5%A0%85%E6%8C%81%E5%8F%8D%E5%B0%8D%E5%8F%B0%E7%8D%A8-%E5%80%A1%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%9B%9E%E5%B0%8D%E8%A9%B1%E8%BB%8C%E9%81%93",
+    "timestamp": "2026-09-24T19:30:32.989Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平與特朗普會談重點：促美堅持反對台獨　倡美伊重回對話軌道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3903398/org/2a2cf60a905ff6241a25e069266d6caf.jpg/AnSRWWoS0QHBTKMD3qrmC4l2503UZoEhu7veU7u73lM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393538/%E5%A3%81%E5%B1%8B%E6%8D%85%E8%82%9B%E6%A1%88%E6%87%B2%E6%95%99%E5%93%A1%E5%9B%9A3%E5%B9%B4-%E5%BE%8B%E6%94%BF%E5%8F%B8%E5%AB%8C%E8%BC%95-%E5%B0%B14%E8%A2%AB%E5%91%8A%E5%88%91%E6%9C%9F%E6%8F%90%E8%A6%86%E6%A0%B8",
     "timestamp": "2026-09-24T12:29:11.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美｜美軍跪地狂擦紅地氈迎賓畫面瘋傳　網民批丟架｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179879448753737728304658.png/ggakXQ8hunYsjpb6UcbOC1CCZbCVlaMzH1XcGB9V3Bg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393521/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%BE%8E%E8%BB%8D%E8%B7%AA%E5%9C%B0%E7%8B%82%E6%93%A6%E7%B4%85%E5%9C%B0%E6%B0%88%E8%BF%8E%E8%B3%93%E7%95%AB%E9%9D%A2%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91%E6%89%B9%E4%B8%9F%E6%9E%B6-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-24T11:54:45.199Z",
     "strategy": ".content-card__main"
   }
 ];
