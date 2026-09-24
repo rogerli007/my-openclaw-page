@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T09:47:15.079Z
+// Last updated: 2026-09-24T09:55:17.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長隆直擊｜智元推具身智能項目　逾300部人形機械人進駐樂園",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179847054319423488643572.jpeg/Zy0f4wlGZLnwFbDwP06i-f4fEnOhCuKXZU_T3mVP094?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393476/%E9%95%B7%E9%9A%86%E7%9B%B4%E6%93%8A-%E6%99%BA%E5%85%83%E6%8E%A8%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E9%A0%85%E7%9B%AE-%E9%80%BE300%E9%83%A8%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%80%B2%E9%A7%90%E6%A8%82%E5%9C%92",
+    "timestamp": "2026-09-24T09:55:17.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美｜魯比奧：對台軍售需權衡美國自身需求及軍工產能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179712250005426176059614.jpeg/8LyalwcECfte5x41g2rQ-IEBxuWb4QH_7NOp8-zTqfM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393199/%E8%BF%94%E5%B7%A5%E6%B3%A8%E6%84%8F-%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E6%8B%96%E9%A0%AD%E8%B2%A8%E7%89%A9%E5%82%BE%E7%80%89%E5%A3%93%E7%A7%81%E5%AE%B6%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7",
     "timestamp": "2026-09-24T00:53:35.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會｜瑞銀︰有望鞏固過去一年中美關係相對穩定的局面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179693040886091776726583.jpeg/EnhHWpPgvtK_u-t_IcQGMYO59vnHeMkhHyRLJR8kSyU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393194/%E7%BF%92%E7%89%B9%E6%9C%83-%E7%91%9E%E9%8A%80-%E6%9C%89%E6%9C%9B%E9%9E%8F%E5%9B%BA%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E7%9B%B8%E5%B0%8D%E7%A9%A9%E5%AE%9A%E7%9A%84%E5%B1%80%E9%9D%A2",
-    "timestamp": "2026-09-23T23:56:38.348Z",
     "strategy": ".content-card__main"
   }
 ];
