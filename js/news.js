@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T11:45:40.547Z
+// Last updated: 2026-09-24T11:54:45.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美｜美軍跪地狂擦紅地氈迎賓畫面瘋傳　網民批丟架｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179879448753737728304658.png/ggakXQ8hunYsjpb6UcbOC1CCZbCVlaMzH1XcGB9V3Bg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393521/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%BE%8E%E8%BB%8D%E8%B7%AA%E5%9C%B0%E7%8B%82%E6%93%A6%E7%B4%85%E5%9C%B0%E6%B0%88%E8%BF%8E%E8%B3%93%E7%95%AB%E9%9D%A2%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91%E6%89%B9%E4%B8%9F%E6%9E%B6-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-24T11:54:45.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3大星座分手果斷不糾纏　獅子自尊心強　寧願忍受痛苦也絕不回頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179497312733368320278506.jpeg/UF44c-5pB-cOflc-1b6sxWrV46s83hW7kCpw25AqcNs",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60374974/%E7%94%A8ai%E5%B0%B1%E8%83%BD-%E6%85%B3%E9%8C%A2%E6%85%B3%E6%99%82%E9%96%93-%E4%B8%80%E5%A0%B4%E8%B7%A8%E6%99%82%E7%A9%BA%E5%BB%A3%E5%91%8A%E5%B1%95%E7%8F%BE%E8%A1%8C%E9%8A%B7%E4%BA%BA%E5%89%B5%E6%84%8F%E7%9A%84%E5%83%B9%E5%80%BC",
     "timestamp": "2026-09-24T04:24:25.023Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《繁花》「爺叔」游本昌北京病逝　剛過93歲生日曾獲王家衞盛讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179754831846313984275931.jpeg/NT6hrIFfsgVw9OYUia8EwQ4-pqQaIl4TbAByHWwAch0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393269/%E7%B9%81%E8%8A%B1-%E7%88%BA%E5%8F%94-%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%8C%97%E4%BA%AC%E7%97%85%E9%80%9D-%E5%89%9B%E9%81%8E93%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9B%BE%E7%8D%B2%E7%8E%8B%E5%AE%B6%E8%A1%9E%E7%9B%9B%E8%AE%9A",
-    "timestamp": "2026-09-24T03:47:33.850Z",
     "strategy": ".content-card__main"
   }
 ];
