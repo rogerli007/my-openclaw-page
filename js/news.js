@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T18:25:10.759Z
+// Last updated: 2026-09-24T18:57:21.678Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平與特朗普會談重點：促美堅持反對台獨　倡美伊重回對話軌道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179978712037199872840591.jpeg/L0yHsMOZOEb__r6-3gf1hb6YN6lohpMox03338dN998?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393590/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E8%AB%87%E9%87%8D%E9%BB%9E-%E4%BF%83%E7%BE%8E%E5%A0%85%E6%8C%81%E5%8F%8D%E5%B0%8D%E5%8F%B0%E7%8D%A8-%E5%80%A1%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%9B%9E%E5%B0%8D%E8%A9%B1%E8%BB%8C%E9%81%93",
+    "timestamp": "2026-09-24T18:57:21.678Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮公布國宴菜單　包含黃南瓜濃湯、芝麻脆皮海鱸魚等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174027935410032640830169.jpeg/82F9FhC5T_TFYCAPSLKERovH0ZBNpum1FgPe_hYD3v4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60387939/3%E5%A4%A7%E6%98%9F%E5%BA%A7%E5%88%86%E6%89%8B%E6%9E%9C%E6%96%B7%E4%B8%8D%E7%B3%BE%E7%BA%8F-%E7%8D%85%E5%AD%90%E8%87%AA%E5%B0%8A%E5%BF%83%E5%BC%B7-%E5%AF%A7%E9%A1%98%E5%BF%8D%E5%8F%97%E7%97%9B%E8%8B%A6%E4%B9%9F%E7%B5%95%E4%B8%8D%E5%9B%9E%E9%A0%AD",
     "timestamp": "2026-09-24T11:45:40.547Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "服務供應商董事涉教唆前貿發局經理泄招標機密罪成　下月14日判刑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085926601574584320506423.jpeg/62mFzC3HMUG8sLnYxcP-HXIzjhSGFIS4g4SFlYOEhZU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393524/%E6%9C%8D%E5%8B%99%E4%BE%9B%E6%87%89%E5%95%86%E8%91%A3%E4%BA%8B%E6%B6%89%E6%95%99%E5%94%86%E5%89%8D%E8%B2%BF%E7%99%BC%E5%B1%80%E7%B6%93%E7%90%86%E6%B3%84%E6%8B%9B%E6%A8%99%E6%A9%9F%E5%AF%86%E7%BD%AA%E6%88%90-%E4%B8%8B%E6%9C%8814%E6%97%A5%E5%88%A4%E5%88%91",
-    "timestamp": "2026-09-24T11:34:29.100Z",
     "strategy": ".content-card__main"
   }
 ];
