@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-23T23:56:38.348Z
+// Last updated: 2026-09-24T00:53:35.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "返工注意｜吐露港公路兩車相撞　拖頭貨物傾瀉壓私家車　司機受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179712250005426176059614.jpeg/8LyalwcECfte5x41g2rQ-IEBxuWb4QH_7NOp8-zTqfM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393199/%E8%BF%94%E5%B7%A5%E6%B3%A8%E6%84%8F-%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E6%8B%96%E9%A0%AD%E8%B2%A8%E7%89%A9%E5%82%BE%E7%80%89%E5%A3%93%E7%A7%81%E5%AE%B6%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-09-24T00:53:35.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會｜瑞銀︰有望鞏固過去一年中美關係相對穩定的局面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179560822943256576695308.jpeg/QgOmlXRnbWA_MAwc02sU-g0yN0svf173TheGG04Xhhs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393174/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D-%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%A6%8B%E4%BD%95%E7%AB%8B%E5%B3%B0-%E5%B0%8D%E9%81%94%E6%9B%B4%E5%A4%A7%E5%8D%94%E8%AD%B0%E6%8C%81%E9%96%8B%E6%94%BE%E6%85%8B%E5%BA%A6",
     "timestamp": "2026-09-23T17:54:41.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美晤特朗普前　貝森特見何立峰：對達更大協議持開放態度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179560822943256576695308.jpeg/QgOmlXRnbWA_MAwc02sU-g0yN0svf173TheGG04Xhhs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393174/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D-%E8%B2%9D%E6%A3%AE%E7%89%B9%E8%A6%8B%E4%BD%95%E7%AB%8B%E5%B3%B0-%E5%B0%8D%E9%81%94%E6%9B%B4%E5%A4%A7%E5%8D%94%E8%AD%B0%E6%8C%81%E9%96%8B%E6%94%BE%E6%85%8B%E5%BA%A6",
-    "timestamp": "2026-09-23T17:46:09.426Z",
     "strategy": ".content-card__main"
   }
 ];
