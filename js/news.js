@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T19:42:02.034Z
+// Last updated: 2026-09-24T20:21:38.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當勞道鹹水管爆裂　鹹水供應受影響　預計今早恢復供水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179998438880710656410692.jpeg/qw0R6DyzF83Ij2MGgNlDdeqdDI9p9aaxLiAhzhQgIc4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393595/%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%81%93%E9%B9%B9%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E9%B9%B9%E6%B0%B4%E4%BE%9B%E6%87%89%E5%8F%97%E5%BD%B1%E9%9F%BF-%E9%A0%90%E8%A8%88%E4%BB%8A%E6%97%A9%E6%81%A2%E5%BE%A9%E4%BE%9B%E6%B0%B4",
+    "timestamp": "2026-09-24T20:21:38.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平與特朗普會談重點：促美堅持反對台獨　倡美伊重回對話軌道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179886507008200704391684.jpeg/84VIW-ulvFpoJINu-BcDy-606xJZ1S3MrbegH623oB8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393537/%E5%91%A8%E5%AE%B6%E8%94%9A%E7%88%86%E6%97%A5%E5%B8%B8%E9%81%AD%E8%80%81%E5%85%AC%E7%B3%9F%E8%B3%AA%E7%9B%BC%E6%8B%8D%E6%88%B2%E8%A6%86%E7%81%BC-%E8%A2%AB%E5%95%8F%E9%8D%BE%E9%BA%97%E6%B7%87%E8%BF%91%E6%B3%81%E6%B4%AA%E5%A4%A9%E6%98%8E%E4%BB%A3%E7%AD%94",
     "timestamp": "2026-09-24T13:20:15.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026劍擊｜方凱申首摘個人獎牌　堅持不放棄總有收穫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179886232939794432254690.jpeg/suCKmsFdJTDJpMjCPQ7jyL8vaqoh7X8rSZNypEmTcqQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393462/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E6%96%B9%E5%87%B1%E7%94%B3%E9%A6%96%E6%91%98%E5%80%8B%E4%BA%BA%E7%8D%8E%E7%89%8C-%E5%A0%85%E6%8C%81%E4%B8%8D%E6%94%BE%E6%A3%84%E7%B8%BD%E6%9C%89%E6%94%B6%E7%A9%AB",
-    "timestamp": "2026-09-24T12:53:47.047Z",
     "strategy": ".content-card__main"
   }
 ];
