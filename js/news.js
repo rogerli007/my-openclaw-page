@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T03:24:33.580Z
+// Last updated: 2026-09-24T03:47:33.850Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《繁花》「爺叔」游本昌北京病逝　剛過93歲生日曾獲王家衞盛讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179754831846313984275931.jpeg/NT6hrIFfsgVw9OYUia8EwQ4-pqQaIl4TbAByHWwAch0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393269/%E7%B9%81%E8%8A%B1-%E7%88%BA%E5%8F%94-%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%8C%97%E4%BA%AC%E7%97%85%E9%80%9D-%E5%89%9B%E9%81%8E93%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9B%BE%E7%8D%B2%E7%8E%8B%E5%AE%B6%E8%A1%9E%E7%9B%9B%E8%AE%9A",
+    "timestamp": "2026-09-24T03:47:33.850Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "演員游本昌逝世享年93歲　｢濟公｣之後晚年再憑《繁花》｢爺叔｣爆紅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
     "timestamp": "2026-09-23T19:44:05.827Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
-    "timestamp": "2026-09-23T19:30:57.778Z",
     "strategy": ".content-card__main"
   }
 ];
