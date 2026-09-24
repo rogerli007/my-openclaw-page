@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T04:24:25.023Z
+// Last updated: 2026-09-24T04:47:19.638Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "的士「網紅」超速危駕罪成　判囚6星期停牌1年　須上駕駛改進課程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179768362805235712853102.jpeg/soGU7iafIA4Pat_dObmSgtxC8ti5SA9cImE0iiJhNIo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393305/%E7%9A%84%E5%A3%AB-%E7%B6%B2%E7%B4%85-%E8%B6%85%E9%80%9F%E5%8D%B1%E9%A7%95%E7%BD%AA%E6%88%90-%E5%88%A4%E5%9B%9A6%E6%98%9F%E6%9C%9F%E5%81%9C%E7%89%8C1%E5%B9%B4-%E9%A0%88%E4%B8%8A%E9%A7%95%E9%A7%9B%E6%94%B9%E9%80%B2%E8%AA%B2%E7%A8%8B",
+    "timestamp": "2026-09-24T04:47:19.638Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "用AI就能「慳錢慳時間」？一場跨時空廣告展現行銷人創意的價值",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179647611443875840917630.jpeg/VFBOGnwwA7nPkpEsY_tfyJJ8bTTJffkT8-ONdfPjjXU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393184/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E9%96%80%E7%88%86%E7%AB%8A-28%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-70%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-09-23T20:55:35.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石硤尾邨單位遭撬門爆竊　28歲女失逾$70萬財物　包括勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179647611443875840917630.jpeg/VFBOGnwwA7nPkpEsY_tfyJJ8bTTJffkT8-ONdfPjjXU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393184/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E9%96%80%E7%88%86%E7%AB%8A-28%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-70%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-09-23T20:42:33.241Z",
     "strategy": ".content-card__main"
   }
 ];
