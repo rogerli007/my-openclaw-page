@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T11:54:45.199Z
+// Last updated: 2026-09-24T12:29:11.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "壁屋捅肛案懲教員囚3年　律政司嫌輕　就4被告刑期提覆核",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3903398/org/2a2cf60a905ff6241a25e069266d6caf.jpg/AnSRWWoS0QHBTKMD3qrmC4l2503UZoEhu7veU7u73lM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393538/%E5%A3%81%E5%B1%8B%E6%8D%85%E8%82%9B%E6%A1%88%E6%87%B2%E6%95%99%E5%93%A1%E5%9B%9A3%E5%B9%B4-%E5%BE%8B%E6%94%BF%E5%8F%B8%E5%AB%8C%E8%BC%95-%E5%B0%B14%E8%A2%AB%E5%91%8A%E5%88%91%E6%9C%9F%E6%8F%90%E8%A6%86%E6%A0%B8",
+    "timestamp": "2026-09-24T12:29:11.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美｜美軍跪地狂擦紅地氈迎賓畫面瘋傳　網民批丟架｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179768362805235712853102.jpeg/soGU7iafIA4Pat_dObmSgtxC8ti5SA9cImE0iiJhNIo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393305/%E7%9A%84%E5%A3%AB-%E7%B6%B2%E7%B4%85-%E8%B6%85%E9%80%9F%E5%8D%B1%E9%A7%95%E7%BD%AA%E6%88%90-%E5%88%A4%E5%9B%9A6%E6%98%9F%E6%9C%9F%E5%81%9C%E7%89%8C1%E5%B9%B4-%E9%A0%88%E4%B8%8A%E9%A7%95%E9%A7%9B%E6%94%B9%E9%80%B2%E8%AA%B2%E7%A8%8B",
     "timestamp": "2026-09-24T04:47:19.638Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "用AI就能「慳錢慳時間」？一場跨時空廣告展現行銷人創意的價值",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179497312733368320278506.jpeg/UF44c-5pB-cOflc-1b6sxWrV46s83hW7kCpw25AqcNs",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60374974/%E7%94%A8ai%E5%B0%B1%E8%83%BD-%E6%85%B3%E9%8C%A2%E6%85%B3%E6%99%82%E9%96%93-%E4%B8%80%E5%A0%B4%E8%B7%A8%E6%99%82%E7%A9%BA%E5%BB%A3%E5%91%8A%E5%B1%95%E7%8F%BE%E8%A1%8C%E9%8A%B7%E4%BA%BA%E5%89%B5%E6%84%8F%E7%9A%84%E5%83%B9%E5%80%BC",
-    "timestamp": "2026-09-24T04:24:25.023Z",
     "strategy": ".content-card__main"
   }
 ];
