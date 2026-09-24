@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T15:21:12.741Z
+// Last updated: 2026-09-24T15:43:44.359Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平：大熊貓將抵亞特蘭大   未來5年邀10萬美國青年赴中國學習",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179926130539368448356208.jpeg/OvqdaAZJl_X0vS26rkgR3JXg6jvZxZa0OA4xazgOMWs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393570/%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%A4%A7%E7%86%8A%E8%B2%93%E5%B0%87%E6%8A%B5%E4%BA%9E%E7%89%B9%E8%98%AD%E5%A4%A7-%E6%9C%AA%E4%BE%865%E5%B9%B4%E9%82%8010%E8%90%AC%E7%BE%8E%E5%9C%8B%E9%9D%92%E5%B9%B4%E8%B5%B4%E4%B8%AD%E5%9C%8B%E5%AD%B8%E7%BF%92",
+    "timestamp": "2026-09-24T15:43:44.359Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "的士網約平台飛的將停運　Uber：飛的服務12月底整合至Uber App",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179827094096449536859037.jpeg/hs5oNIT67aN5bkug8R2KDqpBJbK8iyF4DYfZew2H2Xs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393418/%E7%B2%89%E5%B6%BA%E9%AB%98%E7%90%83%E5%A0%B4%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E6%A1%88-%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E4%B8%8D%E4%B8%8A%E8%A8%B4-%E5%B0%87%E6%AA%A2%E8%A6%96%E5%85%AC%E5%B1%8B%E7%99%BC%E5%B1%95%E6%9C%AA%E4%BE%86%E8%B7%AF%E5%90%91",
     "timestamp": "2026-09-24T08:28:01.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國多次為中國領導人設國宴　奧巴馬為習近平安排龍蝦與紹興酒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179820318424829952238716.jpeg/_nrk7fL3qX7WS08dHbt3AMA0Iq_UsFSWX3ivEF94rxA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393375/%E7%BE%8E%E5%9C%8B%E5%A4%9A%E6%AC%A1%E7%82%BA%E4%B8%AD%E5%9C%8B%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%A8%AD%E5%9C%8B%E5%AE%B4-%E5%A5%A7%E5%B7%B4%E9%A6%AC%E7%82%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E5%AE%89%E6%8E%92%E9%BE%8D%E8%9D%A6%E8%88%87%E7%B4%B9%E8%88%88%E9%85%92",
-    "timestamp": "2026-09-24T07:56:09.715Z",
     "strategy": ".content-card__main"
   }
 ];
