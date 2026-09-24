@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T12:53:47.047Z
+// Last updated: 2026-09-24T13:20:15.417Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周家蔚爆日常遭老公糟質盼拍戲覆灼　被問鍾麗淇近況洪天明代答",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179886507008200704391684.jpeg/84VIW-ulvFpoJINu-BcDy-606xJZ1S3MrbegH623oB8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393537/%E5%91%A8%E5%AE%B6%E8%94%9A%E7%88%86%E6%97%A5%E5%B8%B8%E9%81%AD%E8%80%81%E5%85%AC%E7%B3%9F%E8%B3%AA%E7%9B%BC%E6%8B%8D%E6%88%B2%E8%A6%86%E7%81%BC-%E8%A2%AB%E5%95%8F%E9%8D%BE%E9%BA%97%E6%B7%87%E8%BF%91%E6%B3%81%E6%B4%AA%E5%A4%A9%E6%98%8E%E4%BB%A3%E7%AD%94",
+    "timestamp": "2026-09-24T13:20:15.417Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026劍擊｜方凱申首摘個人獎牌　堅持不放棄總有收穫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176935731747098624740821.jpeg/jFloc5zTDqumBF0Baps3rvn-1mqQB065K9dGHCvXRhw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60390652/sony%E6%8E%A8%E5%87%BA%E5%85%A5%E9%96%804k-oled%E9%9B%BB%E8%A6%96%E7%B3%BB%E5%88%97bravia-6-%E9%A6%96%E6%AC%A1%E9%85%8D%E5%82%994%E5%80%8Bhdmi2-1%E9%80%A3%E6%8E%A5%E5%9F%A0",
     "timestamp": "2026-09-24T05:44:24.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美｜「神秘專機」對決空軍一號　中美元首座駕有何差異？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179771324738834432534691.jpeg/mI1aScuvY3-X8oy31LfPa1FaXfEVPMBJr7JQyq-yUMo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393273/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%A5%9E%E7%A7%98%E5%B0%88%E6%A9%9F-%E5%B0%8D%E6%B1%BA%E7%A9%BA%E8%BB%8D%E4%B8%80%E8%99%9F-%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%BA%A7%E9%A7%95%E6%9C%89%E4%BD%95%E5%B7%AE%E7%95%B0",
-    "timestamp": "2026-09-24T04:58:02.275Z",
     "strategy": ".content-card__main"
   }
 ];
