@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T02:04:00.011Z
+// Last updated: 2026-09-24T02:35:08.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "從中美關係｢壓艙石｣到遠離聚光燈　｢習特二會｣前消失的中國企業家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179735945964949504542608.png/5rG0jLMzMWp1BxqaHMdDS6zOFAPln-VF55Q97ueUPe4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60393225/%E5%BE%9E%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82-%E5%A3%93%E8%89%99%E7%9F%B3-%E5%88%B0%E9%81%A0%E9%9B%A2%E8%81%9A%E5%85%89%E7%87%88-%E7%BF%92%E7%89%B9%E4%BA%8C%E6%9C%83-%E5%89%8D%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E5%AE%B6",
+    "timestamp": "2026-09-24T02:35:08.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜大埔富善邨女子墮樓　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
     "timestamp": "2026-09-23T19:18:51.646Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超級厄爾尼諾恐致45.1萬人死　美國研究：全球熱浪日數增44%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175820005527261184216340.jpeg/I5yU6vIFXkGtNbW3rLHeJjKikS7Bfy7mBkQFFwZEBRc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393172/%E8%B6%85%E7%B4%9A%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E6%81%90%E8%87%B445-1%E8%90%AC%E4%BA%BA%E6%AD%BB-%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6-%E5%85%A8%E7%90%83%E7%86%B1%E6%B5%AA%E6%97%A5%E6%95%B8%E5%A2%9E44",
-    "timestamp": "2026-09-23T19:01:37.128Z",
     "strategy": ".content-card__main"
   }
 ];
