@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T17:19:39.567Z
+// Last updated: 2026-09-24T17:48:15.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水彩園邨55歲男上門探朋友突暈倒　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179966823546753024629031.jpeg/u0Tij1luKZ0FgTkpHvEXPhC0ep0wadl7Z_Xd_V313f0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393583/%E4%B8%8A%E6%B0%B4%E5%BD%A9%E5%9C%92%E9%82%A855%E6%AD%B2%E7%94%B7%E4%B8%8A%E9%96%80%E6%8E%A2%E6%9C%8B%E5%8F%8B%E7%AA%81%E6%9A%88%E5%80%92-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-24T17:48:15.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美特朗普舉行歡迎儀式　F-22等戰機飛白宮上空致敬｜圖輯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179858844256309248021538.png/0R8d27wkIbhUjkStI9IESnMVZqUwW9VMLkWmFy5Fphc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393399/93%E6%AD%B2-%E6%BF%9F%E5%85%AC-%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%97%85%E9%80%9D-%E7%B9%81%E8%8A%B1-%E7%88%BA%E5%8F%94%E6%88%90%E7%B5%B6%E9%9F%BF-%E9%99%B3%E6%B5%A9%E6%B0%91%E7%99%BC%E6%96%87%E6%82%BC%E5%BF%B5",
     "timestamp": "2026-09-24T10:54:33.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶煙花匯演2026｜放逾3萬枚+4大亮點！ 附時間＋18大推介觀賞位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179862317332959232675809.png/DSUQJLqGudD1c0o2kxlqSuY4JbtLZGw3tn6JabZ-iWk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60393391/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1%E5%8C%AF%E6%BC%942026-%E6%94%BE%E9%80%BE3%E8%90%AC%E6%9E%9A-4%E5%A4%A7%E4%BA%AE%E9%BB%9E-%E9%99%84%E6%99%82%E9%96%93-18%E5%A4%A7%E6%8E%A8%E4%BB%8B%E8%A7%80%E8%B3%9E%E4%BD%8D",
-    "timestamp": "2026-09-24T10:45:31.004Z",
     "strategy": ".content-card__main"
   }
 ];
