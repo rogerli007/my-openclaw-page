@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T11:24:56.205Z
+// Last updated: 2026-09-24T11:34:29.100Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "服務供應商董事涉教唆前貿發局經理泄招標機密罪成　下月14日判刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085926601574584320506423.jpeg/62mFzC3HMUG8sLnYxcP-HXIzjhSGFIS4g4SFlYOEhZU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393524/%E6%9C%8D%E5%8B%99%E4%BE%9B%E6%87%89%E5%95%86%E8%91%A3%E4%BA%8B%E6%B6%89%E6%95%99%E5%94%86%E5%89%8D%E8%B2%BF%E7%99%BC%E5%B1%80%E7%B6%93%E7%90%86%E6%B3%84%E6%8B%9B%E6%A8%99%E6%A9%9F%E5%AF%86%E7%BD%AA%E6%88%90-%E4%B8%8B%E6%9C%8814%E6%97%A5%E5%88%A4%E5%88%91",
+    "timestamp": "2026-09-24T11:34:29.100Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "99歲朱慶祥神級拉琴籌百萬　衝擊世界紀錄「最年長職業小提琴手」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179752112569978880453071.png/3o50K5_VvDFY0rn1pNZtjRlF2YtJt2TIERvqPxEb6j8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60393257/%E6%BC%94%E5%93%A1%E6%B8%B8%E6%9C%AC%E6%98%8C%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B493%E6%AD%B2-%E6%BF%9F%E5%85%AC-%E4%B9%8B%E5%BE%8C%E6%99%9A%E5%B9%B4%E5%86%8D%E6%86%91-%E7%B9%81%E8%8A%B1-%E7%88%BA%E5%8F%94-%E7%88%86%E7%B4%85",
     "timestamp": "2026-09-24T03:24:33.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "從中美關係｢壓艙石｣到遠離聚光燈　｢習特二會｣前消失的中國企業家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179735945964949504542608.png/5rG0jLMzMWp1BxqaHMdDS6zOFAPln-VF55Q97ueUPe4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60393225/%E5%BE%9E%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82-%E5%A3%93%E8%89%99%E7%9F%B3-%E5%88%B0%E9%81%A0%E9%9B%A2%E8%81%9A%E5%85%89%E7%87%88-%E7%BF%92%E7%89%B9%E4%BA%8C%E6%9C%83-%E5%89%8D%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E5%AE%B6",
-    "timestamp": "2026-09-24T02:35:08.137Z",
     "strategy": ".content-card__main"
   }
 ];
