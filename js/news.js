@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T07:46:36.828Z
+// Last updated: 2026-09-24T07:56:09.715Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國多次為中國領導人設國宴　奧巴馬為習近平安排龍蝦與紹興酒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179820318424829952238716.jpeg/_nrk7fL3qX7WS08dHbt3AMA0Iq_UsFSWX3ivEF94rxA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393375/%E7%BE%8E%E5%9C%8B%E5%A4%9A%E6%AC%A1%E7%82%BA%E4%B8%AD%E5%9C%8B%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%A8%AD%E5%9C%8B%E5%AE%B4-%E5%A5%A7%E5%B7%B4%E9%A6%AC%E7%82%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E5%AE%89%E6%8E%92%E9%BE%8D%E8%9D%A6%E8%88%87%E7%B4%B9%E8%88%88%E9%85%92",
+    "timestamp": "2026-09-24T07:56:09.715Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Canada Goose中秋大澳探索之旅  談善言梁仲恆體驗百年智慧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179675816599359488891073.jpeg/FPIJ5rMI9JfoyidE3zJD5zX2hM4v3ZJ5Y3GxRWNxsUU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393189/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9D%BD%E9%81%9511%E5%B9%B4%E5%86%8D%E8%A8%AA%E7%BE%8E-%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%85%E5%9C%B0%E6%AF%AF-%E7%A6%AE%E7%82%AE-%E6%88%B0%E6%A9%9F-%E9%AB%98%E8%A6%8F%E6%A0%BC-%E8%BF%8E%E8%B3%93",
     "timestamp": "2026-09-23T23:17:15.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝森特：中美同意延長釜山貿易休戰協議至2027年1月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179494201654513664605781.jpeg/5achLDHhMezlbAjN5u0SIFCWnf4x7M4S0mcnydJnJ8k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393188/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BB%B6%E9%95%B7%E9%87%9C%E5%B1%B1%E8%B2%BF%E6%98%93%E4%BC%91%E6%88%B0%E5%8D%94%E8%AD%B0%E8%87%B32027%E5%B9%B41%E6%9C%88",
-    "timestamp": "2026-09-23T22:54:21.877Z",
     "strategy": ".content-card__main"
   }
 ];
