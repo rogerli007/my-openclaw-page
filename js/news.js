@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T07:56:09.715Z
+// Last updated: 2026-09-24T08:28:01.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺高球場司法覆核案　政府宣布不上訴　將檢視公屋發展未來路向",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179827094096449536859037.jpeg/hs5oNIT67aN5bkug8R2KDqpBJbK8iyF4DYfZew2H2Xs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393418/%E7%B2%89%E5%B6%BA%E9%AB%98%E7%90%83%E5%A0%B4%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E6%A1%88-%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E4%B8%8D%E4%B8%8A%E8%A8%B4-%E5%B0%87%E6%AA%A2%E8%A6%96%E5%85%AC%E5%B1%8B%E7%99%BC%E5%B1%95%E6%9C%AA%E4%BE%86%E8%B7%AF%E5%90%91",
+    "timestamp": "2026-09-24T08:28:01.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國多次為中國領導人設國宴　奧巴馬為習近平安排龍蝦與紹興酒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179550565282091008264039.jpeg/Tzp_SqB6xiBpG0pj6ctb3KbNQnLfPUiqp0D68adA-vE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393185/%E8%81%AF%E9%82%A6%E6%B3%95%E5%AE%98%E8%B3%AA%E7%96%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BD%E5%AE%AE%E5%AA%92%E9%AB%94%E7%A6%81%E4%BB%A4-%E6%8C%87%E6%88%96%E9%81%95%E6%B3%95%E5%BE%8B%E5%85%88%E4%BE%8B",
     "timestamp": "2026-09-23T23:27:29.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平睽違11年再訪美　特朗普紅地毯、禮炮、戰機「高規格」迎賓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179675816599359488891073.jpeg/FPIJ5rMI9JfoyidE3zJD5zX2hM4v3ZJ5Y3GxRWNxsUU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393189/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9D%BD%E9%81%9511%E5%B9%B4%E5%86%8D%E8%A8%AA%E7%BE%8E-%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%85%E5%9C%B0%E6%AF%AF-%E7%A6%AE%E7%82%AE-%E6%88%B0%E6%A9%9F-%E9%AB%98%E8%A6%8F%E6%A0%BC-%E8%BF%8E%E8%B3%93",
-    "timestamp": "2026-09-23T23:17:15.281Z",
     "strategy": ".content-card__main"
   }
 ];
