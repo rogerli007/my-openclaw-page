@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T05:55:52.689Z
+// Last updated: 2026-09-24T06:33:11.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男乘客港鐵車廂下體觸女子大腿　留透明液　官指問題在心魔囚4周",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178763323303268352410578.jpeg/EzprD4zEkxMltKDMfaEL5ap4QPxOdE4lmfuOFJn7jhQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393348/%E7%94%B7%E4%B9%98%E5%AE%A2%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82%E4%B8%8B%E9%AB%94%E8%A7%B8%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%85%BF-%E7%95%99%E9%80%8F%E6%98%8E%E6%B6%B2-%E5%AE%98%E6%8C%87%E5%95%8F%E9%A1%8C%E5%9C%A8%E5%BF%83%E9%AD%94%E5%9B%9A4%E5%91%A8",
+    "timestamp": "2026-09-24T06:33:11.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG前成員勝利被控恐嚇　狂揮酒瓶揚言血洗餐廳「殺你不難」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179500015626752000427106.jpeg/hS7A-KEGoQVvdj7BGeclHD5iqC0g_RFzFmQckhZkHJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60392936/%E7%94%84%E5%BF%97%E5%BC%B7%E9%81%BA%E5%AD%80%E7%8F%BE%E8%BA%AB%E5%8A%89%E9%8C%AB%E8%B3%A2%E7%94%9F%E6%97%A5%E5%AE%B4-%E8%80%81%E5%8F%8B%E9%87%8D%E8%81%9A%E6%B7%9A%E6%B5%81%E6%BB%BF%E9%9D%A2-%E6%9B%BF%E4%BD%A0%E8%B5%B0%E6%9C%AA%E5%AE%8C%E7%9A%84%E8%B7%AF",
     "timestamp": "2026-09-23T22:20:14.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石硤尾邨單位遭撬門爆竊　28歲女失逾$70萬財物　包括勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179647611443875840917630.jpeg/VFBOGnwwA7nPkpEsY_tfyJJ8bTTJffkT8-ONdfPjjXU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393184/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%96%AE%E4%BD%8D%E9%81%AD%E6%92%AC%E9%96%80%E7%88%86%E7%AB%8A-28%E6%AD%B2%E5%A5%B3%E5%A4%B1%E9%80%BE-70%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-09-23T21:53:33.220Z",
     "strategy": ".content-card__main"
   }
 ];
