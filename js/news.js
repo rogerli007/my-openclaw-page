@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T11:34:29.100Z
+// Last updated: 2026-09-24T11:45:40.547Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "3大星座分手果斷不糾纏　獅子自尊心強　寧願忍受痛苦也絕不回頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174027935410032640830169.jpeg/82F9FhC5T_TFYCAPSLKERovH0ZBNpum1FgPe_hYD3v4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60387939/3%E5%A4%A7%E6%98%9F%E5%BA%A7%E5%88%86%E6%89%8B%E6%9E%9C%E6%96%B7%E4%B8%8D%E7%B3%BE%E7%BA%8F-%E7%8D%85%E5%AD%90%E8%87%AA%E5%B0%8A%E5%BF%83%E5%BC%B7-%E5%AF%A7%E9%A1%98%E5%BF%8D%E5%8F%97%E7%97%9B%E8%8B%A6%E4%B9%9F%E7%B5%95%E4%B8%8D%E5%9B%9E%E9%A0%AD",
+    "timestamp": "2026-09-24T11:45:40.547Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "服務供應商董事涉教唆前貿發局經理泄招標機密罪成　下月14日判刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179754831846313984275931.jpeg/NT6hrIFfsgVw9OYUia8EwQ4-pqQaIl4TbAByHWwAch0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393269/%E7%B9%81%E8%8A%B1-%E7%88%BA%E5%8F%94-%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%8C%97%E4%BA%AC%E7%97%85%E9%80%9D-%E5%89%9B%E9%81%8E93%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9B%BE%E7%8D%B2%E7%8E%8B%E5%AE%B6%E8%A1%9E%E7%9B%9B%E8%AE%9A",
     "timestamp": "2026-09-24T03:47:33.850Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "演員游本昌逝世享年93歲　｢濟公｣之後晚年再憑《繁花》｢爺叔｣爆紅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179752112569978880453071.png/3o50K5_VvDFY0rn1pNZtjRlF2YtJt2TIERvqPxEb6j8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60393257/%E6%BC%94%E5%93%A1%E6%B8%B8%E6%9C%AC%E6%98%8C%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B493%E6%AD%B2-%E6%BF%9F%E5%85%AC-%E4%B9%8B%E5%BE%8C%E6%99%9A%E5%B9%B4%E5%86%8D%E6%86%91-%E7%B9%81%E8%8A%B1-%E7%88%BA%E5%8F%94-%E7%88%86%E7%B4%85",
-    "timestamp": "2026-09-24T03:24:33.580Z",
     "strategy": ".content-card__main"
   }
 ];
