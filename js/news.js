@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T22:55:10.777Z
+// Last updated: 2026-09-24T23:54:08.562Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會談了甚麼？　為何穩定中美關係是美國的當務之急",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179979002241093632318207.jpeg/zgnQTYbrAT8e5vdoyxi6dk60uU2Hk74MHWS4ch1kuHI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393607/%E7%BF%92%E7%89%B9%E6%9C%83%E8%AB%87%E4%BA%86%E7%94%9A%E9%BA%BC-%E7%82%BA%E4%BD%95%E7%A9%A9%E5%AE%9A%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E6%98%AF%E7%BE%8E%E5%9C%8B%E7%9A%84%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5",
+    "timestamp": "2026-09-24T23:54:08.562Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家女星參觀騰訊總部興奮打卡　六位數合資教育中心任執行董事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179940336433500160268574.jpeg/bHMdlpE9YzOgV4zhrZLGcamtQk4pUkUHZwUyjUIFMo0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393567/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E5%93%88%E5%9B%89%E5%96%82%E8%81%AF%E4%B9%98%E7%8E%8B%E5%98%89%E7%88%BE%E6%8E%A8%E9%AC%BC%E5%B1%8B-%E4%B8%80%E9%AC%BC%E5%B1%8B%E8%A9%A6%E7%8E%A9%E6%99%82%E7%94%A9%E9%83%A8%E4%BB%B6%E9%9A%AA%E6%93%8A%E4%B8%AD%E8%A8%98%E8%80%85",
     "timestamp": "2026-09-24T16:45:09.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三代同糖｜徐榮否認加盟救收視　反指靠劇組救命：有嘢做個心定啲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179911915636264960368259.jpeg/zDVDiUVccKba_7MXJuOsG70pIX-K05_HIPNZuSDzWbk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393555/%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%BE%90%E6%A6%AE%E5%90%A6%E8%AA%8D%E5%8A%A0%E7%9B%9F%E6%95%91%E6%94%B6%E8%A6%96-%E5%8F%8D%E6%8C%87%E9%9D%A0%E5%8A%87%E7%B5%84%E6%95%91%E5%91%BD-%E6%9C%89%E5%98%A2%E5%81%9A%E5%80%8B%E5%BF%83%E5%AE%9A%E5%95%B2",
-    "timestamp": "2026-09-24T16:23:32.271Z",
     "strategy": ".content-card__main"
   }
 ];
