@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T23:22:21.697Z
+// Last updated: 2026-09-25T23:30:28.063Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟警告能源價格危機　籲各國抑制天然氣電力需求",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148848085477101568842350.jpeg/kw_auTFhF3gu1O5W8CcQRtykCgwCvQRP_pySHf6ckh0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393910/%E6%AD%90%E7%9B%9F%E8%AD%A6%E5%91%8A%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E5%8D%B1%E6%A9%9F-%E7%B1%B2%E5%90%84%E5%9C%8B%E6%8A%91%E5%88%B6%E5%A4%A9%E7%84%B6%E6%B0%A3%E9%9B%BB%E5%8A%9B%E9%9C%80%E6%B1%82",
+    "timestamp": "2026-09-25T23:30:28.063Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日59歲女主人為救愛犬墮7米瀑布亡　獸醫警告：無禁止不等於安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179871621955981312687921.jpeg/XV1Z4ZbXNnrwMB1pAgdJaGRHqIhl79FDh7_38L2_9_A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393519/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E6%B8%AF%E9%9A%8A%E6%B8%B8%E6%B3%B3%E7%B8%BD%E7%B5%90-%E4%B8%8D%E5%86%8D%E6%98%AF%E4%BD%95%E8%A9%A9%E8%93%93%E4%B8%80%E4%BA%BA%E5%9C%98%E9%9A%8A-%E5%B0%8F%E5%B0%87%E7%9B%B8%E7%B9%BC%E5%86%92%E8%B5%B7",
     "timestamp": "2026-09-25T17:33:16.500Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026．港隊游泳總結︱不再是何詩蓓一人團隊　小將相繼冒起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179871621955981312687921.jpeg/XV1Z4ZbXNnrwMB1pAgdJaGRHqIhl79FDh7_38L2_9_A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393519/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E6%B8%AF%E9%9A%8A%E6%B8%B8%E6%B3%B3%E7%B8%BD%E7%B5%90-%E4%B8%8D%E5%86%8D%E6%98%AF%E4%BD%95%E8%A9%A9%E8%93%93%E4%B8%80%E4%BA%BA%E5%9C%98%E9%9A%8A-%E5%B0%8F%E5%B0%87%E7%9B%B8%E7%B9%BC%E5%86%92%E8%B5%B7",
-    "timestamp": "2026-09-25T16:56:27.949Z",
     "strategy": ".content-card__main"
   }
 ];
