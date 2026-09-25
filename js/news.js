@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T20:56:13.138Z
+// Last updated: 2026-09-25T21:18:54.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "京東快遞員扶婆婆被索¥92萬　法官判免賠　網民質疑訛人近零成本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179253093238312960086534.png/vcZzAG-hGiJGbpKNR0ixBfyUawelnOC_vsR6A77EegM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391797/%E6%95%91%E4%BA%BA%E8%A2%AB%E6%8E%A7-%E4%BA%AC%E6%9D%B1%E5%BF%AB%E9%81%9E%E5%93%A1%E6%89%B6%E5%A9%86%E5%A9%86%E8%A2%AB%E7%B4%A2-92%E8%90%AC-%E5%AE%B6%E5%B1%AC%E7%A8%B1-%E6%B0%A3%E6%B5%81%E9%A9%9A%E5%9A%87-%E7%B5%82%E6%95%97%E8%A8%B4",
+    "timestamp": "2026-09-25T21:18:54.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山麥當勞女生不滿服務態度　潑水掟食物　職員報稱頭暈｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180263958104248320814965.jpeg/TRaTk0xBHyFLVKbi3eVJK1n_QD5qizqlkbQiApG0IgI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393808/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E4%BD%95%E6%89%BF%E8%AC%99%E8%87%A8%E5%8D%B1%E5%8F%97%E5%91%BD%E5%AE%88%E5%B0%BE%E9%96%80-%E5%86%8D%E5%B1%88%E5%B1%85%E4%BA%9E%E8%BB%8D%E6%9C%AA%E4%BE%86%E4%BB%8D%E5%8F%AF%E6%9C%9F",
     "timestamp": "2026-09-25T14:22:37.472Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣千色匯老翁搭扶手電梯疑失足摔倒　據報昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180267665738960896539610.jpeg/bWx9hfqgLkHeDNWQPG5gD_OcjbMwHEjaVJhy0lSYctI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393882/%E8%8D%83%E7%81%A3%E5%8D%83%E8%89%B2%E5%8C%AF%E8%80%81%E7%BF%81%E6%90%AD%E6%89%B6%E6%89%8B%E9%9B%BB%E6%A2%AF%E7%96%91%E5%A4%B1%E8%B6%B3%E6%91%94%E5%80%92-%E6%93%9A%E5%A0%B1%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-25T13:43:39.442Z",
     "strategy": ".content-card__main"
   }
 ];
