@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T15:54:17.732Z
+// Last updated: 2026-09-25T16:24:03.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黑的｜警中區3個月拘3司機　十一黃金周的士大使駐旅遊熱點助旅客",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180273520383365120378105.jpeg/FssQKwKL_SRtvO4l-Rx2zXlMGIfZzlZNcqPE-HKjxPg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393840/%E9%BB%91%E7%9A%84-%E8%AD%A6%E4%B8%AD%E5%8D%803%E5%80%8B%E6%9C%88%E6%8B%983%E5%8F%B8%E6%A9%9F-%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8%E7%9A%84%E5%A3%AB%E5%A4%A7%E4%BD%BF%E9%A7%90%E6%97%85%E9%81%8A%E7%86%B1%E9%BB%9E%E5%8A%A9%E6%97%85%E5%AE%A2",
+    "timestamp": "2026-09-25T16:24:03.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜港男北上醫「彈弓指」變永久傷殘　主刀名醫離奇被調包",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180193856767922176814957.jpeg/eCx4y0F9YcpxTHI2N_IFZxtoe_DWzsVvZTOphGUzqYQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393807/%E7%A5%96%E5%85%88%E9%AC%BC-%E6%B8%A1%E9%82%8A%E7%9B%B4%E7%BE%8E%E5%B0%87-%E7%B4%85%E7%99%BD%E8%97%8D-%E5%8C%96%E8%BA%AB%E5%9E%8B%E8%A3%9D-%E6%9C%8D%E6%8C%87%E8%AE%9A%E5%85%B7%E5%9C%B0%E9%81%93%E7%89%B9%E8%89%B2%E8%A6%8B%E9%A2%A8%E9%87%87",
     "timestamp": "2026-09-25T08:49:46.605Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬會凝伙計劃啟動助青年建正向人生　孫玉菡：每位年輕人都是瑰寶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180183194725519360071693.jpeg/pyEnMT_E0YTcj19FnpxoGX1ai7zcxdGZAQAmqAEAJqg?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60393792/%E9%A6%AC%E6%9C%83%E5%87%9D%E4%BC%99%E8%A8%88%E5%8A%83%E5%95%9F%E5%8B%95%E5%8A%A9%E9%9D%92%E5%B9%B4%E5%BB%BA%E6%AD%A3%E5%90%91%E4%BA%BA%E7%94%9F-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E6%AF%8F%E4%BD%8D%E5%B9%B4%E8%BC%95%E4%BA%BA%E9%83%BD%E6%98%AF%E7%91%B0%E5%AF%B6",
-    "timestamp": "2026-09-25T08:28:21.821Z",
     "strategy": ".content-card__main"
   }
 ];
