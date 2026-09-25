@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T07:00:27.179Z
+// Last updated: 2026-09-25T07:46:56.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國際賽出擊｜亞運男足8強開打　中國鬥泰國和味濃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180180525172658176451380.jpeg/5aJMrz9-fWF4oPPwUOepCoVqT3Dt_s3Q4vaRMeL2kTE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393773/%E5%9C%8B%E9%9A%9B%E8%B3%BD%E5%87%BA%E6%93%8A-%E4%BA%9E%E9%81%8B%E7%94%B7%E8%B6%B38%E5%BC%B7%E9%96%8B%E6%89%93-%E4%B8%AD%E5%9C%8B%E9%AC%A5%E6%B3%B0%E5%9C%8B%E5%92%8C%E5%91%B3%E6%BF%83",
+    "timestamp": "2026-09-25T07:46:56.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "33歲乘客巴士上猝死　醫生指死者八成血管塞　黃金救援只得5分鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179877784672014336085637.jpeg/7WJH92s7Ng0ccS9tJ7n2sqvIEhGBw8LbpxZznacWc50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393400/%E5%91%82%E6%85%A7%E5%84%80%E5%8F%83%E8%A7%80%E9%A8%B0%E8%A8%8A%E7%B8%BD%E9%83%A8%E8%88%88%E5%A5%AE%E6%89%93%E5%8D%A1-%E5%85%AD%E4%BD%8D%E6%95%B8%E5%90%88%E8%B3%87%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%9F%B7%E8%A1%8C%E8%91%A3%E4%BA%8B",
     "timestamp": "2026-09-24T22:49:34.505Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人氣小生電視城外拍戲現超長人龍水洩不通　粉絲震撼人牆逼爆街頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179876964362620928621435.jpeg/jL4xEfULhajjGM6-LiUVI3x25aP4DDVKhmCBSIZggUg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393330/%E6%88%90%E6%AF%85%E9%9B%BB%E8%A6%96%E5%9F%8E%E5%A4%96%E6%8B%8D-%E7%8B%A9%E8%AC%8A-%E8%B6%85%E9%95%B7%E4%BA%BA%E9%BE%8D%E6%B0%B4%E6%B4%A9%E4%B8%8D%E9%80%9A-%E7%B2%89%E7%B5%B2%E9%9C%87%E6%92%BC%E4%BA%BA%E7%89%86%E9%80%BC%E7%88%86%E8%A1%97%E9%A0%AD",
-    "timestamp": "2026-09-24T22:32:57.511Z",
     "strategy": ".content-card__main"
   }
 ];
