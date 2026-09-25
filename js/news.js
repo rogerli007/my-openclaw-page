@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T09:00:51.480Z
+// Last updated: 2026-09-25T09:23:09.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "20歲無牌司機以逾110公里時速　在元朗撞斃老翁不顧而去　囚42月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250701/1016809732112912384453178.jpeg/VOgedqpp33c1h9u4h51PJJdIKyFEemYqxJ0ObtKdDm4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393828/20%E6%AD%B2%E7%84%A1%E7%89%8C%E5%8F%B8%E6%A9%9F%E4%BB%A5%E9%80%BE110%E5%85%AC%E9%87%8C%E6%99%82%E9%80%9F-%E5%9C%A8%E5%85%83%E6%9C%97%E6%92%9E%E6%96%83%E8%80%81%E7%BF%81%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E5%9B%9A42%E6%9C%88",
+    "timestamp": "2026-09-25T09:23:09.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角皇璇3196萬招標沽三房、呎價4萬　明日首輪價單開賣140伙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180090885698752512270134.jpeg/-y_4h1WetHRI6n4vq_LIT5GuZSumMuE4wBimw8AYpsM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393632/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E5%9C%8B%E5%AE%B4%E8%87%B4%E8%BE%AD-maga%E8%88%87%E4%B8%AD%E8%8F%AF%E6%B0%91%E6%97%8F%E5%81%89%E5%A4%A7%E5%BE%A9%E8%88%88%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%92%E6%88%90%E5%B0%B1",
     "timestamp": "2026-09-25T02:00:49.176Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺高球場經土地大辯論定收地建屋　今路向復未明　黃遠輝稱惋惜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230831/773953736103038976846290.jpeg/lN_qW3T7P52rlfZtnCNJemjxy_AhH915lWvIZK9ryGQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393620/%E7%B2%89%E5%B6%BA%E9%AB%98%E7%90%83%E5%A0%B4%E7%B6%93%E5%9C%9F%E5%9C%B0%E5%A4%A7%E8%BE%AF%E8%AB%96%E5%AE%9A%E6%94%B6%E5%9C%B0%E5%BB%BA%E5%B1%8B-%E4%BB%8A%E8%B7%AF%E5%90%91%E5%BE%A9%E6%9C%AA%E6%98%8E-%E9%BB%83%E9%81%A0%E8%BC%9D%E7%A8%B1%E6%83%8B%E6%83%9C",
-    "timestamp": "2026-09-25T01:41:36.683Z",
     "strategy": ".content-card__main"
   }
 ];
