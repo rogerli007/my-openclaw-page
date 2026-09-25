@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T04:58:52.173Z
+// Last updated: 2026-09-25T05:22:16.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "唐寧被爆患重度抑鬱兼自殘刺腹　曝光最新狀況：It’s all ok",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180136300842323968205173.png/SJ8Z2vNNMy9EfN1skC-HrtmKNgCgEWm688_WK_PP1is?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393706/%E5%94%90%E5%AF%A7%E8%A2%AB%E7%88%86%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%AC%B1%E5%85%BC%E8%87%AA%E6%AE%98%E5%88%BA%E8%85%B9-%E6%9B%9D%E5%85%89%E6%9C%80%E6%96%B0%E7%8B%80%E6%B3%81-it-s-all-ok",
+    "timestamp": "2026-09-25T05:22:16.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "定期存款｜港元拆息升銀行爆加定存息戰　華僑1年期3.5厘全港最高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180016059286032384095782.jpeg/V2YqaY_94Af_jShC5RzsuKxK028PX95gaIpRpGiKUaQ",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393599/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BD%8C%E6%95%A6%E9%81%932%E7%94%B7%E9%A7%95%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A-%E8%AD%A6%E8%BB%8A-%E5%A4%BE%E4%B8%AD%E9%96%93-%E7%B6%B2%E6%B0%91%E6%89%B9%E7%8C%96%E7%8B%82-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-24T21:19:43.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯合國大會演說最少數十代表離場抗議　內塔尼亞胡斥「道德懦夫」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180009080442327040675924.jpeg/czQ81JV0HNdmu9lh6Lp7bYWrEua7pqoAckMGBnJDBgY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393598/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83%E6%BC%94%E8%AA%AA%E6%9C%80%E5%B0%91%E6%95%B8%E5%8D%81%E4%BB%A3%E8%A1%A8%E9%9B%A2%E5%A0%B4%E6%8A%97%E8%AD%B0-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%96%A5-%E9%81%93%E5%BE%B7%E6%87%A6%E5%A4%AB",
-    "timestamp": "2026-09-24T20:54:31.043Z",
     "strategy": ".content-card__main"
   }
 ];
