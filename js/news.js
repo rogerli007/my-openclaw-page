@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T22:33:17.712Z
+// Last updated: 2026-09-25T22:45:07.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【星之谷】臨近成交期始知律師樓未獲銀行認可　按揭應變指南",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179464853912293376204193.jpeg/mvTkVI1CYlgmPKGvodNs-wZ4e1LfGyNeVQIX3VUCF90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60393029/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E8%87%A8%E8%BF%91%E6%88%90%E4%BA%A4%E6%9C%9F%E5%A7%8B%E7%9F%A5%E5%BE%8B%E5%B8%AB%E6%A8%93%E6%9C%AA%E7%8D%B2%E9%8A%80%E8%A1%8C%E8%AA%8D%E5%8F%AF-%E6%8C%89%E6%8F%AD%E6%87%89%E8%AE%8A%E6%8C%87%E5%8D%97",
+    "timestamp": "2026-09-25T22:45:07.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【星之谷】臨近成交期始知律師樓未獲銀行認可　按揭應變指南",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180273520383365120378105.jpeg/FssQKwKL_SRtvO4l-Rx2zXlMGIfZzlZNcqPE-HKjxPg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393840/%E9%BB%91%E7%9A%84-%E8%AD%A6%E4%B8%AD%E5%8D%803%E5%80%8B%E6%9C%88%E6%8B%983%E5%8F%B8%E6%A9%9F-%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8%E7%9A%84%E5%A3%AB%E5%A4%A7%E4%BD%BF%E9%A7%90%E6%97%85%E9%81%8A%E7%86%B1%E9%BB%9E%E5%8A%A9%E6%97%85%E5%AE%A2",
     "timestamp": "2026-09-25T16:46:38.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黑的｜警中區3個月拘3司機　十一黃金周的士大使駐旅遊熱點助旅客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180273520383365120378105.jpeg/FssQKwKL_SRtvO4l-Rx2zXlMGIfZzlZNcqPE-HKjxPg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393840/%E9%BB%91%E7%9A%84-%E8%AD%A6%E4%B8%AD%E5%8D%803%E5%80%8B%E6%9C%88%E6%8B%983%E5%8F%B8%E6%A9%9F-%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8%E7%9A%84%E5%A3%AB%E5%A4%A7%E4%BD%BF%E9%A7%90%E6%97%85%E9%81%8A%E7%86%B1%E9%BB%9E%E5%8A%A9%E6%97%85%E5%AE%A2",
-    "timestamp": "2026-09-25T16:24:03.520Z",
     "strategy": ".content-card__main"
   }
 ];
