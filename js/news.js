@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T22:45:07.519Z
+// Last updated: 2026-09-25T23:22:21.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日59歲女主人為救愛犬墮7米瀑布亡　獸醫警告：無禁止不等於安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180198970001985536706453.png/WkjW6RVRp3WFjJt3w4XI1rPxoQz67LbAf9ALz3_QC88?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60392777/%E6%97%A559%E6%AD%B2%E5%A5%B3%E4%B8%BB%E4%BA%BA%E7%82%BA%E6%95%91%E6%84%9B%E7%8A%AC%E5%A2%AE7%E7%B1%B3%E7%80%91%E5%B8%83%E4%BA%A1-%E7%8D%B8%E9%86%AB%E8%AD%A6%E5%91%8A-%E7%84%A1%E7%A6%81%E6%AD%A2%E4%B8%8D%E7%AD%89%E6%96%BC%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-09-25T23:22:21.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【星之谷】臨近成交期始知律師樓未獲銀行認可　按揭應變指南",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179871621955981312687921.jpeg/XV1Z4ZbXNnrwMB1pAgdJaGRHqIhl79FDh7_38L2_9_A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393519/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E6%B8%AF%E9%9A%8A%E6%B8%B8%E6%B3%B3%E7%B8%BD%E7%B5%90-%E4%B8%8D%E5%86%8D%E6%98%AF%E4%BD%95%E8%A9%A9%E8%93%93%E4%B8%80%E4%BA%BA%E5%9C%98%E9%9A%8A-%E5%B0%8F%E5%B0%87%E7%9B%B8%E7%B9%BC%E5%86%92%E8%B5%B7",
     "timestamp": "2026-09-25T16:56:27.949Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黑的｜警中區3個月拘3司機　十一黃金周的士大使駐旅遊熱點助旅客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180273520383365120378105.jpeg/FssQKwKL_SRtvO4l-Rx2zXlMGIfZzlZNcqPE-HKjxPg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393840/%E9%BB%91%E7%9A%84-%E8%AD%A6%E4%B8%AD%E5%8D%803%E5%80%8B%E6%9C%88%E6%8B%983%E5%8F%B8%E6%A9%9F-%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8%E7%9A%84%E5%A3%AB%E5%A4%A7%E4%BD%BF%E9%A7%90%E6%97%85%E9%81%8A%E7%86%B1%E9%BB%9E%E5%8A%A9%E6%97%85%E5%AE%A2",
-    "timestamp": "2026-09-25T16:46:38.846Z",
     "strategy": ".content-card__main"
   }
 ];
