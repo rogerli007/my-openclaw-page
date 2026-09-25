@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T03:58:45.009Z
+// Last updated: 2026-09-25T04:47:48.117Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當勞優惠低至6折！最平100蚊4個餐+25款早餐/漢堡/炸雞套餐任揀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180129810685366272864375.jpeg/_BKrF1IKLGucEinJ_jqZGBiTDdOg2-s7Kvz8pir8_KY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60393683/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0%E4%BD%8E%E8%87%B36%E6%8A%98-%E6%9C%80%E5%B9%B3100%E8%9A%8A4%E5%80%8B%E9%A4%90-25%E6%AC%BE%E6%97%A9%E9%A4%90-%E6%BC%A2%E5%A0%A1-%E7%82%B8%E9%9B%9E%E5%A5%97%E9%A4%90%E4%BB%BB%E6%8F%80",
+    "timestamp": "2026-09-25T04:47:48.117Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗總統：德黑蘭無意繼續交戰　結束戰爭決定權掌握在美國手中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179998438880710656410692.jpeg/qw0R6DyzF83Ij2MGgNlDdeqdDI9p9aaxLiAhzhQgIc4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393595/%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%81%93%E9%B9%B9%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E9%B9%B9%E6%B0%B4%E4%BE%9B%E6%87%89%E5%8F%97%E5%BD%B1%E9%9F%BF-%E9%A0%90%E8%A8%88%E4%BB%8A%E6%97%A9%E6%81%A2%E5%BE%A9%E4%BE%9B%E6%B0%B4",
     "timestamp": "2026-09-24T20:21:38.523Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平與特朗普會談重點：促美堅持反對台獨　倡美伊重回對話軌道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179978712037199872840591.jpeg/L0yHsMOZOEb__r6-3gf1hb6YN6lohpMox03338dN998?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393590/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E8%AB%87%E9%87%8D%E9%BB%9E-%E4%BF%83%E7%BE%8E%E5%A0%85%E6%8C%81%E5%8F%8D%E5%B0%8D%E5%8F%B0%E7%8D%A8-%E5%80%A1%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%9B%9E%E5%B0%8D%E8%A9%B1%E8%BB%8C%E9%81%93",
-    "timestamp": "2026-09-24T19:42:02.034Z",
     "strategy": ".content-card__main"
   }
 ];
