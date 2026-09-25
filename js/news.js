@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T13:43:39.442Z
+// Last updated: 2026-09-25T14:22:37.472Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026劍擊｜何承謙臨危受命守尾門　再屈居亞軍未來仍可期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180263958104248320814965.jpeg/TRaTk0xBHyFLVKbi3eVJK1n_QD5qizqlkbQiApG0IgI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393808/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E4%BD%95%E6%89%BF%E8%AC%99%E8%87%A8%E5%8D%B1%E5%8F%97%E5%91%BD%E5%AE%88%E5%B0%BE%E9%96%80-%E5%86%8D%E5%B1%88%E5%B1%85%E4%BA%9E%E8%BB%8D%E6%9C%AA%E4%BE%86%E4%BB%8D%E5%8F%AF%E6%9C%9F",
+    "timestamp": "2026-09-25T14:22:37.472Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣千色匯老翁搭扶手電梯疑失足摔倒　據報昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180163213405327360021958.jpeg/NE42_S6PtopKTBK381JBBrlh-Dj00Z4IzVKC7uhSgu4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393747/33%E6%AD%B2%E4%B9%98%E5%AE%A2%E5%B7%B4%E5%A3%AB%E4%B8%8A%E7%8C%9D%E6%AD%BB-%E9%86%AB%E7%94%9F%E6%8C%87%E6%AD%BB%E8%80%85%E5%85%AB%E6%88%90%E8%A1%80%E7%AE%A1%E5%A1%9E-%E9%BB%83%E9%87%91%E6%95%91%E6%8F%B4%E5%8F%AA%E5%BE%975%E5%88%86%E9%90%98",
     "timestamp": "2026-09-25T07:00:27.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Supper Moment演唱會2026澳門｜門票公售攻略+連結+座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180141434024497152849052.jpeg/pU-on3q2MfxxO70o5ojw3_0IxQkU9jYFhYVJPoWFST4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393716/supper-moment%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-09-25T06:33:37.908Z",
     "strategy": ".content-card__main"
   }
 ];
