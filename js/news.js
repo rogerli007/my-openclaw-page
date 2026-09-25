@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T11:54:55.149Z
+// Last updated: 2026-09-25T12:52:43.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳門北區一中學兩名積怨中三男生爭執　插班生亮蝴蝶刀刺傷對方臉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180235805927542784471690.jpeg/UCXI2Msm05JV1IPekapBThcCTsiBmG913GcdKtxnHSo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393868/%E6%BE%B3%E9%96%80%E5%8C%97%E5%8D%80%E4%B8%80%E4%B8%AD%E5%AD%B8%E5%85%A9%E5%90%8D%E7%A9%8D%E6%80%A8%E4%B8%AD%E4%B8%89%E7%94%B7%E7%94%9F%E7%88%AD%E5%9F%B7-%E6%8F%92%E7%8F%AD%E7%94%9F%E4%BA%AE%E8%9D%B4%E8%9D%B6%E5%88%80%E5%88%BA%E5%82%B7%E5%B0%8D%E6%96%B9%E8%87%89",
+    "timestamp": "2026-09-25T12:52:43.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：彭麗媛與梅拉尼婭英語聊天　是習近平的「軟實力超級武器」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176949831671746560043957.png/x-eY_kbL7xoz5sR-1EhkVp_kSB7vzmaWQTQAQ0E0AEM",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60390287/prestige-14-flip-ai-%E6%A2%B5%E9%AB%98%E7%89%88%E9%96%8B%E7%AE%B1-%E6%98%9F%E5%A4%9C%E6%A9%9F%E8%BA%AB-%E6%BB%91%E9%BC%A0%E9%85%8D%E4%BB%B6%E6%94%B6%E8%97%8F%E5%91%B3%E5%8D%81%E8%B6%B3",
     "timestamp": "2026-09-25T05:45:20.864Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "唐寧被爆患重度抑鬱兼自殘刺腹　曝光最新狀況：It’s all ok",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180136300842323968205173.png/SJ8Z2vNNMy9EfN1skC-HrtmKNgCgEWm688_WK_PP1is?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393706/%E5%94%90%E5%AF%A7%E8%A2%AB%E7%88%86%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%AC%B1%E5%85%BC%E8%87%AA%E6%AE%98%E5%88%BA%E8%85%B9-%E6%9B%9D%E5%85%89%E6%9C%80%E6%96%B0%E7%8B%80%E6%B3%81-it-s-all-ok",
-    "timestamp": "2026-09-25T05:22:16.680Z",
     "strategy": ".content-card__main"
   }
 ];
