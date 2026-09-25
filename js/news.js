@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T15:43:36.070Z
+// Last updated: 2026-09-25T15:54:17.732Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜港男北上醫「彈弓指」變永久傷殘　主刀名醫離奇被調包",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180279503461552128471928.jpeg/0wNZE3DoDoBxoTYeRQyHe5OKS6lV9znMkNCIF5DQiBc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393888/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%8C%97%E4%B8%8A%E4%B8%89%E7%94%B2%E9%86%AB%E9%99%A2%E9%86%AB-%E5%BD%88%E5%BC%93%E6%8C%87-%E8%AE%8A%E5%82%B7%E6%AE%98-%E4%B8%BB%E5%88%80%E5%90%8D%E9%86%AB%E9%9B%A2%E5%A5%87%E8%A2%AB%E8%AA%BF%E5%8C%85",
+    "timestamp": "2026-09-25T15:54:17.732Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜港男北上醫「彈弓指」變永久傷殘　主刀名醫離奇被調包",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180183194725519360071693.jpeg/pyEnMT_E0YTcj19FnpxoGX1ai7zcxdGZAQAmqAEAJqg?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60393792/%E9%A6%AC%E6%9C%83%E5%87%9D%E4%BC%99%E8%A8%88%E5%8A%83%E5%95%9F%E5%8B%95%E5%8A%A9%E9%9D%92%E5%B9%B4%E5%BB%BA%E6%AD%A3%E5%90%91%E4%BA%BA%E7%94%9F-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E6%AF%8F%E4%BD%8D%E5%B9%B4%E8%BC%95%E4%BA%BA%E9%83%BD%E6%98%AF%E7%91%B0%E5%AF%B6",
     "timestamp": "2026-09-25T08:28:21.821Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美｜國民黨憂台灣淪談判籌碼　民進黨強調台美長期合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179693037056561152543970.jpeg/MF7Grmbzip1VJeOHyAvY-vBEuJUzCO_BabbUyGm21Mg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60393765/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%86%82%E5%8F%B0%E7%81%A3%E6%B7%AA%E8%AB%87%E5%88%A4%E7%B1%8C%E7%A2%BC-%E6%B0%91%E9%80%B2%E9%BB%A8%E5%BC%B7%E8%AA%BF%E5%8F%B0%E7%BE%8E%E9%95%B7%E6%9C%9F%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-09-25T08:00:09.258Z",
     "strategy": ".content-card__main"
   }
 ];
