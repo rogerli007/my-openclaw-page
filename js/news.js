@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T05:22:16.680Z
+// Last updated: 2026-09-25T05:45:20.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Prestige 14 Flip AI+梵高版開箱｜星夜機身　滑鼠配件收藏味十足",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176949831671746560043957.png/x-eY_kbL7xoz5sR-1EhkVp_kSB7vzmaWQTQAQ0E0AEM",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60390287/prestige-14-flip-ai-%E6%A2%B5%E9%AB%98%E7%89%88%E9%96%8B%E7%AE%B1-%E6%98%9F%E5%A4%9C%E6%A9%9F%E8%BA%AB-%E6%BB%91%E9%BC%A0%E9%85%8D%E4%BB%B6%E6%94%B6%E8%97%8F%E5%91%B3%E5%8D%81%E8%B6%B3",
+    "timestamp": "2026-09-25T05:45:20.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "唐寧被爆患重度抑鬱兼自殘刺腹　曝光最新狀況：It’s all ok",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180025284452159488345792.jpeg/MCcyv7ICbs73SwdQ5TOxGkDJixyOBIonv4Oq4YWDquE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393601/%E6%B5%B7%E9%BA%97%E9%82%A824%E6%AD%B2%E7%94%B7%E6%8D%B1%E6%89%93%E5%8F%97%E5%82%B7-%E5%A7%8A%E5%A4%AB%E5%A4%A5%E5%90%8C%E9%BB%A8%E5%85%B12%E4%BA%BA%E9%80%9E%E5%85%87%E5%BE%8C%E4%B9%98%E8%BB%8A%E9%80%83%E8%B5%B0",
     "timestamp": "2026-09-24T21:32:09.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地彌敦道2男駕電動單車　警車「夾中間」　網民批猖狂｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180016059286032384095782.jpeg/V2YqaY_94Af_jShC5RzsuKxK028PX95gaIpRpGiKUaQ",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393599/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BD%8C%E6%95%A6%E9%81%932%E7%94%B7%E9%A7%95%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A-%E8%AD%A6%E8%BB%8A-%E5%A4%BE%E4%B8%AD%E9%96%93-%E7%B6%B2%E6%B0%91%E6%89%B9%E7%8C%96%E7%8B%82-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-24T21:19:43.558Z",
     "strategy": ".content-card__main"
   }
 ];
