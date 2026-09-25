@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T12:52:43.198Z
+// Last updated: 2026-09-25T13:20:49.323Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李一桐《我不是大師》京劇造型曝光　化妝足5小時 連李現也認不出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180195942834376704478219.png/gyHLRGxp_MvLhSsQLh0roXDJcgkyaTokhnrMOIZ6zDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393713/%E6%9D%8E%E4%B8%80%E6%A1%90-%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%B8%AB-%E4%BA%AC%E5%8A%87%E9%80%A0%E5%9E%8B%E6%9B%9D%E5%85%89-%E5%8C%96%E5%A6%9D%E8%B6%B35%E5%B0%8F%E6%99%82-%E9%80%A3%E6%9D%8E%E7%8F%BE%E4%B9%9F%E8%AA%8D%E4%B8%8D%E5%87%BA",
+    "timestamp": "2026-09-25T13:20:49.323Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳門北區一中學兩名積怨中三男生爭執　插班生亮蝴蝶刀刺傷對方臉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176949831671746560043957.png/x-eY_kbL7xoz5sR-1EhkVp_kSB7vzmaWQTQAQ0E0AEM",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60390287/prestige-14-flip-ai-%E6%A2%B5%E9%AB%98%E7%89%88%E9%96%8B%E7%AE%B1-%E6%98%9F%E5%A4%9C%E6%A9%9F%E8%BA%AB-%E6%BB%91%E9%BC%A0%E9%85%8D%E4%BB%B6%E6%94%B6%E8%97%8F%E5%91%B3%E5%8D%81%E8%B6%B3",
     "timestamp": "2026-09-25T05:55:08.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Prestige 14 Flip AI+梵高版開箱｜星夜機身　滑鼠配件收藏味十足",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176949831671746560043957.png/x-eY_kbL7xoz5sR-1EhkVp_kSB7vzmaWQTQAQ0E0AEM",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60390287/prestige-14-flip-ai-%E6%A2%B5%E9%AB%98%E7%89%88%E9%96%8B%E7%AE%B1-%E6%98%9F%E5%A4%9C%E6%A9%9F%E8%BA%AB-%E6%BB%91%E9%BC%A0%E9%85%8D%E4%BB%B6%E6%94%B6%E8%97%8F%E5%91%B3%E5%8D%81%E8%B6%B3",
-    "timestamp": "2026-09-25T05:45:20.864Z",
     "strategy": ".content-card__main"
   }
 ];
