@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T00:48:24.077Z
+// Last updated: 2026-09-25T01:41:36.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺高球場經土地大辯論定收地建屋　今路向復未明　黃遠輝稱惋惜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230831/773953736103038976846290.jpeg/lN_qW3T7P52rlfZtnCNJemjxy_AhH915lWvIZK9ryGQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393620/%E7%B2%89%E5%B6%BA%E9%AB%98%E7%90%83%E5%A0%B4%E7%B6%93%E5%9C%9F%E5%9C%B0%E5%A4%A7%E8%BE%AF%E8%AB%96%E5%AE%9A%E6%94%B6%E5%9C%B0%E5%BB%BA%E5%B1%8B-%E4%BB%8A%E8%B7%AF%E5%90%91%E5%BE%A9%E6%9C%AA%E6%98%8E-%E9%BB%83%E9%81%A0%E8%BC%9D%E7%A8%B1%E6%83%8B%E6%83%9C",
+    "timestamp": "2026-09-25T01:41:36.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Sica鄭重回應「舊愛」Stone戀黃淑蔓：畀啲空間人哋，最緊要開心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179955492022521856682501.jpeg/9-N_Os64kmsgGd0348szD6a3xQCdaY0-9YMGH_WDBh8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393579/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%89%E8%A1%8C%E6%AD%A1%E8%BF%8E%E5%84%80%E5%BC%8F-f-22%E7%AD%89%E6%88%B0%E6%A9%9F%E9%A3%9B%E7%99%BD%E5%AE%AE%E4%B8%8A%E7%A9%BA%E8%87%B4%E6%95%AC-%E5%9C%96%E8%BC%AF",
     "timestamp": "2026-09-24T17:19:39.567Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "衛詩雅出席首映突叫停司儀點名影合照  驚覺唐文龍神秘嘉賓即尷尬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179955339592732672162508.jpeg/iKMyVytF7kiVTjs5RKIDGrsD0RSCLXLV3UbQJd1G0CU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393569/%E8%A1%9B%E8%A9%A9%E9%9B%85%E5%87%BA%E5%B8%AD%E9%A6%96%E6%98%A0%E7%AA%81%E5%8F%AB%E5%81%9C%E5%8F%B8%E5%84%80%E9%BB%9E%E5%90%8D%E5%BD%B1%E5%90%88%E7%85%A7-%E9%A9%9A%E8%A6%BA%E5%94%90%E6%96%87%E9%BE%8D%E7%A5%9E%E7%A7%98%E5%98%89%E8%B3%93%E5%8D%B3%E5%B0%B7%E5%B0%AC",
-    "timestamp": "2026-09-24T16:55:07.268Z",
     "strategy": ".content-card__main"
   }
 ];
