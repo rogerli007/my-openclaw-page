@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T11:19:47.014Z
+// Last updated: 2026-09-25T11:33:32.934Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荃灣掃黃冚沙咀道淫窟　拘48歲內地婦將控兩罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180226709476085760845327.jpeg/RhdvIBKlTQ5BO9E7xCObiiIYWsO6KjUCeswZU3rMGVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393854/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%8E%83%E9%BB%83%E5%86%9A%E6%B2%99%E5%92%80%E9%81%93%E6%B7%AB%E7%AA%9F-%E6%8B%9848%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A9%A6%E5%B0%87%E6%8E%A7%E5%85%A9%E7%BD%AA",
+    "timestamp": "2026-09-25T11:33:32.934Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜葵涌大連排道爆水管路陷　馬路變溪流　車輛涉水如陸上行舟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180129810685366272864375.jpeg/_BKrF1IKLGucEinJ_jqZGBiTDdOg2-s7Kvz8pir8_KY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60393683/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0%E4%BD%8E%E8%87%B36%E6%8A%98-%E6%9C%80%E5%B9%B3100%E8%9A%8A4%E5%80%8B%E9%A4%90-25%E6%AC%BE%E6%97%A9%E9%A4%90-%E6%BC%A2%E5%A0%A1-%E7%82%B8%E9%9B%9E%E5%A5%97%E9%A4%90%E4%BB%BB%E6%8F%80",
     "timestamp": "2026-09-25T04:47:48.117Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗總統：德黑蘭無意繼續交戰　結束戰爭決定權掌握在美國手中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165964947390205952638541.jpeg/mn_1XypgvmYXxcrBBhN5ghCz11krPvVgK-R_LCvkfyw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393672/%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1-%E5%BE%B7%E9%BB%91%E8%98%AD%E7%84%A1%E6%84%8F%E7%B9%BC%E7%BA%8C%E4%BA%A4%E6%88%B0-%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E6%B1%BA%E5%AE%9A%E6%AC%8A%E6%8E%8C%E6%8F%A1%E5%9C%A8%E7%BE%8E%E5%9C%8B%E6%89%8B%E4%B8%AD",
-    "timestamp": "2026-09-25T03:58:45.009Z",
     "strategy": ".content-card__main"
   }
 ];
