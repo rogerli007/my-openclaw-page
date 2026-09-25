@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T14:22:37.472Z
+// Last updated: 2026-09-25T15:21:47.611Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "良十四世批聯合國欠成效多邊主義淪鬧劇　部分當權者視公義為商品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180292147383898112974826.jpeg/Keopu-CDQTebiyRh0DdrN5oEZsbV-JntNTNCSjUzQko?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393894/%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E6%89%B9%E8%81%AF%E5%90%88%E5%9C%8B%E6%AC%A0%E6%88%90%E6%95%88%E5%A4%9A%E9%82%8A%E4%B8%BB%E7%BE%A9%E6%B7%AA%E9%AC%A7%E5%8A%87-%E9%83%A8%E5%88%86%E7%95%B6%E6%AC%8A%E8%80%85%E8%A6%96%E5%85%AC%E7%BE%A9%E7%82%BA%E5%95%86%E5%93%81",
+    "timestamp": "2026-09-25T15:21:47.611Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026劍擊｜何承謙臨危受命守尾門　再屈居亞軍未來仍可期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180180525172658176451380.jpeg/5aJMrz9-fWF4oPPwUOepCoVqT3Dt_s3Q4vaRMeL2kTE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393773/%E5%9C%8B%E9%9A%9B%E8%B3%BD%E5%87%BA%E6%93%8A-%E4%BA%9E%E9%81%8B%E7%94%B7%E8%B6%B38%E5%BC%B7%E9%96%8B%E6%89%93-%E4%B8%AD%E5%9C%8B%E9%AC%A5%E6%B3%B0%E5%9C%8B%E5%92%8C%E5%91%B3%E6%BF%83",
     "timestamp": "2026-09-25T07:46:56.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "33歲乘客巴士上猝死　醫生指死者八成血管塞　黃金救援只得5分鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180163213405327360021958.jpeg/NE42_S6PtopKTBK381JBBrlh-Dj00Z4IzVKC7uhSgu4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393747/33%E6%AD%B2%E4%B9%98%E5%AE%A2%E5%B7%B4%E5%A3%AB%E4%B8%8A%E7%8C%9D%E6%AD%BB-%E9%86%AB%E7%94%9F%E6%8C%87%E6%AD%BB%E8%80%85%E5%85%AB%E6%88%90%E8%A1%80%E7%AE%A1%E5%A1%9E-%E9%BB%83%E9%87%91%E6%95%91%E6%8F%B4%E5%8F%AA%E5%BE%975%E5%88%86%E9%90%98",
-    "timestamp": "2026-09-25T07:00:27.179Z",
     "strategy": ".content-card__main"
   }
 ];
