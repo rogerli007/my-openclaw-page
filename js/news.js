@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T20:32:50.541Z
+// Last updated: 2026-09-25T20:46:04.791Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山麥當勞女生不滿服務態度　潑水掟食物　職員報稱頭暈｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180369521878241280476289.jpeg/ylMj8fSu-fCvxcMGKj0Ua1O9kn1rOjWlRwEkgUcBJIE",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393907/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%A5%B3%E7%94%9F%E4%B8%8D%E6%BB%BF%E6%9C%8D%E5%8B%99%E6%85%8B%E5%BA%A6-%E6%BD%91%E6%B0%B4%E6%8E%9F%E9%A3%9F%E7%89%A9-%E8%81%B7%E5%93%A1%E5%A0%B1%E7%A8%B1%E9%A0%AD%E6%9A%88-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-25T20:46:04.791Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美與特朗普會晤　普京：俄羅斯歡迎美中對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180195942834376704478219.png/gyHLRGxp_MvLhSsQLh0roXDJcgkyaTokhnrMOIZ6zDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393713/%E6%9D%8E%E4%B8%80%E6%A1%90-%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%B8%AB-%E4%BA%AC%E5%8A%87%E9%80%A0%E5%9E%8B%E6%9B%9D%E5%85%89-%E5%8C%96%E5%A6%9D%E8%B6%B35%E5%B0%8F%E6%99%82-%E9%80%A3%E6%9D%8E%E7%8F%BE%E4%B9%9F%E8%AA%8D%E4%B8%8D%E5%87%BA",
     "timestamp": "2026-09-25T13:20:49.323Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澳門北區一中學兩名積怨中三男生爭執　插班生亮蝴蝶刀刺傷對方臉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180235805927542784471690.jpeg/UCXI2Msm05JV1IPekapBThcCTsiBmG913GcdKtxnHSo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393868/%E6%BE%B3%E9%96%80%E5%8C%97%E5%8D%80%E4%B8%80%E4%B8%AD%E5%AD%B8%E5%85%A9%E5%90%8D%E7%A9%8D%E6%80%A8%E4%B8%AD%E4%B8%89%E7%94%B7%E7%94%9F%E7%88%AD%E5%9F%B7-%E6%8F%92%E7%8F%AD%E7%94%9F%E4%BA%AE%E8%9D%B4%E8%9D%B6%E5%88%80%E5%88%BA%E5%82%B7%E5%B0%8D%E6%96%B9%E8%87%89",
-    "timestamp": "2026-09-25T12:52:43.198Z",
     "strategy": ".content-card__main"
   }
 ];
