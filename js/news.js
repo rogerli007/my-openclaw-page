@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T09:55:30.789Z
+// Last updated: 2026-09-25T10:21:33.057Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋節沙田廣場停電　商場店舖烏燈黑火　住宅未受影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180216007562891264129356.jpeg/sW33yiXzhG29ZOyf7aFVpVHayEJTo8aQwV--usFfvro?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393848/%E4%B8%AD%E7%A7%8B%E7%AF%80%E6%B2%99%E7%94%B0%E5%BB%A3%E5%A0%B4%E5%81%9C%E9%9B%BB-%E5%95%86%E5%A0%B4%E5%BA%97%E8%88%96%E7%83%8F%E7%87%88%E9%BB%91%E7%81%AB-%E4%BD%8F%E5%AE%85%E6%9C%AA%E5%8F%97%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-09-25T10:21:33.057Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大摩員工誤發內部文件　證監不評論個別事件　強調無心之失非藉口",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180104172851171328761453.png/neDHyFRU-ZfPTxM8doaAMwMzVHSsBSM_Tz2Qvk89kL4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/1055753/%E4%B8%AD%E7%A7%8B%E7%AF%80-%E5%AB%A6%E5%A8%A5%E8%B7%9F%E5%90%B3%E5%89%9B%E5%92%A9%E9%97%9C%E4%BF%82-%E7%8E%89%E5%85%94%E6%90%97%E8%97%A5%E6%98%AF%E5%81%87-%E6%8F%AD%E4%B8%AD%E7%A7%8B3%E5%A4%A7%E5%82%B3%E8%AA%AA%E6%9A%97%E9%BB%91%E5%8E%9F%E8%B2%8C",
     "timestamp": "2026-09-25T02:59:10.908Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中秋節｜嫦娥跟吳剛咩關係?玉兔搗藥是假?揭中秋3大傳說暗黑原貌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180104172851171328761453.png/neDHyFRU-ZfPTxM8doaAMwMzVHSsBSM_Tz2Qvk89kL4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/1055753/%E4%B8%AD%E7%A7%8B%E7%AF%80-%E5%AB%A6%E5%A8%A5%E8%B7%9F%E5%90%B3%E5%89%9B%E5%92%A9%E9%97%9C%E4%BF%82-%E7%8E%89%E5%85%94%E6%90%97%E8%97%A5%E6%98%AF%E5%81%87-%E6%8F%AD%E4%B8%AD%E7%A7%8B3%E5%A4%A7%E5%82%B3%E8%AA%AA%E6%9A%97%E9%BB%91%E5%8E%9F%E8%B2%8C",
-    "timestamp": "2026-09-25T02:49:31.653Z",
     "strategy": ".content-card__main"
   }
 ];
