@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T10:21:33.057Z
+// Last updated: 2026-09-25T10:45:19.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平致辭提美籍教師賽考斯助中國「沙漠變森林」　本人激動回應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180215447425912832250846.jpeg/mQWknQrb3vXnp1KcsyMxtrjoD_yNp0rOTZExfU2RMX0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60393841/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E8%BE%AD%E6%8F%90%E7%BE%8E%E7%B1%8D%E6%95%99%E5%B8%AB%E8%B3%BD%E8%80%83%E6%96%AF%E5%8A%A9%E4%B8%AD%E5%9C%8B-%E6%B2%99%E6%BC%A0%E8%AE%8A%E6%A3%AE%E6%9E%97-%E6%9C%AC%E4%BA%BA%E6%BF%80%E5%8B%95%E5%9B%9E%E6%87%89",
+    "timestamp": "2026-09-25T10:45:19.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中秋節沙田廣場停電　商場店舖烏燈黑火　住宅未受影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176897778551885824827419.jpeg/l1acuuGObD5iKMyJIbYKppijER7HPXe7Ch3i1RAd4tU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60393652/%E7%AB%8B%E6%B3%95%E6%9C%8312-1%E5%86%8D%E9%96%8B%E5%AD%B8%E7%BF%92%E6%9C%83-%E6%8B%86%E8%A7%A3%E5%A4%8F%E5%AF%B6%E9%BE%8D%E7%99%BC%E5%B1%95%E8%88%87%E5%AE%89%E5%85%A8%E8%AC%9B%E8%A9%B1%E5%8F%8A%E5%85%A9%E4%BB%BD%E7%99%BD%E7%9A%AE%E6%9B%B8",
     "timestamp": "2026-09-25T03:24:55.402Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中秋節｜嫦娥跟吳剛咩關係?玉兔搗藥是假?揭中秋3大傳說暗黑原貌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180104172851171328761453.png/neDHyFRU-ZfPTxM8doaAMwMzVHSsBSM_Tz2Qvk89kL4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/1055753/%E4%B8%AD%E7%A7%8B%E7%AF%80-%E5%AB%A6%E5%A8%A5%E8%B7%9F%E5%90%B3%E5%89%9B%E5%92%A9%E9%97%9C%E4%BF%82-%E7%8E%89%E5%85%94%E6%90%97%E8%97%A5%E6%98%AF%E5%81%87-%E6%8F%AD%E4%B8%AD%E7%A7%8B3%E5%A4%A7%E5%82%B3%E8%AA%AA%E6%9A%97%E9%BB%91%E5%8E%9F%E8%B2%8C",
-    "timestamp": "2026-09-25T02:59:10.908Z",
     "strategy": ".content-card__main"
   }
 ];
