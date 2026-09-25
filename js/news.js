@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T11:33:32.934Z
+// Last updated: 2026-09-25T11:46:30.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警荃灣掃黃冚沙咀道淫窟　拘48歲內地婦將控兩罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180226709476085760845327.jpeg/RhdvIBKlTQ5BO9E7xCObiiIYWsO6KjUCeswZU3rMGVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393854/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%8E%83%E9%BB%83%E5%86%9A%E6%B2%99%E5%92%80%E9%81%93%E6%B7%AB%E7%AA%9F-%E6%8B%9848%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A9%A6%E5%B0%87%E6%8E%A7%E5%85%A9%E7%BD%AA",
+    "timestamp": "2026-09-25T11:46:30.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣掃黃冚沙咀道淫窟　拘48歲內地婦將控兩罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200420/328880999578603520.jpeg/gN_C6k2fdE5KWWh11U9UzO_huv0TRjeL-J-lNPifpTQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393703/%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE-%E6%B8%AF%E5%85%83%E6%8B%86%E6%81%AF%E5%8D%87%E9%8A%80%E8%A1%8C%E7%88%86%E5%8A%A0%E5%AE%9A%E5%AD%98%E6%81%AF%E6%88%B0-%E8%8F%AF%E5%83%911%E5%B9%B4%E6%9C%9F3-5%E5%8E%98%E5%85%A8%E6%B8%AF%E6%9C%80%E9%AB%98",
     "timestamp": "2026-09-25T04:58:52.173Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞優惠低至6折！最平100蚊4個餐+25款早餐/漢堡/炸雞套餐任揀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180129810685366272864375.jpeg/_BKrF1IKLGucEinJ_jqZGBiTDdOg2-s7Kvz8pir8_KY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60393683/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0%E4%BD%8E%E8%87%B36%E6%8A%98-%E6%9C%80%E5%B9%B3100%E8%9A%8A4%E5%80%8B%E9%A4%90-25%E6%AC%BE%E6%97%A9%E9%A4%90-%E6%BC%A2%E5%A0%A1-%E7%82%B8%E9%9B%9E%E5%A5%97%E9%A4%90%E4%BB%BB%E6%8F%80",
-    "timestamp": "2026-09-25T04:47:48.117Z",
     "strategy": ".content-card__main"
   }
 ];
