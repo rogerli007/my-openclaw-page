@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T09:46:35.372Z
+// Last updated: 2026-09-25T09:55:30.789Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大摩員工誤發內部文件　證監不評論個別事件　強調無心之失非藉口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210323/451063769091543040251690.jpeg/qpA-yUylcADv47mHvmw1VUZ0iILfuwaK6JN1a-iTdWs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393839/%E5%A4%A7%E6%91%A9%E5%93%A1%E5%B7%A5%E8%AA%A4%E7%99%BC%E5%85%A7%E9%83%A8%E6%96%87%E4%BB%B6-%E8%AD%89%E7%9B%A3%E4%B8%8D%E8%A9%95%E8%AB%96%E5%80%8B%E5%88%A5%E4%BA%8B%E4%BB%B6-%E5%BC%B7%E8%AA%BF%E7%84%A1%E5%BF%83%E4%B9%8B%E5%A4%B1%E9%9D%9E%E8%97%89%E5%8F%A3",
+    "timestamp": "2026-09-25T09:55:30.789Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "基滙資本太古城中心一座申擴建至38層　規劃署不反對、城規會批准",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180104172851171328761453.png/neDHyFRU-ZfPTxM8doaAMwMzVHSsBSM_Tz2Qvk89kL4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/1055753/%E4%B8%AD%E7%A7%8B%E7%AF%80-%E5%AB%A6%E5%A8%A5%E8%B7%9F%E5%90%B3%E5%89%9B%E5%92%A9%E9%97%9C%E4%BF%82-%E7%8E%89%E5%85%94%E6%90%97%E8%97%A5%E6%98%AF%E5%81%87-%E6%8F%AD%E4%B8%AD%E7%A7%8B3%E5%A4%A7%E5%82%B3%E8%AA%AA%E6%9A%97%E9%BB%91%E5%8E%9F%E8%B2%8C",
     "timestamp": "2026-09-25T02:49:31.653Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西營盤第二街爆鹹水管　泥水沿路傾瀉擋途人｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180101217909477376289710.jpeg/dUviJq5_xKMh1bgDHyoHVdkUb9By3Yk4C6j-oguo_qI?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393636/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AC%AC%E4%BA%8C%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B3%A5%E6%B0%B4%E6%B2%BF%E8%B7%AF%E5%82%BE%E7%80%89%E6%93%8B%E9%80%94%E4%BA%BA-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-25T02:31:13.093Z",
     "strategy": ".content-card__main"
   }
 ];
