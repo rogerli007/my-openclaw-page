@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T20:46:04.791Z
+// Last updated: 2026-09-25T20:56:13.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山麥當勞女生不滿服務態度　潑水掟食物　職員報稱頭暈｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180369521878241280476289.jpeg/ylMj8fSu-fCvxcMGKj0Ua1O9kn1rOjWlRwEkgUcBJIE",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393907/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%A5%B3%E7%94%9F%E4%B8%8D%E6%BB%BF%E6%9C%8D%E5%8B%99%E6%85%8B%E5%BA%A6-%E6%BD%91%E6%B0%B4%E6%8E%9F%E9%A3%9F%E7%89%A9-%E8%81%B7%E5%93%A1%E5%A0%B1%E7%A8%B1%E9%A0%AD%E6%9A%88-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-25T20:56:13.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山麥當勞女生不滿服務態度　潑水掟食物　職員報稱頭暈｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180267665738960896539610.jpeg/bWx9hfqgLkHeDNWQPG5gD_OcjbMwHEjaVJhy0lSYctI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393882/%E8%8D%83%E7%81%A3%E5%8D%83%E8%89%B2%E5%8C%AF%E8%80%81%E7%BF%81%E6%90%AD%E6%89%B6%E6%89%8B%E9%9B%BB%E6%A2%AF%E7%96%91%E5%A4%B1%E8%B6%B3%E6%91%94%E5%80%92-%E6%93%9A%E5%A0%B1%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-25T13:43:39.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李一桐《我不是大師》京劇造型曝光　化妝足5小時 連李現也認不出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180195942834376704478219.png/gyHLRGxp_MvLhSsQLh0roXDJcgkyaTokhnrMOIZ6zDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393713/%E6%9D%8E%E4%B8%80%E6%A1%90-%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%B8%AB-%E4%BA%AC%E5%8A%87%E9%80%A0%E5%9E%8B%E6%9B%9D%E5%85%89-%E5%8C%96%E5%A6%9D%E8%B6%B35%E5%B0%8F%E6%99%82-%E9%80%A3%E6%9D%8E%E7%8F%BE%E4%B9%9F%E8%AA%8D%E4%B8%8D%E5%87%BA",
-    "timestamp": "2026-09-25T13:20:49.323Z",
     "strategy": ".content-card__main"
   }
 ];
