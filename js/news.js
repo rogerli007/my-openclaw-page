@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T07:46:56.738Z
+// Last updated: 2026-09-25T08:00:09.258Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美｜國民黨憂台灣淪談判籌碼　民進黨強調台美長期合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179693037056561152543970.jpeg/MF7Grmbzip1VJeOHyAvY-vBEuJUzCO_BabbUyGm21Mg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60393765/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%86%82%E5%8F%B0%E7%81%A3%E6%B7%AA%E8%AB%87%E5%88%A4%E7%B1%8C%E7%A2%BC-%E6%B0%91%E9%80%B2%E9%BB%A8%E5%BC%B7%E8%AA%BF%E5%8F%B0%E7%BE%8E%E9%95%B7%E6%9C%9F%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-09-25T08:00:09.258Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國際賽出擊｜亞運男足8強開打　中國鬥泰國和味濃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179877784672014336085637.jpeg/7WJH92s7Ng0ccS9tJ7n2sqvIEhGBw8LbpxZznacWc50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393400/%E5%91%82%E6%85%A7%E5%84%80%E5%8F%83%E8%A7%80%E9%A8%B0%E8%A8%8A%E7%B8%BD%E9%83%A8%E8%88%88%E5%A5%AE%E6%89%93%E5%8D%A1-%E5%85%AD%E4%BD%8D%E6%95%B8%E5%90%88%E8%B3%87%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%9F%B7%E8%A1%8C%E8%91%A3%E4%BA%8B",
     "timestamp": "2026-09-24T22:55:10.777Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家女星參觀騰訊總部興奮打卡　六位數合資教育中心任執行董事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179877784672014336085637.jpeg/7WJH92s7Ng0ccS9tJ7n2sqvIEhGBw8LbpxZznacWc50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393400/%E5%91%82%E6%85%A7%E5%84%80%E5%8F%83%E8%A7%80%E9%A8%B0%E8%A8%8A%E7%B8%BD%E9%83%A8%E8%88%88%E5%A5%AE%E6%89%93%E5%8D%A1-%E5%85%AD%E4%BD%8D%E6%95%B8%E5%90%88%E8%B3%87%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%9F%B7%E8%A1%8C%E8%91%A3%E4%BA%8B",
-    "timestamp": "2026-09-24T22:49:34.505Z",
     "strategy": ".content-card__main"
   }
 ];
