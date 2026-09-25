@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T15:21:47.611Z
+// Last updated: 2026-09-25T15:43:36.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜港男北上醫「彈弓指」變永久傷殘　主刀名醫離奇被調包",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180279503461552128471928.jpeg/0wNZE3DoDoBxoTYeRQyHe5OKS6lV9znMkNCIF5DQiBc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393888/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%8C%97%E4%B8%8A%E4%B8%89%E7%94%B2%E9%86%AB%E9%99%A2%E9%86%AB-%E5%BD%88%E5%BC%93%E6%8C%87-%E8%AE%8A%E5%82%B7%E6%AE%98-%E4%B8%BB%E5%88%80%E5%90%8D%E9%86%AB%E9%9B%A2%E5%A5%87%E8%A2%AB%E8%AA%BF%E5%8C%85",
+    "timestamp": "2026-09-25T15:43:36.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "良十四世批聯合國欠成效多邊主義淪鬧劇　部分當權者視公義為商品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179693037056561152543970.jpeg/MF7Grmbzip1VJeOHyAvY-vBEuJUzCO_BabbUyGm21Mg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60393765/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%86%82%E5%8F%B0%E7%81%A3%E6%B7%AA%E8%AB%87%E5%88%A4%E7%B1%8C%E7%A2%BC-%E6%B0%91%E9%80%B2%E9%BB%A8%E5%BC%B7%E8%AA%BF%E5%8F%B0%E7%BE%8E%E9%95%B7%E6%9C%9F%E5%90%88%E4%BD%9C",
     "timestamp": "2026-09-25T08:00:09.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國際賽出擊｜亞運男足8強開打　中國鬥泰國和味濃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180180525172658176451380.jpeg/5aJMrz9-fWF4oPPwUOepCoVqT3Dt_s3Q4vaRMeL2kTE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393773/%E5%9C%8B%E9%9A%9B%E8%B3%BD%E5%87%BA%E6%93%8A-%E4%BA%9E%E9%81%8B%E7%94%B7%E8%B6%B38%E5%BC%B7%E9%96%8B%E6%89%93-%E4%B8%AD%E5%9C%8B%E9%AC%A5%E6%B3%B0%E5%9C%8B%E5%92%8C%E5%91%B3%E6%BF%83",
-    "timestamp": "2026-09-25T07:46:56.738Z",
     "strategy": ".content-card__main"
   }
 ];
