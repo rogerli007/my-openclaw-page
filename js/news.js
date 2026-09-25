@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T16:24:03.520Z
+// Last updated: 2026-09-25T16:46:38.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黑的｜警中區3個月拘3司機　十一黃金周的士大使駐旅遊熱點助旅客",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180273520383365120378105.jpeg/FssQKwKL_SRtvO4l-Rx2zXlMGIfZzlZNcqPE-HKjxPg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393840/%E9%BB%91%E7%9A%84-%E8%AD%A6%E4%B8%AD%E5%8D%803%E5%80%8B%E6%9C%88%E6%8B%983%E5%8F%B8%E6%A9%9F-%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8%E7%9A%84%E5%A3%AB%E5%A4%A7%E4%BD%BF%E9%A7%90%E6%97%85%E9%81%8A%E7%86%B1%E9%BB%9E%E5%8A%A9%E6%97%85%E5%AE%A2",
+    "timestamp": "2026-09-25T16:46:38.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黑的｜警中區3個月拘3司機　十一黃金周的士大使駐旅遊熱點助旅客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176207964483227648048576.jpeg/EsH9qvzRZQL75fEipsH-h-f2oWCiPM4OJq2SjCatkow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60393810/%E5%8C%97%E8%A7%92%E7%9A%87%E7%92%873196%E8%90%AC%E6%8B%9B%E6%A8%99%E6%B2%BD%E4%B8%89%E6%88%BF-%E5%91%8E%E5%83%B94%E8%90%AC-%E6%98%8E%E6%97%A5%E9%A6%96%E8%BC%AA%E5%83%B9%E5%96%AE%E9%96%8B%E8%B3%A3140%E4%BC%99",
     "timestamp": "2026-09-25T09:00:51.480Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "祖先鬼｜渡邊直美將「紅白藍」化身型裝　服指讚具地道特色見風采",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180193856767922176814957.jpeg/eCx4y0F9YcpxTHI2N_IFZxtoe_DWzsVvZTOphGUzqYQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393807/%E7%A5%96%E5%85%88%E9%AC%BC-%E6%B8%A1%E9%82%8A%E7%9B%B4%E7%BE%8E%E5%B0%87-%E7%B4%85%E7%99%BD%E8%97%8D-%E5%8C%96%E8%BA%AB%E5%9E%8B%E8%A3%9D-%E6%9C%8D%E6%8C%87%E8%AE%9A%E5%85%B7%E5%9C%B0%E9%81%93%E7%89%B9%E8%89%B2%E8%A6%8B%E9%A2%A8%E9%87%87",
-    "timestamp": "2026-09-25T08:49:46.605Z",
     "strategy": ".content-card__main"
   }
 ];
