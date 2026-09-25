@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T16:46:38.846Z
+// Last updated: 2026-09-25T16:56:27.949Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026．港隊游泳總結︱不再是何詩蓓一人團隊　小將相繼冒起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179871621955981312687921.jpeg/XV1Z4ZbXNnrwMB1pAgdJaGRHqIhl79FDh7_38L2_9_A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393519/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E6%B8%AF%E9%9A%8A%E6%B8%B8%E6%B3%B3%E7%B8%BD%E7%B5%90-%E4%B8%8D%E5%86%8D%E6%98%AF%E4%BD%95%E8%A9%A9%E8%93%93%E4%B8%80%E4%BA%BA%E5%9C%98%E9%9A%8A-%E5%B0%8F%E5%B0%87%E7%9B%B8%E7%B9%BC%E5%86%92%E8%B5%B7",
+    "timestamp": "2026-09-25T16:56:27.949Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黑的｜警中區3個月拘3司機　十一黃金周的士大使駐旅遊熱點助旅客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250701/1016809732112912384453178.jpeg/VOgedqpp33c1h9u4h51PJJdIKyFEemYqxJ0ObtKdDm4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393828/20%E6%AD%B2%E7%84%A1%E7%89%8C%E5%8F%B8%E6%A9%9F%E4%BB%A5%E9%80%BE110%E5%85%AC%E9%87%8C%E6%99%82%E9%80%9F-%E5%9C%A8%E5%85%83%E6%9C%97%E6%92%9E%E6%96%83%E8%80%81%E7%BF%81%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB-%E5%9B%9A42%E6%9C%88",
     "timestamp": "2026-09-25T09:23:09.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角皇璇3196萬招標沽三房、呎價4萬　明日首輪價單開賣140伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176207964483227648048576.jpeg/EsH9qvzRZQL75fEipsH-h-f2oWCiPM4OJq2SjCatkow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60393810/%E5%8C%97%E8%A7%92%E7%9A%87%E7%92%873196%E8%90%AC%E6%8B%9B%E6%A8%99%E6%B2%BD%E4%B8%89%E6%88%BF-%E5%91%8E%E5%83%B94%E8%90%AC-%E6%98%8E%E6%97%A5%E9%A6%96%E8%BC%AA%E5%83%B9%E5%96%AE%E9%96%8B%E8%B3%A3140%E4%BC%99",
-    "timestamp": "2026-09-25T09:00:51.480Z",
     "strategy": ".content-card__main"
   }
 ];
