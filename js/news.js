@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T11:46:30.302Z
+// Last updated: 2026-09-25T11:54:55.149Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透：彭麗媛與梅拉尼婭英語聊天　是習近平的「軟實力超級武器」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180236527960068096209457.jpeg/dcLf5TwRUGi-oG-mbWTCYYJ1VcgQFPdEjzzUbo881G4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393861/%E8%B7%AF%E9%80%8F-%E5%BD%AD%E9%BA%97%E5%AA%9B%E8%88%87%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A9%AD%E8%8B%B1%E8%AA%9E%E8%81%8A%E5%A4%A9-%E6%98%AF%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84-%E8%BB%9F%E5%AF%A6%E5%8A%9B%E8%B6%85%E7%B4%9A%E6%AD%A6%E5%99%A8",
+    "timestamp": "2026-09-25T11:54:55.149Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警荃灣掃黃冚沙咀道淫窟　拘48歲內地婦將控兩罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180136300842323968205173.png/SJ8Z2vNNMy9EfN1skC-HrtmKNgCgEWm688_WK_PP1is?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393706/%E5%94%90%E5%AF%A7%E8%A2%AB%E7%88%86%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%AC%B1%E5%85%BC%E8%87%AA%E6%AE%98%E5%88%BA%E8%85%B9-%E6%9B%9D%E5%85%89%E6%9C%80%E6%96%B0%E7%8B%80%E6%B3%81-it-s-all-ok",
     "timestamp": "2026-09-25T05:22:16.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "定期存款｜港元拆息升銀行爆加定存息戰　華僑1年期3.5厘全港最高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20200420/328880999578603520.jpeg/gN_C6k2fdE5KWWh11U9UzO_huv0TRjeL-J-lNPifpTQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393703/%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE-%E6%B8%AF%E5%85%83%E6%8B%86%E6%81%AF%E5%8D%87%E9%8A%80%E8%A1%8C%E7%88%86%E5%8A%A0%E5%AE%9A%E5%AD%98%E6%81%AF%E6%88%B0-%E8%8F%AF%E5%83%911%E5%B9%B4%E6%9C%9F3-5%E5%8E%98%E5%85%A8%E6%B8%AF%E6%9C%80%E9%AB%98",
-    "timestamp": "2026-09-25T04:58:52.173Z",
     "strategy": ".content-card__main"
   }
 ];
