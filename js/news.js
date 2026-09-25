@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T06:33:37.908Z
+// Last updated: 2026-09-25T07:00:27.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "33歲乘客巴士上猝死　醫生指死者八成血管塞　黃金救援只得5分鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180163213405327360021958.jpeg/NE42_S6PtopKTBK381JBBrlh-Dj00Z4IzVKC7uhSgu4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393747/33%E6%AD%B2%E4%B9%98%E5%AE%A2%E5%B7%B4%E5%A3%AB%E4%B8%8A%E7%8C%9D%E6%AD%BB-%E9%86%AB%E7%94%9F%E6%8C%87%E6%AD%BB%E8%80%85%E5%85%AB%E6%88%90%E8%A1%80%E7%AE%A1%E5%A1%9E-%E9%BB%83%E9%87%91%E6%95%91%E6%8F%B4%E5%8F%AA%E5%BE%975%E5%88%86%E9%90%98",
+    "timestamp": "2026-09-25T07:00:27.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Supper Moment演唱會2026澳門｜門票公售攻略+連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179876964362620928621435.jpeg/jL4xEfULhajjGM6-LiUVI3x25aP4DDVKhmCBSIZggUg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393330/%E6%88%90%E6%AF%85%E9%9B%BB%E8%A6%96%E5%9F%8E%E5%A4%96%E6%8B%8D-%E7%8B%A9%E8%AC%8A-%E8%B6%85%E9%95%B7%E4%BA%BA%E9%BE%8D%E6%B0%B4%E6%B4%A9%E4%B8%8D%E9%80%9A-%E7%B2%89%E7%B5%B2%E9%9C%87%E6%92%BC%E4%BA%BA%E7%89%86%E9%80%BC%E7%88%86%E8%A1%97%E9%A0%AD",
     "timestamp": "2026-09-24T22:32:57.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人氣小生電視城外拍戲現超長人龍水洩不通　粉絲震撼人牆逼爆街頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179876964362620928621435.jpeg/jL4xEfULhajjGM6-LiUVI3x25aP4DDVKhmCBSIZggUg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393330/%E6%88%90%E6%AF%85%E9%9B%BB%E8%A6%96%E5%9F%8E%E5%A4%96%E6%8B%8D-%E7%8B%A9%E8%AC%8A-%E8%B6%85%E9%95%B7%E4%BA%BA%E9%BE%8D%E6%B0%B4%E6%B4%A9%E4%B8%8D%E9%80%9A-%E7%B2%89%E7%B5%B2%E9%9C%87%E6%92%BC%E4%BA%BA%E7%89%86%E9%80%BC%E7%88%86%E8%A1%97%E9%A0%AD",
-    "timestamp": "2026-09-24T22:20:31.777Z",
     "strategy": ".content-card__main"
   }
 ];
