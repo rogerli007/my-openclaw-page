@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T01:41:36.683Z
+// Last updated: 2026-09-25T02:00:49.176Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美國宴致辭：MAGA與中華民族偉大復興完全可以相互成就",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180090885698752512270134.jpeg/-y_4h1WetHRI6n4vq_LIT5GuZSumMuE4wBimw8AYpsM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393632/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E5%9C%8B%E5%AE%B4%E8%87%B4%E8%BE%AD-maga%E8%88%87%E4%B8%AD%E8%8F%AF%E6%B0%91%E6%97%8F%E5%81%89%E5%A4%A7%E5%BE%A9%E8%88%88%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%92%E6%88%90%E5%B0%B1",
+    "timestamp": "2026-09-25T02:00:49.176Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺高球場經土地大辯論定收地建屋　今路向復未明　黃遠輝稱惋惜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179966823546753024629031.jpeg/u0Tij1luKZ0FgTkpHvEXPhC0ep0wadl7Z_Xd_V313f0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393583/%E4%B8%8A%E6%B0%B4%E5%BD%A9%E5%9C%92%E9%82%A855%E6%AD%B2%E7%94%B7%E4%B8%8A%E9%96%80%E6%8E%A2%E6%9C%8B%E5%8F%8B%E7%AA%81%E6%9A%88%E5%80%92-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-24T17:48:15.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美特朗普舉行歡迎儀式　F-22等戰機飛白宮上空致敬｜圖輯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179955492022521856682501.jpeg/9-N_Os64kmsgGd0348szD6a3xQCdaY0-9YMGH_WDBh8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393579/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%89%E8%A1%8C%E6%AD%A1%E8%BF%8E%E5%84%80%E5%BC%8F-f-22%E7%AD%89%E6%88%B0%E6%A9%9F%E9%A3%9B%E7%99%BD%E5%AE%AE%E4%B8%8A%E7%A9%BA%E8%87%B4%E6%95%AC-%E5%9C%96%E8%BC%AF",
-    "timestamp": "2026-09-24T17:19:39.567Z",
     "strategy": ".content-card__main"
   }
 ];
