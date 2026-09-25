@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T17:33:16.500Z
+// Last updated: 2026-09-25T17:44:46.694Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗尋求盡快與特朗普通話　了解習特會內容",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179456973922373632751432.jpeg/ZGKSP7v3olLxD_L-Gx3Ba98479ugE8enZhRbHGYUWxw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393898/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%8B%E6%B1%82%E7%9B%A1%E5%BF%AB%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%A9%B1-%E4%BA%86%E8%A7%A3%E7%BF%92%E7%89%B9%E6%9C%83%E5%85%A7%E5%AE%B9",
+    "timestamp": "2026-09-25T17:44:46.694Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026．港隊游泳總結︱不再是何詩蓓一人團隊　小將相繼冒起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210323/451063769091543040251690.jpeg/qpA-yUylcADv47mHvmw1VUZ0iILfuwaK6JN1a-iTdWs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393839/%E5%A4%A7%E6%91%A9%E5%93%A1%E5%B7%A5%E8%AA%A4%E7%99%BC%E5%85%A7%E9%83%A8%E6%96%87%E4%BB%B6-%E8%AD%89%E7%9B%A3%E4%B8%8D%E8%A9%95%E8%AB%96%E5%80%8B%E5%88%A5%E4%BA%8B%E4%BB%B6-%E5%BC%B7%E8%AA%BF%E7%84%A1%E5%BF%83%E4%B9%8B%E5%A4%B1%E9%9D%9E%E8%97%89%E5%8F%A3",
     "timestamp": "2026-09-25T09:55:30.789Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "基滙資本太古城中心一座申擴建至38層　規劃署不反對、城規會批准",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220524/605746801143713792978235.jpeg/tirIXr0QsJKlz1gQVHhq3sAXFRICRKJ6cC-nRHAvp0Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60393312/%E5%9F%BA%E6%BB%99%E8%B3%87%E6%9C%AC%E5%A4%AA%E5%8F%A4%E5%9F%8E%E4%B8%AD%E5%BF%83%E4%B8%80%E5%BA%A7%E7%94%B3%E6%93%B4%E5%BB%BA%E8%87%B338%E5%B1%A4-%E8%A6%8F%E5%8A%83%E7%BD%B2%E4%B8%8D%E5%8F%8D%E5%B0%8D-%E5%9F%8E%E8%A6%8F%E6%9C%83%E6%89%B9%E5%87%86",
-    "timestamp": "2026-09-25T09:46:35.372Z",
     "strategy": ".content-card__main"
   }
 ];
