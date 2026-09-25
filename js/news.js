@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T08:28:21.821Z
+// Last updated: 2026-09-25T08:49:46.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "祖先鬼｜渡邊直美將「紅白藍」化身型裝　服指讚具地道特色見風采",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180193856767922176814957.jpeg/eCx4y0F9YcpxTHI2N_IFZxtoe_DWzsVvZTOphGUzqYQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393807/%E7%A5%96%E5%85%88%E9%AC%BC-%E6%B8%A1%E9%82%8A%E7%9B%B4%E7%BE%8E%E5%B0%87-%E7%B4%85%E7%99%BD%E8%97%8D-%E5%8C%96%E8%BA%AB%E5%9E%8B%E8%A3%9D-%E6%9C%8D%E6%8C%87%E8%AE%9A%E5%85%B7%E5%9C%B0%E9%81%93%E7%89%B9%E8%89%B2%E8%A6%8B%E9%A2%A8%E9%87%87",
+    "timestamp": "2026-09-25T08:49:46.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬會凝伙計劃啟動助青年建正向人生　孫玉菡：每位年輕人都是瑰寶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179937960062095360049257.jpeg/uoGolTBhgySa_rKAAyqi_SG20NpAPpRnkvTZepL02Xo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393568/sica%E9%84%AD%E9%87%8D%E5%9B%9E%E6%87%89-%E8%88%8A%E6%84%9B-stone%E6%88%80%E9%BB%83%E6%B7%91%E8%94%93-%E7%95%80%E5%95%B2%E7%A9%BA%E9%96%93%E4%BA%BA%E5%93%8B-%E6%9C%80%E7%B7%8A%E8%A6%81%E9%96%8B%E5%BF%83",
     "timestamp": "2026-09-25T00:48:24.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會談了甚麼？　為何穩定中美關係是美國的當務之急",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179979002241093632318207.jpeg/zgnQTYbrAT8e5vdoyxi6dk60uU2Hk74MHWS4ch1kuHI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393607/%E7%BF%92%E7%89%B9%E6%9C%83%E8%AB%87%E4%BA%86%E7%94%9A%E9%BA%BC-%E7%82%BA%E4%BD%95%E7%A9%A9%E5%AE%9A%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E6%98%AF%E7%BE%8E%E5%9C%8B%E7%9A%84%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5",
-    "timestamp": "2026-09-24T23:54:08.562Z",
     "strategy": ".content-card__main"
   }
 ];
