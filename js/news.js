@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T08:00:09.258Z
+// Last updated: 2026-09-25T08:28:21.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬會凝伙計劃啟動助青年建正向人生　孫玉菡：每位年輕人都是瑰寶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180183194725519360071693.jpeg/pyEnMT_E0YTcj19FnpxoGX1ai7zcxdGZAQAmqAEAJqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60393792/%E9%A6%AC%E6%9C%83%E5%87%9D%E4%BC%99%E8%A8%88%E5%8A%83%E5%95%9F%E5%8B%95%E5%8A%A9%E9%9D%92%E5%B9%B4%E5%BB%BA%E6%AD%A3%E5%90%91%E4%BA%BA%E7%94%9F-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E6%AF%8F%E4%BD%8D%E5%B9%B4%E8%BC%95%E4%BA%BA%E9%83%BD%E6%98%AF%E7%91%B0%E5%AF%B6",
+    "timestamp": "2026-09-25T08:28:21.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美｜國民黨憂台灣淪談判籌碼　民進黨強調台美長期合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179979002241093632318207.jpeg/zgnQTYbrAT8e5vdoyxi6dk60uU2Hk74MHWS4ch1kuHI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393607/%E7%BF%92%E7%89%B9%E6%9C%83%E8%AB%87%E4%BA%86%E7%94%9A%E9%BA%BC-%E7%82%BA%E4%BD%95%E7%A9%A9%E5%AE%9A%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E6%98%AF%E7%BE%8E%E5%9C%8B%E7%9A%84%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5",
     "timestamp": "2026-09-24T23:54:08.562Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家女星參觀騰訊總部興奮打卡　六位數合資教育中心任執行董事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179877784672014336085637.jpeg/7WJH92s7Ng0ccS9tJ7n2sqvIEhGBw8LbpxZznacWc50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393400/%E5%91%82%E6%85%A7%E5%84%80%E5%8F%83%E8%A7%80%E9%A8%B0%E8%A8%8A%E7%B8%BD%E9%83%A8%E8%88%88%E5%A5%AE%E6%89%93%E5%8D%A1-%E5%85%AD%E4%BD%8D%E6%95%B8%E5%90%88%E8%B3%87%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%9F%B7%E8%A1%8C%E8%91%A3%E4%BA%8B",
-    "timestamp": "2026-09-24T22:55:10.777Z",
     "strategy": ".content-card__main"
   }
 ];
