@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T02:00:49.176Z
+// Last updated: 2026-09-25T02:31:13.093Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西營盤第二街爆鹹水管　泥水沿路傾瀉擋途人｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180101217909477376289710.jpeg/dUviJq5_xKMh1bgDHyoHVdkUb9By3Yk4C6j-oguo_qI?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393636/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AC%AC%E4%BA%8C%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B3%A5%E6%B0%B4%E6%B2%BF%E8%B7%AF%E5%82%BE%E7%80%89%E6%93%8B%E9%80%94%E4%BA%BA-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-25T02:31:13.093Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美國宴致辭：MAGA與中華民族偉大復興完全可以相互成就",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179966823546753024629031.jpeg/u0Tij1luKZ0FgTkpHvEXPhC0ep0wadl7Z_Xd_V313f0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393583/%E4%B8%8A%E6%B0%B4%E5%BD%A9%E5%9C%92%E9%82%A855%E6%AD%B2%E7%94%B7%E4%B8%8A%E9%96%80%E6%8E%A2%E6%9C%8B%E5%8F%8B%E7%AA%81%E6%9A%88%E5%80%92-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-24T17:53:54.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水彩園邨55歲男上門探朋友突暈倒　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179966823546753024629031.jpeg/u0Tij1luKZ0FgTkpHvEXPhC0ep0wadl7Z_Xd_V313f0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393583/%E4%B8%8A%E6%B0%B4%E5%BD%A9%E5%9C%92%E9%82%A855%E6%AD%B2%E7%94%B7%E4%B8%8A%E9%96%80%E6%8E%A2%E6%9C%8B%E5%8F%8B%E7%AA%81%E6%9A%88%E5%80%92-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-24T17:48:15.725Z",
     "strategy": ".content-card__main"
   }
 ];
