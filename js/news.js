@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T19:29:19.400Z
+// Last updated: 2026-09-25T19:54:36.077Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美田邨15歲男和51歲女「眼超超」動武　各涉襲擊和刑毀手機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180352442991120384648371.jpeg/VbPtqYEuoyG1g_VHufxG-Co9z3vYHwqcOwEjpAEBI6Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393905/%E7%BE%8E%E7%94%B0%E9%82%A815%E6%AD%B2%E7%94%B7%E5%92%8C51%E6%AD%B2%E5%A5%B3-%E7%9C%BC%E8%B6%85%E8%B6%85-%E5%8B%95%E6%AD%A6-%E5%90%84%E6%B6%89%E8%A5%B2%E6%93%8A%E5%92%8C%E5%88%91%E6%AF%80%E6%89%8B%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-25T19:54:36.077Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美田邨15歲男和51歲女「眼超超」動武　各涉襲擊和刑毀手機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180226709476085760845327.jpeg/RhdvIBKlTQ5BO9E7xCObiiIYWsO6KjUCeswZU3rMGVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393854/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%8E%83%E9%BB%83%E5%86%9A%E6%B2%99%E5%92%80%E9%81%93%E6%B7%AB%E7%AA%9F-%E6%8B%9848%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A9%A6%E5%B0%87%E6%8E%A7%E5%85%A9%E7%BD%AA",
     "timestamp": "2026-09-25T11:46:30.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警荃灣掃黃冚沙咀道淫窟　拘48歲內地婦將控兩罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180226709476085760845327.jpeg/RhdvIBKlTQ5BO9E7xCObiiIYWsO6KjUCeswZU3rMGVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393854/%E8%AD%A6%E8%8D%83%E7%81%A3%E6%8E%83%E9%BB%83%E5%86%9A%E6%B2%99%E5%92%80%E9%81%93%E6%B7%AB%E7%AA%9F-%E6%8B%9848%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%A9%A6%E5%B0%87%E6%8E%A7%E5%85%A9%E7%BD%AA",
-    "timestamp": "2026-09-25T11:33:32.934Z",
     "strategy": ".content-card__main"
   }
 ];
