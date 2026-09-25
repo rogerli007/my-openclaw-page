@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T18:46:38.974Z
+// Last updated: 2026-09-25T19:18:59.825Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋民間煙花夜空綻放　目擊者批評：連中秋都放煙花｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180345945015980032095842.jpeg/QFI4iantWINgqnkzj4sUd8rtOq-ZVlVtgQfKRYEHykU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393900/%E4%B8%AD%E7%A7%8B%E6%B0%91%E9%96%93%E7%85%99%E8%8A%B1%E5%A4%9C%E7%A9%BA%E7%B6%BB%E6%94%BE-%E7%9B%AE%E6%93%8A%E8%80%85%E6%89%B9%E8%A9%95-%E9%80%A3%E4%B8%AD%E7%A7%8B%E9%83%BD%E6%94%BE%E7%85%99%E8%8A%B1-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-25T19:18:59.825Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：貝森特繼續留在財政部　不會出任AI沙皇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180230615258107904301942.png/VCYzGNHeX4-T0z23kunDsjEs5fQa4QvEGbtuFBm7bhQ?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393855/%E6%9C%89%E7%89%87-%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%80%A3%E6%8E%92%E9%81%93%E7%88%86%E6%B0%B4%E7%AE%A1%E8%B7%AF%E9%99%B7-%E9%A6%AC%E8%B7%AF%E8%AE%8A%E6%BA%AA%E6%B5%81-%E8%BB%8A%E8%BC%9B%E6%B6%89%E6%B0%B4%E5%A6%82%E9%99%B8%E4%B8%8A%E8%A1%8C%E8%88%9F",
     "timestamp": "2026-09-25T11:19:47.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平致辭提美籍教師賽考斯助中國「沙漠變森林」　本人激動回應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180215447425912832250846.jpeg/mQWknQrb3vXnp1KcsyMxtrjoD_yNp0rOTZExfU2RMX0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60393841/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E8%BE%AD%E6%8F%90%E7%BE%8E%E7%B1%8D%E6%95%99%E5%B8%AB%E8%B3%BD%E8%80%83%E6%96%AF%E5%8A%A9%E4%B8%AD%E5%9C%8B-%E6%B2%99%E6%BC%A0%E8%AE%8A%E6%A3%AE%E6%9E%97-%E6%9C%AC%E4%BA%BA%E6%BF%80%E5%8B%95%E5%9B%9E%E6%87%89",
-    "timestamp": "2026-09-25T10:53:17.397Z",
     "strategy": ".content-card__main"
   }
 ];
