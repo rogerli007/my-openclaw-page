@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T09:23:09.379Z
+// Last updated: 2026-09-25T09:46:35.372Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "基滙資本太古城中心一座申擴建至38層　規劃署不反對、城規會批准",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220524/605746801143713792978235.jpeg/tirIXr0QsJKlz1gQVHhq3sAXFRICRKJ6cC-nRHAvp0Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60393312/%E5%9F%BA%E6%BB%99%E8%B3%87%E6%9C%AC%E5%A4%AA%E5%8F%A4%E5%9F%8E%E4%B8%AD%E5%BF%83%E4%B8%80%E5%BA%A7%E7%94%B3%E6%93%B4%E5%BB%BA%E8%87%B338%E5%B1%A4-%E8%A6%8F%E5%8A%83%E7%BD%B2%E4%B8%8D%E5%8F%8D%E5%B0%8D-%E5%9F%8E%E8%A6%8F%E6%9C%83%E6%89%B9%E5%87%86",
+    "timestamp": "2026-09-25T09:46:35.372Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "20歲無牌司機以逾110公里時速　在元朗撞斃老翁不顧而去　囚42月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180101217909477376289710.jpeg/dUviJq5_xKMh1bgDHyoHVdkUb9By3Yk4C6j-oguo_qI?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393636/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AC%AC%E4%BA%8C%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B3%A5%E6%B0%B4%E6%B2%BF%E8%B7%AF%E5%82%BE%E7%80%89%E6%93%8B%E9%80%94%E4%BA%BA-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-25T02:31:13.093Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美國宴致辭：MAGA與中華民族偉大復興完全可以相互成就",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180090885698752512270134.jpeg/-y_4h1WetHRI6n4vq_LIT5GuZSumMuE4wBimw8AYpsM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393632/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E5%9C%8B%E5%AE%B4%E8%87%B4%E8%BE%AD-maga%E8%88%87%E4%B8%AD%E8%8F%AF%E6%B0%91%E6%97%8F%E5%81%89%E5%A4%A7%E5%BE%A9%E8%88%88%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%92%E6%88%90%E5%B0%B1",
-    "timestamp": "2026-09-25T02:00:49.176Z",
     "strategy": ".content-card__main"
   }
 ];
