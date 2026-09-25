@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T03:24:55.402Z
+// Last updated: 2026-09-25T03:47:34.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "不想對死亡失去感受：台灣女護士以文字記錄下被忽略的生命處境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174367826673143808247039.jpeg/h1zqBZZl-Vd0dbbhBcR_TTyLxnV2A8dHjkMsdo5DLHY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60388304/%E4%B8%8D%E6%83%B3%E5%B0%8D%E6%AD%BB%E4%BA%A1%E5%A4%B1%E5%8E%BB%E6%84%9F%E5%8F%97-%E5%8F%B0%E7%81%A3%E5%A5%B3%E8%AD%B7%E5%A3%AB%E4%BB%A5%E6%96%87%E5%AD%97%E8%A8%98%E9%8C%84%E4%B8%8B%E8%A2%AB%E5%BF%BD%E7%95%A5%E7%9A%84%E7%94%9F%E5%91%BD%E8%99%95%E5%A2%83",
+    "timestamp": "2026-09-25T03:47:34.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立法會12.1再開學習會　拆解夏寶龍發展與安全講話及兩份白皮書",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179978712037199872840591.jpeg/L0yHsMOZOEb__r6-3gf1hb6YN6lohpMox03338dN998?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393590/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E8%AB%87%E9%87%8D%E9%BB%9E-%E4%BF%83%E7%BE%8E%E5%A0%85%E6%8C%81%E5%8F%8D%E5%B0%8D%E5%8F%B0%E7%8D%A8-%E5%80%A1%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%9B%9E%E5%B0%8D%E8%A9%B1%E8%BB%8C%E9%81%93",
     "timestamp": "2026-09-24T19:30:32.989Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平與特朗普會談重點：促美堅持反對台獨　倡美伊重回對話軌道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179978712037199872840591.jpeg/L0yHsMOZOEb__r6-3gf1hb6YN6lohpMox03338dN998?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393590/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E8%AB%87%E9%87%8D%E9%BB%9E-%E4%BF%83%E7%BE%8E%E5%A0%85%E6%8C%81%E5%8F%8D%E5%B0%8D%E5%8F%B0%E7%8D%A8-%E5%80%A1%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%9B%9E%E5%B0%8D%E8%A9%B1%E8%BB%8C%E9%81%93",
-    "timestamp": "2026-09-24T19:19:42.924Z",
     "strategy": ".content-card__main"
   }
 ];
