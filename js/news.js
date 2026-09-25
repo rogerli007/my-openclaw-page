@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T13:20:49.323Z
+// Last updated: 2026-09-25T13:43:39.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣千色匯老翁搭扶手電梯疑失足摔倒　據報昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180267665738960896539610.jpeg/bWx9hfqgLkHeDNWQPG5gD_OcjbMwHEjaVJhy0lSYctI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393882/%E8%8D%83%E7%81%A3%E5%8D%83%E8%89%B2%E5%8C%AF%E8%80%81%E7%BF%81%E6%90%AD%E6%89%B6%E6%89%8B%E9%9B%BB%E6%A2%AF%E7%96%91%E5%A4%B1%E8%B6%B3%E6%91%94%E5%80%92-%E6%93%9A%E5%A0%B1%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-09-25T13:43:39.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李一桐《我不是大師》京劇造型曝光　化妝足5小時 連李現也認不出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180141434024497152849052.jpeg/pU-on3q2MfxxO70o5ojw3_0IxQkU9jYFhYVJPoWFST4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393716/supper-moment%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-09-25T06:33:37.908Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Prestige 14 Flip AI+梵高版開箱｜星夜機身　滑鼠配件收藏味十足",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176949831671746560043957.png/x-eY_kbL7xoz5sR-1EhkVp_kSB7vzmaWQTQAQ0E0AEM",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60390287/prestige-14-flip-ai-%E6%A2%B5%E9%AB%98%E7%89%88%E9%96%8B%E7%AE%B1-%E6%98%9F%E5%A4%9C%E6%A9%9F%E8%BA%AB-%E6%BB%91%E9%BC%A0%E9%85%8D%E4%BB%B6%E6%94%B6%E8%97%8F%E5%91%B3%E5%8D%81%E8%B6%B3",
-    "timestamp": "2026-09-25T05:55:08.535Z",
     "strategy": ".content-card__main"
   }
 ];
