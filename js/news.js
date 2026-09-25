@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T10:53:17.397Z
+// Last updated: 2026-09-25T11:19:47.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜葵涌大連排道爆水管路陷　馬路變溪流　車輛涉水如陸上行舟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180230615258107904301942.png/VCYzGNHeX4-T0z23kunDsjEs5fQa4QvEGbtuFBm7bhQ?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393855/%E6%9C%89%E7%89%87-%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%80%A3%E6%8E%92%E9%81%93%E7%88%86%E6%B0%B4%E7%AE%A1%E8%B7%AF%E9%99%B7-%E9%A6%AC%E8%B7%AF%E8%AE%8A%E6%BA%AA%E6%B5%81-%E8%BB%8A%E8%BC%9B%E6%B6%89%E6%B0%B4%E5%A6%82%E9%99%B8%E4%B8%8A%E8%A1%8C%E8%88%9F",
+    "timestamp": "2026-09-25T11:19:47.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平致辭提美籍教師賽考斯助中國「沙漠變森林」　本人激動回應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260817/1165964947390205952638541.jpeg/mn_1XypgvmYXxcrBBhN5ghCz11krPvVgK-R_LCvkfyw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393672/%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1-%E5%BE%B7%E9%BB%91%E8%98%AD%E7%84%A1%E6%84%8F%E7%B9%BC%E7%BA%8C%E4%BA%A4%E6%88%B0-%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E6%B1%BA%E5%AE%9A%E6%AC%8A%E6%8E%8C%E6%8F%A1%E5%9C%A8%E7%BE%8E%E5%9C%8B%E6%89%8B%E4%B8%AD",
     "timestamp": "2026-09-25T03:58:45.009Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不想對死亡失去感受：台灣女護士以文字記錄下被忽略的生命處境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174367826673143808247039.jpeg/h1zqBZZl-Vd0dbbhBcR_TTyLxnV2A8dHjkMsdo5DLHY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60388304/%E4%B8%8D%E6%83%B3%E5%B0%8D%E6%AD%BB%E4%BA%A1%E5%A4%B1%E5%8E%BB%E6%84%9F%E5%8F%97-%E5%8F%B0%E7%81%A3%E5%A5%B3%E8%AD%B7%E5%A3%AB%E4%BB%A5%E6%96%87%E5%AD%97%E8%A8%98%E9%8C%84%E4%B8%8B%E8%A2%AB%E5%BF%BD%E7%95%A5%E7%9A%84%E7%94%9F%E5%91%BD%E8%99%95%E5%A2%83",
-    "timestamp": "2026-09-25T03:47:34.851Z",
     "strategy": ".content-card__main"
   }
 ];
