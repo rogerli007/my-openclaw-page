@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T02:49:31.653Z
+// Last updated: 2026-09-25T02:59:10.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋節｜嫦娥跟吳剛咩關係?玉兔搗藥是假?揭中秋3大傳說暗黑原貌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180104172851171328761453.png/neDHyFRU-ZfPTxM8doaAMwMzVHSsBSM_Tz2Qvk89kL4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/1055753/%E4%B8%AD%E7%A7%8B%E7%AF%80-%E5%AB%A6%E5%A8%A5%E8%B7%9F%E5%90%B3%E5%89%9B%E5%92%A9%E9%97%9C%E4%BF%82-%E7%8E%89%E5%85%94%E6%90%97%E8%97%A5%E6%98%AF%E5%81%87-%E6%8F%AD%E4%B8%AD%E7%A7%8B3%E5%A4%A7%E5%82%B3%E8%AA%AA%E6%9A%97%E9%BB%91%E5%8E%9F%E8%B2%8C",
+    "timestamp": "2026-09-25T02:59:10.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中秋節｜嫦娥跟吳剛咩關係?玉兔搗藥是假?揭中秋3大傳說暗黑原貌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179978712037199872840591.jpeg/L0yHsMOZOEb__r6-3gf1hb6YN6lohpMox03338dN998?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393590/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E8%AB%87%E9%87%8D%E9%BB%9E-%E4%BF%83%E7%BE%8E%E5%A0%85%E6%8C%81%E5%8F%8D%E5%B0%8D%E5%8F%B0%E7%8D%A8-%E5%80%A1%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%9B%9E%E5%B0%8D%E8%A9%B1%E8%BB%8C%E9%81%93",
     "timestamp": "2026-09-24T18:57:21.678Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮公布國宴菜單　包含黃南瓜濃湯、芝麻脆皮海鱸魚等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179972334052708352459061.jpeg/Ej61Bl0fNLjOGUVASP9_sQTJDcOBBCHTPH9m7jx_Zu4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393585/%E7%99%BD%E5%AE%AE%E5%85%AC%E5%B8%83%E5%9C%8B%E5%AE%B4%E8%8F%9C%E5%96%AE-%E5%8C%85%E5%90%AB%E9%BB%83%E5%8D%97%E7%93%9C%E6%BF%83%E6%B9%AF-%E8%8A%9D%E9%BA%BB%E8%84%86%E7%9A%AE%E6%B5%B7%E9%B1%B8%E9%AD%9A%E7%AD%89",
-    "timestamp": "2026-09-24T18:25:10.759Z",
     "strategy": ".content-card__main"
   }
 ];
