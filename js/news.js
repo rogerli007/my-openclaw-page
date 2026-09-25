@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T04:47:48.117Z
+// Last updated: 2026-09-25T04:58:52.173Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "定期存款｜港元拆息升銀行爆加定存息戰　華僑1年期3.5厘全港最高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20200420/328880999578603520.jpeg/gN_C6k2fdE5KWWh11U9UzO_huv0TRjeL-J-lNPifpTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60393703/%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE-%E6%B8%AF%E5%85%83%E6%8B%86%E6%81%AF%E5%8D%87%E9%8A%80%E8%A1%8C%E7%88%86%E5%8A%A0%E5%AE%9A%E5%AD%98%E6%81%AF%E6%88%B0-%E8%8F%AF%E5%83%911%E5%B9%B4%E6%9C%9F3-5%E5%8E%98%E5%85%A8%E6%B8%AF%E6%9C%80%E9%AB%98",
+    "timestamp": "2026-09-25T04:58:52.173Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞優惠低至6折！最平100蚊4個餐+25款早餐/漢堡/炸雞套餐任揀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180009080442327040675924.jpeg/czQ81JV0HNdmu9lh6Lp7bYWrEua7pqoAckMGBnJDBgY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393598/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83%E6%BC%94%E8%AA%AA%E6%9C%80%E5%B0%91%E6%95%B8%E5%8D%81%E4%BB%A3%E8%A1%A8%E9%9B%A2%E5%A0%B4%E6%8A%97%E8%AD%B0-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%96%A5-%E9%81%93%E5%BE%B7%E6%87%A6%E5%A4%AB",
     "timestamp": "2026-09-24T20:54:31.043Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞道鹹水管爆裂　鹹水供應受影響　預計今早恢復供水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179998438880710656410692.jpeg/qw0R6DyzF83Ij2MGgNlDdeqdDI9p9aaxLiAhzhQgIc4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393595/%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%81%93%E9%B9%B9%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E9%B9%B9%E6%B0%B4%E4%BE%9B%E6%87%89%E5%8F%97%E5%BD%B1%E9%9F%BF-%E9%A0%90%E8%A8%88%E4%BB%8A%E6%97%A9%E6%81%A2%E5%BE%A9%E4%BE%9B%E6%B0%B4",
-    "timestamp": "2026-09-24T20:21:38.523Z",
     "strategy": ".content-card__main"
   }
 ];
