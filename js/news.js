@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T20:19:04.641Z
+// Last updated: 2026-09-25T20:32:50.541Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美與特朗普會晤　普京：俄羅斯歡迎美中對話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171702336628723712521034.jpeg/C30g72-47zTO-hS_9wXpK1b9JXdD1Z7fV-7tnVfu7Z0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393908/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E6%99%A4-%E6%99%AE%E4%BA%AC-%E4%BF%84%E7%BE%85%E6%96%AF%E6%AD%A1%E8%BF%8E%E7%BE%8E%E4%B8%AD%E5%B0%8D%E8%A9%B1",
+    "timestamp": "2026-09-25T20:32:50.541Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美田邨15歲男和51歲女「眼超超」動武　各涉襲擊和刑毀手機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180235805927542784471690.jpeg/UCXI2Msm05JV1IPekapBThcCTsiBmG913GcdKtxnHSo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393868/%E6%BE%B3%E9%96%80%E5%8C%97%E5%8D%80%E4%B8%80%E4%B8%AD%E5%AD%B8%E5%85%A9%E5%90%8D%E7%A9%8D%E6%80%A8%E4%B8%AD%E4%B8%89%E7%94%B7%E7%94%9F%E7%88%AD%E5%9F%B7-%E6%8F%92%E7%8F%AD%E7%94%9F%E4%BA%AE%E8%9D%B4%E8%9D%B6%E5%88%80%E5%88%BA%E5%82%B7%E5%B0%8D%E6%96%B9%E8%87%89",
     "timestamp": "2026-09-25T12:52:43.198Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：彭麗媛與梅拉尼婭英語聊天　是習近平的「軟實力超級武器」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180236527960068096209457.jpeg/dcLf5TwRUGi-oG-mbWTCYYJ1VcgQFPdEjzzUbo881G4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393861/%E8%B7%AF%E9%80%8F-%E5%BD%AD%E9%BA%97%E5%AA%9B%E8%88%87%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A9%AD%E8%8B%B1%E8%AA%9E%E8%81%8A%E5%A4%A9-%E6%98%AF%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84-%E8%BB%9F%E5%AF%A6%E5%8A%9B%E8%B6%85%E7%B4%9A%E6%AD%A6%E5%99%A8",
-    "timestamp": "2026-09-25T11:54:55.149Z",
     "strategy": ".content-card__main"
   }
 ];
