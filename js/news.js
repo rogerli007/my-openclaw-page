@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T18:23:54.170Z
+// Last updated: 2026-09-25T18:46:38.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：貝森特繼續留在財政部　不會出任AI沙皇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179926378343043072628459.jpeg/1Wnd0PD553qm2gyavXWXDrMcZJKG5DQqlhp_NZYafzU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393899/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B2%9D%E6%A3%AE%E7%89%B9%E7%B9%BC%E7%BA%8C%E7%95%99%E5%9C%A8%E8%B2%A1%E6%94%BF%E9%83%A8-%E4%B8%8D%E6%9C%83%E5%87%BA%E4%BB%BBai%E6%B2%99%E7%9A%87",
+    "timestamp": "2026-09-25T18:46:38.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗尋求盡快與特朗普通話　了解習特會內容",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180215447425912832250846.jpeg/mQWknQrb3vXnp1KcsyMxtrjoD_yNp0rOTZExfU2RMX0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60393841/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E8%BE%AD%E6%8F%90%E7%BE%8E%E7%B1%8D%E6%95%99%E5%B8%AB%E8%B3%BD%E8%80%83%E6%96%AF%E5%8A%A9%E4%B8%AD%E5%9C%8B-%E6%B2%99%E6%BC%A0%E8%AE%8A%E6%A3%AE%E6%9E%97-%E6%9C%AC%E4%BA%BA%E6%BF%80%E5%8B%95%E5%9B%9E%E6%87%89",
     "timestamp": "2026-09-25T10:53:17.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平致辭提美籍教師賽考斯助中國「沙漠變森林」　本人激動回應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180215447425912832250846.jpeg/mQWknQrb3vXnp1KcsyMxtrjoD_yNp0rOTZExfU2RMX0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60393841/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E8%BE%AD%E6%8F%90%E7%BE%8E%E7%B1%8D%E6%95%99%E5%B8%AB%E8%B3%BD%E8%80%83%E6%96%AF%E5%8A%A9%E4%B8%AD%E5%9C%8B-%E6%B2%99%E6%BC%A0%E8%AE%8A%E6%A3%AE%E6%9E%97-%E6%9C%AC%E4%BA%BA%E6%BF%80%E5%8B%95%E5%9B%9E%E6%87%89",
-    "timestamp": "2026-09-25T10:45:19.329Z",
     "strategy": ".content-card__main"
   }
 ];
