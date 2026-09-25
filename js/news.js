@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T05:55:08.535Z
+// Last updated: 2026-09-25T06:33:37.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Supper Moment演唱會2026澳門｜門票公售攻略+連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180141434024497152849052.jpeg/pU-on3q2MfxxO70o5ojw3_0IxQkU9jYFhYVJPoWFST4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393716/supper-moment%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-09-25T06:33:37.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Prestige 14 Flip AI+梵高版開箱｜星夜機身　滑鼠配件收藏味十足",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179876964362620928621435.jpeg/jL4xEfULhajjGM6-LiUVI3x25aP4DDVKhmCBSIZggUg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393330/%E6%88%90%E6%AF%85%E9%9B%BB%E8%A6%96%E5%9F%8E%E5%A4%96%E6%8B%8D-%E7%8B%A9%E8%AC%8A-%E8%B6%85%E9%95%B7%E4%BA%BA%E9%BE%8D%E6%B0%B4%E6%B4%A9%E4%B8%8D%E9%80%9A-%E7%B2%89%E7%B5%B2%E9%9C%87%E6%92%BC%E4%BA%BA%E7%89%86%E9%80%BC%E7%88%86%E8%A1%97%E9%A0%AD",
     "timestamp": "2026-09-24T22:20:31.777Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海麗邨24歲男捱打受傷　姊夫夥同黨共2人逞兇後乘車逃走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180025284452159488345792.jpeg/MCcyv7ICbs73SwdQ5TOxGkDJixyOBIonv4Oq4YWDquE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393601/%E6%B5%B7%E9%BA%97%E9%82%A824%E6%AD%B2%E7%94%B7%E6%8D%B1%E6%89%93%E5%8F%97%E5%82%B7-%E5%A7%8A%E5%A4%AB%E5%A4%A5%E5%90%8C%E9%BB%A8%E5%85%B12%E4%BA%BA%E9%80%9E%E5%85%87%E5%BE%8C%E4%B9%98%E8%BB%8A%E9%80%83%E8%B5%B0",
-    "timestamp": "2026-09-24T21:43:12.847Z",
     "strategy": ".content-card__main"
   }
 ];
