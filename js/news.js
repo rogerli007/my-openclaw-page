@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-24T23:54:08.562Z
+// Last updated: 2026-09-25T00:48:24.077Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Sica鄭重回應「舊愛」Stone戀黃淑蔓：畀啲空間人哋，最緊要開心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179937960062095360049257.jpeg/uoGolTBhgySa_rKAAyqi_SG20NpAPpRnkvTZepL02Xo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393568/sica%E9%84%AD%E9%87%8D%E5%9B%9E%E6%87%89-%E8%88%8A%E6%84%9B-stone%E6%88%80%E9%BB%83%E6%B7%91%E8%94%93-%E7%95%80%E5%95%B2%E7%A9%BA%E9%96%93%E4%BA%BA%E5%93%8B-%E6%9C%80%E7%B7%8A%E8%A6%81%E9%96%8B%E5%BF%83",
+    "timestamp": "2026-09-25T00:48:24.077Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會談了甚麼？　為何穩定中美關係是美國的當務之急",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179955339592732672162508.jpeg/iKMyVytF7kiVTjs5RKIDGrsD0RSCLXLV3UbQJd1G0CU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393569/%E8%A1%9B%E8%A9%A9%E9%9B%85%E5%87%BA%E5%B8%AD%E9%A6%96%E6%98%A0%E7%AA%81%E5%8F%AB%E5%81%9C%E5%8F%B8%E5%84%80%E9%BB%9E%E5%90%8D%E5%BD%B1%E5%90%88%E7%85%A7-%E9%A9%9A%E8%A6%BA%E5%94%90%E6%96%87%E9%BE%8D%E7%A5%9E%E7%A7%98%E5%98%89%E8%B3%93%E5%8D%B3%E5%B0%B7%E5%B0%AC",
     "timestamp": "2026-09-24T16:55:07.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海洋公園哈囉喂聯乘王嘉爾推鬼屋　一鬼屋試玩時甩部件險擊中記者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179940336433500160268574.jpeg/bHMdlpE9YzOgV4zhrZLGcamtQk4pUkUHZwUyjUIFMo0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393567/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E5%93%88%E5%9B%89%E5%96%82%E8%81%AF%E4%B9%98%E7%8E%8B%E5%98%89%E7%88%BE%E6%8E%A8%E9%AC%BC%E5%B1%8B-%E4%B8%80%E9%AC%BC%E5%B1%8B%E8%A9%A6%E7%8E%A9%E6%99%82%E7%94%A9%E9%83%A8%E4%BB%B6%E9%9A%AA%E6%93%8A%E4%B8%AD%E8%A8%98%E8%80%85",
-    "timestamp": "2026-09-24T16:45:09.022Z",
     "strategy": ".content-card__main"
   }
 ];
