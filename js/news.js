@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T08:49:46.605Z
+// Last updated: 2026-09-25T09:00:51.480Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角皇璇3196萬招標沽三房、呎價4萬　明日首輪價單開賣140伙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260914/1176207964483227648048576.jpeg/EsH9qvzRZQL75fEipsH-h-f2oWCiPM4OJq2SjCatkow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60393810/%E5%8C%97%E8%A7%92%E7%9A%87%E7%92%873196%E8%90%AC%E6%8B%9B%E6%A8%99%E6%B2%BD%E4%B8%89%E6%88%BF-%E5%91%8E%E5%83%B94%E8%90%AC-%E6%98%8E%E6%97%A5%E9%A6%96%E8%BC%AA%E5%83%B9%E5%96%AE%E9%96%8B%E8%B3%A3140%E4%BC%99",
+    "timestamp": "2026-09-25T09:00:51.480Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "祖先鬼｜渡邊直美將「紅白藍」化身型裝　服指讚具地道特色見風采",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230831/773953736103038976846290.jpeg/lN_qW3T7P52rlfZtnCNJemjxy_AhH915lWvIZK9ryGQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393620/%E7%B2%89%E5%B6%BA%E9%AB%98%E7%90%83%E5%A0%B4%E7%B6%93%E5%9C%9F%E5%9C%B0%E5%A4%A7%E8%BE%AF%E8%AB%96%E5%AE%9A%E6%94%B6%E5%9C%B0%E5%BB%BA%E5%B1%8B-%E4%BB%8A%E8%B7%AF%E5%90%91%E5%BE%A9%E6%9C%AA%E6%98%8E-%E9%BB%83%E9%81%A0%E8%BC%9D%E7%A8%B1%E6%83%8B%E6%83%9C",
     "timestamp": "2026-09-25T01:41:36.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Sica鄭重回應「舊愛」Stone戀黃淑蔓：畀啲空間人哋，最緊要開心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179937960062095360049257.jpeg/uoGolTBhgySa_rKAAyqi_SG20NpAPpRnkvTZepL02Xo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393568/sica%E9%84%AD%E9%87%8D%E5%9B%9E%E6%87%89-%E8%88%8A%E6%84%9B-stone%E6%88%80%E9%BB%83%E6%B7%91%E8%94%93-%E7%95%80%E5%95%B2%E7%A9%BA%E9%96%93%E4%BA%BA%E5%93%8B-%E6%9C%80%E7%B7%8A%E8%A6%81%E9%96%8B%E5%BF%83",
-    "timestamp": "2026-09-25T00:48:24.077Z",
     "strategy": ".content-card__main"
   }
 ];
