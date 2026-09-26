@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T02:49:22.563Z
+// Last updated: 2026-09-26T03:00:13.418Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "24/7 FITNESS沙田分店更衣室驚藏針孔鏡頭　警列窺淫追緝｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180460153527341056367540.jpeg/mun17dDufR1qSd3VasJ69ha0N2m9sgErx-3YHcft2B0",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393913/24-7-fitness%E6%B2%99%E7%94%B0%E5%88%86%E5%BA%97%E6%9B%B4%E8%A1%A3%E5%AE%A4%E9%A9%9A%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-%E8%AD%A6%E5%88%97%E7%AA%BA%E6%B7%AB%E8%BF%BD%E7%B7%9D-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-09-26T03:00:13.418Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平特朗普同談二戰合作　學者：中美戰略穩定仍存分歧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180352442991120384648371.jpeg/VbPtqYEuoyG1g_VHufxG-Co9z3vYHwqcOwEjpAEBI6Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393905/%E7%BE%8E%E7%94%B0%E9%82%A815%E6%AD%B2%E7%94%B7%E5%92%8C51%E6%AD%B2%E5%A5%B3-%E7%9C%BC%E8%B6%85%E8%B6%85-%E5%8B%95%E6%AD%A6-%E5%90%84%E6%B6%89%E8%A5%B2%E6%93%8A%E5%92%8C%E5%88%91%E6%AF%80%E6%89%8B%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-25T19:29:19.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中秋民間煙花夜空綻放　目擊者批評：連中秋都放煙花｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180345945015980032095842.jpeg/QFI4iantWINgqnkzj4sUd8rtOq-ZVlVtgQfKRYEHykU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393900/%E4%B8%AD%E7%A7%8B%E6%B0%91%E9%96%93%E7%85%99%E8%8A%B1%E5%A4%9C%E7%A9%BA%E7%B6%BB%E6%94%BE-%E7%9B%AE%E6%93%8A%E8%80%85%E6%89%B9%E8%A9%95-%E9%80%A3%E4%B8%AD%E7%A7%8B%E9%83%BD%E6%94%BE%E7%85%99%E8%8A%B1-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-25T19:18:59.825Z",
     "strategy": ".content-card__main"
   }
 ];
