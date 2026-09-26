@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T09:43:42.079Z
+// Last updated: 2026-09-26T10:19:04.693Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中九龍繞道｜九龍灣段工程年內完成　來往將軍澳至油麻地僅12分鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180573829089464320531784.png/KaQ7zPiAudm-M7nNIg4zSbBTZ3sigOx5QuXPvULlz70?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394038/%E4%B8%AD%E4%B9%9D%E9%BE%8D%E7%B9%9E%E9%81%93-%E4%B9%9D%E9%BE%8D%E7%81%A3%E6%AE%B5%E5%B7%A5%E7%A8%8B%E5%B9%B4%E5%85%A7%E5%AE%8C%E6%88%90-%E4%BE%86%E5%BE%80%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%87%B3%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%83%8512%E5%88%86%E9%90%98",
+    "timestamp": "2026-09-26T10:19:04.693Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜尖沙咀清晨街頭混戰　夫婦遭圍毆額鼻流血　警追緝10多男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393922/%E7%BF%92%E7%89%B9%E6%9C%83-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1-%E6%8A%8A%E4%B8%AD%E7%BE%8E%E5%BB%BA%E8%A8%AD%E6%80%A7%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A%E9%97%9C%E4%BF%82%E5%BE%9E%E9%A1%98%E6%99%AF%E8%BD%89%E5%8C%96%E7%82%BA%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-09-26T02:01:43.298Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026馬拉松︱羅映潮黃卓寧戰女子組　林穎璋男子組列第15名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180439994917982208140726.jpeg/mo_0IJJibzwiyuMKCwL4SvbI7P7riiVoxxQ_nf0UP50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393919/%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%A6%AC%E6%8B%89%E6%9D%BE-%E7%BE%85%E6%98%A0%E6%BD%AE%E9%BB%83%E5%8D%93%E5%AF%A7%E6%88%B0%E5%A5%B3%E5%AD%90%E7%B5%84-%E6%9E%97%E7%A9%8E%E7%92%8B%E7%94%B7%E5%AD%90%E7%B5%84%E5%88%97%E7%AC%AC15%E5%90%8D",
-    "timestamp": "2026-09-26T01:39:59.467Z",
     "strategy": ".content-card__main"
   }
 ];
