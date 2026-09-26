@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T11:29:46.301Z
+// Last updated: 2026-09-26T11:53:58.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "唐氏綜合症韓星鄭恩惠突曬超聲波照　網民轟「太自私」父親急撲火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180593882358878208752694.png/GNuLoFelsPppI0KsnKuyopSKu_KpJ_B9qVwGj6lcBo8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394049/%E5%94%90%E6%B0%8F%E7%B6%9C%E5%90%88%E7%97%87%E9%9F%93%E6%98%9F%E9%84%AD%E6%81%A9%E6%83%A0%E7%AA%81%E6%9B%AC%E8%B6%85%E8%81%B2%E6%B3%A2%E7%85%A7-%E7%B6%B2%E6%B0%91%E8%BD%9F-%E5%A4%AA%E8%87%AA%E7%A7%81-%E7%88%B6%E8%A6%AA%E6%80%A5%E6%92%B2%E7%81%AB",
+    "timestamp": "2026-09-26T11:53:58.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神2｜阮嘉敏出動50件三尖八角私伙衫考驗勇者　新賽制CP大洗牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152259126995193856470362.png/BZaFPIdOw5l9xSCCDt3pnmwqZPL-raWho6OddtajnXY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60368599/%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F%E7%82%BA%E4%BD%95%E7%9A%AE%E8%86%9A%E5%A5%BD-%E6%8F%AD5%E5%80%8B%E6%B4%97%E6%BE%A1%E6%9C%9F%E9%96%93%E8%AD%B7%E8%86%9A%E7%A7%98%E8%A8%A3-%E8%BC%95%E9%AC%86%E9%A4%8A%E5%87%BA%E6%B0%B4%E6%BD%A4%E8%82%8C%E8%86%9A",
     "timestamp": "2026-09-26T03:47:06.644Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會｜陳茂波：中美關係變得積極正面　投資者布局可更安心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176921054929489920941325.jpeg/YkClbpoTl-UVH5H390OokbjFSkZ-FD4tZgzP3kAMz94?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60393939/%E7%BF%92%E7%89%B9%E6%9C%83-%E9%99%B3%E8%8C%82%E6%B3%A2-%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E8%AE%8A%E5%BE%97%E7%A9%8D%E6%A5%B5%E6%AD%A3%E9%9D%A2-%E6%8A%95%E8%B3%87%E8%80%85%E5%B8%83%E5%B1%80%E5%8F%AF%E6%9B%B4%E5%AE%89%E5%BF%83",
-    "timestamp": "2026-09-26T03:23:02.175Z",
     "strategy": ".content-card__main"
   }
 ];
