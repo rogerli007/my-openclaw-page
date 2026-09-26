@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T21:18:15.758Z
+// Last updated: 2026-09-26T21:31:21.377Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜荃錦公路跑車疑跣胎越線撞Audi　跑車起火　Audi司機送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394104/%E8%BB%8Acam-%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B7%91%E8%BB%8A%E7%96%91%E8%B7%A3%E8%83%8E%E8%B6%8A%E7%B7%9A%E6%92%9Eaudi-%E8%B7%91%E8%BB%8A%E8%B5%B7%E7%81%AB-audi%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-26T21:31:21.377Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜荃錦公路跑車疑跣胎越線撞Audi　跑車起火　Audi司機送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180620038588076032012589.jpeg/ZrBNI9nWUCjV07PjTMljM_j_rVGq6zxj8i64vfIuuL0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394064/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-19%E6%AD%B2%E5%B0%91%E5%A5%B3%E7%B6%B2%E4%B8%8A%E4%BA%A4%E5%8F%8B%E8%AA%A4%E4%BF%A1%E7%94%9C%E8%A8%80%E8%9C%9C%E8%AA%9E-%E4%BA%A4%E9%8A%80%E8%A1%8C%E5%AF%86%E7%A2%BC%E6%90%8D%E5%A4%B130%E5%A4%9A%E8%90%AC",
     "timestamp": "2026-09-26T14:19:16.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《蘭香如故》47集播出改動！每日2集變1集再加暫停　引爆劇迷不滿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180583088611135488295876.png/IA6SA5gKFc3O-oexQFwfk59L5lS6HBYLeU7KunlOyro?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394018/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-47%E9%9B%86%E6%92%AD%E5%87%BA%E6%94%B9%E5%8B%95-%E6%AF%8F%E6%97%A52%E9%9B%86%E8%AE%8A1%E9%9B%86%E5%86%8D%E5%8A%A0%E6%9A%AB%E5%81%9C-%E5%BC%95%E7%88%86%E5%8A%87%E8%BF%B7%E4%B8%8D%E6%BB%BF",
-    "timestamp": "2026-09-26T13:54:09.723Z",
     "strategy": ".content-card__main"
   }
 ];
