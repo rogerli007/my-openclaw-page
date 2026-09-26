@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T19:54:08.605Z
+// Last updated: 2026-09-26T20:32:56.514Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜荃錦公路跑車疑跣胎越線撞Audi　跑車起火　Audi司機送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394104/%E8%BB%8Acam-%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B7%91%E8%BB%8A%E7%96%91%E8%B7%A3%E8%83%8E%E8%B6%8A%E7%B7%9A%E6%92%9Eaudi-%E8%B7%91%E8%BB%8A%E8%B5%B7%E7%81%AB-audi%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-26T20:32:56.514Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴黎80萬人露天彌撒　教宗良十四世籲信眾尋求信仰幸福",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180620269400625152462701.jpeg/u5zGeEQbZS5Vdm4AHWiGz9EKU7NwD4EPBjbA4gY2wOI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394060/%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%9B%BB%E7%AB%B6-%E6%97%A5%E6%9C%AC11%E6%AD%B2%E5%B0%8F%E5%AD%B8%E7%94%9F%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B9%B4%E8%BC%95%E5%86%A0%E8%BB%8D-%E5%91%86%E8%90%8C%E8%A1%A8%E6%83%85%E6%90%B6%E9%8F%A1",
     "timestamp": "2026-09-26T12:58:35.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中秋金多寶2026｜$6800萬頭獎六合彩今晚攪珠　即睇4大幸運號碼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180610878739845120356907.jpeg/-G2pecGY5KZy24dyoCyEYU0XEaxvTOTrQWodDGRqHQw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393928/%E4%B8%AD%E7%A7%8B%E9%87%91%E5%A4%9A%E5%AF%B62026-6800%E8%90%AC%E9%A0%AD%E7%8D%8E%E5%85%AD%E5%90%88%E5%BD%A9%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E5%8D%B3%E7%9D%874%E5%A4%A7%E5%B9%B8%E9%81%8B%E8%99%9F%E7%A2%BC",
-    "timestamp": "2026-09-26T12:48:31.104Z",
     "strategy": ".content-card__main"
   }
 ];
