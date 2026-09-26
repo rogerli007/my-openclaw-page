@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T12:48:31.104Z
+// Last updated: 2026-09-26T12:58:35.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026電競｜日本11歲小學生成史上最年輕冠軍　呆萌表情搶鏡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180620269400625152462701.jpeg/u5zGeEQbZS5Vdm4AHWiGz9EKU7NwD4EPBjbA4gY2wOI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394060/%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%9B%BB%E7%AB%B6-%E6%97%A5%E6%9C%AC11%E6%AD%B2%E5%B0%8F%E5%AD%B8%E7%94%9F%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B9%B4%E8%BC%95%E5%86%A0%E8%BB%8D-%E5%91%86%E8%90%8C%E8%A1%A8%E6%83%85%E6%90%B6%E9%8F%A1",
+    "timestamp": "2026-09-26T12:58:35.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中秋金多寶2026｜$6800萬頭獎六合彩今晚攪珠　即睇4大幸運號碼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393964/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%A6%AE%E9%81%87%E6%98%AF%E8%A1%A8%E9%9D%A2-%E5%AF%A6%E5%8A%9B%E6%98%AF%E5%BA%95%E8%89%B2-%E9%81%B8%E6%93%87%E6%9B%B4%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-09-26T05:34:28.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭香如故｜劉學義譚松韻小院贈蘭花草　暗藏壓抑醋意眼神戲獲讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180472942056706048426719.png/8Gop7gx7uXoKyill70fX1T3qG4ufE4cOomUsMKJlLDA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393821/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E5%8A%89%E5%AD%B8%E7%BE%A9%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%B0%8F%E9%99%A2%E8%B4%88%E8%98%AD%E8%8A%B1%E8%8D%89-%E6%9A%97%E8%97%8F%E5%A3%93%E6%8A%91%E9%86%8B%E6%84%8F%E7%9C%BC%E7%A5%9E%E6%88%B2%E7%8D%B2%E8%AE%9A",
-    "timestamp": "2026-09-26T05:19:53.227Z",
     "strategy": ".content-card__main"
   }
 ];
