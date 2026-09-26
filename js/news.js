@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T08:25:56.731Z
+// Last updated: 2026-09-26T08:46:19.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜石籬二邨單位六旬婦危坐晾衣杆　1小時後返安全位置",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180556021056147456906385.jpeg/9ujUHybK9W0BIqDJnOXbj6dNigl5wwuqYtN7KmLTeyo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394017/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E4%BA%8C%E9%82%A8%E5%96%AE%E4%BD%8D%E5%85%AD%E6%97%AC%E5%A9%A6%E5%8D%B1%E5%9D%90%E6%99%BE%E8%A1%A3%E6%9D%86-1%E5%B0%8F%E6%99%82%E5%BE%8C%E8%BF%94%E5%AE%89%E5%85%A8%E4%BD%8D%E7%BD%AE",
+    "timestamp": "2026-09-26T08:46:19.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美元首今年內將再會面2次　特朗普證實11月赴華APEC峰會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148848085477101568842350.jpeg/kw_auTFhF3gu1O5W8CcQRtykCgwCvQRP_pySHf6ckh0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393910/%E6%AD%90%E7%9B%9F%E8%AD%A6%E5%91%8A%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E5%8D%B1%E6%A9%9F-%E7%B1%B2%E5%90%84%E5%9C%8B%E6%8A%91%E5%88%B6%E5%A4%A9%E7%84%B6%E6%B0%A3%E9%9B%BB%E5%8A%9B%E9%9C%80%E6%B1%82",
     "timestamp": "2026-09-25T23:42:23.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟警告能源價格危機　籲各國抑制天然氣電力需求",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148848085477101568842350.jpeg/kw_auTFhF3gu1O5W8CcQRtykCgwCvQRP_pySHf6ckh0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393910/%E6%AD%90%E7%9B%9F%E8%AD%A6%E5%91%8A%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E5%8D%B1%E6%A9%9F-%E7%B1%B2%E5%90%84%E5%9C%8B%E6%8A%91%E5%88%B6%E5%A4%A9%E7%84%B6%E6%B0%A3%E9%9B%BB%E5%8A%9B%E9%9C%80%E6%B1%82",
-    "timestamp": "2026-09-25T23:30:28.063Z",
     "strategy": ".content-card__main"
   }
 ];
