@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T10:19:04.693Z
+// Last updated: 2026-09-26T10:31:47.092Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大嶼山對開海面79歲婦疑遇溺　途人救起昏迷送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166316067648180224642571.jpeg/FF3Ga9DpehViL0WobfXmW6ZrJt3j4cBWv1eNbr9XjW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394042/%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%B0%8D%E9%96%8B%E6%B5%B7%E9%9D%A279%E6%AD%B2%E5%A9%A6%E7%96%91%E9%81%87%E6%BA%BA-%E9%80%94%E4%BA%BA%E6%95%91%E8%B5%B7%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-26T10:31:47.092Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中九龍繞道｜九龍灣段工程年內完成　來往將軍澳至油麻地僅12分鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180189514854174720349065.jpeg/JmMfYJXJw5-tB1nrnPw5BCqB7ZurIhiYzl69Ic5evSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393931/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E8%AB%87%E4%BA%8C%E6%88%B0%E5%90%88%E4%BD%9C-%E5%AD%B8%E8%80%85-%E4%B8%AD%E7%BE%8E%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A%E4%BB%8D%E5%AD%98%E5%88%86%E6%AD%A7",
     "timestamp": "2026-09-26T02:49:22.563Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會｜人民日報：把中美建設性戰略穩定關係從願景轉化為行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393922/%E7%BF%92%E7%89%B9%E6%9C%83-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1-%E6%8A%8A%E4%B8%AD%E7%BE%8E%E5%BB%BA%E8%A8%AD%E6%80%A7%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A%E9%97%9C%E4%BF%82%E5%BE%9E%E9%A1%98%E6%99%AF%E8%BD%89%E5%8C%96%E7%82%BA%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-09-26T02:01:43.298Z",
     "strategy": ".content-card__main"
   }
 ];
