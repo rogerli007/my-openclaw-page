@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T06:55:27.735Z
+// Last updated: 2026-09-26T07:20:37.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美｜赴美兩隻熊貓完成適應訓練　亞特蘭大場館改造迎接",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180132059088293888865391.jpeg/q174wN0f3O7O6uV4qNLsxWjwQ5jDK0gMoM85aqDPOWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393993/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E8%B5%B4%E7%BE%8E%E5%85%A9%E9%9A%BB%E7%86%8A%E8%B2%93%E5%AE%8C%E6%88%90%E9%81%A9%E6%87%89%E8%A8%93%E7%B7%B4-%E4%BA%9E%E7%89%B9%E8%98%AD%E5%A4%A7%E5%A0%B4%E9%A4%A8%E6%94%B9%E9%80%A0%E8%BF%8E%E6%8E%A5",
+    "timestamp": "2026-09-26T07:20:37.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美　白宮公布特朗普成果清單　重申美中經貿、AI等合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179464853912293376204193.jpeg/mvTkVI1CYlgmPKGvodNs-wZ4e1LfGyNeVQIX3VUCF90?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60393029/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E8%87%A8%E8%BF%91%E6%88%90%E4%BA%A4%E6%9C%9F%E5%A7%8B%E7%9F%A5%E5%BE%8B%E5%B8%AB%E6%A8%93%E6%9C%AA%E7%8D%B2%E9%8A%80%E8%A1%8C%E8%AA%8D%E5%8F%AF-%E6%8C%89%E6%8F%AD%E6%87%89%E8%AE%8A%E6%8C%87%E5%8D%97",
     "timestamp": "2026-09-25T22:33:17.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日天晴酷熱　市區最高氣溫33度　國慶有幾陣驟雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180393873327788032249708.jpeg/XP-c7qkUL02-8-V9VxaDVLfVYrwEecDGDi5LEDQuSxA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60393909/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E9%85%B7%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB33%E5%BA%A6-%E5%9C%8B%E6%85%B6%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8",
-    "timestamp": "2026-09-25T21:54:23.838Z",
     "strategy": ".content-card__main"
   }
 ];
