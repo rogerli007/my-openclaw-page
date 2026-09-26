@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T14:54:55.667Z
+// Last updated: 2026-09-26T15:44:29.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍塘水管爆裂　馬路有水氹　警通知水務署到場跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180661477879582720825407.jpeg/O12Z4v9tQ04Ak_tHOga1NHSqLOR61KaPyNWIMvLViDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394088/%E4%B9%9D%E9%BE%8D%E5%A1%98%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E9%A6%AC%E8%B7%AF%E6%9C%89%E6%B0%B4%E6%B0%B9-%E8%AD%A6%E9%80%9A%E7%9F%A5%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%88%B0%E5%A0%B4%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-09-26T15:44:29.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運2026港隊獎牌榜+最新賽果｜9.26最新戰報",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179978712037199872840591.jpeg/L0yHsMOZOEb__r6-3gf1hb6YN6lohpMox03338dN998?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394005/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BB%8A%E5%B9%B4%E5%85%A7%E5%B0%87%E5%86%8D%E6%9C%83%E9%9D%A22%E6%AC%A1-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%89%E5%AF%A611%E6%9C%88%E8%B5%B4%E8%8F%AFapec%E5%B3%B0%E6%9C%83",
     "timestamp": "2026-09-26T08:25:56.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉歡病逝｜創《甄嬛傳》配樂、經典《好漢歌》　五點認識華語歌王",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180516711254724608049561.png/IeyW8QFkgDLV_unQvcfOWBREitXMFpD2x4ACQceAAkE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393950/%E5%8A%89%E6%AD%A1%E7%97%85%E9%80%9D-%E5%89%B5-%E7%94%84%E5%AC%9B%E5%82%B3-%E9%85%8D%E6%A8%82-%E7%B6%93%E5%85%B8-%E5%A5%BD%E6%BC%A2%E6%AD%8C-%E4%BA%94%E9%BB%9E%E8%AA%8D%E8%AD%98%E8%8F%AF%E8%AA%9E%E6%AD%8C%E7%8E%8B",
-    "timestamp": "2026-09-26T07:54:52.028Z",
     "strategy": ".content-card__main"
   }
 ];
