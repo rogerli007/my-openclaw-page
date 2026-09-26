@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T20:44:07.201Z
+// Last updated: 2026-09-26T20:54:52.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜荃錦公路跑車疑跣胎越線撞Audi　跑車起火　Audi司機送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394104/%E8%BB%8Acam-%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B7%91%E8%BB%8A%E7%96%91%E8%B7%A3%E8%83%8E%E8%B6%8A%E7%B7%9A%E6%92%9Eaudi-%E8%B7%91%E8%BB%8A%E8%B5%B7%E7%81%AB-audi%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-26T20:54:52.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜荃錦公路跑車疑跣胎越線撞Audi　跑車起火　Audi司機送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180630941052178432283967.jpeg/YjkcihgWuYcDk1dF5fr77-JFmQdiOoKbsgL7zLIC-8w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394072/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%A6%99%E6%B8%AF%E6%A3%92%E7%90%83%E9%A6%96%E6%8C%AB%E8%8F%B2%E5%BE%8B%E8%B3%93-%E6%9E%97%E6%BE%A7%E8%AC%99%E5%AE%8C%E6%88%90%E5%8D%81%E5%B9%B4%E7%9A%84%E6%9C%AA%E7%AB%9F%E4%B9%8B%E5%BF%97",
     "timestamp": "2026-09-26T13:42:45.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期9.26頭獎6800萬即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394071/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F9-26%E9%A0%AD%E7%8D%8E6800%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-09-26T13:30:19.546Z",
     "strategy": ".content-card__main"
   }
 ];
