@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T16:20:57.386Z
+// Last updated: 2026-09-26T16:43:53.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗與特朗普通電話　獲詳細說明美中峰會　確認日美協作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179456436132909056561270.jpeg/oEDn5nM0ot62AmdKMk_b5z-OTL5QO8t6U-6iqlPuoqo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394096/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E9%9B%BB%E8%A9%B1-%E7%8D%B2%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E%E7%BE%8E%E4%B8%AD%E5%B3%B0%E6%9C%83-%E7%A2%BA%E8%AA%8D%E6%97%A5%E7%BE%8E%E5%8D%94%E4%BD%9C",
+    "timestamp": "2026-09-26T16:43:53.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洪楗華抗癌十年帶病上《流行經典50年》　范振鋒失摯友：相識30年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180556049275424768980326.png/Lr7GsX16pCs4LFeFPQ1wRfEYRmZ0TCZHfLEoiXyxKIk?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394013/%E6%9C%89%E7%89%87-%E5%B0%96%E6%B2%99%E5%92%80%E6%B8%85%E6%99%A8%E8%A1%97%E9%A0%AD%E6%B7%B7%E6%88%B0-%E5%A4%AB%E5%A9%A6%E9%81%AD%E5%9C%8D%E6%AF%86%E9%A1%8D%E9%BC%BB%E6%B5%81%E8%A1%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D10%E5%A4%9A%E7%94%B7",
     "timestamp": "2026-09-26T09:43:42.079Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教宗良十四世力挺新聞自由　與特朗普封殺傳媒立場「打對台」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180556001720406016706529.jpeg/SUuu2NElpnEaNGJEiT9aR0ZFPnuvDn0J5nslreZ7Ja0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394020/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%8A%9B%E6%8C%BA%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1-%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E6%AE%BA%E5%82%B3%E5%AA%92%E7%AB%8B%E5%A0%B4-%E6%89%93%E5%B0%8D%E5%8F%B0",
-    "timestamp": "2026-09-26T08:56:01.176Z",
     "strategy": ".content-card__main"
   }
 ];
