@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T12:26:26.871Z
+// Last updated: 2026-09-26T12:48:31.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋金多寶2026｜$6800萬頭獎六合彩今晚攪珠　即睇4大幸運號碼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180610878739845120356907.jpeg/-G2pecGY5KZy24dyoCyEYU0XEaxvTOTrQWodDGRqHQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393928/%E4%B8%AD%E7%A7%8B%E9%87%91%E5%A4%9A%E5%AF%B62026-6800%E8%90%AC%E9%A0%AD%E7%8D%8E%E5%85%AD%E5%90%88%E5%BD%A9%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E5%8D%B3%E7%9D%874%E5%A4%A7%E5%B9%B8%E9%81%8B%E8%99%9F%E7%A2%BC",
+    "timestamp": "2026-09-26T12:48:31.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星｜王祖藍自爆為愛禁食40日　曾與李亞男因事業分開3年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180472942056706048426719.png/8Gop7gx7uXoKyill70fX1T3qG4ufE4cOomUsMKJlLDA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393821/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E5%8A%89%E5%AD%B8%E7%BE%A9%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%B0%8F%E9%99%A2%E8%B4%88%E8%98%AD%E8%8A%B1%E8%8D%89-%E6%9A%97%E8%97%8F%E5%A3%93%E6%8A%91%E9%86%8B%E6%84%8F%E7%9C%BC%E7%A5%9E%E6%88%B2%E7%8D%B2%E8%AE%9A",
     "timestamp": "2026-09-26T05:19:53.227Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫護助癌症病人辦畫展圓心願　「一個人行到最後　唔係等嗰日嚟」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180482089573683200091846.png/IVrsduj2wj64L89UcFMVnVy9PWhr0QHNtNGkOrTRpDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393961/%E9%86%AB%E8%AD%B7%E5%8A%A9%E7%99%8C%E7%97%87%E7%97%85%E4%BA%BA%E8%BE%A6%E7%95%AB%E5%B1%95%E5%9C%93%E5%BF%83%E9%A1%98-%E4%B8%80%E5%80%8B%E4%BA%BA%E8%A1%8C%E5%88%B0%E6%9C%80%E5%BE%8C-%E5%94%94%E4%BF%82%E7%AD%89%E5%97%B0%E6%97%A5%E5%9A%9F",
-    "timestamp": "2026-09-26T04:22:25.082Z",
     "strategy": ".content-card__main"
   }
 ];
