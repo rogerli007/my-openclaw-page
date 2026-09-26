@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T21:31:21.377Z
+// Last updated: 2026-09-26T21:42:21.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國暴雨｜曼谷全市列災區　中國使館籲公民防暴雨洪澇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180741599433330688971854.jpeg/aREO2kQrW56XrOb3JoksCWjgKb1C7s9bkuG4VZLhuFU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394106/%E6%B3%B0%E5%9C%8B%E6%9A%B4%E9%9B%A8-%E6%9B%BC%E8%B0%B7%E5%85%A8%E5%B8%82%E5%88%97%E7%81%BD%E5%8D%80-%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E7%B1%B2%E5%85%AC%E6%B0%91%E9%98%B2%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%BE%87",
+    "timestamp": "2026-09-26T21:42:21.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜荃錦公路跑車疑跣胎越線撞Audi　跑車起火　Audi司機送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180614634751660032509234.jpeg/4FjxjO53XgenHmc8ur6G9TabOyLl8v8N3wJe398CXt8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394056/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E4%BD%95%E6%80%9D%E6%9C%97%E9%A6%96%E6%91%98%E7%89%8C%E6%84%9F%E5%8B%95%E8%90%BD%E6%B7%9A-%E7%81%AB%E7%88%86%E5%B0%91%E5%B9%B4%E7%9A%84%E6%88%90%E9%95%B7%E8%A8%98",
     "timestamp": "2026-09-26T14:32:18.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜19歲少女網上交友誤信甜言蜜語　交銀行密碼損失30多萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180620038588076032012589.jpeg/ZrBNI9nWUCjV07PjTMljM_j_rVGq6zxj8i64vfIuuL0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394064/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-19%E6%AD%B2%E5%B0%91%E5%A5%B3%E7%B6%B2%E4%B8%8A%E4%BA%A4%E5%8F%8B%E8%AA%A4%E4%BF%A1%E7%94%9C%E8%A8%80%E8%9C%9C%E8%AA%9E-%E4%BA%A4%E9%8A%80%E8%A1%8C%E5%AF%86%E7%A2%BC%E6%90%8D%E5%A4%B130%E5%A4%9A%E8%90%AC",
-    "timestamp": "2026-09-26T14:19:16.059Z",
     "strategy": ".content-card__main"
   }
 ];
