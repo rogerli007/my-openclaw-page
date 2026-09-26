@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T13:30:19.546Z
+// Last updated: 2026-09-26T13:42:45.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026｜香港棒球首挫菲律賓　林澧謙完成十年的未竟之志",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180630941052178432283967.jpeg/YjkcihgWuYcDk1dF5fr77-JFmQdiOoKbsgL7zLIC-8w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394072/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%A6%99%E6%B8%AF%E6%A3%92%E7%90%83%E9%A6%96%E6%8C%AB%E8%8F%B2%E5%BE%8B%E8%B3%93-%E6%9E%97%E6%BE%A7%E8%AC%99%E5%AE%8C%E6%88%90%E5%8D%81%E5%B9%B4%E7%9A%84%E6%9C%AA%E7%AB%9F%E4%B9%8B%E5%BF%97",
+    "timestamp": "2026-09-26T13:42:45.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期9.26頭獎6800萬即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393964/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%A6%AE%E9%81%87%E6%98%AF%E8%A1%A8%E9%9D%A2-%E5%AF%A6%E5%8A%9B%E6%98%AF%E5%BA%95%E8%89%B2-%E9%81%B8%E6%93%87%E6%9B%B4%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-09-26T05:55:01.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美｜禮遇是表面　實力是底色　選擇更關鍵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393964/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%A6%AE%E9%81%87%E6%98%AF%E8%A1%A8%E9%9D%A2-%E5%AF%A6%E5%8A%9B%E6%98%AF%E5%BA%95%E8%89%B2-%E9%81%B8%E6%93%87%E6%9B%B4%E9%97%9C%E9%8D%B5",
-    "timestamp": "2026-09-26T05:46:27.119Z",
     "strategy": ".content-card__main"
   }
 ];
