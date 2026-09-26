@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T22:18:05.678Z
+// Last updated: 2026-09-26T22:31:42.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣近水灣泳灘九旬婦游早泳遇溺　消防救人　昏迷搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180755939653849088143865.jpeg/YvGk3XdDbXTKqAedCPItvKbzJ-8GDninl9lc-63ZXPs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E4%B9%9D%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91",
+    "timestamp": "2026-09-26T22:31:42.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣近水灣泳灘九旬婦游早泳遇溺　消防救人　昏迷搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180661477879582720825407.jpeg/O12Z4v9tQ04Ak_tHOga1NHSqLOR61KaPyNWIMvLViDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394088/%E4%B9%9D%E9%BE%8D%E5%A1%98%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E9%A6%AC%E8%B7%AF%E6%9C%89%E6%B0%B4%E6%B0%B9-%E8%AD%A6%E9%80%9A%E7%9F%A5%E6%B0%B4%E5%8B%99%E7%BD%B2%E5%88%B0%E5%A0%B4%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-09-26T15:44:29.225Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運2026港隊獎牌榜+最新賽果｜9.26最新戰報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180294569732870144752831.jpeg/RnOfqB4QtpU9BrVEpKAlv3ZeohPoPkNZWPFS5VjxUuU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390978/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B2026%E6%B8%AF%E9%9A%8A%E7%8D%8E%E7%89%8C%E6%A6%9C-%E6%9C%80%E6%96%B0%E8%B3%BD%E6%9E%9C-%E4%BA%9E%E9%81%8B%E6%B8%AF%E9%9A%8A%E6%88%90%E7%B8%BE%E6%AF%8F%E6%97%A5%E7%B8%BD%E7%B5%90",
-    "timestamp": "2026-09-26T14:54:55.667Z",
     "strategy": ".content-card__main"
   }
 ];
