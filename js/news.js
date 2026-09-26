@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T17:54:51.147Z
+// Last updated: 2026-09-26T18:25:52.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯合國大會｜韓正不點名批評美國　促解除對古巴封鎖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179120063022632960734051.jpeg/GRZ40SIaofm6neAwk6GfaHI0q6Nd1EtmmPifbJj4n2w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394101/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83-%E9%9F%93%E6%AD%A3%E4%B8%8D%E9%BB%9E%E5%90%8D%E6%89%B9%E8%A9%95%E7%BE%8E%E5%9C%8B-%E4%BF%83%E8%A7%A3%E9%99%A4%E5%B0%8D%E5%8F%A4%E5%B7%B4%E5%B0%81%E9%8E%96",
+    "timestamp": "2026-09-26T18:25:52.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台式三杯雞食譜｜做法簡易麻油米酒不可或缺、汁香醬濃拌飯一流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180571210179022848064239.jpeg/e9MaoO7xRdasmhUuWdO07KjMTkF3jH85FrVv6Ba1b-g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394033/%E5%A5%B3%E7%A5%9E2-%E9%98%AE%E5%98%89%E6%95%8F%E5%87%BA%E5%8B%9550%E4%BB%B6%E4%B8%89%E5%B0%96%E5%85%AB%E8%A7%92%E7%A7%81%E4%BC%99%E8%A1%AB%E8%80%83%E9%A9%97%E5%8B%87%E8%80%85-%E6%96%B0%E8%B3%BD%E5%88%B6cp%E5%A4%A7%E6%B4%97%E7%89%8C",
     "timestamp": "2026-09-26T11:29:46.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王賢誌憂另一半被拖落水　私聯蕭定一澄清冇爛賭遭質疑語言偽術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180584928258035712250183.png/NDx9p-bdvub7UPoGPDAOSh-JIFcJZNhLcxWs8HMVrPA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394046/%E7%8E%8B%E8%B3%A2%E8%AA%8C%E6%86%82%E5%8F%A6%E4%B8%80%E5%8D%8A%E8%A2%AB%E6%8B%96%E8%90%BD%E6%B0%B4-%E7%A7%81%E8%81%AF%E8%95%AD%E5%AE%9A%E4%B8%80%E6%BE%84%E6%B8%85%E5%86%87%E7%88%9B%E8%B3%AD%E9%81%AD%E8%B3%AA%E7%96%91%E8%AA%9E%E8%A8%80%E5%81%BD%E8%A1%93",
-    "timestamp": "2026-09-26T10:54:49.847Z",
     "strategy": ".content-card__main"
   }
 ];
