@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T18:25:52.515Z
+// Last updated: 2026-09-26T18:46:13.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯合國大會｜韓正不點名批評美國　促解除對古巴封鎖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179120063022632960734051.jpeg/GRZ40SIaofm6neAwk6GfaHI0q6Nd1EtmmPifbJj4n2w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394101/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83-%E9%9F%93%E6%AD%A3%E4%B8%8D%E9%BB%9E%E5%90%8D%E6%89%B9%E8%A9%95%E7%BE%8E%E5%9C%8B-%E4%BF%83%E8%A7%A3%E9%99%A4%E5%B0%8D%E5%8F%A4%E5%B7%B4%E5%B0%81%E9%8E%96",
+    "timestamp": "2026-09-26T18:46:13.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯合國大會｜韓正不點名批評美國　促解除對古巴封鎖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180593882358878208752694.png/GNuLoFelsPppI0KsnKuyopSKu_KpJ_B9qVwGj6lcBo8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394049/%E5%94%90%E6%B0%8F%E7%B6%9C%E5%90%88%E7%97%87%E9%9F%93%E6%98%9F%E9%84%AD%E6%81%A9%E6%83%A0%E7%AA%81%E6%9B%AC%E8%B6%85%E8%81%B2%E6%B3%A2%E7%85%A7-%E7%B6%B2%E6%B0%91%E8%BD%9F-%E5%A4%AA%E8%87%AA%E7%A7%81-%E7%88%B6%E8%A6%AA%E6%80%A5%E6%92%B2%E7%81%AB",
     "timestamp": "2026-09-26T11:53:58.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神2｜阮嘉敏出動50件三尖八角私伙衫考驗勇者　新賽制CP大洗牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180571210179022848064239.jpeg/e9MaoO7xRdasmhUuWdO07KjMTkF3jH85FrVv6Ba1b-g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394033/%E5%A5%B3%E7%A5%9E2-%E9%98%AE%E5%98%89%E6%95%8F%E5%87%BA%E5%8B%9550%E4%BB%B6%E4%B8%89%E5%B0%96%E5%85%AB%E8%A7%92%E7%A7%81%E4%BC%99%E8%A1%AB%E8%80%83%E9%A9%97%E5%8B%87%E8%80%85-%E6%96%B0%E8%B3%BD%E5%88%B6cp%E5%A4%A7%E6%B4%97%E7%89%8C",
-    "timestamp": "2026-09-26T11:29:46.301Z",
     "strategy": ".content-card__main"
   }
 ];
