@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T10:54:49.847Z
+// Last updated: 2026-09-26T11:29:46.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2｜阮嘉敏出動50件三尖八角私伙衫考驗勇者　新賽制CP大洗牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180571210179022848064239.jpeg/e9MaoO7xRdasmhUuWdO07KjMTkF3jH85FrVv6Ba1b-g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394033/%E5%A5%B3%E7%A5%9E2-%E9%98%AE%E5%98%89%E6%95%8F%E5%87%BA%E5%8B%9550%E4%BB%B6%E4%B8%89%E5%B0%96%E5%85%AB%E8%A7%92%E7%A7%81%E4%BC%99%E8%A1%AB%E8%80%83%E9%A9%97%E5%8B%87%E8%80%85-%E6%96%B0%E8%B3%BD%E5%88%B6cp%E5%A4%A7%E6%B4%97%E7%89%8C",
+    "timestamp": "2026-09-26T11:29:46.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王賢誌憂另一半被拖落水　私聯蕭定一澄清冇爛賭遭質疑語言偽術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176921054929489920941325.jpeg/YkClbpoTl-UVH5H390OokbjFSkZ-FD4tZgzP3kAMz94?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60393939/%E7%BF%92%E7%89%B9%E6%9C%83-%E9%99%B3%E8%8C%82%E6%B3%A2-%E4%B8%AD%E7%BE%8E%E9%97%9C%E4%BF%82%E8%AE%8A%E5%BE%97%E7%A9%8D%E6%A5%B5%E6%AD%A3%E9%9D%A2-%E6%8A%95%E8%B3%87%E8%80%85%E5%B8%83%E5%B1%80%E5%8F%AF%E6%9B%B4%E5%AE%89%E5%BF%83",
     "timestamp": "2026-09-26T03:23:02.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "24/7 FITNESS沙田分店更衣室驚藏針孔鏡頭　警列窺淫追緝｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180460153527341056367540.jpeg/mun17dDufR1qSd3VasJ69ha0N2m9sgErx-3YHcft2B0",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393913/24-7-fitness%E6%B2%99%E7%94%B0%E5%88%86%E5%BA%97%E6%9B%B4%E8%A1%A3%E5%AE%A4%E9%A9%9A%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-%E8%AD%A6%E5%88%97%E7%AA%BA%E6%B7%AB%E8%BF%BD%E7%B7%9D-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-09-26T03:00:13.418Z",
     "strategy": ".content-card__main"
   }
 ];
