@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T14:19:16.059Z
+// Last updated: 2026-09-26T14:32:18.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026劍擊｜何思朗首摘牌感動落淚　火爆少年的成長記",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180614634751660032509234.jpeg/4FjxjO53XgenHmc8ur6G9TabOyLl8v8N3wJe398CXt8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394056/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E4%BD%95%E6%80%9D%E6%9C%97%E9%A6%96%E6%91%98%E7%89%8C%E6%84%9F%E5%8B%95%E8%90%BD%E6%B7%9A-%E7%81%AB%E7%88%86%E5%B0%91%E5%B9%B4%E7%9A%84%E6%88%90%E9%95%B7%E8%A8%98",
+    "timestamp": "2026-09-26T14:32:18.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜19歲少女網上交友誤信甜言蜜語　交銀行密碼損失30多萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180132059088293888865391.jpeg/q174wN0f3O7O6uV4qNLsxWjwQ5jDK0gMoM85aqDPOWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393993/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E8%B5%B4%E7%BE%8E%E5%85%A9%E9%9A%BB%E7%86%8A%E8%B2%93%E5%AE%8C%E6%88%90%E9%81%A9%E6%87%89%E8%A8%93%E7%B7%B4-%E4%BA%9E%E7%89%B9%E8%98%AD%E5%A4%A7%E5%A0%B4%E9%A4%A8%E6%94%B9%E9%80%A0%E8%BF%8E%E6%8E%A5",
     "timestamp": "2026-09-26T07:20:37.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美　白宮公布特朗普成果清單　重申美中經貿、AI等合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393986/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%99%BD%E5%AE%AE%E5%85%AC%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%90%E6%9E%9C%E6%B8%85%E5%96%AE-%E9%87%8D%E7%94%B3%E7%BE%8E%E4%B8%AD%E7%B6%93%E8%B2%BF-ai%E7%AD%89%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-09-26T06:55:27.735Z",
     "strategy": ".content-card__main"
   }
 ];
