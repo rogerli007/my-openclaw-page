@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T16:43:53.134Z
+// Last updated: 2026-09-26T17:17:42.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台式三杯雞食譜｜做法簡易麻油米酒不可或缺、汁香醬濃拌飯一流",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/686527/org/3238e637880ad8baeaccb0bdfbc66a04.jpg/I9Z_8qPnlp-vNSmRfuely-p5MdPOCLObEXYEZhF2BGY?v=w1920",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60394097/%E5%8F%B0%E5%BC%8F%E4%B8%89%E6%9D%AF%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%BA%BB%E6%B2%B9%E7%B1%B3%E9%85%92%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA-%E6%B1%81%E9%A6%99%E9%86%AC%E6%BF%83%E6%8B%8C%E9%A3%AF%E4%B8%80%E6%B5%81",
+    "timestamp": "2026-09-26T17:17:42.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗與特朗普通電話　獲詳細說明美中峰會　確認日美協作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180573829089464320531784.png/KaQ7zPiAudm-M7nNIg4zSbBTZ3sigOx5QuXPvULlz70?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394038/%E4%B8%AD%E4%B9%9D%E9%BE%8D%E7%B9%9E%E9%81%93-%E4%B9%9D%E9%BE%8D%E7%81%A3%E6%AE%B5%E5%B7%A5%E7%A8%8B%E5%B9%B4%E5%85%A7%E5%AE%8C%E6%88%90-%E4%BE%86%E5%BE%80%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%87%B3%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%83%8512%E5%88%86%E9%90%98",
     "timestamp": "2026-09-26T10:19:04.693Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜尖沙咀清晨街頭混戰　夫婦遭圍毆額鼻流血　警追緝10多男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180556049275424768980326.png/Lr7GsX16pCs4LFeFPQ1wRfEYRmZ0TCZHfLEoiXyxKIk?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394013/%E6%9C%89%E7%89%87-%E5%B0%96%E6%B2%99%E5%92%80%E6%B8%85%E6%99%A8%E8%A1%97%E9%A0%AD%E6%B7%B7%E6%88%B0-%E5%A4%AB%E5%A9%A6%E9%81%AD%E5%9C%8D%E6%AF%86%E9%A1%8D%E9%BC%BB%E6%B5%81%E8%A1%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D10%E5%A4%9A%E7%94%B7",
-    "timestamp": "2026-09-26T09:43:42.079Z",
     "strategy": ".content-card__main"
   }
 ];
