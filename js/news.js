@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T06:30:35.980Z
+// Last updated: 2026-09-26T06:55:27.735Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平訪美　白宮公布特朗普成果清單　重申美中經貿、AI等合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393986/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%99%BD%E5%AE%AE%E5%85%AC%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%90%E6%9E%9C%E6%B8%85%E5%96%AE-%E9%87%8D%E7%94%B3%E7%BE%8E%E4%B8%AD%E7%B6%93%E8%B2%BF-ai%E7%AD%89%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-09-26T06:55:27.735Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美議員提法案倡禁政府敏感系統用中國光收發模塊　強調關乎國安",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180393873327788032249708.jpeg/XP-c7qkUL02-8-V9VxaDVLfVYrwEecDGDi5LEDQuSxA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60393909/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E9%85%B7%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB33%E5%BA%A6-%E5%9C%8B%E6%85%B6%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8",
     "timestamp": "2026-09-25T21:54:23.838Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "京東快遞員扶婆婆被索¥92萬　法官判免賠　網民質疑訛人近零成本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179253093238312960086534.png/vcZzAG-hGiJGbpKNR0ixBfyUawelnOC_vsR6A77EegM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391797/%E6%95%91%E4%BA%BA%E8%A2%AB%E6%8E%A7-%E4%BA%AC%E6%9D%B1%E5%BF%AB%E9%81%9E%E5%93%A1%E6%89%B6%E5%A9%86%E5%A9%86%E8%A2%AB%E7%B4%A2-92%E8%90%AC-%E5%AE%B6%E5%B1%AC%E7%A8%B1-%E6%B0%A3%E6%B5%81%E9%A9%9A%E5%9A%87-%E7%B5%82%E6%95%97%E8%A8%B4",
-    "timestamp": "2026-09-25T21:45:11.511Z",
     "strategy": ".content-card__main"
   }
 ];
