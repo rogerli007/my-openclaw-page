@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T13:42:45.923Z
+// Last updated: 2026-09-26T13:54:09.723Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《蘭香如故》47集播出改動！每日2集變1集再加暫停　引爆劇迷不滿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180583088611135488295876.png/IA6SA5gKFc3O-oexQFwfk59L5lS6HBYLeU7KunlOyro?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394018/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-47%E9%9B%86%E6%92%AD%E5%87%BA%E6%94%B9%E5%8B%95-%E6%AF%8F%E6%97%A52%E9%9B%86%E8%AE%8A1%E9%9B%86%E5%86%8D%E5%8A%A0%E6%9A%AB%E5%81%9C-%E5%BC%95%E7%88%86%E5%8A%87%E8%BF%B7%E4%B8%8D%E6%BB%BF",
+    "timestamp": "2026-09-26T13:54:09.723Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026｜香港棒球首挫菲律賓　林澧謙完成十年的未竟之志",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180208992291393536792316.jpeg/hCmMEWnbSN684ACwk4Ld57g2_dY7wko-dGohD3RqIQ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393976/%E7%BE%8E%E8%AD%B0%E5%93%A1%E6%8F%90%E6%B3%95%E6%A1%88%E5%80%A1%E7%A6%81%E6%94%BF%E5%BA%9C%E6%95%8F%E6%84%9F%E7%B3%BB%E7%B5%B1%E7%94%A8%E4%B8%AD%E5%9C%8B%E5%85%89%E6%94%B6%E7%99%BC%E6%A8%A1%E5%A1%8A-%E5%BC%B7%E8%AA%BF%E9%97%9C%E4%B9%8E%E5%9C%8B%E5%AE%89",
     "timestamp": "2026-09-26T06:30:35.980Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美｜禮遇是表面　實力是底色　選擇更關鍵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393964/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%A6%AE%E9%81%87%E6%98%AF%E8%A1%A8%E9%9D%A2-%E5%AF%A6%E5%8A%9B%E6%98%AF%E5%BA%95%E8%89%B2-%E9%81%B8%E6%93%87%E6%9B%B4%E9%97%9C%E9%8D%B5",
-    "timestamp": "2026-09-26T05:55:01.651Z",
     "strategy": ".content-card__main"
   }
 ];
