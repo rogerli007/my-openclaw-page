@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T19:28:09.969Z
+// Last updated: 2026-09-26T19:54:08.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴黎80萬人露天彌撒　教宗良十四世籲信眾尋求信仰幸福",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180719038095953920874365.jpeg/dTAY7k0DEHlNckWiQl6udv9POAHaJUwMdxU83XcVPN0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394103/%E5%B7%B4%E9%BB%8E80%E8%90%AC%E4%BA%BA%E9%9C%B2%E5%A4%A9%E5%BD%8C%E6%92%92-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E7%B1%B2%E4%BF%A1%E7%9C%BE%E5%B0%8B%E6%B1%82%E4%BF%A1%E4%BB%B0%E5%B9%B8%E7%A6%8F",
+    "timestamp": "2026-09-26T19:54:08.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東北風暴吹襲美國　逾10萬戶停電　逾400航班取消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180610878739845120356907.jpeg/-G2pecGY5KZy24dyoCyEYU0XEaxvTOTrQWodDGRqHQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393928/%E4%B8%AD%E7%A7%8B%E9%87%91%E5%A4%9A%E5%AF%B62026-6800%E8%90%AC%E9%A0%AD%E7%8D%8E%E5%85%AD%E5%90%88%E5%BD%A9%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E5%8D%B3%E7%9D%874%E5%A4%A7%E5%B9%B8%E9%81%8B%E8%99%9F%E7%A2%BC",
     "timestamp": "2026-09-26T12:48:31.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一周星星｜王祖藍自爆為愛禁食40日　曾與李亞男因事業分開3年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180576583031721984426738.jpeg/JQ99p3jhmXzBh8d4BcNb4G8bHXIsfu_tesUrGnrFKxo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394039/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E7%8E%8B%E7%A5%96%E8%97%8D%E8%87%AA%E7%88%86%E7%82%BA%E6%84%9B%E7%A6%81%E9%A3%9F40%E6%97%A5-%E6%9B%BE%E8%88%87%E6%9D%8E%E4%BA%9E%E7%94%B7%E5%9B%A0%E4%BA%8B%E6%A5%AD%E5%88%86%E9%96%8B3%E5%B9%B4",
-    "timestamp": "2026-09-26T12:26:26.871Z",
     "strategy": ".content-card__main"
   }
 ];
