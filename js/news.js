@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T03:47:06.644Z
+// Last updated: 2026-09-26T04:22:25.082Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫護助癌症病人辦畫展圓心願　「一個人行到最後　唔係等嗰日嚟」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180482089573683200091846.png/IVrsduj2wj64L89UcFMVnVy9PWhr0QHNtNGkOrTRpDo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393961/%E9%86%AB%E8%AD%B7%E5%8A%A9%E7%99%8C%E7%97%87%E7%97%85%E4%BA%BA%E8%BE%A6%E7%95%AB%E5%B1%95%E5%9C%93%E5%BF%83%E9%A1%98-%E4%B8%80%E5%80%8B%E4%BA%BA%E8%A1%8C%E5%88%B0%E6%9C%80%E5%BE%8C-%E5%94%94%E4%BF%82%E7%AD%89%E5%97%B0%E6%97%A5%E5%9A%9F",
+    "timestamp": "2026-09-26T04:22:25.082Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本女生為何皮膚好？揭5個洗澡期間護膚秘訣　輕鬆養出水潤肌膚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171702336628723712521034.jpeg/C30g72-47zTO-hS_9wXpK1b9JXdD1Z7fV-7tnVfu7Z0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393908/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E6%99%A4-%E6%99%AE%E4%BA%AC-%E4%BF%84%E7%BE%85%E6%96%AF%E6%AD%A1%E8%BF%8E%E7%BE%8E%E4%B8%AD%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-09-25T20:32:50.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美田邨15歲男和51歲女「眼超超」動武　各涉襲擊和刑毀手機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180352442991120384648371.jpeg/VbPtqYEuoyG1g_VHufxG-Co9z3vYHwqcOwEjpAEBI6Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393905/%E7%BE%8E%E7%94%B0%E9%82%A815%E6%AD%B2%E7%94%B7%E5%92%8C51%E6%AD%B2%E5%A5%B3-%E7%9C%BC%E8%B6%85%E8%B6%85-%E5%8B%95%E6%AD%A6-%E5%90%84%E6%B6%89%E8%A5%B2%E6%93%8A%E5%92%8C%E5%88%91%E6%AF%80%E6%89%8B%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-25T20:19:04.641Z",
     "strategy": ".content-card__main"
   }
 ];
