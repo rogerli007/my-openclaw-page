@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T15:54:02.224Z
+// Last updated: 2026-09-26T16:20:57.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪楗華抗癌十年帶病上《流行經典50年》　范振鋒失摯友：相識30年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180665562485755904072986.png/GsMZx4Qg6NnEzibT6OsonyXojkltIG230rkuTNK5Lkw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394090/%E6%B4%AA%E6%A5%97%E8%8F%AF%E6%8A%97%E7%99%8C%E5%8D%81%E5%B9%B4%E5%B8%B6%E7%97%85%E4%B8%8A-%E6%B5%81%E8%A1%8C%E7%B6%93%E5%85%B850%E5%B9%B4-%E8%8C%83%E6%8C%AF%E9%8B%92%E5%A4%B1%E6%91%AF%E5%8F%8B-%E7%9B%B8%E8%AD%9830%E5%B9%B4",
+    "timestamp": "2026-09-26T16:20:57.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TikTok達成美國首宗州級和解　支付1億美元並收緊使用限制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180556001720406016706529.jpeg/SUuu2NElpnEaNGJEiT9aR0ZFPnuvDn0J5nslreZ7Ja0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394020/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%8A%9B%E6%8C%BA%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1-%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E6%AE%BA%E5%82%B3%E5%AA%92%E7%AB%8B%E5%A0%B4-%E6%89%93%E5%B0%8D%E5%8F%B0",
     "timestamp": "2026-09-26T08:56:01.176Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜石籬二邨單位六旬婦危坐晾衣杆　1小時後返安全位置",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180556021056147456906385.jpeg/9ujUHybK9W0BIqDJnOXbj6dNigl5wwuqYtN7KmLTeyo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394017/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E4%BA%8C%E9%82%A8%E5%96%AE%E4%BD%8D%E5%85%AD%E6%97%AC%E5%A9%A6%E5%8D%B1%E5%9D%90%E6%99%BE%E8%A1%A3%E6%9D%86-1%E5%B0%8F%E6%99%82%E5%BE%8C%E8%BF%94%E5%AE%89%E5%85%A8%E4%BD%8D%E7%BD%AE",
-    "timestamp": "2026-09-26T08:46:19.963Z",
     "strategy": ".content-card__main"
   }
 ];
