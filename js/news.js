@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-25T23:42:23.101Z
+// Last updated: 2026-09-26T01:18:56.231Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026馬拉松︱羅映潮黃卓寧戰女子組　林穎璋男子組列第15名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180439994917982208140726.jpeg/mo_0IJJibzwiyuMKCwL4SvbI7P7riiVoxxQ_nf0UP50?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393919/%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%A6%AC%E6%8B%89%E6%9D%BE-%E7%BE%85%E6%98%A0%E6%BD%AE%E9%BB%83%E5%8D%93%E5%AF%A7%E6%88%B0%E5%A5%B3%E5%AD%90%E7%B5%84-%E6%9E%97%E7%A9%8E%E7%92%8B%E7%94%B7%E5%AD%90%E7%B5%84%E5%88%97%E7%AC%AC15%E5%90%8D",
+    "timestamp": "2026-09-26T01:18:56.231Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟警告能源價格危機　籲各國抑制天然氣電力需求",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179456973922373632751432.jpeg/ZGKSP7v3olLxD_L-Gx3Ba98479ugE8enZhRbHGYUWxw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393898/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%8B%E6%B1%82%E7%9B%A1%E5%BF%AB%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%A9%B1-%E4%BA%86%E8%A7%A3%E7%BF%92%E7%89%B9%E6%9C%83%E5%85%A7%E5%AE%B9",
     "timestamp": "2026-09-25T17:54:23.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗尋求盡快與特朗普通話　了解習特會內容",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179456973922373632751432.jpeg/ZGKSP7v3olLxD_L-Gx3Ba98479ugE8enZhRbHGYUWxw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393898/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%8B%E6%B1%82%E7%9B%A1%E5%BF%AB%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%A9%B1-%E4%BA%86%E8%A7%A3%E7%BF%92%E7%89%B9%E6%9C%83%E5%85%A7%E5%AE%B9",
-    "timestamp": "2026-09-25T17:44:46.694Z",
     "strategy": ".content-card__main"
   }
 ];
