@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T13:54:09.723Z
+// Last updated: 2026-09-26T14:19:16.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜19歲少女網上交友誤信甜言蜜語　交銀行密碼損失30多萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180620038588076032012589.jpeg/ZrBNI9nWUCjV07PjTMljM_j_rVGq6zxj8i64vfIuuL0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394064/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-19%E6%AD%B2%E5%B0%91%E5%A5%B3%E7%B6%B2%E4%B8%8A%E4%BA%A4%E5%8F%8B%E8%AA%A4%E4%BF%A1%E7%94%9C%E8%A8%80%E8%9C%9C%E8%AA%9E-%E4%BA%A4%E9%8A%80%E8%A1%8C%E5%AF%86%E7%A2%BC%E6%90%8D%E5%A4%B130%E5%A4%9A%E8%90%AC",
+    "timestamp": "2026-09-26T14:19:16.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《蘭香如故》47集播出改動！每日2集變1集再加暫停　引爆劇迷不滿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393986/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E7%99%BD%E5%AE%AE%E5%85%AC%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%90%E6%9E%9C%E6%B8%85%E5%96%AE-%E9%87%8D%E7%94%B3%E7%BE%8E%E4%B8%AD%E7%B6%93%E8%B2%BF-ai%E7%AD%89%E5%90%88%E4%BD%9C",
     "timestamp": "2026-09-26T06:55:27.735Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美議員提法案倡禁政府敏感系統用中國光收發模塊　強調關乎國安",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180208992291393536792316.jpeg/hCmMEWnbSN684ACwk4Ld57g2_dY7wko-dGohD3RqIQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393976/%E7%BE%8E%E8%AD%B0%E5%93%A1%E6%8F%90%E6%B3%95%E6%A1%88%E5%80%A1%E7%A6%81%E6%94%BF%E5%BA%9C%E6%95%8F%E6%84%9F%E7%B3%BB%E7%B5%B1%E7%94%A8%E4%B8%AD%E5%9C%8B%E5%85%89%E6%94%B6%E7%99%BC%E6%A8%A1%E5%A1%8A-%E5%BC%B7%E8%AA%BF%E9%97%9C%E4%B9%8E%E5%9C%8B%E5%AE%89",
-    "timestamp": "2026-09-26T06:30:35.980Z",
     "strategy": ".content-card__main"
   }
 ];
