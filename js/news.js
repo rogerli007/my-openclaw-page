@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T07:54:52.028Z
+// Last updated: 2026-09-26T08:25:56.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美元首今年內將再會面2次　特朗普證實11月赴華APEC峰會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179978712037199872840591.jpeg/L0yHsMOZOEb__r6-3gf1hb6YN6lohpMox03338dN998?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394005/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BB%8A%E5%B9%B4%E5%85%A7%E5%B0%87%E5%86%8D%E6%9C%83%E9%9D%A22%E6%AC%A1-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%89%E5%AF%A611%E6%9C%88%E8%B5%B4%E8%8F%AFapec%E5%B3%B0%E6%9C%83",
+    "timestamp": "2026-09-26T08:25:56.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉歡病逝｜創《甄嬛傳》配樂、經典《好漢歌》　五點認識華語歌王",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148848085477101568842350.jpeg/kw_auTFhF3gu1O5W8CcQRtykCgwCvQRP_pySHf6ckh0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393910/%E6%AD%90%E7%9B%9F%E8%AD%A6%E5%91%8A%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E5%8D%B1%E6%A9%9F-%E7%B1%B2%E5%90%84%E5%9C%8B%E6%8A%91%E5%88%B6%E5%A4%A9%E7%84%B6%E6%B0%A3%E9%9B%BB%E5%8A%9B%E9%9C%80%E6%B1%82",
     "timestamp": "2026-09-25T23:30:28.063Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日59歲女主人為救愛犬墮7米瀑布亡　獸醫警告：無禁止不等於安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180198970001985536706453.png/WkjW6RVRp3WFjJt3w4XI1rPxoQz67LbAf9ALz3_QC88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60392777/%E6%97%A559%E6%AD%B2%E5%A5%B3%E4%B8%BB%E4%BA%BA%E7%82%BA%E6%95%91%E6%84%9B%E7%8A%AC%E5%A2%AE7%E7%B1%B3%E7%80%91%E5%B8%83%E4%BA%A1-%E7%8D%B8%E9%86%AB%E8%AD%A6%E5%91%8A-%E7%84%A1%E7%A6%81%E6%AD%A2%E4%B8%8D%E7%AD%89%E6%96%BC%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-09-25T23:22:21.697Z",
     "strategy": ".content-card__main"
   }
 ];
