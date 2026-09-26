@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T02:01:43.298Z
+// Last updated: 2026-09-26T02:49:22.563Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平特朗普同談二戰合作　學者：中美戰略穩定仍存分歧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180189514854174720349065.jpeg/JmMfYJXJw5-tB1nrnPw5BCqB7ZurIhiYzl69Ic5evSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393931/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E8%AB%87%E4%BA%8C%E6%88%B0%E5%90%88%E4%BD%9C-%E5%AD%B8%E8%80%85-%E4%B8%AD%E7%BE%8E%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A%E4%BB%8D%E5%AD%98%E5%88%86%E6%AD%A7",
+    "timestamp": "2026-09-26T02:49:22.563Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會｜人民日報：把中美建設性戰略穩定關係從願景轉化為行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180345945015980032095842.jpeg/QFI4iantWINgqnkzj4sUd8rtOq-ZVlVtgQfKRYEHykU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393900/%E4%B8%AD%E7%A7%8B%E6%B0%91%E9%96%93%E7%85%99%E8%8A%B1%E5%A4%9C%E7%A9%BA%E7%B6%BB%E6%94%BE-%E7%9B%AE%E6%93%8A%E8%80%85%E6%89%B9%E8%A9%95-%E9%80%A3%E4%B8%AD%E7%A7%8B%E9%83%BD%E6%94%BE%E7%85%99%E8%8A%B1-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-25T19:18:59.825Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：貝森特繼續留在財政部　不會出任AI沙皇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179926378343043072628459.jpeg/1Wnd0PD553qm2gyavXWXDrMcZJKG5DQqlhp_NZYafzU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393899/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B2%9D%E6%A3%AE%E7%89%B9%E7%B9%BC%E7%BA%8C%E7%95%99%E5%9C%A8%E8%B2%A1%E6%94%BF%E9%83%A8-%E4%B8%8D%E6%9C%83%E5%87%BA%E4%BB%BBai%E6%B2%99%E7%9A%87",
-    "timestamp": "2026-09-25T18:46:38.974Z",
     "strategy": ".content-card__main"
   }
 ];
