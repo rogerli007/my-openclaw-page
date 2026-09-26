@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T18:46:13.237Z
+// Last updated: 2026-09-26T19:28:09.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東北風暴吹襲美國　逾10萬戶停電　逾400航班取消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180709281381486592560471.jpeg/SFZCC3JLLPKKRgUcJmM3sQ3mR8qCTGCRge0fKYHtHyk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394102/%E6%9D%B1%E5%8C%97%E9%A2%A8%E6%9A%B4%E5%90%B9%E8%A5%B2%E7%BE%8E%E5%9C%8B-%E9%80%BE10%E8%90%AC%E6%88%B6%E5%81%9C%E9%9B%BB-%E9%80%BE400%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88",
+    "timestamp": "2026-09-26T19:28:09.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯合國大會｜韓正不點名批評美國　促解除對古巴封鎖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180576583031721984426738.jpeg/JQ99p3jhmXzBh8d4BcNb4G8bHXIsfu_tesUrGnrFKxo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394039/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E7%8E%8B%E7%A5%96%E8%97%8D%E8%87%AA%E7%88%86%E7%82%BA%E6%84%9B%E7%A6%81%E9%A3%9F40%E6%97%A5-%E6%9B%BE%E8%88%87%E6%9D%8E%E4%BA%9E%E7%94%B7%E5%9B%A0%E4%BA%8B%E6%A5%AD%E5%88%86%E9%96%8B3%E5%B9%B4",
     "timestamp": "2026-09-26T12:26:26.871Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "唐氏綜合症韓星鄭恩惠突曬超聲波照　網民轟「太自私」父親急撲火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180593882358878208752694.png/GNuLoFelsPppI0KsnKuyopSKu_KpJ_B9qVwGj6lcBo8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394049/%E5%94%90%E6%B0%8F%E7%B6%9C%E5%90%88%E7%97%87%E9%9F%93%E6%98%9F%E9%84%AD%E6%81%A9%E6%83%A0%E7%AA%81%E6%9B%AC%E8%B6%85%E8%81%B2%E6%B3%A2%E7%85%A7-%E7%B6%B2%E6%B0%91%E8%BD%9F-%E5%A4%AA%E8%87%AA%E7%A7%81-%E7%88%B6%E8%A6%AA%E6%80%A5%E6%92%B2%E7%81%AB",
-    "timestamp": "2026-09-26T11:53:58.920Z",
     "strategy": ".content-card__main"
   }
 ];
