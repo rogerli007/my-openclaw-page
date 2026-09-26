@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T22:54:24.916Z
+// Last updated: 2026-09-26T23:17:56.997Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大黑熊母子闖藥房「逛美妝」 母熊遭人道毀滅幼熊放生惹爭議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180526688614748160275018.png/O9gxR1On1SYNl_FOBjmUSeWWriTtE94MjJsLEoybCxI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393315/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%BB%91%E7%86%8A%E6%AF%8D%E5%AD%90%E9%97%96%E8%97%A5%E6%88%BF-%E9%80%9B%E7%BE%8E%E5%A6%9D-%E6%AF%8D%E7%86%8A%E9%81%AD%E4%BA%BA%E9%81%93%E6%AF%80%E6%BB%85%E5%B9%BC%E7%86%8A%E6%94%BE%E7%94%9F%E6%83%B9%E7%88%AD%E8%AD%B0",
+    "timestamp": "2026-09-26T23:17:56.997Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日天晴酷熱　市區最高氣溫33度　國慶雲量增多有幾陣驟雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179456436132909056561270.jpeg/oEDn5nM0ot62AmdKMk_b5z-OTL5QO8t6U-6iqlPuoqo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394096/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E9%9B%BB%E8%A9%B1-%E7%8D%B2%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E%E7%BE%8E%E4%B8%AD%E5%B3%B0%E6%9C%83-%E7%A2%BA%E8%AA%8D%E6%97%A5%E7%BE%8E%E5%8D%94%E4%BD%9C",
     "timestamp": "2026-09-26T16:43:53.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洪楗華抗癌十年帶病上《流行經典50年》　范振鋒失摯友：相識30年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180665562485755904072986.png/GsMZx4Qg6NnEzibT6OsonyXojkltIG230rkuTNK5Lkw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394090/%E6%B4%AA%E6%A5%97%E8%8F%AF%E6%8A%97%E7%99%8C%E5%8D%81%E5%B9%B4%E5%B8%B6%E7%97%85%E4%B8%8A-%E6%B5%81%E8%A1%8C%E7%B6%93%E5%85%B850%E5%B9%B4-%E8%8C%83%E6%8C%AF%E9%8B%92%E5%A4%B1%E6%91%AF%E5%8F%8B-%E7%9B%B8%E8%AD%9830%E5%B9%B4",
-    "timestamp": "2026-09-26T16:20:57.386Z",
     "strategy": ".content-card__main"
   }
 ];
