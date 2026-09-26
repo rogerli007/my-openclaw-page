@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T04:22:25.082Z
+// Last updated: 2026-09-26T05:19:53.227Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭香如故｜劉學義譚松韻小院贈蘭花草　暗藏壓抑醋意眼神戲獲讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180472942056706048426719.png/8Gop7gx7uXoKyill70fX1T3qG4ufE4cOomUsMKJlLDA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60393821/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E5%8A%89%E5%AD%B8%E7%BE%A9%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%B0%8F%E9%99%A2%E8%B4%88%E8%98%AD%E8%8A%B1%E8%8D%89-%E6%9A%97%E8%97%8F%E5%A3%93%E6%8A%91%E9%86%8B%E6%84%8F%E7%9C%BC%E7%A5%9E%E6%88%B2%E7%8D%B2%E8%AE%9A",
+    "timestamp": "2026-09-26T05:19:53.227Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫護助癌症病人辦畫展圓心願　「一個人行到最後　唔係等嗰日嚟」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180369521878241280476289.jpeg/ylMj8fSu-fCvxcMGKj0Ua1O9kn1rOjWlRwEkgUcBJIE",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393907/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%A5%B3%E7%94%9F%E4%B8%8D%E6%BB%BF%E6%9C%8D%E5%8B%99%E6%85%8B%E5%BA%A6-%E6%BD%91%E6%B0%B4%E6%8E%9F%E9%A3%9F%E7%89%A9-%E8%81%B7%E5%93%A1%E5%A0%B1%E7%A8%B1%E9%A0%AD%E6%9A%88-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-25T20:46:04.791Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美與特朗普會晤　普京：俄羅斯歡迎美中對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171702336628723712521034.jpeg/C30g72-47zTO-hS_9wXpK1b9JXdD1Z7fV-7tnVfu7Z0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393908/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E6%99%A4-%E6%99%AE%E4%BA%AC-%E4%BF%84%E7%BE%85%E6%96%AF%E6%AD%A1%E8%BF%8E%E7%BE%8E%E4%B8%AD%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-09-25T20:32:50.541Z",
     "strategy": ".content-card__main"
   }
 ];
