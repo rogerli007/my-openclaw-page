@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T11:53:58.920Z
+// Last updated: 2026-09-26T12:26:26.871Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周星星｜王祖藍自爆為愛禁食40日　曾與李亞男因事業分開3年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180576583031721984426738.jpeg/JQ99p3jhmXzBh8d4BcNb4G8bHXIsfu_tesUrGnrFKxo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394039/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E7%8E%8B%E7%A5%96%E8%97%8D%E8%87%AA%E7%88%86%E7%82%BA%E6%84%9B%E7%A6%81%E9%A3%9F40%E6%97%A5-%E6%9B%BE%E8%88%87%E6%9D%8E%E4%BA%9E%E7%94%B7%E5%9B%A0%E4%BA%8B%E6%A5%AD%E5%88%86%E9%96%8B3%E5%B9%B4",
+    "timestamp": "2026-09-26T12:26:26.871Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "唐氏綜合症韓星鄭恩惠突曬超聲波照　網民轟「太自私」父親急撲火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180482089573683200091846.png/IVrsduj2wj64L89UcFMVnVy9PWhr0QHNtNGkOrTRpDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393961/%E9%86%AB%E8%AD%B7%E5%8A%A9%E7%99%8C%E7%97%87%E7%97%85%E4%BA%BA%E8%BE%A6%E7%95%AB%E5%B1%95%E5%9C%93%E5%BF%83%E9%A1%98-%E4%B8%80%E5%80%8B%E4%BA%BA%E8%A1%8C%E5%88%B0%E6%9C%80%E5%BE%8C-%E5%94%94%E4%BF%82%E7%AD%89%E5%97%B0%E6%97%A5%E5%9A%9F",
     "timestamp": "2026-09-26T04:22:25.082Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本女生為何皮膚好？揭5個洗澡期間護膚秘訣　輕鬆養出水潤肌膚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152259126995193856470362.png/BZaFPIdOw5l9xSCCDt3pnmwqZPL-raWho6OddtajnXY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60368599/%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F%E7%82%BA%E4%BD%95%E7%9A%AE%E8%86%9A%E5%A5%BD-%E6%8F%AD5%E5%80%8B%E6%B4%97%E6%BE%A1%E6%9C%9F%E9%96%93%E8%AD%B7%E8%86%9A%E7%A7%98%E8%A8%A3-%E8%BC%95%E9%AC%86%E9%A4%8A%E5%87%BA%E6%B0%B4%E6%BD%A4%E8%82%8C%E8%86%9A",
-    "timestamp": "2026-09-26T03:47:06.644Z",
     "strategy": ".content-card__main"
   }
 ];
