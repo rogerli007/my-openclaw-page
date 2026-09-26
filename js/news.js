@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T08:46:19.963Z
+// Last updated: 2026-09-26T08:56:01.176Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教宗良十四世力挺新聞自由　與特朗普封殺傳媒立場「打對台」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180556001720406016706529.jpeg/SUuu2NElpnEaNGJEiT9aR0ZFPnuvDn0J5nslreZ7Ja0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394020/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%8A%9B%E6%8C%BA%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1-%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E6%AE%BA%E5%82%B3%E5%AA%92%E7%AB%8B%E5%A0%B4-%E6%89%93%E5%B0%8D%E5%8F%B0",
+    "timestamp": "2026-09-26T08:56:01.176Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜石籬二邨單位六旬婦危坐晾衣杆　1小時後返安全位置",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180439994917982208140726.jpeg/mo_0IJJibzwiyuMKCwL4SvbI7P7riiVoxxQ_nf0UP50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393919/%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%A6%AC%E6%8B%89%E6%9D%BE-%E7%BE%85%E6%98%A0%E6%BD%AE%E9%BB%83%E5%8D%93%E5%AF%A7%E6%88%B0%E5%A5%B3%E5%AD%90%E7%B5%84-%E6%9E%97%E7%A9%8E%E7%92%8B%E7%94%B7%E5%AD%90%E7%B5%84%E5%88%97%E7%AC%AC15%E5%90%8D",
     "timestamp": "2026-09-26T01:18:56.231Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟警告能源價格危機　籲各國抑制天然氣電力需求",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148848085477101568842350.jpeg/kw_auTFhF3gu1O5W8CcQRtykCgwCvQRP_pySHf6ckh0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393910/%E6%AD%90%E7%9B%9F%E8%AD%A6%E5%91%8A%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E5%8D%B1%E6%A9%9F-%E7%B1%B2%E5%90%84%E5%9C%8B%E6%8A%91%E5%88%B6%E5%A4%A9%E7%84%B6%E6%B0%A3%E9%9B%BB%E5%8A%9B%E9%9C%80%E6%B1%82",
-    "timestamp": "2026-09-25T23:42:23.101Z",
     "strategy": ".content-card__main"
   }
 ];
