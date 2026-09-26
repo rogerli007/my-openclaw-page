@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T10:31:47.092Z
+// Last updated: 2026-09-26T10:54:49.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王賢誌憂另一半被拖落水　私聯蕭定一澄清冇爛賭遭質疑語言偽術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180584928258035712250183.png/NDx9p-bdvub7UPoGPDAOSh-JIFcJZNhLcxWs8HMVrPA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394046/%E7%8E%8B%E8%B3%A2%E8%AA%8C%E6%86%82%E5%8F%A6%E4%B8%80%E5%8D%8A%E8%A2%AB%E6%8B%96%E8%90%BD%E6%B0%B4-%E7%A7%81%E8%81%AF%E8%95%AD%E5%AE%9A%E4%B8%80%E6%BE%84%E6%B8%85%E5%86%87%E7%88%9B%E8%B3%AD%E9%81%AD%E8%B3%AA%E7%96%91%E8%AA%9E%E8%A8%80%E5%81%BD%E8%A1%93",
+    "timestamp": "2026-09-26T10:54:49.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大嶼山對開海面79歲婦疑遇溺　途人救起昏迷送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180460153527341056367540.jpeg/mun17dDufR1qSd3VasJ69ha0N2m9sgErx-3YHcft2B0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393913/24-7-fitness%E6%B2%99%E7%94%B0%E5%88%86%E5%BA%97%E6%9B%B4%E8%A1%A3%E5%AE%A4%E9%A9%9A%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-%E8%AD%A6%E5%88%97%E7%AA%BA%E6%B7%AB%E8%BF%BD%E7%B7%9D-%E6%9C%89%E7%89%87",
     "timestamp": "2026-09-26T03:00:13.418Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平特朗普同談二戰合作　學者：中美戰略穩定仍存分歧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180189514854174720349065.jpeg/JmMfYJXJw5-tB1nrnPw5BCqB7ZurIhiYzl69Ic5evSE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393931/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E8%AB%87%E4%BA%8C%E6%88%B0%E5%90%88%E4%BD%9C-%E5%AD%B8%E8%80%85-%E4%B8%AD%E7%BE%8E%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A%E4%BB%8D%E5%AD%98%E5%88%86%E6%AD%A7",
-    "timestamp": "2026-09-26T02:49:22.563Z",
     "strategy": ".content-card__main"
   }
 ];
