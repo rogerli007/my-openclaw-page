@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T21:42:21.864Z
+// Last updated: 2026-09-26T21:58:45.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣近水灣泳灘九旬婦游早泳遇溺　消防救人　昏迷搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180755939653849088143865.jpeg/YvGk3XdDbXTKqAedCPItvKbzJ-8GDninl9lc-63ZXPs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E4%B9%9D%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91",
+    "timestamp": "2026-09-26T21:58:45.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國暴雨｜曼谷全市列災區　中國使館籲公民防暴雨洪澇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179945947006767104947860.jpeg/3yuIAp19RU0CMOMYFZPydtysWIKz6POLPDvypDw78qQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394075/%E4%B8%AD%E7%BE%8E%E6%88%90%E6%9E%9C%E6%B8%85%E5%96%AE%E6%AF%94%E8%BC%83-%E5%83%85%E7%BE%8E%E6%96%B9%E6%8F%90%E5%8F%8A%E7%85%A4%E7%82%AD%E7%A8%80%E5%9C%9F-%E8%B6%85%E7%B4%9A%E6%99%BA%E8%83%BD%E6%8A%91%E6%88%96%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
     "timestamp": "2026-09-26T14:44:52.449Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026劍擊｜何思朗首摘牌感動落淚　火爆少年的成長記",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180614634751660032509234.jpeg/4FjxjO53XgenHmc8ur6G9TabOyLl8v8N3wJe398CXt8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394056/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%8A%8D%E6%93%8A-%E4%BD%95%E6%80%9D%E6%9C%97%E9%A6%96%E6%91%98%E7%89%8C%E6%84%9F%E5%8B%95%E8%90%BD%E6%B7%9A-%E7%81%AB%E7%88%86%E5%B0%91%E5%B9%B4%E7%9A%84%E6%88%90%E9%95%B7%E8%A8%98",
-    "timestamp": "2026-09-26T14:32:18.885Z",
     "strategy": ".content-card__main"
   }
 ];
