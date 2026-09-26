@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T08:56:01.176Z
+// Last updated: 2026-09-26T09:43:42.079Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜尖沙咀清晨街頭混戰　夫婦遭圍毆額鼻流血　警追緝10多男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180556049275424768980326.png/Lr7GsX16pCs4LFeFPQ1wRfEYRmZ0TCZHfLEoiXyxKIk?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394013/%E6%9C%89%E7%89%87-%E5%B0%96%E6%B2%99%E5%92%80%E6%B8%85%E6%99%A8%E8%A1%97%E9%A0%AD%E6%B7%B7%E6%88%B0-%E5%A4%AB%E5%A9%A6%E9%81%AD%E5%9C%8D%E6%AF%86%E9%A1%8D%E9%BC%BB%E6%B5%81%E8%A1%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D10%E5%A4%9A%E7%94%B7",
+    "timestamp": "2026-09-26T09:43:42.079Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教宗良十四世力挺新聞自由　與特朗普封殺傳媒立場「打對台」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180439994917982208140726.jpeg/mo_0IJJibzwiyuMKCwL4SvbI7P7riiVoxxQ_nf0UP50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393919/%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%A6%AC%E6%8B%89%E6%9D%BE-%E7%BE%85%E6%98%A0%E6%BD%AE%E9%BB%83%E5%8D%93%E5%AF%A7%E6%88%B0%E5%A5%B3%E5%AD%90%E7%B5%84-%E6%9E%97%E7%A9%8E%E7%92%8B%E7%94%B7%E5%AD%90%E7%B5%84%E5%88%97%E7%AC%AC15%E5%90%8D",
     "timestamp": "2026-09-26T01:39:59.467Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026馬拉松︱羅映潮黃卓寧戰女子組　林穎璋男子組列第15名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180439994917982208140726.jpeg/mo_0IJJibzwiyuMKCwL4SvbI7P7riiVoxxQ_nf0UP50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60393919/%E4%BA%9E%E9%81%8B%E6%9C%832026%E9%A6%AC%E6%8B%89%E6%9D%BE-%E7%BE%85%E6%98%A0%E6%BD%AE%E9%BB%83%E5%8D%93%E5%AF%A7%E6%88%B0%E5%A5%B3%E5%AD%90%E7%B5%84-%E6%9E%97%E7%A9%8E%E7%92%8B%E7%94%B7%E5%AD%90%E7%B5%84%E5%88%97%E7%AC%AC15%E5%90%8D",
-    "timestamp": "2026-09-26T01:18:56.231Z",
     "strategy": ".content-card__main"
   }
 ];
