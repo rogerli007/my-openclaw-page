@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T15:44:29.225Z
+// Last updated: 2026-09-26T15:54:02.224Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TikTok達成美國首宗州級和解　支付1億美元並收緊使用限制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260123/1091303961668882432432150.jpeg/9HlB3NFg-E_imSyU-oe4S-vUUDZwgBSc-eqZzfnqmc0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394078/tiktok%E9%81%94%E6%88%90%E7%BE%8E%E5%9C%8B%E9%A6%96%E5%AE%97%E5%B7%9E%E7%B4%9A%E5%92%8C%E8%A7%A3-%E6%94%AF%E4%BB%981%E5%84%84%E7%BE%8E%E5%85%83%E4%B8%A6%E6%94%B6%E7%B7%8A%E4%BD%BF%E7%94%A8%E9%99%90%E5%88%B6",
+    "timestamp": "2026-09-26T15:54:02.224Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍塘水管爆裂　馬路有水氹　警通知水務署到場跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180556021056147456906385.jpeg/9ujUHybK9W0BIqDJnOXbj6dNigl5wwuqYtN7KmLTeyo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394017/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E4%BA%8C%E9%82%A8%E5%96%AE%E4%BD%8D%E5%85%AD%E6%97%AC%E5%A9%A6%E5%8D%B1%E5%9D%90%E6%99%BE%E8%A1%A3%E6%9D%86-1%E5%B0%8F%E6%99%82%E5%BE%8C%E8%BF%94%E5%AE%89%E5%85%A8%E4%BD%8D%E7%BD%AE",
     "timestamp": "2026-09-26T08:46:19.963Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美元首今年內將再會面2次　特朗普證實11月赴華APEC峰會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179978712037199872840591.jpeg/L0yHsMOZOEb__r6-3gf1hb6YN6lohpMox03338dN998?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394005/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BB%8A%E5%B9%B4%E5%85%A7%E5%B0%87%E5%86%8D%E6%9C%83%E9%9D%A22%E6%AC%A1-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%89%E5%AF%A611%E6%9C%88%E8%B5%B4%E8%8F%AFapec%E5%B3%B0%E6%9C%83",
-    "timestamp": "2026-09-26T08:25:56.731Z",
     "strategy": ".content-card__main"
   }
 ];
