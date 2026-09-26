@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T23:17:56.997Z
+// Last updated: 2026-09-26T23:30:20.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國大幅放寬燃油效率標準至2031　特朗普：降車價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180275473419079680358290.jpeg/4qtxDbcRkRVmU5TxReIf1oJWL8Iu1BuLjQqkiI0KpIg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394109/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B9%85%E6%94%BE%E5%AF%AC%E7%87%83%E6%B2%B9%E6%95%88%E7%8E%87%E6%A8%99%E6%BA%96%E8%87%B32031-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%99%8D%E8%BB%8A%E5%83%B9",
+    "timestamp": "2026-09-26T23:30:20.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大黑熊母子闖藥房「逛美妝」 母熊遭人道毀滅幼熊放生惹爭議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/686527/org/3238e637880ad8baeaccb0bdfbc66a04.jpg/I9Z_8qPnlp-vNSmRfuely-p5MdPOCLObEXYEZhF2BGY?v=w1920",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60394097/%E5%8F%B0%E5%BC%8F%E4%B8%89%E6%9D%AF%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%BA%BB%E6%B2%B9%E7%B1%B3%E9%85%92%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA-%E6%B1%81%E9%A6%99%E9%86%AC%E6%BF%83%E6%8B%8C%E9%A3%AF%E4%B8%80%E6%B5%81",
     "timestamp": "2026-09-26T17:17:42.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗與特朗普通電話　獲詳細說明美中峰會　確認日美協作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179456436132909056561270.jpeg/oEDn5nM0ot62AmdKMk_b5z-OTL5QO8t6U-6iqlPuoqo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394096/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E9%9B%BB%E8%A9%B1-%E7%8D%B2%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E%E7%BE%8E%E4%B8%AD%E5%B3%B0%E6%9C%83-%E7%A2%BA%E8%AA%8D%E6%97%A5%E7%BE%8E%E5%8D%94%E4%BD%9C",
-    "timestamp": "2026-09-26T16:43:53.134Z",
     "strategy": ".content-card__main"
   }
 ];
