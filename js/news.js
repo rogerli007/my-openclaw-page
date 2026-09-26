@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T22:42:56.275Z
+// Last updated: 2026-09-26T22:54:24.916Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日天晴酷熱　市區最高氣溫33度　國慶雲量增多有幾陣驟雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180767533712543744849073.jpeg/b8YMTBPSFzJeSbLoxSJT-CQVhIJpRr61SmhqKnBoaio?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60394107/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E9%85%B7%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB33%E5%BA%A6-%E5%9C%8B%E6%85%B6%E9%9B%B2%E9%87%8F%E5%A2%9E%E5%A4%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8",
+    "timestamp": "2026-09-26T22:54:24.916Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣近水灣泳灘八旬婦游早泳遇溺　消防救人　昏迷送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180665562485755904072986.png/GsMZx4Qg6NnEzibT6OsonyXojkltIG230rkuTNK5Lkw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394090/%E6%B4%AA%E6%A5%97%E8%8F%AF%E6%8A%97%E7%99%8C%E5%8D%81%E5%B9%B4%E5%B8%B6%E7%97%85%E4%B8%8A-%E6%B5%81%E8%A1%8C%E7%B6%93%E5%85%B850%E5%B9%B4-%E8%8C%83%E6%8C%AF%E9%8B%92%E5%A4%B1%E6%91%AF%E5%8F%8B-%E7%9B%B8%E8%AD%9830%E5%B9%B4",
     "timestamp": "2026-09-26T16:20:57.386Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TikTok達成美國首宗州級和解　支付1億美元並收緊使用限制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260123/1091303961668882432432150.jpeg/9HlB3NFg-E_imSyU-oe4S-vUUDZwgBSc-eqZzfnqmc0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394078/tiktok%E9%81%94%E6%88%90%E7%BE%8E%E5%9C%8B%E9%A6%96%E5%AE%97%E5%B7%9E%E7%B4%9A%E5%92%8C%E8%A7%A3-%E6%94%AF%E4%BB%981%E5%84%84%E7%BE%8E%E5%85%83%E4%B8%A6%E6%94%B6%E7%B7%8A%E4%BD%BF%E7%94%A8%E9%99%90%E5%88%B6",
-    "timestamp": "2026-09-26T15:54:02.224Z",
     "strategy": ".content-card__main"
   }
 ];
