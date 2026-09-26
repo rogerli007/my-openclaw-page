@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T01:39:59.467Z
+// Last updated: 2026-09-26T02:01:43.298Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會｜人民日報：把中美建設性戰略穩定關係從願景轉化為行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393922/%E7%BF%92%E7%89%B9%E6%9C%83-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1-%E6%8A%8A%E4%B8%AD%E7%BE%8E%E5%BB%BA%E8%A8%AD%E6%80%A7%E6%88%B0%E7%95%A5%E7%A9%A9%E5%AE%9A%E9%97%9C%E4%BF%82%E5%BE%9E%E9%A1%98%E6%99%AF%E8%BD%89%E5%8C%96%E7%82%BA%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-09-26T02:01:43.298Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026馬拉松︱羅映潮黃卓寧戰女子組　林穎璋男子組列第15名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179926378343043072628459.jpeg/1Wnd0PD553qm2gyavXWXDrMcZJKG5DQqlhp_NZYafzU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393899/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B2%9D%E6%A3%AE%E7%89%B9%E7%B9%BC%E7%BA%8C%E7%95%99%E5%9C%A8%E8%B2%A1%E6%94%BF%E9%83%A8-%E4%B8%8D%E6%9C%83%E5%87%BA%E4%BB%BBai%E6%B2%99%E7%9A%87",
     "timestamp": "2026-09-25T18:46:38.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗尋求盡快與特朗普通話　了解習特會內容",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179456973922373632751432.jpeg/ZGKSP7v3olLxD_L-Gx3Ba98479ugE8enZhRbHGYUWxw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393898/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%8B%E6%B1%82%E7%9B%A1%E5%BF%AB%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%A9%B1-%E4%BA%86%E8%A7%A3%E7%BF%92%E7%89%B9%E6%9C%83%E5%85%A7%E5%AE%B9",
-    "timestamp": "2026-09-25T18:23:54.170Z",
     "strategy": ".content-card__main"
   }
 ];
