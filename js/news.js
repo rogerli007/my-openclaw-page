@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T17:42:18.873Z
+// Last updated: 2026-09-26T17:54:51.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台式三杯雞食譜｜做法簡易麻油米酒不可或缺、汁香醬濃拌飯一流",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/686527/org/3238e637880ad8baeaccb0bdfbc66a04.jpg/I9Z_8qPnlp-vNSmRfuely-p5MdPOCLObEXYEZhF2BGY?v=w1920",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60394097/%E5%8F%B0%E5%BC%8F%E4%B8%89%E6%9D%AF%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%BA%BB%E6%B2%B9%E7%B1%B3%E9%85%92%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA-%E6%B1%81%E9%A6%99%E9%86%AC%E6%BF%83%E6%8B%8C%E9%A3%AF%E4%B8%80%E6%B5%81",
+    "timestamp": "2026-09-26T17:54:51.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台式三杯雞食譜｜做法簡易麻油米酒不可或缺、汁香醬濃拌飯一流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180584928258035712250183.png/NDx9p-bdvub7UPoGPDAOSh-JIFcJZNhLcxWs8HMVrPA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394046/%E7%8E%8B%E8%B3%A2%E8%AA%8C%E6%86%82%E5%8F%A6%E4%B8%80%E5%8D%8A%E8%A2%AB%E6%8B%96%E8%90%BD%E6%B0%B4-%E7%A7%81%E8%81%AF%E8%95%AD%E5%AE%9A%E4%B8%80%E6%BE%84%E6%B8%85%E5%86%87%E7%88%9B%E8%B3%AD%E9%81%AD%E8%B3%AA%E7%96%91%E8%AA%9E%E8%A8%80%E5%81%BD%E8%A1%93",
     "timestamp": "2026-09-26T10:54:49.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大嶼山對開海面79歲婦疑遇溺　途人救起昏迷送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166316067648180224642571.jpeg/FF3Ga9DpehViL0WobfXmW6ZrJt3j4cBWv1eNbr9XjW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394042/%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%B0%8D%E9%96%8B%E6%B5%B7%E9%9D%A279%E6%AD%B2%E5%A9%A6%E7%96%91%E9%81%87%E6%BA%BA-%E9%80%94%E4%BA%BA%E6%95%91%E8%B5%B7%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-26T10:31:47.092Z",
     "strategy": ".content-card__main"
   }
 ];
