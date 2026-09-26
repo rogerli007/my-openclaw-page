@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T03:23:02.175Z
+// Last updated: 2026-09-26T03:47:06.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本女生為何皮膚好？揭5個洗澡期間護膚秘訣　輕鬆養出水潤肌膚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152259126995193856470362.png/BZaFPIdOw5l9xSCCDt3pnmwqZPL-raWho6OddtajnXY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60368599/%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F%E7%82%BA%E4%BD%95%E7%9A%AE%E8%86%9A%E5%A5%BD-%E6%8F%AD5%E5%80%8B%E6%B4%97%E6%BE%A1%E6%9C%9F%E9%96%93%E8%AD%B7%E8%86%9A%E7%A7%98%E8%A8%A3-%E8%BC%95%E9%AC%86%E9%A4%8A%E5%87%BA%E6%B0%B4%E6%BD%A4%E8%82%8C%E8%86%9A",
+    "timestamp": "2026-09-26T03:47:06.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會｜陳茂波：中美關係變得積極正面　投資者布局可更安心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180352442991120384648371.jpeg/VbPtqYEuoyG1g_VHufxG-Co9z3vYHwqcOwEjpAEBI6Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393905/%E7%BE%8E%E7%94%B0%E9%82%A815%E6%AD%B2%E7%94%B7%E5%92%8C51%E6%AD%B2%E5%A5%B3-%E7%9C%BC%E8%B6%85%E8%B6%85-%E5%8B%95%E6%AD%A6-%E5%90%84%E6%B6%89%E8%A5%B2%E6%93%8A%E5%92%8C%E5%88%91%E6%AF%80%E6%89%8B%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-25T20:19:04.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美田邨15歲男和51歲女「眼超超」動武　各涉襲擊和刑毀手機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180352442991120384648371.jpeg/VbPtqYEuoyG1g_VHufxG-Co9z3vYHwqcOwEjpAEBI6Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60393905/%E7%BE%8E%E7%94%B0%E9%82%A815%E6%AD%B2%E7%94%B7%E5%92%8C51%E6%AD%B2%E5%A5%B3-%E7%9C%BC%E8%B6%85%E8%B6%85-%E5%8B%95%E6%AD%A6-%E5%90%84%E6%B6%89%E8%A5%B2%E6%93%8A%E5%92%8C%E5%88%91%E6%AF%80%E6%89%8B%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-25T19:54:36.077Z",
     "strategy": ".content-card__main"
   }
 ];
