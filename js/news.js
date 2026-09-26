@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T07:43:21.901Z
+// Last updated: 2026-09-26T07:54:52.028Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉歡病逝｜創《甄嬛傳》配樂、經典《好漢歌》　五點認識華語歌王",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180516711254724608049561.png/IeyW8QFkgDLV_unQvcfOWBREitXMFpD2x4ACQceAAkE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393950/%E5%8A%89%E6%AD%A1%E7%97%85%E9%80%9D-%E5%89%B5-%E7%94%84%E5%AC%9B%E5%82%B3-%E9%85%8D%E6%A8%82-%E7%B6%93%E5%85%B8-%E5%A5%BD%E6%BC%A2%E6%AD%8C-%E4%BA%94%E9%BB%9E%E8%AA%8D%E8%AD%98%E8%8F%AF%E8%AA%9E%E6%AD%8C%E7%8E%8B",
+    "timestamp": "2026-09-26T07:54:52.028Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB中秋宣傳片遭投訴　樊亦敏一句「 自己垃圾自己帶走」被指辱男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180198970001985536706453.png/WkjW6RVRp3WFjJt3w4XI1rPxoQz67LbAf9ALz3_QC88?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60392777/%E6%97%A559%E6%AD%B2%E5%A5%B3%E4%B8%BB%E4%BA%BA%E7%82%BA%E6%95%91%E6%84%9B%E7%8A%AC%E5%A2%AE7%E7%B1%B3%E7%80%91%E5%B8%83%E4%BA%A1-%E7%8D%B8%E9%86%AB%E8%AD%A6%E5%91%8A-%E7%84%A1%E7%A6%81%E6%AD%A2%E4%B8%8D%E7%AD%89%E6%96%BC%E5%AE%89%E5%85%A8",
     "timestamp": "2026-09-25T23:22:21.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【星之谷】臨近成交期始知律師樓未獲銀行認可　按揭應變指南",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179464853912293376204193.jpeg/mvTkVI1CYlgmPKGvodNs-wZ4e1LfGyNeVQIX3VUCF90?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60393029/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E8%87%A8%E8%BF%91%E6%88%90%E4%BA%A4%E6%9C%9F%E5%A7%8B%E7%9F%A5%E5%BE%8B%E5%B8%AB%E6%A8%93%E6%9C%AA%E7%8D%B2%E9%8A%80%E8%A1%8C%E8%AA%8D%E5%8F%AF-%E6%8C%89%E6%8F%AD%E6%87%89%E8%AE%8A%E6%8C%87%E5%8D%97",
-    "timestamp": "2026-09-25T22:45:07.519Z",
     "strategy": ".content-card__main"
   }
 ];
