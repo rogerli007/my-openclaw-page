@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T14:44:52.449Z
+// Last updated: 2026-09-26T14:54:55.667Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運2026港隊獎牌榜+最新賽果｜9.26最新戰報",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180294569732870144752831.jpeg/RnOfqB4QtpU9BrVEpKAlv3ZeohPoPkNZWPFS5VjxUuU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390978/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B2026%E6%B8%AF%E9%9A%8A%E7%8D%8E%E7%89%8C%E6%A6%9C-%E6%9C%80%E6%96%B0%E8%B3%BD%E6%9E%9C-%E4%BA%9E%E9%81%8B%E6%B8%AF%E9%9A%8A%E6%88%90%E7%B8%BE%E6%AF%8F%E6%97%A5%E7%B8%BD%E7%B5%90",
+    "timestamp": "2026-09-26T14:54:55.667Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美成果清單比較：僅美方提及煤炭稀土　超級智能抑或人工智能？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180516711254724608049561.png/IeyW8QFkgDLV_unQvcfOWBREitXMFpD2x4ACQceAAkE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393950/%E5%8A%89%E6%AD%A1%E7%97%85%E9%80%9D-%E5%89%B5-%E7%94%84%E5%AC%9B%E5%82%B3-%E9%85%8D%E6%A8%82-%E7%B6%93%E5%85%B8-%E5%A5%BD%E6%BC%A2%E6%AD%8C-%E4%BA%94%E9%BB%9E%E8%AA%8D%E8%AD%98%E8%8F%AF%E8%AA%9E%E6%AD%8C%E7%8E%8B",
     "timestamp": "2026-09-26T07:54:52.028Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB中秋宣傳片遭投訴　樊亦敏一句「 自己垃圾自己帶走」被指辱男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180523643118030848417256.png/gy6QACjeA8XhDsWcVs8ZlBeFdzBFLOe9Rdr4skXa-LI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393982/tvb%E4%B8%AD%E7%A7%8B%E5%AE%A3%E5%82%B3%E7%89%87%E9%81%AD%E6%8A%95%E8%A8%B4-%E6%A8%8A%E4%BA%A6%E6%95%8F%E4%B8%80%E5%8F%A5-%E8%87%AA%E5%B7%B1%E5%9E%83%E5%9C%BE%E8%87%AA%E5%B7%B1%E5%B8%B6%E8%B5%B0-%E8%A2%AB%E6%8C%87%E8%BE%B1%E7%94%B7",
-    "timestamp": "2026-09-26T07:43:21.901Z",
     "strategy": ".content-card__main"
   }
 ];
