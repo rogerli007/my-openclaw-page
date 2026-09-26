@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T14:32:18.885Z
+// Last updated: 2026-09-26T14:44:52.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美成果清單比較：僅美方提及煤炭稀土　超級智能抑或人工智能？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179945947006767104947860.jpeg/3yuIAp19RU0CMOMYFZPydtysWIKz6POLPDvypDw78qQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394075/%E4%B8%AD%E7%BE%8E%E6%88%90%E6%9E%9C%E6%B8%85%E5%96%AE%E6%AF%94%E8%BC%83-%E5%83%85%E7%BE%8E%E6%96%B9%E6%8F%90%E5%8F%8A%E7%85%A4%E7%82%AD%E7%A8%80%E5%9C%9F-%E8%B6%85%E7%B4%9A%E6%99%BA%E8%83%BD%E6%8A%91%E6%88%96%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+    "timestamp": "2026-09-26T14:44:52.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026劍擊｜何思朗首摘牌感動落淚　火爆少年的成長記",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180523643118030848417256.png/gy6QACjeA8XhDsWcVs8ZlBeFdzBFLOe9Rdr4skXa-LI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393982/tvb%E4%B8%AD%E7%A7%8B%E5%AE%A3%E5%82%B3%E7%89%87%E9%81%AD%E6%8A%95%E8%A8%B4-%E6%A8%8A%E4%BA%A6%E6%95%8F%E4%B8%80%E5%8F%A5-%E8%87%AA%E5%B7%B1%E5%9E%83%E5%9C%BE%E8%87%AA%E5%B7%B1%E5%B8%B6%E8%B5%B0-%E8%A2%AB%E6%8C%87%E8%BE%B1%E7%94%B7",
     "timestamp": "2026-09-26T07:43:21.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美｜赴美兩隻熊貓完成適應訓練　亞特蘭大場館改造迎接",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180132059088293888865391.jpeg/q174wN0f3O7O6uV4qNLsxWjwQ5jDK0gMoM85aqDPOWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60393993/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E8%B5%B4%E7%BE%8E%E5%85%A9%E9%9A%BB%E7%86%8A%E8%B2%93%E5%AE%8C%E6%88%90%E9%81%A9%E6%87%89%E8%A8%93%E7%B7%B4-%E4%BA%9E%E7%89%B9%E8%98%AD%E5%A4%A7%E5%A0%B4%E9%A4%A8%E6%94%B9%E9%80%A0%E8%BF%8E%E6%8E%A5",
-    "timestamp": "2026-09-26T07:20:37.378Z",
     "strategy": ".content-card__main"
   }
 ];
