@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T21:58:45.267Z
+// Last updated: 2026-09-26T22:18:05.678Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣近水灣泳灘九旬婦游早泳遇溺　消防救人　昏迷搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180755939653849088143865.jpeg/YvGk3XdDbXTKqAedCPItvKbzJ-8GDninl9lc-63ZXPs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E4%B9%9D%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91",
+    "timestamp": "2026-09-26T22:18:05.678Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣近水灣泳灘九旬婦游早泳遇溺　消防救人　昏迷搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180294569732870144752831.jpeg/RnOfqB4QtpU9BrVEpKAlv3ZeohPoPkNZWPFS5VjxUuU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60390978/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B2026%E6%B8%AF%E9%9A%8A%E7%8D%8E%E7%89%8C%E6%A6%9C-%E6%9C%80%E6%96%B0%E8%B3%BD%E6%9E%9C-%E4%BA%9E%E9%81%8B%E6%B8%AF%E9%9A%8A%E6%88%90%E7%B8%BE%E6%AF%8F%E6%97%A5%E7%B8%BD%E7%B5%90",
     "timestamp": "2026-09-26T14:54:55.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美成果清單比較：僅美方提及煤炭稀土　超級智能抑或人工智能？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179945947006767104947860.jpeg/3yuIAp19RU0CMOMYFZPydtysWIKz6POLPDvypDw78qQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394075/%E4%B8%AD%E7%BE%8E%E6%88%90%E6%9E%9C%E6%B8%85%E5%96%AE%E6%AF%94%E8%BC%83-%E5%83%85%E7%BE%8E%E6%96%B9%E6%8F%90%E5%8F%8A%E7%85%A4%E7%82%AD%E7%A8%80%E5%9C%9F-%E8%B6%85%E7%B4%9A%E6%99%BA%E8%83%BD%E6%8A%91%E6%88%96%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
-    "timestamp": "2026-09-26T14:44:52.449Z",
     "strategy": ".content-card__main"
   }
 ];
