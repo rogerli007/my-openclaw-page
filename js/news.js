@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T08:25:37.454Z
+// Last updated: 2026-09-27T08:57:13.487Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026︱香港男排力戰負卡塔爾　19歲古靖堅並列全隊最高16分",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180881254090805248932470.jpeg/FkJmcl3syNehmHX7MYJRUGOhu6ONj1LTqZdvkJOXb5A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394167/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%A6%99%E6%B8%AF%E7%94%B7%E6%8E%92%E5%8A%9B%E6%88%B0%E8%B2%A0%E5%8D%A1%E5%A1%94%E7%88%BE-19%E6%AD%B2%E5%8F%A4%E9%9D%96%E5%A0%85%E4%B8%A6%E5%88%97%E5%85%A8%E9%9A%8A%E6%9C%80%E9%AB%9816%E5%88%86",
+    "timestamp": "2026-09-27T08:57:13.487Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "30歲男子昨日酷熱天氣警告下　遊娥眉洲暈倒　昏迷送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180526688614748160275018.png/O9gxR1On1SYNl_FOBjmUSeWWriTtE94MjJsLEoybCxI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393315/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%BB%91%E7%86%8A%E6%AF%8D%E5%AD%90%E9%97%96%E8%97%A5%E6%88%BF-%E9%80%9B%E7%BE%8E%E5%A6%9D-%E6%AF%8D%E7%86%8A%E9%81%AD%E4%BA%BA%E9%81%93%E6%AF%80%E6%BB%85%E5%B9%BC%E7%86%8A%E6%94%BE%E7%94%9F%E6%83%B9%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-09-26T23:17:56.997Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日天晴酷熱　市區最高氣溫33度　國慶雲量增多有幾陣驟雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180767533712543744849073.jpeg/b8YMTBPSFzJeSbLoxSJT-CQVhIJpRr61SmhqKnBoaio?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60394107/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E9%85%B7%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB33%E5%BA%A6-%E5%9C%8B%E6%85%B6%E9%9B%B2%E9%87%8F%E5%A2%9E%E5%A4%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8",
-    "timestamp": "2026-09-26T22:54:24.916Z",
     "strategy": ".content-card__main"
   }
 ];
