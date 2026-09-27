@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T07:45:06.746Z
+// Last updated: 2026-09-27T07:54:37.700Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界技能大賽｜瓷磚貼面項目唯一女選手　香港21歲戴心怡獲激讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180892822643937280974061.jpeg/uYA6pd0mBkCGaFL3qHAZZebDFUqnYz-zpmDxt6Zg8bc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60394176/%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B3%BD-%E7%93%B7%E7%A3%9A%E8%B2%BC%E9%9D%A2%E9%A0%85%E7%9B%AE%E5%94%AF%E4%B8%80%E5%A5%B3%E9%81%B8%E6%89%8B-%E9%A6%99%E6%B8%AF21%E6%AD%B2%E6%88%B4%E5%BF%83%E6%80%A1%E7%8D%B2%E6%BF%80%E8%AE%9A",
+    "timestamp": "2026-09-27T07:54:37.700Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前新聞王子陳書君坦白出櫃母以死相逼　唔想呃一個女仔：無良心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180764901346381824349125.jpeg/f1iIzuLlzn1osTpCbzjKHvBMiV597FNjW5_Kq2Gfyqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E5%85%AB%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-26T22:42:56.275Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣近水灣泳灘九旬婦游早泳遇溺　消防救人　昏迷搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180755939653849088143865.jpeg/YvGk3XdDbXTKqAedCPItvKbzJ-8GDninl9lc-63ZXPs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E4%B9%9D%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-26T22:31:42.379Z",
     "strategy": ".content-card__main"
   }
 ];
