@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T09:21:14.251Z
+// Last updated: 2026-09-27T09:53:36.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜港鐵車廂48歲女稱23歲男偷拍　扯衫阻離開　警查手機無發現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180932906931982336382197.jpeg/a-La5UNrSPLrlr4YGYgan0McQS98WlWhfqfw836n8PM?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394216/%E6%9C%89%E7%89%87-%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%8248%E6%AD%B2%E5%A5%B3%E7%A8%B123%E6%AD%B2%E7%94%B7%E5%81%B7%E6%8B%8D-%E6%89%AF%E8%A1%AB%E9%98%BB%E9%9B%A2%E9%96%8B-%E8%AD%A6%E6%9F%A5%E6%89%8B%E6%A9%9F%E7%84%A1%E7%99%BC%E7%8F%BE",
+    "timestamp": "2026-09-27T09:53:36.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美心月餅盒回收設454個回收點　指定商場送$73餐飲電子優惠券",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180275473419079680358290.jpeg/4qtxDbcRkRVmU5TxReIf1oJWL8Iu1BuLjQqkiI0KpIg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394109/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B9%85%E6%94%BE%E5%AF%AC%E7%87%83%E6%B2%B9%E6%95%88%E7%8E%87%E6%A8%99%E6%BA%96%E8%87%B32031-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%99%8D%E8%BB%8A%E5%83%B9",
     "timestamp": "2026-09-26T23:42:31.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國大幅放寬燃油效率標準至2031　特朗普：降車價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180275473419079680358290.jpeg/4qtxDbcRkRVmU5TxReIf1oJWL8Iu1BuLjQqkiI0KpIg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394109/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B9%85%E6%94%BE%E5%AF%AC%E7%87%83%E6%B2%B9%E6%95%88%E7%8E%87%E6%A8%99%E6%BA%96%E8%87%B32031-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%99%8D%E8%BB%8A%E5%83%B9",
-    "timestamp": "2026-09-26T23:30:20.519Z",
     "strategy": ".content-card__main"
   }
 ];
