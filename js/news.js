@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T19:19:28.691Z
+// Last updated: 2026-09-27T19:29:12.299Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-27T19:29:12.299Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180962896998305792230971.jpeg/4M-UBy0qmSckYjl3tl7uwPFD_sctDQng7Yetg-2HrYM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394250/%E5%A4%A9%E7%9C%BC%E7%9B%B4%E6%93%8A-%E6%88%B4%E5%B8%BD%E7%94%B7%E9%97%96%E5%A4%A7%E8%A7%92%E5%92%80%E5%A4%BE%E5%85%AC%E4%BB%94%E8%88%96-%E6%90%9C4%E5%8F%B0%E6%A9%9F%E9%8C%A2%E7%AE%B1%E5%80%92%E9%8C%A2%E8%90%BD%E8%A2%8B%E6%8E%A0%E8%90%AC%E5%85%83",
     "timestamp": "2026-09-27T11:54:14.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛池灣彩雲邨天降5吋大木塊　7歲女童遭砸傷手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/455750/org/279715e4026ccc23fd4574c8f6196a6e.jpg/Xm9gUzJVb_LjDXmgGSAiYr7iYRN94B9MAAKf9gACn_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394246/%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BD%A9%E9%9B%B2%E9%82%A8%E5%A4%A9%E9%99%8D5%E5%90%8B%E5%A4%A7%E6%9C%A8%E5%A1%8A-7%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%A0%B8%E5%82%B7%E6%89%8B",
-    "timestamp": "2026-09-27T11:42:46.982Z",
     "strategy": ".content-card__main"
   }
 ];
