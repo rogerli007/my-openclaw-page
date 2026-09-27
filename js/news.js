@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T02:43:28.191Z
+// Last updated: 2026-09-27T03:04:02.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026︱羽毛球地獄賽程安洗瑩也抱怨　單打部分賽事凌晨開波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180809594084003840097825.jpeg/-rCS61QpOZTK62nluqy4DLLw0ceRIQ5sgSMkN4EjJDc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394116/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E7%BE%BD%E6%AF%9B%E7%90%83%E5%9C%B0%E7%8D%84%E8%B3%BD%E7%A8%8B%E5%AE%89%E6%B4%97%E7%91%A9%E4%B9%9F%E6%8A%B1%E6%80%A8-%E5%96%AE%E6%89%93%E9%83%A8%E5%88%86%E8%B3%BD%E4%BA%8B%E5%87%8C%E6%99%A8%E9%96%8B%E6%B3%A2",
+    "timestamp": "2026-09-27T03:04:02.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱與習近平談及AI　惟拒與中方進行技術整合：美國大幅領先",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180709281381486592560471.jpeg/SFZCC3JLLPKKRgUcJmM3sQ3mR8qCTGCRge0fKYHtHyk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394102/%E6%9D%B1%E5%8C%97%E9%A2%A8%E6%9A%B4%E5%90%B9%E8%A5%B2%E7%BE%8E%E5%9C%8B-%E9%80%BE10%E8%90%AC%E6%88%B6%E5%81%9C%E9%9B%BB-%E9%80%BE400%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88",
     "timestamp": "2026-09-26T19:28:09.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯合國大會｜韓正不點名批評美國　促解除對古巴封鎖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179120063022632960734051.jpeg/GRZ40SIaofm6neAwk6GfaHI0q6Nd1EtmmPifbJj4n2w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394101/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83-%E9%9F%93%E6%AD%A3%E4%B8%8D%E9%BB%9E%E5%90%8D%E6%89%B9%E8%A9%95%E7%BE%8E%E5%9C%8B-%E4%BF%83%E8%A7%A3%E9%99%A4%E5%B0%8D%E5%8F%A4%E5%B7%B4%E5%B0%81%E9%8E%96",
-    "timestamp": "2026-09-26T18:46:13.237Z",
     "strategy": ".content-card__main"
   }
 ];
