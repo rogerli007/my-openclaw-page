@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T20:46:00.939Z
+// Last updated: 2026-09-27T20:54:43.950Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國拘5人涉圖恐襲美軍基地　報案農戶夜見3輛可疑貨車及蒙面男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181064719172112384683091.jpeg/-uzKGx8UMi8tTW1Tgk43M8J40FhSXaUwHFNSqxxTUqs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394285/%E8%8B%B1%E5%9C%8B%E6%8B%985%E4%BA%BA%E6%B6%89%E5%9C%96%E6%81%90%E8%A5%B2%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E5%A0%B1%E6%A1%88%E8%BE%B2%E6%88%B6%E5%A4%9C%E8%A6%8B3%E8%BC%9B%E5%8F%AF%E7%96%91%E8%B2%A8%E8%BB%8A%E5%8F%8A%E8%92%99%E9%9D%A2%E7%94%B7",
+    "timestamp": "2026-09-27T20:54:43.950Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國拘5人涉圖恐襲美軍基地　報案農戶夜見3輛可疑貨車及蒙面男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180460153527341056367540.jpeg/mun17dDufR1qSd3VasJ69ha0N2m9sgErx-3YHcft2B0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394268/%E6%B2%99%E7%94%B024-7-fitness%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-34%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B6%89%E7%AA%BA%E6%B7%AB%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-27T14:32:16.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳克群拍片求助全網為9歲癌童圓夢　曾街頭幫賣花　捐款後再出手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180929549634899968132954.png/E5xnwfTEvwgJYhV6FP3XfsqxVAU4QYMrRpZgJ0aWYCc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394201/%E5%90%B3%E5%85%8B%E7%BE%A4%E6%8B%8D%E7%89%87%E6%B1%82%E5%8A%A9%E5%85%A8%E7%B6%B2%E7%82%BA9%E6%AD%B2%E7%99%8C%E7%AB%A5%E5%9C%93%E5%A4%A2-%E6%9B%BE%E8%A1%97%E9%A0%AD%E5%B9%AB%E8%B3%A3%E8%8A%B1-%E6%8D%90%E6%AC%BE%E5%BE%8C%E5%86%8D%E5%87%BA%E6%89%8B",
-    "timestamp": "2026-09-27T14:18:31.615Z",
     "strategy": ".content-card__main"
   }
 ];
