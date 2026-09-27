@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T12:50:55.253Z
+// Last updated: 2026-09-27T13:31:56.560Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "28歲碩士做河馬飼養員　每日清理500斤糞便　回應｢大材小用｣質疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180944933570351104390468.jpeg/qRuIV3BuoUTZjTD5H1Sj3PbGmScGvW3XpYgei6WIHos?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60394225/28%E6%AD%B2%E7%A2%A9%E5%A3%AB%E5%81%9A%E6%B2%B3%E9%A6%AC%E9%A3%BC%E9%A4%8A%E5%93%A1-%E6%AF%8F%E6%97%A5%E6%B8%85%E7%90%86500%E6%96%A4%E7%B3%9E%E4%BE%BF-%E5%9B%9E%E6%87%89-%E5%A4%A7%E6%9D%90%E5%B0%8F%E7%94%A8-%E8%B3%AA%E7%96%91",
+    "timestamp": "2026-09-27T13:31:56.560Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傳哈里梅根一家聖誕或返美？回英一月遭王室割席：無職位+無保護",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180208992291393536792316.jpeg/hCmMEWnbSN684ACwk4Ld57g2_dY7wko-dGohD3RqIQ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60394134/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E5%BE%9E%E4%BA%8C%E6%88%B0-%E5%B7%A5%E5%90%88-%E5%88%B0%E6%8A%B5%E6%8A%97%E6%95%B8%E5%AD%97%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9-%E4%B8%AD%E7%BE%8E%E5%90%88%E4%BD%9C%E6%AD%B7%E5%8F%B2%E4%B8%8D%E8%AE%8A",
     "timestamp": "2026-09-27T04:47:22.186Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026｜男子重劍擺撼中華台北激戰連場　女子佩劍8強對韓國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180850846389243904685140.jpeg/HjRVBZaMkEFjhemuxBhci6940P6M9Rnew2hTm8NoU5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394146/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E7%94%B7%E5%AD%90%E9%87%8D%E5%8A%8D%E6%93%BA%E6%92%BC%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E6%BF%80%E6%88%B0%E9%80%A3%E5%A0%B4-%E5%A5%B3%E5%AD%90%E4%BD%A9%E5%8A%8D8%E5%BC%B7%E5%B0%8D%E9%9F%93%E5%9C%8B",
-    "timestamp": "2026-09-27T04:23:54.151Z",
     "strategy": ".content-card__main"
   }
 ];
