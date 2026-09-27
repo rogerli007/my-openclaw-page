@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T06:57:36.808Z
+// Last updated: 2026-09-27T07:22:36.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南非酒吧槍擊案釀17死15傷　警追捕8名疑犯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180896242868162560082671.jpeg/2CVq42wH0ZRHAucN2UER_yt-Wu5CaBbMv3ohkr96IZI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394178/%E5%8D%97%E9%9D%9E%E9%85%92%E5%90%A7%E6%A7%8D%E6%93%8A%E6%A1%88%E9%87%8017%E6%AD%BB15%E5%82%B7-%E8%AD%A6%E8%BF%BD%E6%8D%958%E5%90%8D%E7%96%91%E7%8A%AF",
+    "timestamp": "2026-09-27T07:22:36.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Google 28歲生日快樂！今首頁更換復古Logo　揭公司真實成立日期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180755939653849088143865.jpeg/YvGk3XdDbXTKqAedCPItvKbzJ-8GDninl9lc-63ZXPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E4%B9%9D%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-26T22:18:05.678Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣近水灣泳灘九旬婦游早泳遇溺　消防救人　昏迷搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180755939653849088143865.jpeg/YvGk3XdDbXTKqAedCPItvKbzJ-8GDninl9lc-63ZXPs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E4%B9%9D%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-26T21:58:45.267Z",
     "strategy": ".content-card__main"
   }
 ];
