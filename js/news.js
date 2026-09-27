@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T10:53:47.761Z
+// Last updated: 2026-09-27T11:30:41.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026田徑｜陳俊浩的自我救贖　重踏大舞台兩破港績走出陰霾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180935906748534784321476.jpeg/a12eR9yctrRDGWeXEv8Qxdj-GPenbE-35oIUFuaCFBY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394130/%E4%BA%9E%E9%81%8B%E6%9C%832026%E7%94%B0%E5%BE%91-%E9%99%B3%E4%BF%8A%E6%B5%A9%E7%9A%84%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E9%87%8D%E8%B8%8F%E5%A4%A7%E8%88%9E%E5%8F%B0%E5%85%A9%E7%A0%B4%E6%B8%AF%E7%B8%BE%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE",
+    "timestamp": "2026-09-27T11:30:41.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "FIFA東盟盃｜香港隊亮相4球大炒老撾　18873人啟德主場館觀戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179943933786984448326891.jpeg/_YFRQBOKOwbX7KGJMnD4wfQQLhfdCIWjhChv-oQob_o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394126/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AB%87%E5%8F%8Aai-%E6%83%9F%E6%8B%92%E8%88%87%E4%B8%AD%E6%96%B9%E9%80%B2%E8%A1%8C%E6%8A%80%E8%A1%93%E6%95%B4%E5%90%88-%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B9%85%E9%A0%98%E5%85%88",
     "timestamp": "2026-09-27T02:43:28.191Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大城小檔｜旺角輪椅風車伯伯　84歲自食其力：唔鍾意伸手問人攞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179803982105677824607498.jpeg/KDTnT2tVfZ26TsJ9N_o3o96X3_AuSx4D4inybeIp8m0",
-    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60389547/%E5%A4%A7%E5%9F%8E%E5%B0%8F%E6%AA%94-%E6%97%BA%E8%A7%92%E8%BC%AA%E6%A4%85%E9%A2%A8%E8%BB%8A%E4%BC%AF%E4%BC%AF-84%E6%AD%B2%E8%87%AA%E9%A3%9F%E5%85%B6%E5%8A%9B-%E5%94%94%E9%8D%BE%E6%84%8F%E4%BC%B8%E6%89%8B%E5%95%8F%E4%BA%BA%E6%94%9E",
-    "timestamp": "2026-09-27T02:06:09.449Z",
     "strategy": ".content-card__main"
   }
 ];
