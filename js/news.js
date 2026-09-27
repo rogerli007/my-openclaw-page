@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T06:00:01.580Z
+// Last updated: 2026-09-27T06:33:09.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本前外相岩屋毅率團抵北京　料與中方商務部官員會面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159504973885607936054168.jpeg/6nB46C8kgFLYri9LGy0jZMFttJAUGZ8_qAjz26gI89s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394170/%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E5%B2%A9%E5%B1%8B%E6%AF%85%E7%8E%87%E5%9C%98%E6%8A%B5%E5%8C%97%E4%BA%AC-%E6%96%99%E8%88%87%E4%B8%AD%E6%96%B9%E5%95%86%E5%8B%99%E9%83%A8%E5%AE%98%E5%93%A1%E6%9C%83%E9%9D%A2",
+    "timestamp": "2026-09-27T06:33:09.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄德外長俄烏衝突後首次簡短會晤　討論雙邊關係和戰爭局勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180741599433330688971854.jpeg/aREO2kQrW56XrOb3JoksCWjgKb1C7s9bkuG4VZLhuFU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394106/%E6%B3%B0%E5%9C%8B%E6%9A%B4%E9%9B%A8-%E6%9B%BC%E8%B0%B7%E5%85%A8%E5%B8%82%E5%88%97%E7%81%BD%E5%8D%80-%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E7%B1%B2%E5%85%AC%E6%B0%91%E9%98%B2%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%BE%87",
     "timestamp": "2026-09-26T21:42:21.864Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜荃錦公路跑車疑跣胎越線撞Audi　跑車起火　Audi司機送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394104/%E8%BB%8Acam-%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B7%91%E8%BB%8A%E7%96%91%E8%B7%A3%E8%83%8E%E8%B6%8A%E7%B7%9A%E6%92%9Eaudi-%E8%B7%91%E8%BB%8A%E8%B5%B7%E7%81%AB-audi%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-26T21:31:21.377Z",
     "strategy": ".content-card__main"
   }
 ];
