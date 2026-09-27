@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T13:54:17.543Z
+// Last updated: 2026-09-27T14:18:31.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳克群拍片求助全網為9歲癌童圓夢　曾街頭幫賣花　捐款後再出手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180929549634899968132954.png/E5xnwfTEvwgJYhV6FP3XfsqxVAU4QYMrRpZgJ0aWYCc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394201/%E5%90%B3%E5%85%8B%E7%BE%A4%E6%8B%8D%E7%89%87%E6%B1%82%E5%8A%A9%E5%85%A8%E7%B6%B2%E7%82%BA9%E6%AD%B2%E7%99%8C%E7%AB%A5%E5%9C%93%E5%A4%A2-%E6%9B%BE%E8%A1%97%E9%A0%AD%E5%B9%AB%E8%B3%A3%E8%8A%B1-%E6%8D%90%E6%AC%BE%E5%BE%8C%E5%86%8D%E5%87%BA%E6%89%8B",
+    "timestamp": "2026-09-27T14:18:31.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運｜港隊添3獎牌累計32面　羅淑佩賀壁球、男子重劍團體運動員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180871444511330304138976.jpeg/Lz0bJfr6v2on8XDqgBFL-zF6tfhZMaJZ-g7KWPoOylg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394164/%E4%BF%84%E5%BE%B7%E5%A4%96%E9%95%B7%E4%BF%84%E7%83%8F%E8%A1%9D%E7%AA%81%E5%BE%8C%E9%A6%96%E6%AC%A1%E7%B0%A1%E7%9F%AD%E6%9C%83%E6%99%A4-%E8%A8%8E%E8%AB%96%E9%9B%99%E9%82%8A%E9%97%9C%E4%BF%82%E5%92%8C%E6%88%B0%E7%88%AD%E5%B1%80%E5%8B%A2",
     "timestamp": "2026-09-27T06:00:01.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄德外長俄烏衝突後首次簡短會晤　討論雙邊關係和戰爭局勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180871444511330304138976.jpeg/Lz0bJfr6v2on8XDqgBFL-zF6tfhZMaJZ-g7KWPoOylg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394164/%E4%BF%84%E5%BE%B7%E5%A4%96%E9%95%B7%E4%BF%84%E7%83%8F%E8%A1%9D%E7%AA%81%E5%BE%8C%E9%A6%96%E6%AC%A1%E7%B0%A1%E7%9F%AD%E6%9C%83%E6%99%A4-%E8%A8%8E%E8%AB%96%E9%9B%99%E9%82%8A%E9%97%9C%E4%BF%82%E5%92%8C%E6%88%B0%E7%88%AD%E5%B1%80%E5%8B%A2",
-    "timestamp": "2026-09-27T05:47:41.549Z",
     "strategy": ".content-card__main"
   }
 ];
