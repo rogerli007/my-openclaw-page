@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T11:42:46.982Z
+// Last updated: 2026-09-27T11:54:14.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天眼直擊｜戴帽男闖大角咀夾公仔舖　搜4台機錢箱倒錢落袋掠萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180962896998305792230971.jpeg/4M-UBy0qmSckYjl3tl7uwPFD_sctDQng7Yetg-2HrYM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394250/%E5%A4%A9%E7%9C%BC%E7%9B%B4%E6%93%8A-%E6%88%B4%E5%B8%BD%E7%94%B7%E9%97%96%E5%A4%A7%E8%A7%92%E5%92%80%E5%A4%BE%E5%85%AC%E4%BB%94%E8%88%96-%E6%90%9C4%E5%8F%B0%E6%A9%9F%E9%8C%A2%E7%AE%B1%E5%80%92%E9%8C%A2%E8%90%BD%E8%A2%8B%E6%8E%A0%E8%90%AC%E5%85%83",
+    "timestamp": "2026-09-27T11:54:14.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "牛池灣彩雲邨天降5吋大木塊　7歲女童遭砸傷手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180499583743037440276514.jpeg/w3Cja8qCcYYswywoByLUH4twMGuOvuahs9oao5baGqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394127/%E4%B8%AD%E7%A7%8B%E7%AF%80%E7%BF%8C%E6%97%A549%E8%90%AC%E6%B8%AF%E4%BA%BA%E9%9B%A2%E6%B8%AF-%E5%91%A8%E4%BA%94-%E5%85%AD%E6%B7%A8%E6%B5%81%E5%A4%B1%E5%85%B134%E8%90%AC-%E6%8C%89%E5%91%A8%E5%8D%87%E5%85%AD%E6%88%90",
     "timestamp": "2026-09-27T03:29:28.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026︱羽毛球地獄賽程安洗瑩也抱怨　單打部分賽事凌晨開波",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180809594084003840097825.jpeg/-rCS61QpOZTK62nluqy4DLLw0ceRIQ5sgSMkN4EjJDc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394116/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E7%BE%BD%E6%AF%9B%E7%90%83%E5%9C%B0%E7%8D%84%E8%B3%BD%E7%A8%8B%E5%AE%89%E6%B4%97%E7%91%A9%E4%B9%9F%E6%8A%B1%E6%80%A8-%E5%96%AE%E6%89%93%E9%83%A8%E5%88%86%E8%B3%BD%E4%BA%8B%E5%87%8C%E6%99%A8%E9%96%8B%E6%B3%A2",
-    "timestamp": "2026-09-27T03:04:02.558Z",
     "strategy": ".content-card__main"
   }
 ];
