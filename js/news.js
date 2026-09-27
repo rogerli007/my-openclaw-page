@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T15:31:39.693Z
+// Last updated: 2026-09-27T15:54:56.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運2026田徑︱雨戰無阻封神　泰國飛人本桑包辦100及200米兩金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180979700021858304801497.jpeg/W3A-gXZm0hv--J-q3hRbJQmMoLZpHRjeOjr5WDo6-Vg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60394256/%E4%BA%9E%E9%81%8B2026%E7%94%B0%E5%BE%91-%E9%9B%A8%E6%88%B0%E7%84%A1%E9%98%BB%E5%B0%81%E7%A5%9E-%E6%B3%B0%E5%9C%8B%E9%A3%9B%E4%BA%BA%E6%9C%AC%E6%A1%91%E5%8C%85%E8%BE%A6100%E5%8F%8A200%E7%B1%B3%E5%85%A9%E9%87%91",
+    "timestamp": "2026-09-27T15:54:56.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神2｜俞可程與混血男神Oscar配對成功？　冧爆大讚男方善良真誠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180879777385418752638205.png/2pRqohIqS9XbXDRNEwFo_k8qIVPhdFzHBql_kAapf5A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394166/%E5%89%8D%E6%96%B0%E8%81%9E%E7%8E%8B%E5%AD%90%E9%99%B3%E6%9B%B8%E5%90%9B%E5%9D%A6%E7%99%BD%E5%87%BA%E6%AB%83%E6%AF%8D%E4%BB%A5%E6%AD%BB%E7%9B%B8%E9%80%BC-%E5%94%94%E6%83%B3%E5%91%83%E4%B8%80%E5%80%8B%E5%A5%B3%E4%BB%94-%E7%84%A1%E8%89%AF%E5%BF%83",
     "timestamp": "2026-09-27T07:45:06.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南非酒吧槍擊案釀17死15傷　警追捕8名疑犯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180896242868162560082671.jpeg/2CVq42wH0ZRHAucN2UER_yt-Wu5CaBbMv3ohkr96IZI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394178/%E5%8D%97%E9%9D%9E%E9%85%92%E5%90%A7%E6%A7%8D%E6%93%8A%E6%A1%88%E9%87%8017%E6%AD%BB15%E5%82%B7-%E8%AD%A6%E8%BF%BD%E6%8D%958%E5%90%8D%E7%96%91%E7%8A%AF",
-    "timestamp": "2026-09-27T07:22:36.940Z",
     "strategy": ".content-card__main"
   }
 ];
