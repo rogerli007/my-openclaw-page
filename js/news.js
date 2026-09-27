@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T22:32:58.086Z
+// Last updated: 2026-09-27T22:44:48.852Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前艷星與富商婚後住大埔林村豪宅　76歲獨搭港鐵拎大袋細袋獲讓座",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180990304233197568184729.jpeg/9a0XjrIQvdN4MXoNBEZ9sYvTeaTqfEGGQz7huUM-4bk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394236/%E9%82%B5%E9%9F%B3%E9%9F%B3%E8%88%87%E5%AF%8C%E5%95%86%E5%A9%9A%E5%BE%8C%E4%BD%8F%E5%A4%A7%E5%9F%94%E6%9E%97%E6%9D%91%E8%B1%AA%E5%AE%85-76%E6%AD%B2%E7%8D%A8%E6%90%AD%E6%B8%AF%E9%90%B5%E6%8B%8E%E5%A4%A7%E8%A2%8B%E7%B4%B0%E8%A2%8B%E7%8D%B2%E8%AE%93%E5%BA%A7",
+    "timestamp": "2026-09-27T22:44:48.852Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前艷星與富商婚後住大埔林村豪宅　76歲獨搭港鐵拎大袋細袋獲讓座",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180950286592643072620143.jpeg/K_uVYgykwJIEwxBmzEqHzmT_Fzz91ICZPYNPiT2DT4k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394172/%E9%83%AD%E6%99%B6%E6%99%B6%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E5%A4%96%E5%A5%97%E7%9A%BA%E5%88%B0%E7%88%86%E9%81%AD%E8%B3%AA%E7%96%91%E6%89%AE%E8%A6%AA%E6%B0%91-%E7%B6%B2%E5%8F%8B%E6%8F%AD%E5%A9%9A%E5%89%8D%E5%A9%9A%E5%BE%8C%E7%9C%9F%E9%9D%A2%E7%9B%AE",
     "timestamp": "2026-09-27T16:21:17.654Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運2026田徑︱雨戰無阻封神　泰國飛人本桑包辦100及200米兩金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180979700021858304801497.jpeg/W3A-gXZm0hv--J-q3hRbJQmMoLZpHRjeOjr5WDo6-Vg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B7%91%E6%AD%A5/60394256/%E4%BA%9E%E9%81%8B2026%E7%94%B0%E5%BE%91-%E9%9B%A8%E6%88%B0%E7%84%A1%E9%98%BB%E5%B0%81%E7%A5%9E-%E6%B3%B0%E5%9C%8B%E9%A3%9B%E4%BA%BA%E6%9C%AC%E6%A1%91%E5%8C%85%E8%BE%A6100%E5%8F%8A200%E7%B1%B3%E5%85%A9%E9%87%91",
-    "timestamp": "2026-09-27T15:54:56.756Z",
     "strategy": ".content-card__main"
   }
 ];
