@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T19:41:41.488Z
+// Last updated: 2026-09-27T19:54:21.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-27T19:54:21.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180944933570351104390468.jpeg/qRuIV3BuoUTZjTD5H1Sj3PbGmScGvW3XpYgei6WIHos?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60394225/28%E6%AD%B2%E7%A2%A9%E5%A3%AB%E5%81%9A%E6%B2%B3%E9%A6%AC%E9%A3%BC%E9%A4%8A%E5%93%A1-%E6%AF%8F%E6%97%A5%E6%B8%85%E7%90%86500%E6%96%A4%E7%B3%9E%E4%BE%BF-%E5%9B%9E%E6%87%89-%E5%A4%A7%E6%9D%90%E5%B0%8F%E7%94%A8-%E8%B3%AA%E7%96%91",
     "timestamp": "2026-09-27T13:31:56.560Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傳哈里梅根一家聖誕或返美？回英一月遭王室割席：無職位+無保護",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180943488972230656137056.png/kRs6cdxFAhCCNaCdBOxS-YUPgWZpGQ_g1DqxbdQ6sW0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394197/%E5%82%B3%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E4%B8%80%E5%AE%B6%E8%81%96%E8%AA%95%E6%88%96%E8%BF%94%E7%BE%8E-%E5%9B%9E%E8%8B%B1%E4%B8%80%E6%9C%88%E9%81%AD%E7%8E%8B%E5%AE%A4%E5%89%B2%E5%B8%AD-%E7%84%A1%E8%81%B7%E4%BD%8D-%E7%84%A1%E4%BF%9D%E8%AD%B7",
-    "timestamp": "2026-09-27T12:50:55.253Z",
     "strategy": ".content-card__main"
   }
 ];
