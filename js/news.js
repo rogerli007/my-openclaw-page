@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T20:33:53.420Z
+// Last updated: 2026-09-27T20:46:00.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國拘5人涉圖恐襲美軍基地　報案農戶夜見3輛可疑貨車及蒙面男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181064719172112384683091.jpeg/-uzKGx8UMi8tTW1Tgk43M8J40FhSXaUwHFNSqxxTUqs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394285/%E8%8B%B1%E5%9C%8B%E6%8B%985%E4%BA%BA%E6%B6%89%E5%9C%96%E6%81%90%E8%A5%B2%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E5%A0%B1%E6%A1%88%E8%BE%B2%E6%88%B6%E5%A4%9C%E8%A6%8B3%E8%BC%9B%E5%8F%AF%E7%96%91%E8%B2%A8%E8%BB%8A%E5%8F%8A%E8%92%99%E9%9D%A2%E7%94%B7",
+    "timestamp": "2026-09-27T20:46:00.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國拘5人涉圖恐襲美軍基地　報案農戶夜見3輛可疑貨車及蒙面男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180929549634899968132954.png/E5xnwfTEvwgJYhV6FP3XfsqxVAU4QYMrRpZgJ0aWYCc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394201/%E5%90%B3%E5%85%8B%E7%BE%A4%E6%8B%8D%E7%89%87%E6%B1%82%E5%8A%A9%E5%85%A8%E7%B6%B2%E7%82%BA9%E6%AD%B2%E7%99%8C%E7%AB%A5%E5%9C%93%E5%A4%A2-%E6%9B%BE%E8%A1%97%E9%A0%AD%E5%B9%AB%E8%B3%A3%E8%8A%B1-%E6%8D%90%E6%AC%BE%E5%BE%8C%E5%86%8D%E5%87%BA%E6%89%8B",
     "timestamp": "2026-09-27T14:18:31.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運｜港隊添3獎牌累計32面　羅淑佩賀壁球、男子重劍團體運動員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180636985056956416375809.jpeg/dGW6oQXJoruReeoVwpPY4J9rq6jH7dQhXlmj8l5Zo_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394263/%E4%BA%9E%E9%81%8B-%E6%B8%AF%E9%9A%8A%E6%B7%BB3%E7%8D%8E%E7%89%8C%E7%B4%AF%E8%A8%8832%E9%9D%A2-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%B3%80%E5%A3%81%E7%90%83-%E7%94%B7%E5%AD%90%E9%87%8D%E5%8A%8D%E5%9C%98%E9%AB%94%E9%81%8B%E5%8B%95%E5%93%A1",
-    "timestamp": "2026-09-27T13:54:17.543Z",
     "strategy": ".content-card__main"
   }
 ];
