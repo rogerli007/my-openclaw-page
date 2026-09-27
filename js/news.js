@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T11:30:41.756Z
+// Last updated: 2026-09-27T11:42:46.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "牛池灣彩雲邨天降5吋大木塊　7歲女童遭砸傷手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/455750/org/279715e4026ccc23fd4574c8f6196a6e.jpg/Xm9gUzJVb_LjDXmgGSAiYr7iYRN94B9MAAKf9gACn_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394246/%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BD%A9%E9%9B%B2%E9%82%A8%E5%A4%A9%E9%99%8D5%E5%90%8B%E5%A4%A7%E6%9C%A8%E5%A1%8A-7%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%A0%B8%E5%82%B7%E6%89%8B",
+    "timestamp": "2026-09-27T11:42:46.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026田徑｜陳俊浩的自我救贖　重踏大舞台兩破港績走出陰霾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180809594084003840097825.jpeg/-rCS61QpOZTK62nluqy4DLLw0ceRIQ5sgSMkN4EjJDc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394116/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E7%BE%BD%E6%AF%9B%E7%90%83%E5%9C%B0%E7%8D%84%E8%B3%BD%E7%A8%8B%E5%AE%89%E6%B4%97%E7%91%A9%E4%B9%9F%E6%8A%B1%E6%80%A8-%E5%96%AE%E6%89%93%E9%83%A8%E5%88%86%E8%B3%BD%E4%BA%8B%E5%87%8C%E6%99%A8%E9%96%8B%E6%B3%A2",
     "timestamp": "2026-09-27T03:04:02.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱與習近平談及AI　惟拒與中方進行技術整合：美國大幅領先",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179943933786984448326891.jpeg/_YFRQBOKOwbX7KGJMnD4wfQQLhfdCIWjhChv-oQob_o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394126/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AB%87%E5%8F%8Aai-%E6%83%9F%E6%8B%92%E8%88%87%E4%B8%AD%E6%96%B9%E9%80%B2%E8%A1%8C%E6%8A%80%E8%A1%93%E6%95%B4%E5%90%88-%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B9%85%E9%A0%98%E5%85%88",
-    "timestamp": "2026-09-27T02:43:28.191Z",
     "strategy": ".content-card__main"
   }
 ];
