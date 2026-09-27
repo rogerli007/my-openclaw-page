@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T22:53:45.522Z
+// Last updated: 2026-09-27T23:31:13.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國：烏克蘭擅自公開朝鮮戰俘移交韓國　要求正式解釋及道歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1091069916250902528730984.jpeg/2pA9jXCVMhntGz9VDgPFkvAkN3RD8bzQiiPTk4oj05M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394290/%E9%9F%93%E5%9C%8B-%E7%83%8F%E5%85%8B%E8%98%AD%E6%93%85%E8%87%AA%E5%85%AC%E9%96%8B%E6%9C%9D%E9%AE%AE%E6%88%B0%E4%BF%98%E7%A7%BB%E4%BA%A4%E9%9F%93%E5%9C%8B-%E8%A6%81%E6%B1%82%E6%AD%A3%E5%BC%8F%E8%A7%A3%E9%87%8B%E5%8F%8A%E9%81%93%E6%AD%89",
+    "timestamp": "2026-09-27T23:31:13.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前艷星與富商婚後住大埔林村豪宅　76歲獨搭港鐵拎大袋細袋獲讓座",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181038635449847808298167.jpeg/aILOeId8V85yGUQIHJFOSqeIIfOIlEaE3ICxr_aAsa8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394277/%E8%91%B5%E6%B6%8C%E9%81%933%E8%BB%8A%E9%80%A3%E7%92%B0%E7%9B%B8%E6%92%9E-%E5%BE%80%E6%97%BA%E8%A7%92%E6%96%B9%E5%90%91%E8%BF%91%E7%BE%8E%E5%AD%9A%E6%96%B0%E9%82%A8%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%B0%81%E9%96%89",
     "timestamp": "2026-09-27T16:54:04.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌道3車連環相撞　往旺角方向近美孚新邨行車線封閉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181038635449847808298167.jpeg/aILOeId8V85yGUQIHJFOSqeIIfOIlEaE3ICxr_aAsa8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394277/%E8%91%B5%E6%B6%8C%E9%81%933%E8%BB%8A%E9%80%A3%E7%92%B0%E7%9B%B8%E6%92%9E-%E5%BE%80%E6%97%BA%E8%A7%92%E6%96%B9%E5%90%91%E8%BF%91%E7%BE%8E%E5%AD%9A%E6%96%B0%E9%82%A8%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%B0%81%E9%96%89",
-    "timestamp": "2026-09-27T16:44:05.334Z",
     "strategy": ".content-card__main"
   }
 ];
