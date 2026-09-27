@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T10:45:17.358Z
+// Last updated: 2026-09-27T10:53:47.761Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "FIFA東盟盃｜香港隊亮相4球大炒老撾　18873人啟德主場館觀戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180945167188889600340679.jpeg/MJzju6xaqzqls3uEjengkx8ilbHUi7EMe-3TaXvt02k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394224/fifa%E6%9D%B1%E7%9B%9F%E7%9B%83-%E9%A6%99%E6%B8%AF%E9%9A%8A%E4%BA%AE%E7%9B%B84%E7%90%83%E5%A4%A7%E7%82%92%E8%80%81%E6%92%BE-18873%E4%BA%BA%E5%95%9F%E5%BE%B7%E4%B8%BB%E5%A0%B4%E9%A4%A8%E8%A7%80%E6%88%B0",
+    "timestamp": "2026-09-27T10:53:47.761Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "誤闖遺忘島｜蔡蕙琪全程喊濕兩張紙巾　陳書昕哽咽重提感人對白",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179803982105677824607498.jpeg/KDTnT2tVfZ26TsJ9N_o3o96X3_AuSx4D4inybeIp8m0",
     "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60389547/%E5%A4%A7%E5%9F%8E%E5%B0%8F%E6%AA%94-%E6%97%BA%E8%A7%92%E8%BC%AA%E6%A4%85%E9%A2%A8%E8%BB%8A%E4%BC%AF%E4%BC%AF-84%E6%AD%B2%E8%87%AA%E9%A3%9F%E5%85%B6%E5%8A%9B-%E5%94%94%E9%8D%BE%E6%84%8F%E4%BC%B8%E6%89%8B%E5%95%8F%E4%BA%BA%E6%94%9E",
     "timestamp": "2026-09-27T02:06:09.449Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜西貢私家車無視停線直出撼另一車　兩車衝上安全島釀兩傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180789912991961088930651.jpeg/GUSr3goIekvgCGvHolZejy3uJ6REZNjMqDG5xagxucU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394111/%E8%BB%8Acam-%E8%A5%BF%E8%B2%A2%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%84%A1%E8%A6%96%E5%81%9C%E7%B7%9A%E7%9B%B4%E5%87%BA%E6%92%BC%E5%8F%A6%E4%B8%80%E8%BB%8A-%E5%85%A9%E8%BB%8A%E8%A1%9D%E4%B8%8A%E5%AE%89%E5%85%A8%E5%B3%B6%E9%87%80%E5%85%A9%E5%82%B7",
-    "timestamp": "2026-09-27T00:56:16.617Z",
     "strategy": ".content-card__main"
   }
 ];
