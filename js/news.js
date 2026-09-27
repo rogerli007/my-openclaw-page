@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T02:06:09.449Z
+// Last updated: 2026-09-27T02:43:28.191Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱與習近平談及AI　惟拒與中方進行技術整合：美國大幅領先",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179943933786984448326891.jpeg/_YFRQBOKOwbX7KGJMnD4wfQQLhfdCIWjhChv-oQob_o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394126/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AB%87%E5%8F%8Aai-%E6%83%9F%E6%8B%92%E8%88%87%E4%B8%AD%E6%96%B9%E9%80%B2%E8%A1%8C%E6%8A%80%E8%A1%93%E6%95%B4%E5%90%88-%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B9%85%E9%A0%98%E5%85%88",
+    "timestamp": "2026-09-27T02:43:28.191Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大城小檔｜旺角輪椅風車伯伯　84歲自食其力：唔鍾意伸手問人攞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179120063022632960734051.jpeg/GRZ40SIaofm6neAwk6GfaHI0q6Nd1EtmmPifbJj4n2w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394101/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83-%E9%9F%93%E6%AD%A3%E4%B8%8D%E9%BB%9E%E5%90%8D%E6%89%B9%E8%A9%95%E7%BE%8E%E5%9C%8B-%E4%BF%83%E8%A7%A3%E9%99%A4%E5%B0%8D%E5%8F%A4%E5%B7%B4%E5%B0%81%E9%8E%96",
     "timestamp": "2026-09-26T18:46:13.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯合國大會｜韓正不點名批評美國　促解除對古巴封鎖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179120063022632960734051.jpeg/GRZ40SIaofm6neAwk6GfaHI0q6Nd1EtmmPifbJj4n2w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394101/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83-%E9%9F%93%E6%AD%A3%E4%B8%8D%E9%BB%9E%E5%90%8D%E6%89%B9%E8%A9%95%E7%BE%8E%E5%9C%8B-%E4%BF%83%E8%A7%A3%E9%99%A4%E5%B0%8D%E5%8F%A4%E5%B7%B4%E5%B0%81%E9%8E%96",
-    "timestamp": "2026-09-26T18:25:52.515Z",
     "strategy": ".content-card__main"
   }
 ];
