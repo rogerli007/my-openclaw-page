@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T00:56:16.617Z
+// Last updated: 2026-09-27T02:06:09.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大城小檔｜旺角輪椅風車伯伯　84歲自食其力：唔鍾意伸手問人攞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179803982105677824607498.jpeg/KDTnT2tVfZ26TsJ9N_o3o96X3_AuSx4D4inybeIp8m0",
+    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60389547/%E5%A4%A7%E5%9F%8E%E5%B0%8F%E6%AA%94-%E6%97%BA%E8%A7%92%E8%BC%AA%E6%A4%85%E9%A2%A8%E8%BB%8A%E4%BC%AF%E4%BC%AF-84%E6%AD%B2%E8%87%AA%E9%A3%9F%E5%85%B6%E5%8A%9B-%E5%94%94%E9%8D%BE%E6%84%8F%E4%BC%B8%E6%89%8B%E5%95%8F%E4%BA%BA%E6%94%9E",
+    "timestamp": "2026-09-27T02:06:09.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜西貢私家車無視停線直出撼另一車　兩車衝上安全島釀兩傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179120063022632960734051.jpeg/GRZ40SIaofm6neAwk6GfaHI0q6Nd1EtmmPifbJj4n2w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394101/%E8%81%AF%E5%90%88%E5%9C%8B%E5%A4%A7%E6%9C%83-%E9%9F%93%E6%AD%A3%E4%B8%8D%E9%BB%9E%E5%90%8D%E6%89%B9%E8%A9%95%E7%BE%8E%E5%9C%8B-%E4%BF%83%E8%A7%A3%E9%99%A4%E5%B0%8D%E5%8F%A4%E5%B7%B4%E5%B0%81%E9%8E%96",
     "timestamp": "2026-09-26T18:25:52.515Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台式三杯雞食譜｜做法簡易麻油米酒不可或缺、汁香醬濃拌飯一流",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/686527/org/3238e637880ad8baeaccb0bdfbc66a04.jpg/I9Z_8qPnlp-vNSmRfuely-p5MdPOCLObEXYEZhF2BGY?v=w1920",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60394097/%E5%8F%B0%E5%BC%8F%E4%B8%89%E6%9D%AF%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%BA%BB%E6%B2%B9%E7%B1%B3%E9%85%92%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA-%E6%B1%81%E9%A6%99%E9%86%AC%E6%BF%83%E6%8B%8C%E9%A3%AF%E4%B8%80%E6%B5%81",
-    "timestamp": "2026-09-26T17:54:51.147Z",
     "strategy": ".content-card__main"
   }
 ];
