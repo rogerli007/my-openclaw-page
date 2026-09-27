@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T13:31:56.560Z
+// Last updated: 2026-09-27T13:44:07.903Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無涯之約｜AK江𤒹生加盟聲演要角　助香港全新動畫IP宇宙11月出戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180951983066976256689430.jpeg/HTo0-68m_pcg4oAaL6-rKOaqo2LeVSp6Rd0tyEXdLcg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394239/%E7%84%A1%E6%B6%AF%E4%B9%8B%E7%B4%84-ak%E6%B1%9F%F0%A4%92%B9%E7%94%9F%E5%8A%A0%E7%9B%9F%E8%81%B2%E6%BC%94%E8%A6%81%E8%A7%92-%E5%8A%A9%E9%A6%99%E6%B8%AF%E5%85%A8%E6%96%B0%E5%8B%95%E7%95%ABip%E5%AE%87%E5%AE%9911%E6%9C%88%E5%87%BA%E6%88%B0",
+    "timestamp": "2026-09-27T13:44:07.903Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "28歲碩士做河馬飼養員　每日清理500斤糞便　回應｢大材小用｣質疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210926/518617603732672512069712.jpeg/dmkR-9Iah4Nm-FVyRCAT3URdG4XY812lsNUFx7DVBcc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/681244/%E8%9C%9C%E7%B3%96-%E4%B8%8D%E6%AD%A2%E5%8F%AF%E6%B6%88%E7%82%8E%E9%A4%8A%E9%A1%8F-%E8%9C%9C%E7%B3%96%E7%89%B9%E6%AE%8A%E5%8A%9F%E6%95%88%E4%BD%A0%E8%A6%81%E7%9F%A5-%E9%A3%9F%E7%94%A8%E7%A6%81%E5%BF%8C%E4%B8%8D%E5%8F%AF%E5%BF%BD%E7%95%A5",
     "timestamp": "2026-09-27T05:20:14.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平訪美｜從二戰｢工合｣到抵抗數字軍國主義　中美合作歷史不變",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180208992291393536792316.jpeg/hCmMEWnbSN684ACwk4Ld57g2_dY7wko-dGohD3RqIQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60394134/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%A8%AA%E7%BE%8E-%E5%BE%9E%E4%BA%8C%E6%88%B0-%E5%B7%A5%E5%90%88-%E5%88%B0%E6%8A%B5%E6%8A%97%E6%95%B8%E5%AD%97%E8%BB%8D%E5%9C%8B%E4%B8%BB%E7%BE%A9-%E4%B8%AD%E7%BE%8E%E5%90%88%E4%BD%9C%E6%AD%B7%E5%8F%B2%E4%B8%8D%E8%AE%8A",
-    "timestamp": "2026-09-27T04:47:22.186Z",
     "strategy": ".content-card__main"
   }
 ];
