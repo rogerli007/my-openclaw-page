@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T16:44:05.334Z
+// Last updated: 2026-09-27T16:54:04.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌道3車連環相撞　往旺角方向近美孚新邨行車線封閉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181038635449847808298167.jpeg/aILOeId8V85yGUQIHJFOSqeIIfOIlEaE3ICxr_aAsa8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394277/%E8%91%B5%E6%B6%8C%E9%81%933%E8%BB%8A%E9%80%A3%E7%92%B0%E7%9B%B8%E6%92%9E-%E5%BE%80%E6%97%BA%E8%A7%92%E6%96%B9%E5%90%91%E8%BF%91%E7%BE%8E%E5%AD%9A%E6%96%B0%E9%82%A8%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%B0%81%E9%96%89",
+    "timestamp": "2026-09-27T16:54:04.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌道3車連環相撞　往旺角方向近美孚新邨行車線封閉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180881254090805248932470.jpeg/FkJmcl3syNehmHX7MYJRUGOhu6ONj1LTqZdvkJOXb5A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394167/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%A6%99%E6%B8%AF%E7%94%B7%E6%8E%92%E5%8A%9B%E6%88%B0%E8%B2%A0%E5%8D%A1%E5%A1%94%E7%88%BE-19%E6%AD%B2%E5%8F%A4%E9%9D%96%E5%A0%85%E4%B8%A6%E5%88%97%E5%85%A8%E9%9A%8A%E6%9C%80%E9%AB%9816%E5%88%86",
     "timestamp": "2026-09-27T08:57:13.487Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "30歲男子昨日酷熱天氣警告下　遊娥眉洲暈倒　昏迷送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172113586118463488912346.jpeg/W8VxZPeWbCQtqpXEotGc3GWubJgN54dvy7pYj8u6WI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394195/30%E6%AD%B2%E7%94%B7%E5%AD%90%E6%98%A8%E6%97%A5%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A%E4%B8%8B-%E9%81%8A%E5%A8%A5%E7%9C%89%E6%B4%B2%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-27T08:25:37.454Z",
     "strategy": ".content-card__main"
   }
 ];
