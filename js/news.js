@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T03:04:02.558Z
+// Last updated: 2026-09-27T03:29:28.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中秋節翌日49萬港人離港　周五、六淨流失共34萬　按周升六成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180499583743037440276514.jpeg/w3Cja8qCcYYswywoByLUH4twMGuOvuahs9oao5baGqM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394127/%E4%B8%AD%E7%A7%8B%E7%AF%80%E7%BF%8C%E6%97%A549%E8%90%AC%E6%B8%AF%E4%BA%BA%E9%9B%A2%E6%B8%AF-%E5%91%A8%E4%BA%94-%E5%85%AD%E6%B7%A8%E6%B5%81%E5%A4%B1%E5%85%B134%E8%90%AC-%E6%8C%89%E5%91%A8%E5%8D%87%E5%85%AD%E6%88%90",
+    "timestamp": "2026-09-27T03:29:28.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026︱羽毛球地獄賽程安洗瑩也抱怨　單打部分賽事凌晨開波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180719038095953920874365.jpeg/dTAY7k0DEHlNckWiQl6udv9POAHaJUwMdxU83XcVPN0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394103/%E5%B7%B4%E9%BB%8E80%E8%90%AC%E4%BA%BA%E9%9C%B2%E5%A4%A9%E5%BD%8C%E6%92%92-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E7%B1%B2%E4%BF%A1%E7%9C%BE%E5%B0%8B%E6%B1%82%E4%BF%A1%E4%BB%B0%E5%B9%B8%E7%A6%8F",
     "timestamp": "2026-09-26T19:54:08.605Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東北風暴吹襲美國　逾10萬戶停電　逾400航班取消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180709281381486592560471.jpeg/SFZCC3JLLPKKRgUcJmM3sQ3mR8qCTGCRge0fKYHtHyk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394102/%E6%9D%B1%E5%8C%97%E9%A2%A8%E6%9A%B4%E5%90%B9%E8%A5%B2%E7%BE%8E%E5%9C%8B-%E9%80%BE10%E8%90%AC%E6%88%B6%E5%81%9C%E9%9B%BB-%E9%80%BE400%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88",
-    "timestamp": "2026-09-26T19:28:09.969Z",
     "strategy": ".content-card__main"
   }
 ];
