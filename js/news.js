@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T15:54:56.756Z
+// Last updated: 2026-09-27T16:21:17.654Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "百億少奶現身中環外套皺到爆遭質疑扮親民　網友揭婚前婚後真面目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180950286592643072620143.jpeg/K_uVYgykwJIEwxBmzEqHzmT_Fzz91ICZPYNPiT2DT4k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394172/%E9%83%AD%E6%99%B6%E6%99%B6%E7%8F%BE%E8%BA%AB%E4%B8%AD%E7%92%B0%E5%A4%96%E5%A5%97%E7%9A%BA%E5%88%B0%E7%88%86%E9%81%AD%E8%B3%AA%E7%96%91%E6%89%AE%E8%A6%AA%E6%B0%91-%E7%B6%B2%E5%8F%8B%E6%8F%AD%E5%A9%9A%E5%89%8D%E5%A9%9A%E5%BE%8C%E7%9C%9F%E9%9D%A2%E7%9B%AE",
+    "timestamp": "2026-09-27T16:21:17.654Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運2026田徑︱雨戰無阻封神　泰國飛人本桑包辦100及200米兩金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180892822643937280974061.jpeg/uYA6pd0mBkCGaFL3qHAZZebDFUqnYz-zpmDxt6Zg8bc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60394176/%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B3%BD-%E7%93%B7%E7%A3%9A%E8%B2%BC%E9%9D%A2%E9%A0%85%E7%9B%AE%E5%94%AF%E4%B8%80%E5%A5%B3%E9%81%B8%E6%89%8B-%E9%A6%99%E6%B8%AF21%E6%AD%B2%E6%88%B4%E5%BF%83%E6%80%A1%E7%8D%B2%E6%BF%80%E8%AE%9A",
     "timestamp": "2026-09-27T07:54:37.700Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前新聞王子陳書君坦白出櫃母以死相逼　唔想呃一個女仔：無良心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180879777385418752638205.png/2pRqohIqS9XbXDRNEwFo_k8qIVPhdFzHBql_kAapf5A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394166/%E5%89%8D%E6%96%B0%E8%81%9E%E7%8E%8B%E5%AD%90%E9%99%B3%E6%9B%B8%E5%90%9B%E5%9D%A6%E7%99%BD%E5%87%BA%E6%AB%83%E6%AF%8D%E4%BB%A5%E6%AD%BB%E7%9B%B8%E9%80%BC-%E5%94%94%E6%83%B3%E5%91%83%E4%B8%80%E5%80%8B%E5%A5%B3%E4%BB%94-%E7%84%A1%E8%89%AF%E5%BF%83",
-    "timestamp": "2026-09-27T07:45:06.746Z",
     "strategy": ".content-card__main"
   }
 ];
