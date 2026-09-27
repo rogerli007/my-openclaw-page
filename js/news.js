@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T23:31:13.429Z
+// Last updated: 2026-09-27T23:42:49.410Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜美債利率都5.5%了　全球資產為什麼還沒爆炸？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3222718/org/86ca790b9678f13fcc586f507e0cbdab.jpg/U9Mp9W5oVy6hFY-hS2sRxgjvhLJrw1esjPVAuoz1QLo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60394294/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E7%BE%8E%E5%82%B5%E5%88%A9%E7%8E%87%E9%83%BD5-5-%E4%BA%86-%E5%85%A8%E7%90%83%E8%B3%87%E7%94%A2%E7%82%BA%E4%BB%80%E9%BA%BC%E9%82%84%E6%B2%92%E7%88%86%E7%82%B8",
+    "timestamp": "2026-09-27T23:42:49.410Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國：烏克蘭擅自公開朝鮮戰俘移交韓國　要求正式解釋及道歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178479557875863552968125.jpeg/7OYto_p5am3Qma9r8Ntp8YEbTrwQt8nRyTkecMk5HnA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391936/%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%A6%99%E6%B8%AF%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026-%E5%85%AC%E5%94%AE%E6%8A%BD%E7%B1%A4%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
     "timestamp": "2026-09-27T17:18:45.274Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌道3車連環相撞　往旺角方向近美孚新邨行車線封閉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181038635449847808298167.jpeg/aILOeId8V85yGUQIHJFOSqeIIfOIlEaE3ICxr_aAsa8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394277/%E8%91%B5%E6%B6%8C%E9%81%933%E8%BB%8A%E9%80%A3%E7%92%B0%E7%9B%B8%E6%92%9E-%E5%BE%80%E6%97%BA%E8%A7%92%E6%96%B9%E5%90%91%E8%BF%91%E7%BE%8E%E5%AD%9A%E6%96%B0%E9%82%A8%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%B0%81%E9%96%89",
-    "timestamp": "2026-09-27T16:54:04.680Z",
     "strategy": ".content-card__main"
   }
 ];
