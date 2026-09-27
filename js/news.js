@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T04:47:22.186Z
+// Last updated: 2026-09-27T05:20:14.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蜜糖｜不止可消炎養顏？蜜糖特殊功效你要知　食用禁忌不可忽略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210926/518617603732672512069712.jpeg/dmkR-9Iah4Nm-FVyRCAT3URdG4XY812lsNUFx7DVBcc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/681244/%E8%9C%9C%E7%B3%96-%E4%B8%8D%E6%AD%A2%E5%8F%AF%E6%B6%88%E7%82%8E%E9%A4%8A%E9%A1%8F-%E8%9C%9C%E7%B3%96%E7%89%B9%E6%AE%8A%E5%8A%9F%E6%95%88%E4%BD%A0%E8%A6%81%E7%9F%A5-%E9%A3%9F%E7%94%A8%E7%A6%81%E5%BF%8C%E4%B8%8D%E5%8F%AF%E5%BF%BD%E7%95%A5",
+    "timestamp": "2026-09-27T05:20:14.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平訪美｜從二戰｢工合｣到抵抗數字軍國主義　中美合作歷史不變",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394104/%E8%BB%8Acam-%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B7%91%E8%BB%8A%E7%96%91%E8%B7%A3%E8%83%8E%E8%B6%8A%E7%B7%9A%E6%92%9Eaudi-%E8%B7%91%E8%BB%8A%E8%B5%B7%E7%81%AB-audi%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-26T20:54:52.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜荃錦公路跑車疑跣胎越線撞Audi　跑車起火　Audi司機送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394104/%E8%BB%8Acam-%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B7%91%E8%BB%8A%E7%96%91%E8%B7%A3%E8%83%8E%E8%B6%8A%E7%B7%9A%E6%92%9Eaudi-%E8%B7%91%E8%BB%8A%E8%B5%B7%E7%81%AB-audi%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-26T20:44:07.201Z",
     "strategy": ".content-card__main"
   }
 ];
