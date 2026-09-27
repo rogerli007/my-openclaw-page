@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T17:44:50.997Z
+// Last updated: 2026-09-27T18:46:49.319Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-27T18:46:49.319Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國拘5人涉圖恐襲美軍基地　特朗普稱兩國合作阻重大破壞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180945167188889600340679.jpeg/MJzju6xaqzqls3uEjengkx8ilbHUi7EMe-3TaXvt02k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394224/fifa%E6%9D%B1%E7%9B%9F%E7%9B%83-%E9%A6%99%E6%B8%AF%E9%9A%8A%E4%BA%AE%E7%9B%B84%E7%90%83%E5%A4%A7%E7%82%92%E8%80%81%E6%92%BE-18873%E4%BA%BA%E5%95%9F%E5%BE%B7%E4%B8%BB%E5%A0%B4%E9%A4%A8%E8%A7%80%E6%88%B0",
     "timestamp": "2026-09-27T10:53:47.761Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "誤闖遺忘島｜蔡蕙琪全程喊濕兩張紙巾　陳書昕哽咽重提感人對白",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180945345052413952725413.jpeg/oiQpGcGqMvNN-br0iB_0fZFgX2oHepFV05h4qdOYeKk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394230/%E8%AA%A4%E9%97%96%E9%81%BA%E5%BF%98%E5%B3%B6-%E8%94%A1%E8%95%99%E7%90%AA%E5%85%A8%E7%A8%8B%E5%96%8A%E6%BF%95%E5%85%A9%E5%BC%B5%E7%B4%99%E5%B7%BE-%E9%99%B3%E6%9B%B8%E6%98%95%E5%93%BD%E5%92%BD%E9%87%8D%E6%8F%90%E6%84%9F%E4%BA%BA%E5%B0%8D%E7%99%BD",
-    "timestamp": "2026-09-27T10:45:17.358Z",
     "strategy": ".content-card__main"
   }
 ];
