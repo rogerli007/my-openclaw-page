@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T03:29:28.586Z
+// Last updated: 2026-09-27T04:23:54.151Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026｜男子重劍擺撼中華台北激戰連場　女子佩劍8強對韓國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180850846389243904685140.jpeg/HjRVBZaMkEFjhemuxBhci6940P6M9Rnew2hTm8NoU5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394146/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E7%94%B7%E5%AD%90%E9%87%8D%E5%8A%8D%E6%93%BA%E6%92%BC%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E6%BF%80%E6%88%B0%E9%80%A3%E5%A0%B4-%E5%A5%B3%E5%AD%90%E4%BD%A9%E5%8A%8D8%E5%BC%B7%E5%B0%8D%E9%9F%93%E5%9C%8B",
+    "timestamp": "2026-09-27T04:23:54.151Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中秋節翌日49萬港人離港　周五、六淨流失共34萬　按周升六成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394104/%E8%BB%8Acam-%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B7%91%E8%BB%8A%E7%96%91%E8%B7%A3%E8%83%8E%E8%B6%8A%E7%B7%9A%E6%92%9Eaudi-%E8%B7%91%E8%BB%8A%E8%B5%B7%E7%81%AB-audi%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-26T20:32:56.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴黎80萬人露天彌撒　教宗良十四世籲信眾尋求信仰幸福",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180719038095953920874365.jpeg/dTAY7k0DEHlNckWiQl6udv9POAHaJUwMdxU83XcVPN0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394103/%E5%B7%B4%E9%BB%8E80%E8%90%AC%E4%BA%BA%E9%9C%B2%E5%A4%A9%E5%BD%8C%E6%92%92-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E7%B1%B2%E4%BF%A1%E7%9C%BE%E5%B0%8B%E6%B1%82%E4%BF%A1%E4%BB%B0%E5%B9%B8%E7%A6%8F",
-    "timestamp": "2026-09-26T19:54:08.605Z",
     "strategy": ".content-card__main"
   }
 ];
