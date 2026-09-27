@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T07:54:37.700Z
+// Last updated: 2026-09-27T08:25:37.454Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "30歲男子昨日酷熱天氣警告下　遊娥眉洲暈倒　昏迷送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172113586118463488912346.jpeg/W8VxZPeWbCQtqpXEotGc3GWubJgN54dvy7pYj8u6WI8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394195/30%E6%AD%B2%E7%94%B7%E5%AD%90%E6%98%A8%E6%97%A5%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A%E4%B8%8B-%E9%81%8A%E5%A8%A5%E7%9C%89%E6%B4%B2%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-27T08:25:37.454Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界技能大賽｜瓷磚貼面項目唯一女選手　香港21歲戴心怡獲激讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180767533712543744849073.jpeg/b8YMTBPSFzJeSbLoxSJT-CQVhIJpRr61SmhqKnBoaio?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60394107/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E9%85%B7%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB33%E5%BA%A6-%E5%9C%8B%E6%85%B6%E9%9B%B2%E9%87%8F%E5%A2%9E%E5%A4%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E9%A9%9F%E9%9B%A8",
     "timestamp": "2026-09-26T22:54:24.916Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣近水灣泳灘八旬婦游早泳遇溺　消防救人　昏迷送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180764901346381824349125.jpeg/f1iIzuLlzn1osTpCbzjKHvBMiV597FNjW5_Kq2Gfyqs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E5%85%AB%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-26T22:42:56.275Z",
     "strategy": ".content-card__main"
   }
 ];
