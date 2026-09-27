@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T08:57:13.487Z
+// Last updated: 2026-09-27T09:21:14.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美心月餅盒回收設454個回收點　指定商場送$73餐飲電子優惠券",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180923237484204032621953.jpeg/1h-K4lqJblw5INJV2VVqndW_3IU3gevSeSBhNHkgYTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394205/%E7%BE%8E%E5%BF%83%E6%9C%88%E9%A4%85%E7%9B%92%E5%9B%9E%E6%94%B6%E8%A8%AD454%E5%80%8B%E5%9B%9E%E6%94%B6%E9%BB%9E-%E6%8C%87%E5%AE%9A%E5%95%86%E5%A0%B4%E9%80%81-73%E9%A4%90%E9%A3%B2%E9%9B%BB%E5%AD%90%E5%84%AA%E6%83%A0%E5%88%B8",
+    "timestamp": "2026-09-27T09:21:14.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026︱香港男排力戰負卡塔爾　19歲古靖堅並列全隊最高16分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180275473419079680358290.jpeg/4qtxDbcRkRVmU5TxReIf1oJWL8Iu1BuLjQqkiI0KpIg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394109/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B9%85%E6%94%BE%E5%AF%AC%E7%87%83%E6%B2%B9%E6%95%88%E7%8E%87%E6%A8%99%E6%BA%96%E8%87%B32031-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%99%8D%E8%BB%8A%E5%83%B9",
     "timestamp": "2026-09-26T23:30:20.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大黑熊母子闖藥房「逛美妝」 母熊遭人道毀滅幼熊放生惹爭議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180526688614748160275018.png/O9gxR1On1SYNl_FOBjmUSeWWriTtE94MjJsLEoybCxI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393315/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%BB%91%E7%86%8A%E6%AF%8D%E5%AD%90%E9%97%96%E8%97%A5%E6%88%BF-%E9%80%9B%E7%BE%8E%E5%A6%9D-%E6%AF%8D%E7%86%8A%E9%81%AD%E4%BA%BA%E9%81%93%E6%AF%80%E6%BB%85%E5%B9%BC%E7%86%8A%E6%94%BE%E7%94%9F%E6%83%B9%E7%88%AD%E8%AD%B0",
-    "timestamp": "2026-09-26T23:17:56.997Z",
     "strategy": ".content-card__main"
   }
 ];
