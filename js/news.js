@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T14:32:16.746Z
+// Last updated: 2026-09-27T15:18:22.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2｜俞可程與混血男神Oscar配對成功？　冧爆大讚男方善良真誠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180994622122364928648295.jpeg/ZydBpHj5nBZqbBINCwj5HiIuB_zcZ8Cfw28JD8NvCQ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394255/%E5%A5%B3%E7%A5%9E2-%E4%BF%9E%E5%8F%AF%E7%A8%8B%E8%88%87%E6%B7%B7%E8%A1%80%E7%94%B7%E7%A5%9Eoscar%E9%85%8D%E5%B0%8D%E6%88%90%E5%8A%9F-%E5%86%A7%E7%88%86%E5%A4%A7%E8%AE%9A%E7%94%B7%E6%96%B9%E5%96%84%E8%89%AF%E7%9C%9F%E8%AA%A0",
+    "timestamp": "2026-09-27T15:18:22.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田24/7 FITNESS藏針孔鏡頭︱34歲男子涉窺淫被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180887699276435456692153.jpeg/1Ah7ptG0WAFyJpAPXnbpydAsxSVUAJOHf6mjLH-poyw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60394162/google-s-birthday-%E8%B0%B7%E6%AD%8C%E8%B8%8F%E5%85%A528%E5%B9%B4-%E9%A6%96%E9%A0%81%E6%9B%B4%E6%8F%9B%E5%BE%A9%E5%8F%A4logo%E6%85%B6%E7%A5%9D",
     "timestamp": "2026-09-27T06:57:36.808Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本前外相岩屋毅率團抵北京　料與中方商務部官員會面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159504973885607936054168.jpeg/6nB46C8kgFLYri9LGy0jZMFttJAUGZ8_qAjz26gI89s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394170/%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E5%B2%A9%E5%B1%8B%E6%AF%85%E7%8E%87%E5%9C%98%E6%8A%B5%E5%8C%97%E4%BA%AC-%E6%96%99%E8%88%87%E4%B8%AD%E6%96%B9%E5%95%86%E5%8B%99%E9%83%A8%E5%AE%98%E5%93%A1%E6%9C%83%E9%9D%A2",
-    "timestamp": "2026-09-27T06:33:09.088Z",
     "strategy": ".content-card__main"
   }
 ];
