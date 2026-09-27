@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T07:22:36.940Z
+// Last updated: 2026-09-27T07:45:06.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前新聞王子陳書君坦白出櫃母以死相逼　唔想呃一個女仔：無良心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180879777385418752638205.png/2pRqohIqS9XbXDRNEwFo_k8qIVPhdFzHBql_kAapf5A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394166/%E5%89%8D%E6%96%B0%E8%81%9E%E7%8E%8B%E5%AD%90%E9%99%B3%E6%9B%B8%E5%90%9B%E5%9D%A6%E7%99%BD%E5%87%BA%E6%AB%83%E6%AF%8D%E4%BB%A5%E6%AD%BB%E7%9B%B8%E9%80%BC-%E5%94%94%E6%83%B3%E5%91%83%E4%B8%80%E5%80%8B%E5%A5%B3%E4%BB%94-%E7%84%A1%E8%89%AF%E5%BF%83",
+    "timestamp": "2026-09-27T07:45:06.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南非酒吧槍擊案釀17死15傷　警追捕8名疑犯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180755939653849088143865.jpeg/YvGk3XdDbXTKqAedCPItvKbzJ-8GDninl9lc-63ZXPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E4%B9%9D%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-26T22:31:42.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣近水灣泳灘九旬婦游早泳遇溺　消防救人　昏迷搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180755939653849088143865.jpeg/YvGk3XdDbXTKqAedCPItvKbzJ-8GDninl9lc-63ZXPs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E4%B9%9D%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91",
-    "timestamp": "2026-09-26T22:18:05.678Z",
     "strategy": ".content-card__main"
   }
 ];
