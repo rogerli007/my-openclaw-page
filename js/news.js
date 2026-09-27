@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T11:54:14.622Z
+// Last updated: 2026-09-27T12:50:55.253Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳哈里梅根一家聖誕或返美？回英一月遭王室割席：無職位+無保護",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180943488972230656137056.png/kRs6cdxFAhCCNaCdBOxS-YUPgWZpGQ_g1DqxbdQ6sW0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394197/%E5%82%B3%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E4%B8%80%E5%AE%B6%E8%81%96%E8%AA%95%E6%88%96%E8%BF%94%E7%BE%8E-%E5%9B%9E%E8%8B%B1%E4%B8%80%E6%9C%88%E9%81%AD%E7%8E%8B%E5%AE%A4%E5%89%B2%E5%B8%AD-%E7%84%A1%E8%81%B7%E4%BD%8D-%E7%84%A1%E4%BF%9D%E8%AD%B7",
+    "timestamp": "2026-09-27T12:50:55.253Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天眼直擊｜戴帽男闖大角咀夾公仔舖　搜4台機錢箱倒錢落袋掠萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180850846389243904685140.jpeg/HjRVBZaMkEFjhemuxBhci6940P6M9Rnew2hTm8NoU5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394146/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E7%94%B7%E5%AD%90%E9%87%8D%E5%8A%8D%E6%93%BA%E6%92%BC%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E6%BF%80%E6%88%B0%E9%80%A3%E5%A0%B4-%E5%A5%B3%E5%AD%90%E4%BD%A9%E5%8A%8D8%E5%BC%B7%E5%B0%8D%E9%9F%93%E5%9C%8B",
     "timestamp": "2026-09-27T04:23:54.151Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中秋節翌日49萬港人離港　周五、六淨流失共34萬　按周升六成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180499583743037440276514.jpeg/w3Cja8qCcYYswywoByLUH4twMGuOvuahs9oao5baGqM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394127/%E4%B8%AD%E7%A7%8B%E7%AF%80%E7%BF%8C%E6%97%A549%E8%90%AC%E6%B8%AF%E4%BA%BA%E9%9B%A2%E6%B8%AF-%E5%91%A8%E4%BA%94-%E5%85%AD%E6%B7%A8%E6%B5%81%E5%A4%B1%E5%85%B134%E8%90%AC-%E6%8C%89%E5%91%A8%E5%8D%87%E5%85%AD%E6%88%90",
-    "timestamp": "2026-09-27T03:29:28.586Z",
     "strategy": ".content-card__main"
   }
 ];
