@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T05:20:14.705Z
+// Last updated: 2026-09-27T05:47:41.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄德外長俄烏衝突後首次簡短會晤　討論雙邊關係和戰爭局勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180871444511330304138976.jpeg/Lz0bJfr6v2on8XDqgBFL-zF6tfhZMaJZ-g7KWPoOylg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394164/%E4%BF%84%E5%BE%B7%E5%A4%96%E9%95%B7%E4%BF%84%E7%83%8F%E8%A1%9D%E7%AA%81%E5%BE%8C%E9%A6%96%E6%AC%A1%E7%B0%A1%E7%9F%AD%E6%9C%83%E6%99%A4-%E8%A8%8E%E8%AB%96%E9%9B%99%E9%82%8A%E9%97%9C%E4%BF%82%E5%92%8C%E6%88%B0%E7%88%AD%E5%B1%80%E5%8B%A2",
+    "timestamp": "2026-09-27T05:47:41.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蜜糖｜不止可消炎養顏？蜜糖特殊功效你要知　食用禁忌不可忽略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394104/%E8%BB%8Acam-%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B7%91%E8%BB%8A%E7%96%91%E8%B7%A3%E8%83%8E%E8%B6%8A%E7%B7%9A%E6%92%9Eaudi-%E8%B7%91%E8%BB%8A%E8%B5%B7%E7%81%AB-audi%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-26T21:18:15.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜荃錦公路跑車疑跣胎越線撞Audi　跑車起火　Audi司機送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394104/%E8%BB%8Acam-%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E8%B7%91%E8%BB%8A%E7%96%91%E8%B7%A3%E8%83%8E%E8%B6%8A%E7%B7%9A%E6%92%9Eaudi-%E8%B7%91%E8%BB%8A%E8%B5%B7%E7%81%AB-audi%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-26T20:54:52.260Z",
     "strategy": ".content-card__main"
   }
 ];
