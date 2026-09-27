@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T18:56:19.624Z
+// Last updated: 2026-09-27T19:19:28.691Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-27T19:19:28.691Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/455750/org/279715e4026ccc23fd4574c8f6196a6e.jpg/Xm9gUzJVb_LjDXmgGSAiYr7iYRN94B9MAAKf9gACn_Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394246/%E7%89%9B%E6%B1%A0%E7%81%A3%E5%BD%A9%E9%9B%B2%E9%82%A8%E5%A4%A9%E9%99%8D5%E5%90%8B%E5%A4%A7%E6%9C%A8%E5%A1%8A-7%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%A0%B8%E5%82%B7%E6%89%8B",
     "timestamp": "2026-09-27T11:42:46.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026田徑｜陳俊浩的自我救贖　重踏大舞台兩破港績走出陰霾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180935906748534784321476.jpeg/a12eR9yctrRDGWeXEv8Qxdj-GPenbE-35oIUFuaCFBY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394130/%E4%BA%9E%E9%81%8B%E6%9C%832026%E7%94%B0%E5%BE%91-%E9%99%B3%E4%BF%8A%E6%B5%A9%E7%9A%84%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E9%87%8D%E8%B8%8F%E5%A4%A7%E8%88%9E%E5%8F%B0%E5%85%A9%E7%A0%B4%E6%B8%AF%E7%B8%BE%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE",
-    "timestamp": "2026-09-27T11:30:41.756Z",
     "strategy": ".content-card__main"
   }
 ];
