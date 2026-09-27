@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T16:21:17.654Z
+// Last updated: 2026-09-27T16:44:05.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌道3車連環相撞　往旺角方向近美孚新邨行車線封閉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181038635449847808298167.jpeg/aILOeId8V85yGUQIHJFOSqeIIfOIlEaE3ICxr_aAsa8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394277/%E8%91%B5%E6%B6%8C%E9%81%933%E8%BB%8A%E9%80%A3%E7%92%B0%E7%9B%B8%E6%92%9E-%E5%BE%80%E6%97%BA%E8%A7%92%E6%96%B9%E5%90%91%E8%BF%91%E7%BE%8E%E5%AD%9A%E6%96%B0%E9%82%A8%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%B0%81%E9%96%89",
+    "timestamp": "2026-09-27T16:44:05.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百億少奶現身中環外套皺到爆遭質疑扮親民　網友揭婚前婚後真面目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172113586118463488912346.jpeg/W8VxZPeWbCQtqpXEotGc3GWubJgN54dvy7pYj8u6WI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394195/30%E6%AD%B2%E7%94%B7%E5%AD%90%E6%98%A8%E6%97%A5%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A%E4%B8%8B-%E9%81%8A%E5%A8%A5%E7%9C%89%E6%B4%B2%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-27T08:25:37.454Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界技能大賽｜瓷磚貼面項目唯一女選手　香港21歲戴心怡獲激讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180892822643937280974061.jpeg/uYA6pd0mBkCGaFL3qHAZZebDFUqnYz-zpmDxt6Zg8bc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60394176/%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B3%BD-%E7%93%B7%E7%A3%9A%E8%B2%BC%E9%9D%A2%E9%A0%85%E7%9B%AE%E5%94%AF%E4%B8%80%E5%A5%B3%E9%81%B8%E6%89%8B-%E9%A6%99%E6%B8%AF21%E6%AD%B2%E6%88%B4%E5%BF%83%E6%80%A1%E7%8D%B2%E6%BF%80%E8%AE%9A",
-    "timestamp": "2026-09-27T07:54:37.700Z",
     "strategy": ".content-card__main"
   }
 ];
