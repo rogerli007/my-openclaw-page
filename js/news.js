@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T17:18:45.274Z
+// Last updated: 2026-09-27T17:30:06.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉德華香港紅館演唱會2026｜公售抽籤攻略｜座位表+登記連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178479557875863552968125.jpeg/7OYto_p5am3Qma9r8Ntp8YEbTrwQt8nRyTkecMk5HnA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391936/%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%A6%99%E6%B8%AF%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026-%E5%85%AC%E5%94%AE%E6%8A%BD%E7%B1%A4%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
+    "timestamp": "2026-09-27T17:30:06.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉德華香港紅館演唱會2026｜公售抽籤攻略｜座位表+登記連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180932906931982336382197.jpeg/a-La5UNrSPLrlr4YGYgan0McQS98WlWhfqfw836n8PM?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394216/%E6%9C%89%E7%89%87-%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%8248%E6%AD%B2%E5%A5%B3%E7%A8%B123%E6%AD%B2%E7%94%B7%E5%81%B7%E6%8B%8D-%E6%89%AF%E8%A1%AB%E9%98%BB%E9%9B%A2%E9%96%8B-%E8%AD%A6%E6%9F%A5%E6%89%8B%E6%A9%9F%E7%84%A1%E7%99%BC%E7%8F%BE",
     "timestamp": "2026-09-27T09:53:36.150Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美心月餅盒回收設454個回收點　指定商場送$73餐飲電子優惠券",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180923237484204032621953.jpeg/1h-K4lqJblw5INJV2VVqndW_3IU3gevSeSBhNHkgYTQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394205/%E7%BE%8E%E5%BF%83%E6%9C%88%E9%A4%85%E7%9B%92%E5%9B%9E%E6%94%B6%E8%A8%AD454%E5%80%8B%E5%9B%9E%E6%94%B6%E9%BB%9E-%E6%8C%87%E5%AE%9A%E5%95%86%E5%A0%B4%E9%80%81-73%E9%A4%90%E9%A3%B2%E9%9B%BB%E5%AD%90%E5%84%AA%E6%83%A0%E5%88%B8",
-    "timestamp": "2026-09-27T09:21:14.251Z",
     "strategy": ".content-card__main"
   }
 ];
