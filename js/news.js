@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T13:44:07.903Z
+// Last updated: 2026-09-27T13:54:17.543Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運｜港隊添3獎牌累計32面　羅淑佩賀壁球、男子重劍團體運動員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180636985056956416375809.jpeg/dGW6oQXJoruReeoVwpPY4J9rq6jH7dQhXlmj8l5Zo_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394263/%E4%BA%9E%E9%81%8B-%E6%B8%AF%E9%9A%8A%E6%B7%BB3%E7%8D%8E%E7%89%8C%E7%B4%AF%E8%A8%8832%E9%9D%A2-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%B3%80%E5%A3%81%E7%90%83-%E7%94%B7%E5%AD%90%E9%87%8D%E5%8A%8D%E5%9C%98%E9%AB%94%E9%81%8B%E5%8B%95%E5%93%A1",
+    "timestamp": "2026-09-27T13:54:17.543Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無涯之約｜AK江𤒹生加盟聲演要角　助香港全新動畫IP宇宙11月出戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180871444511330304138976.jpeg/Lz0bJfr6v2on8XDqgBFL-zF6tfhZMaJZ-g7KWPoOylg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394164/%E4%BF%84%E5%BE%B7%E5%A4%96%E9%95%B7%E4%BF%84%E7%83%8F%E8%A1%9D%E7%AA%81%E5%BE%8C%E9%A6%96%E6%AC%A1%E7%B0%A1%E7%9F%AD%E6%9C%83%E6%99%A4-%E8%A8%8E%E8%AB%96%E9%9B%99%E9%82%8A%E9%97%9C%E4%BF%82%E5%92%8C%E6%88%B0%E7%88%AD%E5%B1%80%E5%8B%A2",
     "timestamp": "2026-09-27T05:47:41.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蜜糖｜不止可消炎養顏？蜜糖特殊功效你要知　食用禁忌不可忽略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210926/518617603732672512069712.jpeg/dmkR-9Iah4Nm-FVyRCAT3URdG4XY812lsNUFx7DVBcc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E5%B8%ABEasy/681244/%E8%9C%9C%E7%B3%96-%E4%B8%8D%E6%AD%A2%E5%8F%AF%E6%B6%88%E7%82%8E%E9%A4%8A%E9%A1%8F-%E8%9C%9C%E7%B3%96%E7%89%B9%E6%AE%8A%E5%8A%9F%E6%95%88%E4%BD%A0%E8%A6%81%E7%9F%A5-%E9%A3%9F%E7%94%A8%E7%A6%81%E5%BF%8C%E4%B8%8D%E5%8F%AF%E5%BF%BD%E7%95%A5",
-    "timestamp": "2026-09-27T05:20:14.705Z",
     "strategy": ".content-card__main"
   }
 ];
