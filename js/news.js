@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T09:53:36.150Z
+// Last updated: 2026-09-27T10:45:17.358Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "誤闖遺忘島｜蔡蕙琪全程喊濕兩張紙巾　陳書昕哽咽重提感人對白",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180945345052413952725413.jpeg/oiQpGcGqMvNN-br0iB_0fZFgX2oHepFV05h4qdOYeKk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394230/%E8%AA%A4%E9%97%96%E9%81%BA%E5%BF%98%E5%B3%B6-%E8%94%A1%E8%95%99%E7%90%AA%E5%85%A8%E7%A8%8B%E5%96%8A%E6%BF%95%E5%85%A9%E5%BC%B5%E7%B4%99%E5%B7%BE-%E9%99%B3%E6%9B%B8%E6%98%95%E5%93%BD%E5%92%BD%E9%87%8D%E6%8F%90%E6%84%9F%E4%BA%BA%E5%B0%8D%E7%99%BD",
+    "timestamp": "2026-09-27T10:45:17.358Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜港鐵車廂48歲女稱23歲男偷拍　扯衫阻離開　警查手機無發現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180789912991961088930651.jpeg/GUSr3goIekvgCGvHolZejy3uJ6REZNjMqDG5xagxucU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394111/%E8%BB%8Acam-%E8%A5%BF%E8%B2%A2%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%84%A1%E8%A6%96%E5%81%9C%E7%B7%9A%E7%9B%B4%E5%87%BA%E6%92%BC%E5%8F%A6%E4%B8%80%E8%BB%8A-%E5%85%A9%E8%BB%8A%E8%A1%9D%E4%B8%8A%E5%AE%89%E5%85%A8%E5%B3%B6%E9%87%80%E5%85%A9%E5%82%B7",
     "timestamp": "2026-09-27T00:56:16.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國大幅放寬燃油效率標準至2031　特朗普：降車價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180275473419079680358290.jpeg/4qtxDbcRkRVmU5TxReIf1oJWL8Iu1BuLjQqkiI0KpIg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394109/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B9%85%E6%94%BE%E5%AF%AC%E7%87%83%E6%B2%B9%E6%95%88%E7%8E%87%E6%A8%99%E6%BA%96%E8%87%B32031-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%99%8D%E8%BB%8A%E5%83%B9",
-    "timestamp": "2026-09-26T23:42:31.196Z",
     "strategy": ".content-card__main"
   }
 ];
