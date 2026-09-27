@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T06:33:09.088Z
+// Last updated: 2026-09-27T06:57:36.808Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Google 28歲生日快樂！今首頁更換復古Logo　揭公司真實成立日期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180887699276435456692153.jpeg/1Ah7ptG0WAFyJpAPXnbpydAsxSVUAJOHf6mjLH-poyw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60394162/google-s-birthday-%E8%B0%B7%E6%AD%8C%E8%B8%8F%E5%85%A528%E5%B9%B4-%E9%A6%96%E9%A0%81%E6%9B%B4%E6%8F%9B%E5%BE%A9%E5%8F%A4logo%E6%85%B6%E7%A5%9D",
+    "timestamp": "2026-09-27T06:57:36.808Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本前外相岩屋毅率團抵北京　料與中方商務部官員會面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180755939653849088143865.jpeg/YvGk3XdDbXTKqAedCPItvKbzJ-8GDninl9lc-63ZXPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394108/%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A3%E6%B3%B3%E7%81%98%E4%B9%9D%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E4%BA%BA-%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91",
     "timestamp": "2026-09-26T21:58:45.267Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國暴雨｜曼谷全市列災區　中國使館籲公民防暴雨洪澇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180741599433330688971854.jpeg/aREO2kQrW56XrOb3JoksCWjgKb1C7s9bkuG4VZLhuFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394106/%E6%B3%B0%E5%9C%8B%E6%9A%B4%E9%9B%A8-%E6%9B%BC%E8%B0%B7%E5%85%A8%E5%B8%82%E5%88%97%E7%81%BD%E5%8D%80-%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8%E7%B1%B2%E5%85%AC%E6%B0%91%E9%98%B2%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%BE%87",
-    "timestamp": "2026-09-26T21:42:21.864Z",
     "strategy": ".content-card__main"
   }
 ];
