@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T18:46:49.319Z
+// Last updated: 2026-09-27T18:56:19.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-27T18:56:19.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180935906748534784321476.jpeg/a12eR9yctrRDGWeXEv8Qxdj-GPenbE-35oIUFuaCFBY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394130/%E4%BA%9E%E9%81%8B%E6%9C%832026%E7%94%B0%E5%BE%91-%E9%99%B3%E4%BF%8A%E6%B5%A9%E7%9A%84%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E9%87%8D%E8%B8%8F%E5%A4%A7%E8%88%9E%E5%8F%B0%E5%85%A9%E7%A0%B4%E6%B8%AF%E7%B8%BE%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE",
     "timestamp": "2026-09-27T11:30:41.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "FIFA東盟盃｜香港隊亮相4球大炒老撾　18873人啟德主場館觀戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180945167188889600340679.jpeg/MJzju6xaqzqls3uEjengkx8ilbHUi7EMe-3TaXvt02k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394224/fifa%E6%9D%B1%E7%9B%9F%E7%9B%83-%E9%A6%99%E6%B8%AF%E9%9A%8A%E4%BA%AE%E7%9B%B84%E7%90%83%E5%A4%A7%E7%82%92%E8%80%81%E6%92%BE-18873%E4%BA%BA%E5%95%9F%E5%BE%B7%E4%B8%BB%E5%A0%B4%E9%A4%A8%E8%A7%80%E6%88%B0",
-    "timestamp": "2026-09-27T10:53:47.761Z",
     "strategy": ".content-card__main"
   }
 ];
