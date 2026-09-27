@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-26T23:42:31.196Z
+// Last updated: 2026-09-27T00:56:16.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車cam｜西貢私家車無視停線直出撼另一車　兩車衝上安全島釀兩傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180789912991961088930651.jpeg/GUSr3goIekvgCGvHolZejy3uJ6REZNjMqDG5xagxucU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394111/%E8%BB%8Acam-%E8%A5%BF%E8%B2%A2%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%84%A1%E8%A6%96%E5%81%9C%E7%B7%9A%E7%9B%B4%E5%87%BA%E6%92%BC%E5%8F%A6%E4%B8%80%E8%BB%8A-%E5%85%A9%E8%BB%8A%E8%A1%9D%E4%B8%8A%E5%AE%89%E5%85%A8%E5%B3%B6%E9%87%80%E5%85%A9%E5%82%B7",
+    "timestamp": "2026-09-27T00:56:16.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國大幅放寬燃油效率標準至2031　特朗普：降車價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/686527/org/3238e637880ad8baeaccb0bdfbc66a04.jpg/I9Z_8qPnlp-vNSmRfuely-p5MdPOCLObEXYEZhF2BGY?v=w1920",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60394097/%E5%8F%B0%E5%BC%8F%E4%B8%89%E6%9D%AF%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%BA%BB%E6%B2%B9%E7%B1%B3%E9%85%92%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA-%E6%B1%81%E9%A6%99%E9%86%AC%E6%BF%83%E6%8B%8C%E9%A3%AF%E4%B8%80%E6%B5%81",
     "timestamp": "2026-09-26T17:54:51.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台式三杯雞食譜｜做法簡易麻油米酒不可或缺、汁香醬濃拌飯一流",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/686527/org/3238e637880ad8baeaccb0bdfbc66a04.jpg/I9Z_8qPnlp-vNSmRfuely-p5MdPOCLObEXYEZhF2BGY?v=w1920",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60394097/%E5%8F%B0%E5%BC%8F%E4%B8%89%E6%9D%AF%E9%9B%9E%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%BA%BB%E6%B2%B9%E7%B1%B3%E9%85%92%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA-%E6%B1%81%E9%A6%99%E9%86%AC%E6%BF%83%E6%8B%8C%E9%A3%AF%E4%B8%80%E6%B5%81",
-    "timestamp": "2026-09-26T17:42:18.873Z",
     "strategy": ".content-card__main"
   }
 ];
