@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T21:34:45.189Z
+// Last updated: 2026-09-27T21:43:12.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "武契奇辭去塞爾維亞總統職務　準備競逐下屆政府總理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181091168230838272607351.jpeg/t0uh0LZMhGq0aDUF58CH4BTG-rAfWJwSueGsMrnhrDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394288/%E6%AD%A6%E5%A5%91%E5%A5%87%E8%BE%AD%E5%8E%BB%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B8%BD%E7%B5%B1%E8%81%B7%E5%8B%99-%E6%BA%96%E5%82%99%E7%AB%B6%E9%80%90%E4%B8%8B%E5%B1%86%E6%94%BF%E5%BA%9C%E7%B8%BD%E7%90%86",
+    "timestamp": "2026-09-27T21:43:12.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "武契奇辭去塞爾維亞總統職務　準備競逐下屆政府總理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180994622122364928648295.jpeg/ZydBpHj5nBZqbBINCwj5HiIuB_zcZ8Cfw28JD8NvCQ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394255/%E5%A5%B3%E7%A5%9E2-%E4%BF%9E%E5%8F%AF%E7%A8%8B%E8%88%87%E6%B7%B7%E8%A1%80%E7%94%B7%E7%A5%9Eoscar%E9%85%8D%E5%B0%8D%E6%88%90%E5%8A%9F-%E5%86%A7%E7%88%86%E5%A4%A7%E8%AE%9A%E7%94%B7%E6%96%B9%E5%96%84%E8%89%AF%E7%9C%9F%E8%AA%A0",
     "timestamp": "2026-09-27T15:31:39.693Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神2｜俞可程與混血男神Oscar配對成功？　冧爆大讚男方善良真誠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180994622122364928648295.jpeg/ZydBpHj5nBZqbBINCwj5HiIuB_zcZ8Cfw28JD8NvCQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394255/%E5%A5%B3%E7%A5%9E2-%E4%BF%9E%E5%8F%AF%E7%A8%8B%E8%88%87%E6%B7%B7%E8%A1%80%E7%94%B7%E7%A5%9Eoscar%E9%85%8D%E5%B0%8D%E6%88%90%E5%8A%9F-%E5%86%A7%E7%88%86%E5%A4%A7%E8%AE%9A%E7%94%B7%E6%96%B9%E5%96%84%E8%89%AF%E7%9C%9F%E8%AA%A0",
-    "timestamp": "2026-09-27T15:18:22.962Z",
     "strategy": ".content-card__main"
   }
 ];
