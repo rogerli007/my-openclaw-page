@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T19:54:21.904Z
+// Last updated: 2026-09-27T20:19:40.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國拘5人涉圖恐襲美軍基地　報案農戶夜見3輛可疑貨車及蒙面男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181064719172112384683091.jpeg/-uzKGx8UMi8tTW1Tgk43M8J40FhSXaUwHFNSqxxTUqs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394285/%E8%8B%B1%E5%9C%8B%E6%8B%985%E4%BA%BA%E6%B6%89%E5%9C%96%E6%81%90%E8%A5%B2%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E5%A0%B1%E6%A1%88%E8%BE%B2%E6%88%B6%E5%A4%9C%E8%A6%8B3%E8%BC%9B%E5%8F%AF%E7%96%91%E8%B2%A8%E8%BB%8A%E5%8F%8A%E8%92%99%E9%9D%A2%E7%94%B7",
+    "timestamp": "2026-09-27T20:19:40.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180951983066976256689430.jpeg/HTo0-68m_pcg4oAaL6-rKOaqo2LeVSp6Rd0tyEXdLcg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394239/%E7%84%A1%E6%B6%AF%E4%B9%8B%E7%B4%84-ak%E6%B1%9F%F0%A4%92%B9%E7%94%9F%E5%8A%A0%E7%9B%9F%E8%81%B2%E6%BC%94%E8%A6%81%E8%A7%92-%E5%8A%A9%E9%A6%99%E6%B8%AF%E5%85%A8%E6%96%B0%E5%8B%95%E7%95%ABip%E5%AE%87%E5%AE%9911%E6%9C%88%E5%87%BA%E6%88%B0",
     "timestamp": "2026-09-27T13:44:07.903Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "28歲碩士做河馬飼養員　每日清理500斤糞便　回應｢大材小用｣質疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180944933570351104390468.jpeg/qRuIV3BuoUTZjTD5H1Sj3PbGmScGvW3XpYgei6WIHos?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60394225/28%E6%AD%B2%E7%A2%A9%E5%A3%AB%E5%81%9A%E6%B2%B3%E9%A6%AC%E9%A3%BC%E9%A4%8A%E5%93%A1-%E6%AF%8F%E6%97%A5%E6%B8%85%E7%90%86500%E6%96%A4%E7%B3%9E%E4%BE%BF-%E5%9B%9E%E6%87%89-%E5%A4%A7%E6%9D%90%E5%B0%8F%E7%94%A8-%E8%B3%AA%E7%96%91",
-    "timestamp": "2026-09-27T13:31:56.560Z",
     "strategy": ".content-card__main"
   }
 ];
