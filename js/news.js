@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T19:44:53.752Z
+// Last updated: 2026-09-28T19:54:40.761Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄烏戰爭｜普京再簽擴軍令　今年以來第四次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181445930017099776796013.jpeg/pR5-fAoxRQhK0lKKHlNpCmu7jNuXqc7CqZ2ZVamdmVU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394661/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E6%99%AE%E4%BA%AC%E5%86%8D%E7%B0%BD%E6%93%B4%E8%BB%8D%E4%BB%A4-%E4%BB%8A%E5%B9%B4%E4%BB%A5%E4%BE%86%E7%AC%AC%E5%9B%9B%E6%AC%A1",
+    "timestamp": "2026-09-28T19:54:40.761Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣過山車｜天文台料周三34度　東北季候風國慶日到　下周二24度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181313173836271616405817.jpeg/9dKPUWBZjW_wn3d49fJpkI3jiqOtksHPq3-_cqt_v3I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394590/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A3%98%E7%90%83-18%E6%AD%B2%E6%9E%97%E5%A4%A9%E5%BF%83%E6%8C%91%E6%88%B0%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D%E6%97%A5%E6%9C%AC-%E8%A2%AB%E6%89%A3%E5%80%92%E4%BB%8D%E4%B8%8D%E9%80%80%E8%AE%93",
     "timestamp": "2026-09-28T11:45:48.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "70周年致敬任白唐！東九劇場聯乘百年唐樓　呈獻8大跨界夢幻作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181278696997130240628304.jpeg/pez1LfDz3b_GFz-lan8PbcrpXnkF8KwFWTByj1kwco8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394504/70%E5%91%A8%E5%B9%B4%E8%87%B4%E6%95%AC%E4%BB%BB%E7%99%BD%E5%94%90-%E6%9D%B1%E4%B9%9D%E5%8A%87%E5%A0%B4%E8%81%AF%E4%B9%98%E7%99%BE%E5%B9%B4%E5%94%90%E6%A8%93-%E5%91%88%E7%8D%BB8%E5%A4%A7%E8%B7%A8%E7%95%8C%E5%A4%A2%E5%B9%BB%E4%BD%9C",
-    "timestamp": "2026-09-28T11:20:35.709Z",
     "strategy": ".content-card__main"
   }
 ];
