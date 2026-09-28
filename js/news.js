@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T21:54:45.564Z
+// Last updated: 2026-09-28T22:42:32.476Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "圈中型佬娶港姐冠軍住4千萬西貢豪宅　63歲歎茶記與老友貼地吹水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181369245921972224614523.jpeg/3vF4NtnON_3J_nNL02vj2ssz1jzlb_1pfXeG-H13hvg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394585/%E6%96%B9%E4%B8%AD%E4%BF%A1%E5%A8%B6%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E4%BD%8F%E9%80%BE4%E5%8D%83%E8%90%AC%E8%A5%BF%E8%B2%A2%E8%B1%AA%E5%AE%85-63%E6%AD%B2%E6%AD%8E%E8%8C%B6%E8%A8%98%E8%88%87%E8%80%81%E5%8F%8B%E8%B2%BC%E5%9C%B0%E5%90%B9%E6%B0%B4",
+    "timestamp": "2026-09-28T22:42:32.476Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱美官員與斡旋方會談　美國很快會贏得對伊戰事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181350920730972160941860.jpeg/9N2z6xmRVcuDHUmtiQ5e-YjiEkWqVKSPEmPitBJj4rQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394447/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E6%87%B6%E4%BA%BA%E5%8C%85-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%8A%89%E5%AD%B8%E7%BE%A9%E5%8F%A4%E8%A3%9D%E5%8A%87%E9%80%86%E8%A5%B2%E5%85%A8%E7%B6%B2-%E6%8B%86%E8%A7%A36%E5%A4%A7%E7%88%86%E7%B4%85%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-09-28T13:23:45.765Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳一商場卸貨區傳汽油味　消防揭貨車淪非法油站截查一男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181339560945127424083216.jpeg/owUUV_IHY6ZbeghL7gSl8bpZ-mTKZvjY8P36rvD9-q4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394618/%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%80%E5%95%86%E5%A0%B4%E5%8D%B8%E8%B2%A8%E5%8D%80%E5%82%B3%E6%B1%BD%E6%B2%B9%E5%91%B3-%E6%B6%88%E9%98%B2%E6%8F%AD%E8%B2%A8%E8%BB%8A%E6%B7%AA%E9%9D%9E%E6%B3%95%E6%B2%B9%E7%AB%99%E6%88%AA%E6%9F%A5%E4%B8%80%E7%94%B7",
-    "timestamp": "2026-09-28T13:00:12.613Z",
     "strategy": ".content-card__main"
   }
 ];
