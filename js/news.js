@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T10:47:22.909Z
+// Last updated: 2026-09-28T10:57:24.945Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "裝修工涉打死巴士司機　被告自稱少與人爭執　只打事主2拳及踢1腳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220831/641630753385353216871439.jpeg/swEb5JSmjkTu5RTCqXd7bgeAwN-UV0kQZ3A84GdwPOA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394603/%E8%A3%9D%E4%BF%AE%E5%B7%A5%E6%B6%89%E6%89%93%E6%AD%BB%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%A9%9F-%E8%A2%AB%E5%91%8A%E8%87%AA%E7%A8%B1%E5%B0%91%E8%88%87%E4%BA%BA%E7%88%AD%E5%9F%B7-%E5%8F%AA%E6%89%93%E4%BA%8B%E4%B8%BB2%E6%8B%B3%E5%8F%8A%E8%B8%A21%E8%85%B3",
+    "timestamp": "2026-09-28T10:57:24.945Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "裝修工涉打死巴士司機　被告自稱少與人爭執　只打事主2拳及踢1腳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180990304233197568184729.jpeg/9a0XjrIQvdN4MXoNBEZ9sYvTeaTqfEGGQz7huUM-4bk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394236/%E9%82%B5%E9%9F%B3%E9%9F%B3%E8%88%87%E5%AF%8C%E5%95%86%E5%A9%9A%E5%BE%8C%E4%BD%8F%E5%A4%A7%E5%9F%94%E6%9E%97%E6%9D%91%E8%B1%AA%E5%AE%85-76%E6%AD%B2%E7%8D%A8%E6%90%AD%E6%B8%AF%E9%90%B5%E6%8B%8E%E5%A4%A7%E8%A2%8B%E7%B4%B0%E8%A2%8B%E7%8D%B2%E8%AE%93%E5%BA%A7",
     "timestamp": "2026-09-27T22:44:48.852Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前艷星與富商婚後住大埔林村豪宅　76歲獨搭港鐵拎大袋細袋獲讓座",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180990304233197568184729.jpeg/9a0XjrIQvdN4MXoNBEZ9sYvTeaTqfEGGQz7huUM-4bk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394236/%E9%82%B5%E9%9F%B3%E9%9F%B3%E8%88%87%E5%AF%8C%E5%95%86%E5%A9%9A%E5%BE%8C%E4%BD%8F%E5%A4%A7%E5%9F%94%E6%9E%97%E6%9D%91%E8%B1%AA%E5%AE%85-76%E6%AD%B2%E7%8D%A8%E6%90%AD%E6%B8%AF%E9%90%B5%E6%8B%8E%E5%A4%A7%E8%A2%8B%E7%B4%B0%E8%A2%8B%E7%8D%B2%E8%AE%93%E5%BA%A7",
-    "timestamp": "2026-09-27T22:32:58.086Z",
     "strategy": ".content-card__main"
   }
 ];
