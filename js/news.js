@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T02:07:41.486Z
+// Last updated: 2026-09-28T02:49:34.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一粥麵優惠｜65折！原隻滷水鴨／紅燒豬手$38／長者早+茶市送熱飲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181191434951200768675904.jpeg/vSpoESg6BrjUtl3nAuVQuFb7kkRBYF3ldsUCKXbFAik?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60394328/%E4%B8%80%E7%B2%A5%E9%BA%B5%E5%84%AA%E6%83%A0-65%E6%8A%98-%E5%8E%9F%E9%9A%BB%E6%BB%B7%E6%B0%B4%E9%B4%A8-%E7%B4%85%E7%87%92%E8%B1%AC%E6%89%8B-38-%E9%95%B7%E8%80%85%E6%97%A9-%E8%8C%B6%E5%B8%82%E9%80%81%E7%86%B1%E9%A3%B2",
+    "timestamp": "2026-09-28T02:49:34.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "電熱水爐用完即熄原來做錯？儲水式長開未必耗電　專家拆解真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-27T18:46:49.319Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國拘5人涉圖恐襲美軍基地　特朗普稱兩國合作阻重大破壞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181052448312135680287914.jpeg/na2HA6MuHMyLcBqbRsBpHcgsbj4nvTgHxFmCRcRZgkU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394280/%E8%8B%B1%E5%9C%8B%E6%8B%985%E4%BA%BA%E6%B6%89%E5%9C%96%E6%81%90%E8%A5%B2%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%85%A9%E5%9C%8B%E5%90%88%E4%BD%9C%E9%98%BB%E9%87%8D%E5%A4%A7%E7%A0%B4%E5%A3%9E",
-    "timestamp": "2026-09-27T17:44:50.997Z",
     "strategy": ".content-card__main"
   }
 ];
