@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T13:23:45.765Z
+// Last updated: 2026-09-28T14:01:34.139Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運2026｜港隊添兩銅總34面獎牌　羅淑佩恭賀乒乓球、電技運動員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181358191598899200904175.jpeg/srPf0Q6dGxPN4Nsn-qX8Uny73AmeF046aUB6hWlAeoU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394629/%E4%BA%9E%E9%81%8B2026-%E6%B8%AF%E9%9A%8A%E6%B7%BB%E5%85%A9%E9%8A%85%E7%B8%BD34%E9%9D%A2%E7%8D%8E%E7%89%8C-%E7%BE%85%E6%B7%91%E4%BD%A9%E6%81%AD%E8%B3%80%E4%B9%92%E4%B9%93%E7%90%83-%E9%9B%BB%E6%8A%80%E9%81%8B%E5%8B%95%E5%93%A1",
+    "timestamp": "2026-09-28T14:01:34.139Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭香如故懶人包｜譚松韻劉學義古裝劇逆襲全網　拆解6大爆紅關鍵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181033513407746048182406.jpeg/leaN_Ocvswk98GEVaeSGlQvOxgLGUleJyrx5pcq8eaU?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60394276/%E4%BE%86%E7%A8%BF-%E5%B0%8A%E9%87%8D-%E5%85%AC%E5%B9%B3-%E5%B0%8D%E7%AD%89-%E9%8C%A8%E5%AE%9A%E4%B8%AD%E7%BE%8E%E6%96%B0%E5%B1%80-%E5%85%AB%E9%BB%9E%E5%85%B1%E8%AD%98%E8%83%8C%E5%BE%8C%E6%9C%89%E4%BD%95%E5%BA%95%E6%B0%A3",
     "timestamp": "2026-09-28T03:07:03.544Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一粥麵優惠｜65折！原隻滷水鴨／紅燒豬手$38／長者早+茶市送熱飲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181191434951200768675904.jpeg/vSpoESg6BrjUtl3nAuVQuFb7kkRBYF3ldsUCKXbFAik?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60394328/%E4%B8%80%E7%B2%A5%E9%BA%B5%E5%84%AA%E6%83%A0-65%E6%8A%98-%E5%8E%9F%E9%9A%BB%E6%BB%B7%E6%B0%B4%E9%B4%A8-%E7%B4%85%E7%87%92%E8%B1%AC%E6%89%8B-38-%E9%95%B7%E8%80%85%E6%97%A9-%E8%8C%B6%E5%B8%82%E9%80%81%E7%86%B1%E9%A3%B2",
-    "timestamp": "2026-09-28T02:49:34.018Z",
     "strategy": ".content-card__main"
   }
 ];
