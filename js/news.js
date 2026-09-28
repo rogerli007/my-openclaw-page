@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T05:58:31.549Z
+// Last updated: 2026-09-28T07:19:38.356Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026｜板網球初亮相港隊取首勝　苦戰2小時逆轉哈薩克晉級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181258680650436608271084.jpeg/tfkfLquUwJde6Imq7HH3yCNnWT1zFChECrG2YjCxtmI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394453/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E6%9D%BF%E7%B6%B2%E7%90%83%E5%88%9D%E4%BA%AE%E7%9B%B8%E6%B8%AF%E9%9A%8A%E5%8F%96%E9%A6%96%E5%8B%9D-%E8%8B%A6%E6%88%B02%E5%B0%8F%E6%99%82%E9%80%86%E8%BD%89%E5%93%88%E8%96%A9%E5%85%8B%E6%99%89%E7%B4%9A",
+    "timestamp": "2026-09-28T07:19:38.356Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "裝修工涉打死巴士司機　吸煙問題起爭執　事主妻指夫稱遭不斷踢頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181064719172112384683091.jpeg/-uzKGx8UMi8tTW1Tgk43M8J40FhSXaUwHFNSqxxTUqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394285/%E8%8B%B1%E5%9C%8B%E6%8B%985%E4%BA%BA%E6%B6%89%E5%9C%96%E6%81%90%E8%A5%B2%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E5%A0%B1%E6%A1%88%E8%BE%B2%E6%88%B6%E5%A4%9C%E8%A6%8B3%E8%BC%9B%E5%8F%AF%E7%96%91%E8%B2%A8%E8%BB%8A%E5%8F%8A%E8%92%99%E9%9D%A2%E7%94%B7",
     "timestamp": "2026-09-27T20:19:40.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-27T19:54:21.904Z",
     "strategy": ".content-card__main"
   }
 ];
