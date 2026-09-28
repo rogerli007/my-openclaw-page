@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T20:20:55.225Z
+// Last updated: 2026-09-28T21:02:27.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "星島新聞集團接粉末信　警同日旺角拘24歲男涉刑事恐嚇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181466230775615488413976.jpeg/oUkGQtIS-yb4cguWSkkPOaNQiANSUmQ2_OKTyvzik8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394664/%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98%E6%8E%A5%E7%B2%89%E6%9C%AB%E4%BF%A1-%E8%AD%A6%E5%90%8C%E6%97%A5%E6%97%BA%E8%A7%92%E6%8B%9824%E6%AD%B2%E7%94%B7%E6%B6%89%E5%88%91%E4%BA%8B%E6%81%90%E5%9A%87",
+    "timestamp": "2026-09-28T21:02:27.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡男子用火機燒單車　警到場拘30歲巴裔男涉「縱火」等兩宗罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181336848270626816560248.jpeg/14nVDWW4Emg-BUrQ-Il4iy55vPWK-qO-ntLuVp7S7lY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60394554/%E6%98%9F%E6%88%B010-%E7%94%B1mcu%E8%9C%98%E8%9B%9B%E4%BF%A0%E5%B0%8E%E6%BC%94%E6%8B%8D%E9%BB%91%E9%B3%B3%E5%87%B0%E7%B7%A8%E5%8A%87%E6%8E%A5%E6%A3%92-%E5%89%B5%E4%BD%9C%E9%99%A3%E5%AE%B9%E5%85%88%E7%88%86%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-09-28T12:32:25.721Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "星島新聞集團接粉末信　星島譴責威脅新聞自由員工安全　警列恐嚇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20201223/418461418845638656216978.jpeg/ZhLpg7FPNO-PEvPZTkFJkz8BRKCQmFZRBeXauwXl2rs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394611/%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98%E6%8E%A5%E7%B2%89%E6%9C%AB%E4%BF%A1-%E6%98%9F%E5%B3%B6%E8%AD%B4%E8%B2%AC%E5%A8%81%E8%84%85%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1%E5%93%A1%E5%B7%A5%E5%AE%89%E5%85%A8-%E8%AD%A6%E5%88%97%E6%81%90%E5%9A%87",
-    "timestamp": "2026-09-28T11:56:27.532Z",
     "strategy": ".content-card__main"
   }
 ];
