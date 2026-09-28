@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T18:27:12.376Z
+// Last updated: 2026-09-28T19:17:34.077Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穆傑塔巴：伊朗已變得獨立強大　西方干涉事務的時代已永遠終結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139768973538103296601237.jpeg/Vic223ihRx2sovBoYb8WV4XgvCC2VauRSi3bxEot28Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394653/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4-%E4%BC%8A%E6%9C%97%E5%B7%B2%E8%AE%8A%E5%BE%97%E7%8D%A8%E7%AB%8B%E5%BC%B7%E5%A4%A7-%E8%A5%BF%E6%96%B9%E5%B9%B2%E6%B6%89%E4%BA%8B%E5%8B%99%E7%9A%84%E6%99%82%E4%BB%A3%E5%B7%B2%E6%B0%B8%E9%81%A0%E7%B5%82%E7%B5%90",
+    "timestamp": "2026-09-28T19:17:34.077Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220831/641630753385353216871439.jpeg/swEb5JSmjkTu5RTCqXd7bgeAwN-UV0kQZ3A84GdwPOA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394603/%E8%A3%9D%E4%BF%AE%E5%B7%A5%E6%B6%89%E6%89%93%E6%AD%BB%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%A9%9F-%E8%A2%AB%E5%91%8A%E8%87%AA%E7%A8%B1%E5%B0%91%E8%88%87%E4%BA%BA%E7%88%AD%E5%9F%B7-%E5%8F%AA%E6%89%93%E4%BA%8B%E4%B8%BB2%E6%8B%B3%E5%8F%8A%E8%B8%A21%E8%85%B3",
     "timestamp": "2026-09-28T10:57:24.945Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "裝修工涉打死巴士司機　被告自稱少與人爭執　只打事主2拳及踢1腳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220831/641630753385353216871439.jpeg/swEb5JSmjkTu5RTCqXd7bgeAwN-UV0kQZ3A84GdwPOA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394603/%E8%A3%9D%E4%BF%AE%E5%B7%A5%E6%B6%89%E6%89%93%E6%AD%BB%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%A9%9F-%E8%A2%AB%E5%91%8A%E8%87%AA%E7%A8%B1%E5%B0%91%E8%88%87%E4%BA%BA%E7%88%AD%E5%9F%B7-%E5%8F%AA%E6%89%93%E4%BA%8B%E4%B8%BB2%E6%8B%B3%E5%8F%8A%E8%B8%A21%E8%85%B3",
-    "timestamp": "2026-09-28T10:47:22.909Z",
     "strategy": ".content-card__main"
   }
 ];
