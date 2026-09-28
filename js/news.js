@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T19:54:40.761Z
+// Last updated: 2026-09-28T20:20:55.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡男子用火機燒單車　警到場拘30歲巴裔男涉「縱火」等兩宗罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211204/543934216576962560765381.jpeg/XbWO82nMgI1h7H0vrNOsh8f8x4N4i38glXWXipV1l4o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394662/%E7%B4%85%E7%A3%A1%E7%94%B7%E5%AD%90%E7%94%A8%E7%81%AB%E6%A9%9F%E7%87%92%E5%96%AE%E8%BB%8A-%E8%AD%A6%E5%88%B0%E5%A0%B4%E6%8B%9830%E6%AD%B2%E5%B7%B4%E8%A3%94%E7%94%B7%E6%B6%89-%E7%B8%B1%E7%81%AB-%E7%AD%89%E5%85%A9%E5%AE%97%E7%BD%AA",
+    "timestamp": "2026-09-28T20:20:55.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄烏戰爭｜普京再簽擴軍令　今年以來第四次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20201223/418461418845638656216978.jpeg/ZhLpg7FPNO-PEvPZTkFJkz8BRKCQmFZRBeXauwXl2rs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394611/%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98%E6%8E%A5%E7%B2%89%E6%9C%AB%E4%BF%A1-%E6%98%9F%E5%B3%B6%E8%AD%B4%E8%B2%AC%E5%A8%81%E8%84%85%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1%E5%93%A1%E5%B7%A5%E5%AE%89%E5%85%A8-%E8%AD%A6%E5%88%97%E6%81%90%E5%9A%87",
     "timestamp": "2026-09-28T11:56:27.532Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026壘球｜18歲林天心挑戰世界冠軍日本　被扣倒仍不退讓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181313173836271616405817.jpeg/9dKPUWBZjW_wn3d49fJpkI3jiqOtksHPq3-_cqt_v3I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394590/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A3%98%E7%90%83-18%E6%AD%B2%E6%9E%97%E5%A4%A9%E5%BF%83%E6%8C%91%E6%88%B0%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D%E6%97%A5%E6%9C%AC-%E8%A2%AB%E6%89%A3%E5%80%92%E4%BB%8D%E4%B8%8D%E9%80%80%E8%AE%93",
-    "timestamp": "2026-09-28T11:45:48.419Z",
     "strategy": ".content-card__main"
   }
 ];
