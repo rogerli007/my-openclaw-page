@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T21:02:27.416Z
+// Last updated: 2026-09-28T21:54:45.564Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱美官員與斡旋方會談　美國很快會贏得對伊戰事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181468403781603328851793.jpeg/Y-wBlUAWp_m3OqNnC6kPFeiHmkKwgcrDFIqYFRSKmBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394666/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BE%8E%E5%AE%98%E5%93%A1%E8%88%87%E6%96%A1%E6%97%8B%E6%96%B9%E6%9C%83%E8%AB%87-%E7%BE%8E%E5%9C%8B%E5%BE%88%E5%BF%AB%E6%9C%83%E8%B4%8F%E5%BE%97%E5%B0%8D%E4%BC%8A%E6%88%B0%E4%BA%8B",
+    "timestamp": "2026-09-28T21:54:45.564Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "星島新聞集團接粉末信　警同日旺角拘24歲男涉刑事恐嚇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181339560945127424083216.jpeg/owUUV_IHY6ZbeghL7gSl8bpZ-mTKZvjY8P36rvD9-q4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394618/%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%80%E5%95%86%E5%A0%B4%E5%8D%B8%E8%B2%A8%E5%8D%80%E5%82%B3%E6%B1%BD%E6%B2%B9%E5%91%B3-%E6%B6%88%E9%98%B2%E6%8F%AD%E8%B2%A8%E8%BB%8A%E6%B7%AA%E9%9D%9E%E6%B3%95%E6%B2%B9%E7%AB%99%E6%88%AA%E6%9F%A5%E4%B8%80%E7%94%B7",
     "timestamp": "2026-09-28T13:00:12.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《星戰10》由MCU蜘蛛俠導演拍黑鳳凰編劇接棒！創作陣容先爆爭議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181336848270626816560248.jpeg/14nVDWW4Emg-BUrQ-Il4iy55vPWK-qO-ntLuVp7S7lY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60394554/%E6%98%9F%E6%88%B010-%E7%94%B1mcu%E8%9C%98%E8%9B%9B%E4%BF%A0%E5%B0%8E%E6%BC%94%E6%8B%8D%E9%BB%91%E9%B3%B3%E5%87%B0%E7%B7%A8%E5%8A%87%E6%8E%A5%E6%A3%92-%E5%89%B5%E4%BD%9C%E9%99%A3%E5%AE%B9%E5%85%88%E7%88%86%E7%88%AD%E8%AD%B0",
-    "timestamp": "2026-09-28T12:32:25.721Z",
     "strategy": ".content-card__main"
   }
 ];
