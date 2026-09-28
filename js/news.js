@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T17:34:35.403Z
+// Last updated: 2026-09-28T17:48:18.822Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
+    "timestamp": "2026-09-28T17:48:18.822Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181294951229558784058931.jpeg/8mEs1qRxsW83aRVSbelvWXTqR_0uqUXaSfEn1EnxJ9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60394553/%E6%B7%B1%E5%9C%B3%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%A4%96%E5%9C%8D%E5%B8%82%E6%94%BF%E5%B7%A5%E7%A8%8B%E9%80%9A%E9%81%8E%E9%A9%97%E6%94%B6-%E5%B7%B2%E5%85%B7%E5%82%99%E9%80%9A%E8%BB%8A%E6%A2%9D%E4%BB%B6",
     "timestamp": "2026-09-28T09:34:52.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗防火日教街坊用「防火四寶」　消防演話劇提升市民應變意識",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181284073956577280763059.jpeg/zc5muFvORg6w7NiZvrBnGqdeO99vmaZegY4UA4GOFAM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394517/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%98%B2%E7%81%AB%E6%97%A5%E6%95%99%E8%A1%97%E5%9D%8A%E7%94%A8-%E9%98%B2%E7%81%AB%E5%9B%9B%E5%AF%B6-%E6%B6%88%E9%98%B2%E6%BC%94%E8%A9%B1%E5%8A%87%E6%8F%90%E5%8D%87%E5%B8%82%E6%B0%91%E6%87%89%E8%AE%8A%E6%84%8F%E8%AD%98",
-    "timestamp": "2026-09-28T08:59:57.962Z",
     "strategy": ".content-card__main"
   }
 ];
