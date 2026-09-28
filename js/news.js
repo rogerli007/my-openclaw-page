@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T03:07:03.544Z
+// Last updated: 2026-09-28T03:42:17.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土瓜灣帝庭豪園女子暈倒　家人報案惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220528/607260779300917248809327.jpeg/ZnNC5XkxCc4Upm2qEv9d86znW8MLCAmcK8-tyyvPrcs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394362/%E5%9C%9F%E7%93%9C%E7%81%A3%E5%B8%9D%E5%BA%AD%E8%B1%AA%E5%9C%92%E5%A5%B3%E5%AD%90%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-09-28T03:42:17.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜「尊重、公平、對等」錨定中美新局——八點共識背後有何底氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-27T19:19:28.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-27T18:56:19.624Z",
     "strategy": ".content-card__main"
   }
 ];
