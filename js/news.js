@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T17:48:18.822Z
+// Last updated: 2026-09-28T17:57:09.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
+    "timestamp": "2026-09-28T17:57:09.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181266826550579200581924.png/ffuNbKu9KMlVM1kxpPEFfmfFCfcIgX8kw9eOesPXjno?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394439/%E4%BA%9E%E9%81%8B%E7%94%B7%E7%B1%83-%E5%8F%B0%E8%80%81%E5%B0%87%E8%83%A1%E7%93%8F%E8%B2%BF%E6%BE%84%E6%B8%85%E7%84%A1%E9%80%80%E5%BD%B9%E6%89%93%E7%AE%97-%E4%B8%AD%E8%8F%AF%E9%9A%8A%E9%9C%80%E8%A6%81%E6%88%91%E4%B8%80%E5%AE%9A%E5%88%B0",
     "timestamp": "2026-09-28T10:23:07.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳皇崗口岸外圍市政工程通過驗收　已具備通車條件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181294951229558784058931.jpeg/8mEs1qRxsW83aRVSbelvWXTqR_0uqUXaSfEn1EnxJ9Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60394553/%E6%B7%B1%E5%9C%B3%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%A4%96%E5%9C%8D%E5%B8%82%E6%94%BF%E5%B7%A5%E7%A8%8B%E9%80%9A%E9%81%8E%E9%A9%97%E6%94%B6-%E5%B7%B2%E5%85%B7%E5%82%99%E9%80%9A%E8%BB%8A%E6%A2%9D%E4%BB%B6",
-    "timestamp": "2026-09-28T09:34:52.126Z",
     "strategy": ".content-card__main"
   }
 ];
