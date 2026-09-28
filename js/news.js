@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T03:42:17.626Z
+// Last updated: 2026-09-28T04:03:53.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "踢走秋燥防感冒！4大當季滋潤生果推介 這款含維他命C+紓緩暗瘡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180140054262059008491035.jpeg/E3--3UwiHVyFIjnldAO8GuqAQ_PzLBbnRG_gMERv4DA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60393680/%E8%B8%A2%E8%B5%B0%E7%A7%8B%E7%87%A5%E9%98%B2%E6%84%9F%E5%86%92-4%E5%A4%A7%E7%95%B6%E5%AD%A3%E6%BB%8B%E6%BD%A4%E7%94%9F%E6%9E%9C%E6%8E%A8%E4%BB%8B-%E9%80%99%E6%AC%BE%E5%90%AB%E7%B6%AD%E4%BB%96%E5%91%BDc-%E7%B4%93%E7%B7%A9%E6%9A%97%E7%98%A1",
+    "timestamp": "2026-09-28T04:03:53.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土瓜灣帝庭豪園女子暈倒　家人報案惜太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-27T19:29:12.299Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-27T19:19:28.691Z",
     "strategy": ".content-card__main"
   }
 ];
