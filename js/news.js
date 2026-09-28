@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T23:19:43.979Z
+// Last updated: 2026-09-28T23:33:56.545Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜光通信罕見集體暴跌　到底怎麼看？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2511360/org/f4d4028de7ec8b7eab363e94f6bb377f.JPG/aQlU6LTzA2HOadYTfvFGDUNIm70qU-Jtb6-5DG-vuQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60394671/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E5%85%89%E9%80%9A%E4%BF%A1%E7%BD%95%E8%A6%8B%E9%9B%86%E9%AB%94%E6%9A%B4%E8%B7%8C-%E5%88%B0%E5%BA%95%E6%80%8E%E9%BA%BC%E7%9C%8B",
+    "timestamp": "2026-09-28T23:33:56.545Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一五規劃｜北都大學城破創科痛點　「改壞名」模糊經濟轉型願景？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181369562134745088263584.jpeg/YA6ojvwMsA6b1oFql4uSoL5xq71zTeqv344_0d-OP9E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394637/%E5%A4%A7%E5%9F%94%E5%A4%A7%E7%AA%A9%E6%9D%B1%E6%94%AF%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%B6%8A%E5%96%AE%E8%BB%8A%E5%BE%91-%E6%92%9E%E6%AF%80%E9%90%B5%E6%AC%84%E5%A2%AE%E8%8D%89%E5%8F%A2-%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
     "timestamp": "2026-09-28T14:48:44.225Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張國榮70冥壽塵封遺作《愛情小孩》曝光　封面採用哥哥親選菲林照",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181305080826040320915382.jpeg/KnGcSBafGqjidIEkLHpzAlaN_RYFofaQoJ2M8qCdjPI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394575/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E5%86%A5%E5%A3%BD%E5%A1%B5%E5%B0%81%E9%81%BA%E4%BD%9C-%E6%84%9B%E6%83%85%E5%B0%8F%E5%AD%A9-%E6%9B%9D%E5%85%89-%E5%B0%81%E9%9D%A2%E6%8E%A1%E7%94%A8%E5%93%A5%E5%93%A5%E8%A6%AA%E9%81%B8%E8%8F%B2%E6%9E%97%E7%85%A7",
-    "timestamp": "2026-09-28T14:24:16.436Z",
     "strategy": ".content-card__main"
   }
 ];
