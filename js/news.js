@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T15:46:43.639Z
+// Last updated: 2026-09-28T15:57:46.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AK稱因泰國水浸貼黑底圖　Ian談對方與決裂班底合作：各有自主權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181389568163713024362570.jpeg/WsRDQzPve89_2BHGh3BgZA61QVEjiD6msaGVbbGhlW0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394646/ak%E7%A8%B1%E5%9B%A0%E6%B3%B0%E5%9C%8B%E6%B0%B4%E6%B5%B8%E8%B2%BC%E9%BB%91%E5%BA%95%E5%9C%96-ian%E8%AB%87%E5%B0%8D%E6%96%B9%E8%88%87%E6%B1%BA%E8%A3%82%E7%8F%AD%E5%BA%95%E5%90%88%E4%BD%9C-%E5%90%84%E6%9C%89%E8%87%AA%E4%B8%BB%E6%AC%8A",
+    "timestamp": "2026-09-28T15:57:46.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜天澤邨32歲男子墮樓　當場證實不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181258680650436608271084.jpeg/tfkfLquUwJde6Imq7HH3yCNnWT1zFChECrG2YjCxtmI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394453/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E6%9D%BF%E7%B6%B2%E7%90%83%E5%88%9D%E4%BA%AE%E7%9B%B8%E6%B8%AF%E9%9A%8A%E5%8F%96%E9%A6%96%E5%8B%9D-%E8%8B%A6%E6%88%B02%E5%B0%8F%E6%99%82%E9%80%86%E8%BD%89%E5%93%88%E8%96%A9%E5%85%8B%E6%99%89%E7%B4%9A",
     "timestamp": "2026-09-28T07:19:38.356Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "裝修工涉打死巴士司機　吸煙問題起爭執　事主妻指夫稱遭不斷踢頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181240028840333312403912.jpeg/mOVwO2cg1kJzXh_pNxJqOkXAANDAvH8v1DvMn9Q7zJ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394427/%E8%A3%9D%E4%BF%AE%E5%B7%A5%E6%B6%89%E6%89%93%E6%AD%BB%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%A9%9F-%E5%90%B8%E7%85%99%E5%95%8F%E9%A1%8C%E8%B5%B7%E7%88%AD%E5%9F%B7-%E4%BA%8B%E4%B8%BB%E5%A6%BB%E6%8C%87%E5%A4%AB%E7%A8%B1%E9%81%AD%E4%B8%8D%E6%96%B7%E8%B8%A2%E9%A0%AD",
-    "timestamp": "2026-09-28T05:58:31.549Z",
     "strategy": ".content-card__main"
   }
 ];
