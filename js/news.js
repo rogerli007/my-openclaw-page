@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T11:20:35.709Z
+// Last updated: 2026-09-28T11:45:48.419Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026壘球｜18歲林天心挑戰世界冠軍日本　被扣倒仍不退讓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181313173836271616405817.jpeg/9dKPUWBZjW_wn3d49fJpkI3jiqOtksHPq3-_cqt_v3I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394590/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A3%98%E7%90%83-18%E6%AD%B2%E6%9E%97%E5%A4%A9%E5%BF%83%E6%8C%91%E6%88%B0%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D%E6%97%A5%E6%9C%AC-%E8%A2%AB%E6%89%A3%E5%80%92%E4%BB%8D%E4%B8%8D%E9%80%80%E8%AE%93",
+    "timestamp": "2026-09-28T11:45:48.419Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "70周年致敬任白唐！東九劇場聯乘百年唐樓　呈獻8大跨界夢幻作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1091069916250902528730984.jpeg/2pA9jXCVMhntGz9VDgPFkvAkN3RD8bzQiiPTk4oj05M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394290/%E9%9F%93%E5%9C%8B-%E7%83%8F%E5%85%8B%E8%98%AD%E6%93%85%E8%87%AA%E5%85%AC%E9%96%8B%E6%9C%9D%E9%AE%AE%E6%88%B0%E4%BF%98%E7%A7%BB%E4%BA%A4%E9%9F%93%E5%9C%8B-%E8%A6%81%E6%B1%82%E6%AD%A3%E5%BC%8F%E8%A7%A3%E9%87%8B%E5%8F%8A%E9%81%93%E6%AD%89",
     "timestamp": "2026-09-27T23:31:13.429Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前艷星與富商婚後住大埔林村豪宅　76歲獨搭港鐵拎大袋細袋獲讓座",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260927/1180990304233197568184729.jpeg/9a0XjrIQvdN4MXoNBEZ9sYvTeaTqfEGGQz7huUM-4bk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394236/%E9%82%B5%E9%9F%B3%E9%9F%B3%E8%88%87%E5%AF%8C%E5%95%86%E5%A9%9A%E5%BE%8C%E4%BD%8F%E5%A4%A7%E5%9F%94%E6%9E%97%E6%9D%91%E8%B1%AA%E5%AE%85-76%E6%AD%B2%E7%8D%A8%E6%90%AD%E6%B8%AF%E9%90%B5%E6%8B%8E%E5%A4%A7%E8%A2%8B%E7%B4%B0%E8%A2%8B%E7%8D%B2%E8%AE%93%E5%BA%A7",
-    "timestamp": "2026-09-27T22:53:45.522Z",
     "strategy": ".content-card__main"
   }
 ];
