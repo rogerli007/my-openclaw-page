@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T08:59:57.962Z
+// Last updated: 2026-09-28T09:34:52.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳皇崗口岸外圍市政工程通過驗收　已具備通車條件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181294951229558784058931.jpeg/8mEs1qRxsW83aRVSbelvWXTqR_0uqUXaSfEn1EnxJ9Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60394553/%E6%B7%B1%E5%9C%B3%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%A4%96%E5%9C%8D%E5%B8%82%E6%94%BF%E5%B7%A5%E7%A8%8B%E9%80%9A%E9%81%8E%E9%A9%97%E6%94%B6-%E5%B7%B2%E5%85%B7%E5%82%99%E9%80%9A%E8%BB%8A%E6%A2%9D%E4%BB%B6",
+    "timestamp": "2026-09-28T09:34:52.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗防火日教街坊用「防火四寶」　消防演話劇提升市民應變意識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181091168230838272607351.jpeg/t0uh0LZMhGq0aDUF58CH4BTG-rAfWJwSueGsMrnhrDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394288/%E6%AD%A6%E5%A5%91%E5%A5%87%E8%BE%AD%E5%8E%BB%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B8%BD%E7%B5%B1%E8%81%B7%E5%8B%99-%E6%BA%96%E5%82%99%E7%AB%B6%E9%80%90%E4%B8%8B%E5%B1%86%E6%94%BF%E5%BA%9C%E7%B8%BD%E7%90%86",
     "timestamp": "2026-09-27T21:34:45.189Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國拘5人涉圖恐襲美軍基地　報案農戶夜見3輛可疑貨車及蒙面男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181064719172112384683091.jpeg/-uzKGx8UMi8tTW1Tgk43M8J40FhSXaUwHFNSqxxTUqs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394285/%E8%8B%B1%E5%9C%8B%E6%8B%985%E4%BA%BA%E6%B6%89%E5%9C%96%E6%81%90%E8%A5%B2%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E5%A0%B1%E6%A1%88%E8%BE%B2%E6%88%B6%E5%A4%9C%E8%A6%8B3%E8%BC%9B%E5%8F%AF%E7%96%91%E8%B2%A8%E8%BB%8A%E5%8F%8A%E8%92%99%E9%9D%A2%E7%94%B7",
-    "timestamp": "2026-09-27T20:54:43.950Z",
     "strategy": ".content-card__main"
   }
 ];
