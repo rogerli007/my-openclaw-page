@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T14:48:44.225Z
+// Last updated: 2026-09-28T15:25:15.010Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭柏妍上海快閃放電　貼身小背心搭「心機褲」大騷Fit爆玲瓏身段",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181297981719056384793816.jpeg/TW0ZRY2VOxspaahtcKP1mOQBGXbEM-TI2133xNtd98Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394321/%E9%83%AD%E6%9F%8F%E5%A6%8D%E4%B8%8A%E6%B5%B7%E5%BF%AB%E9%96%83%E6%94%BE%E9%9B%BB-%E8%B2%BC%E8%BA%AB%E5%B0%8F%E8%83%8C%E5%BF%83%E6%90%AD-%E5%BF%83%E6%A9%9F%E8%A4%B2-%E5%A4%A7%E9%A8%B7fit%E7%88%86%E7%8E%B2%E7%93%8F%E8%BA%AB%E6%AE%B5",
+    "timestamp": "2026-09-28T15:25:15.010Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔大窩東支路私家車失控剷越單車徑　撞毀鐵欄墮草叢　司機送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180530432718934016623790.jpeg/7TDlBYtkL-j1XLXr-JhbpaisETnGYklHIe-xCyHvsQs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60393953/%E6%96%B9%E5%A4%A7%E7%A0%94%E9%A6%96%E5%A5%97%E6%B8%AF%E7%89%88%E4%B8%96%E8%A1%9B%E6%AE%98%E7%96%BE%E8%A9%95%E4%BC%B0%E5%B7%A5%E5%85%B7-%E5%8A%A9%E5%8A%9B14%E9%96%93%E7%A4%BE%E5%8D%80%E5%BA%B7%E5%BE%A9%E4%B8%AD%E5%BF%83%E7%B2%BE%E6%BA%96%E6%94%AF%E6%8F%B4",
     "timestamp": "2026-09-28T04:55:53.343Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "踢走秋燥防感冒！4大當季滋潤生果推介 這款含維他命C+紓緩暗瘡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180140054262059008491035.jpeg/E3--3UwiHVyFIjnldAO8GuqAQ_PzLBbnRG_gMERv4DA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60393680/%E8%B8%A2%E8%B5%B0%E7%A7%8B%E7%87%A5%E9%98%B2%E6%84%9F%E5%86%92-4%E5%A4%A7%E7%95%B6%E5%AD%A3%E6%BB%8B%E6%BD%A4%E7%94%9F%E6%9E%9C%E6%8E%A8%E4%BB%8B-%E9%80%99%E6%AC%BE%E5%90%AB%E7%B6%AD%E4%BB%96%E5%91%BDc-%E7%B4%93%E7%B7%A9%E6%9A%97%E7%98%A1",
-    "timestamp": "2026-09-28T04:03:53.075Z",
     "strategy": ".content-card__main"
   }
 ];
