@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T02:49:34.018Z
+// Last updated: 2026-09-28T03:07:03.544Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜「尊重、公平、對等」錨定中美新局——八點共識背後有何底氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181033513407746048182406.jpeg/leaN_Ocvswk98GEVaeSGlQvOxgLGUleJyrx5pcq8eaU?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60394276/%E4%BE%86%E7%A8%BF-%E5%B0%8A%E9%87%8D-%E5%85%AC%E5%B9%B3-%E5%B0%8D%E7%AD%89-%E9%8C%A8%E5%AE%9A%E4%B8%AD%E7%BE%8E%E6%96%B0%E5%B1%80-%E5%85%AB%E9%BB%9E%E5%85%B1%E8%AD%98%E8%83%8C%E5%BE%8C%E6%9C%89%E4%BD%95%E5%BA%95%E6%B0%A3",
+    "timestamp": "2026-09-28T03:07:03.544Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一粥麵優惠｜65折！原隻滷水鴨／紅燒豬手$38／長者早+茶市送熱飲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-27T18:56:19.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-27T18:46:49.319Z",
     "strategy": ".content-card__main"
   }
 ];
