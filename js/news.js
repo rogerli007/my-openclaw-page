@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T14:01:34.139Z
+// Last updated: 2026-09-28T14:24:16.436Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張國榮70冥壽塵封遺作《愛情小孩》曝光　封面採用哥哥親選菲林照",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181305080826040320915382.jpeg/KnGcSBafGqjidIEkLHpzAlaN_RYFofaQoJ2M8qCdjPI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394575/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E5%86%A5%E5%A3%BD%E5%A1%B5%E5%B0%81%E9%81%BA%E4%BD%9C-%E6%84%9B%E6%83%85%E5%B0%8F%E5%AD%A9-%E6%9B%9D%E5%85%89-%E5%B0%81%E9%9D%A2%E6%8E%A1%E7%94%A8%E5%93%A5%E5%93%A5%E8%A6%AA%E9%81%B8%E8%8F%B2%E6%9E%97%E7%85%A7",
+    "timestamp": "2026-09-28T14:24:16.436Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運2026｜港隊添兩銅總34面獎牌　羅淑佩恭賀乒乓球、電技運動員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220528/607260779300917248809327.jpeg/ZnNC5XkxCc4Upm2qEv9d86znW8MLCAmcK8-tyyvPrcs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394362/%E5%9C%9F%E7%93%9C%E7%81%A3%E5%B8%9D%E5%BA%AD%E8%B1%AA%E5%9C%92%E5%A5%B3%E5%AD%90%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-09-28T03:42:17.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜「尊重、公平、對等」錨定中美新局——八點共識背後有何底氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181033513407746048182406.jpeg/leaN_Ocvswk98GEVaeSGlQvOxgLGUleJyrx5pcq8eaU?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60394276/%E4%BE%86%E7%A8%BF-%E5%B0%8A%E9%87%8D-%E5%85%AC%E5%B9%B3-%E5%B0%8D%E7%AD%89-%E9%8C%A8%E5%AE%9A%E4%B8%AD%E7%BE%8E%E6%96%B0%E5%B1%80-%E5%85%AB%E9%BB%9E%E5%85%B1%E8%AD%98%E8%83%8C%E5%BE%8C%E6%9C%89%E4%BD%95%E5%BA%95%E6%B0%A3",
-    "timestamp": "2026-09-28T03:07:03.544Z",
     "strategy": ".content-card__main"
   }
 ];
