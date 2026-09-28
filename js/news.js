@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T11:56:27.532Z
+// Last updated: 2026-09-28T12:32:25.721Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《星戰10》由MCU蜘蛛俠導演拍黑鳳凰編劇接棒！創作陣容先爆爭議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181336848270626816560248.jpeg/14nVDWW4Emg-BUrQ-Il4iy55vPWK-qO-ntLuVp7S7lY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60394554/%E6%98%9F%E6%88%B010-%E7%94%B1mcu%E8%9C%98%E8%9B%9B%E4%BF%A0%E5%B0%8E%E6%BC%94%E6%8B%8D%E9%BB%91%E9%B3%B3%E5%87%B0%E7%B7%A8%E5%8A%87%E6%8E%A5%E6%A3%92-%E5%89%B5%E4%BD%9C%E9%99%A3%E5%AE%B9%E5%85%88%E7%88%86%E7%88%AD%E8%AD%B0",
+    "timestamp": "2026-09-28T12:32:25.721Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "星島新聞集團接粉末信　星島譴責威脅新聞自由員工安全　警列恐嚇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180299805293809664714962.jpeg/ULwgXdzHWmDuvVK2ow4uTCrrLLh2nU-at-eh67fnoes?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60393646/%E6%BA%90%E9%80%94%E6%9C%89%E4%BD%A0-ai%E4%BB%A3%E7%90%86%E5%B7%B2%E7%B6%93-%E8%B6%8A%E8%BB%8C-%E5%B7%A5%E7%A8%8B%E5%AE%89%E5%85%A8%E9%A2%A8%E9%9A%AA%E8%AA%B0%E4%BE%86%E8%B2%A0%E8%B2%AC",
     "timestamp": "2026-09-28T00:55:36.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜美債利率都5.5%了　全球資產為什麼還沒爆炸？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3222718/org/86ca790b9678f13fcc586f507e0cbdab.jpg/U9Mp9W5oVy6hFY-hS2sRxgjvhLJrw1esjPVAuoz1QLo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60394294/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E7%BE%8E%E5%82%B5%E5%88%A9%E7%8E%87%E9%83%BD5-5-%E4%BA%86-%E5%85%A8%E7%90%83%E8%B3%87%E7%94%A2%E7%82%BA%E4%BB%80%E9%BA%BC%E9%82%84%E6%B2%92%E7%88%86%E7%82%B8",
-    "timestamp": "2026-09-27T23:42:49.410Z",
     "strategy": ".content-card__main"
   }
 ];
