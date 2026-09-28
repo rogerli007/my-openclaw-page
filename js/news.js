@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T15:57:46.465Z
+// Last updated: 2026-09-28T16:51:17.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅晤日本前外相岩屋毅　促糾正日本領導人在台灣問題錯誤言行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181401943650603008980245.jpeg/P5IvgSQreHtwPxNnxQmlm917s3c9yuqokbX_85G1__M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394649/%E7%8E%8B%E6%AF%85%E6%99%A4%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E5%B2%A9%E5%B1%8B%E6%AF%85-%E4%BF%83%E7%B3%BE%E6%AD%A3%E6%97%A5%E6%9C%AC%E9%A0%98%E5%B0%8E%E4%BA%BA%E5%9C%A8%E5%8F%B0%E7%81%A3%E5%95%8F%E9%A1%8C%E9%8C%AF%E8%AA%A4%E8%A8%80%E8%A1%8C",
+    "timestamp": "2026-09-28T16:51:17.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AK稱因泰國水浸貼黑底圖　Ian談對方與決裂班底合作：各有自主權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181268264093749248956302.jpeg/U_pLvWzI3iqS5q5XjHuXxro2uNGGe6Ze98Me7vfDHu4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394480/jfft%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A4%B1%E7%81%AB%E5%A4%A7%E6%89%B9%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4-ig%E5%A0%B1%E5%B9%B3%E5%AE%89-%E4%BA%BA%E7%84%A1%E4%BA%8B%E5%85%88%E5%81%9A%E5%88%B0%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D",
     "timestamp": "2026-09-28T07:56:01.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026｜板網球初亮相港隊取首勝　苦戰2小時逆轉哈薩克晉級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181258680650436608271084.jpeg/tfkfLquUwJde6Imq7HH3yCNnWT1zFChECrG2YjCxtmI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394453/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E6%9D%BF%E7%B6%B2%E7%90%83%E5%88%9D%E4%BA%AE%E7%9B%B8%E6%B8%AF%E9%9A%8A%E5%8F%96%E9%A6%96%E5%8B%9D-%E8%8B%A6%E6%88%B02%E5%B0%8F%E6%99%82%E9%80%86%E8%BD%89%E5%93%88%E8%96%A9%E5%85%8B%E6%99%89%E7%B4%9A",
-    "timestamp": "2026-09-28T07:19:38.356Z",
     "strategy": ".content-card__main"
   }
 ];
