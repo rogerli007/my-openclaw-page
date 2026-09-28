@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T04:03:53.075Z
+// Last updated: 2026-09-28T04:55:53.343Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方大研首套港版世衛殘疾評估工具　助力14間社區康復中心精準支援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180530432718934016623790.jpeg/7TDlBYtkL-j1XLXr-JhbpaisETnGYklHIe-xCyHvsQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60393953/%E6%96%B9%E5%A4%A7%E7%A0%94%E9%A6%96%E5%A5%97%E6%B8%AF%E7%89%88%E4%B8%96%E8%A1%9B%E6%AE%98%E7%96%BE%E8%A9%95%E4%BC%B0%E5%B7%A5%E5%85%B7-%E5%8A%A9%E5%8A%9B14%E9%96%93%E7%A4%BE%E5%8D%80%E5%BA%B7%E5%BE%A9%E4%B8%AD%E5%BF%83%E7%B2%BE%E6%BA%96%E6%94%AF%E6%8F%B4",
+    "timestamp": "2026-09-28T04:55:53.343Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "踢走秋燥防感冒！4大當季滋潤生果推介 這款含維他命C+紓緩暗瘡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-27T19:41:41.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-27T19:29:12.299Z",
     "strategy": ".content-card__main"
   }
 ];
