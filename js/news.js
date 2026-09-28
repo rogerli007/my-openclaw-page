@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T16:57:43.761Z
+// Last updated: 2026-09-28T17:34:35.403Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
+    "timestamp": "2026-09-28T17:34:35.403Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026關注流舞蹈大賽香港賽區成功舉辦　沈小婷申智珉同場勁舞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181284073956577280763059.jpeg/zc5muFvORg6w7NiZvrBnGqdeO99vmaZegY4UA4GOFAM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394517/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%98%B2%E7%81%AB%E6%97%A5%E6%95%99%E8%A1%97%E5%9D%8A%E7%94%A8-%E9%98%B2%E7%81%AB%E5%9B%9B%E5%AF%B6-%E6%B6%88%E9%98%B2%E6%BC%94%E8%A9%B1%E5%8A%87%E6%8F%90%E5%8D%87%E5%B8%82%E6%B0%91%E6%87%89%E8%AE%8A%E6%84%8F%E8%AD%98",
     "timestamp": "2026-09-28T08:59:57.962Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》十周年｜慶祝酒會圓滿舉行 政商名人雲集共證變革里程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181262785896517632905824.jpeg/9LMv8pQW9PjUbqbmD72WfA2mkWMSjn0C-85rMPvOazA",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394472/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E6%85%B6%E7%A5%9D%E9%85%92%E6%9C%83%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C-%E6%94%BF%E5%95%86%E5%90%8D%E4%BA%BA%E9%9B%B2%E9%9B%86%E5%85%B1%E8%AD%89%E8%AE%8A%E9%9D%A9%E9%87%8C%E7%A8%8B",
-    "timestamp": "2026-09-28T08:35:20.570Z",
     "strategy": ".content-card__main"
   }
 ];
