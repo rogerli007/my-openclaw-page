@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T23:33:56.545Z
+// Last updated: 2026-09-28T23:55:13.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普否認曾向習近平兜售美國軍備　稱「沒討論過」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180067110844370944702458.jpeg/K3oxaRQpZVkJ5MmYDLeSxhSd_KdaUex-0fYkA9H2JAM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394669/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AA%8D%E6%9B%BE%E5%90%91%E7%BF%92%E8%BF%91%E5%B9%B3%E5%85%9C%E5%94%AE%E7%BE%8E%E5%9C%8B%E8%BB%8D%E5%82%99-%E7%A8%B1-%E6%B2%92%E8%A8%8E%E8%AB%96%E9%81%8E",
+    "timestamp": "2026-09-28T23:55:13.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜光通信罕見集體暴跌　到底怎麼看？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181297981719056384793816.jpeg/TW0ZRY2VOxspaahtcKP1mOQBGXbEM-TI2133xNtd98Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394321/%E9%83%AD%E6%9F%8F%E5%A6%8D%E4%B8%8A%E6%B5%B7%E5%BF%AB%E9%96%83%E6%94%BE%E9%9B%BB-%E8%B2%BC%E8%BA%AB%E5%B0%8F%E8%83%8C%E5%BF%83%E6%90%AD-%E5%BF%83%E6%A9%9F%E8%A4%B2-%E5%A4%A7%E9%A8%B7fit%E7%88%86%E7%8E%B2%E7%93%8F%E8%BA%AB%E6%AE%B5",
     "timestamp": "2026-09-28T15:25:15.010Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔大窩東支路私家車失控剷越單車徑　撞毀鐵欄墮草叢　司機送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181369562134745088263584.jpeg/YA6ojvwMsA6b1oFql4uSoL5xq71zTeqv344_0d-OP9E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394637/%E5%A4%A7%E5%9F%94%E5%A4%A7%E7%AA%A9%E6%9D%B1%E6%94%AF%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%B6%8A%E5%96%AE%E8%BB%8A%E5%BE%91-%E6%92%9E%E6%AF%80%E9%90%B5%E6%AC%84%E5%A2%AE%E8%8D%89%E5%8F%A2-%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-28T14:48:44.225Z",
     "strategy": ".content-card__main"
   }
 ];
