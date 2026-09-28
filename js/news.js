@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-27T23:42:49.410Z
+// Last updated: 2026-09-28T00:55:36.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "源途有你｜AI代理已經「越軌」　工程安全風險誰來負責？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180299805293809664714962.jpeg/ULwgXdzHWmDuvVK2ow4uTCrrLLh2nU-at-eh67fnoes?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60393646/%E6%BA%90%E9%80%94%E6%9C%89%E4%BD%A0-ai%E4%BB%A3%E7%90%86%E5%B7%B2%E7%B6%93-%E8%B6%8A%E8%BB%8C-%E5%B7%A5%E7%A8%8B%E5%AE%89%E5%85%A8%E9%A2%A8%E9%9A%AA%E8%AA%B0%E4%BE%86%E8%B2%A0%E8%B2%AC",
+    "timestamp": "2026-09-28T00:55:36.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜美債利率都5.5%了　全球資產為什麼還沒爆炸？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178479557875863552968125.jpeg/7OYto_p5am3Qma9r8Ntp8YEbTrwQt8nRyTkecMk5HnA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391936/%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%A6%99%E6%B8%AF%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026-%E5%85%AC%E5%94%AE%E6%8A%BD%E7%B1%A4%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
     "timestamp": "2026-09-27T17:30:06.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉德華香港紅館演唱會2026｜公售抽籤攻略｜座位表+登記連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178479557875863552968125.jpeg/7OYto_p5am3Qma9r8Ntp8YEbTrwQt8nRyTkecMk5HnA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391936/%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%A6%99%E6%B8%AF%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026-%E5%85%AC%E5%94%AE%E6%8A%BD%E7%B1%A4%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-09-27T17:18:45.274Z",
     "strategy": ".content-card__main"
   }
 ];
