@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T04:55:53.343Z
+// Last updated: 2026-09-28T05:58:31.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "裝修工涉打死巴士司機　吸煙問題起爭執　事主妻指夫稱遭不斷踢頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181240028840333312403912.jpeg/mOVwO2cg1kJzXh_pNxJqOkXAANDAvH8v1DvMn9Q7zJ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394427/%E8%A3%9D%E4%BF%AE%E5%B7%A5%E6%B6%89%E6%89%93%E6%AD%BB%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%A9%9F-%E5%90%B8%E7%85%99%E5%95%8F%E9%A1%8C%E8%B5%B7%E7%88%AD%E5%9F%B7-%E4%BA%8B%E4%B8%BB%E5%A6%BB%E6%8C%87%E5%A4%AB%E7%A8%B1%E9%81%AD%E4%B8%8D%E6%96%B7%E8%B8%A2%E9%A0%AD",
+    "timestamp": "2026-09-28T05:58:31.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方大研首套港版世衛殘疾評估工具　助力14間社區康復中心精準支援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-27T19:54:21.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜石籬邨29歲男子墮樓　昏迷送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162326588855947264328690.jpeg/zbptpuPEw7WwkW91DjEp9XAkodQNOian3Uhnvt1IZ74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394284/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%9F%B3%E7%B1%AC%E9%82%A829%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-27T19:41:41.488Z",
     "strategy": ".content-card__main"
   }
 ];
