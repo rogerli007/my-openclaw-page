@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T12:32:25.721Z
+// Last updated: 2026-09-28T13:00:12.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳一商場卸貨區傳汽油味　消防揭貨車淪非法油站截查一男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181339560945127424083216.jpeg/owUUV_IHY6ZbeghL7gSl8bpZ-mTKZvjY8P36rvD9-q4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394618/%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%80%E5%95%86%E5%A0%B4%E5%8D%B8%E8%B2%A8%E5%8D%80%E5%82%B3%E6%B1%BD%E6%B2%B9%E5%91%B3-%E6%B6%88%E9%98%B2%E6%8F%AD%E8%B2%A8%E8%BB%8A%E6%B7%AA%E9%9D%9E%E6%B3%95%E6%B2%B9%E7%AB%99%E6%88%AA%E6%9F%A5%E4%B8%80%E7%94%B7",
+    "timestamp": "2026-09-28T13:00:12.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《星戰10》由MCU蜘蛛俠導演拍黑鳳凰編劇接棒！創作陣容先爆爭議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260422/1123674989120196608965820.jpeg/vyce7_XVZgtPLblts5LeluHV2N9Hf1vmf8gMiH_IDIg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60370235/%E9%9B%BB%E7%86%B1%E6%B0%B4%E7%88%90%E7%94%A8%E5%AE%8C%E5%8D%B3%E7%86%84%E5%8E%9F%E4%BE%86%E5%81%9A%E9%8C%AF-%E5%84%B2%E6%B0%B4%E5%BC%8F%E9%95%B7%E9%96%8B%E6%9C%AA%E5%BF%85%E8%80%97%E9%9B%BB-%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-09-28T02:07:41.486Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "源途有你｜AI代理已經「越軌」　工程安全風險誰來負責？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180299805293809664714962.jpeg/ULwgXdzHWmDuvVK2ow4uTCrrLLh2nU-at-eh67fnoes?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60393646/%E6%BA%90%E9%80%94%E6%9C%89%E4%BD%A0-ai%E4%BB%A3%E7%90%86%E5%B7%B2%E7%B6%93-%E8%B6%8A%E8%BB%8C-%E5%B7%A5%E7%A8%8B%E5%AE%89%E5%85%A8%E9%A2%A8%E9%9A%AA%E8%AA%B0%E4%BE%86%E8%B2%A0%E8%B2%AC",
-    "timestamp": "2026-09-28T00:55:36.328Z",
     "strategy": ".content-card__main"
   }
 ];
