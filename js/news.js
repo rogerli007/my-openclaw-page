@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T15:25:15.010Z
+// Last updated: 2026-09-28T15:46:43.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜天澤邨32歲男子墮樓　當場證實不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157810179111129088860952.jpeg/DAC3trrPQNcHqyZwbXHH-41TO-Dowptzu4Y8GruGPBo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394645/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A9%E6%BE%A4%E9%82%A832%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E8%AD%89%E5%AF%A6%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-28T15:46:43.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭柏妍上海快閃放電　貼身小背心搭「心機褲」大騷Fit爆玲瓏身段",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181240028840333312403912.jpeg/mOVwO2cg1kJzXh_pNxJqOkXAANDAvH8v1DvMn9Q7zJ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394427/%E8%A3%9D%E4%BF%AE%E5%B7%A5%E6%B6%89%E6%89%93%E6%AD%BB%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%A9%9F-%E5%90%B8%E7%85%99%E5%95%8F%E9%A1%8C%E8%B5%B7%E7%88%AD%E5%9F%B7-%E4%BA%8B%E4%B8%BB%E5%A6%BB%E6%8C%87%E5%A4%AB%E7%A8%B1%E9%81%AD%E4%B8%8D%E6%96%B7%E8%B8%A2%E9%A0%AD",
     "timestamp": "2026-09-28T05:58:31.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方大研首套港版世衛殘疾評估工具　助力14間社區康復中心精準支援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180530432718934016623790.jpeg/7TDlBYtkL-j1XLXr-JhbpaisETnGYklHIe-xCyHvsQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60393953/%E6%96%B9%E5%A4%A7%E7%A0%94%E9%A6%96%E5%A5%97%E6%B8%AF%E7%89%88%E4%B8%96%E8%A1%9B%E6%AE%98%E7%96%BE%E8%A9%95%E4%BC%B0%E5%B7%A5%E5%85%B7-%E5%8A%A9%E5%8A%9B14%E9%96%93%E7%A4%BE%E5%8D%80%E5%BA%B7%E5%BE%A9%E4%B8%AD%E5%BF%83%E7%B2%BE%E6%BA%96%E6%94%AF%E6%8F%B4",
-    "timestamp": "2026-09-28T04:55:53.343Z",
     "strategy": ".content-card__main"
   }
 ];
