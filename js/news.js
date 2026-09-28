@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T14:24:16.436Z
+// Last updated: 2026-09-28T14:48:44.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔大窩東支路私家車失控剷越單車徑　撞毀鐵欄墮草叢　司機送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181369562134745088263584.jpeg/YA6ojvwMsA6b1oFql4uSoL5xq71zTeqv344_0d-OP9E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394637/%E5%A4%A7%E5%9F%94%E5%A4%A7%E7%AA%A9%E6%9D%B1%E6%94%AF%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7%E5%89%B7%E8%B6%8A%E5%96%AE%E8%BB%8A%E5%BE%91-%E6%92%9E%E6%AF%80%E9%90%B5%E6%AC%84%E5%A2%AE%E8%8D%89%E5%8F%A2-%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-28T14:48:44.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張國榮70冥壽塵封遺作《愛情小孩》曝光　封面採用哥哥親選菲林照",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180140054262059008491035.jpeg/E3--3UwiHVyFIjnldAO8GuqAQ_PzLBbnRG_gMERv4DA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60393680/%E8%B8%A2%E8%B5%B0%E7%A7%8B%E7%87%A5%E9%98%B2%E6%84%9F%E5%86%92-4%E5%A4%A7%E7%95%B6%E5%AD%A3%E6%BB%8B%E6%BD%A4%E7%94%9F%E6%9E%9C%E6%8E%A8%E4%BB%8B-%E9%80%99%E6%AC%BE%E5%90%AB%E7%B6%AD%E4%BB%96%E5%91%BDc-%E7%B4%93%E7%B7%A9%E6%9A%97%E7%98%A1",
     "timestamp": "2026-09-28T04:03:53.075Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土瓜灣帝庭豪園女子暈倒　家人報案惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220528/607260779300917248809327.jpeg/ZnNC5XkxCc4Upm2qEv9d86znW8MLCAmcK8-tyyvPrcs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394362/%E5%9C%9F%E7%93%9C%E7%81%A3%E5%B8%9D%E5%BA%AD%E8%B1%AA%E5%9C%92%E5%A5%B3%E5%AD%90%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-09-28T03:42:17.626Z",
     "strategy": ".content-card__main"
   }
 ];
