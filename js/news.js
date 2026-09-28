@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T11:45:48.419Z
+// Last updated: 2026-09-28T11:56:27.532Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "星島新聞集團接粉末信　星島譴責威脅新聞自由員工安全　警列恐嚇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20201223/418461418845638656216978.jpeg/ZhLpg7FPNO-PEvPZTkFJkz8BRKCQmFZRBeXauwXl2rs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394611/%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98%E6%8E%A5%E7%B2%89%E6%9C%AB%E4%BF%A1-%E6%98%9F%E5%B3%B6%E8%AD%B4%E8%B2%AC%E5%A8%81%E8%84%85%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1%E5%93%A1%E5%B7%A5%E5%AE%89%E5%85%A8-%E8%AD%A6%E5%88%97%E6%81%90%E5%9A%87",
+    "timestamp": "2026-09-28T11:56:27.532Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026壘球｜18歲林天心挑戰世界冠軍日本　被扣倒仍不退讓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3222718/org/86ca790b9678f13fcc586f507e0cbdab.jpg/U9Mp9W5oVy6hFY-hS2sRxgjvhLJrw1esjPVAuoz1QLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60394294/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E7%BE%8E%E5%82%B5%E5%88%A9%E7%8E%87%E9%83%BD5-5-%E4%BA%86-%E5%85%A8%E7%90%83%E8%B3%87%E7%94%A2%E7%82%BA%E4%BB%80%E9%BA%BC%E9%82%84%E6%B2%92%E7%88%86%E7%82%B8",
     "timestamp": "2026-09-27T23:42:49.410Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國：烏克蘭擅自公開朝鮮戰俘移交韓國　要求正式解釋及道歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260122/1091069916250902528730984.jpeg/2pA9jXCVMhntGz9VDgPFkvAkN3RD8bzQiiPTk4oj05M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394290/%E9%9F%93%E5%9C%8B-%E7%83%8F%E5%85%8B%E8%98%AD%E6%93%85%E8%87%AA%E5%85%AC%E9%96%8B%E6%9C%9D%E9%AE%AE%E6%88%B0%E4%BF%98%E7%A7%BB%E4%BA%A4%E9%9F%93%E5%9C%8B-%E8%A6%81%E6%B1%82%E6%AD%A3%E5%BC%8F%E8%A7%A3%E9%87%8B%E5%8F%8A%E9%81%93%E6%AD%89",
-    "timestamp": "2026-09-27T23:31:13.429Z",
     "strategy": ".content-card__main"
   }
 ];
