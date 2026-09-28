@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T22:53:58.175Z
+// Last updated: 2026-09-28T23:19:43.979Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一五規劃｜北都大學城破創科痛點　「改壞名」模糊經濟轉型願景？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181376197280403456047369.jpeg/OqpJ5lJBwckCq4BxWYFHOq_ZCmjiap3kAT1LuQE9S7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392932/%E4%B8%80%E4%BA%94%E8%A6%8F%E5%8A%83-%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E%E7%A0%B4%E5%89%B5%E7%A7%91%E7%97%9B%E9%BB%9E-%E6%94%B9%E5%A3%9E%E5%90%8D-%E6%A8%A1%E7%B3%8A%E7%B6%93%E6%BF%9F%E8%BD%89%E5%9E%8B%E9%A1%98%E6%99%AF",
+    "timestamp": "2026-09-28T23:19:43.979Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "圈中型佬娶港姐冠軍住4千萬西貢豪宅　63歲歎茶記與老友貼地吹水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181305080826040320915382.jpeg/KnGcSBafGqjidIEkLHpzAlaN_RYFofaQoJ2M8qCdjPI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394575/%E5%BC%B5%E5%9C%8B%E6%A6%AE70%E5%86%A5%E5%A3%BD%E5%A1%B5%E5%B0%81%E9%81%BA%E4%BD%9C-%E6%84%9B%E6%83%85%E5%B0%8F%E5%AD%A9-%E6%9B%9D%E5%85%89-%E5%B0%81%E9%9D%A2%E6%8E%A1%E7%94%A8%E5%93%A5%E5%93%A5%E8%A6%AA%E9%81%B8%E8%8F%B2%E6%9E%97%E7%85%A7",
     "timestamp": "2026-09-28T14:24:16.436Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運2026｜港隊添兩銅總34面獎牌　羅淑佩恭賀乒乓球、電技運動員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181358191598899200904175.jpeg/srPf0Q6dGxPN4Nsn-qX8Uny73AmeF046aUB6hWlAeoU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394629/%E4%BA%9E%E9%81%8B2026-%E6%B8%AF%E9%9A%8A%E6%B7%BB%E5%85%A9%E9%8A%85%E7%B8%BD34%E9%9D%A2%E7%8D%8E%E7%89%8C-%E7%BE%85%E6%B7%91%E4%BD%A9%E6%81%AD%E8%B3%80%E4%B9%92%E4%B9%93%E7%90%83-%E9%9B%BB%E6%8A%80%E9%81%8B%E5%8B%95%E5%93%A1",
-    "timestamp": "2026-09-28T14:01:34.139Z",
     "strategy": ".content-card__main"
   }
 ];
