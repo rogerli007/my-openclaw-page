@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T09:34:52.126Z
+// Last updated: 2026-09-28T10:23:07.828Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運男籃｜台老將胡瓏貿澄清無退役打算　「中華隊需要我一定到」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181266826550579200581924.png/ffuNbKu9KMlVM1kxpPEFfmfFCfcIgX8kw9eOesPXjno?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60394439/%E4%BA%9E%E9%81%8B%E7%94%B7%E7%B1%83-%E5%8F%B0%E8%80%81%E5%B0%87%E8%83%A1%E7%93%8F%E8%B2%BF%E6%BE%84%E6%B8%85%E7%84%A1%E9%80%80%E5%BD%B9%E6%89%93%E7%AE%97-%E4%B8%AD%E8%8F%AF%E9%9A%8A%E9%9C%80%E8%A6%81%E6%88%91%E4%B8%80%E5%AE%9A%E5%88%B0",
+    "timestamp": "2026-09-28T10:23:07.828Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳皇崗口岸外圍市政工程通過驗收　已具備通車條件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181091168230838272607351.jpeg/t0uh0LZMhGq0aDUF58CH4BTG-rAfWJwSueGsMrnhrDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394288/%E6%AD%A6%E5%A5%91%E5%A5%87%E8%BE%AD%E5%8E%BB%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B8%BD%E7%B5%B1%E8%81%B7%E5%8B%99-%E6%BA%96%E5%82%99%E7%AB%B6%E9%80%90%E4%B8%8B%E5%B1%86%E6%94%BF%E5%BA%9C%E7%B8%BD%E7%90%86",
     "timestamp": "2026-09-27T21:43:12.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "武契奇辭去塞爾維亞總統職務　準備競逐下屆政府總理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181091168230838272607351.jpeg/t0uh0LZMhGq0aDUF58CH4BTG-rAfWJwSueGsMrnhrDI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394288/%E6%AD%A6%E5%A5%91%E5%A5%87%E8%BE%AD%E5%8E%BB%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E7%B8%BD%E7%B5%B1%E8%81%B7%E5%8B%99-%E6%BA%96%E5%82%99%E7%AB%B6%E9%80%90%E4%B8%8B%E5%B1%86%E6%94%BF%E5%BA%9C%E7%B8%BD%E7%90%86",
-    "timestamp": "2026-09-27T21:34:45.189Z",
     "strategy": ".content-card__main"
   }
 ];
