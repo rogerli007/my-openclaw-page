@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T07:56:01.216Z
+// Last updated: 2026-09-28T08:35:20.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》十周年｜慶祝酒會圓滿舉行 政商名人雲集共證變革里程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181262785896517632905824.jpeg/9LMv8pQW9PjUbqbmD72WfA2mkWMSjn0C-85rMPvOazA",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394472/%E9%A6%99%E6%B8%AF01-%E5%8D%81%E5%91%A8%E5%B9%B4-%E6%85%B6%E7%A5%9D%E9%85%92%E6%9C%83%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C-%E6%94%BF%E5%95%86%E5%90%8D%E4%BA%BA%E9%9B%B2%E9%9B%86%E5%85%B1%E8%AD%89%E8%AE%8A%E9%9D%A9%E9%87%8C%E7%A8%8B",
+    "timestamp": "2026-09-28T08:35:20.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "JFFT工作室失火大批消防到場　IG報平安：人無事先做到世界冠軍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181064719172112384683091.jpeg/-uzKGx8UMi8tTW1Tgk43M8J40FhSXaUwHFNSqxxTUqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394285/%E8%8B%B1%E5%9C%8B%E6%8B%985%E4%BA%BA%E6%B6%89%E5%9C%96%E6%81%90%E8%A5%B2%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E5%A0%B1%E6%A1%88%E8%BE%B2%E6%88%B6%E5%A4%9C%E8%A6%8B3%E8%BC%9B%E5%8F%AF%E7%96%91%E8%B2%A8%E8%BB%8A%E5%8F%8A%E8%92%99%E9%9D%A2%E7%94%B7",
     "timestamp": "2026-09-27T20:46:00.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國拘5人涉圖恐襲美軍基地　報案農戶夜見3輛可疑貨車及蒙面男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181064719172112384683091.jpeg/-uzKGx8UMi8tTW1Tgk43M8J40FhSXaUwHFNSqxxTUqs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394285/%E8%8B%B1%E5%9C%8B%E6%8B%985%E4%BA%BA%E6%B6%89%E5%9C%96%E6%81%90%E8%A5%B2%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E5%A0%B1%E6%A1%88%E8%BE%B2%E6%88%B6%E5%A4%9C%E8%A6%8B3%E8%BC%9B%E5%8F%AF%E7%96%91%E8%B2%A8%E8%BB%8A%E5%8F%8A%E8%92%99%E9%9D%A2%E7%94%B7",
-    "timestamp": "2026-09-27T20:33:53.420Z",
     "strategy": ".content-card__main"
   }
 ];
