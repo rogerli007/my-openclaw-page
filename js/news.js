@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T11:44:40.320Z
+// Last updated: 2026-09-29T12:31:39.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅啟豪「全黑之旅」體驗直呼不安　聯同中年好聲音三兄弟10月開騷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181635829060079616049657.jpeg/O3XehA5IFbwbVd1mzw8pOlRJoF27Q1hHZ7L7emey-3o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394844/%E7%BE%85%E5%95%9F%E8%B1%AA-%E5%85%A8%E9%BB%91%E4%B9%8B%E6%97%85-%E9%AB%94%E9%A9%97%E7%9B%B4%E5%91%BC%E4%B8%8D%E5%AE%89-%E8%81%AF%E5%90%8C%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3%E4%B8%89%E5%85%84%E5%BC%9F10%E6%9C%88%E9%96%8B%E9%A8%B7",
+    "timestamp": "2026-09-29T12:31:39.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "熟齡女性腳型會改變挑鞋要注意　專業選鞋師揭挑選誤區+買鞋關鍵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181375617153634304947036.jpeg/k_4i1Xxm7dUdSmzzpi1ZAwR5UXOf2kNFlu7Lo6zuy6M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394640/%E9%80%A3%E9%8E%96%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83%E9%A9%9A%E7%88%86%E6%9B%B4%E8%A1%A3%E5%AE%A4%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-%E5%B8%B8%E5%AE%A2%E9%99%B3%E6%9B%89%E8%8F%AF-%E6%8F%9B%E8%A1%AB%E7%94%A8%E5%A4%96%E5%A5%97%E5%8C%85%E4%BD%8F",
     "timestamp": "2026-09-29T01:36:37.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田健身中心假天花藏針孔鏡頭　王菲驚呼：呢個人都幾大膽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181346142823124992297518.jpeg/7kxl9rBQxFqshyf7jSRs8inNVMqHsa1UcR2wdEsdsHQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394623/%E6%B2%99%E7%94%B0%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83%E5%81%87%E5%A4%A9%E8%8A%B1%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-%E7%8E%8B%E8%8F%B2%E9%A9%9A%E5%91%BC-%E5%91%A2%E5%80%8B%E4%BA%BA%E9%83%BD%E5%B9%BE%E5%A4%A7%E8%86%BD",
-    "timestamp": "2026-09-29T00:52:00.314Z",
     "strategy": ".content-card__main"
   }
 ];
