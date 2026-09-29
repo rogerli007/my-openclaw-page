@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T03:25:33.938Z
+// Last updated: 2026-09-29T03:49:52.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七旬退休婦情陷「電力公司」職員　花光積蓄兼借貸投資被騙$290萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181568843835772928369420.jpeg/Z5GaH91P9F5qN8SW8lGky68Ton4JDa4aAq_9JAKv_SQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394747/%E4%B8%83%E6%97%AC%E9%80%80%E4%BC%91%E5%A9%A6%E6%83%85%E9%99%B7-%E9%9B%BB%E5%8A%9B%E5%85%AC%E5%8F%B8-%E8%81%B7%E5%93%A1-%E8%8A%B1%E5%85%89%E7%A9%8D%E8%93%84%E5%85%BC%E5%80%9F%E8%B2%B8%E6%8A%95%E8%B3%87%E8%A2%AB%E9%A8%99-290%E8%90%AC",
+    "timestamp": "2026-09-29T03:49:52.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AMD斥82億美元收購World Labs　「AI教母」李飛飛將任執行副總裁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
     "timestamp": "2026-09-28T17:57:09.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
-    "timestamp": "2026-09-28T17:48:18.822Z",
     "strategy": ".content-card__main"
   }
 ];
