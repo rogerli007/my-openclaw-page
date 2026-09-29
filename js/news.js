@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T16:59:43.416Z
+// Last updated: 2026-09-29T17:19:00.484Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟擬推歐版301工具　中國商務部：若設限必將堅決回應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102914374441373696058732.jpeg/8Tql5gJu4pUDO8QW6dc9YL22ombJD4hofc5LlX3OS5U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395018/%E6%AD%90%E7%9B%9F%E6%93%AC%E6%8E%A8%E6%AD%90%E7%89%88301%E5%B7%A5%E5%85%B7-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E8%8B%A5%E8%A8%AD%E9%99%90%E5%BF%85%E5%B0%87%E5%A0%85%E6%B1%BA%E5%9B%9E%E6%87%89",
+    "timestamp": "2026-09-29T17:19:00.484Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳傑莊首爾成立「亞洲Web3政策推動聯盟」冀明年多國加入擴生態圈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181623862819819520514829.jpeg/8k0E9Sz-DTfdMAc4cCciZ1kk3cMeHriSwORZrsDkWa4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60393494/%E9%85%92%E5%BA%97%E8%87%AA%E5%8A%A9%E9%A4%9010%E6%9C%88%E5%84%AA%E6%83%A014%E6%8E%A8%E4%BB%8B-%E8%B2%B71%E9%80%811-98%E8%B5%B7-%E4%BB%BB%E9%A3%9F%E9%BE%8D%E8%9D%A6-%E7%94%9F%E8%A0%94-%E9%AE%91%E9%AD%9A",
     "timestamp": "2026-09-29T07:33:13.510Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "62歲媽媽不懼眼光　染粉紅頭髮穿童裝：無論幾歲都不該被年齡束縛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179112927349706752543687.png/QU9r_-_CosSE174-PwOScd3nWcxXlAxDU0DxkVNA8ZE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60392578/62%E6%AD%B2%E5%AA%BD%E5%AA%BD%E4%B8%8D%E6%87%BC%E7%9C%BC%E5%85%89-%E6%9F%93%E7%B2%89%E7%B4%85%E9%A0%AD%E9%AB%AE%E7%A9%BF%E7%AB%A5%E8%A3%9D-%E7%84%A1%E8%AB%96%E5%B9%BE%E6%AD%B2%E9%83%BD%E4%B8%8D%E8%A9%B2%E8%A2%AB%E5%B9%B4%E9%BD%A1%E6%9D%9F%E7%B8%9B",
-    "timestamp": "2026-09-29T07:03:43.325Z",
     "strategy": ".content-card__main"
   }
 ];
