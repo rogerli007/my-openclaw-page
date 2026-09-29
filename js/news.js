@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T11:20:22.578Z
+// Last updated: 2026-09-29T11:44:40.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "熟齡女性腳型會改變挑鞋要注意　專業選鞋師揭挑選誤區+買鞋關鍵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177682420120424448925604.jpeg/Z5KmqTAKL8FEMMjDEZ9lLZ6ZGwqUVrADTS1pFk0taRY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60391425/%E7%86%9F%E9%BD%A1%E5%A5%B3%E6%80%A7%E8%85%B3%E5%9E%8B%E6%9C%83%E6%94%B9%E8%AE%8A%E6%8C%91%E9%9E%8B%E8%A6%81%E6%B3%A8%E6%84%8F-%E5%B0%88%E6%A5%AD%E9%81%B8%E9%9E%8B%E5%B8%AB%E6%8F%AD%E6%8C%91%E9%81%B8%E8%AA%A4%E5%8D%80-%E8%B2%B7%E9%9E%8B%E9%97%9C%E9%8D%B5",
+    "timestamp": "2026-09-29T11:44:40.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "草莓音樂節｜李幸倪唱八首歌黑幾度　泳兒唱歌唱一半竟被嗌Encore",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181346142823124992297518.jpeg/7kxl9rBQxFqshyf7jSRs8inNVMqHsa1UcR2wdEsdsHQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394623/%E6%B2%99%E7%94%B0%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83%E5%81%87%E5%A4%A9%E8%8A%B1%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-%E7%8E%8B%E8%8F%B2%E9%A9%9A%E5%91%BC-%E5%91%A2%E5%80%8B%E4%BA%BA%E9%83%BD%E5%B9%BE%E5%A4%A7%E8%86%BD",
     "timestamp": "2026-09-29T00:52:00.314Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普否認曾向習近平兜售美國軍備　稱「沒討論過」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180067110844370944702458.jpeg/K3oxaRQpZVkJ5MmYDLeSxhSd_KdaUex-0fYkA9H2JAM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394669/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AA%8D%E6%9B%BE%E5%90%91%E7%BF%92%E8%BF%91%E5%B9%B3%E5%85%9C%E5%94%AE%E7%BE%8E%E5%9C%8B%E8%BB%8D%E5%82%99-%E7%A8%B1-%E6%B2%92%E8%A8%8E%E8%AB%96%E9%81%8E",
-    "timestamp": "2026-09-28T23:55:13.154Z",
     "strategy": ".content-card__main"
   }
 ];
