@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T22:20:55.148Z
+// Last updated: 2026-09-29T22:44:07.297Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港第一代花美男近照曝光顏值崩壞　濃妝震撼眼球：變得陰陽怪氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181672461268160512376049.jpeg/Fff7yRgOCUFX2sVl6Jc2ShZ64u7YpxDY5v-oneb_qJ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394886/%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E4%BB%A3%E8%8A%B1%E7%BE%8E%E7%94%B7%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E9%A1%8F%E5%80%BC%E5%B4%A9%E5%A3%9E-%E6%BF%83%E5%A6%9D%E9%9C%87%E6%92%BC%E7%9C%BC%E7%90%83-%E8%AE%8A%E5%BE%97%E9%99%B0%E9%99%BD%E6%80%AA%E6%B0%A3",
+    "timestamp": "2026-09-29T22:44:07.297Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美加物價大逆轉？華人跨境消費避險攻略　一文睇清差價與稅項規則",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181741444264628224169207.jpeg/MHDGSYNklS4p2H5jNHlNfxtQ7GShWLI5j-E9uo_hPbo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395010/%E8%91%B5%E6%B6%8C%E5%B7%A5%E5%BB%88%E8%AE%8A%E7%A7%81%E7%85%99%E5%92%8C%E5%8A%A0%E7%86%B1%E7%85%99%E5%84%B2%E5%AD%98%E5%80%89-%E6%B5%B7%E9%97%9C%E6%AA%A2-107%E8%90%AC%E8%B2%A8-23%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-29T15:21:25.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趙今麥魏大勛《無可替代》開播！解析5大看點　男女主角商戰博弈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181644244788449280043976.png/6fWg4wJ80rVaNcMPpEV89THq9KGoetW1MvyuJTL8riU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394829/%E8%B6%99%E4%BB%8A%E9%BA%A5%E9%AD%8F%E5%A4%A7%E5%8B%9B-%E7%84%A1%E5%8F%AF%E6%9B%BF%E4%BB%A3-%E9%96%8B%E6%92%AD-%E8%A7%A3%E6%9E%905%E5%A4%A7%E7%9C%8B%E9%BB%9E-%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92%E5%95%86%E6%88%B0%E5%8D%9A%E5%BC%88",
-    "timestamp": "2026-09-29T14:48:30.034Z",
     "strategy": ".content-card__main"
   }
 ];
