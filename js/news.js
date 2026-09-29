@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T16:23:53.876Z
+// Last updated: 2026-09-29T16:48:26.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀爆樽施襲｜5漢乘車將隧入口被截獲拘捕　另有2男同黨仍在逃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181763732238241792572891.jpeg/sEqfmXyvPzZDne_7RiVQpGVNv-IhKVk302MrpeljK6U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395019/%E5%B0%96%E6%B2%99%E5%92%80%E7%88%86%E6%A8%BD%E6%96%BD%E8%A5%B2-5%E6%BC%A2%E4%B9%98%E8%BB%8A%E5%B0%87%E9%9A%A7%E5%85%A5%E5%8F%A3%E8%A2%AB%E6%88%AA%E7%8D%B2%E6%8B%98%E6%8D%95-%E5%8F%A6%E6%9C%892%E7%94%B7%E5%90%8C%E9%BB%A8%E4%BB%8D%E5%9C%A8%E9%80%83",
+    "timestamp": "2026-09-29T16:48:26.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Lisa頒獎禮造型被指似公雞穿搭一言難盡　鼻子再進化網民勸收手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181578976842223616428697.jpeg/t1Vw5sQL4fH-dsCw1h0CWDoH7jTncVHw-Cqw_fgqsP0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394767/%E7%A6%8F%E5%BB%BA%E5%85%83%E4%BB%A3%E6%B2%89%E8%88%B9%E6%92%88%E5%87%BA17223%E4%BB%B6%E6%96%87%E7%89%A9-%E9%BE%8D%E6%B3%89%E9%9D%92%E7%93%B7-%E6%95%B8%E9%87%8F%E5%B1%85%E5%85%A8%E7%90%83%E6%B2%89%E8%88%B9%E4%B9%8B%E9%A6%96",
     "timestamp": "2026-09-29T06:34:04.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美容師賣兩女子去KK園區　求情稱不涉恐嚇　官怒斥持槍也叫無恐嚇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956282253367840768108436.jpeg/CL20FyY8T_8_2-81vUkjwEBskaS-YhpB8zSpoPM0qaA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394804/%E7%BE%8E%E5%AE%B9%E5%B8%AB%E8%B3%A3%E5%85%A9%E5%A5%B3%E5%AD%90%E5%8E%BBkk%E5%9C%92%E5%8D%80-%E6%B1%82%E6%83%85%E7%A8%B1%E4%B8%8D%E6%B6%89%E6%81%90%E5%9A%87-%E5%AE%98%E6%80%92%E6%96%A5%E6%8C%81%E6%A7%8D%E4%B9%9F%E5%8F%AB%E7%84%A1%E6%81%90%E5%9A%87",
-    "timestamp": "2026-09-29T05:57:57.519Z",
     "strategy": ".content-card__main"
   }
 ];
