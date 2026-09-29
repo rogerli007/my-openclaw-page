@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T04:48:44.204Z
+// Last updated: 2026-09-29T05:00:20.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Anthropic招股書首曝光　去年營收增12倍惟仍虧損高達3295億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394761/anthropic%E6%8B%9B%E8%82%A1%E6%9B%B8%E9%A6%96%E6%9B%9D%E5%85%89-%E5%8E%BB%E5%B9%B4%E7%87%9F%E6%94%B6%E5%A2%9E12%E5%80%8D%E6%83%9F%E4%BB%8D%E8%99%A7%E6%90%8D%E9%AB%98%E9%81%943295%E5%84%84%E5%85%83",
+    "timestamp": "2026-09-29T05:00:20.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "為獨佔母愛　吉林30歲漢啤酒投毒害表哥　連累4店員中毒判囚6年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181431286183497728476820.jpeg/z2bfWKNTsonPDGnElt9oN60UDgSCw4YIGR_qMhkf6jI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60394654/%E5%A4%A9%E6%B0%A3%E9%81%8E%E5%B1%B1%E8%BB%8A-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E4%B8%8934%E5%BA%A6-%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A8%E5%9C%8B%E6%85%B6%E6%97%A5%E5%88%B0-%E4%B8%8B%E5%91%A8%E4%BA%8C24%E5%BA%A6",
     "timestamp": "2026-09-28T19:44:53.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穆傑塔巴：伊朗已變得獨立強大　西方干涉事務的時代已永遠終結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139768973538103296601237.jpeg/Vic223ihRx2sovBoYb8WV4XgvCC2VauRSi3bxEot28Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394653/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4-%E4%BC%8A%E6%9C%97%E5%B7%B2%E8%AE%8A%E5%BE%97%E7%8D%A8%E7%AB%8B%E5%BC%B7%E5%A4%A7-%E8%A5%BF%E6%96%B9%E5%B9%B2%E6%B6%89%E4%BA%8B%E5%8B%99%E7%9A%84%E6%99%82%E4%BB%A3%E5%B7%B2%E6%B0%B8%E9%81%A0%E7%B5%82%E7%B5%90",
-    "timestamp": "2026-09-28T19:17:34.077Z",
     "strategy": ".content-card__main"
   }
 ];
