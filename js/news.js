@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T08:57:46.040Z
+// Last updated: 2026-09-29T10:00:07.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油塘擎海I首批時光倒流10年前　代理：料可一Q清枱、有提價空間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178728823189934080063528.jpeg/IhJzuDjwU53q-vQnYEfanQkuR_y5-SmMWmahGFpmoRg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60394935/%E6%B2%B9%E5%A1%98%E6%93%8E%E6%B5%B7i%E9%A6%96%E6%89%B9%E6%99%82%E5%85%89%E5%80%92%E6%B5%8110%E5%B9%B4%E5%89%8D-%E4%BB%A3%E7%90%86-%E6%96%99%E5%8F%AF%E4%B8%80q%E6%B8%85%E6%9E%B1-%E6%9C%89%E6%8F%90%E5%83%B9%E7%A9%BA%E9%96%93",
+    "timestamp": "2026-09-29T10:00:07.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華僑香港首八月財管業務增逾40% 　明年望升雙位數增聘百名員工",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2511360/org/f4d4028de7ec8b7eab363e94f6bb377f.JPG/aQlU6LTzA2HOadYTfvFGDUNIm70qU-Jtb6-5DG-vuQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60394671/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E5%85%89%E9%80%9A%E4%BF%A1%E7%BD%95%E8%A6%8B%E9%9B%86%E9%AB%94%E6%9A%B4%E8%B7%8C-%E5%88%B0%E5%BA%95%E6%80%8E%E9%BA%BC%E7%9C%8B",
     "timestamp": "2026-09-28T23:33:56.545Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一五規劃｜北都大學城破創科痛點　「改壞名」模糊經濟轉型願景？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181376197280403456047369.jpeg/OqpJ5lJBwckCq4BxWYFHOq_ZCmjiap3kAT1LuQE9S7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60392932/%E4%B8%80%E4%BA%94%E8%A6%8F%E5%8A%83-%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E%E7%A0%B4%E5%89%B5%E7%A7%91%E7%97%9B%E9%BB%9E-%E6%94%B9%E5%A3%9E%E5%90%8D-%E6%A8%A1%E7%B3%8A%E7%B6%93%E6%BF%9F%E8%BD%89%E5%9E%8B%E9%A1%98%E6%99%AF",
-    "timestamp": "2026-09-28T23:19:43.979Z",
     "strategy": ".content-card__main"
   }
 ];
