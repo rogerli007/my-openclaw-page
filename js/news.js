@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T16:03:14.192Z
+// Last updated: 2026-09-29T16:23:53.876Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Lisa頒獎禮造型被指似公雞穿搭一言難盡　鼻子再進化網民勸收手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181680107245277184752086.jpeg/DwvImKR3kgsig7xz735I-q7c6TmhMcl37fDrqu3w66o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394790/lisa%E9%A0%92%E7%8D%8E%E7%A6%AE%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%BC%BC%E5%85%AC%E9%9B%9E%E7%A9%BF%E6%90%AD%E4%B8%80%E8%A8%80%E9%9B%A3%E7%9B%A1-%E9%BC%BB%E5%AD%90%E5%86%8D%E9%80%B2%E5%8C%96%E7%B6%B2%E6%B0%91%E5%8B%B8%E6%94%B6%E6%89%8B",
+    "timestamp": "2026-09-29T16:23:53.876Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "RubberBand斥資日本錄新碟　驚喜賀6號生日　泥鯭發福︰幸福脹大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956282253367840768108436.jpeg/CL20FyY8T_8_2-81vUkjwEBskaS-YhpB8zSpoPM0qaA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394804/%E7%BE%8E%E5%AE%B9%E5%B8%AB%E8%B3%A3%E5%85%A9%E5%A5%B3%E5%AD%90%E5%8E%BBkk%E5%9C%92%E5%8D%80-%E6%B1%82%E6%83%85%E7%A8%B1%E4%B8%8D%E6%B6%89%E6%81%90%E5%9A%87-%E5%AE%98%E6%80%92%E6%96%A5%E6%8C%81%E6%A7%8D%E4%B9%9F%E5%8F%AB%E7%84%A1%E6%81%90%E5%9A%87",
     "timestamp": "2026-09-29T05:57:57.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水阿叔坐電動輪椅駛出馬路！路口停定等綠燈開車　或已犯2宗罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180008386779942912645170.png/BnT5YxBtdGLLztNTJ0wFMeqJvSUsX8rPYJwZ1GCcGdQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393540/%E4%B8%8A%E6%B0%B4%E9%98%BF%E5%8F%94%E5%9D%90%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85%E9%A7%9B%E5%87%BA%E9%A6%AC%E8%B7%AF-%E8%B7%AF%E5%8F%A3%E5%81%9C%E5%AE%9A%E7%AD%89%E7%B6%A0%E7%87%88%E9%96%8B%E8%BB%8A-%E6%88%96%E5%B7%B2%E7%8A%AF2%E5%AE%97%E7%BD%AA",
-    "timestamp": "2026-09-29T05:22:58.512Z",
     "strategy": ".content-card__main"
   }
 ];
