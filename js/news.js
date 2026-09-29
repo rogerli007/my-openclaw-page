@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T02:41:50.860Z
+// Last updated: 2026-09-29T03:00:11.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇崗口岸交通｜深圳5條巴士線直達聯檢樓　港深巴士地鐵接駁清單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164248016912125952915206.png/9aKeR960_lXkpo7jMhcUomJAk_-bvHm_NArzvzQK878?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60367003/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A-%E6%B7%B1%E5%9C%B35%E6%A2%9D%E5%B7%B4%E5%A3%AB%E7%B7%9A%E7%9B%B4%E9%81%94%E8%81%AF%E6%AA%A2%E6%A8%93-%E6%B8%AF%E6%B7%B1%E5%B7%B4%E5%A3%AB%E5%9C%B0%E9%90%B5%E6%8E%A5%E9%A7%81%E6%B8%85%E5%96%AE",
+    "timestamp": "2026-09-29T03:00:11.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍鬥毆內幕｜黑幫合作賣太空油　有人疑過橋抽板　警拘3人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
     "timestamp": "2026-09-28T17:34:35.403Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026關注流舞蹈大賽香港賽區成功舉辦　沈小婷申智珉同場勁舞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181344500446924800327910.jpeg/EEinhpFPnNaxmlEGvcR-2an8HZuUqSAgAqznHwKs5x8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394620/2026%E9%97%9C%E6%B3%A8%E6%B5%81%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD%E9%A6%99%E6%B8%AF%E8%B3%BD%E5%8D%80%E6%88%90%E5%8A%9F%E8%88%89%E8%BE%A6-%E6%B2%88%E5%B0%8F%E5%A9%B7%E7%94%B3%E6%99%BA%E7%8F%89%E5%90%8C%E5%A0%B4%E5%8B%81%E8%88%9E",
-    "timestamp": "2026-09-28T16:57:43.761Z",
     "strategy": ".content-card__main"
   }
 ];
