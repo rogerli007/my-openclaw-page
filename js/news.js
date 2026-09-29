@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T23:32:25.959Z
+// Last updated: 2026-09-29T23:44:17.876Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜英偉達1500億創紀錄回購　為何美股巨頭愈賺愈「買」？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165453084583792640924730.jpeg/9tHs-nECaTDNRj7tIWFcC_5KoZmXT11UKJxkEyicZBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60395043/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%8B%B1%E5%81%89%E9%81%941500%E5%84%84%E5%89%B5%E7%B4%80%E9%8C%84%E5%9B%9E%E8%B3%BC-%E7%82%BA%E4%BD%95%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%A0%AD%E6%84%88%E8%B3%BA%E6%84%88-%E8%B2%B7",
+    "timestamp": "2026-09-29T23:44:17.876Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田水泉澳邨單位起火　4人受傷　疏散約60人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181680107245277184752086.jpeg/DwvImKR3kgsig7xz735I-q7c6TmhMcl37fDrqu3w66o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394790/lisa%E9%A0%92%E7%8D%8E%E7%A6%AE%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%BC%BC%E5%85%AC%E9%9B%9E%E7%A9%BF%E6%90%AD%E4%B8%80%E8%A8%80%E9%9B%A3%E7%9B%A1-%E9%BC%BB%E5%AD%90%E5%86%8D%E9%80%B2%E5%8C%96%E7%B6%B2%E6%B0%91%E5%8B%B8%E6%94%B6%E6%89%8B",
     "timestamp": "2026-09-29T16:23:53.876Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "RubberBand斥資日本錄新碟　驚喜賀6號生日　泥鯭發福︰幸福脹大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181743237136650240601823.jpeg/k-HyMOTZacCVHwYFUy5-WoCQ1vBz6BTBdmZmWnZmZlo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60395004/rubberband%E6%96%A5%E8%B3%87%E6%97%A5%E6%9C%AC%E9%8C%84%E6%96%B0%E7%A2%9F-%E9%A9%9A%E5%96%9C%E8%B3%806%E8%99%9F%E7%94%9F%E6%97%A5-%E6%B3%A5%E9%AF%AD%E7%99%BC%E7%A6%8F-%E5%B9%B8%E7%A6%8F%E8%84%B9%E5%A4%A7",
-    "timestamp": "2026-09-29T16:03:14.192Z",
     "strategy": ".content-card__main"
   }
 ];
