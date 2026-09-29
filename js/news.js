@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T07:03:43.325Z
+// Last updated: 2026-09-29T07:33:13.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "酒店自助餐10月優惠14推介｜買1送1$98起！任食龍蝦／生蠔／鮑魚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181623862819819520514829.jpeg/8k0E9Sz-DTfdMAc4cCciZ1kk3cMeHriSwORZrsDkWa4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60393494/%E9%85%92%E5%BA%97%E8%87%AA%E5%8A%A9%E9%A4%9010%E6%9C%88%E5%84%AA%E6%83%A014%E6%8E%A8%E4%BB%8B-%E8%B2%B71%E9%80%811-98%E8%B5%B7-%E4%BB%BB%E9%A3%9F%E9%BE%8D%E8%9D%A6-%E7%94%9F%E8%A0%94-%E9%AE%91%E9%AD%9A",
+    "timestamp": "2026-09-29T07:33:13.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "62歲媽媽不懼眼光　染粉紅頭髮穿童裝：無論幾歲都不該被年齡束縛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181369245921972224614523.jpeg/3vF4NtnON_3J_nNL02vj2ssz1jzlb_1pfXeG-H13hvg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394585/%E6%96%B9%E4%B8%AD%E4%BF%A1%E5%A8%B6%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E4%BD%8F%E9%80%BE4%E5%8D%83%E8%90%AC%E8%A5%BF%E8%B2%A2%E8%B1%AA%E5%AE%85-63%E6%AD%B2%E6%AD%8E%E8%8C%B6%E8%A8%98%E8%88%87%E8%80%81%E5%8F%8B%E8%B2%BC%E5%9C%B0%E5%90%B9%E6%B0%B4",
     "timestamp": "2026-09-28T22:42:32.476Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱美官員與斡旋方會談　美國很快會贏得對伊戰事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181468403781603328851793.jpeg/Y-wBlUAWp_m3OqNnC6kPFeiHmkKwgcrDFIqYFRSKmBU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394666/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BE%8E%E5%AE%98%E5%93%A1%E8%88%87%E6%96%A1%E6%97%8B%E6%96%B9%E6%9C%83%E8%AB%87-%E7%BE%8E%E5%9C%8B%E5%BE%88%E5%BF%AB%E6%9C%83%E8%B4%8F%E5%BE%97%E5%B0%8D%E4%BC%8A%E6%88%B0%E4%BA%8B",
-    "timestamp": "2026-09-28T21:54:45.564Z",
     "strategy": ".content-card__main"
   }
 ];
