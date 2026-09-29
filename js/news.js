@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T13:59:47.520Z
+// Last updated: 2026-09-29T14:21:47.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧龍威返港前受訪　獄中熬26年靠「阿Q精神」　脫下囚衣會心微笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5306122/org/9c0cb4d2079528711a3376b19deb2a09.jpg/gX80MmXFaETXcrozrSyVzEWeux-_c7UM_Tuqy_07qss?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395007/%E9%84%A7%E9%BE%8D%E5%A8%81%E8%BF%94%E6%B8%AF%E5%89%8D%E5%8F%97%E8%A8%AA-%E7%8D%84%E4%B8%AD%E7%86%AC26%E5%B9%B4%E9%9D%A0-%E9%98%BFq%E7%B2%BE%E7%A5%9E-%E8%84%AB%E4%B8%8B%E5%9B%9A%E8%A1%A3%E6%9C%83%E5%BF%83%E5%BE%AE%E7%AC%91",
+    "timestamp": "2026-09-29T14:21:47.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周志康生日開工度過獲好友慶生　11月與孖生兄弟周志文首開演唱會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181568843835772928369420.jpeg/Z5GaH91P9F5qN8SW8lGky68Ton4JDa4aAq_9JAKv_SQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394747/%E4%B8%83%E6%97%AC%E9%80%80%E4%BC%91%E5%A9%A6%E6%83%85%E9%99%B7-%E9%9B%BB%E5%8A%9B%E5%85%AC%E5%8F%B8-%E8%81%B7%E5%93%A1-%E8%8A%B1%E5%85%89%E7%A9%8D%E8%93%84%E5%85%BC%E5%80%9F%E8%B2%B8%E6%8A%95%E8%B3%87%E8%A2%AB%E9%A8%99-290%E8%90%AC",
     "timestamp": "2026-09-29T03:49:52.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AMD斥82億美元收購World Labs　「AI教母」李飛飛將任執行副總裁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021899937639567360940726.jpeg/lPRjksT1UYEWzNgk9L8VbWbCVrEW77j2Dtf3pw7X96c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60394701/amd%E6%96%A582%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E8%B3%BCworld-labs-ai%E6%95%99%E6%AF%8D-%E6%9D%8E%E9%A3%9B%E9%A3%9B%E5%B0%87%E4%BB%BB%E5%9F%B7%E8%A1%8C%E5%89%AF%E7%B8%BD%E8%A3%81",
-    "timestamp": "2026-09-29T03:25:33.938Z",
     "strategy": ".content-card__main"
   }
 ];
