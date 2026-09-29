@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T18:26:17.476Z
+// Last updated: 2026-09-29T18:50:10.440Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗革命衛隊致函美國選民　籲中期選舉拒絕特朗普",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
+    "timestamp": "2026-09-29T18:50:10.440Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗革命衛隊致函美國選民　籲中期選舉拒絕特朗普",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181630686319087616256380.jpeg/6SA6gFLGzo_4cdyYtkhxSBhJu8A2fMJK1NtrM9TbazM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394873/%E8%8D%89%E8%8E%93%E9%9F%B3%E6%A8%82%E7%AF%80-%E6%9D%8E%E5%B9%B8%E5%80%AA%E5%94%B1%E5%85%AB%E9%A6%96%E6%AD%8C%E9%BB%91%E5%B9%BE%E5%BA%A6-%E6%B3%B3%E5%85%92%E5%94%B1%E6%AD%8C%E5%94%B1%E4%B8%80%E5%8D%8A%E7%AB%9F%E8%A2%AB%E5%97%8Cencore",
     "timestamp": "2026-09-29T11:20:22.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油塘擎海I首批時光倒流10年前　代理：料可一Q清枱、有提價空間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260921/1178728823189934080063528.jpeg/IhJzuDjwU53q-vQnYEfanQkuR_y5-SmMWmahGFpmoRg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60394935/%E6%B2%B9%E5%A1%98%E6%93%8E%E6%B5%B7i%E9%A6%96%E6%89%B9%E6%99%82%E5%85%89%E5%80%92%E6%B5%8110%E5%B9%B4%E5%89%8D-%E4%BB%A3%E7%90%86-%E6%96%99%E5%8F%AF%E4%B8%80q%E6%B8%85%E6%9E%B1-%E6%9C%89%E6%8F%90%E5%83%B9%E7%A9%BA%E9%96%93",
-    "timestamp": "2026-09-29T10:00:07.163Z",
     "strategy": ".content-card__main"
   }
 ];
