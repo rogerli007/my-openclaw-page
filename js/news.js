@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T12:31:39.707Z
+// Last updated: 2026-09-29T12:58:45.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭香如故｜劉學義被洗白、譚松韻去重生設定！原著作者轟編劇魔改",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181633854847324160485706.png/iA0Uymh68hHMCU45FKc6-Xby3CPzrPcIdaF2NXWhdjU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394851/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E5%8A%89%E5%AD%B8%E7%BE%A9%E8%A2%AB%E6%B4%97%E7%99%BD-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%8E%BB%E9%87%8D%E7%94%9F%E8%A8%AD%E5%AE%9A-%E5%8E%9F%E8%91%97%E4%BD%9C%E8%80%85%E8%BD%9F%E7%B7%A8%E5%8A%87%E9%AD%94%E6%94%B9",
+    "timestamp": "2026-09-29T12:58:45.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅啟豪「全黑之旅」體驗直呼不安　聯同中年好聲音三兄弟10月開騷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181542201285414912172930.jpeg/OtJ7sHbEC91kWVzcAGkkCxh1GYIFclPQojLxLaIy8S0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60394687/%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%8D%81%E5%85%AB%E5%A4%A7%E4%BB%A5%E4%BE%86-%E4%B8%AD%E5%9C%8B%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%AE%89%E5%85%A8%E7%9A%84%E5%9C%8B%E5%AE%B6%E4%B9%8B%E4%B8%80",
     "timestamp": "2026-09-29T02:06:08.735Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "連鎖健身中心驚爆更衣室藏針孔鏡頭　常客陳曉華：換衫用外套包住",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181375617153634304947036.jpeg/k_4i1Xxm7dUdSmzzpi1ZAwR5UXOf2kNFlu7Lo6zuy6M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394640/%E9%80%A3%E9%8E%96%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83%E9%A9%9A%E7%88%86%E6%9B%B4%E8%A1%A3%E5%AE%A4%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-%E5%B8%B8%E5%AE%A2%E9%99%B3%E6%9B%89%E8%8F%AF-%E6%8F%9B%E8%A1%AB%E7%94%A8%E5%A4%96%E5%A5%97%E5%8C%85%E4%BD%8F",
-    "timestamp": "2026-09-29T01:36:37.141Z",
     "strategy": ".content-card__main"
   }
 ];
