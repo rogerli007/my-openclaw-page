@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T21:43:21.313Z
+// Last updated: 2026-09-29T22:20:55.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美加物價大逆轉？華人跨境消費避險攻略　一文睇清差價與稅項規則",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181695856143765504814763.png/Ji0eIgM6WhsR-SER3VbeXGEf0k1ihfpDTJQ-WEyUPlg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393827/%E7%BE%8E%E5%8A%A0%E7%89%A9%E5%83%B9%E5%A4%A7%E9%80%86%E8%BD%89-%E8%8F%AF%E4%BA%BA%E8%B7%A8%E5%A2%83%E6%B6%88%E8%B2%BB%E9%81%BF%E9%9A%AA%E6%94%BB%E7%95%A5-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E5%B7%AE%E5%83%B9%E8%88%87%E7%A8%85%E9%A0%85%E8%A6%8F%E5%89%87",
+    "timestamp": "2026-09-29T22:20:55.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄戰略轟炸機遠東訓練時墜毀　機上6死1傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181644244788449280043976.png/6fWg4wJ80rVaNcMPpEV89THq9KGoetW1MvyuJTL8riU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394829/%E8%B6%99%E4%BB%8A%E9%BA%A5%E9%AD%8F%E5%A4%A7%E5%8B%9B-%E7%84%A1%E5%8F%AF%E6%9B%BF%E4%BB%A3-%E9%96%8B%E6%92%AD-%E8%A7%A3%E6%9E%905%E5%A4%A7%E7%9C%8B%E9%BB%9E-%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92%E5%95%86%E6%88%B0%E5%8D%9A%E5%BC%88",
     "timestamp": "2026-09-29T14:48:30.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧龍威返港前受訪　獄中熬26年靠「阿Q精神」　脫下囚衣會心微笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/5306122/org/9c0cb4d2079528711a3376b19deb2a09.jpg/gX80MmXFaETXcrozrSyVzEWeux-_c7UM_Tuqy_07qss?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395007/%E9%84%A7%E9%BE%8D%E5%A8%81%E8%BF%94%E6%B8%AF%E5%89%8D%E5%8F%97%E8%A8%AA-%E7%8D%84%E4%B8%AD%E7%86%AC26%E5%B9%B4%E9%9D%A0-%E9%98%BFq%E7%B2%BE%E7%A5%9E-%E8%84%AB%E4%B8%8B%E5%9B%9A%E8%A1%A3%E6%9C%83%E5%BF%83%E5%BE%AE%E7%AC%91",
-    "timestamp": "2026-09-29T14:21:47.546Z",
     "strategy": ".content-card__main"
   }
 ];
