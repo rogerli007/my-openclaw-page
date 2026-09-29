@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T05:57:57.519Z
+// Last updated: 2026-09-29T06:34:04.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福建元代沉船撈出17223件文物　「龍泉青瓷」數量居全球沉船之首",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181578976842223616428697.jpeg/t1Vw5sQL4fH-dsCw1h0CWDoH7jTncVHw-Cqw_fgqsP0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394767/%E7%A6%8F%E5%BB%BA%E5%85%83%E4%BB%A3%E6%B2%89%E8%88%B9%E6%92%88%E5%87%BA17223%E4%BB%B6%E6%96%87%E7%89%A9-%E9%BE%8D%E6%B3%89%E9%9D%92%E7%93%B7-%E6%95%B8%E9%87%8F%E5%B1%85%E5%85%A8%E7%90%83%E6%B2%89%E8%88%B9%E4%B9%8B%E9%A6%96",
+    "timestamp": "2026-09-29T06:34:04.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美容師賣兩女子去KK園區　求情稱不涉恐嚇　官怒斥持槍也叫無恐嚇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181466230775615488413976.jpeg/oUkGQtIS-yb4cguWSkkPOaNQiANSUmQ2_OKTyvzik8o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394664/%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98%E6%8E%A5%E7%B2%89%E6%9C%AB%E4%BF%A1-%E8%AD%A6%E5%90%8C%E6%97%A5%E6%97%BA%E8%A7%92%E6%8B%9824%E6%AD%B2%E7%94%B7%E6%B6%89%E5%88%91%E4%BA%8B%E6%81%90%E5%9A%87",
     "timestamp": "2026-09-28T21:02:27.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡男子用火機燒單車　警到場拘30歲巴裔男涉「縱火」等兩宗罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211204/543934216576962560765381.jpeg/XbWO82nMgI1h7H0vrNOsh8f8x4N4i38glXWXipV1l4o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394662/%E7%B4%85%E7%A3%A1%E7%94%B7%E5%AD%90%E7%94%A8%E7%81%AB%E6%A9%9F%E7%87%92%E5%96%AE%E8%BB%8A-%E8%AD%A6%E5%88%B0%E5%A0%B4%E6%8B%9830%E6%AD%B2%E5%B7%B4%E8%A3%94%E7%94%B7%E6%B6%89-%E7%B8%B1%E7%81%AB-%E7%AD%89%E5%85%A9%E5%AE%97%E7%BD%AA",
-    "timestamp": "2026-09-28T20:20:55.225Z",
     "strategy": ".content-card__main"
   }
 ];
