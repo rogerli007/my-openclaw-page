@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T12:58:45.833Z
+// Last updated: 2026-09-29T13:25:12.925Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中日聯合聲明54周年｜外交部批日本挑戰中國主權　促日方反思糾錯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181662338969767936796180.png/jNpxzrF6-hsP1cnkg_ADZrjvZYBiRxBcgVahgIFWoYA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60394945/%E4%B8%AD%E6%97%A5%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E54%E5%91%A8%E5%B9%B4-%E5%A4%96%E4%BA%A4%E9%83%A8%E6%89%B9%E6%97%A5%E6%9C%AC%E6%8C%91%E6%88%B0%E4%B8%AD%E5%9C%8B%E4%B8%BB%E6%AC%8A-%E4%BF%83%E6%97%A5%E6%96%B9%E5%8F%8D%E6%80%9D%E7%B3%BE%E9%8C%AF",
+    "timestamp": "2026-09-29T13:25:12.925Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭香如故｜劉學義被洗白、譚松韻去重生設定！原著作者轟編劇魔改",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181192149773848576504839.jpeg/ledy1Na8t2Fwd5SuX64673DKYKkdm-_AwBurN8Abqzc",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394696/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E9%AC%A5%E6%AF%86%E5%85%A7%E5%B9%95-%E9%BB%91%E5%B9%AB%E5%90%88%E4%BD%9C%E8%B3%A3%E5%A4%AA%E7%A9%BA%E6%B2%B9-%E6%9C%89%E4%BA%BA%E7%96%91%E9%81%8E%E6%A9%8B%E6%8A%BD%E6%9D%BF-%E8%AD%A6%E6%8B%983%E4%BA%BA",
     "timestamp": "2026-09-29T02:41:50.860Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平：十八大以來，中國成為世界上最安全的國家之一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181542201285414912172930.jpeg/OtJ7sHbEC91kWVzcAGkkCxh1GYIFclPQojLxLaIy8S0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60394687/%E7%BF%92%E8%BF%91%E5%B9%B3-%E5%8D%81%E5%85%AB%E5%A4%A7%E4%BB%A5%E4%BE%86-%E4%B8%AD%E5%9C%8B%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%AE%89%E5%85%A8%E7%9A%84%E5%9C%8B%E5%AE%B6%E4%B9%8B%E4%B8%80",
-    "timestamp": "2026-09-29T02:06:08.735Z",
     "strategy": ".content-card__main"
   }
 ];
