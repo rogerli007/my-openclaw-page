@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T17:19:00.484Z
+// Last updated: 2026-09-29T17:48:09.499Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗革命衛隊致函美國選民　籲中期選舉拒絕特朗普",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
+    "timestamp": "2026-09-29T17:48:09.499Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟擬推歐版301工具　中國商務部：若設限必將堅決回應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181616545227345920965273.png/OnQ0HoYoxoVqlhLLTfg9do-FuwmBrk4396zXSPes10g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394840/%E5%8D%81%E4%B8%80-%E5%9F%8E%E5%B7%B4%E6%8E%A8%E5%B0%8F%E7%AB%A5%E5%85%8D%E8%B2%BB%E6%90%AD%E8%BB%8A-14%E6%A2%9D%E8%B7%AF%E7%B7%9A%E5%8A%A0%E5%BC%B7%E6%9C%8D%E5%8B%99-%E5%8F%A6%E6%8E%A8%E9%A0%90%E7%B4%84%E9%96%8B%E7%AF%B7%E5%B7%B4%E5%A3%AB",
     "timestamp": "2026-09-29T08:29:05.035Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酒店自助餐10月優惠14推介｜買1送1$98起！任食龍蝦／生蠔／鮑魚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181623862819819520514829.jpeg/8k0E9Sz-DTfdMAc4cCciZ1kk3cMeHriSwORZrsDkWa4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60393494/%E9%85%92%E5%BA%97%E8%87%AA%E5%8A%A9%E9%A4%9010%E6%9C%88%E5%84%AA%E6%83%A014%E6%8E%A8%E4%BB%8B-%E8%B2%B71%E9%80%811-98%E8%B5%B7-%E4%BB%BB%E9%A3%9F%E9%BE%8D%E8%9D%A6-%E7%94%9F%E8%A0%94-%E9%AE%91%E9%AD%9A",
-    "timestamp": "2026-09-29T07:33:13.510Z",
     "strategy": ".content-card__main"
   }
 ];
