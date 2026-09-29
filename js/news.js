@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T04:24:58.597Z
+// Last updated: 2026-09-29T04:48:44.204Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "為獨佔母愛　吉林30歲漢啤酒投毒害表哥　連累4店員中毒判囚6年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181584427260579840690458.png/GHZXdc2rWc5c51MO638clhnrX6HghqefuLKNyriyjco?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60394756/%E7%82%BA%E7%8D%A8%E4%BD%94%E6%AF%8D%E6%84%9B-%E5%90%89%E6%9E%9730%E6%AD%B2%E6%BC%A2%E5%95%A4%E9%85%92%E6%8A%95%E6%AF%92%E5%AE%B3%E8%A1%A8%E5%93%A5-%E9%80%A3%E7%B4%AF4%E5%BA%97%E5%93%A1%E4%B8%AD%E6%AF%92%E5%88%A4%E5%9B%9A6%E5%B9%B4",
+    "timestamp": "2026-09-29T04:48:44.204Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秋天湯水食譜｜推介15款秋天滋潤湯水對抗秋老虎、潤肺止咳防便秘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139768973538103296601237.jpeg/Vic223ihRx2sovBoYb8WV4XgvCC2VauRSi3bxEot28Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394653/%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4-%E4%BC%8A%E6%9C%97%E5%B7%B2%E8%AE%8A%E5%BE%97%E7%8D%A8%E7%AB%8B%E5%BC%B7%E5%A4%A7-%E8%A5%BF%E6%96%B9%E5%B9%B2%E6%B6%89%E4%BA%8B%E5%8B%99%E7%9A%84%E6%99%82%E4%BB%A3%E5%B7%B2%E6%B0%B8%E9%81%A0%E7%B5%82%E7%B5%90",
     "timestamp": "2026-09-28T19:17:34.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
-    "timestamp": "2026-09-28T18:27:12.376Z",
     "strategy": ".content-card__main"
   }
 ];
