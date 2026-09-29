@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T23:19:34.818Z
+// Last updated: 2026-09-29T23:32:25.959Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田水泉澳邨單位起火　4人受傷　疏散約60人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220914/646808033132941312387095.jpeg/QIQ9mcdV2zQEGszaJBqt_n806IJ1Y3XxXYpwOV2KcDk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395040/%E6%B2%99%E7%94%B0%E6%B0%B4%E6%B3%89%E6%BE%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-4%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%8F%E6%95%A3%E7%B4%8460%E4%BA%BA",
+    "timestamp": "2026-09-29T23:32:25.959Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金與正斥韓國自導自演地雷事件　警告若開槍將報復打擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181743237136650240601823.jpeg/k-HyMOTZacCVHwYFUy5-WoCQ1vBz6BTBdmZmWnZmZlo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60395004/rubberband%E6%96%A5%E8%B3%87%E6%97%A5%E6%9C%AC%E9%8C%84%E6%96%B0%E7%A2%9F-%E9%A9%9A%E5%96%9C%E8%B3%806%E8%99%9F%E7%94%9F%E6%97%A5-%E6%B3%A5%E9%AF%AD%E7%99%BC%E7%A6%8F-%E5%B9%B8%E7%A6%8F%E8%84%B9%E5%A4%A7",
     "timestamp": "2026-09-29T16:03:14.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地單位傳異味　警方和消防揭屋內有超過20隻貓　聯絡貓主調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181749828753821696548713.jpeg/-m13_c-iqbPPpxr4V1zvzC6VYU3W2etsnQr6TKcK-kw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395012/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%96%AE%E4%BD%8D%E5%82%B3%E7%95%B0%E5%91%B3-%E8%AD%A6%E6%96%B9%E5%92%8C%E6%B6%88%E9%98%B2%E6%8F%AD%E5%B1%8B%E5%85%A7%E6%9C%89%E8%B6%85%E9%81%8E20%E9%9A%BB%E8%B2%93-%E8%81%AF%E7%B5%A1%E8%B2%93%E4%B8%BB%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-09-29T15:47:19.930Z",
     "strategy": ".content-card__main"
   }
 ];
