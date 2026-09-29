@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T15:21:25.116Z
+// Last updated: 2026-09-29T15:47:19.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地單位傳異味　警方和消防揭屋內有超過20隻貓　聯絡貓主調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181749828753821696548713.jpeg/-m13_c-iqbPPpxr4V1zvzC6VYU3W2etsnQr6TKcK-kw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395012/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%96%AE%E4%BD%8D%E5%82%B3%E7%95%B0%E5%91%B3-%E8%AD%A6%E6%96%B9%E5%92%8C%E6%B6%88%E9%98%B2%E6%8F%AD%E5%B1%8B%E5%85%A7%E6%9C%89%E8%B6%85%E9%81%8E20%E9%9A%BB%E8%B2%93-%E8%81%AF%E7%B5%A1%E8%B2%93%E4%B8%BB%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-09-29T15:47:19.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌工廈變私煙和加熱煙儲存倉　海關檢$107萬貨　23歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394761/anthropic%E6%8B%9B%E8%82%A1%E6%9B%B8%E9%A6%96%E6%9B%9D%E5%85%89-%E5%8E%BB%E5%B9%B4%E7%87%9F%E6%94%B6%E5%A2%9E12%E5%80%8D%E6%83%9F%E4%BB%8D%E8%99%A7%E6%90%8D%E9%AB%98%E9%81%943295%E5%84%84%E5%85%83",
     "timestamp": "2026-09-29T05:00:20.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "為獨佔母愛　吉林30歲漢啤酒投毒害表哥　連累4店員中毒判囚6年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181584427260579840690458.png/GHZXdc2rWc5c51MO638clhnrX6HghqefuLKNyriyjco?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60394756/%E7%82%BA%E7%8D%A8%E4%BD%94%E6%AF%8D%E6%84%9B-%E5%90%89%E6%9E%9730%E6%AD%B2%E6%BC%A2%E5%95%A4%E9%85%92%E6%8A%95%E6%AF%92%E5%AE%B3%E8%A1%A8%E5%93%A5-%E9%80%A3%E7%B4%AF4%E5%BA%97%E5%93%A1%E4%B8%AD%E6%AF%92%E5%88%A4%E5%9B%9A6%E5%B9%B4",
-    "timestamp": "2026-09-29T04:48:44.204Z",
     "strategy": ".content-card__main"
   }
 ];
