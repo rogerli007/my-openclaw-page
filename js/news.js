@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T03:49:52.263Z
+// Last updated: 2026-09-29T04:24:58.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秋天湯水食譜｜推介15款秋天滋潤湯水對抗秋老虎、潤肺止咳防便秘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181573848185704448543071.png/-WmeMEAyBzGhD7HLLFDBqfjgubUVY-qXMnWIOzJ1iDs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60394607/%E7%A7%8B%E5%A4%A9%E6%B9%AF%E6%B0%B4%E9%A3%9F%E8%AD%9C-%E6%8E%A8%E4%BB%8B15%E6%AC%BE%E7%A7%8B%E5%A4%A9%E6%BB%8B%E6%BD%A4%E6%B9%AF%E6%B0%B4-%E6%BD%A4%E8%82%BA%E6%AD%A2%E5%92%B3%E9%98%B2%E4%BE%BF%E7%A7%98",
+    "timestamp": "2026-09-29T04:24:58.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七旬退休婦情陷「電力公司」職員　花光積蓄兼借貸投資被騙$290萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
     "timestamp": "2026-09-28T18:27:12.376Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
-    "timestamp": "2026-09-28T17:57:09.250Z",
     "strategy": ".content-card__main"
   }
 ];
