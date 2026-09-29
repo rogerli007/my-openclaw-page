@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T19:55:39.012Z
+// Last updated: 2026-09-29T20:23:17.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄戰略轟炸機遠東訓練時墜毀　機上6死1傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
+    "timestamp": "2026-09-29T20:23:17.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙東匯邨途人舉報吸毒　警檢$500依托咪酯煙彈　40歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181662338969767936796180.png/jNpxzrF6-hsP1cnkg_ADZrjvZYBiRxBcgVahgIFWoYA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60394945/%E4%B8%AD%E6%97%A5%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E54%E5%91%A8%E5%B9%B4-%E5%A4%96%E4%BA%A4%E9%83%A8%E6%89%B9%E6%97%A5%E6%9C%AC%E6%8C%91%E6%88%B0%E4%B8%AD%E5%9C%8B%E4%B8%BB%E6%AC%8A-%E4%BF%83%E6%97%A5%E6%96%B9%E5%8F%8D%E6%80%9D%E7%B3%BE%E9%8C%AF",
     "timestamp": "2026-09-29T13:25:12.925Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭香如故｜劉學義被洗白、譚松韻去重生設定！原著作者轟編劇魔改",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181633854847324160485706.png/iA0Uymh68hHMCU45FKc6-Xby3CPzrPcIdaF2NXWhdjU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394851/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E5%8A%89%E5%AD%B8%E7%BE%A9%E8%A2%AB%E6%B4%97%E7%99%BD-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%8E%BB%E9%87%8D%E7%94%9F%E8%A8%AD%E5%AE%9A-%E5%8E%9F%E8%91%97%E4%BD%9C%E8%80%85%E8%BD%9F%E7%B7%A8%E5%8A%87%E9%AD%94%E6%94%B9",
-    "timestamp": "2026-09-29T12:58:45.833Z",
     "strategy": ".content-card__main"
   }
 ];
