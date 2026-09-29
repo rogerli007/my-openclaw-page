@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T18:50:10.440Z
+// Last updated: 2026-09-29T19:18:39.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱見AI巨頭成功　美眾議長約翰遜：勿過度監管以免輸給中國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181468403781603328851793.jpeg/Y-wBlUAWp_m3OqNnC6kPFeiHmkKwgcrDFIqYFRSKmBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395029/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%A6%8Bai%E5%B7%A8%E9%A0%AD%E6%88%90%E5%8A%9F-%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%95%B7%E7%B4%84%E7%BF%B0%E9%81%9C-%E5%8B%BF%E9%81%8E%E5%BA%A6%E7%9B%A3%E7%AE%A1%E4%BB%A5%E5%85%8D%E8%BC%B8%E7%B5%A6%E4%B8%AD%E5%9C%8B",
+    "timestamp": "2026-09-29T19:18:39.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗革命衛隊致函美國選民　籲中期選舉拒絕特朗普",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177682420120424448925604.jpeg/Z5KmqTAKL8FEMMjDEZ9lLZ6ZGwqUVrADTS1pFk0taRY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60391425/%E7%86%9F%E9%BD%A1%E5%A5%B3%E6%80%A7%E8%85%B3%E5%9E%8B%E6%9C%83%E6%94%B9%E8%AE%8A%E6%8C%91%E9%9E%8B%E8%A6%81%E6%B3%A8%E6%84%8F-%E5%B0%88%E6%A5%AD%E9%81%B8%E9%9E%8B%E5%B8%AB%E6%8F%AD%E6%8C%91%E9%81%B8%E8%AA%A4%E5%8D%80-%E8%B2%B7%E9%9E%8B%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-09-29T11:44:40.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "草莓音樂節｜李幸倪唱八首歌黑幾度　泳兒唱歌唱一半竟被嗌Encore",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181630686319087616256380.jpeg/6SA6gFLGzo_4cdyYtkhxSBhJu8A2fMJK1NtrM9TbazM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394873/%E8%8D%89%E8%8E%93%E9%9F%B3%E6%A8%82%E7%AF%80-%E6%9D%8E%E5%B9%B8%E5%80%AA%E5%94%B1%E5%85%AB%E9%A6%96%E6%AD%8C%E9%BB%91%E5%B9%BE%E5%BA%A6-%E6%B3%B3%E5%85%92%E5%94%B1%E6%AD%8C%E5%94%B1%E4%B8%80%E5%8D%8A%E7%AB%9F%E8%A2%AB%E5%97%8Cencore",
-    "timestamp": "2026-09-29T11:20:22.578Z",
     "strategy": ".content-card__main"
   }
 ];
