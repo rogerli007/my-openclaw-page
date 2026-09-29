@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T13:48:36.088Z
+// Last updated: 2026-09-29T13:59:47.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周志康生日開工度過獲好友慶生　11月與孖生兄弟周志文首開演唱會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181657397664419840217468.jpeg/iVYcbxCoom3NUnoWzlSmqBUgyHvLpLskmL0vH5i9Lx8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394926/%E5%91%A8%E5%BF%97%E5%BA%B7%E7%94%9F%E6%97%A5%E9%96%8B%E5%B7%A5%E5%BA%A6%E9%81%8E%E7%8D%B2%E5%A5%BD%E5%8F%8B%E6%85%B6%E7%94%9F-11%E6%9C%88%E8%88%87%E5%AD%96%E7%94%9F%E5%85%84%E5%BC%9F%E5%91%A8%E5%BF%97%E6%96%87%E9%A6%96%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83",
+    "timestamp": "2026-09-29T13:59:47.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一｜高鐵客源拓闊至桂林張家界　業界冀吸更多長江以南旅客訪港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021899937639567360940726.jpeg/lPRjksT1UYEWzNgk9L8VbWbCVrEW77j2Dtf3pw7X96c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60394701/amd%E6%96%A582%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E8%B3%BCworld-labs-ai%E6%95%99%E6%AF%8D-%E6%9D%8E%E9%A3%9B%E9%A3%9B%E5%B0%87%E4%BB%BB%E5%9F%B7%E8%A1%8C%E5%89%AF%E7%B8%BD%E8%A3%81",
     "timestamp": "2026-09-29T03:25:33.938Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "皇崗口岸交通｜深圳5條巴士線直達聯檢樓　港深巴士地鐵接駁清單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260812/1164248016912125952915206.png/9aKeR960_lXkpo7jMhcUomJAk_-bvHm_NArzvzQK878?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60367003/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A-%E6%B7%B1%E5%9C%B35%E6%A2%9D%E5%B7%B4%E5%A3%AB%E7%B7%9A%E7%9B%B4%E9%81%94%E8%81%AF%E6%AA%A2%E6%A8%93-%E6%B8%AF%E6%B7%B1%E5%B7%B4%E5%A3%AB%E5%9C%B0%E9%90%B5%E6%8E%A5%E9%A7%81%E6%B8%85%E5%96%AE",
-    "timestamp": "2026-09-29T03:00:11.556Z",
     "strategy": ".content-card__main"
   }
 ];
