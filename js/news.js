@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T06:34:04.104Z
+// Last updated: 2026-09-29T07:03:43.325Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "62歲媽媽不懼眼光　染粉紅頭髮穿童裝：無論幾歲都不該被年齡束縛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179112927349706752543687.png/QU9r_-_CosSE174-PwOScd3nWcxXlAxDU0DxkVNA8ZE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60392578/62%E6%AD%B2%E5%AA%BD%E5%AA%BD%E4%B8%8D%E6%87%BC%E7%9C%BC%E5%85%89-%E6%9F%93%E7%B2%89%E7%B4%85%E9%A0%AD%E9%AB%AE%E7%A9%BF%E7%AB%A5%E8%A3%9D-%E7%84%A1%E8%AB%96%E5%B9%BE%E6%AD%B2%E9%83%BD%E4%B8%8D%E8%A9%B2%E8%A2%AB%E5%B9%B4%E9%BD%A1%E6%9D%9F%E7%B8%9B",
+    "timestamp": "2026-09-29T07:03:43.325Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福建元代沉船撈出17223件文物　「龍泉青瓷」數量居全球沉船之首",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181468403781603328851793.jpeg/Y-wBlUAWp_m3OqNnC6kPFeiHmkKwgcrDFIqYFRSKmBU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394666/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BE%8E%E5%AE%98%E5%93%A1%E8%88%87%E6%96%A1%E6%97%8B%E6%96%B9%E6%9C%83%E8%AB%87-%E7%BE%8E%E5%9C%8B%E5%BE%88%E5%BF%AB%E6%9C%83%E8%B4%8F%E5%BE%97%E5%B0%8D%E4%BC%8A%E6%88%B0%E4%BA%8B",
     "timestamp": "2026-09-28T21:54:45.564Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "星島新聞集團接粉末信　警同日旺角拘24歲男涉刑事恐嚇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181466230775615488413976.jpeg/oUkGQtIS-yb4cguWSkkPOaNQiANSUmQ2_OKTyvzik8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394664/%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98%E6%8E%A5%E7%B2%89%E6%9C%AB%E4%BF%A1-%E8%AD%A6%E5%90%8C%E6%97%A5%E6%97%BA%E8%A7%92%E6%8B%9824%E6%AD%B2%E7%94%B7%E6%B6%89%E5%88%91%E4%BA%8B%E6%81%90%E5%9A%87",
-    "timestamp": "2026-09-28T21:02:27.416Z",
     "strategy": ".content-card__main"
   }
 ];
