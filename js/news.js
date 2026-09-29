@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T07:33:13.510Z
+// Last updated: 2026-09-29T08:29:05.035Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一｜城巴推小童免費搭車　14條路線加強服務　另推預約開篷巴士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181616545227345920965273.png/OnQ0HoYoxoVqlhLLTfg9do-FuwmBrk4396zXSPes10g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60394840/%E5%8D%81%E4%B8%80-%E5%9F%8E%E5%B7%B4%E6%8E%A8%E5%B0%8F%E7%AB%A5%E5%85%8D%E8%B2%BB%E6%90%AD%E8%BB%8A-14%E6%A2%9D%E8%B7%AF%E7%B7%9A%E5%8A%A0%E5%BC%B7%E6%9C%8D%E5%8B%99-%E5%8F%A6%E6%8E%A8%E9%A0%90%E7%B4%84%E9%96%8B%E7%AF%B7%E5%B7%B4%E5%A3%AB",
+    "timestamp": "2026-09-29T08:29:05.035Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "酒店自助餐10月優惠14推介｜買1送1$98起！任食龍蝦／生蠔／鮑魚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181369245921972224614523.jpeg/3vF4NtnON_3J_nNL02vj2ssz1jzlb_1pfXeG-H13hvg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394585/%E6%96%B9%E4%B8%AD%E4%BF%A1%E5%A8%B6%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E4%BD%8F%E9%80%BE4%E5%8D%83%E8%90%AC%E8%A5%BF%E8%B2%A2%E8%B1%AA%E5%AE%85-63%E6%AD%B2%E6%AD%8E%E8%8C%B6%E8%A8%98%E8%88%87%E8%80%81%E5%8F%8B%E8%B2%BC%E5%9C%B0%E5%90%B9%E6%B0%B4",
     "timestamp": "2026-09-28T22:53:58.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "圈中型佬娶港姐冠軍住4千萬西貢豪宅　63歲歎茶記與老友貼地吹水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181369245921972224614523.jpeg/3vF4NtnON_3J_nNL02vj2ssz1jzlb_1pfXeG-H13hvg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394585/%E6%96%B9%E4%B8%AD%E4%BF%A1%E5%A8%B6%E6%B8%AF%E5%A7%90%E5%86%A0%E8%BB%8D%E4%BD%8F%E9%80%BE4%E5%8D%83%E8%90%AC%E8%A5%BF%E8%B2%A2%E8%B1%AA%E5%AE%85-63%E6%AD%B2%E6%AD%8E%E8%8C%B6%E8%A8%98%E8%88%87%E8%80%81%E5%8F%8B%E8%B2%BC%E5%9C%B0%E5%90%B9%E6%B0%B4",
-    "timestamp": "2026-09-28T22:42:32.476Z",
     "strategy": ".content-card__main"
   }
 ];
