@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T03:00:11.556Z
+// Last updated: 2026-09-29T03:25:33.938Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AMD斥82億美元收購World Labs　「AI教母」李飛飛將任執行副總裁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250715/1021899937639567360940726.jpeg/lPRjksT1UYEWzNgk9L8VbWbCVrEW77j2Dtf3pw7X96c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60394701/amd%E6%96%A582%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E8%B3%BCworld-labs-ai%E6%95%99%E6%AF%8D-%E6%9D%8E%E9%A3%9B%E9%A3%9B%E5%B0%87%E4%BB%BB%E5%9F%B7%E8%A1%8C%E5%89%AF%E7%B8%BD%E8%A3%81",
+    "timestamp": "2026-09-29T03:25:33.938Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "皇崗口岸交通｜深圳5條巴士線直達聯檢樓　港深巴士地鐵接駁清單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
     "timestamp": "2026-09-28T17:48:18.822Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蕭景鴻感激妻子陪伴度過低谷期　獲真愛粉告白當場爆喊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181349680458502144735409.jpeg/vpy4yeEfvaXC1Ecc6FSv6g0YSnOjwp9dZmJLPWZiSz0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394625/%E8%95%AD%E6%99%AF%E9%B4%BB%E6%84%9F%E6%BF%80%E5%A6%BB%E5%AD%90%E9%99%AA%E4%BC%B4%E5%BA%A6%E9%81%8E%E4%BD%8E%E8%B0%B7%E6%9C%9F-%E7%8D%B2%E7%9C%9F%E6%84%9B%E7%B2%89%E5%91%8A%E7%99%BD%E7%95%B6%E5%A0%B4%E7%88%86%E5%96%8A",
-    "timestamp": "2026-09-28T17:34:35.403Z",
     "strategy": ".content-card__main"
   }
 ];
