@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T14:21:47.546Z
+// Last updated: 2026-09-29T14:48:30.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "趙今麥魏大勛《無可替代》開播！解析5大看點　男女主角商戰博弈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181644244788449280043976.png/6fWg4wJ80rVaNcMPpEV89THq9KGoetW1MvyuJTL8riU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60394829/%E8%B6%99%E4%BB%8A%E9%BA%A5%E9%AD%8F%E5%A4%A7%E5%8B%9B-%E7%84%A1%E5%8F%AF%E6%9B%BF%E4%BB%A3-%E9%96%8B%E6%92%AD-%E8%A7%A3%E6%9E%905%E5%A4%A7%E7%9C%8B%E9%BB%9E-%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%A7%92%E5%95%86%E6%88%B0%E5%8D%9A%E5%BC%88",
+    "timestamp": "2026-09-29T14:48:30.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧龍威返港前受訪　獄中熬26年靠「阿Q精神」　脫下囚衣會心微笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181573848185704448543071.png/-WmeMEAyBzGhD7HLLFDBqfjgubUVY-qXMnWIOzJ1iDs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60394607/%E7%A7%8B%E5%A4%A9%E6%B9%AF%E6%B0%B4%E9%A3%9F%E8%AD%9C-%E6%8E%A8%E4%BB%8B15%E6%AC%BE%E7%A7%8B%E5%A4%A9%E6%BB%8B%E6%BD%A4%E6%B9%AF%E6%B0%B4-%E6%BD%A4%E8%82%BA%E6%AD%A2%E5%92%B3%E9%98%B2%E4%BE%BF%E7%A7%98",
     "timestamp": "2026-09-29T04:24:58.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七旬退休婦情陷「電力公司」職員　花光積蓄兼借貸投資被騙$290萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181568843835772928369420.jpeg/Z5GaH91P9F5qN8SW8lGky68Ton4JDa4aAq_9JAKv_SQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394747/%E4%B8%83%E6%97%AC%E9%80%80%E4%BC%91%E5%A9%A6%E6%83%85%E9%99%B7-%E9%9B%BB%E5%8A%9B%E5%85%AC%E5%8F%B8-%E8%81%B7%E5%93%A1-%E8%8A%B1%E5%85%89%E7%A9%8D%E8%93%84%E5%85%BC%E5%80%9F%E8%B2%B8%E6%8A%95%E8%B3%87%E8%A2%AB%E9%A8%99-290%E8%90%AC",
-    "timestamp": "2026-09-29T03:49:52.263Z",
     "strategy": ".content-card__main"
   }
 ];
