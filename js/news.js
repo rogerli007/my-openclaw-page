@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T16:48:26.452Z
+// Last updated: 2026-09-29T16:59:43.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳傑莊首爾成立「亞洲Web3政策推動聯盟」冀明年多國加入擴生態圈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181768523043704832287106.png/KYtvJ1ENU3-cVGX1TQlQQJ51S8unOs6PPLUH6jy1B-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395021/%E5%90%B3%E5%82%91%E8%8E%8A%E9%A6%96%E7%88%BE%E6%88%90%E7%AB%8B-%E4%BA%9E%E6%B4%B2web3%E6%94%BF%E7%AD%96%E6%8E%A8%E5%8B%95%E8%81%AF%E7%9B%9F-%E5%86%80%E6%98%8E%E5%B9%B4%E5%A4%9A%E5%9C%8B%E5%8A%A0%E5%85%A5%E6%93%B4%E7%94%9F%E6%85%8B%E5%9C%88",
+    "timestamp": "2026-09-29T16:59:43.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀爆樽施襲｜5漢乘車將隧入口被截獲拘捕　另有2男同黨仍在逃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179112927349706752543687.png/QU9r_-_CosSE174-PwOScd3nWcxXlAxDU0DxkVNA8ZE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60392578/62%E6%AD%B2%E5%AA%BD%E5%AA%BD%E4%B8%8D%E6%87%BC%E7%9C%BC%E5%85%89-%E6%9F%93%E7%B2%89%E7%B4%85%E9%A0%AD%E9%AB%AE%E7%A9%BF%E7%AB%A5%E8%A3%9D-%E7%84%A1%E8%AB%96%E5%B9%BE%E6%AD%B2%E9%83%BD%E4%B8%8D%E8%A9%B2%E8%A2%AB%E5%B9%B4%E9%BD%A1%E6%9D%9F%E7%B8%9B",
     "timestamp": "2026-09-29T07:03:43.325Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福建元代沉船撈出17223件文物　「龍泉青瓷」數量居全球沉船之首",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181578976842223616428697.jpeg/t1Vw5sQL4fH-dsCw1h0CWDoH7jTncVHw-Cqw_fgqsP0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394767/%E7%A6%8F%E5%BB%BA%E5%85%83%E4%BB%A3%E6%B2%89%E8%88%B9%E6%92%88%E5%87%BA17223%E4%BB%B6%E6%96%87%E7%89%A9-%E9%BE%8D%E6%B3%89%E9%9D%92%E7%93%B7-%E6%95%B8%E9%87%8F%E5%B1%85%E5%85%A8%E7%90%83%E6%B2%89%E8%88%B9%E4%B9%8B%E9%A6%96",
-    "timestamp": "2026-09-29T06:34:04.104Z",
     "strategy": ".content-card__main"
   }
 ];
