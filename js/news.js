@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-28T23:55:13.154Z
+// Last updated: 2026-09-29T00:52:00.314Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田健身中心假天花藏針孔鏡頭　王菲驚呼：呢個人都幾大膽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181346142823124992297518.jpeg/7kxl9rBQxFqshyf7jSRs8inNVMqHsa1UcR2wdEsdsHQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394623/%E6%B2%99%E7%94%B0%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83%E5%81%87%E5%A4%A9%E8%8A%B1%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-%E7%8E%8B%E8%8F%B2%E9%A9%9A%E5%91%BC-%E5%91%A2%E5%80%8B%E4%BA%BA%E9%83%BD%E5%B9%BE%E5%A4%A7%E8%86%BD",
+    "timestamp": "2026-09-29T00:52:00.314Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普否認曾向習近平兜售美國軍備　稱「沒討論過」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157810179111129088860952.jpeg/DAC3trrPQNcHqyZwbXHH-41TO-Dowptzu4Y8GruGPBo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394645/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A9%E6%BE%A4%E9%82%A832%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E8%AD%89%E5%AF%A6%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-28T15:46:43.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭柏妍上海快閃放電　貼身小背心搭「心機褲」大騷Fit爆玲瓏身段",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181297981719056384793816.jpeg/TW0ZRY2VOxspaahtcKP1mOQBGXbEM-TI2133xNtd98Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394321/%E9%83%AD%E6%9F%8F%E5%A6%8D%E4%B8%8A%E6%B5%B7%E5%BF%AB%E9%96%83%E6%94%BE%E9%9B%BB-%E8%B2%BC%E8%BA%AB%E5%B0%8F%E8%83%8C%E5%BF%83%E6%90%AD-%E5%BF%83%E6%A9%9F%E8%A4%B2-%E5%A4%A7%E9%A8%B7fit%E7%88%86%E7%8E%B2%E7%93%8F%E8%BA%AB%E6%AE%B5",
-    "timestamp": "2026-09-28T15:25:15.010Z",
     "strategy": ".content-card__main"
   }
 ];
