@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T05:00:20.232Z
+// Last updated: 2026-09-29T05:22:58.512Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水阿叔坐電動輪椅駛出馬路！路口停定等綠燈開車　或已犯2宗罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180008386779942912645170.png/BnT5YxBtdGLLztNTJ0wFMeqJvSUsX8rPYJwZ1GCcGdQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393540/%E4%B8%8A%E6%B0%B4%E9%98%BF%E5%8F%94%E5%9D%90%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85%E9%A7%9B%E5%87%BA%E9%A6%AC%E8%B7%AF-%E8%B7%AF%E5%8F%A3%E5%81%9C%E5%AE%9A%E7%AD%89%E7%B6%A0%E7%87%88%E9%96%8B%E8%BB%8A-%E6%88%96%E5%B7%B2%E7%8A%AF2%E5%AE%97%E7%BD%AA",
+    "timestamp": "2026-09-29T05:22:58.512Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic招股書首曝光　去年營收增12倍惟仍虧損高達3295億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181445930017099776796013.jpeg/pR5-fAoxRQhK0lKKHlNpCmu7jNuXqc7CqZ2ZVamdmVU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394661/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E6%99%AE%E4%BA%AC%E5%86%8D%E7%B0%BD%E6%93%B4%E8%BB%8D%E4%BB%A4-%E4%BB%8A%E5%B9%B4%E4%BB%A5%E4%BE%86%E7%AC%AC%E5%9B%9B%E6%AC%A1",
     "timestamp": "2026-09-28T19:54:40.761Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣過山車｜天文台料周三34度　東北季候風國慶日到　下周二24度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181431286183497728476820.jpeg/z2bfWKNTsonPDGnElt9oN60UDgSCw4YIGR_qMhkf6jI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60394654/%E5%A4%A9%E6%B0%A3%E9%81%8E%E5%B1%B1%E8%BB%8A-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E4%B8%8934%E5%BA%A6-%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A8%E5%9C%8B%E6%85%B6%E6%97%A5%E5%88%B0-%E4%B8%8B%E5%91%A8%E4%BA%8C24%E5%BA%A6",
-    "timestamp": "2026-09-28T19:44:53.752Z",
     "strategy": ".content-card__main"
   }
 ];
