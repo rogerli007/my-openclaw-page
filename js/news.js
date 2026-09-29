@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T00:52:00.314Z
+// Last updated: 2026-09-29T01:36:37.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "連鎖健身中心驚爆更衣室藏針孔鏡頭　常客陳曉華：換衫用外套包住",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181375617153634304947036.jpeg/k_4i1Xxm7dUdSmzzpi1ZAwR5UXOf2kNFlu7Lo6zuy6M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394640/%E9%80%A3%E9%8E%96%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83%E9%A9%9A%E7%88%86%E6%9B%B4%E8%A1%A3%E5%AE%A4%E8%97%8F%E9%87%9D%E5%AD%94%E9%8F%A1%E9%A0%AD-%E5%B8%B8%E5%AE%A2%E9%99%B3%E6%9B%89%E8%8F%AF-%E6%8F%9B%E8%A1%AB%E7%94%A8%E5%A4%96%E5%A5%97%E5%8C%85%E4%BD%8F",
+    "timestamp": "2026-09-29T01:36:37.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田健身中心假天花藏針孔鏡頭　王菲驚呼：呢個人都幾大膽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181389568163713024362570.jpeg/WsRDQzPve89_2BHGh3BgZA61QVEjiD6msaGVbbGhlW0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394646/ak%E7%A8%B1%E5%9B%A0%E6%B3%B0%E5%9C%8B%E6%B0%B4%E6%B5%B8%E8%B2%BC%E9%BB%91%E5%BA%95%E5%9C%96-ian%E8%AB%87%E5%B0%8D%E6%96%B9%E8%88%87%E6%B1%BA%E8%A3%82%E7%8F%AD%E5%BA%95%E5%90%88%E4%BD%9C-%E5%90%84%E6%9C%89%E8%87%AA%E4%B8%BB%E6%AC%8A",
     "timestamp": "2026-09-28T15:57:46.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜天澤邨32歲男子墮樓　當場證實不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157810179111129088860952.jpeg/DAC3trrPQNcHqyZwbXHH-41TO-Dowptzu4Y8GruGPBo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60394645/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A9%E6%BE%A4%E9%82%A832%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E8%AD%89%E5%AF%A6%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-09-28T15:46:43.639Z",
     "strategy": ".content-card__main"
   }
 ];
