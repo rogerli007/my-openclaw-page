@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T15:47:19.930Z
+// Last updated: 2026-09-29T16:03:14.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "RubberBand斥資日本錄新碟　驚喜賀6號生日　泥鯭發福︰幸福脹大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181743237136650240601823.jpeg/k-HyMOTZacCVHwYFUy5-WoCQ1vBz6BTBdmZmWnZmZlo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60395004/rubberband%E6%96%A5%E8%B3%87%E6%97%A5%E6%9C%AC%E9%8C%84%E6%96%B0%E7%A2%9F-%E9%A9%9A%E5%96%9C%E8%B3%806%E8%99%9F%E7%94%9F%E6%97%A5-%E6%B3%A5%E9%AF%AD%E7%99%BC%E7%A6%8F-%E5%B9%B8%E7%A6%8F%E8%84%B9%E5%A4%A7",
+    "timestamp": "2026-09-29T16:03:14.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地單位傳異味　警方和消防揭屋內有超過20隻貓　聯絡貓主調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180008386779942912645170.png/BnT5YxBtdGLLztNTJ0wFMeqJvSUsX8rPYJwZ1GCcGdQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393540/%E4%B8%8A%E6%B0%B4%E9%98%BF%E5%8F%94%E5%9D%90%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85%E9%A7%9B%E5%87%BA%E9%A6%AC%E8%B7%AF-%E8%B7%AF%E5%8F%A3%E5%81%9C%E5%AE%9A%E7%AD%89%E7%B6%A0%E7%87%88%E9%96%8B%E8%BB%8A-%E6%88%96%E5%B7%B2%E7%8A%AF2%E5%AE%97%E7%BD%AA",
     "timestamp": "2026-09-29T05:22:58.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Anthropic招股書首曝光　去年營收增12倍惟仍虧損高達3295億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394761/anthropic%E6%8B%9B%E8%82%A1%E6%9B%B8%E9%A6%96%E6%9B%9D%E5%85%89-%E5%8E%BB%E5%B9%B4%E7%87%9F%E6%94%B6%E5%A2%9E12%E5%80%8D%E6%83%9F%E4%BB%8D%E8%99%A7%E6%90%8D%E9%AB%98%E9%81%943295%E5%84%84%E5%85%83",
-    "timestamp": "2026-09-29T05:00:20.232Z",
     "strategy": ".content-card__main"
   }
 ];
