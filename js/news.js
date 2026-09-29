@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T19:18:39.552Z
+// Last updated: 2026-09-29T19:46:11.814Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃大仙東匯邨途人舉報吸毒　警檢$500依托咪酯煙彈　40歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181808753830268928860927.jpeg/QZANxZzqUF5l3rXAtvwmZmVOfcqswvi98QwO6csMDuk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395032/%E9%BB%83%E5%A4%A7%E4%BB%99%E6%9D%B1%E5%8C%AF%E9%82%A8%E9%80%94%E4%BA%BA%E8%88%89%E5%A0%B1%E5%90%B8%E6%AF%92-%E8%AD%A6%E6%AA%A2-500%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-40%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-09-29T19:46:11.814Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱見AI巨頭成功　美眾議長約翰遜：勿過度監管以免輸給中國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181635829060079616049657.jpeg/O3XehA5IFbwbVd1mzw8pOlRJoF27Q1hHZ7L7emey-3o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394844/%E7%BE%85%E5%95%9F%E8%B1%AA-%E5%85%A8%E9%BB%91%E4%B9%8B%E6%97%85-%E9%AB%94%E9%A9%97%E7%9B%B4%E5%91%BC%E4%B8%8D%E5%AE%89-%E8%81%AF%E5%90%8C%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3%E4%B8%89%E5%85%84%E5%BC%9F10%E6%9C%88%E9%96%8B%E9%A8%B7",
     "timestamp": "2026-09-29T12:31:39.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熟齡女性腳型會改變挑鞋要注意　專業選鞋師揭挑選誤區+買鞋關鍵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177682420120424448925604.jpeg/Z5KmqTAKL8FEMMjDEZ9lLZ6ZGwqUVrADTS1pFk0taRY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60391425/%E7%86%9F%E9%BD%A1%E5%A5%B3%E6%80%A7%E8%85%B3%E5%9E%8B%E6%9C%83%E6%94%B9%E8%AE%8A%E6%8C%91%E9%9E%8B%E8%A6%81%E6%B3%A8%E6%84%8F-%E5%B0%88%E6%A5%AD%E9%81%B8%E9%9E%8B%E5%B8%AB%E6%8F%AD%E6%8C%91%E9%81%B8%E8%AA%A4%E5%8D%80-%E8%B2%B7%E9%9E%8B%E9%97%9C%E9%8D%B5",
-    "timestamp": "2026-09-29T11:44:40.320Z",
     "strategy": ".content-card__main"
   }
 ];
