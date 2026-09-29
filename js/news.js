@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T21:20:13.096Z
+// Last updated: 2026-09-29T21:43:21.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄戰略轟炸機遠東訓練時墜毀　機上6死1傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
+    "timestamp": "2026-09-29T21:43:21.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄戰略轟炸機遠東訓練時墜毀　機上6死1傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5306122/org/9c0cb4d2079528711a3376b19deb2a09.jpg/gX80MmXFaETXcrozrSyVzEWeux-_c7UM_Tuqy_07qss?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395007/%E9%84%A7%E9%BE%8D%E5%A8%81%E8%BF%94%E6%B8%AF%E5%89%8D%E5%8F%97%E8%A8%AA-%E7%8D%84%E4%B8%AD%E7%86%AC26%E5%B9%B4%E9%9D%A0-%E9%98%BFq%E7%B2%BE%E7%A5%9E-%E8%84%AB%E4%B8%8B%E5%9B%9A%E8%A1%A3%E6%9C%83%E5%BF%83%E5%BE%AE%E7%AC%91",
     "timestamp": "2026-09-29T14:21:47.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周志康生日開工度過獲好友慶生　11月與孖生兄弟周志文首開演唱會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181657397664419840217468.jpeg/iVYcbxCoom3NUnoWzlSmqBUgyHvLpLskmL0vH5i9Lx8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394926/%E5%91%A8%E5%BF%97%E5%BA%B7%E7%94%9F%E6%97%A5%E9%96%8B%E5%B7%A5%E5%BA%A6%E9%81%8E%E7%8D%B2%E5%A5%BD%E5%8F%8B%E6%85%B6%E7%94%9F-11%E6%9C%88%E8%88%87%E5%AD%96%E7%94%9F%E5%85%84%E5%BC%9F%E5%91%A8%E5%BF%97%E6%96%87%E9%A6%96%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83",
-    "timestamp": "2026-09-29T13:59:47.520Z",
     "strategy": ".content-card__main"
   }
 ];
