@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T10:00:07.163Z
+// Last updated: 2026-09-29T11:20:22.578Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "草莓音樂節｜李幸倪唱八首歌黑幾度　泳兒唱歌唱一半竟被嗌Encore",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181630686319087616256380.jpeg/6SA6gFLGzo_4cdyYtkhxSBhJu8A2fMJK1NtrM9TbazM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60394873/%E8%8D%89%E8%8E%93%E9%9F%B3%E6%A8%82%E7%AF%80-%E6%9D%8E%E5%B9%B8%E5%80%AA%E5%94%B1%E5%85%AB%E9%A6%96%E6%AD%8C%E9%BB%91%E5%B9%BE%E5%BA%A6-%E6%B3%B3%E5%85%92%E5%94%B1%E6%AD%8C%E5%94%B1%E4%B8%80%E5%8D%8A%E7%AB%9F%E8%A2%AB%E5%97%8Cencore",
+    "timestamp": "2026-09-29T11:20:22.578Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油塘擎海I首批時光倒流10年前　代理：料可一Q清枱、有提價空間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180067110844370944702458.jpeg/K3oxaRQpZVkJ5MmYDLeSxhSd_KdaUex-0fYkA9H2JAM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394669/%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AA%8D%E6%9B%BE%E5%90%91%E7%BF%92%E8%BF%91%E5%B9%B3%E5%85%9C%E5%94%AE%E7%BE%8E%E5%9C%8B%E8%BB%8D%E5%82%99-%E7%A8%B1-%E6%B2%92%E8%A8%8E%E8%AB%96%E9%81%8E",
     "timestamp": "2026-09-28T23:55:13.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜光通信罕見集體暴跌　到底怎麼看？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2511360/org/f4d4028de7ec8b7eab363e94f6bb377f.JPG/aQlU6LTzA2HOadYTfvFGDUNIm70qU-Jtb6-5DG-vuQw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60394671/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E5%85%89%E9%80%9A%E4%BF%A1%E7%BD%95%E8%A6%8B%E9%9B%86%E9%AB%94%E6%9A%B4%E8%B7%8C-%E5%88%B0%E5%BA%95%E6%80%8E%E9%BA%BC%E7%9C%8B",
-    "timestamp": "2026-09-28T23:33:56.545Z",
     "strategy": ".content-card__main"
   }
 ];
