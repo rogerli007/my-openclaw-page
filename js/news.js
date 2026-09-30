@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T17:44:14.171Z
+// Last updated: 2026-09-30T17:54:41.631Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何文田多幢大廈突停電　中電搶修　街坊網上狂呻好熱：唔知點瞓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182140604298039296034658.jpeg/3_wXTeQ9E1eraY5FqSBf6kFFm2I1W8oXPr2uaz69rms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395412/%E4%BD%95%E6%96%87%E7%94%B0%E5%A4%9A%E5%B9%A2%E5%A4%A7%E5%BB%88%E7%AA%81%E5%81%9C%E9%9B%BB-%E4%B8%AD%E9%9B%BB%E6%90%B6%E4%BF%AE-%E8%A1%97%E5%9D%8A%E7%B6%B2%E4%B8%8A%E7%8B%82%E5%91%BB%E5%A5%BD%E7%86%B1-%E5%94%94%E7%9F%A5%E9%BB%9E%E7%9E%93",
+    "timestamp": "2026-09-30T17:54:41.631Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田多幢大廈突停電　中電搶修　街坊網上狂呻好熱：唔知點瞓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182016564380045312087295.jpeg/MjtdviJ2Z2OdtpS7jvAPNMK3R76CoO4IHAUtXxwFLV8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60395077/%E9%96%83%E8%BA%AB%E6%AD%A5tiktok%E6%B4%97%E8%85%A6%E5%A4%A7%E7%86%B1-%E7%B6%B2%E7%B4%85%E6%8E%80%E6%A8%A1%E4%BB%BF%E6%BD%AE-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A-%E6%9C%89%E9%9F%8C%E5%B8%B6%E6%8B%89%E5%82%B7%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-09-30T09:23:46.502Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗疑狗咬死人｜新田一隻無人看管狗隻被捕獲　有晶片將聯絡狗主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181988499163713536972610.jpeg/0kr2Qso9pbtsmt9gEUExmcEcQRmY6JrzQPk-JkD5PiY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395247/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%96%B0%E7%94%B0%E4%B8%80%E9%9A%BB%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%AE%A1%E7%8B%97%E9%9A%BB%E8%A2%AB%E6%8D%95%E7%8D%B2-%E6%9C%89%E6%99%B6%E7%89%87%E5%B0%87%E8%81%AF%E7%B5%A1%E7%8B%97%E4%B8%BB",
-    "timestamp": "2026-09-30T07:33:59.825Z",
     "strategy": ".content-card__main"
   }
 ];
