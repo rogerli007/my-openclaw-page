@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T09:23:46.502Z
+// Last updated: 2026-09-30T09:47:17.096Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深江鐵路洪奇瀝大橋合龍！深圳1小時達江門　鋼量等同6座巴黎鐵塔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181988622371393536201473.jpeg/OAR9cxpMykjMnsCs6tZaJycos9oqrO-B4JXsVOCV7FQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395234/%E6%B7%B1%E6%B1%9F%E9%90%B5%E8%B7%AF%E6%B4%AA%E5%A5%87%E7%80%9D%E5%A4%A7%E6%A9%8B%E5%90%88%E9%BE%8D-%E6%B7%B1%E5%9C%B31%E5%B0%8F%E6%99%82%E9%81%94%E6%B1%9F%E9%96%80-%E9%8B%BC%E9%87%8F%E7%AD%89%E5%90%8C6%E5%BA%A7%E5%B7%B4%E9%BB%8E%E9%90%B5%E5%A1%94",
+    "timestamp": "2026-09-30T09:47:17.096Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "閃身步Tiktok洗腦大熱！網紅掀模仿潮　醫生警告: 有韌帶拉傷風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
     "timestamp": "2026-09-29T21:43:21.313Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄戰略轟炸機遠東訓練時墜毀　機上6死1傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
-    "timestamp": "2026-09-29T21:20:13.096Z",
     "strategy": ".content-card__main"
   }
 ];
