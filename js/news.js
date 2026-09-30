@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T09:59:41.635Z
+// Last updated: 2026-09-30T10:57:49.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "赤柱ONE STANLEY 四房複式5204萬沽　九龍塘博峯4883.1萬沽四房",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182040705678184448528174.jpeg/MyOUs4EsSfk3-C3s87XkK_RCCG1FuCz-7FGsXOxRrFw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60395360/%E8%B5%A4%E6%9F%B1one-stanley-%E5%9B%9B%E6%88%BF%E8%A4%87%E5%BC%8F5204%E8%90%AC%E6%B2%BD-%E4%B9%9D%E9%BE%8D%E5%A1%98%E5%8D%9A%E5%B3%AF4883-1%E8%90%AC%E6%B2%BD%E5%9B%9B%E6%88%BF",
+    "timestamp": "2026-09-30T10:57:49.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福田口岸交通｜最新6方法｜車費$10起！通宵小巴＋免費商場巴士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181672461268160512376049.jpeg/Fff7yRgOCUFX2sVl6Jc2ShZ64u7YpxDY5v-oneb_qJ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394886/%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E4%BB%A3%E8%8A%B1%E7%BE%8E%E7%94%B7%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E9%A1%8F%E5%80%BC%E5%B4%A9%E5%A3%9E-%E6%BF%83%E5%A6%9D%E9%9C%87%E6%92%BC%E7%9C%BC%E7%90%83-%E8%AE%8A%E5%BE%97%E9%99%B0%E9%99%BD%E6%80%AA%E6%B0%A3",
     "timestamp": "2026-09-29T22:44:07.297Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美加物價大逆轉？華人跨境消費避險攻略　一文睇清差價與稅項規則",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181695856143765504814763.png/Ji0eIgM6WhsR-SER3VbeXGEf0k1ihfpDTJQ-WEyUPlg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393827/%E7%BE%8E%E5%8A%A0%E7%89%A9%E5%83%B9%E5%A4%A7%E9%80%86%E8%BD%89-%E8%8F%AF%E4%BA%BA%E8%B7%A8%E5%A2%83%E6%B6%88%E8%B2%BB%E9%81%BF%E9%9A%AA%E6%94%BB%E7%95%A5-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E5%B7%AE%E5%83%B9%E8%88%87%E7%A8%85%E9%A0%85%E8%A6%8F%E5%89%87",
-    "timestamp": "2026-09-29T22:20:55.148Z",
     "strategy": ".content-card__main"
   }
 ];
