@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T05:01:54.192Z
+// Last updated: 2026-09-30T05:47:09.880Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國海軍退役33年老艦伊利湖號　料月底再退2艘「提康德羅加」級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181928320476909568914287.jpeg/hQvlg9WodGVTH_DFs3iNlvjHuojhNRzxY7XsY2O17GM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395097/%E7%BE%8E%E5%9C%8B%E6%B5%B7%E8%BB%8D%E9%80%80%E5%BD%B933%E5%B9%B4%E8%80%81%E8%89%A6%E4%BC%8A%E5%88%A9%E6%B9%96%E8%99%9F-%E6%96%99%E6%9C%88%E5%BA%95%E5%86%8D%E9%80%802%E8%89%98-%E6%8F%90%E5%BA%B7%E5%BE%B7%E7%BE%85%E5%8A%A0-%E7%B4%9A",
+    "timestamp": "2026-09-30T05:47:09.880Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港珠澳大橋進口鮮活食品10.1起24小時通關　經文錦渡維持朝7晚10",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181468403781603328851793.jpeg/Y-wBlUAWp_m3OqNnC6kPFeiHmkKwgcrDFIqYFRSKmBU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395029/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%A6%8Bai%E5%B7%A8%E9%A0%AD%E6%88%90%E5%8A%9F-%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%95%B7%E7%B4%84%E7%BF%B0%E9%81%9C-%E5%8B%BF%E9%81%8E%E5%BA%A6%E7%9B%A3%E7%AE%A1%E4%BB%A5%E5%85%8D%E8%BC%B8%E7%B5%A6%E4%B8%AD%E5%9C%8B",
     "timestamp": "2026-09-29T19:18:39.552Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗革命衛隊致函美國選民　籲中期選舉拒絕特朗普",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
-    "timestamp": "2026-09-29T18:50:10.440Z",
     "strategy": ".content-card__main"
   }
 ];
