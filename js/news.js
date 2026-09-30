@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T14:23:46.113Z
+// Last updated: 2026-09-30T14:48:48.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜九龍灣德福花園19歲女生疑服藥尋短　父親揭發惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220831/641630426372247552937240.jpeg/BFVKuWbiA2cQ0thqpFEuI67wkTJz2TQ_R6Jx6Eeiceg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395397/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B9%9D%E9%BE%8D%E7%81%A3%E5%BE%B7%E7%A6%8F%E8%8A%B1%E5%9C%9219%E6%AD%B2%E5%A5%B3%E7%94%9F%E7%96%91%E6%9C%8D%E8%97%A5%E5%B0%8B%E7%9F%AD-%E7%88%B6%E8%A6%AA%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-09-30T14:48:48.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "衞生署偕警突擊搜查尖沙咀兩處所　檢5900支未經註冊藥劑製品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162398521811275776964783.jpeg/XXJZV9i9OL_uaR_XdvbDtDwXBLuUXnTraCV96mglfeo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60377753/%E6%B8%9B%E8%82%A5-aespa-karina%E8%A6%AA%E6%8E%887%E6%8B%9B%E6%B8%9B%E8%82%A5%E7%98%A6%E8%BA%AB%E6%8A%80%E5%B7%A7-%E8%96%84%E8%8D%B7%E7%B3%96%E7%AB%9F%E5%8F%AF%E6%8A%91%E5%88%B6%E9%A3%9F%E6%85%BE",
     "timestamp": "2026-09-30T03:31:41.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普與科技高層簽署AI安全協議　擬設10人委員會協助監督業界",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181902422511980544982430.jpeg/XHDIugPqc4g0GLaK5N_Ay74hGwRq4Noyp4er-qeHq_o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395062/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E7%A7%91%E6%8A%80%E9%AB%98%E5%B1%A4%E7%B0%BD%E7%BD%B2ai%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E6%93%AC%E8%A8%AD10%E4%BA%BA%E5%A7%94%E5%93%A1%E6%9C%83%E5%8D%94%E5%8A%A9%E7%9B%A3%E7%9D%A3%E6%A5%AD%E7%95%8C",
-    "timestamp": "2026-09-30T02:07:55.564Z",
     "strategy": ".content-card__main"
   }
 ];
