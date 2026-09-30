@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T23:20:07.751Z
+// Last updated: 2026-09-30T23:47:27.277Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一國慶直播｜金紫荊廣場國慶升旗儀式　會展國慶酒會李家超主禮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181944950766440448073189.jpeg/ZLl5OGmIBTr6aYLfP62LQvS-SEsdBNdCNtyq5DbcquQ",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395158/%E5%8D%81%E4%B8%80%E5%9C%8B%E6%85%B6%E7%9B%B4%E6%92%AD-%E9%87%91%E7%B4%AB%E8%8D%8A%E5%BB%A3%E5%A0%B4%E5%9C%8B%E6%85%B6%E5%8D%87%E6%97%97%E5%84%80%E5%BC%8F-%E6%9C%83%E5%B1%95%E5%9C%8B%E6%85%B6%E9%85%92%E6%9C%83%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%B8%BB%E7%A6%AE",
+    "timestamp": "2026-09-30T23:47:27.277Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥浚龍父放售淺水灣道複式海景洋房　市值約2.5億｜多圖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145350542663356416834179.jpeg/ULEoPs_NK1vaFZG0klwkY6bMpV4svAEHaJxPmkKcT5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395402/%E6%96%B0%E4%B8%96%E7%95%8C%E5%90%91%E6%A9%9F%E7%AE%A1%E5%B1%80%E4%BA%A4%E9%82%8411-skies-%E6%94%BF%E5%BA%9C%E5%86%80%E6%98%8E%E5%B9%B44%E6%9C%88%E4%BA%A4%E6%8E%A5%E5%BE%8C%E7%9B%A1%E5%BF%AB%E9%87%8D%E6%96%B0%E8%A6%8F%E5%8A%83",
     "timestamp": "2026-09-30T15:48:47.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運2026｜名古屋市長公開致歉：播錯國歌不可接受　認真吸取教訓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182081074067410944257601.png/dsEh2ypi7Xs8gFlXLFvcZDvOYbDjPIX2WD3oKVg96Ck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395390/%E4%BA%9E%E9%81%8B2026-%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E9%95%B7%E5%85%AC%E9%96%8B%E8%87%B4%E6%AD%89-%E6%92%AD%E9%8C%AF%E5%9C%8B%E6%AD%8C%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E8%AA%8D%E7%9C%9F%E5%90%B8%E5%8F%96%E6%95%99%E8%A8%93",
-    "timestamp": "2026-09-30T15:26:51.815Z",
     "strategy": ".content-card__main"
   }
 ];
