@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T05:57:48.050Z
+// Last updated: 2026-09-30T06:33:56.374Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣《皇冠》雜誌將停刊　曾發表張愛玲、瓊瑤、三毛作品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181953887234428928526391.jpeg/7s1UbLNz0Mnt0X_2i0UmljLWT_EgHNLs-_mlNPv5pTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60395160/%E5%8F%B0%E7%81%A3-%E7%9A%87%E5%86%A0-%E9%9B%9C%E8%AA%8C%E5%B0%87%E5%81%9C%E5%88%8A-%E6%9B%BE%E7%99%BC%E8%A1%A8%E5%BC%B5%E6%84%9B%E7%8E%B2-%E7%93%8A%E7%91%A4-%E4%B8%89%E6%AF%9B%E4%BD%9C%E5%93%81",
+    "timestamp": "2026-09-30T06:33:56.374Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑特設計劃選樂嶺軒居民即睇樓　何永賢：解說隊伴街坊同前行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181808753830268928860927.jpeg/QZANxZzqUF5l3rXAtvwmZmVOfcqswvi98QwO6csMDuk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395032/%E9%BB%83%E5%A4%A7%E4%BB%99%E6%9D%B1%E5%8C%AF%E9%82%A8%E9%80%94%E4%BA%BA%E8%88%89%E5%A0%B1%E5%90%B8%E6%AF%92-%E8%AD%A6%E6%AA%A2-500%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-40%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-29T19:55:39.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃大仙東匯邨途人舉報吸毒　警檢$500依托咪酯煙彈　40歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181808753830268928860927.jpeg/QZANxZzqUF5l3rXAtvwmZmVOfcqswvi98QwO6csMDuk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395032/%E9%BB%83%E5%A4%A7%E4%BB%99%E6%9D%B1%E5%8C%AF%E9%82%A8%E9%80%94%E4%BA%BA%E8%88%89%E5%A0%B1%E5%90%B8%E6%AF%92-%E8%AD%A6%E6%AA%A2-500%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-40%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-29T19:46:11.814Z",
     "strategy": ".content-card__main"
   }
 ];
