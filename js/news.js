@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T03:31:41.829Z
+// Last updated: 2026-09-30T03:53:09.418Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地漢澳門劫兩女2.1萬　用「水下推進器」偷渡至橫琴上岸即落網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181933876742721536426805.jpeg/DXGhwOUhnJmgbZg5Zp0wPgB3iQs3cPjtGL9MSRi_TEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395121/%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%BE%B3%E9%96%80%E5%8A%AB%E5%85%A9%E5%A5%B32-1%E8%90%AC-%E7%94%A8-%E6%B0%B4%E4%B8%8B%E6%8E%A8%E9%80%B2%E5%99%A8-%E5%81%B7%E6%B8%A1%E8%87%B3%E6%A9%AB%E7%90%B4%E4%B8%8A%E5%B2%B8%E5%8D%B3%E8%90%BD%E7%B6%B2",
+    "timestamp": "2026-09-30T03:53:09.418Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥｜aespa Karina親授7招減肥瘦身技巧　薄荷糖竟可抑制食慾？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
     "timestamp": "2026-09-29T17:58:43.372Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗革命衛隊致函美國選民　籲中期選舉拒絕特朗普",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
-    "timestamp": "2026-09-29T17:48:09.499Z",
     "strategy": ".content-card__main"
   }
 ];
