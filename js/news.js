@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T16:57:39.262Z
+// Last updated: 2026-09-30T17:20:36.439Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍灣德福廣場MMA．有片｜2男纏鬥　出拳起飛腳紮馬　網民嘲無力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182128121051090944259683.jpeg/2-2bjzV61HMtCTZUMsEB8j-CGGn6m-iPK3OzAitzswI",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395406/%E4%B9%9D%E9%BE%8D%E7%81%A3%E5%BE%B7%E7%A6%8F%E5%BB%A3%E5%A0%B4mma-%E6%9C%89%E7%89%87-2%E7%94%B7%E7%BA%8F%E9%AC%A5-%E5%87%BA%E6%8B%B3%E8%B5%B7%E9%A3%9B%E8%85%B3%E7%B4%AE%E9%A6%AC-%E7%B6%B2%E6%B0%91%E5%98%B2%E7%84%A1%E5%8A%9B",
+    "timestamp": "2026-09-30T17:20:36.439Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜飛以色列客機喋血案　沙特阿拉伯拒以軍機接國民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181978045024571392107825.jpeg/Q6UAiwaPSfg1c0nkFXsliC4ANtiBgvCO_bhK8di4SvE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395218/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%97%BA%E8%A7%92%E5%BD%8C%E6%95%A6%E9%81%93%E6%9C%89%E4%BA%BA%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E5%80%92%E8%87%A5%E5%B9%B3%E5%8F%B0%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-09-30T07:03:26.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣《皇冠》雜誌將停刊　曾發表張愛玲、瓊瑤、三毛作品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181953887234428928526391.jpeg/7s1UbLNz0Mnt0X_2i0UmljLWT_EgHNLs-_mlNPv5pTQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60395160/%E5%8F%B0%E7%81%A3-%E7%9A%87%E5%86%A0-%E9%9B%9C%E8%AA%8C%E5%B0%87%E5%81%9C%E5%88%8A-%E6%9B%BE%E7%99%BC%E8%A1%A8%E5%BC%B5%E6%84%9B%E7%8E%B2-%E7%93%8A%E7%91%A4-%E4%B8%89%E6%AF%9B%E4%BD%9C%E5%93%81",
-    "timestamp": "2026-09-30T06:33:56.374Z",
     "strategy": ".content-card__main"
   }
 ];
