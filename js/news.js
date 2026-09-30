@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T15:48:47.529Z
+// Last updated: 2026-09-30T15:58:57.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新世界向機管局交還11 SKIES　政府冀明年4月交接後盡快重新規劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145350542663356416834179.jpeg/ULEoPs_NK1vaFZG0klwkY6bMpV4svAEHaJxPmkKcT5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395402/%E6%96%B0%E4%B8%96%E7%95%8C%E5%90%91%E6%A9%9F%E7%AE%A1%E5%B1%80%E4%BA%A4%E9%82%8411-skies-%E6%94%BF%E5%BA%9C%E5%86%80%E6%98%8E%E5%B9%B44%E6%9C%88%E4%BA%A4%E6%8E%A5%E5%BE%8C%E7%9B%A1%E5%BF%AB%E9%87%8D%E6%96%B0%E8%A6%8F%E5%8A%83",
+    "timestamp": "2026-09-30T15:58:57.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新世界向機管局交還11 SKIES　政府冀明年4月交接後盡快重新規劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181928320476909568914287.jpeg/hQvlg9WodGVTH_DFs3iNlvjHuojhNRzxY7XsY2O17GM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395097/%E7%BE%8E%E5%9C%8B%E6%B5%B7%E8%BB%8D%E9%80%80%E5%BD%B933%E5%B9%B4%E8%80%81%E8%89%A6%E4%BC%8A%E5%88%A9%E6%B9%96%E8%99%9F-%E6%96%99%E6%9C%88%E5%BA%95%E5%86%8D%E9%80%802%E8%89%98-%E6%8F%90%E5%BA%B7%E5%BE%B7%E7%BE%85%E5%8A%A0-%E7%B4%9A",
     "timestamp": "2026-09-30T05:47:09.880Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港珠澳大橋進口鮮活食品10.1起24小時通關　經文錦渡維持朝7晚10",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114187267984986112108534.jpeg/k-RHvLX4kulBT4F4mTyvjQe6WltYFU524YHU8-GB1PM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395169/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E9%80%B2%E5%8F%A3%E9%AE%AE%E6%B4%BB%E9%A3%9F%E5%93%8110-1%E8%B5%B724%E5%B0%8F%E6%99%82%E9%80%9A%E9%97%9C-%E7%B6%93%E6%96%87%E9%8C%A6%E6%B8%A1%E7%B6%AD%E6%8C%81%E6%9C%9D7%E6%99%9A10",
-    "timestamp": "2026-09-30T05:01:54.192Z",
     "strategy": ".content-card__main"
   }
 ];
