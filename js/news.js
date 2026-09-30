@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T06:33:56.374Z
+// Last updated: 2026-09-30T07:03:26.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜旺角彌敦道有人高處墮下　倒臥平台不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181978045024571392107825.jpeg/Q6UAiwaPSfg1c0nkFXsliC4ANtiBgvCO_bhK8di4SvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395218/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%97%BA%E8%A7%92%E5%BD%8C%E6%95%A6%E9%81%93%E6%9C%89%E4%BA%BA%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E5%80%92%E8%87%A5%E5%B9%B3%E5%8F%B0%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-09-30T07:03:26.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣《皇冠》雜誌將停刊　曾發表張愛玲、瓊瑤、三毛作品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
     "timestamp": "2026-09-29T20:23:17.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃大仙東匯邨途人舉報吸毒　警檢$500依托咪酯煙彈　40歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181808753830268928860927.jpeg/QZANxZzqUF5l3rXAtvwmZmVOfcqswvi98QwO6csMDuk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395032/%E9%BB%83%E5%A4%A7%E4%BB%99%E6%9D%B1%E5%8C%AF%E9%82%A8%E9%80%94%E4%BA%BA%E8%88%89%E5%A0%B1%E5%90%B8%E6%AF%92-%E8%AD%A6%E6%AA%A2-500%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-40%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-09-29T19:55:39.012Z",
     "strategy": ".content-card__main"
   }
 ];
