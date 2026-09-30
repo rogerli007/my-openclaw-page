@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T18:25:27.587Z
+// Last updated: 2026-09-30T18:49:57.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何文田停電｜多幢大廈受影響　氧氣機停運作　老翁不適送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182140604298039296034658.jpeg/3_wXTeQ9E1eraY5FqSBf6kFFm2I1W8oXPr2uaz69rms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395412/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E5%A4%9A%E5%B9%A2%E5%A4%A7%E5%BB%88%E5%8F%97%E5%BD%B1%E9%9F%BF-%E6%B0%A7%E6%B0%A3%E6%A9%9F%E5%81%9C%E9%81%8B%E4%BD%9C-%E8%80%81%E7%BF%81%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
+    "timestamp": "2026-09-30T18:49:57.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田多幢大廈突停電　中電搶修　街坊網上狂呻好熱：唔知點瞓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182026216656343040230174.jpeg/3TB3Vob4toN7t_hhNSY_NGUKLOK1dGRIuvhJp7r4Sac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60395319/%E7%A6%8F%E7%94%B0%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A-%E6%9C%80%E6%96%B06%E6%96%B9%E6%B3%95-%E8%BB%8A%E8%B2%BB-10%E8%B5%B7-%E9%80%9A%E5%AE%B5%E5%B0%8F%E5%B7%B4-%E5%85%8D%E8%B2%BB%E5%95%86%E5%A0%B4%E5%B7%B4%E5%A3%AB",
     "timestamp": "2026-09-30T09:59:41.635Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深江鐵路洪奇瀝大橋合龍！深圳1小時達江門　鋼量等同6座巴黎鐵塔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181988622371393536201473.jpeg/OAR9cxpMykjMnsCs6tZaJycos9oqrO-B4JXsVOCV7FQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395234/%E6%B7%B1%E6%B1%9F%E9%90%B5%E8%B7%AF%E6%B4%AA%E5%A5%87%E7%80%9D%E5%A4%A7%E6%A9%8B%E5%90%88%E9%BE%8D-%E6%B7%B1%E5%9C%B31%E5%B0%8F%E6%99%82%E9%81%94%E6%B1%9F%E9%96%80-%E9%8B%BC%E9%87%8F%E7%AD%89%E5%90%8C6%E5%BA%A7%E5%B7%B4%E9%BB%8E%E9%90%B5%E5%A1%94",
-    "timestamp": "2026-09-30T09:47:17.096Z",
     "strategy": ".content-card__main"
   }
 ];
