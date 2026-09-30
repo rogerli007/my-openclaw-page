@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T18:49:57.626Z
+// Last updated: 2026-09-30T19:34:30.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何文田停電｜黃金周旅客諒解：唔係酒店問題　男街坊：BB無乜影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182161963564666880529183.jpeg/npfmoJKdv1vVM6F3moUZtLKU1m3eCAusTCizVXYos1U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395415/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E9%BB%83%E9%87%91%E5%91%A8%E6%97%85%E5%AE%A2%E8%AB%92%E8%A7%A3-%E5%94%94%E4%BF%82%E9%85%92%E5%BA%97%E5%95%8F%E9%A1%8C-%E7%94%B7%E8%A1%97%E5%9D%8A-bb%E7%84%A1%E4%B9%9C%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-09-30T19:34:30.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田停電｜多幢大廈受影響　氧氣機停運作　老翁不適送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182040705678184448528174.jpeg/MyOUs4EsSfk3-C3s87XkK_RCCG1FuCz-7FGsXOxRrFw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60395360/%E8%B5%A4%E6%9F%B1one-stanley-%E5%9B%9B%E6%88%BF%E8%A4%87%E5%BC%8F5204%E8%90%AC%E6%B2%BD-%E4%B9%9D%E9%BE%8D%E5%A1%98%E5%8D%9A%E5%B3%AF4883-1%E8%90%AC%E6%B2%BD%E5%9B%9B%E6%88%BF",
     "timestamp": "2026-09-30T10:57:49.144Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福田口岸交通｜最新6方法｜車費$10起！通宵小巴＋免費商場巴士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182026216656343040230174.jpeg/3TB3Vob4toN7t_hhNSY_NGUKLOK1dGRIuvhJp7r4Sac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60395319/%E7%A6%8F%E7%94%B0%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A-%E6%9C%80%E6%96%B06%E6%96%B9%E6%B3%95-%E8%BB%8A%E8%B2%BB-10%E8%B5%B7-%E9%80%9A%E5%AE%B5%E5%B0%8F%E5%B7%B4-%E5%85%8D%E8%B2%BB%E5%95%86%E5%A0%B4%E5%B7%B4%E5%A3%AB",
-    "timestamp": "2026-09-30T09:59:41.635Z",
     "strategy": ".content-card__main"
   }
 ];
