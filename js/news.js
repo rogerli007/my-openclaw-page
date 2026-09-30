@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T21:56:01.734Z
+// Last updated: 2026-09-30T22:21:15.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶天氣｜酷熱天氣警告仍生效　最高氣溫34度　明日後日驟雨多",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182207135769956352924563.jpeg/YrvQVQIheS5J5aStA5J9ib4kTVWlSSW9U6jrcGmo63A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60395422/%E5%9C%8B%E6%85%B6%E5%A4%A9%E6%B0%A3-%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A%E4%BB%8D%E7%94%9F%E6%95%88-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB34%E5%BA%A6-%E6%98%8E%E6%97%A5%E5%BE%8C%E6%97%A5%E9%A9%9F%E9%9B%A8%E5%A4%9A",
+    "timestamp": "2026-09-30T22:21:15.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一黃金周│兩網吧客量和平日相若　母親陪子女打機　麥當勞冷清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182087222396981248974382.jpeg/Ne7ptN3zvCa4e-3Erx1OAtXtS_I3lN6xJXRXpiV0V6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395394/%E8%A1%9E%E7%94%9F%E7%BD%B2%E5%81%95%E8%AD%A6%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E5%B0%96%E6%B2%99%E5%92%80%E5%85%A9%E8%99%95%E6%89%80-%E6%AA%A25900%E6%94%AF%E6%9C%AA%E7%B6%93%E8%A8%BB%E5%86%8A%E8%97%A5%E5%8A%91%E8%A3%BD%E5%93%81",
     "timestamp": "2026-09-30T14:23:46.113Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣州樓市新政｜商品房預售須主體結構封頂　現房定金上限5%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182030096383348736869104.jpeg/ob-Ii4fnmoducJ8OF_yp4D0aDj7uN9xft3IcSLdyHEg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60395348/%E5%BB%A3%E5%B7%9E%E6%A8%93%E5%B8%82%E6%96%B0%E6%94%BF-%E5%95%86%E5%93%81%E6%88%BF%E9%A0%90%E5%94%AE%E9%A0%88%E4%B8%BB%E9%AB%94%E7%B5%90%E6%A7%8B%E5%B0%81%E9%A0%82-%E7%8F%BE%E6%88%BF%E5%AE%9A%E9%87%91%E4%B8%8A%E9%99%905",
-    "timestamp": "2026-09-30T13:58:07.572Z",
     "strategy": ".content-card__main"
   }
 ];
