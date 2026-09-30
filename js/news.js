@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T20:23:05.621Z
+// Last updated: 2026-09-30T20:45:12.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "板式網球｜羅易殷/陳曉嵐以亞運為起點　放眼Padel更長遠發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178727526666240254608.jpeg/cgH0VeeODEBIU9fNq6bHyk38LJaPbDXACvUVgQr1FYE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395420/%E6%9D%BF%E5%BC%8F%E7%B6%B2%E7%90%83-%E7%BE%85%E6%98%93%E6%AE%B7-%E9%99%B3%E6%9B%89%E5%B5%90%E4%BB%A5%E4%BA%9E%E9%81%8B%E7%82%BA%E8%B5%B7%E9%BB%9E-%E6%94%BE%E7%9C%BCpadel%E6%9B%B4%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-09-30T20:45:12.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "板式網球｜羅易殷/陳曉嵐以亞運為起點　放眼Padel更長遠發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181977076907905024357042.jpeg/PakrNG745rZtPKI3wT5LNH4mFOeoMG0N6U5-9elOfvU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395212/%E6%9C%B1%E6%95%8F%E7%80%9A%E8%87%AA%E7%88%86%E7%9B%AE%E5%89%8D%E5%96%AE%E8%BA%AB%E6%93%87%E5%81%B6%E6%A5%B5%E9%87%8D%E7%B7%A3%E5%88%86-%E5%B0%8B%E6%B1%82%E6%84%9B%E6%83%85%E7%9C%8B%E9%87%8D%E6%BA%9D%E9%80%9A%E8%88%87%E9%96%8B%E6%9C%97%E6%80%A7%E6%A0%BC",
     "timestamp": "2026-09-30T12:33:51.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一黃金周｜海關加強巡各區購物熱點　設快速行動隊處理旅客投訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182047786665775104698174.jpeg/A4rKzAscnJdNEJCifU5bbUvvEVBIMnJmphko9KYZKPQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395367/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E6%B5%B7%E9%97%9C%E5%8A%A0%E5%BC%B7%E5%B7%A1%E5%90%84%E5%8D%80%E8%B3%BC%E7%89%A9%E7%86%B1%E9%BB%9E-%E8%A8%AD%E5%BF%AB%E9%80%9F%E8%A1%8C%E5%8B%95%E9%9A%8A%E8%99%95%E7%90%86%E6%97%85%E5%AE%A2%E6%8A%95%E8%A8%B4",
-    "timestamp": "2026-09-30T11:47:48.795Z",
     "strategy": ".content-card__main"
   }
 ];
