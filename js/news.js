@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T09:47:17.096Z
+// Last updated: 2026-09-30T09:59:41.635Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福田口岸交通｜最新6方法｜車費$10起！通宵小巴＋免費商場巴士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182026216656343040230174.jpeg/3TB3Vob4toN7t_hhNSY_NGUKLOK1dGRIuvhJp7r4Sac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60395319/%E7%A6%8F%E7%94%B0%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A-%E6%9C%80%E6%96%B06%E6%96%B9%E6%B3%95-%E8%BB%8A%E8%B2%BB-10%E8%B5%B7-%E9%80%9A%E5%AE%B5%E5%B0%8F%E5%B7%B4-%E5%85%8D%E8%B2%BB%E5%95%86%E5%A0%B4%E5%B7%B4%E5%A3%AB",
+    "timestamp": "2026-09-30T09:59:41.635Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深江鐵路洪奇瀝大橋合龍！深圳1小時達江門　鋼量等同6座巴黎鐵塔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181695856143765504814763.png/Ji0eIgM6WhsR-SER3VbeXGEf0k1ihfpDTJQ-WEyUPlg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393827/%E7%BE%8E%E5%8A%A0%E7%89%A9%E5%83%B9%E5%A4%A7%E9%80%86%E8%BD%89-%E8%8F%AF%E4%BA%BA%E8%B7%A8%E5%A2%83%E6%B6%88%E8%B2%BB%E9%81%BF%E9%9A%AA%E6%94%BB%E7%95%A5-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E5%B7%AE%E5%83%B9%E8%88%87%E7%A8%85%E9%A0%85%E8%A6%8F%E5%89%87",
     "timestamp": "2026-09-29T22:20:55.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄戰略轟炸機遠東訓練時墜毀　機上6死1傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
-    "timestamp": "2026-09-29T21:43:21.313Z",
     "strategy": ".content-card__main"
   }
 ];
