@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T15:26:51.815Z
+// Last updated: 2026-09-30T15:48:47.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新世界向機管局交還11 SKIES　政府冀明年4月交接後盡快重新規劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145350542663356416834179.jpeg/ULEoPs_NK1vaFZG0klwkY6bMpV4svAEHaJxPmkKcT5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395402/%E6%96%B0%E4%B8%96%E7%95%8C%E5%90%91%E6%A9%9F%E7%AE%A1%E5%B1%80%E4%BA%A4%E9%82%8411-skies-%E6%94%BF%E5%BA%9C%E5%86%80%E6%98%8E%E5%B9%B44%E6%9C%88%E4%BA%A4%E6%8E%A5%E5%BE%8C%E7%9B%A1%E5%BF%AB%E9%87%8D%E6%96%B0%E8%A6%8F%E5%8A%83",
+    "timestamp": "2026-09-30T15:48:47.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運2026｜名古屋市長公開致歉：播錯國歌不可接受　認真吸取教訓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114187267984986112108534.jpeg/k-RHvLX4kulBT4F4mTyvjQe6WltYFU524YHU8-GB1PM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395169/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E9%80%B2%E5%8F%A3%E9%AE%AE%E6%B4%BB%E9%A3%9F%E5%93%8110-1%E8%B5%B724%E5%B0%8F%E6%99%82%E9%80%9A%E9%97%9C-%E7%B6%93%E6%96%87%E9%8C%A6%E6%B8%A1%E7%B6%AD%E6%8C%81%E6%9C%9D7%E6%99%9A10",
     "timestamp": "2026-09-30T05:01:54.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「G2」想像下印度如何重估對美關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60395129/g2-%E6%83%B3%E5%83%8F%E4%B8%8B%E5%8D%B0%E5%BA%A6%E5%A6%82%E4%BD%95%E9%87%8D%E4%BC%B0%E5%B0%8D%E7%BE%8E%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-09-30T04:25:33.575Z",
     "strategy": ".content-card__main"
   }
 ];
