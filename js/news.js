@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T07:33:59.825Z
+// Last updated: 2026-09-30T09:23:46.502Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "閃身步Tiktok洗腦大熱！網紅掀模仿潮　醫生警告: 有韌帶拉傷風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182016564380045312087295.jpeg/MjtdviJ2Z2OdtpS7jvAPNMK3R76CoO4IHAUtXxwFLV8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60395077/%E9%96%83%E8%BA%AB%E6%AD%A5tiktok%E6%B4%97%E8%85%A6%E5%A4%A7%E7%86%B1-%E7%B6%B2%E7%B4%85%E6%8E%80%E6%A8%A1%E4%BB%BF%E6%BD%AE-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A-%E6%9C%89%E9%9F%8C%E5%B8%B6%E6%8B%89%E5%82%B7%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-09-30T09:23:46.502Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗疑狗咬死人｜新田一隻無人看管狗隻被捕獲　有晶片將聯絡狗主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
     "timestamp": "2026-09-29T21:20:13.096Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄戰略轟炸機遠東訓練時墜毀　機上6死1傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
-    "timestamp": "2026-09-29T20:46:23.585Z",
     "strategy": ".content-card__main"
   }
 ];
