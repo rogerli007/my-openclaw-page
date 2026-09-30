@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T10:57:49.144Z
+// Last updated: 2026-09-30T11:33:44.973Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "MambinoOrganics一款嬰兒沐浴露含致敏物　海關拘1人涉違商品條例",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182021687080652800620893.jpeg/kKiEYYd_FqnC0Pn81dNB8SJtJ3JNGnwAOwdPFzsHTxc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395330/mambinoorganics%E4%B8%80%E6%AC%BE%E5%AC%B0%E5%85%92%E6%B2%90%E6%B5%B4%E9%9C%B2%E5%90%AB%E8%87%B4%E6%95%8F%E7%89%A9-%E6%B5%B7%E9%97%9C%E6%8B%981%E4%BA%BA%E6%B6%89%E9%81%95%E5%95%86%E5%93%81%E6%A2%9D%E4%BE%8B",
+    "timestamp": "2026-09-30T11:33:44.973Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "赤柱ONE STANLEY 四房複式5204萬沽　九龍塘博峯4883.1萬沽四房",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103077371860226048943571.jpeg/sXy_DtKAqKQFgXWB9d8oppXqb_pCjy2Rb8gmfm_IJn4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395039/%E9%87%91%E8%88%87%E6%AD%A3%E6%96%A5%E9%9F%93%E5%9C%8B%E8%87%AA%E5%B0%8E%E8%87%AA%E6%BC%94%E5%9C%B0%E9%9B%B7%E4%BA%8B%E4%BB%B6-%E8%AD%A6%E5%91%8A%E8%8B%A5%E9%96%8B%E6%A7%8D%E5%B0%87%E5%A0%B1%E5%BE%A9%E6%89%93%E6%93%8A",
     "timestamp": "2026-09-29T23:19:34.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港第一代花美男近照曝光顏值崩壞　濃妝震撼眼球：變得陰陽怪氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181672461268160512376049.jpeg/Fff7yRgOCUFX2sVl6Jc2ShZ64u7YpxDY5v-oneb_qJ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394886/%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E4%BB%A3%E8%8A%B1%E7%BE%8E%E7%94%B7%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E9%A1%8F%E5%80%BC%E5%B4%A9%E5%A3%9E-%E6%BF%83%E5%A6%9D%E9%9C%87%E6%92%BC%E7%9C%BC%E7%90%83-%E8%AE%8A%E5%BE%97%E9%99%B0%E9%99%BD%E6%80%AA%E6%B0%A3",
-    "timestamp": "2026-09-29T22:44:07.297Z",
     "strategy": ".content-card__main"
   }
 ];
