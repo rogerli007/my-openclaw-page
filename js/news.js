@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T11:33:44.973Z
+// Last updated: 2026-09-30T11:47:48.795Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一黃金周｜海關加強巡各區購物熱點　設快速行動隊處理旅客投訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182047786665775104698174.jpeg/A4rKzAscnJdNEJCifU5bbUvvEVBIMnJmphko9KYZKPQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395367/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E6%B5%B7%E9%97%9C%E5%8A%A0%E5%BC%B7%E5%B7%A1%E5%90%84%E5%8D%80%E8%B3%BC%E7%89%A9%E7%86%B1%E9%BB%9E-%E8%A8%AD%E5%BF%AB%E9%80%9F%E8%A1%8C%E5%8B%95%E9%9A%8A%E8%99%95%E7%90%86%E6%97%85%E5%AE%A2%E6%8A%95%E8%A8%B4",
+    "timestamp": "2026-09-30T11:47:48.795Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "MambinoOrganics一款嬰兒沐浴露含致敏物　海關拘1人涉違商品條例",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220914/646808033132941312387095.jpeg/QIQ9mcdV2zQEGszaJBqt_n806IJ1Y3XxXYpwOV2KcDk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395040/%E6%B2%99%E7%94%B0%E6%B0%B4%E6%B3%89%E6%BE%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-4%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%8F%E6%95%A3%E7%B4%8460%E4%BA%BA",
     "timestamp": "2026-09-29T23:32:25.959Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金與正斥韓國自導自演地雷事件　警告若開槍將報復打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1103077371860226048943571.jpeg/sXy_DtKAqKQFgXWB9d8oppXqb_pCjy2Rb8gmfm_IJn4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395039/%E9%87%91%E8%88%87%E6%AD%A3%E6%96%A5%E9%9F%93%E5%9C%8B%E8%87%AA%E5%B0%8E%E8%87%AA%E6%BC%94%E5%9C%B0%E9%9B%B7%E4%BA%8B%E4%BB%B6-%E8%AD%A6%E5%91%8A%E8%8B%A5%E9%96%8B%E6%A7%8D%E5%B0%87%E5%A0%B1%E5%BE%A9%E6%89%93%E6%93%8A",
-    "timestamp": "2026-09-29T23:19:34.818Z",
     "strategy": ".content-card__main"
   }
 ];
