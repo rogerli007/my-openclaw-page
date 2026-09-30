@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T02:07:55.564Z
+// Last updated: 2026-09-30T03:31:41.829Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "減肥｜aespa Karina親授7招減肥瘦身技巧　薄荷糖竟可抑制食慾？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162398521811275776964783.jpeg/XXJZV9i9OL_uaR_XdvbDtDwXBLuUXnTraCV96mglfeo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60377753/%E6%B8%9B%E8%82%A5-aespa-karina%E8%A6%AA%E6%8E%887%E6%8B%9B%E6%B8%9B%E8%82%A5%E7%98%A6%E8%BA%AB%E6%8A%80%E5%B7%A7-%E8%96%84%E8%8D%B7%E7%B3%96%E7%AB%9F%E5%8F%AF%E6%8A%91%E5%88%B6%E9%A3%9F%E6%85%BE",
+    "timestamp": "2026-09-30T03:31:41.829Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普與科技高層簽署AI安全協議　擬設10人委員會協助監督業界",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
     "timestamp": "2026-09-29T17:48:09.499Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟擬推歐版301工具　中國商務部：若設限必將堅決回應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102914374441373696058732.jpeg/8Tql5gJu4pUDO8QW6dc9YL22ombJD4hofc5LlX3OS5U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395018/%E6%AD%90%E7%9B%9F%E6%93%AC%E6%8E%A8%E6%AD%90%E7%89%88301%E5%B7%A5%E5%85%B7-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E8%8B%A5%E8%A8%AD%E9%99%90%E5%BF%85%E5%B0%87%E5%A0%85%E6%B1%BA%E5%9B%9E%E6%87%89",
-    "timestamp": "2026-09-29T17:19:00.484Z",
     "strategy": ".content-card__main"
   }
 ];
