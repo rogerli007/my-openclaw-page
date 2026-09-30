@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T12:33:51.250Z
+// Last updated: 2026-09-30T13:46:36.194Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣州樓市新政｜商品房預售須主體結構封頂　現房定金上限5%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182030096383348736869104.jpeg/ob-Ii4fnmoducJ8OF_yp4D0aDj7uN9xft3IcSLdyHEg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60395348/%E5%BB%A3%E5%B7%9E%E6%A8%93%E5%B8%82%E6%96%B0%E6%94%BF-%E5%95%86%E5%93%81%E6%88%BF%E9%A0%90%E5%94%AE%E9%A0%88%E4%B8%BB%E9%AB%94%E7%B5%90%E6%A7%8B%E5%B0%81%E9%A0%82-%E7%8F%BE%E6%88%BF%E5%AE%9A%E9%87%91%E4%B8%8A%E9%99%905",
+    "timestamp": "2026-09-30T13:46:36.194Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱敏瀚自爆目前單身擇偶極重緣分　尋求愛情看重溝通與開朗性格",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181468403781603328851793.jpeg/Y-wBlUAWp_m3OqNnC6kPFeiHmkKwgcrDFIqYFRSKmBU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60395030/%E7%BE%8E%E5%9C%8B%E6%8B%92%E7%B5%95%E4%BC%8A%E6%9C%977%E5%A4%A9%E5%81%9C%E7%81%AB%E6%96%B9%E6%A1%88-%E5%85%B6%E5%AF%A6%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%93%94%E5%BF%83%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
     "timestamp": "2026-09-30T00:52:49.271Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜英偉達1500億創紀錄回購　為何美股巨頭愈賺愈「買」？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165453084583792640924730.jpeg/9tHs-nECaTDNRj7tIWFcC_5KoZmXT11UKJxkEyicZBM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60395043/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%8B%B1%E5%81%89%E9%81%941500%E5%84%84%E5%89%B5%E7%B4%80%E9%8C%84%E5%9B%9E%E8%B3%BC-%E7%82%BA%E4%BD%95%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%A0%AD%E6%84%88%E8%B3%BA%E6%84%88-%E8%B2%B7",
-    "timestamp": "2026-09-29T23:44:17.876Z",
     "strategy": ".content-card__main"
   }
 ];
