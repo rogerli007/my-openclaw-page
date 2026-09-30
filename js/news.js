@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T23:47:27.277Z
+// Last updated: 2026-09-30T23:55:33.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶十一黃金周．最新消息｜升旗儀式、市民享優惠實況及煙花直擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178873398109933568624790.jpeg/juoKpgwqPRlmoszkqdQsHD8vgACHLA8SMFDntSVQ57U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395122/%E5%9C%8B%E6%85%B6%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E5%8D%87%E6%97%97%E5%84%80%E5%BC%8F-%E5%B8%82%E6%B0%91%E4%BA%AB%E5%84%AA%E6%83%A0%E5%AF%A6%E6%B3%81%E5%8F%8A%E7%85%99%E8%8A%B1%E7%9B%B4%E6%93%8A",
+    "timestamp": "2026-09-30T23:55:33.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一國慶直播｜金紫荊廣場國慶升旗儀式　會展國慶酒會李家超主禮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145350542663356416834179.jpeg/ULEoPs_NK1vaFZG0klwkY6bMpV4svAEHaJxPmkKcT5o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395402/%E6%96%B0%E4%B8%96%E7%95%8C%E5%90%91%E6%A9%9F%E7%AE%A1%E5%B1%80%E4%BA%A4%E9%82%8411-skies-%E6%94%BF%E5%BA%9C%E5%86%80%E6%98%8E%E5%B9%B44%E6%9C%88%E4%BA%A4%E6%8E%A5%E5%BE%8C%E7%9B%A1%E5%BF%AB%E9%87%8D%E6%96%B0%E8%A6%8F%E5%8A%83",
     "timestamp": "2026-09-30T15:58:57.344Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新世界向機管局交還11 SKIES　政府冀明年4月交接後盡快重新規劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145350542663356416834179.jpeg/ULEoPs_NK1vaFZG0klwkY6bMpV4svAEHaJxPmkKcT5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395402/%E6%96%B0%E4%B8%96%E7%95%8C%E5%90%91%E6%A9%9F%E7%AE%A1%E5%B1%80%E4%BA%A4%E9%82%8411-skies-%E6%94%BF%E5%BA%9C%E5%86%80%E6%98%8E%E5%B9%B44%E6%9C%88%E4%BA%A4%E6%8E%A5%E5%BE%8C%E7%9B%A1%E5%BF%AB%E9%87%8D%E6%96%B0%E8%A6%8F%E5%8A%83",
-    "timestamp": "2026-09-30T15:48:47.529Z",
     "strategy": ".content-card__main"
   }
 ];
