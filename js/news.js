@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T15:02:43.992Z
+// Last updated: 2026-09-30T15:26:51.815Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運2026｜名古屋市長公開致歉：播錯國歌不可接受　認真吸取教訓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182081074067410944257601.png/dsEh2ypi7Xs8gFlXLFvcZDvOYbDjPIX2WD3oKVg96Ck?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395390/%E4%BA%9E%E9%81%8B2026-%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E9%95%B7%E5%85%AC%E9%96%8B%E8%87%B4%E6%AD%89-%E6%92%AD%E9%8C%AF%E5%9C%8B%E6%AD%8C%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E8%AA%8D%E7%9C%9F%E5%90%B8%E5%8F%96%E6%95%99%E8%A8%93",
+    "timestamp": "2026-09-30T15:26:51.815Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜九龍灣德福花園19歲女生疑服藥尋短　父親揭發惜太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60395129/g2-%E6%83%B3%E5%83%8F%E4%B8%8B%E5%8D%B0%E5%BA%A6%E5%A6%82%E4%BD%95%E9%87%8D%E4%BC%B0%E5%B0%8D%E7%BE%8E%E9%97%9C%E4%BF%82",
     "timestamp": "2026-09-30T04:25:33.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地漢澳門劫兩女2.1萬　用「水下推進器」偷渡至橫琴上岸即落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181933876742721536426805.jpeg/DXGhwOUhnJmgbZg5Zp0wPgB3iQs3cPjtGL9MSRi_TEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395121/%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%BE%B3%E9%96%80%E5%8A%AB%E5%85%A9%E5%A5%B32-1%E8%90%AC-%E7%94%A8-%E6%B0%B4%E4%B8%8B%E6%8E%A8%E9%80%B2%E5%99%A8-%E5%81%B7%E6%B8%A1%E8%87%B3%E6%A9%AB%E7%90%B4%E4%B8%8A%E5%B2%B8%E5%8D%B3%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-09-30T03:53:09.418Z",
     "strategy": ".content-card__main"
   }
 ];
