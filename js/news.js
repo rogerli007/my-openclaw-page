@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T07:03:26.465Z
+// Last updated: 2026-09-30T07:33:59.825Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗疑狗咬死人｜新田一隻無人看管狗隻被捕獲　有晶片將聯絡狗主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181988499163713536972610.jpeg/0kr2Qso9pbtsmt9gEUExmcEcQRmY6JrzQPk-JkD5PiY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395247/%E5%85%83%E6%9C%97%E7%96%91%E7%8B%97%E5%92%AC%E6%AD%BB%E4%BA%BA-%E6%96%B0%E7%94%B0%E4%B8%80%E9%9A%BB%E7%84%A1%E4%BA%BA%E7%9C%8B%E7%AE%A1%E7%8B%97%E9%9A%BB%E8%A2%AB%E6%8D%95%E7%8D%B2-%E6%9C%89%E6%99%B6%E7%89%87%E5%B0%87%E8%81%AF%E7%B5%A1%E7%8B%97%E4%B8%BB",
+    "timestamp": "2026-09-30T07:33:59.825Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜旺角彌敦道有人高處墮下　倒臥平台不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
     "timestamp": "2026-09-29T20:46:23.585Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄戰略轟炸機遠東訓練時墜毀　機上6死1傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181811907569389568152790.png/8LNCwZ8bli-eePeqUDuaGnLfVf7Pg66EEsY13hLGNd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395031/%E4%BF%84%E6%88%B0%E7%95%A5%E8%BD%9F%E7%82%B8%E6%A9%9F%E9%81%A0%E6%9D%B1%E8%A8%93%E7%B7%B4%E6%99%82%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E6%AD%BB1%E5%82%B7",
-    "timestamp": "2026-09-29T20:23:17.001Z",
     "strategy": ".content-card__main"
   }
 ];
