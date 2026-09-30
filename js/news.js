@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T01:39:00.299Z
+// Last updated: 2026-09-30T02:07:55.564Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普與科技高層簽署AI安全協議　擬設10人委員會協助監督業界",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181902422511980544982430.jpeg/XHDIugPqc4g0GLaK5N_Ay74hGwRq4Noyp4er-qeHq_o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395062/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E7%A7%91%E6%8A%80%E9%AB%98%E5%B1%A4%E7%B0%BD%E7%BD%B2ai%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E6%93%AC%E8%A8%AD10%E4%BA%BA%E5%A7%94%E5%93%A1%E6%9C%83%E5%8D%94%E5%8A%A9%E7%9B%A3%E7%9D%A3%E6%A5%AD%E7%95%8C",
+    "timestamp": "2026-09-30T02:07:55.564Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車身離奇被「打窿」！專家揭：夜蛾幼蟲咬穿塑膠　籲避免樹下停車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260224/1102914374441373696058732.jpeg/8Tql5gJu4pUDO8QW6dc9YL22ombJD4hofc5LlX3OS5U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395018/%E6%AD%90%E7%9B%9F%E6%93%AC%E6%8E%A8%E6%AD%90%E7%89%88301%E5%B7%A5%E5%85%B7-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E8%8B%A5%E8%A8%AD%E9%99%90%E5%BF%85%E5%B0%87%E5%A0%85%E6%B1%BA%E5%9B%9E%E6%87%89",
     "timestamp": "2026-09-29T17:19:00.484Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳傑莊首爾成立「亞洲Web3政策推動聯盟」冀明年多國加入擴生態圈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181768523043704832287106.png/KYtvJ1ENU3-cVGX1TQlQQJ51S8unOs6PPLUH6jy1B-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395021/%E5%90%B3%E5%82%91%E8%8E%8A%E9%A6%96%E7%88%BE%E6%88%90%E7%AB%8B-%E4%BA%9E%E6%B4%B2web3%E6%94%BF%E7%AD%96%E6%8E%A8%E5%8B%95%E8%81%AF%E7%9B%9F-%E5%86%80%E6%98%8E%E5%B9%B4%E5%A4%9A%E5%9C%8B%E5%8A%A0%E5%85%A5%E6%93%B4%E7%94%9F%E6%85%8B%E5%9C%88",
-    "timestamp": "2026-09-29T16:59:43.416Z",
     "strategy": ".content-card__main"
   }
 ];
