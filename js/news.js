@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T03:53:09.418Z
+// Last updated: 2026-09-30T04:25:33.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「G2」想像下印度如何重估對美關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180295456106745856802139.jpeg/pzRExY7ZBxgxmaiOdGV_m2MDhagc8SRAiX9IaIl_SGg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60395129/g2-%E6%83%B3%E5%83%8F%E4%B8%8B%E5%8D%B0%E5%BA%A6%E5%A6%82%E4%BD%95%E9%87%8D%E4%BC%B0%E5%B0%8D%E7%BE%8E%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-09-30T04:25:33.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地漢澳門劫兩女2.1萬　用「水下推進器」偷渡至橫琴上岸即落網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
     "timestamp": "2026-09-29T18:26:17.476Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗革命衛隊致函美國選民　籲中期選舉拒絕特朗普",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
-    "timestamp": "2026-09-29T17:58:43.372Z",
     "strategy": ".content-card__main"
   }
 ];
