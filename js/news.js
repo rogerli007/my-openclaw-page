@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T20:45:12.128Z
+// Last updated: 2026-09-30T21:45:40.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一黃金周│兩網吧客量和平日相若　母親陪子女打機　麥當勞冷清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178599067717632946158.jpeg/SSH_WMRA6Psqtqa-V3l6YUR8vVny16uqVGk2Qm5pNkI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395417/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%85%A9%E7%B6%B2%E5%90%A7%E5%AE%A2%E9%87%8F%E5%92%8C%E5%B9%B3%E6%97%A5%E7%9B%B8%E8%8B%A5-%E6%AF%8D%E8%A6%AA%E9%99%AA%E5%AD%90%E5%A5%B3%E6%89%93%E6%A9%9F-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%86%B7%E6%B8%85",
+    "timestamp": "2026-09-30T21:45:40.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "板式網球｜羅易殷/陳曉嵐以亞運為起點　放眼Padel更長遠發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182030096383348736869104.jpeg/ob-Ii4fnmoducJ8OF_yp4D0aDj7uN9xft3IcSLdyHEg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60395348/%E5%BB%A3%E5%B7%9E%E6%A8%93%E5%B8%82%E6%96%B0%E6%94%BF-%E5%95%86%E5%93%81%E6%88%BF%E9%A0%90%E5%94%AE%E9%A0%88%E4%B8%BB%E9%AB%94%E7%B5%90%E6%A7%8B%E5%B0%81%E9%A0%82-%E7%8F%BE%E6%88%BF%E5%AE%9A%E9%87%91%E4%B8%8A%E9%99%905",
     "timestamp": "2026-09-30T13:46:36.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱敏瀚自爆目前單身擇偶極重緣分　尋求愛情看重溝通與開朗性格",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181977076907905024357042.jpeg/PakrNG745rZtPKI3wT5LNH4mFOeoMG0N6U5-9elOfvU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395212/%E6%9C%B1%E6%95%8F%E7%80%9A%E8%87%AA%E7%88%86%E7%9B%AE%E5%89%8D%E5%96%AE%E8%BA%AB%E6%93%87%E5%81%B6%E6%A5%B5%E9%87%8D%E7%B7%A3%E5%88%86-%E5%B0%8B%E6%B1%82%E6%84%9B%E6%83%85%E7%9C%8B%E9%87%8D%E6%BA%9D%E9%80%9A%E8%88%87%E9%96%8B%E6%9C%97%E6%80%A7%E6%A0%BC",
-    "timestamp": "2026-09-30T12:33:51.250Z",
     "strategy": ".content-card__main"
   }
 ];
