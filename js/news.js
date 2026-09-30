@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T22:55:23.985Z
+// Last updated: 2026-09-30T23:20:07.751Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥浚龍父放售淺水灣道複式海景洋房　市值約2.5億｜多圖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182042492686569472504186.jpeg/bMb8ut3G9HsUHYhvZnJERnQ6gQfPlSB2XsoHxV7KB8U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60395285/%E9%BA%A5%E6%B5%9A%E9%BE%8D%E7%88%B6%E6%94%BE%E5%94%AE%E6%B7%BA%E6%B0%B4%E7%81%A3%E9%81%93%E8%A4%87%E5%BC%8F%E6%B5%B7%E6%99%AF%E6%B4%8B%E6%88%BF-%E5%B8%82%E5%80%BC%E7%B4%842-5%E5%84%84-%E5%A4%9A%E5%9C%96",
+    "timestamp": "2026-09-30T23:20:07.751Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國調查：麻省270神職人員性侵近1000童　大部份發生在2002年前",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182081074067410944257601.png/dsEh2ypi7Xs8gFlXLFvcZDvOYbDjPIX2WD3oKVg96Ck?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395390/%E4%BA%9E%E9%81%8B2026-%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E9%95%B7%E5%85%AC%E9%96%8B%E8%87%B4%E6%AD%89-%E6%92%AD%E9%8C%AF%E5%9C%8B%E6%AD%8C%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97-%E8%AA%8D%E7%9C%9F%E5%90%B8%E5%8F%96%E6%95%99%E8%A8%93",
     "timestamp": "2026-09-30T15:26:51.815Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜九龍灣德福花園19歲女生疑服藥尋短　父親揭發惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220831/641630426372247552937240.jpeg/BFVKuWbiA2cQ0thqpFEuI67wkTJz2TQ_R6Jx6Eeiceg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395397/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B9%9D%E9%BE%8D%E7%81%A3%E5%BE%B7%E7%A6%8F%E8%8A%B1%E5%9C%9219%E6%AD%B2%E5%A5%B3%E7%94%9F%E7%96%91%E6%9C%8D%E8%97%A5%E5%B0%8B%E7%9F%AD-%E7%88%B6%E8%A6%AA%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-09-30T15:02:43.992Z",
     "strategy": ".content-card__main"
   }
 ];
