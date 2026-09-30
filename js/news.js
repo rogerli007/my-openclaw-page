@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T16:47:14.140Z
+// Last updated: 2026-09-30T16:57:39.262Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜拜飛以色列客機喋血案　沙特阿拉伯拒以軍機接國民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181984343493447680751364.png/NJ4BKL_KoCRDmlOAvgK2SQ9sZqRWB9LguBS-P7gUvj8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395407/%E6%9D%9C%E6%8B%9C%E9%A3%9B%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A2%E6%A9%9F%E5%96%8B%E8%A1%80%E6%A1%88-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E6%8B%92%E4%BB%A5%E8%BB%8D%E6%A9%9F%E6%8E%A5%E5%9C%8B%E6%B0%91",
+    "timestamp": "2026-09-30T16:57:39.262Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜飛以色列客機喋血案　沙特阿拉伯拒以軍機接國民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181953887234428928526391.jpeg/7s1UbLNz0Mnt0X_2i0UmljLWT_EgHNLs-_mlNPv5pTQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60395160/%E5%8F%B0%E7%81%A3-%E7%9A%87%E5%86%A0-%E9%9B%9C%E8%AA%8C%E5%B0%87%E5%81%9C%E5%88%8A-%E6%9B%BE%E7%99%BC%E8%A1%A8%E5%BC%B5%E6%84%9B%E7%8E%B2-%E7%93%8A%E7%91%A4-%E4%B8%89%E6%AF%9B%E4%BD%9C%E5%93%81",
     "timestamp": "2026-09-30T06:33:56.374Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑特設計劃選樂嶺軒居民即睇樓　何永賢：解說隊伴街坊同前行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181960897652854784678153.png/-S__0NgU31BYZIBPrQIszQ_5YdfzGeDnZinBLmYpwS4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395191/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%89%B9%E8%A8%AD%E8%A8%88%E5%8A%83%E9%81%B8%E6%A8%82%E5%B6%BA%E8%BB%92%E5%B1%85%E6%B0%91%E5%8D%B3%E7%9D%87%E6%A8%93-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E8%A7%A3%E8%AA%AA%E9%9A%8A%E4%BC%B4%E8%A1%97%E5%9D%8A%E5%90%8C%E5%89%8D%E8%A1%8C",
-    "timestamp": "2026-09-30T05:57:48.050Z",
     "strategy": ".content-card__main"
   }
 ];
