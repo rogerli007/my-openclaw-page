@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T04:25:33.575Z
+// Last updated: 2026-09-30T05:01:54.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港珠澳大橋進口鮮活食品10.1起24小時通關　經文錦渡維持朝7晚10",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114187267984986112108534.jpeg/k-RHvLX4kulBT4F4mTyvjQe6WltYFU524YHU8-GB1PM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395169/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E9%80%B2%E5%8F%A3%E9%AE%AE%E6%B4%BB%E9%A3%9F%E5%93%8110-1%E8%B5%B724%E5%B0%8F%E6%99%82%E9%80%9A%E9%97%9C-%E7%B6%93%E6%96%87%E9%8C%A6%E6%B8%A1%E7%B6%AD%E6%8C%81%E6%9C%9D7%E6%99%9A10",
+    "timestamp": "2026-09-30T05:01:54.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「G2」想像下印度如何重估對美關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
     "timestamp": "2026-09-29T18:50:10.440Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗革命衛隊致函美國選民　籲中期選舉拒絕特朗普",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE",
-    "timestamp": "2026-09-29T18:26:17.476Z",
     "strategy": ".content-card__main"
   }
 ];
