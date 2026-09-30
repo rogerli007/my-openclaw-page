@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T05:47:09.880Z
+// Last updated: 2026-09-30T05:57:48.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑特設計劃選樂嶺軒居民即睇樓　何永賢：解說隊伴街坊同前行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181960897652854784678153.png/-S__0NgU31BYZIBPrQIszQ_5YdfzGeDnZinBLmYpwS4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395191/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%89%B9%E8%A8%AD%E8%A8%88%E5%8A%83%E9%81%B8%E6%A8%82%E5%B6%BA%E8%BB%92%E5%B1%85%E6%B0%91%E5%8D%B3%E7%9D%87%E6%A8%93-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E8%A7%A3%E8%AA%AA%E9%9A%8A%E4%BC%B4%E8%A1%97%E5%9D%8A%E5%90%8C%E5%89%8D%E8%A1%8C",
+    "timestamp": "2026-09-30T05:57:48.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國海軍退役33年老艦伊利湖號　料月底再退2艘「提康德羅加」級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181808753830268928860927.jpeg/QZANxZzqUF5l3rXAtvwmZmVOfcqswvi98QwO6csMDuk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395032/%E9%BB%83%E5%A4%A7%E4%BB%99%E6%9D%B1%E5%8C%AF%E9%82%A8%E9%80%94%E4%BA%BA%E8%88%89%E5%A0%B1%E5%90%B8%E6%AF%92-%E8%AD%A6%E6%AA%A2-500%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E7%85%99%E5%BD%88-40%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-09-29T19:46:11.814Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱見AI巨頭成功　美眾議長約翰遜：勿過度監管以免輸給中國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181468403781603328851793.jpeg/Y-wBlUAWp_m3OqNnC6kPFeiHmkKwgcrDFIqYFRSKmBU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395029/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%A6%8Bai%E5%B7%A8%E9%A0%AD%E6%88%90%E5%8A%9F-%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%95%B7%E7%B4%84%E7%BF%B0%E9%81%9C-%E5%8B%BF%E9%81%8E%E5%BA%A6%E7%9B%A3%E7%AE%A1%E4%BB%A5%E5%85%8D%E8%BC%B8%E7%B5%A6%E4%B8%AD%E5%9C%8B",
-    "timestamp": "2026-09-29T19:18:39.552Z",
     "strategy": ".content-card__main"
   }
 ];
