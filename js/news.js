@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T19:55:07.587Z
+// Last updated: 2026-09-30T20:23:05.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "板式網球｜羅易殷/陳曉嵐以亞運為起點　放眼Padel更長遠發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178727526666240254608.jpeg/cgH0VeeODEBIU9fNq6bHyk38LJaPbDXACvUVgQr1FYE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395420/%E6%9D%BF%E5%BC%8F%E7%B6%B2%E7%90%83-%E7%BE%85%E6%98%93%E6%AE%B7-%E9%99%B3%E6%9B%89%E5%B5%90%E4%BB%A5%E4%BA%9E%E9%81%8B%E7%82%BA%E8%B5%B7%E9%BB%9E-%E6%94%BE%E7%9C%BCpadel%E6%9B%B4%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-09-30T20:23:05.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田停電｜黃金周旅客諒解：唔係酒店問題　男街坊：BB無乜影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182047786665775104698174.jpeg/A4rKzAscnJdNEJCifU5bbUvvEVBIMnJmphko9KYZKPQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395367/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E6%B5%B7%E9%97%9C%E5%8A%A0%E5%BC%B7%E5%B7%A1%E5%90%84%E5%8D%80%E8%B3%BC%E7%89%A9%E7%86%B1%E9%BB%9E-%E8%A8%AD%E5%BF%AB%E9%80%9F%E8%A1%8C%E5%8B%95%E9%9A%8A%E8%99%95%E7%90%86%E6%97%85%E5%AE%A2%E6%8A%95%E8%A8%B4",
     "timestamp": "2026-09-30T11:47:48.795Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "MambinoOrganics一款嬰兒沐浴露含致敏物　海關拘1人涉違商品條例",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182021687080652800620893.jpeg/kKiEYYd_FqnC0Pn81dNB8SJtJ3JNGnwAOwdPFzsHTxc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395330/mambinoorganics%E4%B8%80%E6%AC%BE%E5%AC%B0%E5%85%92%E6%B2%90%E6%B5%B4%E9%9C%B2%E5%90%AB%E8%87%B4%E6%95%8F%E7%89%A9-%E6%B5%B7%E9%97%9C%E6%8B%981%E4%BA%BA%E6%B6%89%E9%81%95%E5%95%86%E5%93%81%E6%A2%9D%E4%BE%8B",
-    "timestamp": "2026-09-30T11:33:44.973Z",
     "strategy": ".content-card__main"
   }
 ];
