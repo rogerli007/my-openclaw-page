@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T11:47:48.795Z
+// Last updated: 2026-09-30T12:33:51.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱敏瀚自爆目前單身擇偶極重緣分　尋求愛情看重溝通與開朗性格",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181977076907905024357042.jpeg/PakrNG745rZtPKI3wT5LNH4mFOeoMG0N6U5-9elOfvU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395212/%E6%9C%B1%E6%95%8F%E7%80%9A%E8%87%AA%E7%88%86%E7%9B%AE%E5%89%8D%E5%96%AE%E8%BA%AB%E6%93%87%E5%81%B6%E6%A5%B5%E9%87%8D%E7%B7%A3%E5%88%86-%E5%B0%8B%E6%B1%82%E6%84%9B%E6%83%85%E7%9C%8B%E9%87%8D%E6%BA%9D%E9%80%9A%E8%88%87%E9%96%8B%E6%9C%97%E6%80%A7%E6%A0%BC",
+    "timestamp": "2026-09-30T12:33:51.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一黃金周｜海關加強巡各區購物熱點　設快速行動隊處理旅客投訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260816/1165453084583792640924730.jpeg/9tHs-nECaTDNRj7tIWFcC_5KoZmXT11UKJxkEyicZBM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60395043/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E8%8B%B1%E5%81%89%E9%81%941500%E5%84%84%E5%89%B5%E7%B4%80%E9%8C%84%E5%9B%9E%E8%B3%BC-%E7%82%BA%E4%BD%95%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%A0%AD%E6%84%88%E8%B3%BA%E6%84%88-%E8%B2%B7",
     "timestamp": "2026-09-29T23:44:17.876Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田水泉澳邨單位起火　4人受傷　疏散約60人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220914/646808033132941312387095.jpeg/QIQ9mcdV2zQEGszaJBqt_n806IJ1Y3XxXYpwOV2KcDk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395040/%E6%B2%99%E7%94%B0%E6%B0%B4%E6%B3%89%E6%BE%B3%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-4%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%96%8F%E6%95%A3%E7%B4%8460%E4%BA%BA",
-    "timestamp": "2026-09-29T23:32:25.959Z",
     "strategy": ".content-card__main"
   }
 ];
