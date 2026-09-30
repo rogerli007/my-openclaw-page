@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T14:48:48.718Z
+// Last updated: 2026-09-30T15:02:43.992Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜九龍灣德福花園19歲女生疑服藥尋短　父親揭發惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220831/641630426372247552937240.jpeg/BFVKuWbiA2cQ0thqpFEuI67wkTJz2TQ_R6Jx6Eeiceg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395397/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B9%9D%E9%BE%8D%E7%81%A3%E5%BE%B7%E7%A6%8F%E8%8A%B1%E5%9C%9219%E6%AD%B2%E5%A5%B3%E7%94%9F%E7%96%91%E6%9C%8D%E8%97%A5%E5%B0%8B%E7%9F%AD-%E7%88%B6%E8%A6%AA%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-09-30T15:02:43.992Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜九龍灣德福花園19歲女生疑服藥尋短　父親揭發惜太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181933876742721536426805.jpeg/DXGhwOUhnJmgbZg5Zp0wPgB3iQs3cPjtGL9MSRi_TEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395121/%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%BE%B3%E9%96%80%E5%8A%AB%E5%85%A9%E5%A5%B32-1%E8%90%AC-%E7%94%A8-%E6%B0%B4%E4%B8%8B%E6%8E%A8%E9%80%B2%E5%99%A8-%E5%81%B7%E6%B8%A1%E8%87%B3%E6%A9%AB%E7%90%B4%E4%B8%8A%E5%B2%B8%E5%8D%B3%E8%90%BD%E7%B6%B2",
     "timestamp": "2026-09-30T03:53:09.418Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥｜aespa Karina親授7招減肥瘦身技巧　薄荷糖竟可抑制食慾？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162398521811275776964783.jpeg/XXJZV9i9OL_uaR_XdvbDtDwXBLuUXnTraCV96mglfeo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60377753/%E6%B8%9B%E8%82%A5-aespa-karina%E8%A6%AA%E6%8E%887%E6%8B%9B%E6%B8%9B%E8%82%A5%E7%98%A6%E8%BA%AB%E6%8A%80%E5%B7%A7-%E8%96%84%E8%8D%B7%E7%B3%96%E7%AB%9F%E5%8F%AF%E6%8A%91%E5%88%B6%E9%A3%9F%E6%85%BE",
-    "timestamp": "2026-09-30T03:31:41.829Z",
     "strategy": ".content-card__main"
   }
 ];
