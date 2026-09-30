@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-29T23:44:17.876Z
+// Last updated: 2026-09-30T00:52:49.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國拒絕伊朗7天停火方案：其實特朗普不擔心中期選舉？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181468403781603328851793.jpeg/Y-wBlUAWp_m3OqNnC6kPFeiHmkKwgcrDFIqYFRSKmBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60395030/%E7%BE%8E%E5%9C%8B%E6%8B%92%E7%B5%95%E4%BC%8A%E6%9C%977%E5%A4%A9%E5%81%9C%E7%81%AB%E6%96%B9%E6%A1%88-%E5%85%B6%E5%AF%A6%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%93%94%E5%BF%83%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
+    "timestamp": "2026-09-30T00:52:49.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜英偉達1500億創紀錄回購　為何美股巨頭愈賺愈「買」？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181763732238241792572891.jpeg/sEqfmXyvPzZDne_7RiVQpGVNv-IhKVk302MrpeljK6U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395019/%E5%B0%96%E6%B2%99%E5%92%80%E7%88%86%E6%A8%BD%E6%96%BD%E8%A5%B2-5%E6%BC%A2%E4%B9%98%E8%BB%8A%E5%B0%87%E9%9A%A7%E5%85%A5%E5%8F%A3%E8%A2%AB%E6%88%AA%E7%8D%B2%E6%8B%98%E6%8D%95-%E5%8F%A6%E6%9C%892%E7%94%B7%E5%90%8C%E9%BB%A8%E4%BB%8D%E5%9C%A8%E9%80%83",
     "timestamp": "2026-09-29T16:48:26.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Lisa頒獎禮造型被指似公雞穿搭一言難盡　鼻子再進化網民勸收手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181680107245277184752086.jpeg/DwvImKR3kgsig7xz735I-q7c6TmhMcl37fDrqu3w66o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394790/lisa%E9%A0%92%E7%8D%8E%E7%A6%AE%E9%80%A0%E5%9E%8B%E8%A2%AB%E6%8C%87%E4%BC%BC%E5%85%AC%E9%9B%9E%E7%A9%BF%E6%90%AD%E4%B8%80%E8%A8%80%E9%9B%A3%E7%9B%A1-%E9%BC%BB%E5%AD%90%E5%86%8D%E9%80%B2%E5%8C%96%E7%B6%B2%E6%B0%91%E5%8B%B8%E6%94%B6%E6%89%8B",
-    "timestamp": "2026-09-29T16:23:53.876Z",
     "strategy": ".content-card__main"
   }
 ];
