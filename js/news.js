@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T00:52:49.271Z
+// Last updated: 2026-09-30T01:39:00.299Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車身離奇被「打窿」！專家揭：夜蛾幼蟲咬穿塑膠　籲避免樹下停車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181205897502789632439027.jpeg/RfkGO-HRx8fcIbVAjrq-XwEs2UuaJIB_Trgz7k64M-4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60394313/%E8%BB%8A%E8%BA%AB%E9%9B%A2%E5%A5%87%E8%A2%AB-%E6%89%93%E7%AA%BF-%E5%B0%88%E5%AE%B6%E6%8F%AD-%E5%A4%9C%E8%9B%BE%E5%B9%BC%E8%9F%B2%E5%92%AC%E7%A9%BF%E5%A1%91%E8%86%A0-%E7%B1%B2%E9%81%BF%E5%85%8D%E6%A8%B9%E4%B8%8B%E5%81%9C%E8%BB%8A",
+    "timestamp": "2026-09-30T01:39:00.299Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國拒絕伊朗7天停火方案：其實特朗普不擔心中期選舉？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181768523043704832287106.png/KYtvJ1ENU3-cVGX1TQlQQJ51S8unOs6PPLUH6jy1B-o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395021/%E5%90%B3%E5%82%91%E8%8E%8A%E9%A6%96%E7%88%BE%E6%88%90%E7%AB%8B-%E4%BA%9E%E6%B4%B2web3%E6%94%BF%E7%AD%96%E6%8E%A8%E5%8B%95%E8%81%AF%E7%9B%9F-%E5%86%80%E6%98%8E%E5%B9%B4%E5%A4%9A%E5%9C%8B%E5%8A%A0%E5%85%A5%E6%93%B4%E7%94%9F%E6%85%8B%E5%9C%88",
     "timestamp": "2026-09-29T16:59:43.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀爆樽施襲｜5漢乘車將隧入口被截獲拘捕　另有2男同黨仍在逃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181763732238241792572891.jpeg/sEqfmXyvPzZDne_7RiVQpGVNv-IhKVk302MrpeljK6U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395019/%E5%B0%96%E6%B2%99%E5%92%80%E7%88%86%E6%A8%BD%E6%96%BD%E8%A5%B2-5%E6%BC%A2%E4%B9%98%E8%BB%8A%E5%B0%87%E9%9A%A7%E5%85%A5%E5%8F%A3%E8%A2%AB%E6%88%AA%E7%8D%B2%E6%8B%98%E6%8D%95-%E5%8F%A6%E6%9C%892%E7%94%B7%E5%90%8C%E9%BB%A8%E4%BB%8D%E5%9C%A8%E9%80%83",
-    "timestamp": "2026-09-29T16:48:26.452Z",
     "strategy": ".content-card__main"
   }
 ];
