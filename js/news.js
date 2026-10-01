@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T02:13:48.397Z
+// Last updated: 2026-10-01T02:51:02.861Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶77周年｜金正恩向習近平致賀電　強調中朝血盟關係不動搖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102615676348010496592617.jpeg/K6oyQKHRPXF81myMhjUMA539XB4g4S8XfvXzwH7188A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395455/%E5%9C%8B%E6%85%B677%E5%91%A8%E5%B9%B4-%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%91%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E8%B3%80%E9%9B%BB-%E5%BC%B7%E8%AA%BF%E4%B8%AD%E6%9C%9D%E8%A1%80%E7%9B%9F%E9%97%9C%E4%BF%82%E4%B8%8D%E5%8B%95%E6%90%96",
+    "timestamp": "2026-10-01T02:51:02.861Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田停電︱中電派出流動發電車供電　內地客憂再斷電欲轉酒店",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182128121051090944259683.jpeg/2-2bjzV61HMtCTZUMsEB8j-CGGn6m-iPK3OzAitzswI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395406/%E4%B9%9D%E9%BE%8D%E7%81%A3%E5%BE%B7%E7%A6%8F%E5%BB%A3%E5%A0%B4mma-%E6%9C%89%E7%89%87-2%E7%94%B7%E7%BA%8F%E9%AC%A5-%E5%87%BA%E6%8B%B3%E8%B5%B7%E9%A3%9B%E8%85%B3%E7%B4%AE%E9%A6%AC-%E7%B6%B2%E6%B0%91%E5%98%B2%E7%84%A1%E5%8A%9B",
     "timestamp": "2026-09-30T17:20:36.439Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜拜飛以色列客機喋血案　沙特阿拉伯拒以軍機接國民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181984343493447680751364.png/NJ4BKL_KoCRDmlOAvgK2SQ9sZqRWB9LguBS-P7gUvj8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395407/%E6%9D%9C%E6%8B%9C%E9%A3%9B%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A2%E6%A9%9F%E5%96%8B%E8%A1%80%E6%A1%88-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E6%8B%92%E4%BB%A5%E8%BB%8D%E6%A9%9F%E6%8E%A5%E5%9C%8B%E6%B0%91",
-    "timestamp": "2026-09-30T16:57:39.262Z",
     "strategy": ".content-card__main"
   }
 ];
