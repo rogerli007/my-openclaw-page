@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T18:27:33.704Z
+// Last updated: 2026-10-01T19:19:12.956Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "埃及南部旅遊巴公路撞巴士12傷　包括9名中國公民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182518853507223552984520.png/6nxf93m8_-5kzALGQHjqEicFpCYZi2-Tah8xDmofMQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395661/%E5%9F%83%E5%8F%8A%E5%8D%97%E9%83%A8%E6%97%85%E9%81%8A%E5%B7%B4%E5%85%AC%E8%B7%AF%E6%92%9E%E5%B7%B4%E5%A3%AB12%E5%82%B7-%E5%8C%85%E6%8B%AC9%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91",
+    "timestamp": "2026-10-01T19:19:12.956Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "死有對証｜馬貫東因車cam片發現戴綠帽　王菲與黃俊豪光脫脫車震",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182399166656024576802436.jpeg/umnCOy_EWYeXjPWXKf-hWnK7mpoT_5my1nzVCtZ81Qo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395604/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E9%80%A3%E7%A0%B43%E8%B2%A9%E6%AF%92%E6%A1%88%E6%8B%985%E4%BA%BA-%E5%85%A8%E7%94%B1%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF-%E6%AA%A2-920%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%8F%8A%E8%97%A5%E7%89%A9",
     "timestamp": "2026-10-01T11:19:50.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶煙花｜尖沙咀海旁逼爆　有攝影發燒友提早7小時霸位影靚相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182392255218978816419620.jpeg/_F9N-a7wEYsh_PIp-dOZOCcQrmCHNoNNSgUMu0oFDLs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395603/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1-%E5%B0%96%E6%B2%99%E5%92%80%E6%B5%B7%E6%97%81%E9%80%BC%E7%88%86-%E6%9C%89%E6%94%9D%E5%BD%B1%E7%99%BC%E7%87%92%E5%8F%8B%E6%8F%90%E6%97%A97%E5%B0%8F%E6%99%82%E9%9C%B8%E4%BD%8D%E5%BD%B1%E9%9D%9A%E7%9B%B8",
-    "timestamp": "2026-10-01T10:58:51.163Z",
     "strategy": ".content-card__main"
   }
 ];
