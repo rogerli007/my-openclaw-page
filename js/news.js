@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T20:22:47.369Z
+// Last updated: 2026-10-01T20:47:03.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一黃金周│尖沙咀兩間麥當勞凌晨爆滿　內地人佔多數　氣氛熱鬧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182533656023928832015824.jpeg/IsTgR6-KoH3SrEjilUkHuPUlrzhwMxkP0QEMzesBDM0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395659/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%B0%96%E6%B2%99%E5%92%80%E5%85%A9%E9%96%93%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%87%8C%E6%99%A8%E7%88%86%E6%BB%BF-%E5%85%A7%E5%9C%B0%E4%BA%BA%E4%BD%94%E5%A4%9A%E6%95%B8-%E6%B0%A3%E6%B0%9B%E7%86%B1%E9%AC%A7",
+    "timestamp": "2026-10-01T20:47:03.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一黃金周│尖沙咀兩間麥當勞凌晨爆滿　內地人佔多數　氣氛熱鬧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177260318808608768395127.jpeg/iNfjRslTtiae6n9XGO-TXIOKxUnixHoOSj3h2ko94do?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395629/%E9%A6%AC%E6%96%AF%E5%85%8B%E9%87%8D%E8%BF%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C-%E6%93%94%E4%BB%BB%E5%9C%8B%E9%98%B2%E9%83%A8%E9%A1%A7%E5%95%8F%E7%A0%94%E7%A9%B6%E6%9C%AA%E4%BE%86%E6%88%B0%E7%88%AD",
     "timestamp": "2026-10-01T13:25:19.136Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本千葉縣東北部發生5.1級地震　東京有震感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172874627169390592285174.jpeg/zAPcm3sP9xakQPmoFN739c48BBgItilHZGfjmGRn45g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395624/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E7%B8%A3%E6%9D%B1%E5%8C%97%E9%83%A8%E7%99%BC%E7%94%9F5-1%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E6%9C%89%E9%9C%87%E6%84%9F",
-    "timestamp": "2026-10-01T12:57:49.220Z",
     "strategy": ".content-card__main"
   }
 ];
