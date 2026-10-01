@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T14:51:42.530Z
+// Last updated: 2026-10-01T14:59:33.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯儲局翻修工程經調查無違法行為　特朗普仍要求鮑威爾辭職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126353880217686016457832.jpeg/jHpizV-H4fCqoi9-9BAy1n1pCAbjoWD1cxxE_nMcRP4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395636/%E8%81%AF%E5%84%B2%E5%B1%80%E7%BF%BB%E4%BF%AE%E5%B7%A5%E7%A8%8B%E7%B6%93%E8%AA%BF%E6%9F%A5%E7%84%A1%E9%81%95%E6%B3%95%E8%A1%8C%E7%82%BA-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8D%E8%A6%81%E6%B1%82%E9%AE%91%E5%A8%81%E7%88%BE%E8%BE%AD%E8%81%B7",
+    "timestamp": "2026-10-01T14:59:33.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯儲局翻修工程經調查無違法行為　特朗普仍要求鮑威爾辭職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182331960769384448241073.jpeg/skav1ZrUXS_2uKx94Rx0KAWDRpOToQC3oew5J4fsOSc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395514/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E9%9B%B2%E5%8D%97%E5%AE%A2%E6%84%9B%E6%B8%AF%E7%94%A2%E7%89%87-%E7%95%99%E6%B8%AF%E4%B8%80%E5%91%A8%E6%96%99%E8%8A%B13%E8%90%AC-%E7%9B%BC%E6%84%9F%E5%8F%97%E4%BA%BA%E6%96%87%E6%B0%A3%E6%81%AF",
     "timestamp": "2026-10-01T06:35:03.405Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶優惠31大2026｜港鐵送車票！太興/敏華/必勝客7折+半價睇戲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182039921909567488604325.png/UJJuC7OCxPZ7Mz52YAiXnK1hWcY4P9vAB-A19AfgNfQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60392156/%E5%9C%8B%E6%85%B6%E5%84%AA%E6%83%A031%E5%A4%A72026-%E6%B8%AF%E9%90%B5%E9%80%81%E8%BB%8A%E7%A5%A8-%E5%A4%AA%E8%88%88-%E6%95%8F%E8%8F%AF-%E5%BF%85%E5%8B%9D%E5%AE%A27%E6%8A%98-%E5%8D%8A%E5%83%B9%E7%9D%87%E6%88%B2",
-    "timestamp": "2026-10-01T05:58:48.401Z",
     "strategy": ".content-card__main"
   }
 ];
