@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T23:48:19.038Z
+// Last updated: 2026-10-01T23:54:22.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳浩康打路人手機片瘋傳　獲網民力撐本尊親回：我無話過我係紳士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182495517091827712409835.jpeg/EhQLM6ePX76teDK3ntqOOOQiTi8rngrwkbPytJGz8rQ",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395658/%E5%90%B3%E6%B5%A9%E5%BA%B7%E6%89%93%E8%B7%AF%E4%BA%BA%E6%89%8B%E6%A9%9F%E7%89%87%E7%98%8B%E5%82%B3-%E7%8D%B2%E7%B6%B2%E6%B0%91%E5%8A%9B%E6%92%90%E6%9C%AC%E5%B0%8A%E8%A6%AA%E5%9B%9E-%E6%88%91%E7%84%A1%E8%A9%B1%E9%81%8E%E6%88%91%E4%BF%82%E7%B4%B3%E5%A3%AB",
+    "timestamp": "2026-10-01T23:54:22.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳浩康打路人手機片瘋傳　獲網民力撐本尊親回：我無話過我係紳士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182481822798319616136047.jpeg/lafQorgV5AfZSktEHrKmggXHSQpGvk5nf44VtH-OFbQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395650/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E7%81%A3%E9%A6%99%E5%B3%B6%E9%81%93%E5%A5%B3%E9%80%94%E4%BA%BA%E6%A9%AB%E9%81%8E%E9%A6%AC%E8%B7%AF-%E9%81%AD%E7%9A%84%E5%A3%AB%E6%92%9E%E5%80%92-%E8%B5%B7%E8%BA%AB%E7%B9%BC%E7%BA%8C%E9%81%8E%E8%B7%AF",
     "timestamp": "2026-10-01T16:46:09.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶煙花｜李家超：讓我們帶著美好祝願　與國家一起穩步向前",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182482083444953088951728.jpeg/t_W3DwI546B1oZcLeN3SkRJ8KEOvOmOXxJPXDMST1ww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395654/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E8%AE%93%E6%88%91%E5%80%91%E5%B8%B6%E8%91%97%E7%BE%8E%E5%A5%BD%E7%A5%9D%E9%A1%98-%E8%88%87%E5%9C%8B%E5%AE%B6%E4%B8%80%E8%B5%B7%E7%A9%A9%E6%AD%A5%E5%90%91%E5%89%8D",
-    "timestamp": "2026-10-01T16:22:41.904Z",
     "strategy": ".content-card__main"
   }
 ];
