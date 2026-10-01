@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T08:55:30.867Z
+// Last updated: 2026-10-01T09:25:00.376Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔富善邨疑有大樹突倒塌　巨幹壓長椅　兩街坊險被擊中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182376867571699712895630.jpeg/yTNTYLBDYEDKFuw4ZBDLfzq87Eb7b5x5tXfB4LV3weA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395574/%E5%A4%A7%E5%9F%94%E5%AF%8C%E5%96%84%E9%82%A8%E7%96%91%E6%9C%89%E5%A4%A7%E6%A8%B9%E7%AA%81%E5%80%92%E5%A1%8C-%E5%B7%A8%E5%B9%B9%E5%A3%93%E9%95%B7%E6%A4%85-%E5%85%A9%E8%A1%97%E5%9D%8A%E9%9A%AA%E8%A2%AB%E6%93%8A%E4%B8%AD",
+    "timestamp": "2026-10-01T09:25:00.376Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運㑹2026｜張瑋桓連續兩天一日雙賽　先夥王康怡鎖定女雙獎牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182207135769956352924563.jpeg/YrvQVQIheS5J5aStA5J9ib4kTVWlSSW9U6jrcGmo63A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60395422/%E5%9C%8B%E6%85%B6%E5%A4%A9%E6%B0%A3-%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A%E4%BB%8D%E7%94%9F%E6%95%88-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB34%E5%BA%A6-%E6%98%8E%E6%97%A5%E5%BE%8C%E6%97%A5%E9%A9%9F%E9%9B%A8%E5%A4%9A",
     "timestamp": "2026-09-30T22:21:15.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一黃金周│兩網吧客量和平日相若　母親陪子女打機　麥當勞冷清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178599067717632946158.jpeg/SSH_WMRA6Psqtqa-V3l6YUR8vVny16uqVGk2Qm5pNkI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395417/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%85%A9%E7%B6%B2%E5%90%A7%E5%AE%A2%E9%87%8F%E5%92%8C%E5%B9%B3%E6%97%A5%E7%9B%B8%E8%8B%A5-%E6%AF%8D%E8%A6%AA%E9%99%AA%E5%AD%90%E5%A5%B3%E6%89%93%E6%A9%9F-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%86%B7%E6%B8%85",
-    "timestamp": "2026-09-30T21:56:01.734Z",
     "strategy": ".content-card__main"
   }
 ];
