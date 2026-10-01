@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T12:31:41.580Z
+// Last updated: 2026-10-01T12:57:49.220Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本千葉縣東北部發生5.1級地震　東京有震感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172874627169390592285174.jpeg/zAPcm3sP9xakQPmoFN739c48BBgItilHZGfjmGRn45g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395624/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E7%B8%A3%E6%9D%B1%E5%8C%97%E9%83%A8%E7%99%BC%E7%94%9F5-1%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E6%9C%89%E9%9C%87%E6%84%9F",
+    "timestamp": "2026-10-01T12:57:49.220Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江若琳飛韓國慶生丟失護照手袋　求助中國駐韓使館許願盼如期回家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182285823060480000164972.png/C4ymD0uPuvn1otKv69uuUozpjgFbAmbV-g5J2_oOSds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395465/%E5%A0%85%E6%8B%BF%E9%81%93%E5%A4%A9%E6%A9%8B-%E5%B0%8F%E9%9C%B2%E5%AF%B6-%E7%9A%84%E5%A3%AB%E8%88%87%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%BE%80%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-10-01T03:28:39.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶77周年｜金正恩向習近平致賀電　強調中朝血盟關係不動搖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102615676348010496592617.jpeg/K6oyQKHRPXF81myMhjUMA539XB4g4S8XfvXzwH7188A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395455/%E5%9C%8B%E6%85%B677%E5%91%A8%E5%B9%B4-%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%91%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E8%B3%80%E9%9B%BB-%E5%BC%B7%E8%AA%BF%E4%B8%AD%E6%9C%9D%E8%A1%80%E7%9B%9F%E9%97%9C%E4%BF%82%E4%B8%8D%E5%8B%95%E6%90%96",
-    "timestamp": "2026-10-01T02:51:02.861Z",
     "strategy": ".content-card__main"
   }
 ];
