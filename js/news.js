@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T15:24:27.359Z
+// Last updated: 2026-10-01T15:46:21.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶｜田北辰遇羅淑佩問候退休生活　藉機爭取建賽車場獲一回覆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182473281857392640562893.jpeg/o4L4-TduSl7rMUDNomyntpGm4zptcBK-Togb5E6IG-Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395648/%E5%9C%8B%E6%85%B6-%E7%94%B0%E5%8C%97%E8%BE%B0%E9%81%87%E7%BE%85%E6%B7%91%E4%BD%A9%E5%95%8F%E5%80%99%E9%80%80%E4%BC%91%E7%94%9F%E6%B4%BB-%E8%97%89%E6%A9%9F%E7%88%AD%E5%8F%96%E5%BB%BA%E8%B3%BD%E8%BB%8A%E5%A0%B4%E7%8D%B2%E4%B8%80%E5%9B%9E%E8%A6%86",
+    "timestamp": "2026-10-01T15:46:21.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姚正菁榮升國際級模特兒  首行時裝騷擺烏龍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182357004321034240534260.jpeg/UAYHoGaERe91tv3NKP0jGwJ76UHIOk9nPekyoD3pMqA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395548/%E5%8D%81%E4%B8%80-%E6%B2%B9%E5%B0%96%E6%97%BA%E5%9C%98%E9%AB%94%E5%90%88%E5%94%B1%E7%B4%85%E6%AD%8C%E6%85%B6%E7%A5%9D-%E5%8C%85%E6%8B%AC-%E6%B2%92%E6%9C%89%E5%85%B1%E7%94%A2%E9%BB%A8%E5%B0%B1%E6%B2%92%E6%9C%89%E6%96%B0%E4%B8%AD%E5%9C%8B",
     "timestamp": "2026-10-01T08:00:36.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜拜航空屬國企營運特拉維夫航線近6年　以色列去年百萬人赴杜拜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182343804833763328430761.jpeg/8bgqBl38Jtnfz61Oit8uB8RCcnWuMeh3z6jMe8-ozHs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395520/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%B1%AC%E5%9C%8B%E4%BC%81%E7%87%9F%E9%81%8B%E7%89%B9%E6%8B%89%E7%B6%AD%E5%A4%AB%E8%88%AA%E7%B7%9A%E8%BF%916%E5%B9%B4-%E4%BB%A5%E8%89%B2%E5%88%97%E5%8E%BB%E5%B9%B4%E7%99%BE%E8%90%AC%E4%BA%BA%E8%B5%B4%E6%9D%9C%E6%8B%9C",
-    "timestamp": "2026-10-01T07:09:44.050Z",
     "strategy": ".content-card__main"
   }
 ];
