@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T13:59:36.816Z
+// Last updated: 2026-10-01T14:23:22.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡新海濱對開男子墮海　消防救起昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164525866856747008845097.jpeg/GMflzt-QtycGztuzfaHkkoR3DjVn3KsZ0iJmu9IiZrs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395635/%E7%B4%85%E7%A3%A1%E6%96%B0%E6%B5%B7%E6%BF%B1%E5%B0%8D%E9%96%8B%E7%94%B7%E5%AD%90%E5%A2%AE%E6%B5%B7-%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-10-01T14:23:22.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賣公屋都損手？朗屏邨2房未補價219萬沽　買家趕購買證到期前入市",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182323566998196224450189.jpeg/aIPIrhBIzfRpcH7941PoW1lnVOx_qjBXwd1r_8Hda_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395509/70%E5%BE%8C%E6%9C%B1%E5%BF%A0%E6%98%8E%E6%8E%A5%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%95%B7-%E6%9B%BE%E4%BB%BB%E8%B2%A1%E6%94%BF%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%B7",
     "timestamp": "2026-10-01T05:46:48.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "家計會上水婦女會WhatsApp帳戶遭黑客入侵　會方報警及通報私隱署",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182308542309208064415627.jpeg/YZqyiDHWnYCyg4FJ1hl1rV2U8zlKg_vA0E1YXtBNWF4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395498/%E5%AE%B6%E8%A8%88%E6%9C%83%E4%B8%8A%E6%B0%B4%E5%A9%A6%E5%A5%B3%E6%9C%83whatsapp%E5%B8%B3%E6%88%B6%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%9C%83%E6%96%B9%E5%A0%B1%E8%AD%A6%E5%8F%8A%E9%80%9A%E5%A0%B1%E7%A7%81%E9%9A%B1%E7%BD%B2",
-    "timestamp": "2026-10-01T04:49:46.752Z",
     "strategy": ".content-card__main"
   }
 ];
