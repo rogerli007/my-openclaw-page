@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T22:19:35.482Z
+// Last updated: 2026-10-01T22:47:14.221Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "千禧年頂流男神拒與粉絲合照內情曝光　蒼老似大叔仍獲讚帥出宇宙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182439832257826816259140.jpeg/rJ9UlRfuM3qBP1DQfo1UBbbLaighTw2nHUrK-R1Kyvk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395512/%E9%99%B3%E5%86%A0%E5%B8%8C%E6%8B%92%E8%88%87%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7%E5%85%A7%E6%83%85%E6%9B%9D%E5%85%89-%E8%92%BC%E8%80%81%E4%BC%BC%E5%A4%A7%E5%8F%94%E4%BB%8D%E7%8D%B2%E8%AE%9A%E5%B8%A5%E5%87%BA%E5%AE%87%E5%AE%99",
+    "timestamp": "2026-10-01T22:47:14.221Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內塔尼亞胡：企圖劫機副機師受激進伊斯蘭思想影響　有自殺傾向",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260430/1126353880217686016457832.jpeg/jHpizV-H4fCqoi9-9BAy1n1pCAbjoWD1cxxE_nMcRP4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395636/%E8%81%AF%E5%84%B2%E5%B1%80%E7%BF%BB%E4%BF%AE%E5%B7%A5%E7%A8%8B%E7%B6%93%E8%AA%BF%E6%9F%A5%E7%84%A1%E9%81%95%E6%B3%95%E8%A1%8C%E7%82%BA-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8D%E8%A6%81%E6%B1%82%E9%AE%91%E5%A8%81%E7%88%BE%E8%BE%AD%E8%81%B7",
     "timestamp": "2026-10-01T14:51:42.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡新海濱對開男子墮海　消防救起昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164525866856747008845097.jpeg/GMflzt-QtycGztuzfaHkkoR3DjVn3KsZ0iJmu9IiZrs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395635/%E7%B4%85%E7%A3%A1%E6%96%B0%E6%B5%B7%E6%BF%B1%E5%B0%8D%E9%96%8B%E7%94%B7%E5%AD%90%E5%A2%AE%E6%B5%B7-%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-10-01T14:23:22.000Z",
     "strategy": ".content-card__main"
   }
 ];
