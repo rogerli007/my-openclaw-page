@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T01:02:45.904Z
+// Last updated: 2026-10-01T02:13:48.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何文田停電︱中電派出流動發電車供電　內地客憂再斷電欲轉酒店",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182271783705776128815347.jpeg/loEfTLA4cYm54TDznQAlAv2ZWIuLcHE0xib9-sYm_fo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395439/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E4%B8%AD%E9%9B%BB%E6%B4%BE%E5%87%BA%E6%B5%81%E5%8B%95%E7%99%BC%E9%9B%BB%E8%BB%8A%E4%BE%9B%E9%9B%BB-%E5%85%A7%E5%9C%B0%E5%AE%A2%E6%86%82%E5%86%8D%E6%96%B7%E9%9B%BB%E6%AC%B2%E8%BD%89%E9%85%92%E5%BA%97",
+    "timestamp": "2026-10-01T02:13:48.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美伊據報對最新和解方案存分歧　魯比奧向伊朗代表團下「逐客令」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181984343493447680751364.png/NJ4BKL_KoCRDmlOAvgK2SQ9sZqRWB9LguBS-P7gUvj8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395407/%E6%9D%9C%E6%8B%9C%E9%A3%9B%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A2%E6%A9%9F%E5%96%8B%E8%A1%80%E6%A1%88-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E6%8B%92%E4%BB%A5%E8%BB%8D%E6%A9%9F%E6%8E%A5%E5%9C%8B%E6%B0%91",
     "timestamp": "2026-09-30T16:57:39.262Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜拜飛以色列客機喋血案　沙特阿拉伯拒以軍機接國民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181984343493447680751364.png/NJ4BKL_KoCRDmlOAvgK2SQ9sZqRWB9LguBS-P7gUvj8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395407/%E6%9D%9C%E6%8B%9C%E9%A3%9B%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A2%E6%A9%9F%E5%96%8B%E8%A1%80%E6%A1%88-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E6%8B%92%E4%BB%A5%E8%BB%8D%E6%A9%9F%E6%8E%A5%E5%9C%8B%E6%B0%91",
-    "timestamp": "2026-09-30T16:47:14.140Z",
     "strategy": ".content-card__main"
   }
 ];
