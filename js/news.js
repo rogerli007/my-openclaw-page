@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T05:46:48.146Z
+// Last updated: 2026-10-01T05:58:48.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶優惠31大2026｜港鐵送車票！太興/敏華/必勝客7折+半價睇戲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182039921909567488604325.png/UJJuC7OCxPZ7Mz52YAiXnK1hWcY4P9vAB-A19AfgNfQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60392156/%E5%9C%8B%E6%85%B6%E5%84%AA%E6%83%A031%E5%A4%A72026-%E6%B8%AF%E9%90%B5%E9%80%81%E8%BB%8A%E7%A5%A8-%E5%A4%AA%E8%88%88-%E6%95%8F%E8%8F%AF-%E5%BF%85%E5%8B%9D%E5%AE%A27%E6%8A%98-%E5%8D%8A%E5%83%B9%E7%9D%87%E6%88%B2",
+    "timestamp": "2026-10-01T05:58:48.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "70後朱忠明接任上海市長　曾任財政部副部長",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182161963564666880529183.jpeg/npfmoJKdv1vVM6F3moUZtLKU1m3eCAusTCizVXYos1U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395415/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E9%BB%83%E9%87%91%E5%91%A8%E6%97%85%E5%AE%A2%E8%AB%92%E8%A7%A3-%E5%94%94%E4%BF%82%E9%85%92%E5%BA%97%E5%95%8F%E9%A1%8C-%E7%94%B7%E8%A1%97%E5%9D%8A-bb%E7%84%A1%E4%B9%9C%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-09-30T19:55:07.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何文田停電｜黃金周旅客諒解：唔係酒店問題　男街坊：BB無乜影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182161963564666880529183.jpeg/npfmoJKdv1vVM6F3moUZtLKU1m3eCAusTCizVXYos1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395415/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E9%BB%83%E9%87%91%E5%91%A8%E6%97%85%E5%AE%A2%E8%AB%92%E8%A7%A3-%E5%94%94%E4%BF%82%E9%85%92%E5%BA%97%E5%95%8F%E9%A1%8C-%E7%94%B7%E8%A1%97%E5%9D%8A-bb%E7%84%A1%E4%B9%9C%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-09-30T19:34:30.859Z",
     "strategy": ".content-card__main"
   }
 ];
