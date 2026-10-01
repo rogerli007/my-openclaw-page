@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T07:09:44.050Z
+// Last updated: 2026-10-01T08:00:36.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一｜油尖旺團體合唱紅歌慶祝　包括《沒有共產黨就沒有新中國》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182357004321034240534260.jpeg/UAYHoGaERe91tv3NKP0jGwJ76UHIOk9nPekyoD3pMqA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395548/%E5%8D%81%E4%B8%80-%E6%B2%B9%E5%B0%96%E6%97%BA%E5%9C%98%E9%AB%94%E5%90%88%E5%94%B1%E7%B4%85%E6%AD%8C%E6%85%B6%E7%A5%9D-%E5%8C%85%E6%8B%AC-%E6%B2%92%E6%9C%89%E5%85%B1%E7%94%A2%E9%BB%A8%E5%B0%B1%E6%B2%92%E6%9C%89%E6%96%B0%E4%B8%AD%E5%9C%8B",
+    "timestamp": "2026-10-01T08:00:36.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜航空屬國企營運特拉維夫航線近6年　以色列去年百萬人赴杜拜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178599067717632946158.jpeg/SSH_WMRA6Psqtqa-V3l6YUR8vVny16uqVGk2Qm5pNkI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395417/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%85%A9%E7%B6%B2%E5%90%A7%E5%AE%A2%E9%87%8F%E5%92%8C%E5%B9%B3%E6%97%A5%E7%9B%B8%E8%8B%A5-%E6%AF%8D%E8%A6%AA%E9%99%AA%E5%AD%90%E5%A5%B3%E6%89%93%E6%A9%9F-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%86%B7%E6%B8%85",
     "timestamp": "2026-09-30T21:45:40.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "板式網球｜羅易殷/陳曉嵐以亞運為起點　放眼Padel更長遠發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178727526666240254608.jpeg/cgH0VeeODEBIU9fNq6bHyk38LJaPbDXACvUVgQr1FYE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395420/%E6%9D%BF%E5%BC%8F%E7%B6%B2%E7%90%83-%E7%BE%85%E6%98%93%E6%AE%B7-%E9%99%B3%E6%9B%89%E5%B5%90%E4%BB%A5%E4%BA%9E%E9%81%8B%E7%82%BA%E8%B5%B7%E9%BB%9E-%E6%94%BE%E7%9C%BCpadel%E6%9B%B4%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-09-30T20:45:12.128Z",
     "strategy": ".content-card__main"
   }
 ];
