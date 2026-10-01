@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T11:19:50.450Z
+// Last updated: 2026-10-01T11:35:07.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地女裝電商出奇招用｢防拆帶｣防白嫖 　｢信任崩潰｣登熱搜引熱議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182370440434159616142938.jpeg/_KEuKqJX74n7C51dcxHaXPQyGFMHvzIC2J2M4NidjOA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60395562/%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%A3%9D%E9%9B%BB%E5%95%86%E5%87%BA%E5%A5%87%E6%8B%9B%E7%94%A8-%E9%98%B2%E6%8B%86%E5%B8%B6-%E9%98%B2%E7%99%BD%E5%AB%96-%E4%BF%A1%E4%BB%BB%E5%B4%A9%E6%BD%B0-%E7%99%BB%E7%86%B1%E6%90%9C%E5%BC%95%E7%86%B1%E8%AD%B0",
+    "timestamp": "2026-10-01T11:35:07.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關機場連破3販毒案拘5人　全由曼谷抵港　檢$920萬大麻花及藥物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230731/762729572994125824917602.jpeg/c1UgLxPrlZCU-uS4Q5LsggZZvvbZ8Of-j9Xb4I_V2-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395435/%E7%BE%8E%E4%BC%8A%E6%93%9A%E5%A0%B1%E5%B0%8D%E6%9C%80%E6%96%B0%E5%92%8C%E8%A7%A3%E6%96%B9%E6%A1%88%E5%AD%98%E5%88%86%E6%AD%A7-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%90%91%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9C%98%E4%B8%8B-%E9%80%90%E5%AE%A2%E4%BB%A4",
     "timestamp": "2026-10-01T01:02:45.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶十一黃金周．最新消息｜升旗儀式、市民享優惠實況及煙花直擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178873398109933568624790.jpeg/juoKpgwqPRlmoszkqdQsHD8vgACHLA8SMFDntSVQ57U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395122/%E5%9C%8B%E6%85%B6%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E5%8D%87%E6%97%97%E5%84%80%E5%BC%8F-%E5%B8%82%E6%B0%91%E4%BA%AB%E5%84%AA%E6%83%A0%E5%AF%A6%E6%B3%81%E5%8F%8A%E7%85%99%E8%8A%B1%E7%9B%B4%E6%93%8A",
-    "timestamp": "2026-09-30T23:55:33.957Z",
     "strategy": ".content-card__main"
   }
 ];
