@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T04:49:46.752Z
+// Last updated: 2026-10-01T05:46:48.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "70後朱忠明接任上海市長　曾任財政部副部長",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182323566998196224450189.jpeg/aIPIrhBIzfRpcH7941PoW1lnVOx_qjBXwd1r_8Hda_8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395509/70%E5%BE%8C%E6%9C%B1%E5%BF%A0%E6%98%8E%E6%8E%A5%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%95%B7-%E6%9B%BE%E4%BB%BB%E8%B2%A1%E6%94%BF%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%B7",
+    "timestamp": "2026-10-01T05:46:48.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "家計會上水婦女會WhatsApp帳戶遭黑客入侵　會方報警及通報私隱署",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182161963564666880529183.jpeg/npfmoJKdv1vVM6F3moUZtLKU1m3eCAusTCizVXYos1U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395415/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E9%BB%83%E9%87%91%E5%91%A8%E6%97%85%E5%AE%A2%E8%AB%92%E8%A7%A3-%E5%94%94%E4%BF%82%E9%85%92%E5%BA%97%E5%95%8F%E9%A1%8C-%E7%94%B7%E8%A1%97%E5%9D%8A-bb%E7%84%A1%E4%B9%9C%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-09-30T19:34:30.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何文田停電｜多幢大廈受影響　氧氣機停運作　老翁不適送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182140604298039296034658.jpeg/3_wXTeQ9E1eraY5FqSBf6kFFm2I1W8oXPr2uaz69rms?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395412/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E5%A4%9A%E5%B9%A2%E5%A4%A7%E5%BB%88%E5%8F%97%E5%BD%B1%E9%9F%BF-%E6%B0%A7%E6%B0%A3%E6%A9%9F%E5%81%9C%E9%81%8B%E4%BD%9C-%E8%80%81%E7%BF%81%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
-    "timestamp": "2026-09-30T18:49:57.626Z",
     "strategy": ".content-card__main"
   }
 ];
