@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T11:35:07.969Z
+// Last updated: 2026-10-01T11:55:46.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶煙花・直播｜3.1萬枚煙花晚上8時綻放　料26萬人維港兩岸觀賞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050159340113498112264713.jpeg/5VjCWCYu1hS9ZEUuSyfJ0SY1yY_9FwTvL15veTVeb3k?v=w1920",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395386/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1-%E7%9B%B4%E6%92%AD-3-1%E8%90%AC%E6%9E%9A%E7%85%99%E8%8A%B1%E6%99%9A%E4%B8%8A8%E6%99%82%E7%B6%BB%E6%94%BE-%E6%96%9926%E8%90%AC%E4%BA%BA%E7%B6%AD%E6%B8%AF%E5%85%A9%E5%B2%B8%E8%A7%80%E8%B3%9E",
+    "timestamp": "2026-10-01T11:55:46.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地女裝電商出奇招用｢防拆帶｣防白嫖 　｢信任崩潰｣登熱搜引熱議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182271783705776128815347.jpeg/loEfTLA4cYm54TDznQAlAv2ZWIuLcHE0xib9-sYm_fo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395439/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E4%B8%AD%E9%9B%BB%E6%B4%BE%E5%87%BA%E6%B5%81%E5%8B%95%E7%99%BC%E9%9B%BB%E8%BB%8A%E4%BE%9B%E9%9B%BB-%E5%85%A7%E5%9C%B0%E5%AE%A2%E6%86%82%E5%86%8D%E6%96%B7%E9%9B%BB%E6%AC%B2%E8%BD%89%E9%85%92%E5%BA%97",
     "timestamp": "2026-10-01T02:13:48.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美伊據報對最新和解方案存分歧　魯比奧向伊朗代表團下「逐客令」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230731/762729572994125824917602.jpeg/c1UgLxPrlZCU-uS4Q5LsggZZvvbZ8Of-j9Xb4I_V2-A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395435/%E7%BE%8E%E4%BC%8A%E6%93%9A%E5%A0%B1%E5%B0%8D%E6%9C%80%E6%96%B0%E5%92%8C%E8%A7%A3%E6%96%B9%E6%A1%88%E5%AD%98%E5%88%86%E6%AD%A7-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%90%91%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9C%98%E4%B8%8B-%E9%80%90%E5%AE%A2%E4%BB%A4",
-    "timestamp": "2026-10-01T01:02:45.904Z",
     "strategy": ".content-card__main"
   }
 ];
