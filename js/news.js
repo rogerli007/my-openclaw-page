@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T19:46:38.394Z
+// Last updated: 2026-10-01T19:54:48.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國空軍基地恐襲未遂案　一名有伊朗及英國雙重國籍男子被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182527571502305280068249.jpeg/PoLe1hQVjOtD6c-b-v7X5aNSyZMK8OhV_ar5nP2q-Zw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395664/%E8%8B%B1%E5%9C%8B%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E4%B8%80%E5%90%8D%E6%9C%89%E4%BC%8A%E6%9C%97%E5%8F%8A%E8%8B%B1%E5%9C%8B%E9%9B%99%E9%87%8D%E5%9C%8B%E7%B1%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-01T19:54:48.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國空軍基地恐襲未遂案　一名有伊朗及英國雙重國籍男子被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182424553339490304780693.png/Mddfmt7Y6Z1S4Aa9tk-dnXgo9wso9YqQ2Y_ol9mP6Jc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60395607/%E6%B1%9F%E8%8B%A5%E7%90%B3%E9%A3%9B%E9%9F%93%E5%9C%8B%E6%85%B6%E7%94%9F%E4%B8%9F%E5%A4%B1%E8%AD%B7%E7%85%A7%E6%89%8B%E8%A2%8B-%E6%B1%82%E5%8A%A9%E4%B8%AD%E5%9C%8B%E9%A7%90%E9%9F%93%E4%BD%BF%E9%A4%A8%E8%A8%B1%E9%A1%98%E7%9B%BC%E5%A6%82%E6%9C%9F%E5%9B%9E%E5%AE%B6",
     "timestamp": "2026-10-01T12:31:41.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶煙花・直播｜3.1萬枚煙花晚上8時綻放　料26萬人維港兩岸觀賞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050159340113498112264713.jpeg/5VjCWCYu1hS9ZEUuSyfJ0SY1yY_9FwTvL15veTVeb3k?v=w1920",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395386/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1-%E7%9B%B4%E6%92%AD-3-1%E8%90%AC%E6%9E%9A%E7%85%99%E8%8A%B1%E6%99%9A%E4%B8%8A8%E6%99%82%E7%B6%BB%E6%94%BE-%E6%96%9926%E8%90%AC%E4%BA%BA%E7%B6%AD%E6%B8%AF%E5%85%A9%E5%B2%B8%E8%A7%80%E8%B3%9E",
-    "timestamp": "2026-10-01T11:55:46.513Z",
     "strategy": ".content-card__main"
   }
 ];
