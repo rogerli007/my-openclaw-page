@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T17:19:43.328Z
+// Last updated: 2026-10-01T17:35:19.772Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶｜尖沙咀最高峰多達500人排隊　等候上跨境巴士前往皇崗口岸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182495630405144576917382.jpeg/Y6VBS8ZXJ6Fzh_M5jIjCmEpb41Q5YJTNcykD9HMpA_Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395657/%E5%9C%8B%E6%85%B6-%E5%B0%96%E6%B2%99%E5%92%80%E6%9C%80%E9%AB%98%E5%B3%B0%E5%A4%9A%E9%81%94500%E4%BA%BA%E6%8E%92%E9%9A%8A-%E7%AD%89%E5%80%99%E4%B8%8A%E8%B7%A8%E5%A2%83%E5%B7%B4%E5%A3%AB%E5%89%8D%E5%BE%80%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8",
+    "timestamp": "2026-10-01T17:35:19.772Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶｜尖沙咀最高峰多達500人排隊　等候上跨境巴士前往皇崗口岸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182397115263881216401293.jpeg/e2dpCzgFlm8Gw1Sg4g8ItRdgdulytaCUr9fO94rXzvc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395568/%E5%90%91%E8%8F%AF%E7%82%8E%E5%A6%BB%E5%AD%90%E5%91%82%E6%9D%8F%E8%8F%AF%E9%80%9D%E4%B8%96%E8%A8%AD%E9%9D%88-%E5%A4%A7%E6%89%B9%E8%AD%A6%E5%93%A1%E7%B4%85%E7%A3%A1%E4%B8%96%E7%95%8C%E6%AE%AF%E5%84%80%E9%A4%A8%E5%A4%96%E9%A7%90%E5%AE%88",
     "timestamp": "2026-10-01T10:50:48.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一｜旺角站工程圍板變打卡佈景板意外爆紅　福建客讚更勝月台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182380553194704896068423.jpeg/GV2w7fGCmbrtMN66h_8Ymfhzq5Qhhy9D507AdedOwHU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395582/%E5%8D%81%E4%B8%80-%E6%97%BA%E8%A7%92%E7%AB%99%E5%B7%A5%E7%A8%8B%E5%9C%8D%E6%9D%BF%E8%AE%8A%E6%89%93%E5%8D%A1%E4%BD%88%E6%99%AF%E6%9D%BF%E6%84%8F%E5%A4%96%E7%88%86%E7%B4%85-%E7%A6%8F%E5%BB%BA%E5%AE%A2%E8%AE%9A%E6%9B%B4%E5%8B%9D%E6%9C%88%E5%8F%B0",
-    "timestamp": "2026-10-01T10:00:17.249Z",
     "strategy": ".content-card__main"
   }
 ];
