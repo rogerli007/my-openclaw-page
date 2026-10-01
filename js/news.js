@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T11:55:46.513Z
+// Last updated: 2026-10-01T12:31:41.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江若琳飛韓國慶生丟失護照手袋　求助中國駐韓使館許願盼如期回家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182424553339490304780693.png/Mddfmt7Y6Z1S4Aa9tk-dnXgo9wso9YqQ2Y_ol9mP6Jc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60395607/%E6%B1%9F%E8%8B%A5%E7%90%B3%E9%A3%9B%E9%9F%93%E5%9C%8B%E6%85%B6%E7%94%9F%E4%B8%9F%E5%A4%B1%E8%AD%B7%E7%85%A7%E6%89%8B%E8%A2%8B-%E6%B1%82%E5%8A%A9%E4%B8%AD%E5%9C%8B%E9%A7%90%E9%9F%93%E4%BD%BF%E9%A4%A8%E8%A8%B1%E9%A1%98%E7%9B%BC%E5%A6%82%E6%9C%9F%E5%9B%9E%E5%AE%B6",
+    "timestamp": "2026-10-01T12:31:41.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶煙花・直播｜3.1萬枚煙花晚上8時綻放　料26萬人維港兩岸觀賞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260223/1102615676348010496592617.jpeg/K6oyQKHRPXF81myMhjUMA539XB4g4S8XfvXzwH7188A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395455/%E5%9C%8B%E6%85%B677%E5%91%A8%E5%B9%B4-%E9%87%91%E6%AD%A3%E6%81%A9%E5%90%91%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E8%B3%80%E9%9B%BB-%E5%BC%B7%E8%AA%BF%E4%B8%AD%E6%9C%9D%E8%A1%80%E7%9B%9F%E9%97%9C%E4%BF%82%E4%B8%8D%E5%8B%95%E6%90%96",
     "timestamp": "2026-10-01T02:51:02.861Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何文田停電︱中電派出流動發電車供電　內地客憂再斷電欲轉酒店",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182271783705776128815347.jpeg/loEfTLA4cYm54TDznQAlAv2ZWIuLcHE0xib9-sYm_fo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395439/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E4%B8%AD%E9%9B%BB%E6%B4%BE%E5%87%BA%E6%B5%81%E5%8B%95%E7%99%BC%E9%9B%BB%E8%BB%8A%E4%BE%9B%E9%9B%BB-%E5%85%A7%E5%9C%B0%E5%AE%A2%E6%86%82%E5%86%8D%E6%96%B7%E9%9B%BB%E6%AC%B2%E8%BD%89%E9%85%92%E5%BA%97",
-    "timestamp": "2026-10-01T02:13:48.397Z",
     "strategy": ".content-card__main"
   }
 ];
