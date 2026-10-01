@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T15:46:21.198Z
+// Last updated: 2026-10-01T16:22:41.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶煙花｜李家超：讓我們帶著美好祝願　與國家一起穩步向前",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182482083444953088951728.jpeg/t_W3DwI546B1oZcLeN3SkRJ8KEOvOmOXxJPXDMST1ww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395654/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E8%AE%93%E6%88%91%E5%80%91%E5%B8%B6%E8%91%97%E7%BE%8E%E5%A5%BD%E7%A5%9D%E9%A1%98-%E8%88%87%E5%9C%8B%E5%AE%B6%E4%B8%80%E8%B5%B7%E7%A9%A9%E6%AD%A5%E5%90%91%E5%89%8D",
+    "timestamp": "2026-10-01T16:22:41.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶｜田北辰遇羅淑佩問候退休生活　藉機爭取建賽車場獲一回覆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182371603485298688640915.jpeg/9mCNJrGDmdN6JNWeBNXeZ-D-dZ388LZmy7LudMuy7nQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395521/%E4%BA%9E%E9%81%8B%E3%91%B92026-%E5%BC%B5%E7%91%8B%E6%A1%93%E9%80%A3%E7%BA%8C%E5%85%A9%E5%A4%A9%E4%B8%80%E6%97%A5%E9%9B%99%E8%B3%BD-%E5%85%88%E5%A4%A5%E7%8E%8B%E5%BA%B7%E6%80%A1%E9%8E%96%E5%AE%9A%E5%A5%B3%E9%9B%99%E7%8D%8E%E7%89%8C",
     "timestamp": "2026-10-01T08:55:30.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一｜油尖旺團體合唱紅歌慶祝　包括《沒有共產黨就沒有新中國》",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182357004321034240534260.jpeg/UAYHoGaERe91tv3NKP0jGwJ76UHIOk9nPekyoD3pMqA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395548/%E5%8D%81%E4%B8%80-%E6%B2%B9%E5%B0%96%E6%97%BA%E5%9C%98%E9%AB%94%E5%90%88%E5%94%B1%E7%B4%85%E6%AD%8C%E6%85%B6%E7%A5%9D-%E5%8C%85%E6%8B%AC-%E6%B2%92%E6%9C%89%E5%85%B1%E7%94%A2%E9%BB%A8%E5%B0%B1%E6%B2%92%E6%9C%89%E6%96%B0%E4%B8%AD%E5%9C%8B",
-    "timestamp": "2026-10-01T08:00:36.911Z",
     "strategy": ".content-card__main"
   }
 ];
