@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T19:54:48.152Z
+// Last updated: 2026-10-01T20:22:47.369Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一黃金周│尖沙咀兩間麥當勞凌晨爆滿　內地人佔多數　氣氛熱鬧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182533656023928832015824.jpeg/IsTgR6-KoH3SrEjilUkHuPUlrzhwMxkP0QEMzesBDM0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395659/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%B0%96%E6%B2%99%E5%92%80%E5%85%A9%E9%96%93%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%87%8C%E6%99%A8%E7%88%86%E6%BB%BF-%E5%85%A7%E5%9C%B0%E4%BA%BA%E4%BD%94%E5%A4%9A%E6%95%B8-%E6%B0%A3%E6%B0%9B%E7%86%B1%E9%AC%A7",
+    "timestamp": "2026-10-01T20:22:47.369Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國空軍基地恐襲未遂案　一名有伊朗及英國雙重國籍男子被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172874627169390592285174.jpeg/zAPcm3sP9xakQPmoFN739c48BBgItilHZGfjmGRn45g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395624/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E7%B8%A3%E6%9D%B1%E5%8C%97%E9%83%A8%E7%99%BC%E7%94%9F5-1%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%9D%B1%E4%BA%AC%E6%9C%89%E9%9C%87%E6%84%9F",
     "timestamp": "2026-10-01T12:57:49.220Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江若琳飛韓國慶生丟失護照手袋　求助中國駐韓使館許願盼如期回家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182424553339490304780693.png/Mddfmt7Y6Z1S4Aa9tk-dnXgo9wso9YqQ2Y_ol9mP6Jc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60395607/%E6%B1%9F%E8%8B%A5%E7%90%B3%E9%A3%9B%E9%9F%93%E5%9C%8B%E6%85%B6%E7%94%9F%E4%B8%9F%E5%A4%B1%E8%AD%B7%E7%85%A7%E6%89%8B%E8%A2%8B-%E6%B1%82%E5%8A%A9%E4%B8%AD%E5%9C%8B%E9%A7%90%E9%9F%93%E4%BD%BF%E9%A4%A8%E8%A8%B1%E9%A1%98%E7%9B%BC%E5%A6%82%E6%9C%9F%E5%9B%9E%E5%AE%B6",
-    "timestamp": "2026-10-01T12:31:41.580Z",
     "strategy": ".content-card__main"
   }
 ];
