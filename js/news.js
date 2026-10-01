@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T23:21:08.737Z
+// Last updated: 2026-10-01T23:32:00.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "心血管堵塞99%！男子眼皮耳垂現2症狀及時保命　附3大心血管警號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179416466496163840132450.jpeg/h-RVb8wY12evjf4SgLtWn_fRvvPd8B3GKfdO0Cn3TtA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60390909/%E5%BF%83%E8%A1%80%E7%AE%A1%E5%A0%B5%E5%A1%9E99-%E7%94%B7%E5%AD%90%E7%9C%BC%E7%9A%AE%E8%80%B3%E5%9E%82%E7%8F%BE2%E7%97%87%E7%8B%80%E5%8F%8A%E6%99%82%E4%BF%9D%E5%91%BD-%E9%99%843%E5%A4%A7%E5%BF%83%E8%A1%80%E7%AE%A1%E8%AD%A6%E8%99%9F",
+    "timestamp": "2026-10-01T23:32:00.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "心血管堵塞99%！男子眼皮耳垂現2症狀及時保命　附3大心血管警號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182473281857392640562893.jpeg/o4L4-TduSl7rMUDNomyntpGm4zptcBK-Togb5E6IG-Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395648/%E5%9C%8B%E6%85%B6-%E7%94%B0%E5%8C%97%E8%BE%B0%E9%81%87%E7%BE%85%E6%B7%91%E4%BD%A9%E5%95%8F%E5%80%99%E9%80%80%E4%BC%91%E7%94%9F%E6%B4%BB-%E8%97%89%E6%A9%9F%E7%88%AD%E5%8F%96%E5%BB%BA%E8%B3%BD%E8%BB%8A%E5%A0%B4%E7%8D%B2%E4%B8%80%E5%9B%9E%E8%A6%86",
     "timestamp": "2026-10-01T15:46:21.198Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "姚正菁榮升國際級模特兒  首行時裝騷擺烏龍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182469149956247552324816.jpeg/Fg43LF-K7EbS2AzDsQSWQ_ivQnLIMb87f6rSKH-q0ig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395649/%E5%A7%9A%E6%AD%A3%E8%8F%81%E6%A6%AE%E5%8D%87%E5%9C%8B%E9%9A%9B%E7%B4%9A%E6%A8%A1%E7%89%B9%E5%85%92-%E9%A6%96%E8%A1%8C%E6%99%82%E8%A3%9D%E9%A8%B7%E6%93%BA%E7%83%8F%E9%BE%8D",
-    "timestamp": "2026-10-01T15:24:27.359Z",
     "strategy": ".content-card__main"
   }
 ];
