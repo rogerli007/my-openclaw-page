@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T13:25:19.136Z
+// Last updated: 2026-10-01T13:47:55.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026場地單車｜梁穎儀四獲獎牌首摘銀　從悔恨之淚破涕為笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182421458387734528619548.jpeg/EQliexIc9Hiv8YTOGRUi0m01ycmeRLobSVkjd0lZI3c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395488/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A0%B4%E5%9C%B0%E5%96%AE%E8%BB%8A-%E6%A2%81%E7%A9%8E%E5%84%80%E5%9B%9B%E7%8D%B2%E7%8D%8E%E7%89%8C%E9%A6%96%E6%91%98%E9%8A%80-%E5%BE%9E%E6%82%94%E6%81%A8%E4%B9%8B%E6%B7%9A%E7%A0%B4%E6%B6%95%E7%82%BA%E7%AC%91",
+    "timestamp": "2026-10-01T13:47:55.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬斯克重返特朗普政府　擔任國防部顧問研究未來戰爭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182298656636669952147853.jpeg/b6hGyMm60sd0qQIQSr9LgOPuM8v9pJsspYw7Y6WMO2M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395486/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E5%A3%81%E7%90%83%E5%A5%B3%E5%9C%98%E6%B8%AF%E9%9A%8A%E6%99%89%E9%87%91%E7%89%8C%E6%88%B0-%E9%99%B3%E5%96%84%E9%88%BA%E7%B5%95%E5%9C%B0%E5%8F%8D%E5%8B%9D%E4%BD%95%E5%AD%90%E6%A8%82%E5%AE%88%E5%B0%BE%E9%96%80",
     "timestamp": "2026-10-01T04:25:00.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WhatsApp騎劫｜1周50宗呃$2000萬　「生意夥伴」掠$1500萬泰達幣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182290191105134592302658.jpeg/zl6DLoTszLD8yOKA6s4ALrPDcZW1ojNq6SGFJekhhSU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395468/whatsapp%E9%A8%8E%E5%8A%AB-1%E5%91%A850%E5%AE%97%E5%91%83-2000%E8%90%AC-%E7%94%9F%E6%84%8F%E5%A4%A5%E4%BC%B4-%E6%8E%A0-1500%E8%90%AC%E6%B3%B0%E9%81%94%E5%B9%A3",
-    "timestamp": "2026-10-01T03:53:37.426Z",
     "strategy": ".content-card__main"
   }
 ];
