@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T20:47:03.236Z
+// Last updated: 2026-10-01T21:45:03.283Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國康奈爾大學輪姦案　女事主起訴涉事7男　稱被誘在陽具上吸毒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182559983187791872971832.jpeg/FA1w2RI-2g_OaCqcxWXm8Kfs3WNjjE1YqDoJq6g6Cas?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395666/%E7%BE%8E%E5%9C%8B%E5%BA%B7%E5%A5%88%E7%88%BE%E5%A4%A7%E5%AD%B8%E8%BC%AA%E5%A7%A6%E6%A1%88-%E5%A5%B3%E4%BA%8B%E4%B8%BB%E8%B5%B7%E8%A8%B4%E6%B6%89%E4%BA%8B7%E7%94%B7-%E7%A8%B1%E8%A2%AB%E8%AA%98%E5%9C%A8%E9%99%BD%E5%85%B7%E4%B8%8A%E5%90%B8%E6%AF%92",
+    "timestamp": "2026-10-01T21:45:03.283Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一黃金周│尖沙咀兩間麥當勞凌晨爆滿　內地人佔多數　氣氛熱鬧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182421458387734528619548.jpeg/EQliexIc9Hiv8YTOGRUi0m01ycmeRLobSVkjd0lZI3c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395488/%E4%BA%9E%E9%81%8B%E6%9C%832026%E5%A0%B4%E5%9C%B0%E5%96%AE%E8%BB%8A-%E6%A2%81%E7%A9%8E%E5%84%80%E5%9B%9B%E7%8D%B2%E7%8D%8E%E7%89%8C%E9%A6%96%E6%91%98%E9%8A%80-%E5%BE%9E%E6%82%94%E6%81%A8%E4%B9%8B%E6%B7%9A%E7%A0%B4%E6%B6%95%E7%82%BA%E7%AC%91",
     "timestamp": "2026-10-01T13:47:55.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬斯克重返特朗普政府　擔任國防部顧問研究未來戰爭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177260318808608768395127.jpeg/iNfjRslTtiae6n9XGO-TXIOKxUnixHoOSj3h2ko94do?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395629/%E9%A6%AC%E6%96%AF%E5%85%8B%E9%87%8D%E8%BF%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C-%E6%93%94%E4%BB%BB%E5%9C%8B%E9%98%B2%E9%83%A8%E9%A1%A7%E5%95%8F%E7%A0%94%E7%A9%B6%E6%9C%AA%E4%BE%86%E6%88%B0%E7%88%AD",
-    "timestamp": "2026-10-01T13:25:19.136Z",
     "strategy": ".content-card__main"
   }
 ];
