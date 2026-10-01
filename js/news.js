@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T13:47:55.995Z
+// Last updated: 2026-10-01T13:59:36.816Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賣公屋都損手？朗屏邨2房未補價219萬沽　買家趕購買證到期前入市",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220912/646123580018397184190627.jpeg/xF_9s_MB8gxV4ACRZwfaH4RxjPkrjqbcJ5k0dyeZNHc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60395138/%E8%B3%A3%E5%85%AC%E5%B1%8B%E9%83%BD%E6%90%8D%E6%89%8B-%E6%9C%97%E5%B1%8F%E9%82%A82%E6%88%BF%E6%9C%AA%E8%A3%9C%E5%83%B9219%E8%90%AC%E6%B2%BD-%E8%B2%B7%E5%AE%B6%E8%B6%95%E8%B3%BC%E8%B2%B7%E8%AD%89%E5%88%B0%E6%9C%9F%E5%89%8D%E5%85%A5%E5%B8%82",
+    "timestamp": "2026-10-01T13:59:36.816Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026場地單車｜梁穎儀四獲獎牌首摘銀　從悔恨之淚破涕為笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182308542309208064415627.jpeg/YZqyiDHWnYCyg4FJ1hl1rV2U8zlKg_vA0E1YXtBNWF4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395498/%E5%AE%B6%E8%A8%88%E6%9C%83%E4%B8%8A%E6%B0%B4%E5%A9%A6%E5%A5%B3%E6%9C%83whatsapp%E5%B8%B3%E6%88%B6%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%9C%83%E6%96%B9%E5%A0%B1%E8%AD%A6%E5%8F%8A%E9%80%9A%E5%A0%B1%E7%A7%81%E9%9A%B1%E7%BD%B2",
     "timestamp": "2026-10-01T04:49:46.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026︱壁球女團港隊晉金牌戰　陳善鈺絕地反勝何子樂守尾門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182298656636669952147853.jpeg/b6hGyMm60sd0qQIQSr9LgOPuM8v9pJsspYw7Y6WMO2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395486/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E5%A3%81%E7%90%83%E5%A5%B3%E5%9C%98%E6%B8%AF%E9%9A%8A%E6%99%89%E9%87%91%E7%89%8C%E6%88%B0-%E9%99%B3%E5%96%84%E9%88%BA%E7%B5%95%E5%9C%B0%E5%8F%8D%E5%8B%9D%E4%BD%95%E5%AD%90%E6%A8%82%E5%AE%88%E5%B0%BE%E9%96%80",
-    "timestamp": "2026-10-01T04:25:00.529Z",
     "strategy": ".content-card__main"
   }
 ];
