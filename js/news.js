@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T06:35:03.405Z
+// Last updated: 2026-10-01T07:09:44.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜拜航空屬國企營運特拉維夫航線近6年　以色列去年百萬人赴杜拜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182343804833763328430761.jpeg/8bgqBl38Jtnfz61Oit8uB8RCcnWuMeh3z6jMe8-ozHs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395520/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%B1%AC%E5%9C%8B%E4%BC%81%E7%87%9F%E9%81%8B%E7%89%B9%E6%8B%89%E7%B6%AD%E5%A4%AB%E8%88%AA%E7%B7%9A%E8%BF%916%E5%B9%B4-%E4%BB%A5%E8%89%B2%E5%88%97%E5%8E%BB%E5%B9%B4%E7%99%BE%E8%90%AC%E4%BA%BA%E8%B5%B4%E6%9D%9C%E6%8B%9C",
+    "timestamp": "2026-10-01T07:09:44.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一黃金周｜雲南客愛港產片　留港一周料花3萬　盼感受人文氣息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178727526666240254608.jpeg/cgH0VeeODEBIU9fNq6bHyk38LJaPbDXACvUVgQr1FYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395420/%E6%9D%BF%E5%BC%8F%E7%B6%B2%E7%90%83-%E7%BE%85%E6%98%93%E6%AE%B7-%E9%99%B3%E6%9B%89%E5%B5%90%E4%BB%A5%E4%BA%9E%E9%81%8B%E7%82%BA%E8%B5%B7%E9%BB%9E-%E6%94%BE%E7%9C%BCpadel%E6%9B%B4%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95",
     "timestamp": "2026-09-30T20:45:12.128Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "板式網球｜羅易殷/陳曉嵐以亞運為起點　放眼Padel更長遠發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178727526666240254608.jpeg/cgH0VeeODEBIU9fNq6bHyk38LJaPbDXACvUVgQr1FYE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395420/%E6%9D%BF%E5%BC%8F%E7%B6%B2%E7%90%83-%E7%BE%85%E6%98%93%E6%AE%B7-%E9%99%B3%E6%9B%89%E5%B5%90%E4%BB%A5%E4%BA%9E%E9%81%8B%E7%82%BA%E8%B5%B7%E9%BB%9E-%E6%94%BE%E7%9C%BCpadel%E6%9B%B4%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-09-30T20:23:05.621Z",
     "strategy": ".content-card__main"
   }
 ];
