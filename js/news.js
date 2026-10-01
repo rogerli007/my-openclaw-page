@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T10:58:51.163Z
+// Last updated: 2026-10-01T11:19:50.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關機場連破3販毒案拘5人　全由曼谷抵港　檢$920萬大麻花及藥物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182399166656024576802436.jpeg/umnCOy_EWYeXjPWXKf-hWnK7mpoT_5my1nzVCtZ81Qo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395604/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E9%80%A3%E7%A0%B43%E8%B2%A9%E6%AF%92%E6%A1%88%E6%8B%985%E4%BA%BA-%E5%85%A8%E7%94%B1%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF-%E6%AA%A2-920%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%8F%8A%E8%97%A5%E7%89%A9",
+    "timestamp": "2026-10-01T11:19:50.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶煙花｜尖沙咀海旁逼爆　有攝影發燒友提早7小時霸位影靚相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1178873398109933568624790.jpeg/juoKpgwqPRlmoszkqdQsHD8vgACHLA8SMFDntSVQ57U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395122/%E5%9C%8B%E6%85%B6%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E5%8D%87%E6%97%97%E5%84%80%E5%BC%8F-%E5%B8%82%E6%B0%91%E4%BA%AB%E5%84%AA%E6%83%A0%E5%AF%A6%E6%B3%81%E5%8F%8A%E7%85%99%E8%8A%B1%E7%9B%B4%E6%93%8A",
     "timestamp": "2026-09-30T23:55:33.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一國慶直播｜金紫荊廣場國慶升旗儀式　會展國慶酒會李家超主禮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181944950766440448073189.jpeg/ZLl5OGmIBTr6aYLfP62LQvS-SEsdBNdCNtyq5DbcquQ",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395158/%E5%8D%81%E4%B8%80%E5%9C%8B%E6%85%B6%E7%9B%B4%E6%92%AD-%E9%87%91%E7%B4%AB%E8%8D%8A%E5%BB%A3%E5%A0%B4%E5%9C%8B%E6%85%B6%E5%8D%87%E6%97%97%E5%84%80%E5%BC%8F-%E6%9C%83%E5%B1%95%E5%9C%8B%E6%85%B6%E9%85%92%E6%9C%83%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%B8%BB%E7%A6%AE",
-    "timestamp": "2026-09-30T23:47:27.277Z",
     "strategy": ".content-card__main"
   }
 ];
