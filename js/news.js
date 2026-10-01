@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T17:35:19.772Z
+// Last updated: 2026-10-01T18:27:33.704Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "死有對証｜馬貫東因車cam片發現戴綠帽　王菲與黃俊豪光脫脫車震",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182481955426406400217603.jpeg/s1_Hqyel01FoawGtiWlnr33-o5YogezmLRhc4y0YXOM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395655/%E6%AD%BB%E6%9C%89%E5%B0%8D%E8%A8%BC-%E9%A6%AC%E8%B2%AB%E6%9D%B1%E5%9B%A0%E8%BB%8Acam%E7%89%87%E7%99%BC%E7%8F%BE%E6%88%B4%E7%B6%A0%E5%B8%BD-%E7%8E%8B%E8%8F%B2%E8%88%87%E9%BB%83%E4%BF%8A%E8%B1%AA%E5%85%89%E8%84%AB%E8%84%AB%E8%BB%8A%E9%9C%87",
+    "timestamp": "2026-10-01T18:27:33.704Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶｜尖沙咀最高峰多達500人排隊　等候上跨境巴士前往皇崗口岸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182392255218978816419620.jpeg/_F9N-a7wEYsh_PIp-dOZOCcQrmCHNoNNSgUMu0oFDLs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395603/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1-%E5%B0%96%E6%B2%99%E5%92%80%E6%B5%B7%E6%97%81%E9%80%BC%E7%88%86-%E6%9C%89%E6%94%9D%E5%BD%B1%E7%99%BC%E7%87%92%E5%8F%8B%E6%8F%90%E6%97%A97%E5%B0%8F%E6%99%82%E9%9C%B8%E4%BD%8D%E5%BD%B1%E9%9D%9A%E7%9B%B8",
     "timestamp": "2026-10-01T10:58:51.163Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "向華炎妻子呂杏華逝世設靈　大批警員紅磡世界殯儀館外駐守",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182397115263881216401293.jpeg/e2dpCzgFlm8Gw1Sg4g8ItRdgdulytaCUr9fO94rXzvc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395568/%E5%90%91%E8%8F%AF%E7%82%8E%E5%A6%BB%E5%AD%90%E5%91%82%E6%9D%8F%E8%8F%AF%E9%80%9D%E4%B8%96%E8%A8%AD%E9%9D%88-%E5%A4%A7%E6%89%B9%E8%AD%A6%E5%93%A1%E7%B4%85%E7%A3%A1%E4%B8%96%E7%95%8C%E6%AE%AF%E5%84%80%E9%A4%A8%E5%A4%96%E9%A7%90%E5%AE%88",
-    "timestamp": "2026-10-01T10:50:48.581Z",
     "strategy": ".content-card__main"
   }
 ];
