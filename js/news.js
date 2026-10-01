@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T08:00:36.911Z
+// Last updated: 2026-10-01T08:55:30.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運㑹2026｜張瑋桓連續兩天一日雙賽　先夥王康怡鎖定女雙獎牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182371603485298688640915.jpeg/9mCNJrGDmdN6JNWeBNXeZ-D-dZ388LZmy7LudMuy7nQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395521/%E4%BA%9E%E9%81%8B%E3%91%B92026-%E5%BC%B5%E7%91%8B%E6%A1%93%E9%80%A3%E7%BA%8C%E5%85%A9%E5%A4%A9%E4%B8%80%E6%97%A5%E9%9B%99%E8%B3%BD-%E5%85%88%E5%A4%A5%E7%8E%8B%E5%BA%B7%E6%80%A1%E9%8E%96%E5%AE%9A%E5%A5%B3%E9%9B%99%E7%8D%8E%E7%89%8C",
+    "timestamp": "2026-10-01T08:55:30.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一｜油尖旺團體合唱紅歌慶祝　包括《沒有共產黨就沒有新中國》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178599067717632946158.jpeg/SSH_WMRA6Psqtqa-V3l6YUR8vVny16uqVGk2Qm5pNkI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395417/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%85%A9%E7%B6%B2%E5%90%A7%E5%AE%A2%E9%87%8F%E5%92%8C%E5%B9%B3%E6%97%A5%E7%9B%B8%E8%8B%A5-%E6%AF%8D%E8%A6%AA%E9%99%AA%E5%AD%90%E5%A5%B3%E6%89%93%E6%A9%9F-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%86%B7%E6%B8%85",
     "timestamp": "2026-09-30T21:56:01.734Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一黃金周│兩網吧客量和平日相若　母親陪子女打機　麥當勞冷清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178599067717632946158.jpeg/SSH_WMRA6Psqtqa-V3l6YUR8vVny16uqVGk2Qm5pNkI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395417/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%85%A9%E7%B6%B2%E5%90%A7%E5%AE%A2%E9%87%8F%E5%92%8C%E5%B9%B3%E6%97%A5%E7%9B%B8%E8%8B%A5-%E6%AF%8D%E8%A6%AA%E9%99%AA%E5%AD%90%E5%A5%B3%E6%89%93%E6%A9%9F-%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%86%B7%E6%B8%85",
-    "timestamp": "2026-09-30T21:45:40.260Z",
     "strategy": ".content-card__main"
   }
 ];
