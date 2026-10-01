@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T05:58:48.401Z
+// Last updated: 2026-10-01T06:35:03.405Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一黃金周｜雲南客愛港產片　留港一周料花3萬　盼感受人文氣息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182331960769384448241073.jpeg/skav1ZrUXS_2uKx94Rx0KAWDRpOToQC3oew5J4fsOSc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395514/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E9%9B%B2%E5%8D%97%E5%AE%A2%E6%84%9B%E6%B8%AF%E7%94%A2%E7%89%87-%E7%95%99%E6%B8%AF%E4%B8%80%E5%91%A8%E6%96%99%E8%8A%B13%E8%90%AC-%E7%9B%BC%E6%84%9F%E5%8F%97%E4%BA%BA%E6%96%87%E6%B0%A3%E6%81%AF",
+    "timestamp": "2026-10-01T06:35:03.405Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶優惠31大2026｜港鐵送車票！太興/敏華/必勝客7折+半價睇戲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182178727526666240254608.jpeg/cgH0VeeODEBIU9fNq6bHyk38LJaPbDXACvUVgQr1FYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395420/%E6%9D%BF%E5%BC%8F%E7%B6%B2%E7%90%83-%E7%BE%85%E6%98%93%E6%AE%B7-%E9%99%B3%E6%9B%89%E5%B5%90%E4%BB%A5%E4%BA%9E%E9%81%8B%E7%82%BA%E8%B5%B7%E9%BB%9E-%E6%94%BE%E7%9C%BCpadel%E6%9B%B4%E9%95%B7%E9%81%A0%E7%99%BC%E5%B1%95",
     "timestamp": "2026-09-30T20:23:05.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何文田停電｜黃金周旅客諒解：唔係酒店問題　男街坊：BB無乜影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182161963564666880529183.jpeg/npfmoJKdv1vVM6F3moUZtLKU1m3eCAusTCizVXYos1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395415/%E4%BD%95%E6%96%87%E7%94%B0%E5%81%9C%E9%9B%BB-%E9%BB%83%E9%87%91%E5%91%A8%E6%97%85%E5%AE%A2%E8%AB%92%E8%A7%A3-%E5%94%94%E4%BF%82%E9%85%92%E5%BA%97%E5%95%8F%E9%A1%8C-%E7%94%B7%E8%A1%97%E5%9D%8A-bb%E7%84%A1%E4%B9%9C%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-09-30T19:55:07.587Z",
     "strategy": ".content-card__main"
   }
 ];
