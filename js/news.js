@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T14:59:33.457Z
+// Last updated: 2026-10-01T15:24:27.359Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姚正菁榮升國際級模特兒  首行時裝騷擺烏龍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182469149956247552324816.jpeg/Fg43LF-K7EbS2AzDsQSWQ_ivQnLIMb87f6rSKH-q0ig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395649/%E5%A7%9A%E6%AD%A3%E8%8F%81%E6%A6%AE%E5%8D%87%E5%9C%8B%E9%9A%9B%E7%B4%9A%E6%A8%A1%E7%89%B9%E5%85%92-%E9%A6%96%E8%A1%8C%E6%99%82%E8%A3%9D%E9%A8%B7%E6%93%BA%E7%83%8F%E9%BE%8D",
+    "timestamp": "2026-10-01T15:24:27.359Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯儲局翻修工程經調查無違法行為　特朗普仍要求鮑威爾辭職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182343804833763328430761.jpeg/8bgqBl38Jtnfz61Oit8uB8RCcnWuMeh3z6jMe8-ozHs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395520/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%B1%AC%E5%9C%8B%E4%BC%81%E7%87%9F%E9%81%8B%E7%89%B9%E6%8B%89%E7%B6%AD%E5%A4%AB%E8%88%AA%E7%B7%9A%E8%BF%916%E5%B9%B4-%E4%BB%A5%E8%89%B2%E5%88%97%E5%8E%BB%E5%B9%B4%E7%99%BE%E8%90%AC%E4%BA%BA%E8%B5%B4%E6%9D%9C%E6%8B%9C",
     "timestamp": "2026-10-01T07:09:44.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一黃金周｜雲南客愛港產片　留港一周料花3萬　盼感受人文氣息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182331960769384448241073.jpeg/skav1ZrUXS_2uKx94Rx0KAWDRpOToQC3oew5J4fsOSc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395514/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E9%9B%B2%E5%8D%97%E5%AE%A2%E6%84%9B%E6%B8%AF%E7%94%A2%E7%89%87-%E7%95%99%E6%B8%AF%E4%B8%80%E5%91%A8%E6%96%99%E8%8A%B13%E8%90%AC-%E7%9B%BC%E6%84%9F%E5%8F%97%E4%BA%BA%E6%96%87%E6%B0%A3%E6%81%AF",
-    "timestamp": "2026-10-01T06:35:03.405Z",
     "strategy": ".content-card__main"
   }
 ];
