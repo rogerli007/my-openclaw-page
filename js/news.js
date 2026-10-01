@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-09-30T23:55:33.957Z
+// Last updated: 2026-10-01T01:02:45.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美伊據報對最新和解方案存分歧　魯比奧向伊朗代表團下「逐客令」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230731/762729572994125824917602.jpeg/c1UgLxPrlZCU-uS4Q5LsggZZvvbZ8Of-j9Xb4I_V2-A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395435/%E7%BE%8E%E4%BC%8A%E6%93%9A%E5%A0%B1%E5%B0%8D%E6%9C%80%E6%96%B0%E5%92%8C%E8%A7%A3%E6%96%B9%E6%A1%88%E5%AD%98%E5%88%86%E6%AD%A7-%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%90%91%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9C%98%E4%B8%8B-%E9%80%90%E5%AE%A2%E4%BB%A4",
+    "timestamp": "2026-10-01T01:02:45.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶十一黃金周．最新消息｜升旗儀式、市民享優惠實況及煙花直擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181984343493447680751364.png/NJ4BKL_KoCRDmlOAvgK2SQ9sZqRWB9LguBS-P7gUvj8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395407/%E6%9D%9C%E6%8B%9C%E9%A3%9B%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A2%E6%A9%9F%E5%96%8B%E8%A1%80%E6%A1%88-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E6%8B%92%E4%BB%A5%E8%BB%8D%E6%A9%9F%E6%8E%A5%E5%9C%8B%E6%B0%91",
     "timestamp": "2026-09-30T16:47:14.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新世界向機管局交還11 SKIES　政府冀明年4月交接後盡快重新規劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260621/1145350542663356416834179.jpeg/ULEoPs_NK1vaFZG0klwkY6bMpV4svAEHaJxPmkKcT5o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395402/%E6%96%B0%E4%B8%96%E7%95%8C%E5%90%91%E6%A9%9F%E7%AE%A1%E5%B1%80%E4%BA%A4%E9%82%8411-skies-%E6%94%BF%E5%BA%9C%E5%86%80%E6%98%8E%E5%B9%B44%E6%9C%88%E4%BA%A4%E6%8E%A5%E5%BE%8C%E7%9B%A1%E5%BF%AB%E9%87%8D%E6%96%B0%E8%A6%8F%E5%8A%83",
-    "timestamp": "2026-09-30T15:58:57.344Z",
     "strategy": ".content-card__main"
   }
 ];
