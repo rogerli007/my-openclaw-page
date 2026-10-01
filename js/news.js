@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T10:50:48.581Z
+// Last updated: 2026-10-01T10:58:51.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶煙花｜尖沙咀海旁逼爆　有攝影發燒友提早7小時霸位影靚相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182392255218978816419620.jpeg/_F9N-a7wEYsh_PIp-dOZOCcQrmCHNoNNSgUMu0oFDLs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395603/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1-%E5%B0%96%E6%B2%99%E5%92%80%E6%B5%B7%E6%97%81%E9%80%BC%E7%88%86-%E6%9C%89%E6%94%9D%E5%BD%B1%E7%99%BC%E7%87%92%E5%8F%8B%E6%8F%90%E6%97%A97%E5%B0%8F%E6%99%82%E9%9C%B8%E4%BD%8D%E5%BD%B1%E9%9D%9A%E7%9B%B8",
+    "timestamp": "2026-10-01T10:58:51.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "向華炎妻子呂杏華逝世設靈　大批警員紅磡世界殯儀館外駐守",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181944950766440448073189.jpeg/ZLl5OGmIBTr6aYLfP62LQvS-SEsdBNdCNtyq5DbcquQ",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395158/%E5%8D%81%E4%B8%80%E5%9C%8B%E6%85%B6%E7%9B%B4%E6%92%AD-%E9%87%91%E7%B4%AB%E8%8D%8A%E5%BB%A3%E5%A0%B4%E5%9C%8B%E6%85%B6%E5%8D%87%E6%97%97%E5%84%80%E5%BC%8F-%E6%9C%83%E5%B1%95%E5%9C%8B%E6%85%B6%E9%85%92%E6%9C%83%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%B8%BB%E7%A6%AE",
     "timestamp": "2026-09-30T23:47:27.277Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥浚龍父放售淺水灣道複式海景洋房　市值約2.5億｜多圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182042492686569472504186.jpeg/bMb8ut3G9HsUHYhvZnJERnQ6gQfPlSB2XsoHxV7KB8U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60395285/%E9%BA%A5%E6%B5%9A%E9%BE%8D%E7%88%B6%E6%94%BE%E5%94%AE%E6%B7%BA%E6%B0%B4%E7%81%A3%E9%81%93%E8%A4%87%E5%BC%8F%E6%B5%B7%E6%99%AF%E6%B4%8B%E6%88%BF-%E5%B8%82%E5%80%BC%E7%B4%842-5%E5%84%84-%E5%A4%9A%E5%9C%96",
-    "timestamp": "2026-09-30T23:20:07.751Z",
     "strategy": ".content-card__main"
   }
 ];
