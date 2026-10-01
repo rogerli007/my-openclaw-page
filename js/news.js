@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T09:54:26.833Z
+// Last updated: 2026-10-01T10:00:17.249Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十一｜旺角站工程圍板變打卡佈景板意外爆紅　福建客讚更勝月台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182380553194704896068423.jpeg/GV2w7fGCmbrtMN66h_8Ymfhzq5Qhhy9D507AdedOwHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395582/%E5%8D%81%E4%B8%80-%E6%97%BA%E8%A7%92%E7%AB%99%E5%B7%A5%E7%A8%8B%E5%9C%8D%E6%9D%BF%E8%AE%8A%E6%89%93%E5%8D%A1%E4%BD%88%E6%99%AF%E6%9D%BF%E6%84%8F%E5%A4%96%E7%88%86%E7%B4%85-%E7%A6%8F%E5%BB%BA%E5%AE%A2%E8%AE%9A%E6%9B%B4%E5%8B%9D%E6%9C%88%E5%8F%B0",
+    "timestamp": "2026-10-01T10:00:17.249Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十一｜旺角站工程圍板變打卡佈景板意外爆紅　福建客讚更勝月台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/20200331/321696531654774784.jpeg/yui30tcfVmCjoOQTmWR7ZXlS3ahLv1oG7RxsVO0cbFQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395423/%E7%BE%8E%E5%9C%8B%E8%AA%BF%E6%9F%A5-%E9%BA%BB%E7%9C%81270%E7%A5%9E%E8%81%B7%E4%BA%BA%E5%93%A1%E6%80%A7%E4%BE%B5%E8%BF%911000%E7%AB%A5-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BC%E7%94%9F%E5%9C%A82002%E5%B9%B4%E5%89%8D",
     "timestamp": "2026-09-30T22:55:23.985Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國調查：麻省270神職人員性侵近1000童　大部份發生在2002年前",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/20200331/321696531654774784.jpeg/yui30tcfVmCjoOQTmWR7ZXlS3ahLv1oG7RxsVO0cbFQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395423/%E7%BE%8E%E5%9C%8B%E8%AA%BF%E6%9F%A5-%E9%BA%BB%E7%9C%81270%E7%A5%9E%E8%81%B7%E4%BA%BA%E5%93%A1%E6%80%A7%E4%BE%B5%E8%BF%911000%E7%AB%A5-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%99%BC%E7%94%9F%E5%9C%A82002%E5%B9%B4%E5%89%8D",
-    "timestamp": "2026-09-30T22:45:12.267Z",
     "strategy": ".content-card__main"
   }
 ];
