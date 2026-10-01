@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T19:19:12.956Z
+// Last updated: 2026-10-01T19:40:00.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "游泳｜何詩蓓打破50自短池亞洲紀錄　亞運後僅唞一周即奪世盃銀牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182529897243873280908362.jpeg/tKuVtzAR7RfWYv_TCC7Hn2ZvtyPI2B_Jm_X6zpv1-s4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395663/%E6%B8%B8%E6%B3%B3-%E4%BD%95%E8%A9%A9%E8%93%93%E6%89%93%E7%A0%B450%E8%87%AA%E7%9F%AD%E6%B1%A0%E4%BA%9E%E6%B4%B2%E7%B4%80%E9%8C%84-%E4%BA%9E%E9%81%8B%E5%BE%8C%E5%83%85%E5%94%9E%E4%B8%80%E5%91%A8%E5%8D%B3%E5%A5%AA%E4%B8%96%E7%9B%83%E9%8A%80%E7%89%8C",
+    "timestamp": "2026-10-01T19:40:00.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "埃及南部旅遊巴公路撞巴士12傷　包括9名中國公民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182370440434159616142938.jpeg/_KEuKqJX74n7C51dcxHaXPQyGFMHvzIC2J2M4NidjOA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60395562/%E5%85%A7%E5%9C%B0%E5%A5%B3%E8%A3%9D%E9%9B%BB%E5%95%86%E5%87%BA%E5%A5%87%E6%8B%9B%E7%94%A8-%E9%98%B2%E6%8B%86%E5%B8%B6-%E9%98%B2%E7%99%BD%E5%AB%96-%E4%BF%A1%E4%BB%BB%E5%B4%A9%E6%BD%B0-%E7%99%BB%E7%86%B1%E6%90%9C%E5%BC%95%E7%86%B1%E8%AD%B0",
     "timestamp": "2026-10-01T11:35:07.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關機場連破3販毒案拘5人　全由曼谷抵港　檢$920萬大麻花及藥物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182399166656024576802436.jpeg/umnCOy_EWYeXjPWXKf-hWnK7mpoT_5my1nzVCtZ81Qo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395604/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E9%80%A3%E7%A0%B43%E8%B2%A9%E6%AF%92%E6%A1%88%E6%8B%985%E4%BA%BA-%E5%85%A8%E7%94%B1%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF-%E6%AA%A2-920%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%8F%8A%E8%97%A5%E7%89%A9",
-    "timestamp": "2026-10-01T11:19:50.450Z",
     "strategy": ".content-card__main"
   }
 ];
