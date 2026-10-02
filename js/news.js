@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T23:43:57.599Z
+// Last updated: 2026-10-02T23:54:08.340Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "卵巢癌75%確診已末期　日本女星1個月逝世　留意4大偽腸胃病症狀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179417418640920576249157.jpeg/TVV98X2s9kkdSvDGS5d_GBJWbl8rZVsnqHBECKhwRAg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60390593/%E5%8D%B5%E5%B7%A2%E7%99%8C75-%E7%A2%BA%E8%A8%BA%E5%B7%B2%E6%9C%AB%E6%9C%9F-%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%98%9F1%E5%80%8B%E6%9C%88%E9%80%9D%E4%B8%96-%E7%95%99%E6%84%8F4%E5%A4%A7%E5%81%BD%E8%85%B8%E8%83%83%E7%97%85%E7%97%87%E7%8B%80",
+    "timestamp": "2026-10-02T23:54:08.340Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓媒：朝鮮向東海發射彈道導彈　NHK：落在日本專屬經濟區以外",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182850575826423808793068.jpeg/eqPiYYBHD3NVrcw204KrZDFrmXdpl7ZSqO_z5Kjv8-Q",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395941/%E5%A4%A9%E6%B0%B4%E5%9C%8D2%E5%B7%B4%E5%A3%AB%E8%BF%B7%E5%BD%B1%E5%B7%B4%E5%A3%AB%E7%88%86%E8%A1%9D%E7%AA%81-%E9%BB%91%E8%A1%A3%E7%94%B7%E7%8C%9B%E6%8E%A8%E6%92%90%E5%82%98%E7%94%B7-%E8%AD%A6%E5%88%97%E7%B3%BE%E7%B4%9B-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-02T17:01:06.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍2巴士迷影巴士爆衝突　黑衣男猛推撐傘男　警列糾紛｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182850575826423808793068.jpeg/eqPiYYBHD3NVrcw204KrZDFrmXdpl7ZSqO_z5Kjv8-Q",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395941/%E5%A4%A9%E6%B0%B4%E5%9C%8D2%E5%B7%B4%E5%A3%AB%E8%BF%B7%E5%BD%B1%E5%B7%B4%E5%A3%AB%E7%88%86%E8%A1%9D%E7%AA%81-%E9%BB%91%E8%A1%A3%E7%94%B7%E7%8C%9B%E6%8E%A8%E6%92%90%E5%82%98%E7%94%B7-%E8%AD%A6%E5%88%97%E7%B3%BE%E7%B4%9B-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-02T16:47:49.606Z",
     "strategy": ".content-card__main"
   }
 ];
