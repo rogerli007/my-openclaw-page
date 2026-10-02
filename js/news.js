@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T20:45:10.522Z
+// Last updated: 2026-10-02T20:56:10.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本沖繩縣23歲女被刺失血過多身亡　曾報警稱被前男友疑兇跟蹤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182912788809388032019635.png/twCWwn4ikxggWsFiE2NHu47PPIO7TuKuRMGiwETBosA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395954/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A323%E6%AD%B2%E5%A5%B3%E8%A2%AB%E5%88%BA%E5%A4%B1%E8%A1%80%E9%81%8E%E5%A4%9A%E8%BA%AB%E4%BA%A1-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E5%85%87%E8%B7%9F%E8%B9%A4",
+    "timestamp": "2026-10-02T20:56:10.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東隧單管雙程3車相撞　的士和客貨車車頭損毀　5人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182749700508356608194058.jpeg/Sf4i7Br78HOQzEm3ZkhB2KRvLJ1bzSGXsUkD27FJA9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395873/%E5%9C%8B%E9%9A%9B%E8%B3%BD%E5%87%BA%E6%93%8A-%E4%BA%9E%E9%81%8B%E7%94%B7%E8%B6%B3%E6%B1%BA%E8%B3%BD-%E5%8D%97%E9%9F%93%E8%AA%93%E8%B4%8F%E6%97%A5%E6%9C%AC%E5%9B%9B%E9%80%A3%E9%9C%B8",
     "timestamp": "2026-10-02T11:44:59.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭實戰首射國產FP-7彈道飛彈　澤連斯基宣布推動量產",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182763010545029120201984.png/sB8nmdmr1VNlkeuO36eCcyZeexlXvESh73FV7O9xVew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395893/%E7%83%8F%E5%85%8B%E8%98%AD%E5%AF%A6%E6%88%B0%E9%A6%96%E5%B0%84%E5%9C%8B%E7%94%A2fp-7%E5%BD%88%E9%81%93%E9%A3%9B%E5%BD%88-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%8B%95%E9%87%8F%E7%94%A2",
-    "timestamp": "2026-10-02T11:20:47.753Z",
     "strategy": ".content-card__main"
   }
 ];
