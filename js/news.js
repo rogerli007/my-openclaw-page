@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T05:57:28.904Z
+// Last updated: 2026-10-02T06:33:26.754Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "先施百貨中環店將結業　告示證第四季約滿　告別百年中上環根據地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182689468205764608310876.jpeg/mJ1wd9ebUakuQXMz09E6UcZKIZfsah9LqkMykKpDMpA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395756/%E5%85%88%E6%96%BD%E7%99%BE%E8%B2%A8%E4%B8%AD%E7%92%B0%E5%BA%97%E5%B0%87%E7%B5%90%E6%A5%AD-%E5%91%8A%E7%A4%BA%E8%AD%89%E7%AC%AC%E5%9B%9B%E5%AD%A3%E7%B4%84%E6%BB%BF-%E5%91%8A%E5%88%A5%E7%99%BE%E5%B9%B4%E4%B8%AD%E4%B8%8A%E7%92%B0%E6%A0%B9%E6%93%9A%E5%9C%B0",
+    "timestamp": "2026-10-02T06:33:26.754Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最新家用公價2026 ｜月薪3萬應畀幾多？網民自製加減分家用計算法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182527571502305280068249.jpeg/PoLe1hQVjOtD6c-b-v7X5aNSyZMK8OhV_ar5nP2q-Zw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395664/%E8%8B%B1%E5%9C%8B%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E4%B8%80%E5%90%8D%E6%9C%89%E4%BC%8A%E6%9C%97%E5%8F%8A%E8%8B%B1%E5%9C%8B%E9%9B%99%E9%87%8D%E5%9C%8B%E7%B1%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-01T19:54:48.152Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國空軍基地恐襲未遂案　一名有伊朗及英國雙重國籍男子被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182527571502305280068249.jpeg/PoLe1hQVjOtD6c-b-v7X5aNSyZMK8OhV_ar5nP2q-Zw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395664/%E8%8B%B1%E5%9C%8B%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E4%B8%80%E5%90%8D%E6%9C%89%E4%BC%8A%E6%9C%97%E5%8F%8A%E8%8B%B1%E5%9C%8B%E9%9B%99%E9%87%8D%E5%9C%8B%E7%B1%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-01T19:46:38.394Z",
     "strategy": ".content-card__main"
   }
 ];
