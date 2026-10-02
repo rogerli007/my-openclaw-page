@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T20:56:10.716Z
+// Last updated: 2026-10-02T21:23:49.690Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本沖繩縣23歲女被刺失血過多身亡　曾報警稱被前男友疑兇跟蹤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182912788809388032019635.png/twCWwn4ikxggWsFiE2NHu47PPIO7TuKuRMGiwETBosA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395954/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A323%E6%AD%B2%E5%A5%B3%E8%A2%AB%E5%88%BA%E5%A4%B1%E8%A1%80%E9%81%8E%E5%A4%9A%E8%BA%AB%E4%BA%A1-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E5%85%87%E8%B7%9F%E8%B9%A4",
+    "timestamp": "2026-10-02T21:23:49.690Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本沖繩縣23歲女被刺失血過多身亡　曾報警稱被前男友疑兇跟蹤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182777559893413888058371.png/HiEQku04Q4k8U5vcOqNExQkC0NmiLEIv0gm2RdIJtkU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395906/%E8%AD%A6%E5%9C%8B%E6%85%B6%E6%94%BE%E8%9B%87%E6%AA%A2%E6%8E%A72%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F-%E6%B6%89%E5%85%9C%E5%AE%A2-%E6%BF%AB%E7%94%A8%E8%BB%8A%E9%9A%8A%E6%B3%8A%E4%BD%8D%E5%8F%8A%E8%A3%9D%E5%A4%9A%E6%96%BC2%E9%83%A8%E6%89%8B%E6%A9%9F",
     "timestamp": "2026-10-02T11:55:47.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國際賽出擊｜亞運男足決賽　南韓誓贏日本四連霸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182749700508356608194058.jpeg/Sf4i7Br78HOQzEm3ZkhB2KRvLJ1bzSGXsUkD27FJA9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395873/%E5%9C%8B%E9%9A%9B%E8%B3%BD%E5%87%BA%E6%93%8A-%E4%BA%9E%E9%81%8B%E7%94%B7%E8%B6%B3%E6%B1%BA%E8%B3%BD-%E5%8D%97%E9%9F%93%E8%AA%93%E8%B4%8F%E6%97%A5%E6%9C%AC%E5%9B%9B%E9%80%A3%E9%9C%B8",
-    "timestamp": "2026-10-02T11:44:59.162Z",
     "strategy": ".content-card__main"
   }
 ];
