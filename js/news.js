@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T17:01:06.582Z
+// Last updated: 2026-10-02T17:20:06.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍2巴士迷影巴士爆衝突　黑衣男猛推撐傘男　警列糾紛｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182850575826423808793068.jpeg/eqPiYYBHD3NVrcw204KrZDFrmXdpl7ZSqO_z5Kjv8-Q",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395941/%E5%A4%A9%E6%B0%B4%E5%9C%8D2%E5%B7%B4%E5%A3%AB%E8%BF%B7%E5%BD%B1%E5%B7%B4%E5%A3%AB%E7%88%86%E8%A1%9D%E7%AA%81-%E9%BB%91%E8%A1%A3%E7%94%B7%E7%8C%9B%E6%8E%A8%E6%92%90%E5%82%98%E7%94%B7-%E8%AD%A6%E5%88%97%E7%B3%BE%E7%B4%9B-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-02T17:20:06.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍2巴士迷影巴士爆衝突　黑衣男猛推撐傘男　警列糾紛｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251202/1072608665023942656270938.jpeg/VU_4XzB7dNLxqsjCnvu84fIjNiu5d_Yg7yZvf-8mb38?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60395774/%E6%B7%B1%E5%9C%B3%E7%A7%91%E4%BC%81%E5%AF%8C%E8%B1%AA%E5%86%8D%E6%8E%83%E6%B8%AF%E6%A8%93-7628%E8%90%AC%E8%B3%BC%E5%87%B1%E6%97%8B%E9%96%80%E5%9B%9B%E6%88%BF-%E6%9B%BE%E5%B9%AB%E8%A5%AF%E9%95%B7%E5%AF%A6-%E6%A8%93%E7%A5%9E",
     "timestamp": "2026-10-02T07:51:49.273Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國康奈爾大學輪姦案　紐約州長撤換檢察官　委任州總檢察長接手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179489319677595648842796.jpeg/CMx9xB11rNmYH6428ceFfKtIab0pF24BMr-YVDK_mFQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395793/%E7%BE%8E%E5%9C%8B%E5%BA%B7%E5%A5%88%E7%88%BE%E5%A4%A7%E5%AD%B8%E8%BC%AA%E5%A7%A6%E6%A1%88-%E7%B4%90%E7%B4%84%E5%B7%9E%E9%95%B7%E6%92%A4%E6%8F%9B%E6%AA%A2%E5%AF%9F%E5%AE%98-%E5%A7%94%E4%BB%BB%E5%B7%9E%E7%B8%BD%E6%AA%A2%E5%AF%9F%E9%95%B7%E6%8E%A5%E6%89%8B",
-    "timestamp": "2026-10-02T07:32:11.007Z",
     "strategy": ".content-card__main"
   }
 ];
