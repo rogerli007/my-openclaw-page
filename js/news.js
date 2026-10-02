@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T09:47:12.334Z
+// Last updated: 2026-10-02T10:21:12.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃澤林亞運晉級金牌戰　曾獲球王拿度激讚！6件事看網壇新星追夢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182713063044812800538901.jpeg/17h4HuANKj4rBjMIlKw73BLjLVCpi3Ah5wnCFucJwhY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60395778/%E9%BB%83%E6%BE%A4%E6%9E%97%E4%BA%9E%E9%81%8B%E6%99%89%E7%B4%9A%E9%87%91%E7%89%8C%E6%88%B0-%E6%9B%BE%E7%8D%B2%E7%90%83%E7%8E%8B%E6%8B%BF%E5%BA%A6%E6%BF%80%E8%AE%9A-6%E4%BB%B6%E4%BA%8B%E7%9C%8B%E7%B6%B2%E5%A3%87%E6%96%B0%E6%98%9F%E8%BF%BD%E5%A4%A2",
+    "timestamp": "2026-10-02T10:21:12.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飛鵝山攀石男墮崖！漁護署19大行山黑點　獅子山、新娘潭上榜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182439832257826816259140.jpeg/rJ9UlRfuM3qBP1DQfo1UBbbLaighTw2nHUrK-R1Kyvk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395512/%E9%99%B3%E5%86%A0%E5%B8%8C%E6%8B%92%E8%88%87%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7%E5%85%A7%E6%83%85%E6%9B%9D%E5%85%89-%E8%92%BC%E8%80%81%E4%BC%BC%E5%A4%A7%E5%8F%94%E4%BB%8D%E7%8D%B2%E8%AE%9A%E5%B8%A5%E5%87%BA%E5%AE%87%E5%AE%99",
     "timestamp": "2026-10-01T22:56:40.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "千禧年頂流男神拒與粉絲合照內情曝光　蒼老似大叔仍獲讚帥出宇宙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182439832257826816259140.jpeg/rJ9UlRfuM3qBP1DQfo1UBbbLaighTw2nHUrK-R1Kyvk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395512/%E9%99%B3%E5%86%A0%E5%B8%8C%E6%8B%92%E8%88%87%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7%E5%85%A7%E6%83%85%E6%9B%9D%E5%85%89-%E8%92%BC%E8%80%81%E4%BC%BC%E5%A4%A7%E5%8F%94%E4%BB%8D%E7%8D%B2%E8%AE%9A%E5%B8%A5%E5%87%BA%E5%AE%87%E5%AE%99",
-    "timestamp": "2026-10-01T22:47:14.221Z",
     "strategy": ".content-card__main"
   }
 ];
