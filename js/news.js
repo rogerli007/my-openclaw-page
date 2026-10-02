@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T21:47:17.047Z
+// Last updated: 2026-10-02T22:20:12.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜拜航空恐襲未遂案　美媒：圖劫機副機師曾因極端言論被阿曼禁飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395955/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E7%BE%8E%E5%AA%92-%E5%9C%96%E5%8A%AB%E6%A9%9F%E5%89%AF%E6%A9%9F%E5%B8%AB%E6%9B%BE%E5%9B%A0%E6%A5%B5%E7%AB%AF%E8%A8%80%E8%AB%96%E8%A2%AB%E9%98%BF%E6%9B%BC%E7%A6%81%E9%A3%9B",
+    "timestamp": "2026-10-02T22:20:12.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本沖繩縣23歲女被刺失血過多身亡　曾報警稱被前男友疑兇跟蹤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182801411176402944318957.png/FsDzFYVPrl4kPaD8uG-l1TnIRqKp9FbG-9q8AvvavAI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395917/%E6%98%9F%E5%B7%B4%E5%85%8B%E5%AE%A3%E5%B8%83%E9%80%B2%E5%85%A5%E6%96%B0%E7%96%86%E5%B8%82%E5%A0%B4-%E9%96%8B%E8%A8%AD%E5%85%A8%E4%B8%AD%E5%9C%8B%E9%A6%96%E5%AE%B6%E9%9D%9E%E9%81%BA%E6%97%97%E8%89%A6%E5%BA%97-%E6%98%9F%E5%B7%B4%E6%89%8E",
     "timestamp": "2026-10-02T13:47:14.721Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "今日新聞8分鐘｜維港驚現 「海上跑車」｜女子突橫過馬路遭撞倒地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182764083573690368298564.jpeg/VP8I6_hZXTUFRtlr1rJs62IBbl0m9qM8tU35v7VN-b8",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395890/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-%E7%B6%AD%E6%B8%AF%E9%A9%9A%E7%8F%BE-%E6%B5%B7%E4%B8%8A%E8%B7%91%E8%BB%8A-%E5%A5%B3%E5%AD%90%E7%AA%81%E6%A9%AB%E9%81%8E%E9%A6%AC%E8%B7%AF%E9%81%AD%E6%92%9E%E5%80%92%E5%9C%B0",
-    "timestamp": "2026-10-02T13:21:44.641Z",
     "strategy": ".content-card__main"
   }
 ];
