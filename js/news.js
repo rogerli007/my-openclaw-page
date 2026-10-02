@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T10:47:02.866Z
+// Last updated: 2026-10-02T11:20:47.753Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏克蘭實戰首射國產FP-7彈道飛彈　澤連斯基宣布推動量產",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182763010545029120201984.png/sB8nmdmr1VNlkeuO36eCcyZeexlXvESh73FV7O9xVew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395893/%E7%83%8F%E5%85%8B%E8%98%AD%E5%AF%A6%E6%88%B0%E9%A6%96%E5%B0%84%E5%9C%8B%E7%94%A2fp-7%E5%BD%88%E9%81%93%E9%A3%9B%E5%BD%88-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%8B%95%E9%87%8F%E7%94%A2",
+    "timestamp": "2026-10-02T11:20:47.753Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜航空恐襲未遂案　機長負傷開艙門救全機：不能讓其他人一起死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179416466496163840132450.jpeg/h-RVb8wY12evjf4SgLtWn_fRvvPd8B3GKfdO0Cn3TtA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60390909/%E5%BF%83%E8%A1%80%E7%AE%A1%E5%A0%B5%E5%A1%9E99-%E7%94%B7%E5%AD%90%E7%9C%BC%E7%9A%AE%E8%80%B3%E5%9E%82%E7%8F%BE2%E7%97%87%E7%8B%80%E5%8F%8A%E6%99%82%E4%BF%9D%E5%91%BD-%E9%99%843%E5%A4%A7%E5%BF%83%E8%A1%80%E7%AE%A1%E8%AD%A6%E8%99%9F",
     "timestamp": "2026-10-01T23:32:00.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "心血管堵塞99%！男子眼皮耳垂現2症狀及時保命　附3大心血管警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179416466496163840132450.jpeg/h-RVb8wY12evjf4SgLtWn_fRvvPd8B3GKfdO0Cn3TtA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60390909/%E5%BF%83%E8%A1%80%E7%AE%A1%E5%A0%B5%E5%A1%9E99-%E7%94%B7%E5%AD%90%E7%9C%BC%E7%9A%AE%E8%80%B3%E5%9E%82%E7%8F%BE2%E7%97%87%E7%8B%80%E5%8F%8A%E6%99%82%E4%BF%9D%E5%91%BD-%E9%99%843%E5%A4%A7%E5%BF%83%E8%A1%80%E7%AE%A1%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-10-01T23:21:08.737Z",
     "strategy": ".content-card__main"
   }
 ];
