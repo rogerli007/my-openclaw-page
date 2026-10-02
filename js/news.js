@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T13:21:44.641Z
+// Last updated: 2026-10-02T13:47:14.721Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "星巴克宣布進入新疆市場　開設全中國首家非遺旗艦店「星巴扎」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182801411176402944318957.png/FsDzFYVPrl4kPaD8uG-l1TnIRqKp9FbG-9q8AvvavAI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395917/%E6%98%9F%E5%B7%B4%E5%85%8B%E5%AE%A3%E5%B8%83%E9%80%B2%E5%85%A5%E6%96%B0%E7%96%86%E5%B8%82%E5%A0%B4-%E9%96%8B%E8%A8%AD%E5%85%A8%E4%B8%AD%E5%9C%8B%E9%A6%96%E5%AE%B6%E9%9D%9E%E9%81%BA%E6%97%97%E8%89%A6%E5%BA%97-%E6%98%9F%E5%B7%B4%E6%89%8E",
+    "timestamp": "2026-10-02T13:47:14.721Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "今日新聞8分鐘｜維港驚現 「海上跑車」｜女子突橫過馬路遭撞倒地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098035668065718272685412.jpeg/k82m8rEdl_89Q1n4iOCkQJm-L711IAPARusg11zrINc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60395729/%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%88%B0-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%8E%E6%97%A5%E7%9A%84%E5%A4%A9%E6%B0%A3%E6%98%AF%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%B7%E6%9A%B4-%E4%B8%8B%E5%91%A8%E5%88%9D%E4%BD%8E%E8%A6%8B24%E5%BA%A6",
     "timestamp": "2026-10-02T04:26:19.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股外強中乾？新債王：似空心樹隨時折斷　憂政府財政成系統風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210826/507564210746560512845790.jpeg/T7kv8sNLljBvxoDXvK8N7ong9JEmKAQVFCBctBQgXLQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60395714/%E7%BE%8E%E8%82%A1%E5%A4%96%E5%BC%B7%E4%B8%AD%E4%B9%BE-%E6%96%B0%E5%82%B5%E7%8E%8B-%E4%BC%BC%E7%A9%BA%E5%BF%83%E6%A8%B9%E9%9A%A8%E6%99%82%E6%8A%98%E6%96%B7-%E6%86%82%E6%94%BF%E5%BA%9C%E8%B2%A1%E6%94%BF%E6%88%90%E7%B3%BB%E7%B5%B1%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-10-02T03:29:53.026Z",
     "strategy": ".content-card__main"
   }
 ];
