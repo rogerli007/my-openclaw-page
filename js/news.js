@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T11:44:59.162Z
+// Last updated: 2026-10-02T11:55:47.686Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警國慶放蛇檢控2的士司機　涉兜客、濫用車隊泊位及裝多於2部手機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182777559893413888058371.png/HiEQku04Q4k8U5vcOqNExQkC0NmiLEIv0gm2RdIJtkU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395906/%E8%AD%A6%E5%9C%8B%E6%85%B6%E6%94%BE%E8%9B%87%E6%AA%A2%E6%8E%A72%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F-%E6%B6%89%E5%85%9C%E5%AE%A2-%E6%BF%AB%E7%94%A8%E8%BB%8A%E9%9A%8A%E6%B3%8A%E4%BD%8D%E5%8F%8A%E8%A3%9D%E5%A4%9A%E6%96%BC2%E9%83%A8%E6%89%8B%E6%A9%9F",
+    "timestamp": "2026-10-02T11:55:47.686Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國際賽出擊｜亞運男足決賽　南韓誓贏日本四連霸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182495517091827712409835.jpeg/EhQLM6ePX76teDK3ntqOOOQiTi8rngrwkbPytJGz8rQ",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395658/%E5%90%B3%E6%B5%A9%E5%BA%B7%E6%89%93%E8%B7%AF%E4%BA%BA%E6%89%8B%E6%A9%9F%E7%89%87%E7%98%8B%E5%82%B3-%E7%8D%B2%E7%B6%B2%E6%B0%91%E5%8A%9B%E6%92%90%E6%9C%AC%E5%B0%8A%E8%A6%AA%E5%9B%9E-%E6%88%91%E7%84%A1%E8%A9%B1%E9%81%8E%E6%88%91%E4%BF%82%E7%B4%B3%E5%A3%AB",
     "timestamp": "2026-10-01T23:54:22.090Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳浩康打路人手機片瘋傳　獲網民力撐本尊親回：我無話過我係紳士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182495517091827712409835.jpeg/EhQLM6ePX76teDK3ntqOOOQiTi8rngrwkbPytJGz8rQ",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395658/%E5%90%B3%E6%B5%A9%E5%BA%B7%E6%89%93%E8%B7%AF%E4%BA%BA%E6%89%8B%E6%A9%9F%E7%89%87%E7%98%8B%E5%82%B3-%E7%8D%B2%E7%B6%B2%E6%B0%91%E5%8A%9B%E6%92%90%E6%9C%AC%E5%B0%8A%E8%A6%AA%E5%9B%9E-%E6%88%91%E7%84%A1%E8%A9%B1%E9%81%8E%E6%88%91%E4%BF%82%E7%B4%B3%E5%A3%AB",
-    "timestamp": "2026-10-01T23:48:19.038Z",
     "strategy": ".content-card__main"
   }
 ];
