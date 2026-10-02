@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T21:34:06.824Z
+// Last updated: 2026-10-02T21:47:17.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本沖繩縣23歲女被刺失血過多身亡　曾報警稱被前男友疑兇跟蹤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182912788809388032019635.png/twCWwn4ikxggWsFiE2NHu47PPIO7TuKuRMGiwETBosA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395954/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A323%E6%AD%B2%E5%A5%B3%E8%A2%AB%E5%88%BA%E5%A4%B1%E8%A1%80%E9%81%8E%E5%A4%9A%E8%BA%AB%E4%BA%A1-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E5%85%87%E8%B7%9F%E8%B9%A4",
+    "timestamp": "2026-10-02T21:47:17.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本沖繩縣23歲女被刺失血過多身亡　曾報警稱被前男友疑兇跟蹤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182764083573690368298564.jpeg/VP8I6_hZXTUFRtlr1rJs62IBbl0m9qM8tU35v7VN-b8",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395890/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-%E7%B6%AD%E6%B8%AF%E9%A9%9A%E7%8F%BE-%E6%B5%B7%E4%B8%8A%E8%B7%91%E8%BB%8A-%E5%A5%B3%E5%AD%90%E7%AA%81%E6%A9%AB%E9%81%8E%E9%A6%AC%E8%B7%AF%E9%81%AD%E6%92%9E%E5%80%92%E5%9C%B0",
     "timestamp": "2026-10-02T13:21:44.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜鄺球較以前明顯消瘦　鄺港傑M字額愈見明顯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182644740424732672479536.jpeg/CIn4xfjNkrm9xRcQ6Q992lS0NKge2OS_SRlrnEkZa5w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395911/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E7%90%83%E8%BC%83%E4%BB%A5%E5%89%8D%E6%98%8E%E9%A1%AF%E6%B6%88%E7%98%A6-%E9%84%BA%E6%B8%AF%E5%82%91m%E5%AD%97%E9%A1%8D%E6%84%88%E8%A6%8B%E6%98%8E%E9%A1%AF",
-    "timestamp": "2026-10-02T13:02:19.386Z",
     "strategy": ".content-card__main"
   }
 ];
