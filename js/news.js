@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T05:46:20.822Z
+// Last updated: 2026-10-02T05:57:28.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最新家用公價2026 ｜月薪3萬應畀幾多？網民自製加減分家用計算法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182685908218941440248017.jpeg/a8bKnQX0DLsURR5V8MS_nSjKyFzZwuogGYljwRmJY8E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60395697/%E6%9C%80%E6%96%B0%E5%AE%B6%E7%94%A8%E5%85%AC%E5%83%B92026-%E6%9C%88%E8%96%AA3%E8%90%AC%E6%87%89%E7%95%80%E5%B9%BE%E5%A4%9A-%E7%B6%B2%E6%B0%91%E8%87%AA%E8%A3%BD%E5%8A%A0%E6%B8%9B%E5%88%86%E5%AE%B6%E7%94%A8%E8%A8%88%E7%AE%97%E6%B3%95",
+    "timestamp": "2026-10-02T05:57:28.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "芝加哥音樂劇2026深圳｜門票早鳥85折+百老匯原版歌劇重現經典",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182527571502305280068249.jpeg/PoLe1hQVjOtD6c-b-v7X5aNSyZMK8OhV_ar5nP2q-Zw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395664/%E8%8B%B1%E5%9C%8B%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E4%B8%80%E5%90%8D%E6%9C%89%E4%BC%8A%E6%9C%97%E5%8F%8A%E8%8B%B1%E5%9C%8B%E9%9B%99%E9%87%8D%E5%9C%8B%E7%B1%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-01T19:46:38.394Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "游泳｜何詩蓓打破50自短池亞洲紀錄　亞運後僅唞一周即奪世盃銀牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182529897243873280908362.jpeg/tKuVtzAR7RfWYv_TCC7Hn2ZvtyPI2B_Jm_X6zpv1-s4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395663/%E6%B8%B8%E6%B3%B3-%E4%BD%95%E8%A9%A9%E8%93%93%E6%89%93%E7%A0%B450%E8%87%AA%E7%9F%AD%E6%B1%A0%E4%BA%9E%E6%B4%B2%E7%B4%80%E9%8C%84-%E4%BA%9E%E9%81%8B%E5%BE%8C%E5%83%85%E5%94%9E%E4%B8%80%E5%91%A8%E5%8D%B3%E5%A5%AA%E4%B8%96%E7%9B%83%E9%8A%80%E7%89%8C",
-    "timestamp": "2026-10-01T19:40:00.335Z",
     "strategy": ".content-card__main"
   }
 ];
