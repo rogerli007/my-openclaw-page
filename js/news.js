@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T15:01:29.775Z
+// Last updated: 2026-10-02T15:46:49.182Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "米雪演霸氣皇后　《蔽月無眠》打破傳統界限首演大成功",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182785524247826432372861.jpeg/5WM6oItB5waU1tnYFFq--yHGmb82gKvKVVCs9VVQrPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395912/%E7%B1%B3%E9%9B%AA%E6%BC%94%E9%9C%B8%E6%B0%A3%E7%9A%87%E5%90%8E-%E8%94%BD%E6%9C%88%E7%84%A1%E7%9C%A0-%E6%89%93%E7%A0%B4%E5%82%B3%E7%B5%B1%E7%95%8C%E9%99%90%E9%A6%96%E6%BC%94%E5%A4%A7%E6%88%90%E5%8A%9F",
+    "timestamp": "2026-10-02T15:46:49.182Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "游泳｜何詩蓓200米自由泳奪金　世界盃巴庫站累積1金1銀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179503119566901248087632.jpeg/HWMiRTL92orjwe2UEa5nmZyPzUGxViPpQfqoDEH6qAw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60393080/%E8%8A%9D%E5%8A%A0%E5%93%A5%E9%9F%B3%E6%A8%82%E5%8A%872026%E6%B7%B1%E5%9C%B3-%E9%96%80%E7%A5%A8%E6%97%A9%E9%B3%A585%E6%8A%98-%E7%99%BE%E8%80%81%E5%8C%AF%E5%8E%9F%E7%89%88%E6%AD%8C%E5%8A%87%E9%87%8D%E7%8F%BE%E7%B6%93%E5%85%B8",
     "timestamp": "2026-10-02T05:46:20.822Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "懶人減肥法！黃金時間飲水實測減重達1.4公斤！拆解飲水減脂機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182673482912108544534629.jpeg/Y622kU6QVWpXHGiOIfwjdhild89-3z357lDpUe5Q6VE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60395730/%E6%87%B6%E4%BA%BA%E6%B8%9B%E8%82%A5%E6%B3%95-%E9%BB%83%E9%87%91%E6%99%82%E9%96%93%E9%A3%B2%E6%B0%B4%E5%AF%A6%E6%B8%AC%E6%B8%9B%E9%87%8D%E9%81%941-4%E5%85%AC%E6%96%A4-%E6%8B%86%E8%A7%A3%E9%A3%B2%E6%B0%B4%E6%B8%9B%E8%84%82%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-10-02T05:24:49.452Z",
     "strategy": ".content-card__main"
   }
 ];
