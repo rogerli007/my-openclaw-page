@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T19:21:03.241Z
+// Last updated: 2026-10-02T19:55:06.587Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺公路私家車疑避車撞Uber Taxi　的士司機送院　警推車開路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182891367886491648370185.jpeg/wvakuSKU-Voho462efaUMve0TGLCuEum2xb35dsW9-U",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395952/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E9%81%BF%E8%BB%8A%E6%92%9Euber-taxi-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8E%A8%E8%BB%8A%E9%96%8B%E8%B7%AF",
+    "timestamp": "2026-10-02T19:55:06.587Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本前防長晤澤連斯基：政府將試行購買烏克蘭無人機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182713063044812800538901.jpeg/17h4HuANKj4rBjMIlKw73BLjLVCpi3Ah5wnCFucJwhY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60395778/%E9%BB%83%E6%BE%A4%E6%9E%97%E4%BA%9E%E9%81%8B%E6%99%89%E7%B4%9A%E9%87%91%E7%89%8C%E6%88%B0-%E6%9B%BE%E7%8D%B2%E7%90%83%E7%8E%8B%E6%8B%BF%E5%BA%A6%E6%BF%80%E8%AE%9A-6%E4%BB%B6%E4%BA%8B%E7%9C%8B%E7%B6%B2%E5%A3%87%E6%96%B0%E6%98%9F%E8%BF%BD%E5%A4%A2",
     "timestamp": "2026-10-02T10:21:12.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飛鵝山攀石男墮崖！漁護署19大行山黑點　獅子山、新娘潭上榜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241105/930492776863240192134975.jpeg/DjuIc3BJuuRZ86cwcTxyeQ9P39Op9gKuO_Orbzvzq28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60395861/%E9%A3%9B%E9%B5%9D%E5%B1%B1%E6%94%80%E7%9F%B3%E7%94%B7%E5%A2%AE%E5%B4%96-%E6%BC%81%E8%AD%B7%E7%BD%B219%E5%A4%A7%E8%A1%8C%E5%B1%B1%E9%BB%91%E9%BB%9E-%E7%8D%85%E5%AD%90%E5%B1%B1-%E6%96%B0%E5%A8%98%E6%BD%AD%E4%B8%8A%E6%A6%9C",
-    "timestamp": "2026-10-02T09:47:12.334Z",
     "strategy": ".content-card__main"
   }
 ];
