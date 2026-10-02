@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T11:20:47.753Z
+// Last updated: 2026-10-02T11:44:59.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國際賽出擊｜亞運男足決賽　南韓誓贏日本四連霸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182749700508356608194058.jpeg/Sf4i7Br78HOQzEm3ZkhB2KRvLJ1bzSGXsUkD27FJA9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395873/%E5%9C%8B%E9%9A%9B%E8%B3%BD%E5%87%BA%E6%93%8A-%E4%BA%9E%E9%81%8B%E7%94%B7%E8%B6%B3%E6%B1%BA%E8%B3%BD-%E5%8D%97%E9%9F%93%E8%AA%93%E8%B4%8F%E6%97%A5%E6%9C%AC%E5%9B%9B%E9%80%A3%E9%9C%B8",
+    "timestamp": "2026-10-02T11:44:59.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭實戰首射國產FP-7彈道飛彈　澤連斯基宣布推動量產",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182495517091827712409835.jpeg/EhQLM6ePX76teDK3ntqOOOQiTi8rngrwkbPytJGz8rQ",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395658/%E5%90%B3%E6%B5%A9%E5%BA%B7%E6%89%93%E8%B7%AF%E4%BA%BA%E6%89%8B%E6%A9%9F%E7%89%87%E7%98%8B%E5%82%B3-%E7%8D%B2%E7%B6%B2%E6%B0%91%E5%8A%9B%E6%92%90%E6%9C%AC%E5%B0%8A%E8%A6%AA%E5%9B%9E-%E6%88%91%E7%84%A1%E8%A9%B1%E9%81%8E%E6%88%91%E4%BF%82%E7%B4%B3%E5%A3%AB",
     "timestamp": "2026-10-01T23:48:19.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "心血管堵塞99%！男子眼皮耳垂現2症狀及時保命　附3大心血管警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179416466496163840132450.jpeg/h-RVb8wY12evjf4SgLtWn_fRvvPd8B3GKfdO0Cn3TtA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60390909/%E5%BF%83%E8%A1%80%E7%AE%A1%E5%A0%B5%E5%A1%9E99-%E7%94%B7%E5%AD%90%E7%9C%BC%E7%9A%AE%E8%80%B3%E5%9E%82%E7%8F%BE2%E7%97%87%E7%8B%80%E5%8F%8A%E6%99%82%E4%BF%9D%E5%91%BD-%E9%99%843%E5%A4%A7%E5%BF%83%E8%A1%80%E7%AE%A1%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-10-01T23:32:00.456Z",
     "strategy": ".content-card__main"
   }
 ];
