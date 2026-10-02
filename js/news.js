@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T03:29:53.026Z
+// Last updated: 2026-10-02T04:26:19.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東北季風到　天文台料明日的天氣是部份地區雷暴　下周初低見24度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098035668065718272685412.jpeg/k82m8rEdl_89Q1n4iOCkQJm-L711IAPARusg11zrINc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60395729/%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%88%B0-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%8E%E6%97%A5%E7%9A%84%E5%A4%A9%E6%B0%A3%E6%98%AF%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%B7%E6%9A%B4-%E4%B8%8B%E5%91%A8%E5%88%9D%E4%BD%8E%E8%A6%8B24%E5%BA%A6",
+    "timestamp": "2026-10-02T04:26:19.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股外強中乾？新債王：似空心樹隨時折斷　憂政府財政成系統風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182495630405144576917382.jpeg/Y6VBS8ZXJ6Fzh_M5jIjCmEpb41Q5YJTNcykD9HMpA_Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395657/%E5%9C%8B%E6%85%B6-%E5%B0%96%E6%B2%99%E5%92%80%E6%9C%80%E9%AB%98%E5%B3%B0%E5%A4%9A%E9%81%94500%E4%BA%BA%E6%8E%92%E9%9A%8A-%E7%AD%89%E5%80%99%E4%B8%8A%E8%B7%A8%E5%A2%83%E5%B7%B4%E5%A3%AB%E5%89%8D%E5%BE%80%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8",
     "timestamp": "2026-10-01T17:35:19.772Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶｜尖沙咀最高峰多達500人排隊　等候上跨境巴士前往皇崗口岸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182495630405144576917382.jpeg/Y6VBS8ZXJ6Fzh_M5jIjCmEpb41Q5YJTNcykD9HMpA_Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395657/%E5%9C%8B%E6%85%B6-%E5%B0%96%E6%B2%99%E5%92%80%E6%9C%80%E9%AB%98%E5%B3%B0%E5%A4%9A%E9%81%94500%E4%BA%BA%E6%8E%92%E9%9A%8A-%E7%AD%89%E5%80%99%E4%B8%8A%E8%B7%A8%E5%A2%83%E5%B7%B4%E5%A3%AB%E5%89%8D%E5%BE%80%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8",
-    "timestamp": "2026-10-01T17:19:43.328Z",
     "strategy": ".content-card__main"
   }
 ];
