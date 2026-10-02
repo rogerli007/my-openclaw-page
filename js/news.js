@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T17:20:06.915Z
+// Last updated: 2026-10-02T17:44:10.737Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶長假期警中環打擊的士違例　另揭私家車司機被通緝　4人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182864452903505920860321.jpeg/03V_CIlSev1Ni317WhVd3ABaL8KOje7DBbwoLAW8KCw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395946/%E5%9C%8B%E6%85%B6%E9%95%B7%E5%81%87%E6%9C%9F%E8%AD%A6%E4%B8%AD%E7%92%B0%E6%89%93%E6%93%8A%E7%9A%84%E5%A3%AB%E9%81%95%E4%BE%8B-%E5%8F%A6%E6%8F%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E8%A2%AB%E9%80%9A%E7%B7%9D-4%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-02T17:44:10.737Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍2巴士迷影巴士爆衝突　黑衣男猛推撐傘男　警列糾紛｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240721/891821021139570688736815.jpeg/DNEUKUam0VSiPXH8Vr8k7ZrRamtI6DmRYQTEMGEExDA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395821/%E6%97%A5%E6%9C%AC%E6%94%B6%E7%B7%8A%E5%A4%96%E5%9C%8B%E4%BA%BA%E6%B0%B8%E5%B1%85%E8%B3%87%E6%A0%BC-%E6%8F%90%E9%AB%98%E6%94%B6%E5%85%A5%E5%92%8C%E6%97%A5%E8%AA%9E%E9%96%80%E6%AA%BB%E7%AD%89-%E7%94%B3%E8%AB%8B%E8%B2%BB%E9%A3%8620%E5%80%8D",
     "timestamp": "2026-10-02T08:27:48.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳科企富豪再掃港樓　7628萬購凱旋門四房　曾幫襯長實「樓神」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251202/1072608665023942656270938.jpeg/VU_4XzB7dNLxqsjCnvu84fIjNiu5d_Yg7yZvf-8mb38?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60395774/%E6%B7%B1%E5%9C%B3%E7%A7%91%E4%BC%81%E5%AF%8C%E8%B1%AA%E5%86%8D%E6%8E%83%E6%B8%AF%E6%A8%93-7628%E8%90%AC%E8%B3%BC%E5%87%B1%E6%97%8B%E9%96%80%E5%9B%9B%E6%88%BF-%E6%9B%BE%E5%B9%AB%E8%A5%AF%E9%95%B7%E5%AF%A6-%E6%A8%93%E7%A5%9E",
-    "timestamp": "2026-10-02T07:51:49.273Z",
     "strategy": ".content-card__main"
   }
 ];
