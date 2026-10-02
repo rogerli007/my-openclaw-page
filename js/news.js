@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T05:24:49.452Z
+// Last updated: 2026-10-02T05:46:20.822Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "芝加哥音樂劇2026深圳｜門票早鳥85折+百老匯原版歌劇重現經典",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179503119566901248087632.jpeg/HWMiRTL92orjwe2UEa5nmZyPzUGxViPpQfqoDEH6qAw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60393080/%E8%8A%9D%E5%8A%A0%E5%93%A5%E9%9F%B3%E6%A8%82%E5%8A%872026%E6%B7%B1%E5%9C%B3-%E9%96%80%E7%A5%A8%E6%97%A9%E9%B3%A585%E6%8A%98-%E7%99%BE%E8%80%81%E5%8C%AF%E5%8E%9F%E7%89%88%E6%AD%8C%E5%8A%87%E9%87%8D%E7%8F%BE%E7%B6%93%E5%85%B8",
+    "timestamp": "2026-10-02T05:46:20.822Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "懶人減肥法！黃金時間飲水實測減重達1.4公斤！拆解飲水減脂機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182529897243873280908362.jpeg/tKuVtzAR7RfWYv_TCC7Hn2ZvtyPI2B_Jm_X6zpv1-s4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395663/%E6%B8%B8%E6%B3%B3-%E4%BD%95%E8%A9%A9%E8%93%93%E6%89%93%E7%A0%B450%E8%87%AA%E7%9F%AD%E6%B1%A0%E4%BA%9E%E6%B4%B2%E7%B4%80%E9%8C%84-%E4%BA%9E%E9%81%8B%E5%BE%8C%E5%83%85%E5%94%9E%E4%B8%80%E5%91%A8%E5%8D%B3%E5%A5%AA%E4%B8%96%E7%9B%83%E9%8A%80%E7%89%8C",
     "timestamp": "2026-10-01T19:40:00.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "埃及南部旅遊巴公路撞巴士12傷　包括9名中國公民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182518853507223552984520.png/6nxf93m8_-5kzALGQHjqEicFpCYZi2-Tah8xDmofMQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395661/%E5%9F%83%E5%8F%8A%E5%8D%97%E9%83%A8%E6%97%85%E9%81%8A%E5%B7%B4%E5%85%AC%E8%B7%AF%E6%92%9E%E5%B7%B4%E5%A3%AB12%E5%82%B7-%E5%8C%85%E6%8B%AC9%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91",
-    "timestamp": "2026-10-01T19:19:12.956Z",
     "strategy": ".content-card__main"
   }
 ];
