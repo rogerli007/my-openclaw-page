@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T14:48:12.190Z
+// Last updated: 2026-10-02T15:01:29.775Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "游泳｜何詩蓓200米自由泳奪金　世界盃巴庫站累積1金1銀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182810493027356672836102.jpeg/dhY2PaYIyP7IUi8OzzRGRzkB3UBJkTMF2AKJsNgCibA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395924/%E6%B8%B8%E6%B3%B3-%E4%BD%95%E8%A9%A9%E8%93%93200%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E5%A5%AA%E9%87%91-%E4%B8%96%E7%95%8C%E7%9B%83%E5%B7%B4%E5%BA%AB%E7%AB%99%E7%B4%AF%E7%A9%8D1%E9%87%911%E9%8A%80",
+    "timestamp": "2026-10-02T15:01:29.775Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱歐洲同意釋放柴油儲備　G7領導人聲明：4個月釋放1億桶油",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182673482912108544534629.jpeg/Y622kU6QVWpXHGiOIfwjdhild89-3z357lDpUe5Q6VE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60395730/%E6%87%B6%E4%BA%BA%E6%B8%9B%E8%82%A5%E6%B3%95-%E9%BB%83%E9%87%91%E6%99%82%E9%96%93%E9%A3%B2%E6%B0%B4%E5%AF%A6%E6%B8%AC%E6%B8%9B%E9%87%8D%E9%81%941-4%E5%85%AC%E6%96%A4-%E6%8B%86%E8%A7%A3%E9%A3%B2%E6%B0%B4%E6%B8%9B%E8%84%82%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-10-02T05:24:49.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會提中美二戰同盟　台媒社論批民進黨史觀致｢中華民國被消失｣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179979002241093632318207.jpeg/zgnQTYbrAT8e5vdoyxi6dk60uU2Hk74MHWS4ch1kuHI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60395749/%E7%BF%92%E7%89%B9%E6%9C%83%E6%8F%90%E4%B8%AD%E7%BE%8E%E4%BA%8C%E6%88%B0%E5%90%8C%E7%9B%9F-%E5%8F%B0%E5%AA%92%E7%A4%BE%E8%AB%96%E6%89%B9%E6%B0%91%E9%80%B2%E9%BB%A8%E5%8F%B2%E8%A7%80%E8%87%B4-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E8%A2%AB%E6%B6%88%E5%A4%B1",
-    "timestamp": "2026-10-02T04:49:22.260Z",
     "strategy": ".content-card__main"
   }
 ];
