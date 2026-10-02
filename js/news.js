@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T22:20:12.599Z
+// Last updated: 2026-10-02T22:44:16.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜拜航空恐襲未遂案　美媒：圖劫機副機師曾因極端言論被阿曼禁飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395955/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E7%BE%8E%E5%AA%92-%E5%9C%96%E5%8A%AB%E6%A9%9F%E5%89%AF%E6%A9%9F%E5%B8%AB%E6%9B%BE%E5%9B%A0%E6%A5%B5%E7%AB%AF%E8%A8%80%E8%AB%96%E8%A2%AB%E9%98%BF%E6%9B%BC%E7%A6%81%E9%A3%9B",
+    "timestamp": "2026-10-02T22:44:16.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜航空恐襲未遂案　美媒：圖劫機副機師曾因極端言論被阿曼禁飛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143972643569930240461953.jpeg/H8RAi_Ghce8anrv9Tf5CBvvDEqB1JJzkQGTRf0Bk0X8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395927/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%AD%90%E6%B4%B2%E5%90%8C%E6%84%8F%E9%87%8B%E6%94%BE%E6%9F%B4%E6%B2%B9%E5%84%B2%E5%82%99-g7%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%81%B2%E6%98%8E-4%E5%80%8B%E6%9C%88%E9%87%8B%E6%94%BE1%E5%84%84%E6%A1%B6%E6%B2%B9",
     "timestamp": "2026-10-02T14:48:12.190Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "星巴克宣布進入新疆市場　開設全中國首家非遺旗艦店「星巴扎」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182801411176402944318957.png/FsDzFYVPrl4kPaD8uG-l1TnIRqKp9FbG-9q8AvvavAI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60395917/%E6%98%9F%E5%B7%B4%E5%85%8B%E5%AE%A3%E5%B8%83%E9%80%B2%E5%85%A5%E6%96%B0%E7%96%86%E5%B8%82%E5%A0%B4-%E9%96%8B%E8%A8%AD%E5%85%A8%E4%B8%AD%E5%9C%8B%E9%A6%96%E5%AE%B6%E9%9D%9E%E9%81%BA%E6%97%97%E8%89%A6%E5%BA%97-%E6%98%9F%E5%B7%B4%E6%89%8E",
-    "timestamp": "2026-10-02T13:47:14.721Z",
     "strategy": ".content-card__main"
   }
 ];
