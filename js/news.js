@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T17:58:49.610Z
+// Last updated: 2026-10-02T19:02:19.653Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本前防長晤澤連斯基：政府將試行購買烏克蘭無人機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182872184935157760867302.jpeg/7KMe49Q2RdTr3e0TUHAdm8p8rDLRuCryVjJXuVYyV7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395948/%E6%97%A5%E6%9C%AC%E5%89%8D%E9%98%B2%E9%95%B7%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%94%BF%E5%BA%9C%E5%B0%87%E8%A9%A6%E8%A1%8C%E8%B3%BC%E8%B2%B7%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F",
+    "timestamp": "2026-10-02T19:02:19.653Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶長假期警中環打擊的士違例　另揭私家車司機被通緝　4人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182732455954616320985410.jpeg/y_1mMtiYGiqdKKplJ9WHOQ7mcncFMns3OF7yyDhe8sg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60395836/%E6%B8%AF%E4%BA%BA%E5%8C%97%E4%B8%8A-%E6%9C%893c%E9%83%BD%E8%87%AA%E7%87%83-3-1%E4%B8%AD%E5%9C%8B%E5%B0%BF%E8%A2%8B%E6%96%B0%E8%A6%8F%E5%AE%9A3c%E8%AA%8D%E8%AD%89%E5%A4%96%E6%AC%A01%E8%A6%81%E6%B1%82%E5%8D%B3%E6%B2%92%E6%94%B6",
     "timestamp": "2026-10-02T09:00:36.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港人北上｜有3C都自燃？3.1中國尿袋新規定3C認證外欠1要求即沒收",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182732455954616320985410.jpeg/y_1mMtiYGiqdKKplJ9WHOQ7mcncFMns3OF7yyDhe8sg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60395836/%E6%B8%AF%E4%BA%BA%E5%8C%97%E4%B8%8A-%E6%9C%893c%E9%83%BD%E8%87%AA%E7%87%83-3-1%E4%B8%AD%E5%9C%8B%E5%B0%BF%E8%A2%8B%E6%96%B0%E8%A6%8F%E5%AE%9A3c%E8%AA%8D%E8%AD%89%E5%A4%96%E6%AC%A01%E8%A6%81%E6%B1%82%E5%8D%B3%E6%B2%92%E6%94%B6",
-    "timestamp": "2026-10-02T08:50:11.600Z",
     "strategy": ".content-card__main"
   }
 ];
