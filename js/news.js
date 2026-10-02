@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-01T23:54:22.090Z
+// Last updated: 2026-10-02T02:43:43.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會提中美是二戰盟友　學者：民進黨掏空歷史，話語權拱手讓人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180467702330822656360457.jpeg/Y96Py2GuncAlqXzwhqZ0SDaQ93_7eQLJwsAT_sLAE_4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60395692/%E7%BF%92%E7%89%B9%E6%9C%83%E6%8F%90%E4%B8%AD%E7%BE%8E%E6%98%AF%E4%BA%8C%E6%88%B0%E7%9B%9F%E5%8F%8B-%E5%AD%B8%E8%80%85-%E6%B0%91%E9%80%B2%E9%BB%A8%E6%8E%8F%E7%A9%BA%E6%AD%B7%E5%8F%B2-%E8%A9%B1%E8%AA%9E%E6%AC%8A%E6%8B%B1%E6%89%8B%E8%AE%93%E4%BA%BA",
+    "timestamp": "2026-10-02T02:43:43.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳浩康打路人手機片瘋傳　獲網民力撐本尊親回：我無話過我係紳士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182486698454421504495302.jpeg/imaZ2JWLSpGdPHNIv1qnqONGcLmfAe5WA8RXgznEV4M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395657/%E5%9C%8B%E6%85%B6-%E5%B0%96%E6%B2%99%E5%92%80%E6%9C%80%E9%AB%98%E5%B3%B0%E5%A4%9A%E9%81%94500%E4%BA%BA%E6%8E%92%E9%9A%8A-%E7%AD%89%E5%80%99%E4%B8%8A%E8%B7%A8%E5%A2%83%E5%B7%B4%E5%A3%AB%E5%89%8D%E5%BE%80%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8",
     "timestamp": "2026-10-01T16:56:07.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜深水灣香島道女途人橫過馬路　遭的士撞倒　起身繼續過路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182481822798319616136047.jpeg/lafQorgV5AfZSktEHrKmggXHSQpGvk5nf44VtH-OFbQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395650/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E7%81%A3%E9%A6%99%E5%B3%B6%E9%81%93%E5%A5%B3%E9%80%94%E4%BA%BA%E6%A9%AB%E9%81%8E%E9%A6%AC%E8%B7%AF-%E9%81%AD%E7%9A%84%E5%A3%AB%E6%92%9E%E5%80%92-%E8%B5%B7%E8%BA%AB%E7%B9%BC%E7%BA%8C%E9%81%8E%E8%B7%AF",
-    "timestamp": "2026-10-01T16:46:09.168Z",
     "strategy": ".content-card__main"
   }
 ];
