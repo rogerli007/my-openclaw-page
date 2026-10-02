@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T22:44:16.398Z
+// Last updated: 2026-10-02T22:55:59.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國田納西州女死囚處決失敗　律師：現時靠呼吸機維生處昏迷狀態",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395957/%E7%BE%8E%E5%9C%8B%E7%94%B0%E7%B4%8D%E8%A5%BF%E5%B7%9E%E5%A5%B3%E6%AD%BB%E5%9B%9A%E8%99%95%E6%B1%BA%E5%A4%B1%E6%95%97-%E5%BE%8B%E5%B8%AB-%E7%8F%BE%E6%99%82%E9%9D%A0%E5%91%BC%E5%90%B8%E6%A9%9F%E7%B6%AD%E7%94%9F%E8%99%95%E6%98%8F%E8%BF%B7%E7%8B%80%E6%85%8B",
+    "timestamp": "2026-10-02T22:55:59.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜航空恐襲未遂案　美媒：圖劫機副機師曾因極端言論被阿曼禁飛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182810493027356672836102.jpeg/dhY2PaYIyP7IUi8OzzRGRzkB3UBJkTMF2AKJsNgCibA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60395924/%E6%B8%B8%E6%B3%B3-%E4%BD%95%E8%A9%A9%E8%93%93200%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E5%A5%AA%E9%87%91-%E4%B8%96%E7%95%8C%E7%9B%83%E5%B7%B4%E5%BA%AB%E7%AB%99%E7%B4%AF%E7%A9%8D1%E9%87%911%E9%8A%80",
     "timestamp": "2026-10-02T15:01:29.775Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱歐洲同意釋放柴油儲備　G7領導人聲明：4個月釋放1億桶油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143972643569930240461953.jpeg/H8RAi_Ghce8anrv9Tf5CBvvDEqB1JJzkQGTRf0Bk0X8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395927/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%AD%90%E6%B4%B2%E5%90%8C%E6%84%8F%E9%87%8B%E6%94%BE%E6%9F%B4%E6%B2%B9%E5%84%B2%E5%82%99-g7%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%81%B2%E6%98%8E-4%E5%80%8B%E6%9C%88%E9%87%8B%E6%94%BE1%E5%84%84%E6%A1%B6%E6%B2%B9",
-    "timestamp": "2026-10-02T14:48:12.190Z",
     "strategy": ".content-card__main"
   }
 ];
