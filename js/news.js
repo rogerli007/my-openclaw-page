@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T04:26:19.602Z
+// Last updated: 2026-10-02T04:49:22.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習特會提中美二戰同盟　台媒社論批民進黨史觀致｢中華民國被消失｣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179979002241093632318207.jpeg/zgnQTYbrAT8e5vdoyxi6dk60uU2Hk74MHWS4ch1kuHI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60395749/%E7%BF%92%E7%89%B9%E6%9C%83%E6%8F%90%E4%B8%AD%E7%BE%8E%E4%BA%8C%E6%88%B0%E5%90%8C%E7%9B%9F-%E5%8F%B0%E5%AA%92%E7%A4%BE%E8%AB%96%E6%89%B9%E6%B0%91%E9%80%B2%E9%BB%A8%E5%8F%B2%E8%A7%80%E8%87%B4-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E8%A2%AB%E6%B6%88%E5%A4%B1",
+    "timestamp": "2026-10-02T04:49:22.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東北季風到　天文台料明日的天氣是部份地區雷暴　下周初低見24度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182481955426406400217603.jpeg/s1_Hqyel01FoawGtiWlnr33-o5YogezmLRhc4y0YXOM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395655/%E6%AD%BB%E6%9C%89%E5%B0%8D%E8%A8%BC-%E9%A6%AC%E8%B2%AB%E6%9D%B1%E5%9B%A0%E8%BB%8Acam%E7%89%87%E7%99%BC%E7%8F%BE%E6%88%B4%E7%B6%A0%E5%B8%BD-%E7%8E%8B%E8%8F%B2%E8%88%87%E9%BB%83%E4%BF%8A%E8%B1%AA%E5%85%89%E8%84%AB%E8%84%AB%E8%BB%8A%E9%9C%87",
     "timestamp": "2026-10-01T18:27:33.704Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶｜尖沙咀最高峰多達500人排隊　等候上跨境巴士前往皇崗口岸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182495630405144576917382.jpeg/Y6VBS8ZXJ6Fzh_M5jIjCmEpb41Q5YJTNcykD9HMpA_Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395657/%E5%9C%8B%E6%85%B6-%E5%B0%96%E6%B2%99%E5%92%80%E6%9C%80%E9%AB%98%E5%B3%B0%E5%A4%9A%E9%81%94500%E4%BA%BA%E6%8E%92%E9%9A%8A-%E7%AD%89%E5%80%99%E4%B8%8A%E8%B7%A8%E5%A2%83%E5%B7%B4%E5%A3%AB%E5%89%8D%E5%BE%80%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8",
-    "timestamp": "2026-10-01T17:35:19.772Z",
     "strategy": ".content-card__main"
   }
 ];
