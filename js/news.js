@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T04:49:22.260Z
+// Last updated: 2026-10-02T05:24:49.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "懶人減肥法！黃金時間飲水實測減重達1.4公斤！拆解飲水減脂機制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182673482912108544534629.jpeg/Y622kU6QVWpXHGiOIfwjdhild89-3z357lDpUe5Q6VE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60395730/%E6%87%B6%E4%BA%BA%E6%B8%9B%E8%82%A5%E6%B3%95-%E9%BB%83%E9%87%91%E6%99%82%E9%96%93%E9%A3%B2%E6%B0%B4%E5%AF%A6%E6%B8%AC%E6%B8%9B%E9%87%8D%E9%81%941-4%E5%85%AC%E6%96%A4-%E6%8B%86%E8%A7%A3%E9%A3%B2%E6%B0%B4%E6%B8%9B%E8%84%82%E6%A9%9F%E5%88%B6",
+    "timestamp": "2026-10-02T05:24:49.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習特會提中美二戰同盟　台媒社論批民進黨史觀致｢中華民國被消失｣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182518853507223552984520.png/6nxf93m8_-5kzALGQHjqEicFpCYZi2-Tah8xDmofMQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395661/%E5%9F%83%E5%8F%8A%E5%8D%97%E9%83%A8%E6%97%85%E9%81%8A%E5%B7%B4%E5%85%AC%E8%B7%AF%E6%92%9E%E5%B7%B4%E5%A3%AB12%E5%82%B7-%E5%8C%85%E6%8B%AC9%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91",
     "timestamp": "2026-10-01T19:19:12.956Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "死有對証｜馬貫東因車cam片發現戴綠帽　王菲與黃俊豪光脫脫車震",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182481955426406400217603.jpeg/s1_Hqyel01FoawGtiWlnr33-o5YogezmLRhc4y0YXOM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395655/%E6%AD%BB%E6%9C%89%E5%B0%8D%E8%A8%BC-%E9%A6%AC%E8%B2%AB%E6%9D%B1%E5%9B%A0%E8%BB%8Acam%E7%89%87%E7%99%BC%E7%8F%BE%E6%88%B4%E7%B6%A0%E5%B8%BD-%E7%8E%8B%E8%8F%B2%E8%88%87%E9%BB%83%E4%BF%8A%E8%B1%AA%E5%85%89%E8%84%AB%E8%84%AB%E8%BB%8A%E9%9C%87",
-    "timestamp": "2026-10-01T18:27:33.704Z",
     "strategy": ".content-card__main"
   }
 ];
