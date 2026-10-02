@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T11:55:47.686Z
+// Last updated: 2026-10-02T13:02:19.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜鄺球較以前明顯消瘦　鄺港傑M字額愈見明顯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182644740424732672479536.jpeg/CIn4xfjNkrm9xRcQ6Q992lS0NKge2OS_SRlrnEkZa5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60395911/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E7%90%83%E8%BC%83%E4%BB%A5%E5%89%8D%E6%98%8E%E9%A1%AF%E6%B6%88%E7%98%A6-%E9%84%BA%E6%B8%AF%E5%82%91m%E5%AD%97%E9%A1%8D%E6%84%88%E8%A6%8B%E6%98%8E%E9%A1%AF",
+    "timestamp": "2026-10-02T13:02:19.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警國慶放蛇檢控2的士司機　涉兜客、濫用車隊泊位及裝多於2部手機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180467702330822656360457.jpeg/Y96Py2GuncAlqXzwhqZ0SDaQ93_7eQLJwsAT_sLAE_4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60395692/%E7%BF%92%E7%89%B9%E6%9C%83%E6%8F%90%E4%B8%AD%E7%BE%8E%E6%98%AF%E4%BA%8C%E6%88%B0%E7%9B%9F%E5%8F%8B-%E5%AD%B8%E8%80%85-%E6%B0%91%E9%80%B2%E9%BB%A8%E6%8E%8F%E7%A9%BA%E6%AD%B7%E5%8F%B2-%E8%A9%B1%E8%AA%9E%E6%AC%8A%E6%8B%B1%E6%89%8B%E8%AE%93%E4%BA%BA",
     "timestamp": "2026-10-02T02:43:43.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳浩康打路人手機片瘋傳　獲網民力撐本尊親回：我無話過我係紳士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182495517091827712409835.jpeg/EhQLM6ePX76teDK3ntqOOOQiTi8rngrwkbPytJGz8rQ",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395658/%E5%90%B3%E6%B5%A9%E5%BA%B7%E6%89%93%E8%B7%AF%E4%BA%BA%E6%89%8B%E6%A9%9F%E7%89%87%E7%98%8B%E5%82%B3-%E7%8D%B2%E7%B6%B2%E6%B0%91%E5%8A%9B%E6%92%90%E6%9C%AC%E5%B0%8A%E8%A6%AA%E5%9B%9E-%E6%88%91%E7%84%A1%E8%A9%B1%E9%81%8E%E6%88%91%E4%BF%82%E7%B4%B3%E5%A3%AB",
-    "timestamp": "2026-10-01T23:54:22.090Z",
     "strategy": ".content-card__main"
   }
 ];
