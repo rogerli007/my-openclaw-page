@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T13:47:14.721Z
+// Last updated: 2026-10-02T14:48:12.190Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱歐洲同意釋放柴油儲備　G7領導人聲明：4個月釋放1億桶油",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260617/1143972643569930240461953.jpeg/H8RAi_Ghce8anrv9Tf5CBvvDEqB1JJzkQGTRf0Bk0X8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395927/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%AD%90%E6%B4%B2%E5%90%8C%E6%84%8F%E9%87%8B%E6%94%BE%E6%9F%B4%E6%B2%B9%E5%84%B2%E5%82%99-g7%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%81%B2%E6%98%8E-4%E5%80%8B%E6%9C%88%E9%87%8B%E6%94%BE1%E5%84%84%E6%A1%B6%E6%B2%B9",
+    "timestamp": "2026-10-02T14:48:12.190Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "星巴克宣布進入新疆市場　開設全中國首家非遺旗艦店「星巴扎」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1179979002241093632318207.jpeg/zgnQTYbrAT8e5vdoyxi6dk60uU2Hk74MHWS4ch1kuHI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60395749/%E7%BF%92%E7%89%B9%E6%9C%83%E6%8F%90%E4%B8%AD%E7%BE%8E%E4%BA%8C%E6%88%B0%E5%90%8C%E7%9B%9F-%E5%8F%B0%E5%AA%92%E7%A4%BE%E8%AB%96%E6%89%B9%E6%B0%91%E9%80%B2%E9%BB%A8%E5%8F%B2%E8%A7%80%E8%87%B4-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E8%A2%AB%E6%B6%88%E5%A4%B1",
     "timestamp": "2026-10-02T04:49:22.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東北季風到　天文台料明日的天氣是部份地區雷暴　下周初低見24度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260210/1098035668065718272685412.jpeg/k82m8rEdl_89Q1n4iOCkQJm-L711IAPARusg11zrINc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60395729/%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%88%B0-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%98%8E%E6%97%A5%E7%9A%84%E5%A4%A9%E6%B0%A3%E6%98%AF%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E9%9B%B7%E6%9A%B4-%E4%B8%8B%E5%91%A8%E5%88%9D%E4%BD%8E%E8%A6%8B24%E5%BA%A6",
-    "timestamp": "2026-10-02T04:26:19.602Z",
     "strategy": ".content-card__main"
   }
 ];
