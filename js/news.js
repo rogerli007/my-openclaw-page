@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T07:32:11.007Z
+// Last updated: 2026-10-02T07:51:49.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳科企富豪再掃港樓　7628萬購凱旋門四房　曾幫襯長實「樓神」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251202/1072608665023942656270938.jpeg/VU_4XzB7dNLxqsjCnvu84fIjNiu5d_Yg7yZvf-8mb38?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60395774/%E6%B7%B1%E5%9C%B3%E7%A7%91%E4%BC%81%E5%AF%8C%E8%B1%AA%E5%86%8D%E6%8E%83%E6%B8%AF%E6%A8%93-7628%E8%90%AC%E8%B3%BC%E5%87%B1%E6%97%8B%E9%96%80%E5%9B%9B%E6%88%BF-%E6%9B%BE%E5%B9%AB%E8%A5%AF%E9%95%B7%E5%AF%A6-%E6%A8%93%E7%A5%9E",
+    "timestamp": "2026-10-02T07:51:49.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國康奈爾大學輪姦案　紐約州長撤換檢察官　委任州總檢察長接手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182533656023928832015824.jpeg/IsTgR6-KoH3SrEjilUkHuPUlrzhwMxkP0QEMzesBDM0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395659/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%B0%96%E6%B2%99%E5%92%80%E5%85%A9%E9%96%93%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%87%8C%E6%99%A8%E7%88%86%E6%BB%BF-%E5%85%A7%E5%9C%B0%E4%BA%BA%E4%BD%94%E5%A4%9A%E6%95%B8-%E6%B0%A3%E6%B0%9B%E7%86%B1%E9%AC%A7",
     "timestamp": "2026-10-01T20:47:03.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十一黃金周│尖沙咀兩間麥當勞凌晨爆滿　內地人佔多數　氣氛熱鬧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182533656023928832015824.jpeg/IsTgR6-KoH3SrEjilUkHuPUlrzhwMxkP0QEMzesBDM0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395659/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%B0%96%E6%B2%99%E5%92%80%E5%85%A9%E9%96%93%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%87%8C%E6%99%A8%E7%88%86%E6%BB%BF-%E5%85%A7%E5%9C%B0%E4%BA%BA%E4%BD%94%E5%A4%9A%E6%95%B8-%E6%B0%A3%E6%B0%9B%E7%86%B1%E9%AC%A7",
-    "timestamp": "2026-10-01T20:22:47.369Z",
     "strategy": ".content-card__main"
   }
 ];
