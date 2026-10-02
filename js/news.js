@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T23:31:33.463Z
+// Last updated: 2026-10-02T23:43:57.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓媒：朝鮮向東海發射彈道導彈　NHK：落在日本專屬經濟區以外",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182950111009837056613824.jpeg/8WwxpEztsWl3FA8FioE5hTbotLrXHmSBx5dMkseXTJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395958/%E9%9F%93%E5%AA%92-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88-nhk-%E8%90%BD%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%B0%88%E5%B1%AC%E7%B6%93%E6%BF%9F%E5%8D%80%E4%BB%A5%E5%A4%96",
+    "timestamp": "2026-10-02T23:43:57.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓媒：朝鮮向東海發射彈道導彈　NHK：落在日本專屬經濟區以外",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182850575826423808793068.jpeg/eqPiYYBHD3NVrcw204KrZDFrmXdpl7ZSqO_z5Kjv8-Q",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395941/%E5%A4%A9%E6%B0%B4%E5%9C%8D2%E5%B7%B4%E5%A3%AB%E8%BF%B7%E5%BD%B1%E5%B7%B4%E5%A3%AB%E7%88%86%E8%A1%9D%E7%AA%81-%E9%BB%91%E8%A1%A3%E7%94%B7%E7%8C%9B%E6%8E%A8%E6%92%90%E5%82%98%E7%94%B7-%E8%AD%A6%E5%88%97%E7%B3%BE%E7%B4%9B-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-02T16:47:49.606Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉共和黨選情告急　特朗普：別讓民主黨彈劾我｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182836969655242752935417.jpeg/hB5jvJ_4gv7b3GBdxrZSDM8KfCva-954XPktsVz5LbE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395939/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%85%B1%E5%92%8C%E9%BB%A8%E9%81%B8%E6%83%85%E5%91%8A%E6%80%A5-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%88%A5%E8%AE%93%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%BD%88%E5%8A%BE%E6%88%91-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-02T15:56:59.737Z",
     "strategy": ".content-card__main"
   }
 ];
