@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T09:00:36.425Z
+// Last updated: 2026-10-02T09:47:12.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飛鵝山攀石男墮崖！漁護署19大行山黑點　獅子山、新娘潭上榜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241105/930492776863240192134975.jpeg/DjuIc3BJuuRZ86cwcTxyeQ9P39Op9gKuO_Orbzvzq28?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60395861/%E9%A3%9B%E9%B5%9D%E5%B1%B1%E6%94%80%E7%9F%B3%E7%94%B7%E5%A2%AE%E5%B4%96-%E6%BC%81%E8%AD%B7%E7%BD%B219%E5%A4%A7%E8%A1%8C%E5%B1%B1%E9%BB%91%E9%BB%9E-%E7%8D%85%E5%AD%90%E5%B1%B1-%E6%96%B0%E5%A8%98%E6%BD%AD%E4%B8%8A%E6%A6%9C",
+    "timestamp": "2026-10-02T09:47:12.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港人北上｜有3C都自燃？3.1中國尿袋新規定3C認證外欠1要求即沒收",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182439832257826816259140.jpeg/rJ9UlRfuM3qBP1DQfo1UBbbLaighTw2nHUrK-R1Kyvk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60395512/%E9%99%B3%E5%86%A0%E5%B8%8C%E6%8B%92%E8%88%87%E7%B2%89%E7%B5%B2%E5%90%88%E7%85%A7%E5%85%A7%E6%83%85%E6%9B%9D%E5%85%89-%E8%92%BC%E8%80%81%E4%BC%BC%E5%A4%A7%E5%8F%94%E4%BB%8D%E7%8D%B2%E8%AE%9A%E5%B8%A5%E5%87%BA%E5%AE%87%E5%AE%99",
     "timestamp": "2026-10-01T22:47:14.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內塔尼亞胡：企圖劫機副機師受激進伊斯蘭思想影響　有自殺傾向",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182570311783026688597018.jpeg/IregqdXkKyIKK8AJ1rhXAlEBD2bbFO1BpJUwEqSVMBI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395669/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E4%BC%81%E5%9C%96%E5%8A%AB%E6%A9%9F%E5%89%AF%E6%A9%9F%E5%B8%AB%E5%8F%97%E6%BF%80%E9%80%B2%E4%BC%8A%E6%96%AF%E8%98%AD%E6%80%9D%E6%83%B3%E5%BD%B1%E9%9F%BF-%E6%9C%89%E8%87%AA%E6%AE%BA%E5%82%BE%E5%90%91",
-    "timestamp": "2026-10-01T22:19:35.482Z",
     "strategy": ".content-card__main"
   }
 ];
