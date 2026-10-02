@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T17:44:10.737Z
+// Last updated: 2026-10-02T17:58:49.610Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶長假期警中環打擊的士違例　另揭私家車司機被通緝　4人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182864452903505920860321.jpeg/03V_CIlSev1Ni317WhVd3ABaL8KOje7DBbwoLAW8KCw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395946/%E5%9C%8B%E6%85%B6%E9%95%B7%E5%81%87%E6%9C%9F%E8%AD%A6%E4%B8%AD%E7%92%B0%E6%89%93%E6%93%8A%E7%9A%84%E5%A3%AB%E9%81%95%E4%BE%8B-%E5%8F%A6%E6%8F%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E8%A2%AB%E9%80%9A%E7%B7%9D-4%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-02T17:58:49.610Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶長假期警中環打擊的士違例　另揭私家車司機被通緝　4人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182732455954616320985410.jpeg/y_1mMtiYGiqdKKplJ9WHOQ7mcncFMns3OF7yyDhe8sg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60395836/%E6%B8%AF%E4%BA%BA%E5%8C%97%E4%B8%8A-%E6%9C%893c%E9%83%BD%E8%87%AA%E7%87%83-3-1%E4%B8%AD%E5%9C%8B%E5%B0%BF%E8%A2%8B%E6%96%B0%E8%A6%8F%E5%AE%9A3c%E8%AA%8D%E8%AD%89%E5%A4%96%E6%AC%A01%E8%A6%81%E6%B1%82%E5%8D%B3%E6%B2%92%E6%94%B6",
     "timestamp": "2026-10-02T08:50:11.600Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本收緊外國人永居資格　提高收入和日語門檻等　申請費飆20倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240721/891821021139570688736815.jpeg/DNEUKUam0VSiPXH8Vr8k7ZrRamtI6DmRYQTEMGEExDA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395821/%E6%97%A5%E6%9C%AC%E6%94%B6%E7%B7%8A%E5%A4%96%E5%9C%8B%E4%BA%BA%E6%B0%B8%E5%B1%85%E8%B3%87%E6%A0%BC-%E6%8F%90%E9%AB%98%E6%94%B6%E5%85%A5%E5%92%8C%E6%97%A5%E8%AA%9E%E9%96%80%E6%AA%BB%E7%AD%89-%E7%94%B3%E8%AB%8B%E8%B2%BB%E9%A3%8620%E5%80%8D",
-    "timestamp": "2026-10-02T08:27:48.892Z",
     "strategy": ".content-card__main"
   }
 ];
