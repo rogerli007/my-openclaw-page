@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T08:27:48.892Z
+// Last updated: 2026-10-02T08:50:11.600Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港人北上｜有3C都自燃？3.1中國尿袋新規定3C認證外欠1要求即沒收",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182732455954616320985410.jpeg/y_1mMtiYGiqdKKplJ9WHOQ7mcncFMns3OF7yyDhe8sg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60395836/%E6%B8%AF%E4%BA%BA%E5%8C%97%E4%B8%8A-%E6%9C%893c%E9%83%BD%E8%87%AA%E7%87%83-3-1%E4%B8%AD%E5%9C%8B%E5%B0%BF%E8%A2%8B%E6%96%B0%E8%A6%8F%E5%AE%9A3c%E8%AA%8D%E8%AD%89%E5%A4%96%E6%AC%A01%E8%A6%81%E6%B1%82%E5%8D%B3%E6%B2%92%E6%94%B6",
+    "timestamp": "2026-10-02T08:50:11.600Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本收緊外國人永居資格　提高收入和日語門檻等　申請費飆20倍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182559983187791872971832.jpeg/FA1w2RI-2g_OaCqcxWXm8Kfs3WNjjE1YqDoJq6g6Cas?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395666/%E7%BE%8E%E5%9C%8B%E5%BA%B7%E5%A5%88%E7%88%BE%E5%A4%A7%E5%AD%B8%E8%BC%AA%E5%A7%A6%E6%A1%88-%E5%A5%B3%E4%BA%8B%E4%B8%BB%E8%B5%B7%E8%A8%B4%E6%B6%89%E4%BA%8B7%E7%94%B7-%E7%A8%B1%E8%A2%AB%E8%AA%98%E5%9C%A8%E9%99%BD%E5%85%B7%E4%B8%8A%E5%90%B8%E6%AF%92",
     "timestamp": "2026-10-01T21:55:17.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國康奈爾大學輪姦案　女事主起訴涉事7男　稱被誘在陽具上吸毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182559983187791872971832.jpeg/FA1w2RI-2g_OaCqcxWXm8Kfs3WNjjE1YqDoJq6g6Cas?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395666/%E7%BE%8E%E5%9C%8B%E5%BA%B7%E5%A5%88%E7%88%BE%E5%A4%A7%E5%AD%B8%E8%BC%AA%E5%A7%A6%E6%A1%88-%E5%A5%B3%E4%BA%8B%E4%B8%BB%E8%B5%B7%E8%A8%B4%E6%B6%89%E4%BA%8B7%E7%94%B7-%E7%A8%B1%E8%A2%AB%E8%AA%98%E5%9C%A8%E9%99%BD%E5%85%B7%E4%B8%8A%E5%90%B8%E6%AF%92",
-    "timestamp": "2026-10-01T21:45:03.283Z",
     "strategy": ".content-card__main"
   }
 ];
