@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-02T20:20:51.521Z
+// Last updated: 2026-10-02T20:45:10.522Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東隧單管雙程3車相撞　的士和客貨車車頭損毀　5人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182901955291254784985743.jpeg/ZsPjb08Aj7L9GilDrMKhUFc5iwS7ITgwxMt52sTLedo",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395953/%E6%9D%B1%E9%9A%A7%E5%96%AE%E7%AE%A1%E9%9B%99%E7%A8%8B3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%92%8C%E5%AE%A2%E8%B2%A8%E8%BB%8A%E8%BB%8A%E9%A0%AD%E6%90%8D%E6%AF%80-5%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-10-02T20:45:10.522Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東隧單管雙程3車相撞　的士和客貨車車頭損毀　5人受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182763010545029120201984.png/sB8nmdmr1VNlkeuO36eCcyZeexlXvESh73FV7O9xVew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395893/%E7%83%8F%E5%85%8B%E8%98%AD%E5%AF%A6%E6%88%B0%E9%A6%96%E5%B0%84%E5%9C%8B%E7%94%A2fp-7%E5%BD%88%E9%81%93%E9%A3%9B%E5%BD%88-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%8B%95%E9%87%8F%E7%94%A2",
     "timestamp": "2026-10-02T11:20:47.753Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜拜航空恐襲未遂案　機長負傷開艙門救全機：不能讓其他人一起死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182762493081030656382571.jpeg/q3d-B4epY0MsjKH80p0Ev7fLZRSwAyW7NnhigTZ4YoE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395872/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E6%A9%9F%E9%95%B7%E8%B2%A0%E5%82%B7%E9%96%8B%E8%89%99%E9%96%80%E6%95%91%E5%85%A8%E6%A9%9F-%E4%B8%8D%E8%83%BD%E8%AE%93%E5%85%B6%E4%BB%96%E4%BA%BA%E4%B8%80%E8%B5%B7%E6%AD%BB",
-    "timestamp": "2026-10-02T10:47:02.866Z",
     "strategy": ".content-card__main"
   }
 ];
