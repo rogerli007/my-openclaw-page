@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T04:09:30.293Z
+// Last updated: 2026-10-03T04:57:44.958Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026｜黃澤林父親放學後快閃名古屋觀戰　「食飛驒牛慶祝」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183034661794746368324106.png/7_LnaaNhQtTI9doVq3uRm8IrI_T6vpsIU5-zPVOfsz0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60396005/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%BB%83%E6%BE%A4%E6%9E%97%E7%88%B6%E8%A6%AA%E6%94%BE%E5%AD%B8%E5%BE%8C%E5%BF%AB%E9%96%83%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%A7%80%E6%88%B0-%E9%A3%9F%E9%A3%9B%E9%A9%92%E7%89%9B%E6%85%B6%E7%A5%9D",
+    "timestamp": "2026-10-03T04:57:44.958Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公屋戶21年前獲准換鐵閘　交還單位竟被要求付費還原　結局大反轉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182901955291254784985743.jpeg/ZsPjb08Aj7L9GilDrMKhUFc5iwS7ITgwxMt52sTLedo",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395953/%E6%9D%B1%E9%9A%A7%E5%96%AE%E7%AE%A1%E9%9B%99%E7%A8%8B3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%92%8C%E5%AE%A2%E8%B2%A8%E8%BB%8A%E8%BB%8A%E9%A0%AD%E6%90%8D%E6%AF%80-5%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-10-02T20:45:10.522Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東隧單管雙程3車相撞　的士和客貨車車頭損毀　5人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182901955291254784985743.jpeg/ZsPjb08Aj7L9GilDrMKhUFc5iwS7ITgwxMt52sTLedo",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395953/%E6%9D%B1%E9%9A%A7%E5%96%AE%E7%AE%A1%E9%9B%99%E7%A8%8B3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%92%8C%E5%AE%A2%E8%B2%A8%E8%BB%8A%E8%BB%8A%E9%A0%AD%E6%90%8D%E6%AF%80-5%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-10-02T20:20:51.521Z",
     "strategy": ".content-card__main"
   }
 ];
