@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T07:39:48.712Z
+// Last updated: 2026-10-03T08:25:53.953Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日防衛省：美軍首度在與那國島部署反艦導彈系統　距台灣110公里",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251123/1069379679632232448859213.jpeg/D9OhaX3ikXa6PB_v6yPEMfqvqgLsaFLoUO7NlVDuzZU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396038/%E6%97%A5%E9%98%B2%E8%A1%9B%E7%9C%81-%E7%BE%8E%E8%BB%8D%E9%A6%96%E5%BA%A6%E5%9C%A8%E8%88%87%E9%82%A3%E5%9C%8B%E5%B3%B6%E9%83%A8%E7%BD%B2%E5%8F%8D%E8%89%A6%E5%B0%8E%E5%BD%88%E7%B3%BB%E7%B5%B1-%E8%B7%9D%E5%8F%B0%E7%81%A3110%E5%85%AC%E9%87%8C",
+    "timestamp": "2026-10-03T08:25:53.953Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國空軍五代機後悔沒雙座？暴增F-15EX訂單至267架尋求破局之策",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395955/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E7%BE%8E%E5%AA%92-%E5%9C%96%E5%8A%AB%E6%A9%9F%E5%89%AF%E6%A9%9F%E5%B8%AB%E6%9B%BE%E5%9B%A0%E6%A5%B5%E7%AB%AF%E8%A8%80%E8%AB%96%E8%A2%AB%E9%98%BF%E6%9B%BC%E7%A6%81%E9%A3%9B",
     "timestamp": "2026-10-02T22:44:16.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜拜航空恐襲未遂案　美媒：圖劫機副機師曾因極端言論被阿曼禁飛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395955/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E7%BE%8E%E5%AA%92-%E5%9C%96%E5%8A%AB%E6%A9%9F%E5%89%AF%E6%A9%9F%E5%B8%AB%E6%9B%BE%E5%9B%A0%E6%A5%B5%E7%AB%AF%E8%A8%80%E8%AB%96%E8%A2%AB%E9%98%BF%E6%9B%BC%E7%A6%81%E9%A3%9B",
-    "timestamp": "2026-10-02T22:20:12.599Z",
     "strategy": ".content-card__main"
   }
 ];
