@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T07:11:28.620Z
+// Last updated: 2026-10-03T07:39:48.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國空軍五代機後悔沒雙座？暴增F-15EX訂單至267架尋求破局之策",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108436702273212416654109.jpeg/Opdzy4otz_X_FmWrN_DqGcsZVzkD-kLrxqVO0calTtE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391085/%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%BB%8D%E4%BA%94%E4%BB%A3%E6%A9%9F%E5%BE%8C%E6%82%94%E6%B2%92%E9%9B%99%E5%BA%A7-%E6%9A%B4%E5%A2%9Ef-15ex%E8%A8%82%E5%96%AE%E8%87%B3267%E6%9E%B6%E5%B0%8B%E6%B1%82%E7%A0%B4%E5%B1%80%E4%B9%8B%E7%AD%96",
+    "timestamp": "2026-10-03T07:39:48.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣州越秀區美食推薦｜4間老店歎早茶吃白切雞　甜品必試鴛鴦撻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395955/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E7%BE%8E%E5%AA%92-%E5%9C%96%E5%8A%AB%E6%A9%9F%E5%89%AF%E6%A9%9F%E5%B8%AB%E6%9B%BE%E5%9B%A0%E6%A5%B5%E7%AB%AF%E8%A8%80%E8%AB%96%E8%A2%AB%E9%98%BF%E6%9B%BC%E7%A6%81%E9%A3%9B",
     "timestamp": "2026-10-02T22:20:12.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本沖繩縣23歲女被刺失血過多身亡　曾報警稱被前男友疑兇跟蹤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182912788809388032019635.png/twCWwn4ikxggWsFiE2NHu47PPIO7TuKuRMGiwETBosA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395954/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A323%E6%AD%B2%E5%A5%B3%E8%A2%AB%E5%88%BA%E5%A4%B1%E8%A1%80%E9%81%8E%E5%A4%9A%E8%BA%AB%E4%BA%A1-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E5%85%87%E8%B7%9F%E8%B9%A4",
-    "timestamp": "2026-10-02T21:47:17.047Z",
     "strategy": ".content-card__main"
   }
 ];
