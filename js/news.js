@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T08:50:47.144Z
+// Last updated: 2026-10-03T09:20:37.478Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太子汝洲街拉麵店起火　街頭店內濃煙密佈　消防救熄幸無人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183100638804840448037914.jpeg/9BAR1IZFt6ZKxnCwVe8VQfirSAqSqN2BXSUMyV0lDMk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396063/%E5%A4%AA%E5%AD%90%E6%B1%9D%E6%B4%B2%E8%A1%97%E6%8B%89%E9%BA%B5%E5%BA%97%E8%B5%B7%E7%81%AB-%E8%A1%97%E9%A0%AD%E5%BA%97%E5%85%A7%E6%BF%83%E7%85%99%E5%AF%86%E4%BD%88-%E6%B6%88%E9%98%B2%E6%95%91%E7%86%84%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-10-03T09:20:37.478Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胃癌早期難察！40歲女胃脹罹四期胃癌已轉移肝　醫揭3大奪命警號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182950111009837056613824.jpeg/8WwxpEztsWl3FA8FioE5hTbotLrXHmSBx5dMkseXTJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395958/%E9%9F%93%E5%AA%92-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88-nhk-%E8%90%BD%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%B0%88%E5%B1%AC%E7%B6%93%E6%BF%9F%E5%8D%80%E4%BB%A5%E5%A4%96",
     "timestamp": "2026-10-02T23:18:23.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國田納西州女死囚處決失敗　律師：現時靠呼吸機維生處昏迷狀態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395957/%E7%BE%8E%E5%9C%8B%E7%94%B0%E7%B4%8D%E8%A5%BF%E5%B7%9E%E5%A5%B3%E6%AD%BB%E5%9B%9A%E8%99%95%E6%B1%BA%E5%A4%B1%E6%95%97-%E5%BE%8B%E5%B8%AB-%E7%8F%BE%E6%99%82%E9%9D%A0%E5%91%BC%E5%90%B8%E6%A9%9F%E7%B6%AD%E7%94%9F%E8%99%95%E6%98%8F%E8%BF%B7%E7%8B%80%E6%85%8B",
-    "timestamp": "2026-10-02T22:55:59.718Z",
     "strategy": ".content-card__main"
   }
 ];
