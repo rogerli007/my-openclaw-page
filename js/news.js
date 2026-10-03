@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T02:40:05.435Z
+// Last updated: 2026-10-03T03:11:10.871Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "機場城市｜SKYTOPIA能否靠海灣重新起飛？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250116/956624268811309056152497.jpeg/QGlety8A-zRw8B8BcGFd-n_4dw690ISNRzGKEGIxihA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395976/%E6%A9%9F%E5%A0%B4%E5%9F%8E%E5%B8%82-skytopia%E8%83%BD%E5%90%A6%E9%9D%A0%E6%B5%B7%E7%81%A3%E9%87%8D%E6%96%B0%E8%B5%B7%E9%A3%9B",
+    "timestamp": "2026-10-03T03:11:10.871Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普罕到印第安人族地舉行集會　歷任總統鮮少赴美原住民保留區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182872184935157760867302.jpeg/7KMe49Q2RdTr3e0TUHAdm8p8rDLRuCryVjJXuVYyV7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395948/%E6%97%A5%E6%9C%AC%E5%89%8D%E9%98%B2%E9%95%B7%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%94%BF%E5%BA%9C%E5%B0%87%E8%A9%A6%E8%A1%8C%E8%B3%BC%E8%B2%B7%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F",
     "timestamp": "2026-10-02T19:21:03.241Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本前防長晤澤連斯基：政府將試行購買烏克蘭無人機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182872184935157760867302.jpeg/7KMe49Q2RdTr3e0TUHAdm8p8rDLRuCryVjJXuVYyV7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395948/%E6%97%A5%E6%9C%AC%E5%89%8D%E9%98%B2%E9%95%B7%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%94%BF%E5%BA%9C%E5%B0%87%E8%A9%A6%E8%A1%8C%E8%B3%BC%E8%B2%B7%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F",
-    "timestamp": "2026-10-02T19:02:19.653Z",
     "strategy": ".content-card__main"
   }
 ];
