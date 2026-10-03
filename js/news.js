@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T04:57:44.958Z
+// Last updated: 2026-10-03T05:20:12.652Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞運會2026網球｜黃澤林摘金夢想成真　香港第一人再添新史",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183040574425403392839605.jpeg/RF0h3iSUzar4_nYLT-6_sek9oubKcHQeBpbQtwaW0Lc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60396010/%E4%BA%9E%E9%81%8B%E6%9C%832026%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E6%91%98%E9%87%91%E5%A4%A2%E6%83%B3%E6%88%90%E7%9C%9F-%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E4%BA%BA%E5%86%8D%E6%B7%BB%E6%96%B0%E5%8F%B2",
+    "timestamp": "2026-10-03T05:20:12.652Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026｜黃澤林父親放學後快閃名古屋觀戰　「食飛驒牛慶祝」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182912788809388032019635.png/twCWwn4ikxggWsFiE2NHu47PPIO7TuKuRMGiwETBosA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395954/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A323%E6%AD%B2%E5%A5%B3%E8%A2%AB%E5%88%BA%E5%A4%B1%E8%A1%80%E9%81%8E%E5%A4%9A%E8%BA%AB%E4%BA%A1-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E5%85%87%E8%B7%9F%E8%B9%A4",
     "timestamp": "2026-10-02T20:56:10.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東隧單管雙程3車相撞　的士和客貨車車頭損毀　5人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182901955291254784985743.jpeg/ZsPjb08Aj7L9GilDrMKhUFc5iwS7ITgwxMt52sTLedo",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395953/%E6%9D%B1%E9%9A%A7%E5%96%AE%E7%AE%A1%E9%9B%99%E7%A8%8B3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%92%8C%E5%AE%A2%E8%B2%A8%E8%BB%8A%E8%BB%8A%E9%A0%AD%E6%90%8D%E6%AF%80-5%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-10-02T20:45:10.522Z",
     "strategy": ".content-card__main"
   }
 ];
