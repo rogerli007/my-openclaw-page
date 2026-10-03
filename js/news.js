@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T14:28:17.892Z
+// Last updated: 2026-10-03T15:44:38.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《蘭香如故》全劇僅兩場吻戲　譚松韻劉學義雪中吻被爆屬臨時加拍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183115015733907456089143.png/k-vqIM31c-Ql1VE7bHRhRi7LR_umKSQ8j9wYBY_cGAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396068/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E5%85%A8%E5%8A%87%E5%83%85%E5%85%A9%E5%A0%B4%E5%90%BB%E6%88%B2-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%8A%89%E5%AD%B8%E7%BE%A9%E9%9B%AA%E4%B8%AD%E5%90%BB%E8%A2%AB%E7%88%86%E5%B1%AC%E8%87%A8%E6%99%82%E5%8A%A0%E6%8B%8D",
+    "timestamp": "2026-10-03T15:44:38.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Hotstone Yoga結業｜截至下午6時　海關接獲627宗舉報涉款700萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182992660315508736105497.jpeg/CZUm2yY1SVXQcfW4XcwQnAKYJyWvxMB--GrslPhq7JQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395969/%E7%89%B9%E6%9C%97%E6%99%AE%E7%BD%95%E5%88%B0%E5%8D%B0%E7%AC%AC%E5%AE%89%E4%BA%BA%E6%97%8F%E5%9C%B0%E8%88%89%E8%A1%8C%E9%9B%86%E6%9C%83-%E6%AD%B7%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%AE%AE%E5%B0%91%E8%B5%B4%E7%BE%8E%E5%8E%9F%E4%BD%8F%E6%B0%91%E4%BF%9D%E7%95%99%E5%8D%80",
     "timestamp": "2026-10-03T02:40:05.435Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "$9800萬六合彩今晚攪珠│頭獎得主分享「畫十字」投注秘技:中過3次",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172269996890394624826073.jpeg/Khknz_BGYQD6FS4tdWBWzYjvvRYBlD7imWD3t5lg97c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393528/9800%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E9%A0%AD%E7%8D%8E%E5%BE%97%E4%B8%BB%E5%88%86%E4%BA%AB-%E7%95%AB%E5%8D%81%E5%AD%97-%E6%8A%95%E6%B3%A8%E7%A7%98%E6%8A%80-%E4%B8%AD%E9%81%8E3%E6%AC%A1",
-    "timestamp": "2026-10-03T02:04:03.572Z",
     "strategy": ".content-card__main"
   }
 ];
