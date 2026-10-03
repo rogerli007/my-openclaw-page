@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T03:11:10.871Z
+// Last updated: 2026-10-03T03:45:46.419Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西大選在即　盧拉：只有自己可以阻止極右勢力上台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183016135814025216532074.jpeg/w9h5Ey-qV3pgxRw2CiZWio5zWBGdmxQROMgWbTjIFm0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395988/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8%E5%9C%A8%E5%8D%B3-%E7%9B%A7%E6%8B%89-%E5%8F%AA%E6%9C%89%E8%87%AA%E5%B7%B1%E5%8F%AF%E4%BB%A5%E9%98%BB%E6%AD%A2%E6%A5%B5%E5%8F%B3%E5%8B%A2%E5%8A%9B%E4%B8%8A%E5%8F%B0",
+    "timestamp": "2026-10-03T03:45:46.419Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "機場城市｜SKYTOPIA能否靠海灣重新起飛？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182891367886491648370185.jpeg/wvakuSKU-Voho462efaUMve0TGLCuEum2xb35dsW9-U",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395952/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E9%81%BF%E8%BB%8A%E6%92%9Euber-taxi-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8E%A8%E8%BB%8A%E9%96%8B%E8%B7%AF",
     "timestamp": "2026-10-02T19:55:06.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本前防長晤澤連斯基：政府將試行購買烏克蘭無人機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182872184935157760867302.jpeg/7KMe49Q2RdTr3e0TUHAdm8p8rDLRuCryVjJXuVYyV7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395948/%E6%97%A5%E6%9C%AC%E5%89%8D%E9%98%B2%E9%95%B7%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%94%BF%E5%BA%9C%E5%B0%87%E8%A9%A6%E8%A1%8C%E8%B3%BC%E8%B2%B7%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F",
-    "timestamp": "2026-10-02T19:21:03.241Z",
     "strategy": ".content-card__main"
   }
 ];
