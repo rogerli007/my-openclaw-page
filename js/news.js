@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T17:09:37.003Z
+// Last updated: 2026-10-03T18:24:56.368Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筆架山豪宅BEACON PEAK單位遇竊　28歲男損失$80萬財物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183232221033533440368724.jpeg/lGCWAeZxogEqwIOsV3uq2Ku9CQYUNDP-MXz8Swt8_Es?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396121/%E7%AD%86%E6%9E%B6%E5%B1%B1%E8%B1%AA%E5%AE%85beacon-peak%E5%96%AE%E4%BD%8D%E9%81%87%E7%AB%8A-28%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1-80%E8%90%AC%E8%B2%A1%E7%89%A9",
+    "timestamp": "2026-10-03T18:24:56.368Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大律師公會倫敦辦法律系學生講座　主席毛樂禮鼓勵人才在港發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183016135814025216532074.jpeg/w9h5Ey-qV3pgxRw2CiZWio5zWBGdmxQROMgWbTjIFm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395988/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8%E5%9C%A8%E5%8D%B3-%E7%9B%A7%E6%8B%89-%E5%8F%AA%E6%9C%89%E8%87%AA%E5%B7%B1%E5%8F%AF%E4%BB%A5%E9%98%BB%E6%AD%A2%E6%A5%B5%E5%8F%B3%E5%8B%A2%E5%8A%9B%E4%B8%8A%E5%8F%B0",
     "timestamp": "2026-10-03T03:45:46.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "機場城市｜SKYTOPIA能否靠海灣重新起飛？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250116/956624268811309056152497.jpeg/QGlety8A-zRw8B8BcGFd-n_4dw690ISNRzGKEGIxihA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395976/%E6%A9%9F%E5%A0%B4%E5%9F%8E%E5%B8%82-skytopia%E8%83%BD%E5%90%A6%E9%9D%A0%E6%B5%B7%E7%81%A3%E9%87%8D%E6%96%B0%E8%B5%B7%E9%A3%9B",
-    "timestamp": "2026-10-03T03:11:10.871Z",
     "strategy": ".content-card__main"
   }
 ];
