@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T06:36:35.983Z
+// Last updated: 2026-10-03T07:11:28.620Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣州越秀區美食推薦｜4間老店歎早茶吃白切雞　甜品必試鴛鴦撻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182674316223844352270865.jpeg/Hi_wvrar1ParwLOzy2rSYwXEJKEu0QR6FgZZbBYGWWw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60354933/%E5%BB%A3%E5%B7%9E%E8%B6%8A%E7%A7%80%E5%8D%80%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%96%A6-4%E9%96%93%E8%80%81%E5%BA%97%E6%AD%8E%E6%97%A9%E8%8C%B6%E5%90%83%E7%99%BD%E5%88%87%E9%9B%9E-%E7%94%9C%E5%93%81%E5%BF%85%E8%A9%A6%E9%B4%9B%E9%B4%A6%E6%92%BB",
+    "timestamp": "2026-10-03T07:11:28.620Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "10.1 半價睇好戲｜全港52戲院爆滿　15.3萬市民入場帶動消費熱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182912788809388032019635.png/twCWwn4ikxggWsFiE2NHu47PPIO7TuKuRMGiwETBosA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395954/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A323%E6%AD%B2%E5%A5%B3%E8%A2%AB%E5%88%BA%E5%A4%B1%E8%A1%80%E9%81%8E%E5%A4%9A%E8%BA%AB%E4%BA%A1-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E5%85%87%E8%B7%9F%E8%B9%A4",
     "timestamp": "2026-10-02T21:47:17.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本沖繩縣23歲女被刺失血過多身亡　曾報警稱被前男友疑兇跟蹤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182912788809388032019635.png/twCWwn4ikxggWsFiE2NHu47PPIO7TuKuRMGiwETBosA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395954/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A323%E6%AD%B2%E5%A5%B3%E8%A2%AB%E5%88%BA%E5%A4%B1%E8%A1%80%E9%81%8E%E5%A4%9A%E8%BA%AB%E4%BA%A1-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E5%85%87%E8%B7%9F%E8%B9%A4",
-    "timestamp": "2026-10-02T21:34:06.824Z",
     "strategy": ".content-card__main"
   }
 ];
