@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T05:52:57.499Z
+// Last updated: 2026-10-03T06:36:35.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "10.1 半價睇好戲｜全港52戲院爆滿　15.3萬市民入場帶動消費熱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183043935828709376275196.jpeg/V2E45PMbij7mqwXnHlY7EcU7ySe4FuUBH7HnGx-x5xs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396012/10-1-%E5%8D%8A%E5%83%B9%E7%9D%87%E5%A5%BD%E6%88%B2-%E5%85%A8%E6%B8%AF52%E6%88%B2%E9%99%A2%E7%88%86%E6%BB%BF-15-3%E8%90%AC%E5%B8%82%E6%B0%91%E5%85%A5%E5%A0%B4%E5%B8%B6%E5%8B%95%E6%B6%88%E8%B2%BB%E7%86%B1",
+    "timestamp": "2026-10-03T06:36:35.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命︱屯門石排頭徑女子單位墮下　送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182912788809388032019635.png/twCWwn4ikxggWsFiE2NHu47PPIO7TuKuRMGiwETBosA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395954/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A323%E6%AD%B2%E5%A5%B3%E8%A2%AB%E5%88%BA%E5%A4%B1%E8%A1%80%E9%81%8E%E5%A4%9A%E8%BA%AB%E4%BA%A1-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E5%85%87%E8%B7%9F%E8%B9%A4",
     "timestamp": "2026-10-02T21:34:06.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本沖繩縣23歲女被刺失血過多身亡　曾報警稱被前男友疑兇跟蹤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182912788809388032019635.png/twCWwn4ikxggWsFiE2NHu47PPIO7TuKuRMGiwETBosA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395954/%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%B8%A323%E6%AD%B2%E5%A5%B3%E8%A2%AB%E5%88%BA%E5%A4%B1%E8%A1%80%E9%81%8E%E5%A4%9A%E8%BA%AB%E4%BA%A1-%E6%9B%BE%E5%A0%B1%E8%AD%A6%E7%A8%B1%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E7%96%91%E5%85%87%E8%B7%9F%E8%B9%A4",
-    "timestamp": "2026-10-02T21:23:49.690Z",
     "strategy": ".content-card__main"
   }
 ];
