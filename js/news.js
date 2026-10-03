@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T00:48:43.088Z
+// Last updated: 2026-10-03T01:22:51.666Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵鑽石山站阿叔坐電動代步車！目擊者：可搭港鐵？　屬醫療器械",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182103518308208640756894.png/mZmSKAirNA45CZO5uvmCmes6OjqSAg0ONc4WMzXOFjM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395364/%E6%B8%AF%E9%90%B5%E9%91%BD%E7%9F%B3%E5%B1%B1%E7%AB%99%E9%98%BF%E5%8F%94%E5%9D%90%E9%9B%BB%E5%8B%95%E4%BB%A3%E6%AD%A5%E8%BB%8A-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%8F%AF%E6%90%AD%E6%B8%AF%E9%90%B5-%E5%B1%AC%E9%86%AB%E7%99%82%E5%99%A8%E6%A2%B0",
+    "timestamp": "2026-10-03T01:22:51.666Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股異動｜Nike收跌3.6%　Q1營收不及預期+全年指引疲軟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182864452903505920860321.jpeg/03V_CIlSev1Ni317WhVd3ABaL8KOje7DBbwoLAW8KCw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395946/%E5%9C%8B%E6%85%B6%E9%95%B7%E5%81%87%E6%9C%9F%E8%AD%A6%E4%B8%AD%E7%92%B0%E6%89%93%E6%93%8A%E7%9A%84%E5%A3%AB%E9%81%95%E4%BE%8B-%E5%8F%A6%E6%8F%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E8%A2%AB%E9%80%9A%E7%B7%9D-4%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-02T17:44:10.737Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍2巴士迷影巴士爆衝突　黑衣男猛推撐傘男　警列糾紛｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182850575826423808793068.jpeg/eqPiYYBHD3NVrcw204KrZDFrmXdpl7ZSqO_z5Kjv8-Q",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395941/%E5%A4%A9%E6%B0%B4%E5%9C%8D2%E5%B7%B4%E5%A3%AB%E8%BF%B7%E5%BD%B1%E5%B7%B4%E5%A3%AB%E7%88%86%E8%A1%9D%E7%AA%81-%E9%BB%91%E8%A1%A3%E7%94%B7%E7%8C%9B%E6%8E%A8%E6%92%90%E5%82%98%E7%94%B7-%E8%AD%A6%E5%88%97%E7%B3%BE%E7%B4%9B-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-02T17:20:06.915Z",
     "strategy": ".content-card__main"
   }
 ];
