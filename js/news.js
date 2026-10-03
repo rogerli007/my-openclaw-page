@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T15:44:38.225Z
+// Last updated: 2026-10-03T17:09:37.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大律師公會倫敦辦法律系學生講座　主席毛樂禮鼓勵人才在港發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183221549004492800912708.jpeg/BClQao7IsI8fy_v9nsiM_fVtz73CTEqPeGdVU3hnVVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60396118/%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E5%80%AB%E6%95%A6%E8%BE%A6%E6%B3%95%E5%BE%8B%E7%B3%BB%E5%AD%B8%E7%94%9F%E8%AC%9B%E5%BA%A7-%E4%B8%BB%E5%B8%AD%E6%AF%9B%E6%A8%82%E7%A6%AE%E9%BC%93%E5%8B%B5%E4%BA%BA%E6%89%8D%E5%9C%A8%E6%B8%AF%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-10-03T17:09:37.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《蘭香如故》全劇僅兩場吻戲　譚松韻劉學義雪中吻被爆屬臨時加拍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250116/956624268811309056152497.jpeg/QGlety8A-zRw8B8BcGFd-n_4dw690ISNRzGKEGIxihA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60395976/%E6%A9%9F%E5%A0%B4%E5%9F%8E%E5%B8%82-skytopia%E8%83%BD%E5%90%A6%E9%9D%A0%E6%B5%B7%E7%81%A3%E9%87%8D%E6%96%B0%E8%B5%B7%E9%A3%9B",
     "timestamp": "2026-10-03T03:11:10.871Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普罕到印第安人族地舉行集會　歷任總統鮮少赴美原住民保留區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182992660315508736105497.jpeg/CZUm2yY1SVXQcfW4XcwQnAKYJyWvxMB--GrslPhq7JQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395969/%E7%89%B9%E6%9C%97%E6%99%AE%E7%BD%95%E5%88%B0%E5%8D%B0%E7%AC%AC%E5%AE%89%E4%BA%BA%E6%97%8F%E5%9C%B0%E8%88%89%E8%A1%8C%E9%9B%86%E6%9C%83-%E6%AD%B7%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%AE%AE%E5%B0%91%E8%B5%B4%E7%BE%8E%E5%8E%9F%E4%BD%8F%E6%B0%91%E4%BF%9D%E7%95%99%E5%8D%80",
-    "timestamp": "2026-10-03T02:40:05.435Z",
     "strategy": ".content-card__main"
   }
 ];
