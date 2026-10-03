@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T03:45:46.419Z
+// Last updated: 2026-10-03T04:09:30.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公屋戶21年前獲准換鐵閘　交還單位竟被要求付費還原　結局大反轉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182266240832376832162548.png/fKNCGt5vFAgne8wW6tToLqelBb17GCqmzauvK82rrys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393729/%E5%85%AC%E5%B1%8B%E6%88%B621%E5%B9%B4%E5%89%8D%E7%8D%B2%E5%87%86%E6%8F%9B%E9%90%B5%E9%96%98-%E4%BA%A4%E9%82%84%E5%96%AE%E4%BD%8D%E7%AB%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BB%98%E8%B2%BB%E9%82%84%E5%8E%9F-%E7%B5%90%E5%B1%80%E5%A4%A7%E5%8F%8D%E8%BD%89",
+    "timestamp": "2026-10-03T04:09:30.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西大選在即　盧拉：只有自己可以阻止極右勢力上台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182901955291254784985743.jpeg/ZsPjb08Aj7L9GilDrMKhUFc5iwS7ITgwxMt52sTLedo",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395953/%E6%9D%B1%E9%9A%A7%E5%96%AE%E7%AE%A1%E9%9B%99%E7%A8%8B3%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%92%8C%E5%AE%A2%E8%B2%A8%E8%BB%8A%E8%BB%8A%E9%A0%AD%E6%90%8D%E6%AF%80-5%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-10-02T20:20:51.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺公路私家車疑避車撞Uber Taxi　的士司機送院　警推車開路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182891367886491648370185.jpeg/wvakuSKU-Voho462efaUMve0TGLCuEum2xb35dsW9-U",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395952/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E9%81%BF%E8%BB%8A%E6%92%9Euber-taxi-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8E%A8%E8%BB%8A%E9%96%8B%E8%B7%AF",
-    "timestamp": "2026-10-02T19:55:06.587Z",
     "strategy": ".content-card__main"
   }
 ];
