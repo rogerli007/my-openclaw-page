@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T08:25:53.953Z
+// Last updated: 2026-10-03T08:50:47.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胃癌早期難察！40歲女胃脹罹四期胃癌已轉移肝　醫揭3大奪命警號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179418507025059840047619.jpeg/UHpL5Q6PU9KNrZ4o6fxwnU-ny8-D9y3CldvA5ZXbwOU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60391225/%E8%83%83%E7%99%8C%E6%97%A9%E6%9C%9F%E9%9B%A3%E5%AF%9F-40%E6%AD%B2%E5%A5%B3%E8%83%83%E8%84%B9%E7%BD%B9%E5%9B%9B%E6%9C%9F%E8%83%83%E7%99%8C%E5%B7%B2%E8%BD%89%E7%A7%BB%E8%82%9D-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%A5%AA%E5%91%BD%E8%AD%A6%E8%99%9F",
+    "timestamp": "2026-10-03T08:50:47.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日防衛省：美軍首度在與那國島部署反艦導彈系統　距台灣110公里",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395957/%E7%BE%8E%E5%9C%8B%E7%94%B0%E7%B4%8D%E8%A5%BF%E5%B7%9E%E5%A5%B3%E6%AD%BB%E5%9B%9A%E8%99%95%E6%B1%BA%E5%A4%B1%E6%95%97-%E5%BE%8B%E5%B8%AB-%E7%8F%BE%E6%99%82%E9%9D%A0%E5%91%BC%E5%90%B8%E6%A9%9F%E7%B6%AD%E7%94%9F%E8%99%95%E6%98%8F%E8%BF%B7%E7%8B%80%E6%85%8B",
     "timestamp": "2026-10-02T22:55:59.718Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜拜航空恐襲未遂案　美媒：圖劫機副機師曾因極端言論被阿曼禁飛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395955/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E7%BE%8E%E5%AA%92-%E5%9C%96%E5%8A%AB%E6%A9%9F%E5%89%AF%E6%A9%9F%E5%B8%AB%E6%9B%BE%E5%9B%A0%E6%A5%B5%E7%AB%AF%E8%A8%80%E8%AB%96%E8%A2%AB%E9%98%BF%E6%9B%BC%E7%A6%81%E9%A3%9B",
-    "timestamp": "2026-10-02T22:44:16.398Z",
     "strategy": ".content-card__main"
   }
 ];
