@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T11:08:55.074Z
+// Last updated: 2026-10-03T12:40:38.011Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蛋糕怎麼分才公平？日本太太「另類切法」獲網民狂讚：這才是真愛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181984775477399552572189.jpeg/iMLQdYa5lerVKpjfjnTxDOjSTSeo-PdsdAIxsXQCMbE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60307824/%E8%9B%8B%E7%B3%95%E6%80%8E%E9%BA%BC%E5%88%86%E6%89%8D%E5%85%AC%E5%B9%B3-%E6%97%A5%E6%9C%AC%E5%A4%AA%E5%A4%AA-%E5%8F%A6%E9%A1%9E%E5%88%87%E6%B3%95-%E7%8D%B2%E7%B6%B2%E6%B0%91%E7%8B%82%E8%AE%9A-%E9%80%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%84%9B",
+    "timestamp": "2026-10-03T12:40:38.011Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "共喝一杯飲料會得性病？專家揭中招機率　小心鬚刨、毛巾感染風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182103518308208640756894.png/mZmSKAirNA45CZO5uvmCmes6OjqSAg0ONc4WMzXOFjM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395364/%E6%B8%AF%E9%90%B5%E9%91%BD%E7%9F%B3%E5%B1%B1%E7%AB%99%E9%98%BF%E5%8F%94%E5%9D%90%E9%9B%BB%E5%8B%95%E4%BB%A3%E6%AD%A5%E8%BB%8A-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%8F%AF%E6%90%AD%E6%B8%AF%E9%90%B5-%E5%B1%AC%E9%86%AB%E7%99%82%E5%99%A8%E6%A2%B0",
     "timestamp": "2026-10-03T01:22:51.666Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股異動｜Nike收跌3.6%　Q1營收不及預期+全年指引疲軟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138081135801405440275413.jpeg/MMIksPywta4RAMQ2SHrbWMuraKc2fX4qK5oOJyuaDic?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60395884/%E7%BE%8E%E8%82%A1%E7%95%B0%E5%8B%95-nike%E6%94%B6%E8%B7%8C3-6-q1%E7%87%9F%E6%94%B6%E4%B8%8D%E5%8F%8A%E9%A0%90%E6%9C%9F-%E5%85%A8%E5%B9%B4%E6%8C%87%E5%BC%95%E7%96%B2%E8%BB%9F",
-    "timestamp": "2026-10-03T00:48:43.088Z",
     "strategy": ".content-card__main"
   }
 ];
