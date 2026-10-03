@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T12:40:38.011Z
+// Last updated: 2026-10-03T14:28:17.892Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Hotstone Yoga結業｜截至下午6時　海關接獲627宗舉報涉款700萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182313996993171456871056.jpeg/Zj27IjSj_3tduKcYK77qKWIXZbkorpuRP4_tUhqP7VI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396110/hotstone-yoga%E7%B5%90%E6%A5%AD-%E6%88%AA%E8%87%B3%E4%B8%8B%E5%8D%886%E6%99%82-%E6%B5%B7%E9%97%9C%E6%8E%A5%E7%8D%B2627%E5%AE%97%E8%88%89%E5%A0%B1%E6%B6%89%E6%AC%BE700%E8%90%AC%E5%85%83",
+    "timestamp": "2026-10-03T14:28:17.892Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蛋糕怎麼分才公平？日本太太「另類切法」獲網民狂讚：這才是真愛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172269996890394624826073.jpeg/Khknz_BGYQD6FS4tdWBWzYjvvRYBlD7imWD3t5lg97c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393528/9800%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E9%A0%AD%E7%8D%8E%E5%BE%97%E4%B8%BB%E5%88%86%E4%BA%AB-%E7%95%AB%E5%8D%81%E5%AD%97-%E6%8A%95%E6%B3%A8%E7%A7%98%E6%8A%80-%E4%B8%AD%E9%81%8E3%E6%AC%A1",
     "timestamp": "2026-10-03T02:04:03.572Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵鑽石山站阿叔坐電動代步車！目擊者：可搭港鐵？　屬醫療器械",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182103518308208640756894.png/mZmSKAirNA45CZO5uvmCmes6OjqSAg0ONc4WMzXOFjM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395364/%E6%B8%AF%E9%90%B5%E9%91%BD%E7%9F%B3%E5%B1%B1%E7%AB%99%E9%98%BF%E5%8F%94%E5%9D%90%E9%9B%BB%E5%8B%95%E4%BB%A3%E6%AD%A5%E8%BB%8A-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%8F%AF%E6%90%AD%E6%B8%AF%E9%90%B5-%E5%B1%AC%E9%86%AB%E7%99%82%E5%99%A8%E6%A2%B0",
-    "timestamp": "2026-10-03T01:22:51.666Z",
     "strategy": ".content-card__main"
   }
 ];
