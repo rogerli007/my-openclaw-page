@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T10:35:40.934Z
+// Last updated: 2026-10-03T11:08:55.074Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "共喝一杯飲料會得性病？專家揭中招機率　小心鬚刨、毛巾感染風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183024880610709504372586.png/eHxQkkZPvURRIQd4yUgAUgNLC6JilMoB8Ky17_Cste8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60394941/%E5%85%B1%E5%96%9D%E4%B8%80%E6%9D%AF%E9%A3%B2%E6%96%99%E6%9C%83%E5%BE%97%E6%80%A7%E7%97%85-%E5%B0%88%E5%AE%B6%E6%8F%AD%E4%B8%AD%E6%8B%9B%E6%A9%9F%E7%8E%87-%E5%B0%8F%E5%BF%83%E9%AC%9A%E5%88%A8-%E6%AF%9B%E5%B7%BE%E6%84%9F%E6%9F%93%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-10-03T11:08:55.074Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "流感｜9歲童染乙流併發敗血性休克及嚴重肺炎　留醫PICU情況危殆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138081135801405440275413.jpeg/MMIksPywta4RAMQ2SHrbWMuraKc2fX4qK5oOJyuaDic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60395884/%E7%BE%8E%E8%82%A1%E7%95%B0%E5%8B%95-nike%E6%94%B6%E8%B7%8C3-6-q1%E7%87%9F%E6%94%B6%E4%B8%8D%E5%8F%8A%E9%A0%90%E6%9C%9F-%E5%85%A8%E5%B9%B4%E6%8C%87%E5%BC%95%E7%96%B2%E8%BB%9F",
     "timestamp": "2026-10-03T00:48:43.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "卵巢癌75%確診已末期　日本女星1個月逝世　留意4大偽腸胃病症狀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179417418640920576249157.jpeg/TVV98X2s9kkdSvDGS5d_GBJWbl8rZVsnqHBECKhwRAg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60390593/%E5%8D%B5%E5%B7%A2%E7%99%8C75-%E7%A2%BA%E8%A8%BA%E5%B7%B2%E6%9C%AB%E6%9C%9F-%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%98%9F1%E5%80%8B%E6%9C%88%E9%80%9D%E4%B8%96-%E7%95%99%E6%84%8F4%E5%A4%A7%E5%81%BD%E8%85%B8%E8%83%83%E7%97%85%E7%97%87%E7%8B%80",
-    "timestamp": "2026-10-02T23:54:08.340Z",
     "strategy": ".content-card__main"
   }
 ];
