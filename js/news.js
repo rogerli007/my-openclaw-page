@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T02:04:03.572Z
+// Last updated: 2026-10-03T02:40:05.435Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普罕到印第安人族地舉行集會　歷任總統鮮少赴美原住民保留區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182992660315508736105497.jpeg/CZUm2yY1SVXQcfW4XcwQnAKYJyWvxMB--GrslPhq7JQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395969/%E7%89%B9%E6%9C%97%E6%99%AE%E7%BD%95%E5%88%B0%E5%8D%B0%E7%AC%AC%E5%AE%89%E4%BA%BA%E6%97%8F%E5%9C%B0%E8%88%89%E8%A1%8C%E9%9B%86%E6%9C%83-%E6%AD%B7%E4%BB%BB%E7%B8%BD%E7%B5%B1%E9%AE%AE%E5%B0%91%E8%B5%B4%E7%BE%8E%E5%8E%9F%E4%BD%8F%E6%B0%91%E4%BF%9D%E7%95%99%E5%8D%80",
+    "timestamp": "2026-10-03T02:40:05.435Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "$9800萬六合彩今晚攪珠│頭獎得主分享「畫十字」投注秘技:中過3次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182872184935157760867302.jpeg/7KMe49Q2RdTr3e0TUHAdm8p8rDLRuCryVjJXuVYyV7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395948/%E6%97%A5%E6%9C%AC%E5%89%8D%E9%98%B2%E9%95%B7%E6%99%A4%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%94%BF%E5%BA%9C%E5%B0%87%E8%A9%A6%E8%A1%8C%E8%B3%BC%E8%B2%B7%E7%83%8F%E5%85%8B%E8%98%AD%E7%84%A1%E4%BA%BA%E6%A9%9F",
     "timestamp": "2026-10-02T19:02:19.653Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶長假期警中環打擊的士違例　另揭私家車司機被通緝　4人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182864452903505920860321.jpeg/03V_CIlSev1Ni317WhVd3ABaL8KOje7DBbwoLAW8KCw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60395946/%E5%9C%8B%E6%85%B6%E9%95%B7%E5%81%87%E6%9C%9F%E8%AD%A6%E4%B8%AD%E7%92%B0%E6%89%93%E6%93%8A%E7%9A%84%E5%A3%AB%E9%81%95%E4%BE%8B-%E5%8F%A6%E6%8F%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E8%A2%AB%E9%80%9A%E7%B7%9D-4%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-02T17:58:49.610Z",
     "strategy": ".content-card__main"
   }
 ];
