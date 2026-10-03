@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T09:20:37.478Z
+// Last updated: 2026-10-03T09:54:39.874Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜珠海長隆海豚突衝出水池引觀眾驚呼　園方緊急救護無大礙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109183797465088508137.jpeg/K0Pm45iW9bUGHrlnFx2EVAuS7J6u3kBQhyf4oYcn-KE?v=w1920",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60396071/%E6%9C%89%E7%89%87-%E7%8F%A0%E6%B5%B7%E9%95%B7%E9%9A%86%E6%B5%B7%E8%B1%9A%E7%AA%81%E8%A1%9D%E5%87%BA%E6%B0%B4%E6%B1%A0%E5%BC%95%E8%A7%80%E7%9C%BE%E9%A9%9A%E5%91%BC-%E5%9C%92%E6%96%B9%E7%B7%8A%E6%80%A5%E6%95%91%E8%AD%B7%E7%84%A1%E5%A4%A7%E7%A4%99",
+    "timestamp": "2026-10-03T09:54:39.874Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太子汝洲街拉麵店起火　街頭店內濃煙密佈　消防救熄幸無人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182950111009837056613824.jpeg/8WwxpEztsWl3FA8FioE5hTbotLrXHmSBx5dMkseXTJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395958/%E9%9F%93%E5%AA%92-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88-nhk-%E8%90%BD%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%B0%88%E5%B1%AC%E7%B6%93%E6%BF%9F%E5%8D%80%E4%BB%A5%E5%A4%96",
     "timestamp": "2026-10-02T23:31:33.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓媒：朝鮮向東海發射彈道導彈　NHK：落在日本專屬經濟區以外",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182950111009837056613824.jpeg/8WwxpEztsWl3FA8FioE5hTbotLrXHmSBx5dMkseXTJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395958/%E9%9F%93%E5%AA%92-%E6%9C%9D%E9%AE%AE%E5%90%91%E6%9D%B1%E6%B5%B7%E7%99%BC%E5%B0%84%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88-nhk-%E8%90%BD%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%B0%88%E5%B1%AC%E7%B6%93%E6%BF%9F%E5%8D%80%E4%BB%A5%E5%A4%96",
-    "timestamp": "2026-10-02T23:18:23.193Z",
     "strategy": ".content-card__main"
   }
 ];
