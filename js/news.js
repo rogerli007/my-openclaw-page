@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T21:40:04.885Z
+// Last updated: 2026-10-03T22:45:23.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人獸交│美國人妻涉與狗發生性行為　夫看cam片揭發　她被捕竟燦笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183291339094102016759318.png/Dag8IGG74KBJ5eoj3MwxM5S18huBKgnxLuPRbS7j0W0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60395082/%E4%BA%BA%E7%8D%B8%E4%BA%A4-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E5%A6%BB%E6%B6%89%E8%88%87%E7%8B%97%E7%99%BC%E7%94%9F%E6%80%A7%E8%A1%8C%E7%82%BA-%E5%A4%AB%E7%9C%8Bcam%E7%89%87%E6%8F%AD%E7%99%BC-%E5%A5%B9%E8%A2%AB%E6%8D%95%E7%AB%9F%E7%87%A6%E7%AC%91",
+    "timestamp": "2026-10-03T22:45:23.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：共和黨勝選成人派5000美元　民主黨勝選重回大蕭條｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183034661794746368324106.png/7_LnaaNhQtTI9doVq3uRm8IrI_T6vpsIU5-zPVOfsz0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60396005/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%BB%83%E6%BE%A4%E6%9E%97%E7%88%B6%E8%A6%AA%E6%94%BE%E5%AD%B8%E5%BE%8C%E5%BF%AB%E9%96%83%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%A7%80%E6%88%B0-%E9%A3%9F%E9%A3%9B%E9%A9%92%E7%89%9B%E6%85%B6%E7%A5%9D",
     "timestamp": "2026-10-03T04:57:44.958Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公屋戶21年前獲准換鐵閘　交還單位竟被要求付費還原　結局大反轉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182266240832376832162548.png/fKNCGt5vFAgne8wW6tToLqelBb17GCqmzauvK82rrys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393729/%E5%85%AC%E5%B1%8B%E6%88%B621%E5%B9%B4%E5%89%8D%E7%8D%B2%E5%87%86%E6%8F%9B%E9%90%B5%E9%96%98-%E4%BA%A4%E9%82%84%E5%96%AE%E4%BD%8D%E7%AB%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BB%98%E8%B2%BB%E9%82%84%E5%8E%9F-%E7%B5%90%E5%B1%80%E5%A4%A7%E5%8F%8D%E8%BD%89",
-    "timestamp": "2026-10-03T04:09:30.293Z",
     "strategy": ".content-card__main"
   }
 ];
