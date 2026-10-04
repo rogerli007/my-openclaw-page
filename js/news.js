@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T22:19:33.859Z
+// Last updated: 2026-10-04T22:46:39.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "知名女星前伴侶逝世曾傳闊太變剩萬元棺材本　勤力開工街頭疑黑面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183480133231579136108365.jpeg/G_YhaWuqGkkM9ngk8y_c9GKzH6son7arPEVUuzxFVLs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396242/%E9%BB%83%E5%A4%8F%E8%95%99%E5%89%8D%E4%BC%B4%E4%BE%B6%E9%80%9D%E4%B8%96%E6%9B%BE%E5%82%B3%E9%97%8A%E5%A4%AA%E6%B7%AA%E5%89%A9%E8%90%AC%E5%85%83%E6%A3%BA%E6%9D%90%E6%9C%AC-%E5%8B%A4%E5%8A%9B%E9%96%8B%E5%B7%A5%E8%A1%97%E9%A0%AD%E7%96%91%E9%BB%91%E9%9D%A2",
+    "timestamp": "2026-10-04T22:46:39.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日早晚稍涼最低25度　初時有一兩陣驟雨　明日最低23度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182313996993171456871056.jpeg/Zj27IjSj_3tduKcYK77qKWIXZbkorpuRP4_tUhqP7VI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396110/hotstone-yoga%E7%B5%90%E6%A5%AD-%E6%88%AA%E8%87%B3%E4%B8%8B%E5%8D%886%E6%99%82-%E6%B5%B7%E9%97%9C%E6%8E%A5%E7%8D%B2627%E5%AE%97%E8%88%89%E5%A0%B1%E6%B6%89%E6%AC%BE700%E8%90%AC%E5%85%83",
     "timestamp": "2026-10-03T14:28:17.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蛋糕怎麼分才公平？日本太太「另類切法」獲網民狂讚：這才是真愛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181984775477399552572189.jpeg/iMLQdYa5lerVKpjfjnTxDOjSTSeo-PdsdAIxsXQCMbE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60307824/%E8%9B%8B%E7%B3%95%E6%80%8E%E9%BA%BC%E5%88%86%E6%89%8D%E5%85%AC%E5%B9%B3-%E6%97%A5%E6%9C%AC%E5%A4%AA%E5%A4%AA-%E5%8F%A6%E9%A1%9E%E5%88%87%E6%B3%95-%E7%8D%B2%E7%B6%B2%E6%B0%91%E7%8B%82%E8%AE%9A-%E9%80%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%84%9B",
-    "timestamp": "2026-10-03T12:40:38.011Z",
     "strategy": ".content-card__main"
   }
 ];
