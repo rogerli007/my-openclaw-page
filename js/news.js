@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-03T22:45:23.864Z
+// Last updated: 2026-10-04T00:39:21.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前港姐季軍攜母豪遊倫敦　住五星級酒店歎早餐睇皇家騎兵巡遊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183189536797102080687153.jpeg/qpW7xGpfXfSbAk0qgOe8NJtNsmhYDF8oEC57axAue2s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394957/%E4%BD%95%E8%89%B7%E5%A8%9F%E6%94%9C%E6%AF%8D%E8%B1%AA%E9%81%8A%E5%80%AB%E6%95%A6-%E4%BD%8F%E4%BA%94%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97%E6%AD%8E%E6%97%A9%E9%A4%90%E7%9D%87%E7%9A%87%E5%AE%B6%E9%A8%8E%E5%85%B5%E5%B7%A1%E9%81%8A",
+    "timestamp": "2026-10-04T00:39:21.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人獸交│美國人妻涉與狗發生性行為　夫看cam片揭發　她被捕竟燦笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183040574425403392839605.jpeg/RF0h3iSUzar4_nYLT-6_sek9oubKcHQeBpbQtwaW0Lc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60396010/%E4%BA%9E%E9%81%8B%E6%9C%832026%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E6%91%98%E9%87%91%E5%A4%A2%E6%83%B3%E6%88%90%E7%9C%9F-%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E4%BA%BA%E5%86%8D%E6%B7%BB%E6%96%B0%E5%8F%B2",
     "timestamp": "2026-10-03T05:20:12.652Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026｜黃澤林父親放學後快閃名古屋觀戰　「食飛驒牛慶祝」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183034661794746368324106.png/7_LnaaNhQtTI9doVq3uRm8IrI_T6vpsIU5-zPVOfsz0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60396005/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E9%BB%83%E6%BE%A4%E6%9E%97%E7%88%B6%E8%A6%AA%E6%94%BE%E5%AD%B8%E5%BE%8C%E5%BF%AB%E9%96%83%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%A7%80%E6%88%B0-%E9%A3%9F%E9%A3%9B%E9%A9%92%E7%89%9B%E6%85%B6%E7%A5%9D",
-    "timestamp": "2026-10-03T04:57:44.958Z",
     "strategy": ".content-card__main"
   }
 ];
