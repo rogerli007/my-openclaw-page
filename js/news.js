@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T21:12:26.812Z
+// Last updated: 2026-10-04T21:39:30.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國多家銀行遭網絡攻擊　疑黑客利用AI施襲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5dccfaa2c0c9dc116d9bd3af.jpg/GgWtBPtmiDCEuxUgcph4LdKV-y5c76OKrEnHtqxJx7Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396333/%E9%9F%93%E5%9C%8B%E5%A4%9A%E5%AE%B6%E9%8A%80%E8%A1%8C%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E7%96%91%E9%BB%91%E5%AE%A2%E5%88%A9%E7%94%A8ai%E6%96%BD%E8%A5%B2",
+    "timestamp": "2026-10-04T21:39:30.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄軍無人機襲基輔大橋　澤連斯基：美建議月底前三方會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175548331024191488328794.jpeg/iWNs59Nt-87sHy34mEwD9W17W4msBU5pegMfpnoDH6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396079/%E6%B5%81%E6%84%9F-9%E6%AD%B2%E7%AB%A5%E6%9F%93%E4%B9%99%E6%B5%81%E4%BD%B5%E7%99%BC%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B%E5%8F%8A%E5%9A%B4%E9%87%8D%E8%82%BA%E7%82%8E-%E7%95%99%E9%86%ABpicu%E6%83%85%E6%B3%81%E5%8D%B1%E6%AE%86",
     "timestamp": "2026-10-03T10:35:40.934Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵盛東邨公屋戶入伙放禮炮！鄰居斥炮聲嚇怕貓咪　網民轟︰即扣分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182905190638948352219503.png/IyLxTT1zTp2XcudUVgsnqXFhorLr57HHBAzPqAQMz6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395922/%E8%91%B5%E7%9B%9B%E6%9D%B1%E9%82%A8%E5%85%AC%E5%B1%8B%E6%88%B6%E5%85%A5%E4%BC%99%E6%94%BE%E7%A6%AE%E7%82%AE-%E9%84%B0%E5%B1%85%E6%96%A5%E7%82%AE%E8%81%B2%E5%9A%87%E6%80%95%E8%B2%93%E5%92%AA-%E7%B6%B2%E6%B0%91%E8%BD%9F-%E5%8D%B3%E6%89%A3%E5%88%86",
-    "timestamp": "2026-10-03T10:19:22.594Z",
     "strategy": ".content-card__main"
   }
 ];
