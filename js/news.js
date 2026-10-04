@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T18:00:11.966Z
+// Last updated: 2026-10-04T19:12:20.107Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鑽石山女子疑持刀遊蕩　警慈正邨單位破門拘一女　綁擔架床送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183608988936179712079356.jpeg/HZV04jaDG2vxCP2-7Dj3fn7t8dDsE3T-Shb-f0oW_n8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396331/%E9%91%BD%E7%9F%B3%E5%B1%B1%E5%A5%B3%E5%AD%90%E7%96%91%E6%8C%81%E5%88%80%E9%81%8A%E8%95%A9-%E8%AD%A6%E6%85%88%E6%AD%A3%E9%82%A8%E5%96%AE%E4%BD%8D%E7%A0%B4%E9%96%80%E6%8B%98%E4%B8%80%E5%A5%B3-%E7%B6%81%E6%93%94%E6%9E%B6%E5%BA%8A%E9%80%81%E9%99%A2",
+    "timestamp": "2026-10-04T19:12:20.107Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "亞運會2026︱中大33人學生代表團出征　奪6面獎牌兼刷新香港紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183100638804840448037914.jpeg/9BAR1IZFt6ZKxnCwVe8VQfirSAqSqN2BXSUMyV0lDMk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396063/%E5%A4%AA%E5%AD%90%E6%B1%9D%E6%B4%B2%E8%A1%97%E6%8B%89%E9%BA%B5%E5%BA%97%E8%B5%B7%E7%81%AB-%E8%A1%97%E9%A0%AD%E5%BA%97%E5%85%A7%E6%BF%83%E7%85%99%E5%AF%86%E4%BD%88-%E6%B6%88%E9%98%B2%E6%95%91%E7%86%84%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-10-03T09:20:37.478Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胃癌早期難察！40歲女胃脹罹四期胃癌已轉移肝　醫揭3大奪命警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179418507025059840047619.jpeg/UHpL5Q6PU9KNrZ4o6fxwnU-ny8-D9y3CldvA5ZXbwOU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60391225/%E8%83%83%E7%99%8C%E6%97%A9%E6%9C%9F%E9%9B%A3%E5%AF%9F-40%E6%AD%B2%E5%A5%B3%E8%83%83%E8%84%B9%E7%BD%B9%E5%9B%9B%E6%9C%9F%E8%83%83%E7%99%8C%E5%B7%B2%E8%BD%89%E7%A7%BB%E8%82%9D-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%A5%AA%E5%91%BD%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-10-03T08:50:47.144Z",
     "strategy": ".content-card__main"
   }
 ];
