@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T21:57:56.842Z
+// Last updated: 2026-10-04T22:19:33.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日早晚稍涼最低25度　初時有一兩陣驟雨　明日最低23度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183657707903651840027356.jpeg/aUJkMYqSx95hn8DiizXJuRrRxo5wSPNrywcNDssHDQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60396335/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E7%A8%8D%E6%B6%BC%E6%9C%80%E4%BD%8E25%E5%BA%A6-%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%98%8E%E6%97%A5%E6%9C%80%E4%BD%8E23%E5%BA%A6",
+    "timestamp": "2026-10-04T22:19:33.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國多家銀行遭網絡攻擊　疑黑客利用AI施襲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1181984775477399552572189.jpeg/iMLQdYa5lerVKpjfjnTxDOjSTSeo-PdsdAIxsXQCMbE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60307824/%E8%9B%8B%E7%B3%95%E6%80%8E%E9%BA%BC%E5%88%86%E6%89%8D%E5%85%AC%E5%B9%B3-%E6%97%A5%E6%9C%AC%E5%A4%AA%E5%A4%AA-%E5%8F%A6%E9%A1%9E%E5%88%87%E6%B3%95-%E7%8D%B2%E7%B6%B2%E6%B0%91%E7%8B%82%E8%AE%9A-%E9%80%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%84%9B",
     "timestamp": "2026-10-03T12:40:38.011Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "共喝一杯飲料會得性病？專家揭中招機率　小心鬚刨、毛巾感染風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183024880610709504372586.png/eHxQkkZPvURRIQd4yUgAUgNLC6JilMoB8Ky17_Cste8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60394941/%E5%85%B1%E5%96%9D%E4%B8%80%E6%9D%AF%E9%A3%B2%E6%96%99%E6%9C%83%E5%BE%97%E6%80%A7%E7%97%85-%E5%B0%88%E5%AE%B6%E6%8F%AD%E4%B8%AD%E6%8B%9B%E6%A9%9F%E7%8E%87-%E5%B0%8F%E5%BF%83%E9%AC%9A%E5%88%A8-%E6%AF%9B%E5%B7%BE%E6%84%9F%E6%9F%93%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-10-03T11:08:55.074Z",
     "strategy": ".content-card__main"
   }
 ];
