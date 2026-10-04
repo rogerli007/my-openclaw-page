@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T13:06:23.672Z
+// Last updated: 2026-10-04T15:04:03.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "名古屋亞運閉幕　組委會主席就屢現後勤失誤致歉　稱運作基本順利",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183507598066847744523840.jpeg/qr6C6_leyh31APRvN5DrWcKs8fG2wT-zjtxPObTcTzk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396306/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E9%96%89%E5%B9%95-%E7%B5%84%E5%A7%94%E6%9C%83%E4%B8%BB%E5%B8%AD%E5%B0%B1%E5%B1%A2%E7%8F%BE%E5%BE%8C%E5%8B%A4%E5%A4%B1%E8%AA%A4%E8%87%B4%E6%AD%89-%E7%A8%B1%E9%81%8B%E4%BD%9C%E5%9F%BA%E6%9C%AC%E9%A0%86%E5%88%A9",
+    "timestamp": "2026-10-04T15:04:03.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "主人離世4個月！狗狗曾拒飲食兼天天守窗等候　獸醫：感受到失去",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108436702273212416654109.jpeg/Opdzy4otz_X_FmWrN_DqGcsZVzkD-kLrxqVO0calTtE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391085/%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%BB%8D%E4%BA%94%E4%BB%A3%E6%A9%9F%E5%BE%8C%E6%82%94%E6%B2%92%E9%9B%99%E5%BA%A7-%E6%9A%B4%E5%A2%9Ef-15ex%E8%A8%82%E5%96%AE%E8%87%B3267%E6%9E%B6%E5%B0%8B%E6%B1%82%E7%A0%B4%E5%B1%80%E4%B9%8B%E7%AD%96",
     "timestamp": "2026-10-03T07:39:48.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣州越秀區美食推薦｜4間老店歎早茶吃白切雞　甜品必試鴛鴦撻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182674316223844352270865.jpeg/Hi_wvrar1ParwLOzy2rSYwXEJKEu0QR6FgZZbBYGWWw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60354933/%E5%BB%A3%E5%B7%9E%E8%B6%8A%E7%A7%80%E5%8D%80%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%96%A6-4%E9%96%93%E8%80%81%E5%BA%97%E6%AD%8E%E6%97%A9%E8%8C%B6%E5%90%83%E7%99%BD%E5%88%87%E9%9B%9E-%E7%94%9C%E5%93%81%E5%BF%85%E8%A9%A6%E9%B4%9B%E9%B4%A6%E6%92%BB",
-    "timestamp": "2026-10-03T07:11:28.620Z",
     "strategy": ".content-card__main"
   }
 ];
