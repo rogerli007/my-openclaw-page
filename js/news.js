@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T02:00:15.408Z
+// Last updated: 2026-10-04T08:52:55.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈里梅根頻傳婚變│返英後首外出同框　酒吧十指緊扣食炸魚薯條",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183446911038787584618439.png/rhbrmMFuOGT0DN_0ChiBXRN_vNnYbrTbqyFFb6shRW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396223/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E9%A0%BB%E5%82%B3%E5%A9%9A%E8%AE%8A-%E8%BF%94%E8%8B%B1%E5%BE%8C%E9%A6%96%E5%A4%96%E5%87%BA%E5%90%8C%E6%A1%86-%E9%85%92%E5%90%A7%E5%8D%81%E6%8C%87%E7%B7%8A%E6%89%A3%E9%A3%9F%E7%82%B8%E9%AD%9A%E8%96%AF%E6%A2%9D",
+    "timestamp": "2026-10-04T08:52:55.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《解放軍報》頭版評統一：｢台獨｣膽敢鋌而走險　決不容忍堅決粉碎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183043935828709376275196.jpeg/V2E45PMbij7mqwXnHlY7EcU7ySe4FuUBH7HnGx-x5xs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396012/10-1-%E5%8D%8A%E5%83%B9%E7%9D%87%E5%A5%BD%E6%88%B2-%E5%85%A8%E6%B8%AF52%E6%88%B2%E9%99%A2%E7%88%86%E6%BB%BF-15-3%E8%90%AC%E5%B8%82%E6%B0%91%E5%85%A5%E5%A0%B4%E5%B8%B6%E5%8B%95%E6%B6%88%E8%B2%BB%E7%86%B1",
     "timestamp": "2026-10-03T06:36:35.983Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命︱屯門石排頭徑女子單位墮下　送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177163586779222016496183.jpeg/jpDW-FDNlyg9lxQqdoCA2uGOL1Ln9SFzvAPw0rwD8NI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396020/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B1%AF%E9%96%80%E7%9F%B3%E6%8E%92%E9%A0%AD%E5%BE%91%E5%A5%B3%E5%AD%90%E5%96%AE%E4%BD%8D%E5%A2%AE%E4%B8%8B-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-03T05:52:57.499Z",
     "strategy": ".content-card__main"
   }
 ];
