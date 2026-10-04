@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T15:04:03.511Z
+// Last updated: 2026-10-04T16:44:51.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭子豪洩《金秘書》獲呂頌賢等加盟　盧瀚霆多謝劇透：佢先夠份量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183572034181926912415872.jpeg/yvcuYWQOqZMCho3ZsNHF72uOfZBS4lybPY4m8D2OJvA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396315/%E9%83%AD%E5%AD%90%E8%B1%AA%E6%B4%A9-%E9%87%91%E7%A7%98%E6%9B%B8-%E7%8D%B2%E5%91%82%E9%A0%8C%E8%B3%A2%E7%AD%89%E5%8A%A0%E7%9B%9F-%E7%9B%A7%E7%80%9A%E9%9C%86%E5%A4%9A%E8%AC%9D%E5%8A%87%E9%80%8F-%E4%BD%A2%E5%85%88%E5%A4%A0%E4%BB%BD%E9%87%8F",
+    "timestamp": "2026-10-04T16:44:51.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "名古屋亞運閉幕　組委會主席就屢現後勤失誤致歉　稱運作基本順利",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251123/1069379679632232448859213.jpeg/D9OhaX3ikXa6PB_v6yPEMfqvqgLsaFLoUO7NlVDuzZU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396038/%E6%97%A5%E9%98%B2%E8%A1%9B%E7%9C%81-%E7%BE%8E%E8%BB%8D%E9%A6%96%E5%BA%A6%E5%9C%A8%E8%88%87%E9%82%A3%E5%9C%8B%E5%B3%B6%E9%83%A8%E7%BD%B2%E5%8F%8D%E8%89%A6%E5%B0%8E%E5%BD%88%E7%B3%BB%E7%B5%B1-%E8%B7%9D%E5%8F%B0%E7%81%A3110%E5%85%AC%E9%87%8C",
     "timestamp": "2026-10-03T08:25:53.953Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國空軍五代機後悔沒雙座？暴增F-15EX訂單至267架尋求破局之策",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108436702273212416654109.jpeg/Opdzy4otz_X_FmWrN_DqGcsZVzkD-kLrxqVO0calTtE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60391085/%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%BB%8D%E4%BA%94%E4%BB%A3%E6%A9%9F%E5%BE%8C%E6%82%94%E6%B2%92%E9%9B%99%E5%BA%A7-%E6%9A%B4%E5%A2%9Ef-15ex%E8%A8%82%E5%96%AE%E8%87%B3267%E6%9E%B6%E5%B0%8B%E6%B1%82%E7%A0%B4%E5%B1%80%E4%B9%8B%E7%AD%96",
-    "timestamp": "2026-10-03T07:39:48.712Z",
     "strategy": ".content-card__main"
   }
 ];
