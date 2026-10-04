@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T22:55:13.915Z
+// Last updated: 2026-10-04T23:19:53.341Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鑽石山女子持刀指嚇港鐵職員索八達通卡、紙鈔　行劫不果回家被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183672936381288448307925.jpeg/U9k4ffl8GlEwasNRr-kIquHUFGMwL9lAUV_bRHtf20Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396343/%E9%91%BD%E7%9F%B3%E5%B1%B1%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E6%8C%87%E5%9A%87%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1%E7%B4%A2%E5%85%AB%E9%81%94%E9%80%9A%E5%8D%A1-%E7%B4%99%E9%88%94-%E8%A1%8C%E5%8A%AB%E4%B8%8D%E6%9E%9C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-04T23:19:53.341Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜航空企圖恐襲案｜以媒：副機師原擬駕機撞向特拉維夫機場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183221549004492800912708.jpeg/BClQao7IsI8fy_v9nsiM_fVtz73CTEqPeGdVU3hnVVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60396118/%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E5%80%AB%E6%95%A6%E8%BE%A6%E6%B3%95%E5%BE%8B%E7%B3%BB%E5%AD%B8%E7%94%9F%E8%AC%9B%E5%BA%A7-%E4%B8%BB%E5%B8%AD%E6%AF%9B%E6%A8%82%E7%A6%AE%E9%BC%93%E5%8B%B5%E4%BA%BA%E6%89%8D%E5%9C%A8%E6%B8%AF%E7%99%BC%E5%B1%95",
     "timestamp": "2026-10-03T17:09:37.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《蘭香如故》全劇僅兩場吻戲　譚松韻劉學義雪中吻被爆屬臨時加拍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183115015733907456089143.png/k-vqIM31c-Ql1VE7bHRhRi7LR_umKSQ8j9wYBY_cGAU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396068/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E5%85%A8%E5%8A%87%E5%83%85%E5%85%A9%E5%A0%B4%E5%90%BB%E6%88%B2-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%8A%89%E5%AD%B8%E7%BE%A9%E9%9B%AA%E4%B8%AD%E5%90%BB%E8%A2%AB%E7%88%86%E5%B1%AC%E8%87%A8%E6%99%82%E5%8A%A0%E6%8B%8D",
-    "timestamp": "2026-10-03T15:44:38.225Z",
     "strategy": ".content-card__main"
   }
 ];
