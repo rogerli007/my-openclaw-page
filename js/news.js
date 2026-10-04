@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T08:52:55.163Z
+// Last updated: 2026-10-04T13:06:23.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "主人離世4個月！狗狗曾拒飲食兼天天守窗等候　獸醫：感受到失去",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182875722306293760980675.png/YoKuOnB-HnefyRmExdT5Ka1MiFYsi4HyIr4_UCK-P1A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395052/%E4%B8%BB%E4%BA%BA%E9%9B%A2%E4%B8%964%E5%80%8B%E6%9C%88-%E7%8B%97%E7%8B%97%E6%9B%BE%E6%8B%92%E9%A3%B2%E9%A3%9F%E5%85%BC%E5%A4%A9%E5%A4%A9%E5%AE%88%E7%AA%97%E7%AD%89%E5%80%99-%E7%8D%B8%E9%86%AB-%E6%84%9F%E5%8F%97%E5%88%B0%E5%A4%B1%E5%8E%BB",
+    "timestamp": "2026-10-04T13:06:23.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈里梅根頻傳婚變│返英後首外出同框　酒吧十指緊扣食炸魚薯條",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182674316223844352270865.jpeg/Hi_wvrar1ParwLOzy2rSYwXEJKEu0QR6FgZZbBYGWWw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60354933/%E5%BB%A3%E5%B7%9E%E8%B6%8A%E7%A7%80%E5%8D%80%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%96%A6-4%E9%96%93%E8%80%81%E5%BA%97%E6%AD%8E%E6%97%A9%E8%8C%B6%E5%90%83%E7%99%BD%E5%88%87%E9%9B%9E-%E7%94%9C%E5%93%81%E5%BF%85%E8%A9%A6%E9%B4%9B%E9%B4%A6%E6%92%BB",
     "timestamp": "2026-10-03T07:11:28.620Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "10.1 半價睇好戲｜全港52戲院爆滿　15.3萬市民入場帶動消費熱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183043935828709376275196.jpeg/V2E45PMbij7mqwXnHlY7EcU7ySe4FuUBH7HnGx-x5xs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396012/10-1-%E5%8D%8A%E5%83%B9%E7%9D%87%E5%A5%BD%E6%88%B2-%E5%85%A8%E6%B8%AF52%E6%88%B2%E9%99%A2%E7%88%86%E6%BB%BF-15-3%E8%90%AC%E5%B8%82%E6%B0%91%E5%85%A5%E5%A0%B4%E5%B8%B6%E5%8B%95%E6%B6%88%E8%B2%BB%E7%86%B1",
-    "timestamp": "2026-10-03T06:36:35.983Z",
     "strategy": ".content-card__main"
   }
 ];
