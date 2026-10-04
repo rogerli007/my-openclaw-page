@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T19:12:20.107Z
+// Last updated: 2026-10-04T20:19:16.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大嶼山印度夫婦家中值80萬珠寶被偷　警拘女傭涉盜竊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250816/1033371865025875968594123.jpeg/Hoch80NnvWUNy3TYmpmDp1UbmZ06Q0R-fcuxrX3Lsa0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396334/%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%8D%B0%E5%BA%A6%E5%A4%AB%E5%A9%A6%E5%AE%B6%E4%B8%AD%E5%80%BC80%E8%90%AC%E7%8F%A0%E5%AF%B6%E8%A2%AB%E5%81%B7-%E8%AD%A6%E6%8B%98%E5%A5%B3%E5%82%AD%E6%B6%89%E7%9B%9C%E7%AB%8A",
+    "timestamp": "2026-10-04T20:19:16.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鑽石山女子疑持刀遊蕩　警慈正邨單位破門拘一女　綁擔架床送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109183797465088508137.jpeg/K0Pm45iW9bUGHrlnFx2EVAuS7J6u3kBQhyf4oYcn-KE?v=w1920",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60396071/%E6%9C%89%E7%89%87-%E7%8F%A0%E6%B5%B7%E9%95%B7%E9%9A%86%E6%B5%B7%E8%B1%9A%E7%AA%81%E8%A1%9D%E5%87%BA%E6%B0%B4%E6%B1%A0%E5%BC%95%E8%A7%80%E7%9C%BE%E9%A9%9A%E5%91%BC-%E5%9C%92%E6%96%B9%E7%B7%8A%E6%80%A5%E6%95%91%E8%AD%B7%E7%84%A1%E5%A4%A7%E7%A4%99",
     "timestamp": "2026-10-03T09:54:39.874Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太子汝洲街拉麵店起火　街頭店內濃煙密佈　消防救熄幸無人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183100638804840448037914.jpeg/9BAR1IZFt6ZKxnCwVe8VQfirSAqSqN2BXSUMyV0lDMk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396063/%E5%A4%AA%E5%AD%90%E6%B1%9D%E6%B4%B2%E8%A1%97%E6%8B%89%E9%BA%B5%E5%BA%97%E8%B5%B7%E7%81%AB-%E8%A1%97%E9%A0%AD%E5%BA%97%E5%85%A7%E6%BF%83%E7%85%99%E5%AF%86%E4%BD%88-%E6%B6%88%E9%98%B2%E6%95%91%E7%86%84%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-10-03T09:20:37.478Z",
     "strategy": ".content-card__main"
   }
 ];
