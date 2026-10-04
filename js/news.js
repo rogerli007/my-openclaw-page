@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T22:46:39.219Z
+// Last updated: 2026-10-04T22:55:13.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜拜航空企圖恐襲案｜以媒：副機師原擬駕機撞向特拉維夫機場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183645101713264640379426.jpeg/lgaOMNSM_-rnHWuIL5M1EaFaA3bhkI1b4JdbtuCXW7Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396339/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E4%BC%81%E5%9C%96%E6%81%90%E8%A5%B2%E6%A1%88-%E4%BB%A5%E5%AA%92-%E5%89%AF%E6%A9%9F%E5%B8%AB%E5%8E%9F%E6%93%AC%E9%A7%95%E6%A9%9F%E6%92%9E%E5%90%91%E7%89%B9%E6%8B%89%E7%B6%AD%E5%A4%AB%E6%A9%9F%E5%A0%B4",
+    "timestamp": "2026-10-04T22:55:13.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "知名女星前伴侶逝世曾傳闊太變剩萬元棺材本　勤力開工街頭疑黑面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183115015733907456089143.png/k-vqIM31c-Ql1VE7bHRhRi7LR_umKSQ8j9wYBY_cGAU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396068/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E5%85%A8%E5%8A%87%E5%83%85%E5%85%A9%E5%A0%B4%E5%90%BB%E6%88%B2-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%8A%89%E5%AD%B8%E7%BE%A9%E9%9B%AA%E4%B8%AD%E5%90%BB%E8%A2%AB%E7%88%86%E5%B1%AC%E8%87%A8%E6%99%82%E5%8A%A0%E6%8B%8D",
     "timestamp": "2026-10-03T15:44:38.225Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Hotstone Yoga結業｜截至下午6時　海關接獲627宗舉報涉款700萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182313996993171456871056.jpeg/Zj27IjSj_3tduKcYK77qKWIXZbkorpuRP4_tUhqP7VI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396110/hotstone-yoga%E7%B5%90%E6%A5%AD-%E6%88%AA%E8%87%B3%E4%B8%8B%E5%8D%886%E6%99%82-%E6%B5%B7%E9%97%9C%E6%8E%A5%E7%8D%B2627%E5%AE%97%E8%88%89%E5%A0%B1%E6%B6%89%E6%AC%BE700%E8%90%AC%E5%85%83",
-    "timestamp": "2026-10-03T14:28:17.892Z",
     "strategy": ".content-card__main"
   }
 ];
