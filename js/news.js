@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T23:19:53.341Z
+// Last updated: 2026-10-04T23:38:30.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何艷娟罕有談及「30億前夫」關係　直言與吳志誠如家人般緊密",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040082121047543808768349.jpeg/tSNcsUxJlerFqQKtv_1JzoonKaLkuMynJ4wU9B2MFPQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396330/%E4%BD%95%E8%89%B7%E5%A8%9F%E7%BD%95%E6%9C%89%E8%AB%87%E5%8F%8A-30%E5%84%84%E5%89%8D%E5%A4%AB-%E9%97%9C%E4%BF%82-%E7%9B%B4%E8%A8%80%E8%88%87%E5%90%B3%E5%BF%97%E8%AA%A0%E5%A6%82%E5%AE%B6%E4%BA%BA%E8%88%AC%E7%B7%8A%E5%AF%86",
+    "timestamp": "2026-10-04T23:38:30.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鑽石山女子持刀指嚇港鐵職員索八達通卡、紙鈔　行劫不果回家被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183232221033533440368724.jpeg/lGCWAeZxogEqwIOsV3uq2Ku9CQYUNDP-MXz8Swt8_Es?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396121/%E7%AD%86%E6%9E%B6%E5%B1%B1%E8%B1%AA%E5%AE%85beacon-peak%E5%96%AE%E4%BD%8D%E9%81%87%E7%AB%8A-28%E6%AD%B2%E7%94%B7%E6%90%8D%E5%A4%B1-80%E8%90%AC%E8%B2%A1%E7%89%A9",
     "timestamp": "2026-10-03T18:24:56.368Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大律師公會倫敦辦法律系學生講座　主席毛樂禮鼓勵人才在港發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183221549004492800912708.jpeg/BClQao7IsI8fy_v9nsiM_fVtz73CTEqPeGdVU3hnVVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60396118/%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E5%80%AB%E6%95%A6%E8%BE%A6%E6%B3%95%E5%BE%8B%E7%B3%BB%E5%AD%B8%E7%94%9F%E8%AC%9B%E5%BA%A7-%E4%B8%BB%E5%B8%AD%E6%AF%9B%E6%A8%82%E7%A6%AE%E9%BC%93%E5%8B%B5%E4%BA%BA%E6%89%8D%E5%9C%A8%E6%B8%AF%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-10-03T17:09:37.003Z",
     "strategy": ".content-card__main"
   }
 ];
