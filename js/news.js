@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T21:39:30.845Z
+// Last updated: 2026-10-04T21:57:56.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國多家銀行遭網絡攻擊　疑黑客利用AI施襲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5dccfaa2c0c9dc116d9bd3af.jpg/GgWtBPtmiDCEuxUgcph4LdKV-y5c76OKrEnHtqxJx7Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396333/%E9%9F%93%E5%9C%8B%E5%A4%9A%E5%AE%B6%E9%8A%80%E8%A1%8C%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E7%96%91%E9%BB%91%E5%AE%A2%E5%88%A9%E7%94%A8ai%E6%96%BD%E8%A5%B2",
+    "timestamp": "2026-10-04T21:57:56.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國多家銀行遭網絡攻擊　疑黑客利用AI施襲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183024880610709504372586.png/eHxQkkZPvURRIQd4yUgAUgNLC6JilMoB8Ky17_Cste8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60394941/%E5%85%B1%E5%96%9D%E4%B8%80%E6%9D%AF%E9%A3%B2%E6%96%99%E6%9C%83%E5%BE%97%E6%80%A7%E7%97%85-%E5%B0%88%E5%AE%B6%E6%8F%AD%E4%B8%AD%E6%8B%9B%E6%A9%9F%E7%8E%87-%E5%B0%8F%E5%BF%83%E9%AC%9A%E5%88%A8-%E6%AF%9B%E5%B7%BE%E6%84%9F%E6%9F%93%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-10-03T11:08:55.074Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流感｜9歲童染乙流併發敗血性休克及嚴重肺炎　留醫PICU情況危殆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260912/1175548331024191488328794.jpeg/iWNs59Nt-87sHy34mEwD9W17W4msBU5pegMfpnoDH6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396079/%E6%B5%81%E6%84%9F-9%E6%AD%B2%E7%AB%A5%E6%9F%93%E4%B9%99%E6%B5%81%E4%BD%B5%E7%99%BC%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B%E5%8F%8A%E5%9A%B4%E9%87%8D%E8%82%BA%E7%82%8E-%E7%95%99%E9%86%ABpicu%E6%83%85%E6%B3%81%E5%8D%B1%E6%AE%86",
-    "timestamp": "2026-10-03T10:35:40.934Z",
     "strategy": ".content-card__main"
   }
 ];
