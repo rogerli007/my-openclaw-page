@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T21:56:05.986Z
+// Last updated: 2026-10-05T22:21:21.222Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致多雲乾燥　早上稍涼各區普遍約23度　日間最高29度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184020224257691648801259.jpeg/mDdzdwABKE-OWsXrBIZs2wNHTGWY4wAwjSeIUI0niFA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60396648/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E4%B9%BE%E7%87%A5-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC%E5%90%84%E5%8D%80%E6%99%AE%E9%81%8D%E7%B4%8423%E5%BA%A6-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9829%E5%BA%A6",
+    "timestamp": "2026-10-05T22:21:21.222Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福島第24輪核污水排海　新一輪排放量約7800噸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179510328036298752152097.jpeg/jYxRPdlTZ_IDMSA94ipri2FuFWIiKlYeMWsAAjFrAAI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396606/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%94%A1%E6%AF%8D%E6%8C%87%E9%84%BA%E6%B8%AF%E6%99%BA%E7%A8%B1%E5%81%9A%E7%94%9F%E6%84%8F-%E6%9B%BE%E7%B4%A2%E6%AC%BE%E9%80%BE7%E5%8D%83%E8%90%AC-1%E8%9A%8A%E9%83%BD%E7%84%A1%E6%8B%8E%E8%BF%94%E5%9A%9F",
     "timestamp": "2026-10-05T11:48:08.834Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大律師公會丹麥出席國際律師協會年會　毛樂禮推廣香港司法優勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183853480599883776594016.jpeg/BwCtwgSipWHFI1js02Qq3FT4RKBLSqcwRhH9REYR_UQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60396597/%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E4%B8%B9%E9%BA%A5%E5%87%BA%E5%B8%AD%E5%9C%8B%E9%9A%9B%E5%BE%8B%E5%B8%AB%E5%8D%94%E6%9C%83%E5%B9%B4%E6%9C%83-%E6%AF%9B%E6%A8%82%E7%A6%AE%E6%8E%A8%E5%BB%A3%E9%A6%99%E6%B8%AF%E5%8F%B8%E6%B3%95%E5%84%AA%E5%8B%A2",
-    "timestamp": "2026-10-05T11:01:34.286Z",
     "strategy": ".content-card__main"
   }
 ];
