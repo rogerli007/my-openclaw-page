@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T16:24:29.888Z
+// Last updated: 2026-10-05T16:48:39.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜「大圍名物」火爆姐同節目組嘈　仲屈摸胸：你性侵犯我",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183905859760033792276984.jpeg/0qUMDv33iVq09f6Nj1HCniSnImdJ13Q0qSn0gqkp9II?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396637/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A4%A7%E5%9C%8D%E5%90%8D%E7%89%A9-%E7%81%AB%E7%88%86%E5%A7%90%E5%90%8C%E7%AF%80%E7%9B%AE%E7%B5%84%E5%98%88-%E4%BB%B2%E5%B1%88%E6%91%B8%E8%83%B8-%E4%BD%A0%E6%80%A7%E4%BE%B5%E7%8A%AF%E6%88%91",
+    "timestamp": "2026-10-05T16:48:39.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麻婆豆腐食譜｜煮法簡易零失敗20分鐘完成、豆腐炒不爛有秘訣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250905/1040648086034059264702516.jpeg/mMpbZdIjaIko6Gqc5wRefAwC0nMZOLzRvWkdlL1pHZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60396261/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AC%AC%E4%B8%80%E8%82%A1-%E9%A0%AD%E9%8A%9C-anthropic%E5%80%BC2%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%97%8E",
     "timestamp": "2026-10-05T04:01:05.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Supper Moment演唱會2026澳門｜門票公售攻略+連結+座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180141434024497152849052.jpeg/pU-on3q2MfxxO70o5ojw3_0IxQkU9jYFhYVJPoWFST4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393716/supper-moment%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-10-05T03:31:01.425Z",
     "strategy": ".content-card__main"
   }
 ];
