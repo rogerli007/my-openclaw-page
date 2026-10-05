@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T22:44:01.738Z
+// Last updated: 2026-10-05T22:54:18.795Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "58歲前小生近照曝光！曾遭嫩妻背叛賣西貢村屋　發福身形惹熱議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183913384190414848683512.jpeg/EXyUVK8zatv9EshET7vCvoW9O0odtlvQdFKkh3RSpIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396574/%E9%AD%8F%E9%A7%BF%E5%82%91%E8%A2%AB%E5%89%8D%E5%A6%BB%E8%83%8C%E5%8F%9B%E9%9B%A2%E5%A9%9A%E4%B8%80%E4%BA%BA%E6%B9%8A%E5%A5%B3-58%E6%AD%B2%E7%9D%80%E8%83%8C%E5%BF%83%E7%9F%AD%E8%A4%B2%E7%8D%A8%E5%9D%90%E7%8E%A9%E9%9B%BB%E8%A9%B1%E5%8B%81%E9%9A%A8%E6%84%8F",
+    "timestamp": "2026-10-05T22:54:18.795Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "58歲前小生近照曝光！曾遭嫩妻背叛賣西貢村屋　發福身形惹熱議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183833038061047808128036.jpeg/pyzvEe-N6nrcSlGh-nNeZDpzh4OS9L1GaYPP8mmDz_I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396549/%E6%A2%81%E6%9C%9D%E5%81%89%E7%9D%87%E7%BF%81%E5%AD%90%E5%85%89%E6%96%B0%E7%89%87-%E8%B6%85%E9%A2%A8-%E5%BE%B9%E5%A4%9C%E9%9B%A3%E7%9C%A0-%E6%B7%B1%E6%80%9D%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E7%8F%BE%E5%AF%A6%E8%99%95%E5%A2%83",
     "timestamp": "2026-10-05T12:32:22.740Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "赤柱豪宅缺鋼筋｜倪學仁：承建商等或涉虛假陳述　發展商責任難料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396595/%E8%B5%A4%E6%9F%B1%E8%B1%AA%E5%AE%85%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%80%AA%E5%AD%B8%E4%BB%81-%E6%89%BF%E5%BB%BA%E5%95%86%E7%AD%89%E6%88%96%E6%B6%89%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0-%E7%99%BC%E5%B1%95%E5%95%86%E8%B2%AC%E4%BB%BB%E9%9B%A3%E6%96%99",
-    "timestamp": "2026-10-05T11:57:09.320Z",
     "strategy": ".content-card__main"
   }
 ];
