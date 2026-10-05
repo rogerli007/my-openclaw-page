@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T18:27:51.801Z
+// Last updated: 2026-10-05T18:52:07.686Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
+    "timestamp": "2026-10-05T18:52:07.686Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183783884559486976081524.png/RWpnBEyh9ZdQOVnvNTX5WVj5mj6wb51TkuJvYpLib2I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396440/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E5%A4%A7%E7%B5%90%E5%B1%80%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E4%BB%8A%E6%97%A5%E8%A7%A3%E9%8E%96%E9%BB%9E%E6%98%A0%E7%A6%AE%E5%8C%85-%E9%A8%B0%E8%A8%8A%E9%80%A3%E5%81%9C%E6%9B%B4%E5%85%A9%E5%A4%A9",
     "timestamp": "2026-10-05T06:58:41.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地交流｜「滾動」的公民課：傷健學生的無障礙深港考察體驗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182641302597013504346981.png/awfjh4t8xe6K8HZGFXuAySzG4oyCgEhZ98Eod_fBKHc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60395707/%E5%85%A7%E5%9C%B0%E4%BA%A4%E6%B5%81-%E6%BB%BE%E5%8B%95-%E7%9A%84%E5%85%AC%E6%B0%91%E8%AA%B2-%E5%82%B7%E5%81%A5%E5%AD%B8%E7%94%9F%E7%9A%84%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B7%B1%E6%B8%AF%E8%80%83%E5%AF%9F%E9%AB%94%E9%A9%97",
-    "timestamp": "2026-10-05T06:04:56.646Z",
     "strategy": ".content-card__main"
   }
 ];
