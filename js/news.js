@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T22:21:21.222Z
+// Last updated: 2026-10-05T22:44:01.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "58歲前小生近照曝光！曾遭嫩妻背叛賣西貢村屋　發福身形惹熱議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183913384190414848683512.jpeg/EXyUVK8zatv9EshET7vCvoW9O0odtlvQdFKkh3RSpIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396574/%E9%AD%8F%E9%A7%BF%E5%82%91%E8%A2%AB%E5%89%8D%E5%A6%BB%E8%83%8C%E5%8F%9B%E9%9B%A2%E5%A9%9A%E4%B8%80%E4%BA%BA%E6%B9%8A%E5%A5%B3-58%E6%AD%B2%E7%9D%80%E8%83%8C%E5%BF%83%E7%9F%AD%E8%A4%B2%E7%8D%A8%E5%9D%90%E7%8E%A9%E9%9B%BB%E8%A9%B1%E5%8B%81%E9%9A%A8%E6%84%8F",
+    "timestamp": "2026-10-05T22:44:01.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致多雲乾燥　早上稍涼各區普遍約23度　日間最高29度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396595/%E8%B5%A4%E6%9F%B1%E8%B1%AA%E5%AE%85%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%80%AA%E5%AD%B8%E4%BB%81-%E6%89%BF%E5%BB%BA%E5%95%86%E7%AD%89%E6%88%96%E6%B6%89%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0-%E7%99%BC%E5%B1%95%E5%95%86%E8%B2%AC%E4%BB%BB%E9%9B%A3%E6%96%99",
     "timestamp": "2026-10-05T11:57:09.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜蔡母指鄺港智稱做生意　曾索款逾7千萬　1蚊都無拎返嚟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179510328036298752152097.jpeg/jYxRPdlTZ_IDMSA94ipri2FuFWIiKlYeMWsAAjFrAAI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396606/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%94%A1%E6%AF%8D%E6%8C%87%E9%84%BA%E6%B8%AF%E6%99%BA%E7%A8%B1%E5%81%9A%E7%94%9F%E6%84%8F-%E6%9B%BE%E7%B4%A2%E6%AC%BE%E9%80%BE7%E5%8D%83%E8%90%AC-1%E8%9A%8A%E9%83%BD%E7%84%A1%E6%8B%8E%E8%BF%94%E5%9A%9F",
-    "timestamp": "2026-10-05T11:48:08.834Z",
     "strategy": ".content-card__main"
   }
 ];
