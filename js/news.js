@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T04:01:05.537Z
+// Last updated: 2026-10-05T05:13:50.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "買雞蛋洗乾淨先放雪櫃？一家三口食炒蛋中毒 專家:越洗越易養菌！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183759526420025344745316.png/ArABZnGWuxKcYnIT90bz2KWAL0BEVQGphwTr94cE6_c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396411/%E8%B2%B7%E9%9B%9E%E8%9B%8B%E6%B4%97%E4%B9%BE%E6%B7%A8%E5%85%88%E6%94%BE%E9%9B%AA%E6%AB%83-%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E9%A3%9F%E7%82%92%E8%9B%8B%E4%B8%AD%E6%AF%92-%E5%B0%88%E5%AE%B6-%E8%B6%8A%E6%B4%97%E8%B6%8A%E6%98%93%E9%A4%8A%E8%8F%8C",
+    "timestamp": "2026-10-05T05:13:50.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜「全球大模型第一股」頭銜　Anthropic值2萬億美元嗎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183572034181926912415872.jpeg/yvcuYWQOqZMCho3ZsNHF72uOfZBS4lybPY4m8D2OJvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396315/%E9%83%AD%E5%AD%90%E8%B1%AA%E6%B4%A9-%E9%87%91%E7%A7%98%E6%9B%B8-%E7%8D%B2%E5%91%82%E9%A0%8C%E8%B3%A2%E7%AD%89%E5%8A%A0%E7%9B%9F-%E7%9B%A7%E7%80%9A%E9%9C%86%E5%A4%9A%E8%AC%9D%E5%8A%87%E9%80%8F-%E4%BD%A2%E5%85%88%E5%A4%A0%E4%BB%BD%E9%87%8F",
     "timestamp": "2026-10-04T16:44:51.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "名古屋亞運閉幕　組委會主席就屢現後勤失誤致歉　稱運作基本順利",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183507598066847744523840.jpeg/qr6C6_leyh31APRvN5DrWcKs8fG2wT-zjtxPObTcTzk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396306/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E9%96%89%E5%B9%95-%E7%B5%84%E5%A7%94%E6%9C%83%E4%B8%BB%E5%B8%AD%E5%B0%B1%E5%B1%A2%E7%8F%BE%E5%BE%8C%E5%8B%A4%E5%A4%B1%E8%AA%A4%E8%87%B4%E6%AD%89-%E7%A8%B1%E9%81%8B%E4%BD%9C%E5%9F%BA%E6%9C%AC%E9%A0%86%E5%88%A9",
-    "timestamp": "2026-10-04T15:04:03.511Z",
     "strategy": ".content-card__main"
   }
 ];
