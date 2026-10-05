@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T06:04:56.646Z
+// Last updated: 2026-10-05T06:58:41.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭香如故大結局最新追劇日曆！今日解鎖點映禮包　騰訊連停更兩天",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183783884559486976081524.png/RWpnBEyh9ZdQOVnvNTX5WVj5mj6wb51TkuJvYpLib2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396440/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E5%A4%A7%E7%B5%90%E5%B1%80%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E4%BB%8A%E6%97%A5%E8%A7%A3%E9%8E%96%E9%BB%9E%E6%98%A0%E7%A6%AE%E5%8C%85-%E9%A8%B0%E8%A8%8A%E9%80%A3%E5%81%9C%E6%9B%B4%E5%85%A9%E5%A4%A9",
+    "timestamp": "2026-10-05T06:58:41.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地交流｜「滾動」的公民課：傷健學生的無障礙深港考察體驗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250816/1033371865025875968594123.jpeg/Hoch80NnvWUNy3TYmpmDp1UbmZ06Q0R-fcuxrX3Lsa0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396334/%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%8D%B0%E5%BA%A6%E5%A4%AB%E5%A9%A6%E5%AE%B6%E4%B8%AD%E5%80%BC80%E8%90%AC%E7%8F%A0%E5%AF%B6%E8%A2%AB%E5%81%B7-%E8%AD%A6%E6%8B%98%E5%A5%B3%E5%82%AD%E6%B6%89%E7%9B%9C%E7%AB%8A",
     "timestamp": "2026-10-04T20:19:16.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鑽石山女子疑持刀遊蕩　警慈正邨單位破門拘一女　綁擔架床送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183608988936179712079356.jpeg/HZV04jaDG2vxCP2-7Dj3fn7t8dDsE3T-Shb-f0oW_n8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396331/%E9%91%BD%E7%9F%B3%E5%B1%B1%E5%A5%B3%E5%AD%90%E7%96%91%E6%8C%81%E5%88%80%E9%81%8A%E8%95%A9-%E8%AD%A6%E6%85%88%E6%AD%A3%E9%82%A8%E5%96%AE%E4%BD%8D%E7%A0%B4%E9%96%80%E6%8B%98%E4%B8%80%E5%A5%B3-%E7%B6%81%E6%93%94%E6%9E%B6%E5%BA%8A%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-04T19:12:20.107Z",
     "strategy": ".content-card__main"
   }
 ];
