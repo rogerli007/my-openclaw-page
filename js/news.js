@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T14:25:10.843Z
+// Last updated: 2026-10-05T15:22:26.555Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梁榮忠稱與舊愛鍾麗淇久未聯絡　看新聞才知留醫消息盼能早日康復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183915689941929984387162.jpeg/vzCTTyzuPlnfK2acKiw9-IR9uPMTxyeVskukb7JLpG8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396642/%E6%A2%81%E6%A6%AE%E5%BF%A0%E7%A8%B1%E8%88%87%E8%88%8A%E6%84%9B%E9%8D%BE%E9%BA%97%E6%B7%87%E4%B9%85%E6%9C%AA%E8%81%AF%E7%B5%A1-%E7%9C%8B%E6%96%B0%E8%81%9E%E6%89%8D%E7%9F%A5%E7%95%99%E9%86%AB%E6%B6%88%E6%81%AF%E7%9B%BC%E8%83%BD%E6%97%A9%E6%97%A5%E5%BA%B7%E5%BE%A9",
+    "timestamp": "2026-10-05T15:22:26.555Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國AI企業對中國同行優勢大幅收窄　外界質疑美國晶片管制措施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183110231824011264617823.png/M0GCmqdDrLXVYZFu2-rgtruL3vvX_IAQpvKtDqbyrQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60396013/%E7%B6%B2%E5%94%AE-8-6%E8%8A%AB%E8%8D%BD%E8%A2%AB%E7%94%B3%E5%83%85%E9%80%80%E6%AC%BE-%E8%B3%A3%E5%AE%B6%E9%A7%95%E8%BB%8A%E5%8D%83%E9%87%8C%E5%8F%96%E8%8F%9C-%E5%9A%A5%E4%B8%8D%E4%B8%8B%E6%B0%A3-%E8%BC%BF%E8%AB%96%E5%85%A9%E6%A5%B5",
     "timestamp": "2026-10-05T00:58:45.804Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何艷娟罕有談及「30億前夫」關係　直言與吳志誠如家人般緊密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040082121047543808768349.jpeg/tSNcsUxJlerFqQKtv_1JzoonKaLkuMynJ4wU9B2MFPQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396330/%E4%BD%95%E8%89%B7%E5%A8%9F%E7%BD%95%E6%9C%89%E8%AB%87%E5%8F%8A-30%E5%84%84%E5%89%8D%E5%A4%AB-%E9%97%9C%E4%BF%82-%E7%9B%B4%E8%A8%80%E8%88%87%E5%90%B3%E5%BF%97%E8%AA%A0%E5%A6%82%E5%AE%B6%E4%BA%BA%E8%88%AC%E7%B7%8A%E5%AF%86",
-    "timestamp": "2026-10-04T23:54:46.206Z",
     "strategy": ".content-card__main"
   }
 ];
