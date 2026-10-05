@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T13:00:15.408Z
+// Last updated: 2026-10-05T13:51:58.362Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安德魯向英警提訴訟　質疑愛潑斯坦案住所搜查令合法性　要求撤銷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230613/745413626185125888237160.jpeg/owcTZCuxQhGMVzn0OmG8Uc0eJAcbWlijafrOTGn6zkw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396627/%E5%AE%89%E5%BE%B7%E9%AD%AF%E5%90%91%E8%8B%B1%E8%AD%A6%E6%8F%90%E8%A8%B4%E8%A8%9F-%E8%B3%AA%E7%96%91%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88%E4%BD%8F%E6%89%80%E6%90%9C%E6%9F%A5%E4%BB%A4%E5%90%88%E6%B3%95%E6%80%A7-%E8%A6%81%E6%B1%82%E6%92%A4%E9%8A%B7",
+    "timestamp": "2026-10-05T13:51:58.362Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "實驗員「不明肺炎」亡　俄羅斯首席衛生官赴西伯利亞開防疫特別會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040082121047543808768349.jpeg/tSNcsUxJlerFqQKtv_1JzoonKaLkuMynJ4wU9B2MFPQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396330/%E4%BD%95%E8%89%B7%E5%A8%9F%E7%BD%95%E6%9C%89%E8%AB%87%E5%8F%8A-30%E5%84%84%E5%89%8D%E5%A4%AB-%E9%97%9C%E4%BF%82-%E7%9B%B4%E8%A8%80%E8%88%87%E5%90%B3%E5%BF%97%E8%AA%A0%E5%A6%82%E5%AE%B6%E4%BA%BA%E8%88%AC%E7%B7%8A%E5%AF%86",
     "timestamp": "2026-10-04T23:45:53.782Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何艷娟罕有談及「30億前夫」關係　直言與吳志誠如家人般緊密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040082121047543808768349.jpeg/tSNcsUxJlerFqQKtv_1JzoonKaLkuMynJ4wU9B2MFPQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396330/%E4%BD%95%E8%89%B7%E5%A8%9F%E7%BD%95%E6%9C%89%E8%AB%87%E5%8F%8A-30%E5%84%84%E5%89%8D%E5%A4%AB-%E9%97%9C%E4%BF%82-%E7%9B%B4%E8%A8%80%E8%88%87%E5%90%B3%E5%BF%97%E8%AA%A0%E5%A6%82%E5%AE%B6%E4%BA%BA%E8%88%AC%E7%B7%8A%E5%AF%86",
-    "timestamp": "2026-10-04T23:38:30.531Z",
     "strategy": ".content-card__main"
   }
 ];
