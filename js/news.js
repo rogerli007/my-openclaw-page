@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T18:52:07.686Z
+// Last updated: 2026-10-05T19:56:48.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯疑出現肺鼠疫病例　魯比奧：美方密切關注暫毋須恐慌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1183962652045479936143675.jpeg/IgxWlC4GlMAfRXg1u7057LUEcAapSKSdb6WJKm-liSo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396651/%E4%BF%84%E7%BE%85%E6%96%AF%E7%96%91%E5%87%BA%E7%8F%BE%E8%82%BA%E9%BC%A0%E7%96%AB%E7%97%85%E4%BE%8B-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E6%96%B9%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E6%9A%AB%E6%AF%8B%E9%A0%88%E6%81%90%E6%85%8C",
+    "timestamp": "2026-10-05T19:56:48.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183799600436219904098712.jpeg/f5agvWnxO4SZeBDahy3HwDGsQ9NJMeqmy3j7-8t4-_s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60396493/%E7%BF%92%E7%89%B9%E6%9C%83%E4%B8%8A%E4%B8%AD%E7%BE%8E%E9%AB%98%E5%94%B1-%E4%BA%8C%E6%88%B0%E8%81%AF%E7%9B%9F-%E8%AE%93%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%BE%8E%E5%A4%A2-%E4%B8%80%E5%A0%B4%E7%A9%BA",
     "timestamp": "2026-10-05T07:44:43.652Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭香如故大結局最新追劇日曆！今日解鎖點映禮包　騰訊連停更兩天",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183783884559486976081524.png/RWpnBEyh9ZdQOVnvNTX5WVj5mj6wb51TkuJvYpLib2I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396440/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E5%A4%A7%E7%B5%90%E5%B1%80%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E4%BB%8A%E6%97%A5%E8%A7%A3%E9%8E%96%E9%BB%9E%E6%98%A0%E7%A6%AE%E5%8C%85-%E9%A8%B0%E8%A8%8A%E9%80%A3%E5%81%9C%E6%9B%B4%E5%85%A9%E5%A4%A9",
-    "timestamp": "2026-10-05T06:58:41.003Z",
     "strategy": ".content-card__main"
   }
 ];
