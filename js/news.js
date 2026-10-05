@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T00:58:45.804Z
+// Last updated: 2026-10-05T01:44:50.806Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《泰晤士報》：英國擬對中國進口電動車加徵關稅　或高達45%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240922/914574101543129088169482.jpeg/EgJzxLn9mNxRA-hPQmIcEk8y9YdyCuFEGvB6-xrwevs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396352/%E6%B3%B0%E6%99%A4%E5%A3%AB%E5%A0%B1-%E8%8B%B1%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E6%88%96%E9%AB%98%E9%81%9445",
+    "timestamp": "2026-10-05T01:44:50.806Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網售¥8.6芫荽被申僅退款　賣家駕車千里取菜：嚥不下氣　輿論兩極",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183352472278667264879051.png/R3mJTvPZbvgUiiBmG_Mf6EmkHX9JCu2nHjmw0h45sNI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60396141/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%A0%B1-%E9%A0%AD%E7%89%88%E8%A9%95%E7%B5%B1%E4%B8%80-%E5%8F%B0%E7%8D%A8-%E8%86%BD%E6%95%A2%E9%8B%8C%E8%80%8C%E8%B5%B0%E9%9A%AA-%E6%B1%BA%E4%B8%8D%E5%AE%B9%E5%BF%8D%E5%A0%85%E6%B1%BA%E7%B2%89%E7%A2%8E",
     "timestamp": "2026-10-04T02:00:15.408Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前港姐季軍攜母豪遊倫敦　住五星級酒店歎早餐睇皇家騎兵巡遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183189536797102080687153.jpeg/qpW7xGpfXfSbAk0qgOe8NJtNsmhYDF8oEC57axAue2s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394957/%E4%BD%95%E8%89%B7%E5%A8%9F%E6%94%9C%E6%AF%8D%E8%B1%AA%E9%81%8A%E5%80%AB%E6%95%A6-%E4%BD%8F%E4%BA%94%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97%E6%AD%8E%E6%97%A9%E9%A4%90%E7%9D%87%E7%9A%87%E5%AE%B6%E9%A8%8E%E5%85%B5%E5%B7%A1%E9%81%8A",
-    "timestamp": "2026-10-04T00:39:21.014Z",
     "strategy": ".content-card__main"
   }
 ];
