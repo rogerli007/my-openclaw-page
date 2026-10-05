@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T15:22:26.555Z
+// Last updated: 2026-10-05T15:47:55.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB收視｜《死有對証》靠口碑連升三周　《愛回家》繼續下跌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183869584575303680386594.jpeg/HDpGnIOnvAQfog5mV0t3_AyFYUp7OJIz9aAw1vWgMNY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396604/tvb%E6%94%B6%E8%A6%96-%E6%AD%BB%E6%9C%89%E5%B0%8D%E8%A8%BC-%E9%9D%A0%E5%8F%A3%E7%A2%91%E9%80%A3%E5%8D%87%E4%B8%89%E5%91%A8-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%B9%BC%E7%BA%8C%E4%B8%8B%E8%B7%8C",
+    "timestamp": "2026-10-05T15:47:55.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁榮忠稱與舊愛鍾麗淇久未聯絡　看新聞才知留醫消息盼能早日康復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240922/914574101543129088169482.jpeg/EgJzxLn9mNxRA-hPQmIcEk8y9YdyCuFEGvB6-xrwevs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396352/%E6%B3%B0%E6%99%A4%E5%A3%AB%E5%A0%B1-%E8%8B%B1%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E6%88%96%E9%AB%98%E9%81%9445",
     "timestamp": "2026-10-05T01:44:50.806Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網售¥8.6芫荽被申僅退款　賣家駕車千里取菜：嚥不下氣　輿論兩極",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183110231824011264617823.png/M0GCmqdDrLXVYZFu2-rgtruL3vvX_IAQpvKtDqbyrQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60396013/%E7%B6%B2%E5%94%AE-8-6%E8%8A%AB%E8%8D%BD%E8%A2%AB%E7%94%B3%E5%83%85%E9%80%80%E6%AC%BE-%E8%B3%A3%E5%AE%B6%E9%A7%95%E8%BB%8A%E5%8D%83%E9%87%8C%E5%8F%96%E8%8F%9C-%E5%9A%A5%E4%B8%8D%E4%B8%8B%E6%B0%A3-%E8%BC%BF%E8%AB%96%E5%85%A9%E6%A5%B5",
-    "timestamp": "2026-10-05T00:58:45.804Z",
     "strategy": ".content-card__main"
   }
 ];
