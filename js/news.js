@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-04T23:54:46.206Z
+// Last updated: 2026-10-05T00:58:45.804Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網售¥8.6芫荽被申僅退款　賣家駕車千里取菜：嚥不下氣　輿論兩極",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183110231824011264617823.png/M0GCmqdDrLXVYZFu2-rgtruL3vvX_IAQpvKtDqbyrQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60396013/%E7%B6%B2%E5%94%AE-8-6%E8%8A%AB%E8%8D%BD%E8%A2%AB%E7%94%B3%E5%83%85%E9%80%80%E6%AC%BE-%E8%B3%A3%E5%AE%B6%E9%A7%95%E8%BB%8A%E5%8D%83%E9%87%8C%E5%8F%96%E8%8F%9C-%E5%9A%A5%E4%B8%8D%E4%B8%8B%E6%B0%A3-%E8%BC%BF%E8%AB%96%E5%85%A9%E6%A5%B5",
+    "timestamp": "2026-10-05T00:58:45.804Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何艷娟罕有談及「30億前夫」關係　直言與吳志誠如家人般緊密",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183189536797102080687153.jpeg/qpW7xGpfXfSbAk0qgOe8NJtNsmhYDF8oEC57axAue2s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60394957/%E4%BD%95%E8%89%B7%E5%A8%9F%E6%94%9C%E6%AF%8D%E8%B1%AA%E9%81%8A%E5%80%AB%E6%95%A6-%E4%BD%8F%E4%BA%94%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97%E6%AD%8E%E6%97%A9%E9%A4%90%E7%9D%87%E7%9A%87%E5%AE%B6%E9%A8%8E%E5%85%B5%E5%B7%A1%E9%81%8A",
     "timestamp": "2026-10-04T00:39:21.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人獸交│美國人妻涉與狗發生性行為　夫看cam片揭發　她被捕竟燦笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183291339094102016759318.png/Dag8IGG74KBJ5eoj3MwxM5S18huBKgnxLuPRbS7j0W0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60395082/%E4%BA%BA%E7%8D%B8%E4%BA%A4-%E7%BE%8E%E5%9C%8B%E4%BA%BA%E5%A6%BB%E6%B6%89%E8%88%87%E7%8B%97%E7%99%BC%E7%94%9F%E6%80%A7%E8%A1%8C%E7%82%BA-%E5%A4%AB%E7%9C%8Bcam%E7%89%87%E6%8F%AD%E7%99%BC-%E5%A5%B9%E8%A2%AB%E6%8D%95%E7%AB%9F%E7%87%A6%E7%AC%91",
-    "timestamp": "2026-10-03T22:45:23.864Z",
     "strategy": ".content-card__main"
   }
 ];
