@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T12:32:22.740Z
+// Last updated: 2026-10-05T13:00:15.408Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "實驗員「不明肺炎」亡　俄羅斯首席衛生官赴西伯利亞開防疫特別會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183763120078721024260415.png/ehHutunHEnCd-fR7R16EdjHBWoVPMWLkZWPGymVjxso?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396617/%E5%AF%A6%E9%A9%97%E5%93%A1-%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E-%E4%BA%A1-%E4%BF%84%E7%BE%85%E6%96%AF%E9%A6%96%E5%B8%AD%E8%A1%9B%E7%94%9F%E5%AE%98%E8%B5%B4%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9E%E9%96%8B%E9%98%B2%E7%96%AB%E7%89%B9%E5%88%A5%E6%9C%83",
+    "timestamp": "2026-10-05T13:00:15.408Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁朝偉睇翁子光新片《超風》徹夜難眠　深思跨性別者現實處境",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250904/1040082121047543808768349.jpeg/tSNcsUxJlerFqQKtv_1JzoonKaLkuMynJ4wU9B2MFPQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396330/%E4%BD%95%E8%89%B7%E5%A8%9F%E7%BD%95%E6%9C%89%E8%AB%87%E5%8F%8A-30%E5%84%84%E5%89%8D%E5%A4%AB-%E9%97%9C%E4%BF%82-%E7%9B%B4%E8%A8%80%E8%88%87%E5%90%B3%E5%BF%97%E8%AA%A0%E5%A6%82%E5%AE%B6%E4%BA%BA%E8%88%AC%E7%B7%8A%E5%AF%86",
     "timestamp": "2026-10-04T23:38:30.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鑽石山女子持刀指嚇港鐵職員索八達通卡、紙鈔　行劫不果回家被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183672936381288448307925.jpeg/U9k4ffl8GlEwasNRr-kIquHUFGMwL9lAUV_bRHtf20Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396343/%E9%91%BD%E7%9F%B3%E5%B1%B1%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E6%8C%87%E5%9A%87%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1%E7%B4%A2%E5%85%AB%E9%81%94%E9%80%9A%E5%8D%A1-%E7%B4%99%E9%88%94-%E8%A1%8C%E5%8A%AB%E4%B8%8D%E6%9E%9C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-04T23:19:53.341Z",
     "strategy": ".content-card__main"
   }
 ];
