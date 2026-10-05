@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T08:52:12.722Z
+// Last updated: 2026-10-05T11:01:34.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大律師公會丹麥出席國際律師協會年會　毛樂禮推廣香港司法優勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183853480599883776594016.jpeg/BwCtwgSipWHFI1js02Qq3FT4RKBLSqcwRhH9REYR_UQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60396597/%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E4%B8%B9%E9%BA%A5%E5%87%BA%E5%B8%AD%E5%9C%8B%E9%9A%9B%E5%BE%8B%E5%B8%AB%E5%8D%94%E6%9C%83%E5%B9%B4%E6%9C%83-%E6%AF%9B%E6%A8%82%E7%A6%AE%E6%8E%A8%E5%BB%A3%E9%A6%99%E6%B8%AF%E5%8F%B8%E6%B3%95%E5%84%AA%E5%8B%A2",
+    "timestamp": "2026-10-05T11:01:34.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃百鳴出獄後最新近照曝光　面露笑容現身餐廳活動被爆將拍賀歲片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183657707903651840027356.jpeg/aUJkMYqSx95hn8DiizXJuRrRxo5wSPNrywcNDssHDQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60396335/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E7%A8%8D%E6%B6%BC%E6%9C%80%E4%BD%8E25%E5%BA%A6-%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%98%8E%E6%97%A5%E6%9C%80%E4%BD%8E23%E5%BA%A6",
     "timestamp": "2026-10-04T22:19:33.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國多家銀行遭網絡攻擊　疑黑客利用AI施襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5dccfaa2c0c9dc116d9bd3af.jpg/GgWtBPtmiDCEuxUgcph4LdKV-y5c76OKrEnHtqxJx7Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396333/%E9%9F%93%E5%9C%8B%E5%A4%9A%E5%AE%B6%E9%8A%80%E8%A1%8C%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E7%96%91%E9%BB%91%E5%AE%A2%E5%88%A9%E7%94%A8ai%E6%96%BD%E8%A5%B2",
-    "timestamp": "2026-10-04T21:57:56.842Z",
     "strategy": ".content-card__main"
   }
 ];
