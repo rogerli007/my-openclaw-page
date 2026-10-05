@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T11:01:34.286Z
+// Last updated: 2026-10-05T11:48:08.834Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜蔡母指鄺港智稱做生意　曾索款逾7千萬　1蚊都無拎返嚟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179510328036298752152097.jpeg/jYxRPdlTZ_IDMSA94ipri2FuFWIiKlYeMWsAAjFrAAI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396606/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%94%A1%E6%AF%8D%E6%8C%87%E9%84%BA%E6%B8%AF%E6%99%BA%E7%A8%B1%E5%81%9A%E7%94%9F%E6%84%8F-%E6%9B%BE%E7%B4%A2%E6%AC%BE%E9%80%BE7%E5%8D%83%E8%90%AC-1%E8%9A%8A%E9%83%BD%E7%84%A1%E6%8B%8E%E8%BF%94%E5%9A%9F",
+    "timestamp": "2026-10-05T11:48:08.834Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大律師公會丹麥出席國際律師協會年會　毛樂禮推廣香港司法優勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183480133231579136108365.jpeg/G_YhaWuqGkkM9ngk8y_c9GKzH6son7arPEVUuzxFVLs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396242/%E9%BB%83%E5%A4%8F%E8%95%99%E5%89%8D%E4%BC%B4%E4%BE%B6%E9%80%9D%E4%B8%96%E6%9B%BE%E5%82%B3%E9%97%8A%E5%A4%AA%E6%B7%AA%E5%89%A9%E8%90%AC%E5%85%83%E6%A3%BA%E6%9D%90%E6%9C%AC-%E5%8B%A4%E5%8A%9B%E9%96%8B%E5%B7%A5%E8%A1%97%E9%A0%AD%E7%96%91%E9%BB%91%E9%9D%A2",
     "timestamp": "2026-10-04T22:46:39.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日早晚稍涼最低25度　初時有一兩陣驟雨　明日最低23度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183657707903651840027356.jpeg/aUJkMYqSx95hn8DiizXJuRrRxo5wSPNrywcNDssHDQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60396335/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E7%A8%8D%E6%B6%BC%E6%9C%80%E4%BD%8E25%E5%BA%A6-%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%A9%9F%E9%9B%A8-%E6%98%8E%E6%97%A5%E6%9C%80%E4%BD%8E23%E5%BA%A6",
-    "timestamp": "2026-10-04T22:19:33.859Z",
     "strategy": ".content-card__main"
   }
 ];
