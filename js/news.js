@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T03:31:01.425Z
+// Last updated: 2026-10-05T04:01:05.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜「全球大模型第一股」頭銜　Anthropic值2萬億美元嗎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250905/1040648086034059264702516.jpeg/mMpbZdIjaIko6Gqc5wRefAwC0nMZOLzRvWkdlL1pHZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60396261/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AC%AC%E4%B8%80%E8%82%A1-%E9%A0%AD%E9%8A%9C-anthropic%E5%80%BC2%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%97%8E",
+    "timestamp": "2026-10-05T04:01:05.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Supper Moment演唱會2026澳門｜門票公售攻略+連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183507598066847744523840.jpeg/qr6C6_leyh31APRvN5DrWcKs8fG2wT-zjtxPObTcTzk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396306/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B%E9%96%89%E5%B9%95-%E7%B5%84%E5%A7%94%E6%9C%83%E4%B8%BB%E5%B8%AD%E5%B0%B1%E5%B1%A2%E7%8F%BE%E5%BE%8C%E5%8B%A4%E5%A4%B1%E8%AA%A4%E8%87%B4%E6%AD%89-%E7%A8%B1%E9%81%8B%E4%BD%9C%E5%9F%BA%E6%9C%AC%E9%A0%86%E5%88%A9",
     "timestamp": "2026-10-04T15:04:03.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "主人離世4個月！狗狗曾拒飲食兼天天守窗等候　獸醫：感受到失去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182875722306293760980675.png/YoKuOnB-HnefyRmExdT5Ka1MiFYsi4HyIr4_UCK-P1A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395052/%E4%B8%BB%E4%BA%BA%E9%9B%A2%E4%B8%964%E5%80%8B%E6%9C%88-%E7%8B%97%E7%8B%97%E6%9B%BE%E6%8B%92%E9%A3%B2%E9%A3%9F%E5%85%BC%E5%A4%A9%E5%A4%A9%E5%AE%88%E7%AA%97%E7%AD%89%E5%80%99-%E7%8D%B8%E9%86%AB-%E6%84%9F%E5%8F%97%E5%88%B0%E5%A4%B1%E5%8E%BB",
-    "timestamp": "2026-10-04T13:06:23.672Z",
     "strategy": ".content-card__main"
   }
 ];
