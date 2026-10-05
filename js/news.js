@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T02:11:50.458Z
+// Last updated: 2026-10-05T03:31:01.425Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Supper Moment演唱會2026澳門｜門票公售攻略+連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180141434024497152849052.jpeg/pU-on3q2MfxxO70o5ojw3_0IxQkU9jYFhYVJPoWFST4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393716/supper-moment%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-10-05T03:31:01.425Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜航空喋血案｜內塔尼亞胡下令對飛以色列國際航班進行安全審查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182875722306293760980675.png/YoKuOnB-HnefyRmExdT5Ka1MiFYsi4HyIr4_UCK-P1A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395052/%E4%B8%BB%E4%BA%BA%E9%9B%A2%E4%B8%964%E5%80%8B%E6%9C%88-%E7%8B%97%E7%8B%97%E6%9B%BE%E6%8B%92%E9%A3%B2%E9%A3%9F%E5%85%BC%E5%A4%A9%E5%A4%A9%E5%AE%88%E7%AA%97%E7%AD%89%E5%80%99-%E7%8D%B8%E9%86%AB-%E6%84%9F%E5%8F%97%E5%88%B0%E5%A4%B1%E5%8E%BB",
     "timestamp": "2026-10-04T13:06:23.672Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈里梅根頻傳婚變│返英後首外出同框　酒吧十指緊扣食炸魚薯條",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183446911038787584618439.png/rhbrmMFuOGT0DN_0ChiBXRN_vNnYbrTbqyFFb6shRW8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396223/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E9%A0%BB%E5%82%B3%E5%A9%9A%E8%AE%8A-%E8%BF%94%E8%8B%B1%E5%BE%8C%E9%A6%96%E5%A4%96%E5%87%BA%E5%90%8C%E6%A1%86-%E9%85%92%E5%90%A7%E5%8D%81%E6%8C%87%E7%B7%8A%E6%89%A3%E9%A3%9F%E7%82%B8%E9%AD%9A%E8%96%AF%E6%A2%9D",
-    "timestamp": "2026-10-04T08:52:55.163Z",
     "strategy": ".content-card__main"
   }
 ];
