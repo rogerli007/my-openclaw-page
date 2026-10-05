@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T15:59:04.870Z
+// Last updated: 2026-10-05T16:24:29.888Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麻婆豆腐食譜｜煮法簡易零失敗20分鐘完成、豆腐炒不爛有秘訣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072233419959701504142657.jpeg/VvkD0LoWi__m4nhylKO3Z43kcLuGsv8a0kNZutJDWbo",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60379844/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%E9%A3%9F%E8%AD%9C-%E9%BA%BB%E8%BE%A3%E9%AE%AE%E9%A6%99%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%97-%E8%B1%86%E8%85%90%E7%82%92%E4%B8%8D%E7%88%9B%E6%9C%89%E7%A7%98%E8%A8%A3",
+    "timestamp": "2026-10-05T16:24:29.888Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張繼聰韋羅莎圍讀新舞台劇泣不成聲　演喪子痛靠睇太陽食甜品抽離",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180141434024497152849052.jpeg/pU-on3q2MfxxO70o5ojw3_0IxQkU9jYFhYVJPoWFST4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60393716/supper-moment%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-10-05T03:31:01.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜拜航空喋血案｜內塔尼亞胡下令對飛以色列國際航班進行安全審查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180107822717734912923057.jpeg/SIJpV9lwuqoIvHqyCB0lKSqxWe4M6H4tRl3ImEZdyJg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396351/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%96%8B%E8%A1%80%E6%A1%88-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8B%E4%BB%A4%E5%B0%8D%E9%A3%9B%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%8B%E9%9A%9B%E8%88%AA%E7%8F%AD%E9%80%B2%E8%A1%8C%E5%AE%89%E5%85%A8%E5%AF%A9%E6%9F%A5",
-    "timestamp": "2026-10-05T02:11:50.458Z",
     "strategy": ".content-card__main"
   }
 ];
