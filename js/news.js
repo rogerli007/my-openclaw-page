@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T11:48:08.834Z
+// Last updated: 2026-10-05T11:57:09.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "赤柱豪宅缺鋼筋｜倪學仁：承建商等或涉虛假陳述　發展商責任難料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396595/%E8%B5%A4%E6%9F%B1%E8%B1%AA%E5%AE%85%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%80%AA%E5%AD%B8%E4%BB%81-%E6%89%BF%E5%BB%BA%E5%95%86%E7%AD%89%E6%88%96%E6%B6%89%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0-%E7%99%BC%E5%B1%95%E5%95%86%E8%B2%AC%E4%BB%BB%E9%9B%A3%E6%96%99",
+    "timestamp": "2026-10-05T11:57:09.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜蔡母指鄺港智稱做生意　曾索款逾7千萬　1蚊都無拎返嚟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183645101713264640379426.jpeg/lgaOMNSM_-rnHWuIL5M1EaFaA3bhkI1b4JdbtuCXW7Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396339/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E4%BC%81%E5%9C%96%E6%81%90%E8%A5%B2%E6%A1%88-%E4%BB%A5%E5%AA%92-%E5%89%AF%E6%A9%9F%E5%B8%AB%E5%8E%9F%E6%93%AC%E9%A7%95%E6%A9%9F%E6%92%9E%E5%90%91%E7%89%B9%E6%8B%89%E7%B6%AD%E5%A4%AB%E6%A9%9F%E5%A0%B4",
     "timestamp": "2026-10-04T22:55:13.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "知名女星前伴侶逝世曾傳闊太變剩萬元棺材本　勤力開工街頭疑黑面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183480133231579136108365.jpeg/G_YhaWuqGkkM9ngk8y_c9GKzH6son7arPEVUuzxFVLs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396242/%E9%BB%83%E5%A4%8F%E8%95%99%E5%89%8D%E4%BC%B4%E4%BE%B6%E9%80%9D%E4%B8%96%E6%9B%BE%E5%82%B3%E9%97%8A%E5%A4%AA%E6%B7%AA%E5%89%A9%E8%90%AC%E5%85%83%E6%A3%BA%E6%9D%90%E6%9C%AC-%E5%8B%A4%E5%8A%9B%E9%96%8B%E5%B7%A5%E8%A1%97%E9%A0%AD%E7%96%91%E9%BB%91%E9%9D%A2",
-    "timestamp": "2026-10-04T22:46:39.219Z",
     "strategy": ".content-card__main"
   }
 ];
