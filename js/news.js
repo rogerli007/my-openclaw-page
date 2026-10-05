@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T19:56:48.402Z
+// Last updated: 2026-10-05T21:29:46.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福島第24輪核污水排海　新一輪排放量約7800噸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220207/567454574076497920019728.jpeg/czbPl7UkVd-ER43Qt2UD8guPtHVrrQpq3B0rpNwdK6Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396658/%E7%A6%8F%E5%B3%B6%E7%AC%AC24%E8%BC%AA%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7-%E6%96%B0%E4%B8%80%E8%BC%AA%E6%8E%92%E6%94%BE%E9%87%8F%E7%B4%847800%E5%99%B8",
+    "timestamp": "2026-10-05T21:29:46.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯疑出現肺鼠疫病例　魯比奧：美方密切關注暫毋須恐慌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183794095445774336371968.jpeg/kg1TxK4mL1Kz60hAmPpuSpvfIDF0oiSdltrgQZba4EE",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60396477/%E7%BE%8E%E5%9C%8B%E5%A0%AA%E8%96%A9%E6%96%AF%E5%B7%9E%E7%A5%9E%E7%8A%AC%E5%A5%87%E8%B9%9F%E6%95%91%E4%B8%BB-%E7%8D%A8%E8%87%AA%E5%BC%95%E9%A0%98%E5%B7%A1%E8%AD%A6%E7%9B%B4%E5%A5%94%E8%BB%8A%E5%BA%AB%E7%AB%8B%E5%A4%A7%E5%8A%9F-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-05T08:09:48.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習特會上中美高唱「二戰聯盟」　讓高市早苗美夢「一場空」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183799600436219904098712.jpeg/f5agvWnxO4SZeBDahy3HwDGsQ9NJMeqmy3j7-8t4-_s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60396493/%E7%BF%92%E7%89%B9%E6%9C%83%E4%B8%8A%E4%B8%AD%E7%BE%8E%E9%AB%98%E5%94%B1-%E4%BA%8C%E6%88%B0%E8%81%AF%E7%9B%9F-%E8%AE%93%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%BE%8E%E5%A4%A2-%E4%B8%80%E5%A0%B4%E7%A9%BA",
-    "timestamp": "2026-10-05T07:44:43.652Z",
     "strategy": ".content-card__main"
   }
 ];
