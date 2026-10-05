@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T17:56:06.911Z
+// Last updated: 2026-10-05T18:27:51.801Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
+    "timestamp": "2026-10-05T18:27:51.801Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182641302597013504346981.png/awfjh4t8xe6K8HZGFXuAySzG4oyCgEhZ98Eod_fBKHc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60395707/%E5%85%A7%E5%9C%B0%E4%BA%A4%E6%B5%81-%E6%BB%BE%E5%8B%95-%E7%9A%84%E5%85%AC%E6%B0%91%E8%AA%B2-%E5%82%B7%E5%81%A5%E5%AD%B8%E7%94%9F%E7%9A%84%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B7%B1%E6%B8%AF%E8%80%83%E5%AF%9F%E9%AB%94%E9%A9%97",
     "timestamp": "2026-10-05T06:04:56.646Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "渣打降中港股市評級　恒指最悲見21500點！　美債現技術買入機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183772127866654720596701.jpeg/2kE-nfhBndhjqT1DKom125MjwwmD7d-u3oAI5t6ACOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/60396447/%E6%B8%A3%E6%89%93%E9%99%8D%E4%B8%AD%E6%B8%AF%E8%82%A1%E5%B8%82%E8%A9%95%E7%B4%9A-%E6%81%92%E6%8C%87%E6%9C%80%E6%82%B2%E8%A6%8B21500%E9%BB%9E-%E7%BE%8E%E5%82%B5%E7%8F%BE%E6%8A%80%E8%A1%93%E8%B2%B7%E5%85%A5%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-10-05T05:44:05.966Z",
     "strategy": ".content-card__main"
   }
 ];
