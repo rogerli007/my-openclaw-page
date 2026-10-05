@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T05:44:05.966Z
+// Last updated: 2026-10-05T06:04:56.646Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地交流｜「滾動」的公民課：傷健學生的無障礙深港考察體驗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182641302597013504346981.png/awfjh4t8xe6K8HZGFXuAySzG4oyCgEhZ98Eod_fBKHc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60395707/%E5%85%A7%E5%9C%B0%E4%BA%A4%E6%B5%81-%E6%BB%BE%E5%8B%95-%E7%9A%84%E5%85%AC%E6%B0%91%E8%AA%B2-%E5%82%B7%E5%81%A5%E5%AD%B8%E7%94%9F%E7%9A%84%E7%84%A1%E9%9A%9C%E7%A4%99%E6%B7%B1%E6%B8%AF%E8%80%83%E5%AF%9F%E9%AB%94%E9%A9%97",
+    "timestamp": "2026-10-05T06:04:56.646Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "渣打降中港股市評級　恒指最悲見21500點！　美債現技術買入機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183608988936179712079356.jpeg/HZV04jaDG2vxCP2-7Dj3fn7t8dDsE3T-Shb-f0oW_n8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396331/%E9%91%BD%E7%9F%B3%E5%B1%B1%E5%A5%B3%E5%AD%90%E7%96%91%E6%8C%81%E5%88%80%E9%81%8A%E8%95%A9-%E8%AD%A6%E6%85%88%E6%AD%A3%E9%82%A8%E5%96%AE%E4%BD%8D%E7%A0%B4%E9%96%80%E6%8B%98%E4%B8%80%E5%A5%B3-%E7%B6%81%E6%93%94%E6%9E%B6%E5%BA%8A%E9%80%81%E9%99%A2",
     "timestamp": "2026-10-04T19:12:20.107Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "亞運會2026︱中大33人學生代表團出征　奪6面獎牌兼刷新香港紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183585863876481024972158.jpeg/hNEra_bHYTZvoT1E3LcdNbY9TxgQkuV9XmOFhV5jhYU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396328/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E4%B8%AD%E5%A4%A733%E4%BA%BA%E5%AD%B8%E7%94%9F%E4%BB%A3%E8%A1%A8%E5%9C%98%E5%87%BA%E5%BE%81-%E5%A5%AA6%E9%9D%A2%E7%8D%8E%E7%89%8C%E5%85%BC%E5%88%B7%E6%96%B0%E9%A6%99%E6%B8%AF%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-10-04T18:00:11.966Z",
     "strategy": ".content-card__main"
   }
 ];
