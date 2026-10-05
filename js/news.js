@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T16:48:39.402Z
+// Last updated: 2026-10-05T17:19:55.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
+    "timestamp": "2026-10-05T17:19:55.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜「大圍名物」火爆姐同節目組嘈　仲屈摸胸：你性侵犯我",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183759526420025344745316.png/ArABZnGWuxKcYnIT90bz2KWAL0BEVQGphwTr94cE6_c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396411/%E8%B2%B7%E9%9B%9E%E8%9B%8B%E6%B4%97%E4%B9%BE%E6%B7%A8%E5%85%88%E6%94%BE%E9%9B%AA%E6%AB%83-%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E9%A3%9F%E7%82%92%E8%9B%8B%E4%B8%AD%E6%AF%92-%E5%B0%88%E5%AE%B6-%E8%B6%8A%E6%B4%97%E8%B6%8A%E6%98%93%E9%A4%8A%E8%8F%8C",
     "timestamp": "2026-10-05T05:13:50.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜「全球大模型第一股」頭銜　Anthropic值2萬億美元嗎？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250905/1040648086034059264702516.jpeg/mMpbZdIjaIko6Gqc5wRefAwC0nMZOLzRvWkdlL1pHZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60396261/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AC%AC%E4%B8%80%E8%82%A1-%E9%A0%AD%E9%8A%9C-anthropic%E5%80%BC2%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%97%8E",
-    "timestamp": "2026-10-05T04:01:05.537Z",
     "strategy": ".content-card__main"
   }
 ];
