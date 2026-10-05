@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T21:29:46.894Z
+// Last updated: 2026-10-05T21:37:57.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福島第24輪核污水排海　新一輪排放量約7800噸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220207/567454574076497920019728.jpeg/czbPl7UkVd-ER43Qt2UD8guPtHVrrQpq3B0rpNwdK6Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396658/%E7%A6%8F%E5%B3%B6%E7%AC%AC24%E8%BC%AA%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7-%E6%96%B0%E4%B8%80%E8%BC%AA%E6%8E%92%E6%94%BE%E9%87%8F%E7%B4%847800%E5%99%B8",
+    "timestamp": "2026-10-05T21:37:57.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福島第24輪核污水排海　新一輪排放量約7800噸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183806057177157632289170.jpeg/Cx1diWkj8oxE3dNcJ3KMYHqBXarMTbPtOaYOuTmmDrk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396487/%E9%BB%83%E7%99%BE%E9%B3%B4%E5%87%BA%E7%8D%84%E5%BE%8C%E6%9C%80%E6%96%B0%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89-%E9%9D%A2%E9%9C%B2%E7%AC%91%E5%AE%B9%E7%8F%BE%E8%BA%AB%E9%A4%90%E5%BB%B3%E6%B4%BB%E5%8B%95%E8%A2%AB%E7%88%86%E5%B0%87%E6%8B%8D%E8%B3%80%E6%AD%B2%E7%89%87",
     "timestamp": "2026-10-05T08:52:12.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國堪薩斯州神犬奇蹟救主　獨自引領巡警直奔車庫立大功｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183794095445774336371968.jpeg/kg1TxK4mL1Kz60hAmPpuSpvfIDF0oiSdltrgQZba4EE",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60396477/%E7%BE%8E%E5%9C%8B%E5%A0%AA%E8%96%A9%E6%96%AF%E5%B7%9E%E7%A5%9E%E7%8A%AC%E5%A5%87%E8%B9%9F%E6%95%91%E4%B8%BB-%E7%8D%A8%E8%87%AA%E5%BC%95%E9%A0%98%E5%B7%A1%E8%AD%A6%E7%9B%B4%E5%A5%94%E8%BB%8A%E5%BA%AB%E7%AB%8B%E5%A4%A7%E5%8A%9F-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-05T08:09:48.021Z",
     "strategy": ".content-card__main"
   }
 ];
