@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T08:09:48.021Z
+// Last updated: 2026-10-05T08:52:12.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃百鳴出獄後最新近照曝光　面露笑容現身餐廳活動被爆將拍賀歲片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183806057177157632289170.jpeg/Cx1diWkj8oxE3dNcJ3KMYHqBXarMTbPtOaYOuTmmDrk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396487/%E9%BB%83%E7%99%BE%E9%B3%B4%E5%87%BA%E7%8D%84%E5%BE%8C%E6%9C%80%E6%96%B0%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89-%E9%9D%A2%E9%9C%B2%E7%AC%91%E5%AE%B9%E7%8F%BE%E8%BA%AB%E9%A4%90%E5%BB%B3%E6%B4%BB%E5%8B%95%E8%A2%AB%E7%88%86%E5%B0%87%E6%8B%8D%E8%B3%80%E6%AD%B2%E7%89%87",
+    "timestamp": "2026-10-05T08:52:12.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國堪薩斯州神犬奇蹟救主　獨自引領巡警直奔車庫立大功｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5dccfaa2c0c9dc116d9bd3af.jpg/GgWtBPtmiDCEuxUgcph4LdKV-y5c76OKrEnHtqxJx7Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396333/%E9%9F%93%E5%9C%8B%E5%A4%9A%E5%AE%B6%E9%8A%80%E8%A1%8C%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E7%96%91%E9%BB%91%E5%AE%A2%E5%88%A9%E7%94%A8ai%E6%96%BD%E8%A5%B2",
     "timestamp": "2026-10-04T21:57:56.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國多家銀行遭網絡攻擊　疑黑客利用AI施襲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5dccfaa2c0c9dc116d9bd3af.jpg/GgWtBPtmiDCEuxUgcph4LdKV-y5c76OKrEnHtqxJx7Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396333/%E9%9F%93%E5%9C%8B%E5%A4%9A%E5%AE%B6%E9%8A%80%E8%A1%8C%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E7%96%91%E9%BB%91%E5%AE%A2%E5%88%A9%E7%94%A8ai%E6%96%BD%E8%A5%B2",
-    "timestamp": "2026-10-04T21:39:30.845Z",
     "strategy": ".content-card__main"
   }
 ];
