@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T15:47:55.793Z
+// Last updated: 2026-10-05T15:59:04.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張繼聰韋羅莎圍讀新舞台劇泣不成聲　演喪子痛靠睇太陽食甜品抽離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183860786896834560967148.jpeg/JZJnImvscNoYwWps3gSHnY3VueKNwpZokIK6dZCCunU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396591/%E5%BC%B5%E7%B9%BC%E8%81%B0%E9%9F%8B%E7%BE%85%E8%8E%8E%E5%9C%8D%E8%AE%80%E6%96%B0%E8%88%9E%E5%8F%B0%E5%8A%87%E6%B3%A3%E4%B8%8D%E6%88%90%E8%81%B2-%E6%BC%94%E5%96%AA%E5%AD%90%E7%97%9B%E9%9D%A0%E7%9D%87%E5%A4%AA%E9%99%BD%E9%A3%9F%E7%94%9C%E5%93%81%E6%8A%BD%E9%9B%A2",
+    "timestamp": "2026-10-05T15:59:04.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB收視｜《死有對証》靠口碑連升三周　《愛回家》繼續下跌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180107822717734912923057.jpeg/SIJpV9lwuqoIvHqyCB0lKSqxWe4M6H4tRl3ImEZdyJg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396351/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%96%8B%E8%A1%80%E6%A1%88-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8B%E4%BB%A4%E5%B0%8D%E9%A3%9B%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%8B%E9%9A%9B%E8%88%AA%E7%8F%AD%E9%80%B2%E8%A1%8C%E5%AE%89%E5%85%A8%E5%AF%A9%E6%9F%A5",
     "timestamp": "2026-10-05T02:11:50.458Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《泰晤士報》：英國擬對中國進口電動車加徵關稅　或高達45%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240922/914574101543129088169482.jpeg/EgJzxLn9mNxRA-hPQmIcEk8y9YdyCuFEGvB6-xrwevs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396352/%E6%B3%B0%E6%99%A4%E5%A3%AB%E5%A0%B1-%E8%8B%B1%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E9%80%B2%E5%8F%A3%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E6%88%96%E9%AB%98%E9%81%9445",
-    "timestamp": "2026-10-05T01:44:50.806Z",
     "strategy": ".content-card__main"
   }
 ];
