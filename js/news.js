@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T05:13:50.575Z
+// Last updated: 2026-10-05T05:44:05.966Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "渣打降中港股市評級　恒指最悲見21500點！　美債現技術買入機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183772127866654720596701.jpeg/2kE-nfhBndhjqT1DKom125MjwwmD7d-u3oAI5t6ACOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/60396447/%E6%B8%A3%E6%89%93%E9%99%8D%E4%B8%AD%E6%B8%AF%E8%82%A1%E5%B8%82%E8%A9%95%E7%B4%9A-%E6%81%92%E6%8C%87%E6%9C%80%E6%82%B2%E8%A6%8B21500%E9%BB%9E-%E7%BE%8E%E5%82%B5%E7%8F%BE%E6%8A%80%E8%A1%93%E8%B2%B7%E5%85%A5%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-10-05T05:44:05.966Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "買雞蛋洗乾淨先放雪櫃？一家三口食炒蛋中毒 專家:越洗越易養菌！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183585863876481024972158.jpeg/hNEra_bHYTZvoT1E3LcdNbY9TxgQkuV9XmOFhV5jhYU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396328/%E4%BA%9E%E9%81%8B%E6%9C%832026-%E4%B8%AD%E5%A4%A733%E4%BA%BA%E5%AD%B8%E7%94%9F%E4%BB%A3%E8%A1%A8%E5%9C%98%E5%87%BA%E5%BE%81-%E5%A5%AA6%E9%9D%A2%E7%8D%8E%E7%89%8C%E5%85%BC%E5%88%B7%E6%96%B0%E9%A6%99%E6%B8%AF%E7%B4%80%E9%8C%84",
     "timestamp": "2026-10-04T18:00:11.966Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭子豪洩《金秘書》獲呂頌賢等加盟　盧瀚霆多謝劇透：佢先夠份量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183572034181926912415872.jpeg/yvcuYWQOqZMCho3ZsNHF72uOfZBS4lybPY4m8D2OJvA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396315/%E9%83%AD%E5%AD%90%E8%B1%AA%E6%B4%A9-%E9%87%91%E7%A7%98%E6%9B%B8-%E7%8D%B2%E5%91%82%E9%A0%8C%E8%B3%A2%E7%AD%89%E5%8A%A0%E7%9B%9F-%E7%9B%A7%E7%80%9A%E9%9C%86%E5%A4%9A%E8%AC%9D%E5%8A%87%E9%80%8F-%E4%BD%A2%E5%85%88%E5%A4%A0%E4%BB%BD%E9%87%8F",
-    "timestamp": "2026-10-04T16:44:51.738Z",
     "strategy": ".content-card__main"
   }
 ];
