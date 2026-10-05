@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T01:44:50.806Z
+// Last updated: 2026-10-05T02:11:50.458Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜拜航空喋血案｜內塔尼亞胡下令對飛以色列國際航班進行安全審查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180107822717734912923057.jpeg/SIJpV9lwuqoIvHqyCB0lKSqxWe4M6H4tRl3ImEZdyJg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396351/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%96%8B%E8%A1%80%E6%A1%88-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8B%E4%BB%A4%E5%B0%8D%E9%A3%9B%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%8B%E9%9A%9B%E8%88%AA%E7%8F%AD%E9%80%B2%E8%A1%8C%E5%AE%89%E5%85%A8%E5%AF%A9%E6%9F%A5",
+    "timestamp": "2026-10-05T02:11:50.458Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《泰晤士報》：英國擬對中國進口電動車加徵關稅　或高達45%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183446911038787584618439.png/rhbrmMFuOGT0DN_0ChiBXRN_vNnYbrTbqyFFb6shRW8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396223/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E9%A0%BB%E5%82%B3%E5%A9%9A%E8%AE%8A-%E8%BF%94%E8%8B%B1%E5%BE%8C%E9%A6%96%E5%A4%96%E5%87%BA%E5%90%8C%E6%A1%86-%E9%85%92%E5%90%A7%E5%8D%81%E6%8C%87%E7%B7%8A%E6%89%A3%E9%A3%9F%E7%82%B8%E9%AD%9A%E8%96%AF%E6%A2%9D",
     "timestamp": "2026-10-04T08:52:55.163Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《解放軍報》頭版評統一：｢台獨｣膽敢鋌而走險　決不容忍堅決粉碎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183352472278667264879051.png/R3mJTvPZbvgUiiBmG_Mf6EmkHX9JCu2nHjmw0h45sNI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60396141/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%A0%B1-%E9%A0%AD%E7%89%88%E8%A9%95%E7%B5%B1%E4%B8%80-%E5%8F%B0%E7%8D%A8-%E8%86%BD%E6%95%A2%E9%8B%8C%E8%80%8C%E8%B5%B0%E9%9A%AA-%E6%B1%BA%E4%B8%8D%E5%AE%B9%E5%BF%8D%E5%A0%85%E6%B1%BA%E7%B2%89%E7%A2%8E",
-    "timestamp": "2026-10-04T02:00:15.408Z",
     "strategy": ".content-card__main"
   }
 ];
