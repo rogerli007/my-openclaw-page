@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T11:57:09.320Z
+// Last updated: 2026-10-05T12:32:22.740Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梁朝偉睇翁子光新片《超風》徹夜難眠　深思跨性別者現實處境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183833038061047808128036.jpeg/pyzvEe-N6nrcSlGh-nNeZDpzh4OS9L1GaYPP8mmDz_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396549/%E6%A2%81%E6%9C%9D%E5%81%89%E7%9D%87%E7%BF%81%E5%AD%90%E5%85%89%E6%96%B0%E7%89%87-%E8%B6%85%E9%A2%A8-%E5%BE%B9%E5%A4%9C%E9%9B%A3%E7%9C%A0-%E6%B7%B1%E6%80%9D%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E7%8F%BE%E5%AF%A6%E8%99%95%E5%A2%83",
+    "timestamp": "2026-10-05T12:32:22.740Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "赤柱豪宅缺鋼筋｜倪學仁：承建商等或涉虛假陳述　發展商責任難料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183672936381288448307925.jpeg/U9k4ffl8GlEwasNRr-kIquHUFGMwL9lAUV_bRHtf20Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396343/%E9%91%BD%E7%9F%B3%E5%B1%B1%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E6%8C%87%E5%9A%87%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1%E7%B4%A2%E5%85%AB%E9%81%94%E9%80%9A%E5%8D%A1-%E7%B4%99%E9%88%94-%E8%A1%8C%E5%8A%AB%E4%B8%8D%E6%9E%9C%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-04T23:19:53.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜拜航空企圖恐襲案｜以媒：副機師原擬駕機撞向特拉維夫機場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183645101713264640379426.jpeg/lgaOMNSM_-rnHWuIL5M1EaFaA3bhkI1b4JdbtuCXW7Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396339/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E4%BC%81%E5%9C%96%E6%81%90%E8%A5%B2%E6%A1%88-%E4%BB%A5%E5%AA%92-%E5%89%AF%E6%A9%9F%E5%B8%AB%E5%8E%9F%E6%93%AC%E9%A7%95%E6%A9%9F%E6%92%9E%E5%90%91%E7%89%B9%E6%8B%89%E7%B6%AD%E5%A4%AB%E6%A9%9F%E5%A0%B4",
-    "timestamp": "2026-10-04T22:55:13.915Z",
     "strategy": ".content-card__main"
   }
 ];
