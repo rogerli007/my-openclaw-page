@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T14:47:36.186Z
+// Last updated: 2026-10-06T15:21:08.736Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜中環兩躁漢疑落電車碰撞爆衝突　一男遭按地制服　警拘一人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184276888059645952279508.jpeg/bQO7nNj8t2Weo-iLXSFL1s21tcGHuvXy_dDlPv3Q5T4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396989/%E6%9C%89%E7%89%87-%E4%B8%AD%E7%92%B0%E5%85%A9%E8%BA%81%E6%BC%A2%E7%96%91%E8%90%BD%E9%9B%BB%E8%BB%8A%E7%A2%B0%E6%92%9E%E7%88%86%E8%A1%9D%E7%AA%81-%E4%B8%80%E7%94%B7%E9%81%AD%E6%8C%89%E5%9C%B0%E5%88%B6%E6%9C%8D-%E8%AD%A6%E6%8B%98%E4%B8%80%E4%BA%BA",
+    "timestamp": "2026-10-06T15:21:08.736Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ASUS ROG G1000旗艦電競桌機限量登場！首創全息投影定價6萬7",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171842617634197504485912.png/k9QSb4hCySX8lLXfrZ-rcW262SWUUpRJazSWbGs0lmw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60300228/%E5%AD%B8%E7%94%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%84%AA%E6%83%A06%E5%A4%A7%E6%AF%94%E8%BC%83-%E5%85%8D%E5%B9%B4%E8%B2%BB-%E8%BF%8E%E6%96%B0%E9%80%81-400-apple%E7%A6%AE%E5%93%81%E5%8D%A1",
     "timestamp": "2026-10-06T03:53:15.595Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜柴灣環翠邨27歲男子墮樓　送院搶救後不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180529743057915904245790.jpeg/c9qtFSWK-aN46mBGtkXR_4-paBieeCreu0Ds-7tA7Ps?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396704/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9F%B4%E7%81%A3%E7%92%B0%E7%BF%A0%E9%82%A827%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-06T03:31:01.445Z",
     "strategy": ".content-card__main"
   }
 ];
