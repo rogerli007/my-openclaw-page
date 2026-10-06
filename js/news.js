@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T16:49:18.157Z
+// Last updated: 2026-10-06T16:59:43.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌綫延綫｜東涌至欣澳站11.28提早2小時收車　配合安裝波口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887774522730614784690324.jpeg/Mv4A8AWrwUO0Si2ab3umZPRiqdXBhYfazG2n-eZtp_k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396997/%E6%9D%B1%E6%B6%8C%E7%B6%AB%E5%BB%B6%E7%B6%AB-%E6%9D%B1%E6%B6%8C%E8%87%B3%E6%AC%A3%E6%BE%B3%E7%AB%9911-28%E6%8F%90%E6%97%A92%E5%B0%8F%E6%99%82%E6%94%B6%E8%BB%8A-%E9%85%8D%E5%90%88%E5%AE%89%E8%A3%9D%E6%B3%A2%E5%8F%A3",
+    "timestamp": "2026-10-06T16:59:43.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國學生示威持續再爆衝突　全國約2000高中停課　總理稱不容暴力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184123768780361728246817.png/r5FqqUCRlOz077plhtrvFS-xkUmU6p6lTyrlNk8q5TY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60396696/%E5%85%A7%E5%9C%B0%E9%81%8E%E9%97%9C-%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%A5%B3%E9%A6%99%E6%B8%AF%E8%B2%B7lv%E9%81%8E%E9%97%9C-%E8%A2%8B%E5%85%A7%E6%94%BE1%E7%89%A9%E8%A2%AB%E6%85%98%E7%BD%B020-%E7%A8%85-%E5%AE%8C%E8%9B%8B%E4%BA%86",
     "timestamp": "2026-10-06T05:01:50.006Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立法會新餐廳正式開幕   李慧琼讚營運商虛心聽意見　冀做出口碑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184122104979656704607185.jpeg/ZwrAieEvDQZESjGOnFIpQyx15_V7wPXrwi6ST8Iukk8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60396776/%E7%AB%8B%E6%B3%95%E6%9C%83%E6%96%B0%E9%A4%90%E5%BB%B3%E6%AD%A3%E5%BC%8F%E9%96%8B%E5%B9%95-%E6%9D%8E%E6%85%A7%E7%90%BC%E8%AE%9A%E7%87%9F%E9%81%8B%E5%95%86%E8%99%9B%E5%BF%83%E8%81%BD%E6%84%8F%E8%A6%8B-%E5%86%80%E5%81%9A%E5%87%BA%E5%8F%A3%E7%A2%91",
-    "timestamp": "2026-10-06T04:51:26.916Z",
     "strategy": ".content-card__main"
   }
 ];
