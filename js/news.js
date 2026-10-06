@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T11:35:20.442Z
+// Last updated: 2026-10-06T11:57:49.388Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港航空昨晚飛澳洲悉尼航班HX017有旅客不適　今晨急降菲律賓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109108959811211264360281.jpeg/nTmpoLPJBB_EA8Vddfqfl5weZDKbv0X3MQaSJjEGkiY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396912/%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%E6%98%A8%E6%99%9A%E9%A3%9B%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E8%88%AA%E7%8F%ADhx017%E6%9C%89%E6%97%85%E5%AE%A2%E4%B8%8D%E9%81%A9-%E4%BB%8A%E6%99%A8%E6%80%A5%E9%99%8D%E8%8F%B2%E5%BE%8B%E8%B3%93",
+    "timestamp": "2026-10-06T11:57:49.388Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十大傑青｜陳效民憶過往屢敗屢試　不斷掙扎終圓夢成物理治療師",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183847485949349888794801.jpeg/mAlxLCwtO3gnhrLkKwPS8FsG7JGw4vf8106yXddOsl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60395061/%E7%B5%90%E6%9D%9F60%E5%B9%B4%E6%AD%B7%E5%8F%B2-sony%E8%88%87panasonic%E9%80%80%E5%87%BAces-2027%E8%83%8C%E5%BE%8C%E7%8E%84%E6%A9%9F-%E6%96%B9%E4%BF%9D%E5%83%91",
     "timestamp": "2026-10-05T23:45:23.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "58歲前小生近照曝光！曾遭嫩妻背叛賣西貢村屋　發福身形惹熱議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183913384190414848683512.jpeg/EXyUVK8zatv9EshET7vCvoW9O0odtlvQdFKkh3RSpIc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396574/%E9%AD%8F%E9%A7%BF%E5%82%91%E8%A2%AB%E5%89%8D%E5%A6%BB%E8%83%8C%E5%8F%9B%E9%9B%A2%E5%A9%9A%E4%B8%80%E4%BA%BA%E6%B9%8A%E5%A5%B3-58%E6%AD%B2%E7%9D%80%E8%83%8C%E5%BF%83%E7%9F%AD%E8%A4%B2%E7%8D%A8%E5%9D%90%E7%8E%A9%E9%9B%BB%E8%A9%B1%E5%8B%81%E9%9A%A8%E6%84%8F",
-    "timestamp": "2026-10-05T22:54:18.795Z",
     "strategy": ".content-card__main"
   }
 ];
