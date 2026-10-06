@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T21:55:45.789Z
+// Last updated: 2026-10-06T22:22:37.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致天晴乾燥　早上稍涼大部份地區約23度　日間約30度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184385716789317632279168.jpeg/XJ9Rw6v9Tr_I_uaGf1mCZPDkdSRWMm3Krw2fsq8Nn7I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397002/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC%E5%A4%A7%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E7%B4%8423%E5%BA%A6-%E6%97%A5%E9%96%93%E7%B4%8430%E5%BA%A6",
+    "timestamp": "2026-10-06T22:22:37.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗大棠村村屋妻子住所暈倒　丈夫報案　送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184276888059645952279508.jpeg/bQO7nNj8t2Weo-iLXSFL1s21tcGHuvXy_dDlPv3Q5T4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396989/%E6%9C%89%E7%89%87-%E4%B8%AD%E7%92%B0%E5%85%A9%E8%BA%81%E6%BC%A2%E7%96%91%E8%90%BD%E9%9B%BB%E8%BB%8A%E7%A2%B0%E6%92%9E%E7%88%86%E8%A1%9D%E7%AA%81-%E4%B8%80%E7%94%B7%E9%81%AD%E6%8C%89%E5%9C%B0%E5%88%B6%E6%9C%8D-%E8%AD%A6%E6%8B%98%E4%B8%80%E4%BA%BA",
     "timestamp": "2026-10-06T15:21:08.736Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ASUS ROG G1000旗艦電競桌機限量登場！首創全息投影定價6萬7",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184262343492636672032785.jpeg/AoraxUZjBR6FSMHoJG61eazGOFH_XsAa3Mp2ZNzKdmQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60396982/asus-rog-g1000%E6%97%97%E8%89%A6%E9%9B%BB%E7%AB%B6%E6%A1%8C%E6%A9%9F%E9%99%90%E9%87%8F%E7%99%BB%E5%A0%B4-%E9%A6%96%E5%89%B5%E5%85%A8%E6%81%AF%E6%8A%95%E5%BD%B1%E5%AE%9A%E5%83%B96%E8%90%AC7",
-    "timestamp": "2026-10-06T14:47:36.186Z",
     "strategy": ".content-card__main"
   }
 ];
