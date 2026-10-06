@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T18:51:23.744Z
+// Last updated: 2026-10-06T19:20:05.874Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ONE STANLEY缺鋼筋｜屋宇署：會抽驗部份單位及承建商其他項目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397000/one-stanley%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%B1%8B%E5%AE%87%E7%BD%B2-%E6%9C%83%E6%8A%BD%E9%A9%97%E9%83%A8%E4%BB%BD%E5%96%AE%E4%BD%8D%E5%8F%8A%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%B6%E4%BB%96%E9%A0%85%E7%9B%AE",
+    "timestamp": "2026-10-06T19:20:05.874Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ONE STANLEY缺鋼筋｜屋宇署：會抽驗部份單位及承建商其他項目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184171270380457984053469.jpeg/U3JhPn97FbXN0KvfH8k8JgmPltM4OYyf56wpv-esKb8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60396853/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%AB%E8%B3%BD%E8%88%87%E5%8D%97%E9%9D%9E%E7%90%83%E6%89%8B%E6%BF%80%E6%88%B03%E7%9B%A4-%E9%A0%86%E5%88%A9%E9%81%8E%E5%85%A9%E9%97%9C%E6%99%89%E4%B8%BB%E8%B3%BD%E5%9C%88",
     "timestamp": "2026-10-06T09:48:48.864Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜蔡母憶失蹤夜曾質問鄺港智：係咪你老豆捉咗囡囡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230307/709781159088754688014953.jpeg/__1sxcFSJjU_HYdkG7_rTRE_KUXQPawCmlQhhLNUIYQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396832/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%94%A1%E6%AF%8D%E6%86%B6%E5%A4%B1%E8%B9%A4%E5%A4%9C%E6%9B%BE%E8%B3%AA%E5%95%8F%E9%84%BA%E6%B8%AF%E6%99%BA-%E4%BF%82%E5%92%AA%E4%BD%A0%E8%80%81%E8%B1%86%E6%8D%89%E5%92%97%E5%9B%A1%E5%9B%A1",
-    "timestamp": "2026-10-06T07:33:56.835Z",
     "strategy": ".content-card__main"
   }
 ];
