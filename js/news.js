@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T04:24:44.659Z
+// Last updated: 2026-10-06T04:51:26.916Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立法會新餐廳正式開幕   李慧琼讚營運商虛心聽意見　冀做出口碑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184122104979656704607185.jpeg/ZwrAieEvDQZESjGOnFIpQyx15_V7wPXrwi6ST8Iukk8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60396776/%E7%AB%8B%E6%B3%95%E6%9C%83%E6%96%B0%E9%A4%90%E5%BB%B3%E6%AD%A3%E5%BC%8F%E9%96%8B%E5%B9%95-%E6%9D%8E%E6%85%A7%E7%90%BC%E8%AE%9A%E7%87%9F%E9%81%8B%E5%95%86%E8%99%9B%E5%BF%83%E8%81%BD%E6%84%8F%E8%A6%8B-%E5%86%80%E5%81%9A%E5%87%BA%E5%8F%A3%E7%A2%91",
+    "timestamp": "2026-10-06T04:51:26.916Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "央視揭緬北魏家罪行：主犯隨機殺人祭天　受害者頭骨留7個彈孔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
     "timestamp": "2026-10-05T17:19:55.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜「大圍名物」火爆姐同節目組嘈　仲屈摸胸：你性侵犯我",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183905859760033792276984.jpeg/0qUMDv33iVq09f6Nj1HCniSnImdJ13Q0qSn0gqkp9II?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396637/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A4%A7%E5%9C%8D%E5%90%8D%E7%89%A9-%E7%81%AB%E7%88%86%E5%A7%90%E5%90%8C%E7%AF%80%E7%9B%AE%E7%B5%84%E5%98%88-%E4%BB%B2%E5%B1%88%E6%91%B8%E8%83%B8-%E4%BD%A0%E6%80%A7%E4%BE%B5%E7%8A%AF%E6%88%91",
-    "timestamp": "2026-10-05T16:48:39.402Z",
     "strategy": ".content-card__main"
   }
 ];
