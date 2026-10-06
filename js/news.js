@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T07:33:56.835Z
+// Last updated: 2026-10-06T09:48:48.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網球︱黃澤林上海大師賽與南非球手激戰3盤　順利過兩關晉主賽圈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184171270380457984053469.jpeg/U3JhPn97FbXN0KvfH8k8JgmPltM4OYyf56wpv-esKb8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60396853/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%AB%E8%B3%BD%E8%88%87%E5%8D%97%E9%9D%9E%E7%90%83%E6%89%8B%E6%BF%80%E6%88%B03%E7%9B%A4-%E9%A0%86%E5%88%A9%E9%81%8E%E5%85%A9%E9%97%9C%E6%99%89%E4%B8%BB%E8%B3%BD%E5%9C%88",
+    "timestamp": "2026-10-06T09:48:48.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜蔡母憶失蹤夜曾質問鄺港智：係咪你老豆捉咗囡囡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220207/567454574076497920019728.jpeg/czbPl7UkVd-ER43Qt2UD8guPtHVrrQpq3B0rpNwdK6Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396658/%E7%A6%8F%E5%B3%B6%E7%AC%AC24%E8%BC%AA%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7-%E6%96%B0%E4%B8%80%E8%BC%AA%E6%8E%92%E6%94%BE%E9%87%8F%E7%B4%847800%E5%99%B8",
     "timestamp": "2026-10-05T21:37:57.516Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福島第24輪核污水排海　新一輪排放量約7800噸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220207/567454574076497920019728.jpeg/czbPl7UkVd-ER43Qt2UD8guPtHVrrQpq3B0rpNwdK6Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396658/%E7%A6%8F%E5%B3%B6%E7%AC%AC24%E8%BC%AA%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7-%E6%96%B0%E4%B8%80%E8%BC%AA%E6%8E%92%E6%94%BE%E9%87%8F%E7%B4%847800%E5%99%B8",
-    "timestamp": "2026-10-05T21:29:46.894Z",
     "strategy": ".content-card__main"
   }
 ];
