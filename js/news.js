@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T13:59:03.434Z
+// Last updated: 2026-10-06T14:47:36.186Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ASUS ROG G1000旗艦電競桌機限量登場！首創全息投影定價6萬7",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184262343492636672032785.jpeg/AoraxUZjBR6FSMHoJG61eazGOFH_XsAa3Mp2ZNzKdmQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60396982/asus-rog-g1000%E6%97%97%E8%89%A6%E9%9B%BB%E7%AB%B6%E6%A1%8C%E6%A9%9F%E9%99%90%E9%87%8F%E7%99%BB%E5%A0%B4-%E9%A6%96%E5%89%B5%E5%85%A8%E6%81%AF%E6%8A%95%E5%BD%B1%E5%AE%9A%E5%83%B96%E8%90%AC7",
+    "timestamp": "2026-10-06T14:47:36.186Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "MC張天賦包到冚去卡牌店玩《符文戰場》　網民力撐：打Deck好過賭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180529743057915904245790.jpeg/c9qtFSWK-aN46mBGtkXR_4-paBieeCreu0Ds-7tA7Ps?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396704/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9F%B4%E7%81%A3%E7%92%B0%E7%BF%A0%E9%82%A827%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-06T03:31:01.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜借鏡英國「階級事務組」　超越救助重建「向上流動」希望",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184083593429782528632158.jpeg/gubDxcFVerZ0xaxOtUrtml270eR0m1pKSA1-wEgNfsA?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60396390/%E4%BE%86%E7%A8%BF-%E5%80%9F%E9%8F%A1%E8%8B%B1%E5%9C%8B-%E9%9A%8E%E7%B4%9A%E4%BA%8B%E5%8B%99%E7%B5%84-%E8%B6%85%E8%B6%8A%E6%95%91%E5%8A%A9%E9%87%8D%E5%BB%BA-%E5%90%91%E4%B8%8A%E6%B5%81%E5%8B%95-%E5%B8%8C%E6%9C%9B",
-    "timestamp": "2026-10-06T03:05:38.381Z",
     "strategy": ".content-card__main"
   }
 ];
