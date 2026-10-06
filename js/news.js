@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T11:57:49.388Z
+// Last updated: 2026-10-06T12:29:45.391Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十大傑青｜小學校長楊銳湘少時沉迷賭博　靠跑步破繭重返人生正途",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184237543407751168961548.jpeg/3aBT-lKhpIyw8UqWb_qqVzNKYlca7d0ecIHqe3CB6ns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396896/%E5%8D%81%E5%A4%A7%E5%82%91%E9%9D%92-%E5%B0%8F%E5%AD%B8%E6%A0%A1%E9%95%B7%E6%A5%8A%E9%8A%B3%E6%B9%98%E5%B0%91%E6%99%82%E6%B2%89%E8%BF%B7%E8%B3%AD%E5%8D%9A-%E9%9D%A0%E8%B7%91%E6%AD%A5%E7%A0%B4%E7%B9%AD%E9%87%8D%E8%BF%94%E4%BA%BA%E7%94%9F%E6%AD%A3%E9%80%94",
+    "timestamp": "2026-10-06T12:29:45.391Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港航空昨晚飛澳洲悉尼航班HX017有旅客不適　今晨急降菲律賓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1183964195612266496524870.jpeg/8r09ZO9p1gO6ZtAvXs-oI_bqOoeJ0wjkyexgkcnsYJE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396650/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F4-%E9%87%8D%E6%98%A0%E5%86%8D%E5%A5%AA%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%86%A0%E8%BB%8D-%E8%88%87%E5%AE%BF%E6%95%B5-%E9%98%BF%E5%87%A1%E9%81%94-%E5%85%A9%E5%BA%A6%E4%BA%A4%E6%88%B0",
     "timestamp": "2026-10-06T01:36:12.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "結束60年歷史！　Sony與Panasonic退出CES 2027背後玄機｜方保僑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183847485949349888794801.jpeg/mAlxLCwtO3gnhrLkKwPS8FsG7JGw4vf8106yXddOsl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60395061/%E7%B5%90%E6%9D%9F60%E5%B9%B4%E6%AD%B7%E5%8F%B2-sony%E8%88%87panasonic%E9%80%80%E5%87%BAces-2027%E8%83%8C%E5%BE%8C%E7%8E%84%E6%A9%9F-%E6%96%B9%E4%BF%9D%E5%83%91",
-    "timestamp": "2026-10-05T23:45:23.426Z",
     "strategy": ".content-card__main"
   }
 ];
