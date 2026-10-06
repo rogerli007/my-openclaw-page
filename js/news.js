@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T23:20:32.453Z
+// Last updated: 2026-10-06T23:55:07.936Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周大福獲鄭家純增持18.1萬股　個人持倉升至0.31%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250211/966041684573949952175294.jpeg/TEtKaXGa1m0dEM3R-Z9j1ZpqD5UmHxBJFrMz_hazM_4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60397025/%E5%91%A8%E5%A4%A7%E7%A6%8F%E7%8D%B2%E9%84%AD%E5%AE%B6%E7%B4%94%E5%A2%9E%E6%8C%8118-1%E8%90%AC%E8%82%A1-%E5%80%8B%E4%BA%BA%E6%8C%81%E5%80%89%E5%8D%87%E8%87%B30-31",
+    "timestamp": "2026-10-06T23:55:07.936Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄景區女客玩峽谷鞦韆臨陣反悔　職員踢腿強推落崖　丈夫開心拍片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184308193652641792943621.png/jVn-MHYkzyJ-teSR1yDQjj3BQf0O6Eovy-hIKsvoSCo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60396999/%E7%B6%B2%E5%82%B3%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5%E6%89%8B%E6%8C%81%E8%BF%91%E5%85%A9%E6%89%93%E5%95%A4%E9%85%92-%E6%9B%B8%E5%8C%85%E5%9A%B4%E9%87%8D%E7%A0%B4%E7%88%9B-%E9%80%94%E4%BA%BA%E6%80%A5%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9",
     "timestamp": "2026-10-06T17:18:23.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東涌綫延綫｜東涌至欣澳站11.28提早2小時收車　配合安裝波口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887774522730614784690324.jpeg/Mv4A8AWrwUO0Si2ab3umZPRiqdXBhYfazG2n-eZtp_k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396997/%E6%9D%B1%E6%B6%8C%E7%B6%AB%E5%BB%B6%E7%B6%AB-%E6%9D%B1%E6%B6%8C%E8%87%B3%E6%AC%A3%E6%BE%B3%E7%AB%9911-28%E6%8F%90%E6%97%A92%E5%B0%8F%E6%99%82%E6%94%B6%E8%BB%8A-%E9%85%8D%E5%90%88%E5%AE%89%E8%A3%9D%E6%B3%A2%E5%8F%A3",
-    "timestamp": "2026-10-06T16:59:43.906Z",
     "strategy": ".content-card__main"
   }
 ];
