@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T20:46:51.998Z
+// Last updated: 2026-10-06T20:56:59.353Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太子的士和頂級公路單車相撞　單車男受輕傷送院　司機協助調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184361010392207360052198.jpeg/YrBjtTmKfnRcKBM3Q_kNcdeXQ7Earjl1G9ICkyHSApM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397014/%E5%A4%AA%E5%AD%90%E7%9A%84%E5%A3%AB%E5%92%8C%E9%A0%82%E7%B4%9A%E5%85%AC%E8%B7%AF%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%96%AE%E8%BB%8A%E7%94%B7%E5%8F%97%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2-%E5%8F%B8%E6%A9%9F%E5%8D%94%E5%8A%A9%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-10-06T20:56:59.353Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "駐沖繩美軍實施30天宵禁　應對士兵涉劫殺風波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184237543407751168961548.jpeg/3aBT-lKhpIyw8UqWb_qqVzNKYlca7d0ecIHqe3CB6ns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396896/%E5%8D%81%E5%A4%A7%E5%82%91%E9%9D%92-%E5%B0%8F%E5%AD%B8%E6%A0%A1%E9%95%B7%E6%A5%8A%E9%8A%B3%E6%B9%98%E5%B0%91%E6%99%82%E6%B2%89%E8%BF%B7%E8%B3%AD%E5%8D%9A-%E9%9D%A0%E8%B7%91%E6%AD%A5%E7%A0%B4%E7%B9%AD%E9%87%8D%E8%BF%94%E4%BA%BA%E7%94%9F%E6%AD%A3%E9%80%94",
     "timestamp": "2026-10-06T12:29:45.391Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港航空昨晚飛澳洲悉尼航班HX017有旅客不適　今晨急降菲律賓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109108959811211264360281.jpeg/nTmpoLPJBB_EA8Vddfqfl5weZDKbv0X3MQaSJjEGkiY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396912/%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%E6%98%A8%E6%99%9A%E9%A3%9B%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E8%88%AA%E7%8F%ADhx017%E6%9C%89%E6%97%85%E5%AE%A2%E4%B8%8D%E9%81%A9-%E4%BB%8A%E6%99%A8%E6%80%A5%E9%99%8D%E8%8F%B2%E5%BE%8B%E8%B3%93",
-    "timestamp": "2026-10-06T11:57:49.388Z",
     "strategy": ".content-card__main"
   }
 ];
