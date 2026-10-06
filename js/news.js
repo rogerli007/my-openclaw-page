@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T02:47:08.890Z
+// Last updated: 2026-10-06T03:05:38.381Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜借鏡英國「階級事務組」　超越救助重建「向上流動」希望",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184083593429782528632158.jpeg/gubDxcFVerZ0xaxOtUrtml270eR0m1pKSA1-wEgNfsA?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60396390/%E4%BE%86%E7%A8%BF-%E5%80%9F%E9%8F%A1%E8%8B%B1%E5%9C%8B-%E9%9A%8E%E7%B4%9A%E4%BA%8B%E5%8B%99%E7%B5%84-%E8%B6%85%E8%B6%8A%E6%95%91%E5%8A%A9%E9%87%8D%E5%BB%BA-%E5%90%91%E4%B8%8A%E6%B5%81%E5%8B%95-%E5%B8%8C%E6%9C%9B",
+    "timestamp": "2026-10-06T03:05:38.381Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法德推動歐盟建立反經濟脅迫工具　強化對華嚇阻機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183869584575303680386594.jpeg/HDpGnIOnvAQfog5mV0t3_AyFYUp7OJIz9aAw1vWgMNY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396604/tvb%E6%94%B6%E8%A6%96-%E6%AD%BB%E6%9C%89%E5%B0%8D%E8%A8%BC-%E9%9D%A0%E5%8F%A3%E7%A2%91%E9%80%A3%E5%8D%87%E4%B8%89%E5%91%A8-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%B9%BC%E7%BA%8C%E4%B8%8B%E8%B7%8C",
     "timestamp": "2026-10-05T15:47:55.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梁榮忠稱與舊愛鍾麗淇久未聯絡　看新聞才知留醫消息盼能早日康復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183915689941929984387162.jpeg/vzCTTyzuPlnfK2acKiw9-IR9uPMTxyeVskukb7JLpG8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396642/%E6%A2%81%E6%A6%AE%E5%BF%A0%E7%A8%B1%E8%88%87%E8%88%8A%E6%84%9B%E9%8D%BE%E9%BA%97%E6%B7%87%E4%B9%85%E6%9C%AA%E8%81%AF%E7%B5%A1-%E7%9C%8B%E6%96%B0%E8%81%9E%E6%89%8D%E7%9F%A5%E7%95%99%E9%86%AB%E6%B6%88%E6%81%AF%E7%9B%BC%E8%83%BD%E6%97%A9%E6%97%A5%E5%BA%B7%E5%BE%A9",
-    "timestamp": "2026-10-05T15:22:26.555Z",
     "strategy": ".content-card__main"
   }
 ];
