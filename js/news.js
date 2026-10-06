@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T03:53:15.595Z
+// Last updated: 2026-10-06T04:24:44.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "央視揭緬北魏家罪行：主犯隨機殺人祭天　受害者頭骨留7個彈孔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184106638286524416973086.jpeg/Mvb_VPGVJniZCV1wbU7jD3iC6l3KRveidRHgDXUR4A0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60396743/%E5%A4%AE%E8%A6%96%E6%8F%AD%E7%B7%AC%E5%8C%97%E9%AD%8F%E5%AE%B6%E7%BD%AA%E8%A1%8C-%E4%B8%BB%E7%8A%AF%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E7%A5%AD%E5%A4%A9-%E5%8F%97%E5%AE%B3%E8%80%85%E9%A0%AD%E9%AA%A8%E7%95%997%E5%80%8B%E5%BD%88%E5%AD%94",
+    "timestamp": "2026-10-06T04:24:44.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "學生信用卡優惠6大比較｜免年費！迎新送$400 Apple禮品卡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183905859760033792276984.jpeg/0qUMDv33iVq09f6Nj1HCniSnImdJ13Q0qSn0gqkp9II?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396637/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%A4%A7%E5%9C%8D%E5%90%8D%E7%89%A9-%E7%81%AB%E7%88%86%E5%A7%90%E5%90%8C%E7%AF%80%E7%9B%AE%E7%B5%84%E5%98%88-%E4%BB%B2%E5%B1%88%E6%91%B8%E8%83%B8-%E4%BD%A0%E6%80%A7%E4%BE%B5%E7%8A%AF%E6%88%91",
     "timestamp": "2026-10-05T16:48:39.402Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麻婆豆腐食譜｜煮法簡易零失敗20分鐘完成、豆腐炒不爛有秘訣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072233419959701504142657.jpeg/VvkD0LoWi__m4nhylKO3Z43kcLuGsv8a0kNZutJDWbo",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60379844/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%E9%A3%9F%E8%AD%9C-%E9%BA%BB%E8%BE%A3%E9%AE%AE%E9%A6%99%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%97-%E8%B1%86%E8%85%90%E7%82%92%E4%B8%8D%E7%88%9B%E6%9C%89%E7%A7%98%E8%A8%A3",
-    "timestamp": "2026-10-05T16:24:29.888Z",
     "strategy": ".content-card__main"
   }
 ];
