@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T17:18:23.383Z
+// Last updated: 2026-10-06T17:46:48.730Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ONE STANLEY缺鋼筋｜屋宇署：會抽驗部份單位及承建商其他項目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397000/one-stanley%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%B1%8B%E5%AE%87%E7%BD%B2-%E6%9C%83%E6%8A%BD%E9%A9%97%E9%83%A8%E4%BB%BD%E5%96%AE%E4%BD%8D%E5%8F%8A%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%B6%E4%BB%96%E9%A0%85%E7%9B%AE",
+    "timestamp": "2026-10-06T17:46:48.730Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網傳屯門富泰邨女童手持近兩打啤酒 書包嚴重破爛 途人急報警求助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184125759736778752305614.jpeg/RX44iXZy5Fx634Vxk-_a7s4GoxbQIGqI_VTKWf1Uylk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396741/%E5%8A%89%E5%AE%B6%E8%89%AF%E5%85%A5%E5%AE%A4%E5%BC%9F%E5%AD%90%E4%BD%95%E9%BA%A5%E5%BF%83%E8%87%9F%E7%97%85%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B464%E6%AD%B2-%E5%8D%B3%E7%9D%87%E5%BF%83%E8%87%9F%E7%97%85%E7%99%BC%E6%80%A5%E6%95%91%E6%8C%87%E5%BC%95",
     "timestamp": "2026-10-06T05:47:36.224Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡依林前度錦榮被揭與混血辣模女友白彌兒「野外嘴對嘴親密自拍」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184120388972449792857639.jpeg/DG1GlfkTLJ-Itjggj8NYnA8kouzq4Dl_tuGD9rbhg_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396758/%E8%94%A1%E4%BE%9D%E6%9E%97%E5%89%8D%E5%BA%A6%E9%8C%A6%E6%A6%AE%E8%A2%AB%E6%8F%AD%E8%88%87%E6%B7%B7%E8%A1%80%E8%BE%A3%E6%A8%A1%E5%A5%B3%E5%8F%8B%E7%99%BD%E5%BD%8C%E5%85%92-%E9%87%8E%E5%A4%96%E5%98%B4%E5%B0%8D%E5%98%B4%E8%A6%AA%E5%AF%86%E8%87%AA%E6%8B%8D",
-    "timestamp": "2026-10-06T05:26:07.712Z",
     "strategy": ".content-card__main"
   }
 ];
