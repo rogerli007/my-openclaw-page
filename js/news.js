@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T05:01:50.006Z
+// Last updated: 2026-10-06T05:26:07.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡依林前度錦榮被揭與混血辣模女友白彌兒「野外嘴對嘴親密自拍」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184120388972449792857639.jpeg/DG1GlfkTLJ-Itjggj8NYnA8kouzq4Dl_tuGD9rbhg_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396758/%E8%94%A1%E4%BE%9D%E6%9E%97%E5%89%8D%E5%BA%A6%E9%8C%A6%E6%A6%AE%E8%A2%AB%E6%8F%AD%E8%88%87%E6%B7%B7%E8%A1%80%E8%BE%A3%E6%A8%A1%E5%A5%B3%E5%8F%8B%E7%99%BD%E5%BD%8C%E5%85%92-%E9%87%8E%E5%A4%96%E5%98%B4%E5%B0%8D%E5%98%B4%E8%A6%AA%E5%AF%86%E8%87%AA%E6%8B%8D",
+    "timestamp": "2026-10-06T05:26:07.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地過關｜小紅書女香港買LV過關　袋內放1物被慘罰20%稅：完蛋了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
     "timestamp": "2026-10-05T18:27:51.801Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
-    "timestamp": "2026-10-05T17:56:06.911Z",
     "strategy": ".content-card__main"
   }
 ];
