@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T10:58:07.113Z
+// Last updated: 2026-10-06T11:19:49.832Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國軍方首次於非軍事區掃雷　回應朝鮮埋設地雷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241014/922471764980666368428501.jpeg/BWyKxVg2ZDX4BCsMj7aDYWH8N0MSEK6geel1nXnpdZ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396889/%E9%9F%93%E5%9C%8B%E8%BB%8D%E6%96%B9%E9%A6%96%E6%AC%A1%E6%96%BC%E9%9D%9E%E8%BB%8D%E4%BA%8B%E5%8D%80%E6%8E%83%E9%9B%B7-%E5%9B%9E%E6%87%89%E6%9C%9D%E9%AE%AE%E5%9F%8B%E8%A8%AD%E5%9C%B0%E9%9B%B7",
+    "timestamp": "2026-10-06T11:19:49.832Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙灣青山道住宅單位傳異味　消防破門揭老翁倒斃　一老婦送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183913384190414848683512.jpeg/EXyUVK8zatv9EshET7vCvoW9O0odtlvQdFKkh3RSpIc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396574/%E9%AD%8F%E9%A7%BF%E5%82%91%E8%A2%AB%E5%89%8D%E5%A6%BB%E8%83%8C%E5%8F%9B%E9%9B%A2%E5%A9%9A%E4%B8%80%E4%BA%BA%E6%B9%8A%E5%A5%B3-58%E6%AD%B2%E7%9D%80%E8%83%8C%E5%BF%83%E7%9F%AD%E8%A4%B2%E7%8D%A8%E5%9D%90%E7%8E%A9%E9%9B%BB%E8%A9%B1%E5%8B%81%E9%9A%A8%E6%84%8F",
     "timestamp": "2026-10-05T22:44:01.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致多雲乾燥　早上稍涼各區普遍約23度　日間最高29度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184020224257691648801259.jpeg/mDdzdwABKE-OWsXrBIZs2wNHTGWY4wAwjSeIUI0niFA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60396648/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E4%B9%BE%E7%87%A5-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC%E5%90%84%E5%8D%80%E6%99%AE%E9%81%8D%E7%B4%8423%E5%BA%A6-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9829%E5%BA%A6",
-    "timestamp": "2026-10-05T22:21:21.222Z",
     "strategy": ".content-card__main"
   }
 ];
