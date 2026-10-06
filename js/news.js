@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T12:29:45.391Z
+// Last updated: 2026-10-06T13:27:07.373Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全球大學校長及領袖高峰會聚焦北都大學城　全球逾50大學代表出席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184189170428416000826409.jpeg/5lYTr_RgCNpvxPtPtqVnV6R-5ZWyJm4O1EL86tRC_Oo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60396890/%E5%85%A8%E7%90%83%E5%A4%A7%E5%AD%B8%E6%A0%A1%E9%95%B7%E5%8F%8A%E9%A0%98%E8%A2%96%E9%AB%98%E5%B3%B0%E6%9C%83%E8%81%9A%E7%84%A6%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E5%85%A8%E7%90%83%E9%80%BE50%E5%A4%A7%E5%AD%B8%E4%BB%A3%E8%A1%A8%E5%87%BA%E5%B8%AD",
+    "timestamp": "2026-10-06T13:27:07.373Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "十大傑青｜小學校長楊銳湘少時沉迷賭博　靠跑步破繭重返人生正途",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184074983635161088304852.png/cOkVyk5_ZQ8bjBH1IIj2nC-wxBtuOOLrwuPff8Lj338?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60396669/%E8%AB%BE%E8%B2%9D%E7%88%BE%E9%86%AB%E5%AD%B8%E7%8D%8E%E5%BE%97%E4%B8%BB%E4%B8%AD%E5%9C%8B%E5%BC%9F%E5%AD%90%E6%8F%AD%E5%90%8D%E5%B8%AB%E9%A2%A8%E7%AF%84-%E6%88%90%E5%8A%9F%E9%9D%9E%E6%8B%BF%E7%8D%8E-%E6%98%AF%E5%AF%AB%E9%80%B2%E6%95%99%E7%A7%91%E6%9B%B8",
     "timestamp": "2026-10-06T02:07:25.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復仇者聯盟4｜重映再奪全球票房冠軍　與宿敵《阿凡達》兩度交戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1183964195612266496524870.jpeg/8r09ZO9p1gO6ZtAvXs-oI_bqOoeJ0wjkyexgkcnsYJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396650/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F4-%E9%87%8D%E6%98%A0%E5%86%8D%E5%A5%AA%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%86%A0%E8%BB%8D-%E8%88%87%E5%AE%BF%E6%95%B5-%E9%98%BF%E5%87%A1%E9%81%94-%E5%85%A9%E5%BA%A6%E4%BA%A4%E6%88%B0",
-    "timestamp": "2026-10-06T01:36:12.530Z",
     "strategy": ".content-card__main"
   }
 ];
