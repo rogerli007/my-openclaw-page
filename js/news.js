@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T13:49:15.329Z
+// Last updated: 2026-10-06T13:59:03.434Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "MC張天賦包到冚去卡牌店玩《符文戰場》　網民力撐：打Deck好過賭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184220537858035712741685.jpeg/ENKZNY2Iep0u1c9e2Fm_yGq31ASedyGQWYvaRlmL2kY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396796/mc%E5%BC%B5%E5%A4%A9%E8%B3%A6%E5%8C%85%E5%88%B0%E5%86%9A%E5%8E%BB%E5%8D%A1%E7%89%8C%E5%BA%97%E7%8E%A9-%E7%AC%A6%E6%96%87%E6%88%B0%E5%A0%B4-%E7%B6%B2%E6%B0%91%E5%8A%9B%E6%92%90-%E6%89%93deck%E5%A5%BD%E9%81%8E%E8%B3%AD",
+    "timestamp": "2026-10-06T13:59:03.434Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湯怡澄清非轉行做美容　參觀尋找投資機會：怕整污糟件衫先換制服",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184083593429782528632158.jpeg/gubDxcFVerZ0xaxOtUrtml270eR0m1pKSA1-wEgNfsA?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60396390/%E4%BE%86%E7%A8%BF-%E5%80%9F%E9%8F%A1%E8%8B%B1%E5%9C%8B-%E9%9A%8E%E7%B4%9A%E4%BA%8B%E5%8B%99%E7%B5%84-%E8%B6%85%E8%B6%8A%E6%95%91%E5%8A%A9%E9%87%8D%E5%BB%BA-%E5%90%91%E4%B8%8A%E6%B5%81%E5%8B%95-%E5%B8%8C%E6%9C%9B",
     "timestamp": "2026-10-06T03:05:38.381Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法德推動歐盟建立反經濟脅迫工具　強化對華嚇阻機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184086717531951104204138.jpeg/EJ9v8NDMorQRhmUDYFFradosXYqGG0WB7qG1Ue6htVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396702/%E6%B3%95%E5%BE%B7%E6%8E%A8%E5%8B%95%E6%AD%90%E7%9B%9F%E5%BB%BA%E7%AB%8B%E5%8F%8D%E7%B6%93%E6%BF%9F%E8%84%85%E8%BF%AB%E5%B7%A5%E5%85%B7-%E5%BC%B7%E5%8C%96%E5%B0%8D%E8%8F%AF%E5%9A%87%E9%98%BB%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-10-06T02:47:08.890Z",
     "strategy": ".content-card__main"
   }
 ];
