@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T04:51:26.916Z
+// Last updated: 2026-10-06T05:01:50.006Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地過關｜小紅書女香港買LV過關　袋內放1物被慘罰20%稅：完蛋了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184123768780361728246817.png/r5FqqUCRlOz077plhtrvFS-xkUmU6p6lTyrlNk8q5TY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60396696/%E5%85%A7%E5%9C%B0%E9%81%8E%E9%97%9C-%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%A5%B3%E9%A6%99%E6%B8%AF%E8%B2%B7lv%E9%81%8E%E9%97%9C-%E8%A2%8B%E5%85%A7%E6%94%BE1%E7%89%A9%E8%A2%AB%E6%85%98%E7%BD%B020-%E7%A8%85-%E5%AE%8C%E8%9B%8B%E4%BA%86",
+    "timestamp": "2026-10-06T05:01:50.006Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立法會新餐廳正式開幕   李慧琼讚營運商虛心聽意見　冀做出口碑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
     "timestamp": "2026-10-05T17:56:06.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
-    "timestamp": "2026-10-05T17:19:55.768Z",
     "strategy": ".content-card__main"
   }
 ];
