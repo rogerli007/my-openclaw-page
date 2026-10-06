@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T05:47:36.224Z
+// Last updated: 2026-10-06T06:35:51.369Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一粥麵10月限時優惠｜原隻豬手$38+乳鴿2隻$68+$32套餐送$5優惠券",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184089429254344704628937.jpeg/rNMn654sqll3u2HULPDX_T7hL251XKWLRaql6kWqpeo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60396800/%E4%B8%80%E7%B2%A5%E9%BA%B510%E6%9C%88%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0-%E5%8E%9F%E9%9A%BB%E8%B1%AC%E6%89%8B-38-%E4%B9%B3%E9%B4%BF2%E9%9A%BB-68-32%E5%A5%97%E9%A4%90%E9%80%81-5%E5%84%AA%E6%83%A0%E5%88%B8",
+    "timestamp": "2026-10-06T06:35:51.369Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉家良入室弟子何麥心臟病離世享年64歲 即睇心臟病發急救指引",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1183962652045479936143675.jpeg/IgxWlC4GlMAfRXg1u7057LUEcAapSKSdb6WJKm-liSo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396651/%E4%BF%84%E7%BE%85%E6%96%AF%E7%96%91%E5%87%BA%E7%8F%BE%E8%82%BA%E9%BC%A0%E7%96%AB%E7%97%85%E4%BE%8B-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E6%96%B9%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E6%9A%AB%E6%AF%8B%E9%A0%88%E6%81%90%E6%85%8C",
     "timestamp": "2026-10-05T19:56:48.402Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
-    "timestamp": "2026-10-05T18:52:07.686Z",
     "strategy": ".content-card__main"
   }
 ];
