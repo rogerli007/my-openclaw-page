@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T20:23:22.623Z
+// Last updated: 2026-10-06T20:46:51.998Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "駐沖繩美軍實施30天宵禁　應對士兵涉劫殺風波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355200668798976024176.jpeg/u626QfX1m9zN69oq226ft9r1RlATxXYIDN03bgzdN24?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397010/%E9%A7%90%E6%B2%96%E7%B9%A9%E7%BE%8E%E8%BB%8D%E5%AF%A6%E6%96%BD30%E5%A4%A9%E5%AE%B5%E7%A6%81-%E6%87%89%E5%B0%8D%E5%A3%AB%E5%85%B5%E6%B6%89%E5%8A%AB%E6%AE%BA%E9%A2%A8%E6%B3%A2",
+    "timestamp": "2026-10-06T20:46:51.998Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "駐沖繩美軍實施30天宵禁　應對士兵涉劫殺風波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260313/1109108959811211264360281.jpeg/nTmpoLPJBB_EA8Vddfqfl5weZDKbv0X3MQaSJjEGkiY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396912/%E9%A6%99%E6%B8%AF%E8%88%AA%E7%A9%BA%E6%98%A8%E6%99%9A%E9%A3%9B%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E8%88%AA%E7%8F%ADhx017%E6%9C%89%E6%97%85%E5%AE%A2%E4%B8%8D%E9%81%A9-%E4%BB%8A%E6%99%A8%E6%80%A5%E9%99%8D%E8%8F%B2%E5%BE%8B%E8%B3%93",
     "timestamp": "2026-10-06T11:57:49.388Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十大傑青｜陳效民憶過往屢敗屢試　不斷掙扎終圓夢成物理治療師",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184212909614436352241680.jpeg/Yu_H82W4JBRRRe-kdeiksXuPqOOwzgpWWUqDDFlKgww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396948/%E5%8D%81%E5%A4%A7%E5%82%91%E9%9D%92-%E9%99%B3%E6%95%88%E6%B0%91%E6%86%B6%E9%81%8E%E5%BE%80%E5%B1%A2%E6%95%97%E5%B1%A2%E8%A9%A6-%E4%B8%8D%E6%96%B7%E6%8E%99%E6%89%8E%E7%B5%82%E5%9C%93%E5%A4%A2%E6%88%90%E7%89%A9%E7%90%86%E6%B2%BB%E7%99%82%E5%B8%AB",
-    "timestamp": "2026-10-06T11:35:20.442Z",
     "strategy": ".content-card__main"
   }
 ];
