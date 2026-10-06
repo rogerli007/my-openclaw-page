@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T10:46:55.625Z
+// Last updated: 2026-10-06T10:58:07.113Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣青山道住宅單位傳異味　消防破門揭老翁倒斃　一老婦送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184211430883201024867104.jpeg/ubX9yhixdQqbkXtNmlob1ZA0B_V4B_GaB3JjgwdyY4M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396942/%E9%95%B7%E6%B2%99%E7%81%A3%E9%9D%92%E5%B1%B1%E9%81%93%E4%BD%8F%E5%AE%85%E5%96%AE%E4%BD%8D%E5%82%B3%E7%95%B0%E5%91%B3-%E6%B6%88%E9%98%B2%E7%A0%B4%E9%96%80%E6%8F%AD%E8%80%81%E7%BF%81%E5%80%92%E6%96%83-%E4%B8%80%E8%80%81%E5%A9%A6%E9%80%81%E9%99%A2",
+    "timestamp": "2026-10-06T10:58:07.113Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "康文署健身室攻略｜每日$6起！使用資格/上堂/收費/預約一文看清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184020224257691648801259.jpeg/mDdzdwABKE-OWsXrBIZs2wNHTGWY4wAwjSeIUI0niFA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60396648/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2%E4%B9%BE%E7%87%A5-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC%E5%90%84%E5%8D%80%E6%99%AE%E9%81%8D%E7%B4%8423%E5%BA%A6-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9829%E5%BA%A6",
     "timestamp": "2026-10-05T22:21:21.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福島第24輪核污水排海　新一輪排放量約7800噸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220207/567454574076497920019728.jpeg/czbPl7UkVd-ER43Qt2UD8guPtHVrrQpq3B0rpNwdK6Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396658/%E7%A6%8F%E5%B3%B6%E7%AC%AC24%E8%BC%AA%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7-%E6%96%B0%E4%B8%80%E8%BC%AA%E6%8E%92%E6%94%BE%E9%87%8F%E7%B4%847800%E5%99%B8",
-    "timestamp": "2026-10-05T21:56:05.986Z",
     "strategy": ".content-card__main"
   }
 ];
