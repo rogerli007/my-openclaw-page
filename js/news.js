@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T01:36:12.530Z
+// Last updated: 2026-10-06T02:07:25.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "諾貝爾醫學獎得主中國弟子揭名師風範：成功非拿獎，是寫進教科書",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184074983635161088304852.png/cOkVyk5_ZQ8bjBH1IIj2nC-wxBtuOOLrwuPff8Lj338?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60396669/%E8%AB%BE%E8%B2%9D%E7%88%BE%E9%86%AB%E5%AD%B8%E7%8D%8E%E5%BE%97%E4%B8%BB%E4%B8%AD%E5%9C%8B%E5%BC%9F%E5%AD%90%E6%8F%AD%E5%90%8D%E5%B8%AB%E9%A2%A8%E7%AF%84-%E6%88%90%E5%8A%9F%E9%9D%9E%E6%8B%BF%E7%8D%8E-%E6%98%AF%E5%AF%AB%E9%80%B2%E6%95%99%E7%A7%91%E6%9B%B8",
+    "timestamp": "2026-10-06T02:07:25.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復仇者聯盟4｜重映再奪全球票房冠軍　與宿敵《阿凡達》兩度交戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147128626525769728326514.jpeg/MhSroyelTggQRxR74SprUJ-mnyFd4KSvdZqXFHWalxQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396635/%E7%BE%8E%E5%9C%8Bai%E4%BC%81%E6%A5%AD%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%90%8C%E8%A1%8C%E5%84%AA%E5%8B%A2%E5%A4%A7%E5%B9%85%E6%94%B6%E7%AA%84-%E5%A4%96%E7%95%8C%E8%B3%AA%E7%96%91%E7%BE%8E%E5%9C%8B%E6%99%B6%E7%89%87%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD",
     "timestamp": "2026-10-05T14:25:10.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安德魯向英警提訴訟　質疑愛潑斯坦案住所搜查令合法性　要求撤銷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230613/745413626185125888237160.jpeg/owcTZCuxQhGMVzn0OmG8Uc0eJAcbWlijafrOTGn6zkw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396627/%E5%AE%89%E5%BE%B7%E9%AD%AF%E5%90%91%E8%8B%B1%E8%AD%A6%E6%8F%90%E8%A8%B4%E8%A8%9F-%E8%B3%AA%E7%96%91%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88%E4%BD%8F%E6%89%80%E6%90%9C%E6%9F%A5%E4%BB%A4%E5%90%88%E6%B3%95%E6%80%A7-%E8%A6%81%E6%B1%82%E6%92%A4%E9%8A%B7",
-    "timestamp": "2026-10-05T13:51:58.362Z",
     "strategy": ".content-card__main"
   }
 ];
