@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-05T23:45:23.426Z
+// Last updated: 2026-10-06T01:36:12.530Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復仇者聯盟4｜重映再奪全球票房冠軍　與宿敵《阿凡達》兩度交戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1183964195612266496524870.jpeg/8r09ZO9p1gO6ZtAvXs-oI_bqOoeJ0wjkyexgkcnsYJE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396650/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F4-%E9%87%8D%E6%98%A0%E5%86%8D%E5%A5%AA%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%86%A0%E8%BB%8D-%E8%88%87%E5%AE%BF%E6%95%B5-%E9%98%BF%E5%87%A1%E9%81%94-%E5%85%A9%E5%BA%A6%E4%BA%A4%E6%88%B0",
+    "timestamp": "2026-10-06T01:36:12.530Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "結束60年歷史！　Sony與Panasonic退出CES 2027背後玄機｜方保僑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230613/745413626185125888237160.jpeg/owcTZCuxQhGMVzn0OmG8Uc0eJAcbWlijafrOTGn6zkw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396627/%E5%AE%89%E5%BE%B7%E9%AD%AF%E5%90%91%E8%8B%B1%E8%AD%A6%E6%8F%90%E8%A8%B4%E8%A8%9F-%E8%B3%AA%E7%96%91%E6%84%9B%E6%BD%91%E6%96%AF%E5%9D%A6%E6%A1%88%E4%BD%8F%E6%89%80%E6%90%9C%E6%9F%A5%E4%BB%A4%E5%90%88%E6%B3%95%E6%80%A7-%E8%A6%81%E6%B1%82%E6%92%A4%E9%8A%B7",
     "timestamp": "2026-10-05T13:51:58.362Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "實驗員「不明肺炎」亡　俄羅斯首席衛生官赴西伯利亞開防疫特別會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183763120078721024260415.png/ehHutunHEnCd-fR7R16EdjHBWoVPMWLkZWPGymVjxso?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396617/%E5%AF%A6%E9%A9%97%E5%93%A1-%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E-%E4%BA%A1-%E4%BF%84%E7%BE%85%E6%96%AF%E9%A6%96%E5%B8%AD%E8%A1%9B%E7%94%9F%E5%AE%98%E8%B5%B4%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9E%E9%96%8B%E9%98%B2%E7%96%AB%E7%89%B9%E5%88%A5%E6%9C%83",
-    "timestamp": "2026-10-05T13:00:15.408Z",
     "strategy": ".content-card__main"
   }
 ];
