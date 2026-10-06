@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T17:46:48.730Z
+// Last updated: 2026-10-06T18:00:57.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ONE STANLEY缺鋼筋｜屋宇署：會抽驗部份單位及承建商其他項目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397000/one-stanley%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%B1%8B%E5%AE%87%E7%BD%B2-%E6%9C%83%E6%8A%BD%E9%A9%97%E9%83%A8%E4%BB%BD%E5%96%AE%E4%BD%8D%E5%8F%8A%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%B6%E4%BB%96%E9%A0%85%E7%9B%AE",
+    "timestamp": "2026-10-06T18:00:57.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ONE STANLEY缺鋼筋｜屋宇署：會抽驗部份單位及承建商其他項目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184089429254344704628937.jpeg/rNMn654sqll3u2HULPDX_T7hL251XKWLRaql6kWqpeo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60396800/%E4%B8%80%E7%B2%A5%E9%BA%B510%E6%9C%88%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0-%E5%8E%9F%E9%9A%BB%E8%B1%AC%E6%89%8B-38-%E4%B9%B3%E9%B4%BF2%E9%9A%BB-68-32%E5%A5%97%E9%A4%90%E9%80%81-5%E5%84%AA%E6%83%A0%E5%88%B8",
     "timestamp": "2026-10-06T06:35:51.369Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉家良入室弟子何麥心臟病離世享年64歲 即睇心臟病發急救指引",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184125759736778752305614.jpeg/RX44iXZy5Fx634Vxk-_a7s4GoxbQIGqI_VTKWf1Uylk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396741/%E5%8A%89%E5%AE%B6%E8%89%AF%E5%85%A5%E5%AE%A4%E5%BC%9F%E5%AD%90%E4%BD%95%E9%BA%A5%E5%BF%83%E8%87%9F%E7%97%85%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B464%E6%AD%B2-%E5%8D%B3%E7%9D%87%E5%BF%83%E8%87%9F%E7%97%85%E7%99%BC%E6%80%A5%E6%95%91%E6%8C%87%E5%BC%95",
-    "timestamp": "2026-10-06T05:47:36.224Z",
     "strategy": ".content-card__main"
   }
 ];
