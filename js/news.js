@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T03:05:38.381Z
+// Last updated: 2026-10-06T03:31:01.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜柴灣環翠邨27歲男子墮樓　送院搶救後不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180529743057915904245790.jpeg/c9qtFSWK-aN46mBGtkXR_4-paBieeCreu0Ds-7tA7Ps?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396704/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9F%B4%E7%81%A3%E7%92%B0%E7%BF%A0%E9%82%A827%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-10-06T03:31:01.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜借鏡英國「階級事務組」　超越救助重建「向上流動」希望",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183860786896834560967148.jpeg/JZJnImvscNoYwWps3gSHnY3VueKNwpZokIK6dZCCunU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396591/%E5%BC%B5%E7%B9%BC%E8%81%B0%E9%9F%8B%E7%BE%85%E8%8E%8E%E5%9C%8D%E8%AE%80%E6%96%B0%E8%88%9E%E5%8F%B0%E5%8A%87%E6%B3%A3%E4%B8%8D%E6%88%90%E8%81%B2-%E6%BC%94%E5%96%AA%E5%AD%90%E7%97%9B%E9%9D%A0%E7%9D%87%E5%A4%AA%E9%99%BD%E9%A3%9F%E7%94%9C%E5%93%81%E6%8A%BD%E9%9B%A2",
     "timestamp": "2026-10-05T15:59:04.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB收視｜《死有對証》靠口碑連升三周　《愛回家》繼續下跌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183869584575303680386594.jpeg/HDpGnIOnvAQfog5mV0t3_AyFYUp7OJIz9aAw1vWgMNY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396604/tvb%E6%94%B6%E8%A6%96-%E6%AD%BB%E6%9C%89%E5%B0%8D%E8%A8%BC-%E9%9D%A0%E5%8F%A3%E7%A2%91%E9%80%A3%E5%8D%87%E4%B8%89%E5%91%A8-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E7%B9%BC%E7%BA%8C%E4%B8%8B%E8%B7%8C",
-    "timestamp": "2026-10-05T15:47:55.793Z",
     "strategy": ".content-card__main"
   }
 ];
