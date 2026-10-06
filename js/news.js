@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T22:54:48.510Z
+// Last updated: 2026-10-06T23:20:32.453Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄景區女客玩峽谷鞦韆臨陣反悔　職員踢腿強推落崖　丈夫開心拍片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184169892299935744510243.png/uKB1Jr6Fqm-BdSek0qn8Rpcp6PL37-cuBiDehwYg3oc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60396202/%E4%BF%84%E6%99%AF%E5%8D%80%E5%A5%B3%E5%AE%A2%E7%8E%A9%E5%B3%BD%E8%B0%B7%E9%9E%A6%E9%9F%86%E8%87%A8%E9%99%A3%E5%8F%8D%E6%82%94-%E8%81%B7%E5%93%A1%E8%B8%A2%E8%85%BF%E5%BC%B7%E6%8E%A8%E8%90%BD%E5%B4%96-%E4%B8%88%E5%A4%AB%E9%96%8B%E5%BF%83%E6%8B%8D%E7%89%87",
+    "timestamp": "2026-10-06T23:20:32.453Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB女星北上勤力開工同人迫住坐歎平民嘢　嫁富貴老公住複式豪宅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887774522730614784690324.jpeg/Mv4A8AWrwUO0Si2ab3umZPRiqdXBhYfazG2n-eZtp_k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396997/%E6%9D%B1%E6%B6%8C%E7%B6%AB%E5%BB%B6%E7%B6%AB-%E6%9D%B1%E6%B6%8C%E8%87%B3%E6%AC%A3%E6%BE%B3%E7%AB%9911-28%E6%8F%90%E6%97%A92%E5%B0%8F%E6%99%82%E6%94%B6%E8%BB%8A-%E9%85%8D%E5%90%88%E5%AE%89%E8%A3%9D%E6%B3%A2%E5%8F%A3",
     "timestamp": "2026-10-06T16:59:43.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國學生示威持續再爆衝突　全國約2000高中停課　總理稱不容暴力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184286631247482880279035.jpeg/jtYUr5X96c2e8CEmJhZynfKbmFN0VGCJtGAQC7RgEAs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396995/%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8C%81%E7%BA%8C%E5%86%8D%E7%88%86%E8%A1%9D%E7%AA%81-%E5%85%A8%E5%9C%8B%E7%B4%842000%E9%AB%98%E4%B8%AD%E5%81%9C%E8%AA%B2-%E7%B8%BD%E7%90%86%E7%A8%B1%E4%B8%8D%E5%AE%B9%E6%9A%B4%E5%8A%9B",
-    "timestamp": "2026-10-06T16:49:18.157Z",
     "strategy": ".content-card__main"
   }
 ];
