@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T03:31:01.445Z
+// Last updated: 2026-10-06T03:53:15.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "學生信用卡優惠6大比較｜免年費！迎新送$400 Apple禮品卡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171842617634197504485912.png/k9QSb4hCySX8lLXfrZ-rcW262SWUUpRJazSWbGs0lmw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60300228/%E5%AD%B8%E7%94%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%84%AA%E6%83%A06%E5%A4%A7%E6%AF%94%E8%BC%83-%E5%85%8D%E5%B9%B4%E8%B2%BB-%E8%BF%8E%E6%96%B0%E9%80%81-400-apple%E7%A6%AE%E5%93%81%E5%8D%A1",
+    "timestamp": "2026-10-06T03:53:15.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜柴灣環翠邨27歲男子墮樓　送院搶救後不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072233419959701504142657.jpeg/VvkD0LoWi__m4nhylKO3Z43kcLuGsv8a0kNZutJDWbo",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60379844/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%E9%A3%9F%E8%AD%9C-%E9%BA%BB%E8%BE%A3%E9%AE%AE%E9%A6%99%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%93%E9%9B%B6%E5%A4%B1%E6%95%97-%E8%B1%86%E8%85%90%E7%82%92%E4%B8%8D%E7%88%9B%E6%9C%89%E7%A7%98%E8%A8%A3",
     "timestamp": "2026-10-05T16:24:29.888Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張繼聰韋羅莎圍讀新舞台劇泣不成聲　演喪子痛靠睇太陽食甜品抽離",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183860786896834560967148.jpeg/JZJnImvscNoYwWps3gSHnY3VueKNwpZokIK6dZCCunU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396591/%E5%BC%B5%E7%B9%BC%E8%81%B0%E9%9F%8B%E7%BE%85%E8%8E%8E%E5%9C%8D%E8%AE%80%E6%96%B0%E8%88%9E%E5%8F%B0%E5%8A%87%E6%B3%A3%E4%B8%8D%E6%88%90%E8%81%B2-%E6%BC%94%E5%96%AA%E5%AD%90%E7%97%9B%E9%9D%A0%E7%9D%87%E5%A4%AA%E9%99%BD%E9%A3%9F%E7%94%9C%E5%93%81%E6%8A%BD%E9%9B%A2",
-    "timestamp": "2026-10-05T15:59:04.870Z",
     "strategy": ".content-card__main"
   }
 ];
