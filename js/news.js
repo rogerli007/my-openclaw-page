@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T21:34:31.359Z
+// Last updated: 2026-10-06T21:46:53.333Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗大棠村村屋妻子住所暈倒　丈夫報案　送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184368699402883072194237.jpeg/R3Jskv_0KS9ynYA3GxkYIAQC16kvYbUzdk4C50xOAuc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397017/%E5%85%83%E6%9C%97%E5%A4%A7%E6%A3%A0%E6%9D%91%E6%9D%91%E5%B1%8B%E5%A6%BB%E5%AD%90%E4%BD%8F%E6%89%80%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-10-06T21:46:53.333Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗大棠村村屋妻子住所暈倒　丈夫報案　送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184220537858035712741685.jpeg/ENKZNY2Iep0u1c9e2Fm_yGq31ASedyGQWYvaRlmL2kY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396796/mc%E5%BC%B5%E5%A4%A9%E8%B3%A6%E5%8C%85%E5%88%B0%E5%86%9A%E5%8E%BB%E5%8D%A1%E7%89%8C%E5%BA%97%E7%8E%A9-%E7%AC%A6%E6%96%87%E6%88%B0%E5%A0%B4-%E7%B6%B2%E6%B0%91%E5%8A%9B%E6%92%90-%E6%89%93deck%E5%A5%BD%E9%81%8E%E8%B3%AD",
     "timestamp": "2026-10-06T13:59:03.434Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湯怡澄清非轉行做美容　參觀尋找投資機會：怕整污糟件衫先換制服",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184244912208482304289673.jpeg/_jlCNiOc_qF__0f1gWVAFBZRy44OsnscIM39IiDN_SI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60396972/%E6%B9%AF%E6%80%A1%E6%BE%84%E6%B8%85%E9%9D%9E%E8%BD%89%E8%A1%8C%E5%81%9A%E7%BE%8E%E5%AE%B9-%E5%8F%83%E8%A7%80%E5%B0%8B%E6%89%BE%E6%8A%95%E8%B3%87%E6%A9%9F%E6%9C%83-%E6%80%95%E6%95%B4%E6%B1%A1%E7%B3%9F%E4%BB%B6%E8%A1%AB%E5%85%88%E6%8F%9B%E5%88%B6%E6%9C%8D",
-    "timestamp": "2026-10-06T13:49:15.329Z",
     "strategy": ".content-card__main"
   }
 ];
