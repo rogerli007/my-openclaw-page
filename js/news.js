@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T02:07:25.145Z
+// Last updated: 2026-10-06T02:47:08.890Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法德推動歐盟建立反經濟脅迫工具　強化對華嚇阻機制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184086717531951104204138.jpeg/EJ9v8NDMorQRhmUDYFFradosXYqGG0WB7qG1Ue6htVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396702/%E6%B3%95%E5%BE%B7%E6%8E%A8%E5%8B%95%E6%AD%90%E7%9B%9F%E5%BB%BA%E7%AB%8B%E5%8F%8D%E7%B6%93%E6%BF%9F%E8%84%85%E8%BF%AB%E5%B7%A5%E5%85%B7-%E5%BC%B7%E5%8C%96%E5%B0%8D%E8%8F%AF%E5%9A%87%E9%98%BB%E6%A9%9F%E5%88%B6",
+    "timestamp": "2026-10-06T02:47:08.890Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "諾貝爾醫學獎得主中國弟子揭名師風範：成功非拿獎，是寫進教科書",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183915689941929984387162.jpeg/vzCTTyzuPlnfK2acKiw9-IR9uPMTxyeVskukb7JLpG8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396642/%E6%A2%81%E6%A6%AE%E5%BF%A0%E7%A8%B1%E8%88%87%E8%88%8A%E6%84%9B%E9%8D%BE%E9%BA%97%E6%B7%87%E4%B9%85%E6%9C%AA%E8%81%AF%E7%B5%A1-%E7%9C%8B%E6%96%B0%E8%81%9E%E6%89%8D%E7%9F%A5%E7%95%99%E9%86%AB%E6%B6%88%E6%81%AF%E7%9B%BC%E8%83%BD%E6%97%A9%E6%97%A5%E5%BA%B7%E5%BE%A9",
     "timestamp": "2026-10-05T15:22:26.555Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國AI企業對中國同行優勢大幅收窄　外界質疑美國晶片管制措施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260626/1147128626525769728326514.jpeg/MhSroyelTggQRxR74SprUJ-mnyFd4KSvdZqXFHWalxQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396635/%E7%BE%8E%E5%9C%8Bai%E4%BC%81%E6%A5%AD%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%90%8C%E8%A1%8C%E5%84%AA%E5%8B%A2%E5%A4%A7%E5%B9%85%E6%94%B6%E7%AA%84-%E5%A4%96%E7%95%8C%E8%B3%AA%E7%96%91%E7%BE%8E%E5%9C%8B%E6%99%B6%E7%89%87%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD",
-    "timestamp": "2026-10-05T14:25:10.843Z",
     "strategy": ".content-card__main"
   }
 ];
