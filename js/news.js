@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T15:56:16.549Z
+// Last updated: 2026-10-06T16:49:18.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國學生示威持續再爆衝突　全國約2000高中停課　總理稱不容暴力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184286631247482880279035.jpeg/jtYUr5X96c2e8CEmJhZynfKbmFN0VGCJtGAQC7RgEAs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396995/%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8C%81%E7%BA%8C%E5%86%8D%E7%88%86%E8%A1%9D%E7%AA%81-%E5%85%A8%E5%9C%8B%E7%B4%842000%E9%AB%98%E4%B8%AD%E5%81%9C%E8%AA%B2-%E7%B8%BD%E7%90%86%E7%A8%B1%E4%B8%8D%E5%AE%B9%E6%9A%B4%E5%8A%9B",
+    "timestamp": "2026-10-06T16:49:18.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段曾漲近400點　標指納指創新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184122104979656704607185.jpeg/ZwrAieEvDQZESjGOnFIpQyx15_V7wPXrwi6ST8Iukk8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60396776/%E7%AB%8B%E6%B3%95%E6%9C%83%E6%96%B0%E9%A4%90%E5%BB%B3%E6%AD%A3%E5%BC%8F%E9%96%8B%E5%B9%95-%E6%9D%8E%E6%85%A7%E7%90%BC%E8%AE%9A%E7%87%9F%E9%81%8B%E5%95%86%E8%99%9B%E5%BF%83%E8%81%BD%E6%84%8F%E8%A6%8B-%E5%86%80%E5%81%9A%E5%87%BA%E5%8F%A3%E7%A2%91",
     "timestamp": "2026-10-06T04:51:26.916Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "央視揭緬北魏家罪行：主犯隨機殺人祭天　受害者頭骨留7個彈孔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184106638286524416973086.jpeg/Mvb_VPGVJniZCV1wbU7jD3iC6l3KRveidRHgDXUR4A0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60396743/%E5%A4%AE%E8%A6%96%E6%8F%AD%E7%B7%AC%E5%8C%97%E9%AD%8F%E5%AE%B6%E7%BD%AA%E8%A1%8C-%E4%B8%BB%E7%8A%AF%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E7%A5%AD%E5%A4%A9-%E5%8F%97%E5%AE%B3%E8%80%85%E9%A0%AD%E9%AA%A8%E7%95%997%E5%80%8B%E5%BD%88%E5%AD%94",
-    "timestamp": "2026-10-06T04:24:44.659Z",
     "strategy": ".content-card__main"
   }
 ];
