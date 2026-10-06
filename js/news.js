@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T05:26:07.712Z
+// Last updated: 2026-10-06T05:47:36.224Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉家良入室弟子何麥心臟病離世享年64歲 即睇心臟病發急救指引",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184125759736778752305614.jpeg/RX44iXZy5Fx634Vxk-_a7s4GoxbQIGqI_VTKWf1Uylk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396741/%E5%8A%89%E5%AE%B6%E8%89%AF%E5%85%A5%E5%AE%A4%E5%BC%9F%E5%AD%90%E4%BD%95%E9%BA%A5%E5%BF%83%E8%87%9F%E7%97%85%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B464%E6%AD%B2-%E5%8D%B3%E7%9D%87%E5%BF%83%E8%87%9F%E7%97%85%E7%99%BC%E6%80%A5%E6%95%91%E6%8C%87%E5%BC%95",
+    "timestamp": "2026-10-06T05:47:36.224Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡依林前度錦榮被揭與混血辣模女友白彌兒「野外嘴對嘴親密自拍」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
     "timestamp": "2026-10-05T18:52:07.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊茜堯羅子溢慶祝結婚10周年　曬一家四口背影照甜蜜告白冧爆全網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183895930034720768029346.jpeg/MZB77IOiJm1Ka6BGqwez1BVlGUnu0qAhXdM8uV3TPLk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396618/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%BE%85%E5%AD%90%E6%BA%A2%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4-%E6%9B%AC%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%83%8C%E5%BD%B1%E7%85%A7%E7%94%9C%E8%9C%9C%E5%91%8A%E7%99%BD%E5%86%A7%E7%88%86%E5%85%A8%E7%B6%B2",
-    "timestamp": "2026-10-05T18:27:51.801Z",
     "strategy": ".content-card__main"
   }
 ];
