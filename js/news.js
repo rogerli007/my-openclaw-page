@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T06:35:51.369Z
+// Last updated: 2026-10-06T07:33:56.835Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜蔡母憶失蹤夜曾質問鄺港智：係咪你老豆捉咗囡囡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230307/709781159088754688014953.jpeg/__1sxcFSJjU_HYdkG7_rTRE_KUXQPawCmlQhhLNUIYQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396832/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%94%A1%E6%AF%8D%E6%86%B6%E5%A4%B1%E8%B9%A4%E5%A4%9C%E6%9B%BE%E8%B3%AA%E5%95%8F%E9%84%BA%E6%B8%AF%E6%99%BA-%E4%BF%82%E5%92%AA%E4%BD%A0%E8%80%81%E8%B1%86%E6%8D%89%E5%92%97%E5%9B%A1%E5%9B%A1",
+    "timestamp": "2026-10-06T07:33:56.835Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一粥麵10月限時優惠｜原隻豬手$38+乳鴿2隻$68+$32套餐送$5優惠券",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220207/567454574076497920019728.jpeg/czbPl7UkVd-ER43Qt2UD8guPtHVrrQpq3B0rpNwdK6Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396658/%E7%A6%8F%E5%B3%B6%E7%AC%AC24%E8%BC%AA%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7-%E6%96%B0%E4%B8%80%E8%BC%AA%E6%8E%92%E6%94%BE%E9%87%8F%E7%B4%847800%E5%99%B8",
     "timestamp": "2026-10-05T21:29:46.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯疑出現肺鼠疫病例　魯比奧：美方密切關注暫毋須恐慌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1183962652045479936143675.jpeg/IgxWlC4GlMAfRXg1u7057LUEcAapSKSdb6WJKm-liSo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396651/%E4%BF%84%E7%BE%85%E6%96%AF%E7%96%91%E5%87%BA%E7%8F%BE%E8%82%BA%E9%BC%A0%E7%96%AB%E7%97%85%E4%BE%8B-%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E6%96%B9%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E6%9A%AB%E6%AF%8B%E9%A0%88%E6%81%90%E6%85%8C",
-    "timestamp": "2026-10-05T19:56:48.402Z",
     "strategy": ".content-card__main"
   }
 ];
