@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T22:44:36.549Z
+// Last updated: 2026-10-06T22:54:48.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB女星北上勤力開工同人迫住坐歎平民嘢　嫁富貴老公住複式豪宅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184186437830971392357401.jpeg/iCfymfkdxoHAFXq0MCtjfSQ8ohXu3XuJUF_yblBf8m4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396862/%E6%BB%95%E9%BA%97%E5%90%8D%E5%8C%97%E4%B8%8A%E5%8B%A4%E5%8A%9B%E9%96%8B%E5%B7%A5%E5%90%8C%E4%BA%BA%E8%BF%AB%E4%BD%8F%E5%9D%90%E6%AD%8E%E5%B9%B3%E6%B0%91%E9%A4%90%E5%BB%B3-%E5%AB%81%E6%9C%89%E7%B1%B3%E8%80%81%E5%85%AC%E4%BD%8F%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85",
+    "timestamp": "2026-10-06T22:54:48.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB女星北上勤力開工同人迫住坐歎平民嘢　嫁富貴老公住複式豪宅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184286631247482880279035.jpeg/jtYUr5X96c2e8CEmJhZynfKbmFN0VGCJtGAQC7RgEAs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60396995/%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8C%81%E7%BA%8C%E5%86%8D%E7%88%86%E8%A1%9D%E7%AA%81-%E5%85%A8%E5%9C%8B%E7%B4%842000%E9%AB%98%E4%B8%AD%E5%81%9C%E8%AA%B2-%E7%B8%BD%E7%90%86%E7%A8%B1%E4%B8%8D%E5%AE%B9%E6%9A%B4%E5%8A%9B",
     "timestamp": "2026-10-06T16:49:18.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段曾漲近400點　標指納指創新高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113610276663463936480972.jpeg/DdTsp43e3G4b1oxuI1PHcJOdWljiOKf0YwUPwmMFD8I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60396993/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E6%9B%BE%E6%BC%B2%E8%BF%91400%E9%BB%9E-%E6%A8%99%E6%8C%87%E7%B4%8D%E6%8C%87%E5%89%B5%E6%96%B0%E9%AB%98",
-    "timestamp": "2026-10-06T15:56:16.549Z",
     "strategy": ".content-card__main"
   }
 ];
