@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T17:35:59.191Z
+// Last updated: 2026-10-07T18:25:53.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九龍走廊私家車撞壆四輪朝天　司機一度被困自行爬出拒送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184684845326929920164750.jpeg/k3ml5QY34U6GdNI87l6OFcGKSu-9BvfEtYXFDrWFxQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397359/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E8%B5%B0%E5%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E8%87%AA%E8%A1%8C%E7%88%AC%E5%87%BA%E6%8B%92%E9%80%81%E9%99%A2",
+    "timestamp": "2026-10-07T18:25:53.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "資助換電動的士｜僅4成車主參加　謝展寰：經濟轉變令換車更審慎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183720939834052608340175.png/0a0RAY32mJyu5BZX4hwOcgubK4Df4QXPGrSMSRq0jEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60397155/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%A7%80%E5%AF%9F-%E8%94%A1%E5%BA%B7%E6%B0%B8%E9%9C%87%E5%8B%95%E5%8F%B0%E5%8C%97%E9%81%B8%E6%83%85",
     "timestamp": "2026-10-07T07:34:42.018Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前「東張女神」林泳淘婚後激罕曬泳照　完美線條引粉絲暴動按讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184239711225384960198570.jpeg/29krEL9AwbZIXskotcuPInxelI5JWgZlJCSe-SQknvk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396873/%E5%89%8D-%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E-%E6%9E%97%E6%B3%B3%E6%B7%98%E5%A9%9A%E5%BE%8C%E6%BF%80%E7%BD%95%E6%9B%AC%E6%B3%B3%E7%85%A7-%E5%AE%8C%E7%BE%8E%E7%B7%9A%E6%A2%9D%E5%BC%95%E7%B2%89%E7%B5%B2%E6%9A%B4%E5%8B%95%E6%8C%89%E8%AE%9A",
-    "timestamp": "2026-10-07T07:03:37.287Z",
     "strategy": ".content-card__main"
   }
 ];
