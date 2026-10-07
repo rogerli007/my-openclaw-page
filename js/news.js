@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T09:24:33.956Z
+// Last updated: 2026-10-07T09:49:20.158Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "呎價平過居屋5成！嘉湖2房銀主盤248萬連租約推拍　呎價5538元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184553574827298816726390.jpeg/sxRB90AnDD43-iTXZSZGttAa1kD4fgh943HvquNx76o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397255/%E5%91%8E%E5%83%B9%E5%B9%B3%E9%81%8E%E5%B1%85%E5%B1%8B5%E6%88%90-%E5%98%89%E6%B9%962%E6%88%BF%E9%8A%80%E4%B8%BB%E7%9B%A4248%E8%90%AC%E9%80%A3%E7%A7%9F%E7%B4%84%E6%8E%A8%E6%8B%8D-%E5%91%8E%E5%83%B95538%E5%85%83",
+    "timestamp": "2026-10-07T09:49:20.158Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麻婆豆腐食譜｜煮法簡易20分鐘6步完成、豆腐炒不爛有秘訣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184186437830971392357401.jpeg/iCfymfkdxoHAFXq0MCtjfSQ8ohXu3XuJUF_yblBf8m4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396862/%E6%BB%95%E9%BA%97%E5%90%8D%E5%8C%97%E4%B8%8A%E5%8B%A4%E5%8A%9B%E9%96%8B%E5%B7%A5%E5%90%8C%E4%BA%BA%E8%BF%AB%E4%BD%8F%E5%9D%90%E6%AD%8E%E5%B9%B3%E6%B0%91%E9%A4%90%E5%BB%B3-%E5%AB%81%E6%9C%89%E7%B1%B3%E8%80%81%E5%85%AC%E4%BD%8F%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85",
     "timestamp": "2026-10-06T22:44:36.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致天晴乾燥　早上稍涼大部份地區約23度　日間約30度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184385716789317632279168.jpeg/XJ9Rw6v9Tr_I_uaGf1mCZPDkdSRWMm3Krw2fsq8Nn7I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397002/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC%E5%A4%A7%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E7%B4%8423%E5%BA%A6-%E6%97%A5%E9%96%93%E7%B4%8430%E5%BA%A6",
-    "timestamp": "2026-10-06T22:22:37.279Z",
     "strategy": ".content-card__main"
   }
 ];
