@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T04:30:27.751Z
+// Last updated: 2026-10-07T04:52:01.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李靜、爾冬陞、貝鈞奇首日報名競逐選委　中秋出獄黃百鳴未爭連任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184469581503139840130867.jpeg/np9qhe4G42Y5vAyxiwykY_HLyWpy28hEKW0e1CltHtQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60397096/%E6%9D%8E%E9%9D%9C-%E7%88%BE%E5%86%AC%E9%99%9E-%E8%B2%9D%E9%88%9E%E5%A5%87%E9%A6%96%E6%97%A5%E5%A0%B1%E5%90%8D%E7%AB%B6%E9%80%90%E9%81%B8%E5%A7%94-%E4%B8%AD%E7%A7%8B%E5%87%BA%E7%8D%84%E9%BB%83%E7%99%BE%E9%B3%B4%E6%9C%AA%E7%88%AD%E9%80%A3%E4%BB%BB",
+    "timestamp": "2026-10-07T04:52:01.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台北市長選戰｜沈伯洋被監控　調查指2名港人花9萬委託徵信社跟監",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355200668798976024176.jpeg/u626QfX1m9zN69oq226ft9r1RlATxXYIDN03bgzdN24?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397010/%E9%A7%90%E6%B2%96%E7%B9%A9%E7%BE%8E%E8%BB%8D%E5%AF%A6%E6%96%BD30%E5%A4%A9%E5%AE%B5%E7%A6%81-%E6%87%89%E5%B0%8D%E5%A3%AB%E5%85%B5%E6%B6%89%E5%8A%AB%E6%AE%BA%E9%A2%A8%E6%B3%A2",
     "timestamp": "2026-10-06T20:23:22.623Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社：中國擬推候選人角逐世衛總幹事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220216/570638977552355328817942.jpeg/MfDhTKrpqNFHeQhWb9cVtp9xTanfllEPp0yP2qdMj9o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397006/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E6%93%AC%E6%8E%A8%E5%80%99%E9%81%B8%E4%BA%BA%E8%A7%92%E9%80%90%E4%B8%96%E8%A1%9B%E7%B8%BD%E5%B9%B9%E4%BA%8B",
-    "timestamp": "2026-10-06T19:55:58.118Z",
     "strategy": ".content-card__main"
   }
 ];
