@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T13:25:53.546Z
+// Last updated: 2026-10-07T13:47:27.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳女婿兩年躍升Nvidia副總裁　掌英偉達AI基建",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184605686495973376562740.jpeg/IAQglg0uBJmrHtNqBpvu7IND-a0vpO-ep8ejZKfHo2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397323/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A5%B3%E5%A9%BF%E5%85%A9%E5%B9%B4%E8%BA%8D%E5%8D%87nvidia%E5%89%AF%E7%B8%BD%E8%A3%81-%E6%8E%8C%E8%8B%B1%E5%81%89%E9%81%94ai%E5%9F%BA%E5%BB%BA",
+    "timestamp": "2026-10-07T13:47:27.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "富泰邨女童｜3姊弟各有發展障礙　長女曾患川崎症　醫生詳解症狀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184443063641051136862547.png/yKKBNCDKqvZraAsV2jZ1QHPFwPqhkEQHATDV5AEw1eQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60396943/%E8%BB%8D%E5%AA%92%E4%B8%8D%E9%BB%9E%E5%90%8D%E6%89%B9%E8%94%A1%E5%BA%B7%E6%B0%B8-%E7%AB%99%E5%8F%B0-%E6%B2%88%E4%BC%AF%E6%B4%8B-%E8%88%87%E5%8F%B0%E7%8D%A8%E7%9C%89%E4%BE%86%E7%9C%BC%E5%8E%BB-%E6%97%A9%E6%99%9A%E4%BB%98%E5%87%BA%E4%BB%A3%E5%83%B9",
     "timestamp": "2026-10-07T02:10:13.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俞可程被指紅頭髮加油皮膚　網民海量負評：佢真係好似史力加老婆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184301348980527104471903.jpeg/KOQN-vcIPA0uyeteKJzDgcFbNyip43ASRjMw5EYzMOQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396998/%E4%BF%9E%E5%8F%AF%E7%A8%8B%E8%A2%AB%E6%8C%87%E7%B4%85%E9%A0%AD%E9%AB%AE%E5%8A%A0%E6%B2%B9%E7%9A%AE%E8%86%9A-%E7%B6%B2%E6%B0%91%E6%B5%B7%E9%87%8F%E8%B2%A0%E8%A9%95-%E4%BD%A2%E7%9C%9F%E4%BF%82%E5%A5%BD%E4%BC%BC%E5%8F%B2%E5%8A%9B%E5%8A%A0%E8%80%81%E5%A9%86",
-    "timestamp": "2026-10-07T01:41:04.044Z",
     "strategy": ".content-card__main"
   }
 ];
