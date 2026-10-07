@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T11:56:32.489Z
+// Last updated: 2026-10-07T13:25:53.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "富泰邨女童｜3姊弟各有發展障礙　長女曾患川崎症　醫生詳解症狀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184467124786040832729345.jpeg/iLSQrV-GKdwGUI-dnMTO6mkPxxzWXlL2jtq5t47aubc",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397294/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-3%E5%A7%8A%E5%BC%9F%E5%90%84%E6%9C%89%E7%99%BC%E5%B1%95%E9%9A%9C%E7%A4%99-%E9%95%B7%E5%A5%B3%E6%9B%BE%E6%82%A3%E5%B7%9D%E5%B4%8E%E7%97%87-%E9%86%AB%E7%94%9F%E8%A9%B3%E8%A7%A3%E7%97%87%E7%8B%80",
+    "timestamp": "2026-10-07T13:25:53.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鬼油｜海關聯消防處破7案　拘9人檢$170萬非法燃油及8車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184301348980527104471903.jpeg/KOQN-vcIPA0uyeteKJzDgcFbNyip43ASRjMw5EYzMOQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396998/%E4%BF%9E%E5%8F%AF%E7%A8%8B%E8%A2%AB%E6%8C%87%E7%B4%85%E9%A0%AD%E9%AB%AE%E5%8A%A0%E6%B2%B9%E7%9A%AE%E8%86%9A-%E7%B6%B2%E6%B0%91%E6%B5%B7%E9%87%8F%E8%B2%A0%E8%A9%95-%E4%BD%A2%E7%9C%9F%E4%BF%82%E5%A5%BD%E4%BC%BC%E5%8F%B2%E5%8A%9B%E5%8A%A0%E8%80%81%E5%A9%86",
     "timestamp": "2026-10-07T01:41:04.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "派拉蒙完成收購華納兄弟探索　新公司命名Skydance",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075081596173946880719548.jpeg/y1e8BSPsdiQh4peKQoMUF-4qAl_HFom2wAf8s8AH_LM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397024/%E6%B4%BE%E6%8B%89%E8%92%99%E5%AE%8C%E6%88%90%E6%94%B6%E8%B3%BC%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F%E6%8E%A2%E7%B4%A2-%E6%96%B0%E5%85%AC%E5%8F%B8%E5%91%BD%E5%90%8Dskydance",
-    "timestamp": "2026-10-07T00:53:44.800Z",
     "strategy": ".content-card__main"
   }
 ];
