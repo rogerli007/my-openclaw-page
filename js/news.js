@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T19:34:39.101Z
+// Last updated: 2026-10-07T19:56:59.676Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國女死囚打毒針腦死後奇蹟甦醒　法官判州政府保留所有死刑證據",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397360/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E6%AD%BB%E5%9B%9A%E6%89%93%E6%AF%92%E9%87%9D%E8%85%A6%E6%AD%BB%E5%BE%8C%E5%A5%87%E8%B9%9F%E7%94%A6%E9%86%92-%E6%B3%95%E5%AE%98%E5%88%A4%E5%B7%9E%E6%94%BF%E5%BA%9C%E4%BF%9D%E7%95%99%E6%89%80%E6%9C%89%E6%AD%BB%E5%88%91%E8%AD%89%E6%93%9A",
+    "timestamp": "2026-10-07T19:56:59.676Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普政府擬提高外國學生留美工作門檻　收取7萬美元申請費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184538489408983040156278.jpeg/ZSyjYkzEIrSQXH91aOIab6Al3rYgC4uC4rugJeK7oCU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60397216/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%AD2026%E5%B9%B4%E9%A2%A8%E5%AD%A3%E5%AE%8C-9%E6%9C%88%E7%BD%95%E6%9C%89%E9%9B%B6%E9%A2%B1%E9%A2%A8-10%E6%9C%88%E6%89%93%E9%A2%A8%E6%A9%9F%E7%8E%87%E6%9B%9D%E5%85%89",
     "timestamp": "2026-10-07T10:02:00.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "呎價平過居屋5成！嘉湖2房銀主盤248萬連租約推拍　呎價5538元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184553574827298816726390.jpeg/sxRB90AnDD43-iTXZSZGttAa1kD4fgh943HvquNx76o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397255/%E5%91%8E%E5%83%B9%E5%B9%B3%E9%81%8E%E5%B1%85%E5%B1%8B5%E6%88%90-%E5%98%89%E6%B9%962%E6%88%BF%E9%8A%80%E4%B8%BB%E7%9B%A4248%E8%90%AC%E9%80%A3%E7%A7%9F%E7%B4%84%E6%8E%A8%E6%8B%8D-%E5%91%8E%E5%83%B95538%E5%85%83",
-    "timestamp": "2026-10-07T09:49:20.158Z",
     "strategy": ".content-card__main"
   }
 ];
