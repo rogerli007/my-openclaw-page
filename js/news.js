@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T05:48:13.967Z
+// Last updated: 2026-10-07T06:35:40.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "覃偉中火速落馬，中央對深圳究竟有何要求？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5d9ec691b54a442b19beb867.jpg/0dkC6sFqUylVs-vgcxujpnGvNiCTTERzKGM7MChjOzA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60397133/%E8%A6%83%E5%81%89%E4%B8%AD%E7%81%AB%E9%80%9F%E8%90%BD%E9%A6%AC-%E4%B8%AD%E5%A4%AE%E5%B0%8D%E6%B7%B1%E5%9C%B3%E7%A9%B6%E7%AB%9F%E6%9C%89%E4%BD%95%E8%A6%81%E6%B1%82",
+    "timestamp": "2026-10-07T06:35:40.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "5G家居寬頻費大劈價！月費跌穿$78起！呢間包埋Router完約不用還",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184368699402883072194237.jpeg/R3Jskv_0KS9ynYA3GxkYIAQC16kvYbUzdk4C50xOAuc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397017/%E5%85%83%E6%9C%97%E5%A4%A7%E6%A3%A0%E6%9D%91%E6%9D%91%E5%B1%8B%E5%A6%BB%E5%AD%90%E4%BD%8F%E6%89%80%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-06T21:19:47.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太子的士和頂級公路單車相撞　單車男受輕傷送院　司機協助調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184361010392207360052198.jpeg/YrBjtTmKfnRcKBM3Q_kNcdeXQ7Earjl1G9ICkyHSApM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397014/%E5%A4%AA%E5%AD%90%E7%9A%84%E5%A3%AB%E5%92%8C%E9%A0%82%E7%B4%9A%E5%85%AC%E8%B7%AF%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%96%AE%E8%BB%8A%E7%94%B7%E5%8F%97%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2-%E5%8F%B8%E6%A9%9F%E5%8D%94%E5%8A%A9%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-10-06T20:56:59.353Z",
     "strategy": ".content-card__main"
   }
 ];
