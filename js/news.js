@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T09:49:20.158Z
+// Last updated: 2026-10-07T10:02:00.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風｜天文台揭2026年風季完？9月罕有零颱風　10月打風機率曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184538489408983040156278.jpeg/ZSyjYkzEIrSQXH91aOIab6Al3rYgC4uC4rugJeK7oCU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60397216/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%AD2026%E5%B9%B4%E9%A2%A8%E5%AD%A3%E5%AE%8C-9%E6%9C%88%E7%BD%95%E6%9C%89%E9%9B%B6%E9%A2%B1%E9%A2%A8-10%E6%9C%88%E6%89%93%E9%A2%A8%E6%A9%9F%E7%8E%87%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-10-07T10:02:00.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "呎價平過居屋5成！嘉湖2房銀主盤248萬連租約推拍　呎價5538元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184186437830971392357401.jpeg/iCfymfkdxoHAFXq0MCtjfSQ8ohXu3XuJUF_yblBf8m4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396862/%E6%BB%95%E9%BA%97%E5%90%8D%E5%8C%97%E4%B8%8A%E5%8B%A4%E5%8A%9B%E9%96%8B%E5%B7%A5%E5%90%8C%E4%BA%BA%E8%BF%AB%E4%BD%8F%E5%9D%90%E6%AD%8E%E5%B9%B3%E6%B0%91%E9%A4%90%E5%BB%B3-%E5%AB%81%E6%9C%89%E7%B1%B3%E8%80%81%E5%85%AC%E4%BD%8F%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85",
     "timestamp": "2026-10-06T22:54:48.510Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB女星北上勤力開工同人迫住坐歎平民嘢　嫁富貴老公住複式豪宅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184186437830971392357401.jpeg/iCfymfkdxoHAFXq0MCtjfSQ8ohXu3XuJUF_yblBf8m4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396862/%E6%BB%95%E9%BA%97%E5%90%8D%E5%8C%97%E4%B8%8A%E5%8B%A4%E5%8A%9B%E9%96%8B%E5%B7%A5%E5%90%8C%E4%BA%BA%E8%BF%AB%E4%BD%8F%E5%9D%90%E6%AD%8E%E5%B9%B3%E6%B0%91%E9%A4%90%E5%BB%B3-%E5%AB%81%E6%9C%89%E7%B1%B3%E8%80%81%E5%85%AC%E4%BD%8F%E8%A4%87%E5%BC%8F%E8%B1%AA%E5%AE%85",
-    "timestamp": "2026-10-06T22:44:36.549Z",
     "strategy": ".content-card__main"
   }
 ];
