@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T00:53:44.800Z
+// Last updated: 2026-10-07T01:41:04.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俞可程被指紅頭髮加油皮膚　網民海量負評：佢真係好似史力加老婆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184301348980527104471903.jpeg/KOQN-vcIPA0uyeteKJzDgcFbNyip43ASRjMw5EYzMOQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396998/%E4%BF%9E%E5%8F%AF%E7%A8%8B%E8%A2%AB%E6%8C%87%E7%B4%85%E9%A0%AD%E9%AB%AE%E5%8A%A0%E6%B2%B9%E7%9A%AE%E8%86%9A-%E7%B6%B2%E6%B0%91%E6%B5%B7%E9%87%8F%E8%B2%A0%E8%A9%95-%E4%BD%A2%E7%9C%9F%E4%BF%82%E5%A5%BD%E4%BC%BC%E5%8F%B2%E5%8A%9B%E5%8A%A0%E8%80%81%E5%A9%86",
+    "timestamp": "2026-10-07T01:41:04.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "派拉蒙完成收購華納兄弟探索　新公司命名Skydance",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397000/one-stanley%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%B1%8B%E5%AE%87%E7%BD%B2-%E6%9C%83%E6%8A%BD%E9%A9%97%E9%83%A8%E4%BB%BD%E5%96%AE%E4%BD%8D%E5%8F%8A%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%B6%E4%BB%96%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-10-06T18:00:57.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ONE STANLEY缺鋼筋｜屋宇署：會抽驗部份單位及承建商其他項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397000/one-stanley%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%B1%8B%E5%AE%87%E7%BD%B2-%E6%9C%83%E6%8A%BD%E9%A9%97%E9%83%A8%E4%BB%BD%E5%96%AE%E4%BD%8D%E5%8F%8A%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%B6%E4%BB%96%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-10-06T17:46:48.730Z",
     "strategy": ".content-card__main"
   }
 ];
