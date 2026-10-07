@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T19:19:57.389Z
+// Last updated: 2026-10-07T19:34:39.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府擬提高外國學生留美工作門檻　收取7萬美元申請費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184018986111602688235719.jpeg/WFTt6NJEfq7PJ7zhueEINLuFyeTWjrQQfkY6tH5GOrQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397363/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%93%AC%E6%8F%90%E9%AB%98%E5%A4%96%E5%9C%8B%E5%AD%B8%E7%94%9F%E7%95%99%E7%BE%8E%E5%B7%A5%E4%BD%9C%E9%96%80%E6%AA%BB-%E6%94%B6%E5%8F%967%E8%90%AC%E7%BE%8E%E5%85%83%E7%94%B3%E8%AB%8B%E8%B2%BB",
+    "timestamp": "2026-10-07T19:34:39.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九龍走廊私家車撞壆四輪朝天　司機一度被困自行爬出拒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184553574827298816726390.jpeg/sxRB90AnDD43-iTXZSZGttAa1kD4fgh943HvquNx76o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397255/%E5%91%8E%E5%83%B9%E5%B9%B3%E9%81%8E%E5%B1%85%E5%B1%8B5%E6%88%90-%E5%98%89%E6%B9%962%E6%88%BF%E9%8A%80%E4%B8%BB%E7%9B%A4248%E8%90%AC%E9%80%A3%E7%A7%9F%E7%B4%84%E6%8E%A8%E6%8B%8D-%E5%91%8E%E5%83%B95538%E5%85%83",
     "timestamp": "2026-10-07T09:49:20.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麻婆豆腐食譜｜煮法簡易20分鐘6步完成、豆腐炒不爛有秘訣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072233419959701504142657.jpeg/VvkD0LoWi__m4nhylKO3Z43kcLuGsv8a0kNZutJDWbo",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60379844/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%E9%A3%9F%E8%AD%9C-%E7%85%AE%E6%B3%95%E7%B0%A1%E6%98%9320%E5%88%86%E9%90%986%E6%AD%A5%E5%AE%8C%E6%88%90-%E8%B1%86%E8%85%90%E7%82%92%E4%B8%8D%E7%88%9B%E6%9C%89%E7%A7%98%E8%A8%A3",
-    "timestamp": "2026-10-07T09:24:33.956Z",
     "strategy": ".content-card__main"
   }
 ];
