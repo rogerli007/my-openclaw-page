@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-06T23:55:07.936Z
+// Last updated: 2026-10-07T00:53:44.800Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "派拉蒙完成收購華納兄弟探索　新公司命名Skydance",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075081596173946880719548.jpeg/y1e8BSPsdiQh4peKQoMUF-4qAl_HFom2wAf8s8AH_LM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397024/%E6%B4%BE%E6%8B%89%E8%92%99%E5%AE%8C%E6%88%90%E6%94%B6%E8%B3%BC%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F%E6%8E%A2%E7%B4%A2-%E6%96%B0%E5%85%AC%E5%8F%B8%E5%91%BD%E5%90%8Dskydance",
+    "timestamp": "2026-10-07T00:53:44.800Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周大福獲鄭家純增持18.1萬股　個人持倉升至0.31%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397000/one-stanley%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%B1%8B%E5%AE%87%E7%BD%B2-%E6%9C%83%E6%8A%BD%E9%A9%97%E9%83%A8%E4%BB%BD%E5%96%AE%E4%BD%8D%E5%8F%8A%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%B6%E4%BB%96%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-10-06T17:46:48.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網傳屯門富泰邨女童手持近兩打啤酒 書包嚴重破爛 途人急報警求助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184308193652641792943621.png/jVn-MHYkzyJ-teSR1yDQjj3BQf0O6Eovy-hIKsvoSCo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60396999/%E7%B6%B2%E5%82%B3%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5%E6%89%8B%E6%8C%81%E8%BF%91%E5%85%A9%E6%89%93%E5%95%A4%E9%85%92-%E6%9B%B8%E5%8C%85%E5%9A%B4%E9%87%8D%E7%A0%B4%E7%88%9B-%E9%80%94%E4%BA%BA%E6%80%A5%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9",
-    "timestamp": "2026-10-06T17:18:23.383Z",
     "strategy": ".content-card__main"
   }
 ];
