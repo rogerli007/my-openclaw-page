@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T13:47:27.793Z
+// Last updated: 2026-10-07T13:59:03.206Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "富泰邨女童｜虐兒無表面傷可定罪？練肌肉作辯解？一文看律師解釋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184607533482905600508697.jpeg/adrTfNrVkO2oA_OLmvpEefgPi9-A8QEDz-iAg8_ogIM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397320/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E8%99%90%E5%85%92%E7%84%A1%E8%A1%A8%E9%9D%A2%E5%82%B7%E5%8F%AF%E5%AE%9A%E7%BD%AA-%E7%B7%B4%E8%82%8C%E8%82%89%E4%BD%9C%E8%BE%AF%E8%A7%A3-%E4%B8%80%E6%96%87%E7%9C%8B%E5%BE%8B%E5%B8%AB%E8%A7%A3%E9%87%8B",
+    "timestamp": "2026-10-07T13:59:03.206Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳女婿兩年躍升Nvidia副總裁　掌英偉達AI基建",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230521/737060978927079424891046.jpeg/xn6LDjjO-SmsFtgfap7HasGaQ5M2cweJYM0eiWDNHok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397064/%E4%BF%84%E5%AF%A6%E9%A9%97%E5%AE%A4%E4%BA%BA%E5%93%A1%E7%96%91%E6%9F%93%E8%82%BA%E9%BC%A0%E7%96%AB%E4%BA%A1-%E4%B8%96%E8%A1%9B%E7%A8%B1%E6%8E%A5%E8%A7%B8%E8%80%85%E6%9C%AA%E7%8F%BE%E7%97%87%E7%8B%80-%E5%82%B3%E6%92%AD%E9%A2%A8%E9%9A%AA%E8%BC%83%E4%BD%8E",
     "timestamp": "2026-10-07T02:52:46.184Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "軍媒不點名批蔡康永｢站台｣沈伯洋：與台獨眉來眼去，早晚付出代價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184443063641051136862547.png/yKKBNCDKqvZraAsV2jZ1QHPFwPqhkEQHATDV5AEw1eQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60396943/%E8%BB%8D%E5%AA%92%E4%B8%8D%E9%BB%9E%E5%90%8D%E6%89%B9%E8%94%A1%E5%BA%B7%E6%B0%B8-%E7%AB%99%E5%8F%B0-%E6%B2%88%E4%BC%AF%E6%B4%8B-%E8%88%87%E5%8F%B0%E7%8D%A8%E7%9C%89%E4%BE%86%E7%9C%BC%E5%8E%BB-%E6%97%A9%E6%99%9A%E4%BB%98%E5%87%BA%E4%BB%A3%E5%83%B9",
-    "timestamp": "2026-10-07T02:10:13.199Z",
     "strategy": ".content-card__main"
   }
 ];
