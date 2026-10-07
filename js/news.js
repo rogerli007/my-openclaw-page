@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T14:58:34.513Z
+// Last updated: 2026-10-07T15:30:51.365Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "42歲申敏兒現身巴黎時裝騷獲讚食防腐劑　同框小16歲Felix零違和",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184551051416571904726954.jpeg/J_hJaWwWlPDL3ZypbCy2oAKb-TiAqahj1F_GGtRfxho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397226/42%E6%AD%B2%E7%94%B3%E6%95%8F%E5%85%92%E7%8F%BE%E8%BA%AB%E5%B7%B4%E9%BB%8E%E6%99%82%E8%A3%9D%E9%A8%B7%E7%8D%B2%E8%AE%9A%E9%A3%9F%E9%98%B2%E8%85%90%E5%8A%91-%E5%90%8C%E6%A1%86%E5%B0%8F16%E6%AD%B2felix%E9%9B%B6%E9%81%95%E5%92%8C",
+    "timestamp": "2026-10-07T15:30:51.365Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "零售業｜莎莎上季營業額升37%　國慶黃金周同店銷售飆逾五成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176945304130293760275106.jpeg/TMnv6FjcmZOYrelQtymZrpmhNdM3LW6FXPGyJ1zxsic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60397097/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B0-%E6%B2%88%E4%BC%AF%E6%B4%8B%E8%A2%AB%E7%9B%A3%E6%8E%A7-%E8%AA%BF%E6%9F%A5%E6%8C%872%E5%90%8D%E6%B8%AF%E4%BA%BA%E8%8A%B19%E8%90%AC%E5%A7%94%E8%A8%97%E5%BE%B5%E4%BF%A1%E7%A4%BE%E8%B7%9F%E7%9B%A3",
     "timestamp": "2026-10-07T04:30:27.751Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬斯：伊朗須實質削減鈾濃縮能力　方能結束戰事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184462457037393920608354.jpeg/56tm52Y4_91xC4nzbXS27AI52gEEcL5jQzPKCUMzygk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397084/%E8%90%AC%E6%96%AF-%E4%BC%8A%E6%9C%97%E9%A0%88%E5%AF%A6%E8%B3%AA%E5%89%8A%E6%B8%9B%E9%88%BE%E6%BF%83%E7%B8%AE%E8%83%BD%E5%8A%9B-%E6%96%B9%E8%83%BD%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B",
-    "timestamp": "2026-10-07T04:02:05.122Z",
     "strategy": ".content-card__main"
   }
 ];
