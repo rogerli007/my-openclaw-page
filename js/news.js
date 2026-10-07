@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T21:56:03.756Z
+// Last updated: 2026-10-07T22:22:30.130Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寒露天氣｜今日初時有一兩陣微雨　早上稍涼　日間大致天晴乾燥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184745421746999296385709.jpeg/XEuFnwrlGOouXmWWlKAoikV97tfdlbKd1tLY_NbS2Pw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397357/%E5%AF%92%E9%9C%B2%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
+    "timestamp": "2026-10-07T22:22:30.130Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓男足亞運奪金後炫耀免兵役更重要遭炎上　政府考慮取消免役特例",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184467124786040832729345.jpeg/iLSQrV-GKdwGUI-dnMTO6mkPxxzWXlL2jtq5t47aubc",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397294/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-3%E5%A7%8A%E5%BC%9F%E5%90%84%E6%9C%89%E7%99%BC%E5%B1%95%E9%9A%9C%E7%A4%99-%E9%95%B7%E5%A5%B3%E6%9B%BE%E6%82%A3%E5%B7%9D%E5%B4%8E%E7%97%87-%E9%86%AB%E7%94%9F%E8%A9%B3%E8%A7%A3%E7%97%87%E7%8B%80",
     "timestamp": "2026-10-07T13:25:53.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鬼油｜海關聯消防處破7案　拘9人檢$170萬非法燃油及8車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184542473200865280412678.png/fGBpz7fgaXtEREoTeETng2MCS2KQbovDxowx38aMMd8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397200/%E9%AC%BC%E6%B2%B9-%E6%B5%B7%E9%97%9C%E8%81%AF%E6%B6%88%E9%98%B2%E8%99%95%E7%A0%B47%E6%A1%88-%E6%8B%989%E4%BA%BA%E6%AA%A2-170%E8%90%AC%E9%9D%9E%E6%B3%95%E7%87%83%E6%B2%B9%E5%8F%8A8%E8%BB%8A",
-    "timestamp": "2026-10-07T11:56:32.489Z",
     "strategy": ".content-card__main"
   }
 ];
