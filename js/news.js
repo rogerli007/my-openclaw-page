@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T23:01:18.593Z
+// Last updated: 2026-10-07T23:46:56.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「壽桃牌」斥8411萬　掃虹方8個銀主舖　賣200萬罐鮑魚麵先回本！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184568266194948096768092.jpeg/jXf2KcubjCT9Lvl75KQwjkQhRcikZzMBLJskYiybJGI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397279/%E5%A3%BD%E6%A1%83%E7%89%8C-%E6%96%A58411%E8%90%AC-%E6%8E%83%E8%99%B9%E6%96%B98%E5%80%8B%E9%8A%80%E4%B8%BB%E8%88%96-%E8%B3%A3200%E8%90%AC%E7%BD%90%E9%AE%91%E9%AD%9A%E9%BA%B5%E5%85%88%E5%9B%9E%E6%9C%AC",
+    "timestamp": "2026-10-07T23:46:56.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿飛正傳｜票房神話原定有份參演　電影公司嫌27萬片酬太貴終告吹",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184597660804321280385712.jpeg/ShTtVDk9SCw1F3lKSE_bEeKcAALiJv6FUn3I8lJ9yPI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397319/%E5%95%9F%E6%A5%AD%E9%82%A8%E8%A1%97%E5%B8%82%E9%A9%9A%E7%8F%BE%E6%8C%81%E5%88%80%E6%BC%A2-%E8%AD%A6%E6%9F%A5%E5%A4%A9%E7%9C%BC%E8%B7%A8%E5%8D%80%E8%BF%BD%E8%B9%A4-%E5%BD%A9%E8%99%B9%E6%88%AA%E5%B7%B4%E5%A3%AB%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-10-07T14:22:18.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "富泰邨女童｜虐兒無表面傷可定罪？練肌肉作辯解？一文看律師解釋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184607533482905600508697.jpeg/adrTfNrVkO2oA_OLmvpEefgPi9-A8QEDz-iAg8_ogIM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397320/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E8%99%90%E5%85%92%E7%84%A1%E8%A1%A8%E9%9D%A2%E5%82%B7%E5%8F%AF%E5%AE%9A%E7%BD%AA-%E7%B7%B4%E8%82%8C%E8%82%89%E4%BD%9C%E8%BE%AF%E8%A7%A3-%E4%B8%80%E6%96%87%E7%9C%8B%E5%BE%8B%E5%B8%AB%E8%A7%A3%E9%87%8B",
-    "timestamp": "2026-10-07T13:59:03.206Z",
     "strategy": ".content-card__main"
   }
 ];
