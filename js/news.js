@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T07:03:37.287Z
+// Last updated: 2026-10-07T07:34:42.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣選舉觀察｜蔡康永震動台北選情？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183720939834052608340175.png/0a0RAY32mJyu5BZX4hwOcgubK4Df4QXPGrSMSRq0jEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60397155/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%A7%80%E5%AF%9F-%E8%94%A1%E5%BA%B7%E6%B0%B8%E9%9C%87%E5%8B%95%E5%8F%B0%E5%8C%97%E9%81%B8%E6%83%85",
+    "timestamp": "2026-10-07T07:34:42.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前「東張女神」林泳淘婚後激罕曬泳照　完美線條引粉絲暴動按讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184368699402883072194237.jpeg/R3Jskv_0KS9ynYA3GxkYIAQC16kvYbUzdk4C50xOAuc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397017/%E5%85%83%E6%9C%97%E5%A4%A7%E6%A3%A0%E6%9D%91%E6%9D%91%E5%B1%8B%E5%A6%BB%E5%AD%90%E4%BD%8F%E6%89%80%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-06T21:46:53.333Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗大棠村村屋妻子住所暈倒　丈夫報案　送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184368699402883072194237.jpeg/R3Jskv_0KS9ynYA3GxkYIAQC16kvYbUzdk4C50xOAuc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397017/%E5%85%83%E6%9C%97%E5%A4%A7%E6%A3%A0%E6%9D%91%E6%9D%91%E5%B1%8B%E5%A6%BB%E5%AD%90%E4%BD%8F%E6%89%80%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-06T21:34:31.359Z",
     "strategy": ".content-card__main"
   }
 ];
