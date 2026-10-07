@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T21:19:45.375Z
+// Last updated: 2026-10-07T21:56:03.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓男足亞運奪金後炫耀免兵役更重要遭炎上　政府考慮取消免役特例",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184731579751075840736984.jpeg/dKKeaxiOrV14Jvh0_8YTET_bJdfvxfi5-UfqPPlH6jw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397367/%E9%9F%93%E7%94%B7%E8%B6%B3%E4%BA%9E%E9%81%8B%E5%A5%AA%E9%87%91%E5%BE%8C%E7%82%AB%E8%80%80%E5%85%8D%E5%85%B5%E5%BD%B9%E6%9B%B4%E9%87%8D%E8%A6%81%E9%81%AD%E7%82%8E%E4%B8%8A-%E6%94%BF%E5%BA%9C%E8%80%83%E6%85%AE%E5%8F%96%E6%B6%88%E5%85%8D%E5%BD%B9%E7%89%B9%E4%BE%8B",
+    "timestamp": "2026-10-07T21:56:03.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國學生示威持續6629人被捕　總理承認訴求合理警方將停用閃光彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184542473200865280412678.png/fGBpz7fgaXtEREoTeETng2MCS2KQbovDxowx38aMMd8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397200/%E9%AC%BC%E6%B2%B9-%E6%B5%B7%E9%97%9C%E8%81%AF%E6%B6%88%E9%98%B2%E8%99%95%E7%A0%B47%E6%A1%88-%E6%8B%989%E4%BA%BA%E6%AA%A2-170%E8%90%AC%E9%9D%9E%E6%B3%95%E7%87%83%E6%B2%B9%E5%8F%8A8%E8%BB%8A",
     "timestamp": "2026-10-07T11:56:32.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網球｜保蓮妮將首度訪港　香港網球公開賽再公布三名參賽球手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184576084679593984698273.jpeg/2sKCz-xLH6Qt5ESk43hL-kIFvYP9HdxFglZr2IJWa9g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60397300/%E7%B6%B2%E7%90%83-%E4%BF%9D%E8%93%AE%E5%A6%AE%E5%B0%87%E9%A6%96%E5%BA%A6%E8%A8%AA%E6%B8%AF-%E9%A6%99%E6%B8%AF%E7%B6%B2%E7%90%83%E5%85%AC%E9%96%8B%E8%B3%BD%E5%86%8D%E5%85%AC%E5%B8%83%E4%B8%89%E5%90%8D%E5%8F%83%E8%B3%BD%E7%90%83%E6%89%8B",
-    "timestamp": "2026-10-07T10:58:15.379Z",
     "strategy": ".content-card__main"
   }
 ];
