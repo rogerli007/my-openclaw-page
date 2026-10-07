@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T23:46:56.520Z
+// Last updated: 2026-10-07T23:56:37.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「壽桃牌」斥8411萬　掃虹方8個銀主舖　賣200萬罐鮑魚麵先回本！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184568266194948096768092.jpeg/jXf2KcubjCT9Lvl75KQwjkQhRcikZzMBLJskYiybJGI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397279/%E5%A3%BD%E6%A1%83%E7%89%8C-%E6%96%A58411%E8%90%AC-%E6%8E%83%E8%99%B9%E6%96%B98%E5%80%8B%E9%8A%80%E4%B8%BB%E8%88%96-%E8%B3%A3200%E8%90%AC%E7%BD%90%E9%AE%91%E9%AD%9A%E9%BA%B5%E5%85%88%E5%9B%9E%E6%9C%AC",
+    "timestamp": "2026-10-07T23:56:37.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「壽桃牌」斥8411萬　掃虹方8個銀主舖　賣200萬罐鮑魚麵先回本！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230629/751077849867620352820314.jpeg/mkMA1Ds54mLyTLXf1a55GoH6F-tHDLDf9cid3fXInd0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60397342/%E9%9B%B6%E5%94%AE%E6%A5%AD-%E8%8E%8E%E8%8E%8E%E4%B8%8A%E5%AD%A3%E7%87%9F%E6%A5%AD%E9%A1%8D%E5%8D%8737-%E5%9C%8B%E6%85%B6%E9%BB%83%E9%87%91%E5%91%A8%E5%90%8C%E5%BA%97%E9%8A%B7%E5%94%AE%E9%A3%86%E9%80%BE%E4%BA%94%E6%88%90",
     "timestamp": "2026-10-07T14:58:34.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啟業邨街市驚現持刀漢　警查天眼跨區追蹤　彩虹截巴士拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184597660804321280385712.jpeg/ShTtVDk9SCw1F3lKSE_bEeKcAALiJv6FUn3I8lJ9yPI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397319/%E5%95%9F%E6%A5%AD%E9%82%A8%E8%A1%97%E5%B8%82%E9%A9%9A%E7%8F%BE%E6%8C%81%E5%88%80%E6%BC%A2-%E8%AD%A6%E6%9F%A5%E5%A4%A9%E7%9C%BC%E8%B7%A8%E5%8D%80%E8%BF%BD%E8%B9%A4-%E5%BD%A9%E8%99%B9%E6%88%AA%E5%B7%B4%E5%A3%AB%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-10-07T14:22:18.115Z",
     "strategy": ".content-card__main"
   }
 ];
