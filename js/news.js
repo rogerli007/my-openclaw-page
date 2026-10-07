@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T15:30:51.365Z
+// Last updated: 2026-10-07T15:58:03.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國一批預先包裝芝士回收　食安中心：或受志賀毒素大腸桿菌污染",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184648892126334976057216.jpeg/Gf1UR7iZC_z9yU1wNhzjpQEfxonIi7694myMNOJsjDQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397346/%E6%B3%95%E5%9C%8B%E4%B8%80%E6%89%B9%E9%A0%90%E5%85%88%E5%8C%85%E8%A3%9D%E8%8A%9D%E5%A3%AB%E5%9B%9E%E6%94%B6-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83-%E6%88%96%E5%8F%97%E5%BF%97%E8%B3%80%E6%AF%92%E7%B4%A0%E5%A4%A7%E8%85%B8%E6%A1%BF%E8%8F%8C%E6%B1%A1%E6%9F%93",
+    "timestamp": "2026-10-07T15:58:03.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "42歲申敏兒現身巴黎時裝騷獲讚食防腐劑　同框小16歲Felix零違和",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184469581503139840130867.jpeg/np9qhe4G42Y5vAyxiwykY_HLyWpy28hEKW0e1CltHtQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60397096/%E6%9D%8E%E9%9D%9C-%E7%88%BE%E5%86%AC%E9%99%9E-%E8%B2%9D%E9%88%9E%E5%A5%87%E9%A6%96%E6%97%A5%E5%A0%B1%E5%90%8D%E7%AB%B6%E9%80%90%E9%81%B8%E5%A7%94-%E4%B8%AD%E7%A7%8B%E5%87%BA%E7%8D%84%E9%BB%83%E7%99%BE%E9%B3%B4%E6%9C%AA%E7%88%AD%E9%80%A3%E4%BB%BB",
     "timestamp": "2026-10-07T04:52:01.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台北市長選戰｜沈伯洋被監控　調查指2名港人花9萬委託徵信社跟監",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176945304130293760275106.jpeg/TMnv6FjcmZOYrelQtymZrpmhNdM3LW6FXPGyJ1zxsic?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60397097/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B0-%E6%B2%88%E4%BC%AF%E6%B4%8B%E8%A2%AB%E7%9B%A3%E6%8E%A7-%E8%AA%BF%E6%9F%A5%E6%8C%872%E5%90%8D%E6%B8%AF%E4%BA%BA%E8%8A%B19%E8%90%AC%E5%A7%94%E8%A8%97%E5%BE%B5%E4%BF%A1%E7%A4%BE%E8%B7%9F%E7%9B%A3",
-    "timestamp": "2026-10-07T04:30:27.751Z",
     "strategy": ".content-card__main"
   }
 ];
