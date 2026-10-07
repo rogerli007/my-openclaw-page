@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T02:52:46.184Z
+// Last updated: 2026-10-07T03:07:34.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "41歲加賀美早紀曾判剩3個月命　血液疾病復發急入院宣布全面停工",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184454096774500352460891.jpeg/Rc6rNofIfEcbe9HnnGVIyP8DmYqzmxGFazBLCWswSwk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397055/41%E6%AD%B2%E5%8A%A0%E8%B3%80%E7%BE%8E%E6%97%A9%E7%B4%80%E6%9B%BE%E5%88%A4%E5%89%A93%E5%80%8B%E6%9C%88%E5%91%BD-%E8%A1%80%E6%B6%B2%E7%96%BE%E7%97%85%E5%BE%A9%E7%99%BC%E6%80%A5%E5%85%A5%E9%99%A2%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E5%81%9C%E5%B7%A5",
+    "timestamp": "2026-10-07T03:07:34.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄實驗室人員疑染肺鼠疫亡　世衛稱接觸者未現症狀：傳播風險較低",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184291034436210688659081.jpeg/FWKDs9DeZxYZzKDOD4wtONN1FaBXH_5t6L_c9ui_3PY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396994/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5%E5%AD%AD%E7%88%9B%E6%9B%B8%E5%8C%85%E8%8B%A6%E6%8B%8E%E5%85%A9%E8%A2%8B%E5%95%A4%E9%85%92%E6%83%B9%E8%AD%B0-%E7%88%B6%E9%AC%A7%E5%BB%A2%E4%BA%BA-%E5%AD%B8%E6%A0%A1-%E5%8D%B3%E6%99%82%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-10-06T19:33:36.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ONE STANLEY缺鋼筋｜屋宇署：會抽驗部份單位及承建商其他項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397000/one-stanley%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%B1%8B%E5%AE%87%E7%BD%B2-%E6%9C%83%E6%8A%BD%E9%A9%97%E9%83%A8%E4%BB%BD%E5%96%AE%E4%BD%8D%E5%8F%8A%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%B6%E4%BB%96%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-10-06T19:20:05.874Z",
     "strategy": ".content-card__main"
   }
 ];
