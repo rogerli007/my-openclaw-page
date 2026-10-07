@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T13:59:03.206Z
+// Last updated: 2026-10-07T14:22:18.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟業邨街市驚現持刀漢　警查天眼跨區追蹤　彩虹截巴士拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184597660804321280385712.jpeg/ShTtVDk9SCw1F3lKSE_bEeKcAALiJv6FUn3I8lJ9yPI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397319/%E5%95%9F%E6%A5%AD%E9%82%A8%E8%A1%97%E5%B8%82%E9%A9%9A%E7%8F%BE%E6%8C%81%E5%88%80%E6%BC%A2-%E8%AD%A6%E6%9F%A5%E5%A4%A9%E7%9C%BC%E8%B7%A8%E5%8D%80%E8%BF%BD%E8%B9%A4-%E5%BD%A9%E8%99%B9%E6%88%AA%E5%B7%B4%E5%A3%AB%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-10-07T14:22:18.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "富泰邨女童｜虐兒無表面傷可定罪？練肌肉作辯解？一文看律師解釋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184454096774500352460891.jpeg/Rc6rNofIfEcbe9HnnGVIyP8DmYqzmxGFazBLCWswSwk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397055/41%E6%AD%B2%E5%8A%A0%E8%B3%80%E7%BE%8E%E6%97%A9%E7%B4%80%E6%9B%BE%E5%88%A4%E5%89%A93%E5%80%8B%E6%9C%88%E5%91%BD-%E8%A1%80%E6%B6%B2%E7%96%BE%E7%97%85%E5%BE%A9%E7%99%BC%E6%80%A5%E5%85%A5%E9%99%A2%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E5%81%9C%E5%B7%A5",
     "timestamp": "2026-10-07T03:07:34.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄實驗室人員疑染肺鼠疫亡　世衛稱接觸者未現症狀：傳播風險較低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230521/737060978927079424891046.jpeg/xn6LDjjO-SmsFtgfap7HasGaQ5M2cweJYM0eiWDNHok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397064/%E4%BF%84%E5%AF%A6%E9%A9%97%E5%AE%A4%E4%BA%BA%E5%93%A1%E7%96%91%E6%9F%93%E8%82%BA%E9%BC%A0%E7%96%AB%E4%BA%A1-%E4%B8%96%E8%A1%9B%E7%A8%B1%E6%8E%A5%E8%A7%B8%E8%80%85%E6%9C%AA%E7%8F%BE%E7%97%87%E7%8B%80-%E5%82%B3%E6%92%AD%E9%A2%A8%E9%9A%AA%E8%BC%83%E4%BD%8E",
-    "timestamp": "2026-10-07T02:52:46.184Z",
     "strategy": ".content-card__main"
   }
 ];
