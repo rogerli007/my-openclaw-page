@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T10:50:11.686Z
+// Last updated: 2026-10-07T10:58:15.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網球｜保蓮妮將首度訪港　香港網球公開賽再公布三名參賽球手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184576084679593984698273.jpeg/2sKCz-xLH6Qt5ESk43hL-kIFvYP9HdxFglZr2IJWa9g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60397300/%E7%B6%B2%E7%90%83-%E4%BF%9D%E8%93%AE%E5%A6%AE%E5%B0%87%E9%A6%96%E5%BA%A6%E8%A8%AA%E6%B8%AF-%E9%A6%99%E6%B8%AF%E7%B6%B2%E7%90%83%E5%85%AC%E9%96%8B%E8%B3%BD%E5%86%8D%E5%85%AC%E5%B8%83%E4%B8%89%E5%90%8D%E5%8F%83%E8%B3%BD%E7%90%83%E6%89%8B",
+    "timestamp": "2026-10-07T10:58:15.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美酒佳餚巡禮10.29起舉行　融入港味推鹹魚奶蓋、芫荽檸檬等美酒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250211/966041684573949952175294.jpeg/TEtKaXGa1m0dEM3R-Z9j1ZpqD5UmHxBJFrMz_hazM_4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60397025/%E5%91%A8%E5%A4%A7%E7%A6%8F%E7%8D%B2%E9%84%AD%E5%AE%B6%E7%B4%94%E5%A2%9E%E6%8C%8118-1%E8%90%AC%E8%82%A1-%E5%80%8B%E4%BA%BA%E6%8C%81%E5%80%89%E5%8D%87%E8%87%B30-31",
     "timestamp": "2026-10-06T23:55:07.936Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄景區女客玩峽谷鞦韆臨陣反悔　職員踢腿強推落崖　丈夫開心拍片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184169892299935744510243.png/uKB1Jr6Fqm-BdSek0qn8Rpcp6PL37-cuBiDehwYg3oc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60396202/%E4%BF%84%E6%99%AF%E5%8D%80%E5%A5%B3%E5%AE%A2%E7%8E%A9%E5%B3%BD%E8%B0%B7%E9%9E%A6%E9%9F%86%E8%87%A8%E9%99%A3%E5%8F%8D%E6%82%94-%E8%81%B7%E5%93%A1%E8%B8%A2%E8%85%BF%E5%BC%B7%E6%8E%A8%E8%90%BD%E5%B4%96-%E4%B8%88%E5%A4%AB%E9%96%8B%E5%BF%83%E6%8B%8D%E7%89%87",
-    "timestamp": "2026-10-06T23:20:32.453Z",
     "strategy": ".content-card__main"
   }
 ];
