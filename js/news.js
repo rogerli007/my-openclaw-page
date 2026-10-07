@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T10:58:15.379Z
+// Last updated: 2026-10-07T11:56:32.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鬼油｜海關聯消防處破7案　拘9人檢$170萬非法燃油及8車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184542473200865280412678.png/fGBpz7fgaXtEREoTeETng2MCS2KQbovDxowx38aMMd8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397200/%E9%AC%BC%E6%B2%B9-%E6%B5%B7%E9%97%9C%E8%81%AF%E6%B6%88%E9%98%B2%E8%99%95%E7%A0%B47%E6%A1%88-%E6%8B%989%E4%BA%BA%E6%AA%A2-170%E8%90%AC%E9%9D%9E%E6%B3%95%E7%87%83%E6%B2%B9%E5%8F%8A8%E8%BB%8A",
+    "timestamp": "2026-10-07T11:56:32.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網球｜保蓮妮將首度訪港　香港網球公開賽再公布三名參賽球手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251209/1075081596173946880719548.jpeg/y1e8BSPsdiQh4peKQoMUF-4qAl_HFom2wAf8s8AH_LM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397024/%E6%B4%BE%E6%8B%89%E8%92%99%E5%AE%8C%E6%88%90%E6%94%B6%E8%B3%BC%E8%8F%AF%E7%B4%8D%E5%85%84%E5%BC%9F%E6%8E%A2%E7%B4%A2-%E6%96%B0%E5%85%AC%E5%8F%B8%E5%91%BD%E5%90%8Dskydance",
     "timestamp": "2026-10-07T00:53:44.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周大福獲鄭家純增持18.1萬股　個人持倉升至0.31%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250211/966041684573949952175294.jpeg/TEtKaXGa1m0dEM3R-Z9j1ZpqD5UmHxBJFrMz_hazM_4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60397025/%E5%91%A8%E5%A4%A7%E7%A6%8F%E7%8D%B2%E9%84%AD%E5%AE%B6%E7%B4%94%E5%A2%9E%E6%8C%8118-1%E8%90%AC%E8%82%A1-%E5%80%8B%E4%BA%BA%E6%8C%81%E5%80%89%E5%8D%87%E8%87%B30-31",
-    "timestamp": "2026-10-06T23:55:07.936Z",
     "strategy": ".content-card__main"
   }
 ];
