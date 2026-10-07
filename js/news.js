@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T05:22:27.382Z
+// Last updated: 2026-10-07T05:48:13.967Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "5G家居寬頻費大劈價！月費跌穿$78起！呢間包埋Router完約不用還",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250305/973963332266496000251498.png/uM3Jc6dgNRbGUL_5ym7f82aYEOXuVku2yxuM5ssbjOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60216659/5g%E5%AE%B6%E5%B1%85%E5%AF%AC%E9%A0%BBplan%E6%A0%BC%E5%83%B92026-6%E5%A4%A7%E9%9B%BB%E8%A8%8A%E5%95%86%E6%9C%88%E8%B2%BB%E6%AF%94%E8%BC%83-3hk%E6%8A%B5%E7%94%A8-78%E5%8C%85router",
+    "timestamp": "2026-10-07T05:48:13.967Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "告別掰掰肉 ！為什麼手臂這麼難瘦？告別鬆弛的手臂線條完全指南",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184361010392207360052198.jpeg/YrBjtTmKfnRcKBM3Q_kNcdeXQ7Earjl1G9ICkyHSApM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397014/%E5%A4%AA%E5%AD%90%E7%9A%84%E5%A3%AB%E5%92%8C%E9%A0%82%E7%B4%9A%E5%85%AC%E8%B7%AF%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E5%96%AE%E8%BB%8A%E7%94%B7%E5%8F%97%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2-%E5%8F%B8%E6%A9%9F%E5%8D%94%E5%8A%A9%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-10-06T20:56:59.353Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "駐沖繩美軍實施30天宵禁　應對士兵涉劫殺風波",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355200668798976024176.jpeg/u626QfX1m9zN69oq226ft9r1RlATxXYIDN03bgzdN24?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397010/%E9%A7%90%E6%B2%96%E7%B9%A9%E7%BE%8E%E8%BB%8D%E5%AF%A6%E6%96%BD30%E5%A4%A9%E5%AE%B5%E7%A6%81-%E6%87%89%E5%B0%8D%E5%A3%AB%E5%85%B5%E6%B6%89%E5%8A%AB%E6%AE%BA%E9%A2%A8%E6%B3%A2",
-    "timestamp": "2026-10-06T20:46:51.998Z",
     "strategy": ".content-card__main"
   }
 ];
