@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T07:34:42.018Z
+// Last updated: 2026-10-07T08:54:25.496Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新型撞車碰瓷黨｜警近一個月再拘17人　一人先後索償12次涉$364萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184545804078026752319462.jpeg/ZZ3iqWZVYEB5Ym0IWdQk1sknHzl9-zPf340MKN-NDCg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397233/%E6%96%B0%E5%9E%8B%E6%92%9E%E8%BB%8A%E7%A2%B0%E7%93%B7%E9%BB%A8-%E8%AD%A6%E8%BF%91%E4%B8%80%E5%80%8B%E6%9C%88%E5%86%8D%E6%8B%9817%E4%BA%BA-%E4%B8%80%E4%BA%BA%E5%85%88%E5%BE%8C%E7%B4%A2%E5%84%9F12%E6%AC%A1%E6%B6%89-364%E8%90%AC",
+    "timestamp": "2026-10-07T08:54:25.496Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣選舉觀察｜蔡康永震動台北選情？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184368699402883072194237.jpeg/R3Jskv_0KS9ynYA3GxkYIAQC16kvYbUzdk4C50xOAuc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397017/%E5%85%83%E6%9C%97%E5%A4%A7%E6%A3%A0%E6%9D%91%E6%9D%91%E5%B1%8B%E5%A6%BB%E5%AD%90%E4%BD%8F%E6%89%80%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-06T21:55:45.789Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗大棠村村屋妻子住所暈倒　丈夫報案　送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184368699402883072194237.jpeg/R3Jskv_0KS9ynYA3GxkYIAQC16kvYbUzdk4C50xOAuc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397017/%E5%85%83%E6%9C%97%E5%A4%A7%E6%A3%A0%E6%9D%91%E6%9D%91%E5%B1%8B%E5%A6%BB%E5%AD%90%E4%BD%8F%E6%89%80%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-06T21:46:53.333Z",
     "strategy": ".content-card__main"
   }
 ];
