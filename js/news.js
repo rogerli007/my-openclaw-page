@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T17:08:48.852Z
+// Last updated: 2026-10-07T17:35:59.191Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "資助換電動的士｜僅4成車主參加　謝展寰：經濟轉變令換車更審慎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143172971368550400301768.jpeg/Et8qAjOzA-HLU56jjcdPfPPKPr__KirVRchQ_0XIUP8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397352/%E8%B3%87%E5%8A%A9%E6%8F%9B%E9%9B%BB%E5%8B%95%E7%9A%84%E5%A3%AB-%E5%83%854%E6%88%90%E8%BB%8A%E4%B8%BB%E5%8F%83%E5%8A%A0-%E8%AC%9D%E5%B1%95%E5%AF%B0-%E7%B6%93%E6%BF%9F%E8%BD%89%E8%AE%8A%E4%BB%A4%E6%8F%9B%E8%BB%8A%E6%9B%B4%E5%AF%A9%E6%85%8E",
+    "timestamp": "2026-10-07T17:35:59.191Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜拜航空恐襲未遂案　沙特阿拉伯對事故展開航空安全調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184239711225384960198570.jpeg/29krEL9AwbZIXskotcuPInxelI5JWgZlJCSe-SQknvk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396873/%E5%89%8D-%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E-%E6%9E%97%E6%B3%B3%E6%B7%98%E5%A9%9A%E5%BE%8C%E6%BF%80%E7%BD%95%E6%9B%AC%E6%B3%B3%E7%85%A7-%E5%AE%8C%E7%BE%8E%E7%B7%9A%E6%A2%9D%E5%BC%95%E7%B2%89%E7%B5%B2%E6%9A%B4%E5%8B%95%E6%8C%89%E8%AE%9A",
     "timestamp": "2026-10-07T07:03:37.287Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "覃偉中火速落馬，中央對深圳究竟有何要求？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5d9ec691b54a442b19beb867.jpg/0dkC6sFqUylVs-vgcxujpnGvNiCTTERzKGM7MChjOzA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60397133/%E8%A6%83%E5%81%89%E4%B8%AD%E7%81%AB%E9%80%9F%E8%90%BD%E9%A6%AC-%E4%B8%AD%E5%A4%AE%E5%B0%8D%E6%B7%B1%E5%9C%B3%E7%A9%B6%E7%AB%9F%E6%9C%89%E4%BD%95%E8%A6%81%E6%B1%82",
-    "timestamp": "2026-10-07T06:35:40.840Z",
     "strategy": ".content-card__main"
   }
 ];
