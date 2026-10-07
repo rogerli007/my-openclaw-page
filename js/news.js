@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T18:25:53.398Z
+// Last updated: 2026-10-07T18:52:11.244Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九龍走廊私家車撞壆四輪朝天　司機一度被困自行爬出拒送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184684845326929920164750.jpeg/k3ml5QY34U6GdNI87l6OFcGKSu-9BvfEtYXFDrWFxQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397359/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E8%B5%B0%E5%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E8%87%AA%E8%A1%8C%E7%88%AC%E5%87%BA%E6%8B%92%E9%80%81%E9%99%A2",
+    "timestamp": "2026-10-07T18:52:11.244Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九龍走廊私家車撞壆四輪朝天　司機一度被困自行爬出拒送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184545804078026752319462.jpeg/ZZ3iqWZVYEB5Ym0IWdQk1sknHzl9-zPf340MKN-NDCg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397233/%E6%96%B0%E5%9E%8B%E6%92%9E%E8%BB%8A%E7%A2%B0%E7%93%B7%E9%BB%A8-%E8%AD%A6%E8%BF%91%E4%B8%80%E5%80%8B%E6%9C%88%E5%86%8D%E6%8B%9817%E4%BA%BA-%E4%B8%80%E4%BA%BA%E5%85%88%E5%BE%8C%E7%B4%A2%E5%84%9F12%E6%AC%A1%E6%B6%89-364%E8%90%AC",
     "timestamp": "2026-10-07T08:54:25.496Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣選舉觀察｜蔡康永震動台北選情？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183720939834052608340175.png/0a0RAY32mJyu5BZX4hwOcgubK4Df4QXPGrSMSRq0jEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60397155/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%A7%80%E5%AF%9F-%E8%94%A1%E5%BA%B7%E6%B0%B8%E9%9C%87%E5%8B%95%E5%8F%B0%E5%8C%97%E9%81%B8%E6%83%85",
-    "timestamp": "2026-10-07T07:34:42.018Z",
     "strategy": ".content-card__main"
   }
 ];
