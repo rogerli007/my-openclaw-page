@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T02:10:13.199Z
+// Last updated: 2026-10-07T02:52:46.184Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄實驗室人員疑染肺鼠疫亡　世衛稱接觸者未現症狀：傳播風險較低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230521/737060978927079424891046.jpeg/xn6LDjjO-SmsFtgfap7HasGaQ5M2cweJYM0eiWDNHok?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397064/%E4%BF%84%E5%AF%A6%E9%A9%97%E5%AE%A4%E4%BA%BA%E5%93%A1%E7%96%91%E6%9F%93%E8%82%BA%E9%BC%A0%E7%96%AB%E4%BA%A1-%E4%B8%96%E8%A1%9B%E7%A8%B1%E6%8E%A5%E8%A7%B8%E8%80%85%E6%9C%AA%E7%8F%BE%E7%97%87%E7%8B%80-%E5%82%B3%E6%92%AD%E9%A2%A8%E9%9A%AA%E8%BC%83%E4%BD%8E",
+    "timestamp": "2026-10-07T02:52:46.184Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "軍媒不點名批蔡康永｢站台｣沈伯洋：與台獨眉來眼去，早晚付出代價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397000/one-stanley%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%B1%8B%E5%AE%87%E7%BD%B2-%E6%9C%83%E6%8A%BD%E9%A9%97%E9%83%A8%E4%BB%BD%E5%96%AE%E4%BD%8D%E5%8F%8A%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%B6%E4%BB%96%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-10-06T19:20:05.874Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ONE STANLEY缺鋼筋｜屋宇署：會抽驗部份單位及承建商其他項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397000/one-stanley%E7%BC%BA%E9%8B%BC%E7%AD%8B-%E5%B1%8B%E5%AE%87%E7%BD%B2-%E6%9C%83%E6%8A%BD%E9%A9%97%E9%83%A8%E4%BB%BD%E5%96%AE%E4%BD%8D%E5%8F%8A%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%B6%E4%BB%96%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-10-06T18:51:23.744Z",
     "strategy": ".content-card__main"
   }
 ];
