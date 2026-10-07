@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T04:02:05.122Z
+// Last updated: 2026-10-07T04:30:27.751Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台北市長選戰｜沈伯洋被監控　調查指2名港人花9萬委託徵信社跟監",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176945304130293760275106.jpeg/TMnv6FjcmZOYrelQtymZrpmhNdM3LW6FXPGyJ1zxsic?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60397097/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B0-%E6%B2%88%E4%BC%AF%E6%B4%8B%E8%A2%AB%E7%9B%A3%E6%8E%A7-%E8%AA%BF%E6%9F%A5%E6%8C%872%E5%90%8D%E6%B8%AF%E4%BA%BA%E8%8A%B19%E8%90%AC%E5%A7%94%E8%A8%97%E5%BE%B5%E4%BF%A1%E7%A4%BE%E8%B7%9F%E7%9B%A3",
+    "timestamp": "2026-10-07T04:30:27.751Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬斯：伊朗須實質削減鈾濃縮能力　方能結束戰事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220216/570638977552355328817942.jpeg/MfDhTKrpqNFHeQhWb9cVtp9xTanfllEPp0yP2qdMj9o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397006/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E6%93%AC%E6%8E%A8%E5%80%99%E9%81%B8%E4%BA%BA%E8%A7%92%E9%80%90%E4%B8%96%E8%A1%9B%E7%B8%BD%E5%B9%B9%E4%BA%8B",
     "timestamp": "2026-10-06T19:55:58.118Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社：中國擬推候選人角逐世衛總幹事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220216/570638977552355328817942.jpeg/MfDhTKrpqNFHeQhWb9cVtp9xTanfllEPp0yP2qdMj9o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397006/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E6%93%AC%E6%8E%A8%E5%80%99%E9%81%B8%E4%BA%BA%E8%A7%92%E9%80%90%E4%B8%96%E8%A1%9B%E7%B8%BD%E5%B9%B9%E4%BA%8B",
-    "timestamp": "2026-10-06T19:48:17.132Z",
     "strategy": ".content-card__main"
   }
 ];
