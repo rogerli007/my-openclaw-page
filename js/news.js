@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T03:07:34.383Z
+// Last updated: 2026-10-07T04:02:05.122Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬斯：伊朗須實質削減鈾濃縮能力　方能結束戰事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184462457037393920608354.jpeg/56tm52Y4_91xC4nzbXS27AI52gEEcL5jQzPKCUMzygk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397084/%E8%90%AC%E6%96%AF-%E4%BC%8A%E6%9C%97%E9%A0%88%E5%AF%A6%E8%B3%AA%E5%89%8A%E6%B8%9B%E9%88%BE%E6%BF%83%E7%B8%AE%E8%83%BD%E5%8A%9B-%E6%96%B9%E8%83%BD%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B",
+    "timestamp": "2026-10-07T04:02:05.122Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "41歲加賀美早紀曾判剩3個月命　血液疾病復發急入院宣布全面停工",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220216/570638977552355328817942.jpeg/MfDhTKrpqNFHeQhWb9cVtp9xTanfllEPp0yP2qdMj9o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397006/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E6%93%AC%E6%8E%A8%E5%80%99%E9%81%B8%E4%BA%BA%E8%A7%92%E9%80%90%E4%B8%96%E8%A1%9B%E7%B8%BD%E5%B9%B9%E4%BA%8B",
     "timestamp": "2026-10-06T19:48:17.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "富泰邨女童孭爛書包苦拎兩袋啤酒惹議　父鬧廢人　學校：即時跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184291034436210688659081.jpeg/FWKDs9DeZxYZzKDOD4wtONN1FaBXH_5t6L_c9ui_3PY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60396994/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5%E5%AD%AD%E7%88%9B%E6%9B%B8%E5%8C%85%E8%8B%A6%E6%8B%8E%E5%85%A9%E8%A2%8B%E5%95%A4%E9%85%92%E6%83%B9%E8%AD%B0-%E7%88%B6%E9%AC%A7%E5%BB%A2%E4%BA%BA-%E5%AD%B8%E6%A0%A1-%E5%8D%B3%E6%99%82%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-10-06T19:33:36.514Z",
     "strategy": ".content-card__main"
   }
 ];
