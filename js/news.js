@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T19:56:59.676Z
+// Last updated: 2026-10-07T20:58:00.171Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國學生示威持續6629人被捕　總理承認訴求合理警方將停用閃光彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184715080390938624831294.jpeg/lJtE-crKFPOKB4nQ8Wbh_Lc5CIDG9hORRvjkCkb45Ao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397365/%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8C%81%E7%BA%8C6629%E4%BA%BA%E8%A2%AB%E6%8D%95-%E7%B8%BD%E7%90%86%E6%89%BF%E8%AA%8D%E8%A8%B4%E6%B1%82%E5%90%88%E7%90%86%E8%AD%A6%E6%96%B9%E5%B0%87%E5%81%9C%E7%94%A8%E9%96%83%E5%85%89%E5%BD%88",
+    "timestamp": "2026-10-07T20:58:00.171Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國女死囚打毒針腦死後奇蹟甦醒　法官判州政府保留所有死刑證據",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184564482756579328061958.jpeg/cFx4j99PjP5jF3c-70NgLoi80FC4hGXgIz1oswY9aLM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397277/%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%B7%A1%E7%A6%AE10-29%E8%B5%B7%E8%88%89%E8%A1%8C-%E8%9E%8D%E5%85%A5%E6%B8%AF%E5%91%B3%E6%8E%A8%E9%B9%B9%E9%AD%9A%E5%A5%B6%E8%93%8B-%E8%8A%AB%E8%8D%BD%E6%AA%B8%E6%AA%AC%E7%AD%89%E7%BE%8E%E9%85%92",
     "timestamp": "2026-10-07T10:50:11.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風｜天文台揭2026年風季完？9月罕有零颱風　10月打風機率曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184538489408983040156278.jpeg/ZSyjYkzEIrSQXH91aOIab6Al3rYgC4uC4rugJeK7oCU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60397216/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%8F%AD2026%E5%B9%B4%E9%A2%A8%E5%AD%A3%E5%AE%8C-9%E6%9C%88%E7%BD%95%E6%9C%89%E9%9B%B6%E9%A2%B1%E9%A2%A8-10%E6%9C%88%E6%89%93%E9%A2%A8%E6%A9%9F%E7%8E%87%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-10-07T10:02:00.974Z",
     "strategy": ".content-card__main"
   }
 ];
