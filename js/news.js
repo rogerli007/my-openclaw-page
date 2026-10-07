@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T04:52:01.538Z
+// Last updated: 2026-10-07T05:22:27.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "告別掰掰肉 ！為什麼手臂這麼難瘦？告別鬆弛的手臂線條完全指南",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184164302043484160952384.jpeg/DLgmA4WT9TZYQKjpclxrU9Q3YQclqXSO0hzoidIc6Ik?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60396805/%E5%91%8A%E5%88%A5%E6%8E%B0%E6%8E%B0%E8%82%89-%E7%82%BA%E4%BB%80%E9%BA%BC%E6%89%8B%E8%87%82%E9%80%99%E9%BA%BC%E9%9B%A3%E7%98%A6-%E5%91%8A%E5%88%A5%E9%AC%86%E5%BC%9B%E7%9A%84%E6%89%8B%E8%87%82%E7%B7%9A%E6%A2%9D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97",
+    "timestamp": "2026-10-07T05:22:27.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李靜、爾冬陞、貝鈞奇首日報名競逐選委　中秋出獄黃百鳴未爭連任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355200668798976024176.jpeg/u626QfX1m9zN69oq226ft9r1RlATxXYIDN03bgzdN24?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397010/%E9%A7%90%E6%B2%96%E7%B9%A9%E7%BE%8E%E8%BB%8D%E5%AF%A6%E6%96%BD30%E5%A4%A9%E5%AE%B5%E7%A6%81-%E6%87%89%E5%B0%8D%E5%A3%AB%E5%85%B5%E6%B6%89%E5%8A%AB%E6%AE%BA%E9%A2%A8%E6%B3%A2",
     "timestamp": "2026-10-06T20:46:51.998Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "駐沖繩美軍實施30天宵禁　應對士兵涉劫殺風波",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355200668798976024176.jpeg/u626QfX1m9zN69oq226ft9r1RlATxXYIDN03bgzdN24?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397010/%E9%A7%90%E6%B2%96%E7%B9%A9%E7%BE%8E%E8%BB%8D%E5%AF%A6%E6%96%BD30%E5%A4%A9%E5%AE%B5%E7%A6%81-%E6%87%89%E5%B0%8D%E5%A3%AB%E5%85%B5%E6%B6%89%E5%8A%AB%E6%AE%BA%E9%A2%A8%E6%B3%A2",
-    "timestamp": "2026-10-06T20:23:22.623Z",
     "strategy": ".content-card__main"
   }
 ];
