@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T22:22:30.130Z
+// Last updated: 2026-10-07T22:34:53.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寒露天氣｜今日初時有一兩陣微雨　早上稍涼　日間大致天晴乾燥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184745421746999296385709.jpeg/XEuFnwrlGOouXmWWlKAoikV97tfdlbKd1tLY_NbS2Pw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397357/%E5%AF%92%E9%9C%B2%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
+    "timestamp": "2026-10-07T22:34:53.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寒露天氣｜今日初時有一兩陣微雨　早上稍涼　日間大致天晴乾燥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184605686495973376562740.jpeg/IAQglg0uBJmrHtNqBpvu7IND-a0vpO-ep8ejZKfHo2Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397323/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A5%B3%E5%A9%BF%E5%85%A9%E5%B9%B4%E8%BA%8D%E5%8D%87nvidia%E5%89%AF%E7%B8%BD%E8%A3%81-%E6%8E%8C%E8%8B%B1%E5%81%89%E9%81%94ai%E5%9F%BA%E5%BB%BA",
     "timestamp": "2026-10-07T13:47:27.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "富泰邨女童｜3姊弟各有發展障礙　長女曾患川崎症　醫生詳解症狀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184467124786040832729345.jpeg/iLSQrV-GKdwGUI-dnMTO6mkPxxzWXlL2jtq5t47aubc",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397294/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-3%E5%A7%8A%E5%BC%9F%E5%90%84%E6%9C%89%E7%99%BC%E5%B1%95%E9%9A%9C%E7%A4%99-%E9%95%B7%E5%A5%B3%E6%9B%BE%E6%82%A3%E5%B7%9D%E5%B4%8E%E7%97%87-%E9%86%AB%E7%94%9F%E8%A9%B3%E8%A7%A3%E7%97%87%E7%8B%80",
-    "timestamp": "2026-10-07T13:25:53.546Z",
     "strategy": ".content-card__main"
   }
 ];
