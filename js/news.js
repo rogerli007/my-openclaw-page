@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T22:34:53.537Z
+// Last updated: 2026-10-07T23:01:18.593Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿飛正傳｜票房神話原定有份參演　電影公司嫌27萬片酬太貴終告吹",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184564036793012224378024.jpeg/HLidL7DbGIm0JtJMiEfRPhMTkkVnWOy2VrXl8Va15fE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60397243/%E9%98%BF%E9%A3%9B%E6%AD%A3%E5%82%B3-%E5%91%A8%E6%98%9F%E9%A6%B3%E5%8E%9F%E5%AE%9A%E6%9C%89%E4%BB%BD%E5%8F%83%E6%BC%94-%E9%9B%BB%E5%BD%B1%E5%85%AC%E5%8F%B8%E5%AB%8C27%E8%90%AC%E7%89%87%E9%85%AC%E5%A4%AA%E8%B2%B4%E7%B5%82%E5%91%8A%E5%90%B9",
+    "timestamp": "2026-10-07T23:01:18.593Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寒露天氣｜今日初時有一兩陣微雨　早上稍涼　日間大致天晴乾燥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184607533482905600508697.jpeg/adrTfNrVkO2oA_OLmvpEefgPi9-A8QEDz-iAg8_ogIM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397320/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E8%99%90%E5%85%92%E7%84%A1%E8%A1%A8%E9%9D%A2%E5%82%B7%E5%8F%AF%E5%AE%9A%E7%BD%AA-%E7%B7%B4%E8%82%8C%E8%82%89%E4%BD%9C%E8%BE%AF%E8%A7%A3-%E4%B8%80%E6%96%87%E7%9C%8B%E5%BE%8B%E5%B8%AB%E8%A7%A3%E9%87%8B",
     "timestamp": "2026-10-07T13:59:03.206Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳女婿兩年躍升Nvidia副總裁　掌英偉達AI基建",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184605686495973376562740.jpeg/IAQglg0uBJmrHtNqBpvu7IND-a0vpO-ep8ejZKfHo2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397323/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A5%B3%E5%A9%BF%E5%85%A9%E5%B9%B4%E8%BA%8D%E5%8D%87nvidia%E5%89%AF%E7%B8%BD%E8%A3%81-%E6%8E%8C%E8%8B%B1%E5%81%89%E9%81%94ai%E5%9F%BA%E5%BB%BA",
-    "timestamp": "2026-10-07T13:47:27.793Z",
     "strategy": ".content-card__main"
   }
 ];
