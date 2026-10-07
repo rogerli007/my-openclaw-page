@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T08:54:25.496Z
+// Last updated: 2026-10-07T09:24:33.956Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麻婆豆腐食譜｜煮法簡易20分鐘6步完成、豆腐炒不爛有秘訣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251201/1072233419959701504142657.jpeg/VvkD0LoWi__m4nhylKO3Z43kcLuGsv8a0kNZutJDWbo",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60379844/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%E9%A3%9F%E8%AD%9C-%E7%85%AE%E6%B3%95%E7%B0%A1%E6%98%9320%E5%88%86%E9%90%986%E6%AD%A5%E5%AE%8C%E6%88%90-%E8%B1%86%E8%85%90%E7%82%92%E4%B8%8D%E7%88%9B%E6%9C%89%E7%A7%98%E8%A8%A3",
+    "timestamp": "2026-10-07T09:24:33.956Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新型撞車碰瓷黨｜警近一個月再拘17人　一人先後索償12次涉$364萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184385716789317632279168.jpeg/XJ9Rw6v9Tr_I_uaGf1mCZPDkdSRWMm3Krw2fsq8Nn7I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397002/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC%E5%A4%A7%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E7%B4%8423%E5%BA%A6-%E6%97%A5%E9%96%93%E7%B4%8430%E5%BA%A6",
     "timestamp": "2026-10-06T22:22:37.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗大棠村村屋妻子住所暈倒　丈夫報案　送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184368699402883072194237.jpeg/R3Jskv_0KS9ynYA3GxkYIAQC16kvYbUzdk4C50xOAuc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397017/%E5%85%83%E6%9C%97%E5%A4%A7%E6%A3%A0%E6%9D%91%E6%9D%91%E5%B1%8B%E5%A6%BB%E5%AD%90%E4%BD%8F%E6%89%80%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-06T21:55:45.789Z",
     "strategy": ".content-card__main"
   }
 ];
