@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T15:58:03.716Z
+// Last updated: 2026-10-07T16:23:35.695Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Nothing Headphone (1) Pro深度評測｜透明降噪耳機演繹極致音色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184575703429943296074286.jpeg/F-4WRfJs-VdGXeXRNWG6dMId8-yLNzAlXEqVoVxKlaE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60397208/nothing-headphone-1-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-%E9%80%8F%E6%98%8E%E9%99%8D%E5%99%AA%E8%80%B3%E6%A9%9F%E6%BC%94%E7%B9%B9%E6%A5%B5%E8%87%B4%E9%9F%B3%E8%89%B2",
+    "timestamp": "2026-10-07T16:23:35.695Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國一批預先包裝芝士回收　食安中心：或受志賀毒素大腸桿菌污染",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184164302043484160952384.jpeg/DLgmA4WT9TZYQKjpclxrU9Q3YQclqXSO0hzoidIc6Ik?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60396805/%E5%91%8A%E5%88%A5%E6%8E%B0%E6%8E%B0%E8%82%89-%E7%82%BA%E4%BB%80%E9%BA%BC%E6%89%8B%E8%87%82%E9%80%99%E9%BA%BC%E9%9B%A3%E7%98%A6-%E5%91%8A%E5%88%A5%E9%AC%86%E5%BC%9B%E7%9A%84%E6%89%8B%E8%87%82%E7%B7%9A%E6%A2%9D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97",
     "timestamp": "2026-10-07T05:22:27.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李靜、爾冬陞、貝鈞奇首日報名競逐選委　中秋出獄黃百鳴未爭連任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184469581503139840130867.jpeg/np9qhe4G42Y5vAyxiwykY_HLyWpy28hEKW0e1CltHtQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60397096/%E6%9D%8E%E9%9D%9C-%E7%88%BE%E5%86%AC%E9%99%9E-%E8%B2%9D%E9%88%9E%E5%A5%87%E9%A6%96%E6%97%A5%E5%A0%B1%E5%90%8D%E7%AB%B6%E9%80%90%E9%81%B8%E5%A7%94-%E4%B8%AD%E7%A7%8B%E5%87%BA%E7%8D%84%E9%BB%83%E7%99%BE%E9%B3%B4%E6%9C%AA%E7%88%AD%E9%80%A3%E4%BB%BB",
-    "timestamp": "2026-10-07T04:52:01.538Z",
     "strategy": ".content-card__main"
   }
 ];
