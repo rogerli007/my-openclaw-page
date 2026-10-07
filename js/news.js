@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-07T16:23:35.695Z
+// Last updated: 2026-10-07T16:49:26.391Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜拜航空恐襲未遂案　沙特阿拉伯對事故展開航空安全調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397350/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E5%B0%8D%E4%BA%8B%E6%95%85%E5%B1%95%E9%96%8B%E8%88%AA%E7%A9%BA%E5%AE%89%E5%85%A8%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-10-07T16:49:26.391Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Nothing Headphone (1) Pro深度評測｜透明降噪耳機演繹極致音色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250305/973963332266496000251498.png/uM3Jc6dgNRbGUL_5ym7f82aYEOXuVku2yxuM5ssbjOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60216659/5g%E5%AE%B6%E5%B1%85%E5%AF%AC%E9%A0%BBplan%E6%A0%BC%E5%83%B92026-6%E5%A4%A7%E9%9B%BB%E8%A8%8A%E5%95%86%E6%9C%88%E8%B2%BB%E6%AF%94%E8%BC%83-3hk%E6%8A%B5%E7%94%A8-78%E5%8C%85router",
     "timestamp": "2026-10-07T05:48:13.967Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "告別掰掰肉 ！為什麼手臂這麼難瘦？告別鬆弛的手臂線條完全指南",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184164302043484160952384.jpeg/DLgmA4WT9TZYQKjpclxrU9Q3YQclqXSO0hzoidIc6Ik?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60396805/%E5%91%8A%E5%88%A5%E6%8E%B0%E6%8E%B0%E8%82%89-%E7%82%BA%E4%BB%80%E9%BA%BC%E6%89%8B%E8%87%82%E9%80%99%E9%BA%BC%E9%9B%A3%E7%98%A6-%E5%91%8A%E5%88%A5%E9%AC%86%E5%BC%9B%E7%9A%84%E6%89%8B%E8%87%82%E7%B7%9A%E6%A2%9D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97",
-    "timestamp": "2026-10-07T05:22:27.382Z",
     "strategy": ".content-card__main"
   }
 ];
