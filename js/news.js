@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T03:41:31.858Z
+// Last updated: 2026-10-08T04:03:52.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紋身者可浸溫泉嗎？從日本歷史拆解澡堂禁忌淵源　刻板印象從何來",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250822/1035525602762821632508364.jpeg/AzogNNfLYUs4lA5JQXdDcuv-ZKC3P9FMGIZXjBiGV4w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60269028/%E7%B4%8B%E8%BA%AB%E8%80%85%E5%8F%AF%E6%B5%B8%E6%BA%AB%E6%B3%89%E5%97%8E-%E5%BE%9E%E6%97%A5%E6%9C%AC%E6%AD%B7%E5%8F%B2%E6%8B%86%E8%A7%A3%E6%BE%A1%E5%A0%82%E7%A6%81%E5%BF%8C%E6%B7%B5%E6%BA%90-%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E5%BE%9E%E4%BD%95%E4%BE%86",
+    "timestamp": "2026-10-08T04:03:52.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國爆紅「MZ飲食減肥法」　5技巧吃出健康瘦　針對上班族熬夜族",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397350/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E5%B0%8D%E4%BA%8B%E6%95%85%E5%B1%95%E9%96%8B%E8%88%AA%E7%A9%BA%E5%AE%89%E5%85%A8%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-10-07T17:08:48.852Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜拜航空恐襲未遂案　沙特阿拉伯對事故展開航空安全調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397350/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E5%B0%8D%E4%BA%8B%E6%95%85%E5%B1%95%E9%96%8B%E8%88%AA%E7%A9%BA%E5%AE%89%E5%85%A8%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-10-07T16:49:26.391Z",
     "strategy": ".content-card__main"
   }
 ];
