@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T10:59:30.658Z
+// Last updated: 2026-10-08T11:20:29.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大維修｜房屋經理學會：限持有量無法阻假授權　倡用智方便認身份",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184877282716553216675430.jpeg/Tflh_v0TcpNXyKl-hEY-NKBodz9P0E0bevbT1V_209U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397645/%E5%A4%A7%E7%B6%AD%E4%BF%AE-%E6%88%BF%E5%B1%8B%E7%B6%93%E7%90%86%E5%AD%B8%E6%9C%83-%E9%99%90%E6%8C%81%E6%9C%89%E9%87%8F%E7%84%A1%E6%B3%95%E9%98%BB%E5%81%87%E6%8E%88%E6%AC%8A-%E5%80%A1%E7%94%A8%E6%99%BA%E6%96%B9%E4%BE%BF%E8%AA%8D%E8%BA%AB%E4%BB%BD",
+    "timestamp": "2026-10-08T11:20:29.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秀茂坪順天邨57歲男客廳暈倒　家人揭發惜當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181551051191357440784320.png/_3raFg7BkEXYEbF19o2Dz444fXu_o3CLcgRBzHIEQcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394717/%E6%85%88%E7%A6%A7%E4%B8%80%E7%94%9F%E6%9C%80%E7%9C%8B%E9%87%8D%E4%BB%80%E9%BA%BC-%E6%8E%8C%E6%AC%8A%E5%8D%8A%E4%B8%96%E7%B4%80-%E8%87%A8%E7%B5%82%E9%81%BA%E8%A8%80%E6%9A%B4%E9%9C%B2%E5%A5%B9%E5%BF%83%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E6%81%90%E6%87%BC",
     "timestamp": "2026-10-08T01:40:52.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「壽桃牌」斥8411萬　掃虹方8個銀主舖　賣200萬罐鮑魚麵先回本！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184568266194948096768092.jpeg/jXf2KcubjCT9Lvl75KQwjkQhRcikZzMBLJskYiybJGI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397279/%E5%A3%BD%E6%A1%83%E7%89%8C-%E6%96%A58411%E8%90%AC-%E6%8E%83%E8%99%B9%E6%96%B98%E5%80%8B%E9%8A%80%E4%B8%BB%E8%88%96-%E8%B3%A3200%E8%90%AC%E7%BD%90%E9%AE%91%E9%AD%9A%E9%BA%B5%E5%85%88%E5%9B%9E%E6%9C%AC",
-    "timestamp": "2026-10-07T23:56:37.170Z",
     "strategy": ".content-card__main"
   }
 ];
