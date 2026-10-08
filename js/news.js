@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T18:52:15.914Z
+// Last updated: 2026-10-08T19:19:22.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗的士撞傷男子　傷者昏迷送院搶救　司機涉危駕引致重傷被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185058075149602816493587.jpeg/1ziCFrrnLvlCoqHkGWrVM3k7qHI0dFBl_tovGMTaLxg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397732/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%9A%84%E5%A3%AB%E6%92%9E%E5%82%B7%E7%94%B7%E5%AD%90-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%BC%95%E8%87%B4%E9%87%8D%E5%82%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-08T19:19:22.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節｜機管局聯乘王嘉爾「搞鬼」　機場多處設置南瓜鬼打卡位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3004964/org/1adc0a689aec7feec321f52b2d67f6ea.jpg/3Ji4jvird-P4PTZozsD_eCF6fbbS76yAtIqrjbSKq40?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397668/%E7%A7%80%E8%8C%82%E5%9D%AA%E9%A0%86%E5%A4%A9%E9%82%A857%E6%AD%B2%E7%94%B7%E5%AE%A2%E5%BB%B3%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E6%8F%AD%E7%99%BC%E6%83%9C%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-08T10:59:30.658Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜富泰邨女童疑被虐 父指被拍攝有情緒但強調:冇打過佢哋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184627082240462848875309.jpeg/oBZRjwEjdOwujfmlUjqTpHKLRwMg78w1RGnQN0Rp0Dc",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397330/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5%E7%96%91%E8%A2%AB%E8%99%90-%E7%88%B6%E6%8C%87%E8%A2%AB%E6%8B%8D%E6%94%9D%E6%9C%89%E6%83%85%E7%B7%92%E4%BD%86-%E5%86%87%E6%89%93%E9%81%8E%E4%BD%A2%E5%93%8B",
-    "timestamp": "2026-10-08T10:22:55.148Z",
     "strategy": ".content-card__main"
   }
 ];
