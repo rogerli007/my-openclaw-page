@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T14:26:56.897Z
+// Last updated: 2026-10-08T15:48:19.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男友買機票自己坐商務艙　獨留女友在經濟艙　網民卻一面倒挺男方",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174408796726890496738025.jpeg/LLo8l0BUzfY_zJEwMFZCirSfIapnEqKlT-JXZk_iV2Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60300007/%E7%94%B7%E5%8F%8B%E8%B2%B7%E6%A9%9F%E7%A5%A8%E8%87%AA%E5%B7%B1%E5%9D%90%E5%95%86%E5%8B%99%E8%89%99-%E7%8D%A8%E7%95%99%E5%A5%B3%E5%8F%8B%E5%9C%A8%E7%B6%93%E6%BF%9F%E8%89%99-%E7%B6%B2%E6%B0%91%E5%8D%BB%E4%B8%80%E9%9D%A2%E5%80%92%E6%8C%BA%E7%94%B7%E6%96%B9",
+    "timestamp": "2026-10-08T15:48:19.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湖南常德煙花廠去年爆炸釀9死26傷　官方公布調查報告多人被追責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121014669922799616825961.jpeg/jfgdcvvgaKHPKSYcksPSdG3RfxEd6LWFfJ89znyfPc4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397525/%E4%B8%AD%E7%BE%8E%E8%A7%92%E5%8A%9B-%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8%E9%A6%96%E6%AC%A1%E5%B0%8D%E7%BE%8E%E4%BC%81%E6%8A%95%E8%B3%87%E4%B8%AD%E5%9C%8B%E6%95%8F%E6%84%9F%E6%8A%80%E8%A1%93%E9%96%8B%E7%BD%B0%E5%96%AE",
     "timestamp": "2026-10-08T05:59:48.318Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地用戶受限！　多間在港中資券商開槍　內地IP或將禁買、禁開倉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/442538/org/302b30db897b3f84200681a1fa89ac74.JPG/OETUI1CoxGgZwqn3jjTnYPk44ISAwcAI8Pdk1PD3ZNQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60397494/%E5%85%A7%E5%9C%B0%E7%94%A8%E6%88%B6%E5%8F%97%E9%99%90-%E5%A4%9A%E9%96%93%E5%9C%A8%E6%B8%AF%E4%B8%AD%E8%B3%87%E5%88%B8%E5%95%86%E9%96%8B%E6%A7%8D-%E5%85%A7%E5%9C%B0ip%E6%88%96%E5%B0%87%E7%A6%81%E8%B2%B7-%E7%A6%81%E9%96%8B%E5%80%89",
-    "timestamp": "2026-10-08T05:48:26.347Z",
     "strategy": ".content-card__main"
   }
 ];
