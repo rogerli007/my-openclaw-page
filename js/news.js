@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T19:36:17.290Z
+// Last updated: 2026-10-08T19:56:22.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彩虹私家車疑行車不穩遇路障　41歲男司機「吹爆波」　涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185065494122598400740361.jpeg/xUEg2Hnuu5zzZO3KC_Zsqtq6UxuWMyv4aED5ulJA-bo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397736/%E5%BD%A9%E8%99%B9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E8%B7%AF%E9%9A%9C-41%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-08T19:56:22.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗的士撞傷男子　傷者昏迷送院搶救　司機涉危駕引致重傷被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2326981/org/249727652b0b5b15382037d5ccc7a781.jpg/f0vIpLw3EJgIsaW4maDjxRd6hOX8m_5M3hyWzt4cls4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397682/%E6%B5%81%E6%84%9F-%E4%B9%9D%E9%BE%8D%E9%86%AB%E9%99%A2%E5%BA%B7%E5%BE%A9%E7%A7%91%E7%94%B7%E7%97%85%E6%88%BF%E7%88%86%E7%94%B2%E6%B5%81-8%E7%97%85%E4%BA%BA%E5%87%BA%E7%8F%BE%E7%99%BC%E7%87%92%E5%8F%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93",
     "timestamp": "2026-10-08T11:46:08.292Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大維修｜房屋經理學會：限持有量無法阻假授權　倡用智方便認身份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184877282716553216675430.jpeg/Tflh_v0TcpNXyKl-hEY-NKBodz9P0E0bevbT1V_209U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397645/%E5%A4%A7%E7%B6%AD%E4%BF%AE-%E6%88%BF%E5%B1%8B%E7%B6%93%E7%90%86%E5%AD%B8%E6%9C%83-%E9%99%90%E6%8C%81%E6%9C%89%E9%87%8F%E7%84%A1%E6%B3%95%E9%98%BB%E5%81%87%E6%8E%88%E6%AC%8A-%E5%80%A1%E7%94%A8%E6%99%BA%E6%96%B9%E4%BE%BF%E8%AA%8D%E8%BA%AB%E4%BB%BD",
-    "timestamp": "2026-10-08T11:20:29.234Z",
     "strategy": ".content-card__main"
   }
 ];
