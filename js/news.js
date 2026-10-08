@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T17:56:45.333Z
+// Last updated: 2026-10-08T18:26:03.989Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱與伊朗談判順利　不會在11月中期選舉前向對方發動襲擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185026709913604096950123.jpeg/lYntAawyERu1SqH6aEi19eSiDC24THkjTe_8BU3v_AU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397728/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E9%A0%86%E5%88%A9-%E4%B8%8D%E6%9C%83%E5%9C%A811%E6%9C%88%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%89%8D%E5%90%91%E5%B0%8D%E6%96%B9%E7%99%BC%E5%8B%95%E8%A5%B2%E6%93%8A",
+    "timestamp": "2026-10-08T18:26:03.989Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫生，你有病？｜黃霑肺癌主刀醫生嚴秉泉患柏金遜封刀　轉戰畫壇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181210020654878720503267.jpeg/6hj9PpfuvhwuSfWnkahr45CS-9D_R9_AFvo5fDP6OXw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397631/%E7%9F%B3%E6%A2%A8%E8%B2%9D%E6%BF%BE%E6%B0%B4%E5%BB%A0%E7%9B%9C%E7%AB%8A%E9%8A%85%E8%A3%BD%E6%B0%B4%E6%B3%B5%E6%A1%88-%E8%AD%A6%E6%8B%985%E4%BA%BA-%E5%8C%85%E6%8B%AC%E5%9B%9E%E6%94%B6%E5%BA%97%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E6%8E%A5%E8%B4%93",
     "timestamp": "2026-10-08T09:52:41.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "八旬翁圖以一萬元行賄區議員李家軒　逼教會牧師會面　遭廉署起訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184911599945650176721598.jpeg/kyaooHPcIo1f3DpECEqxcdEfmcKR5YdwpbCmCqWwpgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397615/%E5%85%AB%E6%97%AC%E7%BF%81%E5%9C%96%E4%BB%A5%E4%B8%80%E8%90%AC%E5%85%83%E8%A1%8C%E8%B3%84%E5%8D%80%E8%AD%B0%E5%93%A1%E6%9D%8E%E5%AE%B6%E8%BB%92-%E9%80%BC%E6%95%99%E6%9C%83%E7%89%A7%E5%B8%AB%E6%9C%83%E9%9D%A2-%E9%81%AD%E5%BB%89%E7%BD%B2%E8%B5%B7%E8%A8%B4",
-    "timestamp": "2026-10-08T09:31:04.724Z",
     "strategy": ".content-card__main"
   }
 ];
