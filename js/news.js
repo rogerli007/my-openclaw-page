@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T20:22:29.144Z
+// Last updated: 2026-10-08T20:47:54.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普頒發國家科學獎　馬斯克黃仁勳等4位科企高層獲獎｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185080329963048960405178.jpeg/p6aO7sego9XaVGrsYulQB2aqz6NvIspjuIr2BLiK9gQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397739/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%92%E7%99%BC%E5%9C%8B%E5%AE%B6%E7%A7%91%E5%AD%B8%E7%8D%8E-%E9%A6%AC%E6%96%AF%E5%85%8B%E9%BB%83%E4%BB%81%E5%8B%B3%E7%AD%894%E4%BD%8D%E7%A7%91%E4%BC%81%E9%AB%98%E5%B1%A4%E7%8D%B2%E7%8D%8E-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-08T20:47:54.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警觀塘搗破非法釣魚機賭檔　5男女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184915487620861952487561.png/_Hdvv7tf-efDsvqeDfzuwtcl1JqzUV_fpKzYo6Ss2KM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60397602/%E5%AE%89%E7%95%94%E9%8C%AB%E9%81%BA%E4%BD%9C-%E6%88%80%E6%84%9B%E5%8D%9A%E5%A3%AB-disney-%E7%8D%B2%E5%A5%BD%E8%A9%95-%E7%A7%8B%E8%8B%B1%E5%AE%87%E6%88%AA%E8%82%A2%E8%99%90%E6%88%80%E9%87%91%E6%89%80%E6%B3%AB",
     "timestamp": "2026-10-08T12:31:41.241Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流感｜九龍醫院康復科男病房爆甲流　8病人出現發燒及呼吸道感染",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2326981/org/249727652b0b5b15382037d5ccc7a781.jpg/f0vIpLw3EJgIsaW4maDjxRd6hOX8m_5M3hyWzt4cls4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397682/%E6%B5%81%E6%84%9F-%E4%B9%9D%E9%BE%8D%E9%86%AB%E9%99%A2%E5%BA%B7%E5%BE%A9%E7%A7%91%E7%94%B7%E7%97%85%E6%88%BF%E7%88%86%E7%94%B2%E6%B5%81-8%E7%97%85%E4%BA%BA%E5%87%BA%E7%8F%BE%E7%99%BC%E7%87%92%E5%8F%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93",
-    "timestamp": "2026-10-08T11:57:40.306Z",
     "strategy": ".content-card__main"
   }
 ];
