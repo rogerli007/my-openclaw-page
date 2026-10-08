@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T13:51:07.018Z
+// Last updated: 2026-10-08T14:00:55.218Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「安娜貝爾」現身白宮？Michael Dell的夫人遭網民諷整容過度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184977988882534400951480.jpeg/Xlk4vxqlJIwYqIsNEGsK1Kp_tQ9MNnlVdOkLrXTpC60?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397653/%E5%AE%89%E5%A8%9C%E8%B2%9D%E7%88%BE-%E7%8F%BE%E8%BA%AB%E7%99%BD%E5%AE%AE-michael-dell%E7%9A%84%E5%A4%AB%E4%BA%BA%E9%81%AD%E7%B6%B2%E6%B0%91%E8%AB%B7%E6%95%B4%E5%AE%B9%E9%81%8E%E5%BA%A6",
+    "timestamp": "2026-10-08T14:00:55.218Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國「華人熱門豪宅區」再爆槍擊案　丈夫疑射傷妻子逃至機場被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173994889713553408452701.jpeg/FiYC81V71N3gNR-KwDtYAWaWu-yWon-8PcAZbj3AGW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60397475/%E9%BC%A0%E7%96%AB%E4%BF%84%E7%BE%85%E6%96%AF-%E9%BC%A0%E7%96%AB3%E7%A8%AE%E8%82%BA%E9%BC%A0%E7%96%AB%E6%9C%80%E5%9A%B4%E9%87%8D-%E6%AD%BB%E4%BA%A1%E7%8E%87-%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95-18%E5%8D%80%E9%BC%A0%E6%82%A3%E5%9C%B0%E5%8D%80",
     "timestamp": "2026-10-08T05:23:02.201Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧紫棋傳秘婚Mark魏俊傑　男方黑歷史被挖　曾涉襲擊路人頭部坐監",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184831827043422208974583.png/TNpC9g7PtVkVL9fR6zMB3LblXs6BXIt_ErG1yxKxtcs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397442/%E9%84%A7%E7%B4%AB%E6%A3%8B%E5%82%B3%E7%A7%98%E5%A9%9Amark%E9%AD%8F%E4%BF%8A%E5%82%91-%E7%94%B7%E6%96%B9%E9%BB%91%E6%AD%B7%E5%8F%B2%E8%A2%AB%E6%8C%96-%E6%9B%BE%E6%B6%89%E8%A5%B2%E6%93%8A%E8%B7%AF%E4%BA%BA%E9%A0%AD%E9%83%A8%E5%9D%90%E7%9B%A3",
-    "timestamp": "2026-10-08T04:54:21.003Z",
     "strategy": ".content-card__main"
   }
 ];
