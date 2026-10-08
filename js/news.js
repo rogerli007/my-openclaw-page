@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T11:20:29.234Z
+// Last updated: 2026-10-08T11:46:08.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "流感｜九龍醫院康復科男病房爆甲流　8病人出現發燒及呼吸道感染",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2326981/org/249727652b0b5b15382037d5ccc7a781.jpg/f0vIpLw3EJgIsaW4maDjxRd6hOX8m_5M3hyWzt4cls4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397682/%E6%B5%81%E6%84%9F-%E4%B9%9D%E9%BE%8D%E9%86%AB%E9%99%A2%E5%BA%B7%E5%BE%A9%E7%A7%91%E7%94%B7%E7%97%85%E6%88%BF%E7%88%86%E7%94%B2%E6%B5%81-8%E7%97%85%E4%BA%BA%E5%87%BA%E7%8F%BE%E7%99%BC%E7%87%92%E5%8F%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93",
+    "timestamp": "2026-10-08T11:46:08.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大維修｜房屋經理學會：限持有量無法阻假授權　倡用智方便認身份",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887734315692068864365890.jpeg/ozPeqhfMRg4ZjWucEHxtZCX8K__WYy8abFOk_mxTpP4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397393/%E6%AD%90%E7%9B%9F%E6%93%9A%E5%A0%B1%E6%93%AC%E9%99%90%E8%8F%AF%E6%B7%B7%E8%83%BD%E8%BB%8A%E9%80%B2%E5%8F%A3-%E5%85%A7%E5%9C%B0%E5%AE%98%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%89%E5%B7%A5%E5%85%B7%E6%87%89%E5%B0%8D%E6%AD%A7%E8%A6%96%E6%80%A7%E6%8E%AA%E6%96%BD",
     "timestamp": "2026-10-08T02:10:16.559Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慈禧一生最看重什麼？掌權半世紀　臨終遺言暴露她心中的最大恐懼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181551051191357440784320.png/_3raFg7BkEXYEbF19o2Dz444fXu_o3CLcgRBzHIEQcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394717/%E6%85%88%E7%A6%A7%E4%B8%80%E7%94%9F%E6%9C%80%E7%9C%8B%E9%87%8D%E4%BB%80%E9%BA%BC-%E6%8E%8C%E6%AC%8A%E5%8D%8A%E4%B8%96%E7%B4%80-%E8%87%A8%E7%B5%82%E9%81%BA%E8%A8%80%E6%9A%B4%E9%9C%B2%E5%A5%B9%E5%BF%83%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E6%81%90%E6%87%BC",
-    "timestamp": "2026-10-08T01:40:52.216Z",
     "strategy": ".content-card__main"
   }
 ];
