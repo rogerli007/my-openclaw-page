@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T18:26:03.989Z
+// Last updated: 2026-10-08T18:52:15.914Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節｜機管局聯乘王嘉爾「搞鬼」　機場多處設置南瓜鬼打卡位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185055481446535168865493.jpeg/SqR9fbWUfKSxHlIvTHfcRanSATK_3XAiv1V-h79Vfoc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397735/%E8%90%AC%E8%81%96%E7%AF%80-%E6%A9%9F%E7%AE%A1%E5%B1%80%E8%81%AF%E4%B9%98%E7%8E%8B%E5%98%89%E7%88%BE-%E6%90%9E%E9%AC%BC-%E6%A9%9F%E5%A0%B4%E5%A4%9A%E8%99%95%E8%A8%AD%E7%BD%AE%E5%8D%97%E7%93%9C%E9%AC%BC%E6%89%93%E5%8D%A1%E4%BD%8D",
+    "timestamp": "2026-10-08T18:52:15.914Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱與伊朗談判順利　不會在11月中期選舉前向對方發動襲擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184627082240462848875309.jpeg/oBZRjwEjdOwujfmlUjqTpHKLRwMg78w1RGnQN0Rp0Dc",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397330/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5%E7%96%91%E8%A2%AB%E8%99%90-%E7%88%B6%E6%8C%87%E8%A2%AB%E6%8B%8D%E6%94%9D%E6%9C%89%E6%83%85%E7%B7%92%E4%BD%86-%E5%86%87%E6%89%93%E9%81%8E%E4%BD%A2%E5%93%8B",
     "timestamp": "2026-10-08T10:22:55.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石梨貝濾水廠盜竊銅製水泵案　警拘5人　包括回收店負責人涉接贓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181210020654878720503267.jpeg/6hj9PpfuvhwuSfWnkahr45CS-9D_R9_AFvo5fDP6OXw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397631/%E7%9F%B3%E6%A2%A8%E8%B2%9D%E6%BF%BE%E6%B0%B4%E5%BB%A0%E7%9B%9C%E7%AB%8A%E9%8A%85%E8%A3%BD%E6%B0%B4%E6%B3%B5%E6%A1%88-%E8%AD%A6%E6%8B%985%E4%BA%BA-%E5%8C%85%E6%8B%AC%E5%9B%9E%E6%94%B6%E5%BA%97%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E6%8E%A5%E8%B4%93",
-    "timestamp": "2026-10-08T09:52:41.003Z",
     "strategy": ".content-card__main"
   }
 ];
