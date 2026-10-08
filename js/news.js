@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T08:36:20.863Z
+// Last updated: 2026-10-08T09:03:54.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗壞𨋢、豪宅少鋼筋　陳婉嫻：建築聲譽非口號　驗收不嚴剩空殼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5514773/org/af8336a3b7e84f5022a8963d1de61451.png/QYn1zDS9LdVQzMo1l5uGcLS9XtcchVxTKlSovypUqL8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60397604/%E7%91%AA%E9%BA%97%E5%A3%9E%F0%A8%8B%A2-%E8%B1%AA%E5%AE%85%E5%B0%91%E9%8B%BC%E7%AD%8B-%E9%99%B3%E5%A9%89%E5%AB%BB-%E5%BB%BA%E7%AF%89%E8%81%B2%E8%AD%BD%E9%9D%9E%E5%8F%A3%E8%99%9F-%E9%A9%97%E6%94%B6%E4%B8%8D%E5%9A%B4%E5%89%A9%E7%A9%BA%E6%AE%BC",
+    "timestamp": "2026-10-08T09:03:54.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國防部令中央司令部備戰　特朗普權衡何時打擊伊朗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184745421746999296385709.jpeg/XEuFnwrlGOouXmWWlKAoikV97tfdlbKd1tLY_NbS2Pw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397357/%E5%AF%92%E9%9C%B2%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
     "timestamp": "2026-10-07T22:22:30.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓男足亞運奪金後炫耀免兵役更重要遭炎上　政府考慮取消免役特例",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184731579751075840736984.jpeg/dKKeaxiOrV14Jvh0_8YTET_bJdfvxfi5-UfqPPlH6jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397367/%E9%9F%93%E7%94%B7%E8%B6%B3%E4%BA%9E%E9%81%8B%E5%A5%AA%E9%87%91%E5%BE%8C%E7%82%AB%E8%80%80%E5%85%8D%E5%85%B5%E5%BD%B9%E6%9B%B4%E9%87%8D%E8%A6%81%E9%81%AD%E7%82%8E%E4%B8%8A-%E6%94%BF%E5%BA%9C%E8%80%83%E6%85%AE%E5%8F%96%E6%B6%88%E5%85%8D%E5%BD%B9%E7%89%B9%E4%BE%8B",
-    "timestamp": "2026-10-07T21:56:03.756Z",
     "strategy": ".content-card__main"
   }
 ];
