@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T23:00:31.960Z
+// Last updated: 2026-10-08T23:55:29.142Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國暫停微軟等科企H1-B簽證轉綠卡申請　調查9大學濫用交流簽證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185123545512939520738062.jpeg/SIzI-xARILFP5ZjYntQuHLs11KDUuXKjfdcqMn3XKjI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397750/%E7%BE%8E%E5%9C%8B%E6%9A%AB%E5%81%9C%E5%BE%AE%E8%BB%9F%E7%AD%89%E7%A7%91%E4%BC%81h1-b%E7%B0%BD%E8%AD%89%E8%BD%89%E7%B6%A0%E5%8D%A1%E7%94%B3%E8%AB%8B-%E8%AA%BF%E6%9F%A59%E5%A4%A7%E5%AD%B8%E6%BF%AB%E7%94%A8%E4%BA%A4%E6%B5%81%E7%B0%BD%E8%AD%89",
+    "timestamp": "2026-10-08T23:55:29.142Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "娛樂公司創辦人生日獲藝人慶生兼大讚　曾與梅艷芳去到談婚論嫁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174408796726890496738025.jpeg/LLo8l0BUzfY_zJEwMFZCirSfIapnEqKlT-JXZk_iV2Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60300007/%E7%94%B7%E5%8F%8B%E8%B2%B7%E6%A9%9F%E7%A5%A8%E8%87%AA%E5%B7%B1%E5%9D%90%E5%95%86%E5%8B%99%E8%89%99-%E7%8D%A8%E7%95%99%E5%A5%B3%E5%8F%8B%E5%9C%A8%E7%B6%93%E6%BF%9F%E8%89%99-%E7%B6%B2%E6%B0%91%E5%8D%BB%E4%B8%80%E9%9D%A2%E5%80%92%E6%8C%BA%E7%94%B7%E6%96%B9",
     "timestamp": "2026-10-08T15:48:19.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湖南常德煙花廠去年爆炸釀9死26傷　官方公布調查報告多人被追責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184990273906675712460918.png/CXoDu7etB9_LMUAMXNwZyGH3liCXEg_NbRjBdG0YwXQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60397711/%E6%B9%96%E5%8D%97%E5%B8%B8%E5%BE%B7%E7%85%99%E8%8A%B1%E5%BB%A0%E5%8E%BB%E5%B9%B4%E7%88%86%E7%82%B8%E9%87%809%E6%AD%BB26%E5%82%B7-%E5%AE%98%E6%96%B9%E5%85%AC%E5%B8%83%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B2%AC",
-    "timestamp": "2026-10-08T14:26:56.897Z",
     "strategy": ".content-card__main"
   }
 ];
