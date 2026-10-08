@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T09:31:04.724Z
+// Last updated: 2026-10-08T09:52:41.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石梨貝濾水廠盜竊銅製水泵案　警拘5人　包括回收店負責人涉接贓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181210020654878720503267.jpeg/6hj9PpfuvhwuSfWnkahr45CS-9D_R9_AFvo5fDP6OXw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397631/%E7%9F%B3%E6%A2%A8%E8%B2%9D%E6%BF%BE%E6%B0%B4%E5%BB%A0%E7%9B%9C%E7%AB%8A%E9%8A%85%E8%A3%BD%E6%B0%B4%E6%B3%B5%E6%A1%88-%E8%AD%A6%E6%8B%985%E4%BA%BA-%E5%8C%85%E6%8B%AC%E5%9B%9E%E6%94%B6%E5%BA%97%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%B6%89%E6%8E%A5%E8%B4%93",
+    "timestamp": "2026-10-08T09:52:41.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八旬翁圖以一萬元行賄區議員李家軒　逼教會牧師會面　遭廉署起訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184564036793012224378024.jpeg/HLidL7DbGIm0JtJMiEfRPhMTkkVnWOy2VrXl8Va15fE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60397243/%E9%98%BF%E9%A3%9B%E6%AD%A3%E5%82%B3-%E5%91%A8%E6%98%9F%E9%A6%B3%E5%8E%9F%E5%AE%9A%E6%9C%89%E4%BB%BD%E5%8F%83%E6%BC%94-%E9%9B%BB%E5%BD%B1%E5%85%AC%E5%8F%B8%E5%AB%8C27%E8%90%AC%E7%89%87%E9%85%AC%E5%A4%AA%E8%B2%B4%E7%B5%82%E5%91%8A%E5%90%B9",
     "timestamp": "2026-10-07T23:01:18.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒露天氣｜今日初時有一兩陣微雨　早上稍涼　日間大致天晴乾燥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184745421746999296385709.jpeg/XEuFnwrlGOouXmWWlKAoikV97tfdlbKd1tLY_NbS2Pw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397357/%E5%AF%92%E9%9C%B2%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
-    "timestamp": "2026-10-07T22:34:53.537Z",
     "strategy": ".content-card__main"
   }
 ];
