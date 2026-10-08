@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T12:58:45.602Z
+// Last updated: 2026-10-08T13:26:04.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女警誕嬰出血亡　醫委會隔9年稱證據不足結束投訴　家屬促重審",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184972500082102272974038.jpeg/q1I5ILWXP0bE67gnwIxXr7SlkB3MAKdVjZo9hY2aPYU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397681/%E5%A5%B3%E8%AD%A6%E8%AA%95%E5%AC%B0%E5%87%BA%E8%A1%80%E4%BA%A1-%E9%86%AB%E5%A7%94%E6%9C%83%E9%9A%949%E5%B9%B4%E7%A8%B1%E8%AD%89%E6%93%9A%E4%B8%8D%E8%B6%B3%E7%B5%90%E6%9D%9F%E6%8A%95%E8%A8%B4-%E5%AE%B6%E5%B1%AC%E4%BF%83%E9%87%8D%E5%AF%A9",
+    "timestamp": "2026-10-08T13:26:04.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國央行發文駁斥人民幣匯率被低估說法　強調堅持市場化改革",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184840262199808000850314.jpeg/ew8LYn6Ou7-mejTYEIiCa3NXUMKzQmiir-zY1a_s2NU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60397485/bts%E6%9F%BE%E5%9C%8B%E7%A9%BA%E9%99%8D%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7-jung-kook%E8%A6%AA%E8%A8%AAhublot%E5%B0%88%E9%96%80%E5%BA%97%E8%90%AC%E4%BA%BA%E7%A9%BA%E5%B7%B7",
     "timestamp": "2026-10-08T04:30:20.000Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紋身者可浸溫泉嗎？從日本歷史拆解澡堂禁忌淵源　刻板印象從何來",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250822/1035525602762821632508364.jpeg/AzogNNfLYUs4lA5JQXdDcuv-ZKC3P9FMGIZXjBiGV4w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60269028/%E7%B4%8B%E8%BA%AB%E8%80%85%E5%8F%AF%E6%B5%B8%E6%BA%AB%E6%B3%89%E5%97%8E-%E5%BE%9E%E6%97%A5%E6%9C%AC%E6%AD%B7%E5%8F%B2%E6%8B%86%E8%A7%A3%E6%BE%A1%E5%A0%82%E7%A6%81%E5%BF%8C%E6%B7%B5%E6%BA%90-%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E5%BE%9E%E4%BD%95%E4%BE%86",
-    "timestamp": "2026-10-08T04:03:52.622Z",
     "strategy": ".content-card__main"
   }
 ];
