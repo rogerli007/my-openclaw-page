@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T17:20:10.253Z
+// Last updated: 2026-10-08T17:34:47.849Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫生，你有病？｜黃霑肺癌主刀醫生嚴秉泉患柏金遜封刀　轉戰畫壇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185032860382269440368270.jpeg/zNmiX1A4Zl1T82bfLrjDQp6yO8JoKThrDCTgAQwk4AE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397731/%E9%86%AB%E7%94%9F-%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E9%9C%91%E8%82%BA%E7%99%8C%E4%B8%BB%E5%88%80%E9%86%AB%E7%94%9F%E5%9A%B4%E7%A7%89%E6%B3%89%E6%82%A3%E6%9F%8F%E9%87%91%E9%81%9C%E5%B0%81%E5%88%80-%E8%BD%89%E6%88%B0%E7%95%AB%E5%A3%87",
+    "timestamp": "2026-10-08T17:34:47.849Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫生，你有病？｜黃霑肺癌主刀醫生嚴秉泉患柏金遜封刀　轉戰畫壇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5514773/org/af8336a3b7e84f5022a8963d1de61451.png/QYn1zDS9LdVQzMo1l5uGcLS9XtcchVxTKlSovypUqL8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60397604/%E7%91%AA%E9%BA%97%E5%A3%9E%F0%A8%8B%A2-%E8%B1%AA%E5%AE%85%E5%B0%91%E9%8B%BC%E7%AD%8B-%E9%99%B3%E5%A9%89%E5%AB%BB-%E5%BB%BA%E7%AF%89%E8%81%B2%E8%AD%BD%E9%9D%9E%E5%8F%A3%E8%99%9F-%E9%A9%97%E6%94%B6%E4%B8%8D%E5%9A%B4%E5%89%A9%E7%A9%BA%E6%AE%BC",
     "timestamp": "2026-10-08T09:03:54.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國防部令中央司令部備戰　特朗普權衡何時打擊伊朗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397600/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E4%BB%A4%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%82%99%E6%88%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%8A%E8%A1%A1%E4%BD%95%E6%99%82%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97",
-    "timestamp": "2026-10-08T08:36:20.863Z",
     "strategy": ".content-card__main"
   }
 ];
