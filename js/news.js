@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T19:56:22.756Z
+// Last updated: 2026-10-08T20:22:29.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警觀塘搗破非法釣魚機賭檔　5男女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185078906298830848357261.jpeg/wKR5yis_9Z61Vi_im6HkSYvNrmXlNX4HjwEmtI8BJrQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397740/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E6%AA%94-5%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-08T20:22:29.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彩虹私家車疑行車不穩遇路障　41歲男司機「吹爆波」　涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2326981/org/249727652b0b5b15382037d5ccc7a781.jpg/f0vIpLw3EJgIsaW4maDjxRd6hOX8m_5M3hyWzt4cls4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397682/%E6%B5%81%E6%84%9F-%E4%B9%9D%E9%BE%8D%E9%86%AB%E9%99%A2%E5%BA%B7%E5%BE%A9%E7%A7%91%E7%94%B7%E7%97%85%E6%88%BF%E7%88%86%E7%94%B2%E6%B5%81-8%E7%97%85%E4%BA%BA%E5%87%BA%E7%8F%BE%E7%99%BC%E7%87%92%E5%8F%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93",
     "timestamp": "2026-10-08T11:57:40.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流感｜九龍醫院康復科男病房爆甲流　8病人出現發燒及呼吸道感染",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2326981/org/249727652b0b5b15382037d5ccc7a781.jpg/f0vIpLw3EJgIsaW4maDjxRd6hOX8m_5M3hyWzt4cls4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397682/%E6%B5%81%E6%84%9F-%E4%B9%9D%E9%BE%8D%E9%86%AB%E9%99%A2%E5%BA%B7%E5%BE%A9%E7%A7%91%E7%94%B7%E7%97%85%E6%88%BF%E7%88%86%E7%94%B2%E6%B5%81-8%E7%97%85%E4%BA%BA%E5%87%BA%E7%8F%BE%E7%99%BC%E7%87%92%E5%8F%8A%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93",
-    "timestamp": "2026-10-08T11:46:08.292Z",
     "strategy": ".content-card__main"
   }
 ];
