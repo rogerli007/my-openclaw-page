@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T05:59:48.318Z
+// Last updated: 2026-10-08T06:36:09.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九建33清水灣示範單位曝光！大廳採奢華風、主人房宮廷設計｜多圖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184865094694080512324607.jpeg/bpv9AznVm6rXBFJP-QhLw86eMB8RxpLvf_dqx1r3asc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397516/%E4%B9%9D%E5%BB%BA33%E6%B8%85%E6%B0%B4%E7%81%A3%E7%A4%BA%E7%AF%84%E5%96%AE%E4%BD%8D%E6%9B%9D%E5%85%89-%E5%A4%A7%E5%BB%B3%E6%8E%A1%E5%A5%A2%E8%8F%AF%E9%A2%A8-%E4%B8%BB%E4%BA%BA%E6%88%BF%E5%AE%AE%E5%BB%B7%E8%A8%AD%E8%A8%88-%E5%A4%9A%E5%9C%96",
+    "timestamp": "2026-10-08T06:36:09.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美角力丨美財政部首次對美企投資中國敏感技術開罰單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397360/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E6%AD%BB%E5%9B%9A%E6%89%93%E6%AF%92%E9%87%9D%E8%85%A6%E6%AD%BB%E5%BE%8C%E5%A5%87%E8%B9%9F%E7%94%A6%E9%86%92-%E6%B3%95%E5%AE%98%E5%88%A4%E5%B7%9E%E6%94%BF%E5%BA%9C%E4%BF%9D%E7%95%99%E6%89%80%E6%9C%89%E6%AD%BB%E5%88%91%E8%AD%89%E6%93%9A",
     "timestamp": "2026-10-07T19:56:59.676Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府擬提高外國學生留美工作門檻　收取7萬美元申請費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184018986111602688235719.jpeg/WFTt6NJEfq7PJ7zhueEINLuFyeTWjrQQfkY6tH5GOrQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397363/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%93%AC%E6%8F%90%E9%AB%98%E5%A4%96%E5%9C%8B%E5%AD%B8%E7%94%9F%E7%95%99%E7%BE%8E%E5%B7%A5%E4%BD%9C%E9%96%80%E6%AA%BB-%E6%94%B6%E5%8F%967%E8%90%AC%E7%BE%8E%E5%85%83%E7%94%B3%E8%AB%8B%E8%B2%BB",
-    "timestamp": "2026-10-07T19:34:39.101Z",
     "strategy": ".content-card__main"
   }
 ];
