@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T15:48:19.336Z
+// Last updated: 2026-10-08T16:01:00.020Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重組長實安達臣道首置盤醜聞　一文看揭發缺鋼筋至3幢樓拆卸重建",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250723/1024776520335364096854672.jpeg/SP7P8mvCgEzbR83E7APCZEnLbga8bjIzjLREhLq0RIQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397713/%E9%87%8D%E7%B5%84%E9%95%B7%E5%AF%A6%E5%AE%89%E9%81%94%E8%87%A3%E9%81%93%E9%A6%96%E7%BD%AE%E7%9B%A4%E9%86%9C%E8%81%9E-%E4%B8%80%E6%96%87%E7%9C%8B%E6%8F%AD%E7%99%BC%E7%BC%BA%E9%8B%BC%E7%AD%8B%E8%87%B33%E5%B9%A2%E6%A8%93%E6%8B%86%E5%8D%B8%E9%87%8D%E5%BB%BA",
+    "timestamp": "2026-10-08T16:01:00.020Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男友買機票自己坐商務艙　獨留女友在經濟艙　網民卻一面倒挺男方",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184865094694080512324607.jpeg/bpv9AznVm6rXBFJP-QhLw86eMB8RxpLvf_dqx1r3asc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397516/%E4%B9%9D%E5%BB%BA33%E6%B8%85%E6%B0%B4%E7%81%A3%E7%A4%BA%E7%AF%84%E5%96%AE%E4%BD%8D%E6%9B%9D%E5%85%89-%E5%A4%A7%E5%BB%B3%E6%8E%A1%E5%A5%A2%E8%8F%AF%E9%A2%A8-%E4%B8%BB%E4%BA%BA%E6%88%BF%E5%AE%AE%E5%BB%B7%E8%A8%AD%E8%A8%88-%E5%A4%9A%E5%9C%96",
     "timestamp": "2026-10-08T06:36:09.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美角力丨美財政部首次對美企投資中國敏感技術開罰單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121014669922799616825961.jpeg/jfgdcvvgaKHPKSYcksPSdG3RfxEd6LWFfJ89znyfPc4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397525/%E4%B8%AD%E7%BE%8E%E8%A7%92%E5%8A%9B-%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8%E9%A6%96%E6%AC%A1%E5%B0%8D%E7%BE%8E%E4%BC%81%E6%8A%95%E8%B3%87%E4%B8%AD%E5%9C%8B%E6%95%8F%E6%84%9F%E6%8A%80%E8%A1%93%E9%96%8B%E7%BD%B0%E5%96%AE",
-    "timestamp": "2026-10-08T05:59:48.318Z",
     "strategy": ".content-card__main"
   }
 ];
