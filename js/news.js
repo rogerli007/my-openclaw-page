@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T09:52:41.003Z
+// Last updated: 2026-10-08T10:22:55.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜富泰邨女童疑被虐 父指被拍攝有情緒但強調:冇打過佢哋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184627082240462848875309.jpeg/oBZRjwEjdOwujfmlUjqTpHKLRwMg78w1RGnQN0Rp0Dc",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397330/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5%E7%96%91%E8%A2%AB%E8%99%90-%E7%88%B6%E6%8C%87%E8%A2%AB%E6%8B%8D%E6%94%9D%E6%9C%89%E6%83%85%E7%B7%92%E4%BD%86-%E5%86%87%E6%89%93%E9%81%8E%E4%BD%A2%E5%93%8B",
+    "timestamp": "2026-10-08T10:22:55.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石梨貝濾水廠盜竊銅製水泵案　警拘5人　包括回收店負責人涉接贓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184568266194948096768092.jpeg/jXf2KcubjCT9Lvl75KQwjkQhRcikZzMBLJskYiybJGI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397279/%E5%A3%BD%E6%A1%83%E7%89%8C-%E6%96%A58411%E8%90%AC-%E6%8E%83%E8%99%B9%E6%96%B98%E5%80%8B%E9%8A%80%E4%B8%BB%E8%88%96-%E8%B3%A3200%E8%90%AC%E7%BD%90%E9%AE%91%E9%AD%9A%E9%BA%B5%E5%85%88%E5%9B%9E%E6%9C%AC",
     "timestamp": "2026-10-07T23:46:56.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿飛正傳｜票房神話原定有份參演　電影公司嫌27萬片酬太貴終告吹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184564036793012224378024.jpeg/HLidL7DbGIm0JtJMiEfRPhMTkkVnWOy2VrXl8Va15fE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60397243/%E9%98%BF%E9%A3%9B%E6%AD%A3%E5%82%B3-%E5%91%A8%E6%98%9F%E9%A6%B3%E5%8E%9F%E5%AE%9A%E6%9C%89%E4%BB%BD%E5%8F%83%E6%BC%94-%E9%9B%BB%E5%BD%B1%E5%85%AC%E5%8F%B8%E5%AB%8C27%E8%90%AC%E7%89%87%E9%85%AC%E5%A4%AA%E8%B2%B4%E7%B5%82%E5%91%8A%E5%90%B9",
-    "timestamp": "2026-10-07T23:01:18.593Z",
     "strategy": ".content-card__main"
   }
 ];
