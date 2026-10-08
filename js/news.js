@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T11:57:40.306Z
+// Last updated: 2026-10-08T12:31:41.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安畔錫遺作《戀愛博士》Disney+獲好評！秋英宇截肢虐戀金所泫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184915487620861952487561.png/_Hdvv7tf-efDsvqeDfzuwtcl1JqzUV_fpKzYo6Ss2KM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60397602/%E5%AE%89%E7%95%94%E9%8C%AB%E9%81%BA%E4%BD%9C-%E6%88%80%E6%84%9B%E5%8D%9A%E5%A3%AB-disney-%E7%8D%B2%E5%A5%BD%E8%A9%95-%E7%A7%8B%E8%8B%B1%E5%AE%87%E6%88%AA%E8%82%A2%E8%99%90%E6%88%80%E9%87%91%E6%89%80%E6%B3%AB",
+    "timestamp": "2026-10-08T12:31:41.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "流感｜九龍醫院康復科男病房爆甲流　8病人出現發燒及呼吸道感染",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170769587004772352879016.png/F6gLtkWPd9YeCz_O3-ep-RO5s0DdulhEw6_3I8Ov9yM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60385031/%E9%9F%93%E5%9C%8B%E7%88%86%E7%B4%85-mz%E9%A3%B2%E9%A3%9F%E6%B8%9B%E8%82%A5%E6%B3%95-5%E6%8A%80%E5%B7%A7%E5%90%83%E5%87%BA%E5%81%A5%E5%BA%B7%E7%98%A6-%E9%87%9D%E5%B0%8D%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%86%AC%E5%A4%9C%E6%97%8F",
     "timestamp": "2026-10-08T03:41:31.858Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙遭迫遷八旬老婦逝世　馬德里萬人上街悼念",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181522729824686080372491.png/uA0FMXxdAqK4fCSrn6dINKcK2z6LFRhgVVns-1VZ7Ps?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397396/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%81%AD%E8%BF%AB%E9%81%B7%E5%85%AB%E6%97%AC%E8%80%81%E5%A9%A6%E9%80%9D%E4%B8%96-%E9%A6%AC%E5%BE%B7%E9%87%8C%E8%90%AC%E4%BA%BA%E4%B8%8A%E8%A1%97%E6%82%BC%E5%BF%B5",
-    "timestamp": "2026-10-08T02:47:16.174Z",
     "strategy": ".content-card__main"
   }
 ];
