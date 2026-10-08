@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T07:44:46.112Z
+// Last updated: 2026-10-08T08:36:20.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國防部令中央司令部備戰　特朗普權衡何時打擊伊朗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397600/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E4%BB%A4%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%82%99%E6%88%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%8A%E8%A1%A1%E4%BD%95%E6%99%82%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97",
+    "timestamp": "2026-10-08T08:36:20.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國邁阿密機場揭發內褲走私10隻活雀案　一名古巴裔男子被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184731579751075840736984.jpeg/dKKeaxiOrV14Jvh0_8YTET_bJdfvxfi5-UfqPPlH6jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397367/%E9%9F%93%E7%94%B7%E8%B6%B3%E4%BA%9E%E9%81%8B%E5%A5%AA%E9%87%91%E5%BE%8C%E7%82%AB%E8%80%80%E5%85%8D%E5%85%B5%E5%BD%B9%E6%9B%B4%E9%87%8D%E8%A6%81%E9%81%AD%E7%82%8E%E4%B8%8A-%E6%94%BF%E5%BA%9C%E8%80%83%E6%85%AE%E5%8F%96%E6%B6%88%E5%85%8D%E5%BD%B9%E7%89%B9%E4%BE%8B",
     "timestamp": "2026-10-07T21:56:03.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國學生示威持續6629人被捕　總理承認訴求合理警方將停用閃光彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184715080390938624831294.jpeg/lJtE-crKFPOKB4nQ8Wbh_Lc5CIDG9hORRvjkCkb45Ao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397365/%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E7%A4%BA%E5%A8%81%E6%8C%81%E7%BA%8C6629%E4%BA%BA%E8%A2%AB%E6%8D%95-%E7%B8%BD%E7%90%86%E6%89%BF%E8%AA%8D%E8%A8%B4%E6%B1%82%E5%90%88%E7%90%86%E8%AD%A6%E6%96%B9%E5%B0%87%E5%81%9C%E7%94%A8%E9%96%83%E5%85%89%E5%BD%88",
-    "timestamp": "2026-10-07T21:19:45.375Z",
     "strategy": ".content-card__main"
   }
 ];
