@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T16:25:47.528Z
+// Last updated: 2026-10-08T16:50:12.151Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國慶黃金周｜七日錄160萬人次訪港　其中141萬人次為內地客超預期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183493712555020288386174.jpeg/PXXCS3gEtXxKoBSePszq-WRlMWXWBxXIMpTygBeU8oA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397727/%E5%9C%8B%E6%85%B6%E9%BB%83%E9%87%91%E5%91%A8-%E4%B8%83%E6%97%A5%E9%8C%84160%E8%90%AC%E4%BA%BA%E6%AC%A1%E8%A8%AA%E6%B8%AF-%E5%85%B6%E4%B8%AD141%E8%90%AC%E4%BA%BA%E6%AC%A1%E7%82%BA%E5%85%A7%E5%9C%B0%E5%AE%A2%E8%B6%85%E9%A0%90%E6%9C%9F",
+    "timestamp": "2026-10-08T16:50:12.151Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵芳地底鹹水管爆裂　電單車「骨位」湧出黃泥水　多輛鐵騎水浸轆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184888474860261376967234.png/ShVtBb_79hqlFh6LfGm8FLSpaS2iw7j7-jQ4uPo0OLg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397573/%E7%BE%8E%E5%9C%8B%E9%82%81%E9%98%BF%E5%AF%86%E6%A9%9F%E5%A0%B4%E6%8F%AD%E7%99%BC%E5%85%A7%E8%A4%B2%E8%B5%B0%E7%A7%8110%E9%9A%BB%E6%B4%BB%E9%9B%80%E6%A1%88-%E4%B8%80%E5%90%8D%E5%8F%A4%E5%B7%B4%E8%A3%94%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-08T07:44:46.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳東北燒烤排隊王！必試招牌烤雞架焦香酥脆　酸菜餃子鮮香酸爽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184823148143448064649730.jpeg/0MmseVt36uM6TVJfXlGprZmaDy_26GrqXDHgS1wx4Es?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60356878/%E6%B7%B1%E5%9C%B3%E6%9D%B1%E5%8C%97%E7%87%92%E7%83%A4%E6%8E%92%E9%9A%8A%E7%8E%8B-%E5%BF%85%E8%A9%A6%E6%8B%9B%E7%89%8C%E7%83%A4%E9%9B%9E%E6%9E%B6%E7%84%A6%E9%A6%99%E9%85%A5%E8%84%86-%E9%85%B8%E8%8F%9C%E9%A4%83%E5%AD%90%E9%AE%AE%E9%A6%99%E9%85%B8%E7%88%BD",
-    "timestamp": "2026-10-08T07:11:42.970Z",
     "strategy": ".content-card__main"
   }
 ];
