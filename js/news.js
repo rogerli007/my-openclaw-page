@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T05:48:26.347Z
+// Last updated: 2026-10-08T05:59:48.318Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美角力丨美財政部首次對美企投資中國敏感技術開罰單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121014669922799616825961.jpeg/jfgdcvvgaKHPKSYcksPSdG3RfxEd6LWFfJ89znyfPc4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397525/%E4%B8%AD%E7%BE%8E%E8%A7%92%E5%8A%9B-%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8%E9%A6%96%E6%AC%A1%E5%B0%8D%E7%BE%8E%E4%BC%81%E6%8A%95%E8%B3%87%E4%B8%AD%E5%9C%8B%E6%95%8F%E6%84%9F%E6%8A%80%E8%A1%93%E9%96%8B%E7%BD%B0%E5%96%AE",
+    "timestamp": "2026-10-08T05:59:48.318Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地用戶受限！　多間在港中資券商開槍　內地IP或將禁買、禁開倉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184018986111602688235719.jpeg/WFTt6NJEfq7PJ7zhueEINLuFyeTWjrQQfkY6tH5GOrQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397363/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%93%AC%E6%8F%90%E9%AB%98%E5%A4%96%E5%9C%8B%E5%AD%B8%E7%94%9F%E7%95%99%E7%BE%8E%E5%B7%A5%E4%BD%9C%E9%96%80%E6%AA%BB-%E6%94%B6%E5%8F%967%E8%90%AC%E7%BE%8E%E5%85%83%E7%94%B3%E8%AB%8B%E8%B2%BB",
     "timestamp": "2026-10-07T19:34:39.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西九龍走廊私家車撞壆四輪朝天　司機一度被困自行爬出拒送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184684845326929920164750.jpeg/k3ml5QY34U6GdNI87l6OFcGKSu-9BvfEtYXFDrWFxQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397359/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E8%B5%B0%E5%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E8%87%AA%E8%A1%8C%E7%88%AC%E5%87%BA%E6%8B%92%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-07T19:19:57.389Z",
     "strategy": ".content-card__main"
   }
 ];
