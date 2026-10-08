@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T22:46:11.137Z
+// Last updated: 2026-10-08T23:00:31.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "娛樂公司創辦人生日獲藝人慶生兼大讚　曾與梅艷芳去到談婚論嫁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184971506220797952408679.jpeg/XkrrUkGbLVsbeTtU2NMp95j2mWR-jHAZHN1vYhzdb2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397632/%E5%A8%9B%E6%A8%82%E5%85%AC%E5%8F%B8%E5%89%B5%E8%BE%A6%E4%BA%BA%E7%94%9F%E6%97%A5%E7%8D%B2%E8%97%9D%E4%BA%BA%E6%85%B6%E7%94%9F%E5%85%BC%E5%A4%A7%E8%AE%9A-%E6%9B%BE%E8%88%87%E6%A2%85%E8%89%B7%E8%8A%B3%E5%8E%BB%E5%88%B0%E8%AB%87%E5%A9%9A%E8%AB%96%E5%AB%81",
+    "timestamp": "2026-10-08T23:00:31.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "娛樂公司創辦人生日獲藝人慶生兼大讚　曾與梅艷芳去到談婚論嫁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184990273906675712460918.png/CXoDu7etB9_LMUAMXNwZyGH3liCXEg_NbRjBdG0YwXQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60397711/%E6%B9%96%E5%8D%97%E5%B8%B8%E5%BE%B7%E7%85%99%E8%8A%B1%E5%BB%A0%E5%8E%BB%E5%B9%B4%E7%88%86%E7%82%B8%E9%87%809%E6%AD%BB26%E5%82%B7-%E5%AE%98%E6%96%B9%E5%85%AC%E5%B8%83%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B2%AC",
     "timestamp": "2026-10-08T14:26:56.897Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「安娜貝爾」現身白宮？Michael Dell的夫人遭網民諷整容過度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184977988882534400951480.jpeg/Xlk4vxqlJIwYqIsNEGsK1Kp_tQ9MNnlVdOkLrXTpC60?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397653/%E5%AE%89%E5%A8%9C%E8%B2%9D%E7%88%BE-%E7%8F%BE%E8%BA%AB%E7%99%BD%E5%AE%AE-michael-dell%E7%9A%84%E5%A4%AB%E4%BA%BA%E9%81%AD%E7%B6%B2%E6%B0%91%E8%AB%B7%E6%95%B4%E5%AE%B9%E9%81%8E%E5%BA%A6",
-    "timestamp": "2026-10-08T14:00:55.218Z",
     "strategy": ".content-card__main"
   }
 ];
