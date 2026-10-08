@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T04:30:20.000Z
+// Last updated: 2026-10-08T04:54:21.003Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧紫棋傳秘婚Mark魏俊傑　男方黑歷史被挖　曾涉襲擊路人頭部坐監",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184831827043422208974583.png/TNpC9g7PtVkVL9fR6zMB3LblXs6BXIt_ErG1yxKxtcs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397442/%E9%84%A7%E7%B4%AB%E6%A3%8B%E5%82%B3%E7%A7%98%E5%A9%9Amark%E9%AD%8F%E4%BF%8A%E5%82%91-%E7%94%B7%E6%96%B9%E9%BB%91%E6%AD%B7%E5%8F%B2%E8%A2%AB%E6%8C%96-%E6%9B%BE%E6%B6%89%E8%A5%B2%E6%93%8A%E8%B7%AF%E4%BA%BA%E9%A0%AD%E9%83%A8%E5%9D%90%E7%9B%A3",
+    "timestamp": "2026-10-08T04:54:21.003Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BTS柾國空降東京銀座！Jung Kook親訪Hublot專門店萬人空巷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184684845326929920164750.jpeg/k3ml5QY34U6GdNI87l6OFcGKSu-9BvfEtYXFDrWFxQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397359/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E8%B5%B0%E5%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E8%87%AA%E8%A1%8C%E7%88%AC%E5%87%BA%E6%8B%92%E9%80%81%E9%99%A2",
     "timestamp": "2026-10-07T18:25:53.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "資助換電動的士｜僅4成車主參加　謝展寰：經濟轉變令換車更審慎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260615/1143172971368550400301768.jpeg/Et8qAjOzA-HLU56jjcdPfPPKPr__KirVRchQ_0XIUP8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397352/%E8%B3%87%E5%8A%A9%E6%8F%9B%E9%9B%BB%E5%8B%95%E7%9A%84%E5%A3%AB-%E5%83%854%E6%88%90%E8%BB%8A%E4%B8%BB%E5%8F%83%E5%8A%A0-%E8%AC%9D%E5%B1%95%E5%AF%B0-%E7%B6%93%E6%BF%9F%E8%BD%89%E8%AE%8A%E4%BB%A4%E6%8F%9B%E8%BB%8A%E6%9B%B4%E5%AF%A9%E6%85%8E",
-    "timestamp": "2026-10-07T17:35:59.191Z",
     "strategy": ".content-card__main"
   }
 ];
