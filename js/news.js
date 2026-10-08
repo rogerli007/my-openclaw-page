@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T21:03:56.734Z
+// Last updated: 2026-10-08T21:25:26.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普頒發國家科學獎　馬斯克黃仁勳等4位科企高層獲獎｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185080329963048960405178.jpeg/p6aO7sego9XaVGrsYulQB2aqz6NvIspjuIr2BLiK9gQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397739/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%92%E7%99%BC%E5%9C%8B%E5%AE%B6%E7%A7%91%E5%AD%B8%E7%8D%8E-%E9%A6%AC%E6%96%AF%E5%85%8B%E9%BB%83%E4%BB%81%E5%8B%B3%E7%AD%894%E4%BD%8D%E7%A7%91%E4%BC%81%E9%AB%98%E5%B1%A4%E7%8D%B2%E7%8D%8E-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-08T21:25:26.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普頒發國家科學獎　馬斯克黃仁勳等4位科企高層獲獎｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184972500082102272974038.jpeg/q1I5ILWXP0bE67gnwIxXr7SlkB3MAKdVjZo9hY2aPYU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397681/%E5%A5%B3%E8%AD%A6%E8%AA%95%E5%AC%B0%E5%87%BA%E8%A1%80%E4%BA%A1-%E9%86%AB%E5%A7%94%E6%9C%83%E9%9A%949%E5%B9%B4%E7%A8%B1%E8%AD%89%E6%93%9A%E4%B8%8D%E8%B6%B3%E7%B5%90%E6%9D%9F%E6%8A%95%E8%A8%B4-%E5%AE%B6%E5%B1%AC%E4%BF%83%E9%87%8D%E5%AF%A9",
     "timestamp": "2026-10-08T13:26:04.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國央行發文駁斥人民幣匯率被低估說法　強調堅持市場化改革",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211026/529712496458600448492601.jpeg/tNJWIRPIRyu6PVoCZlXjoYx5c_TOjhuOxzpTLcc6Uy0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60397696/%E4%B8%AD%E5%9C%8B%E5%A4%AE%E8%A1%8C%E7%99%BC%E6%96%87%E9%A7%81%E6%96%A5%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%8C%AF%E7%8E%87%E8%A2%AB%E4%BD%8E%E4%BC%B0%E8%AA%AA%E6%B3%95-%E5%BC%B7%E8%AA%BF%E5%A0%85%E6%8C%81%E5%B8%82%E5%A0%B4%E5%8C%96%E6%94%B9%E9%9D%A9",
-    "timestamp": "2026-10-08T12:58:45.602Z",
     "strategy": ".content-card__main"
   }
 ];
