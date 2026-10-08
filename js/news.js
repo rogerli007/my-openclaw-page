@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T04:54:21.003Z
+// Last updated: 2026-10-08T05:23:02.201Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鼠疫俄羅斯│鼠疫3種肺鼠疫最嚴重/死亡率/預防方法　18區鼠患地區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173994889713553408452701.jpeg/FiYC81V71N3gNR-KwDtYAWaWu-yWon-8PcAZbj3AGW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60397475/%E9%BC%A0%E7%96%AB%E4%BF%84%E7%BE%85%E6%96%AF-%E9%BC%A0%E7%96%AB3%E7%A8%AE%E8%82%BA%E9%BC%A0%E7%96%AB%E6%9C%80%E5%9A%B4%E9%87%8D-%E6%AD%BB%E4%BA%A1%E7%8E%87-%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95-18%E5%8D%80%E9%BC%A0%E6%82%A3%E5%9C%B0%E5%8D%80",
+    "timestamp": "2026-10-08T05:23:02.201Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧紫棋傳秘婚Mark魏俊傑　男方黑歷史被挖　曾涉襲擊路人頭部坐監",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184684845326929920164750.jpeg/k3ml5QY34U6GdNI87l6OFcGKSu-9BvfEtYXFDrWFxQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397359/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E8%B5%B0%E5%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E8%87%AA%E8%A1%8C%E7%88%AC%E5%87%BA%E6%8B%92%E9%80%81%E9%99%A2",
     "timestamp": "2026-10-07T18:52:11.244Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西九龍走廊私家車撞壆四輪朝天　司機一度被困自行爬出拒送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184684845326929920164750.jpeg/k3ml5QY34U6GdNI87l6OFcGKSu-9BvfEtYXFDrWFxQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397359/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E8%B5%B0%E5%BB%8A%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E8%87%AA%E8%A1%8C%E7%88%AC%E5%87%BA%E6%8B%92%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-07T18:25:53.398Z",
     "strategy": ".content-card__main"
   }
 ];
