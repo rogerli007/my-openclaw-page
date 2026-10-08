@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T09:03:54.135Z
+// Last updated: 2026-10-08T09:31:04.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八旬翁圖以一萬元行賄區議員李家軒　逼教會牧師會面　遭廉署起訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184911599945650176721598.jpeg/kyaooHPcIo1f3DpECEqxcdEfmcKR5YdwpbCmCqWwpgo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397615/%E5%85%AB%E6%97%AC%E7%BF%81%E5%9C%96%E4%BB%A5%E4%B8%80%E8%90%AC%E5%85%83%E8%A1%8C%E8%B3%84%E5%8D%80%E8%AD%B0%E5%93%A1%E6%9D%8E%E5%AE%B6%E8%BB%92-%E9%80%BC%E6%95%99%E6%9C%83%E7%89%A7%E5%B8%AB%E6%9C%83%E9%9D%A2-%E9%81%AD%E5%BB%89%E7%BD%B2%E8%B5%B7%E8%A8%B4",
+    "timestamp": "2026-10-08T09:31:04.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗壞𨋢、豪宅少鋼筋　陳婉嫻：建築聲譽非口號　驗收不嚴剩空殼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184745421746999296385709.jpeg/XEuFnwrlGOouXmWWlKAoikV97tfdlbKd1tLY_NbS2Pw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397357/%E5%AF%92%E9%9C%B2%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
     "timestamp": "2026-10-07T22:34:53.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒露天氣｜今日初時有一兩陣微雨　早上稍涼　日間大致天晴乾燥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184745421746999296385709.jpeg/XEuFnwrlGOouXmWWlKAoikV97tfdlbKd1tLY_NbS2Pw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397357/%E5%AF%92%E9%9C%B2%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A9%E4%B8%8A%E7%A8%8D%E6%B6%BC-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
-    "timestamp": "2026-10-07T22:22:30.130Z",
     "strategy": ".content-card__main"
   }
 ];
