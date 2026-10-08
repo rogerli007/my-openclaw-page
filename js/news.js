@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T13:26:04.054Z
+// Last updated: 2026-10-08T13:51:07.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國「華人熱門豪宅區」再爆槍擊案　丈夫疑射傷妻子逃至機場被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184886759163432960926738.jpeg/2TBQTvwaf819mIh48lWNFDng9pjIlMKrEsJNZBLCTWQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397529/%E7%BE%8E%E5%9C%8B-%E8%8F%AF%E4%BA%BA%E7%86%B1%E9%96%80%E8%B1%AA%E5%AE%85%E5%8D%80-%E5%86%8D%E7%88%86%E6%A7%8D%E6%93%8A%E6%A1%88-%E4%B8%88%E5%A4%AB%E7%96%91%E5%B0%84%E5%82%B7%E5%A6%BB%E5%AD%90%E9%80%83%E8%87%B3%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-08T13:51:07.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女警誕嬰出血亡　醫委會隔9年稱證據不足結束投訴　家屬促重審",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184831827043422208974583.png/TNpC9g7PtVkVL9fR6zMB3LblXs6BXIt_ErG1yxKxtcs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397442/%E9%84%A7%E7%B4%AB%E6%A3%8B%E5%82%B3%E7%A7%98%E5%A9%9Amark%E9%AD%8F%E4%BF%8A%E5%82%91-%E7%94%B7%E6%96%B9%E9%BB%91%E6%AD%B7%E5%8F%B2%E8%A2%AB%E6%8C%96-%E6%9B%BE%E6%B6%89%E8%A5%B2%E6%93%8A%E8%B7%AF%E4%BA%BA%E9%A0%AD%E9%83%A8%E5%9D%90%E7%9B%A3",
     "timestamp": "2026-10-08T04:54:21.003Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BTS柾國空降東京銀座！Jung Kook親訪Hublot專門店萬人空巷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184840262199808000850314.jpeg/ew8LYn6Ou7-mejTYEIiCa3NXUMKzQmiir-zY1a_s2NU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60397485/bts%E6%9F%BE%E5%9C%8B%E7%A9%BA%E9%99%8D%E6%9D%B1%E4%BA%AC%E9%8A%80%E5%BA%A7-jung-kook%E8%A6%AA%E8%A8%AAhublot%E5%B0%88%E9%96%80%E5%BA%97%E8%90%AC%E4%BA%BA%E7%A9%BA%E5%B7%B7",
-    "timestamp": "2026-10-08T04:30:20.000Z",
     "strategy": ".content-card__main"
   }
 ];
