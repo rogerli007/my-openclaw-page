@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T19:19:22.533Z
+// Last updated: 2026-10-08T19:36:17.290Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗的士撞傷男子　傷者昏迷送院搶救　司機涉危駕引致重傷被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185058075149602816493587.jpeg/1ziCFrrnLvlCoqHkGWrVM3k7qHI0dFBl_tovGMTaLxg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397732/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%9A%84%E5%A3%AB%E6%92%9E%E5%82%B7%E7%94%B7%E5%AD%90-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%BC%95%E8%87%B4%E9%87%8D%E5%82%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-08T19:36:17.290Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗的士撞傷男子　傷者昏迷送院搶救　司機涉危駕引致重傷被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184877282716553216675430.jpeg/Tflh_v0TcpNXyKl-hEY-NKBodz9P0E0bevbT1V_209U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397645/%E5%A4%A7%E7%B6%AD%E4%BF%AE-%E6%88%BF%E5%B1%8B%E7%B6%93%E7%90%86%E5%AD%B8%E6%9C%83-%E9%99%90%E6%8C%81%E6%9C%89%E9%87%8F%E7%84%A1%E6%B3%95%E9%98%BB%E5%81%87%E6%8E%88%E6%AC%8A-%E5%80%A1%E7%94%A8%E6%99%BA%E6%96%B9%E4%BE%BF%E8%AA%8D%E8%BA%AB%E4%BB%BD",
     "timestamp": "2026-10-08T11:20:29.234Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秀茂坪順天邨57歲男客廳暈倒　家人揭發惜當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/3004964/org/1adc0a689aec7feec321f52b2d67f6ea.jpg/3Ji4jvird-P4PTZozsD_eCF6fbbS76yAtIqrjbSKq40?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397668/%E7%A7%80%E8%8C%82%E5%9D%AA%E9%A0%86%E5%A4%A9%E9%82%A857%E6%AD%B2%E7%94%B7%E5%AE%A2%E5%BB%B3%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E6%8F%AD%E7%99%BC%E6%83%9C%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-08T10:59:30.658Z",
     "strategy": ".content-card__main"
   }
 ];
