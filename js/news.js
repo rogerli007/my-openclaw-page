@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T01:40:52.216Z
+// Last updated: 2026-10-08T02:10:16.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟據報擬限華混能車進口　內地官媒：中國有工具應對歧視性措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887734315692068864365890.jpeg/ozPeqhfMRg4ZjWucEHxtZCX8K__WYy8abFOk_mxTpP4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397393/%E6%AD%90%E7%9B%9F%E6%93%9A%E5%A0%B1%E6%93%AC%E9%99%90%E8%8F%AF%E6%B7%B7%E8%83%BD%E8%BB%8A%E9%80%B2%E5%8F%A3-%E5%85%A7%E5%9C%B0%E5%AE%98%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%89%E5%B7%A5%E5%85%B7%E6%87%89%E5%B0%8D%E6%AD%A7%E8%A6%96%E6%80%A7%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-10-08T02:10:16.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慈禧一生最看重什麼？掌權半世紀　臨終遺言暴露她心中的最大恐懼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184648892126334976057216.jpeg/Gf1UR7iZC_z9yU1wNhzjpQEfxonIi7694myMNOJsjDQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397346/%E6%B3%95%E5%9C%8B%E4%B8%80%E6%89%B9%E9%A0%90%E5%85%88%E5%8C%85%E8%A3%9D%E8%8A%9D%E5%A3%AB%E5%9B%9E%E6%94%B6-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83-%E6%88%96%E5%8F%97%E5%BF%97%E8%B3%80%E6%AF%92%E7%B4%A0%E5%A4%A7%E8%85%B8%E6%A1%BF%E8%8F%8C%E6%B1%A1%E6%9F%93",
     "timestamp": "2026-10-07T15:58:03.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "42歲申敏兒現身巴黎時裝騷獲讚食防腐劑　同框小16歲Felix零違和",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184551051416571904726954.jpeg/J_hJaWwWlPDL3ZypbCy2oAKb-TiAqahj1F_GGtRfxho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397226/42%E6%AD%B2%E7%94%B3%E6%95%8F%E5%85%92%E7%8F%BE%E8%BA%AB%E5%B7%B4%E9%BB%8E%E6%99%82%E8%A3%9D%E9%A8%B7%E7%8D%B2%E8%AE%9A%E9%A3%9F%E9%98%B2%E8%85%90%E5%8A%91-%E5%90%8C%E6%A1%86%E5%B0%8F16%E6%AD%B2felix%E9%9B%B6%E9%81%95%E5%92%8C",
-    "timestamp": "2026-10-07T15:30:51.365Z",
     "strategy": ".content-card__main"
   }
 ];
