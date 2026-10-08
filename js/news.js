@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T14:00:55.218Z
+// Last updated: 2026-10-08T14:26:56.897Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湖南常德煙花廠去年爆炸釀9死26傷　官方公布調查報告多人被追責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184990273906675712460918.png/CXoDu7etB9_LMUAMXNwZyGH3liCXEg_NbRjBdG0YwXQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60397711/%E6%B9%96%E5%8D%97%E5%B8%B8%E5%BE%B7%E7%85%99%E8%8A%B1%E5%BB%A0%E5%8E%BB%E5%B9%B4%E7%88%86%E7%82%B8%E9%87%809%E6%AD%BB26%E5%82%B7-%E5%AE%98%E6%96%B9%E5%85%AC%E5%B8%83%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B2%AC",
+    "timestamp": "2026-10-08T14:26:56.897Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「安娜貝爾」現身白宮？Michael Dell的夫人遭網民諷整容過度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/442538/org/302b30db897b3f84200681a1fa89ac74.JPG/OETUI1CoxGgZwqn3jjTnYPk44ISAwcAI8Pdk1PD3ZNQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60397494/%E5%85%A7%E5%9C%B0%E7%94%A8%E6%88%B6%E5%8F%97%E9%99%90-%E5%A4%9A%E9%96%93%E5%9C%A8%E6%B8%AF%E4%B8%AD%E8%B3%87%E5%88%B8%E5%95%86%E9%96%8B%E6%A7%8D-%E5%85%A7%E5%9C%B0ip%E6%88%96%E5%B0%87%E7%A6%81%E8%B2%B7-%E7%A6%81%E9%96%8B%E5%80%89",
     "timestamp": "2026-10-08T05:48:26.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鼠疫俄羅斯│鼠疫3種肺鼠疫最嚴重/死亡率/預防方法　18區鼠患地區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1173994889713553408452701.jpeg/FiYC81V71N3gNR-KwDtYAWaWu-yWon-8PcAZbj3AGW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60397475/%E9%BC%A0%E7%96%AB%E4%BF%84%E7%BE%85%E6%96%AF-%E9%BC%A0%E7%96%AB3%E7%A8%AE%E8%82%BA%E9%BC%A0%E7%96%AB%E6%9C%80%E5%9A%B4%E9%87%8D-%E6%AD%BB%E4%BA%A1%E7%8E%87-%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95-18%E5%8D%80%E9%BC%A0%E6%82%A3%E5%9C%B0%E5%8D%80",
-    "timestamp": "2026-10-08T05:23:02.201Z",
     "strategy": ".content-card__main"
   }
 ];
