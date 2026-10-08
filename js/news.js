@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T02:47:16.174Z
+// Last updated: 2026-10-08T03:41:31.858Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國爆紅「MZ飲食減肥法」　5技巧吃出健康瘦　針對上班族熬夜族",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170769587004772352879016.png/F6gLtkWPd9YeCz_O3-ep-RO5s0DdulhEw6_3I8Ov9yM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60385031/%E9%9F%93%E5%9C%8B%E7%88%86%E7%B4%85-mz%E9%A3%B2%E9%A3%9F%E6%B8%9B%E8%82%A5%E6%B3%95-5%E6%8A%80%E5%B7%A7%E5%90%83%E5%87%BA%E5%81%A5%E5%BA%B7%E7%98%A6-%E9%87%9D%E5%B0%8D%E4%B8%8A%E7%8F%AD%E6%97%8F%E7%86%AC%E5%A4%9C%E6%97%8F",
+    "timestamp": "2026-10-08T03:41:31.858Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙遭迫遷八旬老婦逝世　馬德里萬人上街悼念",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1182930534616010752753940.jpeg/yygbdhOd1tV3-HnTFGziPR6qssmg9Faj1qatUdamrVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397350/%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E5%B0%8D%E4%BA%8B%E6%95%85%E5%B1%95%E9%96%8B%E8%88%AA%E7%A9%BA%E5%AE%89%E5%85%A8%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-10-07T16:49:26.391Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Nothing Headphone (1) Pro深度評測｜透明降噪耳機演繹極致音色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184575703429943296074286.jpeg/F-4WRfJs-VdGXeXRNWG6dMId8-yLNzAlXEqVoVxKlaE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60397208/nothing-headphone-1-pro%E6%B7%B1%E5%BA%A6%E8%A9%95%E6%B8%AC-%E9%80%8F%E6%98%8E%E9%99%8D%E5%99%AA%E8%80%B3%E6%A9%9F%E6%BC%94%E7%B9%B9%E6%A5%B5%E8%87%B4%E9%9F%B3%E8%89%B2",
-    "timestamp": "2026-10-07T16:23:35.695Z",
     "strategy": ".content-card__main"
   }
 ];
