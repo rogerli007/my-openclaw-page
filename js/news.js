@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T16:50:12.151Z
+// Last updated: 2026-10-08T17:20:10.253Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫生，你有病？｜黃霑肺癌主刀醫生嚴秉泉患柏金遜封刀　轉戰畫壇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185032860382269440368270.jpeg/zNmiX1A4Zl1T82bfLrjDQp6yO8JoKThrDCTgAQwk4AE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397731/%E9%86%AB%E7%94%9F-%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E9%9C%91%E8%82%BA%E7%99%8C%E4%B8%BB%E5%88%80%E9%86%AB%E7%94%9F%E5%9A%B4%E7%A7%89%E6%B3%89%E6%82%A3%E6%9F%8F%E9%87%91%E9%81%9C%E5%B0%81%E5%88%80-%E8%BD%89%E6%88%B0%E7%95%AB%E5%A3%87",
+    "timestamp": "2026-10-08T17:20:10.253Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國慶黃金周｜七日錄160萬人次訪港　其中141萬人次為內地客超預期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397600/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E4%BB%A4%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%82%99%E6%88%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%8A%E8%A1%A1%E4%BD%95%E6%99%82%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97",
     "timestamp": "2026-10-08T08:36:20.863Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國邁阿密機場揭發內褲走私10隻活雀案　一名古巴裔男子被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184888474860261376967234.png/ShVtBb_79hqlFh6LfGm8FLSpaS2iw7j7-jQ4uPo0OLg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397573/%E7%BE%8E%E5%9C%8B%E9%82%81%E9%98%BF%E5%AF%86%E6%A9%9F%E5%A0%B4%E6%8F%AD%E7%99%BC%E5%85%A7%E8%A4%B2%E8%B5%B0%E7%A7%8110%E9%9A%BB%E6%B4%BB%E9%9B%80%E6%A1%88-%E4%B8%80%E5%90%8D%E5%8F%A4%E5%B7%B4%E8%A3%94%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-08T07:44:46.112Z",
     "strategy": ".content-card__main"
   }
 ];
