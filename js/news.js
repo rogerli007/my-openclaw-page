@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T10:22:55.148Z
+// Last updated: 2026-10-08T10:59:30.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秀茂坪順天邨57歲男客廳暈倒　家人揭發惜當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3004964/org/1adc0a689aec7feec321f52b2d67f6ea.jpg/3Ji4jvird-P4PTZozsD_eCF6fbbS76yAtIqrjbSKq40?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397668/%E7%A7%80%E8%8C%82%E5%9D%AA%E9%A0%86%E5%A4%A9%E9%82%A857%E6%AD%B2%E7%94%B7%E5%AE%A2%E5%BB%B3%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E6%8F%AD%E7%99%BC%E6%83%9C%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-10-08T10:59:30.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜富泰邨女童疑被虐 父指被拍攝有情緒但強調:冇打過佢哋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184568266194948096768092.jpeg/jXf2KcubjCT9Lvl75KQwjkQhRcikZzMBLJskYiybJGI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397279/%E5%A3%BD%E6%A1%83%E7%89%8C-%E6%96%A58411%E8%90%AC-%E6%8E%83%E8%99%B9%E6%96%B98%E5%80%8B%E9%8A%80%E4%B8%BB%E8%88%96-%E8%B3%A3200%E8%90%AC%E7%BD%90%E9%AE%91%E9%AD%9A%E9%BA%B5%E5%85%88%E5%9B%9E%E6%9C%AC",
     "timestamp": "2026-10-07T23:56:37.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「壽桃牌」斥8411萬　掃虹方8個銀主舖　賣200萬罐鮑魚麵先回本！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184568266194948096768092.jpeg/jXf2KcubjCT9Lvl75KQwjkQhRcikZzMBLJskYiybJGI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397279/%E5%A3%BD%E6%A1%83%E7%89%8C-%E6%96%A58411%E8%90%AC-%E6%8E%83%E8%99%B9%E6%96%B98%E5%80%8B%E9%8A%80%E4%B8%BB%E8%88%96-%E8%B3%A3200%E8%90%AC%E7%BD%90%E9%AE%91%E9%AD%9A%E9%BA%B5%E5%85%88%E5%9B%9E%E6%9C%AC",
-    "timestamp": "2026-10-07T23:46:56.520Z",
     "strategy": ".content-card__main"
   }
 ];
