@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T16:01:00.020Z
+// Last updated: 2026-10-08T16:25:47.528Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵芳地底鹹水管爆裂　電單車「骨位」湧出黃泥水　多輛鐵騎水浸轆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1185015859668586496950634.jpeg/P6uhI7BrvnXrg1zk0gy-Lpj-kpqom_nosmZGP7JmRj8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397723/%E8%91%B5%E8%8A%B3%E5%9C%B0%E5%BA%95%E9%B9%B9%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%AA%A8%E4%BD%8D-%E6%B9%A7%E5%87%BA%E9%BB%83%E6%B3%A5%E6%B0%B4-%E5%A4%9A%E8%BC%9B%E9%90%B5%E9%A8%8E%E6%B0%B4%E6%B5%B8%E8%BD%86",
+    "timestamp": "2026-10-08T16:25:47.528Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重組長實安達臣道首置盤醜聞　一文看揭發缺鋼筋至3幢樓拆卸重建",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184823148143448064649730.jpeg/0MmseVt36uM6TVJfXlGprZmaDy_26GrqXDHgS1wx4Es?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60356878/%E6%B7%B1%E5%9C%B3%E6%9D%B1%E5%8C%97%E7%87%92%E7%83%A4%E6%8E%92%E9%9A%8A%E7%8E%8B-%E5%BF%85%E8%A9%A6%E6%8B%9B%E7%89%8C%E7%83%A4%E9%9B%9E%E6%9E%B6%E7%84%A6%E9%A6%99%E9%85%A5%E8%84%86-%E9%85%B8%E8%8F%9C%E9%A4%83%E5%AD%90%E9%AE%AE%E9%A6%99%E9%85%B8%E7%88%BD",
     "timestamp": "2026-10-08T07:11:42.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九建33清水灣示範單位曝光！大廳採奢華風、主人房宮廷設計｜多圖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184865094694080512324607.jpeg/bpv9AznVm6rXBFJP-QhLw86eMB8RxpLvf_dqx1r3asc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60397516/%E4%B9%9D%E5%BB%BA33%E6%B8%85%E6%B0%B4%E7%81%A3%E7%A4%BA%E7%AF%84%E5%96%AE%E4%BD%8D%E6%9B%9D%E5%85%89-%E5%A4%A7%E5%BB%B3%E6%8E%A1%E5%A5%A2%E8%8F%AF%E9%A2%A8-%E4%B8%BB%E4%BA%BA%E6%88%BF%E5%AE%AE%E5%BB%B7%E8%A8%AD%E8%A8%88-%E5%A4%9A%E5%9C%96",
-    "timestamp": "2026-10-08T06:36:09.927Z",
     "strategy": ".content-card__main"
   }
 ];
