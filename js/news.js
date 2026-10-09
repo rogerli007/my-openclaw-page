@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T22:20:56.781Z
+// Last updated: 2026-10-09T22:45:52.599Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普宣布任命Katie Zacharia　出任白宮發言人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185468628200329216217406.png/nfiqzmel0xQX5o7KoXGSHQ_-FrjxxU8s0oZ7O9KGezs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398113/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%BB%E5%91%BDkatie-zacharia-%E5%87%BA%E4%BB%BB%E7%99%BD%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA",
+    "timestamp": "2026-10-09T22:45:52.599Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日天晴炎熱　市區最高氣溫31度　未來數日天氣相若",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185382712253353984387046.jpeg/A_8EXFziCNhy3KAoSdlhjdnf9qqVSjghX5JvrWWSb60?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398101/%E8%97%8D%E7%94%B0%E5%B9%B3%E7%94%B0%E9%82%A8%E6%9C%8D%E5%8B%99%E8%A8%AD%E6%96%BD%E5%A4%A7%E6%A8%93-57%E6%AD%B2%E7%94%B7%E7%8C%9D%E6%AD%BB-%E8%81%B7%E5%93%A1%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-10-09T16:25:55.840Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "維園年宵2027｜一連3日公開競投結束　總收入達865萬　按年跌37萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184488344378413056290348.jpeg/k9JI3rMuPfkcAn34UYlk0i_ONWUPJ2mvboUvnEuFL5w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398099/%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B52027-%E4%B8%80%E9%80%A33%E6%97%A5%E5%85%AC%E9%96%8B%E7%AB%B6%E6%8A%95%E7%B5%90%E6%9D%9F-%E7%B8%BD%E6%94%B6%E5%85%A5%E9%81%94865%E8%90%AC-%E6%8C%89%E5%B9%B4%E8%B7%8C37%E8%90%AC",
-    "timestamp": "2026-10-09T16:00:22.237Z",
     "strategy": ".content-card__main"
   }
 ];
