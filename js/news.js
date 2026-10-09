@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T19:33:10.036Z
+// Last updated: 2026-10-09T19:46:47.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴拿馬發生7.7級地震　美國預警系統發海嘯警報",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185429030296358912072839.jpeg/nonHaoZYNn9qEfrG7YCnNGpqdQNJ43KoLYMaSS2DGkk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398106/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%BE%8E%E5%9C%8B%E9%A0%90%E8%AD%A6%E7%B3%BB%E7%B5%B1%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1",
+    "timestamp": "2026-10-09T19:46:47.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴拿馬發生7.7級地震　美國預警系統發海嘯警報",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185302682735218688057943.jpeg/tHGNpYQOo9REwSyQ2zgpP1DzwKU7BkJw4YuUceGLlHE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60398060/%E8%90%AC%E8%B1%90%E6%B5%B7%E5%B2%B8%E5%9F%8E%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82-%E6%89%8B%E6%90%96-%E9%A4%90%E5%BB%B3-%E6%89%8B%E4%BF%A1-%E6%9B%B8%E5%BA%97%E4%B8%80%E6%96%87%E7%9C%8B",
     "timestamp": "2026-10-09T11:02:47.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柏金遜症｜名醫患柏金遜靠畫畫療癒！4症狀不只手震+15秒自我檢測",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185291376305115136620415.jpeg/eB7hYnBYmnMi0bIXlVw471xozPV40A695SbqFeUm6hU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60397872/%E6%9F%8F%E9%87%91%E9%81%9C%E7%97%87-%E5%90%8D%E9%86%AB%E6%82%A3%E6%9F%8F%E9%87%91%E9%81%9C%E9%9D%A0%E7%95%AB%E7%95%AB%E7%99%82%E7%99%92-4%E7%97%87%E7%8B%80%E4%B8%8D%E5%8F%AA%E6%89%8B%E9%9C%87-15%E7%A7%92%E8%87%AA%E6%88%91%E6%AA%A2%E6%B8%AC",
-    "timestamp": "2026-10-09T10:22:38.786Z",
     "strategy": ".content-card__main"
   }
 ];
