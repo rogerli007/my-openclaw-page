@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T08:37:03.568Z
+// Last updated: 2026-10-09T09:03:23.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "漁護署元朗鹿頸行動　捕捉一無晶片唐狗　如性情溫馴會安排領養",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185255459318140928283910.jpeg/1EvYGlwWs55xSVhf3DxbrpjM5pxZ2wKw8Z7YztSe2M4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397954/%E6%BC%81%E8%AD%B7%E7%BD%B2%E5%85%83%E6%9C%97%E9%B9%BF%E9%A0%B8%E8%A1%8C%E5%8B%95-%E6%8D%95%E6%8D%89%E4%B8%80%E7%84%A1%E6%99%B6%E7%89%87%E5%94%90%E7%8B%97-%E5%A6%82%E6%80%A7%E6%83%85%E6%BA%AB%E9%A6%B4%E6%9C%83%E5%AE%89%E6%8E%92%E9%A0%98%E9%A4%8A",
+    "timestamp": "2026-10-09T09:03:23.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球｜盧善恩北極圈公開賽16強止步　港將下周出戰丹麥公開賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185080329963048960405178.jpeg/p6aO7sego9XaVGrsYulQB2aqz6NvIspjuIr2BLiK9gQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397739/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%92%E7%99%BC%E5%9C%8B%E5%AE%B6%E7%A7%91%E5%AD%B8%E7%8D%8E-%E9%A6%AC%E6%96%AF%E5%85%8B%E9%BB%83%E4%BB%81%E5%8B%B3%E7%AD%894%E4%BD%8D%E7%A7%91%E4%BC%81%E9%AB%98%E5%B1%A4%E7%8D%B2%E7%8D%8E-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-08T20:47:54.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警觀塘搗破非法釣魚機賭檔　5男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185078906298830848357261.jpeg/wKR5yis_9Z61Vi_im6HkSYvNrmXlNX4HjwEmtI8BJrQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397740/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E6%AA%94-5%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-08T20:22:29.144Z",
     "strategy": ".content-card__main"
   }
 ];
