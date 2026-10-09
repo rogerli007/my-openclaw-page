@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T18:50:29.112Z
+// Last updated: 2026-10-09T19:17:30.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普再施壓撤換聯儲局理事庫克　成立委員會調查虛假陳述指控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250826/1036943257528963072082546.jpeg/icSvcURQf_NQqsdwrMH7A9w8WCQYg7X-Uuvjl1Lr45c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398105/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%96%BD%E5%A3%93%E6%92%A4%E6%8F%9B%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B%E5%BA%AB%E5%85%8B-%E6%88%90%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%BF%E6%9F%A5%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0%E6%8C%87%E6%8E%A7",
+    "timestamp": "2026-10-09T19:17:30.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普再施壓撤換聯儲局理事庫克　成立委員會調查虛假陳述指控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185255459318140928283910.jpeg/1EvYGlwWs55xSVhf3DxbrpjM5pxZ2wKw8Z7YztSe2M4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397954/%E6%BC%81%E8%AD%B7%E7%BD%B2%E5%85%83%E6%9C%97%E9%B9%BF%E9%A0%B8%E8%A1%8C%E5%8B%95-%E6%8D%95%E6%8D%89%E4%B8%80%E7%84%A1%E6%99%B6%E7%89%87%E5%94%90%E7%8B%97-%E5%A6%82%E6%80%A7%E6%83%85%E6%BA%AB%E9%A6%B4%E6%9C%83%E5%AE%89%E6%8E%92%E9%A0%98%E9%A4%8A",
     "timestamp": "2026-10-09T09:03:23.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球｜盧善恩北極圈公開賽16強止步　港將下周出戰丹麥公開賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185263303748751360172804.jpeg/Vy8Pz9CR7-iqhiFqFWxPJ0XRsxwRazx9xQkLpcUJC6U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60397960/%E7%BE%BD%E6%AF%9B%E7%90%83-%E7%9B%A7%E5%96%84%E6%81%A9%E5%8C%97%E6%A5%B5%E5%9C%88%E5%85%AC%E9%96%8B%E8%B3%BD16%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E6%B8%AF%E5%B0%87%E4%B8%8B%E5%91%A8%E5%87%BA%E6%88%B0%E4%B8%B9%E9%BA%A5%E5%85%AC%E9%96%8B%E8%B3%BD",
-    "timestamp": "2026-10-09T08:37:03.568Z",
     "strategy": ".content-card__main"
   }
 ];
