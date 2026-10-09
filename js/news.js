@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T19:56:34.048Z
+// Last updated: 2026-10-09T20:24:48.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯公大塞車．車Cam｜首宗意外凌志被指肇禍　司機喊冤：前車急煞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185445345287475200894210.png/I4PeAsX_dbuOvGf3pbjhUt0PB3Yw8GuY0GOr9tBjq_Y",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398107/%E5%B1%AF%E5%85%AC%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8Acam-%E9%A6%96%E5%AE%97%E6%84%8F%E5%A4%96%E5%87%8C%E5%BF%97%E8%A2%AB%E6%8C%87%E8%82%87%E7%A6%8D-%E5%8F%B8%E6%A9%9F%E5%96%8A%E5%86%A4-%E5%89%8D%E8%BB%8A%E6%80%A5%E7%85%9E",
+    "timestamp": "2026-10-09T20:24:48.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴拿馬發生7.7級地震　美國預警系統發海嘯警報",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185313926896685056641825.png/Q9skSqxtYqM9gyEIR7RgNZL7OoWfbMVjj1SXto9Ul7Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398064/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E6%8E%A5%E9%80%A3%E8%BB%8A%E7%A6%8D-%E5%85%86%E5%BA%B7%E7%AB%99%E5%B0%8D%E9%96%8B4%E8%BB%8A%E4%B8%B2%E7%87%92%E9%87%805%E5%82%B7-%E5%BE%80%E5%85%83%E6%9C%97%E8%BB%8A%E9%BE%8D%E9%80%BE10%E5%85%AC%E9%87%8C",
     "timestamp": "2026-10-09T11:56:51.013Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方東昇為中大才子唔輸醫生　初戀娶師妹婆媳同住關係超融洽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185283609263607808023865.jpeg/6UCTr2ErDsDsbw0Ub6qLgc0mu5qP1fX11XvV69V71es?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398010/%E6%96%B9%E6%9D%B1%E6%98%87%E7%82%BA%E4%B8%AD%E5%A4%A7%E6%89%8D%E5%AD%90%E5%94%94%E8%BC%B8%E9%86%AB%E7%94%9F-%E5%88%9D%E6%88%80%E5%A8%B6%E5%B8%AB%E5%A6%B9%E5%A9%86%E5%AA%B3%E5%90%8C%E4%BD%8F%E9%97%9C%E4%BF%82%E8%B6%85%E8%9E%8D%E6%B4%BD",
-    "timestamp": "2026-10-09T11:44:07.374Z",
     "strategy": ".content-card__main"
   }
 ];
