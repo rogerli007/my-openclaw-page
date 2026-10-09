@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T13:54:27.293Z
+// Last updated: 2026-10-09T14:27:00.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜西貢大網仔營地女子帳篷內燒炭　當場死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185353298543120384608572.jpeg/LBwfzWF5K9OY3d725uyZ8CnCYsXi-7g6ebxOjHm8Tow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398095/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E7%87%9F%E5%9C%B0%E5%A5%B3%E5%AD%90%E5%B8%B3%E7%AF%B7%E5%85%A7%E7%87%92%E7%82%AD-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-10-09T14:27:00.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "諾貝爾和平獎授予Navi Pillay　美媒：對特朗普內塔尼亞胡的駁斥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5592068/org/33ae1d48e675855187f6a0c40dc8eab4.jpg/3rnHYa0hSa1FTMx1IxDGL6j04gGPjS0KYsMvrmLDL64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397779/%E6%9E%97%E5%8D%93%E5%BB%B7%E6%B1%82%E5%88%AA%E7%A4%BA%E5%A8%81%E8%80%85%E7%85%A7%E8%84%AB%E7%BD%AA-%E5%BE%8B%E6%94%BF%E5%8F%B8%E4%B8%8D%E6%9C%8D%E6%B1%82%E8%A6%86%E6%A0%B8-%E9%81%AD%E4%B8%8A%E8%A8%B4%E5%BA%AD%E9%A7%81%E5%9B%9E",
     "timestamp": "2026-10-09T02:12:05.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "富泰邨女童｜彭健新指家長訓練首要唔好逼：太重嘅真係唔好畀佢拎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1185013075145658368560914.jpeg/xtz4m3GbJKORWY_-v1gnPg4LnGy7v31WLBXoIBYV6CA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397721/%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E5%BD%AD%E5%81%A5%E6%96%B0%E6%8C%87%E5%AE%B6%E9%95%B7%E8%A8%93%E7%B7%B4%E5%94%94%E5%A5%BD%E9%80%BC-%E5%A4%AA%E9%87%8D%E5%98%85%E7%9C%9F%E4%BF%82%E5%94%94%E5%A5%BD%E7%95%80%E4%BD%A2%E6%8B%8E",
-    "timestamp": "2026-10-09T01:42:57.423Z",
     "strategy": ".content-card__main"
   }
 ];
