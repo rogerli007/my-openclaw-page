@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T18:25:30.172Z
+// Last updated: 2026-10-09T18:50:29.112Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普再施壓撤換聯儲局理事庫克　成立委員會調查虛假陳述指控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250826/1036943257528963072082546.jpeg/icSvcURQf_NQqsdwrMH7A9w8WCQYg7X-Uuvjl1Lr45c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398105/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%96%BD%E5%A3%93%E6%92%A4%E6%8F%9B%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B%E5%BA%AB%E5%85%8B-%E6%88%90%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%BF%E6%9F%A5%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0%E6%8C%87%E6%8E%A7",
+    "timestamp": "2026-10-09T18:50:29.112Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門150人獅子山演習　模擬25人遇山火　首用大型無人機投水彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185263303748751360172804.jpeg/Vy8Pz9CR7-iqhiFqFWxPJ0XRsxwRazx9xQkLpcUJC6U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60397960/%E7%BE%BD%E6%AF%9B%E7%90%83-%E7%9B%A7%E5%96%84%E6%81%A9%E5%8C%97%E6%A5%B5%E5%9C%88%E5%85%AC%E9%96%8B%E8%B3%BD16%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E6%B8%AF%E5%B0%87%E4%B8%8B%E5%91%A8%E5%87%BA%E6%88%B0%E4%B8%B9%E9%BA%A5%E5%85%AC%E9%96%8B%E8%B3%BD",
     "timestamp": "2026-10-09T08:37:03.568Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Hamilton重現古董枕形腕錶！《奧本海默》影帝Cillian Murphy同款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184232533684916224908142.png/ZkqLJjsOIoqnJ0kEMCS8MjaN2QWDOa1avtXqxr7V6sY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60396792/hamilton%E9%87%8D%E7%8F%BE%E5%8F%A4%E8%91%A3%E6%9E%95%E5%BD%A2%E8%85%95%E9%8C%B6-%E5%A5%A7%E6%9C%AC%E6%B5%B7%E9%BB%98-%E5%BD%B1%E5%B8%9Dcillian-murphy%E5%90%8C%E6%AC%BE",
-    "timestamp": "2026-10-09T08:03:19.416Z",
     "strategy": ".content-card__main"
   }
 ];
