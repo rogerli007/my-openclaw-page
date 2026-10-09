@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T14:27:00.683Z
+// Last updated: 2026-10-09T14:50:10.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜屯門公路周五大塞車　直擊首宗意外4車串燒　鐵騎士避一劫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185360135749373952942763.jpeg/SKNLoWNwQR2i8Vmvqc5V1IiE-7FmJGaCdqDCwHagwsA",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398094/%E8%BB%8Acam-%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E5%91%A8%E4%BA%94%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E7%9B%B4%E6%93%8A%E9%A6%96%E5%AE%97%E6%84%8F%E5%A4%964%E8%BB%8A%E4%B8%B2%E7%87%92-%E9%90%B5%E9%A8%8E%E5%A3%AB%E9%81%BF%E4%B8%80%E5%8A%AB",
+    "timestamp": "2026-10-09T14:50:10.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜西貢大網仔營地女子帳篷內燒炭　當場死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184850576064647168508632.jpeg/rbW-Xh5RSOZ4BfjZug5NIvue7KoT6K0Xnh9_U54ff1M",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397417/%E5%B1%AF%E9%96%80%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%81%9C%E5%B7%B4%E5%A3%AB%E7%AB%99-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E7%AD%89%E6%9C%8B%E5%8F%8B%E4%B8%8A%E8%BB%8A-%E5%BE%8C%E8%BB%8A%E9%9F%BF%E5%92%B9-%E7%8E%A9%E4%B9%9Cx%E5%98%A2%E5%95%8A",
     "timestamp": "2026-10-09T03:07:01.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林卓廷求刪示威者照脫罪　律政司不服求覆核　遭上訴庭駁回",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/5592068/org/33ae1d48e675855187f6a0c40dc8eab4.jpg/3rnHYa0hSa1FTMx1IxDGL6j04gGPjS0KYsMvrmLDL64?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397779/%E6%9E%97%E5%8D%93%E5%BB%B7%E6%B1%82%E5%88%AA%E7%A4%BA%E5%A8%81%E8%80%85%E7%85%A7%E8%84%AB%E7%BD%AA-%E5%BE%8B%E6%94%BF%E5%8F%B8%E4%B8%8D%E6%9C%8D%E6%B1%82%E8%A6%86%E6%A0%B8-%E9%81%AD%E4%B8%8A%E8%A8%B4%E5%BA%AD%E9%A7%81%E5%9B%9E",
-    "timestamp": "2026-10-09T02:12:05.237Z",
     "strategy": ".content-card__main"
   }
 ];
