@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T04:54:35.773Z
+// Last updated: 2026-10-09T05:22:59.212Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鈴薯越吃越瘦？廣東男靠「1吃法」一年瘦32公斤、脂肪肝消失！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184890782503407616693410.jpeg/X1EHQT20UN7hI4XgEnIJxEzwHubWeMACRPZaPET2Wjw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397497/%E9%A6%AC%E9%88%B4%E8%96%AF%E8%B6%8A%E5%90%83%E8%B6%8A%E7%98%A6-%E5%BB%A3%E6%9D%B1%E7%94%B7%E9%9D%A0-1%E5%90%83%E6%B3%95-%E4%B8%80%E5%B9%B4%E7%98%A632%E5%85%AC%E6%96%A4-%E8%84%82%E8%82%AA%E8%82%9D%E6%B6%88%E5%A4%B1",
+    "timestamp": "2026-10-09T05:22:59.212Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT中國大滿貫｜王曼昱女單女雙同晉級　周啟豪男單零封張本智和",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185055481446535168865493.jpeg/SqR9fbWUfKSxHlIvTHfcRanSATK_3XAiv1V-h79Vfoc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397735/%E8%90%AC%E8%81%96%E7%AF%80-%E6%A9%9F%E7%AE%A1%E5%B1%80%E8%81%AF%E4%B9%98%E7%8E%8B%E5%98%89%E7%88%BE-%E6%90%9E%E9%AC%BC-%E6%A9%9F%E5%A0%B4%E5%A4%9A%E8%99%95%E8%A8%AD%E7%BD%AE%E5%8D%97%E7%93%9C%E9%AC%BC%E6%89%93%E5%8D%A1%E4%BD%8D",
     "timestamp": "2026-10-08T18:52:15.914Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱與伊朗談判順利　不會在11月中期選舉前向對方發動襲擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185026709913604096950123.jpeg/lYntAawyERu1SqH6aEi19eSiDC24THkjTe_8BU3v_AU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397728/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E9%A0%86%E5%88%A9-%E4%B8%8D%E6%9C%83%E5%9C%A811%E6%9C%88%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%89%8D%E5%90%91%E5%B0%8D%E6%96%B9%E7%99%BC%E5%8B%95%E8%A5%B2%E6%93%8A",
-    "timestamp": "2026-10-08T18:26:03.989Z",
     "strategy": ".content-card__main"
   }
 ];
