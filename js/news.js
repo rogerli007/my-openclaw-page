@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T17:00:10.825Z
+// Last updated: 2026-10-09T17:18:38.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地46歲男暈倒　朋友報案求助　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185391614932029440306841.jpeg/edgYQ29g9JYU-1MiLBL0D4wshAODcMtQbY3mHm2N5h4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398103/%E6%B2%B9%E9%BA%BB%E5%9C%B046%E6%AD%B2%E7%94%B7%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E6%A1%88%E6%B1%82%E5%8A%A9-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-10-09T17:18:38.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藍田平田邨服務設施大樓　57歲男猝死　職員報案惜太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184890782503407616693410.jpeg/X1EHQT20UN7hI4XgEnIJxEzwHubWeMACRPZaPET2Wjw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397497/%E9%A6%AC%E9%88%B4%E8%96%AF%E8%B6%8A%E5%90%83%E8%B6%8A%E7%98%A6-%E5%BB%A3%E6%9D%B1%E7%94%B7%E9%9D%A0-1%E5%90%83%E6%B3%95-%E4%B8%80%E5%B9%B4%E7%98%A632%E5%85%AC%E6%96%A4-%E8%84%82%E8%82%AA%E8%82%9D%E6%B6%88%E5%A4%B1",
     "timestamp": "2026-10-09T05:22:59.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT中國大滿貫｜王曼昱女單女雙同晉級　周啟豪男單零封張本智和",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185180557164679168153678.jpeg/ebgYCChqMmeDRjg891u_EpRkhCiFIWixpu3g_qbt4P4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60397789/wtt%E4%B8%AD%E5%9C%8B%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A5%B3%E5%96%AE%E5%A5%B3%E9%9B%99%E5%90%8C%E6%99%89%E7%B4%9A-%E5%91%A8%E5%95%9F%E8%B1%AA%E7%94%B7%E5%96%AE%E9%9B%B6%E5%B0%81%E5%BC%B5%E6%9C%AC%E6%99%BA%E5%92%8C",
-    "timestamp": "2026-10-09T04:54:35.773Z",
     "strategy": ".content-card__main"
   }
 ];
