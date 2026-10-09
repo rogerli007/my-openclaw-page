@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T01:42:57.423Z
+// Last updated: 2026-10-09T02:12:05.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林卓廷求刪示威者照脫罪　律政司不服求覆核　遭上訴庭駁回",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5592068/org/33ae1d48e675855187f6a0c40dc8eab4.jpg/3rnHYa0hSa1FTMx1IxDGL6j04gGPjS0KYsMvrmLDL64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397779/%E6%9E%97%E5%8D%93%E5%BB%B7%E6%B1%82%E5%88%AA%E7%A4%BA%E5%A8%81%E8%80%85%E7%85%A7%E8%84%AB%E7%BD%AA-%E5%BE%8B%E6%94%BF%E5%8F%B8%E4%B8%8D%E6%9C%8D%E6%B1%82%E8%A6%86%E6%A0%B8-%E9%81%AD%E4%B8%8A%E8%A8%B4%E5%BA%AD%E9%A7%81%E5%9B%9E",
+    "timestamp": "2026-10-09T02:12:05.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "富泰邨女童｜彭健新指家長訓練首要唔好逼：太重嘅真係唔好畀佢拎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1185015859668586496950634.jpeg/P6uhI7BrvnXrg1zk0gy-Lpj-kpqom_nosmZGP7JmRj8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397723/%E8%91%B5%E8%8A%B3%E5%9C%B0%E5%BA%95%E9%B9%B9%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%AA%A8%E4%BD%8D-%E6%B9%A7%E5%87%BA%E9%BB%83%E6%B3%A5%E6%B0%B4-%E5%A4%9A%E8%BC%9B%E9%90%B5%E9%A8%8E%E6%B0%B4%E6%B5%B8%E8%BD%86",
     "timestamp": "2026-10-08T16:25:47.528Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重組長實安達臣道首置盤醜聞　一文看揭發缺鋼筋至3幢樓拆卸重建",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250723/1024776520335364096854672.jpeg/SP7P8mvCgEzbR83E7APCZEnLbga8bjIzjLREhLq0RIQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397713/%E9%87%8D%E7%B5%84%E9%95%B7%E5%AF%A6%E5%AE%89%E9%81%94%E8%87%A3%E9%81%93%E9%A6%96%E7%BD%AE%E7%9B%A4%E9%86%9C%E8%81%9E-%E4%B8%80%E6%96%87%E7%9C%8B%E6%8F%AD%E7%99%BC%E7%BC%BA%E9%8B%BC%E7%AD%8B%E8%87%B33%E5%B9%A2%E6%A8%93%E6%8B%86%E5%8D%B8%E9%87%8D%E5%BB%BA",
-    "timestamp": "2026-10-08T16:01:00.020Z",
     "strategy": ".content-card__main"
   }
 ];
