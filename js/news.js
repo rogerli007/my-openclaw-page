@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T10:22:38.786Z
+// Last updated: 2026-10-09T11:02:47.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬豐海岸城懶人包｜山姆超市＋手搖/餐廳/手信/書店一文看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185302682735218688057943.jpeg/tHGNpYQOo9REwSyQ2zgpP1DzwKU7BkJw4YuUceGLlHE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60398060/%E8%90%AC%E8%B1%90%E6%B5%B7%E5%B2%B8%E5%9F%8E%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82-%E6%89%8B%E6%90%96-%E9%A4%90%E5%BB%B3-%E6%89%8B%E4%BF%A1-%E6%9B%B8%E5%BA%97%E4%B8%80%E6%96%87%E7%9C%8B",
+    "timestamp": "2026-10-09T11:02:47.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柏金遜症｜名醫患柏金遜靠畫畫療癒！4症狀不只手震+15秒自我檢測",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185080329963048960405178.jpeg/p6aO7sego9XaVGrsYulQB2aqz6NvIspjuIr2BLiK9gQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397739/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%92%E7%99%BC%E5%9C%8B%E5%AE%B6%E7%A7%91%E5%AD%B8%E7%8D%8E-%E9%A6%AC%E6%96%AF%E5%85%8B%E9%BB%83%E4%BB%81%E5%8B%B3%E7%AD%894%E4%BD%8D%E7%A7%91%E4%BC%81%E9%AB%98%E5%B1%A4%E7%8D%B2%E7%8D%8E-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-08T21:25:26.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普頒發國家科學獎　馬斯克黃仁勳等4位科企高層獲獎｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185080329963048960405178.jpeg/p6aO7sego9XaVGrsYulQB2aqz6NvIspjuIr2BLiK9gQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397739/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%92%E7%99%BC%E5%9C%8B%E5%AE%B6%E7%A7%91%E5%AD%B8%E7%8D%8E-%E9%A6%AC%E6%96%AF%E5%85%8B%E9%BB%83%E4%BB%81%E5%8B%B3%E7%AD%894%E4%BD%8D%E7%A7%91%E4%BC%81%E9%AB%98%E5%B1%A4%E7%8D%B2%E7%8D%8E-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-08T21:03:56.734Z",
     "strategy": ".content-card__main"
   }
 ];
