@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T03:07:01.541Z
+// Last updated: 2026-10-09T03:42:38.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "65歲婦與紅斑狼瘡共存36年　撐過腦和腎臟病痛　投身公益照亮病友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181289462341046272908357.jpeg/XB7Nm3H7C0h1qjPWyitI-4RUw1ZNfWGP_fttqP37bag?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60394537/65%E6%AD%B2%E5%A9%A6%E8%88%87%E7%B4%85%E6%96%91%E7%8B%BC%E7%98%A1%E5%85%B1%E5%AD%9836%E5%B9%B4-%E6%92%90%E9%81%8E%E8%85%A6%E5%92%8C%E8%85%8E%E8%87%9F%E7%97%85%E7%97%9B-%E6%8A%95%E8%BA%AB%E5%85%AC%E7%9B%8A%E7%85%A7%E4%BA%AE%E7%97%85%E5%8F%8B",
+    "timestamp": "2026-10-09T03:42:38.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門私家車停巴士站　女司機等朋友上車　後車響咹：玩乜X嘢啊！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185032860382269440368270.jpeg/zNmiX1A4Zl1T82bfLrjDQp6yO8JoKThrDCTgAQwk4AE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397731/%E9%86%AB%E7%94%9F-%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E9%9C%91%E8%82%BA%E7%99%8C%E4%B8%BB%E5%88%80%E9%86%AB%E7%94%9F%E5%9A%B4%E7%A7%89%E6%B3%89%E6%82%A3%E6%9F%8F%E9%87%91%E9%81%9C%E5%B0%81%E5%88%80-%E8%BD%89%E6%88%B0%E7%95%AB%E5%A3%87",
     "timestamp": "2026-10-08T17:20:10.253Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國慶黃金周｜七日錄160萬人次訪港　其中141萬人次為內地客超預期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183493712555020288386174.jpeg/PXXCS3gEtXxKoBSePszq-WRlMWXWBxXIMpTygBeU8oA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397727/%E5%9C%8B%E6%85%B6%E9%BB%83%E9%87%91%E5%91%A8-%E4%B8%83%E6%97%A5%E9%8C%84160%E8%90%AC%E4%BA%BA%E6%AC%A1%E8%A8%AA%E6%B8%AF-%E5%85%B6%E4%B8%AD141%E8%90%AC%E4%BA%BA%E6%AC%A1%E7%82%BA%E5%85%A7%E5%9C%B0%E5%AE%A2%E8%B6%85%E9%A0%90%E6%9C%9F",
-    "timestamp": "2026-10-08T16:50:12.151Z",
     "strategy": ".content-card__main"
   }
 ];
