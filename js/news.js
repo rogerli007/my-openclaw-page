@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T21:59:00.457Z
+// Last updated: 2026-10-09T22:20:56.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日天晴炎熱　市區最高氣溫31度　未來數日天氣相若",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185468649389953024283945.jpeg/xvRtOl6_bYwPuNY4kT6svcdhuKkRAtgqQ-qMtXnqjLU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60398111/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB31%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E5%A4%A9%E6%B0%A3%E7%9B%B8%E8%8B%A5",
+    "timestamp": "2026-10-09T22:20:56.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟稱與中國達成共識　中國混能車對歐出口或有望減少一半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184488344378413056290348.jpeg/k9JI3rMuPfkcAn34UYlk0i_ONWUPJ2mvboUvnEuFL5w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398099/%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B52027-%E4%B8%80%E9%80%A33%E6%97%A5%E5%85%AC%E9%96%8B%E7%AB%B6%E6%8A%95%E7%B5%90%E6%9D%9F-%E7%B8%BD%E6%94%B6%E5%85%A5%E9%81%94865%E8%90%AC-%E6%8C%89%E5%B9%B4%E8%B7%8C37%E8%90%AC",
     "timestamp": "2026-10-09T16:00:22.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菲律賓指海警船在仁愛礁遭中國海警水炮干擾　北京：挑事生非",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185333477134831616528749.png/PeACWmX4fzZxnTE0bxZEAaedKqdsRjgUzZQCls2UApY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398081/%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%8C%87%E6%B5%B7%E8%AD%A6%E8%88%B9%E5%9C%A8%E4%BB%81%E6%84%9B%E7%A4%81%E9%81%AD%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%AD%A6%E6%B0%B4%E7%82%AE%E5%B9%B2%E6%93%BE-%E5%8C%97%E4%BA%AC-%E6%8C%91%E4%BA%8B%E7%94%9F%E9%9D%9E",
-    "timestamp": "2026-10-09T15:38:55.266Z",
     "strategy": ".content-card__main"
   }
 ];
