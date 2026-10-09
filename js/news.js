@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T03:42:38.994Z
+// Last updated: 2026-10-09T04:03:06.663Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone長按功能隱藏隱私與省時秘技！6招解鎖 iOS 觸覺觸控全攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184893056516624384763952.jpeg/X697QKDEc8oDQUdKXHtsUBvcyWv1uRCFZGJPs2RiT7M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/60397546/iphone%E9%95%B7%E6%8C%89%E5%8A%9F%E8%83%BD%E9%9A%B1%E8%97%8F%E9%9A%B1%E7%A7%81%E8%88%87%E7%9C%81%E6%99%82%E7%A7%98%E6%8A%80-6%E6%8B%9B%E8%A7%A3%E9%8E%96-ios-%E8%A7%B8%E8%A6%BA%E8%A7%B8%E6%8E%A7%E5%85%A8%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-10-09T04:03:06.663Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "65歲婦與紅斑狼瘡共存36年　撐過腦和腎臟病痛　投身公益照亮病友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185032860382269440368270.jpeg/zNmiX1A4Zl1T82bfLrjDQp6yO8JoKThrDCTgAQwk4AE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397731/%E9%86%AB%E7%94%9F-%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E9%9C%91%E8%82%BA%E7%99%8C%E4%B8%BB%E5%88%80%E9%86%AB%E7%94%9F%E5%9A%B4%E7%A7%89%E6%B3%89%E6%82%A3%E6%9F%8F%E9%87%91%E9%81%9C%E5%B0%81%E5%88%80-%E8%BD%89%E6%88%B0%E7%95%AB%E5%A3%87",
     "timestamp": "2026-10-08T17:34:47.849Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫生，你有病？｜黃霑肺癌主刀醫生嚴秉泉患柏金遜封刀　轉戰畫壇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185032860382269440368270.jpeg/zNmiX1A4Zl1T82bfLrjDQp6yO8JoKThrDCTgAQwk4AE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397731/%E9%86%AB%E7%94%9F-%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E9%9C%91%E8%82%BA%E7%99%8C%E4%B8%BB%E5%88%80%E9%86%AB%E7%94%9F%E5%9A%B4%E7%A7%89%E6%B3%89%E6%82%A3%E6%9F%8F%E9%87%91%E9%81%9C%E5%B0%81%E5%88%80-%E8%BD%89%E6%88%B0%E7%95%AB%E5%A3%87",
-    "timestamp": "2026-10-08T17:20:10.253Z",
     "strategy": ".content-card__main"
   }
 ];
