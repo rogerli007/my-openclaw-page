@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T04:32:39.236Z
+// Last updated: 2026-10-09T04:54:35.773Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT中國大滿貫｜王曼昱女單女雙同晉級　周啟豪男單零封張本智和",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185180557164679168153678.jpeg/ebgYCChqMmeDRjg891u_EpRkhCiFIWixpu3g_qbt4P4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60397789/wtt%E4%B8%AD%E5%9C%8B%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A5%B3%E5%96%AE%E5%A5%B3%E9%9B%99%E5%90%8C%E6%99%89%E7%B4%9A-%E5%91%A8%E5%95%9F%E8%B1%AA%E7%94%B7%E5%96%AE%E9%9B%B6%E5%B0%81%E5%BC%B5%E6%9C%AC%E6%99%BA%E5%92%8C",
+    "timestamp": "2026-10-09T04:54:35.773Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳尊舉家上海移居墨爾本 比較兩地學制課程 私校寄宿年近10萬澳元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185026709913604096950123.jpeg/lYntAawyERu1SqH6aEi19eSiDC24THkjTe_8BU3v_AU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397728/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E4%BC%8A%E6%9C%97%E8%AB%87%E5%88%A4%E9%A0%86%E5%88%A9-%E4%B8%8D%E6%9C%83%E5%9C%A811%E6%9C%88%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%89%8D%E5%90%91%E5%B0%8D%E6%96%B9%E7%99%BC%E5%8B%95%E8%A5%B2%E6%93%8A",
     "timestamp": "2026-10-08T18:26:03.989Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫生，你有病？｜黃霑肺癌主刀醫生嚴秉泉患柏金遜封刀　轉戰畫壇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185032860382269440368270.jpeg/zNmiX1A4Zl1T82bfLrjDQp6yO8JoKThrDCTgAQwk4AE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397731/%E9%86%AB%E7%94%9F-%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E9%9C%91%E8%82%BA%E7%99%8C%E4%B8%BB%E5%88%80%E9%86%AB%E7%94%9F%E5%9A%B4%E7%A7%89%E6%B3%89%E6%82%A3%E6%9F%8F%E9%87%91%E9%81%9C%E5%B0%81%E5%88%80-%E8%BD%89%E6%88%B0%E7%95%AB%E5%A3%87",
-    "timestamp": "2026-10-08T17:56:45.333Z",
     "strategy": ".content-card__main"
   }
 ];
