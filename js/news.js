@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T13:24:23.927Z
+// Last updated: 2026-10-09T13:54:27.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "諾貝爾和平獎授予Navi Pillay　美媒：對特朗普內塔尼亞胡的駁斥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185285029882761216207641.jpeg/m1PPB9_t0GyF0Kx7aEIOwLU7XaU8nuLF7KZOe-ymTns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398085/%E8%AB%BE%E8%B2%9D%E7%88%BE%E5%92%8C%E5%B9%B3%E7%8D%8E%E6%8E%88%E4%BA%88navi-pillay-%E7%BE%8E%E5%AA%92-%E5%B0%8D%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%9A%84%E9%A7%81%E6%96%A5",
+    "timestamp": "2026-10-09T13:54:27.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "工程醜聞頻生　建築師學會促檢視投標制度　避免低標價影響質量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1185013075145658368560914.jpeg/xtz4m3GbJKORWY_-v1gnPg4LnGy7v31WLBXoIBYV6CA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397721/%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E5%BD%AD%E5%81%A5%E6%96%B0%E6%8C%87%E5%AE%B6%E9%95%B7%E8%A8%93%E7%B7%B4%E5%94%94%E5%A5%BD%E9%80%BC-%E5%A4%AA%E9%87%8D%E5%98%85%E7%9C%9F%E4%BF%82%E5%94%94%E5%A5%BD%E7%95%80%E4%BD%A2%E6%8B%8E",
     "timestamp": "2026-10-09T01:42:57.423Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國暫停微軟等科企H1-B簽證轉綠卡申請　調查9大學濫用交流簽證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185123545512939520738062.jpeg/SIzI-xARILFP5ZjYntQuHLs11KDUuXKjfdcqMn3XKjI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397750/%E7%BE%8E%E5%9C%8B%E6%9A%AB%E5%81%9C%E5%BE%AE%E8%BB%9F%E7%AD%89%E7%A7%91%E4%BC%81h1-b%E7%B0%BD%E8%AD%89%E8%BD%89%E7%B6%A0%E5%8D%A1%E7%94%B3%E8%AB%8B-%E8%AA%BF%E6%9F%A59%E5%A4%A7%E5%AD%B8%E6%BF%AB%E7%94%A8%E4%BA%A4%E6%B5%81%E7%B0%BD%E8%AD%89",
-    "timestamp": "2026-10-08T23:55:29.142Z",
     "strategy": ".content-card__main"
   }
 ];
