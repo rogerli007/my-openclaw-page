@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T22:45:52.599Z
+// Last updated: 2026-10-09T22:57:11.190Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗女子疑進食鯁喉　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185481455061438464794528.jpeg/Ly3iTpvLYVUT8GJLhWrCvngouYEDom1Qlmmy9qxpsvY",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398114/%E5%85%83%E6%9C%97%E5%A5%B3%E5%AD%90%E7%96%91%E9%80%B2%E9%A3%9F%E9%AF%81%E5%96%89-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-10-09T22:57:11.190Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普宣布任命Katie Zacharia　出任白宮發言人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185382712253353984387046.jpeg/A_8EXFziCNhy3KAoSdlhjdnf9qqVSjghX5JvrWWSb60?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398101/%E8%97%8D%E7%94%B0%E5%B9%B3%E7%94%B0%E9%82%A8%E6%9C%8D%E5%8B%99%E8%A8%AD%E6%96%BD%E5%A4%A7%E6%A8%93-57%E6%AD%B2%E7%94%B7%E7%8C%9D%E6%AD%BB-%E8%81%B7%E5%93%A1%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
     "timestamp": "2026-10-09T17:00:10.825Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藍田平田邨服務設施大樓　57歲男猝死　職員報案惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185382712253353984387046.jpeg/A_8EXFziCNhy3KAoSdlhjdnf9qqVSjghX5JvrWWSb60?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398101/%E8%97%8D%E7%94%B0%E5%B9%B3%E7%94%B0%E9%82%A8%E6%9C%8D%E5%8B%99%E8%A8%AD%E6%96%BD%E5%A4%A7%E6%A8%93-57%E6%AD%B2%E7%94%B7%E7%8C%9D%E6%AD%BB-%E8%81%B7%E5%93%A1%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-10-09T16:25:55.840Z",
     "strategy": ".content-card__main"
   }
 ];
