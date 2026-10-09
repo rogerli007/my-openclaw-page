@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T11:02:47.328Z
+// Last updated: 2026-10-09T11:44:07.374Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方東昇為中大才子唔輸醫生　初戀娶師妹婆媳同住關係超融洽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185283609263607808023865.jpeg/6UCTr2ErDsDsbw0Ub6qLgc0mu5qP1fX11XvV69V71es?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398010/%E6%96%B9%E6%9D%B1%E6%98%87%E7%82%BA%E4%B8%AD%E5%A4%A7%E6%89%8D%E5%AD%90%E5%94%94%E8%BC%B8%E9%86%AB%E7%94%9F-%E5%88%9D%E6%88%80%E5%A8%B6%E5%B8%AB%E5%A6%B9%E5%A9%86%E5%AA%B3%E5%90%8C%E4%BD%8F%E9%97%9C%E4%BF%82%E8%B6%85%E8%9E%8D%E6%B4%BD",
+    "timestamp": "2026-10-09T11:44:07.374Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬豐海岸城懶人包｜山姆超市＋手搖/餐廳/手信/書店一文看",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185104618460286976024587.jpeg/VaaQw4Q6dULecddzUYnE5CD_iT10pM_k1HWR3u51kd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60397746/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB30%E5%BA%A6-%E6%98%8E%E6%97%A5%E8%87%B3%E4%B8%8B%E5%91%A8%E4%B8%AD%E6%9C%9F%E5%A4%A9%E6%B0%A3%E7%9B%B8%E8%8B%A5",
     "timestamp": "2026-10-08T22:20:43.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普頒發國家科學獎　馬斯克黃仁勳等4位科企高層獲獎｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185080329963048960405178.jpeg/p6aO7sego9XaVGrsYulQB2aqz6NvIspjuIr2BLiK9gQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60397739/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A0%92%E7%99%BC%E5%9C%8B%E5%AE%B6%E7%A7%91%E5%AD%B8%E7%8D%8E-%E9%A6%AC%E6%96%AF%E5%85%8B%E9%BB%83%E4%BB%81%E5%8B%B3%E7%AD%894%E4%BD%8D%E7%A7%91%E4%BC%81%E9%AB%98%E5%B1%A4%E7%8D%B2%E7%8D%8E-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-08T21:25:26.995Z",
     "strategy": ".content-card__main"
   }
 ];
