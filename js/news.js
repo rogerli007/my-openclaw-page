@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T22:57:11.190Z
+// Last updated: 2026-10-09T23:34:59.181Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "50歲男胃痛3年當胃炎！驚罹「癌王」胰臟癌　醫提背痛消瘦4大警號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181264261184229376935842.jpeg/8z6nnaR9U3tywRry_QgT8vfKom4Vot-f9D1XG_Q9Vxs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60393897/50%E6%AD%B2%E7%94%B7%E8%83%83%E7%97%9B3%E5%B9%B4%E7%95%B6%E8%83%83%E7%82%8E-%E9%A9%9A%E7%BD%B9-%E7%99%8C%E7%8E%8B-%E8%83%B0%E8%87%9F%E7%99%8C-%E9%86%AB%E6%8F%90%E8%83%8C%E7%97%9B%E6%B6%88%E7%98%A64%E5%A4%A7%E8%AD%A6%E8%99%9F",
+    "timestamp": "2026-10-09T23:34:59.181Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗女子疑進食鯁喉　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185391614932029440306841.jpeg/edgYQ29g9JYU-1MiLBL0D4wshAODcMtQbY3mHm2N5h4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398103/%E6%B2%B9%E9%BA%BB%E5%9C%B046%E6%AD%B2%E7%94%B7%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E6%A1%88%E6%B1%82%E5%8A%A9-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-09T17:18:38.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藍田平田邨服務設施大樓　57歲男猝死　職員報案惜太遲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185382712253353984387046.jpeg/A_8EXFziCNhy3KAoSdlhjdnf9qqVSjghX5JvrWWSb60?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398101/%E8%97%8D%E7%94%B0%E5%B9%B3%E7%94%B0%E9%82%A8%E6%9C%8D%E5%8B%99%E8%A8%AD%E6%96%BD%E5%A4%A7%E6%A8%93-57%E6%AD%B2%E7%94%B7%E7%8C%9D%E6%AD%BB-%E8%81%B7%E5%93%A1%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
-    "timestamp": "2026-10-09T17:00:10.825Z",
     "strategy": ".content-card__main"
   }
 ];
