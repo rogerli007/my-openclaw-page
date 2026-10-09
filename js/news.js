@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T16:25:55.840Z
+// Last updated: 2026-10-09T17:00:10.825Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藍田平田邨服務設施大樓　57歲男猝死　職員報案惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185382712253353984387046.jpeg/A_8EXFziCNhy3KAoSdlhjdnf9qqVSjghX5JvrWWSb60?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398101/%E8%97%8D%E7%94%B0%E5%B9%B3%E7%94%B0%E9%82%A8%E6%9C%8D%E5%8B%99%E8%A8%AD%E6%96%BD%E5%A4%A7%E6%A8%93-57%E6%AD%B2%E7%94%B7%E7%8C%9D%E6%AD%BB-%E8%81%B7%E5%93%A1%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-10-09T17:00:10.825Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藍田平田邨服務設施大樓　57歲男猝死　職員報案惜太遲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185180557164679168153678.jpeg/ebgYCChqMmeDRjg891u_EpRkhCiFIWixpu3g_qbt4P4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60397789/wtt%E4%B8%AD%E5%9C%8B%E5%A4%A7%E6%BB%BF%E8%B2%AB-%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A5%B3%E5%96%AE%E5%A5%B3%E9%9B%99%E5%90%8C%E6%99%89%E7%B4%9A-%E5%91%A8%E5%95%9F%E8%B1%AA%E7%94%B7%E5%96%AE%E9%9B%B6%E5%B0%81%E5%BC%B5%E6%9C%AC%E6%99%BA%E5%92%8C",
     "timestamp": "2026-10-09T04:54:35.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳尊舉家上海移居墨爾本 比較兩地學制課程 私校寄宿年近10萬澳元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185196117621477376619450.jpeg/LW3A1_GWzDX2j6Vy70-Axb7C8jID_jqtbhPbZm4T22Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60397738/%E5%90%B3%E5%B0%8A%E8%88%89%E5%AE%B6%E4%B8%8A%E6%B5%B7%E7%A7%BB%E5%B1%85%E5%A2%A8%E7%88%BE%E6%9C%AC-%E6%AF%94%E8%BC%83%E5%85%A9%E5%9C%B0%E5%AD%B8%E5%88%B6%E8%AA%B2%E7%A8%8B-%E7%A7%81%E6%A0%A1%E5%AF%84%E5%AE%BF%E5%B9%B4%E8%BF%9110%E8%90%AC%E6%BE%B3%E5%85%83",
-    "timestamp": "2026-10-09T04:32:39.236Z",
     "strategy": ".content-card__main"
   }
 ];
