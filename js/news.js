@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T07:13:26.777Z
+// Last updated: 2026-10-09T08:03:19.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Hamilton重現古董枕形腕錶！《奧本海默》影帝Cillian Murphy同款",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184232533684916224908142.png/ZkqLJjsOIoqnJ0kEMCS8MjaN2QWDOa1avtXqxr7V6sY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60396792/hamilton%E9%87%8D%E7%8F%BE%E5%8F%A4%E8%91%A3%E6%9E%95%E5%BD%A2%E8%85%95%E9%8C%B6-%E5%A5%A7%E6%9C%AC%E6%B5%B7%E9%BB%98-%E5%BD%B1%E5%B8%9Dcillian-murphy%E5%90%8C%E6%AC%BE",
+    "timestamp": "2026-10-09T08:03:19.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門富泰邨女童｜劇情成真？《愛·回家》驚現同樣橋段惹網民熱議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185065494122598400740361.jpeg/xUEg2Hnuu5zzZO3KC_Zsqtq6UxuWMyv4aED5ulJA-bo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397736/%E5%BD%A9%E8%99%B9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E8%B7%AF%E9%9A%9C-41%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-08T19:56:22.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗的士撞傷男子　傷者昏迷送院搶救　司機涉危駕引致重傷被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185058075149602816493587.jpeg/1ziCFrrnLvlCoqHkGWrVM3k7qHI0dFBl_tovGMTaLxg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397732/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%9A%84%E5%A3%AB%E6%92%9E%E5%82%B7%E7%94%B7%E5%AD%90-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%BC%95%E8%87%B4%E9%87%8D%E5%82%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-08T19:36:17.290Z",
     "strategy": ".content-card__main"
   }
 ];
