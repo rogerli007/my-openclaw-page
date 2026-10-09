@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T17:56:02.884Z
+// Last updated: 2026-10-09T18:25:30.172Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門150人獅子山演習　模擬25人遇山火　首用大型無人機投水彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185399186347003904970463.jpeg/OP-spdKKPTEYbO8f7UzoBN_PVWIejFSRdFN0HXRTdB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398104/%E8%B7%A8%E9%83%A8%E9%96%80150%E4%BA%BA%E7%8D%85%E5%AD%90%E5%B1%B1%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC25%E4%BA%BA%E9%81%87%E5%B1%B1%E7%81%AB-%E9%A6%96%E7%94%A8%E5%A4%A7%E5%9E%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8A%95%E6%B0%B4%E5%BD%88",
+    "timestamp": "2026-10-09T18:25:30.172Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門150人獅子山演習　模擬25人遇山火　首用大型無人機投水彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184232533684916224908142.png/ZkqLJjsOIoqnJ0kEMCS8MjaN2QWDOa1avtXqxr7V6sY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60396792/hamilton%E9%87%8D%E7%8F%BE%E5%8F%A4%E8%91%A3%E6%9E%95%E5%BD%A2%E8%85%95%E9%8C%B6-%E5%A5%A7%E6%9C%AC%E6%B5%B7%E9%BB%98-%E5%BD%B1%E5%B8%9Dcillian-murphy%E5%90%8C%E6%AC%BE",
     "timestamp": "2026-10-09T08:03:19.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門富泰邨女童｜劇情成真？《愛·回家》驚現同樣橋段惹網民熱議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184590859639721984473819.jpeg/NvVeXfrPpVqqG8oxg8CQdvjIEP0R9xkEi0CsPotArD4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397311/%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E5%8A%87%E6%83%85%E6%88%90%E7%9C%9F-%E6%84%9B-%E5%9B%9E%E5%AE%B6-%E9%A9%9A%E7%8F%BE%E5%90%8C%E6%A8%A3%E6%A9%8B%E6%AE%B5%E6%83%B9%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0",
-    "timestamp": "2026-10-09T07:13:26.777Z",
     "strategy": ".content-card__main"
   }
 ];
