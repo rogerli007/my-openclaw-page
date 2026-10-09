@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T20:59:13.803Z
+// Last updated: 2026-10-09T21:19:24.996Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普與普京達成共識　俄羅斯將立即向美國及全球供應30萬噸柴油",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250816/1033341214251814912315264.jpeg/I55ZyuySPhVESkU7kQsCXXZvrShnwq1A5uJRXebiUV0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398109/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E6%99%AE%E4%BA%AC%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%87%E7%AB%8B%E5%8D%B3%E5%90%91%E7%BE%8E%E5%9C%8B%E5%8F%8A%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%8930%E8%90%AC%E5%99%B8%E6%9F%B4%E6%B2%B9",
+    "timestamp": "2026-10-09T21:19:24.996Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普與普京達成共識　俄羅斯將立即向美國及全球供應30萬噸柴油",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185285029882761216207641.jpeg/m1PPB9_t0GyF0Kx7aEIOwLU7XaU8nuLF7KZOe-ymTns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398085/%E8%AB%BE%E8%B2%9D%E7%88%BE%E5%92%8C%E5%B9%B3%E7%8D%8E%E6%8E%88%E4%BA%88navi-pillay-%E7%BE%8E%E5%AA%92-%E5%B0%8D%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%9A%84%E9%A7%81%E6%96%A5",
     "timestamp": "2026-10-09T13:54:27.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "工程醜聞頻生　建築師學會促檢視投標制度　避免低標價影響質量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176510679658532864627138.jpeg/-BPfSX-5wPZiVSfl4BucKHk4VWixpfiw-Tf7Sdw3-0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398082/%E5%B7%A5%E7%A8%8B%E9%86%9C%E8%81%9E%E9%A0%BB%E7%94%9F-%E5%BB%BA%E7%AF%89%E5%B8%AB%E5%AD%B8%E6%9C%83%E4%BF%83%E6%AA%A2%E8%A6%96%E6%8A%95%E6%A8%99%E5%88%B6%E5%BA%A6-%E9%81%BF%E5%85%8D%E4%BD%8E%E6%A8%99%E5%83%B9%E5%BD%B1%E9%9F%BF%E8%B3%AA%E9%87%8F",
-    "timestamp": "2026-10-09T13:24:23.927Z",
     "strategy": ".content-card__main"
   }
 ];
