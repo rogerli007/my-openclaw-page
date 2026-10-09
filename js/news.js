@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T14:50:10.398Z
+// Last updated: 2026-10-09T15:38:55.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲律賓指海警船在仁愛礁遭中國海警水炮干擾　北京：挑事生非",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185333477134831616528749.png/PeACWmX4fzZxnTE0bxZEAaedKqdsRjgUzZQCls2UApY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398081/%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%8C%87%E6%B5%B7%E8%AD%A6%E8%88%B9%E5%9C%A8%E4%BB%81%E6%84%9B%E7%A4%81%E9%81%AD%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%AD%A6%E6%B0%B4%E7%82%AE%E5%B9%B2%E6%93%BE-%E5%8C%97%E4%BA%AC-%E6%8C%91%E4%BA%8B%E7%94%9F%E9%9D%9E",
+    "timestamp": "2026-10-09T15:38:55.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜屯門公路周五大塞車　直擊首宗意外4車串燒　鐵騎士避一劫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181289462341046272908357.jpeg/XB7Nm3H7C0h1qjPWyitI-4RUw1ZNfWGP_fttqP37bag?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60394537/65%E6%AD%B2%E5%A9%A6%E8%88%87%E7%B4%85%E6%96%91%E7%8B%BC%E7%98%A1%E5%85%B1%E5%AD%9836%E5%B9%B4-%E6%92%90%E9%81%8E%E8%85%A6%E5%92%8C%E8%85%8E%E8%87%9F%E7%97%85%E7%97%9B-%E6%8A%95%E8%BA%AB%E5%85%AC%E7%9B%8A%E7%85%A7%E4%BA%AE%E7%97%85%E5%8F%8B",
     "timestamp": "2026-10-09T03:42:38.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門私家車停巴士站　女司機等朋友上車　後車響咹：玩乜X嘢啊！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184850576064647168508632.jpeg/rbW-Xh5RSOZ4BfjZug5NIvue7KoT6K0Xnh9_U54ff1M",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397417/%E5%B1%AF%E9%96%80%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%81%9C%E5%B7%B4%E5%A3%AB%E7%AB%99-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E7%AD%89%E6%9C%8B%E5%8F%8B%E4%B8%8A%E8%BB%8A-%E5%BE%8C%E8%BB%8A%E9%9F%BF%E5%92%B9-%E7%8E%A9%E4%B9%9Cx%E5%98%A2%E5%95%8A",
-    "timestamp": "2026-10-09T03:07:01.541Z",
     "strategy": ".content-card__main"
   }
 ];
