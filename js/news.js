@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T04:03:06.663Z
+// Last updated: 2026-10-09T04:32:39.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳尊舉家上海移居墨爾本 比較兩地學制課程 私校寄宿年近10萬澳元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185196117621477376619450.jpeg/LW3A1_GWzDX2j6Vy70-Axb7C8jID_jqtbhPbZm4T22Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60397738/%E5%90%B3%E5%B0%8A%E8%88%89%E5%AE%B6%E4%B8%8A%E6%B5%B7%E7%A7%BB%E5%B1%85%E5%A2%A8%E7%88%BE%E6%9C%AC-%E6%AF%94%E8%BC%83%E5%85%A9%E5%9C%B0%E5%AD%B8%E5%88%B6%E8%AA%B2%E7%A8%8B-%E7%A7%81%E6%A0%A1%E5%AF%84%E5%AE%BF%E5%B9%B4%E8%BF%9110%E8%90%AC%E6%BE%B3%E5%85%83",
+    "timestamp": "2026-10-09T04:32:39.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone長按功能隱藏隱私與省時秘技！6招解鎖 iOS 觸覺觸控全攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185032860382269440368270.jpeg/zNmiX1A4Zl1T82bfLrjDQp6yO8JoKThrDCTgAQwk4AE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397731/%E9%86%AB%E7%94%9F-%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E9%9C%91%E8%82%BA%E7%99%8C%E4%B8%BB%E5%88%80%E9%86%AB%E7%94%9F%E5%9A%B4%E7%A7%89%E6%B3%89%E6%82%A3%E6%9F%8F%E9%87%91%E9%81%9C%E5%B0%81%E5%88%80-%E8%BD%89%E6%88%B0%E7%95%AB%E5%A3%87",
     "timestamp": "2026-10-08T17:56:45.333Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫生，你有病？｜黃霑肺癌主刀醫生嚴秉泉患柏金遜封刀　轉戰畫壇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185032860382269440368270.jpeg/zNmiX1A4Zl1T82bfLrjDQp6yO8JoKThrDCTgAQwk4AE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397731/%E9%86%AB%E7%94%9F-%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E9%9C%91%E8%82%BA%E7%99%8C%E4%B8%BB%E5%88%80%E9%86%AB%E7%94%9F%E5%9A%B4%E7%A7%89%E6%B3%89%E6%82%A3%E6%9F%8F%E9%87%91%E9%81%9C%E5%B0%81%E5%88%80-%E8%BD%89%E6%88%B0%E7%95%AB%E5%A3%87",
-    "timestamp": "2026-10-08T17:34:47.849Z",
     "strategy": ".content-card__main"
   }
 ];
