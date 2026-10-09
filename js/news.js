@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T05:22:59.212Z
+// Last updated: 2026-10-09T05:49:16.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非凡人物| 章國明回望新浪潮精神　陳譚新成首世界盃執法華人裁判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185221324537073664854376.jpeg/3bRiPKROymqoE4z5ATyDAkpkfh7bZqPwV-TDYFfkw2A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60397504/%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E7%AB%A0%E5%9C%8B%E6%98%8E%E5%9B%9E%E6%9C%9B%E6%96%B0%E6%B5%AA%E6%BD%AE%E7%B2%BE%E7%A5%9E-%E9%99%B3%E8%AD%9A%E6%96%B0%E6%88%90%E9%A6%96%E4%B8%96%E7%95%8C%E7%9B%83%E5%9F%B7%E6%B3%95%E8%8F%AF%E4%BA%BA%E8%A3%81%E5%88%A4",
+    "timestamp": "2026-10-09T05:49:16.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鈴薯越吃越瘦？廣東男靠「1吃法」一年瘦32公斤、脂肪肝消失！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185058075149602816493587.jpeg/1ziCFrrnLvlCoqHkGWrVM3k7qHI0dFBl_tovGMTaLxg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397732/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%9A%84%E5%A3%AB%E6%92%9E%E5%82%B7%E7%94%B7%E5%AD%90-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%BC%95%E8%87%B4%E9%87%8D%E5%82%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-08T19:19:22.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節｜機管局聯乘王嘉爾「搞鬼」　機場多處設置南瓜鬼打卡位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185055481446535168865493.jpeg/SqR9fbWUfKSxHlIvTHfcRanSATK_3XAiv1V-h79Vfoc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397735/%E8%90%AC%E8%81%96%E7%AF%80-%E6%A9%9F%E7%AE%A1%E5%B1%80%E8%81%AF%E4%B9%98%E7%8E%8B%E5%98%89%E7%88%BE-%E6%90%9E%E9%AC%BC-%E6%A9%9F%E5%A0%B4%E5%A4%9A%E8%99%95%E8%A8%AD%E7%BD%AE%E5%8D%97%E7%93%9C%E9%AC%BC%E6%89%93%E5%8D%A1%E4%BD%8D",
-    "timestamp": "2026-10-08T18:52:15.914Z",
     "strategy": ".content-card__main"
   }
 ];
