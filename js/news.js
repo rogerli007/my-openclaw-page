@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T21:37:17.183Z
+// Last updated: 2026-10-09T21:48:50.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟稱與中國達成共識　中國混能車對歐出口或有望減少一半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185460744708165632812349.png/kik1u57jNw-RoA0Jvj0gFzdjDeZilB_Ha3IqkmtyKpI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398110/%E6%AD%90%E7%9B%9F%E7%A8%B1%E8%88%87%E4%B8%AD%E5%9C%8B%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%B8%AD%E5%9C%8B%E6%B7%B7%E8%83%BD%E8%BB%8A%E5%B0%8D%E6%AD%90%E5%87%BA%E5%8F%A3%E6%88%96%E6%9C%89%E6%9C%9B%E6%B8%9B%E5%B0%91%E4%B8%80%E5%8D%8A",
+    "timestamp": "2026-10-09T21:48:50.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟稱與中國達成共識　中國混能車對歐出口或有望減少一半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185360135749373952942763.jpeg/SKNLoWNwQR2i8Vmvqc5V1IiE-7FmJGaCdqDCwHagwsA",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398094/%E8%BB%8Acam-%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E5%91%A8%E4%BA%94%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E7%9B%B4%E6%93%8A%E9%A6%96%E5%AE%97%E6%84%8F%E5%A4%964%E8%BB%8A%E4%B8%B2%E7%87%92-%E9%90%B5%E9%A8%8E%E5%A3%AB%E9%81%BF%E4%B8%80%E5%8A%AB",
     "timestamp": "2026-10-09T14:50:10.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜西貢大網仔營地女子帳篷內燒炭　當場死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185353298543120384608572.jpeg/LBwfzWF5K9OY3d725uyZ8CnCYsXi-7g6ebxOjHm8Tow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398095/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E7%87%9F%E5%9C%B0%E5%A5%B3%E5%AD%90%E5%B8%B3%E7%AF%B7%E5%85%A7%E7%87%92%E7%82%AD-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-10-09T14:27:00.683Z",
     "strategy": ".content-card__main"
   }
 ];
