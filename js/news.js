@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T20:24:48.607Z
+// Last updated: 2026-10-09T20:47:21.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普與普京達成共識　俄羅斯將立即向美國及全球供應30萬噸柴油",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250816/1033341214251814912315264.jpeg/I55ZyuySPhVESkU7kQsCXXZvrShnwq1A5uJRXebiUV0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398109/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E6%99%AE%E4%BA%AC%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%87%E7%AB%8B%E5%8D%B3%E5%90%91%E7%BE%8E%E5%9C%8B%E5%8F%8A%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%8930%E8%90%AC%E5%99%B8%E6%9F%B4%E6%B2%B9",
+    "timestamp": "2026-10-09T20:47:21.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯公大塞車．車Cam｜首宗意外凌志被指肇禍　司機喊冤：前車急煞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185325474578960384064978.jpeg/1qgtQXj3ui4m3Id0icseLdsPwy5MxN_0YJjfamCY32o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398076/%E8%82%A5%E5%AA%BD%E7%89%A9%E8%89%B2%E8%80%81%E4%BA%BA%E9%99%A2%E9%81%AD%E5%AE%B6%E4%BA%BA%E5%8F%8D%E5%B0%8D-%E9%9C%B8%E6%B0%A3%E9%96%8B%E6%A2%9D%E4%BB%B6-%E5%94%94%E7%95%80%E5%8E%BB%E5%B0%B1%E8%A6%81%E7%85%A7%E9%A1%A7%E6%88%91",
     "timestamp": "2026-10-09T12:56:31.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門公路接連車禍　兆康站對開4車串燒釀5傷　往元朗車龍逾10公里",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185313926896685056641825.png/Q9skSqxtYqM9gyEIR7RgNZL7OoWfbMVjj1SXto9Ul7Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398064/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E6%8E%A5%E9%80%A3%E8%BB%8A%E7%A6%8D-%E5%85%86%E5%BA%B7%E7%AB%99%E5%B0%8D%E9%96%8B4%E8%BB%8A%E4%B8%B2%E7%87%92%E9%87%805%E5%82%B7-%E5%BE%80%E5%85%83%E6%9C%97%E8%BB%8A%E9%BE%8D%E9%80%BE10%E5%85%AC%E9%87%8C",
-    "timestamp": "2026-10-09T11:56:51.013Z",
     "strategy": ".content-card__main"
   }
 ];
