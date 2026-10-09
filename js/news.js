@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T17:18:38.722Z
+// Last updated: 2026-10-09T17:45:34.375Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門150人獅子山演習　模擬25人遇山火　首用大型無人機投水彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185399186347003904970463.jpeg/OP-spdKKPTEYbO8f7UzoBN_PVWIejFSRdFN0HXRTdB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398104/%E8%B7%A8%E9%83%A8%E9%96%80150%E4%BA%BA%E7%8D%85%E5%AD%90%E5%B1%B1%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC25%E4%BA%BA%E9%81%87%E5%B1%B1%E7%81%AB-%E9%A6%96%E7%94%A8%E5%A4%A7%E5%9E%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8A%95%E6%B0%B4%E5%BD%88",
+    "timestamp": "2026-10-09T17:45:34.375Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地46歲男暈倒　朋友報案求助　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185221324537073664854376.jpeg/3bRiPKROymqoE4z5ATyDAkpkfh7bZqPwV-TDYFfkw2A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60397504/%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E7%AB%A0%E5%9C%8B%E6%98%8E%E5%9B%9E%E6%9C%9B%E6%96%B0%E6%B5%AA%E6%BD%AE%E7%B2%BE%E7%A5%9E-%E9%99%B3%E8%AD%9A%E6%96%B0%E6%88%90%E9%A6%96%E4%B8%96%E7%95%8C%E7%9B%83%E5%9F%B7%E6%B3%95%E8%8F%AF%E4%BA%BA%E8%A3%81%E5%88%A4",
     "timestamp": "2026-10-09T05:49:16.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鈴薯越吃越瘦？廣東男靠「1吃法」一年瘦32公斤、脂肪肝消失！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184890782503407616693410.jpeg/X1EHQT20UN7hI4XgEnIJxEzwHubWeMACRPZaPET2Wjw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397497/%E9%A6%AC%E9%88%B4%E8%96%AF%E8%B6%8A%E5%90%83%E8%B6%8A%E7%98%A6-%E5%BB%A3%E6%9D%B1%E7%94%B7%E9%9D%A0-1%E5%90%83%E6%B3%95-%E4%B8%80%E5%B9%B4%E7%98%A632%E5%85%AC%E6%96%A4-%E8%84%82%E8%82%AA%E8%82%9D%E6%B6%88%E5%A4%B1",
-    "timestamp": "2026-10-09T05:22:59.212Z",
     "strategy": ".content-card__main"
   }
 ];
