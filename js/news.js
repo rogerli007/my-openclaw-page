@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T21:19:24.996Z
+// Last updated: 2026-10-09T21:37:17.183Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟稱與中國達成共識　中國混能車對歐出口或有望減少一半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185460744708165632812349.png/kik1u57jNw-RoA0Jvj0gFzdjDeZilB_Ha3IqkmtyKpI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398110/%E6%AD%90%E7%9B%9F%E7%A8%B1%E8%88%87%E4%B8%AD%E5%9C%8B%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%B8%AD%E5%9C%8B%E6%B7%B7%E8%83%BD%E8%BB%8A%E5%B0%8D%E6%AD%90%E5%87%BA%E5%8F%A3%E6%88%96%E6%9C%89%E6%9C%9B%E6%B8%9B%E5%B0%91%E4%B8%80%E5%8D%8A",
+    "timestamp": "2026-10-09T21:37:17.183Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普與普京達成共識　俄羅斯將立即向美國及全球供應30萬噸柴油",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185353298543120384608572.jpeg/LBwfzWF5K9OY3d725uyZ8CnCYsXi-7g6ebxOjHm8Tow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398095/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E7%87%9F%E5%9C%B0%E5%A5%B3%E5%AD%90%E5%B8%B3%E7%AF%B7%E5%85%A7%E7%87%92%E7%82%AD-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-10-09T14:27:00.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "諾貝爾和平獎授予Navi Pillay　美媒：對特朗普內塔尼亞胡的駁斥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185285029882761216207641.jpeg/m1PPB9_t0GyF0Kx7aEIOwLU7XaU8nuLF7KZOe-ymTns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398085/%E8%AB%BE%E8%B2%9D%E7%88%BE%E5%92%8C%E5%B9%B3%E7%8D%8E%E6%8E%88%E4%BA%88navi-pillay-%E7%BE%8E%E5%AA%92-%E5%B0%8D%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%9A%84%E9%A7%81%E6%96%A5",
-    "timestamp": "2026-10-09T13:54:27.293Z",
     "strategy": ".content-card__main"
   }
 ];
