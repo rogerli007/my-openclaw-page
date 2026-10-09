@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T05:49:16.641Z
+// Last updated: 2026-10-09T07:13:26.777Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門富泰邨女童｜劇情成真？《愛·回家》驚現同樣橋段惹網民熱議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184590859639721984473819.jpeg/NvVeXfrPpVqqG8oxg8CQdvjIEP0R9xkEi0CsPotArD4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397311/%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E5%8A%87%E6%83%85%E6%88%90%E7%9C%9F-%E6%84%9B-%E5%9B%9E%E5%AE%B6-%E9%A9%9A%E7%8F%BE%E5%90%8C%E6%A8%A3%E6%A9%8B%E6%AE%B5%E6%83%B9%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0",
+    "timestamp": "2026-10-09T07:13:26.777Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非凡人物| 章國明回望新浪潮精神　陳譚新成首世界盃執法華人裁判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185058075149602816493587.jpeg/1ziCFrrnLvlCoqHkGWrVM3k7qHI0dFBl_tovGMTaLxg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397732/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%9A%84%E5%A3%AB%E6%92%9E%E5%82%B7%E7%94%B7%E5%AD%90-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%BC%95%E8%87%B4%E9%87%8D%E5%82%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-08T19:36:17.290Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗的士撞傷男子　傷者昏迷送院搶救　司機涉危駕引致重傷被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185058075149602816493587.jpeg/1ziCFrrnLvlCoqHkGWrVM3k7qHI0dFBl_tovGMTaLxg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397732/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%9A%84%E5%A3%AB%E6%92%9E%E5%82%B7%E7%94%B7%E5%AD%90-%E5%82%B7%E8%80%85%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%BC%95%E8%87%B4%E9%87%8D%E5%82%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-08T19:19:22.533Z",
     "strategy": ".content-card__main"
   }
 ];
