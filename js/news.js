@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T17:45:34.375Z
+// Last updated: 2026-10-09T17:56:02.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門150人獅子山演習　模擬25人遇山火　首用大型無人機投水彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185399186347003904970463.jpeg/OP-spdKKPTEYbO8f7UzoBN_PVWIejFSRdFN0HXRTdB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398104/%E8%B7%A8%E9%83%A8%E9%96%80150%E4%BA%BA%E7%8D%85%E5%AD%90%E5%B1%B1%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC25%E4%BA%BA%E9%81%87%E5%B1%B1%E7%81%AB-%E9%A6%96%E7%94%A8%E5%A4%A7%E5%9E%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8A%95%E6%B0%B4%E5%BD%88",
+    "timestamp": "2026-10-09T17:56:02.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門150人獅子山演習　模擬25人遇山火　首用大型無人機投水彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184590859639721984473819.jpeg/NvVeXfrPpVqqG8oxg8CQdvjIEP0R9xkEi0CsPotArD4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397311/%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E5%8A%87%E6%83%85%E6%88%90%E7%9C%9F-%E6%84%9B-%E5%9B%9E%E5%AE%B6-%E9%A9%9A%E7%8F%BE%E5%90%8C%E6%A8%A3%E6%A9%8B%E6%AE%B5%E6%83%B9%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0",
     "timestamp": "2026-10-09T07:13:26.777Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非凡人物| 章國明回望新浪潮精神　陳譚新成首世界盃執法華人裁判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185221324537073664854376.jpeg/3bRiPKROymqoE4z5ATyDAkpkfh7bZqPwV-TDYFfkw2A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60397504/%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E7%AB%A0%E5%9C%8B%E6%98%8E%E5%9B%9E%E6%9C%9B%E6%96%B0%E6%B5%AA%E6%BD%AE%E7%B2%BE%E7%A5%9E-%E9%99%B3%E8%AD%9A%E6%96%B0%E6%88%90%E9%A6%96%E4%B8%96%E7%95%8C%E7%9B%83%E5%9F%B7%E6%B3%95%E8%8F%AF%E4%BA%BA%E8%A3%81%E5%88%A4",
-    "timestamp": "2026-10-09T05:49:16.641Z",
     "strategy": ".content-card__main"
   }
 ];
