@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T02:12:05.237Z
+// Last updated: 2026-10-09T03:07:01.541Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門私家車停巴士站　女司機等朋友上車　後車響咹：玩乜X嘢啊！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184850576064647168508632.jpeg/rbW-Xh5RSOZ4BfjZug5NIvue7KoT6K0Xnh9_U54ff1M",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397417/%E5%B1%AF%E9%96%80%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%81%9C%E5%B7%B4%E5%A3%AB%E7%AB%99-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E7%AD%89%E6%9C%8B%E5%8F%8B%E4%B8%8A%E8%BB%8A-%E5%BE%8C%E8%BB%8A%E9%9F%BF%E5%92%B9-%E7%8E%A9%E4%B9%9Cx%E5%98%A2%E5%95%8A",
+    "timestamp": "2026-10-09T03:07:01.541Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林卓廷求刪示威者照脫罪　律政司不服求覆核　遭上訴庭駁回",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183493712555020288386174.jpeg/PXXCS3gEtXxKoBSePszq-WRlMWXWBxXIMpTygBeU8oA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397727/%E5%9C%8B%E6%85%B6%E9%BB%83%E9%87%91%E5%91%A8-%E4%B8%83%E6%97%A5%E9%8C%84160%E8%90%AC%E4%BA%BA%E6%AC%A1%E8%A8%AA%E6%B8%AF-%E5%85%B6%E4%B8%AD141%E8%90%AC%E4%BA%BA%E6%AC%A1%E7%82%BA%E5%85%A7%E5%9C%B0%E5%AE%A2%E8%B6%85%E9%A0%90%E6%9C%9F",
     "timestamp": "2026-10-08T16:50:12.151Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵芳地底鹹水管爆裂　電單車「骨位」湧出黃泥水　多輛鐵騎水浸轆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1185015859668586496950634.jpeg/P6uhI7BrvnXrg1zk0gy-Lpj-kpqom_nosmZGP7JmRj8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397723/%E8%91%B5%E8%8A%B3%E5%9C%B0%E5%BA%95%E9%B9%B9%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%AA%A8%E4%BD%8D-%E6%B9%A7%E5%87%BA%E9%BB%83%E6%B3%A5%E6%B0%B4-%E5%A4%9A%E8%BC%9B%E9%90%B5%E9%A8%8E%E6%B0%B4%E6%B5%B8%E8%BD%86",
-    "timestamp": "2026-10-08T16:25:47.528Z",
     "strategy": ".content-card__main"
   }
 ];
