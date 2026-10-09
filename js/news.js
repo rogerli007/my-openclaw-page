@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T15:38:55.266Z
+// Last updated: 2026-10-09T16:00:22.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "維園年宵2027｜一連3日公開競投結束　總收入達865萬　按年跌37萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184488344378413056290348.jpeg/k9JI3rMuPfkcAn34UYlk0i_ONWUPJ2mvboUvnEuFL5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398099/%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B52027-%E4%B8%80%E9%80%A33%E6%97%A5%E5%85%AC%E9%96%8B%E7%AB%B6%E6%8A%95%E7%B5%90%E6%9D%9F-%E7%B8%BD%E6%94%B6%E5%85%A5%E9%81%94865%E8%90%AC-%E6%8C%89%E5%B9%B4%E8%B7%8C37%E8%90%AC",
+    "timestamp": "2026-10-09T16:00:22.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲律賓指海警船在仁愛礁遭中國海警水炮干擾　北京：挑事生非",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184893056516624384763952.jpeg/X697QKDEc8oDQUdKXHtsUBvcyWv1uRCFZGJPs2RiT7M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/60397546/iphone%E9%95%B7%E6%8C%89%E5%8A%9F%E8%83%BD%E9%9A%B1%E8%97%8F%E9%9A%B1%E7%A7%81%E8%88%87%E7%9C%81%E6%99%82%E7%A7%98%E6%8A%80-6%E6%8B%9B%E8%A7%A3%E9%8E%96-ios-%E8%A7%B8%E8%A6%BA%E8%A7%B8%E6%8E%A7%E5%85%A8%E6%94%BB%E7%95%A5",
     "timestamp": "2026-10-09T04:03:06.663Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "65歲婦與紅斑狼瘡共存36年　撐過腦和腎臟病痛　投身公益照亮病友",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181289462341046272908357.jpeg/XB7Nm3H7C0h1qjPWyitI-4RUw1ZNfWGP_fttqP37bag?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60394537/65%E6%AD%B2%E5%A9%A6%E8%88%87%E7%B4%85%E6%96%91%E7%8B%BC%E7%98%A1%E5%85%B1%E5%AD%9836%E5%B9%B4-%E6%92%90%E9%81%8E%E8%85%A6%E5%92%8C%E8%85%8E%E8%87%9F%E7%97%85%E7%97%9B-%E6%8A%95%E8%BA%AB%E5%85%AC%E7%9B%8A%E7%85%A7%E4%BA%AE%E7%97%85%E5%8F%8B",
-    "timestamp": "2026-10-09T03:42:38.994Z",
     "strategy": ".content-card__main"
   }
 ];
