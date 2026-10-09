@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T16:00:22.237Z
+// Last updated: 2026-10-09T16:25:55.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藍田平田邨服務設施大樓　57歲男猝死　職員報案惜太遲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185382712253353984387046.jpeg/A_8EXFziCNhy3KAoSdlhjdnf9qqVSjghX5JvrWWSb60?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398101/%E8%97%8D%E7%94%B0%E5%B9%B3%E7%94%B0%E9%82%A8%E6%9C%8D%E5%8B%99%E8%A8%AD%E6%96%BD%E5%A4%A7%E6%A8%93-57%E6%AD%B2%E7%94%B7%E7%8C%9D%E6%AD%BB-%E8%81%B7%E5%93%A1%E5%A0%B1%E6%A1%88%E6%83%9C%E5%A4%AA%E9%81%B2",
+    "timestamp": "2026-10-09T16:25:55.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "維園年宵2027｜一連3日公開競投結束　總收入達865萬　按年跌37萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185196117621477376619450.jpeg/LW3A1_GWzDX2j6Vy70-Axb7C8jID_jqtbhPbZm4T22Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60397738/%E5%90%B3%E5%B0%8A%E8%88%89%E5%AE%B6%E4%B8%8A%E6%B5%B7%E7%A7%BB%E5%B1%85%E5%A2%A8%E7%88%BE%E6%9C%AC-%E6%AF%94%E8%BC%83%E5%85%A9%E5%9C%B0%E5%AD%B8%E5%88%B6%E8%AA%B2%E7%A8%8B-%E7%A7%81%E6%A0%A1%E5%AF%84%E5%AE%BF%E5%B9%B4%E8%BF%9110%E8%90%AC%E6%BE%B3%E5%85%83",
     "timestamp": "2026-10-09T04:32:39.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone長按功能隱藏隱私與省時秘技！6招解鎖 iOS 觸覺觸控全攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184893056516624384763952.jpeg/X697QKDEc8oDQUdKXHtsUBvcyWv1uRCFZGJPs2RiT7M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/60397546/iphone%E9%95%B7%E6%8C%89%E5%8A%9F%E8%83%BD%E9%9A%B1%E8%97%8F%E9%9A%B1%E7%A7%81%E8%88%87%E7%9C%81%E6%99%82%E7%A7%98%E6%8A%80-6%E6%8B%9B%E8%A7%A3%E9%8E%96-ios-%E8%A7%B8%E8%A6%BA%E8%A7%B8%E6%8E%A7%E5%85%A8%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-10-09T04:03:06.663Z",
     "strategy": ".content-card__main"
   }
 ];
