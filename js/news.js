@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T08:03:19.416Z
+// Last updated: 2026-10-09T08:37:03.568Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球｜盧善恩北極圈公開賽16強止步　港將下周出戰丹麥公開賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185263303748751360172804.jpeg/Vy8Pz9CR7-iqhiFqFWxPJ0XRsxwRazx9xQkLpcUJC6U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60397960/%E7%BE%BD%E6%AF%9B%E7%90%83-%E7%9B%A7%E5%96%84%E6%81%A9%E5%8C%97%E6%A5%B5%E5%9C%88%E5%85%AC%E9%96%8B%E8%B3%BD16%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E6%B8%AF%E5%B0%87%E4%B8%8B%E5%91%A8%E5%87%BA%E6%88%B0%E4%B8%B9%E9%BA%A5%E5%85%AC%E9%96%8B%E8%B3%BD",
+    "timestamp": "2026-10-09T08:37:03.568Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Hamilton重現古董枕形腕錶！《奧本海默》影帝Cillian Murphy同款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185078906298830848357261.jpeg/wKR5yis_9Z61Vi_im6HkSYvNrmXlNX4HjwEmtI8BJrQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397740/%E8%AD%A6%E8%A7%80%E5%A1%98%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E8%B3%AD%E6%AA%94-5%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-08T20:22:29.144Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彩虹私家車疑行車不穩遇路障　41歲男司機「吹爆波」　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185065494122598400740361.jpeg/xUEg2Hnuu5zzZO3KC_Zsqtq6UxuWMyv4aED5ulJA-bo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60397736/%E5%BD%A9%E8%99%B9%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E8%B7%AF%E9%9A%9C-41%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-08T19:56:22.756Z",
     "strategy": ".content-card__main"
   }
 ];
