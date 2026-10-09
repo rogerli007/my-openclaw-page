@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T21:48:50.209Z
+// Last updated: 2026-10-09T21:59:00.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐盟稱與中國達成共識　中國混能車對歐出口或有望減少一半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185460744708165632812349.png/kik1u57jNw-RoA0Jvj0gFzdjDeZilB_Ha3IqkmtyKpI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398110/%E6%AD%90%E7%9B%9F%E7%A8%B1%E8%88%87%E4%B8%AD%E5%9C%8B%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%B8%AD%E5%9C%8B%E6%B7%B7%E8%83%BD%E8%BB%8A%E5%B0%8D%E6%AD%90%E5%87%BA%E5%8F%A3%E6%88%96%E6%9C%89%E6%9C%9B%E6%B8%9B%E5%B0%91%E4%B8%80%E5%8D%8A",
+    "timestamp": "2026-10-09T21:59:00.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐盟稱與中國達成共識　中國混能車對歐出口或有望減少一半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185333477134831616528749.png/PeACWmX4fzZxnTE0bxZEAaedKqdsRjgUzZQCls2UApY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398081/%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%8C%87%E6%B5%B7%E8%AD%A6%E8%88%B9%E5%9C%A8%E4%BB%81%E6%84%9B%E7%A4%81%E9%81%AD%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%AD%A6%E6%B0%B4%E7%82%AE%E5%B9%B2%E6%93%BE-%E5%8C%97%E4%BA%AC-%E6%8C%91%E4%BA%8B%E7%94%9F%E9%9D%9E",
     "timestamp": "2026-10-09T15:38:55.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜屯門公路周五大塞車　直擊首宗意外4車串燒　鐵騎士避一劫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185360135749373952942763.jpeg/SKNLoWNwQR2i8Vmvqc5V1IiE-7FmJGaCdqDCwHagwsA",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398094/%E8%BB%8Acam-%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E5%91%A8%E4%BA%94%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E7%9B%B4%E6%93%8A%E9%A6%96%E5%AE%97%E6%84%8F%E5%A4%964%E8%BB%8A%E4%B8%B2%E7%87%92-%E9%90%B5%E9%A8%8E%E5%A3%AB%E9%81%BF%E4%B8%80%E5%8A%AB",
-    "timestamp": "2026-10-09T14:50:10.398Z",
     "strategy": ".content-card__main"
   }
 ];
