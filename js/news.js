@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-08T23:55:29.142Z
+// Last updated: 2026-10-09T01:42:57.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "富泰邨女童｜彭健新指家長訓練首要唔好逼：太重嘅真係唔好畀佢拎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1185013075145658368560914.jpeg/xtz4m3GbJKORWY_-v1gnPg4LnGy7v31WLBXoIBYV6CA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397721/%E5%B1%AF%E9%96%80%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E5%BD%AD%E5%81%A5%E6%96%B0%E6%8C%87%E5%AE%B6%E9%95%B7%E8%A8%93%E7%B7%B4%E5%94%94%E5%A5%BD%E9%80%BC-%E5%A4%AA%E9%87%8D%E5%98%85%E7%9C%9F%E4%BF%82%E5%94%94%E5%A5%BD%E7%95%80%E4%BD%A2%E6%8B%8E",
+    "timestamp": "2026-10-09T01:42:57.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國暫停微軟等科企H1-B簽證轉綠卡申請　調查9大學濫用交流簽證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250723/1024776520335364096854672.jpeg/SP7P8mvCgEzbR83E7APCZEnLbga8bjIzjLREhLq0RIQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60397713/%E9%87%8D%E7%B5%84%E9%95%B7%E5%AF%A6%E5%AE%89%E9%81%94%E8%87%A3%E9%81%93%E9%A6%96%E7%BD%AE%E7%9B%A4%E9%86%9C%E8%81%9E-%E4%B8%80%E6%96%87%E7%9C%8B%E6%8F%AD%E7%99%BC%E7%BC%BA%E9%8B%BC%E7%AD%8B%E8%87%B33%E5%B9%A2%E6%A8%93%E6%8B%86%E5%8D%B8%E9%87%8D%E5%BB%BA",
     "timestamp": "2026-10-08T16:01:00.020Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男友買機票自己坐商務艙　獨留女友在經濟艙　網民卻一面倒挺男方",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174408796726890496738025.jpeg/LLo8l0BUzfY_zJEwMFZCirSfIapnEqKlT-JXZk_iV2Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60300007/%E7%94%B7%E5%8F%8B%E8%B2%B7%E6%A9%9F%E7%A5%A8%E8%87%AA%E5%B7%B1%E5%9D%90%E5%95%86%E5%8B%99%E8%89%99-%E7%8D%A8%E7%95%99%E5%A5%B3%E5%8F%8B%E5%9C%A8%E7%B6%93%E6%BF%9F%E8%89%99-%E7%B6%B2%E6%B0%91%E5%8D%BB%E4%B8%80%E9%9D%A2%E5%80%92%E6%8C%BA%E7%94%B7%E6%96%B9",
-    "timestamp": "2026-10-08T15:48:19.336Z",
     "strategy": ".content-card__main"
   }
 ];
