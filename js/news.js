@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T07:48:00.410Z
+// Last updated: 2026-10-10T07:58:56.916Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九文化區｜高層薪酬要調整？　收支結構可重構",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240717/890337798031151104985410.jpeg/ccoxsbuIfJCC9iW2pYuv-NBPiEZxX0KqMwRB6jMEQeo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398189/%E8%A5%BF%E4%B9%9D%E6%96%87%E5%8C%96%E5%8D%80-%E9%AB%98%E5%B1%A4%E8%96%AA%E9%85%AC%E8%A6%81%E8%AA%BF%E6%95%B4-%E6%94%B6%E6%94%AF%E7%B5%90%E6%A7%8B%E5%8F%AF%E9%87%8D%E6%A7%8B",
+    "timestamp": "2026-10-10T07:58:56.916Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "賴清德雙十演說｜北京仍是威脅　華府成了台灣更難處理的變數",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185468628200329216217406.png/nfiqzmel0xQX5o7KoXGSHQ_-FrjxxU8s0oZ7O9KGezs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398113/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%BB%E5%91%BDkatie-zacharia-%E5%87%BA%E4%BB%BB%E7%99%BD%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA",
     "timestamp": "2026-10-09T22:45:52.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日天晴炎熱　市區最高氣溫31度　未來數日天氣相若",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185468649389953024283945.jpeg/xvRtOl6_bYwPuNY4kT6svcdhuKkRAtgqQ-qMtXnqjLU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60398111/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB31%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E5%A4%A9%E6%B0%A3%E7%9B%B8%E8%8B%A5",
-    "timestamp": "2026-10-09T22:20:56.781Z",
     "strategy": ".content-card__main"
   }
 ];
