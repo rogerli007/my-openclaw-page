@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T22:44:48.330Z
+// Last updated: 2026-10-10T22:54:46.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣住宅變販毒中心　警檢值$636萬冰毒　40歲女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185835559134695424908216.jpeg/-u1AqZv4LncGmMNO4dG_h0WigUgdMlUPFrTxJxa08Sc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398367/%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2%E5%80%BC-636%E8%90%AC%E5%86%B0%E6%AF%92-40%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-10T22:54:46.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣住宅變販毒中心　警檢值$636萬冰毒　40歲女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185713865539719168519738.jpeg/QSZiNVYRP6akI2wFKkv1ohw5BNLl1b7yOZHyqDmR8qg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60398337/%E8%A8%B1%E5%BF%97%E5%AE%89%E6%BC%94%E5%94%B1%E6%9C%83-%E5%B0%BE%E5%A0%B4%E5%98%89%E8%B3%93%E5%BC%B5%E5%AD%B8%E5%8F%8B-%E6%8A%95%E8%A8%B4%E8%B2%B7%E5%94%94%E5%88%B0%E9%A3%9B-%E5%81%9A%E5%98%89%E8%B3%93%E6%9C%89%E5%9B%9B%E5%BC%B5",
     "timestamp": "2026-10-10T14:20:23.100Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播｜賴清德發表雙十演說　官媒播《台島『八卦』來了》抨擊台獨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141445988632760320870951.jpeg/YwNcW7rSkomvQcv752FHkMjXIBcEu8dtkuUiwZLlIsE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60398298/%E7%9B%B4%E6%92%AD-%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%99%BC%E8%A1%A8%E9%9B%99%E5%8D%81%E6%BC%94%E8%AA%AA-%E5%AE%98%E5%AA%92%E6%92%AD-%E5%8F%B0%E5%B3%B6-%E5%85%AB%E5%8D%A6-%E4%BE%86%E4%BA%86-%E6%8A%A8%E6%93%8A%E5%8F%B0%E7%8D%A8",
-    "timestamp": "2026-10-10T13:56:33.976Z",
     "strategy": ".content-card__main"
   }
 ];
