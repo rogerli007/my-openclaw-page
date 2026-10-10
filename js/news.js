@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T02:09:31.169Z
+// Last updated: 2026-10-10T02:48:12.364Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "如何識別「整理型頭肩底」　兩個重點簡單辦到｜聶振邦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185526733869158400487615.jpeg/mTytxJtvVbDHKURqTH_AlzaFIi22XhP_Mg0uN0QNLjc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60398123/%E5%A6%82%E4%BD%95%E8%AD%98%E5%88%A5-%E6%95%B4%E7%90%86%E5%9E%8B%E9%A0%AD%E8%82%A9%E5%BA%95-%E5%85%A9%E5%80%8B%E9%87%8D%E9%BB%9E%E7%B0%A1%E5%96%AE%E8%BE%A6%E5%88%B0-%E8%81%B6%E6%8C%AF%E9%82%A6",
+    "timestamp": "2026-10-10T02:48:12.364Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔚觀全局｜缺人，是否只有請外勞一個答案？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250826/1036943257528963072082546.jpeg/icSvcURQf_NQqsdwrMH7A9w8WCQYg7X-Uuvjl1Lr45c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398105/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%96%BD%E5%A3%93%E6%92%A4%E6%8F%9B%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B%E5%BA%AB%E5%85%8B-%E6%88%90%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%BF%E6%9F%A5%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0%E6%8C%87%E6%8E%A7",
     "timestamp": "2026-10-09T19:17:30.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普再施壓撤換聯儲局理事庫克　成立委員會調查虛假陳述指控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250826/1036943257528963072082546.jpeg/icSvcURQf_NQqsdwrMH7A9w8WCQYg7X-Uuvjl1Lr45c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398105/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%96%BD%E5%A3%93%E6%92%A4%E6%8F%9B%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B%E5%BA%AB%E5%85%8B-%E6%88%90%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%BF%E6%9F%A5%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0%E6%8C%87%E6%8E%A7",
-    "timestamp": "2026-10-09T18:50:29.112Z",
     "strategy": ".content-card__main"
   }
 ];
