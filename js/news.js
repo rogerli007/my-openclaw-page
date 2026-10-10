@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T04:29:13.273Z
+// Last updated: 2026-10-10T04:49:42.876Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "FX戰士久留美│女主阿媽炒外匯輸到跳樓輕生　投資族：胃痛恐怖片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185553053533605888165047.png/aulLKIH25f1EdURFr1s_8-ZExhNkg2_2NLvWajS71mo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398140/fx%E6%88%B0%E5%A3%AB%E4%B9%85%E7%95%99%E7%BE%8E-%E5%A5%B3%E4%B8%BB%E9%98%BF%E5%AA%BD%E7%82%92%E5%A4%96%E5%8C%AF%E8%BC%B8%E5%88%B0%E8%B7%B3%E6%A8%93%E8%BC%95%E7%94%9F-%E6%8A%95%E8%B3%87%E6%97%8F-%E8%83%83%E7%97%9B%E6%81%90%E6%80%96%E7%89%87",
+    "timestamp": "2026-10-10T04:49:42.876Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郵政改合約制｜政府研優先聘用受影響者　並提供轉職系試任期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185445345287475200894210.png/I4PeAsX_dbuOvGf3pbjhUt0PB3Yw8GuY0GOr9tBjq_Y",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398107/%E5%B1%AF%E5%85%AC%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E8%BB%8Acam-%E9%A6%96%E5%AE%97%E6%84%8F%E5%A4%96%E5%87%8C%E5%BF%97%E8%A2%AB%E6%8C%87%E8%82%87%E7%A6%8D-%E5%8F%B8%E6%A9%9F%E5%96%8A%E5%86%A4-%E5%89%8D%E8%BB%8A%E6%80%A5%E7%85%9E",
     "timestamp": "2026-10-09T20:24:48.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴拿馬發生7.7級地震　美國預警系統發海嘯警報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185429030296358912072839.jpeg/nonHaoZYNn9qEfrG7YCnNGpqdQNJ43KoLYMaSS2DGkk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398106/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%BE%8E%E5%9C%8B%E9%A0%90%E8%AD%A6%E7%B3%BB%E7%B5%B1%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1",
-    "timestamp": "2026-10-09T19:56:34.048Z",
     "strategy": ".content-card__main"
   }
 ];
