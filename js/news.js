@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T09:56:40.116Z
+// Last updated: 2026-10-10T10:19:53.864Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《黎彼得杯酒當歌致敬音樂會》12月舉行　眾星齊集重溫經典金句",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185614827427467264862043.jpeg/fc-puN9-574yZwzolpiIKeaamqbX_NB9w89SGcPPUhk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60398227/%E9%BB%8E%E5%BD%BC%E5%BE%97%E6%9D%AF%E9%85%92%E7%95%B6%E6%AD%8C%E8%87%B4%E6%95%AC%E9%9F%B3%E6%A8%82%E6%9C%83-12%E6%9C%88%E8%88%89%E8%A1%8C-%E7%9C%BE%E6%98%9F%E9%BD%8A%E9%9B%86%E9%87%8D%E6%BA%AB%E7%B6%93%E5%85%B8%E9%87%91%E5%8F%A5",
+    "timestamp": "2026-10-10T10:19:53.864Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "回應賴清德雙十演說　國台辦：罔顧事實、顛倒是非、用心叵測",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184931378744004608971234.jpeg/EMzIq52XAZCJF-MXnCR2_JEVpZvUSmggfLSAMHy0gDA?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60396478/%E8%94%9A%E8%A7%80%E5%85%A8%E5%B1%80-%E7%BC%BA%E4%BA%BA-%E6%98%AF%E5%90%A6%E5%8F%AA%E6%9C%89%E8%AB%8B%E5%A4%96%E5%8B%9E%E4%B8%80%E5%80%8B%E7%AD%94%E6%A1%88",
     "timestamp": "2026-10-10T02:09:31.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古代官員退休為何一定要告老還鄉？不是掛念鄉親父老　現實極殘酷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164557547764453376016795.jpeg/iMKW5P8GzmctaJKiB9sEIlIG4sWxq3uqdaua1XWrmtU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329961/%E5%8F%A4%E4%BB%A3%E5%AE%98%E5%93%A1%E9%80%80%E4%BC%91%E7%82%BA%E4%BD%95%E4%B8%80%E5%AE%9A%E8%A6%81%E5%91%8A%E8%80%81%E9%82%84%E9%84%89-%E4%B8%8D%E6%98%AF%E6%8E%9B%E5%BF%B5%E9%84%89%E8%A6%AA%E7%88%B6%E8%80%81-%E7%8F%BE%E5%AF%A6%E6%A5%B5%E6%AE%98%E9%85%B7",
-    "timestamp": "2026-10-10T01:39:55.917Z",
     "strategy": ".content-card__main"
   }
 ];
