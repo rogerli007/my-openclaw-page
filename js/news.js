@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T17:55:50.555Z
+// Last updated: 2026-10-10T18:49:14.017Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "擅闖灣仔一級歷史建築南固臺地盤　2男涉企圖爆竊被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185778029377359872769043.jpeg/jZg8dvO6yMho7UT1wPnblJNeQMj45PXDiMBikojAYpI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398359/%E6%93%85%E9%97%96%E7%81%A3%E4%BB%94%E4%B8%80%E7%B4%9A%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E5%8D%97%E5%9B%BA%E8%87%BA%E5%9C%B0%E7%9B%A4-2%E7%94%B7%E6%B6%89%E4%BC%81%E5%9C%96%E7%88%86%E7%AB%8A%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-10T18:49:14.017Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙灣街頭35歲男子頭部手腳受傷　半清醒送院治理　警調查案件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185626629418782720142703.jpeg/OrE3KmTnUaUsL0pMi4MukMGu92IOVokTngq_hp4Kv4Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398263/%E6%94%9D%E5%BD%B1%E5%B8%AB%E8%B5%B4%E6%B3%B0%E5%B7%A5%E4%BD%9C%E5%BE%8C%E5%A4%B1%E8%81%AF-%E6%9B%BE%E5%8F%83%E8%88%87%E5%A4%AE%E8%A6%96%E6%8B%8D%E6%94%9D-%E6%B1%82%E6%95%91%E7%A8%B1%E9%81%AD%E6%8B%90%E8%B3%A3%E9%9C%8015%E8%90%AC%E8%B4%96%E8%BA%AB",
     "timestamp": "2026-10-10T09:24:07.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乘客搭的士掃椅背二維碼付車資　司機稱是廣告須再付　運輸署回應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185635600682717184048295.png/aJEuPRL5NPTayBt7jOQV67eSH-MOCkaQVwzPwVcMz8E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397933/%E4%B9%98%E5%AE%A2%E6%90%AD%E7%9A%84%E5%A3%AB%E6%8E%83%E6%A4%85%E8%83%8C%E4%BA%8C%E7%B6%AD%E7%A2%BC%E4%BB%98%E8%BB%8A%E8%B3%87-%E5%8F%B8%E6%A9%9F%E7%A8%B1%E6%98%AF%E5%BB%A3%E5%91%8A%E9%A0%88%E5%86%8D%E4%BB%98-%E9%81%8B%E8%BC%B8%E7%BD%B2%E5%9B%9E%E6%87%89",
-    "timestamp": "2026-10-10T09:00:34.525Z",
     "strategy": ".content-card__main"
   }
 ];
