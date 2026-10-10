@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T11:23:40.229Z
+// Last updated: 2026-10-10T11:35:07.826Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "出遊AA制男友黑心賺價差　優惠券當出錢還索要油費　她看清秒分手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185591474922721280963574.png/VNoZihUVdgHMrhI8Qe0XdqjlIoR74bl5l7Fk6JexZOg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398206/%E5%87%BA%E9%81%8Aaa%E5%88%B6%E7%94%B7%E5%8F%8B%E9%BB%91%E5%BF%83%E8%B3%BA%E5%83%B9%E5%B7%AE-%E5%84%AA%E6%83%A0%E5%88%B8%E7%95%B6%E5%87%BA%E9%8C%A2%E9%82%84%E7%B4%A2%E8%A6%81%E6%B2%B9%E8%B2%BB-%E5%A5%B9%E7%9C%8B%E6%B8%85%E7%A7%92%E5%88%86%E6%89%8B",
+    "timestamp": "2026-10-10T11:35:07.826Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地單親媽網購羽絨藏針假受傷索償¥3000 　累計作案9宗涉3萬被拘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184526652898545664690128.jpeg/_LjkTtmX0OpQoi_3M_HRKVB-6fN7lgoT9P09K_T9PSs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60393757/%E5%9C%93%E6%96%B9%E5%B8%AF%E5%BA%83%E3%81%AF%E3%81%92%E5%A4%A9%E9%87%8D%E9%96%8B-%E5%8C%97%E6%B5%B7%E9%81%9390%E5%B9%B4%E8%80%81%E5%BA%97%E5%A2%9E%E8%A8%AD%E6%B4%BB%E6%B5%B7%E7%94%A2%E7%BC%B8-%E5%BF%85%E8%A9%A6%E9%BE%8D%E8%9D%A6%E4%B8%89%E9%A3%9F",
     "timestamp": "2026-10-10T03:07:05.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "如何識別「整理型頭肩底」　兩個重點簡單辦到｜聶振邦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185526733869158400487615.jpeg/mTytxJtvVbDHKURqTH_AlzaFIi22XhP_Mg0uN0QNLjc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60398123/%E5%A6%82%E4%BD%95%E8%AD%98%E5%88%A5-%E6%95%B4%E7%90%86%E5%9E%8B%E9%A0%AD%E8%82%A9%E5%BA%95-%E5%85%A9%E5%80%8B%E9%87%8D%E9%BB%9E%E7%B0%A1%E5%96%AE%E8%BE%A6%E5%88%B0-%E8%81%B6%E6%8C%AF%E9%82%A6",
-    "timestamp": "2026-10-10T02:48:12.364Z",
     "strategy": ".content-card__main"
   }
 ];
