@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T09:24:07.716Z
+// Last updated: 2026-10-10T09:56:40.116Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "回應賴清德雙十演說　國台辦：罔顧事實、顛倒是非、用心叵測",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141445988632760320870951.jpeg/YwNcW7rSkomvQcv752FHkMjXIBcEu8dtkuUiwZLlIsE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60398283/%E5%9B%9E%E6%87%89%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%9B%99%E5%8D%81%E6%BC%94%E8%AA%AA-%E5%9C%8B%E5%8F%B0%E8%BE%A6-%E7%BD%94%E9%A1%A7%E4%BA%8B%E5%AF%A6-%E9%A1%9B%E5%80%92%E6%98%AF%E9%9D%9E-%E7%94%A8%E5%BF%83%E5%8F%B5%E6%B8%AC",
+    "timestamp": "2026-10-10T09:56:40.116Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "攝影師赴泰工作後失聯　曾參與央視拍攝　求救稱遭拐賣需15萬贖身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164557547764453376016795.jpeg/iMKW5P8GzmctaJKiB9sEIlIG4sWxq3uqdaua1XWrmtU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329961/%E5%8F%A4%E4%BB%A3%E5%AE%98%E5%93%A1%E9%80%80%E4%BC%91%E7%82%BA%E4%BD%95%E4%B8%80%E5%AE%9A%E8%A6%81%E5%91%8A%E8%80%81%E9%82%84%E9%84%89-%E4%B8%8D%E6%98%AF%E6%8E%9B%E5%BF%B5%E9%84%89%E8%A6%AA%E7%88%B6%E8%80%81-%E7%8F%BE%E5%AF%A6%E6%A5%B5%E6%AE%98%E9%85%B7",
     "timestamp": "2026-10-10T01:39:55.917Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB才女進軍內地做短劇女主角演媽媽　七情上面喊到崩潰演技炸裂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185266411652517888965127.jpeg/goB9SZk4SIjwfLhVwn9a12zvTWfQbAZ3C-rIawvqyGs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362237/%E5%90%B3%E6%B2%9A%E9%BB%98%E9%80%B2%E8%BB%8D%E5%85%A7%E5%9C%B0%E5%81%9A%E7%9F%AD%E5%8A%87%E5%A5%B3%E4%B8%BB%E8%A7%92%E6%BC%94%E5%AA%BD%E5%AA%BD-%E4%B8%83%E6%83%85%E4%B8%8A%E9%9D%A2%E5%96%8A%E5%88%B0%E5%B4%A9%E6%BD%B0%E6%BC%94%E6%8A%80%E7%82%B8%E8%A3%82",
-    "timestamp": "2026-10-10T00:52:45.711Z",
     "strategy": ".content-card__main"
   }
 ];
