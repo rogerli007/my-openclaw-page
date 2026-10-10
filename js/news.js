@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T05:47:19.896Z
+// Last updated: 2026-10-10T05:58:24.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "豬肉抗生素超標37.5倍遭重罰1.2億　雙匯發展再致歉：誠懇接受",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185583368566214656079528.jpeg/DkGmZHdw11qI4DYpzfJ6vmQxgwofafHjVRdhM1UXYTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398192/%E8%B1%AC%E8%82%89%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A8%9937-5%E5%80%8D%E9%81%AD%E9%87%8D%E7%BD%B01-2%E5%84%84-%E9%9B%99%E5%8C%AF%E7%99%BC%E5%B1%95%E5%86%8D%E8%87%B4%E6%AD%89-%E8%AA%A0%E6%87%87%E6%8E%A5%E5%8F%97",
+    "timestamp": "2026-10-10T05:58:24.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星丨罕談相識兩日認定老公秘辛　重溫初出道與天王合作片段",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185460744708165632812349.png/kik1u57jNw-RoA0Jvj0gFzdjDeZilB_Ha3IqkmtyKpI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398110/%E6%AD%90%E7%9B%9F%E7%A8%B1%E8%88%87%E4%B8%AD%E5%9C%8B%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%B8%AD%E5%9C%8B%E6%B7%B7%E8%83%BD%E8%BB%8A%E5%B0%8D%E6%AD%90%E5%87%BA%E5%8F%A3%E6%88%96%E6%9C%89%E6%9C%9B%E6%B8%9B%E5%B0%91%E4%B8%80%E5%8D%8A",
     "timestamp": "2026-10-09T21:37:17.183Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普與普京達成共識　俄羅斯將立即向美國及全球供應30萬噸柴油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250816/1033341214251814912315264.jpeg/I55ZyuySPhVESkU7kQsCXXZvrShnwq1A5uJRXebiUV0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398109/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E6%99%AE%E4%BA%AC%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%87%E7%AB%8B%E5%8D%B3%E5%90%91%E7%BE%8E%E5%9C%8B%E5%8F%8A%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%8930%E8%90%AC%E5%99%B8%E6%9F%B4%E6%B2%B9",
-    "timestamp": "2026-10-09T21:19:24.996Z",
     "strategy": ".content-card__main"
   }
 ];
