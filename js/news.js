@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T16:57:13.927Z
+// Last updated: 2026-10-10T17:44:51.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣街頭35歲男子頭部手腳受傷　半清醒送院治理　警調查案件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185765993457127424624807.jpeg/6fDbRW9kM0AwEQu7vVAfVkeSH7egm-A93KR7XOake1w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398355/%E9%95%B7%E6%B2%99%E7%81%A3%E8%A1%97%E9%A0%AD35%E6%AD%B2%E7%94%B7%E5%AD%90%E9%A0%AD%E9%83%A8%E6%89%8B%E8%85%B3%E5%8F%97%E5%82%B7-%E5%8D%8A%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%A1%88%E4%BB%B6",
+    "timestamp": "2026-10-10T17:44:51.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吉澳十年一度大醮周日開鑼　3000村民重聚　七旬村長冀吸青年傳承",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185605398317502464157032.png/MKk1hkxoC5JteYQVWmQ8O8FCHFdGkrXP5NtCiOTbQog?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398186/%E7%8F%BE%E5%9C%A8%E4%B8%8D%E6%98%AF%E5%87%BA%E8%BB%8C%E7%9A%84%E5%95%8F%E9%A1%8C-%E7%BF%BB%E7%B4%85-%E9%87%91%E6%86%93%E7%A7%80%E6%9B%B9%E6%B1%9D%E8%B2%9E%E4%BA%A4%E5%8F%89%E5%81%B7%E6%83%85%E8%AE%8A%E5%9F%8B%E5%B1%8D-%E5%A4%AA%E7%99%B2",
     "timestamp": "2026-10-10T08:54:32.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸｜陳國基主持跨部門會議　籲市民勿一窩蜂參觀「打卡」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185608282320932864534928.jpeg/vRQ6EV53_mDxHRNeTTXGAKhvdXqDRet14d8HueHfB7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398234/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%99%B3%E5%9C%8B%E5%9F%BA%E4%B8%BB%E6%8C%81%E8%B7%A8%E9%83%A8%E9%96%80%E6%9C%83%E8%AD%B0-%E7%B1%B2%E5%B8%82%E6%B0%91%E5%8B%BF%E4%B8%80%E7%AA%A9%E8%9C%82%E5%8F%83%E8%A7%80-%E6%89%93%E5%8D%A1",
-    "timestamp": "2026-10-10T08:25:27.827Z",
     "strategy": ".content-card__main"
   }
 ];
