@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T07:27:16.529Z
+// Last updated: 2026-10-10T07:48:00.410Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賴清德雙十演說｜北京仍是威脅　華府成了台灣更難處理的變數",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185549945067802624657803.png/VEavMcY0PYyBiZCd-85M2HhncHtynF2NFx22hRcdtoU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60398236/%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%9B%99%E5%8D%81%E6%BC%94%E8%AA%AA-%E5%8C%97%E4%BA%AC%E4%BB%8D%E6%98%AF%E5%A8%81%E8%84%85-%E8%8F%AF%E5%BA%9C%E6%88%90%E4%BA%86%E5%8F%B0%E7%81%A3%E6%9B%B4%E9%9B%A3%E8%99%95%E7%90%86%E7%9A%84%E8%AE%8A%E6%95%B8",
+    "timestamp": "2026-10-10T07:48:00.410Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼山火持續　新加坡：隨時準備協助印尼應對煙霾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185468649389953024283945.jpeg/xvRtOl6_bYwPuNY4kT6svcdhuKkRAtgqQ-qMtXnqjLU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60398111/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E7%82%8E%E7%86%B1-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB31%E5%BA%A6-%E6%9C%AA%E4%BE%86%E6%95%B8%E6%97%A5%E5%A4%A9%E6%B0%A3%E7%9B%B8%E8%8B%A5",
     "timestamp": "2026-10-09T22:20:56.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟稱與中國達成共識　中國混能車對歐出口或有望減少一半",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185460744708165632812349.png/kik1u57jNw-RoA0Jvj0gFzdjDeZilB_Ha3IqkmtyKpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398110/%E6%AD%90%E7%9B%9F%E7%A8%B1%E8%88%87%E4%B8%AD%E5%9C%8B%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%B8%AD%E5%9C%8B%E6%B7%B7%E8%83%BD%E8%BB%8A%E5%B0%8D%E6%AD%90%E5%87%BA%E5%8F%A3%E6%88%96%E6%9C%89%E6%9C%9B%E6%B8%9B%E5%B0%91%E4%B8%80%E5%8D%8A",
-    "timestamp": "2026-10-09T21:59:00.457Z",
     "strategy": ".content-card__main"
   }
 ];
