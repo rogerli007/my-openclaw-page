@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T20:20:22.352Z
+// Last updated: 2026-10-10T20:46:12.206Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國約克郡野生動物園慘劇　男子闖老虎園區遇襲傷重不治｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185808505395744768023768.jpeg/mhD_81HSN0f0h8A_fqk3GG6ptrIqVD85XkUM0F5FDNA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398362/%E8%8B%B1%E5%9C%8B%E7%B4%84%E5%85%8B%E9%83%A1%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E5%9C%92%E6%85%98%E5%8A%87-%E7%94%B7%E5%AD%90%E9%97%96%E8%80%81%E8%99%8E%E5%9C%92%E5%8D%80%E9%81%87%E8%A5%B2%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-10T20:46:12.206Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣酒吧男酒客被至少兩男用刀襲擊　送院治理　疑犯在逃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185676968826245120342960.jpeg/TOBgjWSWSd1ynA6HxJ33-uFqP7Amk32oObhNjDm4TYw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398310/%E5%BC%B5%E8%87%B4%E6%81%92%E5%80%9F7%E8%90%AC%E6%8B%964%E5%B9%B4%E6%9B%B4%E6%8A%B9%E9%BB%91%E5%82%B5%E4%B8%BB-%E7%96%8A%E7%A2%BC%E4%BB%94-%E5%A5%BD%E5%BF%83%E4%BA%BA%E5%87%BA%E6%89%8B%E4%BB%A3%E9%82%84%E5%8D%BB%E8%A2%AB%E9%82%80%E5%8A%9F",
     "timestamp": "2026-10-10T12:28:08.292Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "出遊AA制男友黑心賺價差　優惠券當出錢還索要油費　她看清秒分手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185591474922721280963574.png/VNoZihUVdgHMrhI8Qe0XdqjlIoR74bl5l7Fk6JexZOg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398206/%E5%87%BA%E9%81%8Aaa%E5%88%B6%E7%94%B7%E5%8F%8B%E9%BB%91%E5%BF%83%E8%B3%BA%E5%83%B9%E5%B7%AE-%E5%84%AA%E6%83%A0%E5%88%B8%E7%95%B6%E5%87%BA%E9%8C%A2%E9%82%84%E7%B4%A2%E8%A6%81%E6%B2%B9%E8%B2%BB-%E5%A5%B9%E7%9C%8B%E6%B8%85%E7%A7%92%E5%88%86%E6%89%8B",
-    "timestamp": "2026-10-10T11:35:07.826Z",
     "strategy": ".content-card__main"
   }
 ];
