@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T10:19:53.864Z
+// Last updated: 2026-10-10T11:23:40.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地單親媽網購羽絨藏針假受傷索償¥3000 　累計作案9宗涉3萬被拘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185626585877712896510497.jpeg/pPzZPGYkTeQIFdv7AA6mlqPCtbEZ4pFL9V5TtfVeU7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60398284/%E5%85%A7%E5%9C%B0%E5%96%AE%E8%A6%AA%E5%AA%BD%E7%B6%B2%E8%B3%BC%E7%BE%BD%E7%B5%A8%E8%97%8F%E9%87%9D%E5%81%87%E5%8F%97%E5%82%B7%E7%B4%A2%E5%84%9F-3000-%E7%B4%AF%E8%A8%88%E4%BD%9C%E6%A1%889%E5%AE%97%E6%B6%893%E8%90%AC%E8%A2%AB%E6%8B%98",
+    "timestamp": "2026-10-10T11:23:40.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《黎彼得杯酒當歌致敬音樂會》12月舉行　眾星齊集重溫經典金句",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185526733869158400487615.jpeg/mTytxJtvVbDHKURqTH_AlzaFIi22XhP_Mg0uN0QNLjc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60398123/%E5%A6%82%E4%BD%95%E8%AD%98%E5%88%A5-%E6%95%B4%E7%90%86%E5%9E%8B%E9%A0%AD%E8%82%A9%E5%BA%95-%E5%85%A9%E5%80%8B%E9%87%8D%E9%BB%9E%E7%B0%A1%E5%96%AE%E8%BE%A6%E5%88%B0-%E8%81%B6%E6%8C%AF%E9%82%A6",
     "timestamp": "2026-10-10T02:48:12.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔚觀全局｜缺人，是否只有請外勞一個答案？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184931378744004608971234.jpeg/EMzIq52XAZCJF-MXnCR2_JEVpZvUSmggfLSAMHy0gDA?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60396478/%E8%94%9A%E8%A7%80%E5%85%A8%E5%B1%80-%E7%BC%BA%E4%BA%BA-%E6%98%AF%E5%90%A6%E5%8F%AA%E6%9C%89%E8%AB%8B%E5%A4%96%E5%8B%9E%E4%B8%80%E5%80%8B%E7%AD%94%E6%A1%88",
-    "timestamp": "2026-10-10T02:09:31.169Z",
     "strategy": ".content-card__main"
   }
 ];
