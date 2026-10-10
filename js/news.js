@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T14:54:52.306Z
+// Last updated: 2026-10-10T15:21:25.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "逾1.2億外判6泳池救生服務惹工會投訴浪費資源　康文署稱成效理想",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220422/594219915230318592576491.jpeg/GMsRxqgfZSKrxT9Bs4v9Z0739A6CE5FQwRKpzMESqcw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398321/%E9%80%BE1-2%E5%84%84%E5%A4%96%E5%88%A46%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E6%9C%8D%E5%8B%99%E6%83%B9%E5%B7%A5%E6%9C%83%E6%8A%95%E8%A8%B4%E6%B5%AA%E8%B2%BB%E8%B3%87%E6%BA%90-%E5%BA%B7%E6%96%87%E7%BD%B2%E7%A8%B1%E6%88%90%E6%95%88%E7%90%86%E6%83%B3",
+    "timestamp": "2026-10-10T15:21:25.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳懿德峇里曬比堅尼騷好身材　與羅天宇出席譚嘉儀婚禮被爆好事近",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185549945067802624657803.png/VEavMcY0PYyBiZCd-85M2HhncHtynF2NFx22hRcdtoU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60398199/%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%A8%B1%E6%A8%82%E8%A6%8B%E4%B8%AD%E7%BE%8E%E5%B0%8D%E8%A9%B1-%E6%89%B9%E4%BA%8C%E6%88%B0%E6%AD%B7%E5%8F%B2%E9%81%AD%E6%89%AD%E6%9B%B2-%E8%97%8D%E7%87%9F%E6%89%B9-%E8%87%AA%E5%B7%B1%E5%BF%BD%E7%95%A5%E6%AD%B7%E5%8F%B2",
     "timestamp": "2026-10-10T06:31:53.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "豬肉抗生素超標37.5倍遭重罰1.2億　雙匯發展再致歉：誠懇接受",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185583368566214656079528.jpeg/DkGmZHdw11qI4DYpzfJ6vmQxgwofafHjVRdhM1UXYTM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398192/%E8%B1%AC%E8%82%89%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A8%9937-5%E5%80%8D%E9%81%AD%E9%87%8D%E7%BD%B01-2%E5%84%84-%E9%9B%99%E5%8C%AF%E7%99%BC%E5%B1%95%E5%86%8D%E8%87%B4%E6%AD%89-%E8%AA%A0%E6%87%87%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-10-10T05:58:24.234Z",
     "strategy": ".content-card__main"
   }
 ];
