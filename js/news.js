@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T05:58:24.234Z
+// Last updated: 2026-10-10T06:31:53.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "賴清德稱樂見中美對話、批二戰歷史遭扭曲　藍營批：自己忽略歷史",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185549945067802624657803.png/VEavMcY0PYyBiZCd-85M2HhncHtynF2NFx22hRcdtoU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60398199/%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%A8%B1%E6%A8%82%E8%A6%8B%E4%B8%AD%E7%BE%8E%E5%B0%8D%E8%A9%B1-%E6%89%B9%E4%BA%8C%E6%88%B0%E6%AD%B7%E5%8F%B2%E9%81%AD%E6%89%AD%E6%9B%B2-%E8%97%8D%E7%87%9F%E6%89%B9-%E8%87%AA%E5%B7%B1%E5%BF%BD%E7%95%A5%E6%AD%B7%E5%8F%B2",
+    "timestamp": "2026-10-10T06:31:53.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "豬肉抗生素超標37.5倍遭重罰1.2億　雙匯發展再致歉：誠懇接受",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185460744708165632812349.png/kik1u57jNw-RoA0Jvj0gFzdjDeZilB_Ha3IqkmtyKpI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398110/%E6%AD%90%E7%9B%9F%E7%A8%B1%E8%88%87%E4%B8%AD%E5%9C%8B%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%B8%AD%E5%9C%8B%E6%B7%B7%E8%83%BD%E8%BB%8A%E5%B0%8D%E6%AD%90%E5%87%BA%E5%8F%A3%E6%88%96%E6%9C%89%E6%9C%9B%E6%B8%9B%E5%B0%91%E4%B8%80%E5%8D%8A",
     "timestamp": "2026-10-09T21:48:50.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐盟稱與中國達成共識　中國混能車對歐出口或有望減少一半",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185460744708165632812349.png/kik1u57jNw-RoA0Jvj0gFzdjDeZilB_Ha3IqkmtyKpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398110/%E6%AD%90%E7%9B%9F%E7%A8%B1%E8%88%87%E4%B8%AD%E5%9C%8B%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%B8%AD%E5%9C%8B%E6%B7%B7%E8%83%BD%E8%BB%8A%E5%B0%8D%E6%AD%90%E5%87%BA%E5%8F%A3%E6%88%96%E6%9C%89%E6%9C%9B%E6%B8%9B%E5%B0%91%E4%B8%80%E5%8D%8A",
-    "timestamp": "2026-10-09T21:37:17.183Z",
     "strategy": ".content-card__main"
   }
 ];
