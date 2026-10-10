@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T19:54:21.658Z
+// Last updated: 2026-10-10T20:20:22.352Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣酒吧男酒客被至少兩男用刀襲擊　送院治理　疑犯在逃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185802312124207104190628.jpeg/RlMzqCsgY8gOCSIcn7ndzolplI1jjtCehvefRLz3n0Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398360/%E8%8D%83%E7%81%A3%E9%85%92%E5%90%A7%E7%94%B7%E9%85%92%E5%AE%A2%E8%A2%AB%E8%87%B3%E5%B0%91%E5%85%A9%E7%94%B7%E7%94%A8%E5%88%80%E8%A5%B2%E6%93%8A-%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E7%96%91%E7%8A%AF%E5%9C%A8%E9%80%83",
+    "timestamp": "2026-10-10T20:20:22.352Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵深水埗站男子遇查　爆粗罵警：我唔係Kai　收告票被捕｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185591474922721280963574.png/VNoZihUVdgHMrhI8Qe0XdqjlIoR74bl5l7Fk6JexZOg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398206/%E5%87%BA%E9%81%8Aaa%E5%88%B6%E7%94%B7%E5%8F%8B%E9%BB%91%E5%BF%83%E8%B3%BA%E5%83%B9%E5%B7%AE-%E5%84%AA%E6%83%A0%E5%88%B8%E7%95%B6%E5%87%BA%E9%8C%A2%E9%82%84%E7%B4%A2%E8%A6%81%E6%B2%B9%E8%B2%BB-%E5%A5%B9%E7%9C%8B%E6%B8%85%E7%A7%92%E5%88%86%E6%89%8B",
     "timestamp": "2026-10-10T11:35:07.826Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地單親媽網購羽絨藏針假受傷索償¥3000 　累計作案9宗涉3萬被拘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185626585877712896510497.jpeg/pPzZPGYkTeQIFdv7AA6mlqPCtbEZ4pFL9V5TtfVeU7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60398284/%E5%85%A7%E5%9C%B0%E5%96%AE%E8%A6%AA%E5%AA%BD%E7%B6%B2%E8%B3%BC%E7%BE%BD%E7%B5%A8%E8%97%8F%E9%87%9D%E5%81%87%E5%8F%97%E5%82%B7%E7%B4%A2%E5%84%9F-3000-%E7%B4%AF%E8%A8%88%E4%BD%9C%E6%A1%889%E5%AE%97%E6%B6%893%E8%90%AC%E8%A2%AB%E6%8B%98",
-    "timestamp": "2026-10-10T11:23:40.229Z",
     "strategy": ".content-card__main"
   }
 ];
