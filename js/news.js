@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T23:34:30.704Z
+// Last updated: 2026-10-10T23:46:52.060Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國女死囚打毒針後奇蹟生還　已出院被送回曾關押30年監獄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398369/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E6%AD%BB%E5%9B%9A%E6%89%93%E6%AF%92%E9%87%9D%E5%BE%8C%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84-%E5%B7%B2%E5%87%BA%E9%99%A2%E8%A2%AB%E9%80%81%E5%9B%9E%E6%9B%BE%E9%97%9C%E6%8A%BC30%E5%B9%B4%E7%9B%A3%E7%8D%84",
+    "timestamp": "2026-10-10T23:46:52.060Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安徽雲端天梯爆紅　直面365米深谷　景區拒網售：現場看清再決定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887723102128050176258901.jpeg/MZTr91PoPOn0CmsXc_xg19Zn_QZEYPkFy5WLCcuViwk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398326/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%BD%E6%93%8A%E5%B8%8C%E6%8B%89%E9%87%8C-%E5%90%91%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E6%8F%90%E8%AB%8B%E6%81%A2%E5%BE%A9%E8%A8%B4%E8%A8%9F",
     "timestamp": "2026-10-10T15:48:19.215Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "逾1.2億外判6泳池救生服務惹工會投訴浪費資源　康文署稱成效理想",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220422/594219915230318592576491.jpeg/GMsRxqgfZSKrxT9Bs4v9Z0739A6CE5FQwRKpzMESqcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398321/%E9%80%BE1-2%E5%84%84%E5%A4%96%E5%88%A46%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E6%9C%8D%E5%8B%99%E6%83%B9%E5%B7%A5%E6%9C%83%E6%8A%95%E8%A8%B4%E6%B5%AA%E8%B2%BB%E8%B3%87%E6%BA%90-%E5%BA%B7%E6%96%87%E7%BD%B2%E7%A8%B1%E6%88%90%E6%95%88%E7%90%86%E6%83%B3",
-    "timestamp": "2026-10-10T15:21:25.974Z",
     "strategy": ".content-card__main"
   }
 ];
