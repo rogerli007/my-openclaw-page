@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-09T23:59:50.325Z
+// Last updated: 2026-10-10T00:52:45.711Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB才女進軍內地做短劇女主角演媽媽　七情上面喊到崩潰演技炸裂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185266411652517888965127.jpeg/goB9SZk4SIjwfLhVwn9a12zvTWfQbAZ3C-rIawvqyGs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60362237/%E5%90%B3%E6%B2%9A%E9%BB%98%E9%80%B2%E8%BB%8D%E5%85%A7%E5%9C%B0%E5%81%9A%E7%9F%AD%E5%8A%87%E5%A5%B3%E4%B8%BB%E8%A7%92%E6%BC%94%E5%AA%BD%E5%AA%BD-%E4%B8%83%E6%83%85%E4%B8%8A%E9%9D%A2%E5%96%8A%E5%88%B0%E5%B4%A9%E6%BD%B0%E6%BC%94%E6%8A%80%E7%82%B8%E8%A3%82",
+    "timestamp": "2026-10-10T00:52:45.711Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SpaceX佈局低頻段頻譜　分析師：馬斯克終究會推出手機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185399186347003904970463.jpeg/OP-spdKKPTEYbO8f7UzoBN_PVWIejFSRdFN0HXRTdB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398104/%E8%B7%A8%E9%83%A8%E9%96%80150%E4%BA%BA%E7%8D%85%E5%AD%90%E5%B1%B1%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC25%E4%BA%BA%E9%81%87%E5%B1%B1%E7%81%AB-%E9%A6%96%E7%94%A8%E5%A4%A7%E5%9E%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8A%95%E6%B0%B4%E5%BD%88",
     "timestamp": "2026-10-09T17:56:02.884Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門150人獅子山演習　模擬25人遇山火　首用大型無人機投水彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185399186347003904970463.jpeg/OP-spdKKPTEYbO8f7UzoBN_PVWIejFSRdFN0HXRTdB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398104/%E8%B7%A8%E9%83%A8%E9%96%80150%E4%BA%BA%E7%8D%85%E5%AD%90%E5%B1%B1%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC25%E4%BA%BA%E9%81%87%E5%B1%B1%E7%81%AB-%E9%A6%96%E7%94%A8%E5%A4%A7%E5%9E%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8A%95%E6%B0%B4%E5%BD%88",
-    "timestamp": "2026-10-09T17:45:34.375Z",
     "strategy": ".content-card__main"
   }
 ];
