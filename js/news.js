@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T08:54:32.842Z
+// Last updated: 2026-10-10T09:00:34.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乘客搭的士掃椅背二維碼付車資　司機稱是廣告須再付　運輸署回應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185635600682717184048295.png/aJEuPRL5NPTayBt7jOQV67eSH-MOCkaQVwzPwVcMz8E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397933/%E4%B9%98%E5%AE%A2%E6%90%AD%E7%9A%84%E5%A3%AB%E6%8E%83%E6%A4%85%E8%83%8C%E4%BA%8C%E7%B6%AD%E7%A2%BC%E4%BB%98%E8%BB%8A%E8%B3%87-%E5%8F%B8%E6%A9%9F%E7%A8%B1%E6%98%AF%E5%BB%A3%E5%91%8A%E9%A0%88%E5%86%8D%E4%BB%98-%E9%81%8B%E8%BC%B8%E7%BD%B2%E5%9B%9E%E6%87%89",
+    "timestamp": "2026-10-10T09:00:34.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《現在不是出軌的問題》翻紅！金憓秀曹汝貞交叉偷情變埋屍：太癲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177260318808608768395127.jpeg/iNfjRslTtiae6n9XGO-TXIOKxUnixHoOSj3h2ko94do?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60398118/spacex%E4%BD%88%E5%B1%80%E4%BD%8E%E9%A0%BB%E6%AE%B5%E9%A0%BB%E8%AD%9C-%E5%88%86%E6%9E%90%E5%B8%AB-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%B5%82%E7%A9%B6%E6%9C%83%E6%8E%A8%E5%87%BA%E6%89%8B%E6%A9%9F",
     "timestamp": "2026-10-09T23:59:50.325Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "50歲男胃痛3年當胃炎！驚罹「癌王」胰臟癌　醫提背痛消瘦4大警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181264261184229376935842.jpeg/8z6nnaR9U3tywRry_QgT8vfKom4Vot-f9D1XG_Q9Vxs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60393897/50%E6%AD%B2%E7%94%B7%E8%83%83%E7%97%9B3%E5%B9%B4%E7%95%B6%E8%83%83%E7%82%8E-%E9%A9%9A%E7%BD%B9-%E7%99%8C%E7%8E%8B-%E8%83%B0%E8%87%9F%E7%99%8C-%E9%86%AB%E6%8F%90%E8%83%8C%E7%97%9B%E6%B6%88%E7%98%A64%E5%A4%A7%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-10-09T23:34:59.181Z",
     "strategy": ".content-card__main"
   }
 ];
