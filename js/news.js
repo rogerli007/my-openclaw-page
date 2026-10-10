@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T05:01:41.883Z
+// Last updated: 2026-10-10T05:23:59.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "10年前持加拿大護照赴台！港女生：可否用特區護照入台　網民解答",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184701054558670848058237.png/-1nlaw41o-SBf8w1Az0YNzmPpyiBH8AWKFO0hyhTtIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397334/10%E5%B9%B4%E5%89%8D%E6%8C%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%AD%B7%E7%85%A7%E8%B5%B4%E5%8F%B0-%E6%B8%AF%E5%A5%B3%E7%94%9F-%E5%8F%AF%E5%90%A6%E7%94%A8%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E5%85%A5%E5%8F%B0-%E7%B6%B2%E6%B0%91%E8%A7%A3%E7%AD%94",
+    "timestamp": "2026-10-10T05:23:59.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "FX戰士久留美│女主阿媽炒外匯輸到跳樓輕生　投資族：胃痛恐怖片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250816/1033341214251814912315264.jpeg/I55ZyuySPhVESkU7kQsCXXZvrShnwq1A5uJRXebiUV0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398109/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E6%99%AE%E4%BA%AC%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%87%E7%AB%8B%E5%8D%B3%E5%90%91%E7%BE%8E%E5%9C%8B%E5%8F%8A%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%8930%E8%90%AC%E5%99%B8%E6%9F%B4%E6%B2%B9",
     "timestamp": "2026-10-09T20:59:13.803Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普與普京達成共識　俄羅斯將立即向美國及全球供應30萬噸柴油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250816/1033341214251814912315264.jpeg/I55ZyuySPhVESkU7kQsCXXZvrShnwq1A5uJRXebiUV0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398109/%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E6%99%AE%E4%BA%AC%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98-%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%87%E7%AB%8B%E5%8D%B3%E5%90%91%E7%BE%8E%E5%9C%8B%E5%8F%8A%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%8930%E8%90%AC%E5%99%B8%E6%9F%B4%E6%B2%B9",
-    "timestamp": "2026-10-09T20:47:21.329Z",
     "strategy": ".content-card__main"
   }
 ];
