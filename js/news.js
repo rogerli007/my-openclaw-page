@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T12:53:07.165Z
+// Last updated: 2026-10-10T13:18:57.017Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭欽文晉級女單決賽　刷新個人中網最佳戰績　明晚戰法網冠軍爭冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185696410901680128924038.png/kHIz-9EFwJJM1kAqDB9EhZFwo_9_cEt-OjZzajo2c2o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398324/%E9%84%AD%E6%AC%BD%E6%96%87%E6%99%89%E7%B4%9A%E5%A5%B3%E5%96%AE%E6%B1%BA%E8%B3%BD-%E5%88%B7%E6%96%B0%E5%80%8B%E4%BA%BA%E4%B8%AD%E7%B6%B2%E6%9C%80%E4%BD%B3%E6%88%B0%E7%B8%BE-%E6%98%8E%E6%99%9A%E6%88%B0%E6%B3%95%E7%B6%B2%E5%86%A0%E8%BB%8D%E7%88%AD%E5%86%A0",
+    "timestamp": "2026-10-10T13:18:57.017Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "崔碧珈懶理與Rocky感情糾紛　五星級酒店大解放曬性感出浴照",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185553053533605888165047.png/aulLKIH25f1EdURFr1s_8-ZExhNkg2_2NLvWajS71mo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398140/fx%E6%88%B0%E5%A3%AB%E4%B9%85%E7%95%99%E7%BE%8E-%E5%A5%B3%E4%B8%BB%E9%98%BF%E5%AA%BD%E7%82%92%E5%A4%96%E5%8C%AF%E8%BC%B8%E5%88%B0%E8%B7%B3%E6%A8%93%E8%BC%95%E7%94%9F-%E6%8A%95%E8%B3%87%E6%97%8F-%E8%83%83%E7%97%9B%E6%81%90%E6%80%96%E7%89%87",
     "timestamp": "2026-10-10T04:49:42.876Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郵政改合約制｜政府研優先聘用受影響者　並提供轉職系試任期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382909712502784984256.jpeg/lQt6sShaHV4Zs7KULUDVV7BlLfBF4oOfJIX8tySF_Lc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398174/%E9%83%B5%E6%94%BF%E6%94%B9%E5%90%88%E7%B4%84%E5%88%B6-%E6%94%BF%E5%BA%9C%E7%A0%94%E5%84%AA%E5%85%88%E8%81%98%E7%94%A8%E5%8F%97%E5%BD%B1%E9%9F%BF%E8%80%85-%E4%B8%A6%E6%8F%90%E4%BE%9B%E8%BD%89%E8%81%B7%E7%B3%BB%E8%A9%A6%E4%BB%BB%E6%9C%9F",
-    "timestamp": "2026-10-10T04:29:13.273Z",
     "strategy": ".content-card__main"
   }
 ];
