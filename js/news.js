@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T08:25:27.827Z
+// Last updated: 2026-10-10T08:54:32.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《現在不是出軌的問題》翻紅！金憓秀曹汝貞交叉偷情變埋屍：太癲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185605398317502464157032.png/MKk1hkxoC5JteYQVWmQ8O8FCHFdGkrXP5NtCiOTbQog?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398186/%E7%8F%BE%E5%9C%A8%E4%B8%8D%E6%98%AF%E5%87%BA%E8%BB%8C%E7%9A%84%E5%95%8F%E9%A1%8C-%E7%BF%BB%E7%B4%85-%E9%87%91%E6%86%93%E7%A7%80%E6%9B%B9%E6%B1%9D%E8%B2%9E%E4%BA%A4%E5%8F%89%E5%81%B7%E6%83%85%E8%AE%8A%E5%9F%8B%E5%B1%8D-%E5%A4%AA%E7%99%B2",
+    "timestamp": "2026-10-10T08:54:32.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸｜陳國基主持跨部門會議　籲市民勿一窩蜂參觀「打卡」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181264261184229376935842.jpeg/8z6nnaR9U3tywRry_QgT8vfKom4Vot-f9D1XG_Q9Vxs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60393897/50%E6%AD%B2%E7%94%B7%E8%83%83%E7%97%9B3%E5%B9%B4%E7%95%B6%E8%83%83%E7%82%8E-%E9%A9%9A%E7%BD%B9-%E7%99%8C%E7%8E%8B-%E8%83%B0%E8%87%9F%E7%99%8C-%E9%86%AB%E6%8F%90%E8%83%8C%E7%97%9B%E6%B6%88%E7%98%A64%E5%A4%A7%E8%AD%A6%E8%99%9F",
     "timestamp": "2026-10-09T23:34:59.181Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗女子疑進食鯁喉　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185481455061438464794528.jpeg/Ly3iTpvLYVUT8GJLhWrCvngouYEDom1Qlmmy9qxpsvY",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398114/%E5%85%83%E6%9C%97%E5%A5%B3%E5%AD%90%E7%96%91%E9%80%B2%E9%A3%9F%E9%AF%81%E5%96%89-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-10-09T22:57:11.190Z",
     "strategy": ".content-card__main"
   }
 ];
