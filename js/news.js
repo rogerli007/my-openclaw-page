@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T15:21:25.974Z
+// Last updated: 2026-10-10T15:48:19.215Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普追擊希拉里　向最高法院提請恢復訴訟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240710/887723102128050176258901.jpeg/MZTr91PoPOn0CmsXc_xg19Zn_QZEYPkFy5WLCcuViwk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398326/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%BD%E6%93%8A%E5%B8%8C%E6%8B%89%E9%87%8C-%E5%90%91%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E6%8F%90%E8%AB%8B%E6%81%A2%E5%BE%A9%E8%A8%B4%E8%A8%9F",
+    "timestamp": "2026-10-10T15:48:19.215Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "逾1.2億外判6泳池救生服務惹工會投訴浪費資源　康文署稱成效理想",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185610042011815936139682.jpeg/mfGjqBLEwQNqzBxzFJp2KMgWSUnTFVJvS6DXNEug1zQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398224/%E5%8D%B0%E5%B0%BC%E5%B1%B1%E7%81%AB%E6%8C%81%E7%BA%8C-%E6%96%B0%E5%8A%A0%E5%9D%A1-%E9%9A%A8%E6%99%82%E6%BA%96%E5%82%99%E5%8D%94%E5%8A%A9%E5%8D%B0%E5%B0%BC%E6%87%89%E5%B0%8D%E7%85%99%E9%9C%BE",
     "timestamp": "2026-10-10T07:27:16.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "賴清德稱樂見中美對話、批二戰歷史遭扭曲　藍營批：自己忽略歷史",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185549945067802624657803.png/VEavMcY0PYyBiZCd-85M2HhncHtynF2NFx22hRcdtoU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60398199/%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%A8%B1%E6%A8%82%E8%A6%8B%E4%B8%AD%E7%BE%8E%E5%B0%8D%E8%A9%B1-%E6%89%B9%E4%BA%8C%E6%88%B0%E6%AD%B7%E5%8F%B2%E9%81%AD%E6%89%AD%E6%9B%B2-%E8%97%8D%E7%87%9F%E6%89%B9-%E8%87%AA%E5%B7%B1%E5%BF%BD%E7%95%A5%E6%AD%B7%E5%8F%B2",
-    "timestamp": "2026-10-10T06:31:53.266Z",
     "strategy": ".content-card__main"
   }
 ];
