@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T07:58:56.916Z
+// Last updated: 2026-10-10T08:25:27.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸｜陳國基主持跨部門會議　籲市民勿一窩蜂參觀「打卡」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185608282320932864534928.jpeg/vRQ6EV53_mDxHRNeTTXGAKhvdXqDRet14d8HueHfB7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398234/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%99%B3%E5%9C%8B%E5%9F%BA%E4%B8%BB%E6%8C%81%E8%B7%A8%E9%83%A8%E9%96%80%E6%9C%83%E8%AD%B0-%E7%B1%B2%E5%B8%82%E6%B0%91%E5%8B%BF%E4%B8%80%E7%AA%A9%E8%9C%82%E5%8F%83%E8%A7%80-%E6%89%93%E5%8D%A1",
+    "timestamp": "2026-10-10T08:25:27.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九文化區｜高層薪酬要調整？　收支結構可重構",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185481455061438464794528.jpeg/Ly3iTpvLYVUT8GJLhWrCvngouYEDom1Qlmmy9qxpsvY",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398114/%E5%85%83%E6%9C%97%E5%A5%B3%E5%AD%90%E7%96%91%E9%80%B2%E9%A3%9F%E9%AF%81%E5%96%89-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-10-09T22:57:11.190Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普宣布任命Katie Zacharia　出任白宮發言人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185468628200329216217406.png/nfiqzmel0xQX5o7KoXGSHQ_-FrjxxU8s0oZ7O9KGezs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398113/%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%BB%E5%91%BDkatie-zacharia-%E5%87%BA%E4%BB%BB%E7%99%BD%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA",
-    "timestamp": "2026-10-09T22:45:52.599Z",
     "strategy": ".content-card__main"
   }
 ];
