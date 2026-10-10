@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T12:28:08.292Z
+// Last updated: 2026-10-10T12:53:07.165Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "崔碧珈懶理與Rocky感情糾紛　五星級酒店大解放曬性感出浴照",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185658610974199808586430.jpeg/JJ-AgXsW2dykHLeQnVj2NrOYUBntzUBeUH0PgVB9D4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398300/%E5%B4%94%E7%A2%A7%E7%8F%88%E6%87%B6%E7%90%86%E8%88%87rocky%E6%84%9F%E6%83%85%E7%B3%BE%E7%B4%9B-%E4%BA%94%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97%E5%A4%A7%E8%A7%A3%E6%94%BE%E6%9B%AC%E6%80%A7%E6%84%9F%E5%87%BA%E6%B5%B4%E7%85%A7",
+    "timestamp": "2026-10-10T12:53:07.165Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張致恒借7萬拖4年更抹黑債主「疊碼仔」　好心人出手代還卻被邀功",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382909712502784984256.jpeg/lQt6sShaHV4Zs7KULUDVV7BlLfBF4oOfJIX8tySF_Lc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398174/%E9%83%B5%E6%94%BF%E6%94%B9%E5%90%88%E7%B4%84%E5%88%B6-%E6%94%BF%E5%BA%9C%E7%A0%94%E5%84%AA%E5%85%88%E8%81%98%E7%94%A8%E5%8F%97%E5%BD%B1%E9%9F%BF%E8%80%85-%E4%B8%A6%E6%8F%90%E4%BE%9B%E8%BD%89%E8%81%B7%E7%B3%BB%E8%A9%A6%E4%BB%BB%E6%9C%9F",
     "timestamp": "2026-10-10T04:29:13.273Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公務員跳point要「拉curve」　首期涵100職系　涉約4.1萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125839214345195520891270.png/WyDdWbFHORTjyJXFplggOwbESbMGYN1SfOFZtlnhWbY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398160/%E5%85%AC%E5%8B%99%E5%93%A1%E8%B7%B3point%E8%A6%81-%E6%8B%89curve-%E9%A6%96%E6%9C%9F%E6%B6%B5100%E8%81%B7%E7%B3%BB-%E6%B6%89%E7%B4%844-1%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-10-10T04:01:58.705Z",
     "strategy": ".content-card__main"
   }
 ];
