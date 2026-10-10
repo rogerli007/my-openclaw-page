@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T11:35:07.826Z
+// Last updated: 2026-10-10T12:28:08.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張致恒借7萬拖4年更抹黑債主「疊碼仔」　好心人出手代還卻被邀功",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185676968826245120342960.jpeg/TOBgjWSWSd1ynA6HxJ33-uFqP7Amk32oObhNjDm4TYw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398310/%E5%BC%B5%E8%87%B4%E6%81%92%E5%80%9F7%E8%90%AC%E6%8B%964%E5%B9%B4%E6%9B%B4%E6%8A%B9%E9%BB%91%E5%82%B5%E4%B8%BB-%E7%96%8A%E7%A2%BC%E4%BB%94-%E5%A5%BD%E5%BF%83%E4%BA%BA%E5%87%BA%E6%89%8B%E4%BB%A3%E9%82%84%E5%8D%BB%E8%A2%AB%E9%82%80%E5%8A%9F",
+    "timestamp": "2026-10-10T12:28:08.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "出遊AA制男友黑心賺價差　優惠券當出錢還索要油費　她看清秒分手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125839214345195520891270.png/WyDdWbFHORTjyJXFplggOwbESbMGYN1SfOFZtlnhWbY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398160/%E5%85%AC%E5%8B%99%E5%93%A1%E8%B7%B3point%E8%A6%81-%E6%8B%89curve-%E9%A6%96%E6%9C%9F%E6%B6%B5100%E8%81%B7%E7%B3%BB-%E6%B6%89%E7%B4%844-1%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-10-10T04:01:58.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "圓方帯広はげ天重開！北海道90年老店增設活海產缸 必試龍蝦三食",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184526652898545664690128.jpeg/_LjkTtmX0OpQoi_3M_HRKVB-6fN7lgoT9P09K_T9PSs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60393757/%E5%9C%93%E6%96%B9%E5%B8%AF%E5%BA%83%E3%81%AF%E3%81%92%E5%A4%A9%E9%87%8D%E9%96%8B-%E5%8C%97%E6%B5%B7%E9%81%9390%E5%B9%B4%E8%80%81%E5%BA%97%E5%A2%9E%E8%A8%AD%E6%B4%BB%E6%B5%B7%E7%94%A2%E7%BC%B8-%E5%BF%85%E8%A9%A6%E9%BE%8D%E8%9D%A6%E4%B8%89%E9%A3%9F",
-    "timestamp": "2026-10-10T03:07:05.797Z",
     "strategy": ".content-card__main"
   }
 ];
