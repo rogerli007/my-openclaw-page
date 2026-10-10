@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T00:52:45.711Z
+// Last updated: 2026-10-10T01:39:55.917Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古代官員退休為何一定要告老還鄉？不是掛念鄉親父老　現實極殘酷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164557547764453376016795.jpeg/iMKW5P8GzmctaJKiB9sEIlIG4sWxq3uqdaua1XWrmtU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60329961/%E5%8F%A4%E4%BB%A3%E5%AE%98%E5%93%A1%E9%80%80%E4%BC%91%E7%82%BA%E4%BD%95%E4%B8%80%E5%AE%9A%E8%A6%81%E5%91%8A%E8%80%81%E9%82%84%E9%84%89-%E4%B8%8D%E6%98%AF%E6%8E%9B%E5%BF%B5%E9%84%89%E8%A6%AA%E7%88%B6%E8%80%81-%E7%8F%BE%E5%AF%A6%E6%A5%B5%E6%AE%98%E9%85%B7",
+    "timestamp": "2026-10-10T01:39:55.917Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB才女進軍內地做短劇女主角演媽媽　七情上面喊到崩潰演技炸裂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185399186347003904970463.jpeg/OP-spdKKPTEYbO8f7UzoBN_PVWIejFSRdFN0HXRTdB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398104/%E8%B7%A8%E9%83%A8%E9%96%80150%E4%BA%BA%E7%8D%85%E5%AD%90%E5%B1%B1%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC25%E4%BA%BA%E9%81%87%E5%B1%B1%E7%81%AB-%E9%A6%96%E7%94%A8%E5%A4%A7%E5%9E%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8A%95%E6%B0%B4%E5%BD%88",
     "timestamp": "2026-10-09T18:25:30.172Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門150人獅子山演習　模擬25人遇山火　首用大型無人機投水彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185399186347003904970463.jpeg/OP-spdKKPTEYbO8f7UzoBN_PVWIejFSRdFN0HXRTdB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398104/%E8%B7%A8%E9%83%A8%E9%96%80150%E4%BA%BA%E7%8D%85%E5%AD%90%E5%B1%B1%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC25%E4%BA%BA%E9%81%87%E5%B1%B1%E7%81%AB-%E9%A6%96%E7%94%A8%E5%A4%A7%E5%9E%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8A%95%E6%B0%B4%E5%BD%88",
-    "timestamp": "2026-10-09T17:56:02.884Z",
     "strategy": ".content-card__main"
   }
 ];
