@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T15:57:49.602Z
+// Last updated: 2026-10-10T16:21:32.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國賓州伊利市大規模槍擊案9死　死者包括兒童　疑兇已自盡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185742555816398848518436.png/07fb5A02INQ5uDbLRqgNZmybIV5mK3b0AdY6hAHWOoQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398350/%E7%BE%8E%E5%9C%8B%E8%B3%93%E5%B7%9E%E4%BC%8A%E5%88%A9%E5%B8%82%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%A7%8D%E6%93%8A%E6%A1%889%E6%AD%BB-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC%E5%85%92%E7%AB%A5-%E7%96%91%E5%85%87%E5%B7%B2%E8%87%AA%E7%9B%A1",
+    "timestamp": "2026-10-10T16:21:32.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "42歲徐淑敏孖老公紅館睇騷被捕獲　穿黑背心短褲盡顯少女感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240717/890337798031151104985410.jpeg/ccoxsbuIfJCC9iW2pYuv-NBPiEZxX0KqMwRB6jMEQeo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398189/%E8%A5%BF%E4%B9%9D%E6%96%87%E5%8C%96%E5%8D%80-%E9%AB%98%E5%B1%A4%E8%96%AA%E9%85%AC%E8%A6%81%E8%AA%BF%E6%95%B4-%E6%94%B6%E6%94%AF%E7%B5%90%E6%A7%8B%E5%8F%AF%E9%87%8D%E6%A7%8B",
     "timestamp": "2026-10-10T07:58:56.916Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "賴清德雙十演說｜北京仍是威脅　華府成了台灣更難處理的變數",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185549945067802624657803.png/VEavMcY0PYyBiZCd-85M2HhncHtynF2NFx22hRcdtoU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60398236/%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%9B%99%E5%8D%81%E6%BC%94%E8%AA%AA-%E5%8C%97%E4%BA%AC%E4%BB%8D%E6%98%AF%E5%A8%81%E8%84%85-%E8%8F%AF%E5%BA%9C%E6%88%90%E4%BA%86%E5%8F%B0%E7%81%A3%E6%9B%B4%E9%9B%A3%E8%99%95%E7%90%86%E7%9A%84%E8%AE%8A%E6%95%B8",
-    "timestamp": "2026-10-10T07:48:00.410Z",
     "strategy": ".content-card__main"
   }
 ];
