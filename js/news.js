@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T03:07:05.797Z
+// Last updated: 2026-10-10T04:01:58.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公務員跳point要「拉curve」　首期涵100職系　涉約4.1萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125839214345195520891270.png/WyDdWbFHORTjyJXFplggOwbESbMGYN1SfOFZtlnhWbY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398160/%E5%85%AC%E5%8B%99%E5%93%A1%E8%B7%B3point%E8%A6%81-%E6%8B%89curve-%E9%A6%96%E6%9C%9F%E6%B6%B5100%E8%81%B7%E7%B3%BB-%E6%B6%89%E7%B4%844-1%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-10-10T04:01:58.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "圓方帯広はげ天重開！北海道90年老店增設活海產缸 必試龍蝦三食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185429030296358912072839.jpeg/nonHaoZYNn9qEfrG7YCnNGpqdQNJ43KoLYMaSS2DGkk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398106/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%BE%8E%E5%9C%8B%E9%A0%90%E8%AD%A6%E7%B3%BB%E7%B5%B1%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1",
     "timestamp": "2026-10-09T19:46:47.606Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴拿馬發生7.7級地震　美國預警系統發海嘯警報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185429030296358912072839.jpeg/nonHaoZYNn9qEfrG7YCnNGpqdQNJ43KoLYMaSS2DGkk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398106/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%BE%8E%E5%9C%8B%E9%A0%90%E8%AD%A6%E7%B3%BB%E7%B5%B1%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1",
-    "timestamp": "2026-10-09T19:33:10.036Z",
     "strategy": ".content-card__main"
   }
 ];
