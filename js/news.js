@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T16:21:32.990Z
+// Last updated: 2026-10-10T16:57:13.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吉澳十年一度大醮周日開鑼　3000村民重聚　七旬村長冀吸青年傳承",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185691498310537216583647.jpeg/EaPnuqVYOh4xC6JwlTOXZPBVJmEb4flP7VAWachQFmk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398311/%E5%90%89%E6%BE%B3%E5%8D%81%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%A4%A7%E9%86%AE%E5%91%A8%E6%97%A5%E9%96%8B%E9%91%BC-3000%E6%9D%91%E6%B0%91%E9%87%8D%E8%81%9A-%E4%B8%83%E6%97%AC%E6%9D%91%E9%95%B7%E5%86%80%E5%90%B8%E9%9D%92%E5%B9%B4%E5%82%B3%E6%89%BF",
+    "timestamp": "2026-10-10T16:57:13.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國賓州伊利市大規模槍擊案9死　死者包括兒童　疑兇已自盡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185608282320932864534928.jpeg/vRQ6EV53_mDxHRNeTTXGAKhvdXqDRet14d8HueHfB7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398234/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%99%B3%E5%9C%8B%E5%9F%BA%E4%B8%BB%E6%8C%81%E8%B7%A8%E9%83%A8%E9%96%80%E6%9C%83%E8%AD%B0-%E7%B1%B2%E5%B8%82%E6%B0%91%E5%8B%BF%E4%B8%80%E7%AA%A9%E8%9C%82%E5%8F%83%E8%A7%80-%E6%89%93%E5%8D%A1",
     "timestamp": "2026-10-10T08:25:27.827Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西九文化區｜高層薪酬要調整？　收支結構可重構",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240717/890337798031151104985410.jpeg/ccoxsbuIfJCC9iW2pYuv-NBPiEZxX0KqMwRB6jMEQeo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398189/%E8%A5%BF%E4%B9%9D%E6%96%87%E5%8C%96%E5%8D%80-%E9%AB%98%E5%B1%A4%E8%96%AA%E9%85%AC%E8%A6%81%E8%AA%BF%E6%95%B4-%E6%94%B6%E6%94%AF%E7%B5%90%E6%A7%8B%E5%8F%AF%E9%87%8D%E6%A7%8B",
-    "timestamp": "2026-10-10T07:58:56.916Z",
     "strategy": ".content-card__main"
   }
 ];
