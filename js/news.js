@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T04:01:58.705Z
+// Last updated: 2026-10-10T04:29:13.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郵政改合約制｜政府研優先聘用受影響者　並提供轉職系試任期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382909712502784984256.jpeg/lQt6sShaHV4Zs7KULUDVV7BlLfBF4oOfJIX8tySF_Lc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60398174/%E9%83%B5%E6%94%BF%E6%94%B9%E5%90%88%E7%B4%84%E5%88%B6-%E6%94%BF%E5%BA%9C%E7%A0%94%E5%84%AA%E5%85%88%E8%81%98%E7%94%A8%E5%8F%97%E5%BD%B1%E9%9F%BF%E8%80%85-%E4%B8%A6%E6%8F%90%E4%BE%9B%E8%BD%89%E8%81%B7%E7%B3%BB%E8%A9%A6%E4%BB%BB%E6%9C%9F",
+    "timestamp": "2026-10-10T04:29:13.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公務員跳point要「拉curve」　首期涵100職系　涉約4.1萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185429030296358912072839.jpeg/nonHaoZYNn9qEfrG7YCnNGpqdQNJ43KoLYMaSS2DGkk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398106/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%BE%8E%E5%9C%8B%E9%A0%90%E8%AD%A6%E7%B3%BB%E7%B5%B1%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1",
     "timestamp": "2026-10-09T19:56:34.048Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴拿馬發生7.7級地震　美國預警系統發海嘯警報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185429030296358912072839.jpeg/nonHaoZYNn9qEfrG7YCnNGpqdQNJ43KoLYMaSS2DGkk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398106/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%BE%8E%E5%9C%8B%E9%A0%90%E8%AD%A6%E7%B3%BB%E7%B5%B1%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1",
-    "timestamp": "2026-10-09T19:46:47.606Z",
     "strategy": ".content-card__main"
   }
 ];
