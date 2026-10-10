@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T13:46:46.838Z
+// Last updated: 2026-10-10T13:56:33.976Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直播｜賴清德發表雙十演說　官媒播《台島『八卦』來了》抨擊台獨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260610/1141445988632760320870951.jpeg/YwNcW7rSkomvQcv752FHkMjXIBcEu8dtkuUiwZLlIsE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60398298/%E7%9B%B4%E6%92%AD-%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%99%BC%E8%A1%A8%E9%9B%99%E5%8D%81%E6%BC%94%E8%AA%AA-%E5%AE%98%E5%AA%92%E6%92%AD-%E5%8F%B0%E5%B3%B6-%E5%85%AB%E5%8D%A6-%E4%BE%86%E4%BA%86-%E6%8A%A8%E6%93%8A%E5%8F%B0%E7%8D%A8",
+    "timestamp": "2026-10-10T13:56:33.976Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透社：沙特首都利雅得機場傳出爆炸聲　官方未回應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184701054558670848058237.png/-1nlaw41o-SBf8w1Az0YNzmPpyiBH8AWKFO0hyhTtIc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397334/10%E5%B9%B4%E5%89%8D%E6%8C%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%AD%B7%E7%85%A7%E8%B5%B4%E5%8F%B0-%E6%B8%AF%E5%A5%B3%E7%94%9F-%E5%8F%AF%E5%90%A6%E7%94%A8%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E5%85%A5%E5%8F%B0-%E7%B6%B2%E6%B0%91%E8%A7%A3%E7%AD%94",
     "timestamp": "2026-10-10T05:23:59.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "FX戰士久留美│女主阿媽炒外匯輸到跳樓輕生　投資族：胃痛恐怖片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185553053533605888165047.png/aulLKIH25f1EdURFr1s_8-ZExhNkg2_2NLvWajS71mo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398140/fx%E6%88%B0%E5%A3%AB%E4%B9%85%E7%95%99%E7%BE%8E-%E5%A5%B3%E4%B8%BB%E9%98%BF%E5%AA%BD%E7%82%92%E5%A4%96%E5%8C%AF%E8%BC%B8%E5%88%B0%E8%B7%B3%E6%A8%93%E8%BC%95%E7%94%9F-%E6%8A%95%E8%B3%87%E6%97%8F-%E8%83%83%E7%97%9B%E6%81%90%E6%80%96%E7%89%87",
-    "timestamp": "2026-10-10T05:01:41.883Z",
     "strategy": ".content-card__main"
   }
 ];
