@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T23:20:11.101Z
+// Last updated: 2026-10-10T23:34:30.704Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安徽雲端天梯爆紅　直面365米深谷　景區拒網售：現場看清再決定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185658799822737408658037.png/Pfn21r4mFw_0QlWW_IBLOIjqgl2F40OyUFWI11BViNc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398184/%E5%AE%89%E5%BE%BD%E9%9B%B2%E7%AB%AF%E5%A4%A9%E6%A2%AF%E7%88%86%E7%B4%85-%E7%9B%B4%E9%9D%A2365%E7%B1%B3%E6%B7%B1%E8%B0%B7-%E6%99%AF%E5%8D%80%E6%8B%92%E7%B6%B2%E5%94%AE-%E7%8F%BE%E5%A0%B4%E7%9C%8B%E6%B8%85%E5%86%8D%E6%B1%BA%E5%AE%9A",
+    "timestamp": "2026-10-10T23:34:30.704Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安徽雲端天梯爆紅　直面365米深谷　景區拒網售：現場看清再決定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220422/594219915230318592576491.jpeg/GMsRxqgfZSKrxT9Bs4v9Z0739A6CE5FQwRKpzMESqcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398321/%E9%80%BE1-2%E5%84%84%E5%A4%96%E5%88%A46%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E6%9C%8D%E5%8B%99%E6%83%B9%E5%B7%A5%E6%9C%83%E6%8A%95%E8%A8%B4%E6%B5%AA%E8%B2%BB%E8%B3%87%E6%BA%90-%E5%BA%B7%E6%96%87%E7%BD%B2%E7%A8%B1%E6%88%90%E6%95%88%E7%90%86%E6%83%B3",
     "timestamp": "2026-10-10T15:21:25.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳懿德峇里曬比堅尼騷好身材　與羅天宇出席譚嘉儀婚禮被爆好事近",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185708963753103360851902.jpeg/_fz8z1KjmDYTxp621SvaJzHeq9H8mrCPiYq3UImKt1A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398331/%E9%99%B3%E6%87%BF%E5%BE%B7%E5%B3%87%E9%87%8C%E6%9B%AC%E6%AF%94%E5%A0%85%E5%B0%BC%E9%A8%B7%E5%A5%BD%E8%BA%AB%E6%9D%90-%E8%88%87%E7%BE%85%E5%A4%A9%E5%AE%87%E5%87%BA%E5%B8%AD%E8%AD%9A%E5%98%89%E5%84%80%E5%A9%9A%E7%A6%AE%E8%A2%AB%E7%88%86%E5%A5%BD%E4%BA%8B%E8%BF%91",
-    "timestamp": "2026-10-10T14:54:52.306Z",
     "strategy": ".content-card__main"
   }
 ];
