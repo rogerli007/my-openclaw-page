@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T01:39:55.917Z
+// Last updated: 2026-10-10T02:09:31.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔚觀全局｜缺人，是否只有請外勞一個答案？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184931378744004608971234.jpeg/EMzIq52XAZCJF-MXnCR2_JEVpZvUSmggfLSAMHy0gDA?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60396478/%E8%94%9A%E8%A7%80%E5%85%A8%E5%B1%80-%E7%BC%BA%E4%BA%BA-%E6%98%AF%E5%90%A6%E5%8F%AA%E6%9C%89%E8%AB%8B%E5%A4%96%E5%8B%9E%E4%B8%80%E5%80%8B%E7%AD%94%E6%A1%88",
+    "timestamp": "2026-10-10T02:09:31.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古代官員退休為何一定要告老還鄉？不是掛念鄉親父老　現實極殘酷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250826/1036943257528963072082546.jpeg/icSvcURQf_NQqsdwrMH7A9w8WCQYg7X-Uuvjl1Lr45c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398105/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%96%BD%E5%A3%93%E6%92%A4%E6%8F%9B%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B%E5%BA%AB%E5%85%8B-%E6%88%90%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%BF%E6%9F%A5%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0%E6%8C%87%E6%8E%A7",
     "timestamp": "2026-10-09T18:50:29.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門150人獅子山演習　模擬25人遇山火　首用大型無人機投水彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185399186347003904970463.jpeg/OP-spdKKPTEYbO8f7UzoBN_PVWIejFSRdFN0HXRTdB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398104/%E8%B7%A8%E9%83%A8%E9%96%80150%E4%BA%BA%E7%8D%85%E5%AD%90%E5%B1%B1%E6%BC%94%E7%BF%92-%E6%A8%A1%E6%93%AC25%E4%BA%BA%E9%81%87%E5%B1%B1%E7%81%AB-%E9%A6%96%E7%94%A8%E5%A4%A7%E5%9E%8B%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8A%95%E6%B0%B4%E5%BD%88",
-    "timestamp": "2026-10-09T18:25:30.172Z",
     "strategy": ".content-card__main"
   }
 ];
