@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T02:48:12.364Z
+// Last updated: 2026-10-10T03:07:05.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "圓方帯広はげ天重開！北海道90年老店增設活海產缸 必試龍蝦三食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184526652898545664690128.jpeg/_LjkTtmX0OpQoi_3M_HRKVB-6fN7lgoT9P09K_T9PSs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60393757/%E5%9C%93%E6%96%B9%E5%B8%AF%E5%BA%83%E3%81%AF%E3%81%92%E5%A4%A9%E9%87%8D%E9%96%8B-%E5%8C%97%E6%B5%B7%E9%81%9390%E5%B9%B4%E8%80%81%E5%BA%97%E5%A2%9E%E8%A8%AD%E6%B4%BB%E6%B5%B7%E7%94%A2%E7%BC%B8-%E5%BF%85%E8%A9%A6%E9%BE%8D%E8%9D%A6%E4%B8%89%E9%A3%9F",
+    "timestamp": "2026-10-10T03:07:05.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "如何識別「整理型頭肩底」　兩個重點簡單辦到｜聶振邦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185429030296358912072839.jpeg/nonHaoZYNn9qEfrG7YCnNGpqdQNJ43KoLYMaSS2DGkk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398106/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%99%BC%E7%94%9F7-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E7%BE%8E%E5%9C%8B%E9%A0%90%E8%AD%A6%E7%B3%BB%E7%B5%B1%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1",
     "timestamp": "2026-10-09T19:33:10.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普再施壓撤換聯儲局理事庫克　成立委員會調查虛假陳述指控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250826/1036943257528963072082546.jpeg/icSvcURQf_NQqsdwrMH7A9w8WCQYg7X-Uuvjl1Lr45c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398105/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%96%BD%E5%A3%93%E6%92%A4%E6%8F%9B%E8%81%AF%E5%84%B2%E5%B1%80%E7%90%86%E4%BA%8B%E5%BA%AB%E5%85%8B-%E6%88%90%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%BF%E6%9F%A5%E8%99%9B%E5%81%87%E9%99%B3%E8%BF%B0%E6%8C%87%E6%8E%A7",
-    "timestamp": "2026-10-09T19:17:30.137Z",
     "strategy": ".content-card__main"
   }
 ];
