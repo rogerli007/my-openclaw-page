@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T15:48:19.215Z
+// Last updated: 2026-10-10T15:57:49.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "42歲徐淑敏孖老公紅館睇騷被捕獲　穿黑背心短褲盡顯少女感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185696544129552384057963.jpeg/2hWpccbanb6FYObhpEVls-a6Va0h5-Op_BqLEPwaixA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398319/42%E6%AD%B2%E5%BE%90%E6%B7%91%E6%95%8F%E5%AD%96%E8%80%81%E5%85%AC%E7%B4%85%E9%A4%A8%E7%9D%87%E9%A8%B7%E8%A2%AB%E6%8D%95%E7%8D%B2-%E7%A9%BF%E9%BB%91%E8%83%8C%E5%BF%83%E7%9F%AD%E8%A4%B2%E7%9B%A1%E9%A1%AF%E5%B0%91%E5%A5%B3%E6%84%9F",
+    "timestamp": "2026-10-10T15:57:49.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普追擊希拉里　向最高法院提請恢復訴訟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185549945067802624657803.png/VEavMcY0PYyBiZCd-85M2HhncHtynF2NFx22hRcdtoU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60398236/%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%9B%99%E5%8D%81%E6%BC%94%E8%AA%AA-%E5%8C%97%E4%BA%AC%E4%BB%8D%E6%98%AF%E5%A8%81%E8%84%85-%E8%8F%AF%E5%BA%9C%E6%88%90%E4%BA%86%E5%8F%B0%E7%81%A3%E6%9B%B4%E9%9B%A3%E8%99%95%E7%90%86%E7%9A%84%E8%AE%8A%E6%95%B8",
     "timestamp": "2026-10-10T07:48:00.410Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼山火持續　新加坡：隨時準備協助印尼應對煙霾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185610042011815936139682.jpeg/mfGjqBLEwQNqzBxzFJp2KMgWSUnTFVJvS6DXNEug1zQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398224/%E5%8D%B0%E5%B0%BC%E5%B1%B1%E7%81%AB%E6%8C%81%E7%BA%8C-%E6%96%B0%E5%8A%A0%E5%9D%A1-%E9%9A%A8%E6%99%82%E6%BA%96%E5%82%99%E5%8D%94%E5%8A%A9%E5%8D%B0%E5%B0%BC%E6%87%89%E5%B0%8D%E7%85%99%E9%9C%BE",
-    "timestamp": "2026-10-10T07:27:16.529Z",
     "strategy": ".content-card__main"
   }
 ];
