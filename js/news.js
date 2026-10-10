@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T19:18:43.473Z
+// Last updated: 2026-10-10T19:54:21.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵深水埗站男子遇查　爆粗罵警：我唔係Kai　收告票被捕｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185783798101446656725084.jpeg/BA0TegQN2UW5IuOHd8ysBGw1rOdr527kURDGDFEQxgw",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398356/%E6%B8%AF%E9%90%B5%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%AB%99%E7%94%B7%E5%AD%90%E9%81%87%E6%9F%A5-%E7%88%86%E7%B2%97%E7%BD%B5%E8%AD%A6-%E6%88%91%E5%94%94%E4%BF%82kai-%E6%94%B6%E5%91%8A%E7%A5%A8%E8%A2%AB%E6%8D%95-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-10T19:54:21.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜熱刺靠蘇蘭基補時頂入1:1和曼聯　賓坦古亞領紅險爆衝突",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185626585877712896510497.jpeg/pPzZPGYkTeQIFdv7AA6mlqPCtbEZ4pFL9V5TtfVeU7U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60398284/%E5%85%A7%E5%9C%B0%E5%96%AE%E8%A6%AA%E5%AA%BD%E7%B6%B2%E8%B3%BC%E7%BE%BD%E7%B5%A8%E8%97%8F%E9%87%9D%E5%81%87%E5%8F%97%E5%82%B7%E7%B4%A2%E5%84%9F-3000-%E7%B4%AF%E8%A8%88%E4%BD%9C%E6%A1%889%E5%AE%97%E6%B6%893%E8%90%AC%E8%A2%AB%E6%8B%98",
     "timestamp": "2026-10-10T11:23:40.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《黎彼得杯酒當歌致敬音樂會》12月舉行　眾星齊集重溫經典金句",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185614827427467264862043.jpeg/fc-puN9-574yZwzolpiIKeaamqbX_NB9w89SGcPPUhk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60398227/%E9%BB%8E%E5%BD%BC%E5%BE%97%E6%9D%AF%E9%85%92%E7%95%B6%E6%AD%8C%E8%87%B4%E6%95%AC%E9%9F%B3%E6%A8%82%E6%9C%83-12%E6%9C%88%E8%88%89%E8%A1%8C-%E7%9C%BE%E6%98%9F%E9%BD%8A%E9%9B%86%E9%87%8D%E6%BA%AB%E7%B6%93%E5%85%B8%E9%87%91%E5%8F%A5",
-    "timestamp": "2026-10-10T10:19:53.864Z",
     "strategy": ".content-card__main"
   }
 ];
