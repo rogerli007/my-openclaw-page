@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T22:54:46.757Z
+// Last updated: 2026-10-10T23:20:11.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安徽雲端天梯爆紅　直面365米深谷　景區拒網售：現場看清再決定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185658799822737408658037.png/Pfn21r4mFw_0QlWW_IBLOIjqgl2F40OyUFWI11BViNc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398184/%E5%AE%89%E5%BE%BD%E9%9B%B2%E7%AB%AF%E5%A4%A9%E6%A2%AF%E7%88%86%E7%B4%85-%E7%9B%B4%E9%9D%A2365%E7%B1%B3%E6%B7%B1%E8%B0%B7-%E6%99%AF%E5%8D%80%E6%8B%92%E7%B6%B2%E5%94%AE-%E7%8F%BE%E5%A0%B4%E7%9C%8B%E6%B8%85%E5%86%8D%E6%B1%BA%E5%AE%9A",
+    "timestamp": "2026-10-10T23:20:11.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣住宅變販毒中心　警檢值$636萬冰毒　40歲女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185708963753103360851902.jpeg/_fz8z1KjmDYTxp621SvaJzHeq9H8mrCPiYq3UImKt1A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398331/%E9%99%B3%E6%87%BF%E5%BE%B7%E5%B3%87%E9%87%8C%E6%9B%AC%E6%AF%94%E5%A0%85%E5%B0%BC%E9%A8%B7%E5%A5%BD%E8%BA%AB%E6%9D%90-%E8%88%87%E7%BE%85%E5%A4%A9%E5%AE%87%E5%87%BA%E5%B8%AD%E8%AD%9A%E5%98%89%E5%84%80%E5%A9%9A%E7%A6%AE%E8%A2%AB%E7%88%86%E5%A5%BD%E4%BA%8B%E8%BF%91",
     "timestamp": "2026-10-10T14:54:52.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許志安演唱會｜尾場嘉賓張學友  投訴買唔到飛：做嘉賓有四張",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185713865539719168519738.jpeg/QSZiNVYRP6akI2wFKkv1ohw5BNLl1b7yOZHyqDmR8qg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60398337/%E8%A8%B1%E5%BF%97%E5%AE%89%E6%BC%94%E5%94%B1%E6%9C%83-%E5%B0%BE%E5%A0%B4%E5%98%89%E8%B3%93%E5%BC%B5%E5%AD%B8%E5%8F%8B-%E6%8A%95%E8%A8%B4%E8%B2%B7%E5%94%94%E5%88%B0%E9%A3%9B-%E5%81%9A%E5%98%89%E8%B3%93%E6%9C%89%E5%9B%9B%E5%BC%B5",
-    "timestamp": "2026-10-10T14:20:23.100Z",
     "strategy": ".content-card__main"
   }
 ];
