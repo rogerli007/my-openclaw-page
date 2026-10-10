@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T14:20:23.100Z
+// Last updated: 2026-10-10T14:54:52.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳懿德峇里曬比堅尼騷好身材　與羅天宇出席譚嘉儀婚禮被爆好事近",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185708963753103360851902.jpeg/_fz8z1KjmDYTxp621SvaJzHeq9H8mrCPiYq3UImKt1A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398331/%E9%99%B3%E6%87%BF%E5%BE%B7%E5%B3%87%E9%87%8C%E6%9B%AC%E6%AF%94%E5%A0%85%E5%B0%BC%E9%A8%B7%E5%A5%BD%E8%BA%AB%E6%9D%90-%E8%88%87%E7%BE%85%E5%A4%A9%E5%AE%87%E5%87%BA%E5%B8%AD%E8%AD%9A%E5%98%89%E5%84%80%E5%A9%9A%E7%A6%AE%E8%A2%AB%E7%88%86%E5%A5%BD%E4%BA%8B%E8%BF%91",
+    "timestamp": "2026-10-10T14:54:52.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許志安演唱會｜尾場嘉賓張學友  投訴買唔到飛：做嘉賓有四張",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185583368566214656079528.jpeg/DkGmZHdw11qI4DYpzfJ6vmQxgwofafHjVRdhM1UXYTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398192/%E8%B1%AC%E8%82%89%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A8%9937-5%E5%80%8D%E9%81%AD%E9%87%8D%E7%BD%B01-2%E5%84%84-%E9%9B%99%E5%8C%AF%E7%99%BC%E5%B1%95%E5%86%8D%E8%87%B4%E6%AD%89-%E8%AA%A0%E6%87%87%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-10-10T05:58:24.234Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一周星星丨罕談相識兩日認定老公秘辛　重溫初出道與天王合作片段",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185306055819661312735168.jpeg/3fivYgZEM3jn4SnSuxM8nN9-MoWjXrcjqaMHz6mjB88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398063/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E7%BD%95%E8%AB%87%E7%9B%B8%E8%AD%98%E5%85%A9%E6%97%A5%E8%AA%8D%E5%AE%9A%E8%80%81%E5%85%AC%E7%A7%98%E8%BE%9B-%E9%87%8D%E6%BA%AB%E5%88%9D%E5%87%BA%E9%81%93%E8%88%87%E5%A4%A9%E7%8E%8B%E5%90%88%E4%BD%9C%E7%89%87%E6%AE%B5",
-    "timestamp": "2026-10-10T05:47:19.896Z",
     "strategy": ".content-card__main"
   }
 ];
