@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T21:21:07.175Z
+// Last updated: 2026-10-10T21:34:54.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普為美俄柴油協議辯護　批澤連斯基固執　指烏克蘭應換領導人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185817232899313664821496.jpeg/A5EBA05a9_ar_vzVxlOIjb4Od_4-ngAodnXscHZ17HA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398364/%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%BA%E7%BE%8E%E4%BF%84%E6%9F%B4%E6%B2%B9%E5%8D%94%E8%AD%B0%E8%BE%AF%E8%AD%B7-%E6%89%B9%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%9B%BA%E5%9F%B7-%E6%8C%87%E7%83%8F%E5%85%8B%E8%98%AD%E6%87%89%E6%8F%9B%E9%A0%98%E5%B0%8E%E4%BA%BA",
+    "timestamp": "2026-10-10T21:34:54.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國約克郡野生動物園慘劇　男子闖老虎園區遇襲傷重不治｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185696410901680128924038.png/kHIz-9EFwJJM1kAqDB9EhZFwo_9_cEt-OjZzajo2c2o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398324/%E9%84%AD%E6%AC%BD%E6%96%87%E6%99%89%E7%B4%9A%E5%A5%B3%E5%96%AE%E6%B1%BA%E8%B3%BD-%E5%88%B7%E6%96%B0%E5%80%8B%E4%BA%BA%E4%B8%AD%E7%B6%B2%E6%9C%80%E4%BD%B3%E6%88%B0%E7%B8%BE-%E6%98%8E%E6%99%9A%E6%88%B0%E6%B3%95%E7%B6%B2%E5%86%A0%E8%BB%8D%E7%88%AD%E5%86%A0",
     "timestamp": "2026-10-10T13:18:57.017Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "崔碧珈懶理與Rocky感情糾紛　五星級酒店大解放曬性感出浴照",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185658610974199808586430.jpeg/JJ-AgXsW2dykHLeQnVj2NrOYUBntzUBeUH0PgVB9D4E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398300/%E5%B4%94%E7%A2%A7%E7%8F%88%E6%87%B6%E7%90%86%E8%88%87rocky%E6%84%9F%E6%83%85%E7%B3%BE%E7%B4%9B-%E4%BA%94%E6%98%9F%E7%B4%9A%E9%85%92%E5%BA%97%E5%A4%A7%E8%A7%A3%E6%94%BE%E6%9B%AC%E6%80%A7%E6%84%9F%E5%87%BA%E6%B5%B4%E7%85%A7",
-    "timestamp": "2026-10-10T12:53:07.165Z",
     "strategy": ".content-card__main"
   }
 ];
