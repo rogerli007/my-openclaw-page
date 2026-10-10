@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T21:34:54.542Z
+// Last updated: 2026-10-10T22:20:07.609Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣住宅變販毒中心　警檢值$636萬冰毒　40歲女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185835559134695424908216.jpeg/-u1AqZv4LncGmMNO4dG_h0WigUgdMlUPFrTxJxa08Sc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398367/%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2%E5%80%BC-636%E8%90%AC%E5%86%B0%E6%AF%92-40%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-10T22:20:07.609Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普為美俄柴油協議辯護　批澤連斯基固執　指烏克蘭應換領導人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230317/713456093782609920291864.jpeg/TWE2owfXrD3GgLhlBKbEoeCWEoxNa3SxLgPPPy4Dzz8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398327/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E5%82%B3%E5%87%BA%E7%88%86%E7%82%B8%E8%81%B2-%E5%AE%98%E6%96%B9%E6%9C%AA%E5%9B%9E%E6%87%89",
     "timestamp": "2026-10-10T13:46:46.838Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭欽文晉級女單決賽　刷新個人中網最佳戰績　明晚戰法網冠軍爭冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185696410901680128924038.png/kHIz-9EFwJJM1kAqDB9EhZFwo_9_cEt-OjZzajo2c2o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398324/%E9%84%AD%E6%AC%BD%E6%96%87%E6%99%89%E7%B4%9A%E5%A5%B3%E5%96%AE%E6%B1%BA%E8%B3%BD-%E5%88%B7%E6%96%B0%E5%80%8B%E4%BA%BA%E4%B8%AD%E7%B6%B2%E6%9C%80%E4%BD%B3%E6%88%B0%E7%B8%BE-%E6%98%8E%E6%99%9A%E6%88%B0%E6%B3%95%E7%B6%B2%E5%86%A0%E8%BB%8D%E7%88%AD%E5%86%A0",
-    "timestamp": "2026-10-10T13:18:57.017Z",
     "strategy": ".content-card__main"
   }
 ];
