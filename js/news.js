@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T08:54:20.861Z
+// Last updated: 2026-10-11T09:20:55.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《玉簟秋》海報踩雷！被指物化女性　構圖疑抄襲《不二之臣》惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185963558370807808275641.png/BcRVNf54LNQoOubD2pTrBXQe0Ef_8Uy9-xuXu_sbl7s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398405/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E6%B5%B7%E5%A0%B1%E8%B8%A9%E9%9B%B7-%E8%A2%AB%E6%8C%87%E7%89%A9%E5%8C%96%E5%A5%B3%E6%80%A7-%E6%A7%8B%E5%9C%96%E7%96%91%E6%8A%84%E8%A5%B2-%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3-%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-10-11T09:20:55.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯15歲少年遭棕熊襲擊　手機突爆炸起火嚇退野熊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185658799822737408658037.png/Pfn21r4mFw_0QlWW_IBLOIjqgl2F40OyUFWI11BViNc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398184/%E5%AE%89%E5%BE%BD%E9%9B%B2%E7%AB%AF%E5%A4%A9%E6%A2%AF%E7%88%86%E7%B4%85-%E7%9B%B4%E9%9D%A2365%E7%B1%B3%E6%B7%B1%E8%B0%B7-%E6%99%AF%E5%8D%80%E6%8B%92%E7%B6%B2%E5%94%AE-%E7%8F%BE%E5%A0%B4%E7%9C%8B%E6%B8%85%E5%86%8D%E6%B1%BA%E5%AE%9A",
     "timestamp": "2026-10-10T23:34:30.704Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安徽雲端天梯爆紅　直面365米深谷　景區拒網售：現場看清再決定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185658799822737408658037.png/Pfn21r4mFw_0QlWW_IBLOIjqgl2F40OyUFWI11BViNc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398184/%E5%AE%89%E5%BE%BD%E9%9B%B2%E7%AB%AF%E5%A4%A9%E6%A2%AF%E7%88%86%E7%B4%85-%E7%9B%B4%E9%9D%A2365%E7%B1%B3%E6%B7%B1%E8%B0%B7-%E6%99%AF%E5%8D%80%E6%8B%92%E7%B6%B2%E5%94%AE-%E7%8F%BE%E5%A0%B4%E7%9C%8B%E6%B8%85%E5%86%8D%E6%B1%BA%E5%AE%9A",
-    "timestamp": "2026-10-10T23:20:11.101Z",
     "strategy": ".content-card__main"
   }
 ];
