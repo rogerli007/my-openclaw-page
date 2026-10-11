@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T05:47:10.335Z
+// Last updated: 2026-10-11T05:58:25.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳住宅變詐騙電話中心　「貓池」狂打2.3萬電話　24歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185946809705435136291735.jpeg/z8A7mk9fNIb4wxNx1pRigZJLsXnoLqngCtpEHAraRBw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398419/%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%A9%90%E9%A8%99%E9%9B%BB%E8%A9%B1%E4%B8%AD%E5%BF%83-%E8%B2%93%E6%B1%A0-%E7%8B%82%E6%89%932-3%E8%90%AC%E9%9B%BB%E8%A9%B1-24%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-11T05:58:25.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "失婚女歌手穿超高叉三角褲遊走走光邊緣　傳身家2億享受富婆生活",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185802312124207104190628.jpeg/RlMzqCsgY8gOCSIcn7ndzolplI1jjtCehvefRLz3n0Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398360/%E8%8D%83%E7%81%A3%E9%85%92%E5%90%A7%E7%94%B7%E9%85%92%E5%AE%A2%E8%A2%AB%E8%87%B3%E5%B0%91%E5%85%A9%E7%94%B7%E7%94%A8%E5%88%80%E8%A5%B2%E6%93%8A-%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E7%96%91%E7%8A%AF%E5%9C%A8%E9%80%83",
     "timestamp": "2026-10-10T20:20:22.352Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵深水埗站男子遇查　爆粗罵警：我唔係Kai　收告票被捕｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185783798101446656725084.jpeg/BA0TegQN2UW5IuOHd8ysBGw1rOdr527kURDGDFEQxgw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398356/%E6%B8%AF%E9%90%B5%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%AB%99%E7%94%B7%E5%AD%90%E9%81%87%E6%9F%A5-%E7%88%86%E7%B2%97%E7%BD%B5%E8%AD%A6-%E6%88%91%E5%94%94%E4%BF%82kai-%E6%94%B6%E5%91%8A%E7%A5%A8%E8%A2%AB%E6%8D%95-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-10T19:54:21.658Z",
     "strategy": ".content-card__main"
   }
 ];
