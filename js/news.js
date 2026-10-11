@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T09:46:47.966Z
+// Last updated: 2026-10-11T10:20:10.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "媽樣年華｜李幸倪為周家怡首唱主題曲　頂40度高溫戶外開唱冇死機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185998534256627712182379.jpeg/4AwhHws67GVtrvHbNYihEcAw8mN32kc6XaeR_V2nkf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398465/%E5%AA%BD%E6%A8%A3%E5%B9%B4%E8%8F%AF-%E6%9D%8E%E5%B9%B8%E5%80%AA%E7%82%BA%E5%91%A8%E5%AE%B6%E6%80%A1%E9%A6%96%E5%94%B1%E4%B8%BB%E9%A1%8C%E6%9B%B2-%E9%A0%8240%E5%BA%A6%E9%AB%98%E6%BA%AB%E6%88%B6%E5%A4%96%E9%96%8B%E5%94%B1%E5%86%87%E6%AD%BB%E6%A9%9F",
+    "timestamp": "2026-10-11T10:20:10.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "戴祖儀在公司仍常撞到吳若希　揭好友內心狀況：對佢唔係一個Lost",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398369/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E6%AD%BB%E5%9B%9A%E6%89%93%E6%AF%92%E9%87%9D%E5%BE%8C%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84-%E5%B7%B2%E5%87%BA%E9%99%A2%E8%A2%AB%E9%80%81%E5%9B%9E%E6%9B%BE%E9%97%9C%E6%8A%BC30%E5%B9%B4%E7%9B%A3%E7%8D%84",
     "timestamp": "2026-10-10T23:56:34.669Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國女死囚打毒針後奇蹟生還　已出院被送回曾關押30年監獄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398369/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E6%AD%BB%E5%9B%9A%E6%89%93%E6%AF%92%E9%87%9D%E5%BE%8C%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84-%E5%B7%B2%E5%87%BA%E9%99%A2%E8%A2%AB%E9%80%81%E5%9B%9E%E6%9B%BE%E9%97%9C%E6%8A%BC30%E5%B9%B4%E7%9B%A3%E7%8D%84",
-    "timestamp": "2026-10-10T23:46:52.060Z",
     "strategy": ".content-card__main"
   }
 ];
