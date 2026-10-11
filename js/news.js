@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T10:45:24.839Z
+// Last updated: 2026-10-11T10:56:11.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尼泊爾山洪5人失聯　政府籲村民撤離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186023251256545280049217.jpeg/yLMC4dGu8SDIO6VDNxwvo-cJsU77uFfjV-G-Plfhvj4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398500/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA5%E4%BA%BA%E5%A4%B1%E8%81%AF-%E6%94%BF%E5%BA%9C%E7%B1%B2%E6%9D%91%E6%B0%91%E6%92%A4%E9%9B%A2",
+    "timestamp": "2026-10-11T10:56:11.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "波蘭警方接報指總理與防長或遇襲　當局急召安全會議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167450924365385728954186.jpeg/LEl_mDR5SZRqoWu95FIQxP_D0yzKAndTH7qdiR-6nYk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60299593/%E6%9C%80%E7%84%A1%E6%95%B5%E5%91%BD%E6%A0%BC-3%E6%98%9F%E5%BA%A7-%E4%B8%8D%E5%AD%98%E9%8C%A2%E6%84%9B%E8%8A%B1%E9%8C%A2%E5%8F%88%E4%B8%8D%E7%BC%BA%E9%8C%A2-%E7%99%BD%E7%BE%8A%E8%8A%B1%E6%84%88%E5%A4%9A%E8%B3%BA%E6%84%88%E5%A4%9A",
     "timestamp": "2026-10-11T01:44:37.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特利雅得機場遇襲　魯比奧：1美國公民喪生　華府譴責襲擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179730438122377216641980.jpeg/oTEyE6nH1LgWO_O1M69sS1AxrPyr8IVQszmyfLM5snw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398371/%E6%B2%99%E7%89%B9%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%81%87%E8%A5%B2-%E9%AD%AF%E6%AF%94%E5%A5%A7-1%E7%BE%8E%E5%9C%8B%E5%85%AC%E6%B0%91%E5%96%AA%E7%94%9F-%E8%8F%AF%E5%BA%9C%E8%AD%B4%E8%B2%AC%E8%A5%B2%E6%93%8A",
-    "timestamp": "2026-10-11T00:58:37.301Z",
     "strategy": ".content-card__main"
   }
 ];
