@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T15:58:04.160Z
+// Last updated: 2026-10-11T16:22:46.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超︱鎌田大地入球領水晶宮3：1反勝森林　愛華頓作客2：2侯城",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186085604203433984901456.jpeg/NVXSJl8Jiq5-_TXoTg7U4zCnj-kQ8sFg_igFvf4oBb0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398528/%E8%8B%B1%E8%B6%85-%E9%8E%8C%E7%94%B0%E5%A4%A7%E5%9C%B0%E5%85%A5%E7%90%83%E9%A0%98%E6%B0%B4%E6%99%B6%E5%AE%AE3-1%E5%8F%8D%E5%8B%9D%E6%A3%AE%E6%9E%97-%E6%84%9B%E8%8F%AF%E9%A0%93%E4%BD%9C%E5%AE%A22-2%E4%BE%AF%E5%9F%8E",
+    "timestamp": "2026-10-11T16:22:46.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東非吉布提偷渡船往也門途中翻沉　至少139死84人失蹤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185975700872499200861479.png/IbdEBmsFcqIRnDsCxOcqSEagqKjSf4zN0lUrNtJVKzY",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398445/%E5%85%83%E6%9C%97%E7%81%AB%E7%87%92%E8%BB%8A-%E6%9C%89%E7%89%87-%E5%AE%89%E6%A8%82%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%AA%81%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%B0%84%E6%B0%B4%E6%95%91%E7%86%84",
     "timestamp": "2026-10-11T08:01:48.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流感｜高危長者染病易有併發症　專家倡早接種季節性流感疫苗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185978264053616640765013.jpeg/Bdlgehe3ugrOPoHQqKykUmNrJpwzD_Et0Fx-r9Bcfq8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398451/%E6%B5%81%E6%84%9F-%E9%AB%98%E5%8D%B1%E9%95%B7%E8%80%85%E6%9F%93%E7%97%85%E6%98%93%E6%9C%89%E4%BD%B5%E7%99%BC%E7%97%87-%E5%B0%88%E5%AE%B6%E5%80%A1%E6%97%A9%E6%8E%A5%E7%A8%AE%E5%AD%A3%E7%AF%80%E6%80%A7%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97",
-    "timestamp": "2026-10-11T07:49:16.525Z",
     "strategy": ".content-card__main"
   }
 ];
