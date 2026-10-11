@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T13:19:47.307Z
+// Last updated: 2026-10-11T13:55:38.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國男Alex Gerko創辦XTX交易公司　去年獲分紅8.95億英鎊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186071779819393024385724.jpeg/AFpVjwNa4BPf7QAXVyIpGtWuaqU40JjOz9yTUc_ck1E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398522/%E8%8B%B1%E5%9C%8B%E7%94%B7alex-gerko%E5%89%B5%E8%BE%A6xtx%E4%BA%A4%E6%98%93%E5%85%AC%E5%8F%B8-%E5%8E%BB%E5%B9%B4%E7%8D%B2%E5%88%86%E7%B4%858-95%E5%84%84%E8%8B%B1%E9%8E%8A",
+    "timestamp": "2026-10-11T13:55:38.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華為尊界煞車踏板斷裂｜客服稱鎖單後訂金不退　車主：安全感喪失",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185931957981155328216895.jpeg/sS-I_ro1ga7RiIawg0e5qCwjEdC7FhY1TlOqA05TqgM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60398415/sierra-sea%E7%AC%AC2c-2-%E6%9C%9F%E9%A6%96%E5%85%A9%E6%97%A5%E6%94%B6%E9%80%BE5000%E7%A5%A8-%E5%8E%9F%E5%83%B9%E5%8A%A0%E6%8E%A853%E4%BC%99",
     "timestamp": "2026-10-11T04:50:58.568Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄鼠疫實驗室員工患不明肺炎死亡　世衛：死因未明　暫無傳播跡象",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183761446111023104167304.png/mgiAAE15SK3rxv5W1ao_fyTXRlDiEpo7dQIHynUCB8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398402/%E4%BF%84%E9%BC%A0%E7%96%AB%E5%AF%A6%E9%A9%97%E5%AE%A4%E5%93%A1%E5%B7%A5%E6%82%A3%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1-%E4%B8%96%E8%A1%9B-%E6%AD%BB%E5%9B%A0%E6%9C%AA%E6%98%8E-%E6%9A%AB%E7%84%A1%E5%82%B3%E6%92%AD%E8%B7%A1%E8%B1%A1",
-    "timestamp": "2026-10-11T04:25:04.999Z",
     "strategy": ".content-card__main"
   }
 ];
