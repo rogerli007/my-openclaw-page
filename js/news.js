@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T17:18:14.285Z
+// Last updated: 2026-10-11T17:32:55.254Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特聯軍稱利雅得機場11日再受襲　胡塞武裝促客機遠離沙特空域",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186111971204796416287631.png/TZQABT2Z_RUngPdehfB2QRVxoCxIr71sftkNSX7ZDUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398536/%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D%E7%A8%B1%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B411%E6%97%A5%E5%86%8D%E5%8F%97%E8%A5%B2-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BF%83%E5%AE%A2%E6%A9%9F%E9%81%A0%E9%9B%A2%E6%B2%99%E7%89%B9%E7%A9%BA%E5%9F%9F",
+    "timestamp": "2026-10-11T17:32:55.254Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙特聯軍稱利雅得機場11日再受襲　胡塞武裝促客機遠離沙特空域",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186007727311163392759608.jpeg/_nfvsoQplmOHyro4uKPpP-VlbSYtylsWeavFJ3mrxSc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398480/%E6%88%B4%E7%A5%96%E5%84%80%E5%9C%A8%E5%85%AC%E5%8F%B8%E4%BB%8D%E5%B8%B8%E6%92%9E%E5%88%B0%E5%90%B3%E8%8B%A5%E5%B8%8C-%E6%8F%AD%E5%A5%BD%E5%8F%8B%E5%85%A7%E5%BF%83%E7%8B%80%E6%B3%81-%E5%B0%8D%E4%BD%A2%E5%94%94%E4%BF%82%E4%B8%80%E5%80%8Blost",
     "timestamp": "2026-10-11T09:46:47.966Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《玉簟秋》海報踩雷！被指物化女性　構圖疑抄襲《不二之臣》惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185963558370807808275641.png/BcRVNf54LNQoOubD2pTrBXQe0Ef_8Uy9-xuXu_sbl7s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398405/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E6%B5%B7%E5%A0%B1%E8%B8%A9%E9%9B%B7-%E8%A2%AB%E6%8C%87%E7%89%A9%E5%8C%96%E5%A5%B3%E6%80%A7-%E6%A7%8B%E5%9C%96%E7%96%91%E6%8A%84%E8%A5%B2-%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3-%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-10-11T09:20:55.052Z",
     "strategy": ".content-card__main"
   }
 ];
