@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T08:01:48.657Z
+// Last updated: 2026-10-11T08:30:52.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "單車節終點塞爆變推車節、取消汀九段　旅發局：正向單車總會了解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185978398187851776548017.jpeg/i4_kvKoc6QeknFr-6o9dCtl-LAfR-OLCTJniPWmZ4j0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398456/%E5%96%AE%E8%BB%8A%E7%AF%80%E7%B5%82%E9%BB%9E%E5%A1%9E%E7%88%86%E8%AE%8A%E6%8E%A8%E8%BB%8A%E7%AF%80-%E5%8F%96%E6%B6%88%E6%B1%80%E4%B9%9D%E6%AE%B5-%E6%97%85%E7%99%BC%E5%B1%80-%E6%AD%A3%E5%90%91%E5%96%AE%E8%BB%8A%E7%B8%BD%E6%9C%83%E4%BA%86%E8%A7%A3",
+    "timestamp": "2026-10-11T08:30:52.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗火燒車．有片｜安樂路私家車突起火冒煙　消防射水救熄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185835559134695424908216.jpeg/-u1AqZv4LncGmMNO4dG_h0WigUgdMlUPFrTxJxa08Sc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398367/%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2%E5%80%BC-636%E8%90%AC%E5%86%B0%E6%AF%92-40%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-10T22:54:46.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣住宅變販毒中心　警檢值$636萬冰毒　40歲女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185835559134695424908216.jpeg/-u1AqZv4LncGmMNO4dG_h0WigUgdMlUPFrTxJxa08Sc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398367/%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2%E5%80%BC-636%E8%90%AC%E5%86%B0%E6%AF%92-40%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-10T22:44:48.330Z",
     "strategy": ".content-card__main"
   }
 ];
