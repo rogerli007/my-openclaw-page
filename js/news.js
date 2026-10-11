@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T06:32:12.214Z
+// Last updated: 2026-10-11T07:01:11.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佐敦餐廳疑遭爆竊　收銀機被撬開$2萬不翼而飛　警正追緝賊人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/5501087/org/ec25cc4f4da462b530956c6bfef403f3.jpg/uY9-jLeFhHBoUyrACs1f4Mq2RH6mYn9JkbvewIu73sA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398433/%E4%BD%90%E6%95%A6%E9%A4%90%E5%BB%B3%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E6%94%B6%E9%8A%80%E6%A9%9F%E8%A2%AB%E6%92%AC%E9%96%8B-2%E8%90%AC%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9B-%E8%AD%A6%E6%AD%A3%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
+    "timestamp": "2026-10-11T07:01:11.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧兆尊認為尋回梅艷芳骨灰機會好微　私下有團隊跟進：覺得搵唔返",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185808505395744768023768.jpeg/mhD_81HSN0f0h8A_fqk3GG6ptrIqVD85XkUM0F5FDNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398362/%E8%8B%B1%E5%9C%8B%E7%B4%84%E5%85%8B%E9%83%A1%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E5%9C%92%E6%85%98%E5%8A%87-%E7%94%B7%E5%AD%90%E9%97%96%E8%80%81%E8%99%8E%E5%9C%92%E5%8D%80%E9%81%87%E8%A5%B2%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-10T21:21:07.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國約克郡野生動物園慘劇　男子闖老虎園區遇襲傷重不治｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185808505395744768023768.jpeg/mhD_81HSN0f0h8A_fqk3GG6ptrIqVD85XkUM0F5FDNA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398362/%E8%8B%B1%E5%9C%8B%E7%B4%84%E5%85%8B%E9%83%A1%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E5%9C%92%E6%85%98%E5%8A%87-%E7%94%B7%E5%AD%90%E9%97%96%E8%80%81%E8%99%8E%E5%9C%92%E5%8D%80%E9%81%87%E8%A5%B2%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-10T20:46:12.206Z",
     "strategy": ".content-card__main"
   }
 ];
