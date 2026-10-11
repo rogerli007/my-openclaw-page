@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T04:25:04.999Z
+// Last updated: 2026-10-11T04:50:58.568Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SIERRA SEA第2C(2)期首兩日收逾5000票　原價加推53伙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185931957981155328216895.jpeg/sS-I_ro1ga7RiIawg0e5qCwjEdC7FhY1TlOqA05TqgM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60398415/sierra-sea%E7%AC%AC2c-2-%E6%9C%9F%E9%A6%96%E5%85%A9%E6%97%A5%E6%94%B6%E9%80%BE5000%E7%A5%A8-%E5%8E%9F%E5%83%B9%E5%8A%A0%E6%8E%A853%E4%BC%99",
+    "timestamp": "2026-10-11T04:50:58.568Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄鼠疫實驗室員工患不明肺炎死亡　世衛：死因未明　暫無傳播跡象",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185782320578170880894537.jpeg/dNdlJvPs_xL5Av-IWo2Dx5QWjHUsRXKyAARtdwAEbXc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398358/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E9%9D%A0%E8%98%87%E8%98%AD%E5%9F%BA%E8%A3%9C%E6%99%82%E9%A0%82%E5%85%A51-1%E5%92%8C%E6%9B%BC%E8%81%AF-%E8%B3%93%E5%9D%A6%E5%8F%A4%E4%BA%9E%E9%A0%98%E7%B4%85%E9%9A%AA%E7%88%86%E8%A1%9D%E7%AA%81",
     "timestamp": "2026-10-10T19:18:43.473Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "擅闖灣仔一級歷史建築南固臺地盤　2男涉企圖爆竊被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185778029377359872769043.jpeg/jZg8dvO6yMho7UT1wPnblJNeQMj45PXDiMBikojAYpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398359/%E6%93%85%E9%97%96%E7%81%A3%E4%BB%94%E4%B8%80%E7%B4%9A%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E5%8D%97%E5%9B%BA%E8%87%BA%E5%9C%B0%E7%9B%A4-2%E7%94%B7%E6%B6%89%E4%BC%81%E5%9C%96%E7%88%86%E7%AB%8A%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-10T19:00:18.472Z",
     "strategy": ".content-card__main"
   }
 ];
