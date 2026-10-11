@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T03:29:03.237Z
+// Last updated: 2026-10-11T03:54:46.953Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國防部批賴清德雙十演說煽動兩岸對立　暴露「台灣之禍」本質",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185918179684126720234601.jpeg/XvxDPcgK4Kktubz_cij-GiBFinD0LJCOA49BEAOPQRA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398396/%E5%9C%8B%E9%98%B2%E9%83%A8%E6%89%B9%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%9B%99%E5%8D%81%E6%BC%94%E8%AA%AA%E7%85%BD%E5%8B%95%E5%85%A9%E5%B2%B8%E5%B0%8D%E7%AB%8B-%E6%9A%B4%E9%9C%B2-%E5%8F%B0%E7%81%A3%E4%B9%8B%E7%A6%8D-%E6%9C%AC%E8%B3%AA",
+    "timestamp": "2026-10-11T03:54:46.953Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸啟用儀式深圳舉行　李家超與深圳市長、市書記共同主持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185778029377359872769043.jpeg/jZg8dvO6yMho7UT1wPnblJNeQMj45PXDiMBikojAYpI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398359/%E6%93%85%E9%97%96%E7%81%A3%E4%BB%94%E4%B8%80%E7%B4%9A%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E5%8D%97%E5%9B%BA%E8%87%BA%E5%9C%B0%E7%9B%A4-2%E7%94%B7%E6%B6%89%E4%BC%81%E5%9C%96%E7%88%86%E7%AB%8A%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-10T18:49:14.017Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣街頭35歲男子頭部手腳受傷　半清醒送院治理　警調查案件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185765993457127424624807.jpeg/6fDbRW9kM0AwEQu7vVAfVkeSH7egm-A93KR7XOake1w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398355/%E9%95%B7%E6%B2%99%E7%81%A3%E8%A1%97%E9%A0%AD35%E6%AD%B2%E7%94%B7%E5%AD%90%E9%A0%AD%E9%83%A8%E6%89%8B%E8%85%B3%E5%8F%97%E5%82%B7-%E5%8D%8A%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%A1%88%E4%BB%B6",
-    "timestamp": "2026-10-10T17:55:50.555Z",
     "strategy": ".content-card__main"
   }
 ];
