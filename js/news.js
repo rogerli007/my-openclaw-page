@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T22:45:32.332Z
+// Last updated: 2026-10-11T22:55:52.372Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "出身草根男星海景豪宅曝光飯廳極闊落　喪父曾領綜援北上吸金走紅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186056408479567872520471.jpeg/CVzrNTUkUzmILAd9oezz40mdvMh29sdexml7qcZpe6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398483/%E7%8E%8B%E7%A5%96%E8%97%8D%E6%B5%B7%E6%99%AF%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89%E9%A3%AF%E5%BB%B3%E6%A5%B5%E9%97%8A%E8%90%BD-%E5%96%AA%E7%88%B6%E6%9B%BE%E9%A0%98%E7%B6%9C%E6%8F%B4%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%B5%B0%E7%B4%85",
+    "timestamp": "2026-10-11T22:55:52.372Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "出身草根男星海景豪宅曝光飯廳極闊落　喪父曾領綜援北上吸金走紅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185952442534072320723164.jpeg/Nsnr52dMDR8X5EG7RdCshmV0Yf9Pi9McOxPogzsT6IM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398527/1-2%E5%84%84%E5%A4%96%E5%88%A4%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E6%9C%8D%E5%8B%99-%E5%BA%B7%E6%96%87%E7%BD%B2-%E6%8B%9B%E6%A8%99%E6%9C%9F%E6%94%B64%E6%A8%99%E6%9B%B8-%E7%9B%B4%E6%8E%A5%E6%8B%9B%E8%81%98%E6%9C%89%E6%8C%91%E6%88%B0",
     "timestamp": "2026-10-11T15:19:47.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角中心兩舖疑不和　首飾店員入美甲店吐口水釀互毆　警拘3女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186074026368307200548263.jpeg/f4iqEVMrtoVQj8Dcxf9octCp0bFuZbk6DL1WDgy9Vg4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398524/%E6%97%BA%E8%A7%92%E4%B8%AD%E5%BF%83%E5%85%A9%E8%88%96%E7%96%91%E4%B8%8D%E5%92%8C-%E9%A6%96%E9%A3%BE%E5%BA%97%E5%93%A1%E5%85%A5%E7%BE%8E%E7%94%B2%E5%BA%97%E5%90%90%E5%8F%A3%E6%B0%B4%E9%87%80%E4%BA%92%E6%AF%86-%E8%AD%A6%E6%8B%983%E5%A5%B3",
-    "timestamp": "2026-10-11T14:56:20.585Z",
     "strategy": ".content-card__main"
   }
 ];
