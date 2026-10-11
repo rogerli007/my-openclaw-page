@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-10T23:56:34.669Z
+// Last updated: 2026-10-11T00:58:37.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特利雅得機場遇襲　魯比奧：1美國公民喪生　華府譴責襲擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179730438122377216641980.jpeg/oTEyE6nH1LgWO_O1M69sS1AxrPyr8IVQszmyfLM5snw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398371/%E6%B2%99%E7%89%B9%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%81%87%E8%A5%B2-%E9%AD%AF%E6%AF%94%E5%A5%A7-1%E7%BE%8E%E5%9C%8B%E5%85%AC%E6%B0%91%E5%96%AA%E7%94%9F-%E8%8F%AF%E5%BA%9C%E8%AD%B4%E8%B2%AC%E8%A5%B2%E6%93%8A",
+    "timestamp": "2026-10-11T00:58:37.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國女死囚打毒針後奇蹟生還　已出院被送回曾關押30年監獄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185742555816398848518436.png/07fb5A02INQ5uDbLRqgNZmybIV5mK3b0AdY6hAHWOoQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398350/%E7%BE%8E%E5%9C%8B%E8%B3%93%E5%B7%9E%E4%BC%8A%E5%88%A9%E5%B8%82%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%A7%8D%E6%93%8A%E6%A1%889%E6%AD%BB-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC%E5%85%92%E7%AB%A5-%E7%96%91%E5%85%87%E5%B7%B2%E8%87%AA%E7%9B%A1",
     "timestamp": "2026-10-10T16:21:32.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "42歲徐淑敏孖老公紅館睇騷被捕獲　穿黑背心短褲盡顯少女感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185696544129552384057963.jpeg/2hWpccbanb6FYObhpEVls-a6Va0h5-Op_BqLEPwaixA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398319/42%E6%AD%B2%E5%BE%90%E6%B7%91%E6%95%8F%E5%AD%96%E8%80%81%E5%85%AC%E7%B4%85%E9%A4%A8%E7%9D%87%E9%A8%B7%E8%A2%AB%E6%8D%95%E7%8D%B2-%E7%A9%BF%E9%BB%91%E8%83%8C%E5%BF%83%E7%9F%AD%E8%A4%B2%E7%9B%A1%E9%A1%AF%E5%B0%91%E5%A5%B3%E6%84%9F",
-    "timestamp": "2026-10-10T15:57:49.602Z",
     "strategy": ".content-card__main"
   }
 ];
