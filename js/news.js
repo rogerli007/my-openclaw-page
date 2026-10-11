@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T18:25:18.568Z
+// Last updated: 2026-10-11T18:49:47.588Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "波蘭拘捕一名男子　涉計劃襲擊總理圖斯克",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145748806495637504740981.jpeg/9Zx7Wi0PSIvuyp8CyPFXqyJ8mluWESjZYBieD2AYng8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398535/%E6%B3%A2%E8%98%AD%E6%8B%98%E6%8D%95%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90-%E6%B6%89%E8%A8%88%E5%8A%83%E8%A5%B2%E6%93%8A%E7%B8%BD%E7%90%86%E5%9C%96%E6%96%AF%E5%85%8B",
+    "timestamp": "2026-10-11T18:49:47.588Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "波蘭拘捕一名男子　涉計劃襲擊總理圖斯克",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186023251256545280049217.jpeg/yLMC4dGu8SDIO6VDNxwvo-cJsU77uFfjV-G-Plfhvj4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398500/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA5%E4%BA%BA%E5%A4%B1%E8%81%AF-%E6%94%BF%E5%BA%9C%E7%B1%B2%E6%9D%91%E6%B0%91%E6%92%A4%E9%9B%A2",
     "timestamp": "2026-10-11T10:56:11.941Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "波蘭警方接報指總理與防長或遇襲　當局急召安全會議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159686182477500416063548.jpeg/YT8ap6OIT4Auofje8geZuQU-4JcwxT6fVUj3l1VI95c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398482/%E6%B3%A2%E8%98%AD%E8%AD%A6%E6%96%B9%E6%8E%A5%E5%A0%B1%E6%8C%87%E7%B8%BD%E7%90%86%E8%88%87%E9%98%B2%E9%95%B7%E6%88%96%E9%81%87%E8%A5%B2-%E7%95%B6%E5%B1%80%E6%80%A5%E5%8F%AC%E5%AE%89%E5%85%A8%E6%9C%83%E8%AD%B0",
-    "timestamp": "2026-10-11T10:45:24.839Z",
     "strategy": ".content-card__main"
   }
 ];
