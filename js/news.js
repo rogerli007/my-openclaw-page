@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T13:55:38.521Z
+// Last updated: 2026-10-11T14:21:01.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BTS秘魯開唱酒店遭私生飯全天圍堵　RM深夜發文：吵到無法入睡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185962944173707264780123.jpeg/Q0bf7gD2JbvWe4JxQsqpXLBy2RdYFvZyO6FUjDuhVIw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398430/bts%E7%A7%98%E9%AD%AF%E9%96%8B%E5%94%B1%E9%85%92%E5%BA%97%E9%81%AD%E7%A7%81%E7%94%9F%E9%A3%AF%E5%85%A8%E5%A4%A9%E5%9C%8D%E5%A0%B5-rm%E6%B7%B1%E5%A4%9C%E7%99%BC%E6%96%87-%E5%90%B5%E5%88%B0%E7%84%A1%E6%B3%95%E5%85%A5%E7%9D%A1",
+    "timestamp": "2026-10-11T14:21:01.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國男Alex Gerko創辦XTX交易公司　去年獲分紅8.95億英鎊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185918241575276544513704.jpeg/nasflXysAnxkd1LVRA1_3x_PKKl_XK-DgtdpcYLXaXE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397955/%E5%A4%B1%E5%A9%9A%E6%9D%8E%E5%BD%A9%E8%8F%AF%E7%A9%BF%E8%B6%85%E9%AB%98%E5%8F%89%E4%B8%89%E8%A7%92%E8%A4%B2%E9%81%8A%E8%B5%B0%E8%B5%B0%E5%85%89%E9%82%8A%E7%B7%A3-%E5%82%B3%E8%BA%AB%E5%AE%B62%E5%84%84%E4%BA%AB%E5%8F%97%E5%AF%8C%E5%A9%86%E7%94%9F%E6%B4%BB",
     "timestamp": "2026-10-11T05:47:10.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SIERRA SEA第2C(2)期首兩日收逾5000票　原價加推53伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185931957981155328216895.jpeg/sS-I_ro1ga7RiIawg0e5qCwjEdC7FhY1TlOqA05TqgM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60398415/sierra-sea%E7%AC%AC2c-2-%E6%9C%9F%E9%A6%96%E5%85%A9%E6%97%A5%E6%94%B6%E9%80%BE5000%E7%A5%A8-%E5%8E%9F%E5%83%B9%E5%8A%A0%E6%8E%A853%E4%BC%99",
-    "timestamp": "2026-10-11T04:50:58.568Z",
     "strategy": ".content-card__main"
   }
 ];
