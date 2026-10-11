@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T19:56:21.417Z
+// Last updated: 2026-10-11T20:21:20.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡塞武裝稱24小時內四度襲擊沙特　巴基斯坦、埃及和土耳其譴責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398541/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B124%E5%B0%8F%E6%99%82%E5%85%A7%E5%9B%9B%E5%BA%A6%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E5%9F%83%E5%8F%8A%E5%92%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E8%AD%B4%E8%B2%AC",
+    "timestamp": "2026-10-11T20:21:20.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡塞武裝稱24小時內四度襲擊沙特　巴基斯坦、埃及和土耳其譴責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186049380092743680829407.jpeg/AIJ1OURJr_08GvkzZAuztHSa7moC8Ob02Mhjh9jIY4c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398513/%E4%B8%83%E9%9A%BB%E8%B2%93%E7%96%91%E9%81%AD%E4%BA%BA%E9%81%BA%E6%A3%84%E5%A4%A7%E5%9F%94-%E5%96%84%E5%BF%83%E4%BA%BA%E5%B8%B6%E5%BE%80%E4%BF%9D%E8%AD%B7%E9%81%BA%E6%A3%84%E5%8B%95%E7%89%A9%E5%8D%94%E6%9C%83-%E6%83%9C%E5%85%A8%E6%95%B8%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-10-11T12:54:33.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "針對賴清德？解放軍明起在東海等5處海域開展實彈射擊等活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186019784785924096153680.jpeg/ZMbNpeYpe2LyNWD_jT5lPObH18iw67bzzsb_2M7G_9g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398498/%E9%87%9D%E5%B0%8D%E8%B3%B4%E6%B8%85%E5%BE%B7-%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%98%8E%E8%B5%B7%E5%9C%A8%E6%9D%B1%E6%B5%B7%E7%AD%895%E8%99%95%E6%B5%B7%E5%9F%9F%E9%96%8B%E5%B1%95%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A%E7%AD%89%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-10-11T11:33:35.943Z",
     "strategy": ".content-card__main"
   }
 ];
