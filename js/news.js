@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T01:44:37.158Z
+// Last updated: 2026-10-11T02:11:19.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸｜新聞處推短影片介紹　60秒看清設計、交通、過關安排",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164648563670650880389207.jpeg/RY-xfohBHmICork2D4Qu5AXQgUOeVr8AHBThuRwU4bk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398374/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%96%B0%E8%81%9E%E8%99%95%E6%8E%A8%E7%9F%AD%E5%BD%B1%E7%89%87%E4%BB%8B%E7%B4%B9-60%E7%A7%92%E7%9C%8B%E6%B8%85%E8%A8%AD%E8%A8%88-%E4%BA%A4%E9%80%9A-%E9%81%8E%E9%97%9C%E5%AE%89%E6%8E%92",
+    "timestamp": "2026-10-11T02:11:19.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最無敵命格？3星座「不存錢愛花錢又不缺錢」　白羊花愈多賺愈多",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185765993457127424624807.jpeg/6fDbRW9kM0AwEQu7vVAfVkeSH7egm-A93KR7XOake1w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398355/%E9%95%B7%E6%B2%99%E7%81%A3%E8%A1%97%E9%A0%AD35%E6%AD%B2%E7%94%B7%E5%AD%90%E9%A0%AD%E9%83%A8%E6%89%8B%E8%85%B3%E5%8F%97%E5%82%B7-%E5%8D%8A%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%A1%88%E4%BB%B6",
     "timestamp": "2026-10-10T17:44:51.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吉澳十年一度大醮周日開鑼　3000村民重聚　七旬村長冀吸青年傳承",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185691498310537216583647.jpeg/EaPnuqVYOh4xC6JwlTOXZPBVJmEb4flP7VAWachQFmk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398311/%E5%90%89%E6%BE%B3%E5%8D%81%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%A4%A7%E9%86%AE%E5%91%A8%E6%97%A5%E9%96%8B%E9%91%BC-3000%E6%9D%91%E6%B0%91%E9%87%8D%E8%81%9A-%E4%B8%83%E6%97%AC%E6%9D%91%E9%95%B7%E5%86%80%E5%90%B8%E9%9D%92%E5%B9%B4%E5%82%B3%E6%89%BF",
-    "timestamp": "2026-10-10T16:57:13.927Z",
     "strategy": ".content-card__main"
   }
 ];
