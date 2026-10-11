@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T21:19:17.090Z
+// Last updated: 2026-10-11T21:59:04.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸懶人包｜06：30開通　交通一覽　合作查驗e道登記教學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170445074543415296390245.jpeg/R5Uub-BdYhYJkI_tkEGdNO2won9hqDB9z3zpDs986Q4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398546/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E6%87%B6%E4%BA%BA%E5%8C%85-06-30%E9%96%8B%E9%80%9A-%E4%BA%A4%E9%80%9A%E4%B8%80%E8%A6%BD-%E5%90%88%E4%BD%9C%E6%9F%A5%E9%A9%97e%E9%81%93%E7%99%BB%E8%A8%98%E6%95%99%E5%AD%B8",
+    "timestamp": "2026-10-11T21:59:04.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡塞武裝稱24小時內四度襲擊沙特　巴基斯坦、埃及和土耳其譴責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185962944173707264780123.jpeg/Q0bf7gD2JbvWe4JxQsqpXLBy2RdYFvZyO6FUjDuhVIw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398430/bts%E7%A7%98%E9%AD%AF%E9%96%8B%E5%94%B1%E9%85%92%E5%BA%97%E9%81%AD%E7%A7%81%E7%94%9F%E9%A3%AF%E5%85%A8%E5%A4%A9%E5%9C%8D%E5%A0%B5-rm%E6%B7%B1%E5%A4%9C%E7%99%BC%E6%96%87-%E5%90%B5%E5%88%B0%E7%84%A1%E6%B3%95%E5%85%A5%E7%9D%A1",
     "timestamp": "2026-10-11T14:21:01.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國男Alex Gerko創辦XTX交易公司　去年獲分紅8.95億英鎊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186071779819393024385724.jpeg/AFpVjwNa4BPf7QAXVyIpGtWuaqU40JjOz9yTUc_ck1E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398522/%E8%8B%B1%E5%9C%8B%E7%94%B7alex-gerko%E5%89%B5%E8%BE%A6xtx%E4%BA%A4%E6%98%93%E5%85%AC%E5%8F%B8-%E5%8E%BB%E5%B9%B4%E7%8D%B2%E5%88%86%E7%B4%858-95%E5%84%84%E8%8B%B1%E9%8E%8A",
-    "timestamp": "2026-10-11T13:55:38.521Z",
     "strategy": ".content-card__main"
   }
 ];
