@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T17:55:24.063Z
+// Last updated: 2026-10-11T18:25:18.568Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "波蘭拘捕一名男子　涉計劃襲擊總理圖斯克",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145748806495637504740981.jpeg/9Zx7Wi0PSIvuyp8CyPFXqyJ8mluWESjZYBieD2AYng8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398535/%E6%B3%A2%E8%98%AD%E6%8B%98%E6%8D%95%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90-%E6%B6%89%E8%A8%88%E5%8A%83%E8%A5%B2%E6%93%8A%E7%B8%BD%E7%90%86%E5%9C%96%E6%96%AF%E5%85%8B",
+    "timestamp": "2026-10-11T18:25:18.568Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼城作客3：0勝10人利物浦　聯賽6連勝續居榜首",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260731/1159686182477500416063548.jpeg/YT8ap6OIT4Auofje8geZuQU-4JcwxT6fVUj3l1VI95c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398482/%E6%B3%A2%E8%98%AD%E8%AD%A6%E6%96%B9%E6%8E%A5%E5%A0%B1%E6%8C%87%E7%B8%BD%E7%90%86%E8%88%87%E9%98%B2%E9%95%B7%E6%88%96%E9%81%87%E8%A5%B2-%E7%95%B6%E5%B1%80%E6%80%A5%E5%8F%AC%E5%AE%89%E5%85%A8%E6%9C%83%E8%AD%B0",
     "timestamp": "2026-10-11T10:45:24.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "媽樣年華｜李幸倪為周家怡首唱主題曲　頂40度高溫戶外開唱冇死機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185998534256627712182379.jpeg/4AwhHws67GVtrvHbNYihEcAw8mN32kc6XaeR_V2nkf0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398465/%E5%AA%BD%E6%A8%A3%E5%B9%B4%E8%8F%AF-%E6%9D%8E%E5%B9%B8%E5%80%AA%E7%82%BA%E5%91%A8%E5%AE%B6%E6%80%A1%E9%A6%96%E5%94%B1%E4%B8%BB%E9%A1%8C%E6%9B%B2-%E9%A0%8240%E5%BA%A6%E9%AB%98%E6%BA%AB%E6%88%B6%E5%A4%96%E9%96%8B%E5%94%B1%E5%86%87%E6%AD%BB%E6%A9%9F",
-    "timestamp": "2026-10-11T10:20:10.144Z",
     "strategy": ".content-card__main"
   }
 ];
