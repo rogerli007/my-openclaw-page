@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T15:19:47.336Z
+// Last updated: 2026-10-11T15:35:04.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "隔夜餸加熱無法殺死比細菌更致命的毒素　盤點高危食品及預防方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175043429021782016234165.jpeg/837AjKKwzxhKknAZJA3P6gcPljuBWHLW_I4-raqOPq0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60302294/%E9%9A%94%E5%A4%9C%E9%A4%B8%E5%8A%A0%E7%86%B1%E7%84%A1%E6%B3%95%E6%AE%BA%E6%AD%BB%E6%AF%94%E7%B4%B0%E8%8F%8C%E6%9B%B4%E8%87%B4%E5%91%BD%E7%9A%84%E6%AF%92%E7%B4%A0-%E7%9B%A4%E9%BB%9E%E9%AB%98%E5%8D%B1%E9%A3%9F%E5%93%81%E5%8F%8A%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-10-11T15:35:04.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "1.2億外判泳池救生服務｜康文署：招標期收4標書　直接招聘有挑戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178208932636659712109632.jpeg/DrJNvhVuy5rLlp-akkSedYzcALsWUH-wOK3NqQKtzak?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398434/%E7%81%A3%E4%BB%94%E7%94%B7%E5%AD%90%E5%A2%AE%E6%96%83-%E5%8E%9F%E5%AE%9A%E4%BB%8A%E6%97%A5%E5%81%95%E5%A6%BB%E9%81%8A%E8%B6%8A%E5%8D%97-%E7%96%91%E9%86%89%E9%85%92%E5%9D%90%E6%AC%84%E5%A4%B1%E5%B9%B3%E8%A1%A1%E7%94%B11%E6%A8%93%E5%A2%AE%E4%B8%8B",
     "timestamp": "2026-10-11T07:29:16.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佐敦餐廳疑遭爆竊　收銀機被撬開$2萬不翼而飛　警正追緝賊人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/5501087/org/ec25cc4f4da462b530956c6bfef403f3.jpg/uY9-jLeFhHBoUyrACs1f4Mq2RH6mYn9JkbvewIu73sA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398433/%E4%BD%90%E6%95%A6%E9%A4%90%E5%BB%B3%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E6%94%B6%E9%8A%80%E6%A9%9F%E8%A2%AB%E6%92%AC%E9%96%8B-2%E8%90%AC%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9B-%E8%AD%A6%E6%AD%A3%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
-    "timestamp": "2026-10-11T07:01:11.166Z",
     "strategy": ".content-card__main"
   }
 ];
