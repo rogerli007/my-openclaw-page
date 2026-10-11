@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T03:54:46.953Z
+// Last updated: 2026-10-11T04:25:04.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄鼠疫實驗室員工患不明肺炎死亡　世衛：死因未明　暫無傳播跡象",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183761446111023104167304.png/mgiAAE15SK3rxv5W1ao_fyTXRlDiEpo7dQIHynUCB8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398402/%E4%BF%84%E9%BC%A0%E7%96%AB%E5%AF%A6%E9%A9%97%E5%AE%A4%E5%93%A1%E5%B7%A5%E6%82%A3%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1-%E4%B8%96%E8%A1%9B-%E6%AD%BB%E5%9B%A0%E6%9C%AA%E6%98%8E-%E6%9A%AB%E7%84%A1%E5%82%B3%E6%92%AD%E8%B7%A1%E8%B1%A1",
+    "timestamp": "2026-10-11T04:25:04.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國防部批賴清德雙十演說煽動兩岸對立　暴露「台灣之禍」本質",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185778029377359872769043.jpeg/jZg8dvO6yMho7UT1wPnblJNeQMj45PXDiMBikojAYpI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398359/%E6%93%85%E9%97%96%E7%81%A3%E4%BB%94%E4%B8%80%E7%B4%9A%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E5%8D%97%E5%9B%BA%E8%87%BA%E5%9C%B0%E7%9B%A4-2%E7%94%B7%E6%B6%89%E4%BC%81%E5%9C%96%E7%88%86%E7%AB%8A%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-10T19:00:18.472Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "擅闖灣仔一級歷史建築南固臺地盤　2男涉企圖爆竊被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185778029377359872769043.jpeg/jZg8dvO6yMho7UT1wPnblJNeQMj45PXDiMBikojAYpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398359/%E6%93%85%E9%97%96%E7%81%A3%E4%BB%94%E4%B8%80%E7%B4%9A%E6%AD%B7%E5%8F%B2%E5%BB%BA%E7%AF%89%E5%8D%97%E5%9B%BA%E8%87%BA%E5%9C%B0%E7%9B%A4-2%E7%94%B7%E6%B6%89%E4%BC%81%E5%9C%96%E7%88%86%E7%AB%8A%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-10T18:49:14.017Z",
     "strategy": ".content-card__main"
   }
 ];
