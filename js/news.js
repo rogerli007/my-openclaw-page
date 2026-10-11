@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T10:56:11.941Z
+// Last updated: 2026-10-11T11:18:54.764Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施永青提「次貨避孕套」谷生育！網民反駁：高樓價才是最強避孕套",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186007428165013504604853.png/p4YQ9BD-ZuL-RuF9ILj32aMm-AtJt8ravckWDL3JFgw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398444/%E6%96%BD%E6%B0%B8%E9%9D%92%E6%8F%90-%E6%AC%A1%E8%B2%A8%E9%81%BF%E5%AD%95%E5%A5%97-%E8%B0%B7%E7%94%9F%E8%82%B2-%E7%B6%B2%E6%B0%91%E5%8F%8D%E9%A7%81-%E9%AB%98%E6%A8%93%E5%83%B9%E6%89%8D%E6%98%AF%E6%9C%80%E5%BC%B7%E9%81%BF%E5%AD%95%E5%A5%97",
+    "timestamp": "2026-10-11T11:18:54.764Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼泊爾山洪5人失聯　政府籲村民撤離",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164648563670650880389207.jpeg/RY-xfohBHmICork2D4Qu5AXQgUOeVr8AHBThuRwU4bk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398374/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%96%B0%E8%81%9E%E8%99%95%E6%8E%A8%E7%9F%AD%E5%BD%B1%E7%89%87%E4%BB%8B%E7%B4%B9-60%E7%A7%92%E7%9C%8B%E6%B8%85%E8%A8%AD%E8%A8%88-%E4%BA%A4%E9%80%9A-%E9%81%8E%E9%97%9C%E5%AE%89%E6%8E%92",
     "timestamp": "2026-10-11T02:11:19.718Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最無敵命格？3星座「不存錢愛花錢又不缺錢」　白羊花愈多賺愈多",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167450924365385728954186.jpeg/LEl_mDR5SZRqoWu95FIQxP_D0yzKAndTH7qdiR-6nYk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60299593/%E6%9C%80%E7%84%A1%E6%95%B5%E5%91%BD%E6%A0%BC-3%E6%98%9F%E5%BA%A7-%E4%B8%8D%E5%AD%98%E9%8C%A2%E6%84%9B%E8%8A%B1%E9%8C%A2%E5%8F%88%E4%B8%8D%E7%BC%BA%E9%8C%A2-%E7%99%BD%E7%BE%8A%E8%8A%B1%E6%84%88%E5%A4%9A%E8%B3%BA%E6%84%88%E5%A4%9A",
-    "timestamp": "2026-10-11T01:44:37.158Z",
     "strategy": ".content-card__main"
   }
 ];
