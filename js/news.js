@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T19:22:15.145Z
+// Last updated: 2026-10-11T19:56:21.417Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡塞武裝稱24小時內四度襲擊沙特　巴基斯坦、埃及和土耳其譴責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398541/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B124%E5%B0%8F%E6%99%82%E5%85%A7%E5%9B%9B%E5%BA%A6%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E5%9F%83%E5%8F%8A%E5%92%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E8%AD%B4%E8%B2%AC",
+    "timestamp": "2026-10-11T19:56:21.417Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "波蘭拘捕一名男子　涉計劃襲擊總理圖斯克",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186019784785924096153680.jpeg/ZMbNpeYpe2LyNWD_jT5lPObH18iw67bzzsb_2M7G_9g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398498/%E9%87%9D%E5%B0%8D%E8%B3%B4%E6%B8%85%E5%BE%B7-%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%98%8E%E8%B5%B7%E5%9C%A8%E6%9D%B1%E6%B5%B7%E7%AD%895%E8%99%95%E6%B5%B7%E5%9F%9F%E9%96%8B%E5%B1%95%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A%E7%AD%89%E6%B4%BB%E5%8B%95",
     "timestamp": "2026-10-11T11:33:35.943Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施永青提「次貨避孕套」谷生育！網民反駁：高樓價才是最強避孕套",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186007428165013504604853.png/p4YQ9BD-ZuL-RuF9ILj32aMm-AtJt8ravckWDL3JFgw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398444/%E6%96%BD%E6%B0%B8%E9%9D%92%E6%8F%90-%E6%AC%A1%E8%B2%A8%E9%81%BF%E5%AD%95%E5%A5%97-%E8%B0%B7%E7%94%9F%E8%82%B2-%E7%B6%B2%E6%B0%91%E5%8F%8D%E9%A7%81-%E9%AB%98%E6%A8%93%E5%83%B9%E6%89%8D%E6%98%AF%E6%9C%80%E5%BC%B7%E9%81%BF%E5%AD%95%E5%A5%97",
-    "timestamp": "2026-10-11T11:18:54.764Z",
     "strategy": ".content-card__main"
   }
 ];
