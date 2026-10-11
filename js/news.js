@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T14:21:01.236Z
+// Last updated: 2026-10-11T14:45:37.838Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網紅艾瑞絲拍片激凸掀熱議　大方認No Bra多年：男人也凸為何管我",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185629967426260992439527.png/b9RU4XHFYl7xMrwGotkpFrD12Z-ZdM7Jtbqjg7W6o4M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60398267/%E7%B6%B2%E7%B4%85%E8%89%BE%E7%91%9E%E7%B5%B2%E6%8B%8D%E7%89%87%E6%BF%80%E5%87%B8%E6%8E%80%E7%86%B1%E8%AD%B0-%E5%A4%A7%E6%96%B9%E8%AA%8Dno-bra%E5%A4%9A%E5%B9%B4-%E7%94%B7%E4%BA%BA%E4%B9%9F%E5%87%B8%E7%82%BA%E4%BD%95%E7%AE%A1%E6%88%91",
+    "timestamp": "2026-10-11T14:45:37.838Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BTS秘魯開唱酒店遭私生飯全天圍堵　RM深夜發文：吵到無法入睡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185946809705435136291735.jpeg/z8A7mk9fNIb4wxNx1pRigZJLsXnoLqngCtpEHAraRBw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398419/%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%A9%90%E9%A8%99%E9%9B%BB%E8%A9%B1%E4%B8%AD%E5%BF%83-%E8%B2%93%E6%B1%A0-%E7%8B%82%E6%89%932-3%E8%90%AC%E9%9B%BB%E8%A9%B1-24%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-11T05:58:25.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "失婚女歌手穿超高叉三角褲遊走走光邊緣　傳身家2億享受富婆生活",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185918241575276544513704.jpeg/nasflXysAnxkd1LVRA1_3x_PKKl_XK-DgtdpcYLXaXE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60397955/%E5%A4%B1%E5%A9%9A%E6%9D%8E%E5%BD%A9%E8%8F%AF%E7%A9%BF%E8%B6%85%E9%AB%98%E5%8F%89%E4%B8%89%E8%A7%92%E8%A4%B2%E9%81%8A%E8%B5%B0%E8%B5%B0%E5%85%89%E9%82%8A%E7%B7%A3-%E5%82%B3%E8%BA%AB%E5%AE%B62%E5%84%84%E4%BA%AB%E5%8F%97%E5%AF%8C%E5%A9%86%E7%94%9F%E6%B4%BB",
-    "timestamp": "2026-10-11T05:47:10.335Z",
     "strategy": ".content-card__main"
   }
 ];
