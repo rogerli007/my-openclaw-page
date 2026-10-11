@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T08:30:52.636Z
+// Last updated: 2026-10-11T08:54:20.861Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯15歲少年遭棕熊襲擊　手機突爆炸起火嚇退野熊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251126/1070301092874555392257934.jpeg/PsrJr9aiVcJS4sL6MrAl3PrRjla6Am3iaGBdZ2hgXWc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398471/%E4%BF%84%E7%BE%85%E6%96%AF15%E6%AD%B2%E5%B0%91%E5%B9%B4%E9%81%AD%E6%A3%95%E7%86%8A%E8%A5%B2%E6%93%8A-%E6%89%8B%E6%A9%9F%E7%AA%81%E7%88%86%E7%82%B8%E8%B5%B7%E7%81%AB%E5%9A%87%E9%80%80%E9%87%8E%E7%86%8A",
+    "timestamp": "2026-10-11T08:54:20.861Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "單車節終點塞爆變推車節、取消汀九段　旅發局：正向單車總會了解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185658799822737408658037.png/Pfn21r4mFw_0QlWW_IBLOIjqgl2F40OyUFWI11BViNc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398184/%E5%AE%89%E5%BE%BD%E9%9B%B2%E7%AB%AF%E5%A4%A9%E6%A2%AF%E7%88%86%E7%B4%85-%E7%9B%B4%E9%9D%A2365%E7%B1%B3%E6%B7%B1%E8%B0%B7-%E6%99%AF%E5%8D%80%E6%8B%92%E7%B6%B2%E5%94%AE-%E7%8F%BE%E5%A0%B4%E7%9C%8B%E6%B8%85%E5%86%8D%E6%B1%BA%E5%AE%9A",
     "timestamp": "2026-10-10T23:20:11.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣住宅變販毒中心　警檢值$636萬冰毒　40歲女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185835559134695424908216.jpeg/-u1AqZv4LncGmMNO4dG_h0WigUgdMlUPFrTxJxa08Sc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398367/%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2%E5%80%BC-636%E8%90%AC%E5%86%B0%E6%AF%92-40%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-10T22:54:46.757Z",
     "strategy": ".content-card__main"
   }
 ];
