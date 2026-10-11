@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T16:22:46.315Z
+// Last updated: 2026-10-11T16:46:31.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特聯軍稱利雅得機場11日再受襲　胡塞武裝促客機遠離沙特空域",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186111971204796416287631.png/TZQABT2Z_RUngPdehfB2QRVxoCxIr71sftkNSX7ZDUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398536/%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D%E7%A8%B1%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B411%E6%97%A5%E5%86%8D%E5%8F%97%E8%A5%B2-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BF%83%E5%AE%A2%E6%A9%9F%E9%81%A0%E9%9B%A2%E6%B2%99%E7%89%B9%E7%A9%BA%E5%9F%9F",
+    "timestamp": "2026-10-11T16:46:31.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超︱鎌田大地入球領水晶宮3：1反勝森林　愛華頓作客2：2侯城",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185978398187851776548017.jpeg/i4_kvKoc6QeknFr-6o9dCtl-LAfR-OLCTJniPWmZ4j0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398456/%E5%96%AE%E8%BB%8A%E7%AF%80%E7%B5%82%E9%BB%9E%E5%A1%9E%E7%88%86%E8%AE%8A%E6%8E%A8%E8%BB%8A%E7%AF%80-%E5%8F%96%E6%B6%88%E6%B1%80%E4%B9%9D%E6%AE%B5-%E6%97%85%E7%99%BC%E5%B1%80-%E6%AD%A3%E5%90%91%E5%96%AE%E8%BB%8A%E7%B8%BD%E6%9C%83%E4%BA%86%E8%A7%A3",
     "timestamp": "2026-10-11T08:30:52.636Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗火燒車．有片｜安樂路私家車突起火冒煙　消防射水救熄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185975700872499200861479.png/IbdEBmsFcqIRnDsCxOcqSEagqKjSf4zN0lUrNtJVKzY",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398445/%E5%85%83%E6%9C%97%E7%81%AB%E7%87%92%E8%BB%8A-%E6%9C%89%E7%89%87-%E5%AE%89%E6%A8%82%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%AA%81%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%B0%84%E6%B0%B4%E6%95%91%E7%86%84",
-    "timestamp": "2026-10-11T08:01:48.657Z",
     "strategy": ".content-card__main"
   }
 ];
