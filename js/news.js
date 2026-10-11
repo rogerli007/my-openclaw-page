@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T18:49:47.588Z
+// Last updated: 2026-10-11T19:22:15.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "波蘭拘捕一名男子　涉計劃襲擊總理圖斯克",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145748806495637504740981.jpeg/9Zx7Wi0PSIvuyp8CyPFXqyJ8mluWESjZYBieD2AYng8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398535/%E6%B3%A2%E8%98%AD%E6%8B%98%E6%8D%95%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90-%E6%B6%89%E8%A8%88%E5%8A%83%E8%A5%B2%E6%93%8A%E7%B8%BD%E7%90%86%E5%9C%96%E6%96%AF%E5%85%8B",
+    "timestamp": "2026-10-11T19:22:15.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "波蘭拘捕一名男子　涉計劃襲擊總理圖斯克",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186007428165013504604853.png/p4YQ9BD-ZuL-RuF9ILj32aMm-AtJt8ravckWDL3JFgw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398444/%E6%96%BD%E6%B0%B8%E9%9D%92%E6%8F%90-%E6%AC%A1%E8%B2%A8%E9%81%BF%E5%AD%95%E5%A5%97-%E8%B0%B7%E7%94%9F%E8%82%B2-%E7%B6%B2%E6%B0%91%E5%8F%8D%E9%A7%81-%E9%AB%98%E6%A8%93%E5%83%B9%E6%89%8D%E6%98%AF%E6%9C%80%E5%BC%B7%E9%81%BF%E5%AD%95%E5%A5%97",
     "timestamp": "2026-10-11T11:18:54.764Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼泊爾山洪5人失聯　政府籲村民撤離",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186023251256545280049217.jpeg/yLMC4dGu8SDIO6VDNxwvo-cJsU77uFfjV-G-Plfhvj4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398500/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA5%E4%BA%BA%E5%A4%B1%E8%81%AF-%E6%94%BF%E5%BA%9C%E7%B1%B2%E6%9D%91%E6%B0%91%E6%92%A4%E9%9B%A2",
-    "timestamp": "2026-10-11T10:56:11.941Z",
     "strategy": ".content-card__main"
   }
 ];
