@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T07:49:16.525Z
+// Last updated: 2026-10-11T08:01:48.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗火燒車．有片｜安樂路私家車突起火冒煙　消防射水救熄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185975700872499200861479.png/IbdEBmsFcqIRnDsCxOcqSEagqKjSf4zN0lUrNtJVKzY",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398445/%E5%85%83%E6%9C%97%E7%81%AB%E7%87%92%E8%BB%8A-%E6%9C%89%E7%89%87-%E5%AE%89%E6%A8%82%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%AA%81%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E5%B0%84%E6%B0%B4%E6%95%91%E7%86%84",
+    "timestamp": "2026-10-11T08:01:48.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "流感｜高危長者染病易有併發症　專家倡早接種季節性流感疫苗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185835559134695424908216.jpeg/-u1AqZv4LncGmMNO4dG_h0WigUgdMlUPFrTxJxa08Sc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398367/%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2%E5%80%BC-636%E8%90%AC%E5%86%B0%E6%AF%92-40%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-10T22:44:48.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣住宅變販毒中心　警檢值$636萬冰毒　40歲女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185835559134695424908216.jpeg/-u1AqZv4LncGmMNO4dG_h0WigUgdMlUPFrTxJxa08Sc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398367/%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2%E5%80%BC-636%E8%90%AC%E5%86%B0%E6%AF%92-40%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-10T22:20:07.609Z",
     "strategy": ".content-card__main"
   }
 ];
