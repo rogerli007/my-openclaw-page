@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T14:45:37.838Z
+// Last updated: 2026-10-11T14:56:20.585Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角中心兩舖疑不和　首飾店員入美甲店吐口水釀互毆　警拘3女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186074026368307200548263.jpeg/f4iqEVMrtoVQj8Dcxf9octCp0bFuZbk6DL1WDgy9Vg4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398524/%E6%97%BA%E8%A7%92%E4%B8%AD%E5%BF%83%E5%85%A9%E8%88%96%E7%96%91%E4%B8%8D%E5%92%8C-%E9%A6%96%E9%A3%BE%E5%BA%97%E5%93%A1%E5%85%A5%E7%BE%8E%E7%94%B2%E5%BA%97%E5%90%90%E5%8F%A3%E6%B0%B4%E9%87%80%E4%BA%92%E6%AF%86-%E8%AD%A6%E6%8B%983%E5%A5%B3",
+    "timestamp": "2026-10-11T14:56:20.585Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網紅艾瑞絲拍片激凸掀熱議　大方認No Bra多年：男人也凸為何管我",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185952345750507520068713.jpeg/Z1ClV52kZjQgTuTS1Ea1n3kyWp9p-Zp-yIITWciCE1k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398423/%E9%84%A7%E5%85%86%E5%B0%8A%E8%AA%8D%E7%82%BA%E5%B0%8B%E5%9B%9E%E6%A2%85%E8%89%B7%E8%8A%B3%E9%AA%A8%E7%81%B0%E6%A9%9F%E6%9C%83%E5%A5%BD%E5%BE%AE-%E7%A7%81%E4%B8%8B%E6%9C%89%E5%9C%98%E9%9A%8A%E8%B7%9F%E9%80%B2-%E8%A6%BA%E5%BE%97%E6%90%B5%E5%94%94%E8%BF%94",
     "timestamp": "2026-10-11T06:32:12.214Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳住宅變詐騙電話中心　「貓池」狂打2.3萬電話　24歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185946809705435136291735.jpeg/z8A7mk9fNIb4wxNx1pRigZJLsXnoLqngCtpEHAraRBw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398419/%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%A9%90%E9%A8%99%E9%9B%BB%E8%A9%B1%E4%B8%AD%E5%BF%83-%E8%B2%93%E6%B1%A0-%E7%8B%82%E6%89%932-3%E8%90%AC%E9%9B%BB%E8%A9%B1-24%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-11T05:58:25.349Z",
     "strategy": ".content-card__main"
   }
 ];
