@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T14:56:20.585Z
+// Last updated: 2026-10-11T15:19:47.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "1.2億外判泳池救生服務｜康文署：招標期收4標書　直接招聘有挑戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185952442534072320723164.jpeg/Nsnr52dMDR8X5EG7RdCshmV0Yf9Pi9McOxPogzsT6IM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398527/1-2%E5%84%84%E5%A4%96%E5%88%A4%E6%B3%B3%E6%B1%A0%E6%95%91%E7%94%9F%E6%9C%8D%E5%8B%99-%E5%BA%B7%E6%96%87%E7%BD%B2-%E6%8B%9B%E6%A8%99%E6%9C%9F%E6%94%B64%E6%A8%99%E6%9B%B8-%E7%9B%B4%E6%8E%A5%E6%8B%9B%E8%81%98%E6%9C%89%E6%8C%91%E6%88%B0",
+    "timestamp": "2026-10-11T15:19:47.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角中心兩舖疑不和　首飾店員入美甲店吐口水釀互毆　警拘3女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/5501087/org/ec25cc4f4da462b530956c6bfef403f3.jpg/uY9-jLeFhHBoUyrACs1f4Mq2RH6mYn9JkbvewIu73sA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398433/%E4%BD%90%E6%95%A6%E9%A4%90%E5%BB%B3%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E6%94%B6%E9%8A%80%E6%A9%9F%E8%A2%AB%E6%92%AC%E9%96%8B-2%E8%90%AC%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9B-%E8%AD%A6%E6%AD%A3%E8%BF%BD%E7%B7%9D%E8%B3%8A%E4%BA%BA",
     "timestamp": "2026-10-11T07:01:11.166Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧兆尊認為尋回梅艷芳骨灰機會好微　私下有團隊跟進：覺得搵唔返",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185952345750507520068713.jpeg/Z1ClV52kZjQgTuTS1Ea1n3kyWp9p-Zp-yIITWciCE1k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398423/%E9%84%A7%E5%85%86%E5%B0%8A%E8%AA%8D%E7%82%BA%E5%B0%8B%E5%9B%9E%E6%A2%85%E8%89%B7%E8%8A%B3%E9%AA%A8%E7%81%B0%E6%A9%9F%E6%9C%83%E5%A5%BD%E5%BE%AE-%E7%A7%81%E4%B8%8B%E6%9C%89%E5%9C%98%E9%9A%8A%E8%B7%9F%E9%80%B2-%E8%A6%BA%E5%BE%97%E6%90%B5%E5%94%94%E8%BF%94",
-    "timestamp": "2026-10-11T06:32:12.214Z",
     "strategy": ".content-card__main"
   }
 ];
