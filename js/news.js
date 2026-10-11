@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T17:32:55.254Z
+// Last updated: 2026-10-11T17:55:24.063Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼城作客3：0勝10人利物浦　聯賽6連勝續居榜首",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186125349243588608429615.jpeg/jITfxW0-D0o81scE3ERU9ss50BtZr2OFH9b9zB_W_cw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398538/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A23-0%E5%8B%9D10%E4%BA%BA%E5%88%A9%E7%89%A9%E6%B5%A6-%E8%81%AF%E8%B3%BD6%E9%80%A3%E5%8B%9D%E7%BA%8C%E5%B1%85%E6%A6%9C%E9%A6%96",
+    "timestamp": "2026-10-11T17:55:24.063Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙特聯軍稱利雅得機場11日再受襲　胡塞武裝促客機遠離沙特空域",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185998534256627712182379.jpeg/4AwhHws67GVtrvHbNYihEcAw8mN32kc6XaeR_V2nkf0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60398465/%E5%AA%BD%E6%A8%A3%E5%B9%B4%E8%8F%AF-%E6%9D%8E%E5%B9%B8%E5%80%AA%E7%82%BA%E5%91%A8%E5%AE%B6%E6%80%A1%E9%A6%96%E5%94%B1%E4%B8%BB%E9%A1%8C%E6%9B%B2-%E9%A0%8240%E5%BA%A6%E9%AB%98%E6%BA%AB%E6%88%B6%E5%A4%96%E9%96%8B%E5%94%B1%E5%86%87%E6%AD%BB%E6%A9%9F",
     "timestamp": "2026-10-11T10:20:10.144Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "戴祖儀在公司仍常撞到吳若希　揭好友內心狀況：對佢唔係一個Lost",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186007727311163392759608.jpeg/_nfvsoQplmOHyro4uKPpP-VlbSYtylsWeavFJ3mrxSc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398480/%E6%88%B4%E7%A5%96%E5%84%80%E5%9C%A8%E5%85%AC%E5%8F%B8%E4%BB%8D%E5%B8%B8%E6%92%9E%E5%88%B0%E5%90%B3%E8%8B%A5%E5%B8%8C-%E6%8F%AD%E5%A5%BD%E5%8F%8B%E5%85%A7%E5%BF%83%E7%8B%80%E6%B3%81-%E5%B0%8D%E4%BD%A2%E5%94%94%E4%BF%82%E4%B8%80%E5%80%8Blost",
-    "timestamp": "2026-10-11T09:46:47.966Z",
     "strategy": ".content-card__main"
   }
 ];
