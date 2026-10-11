@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T12:54:33.531Z
+// Last updated: 2026-10-11T13:19:47.307Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華為尊界煞車踏板斷裂｜客服稱鎖單後訂金不退　車主：安全感喪失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185202561947406336609432.png/FY8jydWS9o4hd4f0WgICBxndaiTo-u0POblWSTm5Vkk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60398516/%E8%8F%AF%E7%82%BA%E5%B0%8A%E7%95%8C%E7%85%9E%E8%BB%8A%E8%B8%8F%E6%9D%BF%E6%96%B7%E8%A3%82-%E5%AE%A2%E6%9C%8D%E7%A8%B1%E9%8E%96%E5%96%AE%E5%BE%8C%E8%A8%82%E9%87%91%E4%B8%8D%E9%80%80-%E8%BB%8A%E4%B8%BB-%E5%AE%89%E5%85%A8%E6%84%9F%E5%96%AA%E5%A4%B1",
+    "timestamp": "2026-10-11T13:19:47.307Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七隻貓疑遭人遺棄大埔　善心人帶往保護遺棄動物協會　惜全數死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183761446111023104167304.png/mgiAAE15SK3rxv5W1ao_fyTXRlDiEpo7dQIHynUCB8o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398402/%E4%BF%84%E9%BC%A0%E7%96%AB%E5%AF%A6%E9%A9%97%E5%AE%A4%E5%93%A1%E5%B7%A5%E6%82%A3%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1-%E4%B8%96%E8%A1%9B-%E6%AD%BB%E5%9B%A0%E6%9C%AA%E6%98%8E-%E6%9A%AB%E7%84%A1%E5%82%B3%E6%92%AD%E8%B7%A1%E8%B1%A1",
     "timestamp": "2026-10-11T04:25:04.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國防部批賴清德雙十演說煽動兩岸對立　暴露「台灣之禍」本質",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185918179684126720234601.jpeg/XvxDPcgK4Kktubz_cij-GiBFinD0LJCOA49BEAOPQRA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60398396/%E5%9C%8B%E9%98%B2%E9%83%A8%E6%89%B9%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%9B%99%E5%8D%81%E6%BC%94%E8%AA%AA%E7%85%BD%E5%8B%95%E5%85%A9%E5%B2%B8%E5%B0%8D%E7%AB%8B-%E6%9A%B4%E9%9C%B2-%E5%8F%B0%E7%81%A3%E4%B9%8B%E7%A6%8D-%E6%9C%AC%E8%B3%AA",
-    "timestamp": "2026-10-11T03:54:46.953Z",
     "strategy": ".content-card__main"
   }
 ];
