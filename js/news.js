@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T21:59:04.827Z
+// Last updated: 2026-10-11T22:20:18.264Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "61歲前小生狂食煎炸嘢完全唔擔心健康　曾被封渣男現今幸福美滿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186018711534833664250687.jpeg/Yw0e3cEdz7ujQ5GnvPeUeULCuMjoHSq86loZjOpaGYw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396775/61%E6%AD%B2%E5%89%8D%E5%B0%8F%E7%94%9F%E7%8B%82%E9%A3%9F%E7%85%8E%E7%82%B8%E5%98%A2%E5%AE%8C%E5%85%A8%E5%94%94%E6%93%94%E5%BF%83%E5%81%A5%E5%BA%B7-%E6%9B%BE%E8%A2%AB%E5%B0%81%E6%B8%A3%E7%94%B7%E7%8F%BE%E4%BB%8A%E5%B9%B8%E7%A6%8F%E7%BE%8E%E6%BB%BF",
+    "timestamp": "2026-10-11T22:20:18.264Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸懶人包｜06：30開通　交通一覽　合作查驗e道登記教學",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185629967426260992439527.png/b9RU4XHFYl7xMrwGotkpFrD12Z-ZdM7Jtbqjg7W6o4M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60398267/%E7%B6%B2%E7%B4%85%E8%89%BE%E7%91%9E%E7%B5%B2%E6%8B%8D%E7%89%87%E6%BF%80%E5%87%B8%E6%8E%80%E7%86%B1%E8%AD%B0-%E5%A4%A7%E6%96%B9%E8%AA%8Dno-bra%E5%A4%9A%E5%B9%B4-%E7%94%B7%E4%BA%BA%E4%B9%9F%E5%87%B8%E7%82%BA%E4%BD%95%E7%AE%A1%E6%88%91",
     "timestamp": "2026-10-11T14:45:37.838Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BTS秘魯開唱酒店遭私生飯全天圍堵　RM深夜發文：吵到無法入睡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185962944173707264780123.jpeg/Q0bf7gD2JbvWe4JxQsqpXLBy2RdYFvZyO6FUjDuhVIw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398430/bts%E7%A7%98%E9%AD%AF%E9%96%8B%E5%94%B1%E9%85%92%E5%BA%97%E9%81%AD%E7%A7%81%E7%94%9F%E9%A3%AF%E5%85%A8%E5%A4%A9%E5%9C%8D%E5%A0%B5-rm%E6%B7%B1%E5%A4%9C%E7%99%BC%E6%96%87-%E5%90%B5%E5%88%B0%E7%84%A1%E6%B3%95%E5%85%A5%E7%9D%A1",
-    "timestamp": "2026-10-11T14:21:01.236Z",
     "strategy": ".content-card__main"
   }
 ];
