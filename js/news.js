@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T15:35:04.637Z
+// Last updated: 2026-10-11T15:58:04.160Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東非吉布提偷渡船往也門途中翻沉　至少139死84人失蹤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186097870256738304251890.jpeg/5XSK2bozoQ_kitMqELGrkORKsZfsTE6UT53pUE-d6VA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398534/%E6%9D%B1%E9%9D%9E%E5%90%89%E5%B8%83%E6%8F%90%E5%81%B7%E6%B8%A1%E8%88%B9%E5%BE%80%E4%B9%9F%E9%96%80%E9%80%94%E4%B8%AD%E7%BF%BB%E6%B2%89-%E8%87%B3%E5%B0%91139%E6%AD%BB84%E4%BA%BA%E5%A4%B1%E8%B9%A4",
+    "timestamp": "2026-10-11T15:58:04.160Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "隔夜餸加熱無法殺死比細菌更致命的毒素　盤點高危食品及預防方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185978264053616640765013.jpeg/Bdlgehe3ugrOPoHQqKykUmNrJpwzD_Et0Fx-r9Bcfq8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398451/%E6%B5%81%E6%84%9F-%E9%AB%98%E5%8D%B1%E9%95%B7%E8%80%85%E6%9F%93%E7%97%85%E6%98%93%E6%9C%89%E4%BD%B5%E7%99%BC%E7%97%87-%E5%B0%88%E5%AE%B6%E5%80%A1%E6%97%A9%E6%8E%A5%E7%A8%AE%E5%AD%A3%E7%AF%80%E6%80%A7%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97",
     "timestamp": "2026-10-11T07:49:16.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "灣仔男子墮斃｜原定今日偕妻遊越南　疑醉酒坐欄失平衡由1樓墮下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178208932636659712109632.jpeg/DrJNvhVuy5rLlp-akkSedYzcALsWUH-wOK3NqQKtzak?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398434/%E7%81%A3%E4%BB%94%E7%94%B7%E5%AD%90%E5%A2%AE%E6%96%83-%E5%8E%9F%E5%AE%9A%E4%BB%8A%E6%97%A5%E5%81%95%E5%A6%BB%E9%81%8A%E8%B6%8A%E5%8D%97-%E7%96%91%E9%86%89%E9%85%92%E5%9D%90%E6%AC%84%E5%A4%B1%E5%B9%B3%E8%A1%A1%E7%94%B11%E6%A8%93%E5%A2%AE%E4%B8%8B",
-    "timestamp": "2026-10-11T07:29:16.101Z",
     "strategy": ".content-card__main"
   }
 ];
