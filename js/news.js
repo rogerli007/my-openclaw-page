@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T07:29:16.101Z
+// Last updated: 2026-10-11T07:49:16.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "流感｜高危長者染病易有併發症　專家倡早接種季節性流感疫苗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185978264053616640765013.jpeg/Bdlgehe3ugrOPoHQqKykUmNrJpwzD_Et0Fx-r9Bcfq8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398451/%E6%B5%81%E6%84%9F-%E9%AB%98%E5%8D%B1%E9%95%B7%E8%80%85%E6%9F%93%E7%97%85%E6%98%93%E6%9C%89%E4%BD%B5%E7%99%BC%E7%97%87-%E5%B0%88%E5%AE%B6%E5%80%A1%E6%97%A9%E6%8E%A5%E7%A8%AE%E5%AD%A3%E7%AF%80%E6%80%A7%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97",
+    "timestamp": "2026-10-11T07:49:16.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "灣仔男子墮斃｜原定今日偕妻遊越南　疑醉酒坐欄失平衡由1樓墮下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185835559134695424908216.jpeg/-u1AqZv4LncGmMNO4dG_h0WigUgdMlUPFrTxJxa08Sc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398367/%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%AA%A2%E5%80%BC-636%E8%90%AC%E5%86%B0%E6%AF%92-40%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-10T22:20:07.609Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普為美俄柴油協議辯護　批澤連斯基固執　指烏克蘭應換領導人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185817232899313664821496.jpeg/A5EBA05a9_ar_vzVxlOIjb4Od_4-ngAodnXscHZ17HA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398364/%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%BA%E7%BE%8E%E4%BF%84%E6%9F%B4%E6%B2%B9%E5%8D%94%E8%AD%B0%E8%BE%AF%E8%AD%B7-%E6%89%B9%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%9B%BA%E5%9F%B7-%E6%8C%87%E7%83%8F%E5%85%8B%E8%98%AD%E6%87%89%E6%8F%9B%E9%A0%98%E5%B0%8E%E4%BA%BA",
-    "timestamp": "2026-10-10T21:34:54.542Z",
     "strategy": ".content-card__main"
   }
 ];
