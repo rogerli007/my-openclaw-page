@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T09:20:55.052Z
+// Last updated: 2026-10-11T09:46:47.966Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "戴祖儀在公司仍常撞到吳若希　揭好友內心狀況：對佢唔係一個Lost",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186007727311163392759608.jpeg/_nfvsoQplmOHyro4uKPpP-VlbSYtylsWeavFJ3mrxSc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398480/%E6%88%B4%E7%A5%96%E5%84%80%E5%9C%A8%E5%85%AC%E5%8F%B8%E4%BB%8D%E5%B8%B8%E6%92%9E%E5%88%B0%E5%90%B3%E8%8B%A5%E5%B8%8C-%E6%8F%AD%E5%A5%BD%E5%8F%8B%E5%85%A7%E5%BF%83%E7%8B%80%E6%B3%81-%E5%B0%8D%E4%BD%A2%E5%94%94%E4%BF%82%E4%B8%80%E5%80%8Blost",
+    "timestamp": "2026-10-11T09:46:47.966Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《玉簟秋》海報踩雷！被指物化女性　構圖疑抄襲《不二之臣》惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398369/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E6%AD%BB%E5%9B%9A%E6%89%93%E6%AF%92%E9%87%9D%E5%BE%8C%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84-%E5%B7%B2%E5%87%BA%E9%99%A2%E8%A2%AB%E9%80%81%E5%9B%9E%E6%9B%BE%E9%97%9C%E6%8A%BC30%E5%B9%B4%E7%9B%A3%E7%8D%84",
     "timestamp": "2026-10-10T23:46:52.060Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安徽雲端天梯爆紅　直面365米深谷　景區拒網售：現場看清再決定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185658799822737408658037.png/Pfn21r4mFw_0QlWW_IBLOIjqgl2F40OyUFWI11BViNc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398184/%E5%AE%89%E5%BE%BD%E9%9B%B2%E7%AB%AF%E5%A4%A9%E6%A2%AF%E7%88%86%E7%B4%85-%E7%9B%B4%E9%9D%A2365%E7%B1%B3%E6%B7%B1%E8%B0%B7-%E6%99%AF%E5%8D%80%E6%8B%92%E7%B6%B2%E5%94%AE-%E7%8F%BE%E5%A0%B4%E7%9C%8B%E6%B8%85%E5%86%8D%E6%B1%BA%E5%AE%9A",
-    "timestamp": "2026-10-10T23:34:30.704Z",
     "strategy": ".content-card__main"
   }
 ];
