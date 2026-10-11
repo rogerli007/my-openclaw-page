@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T22:20:18.264Z
+// Last updated: 2026-10-11T22:45:32.332Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "出身草根男星海景豪宅曝光飯廳極闊落　喪父曾領綜援北上吸金走紅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186056408479567872520471.jpeg/CVzrNTUkUzmILAd9oezz40mdvMh29sdexml7qcZpe6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398483/%E7%8E%8B%E7%A5%96%E8%97%8D%E6%B5%B7%E6%99%AF%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89%E9%A3%AF%E5%BB%B3%E6%A5%B5%E9%97%8A%E8%90%BD-%E5%96%AA%E7%88%B6%E6%9B%BE%E9%A0%98%E7%B6%9C%E6%8F%B4%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%B5%B0%E7%B4%85",
+    "timestamp": "2026-10-11T22:45:32.332Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "61歲前小生狂食煎炸嘢完全唔擔心健康　曾被封渣男現今幸福美滿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186074026368307200548263.jpeg/f4iqEVMrtoVQj8Dcxf9octCp0bFuZbk6DL1WDgy9Vg4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398524/%E6%97%BA%E8%A7%92%E4%B8%AD%E5%BF%83%E5%85%A9%E8%88%96%E7%96%91%E4%B8%8D%E5%92%8C-%E9%A6%96%E9%A3%BE%E5%BA%97%E5%93%A1%E5%85%A5%E7%BE%8E%E7%94%B2%E5%BA%97%E5%90%90%E5%8F%A3%E6%B0%B4%E9%87%80%E4%BA%92%E6%AF%86-%E8%AD%A6%E6%8B%983%E5%A5%B3",
     "timestamp": "2026-10-11T14:56:20.585Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網紅艾瑞絲拍片激凸掀熱議　大方認No Bra多年：男人也凸為何管我",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185629967426260992439527.png/b9RU4XHFYl7xMrwGotkpFrD12Z-ZdM7Jtbqjg7W6o4M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60398267/%E7%B6%B2%E7%B4%85%E8%89%BE%E7%91%9E%E7%B5%B2%E6%8B%8D%E7%89%87%E6%BF%80%E5%87%B8%E6%8E%80%E7%86%B1%E8%AD%B0-%E5%A4%A7%E6%96%B9%E8%AA%8Dno-bra%E5%A4%9A%E5%B9%B4-%E7%94%B7%E4%BA%BA%E4%B9%9F%E5%87%B8%E7%82%BA%E4%BD%95%E7%AE%A1%E6%88%91",
-    "timestamp": "2026-10-11T14:45:37.838Z",
     "strategy": ".content-card__main"
   }
 ];
