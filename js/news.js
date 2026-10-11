@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T05:58:25.349Z
+// Last updated: 2026-10-11T06:32:12.214Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧兆尊認為尋回梅艷芳骨灰機會好微　私下有團隊跟進：覺得搵唔返",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185952345750507520068713.jpeg/Z1ClV52kZjQgTuTS1Ea1n3kyWp9p-Zp-yIITWciCE1k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398423/%E9%84%A7%E5%85%86%E5%B0%8A%E8%AA%8D%E7%82%BA%E5%B0%8B%E5%9B%9E%E6%A2%85%E8%89%B7%E8%8A%B3%E9%AA%A8%E7%81%B0%E6%A9%9F%E6%9C%83%E5%A5%BD%E5%BE%AE-%E7%A7%81%E4%B8%8B%E6%9C%89%E5%9C%98%E9%9A%8A%E8%B7%9F%E9%80%B2-%E8%A6%BA%E5%BE%97%E6%90%B5%E5%94%94%E8%BF%94",
+    "timestamp": "2026-10-11T06:32:12.214Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳住宅變詐騙電話中心　「貓池」狂打2.3萬電話　24歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185808505395744768023768.jpeg/mhD_81HSN0f0h8A_fqk3GG6ptrIqVD85XkUM0F5FDNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398362/%E8%8B%B1%E5%9C%8B%E7%B4%84%E5%85%8B%E9%83%A1%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E5%9C%92%E6%85%98%E5%8A%87-%E7%94%B7%E5%AD%90%E9%97%96%E8%80%81%E8%99%8E%E5%9C%92%E5%8D%80%E9%81%87%E8%A5%B2%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-10T20:46:12.206Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣酒吧男酒客被至少兩男用刀襲擊　送院治理　疑犯在逃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1185802312124207104190628.jpeg/RlMzqCsgY8gOCSIcn7ndzolplI1jjtCehvefRLz3n0Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398360/%E8%8D%83%E7%81%A3%E9%85%92%E5%90%A7%E7%94%B7%E9%85%92%E5%AE%A2%E8%A2%AB%E8%87%B3%E5%B0%91%E5%85%A9%E7%94%B7%E7%94%A8%E5%88%80%E8%A5%B2%E6%93%8A-%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E7%96%91%E7%8A%AF%E5%9C%A8%E9%80%83",
-    "timestamp": "2026-10-10T20:20:22.352Z",
     "strategy": ".content-card__main"
   }
 ];
