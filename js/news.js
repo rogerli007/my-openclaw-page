@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T23:20:08.865Z
+// Last updated: 2026-10-11T23:47:06.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿拉格齊與沙特外長通話　稱伊朗願推動與胡塞武裝對話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186211137524338688891265.jpeg/OC8Tk8L3c30ihQuGNusZwyIxHsx2Qy7aFUKPFRVCjxU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398550/%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%8A%E8%88%87%E6%B2%99%E7%89%B9%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%A8%B1%E4%BC%8A%E6%9C%97%E9%A1%98%E6%8E%A8%E5%8B%95%E8%88%87%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%B0%8D%E8%A9%B1",
+    "timestamp": "2026-10-11T23:47:06.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "都市傳說｜英男車禍醒來妻兒竟「從未存在」？疑闖平行時空",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186097870256738304251890.jpeg/5XSK2bozoQ_kitMqELGrkORKsZfsTE6UT53pUE-d6VA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398534/%E6%9D%B1%E9%9D%9E%E5%90%89%E5%B8%83%E6%8F%90%E5%81%B7%E6%B8%A1%E8%88%B9%E5%BE%80%E4%B9%9F%E9%96%80%E9%80%94%E4%B8%AD%E7%BF%BB%E6%B2%89-%E8%87%B3%E5%B0%91139%E6%AD%BB84%E4%BA%BA%E5%A4%B1%E8%B9%A4",
     "timestamp": "2026-10-11T15:58:04.160Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "隔夜餸加熱無法殺死比細菌更致命的毒素　盤點高危食品及預防方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1175043429021782016234165.jpeg/837AjKKwzxhKknAZJA3P6gcPljuBWHLW_I4-raqOPq0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60302294/%E9%9A%94%E5%A4%9C%E9%A4%B8%E5%8A%A0%E7%86%B1%E7%84%A1%E6%B3%95%E6%AE%BA%E6%AD%BB%E6%AF%94%E7%B4%B0%E8%8F%8C%E6%9B%B4%E8%87%B4%E5%91%BD%E7%9A%84%E6%AF%92%E7%B4%A0-%E7%9B%A4%E9%BB%9E%E9%AB%98%E5%8D%B1%E9%A3%9F%E5%93%81%E5%8F%8A%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-10-11T15:35:04.637Z",
     "strategy": ".content-card__main"
   }
 ];
