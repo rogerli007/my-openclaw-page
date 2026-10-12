@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T15:10:08.010Z
+// Last updated: 2026-10-12T15:28:27.676Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "90後離巢TVB藝人成家立室　新娘金鈪串滿頸敬酒環節金光閃閃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186405653673938944097486.png/1c4BghyhbUnFhMrUQWFeIY-7AfJHs9uihilvvoYpb74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398912/28%E6%AD%B2-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E6%B0%B9%E4%BB%94-%E9%99%B3%E6%88%A9%E6%B5%A9%E6%88%90%E5%AE%B6%E7%AB%8B%E5%AE%A4-%E6%A2%81%E8%A9%A0%E7%A5%88%E9%87%91%E9%88%AA%E4%B8%B2%E6%BB%BF%E9%A0%B8%E5%8B%81%E6%90%B6%E9%8F%A1",
+    "timestamp": "2026-10-12T15:28:27.676Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段升逾200點　油價最新漲逾2%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186211137524338688891265.jpeg/OC8Tk8L3c30ihQuGNusZwyIxHsx2Qy7aFUKPFRVCjxU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398550/%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%8A%E8%88%87%E6%B2%99%E7%89%B9%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%A8%B1%E4%BC%8A%E6%9C%97%E9%A1%98%E6%8E%A8%E5%8B%95%E8%88%87%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-10-11T23:55:37.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿拉格齊與沙特外長通話　稱伊朗願推動與胡塞武裝對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186211137524338688891265.jpeg/OC8Tk8L3c30ihQuGNusZwyIxHsx2Qy7aFUKPFRVCjxU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398550/%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%8A%E8%88%87%E6%B2%99%E7%89%B9%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%A8%B1%E4%BC%8A%E6%9C%97%E9%A1%98%E6%8E%A8%E5%8B%95%E8%88%87%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-10-11T23:47:06.604Z",
     "strategy": ".content-card__main"
   }
 ];
