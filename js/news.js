@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T01:51:17.578Z
+// Last updated: 2026-10-12T02:44:49.535Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄烏戰爭｜買俄羅斯柴油　又宣布能源停火　特朗普自證走投無路？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186250207684202496510267.jpeg/58bGl0tF8Gzb8WqzTaYT87SYV8pCDrwrPRbilj0W4pY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60398572/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E8%B2%B7%E4%BF%84%E7%BE%85%E6%96%AF%E6%9F%B4%E6%B2%B9-%E5%8F%88%E5%AE%A3%E5%B8%83%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E8%AD%89%E8%B5%B0%E6%8A%95%E7%84%A1%E8%B7%AF",
+    "timestamp": "2026-10-12T02:44:49.535Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜慈雲山慈正邨13歲男童高處墮下　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186111971204796416287631.png/TZQABT2Z_RUngPdehfB2QRVxoCxIr71sftkNSX7ZDUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398536/%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D%E7%A8%B1%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B411%E6%97%A5%E5%86%8D%E5%8F%97%E8%A5%B2-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BF%83%E5%AE%A2%E6%A9%9F%E9%81%A0%E9%9B%A2%E6%B2%99%E7%89%B9%E7%A9%BA%E5%9F%9F",
     "timestamp": "2026-10-11T17:18:14.285Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特聯軍稱利雅得機場11日再受襲　胡塞武裝促客機遠離沙特空域",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186111971204796416287631.png/TZQABT2Z_RUngPdehfB2QRVxoCxIr71sftkNSX7ZDUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398536/%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D%E7%A8%B1%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B411%E6%97%A5%E5%86%8D%E5%8F%97%E8%A5%B2-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BF%83%E5%AE%A2%E6%A9%9F%E9%81%A0%E9%9B%A2%E6%B2%99%E7%89%B9%E7%A9%BA%E5%9F%9F",
-    "timestamp": "2026-10-11T16:57:25.052Z",
     "strategy": ".content-card__main"
   }
 ];
