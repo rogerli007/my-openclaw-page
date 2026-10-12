@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T10:41:16.131Z
+// Last updated: 2026-10-12T11:02:25.112Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜演員陣容名單＋角色人物介紹：張智霖／吳卓羲／高海寧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185603044348268544407896.jpeg/RiDH4nRunanNuFNku5d7sEP01T5t8o9iS7fp00u36dM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398223/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E6%BC%94%E5%93%A1%E9%99%A3%E5%AE%B9%E5%90%8D%E5%96%AE-%E8%A7%92%E8%89%B2%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B9-%E5%BC%B5%E6%99%BA%E9%9C%96-%E5%90%B3%E5%8D%93%E7%BE%B2-%E9%AB%98%E6%B5%B7%E5%AF%A7",
+    "timestamp": "2026-10-12T11:02:25.112Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT香港總決賽｜12月9至13日啟德體藝館上演　門票10.23公開發售",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186056408479567872520471.jpeg/CVzrNTUkUzmILAd9oezz40mdvMh29sdexml7qcZpe6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398483/%E7%8E%8B%E7%A5%96%E8%97%8D%E6%B5%B7%E6%99%AF%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89%E9%A3%AF%E5%BB%B3%E6%A5%B5%E9%97%8A%E8%90%BD-%E5%96%AA%E7%88%B6%E6%9B%BE%E9%A0%98%E7%B6%9C%E6%8F%B4%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%B5%B0%E7%B4%85",
     "timestamp": "2026-10-11T22:45:32.332Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "61歲前小生狂食煎炸嘢完全唔擔心健康　曾被封渣男現今幸福美滿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186018711534833664250687.jpeg/Yw0e3cEdz7ujQ5GnvPeUeULCuMjoHSq86loZjOpaGYw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396775/61%E6%AD%B2%E5%89%8D%E5%B0%8F%E7%94%9F%E7%8B%82%E9%A3%9F%E7%85%8E%E7%82%B8%E5%98%A2%E5%AE%8C%E5%85%A8%E5%94%94%E6%93%94%E5%BF%83%E5%81%A5%E5%BA%B7-%E6%9B%BE%E8%A2%AB%E5%B0%81%E6%B8%A3%E7%94%B7%E7%8F%BE%E4%BB%8A%E5%B9%B8%E7%A6%8F%E7%BE%8E%E6%BB%BF",
-    "timestamp": "2026-10-11T22:20:18.264Z",
     "strategy": ".content-card__main"
   }
 ];
