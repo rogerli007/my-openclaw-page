@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T09:39:29.671Z
+// Last updated: 2026-10-12T10:07:22.526Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Bill Gates警告2027年AI網攻急增　斥企業自我監管不足",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250331/983422932581617664263987.jpeg/_nFcHlVZvYZBR3oMC31VUcOBM5F3Kfkij_HIS4_xyEs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398732/bill-gates%E8%AD%A6%E5%91%8A2027%E5%B9%B4ai%E7%B6%B2%E6%94%BB%E6%80%A5%E5%A2%9E-%E6%96%A5%E4%BC%81%E6%A5%AD%E8%87%AA%E6%88%91%E7%9B%A3%E7%AE%A1%E4%B8%8D%E8%B6%B3",
+    "timestamp": "2026-10-12T10:07:22.526Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "休斯頓華人超市爆發槍戰　亞裔男帶狗遭阻拔槍與保安互轟同重傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170445074543415296390245.jpeg/R5Uub-BdYhYJkI_tkEGdNO2won9hqDB9z3zpDs986Q4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398546/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E6%87%B6%E4%BA%BA%E5%8C%85-06-30%E9%96%8B%E9%80%9A-%E4%BA%A4%E9%80%9A%E4%B8%80%E8%A6%BD-%E5%90%88%E4%BD%9C%E6%9F%A5%E9%A9%97e%E9%81%93%E7%99%BB%E8%A8%98%E6%95%99%E5%AD%B8",
     "timestamp": "2026-10-11T21:59:04.827Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡塞武裝稱24小時內四度襲擊沙特　巴基斯坦、埃及和土耳其譴責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398541/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B124%E5%B0%8F%E6%99%82%E5%85%A7%E5%9B%9B%E5%BA%A6%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E5%9F%83%E5%8F%8A%E5%92%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E8%AD%B4%E8%B2%AC",
-    "timestamp": "2026-10-11T21:19:17.090Z",
     "strategy": ".content-card__main"
   }
 ];
