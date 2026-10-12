@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T21:21:24.795Z
+// Last updated: 2026-10-12T21:45:46.860Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "也門胡塞武裝稱再襲利雅得機場　沙特聯軍：攔截一枚彈道導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186110680642621440496703.jpeg/FmE2OcyEP5i_EqZqNLAdKM7DMV6HQ2dk_k5Luv5OS7o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398961/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B1%E5%86%8D%E8%A5%B2%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4-%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D-%E6%94%94%E6%88%AA%E4%B8%80%E6%9E%9A%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-10-12T21:45:46.860Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "也門胡塞武裝稱再襲利雅得機場　沙特聯軍：攔截一枚彈道導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250331/983422932581617664263987.jpeg/_nFcHlVZvYZBR3oMC31VUcOBM5F3Kfkij_HIS4_xyEs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398732/bill-gates%E8%AD%A6%E5%91%8A2027%E5%B9%B4ai%E7%B6%B2%E6%94%BB%E6%80%A5%E5%A2%9E-%E6%96%A5%E4%BC%81%E6%A5%AD%E8%87%AA%E6%88%91%E7%9B%A3%E7%AE%A1%E4%B8%8D%E8%B6%B3",
     "timestamp": "2026-10-12T10:07:22.526Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "休斯頓華人超市爆發槍戰　亞裔男帶狗遭阻拔槍與保安互轟同重傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186356745404944384386274.jpeg/KQVsFF4aGEm21VaBlEQZydXHuF_3qqyIQWX_nUFl_50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398616/%E4%BC%91%E6%96%AF%E9%A0%93%E8%8F%AF%E4%BA%BA%E8%B6%85%E5%B8%82%E7%88%86%E7%99%BC%E6%A7%8D%E6%88%B0-%E4%BA%9E%E8%A3%94%E7%94%B7%E5%B8%B6%E7%8B%97%E9%81%AD%E9%98%BB%E6%8B%94%E6%A7%8D%E8%88%87%E4%BF%9D%E5%AE%89%E4%BA%92%E8%BD%9F%E5%90%8C%E9%87%8D%E5%82%B7",
-    "timestamp": "2026-10-12T09:39:29.671Z",
     "strategy": ".content-card__main"
   }
 ];
