@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T04:12:12.205Z
+// Last updated: 2026-10-12T04:50:39.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施永青提「次貨避孕套」催生｜消委會實測破迷思 4大漏洞更易中招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186297118378168320618374.png/yFXdDI9jcwy7-RTC5SAfjQMFrsZKlAM4QPVZKUD1WSk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60398606/%E6%96%BD%E6%B0%B8%E9%9D%92%E6%8F%90-%E6%AC%A1%E8%B2%A8%E9%81%BF%E5%AD%95%E5%A5%97-%E5%82%AC%E7%94%9F-%E6%B6%88%E5%A7%94%E6%9C%83%E5%AF%A6%E6%B8%AC%E7%A0%B4%E8%BF%B7%E6%80%9D-4%E5%A4%A7%E6%BC%8F%E6%B4%9E%E6%9B%B4%E6%98%93%E4%B8%AD%E6%8B%9B",
+    "timestamp": "2026-10-12T04:50:39.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黑工倒斃米埔魚塘｜37歲死者做冷氣技工　鄰居曾見於魚塘邊餵魚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145748806495637504740981.jpeg/9Zx7Wi0PSIvuyp8CyPFXqyJ8mluWESjZYBieD2AYng8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398535/%E6%B3%A2%E8%98%AD%E6%8B%98%E6%8D%95%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90-%E6%B6%89%E8%A8%88%E5%8A%83%E8%A5%B2%E6%93%8A%E7%B8%BD%E7%90%86%E5%9C%96%E6%96%AF%E5%85%8B",
     "timestamp": "2026-10-11T18:25:18.568Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼城作客3：0勝10人利物浦　聯賽6連勝續居榜首",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186125349243588608429615.jpeg/jITfxW0-D0o81scE3ERU9ss50BtZr2OFH9b9zB_W_cw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398538/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A23-0%E5%8B%9D10%E4%BA%BA%E5%88%A9%E7%89%A9%E6%B5%A6-%E8%81%AF%E8%B3%BD6%E9%80%A3%E5%8B%9D%E7%BA%8C%E5%B1%85%E6%A6%9C%E9%A6%96",
-    "timestamp": "2026-10-11T17:55:24.063Z",
     "strategy": ".content-card__main"
   }
 ];
