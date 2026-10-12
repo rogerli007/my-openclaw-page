@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T15:52:15.007Z
+// Last updated: 2026-10-12T16:01:22.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李佳芯首拍ViuTV劇　妙談與TVB台風分別：有啲字眼以前唔得㗎喎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186454531374845952970845.jpeg/SqWZt3QrfZ62DX3_Q5FKGCTzI82-qPxGRVNYnUVTWJ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398879/%E6%9D%8E%E4%BD%B3%E8%8A%AF%E9%A6%96%E6%8B%8Dviutv%E5%8A%87-%E5%A6%99%E8%AB%87%E8%88%87tvb%E5%8F%B0%E9%A2%A8%E5%88%86%E5%88%A5-%E6%9C%89%E5%95%B2%E5%AD%97%E7%9C%BC%E4%BB%A5%E5%89%8D%E5%94%94%E5%BE%97%E3%97%8E%E5%96%8E",
+    "timestamp": "2026-10-12T16:01:22.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳曉華曬性感大露背突發文　留12字疑嘆花旦爭位無奈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175791482607505408830564.jpeg/bNdXnBT91ITHCPGtrCEsQ-iRfeildD9kIWgg_gtoIP4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398566/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%85%88%E9%9B%B2%E5%B1%B1%E6%85%88%E6%AD%A3%E9%82%A813%E6%AD%B2%E7%94%B7%E7%AB%A5%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-12T01:51:17.578Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朝鮮試射疑似彈道導彈　日本：落在專屬經濟區水域外",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093071450526584832249671.jpeg/UqagrJyupMpYaWZp32Axf_5n7JIBR9lG936oZfd-qGU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398562/%E6%9C%9D%E9%AE%AE%E8%A9%A6%E5%B0%84%E7%96%91%E4%BC%BC%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88-%E6%97%A5%E6%9C%AC-%E8%90%BD%E5%9C%A8%E5%B0%88%E5%B1%AC%E7%B6%93%E6%BF%9F%E5%8D%80%E6%B0%B4%E5%9F%9F%E5%A4%96",
-    "timestamp": "2026-10-12T00:58:46.415Z",
     "strategy": ".content-card__main"
   }
 ];
