@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T19:47:55.762Z
+// Last updated: 2026-10-12T19:59:38.093Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝安德：英空軍基地恐襲未遂案　幾乎肯定由伊朗革命衛隊指使",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106086321375416320367925.jpeg/c7s5-5-fp_Y22WAyYxU_GToAjcD6_P63Tymxkk8psZI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398955/%E8%B2%9D%E5%AE%89%E5%BE%B7-%E8%8B%B1%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E5%B9%BE%E4%B9%8E%E8%82%AF%E5%AE%9A%E7%94%B1%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E6%8C%87%E4%BD%BF",
+    "timestamp": "2026-10-12T19:59:38.093Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新蒲崗男子遭妻用剪刀襲擊　胸口、左肩受傷送院　警拘女子涉傷人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183703661818155008815397.jpeg/HMjgzoSuDV7di3vyr89zHuq3eCFZARkY_K48M_yuPDM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60395323/%E8%96%84%E6%89%B6%E6%9E%97%E8%88%9E%E7%81%AB%E9%BE%8D%E9%9D%92%E5%B9%B4%E9%AB%94%E9%A9%97-%E8%81%96%E4%BC%AF%E5%A4%9A%E7%A5%BF%E5%B8%AB%E7%94%9F%E8%B7%A8%E5%AD%B8%E7%A7%91%E5%AF%A6%E4%BD%9C%E5%82%B3%E6%89%BF%E9%9D%9E%E9%81%BA",
     "timestamp": "2026-10-12T06:04:14.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣電車出軌撼餐廳　老闆嘆生意難做再遭橫禍：幾痛苦雪上加霜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186303476414550016408593.jpeg/oUfOc8MOCnL4nWsNQtRFpmD9O7z6yT8y9_VcRvf1XEY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398675/%E7%AD%B2%E7%AE%95%E7%81%A3%E9%9B%BB%E8%BB%8A%E5%87%BA%E8%BB%8C%E6%92%BC%E9%A4%90%E5%BB%B3-%E8%80%81%E9%97%86%E5%98%86%E7%94%9F%E6%84%8F%E9%9B%A3%E5%81%9A%E5%86%8D%E9%81%AD%E6%A9%AB%E7%A6%8D-%E5%B9%BE%E7%97%9B%E8%8B%A6%E9%9B%AA%E4%B8%8A%E5%8A%A0%E9%9C%9C",
-    "timestamp": "2026-10-12T05:42:08.084Z",
     "strategy": ".content-card__main"
   }
 ];
