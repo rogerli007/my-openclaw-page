@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T06:59:14.981Z
+// Last updated: 2026-10-12T09:00:01.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡塞襲擊重創經濟　沙特阿拉伯王儲萬億轉型大計恐泡湯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125913935862566912639058.jpeg/Cc64NbWKgiCa4UTRwmDeUhxJypkM5DEeaGeJUGhniVA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398790/%E8%83%A1%E5%A1%9E%E8%A5%B2%E6%93%8A%E9%87%8D%E5%89%B5%E7%B6%93%E6%BF%9F-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E7%8E%8B%E5%84%B2%E8%90%AC%E5%84%84%E8%BD%89%E5%9E%8B%E5%A4%A7%E8%A8%88%E6%81%90%E6%B3%A1%E6%B9%AF",
+    "timestamp": "2026-10-12T09:00:01.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡塞武裝1周3次襲利雅得機場　美媒：沙特王儲陷兩難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398541/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B124%E5%B0%8F%E6%99%82%E5%85%A7%E5%9B%9B%E5%BA%A6%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E5%9F%83%E5%8F%8A%E5%92%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E8%AD%B4%E8%B2%AC",
     "timestamp": "2026-10-11T20:57:28.528Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡塞武裝稱24小時內四度襲擊沙特　巴基斯坦、埃及和土耳其譴責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398541/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B124%E5%B0%8F%E6%99%82%E5%85%A7%E5%9B%9B%E5%BA%A6%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E5%9F%83%E5%8F%8A%E5%92%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E8%AD%B4%E8%B2%AC",
-    "timestamp": "2026-10-11T20:21:20.315Z",
     "strategy": ".content-card__main"
   }
 ];
