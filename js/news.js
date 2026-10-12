@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T04:50:39.964Z
+// Last updated: 2026-10-12T05:10:54.187Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 18 Pro Max先達炒價直擊！12/10大紅稍為回氣｜每日更新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181238807349956608458267.jpeg/vPXXnjG8FJAOCdpsz0tXiNseEQhu-XKD6jot_eo6Lf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
+    "timestamp": "2026-10-12T05:10:54.187Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施永青提「次貨避孕套」催生｜消委會實測破迷思 4大漏洞更易中招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145748806495637504740981.jpeg/9Zx7Wi0PSIvuyp8CyPFXqyJ8mluWESjZYBieD2AYng8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398535/%E6%B3%A2%E8%98%AD%E6%8B%98%E6%8D%95%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90-%E6%B6%89%E8%A8%88%E5%8A%83%E8%A5%B2%E6%93%8A%E7%B8%BD%E7%90%86%E5%9C%96%E6%96%AF%E5%85%8B",
     "timestamp": "2026-10-11T18:49:47.588Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "波蘭拘捕一名男子　涉計劃襲擊總理圖斯克",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145748806495637504740981.jpeg/9Zx7Wi0PSIvuyp8CyPFXqyJ8mluWESjZYBieD2AYng8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398535/%E6%B3%A2%E8%98%AD%E6%8B%98%E6%8D%95%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90-%E6%B6%89%E8%A8%88%E5%8A%83%E8%A5%B2%E6%93%8A%E7%B8%BD%E7%90%86%E5%9C%96%E6%96%AF%E5%85%8B",
-    "timestamp": "2026-10-11T18:25:18.568Z",
     "strategy": ".content-card__main"
   }
 ];
