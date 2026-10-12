@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T05:42:08.084Z
+// Last updated: 2026-10-12T06:04:14.508Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薄扶林舞火龍青年體驗　聖伯多祿師生跨學科實作傳承非遺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183703661818155008815397.jpeg/HMjgzoSuDV7di3vyr89zHuq3eCFZARkY_K48M_yuPDM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60395323/%E8%96%84%E6%89%B6%E6%9E%97%E8%88%9E%E7%81%AB%E9%BE%8D%E9%9D%92%E5%B9%B4%E9%AB%94%E9%A9%97-%E8%81%96%E4%BC%AF%E5%A4%9A%E7%A5%BF%E5%B8%AB%E7%94%9F%E8%B7%A8%E5%AD%B8%E7%A7%91%E5%AF%A6%E4%BD%9C%E5%82%B3%E6%89%BF%E9%9D%9E%E9%81%BA",
+    "timestamp": "2026-10-12T06:04:14.508Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣電車出軌撼餐廳　老闆嘆生意難做再遭橫禍：幾痛苦雪上加霜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398541/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B124%E5%B0%8F%E6%99%82%E5%85%A7%E5%9B%9B%E5%BA%A6%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E5%9F%83%E5%8F%8A%E5%92%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E8%AD%B4%E8%B2%AC",
     "timestamp": "2026-10-11T19:56:21.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "波蘭拘捕一名男子　涉計劃襲擊總理圖斯克",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260622/1145748806495637504740981.jpeg/9Zx7Wi0PSIvuyp8CyPFXqyJ8mluWESjZYBieD2AYng8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398535/%E6%B3%A2%E8%98%AD%E6%8B%98%E6%8D%95%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90-%E6%B6%89%E8%A8%88%E5%8A%83%E8%A5%B2%E6%93%8A%E7%B8%BD%E7%90%86%E5%9C%96%E6%96%AF%E5%85%8B",
-    "timestamp": "2026-10-11T19:22:15.145Z",
     "strategy": ".content-card__main"
   }
 ];
