@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T17:57:57.357Z
+// Last updated: 2026-10-12T18:53:14.304Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教宗良十四世13日入院　接受肺結節切除手術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186486205877850112346581.jpeg/pKNIbR4RW-daB8M3w89OZpqI5CAuaqrFpNvl-qTb5fo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398953/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%9613%E6%97%A5%E5%85%A5%E9%99%A2-%E6%8E%A5%E5%8F%97%E8%82%BA%E7%B5%90%E7%AF%80%E5%88%87%E9%99%A4%E6%89%8B%E8%A1%93",
+    "timestamp": "2026-10-12T18:53:14.304Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅：願與俄維護彼此正當海洋權益　維護全球關鍵航道正常通行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186275933229682688971245.jpeg/18IVqtWCWqayDTNuGdb5rU39Bj2y6WkqxssMVsbLDFY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398614/%E9%BB%91%E5%B7%A5%E5%80%92%E6%96%83%E7%B1%B3%E5%9F%94%E9%AD%9A%E5%A1%98-37%E6%AD%B2%E6%AD%BB%E8%80%85%E5%81%9A%E5%86%B7%E6%B0%A3%E6%8A%80%E5%B7%A5-%E9%84%B0%E5%B1%85%E6%9B%BE%E8%A6%8B%E6%96%BC%E9%AD%9A%E5%A1%98%E9%82%8A%E9%A4%B5%E9%AD%9A",
     "timestamp": "2026-10-12T04:12:12.205Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸｜首位用外國護照商客讚出入境1分鐘完成　日後多來港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186244017390751744576840.jpeg/5STLZDR5-c2P4RBl_kitXs34vcFKznWI0A3E5dANxOU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398628/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%A6%96%E4%BD%8D%E7%94%A8%E5%A4%96%E5%9C%8B%E8%AD%B7%E7%85%A7%E5%95%86%E5%AE%A2%E8%AE%9A%E5%87%BA%E5%85%A5%E5%A2%831%E5%88%86%E9%90%98%E5%AE%8C%E6%88%90-%E6%97%A5%E5%BE%8C%E5%A4%9A%E4%BE%86%E6%B8%AF",
-    "timestamp": "2026-10-12T03:51:47.969Z",
     "strategy": ".content-card__main"
   }
 ];
