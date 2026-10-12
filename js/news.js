@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T22:46:14.813Z
+// Last updated: 2026-10-12T23:20:04.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本人氣樹熊瓦特爾離世　性情溫和迷倒粉海外　母親去年同疾病亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186505190757371904305692.png/rn-76d46KbFMnGQRcjVMjJrLqx0w1uoEbVFYD21RWA8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397269/%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%B0%A3%E6%A8%B9%E7%86%8A%E7%93%A6%E7%89%B9%E7%88%BE%E9%9B%A2%E4%B8%96-%E6%80%A7%E6%83%85%E6%BA%AB%E5%92%8C%E8%BF%B7%E5%80%92%E7%B2%89%E6%B5%B7%E5%A4%96-%E6%AF%8D%E8%A6%AA%E5%8E%BB%E5%B9%B4%E5%90%8C%E7%96%BE%E7%97%85%E4%BA%A1",
+    "timestamp": "2026-10-12T23:20:04.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "影帝被爆鏡頭前後兩個人　執導女角從不著重樣子身材：佢尊重女性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185603044348268544407896.jpeg/RiDH4nRunanNuFNku5d7sEP01T5t8o9iS7fp00u36dM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398223/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E6%BC%94%E5%93%A1%E9%99%A3%E5%AE%B9%E5%90%8D%E5%96%AE-%E8%A7%92%E8%89%B2%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B9-%E5%BC%B5%E6%99%BA%E9%9C%96-%E5%90%B3%E5%8D%93%E7%BE%B2-%E9%AB%98%E6%B5%B7%E5%AF%A7",
     "timestamp": "2026-10-12T11:02:25.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT香港總決賽｜12月9至13日啟德體藝館上演　門票10.23公開發售",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186377570539540480379180.jpeg/HOwwSmSMH-TvjkjDp1NalWixbVKtKa0EjA0A74wNAO8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398874/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD-12%E6%9C%889%E8%87%B313%E6%97%A5%E5%95%9F%E5%BE%B7%E9%AB%94%E8%97%9D%E9%A4%A8%E4%B8%8A%E6%BC%94-%E9%96%80%E7%A5%A810-23%E5%85%AC%E9%96%8B%E7%99%BC%E5%94%AE",
-    "timestamp": "2026-10-12T10:41:16.131Z",
     "strategy": ".content-card__main"
   }
 ];
