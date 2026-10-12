@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T21:45:46.860Z
+// Last updated: 2026-10-12T22:46:14.813Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "影帝被爆鏡頭前後兩個人　執導女角從不著重樣子身材：佢尊重女性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186385199273873408029436.png/eWfSyN7IWJrGcWI8Z6uNuiOHq0WlOXB_PDz59jw8-fY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398847/%E5%91%A8%E6%98%9F%E9%A6%B3%E8%A2%AB%E7%88%86%E9%8F%A1%E9%A0%AD%E5%89%8D%E5%BE%8C%E5%85%A9%E5%80%8B%E4%BA%BA-%E5%9F%B7%E5%B0%8E%E5%A5%B3%E8%A7%92%E4%B8%8D%E8%91%97%E9%87%8D%E6%A8%A3%E5%AD%90%E8%BA%AB%E6%9D%90-%E4%BD%A2%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7",
+    "timestamp": "2026-10-12T22:46:14.813Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "也門胡塞武裝稱再襲利雅得機場　沙特聯軍：攔截一枚彈道導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186377570539540480379180.jpeg/HOwwSmSMH-TvjkjDp1NalWixbVKtKa0EjA0A74wNAO8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398874/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD-12%E6%9C%889%E8%87%B313%E6%97%A5%E5%95%9F%E5%BE%B7%E9%AB%94%E8%97%9D%E9%A4%A8%E4%B8%8A%E6%BC%94-%E9%96%80%E7%A5%A810-23%E5%85%AC%E9%96%8B%E7%99%BC%E5%94%AE",
     "timestamp": "2026-10-12T10:41:16.131Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Bill Gates警告2027年AI網攻急增　斥企業自我監管不足",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250331/983422932581617664263987.jpeg/_nFcHlVZvYZBR3oMC31VUcOBM5F3Kfkij_HIS4_xyEs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398732/bill-gates%E8%AD%A6%E5%91%8A2027%E5%B9%B4ai%E7%B6%B2%E6%94%BB%E6%80%A5%E5%A2%9E-%E6%96%A5%E4%BC%81%E6%A5%AD%E8%87%AA%E6%88%91%E7%9B%A3%E7%AE%A1%E4%B8%8D%E8%B6%B3",
-    "timestamp": "2026-10-12T10:07:22.526Z",
     "strategy": ".content-card__main"
   }
 ];
