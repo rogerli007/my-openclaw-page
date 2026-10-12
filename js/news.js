@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T19:33:09.705Z
+// Last updated: 2026-10-12T19:47:55.762Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新蒲崗男子遭妻用剪刀襲擊　胸口、左肩受傷送院　警拘女子涉傷人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186504827937492992035642.jpeg/I4iqQv7w7ZDgdZvmHYIDA-k8fNewV_HrjzKk9qUypPY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398958/%E6%96%B0%E8%92%B2%E5%B4%97%E7%94%B7%E5%AD%90%E9%81%AD%E5%A6%BB%E7%94%A8%E5%89%AA%E5%88%80%E8%A5%B2%E6%93%8A-%E8%83%B8%E5%8F%A3-%E5%B7%A6%E8%82%A9%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8B%98%E5%A5%B3%E5%AD%90%E6%B6%89%E5%82%B7%E4%BA%BA",
+    "timestamp": "2026-10-12T19:47:55.762Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新蒲崗男子遭妻用剪刀襲擊　胸口、左肩受傷送院　警拘女子涉傷人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186303476414550016408593.jpeg/oUfOc8MOCnL4nWsNQtRFpmD9O7z6yT8y9_VcRvf1XEY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398675/%E7%AD%B2%E7%AE%95%E7%81%A3%E9%9B%BB%E8%BB%8A%E5%87%BA%E8%BB%8C%E6%92%BC%E9%A4%90%E5%BB%B3-%E8%80%81%E9%97%86%E5%98%86%E7%94%9F%E6%84%8F%E9%9B%A3%E5%81%9A%E5%86%8D%E9%81%AD%E6%A9%AB%E7%A6%8D-%E5%B9%BE%E7%97%9B%E8%8B%A6%E9%9B%AA%E4%B8%8A%E5%8A%A0%E9%9C%9C",
     "timestamp": "2026-10-12T05:42:08.084Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 18 Pro Max先達炒價直擊！12/10大紅稍為回氣｜每日更新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181238807349956608458267.jpeg/vPXXnjG8FJAOCdpsz0tXiNseEQhu-XKD6jot_eo6Lf0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E5%9B%9E%E6%94%B6%E7%82%92%E5%83%B9-2900-%E9%A6%96%E6%97%A5%E7%B4%B0%E6%A9%9F%E6%9C%89%E8%B3%BA-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
-    "timestamp": "2026-10-12T05:10:54.187Z",
     "strategy": ".content-card__main"
   }
 ];
