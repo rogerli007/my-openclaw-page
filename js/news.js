@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-11T23:55:37.602Z
+// Last updated: 2026-10-12T00:58:46.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朝鮮試射疑似彈道導彈　日本：落在專屬經濟區水域外",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093071450526584832249671.jpeg/UqagrJyupMpYaWZp32Axf_5n7JIBR9lG936oZfd-qGU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398562/%E6%9C%9D%E9%AE%AE%E8%A9%A6%E5%B0%84%E7%96%91%E4%BC%BC%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88-%E6%97%A5%E6%9C%AC-%E8%90%BD%E5%9C%A8%E5%B0%88%E5%B1%AC%E7%B6%93%E6%BF%9F%E5%8D%80%E6%B0%B4%E5%9F%9F%E5%A4%96",
+    "timestamp": "2026-10-12T00:58:46.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿拉格齊與沙特外長通話　稱伊朗願推動與胡塞武裝對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186111971204796416287631.png/TZQABT2Z_RUngPdehfB2QRVxoCxIr71sftkNSX7ZDUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398536/%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D%E7%A8%B1%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B411%E6%97%A5%E5%86%8D%E5%8F%97%E8%A5%B2-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BF%83%E5%AE%A2%E6%A9%9F%E9%81%A0%E9%9B%A2%E6%B2%99%E7%89%B9%E7%A9%BA%E5%9F%9F",
     "timestamp": "2026-10-11T16:46:31.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超︱鎌田大地入球領水晶宮3：1反勝森林　愛華頓作客2：2侯城",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186085604203433984901456.jpeg/NVXSJl8Jiq5-_TXoTg7U4zCnj-kQ8sFg_igFvf4oBb0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398528/%E8%8B%B1%E8%B6%85-%E9%8E%8C%E7%94%B0%E5%A4%A7%E5%9C%B0%E5%85%A5%E7%90%83%E9%A0%98%E6%B0%B4%E6%99%B6%E5%AE%AE3-1%E5%8F%8D%E5%8B%9D%E6%A3%AE%E6%9E%97-%E6%84%9B%E8%8F%AF%E9%A0%93%E4%BD%9C%E5%AE%A22-2%E4%BE%AF%E5%9F%8E",
-    "timestamp": "2026-10-11T16:22:46.315Z",
     "strategy": ".content-card__main"
   }
 ];
