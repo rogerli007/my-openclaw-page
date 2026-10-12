@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T11:02:25.112Z
+// Last updated: 2026-10-12T11:26:01.297Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NVIDIA RTX 5090傳全面停產：GB202晶片轉供AI　旗艦機皇成絕響？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186375007178067968536871.jpeg/j50amhy9ayNUhb1Te_hEriV1h79YhZvdEcFz0hHBc9I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60398823/nvidia-rtx-5090%E5%82%B3%E5%85%A8%E9%9D%A2%E5%81%9C%E7%94%A2-gb202%E6%99%B6%E7%89%87%E8%BD%89%E4%BE%9Bai-%E6%97%97%E8%89%A6%E6%A9%9F%E7%9A%87%E6%88%90%E7%B5%95%E9%9F%BF",
+    "timestamp": "2026-10-12T11:26:01.297Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜演員陣容名單＋角色人物介紹：張智霖／吳卓羲／高海寧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186056408479567872520471.jpeg/CVzrNTUkUzmILAd9oezz40mdvMh29sdexml7qcZpe6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398483/%E7%8E%8B%E7%A5%96%E8%97%8D%E6%B5%B7%E6%99%AF%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89%E9%A3%AF%E5%BB%B3%E6%A5%B5%E9%97%8A%E8%90%BD-%E5%96%AA%E7%88%B6%E6%9B%BE%E9%A0%98%E7%B6%9C%E6%8F%B4%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%B5%B0%E7%B4%85",
     "timestamp": "2026-10-11T22:55:52.372Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "出身草根男星海景豪宅曝光飯廳極闊落　喪父曾領綜援北上吸金走紅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186056408479567872520471.jpeg/CVzrNTUkUzmILAd9oezz40mdvMh29sdexml7qcZpe6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398483/%E7%8E%8B%E7%A5%96%E8%97%8D%E6%B5%B7%E6%99%AF%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89%E9%A3%AF%E5%BB%B3%E6%A5%B5%E9%97%8A%E8%90%BD-%E5%96%AA%E7%88%B6%E6%9B%BE%E9%A0%98%E7%B6%9C%E6%8F%B4%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%B5%B0%E7%B4%85",
-    "timestamp": "2026-10-11T22:45:32.332Z",
     "strategy": ".content-card__main"
   }
 ];
