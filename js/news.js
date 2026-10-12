@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T16:01:22.260Z
+// Last updated: 2026-10-12T17:20:56.780Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅：願與俄維護彼此正當海洋權益　維護全球關鍵航道正常通行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186481813258768384067431.jpeg/pZFrm6coO-KDehdKuUXuoX665uqRQqXtk-qT5pPqk-Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398952/%E7%8E%8B%E6%AF%85-%E9%A1%98%E8%88%87%E4%BF%84%E7%B6%AD%E8%AD%B7%E5%BD%BC%E6%AD%A4%E6%AD%A3%E7%95%B6%E6%B5%B7%E6%B4%8B%E6%AC%8A%E7%9B%8A-%E7%B6%AD%E8%AD%B7%E5%85%A8%E7%90%83%E9%97%9C%E9%8D%B5%E8%88%AA%E9%81%93%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%A1%8C",
+    "timestamp": "2026-10-12T17:20:56.780Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李佳芯首拍ViuTV劇　妙談與TVB台風分別：有啲字眼以前唔得㗎喎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186250207684202496510267.jpeg/58bGl0tF8Gzb8WqzTaYT87SYV8pCDrwrPRbilj0W4pY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60398572/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E8%B2%B7%E4%BF%84%E7%BE%85%E6%96%AF%E6%9F%B4%E6%B2%B9-%E5%8F%88%E5%AE%A3%E5%B8%83%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E8%AD%89%E8%B5%B0%E6%8A%95%E7%84%A1%E8%B7%AF",
     "timestamp": "2026-10-12T02:44:49.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜慈雲山慈正邨13歲男童高處墮下　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260913/1175791482607505408830564.jpeg/bNdXnBT91ITHCPGtrCEsQ-iRfeildD9kIWgg_gtoIP4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398566/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%85%88%E9%9B%B2%E5%B1%B1%E6%85%88%E6%AD%A3%E9%82%A813%E6%AD%B2%E7%94%B7%E7%AB%A5%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-12T01:51:17.578Z",
     "strategy": ".content-card__main"
   }
 ];
