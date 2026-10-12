@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T15:28:27.676Z
+// Last updated: 2026-10-12T15:52:15.007Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳曉華曬性感大露背突發文　留12字疑嘆花旦爭位無奈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186327121643966464352718.jpeg/DsmtYQ_0_VCgPXP5n5zxQiWA-yZ0oW3EAWFFwAFhRcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398720/%E9%99%B3%E6%9B%89%E8%8F%AF%E6%9B%AC%E6%80%A7%E6%84%9F%E5%A4%A7%E9%9C%B2%E8%83%8C%E7%AA%81%E7%99%BC%E6%96%87-%E7%95%9912%E5%AD%97%E7%96%91%E5%98%86%E8%8A%B1%E6%97%A6%E7%88%AD%E4%BD%8D%E7%84%A1%E5%A5%88",
+    "timestamp": "2026-10-12T15:52:15.007Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "90後離巢TVB藝人成家立室　新娘金鈪串滿頸敬酒環節金光閃閃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1093071450526584832249671.jpeg/UqagrJyupMpYaWZp32Axf_5n7JIBR9lG936oZfd-qGU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398562/%E6%9C%9D%E9%AE%AE%E8%A9%A6%E5%B0%84%E7%96%91%E4%BC%BC%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88-%E6%97%A5%E6%9C%AC-%E8%90%BD%E5%9C%A8%E5%B0%88%E5%B1%AC%E7%B6%93%E6%BF%9F%E5%8D%80%E6%B0%B4%E5%9F%9F%E5%A4%96",
     "timestamp": "2026-10-12T00:58:46.415Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿拉格齊與沙特外長通話　稱伊朗願推動與胡塞武裝對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186211137524338688891265.jpeg/OC8Tk8L3c30ihQuGNusZwyIxHsx2Qy7aFUKPFRVCjxU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398550/%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%8A%E8%88%87%E6%B2%99%E7%89%B9%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%A8%B1%E4%BC%8A%E6%9C%97%E9%A1%98%E6%8E%A8%E5%8B%95%E8%88%87%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-10-11T23:55:37.602Z",
     "strategy": ".content-card__main"
   }
 ];
