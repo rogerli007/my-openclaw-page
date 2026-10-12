@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T18:53:14.304Z
+// Last updated: 2026-10-12T19:19:01.325Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新蒲崗男子遭妻用剪刀襲擊　胸口、左肩受傷送院　警拘女子涉傷人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186504827937492992035642.jpeg/I4iqQv7w7ZDgdZvmHYIDA-k8fNewV_HrjzKk9qUypPY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398958/%E6%96%B0%E8%92%B2%E5%B4%97%E7%94%B7%E5%AD%90%E9%81%AD%E5%A6%BB%E7%94%A8%E5%89%AA%E5%88%80%E8%A5%B2%E6%93%8A-%E8%83%B8%E5%8F%A3-%E5%B7%A6%E8%82%A9%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8B%98%E5%A5%B3%E5%AD%90%E6%B6%89%E5%82%B7%E4%BA%BA",
+    "timestamp": "2026-10-12T19:19:01.325Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教宗良十四世13日入院　接受肺結節切除手術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186297118378168320618374.png/yFXdDI9jcwy7-RTC5SAfjQMFrsZKlAM4QPVZKUD1WSk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60398606/%E6%96%BD%E6%B0%B8%E9%9D%92%E6%8F%90-%E6%AC%A1%E8%B2%A8%E9%81%BF%E5%AD%95%E5%A5%97-%E5%82%AC%E7%94%9F-%E6%B6%88%E5%A7%94%E6%9C%83%E5%AF%A6%E6%B8%AC%E7%A0%B4%E8%BF%B7%E6%80%9D-4%E5%A4%A7%E6%BC%8F%E6%B4%9E%E6%9B%B4%E6%98%93%E4%B8%AD%E6%8B%9B",
     "timestamp": "2026-10-12T04:50:39.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黑工倒斃米埔魚塘｜37歲死者做冷氣技工　鄰居曾見於魚塘邊餵魚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186275933229682688971245.jpeg/18IVqtWCWqayDTNuGdb5rU39Bj2y6WkqxssMVsbLDFY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398614/%E9%BB%91%E5%B7%A5%E5%80%92%E6%96%83%E7%B1%B3%E5%9F%94%E9%AD%9A%E5%A1%98-37%E6%AD%B2%E6%AD%BB%E8%80%85%E5%81%9A%E5%86%B7%E6%B0%A3%E6%8A%80%E5%B7%A5-%E9%84%B0%E5%B1%85%E6%9B%BE%E8%A6%8B%E6%96%BC%E9%AD%9A%E5%A1%98%E9%82%8A%E9%A4%B5%E9%AD%9A",
-    "timestamp": "2026-10-12T04:12:12.205Z",
     "strategy": ".content-card__main"
   }
 ];
