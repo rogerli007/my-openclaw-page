@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T14:06:17.592Z
+// Last updated: 2026-10-12T15:10:08.010Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段升逾200點　油價最新漲逾2%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105275351317090304780532.jpeg/DkKPKUERGlflcuBT2zdsfcAaC6kyyc-BZYvINmWLyDY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60398940/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%8D%87%E9%80%BE200%E9%BB%9E-%E6%B2%B9%E5%83%B9%E6%9C%80%E6%96%B0%E6%BC%B2%E9%80%BE2",
+    "timestamp": "2026-10-12T15:10:08.010Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神2｜冷氣工方智弘舊照曝光　被《東張》主持逼問整容認有變樣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186211137524338688891265.jpeg/OC8Tk8L3c30ihQuGNusZwyIxHsx2Qy7aFUKPFRVCjxU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398550/%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%8A%E8%88%87%E6%B2%99%E7%89%B9%E5%A4%96%E9%95%B7%E9%80%9A%E8%A9%B1-%E7%A8%B1%E4%BC%8A%E6%9C%97%E9%A1%98%E6%8E%A8%E5%8B%95%E8%88%87%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-10-11T23:47:06.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "都市傳說｜英男車禍醒來妻兒竟「從未存在」？疑闖平行時空",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144419380727808259014.png/v9ukjDlxmU38Nqj53IYhKni6Azn6T5f4XwHcgF8B3IA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397724/%E9%83%BD%E5%B8%82%E5%82%B3%E8%AA%AA-%E8%8B%B1%E7%94%B7%E8%BB%8A%E7%A6%8D%E9%86%92%E4%BE%86%E5%A6%BB%E5%85%92%E7%AB%9F-%E5%BE%9E%E6%9C%AA%E5%AD%98%E5%9C%A8-%E7%96%91%E9%97%96%E5%B9%B3%E8%A1%8C%E6%99%82%E7%A9%BA",
-    "timestamp": "2026-10-11T23:20:08.865Z",
     "strategy": ".content-card__main"
   }
 ];
