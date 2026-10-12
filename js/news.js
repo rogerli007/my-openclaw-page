@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T03:51:47.969Z
+// Last updated: 2026-10-12T04:12:12.205Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黑工倒斃米埔魚塘｜37歲死者做冷氣技工　鄰居曾見於魚塘邊餵魚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186275933229682688971245.jpeg/18IVqtWCWqayDTNuGdb5rU39Bj2y6WkqxssMVsbLDFY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398614/%E9%BB%91%E5%B7%A5%E5%80%92%E6%96%83%E7%B1%B3%E5%9F%94%E9%AD%9A%E5%A1%98-37%E6%AD%B2%E6%AD%BB%E8%80%85%E5%81%9A%E5%86%B7%E6%B0%A3%E6%8A%80%E5%B7%A5-%E9%84%B0%E5%B1%85%E6%9B%BE%E8%A6%8B%E6%96%BC%E9%AD%9A%E5%A1%98%E9%82%8A%E9%A4%B5%E9%AD%9A",
+    "timestamp": "2026-10-12T04:12:12.205Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸｜首位用外國護照商客讚出入境1分鐘完成　日後多來港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186125349243588608429615.jpeg/jITfxW0-D0o81scE3ERU9ss50BtZr2OFH9b9zB_W_cw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398538/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A23-0%E5%8B%9D10%E4%BA%BA%E5%88%A9%E7%89%A9%E6%B5%A6-%E8%81%AF%E8%B3%BD6%E9%80%A3%E5%8B%9D%E7%BA%8C%E5%B1%85%E6%A6%9C%E9%A6%96",
     "timestamp": "2026-10-11T17:55:24.063Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特聯軍稱利雅得機場11日再受襲　胡塞武裝促客機遠離沙特空域",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186111971204796416287631.png/TZQABT2Z_RUngPdehfB2QRVxoCxIr71sftkNSX7ZDUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398536/%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D%E7%A8%B1%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B411%E6%97%A5%E5%86%8D%E5%8F%97%E8%A5%B2-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E4%BF%83%E5%AE%A2%E6%A9%9F%E9%81%A0%E9%9B%A2%E6%B2%99%E7%89%B9%E7%A9%BA%E5%9F%9F",
-    "timestamp": "2026-10-11T17:32:55.254Z",
     "strategy": ".content-card__main"
   }
 ];
