@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T10:07:22.526Z
+// Last updated: 2026-10-12T10:41:16.131Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT香港總決賽｜12月9至13日啟德體藝館上演　門票10.23公開發售",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186377570539540480379180.jpeg/HOwwSmSMH-TvjkjDp1NalWixbVKtKa0EjA0A74wNAO8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398874/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD-12%E6%9C%889%E8%87%B313%E6%97%A5%E5%95%9F%E5%BE%B7%E9%AB%94%E8%97%9D%E9%A4%A8%E4%B8%8A%E6%BC%94-%E9%96%80%E7%A5%A810-23%E5%85%AC%E9%96%8B%E7%99%BC%E5%94%AE",
+    "timestamp": "2026-10-12T10:41:16.131Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Bill Gates警告2027年AI網攻急增　斥企業自我監管不足",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186018711534833664250687.jpeg/Yw0e3cEdz7ujQ5GnvPeUeULCuMjoHSq86loZjOpaGYw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396775/61%E6%AD%B2%E5%89%8D%E5%B0%8F%E7%94%9F%E7%8B%82%E9%A3%9F%E7%85%8E%E7%82%B8%E5%98%A2%E5%AE%8C%E5%85%A8%E5%94%94%E6%93%94%E5%BF%83%E5%81%A5%E5%BA%B7-%E6%9B%BE%E8%A2%AB%E5%B0%81%E6%B8%A3%E7%94%B7%E7%8F%BE%E4%BB%8A%E5%B9%B8%E7%A6%8F%E7%BE%8E%E6%BB%BF",
     "timestamp": "2026-10-11T22:20:18.264Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸懶人包｜06：30開通　交通一覽　合作查驗e道登記教學",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260829/1170445074543415296390245.jpeg/R5Uub-BdYhYJkI_tkEGdNO2won9hqDB9z3zpDs986Q4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398546/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E6%87%B6%E4%BA%BA%E5%8C%85-06-30%E9%96%8B%E9%80%9A-%E4%BA%A4%E9%80%9A%E4%B8%80%E8%A6%BD-%E5%90%88%E4%BD%9C%E6%9F%A5%E9%A9%97e%E9%81%93%E7%99%BB%E8%A8%98%E6%95%99%E5%AD%B8",
-    "timestamp": "2026-10-11T21:59:04.827Z",
     "strategy": ".content-card__main"
   }
 ];
