@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-12T11:26:01.297Z
+// Last updated: 2026-10-12T14:06:17.592Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2｜冷氣工方智弘舊照曝光　被《東張》主持逼問整容認有變樣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186435859218436096801394.png/MC0ELaT0iD3De7yTbkt_DfAu4VoYXfBba-yQYWvskGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398907/%E5%A5%B3%E7%A5%9E2-%E5%86%B7%E6%B0%A3%E5%B7%A5%E6%96%B9%E6%99%BA%E5%BC%98%E8%88%8A%E7%85%A7%E6%9B%9D%E5%85%89-%E8%A2%AB-%E6%9D%B1%E5%BC%B5-%E4%B8%BB%E6%8C%81%E9%80%BC%E5%95%8F%E6%95%B4%E5%AE%B9%E8%AA%8D%E6%9C%89%E8%AE%8A%E6%A8%A3",
+    "timestamp": "2026-10-12T14:06:17.592Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NVIDIA RTX 5090傳全面停產：GB202晶片轉供AI　旗艦機皇成絕響？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144419380727808259014.png/v9ukjDlxmU38Nqj53IYhKni6Azn6T5f4XwHcgF8B3IA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397724/%E9%83%BD%E5%B8%82%E5%82%B3%E8%AA%AA-%E8%8B%B1%E7%94%B7%E8%BB%8A%E7%A6%8D%E9%86%92%E4%BE%86%E5%A6%BB%E5%85%92%E7%AB%9F-%E5%BE%9E%E6%9C%AA%E5%AD%98%E5%9C%A8-%E7%96%91%E9%97%96%E5%B9%B3%E8%A1%8C%E6%99%82%E7%A9%BA",
     "timestamp": "2026-10-11T23:20:08.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "出身草根男星海景豪宅曝光飯廳極闊落　喪父曾領綜援北上吸金走紅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186056408479567872520471.jpeg/CVzrNTUkUzmILAd9oezz40mdvMh29sdexml7qcZpe6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398483/%E7%8E%8B%E7%A5%96%E8%97%8D%E6%B5%B7%E6%99%AF%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89%E9%A3%AF%E5%BB%B3%E6%A5%B5%E9%97%8A%E8%90%BD-%E5%96%AA%E7%88%B6%E6%9B%BE%E9%A0%98%E7%B6%9C%E6%8F%B4%E5%8C%97%E4%B8%8A%E5%90%B8%E9%87%91%E8%B5%B0%E7%B4%85",
-    "timestamp": "2026-10-11T22:55:52.372Z",
     "strategy": ".content-card__main"
   }
 ];
