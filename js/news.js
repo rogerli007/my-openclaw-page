@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T16:01:26.987Z
+// Last updated: 2026-10-13T16:27:01.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華為夥HKIIT累計培訓80鴻蒙種子導師　教授2000人最新技術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185234964766003200054863.jpeg/Yi_QnTf848oJVqoeBnoCRAADtWezyOd_zo0ypc6NMqU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60397618/%E8%8F%AF%E7%82%BA%E5%A4%A5hkiit%E7%B4%AF%E8%A8%88%E5%9F%B9%E8%A8%9380%E9%B4%BB%E8%92%99%E7%A8%AE%E5%AD%90%E5%B0%8E%E5%B8%AB-%E6%95%99%E6%8E%882000%E4%BA%BA%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93",
+    "timestamp": "2026-10-13T16:27:01.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國前首相辛偉誠：美國主導的全球秩序已結束　特朗普只是症狀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132794730510290944815679.jpeg/C5PCr_JgASZSqvmzkKtQishXp6JdRcxVwedJBcHnSQU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399195/%E5%B1%85%E5%B1%8B2025-10-21%E6%8F%80%E6%A8%93-%E6%98%8E%E5%85%AC%E5%B8%83%E6%A8%93%E6%9B%B8%E5%83%B9%E5%96%AE-%E6%8E%A8%E6%A8%93%E7%8E%8B%E5%95%9F%E9%99%BD%E8%8B%91%E7%AD%897000%E5%96%AE%E4%BD%8D",
     "timestamp": "2026-10-13T08:06:39.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬斯克擲2.76億美元助共和黨　成2026中期選舉最大金主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177260318808608768395127.jpeg/iNfjRslTtiae6n9XGO-TXIOKxUnixHoOSj3h2ko94do?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399187/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%93%B22-76%E5%84%84%E7%BE%8E%E5%85%83%E5%8A%A9%E5%85%B1%E5%92%8C%E9%BB%A8-%E6%88%902026%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%9C%80%E5%A4%A7%E9%87%91%E4%B8%BB",
-    "timestamp": "2026-10-13T07:46:41.363Z",
     "strategy": ".content-card__main"
   }
 ];
