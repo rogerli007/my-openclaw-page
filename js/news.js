@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T19:31:42.040Z
+// Last updated: 2026-10-13T20:22:10.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教宗良十四世入院切除肺結節　梵蒂岡：手術成功",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186888055542255616276891.jpeg/6_6HEBdaF1YIKonALEesNjY-crkWNjCqHy2AQB8tgEA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399387/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%85%A5%E9%99%A2%E5%88%87%E9%99%A4%E8%82%BA%E7%B5%90%E7%AF%80-%E6%A2%B5%E8%92%82%E5%B2%A1-%E6%89%8B%E8%A1%93%E6%88%90%E5%8A%9F",
+    "timestamp": "2026-10-13T20:22:10.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜上環女子墮海載浮載沉　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186679267216330752540168.jpeg/GlWTiMtSFDGeljnQKPEjQGXPbcJw5mfYag2RamoNkWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399123/twice%E5%AE%9A%E5%BB%B6%E6%BF%80%E7%98%A6%E6%83%B9%E7%81%AB%E8%BA%AB%E6%AE%B5%E9%A9%9A%E8%89%B7%E7%B6%B2%E6%B0%91-%E9%9B%A2%E5%B7%A2jyp%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87%E9%87%8D%E8%BF%94%E9%A1%8F%E5%80%BC%E5%B7%94%E5%B3%B0",
     "timestamp": "2026-10-13T11:47:51.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角新都城大廈51歲肯亞婦暈倒　現場證實不治　死因待查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220626/617796914892902400825104.jpeg/BbyeoKaBwjBma51x31jMK0Z8KhQuVKngYehYp2HoWKc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399328/%E5%8C%97%E8%A7%92%E6%96%B0%E9%83%BD%E5%9F%8E%E5%A4%A7%E5%BB%8851%E6%AD%B2%E8%82%AF%E4%BA%9E%E5%A9%A6%E6%9A%88%E5%80%92-%E7%8F%BE%E5%A0%B4%E8%AD%89%E5%AF%A6%E4%B8%8D%E6%B2%BB-%E6%AD%BB%E5%9B%A0%E5%BE%85%E6%9F%A5",
-    "timestamp": "2026-10-13T11:25:56.259Z",
     "strategy": ".content-card__main"
   }
 ];
