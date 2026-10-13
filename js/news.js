@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T06:39:38.708Z
+// Last updated: 2026-10-13T07:14:29.614Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "訂太空行像訂酒店？攜程賣510萬維珍太空船票　國產航天殺到300萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186684154620678144142379.jpeg/p5QwZzprLC4cxBft3vRMLDhQlwXhzr22_CDe5_wg3uc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399045/%E7%B6%AD%E7%8F%8D%E9%8A%80%E6%B2%B3%E5%A4%AA%E7%A9%BA%E6%97%85%E8%A1%8C%E8%88%B9%E7%A5%A8%E4%B8%8A%E6%9E%B6-%E5%96%AE%E4%BA%BA510%E8%90%AC%E5%BD%B1%E8%A6%96%E9%A2%B6%E9%A2%A8tim%E5%B7%B2%E6%90%B6%E8%B3%BC",
+    "timestamp": "2026-10-13T07:14:29.614Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石崗軍營旁地皮申建22幢洋房　較舊方案多10幢　總樓面增7成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186504827937492992035642.jpeg/I4iqQv7w7ZDgdZvmHYIDA-k8fNewV_HrjzKk9qUypPY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398958/%E6%96%B0%E8%92%B2%E5%B4%97%E7%94%B7%E5%AD%90%E9%81%AD%E5%A6%BB%E7%94%A8%E5%89%AA%E5%88%80%E8%A5%B2%E6%93%8A-%E8%83%B8%E5%8F%A3-%E5%B7%A6%E8%82%A9%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8B%98%E5%A5%B3%E5%AD%90%E6%B6%89%E5%82%B7%E4%BA%BA",
     "timestamp": "2026-10-12T19:33:09.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新蒲崗男子遭妻用剪刀襲擊　胸口、左肩受傷送院　警拘女子涉傷人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186504827937492992035642.jpeg/I4iqQv7w7ZDgdZvmHYIDA-k8fNewV_HrjzKk9qUypPY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398958/%E6%96%B0%E8%92%B2%E5%B4%97%E7%94%B7%E5%AD%90%E9%81%AD%E5%A6%BB%E7%94%A8%E5%89%AA%E5%88%80%E8%A5%B2%E6%93%8A-%E8%83%B8%E5%8F%A3-%E5%B7%A6%E8%82%A9%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8B%98%E5%A5%B3%E5%AD%90%E6%B6%89%E5%82%B7%E4%BA%BA",
-    "timestamp": "2026-10-12T19:19:01.325Z",
     "strategy": ".content-card__main"
   }
 ];
