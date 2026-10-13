@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T12:31:49.256Z
+// Last updated: 2026-10-13T13:01:55.020Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周國豐喪母未現身發佈會　區瑞強心疼摯友：好早就知佢媽媽過咗身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186726418994696192573628.jpeg/3ZevGSvBCmbrZZnBb-fgCBN5JfvCWoh6_MhusMrIbrA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399262/%E5%91%A8%E5%9C%8B%E8%B1%90%E5%96%AA%E6%AF%8D%E6%9C%AA%E7%8F%BE%E8%BA%AB%E7%99%BC%E4%BD%88%E6%9C%83-%E5%8D%80%E7%91%9E%E5%BC%B7%E5%BF%83%E7%96%BC%E6%91%AF%E5%8F%8B-%E5%A5%BD%E6%97%A9%E5%B0%B1%E7%9F%A5%E4%BD%A2%E5%AA%BD%E5%AA%BD%E9%81%8E%E5%92%97%E8%BA%AB",
+    "timestamp": "2026-10-13T13:01:55.020Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Canada Goose寧波拍廣告遺留大量垃圾　遭曝光急道歉承諾淨山1年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186633683566596096546029.jpeg/m1oNV7WCW1AakN5pmWeblbPOXxfEC1gvO06ctjtOnLY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60398959/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B0%8F%E5%AD%B8%E6%B3%A1%E6%B3%A1%E6%B4%BE%E5%B0%8D%E7%96%91%E6%BC%8F%E9%9B%BB%E5%AD%B8%E7%94%9F%E8%A7%B8%E9%9B%BB%E9%87%802%E6%AD%BB2%E5%82%B7-%E9%99%84%E8%A7%B8%E9%9B%BB%E6%80%A5%E6%95%915%E5%A4%A7%E6%AD%A5%E9%A9%9F",
     "timestamp": "2026-10-13T03:31:01.851Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紙飲管含永久化學物PFAS增患癌風險！謝展寰：釋出量極低無損健康",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186620299865493504168453.png/4Y-WugHdH6HpgeD5UlPK2FyQe5K7pmD484dWzfOHVs0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398948/%E7%B4%99%E9%A3%B2%E7%AE%A1%E5%90%AB%E6%B0%B8%E4%B9%85%E5%8C%96%E5%AD%B8%E7%89%A9pfas%E5%A2%9E%E6%82%A3%E7%99%8C%E9%A2%A8%E9%9A%AA-%E8%AC%9D%E5%B1%95%E5%AF%B0-%E9%87%8B%E5%87%BA%E9%87%8F%E6%A5%B5%E4%BD%8E%E7%84%A1%E6%90%8D%E5%81%A5%E5%BA%B7",
-    "timestamp": "2026-10-13T02:52:32.315Z",
     "strategy": ".content-card__main"
   }
 ];
