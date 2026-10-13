@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T23:41:26.474Z
+// Last updated: 2026-10-13T23:54:39.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沉香投資疑為騙局　售場外股票、數字資產、認購樹木　警拘4人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185317688705028096183450.jpeg/XKZc2q2od6niBspFYa8IfAHGeresbqY4CBmHcwgZh3M?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60397690/%E6%B2%89%E9%A6%99%E6%8A%95%E8%B3%87%E7%96%91%E7%82%BA%E9%A8%99%E5%B1%80-%E5%94%AE%E5%A0%B4%E5%A4%96%E8%82%A1%E7%A5%A8-%E6%95%B8%E5%AD%97%E8%B3%87%E7%94%A2-%E8%AA%8D%E8%B3%BC%E6%A8%B9%E6%9C%A8-%E8%AD%A6%E6%8B%984%E4%BA%BA",
+    "timestamp": "2026-10-13T23:54:39.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沉香投資疑為騙局　售場外股票、數字資產、認購樹木　警拘4人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185234964766003200054863.jpeg/Yi_QnTf848oJVqoeBnoCRAADtWezyOd_zo0ypc6NMqU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60397618/%E8%8F%AF%E7%82%BA%E5%A4%A5hkiit%E7%B4%AF%E8%A8%88%E5%9F%B9%E8%A8%9380%E9%B4%BB%E8%92%99%E7%A8%AE%E5%AD%90%E5%B0%8E%E5%B8%AB-%E6%95%99%E6%8E%882000%E4%BA%BA%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93",
     "timestamp": "2026-10-13T16:27:01.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國前首相辛偉誠：美國主導的全球秩序已結束　特朗普只是症狀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186824296899547136945701.jpeg/-7j9otZGvgHSEvv8M6vI4XiIzDMPU7rd_CCrT_wgq08?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399374/%E8%8B%B1%E5%9C%8B%E5%89%8D%E9%A6%96%E7%9B%B8%E8%BE%9B%E5%81%89%E8%AA%A0-%E7%BE%8E%E5%9C%8B%E4%B8%BB%E5%B0%8E%E7%9A%84%E5%85%A8%E7%90%83%E7%A7%A9%E5%BA%8F%E5%B7%B2%E7%B5%90%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AA%E6%98%AF%E7%97%87%E7%8B%80",
-    "timestamp": "2026-10-13T16:01:26.987Z",
     "strategy": ".content-card__main"
   }
 ];
