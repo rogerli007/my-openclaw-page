@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T15:22:38.972Z
+// Last updated: 2026-10-13T16:01:26.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國前首相辛偉誠：美國主導的全球秩序已結束　特朗普只是症狀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186824296899547136945701.jpeg/-7j9otZGvgHSEvv8M6vI4XiIzDMPU7rd_CCrT_wgq08?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399374/%E8%8B%B1%E5%9C%8B%E5%89%8D%E9%A6%96%E7%9B%B8%E8%BE%9B%E5%81%89%E8%AA%A0-%E7%BE%8E%E5%9C%8B%E4%B8%BB%E5%B0%8E%E7%9A%84%E5%85%A8%E7%90%83%E7%A7%A9%E5%BA%8F%E5%B7%B2%E7%B5%90%E6%9D%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AA%E6%98%AF%E7%97%87%E7%8B%80",
+    "timestamp": "2026-10-13T16:01:26.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Getty Images擬破產私有化　Getty家族與Koch接手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177260318808608768395127.jpeg/iNfjRslTtiae6n9XGO-TXIOKxUnixHoOSj3h2ko94do?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399187/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%93%B22-76%E5%84%84%E7%BE%8E%E5%85%83%E5%8A%A9%E5%85%B1%E5%92%8C%E9%BB%A8-%E6%88%902026%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%9C%80%E5%A4%A7%E9%87%91%E4%B8%BB",
     "timestamp": "2026-10-13T07:46:41.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "訂太空行像訂酒店？攜程賣510萬維珍太空船票　國產航天殺到300萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186684154620678144142379.jpeg/p5QwZzprLC4cxBft3vRMLDhQlwXhzr22_CDe5_wg3uc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399045/%E7%B6%AD%E7%8F%8D%E9%8A%80%E6%B2%B3%E5%A4%AA%E7%A9%BA%E6%97%85%E8%A1%8C%E8%88%B9%E7%A5%A8%E4%B8%8A%E6%9E%B6-%E5%96%AE%E4%BA%BA510%E8%90%AC%E5%BD%B1%E8%A6%96%E9%A2%B6%E9%A2%A8tim%E5%B7%B2%E6%90%B6%E8%B3%BC",
-    "timestamp": "2026-10-13T07:14:29.614Z",
     "strategy": ".content-card__main"
   }
 ];
