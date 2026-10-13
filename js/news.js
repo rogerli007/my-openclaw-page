@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T07:46:41.363Z
+// Last updated: 2026-10-13T08:06:39.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "居屋2025｜10.21揀樓　明公布樓書價單　推樓王啟陽苑等7000單位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132794730510290944815679.jpeg/C5PCr_JgASZSqvmzkKtQishXp6JdRcxVwedJBcHnSQU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399195/%E5%B1%85%E5%B1%8B2025-10-21%E6%8F%80%E6%A8%93-%E6%98%8E%E5%85%AC%E5%B8%83%E6%A8%93%E6%9B%B8%E5%83%B9%E5%96%AE-%E6%8E%A8%E6%A8%93%E7%8E%8B%E5%95%9F%E9%99%BD%E8%8B%91%E7%AD%897000%E5%96%AE%E4%BD%8D",
+    "timestamp": "2026-10-13T08:06:39.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬斯克擲2.76億美元助共和黨　成2026中期選舉最大金主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106086321375416320367925.jpeg/c7s5-5-fp_Y22WAyYxU_GToAjcD6_P63Tymxkk8psZI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398955/%E8%B2%9D%E5%AE%89%E5%BE%B7-%E8%8B%B1%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E5%B9%BE%E4%B9%8E%E8%82%AF%E5%AE%9A%E7%94%B1%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E6%8C%87%E4%BD%BF",
     "timestamp": "2026-10-12T19:59:38.093Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新蒲崗男子遭妻用剪刀襲擊　胸口、左肩受傷送院　警拘女子涉傷人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186504827937492992035642.jpeg/I4iqQv7w7ZDgdZvmHYIDA-k8fNewV_HrjzKk9qUypPY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60398958/%E6%96%B0%E8%92%B2%E5%B4%97%E7%94%B7%E5%AD%90%E9%81%AD%E5%A6%BB%E7%94%A8%E5%89%AA%E5%88%80%E8%A5%B2%E6%93%8A-%E8%83%B8%E5%8F%A3-%E5%B7%A6%E8%82%A9%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8B%98%E5%A5%B3%E5%AD%90%E6%B6%89%E5%82%B7%E4%BA%BA",
-    "timestamp": "2026-10-12T19:47:55.762Z",
     "strategy": ".content-card__main"
   }
 ];
