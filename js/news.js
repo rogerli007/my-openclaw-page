@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T22:54:07.684Z
+// Last updated: 2026-10-13T23:17:21.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾培生莊雅婷酒店外箍頸摸背脊貼身攬攬　搭的士離去禮讓老婆上車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186778893160288256149678.jpeg/fcMIlIKbahYUDylqkIK2oGLAOEGm3fUxYY8ztWGPM7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399250/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%8E%8A%E9%9B%85%E5%A9%B7%E9%85%92%E5%BA%97%E5%A4%96%E7%AE%8D%E9%A0%B8%E6%91%B8%E8%83%8C%E8%84%8A%E8%B2%BC%E8%BA%AB%E6%94%AC%E6%94%AC-%E6%90%AD%E7%9A%84%E5%A3%AB%E9%9B%A2%E5%8E%BB%E7%A6%AE%E8%AE%93%E8%80%81%E5%A9%86%E4%B8%8A%E8%BB%8A",
+    "timestamp": "2026-10-13T23:17:21.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "IELTS雅思內地大癱瘓！英國文化協會聽力考試期間叫停　成績作廢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186815307356835840370296.jpeg/9EY57hTj2f1Y70zGzd9HFkt_bcAxUFrOdxHshXcR7IU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399367/getty-images%E6%93%AC%E7%A0%B4%E7%94%A2%E7%A7%81%E6%9C%89%E5%8C%96-getty%E5%AE%B6%E6%97%8F%E8%88%87koch%E6%8E%A5%E6%89%8B",
     "timestamp": "2026-10-13T15:22:38.972Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港海關港珠澳搜出境貨車　檢$1800萬走私藥劑製品拘控內地司機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186806829590515712819453.jpeg/D1hZ5pbo3XwB92j5kTSUlikR2hafC1x8gaDaBYGg2gU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399365/%E9%A6%99%E6%B8%AF%E6%B5%B7%E9%97%9C%E6%B8%AF%E7%8F%A0%E6%BE%B3%E6%90%9C%E5%87%BA%E5%A2%83%E8%B2%A8%E8%BB%8A-%E6%AA%A2-1800%E8%90%AC%E8%B5%B0%E7%A7%81%E8%97%A5%E5%8A%91%E8%A3%BD%E5%93%81%E6%8B%98%E6%8E%A7%E5%85%A7%E5%9C%B0%E5%8F%B8%E6%A9%9F",
-    "timestamp": "2026-10-13T14:51:34.215Z",
     "strategy": ".content-card__main"
   }
 ];
