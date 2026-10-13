@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T01:45:07.133Z
+// Last updated: 2026-10-13T02:14:28.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：或在11月中旬訪問亞洲期間與金正恩會面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056319485939552256207834.jpeg/XpTFGj9EMqr-7GPLMkMU13R7UjDI0hunJxYnLicWJy4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398980/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E5%9C%A811%E6%9C%88%E4%B8%AD%E6%97%AC%E8%A8%AA%E5%95%8F%E4%BA%9E%E6%B4%B2%E6%9C%9F%E9%96%93%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E6%9C%83%E9%9D%A2",
+    "timestamp": "2026-10-13T02:14:28.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國佐治亞州發生過山車意外釀1死多人傷　目擊者：看到有人墜落",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186405653673938944097486.png/1c4BghyhbUnFhMrUQWFeIY-7AfJHs9uihilvvoYpb74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398912/28%E6%AD%B2-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E6%B0%B9%E4%BB%94-%E9%99%B3%E6%88%A9%E6%B5%A9%E6%88%90%E5%AE%B6%E7%AB%8B%E5%AE%A4-%E6%A2%81%E8%A9%A0%E7%A5%88%E9%87%91%E9%88%AA%E4%B8%B2%E6%BB%BF%E9%A0%B8%E5%8B%81%E6%90%B6%E9%8F%A1",
     "timestamp": "2026-10-12T15:28:27.676Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段升逾200點　油價最新漲逾2%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105275351317090304780532.jpeg/DkKPKUERGlflcuBT2zdsfcAaC6kyyc-BZYvINmWLyDY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60398940/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%8D%87%E9%80%BE200%E9%BB%9E-%E6%B2%B9%E5%83%B9%E6%9C%80%E6%96%B0%E6%BC%B2%E9%80%BE2",
-    "timestamp": "2026-10-12T15:10:08.010Z",
     "strategy": ".content-card__main"
   }
 ];
