@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T11:47:51.964Z
+// Last updated: 2026-10-13T11:59:34.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海洋公園明年50周年　新熊貓館設高空觀察台　保育中心展鯨魚標本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186766141884731392921874.jpeg/vxaLJ9KOKLwY3FYZMhxSz1wuLWuqPB-24MXJnODFyZw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399318/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E6%98%8E%E5%B9%B450%E5%91%A8%E5%B9%B4-%E6%96%B0%E7%86%8A%E8%B2%93%E9%A4%A8%E8%A8%AD%E9%AB%98%E7%A9%BA%E8%A7%80%E5%AF%9F%E5%8F%B0-%E4%BF%9D%E8%82%B2%E4%B8%AD%E5%BF%83%E5%B1%95%E9%AF%A8%E9%AD%9A%E6%A8%99%E6%9C%AC",
+    "timestamp": "2026-10-13T11:59:34.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TWICE定延激瘦惹火身段驚艷網民　離巢JYP狀態大勇重返顏值巔峰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056319485939552256207834.jpeg/XpTFGj9EMqr-7GPLMkMU13R7UjDI0hunJxYnLicWJy4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398980/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E5%9C%A811%E6%9C%88%E4%B8%AD%E6%97%AC%E8%A8%AA%E5%95%8F%E4%BA%9E%E6%B4%B2%E6%9C%9F%E9%96%93%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E6%9C%83%E9%9D%A2",
     "timestamp": "2026-10-13T02:14:28.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國佐治亞州發生過山車意外釀1死多人傷　目擊者：看到有人墜落",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186610294537850880520364.png/9b-vyK7WICEHHhuS12Es5Ul8EiG3RbN90QcQfNEHEHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398981/%E7%BE%8E%E5%9C%8B%E4%BD%90%E6%B2%BB%E4%BA%9E%E5%B7%9E%E7%99%BC%E7%94%9F%E9%81%8E%E5%B1%B1%E8%BB%8A%E6%84%8F%E5%A4%96%E9%87%801%E6%AD%BB%E5%A4%9A%E4%BA%BA%E5%82%B7-%E7%9B%AE%E6%93%8A%E8%80%85-%E7%9C%8B%E5%88%B0%E6%9C%89%E4%BA%BA%E5%A2%9C%E8%90%BD",
-    "timestamp": "2026-10-13T01:45:07.133Z",
     "strategy": ".content-card__main"
   }
 ];
