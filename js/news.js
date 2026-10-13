@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T11:25:56.259Z
+// Last updated: 2026-10-13T11:47:51.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TWICE定延激瘦惹火身段驚艷網民　離巢JYP狀態大勇重返顏值巔峰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186679267216330752540168.jpeg/GlWTiMtSFDGeljnQKPEjQGXPbcJw5mfYag2RamoNkWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399123/twice%E5%AE%9A%E5%BB%B6%E6%BF%80%E7%98%A6%E6%83%B9%E7%81%AB%E8%BA%AB%E6%AE%B5%E9%A9%9A%E8%89%B7%E7%B6%B2%E6%B0%91-%E9%9B%A2%E5%B7%A2jyp%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87%E9%87%8D%E8%BF%94%E9%A1%8F%E5%80%BC%E5%B7%94%E5%B3%B0",
+    "timestamp": "2026-10-13T11:47:51.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角新都城大廈51歲肯亞婦暈倒　現場證實不治　死因待查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186610294537850880520364.png/9b-vyK7WICEHHhuS12Es5Ul8EiG3RbN90QcQfNEHEHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398981/%E7%BE%8E%E5%9C%8B%E4%BD%90%E6%B2%BB%E4%BA%9E%E5%B7%9E%E7%99%BC%E7%94%9F%E9%81%8E%E5%B1%B1%E8%BB%8A%E6%84%8F%E5%A4%96%E9%87%801%E6%AD%BB%E5%A4%9A%E4%BA%BA%E5%82%B7-%E7%9B%AE%E6%93%8A%E8%80%85-%E7%9C%8B%E5%88%B0%E6%9C%89%E4%BA%BA%E5%A2%9C%E8%90%BD",
     "timestamp": "2026-10-13T01:45:07.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "百度自動車東涌公眾試乘｜即看日期與路線　參加資格及車券點拎？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185594349447024640159462.jpeg/nJZKk5MFKT2N5dcs7umB1p6rEkINeqcQXi-seF4vrHg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398971/%E7%99%BE%E5%BA%A6%E8%87%AA%E5%8B%95%E8%BB%8A%E6%9D%B1%E6%B6%8C%E5%85%AC%E7%9C%BE%E8%A9%A6%E4%B9%98-%E5%8D%B3%E7%9C%8B%E6%97%A5%E6%9C%9F%E8%88%87%E8%B7%AF%E7%B7%9A-%E5%8F%83%E5%8A%A0%E8%B3%87%E6%A0%BC%E5%8F%8A%E8%BB%8A%E5%88%B8%E9%BB%9E%E6%8B%8E",
-    "timestamp": "2026-10-13T00:57:33.122Z",
     "strategy": ".content-card__main"
   }
 ];
