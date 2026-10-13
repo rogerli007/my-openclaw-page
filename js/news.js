@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T13:33:52.890Z
+// Last updated: 2026-10-13T13:55:35.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳偉豪孖父親吳大強中山登台為冧粉絲險絆倒　靠超強身手神救援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186780547091795968518369.jpeg/Ad15LBpkhhDEJggAbS87HAB9GXYQkrhfJ3852Sd_Odk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399346/%E5%90%B3%E5%81%89%E8%B1%AA%E5%AD%96%E7%88%B6%E8%A6%AA%E5%90%B3%E5%A4%A7%E5%BC%B7%E4%B8%AD%E5%B1%B1%E7%99%BB%E5%8F%B0%E7%82%BA%E5%86%A7%E7%B2%89%E7%B5%B2%E9%9A%AA%E7%B5%86%E5%80%92-%E9%9D%A0%E8%B6%85%E5%BC%B7%E8%BA%AB%E6%89%8B%E7%A5%9E%E6%95%91%E6%8F%B4",
+    "timestamp": "2026-10-13T13:55:35.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾比特深圳灣關口遺失黑色銀包重要證件　公開發文尋失物：在線等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186635029212565504912036.jpeg/a4ojBzI4pZ3eiibB85HeHvr-erl5GdVcXYClk12ApZM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399037/%E7%B6%B2%E7%90%83-%E9%84%AD%E6%AC%BD%E6%96%87%E7%81%AB%E9%B3%B3%E9%87%8D%E7%94%9F-%E6%99%82%E9%9A%942%E5%B9%B4%E5%86%8D%E5%A5%AA%E5%86%A0-%E6%9C%80%E4%BD%8E%E6%BD%AE%E6%99%82%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E8%B3%AA%E7%96%91%E6%88%91",
     "timestamp": "2026-10-13T04:55:51.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "袁澧林性騷擾｜圈中多次發生「鹹豬手」仲有黑名單　視后亦曾中招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186645083278020608184653.jpeg/GJf2mVzcsidc6HqmYDkDPxyngBDVgaIH2LPSRNiz0kQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399044/%E8%A2%81%E6%BE%A7%E6%9E%97%E6%80%A7%E9%A8%B7%E6%93%BE-%E5%9C%88%E4%B8%AD%E5%A4%9A%E6%AC%A1%E7%99%BC%E7%94%9F-%E9%B9%B9%E8%B1%AC%E6%89%8B-%E4%BB%B2%E6%9C%89%E9%BB%91%E5%90%8D%E5%96%AE-%E8%A6%96%E5%90%8E%E4%BA%A6%E6%9B%BE%E4%B8%AD%E6%8B%9B",
-    "timestamp": "2026-10-13T03:58:39.981Z",
     "strategy": ".content-card__main"
   }
 ];
