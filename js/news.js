@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T19:18:21.073Z
+// Last updated: 2026-10-13T19:31:42.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜上環女子墮海載浮載沉　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186877386373730304426819.jpeg/gsQhREqp-7V0wOwg1b3myWoStHAn1SspZPIvkF7yL5A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399382/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%8A%E7%92%B0%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7%E8%BC%89%E6%B5%AE%E8%BC%89%E6%B2%89-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-10-13T19:31:42.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：胡塞武裝受伊朗指使襲擊沙特　故意在中期選舉前推高油價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220626/617796914892902400825104.jpeg/BbyeoKaBwjBma51x31jMK0Z8KhQuVKngYehYp2HoWKc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399328/%E5%8C%97%E8%A7%92%E6%96%B0%E9%83%BD%E5%9F%8E%E5%A4%A7%E5%BB%8851%E6%AD%B2%E8%82%AF%E4%BA%9E%E5%A9%A6%E6%9A%88%E5%80%92-%E7%8F%BE%E5%A0%B4%E8%AD%89%E5%AF%A6%E4%B8%8D%E6%B2%BB-%E6%AD%BB%E5%9B%A0%E5%BE%85%E6%9F%A5",
     "timestamp": "2026-10-13T11:25:56.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Salomon零失誤配襯教學!BTS車銀優等8位日韓明星示範不同混搭風格",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186634610881073152670231.jpeg/L3E5Uj6Ir-phU7vFfwStHuRwg47xA5IaKENHWyhDR1s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60396723/salomon%E9%9B%B6%E5%A4%B1%E8%AA%A4%E9%85%8D%E8%A5%AF%E6%95%99%E5%AD%B8-bts%E8%BB%8A%E9%8A%80%E5%84%AA%E7%AD%898%E4%BD%8D%E6%97%A5%E9%9F%93%E6%98%8E%E6%98%9F%E7%A4%BA%E7%AF%84%E4%B8%8D%E5%90%8C%E6%B7%B7%E6%90%AD%E9%A2%A8%E6%A0%BC",
-    "timestamp": "2026-10-13T11:02:52.542Z",
     "strategy": ".content-card__main"
   }
 ];
