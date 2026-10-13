@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T22:44:04.200Z
+// Last updated: 2026-10-13T22:54:07.684Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "IELTS雅思內地大癱瘓！英國文化協會聽力考試期間叫停　成績作廢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186874809401741312819546.png/Onqu6VHiw4d3-LdubRoqDlmrqvnt6zGl437MruN-zK4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397952/ielts%E9%9B%85%E6%80%9D%E5%85%A7%E5%9C%B0%E5%A4%A7%E7%99%B1%E7%98%93-%E8%8B%B1%E5%9C%8B%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%81%BD%E5%8A%9B%E8%80%83%E8%A9%A6%E6%9C%9F%E9%96%93%E5%8F%AB%E5%81%9C-%E6%88%90%E7%B8%BE%E4%BD%9C%E5%BB%A2",
+    "timestamp": "2026-10-13T22:54:07.684Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "IELTS雅思內地大癱瘓！英國文化協會聽力考試期間叫停　成績作廢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186806829590515712819453.jpeg/D1hZ5pbo3XwB92j5kTSUlikR2hafC1x8gaDaBYGg2gU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399365/%E9%A6%99%E6%B8%AF%E6%B5%B7%E9%97%9C%E6%B8%AF%E7%8F%A0%E6%BE%B3%E6%90%9C%E5%87%BA%E5%A2%83%E8%B2%A8%E8%BB%8A-%E6%AA%A2-1800%E8%90%AC%E8%B5%B0%E7%A7%81%E8%97%A5%E5%8A%91%E8%A3%BD%E5%93%81%E6%8B%98%E6%8E%A7%E5%85%A7%E5%9C%B0%E5%8F%B8%E6%A9%9F",
     "timestamp": "2026-10-13T14:51:34.215Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭香如故大結局｜劉學義寫17篇日記虐哭全網　譚松韻回信掀戒斷潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186653636566978560305786.png/1KodCDFNT_RrjU1_wS4DXlGhaQHKrDRcC0bGggtGxoI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399060/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E5%A4%A7%E7%B5%90%E5%B1%80-%E5%8A%89%E5%AD%B8%E7%BE%A9%E5%AF%AB17%E7%AF%87%E6%97%A5%E8%A8%98%E8%99%90%E5%93%AD%E5%85%A8%E7%B6%B2-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%9B%9E%E4%BF%A1%E6%8E%80%E6%88%92%E6%96%B7%E6%BD%AE",
-    "timestamp": "2026-10-13T14:24:32.945Z",
     "strategy": ".content-card__main"
   }
 ];
