@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T10:51:56.101Z
+// Last updated: 2026-10-13T11:02:52.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Salomon零失誤配襯教學!BTS車銀優等8位日韓明星示範不同混搭風格",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186634610881073152670231.jpeg/L3E5Uj6Ir-phU7vFfwStHuRwg47xA5IaKENHWyhDR1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60396723/salomon%E9%9B%B6%E5%A4%B1%E8%AA%A4%E9%85%8D%E8%A5%AF%E6%95%99%E5%AD%B8-bts%E8%BB%8A%E9%8A%80%E5%84%AA%E7%AD%898%E4%BD%8D%E6%97%A5%E9%9F%93%E6%98%8E%E6%98%9F%E7%A4%BA%E7%AF%84%E4%B8%8D%E5%90%8C%E6%B7%B7%E6%90%AD%E9%A2%A8%E6%A0%BC",
+    "timestamp": "2026-10-13T11:02:52.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭香如故結局｜譚松韻臨終不戴劉學義紅繩惹議　握血書香囊藏真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186468561741156352918043.jpeg/UW8cHsCYMO8NzWHlcRtUftncdSv1CESZWkEQJFpBECQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60398949/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E6%9B%89%E8%8F%AF%E6%8E%9B%E5%BC%B5%E6%99%BA%E9%9C%96%E8%BA%AB%E4%B8%8A%E8%A2%AB%E6%8B%8B%E8%90%BD%E5%BA%8A-%E6%94%9D%E5%BD%B1%E5%B8%AB%E9%82%AA%E6%83%A1%E8%A7%92%E5%BA%A6%E9%9A%AA%E6%B4%A9%E6%98%A5%E5%85%89",
     "timestamp": "2026-10-12T23:48:31.536Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本人氣樹熊瓦特爾離世　性情溫和迷倒粉海外　母親去年同疾病亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186505190757371904305692.png/rn-76d46KbFMnGQRcjVMjJrLqx0w1uoEbVFYD21RWA8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397269/%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%B0%A3%E6%A8%B9%E7%86%8A%E7%93%A6%E7%89%B9%E7%88%BE%E9%9B%A2%E4%B8%96-%E6%80%A7%E6%83%85%E6%BA%AB%E5%92%8C%E8%BF%B7%E5%80%92%E7%B2%89%E6%B5%B7%E5%A4%96-%E6%AF%8D%E8%A6%AA%E5%8E%BB%E5%B9%B4%E5%90%8C%E7%96%BE%E7%97%85%E4%BA%A1",
-    "timestamp": "2026-10-12T23:20:04.271Z",
     "strategy": ".content-card__main"
   }
 ];
