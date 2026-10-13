@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T09:40:48.385Z
+// Last updated: 2026-10-13T10:05:31.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狗舍兼職被咬至尾指近斷　索償被指是義工　官判狗舍須賠8.9萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220921/649322143275814912528409.jpeg/EuBpPfHBXye11CoeoQNPUuGOQ03aI6c6GALXDxgC1w8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399293/%E7%8B%97%E8%88%8D%E5%85%BC%E8%81%B7%E8%A2%AB%E5%92%AC%E8%87%B3%E5%B0%BE%E6%8C%87%E8%BF%91%E6%96%B7-%E7%B4%A2%E5%84%9F%E8%A2%AB%E6%8C%87%E6%98%AF%E7%BE%A9%E5%B7%A5-%E5%AE%98%E5%88%A4%E7%8B%97%E8%88%8D%E9%A0%88%E8%B3%A08-9%E8%90%AC",
+    "timestamp": "2026-10-13T10:05:31.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英男為善款挑戰「從北京跑回倫敦」　戈壁意外救流浪幼貓跨國收養",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186110680642621440496703.jpeg/FmE2OcyEP5i_EqZqNLAdKM7DMV6HQ2dk_k5Luv5OS7o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398961/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B1%E5%86%8D%E8%A5%B2%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4-%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D-%E6%94%94%E6%88%AA%E4%B8%80%E6%9E%9A%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-10-12T21:45:46.860Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "也門胡塞武裝稱再襲利雅得機場　沙特聯軍：攔截一枚彈道導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186110680642621440496703.jpeg/FmE2OcyEP5i_EqZqNLAdKM7DMV6HQ2dk_k5Luv5OS7o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398961/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B1%E5%86%8D%E8%A5%B2%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4-%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D-%E6%94%94%E6%88%AA%E4%B8%80%E6%9E%9A%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-10-12T21:21:24.795Z",
     "strategy": ".content-card__main"
   }
 ];
