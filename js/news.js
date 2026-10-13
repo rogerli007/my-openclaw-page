@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T21:17:41.412Z
+// Last updated: 2026-10-13T21:30:35.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜阿仙奴３：０里爾　曼聯作客０：２馬體會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186907474020536320603152.jpeg/I3fT-UT3_D-mALNlW8xTgoQd8Kq7yszP39Y0vd_WNL0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399392/%E6%AD%90%E8%81%AF-%E9%98%BF%E4%BB%99%E5%A5%B4%EF%BC%93-%EF%BC%90%E9%87%8C%E7%88%BE-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%EF%BC%90-%EF%BC%92%E9%A6%AC%E9%AB%94%E6%9C%83",
+    "timestamp": "2026-10-13T21:30:35.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梵蒂岡：教宗確診肺癌已切除右肺下葉　手術成功未出現併發症",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186726418994696192573628.jpeg/3ZevGSvBCmbrZZnBb-fgCBN5JfvCWoh6_MhusMrIbrA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399262/%E5%91%A8%E5%9C%8B%E8%B1%90%E5%96%AA%E6%AF%8D%E6%9C%AA%E7%8F%BE%E8%BA%AB%E7%99%BC%E4%BD%88%E6%9C%83-%E5%8D%80%E7%91%9E%E5%BC%B7%E5%BF%83%E7%96%BC%E6%91%AF%E5%8F%8B-%E5%A5%BD%E6%97%A9%E5%B0%B1%E7%9F%A5%E4%BD%A2%E5%AA%BD%E5%AA%BD%E9%81%8E%E5%92%97%E8%BA%AB",
     "timestamp": "2026-10-13T13:01:55.020Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Canada Goose寧波拍廣告遺留大量垃圾　遭曝光急道歉承諾淨山1年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186721126928093184832015.jpeg/rcjxvmnAzLgBpsONPqT2oCfgU_8UFlkIUYxRNlGMUTY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399192/canada-goose%E5%AF%A7%E6%B3%A2%E6%8B%8D%E5%BB%A3%E5%91%8A%E9%81%BA%E7%95%99%E5%A4%A7%E9%87%8F%E5%9E%83%E5%9C%BE-%E9%81%AD%E6%9B%9D%E5%85%89%E6%80%A5%E9%81%93%E6%AD%89%E6%89%BF%E8%AB%BE%E6%B7%A8%E5%B1%B11%E5%B9%B4",
-    "timestamp": "2026-10-13T12:31:49.256Z",
     "strategy": ".content-card__main"
   }
 ];
