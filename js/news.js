@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T11:02:52.542Z
+// Last updated: 2026-10-13T11:25:56.259Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角新都城大廈51歲肯亞婦暈倒　現場證實不治　死因待查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220626/617796914892902400825104.jpeg/BbyeoKaBwjBma51x31jMK0Z8KhQuVKngYehYp2HoWKc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399328/%E5%8C%97%E8%A7%92%E6%96%B0%E9%83%BD%E5%9F%8E%E5%A4%A7%E5%BB%8851%E6%AD%B2%E8%82%AF%E4%BA%9E%E5%A9%A6%E6%9A%88%E5%80%92-%E7%8F%BE%E5%A0%B4%E8%AD%89%E5%AF%A6%E4%B8%8D%E6%B2%BB-%E6%AD%BB%E5%9B%A0%E5%BE%85%E6%9F%A5",
+    "timestamp": "2026-10-13T11:25:56.259Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Salomon零失誤配襯教學!BTS車銀優等8位日韓明星示範不同混搭風格",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185594349447024640159462.jpeg/nJZKk5MFKT2N5dcs7umB1p6rEkINeqcQXi-seF4vrHg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60398971/%E7%99%BE%E5%BA%A6%E8%87%AA%E5%8B%95%E8%BB%8A%E6%9D%B1%E6%B6%8C%E5%85%AC%E7%9C%BE%E8%A9%A6%E4%B9%98-%E5%8D%B3%E7%9C%8B%E6%97%A5%E6%9C%9F%E8%88%87%E8%B7%AF%E7%B7%9A-%E5%8F%83%E5%8A%A0%E8%B3%87%E6%A0%BC%E5%8F%8A%E8%BB%8A%E5%88%B8%E9%BB%9E%E6%8B%8E",
     "timestamp": "2026-10-13T00:57:33.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜陳曉華掛張智霖身上被拋落床　攝影師邪惡角度險洩春光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186468561741156352918043.jpeg/UW8cHsCYMO8NzWHlcRtUftncdSv1CESZWkEQJFpBECQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60398949/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E6%9B%89%E8%8F%AF%E6%8E%9B%E5%BC%B5%E6%99%BA%E9%9C%96%E8%BA%AB%E4%B8%8A%E8%A2%AB%E6%8B%8B%E8%90%BD%E5%BA%8A-%E6%94%9D%E5%BD%B1%E5%B8%AB%E9%82%AA%E6%83%A1%E8%A7%92%E5%BA%A6%E9%9A%AA%E6%B4%A9%E6%98%A5%E5%85%89",
-    "timestamp": "2026-10-12T23:48:31.536Z",
     "strategy": ".content-card__main"
   }
 ];
