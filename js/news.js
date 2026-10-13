@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T18:27:22.918Z
+// Last updated: 2026-10-13T18:51:36.469Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張致恒與前度莊韻澄前夫同框唔尷尬　呂成忠幫批命格：大上大落",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186849901263196160093258.png/bLVyEa997LtfIh6KznLxkrSJQL73FsAMYZSj3WGUo90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399373/%E5%BC%B5%E8%87%B4%E6%81%92%E8%88%87%E5%89%8D%E5%BA%A6%E8%8E%8A%E9%9F%BB%E6%BE%84%E5%89%8D%E5%A4%AB%E5%90%8C%E6%A1%86%E5%94%94%E5%B0%B7%E5%B0%AC-%E5%91%82%E6%88%90%E5%BF%A0%E5%B9%AB%E6%89%B9%E5%91%BD%E6%A0%BC-%E5%A4%A7%E4%B8%8A%E5%A4%A7%E8%90%BD",
+    "timestamp": "2026-10-13T18:51:36.469Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張致恒與前度莊韻澄前夫同框唔尷尬　呂成忠幫批命格：大上大落",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186695310689177600178456.png/IY2U4IscZoO2-0AvQd53ItmJmXr8ju8eWeDch1ng3Ic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399141/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E7%B5%90%E5%B1%80-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E8%87%A8%E7%B5%82%E4%B8%8D%E6%88%B4%E5%8A%89%E5%AD%B8%E7%BE%A9%E7%B4%85%E7%B9%A9%E6%83%B9%E8%AD%B0-%E6%8F%A1%E8%A1%80%E6%9B%B8%E9%A6%99%E5%9B%8A%E8%97%8F%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-10-13T10:51:56.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SIERRA SEA第2C(2)期暫收逾13000票　超購逾90倍　夥中銀推按揭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186742063421460480297185.jpeg/G3Q9wAgalW_wYXxr11NTAbpV1Y681QylLmBHXi5gR14?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60399301/sierra-sea%E7%AC%AC2c-2-%E6%9C%9F%E6%9A%AB%E6%94%B6%E9%80%BE13000%E7%A5%A8-%E8%B6%85%E8%B3%BC%E9%80%BE90%E5%80%8D-%E5%A4%A5%E4%B8%AD%E9%8A%80%E6%8E%A8%E6%8C%89%E6%8F%AD",
-    "timestamp": "2026-10-13T10:27:05.809Z",
     "strategy": ".content-card__main"
   }
 ];
