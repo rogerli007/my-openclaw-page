@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T16:27:01.902Z
+// Last updated: 2026-10-13T16:49:47.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄拘《北海道新聞》記者指從事間諜活動　涉刺探庫頁島防衛能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186837705594507264874203.jpeg/7AHugWP5JE21dSf0Lgb-0l0opqM1vA4jnBUb25wVG9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399376/%E4%BF%84%E6%8B%98-%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E8%81%9E-%E8%A8%98%E8%80%85%E6%8C%87%E5%BE%9E%E4%BA%8B%E9%96%93%E8%AB%9C%E6%B4%BB%E5%8B%95-%E6%B6%89%E5%88%BA%E6%8E%A2%E5%BA%AB%E9%A0%81%E5%B3%B6%E9%98%B2%E8%A1%9B%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-10-13T16:49:47.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華為夥HKIIT累計培訓80鴻蒙種子導師　教授2000人最新技術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186717465279729664720615.jpeg/Mpx7LgscTGDj3qx5vOZ0JWFcPq94RlXNsfuuYbH7rmE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60399235/%E8%A1%8C%E6%9D%8E%E5%AF%84%E8%89%99%E7%B4%A2%E5%84%9F%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%B6%88%E5%A7%94%E6%9C%83%E6%95%9912%E6%8B%9B%E8%87%AA%E4%BF%9D-%E5%81%9A%E6%BC%8F%E4%B8%80%E6%AD%A5%E9%9A%A8%E6%99%82%E7%84%A1%E6%B3%95%E7%B4%A2%E5%84%9F",
     "timestamp": "2026-10-13T08:48:11.487Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "居屋2025｜10.21揀樓　明公布樓書價單　推樓王啟陽苑等7000單位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260517/1132794730510290944815679.jpeg/C5PCr_JgASZSqvmzkKtQishXp6JdRcxVwedJBcHnSQU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399195/%E5%B1%85%E5%B1%8B2025-10-21%E6%8F%80%E6%A8%93-%E6%98%8E%E5%85%AC%E5%B8%83%E6%A8%93%E6%9B%B8%E5%83%B9%E5%96%AE-%E6%8E%A8%E6%A8%93%E7%8E%8B%E5%95%9F%E9%99%BD%E8%8B%91%E7%AD%897000%E5%96%AE%E4%BD%8D",
-    "timestamp": "2026-10-13T08:06:39.133Z",
     "strategy": ".content-card__main"
   }
 ];
