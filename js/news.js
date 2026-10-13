@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T11:59:34.515Z
+// Last updated: 2026-10-13T12:31:49.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Canada Goose寧波拍廣告遺留大量垃圾　遭曝光急道歉承諾淨山1年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186721126928093184832015.jpeg/rcjxvmnAzLgBpsONPqT2oCfgU_8UFlkIUYxRNlGMUTY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399192/canada-goose%E5%AF%A7%E6%B3%A2%E6%8B%8D%E5%BB%A3%E5%91%8A%E9%81%BA%E7%95%99%E5%A4%A7%E9%87%8F%E5%9E%83%E5%9C%BE-%E9%81%AD%E6%9B%9D%E5%85%89%E6%80%A5%E9%81%93%E6%AD%89%E6%89%BF%E8%AB%BE%E6%B7%A8%E5%B1%B11%E5%B9%B4",
+    "timestamp": "2026-10-13T12:31:49.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海洋公園明年50周年　新熊貓館設高空觀察台　保育中心展鯨魚標本",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186620299865493504168453.png/4Y-WugHdH6HpgeD5UlPK2FyQe5K7pmD484dWzfOHVs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398948/%E7%B4%99%E9%A3%B2%E7%AE%A1%E5%90%AB%E6%B0%B8%E4%B9%85%E5%8C%96%E5%AD%B8%E7%89%A9pfas%E5%A2%9E%E6%82%A3%E7%99%8C%E9%A2%A8%E9%9A%AA-%E8%AC%9D%E5%B1%95%E5%AF%B0-%E9%87%8B%E5%87%BA%E9%87%8F%E6%A5%B5%E4%BD%8E%E7%84%A1%E6%90%8D%E5%81%A5%E5%BA%B7",
     "timestamp": "2026-10-13T02:52:32.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：或在11月中旬訪問亞洲期間與金正恩會面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251018/1056319485939552256207834.jpeg/XpTFGj9EMqr-7GPLMkMU13R7UjDI0hunJxYnLicWJy4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398980/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E5%9C%A811%E6%9C%88%E4%B8%AD%E6%97%AC%E8%A8%AA%E5%95%8F%E4%BA%9E%E6%B4%B2%E6%9C%9F%E9%96%93%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E6%9C%83%E9%9D%A2",
-    "timestamp": "2026-10-13T02:14:28.046Z",
     "strategy": ".content-card__main"
   }
 ];
