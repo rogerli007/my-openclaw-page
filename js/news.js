@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T00:57:33.122Z
+// Last updated: 2026-10-13T01:45:07.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國佐治亞州發生過山車意外釀1死多人傷　目擊者：看到有人墜落",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186610294537850880520364.png/9b-vyK7WICEHHhuS12Es5Ul8EiG3RbN90QcQfNEHEHw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398981/%E7%BE%8E%E5%9C%8B%E4%BD%90%E6%B2%BB%E4%BA%9E%E5%B7%9E%E7%99%BC%E7%94%9F%E9%81%8E%E5%B1%B1%E8%BB%8A%E6%84%8F%E5%A4%96%E9%87%801%E6%AD%BB%E5%A4%9A%E4%BA%BA%E5%82%B7-%E7%9B%AE%E6%93%8A%E8%80%85-%E7%9C%8B%E5%88%B0%E6%9C%89%E4%BA%BA%E5%A2%9C%E8%90%BD",
+    "timestamp": "2026-10-13T01:45:07.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百度自動車東涌公眾試乘｜即看日期與路線　參加資格及車券點拎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260302/1105275351317090304780532.jpeg/DkKPKUERGlflcuBT2zdsfcAaC6kyyc-BZYvINmWLyDY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60398940/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%8D%87%E9%80%BE200%E9%BB%9E-%E6%B2%B9%E5%83%B9%E6%9C%80%E6%96%B0%E6%BC%B2%E9%80%BE2",
     "timestamp": "2026-10-12T15:10:08.010Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神2｜冷氣工方智弘舊照曝光　被《東張》主持逼問整容認有變樣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186435859218436096801394.png/MC0ELaT0iD3De7yTbkt_DfAu4VoYXfBba-yQYWvskGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398907/%E5%A5%B3%E7%A5%9E2-%E5%86%B7%E6%B0%A3%E5%B7%A5%E6%96%B9%E6%99%BA%E5%BC%98%E8%88%8A%E7%85%A7%E6%9B%9D%E5%85%89-%E8%A2%AB-%E6%9D%B1%E5%BC%B5-%E4%B8%BB%E6%8C%81%E9%80%BC%E5%95%8F%E6%95%B4%E5%AE%B9%E8%AA%8D%E6%9C%89%E8%AE%8A%E6%A8%A3",
-    "timestamp": "2026-10-12T14:06:17.592Z",
     "strategy": ".content-card__main"
   }
 ];
