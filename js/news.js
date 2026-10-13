@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T14:24:32.945Z
+// Last updated: 2026-10-13T14:51:34.215Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港海關港珠澳搜出境貨車　檢$1800萬走私藥劑製品拘控內地司機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186806829590515712819453.jpeg/D1hZ5pbo3XwB92j5kTSUlikR2hafC1x8gaDaBYGg2gU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399365/%E9%A6%99%E6%B8%AF%E6%B5%B7%E9%97%9C%E6%B8%AF%E7%8F%A0%E6%BE%B3%E6%90%9C%E5%87%BA%E5%A2%83%E8%B2%A8%E8%BB%8A-%E6%AA%A2-1800%E8%90%AC%E8%B5%B0%E7%A7%81%E8%97%A5%E5%8A%91%E8%A3%BD%E5%93%81%E6%8B%98%E6%8E%A7%E5%85%A7%E5%9C%B0%E5%8F%B8%E6%A9%9F",
+    "timestamp": "2026-10-13T14:51:34.215Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘭香如故大結局｜劉學義寫17篇日記虐哭全網　譚松韻回信掀戒斷潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186685544990511104514869.png/aJv4LABvzr6KDqFN46YEF-EX_y4a2tPcGqhzgBqoc4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60399139/%E7%9F%B3%E5%B4%97%E8%BB%8D%E7%87%9F%E6%97%81%E5%9C%B0%E7%9A%AE%E7%94%B3%E5%BB%BA22%E5%B9%A2%E6%B4%8B%E6%88%BF-%E8%BC%83%E8%88%8A%E6%96%B9%E6%A1%88%E5%A4%9A10%E5%B9%A2-%E7%B8%BD%E6%A8%93%E9%9D%A2%E5%A2%9E7%E6%88%90",
     "timestamp": "2026-10-13T06:39:38.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來港博士生誤信「廉署」　被指洗黑錢要資金清查　痛失55萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186663844265594880270354.png/G_tSUpc9ENZ9CZlXqGeyozErmKFFlhESL8bpSC_G6Ug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399101/%E4%BE%86%E6%B8%AF%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%AA%A4%E4%BF%A1-%E5%BB%89%E7%BD%B2-%E8%A2%AB%E6%8C%87%E6%B4%97%E9%BB%91%E9%8C%A2%E8%A6%81%E8%B3%87%E9%87%91%E6%B8%85%E6%9F%A5-%E7%97%9B%E5%A4%B155%E8%90%AC",
-    "timestamp": "2026-10-13T05:24:43.558Z",
     "strategy": ".content-card__main"
   }
 ];
