@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T17:04:28.471Z
+// Last updated: 2026-10-13T17:23:34.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄拘《北海道新聞》記者指從事間諜活動　涉刺探庫頁島防衛能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186837705594507264874203.jpeg/7AHugWP5JE21dSf0Lgb-0l0opqM1vA4jnBUb25wVG9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399376/%E4%BF%84%E6%8B%98-%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E8%81%9E-%E8%A8%98%E8%80%85%E6%8C%87%E5%BE%9E%E4%BA%8B%E9%96%93%E8%AB%9C%E6%B4%BB%E5%8B%95-%E6%B6%89%E5%88%BA%E6%8E%A2%E5%BA%AB%E9%A0%81%E5%B3%B6%E9%98%B2%E8%A1%9B%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-10-13T17:23:34.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄拘《北海道新聞》記者指從事間諜活動　涉刺探庫頁島防衛能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186668911270039552863109.png/6sAzJFGcjk4ynh_SanKRH8Ybt7FxKkvmgL92KoC_dio?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399075/%E8%8B%B1%E7%94%B7%E7%82%BA%E5%96%84%E6%AC%BE%E6%8C%91%E6%88%B0-%E5%BE%9E%E5%8C%97%E4%BA%AC%E8%B7%91%E5%9B%9E%E5%80%AB%E6%95%A6-%E6%88%88%E5%A3%81%E6%84%8F%E5%A4%96%E6%95%91%E6%B5%81%E6%B5%AA%E5%B9%BC%E8%B2%93%E8%B7%A8%E5%9C%8B%E6%94%B6%E9%A4%8A",
     "timestamp": "2026-10-13T09:40:48.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "證監嚴打IPO造假！　勒令茶百道停牌　搗破兩集團涉3股凍資近50億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793912009631469568412836.jpeg/nqvITCaOdyAkOa_i7mFAh0tTMgqJOaZ34jg5BuI4OQY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60399248/%E8%AD%89%E7%9B%A3%E5%9A%B4%E6%89%93ipo%E9%80%A0%E5%81%87-%E5%8B%92%E4%BB%A4%E8%8C%B6%E7%99%BE%E9%81%93%E5%81%9C%E7%89%8C-%E6%90%97%E7%A0%B4%E5%85%A9%E9%9B%86%E5%9C%98%E6%B6%893%E8%82%A1%E5%87%8D%E8%B3%87%E8%BF%9150%E5%84%84",
-    "timestamp": "2026-10-13T09:09:00.104Z",
     "strategy": ".content-card__main"
   }
 ];
