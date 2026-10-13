@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T16:49:47.602Z
+// Last updated: 2026-10-13T17:04:28.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄拘《北海道新聞》記者指從事間諜活動　涉刺探庫頁島防衛能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186837705594507264874203.jpeg/7AHugWP5JE21dSf0Lgb-0l0opqM1vA4jnBUb25wVG9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399376/%E4%BF%84%E6%8B%98-%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E8%81%9E-%E8%A8%98%E8%80%85%E6%8C%87%E5%BE%9E%E4%BA%8B%E9%96%93%E8%AB%9C%E6%B4%BB%E5%8B%95-%E6%B6%89%E5%88%BA%E6%8E%A2%E5%BA%AB%E9%A0%81%E5%B3%B6%E9%98%B2%E8%A1%9B%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-10-13T17:04:28.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄拘《北海道新聞》記者指從事間諜活動　涉刺探庫頁島防衛能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793912009631469568412836.jpeg/nqvITCaOdyAkOa_i7mFAh0tTMgqJOaZ34jg5BuI4OQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60399248/%E8%AD%89%E7%9B%A3%E5%9A%B4%E6%89%93ipo%E9%80%A0%E5%81%87-%E5%8B%92%E4%BB%A4%E8%8C%B6%E7%99%BE%E9%81%93%E5%81%9C%E7%89%8C-%E6%90%97%E7%A0%B4%E5%85%A9%E9%9B%86%E5%9C%98%E6%B6%893%E8%82%A1%E5%87%8D%E8%B3%87%E8%BF%9150%E5%84%84",
     "timestamp": "2026-10-13T09:09:00.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "行李寄艙索償懶人包｜消委會教12招自保　做漏一步隨時無法索償",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186717465279729664720615.jpeg/Mpx7LgscTGDj3qx5vOZ0JWFcPq94RlXNsfuuYbH7rmE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60399235/%E8%A1%8C%E6%9D%8E%E5%AF%84%E8%89%99%E7%B4%A2%E5%84%9F%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%B6%88%E5%A7%94%E6%9C%83%E6%95%9912%E6%8B%9B%E8%87%AA%E4%BF%9D-%E5%81%9A%E6%BC%8F%E4%B8%80%E6%AD%A5%E9%9A%A8%E6%99%82%E7%84%A1%E6%B3%95%E7%B4%A2%E5%84%9F",
-    "timestamp": "2026-10-13T08:48:11.487Z",
     "strategy": ".content-card__main"
   }
 ];
