@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T18:51:36.469Z
+// Last updated: 2026-10-13T19:18:21.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：胡塞武裝受伊朗指使襲擊沙特　故意在中期選舉前推高油價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186826112139792384783201.jpeg/aQww3SLEaj02f9_kjSf9ZX4yl53qzeme27hfgdu4X4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399381/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%8F%97%E4%BC%8A%E6%9C%97%E6%8C%87%E4%BD%BF%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E6%95%85%E6%84%8F%E5%9C%A8%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%89%8D%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9",
+    "timestamp": "2026-10-13T19:18:21.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張致恒與前度莊韻澄前夫同框唔尷尬　呂成忠幫批命格：大上大落",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186634610881073152670231.jpeg/L3E5Uj6Ir-phU7vFfwStHuRwg47xA5IaKENHWyhDR1s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60396723/salomon%E9%9B%B6%E5%A4%B1%E8%AA%A4%E9%85%8D%E8%A5%AF%E6%95%99%E5%AD%B8-bts%E8%BB%8A%E9%8A%80%E5%84%AA%E7%AD%898%E4%BD%8D%E6%97%A5%E9%9F%93%E6%98%8E%E6%98%9F%E7%A4%BA%E7%AF%84%E4%B8%8D%E5%90%8C%E6%B7%B7%E6%90%AD%E9%A2%A8%E6%A0%BC",
     "timestamp": "2026-10-13T11:02:52.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘭香如故結局｜譚松韻臨終不戴劉學義紅繩惹議　握血書香囊藏真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186695310689177600178456.png/IY2U4IscZoO2-0AvQd53ItmJmXr8ju8eWeDch1ng3Ic?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399141/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E7%B5%90%E5%B1%80-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E8%87%A8%E7%B5%82%E4%B8%8D%E6%88%B4%E5%8A%89%E5%AD%B8%E7%BE%A9%E7%B4%85%E7%B9%A9%E6%83%B9%E8%AD%B0-%E6%8F%A1%E8%A1%80%E6%9B%B8%E9%A6%99%E5%9B%8A%E8%97%8F%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-10-13T10:51:56.101Z",
     "strategy": ".content-card__main"
   }
 ];
