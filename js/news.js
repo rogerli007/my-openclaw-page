@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T21:47:06.990Z
+// Last updated: 2026-10-13T22:18:14.300Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "住宅樓價如預料中鞏固　看進展鞏固後回升機會大｜汪敦敬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186736254302031872962035.jpeg/0DddkNoNdC6BXFCU6P-GcF8Mg9xmX884FL94DxS_eA8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60399271/%E4%BD%8F%E5%AE%85%E6%A8%93%E5%83%B9%E5%A6%82%E9%A0%90%E6%96%99%E4%B8%AD%E9%9E%8F%E5%9B%BA-%E7%9C%8B%E9%80%B2%E5%B1%95%E9%9E%8F%E5%9B%BA%E5%BE%8C%E5%9B%9E%E5%8D%87%E6%A9%9F%E6%9C%83%E5%A4%A7-%E6%B1%AA%E6%95%A6%E6%95%AC",
+    "timestamp": "2026-10-13T22:18:14.300Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜阿仙奴３：０里爾　曼聯作客０：２馬體會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186780547091795968518369.jpeg/Ad15LBpkhhDEJggAbS87HAB9GXYQkrhfJ3852Sd_Odk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399346/%E5%90%B3%E5%81%89%E8%B1%AA%E5%AD%96%E7%88%B6%E8%A6%AA%E5%90%B3%E5%A4%A7%E5%BC%B7%E4%B8%AD%E5%B1%B1%E7%99%BB%E5%8F%B0%E7%82%BA%E5%86%A7%E7%B2%89%E7%B5%B2%E9%9A%AA%E7%B5%86%E5%80%92-%E9%9D%A0%E8%B6%85%E5%BC%B7%E8%BA%AB%E6%89%8B%E7%A5%9E%E6%95%91%E6%8F%B4",
     "timestamp": "2026-10-13T13:55:35.802Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾比特深圳灣關口遺失黑色銀包重要證件　公開發文尋失物：在線等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186766792337395712260145.jpeg/2MpMCf-FS2ONX7TE6MPXBWJ0TUyO6NrR_ciW9f3IlvU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399323/%E6%9B%BE%E6%AF%94%E7%89%B9%E6%B7%B1%E5%9C%B3%E7%81%A3%E9%97%9C%E5%8F%A3%E9%81%BA%E5%A4%B1%E9%BB%91%E8%89%B2%E9%8A%80%E5%8C%85%E9%87%8D%E8%A6%81%E8%AD%89%E4%BB%B6-%E5%85%AC%E9%96%8B%E7%99%BC%E6%96%87%E5%B0%8B%E5%A4%B1%E7%89%A9-%E5%9C%A8%E7%B7%9A%E7%AD%89",
-    "timestamp": "2026-10-13T13:33:52.890Z",
     "strategy": ".content-card__main"
   }
 ];
