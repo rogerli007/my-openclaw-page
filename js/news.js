@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T04:55:51.148Z
+// Last updated: 2026-10-13T05:24:43.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來港博士生誤信「廉署」　被指洗黑錢要資金清查　痛失55萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186663844265594880270354.png/G_tSUpc9ENZ9CZlXqGeyozErmKFFlhESL8bpSC_G6Ug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399101/%E4%BE%86%E6%B8%AF%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%AA%A4%E4%BF%A1-%E5%BB%89%E7%BD%B2-%E8%A2%AB%E6%8C%87%E6%B4%97%E9%BB%91%E9%8C%A2%E8%A6%81%E8%B3%87%E9%87%91%E6%B8%85%E6%9F%A5-%E7%97%9B%E5%A4%B155%E8%90%AC",
+    "timestamp": "2026-10-13T05:24:43.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網球︱鄭欽文火鳳重生　時隔2年再奪冠：最低潮時每個人都質疑我",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186486205877850112346581.jpeg/pKNIbR4RW-daB8M3w89OZpqI5CAuaqrFpNvl-qTb5fo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398953/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%9613%E6%97%A5%E5%85%A5%E9%99%A2-%E6%8E%A5%E5%8F%97%E8%82%BA%E7%B5%90%E7%AF%80%E5%88%87%E9%99%A4%E6%89%8B%E8%A1%93",
     "timestamp": "2026-10-12T18:53:14.304Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅：願與俄維護彼此正當海洋權益　維護全球關鍵航道正常通行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186481813258768384067431.jpeg/pZFrm6coO-KDehdKuUXuoX665uqRQqXtk-qT5pPqk-Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398952/%E7%8E%8B%E6%AF%85-%E9%A1%98%E8%88%87%E4%BF%84%E7%B6%AD%E8%AD%B7%E5%BD%BC%E6%AD%A4%E6%AD%A3%E7%95%B6%E6%B5%B7%E6%B4%8B%E6%AC%8A%E7%9B%8A-%E7%B6%AD%E8%AD%B7%E5%85%A8%E7%90%83%E9%97%9C%E9%8D%B5%E8%88%AA%E9%81%93%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%A1%8C",
-    "timestamp": "2026-10-12T17:57:57.357Z",
     "strategy": ".content-card__main"
   }
 ];
