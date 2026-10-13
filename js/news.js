@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T13:55:35.802Z
+// Last updated: 2026-10-13T14:24:32.945Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭香如故大結局｜劉學義寫17篇日記虐哭全網　譚松韻回信掀戒斷潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186653636566978560305786.png/1KodCDFNT_RrjU1_wS4DXlGhaQHKrDRcC0bGggtGxoI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399060/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E5%A4%A7%E7%B5%90%E5%B1%80-%E5%8A%89%E5%AD%B8%E7%BE%A9%E5%AF%AB17%E7%AF%87%E6%97%A5%E8%A8%98%E8%99%90%E5%93%AD%E5%85%A8%E7%B6%B2-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E5%9B%9E%E4%BF%A1%E6%8E%80%E6%88%92%E6%96%B7%E6%BD%AE",
+    "timestamp": "2026-10-13T14:24:32.945Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳偉豪孖父親吳大強中山登台為冧粉絲險絆倒　靠超強身手神救援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186663844265594880270354.png/G_tSUpc9ENZ9CZlXqGeyozErmKFFlhESL8bpSC_G6Ug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399101/%E4%BE%86%E6%B8%AF%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%AA%A4%E4%BF%A1-%E5%BB%89%E7%BD%B2-%E8%A2%AB%E6%8C%87%E6%B4%97%E9%BB%91%E9%8C%A2%E8%A6%81%E8%B3%87%E9%87%91%E6%B8%85%E6%9F%A5-%E7%97%9B%E5%A4%B155%E8%90%AC",
     "timestamp": "2026-10-13T05:24:43.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網球︱鄭欽文火鳳重生　時隔2年再奪冠：最低潮時每個人都質疑我",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186635029212565504912036.jpeg/a4ojBzI4pZ3eiibB85HeHvr-erl5GdVcXYClk12ApZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399037/%E7%B6%B2%E7%90%83-%E9%84%AD%E6%AC%BD%E6%96%87%E7%81%AB%E9%B3%B3%E9%87%8D%E7%94%9F-%E6%99%82%E9%9A%942%E5%B9%B4%E5%86%8D%E5%A5%AA%E5%86%A0-%E6%9C%80%E4%BD%8E%E6%BD%AE%E6%99%82%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E8%B3%AA%E7%96%91%E6%88%91",
-    "timestamp": "2026-10-13T04:55:51.148Z",
     "strategy": ".content-card__main"
   }
 ];
