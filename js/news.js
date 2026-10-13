@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T13:01:55.020Z
+// Last updated: 2026-10-13T13:33:52.890Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾比特深圳灣關口遺失黑色銀包重要證件　公開發文尋失物：在線等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186766792337395712260145.jpeg/2MpMCf-FS2ONX7TE6MPXBWJ0TUyO6NrR_ciW9f3IlvU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399323/%E6%9B%BE%E6%AF%94%E7%89%B9%E6%B7%B1%E5%9C%B3%E7%81%A3%E9%97%9C%E5%8F%A3%E9%81%BA%E5%A4%B1%E9%BB%91%E8%89%B2%E9%8A%80%E5%8C%85%E9%87%8D%E8%A6%81%E8%AD%89%E4%BB%B6-%E5%85%AC%E9%96%8B%E7%99%BC%E6%96%87%E5%B0%8B%E5%A4%B1%E7%89%A9-%E5%9C%A8%E7%B7%9A%E7%AD%89",
+    "timestamp": "2026-10-13T13:33:52.890Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周國豐喪母未現身發佈會　區瑞強心疼摯友：好早就知佢媽媽過咗身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186645083278020608184653.jpeg/GJf2mVzcsidc6HqmYDkDPxyngBDVgaIH2LPSRNiz0kQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399044/%E8%A2%81%E6%BE%A7%E6%9E%97%E6%80%A7%E9%A8%B7%E6%93%BE-%E5%9C%88%E4%B8%AD%E5%A4%9A%E6%AC%A1%E7%99%BC%E7%94%9F-%E9%B9%B9%E8%B1%AC%E6%89%8B-%E4%BB%B2%E6%9C%89%E9%BB%91%E5%90%8D%E5%96%AE-%E8%A6%96%E5%90%8E%E4%BA%A6%E6%9B%BE%E4%B8%AD%E6%8B%9B",
     "timestamp": "2026-10-13T03:58:39.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菲律賓小學泡泡派對疑漏電學生觸電釀2死2傷　附觸電急救5大步驟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186633683566596096546029.jpeg/m1oNV7WCW1AakN5pmWeblbPOXxfEC1gvO06ctjtOnLY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60398959/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B0%8F%E5%AD%B8%E6%B3%A1%E6%B3%A1%E6%B4%BE%E5%B0%8D%E7%96%91%E6%BC%8F%E9%9B%BB%E5%AD%B8%E7%94%9F%E8%A7%B8%E9%9B%BB%E9%87%802%E6%AD%BB2%E5%82%B7-%E9%99%84%E8%A7%B8%E9%9B%BB%E6%80%A5%E6%95%915%E5%A4%A7%E6%AD%A5%E9%A9%9F",
-    "timestamp": "2026-10-13T03:31:01.851Z",
     "strategy": ".content-card__main"
   }
 ];
