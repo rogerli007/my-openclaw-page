@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T21:30:35.311Z
+// Last updated: 2026-10-13T21:47:06.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜阿仙奴３：０里爾　曼聯作客０：２馬體會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186907474020536320603152.jpeg/I3fT-UT3_D-mALNlW8xTgoQd8Kq7yszP39Y0vd_WNL0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399392/%E6%AD%90%E8%81%AF-%E9%98%BF%E4%BB%99%E5%A5%B4%EF%BC%93-%EF%BC%90%E9%87%8C%E7%88%BE-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%EF%BC%90-%EF%BC%92%E9%A6%AC%E9%AB%94%E6%9C%83",
+    "timestamp": "2026-10-13T21:47:06.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜阿仙奴３：０里爾　曼聯作客０：２馬體會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186766792337395712260145.jpeg/2MpMCf-FS2ONX7TE6MPXBWJ0TUyO6NrR_ciW9f3IlvU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399323/%E6%9B%BE%E6%AF%94%E7%89%B9%E6%B7%B1%E5%9C%B3%E7%81%A3%E9%97%9C%E5%8F%A3%E9%81%BA%E5%A4%B1%E9%BB%91%E8%89%B2%E9%8A%80%E5%8C%85%E9%87%8D%E8%A6%81%E8%AD%89%E4%BB%B6-%E5%85%AC%E9%96%8B%E7%99%BC%E6%96%87%E5%B0%8B%E5%A4%B1%E7%89%A9-%E5%9C%A8%E7%B7%9A%E7%AD%89",
     "timestamp": "2026-10-13T13:33:52.890Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周國豐喪母未現身發佈會　區瑞強心疼摯友：好早就知佢媽媽過咗身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186726418994696192573628.jpeg/3ZevGSvBCmbrZZnBb-fgCBN5JfvCWoh6_MhusMrIbrA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399262/%E5%91%A8%E5%9C%8B%E8%B1%90%E5%96%AA%E6%AF%8D%E6%9C%AA%E7%8F%BE%E8%BA%AB%E7%99%BC%E4%BD%88%E6%9C%83-%E5%8D%80%E7%91%9E%E5%BC%B7%E5%BF%83%E7%96%BC%E6%91%AF%E5%8F%8B-%E5%A5%BD%E6%97%A9%E5%B0%B1%E7%9F%A5%E4%BD%A2%E5%AA%BD%E5%AA%BD%E9%81%8E%E5%92%97%E8%BA%AB",
-    "timestamp": "2026-10-13T13:01:55.020Z",
     "strategy": ".content-card__main"
   }
 ];
