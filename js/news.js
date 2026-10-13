@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T02:14:28.046Z
+// Last updated: 2026-10-13T02:52:32.315Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紙飲管含永久化學物PFAS增患癌風險！謝展寰：釋出量極低無損健康",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186620299865493504168453.png/4Y-WugHdH6HpgeD5UlPK2FyQe5K7pmD484dWzfOHVs0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398948/%E7%B4%99%E9%A3%B2%E7%AE%A1%E5%90%AB%E6%B0%B8%E4%B9%85%E5%8C%96%E5%AD%B8%E7%89%A9pfas%E5%A2%9E%E6%82%A3%E7%99%8C%E9%A2%A8%E9%9A%AA-%E8%AC%9D%E5%B1%95%E5%AF%B0-%E9%87%8B%E5%87%BA%E9%87%8F%E6%A5%B5%E4%BD%8E%E7%84%A1%E6%90%8D%E5%81%A5%E5%BA%B7",
+    "timestamp": "2026-10-13T02:52:32.315Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：或在11月中旬訪問亞洲期間與金正恩會面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186327121643966464352718.jpeg/DsmtYQ_0_VCgPXP5n5zxQiWA-yZ0oW3EAWFFwAFhRcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398720/%E9%99%B3%E6%9B%89%E8%8F%AF%E6%9B%AC%E6%80%A7%E6%84%9F%E5%A4%A7%E9%9C%B2%E8%83%8C%E7%AA%81%E7%99%BC%E6%96%87-%E7%95%9912%E5%AD%97%E7%96%91%E5%98%86%E8%8A%B1%E6%97%A6%E7%88%AD%E4%BD%8D%E7%84%A1%E5%A5%88",
     "timestamp": "2026-10-12T15:52:15.007Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "90後離巢TVB藝人成家立室　新娘金鈪串滿頸敬酒環節金光閃閃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186405653673938944097486.png/1c4BghyhbUnFhMrUQWFeIY-7AfJHs9uihilvvoYpb74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398912/28%E6%AD%B2-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E6%B0%B9%E4%BB%94-%E9%99%B3%E6%88%A9%E6%B5%A9%E6%88%90%E5%AE%B6%E7%AB%8B%E5%AE%A4-%E6%A2%81%E8%A9%A0%E7%A5%88%E9%87%91%E9%88%AA%E4%B8%B2%E6%BB%BF%E9%A0%B8%E5%8B%81%E6%90%B6%E9%8F%A1",
-    "timestamp": "2026-10-12T15:28:27.676Z",
     "strategy": ".content-card__main"
   }
 ];
