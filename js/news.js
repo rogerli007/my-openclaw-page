@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T17:23:34.637Z
+// Last updated: 2026-10-13T17:58:10.805Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張致恒與前度莊韻澄前夫同框唔尷尬　呂成忠幫批命格：大上大落",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186849901263196160093258.png/bLVyEa997LtfIh6KznLxkrSJQL73FsAMYZSj3WGUo90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399373/%E5%BC%B5%E8%87%B4%E6%81%92%E8%88%87%E5%89%8D%E5%BA%A6%E8%8E%8A%E9%9F%BB%E6%BE%84%E5%89%8D%E5%A4%AB%E5%90%8C%E6%A1%86%E5%94%94%E5%B0%B7%E5%B0%AC-%E5%91%82%E6%88%90%E5%BF%A0%E5%B9%AB%E6%89%B9%E5%91%BD%E6%A0%BC-%E5%A4%A7%E4%B8%8A%E5%A4%A7%E8%90%BD",
+    "timestamp": "2026-10-13T17:58:10.805Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄拘《北海道新聞》記者指從事間諜活動　涉刺探庫頁島防衛能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220921/649322143275814912528409.jpeg/EuBpPfHBXye11CoeoQNPUuGOQ03aI6c6GALXDxgC1w8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399293/%E7%8B%97%E8%88%8D%E5%85%BC%E8%81%B7%E8%A2%AB%E5%92%AC%E8%87%B3%E5%B0%BE%E6%8C%87%E8%BF%91%E6%96%B7-%E7%B4%A2%E5%84%9F%E8%A2%AB%E6%8C%87%E6%98%AF%E7%BE%A9%E5%B7%A5-%E5%AE%98%E5%88%A4%E7%8B%97%E8%88%8D%E9%A0%88%E8%B3%A08-9%E8%90%AC",
     "timestamp": "2026-10-13T10:05:31.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英男為善款挑戰「從北京跑回倫敦」　戈壁意外救流浪幼貓跨國收養",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186668911270039552863109.png/6sAzJFGcjk4ynh_SanKRH8Ybt7FxKkvmgL92KoC_dio?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399075/%E8%8B%B1%E7%94%B7%E7%82%BA%E5%96%84%E6%AC%BE%E6%8C%91%E6%88%B0-%E5%BE%9E%E5%8C%97%E4%BA%AC%E8%B7%91%E5%9B%9E%E5%80%AB%E6%95%A6-%E6%88%88%E5%A3%81%E6%84%8F%E5%A4%96%E6%95%91%E6%B5%81%E6%B5%AA%E5%B9%BC%E8%B2%93%E8%B7%A8%E5%9C%8B%E6%94%B6%E9%A4%8A",
-    "timestamp": "2026-10-13T09:40:48.385Z",
     "strategy": ".content-card__main"
   }
 ];
