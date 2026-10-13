@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T02:52:32.315Z
+// Last updated: 2026-10-13T03:31:01.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲律賓小學泡泡派對疑漏電學生觸電釀2死2傷　附觸電急救5大步驟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186633683566596096546029.jpeg/m1oNV7WCW1AakN5pmWeblbPOXxfEC1gvO06ctjtOnLY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60398959/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%B0%8F%E5%AD%B8%E6%B3%A1%E6%B3%A1%E6%B4%BE%E5%B0%8D%E7%96%91%E6%BC%8F%E9%9B%BB%E5%AD%B8%E7%94%9F%E8%A7%B8%E9%9B%BB%E9%87%802%E6%AD%BB2%E5%82%B7-%E9%99%84%E8%A7%B8%E9%9B%BB%E6%80%A5%E6%95%915%E5%A4%A7%E6%AD%A5%E9%A9%9F",
+    "timestamp": "2026-10-13T03:31:01.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紙飲管含永久化學物PFAS增患癌風險！謝展寰：釋出量極低無損健康",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186454531374845952970845.jpeg/SqWZt3QrfZ62DX3_Q5FKGCTzI82-qPxGRVNYnUVTWJ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398879/%E6%9D%8E%E4%BD%B3%E8%8A%AF%E9%A6%96%E6%8B%8Dviutv%E5%8A%87-%E5%A6%99%E8%AB%87%E8%88%87tvb%E5%8F%B0%E9%A2%A8%E5%88%86%E5%88%A5-%E6%9C%89%E5%95%B2%E5%AD%97%E7%9C%BC%E4%BB%A5%E5%89%8D%E5%94%94%E5%BE%97%E3%97%8E%E5%96%8E",
     "timestamp": "2026-10-12T16:01:22.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳曉華曬性感大露背突發文　留12字疑嘆花旦爭位無奈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186327121643966464352718.jpeg/DsmtYQ_0_VCgPXP5n5zxQiWA-yZ0oW3EAWFFwAFhRcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398720/%E9%99%B3%E6%9B%89%E8%8F%AF%E6%9B%AC%E6%80%A7%E6%84%9F%E5%A4%A7%E9%9C%B2%E8%83%8C%E7%AA%81%E7%99%BC%E6%96%87-%E7%95%9912%E5%AD%97%E7%96%91%E5%98%86%E8%8A%B1%E6%97%A6%E7%88%AD%E4%BD%8D%E7%84%A1%E5%A5%88",
-    "timestamp": "2026-10-12T15:52:15.007Z",
     "strategy": ".content-card__main"
   }
 ];
