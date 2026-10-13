@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T08:48:11.487Z
+// Last updated: 2026-10-13T09:09:00.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "證監嚴打IPO造假！　勒令茶百道停牌　搗破兩集團涉3股凍資近50億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231025/793912009631469568412836.jpeg/nqvITCaOdyAkOa_i7mFAh0tTMgqJOaZ34jg5BuI4OQY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60399248/%E8%AD%89%E7%9B%A3%E5%9A%B4%E6%89%93ipo%E9%80%A0%E5%81%87-%E5%8B%92%E4%BB%A4%E8%8C%B6%E7%99%BE%E9%81%93%E5%81%9C%E7%89%8C-%E6%90%97%E7%A0%B4%E5%85%A9%E9%9B%86%E5%9C%98%E6%B6%893%E8%82%A1%E5%87%8D%E8%B3%87%E8%BF%9150%E5%84%84",
+    "timestamp": "2026-10-13T09:09:00.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行李寄艙索償懶人包｜消委會教12招自保　做漏一步隨時無法索償",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186110680642621440496703.jpeg/FmE2OcyEP5i_EqZqNLAdKM7DMV6HQ2dk_k5Luv5OS7o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398961/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B1%E5%86%8D%E8%A5%B2%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4-%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D-%E6%94%94%E6%88%AA%E4%B8%80%E6%9E%9A%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-10-12T21:01:08.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝安德：英空軍基地恐襲未遂案　幾乎肯定由伊朗革命衛隊指使",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106086321375416320367925.jpeg/c7s5-5-fp_Y22WAyYxU_GToAjcD6_P63Tymxkk8psZI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398955/%E8%B2%9D%E5%AE%89%E5%BE%B7-%E8%8B%B1%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0%E6%81%90%E8%A5%B2%E6%9C%AA%E9%81%82%E6%A1%88-%E5%B9%BE%E4%B9%8E%E8%82%AF%E5%AE%9A%E7%94%B1%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E6%8C%87%E4%BD%BF",
-    "timestamp": "2026-10-12T20:23:04.074Z",
     "strategy": ".content-card__main"
   }
 ];
