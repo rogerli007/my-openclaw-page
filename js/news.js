@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T20:56:38.371Z
+// Last updated: 2026-10-13T21:17:41.412Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梵蒂岡：教宗確診肺癌已切除右肺下葉　手術成功未出現併發症",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186888055542255616276891.jpeg/6_6HEBdaF1YIKonALEesNjY-crkWNjCqHy2AQB8tgEA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399387/%E6%A2%B5%E8%92%82%E5%B2%A1-%E6%95%99%E5%AE%97%E7%A2%BA%E8%A8%BA%E8%82%BA%E7%99%8C%E5%B7%B2%E5%88%87%E9%99%A4%E5%8F%B3%E8%82%BA%E4%B8%8B%E8%91%89-%E6%89%8B%E8%A1%93%E6%88%90%E5%8A%9F%E6%9C%AA%E5%87%BA%E7%8F%BE%E4%BD%B5%E7%99%BC%E7%97%87",
+    "timestamp": "2026-10-13T21:17:41.412Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梵蒂岡：教宗確診肺癌已切除右肺下葉　手術成功未出現併發症",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186721126928093184832015.jpeg/rcjxvmnAzLgBpsONPqT2oCfgU_8UFlkIUYxRNlGMUTY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399192/canada-goose%E5%AF%A7%E6%B3%A2%E6%8B%8D%E5%BB%A3%E5%91%8A%E9%81%BA%E7%95%99%E5%A4%A7%E9%87%8F%E5%9E%83%E5%9C%BE-%E9%81%AD%E6%9B%9D%E5%85%89%E6%80%A5%E9%81%93%E6%AD%89%E6%89%BF%E8%AB%BE%E6%B7%A8%E5%B1%B11%E5%B9%B4",
     "timestamp": "2026-10-13T12:31:49.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海洋公園明年50周年　新熊貓館設高空觀察台　保育中心展鯨魚標本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186766141884731392921874.jpeg/vxaLJ9KOKLwY3FYZMhxSz1wuLWuqPB-24MXJnODFyZw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399318/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E6%98%8E%E5%B9%B450%E5%91%A8%E5%B9%B4-%E6%96%B0%E7%86%8A%E8%B2%93%E9%A4%A8%E8%A8%AD%E9%AB%98%E7%A9%BA%E8%A7%80%E5%AF%9F%E5%8F%B0-%E4%BF%9D%E8%82%B2%E4%B8%AD%E5%BF%83%E5%B1%95%E9%AF%A8%E9%AD%9A%E6%A8%99%E6%9C%AC",
-    "timestamp": "2026-10-13T11:59:34.515Z",
     "strategy": ".content-card__main"
   }
 ];
