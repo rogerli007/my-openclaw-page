@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T14:51:34.215Z
+// Last updated: 2026-10-13T15:22:38.972Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Getty Images擬破產私有化　Getty家族與Koch接手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186815307356835840370296.jpeg/9EY57hTj2f1Y70zGzd9HFkt_bcAxUFrOdxHshXcR7IU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399367/getty-images%E6%93%AC%E7%A0%B4%E7%94%A2%E7%A7%81%E6%9C%89%E5%8C%96-getty%E5%AE%B6%E6%97%8F%E8%88%87koch%E6%8E%A5%E6%89%8B",
+    "timestamp": "2026-10-13T15:22:38.972Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港海關港珠澳搜出境貨車　檢$1800萬走私藥劑製品拘控內地司機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186684154620678144142379.jpeg/p5QwZzprLC4cxBft3vRMLDhQlwXhzr22_CDe5_wg3uc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399045/%E7%B6%AD%E7%8F%8D%E9%8A%80%E6%B2%B3%E5%A4%AA%E7%A9%BA%E6%97%85%E8%A1%8C%E8%88%B9%E7%A5%A8%E4%B8%8A%E6%9E%B6-%E5%96%AE%E4%BA%BA510%E8%90%AC%E5%BD%B1%E8%A6%96%E9%A2%B6%E9%A2%A8tim%E5%B7%B2%E6%90%B6%E8%B3%BC",
     "timestamp": "2026-10-13T07:14:29.614Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石崗軍營旁地皮申建22幢洋房　較舊方案多10幢　總樓面增7成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186685544990511104514869.png/aJv4LABvzr6KDqFN46YEF-EX_y4a2tPcGqhzgBqoc4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60399139/%E7%9F%B3%E5%B4%97%E8%BB%8D%E7%87%9F%E6%97%81%E5%9C%B0%E7%9A%AE%E7%94%B3%E5%BB%BA22%E5%B9%A2%E6%B4%8B%E6%88%BF-%E8%BC%83%E8%88%8A%E6%96%B9%E6%A1%88%E5%A4%9A10%E5%B9%A2-%E7%B8%BD%E6%A8%93%E9%9D%A2%E5%A2%9E7%E6%88%90",
-    "timestamp": "2026-10-13T06:39:38.708Z",
     "strategy": ".content-card__main"
   }
 ];
