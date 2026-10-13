@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T10:27:05.809Z
+// Last updated: 2026-10-13T10:51:56.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘭香如故結局｜譚松韻臨終不戴劉學義紅繩惹議　握血書香囊藏真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186695310689177600178456.png/IY2U4IscZoO2-0AvQd53ItmJmXr8ju8eWeDch1ng3Ic?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399141/%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85%E7%B5%90%E5%B1%80-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E8%87%A8%E7%B5%82%E4%B8%8D%E6%88%B4%E5%8A%89%E5%AD%B8%E7%BE%A9%E7%B4%85%E7%B9%A9%E6%83%B9%E8%AD%B0-%E6%8F%A1%E8%A1%80%E6%9B%B8%E9%A6%99%E5%9B%8A%E8%97%8F%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-10-13T10:51:56.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SIERRA SEA第2C(2)期暫收逾13000票　超購逾90倍　夥中銀推按揭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186505190757371904305692.png/rn-76d46KbFMnGQRcjVMjJrLqx0w1uoEbVFYD21RWA8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397269/%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%B0%A3%E6%A8%B9%E7%86%8A%E7%93%A6%E7%89%B9%E7%88%BE%E9%9B%A2%E4%B8%96-%E6%80%A7%E6%83%85%E6%BA%AB%E5%92%8C%E8%BF%B7%E5%80%92%E7%B2%89%E6%B5%B7%E5%A4%96-%E6%AF%8D%E8%A6%AA%E5%8E%BB%E5%B9%B4%E5%90%8C%E7%96%BE%E7%97%85%E4%BA%A1",
     "timestamp": "2026-10-12T23:20:04.271Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "影帝被爆鏡頭前後兩個人　執導女角從不著重樣子身材：佢尊重女性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186385199273873408029436.png/eWfSyN7IWJrGcWI8Z6uNuiOHq0WlOXB_PDz59jw8-fY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398847/%E5%91%A8%E6%98%9F%E9%A6%B3%E8%A2%AB%E7%88%86%E9%8F%A1%E9%A0%AD%E5%89%8D%E5%BE%8C%E5%85%A9%E5%80%8B%E4%BA%BA-%E5%9F%B7%E5%B0%8E%E5%A5%B3%E8%A7%92%E4%B8%8D%E8%91%97%E9%87%8D%E6%A8%A3%E5%AD%90%E8%BA%AB%E6%9D%90-%E4%BD%A2%E5%B0%8A%E9%87%8D%E5%A5%B3%E6%80%A7",
-    "timestamp": "2026-10-12T22:46:14.813Z",
     "strategy": ".content-card__main"
   }
 ];
