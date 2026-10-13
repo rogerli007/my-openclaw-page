@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T03:31:01.851Z
+// Last updated: 2026-10-13T03:58:39.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "袁澧林性騷擾｜圈中多次發生「鹹豬手」仲有黑名單　視后亦曾中招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186645083278020608184653.jpeg/GJf2mVzcsidc6HqmYDkDPxyngBDVgaIH2LPSRNiz0kQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399044/%E8%A2%81%E6%BE%A7%E6%9E%97%E6%80%A7%E9%A8%B7%E6%93%BE-%E5%9C%88%E4%B8%AD%E5%A4%9A%E6%AC%A1%E7%99%BC%E7%94%9F-%E9%B9%B9%E8%B1%AC%E6%89%8B-%E4%BB%B2%E6%9C%89%E9%BB%91%E5%90%8D%E5%96%AE-%E8%A6%96%E5%90%8E%E4%BA%A6%E6%9B%BE%E4%B8%AD%E6%8B%9B",
+    "timestamp": "2026-10-13T03:58:39.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲律賓小學泡泡派對疑漏電學生觸電釀2死2傷　附觸電急救5大步驟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186481813258768384067431.jpeg/pZFrm6coO-KDehdKuUXuoX665uqRQqXtk-qT5pPqk-Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398952/%E7%8E%8B%E6%AF%85-%E9%A1%98%E8%88%87%E4%BF%84%E7%B6%AD%E8%AD%B7%E5%BD%BC%E6%AD%A4%E6%AD%A3%E7%95%B6%E6%B5%B7%E6%B4%8B%E6%AC%8A%E7%9B%8A-%E7%B6%AD%E8%AD%B7%E5%85%A8%E7%90%83%E9%97%9C%E9%8D%B5%E8%88%AA%E9%81%93%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%A1%8C",
     "timestamp": "2026-10-12T17:20:56.780Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李佳芯首拍ViuTV劇　妙談與TVB台風分別：有啲字眼以前唔得㗎喎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186454531374845952970845.jpeg/SqWZt3QrfZ62DX3_Q5FKGCTzI82-qPxGRVNYnUVTWJ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398879/%E6%9D%8E%E4%BD%B3%E8%8A%AF%E9%A6%96%E6%8B%8Dviutv%E5%8A%87-%E5%A6%99%E8%AB%87%E8%88%87tvb%E5%8F%B0%E9%A2%A8%E5%88%86%E5%88%A5-%E6%9C%89%E5%95%B2%E5%AD%97%E7%9C%BC%E4%BB%A5%E5%89%8D%E5%94%94%E5%BE%97%E3%97%8E%E5%96%8E",
-    "timestamp": "2026-10-12T16:01:22.260Z",
     "strategy": ".content-card__main"
   }
 ];
