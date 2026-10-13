@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T03:58:39.981Z
+// Last updated: 2026-10-13T04:55:51.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網球︱鄭欽文火鳳重生　時隔2年再奪冠：最低潮時每個人都質疑我",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186635029212565504912036.jpeg/a4ojBzI4pZ3eiibB85HeHvr-erl5GdVcXYClk12ApZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399037/%E7%B6%B2%E7%90%83-%E9%84%AD%E6%AC%BD%E6%96%87%E7%81%AB%E9%B3%B3%E9%87%8D%E7%94%9F-%E6%99%82%E9%9A%942%E5%B9%B4%E5%86%8D%E5%A5%AA%E5%86%A0-%E6%9C%80%E4%BD%8E%E6%BD%AE%E6%99%82%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E8%B3%AA%E7%96%91%E6%88%91",
+    "timestamp": "2026-10-13T04:55:51.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "袁澧林性騷擾｜圈中多次發生「鹹豬手」仲有黑名單　視后亦曾中招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186481813258768384067431.jpeg/pZFrm6coO-KDehdKuUXuoX665uqRQqXtk-qT5pPqk-Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398952/%E7%8E%8B%E6%AF%85-%E9%A1%98%E8%88%87%E4%BF%84%E7%B6%AD%E8%AD%B7%E5%BD%BC%E6%AD%A4%E6%AD%A3%E7%95%B6%E6%B5%B7%E6%B4%8B%E6%AC%8A%E7%9B%8A-%E7%B6%AD%E8%AD%B7%E5%85%A8%E7%90%83%E9%97%9C%E9%8D%B5%E8%88%AA%E9%81%93%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%A1%8C",
     "timestamp": "2026-10-12T17:57:57.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅：願與俄維護彼此正當海洋權益　維護全球關鍵航道正常通行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186481813258768384067431.jpeg/pZFrm6coO-KDehdKuUXuoX665uqRQqXtk-qT5pPqk-Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60398952/%E7%8E%8B%E6%AF%85-%E9%A1%98%E8%88%87%E4%BF%84%E7%B6%AD%E8%AD%B7%E5%BD%BC%E6%AD%A4%E6%AD%A3%E7%95%B6%E6%B5%B7%E6%B4%8B%E6%AC%8A%E7%9B%8A-%E7%B6%AD%E8%AD%B7%E5%85%A8%E7%90%83%E9%97%9C%E9%8D%B5%E8%88%AA%E9%81%93%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%A1%8C",
-    "timestamp": "2026-10-12T17:20:56.780Z",
     "strategy": ".content-card__main"
   }
 ];
