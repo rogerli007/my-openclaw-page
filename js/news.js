@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T05:20:32.969Z
+// Last updated: 2026-10-14T05:46:00.730Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關破跨境轉運$760萬冒牌錶　全球50隻RICHARD MILLE僅賣$26萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187024444082622464694031.jpeg/fMiC9ymvpd8ATL-FTucmJSecwYnN9f3AYRi0VGEYtFQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399450/%E6%B5%B7%E9%97%9C%E7%A0%B4%E8%B7%A8%E5%A2%83%E8%BD%89%E9%81%8B-760%E8%90%AC%E5%86%92%E7%89%8C%E9%8C%B6-%E5%85%A8%E7%90%8350%E9%9A%BBrichard-mille%E5%83%85%E8%B3%A3-26%E8%90%AC",
+    "timestamp": "2026-10-14T05:46:00.730Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本結帳禁忌｜ 港人直接遞錢失禮？專家揭收銀員為何不直接收錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186877386373730304426819.jpeg/gsQhREqp-7V0wOwg1b3myWoStHAn1SspZPIvkF7yL5A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399382/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%8A%E7%92%B0%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7%E8%BC%89%E6%B5%AE%E8%BC%89%E6%B2%89-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-10-13T19:31:42.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：胡塞武裝受伊朗指使襲擊沙特　故意在中期選舉前推高油價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186826112139792384783201.jpeg/aQww3SLEaj02f9_kjSf9ZX4yl53qzeme27hfgdu4X4E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399381/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%8F%97%E4%BC%8A%E6%9C%97%E6%8C%87%E4%BD%BF%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E6%95%85%E6%84%8F%E5%9C%A8%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%89%8D%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9",
-    "timestamp": "2026-10-13T19:18:21.073Z",
     "strategy": ".content-card__main"
   }
 ];
