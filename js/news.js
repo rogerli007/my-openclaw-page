@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T07:47:58.386Z
+// Last updated: 2026-10-14T07:58:37.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大阪道頓堀地標第六代固力果廣告牌11月30日退役　明春換第七代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187067828461637632236750.jpeg/ygfErZM0trdmoCUjQatjXgUTUA6pOiaacCixAXAosQE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399621/%E5%A4%A7%E9%98%AA%E9%81%93%E9%A0%93%E5%A0%80%E5%9C%B0%E6%A8%99%E7%AC%AC%E5%85%AD%E4%BB%A3%E5%9B%BA%E5%8A%9B%E6%9E%9C%E5%BB%A3%E5%91%8A%E7%89%8C11%E6%9C%8830%E6%97%A5%E9%80%80%E5%BD%B9-%E6%98%8E%E6%98%A5%E6%8F%9B%E7%AC%AC%E4%B8%83%E4%BB%A3",
+    "timestamp": "2026-10-14T07:58:37.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗將認真考慮農相簗和生是否勝任工作：其發言若屬實確不妥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186907474020536320603152.jpeg/I3fT-UT3_D-mALNlW8xTgoQd8Kq7yszP39Y0vd_WNL0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399392/%E6%AD%90%E8%81%AF-%E9%98%BF%E4%BB%99%E5%A5%B4%EF%BC%93-%EF%BC%90%E9%87%8C%E7%88%BE-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%EF%BC%90-%EF%BC%92%E9%A6%AC%E9%AB%94%E6%9C%83",
     "timestamp": "2026-10-13T21:47:06.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜阿仙奴３：０里爾　曼聯作客０：２馬體會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186907474020536320603152.jpeg/I3fT-UT3_D-mALNlW8xTgoQd8Kq7yszP39Y0vd_WNL0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399392/%E6%AD%90%E8%81%AF-%E9%98%BF%E4%BB%99%E5%A5%B4%EF%BC%93-%EF%BC%90%E9%87%8C%E7%88%BE-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%EF%BC%90-%EF%BC%92%E9%A6%AC%E9%AB%94%E6%9C%83",
-    "timestamp": "2026-10-13T21:30:35.311Z",
     "strategy": ".content-card__main"
   }
 ];
