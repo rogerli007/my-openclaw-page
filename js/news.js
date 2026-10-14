@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T19:54:26.918Z
+// Last updated: 2026-10-14T20:20:09.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基稱被特朗普出賣　遭俄導彈襲擊盟友未預警　星鏈突被限速",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187238291817107456642318.jpeg/FmoE_qHPGfj7ZUmjMPwsqBWVxbEvXDnupHm6YKR5umA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399790/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E8%B3%A3-%E9%81%AD%E4%BF%84%E5%B0%8E%E5%BD%88%E8%A5%B2%E6%93%8A%E7%9B%9F%E5%8F%8B%E6%9C%AA%E9%A0%90%E8%AD%A6-%E6%98%9F%E9%8F%88%E7%AA%81%E8%A2%AB%E9%99%90%E9%80%9F",
+    "timestamp": "2026-10-14T20:20:09.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣3口罩賊入屋偷走2夾萬　內有逾$80萬財物　包括勞力士名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186885959497551872521798.jpeg/dmKPHUIAXr4YTwEpBYBKqkqD74tk3A0pnN0B65zdAes?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399386/mirror%E6%88%90%E5%93%A1%E5%8F%88%E7%88%86%E5%85%A7%E8%A8%8C-edan%E7%AC%91%E5%A7%9C%E6%BF%A4%E8%BB%9F%E7%86%9F%E5%8F%8D%E8%A2%AB%E5%95%8F-%E4%BD%A0%E6%9C%89%E5%86%87%E8%AB%97%E9%81%8E%E6%88%91%E6%84%9F%E5%8F%97",
     "timestamp": "2026-10-14T12:33:38.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李秀滿推新女團A2O LITE獲少時Sunny加持　成員神似Jessica、BoA",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187058176902565888849305.jpeg/8fFj5S1EOgLg3rH4oIeGwc3XQ-PcGDFKOYIbAzmCGwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60399562/%E6%9D%8E%E7%A7%80%E6%BB%BF%E6%8E%A8%E6%96%B0%E5%A5%B3%E5%9C%98a2o-lite%E7%8D%B2%E5%B0%91%E6%99%82sunny%E5%8A%A0%E6%8C%81-%E6%88%90%E5%93%A1%E7%A5%9E%E4%BC%BCjessica-boa",
-    "timestamp": "2026-10-14T11:35:51.059Z",
     "strategy": ".content-card__main"
   }
 ];
