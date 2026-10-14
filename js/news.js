@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T16:47:09.901Z
+// Last updated: 2026-10-14T16:58:15.006Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粵艇南下｜即日開始接受申請　最早到港前30日可辦跨境手續",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185586569810022400485970.jpeg/xfnTaTFz_eE_Z01mh2W8rLBgMqPoZtilMyX_XjMl_14?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399782/%E7%B2%B5%E8%89%87%E5%8D%97%E4%B8%8B-%E5%8D%B3%E6%97%A5%E9%96%8B%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AB%8B-%E6%9C%80%E6%97%A9%E5%88%B0%E6%B8%AF%E5%89%8D30%E6%97%A5%E5%8F%AF%E8%BE%A6%E8%B7%A8%E5%A2%83%E6%89%8B%E7%BA%8C",
+    "timestamp": "2026-10-14T16:58:15.006Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大圍MMA．有片｜2男擸凳圍毆　赤膊男空手不敵　網民：搏擊之城",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187067828461637632236750.jpeg/ygfErZM0trdmoCUjQatjXgUTUA6pOiaacCixAXAosQE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399621/%E5%A4%A7%E9%98%AA%E9%81%93%E9%A0%93%E5%A0%80%E5%9C%B0%E6%A8%99%E7%AC%AC%E5%85%AD%E4%BB%A3%E5%9B%BA%E5%8A%9B%E6%9E%9C%E5%BB%A3%E5%91%8A%E7%89%8C11%E6%9C%8830%E6%97%A5%E9%80%80%E5%BD%B9-%E6%98%8E%E6%98%A5%E6%8F%9B%E7%AC%AC%E4%B8%83%E4%BB%A3",
     "timestamp": "2026-10-14T07:58:37.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗將認真考慮農相簗和生是否勝任工作：其發言若屬實確不妥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176985408995594240074356.jpeg/sAXYyIQiQtSHzwT0ZY8_lzjDi9DetIWExkOKZsZDimY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399614/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%87%E8%AA%8D%E7%9C%9F%E8%80%83%E6%85%AE%E8%BE%B2%E7%9B%B8%E7%B0%97%E5%92%8C%E7%94%9F%E6%98%AF%E5%90%A6%E5%8B%9D%E4%BB%BB%E5%B7%A5%E4%BD%9C-%E5%85%B6%E7%99%BC%E8%A8%80%E8%8B%A5%E5%B1%AC%E5%AF%A6%E7%A2%BA%E4%B8%8D%E5%A6%A5",
-    "timestamp": "2026-10-14T07:47:58.386Z",
     "strategy": ".content-card__main"
   }
 ];
