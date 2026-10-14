@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T23:41:17.517Z
+// Last updated: 2026-10-14T23:54:22.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜陳曉華淪為張智霖卑微情婦絕望自殺　網民不滿太早死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187228156734476288892734.jpeg/5UO5ngUpi2Y5esHVLbPi_6mop8WTujIYjLDZRYyw2UU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399789/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E6%9B%89%E8%8F%AF%E6%B7%AA%E7%82%BA%E5%BC%B5%E6%99%BA%E9%9C%96%E5%8D%91%E5%BE%AE%E6%83%85%E5%A9%A6%E7%B5%95%E6%9C%9B%E8%87%AA%E6%AE%BA-%E7%B6%B2%E6%B0%91%E4%B8%8D%E6%BB%BF%E5%A4%AA%E6%97%A9%E6%AD%BB",
+    "timestamp": "2026-10-14T23:54:22.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "也門內戰糾纏美伊談判：伊朗、胡塞、美國、沙特誰想一戰？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185586569810022400485970.jpeg/xfnTaTFz_eE_Z01mh2W8rLBgMqPoZtilMyX_XjMl_14?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399782/%E7%B2%B5%E8%89%87%E5%8D%97%E4%B8%8B-%E5%8D%B3%E6%97%A5%E9%96%8B%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AB%8B-%E6%9C%80%E6%97%A9%E5%88%B0%E6%B8%AF%E5%89%8D30%E6%97%A5%E5%8F%AF%E8%BE%A6%E8%B7%A8%E5%A2%83%E6%89%8B%E7%BA%8C",
     "timestamp": "2026-10-14T16:58:15.006Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大圍MMA．有片｜2男擸凳圍毆　赤膊男空手不敵　網民：搏擊之城",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187192466235723776315749.jpeg/WMW2haeQGrAmWwxAuOsBQ0_IkQsPhGk755_31eef99U",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399776/%E5%A4%A7%E5%9C%8Dmma-%E6%9C%89%E7%89%87-2%E7%94%B7%E6%93%B8%E5%87%B3%E5%9C%8D%E6%AF%86-%E8%B5%A4%E8%86%8A%E7%94%B7%E7%A9%BA%E6%89%8B%E4%B8%8D%E6%95%B5-%E7%B6%B2%E6%B0%91-%E6%90%8F%E6%93%8A%E4%B9%8B%E5%9F%8E",
-    "timestamp": "2026-10-14T16:47:09.901Z",
     "strategy": ".content-card__main"
   }
 ];
