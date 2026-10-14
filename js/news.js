@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T10:21:14.837Z
+// Last updated: 2026-10-14T10:45:14.774Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣工廈迷你倉淪毒品倉　警拘28歲男檢$110萬大麻花",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187096620341137408791830.jpeg/0B_D4Y0Vs-aZU98IF-zau7QHfdRT-K0ONB7lYDQe5WA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399698/%E8%8D%83%E7%81%A3%E5%B7%A5%E5%BB%88%E8%BF%B7%E4%BD%A0%E5%80%89%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%8B%9828%E6%AD%B2%E7%94%B7%E6%AA%A2-110%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1",
+    "timestamp": "2026-10-14T10:45:14.774Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何君堯大熱做港大校董：如成事必全力以赴　校董會多有能者不擔心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185317688705028096183450.jpeg/XKZc2q2od6niBspFYa8IfAHGeresbqY4CBmHcwgZh3M?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60397690/%E6%B2%89%E9%A6%99%E6%8A%95%E8%B3%87%E7%96%91%E7%82%BA%E9%A8%99%E5%B1%80-%E5%94%AE%E5%A0%B4%E5%A4%96%E8%82%A1%E7%A5%A8-%E6%95%B8%E5%AD%97%E8%B3%87%E7%94%A2-%E8%AA%8D%E8%B3%BC%E6%A8%B9%E6%9C%A8-%E8%AD%A6%E6%8B%984%E4%BA%BA",
     "timestamp": "2026-10-13T23:41:26.474Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鍾培生莊雅婷酒店外箍頸摸背脊貼身攬攬　搭的士離去禮讓老婆上車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186778893160288256149678.jpeg/fcMIlIKbahYUDylqkIK2oGLAOEGm3fUxYY8ztWGPM7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399250/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%8E%8A%E9%9B%85%E5%A9%B7%E9%85%92%E5%BA%97%E5%A4%96%E7%AE%8D%E9%A0%B8%E6%91%B8%E8%83%8C%E8%84%8A%E8%B2%BC%E8%BA%AB%E6%94%AC%E6%94%AC-%E6%90%AD%E7%9A%84%E5%A3%AB%E9%9B%A2%E5%8E%BB%E7%A6%AE%E8%AE%93%E8%80%81%E5%A9%86%E4%B8%8A%E8%BB%8A",
-    "timestamp": "2026-10-13T23:17:21.951Z",
     "strategy": ".content-card__main"
   }
 ];
