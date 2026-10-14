@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T22:20:14.836Z
+// Last updated: 2026-10-14T22:31:46.949Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌2村屋遭連環爆竊　2男共損失$42萬財物　包括勞力士錶和現金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187281204890570752254763.jpeg/HQHrNFPqgTXdgy_uBw6ILVcrqAU8nxGJ4TSwcNs0sHA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399803/%E6%9D%B1%E6%B6%8C2%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-2%E7%94%B7%E5%85%B1%E6%90%8D%E5%A4%B1-42%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E9%8C%B6%E5%92%8C%E7%8F%BE%E9%87%91",
+    "timestamp": "2026-10-14T22:31:46.949Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌2村屋遭連環爆竊　2男共損失$42萬財物　包括勞力士錶和現金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187075843885633536124639.png/YUXcMaSxnPPHt9egDJ_vk85XXh3e2iIX4aAjjuGgI44?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399625/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E5%9B%9E%E6%B5%81%E8%8B%B1%E5%9C%8B%E5%B1%A2%E8%A2%AB%E5%81%B7%E6%8B%8D-%E4%BF%9D%E5%AE%89%E7%B4%9A%E5%88%A5%E7%8D%B2%E9%87%8D%E6%96%B0%E8%A9%95%E4%BC%B0-%E6%B0%91%E8%AA%BF63-%E4%BF%83%E8%87%AA%E8%B2%BB",
     "timestamp": "2026-10-14T14:59:30.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「世紀同框」合體400歲　姚瑩瑩相約五大老戲骨飲茶掀回憶殺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187108378300649472274619.jpeg/KHYGr8rmbLgDUH0nIyrptdlA0gWxc3eLYb4hvFe-Ibw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399687/%E4%B8%96%E7%B4%80%E5%90%8C%E6%A1%86-%E5%90%88%E9%AB%94400%E6%AD%B2-%E5%A7%9A%E7%91%A9%E7%91%A9%E7%9B%B8%E7%B4%84%E4%BA%94%E5%A4%A7%E8%80%81%E6%88%B2%E9%AA%A8%E9%A3%B2%E8%8C%B6%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA",
-    "timestamp": "2026-10-14T14:45:08.026Z",
     "strategy": ".content-card__main"
   }
 ];
