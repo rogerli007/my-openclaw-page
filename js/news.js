@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T13:47:06.235Z
+// Last updated: 2026-10-14T13:57:21.211Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Doctor X｜金智媛挑戰米倉涼子！日韓「神醫女主角」氣場大比拼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187057925286268928135786.png/pPJ2flRLrjuQz5i7MRojriL6IOcaBUYi7soZl-7KGZc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399547/doctor-x-%E9%87%91%E6%99%BA%E5%AA%9B%E6%8C%91%E6%88%B0%E7%B1%B3%E5%80%89%E6%B6%BC%E5%AD%90-%E6%97%A5%E9%9F%93-%E7%A5%9E%E9%86%AB%E5%A5%B3%E4%B8%BB%E8%A7%92-%E6%B0%A3%E5%A0%B4%E5%A4%A7%E6%AF%94%E6%8B%BC",
+    "timestamp": "2026-10-14T13:57:21.211Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重陽節｜天文台料周四初時離岸高地吹強風　周日拜山乾燥慎防山火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187023854673858560856740.jpeg/Xy2zTBZEllZSyG2oig1lgdF8OIGxJ3TQoSL-9aEi_vU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60399194/%E9%95%B7%E8%80%85%E5%85%8D%E8%B2%BB%E9%98%B2%E8%B7%8C%E7%8F%AD3%E6%8E%A8%E4%BB%8B-%E5%AD%B8%E6%9F%94%E9%81%93%E5%AE%89%E5%85%A8%E8%91%97%E5%9C%B0%E9%98%B2%E8%B7%8C%E5%80%92-%E9%80%81-400%E8%B6%85%E5%B8%82%E7%8F%BE%E9%87%91%E5%88%B8",
     "timestamp": "2026-10-14T04:58:54.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜譚方駿發現蔡失聯後曾上加多利山　並在單位遇見鄺港智",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187011106795687936791540.jpeg/3SgluN2VyRsLmxxWv-crZw6kkyJFgp9xeaLfKVyi3yk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399497/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%AD%9A%E6%96%B9%E9%A7%BF%E7%99%BC%E7%8F%BE%E8%94%A1%E5%A4%B1%E8%81%AF%E5%BE%8C%E6%9B%BE%E4%B8%8A%E5%8A%A0%E5%A4%9A%E5%88%A9%E5%B1%B1-%E4%B8%A6%E5%9C%A8%E5%96%AE%E4%BD%8D%E9%81%87%E8%A6%8B%E9%84%BA%E6%B8%AF%E6%99%BA",
-    "timestamp": "2026-10-14T04:24:40.825Z",
     "strategy": ".content-card__main"
   }
 ];
