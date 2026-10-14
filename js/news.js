@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-13T23:54:39.170Z
+// Last updated: 2026-10-14T01:15:13.031Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女子買牛肉丸被誤會逃單　店主公開CCTV遭反擊　要求置頂道歉15天",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186726830523027456569301.png/lR-iJsPlrZGfZkYwcADvQcy4bo8lA_323CtaV9wrWlc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398877/%E5%A5%B3%E5%AD%90%E8%B2%B7%E7%89%9B%E8%82%89%E4%B8%B8%E8%A2%AB%E8%AA%A4%E6%9C%83%E9%80%83%E5%96%AE-%E5%BA%97%E4%B8%BB%E5%85%AC%E9%96%8Bcctv%E9%81%AD%E5%8F%8D%E6%93%8A-%E8%A6%81%E6%B1%82%E7%BD%AE%E9%A0%82%E9%81%93%E6%AD%8915%E5%A4%A9",
+    "timestamp": "2026-10-14T01:15:13.031Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沉香投資疑為騙局　售場外股票、數字資產、認購樹木　警拘4人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186837705594507264874203.jpeg/7AHugWP5JE21dSf0Lgb-0l0opqM1vA4jnBUb25wVG9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399376/%E4%BF%84%E6%8B%98-%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E8%81%9E-%E8%A8%98%E8%80%85%E6%8C%87%E5%BE%9E%E4%BA%8B%E9%96%93%E8%AB%9C%E6%B4%BB%E5%8B%95-%E6%B6%89%E5%88%BA%E6%8E%A2%E5%BA%AB%E9%A0%81%E5%B3%B6%E9%98%B2%E8%A1%9B%E8%83%BD%E5%8A%9B",
     "timestamp": "2026-10-13T16:49:47.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華為夥HKIIT累計培訓80鴻蒙種子導師　教授2000人最新技術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185234964766003200054863.jpeg/Yi_QnTf848oJVqoeBnoCRAADtWezyOd_zo0ypc6NMqU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60397618/%E8%8F%AF%E7%82%BA%E5%A4%A5hkiit%E7%B4%AF%E8%A8%88%E5%9F%B9%E8%A8%9380%E9%B4%BB%E8%92%99%E7%A8%AE%E5%AD%90%E5%B0%8E%E5%B8%AB-%E6%95%99%E6%8E%882000%E4%BA%BA%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93",
-    "timestamp": "2026-10-13T16:27:01.902Z",
     "strategy": ".content-card__main"
   }
 ];
