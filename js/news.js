@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T14:20:32.641Z
+// Last updated: 2026-10-14T14:45:08.026Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「世紀同框」合體400歲　姚瑩瑩相約五大老戲骨飲茶掀回憶殺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187108378300649472274619.jpeg/KHYGr8rmbLgDUH0nIyrptdlA0gWxc3eLYb4hvFe-Ibw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399687/%E4%B8%96%E7%B4%80%E5%90%8C%E6%A1%86-%E5%90%88%E9%AB%94400%E6%AD%B2-%E5%A7%9A%E7%91%A9%E7%91%A9%E7%9B%B8%E7%B4%84%E4%BA%94%E5%A4%A7%E8%80%81%E6%88%B2%E9%AA%A8%E9%A3%B2%E8%8C%B6%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA",
+    "timestamp": "2026-10-14T14:45:08.026Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復仇者聯盟5｜謝洛美維納證實「鷹眼」缺席　幽默調侃：無我必輸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187024444082622464694031.jpeg/fMiC9ymvpd8ATL-FTucmJSecwYnN9f3AYRi0VGEYtFQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399450/%E6%B5%B7%E9%97%9C%E7%A0%B4%E8%B7%A8%E5%A2%83%E8%BD%89%E9%81%8B-760%E8%90%AC%E5%86%92%E7%89%8C%E9%8C%B6-%E5%85%A8%E7%90%8350%E9%9A%BBrichard-mille%E5%83%85%E8%B3%A3-26%E8%90%AC",
     "timestamp": "2026-10-14T05:46:00.730Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本結帳禁忌｜ 港人直接遞錢失禮？專家揭收銀員為何不直接收錢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187001053430681600358107.jpeg/JuC2k7k0ForIPhQ3FbQ8dpIp2Y1v7gO-K33Ktyt9yrc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60399463/%E6%97%A5%E6%9C%AC%E7%B5%90%E5%B8%B3%E7%A6%81%E5%BF%8C-%E6%B8%AF%E4%BA%BA%E7%9B%B4%E6%8E%A5%E9%81%9E%E9%8C%A2%E5%A4%B1%E7%A6%AE-%E5%B0%88%E5%AE%B6%E6%8F%AD%E6%94%B6%E9%8A%80%E5%93%A1%E7%82%BA%E4%BD%95%E4%B8%8D%E7%9B%B4%E6%8E%A5%E6%94%B6%E9%8C%A2",
-    "timestamp": "2026-10-14T05:20:32.969Z",
     "strategy": ".content-card__main"
   }
 ];
