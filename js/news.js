@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T15:47:48.096Z
+// Last updated: 2026-10-14T16:22:02.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜兩分判商稱開「生口」屬慣常做法　受宏業指示發泡膠封窗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251205/1073725928644808704684123.jpeg/vFhZpbhGo09UOQVZ_rCdf5yucKUEtpwAtaNy5pyjcuY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399774/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%85%A9%E5%88%86%E5%88%A4%E5%95%86%E7%A8%B1%E9%96%8B-%E7%94%9F%E5%8F%A3-%E5%B1%AC%E6%85%A3%E5%B8%B8%E5%81%9A%E6%B3%95-%E5%8F%97%E5%AE%8F%E6%A5%AD%E6%8C%87%E7%A4%BA%E7%99%BC%E6%B3%A1%E8%86%A0%E5%B0%81%E7%AA%97",
+    "timestamp": "2026-10-14T16:22:02.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：中期選舉對在任總統不利　參眾兩院控制權同樣難守",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187032719402471424139625.jpeg/7K3_4Zd8cp3GzkL2bMio68KYM2gd8B9VZieN6GYnjeg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60399459/%E4%BF%9D%E8%89%AF%E4%B8%80%E4%B8%AD%E7%AE%A1%E6%A8%82%E5%9C%98%E5%A5%8F-%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC-%E7%94%B7%E5%90%8C%E5%AD%B8%E6%88%B4%E8%B2%93%E8%80%B3%E5%8F%8D%E4%B8%B2%E4%BC%B4%E8%88%9E%E5%90%B8%E8%BF%91%E8%90%AC%E8%AE%9A",
     "timestamp": "2026-10-14T07:26:04.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "逆按揭被指搵笨？安老按揭隱藏好處點只拎年金有屋住+3類長者適合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187054159958904832760149.png/P1s8mhNcOgU_Qsf5QDCORsraA0pCsERMscUNMbHFDTE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/60380786/%E9%80%86%E6%8C%89%E6%8F%AD%E8%A2%AB%E6%8C%87%E6%90%B5%E7%AC%A8-%E5%AE%89%E8%80%81%E6%8C%89%E6%8F%AD%E9%9A%B1%E8%97%8F%E5%A5%BD%E8%99%95%E9%BB%9E%E5%8F%AA%E6%8B%8E%E5%B9%B4%E9%87%91%E6%9C%89%E5%B1%8B%E4%BD%8F-3%E9%A1%9E%E9%95%B7%E8%80%85%E9%81%A9%E5%90%88",
-    "timestamp": "2026-10-14T07:00:01.377Z",
     "strategy": ".content-card__main"
   }
 ];
