@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T23:30:44.059Z
+// Last updated: 2026-10-14T23:41:17.517Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "也門內戰糾纏美伊談判：伊朗、胡塞、美國、沙特誰想一戰？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251119/1067642334461825024386104.jpeg/M-6-aU3uYl11wTaU41iXgMBM7BYnUC37WBXtrlgV7a4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60399788/%E4%B9%9F%E9%96%80%E5%85%A7%E6%88%B0%E7%B3%BE%E7%BA%8F%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97-%E8%83%A1%E5%A1%9E-%E7%BE%8E%E5%9C%8B-%E6%B2%99%E7%89%B9%E8%AA%B0%E6%83%B3%E4%B8%80%E6%88%B0",
+    "timestamp": "2026-10-14T23:41:17.517Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "調查揭逾9成7歲以上學童有脊骨問題　寒背、烏龜頸長用屏幕成元兇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187192466235723776315749.jpeg/WMW2haeQGrAmWwxAuOsBQ0_IkQsPhGk755_31eef99U",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399776/%E5%A4%A7%E5%9C%8Dmma-%E6%9C%89%E7%89%87-2%E7%94%B7%E6%93%B8%E5%87%B3%E5%9C%8D%E6%AF%86-%E8%B5%A4%E8%86%8A%E7%94%B7%E7%A9%BA%E6%89%8B%E4%B8%8D%E6%95%B5-%E7%B6%B2%E6%B0%91-%E6%90%8F%E6%93%8A%E4%B9%8B%E5%9F%8E",
     "timestamp": "2026-10-14T16:47:09.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜兩分判商稱開「生口」屬慣常做法　受宏業指示發泡膠封窗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251205/1073725928644808704684123.jpeg/vFhZpbhGo09UOQVZ_rCdf5yucKUEtpwAtaNy5pyjcuY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399774/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%85%A9%E5%88%86%E5%88%A4%E5%95%86%E7%A8%B1%E9%96%8B-%E7%94%9F%E5%8F%A3-%E5%B1%AC%E6%85%A3%E5%B8%B8%E5%81%9A%E6%B3%95-%E5%8F%97%E5%AE%8F%E6%A5%AD%E6%8C%87%E7%A4%BA%E7%99%BC%E6%B3%A1%E8%86%A0%E5%B0%81%E7%AA%97",
-    "timestamp": "2026-10-14T16:22:02.534Z",
     "strategy": ".content-card__main"
   }
 ];
