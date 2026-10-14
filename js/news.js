@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T21:35:27.466Z
+// Last updated: 2026-10-14T21:44:32.119Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩艘新加坡籍船隻在霍爾木茲海峽遇襲　其中一艘起火後沉沒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166759238358274048412657.jpeg/p8GqOQ92r9AsLdKaBpP5RQK8SDg9mQa7TPsp7Uz7Ke0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399799/%E5%85%A9%E8%89%98%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%B1%8D%E8%88%B9%E9%9A%BB%E5%9C%A8%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%87%E8%A5%B2-%E5%85%B6%E4%B8%AD%E4%B8%80%E8%89%98%E8%B5%B7%E7%81%AB%E5%BE%8C%E6%B2%89%E6%B2%92",
+    "timestamp": "2026-10-14T21:44:32.119Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "費城半導體指數瀉逾4%　連跌六天！　市值蒸發逾萬億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187057925286268928135786.png/pPJ2flRLrjuQz5i7MRojriL6IOcaBUYi7soZl-7KGZc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399547/doctor-x-%E9%87%91%E6%99%BA%E5%AA%9B%E6%8C%91%E6%88%B0%E7%B1%B3%E5%80%89%E6%B6%BC%E5%AD%90-%E6%97%A5%E9%9F%93-%E7%A5%9E%E9%86%AB%E5%A5%B3%E4%B8%BB%E8%A7%92-%E6%B0%A3%E5%A0%B4%E5%A4%A7%E6%AF%94%E6%8B%BC",
     "timestamp": "2026-10-14T13:57:21.211Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重陽節｜天文台料周四初時離岸高地吹強風　周日拜山乾燥慎防山火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251029/1060238799273070592701683.jpeg/2xDnWoVcrwlyaPca2RlRp2xeu2jLKr-3KVCFaAxQhWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60399744/%E9%87%8D%E9%99%BD%E7%AF%80-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E5%9B%9B%E5%88%9D%E6%99%82%E9%9B%A2%E5%B2%B8%E9%AB%98%E5%9C%B0%E5%90%B9%E5%BC%B7%E9%A2%A8-%E5%91%A8%E6%97%A5%E6%8B%9C%E5%B1%B1%E4%B9%BE%E7%87%A5%E6%85%8E%E9%98%B2%E5%B1%B1%E7%81%AB",
-    "timestamp": "2026-10-14T13:47:06.235Z",
     "strategy": ".content-card__main"
   }
 ];
