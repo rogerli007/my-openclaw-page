@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T07:58:37.145Z
+// Last updated: 2026-10-14T08:51:00.614Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Netflix韓劇《Doctor X》收視封神！金智媛準時放工惹打工仔共鳴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187012833510952960147952.png/FX49c7Uz0JuwXmApfryIKyTnmTjrI01zRZ7Rp0We0ac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399468/netflix%E9%9F%93%E5%8A%87-doctor-x-%E6%94%B6%E8%A6%96%E5%B0%81%E7%A5%9E-%E9%87%91%E6%99%BA%E5%AA%9B%E6%BA%96%E6%99%82%E6%94%BE%E5%B7%A5%E6%83%B9%E6%89%93%E5%B7%A5%E4%BB%94%E5%85%B1%E9%B3%B4",
+    "timestamp": "2026-10-14T08:51:00.614Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大阪道頓堀地標第六代固力果廣告牌11月30日退役　明春換第七代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186736254302031872962035.jpeg/0DddkNoNdC6BXFCU6P-GcF8Mg9xmX884FL94DxS_eA8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60399271/%E4%BD%8F%E5%AE%85%E6%A8%93%E5%83%B9%E5%A6%82%E9%A0%90%E6%96%99%E4%B8%AD%E9%9E%8F%E5%9B%BA-%E7%9C%8B%E9%80%B2%E5%B1%95%E9%9E%8F%E5%9B%BA%E5%BE%8C%E5%9B%9E%E5%8D%87%E6%A9%9F%E6%9C%83%E5%A4%A7-%E6%B1%AA%E6%95%A6%E6%95%AC",
     "timestamp": "2026-10-13T22:18:14.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜阿仙奴３：０里爾　曼聯作客０：２馬體會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186907474020536320603152.jpeg/I3fT-UT3_D-mALNlW8xTgoQd8Kq7yszP39Y0vd_WNL0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399392/%E6%AD%90%E8%81%AF-%E9%98%BF%E4%BB%99%E5%A5%B4%EF%BC%93-%EF%BC%90%E9%87%8C%E7%88%BE-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%EF%BC%90-%EF%BC%92%E9%A6%AC%E9%AB%94%E6%9C%83",
-    "timestamp": "2026-10-13T21:47:06.990Z",
     "strategy": ".content-card__main"
   }
 ];
