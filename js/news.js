@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T16:22:02.534Z
+// Last updated: 2026-10-14T16:47:09.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大圍MMA．有片｜2男擸凳圍毆　赤膊男空手不敵　網民：搏擊之城",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187192466235723776315749.jpeg/WMW2haeQGrAmWwxAuOsBQ0_IkQsPhGk755_31eef99U",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399776/%E5%A4%A7%E5%9C%8Dmma-%E6%9C%89%E7%89%87-2%E7%94%B7%E6%93%B8%E5%87%B3%E5%9C%8D%E6%AF%86-%E8%B5%A4%E8%86%8A%E7%94%B7%E7%A9%BA%E6%89%8B%E4%B8%8D%E6%95%B5-%E7%B6%B2%E6%B0%91-%E6%90%8F%E6%93%8A%E4%B9%8B%E5%9F%8E",
+    "timestamp": "2026-10-14T16:47:09.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜兩分判商稱開「生口」屬慣常做法　受宏業指示發泡膠封窗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176985408995594240074356.jpeg/sAXYyIQiQtSHzwT0ZY8_lzjDi9DetIWExkOKZsZDimY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399614/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%87%E8%AA%8D%E7%9C%9F%E8%80%83%E6%85%AE%E8%BE%B2%E7%9B%B8%E7%B0%97%E5%92%8C%E7%94%9F%E6%98%AF%E5%90%A6%E5%8B%9D%E4%BB%BB%E5%B7%A5%E4%BD%9C-%E5%85%B6%E7%99%BC%E8%A8%80%E8%8B%A5%E5%B1%AC%E5%AF%A6%E7%A2%BA%E4%B8%8D%E5%A6%A5",
     "timestamp": "2026-10-14T07:47:58.386Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "保良一中管樂團奏《旋轉木馬》　男同學戴貓耳反串伴舞吸近萬讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187032719402471424139625.jpeg/7K3_4Zd8cp3GzkL2bMio68KYM2gd8B9VZieN6GYnjeg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60399459/%E4%BF%9D%E8%89%AF%E4%B8%80%E4%B8%AD%E7%AE%A1%E6%A8%82%E5%9C%98%E5%A5%8F-%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC-%E7%94%B7%E5%90%8C%E5%AD%B8%E6%88%B4%E8%B2%93%E8%80%B3%E5%8F%8D%E4%B8%B2%E4%BC%B4%E8%88%9E%E5%90%B8%E8%BF%91%E8%90%AC%E8%AE%9A",
-    "timestamp": "2026-10-14T07:26:04.758Z",
     "strategy": ".content-card__main"
   }
 ];
