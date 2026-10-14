@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T09:57:50.874Z
+// Last updated: 2026-10-14T10:21:14.837Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何君堯大熱做港大校董：如成事必全力以赴　校董會多有能者不擔心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187096117087571968563940.jpeg/sfC7O9YrHphovzheYlkmQcOj-QeMhKFI2vxOadr8Tmk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60399704/%E4%BD%95%E5%90%9B%E5%A0%AF%E5%A4%A7%E7%86%B1%E5%81%9A%E6%B8%AF%E5%A4%A7%E6%A0%A1%E8%91%A3-%E5%A6%82%E6%88%90%E4%BA%8B%E5%BF%85%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4-%E6%A0%A1%E8%91%A3%E6%9C%83%E5%A4%9A%E6%9C%89%E8%83%BD%E8%80%85%E4%B8%8D%E6%93%94%E5%BF%83",
+    "timestamp": "2026-10-14T10:21:14.837Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港澳海關聯合反走私　破5案截$8000萬貨　包括藥物、雪茄及煙草",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186778893160288256149678.jpeg/fcMIlIKbahYUDylqkIK2oGLAOEGm3fUxYY8ztWGPM7U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399250/%E9%8D%BE%E5%9F%B9%E7%94%9F%E8%8E%8A%E9%9B%85%E5%A9%B7%E9%85%92%E5%BA%97%E5%A4%96%E7%AE%8D%E9%A0%B8%E6%91%B8%E8%83%8C%E8%84%8A%E8%B2%BC%E8%BA%AB%E6%94%AC%E6%94%AC-%E6%90%AD%E7%9A%84%E5%A3%AB%E9%9B%A2%E5%8E%BB%E7%A6%AE%E8%AE%93%E8%80%81%E5%A9%86%E4%B8%8A%E8%BB%8A",
     "timestamp": "2026-10-13T23:17:21.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "IELTS雅思內地大癱瘓！英國文化協會聽力考試期間叫停　成績作廢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186874809401741312819546.png/Onqu6VHiw4d3-LdubRoqDlmrqvnt6zGl437MruN-zK4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397952/ielts%E9%9B%85%E6%80%9D%E5%85%A7%E5%9C%B0%E5%A4%A7%E7%99%B1%E7%98%93-%E8%8B%B1%E5%9C%8B%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%81%BD%E5%8A%9B%E8%80%83%E8%A9%A6%E6%9C%9F%E9%96%93%E5%8F%AB%E5%81%9C-%E6%88%90%E7%B8%BE%E4%BD%9C%E5%BB%A2",
-    "timestamp": "2026-10-13T22:54:07.684Z",
     "strategy": ".content-card__main"
   }
 ];
