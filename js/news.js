@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T07:26:04.758Z
+// Last updated: 2026-10-14T07:47:58.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗將認真考慮農相簗和生是否勝任工作：其發言若屬實確不妥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176985408995594240074356.jpeg/sAXYyIQiQtSHzwT0ZY8_lzjDi9DetIWExkOKZsZDimY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399614/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%87%E8%AA%8D%E7%9C%9F%E8%80%83%E6%85%AE%E8%BE%B2%E7%9B%B8%E7%B0%97%E5%92%8C%E7%94%9F%E6%98%AF%E5%90%A6%E5%8B%9D%E4%BB%BB%E5%B7%A5%E4%BD%9C-%E5%85%B6%E7%99%BC%E8%A8%80%E8%8B%A5%E5%B1%AC%E5%AF%A6%E7%A2%BA%E4%B8%8D%E5%A6%A5",
+    "timestamp": "2026-10-14T07:47:58.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "保良一中管樂團奏《旋轉木馬》　男同學戴貓耳反串伴舞吸近萬讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186907474020536320603152.jpeg/I3fT-UT3_D-mALNlW8xTgoQd8Kq7yszP39Y0vd_WNL0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399392/%E6%AD%90%E8%81%AF-%E9%98%BF%E4%BB%99%E5%A5%B4%EF%BC%93-%EF%BC%90%E9%87%8C%E7%88%BE-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%EF%BC%90-%EF%BC%92%E9%A6%AC%E9%AB%94%E6%9C%83",
     "timestamp": "2026-10-13T21:30:35.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梵蒂岡：教宗確診肺癌已切除右肺下葉　手術成功未出現併發症",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186888055542255616276891.jpeg/6_6HEBdaF1YIKonALEesNjY-crkWNjCqHy2AQB8tgEA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399387/%E6%A2%B5%E8%92%82%E5%B2%A1-%E6%95%99%E5%AE%97%E7%A2%BA%E8%A8%BA%E8%82%BA%E7%99%8C%E5%B7%B2%E5%88%87%E9%99%A4%E5%8F%B3%E8%82%BA%E4%B8%8B%E8%91%89-%E6%89%8B%E8%A1%93%E6%88%90%E5%8A%9F%E6%9C%AA%E5%87%BA%E7%8F%BE%E4%BD%B5%E7%99%BC%E7%97%87",
-    "timestamp": "2026-10-13T21:17:41.412Z",
     "strategy": ".content-card__main"
   }
 ];
