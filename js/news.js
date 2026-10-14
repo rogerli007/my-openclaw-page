@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T13:35:39.868Z
+// Last updated: 2026-10-14T13:47:06.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重陽節｜天文台料周四初時離岸高地吹強風　周日拜山乾燥慎防山火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251029/1060238799273070592701683.jpeg/2xDnWoVcrwlyaPca2RlRp2xeu2jLKr-3KVCFaAxQhWg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60399744/%E9%87%8D%E9%99%BD%E7%AF%80-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E5%9B%9B%E5%88%9D%E6%99%82%E9%9B%A2%E5%B2%B8%E9%AB%98%E5%9C%B0%E5%90%B9%E5%BC%B7%E9%A2%A8-%E5%91%A8%E6%97%A5%E6%8B%9C%E5%B1%B1%E4%B9%BE%E7%87%A5%E6%85%8E%E9%98%B2%E5%B1%B1%E7%81%AB",
+    "timestamp": "2026-10-14T13:47:06.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七師傅援助張致恒六位數免還　有意送樓及收養四子：不如一了百了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187011106795687936791540.jpeg/3SgluN2VyRsLmxxWv-crZw6kkyJFgp9xeaLfKVyi3yk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399497/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%AD%9A%E6%96%B9%E9%A7%BF%E7%99%BC%E7%8F%BE%E8%94%A1%E5%A4%B1%E8%81%AF%E5%BE%8C%E6%9B%BE%E4%B8%8A%E5%8A%A0%E5%A4%9A%E5%88%A9%E5%B1%B1-%E4%B8%A6%E5%9C%A8%E5%96%AE%E4%BD%8D%E9%81%87%E8%A6%8B%E9%84%BA%E6%B8%AF%E6%99%BA",
     "timestamp": "2026-10-14T04:24:40.825Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一生奉獻給戲曲　知名越劇花旦深夜河邊洗戲服失足溺斃　終年59歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186988948551897088960724.jpeg/cF5ClrOjNtB08o_Z_l8SIhpj7Z5m2fMHJLH2MiSx9jI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60399442/%E4%B8%80%E7%94%9F%E5%A5%89%E7%8D%BB%E7%B5%A6%E6%88%B2%E6%9B%B2-%E7%9F%A5%E5%90%8D%E8%B6%8A%E5%8A%87%E8%8A%B1%E6%97%A6%E6%B7%B1%E5%A4%9C%E6%B2%B3%E9%82%8A%E6%B4%97%E6%88%B2%E6%9C%8D%E5%A4%B1%E8%B6%B3%E6%BA%BA%E6%96%83-%E7%B5%82%E5%B9%B459%E6%AD%B2",
-    "timestamp": "2026-10-14T03:48:18.957Z",
     "strategy": ".content-card__main"
   }
 ];
