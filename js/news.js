@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T10:45:14.774Z
+// Last updated: 2026-10-14T11:22:49.081Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "工聯會李廣宇「雪卵致生育率低」論　新民黨兩議員反駁污名化封建",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187117825735528448964371.jpeg/jC4TGcUz8GH8RokOvcpaJrjbkLSzLNZb2S8EONkvBDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60399738/%E5%B7%A5%E8%81%AF%E6%9C%83%E6%9D%8E%E5%BB%A3%E5%AE%87-%E9%9B%AA%E5%8D%B5%E8%87%B4%E7%94%9F%E8%82%B2%E7%8E%87%E4%BD%8E-%E8%AB%96-%E9%99%B3%E5%AE%B6%E7%8F%AE%E4%BD%95%E6%95%AC%E5%BA%B7%E5%8F%8D%E9%A7%81%E6%B1%A1%E5%90%8D%E5%8C%96%E5%B0%81%E5%BB%BA",
+    "timestamp": "2026-10-14T11:22:49.081Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣工廈迷你倉淪毒品倉　警拘28歲男檢$110萬大麻花",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185317688705028096183450.jpeg/XKZc2q2od6niBspFYa8IfAHGeresbqY4CBmHcwgZh3M?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60397690/%E6%B2%89%E9%A6%99%E6%8A%95%E8%B3%87%E7%96%91%E7%82%BA%E9%A8%99%E5%B1%80-%E5%94%AE%E5%A0%B4%E5%A4%96%E8%82%A1%E7%A5%A8-%E6%95%B8%E5%AD%97%E8%B3%87%E7%94%A2-%E8%AA%8D%E8%B3%BC%E6%A8%B9%E6%9C%A8-%E8%AD%A6%E6%8B%984%E4%BA%BA",
     "timestamp": "2026-10-13T23:54:39.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沉香投資疑為騙局　售場外股票、數字資產、認購樹木　警拘4人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185317688705028096183450.jpeg/XKZc2q2od6niBspFYa8IfAHGeresbqY4CBmHcwgZh3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60397690/%E6%B2%89%E9%A6%99%E6%8A%95%E8%B3%87%E7%96%91%E7%82%BA%E9%A8%99%E5%B1%80-%E5%94%AE%E5%A0%B4%E5%A4%96%E8%82%A1%E7%A5%A8-%E6%95%B8%E5%AD%97%E8%B3%87%E7%94%A2-%E8%AA%8D%E8%B3%BC%E6%A8%B9%E6%9C%A8-%E8%AD%A6%E6%8B%984%E4%BA%BA",
-    "timestamp": "2026-10-13T23:41:26.474Z",
     "strategy": ".content-card__main"
   }
 ];
