@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T21:44:32.119Z
+// Last updated: 2026-10-14T21:59:37.449Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗23歲女被指網上發文「侮辱先知」判死刑　曾參與反政府示威",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187275876895559680761309.png/qAyQHnIrZb2MpUyUWyJBOuBP-cc_bua5Mof0PjKH9D4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399802/%E4%BC%8A%E6%9C%9723%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8C%87%E7%B6%B2%E4%B8%8A%E7%99%BC%E6%96%87-%E4%BE%AE%E8%BE%B1%E5%85%88%E7%9F%A5-%E5%88%A4%E6%AD%BB%E5%88%91-%E6%9B%BE%E5%8F%83%E8%88%87%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81",
+    "timestamp": "2026-10-14T21:59:37.449Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩艘新加坡籍船隻在霍爾木茲海峽遇襲　其中一艘起火後沉沒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187086938201395200574089.png/4lrX_txry0f8QPzHGmb-2nV7fa5jZgOludy41bncuNU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399667/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E8%AC%9D%E6%B4%9B%E7%BE%8E%E7%B6%AD%E7%B4%8D%E8%AD%89%E5%AF%A6-%E9%B7%B9%E7%9C%BC-%E7%BC%BA%E5%B8%AD-%E5%B9%BD%E9%BB%98%E8%AA%BF%E4%BE%83-%E7%84%A1%E6%88%91%E5%BF%85%E8%BC%B8",
     "timestamp": "2026-10-14T14:20:32.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Doctor X｜金智媛挑戰米倉涼子！日韓「神醫女主角」氣場大比拼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187057925286268928135786.png/pPJ2flRLrjuQz5i7MRojriL6IOcaBUYi7soZl-7KGZc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399547/doctor-x-%E9%87%91%E6%99%BA%E5%AA%9B%E6%8C%91%E6%88%B0%E7%B1%B3%E5%80%89%E6%B6%BC%E5%AD%90-%E6%97%A5%E9%9F%93-%E7%A5%9E%E9%86%AB%E5%A5%B3%E4%B8%BB%E8%A7%92-%E6%B0%A3%E5%A0%B4%E5%A4%A7%E6%AF%94%E6%8B%BC",
-    "timestamp": "2026-10-14T13:57:21.211Z",
     "strategy": ".content-card__main"
   }
 ];
