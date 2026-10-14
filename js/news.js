@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T17:57:02.079Z
+// Last updated: 2026-10-14T18:24:22.947Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全球首艘Jetfoil噴射船「水星」恐被拆解　關注組時隔6載再籲保留",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187214594033061888697248.jpeg/vPfkGUDCmmWm9S3xhWiE1exmEY_OHNkUYfyS2mH8kto?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399783/%E5%85%A8%E7%90%83%E9%A6%96%E8%89%98jetfoil%E5%99%B4%E5%B0%84%E8%88%B9-%E6%B0%B4%E6%98%9F-%E6%81%90%E8%A2%AB%E6%8B%86%E8%A7%A3-%E9%97%9C%E6%B3%A8%E7%B5%84%E6%99%82%E9%9A%946%E8%BC%89%E5%86%8D%E7%B1%B2%E4%BF%9D%E7%95%99",
+    "timestamp": "2026-10-14T18:24:22.947Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彌敦道男子馬路狂奔　共5人站燈位影相　目擊者：影巴士｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187096117087571968563940.jpeg/sfC7O9YrHphovzheYlkmQcOj-QeMhKFI2vxOadr8Tmk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60399704/%E4%BD%95%E5%90%9B%E5%A0%AF%E5%A4%A7%E7%86%B1%E5%81%9A%E6%B8%AF%E5%A4%A7%E6%A0%A1%E8%91%A3-%E5%A6%82%E6%88%90%E4%BA%8B%E5%BF%85%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4-%E6%A0%A1%E8%91%A3%E6%9C%83%E5%A4%9A%E6%9C%89%E8%83%BD%E8%80%85%E4%B8%8D%E6%93%94%E5%BF%83",
     "timestamp": "2026-10-14T10:21:14.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港澳海關聯合反走私　破5案截$8000萬貨　包括藥物、雪茄及煙草",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187093466564268032891302.jpeg/GkZDe3Fyiw4IglxxfCnQa8PWRcBDc_QjOSvjSzkr40s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399691/%E6%B8%AF%E6%BE%B3%E6%B5%B7%E9%97%9C%E8%81%AF%E5%90%88%E5%8F%8D%E8%B5%B0%E7%A7%81-%E7%A0%B45%E6%A1%88%E6%88%AA-8000%E8%90%AC%E8%B2%A8-%E5%8C%85%E6%8B%AC%E8%97%A5%E7%89%A9-%E9%9B%AA%E8%8C%84%E5%8F%8A%E7%85%99%E8%8D%89",
-    "timestamp": "2026-10-14T09:57:50.874Z",
     "strategy": ".content-card__main"
   }
 ];
