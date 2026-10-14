@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T13:57:21.211Z
+// Last updated: 2026-10-14T14:20:32.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復仇者聯盟5｜謝洛美維納證實「鷹眼」缺席　幽默調侃：無我必輸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187086938201395200574089.png/4lrX_txry0f8QPzHGmb-2nV7fa5jZgOludy41bncuNU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399667/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E8%AC%9D%E6%B4%9B%E7%BE%8E%E7%B6%AD%E7%B4%8D%E8%AD%89%E5%AF%A6-%E9%B7%B9%E7%9C%BC-%E7%BC%BA%E5%B8%AD-%E5%B9%BD%E9%BB%98%E8%AA%BF%E4%BE%83-%E7%84%A1%E6%88%91%E5%BF%85%E8%BC%B8",
+    "timestamp": "2026-10-14T14:20:32.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Doctor X｜金智媛挑戰米倉涼子！日韓「神醫女主角」氣場大比拼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187001053430681600358107.jpeg/JuC2k7k0ForIPhQ3FbQ8dpIp2Y1v7gO-K33Ktyt9yrc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60399463/%E6%97%A5%E6%9C%AC%E7%B5%90%E5%B8%B3%E7%A6%81%E5%BF%8C-%E6%B8%AF%E4%BA%BA%E7%9B%B4%E6%8E%A5%E9%81%9E%E9%8C%A2%E5%A4%B1%E7%A6%AE-%E5%B0%88%E5%AE%B6%E6%8F%AD%E6%94%B6%E9%8A%80%E5%93%A1%E7%82%BA%E4%BD%95%E4%B8%8D%E7%9B%B4%E6%8E%A5%E6%94%B6%E9%8C%A2",
     "timestamp": "2026-10-14T05:20:32.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長者免費防跌班3推介｜學柔道安全著地防跌倒！送$400超市現金券",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187023854673858560856740.jpeg/Xy2zTBZEllZSyG2oig1lgdF8OIGxJ3TQoSL-9aEi_vU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60399194/%E9%95%B7%E8%80%85%E5%85%8D%E8%B2%BB%E9%98%B2%E8%B7%8C%E7%8F%AD3%E6%8E%A8%E4%BB%8B-%E5%AD%B8%E6%9F%94%E9%81%93%E5%AE%89%E5%85%A8%E8%91%97%E5%9C%B0%E9%98%B2%E8%B7%8C%E5%80%92-%E9%80%81-400%E8%B6%85%E5%B8%82%E7%8F%BE%E9%87%91%E5%88%B8",
-    "timestamp": "2026-10-14T04:58:54.947Z",
     "strategy": ".content-card__main"
   }
 ];
