@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T17:33:34.513Z
+// Last updated: 2026-10-14T17:50:20.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彌敦道男子馬路狂奔　共5人站燈位影相　目擊者：影巴士｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187208281722982400604389.jpeg/4hav-FG2MuL4m5aGcYGqtMLePCu2HP4hVn7GQFZ-xkA",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399781/%E5%BD%8C%E6%95%A6%E9%81%93%E7%94%B7%E5%AD%90%E9%A6%AC%E8%B7%AF%E7%8B%82%E5%A5%94-%E5%85%B15%E4%BA%BA%E7%AB%99%E7%87%88%E4%BD%8D%E5%BD%B1%E7%9B%B8-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%BD%B1%E5%B7%B4%E5%A3%AB-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-14T17:50:20.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粵艇南下｜即日開始接受申請　最早到港前30日可辦跨境手續",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187039376886992896036912.jpeg/F1HoKx_UDumQiazx0dq1llDDtA5AhpyWv-QXB7_kFwc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399538/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BC%B5%E6%9B%A6%E9%9B%AF%E4%BA%A4%E6%89%8B%E7%81%AB%E8%97%A5%E5%91%B3%E5%8B%81%E6%BF%83-%E5%BC%B5%E6%99%BA%E9%9C%96%E5%86%8D%E7%8F%BE%E5%9E%8B%E7%88%86%E9%BB%91%E8%B6%85look",
     "timestamp": "2026-10-14T09:22:57.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Netflix韓劇《Doctor X》收視封神！金智媛準時放工惹打工仔共鳴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187012833510952960147952.png/FX49c7Uz0JuwXmApfryIKyTnmTjrI01zRZ7Rp0We0ac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399468/netflix%E9%9F%93%E5%8A%87-doctor-x-%E6%94%B6%E8%A6%96%E5%B0%81%E7%A5%9E-%E9%87%91%E6%99%BA%E5%AA%9B%E6%BA%96%E6%99%82%E6%94%BE%E5%B7%A5%E6%83%B9%E6%89%93%E5%B7%A5%E4%BB%94%E5%85%B1%E9%B3%B4",
-    "timestamp": "2026-10-14T08:51:00.614Z",
     "strategy": ".content-card__main"
   }
 ];
