@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T14:59:30.276Z
+// Last updated: 2026-10-14T15:47:48.096Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：中期選舉對在任總統不利　參眾兩院控制權同樣難守",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187181811759845376862107.jpeg/0iWLq9SDv9uE9rPM-lVj8XaQ3H2N3cfoEwYc8RMGHPE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399775/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%B0%8D%E5%9C%A8%E4%BB%BB%E7%B8%BD%E7%B5%B1%E4%B8%8D%E5%88%A9-%E5%8F%83%E7%9C%BE%E5%85%A9%E9%99%A2%E6%8E%A7%E5%88%B6%E6%AC%8A%E5%90%8C%E6%A8%A3%E9%9B%A3%E5%AE%88",
+    "timestamp": "2026-10-14T15:47:48.096Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈里梅根回流英國屢被偷拍！保安級別獲重新評估　民調63%促自費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187054159958904832760149.png/P1s8mhNcOgU_Qsf5QDCORsraA0pCsERMscUNMbHFDTE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/60380786/%E9%80%86%E6%8C%89%E6%8F%AD%E8%A2%AB%E6%8C%87%E6%90%B5%E7%AC%A8-%E5%AE%89%E8%80%81%E6%8C%89%E6%8F%AD%E9%9A%B1%E8%97%8F%E5%A5%BD%E8%99%95%E9%BB%9E%E5%8F%AA%E6%8B%8E%E5%B9%B4%E9%87%91%E6%9C%89%E5%B1%8B%E4%BD%8F-3%E9%A1%9E%E9%95%B7%E8%80%85%E9%81%A9%E5%90%88",
     "timestamp": "2026-10-14T07:00:01.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城丨高海寧為劇狠心剪短髮　張曦雯爆全劇換逾30套造型",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186740821383188480267584.jpeg/OFj4A2TITUTPyYI7o_UBuEvHHywEhzNxhZKHjYWSh40?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399285/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E7%82%BA%E5%8A%87%E7%8B%A0%E5%BF%83%E5%89%AA%E7%9F%AD%E9%AB%AE-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E7%88%86%E5%85%A8%E5%8A%87%E6%8F%9B%E9%80%BE30%E5%A5%97%E9%80%A0%E5%9E%8B",
-    "timestamp": "2026-10-14T05:56:23.941Z",
     "strategy": ".content-card__main"
   }
 ];
