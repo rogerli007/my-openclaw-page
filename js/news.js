@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T11:22:49.081Z
+// Last updated: 2026-10-14T11:35:51.059Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李秀滿推新女團A2O LITE獲少時Sunny加持　成員神似Jessica、BoA",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187058176902565888849305.jpeg/8fFj5S1EOgLg3rH4oIeGwc3XQ-PcGDFKOYIbAzmCGwM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60399562/%E6%9D%8E%E7%A7%80%E6%BB%BF%E6%8E%A8%E6%96%B0%E5%A5%B3%E5%9C%98a2o-lite%E7%8D%B2%E5%B0%91%E6%99%82sunny%E5%8A%A0%E6%8C%81-%E6%88%90%E5%93%A1%E7%A5%9E%E4%BC%BCjessica-boa",
+    "timestamp": "2026-10-14T11:35:51.059Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "工聯會李廣宇「雪卵致生育率低」論　新民黨兩議員反駁污名化封建",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186726830523027456569301.png/lR-iJsPlrZGfZkYwcADvQcy4bo8lA_323CtaV9wrWlc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60398877/%E5%A5%B3%E5%AD%90%E8%B2%B7%E7%89%9B%E8%82%89%E4%B8%B8%E8%A2%AB%E8%AA%A4%E6%9C%83%E9%80%83%E5%96%AE-%E5%BA%97%E4%B8%BB%E5%85%AC%E9%96%8Bcctv%E9%81%AD%E5%8F%8D%E6%93%8A-%E8%A6%81%E6%B1%82%E7%BD%AE%E9%A0%82%E9%81%93%E6%AD%8915%E5%A4%A9",
     "timestamp": "2026-10-14T01:15:13.031Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沉香投資疑為騙局　售場外股票、數字資產、認購樹木　警拘4人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185317688705028096183450.jpeg/XKZc2q2od6niBspFYa8IfAHGeresbqY4CBmHcwgZh3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60397690/%E6%B2%89%E9%A6%99%E6%8A%95%E8%B3%87%E7%96%91%E7%82%BA%E9%A8%99%E5%B1%80-%E5%94%AE%E5%A0%B4%E5%A4%96%E8%82%A1%E7%A5%A8-%E6%95%B8%E5%AD%97%E8%B3%87%E7%94%A2-%E8%AA%8D%E8%B3%BC%E6%A8%B9%E6%9C%A8-%E8%AD%A6%E6%8B%984%E4%BA%BA",
-    "timestamp": "2026-10-13T23:54:39.170Z",
     "strategy": ".content-card__main"
   }
 ];
