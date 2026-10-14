@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T21:18:48.984Z
+// Last updated: 2026-10-14T21:35:27.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "費城半導體指數瀉逾4%　連跌六天！　市值蒸發逾萬億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5db013cb23ab170deb412119.jpg/OiVW1B-hch7EieCw76X8j_7U2K3Qgvh55XvKl-V7ypc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60399801/%E8%B2%BB%E5%9F%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%8C%87%E6%95%B8%E7%80%89%E9%80%BE4-%E9%80%A3%E8%B7%8C%E5%85%AD%E5%A4%A9-%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E9%80%BE%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-10-14T21:35:27.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國晶片股跌勢加劇　合計市值或蒸發逾1萬億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251029/1060238799273070592701683.jpeg/2xDnWoVcrwlyaPca2RlRp2xeu2jLKr-3KVCFaAxQhWg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60399744/%E9%87%8D%E9%99%BD%E7%AF%80-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E5%9B%9B%E5%88%9D%E6%99%82%E9%9B%A2%E5%B2%B8%E9%AB%98%E5%9C%B0%E5%90%B9%E5%BC%B7%E9%A2%A8-%E5%91%A8%E6%97%A5%E6%8B%9C%E5%B1%B1%E4%B9%BE%E7%87%A5%E6%85%8E%E9%98%B2%E5%B1%B1%E7%81%AB",
     "timestamp": "2026-10-14T13:47:06.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七師傅援助張致恒六位數免還　有意送樓及收養四子：不如一了百了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187152418089996288378195.jpeg/_lF5YJIBMrR5v8e6peRrSvToT7DLFN0GPi5a-D4uWvg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399763/%E4%B8%83%E5%B8%AB%E5%82%85%E6%8F%B4%E5%8A%A9%E5%BC%B5%E8%87%B4%E6%81%92%E5%85%AD%E4%BD%8D%E6%95%B8%E5%85%8D%E9%82%84-%E6%9C%89%E6%84%8F%E9%80%81%E6%A8%93%E5%8F%8A%E6%94%B6%E9%A4%8A%E5%9B%9B%E5%AD%90-%E4%B8%8D%E5%A6%82%E4%B8%80%E4%BA%86%E7%99%BE%E4%BA%86",
-    "timestamp": "2026-10-14T13:35:39.868Z",
     "strategy": ".content-card__main"
   }
 ];
