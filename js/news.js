@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T14:45:08.026Z
+// Last updated: 2026-10-14T14:59:30.276Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈里梅根回流英國屢被偷拍！保安級別獲重新評估　民調63%促自費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187075843885633536124639.png/YUXcMaSxnPPHt9egDJ_vk85XXh3e2iIX4aAjjuGgI44?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399625/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E5%9B%9E%E6%B5%81%E8%8B%B1%E5%9C%8B%E5%B1%A2%E8%A2%AB%E5%81%B7%E6%8B%8D-%E4%BF%9D%E5%AE%89%E7%B4%9A%E5%88%A5%E7%8D%B2%E9%87%8D%E6%96%B0%E8%A9%95%E4%BC%B0-%E6%B0%91%E8%AA%BF63-%E4%BF%83%E8%87%AA%E8%B2%BB",
+    "timestamp": "2026-10-14T14:59:30.276Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「世紀同框」合體400歲　姚瑩瑩相約五大老戲骨飲茶掀回憶殺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186740821383188480267584.jpeg/OFj4A2TITUTPyYI7o_UBuEvHHywEhzNxhZKHjYWSh40?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399285/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E7%82%BA%E5%8A%87%E7%8B%A0%E5%BF%83%E5%89%AA%E7%9F%AD%E9%AB%AE-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E7%88%86%E5%85%A8%E5%8A%87%E6%8F%9B%E9%80%BE30%E5%A5%97%E9%80%A0%E5%9E%8B",
     "timestamp": "2026-10-14T05:56:23.941Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關破跨境轉運$760萬冒牌錶　全球50隻RICHARD MILLE僅賣$26萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187024444082622464694031.jpeg/fMiC9ymvpd8ATL-FTucmJSecwYnN9f3AYRi0VGEYtFQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399450/%E6%B5%B7%E9%97%9C%E7%A0%B4%E8%B7%A8%E5%A2%83%E8%BD%89%E9%81%8B-760%E8%90%AC%E5%86%92%E7%89%8C%E9%8C%B6-%E5%85%A8%E7%90%8350%E9%9A%BBrichard-mille%E5%83%85%E8%B3%A3-26%E8%90%AC",
-    "timestamp": "2026-10-14T05:46:00.730Z",
     "strategy": ".content-card__main"
   }
 ];
