@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T18:24:22.947Z
+// Last updated: 2026-10-14T19:32:09.358Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯同入境處油尖掃黃兼打擊非法勞工　24男女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187239753662074880307246.jpeg/-nBndnY20gAaRHqELHD8pwycIf_Z8YmUXGXjx1xl48c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399791/%E8%AD%A6%E8%81%AF%E5%90%8C%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E6%8E%83%E9%BB%83%E5%85%BC%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5-24%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-14T19:32:09.358Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全球首艘Jetfoil噴射船「水星」恐被拆解　關注組時隔6載再籲保留",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187096620341137408791830.jpeg/0B_D4Y0Vs-aZU98IF-zau7QHfdRT-K0ONB7lYDQe5WA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399698/%E8%8D%83%E7%81%A3%E5%B7%A5%E5%BB%88%E8%BF%B7%E4%BD%A0%E5%80%89%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%8B%9828%E6%AD%B2%E7%94%B7%E6%AA%A2-110%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1",
     "timestamp": "2026-10-14T10:45:14.774Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何君堯大熱做港大校董：如成事必全力以赴　校董會多有能者不擔心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187096117087571968563940.jpeg/sfC7O9YrHphovzheYlkmQcOj-QeMhKFI2vxOadr8Tmk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60399704/%E4%BD%95%E5%90%9B%E5%A0%AF%E5%A4%A7%E7%86%B1%E5%81%9A%E6%B8%AF%E5%A4%A7%E6%A0%A1%E8%91%A3-%E5%A6%82%E6%88%90%E4%BA%8B%E5%BF%85%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4-%E6%A0%A1%E8%91%A3%E6%9C%83%E5%A4%9A%E6%9C%89%E8%83%BD%E8%80%85%E4%B8%8D%E6%93%94%E5%BF%83",
-    "timestamp": "2026-10-14T10:21:14.837Z",
     "strategy": ".content-card__main"
   }
 ];
