@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T03:48:18.957Z
+// Last updated: 2026-10-14T04:24:40.825Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜譚方駿發現蔡失聯後曾上加多利山　並在單位遇見鄺港智",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187011106795687936791540.jpeg/3SgluN2VyRsLmxxWv-crZw6kkyJFgp9xeaLfKVyi3yk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399497/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%AD%9A%E6%96%B9%E9%A7%BF%E7%99%BC%E7%8F%BE%E8%94%A1%E5%A4%B1%E8%81%AF%E5%BE%8C%E6%9B%BE%E4%B8%8A%E5%8A%A0%E5%A4%9A%E5%88%A9%E5%B1%B1-%E4%B8%A6%E5%9C%A8%E5%96%AE%E4%BD%8D%E9%81%87%E8%A6%8B%E9%84%BA%E6%B8%AF%E6%99%BA",
+    "timestamp": "2026-10-14T04:24:40.825Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一生奉獻給戲曲　知名越劇花旦深夜河邊洗戲服失足溺斃　終年59歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186849901263196160093258.png/bLVyEa997LtfIh6KznLxkrSJQL73FsAMYZSj3WGUo90?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399373/%E5%BC%B5%E8%87%B4%E6%81%92%E8%88%87%E5%89%8D%E5%BA%A6%E8%8E%8A%E9%9F%BB%E6%BE%84%E5%89%8D%E5%A4%AB%E5%90%8C%E6%A1%86%E5%94%94%E5%B0%B7%E5%B0%AC-%E5%91%82%E6%88%90%E5%BF%A0%E5%B9%AB%E6%89%B9%E5%91%BD%E6%A0%BC-%E5%A4%A7%E4%B8%8A%E5%A4%A7%E8%90%BD",
     "timestamp": "2026-10-13T18:27:22.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張致恒與前度莊韻澄前夫同框唔尷尬　呂成忠幫批命格：大上大落",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186849901263196160093258.png/bLVyEa997LtfIh6KznLxkrSJQL73FsAMYZSj3WGUo90?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399373/%E5%BC%B5%E8%87%B4%E6%81%92%E8%88%87%E5%89%8D%E5%BA%A6%E8%8E%8A%E9%9F%BB%E6%BE%84%E5%89%8D%E5%A4%AB%E5%90%8C%E6%A1%86%E5%94%94%E5%B0%B7%E5%B0%AC-%E5%91%82%E6%88%90%E5%BF%A0%E5%B9%AB%E6%89%B9%E5%91%BD%E6%A0%BC-%E5%A4%A7%E4%B8%8A%E5%A4%A7%E8%90%BD",
-    "timestamp": "2026-10-13T17:58:10.805Z",
     "strategy": ".content-card__main"
   }
 ];
