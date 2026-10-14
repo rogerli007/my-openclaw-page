@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T12:33:38.969Z
+// Last updated: 2026-10-14T12:52:41.223Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣交會明起廣州舉行　習近平致賀信：中國願與各國維護多邊貿易",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148950605524373504507419.jpeg/BpJHZx3nQ2nvoY1qpy3XBspbVrSmfk11oWigsaFooLE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60399750/%E5%BB%A3%E4%BA%A4%E6%9C%83%E6%98%8E%E8%B5%B7%E5%BB%A3%E5%B7%9E%E8%88%89%E8%A1%8C-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%87%B4%E8%B3%80%E4%BF%A1-%E4%B8%AD%E5%9C%8B%E9%A1%98%E8%88%87%E5%90%84%E5%9C%8B%E7%B6%AD%E8%AD%B7%E5%A4%9A%E9%82%8A%E8%B2%BF%E6%98%93",
+    "timestamp": "2026-10-14T12:52:41.223Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "MIRROR成員又爆內訌？　Edan笑姜濤軟熟反被問：你有冇諗過我感受",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186885988387917824391864.jpeg/w8xIoEEbGcV3J3_ph6OhvJKCZy0fLTQdXy6VvV8ulb0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399383/%E6%8B%BE%E8%8D%92%E6%B3%95%E5%B8%AB%E5%B0%88%E8%A8%AA-%E4%BD%95%E8%B6%85%E5%84%80%E8%87%AA%E8%B3%87%E6%BF%80%E6%B4%BB%E6%B8%AF%E7%94%A2%E9%A9%9A%E6%85%84-%E5%86%87%E4%BA%BA%E6%8A%95%E5%B0%B1%E8%87%AA%E5%B7%B1%E6%8A%95",
     "timestamp": "2026-10-14T02:48:49.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "因免費薯仔「唔夠量」遭食客負評網暴　四川女攤販不堪壓力跳河亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186983057547071488390827.png/cTDufC1XntledsLjT9KPl7wGkLY7_k9clMdvY5THb2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399421/%E5%9B%A0%E5%85%8D%E8%B2%BB%E8%96%AF%E4%BB%94-%E5%94%94%E5%A4%A0%E9%87%8F-%E9%81%AD%E9%A3%9F%E5%AE%A2%E8%B2%A0%E8%A9%95%E7%B6%B2%E6%9A%B4-%E5%9B%9B%E5%B7%9D%E5%A5%B3%E6%94%A4%E8%B2%A9%E4%B8%8D%E5%A0%AA%E5%A3%93%E5%8A%9B%E8%B7%B3%E6%B2%B3%E4%BA%A1",
-    "timestamp": "2026-10-14T02:33:07.437Z",
     "strategy": ".content-card__main"
   }
 ];
