@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T22:31:46.949Z
+// Last updated: 2026-10-14T22:45:16.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿嬌鍾欣潼用近3萬元LV袋作愛犬出行包　網民：狗用的我都用不起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187116378419630080521037.jpeg/9NbSLf1H4FfR9zgAezWAvF-S0X_GhzE148fvMePH7zE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399643/%E9%98%BF%E5%AC%8C%E9%8D%BE%E6%AC%A3%E6%BD%BC%E7%94%A8%E8%BF%913%E8%90%AC%E5%85%83lv%E8%A2%8B%E4%BD%9C%E6%84%9B%E7%8A%AC%E5%87%BA%E8%A1%8C%E5%8C%85-%E7%B6%B2%E6%B0%91-%E7%8B%97%E7%94%A8%E7%9A%84%E6%88%91%E9%83%BD%E7%94%A8%E4%B8%8D%E8%B5%B7",
+    "timestamp": "2026-10-14T22:45:16.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌2村屋遭連環爆竊　2男共損失$42萬財物　包括勞力士錶和現金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187181811759845376862107.jpeg/0iWLq9SDv9uE9rPM-lVj8XaQ3H2N3cfoEwYc8RMGHPE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399775/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%B0%8D%E5%9C%A8%E4%BB%BB%E7%B8%BD%E7%B5%B1%E4%B8%8D%E5%88%A9-%E5%8F%83%E7%9C%BE%E5%85%A9%E9%99%A2%E6%8E%A7%E5%88%B6%E6%AC%8A%E5%90%8C%E6%A8%A3%E9%9B%A3%E5%AE%88",
     "timestamp": "2026-10-14T15:47:48.096Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈里梅根回流英國屢被偷拍！保安級別獲重新評估　民調63%促自費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187075843885633536124639.png/YUXcMaSxnPPHt9egDJ_vk85XXh3e2iIX4aAjjuGgI44?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399625/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E5%9B%9E%E6%B5%81%E8%8B%B1%E5%9C%8B%E5%B1%A2%E8%A2%AB%E5%81%B7%E6%8B%8D-%E4%BF%9D%E5%AE%89%E7%B4%9A%E5%88%A5%E7%8D%B2%E9%87%8D%E6%96%B0%E8%A9%95%E4%BC%B0-%E6%B0%91%E8%AA%BF63-%E4%BF%83%E8%87%AA%E8%B2%BB",
-    "timestamp": "2026-10-14T14:59:30.276Z",
     "strategy": ".content-card__main"
   }
 ];
