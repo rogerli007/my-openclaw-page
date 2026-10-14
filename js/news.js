@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T08:51:00.614Z
+// Last updated: 2026-10-14T09:22:57.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜高海寧張曦雯交手火藥味勁濃　張智霖再現型爆黑超Look",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187039376886992896036912.jpeg/F1HoKx_UDumQiazx0dq1llDDtA5AhpyWv-QXB7_kFwc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399538/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BC%B5%E6%9B%A6%E9%9B%AF%E4%BA%A4%E6%89%8B%E7%81%AB%E8%97%A5%E5%91%B3%E5%8B%81%E6%BF%83-%E5%BC%B5%E6%99%BA%E9%9C%96%E5%86%8D%E7%8F%BE%E5%9E%8B%E7%88%86%E9%BB%91%E8%B6%85look",
+    "timestamp": "2026-10-14T09:22:57.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Netflix韓劇《Doctor X》收視封神！金智媛準時放工惹打工仔共鳴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186874809401741312819546.png/Onqu6VHiw4d3-LdubRoqDlmrqvnt6zGl437MruN-zK4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60397952/ielts%E9%9B%85%E6%80%9D%E5%85%A7%E5%9C%B0%E5%A4%A7%E7%99%B1%E7%98%93-%E8%8B%B1%E5%9C%8B%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83%E8%81%BD%E5%8A%9B%E8%80%83%E8%A9%A6%E6%9C%9F%E9%96%93%E5%8F%AB%E5%81%9C-%E6%88%90%E7%B8%BE%E4%BD%9C%E5%BB%A2",
     "timestamp": "2026-10-13T22:44:04.200Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "住宅樓價如預料中鞏固　看進展鞏固後回升機會大｜汪敦敬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186736254302031872962035.jpeg/0DddkNoNdC6BXFCU6P-GcF8Mg9xmX884FL94DxS_eA8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60399271/%E4%BD%8F%E5%AE%85%E6%A8%93%E5%83%B9%E5%A6%82%E9%A0%90%E6%96%99%E4%B8%AD%E9%9E%8F%E5%9B%BA-%E7%9C%8B%E9%80%B2%E5%B1%95%E9%9E%8F%E5%9B%BA%E5%BE%8C%E5%9B%9E%E5%8D%87%E6%A9%9F%E6%9C%83%E5%A4%A7-%E6%B1%AA%E6%95%A6%E6%95%AC",
-    "timestamp": "2026-10-13T22:18:14.300Z",
     "strategy": ".content-card__main"
   }
 ];
