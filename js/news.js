@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T21:59:37.449Z
+// Last updated: 2026-10-14T22:20:14.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌2村屋遭連環爆竊　2男共損失$42萬財物　包括勞力士錶和現金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187281204890570752254763.jpeg/HQHrNFPqgTXdgy_uBw6ILVcrqAU8nxGJ4TSwcNs0sHA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399803/%E6%9D%B1%E6%B6%8C2%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-2%E7%94%B7%E5%85%B1%E6%90%8D%E5%A4%B1-42%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E9%8C%B6%E5%92%8C%E7%8F%BE%E9%87%91",
+    "timestamp": "2026-10-14T22:20:14.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗23歲女被指網上發文「侮辱先知」判死刑　曾參與反政府示威",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187108378300649472274619.jpeg/KHYGr8rmbLgDUH0nIyrptdlA0gWxc3eLYb4hvFe-Ibw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399687/%E4%B8%96%E7%B4%80%E5%90%8C%E6%A1%86-%E5%90%88%E9%AB%94400%E6%AD%B2-%E5%A7%9A%E7%91%A9%E7%91%A9%E7%9B%B8%E7%B4%84%E4%BA%94%E5%A4%A7%E8%80%81%E6%88%B2%E9%AA%A8%E9%A3%B2%E8%8C%B6%E6%8E%80%E5%9B%9E%E6%86%B6%E6%AE%BA",
     "timestamp": "2026-10-14T14:45:08.026Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復仇者聯盟5｜謝洛美維納證實「鷹眼」缺席　幽默調侃：無我必輸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187086938201395200574089.png/4lrX_txry0f8QPzHGmb-2nV7fa5jZgOludy41bncuNU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399667/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E8%AC%9D%E6%B4%9B%E7%BE%8E%E7%B6%AD%E7%B4%8D%E8%AD%89%E5%AF%A6-%E9%B7%B9%E7%9C%BC-%E7%BC%BA%E5%B8%AD-%E5%B9%BD%E9%BB%98%E8%AA%BF%E4%BE%83-%E7%84%A1%E6%88%91%E5%BF%85%E8%BC%B8",
-    "timestamp": "2026-10-14T14:20:32.641Z",
     "strategy": ".content-card__main"
   }
 ];
