@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T04:58:54.947Z
+// Last updated: 2026-10-14T05:20:32.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本結帳禁忌｜ 港人直接遞錢失禮？專家揭收銀員為何不直接收錢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187001053430681600358107.jpeg/JuC2k7k0ForIPhQ3FbQ8dpIp2Y1v7gO-K33Ktyt9yrc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60399463/%E6%97%A5%E6%9C%AC%E7%B5%90%E5%B8%B3%E7%A6%81%E5%BF%8C-%E6%B8%AF%E4%BA%BA%E7%9B%B4%E6%8E%A5%E9%81%9E%E9%8C%A2%E5%A4%B1%E7%A6%AE-%E5%B0%88%E5%AE%B6%E6%8F%AD%E6%94%B6%E9%8A%80%E5%93%A1%E7%82%BA%E4%BD%95%E4%B8%8D%E7%9B%B4%E6%8E%A5%E6%94%B6%E9%8C%A2",
+    "timestamp": "2026-10-14T05:20:32.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長者免費防跌班3推介｜學柔道安全著地防跌倒！送$400超市現金券",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186826112139792384783201.jpeg/aQww3SLEaj02f9_kjSf9ZX4yl53qzeme27hfgdu4X4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399381/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%8F%97%E4%BC%8A%E6%9C%97%E6%8C%87%E4%BD%BF%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E6%95%85%E6%84%8F%E5%9C%A8%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%89%8D%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9",
     "timestamp": "2026-10-13T19:18:21.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張致恒與前度莊韻澄前夫同框唔尷尬　呂成忠幫批命格：大上大落",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186849901263196160093258.png/bLVyEa997LtfIh6KznLxkrSJQL73FsAMYZSj3WGUo90?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399373/%E5%BC%B5%E8%87%B4%E6%81%92%E8%88%87%E5%89%8D%E5%BA%A6%E8%8E%8A%E9%9F%BB%E6%BE%84%E5%89%8D%E5%A4%AB%E5%90%8C%E6%A1%86%E5%94%94%E5%B0%B7%E5%B0%AC-%E5%91%82%E6%88%90%E5%BF%A0%E5%B9%AB%E6%89%B9%E5%91%BD%E6%A0%BC-%E5%A4%A7%E4%B8%8A%E5%A4%A7%E8%90%BD",
-    "timestamp": "2026-10-13T18:51:36.469Z",
     "strategy": ".content-card__main"
   }
 ];
