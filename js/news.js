@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T05:56:23.941Z
+// Last updated: 2026-10-14T07:00:01.377Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "逆按揭被指搵笨？安老按揭隱藏好處點只拎年金有屋住+3類長者適合",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187054159958904832760149.png/P1s8mhNcOgU_Qsf5QDCORsraA0pCsERMscUNMbHFDTE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/60380786/%E9%80%86%E6%8C%89%E6%8F%AD%E8%A2%AB%E6%8C%87%E6%90%B5%E7%AC%A8-%E5%AE%89%E8%80%81%E6%8C%89%E6%8F%AD%E9%9A%B1%E8%97%8F%E5%A5%BD%E8%99%95%E9%BB%9E%E5%8F%AA%E6%8B%8E%E5%B9%B4%E9%87%91%E6%9C%89%E5%B1%8B%E4%BD%8F-3%E9%A1%9E%E9%95%B7%E8%80%85%E9%81%A9%E5%90%88",
+    "timestamp": "2026-10-14T07:00:01.377Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城丨高海寧為劇狠心剪短髮　張曦雯爆全劇換逾30套造型",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186888055542255616276891.jpeg/6_6HEBdaF1YIKonALEesNjY-crkWNjCqHy2AQB8tgEA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399387/%E6%A2%B5%E8%92%82%E5%B2%A1-%E6%95%99%E5%AE%97%E7%A2%BA%E8%A8%BA%E8%82%BA%E7%99%8C%E5%B7%B2%E5%88%87%E9%99%A4%E5%8F%B3%E8%82%BA%E4%B8%8B%E8%91%89-%E6%89%8B%E8%A1%93%E6%88%90%E5%8A%9F%E6%9C%AA%E5%87%BA%E7%8F%BE%E4%BD%B5%E7%99%BC%E7%97%87",
     "timestamp": "2026-10-13T20:56:38.371Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教宗良十四世入院切除肺結節　梵蒂岡：手術成功",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186888055542255616276891.jpeg/6_6HEBdaF1YIKonALEesNjY-crkWNjCqHy2AQB8tgEA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399387/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%85%A5%E9%99%A2%E5%88%87%E9%99%A4%E8%82%BA%E7%B5%90%E7%AF%80-%E6%A2%B5%E8%92%82%E5%B2%A1-%E6%89%8B%E8%A1%93%E6%88%90%E5%8A%9F",
-    "timestamp": "2026-10-13T20:22:10.872Z",
     "strategy": ".content-card__main"
   }
 ];
