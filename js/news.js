@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T05:46:00.730Z
+// Last updated: 2026-10-14T05:56:23.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城丨高海寧為劇狠心剪短髮　張曦雯爆全劇換逾30套造型",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186740821383188480267584.jpeg/OFj4A2TITUTPyYI7o_UBuEvHHywEhzNxhZKHjYWSh40?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399285/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E7%82%BA%E5%8A%87%E7%8B%A0%E5%BF%83%E5%89%AA%E7%9F%AD%E9%AB%AE-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E7%88%86%E5%85%A8%E5%8A%87%E6%8F%9B%E9%80%BE30%E5%A5%97%E9%80%A0%E5%9E%8B",
+    "timestamp": "2026-10-14T05:56:23.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關破跨境轉運$760萬冒牌錶　全球50隻RICHARD MILLE僅賣$26萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186888055542255616276891.jpeg/6_6HEBdaF1YIKonALEesNjY-crkWNjCqHy2AQB8tgEA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399387/%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%85%A5%E9%99%A2%E5%88%87%E9%99%A4%E8%82%BA%E7%B5%90%E7%AF%80-%E6%A2%B5%E8%92%82%E5%B2%A1-%E6%89%8B%E8%A1%93%E6%88%90%E5%8A%9F",
     "timestamp": "2026-10-13T20:22:10.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜上環女子墮海載浮載沉　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186877386373730304426819.jpeg/gsQhREqp-7V0wOwg1b3myWoStHAn1SspZPIvkF7yL5A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399382/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%8A%E7%92%B0%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7%E8%BC%89%E6%B5%AE%E8%BC%89%E6%B2%89-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-10-13T19:31:42.040Z",
     "strategy": ".content-card__main"
   }
 ];
