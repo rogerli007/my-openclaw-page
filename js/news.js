@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T16:58:15.006Z
+// Last updated: 2026-10-14T17:33:34.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粵艇南下｜即日開始接受申請　最早到港前30日可辦跨境手續",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185586569810022400485970.jpeg/xfnTaTFz_eE_Z01mh2W8rLBgMqPoZtilMyX_XjMl_14?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399782/%E7%B2%B5%E8%89%87%E5%8D%97%E4%B8%8B-%E5%8D%B3%E6%97%A5%E9%96%8B%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AB%8B-%E6%9C%80%E6%97%A9%E5%88%B0%E6%B8%AF%E5%89%8D30%E6%97%A5%E5%8F%AF%E8%BE%A6%E8%B7%A8%E5%A2%83%E6%89%8B%E7%BA%8C",
+    "timestamp": "2026-10-14T17:33:34.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粵艇南下｜即日開始接受申請　最早到港前30日可辦跨境手續",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187012833510952960147952.png/FX49c7Uz0JuwXmApfryIKyTnmTjrI01zRZ7Rp0We0ac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399468/netflix%E9%9F%93%E5%8A%87-doctor-x-%E6%94%B6%E8%A6%96%E5%B0%81%E7%A5%9E-%E9%87%91%E6%99%BA%E5%AA%9B%E6%BA%96%E6%99%82%E6%94%BE%E5%B7%A5%E6%83%B9%E6%89%93%E5%B7%A5%E4%BB%94%E5%85%B1%E9%B3%B4",
     "timestamp": "2026-10-14T08:51:00.614Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大阪道頓堀地標第六代固力果廣告牌11月30日退役　明春換第七代",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187067828461637632236750.jpeg/ygfErZM0trdmoCUjQatjXgUTUA6pOiaacCixAXAosQE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399621/%E5%A4%A7%E9%98%AA%E9%81%93%E9%A0%93%E5%A0%80%E5%9C%B0%E6%A8%99%E7%AC%AC%E5%85%AD%E4%BB%A3%E5%9B%BA%E5%8A%9B%E6%9E%9C%E5%BB%A3%E5%91%8A%E7%89%8C11%E6%9C%8830%E6%97%A5%E9%80%80%E5%BD%B9-%E6%98%8E%E6%98%A5%E6%8F%9B%E7%AC%AC%E4%B8%83%E4%BB%A3",
-    "timestamp": "2026-10-14T07:58:37.145Z",
     "strategy": ".content-card__main"
   }
 ];
