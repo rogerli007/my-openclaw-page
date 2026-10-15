@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T02:51:47.790Z
+// Last updated: 2026-10-15T03:48:17.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌工傷︱家屬質疑死者連工作平台墮下　當局從未提及　要求交代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187365680228339712170645.jpeg/wm5eLxIwTjTLrTIGiWSOOJHkQMs-yYwr7asv0e2rL9E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399884/%E6%9D%B1%E6%B6%8C%E5%B7%A5%E5%82%B7-%E5%AE%B6%E5%B1%AC%E8%B3%AA%E7%96%91%E6%AD%BB%E8%80%85%E9%80%A3%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%8F%B0%E5%A2%AE%E4%B8%8B-%E7%95%B6%E5%B1%80%E5%BE%9E%E6%9C%AA%E6%8F%90%E5%8F%8A-%E8%A6%81%E6%B1%82%E4%BA%A4%E4%BB%A3",
+    "timestamp": "2026-10-15T03:48:17.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DeepSeek崩了！頁面顯示「伺服器暫時不可用」超1小時　官方排查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187239753662074880307246.jpeg/-nBndnY20gAaRHqELHD8pwycIf_Z8YmUXGXjx1xl48c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399791/%E8%AD%A6%E8%81%AF%E5%90%8C%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E6%8E%83%E9%BB%83%E5%85%BC%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5-24%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-14T19:32:09.358Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全球首艘Jetfoil噴射船「水星」恐被拆解　關注組時隔6載再籲保留",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187214594033061888697248.jpeg/vPfkGUDCmmWm9S3xhWiE1exmEY_OHNkUYfyS2mH8kto?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399783/%E5%85%A8%E7%90%83%E9%A6%96%E8%89%98jetfoil%E5%99%B4%E5%B0%84%E8%88%B9-%E6%B0%B4%E6%98%9F-%E6%81%90%E8%A2%AB%E6%8B%86%E8%A7%A3-%E9%97%9C%E6%B3%A8%E7%B5%84%E6%99%82%E9%9A%946%E8%BC%89%E5%86%8D%E7%B1%B2%E4%BF%9D%E7%95%99",
-    "timestamp": "2026-10-14T18:24:22.947Z",
     "strategy": ".content-card__main"
   }
 ];
