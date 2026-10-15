@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T06:33:03.807Z
+// Last updated: 2026-10-15T07:27:38.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀碼頭兩婦互毆　一人遭撳地打頭腳踢　外籍勇男勸阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187039069524201472258641.jpeg/2qGPCNXKL0-fmJlumoMr8hzHnJ4LxGKPhSWxP4UlsT8",
+    "url": "https://www.hk01.com/01TV/60399545/%E5%B0%96%E6%B2%99%E5%92%80%E7%A2%BC%E9%A0%AD%E5%85%A9%E5%A9%A6%E4%BA%92%E6%AF%86-%E4%B8%80%E4%BA%BA%E9%81%AD%E6%92%B3%E5%9C%B0%E6%89%93%E9%A0%AD%E8%85%B3%E8%B8%A2-%E5%A4%96%E7%B1%8D%E5%8B%87%E7%94%B7%E5%8B%B8%E9%98%BB",
+    "timestamp": "2026-10-15T07:27:38.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警搗尖沙咀住宅毒窟　家品電器藏$600萬氯胺酮　內地漢涉販毒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166759238358274048412657.jpeg/p8GqOQ92r9AsLdKaBpP5RQK8SDg9mQa7TPsp7Uz7Ke0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399799/%E5%85%A9%E8%89%98%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%B1%8D%E8%88%B9%E9%9A%BB%E5%9C%A8%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%87%E8%A5%B2-%E5%85%B6%E4%B8%AD%E4%B8%80%E8%89%98%E8%B5%B7%E7%81%AB%E5%BE%8C%E6%B2%89%E6%B2%92",
     "timestamp": "2026-10-14T21:44:32.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "費城半導體指數瀉逾4%　連跌六天！　市值蒸發逾萬億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5db013cb23ab170deb412119.jpg/OiVW1B-hch7EieCw76X8j_7U2K3Qgvh55XvKl-V7ypc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60399801/%E8%B2%BB%E5%9F%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%8C%87%E6%95%B8%E7%80%89%E9%80%BE4-%E9%80%A3%E8%B7%8C%E5%85%AD%E5%A4%A9-%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E9%80%BE%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-10-14T21:35:27.466Z",
     "strategy": ".content-card__main"
   }
 ];
