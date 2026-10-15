@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T05:45:36.012Z
+// Last updated: 2026-10-15T05:57:12.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金智媛《Doctor X》惹韓國醫護不滿　轟將醫生妖魔化兼多處失實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187359183431798784817524.png/OtrDuTS_ZKXWPr3L1TOfcGwyoQ-U2RiUjCs8AowrPAI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399827/%E9%87%91%E6%99%BA%E5%AA%9B-doctor-x-%E6%83%B9%E9%9F%93%E5%9C%8B%E9%86%AB%E8%AD%B7%E4%B8%8D%E6%BB%BF-%E8%BD%9F%E5%B0%87%E9%86%AB%E7%94%9F%E5%A6%96%E9%AD%94%E5%8C%96%E5%85%BC%E5%A4%9A%E8%99%95%E5%A4%B1%E5%AF%A6",
+    "timestamp": "2026-10-15T05:57:12.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慳裝修費兼畀百元印花稅　首置客執平貨　擲400萬買屯門華都花園",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5db013cb23ab170deb412119.jpg/OiVW1B-hch7EieCw76X8j_7U2K3Qgvh55XvKl-V7ypc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60399801/%E7%BE%8E%E5%9C%8B%E6%99%B6%E7%89%87%E8%82%A1%E8%B7%8C%E5%8B%A2%E5%8A%A0%E5%8A%87-%E5%90%88%E8%A8%88%E5%B8%82%E5%80%BC%E6%88%96%E8%92%B8%E7%99%BC%E9%80%BE1%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-10-14T21:18:48.984Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基稱被特朗普出賣　遭俄導彈襲擊盟友未預警　星鏈突被限速",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187238291817107456642318.jpeg/FmoE_qHPGfj7ZUmjMPwsqBWVxbEvXDnupHm6YKR5umA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399790/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E8%B3%A3-%E9%81%AD%E4%BF%84%E5%B0%8E%E5%BD%88%E8%A5%B2%E6%93%8A%E7%9B%9F%E5%8F%8B%E6%9C%AA%E9%A0%90%E8%AD%A6-%E6%98%9F%E9%8F%88%E7%AA%81%E8%A2%AB%E9%99%90%E9%80%9F",
-    "timestamp": "2026-10-14T20:55:03.135Z",
     "strategy": ".content-card__main"
   }
 ];
