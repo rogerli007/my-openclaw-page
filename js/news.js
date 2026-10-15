@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T16:47:05.294Z
+// Last updated: 2026-10-15T17:18:44.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "游泳世界盃何詩蓓短池200自7年不敗告終　阿斯塔納站惜負仍創佳績",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187536367890993152138926.jpeg/Hw5KR4wfJGLm7ujY7984dhGThp5y14MRxt2gRcbdoEU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400233/%E6%B8%B8%E6%B3%B3%E4%B8%96%E7%95%8C%E7%9B%83%E4%BD%95%E8%A9%A9%E8%93%93%E7%9F%AD%E6%B1%A0200%E8%87%AA7%E5%B9%B4%E4%B8%8D%E6%95%97%E5%91%8A%E7%B5%82-%E9%98%BF%E6%96%AF%E5%A1%94%E7%B4%8D%E7%AB%99%E6%83%9C%E8%B2%A0%E4%BB%8D%E5%89%B5%E4%BD%B3%E7%B8%BE",
+    "timestamp": "2026-10-15T17:18:44.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西灣河女子掟狗落海　逞兇後撿犬逃去　警追緝虐犬狂徒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187039069524201472258641.jpeg/2qGPCNXKL0-fmJlumoMr8hzHnJ4LxGKPhSWxP4UlsT8",
     "url": "https://www.hk01.com/01TV/60399545/%E5%B0%96%E6%B2%99%E5%92%80%E7%A2%BC%E9%A0%AD%E5%85%A9%E5%A9%A6%E4%BA%92%E6%AF%86-%E4%B8%80%E4%BA%BA%E9%81%AD%E6%92%B3%E5%9C%B0%E6%89%93%E9%A0%AD%E8%85%B3%E8%B8%A2-%E5%A4%96%E7%B1%8D%E5%8B%87%E7%94%B7%E5%8B%B8%E9%98%BB",
     "timestamp": "2026-10-15T07:27:38.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警搗尖沙咀住宅毒窟　家品電器藏$600萬氯胺酮　內地漢涉販毒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187400225438830592140635.jpeg/rIAAtS3Bhb2maOgvyDmO1KF3y2WTrs00se7WJ7Hu1ic?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399977/%E8%AD%A6%E6%90%97%E5%B0%96%E6%B2%99%E5%92%80%E4%BD%8F%E5%AE%85%E6%AF%92%E7%AA%9F-%E5%AE%B6%E5%93%81%E9%9B%BB%E5%99%A8%E8%97%8F-600%E8%90%AC%E6%B0%AF%E8%83%BA%E9%85%AE-%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-15T06:33:03.807Z",
     "strategy": ".content-card__main"
   }
 ];
