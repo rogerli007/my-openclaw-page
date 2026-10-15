@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T12:28:50.140Z
+// Last updated: 2026-10-15T12:54:58.650Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "甄子丹大女甄濟如為巴黎世家宣傳手袋　大力支持入行激讚：好有型",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187470398741024768864379.jpeg/VTFa22QGjK-pdLQCO8LOiJ_W5Goy435H1NC4sdTQuLE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400177/%E7%94%84%E5%AD%90%E4%B8%B9%E5%A4%A7%E5%A5%B3%E7%94%84%E6%BF%9F%E5%A6%82%E7%82%BA%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%AE%A3%E5%82%B3%E6%89%8B%E8%A2%8B-%E5%A4%A7%E5%8A%9B%E6%94%AF%E6%8C%81%E5%85%A5%E8%A1%8C%E6%BF%80%E8%AE%9A-%E5%A5%BD%E6%9C%89%E5%9E%8B",
+    "timestamp": "2026-10-15T12:54:58.650Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "農夫大讚宣萱對rap有天份同熱情　邀唱2026Rap版《熱愛島》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187332358785732608864920.jpeg/bd7b8bcz32p8nmEvgYtWghYGAHG3moQ3hSq5CoUquQo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60399812/%E9%83%AD%E6%99%89%E5%AE%89%E7%88%B6%E5%AD%90%E7%8F%BE%E8%BA%AB%E5%80%AB%E6%95%A6%E8%A1%97%E9%A0%AD-%E9%83%AD%E4%BB%A4%E5%B1%B1%E8%8B%A6%E7%B7%B4%E6%B3%95%E5%9C%8B%E8%99%9F-%E5%85%A5%E8%AE%80%E8%8B%B1%E5%9C%8B%E7%9A%87%E5%AE%B6%E9%9F%B3%E6%A8%82%E5%AD%B8%E9%99%A2",
     "timestamp": "2026-10-15T02:01:11.475Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜前舍監爆學生宿舍騙局　負責人拒回應職員發爛渣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187175720829325312047956.jpeg/kPJBnOUmO4a1wRoymRAiIuF7Hk3ah5PqwnMUmMJzFJg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399769/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%89%8D%E8%88%8D%E7%9B%A3%E7%88%86%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D%E9%A8%99%E5%B1%80-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%8B%92%E5%9B%9E%E6%87%89%E8%81%B7%E5%93%A1%E7%99%BC%E7%88%9B%E6%B8%A3",
-    "timestamp": "2026-10-15T00:44:14.365Z",
     "strategy": ".content-card__main"
   }
 ];
