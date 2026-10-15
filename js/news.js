@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T11:33:37.299Z
+// Last updated: 2026-10-15T11:58:43.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳能源不服219億元工程批予涉致命意外公司　求覆核環保署決定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162379236934422528932608.jpeg/lNh-cQIYzL9qyNc_qs6nJJReca40GLwn4on_IceJ_yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400203/%E6%B7%B1%E5%9C%B3%E8%83%BD%E6%BA%90%E4%B8%8D%E6%9C%8D219%E5%84%84%E5%85%83%E5%B7%A5%E7%A8%8B%E6%89%B9%E4%BA%88%E6%B6%89%E8%87%B4%E5%91%BD%E6%84%8F%E5%A4%96%E5%85%AC%E5%8F%B8-%E6%B1%82%E8%A6%86%E6%A0%B8%E7%92%B0%E4%BF%9D%E7%BD%B2%E6%B1%BA%E5%AE%9A",
+    "timestamp": "2026-10-15T11:58:43.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幼稚園概覽｜新學年少約40校　部份書簿費加價　有雜費一年逾萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187228156734476288892734.jpeg/5UO5ngUpi2Y5esHVLbPi_6mop8WTujIYjLDZRYyw2UU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399789/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E6%9B%89%E8%8F%AF%E6%B7%AA%E7%82%BA%E5%BC%B5%E6%99%BA%E9%9C%96%E5%8D%91%E5%BE%AE%E6%83%85%E5%A9%A6%E7%B5%95%E6%9C%9B%E8%87%AA%E6%AE%BA-%E7%B6%B2%E6%B0%91%E4%B8%8D%E6%BB%BF%E5%A4%AA%E6%97%A9%E6%AD%BB",
     "timestamp": "2026-10-14T23:54:22.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "也門內戰糾纏美伊談判：伊朗、胡塞、美國、沙特誰想一戰？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251119/1067642334461825024386104.jpeg/M-6-aU3uYl11wTaU41iXgMBM7BYnUC37WBXtrlgV7a4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60399788/%E4%B9%9F%E9%96%80%E5%85%A7%E6%88%B0%E7%B3%BE%E7%BA%8F%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97-%E8%83%A1%E5%A1%9E-%E7%BE%8E%E5%9C%8B-%E6%B2%99%E7%89%B9%E8%AA%B0%E6%83%B3%E4%B8%80%E6%88%B0",
-    "timestamp": "2026-10-14T23:41:17.517Z",
     "strategy": ".content-card__main"
   }
 ];
