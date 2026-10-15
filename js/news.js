@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T22:34:43.185Z
+// Last updated: 2026-10-15T22:53:44.645Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Maggie Q逾2600萬復古風豪宅曝光　私人健身房做普拉提騷火辣身材",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187471012225093632742038.jpeg/-Y5rbmk6rFhjgBbUrbt33BhXyuI8Is8m3Nh_8dzYf_E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400088/maggie-q%E9%80%BE2600%E8%90%AC%E5%BE%A9%E5%8F%A4%E9%A2%A8%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89-%E7%A7%81%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E5%81%9A%E6%99%AE%E6%8B%89%E6%8F%90%E9%A8%B7%E7%81%AB%E8%BE%A3%E8%BA%AB%E6%9D%90",
+    "timestamp": "2026-10-15T22:53:44.645Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華郵揭特朗普白宮宴會廳26億捐款背後金主　英偉達與蘋果各捐2億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187448918426783744152376.png/g33F1i-hKM69_4YGf4M-WsUWSeNVM4FlZ6XxoWel8aE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400078/%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B7%E4%B8%BB%E8%A7%92%E9%96%86%E6%A1%89%E6%98%AF%E8%AA%B0-%E9%9F%93%E5%9C%98%E5%87%BA%E9%81%93%E5%8D%81%E5%B9%B4-%E9%A0%AD%E9%83%A8%E6%9B%BE%E9%95%B7%E8%85%AB%E7%98%A4%E5%89%83%E9%AB%AE%E9%87%8D%E7%94%9F",
     "timestamp": "2026-10-15T15:56:05.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臺日電梯換𨋢嚴重違規　房委會：僅涉兩屋邨　富亨邨未批合約暫緩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187390641882009600462870.jpeg/NPNJhklzhUwbrMihJ5iadgNuo-RYoA0GuyDRwLsg0cA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400238/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF%E6%8F%9B%F0%A8%8B%A2%E5%9A%B4%E9%87%8D%E9%81%95%E8%A6%8F-%E6%88%BF%E5%A7%94%E6%9C%83-%E5%83%85%E6%B6%89%E5%85%A9%E5%B1%8B%E9%82%A8-%E5%AF%8C%E4%BA%A8%E9%82%A8%E6%9C%AA%E6%89%B9%E5%90%88%E7%B4%84%E6%9A%AB%E7%B7%A9",
-    "timestamp": "2026-10-15T15:46:22.351Z",
     "strategy": ".content-card__main"
   }
 ];
