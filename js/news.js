@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T15:56:05.414Z
+// Last updated: 2026-10-15T16:21:38.783Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "咒術迴戰七海建人聲優遭AI盜聲 | 津田健次郎告贏聲音權卻難索賠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187403836663271424097146.jpeg/5h-oBSl7Q5YmWZv5lUe8L2ag-yphSofnHt_hDB7f4Qw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60399907/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0%E4%B8%83%E6%B5%B7%E5%BB%BA%E4%BA%BA%E8%81%B2%E5%84%AA%E9%81%ADai%E7%9B%9C%E8%81%B2-%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E%E5%91%8A%E8%B4%8F%E8%81%B2%E9%9F%B3%E6%AC%8A%E5%8D%BB%E9%9B%A3%E7%B4%A2%E8%B3%A0",
+    "timestamp": "2026-10-15T16:21:38.783Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《嫁金釵》男主角閆桉是誰？韓團出道十年、頭部曾長腫瘤剃髮重生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187359183431798784817524.png/OtrDuTS_ZKXWPr3L1TOfcGwyoQ-U2RiUjCs8AowrPAI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399827/%E9%87%91%E6%99%BA%E5%AA%9B-doctor-x-%E6%83%B9%E9%9F%93%E5%9C%8B%E9%86%AB%E8%AD%B7%E4%B8%8D%E6%BB%BF-%E8%BD%9F%E5%B0%87%E9%86%AB%E7%94%9F%E5%A6%96%E9%AD%94%E5%8C%96%E5%85%BC%E5%A4%9A%E8%99%95%E5%A4%B1%E5%AF%A6",
     "timestamp": "2026-10-15T05:57:12.612Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "慳裝修費兼畀百元印花稅　首置客執平貨　擲400萬買屯門華都花園",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187390264897966080978461.jpeg/v1E1Wd8ak2ObAmmgFdTAF3rwX0BrGuYJLLtV6Sy7Vek?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60399968/%E6%85%B3%E8%A3%9D%E4%BF%AE%E8%B2%BB%E5%85%BC%E7%95%80%E7%99%BE%E5%85%83%E5%8D%B0%E8%8A%B1%E7%A8%85-%E9%A6%96%E7%BD%AE%E5%AE%A2%E5%9F%B7%E5%B9%B3%E8%B2%A8-%E6%93%B2400%E8%90%AC%E8%B2%B7%E5%B1%AF%E9%96%80%E8%8F%AF%E9%83%BD%E8%8A%B1%E5%9C%92",
-    "timestamp": "2026-10-15T05:45:36.012Z",
     "strategy": ".content-card__main"
   }
 ];
