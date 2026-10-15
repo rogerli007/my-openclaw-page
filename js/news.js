@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T12:54:58.650Z
+// Last updated: 2026-10-15T13:21:20.117Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜陳曉華激吻戲由張智霖與監製親身示範：嘩！咁樣㗎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187487228381630464290786.jpeg/rVhNMVFh8UTfgy_UMgpofRo-OI13koOGZkRuB1NEbgc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400200/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E6%9B%89%E8%8F%AF%E6%BF%80%E5%90%BB%E6%88%B2%E7%94%B1%E5%BC%B5%E6%99%BA%E9%9C%96%E8%88%87%E7%9B%A3%E8%A3%BD%E8%A6%AA%E8%BA%AB%E7%A4%BA%E7%AF%84-%E5%98%A9-%E5%92%81%E6%A8%A3%E3%97%8E",
+    "timestamp": "2026-10-15T13:21:20.117Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "甄子丹大女甄濟如為巴黎世家宣傳手袋　大力支持入行激讚：好有型",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1371820/org/ec0a1cdef080641e7f521b1f1e04c2ae.jpg/dtmE4ZPMkzh6Btf5dOo99YDgoJyQAlZgWSpZAlkqWQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399849/%E6%B6%88%E5%A7%94%E6%9C%83%E6%90%AC%E5%B1%8B%E6%8A%95%E8%A8%B4-%E7%A7%BB%E6%B0%91%E6%BE%B3%E6%B4%B2%E8%8A%B12-8%E8%90%AC-%E4%BD%B5%E6%AB%83-%E6%90%AC%E5%AE%B6-%E9%80%BE%E5%85%A9%E6%9C%88%E4%BB%8D%E6%9C%AA%E4%BB%98%E9%81%8B",
     "timestamp": "2026-10-15T02:31:05.112Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭晉安父子現身倫敦街頭 郭令山苦練法國號 入讀英國皇家音樂學院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187332358785732608864920.jpeg/bd7b8bcz32p8nmEvgYtWghYGAHG3moQ3hSq5CoUquQo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60399812/%E9%83%AD%E6%99%89%E5%AE%89%E7%88%B6%E5%AD%90%E7%8F%BE%E8%BA%AB%E5%80%AB%E6%95%A6%E8%A1%97%E9%A0%AD-%E9%83%AD%E4%BB%A4%E5%B1%B1%E8%8B%A6%E7%B7%B4%E6%B3%95%E5%9C%8B%E8%99%9F-%E5%85%A5%E8%AE%80%E8%8B%B1%E5%9C%8B%E7%9A%87%E5%AE%B6%E9%9F%B3%E6%A8%82%E5%AD%B8%E9%99%A2",
-    "timestamp": "2026-10-15T02:01:11.475Z",
     "strategy": ".content-card__main"
   }
 ];
