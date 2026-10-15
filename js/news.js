@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T04:46:56.415Z
+// Last updated: 2026-10-15T05:45:36.012Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慳裝修費兼畀百元印花稅　首置客執平貨　擲400萬買屯門華都花園",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187390264897966080978461.jpeg/v1E1Wd8ak2ObAmmgFdTAF3rwX0BrGuYJLLtV6Sy7Vek?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60399968/%E6%85%B3%E8%A3%9D%E4%BF%AE%E8%B2%BB%E5%85%BC%E7%95%80%E7%99%BE%E5%85%83%E5%8D%B0%E8%8A%B1%E7%A8%85-%E9%A6%96%E7%BD%AE%E5%AE%A2%E5%9F%B7%E5%B9%B3%E8%B2%A8-%E6%93%B2400%E8%90%AC%E8%B2%B7%E5%B1%AF%E9%96%80%E8%8F%AF%E9%83%BD%E8%8A%B1%E5%9C%92",
+    "timestamp": "2026-10-15T05:45:36.012Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菠蘿油日10.24回歸！46間餐廳堂食送4,600個菠蘿油　附分店名單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187238291817107456642318.jpeg/FmoE_qHPGfj7ZUmjMPwsqBWVxbEvXDnupHm6YKR5umA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399790/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E8%B3%A3-%E9%81%AD%E4%BF%84%E5%B0%8E%E5%BD%88%E8%A5%B2%E6%93%8A%E7%9B%9F%E5%8F%8B%E6%9C%AA%E9%A0%90%E8%AD%A6-%E6%98%9F%E9%8F%88%E7%AA%81%E8%A2%AB%E9%99%90%E9%80%9F",
     "timestamp": "2026-10-14T20:55:03.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基稱被特朗普出賣　遭俄導彈襲擊盟友未預警　星鏈突被限速",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187238291817107456642318.jpeg/FmoE_qHPGfj7ZUmjMPwsqBWVxbEvXDnupHm6YKR5umA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399790/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E8%B3%A3-%E9%81%AD%E4%BF%84%E5%B0%8E%E5%BD%88%E8%A5%B2%E6%93%8A%E7%9B%9F%E5%8F%8B%E6%9C%AA%E9%A0%90%E8%AD%A6-%E6%98%9F%E9%8F%88%E7%AA%81%E8%A2%AB%E9%99%90%E9%80%9F",
-    "timestamp": "2026-10-14T20:20:09.070Z",
     "strategy": ".content-card__main"
   }
 ];
