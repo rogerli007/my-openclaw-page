@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T21:19:55.081Z
+// Last updated: 2026-10-15T21:47:32.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈里梅根返英後首一同公開亮相　赴諾丁漢食物銀行親自下廚｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187628744882262016521793.jpeg/CapmH4umRHd3w3TLD-U2Rs8jp0LHFMInmg-q_JoPqvw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60400256/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E8%BF%94%E8%8B%B1%E5%BE%8C%E9%A6%96%E4%B8%80%E5%90%8C%E5%85%AC%E9%96%8B%E4%BA%AE%E7%9B%B8-%E8%B5%B4%E8%AB%BE%E4%B8%81%E6%BC%A2%E9%A3%9F%E7%89%A9%E9%8A%80%E8%A1%8C%E8%A6%AA%E8%87%AA%E4%B8%8B%E5%BB%9A-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-15T21:47:32.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "富山邨公屋變販毒中心　警搜出$57萬毒品拘70歲翁　案件明日提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220407/588889063324127232879052.jpeg/2v3ScNjjUbdULYFl3QUDaXbdtahLMITKIPW74CD1u-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400208/%E6%B2%B3%E5%A5%97%E9%86%AB%E9%99%A210-20%E8%B5%B7%E8%A3%9D%E4%BF%AE-%E6%98%8E%E9%A6%96%E5%AD%A3%E9%87%8D%E9%96%8B-%E6%94%BE%E5%B0%84%E8%A8%BA%E6%96%B7%E7%97%85%E4%BA%BA%E4%BA%A4%E6%89%80%E5%B1%AC%E8%81%AF%E7%B6%B2%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-10-15T13:59:11.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "河套醫院10.20起裝修　明首季重開　放射診斷病人交所屬聯網跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220407/588889063324127232879052.jpeg/2v3ScNjjUbdULYFl3QUDaXbdtahLMITKIPW74CD1u-A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400208/%E6%B2%B3%E5%A5%97%E9%86%AB%E9%99%A210-20%E8%B5%B7%E8%A3%9D%E4%BF%AE-%E6%98%8E%E9%A6%96%E5%AD%A3%E9%87%8D%E9%96%8B-%E6%94%BE%E5%B0%84%E8%A8%BA%E6%96%B7%E7%97%85%E4%BA%BA%E4%BA%A4%E6%89%80%E5%B1%AC%E8%81%AF%E7%B6%B2%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-10-15T13:47:32.216Z",
     "strategy": ".content-card__main"
   }
 ];
