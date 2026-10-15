@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T03:48:17.450Z
+// Last updated: 2026-10-15T03:59:10.750Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長者免費活動班8大推介｜插花／八段錦／瑜伽／匹克球 附報名方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187369492036980736970465.png/WDQs5SQBwndVH9bnHd-LMldbKR_ls2pW_BbFU_wWxVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60399708/%E9%95%B7%E8%80%85%E5%85%8D%E8%B2%BB%E6%B4%BB%E5%8B%95%E7%8F%AD8%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E6%8F%92%E8%8A%B1-%E5%85%AB%E6%AE%B5%E9%8C%A6-%E7%91%9C%E4%BC%BD-%E5%8C%B9%E5%85%8B%E7%90%83-%E9%99%84%E5%A0%B1%E5%90%8D%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-10-15T03:59:10.750Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌工傷︱家屬質疑死者連工作平台墮下　當局從未提及　要求交代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187242995322195968549268.jpeg/UOdhgPRvcCni3u14NSUyGnQtPwkSWqJUEWb9nCtm_Zw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399793/%E7%AD%B2%E7%AE%95%E7%81%A33%E5%8F%A3%E7%BD%A9%E8%B3%8A%E5%85%A5%E5%B1%8B%E5%81%B7%E8%B5%B02%E5%A4%BE%E8%90%AC-%E5%85%A7%E6%9C%89%E9%80%BE-80%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-10-14T19:45:02.945Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯同入境處油尖掃黃兼打擊非法勞工　24男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187239753662074880307246.jpeg/-nBndnY20gAaRHqELHD8pwycIf_Z8YmUXGXjx1xl48c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399791/%E8%AD%A6%E8%81%AF%E5%90%8C%E5%85%A5%E5%A2%83%E8%99%95%E6%B2%B9%E5%B0%96%E6%8E%83%E9%BB%83%E5%85%BC%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5-24%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-14T19:32:09.358Z",
     "strategy": ".content-card__main"
   }
 ];
