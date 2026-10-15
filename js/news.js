@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T11:19:07.127Z
+// Last updated: 2026-10-15T11:33:37.299Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幼稚園概覽｜新學年少約40校　部份書簿費加價　有雜費一年逾萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187389579754213376056217.jpeg/IHvP19e2LDnM8M34Z39_ruGvXdLuxL-AxrKf3cayn90?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400097/%E5%B9%BC%E7%A8%9A%E5%9C%92%E6%A6%82%E8%A6%BD-%E6%96%B0%E5%AD%B8%E5%B9%B4%E5%B0%91%E7%B4%8440%E6%A0%A1-%E9%83%A8%E4%BB%BD%E6%9B%B8%E7%B0%BF%E8%B2%BB%E5%8A%A0%E5%83%B9-%E6%9C%89%E9%9B%9C%E8%B2%BB%E4%B8%80%E5%B9%B4%E9%80%BE%E8%90%AC%E5%85%83",
+    "timestamp": "2026-10-15T11:33:37.299Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李兆熊離世｜余安安憶昔日合作深感難過：好唔開心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251119/1067642334461825024386104.jpeg/M-6-aU3uYl11wTaU41iXgMBM7BYnUC37WBXtrlgV7a4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60399788/%E4%B9%9F%E9%96%80%E5%85%A7%E6%88%B0%E7%B3%BE%E7%BA%8F%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4-%E4%BC%8A%E6%9C%97-%E8%83%A1%E5%A1%9E-%E7%BE%8E%E5%9C%8B-%E6%B2%99%E7%89%B9%E8%AA%B0%E6%83%B3%E4%B8%80%E6%88%B0",
     "timestamp": "2026-10-14T23:41:17.517Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "調查揭逾9成7歲以上學童有脊骨問題　寒背、烏龜頸長用屏幕成元兇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187221943225421824685390.jpeg/hWAL0nHVBX18o2I85gMfFboO4_m0xrBLeM4qunjOKro?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60399390/%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%80%BE9%E6%88%907%E6%AD%B2%E4%BB%A5%E4%B8%8A%E5%AD%B8%E7%AB%A5%E6%9C%89%E8%84%8A%E9%AA%A8%E5%95%8F%E9%A1%8C-%E5%AF%92%E8%83%8C-%E7%83%8F%E9%BE%9C%E9%A0%B8%E9%95%B7%E7%94%A8%E5%B1%8F%E5%B9%95%E6%88%90%E5%85%83%E5%85%87",
-    "timestamp": "2026-10-14T23:30:44.059Z",
     "strategy": ".content-card__main"
   }
 ];
