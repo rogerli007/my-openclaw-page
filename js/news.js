@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T18:23:54.452Z
+// Last updated: 2026-10-15T18:51:51.668Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石硤尾邨垃圾收集站起火　消防迅速撲熄火勢　40人疏散｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187587007623204864785403.jpeg/vJkPBJ3gorT7kgqixXQKA8wjR-MzLOYxw7EZs8OxGbM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400245/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E7%AB%99%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%BF%85%E9%80%9F%E6%92%B2%E7%86%84%E7%81%AB%E5%8B%A2-40%E4%BA%BA%E7%96%8F%E6%95%A3-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-15T18:51:51.668Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本奇葩桑拿讓大人重新當BB　入子宮、浸嬰兒浴　還可躺媽媽懷抱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187476311304572928058726.jpeg/e3ep0u9ReZgtyoan_nl66vuqIZkxmOJIIdRK1BfUStQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400188/%E6%9D%8E%E5%85%86%E7%86%8A%E9%9B%A2%E4%B8%96-%E4%BD%99%E5%AE%89%E5%AE%89%E6%86%B6%E6%98%94%E6%97%A5%E5%90%88%E4%BD%9C%E6%B7%B1%E6%84%9F%E9%9B%A3%E9%81%8E-%E5%A5%BD%E5%94%94%E9%96%8B%E5%BF%83",
     "timestamp": "2026-10-15T11:19:07.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肖戰上海南京開演唱會　500萬人搶2萬張飛！黃牛票漲1萬酒店搶光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167500889791926272854970.png/1QONPl9N2Bj7mZYP0qc5w5SGsFELWNJyhdNZ04XTWdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399705/%E8%82%96%E6%88%B0%E4%B8%8A%E6%B5%B7%E5%8D%97%E4%BA%AC%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83-500%E8%90%AC%E4%BA%BA%E6%90%B62%E8%90%AC%E5%BC%B5%E9%A3%9B-%E9%BB%83%E7%89%9B%E7%A5%A8%E6%BC%B21%E8%90%AC%E9%85%92%E5%BA%97%E6%90%B6%E5%85%89",
-    "timestamp": "2026-10-15T10:20:37.188Z",
     "strategy": ".content-card__main"
   }
 ];
