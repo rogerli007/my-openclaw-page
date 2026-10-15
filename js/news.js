@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T20:52:09.715Z
+// Last updated: 2026-10-15T21:19:55.081Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "富山邨公屋變販毒中心　警搜出$57萬毒品拘70歲翁　案件明日提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187627484166754304371482.jpeg/JlOItaSCvNKjfaNr9bmFjwS1-GiCR4F0mEoj0JhKI9A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400257/%E5%AF%8C%E5%B1%B1%E9%82%A8%E5%85%AC%E5%B1%8B%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%90%9C%E5%87%BA-57%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%9870%E6%AD%B2%E7%BF%81-%E6%A1%88%E4%BB%B6%E6%98%8E%E6%97%A5%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-10-15T21:19:55.081Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗唐樓後樓梯雜物起火　消防撲熄　無人受傷毋須疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220407/588889063324127232879052.jpeg/2v3ScNjjUbdULYFl3QUDaXbdtahLMITKIPW74CD1u-A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400208/%E6%B2%B3%E5%A5%97%E9%86%AB%E9%99%A210-20%E8%B5%B7%E8%A3%9D%E4%BF%AE-%E6%98%8E%E9%A6%96%E5%AD%A3%E9%87%8D%E9%96%8B-%E6%94%BE%E5%B0%84%E8%A8%BA%E6%96%B7%E7%97%85%E4%BA%BA%E4%BA%A4%E6%89%80%E5%B1%AC%E8%81%AF%E7%B6%B2%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-10-15T13:47:32.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜陳曉華激吻戲由張智霖與監製親身示範：嘩！咁樣㗎？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187487228381630464290786.jpeg/rVhNMVFh8UTfgy_UMgpofRo-OI13koOGZkRuB1NEbgc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400200/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E6%9B%89%E8%8F%AF%E6%BF%80%E5%90%BB%E6%88%B2%E7%94%B1%E5%BC%B5%E6%99%BA%E9%9C%96%E8%88%87%E7%9B%A3%E8%A3%BD%E8%A6%AA%E8%BA%AB%E7%A4%BA%E7%AF%84-%E5%98%A9-%E5%92%81%E6%A8%A3%E3%97%8E",
-    "timestamp": "2026-10-15T13:21:20.117Z",
     "strategy": ".content-card__main"
   }
 ];
