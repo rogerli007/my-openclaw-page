@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T08:29:09.234Z
+// Last updated: 2026-10-15T09:46:53.977Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "關節炎飲食｜70%長者患退化性關節炎　8類食物助預防＋5類要避免",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187458637220548608347068.jpeg/pLDAzM8TbPS4pvgTkRayzj2pHYacjXRWb_acim_2nIo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60399574/%E9%97%9C%E7%AF%80%E7%82%8E%E9%A3%B2%E9%A3%9F-70-%E9%95%B7%E8%80%85%E6%82%A3%E9%80%80%E5%8C%96%E6%80%A7%E9%97%9C%E7%AF%80%E7%82%8E-8%E9%A1%9E%E9%A3%9F%E7%89%A9%E5%8A%A9%E9%A0%90%E9%98%B2-5%E9%A1%9E%E8%A6%81%E9%81%BF%E5%85%8D",
+    "timestamp": "2026-10-15T09:46:53.977Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡道庇利街爆鹹水管路陷　有巴士後輪一度被困　部分路線須改道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187281204890570752254763.jpeg/HQHrNFPqgTXdgy_uBw6ILVcrqAU8nxGJ4TSwcNs0sHA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399803/%E6%9D%B1%E6%B6%8C2%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-2%E7%94%B7%E5%85%B1%E6%90%8D%E5%A4%B1-42%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E9%8C%B6%E5%92%8C%E7%8F%BE%E9%87%91",
     "timestamp": "2026-10-14T22:20:14.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗23歲女被指網上發文「侮辱先知」判死刑　曾參與反政府示威",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187275876895559680761309.png/qAyQHnIrZb2MpUyUWyJBOuBP-cc_bua5Mof0PjKH9D4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399802/%E4%BC%8A%E6%9C%9723%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8C%87%E7%B6%B2%E4%B8%8A%E7%99%BC%E6%96%87-%E4%BE%AE%E8%BE%B1%E5%85%88%E7%9F%A5-%E5%88%A4%E6%AD%BB%E5%88%91-%E6%9B%BE%E5%8F%83%E8%88%87%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81",
-    "timestamp": "2026-10-14T21:59:37.449Z",
     "strategy": ".content-card__main"
   }
 ];
