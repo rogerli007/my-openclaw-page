@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T22:19:21.227Z
+// Last updated: 2026-10-15T22:34:43.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華郵揭特朗普白宮宴會廳26億捐款背後金主　英偉達與蘋果各捐2億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133780628110577664497238.jpeg/GTTfjhkM-ssINrUYvLT0wKk71PLCkE61QmOvqUJjr6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400259/%E8%8F%AF%E9%83%B5%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BD%E5%AE%AE%E5%AE%B4%E6%9C%83%E5%BB%B326%E5%84%84%E6%8D%90%E6%AC%BE%E8%83%8C%E5%BE%8C%E9%87%91%E4%B8%BB-%E8%8B%B1%E5%81%89%E9%81%94%E8%88%87%E8%98%8B%E6%9E%9C%E5%90%84%E6%8D%902%E5%84%84",
+    "timestamp": "2026-10-15T22:34:43.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "唐文龍獨自用餐卻被路人拍片打擾　黑面半秒鐘瞬間擠出笑容應對",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187390641882009600462870.jpeg/NPNJhklzhUwbrMihJ5iadgNuo-RYoA0GuyDRwLsg0cA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400238/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF%E6%8F%9B%F0%A8%8B%A2%E5%9A%B4%E9%87%8D%E9%81%95%E8%A6%8F-%E6%88%BF%E5%A7%94%E6%9C%83-%E5%83%85%E6%B6%89%E5%85%A9%E5%B1%8B%E9%82%A8-%E5%AF%8C%E4%BA%A8%E9%82%A8%E6%9C%AA%E6%89%B9%E5%90%88%E7%B4%84%E6%9A%AB%E7%B7%A9",
     "timestamp": "2026-10-15T15:46:22.351Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透社：台灣財政部長下周將赴香港參加APEC",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187534155064283136178653.png/z0MjtooGEafrP19lcJ0p1a_rxVNTb4PTomfLMKJnyzA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60400129/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%8F%B0%E7%81%A3%E8%B2%A1%E6%94%BF%E9%83%A8%E9%95%B7%E4%B8%8B%E5%91%A8%E5%B0%87%E8%B5%B4%E9%A6%99%E6%B8%AF%E5%8F%83%E5%8A%A0apec",
-    "timestamp": "2026-10-15T14:56:00.712Z",
     "strategy": ".content-card__main"
   }
 ];
