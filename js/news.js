@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T04:22:23.938Z
+// Last updated: 2026-10-15T04:46:56.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菠蘿油日10.24回歸！46間餐廳堂食送4,600個菠蘿油　附分店名單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187383063231860736509317.png/PfjjpG1euhYVtv4amhVL5iNMXS_OuY8m5ZGJNOWRiTQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60399880/%E8%8F%A0%E8%98%BF%E6%B2%B9%E6%97%A510-24%E5%9B%9E%E6%AD%B8-46%E9%96%93%E9%A4%90%E5%BB%B3%E5%A0%82%E9%A3%9F%E9%80%814-600%E5%80%8B%E8%8F%A0%E8%98%BF%E6%B2%B9-%E9%99%84%E5%88%86%E5%BA%97%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-10-15T04:46:56.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "預設醫療指示懶人包｜與平安紙分別？申請方法＋費用＋見證人條件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187238291817107456642318.jpeg/FmoE_qHPGfj7ZUmjMPwsqBWVxbEvXDnupHm6YKR5umA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399790/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E8%B3%A3-%E9%81%AD%E4%BF%84%E5%B0%8E%E5%BD%88%E8%A5%B2%E6%93%8A%E7%9B%9F%E5%8F%8B%E6%9C%AA%E9%A0%90%E8%AD%A6-%E6%98%9F%E9%8F%88%E7%AA%81%E8%A2%AB%E9%99%90%E9%80%9F",
     "timestamp": "2026-10-14T20:20:09.070Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣3口罩賊入屋偷走2夾萬　內有逾$80萬財物　包括勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187242995322195968549268.jpeg/UOdhgPRvcCni3u14NSUyGnQtPwkSWqJUEWb9nCtm_Zw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399793/%E7%AD%B2%E7%AE%95%E7%81%A33%E5%8F%A3%E7%BD%A9%E8%B3%8A%E5%85%A5%E5%B1%8B%E5%81%B7%E8%B5%B02%E5%A4%BE%E8%90%AC-%E5%85%A7%E6%9C%89%E9%80%BE-80%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-10-14T19:54:26.918Z",
     "strategy": ".content-card__main"
   }
 ];
