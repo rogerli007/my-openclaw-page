@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T11:58:43.960Z
+// Last updated: 2026-10-15T12:28:50.140Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "農夫大讚宣萱對rap有天份同熱情　邀唱2026Rap版《熱愛島》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187442728049315840975083.jpeg/GrOw2zBPRBGXJSv010dwxLT9Zuuz7rmoCDChqwgwoas?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400060/%E8%BE%B2%E5%A4%AB%E5%A4%A7%E8%AE%9A%E5%AE%A3%E8%90%B1%E5%B0%8Drap%E6%9C%89%E5%A4%A9%E4%BB%BD%E5%90%8C%E7%86%B1%E6%83%85-%E9%82%80%E5%94%B12026rap%E7%89%88-%E7%86%B1%E6%84%9B%E5%B3%B6",
+    "timestamp": "2026-10-15T12:28:50.140Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳能源不服219億元工程批予涉致命意外公司　求覆核環保署決定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187175720829325312047956.jpeg/kPJBnOUmO4a1wRoymRAiIuF7Hk3ah5PqwnMUmMJzFJg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399769/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%89%8D%E8%88%8D%E7%9B%A3%E7%88%86%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D%E9%A8%99%E5%B1%80-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%8B%92%E5%9B%9E%E6%87%89%E8%81%B7%E5%93%A1%E7%99%BC%E7%88%9B%E6%B8%A3",
     "timestamp": "2026-10-15T00:44:14.365Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜陳曉華淪為張智霖卑微情婦絕望自殺　網民不滿太早死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187228156734476288892734.jpeg/5UO5ngUpi2Y5esHVLbPi_6mop8WTujIYjLDZRYyw2UU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399789/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E6%9B%89%E8%8F%AF%E6%B7%AA%E7%82%BA%E5%BC%B5%E6%99%BA%E9%9C%96%E5%8D%91%E5%BE%AE%E6%83%85%E5%A9%A6%E7%B5%95%E6%9C%9B%E8%87%AA%E6%AE%BA-%E7%B6%B2%E6%B0%91%E4%B8%8D%E6%BB%BF%E5%A4%AA%E6%97%A9%E6%AD%BB",
-    "timestamp": "2026-10-14T23:54:22.466Z",
     "strategy": ".content-card__main"
   }
 ];
