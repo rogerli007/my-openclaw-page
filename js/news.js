@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T13:21:20.117Z
+// Last updated: 2026-10-15T13:47:32.216Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "河套醫院10.20起裝修　明首季重開　放射診斷病人交所屬聯網跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220407/588889063324127232879052.jpeg/2v3ScNjjUbdULYFl3QUDaXbdtahLMITKIPW74CD1u-A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400208/%E6%B2%B3%E5%A5%97%E9%86%AB%E9%99%A210-20%E8%B5%B7%E8%A3%9D%E4%BF%AE-%E6%98%8E%E9%A6%96%E5%AD%A3%E9%87%8D%E9%96%8B-%E6%94%BE%E5%B0%84%E8%A8%BA%E6%96%B7%E7%97%85%E4%BA%BA%E4%BA%A4%E6%89%80%E5%B1%AC%E8%81%AF%E7%B6%B2%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-10-15T13:47:32.216Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜陳曉華激吻戲由張智霖與監製親身示範：嘩！咁樣㗎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187352812904779776139850.jpeg/4b0DXgPltYnpVdP-QwYk17K7fGQbawwH7OTWEuzk1hI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60399866/deepseek%E5%B4%A9%E4%BA%86-%E9%A0%81%E9%9D%A2%E9%A1%AF%E7%A4%BA-%E4%BC%BA%E6%9C%8D%E5%99%A8%E6%9A%AB%E6%99%82%E4%B8%8D%E5%8F%AF%E7%94%A8-%E8%B6%851%E5%B0%8F%E6%99%82-%E5%AE%98%E6%96%B9%E6%8E%92%E6%9F%A5",
     "timestamp": "2026-10-15T02:51:47.790Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會搬屋投訴｜移民澳洲花2.8萬「併櫃」搬家　逾兩月仍未付運",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1371820/org/ec0a1cdef080641e7f521b1f1e04c2ae.jpg/dtmE4ZPMkzh6Btf5dOo99YDgoJyQAlZgWSpZAlkqWQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399849/%E6%B6%88%E5%A7%94%E6%9C%83%E6%90%AC%E5%B1%8B%E6%8A%95%E8%A8%B4-%E7%A7%BB%E6%B0%91%E6%BE%B3%E6%B4%B2%E8%8A%B12-8%E8%90%AC-%E4%BD%B5%E6%AB%83-%E6%90%AC%E5%AE%B6-%E9%80%BE%E5%85%A9%E6%9C%88%E4%BB%8D%E6%9C%AA%E4%BB%98%E9%81%8B",
-    "timestamp": "2026-10-15T02:31:05.112Z",
     "strategy": ".content-card__main"
   }
 ];
