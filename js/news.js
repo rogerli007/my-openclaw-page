@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T09:46:53.977Z
+// Last updated: 2026-10-15T09:57:06.143Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "花劍世界盃｜港隊男花三將闖高松站正賽　何承謙小組賽直接晉級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187458850710622208890231.jpeg/G8RxfsD6JdJj_OByrptca_FvyMdpj02H158F-defBfk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400167/%E8%8A%B1%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E6%B8%AF%E9%9A%8A%E7%94%B7%E8%8A%B1%E4%B8%89%E5%B0%87%E9%97%96%E9%AB%98%E6%9D%BE%E7%AB%99%E6%AD%A3%E8%B3%BD-%E4%BD%95%E6%89%BF%E8%AC%99%E5%B0%8F%E7%B5%84%E8%B3%BD%E7%9B%B4%E6%8E%A5%E6%99%89%E7%B4%9A",
+    "timestamp": "2026-10-15T09:57:06.143Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "關節炎飲食｜70%長者患退化性關節炎　8類食物助預防＋5類要避免",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187281204890570752254763.jpeg/HQHrNFPqgTXdgy_uBw6ILVcrqAU8nxGJ4TSwcNs0sHA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399803/%E6%9D%B1%E6%B6%8C2%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-2%E7%94%B7%E5%85%B1%E6%90%8D%E5%A4%B1-42%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E9%8C%B6%E5%92%8C%E7%8F%BE%E9%87%91",
     "timestamp": "2026-10-14T22:31:46.949Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東涌2村屋遭連環爆竊　2男共損失$42萬財物　包括勞力士錶和現金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187281204890570752254763.jpeg/HQHrNFPqgTXdgy_uBw6ILVcrqAU8nxGJ4TSwcNs0sHA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399803/%E6%9D%B1%E6%B6%8C2%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-2%E7%94%B7%E5%85%B1%E6%90%8D%E5%A4%B1-42%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E9%8C%B6%E5%92%8C%E7%8F%BE%E9%87%91",
-    "timestamp": "2026-10-14T22:20:14.836Z",
     "strategy": ".content-card__main"
   }
 ];
