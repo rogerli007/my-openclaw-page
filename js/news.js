@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T22:53:44.645Z
+// Last updated: 2026-10-15T23:28:40.744Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國俄勒岡州小學槍擊案4死　死者包括3名兒童　16歲槍手被擊斃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187658226255007744653749.jpeg/WDAM7BdpXpXSbfEo4oLN5fBr20wdojKky1gvS8tYL0s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400261/%E7%BE%8E%E5%9C%8B%E4%BF%84%E5%8B%92%E5%B2%A1%E5%B7%9E%E5%B0%8F%E5%AD%B8%E6%A7%8D%E6%93%8A%E6%A1%884%E6%AD%BB-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC3%E5%90%8D%E5%85%92%E7%AB%A5-16%E6%AD%B2%E6%A7%8D%E6%89%8B%E8%A2%AB%E6%93%8A%E6%96%83",
+    "timestamp": "2026-10-15T23:28:40.744Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Maggie Q逾2600萬復古風豪宅曝光　私人健身房做普拉提騷火辣身材",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187403836663271424097146.jpeg/5h-oBSl7Q5YmWZv5lUe8L2ag-yphSofnHt_hDB7f4Qw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60399907/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0%E4%B8%83%E6%B5%B7%E5%BB%BA%E4%BA%BA%E8%81%B2%E5%84%AA%E9%81%ADai%E7%9B%9C%E8%81%B2-%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E%E5%91%8A%E8%B4%8F%E8%81%B2%E9%9F%B3%E6%AC%8A%E5%8D%BB%E9%9B%A3%E7%B4%A2%E8%B3%A0",
     "timestamp": "2026-10-15T16:21:38.783Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《嫁金釵》男主角閆桉是誰？韓團出道十年、頭部曾長腫瘤剃髮重生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187448918426783744152376.png/g33F1i-hKM69_4YGf4M-WsUWSeNVM4FlZ6XxoWel8aE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400078/%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B7%E4%B8%BB%E8%A7%92%E9%96%86%E6%A1%89%E6%98%AF%E8%AA%B0-%E9%9F%93%E5%9C%98%E5%87%BA%E9%81%93%E5%8D%81%E5%B9%B4-%E9%A0%AD%E9%83%A8%E6%9B%BE%E9%95%B7%E8%85%AB%E7%98%A4%E5%89%83%E9%AB%AE%E9%87%8D%E7%94%9F",
-    "timestamp": "2026-10-15T15:56:05.414Z",
     "strategy": ".content-card__main"
   }
 ];
