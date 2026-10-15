@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T20:32:56.655Z
+// Last updated: 2026-10-15T20:52:09.715Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗唐樓後樓梯雜物起火　消防撲熄　無人受傷毋須疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187614210184450048290413.jpeg/a9cRisBCtG6YhRMp7GEFuTAg7LtSR3mUn1v356Vb9-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400253/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%94%90%E6%A8%93%E5%BE%8C%E6%A8%93%E6%A2%AF%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E6%92%B2%E7%86%84-%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7%E6%AF%8B%E9%A0%88%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-10-15T20:52:09.715Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗唐樓後樓梯雜物起火　消防撲熄　無人受傷毋須疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187487228381630464290786.jpeg/rVhNMVFh8UTfgy_UMgpofRo-OI13koOGZkRuB1NEbgc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400200/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E6%9B%89%E8%8F%AF%E6%BF%80%E5%90%BB%E6%88%B2%E7%94%B1%E5%BC%B5%E6%99%BA%E9%9C%96%E8%88%87%E7%9B%A3%E8%A3%BD%E8%A6%AA%E8%BA%AB%E7%A4%BA%E7%AF%84-%E5%98%A9-%E5%92%81%E6%A8%A3%E3%97%8E",
     "timestamp": "2026-10-15T13:21:20.117Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "甄子丹大女甄濟如為巴黎世家宣傳手袋　大力支持入行激讚：好有型",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187470398741024768864379.jpeg/VTFa22QGjK-pdLQCO8LOiJ_W5Goy435H1NC4sdTQuLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400177/%E7%94%84%E5%AD%90%E4%B8%B9%E5%A4%A7%E5%A5%B3%E7%94%84%E6%BF%9F%E5%A6%82%E7%82%BA%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%AE%A3%E5%82%B3%E6%89%8B%E8%A2%8B-%E5%A4%A7%E5%8A%9B%E6%94%AF%E6%8C%81%E5%85%A5%E8%A1%8C%E6%BF%80%E8%AE%9A-%E5%A5%BD%E6%9C%89%E5%9E%8B",
-    "timestamp": "2026-10-15T12:54:58.650Z",
     "strategy": ".content-card__main"
   }
 ];
