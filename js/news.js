@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T13:47:32.216Z
+// Last updated: 2026-10-15T13:59:11.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "河套醫院10.20起裝修　明首季重開　放射診斷病人交所屬聯網跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220407/588889063324127232879052.jpeg/2v3ScNjjUbdULYFl3QUDaXbdtahLMITKIPW74CD1u-A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400208/%E6%B2%B3%E5%A5%97%E9%86%AB%E9%99%A210-20%E8%B5%B7%E8%A3%9D%E4%BF%AE-%E6%98%8E%E9%A6%96%E5%AD%A3%E9%87%8D%E9%96%8B-%E6%94%BE%E5%B0%84%E8%A8%BA%E6%96%B7%E7%97%85%E4%BA%BA%E4%BA%A4%E6%89%80%E5%B1%AC%E8%81%AF%E7%B6%B2%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-10-15T13:59:11.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "河套醫院10.20起裝修　明首季重開　放射診斷病人交所屬聯網跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187365680228339712170645.jpeg/wm5eLxIwTjTLrTIGiWSOOJHkQMs-yYwr7asv0e2rL9E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399884/%E6%9D%B1%E6%B6%8C%E5%B7%A5%E5%82%B7-%E5%AE%B6%E5%B1%AC%E8%B3%AA%E7%96%91%E6%AD%BB%E8%80%85%E9%80%A3%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%8F%B0%E5%A2%AE%E4%B8%8B-%E7%95%B6%E5%B1%80%E5%BE%9E%E6%9C%AA%E6%8F%90%E5%8F%8A-%E8%A6%81%E6%B1%82%E4%BA%A4%E4%BB%A3",
     "timestamp": "2026-10-15T03:48:17.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DeepSeek崩了！頁面顯示「伺服器暫時不可用」超1小時　官方排查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187352812904779776139850.jpeg/4b0DXgPltYnpVdP-QwYk17K7fGQbawwH7OTWEuzk1hI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60399866/deepseek%E5%B4%A9%E4%BA%86-%E9%A0%81%E9%9D%A2%E9%A1%AF%E7%A4%BA-%E4%BC%BA%E6%9C%8D%E5%99%A8%E6%9A%AB%E6%99%82%E4%B8%8D%E5%8F%AF%E7%94%A8-%E8%B6%851%E5%B0%8F%E6%99%82-%E5%AE%98%E6%96%B9%E6%8E%92%E6%9F%A5",
-    "timestamp": "2026-10-15T02:51:47.790Z",
     "strategy": ".content-card__main"
   }
 ];
