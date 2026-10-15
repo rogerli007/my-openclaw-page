@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T17:45:43.755Z
+// Last updated: 2026-10-15T17:54:21.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉錦公路村屋宿舍　48歲男恐嚇兼揮刀被捕　男同事遭割傷頸送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187576133793615872307625.jpeg/F1KDdF12aS57BBC6NoQvNcqO6e5IooNxPV5eAQdeXgE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400243/%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E6%9D%91%E5%B1%8B%E5%AE%BF%E8%88%8D-48%E6%AD%B2%E7%94%B7%E6%81%90%E5%9A%87%E5%85%BC%E6%8F%AE%E5%88%80%E8%A2%AB%E6%8D%95-%E7%94%B7%E5%90%8C%E4%BA%8B%E9%81%AD%E5%89%B2%E5%82%B7%E9%A0%B8%E9%80%81%E9%99%A2",
+    "timestamp": "2026-10-15T17:54:21.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉錦公路村屋宿舍　48歲男恐嚇兼揮刀被捕　男同事遭割傷頸送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187458850710622208890231.jpeg/G8RxfsD6JdJj_OByrptca_FvyMdpj02H158F-defBfk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400167/%E8%8A%B1%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E6%B8%AF%E9%9A%8A%E7%94%B7%E8%8A%B1%E4%B8%89%E5%B0%87%E9%97%96%E9%AB%98%E6%9D%BE%E7%AB%99%E6%AD%A3%E8%B3%BD-%E4%BD%95%E6%89%BF%E8%AC%99%E5%B0%8F%E7%B5%84%E8%B3%BD%E7%9B%B4%E6%8E%A5%E6%99%89%E7%B4%9A",
     "timestamp": "2026-10-15T09:57:06.143Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "關節炎飲食｜70%長者患退化性關節炎　8類食物助預防＋5類要避免",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187458637220548608347068.jpeg/pLDAzM8TbPS4pvgTkRayzj2pHYacjXRWb_acim_2nIo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60399574/%E9%97%9C%E7%AF%80%E7%82%8E%E9%A3%B2%E9%A3%9F-70-%E9%95%B7%E8%80%85%E6%82%A3%E9%80%80%E5%8C%96%E6%80%A7%E9%97%9C%E7%AF%80%E7%82%8E-8%E9%A1%9E%E9%A3%9F%E7%89%A9%E5%8A%A9%E9%A0%90%E9%98%B2-5%E9%A1%9E%E8%A6%81%E9%81%BF%E5%85%8D",
-    "timestamp": "2026-10-15T09:46:53.977Z",
     "strategy": ".content-card__main"
   }
 ];
