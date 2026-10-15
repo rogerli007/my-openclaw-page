@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T23:28:40.744Z
+// Last updated: 2026-10-15T23:41:17.275Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "50歲男吞嚥卡頓驚罹食道癌晚期！拆解4大隱蔽症狀與4大致病因子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184125515179495424064875.jpeg/FrBA5ZY_gZX25UQp3c_Gb62jsu4xa5p-Cz2bgAs9m4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396182/50%E6%AD%B2%E7%94%B7%E5%90%9E%E5%9A%A5%E5%8D%A1%E9%A0%93%E9%A9%9A%E7%BD%B9%E9%A3%9F%E9%81%93%E7%99%8C%E6%99%9A%E6%9C%9F-%E6%8B%86%E8%A7%A34%E5%A4%A7%E9%9A%B1%E8%94%BD%E7%97%87%E7%8B%80%E8%88%874%E5%A4%A7%E8%87%B4%E7%97%85%E5%9B%A0%E5%AD%90",
+    "timestamp": "2026-10-15T23:41:17.275Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國俄勒岡州小學槍擊案4死　死者包括3名兒童　16歲槍手被擊斃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187557849027317760924583.jpeg/1EpBsu0JsyV53VXVLNKP0ujtI8WfzfRr1ABANO4AQDQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400241/%E8%A5%BF%E7%81%A3%E6%B2%B3%E5%A5%B3%E5%AD%90%E6%8E%9F%E7%8B%97%E8%90%BD%E6%B5%B7-%E9%80%9E%E5%85%87%E5%BE%8C%E6%92%BF%E7%8A%AC%E9%80%83%E5%8E%BB-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%99%90%E7%8A%AC%E7%8B%82%E5%BE%92",
     "timestamp": "2026-10-15T16:47:05.294Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "咒術迴戰七海建人聲優遭AI盜聲 | 津田健次郎告贏聲音權卻難索賠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187403836663271424097146.jpeg/5h-oBSl7Q5YmWZv5lUe8L2ag-yphSofnHt_hDB7f4Qw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60399907/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0%E4%B8%83%E6%B5%B7%E5%BB%BA%E4%BA%BA%E8%81%B2%E5%84%AA%E9%81%ADai%E7%9B%9C%E8%81%B2-%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E%E5%91%8A%E8%B4%8F%E8%81%B2%E9%9F%B3%E6%AC%8A%E5%8D%BB%E9%9B%A3%E7%B4%A2%E8%B3%A0",
-    "timestamp": "2026-10-15T16:21:38.783Z",
     "strategy": ".content-card__main"
   }
 ];
