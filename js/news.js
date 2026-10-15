@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T19:41:04.388Z
+// Last updated: 2026-10-15T19:54:49.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公屋新婚夫揼邪骨2年│人妻：試婚紗翌日去玩多次　網民勸離婚驗身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187605995828809728243870.png/OJsm0oT2Ph5C9kOoMjmqCLXkpYj3Dp4puYR_MLmEfzA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60400213/%E5%85%AC%E5%B1%8B%E6%96%B0%E5%A9%9A%E5%A4%AB%E6%8F%BC%E9%82%AA%E9%AA%A82%E5%B9%B4-%E4%BA%BA%E5%A6%BB-%E8%A9%A6%E5%A9%9A%E7%B4%97%E7%BF%8C%E6%97%A5%E5%8E%BB%E7%8E%A9%E5%A4%9A%E6%AC%A1-%E7%B6%B2%E6%B0%91%E5%8B%B8%E9%9B%A2%E5%A9%9A%E9%A9%97%E8%BA%AB",
+    "timestamp": "2026-10-15T19:54:49.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基稱被特朗普出賣　美媒：烏克蘭已耗盡美製愛國者防空導彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187442728049315840975083.jpeg/GrOw2zBPRBGXJSv010dwxLT9Zuuz7rmoCDChqwgwoas?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400060/%E8%BE%B2%E5%A4%AB%E5%A4%A7%E8%AE%9A%E5%AE%A3%E8%90%B1%E5%B0%8Drap%E6%9C%89%E5%A4%A9%E4%BB%BD%E5%90%8C%E7%86%B1%E6%83%85-%E9%82%80%E5%94%B12026rap%E7%89%88-%E7%86%B1%E6%84%9B%E5%B3%B6",
     "timestamp": "2026-10-15T12:28:50.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳能源不服219億元工程批予涉致命意外公司　求覆核環保署決定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162379236934422528932608.jpeg/lNh-cQIYzL9qyNc_qs6nJJReca40GLwn4on_IceJ_yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400203/%E6%B7%B1%E5%9C%B3%E8%83%BD%E6%BA%90%E4%B8%8D%E6%9C%8D219%E5%84%84%E5%85%83%E5%B7%A5%E7%A8%8B%E6%89%B9%E4%BA%88%E6%B6%89%E8%87%B4%E5%91%BD%E6%84%8F%E5%A4%96%E5%85%AC%E5%8F%B8-%E6%B1%82%E8%A6%86%E6%A0%B8%E7%92%B0%E4%BF%9D%E7%BD%B2%E6%B1%BA%E5%AE%9A",
-    "timestamp": "2026-10-15T11:58:43.960Z",
     "strategy": ".content-card__main"
   }
 ];
