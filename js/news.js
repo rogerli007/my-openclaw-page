@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T17:54:21.793Z
+// Last updated: 2026-10-15T18:23:54.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本奇葩桑拿讓大人重新當BB　入子宮、浸嬰兒浴　還可躺媽媽懷抱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187371403104489472963482.png/KUykfxzO9W4-vA3ILyZgcE3SG_RcjU3GkQfX_ZEH1_0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399831/%E6%97%A5%E6%9C%AC%E5%A5%87%E8%91%A9%E6%A1%91%E6%8B%BF%E8%AE%93%E5%A4%A7%E4%BA%BA%E9%87%8D%E6%96%B0%E7%95%B6bb-%E5%85%A5%E5%AD%90%E5%AE%AE-%E6%B5%B8%E5%AC%B0%E5%85%92%E6%B5%B4-%E9%82%84%E5%8F%AF%E8%BA%BA%E5%AA%BD%E5%AA%BD%E6%87%B7%E6%8A%B1",
+    "timestamp": "2026-10-15T18:23:54.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉錦公路村屋宿舍　48歲男恐嚇兼揮刀被捕　男同事遭割傷頸送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167500889791926272854970.png/1QONPl9N2Bj7mZYP0qc5w5SGsFELWNJyhdNZ04XTWdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399705/%E8%82%96%E6%88%B0%E4%B8%8A%E6%B5%B7%E5%8D%97%E4%BA%AC%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83-500%E8%90%AC%E4%BA%BA%E6%90%B62%E8%90%AC%E5%BC%B5%E9%A3%9B-%E9%BB%83%E7%89%9B%E7%A5%A8%E6%BC%B21%E8%90%AC%E9%85%92%E5%BA%97%E6%90%B6%E5%85%89",
     "timestamp": "2026-10-15T10:20:37.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "花劍世界盃｜港隊男花三將闖高松站正賽　何承謙小組賽直接晉級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187458850710622208890231.jpeg/G8RxfsD6JdJj_OByrptca_FvyMdpj02H158F-defBfk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400167/%E8%8A%B1%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E6%B8%AF%E9%9A%8A%E7%94%B7%E8%8A%B1%E4%B8%89%E5%B0%87%E9%97%96%E9%AB%98%E6%9D%BE%E7%AB%99%E6%AD%A3%E8%B3%BD-%E4%BD%95%E6%89%BF%E8%AC%99%E5%B0%8F%E7%B5%84%E8%B3%BD%E7%9B%B4%E6%8E%A5%E6%99%89%E7%B4%9A",
-    "timestamp": "2026-10-15T09:57:06.143Z",
     "strategy": ".content-card__main"
   }
 ];
