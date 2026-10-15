@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T18:51:51.668Z
+// Last updated: 2026-10-15T19:16:52.016Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石硤尾邨垃圾收集站起火　消防迅速撲熄火勢　40人疏散｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187587007623204864785403.jpeg/vJkPBJ3gorT7kgqixXQKA8wjR-MzLOYxw7EZs8OxGbM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400245/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E7%AB%99%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%BF%85%E9%80%9F%E6%92%B2%E7%86%84%E7%81%AB%E5%8B%A2-40%E4%BA%BA%E7%96%8F%E6%95%A3-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-15T19:16:52.016Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石硤尾邨垃圾收集站起火　消防迅速撲熄火勢　40人疏散｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187389579754213376056217.jpeg/IHvP19e2LDnM8M34Z39_ruGvXdLuxL-AxrKf3cayn90?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400097/%E5%B9%BC%E7%A8%9A%E5%9C%92%E6%A6%82%E8%A6%BD-%E6%96%B0%E5%AD%B8%E5%B9%B4%E5%B0%91%E7%B4%8440%E6%A0%A1-%E9%83%A8%E4%BB%BD%E6%9B%B8%E7%B0%BF%E8%B2%BB%E5%8A%A0%E5%83%B9-%E6%9C%89%E9%9B%9C%E8%B2%BB%E4%B8%80%E5%B9%B4%E9%80%BE%E8%90%AC%E5%85%83",
     "timestamp": "2026-10-15T11:33:37.299Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李兆熊離世｜余安安憶昔日合作深感難過：好唔開心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187476311304572928058726.jpeg/e3ep0u9ReZgtyoan_nl66vuqIZkxmOJIIdRK1BfUStQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400188/%E6%9D%8E%E5%85%86%E7%86%8A%E9%9B%A2%E4%B8%96-%E4%BD%99%E5%AE%89%E5%AE%89%E6%86%B6%E6%98%94%E6%97%A5%E5%90%88%E4%BD%9C%E6%B7%B1%E6%84%9F%E9%9B%A3%E9%81%8E-%E5%A5%BD%E5%94%94%E9%96%8B%E5%BF%83",
-    "timestamp": "2026-10-15T11:19:07.127Z",
     "strategy": ".content-card__main"
   }
 ];
