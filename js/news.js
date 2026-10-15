@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-14T23:54:22.466Z
+// Last updated: 2026-10-15T00:44:14.365Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜前舍監爆學生宿舍騙局　負責人拒回應職員發爛渣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187175720829325312047956.jpeg/kPJBnOUmO4a1wRoymRAiIuF7Hk3ah5PqwnMUmMJzFJg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399769/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%89%8D%E8%88%8D%E7%9B%A3%E7%88%86%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D%E9%A8%99%E5%B1%80-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E6%8B%92%E5%9B%9E%E6%87%89%E8%81%B7%E5%93%A1%E7%99%BC%E7%88%9B%E6%B8%A3",
+    "timestamp": "2026-10-15T00:44:14.365Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜陳曉華淪為張智霖卑微情婦絕望自殺　網民不滿太早死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185586569810022400485970.jpeg/xfnTaTFz_eE_Z01mh2W8rLBgMqPoZtilMyX_XjMl_14?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399782/%E7%B2%B5%E8%89%87%E5%8D%97%E4%B8%8B-%E5%8D%B3%E6%97%A5%E9%96%8B%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AB%8B-%E6%9C%80%E6%97%A9%E5%88%B0%E6%B8%AF%E5%89%8D30%E6%97%A5%E5%8F%AF%E8%BE%A6%E8%B7%A8%E5%A2%83%E6%89%8B%E7%BA%8C",
     "timestamp": "2026-10-14T17:33:34.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粵艇南下｜即日開始接受申請　最早到港前30日可辦跨境手續",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185586569810022400485970.jpeg/xfnTaTFz_eE_Z01mh2W8rLBgMqPoZtilMyX_XjMl_14?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399782/%E7%B2%B5%E8%89%87%E5%8D%97%E4%B8%8B-%E5%8D%B3%E6%97%A5%E9%96%8B%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AB%8B-%E6%9C%80%E6%97%A9%E5%88%B0%E6%B8%AF%E5%89%8D30%E6%97%A5%E5%8F%AF%E8%BE%A6%E8%B7%A8%E5%A2%83%E6%89%8B%E7%BA%8C",
-    "timestamp": "2026-10-14T16:58:15.006Z",
     "strategy": ".content-card__main"
   }
 ];
