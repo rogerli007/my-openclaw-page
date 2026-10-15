@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T05:57:12.612Z
+// Last updated: 2026-10-15T06:33:03.807Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警搗尖沙咀住宅毒窟　家品電器藏$600萬氯胺酮　內地漢涉販毒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187400225438830592140635.jpeg/rIAAtS3Bhb2maOgvyDmO1KF3y2WTrs00se7WJ7Hu1ic?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399977/%E8%AD%A6%E6%90%97%E5%B0%96%E6%B2%99%E5%92%80%E4%BD%8F%E5%AE%85%E6%AF%92%E7%AA%9F-%E5%AE%B6%E5%93%81%E9%9B%BB%E5%99%A8%E8%97%8F-600%E8%90%AC%E6%B0%AF%E8%83%BA%E9%85%AE-%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-15T06:33:03.807Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金智媛《Doctor X》惹韓國醫護不滿　轟將醫生妖魔化兼多處失實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5db013cb23ab170deb412119.jpg/OiVW1B-hch7EieCw76X8j_7U2K3Qgvh55XvKl-V7ypc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60399801/%E8%B2%BB%E5%9F%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%8C%87%E6%95%B8%E7%80%89%E9%80%BE4-%E9%80%A3%E8%B7%8C%E5%85%AD%E5%A4%A9-%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E9%80%BE%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-10-14T21:35:27.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國晶片股跌勢加劇　合計市值或蒸發逾1萬億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5db013cb23ab170deb412119.jpg/OiVW1B-hch7EieCw76X8j_7U2K3Qgvh55XvKl-V7ypc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60399801/%E7%BE%8E%E5%9C%8B%E6%99%B6%E7%89%87%E8%82%A1%E8%B7%8C%E5%8B%A2%E5%8A%A0%E5%8A%87-%E5%90%88%E8%A8%88%E5%B8%82%E5%80%BC%E6%88%96%E8%92%B8%E7%99%BC%E9%80%BE1%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-10-14T21:18:48.984Z",
     "strategy": ".content-card__main"
   }
 ];
