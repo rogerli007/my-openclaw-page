@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T02:31:05.112Z
+// Last updated: 2026-10-15T02:51:47.790Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DeepSeek崩了！頁面顯示「伺服器暫時不可用」超1小時　官方排查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187352812904779776139850.jpeg/4b0DXgPltYnpVdP-QwYk17K7fGQbawwH7OTWEuzk1hI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60399866/deepseek%E5%B4%A9%E4%BA%86-%E9%A0%81%E9%9D%A2%E9%A1%AF%E7%A4%BA-%E4%BC%BA%E6%9C%8D%E5%99%A8%E6%9A%AB%E6%99%82%E4%B8%8D%E5%8F%AF%E7%94%A8-%E8%B6%851%E5%B0%8F%E6%99%82-%E5%AE%98%E6%96%B9%E6%8E%92%E6%9F%A5",
+    "timestamp": "2026-10-15T02:51:47.790Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會搬屋投訴｜移民澳洲花2.8萬「併櫃」搬家　逾兩月仍未付運",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187214594033061888697248.jpeg/vPfkGUDCmmWm9S3xhWiE1exmEY_OHNkUYfyS2mH8kto?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399783/%E5%85%A8%E7%90%83%E9%A6%96%E8%89%98jetfoil%E5%99%B4%E5%B0%84%E8%88%B9-%E6%B0%B4%E6%98%9F-%E6%81%90%E8%A2%AB%E6%8B%86%E8%A7%A3-%E9%97%9C%E6%B3%A8%E7%B5%84%E6%99%82%E9%9A%946%E8%BC%89%E5%86%8D%E7%B1%B2%E4%BF%9D%E7%95%99",
     "timestamp": "2026-10-14T18:24:22.947Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彌敦道男子馬路狂奔　共5人站燈位影相　目擊者：影巴士｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187208281722982400604389.jpeg/4hav-FG2MuL4m5aGcYGqtMLePCu2HP4hVn7GQFZ-xkA",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399781/%E5%BD%8C%E6%95%A6%E9%81%93%E7%94%B7%E5%AD%90%E9%A6%AC%E8%B7%AF%E7%8B%82%E5%A5%94-%E5%85%B15%E4%BA%BA%E7%AB%99%E7%87%88%E4%BD%8D%E5%BD%B1%E7%9B%B8-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%BD%B1%E5%B7%B4%E5%A3%AB-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-14T17:57:02.079Z",
     "strategy": ".content-card__main"
   }
 ];
