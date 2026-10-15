@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T02:01:11.475Z
+// Last updated: 2026-10-15T02:31:05.112Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會搬屋投訴｜移民澳洲花2.8萬「併櫃」搬家　逾兩月仍未付運",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1371820/org/ec0a1cdef080641e7f521b1f1e04c2ae.jpg/dtmE4ZPMkzh6Btf5dOo99YDgoJyQAlZgWSpZAlkqWQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399849/%E6%B6%88%E5%A7%94%E6%9C%83%E6%90%AC%E5%B1%8B%E6%8A%95%E8%A8%B4-%E7%A7%BB%E6%B0%91%E6%BE%B3%E6%B4%B2%E8%8A%B12-8%E8%90%AC-%E4%BD%B5%E6%AB%83-%E6%90%AC%E5%AE%B6-%E9%80%BE%E5%85%A9%E6%9C%88%E4%BB%8D%E6%9C%AA%E4%BB%98%E9%81%8B",
+    "timestamp": "2026-10-15T02:31:05.112Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭晉安父子現身倫敦街頭 郭令山苦練法國號 入讀英國皇家音樂學院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187208281722982400604389.jpeg/4hav-FG2MuL4m5aGcYGqtMLePCu2HP4hVn7GQFZ-xkA",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399781/%E5%BD%8C%E6%95%A6%E9%81%93%E7%94%B7%E5%AD%90%E9%A6%AC%E8%B7%AF%E7%8B%82%E5%A5%94-%E5%85%B15%E4%BA%BA%E7%AB%99%E7%87%88%E4%BD%8D%E5%BD%B1%E7%9B%B8-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%BD%B1%E5%B7%B4%E5%A3%AB-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-14T17:57:02.079Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彌敦道男子馬路狂奔　共5人站燈位影相　目擊者：影巴士｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187208281722982400604389.jpeg/4hav-FG2MuL4m5aGcYGqtMLePCu2HP4hVn7GQFZ-xkA",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399781/%E5%BD%8C%E6%95%A6%E9%81%93%E7%94%B7%E5%AD%90%E9%A6%AC%E8%B7%AF%E7%8B%82%E5%A5%94-%E5%85%B15%E4%BA%BA%E7%AB%99%E7%87%88%E4%BD%8D%E5%BD%B1%E7%9B%B8-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%BD%B1%E5%B7%B4%E5%A3%AB-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-14T17:50:20.162Z",
     "strategy": ".content-card__main"
   }
 ];
