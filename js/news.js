@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T00:44:14.365Z
+// Last updated: 2026-10-15T02:01:11.475Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭晉安父子現身倫敦街頭 郭令山苦練法國號 入讀英國皇家音樂學院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187332358785732608864920.jpeg/bd7b8bcz32p8nmEvgYtWghYGAHG3moQ3hSq5CoUquQo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60399812/%E9%83%AD%E6%99%89%E5%AE%89%E7%88%B6%E5%AD%90%E7%8F%BE%E8%BA%AB%E5%80%AB%E6%95%A6%E8%A1%97%E9%A0%AD-%E9%83%AD%E4%BB%A4%E5%B1%B1%E8%8B%A6%E7%B7%B4%E6%B3%95%E5%9C%8B%E8%99%9F-%E5%85%A5%E8%AE%80%E8%8B%B1%E5%9C%8B%E7%9A%87%E5%AE%B6%E9%9F%B3%E6%A8%82%E5%AD%B8%E9%99%A2",
+    "timestamp": "2026-10-15T02:01:11.475Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜前舍監爆學生宿舍騙局　負責人拒回應職員發爛渣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187208281722982400604389.jpeg/4hav-FG2MuL4m5aGcYGqtMLePCu2HP4hVn7GQFZ-xkA",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399781/%E5%BD%8C%E6%95%A6%E9%81%93%E7%94%B7%E5%AD%90%E9%A6%AC%E8%B7%AF%E7%8B%82%E5%A5%94-%E5%85%B15%E4%BA%BA%E7%AB%99%E7%87%88%E4%BD%8D%E5%BD%B1%E7%9B%B8-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%BD%B1%E5%B7%B4%E5%A3%AB-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-14T17:50:20.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粵艇南下｜即日開始接受申請　最早到港前30日可辦跨境手續",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185586569810022400485970.jpeg/xfnTaTFz_eE_Z01mh2W8rLBgMqPoZtilMyX_XjMl_14?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399782/%E7%B2%B5%E8%89%87%E5%8D%97%E4%B8%8B-%E5%8D%B3%E6%97%A5%E9%96%8B%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AB%8B-%E6%9C%80%E6%97%A9%E5%88%B0%E6%B8%AF%E5%89%8D30%E6%97%A5%E5%8F%AF%E8%BE%A6%E8%B7%A8%E5%A2%83%E6%89%8B%E7%BA%8C",
-    "timestamp": "2026-10-14T17:33:34.513Z",
     "strategy": ".content-card__main"
   }
 ];
