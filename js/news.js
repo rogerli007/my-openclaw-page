@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T07:27:38.170Z
+// Last updated: 2026-10-15T08:29:09.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡道庇利街爆鹹水管路陷　有巴士後輪一度被困　部分路線須改道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187436182028423168563814.jpeg/eezLX9oHu16hE7kQTCizJvwJkPrIdADsvhc9Q74XPUM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400082/%E7%B4%85%E7%A3%A1%E9%81%93%E5%BA%87%E5%88%A9%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1%E8%B7%AF%E9%99%B7-%E6%9C%89%E5%B7%B4%E5%A3%AB%E5%BE%8C%E8%BC%AA%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E9%83%A8%E5%88%86%E8%B7%AF%E7%B7%9A%E9%A0%88%E6%94%B9%E9%81%93",
+    "timestamp": "2026-10-15T08:29:09.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀碼頭兩婦互毆　一人遭撳地打頭腳踢　外籍勇男勸阻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187275876895559680761309.png/qAyQHnIrZb2MpUyUWyJBOuBP-cc_bua5Mof0PjKH9D4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399802/%E4%BC%8A%E6%9C%9723%E6%AD%B2%E5%A5%B3%E8%A2%AB%E6%8C%87%E7%B6%B2%E4%B8%8A%E7%99%BC%E6%96%87-%E4%BE%AE%E8%BE%B1%E5%85%88%E7%9F%A5-%E5%88%A4%E6%AD%BB%E5%88%91-%E6%9B%BE%E5%8F%83%E8%88%87%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81",
     "timestamp": "2026-10-14T21:59:37.449Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩艘新加坡籍船隻在霍爾木茲海峽遇襲　其中一艘起火後沉沒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166759238358274048412657.jpeg/p8GqOQ92r9AsLdKaBpP5RQK8SDg9mQa7TPsp7Uz7Ke0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60399799/%E5%85%A9%E8%89%98%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%B1%8D%E8%88%B9%E9%9A%BB%E5%9C%A8%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%87%E8%A5%B2-%E5%85%B6%E4%B8%AD%E4%B8%80%E8%89%98%E8%B5%B7%E7%81%AB%E5%BE%8C%E6%B2%89%E6%B2%92",
-    "timestamp": "2026-10-14T21:44:32.119Z",
     "strategy": ".content-card__main"
   }
 ];
