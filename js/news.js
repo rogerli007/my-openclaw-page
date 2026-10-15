@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T16:21:38.783Z
+// Last updated: 2026-10-15T16:47:05.294Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西灣河女子掟狗落海　逞兇後撿犬逃去　警追緝虐犬狂徒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187557849027317760924583.jpeg/1EpBsu0JsyV53VXVLNKP0ujtI8WfzfRr1ABANO4AQDQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400241/%E8%A5%BF%E7%81%A3%E6%B2%B3%E5%A5%B3%E5%AD%90%E6%8E%9F%E7%8B%97%E8%90%BD%E6%B5%B7-%E9%80%9E%E5%85%87%E5%BE%8C%E6%92%BF%E7%8A%AC%E9%80%83%E5%8E%BB-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%99%90%E7%8A%AC%E7%8B%82%E5%BE%92",
+    "timestamp": "2026-10-15T16:47:05.294Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "咒術迴戰七海建人聲優遭AI盜聲 | 津田健次郎告贏聲音權卻難索賠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187400225438830592140635.jpeg/rIAAtS3Bhb2maOgvyDmO1KF3y2WTrs00se7WJ7Hu1ic?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399977/%E8%AD%A6%E6%90%97%E5%B0%96%E6%B2%99%E5%92%80%E4%BD%8F%E5%AE%85%E6%AF%92%E7%AA%9F-%E5%AE%B6%E5%93%81%E9%9B%BB%E5%99%A8%E8%97%8F-600%E8%90%AC%E6%B0%AF%E8%83%BA%E9%85%AE-%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-15T06:33:03.807Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金智媛《Doctor X》惹韓國醫護不滿　轟將醫生妖魔化兼多處失實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187359183431798784817524.png/OtrDuTS_ZKXWPr3L1TOfcGwyoQ-U2RiUjCs8AowrPAI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399827/%E9%87%91%E6%99%BA%E5%AA%9B-doctor-x-%E6%83%B9%E9%9F%93%E5%9C%8B%E9%86%AB%E8%AD%B7%E4%B8%8D%E6%BB%BF-%E8%BD%9F%E5%B0%87%E9%86%AB%E7%94%9F%E5%A6%96%E9%AD%94%E5%8C%96%E5%85%BC%E5%A4%9A%E8%99%95%E5%A4%B1%E5%AF%A6",
-    "timestamp": "2026-10-15T05:57:12.612Z",
     "strategy": ".content-card__main"
   }
 ];
