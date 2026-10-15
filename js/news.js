@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T10:20:37.188Z
+// Last updated: 2026-10-15T11:19:07.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李兆熊離世｜余安安憶昔日合作深感難過：好唔開心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187476311304572928058726.jpeg/e3ep0u9ReZgtyoan_nl66vuqIZkxmOJIIdRK1BfUStQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400188/%E6%9D%8E%E5%85%86%E7%86%8A%E9%9B%A2%E4%B8%96-%E4%BD%99%E5%AE%89%E5%AE%89%E6%86%B6%E6%98%94%E6%97%A5%E5%90%88%E4%BD%9C%E6%B7%B1%E6%84%9F%E9%9B%A3%E9%81%8E-%E5%A5%BD%E5%94%94%E9%96%8B%E5%BF%83",
+    "timestamp": "2026-10-15T11:19:07.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肖戰上海南京開演唱會　500萬人搶2萬張飛！黃牛票漲1萬酒店搶光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187221943225421824685390.jpeg/hWAL0nHVBX18o2I85gMfFboO4_m0xrBLeM4qunjOKro?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60399390/%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%80%BE9%E6%88%907%E6%AD%B2%E4%BB%A5%E4%B8%8A%E5%AD%B8%E7%AB%A5%E6%9C%89%E8%84%8A%E9%AA%A8%E5%95%8F%E9%A1%8C-%E5%AF%92%E8%83%8C-%E7%83%8F%E9%BE%9C%E9%A0%B8%E9%95%B7%E7%94%A8%E5%B1%8F%E5%B9%95%E6%88%90%E5%85%83%E5%85%87",
     "timestamp": "2026-10-14T23:30:44.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿嬌鍾欣潼用近3萬元LV袋作愛犬出行包　網民：狗用的我都用不起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187116378419630080521037.jpeg/9NbSLf1H4FfR9zgAezWAvF-S0X_GhzE148fvMePH7zE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399643/%E9%98%BF%E5%AC%8C%E9%8D%BE%E6%AC%A3%E6%BD%BC%E7%94%A8%E8%BF%913%E8%90%AC%E5%85%83lv%E8%A2%8B%E4%BD%9C%E6%84%9B%E7%8A%AC%E5%87%BA%E8%A1%8C%E5%8C%85-%E7%B6%B2%E6%B0%91-%E7%8B%97%E7%94%A8%E7%9A%84%E6%88%91%E9%83%BD%E7%94%A8%E4%B8%8D%E8%B5%B7",
-    "timestamp": "2026-10-14T22:45:16.134Z",
     "strategy": ".content-card__main"
   }
 ];
