@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T15:46:22.351Z
+// Last updated: 2026-10-15T15:56:05.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《嫁金釵》男主角閆桉是誰？韓團出道十年、頭部曾長腫瘤剃髮重生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187448918426783744152376.png/g33F1i-hKM69_4YGf4M-WsUWSeNVM4FlZ6XxoWel8aE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400078/%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B7%E4%B8%BB%E8%A7%92%E9%96%86%E6%A1%89%E6%98%AF%E8%AA%B0-%E9%9F%93%E5%9C%98%E5%87%BA%E9%81%93%E5%8D%81%E5%B9%B4-%E9%A0%AD%E9%83%A8%E6%9B%BE%E9%95%B7%E8%85%AB%E7%98%A4%E5%89%83%E9%AB%AE%E9%87%8D%E7%94%9F",
+    "timestamp": "2026-10-15T15:56:05.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯換𨋢嚴重違規　房委會：僅涉兩屋邨　富亨邨未批合約暫緩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187390264897966080978461.jpeg/v1E1Wd8ak2ObAmmgFdTAF3rwX0BrGuYJLLtV6Sy7Vek?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60399968/%E6%85%B3%E8%A3%9D%E4%BF%AE%E8%B2%BB%E5%85%BC%E7%95%80%E7%99%BE%E5%85%83%E5%8D%B0%E8%8A%B1%E7%A8%85-%E9%A6%96%E7%BD%AE%E5%AE%A2%E5%9F%B7%E5%B9%B3%E8%B2%A8-%E6%93%B2400%E8%90%AC%E8%B2%B7%E5%B1%AF%E9%96%80%E8%8F%AF%E9%83%BD%E8%8A%B1%E5%9C%92",
     "timestamp": "2026-10-15T05:45:36.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菠蘿油日10.24回歸！46間餐廳堂食送4,600個菠蘿油　附分店名單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187383063231860736509317.png/PfjjpG1euhYVtv4amhVL5iNMXS_OuY8m5ZGJNOWRiTQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60399880/%E8%8F%A0%E8%98%BF%E6%B2%B9%E6%97%A510-24%E5%9B%9E%E6%AD%B8-46%E9%96%93%E9%A4%90%E5%BB%B3%E5%A0%82%E9%A3%9F%E9%80%814-600%E5%80%8B%E8%8F%A0%E8%98%BF%E6%B2%B9-%E9%99%84%E5%88%86%E5%BA%97%E5%90%8D%E5%96%AE",
-    "timestamp": "2026-10-15T04:46:56.415Z",
     "strategy": ".content-card__main"
   }
 ];
