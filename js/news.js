@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T13:59:11.731Z
+// Last updated: 2026-10-15T14:21:37.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘繞道3車相撞　私家車司機一度被困　往油塘方向全線封閉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187527424347213824502391.jpeg/9PpaMHo4ATWjKAJhEea2Ku3-Fr8aLzjC0RtcctEbXHI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400228/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E5%BE%80%E6%B2%B9%E5%A1%98%E6%96%B9%E5%90%91%E5%85%A8%E7%B7%9A%E5%B0%81%E9%96%89",
+    "timestamp": "2026-10-15T14:21:37.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "河套醫院10.20起裝修　明首季重開　放射診斷病人交所屬聯網跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187369492036980736970465.png/WDQs5SQBwndVH9bnHd-LMldbKR_ls2pW_BbFU_wWxVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60399708/%E9%95%B7%E8%80%85%E5%85%8D%E8%B2%BB%E6%B4%BB%E5%8B%95%E7%8F%AD8%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E6%8F%92%E8%8A%B1-%E5%85%AB%E6%AE%B5%E9%8C%A6-%E7%91%9C%E4%BC%BD-%E5%8C%B9%E5%85%8B%E7%90%83-%E9%99%84%E5%A0%B1%E5%90%8D%E6%96%B9%E6%B3%95",
     "timestamp": "2026-10-15T03:59:10.750Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東涌工傷︱家屬質疑死者連工作平台墮下　當局從未提及　要求交代",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187365680228339712170645.jpeg/wm5eLxIwTjTLrTIGiWSOOJHkQMs-yYwr7asv0e2rL9E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399884/%E6%9D%B1%E6%B6%8C%E5%B7%A5%E5%82%B7-%E5%AE%B6%E5%B1%AC%E8%B3%AA%E7%96%91%E6%AD%BB%E8%80%85%E9%80%A3%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%8F%B0%E5%A2%AE%E4%B8%8B-%E7%95%B6%E5%B1%80%E5%BE%9E%E6%9C%AA%E6%8F%90%E5%8F%8A-%E8%A6%81%E6%B1%82%E4%BA%A4%E4%BB%A3",
-    "timestamp": "2026-10-15T03:48:17.450Z",
     "strategy": ".content-card__main"
   }
 ];
