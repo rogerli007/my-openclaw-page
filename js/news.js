@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T09:57:06.143Z
+// Last updated: 2026-10-15T10:20:37.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肖戰上海南京開演唱會　500萬人搶2萬張飛！黃牛票漲1萬酒店搶光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260821/1167500889791926272854970.png/1QONPl9N2Bj7mZYP0qc5w5SGsFELWNJyhdNZ04XTWdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399705/%E8%82%96%E6%88%B0%E4%B8%8A%E6%B5%B7%E5%8D%97%E4%BA%AC%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83-500%E8%90%AC%E4%BA%BA%E6%90%B62%E8%90%AC%E5%BC%B5%E9%A3%9B-%E9%BB%83%E7%89%9B%E7%A5%A8%E6%BC%B21%E8%90%AC%E9%85%92%E5%BA%97%E6%90%B6%E5%85%89",
+    "timestamp": "2026-10-15T10:20:37.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "花劍世界盃｜港隊男花三將闖高松站正賽　何承謙小組賽直接晉級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187116378419630080521037.jpeg/9NbSLf1H4FfR9zgAezWAvF-S0X_GhzE148fvMePH7zE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399643/%E9%98%BF%E5%AC%8C%E9%8D%BE%E6%AC%A3%E6%BD%BC%E7%94%A8%E8%BF%913%E8%90%AC%E5%85%83lv%E8%A2%8B%E4%BD%9C%E6%84%9B%E7%8A%AC%E5%87%BA%E8%A1%8C%E5%8C%85-%E7%B6%B2%E6%B0%91-%E7%8B%97%E7%94%A8%E7%9A%84%E6%88%91%E9%83%BD%E7%94%A8%E4%B8%8D%E8%B5%B7",
     "timestamp": "2026-10-14T22:45:16.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東涌2村屋遭連環爆竊　2男共損失$42萬財物　包括勞力士錶和現金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187281204890570752254763.jpeg/HQHrNFPqgTXdgy_uBw6ILVcrqAU8nxGJ4TSwcNs0sHA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60399803/%E6%9D%B1%E6%B6%8C2%E6%9D%91%E5%B1%8B%E9%81%AD%E9%80%A3%E7%92%B0%E7%88%86%E7%AB%8A-2%E7%94%B7%E5%85%B1%E6%90%8D%E5%A4%B1-42%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E9%8C%B6%E5%92%8C%E7%8F%BE%E9%87%91",
-    "timestamp": "2026-10-14T22:31:46.949Z",
     "strategy": ".content-card__main"
   }
 ];
