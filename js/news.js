@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T21:55:16.798Z
+// Last updated: 2026-10-15T22:19:21.227Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "唐文龍獨自用餐卻被路人拍片打擾　黑面半秒鐘瞬間擠出笑容應對",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187470919841353728569471.jpeg/ncJDfZn90aY-ELgypwjUzVTJraGFO2uYEnAwoRJwMKE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400062/%E5%94%90%E6%96%87%E9%BE%8D%E7%8D%A8%E8%87%AA%E7%94%A8%E9%A4%90%E5%8D%BB%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%8B%8D%E7%89%87%E6%89%93%E6%93%BE-%E9%BB%91%E9%9D%A2%E5%8D%8A%E7%A7%92%E9%90%98%E7%9E%AC%E9%96%93%E6%93%A0%E5%87%BA%E7%AC%91%E5%AE%B9%E6%87%89%E5%B0%8D",
+    "timestamp": "2026-10-15T22:19:21.227Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈里梅根返英後首一同公開亮相　赴諾丁漢食物銀行親自下廚｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187534155064283136178653.png/z0MjtooGEafrP19lcJ0p1a_rxVNTb4PTomfLMKJnyzA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60400129/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E5%8F%B0%E7%81%A3%E8%B2%A1%E6%94%BF%E9%83%A8%E9%95%B7%E4%B8%8B%E5%91%A8%E5%B0%87%E8%B5%B4%E9%A6%99%E6%B8%AF%E5%8F%83%E5%8A%A0apec",
     "timestamp": "2026-10-15T14:56:00.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘繞道3車相撞　私家車司機一度被困　往油塘方向全線封閉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187527424347213824502391.jpeg/9PpaMHo4ATWjKAJhEea2Ku3-Fr8aLzjC0RtcctEbXHI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400228/%E8%A7%80%E5%A1%98%E7%B9%9E%E9%81%933%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E5%BE%80%E6%B2%B9%E5%A1%98%E6%96%B9%E5%90%91%E5%85%A8%E7%B7%9A%E5%B0%81%E9%96%89",
-    "timestamp": "2026-10-15T14:21:37.755Z",
     "strategy": ".content-card__main"
   }
 ];
