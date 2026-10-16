@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T03:49:13.604Z
+// Last updated: 2026-10-16T03:58:54.760Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Tesla第二代Roadster誕生！「飛起來」示範騰空翻滾+0.81秒破百",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187733073622470656508971.jpeg/Ka916QIg8pbsPPMSo68DBJpI-dZI9OTU2gOKodoDiqE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60400318/tesla%E7%AC%AC%E4%BA%8C%E4%BB%A3roadster%E8%AA%95%E7%94%9F-%E9%A3%9B%E8%B5%B7%E4%BE%86-%E7%A4%BA%E7%AF%84%E9%A8%B0%E7%A9%BA%E7%BF%BB%E6%BB%BE-0-81%E7%A7%92%E7%A0%B4%E7%99%BE",
+    "timestamp": "2026-10-16T03:58:54.760Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八達通卡30周年商戰｜領先20年遭二維碼挑戰　逆襲反攻中日336城",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187587007623204864785403.jpeg/vJkPBJ3gorT7kgqixXQKA8wjR-MzLOYxw7EZs8OxGbM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400245/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E7%AB%99%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%BF%85%E9%80%9F%E6%92%B2%E7%86%84%E7%81%AB%E5%8B%A2-40%E4%BA%BA%E7%96%8F%E6%95%A3-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-15T18:51:51.668Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本奇葩桑拿讓大人重新當BB　入子宮、浸嬰兒浴　還可躺媽媽懷抱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187371403104489472963482.png/KUykfxzO9W4-vA3ILyZgcE3SG_RcjU3GkQfX_ZEH1_0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399831/%E6%97%A5%E6%9C%AC%E5%A5%87%E8%91%A9%E6%A1%91%E6%8B%BF%E8%AE%93%E5%A4%A7%E4%BA%BA%E9%87%8D%E6%96%B0%E7%95%B6bb-%E5%85%A5%E5%AD%90%E5%AE%AE-%E6%B5%B8%E5%AC%B0%E5%85%92%E6%B5%B4-%E9%82%84%E5%8F%AF%E8%BA%BA%E5%AA%BD%E5%AA%BD%E6%87%B7%E6%8A%B1",
-    "timestamp": "2026-10-15T18:23:54.452Z",
     "strategy": ".content-card__main"
   }
 ];
