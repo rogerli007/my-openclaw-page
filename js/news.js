@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T16:21:24.463Z
+// Last updated: 2026-10-16T16:45:05.437Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警大埔搗破非法賭檔　檢獲電動麻雀枱及賭具　17男女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187922839450161152583410.jpeg/dUdHaJCHmT0hbH6uWhjZWuhBG8IeAqGeGJH7VhiR-1Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400652/%E8%AD%A6%E5%A4%A7%E5%9F%94%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%AA%A2%E7%8D%B2%E9%9B%BB%E5%8B%95%E9%BA%BB%E9%9B%80%E6%9E%B1%E5%8F%8A%E8%B3%AD%E5%85%B7-17%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-16T16:45:05.437Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角夾公仔店2股東鬧翻　約同黨擅取$19萬公仔　1股東涉盜竊被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187814071945138176315792.png/3vjXcE-acehatnF1zW0oe6_nwlSIxxsrXvlGGl75Rho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400505/%E7%BE%8E%E5%9C%8B%E7%83%8F%E5%85%8B%E8%98%AD%E7%88%86%E7%88%AD%E6%8B%97-%E8%8B%B1%E5%9C%8B%E9%98%B2%E7%9B%B8%E7%B1%B2%E6%8F%B4%E7%83%8F-%E7%8D%B2%E7%BE%8E%E6%96%B9%E4%BF%9D%E8%AD%89%E6%81%A2%E5%BE%A9-%E6%98%9F%E9%8F%88-%E6%9C%8D%E5%8B%99",
     "timestamp": "2026-10-16T09:25:16.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo蘋果首款摺疊手機開訂！入手價$17499　網民：智商稅？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187800978762502144095817.png/gMH8yaeenRXDvCXTaOuYx3m6raZwSBNlV7N8LFezfCw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400453/iphone-duo%E8%98%8B%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%91%BA%E7%96%8A%E6%89%8B%E6%A9%9F%E9%96%8B%E8%A8%82-%E5%85%A5%E6%89%8B%E5%83%B9-17499-%E7%B6%B2%E6%B0%91-%E6%99%BA%E5%95%86%E7%A8%85",
-    "timestamp": "2026-10-16T09:00:45.217Z",
     "strategy": ".content-card__main"
   }
 ];
