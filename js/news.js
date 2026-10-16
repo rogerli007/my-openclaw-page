@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T17:30:11.779Z
+// Last updated: 2026-10-16T17:42:22.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
+    "timestamp": "2026-10-16T17:42:22.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187824980407095296426093.jpeg/rCYObGkZZaKjbWvct_ZTqcSc_7lBEOWxK-aZoivmmaI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400559/%E5%A5%B3%E7%A5%9E2-%E4%BD%95%E6%B2%9B%E7%8F%88%E4%BF%9E%E5%8F%AF%E7%A8%8Boscar%E4%B8%89%E4%BA%BA%E5%90%8C%E8%BB%8A%E4%BF%AE%E7%BE%85%E5%A0%B4-%E5%91%B7%E9%86%8B%E5%8F%8D%E6%93%A6%E5%87%BA%E7%81%AB%E8%8A%B1",
     "timestamp": "2026-10-16T11:19:26.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Salomon攜手蔡依林推聯名XT-Whisper！酒紅焰火細節+香港發售資訊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187834008008921088572689.jpeg/BB3oAcmQ8CNwbTe3eKH8y4KDh2TIl4QAj8jwNI_I8DQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60400495/salomon%E6%94%9C%E6%89%8B%E8%94%A1%E4%BE%9D%E6%9E%97%E6%8E%A8%E8%81%AF%E5%90%8Dxt-whisper-%E9%85%92%E7%B4%85%E7%84%B0%E7%81%AB%E7%B4%B0%E7%AF%80-%E9%A6%99%E6%B8%AF%E7%99%BC%E5%94%AE%E8%B3%87%E8%A8%8A",
-    "timestamp": "2026-10-16T10:45:08.284Z",
     "strategy": ".content-card__main"
   }
 ];
