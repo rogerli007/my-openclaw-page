@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T21:54:11.613Z
+// Last updated: 2026-10-16T22:32:18.091Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國2026年財政赤字近16萬億　創5年新高　利息支出近11萬億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188003034878185472654098.jpeg/f1aT526ul2OjCkd2lUyjRbNCvNyPInXS2UEtTtlBLU4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400665/%E7%BE%8E%E5%9C%8B2026%E5%B9%B4%E8%B2%A1%E6%94%BF%E8%B5%A4%E5%AD%97%E8%BF%9116%E8%90%AC%E5%84%84-%E5%89%B55%E5%B9%B4%E6%96%B0%E9%AB%98-%E5%88%A9%E6%81%AF%E6%94%AF%E5%87%BA%E8%BF%9111%E8%90%AC%E5%84%84",
+    "timestamp": "2026-10-16T22:32:18.091Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坪石邨爆水管水柱沖天　2男合力停水　1擋水1關掣齊濕透｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187893932185358336894703.jpeg/M2hmv1zVr7ulNqEnah3ZAXpD-q_lNsNTIo-zQCKPs0A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400644/%E6%BD%AE%E7%8E%A9%E5%A4%9C%E5%B8%8210-23-10-25%E8%88%89%E8%A1%8C-%E8%A8%AD%E5%B7%A5%E5%A4%AB%E8%8C%B6%E7%B4%85%E6%A1%83%E7%B2%BF%E5%B7%A5%E4%BD%9C%E5%9D%8A-%E6%8E%A8%E9%A4%90%E9%A3%B2%E5%84%AA%E6%83%A0",
     "timestamp": "2026-10-16T15:55:28.068Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跳2年啦啦隊憑咩買樓？女星Yuri駁斥靠男人：14歲半工半讀靠自己",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187817581449318400930567.png/qIIxPDg08LyX3878HqjKsg6Qym4e5l1VkGG-bZBhvm0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400534/%E8%B7%B32%E5%B9%B4%E5%95%A6%E5%95%A6%E9%9A%8A%E6%86%91%E5%92%A9%E8%B2%B7%E6%A8%93-%E5%A5%B3%E6%98%9Fyuri%E9%A7%81%E6%96%A5%E9%9D%A0%E7%94%B7%E4%BA%BA-14%E6%AD%B2%E5%8D%8A%E5%B7%A5%E5%8D%8A%E8%AE%80%E9%9D%A0%E8%87%AA%E5%B7%B1",
-    "timestamp": "2026-10-16T15:45:58.047Z",
     "strategy": ".content-card__main"
   }
 ];
