@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T09:00:45.217Z
+// Last updated: 2026-10-16T09:25:16.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國烏克蘭爆爭拗　英國防相籲援烏：獲美方保證恢復「星鏈」服務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187814071945138176315792.png/3vjXcE-acehatnF1zW0oe6_nwlSIxxsrXvlGGl75Rho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400505/%E7%BE%8E%E5%9C%8B%E7%83%8F%E5%85%8B%E8%98%AD%E7%88%86%E7%88%AD%E6%8B%97-%E8%8B%B1%E5%9C%8B%E9%98%B2%E7%9B%B8%E7%B1%B2%E6%8F%B4%E7%83%8F-%E7%8D%B2%E7%BE%8E%E6%96%B9%E4%BF%9D%E8%AD%89%E6%81%A2%E5%BE%A9-%E6%98%9F%E9%8F%88-%E6%9C%8D%E5%8B%99",
+    "timestamp": "2026-10-16T09:25:16.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo蘋果首款摺疊手機開訂！入手價$17499　網民：智商稅？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187442464374394880841295.png/H7pc_V3CoZc_asBwLMSgex1ECdyb5ae8ilAjfopQI34?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60399848/%E5%8F%B0%E5%A5%B3%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E7%95%B6%E8%A1%97%E4%BE%B5%E7%8A%AF%E4%B8%8B%E9%AB%94%E5%87%BA%E8%A1%80-%E7%94%B7%E5%AD%90%E6%AD%A1%E5%91%BC%E9%80%83%E8%B7%91-%E5%88%A4%E5%9B%9A20%E6%9C%88%E6%AA%A2%E6%96%B9%E4%B8%8A%E8%A8%B4",
     "timestamp": "2026-10-16T00:44:36.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "50歲男吞嚥卡頓驚罹食道癌晚期！拆解4大隱蔽症狀與4大致病因子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184125515179495424064875.jpeg/FrBA5ZY_gZX25UQp3c_Gb62jsu4xa5p-Cz2bgAs9m4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396182/50%E6%AD%B2%E7%94%B7%E5%90%9E%E5%9A%A5%E5%8D%A1%E9%A0%93%E9%A9%9A%E7%BD%B9%E9%A3%9F%E9%81%93%E7%99%8C%E6%99%9A%E6%9C%9F-%E6%8B%86%E8%A7%A34%E5%A4%A7%E9%9A%B1%E8%94%BD%E7%97%87%E7%8B%80%E8%88%874%E5%A4%A7%E8%87%B4%E7%97%85%E5%9B%A0%E5%AD%90",
-    "timestamp": "2026-10-15T23:41:17.275Z",
     "strategy": ".content-card__main"
   }
 ];
