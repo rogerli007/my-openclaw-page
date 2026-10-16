@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T08:49:00.145Z
+// Last updated: 2026-10-16T09:00:45.217Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo蘋果首款摺疊手機開訂！入手價$17499　網民：智商稅？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187800978762502144095817.png/gMH8yaeenRXDvCXTaOuYx3m6raZwSBNlV7N8LFezfCw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400453/iphone-duo%E8%98%8B%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%91%BA%E7%96%8A%E6%89%8B%E6%A9%9F%E9%96%8B%E8%A8%82-%E5%85%A5%E6%89%8B%E5%83%B9-17499-%E7%B6%B2%E6%B0%91-%E6%99%BA%E5%95%86%E7%A8%85",
+    "timestamp": "2026-10-16T09:00:45.217Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "第二次初戀劇情｜最新追劇日曆/更新時間+演員角色簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184125515179495424064875.jpeg/FrBA5ZY_gZX25UQp3c_Gb62jsu4xa5p-Cz2bgAs9m4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396182/50%E6%AD%B2%E7%94%B7%E5%90%9E%E5%9A%A5%E5%8D%A1%E9%A0%93%E9%A9%9A%E7%BD%B9%E9%A3%9F%E9%81%93%E7%99%8C%E6%99%9A%E6%9C%9F-%E6%8B%86%E8%A7%A34%E5%A4%A7%E9%9A%B1%E8%94%BD%E7%97%87%E7%8B%80%E8%88%874%E5%A4%A7%E8%87%B4%E7%97%85%E5%9B%A0%E5%AD%90",
     "timestamp": "2026-10-15T23:41:17.275Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國俄勒岡州小學槍擊案4死　死者包括3名兒童　16歲槍手被擊斃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187658226255007744653749.jpeg/WDAM7BdpXpXSbfEo4oLN5fBr20wdojKky1gvS8tYL0s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400261/%E7%BE%8E%E5%9C%8B%E4%BF%84%E5%8B%92%E5%B2%A1%E5%B7%9E%E5%B0%8F%E5%AD%B8%E6%A7%8D%E6%93%8A%E6%A1%884%E6%AD%BB-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC3%E5%90%8D%E5%85%92%E7%AB%A5-16%E6%AD%B2%E6%A7%8D%E6%89%8B%E8%A2%AB%E6%93%8A%E6%96%83",
-    "timestamp": "2026-10-15T23:28:40.744Z",
     "strategy": ".content-card__main"
   }
 ];
