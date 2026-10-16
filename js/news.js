@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T04:47:58.443Z
+// Last updated: 2026-10-16T04:59:23.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地來港大學生成騙徒重點目標　有博士生被「入境處」騙走$500萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187744649398194176975084.jpeg/uU13_Yp9zTuBvbU8dBD3VN2E8ePD4-mMMsHvgTLB74E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400378/%E5%85%A7%E5%9C%B0%E4%BE%86%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%88%90%E9%A8%99%E5%BE%92%E9%87%8D%E9%BB%9E%E7%9B%AE%E6%A8%99-%E6%9C%89%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%A2%AB-%E5%85%A5%E5%A2%83%E8%99%95-%E9%A8%99%E8%B5%B0-500%E8%90%AC",
+    "timestamp": "2026-10-16T04:59:23.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "稱中國可在與菲國對峙中輕鬆取勝　駐菲大使：但絕不選擇使用武力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187605995828809728243870.png/OJsm0oT2Ph5C9kOoMjmqCLXkpYj3Dp4puYR_MLmEfzA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60400213/%E5%85%AC%E5%B1%8B%E6%96%B0%E5%A9%9A%E5%A4%AB%E6%8F%BC%E9%82%AA%E9%AA%A82%E5%B9%B4-%E4%BA%BA%E5%A6%BB-%E8%A9%A6%E5%A9%9A%E7%B4%97%E7%BF%8C%E6%97%A5%E5%8E%BB%E7%8E%A9%E5%A4%9A%E6%AC%A1-%E7%B6%B2%E6%B0%91%E5%8B%B8%E9%9B%A2%E5%A9%9A%E9%A9%97%E8%BA%AB",
     "timestamp": "2026-10-15T19:54:49.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基稱被特朗普出賣　美媒：烏克蘭已耗盡美製愛國者防空導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187598285251022848342956.jpeg/fSWLqqH53MaHu0fKUSf8Ma1ZyY7Eko1uZHryoGR68qA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400249/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E8%B3%A3-%E7%BE%8E%E5%AA%92-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B7%B2%E8%80%97%E7%9B%A1%E7%BE%8E%E8%A3%BD%E6%84%9B%E5%9C%8B%E8%80%85%E9%98%B2%E7%A9%BA%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-10-15T19:41:04.388Z",
     "strategy": ".content-card__main"
   }
 ];
