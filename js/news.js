@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T09:56:30.483Z
+// Last updated: 2026-10-16T10:20:29.923Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "岑寧兒首邀魏如萱作曲　新歌《古董相機》試唱惹全場觀眾紛紛拭淚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187802872432037888564901.jpeg/4gL3tPjqnw4eA4Xh7Kl5jue5lcrl8r45hB4_1IQeP9Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60400493/%E5%B2%91%E5%AF%A7%E5%85%92%E9%A6%96%E9%82%80%E9%AD%8F%E5%A6%82%E8%90%B1%E4%BD%9C%E6%9B%B2-%E6%96%B0%E6%AD%8C-%E5%8F%A4%E8%91%A3%E7%9B%B8%E6%A9%9F-%E8%A9%A6%E5%94%B1%E6%83%B9%E5%85%A8%E5%A0%B4%E8%A7%80%E7%9C%BE%E7%B4%9B%E7%B4%9B%E6%8B%AD%E6%B7%9A",
+    "timestamp": "2026-10-16T10:20:29.923Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新手行山好去處｜香港12大1小時短程初級行山路線！附交通方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5e1d708313d12b1ca2b93255.jpg/NW9a6Tqotq3l1RbVMhk5s0ZmT5a-H1UMlRfC3ZUXwt0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60400294/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%9B%9B%E5%A4%A7%E6%B5%B7%E5%9F%9F%E5%90%8C%E6%AD%A5%E9%9B%86%E8%A8%93-%E9%BB%83%E6%B5%B7%E5%8D%97%E9%83%A8%E7%BD%95%E8%A6%8B%E5%B0%81%E8%88%AA47%E5%A4%A9-%E5%85%A7%E5%AA%92-%E5%8A%8D%E6%8C%87%E5%8F%B0%E7%8D%A8",
     "timestamp": "2026-10-16T02:30:28.677Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LIVE4WELL研發港產醫療AI模型　整合五大健康指標助及早識別風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187645670144610304839267.jpeg/6EZOqX0WpdvBzREOfzJzcVIIgd5bXCGU1D_DPtQ_wz4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60400260/live4well%E7%A0%94%E7%99%BC%E6%B8%AF%E7%94%A2%E9%86%AB%E7%99%82ai%E6%A8%A1%E5%9E%8B-%E6%95%B4%E5%90%88%E4%BA%94%E5%A4%A7%E5%81%A5%E5%BA%B7%E6%8C%87%E6%A8%99%E5%8A%A9%E5%8F%8A%E6%97%A9%E8%AD%98%E5%88%A5%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-10-16T02:02:55.734Z",
     "strategy": ".content-card__main"
   }
 ];
