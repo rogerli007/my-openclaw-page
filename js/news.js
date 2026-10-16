@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T09:25:16.378Z
+// Last updated: 2026-10-16T09:56:30.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新手行山好去處｜香港12大1小時短程初級行山路線！附交通方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187820099357118464724160.jpeg/1y9_8O44z3P4XeGg6aAc36MPZxucI8gbHcQePh3EHj4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60400547/%E6%96%B0%E6%89%8B%E8%A1%8C%E5%B1%B1%E5%A5%BD%E5%8E%BB%E8%99%95-%E9%A6%99%E6%B8%AF12%E5%A4%A71%E5%B0%8F%E6%99%82%E7%9F%AD%E7%A8%8B%E5%88%9D%E7%B4%9A%E8%A1%8C%E5%B1%B1%E8%B7%AF%E7%B7%9A-%E9%99%84%E4%BA%A4%E9%80%9A%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-10-16T09:56:30.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國烏克蘭爆爭拗　英國防相籲援烏：獲美方保證恢復「星鏈」服務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187645670144610304839267.jpeg/6EZOqX0WpdvBzREOfzJzcVIIgd5bXCGU1D_DPtQ_wz4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60400260/live4well%E7%A0%94%E7%99%BC%E6%B8%AF%E7%94%A2%E9%86%AB%E7%99%82ai%E6%A8%A1%E5%9E%8B-%E6%95%B4%E5%90%88%E4%BA%94%E5%A4%A7%E5%81%A5%E5%BA%B7%E6%8C%87%E6%A8%99%E5%8A%A9%E5%8F%8A%E6%97%A9%E8%AD%98%E5%88%A5%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-10-16T02:02:55.734Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台女遭陌生男當街侵犯下體出血　男子歡呼逃跑　判囚20月檢方上訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187442464374394880841295.png/H7pc_V3CoZc_asBwLMSgex1ECdyb5ae8ilAjfopQI34?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60399848/%E5%8F%B0%E5%A5%B3%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E7%95%B6%E8%A1%97%E4%BE%B5%E7%8A%AF%E4%B8%8B%E9%AB%94%E5%87%BA%E8%A1%80-%E7%94%B7%E5%AD%90%E6%AD%A1%E5%91%BC%E9%80%83%E8%B7%91-%E5%88%A4%E5%9B%9A20%E6%9C%88%E6%AA%A2%E6%96%B9%E4%B8%8A%E8%A8%B4",
-    "timestamp": "2026-10-16T00:44:36.999Z",
     "strategy": ".content-card__main"
   }
 ];
