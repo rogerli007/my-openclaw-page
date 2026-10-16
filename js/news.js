@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T10:20:29.923Z
+// Last updated: 2026-10-16T10:45:08.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Salomon攜手蔡依林推聯名XT-Whisper！酒紅焰火細節+香港發售資訊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187834008008921088572689.jpeg/BB3oAcmQ8CNwbTe3eKH8y4KDh2TIl4QAj8jwNI_I8DQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60400495/salomon%E6%94%9C%E6%89%8B%E8%94%A1%E4%BE%9D%E6%9E%97%E6%8E%A8%E8%81%AF%E5%90%8Dxt-whisper-%E9%85%92%E7%B4%85%E7%84%B0%E7%81%AB%E7%B4%B0%E7%AF%80-%E9%A6%99%E6%B8%AF%E7%99%BC%E5%94%AE%E8%B3%87%E8%A8%8A",
+    "timestamp": "2026-10-16T10:45:08.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "岑寧兒首邀魏如萱作曲　新歌《古董相機》試唱惹全場觀眾紛紛拭淚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187447573477068800809341.png/mx5I4QyeOvjEUR17A0_NsgOHSBAKhkpclyehzpcnoc4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400053/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E4%B8%9E%E7%A3%8A%E6%89%93%E9%BA%BB%E5%B0%87%E5%90%8D%E5%A0%B4%E9%9D%A2%E7%98%8B%E5%82%B3-%E5%96%AE%E6%89%8B%E5%92%AC%E7%85%99%E7%9C%BC%E7%A5%9E%E6%AE%BA%E7%8D%B2%E8%AE%9A-%E7%A5%9E%E7%B4%9A%E9%AC%86%E5%BC%9B%E6%84%9F",
     "timestamp": "2026-10-16T02:50:28.721Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "解放軍四大海域同步集訓　黃海南部罕見封航47天　內媒：劍指台獨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5e1d708313d12b1ca2b93255.jpg/NW9a6Tqotq3l1RbVMhk5s0ZmT5a-H1UMlRfC3ZUXwt0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60400294/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%9B%9B%E5%A4%A7%E6%B5%B7%E5%9F%9F%E5%90%8C%E6%AD%A5%E9%9B%86%E8%A8%93-%E9%BB%83%E6%B5%B7%E5%8D%97%E9%83%A8%E7%BD%95%E8%A6%8B%E5%B0%81%E8%88%AA47%E5%A4%A9-%E5%85%A7%E5%AA%92-%E5%8A%8D%E6%8C%87%E5%8F%B0%E7%8D%A8",
-    "timestamp": "2026-10-16T02:30:28.677Z",
     "strategy": ".content-card__main"
   }
 ];
