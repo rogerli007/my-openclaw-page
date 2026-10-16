@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T02:50:28.721Z
+// Last updated: 2026-10-16T03:49:13.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八達通卡30周年商戰｜領先20年遭二維碼挑戰　逆襲反攻中日336城",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178405208854630400540792.jpeg/AFsKLNZ20oikbBWwGke8JpB_k3WjySxzniLR5Z4i0eU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60400244/%E5%85%AB%E9%81%94%E9%80%9A%E5%8D%A130%E5%91%A8%E5%B9%B4%E5%95%86%E6%88%B0-%E9%A0%98%E5%85%8820%E5%B9%B4%E9%81%AD%E4%BA%8C%E7%B6%AD%E7%A2%BC%E6%8C%91%E6%88%B0-%E9%80%86%E8%A5%B2%E5%8F%8D%E6%94%BB%E4%B8%AD%E6%97%A5336%E5%9F%8E",
+    "timestamp": "2026-10-16T03:49:13.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玉簟秋｜丞磊打麻將名場面瘋傳　單手咬煙眼神殺獲讚：神級鬆弛感",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187371403104489472963482.png/KUykfxzO9W4-vA3ILyZgcE3SG_RcjU3GkQfX_ZEH1_0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399831/%E6%97%A5%E6%9C%AC%E5%A5%87%E8%91%A9%E6%A1%91%E6%8B%BF%E8%AE%93%E5%A4%A7%E4%BA%BA%E9%87%8D%E6%96%B0%E7%95%B6bb-%E5%85%A5%E5%AD%90%E5%AE%AE-%E6%B5%B8%E5%AC%B0%E5%85%92%E6%B5%B4-%E9%82%84%E5%8F%AF%E8%BA%BA%E5%AA%BD%E5%AA%BD%E6%87%B7%E6%8A%B1",
     "timestamp": "2026-10-15T18:23:54.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉錦公路村屋宿舍　48歲男恐嚇兼揮刀被捕　男同事遭割傷頸送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187576133793615872307625.jpeg/F1KDdF12aS57BBC6NoQvNcqO6e5IooNxPV5eAQdeXgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400243/%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E6%9D%91%E5%B1%8B%E5%AE%BF%E8%88%8D-48%E6%AD%B2%E7%94%B7%E6%81%90%E5%9A%87%E5%85%BC%E6%8F%AE%E5%88%80%E8%A2%AB%E6%8D%95-%E7%94%B7%E5%90%8C%E4%BA%8B%E9%81%AD%E5%89%B2%E5%82%B7%E9%A0%B8%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-15T17:54:21.793Z",
     "strategy": ".content-card__main"
   }
 ];
