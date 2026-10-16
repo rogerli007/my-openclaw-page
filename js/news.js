@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T06:32:13.983Z
+// Last updated: 2026-10-16T07:01:00.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜譚父講述找鄺球助還賭債經過　還債的500萬亦入鄺戶口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182645009489334272489062.jpeg/lPg84cuQh19Fds2uaD7MlyIaU3SQ1Q8At_vUnLf71Jw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400430/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%AD%9A%E7%88%B6%E8%AC%9B%E8%BF%B0%E6%89%BE%E9%84%BA%E7%90%83%E5%8A%A9%E9%82%84%E8%B3%AD%E5%82%B5%E7%B6%93%E9%81%8E-%E9%82%84%E5%82%B5%E7%9A%84500%E8%90%AC%E4%BA%A6%E5%85%A5%E9%84%BA%E6%88%B6%E5%8F%A3",
+    "timestamp": "2026-10-16T07:01:00.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿聯酋王室媳婦吸毒昏迷倫敦街頭　疏忽照顧3歲孩童罪成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187628744882262016521793.jpeg/CapmH4umRHd3w3TLD-U2Rs8jp0LHFMInmg-q_JoPqvw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60400256/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E8%BF%94%E8%8B%B1%E5%BE%8C%E9%A6%96%E4%B8%80%E5%90%8C%E5%85%AC%E9%96%8B%E4%BA%AE%E7%9B%B8-%E8%B5%B4%E8%AB%BE%E4%B8%81%E6%BC%A2%E9%A3%9F%E7%89%A9%E9%8A%80%E8%A1%8C%E8%A6%AA%E8%87%AA%E4%B8%8B%E5%BB%9A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-15T21:47:32.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "富山邨公屋變販毒中心　警搜出$57萬毒品拘70歲翁　案件明日提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187627484166754304371482.jpeg/JlOItaSCvNKjfaNr9bmFjwS1-GiCR4F0mEoj0JhKI9A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400257/%E5%AF%8C%E5%B1%B1%E9%82%A8%E5%85%AC%E5%B1%8B%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%90%9C%E5%87%BA-57%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%9870%E6%AD%B2%E7%BF%81-%E6%A1%88%E4%BB%B6%E6%98%8E%E6%97%A5%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-10-15T21:19:55.081Z",
     "strategy": ".content-card__main"
   }
 ];
