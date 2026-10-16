@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T12:00:10.113Z
+// Last updated: 2026-10-16T12:28:17.063Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮前發言人萊維特爆辭任內情：每周逾60工時　還要隨時候命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187854986487271424978306.jpeg/10f_7Q1lYRJb4_lAcLzVT0MCAJJDTkUw72iug-9oroM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400618/%E7%99%BD%E5%AE%AE%E5%89%8D%E7%99%BC%E8%A8%80%E4%BA%BA%E8%90%8A%E7%B6%AD%E7%89%B9%E7%88%86%E8%BE%AD%E4%BB%BB%E5%85%A7%E6%83%85-%E6%AF%8F%E5%91%A8%E9%80%BE60%E5%B7%A5%E6%99%82-%E9%82%84%E8%A6%81%E9%9A%A8%E6%99%82%E5%80%99%E5%91%BD",
+    "timestamp": "2026-10-16T12:28:17.063Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯｜機電署：首日巡查揭逾30屋邨無門框組件　屬非一般疏忽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187744649398194176975084.jpeg/uU13_Yp9zTuBvbU8dBD3VN2E8ePD4-mMMsHvgTLB74E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400378/%E5%85%A7%E5%9C%B0%E4%BE%86%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%88%90%E9%A8%99%E5%BE%92%E9%87%8D%E9%BB%9E%E7%9B%AE%E6%A8%99-%E6%9C%89%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%A2%AB-%E5%85%A5%E5%A2%83%E8%99%95-%E9%A8%99%E8%B5%B0-500%E8%90%AC",
     "timestamp": "2026-10-16T04:59:23.068Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "稱中國可在與菲國對峙中輕鬆取勝　駐菲大使：但絕不選擇使用武力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187743880733265920567210.png/W9E5qFjYT2elzSCcdpaZn7FEVc1iczKmRH3kzER95Mw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400368/%E7%A8%B1%E4%B8%AD%E5%9C%8B%E5%8F%AF%E5%9C%A8%E8%88%87%E8%8F%B2%E5%9C%8B%E5%B0%8D%E5%B3%99%E4%B8%AD%E8%BC%95%E9%AC%86%E5%8F%96%E5%8B%9D-%E9%A7%90%E8%8F%B2%E5%A4%A7%E4%BD%BF-%E4%BD%86%E7%B5%95%E4%B8%8D%E9%81%B8%E6%93%87%E4%BD%BF%E7%94%A8%E6%AD%A6%E5%8A%9B",
-    "timestamp": "2026-10-16T04:47:58.443Z",
     "strategy": ".content-card__main"
   }
 ];
