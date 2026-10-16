@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T12:28:17.063Z
+// Last updated: 2026-10-16T12:53:36.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸｜城巴︰往返啟德B14線暫延長服務　B13重陽推快速班次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187848043387424768450326.jpeg/2x183b66Dos2GRHL_CBOsYdwz6QVEeT-mLIOLZiyDi0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400608/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E5%9F%8E%E5%B7%B4-%E5%BE%80%E8%BF%94%E5%95%9F%E5%BE%B7b14%E7%B7%9A%E6%9A%AB%E5%BB%B6%E9%95%B7%E6%9C%8D%E5%8B%99-b13%E9%87%8D%E9%99%BD%E6%8E%A8%E5%BF%AB%E9%80%9F%E7%8F%AD%E6%AC%A1",
+    "timestamp": "2026-10-16T12:53:36.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮前發言人萊維特爆辭任內情：每周逾60工時　還要隨時候命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174093567870636032029185.jpeg/lsHuqKkSgatNybtY9Drg3KzV8XS91Nw67040Re9ONEU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400389/%E6%B6%89%E9%96%8B%E7%A9%BA%E6%AE%BC%E5%85%AC%E5%8F%B8%E9%A8%99%E9%80%BE1%E5%84%84%E6%94%BF%E5%BA%9C-%E7%A7%91%E6%8A%80%E5%88%B8-%E8%B3%87%E5%8A%A9-%E7%A7%91%E6%8A%80%E6%9C%8D%E5%8B%99%E5%95%86%E7%AD%895%E4%BA%BA%E9%81%AD%E8%B5%B7%E8%A8%B4",
     "timestamp": "2026-10-16T05:46:01.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地來港大學生成騙徒重點目標　有博士生被「入境處」騙走$500萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187744649398194176975084.jpeg/uU13_Yp9zTuBvbU8dBD3VN2E8ePD4-mMMsHvgTLB74E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400378/%E5%85%A7%E5%9C%B0%E4%BE%86%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%88%90%E9%A8%99%E5%BE%92%E9%87%8D%E9%BB%9E%E7%9B%AE%E6%A8%99-%E6%9C%89%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%A2%AB-%E5%85%A5%E5%A2%83%E8%99%95-%E9%A8%99%E8%B5%B0-500%E8%90%AC",
-    "timestamp": "2026-10-16T04:59:23.068Z",
     "strategy": ".content-card__main"
   }
 ];
