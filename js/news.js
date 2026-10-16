@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T07:47:36.380Z
+// Last updated: 2026-10-16T07:58:37.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗談二戰：繼承「村山談話」等歷代內閣立場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161969927549095936438596.jpeg/9iQQNt4jS37V1npw3i2MbMJSq6rTGD61ZSyjtGUso7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400439/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AB%87%E4%BA%8C%E6%88%B0-%E7%B9%BC%E6%89%BF-%E6%9D%91%E5%B1%B1%E8%AB%87%E8%A9%B1-%E7%AD%89%E6%AD%B7%E4%BB%A3%E5%85%A7%E9%96%A3%E7%AB%8B%E5%A0%B4",
+    "timestamp": "2026-10-16T07:58:37.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "多次訛稱家人患病　向錦田村民的士司機借錢逃逸　男子涉詐騙被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133780628110577664497238.jpeg/GTTfjhkM-ssINrUYvLT0wKk71PLCkE61QmOvqUJjr6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400259/%E8%8F%AF%E9%83%B5%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BD%E5%AE%AE%E5%AE%B4%E6%9C%83%E5%BB%B326%E5%84%84%E6%8D%90%E6%AC%BE%E8%83%8C%E5%BE%8C%E9%87%91%E4%B8%BB-%E8%8B%B1%E5%81%89%E9%81%94%E8%88%87%E8%98%8B%E6%9E%9C%E5%90%84%E6%8D%902%E5%84%84",
     "timestamp": "2026-10-15T22:34:43.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "唐文龍獨自用餐卻被路人拍片打擾　黑面半秒鐘瞬間擠出笑容應對",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187470919841353728569471.jpeg/ncJDfZn90aY-ELgypwjUzVTJraGFO2uYEnAwoRJwMKE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400062/%E5%94%90%E6%96%87%E9%BE%8D%E7%8D%A8%E8%87%AA%E7%94%A8%E9%A4%90%E5%8D%BB%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%8B%8D%E7%89%87%E6%89%93%E6%93%BE-%E9%BB%91%E9%9D%A2%E5%8D%8A%E7%A7%92%E9%90%98%E7%9E%AC%E9%96%93%E6%93%A0%E5%87%BA%E7%AC%91%E5%AE%B9%E6%87%89%E5%B0%8D",
-    "timestamp": "2026-10-15T22:19:21.227Z",
     "strategy": ".content-card__main"
   }
 ];
