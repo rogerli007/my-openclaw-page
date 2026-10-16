@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T11:46:57.855Z
+// Last updated: 2026-10-16T12:00:10.113Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臺日電梯｜機電署：首日巡查揭逾30屋邨無門框組件　屬非一般疏忽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187848628031459328401357.jpeg/StAnbNHZe2JvGNGLxeGBWM4jqgwEHS_hmf6U-pn-lPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400603/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E6%A9%9F%E9%9B%BB%E7%BD%B2-%E9%A6%96%E6%97%A5%E5%B7%A1%E6%9F%A5%E6%8F%AD%E9%80%BE30%E5%B1%8B%E9%82%A8%E7%84%A1%E9%96%80%E6%A1%86%E7%B5%84%E4%BB%B6-%E5%B1%AC%E9%9D%9E%E4%B8%80%E8%88%AC%E7%96%8F%E5%BF%BD",
+    "timestamp": "2026-10-16T12:00:10.113Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅根重遊諾定咸獨攬風頭！哈里淪佈景板人流大縮水　網民：返加州",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187743880733265920567210.png/W9E5qFjYT2elzSCcdpaZn7FEVc1iczKmRH3kzER95Mw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400368/%E7%A8%B1%E4%B8%AD%E5%9C%8B%E5%8F%AF%E5%9C%A8%E8%88%87%E8%8F%B2%E5%9C%8B%E5%B0%8D%E5%B3%99%E4%B8%AD%E8%BC%95%E9%AC%86%E5%8F%96%E5%8B%9D-%E9%A7%90%E8%8F%B2%E5%A4%A7%E4%BD%BF-%E4%BD%86%E7%B5%95%E4%B8%8D%E9%81%B8%E6%93%87%E4%BD%BF%E7%94%A8%E6%AD%A6%E5%8A%9B",
     "timestamp": "2026-10-16T04:47:58.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳奕迅新創舉！連開26場唔係演唱會　邀歌迷入場睇佢錄唱片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187738372005695488653492.jpeg/TDNczQZfxOZjNuHu31V75x3Tp0S2m-M-8yttsvMrbbI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60400363/%E9%99%B3%E5%A5%95%E8%BF%85%E6%96%B0%E5%89%B5%E8%88%89-%E9%80%A3%E9%96%8B26%E5%A0%B4%E5%94%94%E4%BF%82%E6%BC%94%E5%94%B1%E6%9C%83-%E9%82%80%E6%AD%8C%E8%BF%B7%E5%85%A5%E5%A0%B4%E7%9D%87%E4%BD%A2%E9%8C%84%E5%94%B1%E7%89%87",
-    "timestamp": "2026-10-16T04:22:25.945Z",
     "strategy": ".content-card__main"
   }
 ];
