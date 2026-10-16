@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-15T23:41:17.275Z
+// Last updated: 2026-10-16T00:44:36.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台女遭陌生男當街侵犯下體出血　男子歡呼逃跑　判囚20月檢方上訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187442464374394880841295.png/H7pc_V3CoZc_asBwLMSgex1ECdyb5ae8ilAjfopQI34?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60399848/%E5%8F%B0%E5%A5%B3%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E7%95%B6%E8%A1%97%E4%BE%B5%E7%8A%AF%E4%B8%8B%E9%AB%94%E5%87%BA%E8%A1%80-%E7%94%B7%E5%AD%90%E6%AD%A1%E5%91%BC%E9%80%83%E8%B7%91-%E5%88%A4%E5%9B%9A20%E6%9C%88%E6%AA%A2%E6%96%B9%E4%B8%8A%E8%A8%B4",
+    "timestamp": "2026-10-16T00:44:36.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "50歲男吞嚥卡頓驚罹食道癌晚期！拆解4大隱蔽症狀與4大致病因子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187536367890993152138926.jpeg/Hw5KR4wfJGLm7ujY7984dhGThp5y14MRxt2gRcbdoEU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400233/%E6%B8%B8%E6%B3%B3%E4%B8%96%E7%95%8C%E7%9B%83%E4%BD%95%E8%A9%A9%E8%93%93%E7%9F%AD%E6%B1%A0200%E8%87%AA7%E5%B9%B4%E4%B8%8D%E6%95%97%E5%91%8A%E7%B5%82-%E9%98%BF%E6%96%AF%E5%A1%94%E7%B4%8D%E7%AB%99%E6%83%9C%E8%B2%A0%E4%BB%8D%E5%89%B5%E4%BD%B3%E7%B8%BE",
     "timestamp": "2026-10-15T17:18:44.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西灣河女子掟狗落海　逞兇後撿犬逃去　警追緝虐犬狂徒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187557849027317760924583.jpeg/1EpBsu0JsyV53VXVLNKP0ujtI8WfzfRr1ABANO4AQDQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400241/%E8%A5%BF%E7%81%A3%E6%B2%B3%E5%A5%B3%E5%AD%90%E6%8E%9F%E7%8B%97%E8%90%BD%E6%B5%B7-%E9%80%9E%E5%85%87%E5%BE%8C%E6%92%BF%E7%8A%AC%E9%80%83%E5%8E%BB-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E8%99%90%E7%8A%AC%E7%8B%82%E5%BE%92",
-    "timestamp": "2026-10-15T16:47:05.294Z",
     "strategy": ".content-card__main"
   }
 ];
