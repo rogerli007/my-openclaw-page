@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T22:53:43.174Z
+// Last updated: 2026-10-16T23:29:01.948Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胃痛以為胃炎！40歲男半夜心梗猝死　警惕心絞痛3大非典型症狀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186297110274772992675314.jpeg/p3XFMMD3AuDYp3w1JMubjyEw5sQCCPC-KrJjtiqyY7Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397104/%E8%83%83%E7%97%9B%E4%BB%A5%E7%82%BA%E8%83%83%E7%82%8E-40%E6%AD%B2%E7%94%B7%E5%8D%8A%E5%A4%9C%E5%BF%83%E6%A2%97%E7%8C%9D%E6%AD%BB-%E8%AD%A6%E6%83%95%E5%BF%83%E7%B5%9E%E7%97%9B3%E5%A4%A7%E9%9D%9E%E5%85%B8%E5%9E%8B%E7%97%87%E7%8B%80",
+    "timestamp": "2026-10-16T23:29:01.948Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "14歲患痛風一直未治療10年後男子腳長薯仔大巨型痛風石 附5招預防",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187926617138139136204896.jpeg/QsoxeKv5FuP72woi3KN9xZoHXbLvtkbcrVDXyq1Q18o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400653/%E8%8D%83%E7%81%A3%E5%A5%B3%E5%AD%90%E7%9D%A1%E6%88%BF%E6%9A%88%E5%80%92-%E4%B8%88%E5%A4%AB%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-16T16:56:01.682Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警大埔搗破非法賭檔　檢獲電動麻雀枱及賭具　17男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187922839450161152583410.jpeg/dUdHaJCHmT0hbH6uWhjZWuhBG8IeAqGeGJH7VhiR-1Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400652/%E8%AD%A6%E5%A4%A7%E5%9F%94%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%AA%A2%E7%8D%B2%E9%9B%BB%E5%8B%95%E9%BA%BB%E9%9B%80%E6%9E%B1%E5%8F%8A%E8%B3%AD%E5%85%B7-17%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-16T16:45:05.437Z",
     "strategy": ".content-card__main"
   }
 ];
