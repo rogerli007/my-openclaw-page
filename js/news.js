@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T11:34:22.863Z
+// Last updated: 2026-10-16T11:46:57.855Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅根重遊諾定咸獨攬風頭！哈里淪佈景板人流大縮水　網民：返加州",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187789617177300992972530.png/6RfDFGDCAgcGXvCQU4Hb6p7DEtYPUSbSGP230hj9t9I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400432/%E6%A2%85%E6%A0%B9%E9%87%8D%E9%81%8A%E8%AB%BE%E5%AE%9A%E5%92%B8%E7%8D%A8%E6%94%AC%E9%A2%A8%E9%A0%AD-%E5%93%88%E9%87%8C%E6%B7%AA%E4%BD%88%E6%99%AF%E6%9D%BF%E4%BA%BA%E6%B5%81%E5%A4%A7%E7%B8%AE%E6%B0%B4-%E7%B6%B2%E6%B0%91-%E8%BF%94%E5%8A%A0%E5%B7%9E",
+    "timestamp": "2026-10-16T11:46:57.855Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西沙SIERRA SEA第2C(2)期招標沽41伙　頂層特色戶作價逾2531萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187738372005695488653492.jpeg/TDNczQZfxOZjNuHu31V75x3Tp0S2m-M-8yttsvMrbbI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60400363/%E9%99%B3%E5%A5%95%E8%BF%85%E6%96%B0%E5%89%B5%E8%88%89-%E9%80%A3%E9%96%8B26%E5%A0%B4%E5%94%94%E4%BF%82%E6%BC%94%E5%94%B1%E6%9C%83-%E9%82%80%E6%AD%8C%E8%BF%B7%E5%85%A5%E5%A0%B4%E7%9D%87%E4%BD%A2%E9%8C%84%E5%94%B1%E7%89%87",
     "timestamp": "2026-10-16T04:22:25.945Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Tesla第二代Roadster誕生！「飛起來」示範騰空翻滾+0.81秒破百",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187733073622470656508971.jpeg/Ka916QIg8pbsPPMSo68DBJpI-dZI9OTU2gOKodoDiqE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60400318/tesla%E7%AC%AC%E4%BA%8C%E4%BB%A3roadster%E8%AA%95%E7%94%9F-%E9%A3%9B%E8%B5%B7%E4%BE%86-%E7%A4%BA%E7%AF%84%E9%A8%B0%E7%A9%BA%E7%BF%BB%E6%BB%BE-0-81%E7%A7%92%E7%A0%B4%E7%99%BE",
-    "timestamp": "2026-10-16T03:58:54.760Z",
     "strategy": ".content-card__main"
   }
 ];
