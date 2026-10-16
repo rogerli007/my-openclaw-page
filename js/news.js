@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T18:22:45.295Z
+// Last updated: 2026-10-16T18:48:12.459Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：烏克蘭用星鏈攔截俄羅斯無人機　尚未恢復原有速度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187946064368373760197604.jpeg/kIcNz8yO4rQYq6luvGZ2iuhCkf5ok7Mljtsb9o7bG_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400656/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%A8%E6%98%9F%E9%8F%88%E6%94%94%E6%88%AA%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9%E5%8E%9F%E6%9C%89%E9%80%9F%E5%BA%A6",
+    "timestamp": "2026-10-16T18:48:12.459Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187848628031459328401357.jpeg/StAnbNHZe2JvGNGLxeGBWM4jqgwEHS_hmf6U-pn-lPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400603/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E6%A9%9F%E9%9B%BB%E7%BD%B2-%E9%A6%96%E6%97%A5%E5%B7%A1%E6%9F%A5%E6%8F%AD%E9%80%BE30%E5%B1%8B%E9%82%A8%E7%84%A1%E9%96%80%E6%A1%86%E7%B5%84%E4%BB%B6-%E5%B1%AC%E9%9D%9E%E4%B8%80%E8%88%AC%E7%96%8F%E5%BF%BD",
     "timestamp": "2026-10-16T12:00:10.113Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅根重遊諾定咸獨攬風頭！哈里淪佈景板人流大縮水　網民：返加州",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187789617177300992972530.png/6RfDFGDCAgcGXvCQU4Hb6p7DEtYPUSbSGP230hj9t9I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400432/%E6%A2%85%E6%A0%B9%E9%87%8D%E9%81%8A%E8%AB%BE%E5%AE%9A%E5%92%B8%E7%8D%A8%E6%94%AC%E9%A2%A8%E9%A0%AD-%E5%93%88%E9%87%8C%E6%B7%AA%E4%BD%88%E6%99%AF%E6%9D%BF%E4%BA%BA%E6%B5%81%E5%A4%A7%E7%B8%AE%E6%B0%B4-%E7%B6%B2%E6%B0%91-%E8%BF%94%E5%8A%A0%E5%B7%9E",
-    "timestamp": "2026-10-16T11:46:57.855Z",
     "strategy": ".content-card__main"
   }
 ];
