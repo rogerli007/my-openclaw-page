@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T15:55:28.068Z
+// Last updated: 2026-10-16T16:21:24.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角夾公仔店2股東鬧翻　約同黨擅取$19萬公仔　1股東涉盜竊被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187916749794709504014285.jpeg/iZs2_REqmqDw2yUgLqsr3-3BFRpzVBzxNy7BHQ0uwR0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400649/%E6%97%BA%E8%A7%92%E5%A4%BE%E5%85%AC%E4%BB%94%E5%BA%972%E8%82%A1%E6%9D%B1%E9%AC%A7%E7%BF%BB-%E7%B4%84%E5%90%8C%E9%BB%A8%E6%93%85%E5%8F%96-19%E8%90%AC%E5%85%AC%E4%BB%94-1%E8%82%A1%E6%9D%B1%E6%B6%89%E7%9B%9C%E7%AB%8A%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-16T16:21:24.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "潮玩夜市10.23-10.25舉行　設工夫茶紅桃粿工作坊　推餐飲優惠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187800978762502144095817.png/gMH8yaeenRXDvCXTaOuYx3m6raZwSBNlV7N8LFezfCw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400453/iphone-duo%E8%98%8B%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%91%BA%E7%96%8A%E6%89%8B%E6%A9%9F%E9%96%8B%E8%A8%82-%E5%85%A5%E6%89%8B%E5%83%B9-17499-%E7%B6%B2%E6%B0%91-%E6%99%BA%E5%95%86%E7%A8%85",
     "timestamp": "2026-10-16T09:00:45.217Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "第二次初戀劇情｜最新追劇日曆/更新時間+演員角色簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186687574312226816140253.jpeg/MlylmpzA8d4_d9jLX9pZtuRifLiI3rRQprEkKaaxJCk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399149/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%88%9D%E6%88%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-10-16T08:49:00.145Z",
     "strategy": ".content-card__main"
   }
 ];
