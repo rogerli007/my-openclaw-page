@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T07:58:37.516Z
+// Last updated: 2026-10-16T08:25:47.600Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LISA與aespa等K-Pop女團御用!解碼越南前衛品牌La Lune的暗黑美學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187788848344600576790512.jpeg/Jdezmlx1zKw_GKR84fqkBc7NDQdWU8fHtDyVErQ8lRI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60398902/lisa%E8%88%87aespa%E7%AD%89k-pop%E5%A5%B3%E5%9C%98%E5%BE%A1%E7%94%A8-%E8%A7%A3%E7%A2%BC%E8%B6%8A%E5%8D%97%E5%89%8D%E8%A1%9B%E5%93%81%E7%89%8Cla-lune%E7%9A%84%E6%9A%97%E9%BB%91%E7%BE%8E%E5%AD%B8",
+    "timestamp": "2026-10-16T08:25:47.600Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗談二戰：繼承「村山談話」等歷代內閣立場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187471012225093632742038.jpeg/-Y5rbmk6rFhjgBbUrbt33BhXyuI8Is8m3Nh_8dzYf_E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400088/maggie-q%E9%80%BE2600%E8%90%AC%E5%BE%A9%E5%8F%A4%E9%A2%A8%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89-%E7%A7%81%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E5%81%9A%E6%99%AE%E6%8B%89%E6%8F%90%E9%A8%B7%E7%81%AB%E8%BE%A3%E8%BA%AB%E6%9D%90",
     "timestamp": "2026-10-15T22:53:44.645Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華郵揭特朗普白宮宴會廳26億捐款背後金主　英偉達與蘋果各捐2億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260520/1133780628110577664497238.jpeg/GTTfjhkM-ssINrUYvLT0wKk71PLCkE61QmOvqUJjr6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400259/%E8%8F%AF%E9%83%B5%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BD%E5%AE%AE%E5%AE%B4%E6%9C%83%E5%BB%B326%E5%84%84%E6%8D%90%E6%AC%BE%E8%83%8C%E5%BE%8C%E9%87%91%E4%B8%BB-%E8%8B%B1%E5%81%89%E9%81%94%E8%88%87%E8%98%8B%E6%9E%9C%E5%90%84%E6%8D%902%E5%84%84",
-    "timestamp": "2026-10-15T22:34:43.185Z",
     "strategy": ".content-card__main"
   }
 ];
