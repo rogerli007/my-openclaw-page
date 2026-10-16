@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T07:27:52.326Z
+// Last updated: 2026-10-16T07:47:36.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "多次訛稱家人患病　向錦田村民的士司機借錢逃逸　男子涉詐騙被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187788114400120832749365.jpeg/jAbJj2dvb8ACn6NyWPnD9KbfzCnc5deWN8c1lDfHNZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400457/%E5%A4%9A%E6%AC%A1%E8%A8%9B%E7%A8%B1%E5%AE%B6%E4%BA%BA%E6%82%A3%E7%97%85-%E5%90%91%E9%8C%A6%E7%94%B0%E6%9D%91%E6%B0%91%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%80%9F%E9%8C%A2%E9%80%83%E9%80%B8-%E7%94%B7%E5%AD%90%E6%B6%89%E8%A9%90%E9%A8%99%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-16T07:47:36.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜譚父警署門外借25萬鄺球　爆鄺球自認好友求代付律師費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187470919841353728569471.jpeg/ncJDfZn90aY-ELgypwjUzVTJraGFO2uYEnAwoRJwMKE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400062/%E5%94%90%E6%96%87%E9%BE%8D%E7%8D%A8%E8%87%AA%E7%94%A8%E9%A4%90%E5%8D%BB%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%8B%8D%E7%89%87%E6%89%93%E6%93%BE-%E9%BB%91%E9%9D%A2%E5%8D%8A%E7%A7%92%E9%90%98%E7%9E%AC%E9%96%93%E6%93%A0%E5%87%BA%E7%AC%91%E5%AE%B9%E6%87%89%E5%B0%8D",
     "timestamp": "2026-10-15T22:19:21.227Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈里梅根返英後首一同公開亮相　赴諾丁漢食物銀行親自下廚｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187628744882262016521793.jpeg/CapmH4umRHd3w3TLD-U2Rs8jp0LHFMInmg-q_JoPqvw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60400256/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E8%BF%94%E8%8B%B1%E5%BE%8C%E9%A6%96%E4%B8%80%E5%90%8C%E5%85%AC%E9%96%8B%E4%BA%AE%E7%9B%B8-%E8%B5%B4%E8%AB%BE%E4%B8%81%E6%BC%A2%E9%A3%9F%E7%89%A9%E9%8A%80%E8%A1%8C%E8%A6%AA%E8%87%AA%E4%B8%8B%E5%BB%9A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-15T21:55:16.798Z",
     "strategy": ".content-card__main"
   }
 ];
