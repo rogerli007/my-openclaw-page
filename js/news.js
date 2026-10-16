@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T22:44:42.548Z
+// Last updated: 2026-10-16T22:53:43.174Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "14歲患痛風一直未治療10年後男子腳長薯仔大巨型痛風石 附5招預防",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187963741199667200416238.jpeg/LQkxMEp-Wej7UMkNj5GJMXjVwOi4O-tA1lW9vNZVvbw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60400252/14%E6%AD%B2%E6%82%A3%E7%97%9B%E9%A2%A8%E4%B8%80%E7%9B%B4%E6%9C%AA%E6%B2%BB%E7%99%8210%E5%B9%B4%E5%BE%8C%E7%94%B7%E5%AD%90%E8%85%B3%E9%95%B7%E8%96%AF%E4%BB%94%E5%A4%A7%E5%B7%A8%E5%9E%8B%E7%97%9B%E9%A2%A8%E7%9F%B3-%E9%99%845%E6%8B%9B%E9%A0%90%E9%98%B2",
+    "timestamp": "2026-10-16T22:53:43.174Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國2026年財政赤字近16萬億　創5年新高　利息支出近11萬億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187922839450161152583410.jpeg/dUdHaJCHmT0hbH6uWhjZWuhBG8IeAqGeGJH7VhiR-1Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400652/%E8%AD%A6%E5%A4%A7%E5%9F%94%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E6%AA%A2%E7%8D%B2%E9%9B%BB%E5%8B%95%E9%BA%BB%E9%9B%80%E6%9E%B1%E5%8F%8A%E8%B3%AD%E5%85%B7-17%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-16T16:45:05.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角夾公仔店2股東鬧翻　約同黨擅取$19萬公仔　1股東涉盜竊被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187916749794709504014285.jpeg/iZs2_REqmqDw2yUgLqsr3-3BFRpzVBzxNy7BHQ0uwR0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400649/%E6%97%BA%E8%A7%92%E5%A4%BE%E5%85%AC%E4%BB%94%E5%BA%972%E8%82%A1%E6%9D%B1%E9%AC%A7%E7%BF%BB-%E7%B4%84%E5%90%8C%E9%BB%A8%E6%93%85%E5%8F%96-19%E8%90%AC%E5%85%AC%E4%BB%94-1%E8%82%A1%E6%9D%B1%E6%B6%89%E7%9B%9C%E7%AB%8A%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-16T16:21:24.463Z",
     "strategy": ".content-card__main"
   }
 ];
