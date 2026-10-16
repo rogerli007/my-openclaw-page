@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T22:32:18.091Z
+// Last updated: 2026-10-16T22:44:42.548Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國2026年財政赤字近16萬億　創5年新高　利息支出近11萬億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188003034878185472654098.jpeg/f1aT526ul2OjCkd2lUyjRbNCvNyPInXS2UEtTtlBLU4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400665/%E7%BE%8E%E5%9C%8B2026%E5%B9%B4%E8%B2%A1%E6%94%BF%E8%B5%A4%E5%AD%97%E8%BF%9116%E8%90%AC%E5%84%84-%E5%89%B55%E5%B9%B4%E6%96%B0%E9%AB%98-%E5%88%A9%E6%81%AF%E6%94%AF%E5%87%BA%E8%BF%9111%E8%90%AC%E5%84%84",
+    "timestamp": "2026-10-16T22:44:42.548Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國2026年財政赤字近16萬億　創5年新高　利息支出近11萬億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187916749794709504014285.jpeg/iZs2_REqmqDw2yUgLqsr3-3BFRpzVBzxNy7BHQ0uwR0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400649/%E6%97%BA%E8%A7%92%E5%A4%BE%E5%85%AC%E4%BB%94%E5%BA%972%E8%82%A1%E6%9D%B1%E9%AC%A7%E7%BF%BB-%E7%B4%84%E5%90%8C%E9%BB%A8%E6%93%85%E5%8F%96-19%E8%90%AC%E5%85%AC%E4%BB%94-1%E8%82%A1%E6%9D%B1%E6%B6%89%E7%9B%9C%E7%AB%8A%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-16T16:21:24.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "潮玩夜市10.23-10.25舉行　設工夫茶紅桃粿工作坊　推餐飲優惠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187893932185358336894703.jpeg/M2hmv1zVr7ulNqEnah3ZAXpD-q_lNsNTIo-zQCKPs0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400644/%E6%BD%AE%E7%8E%A9%E5%A4%9C%E5%B8%8210-23-10-25%E8%88%89%E8%A1%8C-%E8%A8%AD%E5%B7%A5%E5%A4%AB%E8%8C%B6%E7%B4%85%E6%A1%83%E7%B2%BF%E5%B7%A5%E4%BD%9C%E5%9D%8A-%E6%8E%A8%E9%A4%90%E9%A3%B2%E5%84%AA%E6%83%A0",
-    "timestamp": "2026-10-16T15:55:28.068Z",
     "strategy": ".content-card__main"
   }
 ];
