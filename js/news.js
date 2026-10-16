@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T15:45:58.047Z
+// Last updated: 2026-10-16T15:55:28.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "潮玩夜市10.23-10.25舉行　設工夫茶紅桃粿工作坊　推餐飲優惠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187893932185358336894703.jpeg/M2hmv1zVr7ulNqEnah3ZAXpD-q_lNsNTIo-zQCKPs0A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400644/%E6%BD%AE%E7%8E%A9%E5%A4%9C%E5%B8%8210-23-10-25%E8%88%89%E8%A1%8C-%E8%A8%AD%E5%B7%A5%E5%A4%AB%E8%8C%B6%E7%B4%85%E6%A1%83%E7%B2%BF%E5%B7%A5%E4%BD%9C%E5%9D%8A-%E6%8E%A8%E9%A4%90%E9%A3%B2%E5%84%AA%E6%83%A0",
+    "timestamp": "2026-10-16T15:55:28.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跳2年啦啦隊憑咩買樓？女星Yuri駁斥靠男人：14歲半工半讀靠自己",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186687574312226816140253.jpeg/MlylmpzA8d4_d9jLX9pZtuRifLiI3rRQprEkKaaxJCk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399149/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%88%9D%E6%88%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-10-16T08:49:00.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LISA與aespa等K-Pop女團御用!解碼越南前衛品牌La Lune的暗黑美學",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187788848344600576790512.jpeg/Jdezmlx1zKw_GKR84fqkBc7NDQdWU8fHtDyVErQ8lRI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60398902/lisa%E8%88%87aespa%E7%AD%89k-pop%E5%A5%B3%E5%9C%98%E5%BE%A1%E7%94%A8-%E8%A7%A3%E7%A2%BC%E8%B6%8A%E5%8D%97%E5%89%8D%E8%A1%9B%E5%93%81%E7%89%8Cla-lune%E7%9A%84%E6%9A%97%E9%BB%91%E7%BE%8E%E5%AD%B8",
-    "timestamp": "2026-10-16T08:25:47.600Z",
     "strategy": ".content-card__main"
   }
 ];
