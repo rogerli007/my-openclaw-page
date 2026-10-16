@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T15:19:03.266Z
+// Last updated: 2026-10-16T15:32:42.704Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB進軍短劇市場開拍《金枝慾孽》番外篇　阮浩棕擔正演男一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187893778896130048738295.jpeg/KbIcgYEBSw4wLWZuVkiczLFZNe7CJ4JIoD3mc6A95nM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400637/tvb%E9%80%B2%E8%BB%8D%E7%9F%AD%E5%8A%87%E5%B8%82%E5%A0%B4%E9%96%8B%E6%8B%8D-%E9%87%91%E6%9E%9D%E6%85%BE%E5%AD%BD-%E7%95%AA%E5%A4%96%E7%AF%87-%E9%98%AE%E6%B5%A9%E6%A3%95%E6%93%94%E6%AD%A3%E6%BC%94%E7%94%B7%E4%B8%80",
+    "timestamp": "2026-10-16T15:32:42.704Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國KFC明年轉用可口可樂　終結與百事40年合作　總裁指關鍵一步",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161969927549095936438596.jpeg/9iQQNt4jS37V1npw3i2MbMJSq6rTGD61ZSyjtGUso7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400439/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AB%87%E4%BA%8C%E6%88%B0-%E7%B9%BC%E6%89%BF-%E6%9D%91%E5%B1%B1%E8%AB%87%E8%A9%B1-%E7%AD%89%E6%AD%B7%E4%BB%A3%E5%85%A7%E9%96%A3%E7%AB%8B%E5%A0%B4",
     "timestamp": "2026-10-16T07:58:37.516Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "多次訛稱家人患病　向錦田村民的士司機借錢逃逸　男子涉詐騙被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187788114400120832749365.jpeg/jAbJj2dvb8ACn6NyWPnD9KbfzCnc5deWN8c1lDfHNZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400457/%E5%A4%9A%E6%AC%A1%E8%A8%9B%E7%A8%B1%E5%AE%B6%E4%BA%BA%E6%82%A3%E7%97%85-%E5%90%91%E9%8C%A6%E7%94%B0%E6%9D%91%E6%B0%91%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%80%9F%E9%8C%A2%E9%80%83%E9%80%B8-%E7%94%B7%E5%AD%90%E6%B6%89%E8%A9%90%E9%A8%99%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-16T07:47:36.380Z",
     "strategy": ".content-card__main"
   }
 ];
