@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T20:47:43.541Z
+// Last updated: 2026-10-16T20:58:19.706Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "坪石邨爆水管水柱沖天　2男合力關掣齊濕透　網民：辛苦晒｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187980993215074304718064.jpeg/MNNPuJHzft-BvyVvB22KbBMe3q_O1igX2AvCv9gLwr8",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E7%B6%B2%E6%B0%91-%E8%BE%9B%E8%8B%A6%E6%99%92-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-16T20:58:19.706Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坪石邨爆水管水柱沖天　2男合力關掣齊濕透　網民：辛苦晒｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187824379459801088536792.jpeg/bEXMsCLHpwdbrMt2g_AXS-QGOKkAE65O8x4EivMeBIo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60400555/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E7%95%A2%E6%A5%AD%E6%BC%94%E5%94%B1%E6%9C%83%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95-%E5%8D%81%E5%BC%B7%E6%84%9F%E6%80%A7%E8%87%B4%E8%AC%9D%E8%A6%8B%E8%AD%89%E8%9B%BB%E8%AE%8A",
     "timestamp": "2026-10-16T14:49:55.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臺日電梯懶人包｜漏裝門框愈爆愈多　再涉39廈　解構臺日何以中標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187833608690208768348610.jpeg/tLCVQQemNYVfFDTYotQDsTeRJvGG51Lgj3E3wo9xN8I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400586/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%BC%8F%E8%A3%9D%E9%96%80%E6%A1%86%E6%84%88%E7%88%86%E6%84%88%E5%A4%9A-%E5%86%8D%E6%B6%8939%E5%BB%88-%E8%A7%A3%E6%A7%8B%E8%87%BA%E6%97%A5%E4%BD%95%E4%BB%A5%E4%B8%AD%E6%A8%99",
-    "timestamp": "2026-10-16T13:56:02.025Z",
     "strategy": ".content-card__main"
   }
 ];
