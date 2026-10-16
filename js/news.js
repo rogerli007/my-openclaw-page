@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T07:01:00.134Z
+// Last updated: 2026-10-16T07:27:52.326Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜譚父警署門外借25萬鄺球　爆鄺球自認好友求代付律師費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187062100086755328629483.png/MJJyr-qSRCMojIkJeaPx80GyTkCHMWwTPeotoD3qLaA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400446/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%AD%9A%E7%88%B6%E8%AD%A6%E7%BD%B2%E9%96%80%E5%A4%96%E5%80%9F25%E8%90%AC%E9%84%BA%E7%90%83-%E7%88%86%E9%84%BA%E7%90%83%E8%87%AA%E8%AA%8D%E5%A5%BD%E5%8F%8B%E6%B1%82%E4%BB%A3%E4%BB%98%E5%BE%8B%E5%B8%AB%E8%B2%BB",
+    "timestamp": "2026-10-16T07:27:52.326Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜譚父講述找鄺球助還賭債經過　還債的500萬亦入鄺戶口",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187628744882262016521793.jpeg/CapmH4umRHd3w3TLD-U2Rs8jp0LHFMInmg-q_JoPqvw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60400256/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E8%BF%94%E8%8B%B1%E5%BE%8C%E9%A6%96%E4%B8%80%E5%90%8C%E5%85%AC%E9%96%8B%E4%BA%AE%E7%9B%B8-%E8%B5%B4%E8%AB%BE%E4%B8%81%E6%BC%A2%E9%A3%9F%E7%89%A9%E9%8A%80%E8%A1%8C%E8%A6%AA%E8%87%AA%E4%B8%8B%E5%BB%9A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-15T21:55:16.798Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈里梅根返英後首一同公開亮相　赴諾丁漢食物銀行親自下廚｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187628744882262016521793.jpeg/CapmH4umRHd3w3TLD-U2Rs8jp0LHFMInmg-q_JoPqvw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60400256/%E5%93%88%E9%87%8C%E6%A2%85%E6%A0%B9%E8%BF%94%E8%8B%B1%E5%BE%8C%E9%A6%96%E4%B8%80%E5%90%8C%E5%85%AC%E9%96%8B%E4%BA%AE%E7%9B%B8-%E8%B5%B4%E8%AB%BE%E4%B8%81%E6%BC%A2%E9%A3%9F%E7%89%A9%E9%8A%80%E8%A1%8C%E8%A6%AA%E8%87%AA%E4%B8%8B%E5%BB%9A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-15T21:47:32.416Z",
     "strategy": ".content-card__main"
   }
 ];
