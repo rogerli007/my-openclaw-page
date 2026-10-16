@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T20:19:09.889Z
+// Last updated: 2026-10-16T20:47:43.541Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "坪石邨爆水管水柱沖天　2男合力關掣齊濕透　網民：辛苦晒｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187980993215074304718064.jpeg/MNNPuJHzft-BvyVvB22KbBMe3q_O1igX2AvCv9gLwr8",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E7%B6%B2%E6%B0%91-%E8%BE%9B%E8%8B%A6%E6%99%92-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-16T20:47:43.541Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮新發言人涉冒認律師爭議　美媒：上任僅5日已被特朗普解僱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187833608690208768348610.jpeg/tLCVQQemNYVfFDTYotQDsTeRJvGG51Lgj3E3wo9xN8I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400586/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%BC%8F%E8%A3%9D%E9%96%80%E6%A1%86%E6%84%88%E7%88%86%E6%84%88%E5%A4%9A-%E5%86%8D%E6%B6%8939%E5%BB%88-%E8%A7%A3%E6%A7%8B%E8%87%BA%E6%97%A5%E4%BD%95%E4%BB%A5%E4%B8%AD%E6%A8%99",
     "timestamp": "2026-10-16T13:56:02.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜譚詠麟億萬富商好友破產淪洗碗工　登門尋子爆發衝突",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187879037674983424641592.jpeg/LlLr2-lGmz8TtWOk2eZbww1RxL0WOQuFc0bbjXNG240?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400633/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%84%84%E8%90%AC%E5%AF%8C%E5%95%86%E5%A5%BD%E5%8F%8B%E7%A0%B4%E7%94%A2%E6%B7%AA%E6%B4%97%E7%A2%97%E5%B7%A5-%E7%99%BB%E9%96%80%E5%B0%8B%E5%AD%90%E7%88%86%E7%99%BC%E8%A1%9D%E7%AA%81",
-    "timestamp": "2026-10-16T13:45:34.232Z",
     "strategy": ".content-card__main"
   }
 ];
