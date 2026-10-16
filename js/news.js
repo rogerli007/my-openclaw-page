@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T19:53:37.855Z
+// Last updated: 2026-10-16T20:19:09.889Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮新發言人涉冒認律師爭議　美媒：上任僅5日已被特朗普解僱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186915702791999488518920.jpeg/hzctSD6th2lIskZyI4wDsSvOvRylqq989C8tRPQvLUQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400657/%E7%99%BD%E5%AE%AE%E6%96%B0%E7%99%BC%E8%A8%80%E4%BA%BA%E6%B6%89%E5%86%92%E8%AA%8D%E5%BE%8B%E5%B8%AB%E7%88%AD%E8%AD%B0-%E7%BE%8E%E5%AA%92-%E4%B8%8A%E4%BB%BB%E5%83%855%E6%97%A5%E5%B7%B2%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%A3%E5%83%B1",
+    "timestamp": "2026-10-16T20:19:09.889Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮新發言人涉冒認律師爭議　美媒：上任僅5日已被特朗普解僱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187879037674983424641592.jpeg/LlLr2-lGmz8TtWOk2eZbww1RxL0WOQuFc0bbjXNG240?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400633/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%84%84%E8%90%AC%E5%AF%8C%E5%95%86%E5%A5%BD%E5%8F%8B%E7%A0%B4%E7%94%A2%E6%B7%AA%E6%B4%97%E7%A2%97%E5%B7%A5-%E7%99%BB%E9%96%80%E5%B0%8B%E5%AD%90%E7%88%86%E7%99%BC%E8%A1%9D%E7%AA%81",
     "timestamp": "2026-10-16T13:45:34.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周迅釜山影展封后！創三金一A紀錄　領獎落淚：多謝父母給我自由",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187823842857324544163495.png/Kf49UQQsWy-2RcQKVxVTDiLrCgtlqUCxNJDsojSQ7KI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400537/%E5%91%A8%E8%BF%85%E9%87%9C%E5%B1%B1%E5%BD%B1%E5%B1%95%E5%B0%81%E5%90%8E-%E5%89%B5%E4%B8%89%E9%87%91%E4%B8%80a%E7%B4%80%E9%8C%84-%E9%A0%98%E7%8D%8E%E8%90%BD%E6%B7%9A-%E5%A4%9A%E8%AC%9D%E7%88%B6%E6%AF%8D%E7%B5%A6%E6%88%91%E8%87%AA%E7%94%B1",
-    "timestamp": "2026-10-16T13:23:10.539Z",
     "strategy": ".content-card__main"
   }
 ];
