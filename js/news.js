@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T04:59:23.068Z
+// Last updated: 2026-10-16T05:46:01.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "涉開空殼公司騙逾1億政府「科技券」資助　科技服務商等5人遭起訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174093567870636032029185.jpeg/lsHuqKkSgatNybtY9Drg3KzV8XS91Nw67040Re9ONEU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400389/%E6%B6%89%E9%96%8B%E7%A9%BA%E6%AE%BC%E5%85%AC%E5%8F%B8%E9%A8%99%E9%80%BE1%E5%84%84%E6%94%BF%E5%BA%9C-%E7%A7%91%E6%8A%80%E5%88%B8-%E8%B3%87%E5%8A%A9-%E7%A7%91%E6%8A%80%E6%9C%8D%E5%8B%99%E5%95%86%E7%AD%895%E4%BA%BA%E9%81%AD%E8%B5%B7%E8%A8%B4",
+    "timestamp": "2026-10-16T05:46:01.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地來港大學生成騙徒重點目標　有博士生被「入境處」騙走$500萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187614210184450048290413.jpeg/a9cRisBCtG6YhRMp7GEFuTAg7LtSR3mUn1v356Vb9-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400253/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%94%90%E6%A8%93%E5%BE%8C%E6%A8%93%E6%A2%AF%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E6%92%B2%E7%86%84-%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7%E6%AF%8B%E9%A0%88%E7%96%8F%E6%95%A3",
     "timestamp": "2026-10-15T20:32:56.655Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公屋新婚夫揼邪骨2年│人妻：試婚紗翌日去玩多次　網民勸離婚驗身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187605995828809728243870.png/OJsm0oT2Ph5C9kOoMjmqCLXkpYj3Dp4puYR_MLmEfzA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60400213/%E5%85%AC%E5%B1%8B%E6%96%B0%E5%A9%9A%E5%A4%AB%E6%8F%BC%E9%82%AA%E9%AA%A82%E5%B9%B4-%E4%BA%BA%E5%A6%BB-%E8%A9%A6%E5%A9%9A%E7%B4%97%E7%BF%8C%E6%97%A5%E5%8E%BB%E7%8E%A9%E5%A4%9A%E6%AC%A1-%E7%B6%B2%E6%B0%91%E5%8B%B8%E9%9B%A2%E5%A9%9A%E9%A9%97%E8%BA%AB",
-    "timestamp": "2026-10-15T19:54:49.170Z",
     "strategy": ".content-card__main"
   }
 ];
