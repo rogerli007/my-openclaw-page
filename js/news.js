@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T14:49:55.738Z
+// Last updated: 2026-10-16T15:19:03.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國KFC明年轉用可口可樂　終結與百事40年合作　總裁指關鍵一步",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187900925956591616840756.jpeg/Km1FHW7u3VwJeK0zTEpiWVdD5_CTdlYRwgL_lsIC_5Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400643/%E7%BE%8E%E5%9C%8Bkfc%E6%98%8E%E5%B9%B4%E8%BD%89%E7%94%A8%E5%8F%AF%E5%8F%A3%E5%8F%AF%E6%A8%82-%E7%B5%82%E7%B5%90%E8%88%87%E7%99%BE%E4%BA%8B40%E5%B9%B4%E5%90%88%E4%BD%9C-%E7%B8%BD%E8%A3%81%E6%8C%87%E9%97%9C%E9%8D%B5%E4%B8%80%E6%AD%A5",
+    "timestamp": "2026-10-16T15:19:03.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《中年好聲音4》畢業演唱會圓滿落幕　十強感性致謝見證蛻變",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187788114400120832749365.jpeg/jAbJj2dvb8ACn6NyWPnD9KbfzCnc5deWN8c1lDfHNZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400457/%E5%A4%9A%E6%AC%A1%E8%A8%9B%E7%A8%B1%E5%AE%B6%E4%BA%BA%E6%82%A3%E7%97%85-%E5%90%91%E9%8C%A6%E7%94%B0%E6%9D%91%E6%B0%91%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%80%9F%E9%8C%A2%E9%80%83%E9%80%B8-%E7%94%B7%E5%AD%90%E6%B6%89%E8%A9%90%E9%A8%99%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-16T07:47:36.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜譚父警署門外借25萬鄺球　爆鄺球自認好友求代付律師費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187062100086755328629483.png/MJJyr-qSRCMojIkJeaPx80GyTkCHMWwTPeotoD3qLaA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400446/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%AD%9A%E7%88%B6%E8%AD%A6%E7%BD%B2%E9%96%80%E5%A4%96%E5%80%9F25%E8%90%AC%E9%84%BA%E7%90%83-%E7%88%86%E9%84%BA%E7%90%83%E8%87%AA%E8%AA%8D%E5%A5%BD%E5%8F%8B%E6%B1%82%E4%BB%A3%E4%BB%98%E5%BE%8B%E5%B8%AB%E8%B2%BB",
-    "timestamp": "2026-10-16T07:27:52.326Z",
     "strategy": ".content-card__main"
   }
 ];
