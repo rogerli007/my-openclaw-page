@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T13:56:02.025Z
+// Last updated: 2026-10-16T14:49:55.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《中年好聲音4》畢業演唱會圓滿落幕　十強感性致謝見證蛻變",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187824379459801088536792.jpeg/bEXMsCLHpwdbrMt2g_AXS-QGOKkAE65O8x4EivMeBIo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60400555/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34-%E7%95%A2%E6%A5%AD%E6%BC%94%E5%94%B1%E6%9C%83%E5%9C%93%E6%BB%BF%E8%90%BD%E5%B9%95-%E5%8D%81%E5%BC%B7%E6%84%9F%E6%80%A7%E8%87%B4%E8%AC%9D%E8%A6%8B%E8%AD%89%E8%9B%BB%E8%AE%8A",
+    "timestamp": "2026-10-16T14:49:55.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯懶人包｜漏裝門框愈爆愈多　再涉39廈　解構臺日何以中標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187062100086755328629483.png/MJJyr-qSRCMojIkJeaPx80GyTkCHMWwTPeotoD3qLaA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400446/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%AD%9A%E7%88%B6%E8%AD%A6%E7%BD%B2%E9%96%80%E5%A4%96%E5%80%9F25%E8%90%AC%E9%84%BA%E7%90%83-%E7%88%86%E9%84%BA%E7%90%83%E8%87%AA%E8%AA%8D%E5%A5%BD%E5%8F%8B%E6%B1%82%E4%BB%A3%E4%BB%98%E5%BE%8B%E5%B8%AB%E8%B2%BB",
     "timestamp": "2026-10-16T07:27:52.326Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜譚父講述找鄺球助還賭債經過　還債的500萬亦入鄺戶口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182645009489334272489062.jpeg/lPg84cuQh19Fds2uaD7MlyIaU3SQ1Q8At_vUnLf71Jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400430/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%AD%9A%E7%88%B6%E8%AC%9B%E8%BF%B0%E6%89%BE%E9%84%BA%E7%90%83%E5%8A%A9%E9%82%84%E8%B3%AD%E5%82%B5%E7%B6%93%E9%81%8E-%E9%82%84%E5%82%B5%E7%9A%84500%E8%90%AC%E4%BA%A6%E5%85%A5%E9%84%BA%E6%88%B6%E5%8F%A3",
-    "timestamp": "2026-10-16T07:01:00.134Z",
     "strategy": ".content-card__main"
   }
 ];
