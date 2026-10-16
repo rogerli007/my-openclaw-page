@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T13:45:34.232Z
+// Last updated: 2026-10-16T13:56:02.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臺日電梯懶人包｜漏裝門框愈爆愈多　再涉39廈　解構臺日何以中標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187833608690208768348610.jpeg/tLCVQQemNYVfFDTYotQDsTeRJvGG51Lgj3E3wo9xN8I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400586/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%BC%8F%E8%A3%9D%E9%96%80%E6%A1%86%E6%84%88%E7%88%86%E6%84%88%E5%A4%9A-%E5%86%8D%E6%B6%8939%E5%BB%88-%E8%A7%A3%E6%A7%8B%E8%87%BA%E6%97%A5%E4%BD%95%E4%BB%A5%E4%B8%AD%E6%A8%99",
+    "timestamp": "2026-10-16T13:56:02.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜譚詠麟億萬富商好友破產淪洗碗工　登門尋子爆發衝突",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182645009489334272489062.jpeg/lPg84cuQh19Fds2uaD7MlyIaU3SQ1Q8At_vUnLf71Jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400430/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%AD%9A%E7%88%B6%E8%AC%9B%E8%BF%B0%E6%89%BE%E9%84%BA%E7%90%83%E5%8A%A9%E9%82%84%E8%B3%AD%E5%82%B5%E7%B6%93%E9%81%8E-%E9%82%84%E5%82%B5%E7%9A%84500%E8%90%AC%E4%BA%A6%E5%85%A5%E9%84%BA%E6%88%B6%E5%8F%A3",
     "timestamp": "2026-10-16T07:01:00.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿聯酋王室媳婦吸毒昏迷倫敦街頭　疏忽照顧3歲孩童罪成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187768644357066752670958.png/pyUpd9lu7Bi-BNeIRju4a3RBRWJqBJYczIbC0syGwtI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400398/%E9%98%BF%E8%81%AF%E9%85%8B%E7%8E%8B%E5%AE%A4%E5%AA%B3%E5%A9%A6%E5%90%B8%E6%AF%92%E6%98%8F%E8%BF%B7%E5%80%AB%E6%95%A6%E8%A1%97%E9%A0%AD-%E7%96%8F%E5%BF%BD%E7%85%A7%E9%A1%A73%E6%AD%B2%E5%AD%A9%E7%AB%A5%E7%BD%AA%E6%88%90",
-    "timestamp": "2026-10-16T06:32:13.983Z",
     "strategy": ".content-card__main"
   }
 ];
