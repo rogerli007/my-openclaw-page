@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T16:56:01.682Z
+// Last updated: 2026-10-16T17:17:01.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
+    "timestamp": "2026-10-16T17:17:01.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣女子睡房暈倒　丈夫報案　送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187802872432037888564901.jpeg/4gL3tPjqnw4eA4Xh7Kl5jue5lcrl8r45hB4_1IQeP9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60400493/%E5%B2%91%E5%AF%A7%E5%85%92%E9%A6%96%E9%82%80%E9%AD%8F%E5%A6%82%E8%90%B1%E4%BD%9C%E6%9B%B2-%E6%96%B0%E6%AD%8C-%E5%8F%A4%E8%91%A3%E7%9B%B8%E6%A9%9F-%E8%A9%A6%E5%94%B1%E6%83%B9%E5%85%A8%E5%A0%B4%E8%A7%80%E7%9C%BE%E7%B4%9B%E7%B4%9B%E6%8B%AD%E6%B7%9A",
     "timestamp": "2026-10-16T10:20:29.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新手行山好去處｜香港12大1小時短程初級行山路線！附交通方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187820099357118464724160.jpeg/1y9_8O44z3P4XeGg6aAc36MPZxucI8gbHcQePh3EHj4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60400547/%E6%96%B0%E6%89%8B%E8%A1%8C%E5%B1%B1%E5%A5%BD%E5%8E%BB%E8%99%95-%E9%A6%99%E6%B8%AF12%E5%A4%A71%E5%B0%8F%E6%99%82%E7%9F%AD%E7%A8%8B%E5%88%9D%E7%B4%9A%E8%A1%8C%E5%B1%B1%E8%B7%AF%E7%B7%9A-%E9%99%84%E4%BA%A4%E9%80%9A%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-10-16T09:56:30.483Z",
     "strategy": ".content-card__main"
   }
 ];
