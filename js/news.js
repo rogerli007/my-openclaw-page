@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T17:55:26.187Z
+// Last updated: 2026-10-16T18:22:45.295Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
+    "timestamp": "2026-10-16T18:22:45.295Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187789617177300992972530.png/6RfDFGDCAgcGXvCQU4Hb6p7DEtYPUSbSGP230hj9t9I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400432/%E6%A2%85%E6%A0%B9%E9%87%8D%E9%81%8A%E8%AB%BE%E5%AE%9A%E5%92%B8%E7%8D%A8%E6%94%AC%E9%A2%A8%E9%A0%AD-%E5%93%88%E9%87%8C%E6%B7%AA%E4%BD%88%E6%99%AF%E6%9D%BF%E4%BA%BA%E6%B5%81%E5%A4%A7%E7%B8%AE%E6%B0%B4-%E7%B6%B2%E6%B0%91-%E8%BF%94%E5%8A%A0%E5%B7%9E",
     "timestamp": "2026-10-16T11:46:57.855Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西沙SIERRA SEA第2C(2)期招標沽41伙　頂層特色戶作價逾2531萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179780852226199552781924.jpeg/0Eg0I0KCJFbrLRSzsIXUiqMTTSlKR8mwRDwPqUQ8D6k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60400606/%E8%A5%BF%E6%B2%99sierra-sea%E7%AC%AC2c-2-%E6%9C%9F%E6%8B%9B%E6%A8%99%E6%B2%BD41%E4%BC%99-%E9%A0%82%E5%B1%A4%E7%89%B9%E8%89%B2%E6%88%B6%E4%BD%9C%E5%83%B9%E9%80%BE2531%E8%90%AC",
-    "timestamp": "2026-10-16T11:34:22.863Z",
     "strategy": ".content-card__main"
   }
 ];
