@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T08:25:47.600Z
+// Last updated: 2026-10-16T08:49:00.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "第二次初戀劇情｜最新追劇日曆/更新時間+演員角色簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186687574312226816140253.jpeg/MlylmpzA8d4_d9jLX9pZtuRifLiI3rRQprEkKaaxJCk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399149/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%88%9D%E6%88%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-10-16T08:49:00.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LISA與aespa等K-Pop女團御用!解碼越南前衛品牌La Lune的暗黑美學",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187658226255007744653749.jpeg/WDAM7BdpXpXSbfEo4oLN5fBr20wdojKky1gvS8tYL0s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400261/%E7%BE%8E%E5%9C%8B%E4%BF%84%E5%8B%92%E5%B2%A1%E5%B7%9E%E5%B0%8F%E5%AD%B8%E6%A7%8D%E6%93%8A%E6%A1%884%E6%AD%BB-%E6%AD%BB%E8%80%85%E5%8C%85%E6%8B%AC3%E5%90%8D%E5%85%92%E7%AB%A5-16%E6%AD%B2%E6%A7%8D%E6%89%8B%E8%A2%AB%E6%93%8A%E6%96%83",
     "timestamp": "2026-10-15T23:28:40.744Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Maggie Q逾2600萬復古風豪宅曝光　私人健身房做普拉提騷火辣身材",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187471012225093632742038.jpeg/-Y5rbmk6rFhjgBbUrbt33BhXyuI8Is8m3Nh_8dzYf_E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400088/maggie-q%E9%80%BE2600%E8%90%AC%E5%BE%A9%E5%8F%A4%E9%A2%A8%E8%B1%AA%E5%AE%85%E6%9B%9D%E5%85%89-%E7%A7%81%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E5%81%9A%E6%99%AE%E6%8B%89%E6%8F%90%E9%A8%B7%E7%81%AB%E8%BE%A3%E8%BA%AB%E6%9D%90",
-    "timestamp": "2026-10-15T22:53:44.645Z",
     "strategy": ".content-card__main"
   }
 ];
