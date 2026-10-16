@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T04:22:25.945Z
+// Last updated: 2026-10-16T04:47:58.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "稱中國可在與菲國對峙中輕鬆取勝　駐菲大使：但絕不選擇使用武力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187743880733265920567210.png/W9E5qFjYT2elzSCcdpaZn7FEVc1iczKmRH3kzER95Mw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400368/%E7%A8%B1%E4%B8%AD%E5%9C%8B%E5%8F%AF%E5%9C%A8%E8%88%87%E8%8F%B2%E5%9C%8B%E5%B0%8D%E5%B3%99%E4%B8%AD%E8%BC%95%E9%AC%86%E5%8F%96%E5%8B%9D-%E9%A7%90%E8%8F%B2%E5%A4%A7%E4%BD%BF-%E4%BD%86%E7%B5%95%E4%B8%8D%E9%81%B8%E6%93%87%E4%BD%BF%E7%94%A8%E6%AD%A6%E5%8A%9B",
+    "timestamp": "2026-10-16T04:47:58.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳奕迅新創舉！連開26場唔係演唱會　邀歌迷入場睇佢錄唱片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187598285251022848342956.jpeg/fSWLqqH53MaHu0fKUSf8Ma1ZyY7Eko1uZHryoGR68qA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400249/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E8%B3%A3-%E7%BE%8E%E5%AA%92-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B7%B2%E8%80%97%E7%9B%A1%E7%BE%8E%E8%A3%BD%E6%84%9B%E5%9C%8B%E8%80%85%E9%98%B2%E7%A9%BA%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-10-15T19:41:04.388Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石硤尾邨垃圾收集站起火　消防迅速撲熄火勢　40人疏散｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187587007623204864785403.jpeg/vJkPBJ3gorT7kgqixXQKA8wjR-MzLOYxw7EZs8OxGbM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400245/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E9%82%A8%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E7%AB%99%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E8%BF%85%E9%80%9F%E6%92%B2%E7%86%84%E7%81%AB%E5%8B%A2-40%E4%BA%BA%E7%96%8F%E6%95%A3-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-15T19:16:52.016Z",
     "strategy": ".content-card__main"
   }
 ];
