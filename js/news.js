@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T21:34:36.627Z
+// Last updated: 2026-10-16T21:54:11.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "坪石邨爆水管水柱沖天　2男合力停水　1擋水1關掣齊濕透｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187993579633512448829046.jpeg/nklntG3dfDD_LliUE9FqjKWxFRuOt8pYJadLqSWnS6k",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E5%81%9C%E6%B0%B4-1%E6%93%8B%E6%B0%B41%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-16T21:54:11.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坪石邨爆水管水柱沖天　2男合力停水　1擋水1關掣齊濕透｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187817581449318400930567.png/qIIxPDg08LyX3878HqjKsg6Qym4e5l1VkGG-bZBhvm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400534/%E8%B7%B32%E5%B9%B4%E5%95%A6%E5%95%A6%E9%9A%8A%E6%86%91%E5%92%A9%E8%B2%B7%E6%A8%93-%E5%A5%B3%E6%98%9Fyuri%E9%A7%81%E6%96%A5%E9%9D%A0%E7%94%B7%E4%BA%BA-14%E6%AD%B2%E5%8D%8A%E5%B7%A5%E5%8D%8A%E8%AE%80%E9%9D%A0%E8%87%AA%E5%B7%B1",
     "timestamp": "2026-10-16T15:45:58.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB進軍短劇市場開拍《金枝慾孽》番外篇　阮浩棕擔正演男一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187893778896130048738295.jpeg/KbIcgYEBSw4wLWZuVkiczLFZNe7CJ4JIoD3mc6A95nM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400637/tvb%E9%80%B2%E8%BB%8D%E7%9F%AD%E5%8A%87%E5%B8%82%E5%A0%B4%E9%96%8B%E6%8B%8D-%E9%87%91%E6%9E%9D%E6%85%BE%E5%AD%BD-%E7%95%AA%E5%A4%96%E7%AF%87-%E9%98%AE%E6%B5%A9%E6%A3%95%E6%93%94%E6%AD%A3%E6%BC%94%E7%94%B7%E4%B8%80",
-    "timestamp": "2026-10-16T15:32:42.704Z",
     "strategy": ".content-card__main"
   }
 ];
