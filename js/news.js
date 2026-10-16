@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T12:53:36.793Z
+// Last updated: 2026-10-16T13:23:10.539Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周迅釜山影展封后！創三金一A紀錄　領獎落淚：多謝父母給我自由",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187823842857324544163495.png/Kf49UQQsWy-2RcQKVxVTDiLrCgtlqUCxNJDsojSQ7KI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400537/%E5%91%A8%E8%BF%85%E9%87%9C%E5%B1%B1%E5%BD%B1%E5%B1%95%E5%B0%81%E5%90%8E-%E5%89%B5%E4%B8%89%E9%87%91%E4%B8%80a%E7%B4%80%E9%8C%84-%E9%A0%98%E7%8D%8E%E8%90%BD%E6%B7%9A-%E5%A4%9A%E8%AC%9D%E7%88%B6%E6%AF%8D%E7%B5%A6%E6%88%91%E8%87%AA%E7%94%B1",
+    "timestamp": "2026-10-16T13:23:10.539Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸｜城巴︰往返啟德B14線暫延長服務　B13重陽推快速班次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187753800966868992831567.jpeg/TshUeK8XMdO8N7NQfUUyEbEafmmCLPyhIrREsyK0RLM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60400392/%E5%91%A8%E7%94%9F%E7%94%9F%E7%AC%AC3%E5%AD%A3%E9%9B%B6%E5%94%AE%E5%80%BC%E5%8D%873-%E6%B8%AF%E6%BE%B3%E5%90%8C%E5%BA%97%E9%8A%B7%E5%94%AE%E5%A2%9E7-%E7%BA%8C%E9%96%8B%E5%88%86%E5%BA%97%E6%93%B4%E5%BC%B5",
     "timestamp": "2026-10-16T05:55:41.819Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "涉開空殼公司騙逾1億政府「科技券」資助　科技服務商等5人遭起訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174093567870636032029185.jpeg/lsHuqKkSgatNybtY9Drg3KzV8XS91Nw67040Re9ONEU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400389/%E6%B6%89%E9%96%8B%E7%A9%BA%E6%AE%BC%E5%85%AC%E5%8F%B8%E9%A8%99%E9%80%BE1%E5%84%84%E6%94%BF%E5%BA%9C-%E7%A7%91%E6%8A%80%E5%88%B8-%E8%B3%87%E5%8A%A9-%E7%A7%91%E6%8A%80%E6%9C%8D%E5%8B%99%E5%95%86%E7%AD%895%E4%BA%BA%E9%81%AD%E8%B5%B7%E8%A8%B4",
-    "timestamp": "2026-10-16T05:46:01.689Z",
     "strategy": ".content-card__main"
   }
 ];
