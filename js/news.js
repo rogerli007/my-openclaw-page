@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T05:55:41.819Z
+// Last updated: 2026-10-16T06:32:13.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿聯酋王室媳婦吸毒昏迷倫敦街頭　疏忽照顧3歲孩童罪成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187768644357066752670958.png/pyUpd9lu7Bi-BNeIRju4a3RBRWJqBJYczIbC0syGwtI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400398/%E9%98%BF%E8%81%AF%E9%85%8B%E7%8E%8B%E5%AE%A4%E5%AA%B3%E5%A9%A6%E5%90%B8%E6%AF%92%E6%98%8F%E8%BF%B7%E5%80%AB%E6%95%A6%E8%A1%97%E9%A0%AD-%E7%96%8F%E5%BF%BD%E7%85%A7%E9%A1%A73%E6%AD%B2%E5%AD%A9%E7%AB%A5%E7%BD%AA%E6%88%90",
+    "timestamp": "2026-10-16T06:32:13.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周生生第3季零售值升3%　港澳同店銷售增7%　續開分店擴張",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187627484166754304371482.jpeg/JlOItaSCvNKjfaNr9bmFjwS1-GiCR4F0mEoj0JhKI9A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400257/%E5%AF%8C%E5%B1%B1%E9%82%A8%E5%85%AC%E5%B1%8B%E8%AE%8A%E8%B2%A9%E6%AF%92%E4%B8%AD%E5%BF%83-%E8%AD%A6%E6%90%9C%E5%87%BA-57%E8%90%AC%E6%AF%92%E5%93%81%E6%8B%9870%E6%AD%B2%E7%BF%81-%E6%A1%88%E4%BB%B6%E6%98%8E%E6%97%A5%E6%8F%90%E5%A0%82",
     "timestamp": "2026-10-15T21:19:55.081Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗唐樓後樓梯雜物起火　消防撲熄　無人受傷毋須疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187614210184450048290413.jpeg/a9cRisBCtG6YhRMp7GEFuTAg7LtSR3mUn1v356Vb9-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400253/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%94%90%E6%A8%93%E5%BE%8C%E6%A8%93%E6%A2%AF%E9%9B%9C%E7%89%A9%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E6%92%B2%E7%86%84-%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7%E6%AF%8B%E9%A0%88%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-10-15T20:52:09.715Z",
     "strategy": ".content-card__main"
   }
 ];
