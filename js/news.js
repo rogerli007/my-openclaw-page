@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T13:23:10.539Z
+// Last updated: 2026-10-16T13:45:34.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜譚詠麟億萬富商好友破產淪洗碗工　登門尋子爆發衝突",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187879037674983424641592.jpeg/LlLr2-lGmz8TtWOk2eZbww1RxL0WOQuFc0bbjXNG240?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400633/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%84%84%E8%90%AC%E5%AF%8C%E5%95%86%E5%A5%BD%E5%8F%8B%E7%A0%B4%E7%94%A2%E6%B7%AA%E6%B4%97%E7%A2%97%E5%B7%A5-%E7%99%BB%E9%96%80%E5%B0%8B%E5%AD%90%E7%88%86%E7%99%BC%E8%A1%9D%E7%AA%81",
+    "timestamp": "2026-10-16T13:45:34.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周迅釜山影展封后！創三金一A紀錄　領獎落淚：多謝父母給我自由",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187768644357066752670958.png/pyUpd9lu7Bi-BNeIRju4a3RBRWJqBJYczIbC0syGwtI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400398/%E9%98%BF%E8%81%AF%E9%85%8B%E7%8E%8B%E5%AE%A4%E5%AA%B3%E5%A9%A6%E5%90%B8%E6%AF%92%E6%98%8F%E8%BF%B7%E5%80%AB%E6%95%A6%E8%A1%97%E9%A0%AD-%E7%96%8F%E5%BF%BD%E7%85%A7%E9%A1%A73%E6%AD%B2%E5%AD%A9%E7%AB%A5%E7%BD%AA%E6%88%90",
     "timestamp": "2026-10-16T06:32:13.983Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周生生第3季零售值升3%　港澳同店銷售增7%　續開分店擴張",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187753800966868992831567.jpeg/TshUeK8XMdO8N7NQfUUyEbEafmmCLPyhIrREsyK0RLM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60400392/%E5%91%A8%E7%94%9F%E7%94%9F%E7%AC%AC3%E5%AD%A3%E9%9B%B6%E5%94%AE%E5%80%BC%E5%8D%873-%E6%B8%AF%E6%BE%B3%E5%90%8C%E5%BA%97%E9%8A%B7%E5%94%AE%E5%A2%9E7-%E7%BA%8C%E9%96%8B%E5%88%86%E5%BA%97%E6%93%B4%E5%BC%B5",
-    "timestamp": "2026-10-16T05:55:41.819Z",
     "strategy": ".content-card__main"
   }
 ];
