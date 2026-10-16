@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T18:58:09.633Z
+// Last updated: 2026-10-16T19:29:27.243Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "淘大商場22歲女攜逾$1萬現金存款　行經梯間遭推跌搶錢　男賊在逃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187963983663992832192750.jpeg/z5QrNEimR_a2WbyqhNPgDWrTrSts-EkUZfOoWWXzqFk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400658/%E6%B7%98%E5%A4%A7%E5%95%86%E5%A0%B422%E6%AD%B2%E5%A5%B3%E6%94%9C%E9%80%BE-1%E8%90%AC%E7%8F%BE%E9%87%91%E5%AD%98%E6%AC%BE-%E8%A1%8C%E7%B6%93%E6%A2%AF%E9%96%93%E9%81%AD%E6%8E%A8%E8%B7%8C%E6%90%B6%E9%8C%A2-%E7%94%B7%E8%B3%8A%E5%9C%A8%E9%80%83",
+    "timestamp": "2026-10-16T19:29:27.243Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：烏克蘭用星鏈攔截俄羅斯無人機　尚未恢復原有速度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187848043387424768450326.jpeg/2x183b66Dos2GRHL_CBOsYdwz6QVEeT-mLIOLZiyDi0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400608/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E5%9F%8E%E5%B7%B4-%E5%BE%80%E8%BF%94%E5%95%9F%E5%BE%B7b14%E7%B7%9A%E6%9A%AB%E5%BB%B6%E9%95%B7%E6%9C%8D%E5%8B%99-b13%E9%87%8D%E9%99%BD%E6%8E%A8%E5%BF%AB%E9%80%9F%E7%8F%AD%E6%AC%A1",
     "timestamp": "2026-10-16T12:53:36.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮前發言人萊維特爆辭任內情：每周逾60工時　還要隨時候命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187854986487271424978306.jpeg/10f_7Q1lYRJb4_lAcLzVT0MCAJJDTkUw72iug-9oroM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400618/%E7%99%BD%E5%AE%AE%E5%89%8D%E7%99%BC%E8%A8%80%E4%BA%BA%E8%90%8A%E7%B6%AD%E7%89%B9%E7%88%86%E8%BE%AD%E4%BB%BB%E5%85%A7%E6%83%85-%E6%AF%8F%E5%91%A8%E9%80%BE60%E5%B7%A5%E6%99%82-%E9%82%84%E8%A6%81%E9%9A%A8%E6%99%82%E5%80%99%E5%91%BD",
-    "timestamp": "2026-10-16T12:28:17.063Z",
     "strategy": ".content-card__main"
   }
 ];
