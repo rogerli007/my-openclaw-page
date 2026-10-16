@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T15:32:42.704Z
+// Last updated: 2026-10-16T15:45:58.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跳2年啦啦隊憑咩買樓？女星Yuri駁斥靠男人：14歲半工半讀靠自己",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187817581449318400930567.png/qIIxPDg08LyX3878HqjKsg6Qym4e5l1VkGG-bZBhvm0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400534/%E8%B7%B32%E5%B9%B4%E5%95%A6%E5%95%A6%E9%9A%8A%E6%86%91%E5%92%A9%E8%B2%B7%E6%A8%93-%E5%A5%B3%E6%98%9Fyuri%E9%A7%81%E6%96%A5%E9%9D%A0%E7%94%B7%E4%BA%BA-14%E6%AD%B2%E5%8D%8A%E5%B7%A5%E5%8D%8A%E8%AE%80%E9%9D%A0%E8%87%AA%E5%B7%B1",
+    "timestamp": "2026-10-16T15:45:58.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB進軍短劇市場開拍《金枝慾孽》番外篇　阮浩棕擔正演男一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187788848344600576790512.jpeg/Jdezmlx1zKw_GKR84fqkBc7NDQdWU8fHtDyVErQ8lRI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60398902/lisa%E8%88%87aespa%E7%AD%89k-pop%E5%A5%B3%E5%9C%98%E5%BE%A1%E7%94%A8-%E8%A7%A3%E7%A2%BC%E8%B6%8A%E5%8D%97%E5%89%8D%E8%A1%9B%E5%93%81%E7%89%8Cla-lune%E7%9A%84%E6%9A%97%E9%BB%91%E7%BE%8E%E5%AD%B8",
     "timestamp": "2026-10-16T08:25:47.600Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗談二戰：繼承「村山談話」等歷代內閣立場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161969927549095936438596.jpeg/9iQQNt4jS37V1npw3i2MbMJSq6rTGD61ZSyjtGUso7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400439/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AB%87%E4%BA%8C%E6%88%B0-%E7%B9%BC%E6%89%BF-%E6%9D%91%E5%B1%B1%E8%AB%87%E8%A9%B1-%E7%AD%89%E6%AD%B7%E4%BB%A3%E5%85%A7%E9%96%A3%E7%AB%8B%E5%A0%B4",
-    "timestamp": "2026-10-16T07:58:37.516Z",
     "strategy": ".content-card__main"
   }
 ];
