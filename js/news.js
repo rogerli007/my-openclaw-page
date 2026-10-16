@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T00:44:36.999Z
+// Last updated: 2026-10-16T02:02:55.734Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LIVE4WELL研發港產醫療AI模型　整合五大健康指標助及早識別風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187645670144610304839267.jpeg/6EZOqX0WpdvBzREOfzJzcVIIgd5bXCGU1D_DPtQ_wz4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60400260/live4well%E7%A0%94%E7%99%BC%E6%B8%AF%E7%94%A2%E9%86%AB%E7%99%82ai%E6%A8%A1%E5%9E%8B-%E6%95%B4%E5%90%88%E4%BA%94%E5%A4%A7%E5%81%A5%E5%BA%B7%E6%8C%87%E6%A8%99%E5%8A%A9%E5%8F%8A%E6%97%A9%E8%AD%98%E5%88%A5%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-10-16T02:02:55.734Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台女遭陌生男當街侵犯下體出血　男子歡呼逃跑　判囚20月檢方上訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187536367890993152138926.jpeg/Hw5KR4wfJGLm7ujY7984dhGThp5y14MRxt2gRcbdoEU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400233/%E6%B8%B8%E6%B3%B3%E4%B8%96%E7%95%8C%E7%9B%83%E4%BD%95%E8%A9%A9%E8%93%93%E7%9F%AD%E6%B1%A0200%E8%87%AA7%E5%B9%B4%E4%B8%8D%E6%95%97%E5%91%8A%E7%B5%82-%E9%98%BF%E6%96%AF%E5%A1%94%E7%B4%8D%E7%AB%99%E6%83%9C%E8%B2%A0%E4%BB%8D%E5%89%B5%E4%BD%B3%E7%B8%BE",
     "timestamp": "2026-10-15T17:31:43.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "游泳世界盃何詩蓓短池200自7年不敗告終　阿斯塔納站惜負仍創佳績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187536367890993152138926.jpeg/Hw5KR4wfJGLm7ujY7984dhGThp5y14MRxt2gRcbdoEU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400233/%E6%B8%B8%E6%B3%B3%E4%B8%96%E7%95%8C%E7%9B%83%E4%BD%95%E8%A9%A9%E8%93%93%E7%9F%AD%E6%B1%A0200%E8%87%AA7%E5%B9%B4%E4%B8%8D%E6%95%97%E5%91%8A%E7%B5%82-%E9%98%BF%E6%96%AF%E5%A1%94%E7%B4%8D%E7%AB%99%E6%83%9C%E8%B2%A0%E4%BB%8D%E5%89%B5%E4%BD%B3%E7%B8%BE",
-    "timestamp": "2026-10-15T17:18:44.256Z",
     "strategy": ".content-card__main"
   }
 ];
