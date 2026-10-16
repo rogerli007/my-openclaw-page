@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T11:19:26.083Z
+// Last updated: 2026-10-16T11:34:22.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西沙SIERRA SEA第2C(2)期招標沽41伙　頂層特色戶作價逾2531萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179780852226199552781924.jpeg/0Eg0I0KCJFbrLRSzsIXUiqMTTSlKR8mwRDwPqUQ8D6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60400606/%E8%A5%BF%E6%B2%99sierra-sea%E7%AC%AC2c-2-%E6%9C%9F%E6%8B%9B%E6%A8%99%E6%B2%BD41%E4%BC%99-%E9%A0%82%E5%B1%A4%E7%89%B9%E8%89%B2%E6%88%B6%E4%BD%9C%E5%83%B9%E9%80%BE2531%E8%90%AC",
+    "timestamp": "2026-10-16T11:34:22.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神2｜何沛珈俞可程Oscar三人同車修羅場　呷醋反擦出火花",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187733073622470656508971.jpeg/Ka916QIg8pbsPPMSo68DBJpI-dZI9OTU2gOKodoDiqE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60400318/tesla%E7%AC%AC%E4%BA%8C%E4%BB%A3roadster%E8%AA%95%E7%94%9F-%E9%A3%9B%E8%B5%B7%E4%BE%86-%E7%A4%BA%E7%AF%84%E9%A8%B0%E7%A9%BA%E7%BF%BB%E6%BB%BE-0-81%E7%A7%92%E7%A0%B4%E7%99%BE",
     "timestamp": "2026-10-16T03:58:54.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "八達通卡30周年商戰｜領先20年遭二維碼挑戰　逆襲反攻中日336城",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178405208854630400540792.jpeg/AFsKLNZ20oikbBWwGke8JpB_k3WjySxzniLR5Z4i0eU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60400244/%E5%85%AB%E9%81%94%E9%80%9A%E5%8D%A130%E5%91%A8%E5%B9%B4%E5%95%86%E6%88%B0-%E9%A0%98%E5%85%8820%E5%B9%B4%E9%81%AD%E4%BA%8C%E7%B6%AD%E7%A2%BC%E6%8C%91%E6%88%B0-%E9%80%86%E8%A5%B2%E5%8F%8D%E6%94%BB%E4%B8%AD%E6%97%A5336%E5%9F%8E",
-    "timestamp": "2026-10-16T03:49:13.604Z",
     "strategy": ".content-card__main"
   }
 ];
