@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T10:45:08.284Z
+// Last updated: 2026-10-16T11:19:26.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2｜何沛珈俞可程Oscar三人同車修羅場　呷醋反擦出火花",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187824980407095296426093.jpeg/rCYObGkZZaKjbWvct_ZTqcSc_7lBEOWxK-aZoivmmaI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400559/%E5%A5%B3%E7%A5%9E2-%E4%BD%95%E6%B2%9B%E7%8F%88%E4%BF%9E%E5%8F%AF%E7%A8%8Boscar%E4%B8%89%E4%BA%BA%E5%90%8C%E8%BB%8A%E4%BF%AE%E7%BE%85%E5%A0%B4-%E5%91%B7%E9%86%8B%E5%8F%8D%E6%93%A6%E5%87%BA%E7%81%AB%E8%8A%B1",
+    "timestamp": "2026-10-16T11:19:26.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Salomon攜手蔡依林推聯名XT-Whisper！酒紅焰火細節+香港發售資訊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260920/1178405208854630400540792.jpeg/AFsKLNZ20oikbBWwGke8JpB_k3WjySxzniLR5Z4i0eU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60400244/%E5%85%AB%E9%81%94%E9%80%9A%E5%8D%A130%E5%91%A8%E5%B9%B4%E5%95%86%E6%88%B0-%E9%A0%98%E5%85%8820%E5%B9%B4%E9%81%AD%E4%BA%8C%E7%B6%AD%E7%A2%BC%E6%8C%91%E6%88%B0-%E9%80%86%E8%A5%B2%E5%8F%8D%E6%94%BB%E4%B8%AD%E6%97%A5336%E5%9F%8E",
     "timestamp": "2026-10-16T03:49:13.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玉簟秋｜丞磊打麻將名場面瘋傳　單手咬煙眼神殺獲讚：神級鬆弛感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187447573477068800809341.png/mx5I4QyeOvjEUR17A0_NsgOHSBAKhkpclyehzpcnoc4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400053/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E4%B8%9E%E7%A3%8A%E6%89%93%E9%BA%BB%E5%B0%87%E5%90%8D%E5%A0%B4%E9%9D%A2%E7%98%8B%E5%82%B3-%E5%96%AE%E6%89%8B%E5%92%AC%E7%85%99%E7%9C%BC%E7%A5%9E%E6%AE%BA%E7%8D%B2%E8%AE%9A-%E7%A5%9E%E7%B4%9A%E9%AC%86%E5%BC%9B%E6%84%9F",
-    "timestamp": "2026-10-16T02:50:28.721Z",
     "strategy": ".content-card__main"
   }
 ];
