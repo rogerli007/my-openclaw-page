@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T17:17:01.114Z
+// Last updated: 2026-10-16T17:30:11.779Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
+    "timestamp": "2026-10-16T17:30:11.779Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187834008008921088572689.jpeg/BB3oAcmQ8CNwbTe3eKH8y4KDh2TIl4QAj8jwNI_I8DQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60400495/salomon%E6%94%9C%E6%89%8B%E8%94%A1%E4%BE%9D%E6%9E%97%E6%8E%A8%E8%81%AF%E5%90%8Dxt-whisper-%E9%85%92%E7%B4%85%E7%84%B0%E7%81%AB%E7%B4%B0%E7%AF%80-%E9%A6%99%E6%B8%AF%E7%99%BC%E5%94%AE%E8%B3%87%E8%A8%8A",
     "timestamp": "2026-10-16T10:45:08.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "岑寧兒首邀魏如萱作曲　新歌《古董相機》試唱惹全場觀眾紛紛拭淚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187802872432037888564901.jpeg/4gL3tPjqnw4eA4Xh7Kl5jue5lcrl8r45hB4_1IQeP9Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60400493/%E5%B2%91%E5%AF%A7%E5%85%92%E9%A6%96%E9%82%80%E9%AD%8F%E5%A6%82%E8%90%B1%E4%BD%9C%E6%9B%B2-%E6%96%B0%E6%AD%8C-%E5%8F%A4%E8%91%A3%E7%9B%B8%E6%A9%9F-%E8%A9%A6%E5%94%B1%E6%83%B9%E5%85%A8%E5%A0%B4%E8%A7%80%E7%9C%BE%E7%B4%9B%E7%B4%9B%E6%8B%AD%E6%B7%9A",
-    "timestamp": "2026-10-16T10:20:29.923Z",
     "strategy": ".content-card__main"
   }
 ];
