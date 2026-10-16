@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T02:02:55.734Z
+// Last updated: 2026-10-16T02:30:28.677Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "解放軍四大海域同步集訓　黃海南部罕見封航47天　內媒：劍指台獨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5e1d708313d12b1ca2b93255.jpg/NW9a6Tqotq3l1RbVMhk5s0ZmT5a-H1UMlRfC3ZUXwt0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60400294/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%9B%9B%E5%A4%A7%E6%B5%B7%E5%9F%9F%E5%90%8C%E6%AD%A5%E9%9B%86%E8%A8%93-%E9%BB%83%E6%B5%B7%E5%8D%97%E9%83%A8%E7%BD%95%E8%A6%8B%E5%B0%81%E8%88%AA47%E5%A4%A9-%E5%85%A7%E5%AA%92-%E5%8A%8D%E6%8C%87%E5%8F%B0%E7%8D%A8",
+    "timestamp": "2026-10-16T02:30:28.677Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LIVE4WELL研發港產醫療AI模型　整合五大健康指標助及早識別風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187576133793615872307625.jpeg/F1KDdF12aS57BBC6NoQvNcqO6e5IooNxPV5eAQdeXgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400243/%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E6%9D%91%E5%B1%8B%E5%AE%BF%E8%88%8D-48%E6%AD%B2%E7%94%B7%E6%81%90%E5%9A%87%E5%85%BC%E6%8F%AE%E5%88%80%E8%A2%AB%E6%8D%95-%E7%94%B7%E5%90%8C%E4%BA%8B%E9%81%AD%E5%89%B2%E5%82%B7%E9%A0%B8%E9%80%81%E9%99%A2",
     "timestamp": "2026-10-15T17:45:43.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "游泳世界盃何詩蓓短池200自7年不敗告終　阿斯塔納站惜負仍創佳績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187536367890993152138926.jpeg/Hw5KR4wfJGLm7ujY7984dhGThp5y14MRxt2gRcbdoEU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400233/%E6%B8%B8%E6%B3%B3%E4%B8%96%E7%95%8C%E7%9B%83%E4%BD%95%E8%A9%A9%E8%93%93%E7%9F%AD%E6%B1%A0200%E8%87%AA7%E5%B9%B4%E4%B8%8D%E6%95%97%E5%91%8A%E7%B5%82-%E9%98%BF%E6%96%AF%E5%A1%94%E7%B4%8D%E7%AB%99%E6%83%9C%E8%B2%A0%E4%BB%8D%E5%89%B5%E4%BD%B3%E7%B8%BE",
-    "timestamp": "2026-10-15T17:31:43.329Z",
     "strategy": ".content-card__main"
   }
 ];
