@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T19:40:36.867Z
+// Last updated: 2026-10-17T20:21:27.588Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：特朗普叫停對俄制裁如獎勵普京　冀G20峰會與美俄會面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188327001258201088587329.jpeg/JZA_KVjxiQ6-5ItH2VJIbM5bRKPwq3813S7pY90u6WM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400849/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AB%E5%81%9C%E5%B0%8D%E4%BF%84%E5%88%B6%E8%A3%81%E5%A6%82%E7%8D%8E%E5%8B%B5%E6%99%AE%E4%BA%AC-%E5%86%80g20%E5%B3%B0%E6%9C%83%E8%88%87%E7%BE%8E%E4%BF%84%E6%9C%83%E9%9D%A2",
+    "timestamp": "2026-10-17T20:21:27.588Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：特朗普叫停對俄制裁如獎勵普京　冀G20峰會與美俄會面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188206772951715840153204.jpeg/FFVr-QFju4FOr9HMitYXNC6I94LRbY4Fdb21h3W9tYc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400799/%E7%8E%8B%E6%99%B6%E5%A5%B3%E5%85%92%E7%8E%8B%E6%B5%B7%E6%A6%9B%E5%A4%A7%E6%9B%AC%E6%AF%94%E5%A0%85%E5%B0%BC-%E9%81%AD%E7%88%B6%E6%AF%8D-%E7%9B%A3%E8%A6%96-%E8%B3%AA%E5%95%8F-%E9%BB%9E%E8%A7%A3%E7%9D%80%E5%92%81%E5%B0%91%E5%B8%83",
     "timestamp": "2026-10-17T14:30:31.764Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥當勞辦慈善活動、餐廳設捐款箱　為麥當勞叔叔之家籌款逾1.1億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188244401944530944580932.jpeg/VXWQnn1DGN2ZEuemvD5BVCZDkzgCIw3L7zYa0O82GtA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400825/%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%BE%A6%E6%85%88%E5%96%84%E6%B4%BB%E5%8B%95-%E9%A4%90%E5%BB%B3%E8%A8%AD%E6%8D%90%E6%AC%BE%E7%AE%B1-%E7%82%BA%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%8F%94%E5%8F%94%E4%B9%8B%E5%AE%B6%E7%B1%8C%E6%AC%BE%E9%80%BE1-1%E5%84%84",
-    "timestamp": "2026-10-17T14:17:30.055Z",
     "strategy": ".content-card__main"
   }
 ];
