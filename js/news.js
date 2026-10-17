@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T20:33:36.257Z
+// Last updated: 2026-10-17T20:46:42.623Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柴灣2童突衝出馬路　司機慢駛變急煞　網民斥︰父母去咗邊｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188333509199007744352718.jpeg/kITp2Al1RVb4jUQKVcf-x9QvgLGA86KlVRX_2FUV_9g",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400850/%E6%9F%B4%E7%81%A32%E7%AB%A5%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E6%85%A2%E9%A7%9B%E8%AE%8A%E6%80%A5%E7%85%9E-%E7%B6%B2%E6%B0%91%E6%96%A5-%E7%88%B6%E6%AF%8D%E5%8E%BB%E5%92%97%E9%82%8A-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-17T20:46:42.623Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柴灣2童突衝出馬路　司機慢駛變急煞　網民斥︰父母去咗邊｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188256887364128768859706.jpeg/OGuqwMP3J8mwszAk-0J4l6ZFrik0owx4wwhTFMMIUxQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400827/%E8%90%AC%E8%81%96%E6%9C%88-%E5%B0%96%E6%9D%B1%E9%BA%BC%E5%9C%B0%E9%81%93%E8%8A%B1%E5%9C%92%E9%80%BC%E7%88%86-%E5%B8%82%E6%B0%91%E8%AE%9A%E6%B0%A3%E6%B0%9B%E4%BD%B3%E5%8A%A9%E5%90%B8%E5%AE%A2%E7%95%99%E6%B8%AF%E6%B6%88%E8%B2%BB%E5%86%80%E5%A4%9A%E8%BE%A6",
     "timestamp": "2026-10-17T14:54:47.859Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜車路士作客2球破愛華頓不敗身　門將馬天尼斯撞頭傷出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188256383821156352926758.jpeg/v9l0u0I9a5R1DsZE_xS9vGtEs2AK_dXxriY5Y64mOWM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400833/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%BD%9C%E5%AE%A22%E7%90%83%E7%A0%B4%E6%84%9B%E8%8F%AF%E9%A0%93%E4%B8%8D%E6%95%97%E8%BA%AB-%E9%96%80%E5%B0%87%E9%A6%AC%E5%A4%A9%E5%B0%BC%E6%96%AF%E6%92%9E%E9%A0%AD%E5%82%B7%E5%87%BA",
-    "timestamp": "2026-10-17T14:41:57.378Z",
     "strategy": ".content-card__main"
   }
 ];
