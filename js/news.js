@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T12:47:42.540Z
+// Last updated: 2026-10-17T12:58:28.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金智媛《Doctor X》手術中途換人惹議　遭質疑：人命用金錢衡量？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188144187409698816843176.png/Qsm7QNsOJSsADGKkRlr_ik2w6xhV0fzhNK3HeDStx3g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400738/%E9%87%91%E6%99%BA%E5%AA%9B-doctor-x-%E6%89%8B%E8%A1%93%E4%B8%AD%E9%80%94%E6%8F%9B%E4%BA%BA%E6%83%B9%E8%AD%B0-%E9%81%AD%E8%B3%AA%E7%96%91-%E4%BA%BA%E5%91%BD%E7%94%A8%E9%87%91%E9%8C%A2%E8%A1%A1%E9%87%8F",
+    "timestamp": "2026-10-17T12:58:28.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "爾冬陞支持年輕人受霸凌要出聲　曾有男演員投訴被男導演性騷擾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158514992492843008352076.jpeg/C1ODBwD26ObnznokQmqeXiBdHZcmfuEaBM1MugTNTLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60400715/%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E5%B9%B4%E5%85%A7%E6%8E%A84f%C2%B2%E6%9E%B6%E6%A7%8Bdram-%E5%B0%87%E6%92%BC%E4%B8%89%E6%98%9Fsk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%BE%8E%E5%85%89%E4%B8%89%E5%B7%A8%E9%A0%AD%E6%A0%BC%E5%B1%80",
     "timestamp": "2026-10-17T05:45:41.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼野火持續　4名消防員殉職　毒霾致逾27萬人急性呼吸道感染",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188094363977125888697152.jpeg/E1ePGbZ6kPI3SZRVBDHw46iQ1OOc6p6Al5pcd5eaXHc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400714/%E5%8D%B0%E5%B0%BC%E9%87%8E%E7%81%AB%E6%8C%81%E7%BA%8C-4%E5%90%8D%E6%B6%88%E9%98%B2%E5%93%A1%E6%AE%89%E8%81%B7-%E6%AF%92%E9%9C%BE%E8%87%B4%E9%80%BE27%E8%90%AC%E4%BA%BA%E6%80%A5%E6%80%A7%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93",
-    "timestamp": "2026-10-17T05:33:35.048Z",
     "strategy": ".content-card__main"
   }
 ];
