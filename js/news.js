@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T17:28:22.104Z
+// Last updated: 2026-10-17T17:43:15.038Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "體壇札記｜港超聯「東鐵打吡」狂想曲　每周搭鐵去睇波全球皆適用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188257890008305664658491.jpeg/jtI6vSy7o8zd9pnk1sQK-GFZsI_3svQS9sv_5fbL_-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400796/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%B8%AF%E8%B6%85%E8%81%AF-%E6%9D%B1%E9%90%B5%E6%89%93%E5%90%A1-%E7%8B%82%E6%83%B3%E6%9B%B2-%E6%AF%8F%E5%91%A8%E6%90%AD%E9%90%B5%E5%8E%BB%E7%9D%87%E6%B3%A2%E5%85%A8%E7%90%83%E7%9A%86%E9%81%A9%E7%94%A8",
+    "timestamp": "2026-10-17T17:43:15.038Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜夏蘭特梅開二度領曼城取七連勝　利物浦多打兩人反勝賓福特",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188211647060119552147805.jpeg/WGn6l2tfrMJt6fGOs8gVwuhyFifPPdjugxIwy4MSMMs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400802/%E7%88%BE%E5%86%AC%E9%99%9E%E6%94%AF%E6%8C%81%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%8F%97%E9%9C%B8%E5%87%8C%E8%A6%81%E5%87%BA%E8%81%B2-%E6%9B%BE%E6%9C%89%E7%94%B7%E6%BC%94%E5%93%A1%E6%8A%95%E8%A8%B4%E8%A2%AB%E7%94%B7%E5%B0%8E%E6%BC%94%E6%80%A7%E9%A8%B7%E6%93%BE",
     "timestamp": "2026-10-17T12:47:42.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臺日電梯｜據悉機電署去信全港承辦商　限一個月內排查近10年工程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187773918488825856127065.jpeg/2yE6qq0ScNNnfMCSyfY-Q4duil64thnz2bgrPNm4Kzw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400763/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E6%93%9A%E6%82%89%E6%A9%9F%E9%9B%BB%E7%BD%B2%E5%8E%BB%E4%BF%A1%E5%85%A8%E6%B8%AF%E6%89%BF%E8%BE%A6%E5%95%86-%E9%99%90%E4%B8%80%E5%80%8B%E6%9C%88%E5%85%A7%E6%8E%92%E6%9F%A5%E8%BF%9110%E5%B9%B4%E5%B7%A5%E7%A8%8B",
-    "timestamp": "2026-10-17T11:41:05.640Z",
     "strategy": ".content-card__main"
   }
 ];
