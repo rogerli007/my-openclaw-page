@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T13:30:35.663Z
+// Last updated: 2026-10-17T13:42:48.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "無涯之約｜本地動畫入圍中美電影節　導演孔令政︰證香港有能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135931972242116608485970.png/F-HtDFW-U4kxAZm3p7b42m2O_py8p_xnkM7UIZDO1CE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400743/%E7%84%A1%E6%B6%AF%E4%B9%8B%E7%B4%84-%E6%9C%AC%E5%9C%B0%E5%8B%95%E7%95%AB%E5%85%A5%E5%9C%8D%E4%B8%AD%E7%BE%8E%E9%9B%BB%E5%BD%B1%E7%AF%80-%E5%B0%8E%E6%BC%94%E5%AD%94%E4%BB%A4%E6%94%BF-%E8%AD%89%E9%A6%99%E6%B8%AF%E6%9C%89%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-10-17T13:42:48.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《嫁金釵》男主角閆桉是誰？韓團出道十年、頭部曾長腫瘤剃髮重生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185514571046064128768502.jpeg/EXm6DNeNNV1alZeMb2unhOMb709UGCEFXwTurnoE7q4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400741/%E4%B8%80%E5%B0%8F%E6%99%824%E5%AE%97%E8%A1%8C%E5%B1%B1%E4%B8%AD%E6%9A%91%E6%88%96%E4%B8%8D%E9%81%A9-%E8%AC%B9%E8%A8%98%E5%9B%9B%E6%AD%A5%E6%80%A5%E6%95%91%E6%B3%95%E4%BF%9D%E5%91%BD",
     "timestamp": "2026-10-17T06:54:17.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油塘女子遭丈夫偷$45萬勞力士及Hermès、CHANEL袋　嬲爆報警拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221222/682656070732091392947025.jpeg/RptQ_92TUfQMCnGfkEX7JNWyAxQ7gY0Xf2Ra_X9kWv0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400735/%E6%B2%B9%E5%A1%98%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E5%81%B7-45%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%8F%8Aherm%C3%A8s-chanel%E8%A2%8B-%E5%AC%B2%E7%88%86%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-10-17T06:29:02.681Z",
     "strategy": ".content-card__main"
   }
 ];
