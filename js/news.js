@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T06:29:02.681Z
+// Last updated: 2026-10-17T06:54:17.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一小時4宗行山中暑或不適　謹記四步急救法保命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185514571046064128768502.jpeg/EXm6DNeNNV1alZeMb2unhOMb709UGCEFXwTurnoE7q4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400741/%E4%B8%80%E5%B0%8F%E6%99%824%E5%AE%97%E8%A1%8C%E5%B1%B1%E4%B8%AD%E6%9A%91%E6%88%96%E4%B8%8D%E9%81%A9-%E8%AC%B9%E8%A8%98%E5%9B%9B%E6%AD%A5%E6%80%A5%E6%95%91%E6%B3%95%E4%BF%9D%E5%91%BD",
+    "timestamp": "2026-10-17T06:54:17.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油塘女子遭丈夫偷$45萬勞力士及Hermès、CHANEL袋　嬲爆報警拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187993579633512448829046.jpeg/nklntG3dfDD_LliUE9FqjKWxFRuOt8pYJadLqSWnS6k",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E5%81%9C%E6%B0%B4-1%E6%93%8B%E6%B0%B41%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-16T21:34:36.627Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坪石邨爆水管水柱沖天　2男合力停水　1擋水1關掣齊濕透｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187993579633512448829046.jpeg/nklntG3dfDD_LliUE9FqjKWxFRuOt8pYJadLqSWnS6k",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E5%81%9C%E6%B0%B4-1%E6%93%8B%E6%B0%B41%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-16T21:17:31.685Z",
     "strategy": ".content-card__main"
   }
 ];
