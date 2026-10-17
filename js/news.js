@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T12:58:28.180Z
+// Last updated: 2026-10-17T13:17:03.909Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洪水橋菜檔店貓吸火警濃煙不適　檔主疑阻留醫未供糧水涉虐畜被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188229114541117440398750.jpeg/JjJ8uPgyq2I99AzOX-xvfULIP9lFNXRYJNjusiTY7rI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400815/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E8%8F%9C%E6%AA%94%E5%BA%97%E8%B2%93%E5%90%B8%E7%81%AB%E8%AD%A6%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9-%E6%AA%94%E4%B8%BB%E7%96%91%E9%98%BB%E7%95%99%E9%86%AB%E6%9C%AA%E4%BE%9B%E7%B3%A7%E6%B0%B4%E6%B6%89%E8%99%90%E7%95%9C%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-17T13:17:03.909Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金智媛《Doctor X》手術中途換人惹議　遭質疑：人命用金錢衡量？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260107/1085432077702139904852140.jpeg/PERmjlFLqIrYXEwLpO_-bR8PoRRNMnEVAAaJUSoGiVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400730/%E8%A7%80%E5%A1%98%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A87%E6%97%AC%E7%BF%81%E8%A2%AB%E6%8D%95-%E6%B6%89%E9%90%B5%E9%8C%98%E6%89%91%E6%AF%80%E5%85%B1%E7%94%A8%E5%BB%9A%E6%88%BF5%E9%9A%BB%E7%AA%97-%E5%A4%A7%E9%96%80%E5%A1%97%E6%8A%B9%E7%B3%9E%E4%BE%BF",
     "timestamp": "2026-10-17T05:54:26.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長鑫存儲年內推4F²架構DRAM　將撼三星SK海力士美光三巨頭格局？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158514992492843008352076.jpeg/C1ODBwD26ObnznokQmqeXiBdHZcmfuEaBM1MugTNTLo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60400715/%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E5%B9%B4%E5%85%A7%E6%8E%A84f%C2%B2%E6%9E%B6%E6%A7%8Bdram-%E5%B0%87%E6%92%BC%E4%B8%89%E6%98%9Fsk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%BE%8E%E5%85%89%E4%B8%89%E5%B7%A8%E9%A0%AD%E6%A0%BC%E5%B1%80",
-    "timestamp": "2026-10-17T05:45:41.719Z",
     "strategy": ".content-card__main"
   }
 ];
