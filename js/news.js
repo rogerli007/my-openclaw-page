@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T02:26:03.067Z
+// Last updated: 2026-10-17T02:58:39.560Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧炳強：999將增實時視像功能　利用AI排序報案優次　2028年啟用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188075952396046336807234.jpeg/jBGusfi4pdofXaegJd34ukBCxIV8JzwmGV_8phlf_KY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400693/%E9%84%A7%E7%82%B3%E5%BC%B7-999%E5%B0%87%E5%A2%9E%E5%AF%A6%E6%99%82%E8%A6%96%E5%83%8F%E5%8A%9F%E8%83%BD-%E5%88%A9%E7%94%A8ai%E6%8E%92%E5%BA%8F%E5%A0%B1%E6%A1%88%E5%84%AA%E6%AC%A1-2028%E5%B9%B4%E5%95%9F%E7%94%A8",
+    "timestamp": "2026-10-17T02:58:39.560Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫生你有病｜黃詠儀患末期肺癌仍堅持診症  容樹恒淚崩為太太拔喉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187946064368373760197604.jpeg/kIcNz8yO4rQYq6luvGZ2iuhCkf5ok7Mljtsb9o7bG_Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400656/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%A8%E6%98%9F%E9%8F%88%E6%94%94%E6%88%AA%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9%E5%8E%9F%E6%9C%89%E9%80%9F%E5%BA%A6",
     "timestamp": "2026-10-16T18:48:12.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
-    "timestamp": "2026-10-16T18:22:45.295Z",
     "strategy": ".content-card__main"
   }
 ];
