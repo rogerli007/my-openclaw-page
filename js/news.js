@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T10:31:14.984Z
+// Last updated: 2026-10-17T10:43:08.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張柏芝一襲白裙優雅亮相深圳灣　氣色絕佳獲激讚：白月光回來了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188176656796225536618397.jpeg/jRlsdmYbDAemvFyeuxxKnQk40KrDXy0VGyewfxsnsH8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400778/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E4%B8%80%E8%A5%B2%E7%99%BD%E8%A3%99%E5%84%AA%E9%9B%85%E4%BA%AE%E7%9B%B8%E6%B7%B1%E5%9C%B3%E7%81%A3-%E6%B0%A3%E8%89%B2%E7%B5%95%E4%BD%B3%E7%8D%B2%E6%BF%80%E8%AE%9A-%E7%99%BD%E6%9C%88%E5%85%89%E5%9B%9E%E4%BE%86%E4%BA%86",
+    "timestamp": "2026-10-17T10:43:08.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "袁詠儀霸氣反擊　嘆吳鎮宇老婆受苦「很可憐」：救了整個世界",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188075952396046336807234.jpeg/jBGusfi4pdofXaegJd34ukBCxIV8JzwmGV_8phlf_KY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400693/%E9%84%A7%E7%82%B3%E5%BC%B7-999%E5%B0%87%E5%A2%9E%E5%AF%A6%E6%99%82%E8%A6%96%E5%83%8F%E5%8A%9F%E8%83%BD-%E5%88%A9%E7%94%A8ai%E6%8E%92%E5%BA%8F%E5%A0%B1%E6%A1%88%E5%84%AA%E6%AC%A1-2028%E5%B9%B4%E5%95%9F%E7%94%A8",
     "timestamp": "2026-10-17T02:58:39.560Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫生你有病｜黃詠儀患末期肺癌仍堅持診症  容樹恒淚崩為太太拔喉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188071050546515968749260.jpeg/KCF7fdwUSN0Dyw9SlSBHIAHugALXMHGmyrSL1cq0i9U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400685/%E9%86%AB%E7%94%9F%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E8%A9%A0%E5%84%80%E6%82%A3%E6%9C%AB%E6%9C%9F%E8%82%BA%E7%99%8C%E4%BB%8D%E5%A0%85%E6%8C%81%E8%A8%BA%E7%97%87-%E5%AE%B9%E6%A8%B9%E6%81%92%E6%B7%9A%E5%B4%A9%E7%82%BA%E5%A4%AA%E5%A4%AA%E6%8B%94%E5%96%89",
-    "timestamp": "2026-10-17T02:26:03.067Z",
     "strategy": ".content-card__main"
   }
 ];
