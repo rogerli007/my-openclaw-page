@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T11:41:05.640Z
+// Last updated: 2026-10-17T12:47:42.540Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "爾冬陞支持年輕人受霸凌要出聲　曾有男演員投訴被男導演性騷擾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188211647060119552147805.jpeg/WGn6l2tfrMJt6fGOs8gVwuhyFifPPdjugxIwy4MSMMs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400802/%E7%88%BE%E5%86%AC%E9%99%9E%E6%94%AF%E6%8C%81%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%8F%97%E9%9C%B8%E5%87%8C%E8%A6%81%E5%87%BA%E8%81%B2-%E6%9B%BE%E6%9C%89%E7%94%B7%E6%BC%94%E5%93%A1%E6%8A%95%E8%A8%B4%E8%A2%AB%E7%94%B7%E5%B0%8E%E6%BC%94%E6%80%A7%E9%A8%B7%E6%93%BE",
+    "timestamp": "2026-10-17T12:47:42.540Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯｜據悉機電署去信全港承辦商　限一個月內排查近10年工程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188094363977125888697152.jpeg/E1ePGbZ6kPI3SZRVBDHw46iQ1OOc6p6Al5pcd5eaXHc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400714/%E5%8D%B0%E5%B0%BC%E9%87%8E%E7%81%AB%E6%8C%81%E7%BA%8C-4%E5%90%8D%E6%B6%88%E9%98%B2%E5%93%A1%E6%AE%89%E8%81%B7-%E6%AF%92%E9%9C%BE%E8%87%B4%E9%80%BE27%E8%90%AC%E4%BA%BA%E6%80%A5%E6%80%A7%E5%91%BC%E5%90%B8%E9%81%93%E6%84%9F%E6%9F%93",
     "timestamp": "2026-10-17T05:33:35.048Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美貿易｜240年前中國皇后號抵廣州　美破歐洲封鎖大賺掀中國熱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188083275617275904658701.png/v3l1uKwgNH7URQkoRKlsKhWKUD4GOf1w_MdPtfzHT7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400702/%E4%B8%AD%E7%BE%8E%E8%B2%BF%E6%98%93-240%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9C%8B%E7%9A%87%E5%90%8E%E8%99%9F%E6%8A%B5%E5%BB%A3%E5%B7%9E-%E7%BE%8E%E7%A0%B4%E6%AD%90%E6%B4%B2%E5%B0%81%E9%8E%96%E5%A4%A7%E8%B3%BA%E6%8E%80%E4%B8%AD%E5%9C%8B%E7%86%B1",
-    "timestamp": "2026-10-17T04:45:50.633Z",
     "strategy": ".content-card__main"
   }
 ];
