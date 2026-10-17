@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T05:54:26.209Z
+// Last updated: 2026-10-17T06:29:02.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油塘女子遭丈夫偷$45萬勞力士及Hermès、CHANEL袋　嬲爆報警拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221222/682656070732091392947025.jpeg/RptQ_92TUfQMCnGfkEX7JNWyAxQ7gY0Xf2Ra_X9kWv0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400735/%E6%B2%B9%E5%A1%98%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E5%81%B7-45%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%8F%8Aherm%C3%A8s-chanel%E8%A2%8B-%E5%AC%B2%E7%88%86%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-10-17T06:29:02.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘翠屏北邨7旬翁被捕　涉鐵錘扑毀共用廚房5隻窗　大門塗抹糞便",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187993579633512448829046.jpeg/nklntG3dfDD_LliUE9FqjKWxFRuOt8pYJadLqSWnS6k",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E5%81%9C%E6%B0%B4-1%E6%93%8B%E6%B0%B41%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-16T21:17:31.685Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坪石邨爆水管水柱沖天　2男合力關掣齊濕透　網民：辛苦晒｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187980993215074304718064.jpeg/MNNPuJHzft-BvyVvB22KbBMe3q_O1igX2AvCv9gLwr8",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E7%B6%B2%E6%B0%91-%E8%BE%9B%E8%8B%A6%E6%99%92-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-16T20:58:19.706Z",
     "strategy": ".content-card__main"
   }
 ];
