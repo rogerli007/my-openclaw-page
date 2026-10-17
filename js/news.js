@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T13:17:03.909Z
+// Last updated: 2026-10-17T13:30:35.663Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《嫁金釵》男主角閆桉是誰？韓團出道十年、頭部曾長腫瘤剃髮重生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187448918426783744152376.png/g33F1i-hKM69_4YGf4M-WsUWSeNVM4FlZ6XxoWel8aE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400078/%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B7%E4%B8%BB%E8%A7%92%E9%96%86%E6%A1%89%E6%98%AF%E8%AA%B0-%E9%9F%93%E5%9C%98%E5%87%BA%E9%81%93%E5%8D%81%E5%B9%B4-%E9%A0%AD%E9%83%A8%E6%9B%BE%E9%95%B7%E8%85%AB%E7%98%A4%E5%89%83%E9%AB%AE%E9%87%8D%E7%94%9F",
+    "timestamp": "2026-10-17T13:30:35.663Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洪水橋菜檔店貓吸火警濃煙不適　檔主疑阻留醫未供糧水涉虐畜被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221222/682656070732091392947025.jpeg/RptQ_92TUfQMCnGfkEX7JNWyAxQ7gY0Xf2Ra_X9kWv0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400735/%E6%B2%B9%E5%A1%98%E5%A5%B3%E5%AD%90%E9%81%AD%E4%B8%88%E5%A4%AB%E5%81%B7-45%E8%90%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%8F%8Aherm%C3%A8s-chanel%E8%A2%8B-%E5%AC%B2%E7%88%86%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-10-17T06:29:02.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘翠屏北邨7旬翁被捕　涉鐵錘扑毀共用廚房5隻窗　大門塗抹糞便",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260107/1085432077702139904852140.jpeg/PERmjlFLqIrYXEwLpO_-bR8PoRRNMnEVAAaJUSoGiVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400730/%E8%A7%80%E5%A1%98%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A87%E6%97%AC%E7%BF%81%E8%A2%AB%E6%8D%95-%E6%B6%89%E9%90%B5%E9%8C%98%E6%89%91%E6%AF%80%E5%85%B1%E7%94%A8%E5%BB%9A%E6%88%BF5%E9%9A%BB%E7%AA%97-%E5%A4%A7%E9%96%80%E5%A1%97%E6%8A%B9%E7%B3%9E%E4%BE%BF",
-    "timestamp": "2026-10-17T05:54:26.209Z",
     "strategy": ".content-card__main"
   }
 ];
