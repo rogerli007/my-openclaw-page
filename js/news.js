@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T02:58:39.560Z
+// Last updated: 2026-10-17T03:46:43.008Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢蛋家灣16名女子行山　中年婦突吐血抽筋　直升機救起送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185199076489039872518463.jpeg/My6z-IYaUpCJsaYGm4D6GQvvS9x2kshpVzet-nI3rfo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400698/%E8%A5%BF%E8%B2%A2%E8%9B%8B%E5%AE%B6%E7%81%A316%E5%90%8D%E5%A5%B3%E5%AD%90%E8%A1%8C%E5%B1%B1-%E4%B8%AD%E5%B9%B4%E5%A9%A6%E7%AA%81%E5%90%90%E8%A1%80%E6%8A%BD%E7%AD%8B-%E7%9B%B4%E5%8D%87%E6%A9%9F%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-10-17T03:46:43.008Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧炳強：999將增實時視像功能　利用AI排序報案優次　2028年啟用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187946064368373760197604.jpeg/kIcNz8yO4rQYq6luvGZ2iuhCkf5ok7Mljtsb9o7bG_Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400656/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%A8%E6%98%9F%E9%8F%88%E6%94%94%E6%88%AA%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9%E5%8E%9F%E6%9C%89%E9%80%9F%E5%BA%A6",
     "timestamp": "2026-10-16T18:58:09.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：烏克蘭用星鏈攔截俄羅斯無人機　尚未恢復原有速度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187946064368373760197604.jpeg/kIcNz8yO4rQYq6luvGZ2iuhCkf5ok7Mljtsb9o7bG_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400656/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%A8%E6%98%9F%E9%8F%88%E6%94%94%E6%88%AA%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9%E5%8E%9F%E6%9C%89%E9%80%9F%E5%BA%A6",
-    "timestamp": "2026-10-16T18:48:12.459Z",
     "strategy": ".content-card__main"
   }
 ];
