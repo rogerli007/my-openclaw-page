@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T16:54:21.193Z
+// Last updated: 2026-10-17T17:16:17.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜夏蘭特梅開二度領曼城取七連勝　利物浦多打兩人反勝賓福特",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188294555288997888826530.jpeg/nVhGy6KJVclhTfcel3kiDCYESQ8G3w05l3DfpZdw36U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400844/%E8%8B%B1%E8%B6%85-%E5%A4%8F%E8%98%AD%E7%89%B9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6%E9%A0%98%E6%9B%BC%E5%9F%8E%E5%8F%96%E4%B8%83%E9%80%A3%E5%8B%9D-%E5%88%A9%E7%89%A9%E6%B5%A6%E5%A4%9A%E6%89%93%E5%85%A9%E4%BA%BA%E5%8F%8D%E5%8B%9D%E8%B3%93%E7%A6%8F%E7%89%B9",
+    "timestamp": "2026-10-17T17:16:17.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風？天文台料超強颱風薔琵續增強　歐美預報周末闖中國東南沿岸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188170463767957504310497.png/zuzjfrJIfqotdKs54RsuyVRv9vgNomlksevSa7Hr0ms?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400336/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E5%9C%B0%E9%9C%87%E5%BE%8C%E5%B7%A8%E8%87%80%E7%B6%B2%E7%B4%85%E5%BB%A2%E5%A2%9F%E6%89%93%E5%8D%A1-%E8%A2%AB%E8%BD%9F%E6%B6%88%E8%B2%BB%E7%81%BD%E9%9B%A3-%E8%BE%AF%E7%A8%B1-%E8%AE%93%E4%B8%96%E7%95%8C%E9%97%9C%E6%B3%A8",
     "timestamp": "2026-10-17T11:17:30.186Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "愛回家｜邵初「中門大開」震撼新加坡  性感戰衣引東張女神留言問",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188160404774195200865237.jpeg/uc4YmXqVGZ-yHn0VFtC2G7HlDofPete0qm2TY6ptk2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400724/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E9%82%B5%E5%88%9D-%E4%B8%AD%E9%96%80%E5%A4%A7%E9%96%8B-%E9%9C%87%E6%92%BC%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%80%A7%E6%84%9F%E6%88%B0%E8%A1%A3%E5%BC%95%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E7%95%99%E8%A8%80%E5%95%8F",
-    "timestamp": "2026-10-17T10:56:11.624Z",
     "strategy": ".content-card__main"
   }
 ];
