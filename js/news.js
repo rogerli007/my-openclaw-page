@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T13:54:59.240Z
+// Last updated: 2026-10-17T14:17:30.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥當勞辦慈善活動、餐廳設捐款箱　為麥當勞叔叔之家籌款逾1.1億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188244401944530944580932.jpeg/VXWQnn1DGN2ZEuemvD5BVCZDkzgCIw3L7zYa0O82GtA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400825/%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%BE%A6%E6%85%88%E5%96%84%E6%B4%BB%E5%8B%95-%E9%A4%90%E5%BB%B3%E8%A8%AD%E6%8D%90%E6%AC%BE%E7%AE%B1-%E7%82%BA%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%8F%94%E5%8F%94%E4%B9%8B%E5%AE%B6%E7%B1%8C%E6%AC%BE%E9%80%BE1-1%E5%84%84",
+    "timestamp": "2026-10-17T14:17:30.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊偉倫新髮型被指為出戰金馬　馮德倫再發「酸」言︰驚遮住個獎呀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187844869071048704487356.jpeg/8RRn-amfI4M-S2fD_mkn1XqSkaF0tinrxqhfs_yoX7M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400596/%E8%8E%8A%E5%AD%90%E7%92%87%E6%89%93%E5%8C%B9%E5%85%8B%E7%90%83%E8%B5%B0%E5%85%89%E9%81%AD%E6%89%B9%E9%80%A0%E4%BD%9C-%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E6%B8%B8%E6%B0%B4%E7%9D%80%E6%AF%94%E5%A0%85%E5%B0%BC%E8%A9%B1%E9%9C%B2%E5%BA%95",
     "timestamp": "2026-10-17T07:48:10.487Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臺日電梯｜富亨邨工程票投臺日　房委會：考慮市建局獨立顧問報告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187765865936982016529846.jpeg/FUdEvxM-l0DWchudawly85vbXjCF5ZITh2wkSaJsJEk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400744/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E5%AF%8C%E4%BA%A8%E9%82%A8%E5%B7%A5%E7%A8%8B%E7%A5%A8%E6%8A%95%E8%87%BA%E6%97%A5-%E6%88%BF%E5%A7%94%E6%9C%83-%E8%80%83%E6%85%AE%E5%B8%82%E5%BB%BA%E5%B1%80%E7%8D%A8%E7%AB%8B%E9%A1%A7%E5%95%8F%E5%A0%B1%E5%91%8A",
-    "timestamp": "2026-10-17T07:18:45.281Z",
     "strategy": ".content-card__main"
   }
 ];
