@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T09:44:47.790Z
+// Last updated: 2026-10-17T09:54:01.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上海徐浦大橋6車相撞釀1死2傷　大型貨車越線擠扁私家車｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188181432413982720482693.jpeg/fSYG7WAjt_e5bP-z98ytk3ZiClw7e1ICuLHTiLix04g",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400781/%E4%B8%8A%E6%B5%B7%E5%BE%90%E6%B5%A6%E5%A4%A7%E6%A9%8B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E6%AD%BB2%E5%82%B7-%E5%A4%A7%E5%9E%8B%E8%B2%A8%E8%BB%8A%E8%B6%8A%E7%B7%9A%E6%93%A0%E6%89%81%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-17T09:54:01.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "專訪｜葉振弘跳出舒適圈尋音樂路　暫別兄弟背後的「難言之隱」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187408869899374592698527.jpeg/PwZ8y13w2grIve6Y-1mL8tPq0qDirn0nyRI_kckSP5E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399956/%E5%8C%97%E4%BA%AC%E6%99%AF%E5%8D%80%E8%B2%B7228%E5%85%83%E9%96%80%E7%A5%A8%E9%80%81%E5%BD%A9%E7%A5%A8-%E5%B9%B8%E9%81%8B%E9%81%8A%E5%AE%A2%E7%AB%9F%E4%B8%AD770%E8%90%AC%E5%A4%A7%E7%8D%8E-%E4%BB%A5%E7%82%BA%E6%98%AF%E9%A8%99%E5%AD%90",
     "timestamp": "2026-10-17T01:13:07.595Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗向靖國神社獻上祭品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188025681246687232302467.jpeg/d_KiNjxpiu2G7Sbw9QMHF50qvgXRzrNPDQSHcw0Eh3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400668/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE%E7%8D%BB%E4%B8%8A%E7%A5%AD%E5%93%81",
-    "timestamp": "2026-10-16T23:54:14.494Z",
     "strategy": ".content-card__main"
   }
 ];
