@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T01:13:07.595Z
+// Last updated: 2026-10-17T01:36:28.545Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國移民｜EAD工卡取消540天自動延期保障　審批慢隨時全家斷糧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187791445436665856358072.jpeg/TPXKJYFy46molGi0oAlwaiP5H8LRB2_y9Y9NSvWPTUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400403/%E7%BE%8E%E5%9C%8B%E7%A7%BB%E6%B0%91-ead%E5%B7%A5%E5%8D%A1%E5%8F%96%E6%B6%88540%E5%A4%A9%E8%87%AA%E5%8B%95%E5%BB%B6%E6%9C%9F%E4%BF%9D%E9%9A%9C-%E5%AF%A9%E6%89%B9%E6%85%A2%E9%9A%A8%E6%99%82%E5%85%A8%E5%AE%B6%E6%96%B7%E7%B3%A7",
+    "timestamp": "2026-10-17T01:36:28.545Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北京景區買228元門票送彩票！幸運遊客竟中770萬大獎：以為是騙子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
     "timestamp": "2026-10-16T17:55:26.187Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
-    "timestamp": "2026-10-16T17:42:22.188Z",
     "strategy": ".content-card__main"
   }
 ];
