@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T14:41:57.378Z
+// Last updated: 2026-10-17T14:54:47.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖月｜尖東麼地道花園逼爆　市民讚氣氛佳助吸客留港消費冀多辦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188256887364128768859706.jpeg/OGuqwMP3J8mwszAk-0J4l6ZFrik0owx4wwhTFMMIUxQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400827/%E8%90%AC%E8%81%96%E6%9C%88-%E5%B0%96%E6%9D%B1%E9%BA%BC%E5%9C%B0%E9%81%93%E8%8A%B1%E5%9C%92%E9%80%BC%E7%88%86-%E5%B8%82%E6%B0%91%E8%AE%9A%E6%B0%A3%E6%B0%9B%E4%BD%B3%E5%8A%A9%E5%90%B8%E5%AE%A2%E7%95%99%E6%B8%AF%E6%B6%88%E8%B2%BB%E5%86%80%E5%A4%9A%E8%BE%A6",
+    "timestamp": "2026-10-17T14:54:47.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜車路士作客2球破愛華頓不敗身　門將馬天尼斯撞頭傷出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188140620636491776893471.jpeg/NmR64QOgIXrYj_YmSFq5_KMICwMm3WORNMXvTjTF704?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400745/%E6%9D%8E%E4%BF%AE%E8%B3%A2%E7%BD%95%E6%99%92%E5%85%A8%E5%AE%B6%E7%A6%8F%E6%B7%B7%E8%A1%80%E5%A4%96%E5%AD%AB%E6%A5%B5%E5%90%B8%E7%9D%9B-%E5%9D%A6%E8%A8%80%E5%A6%82%E4%BB%8A%E5%83%85%E8%88%87%E5%85%A9%E5%9C%88%E4%B8%AD%E4%BA%BA%E8%81%AF%E7%B5%A1",
     "timestamp": "2026-10-17T09:20:01.411Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "書包塞錄音筆監控老師　家長查私隱像審犯　內地92%班主任拒帶班",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188166074877612032218463.jpeg/R8EAmT2Y9aiOYauxWT4RGg4pimC4E_QK313nAd9d5wE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400769/%E6%9B%B8%E5%8C%85%E5%A1%9E%E9%8C%84%E9%9F%B3%E7%AD%86%E7%9B%A3%E6%8E%A7%E8%80%81%E5%B8%AB-%E5%AE%B6%E9%95%B7%E6%9F%A5%E7%A7%81%E9%9A%B1%E5%83%8F%E5%AF%A9%E7%8A%AF-%E5%85%A7%E5%9C%B092-%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%8B%92%E5%B8%B6%E7%8F%AD",
-    "timestamp": "2026-10-17T08:55:32.686Z",
     "strategy": ".content-card__main"
   }
 ];
