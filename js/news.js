@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T21:54:41.555Z
+// Last updated: 2026-10-17T22:16:45.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重陽節天氣｜今早有一兩陣微雨　最高氣溫31度　未來兩三日皆天晴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188369310653878272791203.jpeg/wPAp5cu_YOMDdjdTwmK2gJjhz7LTUkWipk-GhpxPhoY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60400858/%E9%87%8D%E9%99%BD%E7%AF%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB31%E5%BA%A6-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E6%97%A5%E7%9A%86%E5%A4%A9%E6%99%B4",
+    "timestamp": "2026-10-17T22:16:45.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國多地示威騷亂　工會稱80萬人上街400人被捕　17歲男被炸斷手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188262356111593472728105.png/Q3dfaJ_QUPuiGZsLnyCWtvtCqBiIf3HnRuijC0boows?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400805/%E9%A6%AC%E6%96%AF%E5%85%8B%E4%B8%8D%E5%8F%AAtesla%E9%A3%9B%E5%A4%A9%E8%B7%91%E8%BB%8A-spacex%E7%99%BC%E5%B0%84%E7%81%AB%E7%AE%AD-%E5%A4%A9%E7%A9%BA%E9%A9%9A%E7%8F%BE%E5%B7%A8%E5%9E%8B%E5%A4%AA%E7%A9%BA%E6%B0%B4%E6%AF%8D",
     "timestamp": "2026-10-17T16:19:03.120Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "手球IHF挑戰盃｜港隊挫越南闖決賽　準職業球員鄔梨玲獨取13分",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188262326243954688415726.jpeg/e2yd5RVjNBB1qqylDqIujn7aKK6lz8rk-O5iifjuYok?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400822/%E6%89%8B%E7%90%83ihf%E6%8C%91%E6%88%B0%E7%9B%83-%E6%B8%AF%E9%9A%8A%E6%8C%AB%E8%B6%8A%E5%8D%97%E9%97%96%E6%B1%BA%E8%B3%BD-%E6%BA%96%E8%81%B7%E6%A5%AD%E7%90%83%E5%93%A1%E9%84%94%E6%A2%A8%E7%8E%B2%E7%8D%A8%E5%8F%9613%E5%88%86",
-    "timestamp": "2026-10-17T15:55:08.937Z",
     "strategy": ".content-card__main"
   }
 ];
