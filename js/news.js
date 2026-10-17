@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T20:21:27.588Z
+// Last updated: 2026-10-17T20:33:36.257Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柴灣2童突衝出馬路　司機慢駛變急煞　網民斥︰父母去咗邊｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188333509199007744352718.jpeg/kITp2Al1RVb4jUQKVcf-x9QvgLGA86KlVRX_2FUV_9g",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400850/%E6%9F%B4%E7%81%A32%E7%AB%A5%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E6%85%A2%E9%A7%9B%E8%AE%8A%E6%80%A5%E7%85%9E-%E7%B6%B2%E6%B0%91%E6%96%A5-%E7%88%B6%E6%AF%8D%E5%8E%BB%E5%92%97%E9%82%8A-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-17T20:33:36.257Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：特朗普叫停對俄制裁如獎勵普京　冀G20峰會與美俄會面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188256383821156352926758.jpeg/v9l0u0I9a5R1DsZE_xS9vGtEs2AK_dXxriY5Y64mOWM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400833/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%BD%9C%E5%AE%A22%E7%90%83%E7%A0%B4%E6%84%9B%E8%8F%AF%E9%A0%93%E4%B8%8D%E6%95%97%E8%BA%AB-%E9%96%80%E5%B0%87%E9%A6%AC%E5%A4%A9%E5%B0%BC%E6%96%AF%E6%92%9E%E9%A0%AD%E5%82%B7%E5%87%BA",
     "timestamp": "2026-10-17T14:41:57.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王晶女兒王海榛大曬比堅尼　遭父母「監視」質問：點解着咁少布？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188206772951715840153204.jpeg/FFVr-QFju4FOr9HMitYXNC6I94LRbY4Fdb21h3W9tYc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400799/%E7%8E%8B%E6%99%B6%E5%A5%B3%E5%85%92%E7%8E%8B%E6%B5%B7%E6%A6%9B%E5%A4%A7%E6%9B%AC%E6%AF%94%E5%A0%85%E5%B0%BC-%E9%81%AD%E7%88%B6%E6%AF%8D-%E7%9B%A3%E8%A6%96-%E8%B3%AA%E5%95%8F-%E9%BB%9E%E8%A7%A3%E7%9D%80%E5%92%81%E5%B0%91%E5%B8%83",
-    "timestamp": "2026-10-17T14:30:31.764Z",
     "strategy": ".content-card__main"
   }
 ];
