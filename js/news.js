@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T05:45:41.719Z
+// Last updated: 2026-10-17T05:54:26.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘翠屏北邨7旬翁被捕　涉鐵錘扑毀共用廚房5隻窗　大門塗抹糞便",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260107/1085432077702139904852140.jpeg/PERmjlFLqIrYXEwLpO_-bR8PoRRNMnEVAAaJUSoGiVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400730/%E8%A7%80%E5%A1%98%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A87%E6%97%AC%E7%BF%81%E8%A2%AB%E6%8D%95-%E6%B6%89%E9%90%B5%E9%8C%98%E6%89%91%E6%AF%80%E5%85%B1%E7%94%A8%E5%BB%9A%E6%88%BF5%E9%9A%BB%E7%AA%97-%E5%A4%A7%E9%96%80%E5%A1%97%E6%8A%B9%E7%B3%9E%E4%BE%BF",
+    "timestamp": "2026-10-17T05:54:26.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長鑫存儲年內推4F²架構DRAM　將撼三星SK海力士美光三巨頭格局？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187980993215074304718064.jpeg/MNNPuJHzft-BvyVvB22KbBMe3q_O1igX2AvCv9gLwr8",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E7%B6%B2%E6%B0%91-%E8%BE%9B%E8%8B%A6%E6%99%92-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-16T20:58:19.706Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坪石邨爆水管水柱沖天　2男合力關掣齊濕透　網民：辛苦晒｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187980993215074304718064.jpeg/MNNPuJHzft-BvyVvB22KbBMe3q_O1igX2AvCv9gLwr8",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E7%B6%B2%E6%B0%91-%E8%BE%9B%E8%8B%A6%E6%99%92-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-16T20:47:43.541Z",
     "strategy": ".content-card__main"
   }
 ];
