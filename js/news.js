@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T17:43:15.038Z
+// Last updated: 2026-10-17T17:53:54.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "體壇札記｜港超聯「東鐵打吡」狂想曲　每周搭鐵去睇波全球皆通用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188257890008305664658491.jpeg/jtI6vSy7o8zd9pnk1sQK-GFZsI_3svQS9sv_5fbL_-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400796/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%B8%AF%E8%B6%85%E8%81%AF-%E6%9D%B1%E9%90%B5%E6%89%93%E5%90%A1-%E7%8B%82%E6%83%B3%E6%9B%B2-%E6%AF%8F%E5%91%A8%E6%90%AD%E9%90%B5%E5%8E%BB%E7%9D%87%E6%B3%A2%E5%85%A8%E7%90%83%E7%9A%86%E9%80%9A%E7%94%A8",
+    "timestamp": "2026-10-17T17:53:54.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "體壇札記｜港超聯「東鐵打吡」狂想曲　每周搭鐵去睇波全球皆適用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188144187409698816843176.png/Qsm7QNsOJSsADGKkRlr_ik2w6xhV0fzhNK3HeDStx3g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400738/%E9%87%91%E6%99%BA%E5%AA%9B-doctor-x-%E6%89%8B%E8%A1%93%E4%B8%AD%E9%80%94%E6%8F%9B%E4%BA%BA%E6%83%B9%E8%AD%B0-%E9%81%AD%E8%B3%AA%E7%96%91-%E4%BA%BA%E5%91%BD%E7%94%A8%E9%87%91%E9%8C%A2%E8%A1%A1%E9%87%8F",
     "timestamp": "2026-10-17T12:58:28.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "爾冬陞支持年輕人受霸凌要出聲　曾有男演員投訴被男導演性騷擾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188211647060119552147805.jpeg/WGn6l2tfrMJt6fGOs8gVwuhyFifPPdjugxIwy4MSMMs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400802/%E7%88%BE%E5%86%AC%E9%99%9E%E6%94%AF%E6%8C%81%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%8F%97%E9%9C%B8%E5%87%8C%E8%A6%81%E5%87%BA%E8%81%B2-%E6%9B%BE%E6%9C%89%E7%94%B7%E6%BC%94%E5%93%A1%E6%8A%95%E8%A8%B4%E8%A2%AB%E7%94%B7%E5%B0%8E%E6%BC%94%E6%80%A7%E9%A8%B7%E6%93%BE",
-    "timestamp": "2026-10-17T12:47:42.540Z",
     "strategy": ".content-card__main"
   }
 ];
