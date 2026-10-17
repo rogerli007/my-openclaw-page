@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T21:16:30.047Z
+// Last updated: 2026-10-17T21:54:41.555Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國多地示威騷亂　工會稱80萬人上街400人被捕　17歲男被炸斷手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188357327829340160463207.jpeg/-dL8h-WEd_FpPzHBWKyO_CJzkICewZT6Z4-nuWePp7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400856/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E7%A4%BA%E5%A8%81%E9%A8%B7%E4%BA%82-%E5%B7%A5%E6%9C%83%E7%A8%B180%E8%90%AC%E4%BA%BA%E4%B8%8A%E8%A1%97400%E4%BA%BA%E8%A2%AB%E6%8D%95-17%E6%AD%B2%E7%94%B7%E8%A2%AB%E7%82%B8%E6%96%B7%E6%89%8B",
+    "timestamp": "2026-10-17T21:54:41.555Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印度加爾各答人踩人至少18死　疑因突然暴雨導致人群推撞｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188262326243954688415726.jpeg/e2yd5RVjNBB1qqylDqIujn7aKK6lz8rk-O5iifjuYok?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400822/%E6%89%8B%E7%90%83ihf%E6%8C%91%E6%88%B0%E7%9B%83-%E6%B8%AF%E9%9A%8A%E6%8C%AB%E8%B6%8A%E5%8D%97%E9%97%96%E6%B1%BA%E8%B3%BD-%E6%BA%96%E8%81%B7%E6%A5%AD%E7%90%83%E5%93%A1%E9%84%94%E6%A2%A8%E7%8E%B2%E7%8D%A8%E5%8F%9613%E5%88%86",
     "timestamp": "2026-10-17T15:55:08.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中韓海上執法部門相隔4年再次舉行聯合巡航　歷時10天",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188215223782215680526984.png/oyqC7ARFyixFd2njCVkHBZqgTywJ9WXrIPIaWyDyGls?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400808/%E4%B8%AD%E9%9F%93%E6%B5%B7%E4%B8%8A%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E7%9B%B8%E9%9A%944%E5%B9%B4%E5%86%8D%E6%AC%A1%E8%88%89%E8%A1%8C%E8%81%AF%E5%90%88%E5%B7%A1%E8%88%AA-%E6%AD%B7%E6%99%8210%E5%A4%A9",
-    "timestamp": "2026-10-17T15:41:31.130Z",
     "strategy": ".content-card__main"
   }
 ];
