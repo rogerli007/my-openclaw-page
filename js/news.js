@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T09:20:01.411Z
+// Last updated: 2026-10-17T09:36:44.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "專訪｜葉振弘跳出舒適圈尋音樂路　暫別兄弟背後的「難言之隱」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187430900091064320904261.jpeg/LFBdJ_PIORwXZtbC8en5i3MkKNzrimdteWhT0ENoU9A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399796/%E5%B0%88%E8%A8%AA-%E8%91%89%E6%8C%AF%E5%BC%98%E8%B7%B3%E5%87%BA%E8%88%92%E9%81%A9%E5%9C%88%E5%B0%8B%E9%9F%B3%E6%A8%82%E8%B7%AF-%E6%9A%AB%E5%88%A5%E5%85%84%E5%BC%9F%E8%83%8C%E5%BE%8C%E7%9A%84-%E9%9B%A3%E8%A8%80%E4%B9%8B%E9%9A%B1",
+    "timestamp": "2026-10-17T09:36:44.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李修賢罕晒全家福混血外孫極吸睛　坦言如今僅與兩圈中人聯絡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188025681246687232302467.jpeg/d_KiNjxpiu2G7Sbw9QMHF50qvgXRzrNPDQSHcw0Eh3M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400668/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE%E7%8D%BB%E4%B8%8A%E7%A5%AD%E5%93%81",
     "timestamp": "2026-10-16T23:40:40.599Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胃痛以為胃炎！40歲男半夜心梗猝死　警惕心絞痛3大非典型症狀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186297110274772992675314.jpeg/p3XFMMD3AuDYp3w1JMubjyEw5sQCCPC-KrJjtiqyY7Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397104/%E8%83%83%E7%97%9B%E4%BB%A5%E7%82%BA%E8%83%83%E7%82%8E-40%E6%AD%B2%E7%94%B7%E5%8D%8A%E5%A4%9C%E5%BF%83%E6%A2%97%E7%8C%9D%E6%AD%BB-%E8%AD%A6%E6%83%95%E5%BF%83%E7%B5%9E%E7%97%9B3%E5%A4%A7%E9%9D%9E%E5%85%B8%E5%9E%8B%E7%97%87%E7%8B%80",
-    "timestamp": "2026-10-16T23:29:01.948Z",
     "strategy": ".content-card__main"
   }
 ];
