@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T13:42:48.504Z
+// Last updated: 2026-10-17T13:54:59.240Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊偉倫新髮型被指為出戰金馬　馮德倫再發「酸」言︰驚遮住個獎呀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188235668594102272582409.jpeg/0BdJ0bkrIv23mViRol9ZcEKOtSZr0DpSZXzCt2V8wrc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400818/%E6%A5%8A%E5%81%89%E5%80%AB%E6%96%B0%E9%AB%AE%E5%9E%8B%E8%A2%AB%E6%8C%87%E7%82%BA%E5%87%BA%E6%88%B0%E9%87%91%E9%A6%AC-%E9%A6%AE%E5%BE%B7%E5%80%AB%E5%86%8D%E7%99%BC-%E9%85%B8-%E8%A8%80-%E9%A9%9A%E9%81%AE%E4%BD%8F%E5%80%8B%E7%8D%8E%E5%91%80",
+    "timestamp": "2026-10-17T13:54:59.240Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "無涯之約｜本地動畫入圍中美電影節　導演孔令政︰證香港有能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187765865936982016529846.jpeg/FUdEvxM-l0DWchudawly85vbXjCF5ZITh2wkSaJsJEk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400744/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E5%AF%8C%E4%BA%A8%E9%82%A8%E5%B7%A5%E7%A8%8B%E7%A5%A8%E6%8A%95%E8%87%BA%E6%97%A5-%E6%88%BF%E5%A7%94%E6%9C%83-%E8%80%83%E6%85%AE%E5%B8%82%E5%BB%BA%E5%B1%80%E7%8D%A8%E7%AB%8B%E9%A1%A7%E5%95%8F%E5%A0%B1%E5%91%8A",
     "timestamp": "2026-10-17T07:18:45.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一小時4宗行山中暑或不適　謹記四步急救法保命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185514571046064128768502.jpeg/EXm6DNeNNV1alZeMb2unhOMb709UGCEFXwTurnoE7q4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400741/%E4%B8%80%E5%B0%8F%E6%99%824%E5%AE%97%E8%A1%8C%E5%B1%B1%E4%B8%AD%E6%9A%91%E6%88%96%E4%B8%8D%E9%81%A9-%E8%AC%B9%E8%A8%98%E5%9B%9B%E6%AD%A5%E6%80%A5%E6%95%91%E6%B3%95%E4%BF%9D%E5%91%BD",
-    "timestamp": "2026-10-17T06:54:17.132Z",
     "strategy": ".content-card__main"
   }
 ];
