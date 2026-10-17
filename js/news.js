@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T23:40:38.403Z
+// Last updated: 2026-10-17T23:56:31.116Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "不吸煙罹肺腺癌！30歲女咳嗽兩周確診晚期癌症　靠標靶藥成功控制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186298144099405824769425.jpeg/OhYNzbFPoRg-UfpBqzk_Y7Jeqh7-z6_2_Uc4uv1HOLo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397271/%E4%B8%8D%E5%90%B8%E7%85%99%E7%BD%B9%E8%82%BA%E8%85%BA%E7%99%8C-30%E6%AD%B2%E5%A5%B3%E5%92%B3%E5%97%BD%E5%85%A9%E5%91%A8%E7%A2%BA%E8%A8%BA%E6%99%9A%E6%9C%9F%E7%99%8C%E7%97%87-%E9%9D%A0%E6%A8%99%E9%9D%B6%E8%97%A5%E6%88%90%E5%8A%9F%E6%8E%A7%E5%88%B6",
+    "timestamp": "2026-10-17T23:56:31.116Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國舉行超過3000場No Kings示威　促民眾中期選舉提前投票",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188294555288997888826530.jpeg/nVhGy6KJVclhTfcel3kiDCYESQ8G3w05l3DfpZdw36U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400844/%E8%8B%B1%E8%B6%85-%E5%A4%8F%E8%98%AD%E7%89%B9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6%E9%A0%98%E6%9B%BC%E5%9F%8E%E5%8F%96%E4%B8%83%E9%80%A3%E5%8B%9D-%E5%88%A9%E7%89%A9%E6%B5%A6%E5%A4%9A%E6%89%93%E5%85%A9%E4%BA%BA%E5%8F%8D%E5%8B%9D%E8%B3%93%E7%A6%8F%E7%89%B9",
     "timestamp": "2026-10-17T17:28:22.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜夏蘭特梅開二度領曼城取七連勝　利物浦多打兩人反勝賓福特",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188294555288997888826530.jpeg/nVhGy6KJVclhTfcel3kiDCYESQ8G3w05l3DfpZdw36U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400844/%E8%8B%B1%E8%B6%85-%E5%A4%8F%E8%98%AD%E7%89%B9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6%E9%A0%98%E6%9B%BC%E5%9F%8E%E5%8F%96%E4%B8%83%E9%80%A3%E5%8B%9D-%E5%88%A9%E7%89%A9%E6%B5%A6%E5%A4%9A%E6%89%93%E5%85%A9%E4%BA%BA%E5%8F%8D%E5%8B%9D%E8%B3%93%E7%A6%8F%E7%89%B9",
-    "timestamp": "2026-10-17T17:16:17.267Z",
     "strategy": ".content-card__main"
   }
 ];
