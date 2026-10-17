@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-16T23:54:14.494Z
+// Last updated: 2026-10-17T01:13:07.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北京景區買228元門票送彩票！幸運遊客竟中770萬大獎：以為是騙子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187408869899374592698527.jpeg/PwZ8y13w2grIve6Y-1mL8tPq0qDirn0nyRI_kckSP5E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399956/%E5%8C%97%E4%BA%AC%E6%99%AF%E5%8D%80%E8%B2%B7228%E5%85%83%E9%96%80%E7%A5%A8%E9%80%81%E5%BD%A9%E7%A5%A8-%E5%B9%B8%E9%81%8B%E9%81%8A%E5%AE%A2%E7%AB%9F%E4%B8%AD770%E8%90%AC%E5%A4%A7%E7%8D%8E-%E4%BB%A5%E7%82%BA%E6%98%AF%E9%A8%99%E5%AD%90",
+    "timestamp": "2026-10-17T01:13:07.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗向靖國神社獻上祭品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
     "timestamp": "2026-10-16T17:42:22.188Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
-    "timestamp": "2026-10-16T17:30:11.779Z",
     "strategy": ".content-card__main"
   }
 ];
