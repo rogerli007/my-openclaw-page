@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T11:17:30.186Z
+// Last updated: 2026-10-17T11:41:05.640Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臺日電梯｜據悉機電署去信全港承辦商　限一個月內排查近10年工程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187773918488825856127065.jpeg/2yE6qq0ScNNnfMCSyfY-Q4duil64thnz2bgrPNm4Kzw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400763/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E6%93%9A%E6%82%89%E6%A9%9F%E9%9B%BB%E7%BD%B2%E5%8E%BB%E4%BF%A1%E5%85%A8%E6%B8%AF%E6%89%BF%E8%BE%A6%E5%95%86-%E9%99%90%E4%B8%80%E5%80%8B%E6%9C%88%E5%85%A7%E6%8E%92%E6%9F%A5%E8%BF%9110%E5%B9%B4%E5%B7%A5%E7%A8%8B",
+    "timestamp": "2026-10-17T11:41:05.640Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴拿馬地震後巨臀網紅廢墟打卡　被轟消費災難　辯稱：讓世界關注",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188083275617275904658701.png/v3l1uKwgNH7URQkoRKlsKhWKUD4GOf1w_MdPtfzHT7U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400702/%E4%B8%AD%E7%BE%8E%E8%B2%BF%E6%98%93-240%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9C%8B%E7%9A%87%E5%90%8E%E8%99%9F%E6%8A%B5%E5%BB%A3%E5%B7%9E-%E7%BE%8E%E7%A0%B4%E6%AD%90%E6%B4%B2%E5%B0%81%E9%8E%96%E5%A4%A7%E8%B3%BA%E6%8E%80%E4%B8%AD%E5%9C%8B%E7%86%B1",
     "timestamp": "2026-10-17T04:45:50.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo預購｜據悉警接逾百人報案遭盜卡買iPhone　涉款數百萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176885263843463168162098.jpeg/LyOMFt8uzLXUqQVyGWF5jpmYKVdwZ-3GAyLZWQMi2Vk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400717/iphone-duo%E9%A0%90%E8%B3%BC-%E6%93%9A%E6%82%89%E8%AD%A6%E6%8E%A5%E9%80%BE%E7%99%BE%E4%BA%BA%E5%A0%B1%E6%A1%88%E9%81%AD%E7%9B%9C%E5%8D%A1%E8%B2%B7iphone-%E6%B6%89%E6%AC%BE%E6%95%B8%E7%99%BE%E8%90%AC",
-    "timestamp": "2026-10-17T03:56:17.234Z",
     "strategy": ".content-card__main"
   }
 ];
