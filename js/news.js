@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T18:44:23.748Z
+// Last updated: 2026-10-17T18:54:12.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜維拉作客1:0小勝紐卡素　文森比頭槌一箭定江山",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188310672576876544657904.jpeg/u0IvG0olblATDpwi82HHro6DZ7-Ua5V4RjnwpEY58KQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400846/%E8%8B%B1%E8%B6%85-%E7%B6%AD%E6%8B%89%E4%BD%9C%E5%AE%A21-0%E5%B0%8F%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E6%96%87%E6%A3%AE%E6%AF%94%E9%A0%AD%E6%A7%8C%E4%B8%80%E7%AE%AD%E5%AE%9A%E6%B1%9F%E5%B1%B1",
+    "timestamp": "2026-10-17T18:54:12.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜維拉作客1:0小勝紐卡素　文森比頭槌一箭定江山",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135931972242116608485970.png/F-HtDFW-U4kxAZm3p7b42m2O_py8p_xnkM7UIZDO1CE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400743/%E7%84%A1%E6%B6%AF%E4%B9%8B%E7%B4%84-%E6%9C%AC%E5%9C%B0%E5%8B%95%E7%95%AB%E5%85%A5%E5%9C%8D%E4%B8%AD%E7%BE%8E%E9%9B%BB%E5%BD%B1%E7%AF%80-%E5%B0%8E%E6%BC%94%E5%AD%94%E4%BB%A4%E6%94%BF-%E8%AD%89%E9%A6%99%E6%B8%AF%E6%9C%89%E8%83%BD%E5%8A%9B",
     "timestamp": "2026-10-17T13:42:48.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《嫁金釵》男主角閆桉是誰？韓團出道十年、頭部曾長腫瘤剃髮重生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187448918426783744152376.png/g33F1i-hKM69_4YGf4M-WsUWSeNVM4FlZ6XxoWel8aE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400078/%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B7%E4%B8%BB%E8%A7%92%E9%96%86%E6%A1%89%E6%98%AF%E8%AA%B0-%E9%9F%93%E5%9C%98%E5%87%BA%E9%81%93%E5%8D%81%E5%B9%B4-%E9%A0%AD%E9%83%A8%E6%9B%BE%E9%95%B7%E8%85%AB%E7%98%A4%E5%89%83%E9%AB%AE%E9%87%8D%E7%94%9F",
-    "timestamp": "2026-10-17T13:30:35.663Z",
     "strategy": ".content-card__main"
   }
 ];
