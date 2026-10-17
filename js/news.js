@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T07:54:38.427Z
+// Last updated: 2026-10-17T08:55:32.686Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "書包塞錄音筆監控老師　家長查私隱像審犯　內地92%班主任拒帶班",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188166074877612032218463.jpeg/R8EAmT2Y9aiOYauxWT4RGg4pimC4E_QK313nAd9d5wE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400769/%E6%9B%B8%E5%8C%85%E5%A1%9E%E9%8C%84%E9%9F%B3%E7%AD%86%E7%9B%A3%E6%8E%A7%E8%80%81%E5%B8%AB-%E5%AE%B6%E9%95%B7%E6%9F%A5%E7%A7%81%E9%9A%B1%E5%83%8F%E5%AF%A9%E7%8A%AF-%E5%85%A7%E5%9C%B092-%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%8B%92%E5%B8%B6%E7%8F%AD",
+    "timestamp": "2026-10-17T08:55:32.686Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "莊子璇打匹克球走光遭批造作　霸氣反擊：游水着比堅尼話露底？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187963741199667200416238.jpeg/LQkxMEp-Wej7UMkNj5GJMXjVwOi4O-tA1lW9vNZVvbw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60400252/14%E6%AD%B2%E6%82%A3%E7%97%9B%E9%A2%A8%E4%B8%80%E7%9B%B4%E6%9C%AA%E6%B2%BB%E7%99%8210%E5%B9%B4%E5%BE%8C%E7%94%B7%E5%AD%90%E8%85%B3%E9%95%B7%E8%96%AF%E4%BB%94%E5%A4%A7%E5%B7%A8%E5%9E%8B%E7%97%9B%E9%A2%A8%E7%9F%B3-%E9%99%845%E6%8B%9B%E9%A0%90%E9%98%B2",
     "timestamp": "2026-10-16T22:53:43.174Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國2026年財政赤字近16萬億　創5年新高　利息支出近11萬億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188003034878185472654098.jpeg/f1aT526ul2OjCkd2lUyjRbNCvNyPInXS2UEtTtlBLU4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400665/%E7%BE%8E%E5%9C%8B2026%E5%B9%B4%E8%B2%A1%E6%94%BF%E8%B5%A4%E5%AD%97%E8%BF%9116%E8%90%AC%E5%84%84-%E5%89%B55%E5%B9%B4%E6%96%B0%E9%AB%98-%E5%88%A9%E6%81%AF%E6%94%AF%E5%87%BA%E8%BF%9111%E8%90%AC%E5%84%84",
-    "timestamp": "2026-10-16T22:44:42.548Z",
     "strategy": ".content-card__main"
   }
 ];
