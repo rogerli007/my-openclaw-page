@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T18:54:12.219Z
+// Last updated: 2026-10-17T19:25:18.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀保時捷衝紅燈　途人停步讓路　網民：以為係Roadster飛過去",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188326463951081472327954.jpeg/zQvX9JBh_kl7JLLKuf0ZuPlXeu9z0Ic5LQyuvS0Mrr0",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400848/%E5%B0%96%E6%B2%99%E5%92%80%E4%BF%9D%E6%99%82%E6%8D%B7%E8%A1%9D%E7%B4%85%E7%87%88-%E9%80%94%E4%BA%BA%E5%81%9C%E6%AD%A5%E8%AE%93%E8%B7%AF-%E7%B6%B2%E6%B0%91-%E4%BB%A5%E7%82%BA%E4%BF%82roadster%E9%A3%9B%E9%81%8E%E5%8E%BB",
+    "timestamp": "2026-10-17T19:25:18.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜維拉作客1:0小勝紐卡素　文森比頭槌一箭定江山",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188235668594102272582409.jpeg/0BdJ0bkrIv23mViRol9ZcEKOtSZr0DpSZXzCt2V8wrc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400818/%E6%A5%8A%E5%81%89%E5%80%AB%E6%96%B0%E9%AB%AE%E5%9E%8B%E8%A2%AB%E6%8C%87%E7%82%BA%E5%87%BA%E6%88%B0%E9%87%91%E9%A6%AC-%E9%A6%AE%E5%BE%B7%E5%80%AB%E5%86%8D%E7%99%BC-%E9%85%B8-%E8%A8%80-%E9%A9%9A%E9%81%AE%E4%BD%8F%E5%80%8B%E7%8D%8E%E5%91%80",
     "timestamp": "2026-10-17T13:54:59.240Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無涯之約｜本地動畫入圍中美電影節　導演孔令政︰證香港有能力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1135931972242116608485970.png/F-HtDFW-U4kxAZm3p7b42m2O_py8p_xnkM7UIZDO1CE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400743/%E7%84%A1%E6%B6%AF%E4%B9%8B%E7%B4%84-%E6%9C%AC%E5%9C%B0%E5%8B%95%E7%95%AB%E5%85%A5%E5%9C%8D%E4%B8%AD%E7%BE%8E%E9%9B%BB%E5%BD%B1%E7%AF%80-%E5%B0%8E%E6%BC%94%E5%AD%94%E4%BB%A4%E6%94%BF-%E8%AD%89%E9%A6%99%E6%B8%AF%E6%9C%89%E8%83%BD%E5%8A%9B",
-    "timestamp": "2026-10-17T13:42:48.504Z",
     "strategy": ".content-card__main"
   }
 ];
