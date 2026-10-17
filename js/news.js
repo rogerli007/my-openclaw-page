@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T15:55:08.937Z
+// Last updated: 2026-10-17T16:19:03.120Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬斯克不只Tesla飛天跑車│SpaceX發射火箭　天空驚現巨型太空水母",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188262356111593472728105.png/Q3dfaJ_QUPuiGZsLnyCWtvtCqBiIf3HnRuijC0boows?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400805/%E9%A6%AC%E6%96%AF%E5%85%8B%E4%B8%8D%E5%8F%AAtesla%E9%A3%9B%E5%A4%A9%E8%B7%91%E8%BB%8A-spacex%E7%99%BC%E5%B0%84%E7%81%AB%E7%AE%AD-%E5%A4%A9%E7%A9%BA%E9%A9%9A%E7%8F%BE%E5%B7%A8%E5%9E%8B%E5%A4%AA%E7%A9%BA%E6%B0%B4%E6%AF%8D",
+    "timestamp": "2026-10-17T16:19:03.120Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "手球IHF挑戰盃｜港隊挫越南闖決賽　準職業球員鄔梨玲獨取13分",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188181246019112960608975.jpeg/kjcQSgsAAuRV5irdexEkG26hGGHLAUz8IPU48yD1OPM",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60400779/%E5%86%AC%E7%94%A9%E5%BA%97mma-%E5%8F%B0%E5%BA%97%E5%93%A1%E8%B7%B3%E5%87%BA%E6%AB%83%E5%8F%B0%E8%BF%BD%E6%AF%86%E7%96%91%E6%89%93%E5%B0%96%E5%A4%A7%E5%AA%BD-%E7%B6%B2%E6%B0%91%E7%B4%9B%E6%B1%82%E5%BA%97%E6%96%B9%E5%8B%BF%E8%A7%A3%E5%83%B1",
     "timestamp": "2026-10-17T10:18:22.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上海徐浦大橋6車相撞釀1死2傷　大型貨車越線擠扁私家車｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188181432413982720482693.jpeg/fSYG7WAjt_e5bP-z98ytk3ZiClw7e1ICuLHTiLix04g",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400781/%E4%B8%8A%E6%B5%B7%E5%BE%90%E6%B5%A6%E5%A4%A7%E6%A9%8B6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E6%AD%BB2%E5%82%B7-%E5%A4%A7%E5%9E%8B%E8%B2%A8%E8%BB%8A%E8%B6%8A%E7%B7%9A%E6%93%A0%E6%89%81%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-17T09:54:01.863Z",
     "strategy": ".content-card__main"
   }
 ];
