@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T17:53:54.000Z
+// Last updated: 2026-10-17T18:20:52.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "體壇札記｜港超聯「東鐵打吡」狂想曲　每周搭鐵去睇波全球皆通用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188257890008305664658491.jpeg/jtI6vSy7o8zd9pnk1sQK-GFZsI_3svQS9sv_5fbL_-U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400796/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%B8%AF%E8%B6%85%E8%81%AF-%E6%9D%B1%E9%90%B5%E6%89%93%E5%90%A1-%E7%8B%82%E6%83%B3%E6%9B%B2-%E6%AF%8F%E5%91%A8%E6%90%AD%E9%90%B5%E5%8E%BB%E7%9D%87%E6%B3%A2%E5%85%A8%E7%90%83%E7%9A%86%E9%80%9A%E7%94%A8",
+    "timestamp": "2026-10-17T18:20:52.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "體壇札記｜港超聯「東鐵打吡」狂想曲　每周搭鐵去睇波全球皆通用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188229114541117440398750.jpeg/JjJ8uPgyq2I99AzOX-xvfULIP9lFNXRYJNjusiTY7rI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400815/%E6%B4%AA%E6%B0%B4%E6%A9%8B%E8%8F%9C%E6%AA%94%E5%BA%97%E8%B2%93%E5%90%B8%E7%81%AB%E8%AD%A6%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9-%E6%AA%94%E4%B8%BB%E7%96%91%E9%98%BB%E7%95%99%E9%86%AB%E6%9C%AA%E4%BE%9B%E7%B3%A7%E6%B0%B4%E6%B6%89%E8%99%90%E7%95%9C%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-17T13:17:03.909Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金智媛《Doctor X》手術中途換人惹議　遭質疑：人命用金錢衡量？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188144187409698816843176.png/Qsm7QNsOJSsADGKkRlr_ik2w6xhV0fzhNK3HeDStx3g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400738/%E9%87%91%E6%99%BA%E5%AA%9B-doctor-x-%E6%89%8B%E8%A1%93%E4%B8%AD%E9%80%94%E6%8F%9B%E4%BA%BA%E6%83%B9%E8%AD%B0-%E9%81%AD%E8%B3%AA%E7%96%91-%E4%BA%BA%E5%91%BD%E7%94%A8%E9%87%91%E9%8C%A2%E8%A1%A1%E9%87%8F",
-    "timestamp": "2026-10-17T12:58:28.180Z",
     "strategy": ".content-card__main"
   }
 ];
