@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T14:30:31.764Z
+// Last updated: 2026-10-17T14:41:57.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜車路士作客2球破愛華頓不敗身　門將馬天尼斯撞頭傷出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188256383821156352926758.jpeg/v9l0u0I9a5R1DsZE_xS9vGtEs2AK_dXxriY5Y64mOWM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400833/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%BD%9C%E5%AE%A22%E7%90%83%E7%A0%B4%E6%84%9B%E8%8F%AF%E9%A0%93%E4%B8%8D%E6%95%97%E8%BA%AB-%E9%96%80%E5%B0%87%E9%A6%AC%E5%A4%A9%E5%B0%BC%E6%96%AF%E6%92%9E%E9%A0%AD%E5%82%B7%E5%87%BA",
+    "timestamp": "2026-10-17T14:41:57.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王晶女兒王海榛大曬比堅尼　遭父母「監視」質問：點解着咁少布？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188166074877612032218463.jpeg/R8EAmT2Y9aiOYauxWT4RGg4pimC4E_QK313nAd9d5wE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400769/%E6%9B%B8%E5%8C%85%E5%A1%9E%E9%8C%84%E9%9F%B3%E7%AD%86%E7%9B%A3%E6%8E%A7%E8%80%81%E5%B8%AB-%E5%AE%B6%E9%95%B7%E6%9F%A5%E7%A7%81%E9%9A%B1%E5%83%8F%E5%AF%A9%E7%8A%AF-%E5%85%A7%E5%9C%B092-%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%8B%92%E5%B8%B6%E7%8F%AD",
     "timestamp": "2026-10-17T08:55:32.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莊子璇打匹克球走光遭批造作　霸氣反擊：游水着比堅尼話露底？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187844869071048704487356.jpeg/8RRn-amfI4M-S2fD_mkn1XqSkaF0tinrxqhfs_yoX7M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400596/%E8%8E%8A%E5%AD%90%E7%92%87%E6%89%93%E5%8C%B9%E5%85%8B%E7%90%83%E8%B5%B0%E5%85%89%E9%81%AD%E6%89%B9%E9%80%A0%E4%BD%9C-%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E6%B8%B8%E6%B0%B4%E7%9D%80%E6%AF%94%E5%A0%85%E5%B0%BC%E8%A9%B1%E9%9C%B2%E5%BA%95",
-    "timestamp": "2026-10-17T07:54:38.427Z",
     "strategy": ".content-card__main"
   }
 ];
