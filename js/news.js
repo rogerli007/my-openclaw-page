@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T10:56:11.624Z
+// Last updated: 2026-10-17T11:17:30.186Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴拿馬地震後巨臀網紅廢墟打卡　被轟消費災難　辯稱：讓世界關注",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188170463767957504310497.png/zuzjfrJIfqotdKs54RsuyVRv9vgNomlksevSa7Hr0ms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400336/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E5%9C%B0%E9%9C%87%E5%BE%8C%E5%B7%A8%E8%87%80%E7%B6%B2%E7%B4%85%E5%BB%A2%E5%A2%9F%E6%89%93%E5%8D%A1-%E8%A2%AB%E8%BD%9F%E6%B6%88%E8%B2%BB%E7%81%BD%E9%9B%A3-%E8%BE%AF%E7%A8%B1-%E8%AE%93%E4%B8%96%E7%95%8C%E9%97%9C%E6%B3%A8",
+    "timestamp": "2026-10-17T11:17:30.186Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛回家｜邵初「中門大開」震撼新加坡  性感戰衣引東張女神留言問",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176885263843463168162098.jpeg/LyOMFt8uzLXUqQVyGWF5jpmYKVdwZ-3GAyLZWQMi2Vk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400717/iphone-duo%E9%A0%90%E8%B3%BC-%E6%93%9A%E6%82%89%E8%AD%A6%E6%8E%A5%E9%80%BE%E7%99%BE%E4%BA%BA%E5%A0%B1%E6%A1%88%E9%81%AD%E7%9B%9C%E5%8D%A1%E8%B2%B7iphone-%E6%B6%89%E6%AC%BE%E6%95%B8%E7%99%BE%E8%90%AC",
     "timestamp": "2026-10-17T03:56:17.234Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西貢蛋家灣16名女子行山　中年婦突吐血抽筋　直升機救起送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185199076489039872518463.jpeg/My6z-IYaUpCJsaYGm4D6GQvvS9x2kshpVzet-nI3rfo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400698/%E8%A5%BF%E8%B2%A2%E8%9B%8B%E5%AE%B6%E7%81%A316%E5%90%8D%E5%A5%B3%E5%AD%90%E8%A1%8C%E5%B1%B1-%E4%B8%AD%E5%B9%B4%E5%A9%A6%E7%AA%81%E5%90%90%E8%A1%80%E6%8A%BD%E7%AD%8B-%E7%9B%B4%E5%8D%87%E6%A9%9F%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-17T03:46:43.008Z",
     "strategy": ".content-card__main"
   }
 ];
