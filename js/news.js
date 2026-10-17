@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T14:54:47.859Z
+// Last updated: 2026-10-17T15:16:56.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡杏兒入讀演藝做返學生　周秀娜讚袁澧林勇敢︰我做Model都遇過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188251750792957952240869.jpeg/TTuTOZlbgjpvHpFo8KwPYWwMYavd4M5DWDrAnVg6wJ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400823/%E8%83%A1%E6%9D%8F%E5%85%92%E5%85%A5%E8%AE%80%E6%BC%94%E8%97%9D%E5%81%9A%E8%BF%94%E5%AD%B8%E7%94%9F-%E5%91%A8%E7%A7%80%E5%A8%9C%E8%AE%9A%E8%A2%81%E6%BE%A7%E6%9E%97%E5%8B%87%E6%95%A2-%E6%88%91%E5%81%9Amodel%E9%83%BD%E9%81%87%E9%81%8E",
+    "timestamp": "2026-10-17T15:16:56.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖月｜尖東麼地道花園逼爆　市民讚氣氛佳助吸客留港消費冀多辦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187430900091064320904261.jpeg/LFBdJ_PIORwXZtbC8en5i3MkKNzrimdteWhT0ENoU9A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399796/%E5%B0%88%E8%A8%AA-%E8%91%89%E6%8C%AF%E5%BC%98%E8%B7%B3%E5%87%BA%E8%88%92%E9%81%A9%E5%9C%88%E5%B0%8B%E9%9F%B3%E6%A8%82%E8%B7%AF-%E6%9A%AB%E5%88%A5%E5%85%84%E5%BC%9F%E8%83%8C%E5%BE%8C%E7%9A%84-%E9%9B%A3%E8%A8%80%E4%B9%8B%E9%9A%B1",
     "timestamp": "2026-10-17T09:36:44.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李修賢罕晒全家福混血外孫極吸睛　坦言如今僅與兩圈中人聯絡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188140620636491776893471.jpeg/NmR64QOgIXrYj_YmSFq5_KMICwMm3WORNMXvTjTF704?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400745/%E6%9D%8E%E4%BF%AE%E8%B3%A2%E7%BD%95%E6%99%92%E5%85%A8%E5%AE%B6%E7%A6%8F%E6%B7%B7%E8%A1%80%E5%A4%96%E5%AD%AB%E6%A5%B5%E5%90%B8%E7%9D%9B-%E5%9D%A6%E8%A8%80%E5%A6%82%E4%BB%8A%E5%83%85%E8%88%87%E5%85%A9%E5%9C%88%E4%B8%AD%E4%BA%BA%E8%81%AF%E7%B5%A1",
-    "timestamp": "2026-10-17T09:20:01.411Z",
     "strategy": ".content-card__main"
   }
 ];
