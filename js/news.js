@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T16:33:50.437Z
+// Last updated: 2026-10-17T16:44:59.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風？天文台料超強颱風薔琵續增強　歐美預報周末闖中國東南沿岸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188278272102764544109384.png/f2k4j4uDYhqou3oIvu0x4c2V-GuQU0p4avGHZGrxh2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60400840/%E6%89%93%E9%A2%A8-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E7%BA%8C%E5%A2%9E%E5%BC%B7-%E6%AD%90%E7%BE%8E%E9%A0%90%E5%A0%B1%E5%91%A8%E6%9C%AB%E9%97%96%E4%B8%AD%E5%9C%8B%E6%9D%B1%E5%8D%97%E6%B2%BF%E5%B2%B8",
+    "timestamp": "2026-10-17T16:44:59.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風？天文台料超強颱風薔琵續增強　歐美預報周末闖中國東南沿岸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188176656796225536618397.jpeg/jRlsdmYbDAemvFyeuxxKnQk40KrDXy0VGyewfxsnsH8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400778/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E4%B8%80%E8%A5%B2%E7%99%BD%E8%A3%99%E5%84%AA%E9%9B%85%E4%BA%AE%E7%9B%B8%E6%B7%B1%E5%9C%B3%E7%81%A3-%E6%B0%A3%E8%89%B2%E7%B5%95%E4%BD%B3%E7%8D%B2%E6%BF%80%E8%AE%9A-%E7%99%BD%E6%9C%88%E5%85%89%E5%9B%9E%E4%BE%86%E4%BA%86",
     "timestamp": "2026-10-17T10:43:08.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "袁詠儀霸氣反擊　嘆吳鎮宇老婆受苦「很可憐」：救了整個世界",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188151868992262144146859.jpeg/KqhVS1e7a3ng39WScX3T92XdqGfqLNTuo3R4HKN0eBw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400750/%E8%A2%81%E8%A9%A0%E5%84%80%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E5%98%86%E5%90%B3%E9%8E%AE%E5%AE%87%E8%80%81%E5%A9%86%E5%8F%97%E8%8B%A6-%E5%BE%88%E5%8F%AF%E6%86%90-%E6%95%91%E4%BA%86%E6%95%B4%E5%80%8B%E4%B8%96%E7%95%8C",
-    "timestamp": "2026-10-17T10:31:14.984Z",
     "strategy": ".content-card__main"
   }
 ];
