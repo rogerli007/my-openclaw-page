@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T01:36:28.545Z
+// Last updated: 2026-10-17T02:26:03.067Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫生你有病｜黃詠儀患末期肺癌仍堅持診症  容樹恒淚崩為太太拔喉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188071050546515968749260.jpeg/KCF7fdwUSN0Dyw9SlSBHIAHugALXMHGmyrSL1cq0i9U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400685/%E9%86%AB%E7%94%9F%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E8%A9%A0%E5%84%80%E6%82%A3%E6%9C%AB%E6%9C%9F%E8%82%BA%E7%99%8C%E4%BB%8D%E5%A0%85%E6%8C%81%E8%A8%BA%E7%97%87-%E5%AE%B9%E6%A8%B9%E6%81%92%E6%B7%9A%E5%B4%A9%E7%82%BA%E5%A4%AA%E5%A4%AA%E6%8B%94%E5%96%89",
+    "timestamp": "2026-10-17T02:26:03.067Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國移民｜EAD工卡取消540天自動延期保障　審批慢隨時全家斷糧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
     "timestamp": "2026-10-16T18:22:45.295Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形　驚揭患大腸癌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1169797711306690560593624.png/tfZJCIev20yksFBqoTI6871UYzZQquWkahI8qmoSPKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60384388/%E7%84%A1%E8%A1%80%E4%BE%BF%E7%84%A1%E8%85%B9%E7%97%9B-%E5%A5%B3%E5%AD%90%E8%A6%81%E5%A4%A7%E4%BE%BF%E6%84%88%E4%BE%86%E6%84%88%E7%94%A8%E5%8A%9B%E5%85%BC%E7%B3%9E%E4%BE%BF%E4%B8%8D%E6%88%90%E5%BD%A2-%E9%A9%9A%E6%8F%AD%E6%82%A3%E5%A4%A7%E8%85%B8%E7%99%8C",
-    "timestamp": "2026-10-16T17:55:26.187Z",
     "strategy": ".content-card__main"
   }
 ];
