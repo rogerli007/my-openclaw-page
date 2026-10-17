@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T06:54:17.132Z
+// Last updated: 2026-10-17T07:18:45.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臺日電梯｜富亨邨工程票投臺日　房委會：考慮市建局獨立顧問報告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187765865936982016529846.jpeg/FUdEvxM-l0DWchudawly85vbXjCF5ZITh2wkSaJsJEk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400744/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E5%AF%8C%E4%BA%A8%E9%82%A8%E5%B7%A5%E7%A8%8B%E7%A5%A8%E6%8A%95%E8%87%BA%E6%97%A5-%E6%88%BF%E5%A7%94%E6%9C%83-%E8%80%83%E6%85%AE%E5%B8%82%E5%BB%BA%E5%B1%80%E7%8D%A8%E7%AB%8B%E9%A1%A7%E5%95%8F%E5%A0%B1%E5%91%8A",
+    "timestamp": "2026-10-17T07:18:45.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一小時4宗行山中暑或不適　謹記四步急救法保命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187993579633512448829046.jpeg/nklntG3dfDD_LliUE9FqjKWxFRuOt8pYJadLqSWnS6k",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E5%81%9C%E6%B0%B4-1%E6%93%8B%E6%B0%B41%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-16T21:54:11.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坪石邨爆水管水柱沖天　2男合力停水　1擋水1關掣齊濕透｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187993579633512448829046.jpeg/nklntG3dfDD_LliUE9FqjKWxFRuOt8pYJadLqSWnS6k",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E5%81%9C%E6%B0%B4-1%E6%93%8B%E6%B0%B41%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-16T21:34:36.627Z",
     "strategy": ".content-card__main"
   }
 ];
