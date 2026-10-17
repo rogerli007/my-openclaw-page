@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T09:54:01.863Z
+// Last updated: 2026-10-17T10:18:22.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬甩店MMA｜台店員跳出櫃台追毆疑打尖大媽　網民紛求店方勿解僱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188181246019112960608975.jpeg/kjcQSgsAAuRV5irdexEkG26hGGHLAUz8IPU48yD1OPM",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60400779/%E5%86%AC%E7%94%A9%E5%BA%97mma-%E5%8F%B0%E5%BA%97%E5%93%A1%E8%B7%B3%E5%87%BA%E6%AB%83%E5%8F%B0%E8%BF%BD%E6%AF%86%E7%96%91%E6%89%93%E5%B0%96%E5%A4%A7%E5%AA%BD-%E7%B6%B2%E6%B0%91%E7%B4%9B%E6%B1%82%E5%BA%97%E6%96%B9%E5%8B%BF%E8%A7%A3%E5%83%B1",
+    "timestamp": "2026-10-17T10:18:22.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上海徐浦大橋6車相撞釀1死2傷　大型貨車越線擠扁私家車｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187791445436665856358072.jpeg/TPXKJYFy46molGi0oAlwaiP5H8LRB2_y9Y9NSvWPTUo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400403/%E7%BE%8E%E5%9C%8B%E7%A7%BB%E6%B0%91-ead%E5%B7%A5%E5%8D%A1%E5%8F%96%E6%B6%88540%E5%A4%A9%E8%87%AA%E5%8B%95%E5%BB%B6%E6%9C%9F%E4%BF%9D%E9%9A%9C-%E5%AF%A9%E6%89%B9%E6%85%A2%E9%9A%A8%E6%99%82%E5%85%A8%E5%AE%B6%E6%96%B7%E7%B3%A7",
     "timestamp": "2026-10-17T01:36:28.545Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北京景區買228元門票送彩票！幸運遊客竟中770萬大獎：以為是騙子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187408869899374592698527.jpeg/PwZ8y13w2grIve6Y-1mL8tPq0qDirn0nyRI_kckSP5E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60399956/%E5%8C%97%E4%BA%AC%E6%99%AF%E5%8D%80%E8%B2%B7228%E5%85%83%E9%96%80%E7%A5%A8%E9%80%81%E5%BD%A9%E7%A5%A8-%E5%B9%B8%E9%81%8B%E9%81%8A%E5%AE%A2%E7%AB%9F%E4%B8%AD770%E8%90%AC%E5%A4%A7%E7%8D%8E-%E4%BB%A5%E7%82%BA%E6%98%AF%E9%A8%99%E5%AD%90",
-    "timestamp": "2026-10-17T01:13:07.595Z",
     "strategy": ".content-card__main"
   }
 ];
