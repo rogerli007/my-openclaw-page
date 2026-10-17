@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T07:18:45.281Z
+// Last updated: 2026-10-17T07:48:10.487Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "莊子璇打匹克球走光遭批造作　霸氣反擊：游水着比堅尼話露底？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187844869071048704487356.jpeg/8RRn-amfI4M-S2fD_mkn1XqSkaF0tinrxqhfs_yoX7M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400596/%E8%8E%8A%E5%AD%90%E7%92%87%E6%89%93%E5%8C%B9%E5%85%8B%E7%90%83%E8%B5%B0%E5%85%89%E9%81%AD%E6%89%B9%E9%80%A0%E4%BD%9C-%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E6%B8%B8%E6%B0%B4%E7%9D%80%E6%AF%94%E5%A0%85%E5%B0%BC%E8%A9%B1%E9%9C%B2%E5%BA%95",
+    "timestamp": "2026-10-17T07:48:10.487Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯｜富亨邨工程票投臺日　房委會：考慮市建局獨立顧問報告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188003034878185472654098.jpeg/f1aT526ul2OjCkd2lUyjRbNCvNyPInXS2UEtTtlBLU4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400665/%E7%BE%8E%E5%9C%8B2026%E5%B9%B4%E8%B2%A1%E6%94%BF%E8%B5%A4%E5%AD%97%E8%BF%9116%E8%90%AC%E5%84%84-%E5%89%B55%E5%B9%B4%E6%96%B0%E9%AB%98-%E5%88%A9%E6%81%AF%E6%94%AF%E5%87%BA%E8%BF%9111%E8%90%AC%E5%84%84",
     "timestamp": "2026-10-16T22:32:18.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坪石邨爆水管水柱沖天　2男合力停水　1擋水1關掣齊濕透｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187993579633512448829046.jpeg/nklntG3dfDD_LliUE9FqjKWxFRuOt8pYJadLqSWnS6k",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E5%81%9C%E6%B0%B4-1%E6%93%8B%E6%B0%B41%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-16T21:54:11.613Z",
     "strategy": ".content-card__main"
   }
 ];
