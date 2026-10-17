@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T03:46:43.008Z
+// Last updated: 2026-10-17T03:56:17.234Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo預購｜據悉警接逾百人報案遭盜卡買iPhone　涉款數百萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176885263843463168162098.jpeg/LyOMFt8uzLXUqQVyGWF5jpmYKVdwZ-3GAyLZWQMi2Vk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400717/iphone-duo%E9%A0%90%E8%B3%BC-%E6%93%9A%E6%82%89%E8%AD%A6%E6%8E%A5%E9%80%BE%E7%99%BE%E4%BA%BA%E5%A0%B1%E6%A1%88%E9%81%AD%E7%9B%9C%E5%8D%A1%E8%B2%B7iphone-%E6%B6%89%E6%AC%BE%E6%95%B8%E7%99%BE%E8%90%AC",
+    "timestamp": "2026-10-17T03:56:17.234Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢蛋家灣16名女子行山　中年婦突吐血抽筋　直升機救起送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187963983663992832192750.jpeg/z5QrNEimR_a2WbyqhNPgDWrTrSts-EkUZfOoWWXzqFk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400658/%E6%B7%98%E5%A4%A7%E5%95%86%E5%A0%B422%E6%AD%B2%E5%A5%B3%E6%94%9C%E9%80%BE-1%E8%90%AC%E7%8F%BE%E9%87%91%E5%AD%98%E6%AC%BE-%E8%A1%8C%E7%B6%93%E6%A2%AF%E9%96%93%E9%81%AD%E6%8E%A8%E8%B7%8C%E6%90%B6%E9%8C%A2-%E7%94%B7%E8%B3%8A%E5%9C%A8%E9%80%83",
     "timestamp": "2026-10-16T19:29:27.243Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：烏克蘭用星鏈攔截俄羅斯無人機　尚未恢復原有速度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187946064368373760197604.jpeg/kIcNz8yO4rQYq6luvGZ2iuhCkf5ok7Mljtsb9o7bG_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400656/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E7%94%A8%E6%98%9F%E9%8F%88%E6%94%94%E6%88%AA%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F-%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9%E5%8E%9F%E6%9C%89%E9%80%9F%E5%BA%A6",
-    "timestamp": "2026-10-16T18:58:09.633Z",
     "strategy": ".content-card__main"
   }
 ];
