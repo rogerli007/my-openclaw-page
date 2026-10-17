@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T05:33:35.048Z
+// Last updated: 2026-10-17T05:45:41.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長鑫存儲年內推4F²架構DRAM　將撼三星SK海力士美光三巨頭格局？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158514992492843008352076.jpeg/C1ODBwD26ObnznokQmqeXiBdHZcmfuEaBM1MugTNTLo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60400715/%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E5%B9%B4%E5%85%A7%E6%8E%A84f%C2%B2%E6%9E%B6%E6%A7%8Bdram-%E5%B0%87%E6%92%BC%E4%B8%89%E6%98%9Fsk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%BE%8E%E5%85%89%E4%B8%89%E5%B7%A8%E9%A0%AD%E6%A0%BC%E5%B1%80",
+    "timestamp": "2026-10-17T05:45:41.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼野火持續　4名消防員殉職　毒霾致逾27萬人急性呼吸道感染",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187980993215074304718064.jpeg/MNNPuJHzft-BvyVvB22KbBMe3q_O1igX2AvCv9gLwr8",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400659/%E5%9D%AA%E7%9F%B3%E9%82%A8%E7%88%86%E6%B0%B4%E7%AE%A1%E6%B0%B4%E6%9F%B1%E6%B2%96%E5%A4%A9-2%E7%94%B7%E5%90%88%E5%8A%9B%E9%97%9C%E6%8E%A3%E9%BD%8A%E6%BF%95%E9%80%8F-%E7%B6%B2%E6%B0%91-%E8%BE%9B%E8%8B%A6%E6%99%92-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-16T20:47:43.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮新發言人涉冒認律師爭議　美媒：上任僅5日已被特朗普解僱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186915702791999488518920.jpeg/hzctSD6th2lIskZyI4wDsSvOvRylqq989C8tRPQvLUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400657/%E7%99%BD%E5%AE%AE%E6%96%B0%E7%99%BC%E8%A8%80%E4%BA%BA%E6%B6%89%E5%86%92%E8%AA%8D%E5%BE%8B%E5%B8%AB%E7%88%AD%E8%AD%B0-%E7%BE%8E%E5%AA%92-%E4%B8%8A%E4%BB%BB%E5%83%855%E6%97%A5%E5%B7%B2%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%A3%E5%83%B1",
-    "timestamp": "2026-10-16T20:19:09.889Z",
     "strategy": ".content-card__main"
   }
 ];
