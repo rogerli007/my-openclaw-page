@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T03:56:17.234Z
+// Last updated: 2026-10-17T04:45:50.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美貿易｜240年前中國皇后號抵廣州　美破歐洲封鎖大賺掀中國熱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188083275617275904658701.png/v3l1uKwgNH7URQkoRKlsKhWKUD4GOf1w_MdPtfzHT7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400702/%E4%B8%AD%E7%BE%8E%E8%B2%BF%E6%98%93-240%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9C%8B%E7%9A%87%E5%90%8E%E8%99%9F%E6%8A%B5%E5%BB%A3%E5%B7%9E-%E7%BE%8E%E7%A0%B4%E6%AD%90%E6%B4%B2%E5%B0%81%E9%8E%96%E5%A4%A7%E8%B3%BA%E6%8E%80%E4%B8%AD%E5%9C%8B%E7%86%B1",
+    "timestamp": "2026-10-17T04:45:50.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo預購｜據悉警接逾百人報案遭盜卡買iPhone　涉款數百萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186915702791999488518920.jpeg/hzctSD6th2lIskZyI4wDsSvOvRylqq989C8tRPQvLUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400657/%E7%99%BD%E5%AE%AE%E6%96%B0%E7%99%BC%E8%A8%80%E4%BA%BA%E6%B6%89%E5%86%92%E8%AA%8D%E5%BE%8B%E5%B8%AB%E7%88%AD%E8%AD%B0-%E7%BE%8E%E5%AA%92-%E4%B8%8A%E4%BB%BB%E5%83%855%E6%97%A5%E5%B7%B2%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%A3%E5%83%B1",
     "timestamp": "2026-10-16T19:53:37.855Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "淘大商場22歲女攜逾$1萬現金存款　行經梯間遭推跌搶錢　男賊在逃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187963983663992832192750.jpeg/z5QrNEimR_a2WbyqhNPgDWrTrSts-EkUZfOoWWXzqFk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400658/%E6%B7%98%E5%A4%A7%E5%95%86%E5%A0%B422%E6%AD%B2%E5%A5%B3%E6%94%9C%E9%80%BE-1%E8%90%AC%E7%8F%BE%E9%87%91%E5%AD%98%E6%AC%BE-%E8%A1%8C%E7%B6%93%E6%A2%AF%E9%96%93%E9%81%AD%E6%8E%A8%E8%B7%8C%E6%90%B6%E9%8C%A2-%E7%94%B7%E8%B3%8A%E5%9C%A8%E9%80%83",
-    "timestamp": "2026-10-16T19:29:27.243Z",
     "strategy": ".content-card__main"
   }
 ];
