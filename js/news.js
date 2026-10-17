@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T20:53:40.603Z
+// Last updated: 2026-10-17T21:16:30.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印度加爾各答人踩人至少18死　疑因突然暴雨導致人群推撞｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188347361986875392183742.png/6GL7WpdkpzbgwSyOED6sJGo7KicUx63nkUA6KJFAOig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400852/%E5%8D%B0%E5%BA%A6%E5%8A%A0%E7%88%BE%E5%90%84%E7%AD%94%E4%BA%BA%E8%B8%A9%E4%BA%BA%E8%87%B3%E5%B0%9118%E6%AD%BB-%E7%96%91%E5%9B%A0%E7%AA%81%E7%84%B6%E6%9A%B4%E9%9B%A8%E5%B0%8E%E8%87%B4%E4%BA%BA%E7%BE%A4%E6%8E%A8%E6%92%9E-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-17T21:16:30.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柴灣2童突衝出馬路　司機慢駛變急煞　網民斥︰父母去咗邊｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188215223782215680526984.png/oyqC7ARFyixFd2njCVkHBZqgTywJ9WXrIPIaWyDyGls?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400808/%E4%B8%AD%E9%9F%93%E6%B5%B7%E4%B8%8A%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E7%9B%B8%E9%9A%944%E5%B9%B4%E5%86%8D%E6%AC%A1%E8%88%89%E8%A1%8C%E8%81%AF%E5%90%88%E5%B7%A1%E8%88%AA-%E6%AD%B7%E6%99%8210%E5%A4%A9",
     "timestamp": "2026-10-17T15:41:31.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡杏兒入讀演藝做返學生　周秀娜讚袁澧林勇敢︰我做Model都遇過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188251750792957952240869.jpeg/TTuTOZlbgjpvHpFo8KwPYWwMYavd4M5DWDrAnVg6wJ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60400823/%E8%83%A1%E6%9D%8F%E5%85%92%E5%85%A5%E8%AE%80%E6%BC%94%E8%97%9D%E5%81%9A%E8%BF%94%E5%AD%B8%E7%94%9F-%E5%91%A8%E7%A7%80%E5%A8%9C%E8%AE%9A%E8%A2%81%E6%BE%A7%E6%9E%97%E5%8B%87%E6%95%A2-%E6%88%91%E5%81%9Amodel%E9%83%BD%E9%81%87%E9%81%8E",
-    "timestamp": "2026-10-17T15:16:56.883Z",
     "strategy": ".content-card__main"
   }
 ];
