@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T08:55:32.686Z
+// Last updated: 2026-10-17T09:20:01.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李修賢罕晒全家福混血外孫極吸睛　坦言如今僅與兩圈中人聯絡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188140620636491776893471.jpeg/NmR64QOgIXrYj_YmSFq5_KMICwMm3WORNMXvTjTF704?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400745/%E6%9D%8E%E4%BF%AE%E8%B3%A2%E7%BD%95%E6%99%92%E5%85%A8%E5%AE%B6%E7%A6%8F%E6%B7%B7%E8%A1%80%E5%A4%96%E5%AD%AB%E6%A5%B5%E5%90%B8%E7%9D%9B-%E5%9D%A6%E8%A8%80%E5%A6%82%E4%BB%8A%E5%83%85%E8%88%87%E5%85%A9%E5%9C%88%E4%B8%AD%E4%BA%BA%E8%81%AF%E7%B5%A1",
+    "timestamp": "2026-10-17T09:20:01.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "書包塞錄音筆監控老師　家長查私隱像審犯　內地92%班主任拒帶班",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186297110274772992675314.jpeg/p3XFMMD3AuDYp3w1JMubjyEw5sQCCPC-KrJjtiqyY7Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397104/%E8%83%83%E7%97%9B%E4%BB%A5%E7%82%BA%E8%83%83%E7%82%8E-40%E6%AD%B2%E7%94%B7%E5%8D%8A%E5%A4%9C%E5%BF%83%E6%A2%97%E7%8C%9D%E6%AD%BB-%E8%AD%A6%E6%83%95%E5%BF%83%E7%B5%9E%E7%97%9B3%E5%A4%A7%E9%9D%9E%E5%85%B8%E5%9E%8B%E7%97%87%E7%8B%80",
     "timestamp": "2026-10-16T23:29:01.948Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "14歲患痛風一直未治療10年後男子腳長薯仔大巨型痛風石 附5招預防",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187963741199667200416238.jpeg/LQkxMEp-Wej7UMkNj5GJMXjVwOi4O-tA1lW9vNZVvbw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60400252/14%E6%AD%B2%E6%82%A3%E7%97%9B%E9%A2%A8%E4%B8%80%E7%9B%B4%E6%9C%AA%E6%B2%BB%E7%99%8210%E5%B9%B4%E5%BE%8C%E7%94%B7%E5%AD%90%E8%85%B3%E9%95%B7%E8%96%AF%E4%BB%94%E5%A4%A7%E5%B7%A8%E5%9E%8B%E7%97%9B%E9%A2%A8%E7%9F%B3-%E9%99%845%E6%8B%9B%E9%A0%90%E9%98%B2",
-    "timestamp": "2026-10-16T22:53:43.174Z",
     "strategy": ".content-card__main"
   }
 ];
