@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T14:17:30.055Z
+// Last updated: 2026-10-17T14:30:31.764Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王晶女兒王海榛大曬比堅尼　遭父母「監視」質問：點解着咁少布？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188206772951715840153204.jpeg/FFVr-QFju4FOr9HMitYXNC6I94LRbY4Fdb21h3W9tYc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400799/%E7%8E%8B%E6%99%B6%E5%A5%B3%E5%85%92%E7%8E%8B%E6%B5%B7%E6%A6%9B%E5%A4%A7%E6%9B%AC%E6%AF%94%E5%A0%85%E5%B0%BC-%E9%81%AD%E7%88%B6%E6%AF%8D-%E7%9B%A3%E8%A6%96-%E8%B3%AA%E5%95%8F-%E9%BB%9E%E8%A7%A3%E7%9D%80%E5%92%81%E5%B0%91%E5%B8%83",
+    "timestamp": "2026-10-17T14:30:31.764Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞辦慈善活動、餐廳設捐款箱　為麥當勞叔叔之家籌款逾1.1億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187844869071048704487356.jpeg/8RRn-amfI4M-S2fD_mkn1XqSkaF0tinrxqhfs_yoX7M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400596/%E8%8E%8A%E5%AD%90%E7%92%87%E6%89%93%E5%8C%B9%E5%85%8B%E7%90%83%E8%B5%B0%E5%85%89%E9%81%AD%E6%89%B9%E9%80%A0%E4%BD%9C-%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E6%B8%B8%E6%B0%B4%E7%9D%80%E6%AF%94%E5%A0%85%E5%B0%BC%E8%A9%B1%E9%9C%B2%E5%BA%95",
     "timestamp": "2026-10-17T07:54:38.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莊子璇打匹克球走光遭批造作　霸氣反擊：游水着比堅尼話露底？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187844869071048704487356.jpeg/8RRn-amfI4M-S2fD_mkn1XqSkaF0tinrxqhfs_yoX7M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400596/%E8%8E%8A%E5%AD%90%E7%92%87%E6%89%93%E5%8C%B9%E5%85%8B%E7%90%83%E8%B5%B0%E5%85%89%E9%81%AD%E6%89%B9%E9%80%A0%E4%BD%9C-%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E6%B8%B8%E6%B0%B4%E7%9D%80%E6%AF%94%E5%A0%85%E5%B0%BC%E8%A9%B1%E9%9C%B2%E5%BA%95",
-    "timestamp": "2026-10-17T07:48:10.487Z",
     "strategy": ".content-card__main"
   }
 ];
