@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T10:18:22.792Z
+// Last updated: 2026-10-17T10:31:14.984Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "袁詠儀霸氣反擊　嘆吳鎮宇老婆受苦「很可憐」：救了整個世界",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188151868992262144146859.jpeg/KqhVS1e7a3ng39WScX3T92XdqGfqLNTuo3R4HKN0eBw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400750/%E8%A2%81%E8%A9%A0%E5%84%80%E9%9C%B8%E6%B0%A3%E5%8F%8D%E6%93%8A-%E5%98%86%E5%90%B3%E9%8E%AE%E5%AE%87%E8%80%81%E5%A9%86%E5%8F%97%E8%8B%A6-%E5%BE%88%E5%8F%AF%E6%86%90-%E6%95%91%E4%BA%86%E6%95%B4%E5%80%8B%E4%B8%96%E7%95%8C",
+    "timestamp": "2026-10-17T10:31:14.984Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬甩店MMA｜台店員跳出櫃台追毆疑打尖大媽　網民紛求店方勿解僱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188071050546515968749260.jpeg/KCF7fdwUSN0Dyw9SlSBHIAHugALXMHGmyrSL1cq0i9U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400685/%E9%86%AB%E7%94%9F%E4%BD%A0%E6%9C%89%E7%97%85-%E9%BB%83%E8%A9%A0%E5%84%80%E6%82%A3%E6%9C%AB%E6%9C%9F%E8%82%BA%E7%99%8C%E4%BB%8D%E5%A0%85%E6%8C%81%E8%A8%BA%E7%97%87-%E5%AE%B9%E6%A8%B9%E6%81%92%E6%B7%9A%E5%B4%A9%E7%82%BA%E5%A4%AA%E5%A4%AA%E6%8B%94%E5%96%89",
     "timestamp": "2026-10-17T02:26:03.067Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國移民｜EAD工卡取消540天自動延期保障　審批慢隨時全家斷糧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187791445436665856358072.jpeg/TPXKJYFy46molGi0oAlwaiP5H8LRB2_y9Y9NSvWPTUo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400403/%E7%BE%8E%E5%9C%8B%E7%A7%BB%E6%B0%91-ead%E5%B7%A5%E5%8D%A1%E5%8F%96%E6%B6%88540%E5%A4%A9%E8%87%AA%E5%8B%95%E5%BB%B6%E6%9C%9F%E4%BF%9D%E9%9A%9C-%E5%AF%A9%E6%89%B9%E6%85%A2%E9%9A%A8%E6%99%82%E5%85%A8%E5%AE%B6%E6%96%B7%E7%B3%A7",
-    "timestamp": "2026-10-17T01:36:28.545Z",
     "strategy": ".content-card__main"
   }
 ];
