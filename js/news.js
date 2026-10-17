@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T10:43:08.520Z
+// Last updated: 2026-10-17T10:56:11.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛回家｜邵初「中門大開」震撼新加坡  性感戰衣引東張女神留言問",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188160404774195200865237.jpeg/uc4YmXqVGZ-yHn0VFtC2G7HlDofPete0qm2TY6ptk2M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400724/%E6%84%9B%E5%9B%9E%E5%AE%B6-%E9%82%B5%E5%88%9D-%E4%B8%AD%E9%96%80%E5%A4%A7%E9%96%8B-%E9%9C%87%E6%92%BC%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%80%A7%E6%84%9F%E6%88%B0%E8%A1%A3%E5%BC%95%E6%9D%B1%E5%BC%B5%E5%A5%B3%E7%A5%9E%E7%95%99%E8%A8%80%E5%95%8F",
+    "timestamp": "2026-10-17T10:56:11.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張柏芝一襲白裙優雅亮相深圳灣　氣色絕佳獲激讚：白月光回來了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185199076489039872518463.jpeg/My6z-IYaUpCJsaYGm4D6GQvvS9x2kshpVzet-nI3rfo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400698/%E8%A5%BF%E8%B2%A2%E8%9B%8B%E5%AE%B6%E7%81%A316%E5%90%8D%E5%A5%B3%E5%AD%90%E8%A1%8C%E5%B1%B1-%E4%B8%AD%E5%B9%B4%E5%A9%A6%E7%AA%81%E5%90%90%E8%A1%80%E6%8A%BD%E7%AD%8B-%E7%9B%B4%E5%8D%87%E6%A9%9F%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-10-17T03:46:43.008Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧炳強：999將增實時視像功能　利用AI排序報案優次　2028年啟用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188075952396046336807234.jpeg/jBGusfi4pdofXaegJd34ukBCxIV8JzwmGV_8phlf_KY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400693/%E9%84%A7%E7%82%B3%E5%BC%B7-999%E5%B0%87%E5%A2%9E%E5%AF%A6%E6%99%82%E8%A6%96%E5%83%8F%E5%8A%9F%E8%83%BD-%E5%88%A9%E7%94%A8ai%E6%8E%92%E5%BA%8F%E5%A0%B1%E6%A1%88%E5%84%AA%E6%AC%A1-2028%E5%B9%B4%E5%95%9F%E7%94%A8",
-    "timestamp": "2026-10-17T02:58:39.560Z",
     "strategy": ".content-card__main"
   }
 ];
