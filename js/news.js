@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T11:28:56.186Z
+// Last updated: 2026-10-18T12:48:53.734Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅志祥講廣東話變鬧人「黐線㗎」　劉穎鏇大聲搶答遭糾正掩面狂笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188558222030540800076328.jpeg/c-CEreAo2gQHoboXJHooVrVzHET05sccHaL_lR2i_5U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400970/%E7%BE%85%E5%BF%97%E7%A5%A5%E8%AC%9B%E5%BB%A3%E6%9D%B1%E8%A9%B1%E8%AE%8A%E9%AC%A7%E4%BA%BA-%E9%BB%90%E7%B7%9A%E3%97%8E-%E5%8A%89%E7%A9%8E%E9%8F%87%E5%A4%A7%E8%81%B2%E6%90%B6%E7%AD%94%E9%81%AD%E7%B3%BE%E6%AD%A3%E6%8E%A9%E9%9D%A2%E7%8B%82%E7%AC%91",
+    "timestamp": "2026-10-18T12:48:53.734Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山頂步行徑設燈光裝置惹議　旅發局稱重視居民意見續溝通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188455900789084160816357.jpeg/H2OjRspC5GKBayghBE24wzA_7-PoqmniePhE9nj4RPY",
     "url": "https://www.hk01.com/01TV/60400891/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E7%A4%BA%E5%A8%81%E9%A8%B7%E4%BA%82-%E5%88%A9%E6%91%A9%E6%97%A5143%E5%B9%B4%E6%AD%B7%E5%8F%B2%E5%B8%82%E6%94%BF%E5%BB%B3%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80",
     "timestamp": "2026-10-18T04:00:12.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧：暫停對俄全面制裁　設60天緩衝期分析對全球經濟影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186851685662724096047189.jpeg/47_iNdfKMuWMidgdfMvIq1-0_Tj2-mnvYrkes2K5HrM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400883/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E6%9A%AB%E5%81%9C%E5%B0%8D%E4%BF%84%E5%85%A8%E9%9D%A2%E5%88%B6%E8%A3%81-%E8%A8%AD60%E5%A4%A9%E7%B7%A9%E8%A1%9D%E6%9C%9F%E5%88%86%E6%9E%90%E5%B0%8D%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-10-18T03:47:54.686Z",
     "strategy": ".content-card__main"
   }
 ];
