@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T07:34:54.830Z
+// Last updated: 2026-10-18T08:23:10.971Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佐敦廣東道51歲男住戶家中暈倒　友人揭發送院搶救後不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163361473012043776604275.jpeg/h6AjQYleSXBqlcQ7kW-1jqCmm4xXtZdQaKvV-UKr1fk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400961/%E4%BD%90%E6%95%A6%E5%BB%A3%E6%9D%B1%E9%81%9351%E6%AD%B2%E7%94%B7%E4%BD%8F%E6%88%B6%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E5%8F%8B%E4%BA%BA%E6%8F%AD%E7%99%BC%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-10-18T08:23:10.971Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀保時捷衝紅燈　途人停步避險　據悉警方交通調查隊接手跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188162381381898240875209.png/NCBHh-TMk4o8IbeFFMuVE8tUaSE3wSn2IrPOXSKzzl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400710/%E9%87%8D%E9%99%BD%E7%AF%80%E8%A9%A9%E8%A9%9E-%E7%82%BA%E4%BD%95%E6%9D%9C%E7%89%A7%E6%84%9B%E4%BD%B3%E7%AF%80%E8%8F%8A%E8%8A%B1%E6%8F%92%E9%A0%AD-%E7%8E%8B%E7%B6%AD-%E6%AF%8F%E9%80%A2%E4%BD%B3%E7%AF%80%E5%80%8D%E6%80%9D%E8%A6%AA",
     "timestamp": "2026-10-17T23:16:00.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重陽節天氣｜今早有一兩陣微雨　最高氣溫31度　未來兩三日皆天晴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188369310653878272791203.jpeg/wPAp5cu_YOMDdjdTwmK2gJjhz7LTUkWipk-GhpxPhoY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60400858/%E9%87%8D%E9%99%BD%E7%AF%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB31%E5%BA%A6-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E6%97%A5%E7%9A%86%E5%A4%A9%E6%99%B4",
-    "timestamp": "2026-10-17T22:53:59.051Z",
     "strategy": ".content-card__main"
   }
 ];
