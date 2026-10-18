@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T17:46:08.070Z
+// Last updated: 2026-10-18T17:54:30.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "由零說起｜麥包入行比賽「無衫著」 母親借三個月家用添置西裝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188540223076700160082637.jpeg/sOMzJQ5a7x84NraAXpTUW8P3kBpD2DI1PxWJfT8ViX0",
+    "url": "https://www.hk01.com/01TV/60400983/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E5%85%A5%E8%A1%8C%E6%AF%94%E8%B3%BD-%E7%84%A1%E8%A1%AB%E8%91%97-%E6%AF%8D%E8%A6%AA%E5%80%9F%E4%B8%89%E5%80%8B%E6%9C%88%E5%AE%B6%E7%94%A8%E6%B7%BB%E7%BD%AE%E8%A5%BF%E8%A3%9D",
+    "timestamp": "2026-10-18T17:54:30.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "由零說起｜麥包入行比賽「無衫著」 母親借三個月家用添置西裝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188554313136345088510843.jpeg/kJ-RGONGNQi-nDK5ZT7YYMG05FjAiDXUhhJ8CIYSfAg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401026/%E6%8A%AB%E8%8D%8A%E6%96%AC%E6%A3%98-%E4%BD%99%E6%96%87%E6%A8%82%E6%83%85%E7%B7%92%E5%B4%A9%E6%BD%B0%E6%8E%A9%E9%9D%A2%E7%97%9B%E5%93%AD-%E7%B6%B2%E6%B0%91%E5%8A%9B%E6%92%90%E7%9C%9F%E6%83%85%E6%B5%81%E9%9C%B2%E6%9B%B4%E5%85%B7%E6%84%9F%E6%9F%93%E5%8A%9B",
     "timestamp": "2026-10-18T11:16:50.353Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國今年已累計4410宗麻疹確診病例　已接近去年一倍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250407/985734607901036544531794.jpeg/avhblhvafXFpG8hHZYa0xbPKmUoNKqKdtt5RUrbeUVI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400984/%E7%BE%8E%E5%9C%8B%E4%BB%8A%E5%B9%B4%E5%B7%B2%E7%B4%AF%E8%A8%884410%E5%AE%97%E9%BA%BB%E7%96%B9%E7%A2%BA%E8%A8%BA%E7%97%85%E4%BE%8B-%E5%B7%B2%E6%8E%A5%E8%BF%91%E5%8E%BB%E5%B9%B4%E4%B8%80%E5%80%8D",
-    "timestamp": "2026-10-18T10:43:25.788Z",
     "strategy": ".content-card__main"
   }
 ];
