@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T14:17:13.300Z
+// Last updated: 2026-10-18T14:31:09.661Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湯怡戴AI眼鏡秒變「超級家長」　 陳家樂大讚無人店零壓力體驗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188526615928246272783642.jpeg/3W5OmLSQ-N1b9r1iK9cfDW12MCDysypxu4I51ruCOdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400957/%E6%B9%AF%E6%80%A1%E6%88%B4ai%E7%9C%BC%E9%8F%A1%E7%A7%92%E8%AE%8A-%E8%B6%85%E7%B4%9A%E5%AE%B6%E9%95%B7-%E9%99%B3%E5%AE%B6%E6%A8%82%E5%A4%A7%E8%AE%9A%E7%84%A1%E4%BA%BA%E5%BA%97%E9%9B%B6%E5%A3%93%E5%8A%9B%E9%AB%94%E9%A9%97",
+    "timestamp": "2026-10-18T14:31:09.661Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陸劇評選「神級選角」TOP 10　井柏然孫千爆冷落榜　第一名難超越",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188482868049874944396741.jpeg/b2Zmmw8VfQ57eMdxpgiyUB9XHIAXaGJvzTFg2c0xYNk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400919/%E8%8A%B1%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BD%95%E6%89%BF%E8%AC%99%E6%A2%81%E5%8D%83%E9%9B%A8%E8%82%A9%E8%B2%A0%E9%87%8D%E4%BB%BB-%E7%8E%87%E5%BC%B5%E5%AE%B6%E6%9C%97%E8%94%A1%E4%BF%8A%E5%BD%A5%E7%88%AD%E5%85%A5%E5%9C%98%E9%AB%94%E6%B1%BA%E8%B3%BD",
     "timestamp": "2026-10-18T05:45:55.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑞士「藍色公事包」成富豪象徵　裝滿3kg朱古力　背後門檻極驚人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188465364221038592790146.jpeg/Sh-DMcq09TeOH9AHAVgfqwZRBZLfwVK9InsnOCJ7Jzg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60400887/%E7%91%9E%E5%A3%AB-%E8%97%8D%E8%89%B2%E5%85%AC%E4%BA%8B%E5%8C%85-%E6%88%90%E5%AF%8C%E8%B1%AA%E8%B1%A1%E5%BE%B5-%E8%A3%9D%E6%BB%BF3kg%E6%9C%B1%E5%8F%A4%E5%8A%9B-%E8%83%8C%E5%BE%8C%E9%96%80%E6%AA%BB%E6%A5%B5%E9%A9%9A%E4%BA%BA",
-    "timestamp": "2026-10-18T05:34:50.451Z",
     "strategy": ".content-card__main"
   }
 ];
