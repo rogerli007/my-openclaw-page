@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T06:29:57.140Z
+// Last updated: 2026-10-18T06:57:45.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸九巴B10疑入錯線撞指示牌　上層玻璃碎裂　幸無人受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188499755727065088567210.jpeg/pvJJxUKry-CEz2ldNZyeeMzz-cy75qI8nzjDM584wzM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400938/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%B9%9D%E5%B7%B4b10%E7%96%91%E5%85%A5%E9%8C%AF%E7%B7%9A%E6%92%9E%E6%8C%87%E7%A4%BA%E7%89%8C-%E4%B8%8A%E5%B1%A4%E7%8E%BB%E7%92%83%E7%A2%8E%E8%A3%82-%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-10-18T06:57:45.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "打風？薔琵穩坐超強颱風級別　天文台最新概率預報+港迎33度高溫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188357327829340160463207.jpeg/-dL8h-WEd_FpPzHBWKyO_CJzkICewZT6Z4-nuWePp7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400856/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E7%A4%BA%E5%A8%81%E9%A8%B7%E4%BA%82-%E5%B7%A5%E6%9C%83%E7%A8%B180%E8%90%AC%E4%BA%BA%E4%B8%8A%E8%A1%97400%E4%BA%BA%E8%A2%AB%E6%8D%95-17%E6%AD%B2%E7%94%B7%E8%A2%AB%E7%82%B8%E6%96%B7%E6%89%8B",
     "timestamp": "2026-10-17T21:54:41.555Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度加爾各答人踩人至少18死　疑因突然暴雨導致人群推撞｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188347361986875392183742.png/6GL7WpdkpzbgwSyOED6sJGo7KicUx63nkUA6KJFAOig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400852/%E5%8D%B0%E5%BA%A6%E5%8A%A0%E7%88%BE%E5%90%84%E7%AD%94%E4%BA%BA%E8%B8%A9%E4%BA%BA%E8%87%B3%E5%B0%9118%E6%AD%BB-%E7%96%91%E5%9B%A0%E7%AA%81%E7%84%B6%E6%9A%B4%E9%9B%A8%E5%B0%8E%E8%87%B4%E4%BA%BA%E7%BE%A4%E6%8E%A8%E6%92%9E-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-17T21:16:30.047Z",
     "strategy": ".content-card__main"
   }
 ];
