@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T15:17:45.538Z
+// Last updated: 2026-10-18T15:32:56.375Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜放蛇隱世神醫　不問診直賣假紙兼警告：唔可以俾人查到",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188612674125041664185260.jpeg/OdkV8qzPEVb9WyAuuqStWlG2f4XxeYhoMB1xnTAdcZ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401057/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%94%BE%E8%9B%87%E9%9A%B1%E4%B8%96%E7%A5%9E%E9%86%AB-%E4%B8%8D%E5%95%8F%E8%A8%BA%E7%9B%B4%E8%B3%A3%E5%81%87%E7%B4%99%E5%85%BC%E8%AD%A6%E5%91%8A-%E5%94%94%E5%8F%AF%E4%BB%A5%E4%BF%BE%E4%BA%BA%E6%9F%A5%E5%88%B0",
+    "timestamp": "2026-10-18T15:32:56.375Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全球華文永續報導獎｜香港01「宏福苑大火追蹤調查」獲社會價值獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188499254847475712675240.jpeg/6ZQ3gPI7sVLN2R8hrL-1GVcwY4OEk65rTNzAKUzcwCk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400934/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%B2%99%E7%94%B8%E9%AD%9A%E5%BC%8F-%E9%80%BC%E7%88%86%E7%AD%89%E8%B6%B330%E5%88%86%E9%90%98-%E9%84%A7%E7%82%B3%E5%BC%B7-%E8%A6%96%E5%AF%9F%E9%81%8B%E4%BD%9C%E5%87%BA%E5%85%A5%E5%A2%83%E6%9A%A2%E9%A0%86",
     "timestamp": "2026-10-18T07:19:51.848Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸九巴B10疑入錯線撞指示牌　上層玻璃碎裂　幸無人受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188499755727065088567210.jpeg/pvJJxUKry-CEz2ldNZyeeMzz-cy75qI8nzjDM584wzM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400938/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%B9%9D%E5%B7%B4b10%E7%96%91%E5%85%A5%E9%8C%AF%E7%B7%9A%E6%92%9E%E6%8C%87%E7%A4%BA%E7%89%8C-%E4%B8%8A%E5%B1%A4%E7%8E%BB%E7%92%83%E7%A2%8E%E8%A3%82-%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-10-18T06:57:45.657Z",
     "strategy": ".content-card__main"
   }
 ];
