@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T14:54:01.242Z
+// Last updated: 2026-10-18T15:17:45.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全球華文永續報導獎｜香港01「宏福苑大火追蹤調查」獲社會價值獎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188625184433639424041735.jpeg/jtw6gGn2-WRwD-hfHvahmGXlFy3zruuvdV9dsnVfXbI",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401061/%E5%85%A8%E7%90%83%E8%8F%AF%E6%96%87%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%B0%8E%E7%8D%8E-%E9%A6%99%E6%B8%AF01-%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E8%BF%BD%E8%B9%A4%E8%AA%BF%E6%9F%A5-%E7%8D%B2%E7%A4%BE%E6%9C%83%E5%83%B9%E5%80%BC%E7%8D%8E",
+    "timestamp": "2026-10-18T15:17:45.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓媒︰三星將採用台積電技術　為英偉達生產下一代內存晶片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188499755727065088567210.jpeg/pvJJxUKry-CEz2ldNZyeeMzz-cy75qI8nzjDM584wzM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400938/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%B9%9D%E5%B7%B4b10%E7%96%91%E5%85%A5%E9%8C%AF%E7%B7%9A%E6%92%9E%E6%8C%87%E7%A4%BA%E7%89%8C-%E4%B8%8A%E5%B1%A4%E7%8E%BB%E7%92%83%E7%A2%8E%E8%A3%82-%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7",
     "timestamp": "2026-10-18T06:57:45.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "打風？薔琵穩坐超強颱風級別　天文台最新概率預報+港迎33度高溫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188496101351624704947610.jpeg/C_GRfgP1weEpF1nzTWv26Lif_a-b_IeisOI627DiOts?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399836/%E6%89%93%E9%A2%A8-%E8%96%94%E7%90%B5%E7%A9%A9%E5%9D%90%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A%E5%88%A5-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%9C%80%E6%96%B0%E6%A6%82%E7%8E%87%E9%A0%90%E5%A0%B1-%E6%B8%AF%E8%BF%8E33%E5%BA%A6%E9%AB%98%E6%BA%AB",
-    "timestamp": "2026-10-18T06:29:57.140Z",
     "strategy": ".content-card__main"
   }
 ];
