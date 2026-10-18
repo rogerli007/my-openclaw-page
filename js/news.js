@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T18:46:09.437Z
+// Last updated: 2026-10-18T18:54:16.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
+    "timestamp": "2026-10-18T18:54:16.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警紅磡截可疑私家車　搜出逾20包可卡因　男司機涉販毒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188550707981062144934250.jpeg/_XE_GBAx0Cy71EcE3SHdnHkG7eoee9WbFscwbRbHMG0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400920/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%BC%B5%E6%99%BA%E9%9C%96%E9%A0%90%E5%91%8A%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%9C%89%E6%9B%B4%E5%A4%A7%E8%86%BD%E6%BC%94%E5%87%BA-%E5%9B%9B%E5%A5%B3%E7%A5%9E%E6%84%8F%E8%AD%98%E5%B0%BA%E5%BA%A6%E9%AC%A5%E5%88%B0%E7%9B%A1",
     "timestamp": "2026-10-18T13:41:08.305Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅志祥講廣東話變鬧人「黐線㗎」　劉穎鏇大聲搶答遭糾正掩面狂笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188558222030540800076328.jpeg/c-CEreAo2gQHoboXJHooVrVzHET05sccHaL_lR2i_5U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400970/%E7%BE%85%E5%BF%97%E7%A5%A5%E8%AC%9B%E5%BB%A3%E6%9D%B1%E8%A9%B1%E8%AE%8A%E9%AC%A7%E4%BA%BA-%E9%BB%90%E7%B7%9A%E3%97%8E-%E5%8A%89%E7%A9%8E%E9%8F%87%E5%A4%A7%E8%81%B2%E6%90%B6%E7%AD%94%E9%81%AD%E7%B3%BE%E6%AD%A3%E6%8E%A9%E9%9D%A2%E7%8B%82%E7%AC%91",
-    "timestamp": "2026-10-18T12:48:53.734Z",
     "strategy": ".content-card__main"
   }
 ];
