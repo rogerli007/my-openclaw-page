@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T15:43:15.188Z
+// Last updated: 2026-10-18T15:54:05.819Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周星星｜張家輝蒙嘉慧相隔26年合作　罕談與鄭伊健夫妻相處之道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188528606800777216608792.jpeg/u76Kih0po3wkJVaDMEGKDIynofcdXSiNIZvGfCGbxnw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400954/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E5%BC%B5%E5%AE%B6%E8%BC%9D%E8%92%99%E5%98%89%E6%85%A7%E7%9B%B8%E9%9A%9426%E5%B9%B4%E5%90%88%E4%BD%9C-%E7%BD%95%E8%AB%87%E8%88%87%E9%84%AD%E4%BC%8A%E5%81%A5%E5%A4%AB%E5%A6%BB%E7%9B%B8%E8%99%95%E4%B9%8B%E9%81%93",
+    "timestamp": "2026-10-18T15:54:05.819Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀保時捷遭警截查　警召緝毒犬檢毒品　男司機涉毒駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163361473012043776604275.jpeg/h6AjQYleSXBqlcQ7kW-1jqCmm4xXtZdQaKvV-UKr1fk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400961/%E4%BD%90%E6%95%A6%E5%BB%A3%E6%9D%B1%E9%81%9351%E6%AD%B2%E7%94%B7%E4%BD%8F%E6%88%B6%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E5%8F%8B%E4%BA%BA%E6%8F%AD%E7%99%BC%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-18T08:23:10.971Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀保時捷衝紅燈　途人停步避險　據悉警方交通調查隊接手跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188326463951081472327954.jpeg/zQvX9JBh_kl7JLLKuf0ZuPlXeu9z0Ic5LQyuvS0Mrr0",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400945/%E5%B0%96%E6%B2%99%E5%92%80%E4%BF%9D%E6%99%82%E6%8D%B7%E8%A1%9D%E7%B4%85%E7%87%88-%E9%80%94%E4%BA%BA%E5%81%9C%E6%AD%A5%E9%81%BF%E9%9A%AA-%E6%93%9A%E6%82%89%E8%AD%A6%E6%96%B9%E4%BA%A4%E9%80%9A%E8%AA%BF%E6%9F%A5%E9%9A%8A%E6%8E%A5%E6%89%8B%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-10-18T07:34:54.830Z",
     "strategy": ".content-card__main"
   }
 ];
