@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T01:55:00.549Z
+// Last updated: 2026-10-18T02:25:09.919Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李家超重陽節悼英烈　籲珍惜守護得來不易的和平與安定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188432232902037504302176.jpeg/hSBwC_OUSOEHO7pZLpZoaLsEZT_ICAWfMrdugzK3boM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60400872/%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%87%8D%E9%99%BD%E7%AF%80%E6%82%BC%E8%8B%B1%E7%83%88-%E7%B1%B2%E7%8F%8D%E6%83%9C%E5%AE%88%E8%AD%B7%E5%BE%97%E4%BE%86%E4%B8%8D%E6%98%93%E7%9A%84%E5%92%8C%E5%B9%B3%E8%88%87%E5%AE%89%E5%AE%9A",
+    "timestamp": "2026-10-18T02:25:09.919Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "IMF預計日本央行將再加息一次　後續路徑需保持靈活",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188257890008305664658491.jpeg/jtI6vSy7o8zd9pnk1sQK-GFZsI_3svQS9sv_5fbL_-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400796/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%B8%AF%E8%B6%85%E8%81%AF-%E6%9D%B1%E9%90%B5%E6%89%93%E5%90%A1-%E7%8B%82%E6%83%B3%E6%9B%B2-%E6%AF%8F%E5%91%A8%E6%90%AD%E9%90%B5%E5%8E%BB%E7%9D%87%E6%B3%A2%E5%85%A8%E7%90%83%E7%9A%86%E9%80%9A%E7%94%A8",
     "timestamp": "2026-10-17T18:20:52.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "體壇札記｜港超聯「東鐵打吡」狂想曲　每周搭鐵去睇波全球皆通用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188257890008305664658491.jpeg/jtI6vSy7o8zd9pnk1sQK-GFZsI_3svQS9sv_5fbL_-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400796/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%B8%AF%E8%B6%85%E8%81%AF-%E6%9D%B1%E9%90%B5%E6%89%93%E5%90%A1-%E7%8B%82%E6%83%B3%E6%9B%B2-%E6%AF%8F%E5%91%A8%E6%90%AD%E9%90%B5%E5%8E%BB%E7%9D%87%E6%B3%A2%E5%85%A8%E7%90%83%E7%9A%86%E9%80%9A%E7%94%A8",
-    "timestamp": "2026-10-17T17:53:54.000Z",
     "strategy": ".content-card__main"
   }
 ];
