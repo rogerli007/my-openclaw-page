@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T15:32:56.375Z
+// Last updated: 2026-10-18T15:43:15.188Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀保時捷遭警截查　警召緝毒犬檢毒品　男司機涉毒駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188632116166922240024687.jpeg/_CgtF6PJF9wQ-QmMr5G7ijXTjJLV_RZWPHDURxZw1Ec?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401067/%E5%B0%96%E6%B2%99%E5%92%80%E4%BF%9D%E6%99%82%E6%8D%B7%E9%81%AD%E8%AD%A6%E6%88%AA%E6%9F%A5-%E8%AD%A6%E5%8F%AC%E7%B7%9D%E6%AF%92%E7%8A%AC%E6%AA%A2%E6%AF%92%E5%93%81-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E6%AF%92%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-18T15:43:15.188Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜放蛇隱世神醫　不問診直賣假紙兼警告：唔可以俾人查到",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188326463951081472327954.jpeg/zQvX9JBh_kl7JLLKuf0ZuPlXeu9z0Ic5LQyuvS0Mrr0",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400945/%E5%B0%96%E6%B2%99%E5%92%80%E4%BF%9D%E6%99%82%E6%8D%B7%E8%A1%9D%E7%B4%85%E7%87%88-%E9%80%94%E4%BA%BA%E5%81%9C%E6%AD%A5%E9%81%BF%E9%9A%AA-%E6%93%9A%E6%82%89%E8%AD%A6%E6%96%B9%E4%BA%A4%E9%80%9A%E8%AA%BF%E6%9F%A5%E9%9A%8A%E6%8E%A5%E6%89%8B%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-10-18T07:34:54.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "皇崗口岸｢沙甸魚式｣逼爆等足30分鐘　鄧炳強：視察運作出入境暢順",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188499254847475712675240.jpeg/6ZQ3gPI7sVLN2R8hrL-1GVcwY4OEk65rTNzAKUzcwCk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400934/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%B2%99%E7%94%B8%E9%AD%9A%E5%BC%8F-%E9%80%BC%E7%88%86%E7%AD%89%E8%B6%B330%E5%88%86%E9%90%98-%E9%84%A7%E7%82%B3%E5%BC%B7-%E8%A6%96%E5%AF%9F%E9%81%8B%E4%BD%9C%E5%87%BA%E5%85%A5%E5%A2%83%E6%9A%A2%E9%A0%86",
-    "timestamp": "2026-10-18T07:19:51.848Z",
     "strategy": ".content-card__main"
   }
 ];
