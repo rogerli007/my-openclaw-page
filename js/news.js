@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T22:30:29.981Z
+// Last updated: 2026-10-18T22:41:22.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳毅將罕現身香港攜妻睇戲十指緊扣放閃　曾血管撕裂險死近況曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188619087022919680854063.jpeg/G2aiMJoaYY8s9U4fGYCF_zh1xum9kVaVZYMLTmWDC04?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401022/65%E6%AD%B2%E5%90%B3%E6%AF%85%E5%B0%87%E6%94%9C%E5%A6%BB%E7%9D%87%E6%88%B2%E5%8D%81%E6%8C%87%E7%B7%8A%E6%89%A3%E6%94%BE%E9%96%83-%E6%9B%BE%E5%A4%A7%E5%8B%95%E8%84%88%E6%92%95%E8%A3%82-%E4%B8%89%E6%88%90%E6%A9%9F%E6%9C%83%E7%99%B1%E7%98%93",
+    "timestamp": "2026-10-18T22:41:22.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日天晴乾燥　日間炎熱約32度　新界再高一兩度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148564422407491584049587.jpeg/nl6I2rgydr19DjKEwNiBPyjVv3tFGX42CZWHzgmVh84?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401070/%E6%9D%8E%E5%BC%B7%E8%88%87%E5%A1%94%E5%90%89%E5%85%8B%E7%B8%BD%E7%90%86%E6%9C%83%E8%AB%87-%E7%B1%B2%E5%85%A9%E5%9C%8B%E6%9B%B4%E7%B7%8A%E5%AF%86%E5%8D%94%E4%BD%9C%E7%B6%AD%E8%AD%B7%E5%85%B1%E5%90%8C%E5%88%A9%E7%9B%8A",
     "timestamp": "2026-10-18T16:55:53.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強與塔吉克總理會談　籲兩國更緊密協作維護共同利益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148564422407491584049587.jpeg/nl6I2rgydr19DjKEwNiBPyjVv3tFGX42CZWHzgmVh84?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401070/%E6%9D%8E%E5%BC%B7%E8%88%87%E5%A1%94%E5%90%89%E5%85%8B%E7%B8%BD%E7%90%86%E6%9C%83%E8%AB%87-%E7%B1%B2%E5%85%A9%E5%9C%8B%E6%9B%B4%E7%B7%8A%E5%AF%86%E5%8D%94%E4%BD%9C%E7%B6%AD%E8%AD%B7%E5%85%B1%E5%90%8C%E5%88%A9%E7%9B%8A",
-    "timestamp": "2026-10-18T16:47:04.556Z",
     "strategy": ".content-card__main"
   }
 ];
