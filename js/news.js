@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T04:21:35.521Z
+// Last updated: 2026-10-18T04:46:55.377Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大艾伯塔軍事基地發生火災　國防部長指有傷亡惟事故原因不明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188460128949506048708142.jpeg/bWYSlRl-dDj2sJ9h9EznKfiWXXlvOmf_HEc_gRxHP4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400894/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%89%BE%E4%BC%AF%E5%A1%94%E8%BB%8D%E4%BA%8B%E5%9F%BA%E5%9C%B0%E7%99%BC%E7%94%9F%E7%81%AB%E7%81%BD-%E5%9C%8B%E9%98%B2%E9%83%A8%E9%95%B7%E6%8C%87%E6%9C%89%E5%82%B7%E4%BA%A1%E6%83%9F%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E4%B8%8D%E6%98%8E",
+    "timestamp": "2026-10-18T04:46:55.377Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜馬列斯卡率曼城7連勝　超越哥迪奧拿創新帥開季最佳紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188333509199007744352718.jpeg/kITp2Al1RVb4jUQKVcf-x9QvgLGA86KlVRX_2FUV_9g",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400850/%E6%9F%B4%E7%81%A32%E7%AB%A5%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E6%85%A2%E9%A7%9B%E8%AE%8A%E6%80%A5%E7%85%9E-%E7%B6%B2%E6%B0%91%E6%96%A5-%E7%88%B6%E6%AF%8D%E5%8E%BB%E5%92%97%E9%82%8A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-17T20:33:36.257Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：特朗普叫停對俄制裁如獎勵普京　冀G20峰會與美俄會面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188327001258201088587329.jpeg/JZA_KVjxiQ6-5ItH2VJIbM5bRKPwq3813S7pY90u6WM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400849/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AB%E5%81%9C%E5%B0%8D%E4%BF%84%E5%88%B6%E8%A3%81%E5%A6%82%E7%8D%8E%E5%8B%B5%E6%99%AE%E4%BA%AC-%E5%86%80g20%E5%B3%B0%E6%9C%83%E8%88%87%E7%BE%8E%E4%BF%84%E6%9C%83%E9%9D%A2",
-    "timestamp": "2026-10-17T20:21:27.588Z",
     "strategy": ".content-card__main"
   }
 ];
