@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T16:19:51.709Z
+// Last updated: 2026-10-18T16:35:06.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "委內瑞拉代總統公布石油協定　料未來五年獲近6千億投資",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188609073742876672183690.jpeg/yAhpRURSux6vj-I8DXUdOABTSceKUGPq-u07ZfrtO2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401056/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E4%BB%A3%E7%B8%BD%E7%B5%B1%E5%85%AC%E5%B8%83%E7%9F%B3%E6%B2%B9%E5%8D%94%E5%AE%9A-%E6%96%99%E6%9C%AA%E4%BE%86%E4%BA%94%E5%B9%B4%E7%8D%B2%E8%BF%916%E5%8D%83%E5%84%84%E6%8A%95%E8%B3%87",
+    "timestamp": "2026-10-18T16:35:06.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "委內瑞拉代總統公布石油協定　料未來五年獲近6千億投資",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188533344095178752964302.png/JIcr2B-Ev3vHpTmUAcSyUXertXk3OTrGDA3hKwwN4Ss?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400971/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81%E8%BB%8D%E4%BA%8B%E5%9F%BA%E5%9C%B0%E8%AA%A4%E6%93%8A%E5%A4%A9%E7%84%B6%E6%B0%A3%E8%A8%AD%E6%96%BD%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%917%E6%AD%BB%E6%95%B8%E5%8D%81%E5%82%B7",
     "timestamp": "2026-10-18T09:20:09.485Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國示威淪暴力「零元購」　Hermès、蘋果全遭搶　特勤部隊急出動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188523293821374464193682.jpeg/GocZX5E_3wBfC78ngYLvzQUNiFbyipZfrZk-OK2ZPjg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400947/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E6%B7%AA%E6%9A%B4%E5%8A%9B-%E9%9B%B6%E5%85%83%E8%B3%BC-herm%C3%A8s-%E8%98%8B%E6%9E%9C%E5%85%A8%E9%81%AD%E6%90%B6-%E7%89%B9%E5%8B%A4%E9%83%A8%E9%9A%8A%E6%80%A5%E5%87%BA%E5%8B%95",
-    "timestamp": "2026-10-18T08:45:54.976Z",
     "strategy": ".content-card__main"
   }
 ];
