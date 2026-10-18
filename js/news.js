@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T16:35:06.263Z
+// Last updated: 2026-10-18T16:47:04.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強與塔吉克總理會談　籲兩國更緊密協作維護共同利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148564422407491584049587.jpeg/nl6I2rgydr19DjKEwNiBPyjVv3tFGX42CZWHzgmVh84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401070/%E6%9D%8E%E5%BC%B7%E8%88%87%E5%A1%94%E5%90%89%E5%85%8B%E7%B8%BD%E7%90%86%E6%9C%83%E8%AB%87-%E7%B1%B2%E5%85%A9%E5%9C%8B%E6%9B%B4%E7%B7%8A%E5%AF%86%E5%8D%94%E4%BD%9C%E7%B6%AD%E8%AD%B7%E5%85%B1%E5%90%8C%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-10-18T16:47:04.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "委內瑞拉代總統公布石油協定　料未來五年獲近6千億投資",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182014444960485376874309.jpeg/K0u-YUx13KiB080tPOgfMT5GvZi-GGwaC-Jrygvia8o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60400979/sierra-sea%E7%AC%AC2c-2-%E6%9C%9F%E5%8E%9F%E5%83%B9%E5%8A%A0%E6%8E%A8124%E4%BC%99-%E6%9C%80%E5%B9%B3546%E8%90%AC-%E5%91%A8%E4%B8%89%E5%86%8D%E8%B3%A3152%E4%BC%99",
     "timestamp": "2026-10-18T09:36:11.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大艾伯塔省軍事基地誤擊天然氣設施爆炸　至少7死數十傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188533344095178752964302.png/JIcr2B-Ev3vHpTmUAcSyUXertXk3OTrGDA3hKwwN4Ss?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400971/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81%E8%BB%8D%E4%BA%8B%E5%9F%BA%E5%9C%B0%E8%AA%A4%E6%93%8A%E5%A4%A9%E7%84%B6%E6%B0%A3%E8%A8%AD%E6%96%BD%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%917%E6%AD%BB%E6%95%B8%E5%8D%81%E5%82%B7",
-    "timestamp": "2026-10-18T09:20:09.485Z",
     "strategy": ".content-card__main"
   }
 ];
