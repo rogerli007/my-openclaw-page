@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T09:20:09.485Z
+// Last updated: 2026-10-18T09:36:11.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SIERRA SEA第2C(2)期原價加推124伙　最平546萬　周三再賣152伙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182014444960485376874309.jpeg/K0u-YUx13KiB080tPOgfMT5GvZi-GGwaC-Jrygvia8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60400979/sierra-sea%E7%AC%AC2c-2-%E6%9C%9F%E5%8E%9F%E5%83%B9%E5%8A%A0%E6%8E%A8124%E4%BC%99-%E6%9C%80%E5%B9%B3546%E8%90%AC-%E5%91%A8%E4%B8%89%E5%86%8D%E8%B3%A3152%E4%BC%99",
+    "timestamp": "2026-10-18T09:36:11.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大艾伯塔省軍事基地誤擊天然氣設施爆炸　至少7死數十傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186298144099405824769425.jpeg/OhYNzbFPoRg-UfpBqzk_Y7Jeqh7-z6_2_Uc4uv1HOLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397271/%E4%B8%8D%E5%90%B8%E7%85%99%E7%BD%B9%E8%82%BA%E8%85%BA%E7%99%8C-30%E6%AD%B2%E5%A5%B3%E5%92%B3%E5%97%BD%E5%85%A9%E5%91%A8%E7%A2%BA%E8%A8%BA%E6%99%9A%E6%9C%9F%E7%99%8C%E7%97%87-%E9%9D%A0%E6%A8%99%E9%9D%B6%E8%97%A5%E6%88%90%E5%8A%9F%E6%8E%A7%E5%88%B6",
     "timestamp": "2026-10-17T23:56:31.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國舉行超過3000場No Kings示威　促民眾中期選舉提前投票",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188387745135857664427368.jpeg/PJtVm5xwVw5nzAFc-_Okw05JWUQ3bDVAzVzW1M1c1tQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400860/%E7%BE%8E%E5%9C%8B%E8%88%89%E8%A1%8C%E8%B6%85%E9%81%8E3000%E5%A0%B4no-kings%E7%A4%BA%E5%A8%81-%E4%BF%83%E6%B0%91%E7%9C%BE%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8F%90%E5%89%8D%E6%8A%95%E7%A5%A8",
-    "timestamp": "2026-10-17T23:40:38.403Z",
     "strategy": ".content-card__main"
   }
 ];
