@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T17:28:04.719Z
+// Last updated: 2026-10-18T17:46:08.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "由零說起｜麥包入行比賽「無衫著」 母親借三個月家用添置西裝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188540223076700160082637.jpeg/sOMzJQ5a7x84NraAXpTUW8P3kBpD2DI1PxWJfT8ViX0",
+    "url": "https://www.hk01.com/01TV/60400983/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E5%85%A5%E8%A1%8C%E6%AF%94%E8%B3%BD-%E7%84%A1%E8%A1%AB%E8%91%97-%E6%AF%8D%E8%A6%AA%E5%80%9F%E4%B8%89%E5%80%8B%E6%9C%88%E5%AE%B6%E7%94%A8%E6%B7%BB%E7%BD%AE%E8%A5%BF%E8%A3%9D",
+    "timestamp": "2026-10-18T17:46:08.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "由零說起｜麥包入行比賽「無衫著」 母親借三個月家用添置西裝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250407/985734607901036544531794.jpeg/avhblhvafXFpG8hHZYa0xbPKmUoNKqKdtt5RUrbeUVI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400984/%E7%BE%8E%E5%9C%8B%E4%BB%8A%E5%B9%B4%E5%B7%B2%E7%B4%AF%E8%A8%884410%E5%AE%97%E9%BA%BB%E7%96%B9%E7%A2%BA%E8%A8%BA%E7%97%85%E4%BE%8B-%E5%B7%B2%E6%8E%A5%E8%BF%91%E5%8E%BB%E5%B9%B4%E4%B8%80%E5%80%8D",
     "timestamp": "2026-10-18T10:43:25.788Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "9歲男童染肺炎球菌後現併發症死亡　過往健康良好、潛伏期沒外遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260202/1095113136299577344641972.jpeg/sxvttjc6OojKr6o-UARM2VOcA6PE3U4prh8TSa4fE0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401003/9%E6%AD%B2%E7%94%B7%E7%AB%A5%E6%9F%93%E8%82%BA%E7%82%8E%E7%90%83%E8%8F%8C%E5%BE%8C%E7%8F%BE%E4%BD%B5%E7%99%BC%E7%97%87%E6%AD%BB%E4%BA%A1-%E9%81%8E%E5%BE%80%E5%81%A5%E5%BA%B7%E8%89%AF%E5%A5%BD-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E6%B2%92%E5%A4%96%E9%81%8A",
-    "timestamp": "2026-10-18T10:18:10.340Z",
     "strategy": ".content-card__main"
   }
 ];
