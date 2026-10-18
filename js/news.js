@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T17:54:30.836Z
+// Last updated: 2026-10-18T18:21:17.713Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警紅磡截可疑私家車　搜出逾20包可卡因　男司機涉販毒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188672761426350080237096.jpeg/1_EjL8VBCxyZXXo5T31FvLY8kl4Bd9_olX2Yc799mHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401074/%E8%AD%A6%E7%B4%85%E7%A3%A1%E6%88%AA%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%90%9C%E5%87%BA%E9%80%BE20%E5%8C%85%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-18T18:21:17.713Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "由零說起｜麥包入行比賽「無衫著」 母親借三個月家用添置西裝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104011855547863040932067.jpeg/atqfZVesjGl-9Ni5ylSFiE-lzkGul9yBjORPZozkT2Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401015/%E5%B1%B1%E9%A0%82%E6%AD%A5%E8%A1%8C%E5%BE%91%E8%A8%AD%E7%87%88%E5%85%89%E8%A3%9D%E7%BD%AE%E6%83%B9%E8%AD%B0-%E6%97%85%E7%99%BC%E5%B1%80%E7%A8%B1%E9%87%8D%E8%A6%96%E5%B1%85%E6%B0%91%E6%84%8F%E8%A6%8B%E7%BA%8C%E6%BA%9D%E9%80%9A",
     "timestamp": "2026-10-18T11:28:56.186Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "披荊斬棘｜余文樂情緒崩潰掩面痛哭　網民力撐真情流露更具感染力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188554313136345088510843.jpeg/kJ-RGONGNQi-nDK5ZT7YYMG05FjAiDXUhhJ8CIYSfAg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401026/%E6%8A%AB%E8%8D%8A%E6%96%AC%E6%A3%98-%E4%BD%99%E6%96%87%E6%A8%82%E6%83%85%E7%B7%92%E5%B4%A9%E6%BD%B0%E6%8E%A9%E9%9D%A2%E7%97%9B%E5%93%AD-%E7%B6%B2%E6%B0%91%E5%8A%9B%E6%92%90%E7%9C%9F%E6%83%85%E6%B5%81%E9%9C%B2%E6%9B%B4%E5%85%B7%E6%84%9F%E6%9F%93%E5%8A%9B",
-    "timestamp": "2026-10-18T11:16:50.353Z",
     "strategy": ".content-card__main"
   }
 ];
