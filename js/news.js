@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T09:46:25.705Z
+// Last updated: 2026-10-18T09:54:46.935Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜屯門男疑掟煙頭遇截衝出馬路逃　食環喝止：唔好走企喺度！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188537524272762880745961.jpeg/cQv8btVNd210uVHRPjSc_tvFMH8k6sbk2u4w4truMOI",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400977/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E7%94%B7%E7%96%91%E6%8E%9F%E7%85%99%E9%A0%AD%E9%81%87%E6%88%AA%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF%E9%80%83-%E9%A3%9F%E7%92%B0%E5%96%9D%E6%AD%A2-%E5%94%94%E5%A5%BD%E8%B5%B0%E4%BC%81%E5%96%BA%E5%BA%A6",
+    "timestamp": "2026-10-18T09:54:46.935Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "01觀點｜一場怪避孕套、怪雪卵、怪封建的政商生育怪談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027278924243013632384750.jpeg/oYHwEZTA92SABl3FHZIEvAPb8ojX5r8FJgEEuCYBBLg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60400867/imf%E9%A0%90%E8%A8%88%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C%E5%B0%87%E5%86%8D%E5%8A%A0%E6%81%AF%E4%B8%80%E6%AC%A1-%E5%BE%8C%E7%BA%8C%E8%B7%AF%E5%BE%91%E9%9C%80%E4%BF%9D%E6%8C%81%E9%9D%88%E6%B4%BB",
     "timestamp": "2026-10-18T01:55:00.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港島人福音│乘B13去新皇崗口岸需2小時　城巴與網民教路縮短車程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187998782680207360237086.png/ZROQ5DLtUQsbi_EEGb6TtbXAMEj7Onraspgh5bKYIeU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400607/%E6%B8%AF%E5%B3%B6%E4%BA%BA%E7%A6%8F%E9%9F%B3-%E4%B9%98b13%E5%8E%BB%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%9C%802%E5%B0%8F%E6%99%82-%E5%9F%8E%E5%B7%B4%E8%88%87%E7%B6%B2%E6%B0%91%E6%95%99%E8%B7%AF%E7%B8%AE%E7%9F%AD%E8%BB%8A%E7%A8%8B",
-    "timestamp": "2026-10-18T01:31:34.933Z",
     "strategy": ".content-card__main"
   }
 ];
