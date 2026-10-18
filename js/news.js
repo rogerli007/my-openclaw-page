@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T11:16:50.353Z
+// Last updated: 2026-10-18T11:28:56.186Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山頂步行徑設燈光裝置惹議　旅發局稱重視居民意見續溝通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104011855547863040932067.jpeg/atqfZVesjGl-9Ni5ylSFiE-lzkGul9yBjORPZozkT2Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401015/%E5%B1%B1%E9%A0%82%E6%AD%A5%E8%A1%8C%E5%BE%91%E8%A8%AD%E7%87%88%E5%85%89%E8%A3%9D%E7%BD%AE%E6%83%B9%E8%AD%B0-%E6%97%85%E7%99%BC%E5%B1%80%E7%A8%B1%E9%87%8D%E8%A6%96%E5%B1%85%E6%B0%91%E6%84%8F%E8%A6%8B%E7%BA%8C%E6%BA%9D%E9%80%9A",
+    "timestamp": "2026-10-18T11:28:56.186Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "披荊斬棘｜余文樂情緒崩潰掩面痛哭　網民力撐真情流露更具感染力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186851685662724096047189.jpeg/47_iNdfKMuWMidgdfMvIq1-0_Tj2-mnvYrkes2K5HrM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400883/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E6%9A%AB%E5%81%9C%E5%B0%8D%E4%BF%84%E5%85%A8%E9%9D%A2%E5%88%B6%E8%A3%81-%E8%A8%AD60%E5%A4%A9%E7%B7%A9%E8%A1%9D%E6%9C%9F%E5%88%86%E6%9E%90%E5%B0%8D%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F%E5%BD%B1%E9%9F%BF",
     "timestamp": "2026-10-18T03:47:54.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國堪薩斯州足球賽遭汽車闖入　2死多傷包括孩童　司機扣留調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188439314355195904217465.jpeg/5f-tK4jJbD3UGtAV_EYWy1Ka3_1dB5UWZrRG2Wa0Rtk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400879/%E7%BE%8E%E5%9C%8B%E5%A0%AA%E8%96%A9%E6%96%AF%E5%B7%9E%E8%B6%B3%E7%90%83%E8%B3%BD%E9%81%AD%E6%B1%BD%E8%BB%8A%E9%97%96%E5%85%A5-2%E6%AD%BB%E5%A4%9A%E5%82%B7%E5%8C%85%E6%8B%AC%E5%AD%A9%E7%AB%A5-%E5%8F%B8%E6%A9%9F%E6%89%A3%E7%95%99%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-10-18T02:59:14.524Z",
     "strategy": ".content-card__main"
   }
 ];
