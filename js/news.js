@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T15:54:05.819Z
+// Last updated: 2026-10-18T16:19:51.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "委內瑞拉代總統公布石油協定　料未來五年獲近6千億投資",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188609073742876672183690.jpeg/yAhpRURSux6vj-I8DXUdOABTSceKUGPq-u07ZfrtO2U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401056/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E4%BB%A3%E7%B8%BD%E7%B5%B1%E5%85%AC%E5%B8%83%E7%9F%B3%E6%B2%B9%E5%8D%94%E5%AE%9A-%E6%96%99%E6%9C%AA%E4%BE%86%E4%BA%94%E5%B9%B4%E7%8D%B2%E8%BF%916%E5%8D%83%E5%84%84%E6%8A%95%E8%B3%87",
+    "timestamp": "2026-10-18T16:19:51.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星｜張家輝蒙嘉慧相隔26年合作　罕談與鄭伊健夫妻相處之道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188523293821374464193682.jpeg/GocZX5E_3wBfC78ngYLvzQUNiFbyipZfrZk-OK2ZPjg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400947/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E6%B7%AA%E6%9A%B4%E5%8A%9B-%E9%9B%B6%E5%85%83%E8%B3%BC-herm%C3%A8s-%E8%98%8B%E6%9E%9C%E5%85%A8%E9%81%AD%E6%90%B6-%E7%89%B9%E5%8B%A4%E9%83%A8%E9%9A%8A%E6%80%A5%E5%87%BA%E5%8B%95",
     "timestamp": "2026-10-18T08:45:54.976Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佐敦廣東道51歲男住戶家中暈倒　友人揭發送院搶救後不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260810/1163361473012043776604275.jpeg/h6AjQYleSXBqlcQ7kW-1jqCmm4xXtZdQaKvV-UKr1fk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400961/%E4%BD%90%E6%95%A6%E5%BB%A3%E6%9D%B1%E9%81%9351%E6%AD%B2%E7%94%B7%E4%BD%8F%E6%88%B6%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E5%8F%8B%E4%BA%BA%E6%8F%AD%E7%99%BC%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-18T08:23:10.971Z",
     "strategy": ".content-card__main"
   }
 ];
