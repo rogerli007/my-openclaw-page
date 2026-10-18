@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T13:41:08.305Z
+// Last updated: 2026-10-18T13:54:55.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城丨張智霖預告張曦雯有更大膽演出　四女神意識尺度鬥到盡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188550707981062144934250.jpeg/_XE_GBAx0Cy71EcE3SHdnHkG7eoee9WbFscwbRbHMG0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400920/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%BC%B5%E6%99%BA%E9%9C%96%E9%A0%90%E5%91%8A%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%9C%89%E6%9B%B4%E5%A4%A7%E8%86%BD%E6%BC%94%E5%87%BA-%E5%9B%9B%E5%A5%B3%E7%A5%9E%E6%84%8F%E8%AD%98%E5%B0%BA%E5%BA%A6%E9%AC%A5%E5%88%B0%E7%9B%A1",
+    "timestamp": "2026-10-18T13:54:55.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城丨張智霖預告張曦雯有更大膽演出　四女神意識尺度鬥到盡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188460128949506048708142.jpeg/bWYSlRl-dDj2sJ9h9EznKfiWXXlvOmf_HEc_gRxHP4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400894/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%89%BE%E4%BC%AF%E5%A1%94%E8%BB%8D%E4%BA%8B%E5%9F%BA%E5%9C%B0%E7%99%BC%E7%94%9F%E7%81%AB%E7%81%BD-%E5%9C%8B%E9%98%B2%E9%83%A8%E9%95%B7%E6%8C%87%E6%9C%89%E5%82%B7%E4%BA%A1%E6%83%9F%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E4%B8%8D%E6%98%8E",
     "timestamp": "2026-10-18T04:46:55.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜馬列斯卡率曼城7連勝　超越哥迪奧拿創新帥開季最佳紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188451946344747008409128.jpeg/KEGacdeA6i4dPLC8km9CjA4l9qsF3V6mjLjAs4y4wLM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400871/%E8%8B%B1%E8%B6%85-%E9%A6%AC%E5%88%97%E6%96%AF%E5%8D%A1%E7%8E%87%E6%9B%BC%E5%9F%8E7%E9%80%A3%E5%8B%9D-%E8%B6%85%E8%B6%8A%E5%93%A5%E8%BF%AA%E5%A5%A7%E6%8B%BF%E5%89%B5%E6%96%B0%E5%B8%A5%E9%96%8B%E5%AD%A3%E6%9C%80%E4%BD%B3%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-10-18T04:21:35.521Z",
     "strategy": ".content-card__main"
   }
 ];
