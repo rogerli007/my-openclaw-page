@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T03:47:54.686Z
+// Last updated: 2026-10-18T04:00:12.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國多地示威騷亂　利摩日143年歷史市政廳遭縱火燒毀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188455900789084160816357.jpeg/H2OjRspC5GKBayghBE24wzA_7-PoqmniePhE9nj4RPY",
+    "url": "https://www.hk01.com/01TV/60400891/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E7%A4%BA%E5%A8%81%E9%A8%B7%E4%BA%82-%E5%88%A9%E6%91%A9%E6%97%A5143%E5%B9%B4%E6%AD%B7%E5%8F%B2%E5%B8%82%E6%94%BF%E5%BB%B3%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80",
+    "timestamp": "2026-10-18T04:00:12.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧：暫停對俄全面制裁　設60天緩衝期分析對全球經濟影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188327001258201088587329.jpeg/JZA_KVjxiQ6-5ItH2VJIbM5bRKPwq3813S7pY90u6WM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400849/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AB%E5%81%9C%E5%B0%8D%E4%BF%84%E5%88%B6%E8%A3%81%E5%A6%82%E7%8D%8E%E5%8B%B5%E6%99%AE%E4%BA%AC-%E5%86%80g20%E5%B3%B0%E6%9C%83%E8%88%87%E7%BE%8E%E4%BF%84%E6%9C%83%E9%9D%A2",
     "timestamp": "2026-10-17T19:40:36.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀保時捷衝紅燈　途人停步讓路　網民：以為係Roadster飛過去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188326463951081472327954.jpeg/zQvX9JBh_kl7JLLKuf0ZuPlXeu9z0Ic5LQyuvS0Mrr0",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400848/%E5%B0%96%E6%B2%99%E5%92%80%E4%BF%9D%E6%99%82%E6%8D%B7%E8%A1%9D%E7%B4%85%E7%87%88-%E9%80%94%E4%BA%BA%E5%81%9C%E6%AD%A5%E8%AE%93%E8%B7%AF-%E7%B6%B2%E6%B0%91-%E4%BB%A5%E7%82%BA%E4%BF%82roadster%E9%A3%9B%E9%81%8E%E5%8E%BB",
-    "timestamp": "2026-10-17T19:25:18.718Z",
     "strategy": ".content-card__main"
   }
 ];
