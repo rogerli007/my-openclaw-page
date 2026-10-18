@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T04:00:12.731Z
+// Last updated: 2026-10-18T04:21:35.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜馬列斯卡率曼城7連勝　超越哥迪奧拿創新帥開季最佳紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188451946344747008409128.jpeg/KEGacdeA6i4dPLC8km9CjA4l9qsF3V6mjLjAs4y4wLM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400871/%E8%8B%B1%E8%B6%85-%E9%A6%AC%E5%88%97%E6%96%AF%E5%8D%A1%E7%8E%87%E6%9B%BC%E5%9F%8E7%E9%80%A3%E5%8B%9D-%E8%B6%85%E8%B6%8A%E5%93%A5%E8%BF%AA%E5%A5%A7%E6%8B%BF%E5%89%B5%E6%96%B0%E5%B8%A5%E9%96%8B%E5%AD%A3%E6%9C%80%E4%BD%B3%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-10-18T04:21:35.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國多地示威騷亂　利摩日143年歷史市政廳遭縱火燒毀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188327001258201088587329.jpeg/JZA_KVjxiQ6-5ItH2VJIbM5bRKPwq3813S7pY90u6WM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400849/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AB%E5%81%9C%E5%B0%8D%E4%BF%84%E5%88%B6%E8%A3%81%E5%A6%82%E7%8D%8E%E5%8B%B5%E6%99%AE%E4%BA%AC-%E5%86%80g20%E5%B3%B0%E6%9C%83%E8%88%87%E7%BE%8E%E4%BF%84%E6%9C%83%E9%9D%A2",
     "timestamp": "2026-10-17T20:21:27.588Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：特朗普叫停對俄制裁如獎勵普京　冀G20峰會與美俄會面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188327001258201088587329.jpeg/JZA_KVjxiQ6-5ItH2VJIbM5bRKPwq3813S7pY90u6WM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400849/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AB%E5%81%9C%E5%B0%8D%E4%BF%84%E5%88%B6%E8%A3%81%E5%A6%82%E7%8D%8E%E5%8B%B5%E6%99%AE%E4%BA%AC-%E5%86%80g20%E5%B3%B0%E6%9C%83%E8%88%87%E7%BE%8E%E4%BF%84%E6%9C%83%E9%9D%A2",
-    "timestamp": "2026-10-17T19:40:36.867Z",
     "strategy": ".content-card__main"
   }
 ];
