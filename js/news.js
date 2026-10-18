@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T12:48:53.734Z
+// Last updated: 2026-10-18T13:41:08.305Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城丨張智霖預告張曦雯有更大膽演出　四女神意識尺度鬥到盡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188550707981062144934250.jpeg/_XE_GBAx0Cy71EcE3SHdnHkG7eoee9WbFscwbRbHMG0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400920/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%BC%B5%E6%99%BA%E9%9C%96%E9%A0%90%E5%91%8A%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%9C%89%E6%9B%B4%E5%A4%A7%E8%86%BD%E6%BC%94%E5%87%BA-%E5%9B%9B%E5%A5%B3%E7%A5%9E%E6%84%8F%E8%AD%98%E5%B0%BA%E5%BA%A6%E9%AC%A5%E5%88%B0%E7%9B%A1",
+    "timestamp": "2026-10-18T13:41:08.305Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅志祥講廣東話變鬧人「黐線㗎」　劉穎鏇大聲搶答遭糾正掩面狂笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188451946344747008409128.jpeg/KEGacdeA6i4dPLC8km9CjA4l9qsF3V6mjLjAs4y4wLM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400871/%E8%8B%B1%E8%B6%85-%E9%A6%AC%E5%88%97%E6%96%AF%E5%8D%A1%E7%8E%87%E6%9B%BC%E5%9F%8E7%E9%80%A3%E5%8B%9D-%E8%B6%85%E8%B6%8A%E5%93%A5%E8%BF%AA%E5%A5%A7%E6%8B%BF%E5%89%B5%E6%96%B0%E5%B8%A5%E9%96%8B%E5%AD%A3%E6%9C%80%E4%BD%B3%E7%B4%80%E9%8C%84",
     "timestamp": "2026-10-18T04:21:35.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國多地示威騷亂　利摩日143年歷史市政廳遭縱火燒毀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188455900789084160816357.jpeg/H2OjRspC5GKBayghBE24wzA_7-PoqmniePhE9nj4RPY",
-    "url": "https://www.hk01.com/01TV/60400891/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E7%A4%BA%E5%A8%81%E9%A8%B7%E4%BA%82-%E5%88%A9%E6%91%A9%E6%97%A5143%E5%B9%B4%E6%AD%B7%E5%8F%B2%E5%B8%82%E6%94%BF%E5%BB%B3%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80",
-    "timestamp": "2026-10-18T04:00:12.731Z",
     "strategy": ".content-card__main"
   }
 ];
