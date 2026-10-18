@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T08:23:10.971Z
+// Last updated: 2026-10-18T08:45:54.976Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國示威淪暴力「零元購」　Hermès、蘋果全遭搶　特勤部隊急出動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188523293821374464193682.jpeg/GocZX5E_3wBfC78ngYLvzQUNiFbyipZfrZk-OK2ZPjg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400947/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E6%B7%AA%E6%9A%B4%E5%8A%9B-%E9%9B%B6%E5%85%83%E8%B3%BC-herm%C3%A8s-%E8%98%8B%E6%9E%9C%E5%85%A8%E9%81%AD%E6%90%B6-%E7%89%B9%E5%8B%A4%E9%83%A8%E9%9A%8A%E6%80%A5%E5%87%BA%E5%8B%95",
+    "timestamp": "2026-10-18T08:45:54.976Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佐敦廣東道51歲男住戶家中暈倒　友人揭發送院搶救後不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188162381381898240875209.png/NCBHh-TMk4o8IbeFFMuVE8tUaSE3wSn2IrPOXSKzzl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400710/%E9%87%8D%E9%99%BD%E7%AF%80%E8%A9%A9%E8%A9%9E-%E7%82%BA%E4%BD%95%E6%9D%9C%E7%89%A7%E6%84%9B%E4%BD%B3%E7%AF%80%E8%8F%8A%E8%8A%B1%E6%8F%92%E9%A0%AD-%E7%8E%8B%E7%B6%AD-%E6%AF%8F%E9%80%A2%E4%BD%B3%E7%AF%80%E5%80%8D%E6%80%9D%E8%A6%AA",
     "timestamp": "2026-10-17T23:27:09.261Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重陽節詩詞｜為何杜牧愛佳節菊花插頭？　王維「每逢佳節倍思親」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188162381381898240875209.png/NCBHh-TMk4o8IbeFFMuVE8tUaSE3wSn2IrPOXSKzzl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400710/%E9%87%8D%E9%99%BD%E7%AF%80%E8%A9%A9%E8%A9%9E-%E7%82%BA%E4%BD%95%E6%9D%9C%E7%89%A7%E6%84%9B%E4%BD%B3%E7%AF%80%E8%8F%8A%E8%8A%B1%E6%8F%92%E9%A0%AD-%E7%8E%8B%E7%B6%AD-%E6%AF%8F%E9%80%A2%E4%BD%B3%E7%AF%80%E5%80%8D%E6%80%9D%E8%A6%AA",
-    "timestamp": "2026-10-17T23:16:00.246Z",
     "strategy": ".content-card__main"
   }
 ];
