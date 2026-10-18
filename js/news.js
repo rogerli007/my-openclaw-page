@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T02:48:02.705Z
+// Last updated: 2026-10-18T02:59:14.524Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國堪薩斯州足球賽遭汽車闖入　2死多傷包括孩童　司機扣留調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188439314355195904217465.jpeg/5f-tK4jJbD3UGtAV_EYWy1Ka3_1dB5UWZrRG2Wa0Rtk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400879/%E7%BE%8E%E5%9C%8B%E5%A0%AA%E8%96%A9%E6%96%AF%E5%B7%9E%E8%B6%B3%E7%90%83%E8%B3%BD%E9%81%AD%E6%B1%BD%E8%BB%8A%E9%97%96%E5%85%A5-2%E6%AD%BB%E5%A4%9A%E5%82%B7%E5%8C%85%E6%8B%AC%E5%AD%A9%E7%AB%A5-%E5%8F%B8%E6%A9%9F%E6%89%A3%E7%95%99%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-10-18T02:59:14.524Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超強颱風「薔琵」持續逼近台灣　厄爾尼諾事件引爆颱風數量激增",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188310672576876544657904.jpeg/u0IvG0olblATDpwi82HHro6DZ7-Ua5V4RjnwpEY58KQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400846/%E8%8B%B1%E8%B6%85-%E7%B6%AD%E6%8B%89%E4%BD%9C%E5%AE%A21-0%E5%B0%8F%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E6%96%87%E6%A3%AE%E6%AF%94%E9%A0%AD%E6%A7%8C%E4%B8%80%E7%AE%AD%E5%AE%9A%E6%B1%9F%E5%B1%B1",
     "timestamp": "2026-10-17T18:54:12.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜維拉作客1:0小勝紐卡素　文森比頭槌一箭定江山",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188310672576876544657904.jpeg/u0IvG0olblATDpwi82HHro6DZ7-Ua5V4RjnwpEY58KQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400846/%E8%8B%B1%E8%B6%85-%E7%B6%AD%E6%8B%89%E4%BD%9C%E5%AE%A21-0%E5%B0%8F%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E6%96%87%E6%A3%AE%E6%AF%94%E9%A0%AD%E6%A7%8C%E4%B8%80%E7%AE%AD%E5%AE%9A%E6%B1%9F%E5%B1%B1",
-    "timestamp": "2026-10-17T18:44:23.748Z",
     "strategy": ".content-card__main"
   }
 ];
