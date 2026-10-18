@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T01:31:34.933Z
+// Last updated: 2026-10-18T01:55:00.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "IMF預計日本央行將再加息一次　後續路徑需保持靈活",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027278924243013632384750.jpeg/oYHwEZTA92SABl3FHZIEvAPb8ojX5r8FJgEEuCYBBLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60400867/imf%E9%A0%90%E8%A8%88%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C%E5%B0%87%E5%86%8D%E5%8A%A0%E6%81%AF%E4%B8%80%E6%AC%A1-%E5%BE%8C%E7%BA%8C%E8%B7%AF%E5%BE%91%E9%9C%80%E4%BF%9D%E6%8C%81%E9%9D%88%E6%B4%BB",
+    "timestamp": "2026-10-18T01:55:00.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港島人福音│乘B13去新皇崗口岸需2小時　城巴與網民教路縮短車程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188257890008305664658491.jpeg/jtI6vSy7o8zd9pnk1sQK-GFZsI_3svQS9sv_5fbL_-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400796/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%B8%AF%E8%B6%85%E8%81%AF-%E6%9D%B1%E9%90%B5%E6%89%93%E5%90%A1-%E7%8B%82%E6%83%B3%E6%9B%B2-%E6%AF%8F%E5%91%A8%E6%90%AD%E9%90%B5%E5%8E%BB%E7%9D%87%E6%B3%A2%E5%85%A8%E7%90%83%E7%9A%86%E9%80%9A%E7%94%A8",
     "timestamp": "2026-10-17T17:53:54.000Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "體壇札記｜港超聯「東鐵打吡」狂想曲　每周搭鐵去睇波全球皆適用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188257890008305664658491.jpeg/jtI6vSy7o8zd9pnk1sQK-GFZsI_3svQS9sv_5fbL_-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400796/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%B8%AF%E8%B6%85%E8%81%AF-%E6%9D%B1%E9%90%B5%E6%89%93%E5%90%A1-%E7%8B%82%E6%83%B3%E6%9B%B2-%E6%AF%8F%E5%91%A8%E6%90%AD%E9%90%B5%E5%8E%BB%E7%9D%87%E6%B3%A2%E5%85%A8%E7%90%83%E7%9A%86%E9%81%A9%E7%94%A8",
-    "timestamp": "2026-10-17T17:43:15.038Z",
     "strategy": ".content-card__main"
   }
 ];
