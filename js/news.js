@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T05:34:50.451Z
+// Last updated: 2026-10-18T05:45:55.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "花劍世界盃｜何承謙梁千雨肩負重任　率張家朗蔡俊彥爭入團體決賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188482868049874944396741.jpeg/b2Zmmw8VfQ57eMdxpgiyUB9XHIAXaGJvzTFg2c0xYNk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400919/%E8%8A%B1%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BD%95%E6%89%BF%E8%AC%99%E6%A2%81%E5%8D%83%E9%9B%A8%E8%82%A9%E8%B2%A0%E9%87%8D%E4%BB%BB-%E7%8E%87%E5%BC%B5%E5%AE%B6%E6%9C%97%E8%94%A1%E4%BF%8A%E5%BD%A5%E7%88%AD%E5%85%A5%E5%9C%98%E9%AB%94%E6%B1%BA%E8%B3%BD",
+    "timestamp": "2026-10-18T05:45:55.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑞士「藍色公事包」成富豪象徵　裝滿3kg朱古力　背後門檻極驚人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188333509199007744352718.jpeg/kITp2Al1RVb4jUQKVcf-x9QvgLGA86KlVRX_2FUV_9g",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400850/%E6%9F%B4%E7%81%A32%E7%AB%A5%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E6%85%A2%E9%A7%9B%E8%AE%8A%E6%80%A5%E7%85%9E-%E7%B6%B2%E6%B0%91%E6%96%A5-%E7%88%B6%E6%AF%8D%E5%8E%BB%E5%92%97%E9%82%8A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-17T20:53:40.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柴灣2童突衝出馬路　司機慢駛變急煞　網民斥︰父母去咗邊｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188333509199007744352718.jpeg/kITp2Al1RVb4jUQKVcf-x9QvgLGA86KlVRX_2FUV_9g",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400850/%E6%9F%B4%E7%81%A32%E7%AB%A5%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E6%85%A2%E9%A7%9B%E8%AE%8A%E6%80%A5%E7%85%9E-%E7%B6%B2%E6%B0%91%E6%96%A5-%E7%88%B6%E6%AF%8D%E5%8E%BB%E5%92%97%E9%82%8A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-17T20:46:42.623Z",
     "strategy": ".content-card__main"
   }
 ];
