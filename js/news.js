@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T09:36:11.463Z
+// Last updated: 2026-10-18T09:46:25.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "01觀點｜一場怪避孕套、怪雪卵、怪封建的政商生育怪談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187815620738027520710854.jpeg/0XfF-ujo5O1t5Dabf8QhMEYTB9OSCGNp0tFs1tLRbNY?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60399811/01%E8%A7%80%E9%BB%9E-%E4%B8%80%E5%A0%B4%E6%80%AA%E9%81%BF%E5%AD%95%E5%A5%97-%E6%80%AA%E9%9B%AA%E5%8D%B5-%E6%80%AA%E5%B0%81%E5%BB%BA%E7%9A%84%E6%94%BF%E5%95%86%E7%94%9F%E8%82%B2%E6%80%AA%E8%AB%87",
+    "timestamp": "2026-10-18T09:46:25.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SIERRA SEA第2C(2)期原價加推124伙　最平546萬　周三再賣152伙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187998782680207360237086.png/ZROQ5DLtUQsbi_EEGb6TtbXAMEj7Onraspgh5bKYIeU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400607/%E6%B8%AF%E5%B3%B6%E4%BA%BA%E7%A6%8F%E9%9F%B3-%E4%B9%98b13%E5%8E%BB%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%9C%802%E5%B0%8F%E6%99%82-%E5%9F%8E%E5%B7%B4%E8%88%87%E7%B6%B2%E6%B0%91%E6%95%99%E8%B7%AF%E7%B8%AE%E7%9F%AD%E8%BB%8A%E7%A8%8B",
     "timestamp": "2026-10-18T01:31:34.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不吸煙罹肺腺癌！30歲女咳嗽兩周確診晚期癌症　靠標靶藥成功控制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186298144099405824769425.jpeg/OhYNzbFPoRg-UfpBqzk_Y7Jeqh7-z6_2_Uc4uv1HOLo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397271/%E4%B8%8D%E5%90%B8%E7%85%99%E7%BD%B9%E8%82%BA%E8%85%BA%E7%99%8C-30%E6%AD%B2%E5%A5%B3%E5%92%B3%E5%97%BD%E5%85%A9%E5%91%A8%E7%A2%BA%E8%A8%BA%E6%99%9A%E6%9C%9F%E7%99%8C%E7%97%87-%E9%9D%A0%E6%A8%99%E9%9D%B6%E8%97%A5%E6%88%90%E5%8A%9F%E6%8E%A7%E5%88%B6",
-    "timestamp": "2026-10-17T23:56:31.116Z",
     "strategy": ".content-card__main"
   }
 ];
