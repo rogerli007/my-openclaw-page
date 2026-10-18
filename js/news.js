@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T05:45:55.781Z
+// Last updated: 2026-10-18T06:29:57.140Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "打風？薔琵穩坐超強颱風級別　天文台最新概率預報+港迎33度高溫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188496101351624704947610.jpeg/C_GRfgP1weEpF1nzTWv26Lif_a-b_IeisOI627DiOts?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399836/%E6%89%93%E9%A2%A8-%E8%96%94%E7%90%B5%E7%A9%A9%E5%9D%90%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E7%B4%9A%E5%88%A5-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%9C%80%E6%96%B0%E6%A6%82%E7%8E%87%E9%A0%90%E5%A0%B1-%E6%B8%AF%E8%BF%8E33%E5%BA%A6%E9%AB%98%E6%BA%AB",
+    "timestamp": "2026-10-18T06:29:57.140Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "花劍世界盃｜何承謙梁千雨肩負重任　率張家朗蔡俊彥爭入團體決賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188347361986875392183742.png/6GL7WpdkpzbgwSyOED6sJGo7KicUx63nkUA6KJFAOig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400852/%E5%8D%B0%E5%BA%A6%E5%8A%A0%E7%88%BE%E5%90%84%E7%AD%94%E4%BA%BA%E8%B8%A9%E4%BA%BA%E8%87%B3%E5%B0%9118%E6%AD%BB-%E7%96%91%E5%9B%A0%E7%AA%81%E7%84%B6%E6%9A%B4%E9%9B%A8%E5%B0%8E%E8%87%B4%E4%BA%BA%E7%BE%A4%E6%8E%A8%E6%92%9E-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-17T21:16:30.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柴灣2童突衝出馬路　司機慢駛變急煞　網民斥︰父母去咗邊｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188333509199007744352718.jpeg/kITp2Al1RVb4jUQKVcf-x9QvgLGA86KlVRX_2FUV_9g",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400850/%E6%9F%B4%E7%81%A32%E7%AB%A5%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E6%85%A2%E9%A7%9B%E8%AE%8A%E6%80%A5%E7%85%9E-%E7%B6%B2%E6%B0%91%E6%96%A5-%E7%88%B6%E6%AF%8D%E5%8E%BB%E5%92%97%E9%82%8A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-17T20:53:40.603Z",
     "strategy": ".content-card__main"
   }
 ];
