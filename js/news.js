@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T08:45:54.976Z
+// Last updated: 2026-10-18T09:20:09.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大艾伯塔省軍事基地誤擊天然氣設施爆炸　至少7死數十傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188533344095178752964302.png/JIcr2B-Ev3vHpTmUAcSyUXertXk3OTrGDA3hKwwN4Ss?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400971/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81%E8%BB%8D%E4%BA%8B%E5%9F%BA%E5%9C%B0%E8%AA%A4%E6%93%8A%E5%A4%A9%E7%84%B6%E6%B0%A3%E8%A8%AD%E6%96%BD%E7%88%86%E7%82%B8-%E8%87%B3%E5%B0%917%E6%AD%BB%E6%95%B8%E5%8D%81%E5%82%B7",
+    "timestamp": "2026-10-18T09:20:09.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國示威淪暴力「零元購」　Hermès、蘋果全遭搶　特勤部隊急出動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188387745135857664427368.jpeg/PJtVm5xwVw5nzAFc-_Okw05JWUQ3bDVAzVzW1M1c1tQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400860/%E7%BE%8E%E5%9C%8B%E8%88%89%E8%A1%8C%E8%B6%85%E9%81%8E3000%E5%A0%B4no-kings%E7%A4%BA%E5%A8%81-%E4%BF%83%E6%B0%91%E7%9C%BE%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8F%90%E5%89%8D%E6%8A%95%E7%A5%A8",
     "timestamp": "2026-10-17T23:40:38.403Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重陽節詩詞｜為何杜牧愛佳節菊花插頭？　王維「每逢佳節倍思親」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188162381381898240875209.png/NCBHh-TMk4o8IbeFFMuVE8tUaSE3wSn2IrPOXSKzzl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400710/%E9%87%8D%E9%99%BD%E7%AF%80%E8%A9%A9%E8%A9%9E-%E7%82%BA%E4%BD%95%E6%9D%9C%E7%89%A7%E6%84%9B%E4%BD%B3%E7%AF%80%E8%8F%8A%E8%8A%B1%E6%8F%92%E9%A0%AD-%E7%8E%8B%E7%B6%AD-%E6%AF%8F%E9%80%A2%E4%BD%B3%E7%AF%80%E5%80%8D%E6%80%9D%E8%A6%AA",
-    "timestamp": "2026-10-17T23:27:09.261Z",
     "strategy": ".content-card__main"
   }
 ];
