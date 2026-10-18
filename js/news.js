@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T22:41:22.462Z
+// Last updated: 2026-10-18T22:53:56.369Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國示威爆騷亂　馬克龍譴責極左翼聯同罪犯發動暴力　籲人民冷靜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188726527039115264325906.jpeg/ed7g6SGuQt9hvQXqm_YPraztad33Sc83MYyAijGMgIo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401080/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E7%88%86%E9%A8%B7%E4%BA%82-%E9%A6%AC%E5%85%8B%E9%BE%8D%E8%AD%B4%E8%B2%AC%E6%A5%B5%E5%B7%A6%E7%BF%BC%E8%81%AF%E5%90%8C%E7%BD%AA%E7%8A%AF%E7%99%BC%E5%8B%95%E6%9A%B4%E5%8A%9B-%E7%B1%B2%E4%BA%BA%E6%B0%91%E5%86%B7%E9%9D%9C",
+    "timestamp": "2026-10-18T22:53:56.369Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳毅將罕現身香港攜妻睇戲十指緊扣放閃　曾血管撕裂險死近況曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188540223076700160082637.jpeg/sOMzJQ5a7x84NraAXpTUW8P3kBpD2DI1PxWJfT8ViX0",
     "url": "https://www.hk01.com/01TV/60400983/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E5%85%A5%E8%A1%8C%E6%AF%94%E8%B3%BD-%E7%84%A1%E8%A1%AB%E8%91%97-%E6%AF%8D%E8%A6%AA%E5%80%9F%E4%B8%89%E5%80%8B%E6%9C%88%E5%AE%B6%E7%94%A8%E6%B7%BB%E7%BD%AE%E8%A5%BF%E8%A3%9D",
     "timestamp": "2026-10-18T17:16:31.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強與塔吉克總理會談　籲兩國更緊密協作維護共同利益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148564422407491584049587.jpeg/nl6I2rgydr19DjKEwNiBPyjVv3tFGX42CZWHzgmVh84?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401070/%E6%9D%8E%E5%BC%B7%E8%88%87%E5%A1%94%E5%90%89%E5%85%8B%E7%B8%BD%E7%90%86%E6%9C%83%E8%AB%87-%E7%B1%B2%E5%85%A9%E5%9C%8B%E6%9B%B4%E7%B7%8A%E5%AF%86%E5%8D%94%E4%BD%9C%E7%B6%AD%E8%AD%B7%E5%85%B1%E5%90%8C%E5%88%A9%E7%9B%8A",
-    "timestamp": "2026-10-18T16:55:53.266Z",
     "strategy": ".content-card__main"
   }
 ];
