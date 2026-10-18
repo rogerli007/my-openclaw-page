@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T10:18:10.340Z
+// Last updated: 2026-10-18T10:43:25.788Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國今年已累計4410宗麻疹確診病例　已接近去年一倍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250407/985734607901036544531794.jpeg/avhblhvafXFpG8hHZYa0xbPKmUoNKqKdtt5RUrbeUVI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60400984/%E7%BE%8E%E5%9C%8B%E4%BB%8A%E5%B9%B4%E5%B7%B2%E7%B4%AF%E8%A8%884410%E5%AE%97%E9%BA%BB%E7%96%B9%E7%A2%BA%E8%A8%BA%E7%97%85%E4%BE%8B-%E5%B7%B2%E6%8E%A5%E8%BF%91%E5%8E%BB%E5%B9%B4%E4%B8%80%E5%80%8D",
+    "timestamp": "2026-10-18T10:43:25.788Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "9歲男童染肺炎球菌後現併發症死亡　過往健康良好、潛伏期沒外遊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188429891280834560129056.jpeg/Rlb5h0_kan_sjJ1h4-Z2_Kl9Vu2mSUWwHoPmfh6D5n4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400870/%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E8%96%94%E7%90%B5-%E6%8C%81%E7%BA%8C%E9%80%BC%E8%BF%91%E5%8F%B0%E7%81%A3-%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E4%BA%8B%E4%BB%B6%E5%BC%95%E7%88%86%E9%A2%B1%E9%A2%A8%E6%95%B8%E9%87%8F%E6%BF%80%E5%A2%9E",
     "timestamp": "2026-10-18T02:48:02.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李家超重陽節悼英烈　籲珍惜守護得來不易的和平與安定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188432232902037504302176.jpeg/hSBwC_OUSOEHO7pZLpZoaLsEZT_ICAWfMrdugzK3boM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60400872/%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%87%8D%E9%99%BD%E7%AF%80%E6%82%BC%E8%8B%B1%E7%83%88-%E7%B1%B2%E7%8F%8D%E6%83%9C%E5%AE%88%E8%AD%B7%E5%BE%97%E4%BE%86%E4%B8%8D%E6%98%93%E7%9A%84%E5%92%8C%E5%B9%B3%E8%88%87%E5%AE%89%E5%AE%9A",
-    "timestamp": "2026-10-18T02:25:09.919Z",
     "strategy": ".content-card__main"
   }
 ];
