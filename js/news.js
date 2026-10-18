@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T16:55:53.266Z
+// Last updated: 2026-10-18T17:16:31.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "由零說起｜麥包入行比賽「無衫著」 母親借三個月家用添置西裝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188540223076700160082637.jpeg/sOMzJQ5a7x84NraAXpTUW8P3kBpD2DI1PxWJfT8ViX0",
+    "url": "https://www.hk01.com/01TV/60400983/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E5%85%A5%E8%A1%8C%E6%AF%94%E8%B3%BD-%E7%84%A1%E8%A1%AB%E8%91%97-%E6%AF%8D%E8%A6%AA%E5%80%9F%E4%B8%89%E5%80%8B%E6%9C%88%E5%AE%B6%E7%94%A8%E6%B7%BB%E7%BD%AE%E8%A5%BF%E8%A3%9D",
+    "timestamp": "2026-10-18T17:16:31.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強與塔吉克總理會談　籲兩國更緊密協作維護共同利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188537524272762880745961.jpeg/cQv8btVNd210uVHRPjSc_tvFMH8k6sbk2u4w4truMOI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400977/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E7%94%B7%E7%96%91%E6%8E%9F%E7%85%99%E9%A0%AD%E9%81%87%E6%88%AA%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF%E9%80%83-%E9%A3%9F%E7%92%B0%E5%96%9D%E6%AD%A2-%E5%94%94%E5%A5%BD%E8%B5%B0%E4%BC%81%E5%96%BA%E5%BA%A6",
     "timestamp": "2026-10-18T09:54:46.935Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "01觀點｜一場怪避孕套、怪雪卵、怪封建的政商生育怪談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187815620738027520710854.jpeg/0XfF-ujo5O1t5Dabf8QhMEYTB9OSCGNp0tFs1tLRbNY?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60399811/01%E8%A7%80%E9%BB%9E-%E4%B8%80%E5%A0%B4%E6%80%AA%E9%81%BF%E5%AD%95%E5%A5%97-%E6%80%AA%E9%9B%AA%E5%8D%B5-%E6%80%AA%E5%B0%81%E5%BB%BA%E7%9A%84%E6%94%BF%E5%95%86%E7%94%9F%E8%82%B2%E6%80%AA%E8%AB%87",
-    "timestamp": "2026-10-18T09:46:25.705Z",
     "strategy": ".content-card__main"
   }
 ];
