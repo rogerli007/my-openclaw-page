@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-17T23:56:31.116Z
+// Last updated: 2026-10-18T01:31:34.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港島人福音│乘B13去新皇崗口岸需2小時　城巴與網民教路縮短車程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187998782680207360237086.png/ZROQ5DLtUQsbi_EEGb6TtbXAMEj7Onraspgh5bKYIeU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400607/%E6%B8%AF%E5%B3%B6%E4%BA%BA%E7%A6%8F%E9%9F%B3-%E4%B9%98b13%E5%8E%BB%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%9C%802%E5%B0%8F%E6%99%82-%E5%9F%8E%E5%B7%B4%E8%88%87%E7%B6%B2%E6%B0%91%E6%95%99%E8%B7%AF%E7%B8%AE%E7%9F%AD%E8%BB%8A%E7%A8%8B",
+    "timestamp": "2026-10-18T01:31:34.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不吸煙罹肺腺癌！30歲女咳嗽兩周確診晚期癌症　靠標靶藥成功控制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188257890008305664658491.jpeg/jtI6vSy7o8zd9pnk1sQK-GFZsI_3svQS9sv_5fbL_-U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400796/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%B8%AF%E8%B6%85%E8%81%AF-%E6%9D%B1%E9%90%B5%E6%89%93%E5%90%A1-%E7%8B%82%E6%83%B3%E6%9B%B2-%E6%AF%8F%E5%91%A8%E6%90%AD%E9%90%B5%E5%8E%BB%E7%9D%87%E6%B3%A2%E5%85%A8%E7%90%83%E7%9A%86%E9%81%A9%E7%94%A8",
     "timestamp": "2026-10-17T17:43:15.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜夏蘭特梅開二度領曼城取七連勝　利物浦多打兩人反勝賓福特",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188294555288997888826530.jpeg/nVhGy6KJVclhTfcel3kiDCYESQ8G3w05l3DfpZdw36U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400844/%E8%8B%B1%E8%B6%85-%E5%A4%8F%E8%98%AD%E7%89%B9%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6%E9%A0%98%E6%9B%BC%E5%9F%8E%E5%8F%96%E4%B8%83%E9%80%A3%E5%8B%9D-%E5%88%A9%E7%89%A9%E6%B5%A6%E5%A4%9A%E6%89%93%E5%85%A9%E4%BA%BA%E5%8F%8D%E5%8B%9D%E8%B3%93%E7%A6%8F%E7%89%B9",
-    "timestamp": "2026-10-17T17:28:22.104Z",
     "strategy": ".content-card__main"
   }
 ];
