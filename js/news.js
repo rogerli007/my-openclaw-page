@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T04:46:55.377Z
+// Last updated: 2026-10-18T05:34:50.451Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑞士「藍色公事包」成富豪象徵　裝滿3kg朱古力　背後門檻極驚人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188465364221038592790146.jpeg/Sh-DMcq09TeOH9AHAVgfqwZRBZLfwVK9InsnOCJ7Jzg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60400887/%E7%91%9E%E5%A3%AB-%E8%97%8D%E8%89%B2%E5%85%AC%E4%BA%8B%E5%8C%85-%E6%88%90%E5%AF%8C%E8%B1%AA%E8%B1%A1%E5%BE%B5-%E8%A3%9D%E6%BB%BF3kg%E6%9C%B1%E5%8F%A4%E5%8A%9B-%E8%83%8C%E5%BE%8C%E9%96%80%E6%AA%BB%E6%A5%B5%E9%A9%9A%E4%BA%BA",
+    "timestamp": "2026-10-18T05:34:50.451Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大艾伯塔軍事基地發生火災　國防部長指有傷亡惟事故原因不明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188333509199007744352718.jpeg/kITp2Al1RVb4jUQKVcf-x9QvgLGA86KlVRX_2FUV_9g",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400850/%E6%9F%B4%E7%81%A32%E7%AB%A5%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E6%85%A2%E9%A7%9B%E8%AE%8A%E6%80%A5%E7%85%9E-%E7%B6%B2%E6%B0%91%E6%96%A5-%E7%88%B6%E6%AF%8D%E5%8E%BB%E5%92%97%E9%82%8A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-17T20:46:42.623Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柴灣2童突衝出馬路　司機慢駛變急煞　網民斥︰父母去咗邊｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188333509199007744352718.jpeg/kITp2Al1RVb4jUQKVcf-x9QvgLGA86KlVRX_2FUV_9g",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400850/%E6%9F%B4%E7%81%A32%E7%AB%A5%E7%AA%81%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E5%8F%B8%E6%A9%9F%E6%85%A2%E9%A7%9B%E8%AE%8A%E6%80%A5%E7%85%9E-%E7%B6%B2%E6%B0%91%E6%96%A5-%E7%88%B6%E6%AF%8D%E5%8E%BB%E5%92%97%E9%82%8A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-17T20:33:36.257Z",
     "strategy": ".content-card__main"
   }
 ];
