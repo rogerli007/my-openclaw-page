@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T16:47:04.556Z
+// Last updated: 2026-10-18T16:55:53.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強與塔吉克總理會談　籲兩國更緊密協作維護共同利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148564422407491584049587.jpeg/nl6I2rgydr19DjKEwNiBPyjVv3tFGX42CZWHzgmVh84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401070/%E6%9D%8E%E5%BC%B7%E8%88%87%E5%A1%94%E5%90%89%E5%85%8B%E7%B8%BD%E7%90%86%E6%9C%83%E8%AB%87-%E7%B1%B2%E5%85%A9%E5%9C%8B%E6%9B%B4%E7%B7%8A%E5%AF%86%E5%8D%94%E4%BD%9C%E7%B6%AD%E8%AD%B7%E5%85%B1%E5%90%8C%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-10-18T16:55:53.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強與塔吉克總理會談　籲兩國更緊密協作維護共同利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187815620738027520710854.jpeg/0XfF-ujo5O1t5Dabf8QhMEYTB9OSCGNp0tFs1tLRbNY?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60399811/01%E8%A7%80%E9%BB%9E-%E4%B8%80%E5%A0%B4%E6%80%AA%E9%81%BF%E5%AD%95%E5%A5%97-%E6%80%AA%E9%9B%AA%E5%8D%B5-%E6%80%AA%E5%B0%81%E5%BB%BA%E7%9A%84%E6%94%BF%E5%95%86%E7%94%9F%E8%82%B2%E6%80%AA%E8%AB%87",
     "timestamp": "2026-10-18T09:46:25.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SIERRA SEA第2C(2)期原價加推124伙　最平546萬　周三再賣152伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260930/1182014444960485376874309.jpeg/K0u-YUx13KiB080tPOgfMT5GvZi-GGwaC-Jrygvia8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60400979/sierra-sea%E7%AC%AC2c-2-%E6%9C%9F%E5%8E%9F%E5%83%B9%E5%8A%A0%E6%8E%A8124%E4%BC%99-%E6%9C%80%E5%B9%B3546%E8%90%AC-%E5%91%A8%E4%B8%89%E5%86%8D%E8%B3%A3152%E4%BC%99",
-    "timestamp": "2026-10-18T09:36:11.463Z",
     "strategy": ".content-card__main"
   }
 ];
