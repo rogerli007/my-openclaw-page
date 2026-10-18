@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T07:19:51.848Z
+// Last updated: 2026-10-18T07:34:54.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀保時捷衝紅燈　途人停步避險　據悉警方交通調查隊接手跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188326463951081472327954.jpeg/zQvX9JBh_kl7JLLKuf0ZuPlXeu9z0Ic5LQyuvS0Mrr0",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60400945/%E5%B0%96%E6%B2%99%E5%92%80%E4%BF%9D%E6%99%82%E6%8D%B7%E8%A1%9D%E7%B4%85%E7%87%88-%E9%80%94%E4%BA%BA%E5%81%9C%E6%AD%A5%E9%81%BF%E9%9A%AA-%E6%93%9A%E6%82%89%E8%AD%A6%E6%96%B9%E4%BA%A4%E9%80%9A%E8%AA%BF%E6%9F%A5%E9%9A%8A%E6%8E%A5%E6%89%8B%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-10-18T07:34:54.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "皇崗口岸｢沙甸魚式｣逼爆等足30分鐘　鄧炳強：視察運作出入境暢順",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188369310653878272791203.jpeg/wPAp5cu_YOMDdjdTwmK2gJjhz7LTUkWipk-GhpxPhoY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60400858/%E9%87%8D%E9%99%BD%E7%AF%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB31%E5%BA%A6-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E6%97%A5%E7%9A%86%E5%A4%A9%E6%99%B4",
     "timestamp": "2026-10-17T22:53:59.051Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重陽節天氣｜今早有一兩陣微雨　最高氣溫31度　未來兩三日皆天晴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188369310653878272791203.jpeg/wPAp5cu_YOMDdjdTwmK2gJjhz7LTUkWipk-GhpxPhoY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60400858/%E9%87%8D%E9%99%BD%E7%AF%80%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB31%E5%BA%A6-%E6%9C%AA%E4%BE%86%E5%85%A9%E4%B8%89%E6%97%A5%E7%9A%86%E5%A4%A9%E6%99%B4",
-    "timestamp": "2026-10-17T22:16:45.840Z",
     "strategy": ".content-card__main"
   }
 ];
