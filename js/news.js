@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T19:40:51.279Z
+// Last updated: 2026-10-18T19:54:17.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
+    "timestamp": "2026-10-18T19:54:17.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132369227978641408104578.jpeg/Og62at-ZzfSE3qspbVfeD1AjFMKvdY-ldw3smXcN7Jk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60401065/%E9%9F%93%E5%AA%92-%E4%B8%89%E6%98%9F%E5%B0%87%E6%8E%A1%E7%94%A8%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8A%80%E8%A1%93-%E7%82%BA%E8%8B%B1%E5%81%89%E9%81%94%E7%94%9F%E7%94%A2%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%85%A7%E5%AD%98%E6%99%B6%E7%89%87",
     "timestamp": "2026-10-18T14:54:01.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湯怡戴AI眼鏡秒變「超級家長」　 陳家樂大讚無人店零壓力體驗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188526615928246272783642.jpeg/3W5OmLSQ-N1b9r1iK9cfDW12MCDysypxu4I51ruCOdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400957/%E6%B9%AF%E6%80%A1%E6%88%B4ai%E7%9C%BC%E9%8F%A1%E7%A7%92%E8%AE%8A-%E8%B6%85%E7%B4%9A%E5%AE%B6%E9%95%B7-%E9%99%B3%E5%AE%B6%E6%A8%82%E5%A4%A7%E8%AE%9A%E7%84%A1%E4%BA%BA%E5%BA%97%E9%9B%B6%E5%A3%93%E5%8A%9B%E9%AB%94%E9%A9%97",
-    "timestamp": "2026-10-18T14:31:09.661Z",
     "strategy": ".content-card__main"
   }
 ];
