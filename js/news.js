@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T22:17:46.920Z
+// Last updated: 2026-10-18T22:30:29.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日天晴乾燥　日間炎熱約32度　新界再高一兩度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188731575953657856491687.jpeg/OF_CK7MH-_kJsoYps_BU1JEY5x51OPtQ1Rahv9UWob8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401077/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
+    "timestamp": "2026-10-18T22:30:29.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日天晴乾燥　日間炎熱約32度　新界再高一兩度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260630/1148564422407491584049587.jpeg/nl6I2rgydr19DjKEwNiBPyjVv3tFGX42CZWHzgmVh84?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401070/%E6%9D%8E%E5%BC%B7%E8%88%87%E5%A1%94%E5%90%89%E5%85%8B%E7%B8%BD%E7%90%86%E6%9C%83%E8%AB%87-%E7%B1%B2%E5%85%A9%E5%9C%8B%E6%9B%B4%E7%B7%8A%E5%AF%86%E5%8D%94%E4%BD%9C%E7%B6%AD%E8%AD%B7%E5%85%B1%E5%90%8C%E5%88%A9%E7%9B%8A",
     "timestamp": "2026-10-18T16:47:04.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "委內瑞拉代總統公布石油協定　料未來五年獲近6千億投資",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188609073742876672183690.jpeg/yAhpRURSux6vj-I8DXUdOABTSceKUGPq-u07ZfrtO2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401056/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E4%BB%A3%E7%B8%BD%E7%B5%B1%E5%85%AC%E5%B8%83%E7%9F%B3%E6%B2%B9%E5%8D%94%E5%AE%9A-%E6%96%99%E6%9C%AA%E4%BE%86%E4%BA%94%E5%B9%B4%E7%8D%B2%E8%BF%916%E5%8D%83%E5%84%84%E6%8A%95%E8%B3%87",
-    "timestamp": "2026-10-18T16:35:06.263Z",
     "strategy": ".content-card__main"
   }
 ];
