@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T02:25:09.919Z
+// Last updated: 2026-10-18T02:48:02.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超強颱風「薔琵」持續逼近台灣　厄爾尼諾事件引爆颱風數量激增",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188429891280834560129056.jpeg/Rlb5h0_kan_sjJ1h4-Z2_Kl9Vu2mSUWwHoPmfh6D5n4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60400870/%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E8%96%94%E7%90%B5-%E6%8C%81%E7%BA%8C%E9%80%BC%E8%BF%91%E5%8F%B0%E7%81%A3-%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E4%BA%8B%E4%BB%B6%E5%BC%95%E7%88%86%E9%A2%B1%E9%A2%A8%E6%95%B8%E9%87%8F%E6%BF%80%E5%A2%9E",
+    "timestamp": "2026-10-18T02:48:02.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李家超重陽節悼英烈　籲珍惜守護得來不易的和平與安定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188310672576876544657904.jpeg/u0IvG0olblATDpwi82HHro6DZ7-Ua5V4RjnwpEY58KQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400846/%E8%8B%B1%E8%B6%85-%E7%B6%AD%E6%8B%89%E4%BD%9C%E5%AE%A21-0%E5%B0%8F%E5%8B%9D%E7%B4%90%E5%8D%A1%E7%B4%A0-%E6%96%87%E6%A3%AE%E6%AF%94%E9%A0%AD%E6%A7%8C%E4%B8%80%E7%AE%AD%E5%AE%9A%E6%B1%9F%E5%B1%B1",
     "timestamp": "2026-10-17T18:44:23.748Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "體壇札記｜港超聯「東鐵打吡」狂想曲　每周搭鐵去睇波全球皆通用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188257890008305664658491.jpeg/jtI6vSy7o8zd9pnk1sQK-GFZsI_3svQS9sv_5fbL_-U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60400796/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%B8%AF%E8%B6%85%E8%81%AF-%E6%9D%B1%E9%90%B5%E6%89%93%E5%90%A1-%E7%8B%82%E6%83%B3%E6%9B%B2-%E6%AF%8F%E5%91%A8%E6%90%AD%E9%90%B5%E5%8E%BB%E7%9D%87%E6%B3%A2%E5%85%A8%E7%90%83%E7%9A%86%E9%80%9A%E7%94%A8",
-    "timestamp": "2026-10-17T18:20:52.162Z",
     "strategy": ".content-card__main"
   }
 ];
