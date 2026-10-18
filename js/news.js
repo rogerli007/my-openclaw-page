@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T23:40:48.785Z
+// Last updated: 2026-10-18T23:54:46.854Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門藍地交匯處私家車撞防撞欄翻側「反肚」　司機受傷爬出車廂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188751341929893888936251.jpeg/YjHA0BTAhXMm4zYNLbtHPqneOkVyKl1NfUrYaH1K2Gg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401082/%E5%B1%AF%E9%96%80%E8%97%8D%E5%9C%B0%E4%BA%A4%E5%8C%AF%E8%99%95%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E9%98%B2%E6%92%9E%E6%AC%84%E7%BF%BB%E5%81%B4-%E5%8F%8D%E8%82%9A-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E7%88%AC%E5%87%BA%E8%BB%8A%E5%BB%82",
+    "timestamp": "2026-10-18T23:54:46.854Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門藍地交匯處私家車撞防撞欄翻側「反肚」　司機受傷爬出車廂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188540223076700160082637.jpeg/sOMzJQ5a7x84NraAXpTUW8P3kBpD2DI1PxWJfT8ViX0",
     "url": "https://www.hk01.com/01TV/60400983/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E5%85%A5%E8%A1%8C%E6%AF%94%E8%B3%BD-%E7%84%A1%E8%A1%AB%E8%91%97-%E6%AF%8D%E8%A6%AA%E5%80%9F%E4%B8%89%E5%80%8B%E6%9C%88%E5%AE%B6%E7%94%A8%E6%B7%BB%E7%BD%AE%E8%A5%BF%E8%A3%9D",
     "timestamp": "2026-10-18T17:54:30.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "由零說起｜麥包入行比賽「無衫著」 母親借三個月家用添置西裝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188540223076700160082637.jpeg/sOMzJQ5a7x84NraAXpTUW8P3kBpD2DI1PxWJfT8ViX0",
-    "url": "https://www.hk01.com/01TV/60400983/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E5%85%A5%E8%A1%8C%E6%AF%94%E8%B3%BD-%E7%84%A1%E8%A1%AB%E8%91%97-%E6%AF%8D%E8%A6%AA%E5%80%9F%E4%B8%89%E5%80%8B%E6%9C%88%E5%AE%B6%E7%94%A8%E6%B7%BB%E7%BD%AE%E8%A5%BF%E8%A3%9D",
-    "timestamp": "2026-10-18T17:46:08.070Z",
     "strategy": ".content-card__main"
   }
 ];
