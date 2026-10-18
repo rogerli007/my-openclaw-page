@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T19:54:17.658Z
+// Last updated: 2026-10-18T20:18:49.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
+    "timestamp": "2026-10-18T20:18:49.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188625184433639424041735.jpeg/jtw6gGn2-WRwD-hfHvahmGXlFy3zruuvdV9dsnVfXbI",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401061/%E5%85%A8%E7%90%83%E8%8F%AF%E6%96%87%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%B0%8E%E7%8D%8E-%E9%A6%99%E6%B8%AF01-%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E8%BF%BD%E8%B9%A4%E8%AA%BF%E6%9F%A5-%E7%8D%B2%E7%A4%BE%E6%9C%83%E5%83%B9%E5%80%BC%E7%8D%8E",
     "timestamp": "2026-10-18T15:17:45.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓媒︰三星將採用台積電技術　為英偉達生產下一代內存晶片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132369227978641408104578.jpeg/Og62at-ZzfSE3qspbVfeD1AjFMKvdY-ldw3smXcN7Jk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60401065/%E9%9F%93%E5%AA%92-%E4%B8%89%E6%98%9F%E5%B0%87%E6%8E%A1%E7%94%A8%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8A%80%E8%A1%93-%E7%82%BA%E8%8B%B1%E5%81%89%E9%81%94%E7%94%9F%E7%94%A2%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%85%A7%E5%AD%98%E6%99%B6%E7%89%87",
-    "timestamp": "2026-10-18T14:54:01.242Z",
     "strategy": ".content-card__main"
   }
 ];
