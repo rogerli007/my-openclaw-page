@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T21:53:58.715Z
+// Last updated: 2026-10-19T22:19:21.406Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日天晴乾燥　日間炎熱約32度　明日料達33度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189093499295895552407251.jpeg/a8RqwZDXeoPN_K49Ng1vCCnkg3F50bCv2UVJRNlFSUQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401390/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%98%8E%E6%97%A5%E6%96%99%E9%81%9433%E5%BA%A6",
+    "timestamp": "2026-10-19T22:19:21.406Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜熱刺3：1擊敗高雲地利　本賽季聯賽首勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188882674115153920683519.png/sSaPilzGsea89HxD4yqkQM8YcnIv-PKS-9STufvUk7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401250/%E5%8F%B0%E5%A5%B3%E6%98%9F%E4%B8%81%E5%B0%8F%E8%8A%B9%E8%B3%A3%E5%81%87%E5%8C%85%E5%85%A5%E7%8D%84%E6%B2%89%E5%AF%82%E5%A4%9A%E5%B9%B4-%E7%BD%95%E6%9B%AC%E8%BF%91%E7%85%A7%E7%AB%9F%E5%8F%88%E9%87%8D%E6%93%8D%E8%88%8A%E6%A5%AD%E5%B8%B6%E8%B2%A8",
     "timestamp": "2026-10-19T14:20:52.359Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西營盤薄扶林道恆輝大廈起火冒煙　消防開喉灌救　約60人疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188969443510718464630417.jpeg/hPzM-doQQd-Do4F13DqvicLJvoz9VDOSk6EQd5OhEHc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401365/%E8%A5%BF%E7%87%9F%E7%9B%A4%E8%96%84%E6%89%B6%E6%9E%97%E9%81%93%E6%81%86%E8%BC%9D%E5%A4%A7%E5%BB%88%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E7%B4%8460%E4%BA%BA%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-10-19T13:51:41.684Z",
     "strategy": ".content-card__main"
   }
 ];
