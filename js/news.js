@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T15:54:57.884Z
+// Last updated: 2026-10-19T16:22:28.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜倪嘉雯被古天祥強姦再跳樓　高海寧全集最性感在這一秒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188996870823743488853172.jpeg/N1Y-kR8X_-I2kkUhmii2-xMjQ9MuF0Mj9y081PctPNQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401378/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%80%AA%E5%98%89%E9%9B%AF%E8%A2%AB%E5%8F%A4%E5%A4%A9%E7%A5%A5%E5%BC%B7%E5%A7%A6%E5%86%8D%E8%B7%B3%E6%A8%93-%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%85%A8%E9%9B%86%E6%9C%80%E6%80%A7%E6%84%9F%E5%9C%A8%E9%80%99%E4%B8%80%E7%A7%92",
+    "timestamp": "2026-10-19T16:22:28.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林峯斐濟度假寵妻無極限　男神化身「人肉遮陽板」Man爆護妻女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188850384496496640621408.png/TMezWyiKmMi5bUb-WfyBqaP64GCoFuVbw4od0cOKHdE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60401183/%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%AE%8A%E5%8B%95%E7%89%A9%E5%9C%92-%E7%94%B7%E5%AE%A2%E6%8B%96%E7%AF%8B%E8%B5%B0%E7%A7%81398%E9%9A%BB%E6%B4%BB%E9%AB%94%E5%8B%95%E7%89%A9-%E8%A5%BF%E4%B9%9D%E9%BE%8D%E7%AB%99%E6%B5%B7%E9%97%9C%E6%96%B7%E6%AD%A3",
     "timestamp": "2026-10-19T05:58:37.195Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜帝王後衛賓施蒙斯未開季已收咧　季前訓練阿基里斯腱撕裂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188824360765362176751043.jpeg/BIhA2MjnBOnNMHkg8Xi360HxrKl2BAr3dbmI33W5iN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60401162/nba-%E5%B8%9D%E7%8E%8B%E5%BE%8C%E8%A1%9B%E8%B3%93%E6%96%BD%E8%92%99%E6%96%AF%E6%9C%AA%E9%96%8B%E5%AD%A3%E5%B7%B2%E6%94%B6%E5%92%A7-%E5%AD%A3%E5%89%8D%E8%A8%93%E7%B7%B4%E9%98%BF%E5%9F%BA%E9%87%8C%E6%96%AF%E8%85%B1%E6%92%95%E8%A3%82",
-    "timestamp": "2026-10-19T05:21:00.374Z",
     "strategy": ".content-card__main"
   }
 ];
