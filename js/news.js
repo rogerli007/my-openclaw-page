@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T15:19:46.277Z
+// Last updated: 2026-10-19T15:44:54.536Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "700學生完成職場實習　蕭澤頤稱曾因調職想辭職　勉青年擴闊心態",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188924647224119296915624.jpeg/HaMLufeDfS3nTcc5J1WQlUW8NIF1XtkdsHaM7JV2jOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401319/700%E5%AD%B8%E7%94%9F%E5%AE%8C%E6%88%90%E8%81%B7%E5%A0%B4%E5%AF%A6%E7%BF%92-%E8%95%AD%E6%BE%A4%E9%A0%A4%E7%A8%B1%E6%9B%BE%E5%9B%A0%E8%AA%BF%E8%81%B7%E6%83%B3%E8%BE%AD%E8%81%B7-%E5%8B%89%E9%9D%92%E5%B9%B4%E6%93%B4%E9%97%8A%E5%BF%83%E6%85%8B",
+    "timestamp": "2026-10-19T15:44:54.536Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段偏軟　納指最新升逾1%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172963755496050688572194.jpeg/kpEw53Ii5uWG4L4YcSG3BYF3TyrGHFlZKmvtdgBr7XY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401165/%E8%A5%BF%E8%B2%A2%E7%A0%B4%E9%82%8A%E6%B4%B2%E8%80%81%E5%A9%A6%E8%A1%8C%E5%B1%B1%E9%A0%AD%E6%9A%88%E4%B9%8F%E5%8A%9B-%E7%9B%B4%E5%8D%87%E6%A9%9F%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-10-19T04:52:21.322Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜卡域克堅信曼聯能走出逆境　般奴低迷加左閘漏洞難言樂觀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188810048881561600945613.jpeg/Ng1vRAUO9HHsEhdhhvebUhaYYTwVt18ashfcX7IX3F8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401092/%E8%8B%B1%E8%B6%85-%E5%8D%A1%E5%9F%9F%E5%85%8B%E5%A0%85%E4%BF%A1%E6%9B%BC%E8%81%AF%E8%83%BD%E8%B5%B0%E5%87%BA%E9%80%86%E5%A2%83-%E8%88%AC%E5%A5%B4%E4%BD%8E%E8%BF%B7%E5%8A%A0%E5%B7%A6%E9%96%98%E6%BC%8F%E6%B4%9E%E9%9B%A3%E8%A8%80%E6%A8%82%E8%A7%80",
-    "timestamp": "2026-10-19T04:24:05.401Z",
     "strategy": ".content-card__main"
   }
 ];
