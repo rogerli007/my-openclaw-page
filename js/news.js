@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T07:50:10.425Z
+// Last updated: 2026-10-19T08:55:53.203Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜西貢海面漂浮神秘黑箱　拆開現大批紅雙囍香煙　海關正調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188891973432381440576920.jpeg/1rsb_XtmvTmj_snkcItB98ds2M36r3rYfIcwh3yHMIc",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401260/%E6%9C%89%E7%89%87-%E8%A5%BF%E8%B2%A2%E6%B5%B7%E9%9D%A2%E6%BC%82%E6%B5%AE%E7%A5%9E%E7%A7%98%E9%BB%91%E7%AE%B1-%E6%8B%86%E9%96%8B%E7%8F%BE%E5%A4%A7%E6%89%B9%E7%B4%85%E9%9B%99%E5%9B%8D%E9%A6%99%E7%85%99-%E6%B5%B7%E9%97%9C%E6%AD%A3%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-10-19T08:55:53.203Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國暴動逼近總統府300米　情報機關預測失準　12警苦撐對抗百人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188731575953657856491687.jpeg/OF_CK7MH-_kJsoYps_BU1JEY5x51OPtQ1Rahv9UWob8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401077/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
     "timestamp": "2026-10-18T22:30:29.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日天晴乾燥　日間炎熱約32度　新界再高一兩度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188731575953657856491687.jpeg/OF_CK7MH-_kJsoYps_BU1JEY5x51OPtQ1Rahv9UWob8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401077/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
-    "timestamp": "2026-10-18T22:17:46.920Z",
     "strategy": ".content-card__main"
   }
 ];
