@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T09:28:20.904Z
+// Last updated: 2026-10-19T09:52:39.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸前線控訴人手短缺　入境處：開通前已增聘　續靈活調派",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186220152471949312643210.jpeg/KBF7E_IevlKixxd4lYeKTTqovY8kGDHMjXhzyKh4c8g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401294/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%89%8D%E7%B7%9A%E6%8E%A7%E8%A8%B4%E4%BA%BA%E6%89%8B%E7%9F%AD%E7%BC%BA-%E5%85%A5%E5%A2%83%E8%99%95-%E9%96%8B%E9%80%9A%E5%89%8D%E5%B7%B2%E5%A2%9E%E8%81%98-%E7%BA%8C%E9%9D%88%E6%B4%BB%E8%AA%BF%E6%B4%BE",
+    "timestamp": "2026-10-19T09:52:39.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國66號公路翻紅！新墨西哥州旅館堅守60年代復古風貌成觀光賣點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188726527039115264325906.jpeg/ed7g6SGuQt9hvQXqm_YPraztad33Sc83MYyAijGMgIo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401080/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E7%88%86%E9%A8%B7%E4%BA%82-%E9%A6%AC%E5%85%8B%E9%BE%8D%E8%AD%B4%E8%B2%AC%E6%A5%B5%E5%B7%A6%E7%BF%BC%E8%81%AF%E5%90%8C%E7%BD%AA%E7%8A%AF%E7%99%BC%E5%8B%95%E6%9A%B4%E5%8A%9B-%E7%B1%B2%E4%BA%BA%E6%B0%91%E5%86%B7%E9%9D%9C",
     "timestamp": "2026-10-18T22:53:56.369Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳毅將罕現身香港攜妻睇戲十指緊扣放閃　曾血管撕裂險死近況曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188619087022919680854063.jpeg/G2aiMJoaYY8s9U4fGYCF_zh1xum9kVaVZYMLTmWDC04?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401022/65%E6%AD%B2%E5%90%B3%E6%AF%85%E5%B0%87%E6%94%9C%E5%A6%BB%E7%9D%87%E6%88%B2%E5%8D%81%E6%8C%87%E7%B7%8A%E6%89%A3%E6%94%BE%E9%96%83-%E6%9B%BE%E5%A4%A7%E5%8B%95%E8%84%88%E6%92%95%E8%A3%82-%E4%B8%89%E6%88%90%E6%A9%9F%E6%9C%83%E7%99%B1%E7%98%93",
-    "timestamp": "2026-10-18T22:41:22.462Z",
     "strategy": ".content-card__main"
   }
 ];
