@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T02:29:34.798Z
+// Last updated: 2026-10-19T02:52:40.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國80萬人示威失控多地陷火海　學者揭暴亂「愈燒愈烈」3大原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188268602759843840623197.jpeg/I9NBr09VcryaGXQn0SRXfCQ4ZoJsDGHF1MWuI9TFriM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401100/%E6%B3%95%E5%9C%8B80%E8%90%AC%E4%BA%BA%E7%A4%BA%E5%A8%81%E5%A4%B1%E6%8E%A7%E5%A4%9A%E5%9C%B0%E9%99%B7%E7%81%AB%E6%B5%B7-%E5%AD%B8%E8%80%85%E6%8F%AD%E6%9A%B4%E4%BA%82-%E6%84%88%E7%87%92%E6%84%88%E7%83%88-3%E5%A4%A7%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-10-19T02:52:40.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國暴徒洗劫動漫遊戲店　店主遭暴徒一腳踢倒｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
     "timestamp": "2026-10-18T19:27:16.838Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
-    "timestamp": "2026-10-18T19:15:58.992Z",
     "strategy": ".content-card__main"
   }
 ];
