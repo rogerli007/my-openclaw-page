@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T07:17:22.857Z
+// Last updated: 2026-10-19T07:50:10.425Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國暴動逼近總統府300米　情報機關預測失準　12警苦撐對抗百人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188863988901875712481652.jpeg/GAU6_S2HJ8qqSGVfLrh1o1RjJlDJrl65s0TcjLNE3Iw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60401202/%E6%B3%95%E5%9C%8B%E6%9A%B4%E5%8B%95%E9%80%BC%E8%BF%91%E7%B8%BD%E7%B5%B1%E5%BA%9C300%E7%B1%B3-%E6%83%85%E5%A0%B1%E6%A9%9F%E9%97%9C%E9%A0%90%E6%B8%AC%E5%A4%B1%E6%BA%96-12%E8%AD%A6%E8%8B%A6%E6%92%90%E5%B0%8D%E6%8A%97%E7%99%BE%E4%BA%BA",
+    "timestamp": "2026-10-19T07:50:10.425Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸｜入境處料今午至晚為入境高峰　籲先登記合作查驗通道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188731575953657856491687.jpeg/OF_CK7MH-_kJsoYps_BU1JEY5x51OPtQ1Rahv9UWob8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401077/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
     "timestamp": "2026-10-18T22:17:46.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛頭角大廈兩樓層手推車同起火　消防到場救熄　警列縱火案處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186737682743562240369804.jpeg/uVrxkEYs3_A8Nw7-Np6MmgmlUzRi83PjT24yc09uMnM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401079/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%A4%A7%E5%BB%88%E5%85%A9%E6%A8%93%E5%B1%A4%E6%89%8B%E6%8E%A8%E8%BB%8A%E5%90%8C%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E8%AD%A6%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%99%95%E7%90%86",
-    "timestamp": "2026-10-18T21:42:10.996Z",
     "strategy": ".content-card__main"
   }
 ];
