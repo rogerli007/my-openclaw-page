@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T00:49:05.086Z
+// Last updated: 2026-10-19T01:22:51.795Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【01秒看新聞】旺角美甲店3男女涉偷穿戴甲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188571829996883968456180.jpeg/_7DeFAoEjrpTUj6ZFRiaUBqy39HT21_Uarg1kWq4NZE",
+    "url": "https://www.hk01.com/01TV/60401040/01%E7%A7%92%E7%9C%8B%E6%96%B0%E8%81%9E-%E6%97%BA%E8%A7%92%E7%BE%8E%E7%94%B2%E5%BA%973%E7%94%B7%E5%A5%B3%E6%B6%89%E5%81%B7%E7%A9%BF%E6%88%B4%E7%94%B2",
+    "timestamp": "2026-10-19T01:22:51.795Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外賣員工傷｜Keeta車手回程時搶單遇意外變癱　揭新機制潛在盲點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188672761426350080237096.jpeg/1_EjL8VBCxyZXXo5T31FvLY8kl4Bd9_olX2Yc799mHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401074/%E8%AD%A6%E7%B4%85%E7%A3%A1%E6%88%AA%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%90%9C%E5%87%BA%E9%80%BE20%E5%8C%85%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-18T18:46:09.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警紅磡截可疑私家車　搜出逾20包可卡因　男司機涉販毒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188672761426350080237096.jpeg/1_EjL8VBCxyZXXo5T31FvLY8kl4Bd9_olX2Yc799mHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401074/%E8%AD%A6%E7%B4%85%E7%A3%A1%E6%88%AA%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%90%9C%E5%87%BA%E9%80%BE20%E5%8C%85%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-18T18:21:17.713Z",
     "strategy": ".content-card__main"
   }
 ];
