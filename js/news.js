@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T11:34:58.597Z
+// Last updated: 2026-10-19T12:29:46.784Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城劇情懶人包｜張智霖對抗姜大衞+高海寧張曦雯捲中毒案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185603044348268544407896.jpeg/RiDH4nRunanNuFNku5d7sEP01T5t8o9iS7fp00u36dM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398223/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%8A%87%E6%83%85%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%BC%B5%E6%99%BA%E9%9C%96%E5%B0%8D%E6%8A%97%E5%A7%9C%E5%A4%A7%E8%A1%9E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8D%B2%E4%B8%AD%E6%AF%92%E6%A1%88",
+    "timestamp": "2026-10-19T12:29:46.784Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "騙徒設假網店低價賣大閘蟹　誘先付款後收貨　警半月接500宗騙案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188578577143042048210365.jpeg/amR-X07nWySLfXBpg-s7GrQ0cdhwfARUpcfJV6XHyVc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399527/%E5%A4%96%E8%B3%A3%E5%93%A1%E5%B7%A5%E5%82%B7-keeta%E8%BB%8A%E6%89%8B%E5%9B%9E%E7%A8%8B%E6%99%82%E6%90%B6%E5%96%AE%E9%81%87%E6%84%8F%E5%A4%96%E8%AE%8A%E7%99%B1-%E6%8F%AD%E6%96%B0%E6%A9%9F%E5%88%B6%E6%BD%9B%E5%9C%A8%E7%9B%B2%E9%BB%9E",
     "timestamp": "2026-10-19T00:49:05.086Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門藍地交匯處私家車撞防撞欄翻側「反肚」　司機受傷爬出車廂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188751341929893888936251.jpeg/YjHA0BTAhXMm4zYNLbtHPqneOkVyKl1NfUrYaH1K2Gg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401082/%E5%B1%AF%E9%96%80%E8%97%8D%E5%9C%B0%E4%BA%A4%E5%8C%AF%E8%99%95%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E9%98%B2%E6%92%9E%E6%AC%84%E7%BF%BB%E5%81%B4-%E5%8F%8D%E8%82%9A-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E7%88%AC%E5%87%BA%E8%BB%8A%E5%BB%82",
-    "timestamp": "2026-10-18T23:54:46.854Z",
     "strategy": ".content-card__main"
   }
 ];
