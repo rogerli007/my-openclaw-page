@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T12:56:45.810Z
+// Last updated: 2026-10-19T13:25:48.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜踢爆中醫$100賣病假紙　免檢查直接簽：你想休息幾多日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188955824639184896981047.jpeg/oMc3zhGC5qgOfHzlkNheU-2WWA9Vfz5LOwNShjsDUoY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401359/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%B8%A2%E7%88%86%E4%B8%AD%E9%86%AB-100%E8%B3%A3%E7%97%85%E5%81%87%E7%B4%99-%E5%85%8D%E6%AA%A2%E6%9F%A5%E7%9B%B4%E6%8E%A5%E7%B0%BD-%E4%BD%A0%E6%83%B3%E4%BC%91%E6%81%AF%E5%B9%BE%E5%A4%9A%E6%97%A5",
+    "timestamp": "2026-10-19T13:25:48.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南京留學生俄課堂披旭日旗　知情人：校方口頭承諾開除及遣返",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188588365620973568317846.jpeg/2GGWaHh5Mh2l1D48KEhw6lc9vNq62WdmUff1GVH39Rk",
     "url": "https://www.hk01.com/01TV/60401049/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%A6%AE%E8%B7%AF%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E6%9F%B1%E6%BF%80%E5%99%B4%E5%85%A9%E5%B1%A4%E6%A8%93%E9%AB%98-%E5%85%A9%E5%B1%8B%E8%8B%91%E5%81%9C%E6%B2%96%E5%BB%81%E6%B0%B4",
     "timestamp": "2026-10-19T01:57:38.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【01秒看新聞】旺角美甲店3男女涉偷穿戴甲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188571829996883968456180.jpeg/_7DeFAoEjrpTUj6ZFRiaUBqy39HT21_Uarg1kWq4NZE",
-    "url": "https://www.hk01.com/01TV/60401040/01%E7%A7%92%E7%9C%8B%E6%96%B0%E8%81%9E-%E6%97%BA%E8%A7%92%E7%BE%8E%E7%94%B2%E5%BA%973%E7%94%B7%E5%A5%B3%E6%B6%89%E5%81%B7%E7%A9%BF%E6%88%B4%E7%94%B2",
-    "timestamp": "2026-10-19T01:22:51.795Z",
     "strategy": ".content-card__main"
   }
 ];
