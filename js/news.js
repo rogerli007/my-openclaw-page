@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T05:21:00.374Z
+// Last updated: 2026-10-19T05:58:37.195Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "行李箱變動物園　男客拖篋走私398隻活體動物　西九龍站海關斷正",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188850384496496640621408.png/TMezWyiKmMi5bUb-WfyBqaP64GCoFuVbw4od0cOKHdE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60401183/%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%AE%8A%E5%8B%95%E7%89%A9%E5%9C%92-%E7%94%B7%E5%AE%A2%E6%8B%96%E7%AF%8B%E8%B5%B0%E7%A7%81398%E9%9A%BB%E6%B4%BB%E9%AB%94%E5%8B%95%E7%89%A9-%E8%A5%BF%E4%B9%9D%E9%BE%8D%E7%AB%99%E6%B5%B7%E9%97%9C%E6%96%B7%E6%AD%A3",
+    "timestamp": "2026-10-19T05:58:37.195Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜帝王後衛賓施蒙斯未開季已收咧　季前訓練阿基里斯腱撕裂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186737682743562240369804.jpeg/uVrxkEYs3_A8Nw7-Np6MmgmlUzRi83PjT24yc09uMnM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401079/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%A4%A7%E5%BB%88%E5%85%A9%E6%A8%93%E5%B1%A4%E6%89%8B%E6%8E%A8%E8%BB%8A%E5%90%8C%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E8%AD%A6%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%99%95%E7%90%86",
     "timestamp": "2026-10-18T21:16:53.310Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "樂施會50周年辦貧富宴逾200人參與　藉體驗資源不均反思社會不公",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188185666551287808617592.jpeg/aokYypmC9BWu7GuQGrpigfU3C3AoJK5oeU6BSHlOgUg?v=w1920r16_9",
-    "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60400782/%E6%A8%82%E6%96%BD%E6%9C%8350%E5%91%A8%E5%B9%B4%E8%BE%A6%E8%B2%A7%E5%AF%8C%E5%AE%B4%E9%80%BE200%E4%BA%BA%E5%8F%83%E8%88%87-%E8%97%89%E9%AB%94%E9%A9%97%E8%B3%87%E6%BA%90%E4%B8%8D%E5%9D%87%E5%8F%8D%E6%80%9D%E7%A4%BE%E6%9C%83%E4%B8%8D%E5%85%AC",
-    "timestamp": "2026-10-18T20:45:01.890Z",
     "strategy": ".content-card__main"
   }
 ];
