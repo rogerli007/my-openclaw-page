@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T04:52:21.322Z
+// Last updated: 2026-10-19T05:21:00.374Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA｜帝王後衛賓施蒙斯未開季已收咧　季前訓練阿基里斯腱撕裂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188824360765362176751043.jpeg/BIhA2MjnBOnNMHkg8Xi360HxrKl2BAr3dbmI33W5iN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60401162/nba-%E5%B8%9D%E7%8E%8B%E5%BE%8C%E8%A1%9B%E8%B3%93%E6%96%BD%E8%92%99%E6%96%AF%E6%9C%AA%E9%96%8B%E5%AD%A3%E5%B7%B2%E6%94%B6%E5%92%A7-%E5%AD%A3%E5%89%8D%E8%A8%93%E7%B7%B4%E9%98%BF%E5%9F%BA%E9%87%8C%E6%96%AF%E8%85%B1%E6%92%95%E8%A3%82",
+    "timestamp": "2026-10-19T05:21:00.374Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢破邊洲老婦行山頭暈乏力　直升機救起送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188185666551287808617592.jpeg/aokYypmC9BWu7GuQGrpigfU3C3AoJK5oeU6BSHlOgUg?v=w1920r16_9",
     "url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60400782/%E6%A8%82%E6%96%BD%E6%9C%8350%E5%91%A8%E5%B9%B4%E8%BE%A6%E8%B2%A7%E5%AF%8C%E5%AE%B4%E9%80%BE200%E4%BA%BA%E5%8F%83%E8%88%87-%E8%97%89%E9%AB%94%E9%A9%97%E8%B3%87%E6%BA%90%E4%B8%8D%E5%9D%87%E5%8F%8D%E6%80%9D%E7%A4%BE%E6%9C%83%E4%B8%8D%E5%85%AC",
     "timestamp": "2026-10-18T20:45:01.890Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
-    "timestamp": "2026-10-18T20:18:49.709Z",
     "strategy": ".content-card__main"
   }
 ];
