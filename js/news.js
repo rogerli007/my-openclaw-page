@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T12:29:46.784Z
+// Last updated: 2026-10-19T12:56:45.810Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南京留學生俄課堂披旭日旗　知情人：校方口頭承諾開除及遣返",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188188325979099136059134.jpeg/cg53TnEYeUE5b0lfl7OLmNmUUuduop7lUwE811MBPNc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60401357/%E5%8D%97%E4%BA%AC%E7%95%99%E5%AD%B8%E7%94%9F%E4%BF%84%E8%AA%B2%E5%A0%82%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97-%E7%9F%A5%E6%83%85%E4%BA%BA-%E6%A0%A1%E6%96%B9%E5%8F%A3%E9%A0%AD%E6%89%BF%E8%AB%BE%E9%96%8B%E9%99%A4%E5%8F%8A%E9%81%A3%E8%BF%94",
+    "timestamp": "2026-10-19T12:56:45.810Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城劇情懶人包｜張智霖對抗姜大衞+高海寧張曦雯捲中毒案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188571829996883968456180.jpeg/_7DeFAoEjrpTUj6ZFRiaUBqy39HT21_Uarg1kWq4NZE",
     "url": "https://www.hk01.com/01TV/60401040/01%E7%A7%92%E7%9C%8B%E6%96%B0%E8%81%9E-%E6%97%BA%E8%A7%92%E7%BE%8E%E7%94%B2%E5%BA%973%E7%94%B7%E5%A5%B3%E6%B6%89%E5%81%B7%E7%A9%BF%E6%88%B4%E7%94%B2",
     "timestamp": "2026-10-19T01:22:51.795Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "外賣員工傷｜Keeta車手回程時搶單遇意外變癱　揭新機制潛在盲點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188578577143042048210365.jpeg/amR-X07nWySLfXBpg-s7GrQ0cdhwfARUpcfJV6XHyVc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399527/%E5%A4%96%E8%B3%A3%E5%93%A1%E5%B7%A5%E5%82%B7-keeta%E8%BB%8A%E6%89%8B%E5%9B%9E%E7%A8%8B%E6%99%82%E6%90%B6%E5%96%AE%E9%81%87%E6%84%8F%E5%A4%96%E8%AE%8A%E7%99%B1-%E6%8F%AD%E6%96%B0%E6%A9%9F%E5%88%B6%E6%BD%9B%E5%9C%A8%E7%9B%B2%E9%BB%9E",
-    "timestamp": "2026-10-19T00:49:05.086Z",
     "strategy": ".content-card__main"
   }
 ];
