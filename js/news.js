@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T17:32:17.099Z
+// Last updated: 2026-10-19T17:47:31.829Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強晤伊朗副總統　籲各方盡早重啟對話化解分歧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189019985712779264103289.jpeg/SuXQrbDllfHcBQMzfU5UvC5k0yw6cmPguEb7OrhG-zo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401391/%E6%9D%8E%E5%BC%B7%E6%99%A4%E4%BC%8A%E6%9C%97%E5%89%AF%E7%B8%BD%E7%B5%B1-%E7%B1%B2%E5%90%84%E6%96%B9%E7%9B%A1%E6%97%A9%E9%87%8D%E5%95%9F%E5%B0%8D%E8%A9%B1%E5%8C%96%E8%A7%A3%E5%88%86%E6%AD%A7",
+    "timestamp": "2026-10-19T17:47:31.829Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強晤伊朗副總統　籲各方盡早重啟對話化解分歧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188891973432381440576920.jpeg/1rsb_XtmvTmj_snkcItB98ds2M36r3rYfIcwh3yHMIc",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401260/%E6%9C%89%E7%89%87-%E8%A5%BF%E8%B2%A2%E6%B5%B7%E9%9D%A2%E6%BC%82%E6%B5%AE%E7%A5%9E%E7%A7%98%E9%BB%91%E7%AE%B1-%E6%8B%86%E9%96%8B%E7%8F%BE%E5%A4%A7%E6%89%B9%E7%B4%85%E9%9B%99%E5%9B%8D%E9%A6%99%E7%85%99-%E6%B5%B7%E9%97%9C%E6%AD%A3%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-10-19T08:55:53.203Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國暴動逼近總統府300米　情報機關預測失準　12警苦撐對抗百人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188863988901875712481652.jpeg/GAU6_S2HJ8qqSGVfLrh1o1RjJlDJrl65s0TcjLNE3Iw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60401202/%E6%B3%95%E5%9C%8B%E6%9A%B4%E5%8B%95%E9%80%BC%E8%BF%91%E7%B8%BD%E7%B5%B1%E5%BA%9C300%E7%B1%B3-%E6%83%85%E5%A0%B1%E6%A9%9F%E9%97%9C%E9%A0%90%E6%B8%AC%E5%A4%B1%E6%BA%96-12%E8%AD%A6%E8%8B%A6%E6%92%90%E5%B0%8D%E6%8A%97%E7%99%BE%E4%BA%BA",
-    "timestamp": "2026-10-19T07:50:10.425Z",
     "strategy": ".content-card__main"
   }
 ];
