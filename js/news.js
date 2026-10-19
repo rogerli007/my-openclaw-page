@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T22:19:21.406Z
+// Last updated: 2026-10-19T22:32:50.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡塞武裝襲也門政府軍訓練中心　至少53死逾200傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189085643364372480972450.jpeg/7Frk_fHkWtmqvxzFFUQAW9Nbx9lA1GrCE_08fhP9PH4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401402/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83-%E8%87%B3%E5%B0%9153%E6%AD%BB%E9%80%BE200%E5%82%B7",
+    "timestamp": "2026-10-19T22:32:50.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日天晴乾燥　日間炎熱約32度　明日料達33度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188967721291747328329584.jpeg/0zOYZpu8MSil1GRP5ojltAX9pJ36oACOk8xropPMa6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401366/%E4%BA%9E%E6%AE%98%E9%81%8B%E6%9C%83%E9%A6%96%E5%80%8B%E6%AF%94%E8%B3%BD%E6%97%A5-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E6%B8%B8%E6%B3%B3%E5%8F%8A%E5%8A%8D%E6%93%8A%E9%A0%85%E7%9B%AE%E5%A5%AA%E4%B8%80%E9%8A%80%E5%85%A9%E9%8A%85",
     "timestamp": "2026-10-19T14:46:20.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台女星丁小芹賣假包入獄沉寂多年　罕曬近照竟又重操舊業帶貨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188882674115153920683519.png/sSaPilzGsea89HxD4yqkQM8YcnIv-PKS-9STufvUk7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401250/%E5%8F%B0%E5%A5%B3%E6%98%9F%E4%B8%81%E5%B0%8F%E8%8A%B9%E8%B3%A3%E5%81%87%E5%8C%85%E5%85%A5%E7%8D%84%E6%B2%89%E5%AF%82%E5%A4%9A%E5%B9%B4-%E7%BD%95%E6%9B%AC%E8%BF%91%E7%85%A7%E7%AB%9F%E5%8F%88%E9%87%8D%E6%93%8D%E8%88%8A%E6%A5%AD%E5%B8%B6%E8%B2%A8",
-    "timestamp": "2026-10-19T14:20:52.359Z",
     "strategy": ".content-card__main"
   }
 ];
