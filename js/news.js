@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T05:58:37.195Z
+// Last updated: 2026-10-19T06:41:22.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo先達炒價直擊！19/10 第一口叫價狂賺$5000｜每日更新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188860459969679360650913.jpeg/VU8bojfMEFJUYjGKkl4mWJFDf_FZ9i-2J7R_jSe0f40?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-18-pro-max%E5%85%88%E9%81%94%E7%82%92%E5%83%B9%E7%9B%B4%E6%93%8A-15-10%E5%A4%A7%E7%B4%85256%E7%BA%8C%E5%8D%87-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
+    "timestamp": "2026-10-19T06:41:22.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行李箱變動物園　男客拖篋走私398隻活體動物　西九龍站海關斷正",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186737682743562240369804.jpeg/uVrxkEYs3_A8Nw7-Np6MmgmlUzRi83PjT24yc09uMnM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401079/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%A4%A7%E5%BB%88%E5%85%A9%E6%A8%93%E5%B1%A4%E6%89%8B%E6%8E%A8%E8%BB%8A%E5%90%8C%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E8%AD%A6%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%99%95%E7%90%86",
     "timestamp": "2026-10-18T21:29:18.967Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛頭角大廈兩樓層手推車同起火　消防到場救熄　警列縱火案處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186737682743562240369804.jpeg/uVrxkEYs3_A8Nw7-Np6MmgmlUzRi83PjT24yc09uMnM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401079/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%A4%A7%E5%BB%88%E5%85%A9%E6%A8%93%E5%B1%A4%E6%89%8B%E6%8E%A8%E8%BB%8A%E5%90%8C%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E8%AD%A6%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%99%95%E7%90%86",
-    "timestamp": "2026-10-18T21:16:53.310Z",
     "strategy": ".content-card__main"
   }
 ];
