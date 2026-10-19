@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T20:55:19.187Z
+// Last updated: 2026-10-19T21:33:08.657Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜熱刺3：1擊敗高雲地利　本賽季聯賽首勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189070490921078784817953.jpeg/c7yX-k4Xx0-k6dIzrPnVet7K1Wu5_V-hoP9DoKD_Q6A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401399/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA3-1%E6%93%8A%E6%95%97%E9%AB%98%E9%9B%B2%E5%9C%B0%E5%88%A9-%E6%9C%AC%E8%B3%BD%E5%AD%A3%E8%81%AF%E8%B3%BD%E9%A6%96%E5%8B%9D",
+    "timestamp": "2026-10-19T21:33:08.657Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄外長拉夫羅夫訪德黑蘭　分別晤伊朗總統及外長商地區局勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188188325979099136059134.jpeg/cg53TnEYeUE5b0lfl7OLmNmUUuduop7lUwE811MBPNc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60401357/%E5%8D%97%E4%BA%AC%E7%95%99%E5%AD%B8%E7%94%9F%E4%BF%84%E8%AA%B2%E5%A0%82%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97-%E7%9F%A5%E6%83%85%E4%BA%BA-%E6%A0%A1%E6%96%B9%E5%8F%A3%E9%A0%AD%E6%89%BF%E8%AB%BE%E9%96%8B%E9%99%A4%E5%8F%8A%E9%81%A3%E8%BF%94",
     "timestamp": "2026-10-19T12:56:45.810Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城劇情懶人包｜張智霖對抗姜大衞+高海寧張曦雯捲中毒案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185603044348268544407896.jpeg/RiDH4nRunanNuFNku5d7sEP01T5t8o9iS7fp00u36dM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398223/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%8A%87%E6%83%85%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%BC%B5%E6%99%BA%E9%9C%96%E5%B0%8D%E6%8A%97%E5%A7%9C%E5%A4%A7%E8%A1%9E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8D%B2%E4%B8%AD%E6%AF%92%E6%A1%88",
-    "timestamp": "2026-10-19T12:29:46.784Z",
     "strategy": ".content-card__main"
   }
 ];
