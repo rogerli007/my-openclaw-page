@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T09:52:39.687Z
+// Last updated: 2026-10-19T10:46:17.015Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本推「機械秋田犬」防熊引熱議　造型太萌被網民譏：一掌就拍飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188867445641711616687259.png/QfkirauE0bgzGF7xLtrFuclRp-unQ0Nz0UcsztFHLM4",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401201/%E6%97%A5%E6%9C%AC%E6%8E%A8-%E6%A9%9F%E6%A2%B0%E7%A7%8B%E7%94%B0%E7%8A%AC-%E9%98%B2%E7%86%8A%E5%BC%95%E7%86%B1%E8%AD%B0-%E9%80%A0%E5%9E%8B%E5%A4%AA%E8%90%8C%E8%A2%AB%E7%B6%B2%E6%B0%91%E8%AD%8F-%E4%B8%80%E6%8E%8C%E5%B0%B1%E6%8B%8D%E9%A3%9B",
+    "timestamp": "2026-10-19T10:46:17.015Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸前線控訴人手短缺　入境處：開通前已增聘　續靈活調派",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188199627661250560156829.png/5sVzak-ae683j3Qin9vBkhmP5_h24I8TrS5-Ga0ufhk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399639/%E5%B1%A5%E6%AD%B7%E5%8F%AA%E5%8D%B0%E4%B8%80%E5%8D%8A-%E4%B8%8B%E5%8D%8A%E9%A0%81%E5%AF%AB-%E5%83%B1%E6%88%91%E8%A7%A3%E9%8E%96%E5%85%A8%E9%83%A8%E6%BD%9B%E8%83%BD-%E7%88%86%E7%B4%85%E6%A2%97%E5%9C%96%E5%86%8D%E7%98%8B%E5%82%B3",
     "timestamp": "2026-10-18T23:16:48.261Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國示威爆騷亂　馬克龍譴責極左翼聯同罪犯發動暴力　籲人民冷靜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188726527039115264325906.jpeg/ed7g6SGuQt9hvQXqm_YPraztad33Sc83MYyAijGMgIo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401080/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E7%88%86%E9%A8%B7%E4%BA%82-%E9%A6%AC%E5%85%8B%E9%BE%8D%E8%AD%B4%E8%B2%AC%E6%A5%B5%E5%B7%A6%E7%BF%BC%E8%81%AF%E5%90%8C%E7%BD%AA%E7%8A%AF%E7%99%BC%E5%8B%95%E6%9A%B4%E5%8A%9B-%E7%B1%B2%E4%BA%BA%E6%B0%91%E5%86%B7%E9%9D%9C",
-    "timestamp": "2026-10-18T22:53:56.369Z",
     "strategy": ".content-card__main"
   }
 ];
