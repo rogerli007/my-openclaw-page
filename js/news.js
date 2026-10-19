@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T17:54:51.224Z
+// Last updated: 2026-10-19T18:50:56.365Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "由零說起｜麥包當眾被羞辱：演得再好，在導演眼裡你算什麼？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188542124249845760826170.jpeg/UCJRRA-trD8hiiZk-EWqWE7Ht8eREWVgW04evVtOHr0",
+    "url": "https://www.hk01.com/01TV/60400994/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E7%95%B6%E7%9C%BE%E8%A2%AB%E7%BE%9E%E8%BE%B1-%E6%BC%94%E5%BE%97%E5%86%8D%E5%A5%BD-%E5%9C%A8%E5%B0%8E%E6%BC%94%E7%9C%BC%E8%A3%A1%E4%BD%A0%E7%AE%97%E4%BB%80%E9%BA%BC",
+    "timestamp": "2026-10-19T18:50:56.365Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強晤伊朗副總統　籲各方盡早重啟對話化解分歧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186220152471949312643210.jpeg/KBF7E_IevlKixxd4lYeKTTqovY8kGDHMjXhzyKh4c8g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401294/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%89%8D%E7%B7%9A%E6%8E%A7%E8%A8%B4%E4%BA%BA%E6%89%8B%E7%9F%AD%E7%BC%BA-%E5%85%A5%E5%A2%83%E8%99%95-%E9%96%8B%E9%80%9A%E5%89%8D%E5%B7%B2%E5%A2%9E%E8%81%98-%E7%BA%8C%E9%9D%88%E6%B4%BB%E8%AA%BF%E6%B4%BE",
     "timestamp": "2026-10-19T09:52:39.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國66號公路翻紅！新墨西哥州旅館堅守60年代復古風貌成觀光賣點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188898910991552512462879.png/pqkXv3dTmz3NQ1rQY416wboR5ht8ChpFDiY-FQ4mPhU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60401258/%E7%BE%8E%E5%9C%8B66%E8%99%9F%E5%85%AC%E8%B7%AF%E7%BF%BB%E7%B4%85-%E6%96%B0%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B7%9E%E6%97%85%E9%A4%A8%E5%A0%85%E5%AE%8860%E5%B9%B4%E4%BB%A3%E5%BE%A9%E5%8F%A4%E9%A2%A8%E8%B2%8C%E6%88%90%E8%A7%80%E5%85%89%E8%B3%A3%E9%BB%9E",
-    "timestamp": "2026-10-19T09:28:20.904Z",
     "strategy": ".content-card__main"
   }
 ];
