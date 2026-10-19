@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T18:50:56.365Z
+// Last updated: 2026-10-19T19:16:15.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國示威演變騷亂　華使領館籲中國公民：遠離遊行示威區域",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188363768061890560539214.jpeg/3U4CsiskfQts7Rm2GcKZTPo6p2YYMB8oj4LAZo-CwGY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401396/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E6%BC%94%E8%AE%8A%E9%A8%B7%E4%BA%82-%E8%8F%AF%E4%BD%BF%E9%A0%98%E9%A4%A8%E7%B1%B2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91-%E9%81%A0%E9%9B%A2%E9%81%8A%E8%A1%8C%E7%A4%BA%E5%A8%81%E5%8D%80%E5%9F%9F",
+    "timestamp": "2026-10-19T19:16:15.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "由零說起｜麥包當眾被羞辱：演得再好，在導演眼裡你算什麼？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188867445641711616687259.png/QfkirauE0bgzGF7xLtrFuclRp-unQ0Nz0UcsztFHLM4",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401201/%E6%97%A5%E6%9C%AC%E6%8E%A8-%E6%A9%9F%E6%A2%B0%E7%A7%8B%E7%94%B0%E7%8A%AC-%E9%98%B2%E7%86%8A%E5%BC%95%E7%86%B1%E8%AD%B0-%E9%80%A0%E5%9E%8B%E5%A4%AA%E8%90%8C%E8%A2%AB%E7%B6%B2%E6%B0%91%E8%AD%8F-%E4%B8%80%E6%8E%8C%E5%B0%B1%E6%8B%8D%E9%A3%9B",
     "timestamp": "2026-10-19T10:46:17.015Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸前線控訴人手短缺　入境處：開通前已增聘　續靈活調派",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186220152471949312643210.jpeg/KBF7E_IevlKixxd4lYeKTTqovY8kGDHMjXhzyKh4c8g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401294/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%89%8D%E7%B7%9A%E6%8E%A7%E8%A8%B4%E4%BA%BA%E6%89%8B%E7%9F%AD%E7%BC%BA-%E5%85%A5%E5%A2%83%E8%99%95-%E9%96%8B%E9%80%9A%E5%89%8D%E5%B7%B2%E5%A2%9E%E8%81%98-%E7%BA%8C%E9%9D%88%E6%B4%BB%E8%AA%BF%E6%B4%BE",
-    "timestamp": "2026-10-19T09:52:39.687Z",
     "strategy": ".content-card__main"
   }
 ];
