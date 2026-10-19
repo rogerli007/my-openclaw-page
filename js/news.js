@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T20:45:29.973Z
+// Last updated: 2026-10-19T20:55:19.187Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄外長拉夫羅夫訪德黑蘭　分別晤伊朗總統及外長商地區局勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189060792159309824256037.jpeg/xhppDTPKPTuhhfn18OsbOr2gkfQp-qEo1uwgPtbsID4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401398/%E4%BF%84%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD-%E5%88%86%E5%88%A5%E6%99%A4%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%A4%96%E9%95%B7%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
+    "timestamp": "2026-10-19T20:55:19.187Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄外長拉夫羅夫訪德黑蘭　分別晤伊朗總統及外長商地區局勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185603044348268544407896.jpeg/RiDH4nRunanNuFNku5d7sEP01T5t8o9iS7fp00u36dM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398223/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%8A%87%E6%83%85%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%BC%B5%E6%99%BA%E9%9C%96%E5%B0%8D%E6%8A%97%E5%A7%9C%E5%A4%A7%E8%A1%9E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8D%B2%E4%B8%AD%E6%AF%92%E6%A1%88",
     "timestamp": "2026-10-19T12:29:46.784Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "騙徒設假網店低價賣大閘蟹　誘先付款後收貨　警半月接500宗騙案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188929587749326848175038.jpeg/UNIb0C1pGE8apAhO3Bk7qerP8Hgt_1I6GQthkxkLYZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401340/%E9%A8%99%E5%BE%92%E8%A8%AD%E5%81%87%E7%B6%B2%E5%BA%97%E4%BD%8E%E5%83%B9%E8%B3%A3%E5%A4%A7%E9%96%98%E8%9F%B9-%E8%AA%98%E5%85%88%E4%BB%98%E6%AC%BE%E5%BE%8C%E6%94%B6%E8%B2%A8-%E8%AD%A6%E5%8D%8A%E6%9C%88%E6%8E%A5500%E5%AE%97%E9%A8%99%E6%A1%88",
-    "timestamp": "2026-10-19T11:34:58.597Z",
     "strategy": ".content-card__main"
   }
 ];
