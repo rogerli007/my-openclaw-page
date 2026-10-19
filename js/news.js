@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T03:52:13.632Z
+// Last updated: 2026-10-19T04:24:05.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜卡域克堅信曼聯能走出逆境　般奴低迷加左閘漏洞難言樂觀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188810048881561600945613.jpeg/Ng1vRAUO9HHsEhdhhvebUhaYYTwVt18ashfcX7IX3F8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401092/%E8%8B%B1%E8%B6%85-%E5%8D%A1%E5%9F%9F%E5%85%8B%E5%A0%85%E4%BF%A1%E6%9B%BC%E8%81%AF%E8%83%BD%E8%B5%B0%E5%87%BA%E9%80%86%E5%A2%83-%E8%88%AC%E5%A5%B4%E4%BD%8E%E8%BF%B7%E5%8A%A0%E5%B7%A6%E9%96%98%E6%BC%8F%E6%B4%9E%E9%9B%A3%E8%A8%80%E6%A8%82%E8%A7%80",
+    "timestamp": "2026-10-19T04:24:05.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜勇士球星居里訓練賽滑倒傷出引擔憂 卡爾稱僅為腳踝輕微扭傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
     "timestamp": "2026-10-18T19:54:17.658Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
-    "timestamp": "2026-10-18T19:40:51.279Z",
     "strategy": ".content-card__main"
   }
 ];
