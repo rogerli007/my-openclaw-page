@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T14:20:52.359Z
+// Last updated: 2026-10-19T14:46:20.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "亞殘運會首個比賽日　香港運動員游泳及劍擊項目奪一銀兩銅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188967721291747328329584.jpeg/0zOYZpu8MSil1GRP5ojltAX9pJ36oACOk8xropPMa6I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401366/%E4%BA%9E%E6%AE%98%E9%81%8B%E6%9C%83%E9%A6%96%E5%80%8B%E6%AF%94%E8%B3%BD%E6%97%A5-%E9%A6%99%E6%B8%AF%E9%81%8B%E5%8B%95%E5%93%A1%E6%B8%B8%E6%B3%B3%E5%8F%8A%E5%8A%8D%E6%93%8A%E9%A0%85%E7%9B%AE%E5%A5%AA%E4%B8%80%E9%8A%80%E5%85%A9%E9%8A%85",
+    "timestamp": "2026-10-19T14:46:20.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台女星丁小芹賣假包入獄沉寂多年　罕曬近照竟又重操舊業帶貨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188797277930524672201476.jpeg/ZUg1uzXzQ3-DUfsDnXeIbWgyfWNPwkbcB8GSmgfBkpo?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60401113/nba-%E5%8B%87%E5%A3%AB%E7%90%83%E6%98%9F%E5%B1%85%E9%87%8C%E8%A8%93%E7%B7%B4%E8%B3%BD%E6%BB%91%E5%80%92%E5%82%B7%E5%87%BA%E5%BC%95%E6%93%94%E6%86%82-%E5%8D%A1%E7%88%BE%E7%A8%B1%E5%83%85%E7%82%BA%E8%85%B3%E8%B8%9D%E8%BC%95%E5%BE%AE%E6%89%AD%E5%82%B7",
     "timestamp": "2026-10-19T03:52:13.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國80萬人示威失控多地陷火海　學者揭暴亂「愈燒愈烈」3大原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188268602759843840623197.jpeg/I9NBr09VcryaGXQn0SRXfCQ4ZoJsDGHF1MWuI9TFriM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401100/%E6%B3%95%E5%9C%8B80%E8%90%AC%E4%BA%BA%E7%A4%BA%E5%A8%81%E5%A4%B1%E6%8E%A7%E5%A4%9A%E5%9C%B0%E9%99%B7%E7%81%AB%E6%B5%B7-%E5%AD%B8%E8%80%85%E6%8F%AD%E6%9A%B4%E4%BA%82-%E6%84%88%E7%87%92%E6%84%88%E7%83%88-3%E5%A4%A7%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-10-19T02:52:40.237Z",
     "strategy": ".content-card__main"
   }
 ];
