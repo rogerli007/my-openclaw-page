@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T08:55:53.203Z
+// Last updated: 2026-10-19T09:28:20.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國66號公路翻紅！新墨西哥州旅館堅守60年代復古風貌成觀光賣點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188898910991552512462879.png/pqkXv3dTmz3NQ1rQY416wboR5ht8ChpFDiY-FQ4mPhU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60401258/%E7%BE%8E%E5%9C%8B66%E8%99%9F%E5%85%AC%E8%B7%AF%E7%BF%BB%E7%B4%85-%E6%96%B0%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B7%9E%E6%97%85%E9%A4%A8%E5%A0%85%E5%AE%8860%E5%B9%B4%E4%BB%A3%E5%BE%A9%E5%8F%A4%E9%A2%A8%E8%B2%8C%E6%88%90%E8%A7%80%E5%85%89%E8%B3%A3%E9%BB%9E",
+    "timestamp": "2026-10-19T09:28:20.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜西貢海面漂浮神秘黑箱　拆開現大批紅雙囍香煙　海關正調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188619087022919680854063.jpeg/G2aiMJoaYY8s9U4fGYCF_zh1xum9kVaVZYMLTmWDC04?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401022/65%E6%AD%B2%E5%90%B3%E6%AF%85%E5%B0%87%E6%94%9C%E5%A6%BB%E7%9D%87%E6%88%B2%E5%8D%81%E6%8C%87%E7%B7%8A%E6%89%A3%E6%94%BE%E9%96%83-%E6%9B%BE%E5%A4%A7%E5%8B%95%E8%84%88%E6%92%95%E8%A3%82-%E4%B8%89%E6%88%90%E6%A9%9F%E6%9C%83%E7%99%B1%E7%98%93",
     "timestamp": "2026-10-18T22:41:22.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日天晴乾燥　日間炎熱約32度　新界再高一兩度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188731575953657856491687.jpeg/OF_CK7MH-_kJsoYps_BU1JEY5x51OPtQ1Rahv9UWob8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401077/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%96%B0%E7%95%8C%E5%86%8D%E9%AB%98%E4%B8%80%E5%85%A9%E5%BA%A6",
-    "timestamp": "2026-10-18T22:30:29.981Z",
     "strategy": ".content-card__main"
   }
 ];
