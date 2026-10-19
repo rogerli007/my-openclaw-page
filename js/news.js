@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T15:44:54.536Z
+// Last updated: 2026-10-19T15:54:57.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林峯斐濟度假寵妻無極限　男神化身「人肉遮陽板」Man爆護妻女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188901849424465920985217.jpeg/8AfsNIbp0i5N9zWdeScZwgI-t3faIcsOW5RZ_FuUWfw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401247/%E6%9E%97%E5%B3%AF%E6%96%90%E6%BF%9F%E5%BA%A6%E5%81%87%E5%AF%B5%E5%A6%BB%E7%84%A1%E6%A5%B5%E9%99%90-%E7%94%B7%E7%A5%9E%E5%8C%96%E8%BA%AB-%E4%BA%BA%E8%82%89%E9%81%AE%E9%99%BD%E6%9D%BF-man%E7%88%86%E8%AD%B7%E5%A6%BB%E5%A5%B3",
+    "timestamp": "2026-10-19T15:54:57.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "700學生完成職場實習　蕭澤頤稱曾因調職想辭職　勉青年擴闊心態",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188824360765362176751043.jpeg/BIhA2MjnBOnNMHkg8Xi360HxrKl2BAr3dbmI33W5iN8?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60401162/nba-%E5%B8%9D%E7%8E%8B%E5%BE%8C%E8%A1%9B%E8%B3%93%E6%96%BD%E8%92%99%E6%96%AF%E6%9C%AA%E9%96%8B%E5%AD%A3%E5%B7%B2%E6%94%B6%E5%92%A7-%E5%AD%A3%E5%89%8D%E8%A8%93%E7%B7%B4%E9%98%BF%E5%9F%BA%E9%87%8C%E6%96%AF%E8%85%B1%E6%92%95%E8%A3%82",
     "timestamp": "2026-10-19T05:21:00.374Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西貢破邊洲老婦行山頭暈乏力　直升機救起送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172963755496050688572194.jpeg/kpEw53Ii5uWG4L4YcSG3BYF3TyrGHFlZKmvtdgBr7XY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401165/%E8%A5%BF%E8%B2%A2%E7%A0%B4%E9%82%8A%E6%B4%B2%E8%80%81%E5%A9%A6%E8%A1%8C%E5%B1%B1%E9%A0%AD%E6%9A%88%E4%B9%8F%E5%8A%9B-%E7%9B%B4%E5%8D%87%E6%A9%9F%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-19T04:52:21.322Z",
     "strategy": ".content-card__main"
   }
 ];
