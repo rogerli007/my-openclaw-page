@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T06:41:22.415Z
+// Last updated: 2026-10-19T07:17:22.857Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸｜入境處料今午至晚為入境高峰　籲先登記合作查驗通道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188870307503411200217094.jpeg/ZXBtc4iihY9LJfAc6Hmscc5IHeljPXTyWReahFkXmoQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401220/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E5%85%A5%E5%A2%83%E8%99%95%E6%96%99%E4%BB%8A%E5%8D%88%E8%87%B3%E6%99%9A%E7%82%BA%E5%85%A5%E5%A2%83%E9%AB%98%E5%B3%B0-%E7%B1%B2%E5%85%88%E7%99%BB%E8%A8%98%E5%90%88%E4%BD%9C%E6%9F%A5%E9%A9%97%E9%80%9A%E9%81%93",
+    "timestamp": "2026-10-19T07:17:22.857Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo先達炒價直擊！19/10 第一口叫價狂賺$5000｜每日更新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186737682743562240369804.jpeg/uVrxkEYs3_A8Nw7-Np6MmgmlUzRi83PjT24yc09uMnM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401079/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%A4%A7%E5%BB%88%E5%85%A9%E6%A8%93%E5%B1%A4%E6%89%8B%E6%8E%A8%E8%BB%8A%E5%90%8C%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E8%AD%A6%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%99%95%E7%90%86",
     "timestamp": "2026-10-18T21:42:10.996Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "牛頭角大廈兩樓層手推車同起火　消防到場救熄　警列縱火案處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186737682743562240369804.jpeg/uVrxkEYs3_A8Nw7-Np6MmgmlUzRi83PjT24yc09uMnM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401079/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%A4%A7%E5%BB%88%E5%85%A9%E6%A8%93%E5%B1%A4%E6%89%8B%E6%8E%A8%E8%BB%8A%E5%90%8C%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84-%E8%AD%A6%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%99%95%E7%90%86",
-    "timestamp": "2026-10-18T21:29:18.967Z",
     "strategy": ".content-card__main"
   }
 ];
