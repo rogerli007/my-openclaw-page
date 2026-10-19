@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T02:52:40.237Z
+// Last updated: 2026-10-19T03:52:13.632Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA｜勇士球星居里訓練賽滑倒傷出引擔憂 卡爾稱僅為腳踝輕微扭傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188797277930524672201476.jpeg/ZUg1uzXzQ3-DUfsDnXeIbWgyfWNPwkbcB8GSmgfBkpo?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60401113/nba-%E5%8B%87%E5%A3%AB%E7%90%83%E6%98%9F%E5%B1%85%E9%87%8C%E8%A8%93%E7%B7%B4%E8%B3%BD%E6%BB%91%E5%80%92%E5%82%B7%E5%87%BA%E5%BC%95%E6%93%94%E6%86%82-%E5%8D%A1%E7%88%BE%E7%A8%B1%E5%83%85%E7%82%BA%E8%85%B3%E8%B8%9D%E8%BC%95%E5%BE%AE%E6%89%AD%E5%82%B7",
+    "timestamp": "2026-10-19T03:52:13.632Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國80萬人示威失控多地陷火海　學者揭暴亂「愈燒愈烈」3大原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
     "timestamp": "2026-10-18T19:40:51.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
-    "timestamp": "2026-10-18T19:27:16.838Z",
     "strategy": ".content-card__main"
   }
 ];
