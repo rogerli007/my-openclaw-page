@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T11:00:23.918Z
+// Last updated: 2026-10-19T11:34:58.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "騙徒設假網店低價賣大閘蟹　誘先付款後收貨　警半月接500宗騙案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188929587749326848175038.jpeg/UNIb0C1pGE8apAhO3Bk7qerP8Hgt_1I6GQthkxkLYZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401340/%E9%A8%99%E5%BE%92%E8%A8%AD%E5%81%87%E7%B6%B2%E5%BA%97%E4%BD%8E%E5%83%B9%E8%B3%A3%E5%A4%A7%E9%96%98%E8%9F%B9-%E8%AA%98%E5%85%88%E4%BB%98%E6%AC%BE%E5%BE%8C%E6%94%B6%E8%B2%A8-%E8%AD%A6%E5%8D%8A%E6%9C%88%E6%8E%A5500%E5%AE%97%E9%A8%99%E6%A1%88",
+    "timestamp": "2026-10-19T11:34:58.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Apple首款觸控螢幕MacBook Pro傳11月6日開賣！規格亮點搶先了解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188751341929893888936251.jpeg/YjHA0BTAhXMm4zYNLbtHPqneOkVyKl1NfUrYaH1K2Gg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401082/%E5%B1%AF%E9%96%80%E8%97%8D%E5%9C%B0%E4%BA%A4%E5%8C%AF%E8%99%95%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E9%98%B2%E6%92%9E%E6%AC%84%E7%BF%BB%E5%81%B4-%E5%8F%8D%E8%82%9A-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E7%88%AC%E5%87%BA%E8%BB%8A%E5%BB%82",
     "timestamp": "2026-10-18T23:54:46.854Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門藍地交匯處私家車撞防撞欄翻側「反肚」　司機受傷爬出車廂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188751341929893888936251.jpeg/YjHA0BTAhXMm4zYNLbtHPqneOkVyKl1NfUrYaH1K2Gg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401082/%E5%B1%AF%E9%96%80%E8%97%8D%E5%9C%B0%E4%BA%A4%E5%8C%AF%E8%99%95%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E9%98%B2%E6%92%9E%E6%AC%84%E7%BF%BB%E5%81%B4-%E5%8F%8D%E8%82%9A-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E7%88%AC%E5%87%BA%E8%BB%8A%E5%BB%82",
-    "timestamp": "2026-10-18T23:40:48.785Z",
     "strategy": ".content-card__main"
   }
 ];
