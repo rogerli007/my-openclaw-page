@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T22:53:54.077Z
+// Last updated: 2026-10-19T23:19:33.165Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱對美中俄元首峰會態度開放　期待討論無核化問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189109879495725056863745.jpeg/7Xzrnv9D1QzMd6Mq8cg7rUKyG6x6DICKRbbhZEW24WQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401404/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%8D%E7%BE%8E%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E6%85%8B%E5%BA%A6%E9%96%8B%E6%94%BE-%E6%9C%9F%E5%BE%85%E8%A8%8E%E8%AB%96%E7%84%A1%E6%A0%B8%E5%8C%96%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-10-19T23:19:33.165Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國巴黎等部份城市實施局部宵禁　總理未排除宣布緊急狀態",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188901849424465920985217.jpeg/8AfsNIbp0i5N9zWdeScZwgI-t3faIcsOW5RZ_FuUWfw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401247/%E6%9E%97%E5%B3%AF%E6%96%90%E6%BF%9F%E5%BA%A6%E5%81%87%E5%AF%B5%E5%A6%BB%E7%84%A1%E6%A5%B5%E9%99%90-%E7%94%B7%E7%A5%9E%E5%8C%96%E8%BA%AB-%E4%BA%BA%E8%82%89%E9%81%AE%E9%99%BD%E6%9D%BF-man%E7%88%86%E8%AD%B7%E5%A6%BB%E5%A5%B3",
     "timestamp": "2026-10-19T15:54:57.884Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "700學生完成職場實習　蕭澤頤稱曾因調職想辭職　勉青年擴闊心態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188924647224119296915624.jpeg/HaMLufeDfS3nTcc5J1WQlUW8NIF1XtkdsHaM7JV2jOw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401319/700%E5%AD%B8%E7%94%9F%E5%AE%8C%E6%88%90%E8%81%B7%E5%A0%B4%E5%AF%A6%E7%BF%92-%E8%95%AD%E6%BE%A4%E9%A0%A4%E7%A8%B1%E6%9B%BE%E5%9B%A0%E8%AA%BF%E8%81%B7%E6%83%B3%E8%BE%AD%E8%81%B7-%E5%8B%89%E9%9D%92%E5%B9%B4%E6%93%B4%E9%97%8A%E5%BF%83%E6%85%8B",
-    "timestamp": "2026-10-19T15:44:54.536Z",
     "strategy": ".content-card__main"
   }
 ];
