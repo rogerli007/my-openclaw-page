@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T23:19:33.165Z
+// Last updated: 2026-10-19T23:45:59.805Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英擬對華電動車加徵關稅　中國商務部：勿隨歐起舞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231219/813851237488267264164735.jpeg/1FpIIQL-NFpIdTRARRPMki47NPEN586CgLmo_IC5qPw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401392/%E8%8B%B1%E6%93%AC%E5%B0%8D%E8%8F%AF%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8B%BF%E9%9A%A8%E6%AD%90%E8%B5%B7%E8%88%9E",
+    "timestamp": "2026-10-19T23:45:59.805Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱對美中俄元首峰會態度開放　期待討論無核化問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188996870823743488853172.jpeg/N1Y-kR8X_-I2kkUhmii2-xMjQ9MuF0Mj9y081PctPNQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401378/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%80%AA%E5%98%89%E9%9B%AF%E8%A2%AB%E5%8F%A4%E5%A4%A9%E7%A5%A5%E5%BC%B7%E5%A7%A6%E5%86%8D%E8%B7%B3%E6%A8%93-%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%85%A8%E9%9B%86%E6%9C%80%E6%80%A7%E6%84%9F%E5%9C%A8%E9%80%99%E4%B8%80%E7%A7%92",
     "timestamp": "2026-10-19T16:22:28.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林峯斐濟度假寵妻無極限　男神化身「人肉遮陽板」Man爆護妻女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188901849424465920985217.jpeg/8AfsNIbp0i5N9zWdeScZwgI-t3faIcsOW5RZ_FuUWfw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401247/%E6%9E%97%E5%B3%AF%E6%96%90%E6%BF%9F%E5%BA%A6%E5%81%87%E5%AF%B5%E5%A6%BB%E7%84%A1%E6%A5%B5%E9%99%90-%E7%94%B7%E7%A5%9E%E5%8C%96%E8%BA%AB-%E4%BA%BA%E8%82%89%E9%81%AE%E9%99%BD%E6%9D%BF-man%E7%88%86%E8%AD%B7%E5%A6%BB%E5%A5%B3",
-    "timestamp": "2026-10-19T15:54:57.884Z",
     "strategy": ".content-card__main"
   }
 ];
