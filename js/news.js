@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T17:22:11.863Z
+// Last updated: 2026-10-19T17:32:17.099Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強晤伊朗副總統　籲各方盡早重啟對話化解分歧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189019985712779264103289.jpeg/SuXQrbDllfHcBQMzfU5UvC5k0yw6cmPguEb7OrhG-zo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401391/%E6%9D%8E%E5%BC%B7%E6%99%A4%E4%BC%8A%E6%9C%97%E5%89%AF%E7%B8%BD%E7%B5%B1-%E7%B1%B2%E5%90%84%E6%96%B9%E7%9B%A1%E6%97%A9%E9%87%8D%E5%95%9F%E5%B0%8D%E8%A9%B1%E5%8C%96%E8%A7%A3%E5%88%86%E6%AD%A7",
+    "timestamp": "2026-10-19T17:32:17.099Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強晤伊朗副總統　籲各方盡早重啟對話化解分歧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188863988901875712481652.jpeg/GAU6_S2HJ8qqSGVfLrh1o1RjJlDJrl65s0TcjLNE3Iw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60401202/%E6%B3%95%E5%9C%8B%E6%9A%B4%E5%8B%95%E9%80%BC%E8%BF%91%E7%B8%BD%E7%B5%B1%E5%BA%9C300%E7%B1%B3-%E6%83%85%E5%A0%B1%E6%A9%9F%E9%97%9C%E9%A0%90%E6%B8%AC%E5%A4%B1%E6%BA%96-12%E8%AD%A6%E8%8B%A6%E6%92%90%E5%B0%8D%E6%8A%97%E7%99%BE%E4%BA%BA",
     "timestamp": "2026-10-19T07:50:10.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸｜入境處料今午至晚為入境高峰　籲先登記合作查驗通道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188870307503411200217094.jpeg/ZXBtc4iihY9LJfAc6Hmscc5IHeljPXTyWReahFkXmoQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401220/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E5%85%A5%E5%A2%83%E8%99%95%E6%96%99%E4%BB%8A%E5%8D%88%E8%87%B3%E6%99%9A%E7%82%BA%E5%85%A5%E5%A2%83%E9%AB%98%E5%B3%B0-%E7%B1%B2%E5%85%88%E7%99%BB%E8%A8%98%E5%90%88%E4%BD%9C%E6%9F%A5%E9%A9%97%E9%80%9A%E9%81%93",
-    "timestamp": "2026-10-19T07:17:22.857Z",
     "strategy": ".content-card__main"
   }
 ];
