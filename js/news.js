@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T13:25:48.129Z
+// Last updated: 2026-10-19T13:51:41.684Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西營盤薄扶林道恆輝大廈起火冒煙　消防開喉灌救　約60人疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188969443510718464630417.jpeg/hPzM-doQQd-Do4F13DqvicLJvoz9VDOSk6EQd5OhEHc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401365/%E8%A5%BF%E7%87%9F%E7%9B%A4%E8%96%84%E6%89%B6%E6%9E%97%E9%81%93%E6%81%86%E8%BC%9D%E5%A4%A7%E5%BB%88%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E7%B4%8460%E4%BA%BA%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-10-19T13:51:41.684Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜踢爆中醫$100賣病假紙　免檢查直接簽：你想休息幾多日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188787781535535104927586.png/diENBb9Zo7jABZ9BKbTUoC8Gx6Qt6UsWvv2grb79oK0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401097/%E6%B3%95%E5%9C%8B%E6%9A%B4%E5%BE%92%E6%B4%97%E5%8A%AB%E5%8B%95%E6%BC%AB%E9%81%8A%E6%88%B2%E5%BA%97-%E5%BA%97%E4%B8%BB%E9%81%AD%E6%9A%B4%E5%BE%92%E4%B8%80%E8%85%B3%E8%B8%A2%E5%80%92-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-19T02:29:34.798Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍天榮路爆鹹水管　水柱激噴兩層樓高　兩屋苑停沖廁水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188588365620973568317846.jpeg/2GGWaHh5Mh2l1D48KEhw6lc9vNq62WdmUff1GVH39Rk",
-    "url": "https://www.hk01.com/01TV/60401049/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%A6%AE%E8%B7%AF%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E6%9F%B1%E6%BF%80%E5%99%B4%E5%85%A9%E5%B1%A4%E6%A8%93%E9%AB%98-%E5%85%A9%E5%B1%8B%E8%8B%91%E5%81%9C%E6%B2%96%E5%BB%81%E6%B0%B4",
-    "timestamp": "2026-10-19T01:57:38.357Z",
     "strategy": ".content-card__main"
   }
 ];
