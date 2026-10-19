@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T01:57:38.357Z
+// Last updated: 2026-10-19T02:29:34.798Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國暴徒洗劫動漫遊戲店　店主遭暴徒一腳踢倒｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188787781535535104927586.png/diENBb9Zo7jABZ9BKbTUoC8Gx6Qt6UsWvv2grb79oK0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401097/%E6%B3%95%E5%9C%8B%E6%9A%B4%E5%BE%92%E6%B4%97%E5%8A%AB%E5%8B%95%E6%BC%AB%E9%81%8A%E6%88%B2%E5%BA%97-%E5%BA%97%E4%B8%BB%E9%81%AD%E6%9A%B4%E5%BE%92%E4%B8%80%E8%85%B3%E8%B8%A2%E5%80%92-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-19T02:29:34.798Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍天榮路爆鹹水管　水柱激噴兩層樓高　兩屋苑停沖廁水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
     "timestamp": "2026-10-18T19:15:58.992Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利米蘭有蒙面示威者搶掠商店　警方以催淚彈水炮驅趕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
-    "timestamp": "2026-10-18T18:54:16.939Z",
     "strategy": ".content-card__main"
   }
 ];
