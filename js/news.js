@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T01:22:51.795Z
+// Last updated: 2026-10-19T01:57:38.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍天榮路爆鹹水管　水柱激噴兩層樓高　兩屋苑停沖廁水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188588365620973568317846.jpeg/2GGWaHh5Mh2l1D48KEhw6lc9vNq62WdmUff1GVH39Rk",
+    "url": "https://www.hk01.com/01TV/60401049/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A4%A9%E6%A6%AE%E8%B7%AF%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E6%9F%B1%E6%BF%80%E5%99%B4%E5%85%A9%E5%B1%A4%E6%A8%93%E9%AB%98-%E5%85%A9%E5%B1%8B%E8%8B%91%E5%81%9C%E6%B2%96%E5%BB%81%E6%B0%B4",
+    "timestamp": "2026-10-19T01:57:38.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【01秒看新聞】旺角美甲店3男女涉偷穿戴甲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401076/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E8%98%AD%E6%9C%89%E8%92%99%E9%9D%A2%E7%A4%BA%E5%A8%81%E8%80%85%E6%90%B6%E6%8E%A0%E5%95%86%E5%BA%97-%E8%AD%A6%E6%96%B9%E4%BB%A5%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%A9%85%E8%B6%95",
     "timestamp": "2026-10-18T18:54:16.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警紅磡截可疑私家車　搜出逾20包可卡因　男司機涉販毒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188672761426350080237096.jpeg/1_EjL8VBCxyZXXo5T31FvLY8kl4Bd9_olX2Yc799mHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401074/%E8%AD%A6%E7%B4%85%E7%A3%A1%E6%88%AA%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%90%9C%E5%87%BA%E9%80%BE20%E5%8C%85%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-18T18:46:09.437Z",
     "strategy": ".content-card__main"
   }
 ];
