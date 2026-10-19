@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T19:16:15.606Z
+// Last updated: 2026-10-19T20:21:07.567Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄外長拉夫羅夫訪德黑蘭　分別晤伊朗總統及外長商地區局勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189060792159309824256037.jpeg/xhppDTPKPTuhhfn18OsbOr2gkfQp-qEo1uwgPtbsID4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401398/%E4%BF%84%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD-%E5%88%86%E5%88%A5%E6%99%A4%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%A4%96%E9%95%B7%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
+    "timestamp": "2026-10-19T20:21:07.567Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國示威演變騷亂　華使領館籲中國公民：遠離遊行示威區域",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188887318572830720893401.jpeg/dlLgKRtBe_sE7glbmT3pLEXqKTGre1FIgu62noLutp4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401209/apple%E9%A6%96%E6%AC%BE%E8%A7%B8%E6%8E%A7%E8%9E%A2%E5%B9%95macbook-pro%E5%82%B311%E6%9C%886%E6%97%A5%E9%96%8B%E8%B3%A3-%E8%A6%8F%E6%A0%BC%E4%BA%AE%E9%BB%9E%E6%90%B6%E5%85%88%E4%BA%86%E8%A7%A3",
     "timestamp": "2026-10-19T11:00:23.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本推「機械秋田犬」防熊引熱議　造型太萌被網民譏：一掌就拍飛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188867445641711616687259.png/QfkirauE0bgzGF7xLtrFuclRp-unQ0Nz0UcsztFHLM4",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401201/%E6%97%A5%E6%9C%AC%E6%8E%A8-%E6%A9%9F%E6%A2%B0%E7%A7%8B%E7%94%B0%E7%8A%AC-%E9%98%B2%E7%86%8A%E5%BC%95%E7%86%B1%E8%AD%B0-%E9%80%A0%E5%9E%8B%E5%A4%AA%E8%90%8C%E8%A2%AB%E7%B6%B2%E6%B0%91%E8%AD%8F-%E4%B8%80%E6%8E%8C%E5%B0%B1%E6%8B%8D%E9%A3%9B",
-    "timestamp": "2026-10-19T10:46:17.015Z",
     "strategy": ".content-card__main"
   }
 ];
