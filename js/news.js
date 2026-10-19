@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T22:44:24.840Z
+// Last updated: 2026-10-19T22:53:54.077Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國巴黎等部份城市實施局部宵禁　總理未排除宣布緊急狀態",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188357327829340160463207.jpeg/-dL8h-WEd_FpPzHBWKyO_CJzkICewZT6Z4-nuWePp7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401403/%E6%B3%95%E5%9C%8B%E5%B7%B4%E9%BB%8E%E7%AD%89%E9%83%A8%E4%BB%BD%E5%9F%8E%E5%B8%82%E5%AF%A6%E6%96%BD%E5%B1%80%E9%83%A8%E5%AE%B5%E7%A6%81-%E7%B8%BD%E7%90%86%E6%9C%AA%E6%8E%92%E9%99%A4%E5%AE%A3%E5%B8%83%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B",
+    "timestamp": "2026-10-19T22:53:54.077Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國巴黎等部份城市實施局部宵禁　總理未排除宣布緊急狀態",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188924647224119296915624.jpeg/HaMLufeDfS3nTcc5J1WQlUW8NIF1XtkdsHaM7JV2jOw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401319/700%E5%AD%B8%E7%94%9F%E5%AE%8C%E6%88%90%E8%81%B7%E5%A0%B4%E5%AF%A6%E7%BF%92-%E8%95%AD%E6%BE%A4%E9%A0%A4%E7%A8%B1%E6%9B%BE%E5%9B%A0%E8%AA%BF%E8%81%B7%E6%83%B3%E8%BE%AD%E8%81%B7-%E5%8B%89%E9%9D%92%E5%B9%B4%E6%93%B4%E9%97%8A%E5%BF%83%E6%85%8B",
     "timestamp": "2026-10-19T15:44:54.536Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段偏軟　納指最新升逾1%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250428/993660677904142336562089.jpeg/4FxnWUlvNAFN7lLzwIaP4efSPeemohQpuK3JyLitycg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60401379/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%81%8F%E8%BB%9F-%E7%B4%8D%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87%E9%80%BE1",
-    "timestamp": "2026-10-19T15:19:46.277Z",
     "strategy": ".content-card__main"
   }
 ];
