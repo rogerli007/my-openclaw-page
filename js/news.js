@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-18T23:54:46.854Z
+// Last updated: 2026-10-19T00:49:05.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外賣員工傷｜Keeta車手回程時搶單遇意外變癱　揭新機制潛在盲點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188578577143042048210365.jpeg/amR-X07nWySLfXBpg-s7GrQ0cdhwfARUpcfJV6XHyVc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399527/%E5%A4%96%E8%B3%A3%E5%93%A1%E5%B7%A5%E5%82%B7-keeta%E8%BB%8A%E6%89%8B%E5%9B%9E%E7%A8%8B%E6%99%82%E6%90%B6%E5%96%AE%E9%81%87%E6%84%8F%E5%A4%96%E8%AE%8A%E7%99%B1-%E6%8F%AD%E6%96%B0%E6%A9%9F%E5%88%B6%E6%BD%9B%E5%9C%A8%E7%9B%B2%E9%BB%9E",
+    "timestamp": "2026-10-19T00:49:05.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門藍地交匯處私家車撞防撞欄翻側「反肚」　司機受傷爬出車廂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188672761426350080237096.jpeg/1_EjL8VBCxyZXXo5T31FvLY8kl4Bd9_olX2Yc799mHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401074/%E8%AD%A6%E7%B4%85%E7%A3%A1%E6%88%AA%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A-%E6%90%9C%E5%87%BA%E9%80%BE20%E5%8C%85%E5%8F%AF%E5%8D%A1%E5%9B%A0-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-18T18:21:17.713Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "由零說起｜麥包入行比賽「無衫著」 母親借三個月家用添置西裝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188540223076700160082637.jpeg/sOMzJQ5a7x84NraAXpTUW8P3kBpD2DI1PxWJfT8ViX0",
-    "url": "https://www.hk01.com/01TV/60400983/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E5%85%A5%E8%A1%8C%E6%AF%94%E8%B3%BD-%E7%84%A1%E8%A1%AB%E8%91%97-%E6%AF%8D%E8%A6%AA%E5%80%9F%E4%B8%89%E5%80%8B%E6%9C%88%E5%AE%B6%E7%94%A8%E6%B7%BB%E7%BD%AE%E8%A5%BF%E8%A3%9D",
-    "timestamp": "2026-10-18T17:54:30.836Z",
     "strategy": ".content-card__main"
   }
 ];
