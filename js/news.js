@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T20:21:07.567Z
+// Last updated: 2026-10-19T20:45:29.973Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄外長拉夫羅夫訪德黑蘭　分別晤伊朗總統及外長商地區局勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189060792159309824256037.jpeg/xhppDTPKPTuhhfn18OsbOr2gkfQp-qEo1uwgPtbsID4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401398/%E4%BF%84%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD-%E5%88%86%E5%88%A5%E6%99%A4%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%A4%96%E9%95%B7%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
+    "timestamp": "2026-10-19T20:45:29.973Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄外長拉夫羅夫訪德黑蘭　分別晤伊朗總統及外長商地區局勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188929587749326848175038.jpeg/UNIb0C1pGE8apAhO3Bk7qerP8Hgt_1I6GQthkxkLYZM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401340/%E9%A8%99%E5%BE%92%E8%A8%AD%E5%81%87%E7%B6%B2%E5%BA%97%E4%BD%8E%E5%83%B9%E8%B3%A3%E5%A4%A7%E9%96%98%E8%9F%B9-%E8%AA%98%E5%85%88%E4%BB%98%E6%AC%BE%E5%BE%8C%E6%94%B6%E8%B2%A8-%E8%AD%A6%E5%8D%8A%E6%9C%88%E6%8E%A5500%E5%AE%97%E9%A8%99%E6%A1%88",
     "timestamp": "2026-10-19T11:34:58.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Apple首款觸控螢幕MacBook Pro傳11月6日開賣！規格亮點搶先了解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188887318572830720893401.jpeg/dlLgKRtBe_sE7glbmT3pLEXqKTGre1FIgu62noLutp4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401209/apple%E9%A6%96%E6%AC%BE%E8%A7%B8%E6%8E%A7%E8%9E%A2%E5%B9%95macbook-pro%E5%82%B311%E6%9C%886%E6%97%A5%E9%96%8B%E8%B3%A3-%E8%A6%8F%E6%A0%BC%E4%BA%AE%E9%BB%9E%E6%90%B6%E5%85%88%E4%BA%86%E8%A7%A3",
-    "timestamp": "2026-10-19T11:00:23.918Z",
     "strategy": ".content-card__main"
   }
 ];
