@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T10:46:17.015Z
+// Last updated: 2026-10-19T11:00:23.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Apple首款觸控螢幕MacBook Pro傳11月6日開賣！規格亮點搶先了解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188887318572830720893401.jpeg/dlLgKRtBe_sE7glbmT3pLEXqKTGre1FIgu62noLutp4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401209/apple%E9%A6%96%E6%AC%BE%E8%A7%B8%E6%8E%A7%E8%9E%A2%E5%B9%95macbook-pro%E5%82%B311%E6%9C%886%E6%97%A5%E9%96%8B%E8%B3%A3-%E8%A6%8F%E6%A0%BC%E4%BA%AE%E9%BB%9E%E6%90%B6%E5%85%88%E4%BA%86%E8%A7%A3",
+    "timestamp": "2026-10-19T11:00:23.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本推「機械秋田犬」防熊引熱議　造型太萌被網民譏：一掌就拍飛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188751341929893888936251.jpeg/YjHA0BTAhXMm4zYNLbtHPqneOkVyKl1NfUrYaH1K2Gg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401082/%E5%B1%AF%E9%96%80%E8%97%8D%E5%9C%B0%E4%BA%A4%E5%8C%AF%E8%99%95%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E9%98%B2%E6%92%9E%E6%AC%84%E7%BF%BB%E5%81%B4-%E5%8F%8D%E8%82%9A-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E7%88%AC%E5%87%BA%E8%BB%8A%E5%BB%82",
     "timestamp": "2026-10-18T23:40:48.785Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "履歷只印一半　下半頁寫「僱我解鎖全部潛能」　爆紅梗圖再瘋傳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188199627661250560156829.png/5sVzak-ae683j3Qin9vBkhmP5_h24I8TrS5-Ga0ufhk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399639/%E5%B1%A5%E6%AD%B7%E5%8F%AA%E5%8D%B0%E4%B8%80%E5%8D%8A-%E4%B8%8B%E5%8D%8A%E9%A0%81%E5%AF%AB-%E5%83%B1%E6%88%91%E8%A7%A3%E9%8E%96%E5%85%A8%E9%83%A8%E6%BD%9B%E8%83%BD-%E7%88%86%E7%B4%85%E6%A2%97%E5%9C%96%E5%86%8D%E7%98%8B%E5%82%B3",
-    "timestamp": "2026-10-18T23:16:48.261Z",
     "strategy": ".content-card__main"
   }
 ];
