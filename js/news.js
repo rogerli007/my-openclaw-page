@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T03:50:29.338Z
+// Last updated: 2026-10-20T04:47:20.385Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "39歲華裔女子倫敦遭刺斃　細14歲印度男友被判囚28年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189193738795094016045923.png/zq4tAmZQRS8ahQ_suoZxf0sO5mq6nP2JVhNrxVYTa8U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401541/39%E6%AD%B2%E8%8F%AF%E8%A3%94%E5%A5%B3%E5%AD%90%E5%80%AB%E6%95%A6%E9%81%AD%E5%88%BA%E6%96%83-%E7%B4%B014%E6%AD%B2%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%8F%8B%E8%A2%AB%E5%88%A4%E5%9B%9A28%E5%B9%B4",
+    "timestamp": "2026-10-20T04:47:20.385Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙特處決一對孟加拉男女　涉清真寺內作「不檢行為」褻瀆伊斯蘭教",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189060792159309824256037.jpeg/xhppDTPKPTuhhfn18OsbOr2gkfQp-qEo1uwgPtbsID4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401398/%E4%BF%84%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD-%E5%88%86%E5%88%A5%E6%99%A4%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%A4%96%E9%95%B7%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
     "timestamp": "2026-10-19T20:45:29.973Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄外長拉夫羅夫訪德黑蘭　分別晤伊朗總統及外長商地區局勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189060792159309824256037.jpeg/xhppDTPKPTuhhfn18OsbOr2gkfQp-qEo1uwgPtbsID4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401398/%E4%BF%84%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD-%E5%88%86%E5%88%A5%E6%99%A4%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%A4%96%E9%95%B7%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
-    "timestamp": "2026-10-19T20:21:07.567Z",
     "strategy": ".content-card__main"
   }
 ];
