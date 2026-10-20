@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T19:18:20.112Z
+// Last updated: 2026-10-20T19:32:29.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南蘇丹稱市場遭蘇丹政府軍無人機襲擊　至少153人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189397873184215040901387.jpeg/0Rsggm22GY3fbj-GqHDSnl9IqnBRZKOuH02KHh9Nih4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401851/%E5%8D%97%E8%98%87%E4%B8%B9%E7%A8%B1%E5%B8%82%E5%A0%B4%E9%81%AD%E8%98%87%E4%B8%B9%E6%94%BF%E5%BA%9C%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%91153%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-10-20T19:32:29.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南蘇丹稱市場遭蘇丹政府軍無人機襲擊　至少153人死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189226462004121600218947.png/k0TIXQa2O9FOddU-4et50Gr2LNGxl93L2pIdZNqSHWQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401605/%E7%B6%B2%E7%B4%85%E9%99%B3%E8%AA%9E%E8%AC%99%E4%B9%B3%E7%99%8C%E5%8C%96%E7%99%82-%E5%85%A8%E8%BA%AB%E9%81%8E%E6%95%8F%E7%99%BC%E7%B4%85-%E6%8A%B1%E7%99%BC%E7%87%92%E5%85%92%E5%93%84%E7%9D%A1%E6%B7%9A%E5%B4%A9-%E5%A5%BD%E7%84%A1%E5%8A%9B",
     "timestamp": "2026-10-20T10:34:38.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "緹外2.638億沽四房四套　創今年九龍一手標準分層新高　呎價近6萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189275421447819264382109.jpeg/3-iJh9dSLfyI47uz5e4Jnjk7dGsydSFkVd2fEFXdnxA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60401747/%E7%B7%B9%E5%A4%962-638%E5%84%84%E6%B2%BD%E5%9B%9B%E6%88%BF%E5%9B%9B%E5%A5%97-%E5%89%B5%E4%BB%8A%E5%B9%B4%E4%B9%9D%E9%BE%8D%E4%B8%80%E6%89%8B%E6%A8%99%E6%BA%96%E5%88%86%E5%B1%A4%E6%96%B0%E9%AB%98-%E5%91%8E%E5%83%B9%E8%BF%916%E8%90%AC",
-    "timestamp": "2026-10-20T10:18:51.636Z",
     "strategy": ".content-card__main"
   }
 ];
