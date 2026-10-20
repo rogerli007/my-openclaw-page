@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T13:47:06.558Z
+// Last updated: 2026-10-20T14:20:23.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門仁愛堂圍越南漢遭斬傷　腹與前臂中刀送院　警持盾追緝兩同鄉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189333661451816960312648.jpeg/yR1iFwhl_5VOIy0tE8trhly7K0PCjOCWR-W7fEflu3w?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401821/%E5%B1%AF%E9%96%80%E4%BB%81%E6%84%9B%E5%A0%82%E5%9C%8D%E8%B6%8A%E5%8D%97%E6%BC%A2%E9%81%AD%E6%96%AC%E5%82%B7-%E8%85%B9%E8%88%87%E5%89%8D%E8%87%82%E4%B8%AD%E5%88%80%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8C%81%E7%9B%BE%E8%BF%BD%E7%B7%9D%E5%85%A9%E5%90%8C%E9%84%89",
+    "timestamp": "2026-10-20T14:20:23.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜醫師賣病假紙月賺數萬兼賣私煙：唔可以畀人查到我呢度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188871972054896640635819.jpeg/bfUPTFadAm_An9KKShLWVuGeNdyMHJvZ4dUsJuHVLCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60401103/%E5%B1%AF%E9%96%80cafe-6%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%A4%A7%E7%8E%BB%E7%92%83%E7%AA%97%E5%9D%90%E5%BE%97%E8%80%90-%E9%BB%91%E8%86%A0%E4%B8%BB%E9%A1%8C-1%E9%96%93%E4%B8%96%E7%95%8C%E7%B4%9A%E7%83%98%E7%84%99%E5%BE%97%E7%8D%8E",
     "timestamp": "2026-10-20T03:23:30.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《鐵拳教育》、《Doctor X》成年度爽劇　痛擊教育界與醫療界腐敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188850278523211776264501.png/GNuoMQHhVEYSYH_AmkjjCNLRQ9Y9gVUuRJpRckSaUXI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399091/%E9%90%B5%E6%8B%B3%E6%95%99%E8%82%B2-doctor-x-%E6%88%90%E5%B9%B4%E5%BA%A6%E7%88%BD%E5%8A%87-%E7%97%9B%E6%93%8A%E6%95%99%E8%82%B2%E7%95%8C%E8%88%87%E9%86%AB%E7%99%82%E7%95%8C%E8%85%90%E6%95%97",
-    "timestamp": "2026-10-20T02:52:37.550Z",
     "strategy": ".content-card__main"
   }
 ];
