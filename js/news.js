@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T01:40:22.283Z
+// Last updated: 2026-10-20T02:03:13.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利政府憂米蘭騷亂再起　將部署500軍人維持治安",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189150470510219264481690.jpeg/HBJP1MxRpmbW_U549g1Zan14XgZoOU625Gfgf-Rn4H8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401428/%E6%84%8F%E5%A4%A7%E5%88%A9%E6%94%BF%E5%BA%9C%E6%86%82%E7%B1%B3%E8%98%AD%E9%A8%B7%E4%BA%82%E5%86%8D%E8%B5%B7-%E5%B0%87%E9%83%A8%E7%BD%B2500%E8%BB%8D%E4%BA%BA%E7%B6%AD%E6%8C%81%E6%B2%BB%E5%AE%89",
+    "timestamp": "2026-10-20T02:03:13.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "木村拓哉工藤靜香東京遛狗被捕獲　粉絲近距離直擊：跟電視一樣帥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189019985712779264103289.jpeg/SuXQrbDllfHcBQMzfU5UvC5k0yw6cmPguEb7OrhG-zo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401391/%E6%9D%8E%E5%BC%B7%E6%99%A4%E4%BC%8A%E6%9C%97%E5%89%AF%E7%B8%BD%E7%B5%B1-%E7%B1%B2%E5%90%84%E6%96%B9%E7%9B%A1%E6%97%A9%E9%87%8D%E5%95%9F%E5%B0%8D%E8%A9%B1%E5%8C%96%E8%A7%A3%E5%88%86%E6%AD%A7",
     "timestamp": "2026-10-19T17:47:31.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強晤伊朗副總統　籲各方盡早重啟對話化解分歧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189019985712779264103289.jpeg/SuXQrbDllfHcBQMzfU5UvC5k0yw6cmPguEb7OrhG-zo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401391/%E6%9D%8E%E5%BC%B7%E6%99%A4%E4%BC%8A%E6%9C%97%E5%89%AF%E7%B8%BD%E7%B5%B1-%E7%B1%B2%E5%90%84%E6%96%B9%E7%9B%A1%E6%97%A9%E9%87%8D%E5%95%9F%E5%B0%8D%E8%A9%B1%E5%8C%96%E8%A7%A3%E5%88%86%E6%AD%A7",
-    "timestamp": "2026-10-19T17:32:17.099Z",
     "strategy": ".content-card__main"
   }
 ];
