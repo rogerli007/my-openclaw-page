@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T10:34:38.246Z
+// Last updated: 2026-10-20T10:47:27.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭博：英國將向沙特派戰鬥機　保護城市和基礎設施免受胡塞襲擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184077308793720832089412.jpeg/sz5yeSCnpDjq72COJse4kh6DP-beqIyBTL1JT0y9SU8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401772/%E5%BD%AD%E5%8D%9A-%E8%8B%B1%E5%9C%8B%E5%B0%87%E5%90%91%E6%B2%99%E7%89%B9%E6%B4%BE%E6%88%B0%E9%AC%A5%E6%A9%9F-%E4%BF%9D%E8%AD%B7%E5%9F%8E%E5%B8%82%E5%92%8C%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%E5%85%8D%E5%8F%97%E8%83%A1%E5%A1%9E%E8%A5%B2%E6%93%8A",
+    "timestamp": "2026-10-20T10:47:27.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網紅陳語謙乳癌化療「全身過敏發紅」　抱發燒兒哄睡淚崩：好無力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231219/813851237488267264164735.jpeg/1FpIIQL-NFpIdTRARRPMki47NPEN586CgLmo_IC5qPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401392/%E8%8B%B1%E6%93%AC%E5%B0%8D%E8%8F%AF%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8B%BF%E9%9A%A8%E6%AD%90%E8%B5%B7%E8%88%9E",
     "timestamp": "2026-10-19T23:45:59.805Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱對美中俄元首峰會態度開放　期待討論無核化問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189109879495725056863745.jpeg/7Xzrnv9D1QzMd6Mq8cg7rUKyG6x6DICKRbbhZEW24WQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401404/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%8D%E7%BE%8E%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E6%85%8B%E5%BA%A6%E9%96%8B%E6%94%BE-%E6%9C%9F%E5%BE%85%E8%A8%8E%E8%AB%96%E7%84%A1%E6%A0%B8%E5%8C%96%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-10-19T23:19:33.165Z",
     "strategy": ".content-card__main"
   }
 ];
