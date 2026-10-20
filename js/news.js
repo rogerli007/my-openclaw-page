@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T12:54:16.879Z
+// Last updated: 2026-10-20T13:47:06.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜醫師賣病假紙月賺數萬兼賣私煙：唔可以畀人查到我呢度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189322591400103936142507.jpeg/EIZCJd1ASJvWfYI820YI80H1IaUct6i5ENwbZBDcG2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401811/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%86%AB%E5%B8%AB%E8%B3%A3%E7%97%85%E5%81%87%E7%B4%99%E6%9C%88%E8%B3%BA%E6%95%B8%E8%90%AC%E5%85%BC%E8%B3%A3%E7%A7%81%E7%85%99-%E5%94%94%E5%8F%AF%E4%BB%A5%E7%95%80%E4%BA%BA%E6%9F%A5%E5%88%B0%E6%88%91%E5%91%A2%E5%BA%A6",
+    "timestamp": "2026-10-20T13:47:06.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "研究指涉兒童性罪行平均判刑偏低　最低判4.61年　促設判刑委員會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188850278523211776264501.png/GNuoMQHhVEYSYH_AmkjjCNLRQ9Y9gVUuRJpRckSaUXI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399091/%E9%90%B5%E6%8B%B3%E6%95%99%E8%82%B2-doctor-x-%E6%88%90%E5%B9%B4%E5%BA%A6%E7%88%BD%E5%8A%87-%E7%97%9B%E6%93%8A%E6%95%99%E8%82%B2%E7%95%8C%E8%88%87%E9%86%AB%E7%99%82%E7%95%8C%E8%85%90%E6%95%97",
     "timestamp": "2026-10-20T02:52:37.550Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國示威｜法國政府「自食惡果」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188863988901875712481652.jpeg/GAU6_S2HJ8qqSGVfLrh1o1RjJlDJrl65s0TcjLNE3Iw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401459/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E6%B3%95%E5%9C%8B%E6%94%BF%E5%BA%9C-%E8%87%AA%E9%A3%9F%E6%83%A1%E6%9E%9C",
-    "timestamp": "2026-10-20T02:31:12.161Z",
     "strategy": ".content-card__main"
   }
 ];
