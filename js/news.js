@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T14:58:32.155Z
+// Last updated: 2026-10-20T15:57:28.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《玉簟秋》強制愛床戲惹怒網民！丞磊徐若晗虐戀挨轟：這不是愛情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189270886704746496754206.png/C9Afsg_grfL6FCGvelWm9sXvNYSC3PoOwx5_w8Mef8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60401716/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%BC%B7%E5%88%B6%E6%84%9B%E5%BA%8A%E6%88%B2%E6%83%B9%E6%80%92%E7%B6%B2%E6%B0%91-%E4%B8%9E%E7%A3%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%99%90%E6%88%80%E6%8C%A8%E8%BD%9F-%E9%80%99%E4%B8%8D%E6%98%AF%E6%84%9B%E6%83%85",
+    "timestamp": "2026-10-20T15:57:28.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美女網紅一隻阿圓是誰？創旅遊+美食頻道百萬訂閱　與陳百祥情斷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189198452878217216586712.jpeg/n8Sl2suw7m4YICNXvxt1N-iOxpftVzau8kp8hvJKfIY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60400612/dr-martens%E7%98%8B%E9%A6%AC%E7%9A%AE%E4%B8%8D%E6%98%AF%E9%A6%AC%E7%9A%AE-5%E6%AC%BE%E6%AB%BB%E6%A1%83%E7%B4%85%E6%96%B0%E9%9E%8B%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF",
     "timestamp": "2026-10-20T04:58:48.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "39歲華裔女子倫敦遭刺斃　細14歲印度男友被判囚28年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189193738795094016045923.png/zq4tAmZQRS8ahQ_suoZxf0sO5mq6nP2JVhNrxVYTa8U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401541/39%E6%AD%B2%E8%8F%AF%E8%A3%94%E5%A5%B3%E5%AD%90%E5%80%AB%E6%95%A6%E9%81%AD%E5%88%BA%E6%96%83-%E7%B4%B014%E6%AD%B2%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%8F%8B%E8%A2%AB%E5%88%A4%E5%9B%9A28%E5%B9%B4",
-    "timestamp": "2026-10-20T04:47:20.385Z",
     "strategy": ".content-card__main"
   }
 ];
