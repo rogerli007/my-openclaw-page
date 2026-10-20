@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T23:31:03.818Z
+// Last updated: 2026-10-20T23:42:44.206Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張登及談中國外交・五｜伊拉克戰爭的「機遇」　伊朗戰爭再現？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250902/1039637557366755328179835.jpeg/TLtgBaC-jR0sdtM6KS8Nw9qeYRDluliolghi1JYIYtQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401860/%E5%BC%B5%E7%99%BB%E5%8F%8A%E8%AB%87%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4-%E4%BA%94-%E4%BC%8A%E6%8B%89%E5%85%8B%E6%88%B0%E7%88%AD%E7%9A%84-%E6%A9%9F%E9%81%87-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%86%8D%E7%8F%BE",
+    "timestamp": "2026-10-20T23:42:44.206Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "墨爾本中國留學生遭假公安詐騙　損失¥200萬　「身份核查」拍裸照",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188868787395366912810734.jpeg/Uu_BHLI4rcAr61sNpyTTfytepgvgTpfY6Gs-E-hrPhM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401841/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E7%B8%B1%E6%A9%AB%E9%81%8A%E5%8F%96%E6%B6%88%E4%B8%8B%E5%91%A8%E5%87%BA%E7%99%BC%E8%A5%BF%E6%AD%90%E5%9C%98-%E6%9D%B1%E7%80%9B%E9%81%8A10%E4%BA%BA%E5%9C%98%E9%9C%80%E7%94%B1%E8%AD%A6%E8%BB%8A%E9%96%8B%E8%B7%AF",
     "timestamp": "2026-10-20T16:23:04.331Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《玉簟秋》強制愛床戲惹怒網民！丞磊徐若晗虐戀挨轟：這不是愛情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189270886704746496754206.png/C9Afsg_grfL6FCGvelWm9sXvNYSC3PoOwx5_w8Mef8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60401716/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%BC%B7%E5%88%B6%E6%84%9B%E5%BA%8A%E6%88%B2%E6%83%B9%E6%80%92%E7%B6%B2%E6%B0%91-%E4%B8%9E%E7%A3%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%99%90%E6%88%80%E6%8C%A8%E8%BD%9F-%E9%80%99%E4%B8%8D%E6%98%AF%E6%84%9B%E6%83%85",
-    "timestamp": "2026-10-20T15:57:28.680Z",
     "strategy": ".content-card__main"
   }
 ];
