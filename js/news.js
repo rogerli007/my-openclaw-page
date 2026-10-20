@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T21:34:08.941Z
+// Last updated: 2026-10-20T21:46:31.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜曼城5：1大勝AEK雅典　 利物浦4：3反勝維拉利爾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189438791832834048651348.jpeg/_bSTLk3PeA3t4OfSkuUG5m36s7h-uVcdGA0ybhgNMm4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401858/%E6%AD%90%E8%81%AF-%E6%9B%BC%E5%9F%8E5-1%E5%A4%A7%E5%8B%9Daek%E9%9B%85%E5%85%B8-%E5%88%A9%E7%89%A9%E6%B5%A64-3%E5%8F%8D%E5%8B%9D%E7%B6%AD%E6%8B%89%E5%88%A9%E7%88%BE",
+    "timestamp": "2026-10-20T21:46:31.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新蒲崗貨車疑失控自炒撞欄翻側　司機一度被困　自行爬出輕傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189293265069805568597130.jpeg/CUsdIxhN0cBbbTqdmEtx4vRzA_lBvNTmWEqD9VhKg_U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401786/%E7%A0%94%E7%A9%B6%E6%8C%87%E6%B6%89%E5%85%92%E7%AB%A5%E6%80%A7%E7%BD%AA%E8%A1%8C%E5%B9%B3%E5%9D%87%E5%88%A4%E5%88%91%E5%81%8F%E4%BD%8E-%E6%9C%80%E4%BD%8E%E5%88%A44-61%E5%B9%B4-%E4%BF%83%E8%A8%AD%E5%88%A4%E5%88%91%E5%A7%94%E5%93%A1%E6%9C%83",
     "timestamp": "2026-10-20T12:54:16.879Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "簡慧敏接替黃錦輝任港大校董　何君堯「大熱倒灶」傳主動棄任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184490186147368960921354.png/RKJSbxR58sNlLxewUGMO2GOzdo0l82U2MrCygTKwsoE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60401788/%E7%B0%A1%E6%85%A7%E6%95%8F%E6%8E%A5%E6%9B%BF%E9%BB%83%E9%8C%A6%E8%BC%9D%E4%BB%BB%E6%B8%AF%E5%A4%A7%E6%A0%A1%E8%91%A3-%E4%BD%95%E5%90%9B%E5%A0%AF-%E5%A4%A7%E7%86%B1%E5%80%92%E7%81%B6-%E5%82%B3%E4%B8%BB%E5%8B%95%E6%A3%84%E4%BB%BB",
-    "timestamp": "2026-10-20T12:29:24.334Z",
     "strategy": ".content-card__main"
   }
 ];
