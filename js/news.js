@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T15:57:28.680Z
+// Last updated: 2026-10-20T16:23:04.331Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國示威｜縱橫遊取消下周出發西歐團　東瀛遊10人團需由警車開路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188868787395366912810734.jpeg/Uu_BHLI4rcAr61sNpyTTfytepgvgTpfY6Gs-E-hrPhM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401841/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E7%B8%B1%E6%A9%AB%E9%81%8A%E5%8F%96%E6%B6%88%E4%B8%8B%E5%91%A8%E5%87%BA%E7%99%BC%E8%A5%BF%E6%AD%90%E5%9C%98-%E6%9D%B1%E7%80%9B%E9%81%8A10%E4%BA%BA%E5%9C%98%E9%9C%80%E7%94%B1%E8%AD%A6%E8%BB%8A%E9%96%8B%E8%B7%AF",
+    "timestamp": "2026-10-20T16:23:04.331Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《玉簟秋》強制愛床戲惹怒網民！丞磊徐若晗虐戀挨轟：這不是愛情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1189001790289350656918426.jpeg/Wg4Du2j5d2aD73fUfdHWErEJvfJgTyY8aTwp_Gk8Kfw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60401383/%E6%B6%88%E5%A7%94%E6%9C%83%E5%AC%B0%E5%85%92%E6%B2%90%E6%B5%B4%E9%9C%B2%E8%A9%95%E6%B8%AC-bb%E5%87%BA%E7%94%9F24%E5%B0%8F%E6%99%82%E5%85%A7%E5%8B%BF%E6%B2%96%E6%B6%BC-%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A3%E8%AD%B7%E8%86%9A%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-10-20T05:20:09.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Dr. Martens瘋馬皮不是馬皮？ 5款櫻桃紅新鞋登陸香港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189198452878217216586712.jpeg/n8Sl2suw7m4YICNXvxt1N-iOxpftVzau8kp8hvJKfIY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60400612/dr-martens%E7%98%8B%E9%A6%AC%E7%9A%AE%E4%B8%8D%E6%98%AF%E9%A6%AC%E7%9A%AE-5%E6%AC%BE%E6%AB%BB%E6%A1%83%E7%B4%85%E6%96%B0%E9%9E%8B%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF",
-    "timestamp": "2026-10-20T04:58:48.387Z",
     "strategy": ".content-card__main"
   }
 ];
