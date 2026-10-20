@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T05:46:47.342Z
+// Last updated: 2026-10-20T05:57:16.684Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "盧秀燕「臨危受命」跨市任蔣萬安競總主委　台北選戰進入衝刺階段",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189209961226309632316895.png/ejkgoxkACw6XkVA54DTwEj4bT3fGQEcF1G50NdRudDU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60401542/%E7%9B%A7%E7%A7%80%E7%87%95-%E8%87%A8%E5%8D%B1%E5%8F%97%E5%91%BD-%E8%B7%A8%E5%B8%82%E4%BB%BB%E8%94%A3%E8%90%AC%E5%AE%89%E7%AB%B6%E7%B8%BD%E4%B8%BB%E5%A7%94-%E5%8F%B0%E5%8C%97%E9%81%B8%E6%88%B0%E9%80%B2%E5%85%A5%E8%A1%9D%E5%88%BA%E9%9A%8E%E6%AE%B5",
+    "timestamp": "2026-10-20T05:57:16.684Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門內河碼頭貨船意外　男工人從高處墮甲板　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189070490921078784817953.jpeg/c7yX-k4Xx0-k6dIzrPnVet7K1Wu5_V-hoP9DoKD_Q6A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401399/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA3-1%E6%93%8A%E6%95%97%E9%AB%98%E9%9B%B2%E5%9C%B0%E5%88%A9-%E6%9C%AC%E8%B3%BD%E5%AD%A3%E8%81%AF%E8%B3%BD%E9%A6%96%E5%8B%9D",
     "timestamp": "2026-10-19T21:53:58.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜熱刺3：1擊敗高雲地利　本賽季聯賽首勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189070490921078784817953.jpeg/c7yX-k4Xx0-k6dIzrPnVet7K1Wu5_V-hoP9DoKD_Q6A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401399/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA3-1%E6%93%8A%E6%95%97%E9%AB%98%E9%9B%B2%E5%9C%B0%E5%88%A9-%E6%9C%AC%E8%B3%BD%E5%AD%A3%E8%81%AF%E8%B3%BD%E9%A6%96%E5%8B%9D",
-    "timestamp": "2026-10-19T21:45:57.073Z",
     "strategy": ".content-card__main"
   }
 ];
