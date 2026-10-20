@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T22:19:26.288Z
+// Last updated: 2026-10-20T22:44:43.669Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "史穎喬滑雪店打工幫TVB女星試身　為事業差距感emo：唔知做緊咩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189326213269688320192875.jpeg/_JVkeiTflBxZmNZubGeyJrAH6VJH-XhwM3eIXjN3iF4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401796/%E5%8F%B2%E7%A9%8E%E5%96%AC%E6%BB%91%E9%9B%AA%E5%BA%97%E6%89%93%E5%B7%A5%E5%B9%ABtvb%E5%A5%B3%E6%98%9F%E8%A9%A6%E8%BA%AB-%E7%82%BA%E4%BA%8B%E6%A5%AD%E5%B7%AE%E8%B7%9D%E6%84%9Femo-%E5%94%94%E7%9F%A5%E5%81%9A%E7%B7%8A%E5%92%A9",
+    "timestamp": "2026-10-20T22:44:43.669Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致天晴乾燥　市區最高約33度　部份地區極端酷熱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189333661451816960312648.jpeg/yR1iFwhl_5VOIy0tE8trhly7K0PCjOCWR-W7fEflu3w?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401821/%E5%B1%AF%E9%96%80%E4%BB%81%E6%84%9B%E5%A0%82%E5%9C%8D%E8%B6%8A%E5%8D%97%E6%BC%A2%E9%81%AD%E6%96%AC%E5%82%B7-%E8%85%B9%E8%88%87%E5%89%8D%E8%87%82%E4%B8%AD%E5%88%80%E9%80%81%E9%99%A2-%E8%AD%A6%E6%8C%81%E7%9B%BE%E8%BF%BD%E7%B7%9D%E5%85%A9%E5%90%8C%E9%84%89",
     "timestamp": "2026-10-20T14:20:23.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜醫師賣病假紙月賺數萬兼賣私煙：唔可以畀人查到我呢度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189322591400103936142507.jpeg/EIZCJd1ASJvWfYI820YI80H1IaUct6i5ENwbZBDcG2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401811/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%86%AB%E5%B8%AB%E8%B3%A3%E7%97%85%E5%81%87%E7%B4%99%E6%9C%88%E8%B3%BA%E6%95%B8%E8%90%AC%E5%85%BC%E8%B3%A3%E7%A7%81%E7%85%99-%E5%94%94%E5%8F%AF%E4%BB%A5%E7%95%80%E4%BA%BA%E6%9F%A5%E5%88%B0%E6%88%91%E5%91%A2%E5%BA%A6",
-    "timestamp": "2026-10-20T13:47:06.558Z",
     "strategy": ".content-card__main"
   }
 ];
