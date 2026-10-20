@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T11:23:16.205Z
+// Last updated: 2026-10-20T11:44:20.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡定欣讚嘆陳瀅裸露戲犀利　升呢人妻難再拍大尺度：年輕先有膽量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189285294575194112748532.jpeg/zZCOc_9QgFIorsL3xqMVbxTW4wmZyUZ51S82NNUvNjQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401755/%E8%83%A1%E5%AE%9A%E6%AC%A3%E8%AE%9A%E5%98%86%E9%99%B3%E7%80%85%E8%A3%B8%E9%9C%B2%E6%88%B2%E7%8A%80%E5%88%A9-%E5%8D%87%E5%91%A2%E4%BA%BA%E5%A6%BB%E9%9B%A3%E5%86%8D%E6%8B%8D%E5%A4%A7%E5%B0%BA%E5%BA%A6-%E5%B9%B4%E8%BC%95%E5%85%88%E6%9C%89%E8%86%BD%E9%87%8F",
+    "timestamp": "2026-10-20T11:44:20.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港行山節12.13舉行　推三路線圍繞荔枝窩　飽覽三椏涌海灣景色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188892673604325376831950.png/5qnTq52fFFR0ZaaqdiN1FwErUNXAXXWyfHKNSXxyjUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401266/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E5%B7%A5%E8%97%A4%E9%9D%9C%E9%A6%99%E6%9D%B1%E4%BA%AC%E9%81%9B%E7%8B%97%E8%A2%AB%E6%8D%95%E7%8D%B2-%E7%B2%89%E7%B5%B2%E8%BF%91%E8%B7%9D%E9%9B%A2%E7%9B%B4%E6%93%8A-%E8%B7%9F%E9%9B%BB%E8%A6%96%E4%B8%80%E6%A8%A3%E5%B8%A5",
     "timestamp": "2026-10-20T01:40:22.283Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣MMA｜排隊爆衝突推撞揮拳潑奶茶　警拘兩男涉公眾地方打鬥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189128417144999936740952.jpeg/mFMqSEYkP2Tdbf54qJBCa7NA5DSDHcxFn6q3fZ-qt30?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401414/%E7%AD%B2%E7%AE%95%E7%81%A3mma-%E6%8E%92%E9%9A%8A%E7%88%86%E8%A1%9D%E7%AA%81%E6%8E%A8%E6%92%9E%E6%8F%AE%E6%8B%B3%E6%BD%91%E5%A5%B6%E8%8C%B6-%E8%AD%A6%E6%8B%98%E5%85%A9%E7%94%B7%E6%B6%89%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9%E6%89%93%E9%AC%A5",
-    "timestamp": "2026-10-20T00:46:09.822Z",
     "strategy": ".content-card__main"
   }
 ];
