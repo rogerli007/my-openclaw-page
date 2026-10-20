@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T16:23:04.331Z
+// Last updated: 2026-10-20T16:49:06.121Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印度少女遭誘騙性侵拋落河　抓樹枝苦撐獲救　疑犯折返找手機被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189298215908806656170932.png/OlL69mj8TJaIaPQqPXHYTpMA8CUIwKQA6HpvKeh6byk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60400166/%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%A5%B3%E9%81%AD%E8%AA%98%E9%A8%99%E6%80%A7%E4%BE%B5%E6%8B%8B%E8%90%BD%E6%B2%B3-%E6%8A%93%E6%A8%B9%E6%9E%9D%E8%8B%A6%E6%92%90%E7%8D%B2%E6%95%91-%E7%96%91%E7%8A%AF%E6%8A%98%E8%BF%94%E6%89%BE%E6%89%8B%E6%A9%9F%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-20T16:49:06.121Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國示威｜縱橫遊取消下周出發西歐團　東瀛遊10人團需由警車開路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189207442219601920697530.jpeg/afRf5NhwboytdbBe8NuZipN4Ygo647AiL1yOuC9cjrg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401548/%E5%B1%AF%E9%96%80%E5%85%A7%E6%B2%B3%E7%A2%BC%E9%A0%AD%E8%B2%A8%E8%88%B9%E6%84%8F%E5%A4%96-%E7%94%B7%E5%B7%A5%E4%BA%BA%E5%BE%9E%E9%AB%98%E8%99%95%E5%A2%AE%E7%94%B2%E6%9D%BF-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-10-20T05:46:47.342Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會嬰兒沐浴露評測｜BB出生24小時內勿沖涼？醫生拆解護膚關鍵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1189001790289350656918426.jpeg/Wg4Du2j5d2aD73fUfdHWErEJvfJgTyY8aTwp_Gk8Kfw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60401383/%E6%B6%88%E5%A7%94%E6%9C%83%E5%AC%B0%E5%85%92%E6%B2%90%E6%B5%B4%E9%9C%B2%E8%A9%95%E6%B8%AC-bb%E5%87%BA%E7%94%9F24%E5%B0%8F%E6%99%82%E5%85%A7%E5%8B%BF%E6%B2%96%E6%B6%BC-%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A3%E8%AD%B7%E8%86%9A%E9%97%9C%E9%8D%B5",
-    "timestamp": "2026-10-20T05:20:09.170Z",
     "strategy": ".content-card__main"
   }
 ];
