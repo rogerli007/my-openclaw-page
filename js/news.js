@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T21:19:33.314Z
+// Last updated: 2026-10-20T21:34:08.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新蒲崗貨車疑失控自炒撞欄翻側　司機一度被困　自行爬出輕傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189443953347268608192308.jpeg/hzkamqD5HySU8b9mvjowVde2ezC8qL2WtmPbu4xj27s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401861/%E6%96%B0%E8%92%B2%E5%B4%97%E8%B2%A8%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84%E7%BF%BB%E5%81%B4-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E8%87%AA%E8%A1%8C%E7%88%AC%E5%87%BA%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-10-20T21:34:08.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國暴動｜電玩店長與孫悟空照片同守護店舖　無懼暴徒爆紅｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184490186147368960921354.png/RKJSbxR58sNlLxewUGMO2GOzdo0l82U2MrCygTKwsoE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60401788/%E7%B0%A1%E6%85%A7%E6%95%8F%E6%8E%A5%E6%9B%BF%E9%BB%83%E9%8C%A6%E8%BC%9D%E4%BB%BB%E6%B8%AF%E5%A4%A7%E6%A0%A1%E8%91%A3-%E4%BD%95%E5%90%9B%E5%A0%AF-%E5%A4%A7%E7%86%B1%E5%80%92%E7%81%B6-%E5%82%B3%E4%B8%BB%E5%8B%95%E6%A3%84%E4%BB%BB",
     "timestamp": "2026-10-20T12:29:24.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡定欣讚嘆陳瀅裸露戲犀利　升呢人妻難再拍大尺度：年輕先有膽量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189285294575194112748532.jpeg/zZCOc_9QgFIorsL3xqMVbxTW4wmZyUZ51S82NNUvNjQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401755/%E8%83%A1%E5%AE%9A%E6%AC%A3%E8%AE%9A%E5%98%86%E9%99%B3%E7%80%85%E8%A3%B8%E9%9C%B2%E6%88%B2%E7%8A%80%E5%88%A9-%E5%8D%87%E5%91%A2%E4%BA%BA%E5%A6%BB%E9%9B%A3%E5%86%8D%E6%8B%8D%E5%A4%A7%E5%B0%BA%E5%BA%A6-%E5%B9%B4%E8%BC%95%E5%85%88%E6%9C%89%E8%86%BD%E9%87%8F",
-    "timestamp": "2026-10-20T11:44:20.366Z",
     "strategy": ".content-card__main"
   }
 ];
