@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T02:52:37.550Z
+// Last updated: 2026-10-20T03:23:30.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門Cafe 6大推介｜大玻璃窗坐得耐+黑膠主題　1間世界級烘焙得獎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188871972054896640635819.jpeg/bfUPTFadAm_An9KKShLWVuGeNdyMHJvZ4dUsJuHVLCY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60401103/%E5%B1%AF%E9%96%80cafe-6%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%A4%A7%E7%8E%BB%E7%92%83%E7%AA%97%E5%9D%90%E5%BE%97%E8%80%90-%E9%BB%91%E8%86%A0%E4%B8%BB%E9%A1%8C-1%E9%96%93%E4%B8%96%E7%95%8C%E7%B4%9A%E7%83%98%E7%84%99%E5%BE%97%E7%8D%8E",
+    "timestamp": "2026-10-20T03:23:30.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《鐵拳教育》、《Doctor X》成年度爽劇　痛擊教育界與醫療界腐敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188363768061890560539214.jpeg/3U4CsiskfQts7Rm2GcKZTPo6p2YYMB8oj4LAZo-CwGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401396/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E6%BC%94%E8%AE%8A%E9%A8%B7%E4%BA%82-%E8%8F%AF%E4%BD%BF%E9%A0%98%E9%A4%A8%E7%B1%B2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91-%E9%81%A0%E9%9B%A2%E9%81%8A%E8%A1%8C%E7%A4%BA%E5%A8%81%E5%8D%80%E5%9F%9F",
     "timestamp": "2026-10-19T19:16:15.606Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "由零說起｜麥包當眾被羞辱：演得再好，在導演眼裡你算什麼？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188542124249845760826170.jpeg/UCJRRA-trD8hiiZk-EWqWE7Ht8eREWVgW04evVtOHr0",
-    "url": "https://www.hk01.com/01TV/60400994/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E7%95%B6%E7%9C%BE%E8%A2%AB%E7%BE%9E%E8%BE%B1-%E6%BC%94%E5%BE%97%E5%86%8D%E5%A5%BD-%E5%9C%A8%E5%B0%8E%E6%BC%94%E7%9C%BC%E8%A3%A1%E4%BD%A0%E7%AE%97%E4%BB%80%E9%BA%BC",
-    "timestamp": "2026-10-19T18:50:56.365Z",
     "strategy": ".content-card__main"
   }
 ];
