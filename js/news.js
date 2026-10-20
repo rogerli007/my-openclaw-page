@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T05:20:09.170Z
+// Last updated: 2026-10-20T05:46:47.342Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門內河碼頭貨船意外　男工人從高處墮甲板　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189207442219601920697530.jpeg/afRf5NhwboytdbBe8NuZipN4Ygo647AiL1yOuC9cjrg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401548/%E5%B1%AF%E9%96%80%E5%85%A7%E6%B2%B3%E7%A2%BC%E9%A0%AD%E8%B2%A8%E8%88%B9%E6%84%8F%E5%A4%96-%E7%94%B7%E5%B7%A5%E4%BA%BA%E5%BE%9E%E9%AB%98%E8%99%95%E5%A2%AE%E7%94%B2%E6%9D%BF-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-10-20T05:46:47.342Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會嬰兒沐浴露評測｜BB出生24小時內勿沖涼？醫生拆解護膚關鍵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189070490921078784817953.jpeg/c7yX-k4Xx0-k6dIzrPnVet7K1Wu5_V-hoP9DoKD_Q6A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401399/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA3-1%E6%93%8A%E6%95%97%E9%AB%98%E9%9B%B2%E5%9C%B0%E5%88%A9-%E6%9C%AC%E8%B3%BD%E5%AD%A3%E8%81%AF%E8%B3%BD%E9%A6%96%E5%8B%9D",
     "timestamp": "2026-10-19T21:45:57.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜熱刺3：1擊敗高雲地利　本賽季聯賽首勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189070490921078784817953.jpeg/c7yX-k4Xx0-k6dIzrPnVet7K1Wu5_V-hoP9DoKD_Q6A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401399/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA3-1%E6%93%8A%E6%95%97%E9%AB%98%E9%9B%B2%E5%9C%B0%E5%88%A9-%E6%9C%AC%E8%B3%BD%E5%AD%A3%E8%81%AF%E8%B3%BD%E9%A6%96%E5%8B%9D",
-    "timestamp": "2026-10-19T21:33:08.657Z",
     "strategy": ".content-card__main"
   }
 ];
