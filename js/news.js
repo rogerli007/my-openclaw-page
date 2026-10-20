@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T08:00:28.368Z
+// Last updated: 2026-10-20T08:26:44.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜LPR連續17個月「按兵不動」　但未來「貸款錨」要變了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250214/967029986420592640375164.jpeg/pgNtGTV2hB9_31l5_yOioRKo0EumNaOKq025bKtNuWw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60401668/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-lpr%E9%80%A3%E7%BA%8C17%E5%80%8B%E6%9C%88-%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95-%E4%BD%86%E6%9C%AA%E4%BE%86-%E8%B2%B8%E6%AC%BE%E9%8C%A8-%E8%A6%81%E8%AE%8A%E4%BA%86",
+    "timestamp": "2026-10-20T08:26:44.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姚焯菲Chantel演唱會2026澳門｜門票優先公售攻略+連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189085643364372480972450.jpeg/7Frk_fHkWtmqvxzFFUQAW9Nbx9lA1GrCE_08fhP9PH4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401402/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83-%E8%87%B3%E5%B0%9153%E6%AD%BB%E9%80%BE200%E5%82%B7",
     "timestamp": "2026-10-19T22:32:50.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日天晴乾燥　日間炎熱約32度　明日料達33度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189093499295895552407251.jpeg/a8RqwZDXeoPN_K49Ng1vCCnkg3F50bCv2UVJRNlFSUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401390/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%98%8E%E6%97%A5%E6%96%99%E9%81%9433%E5%BA%A6",
-    "timestamp": "2026-10-19T22:19:21.406Z",
     "strategy": ".content-card__main"
   }
 ];
