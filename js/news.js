@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T02:31:12.161Z
+// Last updated: 2026-10-20T02:52:37.550Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《鐵拳教育》、《Doctor X》成年度爽劇　痛擊教育界與醫療界腐敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188850278523211776264501.png/GNuoMQHhVEYSYH_AmkjjCNLRQ9Y9gVUuRJpRckSaUXI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60399091/%E9%90%B5%E6%8B%B3%E6%95%99%E8%82%B2-doctor-x-%E6%88%90%E5%B9%B4%E5%BA%A6%E7%88%BD%E5%8A%87-%E7%97%9B%E6%93%8A%E6%95%99%E8%82%B2%E7%95%8C%E8%88%87%E9%86%AB%E7%99%82%E7%95%8C%E8%85%90%E6%95%97",
+    "timestamp": "2026-10-20T02:52:37.550Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國示威｜法國政府「自食惡果」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188542124249845760826170.jpeg/UCJRRA-trD8hiiZk-EWqWE7Ht8eREWVgW04evVtOHr0",
     "url": "https://www.hk01.com/01TV/60400994/%E7%94%B1%E9%9B%B6%E8%AA%AA%E8%B5%B7-%E9%BA%A5%E5%8C%85%E7%95%B6%E7%9C%BE%E8%A2%AB%E7%BE%9E%E8%BE%B1-%E6%BC%94%E5%BE%97%E5%86%8D%E5%A5%BD-%E5%9C%A8%E5%B0%8E%E6%BC%94%E7%9C%BC%E8%A3%A1%E4%BD%A0%E7%AE%97%E4%BB%80%E9%BA%BC",
     "timestamp": "2026-10-19T18:50:56.365Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強晤伊朗副總統　籲各方盡早重啟對話化解分歧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189019985712779264103289.jpeg/SuXQrbDllfHcBQMzfU5UvC5k0yw6cmPguEb7OrhG-zo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401391/%E6%9D%8E%E5%BC%B7%E6%99%A4%E4%BC%8A%E6%9C%97%E5%89%AF%E7%B8%BD%E7%B5%B1-%E7%B1%B2%E5%90%84%E6%96%B9%E7%9B%A1%E6%97%A9%E9%87%8D%E5%95%9F%E5%B0%8D%E8%A9%B1%E5%8C%96%E8%A7%A3%E5%88%86%E6%AD%A7",
-    "timestamp": "2026-10-19T17:54:51.224Z",
     "strategy": ".content-card__main"
   }
 ];
