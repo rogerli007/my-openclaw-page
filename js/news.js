@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T12:29:24.334Z
+// Last updated: 2026-10-20T12:54:16.879Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "研究指涉兒童性罪行平均判刑偏低　最低判4.61年　促設判刑委員會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189293265069805568597130.jpeg/CUsdIxhN0cBbbTqdmEtx4vRzA_lBvNTmWEqD9VhKg_U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401786/%E7%A0%94%E7%A9%B6%E6%8C%87%E6%B6%89%E5%85%92%E7%AB%A5%E6%80%A7%E7%BD%AA%E8%A1%8C%E5%B9%B3%E5%9D%87%E5%88%A4%E5%88%91%E5%81%8F%E4%BD%8E-%E6%9C%80%E4%BD%8E%E5%88%A44-61%E5%B9%B4-%E4%BF%83%E8%A8%AD%E5%88%A4%E5%88%91%E5%A7%94%E5%93%A1%E6%9C%83",
+    "timestamp": "2026-10-20T12:54:16.879Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "簡慧敏接替黃錦輝任港大校董　何君堯「大熱倒灶」傳主動棄任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188863988901875712481652.jpeg/GAU6_S2HJ8qqSGVfLrh1o1RjJlDJrl65s0TcjLNE3Iw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401459/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E6%B3%95%E5%9C%8B%E6%94%BF%E5%BA%9C-%E8%87%AA%E9%A3%9F%E6%83%A1%E6%9E%9C",
     "timestamp": "2026-10-20T02:31:12.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利政府憂米蘭騷亂再起　將部署500軍人維持治安",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189150470510219264481690.jpeg/HBJP1MxRpmbW_U549g1Zan14XgZoOU625Gfgf-Rn4H8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401428/%E6%84%8F%E5%A4%A7%E5%88%A9%E6%94%BF%E5%BA%9C%E6%86%82%E7%B1%B3%E8%98%AD%E9%A8%B7%E4%BA%82%E5%86%8D%E8%B5%B7-%E5%B0%87%E9%83%A8%E7%BD%B2500%E8%BB%8D%E4%BA%BA%E7%B6%AD%E6%8C%81%E6%B2%BB%E5%AE%89",
-    "timestamp": "2026-10-20T02:03:13.848Z",
     "strategy": ".content-card__main"
   }
 ];
