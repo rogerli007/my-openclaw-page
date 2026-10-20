@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T04:58:48.387Z
+// Last updated: 2026-10-20T05:20:09.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會嬰兒沐浴露評測｜BB出生24小時內勿沖涼？醫生拆解護膚關鍵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1189001790289350656918426.jpeg/Wg4Du2j5d2aD73fUfdHWErEJvfJgTyY8aTwp_Gk8Kfw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60401383/%E6%B6%88%E5%A7%94%E6%9C%83%E5%AC%B0%E5%85%92%E6%B2%90%E6%B5%B4%E9%9C%B2%E8%A9%95%E6%B8%AC-bb%E5%87%BA%E7%94%9F24%E5%B0%8F%E6%99%82%E5%85%A7%E5%8B%BF%E6%B2%96%E6%B6%BC-%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A3%E8%AD%B7%E8%86%9A%E9%97%9C%E9%8D%B5",
+    "timestamp": "2026-10-20T05:20:09.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Dr. Martens瘋馬皮不是馬皮？ 5款櫻桃紅新鞋登陸香港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189070490921078784817953.jpeg/c7yX-k4Xx0-k6dIzrPnVet7K1Wu5_V-hoP9DoKD_Q6A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401399/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA3-1%E6%93%8A%E6%95%97%E9%AB%98%E9%9B%B2%E5%9C%B0%E5%88%A9-%E6%9C%AC%E8%B3%BD%E5%AD%A3%E8%81%AF%E8%B3%BD%E9%A6%96%E5%8B%9D",
     "timestamp": "2026-10-19T21:33:08.657Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄外長拉夫羅夫訪德黑蘭　分別晤伊朗總統及外長商地區局勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189060792159309824256037.jpeg/xhppDTPKPTuhhfn18OsbOr2gkfQp-qEo1uwgPtbsID4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401398/%E4%BF%84%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD-%E5%88%86%E5%88%A5%E6%99%A4%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%A4%96%E9%95%B7%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
-    "timestamp": "2026-10-19T20:55:19.187Z",
     "strategy": ".content-card__main"
   }
 ];
