@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T16:58:16.371Z
+// Last updated: 2026-10-20T17:20:36.642Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府禁用DeepSeek　中方：藉國家安全之名行打壓之實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189378366365503488251694.jpeg/-xL0jWpXFc-OW3A50Uj5Bm_pPtu04IE8yXdj0sl3Y9I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401844/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%A6%81%E7%94%A8deepseek-%E4%B8%AD%E6%96%B9-%E8%97%89%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E4%B9%8B%E5%90%8D%E8%A1%8C%E6%89%93%E5%A3%93%E4%B9%8B%E5%AF%A6",
+    "timestamp": "2026-10-20T17:20:36.642Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印度少女遭誘騙性侵拋落河　抓樹枝苦撐獲救　疑犯折返找手機被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189231617676152832018754.jpeg/2hNMBLivTHZYGc7lKB9F2w6EwhJpYMW4Ru6UWUbulFk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60401600/%E5%A7%9A%E7%84%AF%E8%8F%B2chantel%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-10-20T08:00:28.368Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "盧秀燕「臨危受命」跨市任蔣萬安競總主委　台北選戰進入衝刺階段",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189209961226309632316895.png/ejkgoxkACw6XkVA54DTwEj4bT3fGQEcF1G50NdRudDU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60401542/%E7%9B%A7%E7%A7%80%E7%87%95-%E8%87%A8%E5%8D%B1%E5%8F%97%E5%91%BD-%E8%B7%A8%E5%B8%82%E4%BB%BB%E8%94%A3%E8%90%AC%E5%AE%89%E7%AB%B6%E7%B8%BD%E4%B8%BB%E5%A7%94-%E5%8F%B0%E5%8C%97%E9%81%B8%E6%88%B0%E9%80%B2%E5%85%A5%E8%A1%9D%E5%88%BA%E9%9A%8E%E6%AE%B5",
-    "timestamp": "2026-10-20T05:57:16.684Z",
     "strategy": ".content-card__main"
   }
 ];
