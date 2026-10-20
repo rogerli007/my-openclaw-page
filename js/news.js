@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T21:46:31.927Z
+// Last updated: 2026-10-20T22:19:26.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致天晴乾燥　市區最高約33度　部份地區極端酷熱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189456489652293632204613.jpeg/b8CY42CFSNPk3O-_fm-X2urEVYGyAbUzUqxYC1KsWAs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401847/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8433%E5%BA%A6-%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1",
+    "timestamp": "2026-10-20T22:19:26.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜曼城5：1大勝AEK雅典　 利物浦4：3反勝維拉利爾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189322591400103936142507.jpeg/EIZCJd1ASJvWfYI820YI80H1IaUct6i5ENwbZBDcG2Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401811/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%86%AB%E5%B8%AB%E8%B3%A3%E7%97%85%E5%81%87%E7%B4%99%E6%9C%88%E8%B3%BA%E6%95%B8%E8%90%AC%E5%85%BC%E8%B3%A3%E7%A7%81%E7%85%99-%E5%94%94%E5%8F%AF%E4%BB%A5%E7%95%80%E4%BA%BA%E6%9F%A5%E5%88%B0%E6%88%91%E5%91%A2%E5%BA%A6",
     "timestamp": "2026-10-20T13:47:06.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "研究指涉兒童性罪行平均判刑偏低　最低判4.61年　促設判刑委員會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189293265069805568597130.jpeg/CUsdIxhN0cBbbTqdmEtx4vRzA_lBvNTmWEqD9VhKg_U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401786/%E7%A0%94%E7%A9%B6%E6%8C%87%E6%B6%89%E5%85%92%E7%AB%A5%E6%80%A7%E7%BD%AA%E8%A1%8C%E5%B9%B3%E5%9D%87%E5%88%A4%E5%88%91%E5%81%8F%E4%BD%8E-%E6%9C%80%E4%BD%8E%E5%88%A44-61%E5%B9%B4-%E4%BF%83%E8%A8%AD%E5%88%A4%E5%88%91%E5%A7%94%E5%93%A1%E6%9C%83",
-    "timestamp": "2026-10-20T12:54:16.879Z",
     "strategy": ".content-card__main"
   }
 ];
