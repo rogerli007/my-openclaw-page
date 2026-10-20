@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T19:59:06.983Z
+// Last updated: 2026-10-20T20:56:12.693Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國暴動｜電玩店長與孫悟空照片同守護店舖　無懼暴徒爆紅｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189429993143275520947325.jpeg/RdSoyDSiCU3lQZ5PaEs6TKNvfdDnEXPWok7ckaJO3JE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401856/%E6%B3%95%E5%9C%8B%E6%9A%B4%E5%8B%95-%E9%9B%BB%E7%8E%A9%E5%BA%97%E9%95%B7%E8%88%87%E5%AD%AB%E6%82%9F%E7%A9%BA%E7%85%A7%E7%89%87%E5%90%8C%E5%AE%88%E8%AD%B7%E5%BA%97%E8%88%96-%E7%84%A1%E6%87%BC%E6%9A%B4%E5%BE%92%E7%88%86%E7%B4%85-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-20T20:56:12.693Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "卡利巴夫晤巴基斯坦陸軍元帥　重申美國必須滿足伊朗7項條件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189287423297720320531487.jpeg/sGhzabdqsDXeZyAlBozphuxkDX-MgBr-n3JRMZ9yUTE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401771/%E9%A6%99%E6%B8%AF%E8%A1%8C%E5%B1%B1%E7%AF%8012-13%E8%88%89%E8%A1%8C-%E6%8E%A8%E4%B8%89%E8%B7%AF%E7%B7%9A%E5%9C%8D%E7%B9%9E%E8%8D%94%E6%9E%9D%E7%AA%A9-%E9%A3%BD%E8%A6%BD%E4%B8%89%E6%A4%8F%E6%B6%8C%E6%B5%B7%E7%81%A3%E6%99%AF%E8%89%B2",
     "timestamp": "2026-10-20T11:23:16.205Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "光纖網絡 vs 有線網絡：速度差30倍？實測延遲與頻寬三大核心分別",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189277879431598080035768.jpeg/mqKuA1ba0Ir6rCGGQeOi5uD6ZdG0gd5x24tVjtuLVY4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401705/%E5%85%89%E7%BA%96%E7%B6%B2%E7%B5%A1-vs-%E6%9C%89%E7%B7%9A%E7%B6%B2%E7%B5%A1-%E9%80%9F%E5%BA%A6%E5%B7%AE30%E5%80%8D-%E5%AF%A6%E6%B8%AC%E5%BB%B6%E9%81%B2%E8%88%87%E9%A0%BB%E5%AF%AC%E4%B8%89%E5%A4%A7%E6%A0%B8%E5%BF%83%E5%88%86%E5%88%A5",
-    "timestamp": "2026-10-20T10:57:22.044Z",
     "strategy": ".content-card__main"
   }
 ];
