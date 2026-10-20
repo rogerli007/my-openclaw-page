@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T05:57:16.684Z
+// Last updated: 2026-10-20T08:00:28.368Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姚焯菲Chantel演唱會2026澳門｜門票優先公售攻略+連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189231617676152832018754.jpeg/2hNMBLivTHZYGc7lKB9F2w6EwhJpYMW4Ru6UWUbulFk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60401600/%E5%A7%9A%E7%84%AF%E8%8F%B2chantel%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-10-20T08:00:28.368Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "盧秀燕「臨危受命」跨市任蔣萬安競總主委　台北選戰進入衝刺階段",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189093499295895552407251.jpeg/a8RqwZDXeoPN_K49Ng1vCCnkg3F50bCv2UVJRNlFSUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401390/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8432%E5%BA%A6-%E6%98%8E%E6%97%A5%E6%96%99%E9%81%9433%E5%BA%A6",
     "timestamp": "2026-10-19T22:19:21.406Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜熱刺3：1擊敗高雲地利　本賽季聯賽首勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189070490921078784817953.jpeg/c7yX-k4Xx0-k6dIzrPnVet7K1Wu5_V-hoP9DoKD_Q6A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401399/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA3-1%E6%93%8A%E6%95%97%E9%AB%98%E9%9B%B2%E5%9C%B0%E5%88%A9-%E6%9C%AC%E8%B3%BD%E5%AD%A3%E8%81%AF%E8%B3%BD%E9%A6%96%E5%8B%9D",
-    "timestamp": "2026-10-19T21:53:58.715Z",
     "strategy": ".content-card__main"
   }
 ];
