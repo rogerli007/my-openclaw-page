@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T10:18:51.636Z
+// Last updated: 2026-10-20T10:34:38.246Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網紅陳語謙乳癌化療「全身過敏發紅」　抱發燒兒哄睡淚崩：好無力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189226462004121600218947.png/k0TIXQa2O9FOddU-4et50Gr2LNGxl93L2pIdZNqSHWQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401605/%E7%B6%B2%E7%B4%85%E9%99%B3%E8%AA%9E%E8%AC%99%E4%B9%B3%E7%99%8C%E5%8C%96%E7%99%82-%E5%85%A8%E8%BA%AB%E9%81%8E%E6%95%8F%E7%99%BC%E7%B4%85-%E6%8A%B1%E7%99%BC%E7%87%92%E5%85%92%E5%93%84%E7%9D%A1%E6%B7%9A%E5%B4%A9-%E5%A5%BD%E7%84%A1%E5%8A%9B",
+    "timestamp": "2026-10-20T10:34:38.246Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "緹外2.638億沽四房四套　創今年九龍一手標準分層新高　呎價近6萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189109879495725056863745.jpeg/7Xzrnv9D1QzMd6Mq8cg7rUKyG6x6DICKRbbhZEW24WQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401404/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%8D%E7%BE%8E%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E6%85%8B%E5%BA%A6%E9%96%8B%E6%94%BE-%E6%9C%9F%E5%BE%85%E8%A8%8E%E8%AB%96%E7%84%A1%E6%A0%B8%E5%8C%96%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-10-19T23:19:33.165Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國巴黎等部份城市實施局部宵禁　總理未排除宣布緊急狀態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188357327829340160463207.jpeg/-dL8h-WEd_FpPzHBWKyO_CJzkICewZT6Z4-nuWePp7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401403/%E6%B3%95%E5%9C%8B%E5%B7%B4%E9%BB%8E%E7%AD%89%E9%83%A8%E4%BB%BD%E5%9F%8E%E5%B8%82%E5%AF%A6%E6%96%BD%E5%B1%80%E9%83%A8%E5%AE%B5%E7%A6%81-%E7%B8%BD%E7%90%86%E6%9C%AA%E6%8E%92%E9%99%A4%E5%AE%A3%E5%B8%83%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B",
-    "timestamp": "2026-10-19T22:53:54.077Z",
     "strategy": ".content-card__main"
   }
 ];
