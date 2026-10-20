@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T17:54:54.637Z
+// Last updated: 2026-10-20T19:18:20.112Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南蘇丹稱市場遭蘇丹政府軍無人機襲擊　至少153人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189397873184215040901387.jpeg/0Rsggm22GY3fbj-GqHDSnl9IqnBRZKOuH02KHh9Nih4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401851/%E5%8D%97%E8%98%87%E4%B8%B9%E7%A8%B1%E5%B8%82%E5%A0%B4%E9%81%AD%E8%98%87%E4%B8%B9%E6%94%BF%E5%BA%9C%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%91153%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-10-20T19:18:20.112Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo首發搶機不用等2027？澳門排隊／iReserve執漏風險拆解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189275421447819264382109.jpeg/3-iJh9dSLfyI47uz5e4Jnjk7dGsydSFkVd2fEFXdnxA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60401747/%E7%B7%B9%E5%A4%962-638%E5%84%84%E6%B2%BD%E5%9B%9B%E6%88%BF%E5%9B%9B%E5%A5%97-%E5%89%B5%E4%BB%8A%E5%B9%B4%E4%B9%9D%E9%BE%8D%E4%B8%80%E6%89%8B%E6%A8%99%E6%BA%96%E5%88%86%E5%B1%A4%E6%96%B0%E9%AB%98-%E5%91%8E%E5%83%B9%E8%BF%916%E8%90%AC",
     "timestamp": "2026-10-20T10:18:51.636Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台北OUTLET 3大推介｜4折起！波鞋＋名牌袋買到手軟｜附退稅攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189262557970436096756028.jpeg/2dmOXL_OArmOqlXfc7VmslNTSxbDLzLWM_W9lDP1vZQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60401712/%E5%8F%B0%E5%8C%97outlet-3%E5%A4%A7%E6%8E%A8%E4%BB%8B-4%E6%8A%98%E8%B5%B7-%E6%B3%A2%E9%9E%8B-%E5%90%8D%E7%89%8C%E8%A2%8B%E8%B2%B7%E5%88%B0%E6%89%8B%E8%BB%9F-%E9%99%84%E9%80%80%E7%A8%85%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-10-20T09:21:49.319Z",
     "strategy": ".content-card__main"
   }
 ];
