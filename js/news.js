@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T04:47:20.385Z
+// Last updated: 2026-10-20T04:58:48.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Dr. Martens瘋馬皮不是馬皮？ 5款櫻桃紅新鞋登陸香港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189198452878217216586712.jpeg/n8Sl2suw7m4YICNXvxt1N-iOxpftVzau8kp8hvJKfIY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60400612/dr-martens%E7%98%8B%E9%A6%AC%E7%9A%AE%E4%B8%8D%E6%98%AF%E9%A6%AC%E7%9A%AE-5%E6%AC%BE%E6%AB%BB%E6%A1%83%E7%B4%85%E6%96%B0%E9%9E%8B%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF",
+    "timestamp": "2026-10-20T04:58:48.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "39歲華裔女子倫敦遭刺斃　細14歲印度男友被判囚28年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189060792159309824256037.jpeg/xhppDTPKPTuhhfn18OsbOr2gkfQp-qEo1uwgPtbsID4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401398/%E4%BF%84%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD-%E5%88%86%E5%88%A5%E6%99%A4%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%A4%96%E9%95%B7%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
     "timestamp": "2026-10-19T20:55:19.187Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄外長拉夫羅夫訪德黑蘭　分別晤伊朗總統及外長商地區局勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189060792159309824256037.jpeg/xhppDTPKPTuhhfn18OsbOr2gkfQp-qEo1uwgPtbsID4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401398/%E4%BF%84%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD-%E5%88%86%E5%88%A5%E6%99%A4%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%A4%96%E9%95%B7%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
-    "timestamp": "2026-10-19T20:45:29.973Z",
     "strategy": ".content-card__main"
   }
 ];
