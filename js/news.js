@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T09:21:49.319Z
+// Last updated: 2026-10-20T10:18:51.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "緹外2.638億沽四房四套　創今年九龍一手標準分層新高　呎價近6萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189275421447819264382109.jpeg/3-iJh9dSLfyI47uz5e4Jnjk7dGsydSFkVd2fEFXdnxA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60401747/%E7%B7%B9%E5%A4%962-638%E5%84%84%E6%B2%BD%E5%9B%9B%E6%88%BF%E5%9B%9B%E5%A5%97-%E5%89%B5%E4%BB%8A%E5%B9%B4%E4%B9%9D%E9%BE%8D%E4%B8%80%E6%89%8B%E6%A8%99%E6%BA%96%E5%88%86%E5%B1%A4%E6%96%B0%E9%AB%98-%E5%91%8E%E5%83%B9%E8%BF%916%E8%90%AC",
+    "timestamp": "2026-10-20T10:18:51.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台北OUTLET 3大推介｜4折起！波鞋＋名牌袋買到手軟｜附退稅攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188357327829340160463207.jpeg/-dL8h-WEd_FpPzHBWKyO_CJzkICewZT6Z4-nuWePp7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401403/%E6%B3%95%E5%9C%8B%E5%B7%B4%E9%BB%8E%E7%AD%89%E9%83%A8%E4%BB%BD%E5%9F%8E%E5%B8%82%E5%AF%A6%E6%96%BD%E5%B1%80%E9%83%A8%E5%AE%B5%E7%A6%81-%E7%B8%BD%E7%90%86%E6%9C%AA%E6%8E%92%E9%99%A4%E5%AE%A3%E5%B8%83%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B",
     "timestamp": "2026-10-19T22:53:54.077Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國巴黎等部份城市實施局部宵禁　總理未排除宣布緊急狀態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188357327829340160463207.jpeg/-dL8h-WEd_FpPzHBWKyO_CJzkICewZT6Z4-nuWePp7k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401403/%E6%B3%95%E5%9C%8B%E5%B7%B4%E9%BB%8E%E7%AD%89%E9%83%A8%E4%BB%BD%E5%9F%8E%E5%B8%82%E5%AF%A6%E6%96%BD%E5%B1%80%E9%83%A8%E5%AE%B5%E7%A6%81-%E7%B8%BD%E7%90%86%E6%9C%AA%E6%8E%92%E9%99%A4%E5%AE%A3%E5%B8%83%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B",
-    "timestamp": "2026-10-19T22:44:24.840Z",
     "strategy": ".content-card__main"
   }
 ];
