@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-19T23:54:49.435Z
+// Last updated: 2026-10-20T00:46:09.822Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筲箕灣MMA｜排隊爆衝突推撞揮拳潑奶茶　警拘兩男涉公眾地方打鬥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189128417144999936740952.jpeg/mFMqSEYkP2Tdbf54qJBCa7NA5DSDHcxFn6q3fZ-qt30?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401414/%E7%AD%B2%E7%AE%95%E7%81%A3mma-%E6%8E%92%E9%9A%8A%E7%88%86%E8%A1%9D%E7%AA%81%E6%8E%A8%E6%92%9E%E6%8F%AE%E6%8B%B3%E6%BD%91%E5%A5%B6%E8%8C%B6-%E8%AD%A6%E6%8B%98%E5%85%A9%E7%94%B7%E6%B6%89%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9%E6%89%93%E9%AC%A5",
+    "timestamp": "2026-10-20T00:46:09.822Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英擬對華電動車加徵關稅　中國商務部：勿隨歐起舞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189019985712779264103289.jpeg/SuXQrbDllfHcBQMzfU5UvC5k0yw6cmPguEb7OrhG-zo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401391/%E6%9D%8E%E5%BC%B7%E6%99%A4%E4%BC%8A%E6%9C%97%E5%89%AF%E7%B8%BD%E7%B5%B1-%E7%B1%B2%E5%90%84%E6%96%B9%E7%9B%A1%E6%97%A9%E9%87%8D%E5%95%9F%E5%B0%8D%E8%A9%B1%E5%8C%96%E8%A7%A3%E5%88%86%E6%AD%A7",
     "timestamp": "2026-10-19T17:22:11.863Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜倪嘉雯被古天祥強姦再跳樓　高海寧全集最性感在這一秒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188996870823743488853172.jpeg/N1Y-kR8X_-I2kkUhmii2-xMjQ9MuF0Mj9y081PctPNQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401378/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%80%AA%E5%98%89%E9%9B%AF%E8%A2%AB%E5%8F%A4%E5%A4%A9%E7%A5%A5%E5%BC%B7%E5%A7%A6%E5%86%8D%E8%B7%B3%E6%A8%93-%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%85%A8%E9%9B%86%E6%9C%80%E6%80%A7%E6%84%9F%E5%9C%A8%E9%80%99%E4%B8%80%E7%A7%92",
-    "timestamp": "2026-10-19T16:47:53.548Z",
     "strategy": ".content-card__main"
   }
 ];
