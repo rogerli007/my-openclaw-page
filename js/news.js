@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T10:57:22.044Z
+// Last updated: 2026-10-20T11:23:16.205Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港行山節12.13舉行　推三路線圍繞荔枝窩　飽覽三椏涌海灣景色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189287423297720320531487.jpeg/sGhzabdqsDXeZyAlBozphuxkDX-MgBr-n3JRMZ9yUTE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401771/%E9%A6%99%E6%B8%AF%E8%A1%8C%E5%B1%B1%E7%AF%8012-13%E8%88%89%E8%A1%8C-%E6%8E%A8%E4%B8%89%E8%B7%AF%E7%B7%9A%E5%9C%8D%E7%B9%9E%E8%8D%94%E6%9E%9D%E7%AA%A9-%E9%A3%BD%E8%A6%BD%E4%B8%89%E6%A4%8F%E6%B6%8C%E6%B5%B7%E7%81%A3%E6%99%AF%E8%89%B2",
+    "timestamp": "2026-10-20T11:23:16.205Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "光纖網絡 vs 有線網絡：速度差30倍？實測延遲與頻寬三大核心分別",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189128417144999936740952.jpeg/mFMqSEYkP2Tdbf54qJBCa7NA5DSDHcxFn6q3fZ-qt30?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401414/%E7%AD%B2%E7%AE%95%E7%81%A3mma-%E6%8E%92%E9%9A%8A%E7%88%86%E8%A1%9D%E7%AA%81%E6%8E%A8%E6%92%9E%E6%8F%AE%E6%8B%B3%E6%BD%91%E5%A5%B6%E8%8C%B6-%E8%AD%A6%E6%8B%98%E5%85%A9%E7%94%B7%E6%B6%89%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9%E6%89%93%E9%AC%A5",
     "timestamp": "2026-10-20T00:46:09.822Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英擬對華電動車加徵關稅　中國商務部：勿隨歐起舞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231219/813851237488267264164735.jpeg/1FpIIQL-NFpIdTRARRPMki47NPEN586CgLmo_IC5qPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401392/%E8%8B%B1%E6%93%AC%E5%B0%8D%E8%8F%AF%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8B%BF%E9%9A%A8%E6%AD%90%E8%B5%B7%E8%88%9E",
-    "timestamp": "2026-10-19T23:54:49.435Z",
     "strategy": ".content-card__main"
   }
 ];
