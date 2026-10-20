@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T00:46:09.822Z
+// Last updated: 2026-10-20T01:40:22.283Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "木村拓哉工藤靜香東京遛狗被捕獲　粉絲近距離直擊：跟電視一樣帥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188892673604325376831950.png/5qnTq52fFFR0ZaaqdiN1FwErUNXAXXWyfHKNSXxyjUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401266/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E5%B7%A5%E8%97%A4%E9%9D%9C%E9%A6%99%E6%9D%B1%E4%BA%AC%E9%81%9B%E7%8B%97%E8%A2%AB%E6%8D%95%E7%8D%B2-%E7%B2%89%E7%B5%B2%E8%BF%91%E8%B7%9D%E9%9B%A2%E7%9B%B4%E6%93%8A-%E8%B7%9F%E9%9B%BB%E8%A6%96%E4%B8%80%E6%A8%A3%E5%B8%A5",
+    "timestamp": "2026-10-20T01:40:22.283Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣MMA｜排隊爆衝突推撞揮拳潑奶茶　警拘兩男涉公眾地方打鬥",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189019985712779264103289.jpeg/SuXQrbDllfHcBQMzfU5UvC5k0yw6cmPguEb7OrhG-zo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401391/%E6%9D%8E%E5%BC%B7%E6%99%A4%E4%BC%8A%E6%9C%97%E5%89%AF%E7%B8%BD%E7%B5%B1-%E7%B1%B2%E5%90%84%E6%96%B9%E7%9B%A1%E6%97%A9%E9%87%8D%E5%95%9F%E5%B0%8D%E8%A9%B1%E5%8C%96%E8%A7%A3%E5%88%86%E6%AD%A7",
     "timestamp": "2026-10-19T17:32:17.099Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強晤伊朗副總統　籲各方盡早重啟對話化解分歧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189019985712779264103289.jpeg/SuXQrbDllfHcBQMzfU5UvC5k0yw6cmPguEb7OrhG-zo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401391/%E6%9D%8E%E5%BC%B7%E6%99%A4%E4%BC%8A%E6%9C%97%E5%89%AF%E7%B8%BD%E7%B5%B1-%E7%B1%B2%E5%90%84%E6%96%B9%E7%9B%A1%E6%97%A9%E9%87%8D%E5%95%9F%E5%B0%8D%E8%A9%B1%E5%8C%96%E8%A7%A3%E5%88%86%E6%AD%A7",
-    "timestamp": "2026-10-19T17:22:11.863Z",
     "strategy": ".content-card__main"
   }
 ];
