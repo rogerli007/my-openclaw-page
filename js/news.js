@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T08:26:44.582Z
+// Last updated: 2026-10-20T09:21:49.319Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台北OUTLET 3大推介｜4折起！波鞋＋名牌袋買到手軟｜附退稅攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189262557970436096756028.jpeg/2dmOXL_OArmOqlXfc7VmslNTSxbDLzLWM_W9lDP1vZQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60401712/%E5%8F%B0%E5%8C%97outlet-3%E5%A4%A7%E6%8E%A8%E4%BB%8B-4%E6%8A%98%E8%B5%B7-%E6%B3%A2%E9%9E%8B-%E5%90%8D%E7%89%8C%E8%A2%8B%E8%B2%B7%E5%88%B0%E6%89%8B%E8%BB%9F-%E9%99%84%E9%80%80%E7%A8%85%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-10-20T09:21:49.319Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜LPR連續17個月「按兵不動」　但未來「貸款錨」要變了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188357327829340160463207.jpeg/-dL8h-WEd_FpPzHBWKyO_CJzkICewZT6Z4-nuWePp7k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401403/%E6%B3%95%E5%9C%8B%E5%B7%B4%E9%BB%8E%E7%AD%89%E9%83%A8%E4%BB%BD%E5%9F%8E%E5%B8%82%E5%AF%A6%E6%96%BD%E5%B1%80%E9%83%A8%E5%AE%B5%E7%A6%81-%E7%B8%BD%E7%90%86%E6%9C%AA%E6%8E%92%E9%99%A4%E5%AE%A3%E5%B8%83%E7%B7%8A%E6%80%A5%E7%8B%80%E6%85%8B",
     "timestamp": "2026-10-19T22:44:24.840Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡塞武裝襲也門政府軍訓練中心　至少53死逾200傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189085643364372480972450.jpeg/7Frk_fHkWtmqvxzFFUQAW9Nbx9lA1GrCE_08fhP9PH4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401402/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83-%E8%87%B3%E5%B0%9153%E6%AD%BB%E9%80%BE200%E5%82%B7",
-    "timestamp": "2026-10-19T22:32:50.366Z",
     "strategy": ".content-card__main"
   }
 ];
