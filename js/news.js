@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T14:49:41.005Z
+// Last updated: 2026-10-20T14:58:32.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美女網紅一隻阿圓是誰？創旅遊+美食頻道百萬訂閱　與陳百祥情斷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189264085309460480724589.png/0wZ5L3YmTGOt-v-jZ0gtzSwOCfU_bxjf_M3VavzN1Wo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401637/%E7%BE%8E%E5%A5%B3%E7%B6%B2%E7%B4%85%E4%B8%80%E9%9A%BB%E9%98%BF%E5%9C%93%E6%98%AF%E8%AA%B0-%E5%89%B5%E6%97%85%E9%81%8A-%E7%BE%8E%E9%A3%9F%E9%A0%BB%E9%81%93%E7%99%BE%E8%90%AC%E8%A8%82%E9%96%B1-%E8%88%87%E9%99%B3%E7%99%BE%E7%A5%A5%E6%83%85%E6%96%B7",
+    "timestamp": "2026-10-20T14:58:32.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜鴨脷洲大橋男子危坐電箱　3小時後獲消防救返安全位置",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189193738795094016045923.png/zq4tAmZQRS8ahQ_suoZxf0sO5mq6nP2JVhNrxVYTa8U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401541/39%E6%AD%B2%E8%8F%AF%E8%A3%94%E5%A5%B3%E5%AD%90%E5%80%AB%E6%95%A6%E9%81%AD%E5%88%BA%E6%96%83-%E7%B4%B014%E6%AD%B2%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%8F%8B%E8%A2%AB%E5%88%A4%E5%9B%9A28%E5%B9%B4",
     "timestamp": "2026-10-20T04:47:20.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特處決一對孟加拉男女　涉清真寺內作「不檢行為」褻瀆伊斯蘭教",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20201111/403311983903903744378640.jpeg/H9fSl4ftdOl0ZGA0lS7J8RGLL_W4NdjH_b3rZf2962U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401509/%E6%B2%99%E7%89%B9%E8%99%95%E6%B1%BA%E4%B8%80%E5%B0%8D%E5%AD%9F%E5%8A%A0%E6%8B%89%E7%94%B7%E5%A5%B3-%E6%B6%89%E6%B8%85%E7%9C%9F%E5%AF%BA%E5%85%A7%E4%BD%9C-%E4%B8%8D%E6%AA%A2%E8%A1%8C%E7%82%BA-%E8%A4%BB%E7%80%86%E4%BC%8A%E6%96%AF%E8%98%AD%E6%95%99",
-    "timestamp": "2026-10-20T03:50:29.338Z",
     "strategy": ".content-card__main"
   }
 ];
