@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T17:46:10.043Z
+// Last updated: 2026-10-20T17:54:54.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo首發搶機不用等2027？澳門排隊／iReserve執漏風險拆解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189386816877236224156708.jpeg/YX2kLS3Fd9LhDXD3kjdNHgqYjz7nzQcG9XHUAPVx1AA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401840/iphone-duo%E9%A6%96%E7%99%BC%E6%90%B6%E6%A9%9F%E4%B8%8D%E7%94%A8%E7%AD%892027-%E6%BE%B3%E9%96%80%E6%8E%92%E9%9A%8A-ireserve%E5%9F%B7%E6%BC%8F%E9%A2%A8%E9%9A%AA%E6%8B%86%E8%A7%A3",
+    "timestamp": "2026-10-20T17:54:54.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo首發搶機不用等2027？澳門排隊／iReserve執漏風險拆解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189262557970436096756028.jpeg/2dmOXL_OArmOqlXfc7VmslNTSxbDLzLWM_W9lDP1vZQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60401712/%E5%8F%B0%E5%8C%97outlet-3%E5%A4%A7%E6%8E%A8%E4%BB%8B-4%E6%8A%98%E8%B5%B7-%E6%B3%A2%E9%9E%8B-%E5%90%8D%E7%89%8C%E8%A2%8B%E8%B2%B7%E5%88%B0%E6%89%8B%E8%BB%9F-%E9%99%84%E9%80%80%E7%A8%85%E6%94%BB%E7%95%A5",
     "timestamp": "2026-10-20T09:21:49.319Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜LPR連續17個月「按兵不動」　但未來「貸款錨」要變了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250214/967029986420592640375164.jpeg/pgNtGTV2hB9_31l5_yOioRKo0EumNaOKq025bKtNuWw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60401668/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-lpr%E9%80%A3%E7%BA%8C17%E5%80%8B%E6%9C%88-%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95-%E4%BD%86%E6%9C%AA%E4%BE%86-%E8%B2%B8%E6%AC%BE%E9%8C%A8-%E8%A6%81%E8%AE%8A%E4%BA%86",
-    "timestamp": "2026-10-20T08:26:44.582Z",
     "strategy": ".content-card__main"
   }
 ];
