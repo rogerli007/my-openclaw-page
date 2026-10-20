@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T14:20:23.347Z
+// Last updated: 2026-10-20T14:49:41.005Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜鴨脷洲大橋男子危坐電箱　3小時後獲消防救返安全位置",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189341515168616448907614.png/_qV_SQdT3IwN6sV4JccR9ySeNdaSmAy33BP4ftwT-H4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401826/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%B4%A8%E8%84%B7%E6%B4%B2%E5%A4%A7%E6%A9%8B%E7%94%B7%E5%AD%90%E5%8D%B1%E5%9D%90%E9%9B%BB%E7%AE%B1-3%E5%B0%8F%E6%99%82%E5%BE%8C%E7%8D%B2%E6%B6%88%E9%98%B2%E6%95%91%E8%BF%94%E5%AE%89%E5%85%A8%E4%BD%8D%E7%BD%AE",
+    "timestamp": "2026-10-20T14:49:41.005Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門仁愛堂圍越南漢遭斬傷　腹與前臂中刀送院　警持盾追緝兩同鄉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20201111/403311983903903744378640.jpeg/H9fSl4ftdOl0ZGA0lS7J8RGLL_W4NdjH_b3rZf2962U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401509/%E6%B2%99%E7%89%B9%E8%99%95%E6%B1%BA%E4%B8%80%E5%B0%8D%E5%AD%9F%E5%8A%A0%E6%8B%89%E7%94%B7%E5%A5%B3-%E6%B6%89%E6%B8%85%E7%9C%9F%E5%AF%BA%E5%85%A7%E4%BD%9C-%E4%B8%8D%E6%AA%A2%E8%A1%8C%E7%82%BA-%E8%A4%BB%E7%80%86%E4%BC%8A%E6%96%AF%E8%98%AD%E6%95%99",
     "timestamp": "2026-10-20T03:50:29.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門Cafe 6大推介｜大玻璃窗坐得耐+黑膠主題　1間世界級烘焙得獎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188871972054896640635819.jpeg/bfUPTFadAm_An9KKShLWVuGeNdyMHJvZ4dUsJuHVLCY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60401103/%E5%B1%AF%E9%96%80cafe-6%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%A4%A7%E7%8E%BB%E7%92%83%E7%AA%97%E5%9D%90%E5%BE%97%E8%80%90-%E9%BB%91%E8%86%A0%E4%B8%BB%E9%A1%8C-1%E9%96%93%E4%B8%96%E7%95%8C%E7%B4%9A%E7%83%98%E7%84%99%E5%BE%97%E7%8D%8E",
-    "timestamp": "2026-10-20T03:23:30.746Z",
     "strategy": ".content-card__main"
   }
 ];
