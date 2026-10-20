@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T10:47:27.983Z
+// Last updated: 2026-10-20T10:57:22.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "光纖網絡 vs 有線網絡：速度差30倍？實測延遲與頻寬三大核心分別",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189277879431598080035768.jpeg/mqKuA1ba0Ir6rCGGQeOi5uD6ZdG0gd5x24tVjtuLVY4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401705/%E5%85%89%E7%BA%96%E7%B6%B2%E7%B5%A1-vs-%E6%9C%89%E7%B7%9A%E7%B6%B2%E7%B5%A1-%E9%80%9F%E5%BA%A6%E5%B7%AE30%E5%80%8D-%E5%AF%A6%E6%B8%AC%E5%BB%B6%E9%81%B2%E8%88%87%E9%A0%BB%E5%AF%AC%E4%B8%89%E5%A4%A7%E6%A0%B8%E5%BF%83%E5%88%86%E5%88%A5",
+    "timestamp": "2026-10-20T10:57:22.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博：英國將向沙特派戰鬥機　保護城市和基礎設施免受胡塞襲擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231219/813851237488267264164735.jpeg/1FpIIQL-NFpIdTRARRPMki47NPEN586CgLmo_IC5qPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401392/%E8%8B%B1%E6%93%AC%E5%B0%8D%E8%8F%AF%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8B%BF%E9%9A%A8%E6%AD%90%E8%B5%B7%E8%88%9E",
     "timestamp": "2026-10-19T23:54:49.435Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英擬對華電動車加徵關稅　中國商務部：勿隨歐起舞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231219/813851237488267264164735.jpeg/1FpIIQL-NFpIdTRARRPMki47NPEN586CgLmo_IC5qPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401392/%E8%8B%B1%E6%93%AC%E5%B0%8D%E8%8F%AF%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%8B%BF%E9%9A%A8%E6%AD%90%E8%B5%B7%E8%88%9E",
-    "timestamp": "2026-10-19T23:45:59.805Z",
     "strategy": ".content-card__main"
   }
 ];
