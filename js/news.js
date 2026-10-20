@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T11:44:20.366Z
+// Last updated: 2026-10-20T12:29:24.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "簡慧敏接替黃錦輝任港大校董　何君堯「大熱倒灶」傳主動棄任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261007/1184490186147368960921354.png/RKJSbxR58sNlLxewUGMO2GOzdo0l82U2MrCygTKwsoE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60401788/%E7%B0%A1%E6%85%A7%E6%95%8F%E6%8E%A5%E6%9B%BF%E9%BB%83%E9%8C%A6%E8%BC%9D%E4%BB%BB%E6%B8%AF%E5%A4%A7%E6%A0%A1%E8%91%A3-%E4%BD%95%E5%90%9B%E5%A0%AF-%E5%A4%A7%E7%86%B1%E5%80%92%E7%81%B6-%E5%82%B3%E4%B8%BB%E5%8B%95%E6%A3%84%E4%BB%BB",
+    "timestamp": "2026-10-20T12:29:24.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡定欣讚嘆陳瀅裸露戲犀利　升呢人妻難再拍大尺度：年輕先有膽量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189150470510219264481690.jpeg/HBJP1MxRpmbW_U549g1Zan14XgZoOU625Gfgf-Rn4H8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401428/%E6%84%8F%E5%A4%A7%E5%88%A9%E6%94%BF%E5%BA%9C%E6%86%82%E7%B1%B3%E8%98%AD%E9%A8%B7%E4%BA%82%E5%86%8D%E8%B5%B7-%E5%B0%87%E9%83%A8%E7%BD%B2500%E8%BB%8D%E4%BA%BA%E7%B6%AD%E6%8C%81%E6%B2%BB%E5%AE%89",
     "timestamp": "2026-10-20T02:03:13.848Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "木村拓哉工藤靜香東京遛狗被捕獲　粉絲近距離直擊：跟電視一樣帥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188892673604325376831950.png/5qnTq52fFFR0ZaaqdiN1FwErUNXAXXWyfHKNSXxyjUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401266/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E5%B7%A5%E8%97%A4%E9%9D%9C%E9%A6%99%E6%9D%B1%E4%BA%AC%E9%81%9B%E7%8B%97%E8%A2%AB%E6%8D%95%E7%8D%B2-%E7%B2%89%E7%B5%B2%E8%BF%91%E8%B7%9D%E9%9B%A2%E7%9B%B4%E6%93%8A-%E8%B7%9F%E9%9B%BB%E8%A6%96%E4%B8%80%E6%A8%A3%E5%B8%A5",
-    "timestamp": "2026-10-20T01:40:22.283Z",
     "strategy": ".content-card__main"
   }
 ];
