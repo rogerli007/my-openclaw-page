@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T03:23:30.746Z
+// Last updated: 2026-10-20T03:50:29.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特處決一對孟加拉男女　涉清真寺內作「不檢行為」褻瀆伊斯蘭教",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20201111/403311983903903744378640.jpeg/H9fSl4ftdOl0ZGA0lS7J8RGLL_W4NdjH_b3rZf2962U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401509/%E6%B2%99%E7%89%B9%E8%99%95%E6%B1%BA%E4%B8%80%E5%B0%8D%E5%AD%9F%E5%8A%A0%E6%8B%89%E7%94%B7%E5%A5%B3-%E6%B6%89%E6%B8%85%E7%9C%9F%E5%AF%BA%E5%85%A7%E4%BD%9C-%E4%B8%8D%E6%AA%A2%E8%A1%8C%E7%82%BA-%E8%A4%BB%E7%80%86%E4%BC%8A%E6%96%AF%E8%98%AD%E6%95%99",
+    "timestamp": "2026-10-20T03:50:29.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門Cafe 6大推介｜大玻璃窗坐得耐+黑膠主題　1間世界級烘焙得獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189060792159309824256037.jpeg/xhppDTPKPTuhhfn18OsbOr2gkfQp-qEo1uwgPtbsID4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401398/%E4%BF%84%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD-%E5%88%86%E5%88%A5%E6%99%A4%E4%BC%8A%E6%9C%97%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%A4%96%E9%95%B7%E5%95%86%E5%9C%B0%E5%8D%80%E5%B1%80%E5%8B%A2",
     "timestamp": "2026-10-19T20:21:07.567Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國示威演變騷亂　華使領館籲中國公民：遠離遊行示威區域",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188363768061890560539214.jpeg/3U4CsiskfQts7Rm2GcKZTPo6p2YYMB8oj4LAZo-CwGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401396/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E6%BC%94%E8%AE%8A%E9%A8%B7%E4%BA%82-%E8%8F%AF%E4%BD%BF%E9%A0%98%E9%A4%A8%E7%B1%B2%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91-%E9%81%A0%E9%9B%A2%E9%81%8A%E8%A1%8C%E7%A4%BA%E5%A8%81%E5%8D%80%E5%9F%9F",
-    "timestamp": "2026-10-19T19:16:15.606Z",
     "strategy": ".content-card__main"
   }
 ];
