@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T19:49:40.826Z
+// Last updated: 2026-10-20T19:59:06.983Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "卡利巴夫晤巴基斯坦陸軍元帥　重申美國必須滿足伊朗7項條件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134952206840107008961378.png/YVGUoCzvqdvK1TXYNzFoENTPY_YuRTdjdvJ-wHbyfsA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401855/%E5%8D%A1%E5%88%A9%E5%B7%B4%E5%A4%AB%E6%99%A4%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%99%B8%E8%BB%8D%E5%85%83%E5%B8%A5-%E9%87%8D%E7%94%B3%E7%BE%8E%E5%9C%8B%E5%BF%85%E9%A0%88%E6%BB%BF%E8%B6%B3%E4%BC%8A%E6%9C%977%E9%A0%85%E6%A2%9D%E4%BB%B6",
+    "timestamp": "2026-10-20T19:59:06.983Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南蘇丹稱市場遭蘇丹政府軍無人機襲擊　至少153人死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189277879431598080035768.jpeg/mqKuA1ba0Ir6rCGGQeOi5uD6ZdG0gd5x24tVjtuLVY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401705/%E5%85%89%E7%BA%96%E7%B6%B2%E7%B5%A1-vs-%E6%9C%89%E7%B7%9A%E7%B6%B2%E7%B5%A1-%E9%80%9F%E5%BA%A6%E5%B7%AE30%E5%80%8D-%E5%AF%A6%E6%B8%AC%E5%BB%B6%E9%81%B2%E8%88%87%E9%A0%BB%E5%AF%AC%E4%B8%89%E5%A4%A7%E6%A0%B8%E5%BF%83%E5%88%86%E5%88%A5",
     "timestamp": "2026-10-20T10:57:22.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博：英國將向沙特派戰鬥機　保護城市和基礎設施免受胡塞襲擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184077308793720832089412.jpeg/sz5yeSCnpDjq72COJse4kh6DP-beqIyBTL1JT0y9SU8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401772/%E5%BD%AD%E5%8D%9A-%E8%8B%B1%E5%9C%8B%E5%B0%87%E5%90%91%E6%B2%99%E7%89%B9%E6%B4%BE%E6%88%B0%E9%AC%A5%E6%A9%9F-%E4%BF%9D%E8%AD%B7%E5%9F%8E%E5%B8%82%E5%92%8C%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%E5%85%8D%E5%8F%97%E8%83%A1%E5%A1%9E%E8%A5%B2%E6%93%8A",
-    "timestamp": "2026-10-20T10:47:27.983Z",
     "strategy": ".content-card__main"
   }
 ];
