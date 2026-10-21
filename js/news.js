@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T20:56:39.686Z
+// Last updated: 2026-10-21T21:34:57.852Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普特使晤普京　感謝釋放被囚公民　稱對方人道主義者｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189798715137724416928356.jpeg/245H3hH9SeOXGoJazej3wxoEz1AyYI6vEkfrtBJH67Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402282/%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B9%E4%BD%BF%E6%99%A4%E6%99%AE%E4%BA%AC-%E6%84%9F%E8%AC%9D%E9%87%8B%E6%94%BE%E8%A2%AB%E5%9B%9A%E5%85%AC%E6%B0%91-%E7%A8%B1%E5%B0%8D%E6%96%B9%E4%BA%BA%E9%81%93%E4%B8%BB%E7%BE%A9%E8%80%85-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-21T21:34:57.852Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金鐘私家車撞壆翻側　34歲男司機涉醉駕被捕　輕傷送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189685321533493248057962.jpeg/AX8TWGwEzfW8CTuDRGX8TRHz0EVmVWZLdOtSC3TrUgs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402228/%E6%97%85%E7%99%BC%E5%B1%80%E6%8E%A8-%E9%A6%99%E6%B8%AF%E9%80%A3%E5%A0%B4%E5%A5%BD%E6%88%B2-%E6%97%85%E9%81%8A%E6%8C%87%E5%8D%97-%E7%B2%BE%E9%81%B8%E9%80%BE%E7%99%BE%E9%9B%BB%E5%BD%B1%E5%9C%B0%E6%A8%99%E6%8E%A8%E4%B8%BB%E9%A1%8C%E6%97%85%E9%81%8A",
     "timestamp": "2026-10-21T13:57:17.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國Mckenzie即食火雞胸或涉貯存溫度不當　食安中心飭停售及回收",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099114637883871232359617.jpeg/cM3gMHbWFXT7UC0ywvc1sM06HHMzqqc5m2WmeZtlpnk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402231/%E7%BE%8E%E5%9C%8Bmckenzie%E5%8D%B3%E9%A3%9F%E7%81%AB%E9%9B%9E%E8%83%B8%E6%88%96%E6%B6%89%E8%B2%AF%E5%AD%98%E6%BA%AB%E5%BA%A6%E4%B8%8D%E7%95%B6-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E9%A3%AD%E5%81%9C%E5%94%AE%E5%8F%8A%E5%9B%9E%E6%94%B6",
-    "timestamp": "2026-10-21T13:46:01.980Z",
     "strategy": ".content-card__main"
   }
 ];
