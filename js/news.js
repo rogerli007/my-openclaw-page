@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T22:18:20.127Z
+// Last updated: 2026-10-21T22:51:34.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳男子遇襲負傷自行求醫　頭手有刀傷　醫院通知警方緝兇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189826352136589312673458.jpeg/eCLeDYHwM2Ag5e2lFwQykqF-Ddbdmk4hWGKSf2Jikn8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402292/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%94%B7%E5%AD%90%E9%81%87%E8%A5%B2%E8%B2%A0%E5%82%B7%E8%87%AA%E8%A1%8C%E6%B1%82%E9%86%AB-%E9%A0%AD%E6%89%8B%E6%9C%89%E5%88%80%E5%82%B7-%E9%86%AB%E9%99%A2%E9%80%9A%E7%9F%A5%E8%AD%A6%E6%96%B9%E7%B7%9D%E5%85%87",
+    "timestamp": "2026-10-21T22:51:34.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致天晴　日間炎熱乾燥　市區最高約32度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189583666641113088563491.jpeg/h2ZnxOPwrYqjPCZ1JIQj8vzJ2SIf1ucGK7TV7Cu01ew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401514/%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9C%8B-%E5%A4%A7%E6%89%B9%E8%8F%AF%E4%BA%BA%E5%8F%8A%E7%95%99%E5%AD%B8%E7%94%9F%E7%AA%81%E6%94%B6%E9%80%9A%E7%9F%A5-%E5%88%B0%E6%89%8B%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%B0%BD%E8%AD%89%E7%84%A1%E6%95%85%E8%A2%AB%E6%92%A4%E9%8A%B7",
     "timestamp": "2026-10-21T15:47:21.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段靠穩　納指最新升約200點　SpaceX漲9%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230925/783117037625937920649301.jpeg/orpR8pJdLX4rvMU_ZBGmlOhW4Jzaovx3PSZJcj0mSXI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60402251/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E9%9D%A0%E7%A9%A9-%E7%B4%8D%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87%E7%B4%84200%E9%BB%9E-spacex%E6%BC%B29",
-    "timestamp": "2026-10-21T15:20:19.626Z",
     "strategy": ".content-card__main"
   }
 ];
