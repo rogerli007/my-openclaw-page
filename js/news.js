@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T03:50:16.495Z
+// Last updated: 2026-10-21T04:01:30.630Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美副總統萬斯：反對烏克蘭入北約　拒認烏克蘭為美國盟友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189258983785893888617054.jpeg/EeLpvDIVGFdruRVS54NXAn_KRWXsr-PupRdvU6UXb1M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401915/%E7%BE%8E%E5%89%AF%E7%B8%BD%E7%B5%B1%E8%90%AC%E6%96%AF-%E5%8F%8D%E5%B0%8D%E7%83%8F%E5%85%8B%E8%98%AD%E5%85%A5%E5%8C%97%E7%B4%84-%E6%8B%92%E8%AA%8D%E7%83%8F%E5%85%8B%E8%98%AD%E7%82%BA%E7%BE%8E%E5%9C%8B%E7%9B%9F%E5%8F%8B",
+    "timestamp": "2026-10-21T04:01:30.630Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "騙徒自稱「消防隊長」要診所代訂電動輪椅　消防處澄清：絕無此事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134952206840107008961378.png/YVGUoCzvqdvK1TXYNzFoENTPY_YuRTdjdvJ-wHbyfsA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401855/%E5%8D%A1%E5%88%A9%E5%B7%B4%E5%A4%AB%E6%99%A4%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%99%B8%E8%BB%8D%E5%85%83%E5%B8%A5-%E9%87%8D%E7%94%B3%E7%BE%8E%E5%9C%8B%E5%BF%85%E9%A0%88%E6%BB%BF%E8%B6%B3%E4%BC%8A%E6%9C%977%E9%A0%85%E6%A2%9D%E4%BB%B6",
     "timestamp": "2026-10-20T19:59:06.983Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南蘇丹稱市場遭蘇丹政府軍無人機襲擊　至少153人死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189397873184215040901387.jpeg/0Rsggm22GY3fbj-GqHDSnl9IqnBRZKOuH02KHh9Nih4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401851/%E5%8D%97%E8%98%87%E4%B8%B9%E7%A8%B1%E5%B8%82%E5%A0%B4%E9%81%AD%E8%98%87%E4%B8%B9%E6%94%BF%E5%BA%9C%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%91153%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-10-20T19:49:40.826Z",
     "strategy": ".content-card__main"
   }
 ];
