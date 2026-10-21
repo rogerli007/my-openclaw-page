@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T02:54:22.844Z
+// Last updated: 2026-10-21T03:50:16.495Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "騙徒自稱「消防隊長」要診所代訂電動輪椅　消防處澄清：絕無此事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189540602899861504407385.png/mN8dF9dJ6lDN3WPAmH2xU5LaU4jgL2k_xVWIgcVViIE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401960/%E9%A8%99%E5%BE%92%E8%87%AA%E7%A8%B1-%E6%B6%88%E9%98%B2%E9%9A%8A%E9%95%B7-%E8%A6%81%E8%A8%BA%E6%89%80%E4%BB%A3%E8%A8%82%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85-%E6%B6%88%E9%98%B2%E8%99%95%E6%BE%84%E6%B8%85-%E7%B5%95%E7%84%A1%E6%AD%A4%E4%BA%8B",
+    "timestamp": "2026-10-21T03:50:16.495Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美防長赫格塞思稱準備好恢復攻擊伊朗　巴基斯坦再訪德黑蘭斡旋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189397873184215040901387.jpeg/0Rsggm22GY3fbj-GqHDSnl9IqnBRZKOuH02KHh9Nih4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401851/%E5%8D%97%E8%98%87%E4%B8%B9%E7%A8%B1%E5%B8%82%E5%A0%B4%E9%81%AD%E8%98%87%E4%B8%B9%E6%94%BF%E5%BA%9C%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%91153%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-10-20T19:49:40.826Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南蘇丹稱市場遭蘇丹政府軍無人機襲擊　至少153人死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189397873184215040901387.jpeg/0Rsggm22GY3fbj-GqHDSnl9IqnBRZKOuH02KHh9Nih4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401851/%E5%8D%97%E8%98%87%E4%B8%B9%E7%A8%B1%E5%B8%82%E5%A0%B4%E9%81%AD%E8%98%87%E4%B8%B9%E6%94%BF%E5%BA%9C%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%91153%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-10-20T19:32:29.291Z",
     "strategy": ".content-card__main"
   }
 ];
