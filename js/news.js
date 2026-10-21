@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T13:21:48.219Z
+// Last updated: 2026-10-21T13:46:01.980Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國Mckenzie即食火雞胸或涉貯存溫度不當　食安中心飭停售及回收",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099114637883871232359617.jpeg/cM3gMHbWFXT7UC0ywvc1sM06HHMzqqc5m2WmeZtlpnk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402231/%E7%BE%8E%E5%9C%8Bmckenzie%E5%8D%B3%E9%A3%9F%E7%81%AB%E9%9B%9E%E8%83%B8%E6%88%96%E6%B6%89%E8%B2%AF%E5%AD%98%E6%BA%AB%E5%BA%A6%E4%B8%8D%E7%95%B6-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E9%A3%AD%E5%81%9C%E5%94%AE%E5%8F%8A%E5%9B%9E%E6%94%B6",
+    "timestamp": "2026-10-21T13:46:01.980Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁朝偉被捕獲新座駕　開500萬限量跑車現身山路　帥氣身影引熱議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189570730149285888287036.jpeg/cIOao6BCEc-E3sVYxUTRbzZh-PQ8KoEGJKLVCySi1Qs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60401917/%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%80%8E%E9%BA%BC%E9%81%B8-%E8%B3%87%E6%B7%B1%E7%A9%BA%E5%A7%90%E9%BB%9E%E5%90%8D2%E6%AC%BE%E5%88%A5%E8%B2%B7-%E7%A1%AC%E6%AE%BC%E6%98%93%E6%92%9E%E7%88%9B-%E8%80%90%E6%91%94%E9%81%B8%E9%80%99%E6%AC%BE",
     "timestamp": "2026-10-21T05:46:22.254Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趙薇神隱5年現身獅城公開活動　號召力顏值不減當年妙答何時復出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189559075403206656695307.jpeg/ym0FtS68ScrSUGyiUkSSOGrsfgKn2aNvsRKHprESh6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401996/%E8%B6%99%E8%96%87%E7%A5%9E%E9%9A%B15%E5%B9%B4%E7%8F%BE%E8%BA%AB%E7%8D%85%E5%9F%8E%E5%85%AC%E9%96%8B%E6%B4%BB%E5%8B%95-%E8%99%9F%E5%8F%AC%E5%8A%9B%E9%A1%8F%E5%80%BC%E4%B8%8D%E6%B8%9B%E7%95%B6%E5%B9%B4%E5%A6%99%E7%AD%94%E4%BD%95%E6%99%82%E5%BE%A9%E5%87%BA",
-    "timestamp": "2026-10-21T05:21:24.637Z",
     "strategy": ".content-card__main"
   }
 ];
