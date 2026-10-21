@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T23:32:30.590Z
+// Last updated: 2026-10-21T23:45:26.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜高海寧晚裝暗藏機心　一舉手側門大開曼妙身材藏不住",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189764929465356288921476.jpeg/lxiUh4MqjLrabUiigxLrlKRx0UOJXoodoy0Mp6MtDKc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402273/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%99%9A%E8%A3%9D%E6%9A%97%E8%97%8F%E6%A9%9F%E5%BF%83-%E4%B8%80%E8%88%89%E6%89%8B%E5%81%B4%E9%96%80%E5%A4%A7%E9%96%8B%E6%9B%BC%E5%A6%99%E8%BA%AB%E6%9D%90%E8%97%8F%E4%B8%8D%E4%BD%8F",
+    "timestamp": "2026-10-21T23:45:26.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高鐵售貨員首次執勤緊張到握拳打氣　乘客暖心關顧　網民意見兩極",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189727811150024704406925.jpeg/v9lkTME2qODFGYM2Q7GkV9p1I1xhTmbNj3HysY9x8rE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402262/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E9%84%A7%E5%AE%B6%E5%BD%AA-%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A89%E9%83%A8%E5%8D%87%E9%99%8D%E6%A9%9F-%E5%B7%B2%E6%96%BC%E5%81%87%E6%9C%9F%E9%87%8D%E8%A3%9D%E8%80%90%E7%81%AB%E9%96%80%E6%A1%86",
     "timestamp": "2026-10-21T16:20:50.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美人余劇情｜最新追劇日曆/更新時間+演員關係圖+角色簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184165712462090240972831.jpeg/0e08iXKRhy103y4CgsuWBwueln5TqRThuea6drnmunY",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396827/%E7%BE%8E%E4%BA%BA%E4%BD%99%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-10-21T15:59:10.644Z",
     "strategy": ".content-card__main"
   }
 ];
