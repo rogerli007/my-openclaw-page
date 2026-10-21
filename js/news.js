@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T16:20:50.968Z
+// Last updated: 2026-10-21T17:17:32.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "父遛狗12分鐘2歲兒獨留家墮樓亡　提月給¥1萬求不離婚　妻怒追責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189697983654924288025614.png/BMCz8xXhTxxFhQWyt9RwDEgIslcWvmutWdfSuFnX0rg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60401955/%E7%88%B6%E9%81%9B%E7%8B%9712%E5%88%86%E9%90%982%E6%AD%B2%E5%85%92%E7%8D%A8%E7%95%99%E5%AE%B6%E5%A2%AE%E6%A8%93%E4%BA%A1-%E6%8F%90%E6%9C%88%E7%B5%A6-1%E8%90%AC%E6%B1%82%E4%B8%8D%E9%9B%A2%E5%A9%9A-%E5%A6%BB%E6%80%92%E8%BF%BD%E8%B2%AC",
+    "timestamp": "2026-10-21T17:17:32.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯｜鄧家彪：翠屏北邨9部升降機　已於假期重裝耐火門框",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189614065811460096712046.jpeg/EWU5N0bEnfwAYMthULGSKeEAHvpqPf7tMDPtzjAz7c4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402086/%E9%84%A7%E5%85%86%E5%B0%8A%E7%88%86-%E9%9B%86%E9%83%B5%E5%A5%B3%E6%98%9F-%E9%99%B3%E7%85%92%E8%A2%AB%E5%88%97%E5%AB%8C%E7%96%91%E4%BA%BA%E5%84%AA%E9%9B%85%E5%9B%9E%E6%87%89-%E7%A7%81%E4%B8%8B%E5%86%87%E4%BB%BB%E4%BD%95%E8%81%AF%E7%B5%A1",
     "timestamp": "2026-10-21T08:52:58.986Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直資擴容｜教局：本學年14間直資校取錄海外生　共170人按年增13%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250510/997853125039755264531684.jpeg/YN7B6ss0ZMnCjZFGeIG3jpYLda-hDT8MB6Ba1i2gWtY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402081/%E7%9B%B4%E8%B3%87%E6%93%B4%E5%AE%B9-%E6%95%99%E5%B1%80-%E6%9C%AC%E5%AD%B8%E5%B9%B414%E9%96%93%E7%9B%B4%E8%B3%87%E6%A0%A1%E5%8F%96%E9%8C%84%E6%B5%B7%E5%A4%96%E7%94%9F-%E5%85%B1170%E4%BA%BA%E6%8C%89%E5%B9%B4%E5%A2%9E13",
-    "timestamp": "2026-10-21T08:31:37.295Z",
     "strategy": ".content-card__main"
   }
 ];
