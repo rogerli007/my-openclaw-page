@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T02:34:21.828Z
+// Last updated: 2026-10-21T02:54:22.844Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美防長赫格塞思稱準備好恢復攻擊伊朗　巴基斯坦再訪德黑蘭斡旋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177973480163905536072938.jpeg/ukAEFtSrjcMdrCWxlj_onZOi1ORro_YrtUrdrrVK3a4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401933/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E7%A8%B1%E6%BA%96%E5%82%99%E5%A5%BD%E6%81%A2%E5%BE%A9%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%8D%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD%E6%96%A1%E6%97%8B",
+    "timestamp": "2026-10-21T02:54:22.844Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗公路泥頭車與貨車相撞　一人受傷曾被困　往元朗交通擠塞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189397873184215040901387.jpeg/0Rsggm22GY3fbj-GqHDSnl9IqnBRZKOuH02KHh9Nih4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401851/%E5%8D%97%E8%98%87%E4%B8%B9%E7%A8%B1%E5%B8%82%E5%A0%B4%E9%81%AD%E8%98%87%E4%B8%B9%E6%94%BF%E5%BA%9C%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%91153%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-10-20T19:32:29.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南蘇丹稱市場遭蘇丹政府軍無人機襲擊　至少153人死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189397873184215040901387.jpeg/0Rsggm22GY3fbj-GqHDSnl9IqnBRZKOuH02KHh9Nih4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401851/%E5%8D%97%E8%98%87%E4%B8%B9%E7%A8%B1%E5%B8%82%E5%A0%B4%E9%81%AD%E8%98%87%E4%B8%B9%E6%94%BF%E5%BA%9C%E8%BB%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A-%E8%87%B3%E5%B0%91153%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-10-20T19:18:20.112Z",
     "strategy": ".content-card__main"
   }
 ];
