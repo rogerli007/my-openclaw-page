@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T20:19:32.354Z
+// Last updated: 2026-10-21T20:35:57.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金鐘私家車撞壆翻側　34歲男司機涉醉駕被捕　輕傷送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189789056825823232351029.jpeg/3v6jrwkbQH6WWnRx7K8Jj1jvCZjRYGARAIqRnzqKkZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402280/%E9%87%91%E9%90%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-34%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-10-21T20:35:57.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東京大學校長遴選爆爭議　當選人得票少對手一半　文科省促說明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189642080851333120247183.png/Ec7Mh9r1Q8-KkX_sEGVAdjaY4jTN2ZH7pTKYwqUymMI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402167/%E6%A2%81%E6%9C%9D%E5%81%89%E8%A2%AB%E6%8D%95%E7%8D%B2%E6%96%B0%E5%BA%A7%E9%A7%95-%E9%96%8B500%E8%90%AC%E9%99%90%E9%87%8F%E8%B7%91%E8%BB%8A%E7%8F%BE%E8%BA%AB%E5%B1%B1%E8%B7%AF-%E5%B8%A5%E6%B0%A3%E8%BA%AB%E5%BD%B1%E5%BC%95%E7%86%B1%E8%AD%B0",
     "timestamp": "2026-10-21T13:21:48.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "酷熱天氣｜天文台︰香港去年平均24.3度大灣區最熱　較肇慶高2度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189661812103057408139586.jpeg/SsYtE49j4EMISEQiK5Ppbzk6rYkm28ovq-_4KI7v-Cg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60402201/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E9%A6%99%E6%B8%AF%E5%8E%BB%E5%B9%B4%E5%B9%B3%E5%9D%8724-3%E5%BA%A6%E5%A4%A7%E7%81%A3%E5%8D%80%E6%9C%80%E7%86%B1-%E8%BC%83%E8%82%87%E6%85%B6%E9%AB%982%E5%BA%A6",
-    "timestamp": "2026-10-21T12:28:24.846Z",
     "strategy": ".content-card__main"
   }
 ];
