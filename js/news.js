@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T19:43:54.972Z
+// Last updated: 2026-10-21T20:19:32.354Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東京大學校長遴選爆爭議　當選人得票少對手一半　文科省促說明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250810/1031216473231724544746502.jpeg/GiP_hE9QnYz83NuI18xBWMPYA7F2sUpMYPinEWD4pxE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402278/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%B8%E6%A0%A1%E9%95%B7%E9%81%B4%E9%81%B8%E7%88%86%E7%88%AD%E8%AD%B0-%E7%95%B6%E9%81%B8%E4%BA%BA%E5%BE%97%E7%A5%A8%E5%B0%91%E5%B0%8D%E6%89%8B%E4%B8%80%E5%8D%8A-%E6%96%87%E7%A7%91%E7%9C%81%E4%BF%83%E8%AA%AA%E6%98%8E",
+    "timestamp": "2026-10-21T20:19:32.354Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜曼聯作客1：4大敗　科木尼高柏斯梅開二度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189661812103057408139586.jpeg/SsYtE49j4EMISEQiK5Ppbzk6rYkm28ovq-_4KI7v-Cg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60402201/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E9%A6%99%E6%B8%AF%E5%8E%BB%E5%B9%B4%E5%B9%B3%E5%9D%8724-3%E5%BA%A6%E5%A4%A7%E7%81%A3%E5%8D%80%E6%9C%80%E7%86%B1-%E8%BC%83%E8%82%87%E6%85%B6%E9%AB%982%E5%BA%A6",
     "timestamp": "2026-10-21T12:28:24.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Candy@COLLAR拍劇獻真初吻　Ivy So激動回應︰你守咗4年喇！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189656587199844352748659.jpeg/S0NBOulbgleuZv9aw-rMrGCFYHJbactpFDfSVBQ30lQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402199/candy-collar%E6%8B%8D%E5%8A%87%E7%8D%BB%E7%9C%9F%E5%88%9D%E5%90%BB-ivy-so%E6%BF%80%E5%8B%95%E5%9B%9E%E6%87%89-%E4%BD%A0%E5%AE%88%E5%92%974%E5%B9%B4%E5%96%87",
-    "timestamp": "2026-10-21T11:56:51.219Z",
     "strategy": ".content-card__main"
   }
 ];
