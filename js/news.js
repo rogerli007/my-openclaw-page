@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T07:49:35.980Z
+// Last updated: 2026-10-21T08:01:41.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》編輯部收英國空郵寄港粉末信　警方接報到場調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189604309734526976164570.jpeg/vdbOxMdohocoZwQ-NdJssXBFVHRDnCCAowKqXKMCqlw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402089/%E9%A6%99%E6%B8%AF01-%E7%B7%A8%E8%BC%AF%E9%83%A8%E6%94%B6%E8%8B%B1%E5%9C%8B%E7%A9%BA%E9%83%B5%E5%AF%84%E6%B8%AF%E7%B2%89%E6%9C%AB%E4%BF%A1-%E8%AD%A6%E6%96%B9%E6%8E%A5%E5%A0%B1%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-10-21T08:01:41.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "久守必失！騰訊瀉近4% 　400元關口淪陷！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189263791968227328912634.png/AOpaKkhApbasT4NITOS9gLYRQFmniuotvWzG1L1sxtQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60401424/%E5%A2%A8%E7%88%BE%E6%9C%AC%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E9%81%AD%E5%81%87%E5%85%AC%E5%AE%89%E8%A9%90%E9%A8%99-%E6%90%8D%E5%A4%B1-200%E8%90%AC-%E8%BA%AB%E4%BB%BD%E6%A0%B8%E6%9F%A5-%E6%8B%8D%E8%A3%B8%E7%85%A7",
     "timestamp": "2026-10-20T23:18:05.704Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "史穎喬滑雪店打工幫TVB女星試身　為事業差距感emo：唔知做緊咩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189326213269688320192875.jpeg/_JVkeiTflBxZmNZubGeyJrAH6VJH-XhwM3eIXjN3iF4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401796/%E5%8F%B2%E7%A9%8E%E5%96%AC%E6%BB%91%E9%9B%AA%E5%BA%97%E6%89%93%E5%B7%A5%E5%B9%ABtvb%E5%A5%B3%E6%98%9F%E8%A9%A6%E8%BA%AB-%E7%82%BA%E4%BA%8B%E6%A5%AD%E5%B7%AE%E8%B7%9D%E6%84%9Femo-%E5%94%94%E7%9F%A5%E5%81%9A%E7%B7%8A%E5%92%A9",
-    "timestamp": "2026-10-20T22:54:18.707Z",
     "strategy": ".content-card__main"
   }
 ];
