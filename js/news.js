@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T09:21:35.491Z
+// Last updated: 2026-10-21T09:47:46.151Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天瑜醫療事故｜死因庭、醫委會「互相等待」　林志釉指情況少見",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220131/564787448433872896562081.jpeg/6Iz2nwP4h1ee5KR4GlXgUTAfiLO2eagLmSYrzpkmK84?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402123/%E5%A4%A9%E7%91%9C%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E6%AD%BB%E5%9B%A0%E5%BA%AD-%E9%86%AB%E5%A7%94%E6%9C%83-%E4%BA%92%E7%9B%B8%E7%AD%89%E5%BE%85-%E6%9E%97%E5%BF%97%E9%87%89%E6%8C%87%E6%83%85%E6%B3%81%E5%B0%91%E8%A6%8B",
+    "timestamp": "2026-10-21T09:47:46.151Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "艾伯塔省獨立公投「留加」派大勝　加拿大總理：期待攜手前行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189493211962281984213569.png/ADLZDRB_IJ_E2dt0F3tqiT2Rt_QSCp70ydwrRcncK0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401879/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%933%E8%BB%8A%E7%9B%B8%E6%92%9E%E6%A9%AB%E8%B7%A82%E8%A1%8C%E8%BB%8A%E7%B7%9A-%E7%AE%A1%E9%81%93%E5%85%A7%E6%85%A2%E7%B7%9A%E5%B0%81%E9%96%89-%E7%8F%BE%E6%99%82%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-10-21T00:45:11.093Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寧德時代第三季度淨利212億元　按年增長14.54%　按月降5%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182290269803253760438672.jpeg/OCj4nrThSlJV2-5FxBkxvpQk4kJlhBxStDCKZLQwimQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60401871/%E5%AF%A7%E5%BE%B7%E6%99%82%E4%BB%A3%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%B7%A8%E5%88%A9212%E5%84%84%E5%85%83-%E6%8C%89%E5%B9%B4%E5%A2%9E%E9%95%B714-54-%E6%8C%89%E6%9C%88%E9%99%8D5",
-    "timestamp": "2026-10-20T23:55:09.994Z",
     "strategy": ".content-card__main"
   }
 ];
