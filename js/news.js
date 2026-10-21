@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T17:32:47.849Z
+// Last updated: 2026-10-21T17:46:48.733Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓球亞錦賽︱港隊男、女團8強止步　雙打強勢持續3對組合晉16強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189749302910521344325609.jpeg/qdFKxviJ0OReMI0vdRSaGjA0D94vHk90kRLAHZESwB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402260/%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7-%E5%A5%B3%E5%9C%988%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%9B%99%E6%89%93%E5%BC%B7%E5%8B%A2%E6%8C%81%E7%BA%8C3%E5%B0%8D%E7%B5%84%E5%90%88%E6%99%8916%E5%BC%B7",
+    "timestamp": "2026-10-21T17:46:48.733Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓球亞錦賽︱港隊男、女團8強止步　雙打強勢持續3對組合晉16強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220131/564787448433872896562081.jpeg/6Iz2nwP4h1ee5KR4GlXgUTAfiLO2eagLmSYrzpkmK84?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402123/%E5%A4%A9%E7%91%9C%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E6%AD%BB%E5%9B%A0%E5%BA%AD-%E9%86%AB%E5%A7%94%E6%9C%83-%E4%BA%92%E7%9B%B8%E7%AD%89%E5%BE%85-%E6%9E%97%E5%BF%97%E9%87%89%E6%8C%87%E6%83%85%E6%B3%81%E5%B0%91%E8%A6%8B",
     "timestamp": "2026-10-21T09:47:46.151Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "艾伯塔省獨立公投「留加」派大勝　加拿大總理：期待攜手前行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189231466492465152165028.jpeg/-7Xgh4K_U6GrKv5pc2bN3PMS_Vv73SzelBArcZQQK3E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402019/%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81%E7%8D%A8%E7%AB%8B%E5%85%AC%E6%8A%95-%E7%95%99%E5%8A%A0-%E6%B4%BE%E5%A4%A7%E5%8B%9D-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86-%E6%9C%9F%E5%BE%85%E6%94%9C%E6%89%8B%E5%89%8D%E8%A1%8C",
-    "timestamp": "2026-10-21T09:21:35.491Z",
     "strategy": ".content-card__main"
   }
 ];
