@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-20T23:55:09.994Z
+// Last updated: 2026-10-21T00:45:11.093Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仔隧道3車相撞橫跨2行車線　管道內慢線封閉　現時交通擠塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189493211962281984213569.png/ADLZDRB_IJ_E2dt0F3tqiT2Rt_QSCp70ydwrRcncK0U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401879/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%933%E8%BB%8A%E7%9B%B8%E6%92%9E%E6%A9%AB%E8%B7%A82%E8%A1%8C%E8%BB%8A%E7%B7%9A-%E7%AE%A1%E9%81%93%E5%85%A7%E6%85%A2%E7%B7%9A%E5%B0%81%E9%96%89-%E7%8F%BE%E6%99%82%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
+    "timestamp": "2026-10-21T00:45:11.093Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寧德時代第三季度淨利212億元　按年增長14.54%　按月降5%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189298215908806656170932.png/OlL69mj8TJaIaPQqPXHYTpMA8CUIwKQA6HpvKeh6byk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60400166/%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%A5%B3%E9%81%AD%E8%AA%98%E9%A8%99%E6%80%A7%E4%BE%B5%E6%8B%8B%E8%90%BD%E6%B2%B3-%E6%8A%93%E6%A8%B9%E6%9E%9D%E8%8B%A6%E6%92%90%E7%8D%B2%E6%95%91-%E7%96%91%E7%8A%AF%E6%8A%98%E8%BF%94%E6%89%BE%E6%89%8B%E6%A9%9F%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-20T16:58:16.371Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度少女遭誘騙性侵拋落河　抓樹枝苦撐獲救　疑犯折返找手機被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189298215908806656170932.png/OlL69mj8TJaIaPQqPXHYTpMA8CUIwKQA6HpvKeh6byk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60400166/%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%A5%B3%E9%81%AD%E8%AA%98%E9%A8%99%E6%80%A7%E4%BE%B5%E6%8B%8B%E8%90%BD%E6%B2%B3-%E6%8A%93%E6%A8%B9%E6%9E%9D%E8%8B%A6%E6%92%90%E7%8D%B2%E6%95%91-%E7%96%91%E7%8A%AF%E6%8A%98%E8%BF%94%E6%89%BE%E6%89%8B%E6%A9%9F%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-20T16:49:06.121Z",
     "strategy": ".content-card__main"
   }
 ];
