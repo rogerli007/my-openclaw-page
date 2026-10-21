@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T07:01:33.861Z
+// Last updated: 2026-10-21T07:29:44.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新娘婚禮送RTX 5090顯卡價值9.4萬港幣　新郎當場落淚激動高舉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189586587449561088861295.jpeg/DmdBZzFGjdMJ2OIgkUjBQ06VEnPnQ-xNwX2q78F9qu8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60402042/%E6%96%B0%E5%A8%98%E5%A9%9A%E7%A6%AE%E9%80%81rtx-5090%E9%A1%AF%E5%8D%A1%E5%83%B9%E5%80%BC9-4%E8%90%AC%E6%B8%AF%E5%B9%A3-%E6%96%B0%E9%83%8E%E7%95%B6%E5%A0%B4%E8%90%BD%E6%B7%9A%E6%BF%80%E5%8B%95%E9%AB%98%E8%88%89",
+    "timestamp": "2026-10-21T07:29:44.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美人餘｜喬振宇佈局五年「吃李一桐絕戶」　家中保姆是謀財共犯？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189326213269688320192875.jpeg/_JVkeiTflBxZmNZubGeyJrAH6VJH-XhwM3eIXjN3iF4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401796/%E5%8F%B2%E7%A9%8E%E5%96%AC%E6%BB%91%E9%9B%AA%E5%BA%97%E6%89%93%E5%B7%A5%E5%B9%ABtvb%E5%A5%B3%E6%98%9F%E8%A9%A6%E8%BA%AB-%E7%82%BA%E4%BA%8B%E6%A5%AD%E5%B7%AE%E8%B7%9D%E6%84%9Femo-%E5%94%94%E7%9F%A5%E5%81%9A%E7%B7%8A%E5%92%A9",
     "timestamp": "2026-10-20T22:44:43.669Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致天晴乾燥　市區最高約33度　部份地區極端酷熱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189456489652293632204613.jpeg/b8CY42CFSNPk3O-_fm-X2urEVYGyAbUzUqxYC1KsWAs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401847/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8433%E5%BA%A6-%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1",
-    "timestamp": "2026-10-20T22:19:26.288Z",
     "strategy": ".content-card__main"
   }
 ];
