@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T15:59:10.644Z
+// Last updated: 2026-10-21T16:20:50.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臺日電梯｜鄧家彪：翠屏北邨9部升降機　已於假期重裝耐火門框",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189727811150024704406925.jpeg/v9lkTME2qODFGYM2Q7GkV9p1I1xhTmbNj3HysY9x8rE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402262/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E9%84%A7%E5%AE%B6%E5%BD%AA-%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A89%E9%83%A8%E5%8D%87%E9%99%8D%E6%A9%9F-%E5%B7%B2%E6%96%BC%E5%81%87%E6%9C%9F%E9%87%8D%E8%A3%9D%E8%80%90%E7%81%AB%E9%96%80%E6%A1%86",
+    "timestamp": "2026-10-21T16:20:50.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美人余劇情｜最新追劇日曆/更新時間+演員關係圖+角色簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250510/997853125039755264531684.jpeg/YN7B6ss0ZMnCjZFGeIG3jpYLda-hDT8MB6Ba1i2gWtY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402081/%E7%9B%B4%E8%B3%87%E6%93%B4%E5%AE%B9-%E6%95%99%E5%B1%80-%E6%9C%AC%E5%AD%B8%E5%B9%B414%E9%96%93%E7%9B%B4%E8%B3%87%E6%A0%A1%E5%8F%96%E9%8C%84%E6%B5%B7%E5%A4%96%E7%94%9F-%E5%85%B1170%E4%BA%BA%E6%8C%89%E5%B9%B4%E5%A2%9E13",
     "timestamp": "2026-10-21T08:31:37.295Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》編輯部收英國空郵寄港粉末信　警方接報到場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189604309734526976164570.jpeg/vdbOxMdohocoZwQ-NdJssXBFVHRDnCCAowKqXKMCqlw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402089/%E9%A6%99%E6%B8%AF01-%E7%B7%A8%E8%BC%AF%E9%83%A8%E6%94%B6%E8%8B%B1%E5%9C%8B%E7%A9%BA%E9%83%B5%E5%AF%84%E6%B8%AF%E7%B2%89%E6%9C%AB%E4%BF%A1-%E8%AD%A6%E6%96%B9%E6%8E%A5%E5%A0%B1%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-10-21T08:01:41.718Z",
     "strategy": ".content-card__main"
   }
 ];
