@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T10:57:25.885Z
+// Last updated: 2026-10-21T11:19:25.670Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "手球中超總決賽｜港男子隊主場出擊　馬鞍山體育館鬥中國各省列強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189643306062057472928071.jpeg/tPT9tsQymew8f3PsqgRNiFxqRX4HnAUwJ87_4SfO_-E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402018/%E6%89%8B%E7%90%83%E4%B8%AD%E8%B6%85%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E6%B8%AF%E7%94%B7%E5%AD%90%E9%9A%8A%E4%B8%BB%E5%A0%B4%E5%87%BA%E6%93%8A-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E9%AB%94%E8%82%B2%E9%A4%A8%E9%AC%A5%E4%B8%AD%E5%9C%8B%E5%90%84%E7%9C%81%E5%88%97%E5%BC%B7",
+    "timestamp": "2026-10-21T11:19:25.670Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何君堯「大熱倒灶」失落港大校董：每個層次有唔同睇法　大局考量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189515918565183488421370.jpeg/gC4e3EThaUezf3vNecDzugug9mk8FjI4xefWG8Xn1hs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401898/%E5%85%83%E6%9C%97%E5%85%AC%E8%B7%AF%E6%B3%A5%E9%A0%AD%E8%BB%8A%E8%88%87%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E4%B8%80%E4%BA%BA%E5%8F%97%E5%82%B7%E6%9B%BE%E8%A2%AB%E5%9B%B0-%E5%BE%80%E5%85%83%E6%9C%97%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-10-21T02:34:21.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台積電高雄廠工人連鋼樑一同高空墜地釀4死　疑螺栓突斷裂肇禍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189514656406835200019485.jpeg/czIRJ_-duAQ6OnZ5Xt1chKLOx1RHCbM3wk4618JOOtc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60401894/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%AB%98%E9%9B%84%E5%BB%A0%E5%B7%A5%E4%BA%BA%E9%80%A3%E9%8B%BC%E6%A8%91%E4%B8%80%E5%90%8C%E9%AB%98%E7%A9%BA%E5%A2%9C%E5%9C%B0%E9%87%804%E6%AD%BB-%E7%96%91%E8%9E%BA%E6%A0%93%E7%AA%81%E6%96%B7%E8%A3%82%E8%82%87%E7%A6%8D",
-    "timestamp": "2026-10-21T02:04:17.863Z",
     "strategy": ".content-card__main"
   }
 ];
