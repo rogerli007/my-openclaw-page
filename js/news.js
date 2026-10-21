@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T06:31:34.006Z
+// Last updated: 2026-10-21T07:01:33.861Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美人餘｜喬振宇佈局五年「吃李一桐絕戶」　家中保姆是謀財共犯？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189559948816683008427160.png/nY40DgMYOnvjSf4v5zpvvtkUAUz97acCFJIGrBSSBqw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60401931/%E7%BE%8E%E4%BA%BA%E9%A4%98-%E5%96%AC%E6%8C%AF%E5%AE%87%E4%BD%88%E5%B1%80%E4%BA%94%E5%B9%B4-%E5%90%83%E6%9D%8E%E4%B8%80%E6%A1%90%E7%B5%95%E6%88%B6-%E5%AE%B6%E4%B8%AD%E4%BF%9D%E5%A7%86%E6%98%AF%E8%AC%80%E8%B2%A1%E5%85%B1%E7%8A%AF",
+    "timestamp": "2026-10-21T07:01:33.861Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜龍尾村鄰居稱嗅到青紅蘿蔔湯味　即聯想起食物並叫外賣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189456489652293632204613.jpeg/b8CY42CFSNPk3O-_fm-X2urEVYGyAbUzUqxYC1KsWAs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60401847/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8433%E5%BA%A6-%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%80%E6%A5%B5%E7%AB%AF%E9%85%B7%E7%86%B1",
     "timestamp": "2026-10-20T22:19:26.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜曼城5：1大勝AEK雅典　 利物浦4：3反勝維拉利爾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189438791832834048651348.jpeg/_bSTLk3PeA3t4OfSkuUG5m36s7h-uVcdGA0ybhgNMm4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401858/%E6%AD%90%E8%81%AF-%E6%9B%BC%E5%9F%8E5-1%E5%A4%A7%E5%8B%9Daek%E9%9B%85%E5%85%B8-%E5%88%A9%E7%89%A9%E6%B5%A64-3%E5%8F%8D%E5%8B%9D%E7%B6%AD%E6%8B%89%E5%88%A9%E7%88%BE",
-    "timestamp": "2026-10-20T21:46:31.927Z",
     "strategy": ".content-card__main"
   }
 ];
