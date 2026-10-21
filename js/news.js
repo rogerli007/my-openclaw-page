@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T05:57:37.594Z
+// Last updated: 2026-10-21T06:31:34.006Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜龍尾村鄰居稱嗅到青紅蘿蔔湯味　即聯想起食物並叫外賣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250605/1007311800934338560072684.jpeg/esTqVt9GFcBEh0Zt3755beDoOws72kb6AO6dZQDunWU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402050/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%BE%8D%E5%B0%BE%E6%9D%91%E9%84%B0%E5%B1%85%E7%A8%B1%E5%97%85%E5%88%B0%E9%9D%92%E7%B4%85%E8%98%BF%E8%94%94%E6%B9%AF%E5%91%B3-%E5%8D%B3%E8%81%AF%E6%83%B3%E8%B5%B7%E9%A3%9F%E7%89%A9%E4%B8%A6%E5%8F%AB%E5%A4%96%E8%B3%A3",
+    "timestamp": "2026-10-21T06:31:34.006Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小紅書現「掛名」遊學團導賞港大圖利　教育局：難辨個人登記訪客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189438791832834048651348.jpeg/_bSTLk3PeA3t4OfSkuUG5m36s7h-uVcdGA0ybhgNMm4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60401858/%E6%AD%90%E8%81%AF-%E6%9B%BC%E5%9F%8E5-1%E5%A4%A7%E5%8B%9Daek%E9%9B%85%E5%85%B8-%E5%88%A9%E7%89%A9%E6%B5%A64-3%E5%8F%8D%E5%8B%9D%E7%B6%AD%E6%8B%89%E5%88%A9%E7%88%BE",
     "timestamp": "2026-10-20T21:46:31.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新蒲崗貨車疑失控自炒撞欄翻側　司機一度被困　自行爬出輕傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189443953347268608192308.jpeg/hzkamqD5HySU8b9mvjowVde2ezC8qL2WtmPbu4xj27s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401861/%E6%96%B0%E8%92%B2%E5%B4%97%E8%B2%A8%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84%E7%BF%BB%E5%81%B4-%E5%8F%B8%E6%A9%9F%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E8%87%AA%E8%A1%8C%E7%88%AC%E5%87%BA%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-20T21:34:08.941Z",
     "strategy": ".content-card__main"
   }
 ];
