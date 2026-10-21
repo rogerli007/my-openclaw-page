@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T13:46:01.980Z
+// Last updated: 2026-10-21T13:57:17.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旅發局推「香港連場好戲」旅遊指南　精選逾百電影地標推主題旅遊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189685321533493248057962.jpeg/AX8TWGwEzfW8CTuDRGX8TRHz0EVmVWZLdOtSC3TrUgs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402228/%E6%97%85%E7%99%BC%E5%B1%80%E6%8E%A8-%E9%A6%99%E6%B8%AF%E9%80%A3%E5%A0%B4%E5%A5%BD%E6%88%B2-%E6%97%85%E9%81%8A%E6%8C%87%E5%8D%97-%E7%B2%BE%E9%81%B8%E9%80%BE%E7%99%BE%E9%9B%BB%E5%BD%B1%E5%9C%B0%E6%A8%99%E6%8E%A8%E4%B8%BB%E9%A1%8C%E6%97%85%E9%81%8A",
+    "timestamp": "2026-10-21T13:57:17.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國Mckenzie即食火雞胸或涉貯存溫度不當　食安中心飭停售及回收",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241001/917846048129814528146289.jpeg/Yig_MKABWXg2pwmhpou47d4czklE9QNLxXCAhcVwgIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60402017/%E5%B0%8F%E7%B4%85%E6%9B%B8%E7%8F%BE-%E6%8E%9B%E5%90%8D-%E9%81%8A%E5%AD%B8%E5%9C%98%E5%B0%8E%E8%B3%9E%E6%B8%AF%E5%A4%A7%E5%9C%96%E5%88%A9-%E6%95%99%E8%82%B2%E5%B1%80-%E9%9B%A3%E8%BE%A8%E5%80%8B%E4%BA%BA%E7%99%BB%E8%A8%98%E8%A8%AA%E5%AE%A2",
     "timestamp": "2026-10-21T05:57:37.594Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "行李箱怎麼選？資深空姐點名2款別買　硬殼易撞爛　耐摔選這款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189570730149285888287036.jpeg/cIOao6BCEc-E3sVYxUTRbzZh-PQ8KoEGJKLVCySi1Qs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60401917/%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%80%8E%E9%BA%BC%E9%81%B8-%E8%B3%87%E6%B7%B1%E7%A9%BA%E5%A7%90%E9%BB%9E%E5%90%8D2%E6%AC%BE%E5%88%A5%E8%B2%B7-%E7%A1%AC%E6%AE%BC%E6%98%93%E6%92%9E%E7%88%9B-%E8%80%90%E6%91%94%E9%81%B8%E9%80%99%E6%AC%BE",
-    "timestamp": "2026-10-21T05:46:22.254Z",
     "strategy": ".content-card__main"
   }
 ];
