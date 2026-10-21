@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T09:47:46.151Z
+// Last updated: 2026-10-21T10:20:31.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佛羅里達州向卡斯特羅發拘捕令　中國外交部促停對古巴脅迫施壓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138855530932998144092378.png/Z5fY2eN3DwkHSbmwr94aNDI5dQaS5A7ZO5QilDuUIpQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402177/%E4%BD%9B%E7%BE%85%E9%87%8C%E9%81%94%E5%B7%9E%E5%90%91%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BE%85%E7%99%BC%E6%8B%98%E6%8D%95%E4%BB%A4-%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BF%83%E5%81%9C%E5%B0%8D%E5%8F%A4%E5%B7%B4%E8%84%85%E8%BF%AB%E6%96%BD%E5%A3%93",
+    "timestamp": "2026-10-21T10:20:31.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天瑜醫療事故｜死因庭、醫委會「互相等待」　林志釉指情況少見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189390556527071232561023.png/3u6rYpUIdImZTKxoI6P_tk5NptLWWmp7wlmOusJZjro?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401815/%E5%A9%9A%E5%89%8D%E8%B2%B7-500%E8%90%AC%E6%A8%93%E5%A5%B3%E5%AE%B6%E5%87%BA-150%E8%90%AC-%E6%BA%96%E6%96%B0%E9%83%8E%E8%B2%A0%E8%B2%AC%E4%BE%9B%E6%A8%93%E6%8F%90%E5%8F%AA%E8%90%BD%E8%87%AA%E5%B7%B1%E5%90%8D%E7%B5%82%E5%88%86%E6%89%8B",
     "timestamp": "2026-10-21T01:16:56.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港仔隧道3車相撞橫跨2行車線　管道內慢線封閉　現時交通擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189493211962281984213569.png/ADLZDRB_IJ_E2dt0F3tqiT2Rt_QSCp70ydwrRcncK0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401879/%E9%A6%99%E6%B8%AF%E4%BB%94%E9%9A%A7%E9%81%933%E8%BB%8A%E7%9B%B8%E6%92%9E%E6%A9%AB%E8%B7%A82%E8%A1%8C%E8%BB%8A%E7%B7%9A-%E7%AE%A1%E9%81%93%E5%85%A7%E6%85%A2%E7%B7%9A%E5%B0%81%E9%96%89-%E7%8F%BE%E6%99%82%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-10-21T00:45:11.093Z",
     "strategy": ".content-card__main"
   }
 ];
