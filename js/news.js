@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T11:56:51.219Z
+// Last updated: 2026-10-21T12:28:24.846Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "酷熱天氣｜天文台︰香港去年平均24.3度大灣區最熱　較肇慶高2度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189661812103057408139586.jpeg/SsYtE49j4EMISEQiK5Ppbzk6rYkm28ovq-_4KI7v-Cg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60402201/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E9%A6%99%E6%B8%AF%E5%8E%BB%E5%B9%B4%E5%B9%B3%E5%9D%8724-3%E5%BA%A6%E5%A4%A7%E7%81%A3%E5%8D%80%E6%9C%80%E7%86%B1-%E8%BC%83%E8%82%87%E6%85%B6%E9%AB%982%E5%BA%A6",
+    "timestamp": "2026-10-21T12:28:24.846Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Candy@COLLAR拍劇獻真初吻　Ivy So激動回應︰你守咗4年喇！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189258983785893888617054.jpeg/EeLpvDIVGFdruRVS54NXAn_KRWXsr-PupRdvU6UXb1M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401915/%E7%BE%8E%E5%89%AF%E7%B8%BD%E7%B5%B1%E8%90%AC%E6%96%AF-%E5%8F%8D%E5%B0%8D%E7%83%8F%E5%85%8B%E8%98%AD%E5%85%A5%E5%8C%97%E7%B4%84-%E6%8B%92%E8%AA%8D%E7%83%8F%E5%85%8B%E8%98%AD%E7%82%BA%E7%BE%8E%E5%9C%8B%E7%9B%9F%E5%8F%8B",
     "timestamp": "2026-10-21T04:01:30.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "騙徒自稱「消防隊長」要診所代訂電動輪椅　消防處澄清：絕無此事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189540602899861504407385.png/mN8dF9dJ6lDN3WPAmH2xU5LaU4jgL2k_xVWIgcVViIE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401960/%E9%A8%99%E5%BE%92%E8%87%AA%E7%A8%B1-%E6%B6%88%E9%98%B2%E9%9A%8A%E9%95%B7-%E8%A6%81%E8%A8%BA%E6%89%80%E4%BB%A3%E8%A8%82%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85-%E6%B6%88%E9%98%B2%E8%99%95%E6%BE%84%E6%B8%85-%E7%B5%95%E7%84%A1%E6%AD%A4%E4%BA%8B",
-    "timestamp": "2026-10-21T03:50:16.495Z",
     "strategy": ".content-card__main"
   }
 ];
