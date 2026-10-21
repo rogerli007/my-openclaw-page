@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T15:20:19.626Z
+// Last updated: 2026-10-21T15:47:21.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "移民美國｜大批華人及留學生突收通知　到手多年的簽證無故被撤銷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189583666641113088563491.jpeg/h2ZnxOPwrYqjPCZ1JIQj8vzJ2SIf1ucGK7TV7Cu01ew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401514/%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9C%8B-%E5%A4%A7%E6%89%B9%E8%8F%AF%E4%BA%BA%E5%8F%8A%E7%95%99%E5%AD%B8%E7%94%9F%E7%AA%81%E6%94%B6%E9%80%9A%E7%9F%A5-%E5%88%B0%E6%89%8B%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%B0%BD%E8%AD%89%E7%84%A1%E6%95%85%E8%A2%AB%E6%92%A4%E9%8A%B7",
+    "timestamp": "2026-10-21T15:47:21.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段靠穩　納指最新升約200點　SpaceX漲9%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189603325155217408735829.jpeg/q9mthQyXynFprJGxrO2MifrS_qBGa-Np3Qjk6t0I5Oo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60402103/%E4%B9%85%E5%AE%88%E5%BF%85%E5%A4%B1-%E9%A8%B0%E8%A8%8A%E7%80%89%E8%BF%914-400%E5%85%83%E9%97%9C%E5%8F%A3%E6%B7%AA%E9%99%B7",
     "timestamp": "2026-10-21T07:49:35.980Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新娘婚禮送RTX 5090顯卡價值9.4萬港幣　新郎當場落淚激動高舉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189586587449561088861295.jpeg/DmdBZzFGjdMJ2OIgkUjBQ06VEnPnQ-xNwX2q78F9qu8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60402042/%E6%96%B0%E5%A8%98%E5%A9%9A%E7%A6%AE%E9%80%81rtx-5090%E9%A1%AF%E5%8D%A1%E5%83%B9%E5%80%BC9-4%E8%90%AC%E6%B8%AF%E5%B9%A3-%E6%96%B0%E9%83%8E%E7%95%B6%E5%A0%B4%E8%90%BD%E6%B7%9A%E6%BF%80%E5%8B%95%E9%AB%98%E8%88%89",
-    "timestamp": "2026-10-21T07:29:44.603Z",
     "strategy": ".content-card__main"
   }
 ];
