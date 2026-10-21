@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T19:19:58.816Z
+// Last updated: 2026-10-21T19:43:54.972Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜曼聯作客1：4大敗　科木尼高柏斯梅開二度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189772844939087872870524.jpeg/Gqcl5RrjetdM8ROdK6IoYgVsXDlbTnNBWcyntVnMp7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402275/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-4%E5%A4%A7%E6%95%97-%E7%A7%91%E6%9C%A8%E5%B0%BC%E9%AB%98%E6%9F%8F%E6%96%AF%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
+    "timestamp": "2026-10-21T19:43:54.972Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「黃慘盈」李嘉文宣布結婚　棄安穩赴美尋夢曾窮到一日食一餐半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189656587199844352748659.jpeg/S0NBOulbgleuZv9aw-rMrGCFYHJbactpFDfSVBQ30lQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402199/candy-collar%E6%8B%8D%E5%8A%87%E7%8D%BB%E7%9C%9F%E5%88%9D%E5%90%BB-ivy-so%E6%BF%80%E5%8B%95%E5%9B%9E%E6%87%89-%E4%BD%A0%E5%AE%88%E5%92%974%E5%B9%B4%E5%96%87",
     "timestamp": "2026-10-21T11:56:51.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寶馬推自願離職　賠償可達逾590萬元　員工爭先申請擠爆內部系統",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159368046700138496382956.jpeg/A3S2qfy4oHyYSF9E2C81wAaPpBTNwhXWhaFGK4WhRis?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402134/%E5%AF%B6%E9%A6%AC%E6%8E%A8%E8%87%AA%E9%A1%98%E9%9B%A2%E8%81%B7-%E8%B3%A0%E5%84%9F%E5%8F%AF%E9%81%94%E9%80%BE590%E8%90%AC%E5%85%83-%E5%93%A1%E5%B7%A5%E7%88%AD%E5%85%88%E7%94%B3%E8%AB%8B%E6%93%A0%E7%88%86%E5%85%A7%E9%83%A8%E7%B3%BB%E7%B5%B1",
-    "timestamp": "2026-10-21T11:39:11.504Z",
     "strategy": ".content-card__main"
   }
 ];
