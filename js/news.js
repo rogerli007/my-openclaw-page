@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T07:29:44.603Z
+// Last updated: 2026-10-21T07:49:35.980Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "久守必失！騰訊瀉近4% 　400元關口淪陷！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189603325155217408735829.jpeg/q9mthQyXynFprJGxrO2MifrS_qBGa-Np3Qjk6t0I5Oo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60402103/%E4%B9%85%E5%AE%88%E5%BF%85%E5%A4%B1-%E9%A8%B0%E8%A8%8A%E7%80%89%E8%BF%914-400%E5%85%83%E9%97%9C%E5%8F%A3%E6%B7%AA%E9%99%B7",
+    "timestamp": "2026-10-21T07:49:35.980Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新娘婚禮送RTX 5090顯卡價值9.4萬港幣　新郎當場落淚激動高舉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189326213269688320192875.jpeg/_JVkeiTflBxZmNZubGeyJrAH6VJH-XhwM3eIXjN3iF4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401796/%E5%8F%B2%E7%A9%8E%E5%96%AC%E6%BB%91%E9%9B%AA%E5%BA%97%E6%89%93%E5%B7%A5%E5%B9%ABtvb%E5%A5%B3%E6%98%9F%E8%A9%A6%E8%BA%AB-%E7%82%BA%E4%BA%8B%E6%A5%AD%E5%B7%AE%E8%B7%9D%E6%84%9Femo-%E5%94%94%E7%9F%A5%E5%81%9A%E7%B7%8A%E5%92%A9",
     "timestamp": "2026-10-20T22:54:18.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "史穎喬滑雪店打工幫TVB女星試身　為事業差距感emo：唔知做緊咩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189326213269688320192875.jpeg/_JVkeiTflBxZmNZubGeyJrAH6VJH-XhwM3eIXjN3iF4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401796/%E5%8F%B2%E7%A9%8E%E5%96%AC%E6%BB%91%E9%9B%AA%E5%BA%97%E6%89%93%E5%B7%A5%E5%B9%ABtvb%E5%A5%B3%E6%98%9F%E8%A9%A6%E8%BA%AB-%E7%82%BA%E4%BA%8B%E6%A5%AD%E5%B7%AE%E8%B7%9D%E6%84%9Femo-%E5%94%94%E7%9F%A5%E5%81%9A%E7%B7%8A%E5%92%A9",
-    "timestamp": "2026-10-20T22:44:43.669Z",
     "strategy": ".content-card__main"
   }
 ];
