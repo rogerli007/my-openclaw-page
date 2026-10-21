@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T08:01:41.718Z
+// Last updated: 2026-10-21T08:31:37.295Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直資擴容｜教局：本學年14間直資校取錄海外生　共170人按年增13%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250510/997853125039755264531684.jpeg/YN7B6ss0ZMnCjZFGeIG3jpYLda-hDT8MB6Ba1i2gWtY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402081/%E7%9B%B4%E8%B3%87%E6%93%B4%E5%AE%B9-%E6%95%99%E5%B1%80-%E6%9C%AC%E5%AD%B8%E5%B9%B414%E9%96%93%E7%9B%B4%E8%B3%87%E6%A0%A1%E5%8F%96%E9%8C%84%E6%B5%B7%E5%A4%96%E7%94%9F-%E5%85%B1170%E4%BA%BA%E6%8C%89%E5%B9%B4%E5%A2%9E13",
+    "timestamp": "2026-10-21T08:31:37.295Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》編輯部收英國空郵寄港粉末信　警方接報到場調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189263791968227328912634.png/AOpaKkhApbasT4NITOS9gLYRQFmniuotvWzG1L1sxtQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60401424/%E5%A2%A8%E7%88%BE%E6%9C%AC%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E9%81%AD%E5%81%87%E5%85%AC%E5%AE%89%E8%A9%90%E9%A8%99-%E6%90%8D%E5%A4%B1-200%E8%90%AC-%E8%BA%AB%E4%BB%BD%E6%A0%B8%E6%9F%A5-%E6%8B%8D%E8%A3%B8%E7%85%A7",
     "timestamp": "2026-10-20T23:31:03.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "墨爾本中國留學生遭假公安詐騙　損失¥200萬　「身份核查」拍裸照",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189263791968227328912634.png/AOpaKkhApbasT4NITOS9gLYRQFmniuotvWzG1L1sxtQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60401424/%E5%A2%A8%E7%88%BE%E6%9C%AC%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E9%81%AD%E5%81%87%E5%85%AC%E5%AE%89%E8%A9%90%E9%A8%99-%E6%90%8D%E5%A4%B1-200%E8%90%AC-%E8%BA%AB%E4%BB%BD%E6%A0%B8%E6%9F%A5-%E6%8B%8D%E8%A3%B8%E7%85%A7",
-    "timestamp": "2026-10-20T23:18:05.704Z",
     "strategy": ".content-card__main"
   }
 ];
