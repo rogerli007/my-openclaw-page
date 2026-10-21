@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T18:50:13.642Z
+// Last updated: 2026-10-21T19:03:56.092Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "謝安琪與鄧麗欣演醫美職場惡鬥劇　入紙紅館10次被拒︰諗其他場地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189755078622318592960783.jpeg/62dl9dkdNbxwVfgk9o-yeUqycRACSnjqXERK_VxESv0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402268/%E8%AC%9D%E5%AE%89%E7%90%AA%E8%88%87%E9%84%A7%E9%BA%97%E6%AC%A3%E6%BC%94%E9%86%AB%E7%BE%8E%E8%81%B7%E5%A0%B4%E6%83%A1%E9%AC%A5%E5%8A%87-%E5%85%A5%E7%B4%99%E7%B4%85%E9%A4%A810%E6%AC%A1%E8%A2%AB%E6%8B%92-%E8%AB%97%E5%85%B6%E4%BB%96%E5%A0%B4%E5%9C%B0",
+    "timestamp": "2026-10-21T19:03:56.092Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝安琪與鄧麗欣演醫美職場惡鬥劇　入紙紅館10次被拒︰諗其他場地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189643306062057472928071.jpeg/tPT9tsQymew8f3PsqgRNiFxqRX4HnAUwJ87_4SfO_-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402018/%E6%89%8B%E7%90%83%E4%B8%AD%E8%B6%85%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E6%B8%AF%E7%94%B7%E5%AD%90%E9%9A%8A%E4%B8%BB%E5%A0%B4%E5%87%BA%E6%93%8A-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E9%AB%94%E8%82%B2%E9%A4%A8%E9%AC%A5%E4%B8%AD%E5%9C%8B%E5%90%84%E7%9C%81%E5%88%97%E5%BC%B7",
     "timestamp": "2026-10-21T11:19:25.670Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何君堯「大熱倒灶」失落港大校董：每個層次有唔同睇法　大局考量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116344126036512768905761.png/wPFgm4mab-si41AWFGwIJao8vUo2TLrDxKfQdsSn0HY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60402190/%E4%BD%95%E5%90%9B%E5%A0%AF-%E5%A4%A7%E7%86%B1%E5%80%92%E7%81%B6-%E5%A4%B1%E8%90%BD%E6%B8%AF%E5%A4%A7%E6%A0%A1%E8%91%A3-%E6%AF%8F%E5%80%8B%E5%B1%A4%E6%AC%A1%E6%9C%89%E5%94%94%E5%90%8C%E7%9D%87%E6%B3%95-%E5%A4%A7%E5%B1%80%E8%80%83%E9%87%8F",
-    "timestamp": "2026-10-21T10:57:25.885Z",
     "strategy": ".content-card__main"
   }
 ];
