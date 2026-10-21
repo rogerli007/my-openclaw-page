@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T21:47:34.198Z
+// Last updated: 2026-10-21T21:57:43.314Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜拜仁遭阿仙奴逼和2：2　哈利簡尼連續10場歐聯賽事入球",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189807646845177856432816.jpeg/aN1eujUrGBp6GUzRfyHkxMm0zsu1SytEbuJmHW7iZh0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402284/%E6%AD%90%E8%81%AF-%E6%8B%9C%E4%BB%81%E9%81%AD%E9%98%BF%E4%BB%99%E5%A5%B4%E9%80%BC%E5%92%8C2-2-%E5%93%88%E5%88%A9%E7%B0%A1%E5%B0%BC%E9%80%A3%E7%BA%8C10%E5%A0%B4%E6%AD%90%E8%81%AF%E8%B3%BD%E4%BA%8B%E5%85%A5%E7%90%83",
+    "timestamp": "2026-10-21T21:57:43.314Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜拜仁遭阿仙奴逼和2：2　哈利簡尼連續10場歐聯賽事入球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181445930017099776796013.jpeg/pR5-fAoxRQhK0lKKHlNpCmu7jNuXqc7CqZ2ZVamdmVU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402247/%E6%99%AE%E4%BA%AC%E6%9C%83%E8%A6%8B%E6%9D%8E%E5%BC%B7-%E7%A8%B1%E4%BF%84%E4%B8%AD%E9%97%9C%E4%BF%82%E8%93%AC%E5%8B%83%E7%99%BC%E5%B1%95",
     "timestamp": "2026-10-21T14:57:49.356Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警搗深水埗欽州街非法麻雀賭檔　拘1主持人及7賭客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189698140043743232980467.png/L39v26880oYehLQUKsjoKZCf49Ps4ydoWKO_GFijvxg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402241/%E8%AD%A6%E6%90%97%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%AC%BD%E5%B7%9E%E8%A1%97%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94-%E6%8B%981%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%8A7%E8%B3%AD%E5%AE%A2",
-    "timestamp": "2026-10-21T14:21:49.241Z",
     "strategy": ".content-card__main"
   }
 ];
