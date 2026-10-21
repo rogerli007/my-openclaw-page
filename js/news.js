@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T17:17:32.465Z
+// Last updated: 2026-10-21T17:32:47.849Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓球亞錦賽︱港隊男、女團8強止步　雙打強勢持續3對組合晉16強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189749302910521344325609.jpeg/qdFKxviJ0OReMI0vdRSaGjA0D94vHk90kRLAHZESwB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402260/%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7-%E5%A5%B3%E5%9C%988%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%9B%99%E6%89%93%E5%BC%B7%E5%8B%A2%E6%8C%81%E7%BA%8C3%E5%B0%8D%E7%B5%84%E5%90%88%E6%99%8916%E5%BC%B7",
+    "timestamp": "2026-10-21T17:32:47.849Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "父遛狗12分鐘2歲兒獨留家墮樓亡　提月給¥1萬求不離婚　妻怒追責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189231466492465152165028.jpeg/-7Xgh4K_U6GrKv5pc2bN3PMS_Vv73SzelBArcZQQK3E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402019/%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81%E7%8D%A8%E7%AB%8B%E5%85%AC%E6%8A%95-%E7%95%99%E5%8A%A0-%E6%B4%BE%E5%A4%A7%E5%8B%9D-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86-%E6%9C%9F%E5%BE%85%E6%94%9C%E6%89%8B%E5%89%8D%E8%A1%8C",
     "timestamp": "2026-10-21T09:21:35.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧兆尊爆「集郵女星」　陳煒被列嫌疑人優雅回應：私下冇任何聯絡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189614065811460096712046.jpeg/EWU5N0bEnfwAYMthULGSKeEAHvpqPf7tMDPtzjAz7c4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402086/%E9%84%A7%E5%85%86%E5%B0%8A%E7%88%86-%E9%9B%86%E9%83%B5%E5%A5%B3%E6%98%9F-%E9%99%B3%E7%85%92%E8%A2%AB%E5%88%97%E5%AB%8C%E7%96%91%E4%BA%BA%E5%84%AA%E9%9B%85%E5%9B%9E%E6%87%89-%E7%A7%81%E4%B8%8B%E5%86%87%E4%BB%BB%E4%BD%95%E8%81%AF%E7%B5%A1",
-    "timestamp": "2026-10-21T08:52:58.986Z",
     "strategy": ".content-card__main"
   }
 ];
