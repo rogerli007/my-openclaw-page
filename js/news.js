@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T10:46:42.373Z
+// Last updated: 2026-10-21T10:57:25.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何君堯「大熱倒灶」失落港大校董：每個層次有唔同睇法　大局考量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260402/1116344126036512768905761.png/wPFgm4mab-si41AWFGwIJao8vUo2TLrDxKfQdsSn0HY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60402190/%E4%BD%95%E5%90%9B%E5%A0%AF-%E5%A4%A7%E7%86%B1%E5%80%92%E7%81%B6-%E5%A4%B1%E8%90%BD%E6%B8%AF%E5%A4%A7%E6%A0%A1%E8%91%A3-%E6%AF%8F%E5%80%8B%E5%B1%A4%E6%AC%A1%E6%9C%89%E5%94%94%E5%90%8C%E7%9D%87%E6%B3%95-%E5%A4%A7%E5%B1%80%E8%80%83%E9%87%8F",
+    "timestamp": "2026-10-21T10:57:25.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屍皮針｜專科醫生稱有被傳基因性疾病風險：係咪要冒呢個風險呢？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189514656406835200019485.jpeg/czIRJ_-duAQ6OnZ5Xt1chKLOx1RHCbM3wk4618JOOtc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60401894/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%AB%98%E9%9B%84%E5%BB%A0%E5%B7%A5%E4%BA%BA%E9%80%A3%E9%8B%BC%E6%A8%91%E4%B8%80%E5%90%8C%E9%AB%98%E7%A9%BA%E5%A2%9C%E5%9C%B0%E9%87%804%E6%AD%BB-%E7%96%91%E8%9E%BA%E6%A0%93%E7%AA%81%E6%96%B7%E8%A3%82%E8%82%87%E7%A6%8D",
     "timestamp": "2026-10-21T02:04:17.863Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國政府DeepSeek禁令　在害怕什麼？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250131/962079417054531584283975.jpeg/Vbm-NSNno9BoLiFb-C7dxgDG0L0opT5BYQmEUGEJhFA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401887/%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9Cdeepseek%E7%A6%81%E4%BB%A4-%E5%9C%A8%E5%AE%B3%E6%80%95%E4%BB%80%E9%BA%BC",
-    "timestamp": "2026-10-21T01:42:23.261Z",
     "strategy": ".content-card__main"
   }
 ];
