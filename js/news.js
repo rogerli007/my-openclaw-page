@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T08:31:37.295Z
+// Last updated: 2026-10-21T08:52:58.986Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧兆尊爆「集郵女星」　陳煒被列嫌疑人優雅回應：私下冇任何聯絡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189614065811460096712046.jpeg/EWU5N0bEnfwAYMthULGSKeEAHvpqPf7tMDPtzjAz7c4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402086/%E9%84%A7%E5%85%86%E5%B0%8A%E7%88%86-%E9%9B%86%E9%83%B5%E5%A5%B3%E6%98%9F-%E9%99%B3%E7%85%92%E8%A2%AB%E5%88%97%E5%AB%8C%E7%96%91%E4%BA%BA%E5%84%AA%E9%9B%85%E5%9B%9E%E6%87%89-%E7%A7%81%E4%B8%8B%E5%86%87%E4%BB%BB%E4%BD%95%E8%81%AF%E7%B5%A1",
+    "timestamp": "2026-10-21T08:52:58.986Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "直資擴容｜教局：本學年14間直資校取錄海外生　共170人按年增13%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250902/1039637557366755328179835.jpeg/TLtgBaC-jR0sdtM6KS8Nw9qeYRDluliolghi1JYIYtQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401860/%E5%BC%B5%E7%99%BB%E5%8F%8A%E8%AB%87%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4-%E4%BA%94-%E4%BC%8A%E6%8B%89%E5%85%8B%E6%88%B0%E7%88%AD%E7%9A%84-%E6%A9%9F%E9%81%87-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%86%8D%E7%8F%BE",
     "timestamp": "2026-10-20T23:42:44.206Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "墨爾本中國留學生遭假公安詐騙　損失¥200萬　「身份核查」拍裸照",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189263791968227328912634.png/AOpaKkhApbasT4NITOS9gLYRQFmniuotvWzG1L1sxtQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60401424/%E5%A2%A8%E7%88%BE%E6%9C%AC%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E9%81%AD%E5%81%87%E5%85%AC%E5%AE%89%E8%A9%90%E9%A8%99-%E6%90%8D%E5%A4%B1-200%E8%90%AC-%E8%BA%AB%E4%BB%BD%E6%A0%B8%E6%9F%A5-%E6%8B%8D%E8%A3%B8%E7%85%A7",
-    "timestamp": "2026-10-20T23:31:03.818Z",
     "strategy": ".content-card__main"
   }
 ];
