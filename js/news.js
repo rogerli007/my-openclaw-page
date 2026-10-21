@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T22:51:34.055Z
+// Last updated: 2026-10-21T23:32:30.590Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高鐵售貨員首次執勤緊張到握拳打氣　乘客暖心關顧　網民意見兩極",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189624975082917888405862.png/za3bxpb4Yt6KbQdf87OYizKUlcGsJHuBwmb498Jm-Pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400964/%E9%AB%98%E9%90%B5%E5%94%AE%E8%B2%A8%E5%93%A1%E9%A6%96%E6%AC%A1%E5%9F%B7%E5%8B%A4%E7%B7%8A%E5%BC%B5%E5%88%B0%E6%8F%A1%E6%8B%B3%E6%89%93%E6%B0%A3-%E4%B9%98%E5%AE%A2%E6%9A%96%E5%BF%83%E9%97%9C%E9%A1%A7-%E7%B6%B2%E6%B0%91%E6%84%8F%E8%A6%8B%E5%85%A9%E6%A5%B5",
+    "timestamp": "2026-10-21T23:32:30.590Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳男子遇襲負傷自行求醫　頭手有刀傷　醫院通知警方緝兇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184165712462090240972831.jpeg/0e08iXKRhy103y4CgsuWBwueln5TqRThuea6drnmunY",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60396827/%E7%BE%8E%E4%BA%BA%E4%BD%99%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E8%A7%92%E8%89%B2%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-10-21T15:59:10.644Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "移民美國｜大批華人及留學生突收通知　到手多年的簽證無故被撤銷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189583666641113088563491.jpeg/h2ZnxOPwrYqjPCZ1JIQj8vzJ2SIf1ucGK7TV7Cu01ew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401514/%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9C%8B-%E5%A4%A7%E6%89%B9%E8%8F%AF%E4%BA%BA%E5%8F%8A%E7%95%99%E5%AD%B8%E7%94%9F%E7%AA%81%E6%94%B6%E9%80%9A%E7%9F%A5-%E5%88%B0%E6%89%8B%E5%A4%9A%E5%B9%B4%E7%9A%84%E7%B0%BD%E8%AD%89%E7%84%A1%E6%95%85%E8%A2%AB%E6%92%A4%E9%8A%B7",
-    "timestamp": "2026-10-21T15:47:21.366Z",
     "strategy": ".content-card__main"
   }
 ];
