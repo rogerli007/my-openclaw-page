@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T11:19:25.670Z
+// Last updated: 2026-10-21T11:39:11.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寶馬推自願離職　賠償可達逾590萬元　員工爭先申請擠爆內部系統",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159368046700138496382956.jpeg/A3S2qfy4oHyYSF9E2C81wAaPpBTNwhXWhaFGK4WhRis?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402134/%E5%AF%B6%E9%A6%AC%E6%8E%A8%E8%87%AA%E9%A1%98%E9%9B%A2%E8%81%B7-%E8%B3%A0%E5%84%9F%E5%8F%AF%E9%81%94%E9%80%BE590%E8%90%AC%E5%85%83-%E5%93%A1%E5%B7%A5%E7%88%AD%E5%85%88%E7%94%B3%E8%AB%8B%E6%93%A0%E7%88%86%E5%85%A7%E9%83%A8%E7%B3%BB%E7%B5%B1",
+    "timestamp": "2026-10-21T11:39:11.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "手球中超總決賽｜港男子隊主場出擊　馬鞍山體育館鬥中國各省列強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1177973480163905536072938.jpeg/ukAEFtSrjcMdrCWxlj_onZOi1ORro_YrtUrdrrVK3a4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401933/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E7%A8%B1%E6%BA%96%E5%82%99%E5%A5%BD%E6%81%A2%E5%BE%A9%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%8D%E8%A8%AA%E5%BE%B7%E9%BB%91%E8%98%AD%E6%96%A1%E6%97%8B",
     "timestamp": "2026-10-21T02:54:22.844Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗公路泥頭車與貨車相撞　一人受傷曾被困　往元朗交通擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189515918565183488421370.jpeg/gC4e3EThaUezf3vNecDzugug9mk8FjI4xefWG8Xn1hs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401898/%E5%85%83%E6%9C%97%E5%85%AC%E8%B7%AF%E6%B3%A5%E9%A0%AD%E8%BB%8A%E8%88%87%E8%B2%A8%E8%BB%8A%E7%9B%B8%E6%92%9E-%E4%B8%80%E4%BA%BA%E5%8F%97%E5%82%B7%E6%9B%BE%E8%A2%AB%E5%9B%B0-%E5%BE%80%E5%85%83%E6%9C%97%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-10-21T02:34:21.828Z",
     "strategy": ".content-card__main"
   }
 ];
