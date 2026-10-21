@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T17:46:48.733Z
+// Last updated: 2026-10-21T17:55:55.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓球亞錦賽︱港隊男、女團8強止步　雙打強勢持續3對組合晉16強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189749302910521344325609.jpeg/qdFKxviJ0OReMI0vdRSaGjA0D94vHk90kRLAHZESwB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402260/%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7-%E5%A5%B3%E5%9C%988%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%9B%99%E6%89%93%E5%BC%B7%E5%8B%A2%E6%8C%81%E7%BA%8C3%E5%B0%8D%E7%B5%84%E5%90%88%E6%99%8916%E5%BC%B7",
+    "timestamp": "2026-10-21T17:55:55.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓球亞錦賽︱港隊男、女團8強止步　雙打強勢持續3對組合晉16強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260603/1138855530932998144092378.png/Z5fY2eN3DwkHSbmwr94aNDI5dQaS5A7ZO5QilDuUIpQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402177/%E4%BD%9B%E7%BE%85%E9%87%8C%E9%81%94%E5%B7%9E%E5%90%91%E5%8D%A1%E6%96%AF%E7%89%B9%E7%BE%85%E7%99%BC%E6%8B%98%E6%8D%95%E4%BB%A4-%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BF%83%E5%81%9C%E5%B0%8D%E5%8F%A4%E5%B7%B4%E8%84%85%E8%BF%AB%E6%96%BD%E5%A3%93",
     "timestamp": "2026-10-21T10:20:31.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天瑜醫療事故｜死因庭、醫委會「互相等待」　林志釉指情況少見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220131/564787448433872896562081.jpeg/6Iz2nwP4h1ee5KR4GlXgUTAfiLO2eagLmSYrzpkmK84?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402123/%E5%A4%A9%E7%91%9C%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E6%AD%BB%E5%9B%A0%E5%BA%AD-%E9%86%AB%E5%A7%94%E6%9C%83-%E4%BA%92%E7%9B%B8%E7%AD%89%E5%BE%85-%E6%9E%97%E5%BF%97%E9%87%89%E6%8C%87%E6%83%85%E6%B3%81%E5%B0%91%E8%A6%8B",
-    "timestamp": "2026-10-21T09:47:46.151Z",
     "strategy": ".content-card__main"
   }
 ];
