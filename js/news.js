@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T01:42:23.261Z
+// Last updated: 2026-10-21T02:04:17.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台積電高雄廠工人連鋼樑一同高空墜地釀4死　疑螺栓突斷裂肇禍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189514656406835200019485.jpeg/czIRJ_-duAQ6OnZ5Xt1chKLOx1RHCbM3wk4618JOOtc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60401894/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%AB%98%E9%9B%84%E5%BB%A0%E5%B7%A5%E4%BA%BA%E9%80%A3%E9%8B%BC%E6%A8%91%E4%B8%80%E5%90%8C%E9%AB%98%E7%A9%BA%E5%A2%9C%E5%9C%B0%E9%87%804%E6%AD%BB-%E7%96%91%E8%9E%BA%E6%A0%93%E7%AA%81%E6%96%B7%E8%A3%82%E8%82%87%E7%A6%8D",
+    "timestamp": "2026-10-21T02:04:17.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國政府DeepSeek禁令　在害怕什麼？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189386816877236224156708.jpeg/YX2kLS3Fd9LhDXD3kjdNHgqYjz7nzQcG9XHUAPVx1AA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401840/iphone-duo%E9%A6%96%E7%99%BC%E6%90%B6%E6%A9%9F%E4%B8%8D%E7%94%A8%E7%AD%892027-%E6%BE%B3%E9%96%80%E6%8E%92%E9%9A%8A-ireserve%E5%9F%B7%E6%BC%8F%E9%A2%A8%E9%9A%AA%E6%8B%86%E8%A7%A3",
     "timestamp": "2026-10-20T17:54:54.637Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo首發搶機不用等2027？澳門排隊／iReserve執漏風險拆解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189386816877236224156708.jpeg/YX2kLS3Fd9LhDXD3kjdNHgqYjz7nzQcG9XHUAPVx1AA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401840/iphone-duo%E9%A6%96%E7%99%BC%E6%90%B6%E6%A9%9F%E4%B8%8D%E7%94%A8%E7%AD%892027-%E6%BE%B3%E9%96%80%E6%8E%92%E9%9A%8A-ireserve%E5%9F%B7%E6%BC%8F%E9%A2%A8%E9%9A%AA%E6%8B%86%E8%A7%A3",
-    "timestamp": "2026-10-20T17:46:10.043Z",
     "strategy": ".content-card__main"
   }
 ];
