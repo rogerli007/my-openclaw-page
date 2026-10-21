@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T14:57:49.356Z
+// Last updated: 2026-10-21T15:20:19.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段靠穩　納指最新升約200點　SpaceX漲9%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230925/783117037625937920649301.jpeg/orpR8pJdLX4rvMU_ZBGmlOhW4Jzaovx3PSZJcj0mSXI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60402251/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E9%9D%A0%E7%A9%A9-%E7%B4%8D%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87%E7%B4%84200%E9%BB%9E-spacex%E6%BC%B29",
+    "timestamp": "2026-10-21T15:20:19.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普京會見李強　稱俄中關係蓬勃發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189586587449561088861295.jpeg/DmdBZzFGjdMJ2OIgkUjBQ06VEnPnQ-xNwX2q78F9qu8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60402042/%E6%96%B0%E5%A8%98%E5%A9%9A%E7%A6%AE%E9%80%81rtx-5090%E9%A1%AF%E5%8D%A1%E5%83%B9%E5%80%BC9-4%E8%90%AC%E6%B8%AF%E5%B9%A3-%E6%96%B0%E9%83%8E%E7%95%B6%E5%A0%B4%E8%90%BD%E6%B7%9A%E6%BF%80%E5%8B%95%E9%AB%98%E8%88%89",
     "timestamp": "2026-10-21T07:29:44.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美人餘｜喬振宇佈局五年「吃李一桐絕戶」　家中保姆是謀財共犯？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189559948816683008427160.png/nY40DgMYOnvjSf4v5zpvvtkUAUz97acCFJIGrBSSBqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60401931/%E7%BE%8E%E4%BA%BA%E9%A4%98-%E5%96%AC%E6%8C%AF%E5%AE%87%E4%BD%88%E5%B1%80%E4%BA%94%E5%B9%B4-%E5%90%83%E6%9D%8E%E4%B8%80%E6%A1%90%E7%B5%95%E6%88%B6-%E5%AE%B6%E4%B8%AD%E4%BF%9D%E5%A7%86%E6%98%AF%E8%AC%80%E8%B2%A1%E5%85%B1%E7%8A%AF",
-    "timestamp": "2026-10-21T07:01:33.861Z",
     "strategy": ".content-card__main"
   }
 ];
