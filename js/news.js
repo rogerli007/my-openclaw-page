@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T10:20:31.617Z
+// Last updated: 2026-10-21T10:46:42.373Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屍皮針｜專科醫生稱有被傳基因性疾病風險：係咪要冒呢個風險呢？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177233687889055744326591.jpeg/-Wyien_5ZHY3zTxi9RiVyWpniiC9GleW1M9mN9TPZjc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402173/%E5%B1%8D%E7%9A%AE%E9%87%9D-%E5%B0%88%E7%A7%91%E9%86%AB%E7%94%9F%E7%A8%B1%E6%9C%89%E8%A2%AB%E5%82%B3%E5%9F%BA%E5%9B%A0%E6%80%A7%E7%96%BE%E7%97%85%E9%A2%A8%E9%9A%AA-%E4%BF%82%E5%92%AA%E8%A6%81%E5%86%92%E5%91%A2%E5%80%8B%E9%A2%A8%E9%9A%AA%E5%91%A2",
+    "timestamp": "2026-10-21T10:46:42.373Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佛羅里達州向卡斯特羅發拘捕令　中國外交部促停對古巴脅迫施壓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250131/962079417054531584283975.jpeg/Vbm-NSNno9BoLiFb-C7dxgDG0L0opT5BYQmEUGEJhFA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401887/%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9Cdeepseek%E7%A6%81%E4%BB%A4-%E5%9C%A8%E5%AE%B3%E6%80%95%E4%BB%80%E9%BA%BC",
     "timestamp": "2026-10-21T01:42:23.261Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "婚前買$500萬樓女家出$150萬│準新郎負責供樓　提1自私要求終分手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189390556527071232561023.png/3u6rYpUIdImZTKxoI6P_tk5NptLWWmp7wlmOusJZjro?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401815/%E5%A9%9A%E5%89%8D%E8%B2%B7-500%E8%90%AC%E6%A8%93%E5%A5%B3%E5%AE%B6%E5%87%BA-150%E8%90%AC-%E6%BA%96%E6%96%B0%E9%83%8E%E8%B2%A0%E8%B2%AC%E4%BE%9B%E6%A8%93%E6%8F%90%E5%8F%AA%E8%90%BD%E8%87%AA%E5%B7%B1%E5%90%8D%E7%B5%82%E5%88%86%E6%89%8B",
-    "timestamp": "2026-10-21T01:16:56.797Z",
     "strategy": ".content-card__main"
   }
 ];
