@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T23:45:26.705Z
+// Last updated: 2026-10-21T23:54:16.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo明開售　美媒實測體驗不俗卻有一致命bug位｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189843626985787392945832.png/x4gNIcd2YA7LP3eWXOv1W23TWR2OHFwoAN2UVwDdlFc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60402294/iphone-duo%E6%98%8E%E9%96%8B%E5%94%AE-%E7%BE%8E%E5%AA%92%E5%AF%A6%E6%B8%AC%E9%AB%94%E9%A9%97%E4%B8%8D%E4%BF%97%E5%8D%BB%E6%9C%89%E4%B8%80%E8%87%B4%E5%91%BDbug%E4%BD%8D-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-21T23:54:16.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜高海寧晚裝暗藏機心　一舉手側門大開曼妙身材藏不住",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189697983654924288025614.png/BMCz8xXhTxxFhQWyt9RwDEgIslcWvmutWdfSuFnX0rg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60401955/%E7%88%B6%E9%81%9B%E7%8B%9712%E5%88%86%E9%90%982%E6%AD%B2%E5%85%92%E7%8D%A8%E7%95%99%E5%AE%B6%E5%A2%AE%E6%A8%93%E4%BA%A1-%E6%8F%90%E6%9C%88%E7%B5%A6-1%E8%90%AC%E6%B1%82%E4%B8%8D%E9%9B%A2%E5%A9%9A-%E5%A6%BB%E6%80%92%E8%BF%BD%E8%B2%AC",
     "timestamp": "2026-10-21T17:17:32.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臺日電梯｜鄧家彪：翠屏北邨9部升降機　已於假期重裝耐火門框",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189727811150024704406925.jpeg/v9lkTME2qODFGYM2Q7GkV9p1I1xhTmbNj3HysY9x8rE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402262/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E9%84%A7%E5%AE%B6%E5%BD%AA-%E7%BF%A0%E5%B1%8F%E5%8C%97%E9%82%A89%E9%83%A8%E5%8D%87%E9%99%8D%E6%A9%9F-%E5%B7%B2%E6%96%BC%E5%81%87%E6%9C%9F%E9%87%8D%E8%A3%9D%E8%80%90%E7%81%AB%E9%96%80%E6%A1%86",
-    "timestamp": "2026-10-21T16:20:50.968Z",
     "strategy": ".content-card__main"
   }
 ];
