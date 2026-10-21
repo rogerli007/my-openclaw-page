@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T13:57:17.904Z
+// Last updated: 2026-10-21T14:21:49.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警搗深水埗欽州街非法麻雀賭檔　拘1主持人及7賭客",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189698140043743232980467.png/L39v26880oYehLQUKsjoKZCf49Ps4ydoWKO_GFijvxg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402241/%E8%AD%A6%E6%90%97%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%AC%BD%E5%B7%9E%E8%A1%97%E9%9D%9E%E6%B3%95%E9%BA%BB%E9%9B%80%E8%B3%AD%E6%AA%94-%E6%8B%981%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%8A7%E8%B3%AD%E5%AE%A2",
+    "timestamp": "2026-10-21T14:21:49.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旅發局推「香港連場好戲」旅遊指南　精選逾百電影地標推主題旅遊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250605/1007311800934338560072684.jpeg/esTqVt9GFcBEh0Zt3755beDoOws72kb6AO6dZQDunWU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402050/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%BE%8D%E5%B0%BE%E6%9D%91%E9%84%B0%E5%B1%85%E7%A8%B1%E5%97%85%E5%88%B0%E9%9D%92%E7%B4%85%E8%98%BF%E8%94%94%E6%B9%AF%E5%91%B3-%E5%8D%B3%E8%81%AF%E6%83%B3%E8%B5%B7%E9%A3%9F%E7%89%A9%E4%B8%A6%E5%8F%AB%E5%A4%96%E8%B3%A3",
     "timestamp": "2026-10-21T06:31:34.006Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小紅書現「掛名」遊學團導賞港大圖利　教育局：難辨個人登記訪客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241001/917846048129814528146289.jpeg/Yig_MKABWXg2pwmhpou47d4czklE9QNLxXCAhcVwgIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60402017/%E5%B0%8F%E7%B4%85%E6%9B%B8%E7%8F%BE-%E6%8E%9B%E5%90%8D-%E9%81%8A%E5%AD%B8%E5%9C%98%E5%B0%8E%E8%B3%9E%E6%B8%AF%E5%A4%A7%E5%9C%96%E5%88%A9-%E6%95%99%E8%82%B2%E5%B1%80-%E9%9B%A3%E8%BE%A8%E5%80%8B%E4%BA%BA%E7%99%BB%E8%A8%98%E8%A8%AA%E5%AE%A2",
-    "timestamp": "2026-10-21T05:57:37.594Z",
     "strategy": ".content-card__main"
   }
 ];
