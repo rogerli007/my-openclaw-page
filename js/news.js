@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T20:35:57.981Z
+// Last updated: 2026-10-21T20:56:39.686Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金鐘私家車撞壆翻側　34歲男司機涉醉駕被捕　輕傷送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189789056825823232351029.jpeg/3v6jrwkbQH6WWnRx7K8Jj1jvCZjRYGARAIqRnzqKkZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402280/%E9%87%91%E9%90%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-34%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-10-21T20:56:39.686Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金鐘私家車撞壆翻側　34歲男司機涉醉駕被捕　輕傷送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260213/1099114637883871232359617.jpeg/cM3gMHbWFXT7UC0ywvc1sM06HHMzqqc5m2WmeZtlpnk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402231/%E7%BE%8E%E5%9C%8Bmckenzie%E5%8D%B3%E9%A3%9F%E7%81%AB%E9%9B%9E%E8%83%B8%E6%88%96%E6%B6%89%E8%B2%AF%E5%AD%98%E6%BA%AB%E5%BA%A6%E4%B8%8D%E7%95%B6-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E9%A3%AD%E5%81%9C%E5%94%AE%E5%8F%8A%E5%9B%9E%E6%94%B6",
     "timestamp": "2026-10-21T13:46:01.980Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梁朝偉被捕獲新座駕　開500萬限量跑車現身山路　帥氣身影引熱議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189642080851333120247183.png/Ec7Mh9r1Q8-KkX_sEGVAdjaY4jTN2ZH7pTKYwqUymMI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402167/%E6%A2%81%E6%9C%9D%E5%81%89%E8%A2%AB%E6%8D%95%E7%8D%B2%E6%96%B0%E5%BA%A7%E9%A7%95-%E9%96%8B500%E8%90%AC%E9%99%90%E9%87%8F%E8%B7%91%E8%BB%8A%E7%8F%BE%E8%BA%AB%E5%B1%B1%E8%B7%AF-%E5%B8%A5%E6%B0%A3%E8%BA%AB%E5%BD%B1%E5%BC%95%E7%86%B1%E8%AD%B0",
-    "timestamp": "2026-10-21T13:21:48.219Z",
     "strategy": ".content-card__main"
   }
 ];
