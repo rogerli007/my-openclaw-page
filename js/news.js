@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T08:52:58.986Z
+// Last updated: 2026-10-21T09:21:35.491Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "艾伯塔省獨立公投「留加」派大勝　加拿大總理：期待攜手前行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189231466492465152165028.jpeg/-7Xgh4K_U6GrKv5pc2bN3PMS_Vv73SzelBArcZQQK3E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402019/%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81%E7%8D%A8%E7%AB%8B%E5%85%AC%E6%8A%95-%E7%95%99%E5%8A%A0-%E6%B4%BE%E5%A4%A7%E5%8B%9D-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86-%E6%9C%9F%E5%BE%85%E6%94%9C%E6%89%8B%E5%89%8D%E8%A1%8C",
+    "timestamp": "2026-10-21T09:21:35.491Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧兆尊爆「集郵女星」　陳煒被列嫌疑人優雅回應：私下冇任何聯絡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182290269803253760438672.jpeg/OCj4nrThSlJV2-5FxBkxvpQk4kJlhBxStDCKZLQwimQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60401871/%E5%AF%A7%E5%BE%B7%E6%99%82%E4%BB%A3%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%B7%A8%E5%88%A9212%E5%84%84%E5%85%83-%E6%8C%89%E5%B9%B4%E5%A2%9E%E9%95%B714-54-%E6%8C%89%E6%9C%88%E9%99%8D5",
     "timestamp": "2026-10-20T23:55:09.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張登及談中國外交・五｜伊拉克戰爭的「機遇」　伊朗戰爭再現？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250902/1039637557366755328179835.jpeg/TLtgBaC-jR0sdtM6KS8Nw9qeYRDluliolghi1JYIYtQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401860/%E5%BC%B5%E7%99%BB%E5%8F%8A%E8%AB%87%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4-%E4%BA%94-%E4%BC%8A%E6%8B%89%E5%85%8B%E6%88%B0%E7%88%AD%E7%9A%84-%E6%A9%9F%E9%81%87-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E5%86%8D%E7%8F%BE",
-    "timestamp": "2026-10-20T23:42:44.206Z",
     "strategy": ".content-card__main"
   }
 ];
