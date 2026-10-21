@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T19:03:56.092Z
+// Last updated: 2026-10-21T19:19:58.816Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「黃慘盈」李嘉文宣布結婚　棄安穩赴美尋夢曾窮到一日食一餐半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189770365140733952152078.jpeg/GDFKggDnqPaeIeFo7bhibAEO_mkbVFn1LEJwEixCcBI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402276/%E9%BB%83%E6%85%98%E7%9B%88-%E6%9D%8E%E5%98%89%E6%96%87%E5%AE%A3%E5%B8%83%E7%B5%90%E5%A9%9A-%E6%A3%84%E5%AE%89%E7%A9%A9%E8%B5%B4%E7%BE%8E%E5%B0%8B%E5%A4%A2%E6%9B%BE%E7%AA%AE%E5%88%B0%E4%B8%80%E6%97%A5%E9%A3%9F%E4%B8%80%E9%A4%90%E5%8D%8A",
+    "timestamp": "2026-10-21T19:19:58.816Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "謝安琪與鄧麗欣演醫美職場惡鬥劇　入紙紅館10次被拒︰諗其他場地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260730/1159368046700138496382956.jpeg/A3S2qfy4oHyYSF9E2C81wAaPpBTNwhXWhaFGK4WhRis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402134/%E5%AF%B6%E9%A6%AC%E6%8E%A8%E8%87%AA%E9%A1%98%E9%9B%A2%E8%81%B7-%E8%B3%A0%E5%84%9F%E5%8F%AF%E9%81%94%E9%80%BE590%E8%90%AC%E5%85%83-%E5%93%A1%E5%B7%A5%E7%88%AD%E5%85%88%E7%94%B3%E8%AB%8B%E6%93%A0%E7%88%86%E5%85%A7%E9%83%A8%E7%B3%BB%E7%B5%B1",
     "timestamp": "2026-10-21T11:39:11.504Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "手球中超總決賽｜港男子隊主場出擊　馬鞍山體育館鬥中國各省列強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189643306062057472928071.jpeg/tPT9tsQymew8f3PsqgRNiFxqRX4HnAUwJ87_4SfO_-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402018/%E6%89%8B%E7%90%83%E4%B8%AD%E8%B6%85%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E6%B8%AF%E7%94%B7%E5%AD%90%E9%9A%8A%E4%B8%BB%E5%A0%B4%E5%87%BA%E6%93%8A-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E9%AB%94%E8%82%B2%E9%A4%A8%E9%AC%A5%E4%B8%AD%E5%9C%8B%E5%90%84%E7%9C%81%E5%88%97%E5%BC%B7",
-    "timestamp": "2026-10-21T11:19:25.670Z",
     "strategy": ".content-card__main"
   }
 ];
