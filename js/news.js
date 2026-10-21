@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T01:16:56.797Z
+// Last updated: 2026-10-21T01:42:23.261Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國政府DeepSeek禁令　在害怕什麼？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250131/962079417054531584283975.jpeg/Vbm-NSNno9BoLiFb-C7dxgDG0L0opT5BYQmEUGEJhFA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60401887/%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9Cdeepseek%E7%A6%81%E4%BB%A4-%E5%9C%A8%E5%AE%B3%E6%80%95%E4%BB%80%E9%BA%BC",
+    "timestamp": "2026-10-21T01:42:23.261Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "婚前買$500萬樓女家出$150萬│準新郎負責供樓　提1自私要求終分手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189386816877236224156708.jpeg/YX2kLS3Fd9LhDXD3kjdNHgqYjz7nzQcG9XHUAPVx1AA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401840/iphone-duo%E9%A6%96%E7%99%BC%E6%90%B6%E6%A9%9F%E4%B8%8D%E7%94%A8%E7%AD%892027-%E6%BE%B3%E9%96%80%E6%8E%92%E9%9A%8A-ireserve%E5%9F%B7%E6%BC%8F%E9%A2%A8%E9%9A%AA%E6%8B%86%E8%A7%A3",
     "timestamp": "2026-10-20T17:46:10.043Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府禁用DeepSeek　中方：藉國家安全之名行打壓之實",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189378366365503488251694.jpeg/-xL0jWpXFc-OW3A50Uj5Bm_pPtu04IE8yXdj0sl3Y9I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401844/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%A6%81%E7%94%A8deepseek-%E4%B8%AD%E6%96%B9-%E8%97%89%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E4%B9%8B%E5%90%8D%E8%A1%8C%E6%89%93%E5%A3%93%E4%B9%8B%E5%AF%A6",
-    "timestamp": "2026-10-20T17:20:36.642Z",
     "strategy": ".content-card__main"
   }
 ];
