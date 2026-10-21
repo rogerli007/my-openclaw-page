@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T04:01:30.630Z
+// Last updated: 2026-10-21T05:21:24.637Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "趙薇神隱5年現身獅城公開活動　號召力顏值不減當年妙答何時復出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189559075403206656695307.jpeg/ym0FtS68ScrSUGyiUkSSOGrsfgKn2aNvsRKHprESh6Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60401996/%E8%B6%99%E8%96%87%E7%A5%9E%E9%9A%B15%E5%B9%B4%E7%8F%BE%E8%BA%AB%E7%8D%85%E5%9F%8E%E5%85%AC%E9%96%8B%E6%B4%BB%E5%8B%95-%E8%99%9F%E5%8F%AC%E5%8A%9B%E9%A1%8F%E5%80%BC%E4%B8%8D%E6%B8%9B%E7%95%B6%E5%B9%B4%E5%A6%99%E7%AD%94%E4%BD%95%E6%99%82%E5%BE%A9%E5%87%BA",
+    "timestamp": "2026-10-21T05:21:24.637Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美副總統萬斯：反對烏克蘭入北約　拒認烏克蘭為美國盟友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189429993143275520947325.jpeg/RdSoyDSiCU3lQZ5PaEs6TKNvfdDnEXPWok7ckaJO3JE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401856/%E6%B3%95%E5%9C%8B%E6%9A%B4%E5%8B%95-%E9%9B%BB%E7%8E%A9%E5%BA%97%E9%95%B7%E8%88%87%E5%AD%AB%E6%82%9F%E7%A9%BA%E7%85%A7%E7%89%87%E5%90%8C%E5%AE%88%E8%AD%B7%E5%BA%97%E8%88%96-%E7%84%A1%E6%87%BC%E6%9A%B4%E5%BE%92%E7%88%86%E7%B4%85-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-20T20:56:12.693Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "卡利巴夫晤巴基斯坦陸軍元帥　重申美國必須滿足伊朗7項條件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134952206840107008961378.png/YVGUoCzvqdvK1TXYNzFoENTPY_YuRTdjdvJ-wHbyfsA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60401855/%E5%8D%A1%E5%88%A9%E5%B7%B4%E5%A4%AB%E6%99%A4%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%99%B8%E8%BB%8D%E5%85%83%E5%B8%A5-%E9%87%8D%E7%94%B3%E7%BE%8E%E5%9C%8B%E5%BF%85%E9%A0%88%E6%BB%BF%E8%B6%B3%E4%BC%8A%E6%9C%977%E9%A0%85%E6%A2%9D%E4%BB%B6",
-    "timestamp": "2026-10-20T19:59:06.983Z",
     "strategy": ".content-card__main"
   }
 ];
