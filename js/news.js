@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T21:57:43.314Z
+// Last updated: 2026-10-21T22:18:20.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致天晴　日間炎熱乾燥　市區最高約32度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189819209526415360687159.jpeg/wuQZvymq5M0iRufADDbWE3PgWfDkanDemnTW6Zp01uk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60402270/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E4%B9%BE%E7%87%A5-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8432%E5%BA%A6",
+    "timestamp": "2026-10-21T22:18:20.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜拜仁遭阿仙奴逼和2：2　哈利簡尼連續10場歐聯賽事入球",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230925/783117037625937920649301.jpeg/orpR8pJdLX4rvMU_ZBGmlOhW4Jzaovx3PSZJcj0mSXI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60402251/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E9%9D%A0%E7%A9%A9-%E7%B4%8D%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87%E7%B4%84200%E9%BB%9E-spacex%E6%BC%B29",
     "timestamp": "2026-10-21T15:20:19.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京會見李強　稱俄中關係蓬勃發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181445930017099776796013.jpeg/pR5-fAoxRQhK0lKKHlNpCmu7jNuXqc7CqZ2ZVamdmVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402247/%E6%99%AE%E4%BA%AC%E6%9C%83%E8%A6%8B%E6%9D%8E%E5%BC%B7-%E7%A8%B1%E4%BF%84%E4%B8%AD%E9%97%9C%E4%BF%82%E8%93%AC%E5%8B%83%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-10-21T14:57:49.356Z",
     "strategy": ".content-card__main"
   }
 ];
