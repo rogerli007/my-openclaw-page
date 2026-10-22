@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T11:34:47.501Z
+// Last updated: 2026-10-22T11:48:04.969Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "河口湖台女命案｜27歲台籍女嫌曾涉詐欺判囚3月　遇害者身份曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109437438465806336137842.jpeg/BxVLgnk-J-0d4905XeBS31fmccXdkKfgofX8iqH1_Io?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60402639/%E6%B2%B3%E5%8F%A3%E6%B9%96%E5%8F%B0%E5%A5%B3%E5%91%BD%E6%A1%88-27%E6%AD%B2%E5%8F%B0%E7%B1%8D%E5%A5%B3%E5%AB%8C%E6%9B%BE%E6%B6%89%E8%A9%90%E6%AC%BA%E5%88%A4%E5%9B%9A3%E6%9C%88-%E9%81%87%E5%AE%B3%E8%80%85%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-10-22T11:48:04.969Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "助客訛稱永久離港提早取460萬強積金　前富衞中介人串謀詐騙罪成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189909798531895296629871.jpeg/Oy2ac-u5H_QMe-wd1uMcDFQV_lTI-it6Vg_7G1YP-xs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402375/%E6%B5%B7%E9%97%9C%E6%90%97%E8%A7%80%E5%A1%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%96%AE%E4%BD%8D-%E6%AA%A25%E8%90%AC%E6%94%AF%E7%A7%81%E7%85%99-%E4%B8%80%E5%B0%8D%E5%A4%AB%E5%A9%A6%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-22T04:26:30.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵芳邨兩少年燒單車被捕　其中一人燒傷送院　保安合力撲熄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189608501282869248657820.jpeg/dANtoXF44ORNhRI68GZXsTi59gvVcbAsFgB4yxYAeMs",
-    "url": "https://www.hk01.com/01TV/60402110/%E8%91%B5%E8%8A%B3%E9%82%A8%E5%85%A9%E5%B0%91%E5%B9%B4%E7%87%92%E5%96%AE%E8%BB%8A%E8%A2%AB%E6%8D%95-%E5%85%B6%E4%B8%AD%E4%B8%80%E4%BA%BA%E7%87%92%E5%82%B7%E9%80%81%E9%99%A2-%E4%BF%9D%E5%AE%89%E5%90%88%E5%8A%9B%E6%92%B2%E7%86%84",
-    "timestamp": "2026-10-22T03:49:49.054Z",
     "strategy": ".content-card__main"
   }
 ];
