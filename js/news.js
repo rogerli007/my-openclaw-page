@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T02:56:56.128Z
+// Last updated: 2026-10-22T03:23:36.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑大火報告｜獨立委員會三成員抵特首辦　向行政長官提交報告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189895391005380608039214.jpeg/JAtT-xTf3v3mKr3g2Nbnf2_iTwAZ1B3ES49QiEuPUIg?v=w1920",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60402361/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%A0%B1%E5%91%8A-%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E4%B8%89%E6%88%90%E5%93%A1%E6%8A%B5%E7%89%B9%E9%A6%96%E8%BE%A6-%E5%90%91%E8%A1%8C%E6%94%BF%E9%95%B7%E5%AE%98%E6%8F%90%E4%BA%A4%E5%A0%B1%E5%91%8A",
+    "timestamp": "2026-10-22T03:23:36.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國暴動｜Black Bloc黑衣蒙面人為何「沒領袖」卻能高度協同？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189755078622318592960783.jpeg/62dl9dkdNbxwVfgk9o-yeUqycRACSnjqXERK_VxESv0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402268/%E8%AC%9D%E5%AE%89%E7%90%AA%E8%88%87%E9%84%A7%E9%BA%97%E6%AC%A3%E6%BC%94%E9%86%AB%E7%BE%8E%E8%81%B7%E5%A0%B4%E6%83%A1%E9%AC%A5%E5%8A%87-%E5%85%A5%E7%B4%99%E7%B4%85%E9%A4%A810%E6%AC%A1%E8%A2%AB%E6%8B%92-%E8%AB%97%E5%85%B6%E4%BB%96%E5%A0%B4%E5%9C%B0",
     "timestamp": "2026-10-21T18:50:13.642Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝安琪與鄧麗欣演醫美職場惡鬥劇　入紙紅館10次被拒︰諗其他場地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189755078622318592960783.jpeg/62dl9dkdNbxwVfgk9o-yeUqycRACSnjqXERK_VxESv0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402268/%E8%AC%9D%E5%AE%89%E7%90%AA%E8%88%87%E9%84%A7%E9%BA%97%E6%AC%A3%E6%BC%94%E9%86%AB%E7%BE%8E%E8%81%B7%E5%A0%B4%E6%83%A1%E9%AC%A5%E5%8A%87-%E5%85%A5%E7%B4%99%E7%B4%85%E9%A4%A810%E6%AC%A1%E8%A2%AB%E6%8B%92-%E8%AB%97%E5%85%B6%E4%BB%96%E5%A0%B4%E5%9C%B0",
-    "timestamp": "2026-10-21T18:24:52.300Z",
     "strategy": ".content-card__main"
   }
 ];
