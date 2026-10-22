@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T07:32:06.472Z
+// Last updated: 2026-10-22T07:53:50.879Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藝聲演唱會2026香港加場｜門票優先/公售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185643986329538560137460.jpeg/cC2Kdcv6buTxqpD8pkOD7-C0O9Pbl-2b0xt789Mbe_M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398286/%E8%97%9D%E8%81%B2%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-10-22T07:53:50.879Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洗衣機不洗比馬桶髒530倍！教簡單2步清潔消毒+洗衣機門開或關好?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189826352136589312673458.jpeg/eCLeDYHwM2Ag5e2lFwQykqF-Ddbdmk4hWGKSf2Jikn8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402292/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%94%B7%E5%AD%90%E9%81%87%E8%A5%B2%E8%B2%A0%E5%82%B7%E8%87%AA%E8%A1%8C%E6%B1%82%E9%86%AB-%E9%A0%AD%E6%89%8B%E6%9C%89%E5%88%80%E5%82%B7-%E9%86%AB%E9%99%A2%E9%80%9A%E7%9F%A5%E8%AD%A6%E6%96%B9%E7%B7%9D%E5%85%87",
     "timestamp": "2026-10-21T22:51:34.055Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致天晴　日間炎熱乾燥　市區最高約32度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189819209526415360687159.jpeg/wuQZvymq5M0iRufADDbWE3PgWfDkanDemnTW6Zp01uk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60402270/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E4%B9%BE%E7%87%A5-%E5%B8%82%E5%8D%80%E6%9C%80%E9%AB%98%E7%B4%8432%E5%BA%A6",
-    "timestamp": "2026-10-21T22:18:20.127Z",
     "strategy": ".content-card__main"
   }
 ];
