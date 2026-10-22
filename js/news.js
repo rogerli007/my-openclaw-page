@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T10:00:02.085Z
+// Last updated: 2026-10-22T10:20:33.368Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜超多性感場面 劉雅麗質疑黃金時段播放：教壞細路？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189959858972004352794102.jpeg/txJbk_4MyAjiL7hiRIxSDfCx12rWUkovmVZshZlWbIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402487/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E8%B6%85%E5%A4%9A%E6%80%A7%E6%84%9F%E5%A0%B4%E9%9D%A2-%E5%8A%89%E9%9B%85%E9%BA%97%E8%B3%AA%E7%96%91%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5%E6%92%AD%E6%94%BE-%E6%95%99%E5%A3%9E%E7%B4%B0%E8%B7%AF",
+    "timestamp": "2026-10-22T10:20:33.368Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "解凍方法｜雞翼排骨怎解凍？記者實試2方法5分鐘退冰+放室溫最錯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189883597922766848154703.jpeg/FCAzdHV4yYUsxvhXuHD8tmr_wVgHoJd5B-dlGAfnZRg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60402329/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E9%95%B7%E5%BE%81%E5%8B%9D%E5%88%A990%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5%E5%A4%A7%E6%9C%83-%E7%99%BC%E8%A1%A8%E9%87%8D%E8%A6%81%E8%AC%9B%E8%A9%B1",
     "timestamp": "2026-10-22T02:33:57.453Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京晤威特科夫：俄羅斯願協助美國解決伊朗危機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189870846060007424087549.jpeg/-wm0HG2-6KYlmTnLBtv5YJ3uWfOFB6RBdP6kzXT-pM0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402312/%E6%99%AE%E4%BA%AC%E6%99%A4%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB-%E4%BF%84%E7%BE%85%E6%96%AF%E9%A1%98%E5%8D%94%E5%8A%A9%E7%BE%8E%E5%9C%8B%E8%A7%A3%E6%B1%BA%E4%BC%8A%E6%9C%97%E5%8D%B1%E6%A9%9F",
-    "timestamp": "2026-10-22T01:41:31.010Z",
     "strategy": ".content-card__main"
   }
 ];
