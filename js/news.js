@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T05:46:23.539Z
+// Last updated: 2026-10-22T05:57:31.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗兩男女疑因金錢瓜葛爭執　男子擸凳傷人毀門被捕　女子送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189931165897723904306718.jpeg/gTXEavZUXGGVCcfh2bqh-jAePb6TIDqZ_qaEOv6mhDo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402428/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%85%A9%E7%94%B7%E5%A5%B3%E7%96%91%E5%9B%A0%E9%87%91%E9%8C%A2%E7%93%9C%E8%91%9B%E7%88%AD%E5%9F%B7-%E7%94%B7%E5%AD%90%E6%93%B8%E5%87%B3%E5%82%B7%E4%BA%BA%E6%AF%80%E9%96%80%E8%A2%AB%E6%8D%95-%E5%A5%B3%E5%AD%90%E9%80%81%E9%99%A2",
+    "timestamp": "2026-10-22T05:57:31.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張登及談中國外交・六｜當中美位置與身分變換　台灣怎麼辦？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189798715137724416928356.jpeg/245H3hH9SeOXGoJazej3wxoEz1AyYI6vEkfrtBJH67Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402282/%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B9%E4%BD%BF%E6%99%A4%E6%99%AE%E4%BA%AC-%E6%84%9F%E8%AC%9D%E9%87%8B%E6%94%BE%E8%A2%AB%E5%9B%9A%E5%85%AC%E6%B0%91-%E7%A8%B1%E5%B0%8D%E6%96%B9%E4%BA%BA%E9%81%93%E4%B8%BB%E7%BE%A9%E8%80%85-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-21T21:34:57.852Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金鐘私家車撞壆翻側　34歲男司機涉醉駕被捕　輕傷送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189789056825823232351029.jpeg/3v6jrwkbQH6WWnRx7K8Jj1jvCZjRYGARAIqRnzqKkZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402280/%E9%87%91%E9%90%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-34%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-10-21T20:56:39.686Z",
     "strategy": ".content-card__main"
   }
 ];
