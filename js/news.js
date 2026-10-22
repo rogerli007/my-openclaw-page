@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T08:01:21.678Z
+// Last updated: 2026-10-22T08:33:43.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國癌症發病榜名單大洗牌：甲狀腺癌第3　徐若瑄、汪明荃是患者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189967733161201664360271.png/8TwL6QkGrQlHpEZE4_FICdwtUC1_CBtrs6fiE7On4hM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401973/%E4%B8%AD%E5%9C%8B%E7%99%8C%E7%97%87%E7%99%BC%E7%97%85%E6%A6%9C%E5%90%8D%E5%96%AE%E5%A4%A7%E6%B4%97%E7%89%8C-%E7%94%B2%E7%8B%80%E8%85%BA%E7%99%8C%E7%AC%AC3-%E5%BE%90%E8%8B%A5%E7%91%84-%E6%B1%AA%E6%98%8E%E8%8D%83%E6%98%AF%E6%82%A3%E8%80%85",
+    "timestamp": "2026-10-22T08:33:43.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基同意割地求和了？沒那麼簡單！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189764929465356288921476.jpeg/lxiUh4MqjLrabUiigxLrlKRx0UOJXoodoy0Mp6MtDKc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402273/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%99%9A%E8%A3%9D%E6%9A%97%E8%97%8F%E6%A9%9F%E5%BF%83-%E4%B8%80%E8%88%89%E6%89%8B%E5%81%B4%E9%96%80%E5%A4%A7%E9%96%8B%E6%9B%BC%E5%A6%99%E8%BA%AB%E6%9D%90%E8%97%8F%E4%B8%8D%E4%BD%8F",
     "timestamp": "2026-10-21T23:45:26.705Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高鐵售貨員首次執勤緊張到握拳打氣　乘客暖心關顧　網民意見兩極",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189624975082917888405862.png/za3bxpb4Yt6KbQdf87OYizKUlcGsJHuBwmb498Jm-Pc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400964/%E9%AB%98%E9%90%B5%E5%94%AE%E8%B2%A8%E5%93%A1%E9%A6%96%E6%AC%A1%E5%9F%B7%E5%8B%A4%E7%B7%8A%E5%BC%B5%E5%88%B0%E6%8F%A1%E6%8B%B3%E6%89%93%E6%B0%A3-%E4%B9%98%E5%AE%A2%E6%9A%96%E5%BF%83%E9%97%9C%E9%A1%A7-%E7%B6%B2%E6%B0%91%E6%84%8F%E8%A6%8B%E5%85%A9%E6%A5%B5",
-    "timestamp": "2026-10-21T23:32:30.590Z",
     "strategy": ".content-card__main"
   }
 ];
