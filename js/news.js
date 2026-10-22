@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T22:44:13.726Z
+// Last updated: 2026-10-22T22:53:53.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "勒邦占士賽前奏國歌作勢練射波　特朗普狠批不尊重促道歉｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190188879966113792690158.jpeg/vXDVrIe7TpPQxw4i8WEW3I7lEPorh7EpZNyb3GTcm9w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402696/%E5%8B%92%E9%82%A6%E5%8D%A0%E5%A3%AB%E8%B3%BD%E5%89%8D%E5%A5%8F%E5%9C%8B%E6%AD%8C%E4%BD%9C%E5%8B%A2%E7%B7%B4%E5%B0%84%E6%B3%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E7%8B%A0%E6%89%B9%E4%B8%8D%E5%B0%8A%E9%87%8D%E4%BF%83%E9%81%93%E6%AD%89-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-22T22:53:53.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "勒邦占士賽前奏國歌作勢練射波　特朗普狠批不尊重促道歉｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190097872524152832436195.jpeg/4GE6ODTp0aRFO_BC3sQcXhUY-MtT1xHKLkTF3C5Exdw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402676/%E6%97%BA%E8%A7%92%E4%B8%88%E5%A4%AB%E9%81%B2%E5%88%B030%E5%88%86%E9%90%98-%E5%A6%BB%E5%AD%90%E6%BF%80%E5%8B%95%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E9%9B%99%E6%96%B9%E7%B3%BE%E7%BA%8F%E9%98%BB%E4%BA%A4%E9%80%9A-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-22T17:18:16.589Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警聯同入境處元朗掃黃　24女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190093914011340800209453.jpeg/WkGZ5RQG5zp8r3t-JEG6wvbZIVruVpKBiiCUW4oglFs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402679/%E8%AD%A6%E8%81%AF%E5%90%8C%E5%85%A5%E5%A2%83%E8%99%95%E5%85%83%E6%9C%97%E6%8E%83%E9%BB%83-24%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-22T16:57:33.780Z",
     "strategy": ".content-card__main"
   }
 ];
