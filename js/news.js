@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T23:20:06.672Z
+// Last updated: 2026-10-22T23:37:00.028Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《玉簟秋》最痛分手！徐若晗浴室割腕訣別　丞磊含淚放手網民淚崩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189995301457367040968417.png/cchmg7q8OYvCLP4kYMXWGqZNj-Alp0SxuxW477sVuO8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402545/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E6%9C%80%E7%97%9B%E5%88%86%E6%89%8B-%E5%BE%90%E8%8B%A5%E6%99%97%E6%B5%B4%E5%AE%A4%E5%89%B2%E8%85%95%E8%A8%A3%E5%88%A5-%E4%B8%9E%E7%A3%8A%E5%90%AB%E6%B7%9A%E6%94%BE%E6%89%8B%E7%B6%B2%E6%B0%91%E6%B7%9A%E5%B4%A9",
+    "timestamp": "2026-10-22T23:37:00.028Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "侯門一入深如海下句是什麼？詩中相思與離別　有喜有悲｜歷史奇趣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190107263709220864204389.jpeg/6foI7-domPxPbbRIu_GZlPpR4kJ8N8s3WhPIeVoTyHk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402681/%E4%B8%AD%E8%8B%B1%E8%A1%97%E9%9B%B6%E5%94%AE%E5%BA%97%E8%97%8F%E7%A7%81%E7%85%99%E5%92%8C%E5%86%92%E7%89%8C%E8%A2%8B%E5%8C%85%E6%8B%AClv-%E7%B8%BD%E5%80%BC-460%E8%90%AC-%E6%B5%B7%E9%97%9C%E6%8B%981%E5%A5%B3%E5%BA%97%E5%93%A1",
     "timestamp": "2026-10-22T17:44:56.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中英街零售店藏私煙和冒牌袋包括LV　總值$460萬　海關拘1女店員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190107263709220864204389.jpeg/6foI7-domPxPbbRIu_GZlPpR4kJ8N8s3WhPIeVoTyHk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402681/%E4%B8%AD%E8%8B%B1%E8%A1%97%E9%9B%B6%E5%94%AE%E5%BA%97%E8%97%8F%E7%A7%81%E7%85%99%E5%92%8C%E5%86%92%E7%89%8C%E8%A2%8B%E5%8C%85%E6%8B%AClv-%E7%B8%BD%E5%80%BC-460%E8%90%AC-%E6%B5%B7%E9%97%9C%E6%8B%981%E5%A5%B3%E5%BA%97%E5%93%A1",
-    "timestamp": "2026-10-22T17:32:55.555Z",
     "strategy": ".content-card__main"
   }
 ];
