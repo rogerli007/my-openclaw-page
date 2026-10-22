@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T14:46:53.745Z
+// Last updated: 2026-10-22T14:57:27.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩10.24頭獎1300萬攪珠前攻略！6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184274031591821312892173.jpeg/rr28qpwYhnL7PtWdjS3cu6g_vGZMtGGT6xbWousW1qI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402668/%E5%85%AD%E5%90%88%E5%BD%A910-24%E9%A0%AD%E7%8D%8E1300%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E6%94%BB%E7%95%A5-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-10-22T14:57:27.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城6-10劇情懶人包丨張智霖吳卓羲被迫聯手+與姜大衞決裂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189894488391159808218547.jpeg/i4FwUqGDzPe5TJzExJZzdryRD1EcMmVWiY81MomPNTI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402333/%E7%B0%A1%E6%B7%91%E5%85%92%E5%8A%89%E6%BA%AB%E9%A6%A8%E6%9E%97%E6%B3%B3%E6%B7%98%E7%B5%84-%E6%9C%80%E6%BD%AE%E9%98%BF%E5%A9%86%E5%9C%98-%E8%90%AC%E8%81%96%E7%AF%80%E9%9B%B6%E5%8C%85%E8%A2%B1%E7%99%BD%E9%AB%AE%E7%9D%A1%E8%A1%A3%E5%87%BA%E5%B7%A1",
     "timestamp": "2026-10-22T06:31:41.963Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗兩男女疑因金錢瓜葛爭執　男子擸凳傷人毀門被捕　女子送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189931165897723904306718.jpeg/gTXEavZUXGGVCcfh2bqh-jAePb6TIDqZ_qaEOv6mhDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402428/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%85%A9%E7%94%B7%E5%A5%B3%E7%96%91%E5%9B%A0%E9%87%91%E9%8C%A2%E7%93%9C%E8%91%9B%E7%88%AD%E5%9F%B7-%E7%94%B7%E5%AD%90%E6%93%B8%E5%87%B3%E5%82%B7%E4%BA%BA%E6%AF%80%E9%96%80%E8%A2%AB%E6%8D%95-%E5%A5%B3%E5%AD%90%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-22T05:57:31.895Z",
     "strategy": ".content-card__main"
   }
 ];
