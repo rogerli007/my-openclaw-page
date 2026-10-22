@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T16:57:33.780Z
+// Last updated: 2026-10-22T17:18:16.589Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角丈夫遲到30分鐘　妻子激動衝出馬路　雙方糾纏阻交通｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190097872524152832436195.jpeg/4GE6ODTp0aRFO_BC3sQcXhUY-MtT1xHKLkTF3C5Exdw",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402676/%E6%97%BA%E8%A7%92%E4%B8%88%E5%A4%AB%E9%81%B2%E5%88%B030%E5%88%86%E9%90%98-%E5%A6%BB%E5%AD%90%E6%BF%80%E5%8B%95%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E9%9B%99%E6%96%B9%E7%B3%BE%E7%BA%8F%E9%98%BB%E4%BA%A4%E9%80%9A-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-22T17:18:16.589Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯同入境處元朗掃黃　24女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189993933854216192720594.jpeg/7Qa1GhZpOCI9C_0z7uTaxFEGmIMDz0aXUtyhmlLcoZo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60402543/%E4%BA%BA%E5%B7%A5%E4%B8%AD%E4%BD%8D%E6%95%B82026-%E6%9C%88%E8%96%AA%E5%91%A2%E5%80%8B%E6%95%B8%E9%AB%98%E9%81%8E%E4%B8%80%E5%8D%8A%E6%89%93%E5%B7%A5%E4%BB%94-%E6%9C%80%E6%96%B0%E5%90%84%E8%A1%8C%E6%A5%AD%E8%81%B7%E7%B4%9A%E4%BA%BA%E5%B7%A5",
     "timestamp": "2026-10-22T09:47:37.579Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臺日電梯「安全之星」消失了　機電署：涉嚴重失誤　評級暫緩公布",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189290979761328128450196.jpeg/Q7il1fSIgVCJtNu5IUZOYQ9YC5aa9DGdXmiggV5ooIE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402527/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E5%AE%89%E5%85%A8%E4%B9%8B%E6%98%9F-%E6%B6%88%E5%A4%B1%E4%BA%86-%E6%A9%9F%E9%9B%BB%E7%BD%B2-%E6%B6%89%E5%9A%B4%E9%87%8D%E5%A4%B1%E8%AA%A4-%E8%A9%95%E7%B4%9A%E6%9A%AB%E7%B7%A9%E5%85%AC%E5%B8%83",
-    "timestamp": "2026-10-22T08:53:34.182Z",
     "strategy": ".content-card__main"
   }
 ];
