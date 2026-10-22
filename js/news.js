@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T14:57:27.132Z
+// Last updated: 2026-10-22T15:20:46.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "00後設仙人跳涉38案│女局長被色誘與2男上床　遭敲詐¥19萬兼免職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189631772518780928956247.png/JqbBEWqNLhSZC0_pApplEpohZaYFZZC942Zq6uNmauo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401479/00%E5%BE%8C%E8%A8%AD%E4%BB%99%E4%BA%BA%E8%B7%B3%E6%B6%8938%E6%A1%88-%E5%A5%B3%E5%B1%80%E9%95%B7%E8%A2%AB%E8%89%B2%E8%AA%98%E8%88%872%E7%94%B7%E4%B8%8A%E5%BA%8A-%E9%81%AD%E6%95%B2%E8%A9%90-19%E8%90%AC%E5%85%BC%E5%85%8D%E8%81%B7",
+    "timestamp": "2026-10-22T15:20:46.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩10.24頭獎1300萬攪珠前攻略！6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189950174974185472014296.jpeg/uosOJ690EZYifum0IDgHS0PUg84ZLzwLNRoxIRAaMSE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402468/%E7%94%B7%E5%AD%90%E7%85%A7%E5%85%A7%E7%AA%BA%E9%8F%A1%E7%AA%81%E4%BC%91%E5%85%8B%E4%BA%A1-%E4%BA%8B%E4%B8%BB%E6%9C%89%E5%91%BC%E5%90%B8%E5%95%8F%E9%A1%8C-%E5%A6%BB%E7%96%91%E6%9C%AA%E6%9C%89%E9%BA%BB%E9%86%89%E7%A7%91%E9%86%AB%E7%94%9F%E6%96%BD%E8%97%A5",
     "timestamp": "2026-10-22T07:01:26.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "簡淑兒劉溫馨林泳淘組「最潮阿婆團」　萬聖節零包袱白髮睡衣出巡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189894488391159808218547.jpeg/i4FwUqGDzPe5TJzExJZzdryRD1EcMmVWiY81MomPNTI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402333/%E7%B0%A1%E6%B7%91%E5%85%92%E5%8A%89%E6%BA%AB%E9%A6%A8%E6%9E%97%E6%B3%B3%E6%B7%98%E7%B5%84-%E6%9C%80%E6%BD%AE%E9%98%BF%E5%A9%86%E5%9C%98-%E8%90%AC%E8%81%96%E7%AF%80%E9%9B%B6%E5%8C%85%E8%A2%B1%E7%99%BD%E9%AB%AE%E7%9D%A1%E8%A1%A3%E5%87%BA%E5%B7%A1",
-    "timestamp": "2026-10-22T06:31:41.963Z",
     "strategy": ".content-card__main"
   }
 ];
