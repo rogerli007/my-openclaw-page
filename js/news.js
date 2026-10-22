@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T20:54:58.601Z
+// Last updated: 2026-10-22T21:19:12.021Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌大隴街斜坡變老鼠窩　鼠群亂竄　旁邊公園淪高危區｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190164107349725184178396.jpeg/daHb4sVhLafTPq3VwuhG9_A7EeugE-BH0eH8hdHh_IU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402694/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E6%96%9C%E5%9D%A1%E8%AE%8A%E8%80%81%E9%BC%A0%E7%AA%A9-%E9%BC%A0%E7%BE%A4%E4%BA%82%E7%AB%84-%E6%97%81%E9%82%8A%E5%85%AC%E5%9C%92%E6%B7%AA%E9%AB%98%E5%8D%B1%E5%8D%80-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-22T21:19:12.021Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基稱星鏈速度尚未恢復　美媒：特朗普致電馬斯克後有改善",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261006/1184274031591821312892173.jpeg/rr28qpwYhnL7PtWdjS3cu6g_vGZMtGGT6xbWousW1qI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402668/%E5%85%AD%E5%90%88%E5%BD%A910-24%E9%A0%AD%E7%8D%8E1300%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E6%94%BB%E7%95%A5-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-10-22T14:57:27.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城6-10劇情懶人包丨張智霖吳卓羲被迫聯手+與姜大衞決裂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185285192219103232753169.jpeg/_PqubVeE1cv3npl6POUWEG-mSGw8YfxtoyLzSKMi80g",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400416/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%8A%87%E6%83%85%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%BC%B5%E6%99%BA%E9%9C%96%E5%90%B3%E5%8D%93%E7%BE%B2%E8%81%AF%E6%89%8B%E5%86%8D%E6%9A%97%E9%AC%A5-%E8%88%87%E5%A7%9C%E5%A4%A7%E8%A1%9E%E6%B1%BA%E8%A3%82",
-    "timestamp": "2026-10-22T14:46:53.745Z",
     "strategy": ".content-card__main"
   }
 ];
