@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T22:53:53.604Z
+// Last updated: 2026-10-22T23:20:06.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "侯門一入深如海下句是什麼？詩中相思與離別　有喜有悲｜歷史奇趣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188193971134795776013756.png/yGM3-VWBGqtjmUCTKtRWG89uwrLxBKZe4l2Ee-JdhHs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400771/%E4%BE%AF%E9%96%80%E4%B8%80%E5%85%A5%E6%B7%B1%E5%A6%82%E6%B5%B7%E4%B8%8B%E5%8F%A5%E6%98%AF%E4%BB%80%E9%BA%BC-%E8%A9%A9%E4%B8%AD%E7%9B%B8%E6%80%9D%E8%88%87%E9%9B%A2%E5%88%A5-%E6%9C%89%E5%96%9C%E6%9C%89%E6%82%B2-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
+    "timestamp": "2026-10-22T23:20:06.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "勒邦占士賽前奏國歌作勢練射波　特朗普狠批不尊重促道歉｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190107263709220864204389.jpeg/6foI7-domPxPbbRIu_GZlPpR4kJ8N8s3WhPIeVoTyHk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402681/%E4%B8%AD%E8%8B%B1%E8%A1%97%E9%9B%B6%E5%94%AE%E5%BA%97%E8%97%8F%E7%A7%81%E7%85%99%E5%92%8C%E5%86%92%E7%89%8C%E8%A2%8B%E5%8C%85%E6%8B%AClv-%E7%B8%BD%E5%80%BC-460%E8%90%AC-%E6%B5%B7%E9%97%9C%E6%8B%981%E5%A5%B3%E5%BA%97%E5%93%A1",
     "timestamp": "2026-10-22T17:32:55.555Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角丈夫遲到30分鐘　妻子激動衝出馬路　雙方糾纏阻交通｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190097872524152832436195.jpeg/4GE6ODTp0aRFO_BC3sQcXhUY-MtT1xHKLkTF3C5Exdw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402676/%E6%97%BA%E8%A7%92%E4%B8%88%E5%A4%AB%E9%81%B2%E5%88%B030%E5%88%86%E9%90%98-%E5%A6%BB%E5%AD%90%E6%BF%80%E5%8B%95%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E9%9B%99%E6%96%B9%E7%B3%BE%E7%BA%8F%E9%98%BB%E4%BA%A4%E9%80%9A-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-22T17:18:16.589Z",
     "strategy": ".content-card__main"
   }
 ];
