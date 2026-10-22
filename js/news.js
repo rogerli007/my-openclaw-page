@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T03:23:36.335Z
+// Last updated: 2026-10-22T03:49:49.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵芳邨兩少年燒單車被捕　其中一人燒傷送院　保安合力撲熄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189608501282869248657820.jpeg/dANtoXF44ORNhRI68GZXsTi59gvVcbAsFgB4yxYAeMs",
+    "url": "https://www.hk01.com/01TV/60402110/%E8%91%B5%E8%8A%B3%E9%82%A8%E5%85%A9%E5%B0%91%E5%B9%B4%E7%87%92%E5%96%AE%E8%BB%8A%E8%A2%AB%E6%8D%95-%E5%85%B6%E4%B8%AD%E4%B8%80%E4%BA%BA%E7%87%92%E5%82%B7%E9%80%81%E9%99%A2-%E4%BF%9D%E5%AE%89%E5%90%88%E5%8A%9B%E6%92%B2%E7%86%84",
+    "timestamp": "2026-10-22T03:49:49.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑大火報告｜獨立委員會三成員抵特首辦　向行政長官提交報告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189755078622318592960783.jpeg/62dl9dkdNbxwVfgk9o-yeUqycRACSnjqXERK_VxESv0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402268/%E8%AC%9D%E5%AE%89%E7%90%AA%E8%88%87%E9%84%A7%E9%BA%97%E6%AC%A3%E6%BC%94%E9%86%AB%E7%BE%8E%E8%81%B7%E5%A0%B4%E6%83%A1%E9%AC%A5%E5%8A%87-%E5%85%A5%E7%B4%99%E7%B4%85%E9%A4%A810%E6%AC%A1%E8%A2%AB%E6%8B%92-%E8%AB%97%E5%85%B6%E4%BB%96%E5%A0%B4%E5%9C%B0",
     "timestamp": "2026-10-21T19:03:56.092Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝安琪與鄧麗欣演醫美職場惡鬥劇　入紙紅館10次被拒︰諗其他場地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189755078622318592960783.jpeg/62dl9dkdNbxwVfgk9o-yeUqycRACSnjqXERK_VxESv0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402268/%E8%AC%9D%E5%AE%89%E7%90%AA%E8%88%87%E9%84%A7%E9%BA%97%E6%AC%A3%E6%BC%94%E9%86%AB%E7%BE%8E%E8%81%B7%E5%A0%B4%E6%83%A1%E9%AC%A5%E5%8A%87-%E5%85%A5%E7%B4%99%E7%B4%85%E9%A4%A810%E6%AC%A1%E8%A2%AB%E6%8B%92-%E8%AB%97%E5%85%B6%E4%BB%96%E5%A0%B4%E5%9C%B0",
-    "timestamp": "2026-10-21T18:50:13.642Z",
     "strategy": ".content-card__main"
   }
 ];
