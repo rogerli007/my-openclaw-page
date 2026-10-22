@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T13:56:44.100Z
+// Last updated: 2026-10-22T14:20:51.727Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山西33歲女南太行重裝行山　紮營過夜失蹤　2天後伏屍崖下水潭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189963815278612480126508.png/7olODZ5v_J-DE5C-UVtOLuhfVrRwgw5pgwN3UoMDd1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402477/%E5%B1%B1%E8%A5%BF33%E6%AD%B2%E5%A5%B3%E5%8D%97%E5%A4%AA%E8%A1%8C%E9%87%8D%E8%A3%9D%E8%A1%8C%E5%B1%B1-%E7%B4%AE%E7%87%9F%E9%81%8E%E5%A4%9C%E5%A4%B1%E8%B9%A4-2%E5%A4%A9%E5%BE%8C%E4%BC%8F%E5%B1%8D%E5%B4%96%E4%B8%8B%E6%B0%B4%E6%BD%AD",
+    "timestamp": "2026-10-22T14:20:51.727Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《嫁金釵》假千金終局！君黛毒酒反噬死魏嬈懷中　臨終遺言極催淚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132165198929465344845610.jpeg/VfPLSGm5PsEEckNfhC2ueQjO_tDmAp3I-LeuAfi3rgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60402369/%E5%BC%B5%E7%99%BB%E5%8F%8A%E8%AB%87%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4-%E5%85%AD-%E7%95%B6%E4%B8%AD%E7%BE%8E%E4%BD%8D%E7%BD%AE%E8%88%87%E8%BA%AB%E5%88%86%E8%AE%8A%E6%8F%9B-%E5%8F%B0%E7%81%A3%E6%80%8E%E9%BA%BC%E8%BE%A6",
     "timestamp": "2026-10-22T05:46:23.539Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薔琵超強颱風｜香港快運HK Express至少10班台港航班取消(附詳情)",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134675095382396928673918.jpeg/NbXjrgkeaKZ4O4XuQEolQk7DNQ-OTefMIsdbwyLHW8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402423/%E8%96%94%E7%90%B5%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%81%8Bhk-express%E8%87%B3%E5%B0%9110%E7%8F%AD%E5%8F%B0%E6%B8%AF%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-%E9%99%84%E8%A9%B3%E6%83%85",
-    "timestamp": "2026-10-22T05:20:37.752Z",
     "strategy": ".content-card__main"
   }
 ];
