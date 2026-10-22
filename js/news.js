@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T02:33:57.453Z
+// Last updated: 2026-10-22T02:56:56.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國暴動｜Black Bloc黑衣蒙面人為何「沒領袖」卻能高度協同？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189884412406272000862317.jpeg/F-lUKAi-FzD6dcRl0Ez6iLbbIoFxpAb-9SUakPUlGpA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60402319/%E6%B3%95%E5%9C%8B%E6%9A%B4%E5%8B%95-black-bloc%E9%BB%91%E8%A1%A3%E8%92%99%E9%9D%A2%E4%BA%BA%E7%82%BA%E4%BD%95-%E6%B2%92%E9%A0%98%E8%A2%96-%E5%8D%BB%E8%83%BD%E9%AB%98%E5%BA%A6%E5%8D%94%E5%90%8C",
+    "timestamp": "2026-10-22T02:56:56.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平出席長征勝利90周年紀念大會　 發表重要講話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189755078622318592960783.jpeg/62dl9dkdNbxwVfgk9o-yeUqycRACSnjqXERK_VxESv0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402268/%E8%AC%9D%E5%AE%89%E7%90%AA%E8%88%87%E9%84%A7%E9%BA%97%E6%AC%A3%E6%BC%94%E9%86%AB%E7%BE%8E%E8%81%B7%E5%A0%B4%E6%83%A1%E9%AC%A5%E5%8A%87-%E5%85%A5%E7%B4%99%E7%B4%85%E9%A4%A810%E6%AC%A1%E8%A2%AB%E6%8B%92-%E8%AB%97%E5%85%B6%E4%BB%96%E5%A0%B4%E5%9C%B0",
     "timestamp": "2026-10-21T18:24:52.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒乓球亞錦賽︱港隊男、女團8強止步　雙打強勢持續3對組合晉16強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189749302910521344325609.jpeg/qdFKxviJ0OReMI0vdRSaGjA0D94vHk90kRLAHZESwB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402260/%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7-%E5%A5%B3%E5%9C%988%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%9B%99%E6%89%93%E5%BC%B7%E5%8B%A2%E6%8C%81%E7%BA%8C3%E5%B0%8D%E7%B5%84%E5%90%88%E6%99%8916%E5%BC%B7",
-    "timestamp": "2026-10-21T17:55:55.863Z",
     "strategy": ".content-card__main"
   }
 ];
