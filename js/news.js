@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T14:20:51.727Z
+// Last updated: 2026-10-22T14:46:53.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城6-10劇情懶人包丨張智霖吳卓羲被迫聯手+與姜大衞決裂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185285192219103232753169.jpeg/_PqubVeE1cv3npl6POUWEG-mSGw8YfxtoyLzSKMi80g",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60400416/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%8A%87%E6%83%85%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%BC%B5%E6%99%BA%E9%9C%96%E5%90%B3%E5%8D%93%E7%BE%B2%E8%81%AF%E6%89%8B%E5%86%8D%E6%9A%97%E9%AC%A5-%E8%88%87%E5%A7%9C%E5%A4%A7%E8%A1%9E%E6%B1%BA%E8%A3%82",
+    "timestamp": "2026-10-22T14:46:53.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山西33歲女南太行重裝行山　紮營過夜失蹤　2天後伏屍崖下水潭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189931165897723904306718.jpeg/gTXEavZUXGGVCcfh2bqh-jAePb6TIDqZ_qaEOv6mhDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402428/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%85%A9%E7%94%B7%E5%A5%B3%E7%96%91%E5%9B%A0%E9%87%91%E9%8C%A2%E7%93%9C%E8%91%9B%E7%88%AD%E5%9F%B7-%E7%94%B7%E5%AD%90%E6%93%B8%E5%87%B3%E5%82%B7%E4%BA%BA%E6%AF%80%E9%96%80%E8%A2%AB%E6%8D%95-%E5%A5%B3%E5%AD%90%E9%80%81%E9%99%A2",
     "timestamp": "2026-10-22T05:57:31.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張登及談中國外交・六｜當中美位置與身分變換　台灣怎麼辦？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132165198929465344845610.jpeg/VfPLSGm5PsEEckNfhC2ueQjO_tDmAp3I-LeuAfi3rgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60402369/%E5%BC%B5%E7%99%BB%E5%8F%8A%E8%AB%87%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4-%E5%85%AD-%E7%95%B6%E4%B8%AD%E7%BE%8E%E4%BD%8D%E7%BD%AE%E8%88%87%E8%BA%AB%E5%88%86%E8%AE%8A%E6%8F%9B-%E5%8F%B0%E7%81%A3%E6%80%8E%E9%BA%BC%E8%BE%A6",
-    "timestamp": "2026-10-22T05:46:23.539Z",
     "strategy": ".content-card__main"
   }
 ];
