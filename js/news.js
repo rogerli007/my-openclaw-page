@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T13:22:08.115Z
+// Last updated: 2026-10-22T13:47:52.591Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臺日電梯｜機電署今續查30幢樓宇　無發現欠裝耐火門框組件新個案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187729945904812032580491.jpeg/v5k2KwvG6zqTqrcAXPfFTawQjwRulLY20qxMktKsTJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402659/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E6%A9%9F%E9%9B%BB%E7%BD%B2%E4%BB%8A%E7%BA%8C%E6%9F%A530%E5%B9%A2%E6%A8%93%E5%AE%87-%E7%84%A1%E7%99%BC%E7%8F%BE%E6%AC%A0%E8%A3%9D%E8%80%90%E7%81%AB%E9%96%80%E6%A1%86%E7%B5%84%E4%BB%B6%E6%96%B0%E5%80%8B%E6%A1%88",
+    "timestamp": "2026-10-22T13:47:52.591Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜蔡一智時隔13年出山再同框張智霖　獲老友化身導師提點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189890353231040512792134.jpeg/eEkMt8otGHbAgwpKkqf3rj8Qs3lAwqdJIWrrwCFq68A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402334/%E5%BC%B5%E8%A1%9E%E5%81%A5%E5%A4%AB%E5%A9%A6%E8%A2%AB%E8%BD%9F%E4%BA%82%E6%8B%8B%E7%85%99%E9%A0%AD-%E9%AB%98eq%E5%80%9F%E6%AD%8C%E8%87%AA%E5%98%B2%E5%86%8D%E6%9B%AC%E8%AD%89%E6%93%9A%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-10-22T04:59:22.486Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《橙新聞》收英國寄港粉末信急疏散　兩日三傳媒收信　警到場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189916513444827136263048.jpeg/zLDJKdk2xjgdDaFGz1sAnMR3PR1Tfv9YQvhpokL4aaI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402409/%E6%A9%99%E6%96%B0%E8%81%9E-%E6%94%B6%E8%8B%B1%E5%9C%8B%E5%AF%84%E6%B8%AF%E7%B2%89%E6%9C%AB%E4%BF%A1%E6%80%A5%E7%96%8F%E6%95%A3-%E5%85%A9%E6%97%A5%E4%B8%89%E5%82%B3%E5%AA%92%E6%94%B6%E4%BF%A1-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-10-22T04:48:09.471Z",
     "strategy": ".content-card__main"
   }
 ];
