@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T04:48:09.471Z
+// Last updated: 2026-10-22T04:59:22.486Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張衞健夫婦被轟亂拋煙頭　高EQ借歌自嘲再曬證據還原真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189890353231040512792134.jpeg/eEkMt8otGHbAgwpKkqf3rj8Qs3lAwqdJIWrrwCFq68A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402334/%E5%BC%B5%E8%A1%9E%E5%81%A5%E5%A4%AB%E5%A9%A6%E8%A2%AB%E8%BD%9F%E4%BA%82%E6%8B%8B%E7%85%99%E9%A0%AD-%E9%AB%98eq%E5%80%9F%E6%AD%8C%E8%87%AA%E5%98%B2%E5%86%8D%E6%9B%AC%E8%AD%89%E6%93%9A%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-10-22T04:59:22.486Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《橙新聞》收英國寄港粉末信急疏散　兩日三傳媒收信　警到場調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250810/1031216473231724544746502.jpeg/GiP_hE9QnYz83NuI18xBWMPYA7F2sUpMYPinEWD4pxE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402278/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%B8%E6%A0%A1%E9%95%B7%E9%81%B4%E9%81%B8%E7%88%86%E7%88%AD%E8%AD%B0-%E7%95%B6%E9%81%B8%E4%BA%BA%E5%BE%97%E7%A5%A8%E5%B0%91%E5%B0%8D%E6%89%8B%E4%B8%80%E5%8D%8A-%E6%96%87%E7%A7%91%E7%9C%81%E4%BF%83%E8%AA%AA%E6%98%8E",
     "timestamp": "2026-10-21T20:19:32.354Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜曼聯作客1：4大敗　科木尼高柏斯梅開二度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189772844939087872870524.jpeg/Gqcl5RrjetdM8ROdK6IoYgVsXDlbTnNBWcyntVnMp7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402275/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-4%E5%A4%A7%E6%95%97-%E7%A7%91%E6%9C%A8%E5%B0%BC%E9%AB%98%E6%9F%8F%E6%96%AF%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
-    "timestamp": "2026-10-21T19:43:54.972Z",
     "strategy": ".content-card__main"
   }
 ];
