@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T03:49:49.054Z
+// Last updated: 2026-10-22T04:26:30.432Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關搗觀塘工作室單位　檢5萬支私煙　一對夫婦被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189909798531895296629871.jpeg/Oy2ac-u5H_QMe-wd1uMcDFQV_lTI-it6Vg_7G1YP-xs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402375/%E6%B5%B7%E9%97%9C%E6%90%97%E8%A7%80%E5%A1%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%96%AE%E4%BD%8D-%E6%AA%A25%E8%90%AC%E6%94%AF%E7%A7%81%E7%85%99-%E4%B8%80%E5%B0%8D%E5%A4%AB%E5%A9%A6%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-22T04:26:30.432Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵芳邨兩少年燒單車被捕　其中一人燒傷送院　保安合力撲熄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189770365140733952152078.jpeg/GDFKggDnqPaeIeFo7bhibAEO_mkbVFn1LEJwEixCcBI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402276/%E9%BB%83%E6%85%98%E7%9B%88-%E6%9D%8E%E5%98%89%E6%96%87%E5%AE%A3%E5%B8%83%E7%B5%90%E5%A9%9A-%E6%A3%84%E5%AE%89%E7%A9%A9%E8%B5%B4%E7%BE%8E%E5%B0%8B%E5%A4%A2%E6%9B%BE%E7%AA%AE%E5%88%B0%E4%B8%80%E6%97%A5%E9%A3%9F%E4%B8%80%E9%A4%90%E5%8D%8A",
     "timestamp": "2026-10-21T19:19:58.816Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "謝安琪與鄧麗欣演醫美職場惡鬥劇　入紙紅館10次被拒︰諗其他場地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189755078622318592960783.jpeg/62dl9dkdNbxwVfgk9o-yeUqycRACSnjqXERK_VxESv0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402268/%E8%AC%9D%E5%AE%89%E7%90%AA%E8%88%87%E9%84%A7%E9%BA%97%E6%AC%A3%E6%BC%94%E9%86%AB%E7%BE%8E%E8%81%B7%E5%A0%B4%E6%83%A1%E9%AC%A5%E5%8A%87-%E5%85%A5%E7%B4%99%E7%B4%85%E9%A4%A810%E6%AC%A1%E8%A2%AB%E6%8B%92-%E8%AB%97%E5%85%B6%E4%BB%96%E5%A0%B4%E5%9C%B0",
-    "timestamp": "2026-10-21T19:03:56.092Z",
     "strategy": ".content-card__main"
   }
 ];
