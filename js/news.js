@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T13:47:52.591Z
+// Last updated: 2026-10-22T13:56:44.100Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《嫁金釵》假千金終局！君黛毒酒反噬死魏嬈懷中　臨終遺言極催淚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190002902962278400894731.png/-saZGmxsSZs0Crws35wtjgMK_qqvrEwTrkUG765FBu8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402578/%E5%AB%81%E9%87%91%E9%87%B5-%E5%81%87%E5%8D%83%E9%87%91%E7%B5%82%E5%B1%80-%E5%90%9B%E9%BB%9B%E6%AF%92%E9%85%92%E5%8F%8D%E5%99%AC%E6%AD%BB%E9%AD%8F%E5%AC%88%E6%87%B7%E4%B8%AD-%E8%87%A8%E7%B5%82%E9%81%BA%E8%A8%80%E6%A5%B5%E5%82%AC%E6%B7%9A",
+    "timestamp": "2026-10-22T13:56:44.100Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯｜機電署今續查30幢樓宇　無發現欠裝耐火門框組件新個案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134675095382396928673918.jpeg/NbXjrgkeaKZ4O4XuQEolQk7DNQ-OTefMIsdbwyLHW8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402423/%E8%96%94%E7%90%B5%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%81%8Bhk-express%E8%87%B3%E5%B0%9110%E7%8F%AD%E5%8F%B0%E6%B8%AF%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-%E9%99%84%E8%A9%B3%E6%83%85",
     "timestamp": "2026-10-22T05:20:37.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張衞健夫婦被轟亂拋煙頭　高EQ借歌自嘲再曬證據還原真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189890353231040512792134.jpeg/eEkMt8otGHbAgwpKkqf3rj8Qs3lAwqdJIWrrwCFq68A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402334/%E5%BC%B5%E8%A1%9E%E5%81%A5%E5%A4%AB%E5%A9%A6%E8%A2%AB%E8%BD%9F%E4%BA%82%E6%8B%8B%E7%85%99%E9%A0%AD-%E9%AB%98eq%E5%80%9F%E6%AD%8C%E8%87%AA%E5%98%B2%E5%86%8D%E6%9B%AC%E8%AD%89%E6%93%9A%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-10-22T04:59:22.486Z",
     "strategy": ".content-card__main"
   }
 ];
