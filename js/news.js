@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-21T23:54:16.602Z
+// Last updated: 2026-10-22T00:46:51.438Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門鳴琴路兩巴士相撞　至少8人受傷　現場交通擠塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189859188843483136093264.jpeg/Pio8CQqDB7mRPh2ttXMsZkUxlA4MtCXPB6s4-werOPs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402303/%E5%B1%AF%E9%96%80%E9%B3%B4%E7%90%B4%E8%B7%AF%E5%85%A9%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%918%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
+    "timestamp": "2026-10-22T00:46:51.438Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo明開售　美媒實測體驗不俗卻有一致命bug位｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189749302910521344325609.jpeg/qdFKxviJ0OReMI0vdRSaGjA0D94vHk90kRLAHZESwB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402260/%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7-%E5%A5%B3%E5%9C%988%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%9B%99%E6%89%93%E5%BC%B7%E5%8B%A2%E6%8C%81%E7%BA%8C3%E5%B0%8D%E7%B5%84%E5%90%88%E6%99%8916%E5%BC%B7",
     "timestamp": "2026-10-21T17:32:47.849Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "父遛狗12分鐘2歲兒獨留家墮樓亡　提月給¥1萬求不離婚　妻怒追責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189697983654924288025614.png/BMCz8xXhTxxFhQWyt9RwDEgIslcWvmutWdfSuFnX0rg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60401955/%E7%88%B6%E9%81%9B%E7%8B%9712%E5%88%86%E9%90%982%E6%AD%B2%E5%85%92%E7%8D%A8%E7%95%99%E5%AE%B6%E5%A2%AE%E6%A8%93%E4%BA%A1-%E6%8F%90%E6%9C%88%E7%B5%A6-1%E8%90%AC%E6%B1%82%E4%B8%8D%E9%9B%A2%E5%A9%9A-%E5%A6%BB%E6%80%92%E8%BF%BD%E8%B2%AC",
-    "timestamp": "2026-10-21T17:17:32.465Z",
     "strategy": ".content-card__main"
   }
 ];
