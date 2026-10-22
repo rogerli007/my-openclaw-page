@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T10:37:41.984Z
+// Last updated: 2026-10-22T11:19:19.239Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "論壇共探綠色機遇　大會頒ESG大獎兼首度聯同中大授證書",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189998465040519168708214.jpeg/HUnhi73ovIO0mwVSHpYvAWvmXZAYxrKvDQqPnA0Kj5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399324/%E8%AB%96%E5%A3%87%E5%85%B1%E6%8E%A2%E7%B6%A0%E8%89%B2%E6%A9%9F%E9%81%87-%E5%A4%A7%E6%9C%83%E9%A0%92esg%E5%A4%A7%E7%8D%8E%E5%85%BC%E9%A6%96%E5%BA%A6%E8%81%AF%E5%90%8C%E4%B8%AD%E5%A4%A7%E6%8E%88%E8%AD%89%E6%9B%B8",
+    "timestamp": "2026-10-22T11:19:19.239Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恒大傳播學院新碩士課程申請超額99倍　8000人爭80位　內地生為主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189895391005380608039214.jpeg/JAtT-xTf3v3mKr3g2Nbnf2_iTwAZ1B3ES49QiEuPUIg?v=w1920",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60402361/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%A0%B1%E5%91%8A-%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E4%B8%89%E6%88%90%E5%93%A1%E6%8A%B5%E7%89%B9%E9%A6%96%E8%BE%A6-%E5%90%91%E8%A1%8C%E6%94%BF%E9%95%B7%E5%AE%98%E6%8F%90%E4%BA%A4%E5%A0%B1%E5%91%8A",
     "timestamp": "2026-10-22T03:23:36.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國暴動｜Black Bloc黑衣蒙面人為何「沒領袖」卻能高度協同？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189884412406272000862317.jpeg/F-lUKAi-FzD6dcRl0Ez6iLbbIoFxpAb-9SUakPUlGpA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60402319/%E6%B3%95%E5%9C%8B%E6%9A%B4%E5%8B%95-black-bloc%E9%BB%91%E8%A1%A3%E8%92%99%E9%9D%A2%E4%BA%BA%E7%82%BA%E4%BD%95-%E6%B2%92%E9%A0%98%E8%A2%96-%E5%8D%BB%E8%83%BD%E9%AB%98%E5%BA%A6%E5%8D%94%E5%90%8C",
-    "timestamp": "2026-10-22T02:56:56.128Z",
     "strategy": ".content-card__main"
   }
 ];
