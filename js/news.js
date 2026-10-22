@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T17:44:56.164Z
+// Last updated: 2026-10-22T17:54:25.662Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中英街零售店藏私煙和冒牌袋包括LV　總值$460萬　海關拘1女店員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190107263709220864204389.jpeg/6foI7-domPxPbbRIu_GZlPpR4kJ8N8s3WhPIeVoTyHk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402681/%E4%B8%AD%E8%8B%B1%E8%A1%97%E9%9B%B6%E5%94%AE%E5%BA%97%E8%97%8F%E7%A7%81%E7%85%99%E5%92%8C%E5%86%92%E7%89%8C%E8%A2%8B%E5%8C%85%E6%8B%AClv-%E7%B8%BD%E5%80%BC-460%E8%90%AC-%E6%B5%B7%E9%97%9C%E6%8B%981%E5%A5%B3%E5%BA%97%E5%93%A1",
+    "timestamp": "2026-10-22T17:54:25.662Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中英街零售店藏私煙和冒牌袋包括LV　總值$460萬　海關拘1女店員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189990011185926144278013.jpeg/jP3d2JOFRRlxQa2MnIa0gDibWSsuBdonq6j9n6uo_Z8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402563/%E6%81%92%E5%A4%A7%E5%82%B3%E6%92%AD%E5%AD%B8%E9%99%A2%E6%96%B0%E7%A2%A9%E5%A3%AB%E8%AA%B2%E7%A8%8B%E7%94%B3%E8%AB%8B%E8%B6%85%E9%A1%8D99%E5%80%8D-8000%E4%BA%BA%E7%88%AD80%E4%BD%8D-%E5%85%A7%E5%9C%B0%E7%94%9F%E7%82%BA%E4%B8%BB",
     "timestamp": "2026-10-22T10:37:41.984Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜超多性感場面 劉雅麗質疑黃金時段播放：教壞細路？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189959858972004352794102.jpeg/txJbk_4MyAjiL7hiRIxSDfCx12rWUkovmVZshZlWbIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402487/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E8%B6%85%E5%A4%9A%E6%80%A7%E6%84%9F%E5%A0%B4%E9%9D%A2-%E5%8A%89%E9%9B%85%E9%BA%97%E8%B3%AA%E7%96%91%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5%E6%92%AD%E6%94%BE-%E6%95%99%E5%A3%9E%E7%B4%B0%E8%B7%AF",
-    "timestamp": "2026-10-22T10:20:33.368Z",
     "strategy": ".content-card__main"
   }
 ];
