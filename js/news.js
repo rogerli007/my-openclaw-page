@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T08:33:43.873Z
+// Last updated: 2026-10-22T08:53:34.182Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臺日電梯「安全之星」消失了　機電署：涉嚴重失誤　評級暫緩公布",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189290979761328128450196.jpeg/Q7il1fSIgVCJtNu5IUZOYQ9YC5aa9DGdXmiggV5ooIE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402527/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E5%AE%89%E5%85%A8%E4%B9%8B%E6%98%9F-%E6%B6%88%E5%A4%B1%E4%BA%86-%E6%A9%9F%E9%9B%BB%E7%BD%B2-%E6%B6%89%E5%9A%B4%E9%87%8D%E5%A4%B1%E8%AA%A4-%E8%A9%95%E7%B4%9A%E6%9A%AB%E7%B7%A9%E5%85%AC%E5%B8%83",
+    "timestamp": "2026-10-22T08:53:34.182Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國癌症發病榜名單大洗牌：甲狀腺癌第3　徐若瑄、汪明荃是患者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189843626985787392945832.png/x4gNIcd2YA7LP3eWXOv1W23TWR2OHFwoAN2UVwDdlFc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60402294/iphone-duo%E6%98%8E%E9%96%8B%E5%94%AE-%E7%BE%8E%E5%AA%92%E5%AF%A6%E6%B8%AC%E9%AB%94%E9%A9%97%E4%B8%8D%E4%BF%97%E5%8D%BB%E6%9C%89%E4%B8%80%E8%87%B4%E5%91%BDbug%E4%BD%8D-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-21T23:54:16.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜高海寧晚裝暗藏機心　一舉手側門大開曼妙身材藏不住",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189764929465356288921476.jpeg/lxiUh4MqjLrabUiigxLrlKRx0UOJXoodoy0Mp6MtDKc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402273/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%99%9A%E8%A3%9D%E6%9A%97%E8%97%8F%E6%A9%9F%E5%BF%83-%E4%B8%80%E8%88%89%E6%89%8B%E5%81%B4%E9%96%80%E5%A4%A7%E9%96%8B%E6%9B%BC%E5%A6%99%E8%BA%AB%E6%9D%90%E8%97%8F%E4%B8%8D%E4%BD%8F",
-    "timestamp": "2026-10-21T23:45:26.705Z",
     "strategy": ".content-card__main"
   }
 ];
