@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T16:46:35.428Z
+// Last updated: 2026-10-22T16:57:33.780Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯同入境處元朗掃黃　24女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190093914011340800209453.jpeg/WkGZ5RQG5zp8r3t-JEG6wvbZIVruVpKBiiCUW4oglFs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402679/%E8%AD%A6%E8%81%AF%E5%90%8C%E5%85%A5%E5%A2%83%E8%99%95%E5%85%83%E6%9C%97%E6%8E%83%E9%BB%83-24%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-22T16:57:33.780Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯同入境處元朗掃黃　24女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189290979761328128450196.jpeg/Q7il1fSIgVCJtNu5IUZOYQ9YC5aa9DGdXmiggV5ooIE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402527/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E5%AE%89%E5%85%A8%E4%B9%8B%E6%98%9F-%E6%B6%88%E5%A4%B1%E4%BA%86-%E6%A9%9F%E9%9B%BB%E7%BD%B2-%E6%B6%89%E5%9A%B4%E9%87%8D%E5%A4%B1%E8%AA%A4-%E8%A9%95%E7%B4%9A%E6%9A%AB%E7%B7%A9%E5%85%AC%E5%B8%83",
     "timestamp": "2026-10-22T08:53:34.182Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國癌症發病榜名單大洗牌：甲狀腺癌第3　徐若瑄、汪明荃是患者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189967733161201664360271.png/8TwL6QkGrQlHpEZE4_FICdwtUC1_CBtrs6fiE7On4hM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401973/%E4%B8%AD%E5%9C%8B%E7%99%8C%E7%97%87%E7%99%BC%E7%97%85%E6%A6%9C%E5%90%8D%E5%96%AE%E5%A4%A7%E6%B4%97%E7%89%8C-%E7%94%B2%E7%8B%80%E8%85%BA%E7%99%8C%E7%AC%AC3-%E5%BE%90%E8%8B%A5%E7%91%84-%E6%B1%AA%E6%98%8E%E8%8D%83%E6%98%AF%E6%82%A3%E8%80%85",
-    "timestamp": "2026-10-22T08:33:43.873Z",
     "strategy": ".content-card__main"
   }
 ];
