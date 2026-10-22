@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T11:19:19.239Z
+// Last updated: 2026-10-22T11:34:47.501Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "助客訛稱永久離港提早取460萬強積金　前富衞中介人串謀詐騙罪成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/211251/org/0dffcbaa5c015b365c32a167156d65cc.jpg/b-1_snGWhvKsCOBcL1DqiCvXL5eOqyJozUbq_81G6v8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402624/%E5%8A%A9%E5%AE%A2%E8%A8%9B%E7%A8%B1%E6%B0%B8%E4%B9%85%E9%9B%A2%E6%B8%AF%E6%8F%90%E6%97%A9%E5%8F%96460%E8%90%AC%E5%BC%B7%E7%A9%8D%E9%87%91-%E5%89%8D%E5%AF%8C%E8%A1%9E%E4%B8%AD%E4%BB%8B%E4%BA%BA%E4%B8%B2%E8%AC%80%E8%A9%90%E9%A8%99%E7%BD%AA%E6%88%90",
+    "timestamp": "2026-10-22T11:34:47.501Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "論壇共探綠色機遇　大會頒ESG大獎兼首度聯同中大授證書",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189608501282869248657820.jpeg/dANtoXF44ORNhRI68GZXsTi59gvVcbAsFgB4yxYAeMs",
     "url": "https://www.hk01.com/01TV/60402110/%E8%91%B5%E8%8A%B3%E9%82%A8%E5%85%A9%E5%B0%91%E5%B9%B4%E7%87%92%E5%96%AE%E8%BB%8A%E8%A2%AB%E6%8D%95-%E5%85%B6%E4%B8%AD%E4%B8%80%E4%BA%BA%E7%87%92%E5%82%B7%E9%80%81%E9%99%A2-%E4%BF%9D%E5%AE%89%E5%90%88%E5%8A%9B%E6%92%B2%E7%86%84",
     "timestamp": "2026-10-22T03:49:49.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑大火報告｜獨立委員會三成員抵特首辦　向行政長官提交報告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189895391005380608039214.jpeg/JAtT-xTf3v3mKr3g2Nbnf2_iTwAZ1B3ES49QiEuPUIg?v=w1920",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60402361/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%A0%B1%E5%91%8A-%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E4%B8%89%E6%88%90%E5%93%A1%E6%8A%B5%E7%89%B9%E9%A6%96%E8%BE%A6-%E5%90%91%E8%A1%8C%E6%94%BF%E9%95%B7%E5%AE%98%E6%8F%90%E4%BA%A4%E5%A0%B1%E5%91%8A",
-    "timestamp": "2026-10-22T03:23:36.335Z",
     "strategy": ".content-card__main"
   }
 ];
