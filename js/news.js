@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T11:48:04.969Z
+// Last updated: 2026-10-22T13:22:08.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜蔡一智時隔13年出山再同框張智霖　獲老友化身導師提點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189981840874672128267319.jpeg/4YqtTavjUc3ulPSUqq2ERS7nrqRA7fLDfBc1HXwXNR0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402516/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E8%94%A1%E4%B8%80%E6%99%BA%E6%99%82%E9%9A%9413%E5%B9%B4%E5%87%BA%E5%B1%B1%E5%86%8D%E5%90%8C%E6%A1%86%E5%BC%B5%E6%99%BA%E9%9C%96-%E7%8D%B2%E8%80%81%E5%8F%8B%E5%8C%96%E8%BA%AB%E5%B0%8E%E5%B8%AB%E6%8F%90%E9%BB%9E",
+    "timestamp": "2026-10-22T13:22:08.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "河口湖台女命案｜27歲台籍女嫌曾涉詐欺判囚3月　遇害者身份曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189916513444827136263048.jpeg/zLDJKdk2xjgdDaFGz1sAnMR3PR1Tfv9YQvhpokL4aaI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402409/%E6%A9%99%E6%96%B0%E8%81%9E-%E6%94%B6%E8%8B%B1%E5%9C%8B%E5%AF%84%E6%B8%AF%E7%B2%89%E6%9C%AB%E4%BF%A1%E6%80%A5%E7%96%8F%E6%95%A3-%E5%85%A9%E6%97%A5%E4%B8%89%E5%82%B3%E5%AA%92%E6%94%B6%E4%BF%A1-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-10-22T04:48:09.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關搗觀塘工作室單位　檢5萬支私煙　一對夫婦被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189909798531895296629871.jpeg/Oy2ac-u5H_QMe-wd1uMcDFQV_lTI-it6Vg_7G1YP-xs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402375/%E6%B5%B7%E9%97%9C%E6%90%97%E8%A7%80%E5%A1%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%96%AE%E4%BD%8D-%E6%AA%A25%E8%90%AC%E6%94%AF%E7%A7%81%E7%85%99-%E4%B8%80%E5%B0%8D%E5%A4%AB%E5%A9%A6%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-22T04:26:30.432Z",
     "strategy": ".content-card__main"
   }
 ];
