@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T19:56:07.001Z
+// Last updated: 2026-10-22T20:20:16.582Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基稱星鏈速度尚未恢復　美媒：特朗普致電馬斯克後有改善",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190143996362493952301592.jpeg/tAuPCl_4PiAnW0FfV7TN-f4jOvg3esFQt1e95LdXveQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402689/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E6%98%9F%E9%8F%88%E9%80%9F%E5%BA%A6%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E9%9B%BB%E9%A6%AC%E6%96%AF%E5%85%8B%E5%BE%8C%E6%9C%89%E6%94%B9%E5%96%84",
+    "timestamp": "2026-10-22T20:20:16.582Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水彩蒲苑電磁爐無熄火　戶主落樓買餸　單位陷火海80人疏散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190002902962278400894731.png/-saZGmxsSZs0Crws35wtjgMK_qqvrEwTrkUG765FBu8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402578/%E5%AB%81%E9%87%91%E9%87%B5-%E5%81%87%E5%8D%83%E9%87%91%E7%B5%82%E5%B1%80-%E5%90%9B%E9%BB%9B%E6%AF%92%E9%85%92%E5%8F%8D%E5%99%AC%E6%AD%BB%E9%AD%8F%E5%AC%88%E6%87%B7%E4%B8%AD-%E8%87%A8%E7%B5%82%E9%81%BA%E8%A8%80%E6%A5%B5%E5%82%AC%E6%B7%9A",
     "timestamp": "2026-10-22T13:56:44.100Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臺日電梯｜機電署今續查30幢樓宇　無發現欠裝耐火門框組件新個案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187729945904812032580491.jpeg/v5k2KwvG6zqTqrcAXPfFTawQjwRulLY20qxMktKsTJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402659/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E6%A9%9F%E9%9B%BB%E7%BD%B2%E4%BB%8A%E7%BA%8C%E6%9F%A530%E5%B9%A2%E6%A8%93%E5%AE%87-%E7%84%A1%E7%99%BC%E7%8F%BE%E6%AC%A0%E8%A3%9D%E8%80%90%E7%81%AB%E9%96%80%E6%A1%86%E7%B5%84%E4%BB%B6%E6%96%B0%E5%80%8B%E6%A1%88",
-    "timestamp": "2026-10-22T13:47:52.591Z",
     "strategy": ".content-card__main"
   }
 ];
