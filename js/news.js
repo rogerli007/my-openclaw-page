@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T17:54:25.662Z
+// Last updated: 2026-10-22T18:49:43.776Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角可疑醉男遇截查情緒激動　遭眾警制服　警員無發現放行｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190123222813642752158374.jpeg/dn7hC5BnUJYz5k4ZMxxB0OLunHmCn0aklTVAJZU1QCU",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402683/%E6%97%BA%E8%A7%92%E5%8F%AF%E7%96%91%E9%86%89%E7%94%B7%E9%81%87%E6%88%AA%E6%9F%A5%E6%83%85%E7%B7%92%E6%BF%80%E5%8B%95-%E9%81%AD%E7%9C%BE%E8%AD%A6%E5%88%B6%E6%9C%8D-%E8%AD%A6%E5%93%A1%E7%84%A1%E7%99%BC%E7%8F%BE%E6%94%BE%E8%A1%8C-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-22T18:49:43.776Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中英街零售店藏私煙和冒牌袋包括LV　總值$460萬　海關拘1女店員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189998465040519168708214.jpeg/HUnhi73ovIO0mwVSHpYvAWvmXZAYxrKvDQqPnA0Kj5w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60399324/%E8%AB%96%E5%A3%87%E5%85%B1%E6%8E%A2%E7%B6%A0%E8%89%B2%E6%A9%9F%E9%81%87-%E5%A4%A7%E6%9C%83%E9%A0%92esg%E5%A4%A7%E7%8D%8E%E5%85%BC%E9%A6%96%E5%BA%A6%E8%81%AF%E5%90%8C%E4%B8%AD%E5%A4%A7%E6%8E%88%E8%AD%89%E6%9B%B8",
     "timestamp": "2026-10-22T11:19:19.239Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恒大傳播學院新碩士課程申請超額99倍　8000人爭80位　內地生為主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189990011185926144278013.jpeg/jP3d2JOFRRlxQa2MnIa0gDibWSsuBdonq6j9n6uo_Z8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402563/%E6%81%92%E5%A4%A7%E5%82%B3%E6%92%AD%E5%AD%B8%E9%99%A2%E6%96%B0%E7%A2%A9%E5%A3%AB%E8%AA%B2%E7%A8%8B%E7%94%B3%E8%AB%8B%E8%B6%85%E9%A1%8D99%E5%80%8D-8000%E4%BA%BA%E7%88%AD80%E4%BD%8D-%E5%85%A7%E5%9C%B0%E7%94%9F%E7%82%BA%E4%B8%BB",
-    "timestamp": "2026-10-22T10:37:41.984Z",
     "strategy": ".content-card__main"
   }
 ];
