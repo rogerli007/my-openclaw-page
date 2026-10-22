@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T21:45:11.581Z
+// Last updated: 2026-10-22T21:54:49.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男星Tom Skerritt離世享年93歲　曾參演《壯志凌雲》及《異形》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190170055065735168259417.jpeg/KBjp_J1YCv9GozTSfLrVMRse00Idppc0au8BBWrvAQU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402693/%E7%94%B7%E6%98%9Ftom-skerritt%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B493%E6%AD%B2-%E6%9B%BE%E5%8F%83%E6%BC%94-%E5%A3%AF%E5%BF%97%E5%87%8C%E9%9B%B2-%E5%8F%8A-%E7%95%B0%E5%BD%A2",
+    "timestamp": "2026-10-22T21:54:49.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌大隴街斜坡變老鼠窩　鼠群亂竄　旁邊公園淪高危區｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240501/862339780988375040583609.jpeg/prNzeMBIrELLxU8WA1JYopTQ1E1Zbn2EFpa5yhaWuco?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402666/%E6%B6%88%E8%B2%BB%E8%80%85%E5%8F%AF%E6%8C%81%E7%BA%8C%E6%B6%88%E8%B2%BB-%E7%9F%A5%E8%A1%8C%E4%B8%8D%E5%90%88%E4%B8%80-%E6%B6%88%E5%A7%94%E6%9C%83%E7%B1%B2%E5%8A%A0%E5%BC%B7%E5%9B%9E%E6%94%B6%E8%B3%87%E8%A8%8A%E9%80%8F%E6%98%8E%E5%BA%A6",
     "timestamp": "2026-10-22T15:58:02.495Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消費者可持續消費「知行不合一」　消委會籲加強回收資訊透明度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240501/862339780988375040583609.jpeg/prNzeMBIrELLxU8WA1JYopTQ1E1Zbn2EFpa5yhaWuco?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402666/%E6%B6%88%E8%B2%BB%E8%80%85%E5%8F%AF%E6%8C%81%E7%BA%8C%E6%B6%88%E8%B2%BB-%E7%9F%A5%E8%A1%8C%E4%B8%8D%E5%90%88%E4%B8%80-%E6%B6%88%E5%A7%94%E6%9C%83%E7%B1%B2%E5%8A%A0%E5%BC%B7%E5%9B%9E%E6%94%B6%E8%B3%87%E8%A8%8A%E9%80%8F%E6%98%8E%E5%BA%A6",
-    "timestamp": "2026-10-22T15:45:36.411Z",
     "strategy": ".content-card__main"
   }
 ];
