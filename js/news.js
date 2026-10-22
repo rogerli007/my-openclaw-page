@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T20:20:16.582Z
+// Last updated: 2026-10-22T20:44:59.464Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基稱星鏈速度尚未恢復　美媒：特朗普致電馬斯克後有改善",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190143996362493952301592.jpeg/tAuPCl_4PiAnW0FfV7TN-f4jOvg3esFQt1e95LdXveQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402689/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E6%98%9F%E9%8F%88%E9%80%9F%E5%BA%A6%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E9%9B%BB%E9%A6%AC%E6%96%AF%E5%85%8B%E5%BE%8C%E6%9C%89%E6%94%B9%E5%96%84",
+    "timestamp": "2026-10-22T20:44:59.464Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基稱星鏈速度尚未恢復　美媒：特朗普致電馬斯克後有改善",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189963815278612480126508.png/7olODZ5v_J-DE5C-UVtOLuhfVrRwgw5pgwN3UoMDd1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402477/%E5%B1%B1%E8%A5%BF33%E6%AD%B2%E5%A5%B3%E5%8D%97%E5%A4%AA%E8%A1%8C%E9%87%8D%E8%A3%9D%E8%A1%8C%E5%B1%B1-%E7%B4%AE%E7%87%9F%E9%81%8E%E5%A4%9C%E5%A4%B1%E8%B9%A4-2%E5%A4%A9%E5%BE%8C%E4%BC%8F%E5%B1%8D%E5%B4%96%E4%B8%8B%E6%B0%B4%E6%BD%AD",
     "timestamp": "2026-10-22T14:20:51.727Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《嫁金釵》假千金終局！君黛毒酒反噬死魏嬈懷中　臨終遺言極催淚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190002902962278400894731.png/-saZGmxsSZs0Crws35wtjgMK_qqvrEwTrkUG765FBu8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402578/%E5%AB%81%E9%87%91%E9%87%B5-%E5%81%87%E5%8D%83%E9%87%91%E7%B5%82%E5%B1%80-%E5%90%9B%E9%BB%9B%E6%AF%92%E9%85%92%E5%8F%8D%E5%99%AC%E6%AD%BB%E9%AD%8F%E5%AC%88%E6%87%B7%E4%B8%AD-%E8%87%A8%E7%B5%82%E9%81%BA%E8%A8%80%E6%A5%B5%E5%82%AC%E6%B7%9A",
-    "timestamp": "2026-10-22T13:56:44.100Z",
     "strategy": ".content-card__main"
   }
 ];
