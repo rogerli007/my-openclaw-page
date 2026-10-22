@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T04:26:30.432Z
+// Last updated: 2026-10-22T04:48:09.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《橙新聞》收英國寄港粉末信急疏散　兩日三傳媒收信　警到場調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189916513444827136263048.jpeg/zLDJKdk2xjgdDaFGz1sAnMR3PR1Tfv9YQvhpokL4aaI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402409/%E6%A9%99%E6%96%B0%E8%81%9E-%E6%94%B6%E8%8B%B1%E5%9C%8B%E5%AF%84%E6%B8%AF%E7%B2%89%E6%9C%AB%E4%BF%A1%E6%80%A5%E7%96%8F%E6%95%A3-%E5%85%A9%E6%97%A5%E4%B8%89%E5%82%B3%E5%AA%92%E6%94%B6%E4%BF%A1-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-10-22T04:48:09.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關搗觀塘工作室單位　檢5萬支私煙　一對夫婦被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189772844939087872870524.jpeg/Gqcl5RrjetdM8ROdK6IoYgVsXDlbTnNBWcyntVnMp7U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402275/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A21-4%E5%A4%A7%E6%95%97-%E7%A7%91%E6%9C%A8%E5%B0%BC%E9%AB%98%E6%9F%8F%E6%96%AF%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6",
     "timestamp": "2026-10-21T19:43:54.972Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「黃慘盈」李嘉文宣布結婚　棄安穩赴美尋夢曾窮到一日食一餐半",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189770365140733952152078.jpeg/GDFKggDnqPaeIeFo7bhibAEO_mkbVFn1LEJwEixCcBI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402276/%E9%BB%83%E6%85%98%E7%9B%88-%E6%9D%8E%E5%98%89%E6%96%87%E5%AE%A3%E5%B8%83%E7%B5%90%E5%A9%9A-%E6%A3%84%E5%AE%89%E7%A9%A9%E8%B5%B4%E7%BE%8E%E5%B0%8B%E5%A4%A2%E6%9B%BE%E7%AA%AE%E5%88%B0%E4%B8%80%E6%97%A5%E9%A3%9F%E4%B8%80%E9%A4%90%E5%8D%8A",
-    "timestamp": "2026-10-21T19:19:58.816Z",
     "strategy": ".content-card__main"
   }
 ];
