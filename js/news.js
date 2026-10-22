@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T17:18:16.589Z
+// Last updated: 2026-10-22T17:32:55.555Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中英街零售店藏私煙和冒牌袋包括LV　總值$460萬　海關拘1女店員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190107263709220864204389.jpeg/6foI7-domPxPbbRIu_GZlPpR4kJ8N8s3WhPIeVoTyHk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402681/%E4%B8%AD%E8%8B%B1%E8%A1%97%E9%9B%B6%E5%94%AE%E5%BA%97%E8%97%8F%E7%A7%81%E7%85%99%E5%92%8C%E5%86%92%E7%89%8C%E8%A2%8B%E5%8C%85%E6%8B%AClv-%E7%B8%BD%E5%80%BC-460%E8%90%AC-%E6%B5%B7%E9%97%9C%E6%8B%981%E5%A5%B3%E5%BA%97%E5%93%A1",
+    "timestamp": "2026-10-22T17:32:55.555Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角丈夫遲到30分鐘　妻子激動衝出馬路　雙方糾纏阻交通｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189982372448178176562803.jpeg/NbOLfM3MPG0R6HIxZp8VgoUSQZI_3nuhZor5KWaK-Sk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60402508/%E8%A7%A3%E5%87%8D%E6%96%B9%E6%B3%95-%E9%9B%9E%E7%BF%BC%E6%8E%92%E9%AA%A8%E6%80%8E%E8%A7%A3%E5%87%8D-%E8%A8%98%E8%80%85%E5%AF%A6%E8%A9%A62%E6%96%B9%E6%B3%955%E5%88%86%E9%90%98%E9%80%80%E5%86%B0-%E6%94%BE%E5%AE%A4%E6%BA%AB%E6%9C%80%E9%8C%AF",
     "timestamp": "2026-10-22T10:00:02.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人工中位數2026│月薪呢個數高過一半打工仔！最新各行業職級人工",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189993933854216192720594.jpeg/7Qa1GhZpOCI9C_0z7uTaxFEGmIMDz0aXUtyhmlLcoZo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60402543/%E4%BA%BA%E5%B7%A5%E4%B8%AD%E4%BD%8D%E6%95%B82026-%E6%9C%88%E8%96%AA%E5%91%A2%E5%80%8B%E6%95%B8%E9%AB%98%E9%81%8E%E4%B8%80%E5%8D%8A%E6%89%93%E5%B7%A5%E4%BB%94-%E6%9C%80%E6%96%B0%E5%90%84%E8%A1%8C%E6%A5%AD%E8%81%B7%E7%B4%9A%E4%BA%BA%E5%B7%A5",
-    "timestamp": "2026-10-22T09:47:37.579Z",
     "strategy": ".content-card__main"
   }
 ];
