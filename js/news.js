@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T00:46:51.438Z
+// Last updated: 2026-10-22T01:41:31.010Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京晤威特科夫：俄羅斯願協助美國解決伊朗危機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189870846060007424087549.jpeg/-wm0HG2-6KYlmTnLBtv5YJ3uWfOFB6RBdP6kzXT-pM0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402312/%E6%99%AE%E4%BA%AC%E6%99%A4%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB-%E4%BF%84%E7%BE%85%E6%96%AF%E9%A1%98%E5%8D%94%E5%8A%A9%E7%BE%8E%E5%9C%8B%E8%A7%A3%E6%B1%BA%E4%BC%8A%E6%9C%97%E5%8D%B1%E6%A9%9F",
+    "timestamp": "2026-10-22T01:41:31.010Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門鳴琴路兩巴士相撞　至少8人受傷　現場交通擠塞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189749302910521344325609.jpeg/qdFKxviJ0OReMI0vdRSaGjA0D94vHk90kRLAHZESwB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402260/%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7-%E5%A5%B3%E5%9C%988%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%9B%99%E6%89%93%E5%BC%B7%E5%8B%A2%E6%8C%81%E7%BA%8C3%E5%B0%8D%E7%B5%84%E5%90%88%E6%99%8916%E5%BC%B7",
     "timestamp": "2026-10-21T17:46:48.733Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒乓球亞錦賽︱港隊男、女團8強止步　雙打強勢持續3對組合晉16強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189749302910521344325609.jpeg/qdFKxviJ0OReMI0vdRSaGjA0D94vHk90kRLAHZESwB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402260/%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E7%94%B7-%E5%A5%B3%E5%9C%988%E5%BC%B7%E6%AD%A2%E6%AD%A5-%E9%9B%99%E6%89%93%E5%BC%B7%E5%8B%A2%E6%8C%81%E7%BA%8C3%E5%B0%8D%E7%B5%84%E5%90%88%E6%99%8916%E5%BC%B7",
-    "timestamp": "2026-10-21T17:32:47.849Z",
     "strategy": ".content-card__main"
   }
 ];
