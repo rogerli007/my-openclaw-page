@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T08:53:34.182Z
+// Last updated: 2026-10-22T09:47:37.579Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人工中位數2026│月薪呢個數高過一半打工仔！最新各行業職級人工",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189993933854216192720594.jpeg/7Qa1GhZpOCI9C_0z7uTaxFEGmIMDz0aXUtyhmlLcoZo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60402543/%E4%BA%BA%E5%B7%A5%E4%B8%AD%E4%BD%8D%E6%95%B82026-%E6%9C%88%E8%96%AA%E5%91%A2%E5%80%8B%E6%95%B8%E9%AB%98%E9%81%8E%E4%B8%80%E5%8D%8A%E6%89%93%E5%B7%A5%E4%BB%94-%E6%9C%80%E6%96%B0%E5%90%84%E8%A1%8C%E6%A5%AD%E8%81%B7%E7%B4%9A%E4%BA%BA%E5%B7%A5",
+    "timestamp": "2026-10-22T09:47:37.579Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯「安全之星」消失了　機電署：涉嚴重失誤　評級暫緩公布",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189859188843483136093264.jpeg/Pio8CQqDB7mRPh2ttXMsZkUxlA4MtCXPB6s4-werOPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402303/%E5%B1%AF%E9%96%80%E9%B3%B4%E7%90%B4%E8%B7%AF%E5%85%A9%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%918%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-10-22T00:46:51.438Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo明開售　美媒實測體驗不俗卻有一致命bug位｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189843626985787392945832.png/x4gNIcd2YA7LP3eWXOv1W23TWR2OHFwoAN2UVwDdlFc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60402294/iphone-duo%E6%98%8E%E9%96%8B%E5%94%AE-%E7%BE%8E%E5%AA%92%E5%AF%A6%E6%B8%AC%E9%AB%94%E9%A9%97%E4%B8%8D%E4%BF%97%E5%8D%BB%E6%9C%89%E4%B8%80%E8%87%B4%E5%91%BDbug%E4%BD%8D-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-21T23:54:16.602Z",
     "strategy": ".content-card__main"
   }
 ];
