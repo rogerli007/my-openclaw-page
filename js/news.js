@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T19:01:20.154Z
+// Last updated: 2026-10-22T19:19:11.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港府強烈譴責英國《香港半年報告》　斥污衊抹黑港人權及法治狀況",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241120/935855081125842944936572.jpeg/0zmisyKbGkO9vAKO7KCaay5RwjeihtLH3x6HlN8eh5Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402687/%E6%B8%AF%E5%BA%9C%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E8%8B%B1%E5%9C%8B-%E9%A6%99%E6%B8%AF%E5%8D%8A%E5%B9%B4%E5%A0%B1%E5%91%8A-%E6%96%A5%E6%B1%A1%E8%A1%8A%E6%8A%B9%E9%BB%91%E6%B8%AF%E4%BA%BA%E6%AC%8A%E5%8F%8A%E6%B3%95%E6%B2%BB%E7%8B%80%E6%B3%81",
+    "timestamp": "2026-10-22T19:19:11.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警旺角搗破非法百家樂賭場　檢證物包括$18萬籌碼　10男女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109437438465806336137842.jpeg/BxVLgnk-J-0d4905XeBS31fmccXdkKfgofX8iqH1_Io?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60402639/%E6%B2%B3%E5%8F%A3%E6%B9%96%E5%8F%B0%E5%A5%B3%E5%91%BD%E6%A1%88-27%E6%AD%B2%E5%8F%B0%E7%B1%8D%E5%A5%B3%E5%AB%8C%E6%9B%BE%E6%B6%89%E8%A9%90%E6%AC%BA%E5%88%A4%E5%9B%9A3%E6%9C%88-%E9%81%87%E5%AE%B3%E8%80%85%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
     "timestamp": "2026-10-22T11:48:04.969Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "助客訛稱永久離港提早取460萬強積金　前富衞中介人串謀詐騙罪成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/211251/org/0dffcbaa5c015b365c32a167156d65cc.jpg/b-1_snGWhvKsCOBcL1DqiCvXL5eOqyJozUbq_81G6v8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402624/%E5%8A%A9%E5%AE%A2%E8%A8%9B%E7%A8%B1%E6%B0%B8%E4%B9%85%E9%9B%A2%E6%B8%AF%E6%8F%90%E6%97%A9%E5%8F%96460%E8%90%AC%E5%BC%B7%E7%A9%8D%E9%87%91-%E5%89%8D%E5%AF%8C%E8%A1%9E%E4%B8%AD%E4%BB%8B%E4%BA%BA%E4%B8%B2%E8%AC%80%E8%A9%90%E9%A8%99%E7%BD%AA%E6%88%90",
-    "timestamp": "2026-10-22T11:34:47.501Z",
     "strategy": ".content-card__main"
   }
 ];
