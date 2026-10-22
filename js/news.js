@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T04:59:22.486Z
+// Last updated: 2026-10-22T05:20:37.752Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薔琵超強颱風｜香港快運HK Express至少10班台港航班取消(附詳情)",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260523/1134675095382396928673918.jpeg/NbXjrgkeaKZ4O4XuQEolQk7DNQ-OTefMIsdbwyLHW8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402423/%E8%96%94%E7%90%B5%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%81%8Bhk-express%E8%87%B3%E5%B0%9110%E7%8F%AD%E5%8F%B0%E6%B8%AF%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88-%E9%99%84%E8%A9%B3%E6%83%85",
+    "timestamp": "2026-10-22T05:20:37.752Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張衞健夫婦被轟亂拋煙頭　高EQ借歌自嘲再曬證據還原真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189789056825823232351029.jpeg/3v6jrwkbQH6WWnRx7K8Jj1jvCZjRYGARAIqRnzqKkZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402280/%E9%87%91%E9%90%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-34%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-10-21T20:35:57.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京大學校長遴選爆爭議　當選人得票少對手一半　文科省促說明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250810/1031216473231724544746502.jpeg/GiP_hE9QnYz83NuI18xBWMPYA7F2sUpMYPinEWD4pxE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402278/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%B8%E6%A0%A1%E9%95%B7%E9%81%B4%E9%81%B8%E7%88%86%E7%88%AD%E8%AD%B0-%E7%95%B6%E9%81%B8%E4%BA%BA%E5%BE%97%E7%A5%A8%E5%B0%91%E5%B0%8D%E6%89%8B%E4%B8%80%E5%8D%8A-%E6%96%87%E7%A7%91%E7%9C%81%E4%BF%83%E8%AA%AA%E6%98%8E",
-    "timestamp": "2026-10-21T20:19:32.354Z",
     "strategy": ".content-card__main"
   }
 ];
