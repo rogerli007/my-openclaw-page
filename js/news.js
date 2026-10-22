@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T05:57:31.895Z
+// Last updated: 2026-10-22T06:31:41.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "簡淑兒劉溫馨林泳淘組「最潮阿婆團」　萬聖節零包袱白髮睡衣出巡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189894488391159808218547.jpeg/i4FwUqGDzPe5TJzExJZzdryRD1EcMmVWiY81MomPNTI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402333/%E7%B0%A1%E6%B7%91%E5%85%92%E5%8A%89%E6%BA%AB%E9%A6%A8%E6%9E%97%E6%B3%B3%E6%B7%98%E7%B5%84-%E6%9C%80%E6%BD%AE%E9%98%BF%E5%A9%86%E5%9C%98-%E8%90%AC%E8%81%96%E7%AF%80%E9%9B%B6%E5%8C%85%E8%A2%B1%E7%99%BD%E9%AB%AE%E7%9D%A1%E8%A1%A3%E5%87%BA%E5%B7%A1",
+    "timestamp": "2026-10-22T06:31:41.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗兩男女疑因金錢瓜葛爭執　男子擸凳傷人毀門被捕　女子送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189807646845177856432816.jpeg/aN1eujUrGBp6GUzRfyHkxMm0zsu1SytEbuJmHW7iZh0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402284/%E6%AD%90%E8%81%AF-%E6%8B%9C%E4%BB%81%E9%81%AD%E9%98%BF%E4%BB%99%E5%A5%B4%E9%80%BC%E5%92%8C2-2-%E5%93%88%E5%88%A9%E7%B0%A1%E5%B0%BC%E9%80%A3%E7%BA%8C10%E5%A0%B4%E6%AD%90%E8%81%AF%E8%B3%BD%E4%BA%8B%E5%85%A5%E7%90%83",
     "timestamp": "2026-10-21T21:47:34.198Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普特使晤普京　感謝釋放被囚公民　稱對方人道主義者｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189798715137724416928356.jpeg/245H3hH9SeOXGoJazej3wxoEz1AyYI6vEkfrtBJH67Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402282/%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B9%E4%BD%BF%E6%99%A4%E6%99%AE%E4%BA%AC-%E6%84%9F%E8%AC%9D%E9%87%8B%E6%94%BE%E8%A2%AB%E5%9B%9A%E5%85%AC%E6%B0%91-%E7%A8%B1%E5%B0%8D%E6%96%B9%E4%BA%BA%E9%81%93%E4%B8%BB%E7%BE%A9%E8%80%85-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-21T21:34:57.852Z",
     "strategy": ".content-card__main"
   }
 ];
