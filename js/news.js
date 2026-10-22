@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T06:31:41.963Z
+// Last updated: 2026-10-22T07:01:26.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男子照內窺鏡突休克亡　事主有呼吸問題　妻疑未有麻醉科醫生施藥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189950174974185472014296.jpeg/uosOJ690EZYifum0IDgHS0PUg84ZLzwLNRoxIRAaMSE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402468/%E7%94%B7%E5%AD%90%E7%85%A7%E5%85%A7%E7%AA%BA%E9%8F%A1%E7%AA%81%E4%BC%91%E5%85%8B%E4%BA%A1-%E4%BA%8B%E4%B8%BB%E6%9C%89%E5%91%BC%E5%90%B8%E5%95%8F%E9%A1%8C-%E5%A6%BB%E7%96%91%E6%9C%AA%E6%9C%89%E9%BA%BB%E9%86%89%E7%A7%91%E9%86%AB%E7%94%9F%E6%96%BD%E8%97%A5",
+    "timestamp": "2026-10-22T07:01:26.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "簡淑兒劉溫馨林泳淘組「最潮阿婆團」　萬聖節零包袱白髮睡衣出巡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189807646845177856432816.jpeg/aN1eujUrGBp6GUzRfyHkxMm0zsu1SytEbuJmHW7iZh0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402284/%E6%AD%90%E8%81%AF-%E6%8B%9C%E4%BB%81%E9%81%AD%E9%98%BF%E4%BB%99%E5%A5%B4%E9%80%BC%E5%92%8C2-2-%E5%93%88%E5%88%A9%E7%B0%A1%E5%B0%BC%E9%80%A3%E7%BA%8C10%E5%A0%B4%E6%AD%90%E8%81%AF%E8%B3%BD%E4%BA%8B%E5%85%A5%E7%90%83",
     "timestamp": "2026-10-21T21:57:43.314Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜拜仁遭阿仙奴逼和2：2　哈利簡尼連續10場歐聯賽事入球",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189807646845177856432816.jpeg/aN1eujUrGBp6GUzRfyHkxMm0zsu1SytEbuJmHW7iZh0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402284/%E6%AD%90%E8%81%AF-%E6%8B%9C%E4%BB%81%E9%81%AD%E9%98%BF%E4%BB%99%E5%A5%B4%E9%80%BC%E5%92%8C2-2-%E5%93%88%E5%88%A9%E7%B0%A1%E5%B0%BC%E9%80%A3%E7%BA%8C10%E5%A0%B4%E6%AD%90%E8%81%AF%E8%B3%BD%E4%BA%8B%E5%85%A5%E7%90%83",
-    "timestamp": "2026-10-21T21:47:34.198Z",
     "strategy": ".content-card__main"
   }
 ];
