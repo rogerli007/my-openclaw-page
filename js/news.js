@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T19:19:11.845Z
+// Last updated: 2026-10-22T19:44:52.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水彩蒲苑電磁爐無熄火　戶主落樓買餸　單位陷火海80人疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190141022647095296841370.jpeg/CvGVae9lPd2QGKixcm2pkhf6Y7vRzkW9cYgCLXGIAi0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402688/%E4%B8%8A%E6%B0%B4%E5%BD%A9%E8%92%B2%E8%8B%91%E9%9B%BB%E7%A3%81%E7%88%90%E7%84%A1%E7%86%84%E7%81%AB-%E6%88%B6%E4%B8%BB%E8%90%BD%E6%A8%93%E8%B2%B7%E9%A4%B8-%E5%96%AE%E4%BD%8D%E9%99%B7%E7%81%AB%E6%B5%B780%E4%BA%BA%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-10-22T19:44:52.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港府強烈譴責英國《香港半年報告》　斥污衊抹黑港人權及法治狀況",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189981840874672128267319.jpeg/4YqtTavjUc3ulPSUqq2ERS7nrqRA7fLDfBc1HXwXNR0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402516/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E8%94%A1%E4%B8%80%E6%99%BA%E6%99%82%E9%9A%9413%E5%B9%B4%E5%87%BA%E5%B1%B1%E5%86%8D%E5%90%8C%E6%A1%86%E5%BC%B5%E6%99%BA%E9%9C%96-%E7%8D%B2%E8%80%81%E5%8F%8B%E5%8C%96%E8%BA%AB%E5%B0%8E%E5%B8%AB%E6%8F%90%E9%BB%9E",
     "timestamp": "2026-10-22T13:22:08.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "河口湖台女命案｜27歲台籍女嫌曾涉詐欺判囚3月　遇害者身份曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260314/1109437438465806336137842.jpeg/BxVLgnk-J-0d4905XeBS31fmccXdkKfgofX8iqH1_Io?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60402639/%E6%B2%B3%E5%8F%A3%E6%B9%96%E5%8F%B0%E5%A5%B3%E5%91%BD%E6%A1%88-27%E6%AD%B2%E5%8F%B0%E7%B1%8D%E5%A5%B3%E5%AB%8C%E6%9B%BE%E6%B6%89%E8%A9%90%E6%AC%BA%E5%88%A4%E5%9B%9A3%E6%9C%88-%E9%81%87%E5%AE%B3%E8%80%85%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-10-22T11:48:04.969Z",
     "strategy": ".content-card__main"
   }
 ];
