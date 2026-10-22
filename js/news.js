@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T05:20:37.752Z
+// Last updated: 2026-10-22T05:46:23.539Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張登及談中國外交・六｜當中美位置與身分變換　台灣怎麼辦？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132165198929465344845610.jpeg/VfPLSGm5PsEEckNfhC2ueQjO_tDmAp3I-LeuAfi3rgE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60402369/%E5%BC%B5%E7%99%BB%E5%8F%8A%E8%AB%87%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4-%E5%85%AD-%E7%95%B6%E4%B8%AD%E7%BE%8E%E4%BD%8D%E7%BD%AE%E8%88%87%E8%BA%AB%E5%88%86%E8%AE%8A%E6%8F%9B-%E5%8F%B0%E7%81%A3%E6%80%8E%E9%BA%BC%E8%BE%A6",
+    "timestamp": "2026-10-22T05:46:23.539Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "薔琵超強颱風｜香港快運HK Express至少10班台港航班取消(附詳情)",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189789056825823232351029.jpeg/3v6jrwkbQH6WWnRx7K8Jj1jvCZjRYGARAIqRnzqKkZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402280/%E9%87%91%E9%90%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-34%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-10-21T20:56:39.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金鐘私家車撞壆翻側　34歲男司機涉醉駕被捕　輕傷送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189789056825823232351029.jpeg/3v6jrwkbQH6WWnRx7K8Jj1jvCZjRYGARAIqRnzqKkZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402280/%E9%87%91%E9%90%98%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-34%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-10-21T20:35:57.981Z",
     "strategy": ".content-card__main"
   }
 ];
