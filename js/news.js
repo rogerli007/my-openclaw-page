@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T15:45:36.411Z
+// Last updated: 2026-10-22T15:58:02.495Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消費者可持續消費「知行不合一」　消委會籲加強回收資訊透明度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240501/862339780988375040583609.jpeg/prNzeMBIrELLxU8WA1JYopTQ1E1Zbn2EFpa5yhaWuco?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402666/%E6%B6%88%E8%B2%BB%E8%80%85%E5%8F%AF%E6%8C%81%E7%BA%8C%E6%B6%88%E8%B2%BB-%E7%9F%A5%E8%A1%8C%E4%B8%8D%E5%90%88%E4%B8%80-%E6%B6%88%E5%A7%94%E6%9C%83%E7%B1%B2%E5%8A%A0%E5%BC%B7%E5%9B%9E%E6%94%B6%E8%B3%87%E8%A8%8A%E9%80%8F%E6%98%8E%E5%BA%A6",
+    "timestamp": "2026-10-22T15:58:02.495Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消費者可持續消費「知行不合一」　消委會籲加強回收資訊透明度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185643986329538560137460.jpeg/cC2Kdcv6buTxqpD8pkOD7-C0O9Pbl-2b0xt789Mbe_M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398286/%E8%97%9D%E8%81%B2%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-10-22T07:53:50.879Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洗衣機不洗比馬桶髒530倍！教簡單2步清潔消毒+洗衣機門開或關好?",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189950478113312768094382.jpeg/AB7tN5P91pINEHS4BiJPEp63JuPLlnss9e1wW_XtcFs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60394884/%E6%B4%97%E8%A1%A3%E6%A9%9F%E4%B8%8D%E6%B4%97%E6%AF%94%E9%A6%AC%E6%A1%B6%E9%AB%92530%E5%80%8D-%E6%95%99%E7%B0%A1%E5%96%AE2%E6%AD%A5%E6%B8%85%E6%BD%94%E6%B6%88%E6%AF%92-%E6%B4%97%E8%A1%A3%E6%A9%9F%E9%96%80%E9%96%8B%E6%88%96%E9%97%9C%E5%A5%BD",
-    "timestamp": "2026-10-22T07:32:06.472Z",
     "strategy": ".content-card__main"
   }
 ];
