@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T15:58:02.495Z
+// Last updated: 2026-10-22T16:23:16.061Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國示威｜司法部長：2700人被拘留　217人已被判監",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190093766891933696659873.jpeg/AqXuL4JzZ7hHPLZ7wQq-zlZ6fzTy8L3G_RPw9_0T8Pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402678/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%B7-2700%E4%BA%BA%E8%A2%AB%E6%8B%98%E7%95%99-217%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%88%A4%E7%9B%A3",
+    "timestamp": "2026-10-22T16:23:16.061Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消費者可持續消費「知行不合一」　消委會籲加強回收資訊透明度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250301/972365248717656064329816.jpeg/-glBdr5h-FEnA-dgj7iGL0xuKoYGqnscUTBuFFEwbhQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60402465/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%90%8C%E6%84%8F%E5%89%B2%E5%9C%B0%E6%B1%82%E5%92%8C%E4%BA%86-%E6%B2%92%E9%82%A3%E9%BA%BC%E7%B0%A1%E5%96%AE",
     "timestamp": "2026-10-22T08:01:21.678Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藝聲演唱會2026香港加場｜門票優先/公售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185643986329538560137460.jpeg/cC2Kdcv6buTxqpD8pkOD7-C0O9Pbl-2b0xt789Mbe_M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60398286/%E8%97%9D%E8%81%B2%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-10-22T07:53:50.879Z",
     "strategy": ".content-card__main"
   }
 ];
