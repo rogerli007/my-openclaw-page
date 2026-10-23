@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T22:44:03.274Z
+// Last updated: 2026-10-23T22:54:09.000Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅根父親涉擁大量兒童性虐待照片被查　梅根：2018年已知情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190546610203922432134925.jpeg/B56Sa9P6WrlkxMRUG2BQvcka8ZoIQw8cz2zLuc9sy7k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403095/%E6%A2%85%E6%A0%B9%E7%88%B6%E8%A6%AA%E6%B6%89%E6%93%81%E5%A4%A7%E9%87%8F%E5%85%92%E7%AB%A5%E6%80%A7%E8%99%90%E5%BE%85%E7%85%A7%E7%89%87%E8%A2%AB%E6%9F%A5-%E6%A2%85%E6%A0%B9-2018%E5%B9%B4%E5%B7%B2%E7%9F%A5%E6%83%85",
+    "timestamp": "2026-10-23T22:54:09.000Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【星之谷】居屋按揭「借得少」未必着數　拆解銀行審批四大弊端",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190339615953784832032698.png/2YYal09eCYMtuZd_25071amuEu8QzyJ-dbB_qnWwf6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402756/9%E6%AD%B2%E7%AB%A5-%E9%96%8B%E9%96%80%E6%AE%BA-%E8%87%B4%E9%90%B5%E9%A8%8E%E6%AD%BB%E4%BA%A1-%E6%9C%AA%E9%81%94%E5%88%91%E8%B2%AC%E5%B9%B4%E9%BD%A1-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%88%A4%E7%9B%A310%E5%80%8B%E6%9C%88%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-10-23T16:47:10.167Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵炮台山站白衣男捐閘　目擊者：爬入又爬出　無人阻止｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190450285152047104581036.jpeg/L1Sz3vZK1s5GtfZQAqCCMJ3nIM3GrB2HtMD_IrTA_yI",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403081/%E6%B8%AF%E9%90%B5%E7%82%AE%E5%8F%B0%E5%B1%B1%E7%AB%99%E7%99%BD%E8%A1%A3%E7%94%B7%E6%8D%90%E9%96%98-%E7%9B%AE%E6%93%8A%E8%80%85-%E7%88%AC%E5%85%A5%E5%8F%88%E7%88%AC%E5%87%BA-%E7%84%A1%E4%BA%BA%E9%98%BB%E6%AD%A2-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-23T16:22:00.198Z",
     "strategy": ".content-card__main"
   }
 ];
