@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T13:19:15.764Z
+// Last updated: 2026-10-23T13:58:44.919Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡楓華遭鐵蓮花插眼有望翻案　 翁靜晶睇完口供紙：情節更可怕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190340570040504320470391.png/Zigz4jZIM3Va3tC8hy_Z-xh9yxf74wWu0q6SaNKukmg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402943/%E8%94%A1%E6%A5%93%E8%8F%AF%E9%81%AD%E9%90%B5%E8%93%AE%E8%8A%B1%E6%8F%92%E7%9C%BC%E6%9C%89%E6%9C%9B%E7%BF%BB%E6%A1%88-%E7%BF%81%E9%9D%9C%E6%99%B6%E7%9D%87%E5%AE%8C%E5%8F%A3%E4%BE%9B%E7%B4%99-%E6%83%85%E7%AF%80%E6%9B%B4%E5%8F%AF%E6%80%95",
+    "timestamp": "2026-10-23T13:58:44.919Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳瀅拒拍強姦戲堅守底線　爆《璀璨之城》全裸片花遭導演私下廣傳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190269899977527296784651.png/pZZH_3FvkZsEXq-Tl_Xe2KuwapdicbT3RpoD5kaaA-Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60402535/%E9%95%B7%E5%A3%BD%E9%A3%B2%E9%A3%9F%E5%BF%85%E5%90%835%E5%B9%B3%E5%83%B9%E9%A3%9F%E7%89%A9-%E9%AB%98%E8%84%82%E9%AD%9A%E6%8A%97%E7%82%8E-%E7%A0%94%E7%A9%B6%E8%AD%89%E6%97%A5%E5%90%831%E7%89%A9%E9%99%8D22-%E6%AD%BB%E4%BA%A1%E7%8E%87",
     "timestamp": "2026-10-23T04:03:55.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長者生活津貼｜夫婦100萬資產仍可申請　買年金等3招合法豁免攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190267976415186944739506.png/YnpCRea6Jr75Fs9g5LFJQRerm1fIgr_kYInsLmCJ7C4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/60402373/%E9%95%B7%E8%80%85%E7%94%9F%E6%B4%BB%E6%B4%A5%E8%B2%BC-%E5%A4%AB%E5%A9%A6100%E8%90%AC%E8%B3%87%E7%94%A2%E4%BB%8D%E5%8F%AF%E7%94%B3%E8%AB%8B-%E8%B2%B7%E5%B9%B4%E9%87%91%E7%AD%893%E6%8B%9B%E5%90%88%E6%B3%95%E8%B1%81%E5%85%8D%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-10-23T03:49:50.034Z",
     "strategy": ".content-card__main"
   }
 ];
