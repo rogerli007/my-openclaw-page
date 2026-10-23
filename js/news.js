@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T17:46:08.382Z
+// Last updated: 2026-10-23T17:54:32.715Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LV中環「篋牆」旗艦店對開　兩地牌寶馬違例左轉擬駛走阻路｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190465767796117504389246.jpeg/Lavf3Xlwjy1V5NbWu44Zj8Vv37EU4Y_6c0GIcXNBiHE",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403083/lv%E4%B8%AD%E7%92%B0-%E7%AF%8B%E7%89%86-%E6%97%97%E8%89%A6%E5%BA%97%E5%B0%8D%E9%96%8B-%E5%85%A9%E5%9C%B0%E7%89%8C%E5%AF%B6%E9%A6%AC%E9%81%95%E4%BE%8B%E5%B7%A6%E8%BD%89%E6%93%AC%E9%A7%9B%E8%B5%B0%E9%98%BB%E8%B7%AF-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-23T17:54:32.715Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓亞錦賽︱黃鎮廷雙線出擊男單闖16強　夥陳顥樺男雙爭入4強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187847847081414656531692.jpeg/css2BvjJndpgzLYX-Aq7k6iLfAK3EcQB9-BKwvfgSsI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402961/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E7%A4%BE%E7%BD%B2%E5%8F%AC%E9%96%8B%E5%A4%9A%E5%B0%88%E6%A5%AD%E6%9C%83%E8%AD%B0-3%E5%A7%8A%E5%BC%9F%E7%BA%8C%E7%94%B1%E9%99%A2%E8%88%8D%E7%85%A7%E9%A1%A7%E7%A8%8D%E5%BE%8C%E4%BA%A4%E8%A6%AA%E5%B1%AC",
     "timestamp": "2026-10-23T09:21:40.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Shopbop 攻略｜低至2折！最新優惠碼買 Tory Burch/Coach",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251105/1062775251697405952851624.jpeg/4v5-CWN7_pWL6XuGR_xecgF0yb6NATwNJKoInCSqCJw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60289926/shopbop-%E6%94%BB%E7%95%A5-%E4%BD%8E%E8%87%B32%E6%8A%98-%E6%9C%80%E6%96%B0%E5%84%AA%E6%83%A0%E7%A2%BC%E8%B2%B7-tory-burch-coach",
-    "timestamp": "2026-10-23T08:55:35.376Z",
     "strategy": ".content-card__main"
   }
 ];
