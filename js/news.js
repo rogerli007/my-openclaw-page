@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T07:29:30.171Z
+// Last updated: 2026-10-23T07:48:53.540Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸過關攻略｜直擊改搭升降機慳80%時間　1個位落車快勁多",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190326429598879744794201.jpeg/SwTngEeepYKL5Mm6q8DqeOIAx9QT6qdbaC-2W2gvtls?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60402797/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%81%8E%E9%97%9C%E6%94%BB%E7%95%A5-%E7%9B%B4%E6%93%8A%E6%94%B9%E6%90%AD%E5%8D%87%E9%99%8D%E6%A9%9F%E6%85%B380-%E6%99%82%E9%96%93-1%E5%80%8B%E4%BD%8D%E8%90%BD%E8%BB%8A%E5%BF%AB%E5%8B%81%E5%A4%9A",
+    "timestamp": "2026-10-23T07:48:53.540Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網球｜黃澤林南沙挑戰賽闖4強　直落兩盤挫日本費蘭特",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190188879966113792690158.jpeg/vXDVrIe7TpPQxw4i8WEW3I7lEPorh7EpZNyb3GTcm9w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402696/%E5%8B%92%E9%82%A6%E5%8D%A0%E5%A3%AB%E8%B3%BD%E5%89%8D%E5%A5%8F%E5%9C%8B%E6%AD%8C%E4%BD%9C%E5%8B%A2%E7%B7%B4%E5%B0%84%E6%B3%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E7%8B%A0%E6%89%B9%E4%B8%8D%E5%B0%8A%E9%87%8D%E4%BF%83%E9%81%93%E6%AD%89-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-22T22:44:13.726Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "照顧者系列｜照顧節奏被打亂　友「伴」義工暖心接力助攝影師復康",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183828383289577472213697.jpeg/NbDQh5EfgN9UfokNBQhX10ahi4f4lSj9k6wpnpOsKZ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396561/%E7%85%A7%E9%A1%A7%E8%80%85%E7%B3%BB%E5%88%97-%E7%85%A7%E9%A1%A7%E7%AF%80%E5%A5%8F%E8%A2%AB%E6%89%93%E4%BA%82-%E5%8F%8B-%E4%BC%B4-%E7%BE%A9%E5%B7%A5%E6%9A%96%E5%BF%83%E6%8E%A5%E5%8A%9B%E5%8A%A9%E6%94%9D%E5%BD%B1%E5%B8%AB%E5%BE%A9%E5%BA%B7",
-    "timestamp": "2026-10-22T22:32:15.583Z",
     "strategy": ".content-card__main"
   }
 ];
