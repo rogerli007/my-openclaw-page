@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T19:53:36.465Z
+// Last updated: 2026-10-23T20:20:28.222Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普先發制人　因候選人撞名提前入稟阻阿拉斯加認證民主黨勝選",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
+    "timestamp": "2026-10-23T20:20:28.222Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "約旦河西岸2巴人槍擊哨站以軍2死　內塔尼亞胡下令全面封鎖西岸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190351887870726144196527.jpeg/J6UMqGBRyRRk7KcXFkiBt3LuV0IT1AtjCL4O-y2-Dvs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402965/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E9%B3%B3%E5%BE%B7%E9%82%A8%E5%B0%87%E6%8F%9B%F0%A8%8B%A2-%E5%B1%85%E6%B0%91%E6%86%82%E6%88%BF%E5%A7%94%E6%9C%83%E6%8A%95%E9%81%B8%E8%87%BA%E6%97%A5%E8%AE%8A-%E7%BF%BB%E7%89%88-%E5%AF%8C%E4%BA%A8%E9%82%A8",
     "timestamp": "2026-10-23T11:55:02.244Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國裁軍大使聯合國批美國太空戰略　籲防止外空軍備競賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190358021184688128021576.jpeg/8s0pCwXVXOVHyf1-2uo47aVNTjzmPnt75CzuOOQs7jg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60402985/%E4%B8%AD%E5%9C%8B%E8%A3%81%E8%BB%8D%E5%A4%A7%E4%BD%BF%E8%81%AF%E5%90%88%E5%9C%8B%E6%89%B9%E7%BE%8E%E5%9C%8B%E5%A4%AA%E7%A9%BA%E6%88%B0%E7%95%A5-%E7%B1%B2%E9%98%B2%E6%AD%A2%E5%A4%96%E7%A9%BA%E8%BB%8D%E5%82%99%E7%AB%B6%E8%B3%BD",
-    "timestamp": "2026-10-23T11:35:54.858Z",
     "strategy": ".content-card__main"
   }
 ];
