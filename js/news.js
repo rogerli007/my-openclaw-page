@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T16:47:10.167Z
+// Last updated: 2026-10-23T16:58:22.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "克宮：俄美烏三方會談11月上半月在阿聯酋舉行　澤連斯基確認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035944090723684352846371.jpeg/MN8H4Shp9G4y1ZVweweqfd1iGXefcqKujLlR-Iy5Ufg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403085/%E5%85%8B%E5%AE%AE-%E4%BF%84%E7%BE%8E%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%8711%E6%9C%88%E4%B8%8A%E5%8D%8A%E6%9C%88%E5%9C%A8%E9%98%BF%E8%81%AF%E9%85%8B%E8%88%89%E8%A1%8C-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A2%BA%E8%AA%8D",
+    "timestamp": "2026-10-23T16:58:22.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "9歲童「開門殺」致鐵騎死亡│未達刑責年齡　女司機判監10個月惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190323222231388160364071.jpeg/BvtSXCgbzuaqDDw9zMsGDmpCSdB4wUmUcbby9nG28vY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402880/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E5%8D%97%E6%B2%99%E6%8C%91%E6%88%B0%E8%B3%BD%E9%97%964%E5%BC%B7-%E7%9B%B4%E8%90%BD%E5%85%A9%E7%9B%A4%E6%8C%AB%E6%97%A5%E6%9C%AC%E8%B2%BB%E8%98%AD%E7%89%B9",
     "timestamp": "2026-10-23T07:29:30.171Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大腸癌預防｜醫推4大高纖水果守護腸道健康　 番石榴連皮吃更好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164539883113418752583072.jpeg/tVkOFtqCXSfLKxLN5s38sCOioelnw_TH7N6wSOzesEg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60379543/%E5%A4%A7%E8%85%B8%E7%99%8C%E9%A0%90%E9%98%B2-%E9%86%AB%E6%8E%A84%E5%A4%A7%E9%AB%98%E7%BA%96%E6%B0%B4%E6%9E%9C%E5%AE%88%E8%AD%B7%E8%85%B8%E9%81%93%E5%81%A5%E5%BA%B7-%E7%95%AA%E7%9F%B3%E6%A6%B4%E9%80%A3%E7%9A%AE%E5%90%83%E6%9B%B4%E5%A5%BD",
-    "timestamp": "2026-10-23T07:01:11.258Z",
     "strategy": ".content-card__main"
   }
 ];
