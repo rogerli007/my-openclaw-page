@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T14:48:15.264Z
+// Last updated: 2026-10-23T15:00:09.609Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "The Weeknd啟德演唱會入場須知　一文看清主辦安檢規定、禁攜物品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190435022054625280630124.jpeg/RiNEasE4lTNTjORYQr34KAlzMjDIQdH2JssEcCbLBHA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60403070/the-weeknd%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83%E5%85%A5%E5%A0%B4%E9%A0%88%E7%9F%A5-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E4%B8%BB%E8%BE%A6%E5%AE%89%E6%AA%A2%E8%A6%8F%E5%AE%9A-%E7%A6%81%E6%94%9C%E7%89%A9%E5%93%81",
+    "timestamp": "2026-10-23T15:00:09.609Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中總換屆｜曾智明當選會長接替蔡冠深　姚祖輝、李惟宏等任副會長",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190189824598872064534910.jpeg/Z0Vo85XDqJojUecybRht0k0nrz4KJt3TMZpfSTGaX0k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402767/%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E9%95%B7%E9%81%B8%E6%88%B0%E7%88%86%E6%80%A7%E4%BE%B5%E8%88%8A%E6%A1%88%E7%88%AD%E8%AD%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%92%90%E5%85%B1%E5%92%8C%E9%BB%A8%E5%80%99%E9%81%B8%E4%BA%BA%E5%BB%A3%E5%91%8A",
     "timestamp": "2026-10-23T04:51:12.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜長沙灣客貨車疑無視讓路標誌撞飛電單車　鐵騎士拋起仆倒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190272191858479104082731.jpeg/KWwZua3rXqdpzdwk7__OeIz_wOZ9oAGSZL4eBGS-HgQ",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402790/%E8%BB%8Acam-%E9%95%B7%E6%B2%99%E7%81%A3%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%96%91%E7%84%A1%E8%A6%96%E8%AE%93%E8%B7%AF%E6%A8%99%E8%AA%8C%E6%92%9E%E9%A3%9B%E9%9B%BB%E5%96%AE%E8%BB%8A-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%8B%8B%E8%B5%B7%E4%BB%86%E5%80%92",
-    "timestamp": "2026-10-23T04:26:35.309Z",
     "strategy": ".content-card__main"
   }
 ];
