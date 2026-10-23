@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T05:19:59.575Z
+// Last updated: 2026-10-23T05:46:17.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公屋戶花$900申購買證睇二手居屋　自言不買仍有賺：公屋租戶特權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190293418501214208348071.png/2RH1mbtrCjuXewjO_r4YynMni2Uwn-vKOnJW3zpyVt8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402784/%E5%85%AC%E5%B1%8B%E6%88%B6%E8%8A%B1-900%E7%94%B3%E8%B3%BC%E8%B2%B7%E8%AD%89%E7%9D%87%E4%BA%8C%E6%89%8B%E5%B1%85%E5%B1%8B-%E8%87%AA%E8%A8%80%E4%B8%8D%E8%B2%B7%E4%BB%8D%E6%9C%89%E8%B3%BA-%E5%85%AC%E5%B1%8B%E7%A7%9F%E6%88%B6%E7%89%B9%E6%AC%8A",
+    "timestamp": "2026-10-23T05:46:17.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東華三院招聘殯儀服務經理　月薪52K免碰遺體！2大入職要求一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190164107349725184178396.jpeg/daHb4sVhLafTPq3VwuhG9_A7EeugE-BH0eH8hdHh_IU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402694/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E6%96%9C%E5%9D%A1%E8%AE%8A%E8%80%81%E9%BC%A0%E7%AA%A9-%E9%BC%A0%E7%BE%A4%E4%BA%82%E7%AB%84-%E6%97%81%E9%82%8A%E5%85%AC%E5%9C%92%E6%B7%AA%E9%AB%98%E5%8D%B1%E5%8D%80-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-22T21:34:01.855Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌大隴街斜坡變老鼠窩　鼠群亂竄　旁邊公園淪高危區｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190164107349725184178396.jpeg/daHb4sVhLafTPq3VwuhG9_A7EeugE-BH0eH8hdHh_IU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402694/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E6%96%9C%E5%9D%A1%E8%AE%8A%E8%80%81%E9%BC%A0%E7%AA%A9-%E9%BC%A0%E7%BE%A4%E4%BA%82%E7%AB%84-%E6%97%81%E9%82%8A%E5%85%AC%E5%9C%92%E6%B7%AA%E9%AB%98%E5%8D%B1%E5%8D%80-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-22T21:19:12.021Z",
     "strategy": ".content-card__main"
   }
 ];
