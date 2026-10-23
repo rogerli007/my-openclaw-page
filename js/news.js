@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T02:35:47.054Z
+// Last updated: 2026-10-23T03:23:27.673Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "昂山素姬遭拘禁5年首與兒子通話　阿里斯：聽見母親聲音意義極大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190256021319192576047691.jpeg/c_cmq2vhWyxfoXRCzRswmKqh-diuVZd8HVYz0R1WM9E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402730/%E6%98%82%E5%B1%B1%E7%B4%A0%E5%A7%AC%E9%81%AD%E6%8B%98%E7%A6%815%E5%B9%B4%E9%A6%96%E8%88%87%E5%85%92%E5%AD%90%E9%80%9A%E8%A9%B1-%E9%98%BF%E9%87%8C%E6%96%AF-%E8%81%BD%E8%A6%8B%E6%AF%8D%E8%A6%AA%E8%81%B2%E9%9F%B3%E6%84%8F%E7%BE%A9%E6%A5%B5%E5%A4%A7",
+    "timestamp": "2026-10-23T03:23:27.673Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo取機｜司機注意！摺機開盡螢幕長度符法例？當局有回覆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190141022647095296841370.jpeg/CvGVae9lPd2QGKixcm2pkhf6Y7vRzkW9cYgCLXGIAi0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402688/%E4%B8%8A%E6%B0%B4%E5%BD%A9%E8%92%B2%E8%8B%91%E9%9B%BB%E7%A3%81%E7%88%90%E7%84%A1%E7%86%84%E7%81%AB-%E6%88%B6%E4%B8%BB%E8%90%BD%E6%A8%93%E8%B2%B7%E9%A4%B8-%E5%96%AE%E4%BD%8D%E9%99%B7%E7%81%AB%E6%B5%B780%E4%BA%BA%E7%96%8F%E6%95%A3",
     "timestamp": "2026-10-22T19:44:52.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港府強烈譴責英國《香港半年報告》　斥污衊抹黑港人權及法治狀況",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241120/935855081125842944936572.jpeg/0zmisyKbGkO9vAKO7KCaay5RwjeihtLH3x6HlN8eh5Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402687/%E6%B8%AF%E5%BA%9C%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E8%8B%B1%E5%9C%8B-%E9%A6%99%E6%B8%AF%E5%8D%8A%E5%B9%B4%E5%A0%B1%E5%91%8A-%E6%96%A5%E6%B1%A1%E8%A1%8A%E6%8A%B9%E9%BB%91%E6%B8%AF%E4%BA%BA%E6%AC%8A%E5%8F%8A%E6%B3%95%E6%B2%BB%E7%8B%80%E6%B3%81",
-    "timestamp": "2026-10-22T19:19:11.845Z",
     "strategy": ".content-card__main"
   }
 ];
