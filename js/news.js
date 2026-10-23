@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T01:45:26.680Z
+// Last updated: 2026-10-23T02:35:47.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo取機｜司機注意！摺機開盡螢幕長度符法例？當局有回覆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190247592907247616691072.jpeg/ykIgZHPyN7ByjsHr9MMtyypAyGIK5lb-IeH2viHh9r4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400169/iphone-duo%E5%8F%96%E6%A9%9F-%E5%8F%B8%E6%A9%9F%E6%B3%A8%E6%84%8F-%E6%91%BA%E6%A9%9F%E9%96%8B%E7%9B%A1%E8%9E%A2%E5%B9%95%E9%95%B7%E5%BA%A6%E7%AC%A6%E6%B3%95%E4%BE%8B-%E7%95%B6%E5%B1%80%E6%9C%89%E5%9B%9E%E8%A6%86",
+    "timestamp": "2026-10-23T02:35:47.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美債保衛戰｜避險需求推動債市走高　美10年期國債殖利率跌破5%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241120/935855081125842944936572.jpeg/0zmisyKbGkO9vAKO7KCaay5RwjeihtLH3x6HlN8eh5Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402687/%E6%B8%AF%E5%BA%9C%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E8%8B%B1%E5%9C%8B-%E9%A6%99%E6%B8%AF%E5%8D%8A%E5%B9%B4%E5%A0%B1%E5%91%8A-%E6%96%A5%E6%B1%A1%E8%A1%8A%E6%8A%B9%E9%BB%91%E6%B8%AF%E4%BA%BA%E6%AC%8A%E5%8F%8A%E6%B3%95%E6%B2%BB%E7%8B%80%E6%B3%81",
     "timestamp": "2026-10-22T19:19:11.845Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警旺角搗破非法百家樂賭場　檢證物包括$18萬籌碼　10男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190130862612549632748529.jpeg/kJWOTxT4i6DHANVxgILfSVSN4JR28bKbgZ9dCoGfXQo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402686/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E7%99%BE%E5%AE%B6%E6%A8%82%E8%B3%AD%E5%A0%B4-%E6%AA%A2%E8%AD%89%E7%89%A9%E5%8C%85%E6%8B%AC-18%E8%90%AC%E7%B1%8C%E7%A2%BC-10%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-22T19:01:20.154Z",
     "strategy": ".content-card__main"
   }
 ];
