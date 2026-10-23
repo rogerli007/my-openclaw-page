@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T03:49:50.034Z
+// Last updated: 2026-10-23T04:03:55.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長壽飲食必吃5平價食物｜高脂魚抗炎！研究證日吃1物降22%死亡率",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190269899977527296784651.png/pZZH_3FvkZsEXq-Tl_Xe2KuwapdicbT3RpoD5kaaA-Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60402535/%E9%95%B7%E5%A3%BD%E9%A3%B2%E9%A3%9F%E5%BF%85%E5%90%835%E5%B9%B3%E5%83%B9%E9%A3%9F%E7%89%A9-%E9%AB%98%E8%84%82%E9%AD%9A%E6%8A%97%E7%82%8E-%E7%A0%94%E7%A9%B6%E8%AD%89%E6%97%A5%E5%90%831%E7%89%A9%E9%99%8D22-%E6%AD%BB%E4%BA%A1%E7%8E%87",
+    "timestamp": "2026-10-23T04:03:55.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長者生活津貼｜夫婦100萬資產仍可申請　買年金等3招合法豁免攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190143996362493952301592.jpeg/tAuPCl_4PiAnW0FfV7TN-f4jOvg3esFQt1e95LdXveQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402689/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E6%98%9F%E9%8F%88%E9%80%9F%E5%BA%A6%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E9%9B%BB%E9%A6%AC%E6%96%AF%E5%85%8B%E5%BE%8C%E6%9C%89%E6%94%B9%E5%96%84",
     "timestamp": "2026-10-22T20:20:16.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水彩蒲苑電磁爐無熄火　戶主落樓買餸　單位陷火海80人疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190141022647095296841370.jpeg/CvGVae9lPd2QGKixcm2pkhf6Y7vRzkW9cYgCLXGIAi0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402688/%E4%B8%8A%E6%B0%B4%E5%BD%A9%E8%92%B2%E8%8B%91%E9%9B%BB%E7%A3%81%E7%88%90%E7%84%A1%E7%86%84%E7%81%AB-%E6%88%B6%E4%B8%BB%E8%90%BD%E6%A8%93%E8%B2%B7%E9%A4%B8-%E5%96%AE%E4%BD%8D%E9%99%B7%E7%81%AB%E6%B5%B780%E4%BA%BA%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-10-22T19:56:07.001Z",
     "strategy": ".content-card__main"
   }
 ];
