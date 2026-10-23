@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T15:19:24.994Z
+// Last updated: 2026-10-23T15:40:12.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "你的保安李寶安丨何爵天歎友台尺度驚人　AV女優濱崎真緒都要認低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190347061791297536436912.jpeg/fJpt_VeDDRFzsi97p1ZZ1kLX3j4S31CvFu419xbuNfc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402934/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89%E6%9D%8E%E5%AF%B6%E5%AE%89-%E4%BD%95%E7%88%B5%E5%A4%A9%E6%AD%8E%E5%8F%8B%E5%8F%B0%E5%B0%BA%E5%BA%A6%E9%A9%9A%E4%BA%BA-av%E5%A5%B3%E5%84%AA%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E9%83%BD%E8%A6%81%E8%AA%8D%E4%BD%8E",
+    "timestamp": "2026-10-23T15:40:12.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓遊客機場星巴克買飲品　杯身標籤Kimchi　公司致歉：會嚴肅處理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190293418501214208348071.png/2RH1mbtrCjuXewjO_r4YynMni2Uwn-vKOnJW3zpyVt8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402784/%E5%85%AC%E5%B1%8B%E6%88%B6%E8%8A%B1-900%E7%94%B3%E8%B3%BC%E8%B2%B7%E8%AD%89%E7%9D%87%E4%BA%8C%E6%89%8B%E5%B1%85%E5%B1%8B-%E8%87%AA%E8%A8%80%E4%B8%8D%E8%B2%B7%E4%BB%8D%E6%9C%89%E8%B3%BA-%E5%85%AC%E5%B1%8B%E7%A7%9F%E6%88%B6%E7%89%B9%E6%AC%8A",
     "timestamp": "2026-10-23T05:46:17.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東華三院招聘殯儀服務經理　月薪52K免碰遺體！2大入職要求一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190289106349854720908513.jpeg/DmCmvGHphiJzLL8v2d9rwE4xoSboTdlINnfxBjZ38QY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60402724/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%8B%9B%E8%81%98%E6%AE%AF%E5%84%80%E6%9C%8D%E5%8B%99%E7%B6%93%E7%90%86-%E6%9C%88%E8%96%AA52k%E5%85%8D%E7%A2%B0%E9%81%BA%E9%AB%94-2%E5%A4%A7%E5%85%A5%E8%81%B7%E8%A6%81%E6%B1%82%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-10-23T05:19:59.575Z",
     "strategy": ".content-card__main"
   }
 ];
