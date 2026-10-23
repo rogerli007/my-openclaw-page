@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T21:44:47.632Z
+// Last updated: 2026-10-23T21:54:35.118Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普取消部份加拿大商品50%關稅　疑為共和黨緬因州參議員助選",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190536962860126208910248.jpeg/sSg3s052MG_mCu5mudiUW50O1OYN4oDXEXVrJxF1ayc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403091/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E9%83%A8%E4%BB%BD%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%95%86%E5%93%8150-%E9%97%9C%E7%A8%85-%E7%96%91%E7%82%BA%E5%85%B1%E5%92%8C%E9%BB%A8%E7%B7%AC%E5%9B%A0%E5%B7%9E%E5%8F%83%E8%AD%B0%E5%93%A1%E5%8A%A9%E9%81%B8",
+    "timestamp": "2026-10-23T21:54:35.118Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普取消部份加拿大商品50%關稅　疑為共和黨緬因州參議員助選",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190080060971814912123549.jpeg/6n6cQbTypTPBvImEu_NYY8bntivYHljN4gax1eIGsdU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402675/%E9%9F%93%E9%81%8A%E5%AE%A2%E6%A9%9F%E5%A0%B4%E6%98%9F%E5%B7%B4%E5%85%8B%E8%B2%B7%E9%A3%B2%E5%93%81-%E6%9D%AF%E8%BA%AB%E6%A8%99%E7%B1%A4kimchi-%E5%85%AC%E5%8F%B8%E8%87%B4%E6%AD%89-%E6%9C%83%E5%9A%B4%E8%82%85%E8%99%95%E7%90%86",
     "timestamp": "2026-10-23T15:19:24.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "The Weeknd啟德演唱會入場須知　一文看清主辦安檢規定、禁攜物品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190435022054625280630124.jpeg/RiNEasE4lTNTjORYQr34KAlzMjDIQdH2JssEcCbLBHA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60403070/the-weeknd%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83%E5%85%A5%E5%A0%B4%E9%A0%88%E7%9F%A5-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E4%B8%BB%E8%BE%A6%E5%AE%89%E6%AA%A2%E8%A6%8F%E5%AE%9A-%E7%A6%81%E6%94%9C%E7%89%A9%E5%93%81",
-    "timestamp": "2026-10-23T15:00:09.609Z",
     "strategy": ".content-card__main"
   }
 ];
