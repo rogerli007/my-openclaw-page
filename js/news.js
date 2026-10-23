@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T04:51:12.535Z
+// Last updated: 2026-10-23T05:19:59.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東華三院招聘殯儀服務經理　月薪52K免碰遺體！2大入職要求一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190289106349854720908513.jpeg/DmCmvGHphiJzLL8v2d9rwE4xoSboTdlINnfxBjZ38QY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60402724/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%8B%9B%E8%81%98%E6%AE%AF%E5%84%80%E6%9C%8D%E5%8B%99%E7%B6%93%E7%90%86-%E6%9C%88%E8%96%AA52k%E5%85%8D%E7%A2%B0%E9%81%BA%E9%AB%94-2%E5%A4%A7%E5%85%A5%E8%81%B7%E8%A6%81%E6%B1%82%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-10-23T05:19:59.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄亥俄州長選戰爆性侵舊案爭議　特朗普力撐共和黨候選人廣告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190164107349725184178396.jpeg/daHb4sVhLafTPq3VwuhG9_A7EeugE-BH0eH8hdHh_IU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402694/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E6%96%9C%E5%9D%A1%E8%AE%8A%E8%80%81%E9%BC%A0%E7%AA%A9-%E9%BC%A0%E7%BE%A4%E4%BA%82%E7%AB%84-%E6%97%81%E9%82%8A%E5%85%AC%E5%9C%92%E6%B7%AA%E9%AB%98%E5%8D%B1%E5%8D%80-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-22T21:19:12.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基稱星鏈速度尚未恢復　美媒：特朗普致電馬斯克後有改善",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190143996362493952301592.jpeg/tAuPCl_4PiAnW0FfV7TN-f4jOvg3esFQt1e95LdXveQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402689/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E6%98%9F%E9%8F%88%E9%80%9F%E5%BA%A6%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E9%9B%BB%E9%A6%AC%E6%96%AF%E5%85%8B%E5%BE%8C%E6%9C%89%E6%94%B9%E5%96%84",
-    "timestamp": "2026-10-22T20:54:58.601Z",
     "strategy": ".content-card__main"
   }
 ];
