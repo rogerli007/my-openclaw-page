@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T23:18:12.851Z
+// Last updated: 2026-10-23T23:43:30.892Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "血癌│20歲男生發燒2周確診急性骨髓性白血病　初似感冒留意3警號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187372846985252864180734.jpeg/Sj1teGBq8QTV22DymNmmvfqXzdvUCRYvJSmB5iUpgeY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397459/%E8%A1%80%E7%99%8C-20%E6%AD%B2%E7%94%B7%E7%94%9F%E7%99%BC%E7%87%922%E5%91%A8%E7%A2%BA%E8%A8%BA%E6%80%A5%E6%80%A7%E9%AA%A8%E9%AB%93%E6%80%A7%E7%99%BD%E8%A1%80%E7%97%85-%E5%88%9D%E4%BC%BC%E6%84%9F%E5%86%92%E7%95%99%E6%84%8F3%E8%AD%A6%E8%99%9F",
+    "timestamp": "2026-10-23T23:43:30.892Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陸劇《玉簟秋》劇名何解？宋才女李清照《一剪梅》藏千年相思故事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190467090583130112509247.jpeg/qm5baHn5kBLrnAk0R037IqKkAS5uzpOR0xTPXtMUz14?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403082/%E4%B9%92%E4%B9%93%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%9B%99%E7%B7%9A%E5%87%BA%E6%93%8A%E7%94%B7%E5%96%AE%E9%97%9616%E5%BC%B7-%E5%A4%A5%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%94%B7%E9%9B%99%E7%88%AD%E5%85%A54%E5%BC%B7",
     "timestamp": "2026-10-23T17:33:26.925Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "克宮：俄美烏三方會談11月上半月在阿聯酋舉行　澤連斯基確認",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035944090723684352846371.jpeg/MN8H4Shp9G4y1ZVweweqfd1iGXefcqKujLlR-Iy5Ufg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403085/%E5%85%8B%E5%AE%AE-%E4%BF%84%E7%BE%8E%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%8711%E6%9C%88%E4%B8%8A%E5%8D%8A%E6%9C%88%E5%9C%A8%E9%98%BF%E8%81%AF%E9%85%8B%E8%88%89%E8%A1%8C-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A2%BA%E8%AA%8D",
-    "timestamp": "2026-10-23T16:58:22.166Z",
     "strategy": ".content-card__main"
   }
 ];
