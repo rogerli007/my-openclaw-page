@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T16:22:00.198Z
+// Last updated: 2026-10-23T16:47:10.167Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "9歲童「開門殺」致鐵騎死亡│未達刑責年齡　女司機判監10個月惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190339615953784832032698.png/2YYal09eCYMtuZd_25071amuEu8QzyJ-dbB_qnWwf6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402756/9%E6%AD%B2%E7%AB%A5-%E9%96%8B%E9%96%80%E6%AE%BA-%E8%87%B4%E9%90%B5%E9%A8%8E%E6%AD%BB%E4%BA%A1-%E6%9C%AA%E9%81%94%E5%88%91%E8%B2%AC%E5%B9%B4%E9%BD%A1-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%88%A4%E7%9B%A310%E5%80%8B%E6%9C%88%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-10-23T16:47:10.167Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵炮台山站白衣男捐閘　目擊者：爬入又爬出　無人阻止｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164539883113418752583072.jpeg/tVkOFtqCXSfLKxLN5s38sCOioelnw_TH7N6wSOzesEg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60379543/%E5%A4%A7%E8%85%B8%E7%99%8C%E9%A0%90%E9%98%B2-%E9%86%AB%E6%8E%A84%E5%A4%A7%E9%AB%98%E7%BA%96%E6%B0%B4%E6%9E%9C%E5%AE%88%E8%AD%B7%E8%85%B8%E9%81%93%E5%81%A5%E5%BA%B7-%E7%95%AA%E7%9F%B3%E6%A6%B4%E9%80%A3%E7%9A%AE%E5%90%83%E6%9B%B4%E5%A5%BD",
     "timestamp": "2026-10-23T07:01:11.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "派翠克遭控「玩別人女友」　深夜帶「耳機妹」回家飲酒至凌晨3點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190301189460201472538914.png/0MugXGGjFmLLuRA4AEGAkvbCxNsb_pk9WzW1z1s1tc8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402849/%E6%B4%BE%E7%BF%A0%E5%85%8B%E9%81%AD%E6%8E%A7-%E7%8E%A9%E5%88%A5%E4%BA%BA%E5%A5%B3%E5%8F%8B-%E6%B7%B1%E5%A4%9C%E5%B8%B6-%E8%80%B3%E6%A9%9F%E5%A6%B9-%E5%9B%9E%E5%AE%B6%E9%A3%B2%E9%85%92%E8%87%B3%E5%87%8C%E6%99%A83%E9%BB%9E",
-    "timestamp": "2026-10-23T06:31:57.713Z",
     "strategy": ".content-card__main"
   }
 ];
