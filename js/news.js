@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T01:18:33.122Z
+// Last updated: 2026-10-23T01:45:26.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美債保衛戰｜避險需求推動債市走高　美10年期國債殖利率跌破5%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1120930/org/fba2530996eb90fe65447366492d73f4.jpg/fAZg2BKUidAT3mxjj6VcM03wrddg4xJFJVsdtiVbHbY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60402711/%E7%BE%8E%E5%82%B5%E4%BF%9D%E8%A1%9B%E6%88%B0-%E9%81%BF%E9%9A%AA%E9%9C%80%E6%B1%82%E6%8E%A8%E5%8B%95%E5%82%B5%E5%B8%82%E8%B5%B0%E9%AB%98-%E7%BE%8E10%E5%B9%B4%E6%9C%9F%E5%9C%8B%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%B7%8C%E7%A0%B45",
+    "timestamp": "2026-10-23T01:45:26.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo首賣日廣東道現場直擊｜港版eSIM限制炒價1TB炒高$5100",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190130862612549632748529.jpeg/kJWOTxT4i6DHANVxgILfSVSN4JR28bKbgZ9dCoGfXQo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402686/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E7%A0%B4%E9%9D%9E%E6%B3%95%E7%99%BE%E5%AE%B6%E6%A8%82%E8%B3%AD%E5%A0%B4-%E6%AA%A2%E8%AD%89%E7%89%A9%E5%8C%85%E6%8B%AC-18%E8%90%AC%E7%B1%8C%E7%A2%BC-10%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-22T19:01:20.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角可疑醉男遇截查情緒激動　遭眾警制服　警員無發現放行｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190123222813642752158374.jpeg/dn7hC5BnUJYz5k4ZMxxB0OLunHmCn0aklTVAJZU1QCU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402683/%E6%97%BA%E8%A7%92%E5%8F%AF%E7%96%91%E9%86%89%E7%94%B7%E9%81%87%E6%88%AA%E6%9F%A5%E6%83%85%E7%B7%92%E6%BF%80%E5%8B%95-%E9%81%AD%E7%9C%BE%E8%AD%A6%E5%88%B6%E6%9C%8D-%E8%AD%A6%E5%93%A1%E7%84%A1%E7%99%BC%E7%8F%BE%E6%94%BE%E8%A1%8C-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-22T18:49:43.776Z",
     "strategy": ".content-card__main"
   }
 ];
