@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T09:47:46.833Z
+// Last updated: 2026-10-23T10:01:46.766Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "我阿爹想旅行｜復刻90年代賭片海報　入場搵彩蛋「擺啦，擺啦嘛」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190353746610098176728935.jpeg/Wcxi4I_uDHPpOrxRB24iRtzVQwy-OERqdRiE33UYhN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402805/%E6%88%91%E9%98%BF%E7%88%B9%E6%83%B3%E6%97%85%E8%A1%8C-%E5%BE%A9%E5%88%BB90%E5%B9%B4%E4%BB%A3%E8%B3%AD%E7%89%87%E6%B5%B7%E5%A0%B1-%E5%85%A5%E5%A0%B4%E6%90%B5%E5%BD%A9%E8%9B%8B-%E6%93%BA%E5%95%A6-%E6%93%BA%E5%95%A6%E5%98%9B",
+    "timestamp": "2026-10-23T10:01:46.766Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "我阿爹想旅行｜復刻90年代賭片海報　入場搵彩蛋「擺啦，擺啦嘛」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186299379460345856523189.png/mJ5J5NUU7qN8RLmVpljNuoLEDjwr7Ks1NRs-4jUbPuI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396753/%E6%A4%8E%E9%96%93%E7%9B%A4%E7%AA%81%E5%87%BA-%E8%BE%A6%E5%85%AC%E5%AE%A4%E6%97%8F%E5%B1%88%E8%86%9D%E7%9B%A4%E8%85%BF%E8%B6%85%E5%82%B7%E8%85%B0-%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A33%E6%8B%9B%E8%AD%B7%E8%84%8A%E6%B8%9B%E5%A3%93%E5%9D%90%E5%A7%BF",
     "timestamp": "2026-10-22T23:59:05.846Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《玉簟秋》最痛分手！徐若晗浴室割腕訣別　丞磊含淚放手網民淚崩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189995301457367040968417.png/cchmg7q8OYvCLP4kYMXWGqZNj-Alp0SxuxW477sVuO8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402545/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E6%9C%80%E7%97%9B%E5%88%86%E6%89%8B-%E5%BE%90%E8%8B%A5%E6%99%97%E6%B5%B4%E5%AE%A4%E5%89%B2%E8%85%95%E8%A8%A3%E5%88%A5-%E4%B8%9E%E7%A3%8A%E5%90%AB%E6%B7%9A%E6%94%BE%E6%89%8B%E7%B6%B2%E6%B0%91%E6%B7%9A%E5%B4%A9",
-    "timestamp": "2026-10-22T23:37:00.028Z",
     "strategy": ".content-card__main"
   }
 ];
