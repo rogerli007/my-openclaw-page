@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T22:18:19.883Z
+// Last updated: 2026-10-23T22:32:28.441Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【星之谷】居屋按揭「借得少」未必着數　拆解銀行審批四大弊端",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190316528965259264982601.jpeg/w-F6FIHnu7d6RLh8yFkSPCTbTEAPP5rh2MUhu9jFIbs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60402874/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E5%B1%85%E5%B1%8B%E6%8C%89%E6%8F%AD-%E5%80%9F%E5%BE%97%E5%B0%91-%E6%9C%AA%E5%BF%85%E7%9D%80%E6%95%B8-%E6%8B%86%E8%A7%A3%E9%8A%80%E8%A1%8C%E5%AF%A9%E6%89%B9%E5%9B%9B%E5%A4%A7%E5%BC%8A%E7%AB%AF",
+    "timestamp": "2026-10-23T22:32:28.441Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【星之谷】居屋按揭「借得少」未必着數　拆解銀行審批四大弊端",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190347061791297536436912.jpeg/fJpt_VeDDRFzsi97p1ZZ1kLX3j4S31CvFu419xbuNfc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402934/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89%E6%9D%8E%E5%AF%B6%E5%AE%89-%E4%BD%95%E7%88%B5%E5%A4%A9%E6%AD%8E%E5%8F%8B%E5%8F%B0%E5%B0%BA%E5%BA%A6%E9%A9%9A%E4%BA%BA-av%E5%A5%B3%E5%84%AA%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E9%83%BD%E8%A6%81%E8%AA%8D%E4%BD%8E",
     "timestamp": "2026-10-23T15:57:17.561Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "你的保安李寶安丨何爵天歎友台尺度驚人　AV女優濱崎真緒都要認低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190347061791297536436912.jpeg/fJpt_VeDDRFzsi97p1ZZ1kLX3j4S31CvFu419xbuNfc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402934/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89%E6%9D%8E%E5%AF%B6%E5%AE%89-%E4%BD%95%E7%88%B5%E5%A4%A9%E6%AD%8E%E5%8F%8B%E5%8F%B0%E5%B0%BA%E5%BA%A6%E9%A9%9A%E4%BA%BA-av%E5%A5%B3%E5%84%AA%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E9%83%BD%E8%A6%81%E8%AA%8D%E4%BD%8E",
-    "timestamp": "2026-10-23T15:40:12.233Z",
     "strategy": ".content-card__main"
   }
 ];
