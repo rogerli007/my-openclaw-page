@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T07:01:11.258Z
+// Last updated: 2026-10-23T07:29:30.171Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網球｜黃澤林南沙挑戰賽闖4強　直落兩盤挫日本費蘭特",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190323222231388160364071.jpeg/BvtSXCgbzuaqDDw9zMsGDmpCSdB4wUmUcbby9nG28vY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402880/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E5%8D%97%E6%B2%99%E6%8C%91%E6%88%B0%E8%B3%BD%E9%97%964%E5%BC%B7-%E7%9B%B4%E8%90%BD%E5%85%A9%E7%9B%A4%E6%8C%AB%E6%97%A5%E6%9C%AC%E8%B2%BB%E8%98%AD%E7%89%B9",
+    "timestamp": "2026-10-23T07:29:30.171Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大腸癌預防｜醫推4大高纖水果守護腸道健康　 番石榴連皮吃更好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183828383289577472213697.jpeg/NbDQh5EfgN9UfokNBQhX10ahi4f4lSj9k6wpnpOsKZ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396561/%E7%85%A7%E9%A1%A7%E8%80%85%E7%B3%BB%E5%88%97-%E7%85%A7%E9%A1%A7%E7%AF%80%E5%A5%8F%E8%A2%AB%E6%89%93%E4%BA%82-%E5%8F%8B-%E4%BC%B4-%E7%BE%A9%E5%B7%A5%E6%9A%96%E5%BF%83%E6%8E%A5%E5%8A%9B%E5%8A%A9%E6%94%9D%E5%BD%B1%E5%B8%AB%E5%BE%A9%E5%BA%B7",
     "timestamp": "2026-10-22T22:32:15.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "照顧者系列｜照顧節奏被打亂　友「伴」義工暖心接力助攝影師復康",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183828383289577472213697.jpeg/NbDQh5EfgN9UfokNBQhX10ahi4f4lSj9k6wpnpOsKZ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60396561/%E7%85%A7%E9%A1%A7%E8%80%85%E7%B3%BB%E5%88%97-%E7%85%A7%E9%A1%A7%E7%AF%80%E5%A5%8F%E8%A2%AB%E6%89%93%E4%BA%82-%E5%8F%8B-%E4%BC%B4-%E7%BE%A9%E5%B7%A5%E6%9A%96%E5%BF%83%E6%8E%A5%E5%8A%9B%E5%8A%A9%E6%94%9D%E5%BD%B1%E5%B8%AB%E5%BE%A9%E5%BA%B7",
-    "timestamp": "2026-10-22T22:18:35.347Z",
     "strategy": ".content-card__main"
   }
 ];
