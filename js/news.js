@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T15:00:09.609Z
+// Last updated: 2026-10-23T15:19:24.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓遊客機場星巴克買飲品　杯身標籤Kimchi　公司致歉：會嚴肅處理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190080060971814912123549.jpeg/6n6cQbTypTPBvImEu_NYY8bntivYHljN4gax1eIGsdU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402675/%E9%9F%93%E9%81%8A%E5%AE%A2%E6%A9%9F%E5%A0%B4%E6%98%9F%E5%B7%B4%E5%85%8B%E8%B2%B7%E9%A3%B2%E5%93%81-%E6%9D%AF%E8%BA%AB%E6%A8%99%E7%B1%A4kimchi-%E5%85%AC%E5%8F%B8%E8%87%B4%E6%AD%89-%E6%9C%83%E5%9A%B4%E8%82%85%E8%99%95%E7%90%86",
+    "timestamp": "2026-10-23T15:19:24.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "The Weeknd啟德演唱會入場須知　一文看清主辦安檢規定、禁攜物品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190289106349854720908513.jpeg/DmCmvGHphiJzLL8v2d9rwE4xoSboTdlINnfxBjZ38QY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60402724/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E6%8B%9B%E8%81%98%E6%AE%AF%E5%84%80%E6%9C%8D%E5%8B%99%E7%B6%93%E7%90%86-%E6%9C%88%E8%96%AA52k%E5%85%8D%E7%A2%B0%E9%81%BA%E9%AB%94-2%E5%A4%A7%E5%85%A5%E8%81%B7%E8%A6%81%E6%B1%82%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-10-23T05:19:59.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄亥俄州長選戰爆性侵舊案爭議　特朗普力撐共和黨候選人廣告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190189824598872064534910.jpeg/Z0Vo85XDqJojUecybRht0k0nrz4KJt3TMZpfSTGaX0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402767/%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E9%95%B7%E9%81%B8%E6%88%B0%E7%88%86%E6%80%A7%E4%BE%B5%E8%88%8A%E6%A1%88%E7%88%AD%E8%AD%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%92%90%E5%85%B1%E5%92%8C%E9%BB%A8%E5%80%99%E9%81%B8%E4%BA%BA%E5%BB%A3%E5%91%8A",
-    "timestamp": "2026-10-23T04:51:12.535Z",
     "strategy": ".content-card__main"
   }
 ];
