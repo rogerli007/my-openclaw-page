@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T18:49:06.060Z
+// Last updated: 2026-10-23T18:59:56.918Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新填地街單位淪非法賭檔　警拘10人　包括主持和9賭客",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190482470382866432295786.jpeg/bVJ5ONtXg_x6eGUvtGY6g6ehQMmNWSITxEm5csRJuXI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403087/%E6%96%B0%E5%A1%AB%E5%9C%B0%E8%A1%97%E5%96%AE%E4%BD%8D%E6%B7%AA%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E8%AD%A6%E6%8B%9810%E4%BA%BA-%E5%8C%85%E6%8B%AC%E4%B8%BB%E6%8C%81%E5%92%8C9%E8%B3%AD%E5%AE%A2",
+    "timestamp": "2026-10-23T18:59:56.918Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新填地街單位淪非法賭檔　警拘10人　包括主持和9賭客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190353746610098176728935.jpeg/Wcxi4I_uDHPpOrxRB24iRtzVQwy-OERqdRiE33UYhN8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402805/%E6%88%91%E9%98%BF%E7%88%B9%E6%83%B3%E6%97%85%E8%A1%8C-%E5%BE%A9%E5%88%BB90%E5%B9%B4%E4%BB%A3%E8%B3%AD%E7%89%87%E6%B5%B7%E5%A0%B1-%E5%85%A5%E5%A0%B4%E6%90%B5%E5%BD%A9%E8%9B%8B-%E6%93%BA%E5%95%A6-%E6%93%BA%E5%95%A6%E5%98%9B",
     "timestamp": "2026-10-23T10:01:46.766Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "我阿爹想旅行｜復刻90年代賭片海報　入場搵彩蛋「擺啦，擺啦嘛」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190353746610098176728935.jpeg/Wcxi4I_uDHPpOrxRB24iRtzVQwy-OERqdRiE33UYhN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402805/%E6%88%91%E9%98%BF%E7%88%B9%E6%83%B3%E6%97%85%E8%A1%8C-%E5%BE%A9%E5%88%BB90%E5%B9%B4%E4%BB%A3%E8%B3%AD%E7%89%87%E6%B5%B7%E5%A0%B1-%E5%85%A5%E5%A0%B4%E6%90%B5%E5%BD%A9%E8%9B%8B-%E6%93%BA%E5%95%A6-%E6%93%BA%E5%95%A6%E5%98%9B",
-    "timestamp": "2026-10-23T09:47:46.833Z",
     "strategy": ".content-card__main"
   }
 ];
