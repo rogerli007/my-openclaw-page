@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T11:55:02.244Z
+// Last updated: 2026-10-23T12:26:44.094Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "地獄大狀丨魏浚笙激吻林愷鈴遭批「唔檢點」：女友在場叫我放膽做",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190386087785140224497810.png/dGL-dX9NOF6Nt7a8qhkKlmli7niMT-TvH_k4lx_5OJc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403037/%E5%9C%B0%E7%8D%84%E5%A4%A7%E7%8B%80-%E9%AD%8F%E6%B5%9A%E7%AC%99%E6%BF%80%E5%90%BB%E6%9E%97%E6%84%B7%E9%88%B4%E9%81%AD%E6%89%B9-%E5%94%94%E6%AA%A2%E9%BB%9E-%E5%A5%B3%E5%8F%8B%E5%9C%A8%E5%A0%B4%E5%8F%AB%E6%88%91%E6%94%BE%E8%86%BD%E5%81%9A",
+    "timestamp": "2026-10-23T12:26:44.094Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯｜鳳德邨將換𨋢　居民憂房委會投選臺日變「翻版」富亨邨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190256021319192576047691.jpeg/c_cmq2vhWyxfoXRCzRswmKqh-diuVZd8HVYz0R1WM9E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402730/%E6%98%82%E5%B1%B1%E7%B4%A0%E5%A7%AC%E9%81%AD%E6%8B%98%E7%A6%815%E5%B9%B4%E9%A6%96%E8%88%87%E5%85%92%E5%AD%90%E9%80%9A%E8%A9%B1-%E9%98%BF%E9%87%8C%E6%96%AF-%E8%81%BD%E8%A6%8B%E6%AF%8D%E8%A6%AA%E8%81%B2%E9%9F%B3%E6%84%8F%E7%BE%A9%E6%A5%B5%E5%A4%A7",
     "timestamp": "2026-10-23T03:23:27.673Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo取機｜司機注意！摺機開盡螢幕長度符法例？當局有回覆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190247592907247616691072.jpeg/ykIgZHPyN7ByjsHr9MMtyypAyGIK5lb-IeH2viHh9r4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400169/iphone-duo%E5%8F%96%E6%A9%9F-%E5%8F%B8%E6%A9%9F%E6%B3%A8%E6%84%8F-%E6%91%BA%E6%A9%9F%E9%96%8B%E7%9B%A1%E8%9E%A2%E5%B9%95%E9%95%B7%E5%BA%A6%E7%AC%A6%E6%B3%95%E4%BE%8B-%E7%95%B6%E5%B1%80%E6%9C%89%E5%9B%9E%E8%A6%86",
-    "timestamp": "2026-10-23T02:35:47.054Z",
     "strategy": ".content-card__main"
   }
 ];
