@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-22T23:59:05.846Z
+// Last updated: 2026-10-23T01:18:33.122Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo首賣日廣東道現場直擊｜港版eSIM限制炒價1TB炒高$5100",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190220101694001152365281.jpeg/6y5g4CDieVB-QcREw5LpBMCIoAL0vw4G9Yq03vWKtN4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60402669/iphone-duo-%E9%A6%96%E6%97%A5%E9%96%8B%E8%B3%A3%E7%9B%B4%E6%93%8A-%E6%9E%9C%E8%BF%B7%E6%B8%85%E6%99%A86%E6%99%82%E6%8E%92%E9%9A%8A-1tb%E9%96%80%E5%A4%96%E7%82%92%E5%83%B9-5100",
+    "timestamp": "2026-10-23T01:18:33.122Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "椎間盤突出｜辦公室族屈膝盤腿超傷腰！專家拆解3招護脊減壓坐姿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190123222813642752158374.jpeg/dn7hC5BnUJYz5k4ZMxxB0OLunHmCn0aklTVAJZU1QCU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402683/%E6%97%BA%E8%A7%92%E5%8F%AF%E7%96%91%E9%86%89%E7%94%B7%E9%81%87%E6%88%AA%E6%9F%A5%E6%83%85%E7%B7%92%E6%BF%80%E5%8B%95-%E9%81%AD%E7%9C%BE%E8%AD%A6%E5%88%B6%E6%9C%8D-%E8%AD%A6%E5%93%A1%E7%84%A1%E7%99%BC%E7%8F%BE%E6%94%BE%E8%A1%8C-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-22T18:49:43.776Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中英街零售店藏私煙和冒牌袋包括LV　總值$460萬　海關拘1女店員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190107263709220864204389.jpeg/6foI7-domPxPbbRIu_GZlPpR4kJ8N8s3WhPIeVoTyHk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402681/%E4%B8%AD%E8%8B%B1%E8%A1%97%E9%9B%B6%E5%94%AE%E5%BA%97%E8%97%8F%E7%A7%81%E7%85%99%E5%92%8C%E5%86%92%E7%89%8C%E8%A2%8B%E5%8C%85%E6%8B%AClv-%E7%B8%BD%E5%80%BC-460%E8%90%AC-%E6%B5%B7%E9%97%9C%E6%8B%981%E5%A5%B3%E5%BA%97%E5%93%A1",
-    "timestamp": "2026-10-22T17:54:25.662Z",
     "strategy": ".content-card__main"
   }
 ];
