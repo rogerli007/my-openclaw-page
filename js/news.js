@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T22:54:09.000Z
+// Last updated: 2026-10-23T23:18:12.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陸劇《玉簟秋》劇名何解？宋才女李清照《一剪梅》藏千年相思故事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190338346669314048684239.png/eTWQIqov_OiH1Di432KAHETj994FFJWBm0RtpJtEbaQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402775/%E9%99%B8%E5%8A%87-%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%8A%87%E5%90%8D%E4%BD%95%E8%A7%A3-%E5%AE%8B%E6%89%8D%E5%A5%B3%E6%9D%8E%E6%B8%85%E7%85%A7-%E4%B8%80%E5%89%AA%E6%A2%85-%E8%97%8F%E5%8D%83%E5%B9%B4%E7%9B%B8%E6%80%9D%E6%95%85%E4%BA%8B",
+    "timestamp": "2026-10-23T23:18:12.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅根父親涉擁大量兒童性虐待照片被查　梅根：2018年已知情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250823/1035944090723684352846371.jpeg/MN8H4Shp9G4y1ZVweweqfd1iGXefcqKujLlR-Iy5Ufg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403085/%E5%85%8B%E5%AE%AE-%E4%BF%84%E7%BE%8E%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%8711%E6%9C%88%E4%B8%8A%E5%8D%8A%E6%9C%88%E5%9C%A8%E9%98%BF%E8%81%AF%E9%85%8B%E8%88%89%E8%A1%8C-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A2%BA%E8%AA%8D",
     "timestamp": "2026-10-23T16:58:22.166Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "9歲童「開門殺」致鐵騎死亡│未達刑責年齡　女司機判監10個月惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190339615953784832032698.png/2YYal09eCYMtuZd_25071amuEu8QzyJ-dbB_qnWwf6o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402756/9%E6%AD%B2%E7%AB%A5-%E9%96%8B%E9%96%80%E6%AE%BA-%E8%87%B4%E9%90%B5%E9%A8%8E%E6%AD%BB%E4%BA%A1-%E6%9C%AA%E9%81%94%E5%88%91%E8%B2%AC%E5%B9%B4%E9%BD%A1-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%88%A4%E7%9B%A310%E5%80%8B%E6%9C%88%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-10-23T16:47:10.167Z",
     "strategy": ".content-card__main"
   }
 ];
