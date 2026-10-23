@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T05:57:17.968Z
+// Last updated: 2026-10-23T06:31:57.713Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "派翠克遭控「玩別人女友」　深夜帶「耳機妹」回家飲酒至凌晨3點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190301189460201472538914.png/0MugXGGjFmLLuRA4AEGAkvbCxNsb_pk9WzW1z1s1tc8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402849/%E6%B4%BE%E7%BF%A0%E5%85%8B%E9%81%AD%E6%8E%A7-%E7%8E%A9%E5%88%A5%E4%BA%BA%E5%A5%B3%E5%8F%8B-%E6%B7%B1%E5%A4%9C%E5%B8%B6-%E8%80%B3%E6%A9%9F%E5%A6%B9-%E5%9B%9E%E5%AE%B6%E9%A3%B2%E9%85%92%E8%87%B3%E5%87%8C%E6%99%A83%E9%BB%9E",
+    "timestamp": "2026-10-23T06:31:57.713Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超特攻｜倫敦打吡　車仔拔刺開主勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190170055065735168259417.jpeg/KBjp_J1YCv9GozTSfLrVMRse00Idppc0au8BBWrvAQU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402693/%E7%94%B7%E6%98%9Ftom-skerritt%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B493%E6%AD%B2-%E6%9B%BE%E5%8F%83%E6%BC%94-%E5%A3%AF%E5%BF%97%E5%87%8C%E9%9B%B2-%E5%8F%8A-%E7%95%B0%E5%BD%A2",
     "timestamp": "2026-10-22T21:54:49.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌大隴街斜坡變老鼠窩　鼠群亂竄　旁邊公園淪高危區｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190164107349725184178396.jpeg/daHb4sVhLafTPq3VwuhG9_A7EeugE-BH0eH8hdHh_IU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402694/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E6%96%9C%E5%9D%A1%E8%AE%8A%E8%80%81%E9%BC%A0%E7%AA%A9-%E9%BC%A0%E7%BE%A4%E4%BA%82%E7%AB%84-%E6%97%81%E9%82%8A%E5%85%AC%E5%9C%92%E6%B7%AA%E9%AB%98%E5%8D%B1%E5%8D%80-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-22T21:45:11.581Z",
     "strategy": ".content-card__main"
   }
 ];
