@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T10:01:46.766Z
+// Last updated: 2026-10-23T10:55:19.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網約車｜滴滴推職前課程學費優惠搶司機　新的士司機數按季增35%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190339758845333504471328.jpeg/zRMMw5_mhCex3H2qaz9-eJKSF3Z1VTukuH3LT7h9y08?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402940/%E7%B6%B2%E7%B4%84%E8%BB%8A-%E6%BB%B4%E6%BB%B4%E6%8E%A8%E8%81%B7%E5%89%8D%E8%AA%B2%E7%A8%8B%E5%AD%B8%E8%B2%BB%E5%84%AA%E6%83%A0%E6%90%B6%E5%8F%B8%E6%A9%9F-%E6%96%B0%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%95%B8%E6%8C%89%E5%AD%A3%E5%A2%9E35",
+    "timestamp": "2026-10-23T10:55:19.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "我阿爹想旅行｜復刻90年代賭片海報　入場搵彩蛋「擺啦，擺啦嘛」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190220101694001152365281.jpeg/6y5g4CDieVB-QcREw5LpBMCIoAL0vw4G9Yq03vWKtN4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60402669/iphone-duo-%E9%A6%96%E6%97%A5%E9%96%8B%E8%B3%A3%E7%9B%B4%E6%93%8A-%E6%9E%9C%E8%BF%B7%E6%B8%85%E6%99%A86%E6%99%82%E6%8E%92%E9%9A%8A-1tb%E9%96%80%E5%A4%96%E7%82%92%E5%83%B9-5100",
     "timestamp": "2026-10-23T01:18:33.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "椎間盤突出｜辦公室族屈膝盤腿超傷腰！專家拆解3招護脊減壓坐姿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186299379460345856523189.png/mJ5J5NUU7qN8RLmVpljNuoLEDjwr7Ks1NRs-4jUbPuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60396753/%E6%A4%8E%E9%96%93%E7%9B%A4%E7%AA%81%E5%87%BA-%E8%BE%A6%E5%85%AC%E5%AE%A4%E6%97%8F%E5%B1%88%E8%86%9D%E7%9B%A4%E8%85%BF%E8%B6%85%E5%82%B7%E8%85%B0-%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A33%E6%8B%9B%E8%AD%B7%E8%84%8A%E6%B8%9B%E5%A3%93%E5%9D%90%E5%A7%BF",
-    "timestamp": "2026-10-22T23:59:05.846Z",
     "strategy": ".content-card__main"
   }
 ];
