@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T04:26:35.309Z
+// Last updated: 2026-10-23T04:51:12.535Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄亥俄州長選戰爆性侵舊案爭議　特朗普力撐共和黨候選人廣告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190189824598872064534910.jpeg/Z0Vo85XDqJojUecybRht0k0nrz4KJt3TMZpfSTGaX0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402767/%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E9%95%B7%E9%81%B8%E6%88%B0%E7%88%86%E6%80%A7%E4%BE%B5%E8%88%8A%E6%A1%88%E7%88%AD%E8%AD%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%92%90%E5%85%B1%E5%92%8C%E9%BB%A8%E5%80%99%E9%81%B8%E4%BA%BA%E5%BB%A3%E5%91%8A",
+    "timestamp": "2026-10-23T04:51:12.535Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜長沙灣客貨車疑無視讓路標誌撞飛電單車　鐵騎士拋起仆倒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190143996362493952301592.jpeg/tAuPCl_4PiAnW0FfV7TN-f4jOvg3esFQt1e95LdXveQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402689/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E6%98%9F%E9%8F%88%E9%80%9F%E5%BA%A6%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E9%9B%BB%E9%A6%AC%E6%96%AF%E5%85%8B%E5%BE%8C%E6%9C%89%E6%94%B9%E5%96%84",
     "timestamp": "2026-10-22T20:54:58.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基稱星鏈速度尚未恢復　美媒：特朗普致電馬斯克後有改善",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190143996362493952301592.jpeg/tAuPCl_4PiAnW0FfV7TN-f4jOvg3esFQt1e95LdXveQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402689/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E6%98%9F%E9%8F%88%E9%80%9F%E5%BA%A6%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E9%9B%BB%E9%A6%AC%E6%96%AF%E5%85%8B%E5%BE%8C%E6%9C%89%E6%94%B9%E5%96%84",
-    "timestamp": "2026-10-22T20:44:59.464Z",
     "strategy": ".content-card__main"
   }
 ];
