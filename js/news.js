@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T17:33:26.925Z
+// Last updated: 2026-10-23T17:46:08.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓亞錦賽︱黃鎮廷雙線出擊男單闖16強　夥陳顥樺男雙爭入4強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190467090583130112509247.jpeg/qm5baHn5kBLrnAk0R037IqKkAS5uzpOR0xTPXtMUz14?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403082/%E4%B9%92%E4%B9%93%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%9B%99%E7%B7%9A%E5%87%BA%E6%93%8A%E7%94%B7%E5%96%AE%E9%97%9616%E5%BC%B7-%E5%A4%A5%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%94%B7%E9%9B%99%E7%88%AD%E5%85%A54%E5%BC%B7",
+    "timestamp": "2026-10-23T17:46:08.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒乓亞錦賽︱黃鎮廷雙線出擊男單闖16強　夥陳顥樺男雙爭入4強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251105/1062775251697405952851624.jpeg/4v5-CWN7_pWL6XuGR_xecgF0yb6NATwNJKoInCSqCJw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60289926/shopbop-%E6%94%BB%E7%95%A5-%E4%BD%8E%E8%87%B32%E6%8A%98-%E6%9C%80%E6%96%B0%E5%84%AA%E6%83%A0%E7%A2%BC%E8%B2%B7-tory-burch-coach",
     "timestamp": "2026-10-23T08:55:35.376Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸過關攻略｜直擊改搭升降機慳80%時間　1個位落車快勁多",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190326429598879744794201.jpeg/SwTngEeepYKL5Mm6q8DqeOIAx9QT6qdbaC-2W2gvtls?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60402797/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%81%8E%E9%97%9C%E6%94%BB%E7%95%A5-%E7%9B%B4%E6%93%8A%E6%94%B9%E6%90%AD%E5%8D%87%E9%99%8D%E6%A9%9F%E6%85%B380-%E6%99%82%E9%96%93-1%E5%80%8B%E4%BD%8D%E8%90%BD%E8%BB%8A%E5%BF%AB%E5%8B%81%E5%A4%9A",
-    "timestamp": "2026-10-23T07:48:53.540Z",
     "strategy": ".content-card__main"
   }
 ];
