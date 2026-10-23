@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T05:46:17.974Z
+// Last updated: 2026-10-23T05:57:17.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超特攻｜倫敦打吡　車仔拔刺開主勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190288436020383744516239.jpeg/Iew492zhzkpjonrOzCDswTh00ea-VEIDThzTpE4c06Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402823/%E8%8B%B1%E8%B6%85%E7%89%B9%E6%94%BB-%E5%80%AB%E6%95%A6%E6%89%93%E5%90%A1-%E8%BB%8A%E4%BB%94%E6%8B%94%E5%88%BA%E9%96%8B%E4%B8%BB%E5%8B%9D",
+    "timestamp": "2026-10-23T05:57:17.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公屋戶花$900申購買證睇二手居屋　自言不買仍有賺：公屋租戶特權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190164107349725184178396.jpeg/daHb4sVhLafTPq3VwuhG9_A7EeugE-BH0eH8hdHh_IU",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402694/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E6%96%9C%E5%9D%A1%E8%AE%8A%E8%80%81%E9%BC%A0%E7%AA%A9-%E9%BC%A0%E7%BE%A4%E4%BA%82%E7%AB%84-%E6%97%81%E9%82%8A%E5%85%AC%E5%9C%92%E6%B7%AA%E9%AB%98%E5%8D%B1%E5%8D%80-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-22T21:45:11.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌大隴街斜坡變老鼠窩　鼠群亂竄　旁邊公園淪高危區｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190164107349725184178396.jpeg/daHb4sVhLafTPq3VwuhG9_A7EeugE-BH0eH8hdHh_IU",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402694/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E6%96%9C%E5%9D%A1%E8%AE%8A%E8%80%81%E9%BC%A0%E7%AA%A9-%E9%BC%A0%E7%BE%A4%E4%BA%82%E7%AB%84-%E6%97%81%E9%82%8A%E5%85%AC%E5%9C%92%E6%B7%AA%E9%AB%98%E5%8D%B1%E5%8D%80-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-22T21:34:01.855Z",
     "strategy": ".content-card__main"
   }
 ];
