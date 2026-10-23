@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T03:23:27.673Z
+// Last updated: 2026-10-23T03:49:50.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長者生活津貼｜夫婦100萬資產仍可申請　買年金等3招合法豁免攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190267976415186944739506.png/YnpCRea6Jr75Fs9g5LFJQRerm1fIgr_kYInsLmCJ7C4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/60402373/%E9%95%B7%E8%80%85%E7%94%9F%E6%B4%BB%E6%B4%A5%E8%B2%BC-%E5%A4%AB%E5%A9%A6100%E8%90%AC%E8%B3%87%E7%94%A2%E4%BB%8D%E5%8F%AF%E7%94%B3%E8%AB%8B-%E8%B2%B7%E5%B9%B4%E9%87%91%E7%AD%893%E6%8B%9B%E5%90%88%E6%B3%95%E8%B1%81%E5%85%8D%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-10-23T03:49:50.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "昂山素姬遭拘禁5年首與兒子通話　阿里斯：聽見母親聲音意義極大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190141022647095296841370.jpeg/CvGVae9lPd2QGKixcm2pkhf6Y7vRzkW9cYgCLXGIAi0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402688/%E4%B8%8A%E6%B0%B4%E5%BD%A9%E8%92%B2%E8%8B%91%E9%9B%BB%E7%A3%81%E7%88%90%E7%84%A1%E7%86%84%E7%81%AB-%E6%88%B6%E4%B8%BB%E8%90%BD%E6%A8%93%E8%B2%B7%E9%A4%B8-%E5%96%AE%E4%BD%8D%E9%99%B7%E7%81%AB%E6%B5%B780%E4%BA%BA%E7%96%8F%E6%95%A3",
     "timestamp": "2026-10-22T19:56:07.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水彩蒲苑電磁爐無熄火　戶主落樓買餸　單位陷火海80人疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190141022647095296841370.jpeg/CvGVae9lPd2QGKixcm2pkhf6Y7vRzkW9cYgCLXGIAi0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60402688/%E4%B8%8A%E6%B0%B4%E5%BD%A9%E8%92%B2%E8%8B%91%E9%9B%BB%E7%A3%81%E7%88%90%E7%84%A1%E7%86%84%E7%81%AB-%E6%88%B6%E4%B8%BB%E8%90%BD%E6%A8%93%E8%B2%B7%E9%A4%B8-%E5%96%AE%E4%BD%8D%E9%99%B7%E7%81%AB%E6%B5%B780%E4%BA%BA%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-10-22T19:44:52.629Z",
     "strategy": ".content-card__main"
   }
 ];
