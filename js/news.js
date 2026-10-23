@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T16:58:22.166Z
+// Last updated: 2026-10-23T17:33:26.925Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒乓亞錦賽︱黃鎮廷雙線出擊男單闖16強　夥陳顥樺男雙爭入4強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190467090583130112509247.jpeg/qm5baHn5kBLrnAk0R037IqKkAS5uzpOR0xTPXtMUz14?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403082/%E4%B9%92%E4%B9%93%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%9B%99%E7%B7%9A%E5%87%BA%E6%93%8A%E7%94%B7%E5%96%AE%E9%97%9616%E5%BC%B7-%E5%A4%A5%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%94%B7%E9%9B%99%E7%88%AD%E5%85%A54%E5%BC%B7",
+    "timestamp": "2026-10-23T17:33:26.925Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "克宮：俄美烏三方會談11月上半月在阿聯酋舉行　澤連斯基確認",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190326429598879744794201.jpeg/SwTngEeepYKL5Mm6q8DqeOIAx9QT6qdbaC-2W2gvtls?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60402797/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E9%81%8E%E9%97%9C%E6%94%BB%E7%95%A5-%E7%9B%B4%E6%93%8A%E6%94%B9%E6%90%AD%E5%8D%87%E9%99%8D%E6%A9%9F%E6%85%B380-%E6%99%82%E9%96%93-1%E5%80%8B%E4%BD%8D%E8%90%BD%E8%BB%8A%E5%BF%AB%E5%8B%81%E5%A4%9A",
     "timestamp": "2026-10-23T07:48:53.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網球｜黃澤林南沙挑戰賽闖4強　直落兩盤挫日本費蘭特",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190323222231388160364071.jpeg/BvtSXCgbzuaqDDw9zMsGDmpCSdB4wUmUcbby9nG28vY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60402880/%E7%B6%B2%E7%90%83-%E9%BB%83%E6%BE%A4%E6%9E%97%E5%8D%97%E6%B2%99%E6%8C%91%E6%88%B0%E8%B3%BD%E9%97%964%E5%BC%B7-%E7%9B%B4%E8%90%BD%E5%85%A9%E7%9B%A4%E6%8C%AB%E6%97%A5%E6%9C%AC%E8%B2%BB%E8%98%AD%E7%89%B9",
-    "timestamp": "2026-10-23T07:29:30.171Z",
     "strategy": ".content-card__main"
   }
 ];
