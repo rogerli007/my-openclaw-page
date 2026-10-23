@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T21:54:35.118Z
+// Last updated: 2026-10-23T22:18:19.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【星之谷】居屋按揭「借得少」未必着數　拆解銀行審批四大弊端",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190316528965259264982601.jpeg/w-F6FIHnu7d6RLh8yFkSPCTbTEAPP5rh2MUhu9jFIbs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60402874/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E5%B1%85%E5%B1%8B%E6%8C%89%E6%8F%AD-%E5%80%9F%E5%BE%97%E5%B0%91-%E6%9C%AA%E5%BF%85%E7%9D%80%E6%95%B8-%E6%8B%86%E8%A7%A3%E9%8A%80%E8%A1%8C%E5%AF%A9%E6%89%B9%E5%9B%9B%E5%A4%A7%E5%BC%8A%E7%AB%AF",
+    "timestamp": "2026-10-23T22:18:19.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普取消部份加拿大商品50%關稅　疑為共和黨緬因州參議員助選",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190347061791297536436912.jpeg/fJpt_VeDDRFzsi97p1ZZ1kLX3j4S31CvFu419xbuNfc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402934/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89%E6%9D%8E%E5%AF%B6%E5%AE%89-%E4%BD%95%E7%88%B5%E5%A4%A9%E6%AD%8E%E5%8F%8B%E5%8F%B0%E5%B0%BA%E5%BA%A6%E9%A9%9A%E4%BA%BA-av%E5%A5%B3%E5%84%AA%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E9%83%BD%E8%A6%81%E8%AA%8D%E4%BD%8E",
     "timestamp": "2026-10-23T15:40:12.233Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓遊客機場星巴克買飲品　杯身標籤Kimchi　公司致歉：會嚴肅處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190080060971814912123549.jpeg/6n6cQbTypTPBvImEu_NYY8bntivYHljN4gax1eIGsdU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402675/%E9%9F%93%E9%81%8A%E5%AE%A2%E6%A9%9F%E5%A0%B4%E6%98%9F%E5%B7%B4%E5%85%8B%E8%B2%B7%E9%A3%B2%E5%93%81-%E6%9D%AF%E8%BA%AB%E6%A8%99%E7%B1%A4kimchi-%E5%85%AC%E5%8F%B8%E8%87%B4%E6%AD%89-%E6%9C%83%E5%9A%B4%E8%82%85%E8%99%95%E7%90%86",
-    "timestamp": "2026-10-23T15:19:24.994Z",
     "strategy": ".content-card__main"
   }
 ];
