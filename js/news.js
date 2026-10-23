@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T11:35:54.858Z
+// Last updated: 2026-10-23T11:55:02.244Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "臺日電梯｜鳳德邨將換𨋢　居民憂房委會投選臺日變「翻版」富亨邨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190351887870726144196527.jpeg/J6UMqGBRyRRk7KcXFkiBt3LuV0IT1AtjCL4O-y2-Dvs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402965/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E9%B3%B3%E5%BE%B7%E9%82%A8%E5%B0%87%E6%8F%9B%F0%A8%8B%A2-%E5%B1%85%E6%B0%91%E6%86%82%E6%88%BF%E5%A7%94%E6%9C%83%E6%8A%95%E9%81%B8%E8%87%BA%E6%97%A5%E8%AE%8A-%E7%BF%BB%E7%89%88-%E5%AF%8C%E4%BA%A8%E9%82%A8",
+    "timestamp": "2026-10-23T11:55:02.244Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國裁軍大使聯合國批美國太空戰略　籲防止外空軍備競賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190247592907247616691072.jpeg/ykIgZHPyN7ByjsHr9MMtyypAyGIK5lb-IeH2viHh9r4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60400169/iphone-duo%E5%8F%96%E6%A9%9F-%E5%8F%B8%E6%A9%9F%E6%B3%A8%E6%84%8F-%E6%91%BA%E6%A9%9F%E9%96%8B%E7%9B%A1%E8%9E%A2%E5%B9%95%E9%95%B7%E5%BA%A6%E7%AC%A6%E6%B3%95%E4%BE%8B-%E7%95%B6%E5%B1%80%E6%9C%89%E5%9B%9E%E8%A6%86",
     "timestamp": "2026-10-23T02:35:47.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美債保衛戰｜避險需求推動債市走高　美10年期國債殖利率跌破5%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1120930/org/fba2530996eb90fe65447366492d73f4.jpg/fAZg2BKUidAT3mxjj6VcM03wrddg4xJFJVsdtiVbHbY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60402711/%E7%BE%8E%E5%82%B5%E4%BF%9D%E8%A1%9B%E6%88%B0-%E9%81%BF%E9%9A%AA%E9%9C%80%E6%B1%82%E6%8E%A8%E5%8B%95%E5%82%B5%E5%B8%82%E8%B5%B0%E9%AB%98-%E7%BE%8E10%E5%B9%B4%E6%9C%9F%E5%9C%8B%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%B7%8C%E7%A0%B45",
-    "timestamp": "2026-10-23T01:45:26.680Z",
     "strategy": ".content-card__main"
   }
 ];
