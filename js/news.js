@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T08:55:35.376Z
+// Last updated: 2026-10-23T09:21:40.800Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "富泰邨女童｜社署召開多專業會議　3姊弟續由院舍照顧稍後交親屬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187847847081414656531692.jpeg/css2BvjJndpgzLYX-Aq7k6iLfAK3EcQB9-BKwvfgSsI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402961/%E5%AF%8C%E6%B3%B0%E9%82%A8%E5%A5%B3%E7%AB%A5-%E7%A4%BE%E7%BD%B2%E5%8F%AC%E9%96%8B%E5%A4%9A%E5%B0%88%E6%A5%AD%E6%9C%83%E8%AD%B0-3%E5%A7%8A%E5%BC%9F%E7%BA%8C%E7%94%B1%E9%99%A2%E8%88%8D%E7%85%A7%E9%A1%A7%E7%A8%8D%E5%BE%8C%E4%BA%A4%E8%A6%AA%E5%B1%AC",
+    "timestamp": "2026-10-23T09:21:40.800Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Shopbop 攻略｜低至2折！最新優惠碼買 Tory Burch/Coach",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188193971134795776013756.png/yGM3-VWBGqtjmUCTKtRWG89uwrLxBKZe4l2Ee-JdhHs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400771/%E4%BE%AF%E9%96%80%E4%B8%80%E5%85%A5%E6%B7%B1%E5%A6%82%E6%B5%B7%E4%B8%8B%E5%8F%A5%E6%98%AF%E4%BB%80%E9%BA%BC-%E8%A9%A9%E4%B8%AD%E7%9B%B8%E6%80%9D%E8%88%87%E9%9B%A2%E5%88%A5-%E6%9C%89%E5%96%9C%E6%9C%89%E6%82%B2-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
     "timestamp": "2026-10-22T23:20:06.672Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "勒邦占士賽前奏國歌作勢練射波　特朗普狠批不尊重促道歉｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190188879966113792690158.jpeg/vXDVrIe7TpPQxw4i8WEW3I7lEPorh7EpZNyb3GTcm9w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60402696/%E5%8B%92%E9%82%A6%E5%8D%A0%E5%A3%AB%E8%B3%BD%E5%89%8D%E5%A5%8F%E5%9C%8B%E6%AD%8C%E4%BD%9C%E5%8B%A2%E7%B7%B4%E5%B0%84%E6%B3%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E7%8B%A0%E6%89%B9%E4%B8%8D%E5%B0%8A%E9%87%8D%E4%BF%83%E9%81%93%E6%AD%89-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-22T22:53:53.604Z",
     "strategy": ".content-card__main"
   }
 ];
