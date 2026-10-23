@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T09:21:40.800Z
+// Last updated: 2026-10-23T09:47:46.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "我阿爹想旅行｜復刻90年代賭片海報　入場搵彩蛋「擺啦，擺啦嘛」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190353746610098176728935.jpeg/Wcxi4I_uDHPpOrxRB24iRtzVQwy-OERqdRiE33UYhN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402805/%E6%88%91%E9%98%BF%E7%88%B9%E6%83%B3%E6%97%85%E8%A1%8C-%E5%BE%A9%E5%88%BB90%E5%B9%B4%E4%BB%A3%E8%B3%AD%E7%89%87%E6%B5%B7%E5%A0%B1-%E5%85%A5%E5%A0%B4%E6%90%B5%E5%BD%A9%E8%9B%8B-%E6%93%BA%E5%95%A6-%E6%93%BA%E5%95%A6%E5%98%9B",
+    "timestamp": "2026-10-23T09:47:46.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "富泰邨女童｜社署召開多專業會議　3姊弟續由院舍照顧稍後交親屬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189995301457367040968417.png/cchmg7q8OYvCLP4kYMXWGqZNj-Alp0SxuxW477sVuO8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60402545/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E6%9C%80%E7%97%9B%E5%88%86%E6%89%8B-%E5%BE%90%E8%8B%A5%E6%99%97%E6%B5%B4%E5%AE%A4%E5%89%B2%E8%85%95%E8%A8%A3%E5%88%A5-%E4%B8%9E%E7%A3%8A%E5%90%AB%E6%B7%9A%E6%94%BE%E6%89%8B%E7%B6%B2%E6%B0%91%E6%B7%9A%E5%B4%A9",
     "timestamp": "2026-10-22T23:37:00.028Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "侯門一入深如海下句是什麼？詩中相思與離別　有喜有悲｜歷史奇趣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188193971134795776013756.png/yGM3-VWBGqtjmUCTKtRWG89uwrLxBKZe4l2Ee-JdhHs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60400771/%E4%BE%AF%E9%96%80%E4%B8%80%E5%85%A5%E6%B7%B1%E5%A6%82%E6%B5%B7%E4%B8%8B%E5%8F%A5%E6%98%AF%E4%BB%80%E9%BA%BC-%E8%A9%A9%E4%B8%AD%E7%9B%B8%E6%80%9D%E8%88%87%E9%9B%A2%E5%88%A5-%E6%9C%89%E5%96%9C%E6%9C%89%E6%82%B2-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
-    "timestamp": "2026-10-22T23:20:06.672Z",
     "strategy": ".content-card__main"
   }
 ];
