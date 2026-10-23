@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T10:55:19.146Z
+// Last updated: 2026-10-23T11:35:54.858Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國裁軍大使聯合國批美國太空戰略　籲防止外空軍備競賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190358021184688128021576.jpeg/8s0pCwXVXOVHyf1-2uo47aVNTjzmPnt75CzuOOQs7jg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60402985/%E4%B8%AD%E5%9C%8B%E8%A3%81%E8%BB%8D%E5%A4%A7%E4%BD%BF%E8%81%AF%E5%90%88%E5%9C%8B%E6%89%B9%E7%BE%8E%E5%9C%8B%E5%A4%AA%E7%A9%BA%E6%88%B0%E7%95%A5-%E7%B1%B2%E9%98%B2%E6%AD%A2%E5%A4%96%E7%A9%BA%E8%BB%8D%E5%82%99%E7%AB%B6%E8%B3%BD",
+    "timestamp": "2026-10-23T11:35:54.858Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網約車｜滴滴推職前課程學費優惠搶司機　新的士司機數按季增35%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1120930/org/fba2530996eb90fe65447366492d73f4.jpg/fAZg2BKUidAT3mxjj6VcM03wrddg4xJFJVsdtiVbHbY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60402711/%E7%BE%8E%E5%82%B5%E4%BF%9D%E8%A1%9B%E6%88%B0-%E9%81%BF%E9%9A%AA%E9%9C%80%E6%B1%82%E6%8E%A8%E5%8B%95%E5%82%B5%E5%B8%82%E8%B5%B0%E9%AB%98-%E7%BE%8E10%E5%B9%B4%E6%9C%9F%E5%9C%8B%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%B7%8C%E7%A0%B45",
     "timestamp": "2026-10-23T01:45:26.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo首賣日廣東道現場直擊｜港版eSIM限制炒價1TB炒高$5100",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190220101694001152365281.jpeg/6y5g4CDieVB-QcREw5LpBMCIoAL0vw4G9Yq03vWKtN4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60402669/iphone-duo-%E9%A6%96%E6%97%A5%E9%96%8B%E8%B3%A3%E7%9B%B4%E6%93%8A-%E6%9E%9C%E8%BF%B7%E6%B8%85%E6%99%A86%E6%99%82%E6%8E%92%E9%9A%8A-1tb%E9%96%80%E5%A4%96%E7%82%92%E5%83%B9-5100",
-    "timestamp": "2026-10-23T01:18:33.122Z",
     "strategy": ".content-card__main"
   }
 ];
