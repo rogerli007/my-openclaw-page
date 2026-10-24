@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T12:24:45.403Z
+// Last updated: 2026-10-24T12:59:56.384Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張｜婆婆商場踏水滑倒　管理處卸責公證行發英文信：唔知講乜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190764657585950720801543.png/-yaHnzbxwnZa3wAFmktZAHn-nmX5Syf85OkZ2-TpGds?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403267/%E6%9D%B1%E5%BC%B5-%E5%A9%86%E5%A9%86%E5%95%86%E5%A0%B4%E8%B8%8F%E6%B0%B4%E6%BB%91%E5%80%92-%E7%AE%A1%E7%90%86%E8%99%95%E5%8D%B8%E8%B2%AC%E5%85%AC%E8%AD%89%E8%A1%8C%E7%99%BC%E8%8B%B1%E6%96%87%E4%BF%A1-%E5%94%94%E7%9F%A5%E8%AC%9B%E4%B9%9C",
+    "timestamp": "2026-10-24T12:59:56.384Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地省級人事調整　雲南換省委書記　贛冀滇三省政府黨組書記易人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190658403827978240617439.jpeg/1kxsOdPS6-dFGKRhhn_mDadt480R27Am1gUlzNYFJcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403156/%E8%AD%A6%E6%90%9C%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%96%AE%E4%BD%8D%E6%AA%A2%E8%BB%8A%E5%8C%99-%E6%8F%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%97%8F-1230%E8%90%AC%E5%A4%A7%E9%BA%BB-%E6%8B%98%E7%88%B6%E5%AD%90%E6%B6%89%E8%B2%A9%E6%AF%92",
     "timestamp": "2026-10-24T06:01:19.151Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寧波00後帥哥擺攤賣雞飯爆紅　還帶旺周邊夜市　女友親揭神級營銷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190340772210151424165740.jpeg/v-rherwSUL5NXh-j_EgwWo42Xwqtunhm4LFtmuCxbZo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402928/%E5%AF%A7%E6%B3%A200%E5%BE%8C%E5%B8%A5%E5%93%A5%E6%93%BA%E6%94%A4%E8%B3%A3%E9%9B%9E%E9%A3%AF%E7%88%86%E7%B4%85-%E9%82%84%E5%B8%B6%E6%97%BA%E5%91%A8%E9%82%8A%E5%A4%9C%E5%B8%82-%E5%A5%B3%E5%8F%8B%E8%A6%AA%E6%8F%AD%E7%A5%9E%E7%B4%9A%E7%87%9F%E9%8A%B7",
-    "timestamp": "2026-10-24T05:34:14.064Z",
     "strategy": ".content-card__main"
   }
 ];
