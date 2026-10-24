@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T10:53:33.763Z
+// Last updated: 2026-10-24T11:18:14.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田火鍋店食蝦滑　咬出異物揭內藏金屬窩釘　網民斥離譜籲報食環",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190728151437676544293187.jpeg/IR3JauRGtKVbtV8lOqobD74HVRAgVKlDZ8lAFmfJQBY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402622/%E6%B2%99%E7%94%B0%E7%81%AB%E9%8D%8B%E5%BA%97%E9%A3%9F%E8%9D%A6%E6%BB%91-%E5%92%AC%E5%87%BA%E7%95%B0%E7%89%A9%E6%8F%AD%E5%85%A7%E8%97%8F%E9%87%91%E5%B1%AC%E7%AA%A9%E9%87%98-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%9B%A2%E8%AD%9C%E7%B1%B2%E5%A0%B1%E9%A3%9F%E7%92%B0",
+    "timestamp": "2026-10-24T11:18:14.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國俄勒岡州小學4死槍擊案　勇父擊斃槍手後自責：未救下所有人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189386816877236224156708.jpeg/YX2kLS3Fd9LhDXD3kjdNHgqYjz7nzQcG9XHUAPVx1AA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401840/iphone-duo%E6%90%B6%E7%8F%BE%E8%B2%A8%E4%B8%8D%E7%94%A8%E7%AD%89%E5%88%B02027-%E6%BE%B3%E9%96%80%E6%8E%92%E9%9A%8A-ireserve%E5%9F%B7%E6%BC%8F%E9%A2%A8%E9%9A%AA%E6%8B%86%E8%A7%A3",
     "timestamp": "2026-10-24T02:50:02.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉錦公路私家車疑失控剷上巴士站　3途人捱撞受傷包括一名兒童",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190607437351096320573986.jpeg/rfQJXwEvgm-yJhWpaL4CMJgNQgcFGYjrl9_SDZff0g0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403106/%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E5%89%B7%E4%B8%8A%E5%B7%B4%E5%A3%AB%E7%AB%99-3%E9%80%94%E4%BA%BA%E6%8D%B1%E6%92%9E%E5%8F%97%E5%82%B7%E5%8C%85%E6%8B%AC%E4%B8%80%E5%90%8D%E5%85%92%E7%AB%A5",
-    "timestamp": "2026-10-24T02:30:55.719Z",
     "strategy": ".content-card__main"
   }
 ];
