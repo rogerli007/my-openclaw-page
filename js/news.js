@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T21:54:34.275Z
+// Last updated: 2026-10-24T22:17:31.191Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "移民開小餐館創業夢不再！啟動資金中位數300萬港元　首年多蝕本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190783685134127104794028.png/5WtOST9rQz8Pbt8kENNHBSVA4wBCe1_1YYRAHmGEQB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393669/%E7%A7%BB%E6%B0%91%E9%96%8B%E5%B0%8F%E9%A4%90%E9%A4%A8%E5%89%B5%E6%A5%AD%E5%A4%A2%E4%B8%8D%E5%86%8D-%E5%95%9F%E5%8B%95%E8%B3%87%E9%87%91%E4%B8%AD%E4%BD%8D%E6%95%B8300%E8%90%AC%E6%B8%AF%E5%85%83-%E9%A6%96%E5%B9%B4%E5%A4%9A%E8%9D%95%E6%9C%AC",
+    "timestamp": "2026-10-24T22:17:31.191Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國示威｜巴黎羅浮宮等多個博物館關閉　遊客大嘆摸門釘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
     "timestamp": "2026-10-24T16:19:22.544Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖月｜蘭桂坊辦變裝派對逼爆　警方封路　多人要兜大圈等候進入",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190803986639228928546139.jpeg/mJOMR8-HRKzUe8v4YVz5nUdhwuYhhxtwp9GRR4LRkUc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403271/%E8%90%AC%E8%81%96%E6%9C%88-%E8%98%AD%E6%A1%82%E5%9D%8A%E8%BE%A6%E8%AE%8A%E8%A3%9D%E6%B4%BE%E5%B0%8D%E9%80%BC%E7%88%86-%E8%AD%A6%E6%96%B9%E5%B0%81%E8%B7%AF-%E5%A4%9A%E4%BA%BA%E8%A6%81%E5%85%9C%E5%A4%A7%E5%9C%88%E7%AD%89%E5%80%99%E9%80%B2%E5%85%A5",
-    "timestamp": "2026-10-24T15:53:56.836Z",
     "strategy": ".content-card__main"
   }
 ];
