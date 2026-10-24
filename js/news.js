@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T13:42:43.870Z
+// Last updated: 2026-10-24T13:54:19.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金鐘獎2026丨颱風薔琵襲台緊急延期　紅氈改室內嚴禁粉絲聚集",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190767845756112896916043.jpeg/f5dJfYcnTvyQIlZVhY7wAS_118AsXL8PvcpIfr3KSH4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403269/%E9%87%91%E9%90%9861%E5%9B%A0%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E8%A5%B2%E5%8F%B0%E7%B7%8A%E6%80%A5%E5%BB%B6%E6%9C%9F-%E7%B4%85%E6%B0%88%E6%94%B9%E5%AE%A4%E5%85%A7%E5%9A%B4%E7%A6%81%E7%B2%89%E7%B5%B2%E8%81%9A%E9%9B%86",
+    "timestamp": "2026-10-24T13:54:19.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林正峰內地發展遭AI短劇搶飯碗　兼職做社工極限工作16小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170774197341786112293064.jpeg/hwXxhf4978fB3B5P-BCSBTq7mDnJg84C4pBw_OKQcPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403205/%E9%81%8A%E6%B3%B0%E6%B3%A8%E6%84%8F-%E6%94%BF%E5%BA%9C%E6%9A%AB%E7%B7%A9%E5%BE%B5%E6%94%B61000%E6%B3%B0%E9%8A%96%E9%9B%A2%E5%A2%83%E7%A8%85-%E4%BB%A5%E7%B6%AD%E6%8C%81%E6%97%85%E9%81%8A%E6%A5%AD%E6%B4%BB%E5%8A%9B",
     "timestamp": "2026-10-24T08:23:49.936Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肯尼亞首都10多層高施工大樓突倒塌7人失蹤　工人驚險逃難｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190688490736586752501723.jpeg/xhxgHShRQDpIeojT4VWHxBtsikQ1Idi4DmjHgA5ox4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403165/%E8%82%AF%E5%B0%BC%E4%BA%9E%E9%A6%96%E9%83%BD10%E5%A4%9A%E5%B1%A4%E9%AB%98%E6%96%BD%E5%B7%A5%E5%A4%A7%E6%A8%93%E7%AA%81%E5%80%92%E5%A1%8C7%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E5%B7%A5%E4%BA%BA%E9%A9%9A%E9%9A%AA%E9%80%83%E9%9B%A3-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-24T07:51:28.594Z",
     "strategy": ".content-card__main"
   }
 ];
