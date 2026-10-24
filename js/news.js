@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T13:54:19.137Z
+// Last updated: 2026-10-24T14:18:26.655Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聲夢小花近況曝光　鍾柔美出海騷纖腰　炎明熹玩遊戲極度惹笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190707859134877696062143.jpeg/Nd9uxraoqXHMr0fHy2SOwM1fY-poo6HbE0O3IRNDtyE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403221/%E8%81%B2%E5%A4%A2%E5%B0%8F%E8%8A%B1%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E9%8D%BE%E6%9F%94%E7%BE%8E%E5%87%BA%E6%B5%B7%E9%A8%B7%E7%BA%96%E8%85%B0-%E7%82%8E%E6%98%8E%E7%86%B9%E7%8E%A9%E9%81%8A%E6%88%B2%E6%A5%B5%E5%BA%A6%E6%83%B9%E7%AC%91",
+    "timestamp": "2026-10-24T14:18:26.655Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金鐘獎2026丨颱風薔琵襲台緊急延期　紅氈改室內嚴禁粉絲聚集",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190699963907051520569804.jpeg/ZQvnzu6vWPD_qRFvX2qwVDpmS4Y92ecqlVyqm5Vcqps?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403201/%E6%B3%95%E5%9C%8B%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A4%BA%E5%A8%81%E5%89%8D%E5%A4%95-%E5%95%86%E8%88%96%E7%B4%9B%E7%B4%9B%E5%8A%A0%E8%A3%9D%E5%9C%8D%E6%9D%BF-%E5%90%8D%E5%BA%97%E5%A2%9E%E6%B4%BE%E4%BF%9D%E5%AE%89%E9%98%B2%E6%90%B6%E5%8A%AB",
     "timestamp": "2026-10-24T08:47:07.853Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遊泰注意｜政府暫緩徵收1000泰銖離境稅　以維持旅遊業活力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170774197341786112293064.jpeg/hwXxhf4978fB3B5P-BCSBTq7mDnJg84C4pBw_OKQcPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403205/%E9%81%8A%E6%B3%B0%E6%B3%A8%E6%84%8F-%E6%94%BF%E5%BA%9C%E6%9A%AB%E7%B7%A9%E5%BE%B5%E6%94%B61000%E6%B3%B0%E9%8A%96%E9%9B%A2%E5%A2%83%E7%A8%85-%E4%BB%A5%E7%B6%AD%E6%8C%81%E6%97%85%E9%81%8A%E6%A5%AD%E6%B4%BB%E5%8A%9B",
-    "timestamp": "2026-10-24T08:23:49.936Z",
     "strategy": ".content-card__main"
   }
 ];
