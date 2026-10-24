@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T21:43:09.366Z
+// Last updated: 2026-10-24T21:54:34.275Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國示威｜巴黎羅浮宮等多個博物館關閉　遊客大嘆摸門釘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190883250151624704840597.jpeg/dGtYjEIHGLxTmQPT9TshkEsYH1FPx1-7X-61sl_utbI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403288/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E5%B7%B4%E9%BB%8E%E7%BE%85%E6%B5%AE%E5%AE%AE%E7%AD%89%E5%A4%9A%E5%80%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%97%9C%E9%96%89-%E9%81%8A%E5%AE%A2%E5%A4%A7%E5%98%86%E6%91%B8%E9%96%80%E9%87%98",
+    "timestamp": "2026-10-24T21:54:34.275Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國示威｜巴黎羅浮宮等多個博物館關閉　遊客大嘆摸門釘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190803986639228928546139.jpeg/mJOMR8-HRKzUe8v4YVz5nUdhwuYhhxtwp9GRR4LRkUc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403271/%E8%90%AC%E8%81%96%E6%9C%88-%E8%98%AD%E6%A1%82%E5%9D%8A%E8%BE%A6%E8%AE%8A%E8%A3%9D%E6%B4%BE%E5%B0%8D%E9%80%BC%E7%88%86-%E8%AD%A6%E6%96%B9%E5%B0%81%E8%B7%AF-%E5%A4%9A%E4%BA%BA%E8%A6%81%E5%85%9C%E5%A4%A7%E5%9C%88%E7%AD%89%E5%80%99%E9%80%B2%E5%85%A5",
     "timestamp": "2026-10-24T15:53:56.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國擴大對華高新技術投資限制　中國商務部：停止將經貿武器化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180208992291393536792316.jpeg/hCmMEWnbSN684ACwk4Ld57g2_dY7wko-dGohD3RqIQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403275/%E7%BE%8E%E5%9C%8B%E6%93%B4%E5%A4%A7%E5%B0%8D%E8%8F%AF%E9%AB%98%E6%96%B0%E6%8A%80%E8%A1%93%E6%8A%95%E8%B3%87%E9%99%90%E5%88%B6-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%81%9C%E6%AD%A2%E5%B0%87%E7%B6%93%E8%B2%BF%E6%AD%A6%E5%99%A8%E5%8C%96",
-    "timestamp": "2026-10-24T15:43:38.842Z",
     "strategy": ".content-card__main"
   }
 ];
