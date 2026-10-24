@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T17:55:29.515Z
+// Last updated: 2026-10-24T18:22:23.909Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉陰差陽錯參賽：鄰居掏$50幫忙買表格報名新秀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190682661039902720145308.jpeg/EFNHboSq27EB11WdkdRhYl57QOaojSQhJDt8CiQ7fAo",
+    "url": "https://www.hk01.com/01TV/60403186/%E8%BB%8A%E5%A9%89%E5%A9%89%E9%99%B0%E5%B7%AE%E9%99%BD%E9%8C%AF%E5%8F%83%E8%B3%BD-%E9%84%B0%E5%B1%85%E6%8E%8F-50%E5%B9%AB%E5%BF%99%E8%B2%B7%E8%A1%A8%E6%A0%BC%E5%A0%B1%E5%90%8D%E6%96%B0%E7%A7%80",
+    "timestamp": "2026-10-24T18:22:23.909Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LOL世界賽2026英雄聯盟｜16強瑞士輪賽程賽果時間表+免費直播連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190764657585950720801543.png/-yaHnzbxwnZa3wAFmktZAHn-nmX5Syf85OkZ2-TpGds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403267/%E6%9D%B1%E5%BC%B5-%E5%A9%86%E5%A9%86%E5%95%86%E5%A0%B4%E8%B8%8F%E6%B0%B4%E6%BB%91%E5%80%92-%E7%AE%A1%E7%90%86%E8%99%95%E5%8D%B8%E8%B2%AC%E5%85%AC%E8%AD%89%E8%A1%8C%E7%99%BC%E8%8B%B1%E6%96%87%E4%BF%A1-%E5%94%94%E7%9F%A5%E8%AC%9B%E4%B9%9C",
     "timestamp": "2026-10-24T12:59:56.384Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地省級人事調整　雲南換省委書記　贛冀滇三省政府黨組書記易人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190757299426168832512039.jpeg/b3cNoMOHrA7ajBYPtub-kBAtN7TZrgzf-EKZH_hCmR8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403262/%E5%85%A7%E5%9C%B0%E7%9C%81%E7%B4%9A%E4%BA%BA%E4%BA%8B%E8%AA%BF%E6%95%B4-%E9%9B%B2%E5%8D%97%E6%8F%9B%E7%9C%81%E5%A7%94%E6%9B%B8%E8%A8%98-%E8%B4%9B%E5%86%80%E6%BB%87%E4%B8%89%E7%9C%81%E6%94%BF%E5%BA%9C%E9%BB%A8%E7%B5%84%E6%9B%B8%E8%A8%98%E6%98%93%E4%BA%BA",
-    "timestamp": "2026-10-24T12:24:45.403Z",
     "strategy": ".content-card__main"
   }
 ];
