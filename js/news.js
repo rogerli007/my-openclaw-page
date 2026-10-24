@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T19:53:48.362Z
+// Last updated: 2026-10-24T20:18:15.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉與古天樂等一眾新人加入訓練班 獲高層有意培養",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190684616143409152370685.jpeg/Nc2SpofkloXVCjcCyOTSfSJsQ74udWjQRPFdtkTxXbY",
+    "url": "https://www.hk01.com/01TV/60403188/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%88%87%E5%8F%A4%E5%A4%A9%E6%A8%82%E7%AD%89%E4%B8%80%E7%9C%BE%E6%96%B0%E4%BA%BA%E5%8A%A0%E5%85%A5%E8%A8%93%E7%B7%B4%E7%8F%AD-%E7%8D%B2%E9%AB%98%E5%B1%A4%E6%9C%89%E6%84%8F%E5%9F%B9%E9%A4%8A",
+    "timestamp": "2026-10-24T20:18:15.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基稱不會為結束戰事放棄更多領土　星鏈已恢復正常速度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190707859134877696062143.jpeg/Nd9uxraoqXHMr0fHy2SOwM1fY-poo6HbE0O3IRNDtyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403221/%E8%81%B2%E5%A4%A2%E5%B0%8F%E8%8A%B1%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E9%8D%BE%E6%9F%94%E7%BE%8E%E5%87%BA%E6%B5%B7%E9%A8%B7%E7%BA%96%E8%85%B0-%E7%82%8E%E6%98%8E%E7%86%B9%E7%8E%A9%E9%81%8A%E6%88%B2%E6%A5%B5%E5%BA%A6%E6%83%B9%E7%AC%91",
     "timestamp": "2026-10-24T14:18:26.655Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金鐘獎2026丨颱風薔琵襲台緊急延期　紅氈改室內嚴禁粉絲聚集",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190767845756112896916043.jpeg/f5dJfYcnTvyQIlZVhY7wAS_118AsXL8PvcpIfr3KSH4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403269/%E9%87%91%E9%90%9861%E5%9B%A0%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E8%A5%B2%E5%8F%B0%E7%B7%8A%E6%80%A5%E5%BB%B6%E6%9C%9F-%E7%B4%85%E6%B0%88%E6%94%B9%E5%AE%A4%E5%85%A7%E5%9A%B4%E7%A6%81%E7%B2%89%E7%B5%B2%E8%81%9A%E9%9B%86",
-    "timestamp": "2026-10-24T13:54:19.137Z",
     "strategy": ".content-card__main"
   }
 ];
