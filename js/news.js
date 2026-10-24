@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T06:29:07.527Z
+// Last updated: 2026-10-24T06:55:24.819Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "坪洲鐵皮屋疑電線短路起火　消防到場救熄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190673338834358272092715.jpeg/ueEFWtwcAwOK2vItsUU-MaOeXV5731P-msiUTJrIlEw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403177/%E5%9D%AA%E6%B4%B2%E9%90%B5%E7%9A%AE%E5%B1%8B%E7%96%91%E9%9B%BB%E7%B7%9A%E7%9F%AD%E8%B7%AF%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84",
+    "timestamp": "2026-10-24T06:55:24.819Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金正恩突訪華？　韓聯社：經新鴨綠江大橋抵達丹東　開啟訪華行程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190536962860126208910248.jpeg/sSg3s052MG_mCu5mudiUW50O1OYN4oDXEXVrJxF1ayc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403091/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E9%83%A8%E4%BB%BD%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%95%86%E5%93%8150-%E9%97%9C%E7%A8%85-%E7%96%91%E7%82%BA%E5%85%B1%E5%92%8C%E9%BB%A8%E7%B7%AC%E5%9B%A0%E5%B7%9E%E5%8F%83%E8%AD%B0%E5%93%A1%E5%8A%A9%E9%81%B8",
     "timestamp": "2026-10-23T21:44:47.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普先發制人　因候選人撞名提前入稟阻阿拉斯加認證民主黨勝選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
-    "timestamp": "2026-10-23T21:33:20.308Z",
     "strategy": ".content-card__main"
   }
 ];
