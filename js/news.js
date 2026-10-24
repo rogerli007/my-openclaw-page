@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T19:18:20.279Z
+// Last updated: 2026-10-24T19:46:20.573Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉休學入行說服母親 唱片公司總經理承諾一年內出碟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190683618322681856409285.jpeg/J-j9tM2ikdbXX9zEY42-Utt_PLgNW95HSuQ8sErkPLA",
+    "url": "https://www.hk01.com/01TV/60403187/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%BC%91%E5%AD%B8%E5%85%A5%E8%A1%8C%E8%AA%AA%E6%9C%8D%E6%AF%8D%E8%A6%AA-%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%E7%B8%BD%E7%B6%93%E7%90%86%E6%89%BF%E8%AB%BE%E4%B8%80%E5%B9%B4%E5%85%A7%E5%87%BA%E7%A2%9F",
+    "timestamp": "2026-10-24T19:46:20.573Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉休學入行說服母親 唱片公司總經理承諾一年內出碟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697796546596864652301.png/ld06O3dfaPi-G4IuFGJaIIJFbPiJRsOKwtxqgsLcaoI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403175/%E6%9E%97%E6%AD%A3%E5%B3%B0%E5%85%A7%E5%9C%B0%E7%99%BC%E5%B1%95%E9%81%ADai%E7%9F%AD%E5%8A%87%E6%90%B6%E9%A3%AF%E7%A2%97-%E5%85%BC%E8%81%B7%E5%81%9A%E7%A4%BE%E5%B7%A5%E6%A5%B5%E9%99%90%E5%B7%A5%E4%BD%9C16%E5%B0%8F%E6%99%82",
     "timestamp": "2026-10-24T13:42:43.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "申敏兒上《劉Quiz》爆金宇彬冧招　發福仍被狂讚：見過最漂亮的人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190726658806517760017298.png/ZAJu28Yd08Ozj3-xmWBoXjtGcseVfocRpG_U6qRv1Oo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403244/%E7%94%B3%E6%95%8F%E5%85%92%E4%B8%8A-%E5%8A%89quiz-%E7%88%86%E9%87%91%E5%AE%87%E5%BD%AC%E5%86%A7%E6%8B%9B-%E7%99%BC%E7%A6%8F%E4%BB%8D%E8%A2%AB%E7%8B%82%E8%AE%9A-%E8%A6%8B%E9%81%8E%E6%9C%80%E6%BC%82%E4%BA%AE%E7%9A%84%E4%BA%BA",
-    "timestamp": "2026-10-24T13:31:48.681Z",
     "strategy": ".content-card__main"
   }
 ];
