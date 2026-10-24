@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T12:59:56.384Z
+// Last updated: 2026-10-24T13:17:40.854Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜布偶貓妮妮絕育變慘死 錄音爆老闆Polly疑無牌切錯膀胱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190087189443121152816520.jpeg/H5VvgvYkB_5lDBNhYeqCowBg_VfL1FoxGLVT7Ri1U-0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402677/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B8%83%E5%81%B6%E8%B2%93%E5%A6%AE%E5%A6%AE%E7%B5%95%E8%82%B2%E8%AE%8A%E6%85%98%E6%AD%BB-%E9%8C%84%E9%9F%B3%E7%88%86%E8%80%81%E9%97%86polly%E7%96%91%E7%84%A1%E7%89%8C%E5%88%87%E9%8C%AF%E8%86%80%E8%83%B1",
+    "timestamp": "2026-10-24T13:17:40.854Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張｜婆婆商場踏水滑倒　管理處卸責公證行發英文信：唔知講乜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152653592226697216784063.jpeg/s0PZ00hnnbaNbgM3brJk2z3a4BgGyk3R8LBlbPCwZWw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403169/%E9%87%91%E6%AD%A3%E6%81%A9%E7%AA%81%E8%A8%AA%E8%8F%AF-%E9%9F%93%E8%81%AF%E7%A4%BE-%E7%B6%93%E6%96%B0%E9%B4%A8%E7%B6%A0%E6%B1%9F%E5%A4%A7%E6%A9%8B%E6%8A%B5%E9%81%94%E4%B8%B9%E6%9D%B1-%E9%96%8B%E5%95%9F%E8%A8%AA%E8%8F%AF%E8%A1%8C%E7%A8%8B",
     "timestamp": "2026-10-24T06:29:07.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警搜天水圍單位檢車匙　揭私家車藏$1230萬大麻　拘父子涉販毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190658403827978240617439.jpeg/1kxsOdPS6-dFGKRhhn_mDadt480R27Am1gUlzNYFJcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403156/%E8%AD%A6%E6%90%9C%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%96%AE%E4%BD%8D%E6%AA%A2%E8%BB%8A%E5%8C%99-%E6%8F%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%97%8F-1230%E8%90%AC%E5%A4%A7%E9%BA%BB-%E6%8B%98%E7%88%B6%E5%AD%90%E6%B6%89%E8%B2%A9%E6%AF%92",
-    "timestamp": "2026-10-24T06:01:19.151Z",
     "strategy": ".content-card__main"
   }
 ];
