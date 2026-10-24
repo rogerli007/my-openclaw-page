@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T14:18:26.655Z
+// Last updated: 2026-10-24T14:31:30.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "告別平治別克　深圳APEC國賓車換國產　紅旗比亞迪交付近1400輛車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190785864452542464924561.png/rG6INZ8M5yZ9jdoo7MHX3DIJSRfAWsCe87k5o_O5OaM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403272/%E5%91%8A%E5%88%A5%E5%B9%B3%E6%B2%BB%E5%88%A5%E5%85%8B-%E6%B7%B1%E5%9C%B3apec%E5%9C%8B%E8%B3%93%E8%BB%8A%E6%8F%9B%E5%9C%8B%E7%94%A2-%E7%B4%85%E6%97%97%E6%AF%94%E4%BA%9E%E8%BF%AA%E4%BA%A4%E4%BB%98%E8%BF%911400%E8%BC%9B%E8%BB%8A",
+    "timestamp": "2026-10-24T14:31:30.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聲夢小花近況曝光　鍾柔美出海騷纖腰　炎明熹玩遊戲極度惹笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190699963907051520569804.jpeg/ZQvnzu6vWPD_qRFvX2qwVDpmS4Y92ecqlVyqm5Vcqps?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403201/%E6%B3%95%E5%9C%8B%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A4%BA%E5%A8%81%E5%89%8D%E5%A4%95-%E5%95%86%E8%88%96%E7%B4%9B%E7%B4%9B%E5%8A%A0%E8%A3%9D%E5%9C%8D%E6%9D%BF-%E5%90%8D%E5%BA%97%E5%A2%9E%E6%B4%BE%E4%BF%9D%E5%AE%89%E9%98%B2%E6%90%B6%E5%8A%AB",
     "timestamp": "2026-10-24T08:57:14.498Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國新一輪示威前夕　商舖紛紛加裝圍板　名店增派保安防搶劫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190699963907051520569804.jpeg/ZQvnzu6vWPD_qRFvX2qwVDpmS4Y92ecqlVyqm5Vcqps?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403201/%E6%B3%95%E5%9C%8B%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A4%BA%E5%A8%81%E5%89%8D%E5%A4%95-%E5%95%86%E8%88%96%E7%B4%9B%E7%B4%9B%E5%8A%A0%E8%A3%9D%E5%9C%8D%E6%9D%BF-%E5%90%8D%E5%BA%97%E5%A2%9E%E6%B4%BE%E4%BF%9D%E5%AE%89%E9%98%B2%E6%90%B6%E5%8A%AB",
-    "timestamp": "2026-10-24T08:47:07.853Z",
     "strategy": ".content-card__main"
   }
 ];
