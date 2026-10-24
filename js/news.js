@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T10:18:30.086Z
+// Last updated: 2026-10-24T10:32:46.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜張曦雯被遊說拍「僅穿內褲」戲  李佳芯：演員係冇得迫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190717879218081792860954.jpeg/A0SDz_Nu4EGiiyObfzBPGeALvjK_4fkNQsKwFkLCsBY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403242/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E8%A2%AB%E9%81%8A%E8%AA%AA%E6%8B%8D-%E5%83%85%E7%A9%BF%E5%85%A7%E8%A4%B2-%E6%88%B2-%E6%9D%8E%E4%BD%B3%E8%8A%AF-%E6%BC%94%E5%93%A1%E4%BF%82%E5%86%87%E5%BE%97%E8%BF%AB",
+    "timestamp": "2026-10-24T10:32:46.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鳳德邨將換𨋢　房委會指臺日不宜承辦工程　明派代表出席業主大會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187946064368373760197604.jpeg/kIcNz8yO4rQYq6luvGZ2iuhCkf5ok7Mljtsb9o7bG_Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60402951/%E5%8F%B0%E6%B5%B7%E6%9C%89%E6%88%B0%E4%BA%8B-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E6%98%AF%E8%8F%B2%E5%BE%8B%E8%B3%93-%E5%8F%B0%E7%81%A3%E6%9C%80%E5%A5%BD%E7%9A%84%E8%80%81%E5%B8%AB",
     "timestamp": "2026-10-24T01:14:02.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "血癌│20歲男生發燒2周確診急性骨髓性白血病　初似感冒留意3警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187372846985252864180734.jpeg/Sj1teGBq8QTV22DymNmmvfqXzdvUCRYvJSmB5iUpgeY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397459/%E8%A1%80%E7%99%8C-20%E6%AD%B2%E7%94%B7%E7%94%9F%E7%99%BC%E7%87%922%E5%91%A8%E7%A2%BA%E8%A8%BA%E6%80%A5%E6%80%A7%E9%AA%A8%E9%AB%93%E6%80%A7%E7%99%BD%E8%A1%80%E7%97%85-%E5%88%9D%E4%BC%BC%E6%84%9F%E5%86%92%E7%95%99%E6%84%8F3%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-10-23T23:53:54.582Z",
     "strategy": ".content-card__main"
   }
 ];
