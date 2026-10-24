@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T10:45:00.133Z
+// Last updated: 2026-10-24T10:53:33.763Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國俄勒岡州小學4死槍擊案　勇父擊斃槍手後自責：未救下所有人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190736034086785024742095.jpeg/CcuKj_RXCIFn87hmTeLfEmrZlJpS3_FjnnY42p52ONo",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403238/%E7%BE%8E%E5%9C%8B%E4%BF%84%E5%8B%92%E5%B2%A1%E5%B7%9E%E5%B0%8F%E5%AD%B84%E6%AD%BB%E6%A7%8D%E6%93%8A%E6%A1%88-%E5%8B%87%E7%88%B6%E6%93%8A%E6%96%83%E6%A7%8D%E6%89%8B%E5%BE%8C%E8%87%AA%E8%B2%AC-%E6%9C%AA%E6%95%91%E4%B8%8B%E6%89%80%E6%9C%89%E4%BA%BA",
+    "timestamp": "2026-10-24T10:53:33.763Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曼谷及巴西抵港兩內地漢機場被捕　海關檢$437萬大麻花可卡因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190607437351096320573986.jpeg/rfQJXwEvgm-yJhWpaL4CMJgNQgcFGYjrl9_SDZff0g0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403106/%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E5%89%B7%E4%B8%8A%E5%B7%B4%E5%A3%AB%E7%AB%99-3%E9%80%94%E4%BA%BA%E6%8D%B1%E6%92%9E%E5%8F%97%E5%82%B7%E5%8C%85%E6%8B%AC%E4%B8%80%E5%90%8D%E5%85%92%E7%AB%A5",
     "timestamp": "2026-10-24T02:30:55.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3星座變有錢人全靠自己累積財富　處女精打細算　山羊宜長線投資",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174418007825321984194023.jpeg/zv_v1S00Ph1huus_QCqvf9To7PG53jCiCdO8mQnTvJk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60300927/3%E6%98%9F%E5%BA%A7%E8%AE%8A%E6%9C%89%E9%8C%A2%E4%BA%BA%E5%85%A8%E9%9D%A0%E8%87%AA%E5%B7%B1%E7%B4%AF%E7%A9%8D%E8%B2%A1%E5%AF%8C-%E8%99%95%E5%A5%B3%E7%B2%BE%E6%89%93%E7%B4%B0%E7%AE%97-%E5%B1%B1%E7%BE%8A%E5%AE%9C%E9%95%B7%E7%B7%9A%E6%8A%95%E8%B3%87",
-    "timestamp": "2026-10-24T02:02:15.064Z",
     "strategy": ".content-card__main"
   }
 ];
