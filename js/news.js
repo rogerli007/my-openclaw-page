@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T18:47:23.227Z
+// Last updated: 2026-10-24T19:18:20.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉休學入行說服母親 唱片公司總經理承諾一年內出碟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190683618322681856409285.jpeg/J-j9tM2ikdbXX9zEY42-Utt_PLgNW95HSuQ8sErkPLA",
+    "url": "https://www.hk01.com/01TV/60403187/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%BC%91%E5%AD%B8%E5%85%A5%E8%A1%8C%E8%AA%AA%E6%9C%8D%E6%AF%8D%E8%A6%AA-%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%E7%B8%BD%E7%B6%93%E7%90%86%E6%89%BF%E8%AB%BE%E4%B8%80%E5%B9%B4%E5%85%A7%E5%87%BA%E7%A2%9F",
+    "timestamp": "2026-10-24T19:18:20.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啟德演唱會撞萬聖節　皇崗新田公路塞爆　旺角通宵車現人龍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190726658806517760017298.png/ZAJu28Yd08Ozj3-xmWBoXjtGcseVfocRpG_U6qRv1Oo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403244/%E7%94%B3%E6%95%8F%E5%85%92%E4%B8%8A-%E5%8A%89quiz-%E7%88%86%E9%87%91%E5%AE%87%E5%BD%AC%E5%86%A7%E6%8B%9B-%E7%99%BC%E7%A6%8F%E4%BB%8D%E8%A2%AB%E7%8B%82%E8%AE%9A-%E8%A6%8B%E9%81%8E%E6%9C%80%E6%BC%82%E4%BA%AE%E7%9A%84%E4%BA%BA",
     "timestamp": "2026-10-24T13:31:48.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜布偶貓妮妮絕育變慘死 錄音爆老闆Polly疑無牌切錯膀胱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190087189443121152816520.jpeg/H5VvgvYkB_5lDBNhYeqCowBg_VfL1FoxGLVT7Ri1U-0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402677/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B8%83%E5%81%B6%E8%B2%93%E5%A6%AE%E5%A6%AE%E7%B5%95%E8%82%B2%E8%AE%8A%E6%85%98%E6%AD%BB-%E9%8C%84%E9%9F%B3%E7%88%86%E8%80%81%E9%97%86polly%E7%96%91%E7%84%A1%E7%89%8C%E5%88%87%E9%8C%AF%E8%86%80%E8%83%B1",
-    "timestamp": "2026-10-24T13:17:40.854Z",
     "strategy": ".content-card__main"
   }
 ];
