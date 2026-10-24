@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T16:56:13.175Z
+// Last updated: 2026-10-24T17:17:29.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉獨立性格的養成：小學一年級就要自己留家做功課",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190681290223915008637021.jpeg/kfVWCNrMt-7c5J7aJpyOLb_hzTd83sN51347kNd-O5A",
+    "url": "https://www.hk01.com/01TV/60403181/%E8%BB%8A%E5%A9%89%E5%A9%89%E7%8D%A8%E7%AB%8B%E6%80%A7%E6%A0%BC%E7%9A%84%E9%A4%8A%E6%88%90-%E5%B0%8F%E5%AD%B8%E4%B8%80%E5%B9%B4%E7%B4%9A%E5%B0%B1%E8%A6%81%E8%87%AA%E5%B7%B1%E7%95%99%E5%AE%B6%E5%81%9A%E5%8A%9F%E8%AA%B2",
+    "timestamp": "2026-10-24T17:17:29.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LOL世界賽2026英雄聯盟｜最新賽程賽果時間表+免費直播連結懶人包",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190692051725848576150837.jpeg/akiJMQS23Un5e6gP3-NCOvhDuHe-4I7z4wp4k-MKeJM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403195/%E6%9D%8E%E5%85%8B%E5%8B%A419%E6%AD%B2%E5%A4%A7%E4%BB%94%E6%9D%8E%E7%AB%8B%E4%BB%81%E6%9A%B4%E9%A2%A8%E6%88%90%E9%95%B7-%E6%92%9E%E6%A8%A3%E6%9D%8E%E6%B2%BB%E5%BB%B7%E7%94%9C%E8%9C%9C%E6%94%BE%E9%96%83%E7%96%91%E6%B4%A9%E8%9C%9C",
     "timestamp": "2026-10-24T11:29:56.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田火鍋店食蝦滑　咬出異物揭內藏金屬窩釘　網民斥離譜籲報食環",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190728151437676544293187.jpeg/IR3JauRGtKVbtV8lOqobD74HVRAgVKlDZ8lAFmfJQBY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402622/%E6%B2%99%E7%94%B0%E7%81%AB%E9%8D%8B%E5%BA%97%E9%A3%9F%E8%9D%A6%E6%BB%91-%E5%92%AC%E5%87%BA%E7%95%B0%E7%89%A9%E6%8F%AD%E5%85%A7%E8%97%8F%E9%87%91%E5%B1%AC%E7%AA%A9%E9%87%98-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%9B%A2%E8%AD%9C%E7%B1%B2%E5%A0%B1%E9%A3%9F%E7%92%B0",
-    "timestamp": "2026-10-24T11:18:14.538Z",
     "strategy": ".content-card__main"
   }
 ];
