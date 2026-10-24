@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T18:22:23.909Z
+// Last updated: 2026-10-24T18:47:23.227Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啟德演唱會撞萬聖節　皇崗新田公路塞爆　旺角通宵車現人龍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190856625624190976648159.jpeg/DOAbpQEofRrY01oa46x-AD1r5Q5OzFtwTU1wzU1NcM0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403283/%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83%E6%92%9E%E8%90%AC%E8%81%96%E7%AF%80-%E7%9A%87%E5%B4%97%E6%96%B0%E7%94%B0%E5%85%AC%E8%B7%AF%E5%A1%9E%E7%88%86-%E6%97%BA%E8%A7%92%E9%80%9A%E5%AE%B5%E8%BB%8A%E7%8F%BE%E4%BA%BA%E9%BE%8D",
+    "timestamp": "2026-10-24T18:47:23.227Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉陰差陽錯參賽：鄰居掏$50幫忙買表格報名新秀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190087189443121152816520.jpeg/H5VvgvYkB_5lDBNhYeqCowBg_VfL1FoxGLVT7Ri1U-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402677/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E5%B8%83%E5%81%B6%E8%B2%93%E5%A6%AE%E5%A6%AE%E7%B5%95%E8%82%B2%E8%AE%8A%E6%85%98%E6%AD%BB-%E9%8C%84%E9%9F%B3%E7%88%86%E8%80%81%E9%97%86polly%E7%96%91%E7%84%A1%E7%89%8C%E5%88%87%E9%8C%AF%E8%86%80%E8%83%B1",
     "timestamp": "2026-10-24T13:17:40.854Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張｜婆婆商場踏水滑倒　管理處卸責公證行發英文信：唔知講乜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190764657585950720801543.png/-yaHnzbxwnZa3wAFmktZAHn-nmX5Syf85OkZ2-TpGds?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403267/%E6%9D%B1%E5%BC%B5-%E5%A9%86%E5%A9%86%E5%95%86%E5%A0%B4%E8%B8%8F%E6%B0%B4%E6%BB%91%E5%80%92-%E7%AE%A1%E7%90%86%E8%99%95%E5%8D%B8%E8%B2%AC%E5%85%AC%E8%AD%89%E8%A1%8C%E7%99%BC%E8%8B%B1%E6%96%87%E4%BF%A1-%E5%94%94%E7%9F%A5%E8%AC%9B%E4%B9%9C",
-    "timestamp": "2026-10-24T12:59:56.384Z",
     "strategy": ".content-card__main"
   }
 ];
