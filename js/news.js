@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T13:31:48.681Z
+// Last updated: 2026-10-24T13:42:43.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林正峰內地發展遭AI短劇搶飯碗　兼職做社工極限工作16小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697796546596864652301.png/ld06O3dfaPi-G4IuFGJaIIJFbPiJRsOKwtxqgsLcaoI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403175/%E6%9E%97%E6%AD%A3%E5%B3%B0%E5%85%A7%E5%9C%B0%E7%99%BC%E5%B1%95%E9%81%ADai%E7%9F%AD%E5%8A%87%E6%90%B6%E9%A3%AF%E7%A2%97-%E5%85%BC%E8%81%B7%E5%81%9A%E7%A4%BE%E5%B7%A5%E6%A5%B5%E9%99%90%E5%B7%A5%E4%BD%9C16%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-10-24T13:42:43.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "申敏兒上《劉Quiz》爆金宇彬冧招　發福仍被狂讚：見過最漂亮的人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190688490736586752501723.jpeg/xhxgHShRQDpIeojT4VWHxBtsikQ1Idi4DmjHgA5ox4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403165/%E8%82%AF%E5%B0%BC%E4%BA%9E%E9%A6%96%E9%83%BD10%E5%A4%9A%E5%B1%A4%E9%AB%98%E6%96%BD%E5%B7%A5%E5%A4%A7%E6%A8%93%E7%AA%81%E5%80%92%E5%A1%8C7%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E5%B7%A5%E4%BA%BA%E9%A9%9A%E9%9A%AA%E9%80%83%E9%9B%A3-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-24T07:51:28.594Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坪洲鐵皮屋疑電線短路起火　消防到場救熄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190673338834358272092715.jpeg/ueEFWtwcAwOK2vItsUU-MaOeXV5731P-msiUTJrIlEw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403177/%E5%9D%AA%E6%B4%B2%E9%90%B5%E7%9A%AE%E5%B1%8B%E7%96%91%E9%9B%BB%E7%B7%9A%E7%9F%AD%E8%B7%AF%E8%B5%B7%E7%81%AB-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E7%86%84",
-    "timestamp": "2026-10-24T06:55:24.819Z",
     "strategy": ".content-card__main"
   }
 ];
