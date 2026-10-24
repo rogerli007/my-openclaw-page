@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T17:41:13.697Z
+// Last updated: 2026-10-24T17:55:29.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LOL世界賽2026英雄聯盟｜16強瑞士輪賽程賽果時間表+免費直播連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
+    "timestamp": "2026-10-24T17:55:29.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LOL世界賽2026英雄聯盟｜16強瑞士輪賽程賽果時間表+免費直播連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190757299426168832512039.jpeg/b3cNoMOHrA7ajBYPtub-kBAtN7TZrgzf-EKZH_hCmR8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403262/%E5%85%A7%E5%9C%B0%E7%9C%81%E7%B4%9A%E4%BA%BA%E4%BA%8B%E8%AA%BF%E6%95%B4-%E9%9B%B2%E5%8D%97%E6%8F%9B%E7%9C%81%E5%A7%94%E6%9B%B8%E8%A8%98-%E8%B4%9B%E5%86%80%E6%BB%87%E4%B8%89%E7%9C%81%E6%94%BF%E5%BA%9C%E9%BB%A8%E7%B5%84%E6%9B%B8%E8%A8%98%E6%98%93%E4%BA%BA",
     "timestamp": "2026-10-24T12:24:45.403Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "創新科技嘉年華2026|科技園展出國家航天項目 沉浸式太空探索體驗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190746567855181824549812.jpeg/x7ZC1qOb4HfqvZR1IgPEcv9yjlzBXOIYRXCFv0Vwhb8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60403233/%E5%89%B5%E6%96%B0%E7%A7%91%E6%8A%80%E5%98%89%E5%B9%B4%E8%8F%AF2026-%E7%A7%91%E6%8A%80%E5%9C%92%E5%B1%95%E5%87%BA%E5%9C%8B%E5%AE%B6%E8%88%AA%E5%A4%A9%E9%A0%85%E7%9B%AE-%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2%E9%AB%94%E9%A9%97",
-    "timestamp": "2026-10-24T11:54:00.018Z",
     "strategy": ".content-card__main"
   }
 ];
