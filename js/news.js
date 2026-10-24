@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T11:54:00.018Z
+// Last updated: 2026-10-24T12:24:45.403Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地省級人事調整　雲南換省委書記　贛冀滇三省政府黨組書記易人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190757299426168832512039.jpeg/b3cNoMOHrA7ajBYPtub-kBAtN7TZrgzf-EKZH_hCmR8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403262/%E5%85%A7%E5%9C%B0%E7%9C%81%E7%B4%9A%E4%BA%BA%E4%BA%8B%E8%AA%BF%E6%95%B4-%E9%9B%B2%E5%8D%97%E6%8F%9B%E7%9C%81%E5%A7%94%E6%9B%B8%E8%A8%98-%E8%B4%9B%E5%86%80%E6%BB%87%E4%B8%89%E7%9C%81%E6%94%BF%E5%BA%9C%E9%BB%A8%E7%B5%84%E6%9B%B8%E8%A8%98%E6%98%93%E4%BA%BA",
+    "timestamp": "2026-10-24T12:24:45.403Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "創新科技嘉年華2026|科技園展出國家航天項目 沉浸式太空探索體驗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190340772210151424165740.jpeg/v-rherwSUL5NXh-j_EgwWo42Xwqtunhm4LFtmuCxbZo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402928/%E5%AF%A7%E6%B3%A200%E5%BE%8C%E5%B8%A5%E5%93%A5%E6%93%BA%E6%94%A4%E8%B3%A3%E9%9B%9E%E9%A3%AF%E7%88%86%E7%B4%85-%E9%82%84%E5%B8%B6%E6%97%BA%E5%91%A8%E9%82%8A%E5%A4%9C%E5%B8%82-%E5%A5%B3%E5%8F%8B%E8%A6%AA%E6%8F%AD%E7%A5%9E%E7%B4%9A%E7%87%9F%E9%8A%B7",
     "timestamp": "2026-10-24T05:34:14.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "威廉王子驚喜現身BBC節目　自爆曾有意當DJ",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190628188577861632476039.png/nUvGZ0e0q2HjYJkhVRByFnCg1SuHqN1HTxlhHU8ZYR0?v=w1920",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60403129/%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%ABbbc%E7%AF%80%E7%9B%AE-%E8%87%AA%E7%88%86%E6%9B%BE%E6%9C%89%E6%84%8F%E7%95%B6dj",
-    "timestamp": "2026-10-24T05:18:58.236Z",
     "strategy": ".content-card__main"
   }
 ];
