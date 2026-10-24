@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T02:02:15.064Z
+// Last updated: 2026-10-24T02:30:55.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉錦公路私家車疑失控剷上巴士站　3途人捱撞受傷包括一名兒童",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190607437351096320573986.jpeg/rfQJXwEvgm-yJhWpaL4CMJgNQgcFGYjrl9_SDZff0g0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403106/%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E7%96%91%E5%A4%B1%E6%8E%A7%E5%89%B7%E4%B8%8A%E5%B7%B4%E5%A3%AB%E7%AB%99-3%E9%80%94%E4%BA%BA%E6%8D%B1%E6%92%9E%E5%8F%97%E5%82%B7%E5%8C%85%E6%8B%AC%E4%B8%80%E5%90%8D%E5%85%92%E7%AB%A5",
+    "timestamp": "2026-10-24T02:30:55.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3星座變有錢人全靠自己累積財富　處女精打細算　山羊宜長線投資",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190482470382866432295786.jpeg/bVJ5ONtXg_x6eGUvtGY6g6ehQMmNWSITxEm5csRJuXI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403087/%E6%96%B0%E5%A1%AB%E5%9C%B0%E8%A1%97%E5%96%AE%E4%BD%8D%E6%B7%AA%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E8%AD%A6%E6%8B%9810%E4%BA%BA-%E5%8C%85%E6%8B%AC%E4%B8%BB%E6%8C%81%E5%92%8C9%E8%B3%AD%E5%AE%A2",
     "timestamp": "2026-10-23T18:59:56.918Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新填地街單位淪非法賭檔　警拘10人　包括主持和9賭客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190482470382866432295786.jpeg/bVJ5ONtXg_x6eGUvtGY6g6ehQMmNWSITxEm5csRJuXI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403087/%E6%96%B0%E5%A1%AB%E5%9C%B0%E8%A1%97%E5%96%AE%E4%BD%8D%E6%B7%AA%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E8%AD%A6%E6%8B%9810%E4%BA%BA-%E5%8C%85%E6%8B%AC%E4%B8%BB%E6%8C%81%E5%92%8C9%E8%B3%AD%E5%AE%A2",
-    "timestamp": "2026-10-23T18:49:06.060Z",
     "strategy": ".content-card__main"
   }
 ];
