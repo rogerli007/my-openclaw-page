@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T20:54:31.968Z
+// Last updated: 2026-10-24T21:17:44.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜華富邨老翁墮樓　昏迷送院亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174966251819110400795324.jpeg/1hagNAWJsXTjPUOKu7dpqt8-beZcPcVKIT06wxs9OsM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403289/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8F%AF%E5%AF%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%BA%A1",
+    "timestamp": "2026-10-24T21:17:44.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱荃灣電單車收掣不及撞前車　司機跌落車險被貨車撞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189989948569161728126834.jpeg/Dami-f8Jv39BLl26_AavwF6SsAQlCrJQbCQvvWwkL70?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402456/%E7%B6%B2%E7%B4%85%E6%90%AD%E6%A9%9F%E6%8B%92%E6%8F%9B%E8%B5%B0%E9%81%93%E4%BD%8D-%E6%83%B9%E9%84%B0%E5%BA%A7%E4%BA%BA%E5%A6%BB%E7%88%86%E5%93%AD3%E5%B0%8F%E6%99%82-%E4%B8%88%E5%A4%AB%E5%89%8D%E6%8E%92%E6%88%B4%E8%80%B3%E6%A9%9F%E7%86%9F%E7%9D%A1",
     "timestamp": "2026-10-24T15:18:11.739Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《小城良方》與韓版《Doctor X》齊陷醫學漏洞！醫療劇專業性惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190635734256586752563184.png/4nGQ-jkH2snYfjeAaCEc8eirqUXwhA3G8w4i4_MOIuM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403130/%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9-%E8%88%87%E9%9F%93%E7%89%88-doctor-x-%E9%BD%8A%E9%99%B7%E9%86%AB%E5%AD%B8%E6%BC%8F%E6%B4%9E-%E9%86%AB%E7%99%82%E5%8A%87%E5%B0%88%E6%A5%AD%E6%80%A7%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-10-24T14:53:41.847Z",
     "strategy": ".content-card__main"
   }
 ];
