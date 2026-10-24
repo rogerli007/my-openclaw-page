@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-23T23:53:54.582Z
+// Last updated: 2026-10-24T01:14:02.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台海有戰事｜澤連斯基是菲律賓、台灣最好的老師",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187946064368373760197604.jpeg/kIcNz8yO4rQYq6luvGZ2iuhCkf5ok7Mljtsb9o7bG_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60402951/%E5%8F%B0%E6%B5%B7%E6%9C%89%E6%88%B0%E4%BA%8B-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E6%98%AF%E8%8F%B2%E5%BE%8B%E8%B3%93-%E5%8F%B0%E7%81%A3%E6%9C%80%E5%A5%BD%E7%9A%84%E8%80%81%E5%B8%AB",
+    "timestamp": "2026-10-24T01:14:02.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "血癌│20歲男生發燒2周確診急性骨髓性白血病　初似感冒留意3警號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190465767796117504389246.jpeg/Lavf3Xlwjy1V5NbWu44Zj8Vv37EU4Y_6c0GIcXNBiHE",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403083/lv%E4%B8%AD%E7%92%B0-%E7%AF%8B%E7%89%86-%E6%97%97%E8%89%A6%E5%BA%97%E5%B0%8D%E9%96%8B-%E5%85%A9%E5%9C%B0%E7%89%8C%E5%AF%B6%E9%A6%AC%E9%81%95%E4%BE%8B%E5%B7%A6%E8%BD%89%E6%93%AC%E9%A7%9B%E8%B5%B0%E9%98%BB%E8%B7%AF-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-23T17:54:32.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒乓亞錦賽︱黃鎮廷雙線出擊男單闖16強　夥陳顥樺男雙爭入4強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190467090583130112509247.jpeg/qm5baHn5kBLrnAk0R037IqKkAS5uzpOR0xTPXtMUz14?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403082/%E4%B9%92%E4%B9%93%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E9%BB%83%E9%8E%AE%E5%BB%B7%E9%9B%99%E7%B7%9A%E5%87%BA%E6%93%8A%E7%94%B7%E5%96%AE%E9%97%9616%E5%BC%B7-%E5%A4%A5%E9%99%B3%E9%A1%A5%E6%A8%BA%E7%94%B7%E9%9B%99%E7%88%AD%E5%85%A54%E5%BC%B7",
-    "timestamp": "2026-10-23T17:46:08.382Z",
     "strategy": ".content-card__main"
   }
 ];
