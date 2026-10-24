@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T14:53:41.847Z
+// Last updated: 2026-10-24T15:18:11.739Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網紅搭機拒換走道位　惹鄰座人妻爆哭3小時　丈夫前排戴耳機熟睡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189989948569161728126834.jpeg/Dami-f8Jv39BLl26_AavwF6SsAQlCrJQbCQvvWwkL70?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402456/%E7%B6%B2%E7%B4%85%E6%90%AD%E6%A9%9F%E6%8B%92%E6%8F%9B%E8%B5%B0%E9%81%93%E4%BD%8D-%E6%83%B9%E9%84%B0%E5%BA%A7%E4%BA%BA%E5%A6%BB%E7%88%86%E5%93%AD3%E5%B0%8F%E6%99%82-%E4%B8%88%E5%A4%AB%E5%89%8D%E6%8E%92%E6%88%B4%E8%80%B3%E6%A9%9F%E7%86%9F%E7%9D%A1",
+    "timestamp": "2026-10-24T15:18:11.739Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《小城良方》與韓版《Doctor X》齊陷醫學漏洞！醫療劇專業性惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190710307245264896842935.jpeg/HmjZSnmRgFG_JaB-rWrhXkJy0MH-16TLs56a1rOemtY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403232/%E7%A7%A6%E5%85%B5%E9%A6%AC%E4%BF%91%E6%8C%87%E7%B4%8B%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%8F%AD%E5%B7%A5%E5%8C%A0%E7%BE%A4%E9%AB%94-%E6%88%90%E5%B9%B4%E5%A5%B3%E6%80%A7%E4%BD%94%E9%80%BE%E4%B8%89%E6%88%90-%E5%85%A9%E6%88%90%E6%98%AF%E5%B0%91%E5%B9%B4",
     "timestamp": "2026-10-24T09:34:13.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公屋男嘆父拒換居屋　大學想排公屋父：諗都唔好諗　錯失啟德樓王",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190691560119865344869423.png/YpfmEQTal3sOFk90FW-IJGIAlLuYrVHNKFfonihX6J4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403139/%E5%85%AC%E5%B1%8B%E7%94%B7%E5%98%86%E7%88%B6%E6%8B%92%E6%8F%9B%E5%B1%85%E5%B1%8B-%E5%A4%A7%E5%AD%B8%E6%83%B3%E6%8E%92%E5%85%AC%E5%B1%8B%E7%88%B6-%E8%AB%97%E9%83%BD%E5%94%94%E5%A5%BD%E8%AB%97-%E9%8C%AF%E5%A4%B1%E5%95%9F%E5%BE%B7%E6%A8%93%E7%8E%8B",
-    "timestamp": "2026-10-24T09:19:35.012Z",
     "strategy": ".content-card__main"
   }
 ];
