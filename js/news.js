@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T09:46:37.871Z
+// Last updated: 2026-10-24T10:18:30.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鳳德邨將換𨋢　房委會指臺日不宜承辦工程　明派代表出席業主大會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190351887870726144196527.jpeg/J6UMqGBRyRRk7KcXFkiBt3LuV0IT1AtjCL4O-y2-Dvs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403239/%E9%B3%B3%E5%BE%B7%E9%82%A8%E5%B0%87%E6%8F%9B%F0%A8%8B%A2-%E6%88%BF%E5%A7%94%E6%9C%83%E6%8C%87%E8%87%BA%E6%97%A5%E4%B8%8D%E5%AE%9C%E6%89%BF%E8%BE%A6%E5%B7%A5%E7%A8%8B-%E6%98%8E%E6%B4%BE%E4%BB%A3%E8%A1%A8%E5%87%BA%E5%B8%AD%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83",
+    "timestamp": "2026-10-24T10:18:30.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秦兵馬俑指紋最新研究揭工匠群體：成年女性佔逾三成　兩成是少年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187372846985252864180734.jpeg/Sj1teGBq8QTV22DymNmmvfqXzdvUCRYvJSmB5iUpgeY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397459/%E8%A1%80%E7%99%8C-20%E6%AD%B2%E7%94%B7%E7%94%9F%E7%99%BC%E7%87%922%E5%91%A8%E7%A2%BA%E8%A8%BA%E6%80%A5%E6%80%A7%E9%AA%A8%E9%AB%93%E6%80%A7%E7%99%BD%E8%A1%80%E7%97%85-%E5%88%9D%E4%BC%BC%E6%84%9F%E5%86%92%E7%95%99%E6%84%8F3%E8%AD%A6%E8%99%9F",
     "timestamp": "2026-10-23T23:53:54.582Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "血癌│20歲男生發燒2周確診急性骨髓性白血病　初似感冒留意3警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187372846985252864180734.jpeg/Sj1teGBq8QTV22DymNmmvfqXzdvUCRYvJSmB5iUpgeY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60397459/%E8%A1%80%E7%99%8C-20%E6%AD%B2%E7%94%B7%E7%94%9F%E7%99%BC%E7%87%922%E5%91%A8%E7%A2%BA%E8%A8%BA%E6%80%A5%E6%80%A7%E9%AA%A8%E9%AB%93%E6%80%A7%E7%99%BD%E8%A1%80%E7%97%85-%E5%88%9D%E4%BC%BC%E6%84%9F%E5%86%92%E7%95%99%E6%84%8F3%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-10-23T23:43:30.892Z",
     "strategy": ".content-card__main"
   }
 ];
