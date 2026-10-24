@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T03:21:52.228Z
+// Last updated: 2026-10-24T04:52:06.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重現香港失落摩登大宅！九十後建築師做30個模型 上環展出豪宅史",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190643566649544704317428.jpeg/hDghHWMRHX0WSLNXh88hVLbp_IMdxQ_AB0-dPgdPnT4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60402913/%E9%87%8D%E7%8F%BE%E9%A6%99%E6%B8%AF%E5%A4%B1%E8%90%BD%E6%91%A9%E7%99%BB%E5%A4%A7%E5%AE%85-%E4%B9%9D%E5%8D%81%E5%BE%8C%E5%BB%BA%E7%AF%89%E5%B8%AB%E5%81%9A30%E5%80%8B%E6%A8%A1%E5%9E%8B-%E4%B8%8A%E7%92%B0%E5%B1%95%E5%87%BA%E8%B1%AA%E5%AE%85%E5%8F%B2",
+    "timestamp": "2026-10-24T04:52:06.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港如何破解深層次矛盾？　鄧中華促破除利益藩籬　完善民生共享",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
     "timestamp": "2026-10-23T20:20:28.222Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "約旦河西岸2巴人槍擊哨站以軍2死　內塔尼亞胡下令全面封鎖西岸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190490470745116672975308.jpeg/zkqW7fKdU_8K5IJEglLW8a7keJWuIZHdrjOExa4zhMU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403088/%E7%B4%84%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B82%E5%B7%B4%E4%BA%BA%E6%A7%8D%E6%93%8A%E5%93%A8%E7%AB%99%E4%BB%A5%E8%BB%8D2%E6%AD%BB-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8B%E4%BB%A4%E5%85%A8%E9%9D%A2%E5%B0%81%E9%8E%96%E8%A5%BF%E5%B2%B8",
-    "timestamp": "2026-10-23T19:53:36.465Z",
     "strategy": ".content-card__main"
   }
 ];
