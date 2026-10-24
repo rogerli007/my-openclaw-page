@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T22:42:53.954Z
+// Last updated: 2026-10-24T22:55:45.594Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國示威工會稱80萬人上街近千人被捕　巴黎催淚彈水炮齊發｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190916417550028800024381.jpeg/br98vc4c8ao_xvvawEfiUT8XzDl2cSRFr6EMJa-hDCU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403291/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E5%B7%A5%E6%9C%83%E7%A8%B180%E8%90%AC%E4%BA%BA%E4%B8%8A%E8%A1%97%E8%BF%91%E5%8D%83%E4%BA%BA%E8%A2%AB%E6%8D%95-%E5%B7%B4%E9%BB%8E%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%BD%8A%E7%99%BC-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-24T22:55:45.594Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國示威工會稱80萬人參加近千人被捕　巴黎催淚彈水炮齊發｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190681290223915008637021.jpeg/kfVWCNrMt-7c5J7aJpyOLb_hzTd83sN51347kNd-O5A",
     "url": "https://www.hk01.com/01TV/60403181/%E8%BB%8A%E5%A9%89%E5%A9%89%E7%8D%A8%E7%AB%8B%E6%80%A7%E6%A0%BC%E7%9A%84%E9%A4%8A%E6%88%90-%E5%B0%8F%E5%AD%B8%E4%B8%80%E5%B9%B4%E7%B4%9A%E5%B0%B1%E8%A6%81%E8%87%AA%E5%B7%B1%E7%95%99%E5%AE%B6%E5%81%9A%E5%8A%9F%E8%AA%B2",
     "timestamp": "2026-10-24T17:17:29.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026英雄聯盟｜最新賽程賽果時間表+免費直播連結懶人包",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
-    "timestamp": "2026-10-24T16:56:13.175Z",
     "strategy": ".content-card__main"
   }
 ];
