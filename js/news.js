@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T15:43:38.842Z
+// Last updated: 2026-10-24T15:53:56.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖月｜蘭桂坊辦變裝派對逼爆　警方封路　多人要兜大圈等候進入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190803986639228928546139.jpeg/mJOMR8-HRKzUe8v4YVz5nUdhwuYhhxtwp9GRR4LRkUc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403271/%E8%90%AC%E8%81%96%E6%9C%88-%E8%98%AD%E6%A1%82%E5%9D%8A%E8%BE%A6%E8%AE%8A%E8%A3%9D%E6%B4%BE%E5%B0%8D%E9%80%BC%E7%88%86-%E8%AD%A6%E6%96%B9%E5%B0%81%E8%B7%AF-%E5%A4%9A%E4%BA%BA%E8%A6%81%E5%85%9C%E5%A4%A7%E5%9C%88%E7%AD%89%E5%80%99%E9%80%B2%E5%85%A5",
+    "timestamp": "2026-10-24T15:53:56.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國擴大對華高新技術投資限制　中國商務部：停止將經貿武器化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190717879218081792860954.jpeg/A0SDz_Nu4EGiiyObfzBPGeALvjK_4fkNQsKwFkLCsBY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403242/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E8%A2%AB%E9%81%8A%E8%AA%AA%E6%8B%8D-%E5%83%85%E7%A9%BF%E5%85%A7%E8%A4%B2-%E6%88%B2-%E6%9D%8E%E4%BD%B3%E8%8A%AF-%E6%BC%94%E5%93%A1%E4%BF%82%E5%86%87%E5%BE%97%E8%BF%AB",
     "timestamp": "2026-10-24T10:32:46.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鳳德邨將換𨋢　房委會指臺日不宜承辦工程　明派代表出席業主大會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190351887870726144196527.jpeg/J6UMqGBRyRRk7KcXFkiBt3LuV0IT1AtjCL4O-y2-Dvs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403239/%E9%B3%B3%E5%BE%B7%E9%82%A8%E5%B0%87%E6%8F%9B%F0%A8%8B%A2-%E6%88%BF%E5%A7%94%E6%9C%83%E6%8C%87%E8%87%BA%E6%97%A5%E4%B8%8D%E5%AE%9C%E6%89%BF%E8%BE%A6%E5%B7%A5%E7%A8%8B-%E6%98%8E%E6%B4%BE%E4%BB%A3%E8%A1%A8%E5%87%BA%E5%B8%AD%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83",
-    "timestamp": "2026-10-24T10:18:30.086Z",
     "strategy": ".content-card__main"
   }
 ];
