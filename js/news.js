@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T05:34:14.064Z
+// Last updated: 2026-10-24T06:01:19.151Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警搜天水圍單位檢車匙　揭私家車藏$1230萬大麻　拘父子涉販毒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190658403827978240617439.jpeg/1kxsOdPS6-dFGKRhhn_mDadt480R27Am1gUlzNYFJcw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403156/%E8%AD%A6%E6%90%9C%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%96%AE%E4%BD%8D%E6%AA%A2%E8%BB%8A%E5%8C%99-%E6%8F%AD%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%97%8F-1230%E8%90%AC%E5%A4%A7%E9%BA%BB-%E6%8B%98%E7%88%B6%E5%AD%90%E6%B6%89%E8%B2%A9%E6%AF%92",
+    "timestamp": "2026-10-24T06:01:19.151Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寧波00後帥哥擺攤賣雞飯爆紅　還帶旺周邊夜市　女友親揭神級營銷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
     "timestamp": "2026-10-23T21:22:19.477Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普先發制人　因候選人撞名提前入稟阻阿拉斯加認證民主黨勝選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
-    "timestamp": "2026-10-23T20:55:09.683Z",
     "strategy": ".content-card__main"
   }
 ];
