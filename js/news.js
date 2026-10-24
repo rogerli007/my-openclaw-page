@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T23:28:41.258Z
+// Last updated: 2026-10-24T23:53:47.561Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西大選今舉行次輪投票　博爾索納羅之子民調輕微領先盧拉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190931611986694144290675.jpeg/qO9wLdePyA7vnA0RtVO4WMh2wQIrCBVHsIALU7CAC1M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403293/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8%E4%BB%8A%E8%88%89%E8%A1%8C%E6%AC%A1%E8%BC%AA%E6%8A%95%E7%A5%A8-%E5%8D%9A%E7%88%BE%E7%B4%A2%E7%B4%8D%E7%BE%85%E4%B9%8B%E5%AD%90%E6%B0%91%E8%AA%BF%E8%BC%95%E5%BE%AE%E9%A0%98%E5%85%88%E7%9B%A7%E6%8B%89",
+    "timestamp": "2026-10-24T23:53:47.561Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奧巴馬狠批特朗普腐敗沉迷裝修白宮　像薩達姆開連鎖餐廳｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
     "timestamp": "2026-10-24T17:55:29.515Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026英雄聯盟｜16強瑞士輪賽程賽果時間表+免費直播連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
-    "timestamp": "2026-10-24T17:41:13.697Z",
     "strategy": ".content-card__main"
   }
 ];
