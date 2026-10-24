@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T07:51:28.594Z
+// Last updated: 2026-10-24T08:23:49.936Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遊泰注意｜政府暫緩徵收1000泰銖離境稅　以維持旅遊業活力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260830/1170774197341786112293064.jpeg/hwXxhf4978fB3B5P-BCSBTq7mDnJg84C4pBw_OKQcPw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403205/%E9%81%8A%E6%B3%B0%E6%B3%A8%E6%84%8F-%E6%94%BF%E5%BA%9C%E6%9A%AB%E7%B7%A9%E5%BE%B5%E6%94%B61000%E6%B3%B0%E9%8A%96%E9%9B%A2%E5%A2%83%E7%A8%85-%E4%BB%A5%E7%B6%AD%E6%8C%81%E6%97%85%E9%81%8A%E6%A5%AD%E6%B4%BB%E5%8A%9B",
+    "timestamp": "2026-10-24T08:23:49.936Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肯尼亞首都10多層高施工大樓突倒塌7人失蹤　工人驚險逃難｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190316528965259264982601.jpeg/w-F6FIHnu7d6RLh8yFkSPCTbTEAPP5rh2MUhu9jFIbs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60402874/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E5%B1%85%E5%B1%8B%E6%8C%89%E6%8F%AD-%E5%80%9F%E5%BE%97%E5%B0%91-%E6%9C%AA%E5%BF%85%E7%9D%80%E6%95%B8-%E6%8B%86%E8%A7%A3%E9%8A%80%E8%A1%8C%E5%AF%A9%E6%89%B9%E5%9B%9B%E5%A4%A7%E5%BC%8A%E7%AB%AF",
     "timestamp": "2026-10-23T22:18:19.883Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普取消部份加拿大商品50%關稅　疑為共和黨緬因州參議員助選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190536962860126208910248.jpeg/sSg3s052MG_mCu5mudiUW50O1OYN4oDXEXVrJxF1ayc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403091/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E9%83%A8%E4%BB%BD%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%95%86%E5%93%8150-%E9%97%9C%E7%A8%85-%E7%96%91%E7%82%BA%E5%85%B1%E5%92%8C%E9%BB%A8%E7%B7%AC%E5%9B%A0%E5%B7%9E%E5%8F%83%E8%AD%B0%E5%93%A1%E5%8A%A9%E9%81%B8",
-    "timestamp": "2026-10-23T21:54:35.118Z",
     "strategy": ".content-card__main"
   }
 ];
