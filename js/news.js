@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T15:36:09.046Z
+// Last updated: 2026-10-24T15:43:38.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國擴大對華高新技術投資限制　中國商務部：停止將經貿武器化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180208992291393536792316.jpeg/hCmMEWnbSN684ACwk4Ld57g2_dY7wko-dGohD3RqIQ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403275/%E7%BE%8E%E5%9C%8B%E6%93%B4%E5%A4%A7%E5%B0%8D%E8%8F%AF%E9%AB%98%E6%96%B0%E6%8A%80%E8%A1%93%E6%8A%95%E8%B3%87%E9%99%90%E5%88%B6-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%81%9C%E6%AD%A2%E5%B0%87%E7%B6%93%E8%B2%BF%E6%AD%A6%E5%99%A8%E5%8C%96",
+    "timestamp": "2026-10-24T15:43:38.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國擴大對華高新技術投資限制　中國商務部：停止將經貿武器化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190351887870726144196527.jpeg/J6UMqGBRyRRk7KcXFkiBt3LuV0IT1AtjCL4O-y2-Dvs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403239/%E9%B3%B3%E5%BE%B7%E9%82%A8%E5%B0%87%E6%8F%9B%F0%A8%8B%A2-%E6%88%BF%E5%A7%94%E6%9C%83%E6%8C%87%E8%87%BA%E6%97%A5%E4%B8%8D%E5%AE%9C%E6%89%BF%E8%BE%A6%E5%B7%A5%E7%A8%8B-%E6%98%8E%E6%B4%BE%E4%BB%A3%E8%A1%A8%E5%87%BA%E5%B8%AD%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83",
     "timestamp": "2026-10-24T10:18:30.086Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秦兵馬俑指紋最新研究揭工匠群體：成年女性佔逾三成　兩成是少年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190710307245264896842935.jpeg/HmjZSnmRgFG_JaB-rWrhXkJy0MH-16TLs56a1rOemtY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403232/%E7%A7%A6%E5%85%B5%E9%A6%AC%E4%BF%91%E6%8C%87%E7%B4%8B%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%8F%AD%E5%B7%A5%E5%8C%A0%E7%BE%A4%E9%AB%94-%E6%88%90%E5%B9%B4%E5%A5%B3%E6%80%A7%E4%BD%94%E9%80%BE%E4%B8%89%E6%88%90-%E5%85%A9%E6%88%90%E6%98%AF%E5%B0%91%E5%B9%B4",
-    "timestamp": "2026-10-24T09:46:37.871Z",
     "strategy": ".content-card__main"
   }
 ];
