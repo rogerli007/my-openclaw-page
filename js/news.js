@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T20:32:37.875Z
+// Last updated: 2026-10-24T20:54:31.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片︱荃灣電單車收掣不及撞前車　司機跌落車險被貨車撞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190879752945143808735968.png/ac7gLzWH9MQr7rmOFIl7JsAhQ-9-OLE7Svf620r3-ts",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403287/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E6%92%9E%E5%89%8D%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E8%B7%8C%E8%90%BD%E8%BB%8A%E9%9A%AA%E8%A2%AB%E8%B2%A8%E8%BB%8A%E6%92%9E",
+    "timestamp": "2026-10-24T20:54:31.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱荃灣電單車收掣不及撞前車　司機跌落車險被貨車撞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190635734256586752563184.png/4nGQ-jkH2snYfjeAaCEc8eirqUXwhA3G8w4i4_MOIuM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403130/%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9-%E8%88%87%E9%9F%93%E7%89%88-doctor-x-%E9%BD%8A%E9%99%B7%E9%86%AB%E5%AD%B8%E6%BC%8F%E6%B4%9E-%E9%86%AB%E7%99%82%E5%8A%87%E5%B0%88%E6%A5%AD%E6%80%A7%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-10-24T14:53:41.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "告別平治別克　深圳APEC國賓車換國產　紅旗比亞迪交付近1400輛車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190785864452542464924561.png/rG6INZ8M5yZ9jdoo7MHX3DIJSRfAWsCe87k5o_O5OaM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403272/%E5%91%8A%E5%88%A5%E5%B9%B3%E6%B2%BB%E5%88%A5%E5%85%8B-%E6%B7%B1%E5%9C%B3apec%E5%9C%8B%E8%B3%93%E8%BB%8A%E6%8F%9B%E5%9C%8B%E7%94%A2-%E7%B4%85%E6%97%97%E6%AF%94%E4%BA%9E%E8%BF%AA%E4%BA%A4%E4%BB%98%E8%BF%911400%E8%BC%9B%E8%BB%8A",
-    "timestamp": "2026-10-24T14:31:30.671Z",
     "strategy": ".content-card__main"
   }
 ];
