@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T17:17:29.036Z
+// Last updated: 2026-10-24T17:29:23.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LOL世界賽2026英雄聯盟｜16強瑞士輪賽程賽果時間表+免費直播連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
+    "timestamp": "2026-10-24T17:29:23.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉獨立性格的養成：小學一年級就要自己留家做功課",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190736816475475968198427.png/y0pu_5PgeNF_48gb52_yGGASFHRvqSEn3kadE95GnRM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403258/%E6%9D%8E%E5%B0%9A%E6%AD%A3-%E6%9D%8E%E5%AF%B6%E5%AE%89-%E4%B8%8B%E5%91%A8%E4%B8%80%E9%A6%96%E6%92%AD-tvb%E6%80%A5%E5%8F%AC-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E4%B8%89%E5%A4%AAkc%E8%AE%8A%E8%A3%9D%E8%BF%8E%E6%93%8A",
     "timestamp": "2026-10-24T11:41:56.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李克勤19歲大仔李立仁暴風成長　撞樣李治廷甜蜜放閃疑洩蜜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190692051725848576150837.jpeg/akiJMQS23Un5e6gP3-NCOvhDuHe-4I7z4wp4k-MKeJM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403195/%E6%9D%8E%E5%85%8B%E5%8B%A419%E6%AD%B2%E5%A4%A7%E4%BB%94%E6%9D%8E%E7%AB%8B%E4%BB%81%E6%9A%B4%E9%A2%A8%E6%88%90%E9%95%B7-%E6%92%9E%E6%A8%A3%E6%9D%8E%E6%B2%BB%E5%BB%B7%E7%94%9C%E8%9C%9C%E6%94%BE%E9%96%83%E7%96%91%E6%B4%A9%E8%9C%9C",
-    "timestamp": "2026-10-24T11:29:56.867Z",
     "strategy": ".content-card__main"
   }
 ];
