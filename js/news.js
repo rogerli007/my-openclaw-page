@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T19:46:20.573Z
+// Last updated: 2026-10-24T19:53:48.362Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基稱不會為結束戰事放棄更多領土　星鏈已恢復正常速度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190861607933054976815794.jpeg/CF-HDBnuAKdsO-bmz6SA9QWZr4yn88jUsvnwfLL58Hw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403286/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E4%B8%8D%E6%9C%83%E7%82%BA%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B%E6%94%BE%E6%A3%84%E6%9B%B4%E5%A4%9A%E9%A0%98%E5%9C%9F-%E6%98%9F%E9%8F%88%E5%B7%B2%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E9%80%9F%E5%BA%A6",
+    "timestamp": "2026-10-24T19:53:48.362Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉休學入行說服母親 唱片公司總經理承諾一年內出碟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190767845756112896916043.jpeg/f5dJfYcnTvyQIlZVhY7wAS_118AsXL8PvcpIfr3KSH4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403269/%E9%87%91%E9%90%9861%E5%9B%A0%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E8%A5%B2%E5%8F%B0%E7%B7%8A%E6%80%A5%E5%BB%B6%E6%9C%9F-%E7%B4%85%E6%B0%88%E6%94%B9%E5%AE%A4%E5%85%A7%E5%9A%B4%E7%A6%81%E7%B2%89%E7%B5%B2%E8%81%9A%E9%9B%86",
     "timestamp": "2026-10-24T13:54:19.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林正峰內地發展遭AI短劇搶飯碗　兼職做社工極限工作16小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697796546596864652301.png/ld06O3dfaPi-G4IuFGJaIIJFbPiJRsOKwtxqgsLcaoI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403175/%E6%9E%97%E6%AD%A3%E5%B3%B0%E5%85%A7%E5%9C%B0%E7%99%BC%E5%B1%95%E9%81%ADai%E7%9F%AD%E5%8A%87%E6%90%B6%E9%A3%AF%E7%A2%97-%E5%85%BC%E8%81%B7%E5%81%9A%E7%A4%BE%E5%B7%A5%E6%A5%B5%E9%99%90%E5%B7%A5%E4%BD%9C16%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-10-24T13:42:43.870Z",
     "strategy": ".content-card__main"
   }
 ];
