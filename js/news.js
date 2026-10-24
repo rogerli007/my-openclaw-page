@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T08:47:07.853Z
+// Last updated: 2026-10-24T08:57:14.498Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國新一輪示威前夕　商舖紛紛加裝圍板　名店增派保安防搶劫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190699963907051520569804.jpeg/ZQvnzu6vWPD_qRFvX2qwVDpmS4Y92ecqlVyqm5Vcqps?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403201/%E6%B3%95%E5%9C%8B%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A4%BA%E5%A8%81%E5%89%8D%E5%A4%95-%E5%95%86%E8%88%96%E7%B4%9B%E7%B4%9B%E5%8A%A0%E8%A3%9D%E5%9C%8D%E6%9D%BF-%E5%90%8D%E5%BA%97%E5%A2%9E%E6%B4%BE%E4%BF%9D%E5%AE%89%E9%98%B2%E6%90%B6%E5%8A%AB",
+    "timestamp": "2026-10-24T08:57:14.498Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國新一輪示威前夕　商舖紛紛加裝圍板　名店增派保安防搶劫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190316528965259264982601.jpeg/w-F6FIHnu7d6RLh8yFkSPCTbTEAPP5rh2MUhu9jFIbs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60402874/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E5%B1%85%E5%B1%8B%E6%8C%89%E6%8F%AD-%E5%80%9F%E5%BE%97%E5%B0%91-%E6%9C%AA%E5%BF%85%E7%9D%80%E6%95%B8-%E6%8B%86%E8%A7%A3%E9%8A%80%E8%A1%8C%E5%AF%A9%E6%89%B9%E5%9B%9B%E5%A4%A7%E5%BC%8A%E7%AB%AF",
     "timestamp": "2026-10-23T22:44:03.274Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【星之谷】居屋按揭「借得少」未必着數　拆解銀行審批四大弊端",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190316528965259264982601.jpeg/w-F6FIHnu7d6RLh8yFkSPCTbTEAPP5rh2MUhu9jFIbs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60402874/%E6%98%9F%E4%B9%8B%E8%B0%B7-%E5%B1%85%E5%B1%8B%E6%8C%89%E6%8F%AD-%E5%80%9F%E5%BE%97%E5%B0%91-%E6%9C%AA%E5%BF%85%E7%9D%80%E6%95%B8-%E6%8B%86%E8%A7%A3%E9%8A%80%E8%A1%8C%E5%AF%A9%E6%89%B9%E5%9B%9B%E5%A4%A7%E5%BC%8A%E7%AB%AF",
-    "timestamp": "2026-10-23T22:32:28.441Z",
     "strategy": ".content-card__main"
   }
 ];
