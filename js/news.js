@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T11:18:14.538Z
+// Last updated: 2026-10-24T11:29:56.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李克勤19歲大仔李立仁暴風成長　撞樣李治廷甜蜜放閃疑洩蜜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190692051725848576150837.jpeg/akiJMQS23Un5e6gP3-NCOvhDuHe-4I7z4wp4k-MKeJM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403195/%E6%9D%8E%E5%85%8B%E5%8B%A419%E6%AD%B2%E5%A4%A7%E4%BB%94%E6%9D%8E%E7%AB%8B%E4%BB%81%E6%9A%B4%E9%A2%A8%E6%88%90%E9%95%B7-%E6%92%9E%E6%A8%A3%E6%9D%8E%E6%B2%BB%E5%BB%B7%E7%94%9C%E8%9C%9C%E6%94%BE%E9%96%83%E7%96%91%E6%B4%A9%E8%9C%9C",
+    "timestamp": "2026-10-24T11:29:56.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田火鍋店食蝦滑　咬出異物揭內藏金屬窩釘　網民斥離譜籲報食環",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190621372640923648157293.jpeg/utQN1jyVqb4mEfEVSSopNenutuMoCjKIA10abQNdGm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60403121/%E9%A6%99%E6%B8%AF%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E6%B7%B1%E5%B1%A4%E6%AC%A1%E7%9F%9B%E7%9B%BE-%E9%84%A7%E4%B8%AD%E8%8F%AF%E4%BF%83%E7%A0%B4%E9%99%A4%E5%88%A9%E7%9B%8A%E8%97%A9%E7%B1%AC-%E5%AE%8C%E5%96%84%E6%B0%91%E7%94%9F%E5%85%B1%E4%BA%AB",
     "timestamp": "2026-10-24T03:21:52.228Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo搶現貨不用等到2027？澳門排隊／iReserve執漏風險拆解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189386816877236224156708.jpeg/YX2kLS3Fd9LhDXD3kjdNHgqYjz7nzQcG9XHUAPVx1AA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401840/iphone-duo%E6%90%B6%E7%8F%BE%E8%B2%A8%E4%B8%8D%E7%94%A8%E7%AD%89%E5%88%B02027-%E6%BE%B3%E9%96%80%E6%8E%92%E9%9A%8A-ireserve%E5%9F%B7%E6%BC%8F%E9%A2%A8%E9%9A%AA%E6%8B%86%E8%A7%A3",
-    "timestamp": "2026-10-24T02:50:02.583Z",
     "strategy": ".content-card__main"
   }
 ];
