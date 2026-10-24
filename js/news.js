@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T06:01:19.151Z
+// Last updated: 2026-10-24T06:29:07.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金正恩突訪華？　韓聯社：經新鴨綠江大橋抵達丹東　開啟訪華行程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260711/1152653592226697216784063.jpeg/s0PZ00hnnbaNbgM3brJk2z3a4BgGyk3R8LBlbPCwZWw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403169/%E9%87%91%E6%AD%A3%E6%81%A9%E7%AA%81%E8%A8%AA%E8%8F%AF-%E9%9F%93%E8%81%AF%E7%A4%BE-%E7%B6%93%E6%96%B0%E9%B4%A8%E7%B6%A0%E6%B1%9F%E5%A4%A7%E6%A9%8B%E6%8A%B5%E9%81%94%E4%B8%B9%E6%9D%B1-%E9%96%8B%E5%95%9F%E8%A8%AA%E8%8F%AF%E8%A1%8C%E7%A8%8B",
+    "timestamp": "2026-10-24T06:29:07.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警搜天水圍單位檢車匙　揭私家車藏$1230萬大麻　拘父子涉販毒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
     "timestamp": "2026-10-23T21:33:20.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普先發制人　因候選人撞名提前入稟阻阿拉斯加認證民主黨勝選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
-    "timestamp": "2026-10-23T21:22:19.477Z",
     "strategy": ".content-card__main"
   }
 ];
