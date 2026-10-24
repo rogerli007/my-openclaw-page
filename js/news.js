@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T16:19:22.544Z
+// Last updated: 2026-10-24T16:34:06.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LOL世界賽2026英雄聯盟｜最新賽程賽果時間表+免費直播連結懶人包",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
+    "timestamp": "2026-10-24T16:34:06.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LOL世界賽2026英雄聯盟｜最新賽程賽果時間表+免費直播連結懶人包",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190736034086785024742095.jpeg/CcuKj_RXCIFn87hmTeLfEmrZlJpS3_FjnnY42p52ONo",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403238/%E7%BE%8E%E5%9C%8B%E4%BF%84%E5%8B%92%E5%B2%A1%E5%B7%9E%E5%B0%8F%E5%AD%B84%E6%AD%BB%E6%A7%8D%E6%93%8A%E6%A1%88-%E5%8B%87%E7%88%B6%E6%93%8A%E6%96%83%E6%A7%8D%E6%89%8B%E5%BE%8C%E8%87%AA%E8%B2%AC-%E6%9C%AA%E6%95%91%E4%B8%8B%E6%89%80%E6%9C%89%E4%BA%BA",
     "timestamp": "2026-10-24T10:53:33.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曼谷及巴西抵港兩內地漢機場被捕　海關檢$437萬大麻花可卡因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190731746191085568785146.jpeg/bMaTREM63GL0UAaZtC5DEIfnWUqaVFCi1da3v9XWt78?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403255/%E6%9B%BC%E8%B0%B7%E5%8F%8A%E5%B7%B4%E8%A5%BF%E6%8A%B5%E6%B8%AF%E5%85%A9%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%8D%95-%E6%B5%B7%E9%97%9C%E6%AA%A2-437%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%8F%AF%E5%8D%A1%E5%9B%A0",
-    "timestamp": "2026-10-24T10:45:00.133Z",
     "strategy": ".content-card__main"
   }
 ];
