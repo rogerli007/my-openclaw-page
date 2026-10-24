@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T15:53:56.836Z
+// Last updated: 2026-10-24T16:19:22.544Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LOL世界賽2026英雄聯盟｜最新賽程賽果時間表+免費直播連結懶人包",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
+    "timestamp": "2026-10-24T16:19:22.544Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖月｜蘭桂坊辦變裝派對逼爆　警方封路　多人要兜大圈等候進入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190731746191085568785146.jpeg/bMaTREM63GL0UAaZtC5DEIfnWUqaVFCi1da3v9XWt78?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403255/%E6%9B%BC%E8%B0%B7%E5%8F%8A%E5%B7%B4%E8%A5%BF%E6%8A%B5%E6%B8%AF%E5%85%A9%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%8D%95-%E6%B5%B7%E9%97%9C%E6%AA%A2-437%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%8F%AF%E5%8D%A1%E5%9B%A0",
     "timestamp": "2026-10-24T10:45:00.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜張曦雯被遊說拍「僅穿內褲」戲  李佳芯：演員係冇得迫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190717879218081792860954.jpeg/A0SDz_Nu4EGiiyObfzBPGeALvjK_4fkNQsKwFkLCsBY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403242/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E8%A2%AB%E9%81%8A%E8%AA%AA%E6%8B%8D-%E5%83%85%E7%A9%BF%E5%85%A7%E8%A4%B2-%E6%88%B2-%E6%9D%8E%E4%BD%B3%E8%8A%AF-%E6%BC%94%E5%93%A1%E4%BF%82%E5%86%87%E5%BE%97%E8%BF%AB",
-    "timestamp": "2026-10-24T10:32:46.281Z",
     "strategy": ".content-card__main"
   }
 ];
