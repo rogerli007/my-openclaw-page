@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T21:17:44.157Z
+// Last updated: 2026-10-24T21:31:33.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國示威｜巴黎羅浮宮等多個博物館關閉　遊客大嘆摸門釘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190883250151624704840597.jpeg/dGtYjEIHGLxTmQPT9TshkEsYH1FPx1-7X-61sl_utbI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403288/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E5%B7%B4%E9%BB%8E%E7%BE%85%E6%B5%AE%E5%AE%AE%E7%AD%89%E5%A4%9A%E5%80%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%97%9C%E9%96%89-%E9%81%8A%E5%AE%A2%E5%A4%A7%E5%98%86%E6%91%B8%E9%96%80%E9%87%98",
+    "timestamp": "2026-10-24T21:31:33.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜華富邨老翁墮樓　昏迷送院亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180208992291393536792316.jpeg/hCmMEWnbSN684ACwk4Ld57g2_dY7wko-dGohD3RqIQ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403275/%E7%BE%8E%E5%9C%8B%E6%93%B4%E5%A4%A7%E5%B0%8D%E8%8F%AF%E9%AB%98%E6%96%B0%E6%8A%80%E8%A1%93%E6%8A%95%E8%B3%87%E9%99%90%E5%88%B6-%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E5%81%9C%E6%AD%A2%E5%B0%87%E7%B6%93%E8%B2%BF%E6%AD%A6%E5%99%A8%E5%8C%96",
     "timestamp": "2026-10-24T15:36:09.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網紅搭機拒換走道位　惹鄰座人妻爆哭3小時　丈夫前排戴耳機熟睡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189989948569161728126834.jpeg/Dami-f8Jv39BLl26_AavwF6SsAQlCrJQbCQvvWwkL70?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402456/%E7%B6%B2%E7%B4%85%E6%90%AD%E6%A9%9F%E6%8B%92%E6%8F%9B%E8%B5%B0%E9%81%93%E4%BD%8D-%E6%83%B9%E9%84%B0%E5%BA%A7%E4%BA%BA%E5%A6%BB%E7%88%86%E5%93%AD3%E5%B0%8F%E6%99%82-%E4%B8%88%E5%A4%AB%E5%89%8D%E6%8E%92%E6%88%B4%E8%80%B3%E6%A9%9F%E7%86%9F%E7%9D%A1",
-    "timestamp": "2026-10-24T15:18:11.739Z",
     "strategy": ".content-card__main"
   }
 ];
