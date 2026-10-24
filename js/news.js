@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T14:31:30.671Z
+// Last updated: 2026-10-24T14:53:41.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《小城良方》與韓版《Doctor X》齊陷醫學漏洞！醫療劇專業性惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190635734256586752563184.png/4nGQ-jkH2snYfjeAaCEc8eirqUXwhA3G8w4i4_MOIuM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403130/%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9-%E8%88%87%E9%9F%93%E7%89%88-doctor-x-%E9%BD%8A%E9%99%B7%E9%86%AB%E5%AD%B8%E6%BC%8F%E6%B4%9E-%E9%86%AB%E7%99%82%E5%8A%87%E5%B0%88%E6%A5%AD%E6%80%A7%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-10-24T14:53:41.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "告別平治別克　深圳APEC國賓車換國產　紅旗比亞迪交付近1400輛車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190691560119865344869423.png/YpfmEQTal3sOFk90FW-IJGIAlLuYrVHNKFfonihX6J4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403139/%E5%85%AC%E5%B1%8B%E7%94%B7%E5%98%86%E7%88%B6%E6%8B%92%E6%8F%9B%E5%B1%85%E5%B1%8B-%E5%A4%A7%E5%AD%B8%E6%83%B3%E6%8E%92%E5%85%AC%E5%B1%8B%E7%88%B6-%E8%AB%97%E9%83%BD%E5%94%94%E5%A5%BD%E8%AB%97-%E9%8C%AF%E5%A4%B1%E5%95%9F%E5%BE%B7%E6%A8%93%E7%8E%8B",
     "timestamp": "2026-10-24T09:19:35.012Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國新一輪示威前夕　商舖紛紛加裝圍板　名店增派保安防搶劫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190699963907051520569804.jpeg/ZQvnzu6vWPD_qRFvX2qwVDpmS4Y92ecqlVyqm5Vcqps?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403201/%E6%B3%95%E5%9C%8B%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A4%BA%E5%A8%81%E5%89%8D%E5%A4%95-%E5%95%86%E8%88%96%E7%B4%9B%E7%B4%9B%E5%8A%A0%E8%A3%9D%E5%9C%8D%E6%9D%BF-%E5%90%8D%E5%BA%97%E5%A2%9E%E6%B4%BE%E4%BF%9D%E5%AE%89%E9%98%B2%E6%90%B6%E5%8A%AB",
-    "timestamp": "2026-10-24T08:57:14.498Z",
     "strategy": ".content-card__main"
   }
 ];
