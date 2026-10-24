@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T22:55:45.594Z
+// Last updated: 2026-10-24T23:16:36.642Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "奧巴馬狠批特朗普腐敗沉迷裝修白宮　像薩達姆開連鎖餐廳｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190916787458281472012659.jpeg/hqwAW-lrS3QLItcKbrxY31uAjJta2q9KegbwEnoG8BI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403292/%E5%A5%A7%E5%B7%B4%E9%A6%AC%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E8%85%90%E6%95%97%E6%B2%89%E8%BF%B7%E8%A3%9D%E4%BF%AE%E7%99%BD%E5%AE%AE-%E5%83%8F%E8%96%A9%E9%81%94%E5%A7%86%E9%96%8B%E9%80%A3%E9%8E%96%E9%A4%90%E5%BB%B3-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-24T23:16:36.642Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國示威工會稱80萬人上街近千人被捕　巴黎催淚彈水炮齊發｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
     "timestamp": "2026-10-24T17:29:23.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉獨立性格的養成：小學一年級就要自己留家做功課",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190681290223915008637021.jpeg/kfVWCNrMt-7c5J7aJpyOLb_hzTd83sN51347kNd-O5A",
-    "url": "https://www.hk01.com/01TV/60403181/%E8%BB%8A%E5%A9%89%E5%A9%89%E7%8D%A8%E7%AB%8B%E6%80%A7%E6%A0%BC%E7%9A%84%E9%A4%8A%E6%88%90-%E5%B0%8F%E5%AD%B8%E4%B8%80%E5%B9%B4%E7%B4%9A%E5%B0%B1%E8%A6%81%E8%87%AA%E5%B7%B1%E7%95%99%E5%AE%B6%E5%81%9A%E5%8A%9F%E8%AA%B2",
-    "timestamp": "2026-10-24T17:17:29.036Z",
     "strategy": ".content-card__main"
   }
 ];
