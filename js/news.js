@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T05:18:58.236Z
+// Last updated: 2026-10-24T05:34:14.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寧波00後帥哥擺攤賣雞飯爆紅　還帶旺周邊夜市　女友親揭神級營銷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190340772210151424165740.jpeg/v-rherwSUL5NXh-j_EgwWo42Xwqtunhm4LFtmuCxbZo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402928/%E5%AF%A7%E6%B3%A200%E5%BE%8C%E5%B8%A5%E5%93%A5%E6%93%BA%E6%94%A4%E8%B3%A3%E9%9B%9E%E9%A3%AF%E7%88%86%E7%B4%85-%E9%82%84%E5%B8%B6%E6%97%BA%E5%91%A8%E9%82%8A%E5%A4%9C%E5%B8%82-%E5%A5%B3%E5%8F%8B%E8%A6%AA%E6%8F%AD%E7%A5%9E%E7%B4%9A%E7%87%9F%E9%8A%B7",
+    "timestamp": "2026-10-24T05:34:14.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "威廉王子驚喜現身BBC節目　自爆曾有意當DJ",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
     "timestamp": "2026-10-23T20:55:09.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普先發制人　因候選人撞名提前入稟阻阿拉斯加認證民主黨勝選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
-    "timestamp": "2026-10-23T20:45:07.741Z",
     "strategy": ".content-card__main"
   }
 ];
