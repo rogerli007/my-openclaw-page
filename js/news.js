@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T22:32:31.430Z
+// Last updated: 2026-10-24T22:42:53.954Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國示威工會稱80萬人參加近千人被捕　巴黎催淚彈水炮齊發｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190909623683518464017456.jpeg/FdnxmBcR4TOTCJBQFHnUF2pfVYciM7b2ax2bT2sdm08?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403291/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E5%B7%A5%E6%9C%83%E7%A8%B180%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0%E8%BF%91%E5%8D%83%E4%BA%BA%E8%A2%AB%E6%8D%95-%E5%B7%B4%E9%BB%8E%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%BD%8A%E7%99%BC-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-24T22:42:53.954Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國示威工會稱80萬人參加近千人被捕　巴黎催淚彈水炮齊發｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
     "timestamp": "2026-10-24T16:56:13.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026英雄聯盟｜最新賽程賽果時間表+免費直播連結懶人包",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
-    "timestamp": "2026-10-24T16:34:06.470Z",
     "strategy": ".content-card__main"
   }
 ];
