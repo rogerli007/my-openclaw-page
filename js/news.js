@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T02:50:02.583Z
+// Last updated: 2026-10-24T03:21:52.228Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港如何破解深層次矛盾？　鄧中華促破除利益藩籬　完善民生共享",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190621372640923648157293.jpeg/utQN1jyVqb4mEfEVSSopNenutuMoCjKIA10abQNdGm0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60403121/%E9%A6%99%E6%B8%AF%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E6%B7%B1%E5%B1%A4%E6%AC%A1%E7%9F%9B%E7%9B%BE-%E9%84%A7%E4%B8%AD%E8%8F%AF%E4%BF%83%E7%A0%B4%E9%99%A4%E5%88%A9%E7%9B%8A%E8%97%A9%E7%B1%AC-%E5%AE%8C%E5%96%84%E6%B0%91%E7%94%9F%E5%85%B1%E4%BA%AB",
+    "timestamp": "2026-10-24T03:21:52.228Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo搶現貨不用等到2027？澳門排隊／iReserve執漏風險拆解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190490470745116672975308.jpeg/zkqW7fKdU_8K5IJEglLW8a7keJWuIZHdrjOExa4zhMU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403088/%E7%B4%84%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B82%E5%B7%B4%E4%BA%BA%E6%A7%8D%E6%93%8A%E5%93%A8%E7%AB%99%E4%BB%A5%E8%BB%8D2%E6%AD%BB-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8B%E4%BB%A4%E5%85%A8%E9%9D%A2%E5%B0%81%E9%8E%96%E8%A5%BF%E5%B2%B8",
     "timestamp": "2026-10-23T19:53:36.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "約旦河西岸2巴人槍擊哨站以軍2死　內塔尼亞胡下令全面封鎖西岸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190490470745116672975308.jpeg/zkqW7fKdU_8K5IJEglLW8a7keJWuIZHdrjOExa4zhMU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403088/%E7%B4%84%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B82%E5%B7%B4%E4%BA%BA%E6%A7%8D%E6%93%8A%E5%93%A8%E7%AB%99%E4%BB%A5%E8%BB%8D2%E6%AD%BB-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E4%B8%8B%E4%BB%A4%E5%85%A8%E9%9D%A2%E5%B0%81%E9%8E%96%E8%A5%BF%E5%B2%B8",
-    "timestamp": "2026-10-23T19:31:57.975Z",
     "strategy": ".content-card__main"
   }
 ];
