@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T11:41:56.577Z
+// Last updated: 2026-10-24T11:54:00.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "創新科技嘉年華2026|科技園展出國家航天項目 沉浸式太空探索體驗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190746567855181824549812.jpeg/x7ZC1qOb4HfqvZR1IgPEcv9yjlzBXOIYRXCFv0Vwhb8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60403233/%E5%89%B5%E6%96%B0%E7%A7%91%E6%8A%80%E5%98%89%E5%B9%B4%E8%8F%AF2026-%E7%A7%91%E6%8A%80%E5%9C%92%E5%B1%95%E5%87%BA%E5%9C%8B%E5%AE%B6%E8%88%AA%E5%A4%A9%E9%A0%85%E7%9B%AE-%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2%E9%AB%94%E9%A9%97",
+    "timestamp": "2026-10-24T11:54:00.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正《李寶安》下周一首播　TVB急召《愛回家》三太KC變裝迎擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190628188577861632476039.png/nUvGZ0e0q2HjYJkhVRByFnCg1SuHqN1HTxlhHU8ZYR0?v=w1920",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60403129/%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%ABbbc%E7%AF%80%E7%9B%AE-%E8%87%AA%E7%88%86%E6%9B%BE%E6%9C%89%E6%84%8F%E7%95%B6dj",
     "timestamp": "2026-10-24T05:18:58.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重現香港失落摩登大宅！九十後建築師做30個模型 上環展出豪宅史",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190643566649544704317428.jpeg/hDghHWMRHX0WSLNXh88hVLbp_IMdxQ_AB0-dPgdPnT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60402913/%E9%87%8D%E7%8F%BE%E9%A6%99%E6%B8%AF%E5%A4%B1%E8%90%BD%E6%91%A9%E7%99%BB%E5%A4%A7%E5%AE%85-%E4%B9%9D%E5%8D%81%E5%BE%8C%E5%BB%BA%E7%AF%89%E5%B8%AB%E5%81%9A30%E5%80%8B%E6%A8%A1%E5%9E%8B-%E4%B8%8A%E7%92%B0%E5%B1%95%E5%87%BA%E8%B1%AA%E5%AE%85%E5%8F%B2",
-    "timestamp": "2026-10-24T04:52:06.442Z",
     "strategy": ".content-card__main"
   }
 ];
