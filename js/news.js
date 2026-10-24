@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T01:14:02.604Z
+// Last updated: 2026-10-24T02:02:15.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "3星座變有錢人全靠自己累積財富　處女精打細算　山羊宜長線投資",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260909/1174418007825321984194023.jpeg/zv_v1S00Ph1huus_QCqvf9To7PG53jCiCdO8mQnTvJk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60300927/3%E6%98%9F%E5%BA%A7%E8%AE%8A%E6%9C%89%E9%8C%A2%E4%BA%BA%E5%85%A8%E9%9D%A0%E8%87%AA%E5%B7%B1%E7%B4%AF%E7%A9%8D%E8%B2%A1%E5%AF%8C-%E8%99%95%E5%A5%B3%E7%B2%BE%E6%89%93%E7%B4%B0%E7%AE%97-%E5%B1%B1%E7%BE%8A%E5%AE%9C%E9%95%B7%E7%B7%9A%E6%8A%95%E8%B3%87",
+    "timestamp": "2026-10-24T02:02:15.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台海有戰事｜澤連斯基是菲律賓、台灣最好的老師",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190482470382866432295786.jpeg/bVJ5ONtXg_x6eGUvtGY6g6ehQMmNWSITxEm5csRJuXI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403087/%E6%96%B0%E5%A1%AB%E5%9C%B0%E8%A1%97%E5%96%AE%E4%BD%8D%E6%B7%AA%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E8%AD%A6%E6%8B%9810%E4%BA%BA-%E5%8C%85%E6%8B%AC%E4%B8%BB%E6%8C%81%E5%92%8C9%E8%B3%AD%E5%AE%A2",
     "timestamp": "2026-10-23T18:49:06.060Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LV中環「篋牆」旗艦店對開　兩地牌寶馬違例左轉擬駛走阻路｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190465767796117504389246.jpeg/Lavf3Xlwjy1V5NbWu44Zj8Vv37EU4Y_6c0GIcXNBiHE",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403083/lv%E4%B8%AD%E7%92%B0-%E7%AF%8B%E7%89%86-%E6%97%97%E8%89%A6%E5%BA%97%E5%B0%8D%E9%96%8B-%E5%85%A9%E5%9C%B0%E7%89%8C%E5%AF%B6%E9%A6%AC%E9%81%95%E4%BE%8B%E5%B7%A6%E8%BD%89%E6%93%AC%E9%A7%9B%E8%B5%B0%E9%98%BB%E8%B7%AF-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-23T17:54:32.715Z",
     "strategy": ".content-card__main"
   }
 ];
