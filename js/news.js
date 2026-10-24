@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T04:52:06.442Z
+// Last updated: 2026-10-24T05:18:58.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "威廉王子驚喜現身BBC節目　自爆曾有意當DJ",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190628188577861632476039.png/nUvGZ0e0q2HjYJkhVRByFnCg1SuHqN1HTxlhHU8ZYR0?v=w1920",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60403129/%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%ABbbc%E7%AF%80%E7%9B%AE-%E8%87%AA%E7%88%86%E6%9B%BE%E6%9C%89%E6%84%8F%E7%95%B6dj",
+    "timestamp": "2026-10-24T05:18:58.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重現香港失落摩登大宅！九十後建築師做30個模型 上環展出豪宅史",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
     "timestamp": "2026-10-23T20:45:07.741Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普先發制人　因候選人撞名提前入稟阻阿拉斯加認證民主黨勝選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190504320005574656063427.jpeg/z8vIJcyKWnyPXE-DNff9Pr8xR_K0pz5FkrRK85K0SvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403089/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%99%BC%E5%88%B6%E4%BA%BA-%E5%9B%A0%E5%80%99%E9%81%B8%E4%BA%BA%E6%92%9E%E5%90%8D%E6%8F%90%E5%89%8D%E5%85%A5%E7%A8%9F%E9%98%BB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%AA%8D%E8%AD%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8B%9D%E9%81%B8",
-    "timestamp": "2026-10-23T20:20:28.222Z",
     "strategy": ".content-card__main"
   }
 ];
