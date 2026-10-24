@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T06:55:24.819Z
+// Last updated: 2026-10-24T07:51:28.594Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肯尼亞首都10多層高施工大樓突倒塌7人失蹤　工人驚險逃難｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190688490736586752501723.jpeg/xhxgHShRQDpIeojT4VWHxBtsikQ1Idi4DmjHgA5ox4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403165/%E8%82%AF%E5%B0%BC%E4%BA%9E%E9%A6%96%E9%83%BD10%E5%A4%9A%E5%B1%A4%E9%AB%98%E6%96%BD%E5%B7%A5%E5%A4%A7%E6%A8%93%E7%AA%81%E5%80%92%E5%A1%8C7%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E5%B7%A5%E4%BA%BA%E9%A9%9A%E9%9A%AA%E9%80%83%E9%9B%A3-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-24T07:51:28.594Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坪洲鐵皮屋疑電線短路起火　消防到場救熄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190536962860126208910248.jpeg/sSg3s052MG_mCu5mudiUW50O1OYN4oDXEXVrJxF1ayc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403091/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E9%83%A8%E4%BB%BD%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%95%86%E5%93%8150-%E9%97%9C%E7%A8%85-%E7%96%91%E7%82%BA%E5%85%B1%E5%92%8C%E9%BB%A8%E7%B7%AC%E5%9B%A0%E5%B7%9E%E5%8F%83%E8%AD%B0%E5%93%A1%E5%8A%A9%E9%81%B8",
     "timestamp": "2026-10-23T21:54:35.118Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普取消部份加拿大商品50%關稅　疑為共和黨緬因州參議員助選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190536962860126208910248.jpeg/sSg3s052MG_mCu5mudiUW50O1OYN4oDXEXVrJxF1ayc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403091/%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E9%83%A8%E4%BB%BD%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%95%86%E5%93%8150-%E9%97%9C%E7%A8%85-%E7%96%91%E7%82%BA%E5%85%B1%E5%92%8C%E9%BB%A8%E7%B7%AC%E5%9B%A0%E5%B7%9E%E5%8F%83%E8%AD%B0%E5%93%A1%E5%8A%A9%E9%81%B8",
-    "timestamp": "2026-10-23T21:44:47.632Z",
     "strategy": ".content-card__main"
   }
 ];
