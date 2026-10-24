@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T11:29:56.867Z
+// Last updated: 2026-10-24T11:41:56.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正《李寶安》下周一首播　TVB急召《愛回家》三太KC變裝迎擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190736816475475968198427.png/y0pu_5PgeNF_48gb52_yGGASFHRvqSEn3kadE95GnRM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403258/%E6%9D%8E%E5%B0%9A%E6%AD%A3-%E6%9D%8E%E5%AF%B6%E5%AE%89-%E4%B8%8B%E5%91%A8%E4%B8%80%E9%A6%96%E6%92%AD-tvb%E6%80%A5%E5%8F%AC-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E4%B8%89%E5%A4%AAkc%E8%AE%8A%E8%A3%9D%E8%BF%8E%E6%93%8A",
+    "timestamp": "2026-10-24T11:41:56.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李克勤19歲大仔李立仁暴風成長　撞樣李治廷甜蜜放閃疑洩蜜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190643566649544704317428.jpeg/hDghHWMRHX0WSLNXh88hVLbp_IMdxQ_AB0-dPgdPnT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60402913/%E9%87%8D%E7%8F%BE%E9%A6%99%E6%B8%AF%E5%A4%B1%E8%90%BD%E6%91%A9%E7%99%BB%E5%A4%A7%E5%AE%85-%E4%B9%9D%E5%8D%81%E5%BE%8C%E5%BB%BA%E7%AF%89%E5%B8%AB%E5%81%9A30%E5%80%8B%E6%A8%A1%E5%9E%8B-%E4%B8%8A%E7%92%B0%E5%B1%95%E5%87%BA%E8%B1%AA%E5%AE%85%E5%8F%B2",
     "timestamp": "2026-10-24T04:52:06.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港如何破解深層次矛盾？　鄧中華促破除利益藩籬　完善民生共享",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190621372640923648157293.jpeg/utQN1jyVqb4mEfEVSSopNenutuMoCjKIA10abQNdGm0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60403121/%E9%A6%99%E6%B8%AF%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E6%B7%B1%E5%B1%A4%E6%AC%A1%E7%9F%9B%E7%9B%BE-%E9%84%A7%E4%B8%AD%E8%8F%AF%E4%BF%83%E7%A0%B4%E9%99%A4%E5%88%A9%E7%9B%8A%E8%97%A9%E7%B1%AC-%E5%AE%8C%E5%96%84%E6%B0%91%E7%94%9F%E5%85%B1%E4%BA%AB",
-    "timestamp": "2026-10-24T03:21:52.228Z",
     "strategy": ".content-card__main"
   }
 ];
