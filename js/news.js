@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T03:54:58.242Z
+// Last updated: 2026-10-25T04:21:42.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴士加價｜陳健波倡仿「鐵路加物業」模式幫補　或批地賺充電收入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190999657006764032105762.png/2sBE2OTCYzrVW-j_u29QQuD_coM9l4Ej_i2ktv4tpLY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60403326/%E5%B7%B4%E5%A3%AB%E5%8A%A0%E5%83%B9-%E9%99%B3%E5%81%A5%E6%B3%A2%E5%80%A1%E4%BB%BF-%E9%90%B5%E8%B7%AF%E5%8A%A0%E7%89%A9%E6%A5%AD-%E6%A8%A1%E5%BC%8F%E5%B9%AB%E8%A3%9C-%E6%88%96%E6%89%B9%E5%9C%B0%E8%B3%BA%E5%85%85%E9%9B%BB%E6%94%B6%E5%85%A5",
+    "timestamp": "2026-10-25T04:21:42.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "引進辦首六批企業投資283億元　陳茂波：聘逾1萬人較預期多34%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190684616143409152370685.jpeg/Nc2SpofkloXVCjcCyOTSfSJsQ74udWjQRPFdtkTxXbY",
     "url": "https://www.hk01.com/01TV/60403188/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%88%87%E5%8F%A4%E5%A4%A9%E6%A8%82%E7%AD%89%E4%B8%80%E7%9C%BE%E6%96%B0%E4%BA%BA%E5%8A%A0%E5%85%A5%E8%A8%93%E7%B7%B4%E7%8F%AD-%E7%8D%B2%E9%AB%98%E5%B1%A4%E6%9C%89%E6%84%8F%E5%9F%B9%E9%A4%8A",
     "timestamp": "2026-10-24T20:18:15.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基稱不會為結束戰事放棄更多領土　星鏈已恢復正常速度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190861607933054976815794.jpeg/CF-HDBnuAKdsO-bmz6SA9QWZr4yn88jUsvnwfLL58Hw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403286/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E4%B8%8D%E6%9C%83%E7%82%BA%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B%E6%94%BE%E6%A3%84%E6%9B%B4%E5%A4%9A%E9%A0%98%E5%9C%9F-%E6%98%9F%E9%8F%88%E5%B7%B2%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E9%80%9F%E5%BA%A6",
-    "timestamp": "2026-10-24T19:53:48.362Z",
     "strategy": ".content-card__main"
   }
 ];
