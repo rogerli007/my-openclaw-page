@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T14:31:53.501Z
+// Last updated: 2026-10-25T14:44:18.866Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳卓羲否認教人爆粗笑稱「你唔講粗口㗎？」　張曦雯拒絕只生不婚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191153188632268800794312.jpeg/dE4Ie8xGz2mGFBP-cV4bxOngDzRam5m7XRpN7F0aTew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403447/%E5%90%B3%E5%8D%93%E7%BE%B2%E5%90%A6%E8%AA%8D%E6%95%99%E4%BA%BA%E7%88%86%E7%B2%97%E7%AC%91%E7%A8%B1-%E4%BD%A0%E5%94%94%E8%AC%9B%E7%B2%97%E5%8F%A3%E3%97%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8B%92%E7%B5%95%E5%8F%AA%E7%94%9F%E4%B8%8D%E5%A9%9A",
+    "timestamp": "2026-10-25T14:44:18.866Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地廟街單位失火冒煙　消防開喉撲熄　初步疑涉煮食爐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190887080155156480684205.jpeg/3KXNFWpPhamtZU_hocppwNwVvIn70-GJ9nQ78vZ0O_I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60403094/%E5%A7%9A%E7%91%A9%E7%91%A915%E6%AD%B2%E4%BB%94%E8%BA%AB%E9%AB%98%E7%9B%B4%E9%80%BC%E7%B1%B3%E4%B8%83%E5%AA%BD%E5%AA%BD-%E6%9B%BE%E6%82%A3%E7%BD%95%E8%A6%8B%E7%97%85%E8%AE%8A%E6%B8%B8%E6%B3%B3%E5%81%A5%E5%B0%87%E8%AE%80%E6%98%9F%E7%B4%9A%E5%90%8D%E6%A0%A1",
     "timestamp": "2026-10-25T07:54:39.253Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沈大師沈振盈離世｜避險先知定燈神？網民評價兩極　紛紛留言哀悼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191042038611578880912570.jpeg/7nOwwZpxhUUSe2_--N16yc-7I_jGtzsjDoHg_A6B4Pw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403342/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E9%81%BF%E9%9A%AA%E5%85%88%E7%9F%A5%E5%AE%9A%E7%87%88%E7%A5%9E-%E7%B6%B2%E6%B0%91%E8%A9%95%E5%83%B9%E5%85%A9%E6%A5%B5-%E7%B4%9B%E7%B4%9B%E7%95%99%E8%A8%80%E5%93%80%E6%82%BC",
-    "timestamp": "2026-10-25T07:49:36.519Z",
     "strategy": ".content-card__main"
   }
 ];
