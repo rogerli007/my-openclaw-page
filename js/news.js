@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T06:00:13.062Z
+// Last updated: 2026-10-25T06:29:08.834Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國更新13個中東國家旅遊警示　指胡塞襲擊風險增加　衝突或擴散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163718944993841152176258.jpeg/vinf0SEbws6PFbMeyFQ_QhrK455CVL1oZ1dW8mdXVvI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403348/%E7%BE%8E%E5%9C%8B%E6%9B%B4%E6%96%B013%E5%80%8B%E4%B8%AD%E6%9D%B1%E5%9C%8B%E5%AE%B6%E6%97%85%E9%81%8A%E8%AD%A6%E7%A4%BA-%E6%8C%87%E8%83%A1%E5%A1%9E%E8%A5%B2%E6%93%8A%E9%A2%A8%E9%9A%AA%E5%A2%9E%E5%8A%A0-%E8%A1%9D%E7%AA%81%E6%88%96%E6%93%B4%E6%95%A3",
+    "timestamp": "2026-10-25T06:29:08.834Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沈大師離世｜沈振盈離世享年65歲　近日暈倒送院、周五仍有做節目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190783685134127104794028.png/5WtOST9rQz8Pbt8kENNHBSVA4wBCe1_1YYRAHmGEQB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393669/%E7%A7%BB%E6%B0%91%E9%96%8B%E5%B0%8F%E9%A4%90%E9%A4%A8%E5%89%B5%E6%A5%AD%E5%A4%A2%E4%B8%8D%E5%86%8D-%E5%95%9F%E5%8B%95%E8%B3%87%E9%87%91%E4%B8%AD%E4%BD%8D%E6%95%B8300%E8%90%AC%E6%B8%AF%E5%85%83-%E9%A6%96%E5%B9%B4%E5%A4%9A%E8%9D%95%E6%9C%AC",
     "timestamp": "2026-10-24T22:17:31.191Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國示威｜巴黎羅浮宮等多個博物館關閉　遊客大嘆摸門釘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190883250151624704840597.jpeg/dGtYjEIHGLxTmQPT9TshkEsYH1FPx1-7X-61sl_utbI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403288/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E5%B7%B4%E9%BB%8E%E7%BE%85%E6%B5%AE%E5%AE%AE%E7%AD%89%E5%A4%9A%E5%80%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%97%9C%E9%96%89-%E9%81%8A%E5%AE%A2%E5%A4%A7%E5%98%86%E6%91%B8%E9%96%80%E9%87%98",
-    "timestamp": "2026-10-24T21:54:34.275Z",
     "strategy": ".content-card__main"
   }
 ];
