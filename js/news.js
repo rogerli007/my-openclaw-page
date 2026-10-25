@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T02:50:23.288Z
+// Last updated: 2026-10-25T03:23:35.702Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普左臉驚現大片瘀青　發文嘆「生病的人只求康復」引遐想",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190972518580621312567208.jpeg/i0MhrceqkIYohYFpWSWo6rUBUwpm4dnxmr2U3Jq9lNw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403301/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%A6%E8%87%89%E9%A9%9A%E7%8F%BE%E5%A4%A7%E7%89%87%E7%98%80%E9%9D%92-%E7%99%BC%E6%96%87%E5%98%86-%E7%94%9F%E7%97%85%E7%9A%84%E4%BA%BA%E5%8F%AA%E6%B1%82%E5%BA%B7%E5%BE%A9-%E5%BC%95%E9%81%90%E6%83%B3",
+    "timestamp": "2026-10-25T03:23:35.702Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本小笠原群島地區海域發生7級地震　沒有海嘯風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190683618322681856409285.jpeg/J-j9tM2ikdbXX9zEY42-Utt_PLgNW95HSuQ8sErkPLA",
     "url": "https://www.hk01.com/01TV/60403187/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%BC%91%E5%AD%B8%E5%85%A5%E8%A1%8C%E8%AA%AA%E6%9C%8D%E6%AF%8D%E8%A6%AA-%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%E7%B8%BD%E7%B6%93%E7%90%86%E6%89%BF%E8%AB%BE%E4%B8%80%E5%B9%B4%E5%85%A7%E5%87%BA%E7%A2%9F",
     "timestamp": "2026-10-24T19:46:20.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉休學入行說服母親 唱片公司總經理承諾一年內出碟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190683618322681856409285.jpeg/J-j9tM2ikdbXX9zEY42-Utt_PLgNW95HSuQ8sErkPLA",
-    "url": "https://www.hk01.com/01TV/60403187/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%BC%91%E5%AD%B8%E5%85%A5%E8%A1%8C%E8%AA%AA%E6%9C%8D%E6%AF%8D%E8%A6%AA-%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%E7%B8%BD%E7%B6%93%E7%90%86%E6%89%BF%E8%AB%BE%E4%B8%80%E5%B9%B4%E5%85%A7%E5%87%BA%E7%A2%9F",
-    "timestamp": "2026-10-24T19:18:20.279Z",
     "strategy": ".content-card__main"
   }
 ];
