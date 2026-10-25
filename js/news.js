@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T22:41:49.639Z
+// Last updated: 2026-10-25T22:55:09.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致天晴　日間最高約30度　未來一兩日風勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191275515420348416879205.jpeg/_BhtiMm0XK6w5cQoQAgWQuRidhcLQoMGTETjU0xE41M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60403462/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E9%A2%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-10-25T22:55:09.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致天晴　日間最高約30度　未來一兩日風勢較大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260105/1084908853058867200743591.jpeg/EEntpXLZfgAIXatqG9EQQHCevf6mOdTruoYb6rqGG-o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60309907/%E7%9D%A1%E5%BE%97%E5%BF%AB%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%A5%BD%E4%B8%96%E7%95%8C-%E5%80%92%E9%A0%AD%E5%B0%B1%E7%9D%A1-%E6%88%96%E6%98%AF%E5%81%A5%E5%BA%B7%E8%AD%A6%E8%99%9F-%E5%8F%AF%E8%87%B4%E8%A8%98%E6%86%B6%E5%8A%9B%E4%B8%8B%E9%99%8D",
     "timestamp": "2026-10-25T15:59:05.977Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沈大師沈振盈離世｜股評人莫灝楠憶述一次直播中爭吵　前輩竟認錯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191161447040684032931746.jpeg/ksGoSPUjqZxW1xyR01zXffwd-r1ZREb3zzC3x88wt8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403446/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E8%82%A1%E8%A9%95%E4%BA%BA%E8%8E%AB%E7%81%9D%E6%A5%A0%E6%86%B6%E8%BF%B0%E4%B8%80%E6%AC%A1%E7%9B%B4%E6%92%AD%E4%B8%AD%E7%88%AD%E5%90%B5-%E5%89%8D%E8%BC%A9%E7%AB%9F%E8%AA%8D%E9%8C%AF",
-    "timestamp": "2026-10-25T15:31:34.774Z",
     "strategy": ".content-card__main"
   }
 ];
