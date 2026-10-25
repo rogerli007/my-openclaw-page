@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T09:34:36.774Z
+// Last updated: 2026-10-25T09:56:19.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傅穎自曝18歲後首次講粗口全身打冷震 被質疑太假：屋企冇人講",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190120040658112512075186.jpeg/7CdchzXm1HsbpUdGur5_sxc7Nz3bGfPL4VIuqOFSLqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402682/%E5%82%85%E7%A9%8E%E8%87%AA%E6%9B%9D18%E6%AD%B2%E5%BE%8C%E9%A6%96%E6%AC%A1%E8%AC%9B%E7%B2%97%E5%8F%A3%E5%85%A8%E8%BA%AB%E6%89%93%E5%86%B7%E9%9C%87-%E8%A2%AB%E8%B3%AA%E7%96%91%E5%A4%AA%E5%81%87-%E5%B1%8B%E4%BC%81%E5%86%87%E4%BA%BA%E8%AC%9B",
+    "timestamp": "2026-10-25T09:56:19.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡思貝大圍街拍助手企出馬路惹禍！　被網民狠批不顧他人安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190976561512189952436190.png/Hb3s3kCca3iZupB-Iau10kmOuAR18UVeZZGIu2WRiLs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403309/%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%AC%A0%E5%8E%9F%E7%BE%A4%E5%B3%B6%E5%9C%B0%E5%8D%80%E6%B5%B7%E5%9F%9F%E7%99%BC%E7%94%9F7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%B2%92%E6%9C%89%E6%B5%B7%E5%98%AF%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-10-25T02:50:23.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "強積金12.21首階段「全自由行」　100萬人可轉全數權益到自選計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135606293763985408017592.jpeg/RL6F4Pu-NOpY3uLfUn_y6KgJa9q2XbJVwwasHMMGrBw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403306/%E5%BC%B7%E7%A9%8D%E9%87%9112-21%E9%A6%96%E9%9A%8E%E6%AE%B5-%E5%85%A8%E8%87%AA%E7%94%B1%E8%A1%8C-100%E8%90%AC%E4%BA%BA%E5%8F%AF%E8%BD%89%E5%85%A8%E6%95%B8%E6%AC%8A%E7%9B%8A%E5%88%B0%E8%87%AA%E9%81%B8%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-10-25T02:30:42.447Z",
     "strategy": ".content-card__main"
   }
 ];
