@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T02:30:42.447Z
+// Last updated: 2026-10-25T02:50:23.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本小笠原群島地區海域發生7級地震　沒有海嘯風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190976561512189952436190.png/Hb3s3kCca3iZupB-Iau10kmOuAR18UVeZZGIu2WRiLs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403309/%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%AC%A0%E5%8E%9F%E7%BE%A4%E5%B3%B6%E5%9C%B0%E5%8D%80%E6%B5%B7%E5%9F%9F%E7%99%BC%E7%94%9F7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%B2%92%E6%9C%89%E6%B5%B7%E5%98%AF%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-10-25T02:50:23.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "強積金12.21首階段「全自由行」　100萬人可轉全數權益到自選計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190683618322681856409285.jpeg/J-j9tM2ikdbXX9zEY42-Utt_PLgNW95HSuQ8sErkPLA",
     "url": "https://www.hk01.com/01TV/60403187/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%BC%91%E5%AD%B8%E5%85%A5%E8%A1%8C%E8%AA%AA%E6%9C%8D%E6%AF%8D%E8%A6%AA-%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%E7%B8%BD%E7%B6%93%E7%90%86%E6%89%BF%E8%AB%BE%E4%B8%80%E5%B9%B4%E5%85%A7%E5%87%BA%E7%A2%9F",
     "timestamp": "2026-10-24T19:18:20.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啟德演唱會撞萬聖節　皇崗新田公路塞爆　旺角通宵車現人龍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190856625624190976648159.jpeg/DOAbpQEofRrY01oa46x-AD1r5Q5OzFtwTU1wzU1NcM0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403283/%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83%E6%92%9E%E8%90%AC%E8%81%96%E7%AF%80-%E7%9A%87%E5%B4%97%E6%96%B0%E7%94%B0%E5%85%AC%E8%B7%AF%E5%A1%9E%E7%88%86-%E6%97%BA%E8%A7%92%E9%80%9A%E5%AE%B5%E8%BB%8A%E7%8F%BE%E4%BA%BA%E9%BE%8D",
-    "timestamp": "2026-10-24T18:47:23.227Z",
     "strategy": ".content-card__main"
   }
 ];
