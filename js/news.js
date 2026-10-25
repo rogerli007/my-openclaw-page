@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T21:16:53.120Z
+// Last updated: 2026-10-25T21:42:45.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "塞爾維亞國會選舉｜投票率約70%創新高　武契奇承認敗於學生名單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191258265585979392329716.jpeg/9Djy-1kqs8s2yuDPxk8yzd3Me6V86rgYHPinyBz4p8g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403474/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89-%E6%8A%95%E7%A5%A8%E7%8E%87%E7%B4%8470-%E5%89%B5%E6%96%B0%E9%AB%98-%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AA%8D%E6%95%97%E6%96%BC%E5%AD%B8%E7%94%9F%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-10-25T21:42:45.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜屯門公路私家車逆線行車　事主險被撞急煞　發帖尋車牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191150243090010112675281.jpeg/AtgGlV0ae1Vz92aj-AKi-kL_lDH5RgKLjJwMcKmcDHA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403445/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BB%9F%E8%A1%97%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E6%92%B2%E7%86%84-%E5%88%9D%E6%AD%A5%E7%96%91%E6%B6%89%E7%85%AE%E9%A3%9F%E7%88%90",
     "timestamp": "2026-10-25T14:31:53.501Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "強迫孩子吃光飯餸怕浪費？或令孩子忽略飽腹感長遠增飲食失調風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186460365110644736431985.jpeg/iv-MfgT_aQgbRNu_Aiw-L5mkMv8yA1YnENhPIhDYTyI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60397374/%E5%BC%B7%E8%BF%AB%E5%AD%A9%E5%AD%90%E5%90%83%E5%85%89%E9%A3%AF%E9%A4%B8%E6%80%95%E6%B5%AA%E8%B2%BB-%E6%88%96%E4%BB%A4%E5%AD%A9%E5%AD%90%E5%BF%BD%E7%95%A5%E9%A3%BD%E8%85%B9%E6%84%9F%E9%95%B7%E9%81%A0%E5%A2%9E%E9%A3%B2%E9%A3%9F%E5%A4%B1%E8%AA%BF%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-10-25T14:18:00.333Z",
     "strategy": ".content-card__main"
   }
 ];
