@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T11:56:13.281Z
+// Last updated: 2026-10-25T12:28:34.285Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SEN小孩家長向港鐵索感官玩具遭質疑　職業治療師倡善用已有標識",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189272512597856256098752.jpeg/jMBNJPJJw92uf-2Sbj3TTTiMVG01YJSzvpFsTpuRbE4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403337/sen%E5%B0%8F%E5%AD%A9%E5%AE%B6%E9%95%B7%E5%90%91%E6%B8%AF%E9%90%B5%E7%B4%A2%E6%84%9F%E5%AE%98%E7%8E%A9%E5%85%B7%E9%81%AD%E8%B3%AA%E7%96%91-%E8%81%B7%E6%A5%AD%E6%B2%BB%E7%99%82%E5%B8%AB%E5%80%A1%E5%96%84%E7%94%A8%E5%B7%B2%E6%9C%89%E6%A8%99%E8%AD%98",
+    "timestamp": "2026-10-25T12:28:34.285Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神2｜方智弘獲兩大女神爭搶　梁超怡密集電眼狂撩搞到衣衫盡濕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191015028166496256327415.jpeg/QcBHsKXXLZp_D0sYwg30MOKBcKkBxPHb9uCgm9PgoJs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403339/%E6%B0%91%E5%AE%89%E9%9A%8A-%E6%94%80%E5%B1%B1%E4%BA%8B%E6%95%85%E6%95%B8%E5%AD%97%E6%8C%89%E5%B9%B4%E6%B8%9B%E4%B8%89%E6%88%90-%E6%83%9F%E5%A4%9A%E6%B6%89%E7%8D%A8%E8%87%AA%E8%A1%8C%E5%B1%B1-%E7%B1%B2%E5%8B%BF%E5%96%AE%E7%8D%A8%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-10-25T05:34:06.422Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨越17年圓夢　張雪挑戰電單車水上漂40公里創健力士世界紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191013773134008320562039.png/qM9rsIO6NcUA7bdvUge4hiPKZGb7NIssTV6amk1empo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403334/%E8%B7%A8%E8%B6%8A17%E5%B9%B4%E5%9C%93%E5%A4%A2-%E5%BC%B5%E9%9B%AA%E6%8C%91%E6%88%B0%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%B0%B4%E4%B8%8A%E6%BC%8240%E5%85%AC%E9%87%8C%E5%89%B5%E5%81%A5%E5%8A%9B%E5%A3%AB%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-10-25T05:23:04.445Z",
     "strategy": ".content-card__main"
   }
 ];
