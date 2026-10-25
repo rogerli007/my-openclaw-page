@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T05:49:28.220Z
+// Last updated: 2026-10-25T06:00:13.062Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈大師離世｜沈振盈離世享年65歲　近日暈倒送院、周五仍有做節目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2929537/org/8318fa1ab14d0ecf98fecf25461aafde.jpg/tV6ft_x0exhE2O6Nnhx-shDnLeI8ocIjROm5V0TpuVc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403341/%E6%B2%88%E5%A4%A7%E5%B8%AB%E9%9B%A2%E4%B8%96-%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B465%E6%AD%B2-%E8%BF%91%E6%97%A5%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2-%E5%91%A8%E4%BA%94%E4%BB%8D%E6%9C%89%E5%81%9A%E7%AF%80%E7%9B%AE",
+    "timestamp": "2026-10-25T06:00:13.062Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「沈大師」沈振盈離世享年65歲　朱凱婷驚聞訃訊難過：佢好親和",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190883250151624704840597.jpeg/dGtYjEIHGLxTmQPT9TshkEsYH1FPx1-7X-61sl_utbI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403288/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E5%B7%B4%E9%BB%8E%E7%BE%85%E6%B5%AE%E5%AE%AE%E7%AD%89%E5%A4%9A%E5%80%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%97%9C%E9%96%89-%E9%81%8A%E5%AE%A2%E5%A4%A7%E5%98%86%E6%91%B8%E9%96%80%E9%87%98",
     "timestamp": "2026-10-24T21:54:34.275Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國示威｜巴黎羅浮宮等多個博物館關閉　遊客大嘆摸門釘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190883250151624704840597.jpeg/dGtYjEIHGLxTmQPT9TshkEsYH1FPx1-7X-61sl_utbI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403288/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E5%B7%B4%E9%BB%8E%E7%BE%85%E6%B5%AE%E5%AE%AE%E7%AD%89%E5%A4%9A%E5%80%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%97%9C%E9%96%89-%E9%81%8A%E5%AE%A2%E5%A4%A7%E5%98%86%E6%91%B8%E9%96%80%E9%87%98",
-    "timestamp": "2026-10-24T21:43:09.366Z",
     "strategy": ".content-card__main"
   }
 ];
