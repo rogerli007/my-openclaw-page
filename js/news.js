@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T13:32:00.806Z
+// Last updated: 2026-10-25T13:44:17.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "A2O LITE中國成員Aijing被指態度惡劣　拍照疑推隊友爭C位畫面曝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191089177463099392073619.png/1a5mKirrOkXnC6ImjnmBbpUlSHbhIpSPNWdKyTVnSsk",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403399/a2o-lite%E4%B8%AD%E5%9C%8B%E6%88%90%E5%93%A1aijing%E8%A2%AB%E6%8C%87%E6%85%8B%E5%BA%A6%E6%83%A1%E5%8A%A3-%E6%8B%8D%E7%85%A7%E7%96%91%E6%8E%A8%E9%9A%8A%E5%8F%8B%E7%88%ADc%E4%BD%8D%E7%95%AB%E9%9D%A2%E6%9B%9D",
+    "timestamp": "2026-10-25T13:44:17.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞爾維亞舉行國會選舉　料選情激烈　投票率遠高以往",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163718944993841152176258.jpeg/vinf0SEbws6PFbMeyFQ_QhrK455CVL1oZ1dW8mdXVvI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403348/%E7%BE%8E%E5%9C%8B%E6%9B%B4%E6%96%B013%E5%80%8B%E4%B8%AD%E6%9D%B1%E5%9C%8B%E5%AE%B6%E6%97%85%E9%81%8A%E8%AD%A6%E7%A4%BA-%E6%8C%87%E8%83%A1%E5%A1%9E%E8%A5%B2%E6%93%8A%E9%A2%A8%E9%9A%AA%E5%A2%9E%E5%8A%A0-%E8%A1%9D%E7%AA%81%E6%88%96%E6%93%B4%E6%95%A3",
     "timestamp": "2026-10-25T06:29:08.834Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沈大師離世｜沈振盈離世享年65歲　近日暈倒送院、周五仍有做節目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2929537/org/8318fa1ab14d0ecf98fecf25461aafde.jpg/tV6ft_x0exhE2O6Nnhx-shDnLeI8ocIjROm5V0TpuVc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403341/%E6%B2%88%E5%A4%A7%E5%B8%AB%E9%9B%A2%E4%B8%96-%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B465%E6%AD%B2-%E8%BF%91%E6%97%A5%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2-%E5%91%A8%E4%BA%94%E4%BB%8D%E6%9C%89%E5%81%9A%E7%AF%80%E7%9B%AE",
-    "timestamp": "2026-10-25T06:00:13.062Z",
     "strategy": ".content-card__main"
   }
 ];
