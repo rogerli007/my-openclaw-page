@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T15:59:05.977Z
+// Last updated: 2026-10-25T16:34:45.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「意外跌倒」成長者奪命隱形殺手！醫師揭慘況：或改變下半輩子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107875598597885952681950.png/kOuehWyhAQtb0mzzXhGbFmPQ-E4HB8du1hdJL9YXSS8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328844/%E6%84%8F%E5%A4%96%E8%B7%8C%E5%80%92-%E6%88%90%E9%95%B7%E8%80%85%E5%A5%AA%E5%91%BD%E9%9A%B1%E5%BD%A2%E6%AE%BA%E6%89%8B-%E9%86%AB%E5%B8%AB%E6%8F%AD%E6%85%98%E6%B3%81-%E6%88%96%E6%94%B9%E8%AE%8A%E4%B8%8B%E5%8D%8A%E8%BC%A9%E5%AD%90",
+    "timestamp": "2026-10-25T16:34:45.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "睡得快不一定好世界！「倒頭就睡」或是健康警號　可致記憶力下降",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191040947123654656946185.jpeg/mIKLYvCxK5wa-lUryfL0j-7c5cTCqcYs6ARLs-gES7M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403360/%E8%94%A1%E6%80%9D%E8%B2%9D%E5%A4%A7%E5%9C%8D%E8%A1%97%E6%8B%8D%E5%8A%A9%E6%89%8B%E4%BC%81%E5%87%BA%E9%A6%AC%E8%B7%AF%E6%83%B9%E7%A6%8D-%E8%A2%AB%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9%E4%B8%8D%E9%A1%A7%E4%BB%96%E4%BA%BA%E5%AE%89%E5%85%A8",
     "timestamp": "2026-10-25T09:34:36.774Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沈振盈離世│網民懷念：多謝沈大師　集氣：聽日升600點悼念沈大C",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191073309563817984682037.jpeg/Y4Vey-3i7kx89haUkhDutF_VKu2LkMzi_Yx45_2MeOc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403384/%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E7%B6%B2%E6%B0%91%E6%87%B7%E5%BF%B5-%E5%A4%9A%E8%AC%9D%E6%B2%88%E5%A4%A7%E5%B8%AB-%E9%9B%86%E6%B0%A3-%E8%81%BD%E6%97%A5%E5%8D%87600%E9%BB%9E%E6%82%BC%E5%BF%B5%E6%B2%88%E5%A4%A7c",
-    "timestamp": "2026-10-25T09:19:14.472Z",
     "strategy": ".content-card__main"
   }
 ];
