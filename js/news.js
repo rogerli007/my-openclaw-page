@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T09:19:14.472Z
+// Last updated: 2026-10-25T09:34:36.774Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡思貝大圍街拍助手企出馬路惹禍！　被網民狠批不顧他人安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191040947123654656946185.jpeg/mIKLYvCxK5wa-lUryfL0j-7c5cTCqcYs6ARLs-gES7M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403360/%E8%94%A1%E6%80%9D%E8%B2%9D%E5%A4%A7%E5%9C%8D%E8%A1%97%E6%8B%8D%E5%8A%A9%E6%89%8B%E4%BC%81%E5%87%BA%E9%A6%AC%E8%B7%AF%E6%83%B9%E7%A6%8D-%E8%A2%AB%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9%E4%B8%8D%E9%A1%A7%E4%BB%96%E4%BA%BA%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-10-25T09:34:36.774Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沈振盈離世│網民懷念：多謝沈大師　集氣：聽日升600點悼念沈大C",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135606293763985408017592.jpeg/RL6F4Pu-NOpY3uLfUn_y6KgJa9q2XbJVwwasHMMGrBw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403306/%E5%BC%B7%E7%A9%8D%E9%87%9112-21%E9%A6%96%E9%9A%8E%E6%AE%B5-%E5%85%A8%E8%87%AA%E7%94%B1%E8%A1%8C-100%E8%90%AC%E4%BA%BA%E5%8F%AF%E8%BD%89%E5%85%A8%E6%95%B8%E6%AC%8A%E7%9B%8A%E5%88%B0%E8%87%AA%E9%81%B8%E8%A8%88%E5%8A%83",
     "timestamp": "2026-10-25T02:30:42.447Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜特朗普提前投票　再否認2020年大選落敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190945726167781376183652.jpeg/1k2mkQUVcu7IxqVEAEjBCOcGDbkIUdjFHtbNGR7WzRk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403294/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%89%8D%E6%8A%95%E7%A5%A8-%E5%86%8D%E5%90%A6%E8%AA%8D2020%E5%B9%B4%E5%A4%A7%E9%81%B8%E8%90%BD%E6%95%97",
-    "timestamp": "2026-10-25T00:49:18.914Z",
     "strategy": ".content-card__main"
   }
 ];
