@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T05:23:04.445Z
+// Last updated: 2026-10-25T05:34:06.422Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "民安隊：攀山事故數字按年減三成　惟多涉獨自行山　籲勿單獨行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191015028166496256327415.jpeg/QcBHsKXXLZp_D0sYwg30MOKBcKkBxPHb9uCgm9PgoJs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403339/%E6%B0%91%E5%AE%89%E9%9A%8A-%E6%94%80%E5%B1%B1%E4%BA%8B%E6%95%85%E6%95%B8%E5%AD%97%E6%8C%89%E5%B9%B4%E6%B8%9B%E4%B8%89%E6%88%90-%E6%83%9F%E5%A4%9A%E6%B6%89%E7%8D%A8%E8%87%AA%E8%A1%8C%E5%B1%B1-%E7%B1%B2%E5%8B%BF%E5%96%AE%E7%8D%A8%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-10-25T05:34:06.422Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨越17年圓夢　張雪挑戰電單車水上漂40公里創健力士世界紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190883250151624704840597.jpeg/dGtYjEIHGLxTmQPT9TshkEsYH1FPx1-7X-61sl_utbI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403288/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81-%E5%B7%B4%E9%BB%8E%E7%BE%85%E6%B5%AE%E5%AE%AE%E7%AD%89%E5%A4%9A%E5%80%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%97%9C%E9%96%89-%E9%81%8A%E5%AE%A2%E5%A4%A7%E5%98%86%E6%91%B8%E9%96%80%E9%87%98",
     "timestamp": "2026-10-24T21:31:33.671Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜華富邨老翁墮樓　昏迷送院亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174966251819110400795324.jpeg/1hagNAWJsXTjPUOKu7dpqt8-beZcPcVKIT06wxs9OsM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403289/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8F%AF%E5%AF%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%BA%A1",
-    "timestamp": "2026-10-24T21:17:44.157Z",
     "strategy": ".content-card__main"
   }
 ];
