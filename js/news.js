@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T00:49:18.914Z
+// Last updated: 2026-10-25T02:30:42.447Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "強積金12.21首階段「全自由行」　100萬人可轉全數權益到自選計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135606293763985408017592.jpeg/RL6F4Pu-NOpY3uLfUn_y6KgJa9q2XbJVwwasHMMGrBw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403306/%E5%BC%B7%E7%A9%8D%E9%87%9112-21%E9%A6%96%E9%9A%8E%E6%AE%B5-%E5%85%A8%E8%87%AA%E7%94%B1%E8%A1%8C-100%E8%90%AC%E4%BA%BA%E5%8F%AF%E8%BD%89%E5%85%A8%E6%95%B8%E6%AC%8A%E7%9B%8A%E5%88%B0%E8%87%AA%E9%81%B8%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-10-25T02:30:42.447Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜特朗普提前投票　再否認2020年大選落敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190856625624190976648159.jpeg/DOAbpQEofRrY01oa46x-AD1r5Q5OzFtwTU1wzU1NcM0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403283/%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83%E6%92%9E%E8%90%AC%E8%81%96%E7%AF%80-%E7%9A%87%E5%B4%97%E6%96%B0%E7%94%B0%E5%85%AC%E8%B7%AF%E5%A1%9E%E7%88%86-%E6%97%BA%E8%A7%92%E9%80%9A%E5%AE%B5%E8%BB%8A%E7%8F%BE%E4%BA%BA%E9%BE%8D",
     "timestamp": "2026-10-24T18:47:23.227Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉陰差陽錯參賽：鄰居掏$50幫忙買表格報名新秀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190682661039902720145308.jpeg/EFNHboSq27EB11WdkdRhYl57QOaojSQhJDt8CiQ7fAo",
-    "url": "https://www.hk01.com/01TV/60403186/%E8%BB%8A%E5%A9%89%E5%A9%89%E9%99%B0%E5%B7%AE%E9%99%BD%E9%8C%AF%E5%8F%83%E8%B3%BD-%E9%84%B0%E5%B1%85%E6%8E%8F-50%E5%B9%AB%E5%BF%99%E8%B2%B7%E8%A1%A8%E6%A0%BC%E5%A0%B1%E5%90%8D%E6%96%B0%E7%A7%80",
-    "timestamp": "2026-10-24T18:22:23.909Z",
     "strategy": ".content-card__main"
   }
 ];
