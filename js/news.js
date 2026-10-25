@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T06:29:08.834Z
+// Last updated: 2026-10-25T06:55:54.505Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈大師沈振盈離世│回顧股壇燈神10大金句　網民惋惜：一路好走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191034593604538368502843.jpeg/NmDGeN-7XSrZiBZr7cnrIW4SVqYi-jAm5KfuhuSn7oY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403354/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E5%9B%9E%E9%A1%A7%E8%82%A1%E5%A3%87%E7%87%88%E7%A5%9E10%E5%A4%A7%E9%87%91%E5%8F%A5-%E7%B6%B2%E6%B0%91%E6%83%8B%E6%83%9C-%E4%B8%80%E8%B7%AF%E5%A5%BD%E8%B5%B0",
+    "timestamp": "2026-10-25T06:55:54.505Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國更新13個中東國家旅遊警示　指胡塞襲擊風險增加　衝突或擴散",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190909623683518464017456.jpeg/FdnxmBcR4TOTCJBQFHnUF2pfVYciM7b2ax2bT2sdm08?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403291/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E5%B7%A5%E6%9C%83%E7%A8%B180%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0%E8%BF%91%E5%8D%83%E4%BA%BA%E8%A2%AB%E6%8D%95-%E5%B7%B4%E9%BB%8E%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%BD%8A%E7%99%BC-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-24T22:32:31.430Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "移民開小餐館創業夢不再！啟動資金中位數300萬港元　首年多蝕本",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190783685134127104794028.png/5WtOST9rQz8Pbt8kENNHBSVA4wBCe1_1YYRAHmGEQB4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60393669/%E7%A7%BB%E6%B0%91%E9%96%8B%E5%B0%8F%E9%A4%90%E9%A4%A8%E5%89%B5%E6%A5%AD%E5%A4%A2%E4%B8%8D%E5%86%8D-%E5%95%9F%E5%8B%95%E8%B3%87%E9%87%91%E4%B8%AD%E4%BD%8D%E6%95%B8300%E8%90%AC%E6%B8%AF%E5%85%83-%E9%A6%96%E5%B9%B4%E5%A4%9A%E8%9D%95%E6%9C%AC",
-    "timestamp": "2026-10-24T22:17:31.191Z",
     "strategy": ".content-card__main"
   }
 ];
