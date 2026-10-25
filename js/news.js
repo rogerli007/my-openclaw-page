@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T18:57:02.417Z
+// Last updated: 2026-10-25T19:15:23.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉初次拍劇的震撼：被要求真打掌摑劇中父親",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190692385063964672946015.jpeg/k-5vIo2s6bZzFDOx3jSZ38_nTbzl1PnLCzEJvwsxCb8",
+    "url": "https://www.hk01.com/01TV/60403202/%E8%BB%8A%E5%A9%89%E5%A9%89%E5%88%9D%E6%AC%A1%E6%8B%8D%E5%8A%87%E7%9A%84%E9%9C%87%E6%92%BC-%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%9F%E6%89%93%E6%8E%8C%E6%91%91%E5%8A%87%E4%B8%AD%E7%88%B6%E8%A6%AA",
+    "timestamp": "2026-10-25T19:15:23.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙特利雅得機場重開　胡塞武裝稱已再次發動打擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189272512597856256098752.jpeg/jMBNJPJJw92uf-2Sbj3TTTiMVG01YJSzvpFsTpuRbE4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403337/sen%E5%B0%8F%E5%AD%A9%E5%AE%B6%E9%95%B7%E5%90%91%E6%B8%AF%E9%90%B5%E7%B4%A2%E6%84%9F%E5%AE%98%E7%8E%A9%E5%85%B7%E9%81%AD%E8%B3%AA%E7%96%91-%E8%81%B7%E6%A5%AD%E6%B2%BB%E7%99%82%E5%B8%AB%E5%80%A1%E5%96%84%E7%94%A8%E5%B7%B2%E6%9C%89%E6%A8%99%E8%AD%98",
     "timestamp": "2026-10-25T12:28:34.285Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神2｜方智弘獲兩大女神爭搶　梁超怡密集電眼狂撩搞到衣衫盡濕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191107777091604480170354.jpeg/Prd553i1_UBjbzgxsXAqn4yT6sJ0ObnsVV6-rlVevq4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403416/%E5%A5%B3%E7%A5%9E2-%E6%96%B9%E6%99%BA%E5%BC%98%E7%8D%B2%E5%85%A9%E5%A4%A7%E5%A5%B3%E7%A5%9E%E7%88%AD%E6%90%B6-%E6%A2%81%E8%B6%85%E6%80%A1%E5%AF%86%E9%9B%86%E9%9B%BB%E7%9C%BC%E7%8B%82%E6%92%A9%E6%90%9E%E5%88%B0%E8%A1%A3%E8%A1%AB%E7%9B%A1%E6%BF%95",
-    "timestamp": "2026-10-25T11:56:13.281Z",
     "strategy": ".content-card__main"
   }
 ];
