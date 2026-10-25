@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-24T23:53:47.561Z
+// Last updated: 2026-10-25T00:49:18.914Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜特朗普提前投票　再否認2020年大選落敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190945726167781376183652.jpeg/1k2mkQUVcu7IxqVEAEjBCOcGDbkIUdjFHtbNGR7WzRk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403294/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%89%8D%E6%8A%95%E7%A5%A8-%E5%86%8D%E5%90%A6%E8%AA%8D2020%E5%B9%B4%E5%A4%A7%E9%81%B8%E8%90%BD%E6%95%97",
+    "timestamp": "2026-10-25T00:49:18.914Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西大選今舉行次輪投票　博爾索納羅之子民調輕微領先盧拉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190682661039902720145308.jpeg/EFNHboSq27EB11WdkdRhYl57QOaojSQhJDt8CiQ7fAo",
     "url": "https://www.hk01.com/01TV/60403186/%E8%BB%8A%E5%A9%89%E5%A9%89%E9%99%B0%E5%B7%AE%E9%99%BD%E9%8C%AF%E5%8F%83%E8%B3%BD-%E9%84%B0%E5%B1%85%E6%8E%8F-50%E5%B9%AB%E5%BF%99%E8%B2%B7%E8%A1%A8%E6%A0%BC%E5%A0%B1%E5%90%8D%E6%96%B0%E7%A7%80",
     "timestamp": "2026-10-24T18:22:23.909Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026英雄聯盟｜16強瑞士輪賽程賽果時間表+免費直播連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530809755373568571026.png/u01QM2_bS3lnubYm4K4LIKVwF7d0cbEsb-tgKW_rYCk",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60398121/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E6%87%B6%E4%BA%BA%E5%8C%85",
-    "timestamp": "2026-10-24T17:55:29.515Z",
     "strategy": ".content-card__main"
   }
 ];
