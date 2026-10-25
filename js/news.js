@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T19:40:35.590Z
+// Last updated: 2026-10-25T19:54:18.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西大選次輪投票　盧拉要求部份城市票站延長開放",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191230949115826176469287.jpeg/ax5KfwH3QEnGEeVcamQXK5c8ZcxfxxIFRY3WNEWN1jQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403476/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8%E6%AC%A1%E8%BC%AA%E6%8A%95%E7%A5%A8-%E7%9B%A7%E6%8B%89%E8%A6%81%E6%B1%82%E9%83%A8%E4%BB%BD%E5%9F%8E%E5%B8%82%E7%A5%A8%E7%AB%99%E5%BB%B6%E9%95%B7%E9%96%8B%E6%94%BE",
+    "timestamp": "2026-10-25T19:54:18.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉初次拍劇的震撼：被要求真打掌摑劇中父親",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191138744053272576734510.jpeg/eqstDe8XZWMtAr3EWb9vXOdhAFaZdj7inI1giJyNYIg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403437/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E8%88%89%E8%A1%8C%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89-%E6%96%99%E9%81%B8%E6%83%85%E6%BF%80%E7%83%88-%E6%8A%95%E7%A5%A8%E7%8E%87%E9%81%A0%E9%AB%98%E4%BB%A5%E5%BE%80",
     "timestamp": "2026-10-25T13:32:00.806Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日媒：日本車廠縮短開發周期　追趕中國對手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250117/956943223601893376192850.jpeg/qPU9G13m5Xi2AZwLpJOH3plwpt0U5WMk_Dw6Tvw8Ok4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403428/%E6%97%A5%E5%AA%92-%E6%97%A5%E6%9C%AC%E8%BB%8A%E5%BB%A0%E7%B8%AE%E7%9F%AD%E9%96%8B%E7%99%BC%E5%91%A8%E6%9C%9F-%E8%BF%BD%E8%B6%95%E4%B8%AD%E5%9C%8B%E5%B0%8D%E6%89%8B",
-    "timestamp": "2026-10-25T12:49:15.337Z",
     "strategy": ".content-card__main"
   }
 ];
