@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T14:53:42.168Z
+// Last updated: 2026-10-25T15:31:34.774Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈大師沈振盈離世｜股評人莫灝楠憶述一次直播中爭吵　前輩竟認錯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191161447040684032931746.jpeg/ksGoSPUjqZxW1xyR01zXffwd-r1ZREb3zzC3x88wt8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403446/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E8%82%A1%E8%A9%95%E4%BA%BA%E8%8E%AB%E7%81%9D%E6%A5%A0%E6%86%B6%E8%BF%B0%E4%B8%80%E6%AC%A1%E7%9B%B4%E6%92%AD%E4%B8%AD%E7%88%AD%E5%90%B5-%E5%89%8D%E8%BC%A9%E7%AB%9F%E8%AA%8D%E9%8C%AF",
+    "timestamp": "2026-10-25T15:31:34.774Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳卓羲否認教人爆粗笑稱「你唔講粗口㗎？」　張曦雯拒絕只生不婚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190284929506742272593847.jpeg/RkWMrDTsdIGDxLTqQh96y2k6Uct2DifQW4_WUVuP1lE",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402507/59%E6%AD%B2-laughing%E5%93%A5-%E8%AC%9D%E5%A4%A9%E8%8F%AF%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87-%E8%88%87%E9%A3%9F%E5%AE%A2%E5%90%88%E7%85%A7%E7%8D%B2%E8%AE%9A%E8%81%B2%E9%9F%B3%E8%B6%85%E6%BA%AB%E6%9F%94",
     "timestamp": "2026-10-25T08:58:19.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "VTC成立賽馬會牙科護理訓練中心    首屆60名學員畢業投身業界",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190533138820894720760821.jpeg/ZYyvo59u84ttZBqUAgtqtXZupNN8EKS8h1Od-odTnfo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60403093/vtc%E6%88%90%E7%AB%8B%E8%B3%BD%E9%A6%AC%E6%9C%83%E7%89%99%E7%A7%91%E8%AD%B7%E7%90%86%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83-%E9%A6%96%E5%B1%8660%E5%90%8D%E5%AD%B8%E5%93%A1%E7%95%A2%E6%A5%AD%E6%8A%95%E8%BA%AB%E6%A5%AD%E7%95%8C",
-    "timestamp": "2026-10-25T08:24:04.987Z",
     "strategy": ".content-card__main"
   }
 ];
