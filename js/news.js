@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T07:49:36.519Z
+// Last updated: 2026-10-25T07:54:39.253Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姚瑩瑩15歲仔身高直逼米七媽媽！曾患罕見病變游泳健將讀星級名校",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190887080155156480684205.jpeg/3KXNFWpPhamtZU_hocppwNwVvIn70-GJ9nQ78vZ0O_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60403094/%E5%A7%9A%E7%91%A9%E7%91%A915%E6%AD%B2%E4%BB%94%E8%BA%AB%E9%AB%98%E7%9B%B4%E9%80%BC%E7%B1%B3%E4%B8%83%E5%AA%BD%E5%AA%BD-%E6%9B%BE%E6%82%A3%E7%BD%95%E8%A6%8B%E7%97%85%E8%AE%8A%E6%B8%B8%E6%B3%B3%E5%81%A5%E5%B0%87%E8%AE%80%E6%98%9F%E7%B4%9A%E5%90%8D%E6%A0%A1",
+    "timestamp": "2026-10-25T07:54:39.253Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沈大師沈振盈離世｜避險先知定燈神？網民評價兩極　紛紛留言哀悼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190916787458281472012659.jpeg/hqwAW-lrS3QLItcKbrxY31uAjJta2q9KegbwEnoG8BI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403292/%E5%A5%A7%E5%B7%B4%E9%A6%AC%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E8%85%90%E6%95%97%E6%B2%89%E8%BF%B7%E8%A3%9D%E4%BF%AE%E7%99%BD%E5%AE%AE-%E5%83%8F%E8%96%A9%E9%81%94%E5%A7%86%E9%96%8B%E9%80%A3%E9%8E%96%E9%A4%90%E5%BB%B3-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-24T23:16:36.642Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國示威工會稱80萬人上街近千人被捕　巴黎催淚彈水炮齊發｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190916417550028800024381.jpeg/br98vc4c8ao_xvvawEfiUT8XzDl2cSRFr6EMJa-hDCU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403291/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E5%B7%A5%E6%9C%83%E7%A8%B180%E8%90%AC%E4%BA%BA%E4%B8%8A%E8%A1%97%E8%BF%91%E5%8D%83%E4%BA%BA%E8%A2%AB%E6%8D%95-%E5%B7%B4%E9%BB%8E%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%BD%8A%E7%99%BC-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-24T22:55:45.594Z",
     "strategy": ".content-card__main"
   }
 ];
