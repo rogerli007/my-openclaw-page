@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T11:35:29.468Z
+// Last updated: 2026-10-25T11:41:42.500Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃澤林新歡舊愛譚旻萱陳康堤兩大女神大起底　三大對決呢位更優勝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191105543704416256083962.jpeg/SSdzGrAumcxqSfFw4U2WrPDiDDJYLkdWASU9FwElPRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403411/%E9%BB%83%E6%BE%A4%E6%9E%97%E6%96%B0%E6%AD%A1%E8%88%8A%E6%84%9B%E8%AD%9A%E6%97%BB%E8%90%B1%E9%99%B3%E5%BA%B7%E5%A0%A4%E5%85%A9%E5%A4%A7%E5%A5%B3%E7%A5%9E%E5%A4%A7%E8%B5%B7%E5%BA%95-%E4%B8%89%E5%A4%A7%E5%B0%8D%E6%B1%BA%E5%91%A2%E4%BD%8D%E6%9B%B4%E5%84%AA%E5%8B%9D",
+    "timestamp": "2026-10-25T11:41:42.500Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃澤林新歡舊愛譚旻萱陳康堤兩大女神大起底　三大對決呢位更優勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190987476785696768508379.jpeg/rlEgSZw2mGcrhzgN8FfwocfA2UIc39uWRTZ4UkU2eFI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403302/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%BD%9C%E5%AE%A2%E6%8C%AB%E8%BB%8A%E8%B7%AF%E5%A3%AB%E8%81%AF%E8%B3%BD%E5%85%A9%E9%80%A3%E5%8B%9D-%E8%BF%AA%E6%B2%99%E6%AF%94%E7%B5%95%E5%9C%B0%E5%A5%87%E6%8B%9B%E9%A0%98%E8%BB%8D%E9%80%90%E6%AD%A5%E5%BE%A9%E7%94%A6",
     "timestamp": "2026-10-25T04:58:49.665Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廖碧兒默認與70歲富豪呂禮章新戀情　指年齡不是問題：最緊要夾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191004599599763456294175.png/YgWVuqtpJnABY7vvnMjrWBD-aKhZLVJVSpWUK0qVlCs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403331/%E5%BB%96%E7%A2%A7%E5%85%92%E9%BB%98%E8%AA%8D%E8%88%8770%E6%AD%B2%E5%AF%8C%E8%B1%AA%E5%91%82%E7%A6%AE%E7%AB%A0%E6%96%B0%E6%88%80%E6%83%85-%E6%8C%87%E5%B9%B4%E9%BD%A1%E4%B8%8D%E6%98%AF%E5%95%8F%E9%A1%8C-%E6%9C%80%E7%B7%8A%E8%A6%81%E5%A4%BE",
-    "timestamp": "2026-10-25T04:47:46.118Z",
     "strategy": ".content-card__main"
   }
 ];
