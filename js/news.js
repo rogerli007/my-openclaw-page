@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T13:44:17.769Z
+// Last updated: 2026-10-25T13:54:05.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜旺角登打士街男子情緒激動　馬路中央遭眾警員按地制服",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191143091445174272075236.jpeg/5dt67dUYeQC08gsZjJ0uEgJiaLegcyIZbkDISm5AyEo",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403435/%E6%9C%89%E7%89%87-%E6%97%BA%E8%A7%92%E7%99%BB%E6%89%93%E5%A3%AB%E8%A1%97%E7%94%B7%E5%AD%90%E6%83%85%E7%B7%92%E6%BF%80%E5%8B%95-%E9%A6%AC%E8%B7%AF%E4%B8%AD%E5%A4%AE%E9%81%AD%E7%9C%BE%E8%AD%A6%E5%93%A1%E6%8C%89%E5%9C%B0%E5%88%B6%E6%9C%8D",
+    "timestamp": "2026-10-25T13:54:05.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "A2O LITE中國成員Aijing被指態度惡劣　拍照疑推隊友爭C位畫面曝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191034593604538368502843.jpeg/NmDGeN-7XSrZiBZr7cnrIW4SVqYi-jAm5KfuhuSn7oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403354/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E5%9B%9E%E9%A1%A7%E8%82%A1%E5%A3%87%E7%87%88%E7%A5%9E10%E5%A4%A7%E9%87%91%E5%8F%A5-%E7%B6%B2%E6%B0%91%E6%83%8B%E6%83%9C-%E4%B8%80%E8%B7%AF%E5%A5%BD%E8%B5%B0",
     "timestamp": "2026-10-25T06:55:54.505Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國更新13個中東國家旅遊警示　指胡塞襲擊風險增加　衝突或擴散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260811/1163718944993841152176258.jpeg/vinf0SEbws6PFbMeyFQ_QhrK455CVL1oZ1dW8mdXVvI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403348/%E7%BE%8E%E5%9C%8B%E6%9B%B4%E6%96%B013%E5%80%8B%E4%B8%AD%E6%9D%B1%E5%9C%8B%E5%AE%B6%E6%97%85%E9%81%8A%E8%AD%A6%E7%A4%BA-%E6%8C%87%E8%83%A1%E5%A1%9E%E8%A5%B2%E6%93%8A%E9%A2%A8%E9%9A%AA%E5%A2%9E%E5%8A%A0-%E8%A1%9D%E7%AA%81%E6%88%96%E6%93%B4%E6%95%A3",
-    "timestamp": "2026-10-25T06:29:08.834Z",
     "strategy": ".content-card__main"
   }
 ];
