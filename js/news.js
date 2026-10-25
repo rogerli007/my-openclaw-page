@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T15:31:34.774Z
+// Last updated: 2026-10-25T15:59:05.977Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "睡得快不一定好世界！「倒頭就睡」或是健康警號　可致記憶力下降",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260105/1084908853058867200743591.jpeg/EEntpXLZfgAIXatqG9EQQHCevf6mOdTruoYb6rqGG-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60309907/%E7%9D%A1%E5%BE%97%E5%BF%AB%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%A5%BD%E4%B8%96%E7%95%8C-%E5%80%92%E9%A0%AD%E5%B0%B1%E7%9D%A1-%E6%88%96%E6%98%AF%E5%81%A5%E5%BA%B7%E8%AD%A6%E8%99%9F-%E5%8F%AF%E8%87%B4%E8%A8%98%E6%86%B6%E5%8A%9B%E4%B8%8B%E9%99%8D",
+    "timestamp": "2026-10-25T15:59:05.977Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沈大師沈振盈離世｜股評人莫灝楠憶述一次直播中爭吵　前輩竟認錯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191073309563817984682037.jpeg/Y4Vey-3i7kx89haUkhDutF_VKu2LkMzi_Yx45_2MeOc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403384/%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E7%B6%B2%E6%B0%91%E6%87%B7%E5%BF%B5-%E5%A4%9A%E8%AC%9D%E6%B2%88%E5%A4%A7%E5%B8%AB-%E9%9B%86%E6%B0%A3-%E8%81%BD%E6%97%A5%E5%8D%87600%E9%BB%9E%E6%82%BC%E5%BF%B5%E6%B2%88%E5%A4%A7c",
     "timestamp": "2026-10-25T09:19:14.472Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "59歲「Laughing哥」謝天華狀態大勇　與食客合照獲讚聲音超溫柔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190284929506742272593847.jpeg/RkWMrDTsdIGDxLTqQh96y2k6Uct2DifQW4_WUVuP1lE",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402507/59%E6%AD%B2-laughing%E5%93%A5-%E8%AC%9D%E5%A4%A9%E8%8F%AF%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87-%E8%88%87%E9%A3%9F%E5%AE%A2%E5%90%88%E7%85%A7%E7%8D%B2%E8%AE%9A%E8%81%B2%E9%9F%B3%E8%B6%85%E6%BA%AB%E6%9F%94",
-    "timestamp": "2026-10-25T08:58:19.175Z",
     "strategy": ".content-card__main"
   }
 ];
