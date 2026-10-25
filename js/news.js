@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T09:56:19.658Z
+// Last updated: 2026-10-25T10:19:42.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網傳臺日電梯發通告　認一時疏忽、監管不力　堅稱升降機「安全」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187721272361357312305784.jpeg/KqglgUOgMkhrahcLSR2EyeEAFJ9j7Z_bMrek5xi3pOc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403383/%E7%B6%B2%E5%82%B3%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF%E7%99%BC%E9%80%9A%E5%91%8A-%E8%AA%8D%E4%B8%80%E6%99%82%E7%96%8F%E5%BF%BD-%E7%9B%A3%E7%AE%A1%E4%B8%8D%E5%8A%9B-%E5%A0%85%E7%A8%B1%E5%8D%87%E9%99%8D%E6%A9%9F-%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-10-25T10:19:42.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傅穎自曝18歲後首次講粗口全身打冷震 被質疑太假：屋企冇人講",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190972518580621312567208.jpeg/i0MhrceqkIYohYFpWSWo6rUBUwpm4dnxmr2U3Jq9lNw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403301/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%A6%E8%87%89%E9%A9%9A%E7%8F%BE%E5%A4%A7%E7%89%87%E7%98%80%E9%9D%92-%E7%99%BC%E6%96%87%E5%98%86-%E7%94%9F%E7%97%85%E7%9A%84%E4%BA%BA%E5%8F%AA%E6%B1%82%E5%BA%B7%E5%BE%A9-%E5%BC%95%E9%81%90%E6%83%B3",
     "timestamp": "2026-10-25T03:23:35.702Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本小笠原群島地區海域發生7級地震　沒有海嘯風險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190976561512189952436190.png/Hb3s3kCca3iZupB-Iau10kmOuAR18UVeZZGIu2WRiLs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403309/%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%AC%A0%E5%8E%9F%E7%BE%A4%E5%B3%B6%E5%9C%B0%E5%8D%80%E6%B5%B7%E5%9F%9F%E7%99%BC%E7%94%9F7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E6%B2%92%E6%9C%89%E6%B5%B7%E5%98%AF%E9%A2%A8%E9%9A%AA",
-    "timestamp": "2026-10-25T02:50:23.288Z",
     "strategy": ".content-card__main"
   }
 ];
