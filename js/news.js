@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T22:35:08.867Z
+// Last updated: 2026-10-25T22:41:49.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致天晴　日間最高約30度　未來一兩日風勢較大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191275515420348416879205.jpeg/_BhtiMm0XK6w5cQoQAgWQuRidhcLQoMGTETjU0xE41M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60403462/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E9%A2%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
+    "timestamp": "2026-10-25T22:41:49.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "奚夢瑤機場獨自孭背囊行李箱回鄉　驚現「破碎感」神情疲憊玩電話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191161447040684032931746.jpeg/ksGoSPUjqZxW1xyR01zXffwd-r1ZREb3zzC3x88wt8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403446/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E8%82%A1%E8%A9%95%E4%BA%BA%E8%8E%AB%E7%81%9D%E6%A5%A0%E6%86%B6%E8%BF%B0%E4%B8%80%E6%AC%A1%E7%9B%B4%E6%92%AD%E4%B8%AD%E7%88%AD%E5%90%B5-%E5%89%8D%E8%BC%A9%E7%AB%9F%E8%AA%8D%E9%8C%AF",
     "timestamp": "2026-10-25T15:31:34.774Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳卓羲否認教人爆粗笑稱「你唔講粗口㗎？」　張曦雯拒絕只生不婚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191153188632268800794312.jpeg/dE4Ie8xGz2mGFBP-cV4bxOngDzRam5m7XRpN7F0aTew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403447/%E5%90%B3%E5%8D%93%E7%BE%B2%E5%90%A6%E8%AA%8D%E6%95%99%E4%BA%BA%E7%88%86%E7%B2%97%E7%AC%91%E7%A8%B1-%E4%BD%A0%E5%94%94%E8%AC%9B%E7%B2%97%E5%8F%A3%E3%97%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8B%92%E7%B5%95%E5%8F%AA%E7%94%9F%E4%B8%8D%E5%A9%9A",
-    "timestamp": "2026-10-25T14:53:42.168Z",
     "strategy": ".content-card__main"
   }
 ];
