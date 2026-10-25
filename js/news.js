@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T17:16:37.902Z
+// Last updated: 2026-10-25T17:41:14.253Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "往新皇崗口岸交通繁忙　警方實施人群交通管制　平均須輪候25分鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191193892129607680684273.png/r8UTG3s52p_9dcZzuK0zgaEC3n3m9P3-SNooBkjaKAY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403466/%E5%BE%80%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A%E7%B9%81%E5%BF%99-%E8%AD%A6%E6%96%B9%E5%AF%A6%E6%96%BD%E4%BA%BA%E7%BE%A4%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6-%E5%B9%B3%E5%9D%87%E9%A0%88%E8%BC%AA%E5%80%9925%E5%88%86%E9%90%98",
+    "timestamp": "2026-10-25T17:41:14.253Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "往新皇崗口岸交通繁忙　警方實施人群交通管制　平均須輪候25分鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191104669309472768974025.jpeg/ZKe0GrclbdknAtN9CfMHdB6BRzf3kXGPH9kiUR_ZIlE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403418/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E8%AD%9A%E6%9C%97%E8%94%9A%E6%86%B6%E8%B1%AA%E6%B0%A3%E5%BE%80%E4%BA%8B%E9%87%8D%E5%8F%8B%E6%83%85-%E9%83%ADsir%E7%82%BA%E5%A4%A7%E5%B8%AB%E6%8A%B1%E4%B8%8D%E5%B9%B3",
     "timestamp": "2026-10-25T11:18:52.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沈大師沈振盈離世｜遇突發心臟驟停如何應對？消防處教急救五部曲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191092922963988480620537.jpeg/F6jKY_mJtGgom3Hv_yqKcVATc7_qG11Kw-7kdsPu5HY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403401/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E9%81%87%E7%AA%81%E7%99%BC%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D-%E6%B6%88%E9%98%B2%E8%99%95%E6%95%99%E6%80%A5%E6%95%91%E4%BA%94%E9%83%A8%E6%9B%B2",
-    "timestamp": "2026-10-25T10:45:14.310Z",
     "strategy": ".content-card__main"
   }
 ];
