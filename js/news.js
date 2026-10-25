@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T07:54:39.253Z
+// Last updated: 2026-10-25T08:24:04.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "VTC成立賽馬會牙科護理訓練中心    首屆60名學員畢業投身業界",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190533138820894720760821.jpeg/ZYyvo59u84ttZBqUAgtqtXZupNN8EKS8h1Od-odTnfo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60403093/vtc%E6%88%90%E7%AB%8B%E8%B3%BD%E9%A6%AC%E6%9C%83%E7%89%99%E7%A7%91%E8%AD%B7%E7%90%86%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83-%E9%A6%96%E5%B1%8660%E5%90%8D%E5%AD%B8%E5%93%A1%E7%95%A2%E6%A5%AD%E6%8A%95%E8%BA%AB%E6%A5%AD%E7%95%8C",
+    "timestamp": "2026-10-25T08:24:04.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姚瑩瑩15歲仔身高直逼米七媽媽！曾患罕見病變游泳健將讀星級名校",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190916787458281472012659.jpeg/hqwAW-lrS3QLItcKbrxY31uAjJta2q9KegbwEnoG8BI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403292/%E5%A5%A7%E5%B7%B4%E9%A6%AC%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E8%85%90%E6%95%97%E6%B2%89%E8%BF%B7%E8%A3%9D%E4%BF%AE%E7%99%BD%E5%AE%AE-%E5%83%8F%E8%96%A9%E9%81%94%E5%A7%86%E9%96%8B%E9%80%A3%E9%8E%96%E9%A4%90%E5%BB%B3-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-24T23:28:41.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奧巴馬狠批特朗普腐敗沉迷裝修白宮　像薩達姆開連鎖餐廳｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190916787458281472012659.jpeg/hqwAW-lrS3QLItcKbrxY31uAjJta2q9KegbwEnoG8BI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403292/%E5%A5%A7%E5%B7%B4%E9%A6%AC%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E8%85%90%E6%95%97%E6%B2%89%E8%BF%B7%E8%A3%9D%E4%BF%AE%E7%99%BD%E5%AE%AE-%E5%83%8F%E8%96%A9%E9%81%94%E5%A7%86%E9%96%8B%E9%80%A3%E9%8E%96%E9%A4%90%E5%BB%B3-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-24T23:16:36.642Z",
     "strategy": ".content-card__main"
   }
 ];
