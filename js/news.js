@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T08:58:19.175Z
+// Last updated: 2026-10-25T09:19:14.472Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈振盈離世│網民懷念：多謝沈大師　集氣：聽日升600點悼念沈大C",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191073309563817984682037.jpeg/Y4Vey-3i7kx89haUkhDutF_VKu2LkMzi_Yx45_2MeOc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403384/%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E7%B6%B2%E6%B0%91%E6%87%B7%E5%BF%B5-%E5%A4%9A%E8%AC%9D%E6%B2%88%E5%A4%A7%E5%B8%AB-%E9%9B%86%E6%B0%A3-%E8%81%BD%E6%97%A5%E5%8D%87600%E9%BB%9E%E6%82%BC%E5%BF%B5%E6%B2%88%E5%A4%A7c",
+    "timestamp": "2026-10-25T09:19:14.472Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "59歲「Laughing哥」謝天華狀態大勇　與食客合照獲讚聲音超溫柔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190945726167781376183652.jpeg/1k2mkQUVcu7IxqVEAEjBCOcGDbkIUdjFHtbNGR7WzRk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403294/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%89%8D%E6%8A%95%E7%A5%A8-%E5%86%8D%E5%90%A6%E8%AA%8D2020%E5%B9%B4%E5%A4%A7%E9%81%B8%E8%90%BD%E6%95%97",
     "timestamp": "2026-10-25T00:49:18.914Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西大選今舉行次輪投票　博爾索納羅之子民調輕微領先盧拉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190931611986694144290675.jpeg/qO9wLdePyA7vnA0RtVO4WMh2wQIrCBVHsIALU7CAC1M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403293/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8%E4%BB%8A%E8%88%89%E8%A1%8C%E6%AC%A1%E8%BC%AA%E6%8A%95%E7%A5%A8-%E5%8D%9A%E7%88%BE%E7%B4%A2%E7%B4%8D%E7%BE%85%E4%B9%8B%E5%AD%90%E6%B0%91%E8%AA%BF%E8%BC%95%E5%BE%AE%E9%A0%98%E5%85%88%E7%9B%A7%E6%8B%89",
-    "timestamp": "2026-10-24T23:53:47.561Z",
     "strategy": ".content-card__main"
   }
 ];
