@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T11:41:42.500Z
+// Last updated: 2026-10-25T11:56:13.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2｜方智弘獲兩大女神爭搶　梁超怡密集電眼狂撩搞到衣衫盡濕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191107777091604480170354.jpeg/Prd553i1_UBjbzgxsXAqn4yT6sJ0ObnsVV6-rlVevq4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403416/%E5%A5%B3%E7%A5%9E2-%E6%96%B9%E6%99%BA%E5%BC%98%E7%8D%B2%E5%85%A9%E5%A4%A7%E5%A5%B3%E7%A5%9E%E7%88%AD%E6%90%B6-%E6%A2%81%E8%B6%85%E6%80%A1%E5%AF%86%E9%9B%86%E9%9B%BB%E7%9C%BC%E7%8B%82%E6%92%A9%E6%90%9E%E5%88%B0%E8%A1%A3%E8%A1%AB%E7%9B%A1%E6%BF%95",
+    "timestamp": "2026-10-25T11:56:13.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃澤林新歡舊愛譚旻萱陳康堤兩大女神大起底　三大對決呢位更優勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191013773134008320562039.png/qM9rsIO6NcUA7bdvUge4hiPKZGb7NIssTV6amk1empo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403334/%E8%B7%A8%E8%B6%8A17%E5%B9%B4%E5%9C%93%E5%A4%A2-%E5%BC%B5%E9%9B%AA%E6%8C%91%E6%88%B0%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%B0%B4%E4%B8%8A%E6%BC%8240%E5%85%AC%E9%87%8C%E5%89%B5%E5%81%A5%E5%8A%9B%E5%A3%AB%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84",
     "timestamp": "2026-10-25T05:23:04.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜熱刺作客挫車路士聯賽兩連勝　迪沙比絕地奇招領軍逐步復甦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190987476785696768508379.jpeg/rlEgSZw2mGcrhzgN8FfwocfA2UIc39uWRTZ4UkU2eFI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403302/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%BD%9C%E5%AE%A2%E6%8C%AB%E8%BB%8A%E8%B7%AF%E5%A3%AB%E8%81%AF%E8%B3%BD%E5%85%A9%E9%80%A3%E5%8B%9D-%E8%BF%AA%E6%B2%99%E6%AF%94%E7%B5%95%E5%9C%B0%E5%A5%87%E6%8B%9B%E9%A0%98%E8%BB%8D%E9%80%90%E6%AD%A5%E5%BE%A9%E7%94%A6",
-    "timestamp": "2026-10-25T04:58:49.665Z",
     "strategy": ".content-card__main"
   }
 ];
