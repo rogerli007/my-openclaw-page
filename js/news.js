@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T10:19:42.292Z
+// Last updated: 2026-10-25T10:45:14.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈大師沈振盈離世｜遇突發心臟驟停如何應對？消防處教急救五部曲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191092922963988480620537.jpeg/F6jKY_mJtGgom3Hv_yqKcVATc7_qG11Kw-7kdsPu5HY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403401/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E9%81%87%E7%AA%81%E7%99%BC%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D-%E6%B6%88%E9%98%B2%E8%99%95%E6%95%99%E6%80%A5%E6%95%91%E4%BA%94%E9%83%A8%E6%9B%B2",
+    "timestamp": "2026-10-25T10:45:14.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網傳臺日電梯發通告　認一時疏忽、監管不力　堅稱升降機「安全」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190993376464474112419856.jpeg/7yGyiNtzsoWnEWO6xi_cXx1lo21OVRzVTRjHYU0Yx2E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60403317/%E5%BC%95%E9%80%B2%E8%BE%A6%E9%A6%96%E5%85%AD%E6%89%B9%E4%BC%81%E6%A5%AD%E6%8A%95%E8%B3%87283%E5%84%84%E5%85%83-%E9%99%B3%E8%8C%82%E6%B3%A2-%E8%81%98%E9%80%BE1%E8%90%AC%E4%BA%BA%E8%BC%83%E9%A0%90%E6%9C%9F%E5%A4%9A34",
     "timestamp": "2026-10-25T03:54:58.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普左臉驚現大片瘀青　發文嘆「生病的人只求康復」引遐想",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190972518580621312567208.jpeg/i0MhrceqkIYohYFpWSWo6rUBUwpm4dnxmr2U3Jq9lNw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403301/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%A6%E8%87%89%E9%A9%9A%E7%8F%BE%E5%A4%A7%E7%89%87%E7%98%80%E9%9D%92-%E7%99%BC%E6%96%87%E5%98%86-%E7%94%9F%E7%97%85%E7%9A%84%E4%BA%BA%E5%8F%AA%E6%B1%82%E5%BA%B7%E5%BE%A9-%E5%BC%95%E9%81%90%E6%83%B3",
-    "timestamp": "2026-10-25T03:23:35.702Z",
     "strategy": ".content-card__main"
   }
 ];
