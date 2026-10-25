@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T19:54:18.769Z
+// Last updated: 2026-10-25T20:32:57.158Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉放棄學業回港 藝能EP計劃然她重返歌壇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190693499251462144319706.jpeg/5MND1nW0vsj5seucvJBuZMa6riAlEPYEmqx5M5qseTM",
+    "url": "https://www.hk01.com/01TV/60403203/%E8%BB%8A%E5%A9%89%E5%A9%89%E6%94%BE%E6%A3%84%E5%AD%B8%E6%A5%AD%E5%9B%9E%E6%B8%AF-%E8%97%9D%E8%83%BDep%E8%A8%88%E5%8A%83%E7%84%B6%E5%A5%B9%E9%87%8D%E8%BF%94%E6%AD%8C%E5%A3%87",
+    "timestamp": "2026-10-25T20:32:57.158Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西大選次輪投票　盧拉要求部份城市票站延長開放",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191089177463099392073619.png/1a5mKirrOkXnC6ImjnmBbpUlSHbhIpSPNWdKyTVnSsk",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403399/a2o-lite%E4%B8%AD%E5%9C%8B%E6%88%90%E5%93%A1aijing%E8%A2%AB%E6%8C%87%E6%85%8B%E5%BA%A6%E6%83%A1%E5%8A%A3-%E6%8B%8D%E7%85%A7%E7%96%91%E6%8E%A8%E9%9A%8A%E5%8F%8B%E7%88%ADc%E4%BD%8D%E7%95%AB%E9%9D%A2%E6%9B%9D",
     "timestamp": "2026-10-25T13:44:17.769Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞爾維亞舉行國會選舉　料選情激烈　投票率遠高以往",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191138744053272576734510.jpeg/eqstDe8XZWMtAr3EWb9vXOdhAFaZdj7inI1giJyNYIg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403437/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E8%88%89%E8%A1%8C%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89-%E6%96%99%E9%81%B8%E6%83%85%E6%BF%80%E7%83%88-%E6%8A%95%E7%A5%A8%E7%8E%87%E9%81%A0%E9%AB%98%E4%BB%A5%E5%BE%80",
-    "timestamp": "2026-10-25T13:32:00.806Z",
     "strategy": ".content-card__main"
   }
 ];
