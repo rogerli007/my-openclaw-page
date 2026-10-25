@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T04:21:42.821Z
+// Last updated: 2026-10-25T04:47:46.118Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廖碧兒默認與70歲富豪呂禮章新戀情　指年齡不是問題：最緊要夾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191004599599763456294175.png/YgWVuqtpJnABY7vvnMjrWBD-aKhZLVJVSpWUK0qVlCs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403331/%E5%BB%96%E7%A2%A7%E5%85%92%E9%BB%98%E8%AA%8D%E8%88%8770%E6%AD%B2%E5%AF%8C%E8%B1%AA%E5%91%82%E7%A6%AE%E7%AB%A0%E6%96%B0%E6%88%80%E6%83%85-%E6%8C%87%E5%B9%B4%E9%BD%A1%E4%B8%8D%E6%98%AF%E5%95%8F%E9%A1%8C-%E6%9C%80%E7%B7%8A%E8%A6%81%E5%A4%BE",
+    "timestamp": "2026-10-25T04:47:46.118Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴士加價｜陳健波倡仿「鐵路加物業」模式幫補　或批地賺充電收入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190879752945143808735968.png/ac7gLzWH9MQr7rmOFIl7JsAhQ-9-OLE7Svf620r3-ts",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403287/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E6%92%9E%E5%89%8D%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E8%B7%8C%E8%90%BD%E8%BB%8A%E9%9A%AA%E8%A2%AB%E8%B2%A8%E8%BB%8A%E6%92%9E",
     "timestamp": "2026-10-24T20:32:37.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉與古天樂等一眾新人加入訓練班 獲高層有意培養",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190684616143409152370685.jpeg/Nc2SpofkloXVCjcCyOTSfSJsQ74udWjQRPFdtkTxXbY",
-    "url": "https://www.hk01.com/01TV/60403188/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%88%87%E5%8F%A4%E5%A4%A9%E6%A8%82%E7%AD%89%E4%B8%80%E7%9C%BE%E6%96%B0%E4%BA%BA%E5%8A%A0%E5%85%A5%E8%A8%93%E7%B7%B4%E7%8F%AD-%E7%8D%B2%E9%AB%98%E5%B1%A4%E6%9C%89%E6%84%8F%E5%9F%B9%E9%A4%8A",
-    "timestamp": "2026-10-24T20:18:15.999Z",
     "strategy": ".content-card__main"
   }
 ];
