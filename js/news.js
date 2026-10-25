@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T21:54:06.648Z
+// Last updated: 2026-10-25T22:35:08.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "奚夢瑤機場獨自孭背囊行李箱回鄉　驚現「破碎感」神情疲憊玩電話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191131487647305728023196.jpeg/fiHG2U1rjo58mWqh9vSyjRhW-tNYW88Tg-yi7YPsou0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403402/%E5%A5%9A%E5%A4%A2%E7%91%A4%E6%A9%9F%E5%A0%B4%E7%8D%A8%E8%87%AA%E5%AD%AD%E8%83%8C%E5%9B%8A%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%9B%9E%E9%84%89-%E9%A9%9A%E7%8F%BE-%E7%A0%B4%E7%A2%8E%E6%84%9F-%E7%A5%9E%E6%83%85%E7%96%B2%E6%86%8A%E7%8E%A9%E9%9B%BB%E8%A9%B1",
+    "timestamp": "2026-10-25T22:35:08.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞爾維亞國會選舉｜投票率約70%創新高　武契奇承認敗於學生名單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191153188632268800794312.jpeg/dE4Ie8xGz2mGFBP-cV4bxOngDzRam5m7XRpN7F0aTew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403447/%E5%90%B3%E5%8D%93%E7%BE%B2%E5%90%A6%E8%AA%8D%E6%95%99%E4%BA%BA%E7%88%86%E7%B2%97%E7%AC%91%E7%A8%B1-%E4%BD%A0%E5%94%94%E8%AC%9B%E7%B2%97%E5%8F%A3%E3%97%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8B%92%E7%B5%95%E5%8F%AA%E7%94%9F%E4%B8%8D%E5%A9%9A",
     "timestamp": "2026-10-25T14:53:42.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳卓羲否認教人爆粗笑稱「你唔講粗口㗎？」　張曦雯拒絕只生不婚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191153188632268800794312.jpeg/dE4Ie8xGz2mGFBP-cV4bxOngDzRam5m7XRpN7F0aTew?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403447/%E5%90%B3%E5%8D%93%E7%BE%B2%E5%90%A6%E8%AA%8D%E6%95%99%E4%BA%BA%E7%88%86%E7%B2%97%E7%AC%91%E7%A8%B1-%E4%BD%A0%E5%94%94%E8%AC%9B%E7%B2%97%E5%8F%A3%E3%97%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8B%92%E7%B5%95%E5%8F%AA%E7%94%9F%E4%B8%8D%E5%A9%9A",
-    "timestamp": "2026-10-25T14:44:18.866Z",
     "strategy": ".content-card__main"
   }
 ];
