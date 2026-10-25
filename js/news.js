@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T14:18:00.333Z
+// Last updated: 2026-10-25T14:31:53.501Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地廟街單位失火冒煙　消防開喉撲熄　初步疑涉煮食爐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191150243090010112675281.jpeg/AtgGlV0ae1Vz92aj-AKi-kL_lDH5RgKLjJwMcKmcDHA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403445/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BB%9F%E8%A1%97%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E6%92%B2%E7%86%84-%E5%88%9D%E6%AD%A5%E7%96%91%E6%B6%89%E7%85%AE%E9%A3%9F%E7%88%90",
+    "timestamp": "2026-10-25T14:31:53.501Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "強迫孩子吃光飯餸怕浪費？或令孩子忽略飽腹感長遠增飲食失調風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191042038611578880912570.jpeg/7nOwwZpxhUUSe2_--N16yc-7I_jGtzsjDoHg_A6B4Pw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403342/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E9%81%BF%E9%9A%AA%E5%85%88%E7%9F%A5%E5%AE%9A%E7%87%88%E7%A5%9E-%E7%B6%B2%E6%B0%91%E8%A9%95%E5%83%B9%E5%85%A9%E6%A5%B5-%E7%B4%9B%E7%B4%9B%E7%95%99%E8%A8%80%E5%93%80%E6%82%BC",
     "timestamp": "2026-10-25T07:49:36.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沈振盈離世｜沈大師兩天前開咪成絕響　不失好友本色　籲買此資產",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191037612228349952271968.jpeg/imtbV_RUeXA6M9uPYvoU8xrJ86X8ZwDBQ3HChUNxwoU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403358/%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E6%B2%88%E5%A4%A7%E5%B8%AB%E5%85%A9%E5%A4%A9%E5%89%8D%E9%96%8B%E5%92%AA%E6%88%90%E7%B5%95%E9%9F%BF-%E4%B8%8D%E5%A4%B1%E5%A5%BD%E5%8F%8B%E6%9C%AC%E8%89%B2-%E7%B1%B2%E8%B2%B7%E6%AD%A4%E8%B3%87%E7%94%A2",
-    "timestamp": "2026-10-25T07:20:43.686Z",
     "strategy": ".content-card__main"
   }
 ];
