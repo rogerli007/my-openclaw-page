@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T21:42:45.525Z
+// Last updated: 2026-10-25T21:54:06.648Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "塞爾維亞國會選舉｜投票率約70%創新高　武契奇承認敗於學生名單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191258265585979392329716.jpeg/9Djy-1kqs8s2yuDPxk8yzd3Me6V86rgYHPinyBz4p8g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403474/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89-%E6%8A%95%E7%A5%A8%E7%8E%87%E7%B4%8470-%E5%89%B5%E6%96%B0%E9%AB%98-%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AA%8D%E6%95%97%E6%96%BC%E5%AD%B8%E7%94%9F%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-10-25T21:54:06.648Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "塞爾維亞國會選舉｜投票率約70%創新高　武契奇承認敗於學生名單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191153188632268800794312.jpeg/dE4Ie8xGz2mGFBP-cV4bxOngDzRam5m7XRpN7F0aTew?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403447/%E5%90%B3%E5%8D%93%E7%BE%B2%E5%90%A6%E8%AA%8D%E6%95%99%E4%BA%BA%E7%88%86%E7%B2%97%E7%AC%91%E7%A8%B1-%E4%BD%A0%E5%94%94%E8%AC%9B%E7%B2%97%E5%8F%A3%E3%97%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8B%92%E7%B5%95%E5%8F%AA%E7%94%9F%E4%B8%8D%E5%A9%9A",
     "timestamp": "2026-10-25T14:44:18.866Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地廟街單位失火冒煙　消防開喉撲熄　初步疑涉煮食爐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191150243090010112675281.jpeg/AtgGlV0ae1Vz92aj-AKi-kL_lDH5RgKLjJwMcKmcDHA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403445/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BB%9F%E8%A1%97%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E6%92%B2%E7%86%84-%E5%88%9D%E6%AD%A5%E7%96%91%E6%B6%89%E7%85%AE%E9%A3%9F%E7%88%90",
-    "timestamp": "2026-10-25T14:31:53.501Z",
     "strategy": ".content-card__main"
   }
 ];
