@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T10:45:14.310Z
+// Last updated: 2026-10-25T11:18:52.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈大師沈振盈離世｜譚朗蔚憶豪氣往事重友情　郭Sir為大師抱不平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191104669309472768974025.jpeg/ZKe0GrclbdknAtN9CfMHdB6BRzf3kXGPH9kiUR_ZIlE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403418/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E8%AD%9A%E6%9C%97%E8%94%9A%E6%86%B6%E8%B1%AA%E6%B0%A3%E5%BE%80%E4%BA%8B%E9%87%8D%E5%8F%8B%E6%83%85-%E9%83%ADsir%E7%82%BA%E5%A4%A7%E5%B8%AB%E6%8A%B1%E4%B8%8D%E5%B9%B3",
+    "timestamp": "2026-10-25T11:18:52.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沈大師沈振盈離世｜遇突發心臟驟停如何應對？消防處教急救五部曲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190999657006764032105762.png/2sBE2OTCYzrVW-j_u29QQuD_coM9l4Ej_i2ktv4tpLY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60403326/%E5%B7%B4%E5%A3%AB%E5%8A%A0%E5%83%B9-%E9%99%B3%E5%81%A5%E6%B3%A2%E5%80%A1%E4%BB%BF-%E9%90%B5%E8%B7%AF%E5%8A%A0%E7%89%A9%E6%A5%AD-%E6%A8%A1%E5%BC%8F%E5%B9%AB%E8%A3%9C-%E6%88%96%E6%89%B9%E5%9C%B0%E8%B3%BA%E5%85%85%E9%9B%BB%E6%94%B6%E5%85%A5",
     "timestamp": "2026-10-25T04:21:42.821Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "引進辦首六批企業投資283億元　陳茂波：聘逾1萬人較預期多34%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190993376464474112419856.jpeg/7yGyiNtzsoWnEWO6xi_cXx1lo21OVRzVTRjHYU0Yx2E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60403317/%E5%BC%95%E9%80%B2%E8%BE%A6%E9%A6%96%E5%85%AD%E6%89%B9%E4%BC%81%E6%A5%AD%E6%8A%95%E8%B3%87283%E5%84%84%E5%85%83-%E9%99%B3%E8%8C%82%E6%B3%A2-%E8%81%98%E9%80%BE1%E8%90%AC%E4%BA%BA%E8%BC%83%E9%A0%90%E6%9C%9F%E5%A4%9A34",
-    "timestamp": "2026-10-25T03:54:58.242Z",
     "strategy": ".content-card__main"
   }
 ];
