@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T04:47:46.118Z
+// Last updated: 2026-10-25T04:58:49.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜熱刺作客挫車路士聯賽兩連勝　迪沙比絕地奇招領軍逐步復甦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190987476785696768508379.jpeg/rlEgSZw2mGcrhzgN8FfwocfA2UIc39uWRTZ4UkU2eFI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403302/%E8%8B%B1%E8%B6%85-%E7%86%B1%E5%88%BA%E4%BD%9C%E5%AE%A2%E6%8C%AB%E8%BB%8A%E8%B7%AF%E5%A3%AB%E8%81%AF%E8%B3%BD%E5%85%A9%E9%80%A3%E5%8B%9D-%E8%BF%AA%E6%B2%99%E6%AF%94%E7%B5%95%E5%9C%B0%E5%A5%87%E6%8B%9B%E9%A0%98%E8%BB%8D%E9%80%90%E6%AD%A5%E5%BE%A9%E7%94%A6",
+    "timestamp": "2026-10-25T04:58:49.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廖碧兒默認與70歲富豪呂禮章新戀情　指年齡不是問題：最緊要夾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190879752945143808735968.png/ac7gLzWH9MQr7rmOFIl7JsAhQ-9-OLE7Svf620r3-ts",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403287/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E6%92%9E%E5%89%8D%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E8%B7%8C%E8%90%BD%E8%BB%8A%E9%9A%AA%E8%A2%AB%E8%B2%A8%E8%BB%8A%E6%92%9E",
     "timestamp": "2026-10-24T20:54:31.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片︱荃灣電單車收掣不及撞前車　司機跌落車險被貨車撞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190879752945143808735968.png/ac7gLzWH9MQr7rmOFIl7JsAhQ-9-OLE7Svf620r3-ts",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403287/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E6%92%9E%E5%89%8D%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E8%B7%8C%E8%90%BD%E8%BB%8A%E9%9A%AA%E8%A2%AB%E8%B2%A8%E8%BB%8A%E6%92%9E",
-    "timestamp": "2026-10-24T20:32:37.875Z",
     "strategy": ".content-card__main"
   }
 ];
