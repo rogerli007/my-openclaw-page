@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T14:44:18.866Z
+// Last updated: 2026-10-25T14:53:42.168Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳卓羲否認教人爆粗笑稱「你唔講粗口㗎？」　張曦雯拒絕只生不婚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191153188632268800794312.jpeg/dE4Ie8xGz2mGFBP-cV4bxOngDzRam5m7XRpN7F0aTew?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403447/%E5%90%B3%E5%8D%93%E7%BE%B2%E5%90%A6%E8%AA%8D%E6%95%99%E4%BA%BA%E7%88%86%E7%B2%97%E7%AC%91%E7%A8%B1-%E4%BD%A0%E5%94%94%E8%AC%9B%E7%B2%97%E5%8F%A3%E3%97%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E6%8B%92%E7%B5%95%E5%8F%AA%E7%94%9F%E4%B8%8D%E5%A9%9A",
+    "timestamp": "2026-10-25T14:53:42.168Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳卓羲否認教人爆粗笑稱「你唔講粗口㗎？」　張曦雯拒絕只生不婚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190533138820894720760821.jpeg/ZYyvo59u84ttZBqUAgtqtXZupNN8EKS8h1Od-odTnfo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60403093/vtc%E6%88%90%E7%AB%8B%E8%B3%BD%E9%A6%AC%E6%9C%83%E7%89%99%E7%A7%91%E8%AD%B7%E7%90%86%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83-%E9%A6%96%E5%B1%8660%E5%90%8D%E5%AD%B8%E5%93%A1%E7%95%A2%E6%A5%AD%E6%8A%95%E8%BA%AB%E6%A5%AD%E7%95%8C",
     "timestamp": "2026-10-25T08:24:04.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "姚瑩瑩15歲仔身高直逼米七媽媽！曾患罕見病變游泳健將讀星級名校",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190887080155156480684205.jpeg/3KXNFWpPhamtZU_hocppwNwVvIn70-GJ9nQ78vZ0O_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60403094/%E5%A7%9A%E7%91%A9%E7%91%A915%E6%AD%B2%E4%BB%94%E8%BA%AB%E9%AB%98%E7%9B%B4%E9%80%BC%E7%B1%B3%E4%B8%83%E5%AA%BD%E5%AA%BD-%E6%9B%BE%E6%82%A3%E7%BD%95%E8%A6%8B%E7%97%85%E8%AE%8A%E6%B8%B8%E6%B3%B3%E5%81%A5%E5%B0%87%E8%AE%80%E6%98%9F%E7%B4%9A%E5%90%8D%E6%A0%A1",
-    "timestamp": "2026-10-25T07:54:39.253Z",
     "strategy": ".content-card__main"
   }
 ];
