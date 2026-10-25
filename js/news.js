@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T22:55:09.104Z
+// Last updated: 2026-10-25T23:17:41.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胎兒「扮鬼臉」新手爸讚可愛　真相恐悲哀　醫生：建議終止懷孕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191216960948408320386514.png/ewjqzypGE6X3R6uf_R7o_NT7Q7ROiSYJTZfe9E2X3vQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402189/%E8%83%8E%E5%85%92-%E6%89%AE%E9%AC%BC%E8%87%89-%E6%96%B0%E6%89%8B%E7%88%B8%E8%AE%9A%E5%8F%AF%E6%84%9B-%E7%9C%9F%E7%9B%B8%E6%81%90%E6%98%AF%E5%85%94%E5%94%87-%E9%86%AB%E7%94%9F-%E5%BB%BA%E8%AD%B0%E7%B5%82%E6%AD%A2%E6%87%B7%E5%AD%95",
+    "timestamp": "2026-10-25T23:17:41.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致天晴　日間最高約30度　未來一兩日風勢較大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107875598597885952681950.png/kOuehWyhAQtb0mzzXhGbFmPQ-E4HB8du1hdJL9YXSS8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328844/%E6%84%8F%E5%A4%96%E8%B7%8C%E5%80%92-%E6%88%90%E9%95%B7%E8%80%85%E5%A5%AA%E5%91%BD%E9%9A%B1%E5%BD%A2%E6%AE%BA%E6%89%8B-%E9%86%AB%E5%B8%AB%E6%8F%AD%E6%85%98%E6%B3%81-%E6%88%96%E6%94%B9%E8%AE%8A%E4%B8%8B%E5%8D%8A%E8%BC%A9%E5%AD%90",
     "timestamp": "2026-10-25T16:34:45.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "睡得快不一定好世界！「倒頭就睡」或是健康警號　可致記憶力下降",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260105/1084908853058867200743591.jpeg/EEntpXLZfgAIXatqG9EQQHCevf6mOdTruoYb6rqGG-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60309907/%E7%9D%A1%E5%BE%97%E5%BF%AB%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%A5%BD%E4%B8%96%E7%95%8C-%E5%80%92%E9%A0%AD%E5%B0%B1%E7%9D%A1-%E6%88%96%E6%98%AF%E5%81%A5%E5%BA%B7%E8%AD%A6%E8%99%9F-%E5%8F%AF%E8%87%B4%E8%A8%98%E6%86%B6%E5%8A%9B%E4%B8%8B%E9%99%8D",
-    "timestamp": "2026-10-25T15:59:05.977Z",
     "strategy": ".content-card__main"
   }
 ];
