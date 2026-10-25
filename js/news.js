@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T03:23:35.702Z
+// Last updated: 2026-10-25T03:54:58.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "引進辦首六批企業投資283億元　陳茂波：聘逾1萬人較預期多34%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190993376464474112419856.jpeg/7yGyiNtzsoWnEWO6xi_cXx1lo21OVRzVTRjHYU0Yx2E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60403317/%E5%BC%95%E9%80%B2%E8%BE%A6%E9%A6%96%E5%85%AD%E6%89%B9%E4%BC%81%E6%A5%AD%E6%8A%95%E8%B3%87283%E5%84%84%E5%85%83-%E9%99%B3%E8%8C%82%E6%B3%A2-%E8%81%98%E9%80%BE1%E8%90%AC%E4%BA%BA%E8%BC%83%E9%A0%90%E6%9C%9F%E5%A4%9A34",
+    "timestamp": "2026-10-25T03:54:58.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普左臉驚現大片瘀青　發文嘆「生病的人只求康復」引遐想",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190861607933054976815794.jpeg/CF-HDBnuAKdsO-bmz6SA9QWZr4yn88jUsvnwfLL58Hw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403286/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E7%A8%B1%E4%B8%8D%E6%9C%83%E7%82%BA%E7%B5%90%E6%9D%9F%E6%88%B0%E4%BA%8B%E6%94%BE%E6%A3%84%E6%9B%B4%E5%A4%9A%E9%A0%98%E5%9C%9F-%E6%98%9F%E9%8F%88%E5%B7%B2%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8%E9%80%9F%E5%BA%A6",
     "timestamp": "2026-10-24T19:53:48.362Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉休學入行說服母親 唱片公司總經理承諾一年內出碟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190683618322681856409285.jpeg/J-j9tM2ikdbXX9zEY42-Utt_PLgNW95HSuQ8sErkPLA",
-    "url": "https://www.hk01.com/01TV/60403187/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%BC%91%E5%AD%B8%E5%85%A5%E8%A1%8C%E8%AA%AA%E6%9C%8D%E6%AF%8D%E8%A6%AA-%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%E7%B8%BD%E7%B6%93%E7%90%86%E6%89%BF%E8%AB%BE%E4%B8%80%E5%B9%B4%E5%85%A7%E5%87%BA%E7%A2%9F",
-    "timestamp": "2026-10-24T19:46:20.573Z",
     "strategy": ".content-card__main"
   }
 ];
