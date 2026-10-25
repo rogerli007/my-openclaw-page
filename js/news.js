@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T12:28:34.285Z
+// Last updated: 2026-10-25T12:49:15.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：日本車廠縮短開發周期　追趕中國對手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250117/956943223601893376192850.jpeg/qPU9G13m5Xi2AZwLpJOH3plwpt0U5WMk_Dw6Tvw8Ok4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403428/%E6%97%A5%E5%AA%92-%E6%97%A5%E6%9C%AC%E8%BB%8A%E5%BB%A0%E7%B8%AE%E7%9F%AD%E9%96%8B%E7%99%BC%E5%91%A8%E6%9C%9F-%E8%BF%BD%E8%B6%95%E4%B8%AD%E5%9C%8B%E5%B0%8D%E6%89%8B",
+    "timestamp": "2026-10-25T12:49:15.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SEN小孩家長向港鐵索感官玩具遭質疑　職業治療師倡善用已有標識",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191022400133664768273491.jpeg/GYSRfDgQdT_7HYSR4PF6F45CwAYIelOadRQnm0MUJ5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403343/%E6%B2%88%E5%A4%A7%E5%B8%AB-%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B465%E6%AD%B2-%E6%9C%B1%E5%87%B1%E5%A9%B7%E9%A9%9A%E8%81%9E%E8%A8%83%E8%A8%8A%E9%9B%A3%E9%81%8E-%E4%BD%A2%E5%A5%BD%E8%A6%AA%E5%92%8C",
     "timestamp": "2026-10-25T05:49:28.220Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "民安隊：攀山事故數字按年減三成　惟多涉獨自行山　籲勿單獨行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191015028166496256327415.jpeg/QcBHsKXXLZp_D0sYwg30MOKBcKkBxPHb9uCgm9PgoJs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403339/%E6%B0%91%E5%AE%89%E9%9A%8A-%E6%94%80%E5%B1%B1%E4%BA%8B%E6%95%85%E6%95%B8%E5%AD%97%E6%8C%89%E5%B9%B4%E6%B8%9B%E4%B8%89%E6%88%90-%E6%83%9F%E5%A4%9A%E6%B6%89%E7%8D%A8%E8%87%AA%E8%A1%8C%E5%B1%B1-%E7%B1%B2%E5%8B%BF%E5%96%AE%E7%8D%A8%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-10-25T05:34:06.422Z",
     "strategy": ".content-card__main"
   }
 ];
