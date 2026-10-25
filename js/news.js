@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T08:24:04.987Z
+// Last updated: 2026-10-25T08:58:19.175Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "59歲「Laughing哥」謝天華狀態大勇　與食客合照獲讚聲音超溫柔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190284929506742272593847.jpeg/RkWMrDTsdIGDxLTqQh96y2k6Uct2DifQW4_WUVuP1lE",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60402507/59%E6%AD%B2-laughing%E5%93%A5-%E8%AC%9D%E5%A4%A9%E8%8F%AF%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87-%E8%88%87%E9%A3%9F%E5%AE%A2%E5%90%88%E7%85%A7%E7%8D%B2%E8%AE%9A%E8%81%B2%E9%9F%B3%E8%B6%85%E6%BA%AB%E6%9F%94",
+    "timestamp": "2026-10-25T08:58:19.175Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "VTC成立賽馬會牙科護理訓練中心    首屆60名學員畢業投身業界",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190931611986694144290675.jpeg/qO9wLdePyA7vnA0RtVO4WMh2wQIrCBVHsIALU7CAC1M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403293/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8%E4%BB%8A%E8%88%89%E8%A1%8C%E6%AC%A1%E8%BC%AA%E6%8A%95%E7%A5%A8-%E5%8D%9A%E7%88%BE%E7%B4%A2%E7%B4%8D%E7%BE%85%E4%B9%8B%E5%AD%90%E6%B0%91%E8%AA%BF%E8%BC%95%E5%BE%AE%E9%A0%98%E5%85%88%E7%9B%A7%E6%8B%89",
     "timestamp": "2026-10-24T23:53:47.561Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奧巴馬狠批特朗普腐敗沉迷裝修白宮　像薩達姆開連鎖餐廳｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190916787458281472012659.jpeg/hqwAW-lrS3QLItcKbrxY31uAjJta2q9KegbwEnoG8BI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403292/%E5%A5%A7%E5%B7%B4%E9%A6%AC%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E8%85%90%E6%95%97%E6%B2%89%E8%BF%B7%E8%A3%9D%E4%BF%AE%E7%99%BD%E5%AE%AE-%E5%83%8F%E8%96%A9%E9%81%94%E5%A7%86%E9%96%8B%E9%80%A3%E9%8E%96%E9%A4%90%E5%BB%B3-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-24T23:28:41.258Z",
     "strategy": ".content-card__main"
   }
 ];
