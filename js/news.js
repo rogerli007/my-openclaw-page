@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T23:17:41.398Z
+// Last updated: 2026-10-25T23:29:51.181Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "腦癌│壯年教授半身無力頭暈疑中風　腦腫瘤如棒球大　醫列6大警號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187376658047307776013645.jpeg/P52Nhfcoqrq-B-IpYNXbu5Ypr8zDp5h1aockF2qHJBc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60399214/%E8%85%A6%E7%99%8C-%E5%A3%AF%E5%B9%B4%E6%95%99%E6%8E%88%E5%8D%8A%E8%BA%AB%E7%84%A1%E5%8A%9B%E9%A0%AD%E6%9A%88%E7%96%91%E4%B8%AD%E9%A2%A8-%E8%85%A6%E8%85%AB%E7%98%A4%E5%A6%82%E6%A3%92%E7%90%83%E5%A4%A7-%E9%86%AB%E5%88%976%E5%A4%A7%E8%AD%A6%E8%99%9F",
+    "timestamp": "2026-10-25T23:29:51.181Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胎兒「扮鬼臉」新手爸讚可愛　真相恐悲哀　醫生：建議終止懷孕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191187060292063232631082.jpeg/-LhiPk1YAv-HyD4SuFK1EuUwyOGkiVAL9y2OhvctjoY",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60403456/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-cfo%E5%B0%8Dt1-%E7%91%9E%E5%A3%AB%E8%BC%AA16%E5%BC%B7%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-10-25T16:47:15.519Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「意外跌倒」成長者奪命隱形殺手！醫師揭慘況：或改變下半輩子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260310/1107875598597885952681950.png/kOuehWyhAQtb0mzzXhGbFmPQ-E4HB8du1hdJL9YXSS8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60328844/%E6%84%8F%E5%A4%96%E8%B7%8C%E5%80%92-%E6%88%90%E9%95%B7%E8%80%85%E5%A5%AA%E5%91%BD%E9%9A%B1%E5%BD%A2%E6%AE%BA%E6%89%8B-%E9%86%AB%E5%B8%AB%E6%8F%AD%E6%85%98%E6%B3%81-%E6%88%96%E6%94%B9%E8%AE%8A%E4%B8%8B%E5%8D%8A%E8%BC%A9%E5%AD%90",
-    "timestamp": "2026-10-25T16:34:45.629Z",
     "strategy": ".content-card__main"
   }
 ];
