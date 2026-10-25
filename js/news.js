@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T13:54:05.930Z
+// Last updated: 2026-10-25T14:18:00.333Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "強迫孩子吃光飯餸怕浪費？或令孩子忽略飽腹感長遠增飲食失調風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186460365110644736431985.jpeg/iv-MfgT_aQgbRNu_Aiw-L5mkMv8yA1YnENhPIhDYTyI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60397374/%E5%BC%B7%E8%BF%AB%E5%AD%A9%E5%AD%90%E5%90%83%E5%85%89%E9%A3%AF%E9%A4%B8%E6%80%95%E6%B5%AA%E8%B2%BB-%E6%88%96%E4%BB%A4%E5%AD%A9%E5%AD%90%E5%BF%BD%E7%95%A5%E9%A3%BD%E8%85%B9%E6%84%9F%E9%95%B7%E9%81%A0%E5%A2%9E%E9%A3%B2%E9%A3%9F%E5%A4%B1%E8%AA%BF%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-10-25T14:18:00.333Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜旺角登打士街男子情緒激動　馬路中央遭眾警員按地制服",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191037612228349952271968.jpeg/imtbV_RUeXA6M9uPYvoU8xrJ86X8ZwDBQ3HChUNxwoU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403358/%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E6%B2%88%E5%A4%A7%E5%B8%AB%E5%85%A9%E5%A4%A9%E5%89%8D%E9%96%8B%E5%92%AA%E6%88%90%E7%B5%95%E9%9F%BF-%E4%B8%8D%E5%A4%B1%E5%A5%BD%E5%8F%8B%E6%9C%AC%E8%89%B2-%E7%B1%B2%E8%B2%B7%E6%AD%A4%E8%B3%87%E7%94%A2",
     "timestamp": "2026-10-25T07:20:43.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沈大師沈振盈離世│回顧股壇燈神10大金句　網民惋惜：一路好走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191034593604538368502843.jpeg/NmDGeN-7XSrZiBZr7cnrIW4SVqYi-jAm5KfuhuSn7oY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403354/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E5%9B%9E%E9%A1%A7%E8%82%A1%E5%A3%87%E7%87%88%E7%A5%9E10%E5%A4%A7%E9%87%91%E5%8F%A5-%E7%B6%B2%E6%B0%91%E6%83%8B%E6%83%9C-%E4%B8%80%E8%B7%AF%E5%A5%BD%E8%B5%B0",
-    "timestamp": "2026-10-25T06:55:54.505Z",
     "strategy": ".content-card__main"
   }
 ];
