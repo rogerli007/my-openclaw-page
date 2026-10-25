@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T04:58:49.665Z
+// Last updated: 2026-10-25T05:23:04.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨越17年圓夢　張雪挑戰電單車水上漂40公里創健力士世界紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191013773134008320562039.png/qM9rsIO6NcUA7bdvUge4hiPKZGb7NIssTV6amk1empo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403334/%E8%B7%A8%E8%B6%8A17%E5%B9%B4%E5%9C%93%E5%A4%A2-%E5%BC%B5%E9%9B%AA%E6%8C%91%E6%88%B0%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%B0%B4%E4%B8%8A%E6%BC%8240%E5%85%AC%E9%87%8C%E5%89%B5%E5%81%A5%E5%8A%9B%E5%A3%AB%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-10-25T05:23:04.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜熱刺作客挫車路士聯賽兩連勝　迪沙比絕地奇招領軍逐步復甦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260911/1174966251819110400795324.jpeg/1hagNAWJsXTjPUOKu7dpqt8-beZcPcVKIT06wxs9OsM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403289/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8F%AF%E5%AF%8C%E9%82%A8%E8%80%81%E7%BF%81%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%BA%A1",
     "timestamp": "2026-10-24T21:17:44.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片︱荃灣電單車收掣不及撞前車　司機跌落車險被貨車撞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190879752945143808735968.png/ac7gLzWH9MQr7rmOFIl7JsAhQ-9-OLE7Svf620r3-ts",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403287/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%94%B6%E6%8E%A3%E4%B8%8D%E5%8F%8A%E6%92%9E%E5%89%8D%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E8%B7%8C%E8%90%BD%E8%BB%8A%E9%9A%AA%E8%A2%AB%E8%B2%A8%E8%BB%8A%E6%92%9E",
-    "timestamp": "2026-10-24T20:54:31.968Z",
     "strategy": ".content-card__main"
   }
 ];
