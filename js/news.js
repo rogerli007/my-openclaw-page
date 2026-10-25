@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T07:20:43.686Z
+// Last updated: 2026-10-25T07:49:36.519Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沈大師沈振盈離世｜避險先知定燈神？網民評價兩極　紛紛留言哀悼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191042038611578880912570.jpeg/7nOwwZpxhUUSe2_--N16yc-7I_jGtzsjDoHg_A6B4Pw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403342/%E6%B2%88%E5%A4%A7%E5%B8%AB%E6%B2%88%E6%8C%AF%E7%9B%88%E9%9B%A2%E4%B8%96-%E9%81%BF%E9%9A%AA%E5%85%88%E7%9F%A5%E5%AE%9A%E7%87%88%E7%A5%9E-%E7%B6%B2%E6%B0%91%E8%A9%95%E5%83%B9%E5%85%A9%E6%A5%B5-%E7%B4%9B%E7%B4%9B%E7%95%99%E8%A8%80%E5%93%80%E6%82%BC",
+    "timestamp": "2026-10-25T07:49:36.519Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沈振盈離世｜沈大師兩天前開咪成絕響　不失好友本色　籲買此資產",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190916417550028800024381.jpeg/br98vc4c8ao_xvvawEfiUT8XzDl2cSRFr6EMJa-hDCU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403291/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E5%B7%A5%E6%9C%83%E7%A8%B180%E8%90%AC%E4%BA%BA%E4%B8%8A%E8%A1%97%E8%BF%91%E5%8D%83%E4%BA%BA%E8%A2%AB%E6%8D%95-%E5%B7%B4%E9%BB%8E%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%BD%8A%E7%99%BC-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-24T22:55:45.594Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國示威工會稱80萬人參加近千人被捕　巴黎催淚彈水炮齊發｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190909623683518464017456.jpeg/FdnxmBcR4TOTCJBQFHnUF2pfVYciM7b2ax2bT2sdm08?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403291/%E6%B3%95%E5%9C%8B%E7%A4%BA%E5%A8%81%E5%B7%A5%E6%9C%83%E7%A8%B180%E8%90%AC%E4%BA%BA%E5%8F%83%E5%8A%A0%E8%BF%91%E5%8D%83%E4%BA%BA%E8%A2%AB%E6%8D%95-%E5%B7%B4%E9%BB%8E%E5%82%AC%E6%B7%9A%E5%BD%88%E6%B0%B4%E7%82%AE%E9%BD%8A%E7%99%BC-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-24T22:42:53.954Z",
     "strategy": ".content-card__main"
   }
 ];
