@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T00:48:58.316Z
+// Last updated: 2026-10-26T01:20:43.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜上水寶石湖邨28歲男墮樓　送院救治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240823/903587584586944512851094.jpeg/qhy_uAo6vLPwv5XVlGdxFZyEsJIMKqbRrymAL68pgC8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403486/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%8A%E6%B0%B4%E5%AF%B6%E7%9F%B3%E6%B9%96%E9%82%A828%E6%AD%B2%E7%94%B7%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
+    "timestamp": "2026-10-26T01:20:43.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美團擬發人民幣優先票據　用於離岸債務再融資",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191193892129607680684273.png/r8UTG3s52p_9dcZzuK0zgaEC3n3m9P3-SNooBkjaKAY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403466/%E5%BE%80%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A%E7%B9%81%E5%BF%99-%E8%AD%A6%E6%96%B9%E5%AF%A6%E6%96%BD%E4%BA%BA%E7%BE%A4%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6-%E5%B9%B3%E5%9D%87%E9%A0%88%E8%BC%AA%E5%80%9925%E5%88%86%E9%90%98",
     "timestamp": "2026-10-25T17:16:37.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026｜CFO對T1！瑞士輪16強賽程結果+免費直播連結一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191187060292063232631082.jpeg/-LhiPk1YAv-HyD4SuFK1EuUwyOGkiVAL9y2OhvctjoY",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60403456/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-cfo%E5%B0%8Dt1-%E7%91%9E%E5%A3%AB%E8%BC%AA16%E5%BC%B7%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-10-25T16:56:39.363Z",
     "strategy": ".content-card__main"
   }
 ];
