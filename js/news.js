@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T01:20:43.349Z
+// Last updated: 2026-10-26T01:58:42.598Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬斯克：SpaceX獲400億美元債務融資　用於採購AI晶片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188380153835687936726485.jpeg/ak6XT3aXY0ld3yy_nsNnco_tDgSf8foWjxKEZ48ShGc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403490/%E9%A6%AC%E6%96%AF%E5%85%8B-spacex%E7%8D%B2400%E5%84%84%E7%BE%8E%E5%85%83%E5%82%B5%E5%8B%99%E8%9E%8D%E8%B3%87-%E7%94%A8%E6%96%BC%E6%8E%A1%E8%B3%BCai%E6%99%B6%E7%89%87",
+    "timestamp": "2026-10-26T01:58:42.598Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜上水寶石湖邨28歲男墮樓　送院救治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191193892129607680684273.png/r8UTG3s52p_9dcZzuK0zgaEC3n3m9P3-SNooBkjaKAY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403466/%E5%BE%80%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A%E7%B9%81%E5%BF%99-%E8%AD%A6%E6%96%B9%E5%AF%A6%E6%96%BD%E4%BA%BA%E7%BE%A4%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6-%E5%B9%B3%E5%9D%87%E9%A0%88%E8%BC%AA%E5%80%9925%E5%88%86%E9%90%98",
     "timestamp": "2026-10-25T17:41:14.253Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "往新皇崗口岸交通繁忙　警方實施人群交通管制　平均須輪候25分鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191193892129607680684273.png/r8UTG3s52p_9dcZzuK0zgaEC3n3m9P3-SNooBkjaKAY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403466/%E5%BE%80%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A%E7%B9%81%E5%BF%99-%E8%AD%A6%E6%96%B9%E5%AF%A6%E6%96%BD%E4%BA%BA%E7%BE%A4%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6-%E5%B9%B3%E5%9D%87%E9%A0%88%E8%BC%AA%E5%80%9925%E5%88%86%E9%90%98",
-    "timestamp": "2026-10-25T17:16:37.902Z",
     "strategy": ".content-card__main"
   }
 ];
