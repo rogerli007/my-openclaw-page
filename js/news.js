@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T22:20:47.613Z
+// Last updated: 2026-10-26T22:45:37.327Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張智霖歷年三大惹火言論盤點　失落視帝指：係咪代表TVB唔鍾意我",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191464379837583360309172.jpeg/OtZ0si1Sw5aLJh7dhC_FiOI39mh8owbNLApTPywKUz8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403752/%E7%9B%A4%E9%BB%9E%E5%BC%B5%E6%99%BA%E9%9C%96%E6%AD%B7%E5%B9%B4%E4%B8%89%E5%A4%A7%E6%83%B9%E7%81%AB%E8%A8%80%E8%AB%96-%E5%A4%B1%E8%90%BD%E8%A6%96%E5%B8%9D%E4%B8%B2%E7%88%86tvb-%E6%BB%85%E7%8B%97%E8%AB%96-%E6%9B%B4%E9%A9%9A%E4%BA%BA",
+    "timestamp": "2026-10-26T22:45:37.327Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日早晚有幾陣雨　日間大致天晴約30度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151611373810094080296370.jpeg/Rc711KSrExGIkS5WCbNmhD5RyE18asa0OQOnIDkDpyA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403784/anthropic%E5%90%91%E7%BE%8E%E5%AA%92%E8%AD%89%E5%AF%A6claude%E6%9C%AA%E7%B6%93%E4%BA%BA%E9%A1%9E%E6%8E%88%E6%AC%8A-%E5%8F%96%E4%BD%90%E6%B2%BB%E4%BA%9E%E6%8A%95%E7%A5%A8%E7%B5%B1%E8%A8%88%E6%95%B8%E6%93%9A",
     "timestamp": "2026-10-26T11:20:26.048Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "草蜢澳門開騷感性發言憶梅艷芳往事   蔡一傑談腦癌開刀2年後現況",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191415060669403136589061.png/q4HOktgilgzIQXv8PT1ZOrQiHzqh76unqfdsJqn3bCY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60403628/%E8%8D%89%E8%9C%A2%E6%BE%B3%E9%96%80%E9%96%8B%E9%A8%B7%E6%84%9F%E6%80%A7%E7%99%BC%E8%A8%80%E6%86%B6%E6%A2%85%E8%89%B7%E8%8A%B3%E5%BE%80%E4%BA%8B-%E8%94%A1%E4%B8%80%E5%82%91%E8%AB%87%E8%85%A6%E7%99%8C%E9%96%8B%E5%88%802%E5%B9%B4%E5%BE%8C%E7%8F%BE%E6%B3%81",
-    "timestamp": "2026-10-26T10:39:40.894Z",
     "strategy": ".content-card__main"
   }
 ];
