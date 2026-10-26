@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T18:32:03.898Z
+// Last updated: 2026-10-26T19:00:36.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯合國調查委員會：以色列犯下戰爭罪　持續在加沙種族滅絕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191569539712684032621839.jpeg/M8E9n5_LITvnLd0CXHSlDnRNOhkLasR2fB-_hnwfv4Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403838/%E8%81%AF%E5%90%88%E5%9C%8B%E8%AA%BF%E6%9F%A5%E5%A7%94%E5%93%A1%E6%9C%83-%E4%BB%A5%E8%89%B2%E5%88%97%E7%8A%AF%E4%B8%8B%E6%88%B0%E7%88%AD%E7%BD%AA-%E6%8C%81%E7%BA%8C%E5%9C%A8%E5%8A%A0%E6%B2%99%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95",
+    "timestamp": "2026-10-26T19:00:36.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯合國調查委員會：以色列犯下戰爭罪　持續在加沙種族滅絕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20150702/1435834319559517cf29f26.jpg/tIKkW1I1GNH-nuT5FA4-ENXT3_B-eqdNGj3bkRo925E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60403508/%E4%B8%AD%E5%85%A8%E6%9C%83%E9%A6%96%E6%AC%A1%E8%81%9A%E7%84%A6%E5%85%A8%E9%9D%A2%E5%BE%9E%E5%9A%B4%E6%B2%BB%E9%BB%A8-%E4%BA%94%E4%B8%AD%E5%85%A8%E6%9C%83%E9%9C%80%E8%A6%81%E5%8B%87%E6%95%A2%E9%82%81%E5%87%BA%E5%8F%8D%E8%85%90%E6%96%B0%E6%AD%A5%E4%BC%90",
     "timestamp": "2026-10-26T03:55:00.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警毒品調查科搗新田大麻儲存倉　檢逾69公斤毒品拘一男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155090392497000448950321.jpeg/n-kMiu54j2l774ldw_YK9sz7w4XQEiwaWZVRrVmVUa0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403501/%E8%AD%A6%E6%AF%92%E5%93%81%E8%AA%BF%E6%9F%A5%E7%A7%91%E6%90%97%E6%96%B0%E7%94%B0%E5%A4%A7%E9%BA%BB%E5%84%B2%E5%AD%98%E5%80%89-%E6%AA%A2%E9%80%BE69%E5%85%AC%E6%96%A4%E6%AF%92%E5%93%81%E6%8B%98%E4%B8%80%E7%94%B7",
-    "timestamp": "2026-10-26T03:26:59.845Z",
     "strategy": ".content-card__main"
   }
 ];
