@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T19:57:33.073Z
+// Last updated: 2026-10-26T20:21:09.200Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
+    "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
+    "timestamp": "2026-10-26T20:21:09.200Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西大選｜多個支持弗拉維奧的政黨承認盧拉勝選　不支持廢除結果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240702/884919709575680000083196.jpeg/pyv0wm98UwqG-JGXbkVrqYfyAGs3i-SS736OdO9-jnQ?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60403542/%E4%BE%86%E7%A8%BF-%E5%8C%97%E4%BA%AC%E9%87%8D%E6%96%B0%E6%8E%A5%E5%BE%85%E6%B2%88%E5%A4%A7%E5%81%89-%E4%B8%8D%E6%98%AF%E5%8E%9F%E8%AB%92-%E6%98%AF%E6%9C%89%E8%87%AA%E4%BF%A1",
     "timestamp": "2026-10-26T06:06:37.411Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚旻萱｜黃澤林緋聞女友3大蛻變　曾重170磅！靠打籃球逆襲成女神",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191385112051191808206739.jpeg/iqeJvhAjkSJr9H7kQolwPxDiLLAYmlrsBAwv2wQML9s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60403502/%E8%AD%9A%E6%97%BB%E8%90%B1-%E9%BB%83%E6%BE%A4%E6%9E%97%E7%B7%8B%E8%81%9E%E5%A5%B3%E5%8F%8B3%E5%A4%A7%E8%9B%BB%E8%AE%8A-%E6%9B%BE%E9%87%8D170%E7%A3%85-%E9%9D%A0%E6%89%93%E7%B1%83%E7%90%83%E9%80%86%E8%A5%B2%E6%88%90%E5%A5%B3%E7%A5%9E",
-    "timestamp": "2026-10-26T05:49:34.916Z",
     "strategy": ".content-card__main"
   }
 ];
