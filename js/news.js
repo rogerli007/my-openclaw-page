@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T16:49:54.092Z
+// Last updated: 2026-10-26T17:01:23.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓版Doctor X｜光州事件倖存者彈片留腦46年　金智媛挑戰腦幹手術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191431938741637120513072.png/TSA7S9qwZEsS1q5MF_w1zHHykk0heen4_KWitfylorU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403652/%E9%9F%93%E7%89%88doctor-x-%E5%85%89%E5%B7%9E%E4%BA%8B%E4%BB%B6%E5%80%96%E5%AD%98%E8%80%85%E5%BD%88%E7%89%87%E7%95%99%E8%85%A646%E5%B9%B4-%E9%87%91%E6%99%BA%E5%AA%9B%E6%8C%91%E6%88%B0%E8%85%A6%E5%B9%B9%E6%89%8B%E8%A1%93",
+    "timestamp": "2026-10-26T17:01:23.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓版Doctor X｜光州事件倖存者彈片留腦46年　金智媛挑戰腦幹手術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191329417251524608374891.jpeg/I0EF9y5KWVTgAXkYPsPwgeR1OZM2ydLOvfFwJr3xcCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403492/%E6%B5%B7%E8%BB%8D%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%B8%E8%B7%A8%E6%99%9D%E5%A4%9C%E9%A3%9B%E8%A1%8C%E8%A8%93%E7%B7%B4-%E6%AE%B2-15%E7%B4%85%E8%97%8D%E5%B0%8D%E6%8A%97%E9%AB%98%E6%B8%85%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89",
     "timestamp": "2026-10-26T02:30:37.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬斯克：SpaceX獲400億美元債務融資　用於採購AI晶片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188380153835687936726485.jpeg/ak6XT3aXY0ld3yy_nsNnco_tDgSf8foWjxKEZ48ShGc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403490/%E9%A6%AC%E6%96%AF%E5%85%8B-spacex%E7%8D%B2400%E5%84%84%E7%BE%8E%E5%85%83%E5%82%B5%E5%8B%99%E8%9E%8D%E8%B3%87-%E7%94%A8%E6%96%BC%E6%8E%A1%E8%B3%BCai%E6%99%B6%E7%89%87",
-    "timestamp": "2026-10-26T01:58:42.598Z",
     "strategy": ".content-card__main"
   }
 ];
