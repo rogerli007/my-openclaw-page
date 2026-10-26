@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T23:01:06.510Z
+// Last updated: 2026-10-26T23:17:52.828Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加州女疑駕駛時看成人網站　致3車相撞釀1死　被控駕車過失殺人罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191557141551386624649203.png/byTvpRWK1SF2pWBLVYyZA-1S4d7dv1iqG8wa3xvMGt8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60403357/%E5%8A%A0%E5%B7%9E%E5%A5%B3%E7%96%91%E9%A7%95%E9%A7%9B%E6%99%82%E7%9C%8B%E6%88%90%E4%BA%BA%E7%B6%B2%E7%AB%99-%E8%87%B43%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E6%AD%BB-%E8%A2%AB%E6%8E%A7%E9%A7%95%E8%BB%8A%E9%81%8E%E5%A4%B1%E6%AE%BA%E4%BA%BA%E7%BD%AA",
+    "timestamp": "2026-10-26T23:17:52.828Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張智霖歷年三大惹火言論盤點　失落視帝指：係咪代表TVB唔鍾意我",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191352586456797184490578.png/N10eFArhu7XQFXiJjCD5OkbEzQBq-QX3mv3I1Jr9yNQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60403549/%E6%9A%97%E9%BB%91%E5%89%8D%E7%94%B0%E6%95%A6%E5%AD%90-%E7%90%A5%E7%8F%80%E6%AD%8C%E6%8F%AD%E5%B7%94%E5%B3%B0%E5%BC%95%E9%80%80%E5%85%A7%E5%B9%95-%E9%81%AD%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%81%B7%E8%A3%9Dgps%E5%85%BC%E8%BB%9F%E7%A6%81",
     "timestamp": "2026-10-26T14:39:54.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜朋友指鄺港智似富有坐勞斯萊斯　交新女友後要搬曾求助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182645280231657472632014.jpeg/2gQZNdDBmzkXLAKPq62heiPLhKvd03QHidlftonZX7Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403790/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E6%9C%8B%E5%8F%8B%E6%8C%87%E9%84%BA%E6%B8%AF%E6%99%BA%E4%BC%BC%E5%AF%8C%E6%9C%89%E5%9D%90%E5%8B%9E%E6%96%AF%E8%90%8A%E6%96%AF-%E4%BA%A4%E6%96%B0%E5%A5%B3%E5%8F%8B%E5%BE%8C%E8%A6%81%E6%90%AC%E6%9B%BE%E6%B1%82%E5%8A%A9",
-    "timestamp": "2026-10-26T11:48:57.141Z",
     "strategy": ".content-card__main"
   }
 ];
