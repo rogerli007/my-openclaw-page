@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T09:06:22.135Z
+// Last updated: 2026-10-26T09:45:56.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇崗口岸塞車｜政黨倡增上落客區避免人等車　設排隊區避車龍倒灌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190293180331855872950374.jpeg/cm2TZ9NduXkYTRRn7rfk8WYkj7o0kS43L1KGugpShro?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403725/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%A1%9E%E8%BB%8A-%E6%94%BF%E9%BB%A8%E5%80%A1%E5%A2%9E%E4%B8%8A%E8%90%BD%E5%AE%A2%E5%8D%80%E9%81%BF%E5%85%8D%E4%BA%BA%E7%AD%89%E8%BB%8A-%E8%A8%AD%E6%8E%92%E9%9A%8A%E5%8D%80%E9%81%BF%E8%BB%8A%E9%BE%8D%E5%80%92%E7%81%8C",
+    "timestamp": "2026-10-26T09:45:56.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "饒舌天后Nicki Minaj現身特朗普造勢活動　獲讚「美臀」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191275515420348416879205.jpeg/_BhtiMm0XK6w5cQoQAgWQuRidhcLQoMGTETjU0xE41M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60403462/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E9%A2%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
     "timestamp": "2026-10-25T22:41:49.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "奚夢瑤機場獨自孭背囊行李箱回鄉　驚現「破碎感」神情疲憊玩電話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191131487647305728023196.jpeg/fiHG2U1rjo58mWqh9vSyjRhW-tNYW88Tg-yi7YPsou0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403402/%E5%A5%9A%E5%A4%A2%E7%91%A4%E6%A9%9F%E5%A0%B4%E7%8D%A8%E8%87%AA%E5%AD%AD%E8%83%8C%E5%9B%8A%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%9B%9E%E9%84%89-%E9%A9%9A%E7%8F%BE-%E7%A0%B4%E7%A2%8E%E6%84%9F-%E7%A5%9E%E6%83%85%E7%96%B2%E6%86%8A%E7%8E%A9%E9%9B%BB%E8%A9%B1",
-    "timestamp": "2026-10-25T22:35:08.867Z",
     "strategy": ".content-card__main"
   }
 ];
