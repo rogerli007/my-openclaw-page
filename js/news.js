@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T02:30:37.792Z
+// Last updated: 2026-10-26T02:55:37.532Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "後生仔用2元優惠！港鐵職員大聲查票片瘋傳：我好冷靜　結局獲讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240707/886571651485929472379412.jpeg/dceIphAeZ2tgm5r8GSfgYFuI93wJif4dz-vhLM_r4Sw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403518/%E5%BE%8C%E7%94%9F%E4%BB%94%E7%94%A82%E5%85%83%E5%84%AA%E6%83%A0-%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1%E5%A4%A7%E8%81%B2%E6%9F%A5%E7%A5%A8%E7%89%87%E7%98%8B%E5%82%B3-%E6%88%91%E5%A5%BD%E5%86%B7%E9%9D%9C-%E7%B5%90%E5%B1%80%E7%8D%B2%E8%AE%9A",
+    "timestamp": "2026-10-26T02:55:37.532Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海軍航空大學跨晝夜飛行訓練　殲-15紅藍對抗高清畫面曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/549520/org/1d246df3be9c0c269a56a7730af3acd2.jpg/qrq0h_-HUtLtwnYAzAoHb-tGOa_3_XK49kBerPZAXqw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403471/%E7%BE%85%E4%BE%BF%E8%87%A3%E9%81%93%E5%96%AE%E4%BD%8D%E9%81%AD%E7%9B%9C%E7%AB%8A%E5%A4%B1%E5%80%BC60%E8%90%AC%E9%A6%96%E9%A3%BE-%E8%AD%A6%E8%BF%BD%E7%B7%9D37%E6%AD%B2%E5%A4%96%E5%82%AD",
     "timestamp": "2026-10-25T18:47:07.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅便臣道單位遭盜竊失值60萬首飾　警追緝37歲外傭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/549520/org/1d246df3be9c0c269a56a7730af3acd2.jpg/qrq0h_-HUtLtwnYAzAoHb-tGOa_3_XK49kBerPZAXqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403471/%E7%BE%85%E4%BE%BF%E8%87%A3%E9%81%93%E5%96%AE%E4%BD%8D%E9%81%AD%E7%9B%9C%E7%AB%8A%E5%A4%B1%E5%80%BC60%E8%90%AC%E9%A6%96%E9%A3%BE-%E8%AD%A6%E8%BF%BD%E7%B7%9D37%E6%AD%B2%E5%A4%96%E5%82%AD",
-    "timestamp": "2026-10-25T18:21:58.392Z",
     "strategy": ".content-card__main"
   }
 ];
