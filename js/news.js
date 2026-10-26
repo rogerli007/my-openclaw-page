@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T20:57:13.800Z
+// Last updated: 2026-10-26T21:19:05.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
+    "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
+    "timestamp": "2026-10-26T21:19:05.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191417649783902208194036.jpeg/1KzUEozDNAJZC79G8JPQdTPs-EMQs320wY5EqMGORKg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403664/%E6%A8%8A%E6%8C%AF%E6%9D%B1%E8%A7%80%E6%88%B0%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9C%8B%E5%AE%B6%E6%89%93%E5%90%A1-%E5%85%A7%E8%91%97%E7%9A%87%E9%A6%AC%E7%90%83%E8%A1%A3%E8%A2%AB%E6%8B%92%E5%85%A5%E6%85%B6%E7%A5%9D%E4%B8%8D%E7%86%B1%E6%83%85%E9%81%AD%E6%8A%95%E8%A8%B4",
     "timestamp": "2026-10-26T08:38:39.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "置業調查｜港置：逾7成人料樓價平穩向上　5成人無意加快入市北都",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191416067956674560341520.jpeg/NO5Yijr3prwGMYXtqBoLzk8JHZWJGNgWS_95fEv_eXw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60403644/%E7%BD%AE%E6%A5%AD%E8%AA%BF%E6%9F%A5-%E6%B8%AF%E7%BD%AE-%E9%80%BE7%E6%88%90%E4%BA%BA%E6%96%99%E6%A8%93%E5%83%B9%E5%B9%B3%E7%A9%A9%E5%90%91%E4%B8%8A-5%E6%88%90%E4%BA%BA%E7%84%A1%E6%84%8F%E5%8A%A0%E5%BF%AB%E5%85%A5%E5%B8%82%E5%8C%97%E9%83%BD",
-    "timestamp": "2026-10-26T08:01:47.698Z",
     "strategy": ".content-card__main"
   }
 ];
