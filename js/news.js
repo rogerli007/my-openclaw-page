@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T02:55:37.532Z
+// Last updated: 2026-10-26T03:26:59.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警毒品調查科搗新田大麻儲存倉　檢逾69公斤毒品拘一男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155090392497000448950321.jpeg/n-kMiu54j2l774ldw_YK9sz7w4XQEiwaWZVRrVmVUa0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403501/%E8%AD%A6%E6%AF%92%E5%93%81%E8%AA%BF%E6%9F%A5%E7%A7%91%E6%90%97%E6%96%B0%E7%94%B0%E5%A4%A7%E9%BA%BB%E5%84%B2%E5%AD%98%E5%80%89-%E6%AA%A2%E9%80%BE69%E5%85%AC%E6%96%A4%E6%AF%92%E5%93%81%E6%8B%98%E4%B8%80%E7%94%B7",
+    "timestamp": "2026-10-26T03:26:59.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "後生仔用2元優惠！港鐵職員大聲查票片瘋傳：我好冷靜　結局獲讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403473/%E6%B2%99%E7%89%B9%E5%88%A9%E9%9B%85%E5%BE%97%E6%A9%9F%E5%A0%B4%E9%87%8D%E9%96%8B-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A8%B1%E5%B7%B2%E5%86%8D%E6%AC%A1%E7%99%BC%E5%8B%95%E6%89%93%E6%93%8A",
     "timestamp": "2026-10-25T18:57:02.417Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅便臣道單位遭盜竊失值60萬首飾　警追緝37歲外傭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/549520/org/1d246df3be9c0c269a56a7730af3acd2.jpg/qrq0h_-HUtLtwnYAzAoHb-tGOa_3_XK49kBerPZAXqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403471/%E7%BE%85%E4%BE%BF%E8%87%A3%E9%81%93%E5%96%AE%E4%BD%8D%E9%81%AD%E7%9B%9C%E7%AB%8A%E5%A4%B1%E5%80%BC60%E8%90%AC%E9%A6%96%E9%A3%BE-%E8%AD%A6%E8%BF%BD%E7%B7%9D37%E6%AD%B2%E5%A4%96%E5%82%AD",
-    "timestamp": "2026-10-25T18:47:07.162Z",
     "strategy": ".content-card__main"
   }
 ];
