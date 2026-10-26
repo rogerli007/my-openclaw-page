@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T21:35:58.387Z
+// Last updated: 2026-10-26T21:48:15.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地孟加拉男疑遭人尋仇棍打　手腳受傷送院　警刑事調查隊跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579876782542848604831.jpeg/A_i1h7LFxBgwiZU6R8PDO_vVgM31VkYjuDSNj7g0jY8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403848/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%AD%9F%E5%8A%A0%E6%8B%89%E7%94%B7%E7%96%91%E9%81%AD%E4%BA%BA%E5%B0%8B%E4%BB%87%E6%A3%8D%E6%89%93-%E6%89%8B%E8%85%B3%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-10-26T21:48:15.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190293180331855872950374.jpeg/cm2TZ9NduXkYTRRn7rfk8WYkj7o0kS43L1KGugpShro?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403725/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%A1%9E%E8%BB%8A-%E6%94%BF%E9%BB%A8%E5%80%A1%E5%A2%9E%E4%B8%8A%E8%90%BD%E5%AE%A2%E5%8D%80%E9%81%BF%E5%85%8D%E4%BA%BA%E7%AD%89%E8%BB%8A-%E8%A8%AD%E6%8E%92%E9%9A%8A%E5%8D%80%E9%81%BF%E8%BB%8A%E9%BE%8D%E5%80%92%E7%81%8C",
     "timestamp": "2026-10-26T09:45:56.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "饒舌天后Nicki Minaj現身特朗普造勢活動　獲讚「美臀」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191418015552376832846109.jpeg/omobc8AhtOCNMop3p28jNtlnzt-3s6jECvIBtQryAbU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403663/%E9%A5%92%E8%88%8C%E5%A4%A9%E5%90%8Enicki-minaj%E7%8F%BE%E8%BA%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%A0%E5%8B%A2%E6%B4%BB%E5%8B%95-%E7%8D%B2%E8%AE%9A-%E7%BE%8E%E8%87%80",
-    "timestamp": "2026-10-26T09:06:22.135Z",
     "strategy": ".content-card__main"
   }
 ];
