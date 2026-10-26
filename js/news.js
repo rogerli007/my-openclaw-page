@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T06:06:37.411Z
+// Last updated: 2026-10-26T07:21:24.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone DUO災情更新｜評測摔2次屏幕即故障　用戶批Apple七宗罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191406480239104000492601.jpeg/sMKVsj9iCE7ydvnIaa1Br4aj9o-jkofrYyPWpGMj1qQ",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60403633/iphone-duo%E7%81%BD%E6%83%85%E6%9B%B4%E6%96%B0-%E8%A9%95%E6%B8%AC%E6%91%942%E6%AC%A1%E5%B1%8F%E5%B9%95%E5%8D%B3%E6%95%85%E9%9A%9C-%E7%94%A8%E6%88%B6%E6%89%B9apple%E4%B8%83%E5%AE%97%E7%BD%AA",
+    "timestamp": "2026-10-26T07:21:24.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "來稿｜北京重新接待沈大偉——不是原諒，是有自信！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191240215923003392289710.png/1Al-3pDCYoLgPlfR5bwZL32QL49Y3aeti4hVp4uIVac?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403478/%E8%BB%8Acam-%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%86%E7%B7%9A%E8%A1%8C%E8%BB%8A-%E4%BA%8B%E4%B8%BB%E9%9A%AA%E8%A2%AB%E6%92%9E%E6%80%A5%E7%85%9E-%E7%99%BC%E5%B8%96%E5%B0%8B%E8%BB%8A%E7%89%8C",
     "timestamp": "2026-10-25T21:16:53.120Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜屯門公路私家車逆線行車　事主險被撞急煞　發帖尋車牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191240215923003392289710.png/1Al-3pDCYoLgPlfR5bwZL32QL49Y3aeti4hVp4uIVac?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403478/%E8%BB%8Acam-%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%86%E7%B7%9A%E8%A1%8C%E8%BB%8A-%E4%BA%8B%E4%B8%BB%E9%9A%AA%E8%A2%AB%E6%92%9E%E6%80%A5%E7%85%9E-%E7%99%BC%E5%B8%96%E5%B0%8B%E8%BB%8A%E7%89%8C",
-    "timestamp": "2026-10-25T20:45:02.579Z",
     "strategy": ".content-card__main"
   }
 ];
