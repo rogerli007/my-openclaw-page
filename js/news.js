@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T19:00:36.456Z
+// Last updated: 2026-10-26T19:19:04.370Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉失聲失業陷低潮：為了生計兼職幫辦公室印年報",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190696932075376640351702.jpeg/vA6ncnT6j_FE_tkr87xyOUrsgs-MzIm79J8dhfSfHYU",
+    "url": "https://www.hk01.com/01TV/60403209/%E8%BB%8A%E5%A9%89%E5%A9%89%E5%A4%B1%E8%81%B2%E5%A4%B1%E6%A5%AD%E9%99%B7%E4%BD%8E%E6%BD%AE-%E7%82%BA%E4%BA%86%E7%94%9F%E8%A8%88%E5%85%BC%E8%81%B7%E5%B9%AB%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%8D%B0%E5%B9%B4%E5%A0%B1",
+    "timestamp": "2026-10-26T19:19:04.370Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯合國調查委員會：以色列犯下戰爭罪　持續在加沙種族滅絕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191359059266113536470163.jpeg/FaucnWP1b3oXXeCaS3tVPZvLICCTY6jjsUnQgrFJ0II",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403461/%E6%9C%89%E7%89%87-%E8%B6%95%E8%BF%94%E5%B7%A5%E8%A2%AB%E9%98%BB-%E6%B8%AF%E9%90%B5%E9%98%BF%E4%BC%AF%E6%89%B6%E6%89%8B%E6%A2%AF-%E5%B7%A6%E5%8F%B3%E4%BC%81%E5%AE%9A-%E6%8B%92%E8%AE%93%E8%B7%AF-%E6%98%AF%E8%A6%8F%E7%9F%A9%E6%B3%95%E4%BE%8B",
     "timestamp": "2026-10-26T04:24:47.351Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中全會首次聚焦全面從嚴治黨　五中全會需要勇敢邁出反腐新步伐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20150702/1435834319559517cf29f26.jpg/tIKkW1I1GNH-nuT5FA4-ENXT3_B-eqdNGj3bkRo925E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60403508/%E4%B8%AD%E5%85%A8%E6%9C%83%E9%A6%96%E6%AC%A1%E8%81%9A%E7%84%A6%E5%85%A8%E9%9D%A2%E5%BE%9E%E5%9A%B4%E6%B2%BB%E9%BB%A8-%E4%BA%94%E4%B8%AD%E5%85%A8%E6%9C%83%E9%9C%80%E8%A6%81%E5%8B%87%E6%95%A2%E9%82%81%E5%87%BA%E5%8F%8D%E8%85%90%E6%96%B0%E6%AD%A5%E4%BC%90",
-    "timestamp": "2026-10-26T03:55:00.457Z",
     "strategy": ".content-card__main"
   }
 ];
