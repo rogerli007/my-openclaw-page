@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T19:34:10.728Z
+// Last updated: 2026-10-26T19:57:33.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西大選｜多個支持弗拉維奧的政黨承認盧拉勝選　不支持廢除結果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191590823712526336986375.jpeg/6zVPc2SKKKTbs1pDZEiYmS25c0_5uk_CQZAqaEGQKmg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403842/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8-%E5%A4%9A%E5%80%8B%E6%94%AF%E6%8C%81%E5%BC%97%E6%8B%89%E7%B6%AD%E5%A5%A7%E7%9A%84%E6%94%BF%E9%BB%A8%E6%89%BF%E8%AA%8D%E7%9B%A7%E6%8B%89%E5%8B%9D%E9%81%B8-%E4%B8%8D%E6%94%AF%E6%8C%81%E5%BB%A2%E9%99%A4%E7%B5%90%E6%9E%9C",
+    "timestamp": "2026-10-26T19:57:33.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉失聲失業陷低潮：為了生計兼職幫辦公室印年報",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191385112051191808206739.jpeg/iqeJvhAjkSJr9H7kQolwPxDiLLAYmlrsBAwv2wQML9s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60403502/%E8%AD%9A%E6%97%BB%E8%90%B1-%E9%BB%83%E6%BE%A4%E6%9E%97%E7%B7%8B%E8%81%9E%E5%A5%B3%E5%8F%8B3%E5%A4%A7%E8%9B%BB%E8%AE%8A-%E6%9B%BE%E9%87%8D170%E7%A3%85-%E9%9D%A0%E6%89%93%E7%B1%83%E7%90%83%E9%80%86%E8%A5%B2%E6%88%90%E5%A5%B3%E7%A5%9E",
     "timestamp": "2026-10-26T05:49:34.916Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗倉狗咬人｜倉主指有人擅解繩肇禍　承諾日後「連放都唔放」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191344596890685440821064.jpeg/B-RR7-6ZHXDxmCysRkfw1G1xKOcWoPP5Q03nHUNN5x0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403554/%E5%85%83%E6%9C%97%E5%80%89%E7%8B%97%E5%92%AC%E4%BA%BA-%E5%80%89%E4%B8%BB%E6%8C%87%E6%9C%89%E4%BA%BA%E6%93%85%E8%A7%A3%E7%B9%A9%E8%82%87%E7%A6%8D-%E6%89%BF%E8%AB%BE%E6%97%A5%E5%BE%8C-%E9%80%A3%E6%94%BE%E9%83%BD%E5%94%94%E6%94%BE",
-    "timestamp": "2026-10-26T04:52:52.964Z",
     "strategy": ".content-card__main"
   }
 ];
