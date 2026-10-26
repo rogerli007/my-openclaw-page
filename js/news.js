@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T23:17:52.828Z
+// Last updated: 2026-10-26T23:44:36.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝安德：冀有生之年看到英國重返歐盟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181343036425113600289143.jpeg/yOKDD238zgPdeYcwTg1Pl3hfy8PubWeNmv4aNpr-GjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403850/%E8%B2%9D%E5%AE%89%E5%BE%B7-%E5%86%80%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%E7%9C%8B%E5%88%B0%E8%8B%B1%E5%9C%8B%E9%87%8D%E8%BF%94%E6%AD%90%E7%9B%9F",
+    "timestamp": "2026-10-26T23:44:36.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加州女疑駕駛時看成人網站　致3車相撞釀1死　被控駕車過失殺人罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191493949072609280647395.jpeg/jpcQEq0GJ9ehyH2-6PMFEeWcfm8P6mTqF4k-nBeJPpw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403741/%E5%BC%B5%E8%87%B4%E6%81%92%E9%BB%83%E6%A6%95%E5%88%86%E6%89%8B20%E5%B9%B4%E7%A0%B4%E5%86%B0-%E8%87%AA%E8%AA%8D%E6%B8%A3%E7%94%B7%E5%90%91%E8%88%8A%E6%84%9B%E9%81%93%E6%AD%89%E5%A5%B3%E6%96%B9%E8%A8%B4%E5%94%94%E5%86%8D%E4%BF%A1%E7%94%B7%E4%BA%BA",
     "timestamp": "2026-10-26T15:57:05.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「暗黑前田敦子」琥珀歌揭巔峰引退內幕　遭未婚夫偷裝GPS兼軟禁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191352586456797184490578.png/N10eFArhu7XQFXiJjCD5OkbEzQBq-QX3mv3I1Jr9yNQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60403549/%E6%9A%97%E9%BB%91%E5%89%8D%E7%94%B0%E6%95%A6%E5%AD%90-%E7%90%A5%E7%8F%80%E6%AD%8C%E6%8F%AD%E5%B7%94%E5%B3%B0%E5%BC%95%E9%80%80%E5%85%A7%E5%B9%95-%E9%81%AD%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%81%B7%E8%A3%9Dgps%E5%85%BC%E8%BB%9F%E7%A6%81",
-    "timestamp": "2026-10-26T14:39:54.586Z",
     "strategy": ".content-card__main"
   }
 ];
