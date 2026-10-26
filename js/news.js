@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T04:52:52.964Z
+// Last updated: 2026-10-26T05:49:34.916Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚旻萱｜黃澤林緋聞女友3大蛻變　曾重170磅！靠打籃球逆襲成女神",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191385112051191808206739.jpeg/iqeJvhAjkSJr9H7kQolwPxDiLLAYmlrsBAwv2wQML9s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60403502/%E8%AD%9A%E6%97%BB%E8%90%B1-%E9%BB%83%E6%BE%A4%E6%9E%97%E7%B7%8B%E8%81%9E%E5%A5%B3%E5%8F%8B3%E5%A4%A7%E8%9B%BB%E8%AE%8A-%E6%9B%BE%E9%87%8D170%E7%A3%85-%E9%9D%A0%E6%89%93%E7%B1%83%E7%90%83%E9%80%86%E8%A5%B2%E6%88%90%E5%A5%B3%E7%A5%9E",
+    "timestamp": "2026-10-26T05:49:34.916Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗倉狗咬人｜倉主指有人擅解繩肇禍　承諾日後「連放都唔放」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190693499251462144319706.jpeg/5MND1nW0vsj5seucvJBuZMa6riAlEPYEmqx5M5qseTM",
     "url": "https://www.hk01.com/01TV/60403203/%E8%BB%8A%E5%A9%89%E5%A9%89%E6%94%BE%E6%A3%84%E5%AD%B8%E6%A5%AD%E5%9B%9E%E6%B8%AF-%E8%97%9D%E8%83%BDep%E8%A8%88%E5%8A%83%E7%84%B6%E5%A5%B9%E9%87%8D%E8%BF%94%E6%AD%8C%E5%A3%87",
     "timestamp": "2026-10-25T20:32:57.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西大選次輪投票　盧拉要求部份城市票站延長開放",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191230949115826176469287.jpeg/ax5KfwH3QEnGEeVcamQXK5c8ZcxfxxIFRY3WNEWN1jQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403476/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8%E6%AC%A1%E8%BC%AA%E6%8A%95%E7%A5%A8-%E7%9B%A7%E6%8B%89%E8%A6%81%E6%B1%82%E9%83%A8%E4%BB%BD%E5%9F%8E%E5%B8%82%E7%A5%A8%E7%AB%99%E5%BB%B6%E9%95%B7%E9%96%8B%E6%94%BE",
-    "timestamp": "2026-10-25T19:54:18.769Z",
     "strategy": ".content-card__main"
   }
 ];
