@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T15:57:05.064Z
+// Last updated: 2026-10-26T16:49:54.092Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓版Doctor X｜光州事件倖存者彈片留腦46年　金智媛挑戰腦幹手術",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191431938741637120513072.png/TSA7S9qwZEsS1q5MF_w1zHHykk0heen4_KWitfylorU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403652/%E9%9F%93%E7%89%88doctor-x-%E5%85%89%E5%B7%9E%E4%BA%8B%E4%BB%B6%E5%80%96%E5%AD%98%E8%80%85%E5%BD%88%E7%89%87%E7%95%99%E8%85%A646%E5%B9%B4-%E9%87%91%E6%99%BA%E5%AA%9B%E6%8C%91%E6%88%B0%E8%85%A6%E5%B9%B9%E6%89%8B%E8%A1%93",
+    "timestamp": "2026-10-26T16:49:54.092Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張致恒黃榕分手20年破冰　自認渣男向舊愛道歉女方訴唔再信男人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188380153835687936726485.jpeg/ak6XT3aXY0ld3yy_nsNnco_tDgSf8foWjxKEZ48ShGc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403490/%E9%A6%AC%E6%96%AF%E5%85%8B-spacex%E7%8D%B2400%E5%84%84%E7%BE%8E%E5%85%83%E5%82%B5%E5%8B%99%E8%9E%8D%E8%B3%87-%E7%94%A8%E6%96%BC%E6%8E%A1%E8%B3%BCai%E6%99%B6%E7%89%87",
     "timestamp": "2026-10-26T01:58:42.598Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜上水寶石湖邨28歲男墮樓　送院救治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240823/903587584586944512851094.jpeg/qhy_uAo6vLPwv5XVlGdxFZyEsJIMKqbRrymAL68pgC8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403486/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%8A%E6%B0%B4%E5%AF%B6%E7%9F%B3%E6%B9%96%E9%82%A828%E6%AD%B2%E7%94%B7%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
-    "timestamp": "2026-10-26T01:20:43.349Z",
     "strategy": ".content-card__main"
   }
 ];
