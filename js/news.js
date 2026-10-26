@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T08:38:39.291Z
+// Last updated: 2026-10-26T09:06:22.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "饒舌天后Nicki Minaj現身特朗普造勢活動　獲讚「美臀」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191418015552376832846109.jpeg/omobc8AhtOCNMop3p28jNtlnzt-3s6jECvIBtQryAbU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403663/%E9%A5%92%E8%88%8C%E5%A4%A9%E5%90%8Enicki-minaj%E7%8F%BE%E8%BA%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%A0%E5%8B%A2%E6%B4%BB%E5%8B%95-%E7%8D%B2%E8%AE%9A-%E7%BE%8E%E8%87%80",
+    "timestamp": "2026-10-26T09:06:22.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樊振東觀戰西班牙國家打吡　內著皇馬球衣被拒入慶祝不熱情遭投訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1191131487647305728023196.jpeg/fiHG2U1rjo58mWqh9vSyjRhW-tNYW88Tg-yi7YPsou0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403402/%E5%A5%9A%E5%A4%A2%E7%91%A4%E6%A9%9F%E5%A0%B4%E7%8D%A8%E8%87%AA%E5%AD%AD%E8%83%8C%E5%9B%8A%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%9B%9E%E9%84%89-%E9%A9%9A%E7%8F%BE-%E7%A0%B4%E7%A2%8E%E6%84%9F-%E7%A5%9E%E6%83%85%E7%96%B2%E6%86%8A%E7%8E%A9%E9%9B%BB%E8%A9%B1",
     "timestamp": "2026-10-25T22:35:08.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞爾維亞國會選舉｜投票率約70%創新高　武契奇承認敗於學生名單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191258265585979392329716.jpeg/9Djy-1kqs8s2yuDPxk8yzd3Me6V86rgYHPinyBz4p8g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403474/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89-%E6%8A%95%E7%A5%A8%E7%8E%87%E7%B4%8470-%E5%89%B5%E6%96%B0%E9%AB%98-%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AA%8D%E6%95%97%E6%96%BC%E5%AD%B8%E7%94%9F%E5%90%8D%E5%96%AE",
-    "timestamp": "2026-10-25T21:54:06.648Z",
     "strategy": ".content-card__main"
   }
 ];
