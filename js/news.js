@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T20:21:09.200Z
+// Last updated: 2026-10-26T20:46:57.228Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
+    "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
+    "timestamp": "2026-10-26T20:46:57.228Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191406480239104000492601.jpeg/sMKVsj9iCE7ydvnIaa1Br4aj9o-jkofrYyPWpGMj1qQ",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60403633/iphone-duo%E7%81%BD%E6%83%85%E6%9B%B4%E6%96%B0-%E8%A9%95%E6%B8%AC%E6%91%942%E6%AC%A1%E5%B1%8F%E5%B9%95%E5%8D%B3%E6%95%85%E9%9A%9C-%E7%94%A8%E6%88%B6%E6%89%B9apple%E4%B8%83%E5%AE%97%E7%BD%AA",
     "timestamp": "2026-10-26T07:21:24.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "來稿｜北京重新接待沈大偉——不是原諒，是有自信！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240702/884919709575680000083196.jpeg/pyv0wm98UwqG-JGXbkVrqYfyAGs3i-SS736OdO9-jnQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60403542/%E4%BE%86%E7%A8%BF-%E5%8C%97%E4%BA%AC%E9%87%8D%E6%96%B0%E6%8E%A5%E5%BE%85%E6%B2%88%E5%A4%A7%E5%81%89-%E4%B8%8D%E6%98%AF%E5%8E%9F%E8%AB%92-%E6%98%AF%E6%9C%89%E8%87%AA%E4%BF%A1",
-    "timestamp": "2026-10-26T06:06:37.411Z",
     "strategy": ".content-card__main"
   }
 ];
