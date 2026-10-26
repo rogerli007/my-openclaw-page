@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T08:01:47.698Z
+// Last updated: 2026-10-26T08:38:39.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樊振東觀戰西班牙國家打吡　內著皇馬球衣被拒入慶祝不熱情遭投訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191417649783902208194036.jpeg/1KzUEozDNAJZC79G8JPQdTPs-EMQs320wY5EqMGORKg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403664/%E6%A8%8A%E6%8C%AF%E6%9D%B1%E8%A7%80%E6%88%B0%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9C%8B%E5%AE%B6%E6%89%93%E5%90%A1-%E5%85%A7%E8%91%97%E7%9A%87%E9%A6%AC%E7%90%83%E8%A1%A3%E8%A2%AB%E6%8B%92%E5%85%A5%E6%85%B6%E7%A5%9D%E4%B8%8D%E7%86%B1%E6%83%85%E9%81%AD%E6%8A%95%E8%A8%B4",
+    "timestamp": "2026-10-26T08:38:39.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "置業調查｜港置：逾7成人料樓價平穩向上　5成人無意加快入市北都",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191258265585979392329716.jpeg/9Djy-1kqs8s2yuDPxk8yzd3Me6V86rgYHPinyBz4p8g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403474/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89-%E6%8A%95%E7%A5%A8%E7%8E%87%E7%B4%8470-%E5%89%B5%E6%96%B0%E9%AB%98-%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AA%8D%E6%95%97%E6%96%BC%E5%AD%B8%E7%94%9F%E5%90%8D%E5%96%AE",
     "timestamp": "2026-10-25T21:54:06.648Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "塞爾維亞國會選舉｜投票率約70%創新高　武契奇承認敗於學生名單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191258265585979392329716.jpeg/9Djy-1kqs8s2yuDPxk8yzd3Me6V86rgYHPinyBz4p8g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403474/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89-%E6%8A%95%E7%A5%A8%E7%8E%87%E7%B4%8470-%E5%89%B5%E6%96%B0%E9%AB%98-%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AA%8D%E6%95%97%E6%96%BC%E5%AD%B8%E7%94%9F%E5%90%8D%E5%96%AE",
-    "timestamp": "2026-10-25T21:42:45.525Z",
     "strategy": ".content-card__main"
   }
 ];
