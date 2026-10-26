@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T07:21:24.546Z
+// Last updated: 2026-10-26T08:01:47.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "置業調查｜港置：逾7成人料樓價平穩向上　5成人無意加快入市北都",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191416067956674560341520.jpeg/NO5Yijr3prwGMYXtqBoLzk8JHZWJGNgWS_95fEv_eXw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60403644/%E7%BD%AE%E6%A5%AD%E8%AA%BF%E6%9F%A5-%E6%B8%AF%E7%BD%AE-%E9%80%BE7%E6%88%90%E4%BA%BA%E6%96%99%E6%A8%93%E5%83%B9%E5%B9%B3%E7%A9%A9%E5%90%91%E4%B8%8A-5%E6%88%90%E4%BA%BA%E7%84%A1%E6%84%8F%E5%8A%A0%E5%BF%AB%E5%85%A5%E5%B8%82%E5%8C%97%E9%83%BD",
+    "timestamp": "2026-10-26T08:01:47.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone DUO災情更新｜評測摔2次屏幕即故障　用戶批Apple七宗罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191258265585979392329716.jpeg/9Djy-1kqs8s2yuDPxk8yzd3Me6V86rgYHPinyBz4p8g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403474/%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E5%9C%8B%E6%9C%83%E9%81%B8%E8%88%89-%E6%8A%95%E7%A5%A8%E7%8E%87%E7%B4%8470-%E5%89%B5%E6%96%B0%E9%AB%98-%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AA%8D%E6%95%97%E6%96%BC%E5%AD%B8%E7%94%9F%E5%90%8D%E5%96%AE",
     "timestamp": "2026-10-25T21:42:45.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜屯門公路私家車逆線行車　事主險被撞急煞　發帖尋車牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191240215923003392289710.png/1Al-3pDCYoLgPlfR5bwZL32QL49Y3aeti4hVp4uIVac?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403478/%E8%BB%8Acam-%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%86%E7%B7%9A%E8%A1%8C%E8%BB%8A-%E4%BA%8B%E4%B8%BB%E9%9A%AA%E8%A2%AB%E6%92%9E%E6%80%A5%E7%85%9E-%E7%99%BC%E5%B8%96%E5%B0%8B%E8%BB%8A%E7%89%8C",
-    "timestamp": "2026-10-25T21:16:53.120Z",
     "strategy": ".content-card__main"
   }
 ];
