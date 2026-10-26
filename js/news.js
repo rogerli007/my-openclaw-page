@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T01:58:42.598Z
+// Last updated: 2026-10-26T02:30:37.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海軍航空大學跨晝夜飛行訓練　殲-15紅藍對抗高清畫面曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191329417251524608374891.jpeg/I0EF9y5KWVTgAXkYPsPwgeR1OZM2ydLOvfFwJr3xcCY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403492/%E6%B5%B7%E8%BB%8D%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%B8%E8%B7%A8%E6%99%9D%E5%A4%9C%E9%A3%9B%E8%A1%8C%E8%A8%93%E7%B7%B4-%E6%AE%B2-15%E7%B4%85%E8%97%8D%E5%B0%8D%E6%8A%97%E9%AB%98%E6%B8%85%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-10-26T02:30:37.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬斯克：SpaceX獲400億美元債務融資　用於採購AI晶片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/549520/org/1d246df3be9c0c269a56a7730af3acd2.jpg/qrq0h_-HUtLtwnYAzAoHb-tGOa_3_XK49kBerPZAXqw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403471/%E7%BE%85%E4%BE%BF%E8%87%A3%E9%81%93%E5%96%AE%E4%BD%8D%E9%81%AD%E7%9B%9C%E7%AB%8A%E5%A4%B1%E5%80%BC60%E8%90%AC%E9%A6%96%E9%A3%BE-%E8%AD%A6%E8%BF%BD%E7%B7%9D37%E6%AD%B2%E5%A4%96%E5%82%AD",
     "timestamp": "2026-10-25T18:21:58.392Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "往新皇崗口岸交通繁忙　警方實施人群交通管制　平均須輪候25分鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191193892129607680684273.png/r8UTG3s52p_9dcZzuK0zgaEC3n3m9P3-SNooBkjaKAY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403466/%E5%BE%80%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E4%BA%A4%E9%80%9A%E7%B9%81%E5%BF%99-%E8%AD%A6%E6%96%B9%E5%AF%A6%E6%96%BD%E4%BA%BA%E7%BE%A4%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6-%E5%B9%B3%E5%9D%87%E9%A0%88%E8%BC%AA%E5%80%9925%E5%88%86%E9%90%98",
-    "timestamp": "2026-10-25T17:41:14.253Z",
     "strategy": ".content-card__main"
   }
 ];
