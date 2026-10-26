@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T05:49:34.916Z
+// Last updated: 2026-10-26T06:06:37.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "來稿｜北京重新接待沈大偉——不是原諒，是有自信！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240702/884919709575680000083196.jpeg/pyv0wm98UwqG-JGXbkVrqYfyAGs3i-SS736OdO9-jnQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60403542/%E4%BE%86%E7%A8%BF-%E5%8C%97%E4%BA%AC%E9%87%8D%E6%96%B0%E6%8E%A5%E5%BE%85%E6%B2%88%E5%A4%A7%E5%81%89-%E4%B8%8D%E6%98%AF%E5%8E%9F%E8%AB%92-%E6%98%AF%E6%9C%89%E8%87%AA%E4%BF%A1",
+    "timestamp": "2026-10-26T06:06:37.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚旻萱｜黃澤林緋聞女友3大蛻變　曾重170磅！靠打籃球逆襲成女神",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191240215923003392289710.png/1Al-3pDCYoLgPlfR5bwZL32QL49Y3aeti4hVp4uIVac?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403478/%E8%BB%8Acam-%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%80%86%E7%B7%9A%E8%A1%8C%E8%BB%8A-%E4%BA%8B%E4%B8%BB%E9%9A%AA%E8%A2%AB%E6%92%9E%E6%80%A5%E7%85%9E-%E7%99%BC%E5%B8%96%E5%B0%8B%E8%BB%8A%E7%89%8C",
     "timestamp": "2026-10-25T20:45:02.579Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉放棄學業回港 藝能EP計劃然她重返歌壇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190693499251462144319706.jpeg/5MND1nW0vsj5seucvJBuZMa6riAlEPYEmqx5M5qseTM",
-    "url": "https://www.hk01.com/01TV/60403203/%E8%BB%8A%E5%A9%89%E5%A9%89%E6%94%BE%E6%A3%84%E5%AD%B8%E6%A5%AD%E5%9B%9E%E6%B8%AF-%E8%97%9D%E8%83%BDep%E8%A8%88%E5%8A%83%E7%84%B6%E5%A5%B9%E9%87%8D%E8%BF%94%E6%AD%8C%E5%A3%87",
-    "timestamp": "2026-10-25T20:32:57.158Z",
     "strategy": ".content-card__main"
   }
 ];
