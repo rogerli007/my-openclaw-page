@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T19:19:04.370Z
+// Last updated: 2026-10-26T19:34:10.728Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉失聲失業陷低潮：為了生計兼職幫辦公室印年報",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190696932075376640351702.jpeg/vA6ncnT6j_FE_tkr87xyOUrsgs-MzIm79J8dhfSfHYU",
+    "url": "https://www.hk01.com/01TV/60403209/%E8%BB%8A%E5%A9%89%E5%A9%89%E5%A4%B1%E8%81%B2%E5%A4%B1%E6%A5%AD%E9%99%B7%E4%BD%8E%E6%BD%AE-%E7%82%BA%E4%BA%86%E7%94%9F%E8%A8%88%E5%85%BC%E8%81%B7%E5%B9%AB%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%8D%B0%E5%B9%B4%E5%A0%B1",
+    "timestamp": "2026-10-26T19:34:10.728Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉失聲失業陷低潮：為了生計兼職幫辦公室印年報",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191344596890685440821064.jpeg/B-RR7-6ZHXDxmCysRkfw1G1xKOcWoPP5Q03nHUNN5x0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403554/%E5%85%83%E6%9C%97%E5%80%89%E7%8B%97%E5%92%AC%E4%BA%BA-%E5%80%89%E4%B8%BB%E6%8C%87%E6%9C%89%E4%BA%BA%E6%93%85%E8%A7%A3%E7%B9%A9%E8%82%87%E7%A6%8D-%E6%89%BF%E8%AB%BE%E6%97%A5%E5%BE%8C-%E9%80%A3%E6%94%BE%E9%83%BD%E5%94%94%E6%94%BE",
     "timestamp": "2026-10-26T04:52:52.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片│趕返工被阻！港鐵阿伯扶手梯「左右企定」拒讓路:是規矩法例",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191359059266113536470163.jpeg/FaucnWP1b3oXXeCaS3tVPZvLICCTY6jjsUnQgrFJ0II",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403461/%E6%9C%89%E7%89%87-%E8%B6%95%E8%BF%94%E5%B7%A5%E8%A2%AB%E9%98%BB-%E6%B8%AF%E9%90%B5%E9%98%BF%E4%BC%AF%E6%89%B6%E6%89%8B%E6%A2%AF-%E5%B7%A6%E5%8F%B3%E4%BC%81%E5%AE%9A-%E6%8B%92%E8%AE%93%E8%B7%AF-%E6%98%AF%E8%A6%8F%E7%9F%A9%E6%B3%95%E4%BE%8B",
-    "timestamp": "2026-10-26T04:24:47.351Z",
     "strategy": ".content-card__main"
   }
 ];
