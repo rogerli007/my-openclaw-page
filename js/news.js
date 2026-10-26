@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T22:45:37.327Z
+// Last updated: 2026-10-26T23:01:06.510Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張智霖歷年三大惹火言論盤點　失落視帝指：係咪代表TVB唔鍾意我",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191464379837583360309172.jpeg/OtZ0si1Sw5aLJh7dhC_FiOI39mh8owbNLApTPywKUz8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403752/%E7%9B%A4%E9%BB%9E%E5%BC%B5%E6%99%BA%E9%9C%96%E6%AD%B7%E5%B9%B4%E4%B8%89%E5%A4%A7%E6%83%B9%E7%81%AB%E8%A8%80%E8%AB%96-%E5%A4%B1%E8%90%BD%E8%A6%96%E5%B8%9D%E4%B8%B2%E7%88%86tvb-%E6%BB%85%E7%8B%97%E8%AB%96-%E6%9B%B4%E9%A9%9A%E4%BA%BA",
+    "timestamp": "2026-10-26T23:01:06.510Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張智霖歷年三大惹火言論盤點　失落視帝指：係咪代表TVB唔鍾意我",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182645280231657472632014.jpeg/2gQZNdDBmzkXLAKPq62heiPLhKvd03QHidlftonZX7Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403790/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E6%9C%8B%E5%8F%8B%E6%8C%87%E9%84%BA%E6%B8%AF%E6%99%BA%E4%BC%BC%E5%AF%8C%E6%9C%89%E5%9D%90%E5%8B%9E%E6%96%AF%E8%90%8A%E6%96%AF-%E4%BA%A4%E6%96%B0%E5%A5%B3%E5%8F%8B%E5%BE%8C%E8%A6%81%E6%90%AC%E6%9B%BE%E6%B1%82%E5%8A%A9",
     "timestamp": "2026-10-26T11:48:57.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Anthropic向美媒證實Claude未經人類授權　取佐治亞投票統計數據",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151611373810094080296370.jpeg/Rc711KSrExGIkS5WCbNmhD5RyE18asa0OQOnIDkDpyA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403784/anthropic%E5%90%91%E7%BE%8E%E5%AA%92%E8%AD%89%E5%AF%A6claude%E6%9C%AA%E7%B6%93%E4%BA%BA%E9%A1%9E%E6%8E%88%E6%AC%8A-%E5%8F%96%E4%BD%90%E6%B2%BB%E4%BA%9E%E6%8A%95%E7%A5%A8%E7%B5%B1%E8%A8%88%E6%95%B8%E6%93%9A",
-    "timestamp": "2026-10-26T11:20:26.048Z",
     "strategy": ".content-card__main"
   }
 ];
