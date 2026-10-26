@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T17:01:23.712Z
+// Last updated: 2026-10-26T17:55:01.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施泰因邁爾抵達合肥　德國總統時隔近8年再次訪華",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191562764129144832839104.jpeg/SIVazRTzUg1LFNvtIXC24T-mPsfacZbGGCDhdRgg4XU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403837/%E6%96%BD%E6%B3%B0%E5%9B%A0%E9%82%81%E7%88%BE%E6%8A%B5%E9%81%94%E5%90%88%E8%82%A5-%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%B5%B1%E6%99%82%E9%9A%94%E8%BF%918%E5%B9%B4%E5%86%8D%E6%AC%A1%E8%A8%AA%E8%8F%AF",
+    "timestamp": "2026-10-26T17:55:01.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓版Doctor X｜光州事件倖存者彈片留腦46年　金智媛挑戰腦幹手術",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240707/886571651485929472379412.jpeg/dceIphAeZ2tgm5r8GSfgYFuI93wJif4dz-vhLM_r4Sw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403518/%E5%BE%8C%E7%94%9F%E4%BB%94%E7%94%A82%E5%85%83%E5%84%AA%E6%83%A0-%E6%B8%AF%E9%90%B5%E8%81%B7%E5%93%A1%E5%A4%A7%E8%81%B2%E6%9F%A5%E7%A5%A8%E7%89%87%E7%98%8B%E5%82%B3-%E6%88%91%E5%A5%BD%E5%86%B7%E9%9D%9C-%E7%B5%90%E5%B1%80%E7%8D%B2%E8%AE%9A",
     "timestamp": "2026-10-26T02:55:37.532Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海軍航空大學跨晝夜飛行訓練　殲-15紅藍對抗高清畫面曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191329417251524608374891.jpeg/I0EF9y5KWVTgAXkYPsPwgeR1OZM2ydLOvfFwJr3xcCY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60403492/%E6%B5%B7%E8%BB%8D%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%B8%E8%B7%A8%E6%99%9D%E5%A4%9C%E9%A3%9B%E8%A1%8C%E8%A8%93%E7%B7%B4-%E6%AE%B2-15%E7%B4%85%E8%97%8D%E5%B0%8D%E6%8A%97%E9%AB%98%E6%B8%85%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-10-26T02:30:37.792Z",
     "strategy": ".content-card__main"
   }
 ];
