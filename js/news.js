@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-25T23:29:51.181Z
+// Last updated: 2026-10-26T00:48:58.316Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美團擬發人民幣優先票據　用於離岸債務再融資",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034850392548184064820479.png/phuYtc_lLUuNR7ZJppNo5BjgfFlsRmZqs6B1FbOgdRU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403484/%E7%BE%8E%E5%9C%98%E6%93%AC%E7%99%BC%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%84%AA%E5%85%88%E7%A5%A8%E6%93%9A-%E7%94%A8%E6%96%BC%E9%9B%A2%E5%B2%B8%E5%82%B5%E5%8B%99%E5%86%8D%E8%9E%8D%E8%B3%87",
+    "timestamp": "2026-10-26T00:48:58.316Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "腦癌│壯年教授半身無力頭暈疑中風　腦腫瘤如棒球大　醫列6大警號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191187060292063232631082.jpeg/-LhiPk1YAv-HyD4SuFK1EuUwyOGkiVAL9y2OhvctjoY",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60403456/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-cfo%E5%B0%8Dt1-%E7%91%9E%E5%A3%AB%E8%BC%AA16%E5%BC%B7%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-10-25T16:56:39.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026｜CFO對T1！瑞士輪16強賽程結果+免費直播連結一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191187060292063232631082.jpeg/-LhiPk1YAv-HyD4SuFK1EuUwyOGkiVAL9y2OhvctjoY",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60403456/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-cfo%E5%B0%8Dt1-%E7%91%9E%E5%A3%AB%E8%BC%AA16%E5%BC%B7%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-10-25T16:47:15.519Z",
     "strategy": ".content-card__main"
   }
 ];
