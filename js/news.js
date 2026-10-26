@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T20:46:57.228Z
+// Last updated: 2026-10-26T20:57:13.800Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
+    "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
+    "timestamp": "2026-10-26T20:57:13.800Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191416067956674560341520.jpeg/NO5Yijr3prwGMYXtqBoLzk8JHZWJGNgWS_95fEv_eXw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60403644/%E7%BD%AE%E6%A5%AD%E8%AA%BF%E6%9F%A5-%E6%B8%AF%E7%BD%AE-%E9%80%BE7%E6%88%90%E4%BA%BA%E6%96%99%E6%A8%93%E5%83%B9%E5%B9%B3%E7%A9%A9%E5%90%91%E4%B8%8A-5%E6%88%90%E4%BA%BA%E7%84%A1%E6%84%8F%E5%8A%A0%E5%BF%AB%E5%85%A5%E5%B8%82%E5%8C%97%E9%83%BD",
     "timestamp": "2026-10-26T08:01:47.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone DUO災情更新｜評測摔2次屏幕即故障　用戶批Apple七宗罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191406480239104000492601.jpeg/sMKVsj9iCE7ydvnIaa1Br4aj9o-jkofrYyPWpGMj1qQ",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60403633/iphone-duo%E7%81%BD%E6%83%85%E6%9B%B4%E6%96%B0-%E8%A9%95%E6%B8%AC%E6%91%942%E6%AC%A1%E5%B1%8F%E5%B9%95%E5%8D%B3%E6%95%85%E9%9A%9C-%E7%94%A8%E6%88%B6%E6%89%B9apple%E4%B8%83%E5%AE%97%E7%BD%AA",
-    "timestamp": "2026-10-26T07:21:24.546Z",
     "strategy": ".content-card__main"
   }
 ];
