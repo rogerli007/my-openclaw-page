@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T11:48:57.141Z
+// Last updated: 2026-10-26T14:39:54.586Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「暗黑前田敦子」琥珀歌揭巔峰引退內幕　遭未婚夫偷裝GPS兼軟禁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191352586456797184490578.png/N10eFArhu7XQFXiJjCD5OkbEzQBq-QX3mv3I1Jr9yNQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60403549/%E6%9A%97%E9%BB%91%E5%89%8D%E7%94%B0%E6%95%A6%E5%AD%90-%E7%90%A5%E7%8F%80%E6%AD%8C%E6%8F%AD%E5%B7%94%E5%B3%B0%E5%BC%95%E9%80%80%E5%85%A7%E5%B9%95-%E9%81%AD%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%81%B7%E8%A3%9Dgps%E5%85%BC%E8%BB%9F%E7%A6%81",
+    "timestamp": "2026-10-26T14:39:54.586Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜朋友指鄺港智似富有坐勞斯萊斯　交新女友後要搬曾求助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034850392548184064820479.png/phuYtc_lLUuNR7ZJppNo5BjgfFlsRmZqs6B1FbOgdRU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403484/%E7%BE%8E%E5%9C%98%E6%93%AC%E7%99%BC%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%84%AA%E5%85%88%E7%A5%A8%E6%93%9A-%E7%94%A8%E6%96%BC%E9%9B%A2%E5%B2%B8%E5%82%B5%E5%8B%99%E5%86%8D%E8%9E%8D%E8%B3%87",
     "timestamp": "2026-10-26T00:48:58.316Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "腦癌│壯年教授半身無力頭暈疑中風　腦腫瘤如棒球大　醫列6大警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187376658047307776013645.jpeg/P52Nhfcoqrq-B-IpYNXbu5Ypr8zDp5h1aockF2qHJBc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60399214/%E8%85%A6%E7%99%8C-%E5%A3%AF%E5%B9%B4%E6%95%99%E6%8E%88%E5%8D%8A%E8%BA%AB%E7%84%A1%E5%8A%9B%E9%A0%AD%E6%9A%88%E7%96%91%E4%B8%AD%E9%A2%A8-%E8%85%A6%E8%85%AB%E7%98%A4%E5%A6%82%E6%A3%92%E7%90%83%E5%A4%A7-%E9%86%AB%E5%88%976%E5%A4%A7%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-10-25T23:29:51.181Z",
     "strategy": ".content-card__main"
   }
 ];
