@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T10:39:40.894Z
+// Last updated: 2026-10-26T11:20:26.048Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Anthropic向美媒證實Claude未經人類授權　取佐治亞投票統計數據",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260708/1151611373810094080296370.jpeg/Rc711KSrExGIkS5WCbNmhD5RyE18asa0OQOnIDkDpyA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403784/anthropic%E5%90%91%E7%BE%8E%E5%AA%92%E8%AD%89%E5%AF%A6claude%E6%9C%AA%E7%B6%93%E4%BA%BA%E9%A1%9E%E6%8E%88%E6%AC%8A-%E5%8F%96%E4%BD%90%E6%B2%BB%E4%BA%9E%E6%8A%95%E7%A5%A8%E7%B5%B1%E8%A8%88%E6%95%B8%E6%93%9A",
+    "timestamp": "2026-10-26T11:20:26.048Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "草蜢澳門開騷感性發言憶梅艷芳往事   蔡一傑談腦癌開刀2年後現況",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191216960948408320386514.png/ewjqzypGE6X3R6uf_R7o_NT7Q7ROiSYJTZfe9E2X3vQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402189/%E8%83%8E%E5%85%92-%E6%89%AE%E9%AC%BC%E8%87%89-%E6%96%B0%E6%89%8B%E7%88%B8%E8%AE%9A%E5%8F%AF%E6%84%9B-%E7%9C%9F%E7%9B%B8%E6%81%90%E6%98%AF%E5%85%94%E5%94%87-%E9%86%AB%E7%94%9F-%E5%BB%BA%E8%AD%B0%E7%B5%82%E6%AD%A2%E6%87%B7%E5%AD%95",
     "timestamp": "2026-10-25T23:17:41.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致天晴　日間最高約30度　未來一兩日風勢較大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191275515420348416879205.jpeg/_BhtiMm0XK6w5cQoQAgWQuRidhcLQoMGTETjU0xE41M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60403462/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8430%E5%BA%A6-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E9%A2%A8%E5%8B%A2%E8%BC%83%E5%A4%A7",
-    "timestamp": "2026-10-25T22:55:09.104Z",
     "strategy": ".content-card__main"
   }
 ];
