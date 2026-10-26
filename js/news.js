@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T04:24:47.351Z
+// Last updated: 2026-10-26T04:52:52.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗倉狗咬人｜倉主指有人擅解繩肇禍　承諾日後「連放都唔放」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191344596890685440821064.jpeg/B-RR7-6ZHXDxmCysRkfw1G1xKOcWoPP5Q03nHUNN5x0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403554/%E5%85%83%E6%9C%97%E5%80%89%E7%8B%97%E5%92%AC%E4%BA%BA-%E5%80%89%E4%B8%BB%E6%8C%87%E6%9C%89%E4%BA%BA%E6%93%85%E8%A7%A3%E7%B9%A9%E8%82%87%E7%A6%8D-%E6%89%BF%E8%AB%BE%E6%97%A5%E5%BE%8C-%E9%80%A3%E6%94%BE%E9%83%BD%E5%94%94%E6%94%BE",
+    "timestamp": "2026-10-26T04:52:52.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片│趕返工被阻！港鐵阿伯扶手梯「左右企定」拒讓路:是規矩法例",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191230949115826176469287.jpeg/ax5KfwH3QEnGEeVcamQXK5c8ZcxfxxIFRY3WNEWN1jQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403476/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8%E6%AC%A1%E8%BC%AA%E6%8A%95%E7%A5%A8-%E7%9B%A7%E6%8B%89%E8%A6%81%E6%B1%82%E9%83%A8%E4%BB%BD%E5%9F%8E%E5%B8%82%E7%A5%A8%E7%AB%99%E5%BB%B6%E9%95%B7%E9%96%8B%E6%94%BE",
     "timestamp": "2026-10-25T19:54:18.769Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉初次拍劇的震撼：被要求真打掌摑劇中父親",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190692385063964672946015.jpeg/k-5vIo2s6bZzFDOx3jSZ38_nTbzl1PnLCzEJvwsxCb8",
-    "url": "https://www.hk01.com/01TV/60403202/%E8%BB%8A%E5%A9%89%E5%A9%89%E5%88%9D%E6%AC%A1%E6%8B%8D%E5%8A%87%E7%9A%84%E9%9C%87%E6%92%BC-%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%9F%E6%89%93%E6%8E%8C%E6%91%91%E5%8A%87%E4%B8%AD%E7%88%B6%E8%A6%AA",
-    "timestamp": "2026-10-25T19:40:35.590Z",
     "strategy": ".content-card__main"
   }
 ];
