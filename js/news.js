@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T11:20:26.048Z
+// Last updated: 2026-10-26T11:48:57.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜朋友指鄺港智似富有坐勞斯萊斯　交新女友後要搬曾求助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182645280231657472632014.jpeg/2gQZNdDBmzkXLAKPq62heiPLhKvd03QHidlftonZX7Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403790/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E6%9C%8B%E5%8F%8B%E6%8C%87%E9%84%BA%E6%B8%AF%E6%99%BA%E4%BC%BC%E5%AF%8C%E6%9C%89%E5%9D%90%E5%8B%9E%E6%96%AF%E8%90%8A%E6%96%AF-%E4%BA%A4%E6%96%B0%E5%A5%B3%E5%8F%8B%E5%BE%8C%E8%A6%81%E6%90%AC%E6%9B%BE%E6%B1%82%E5%8A%A9",
+    "timestamp": "2026-10-26T11:48:57.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic向美媒證實Claude未經人類授權　取佐治亞投票統計數據",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187376658047307776013645.jpeg/P52Nhfcoqrq-B-IpYNXbu5Ypr8zDp5h1aockF2qHJBc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60399214/%E8%85%A6%E7%99%8C-%E5%A3%AF%E5%B9%B4%E6%95%99%E6%8E%88%E5%8D%8A%E8%BA%AB%E7%84%A1%E5%8A%9B%E9%A0%AD%E6%9A%88%E7%96%91%E4%B8%AD%E9%A2%A8-%E8%85%A6%E8%85%AB%E7%98%A4%E5%A6%82%E6%A3%92%E7%90%83%E5%A4%A7-%E9%86%AB%E5%88%976%E5%A4%A7%E8%AD%A6%E8%99%9F",
     "timestamp": "2026-10-25T23:29:51.181Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胎兒「扮鬼臉」新手爸讚可愛　真相恐悲哀　醫生：建議終止懷孕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191216960948408320386514.png/ewjqzypGE6X3R6uf_R7o_NT7Q7ROiSYJTZfe9E2X3vQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402189/%E8%83%8E%E5%85%92-%E6%89%AE%E9%AC%BC%E8%87%89-%E6%96%B0%E6%89%8B%E7%88%B8%E8%AE%9A%E5%8F%AF%E6%84%9B-%E7%9C%9F%E7%9B%B8%E6%81%90%E6%98%AF%E5%85%94%E5%94%87-%E9%86%AB%E7%94%9F-%E5%BB%BA%E8%AD%B0%E7%B5%82%E6%AD%A2%E6%87%B7%E5%AD%95",
-    "timestamp": "2026-10-25T23:17:41.398Z",
     "strategy": ".content-card__main"
   }
 ];
