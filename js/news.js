@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T14:39:54.586Z
+// Last updated: 2026-10-26T15:57:05.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張致恒黃榕分手20年破冰　自認渣男向舊愛道歉女方訴唔再信男人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191493949072609280647395.jpeg/jpcQEq0GJ9ehyH2-6PMFEeWcfm8P6mTqF4k-nBeJPpw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403741/%E5%BC%B5%E8%87%B4%E6%81%92%E9%BB%83%E6%A6%95%E5%88%86%E6%89%8B20%E5%B9%B4%E7%A0%B4%E5%86%B0-%E8%87%AA%E8%AA%8D%E6%B8%A3%E7%94%B7%E5%90%91%E8%88%8A%E6%84%9B%E9%81%93%E6%AD%89%E5%A5%B3%E6%96%B9%E8%A8%B4%E5%94%94%E5%86%8D%E4%BF%A1%E7%94%B7%E4%BA%BA",
+    "timestamp": "2026-10-26T15:57:05.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「暗黑前田敦子」琥珀歌揭巔峰引退內幕　遭未婚夫偷裝GPS兼軟禁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240823/903587584586944512851094.jpeg/qhy_uAo6vLPwv5XVlGdxFZyEsJIMKqbRrymAL68pgC8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403486/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%8A%E6%B0%B4%E5%AF%B6%E7%9F%B3%E6%B9%96%E9%82%A828%E6%AD%B2%E7%94%B7%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
     "timestamp": "2026-10-26T01:20:43.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美團擬發人民幣優先票據　用於離岸債務再融資",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034850392548184064820479.png/phuYtc_lLUuNR7ZJppNo5BjgfFlsRmZqs6B1FbOgdRU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403484/%E7%BE%8E%E5%9C%98%E6%93%AC%E7%99%BC%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%84%AA%E5%85%88%E7%A5%A8%E6%93%9A-%E7%94%A8%E6%96%BC%E9%9B%A2%E5%B2%B8%E5%82%B5%E5%8B%99%E5%86%8D%E8%9E%8D%E8%B3%87",
-    "timestamp": "2026-10-26T00:48:58.316Z",
     "strategy": ".content-card__main"
   }
 ];
