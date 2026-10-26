@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T03:55:00.457Z
+// Last updated: 2026-10-26T04:24:47.351Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片│趕返工被阻！港鐵阿伯扶手梯「左右企定」拒讓路:是規矩法例",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191359059266113536470163.jpeg/FaucnWP1b3oXXeCaS3tVPZvLICCTY6jjsUnQgrFJ0II",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403461/%E6%9C%89%E7%89%87-%E8%B6%95%E8%BF%94%E5%B7%A5%E8%A2%AB%E9%98%BB-%E6%B8%AF%E9%90%B5%E9%98%BF%E4%BC%AF%E6%89%B6%E6%89%8B%E6%A2%AF-%E5%B7%A6%E5%8F%B3%E4%BC%81%E5%AE%9A-%E6%8B%92%E8%AE%93%E8%B7%AF-%E6%98%AF%E8%A6%8F%E7%9F%A9%E6%B3%95%E4%BE%8B",
+    "timestamp": "2026-10-26T04:24:47.351Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中全會首次聚焦全面從嚴治黨　五中全會需要勇敢邁出反腐新步伐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190692385063964672946015.jpeg/k-5vIo2s6bZzFDOx3jSZ38_nTbzl1PnLCzEJvwsxCb8",
     "url": "https://www.hk01.com/01TV/60403202/%E8%BB%8A%E5%A9%89%E5%A9%89%E5%88%9D%E6%AC%A1%E6%8B%8D%E5%8A%87%E7%9A%84%E9%9C%87%E6%92%BC-%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%9F%E6%89%93%E6%8E%8C%E6%91%91%E5%8A%87%E4%B8%AD%E7%88%B6%E8%A6%AA",
     "timestamp": "2026-10-25T19:40:35.590Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉初次拍劇的震撼：被要求真打掌摑劇中父親",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190692385063964672946015.jpeg/k-5vIo2s6bZzFDOx3jSZ38_nTbzl1PnLCzEJvwsxCb8",
-    "url": "https://www.hk01.com/01TV/60403202/%E8%BB%8A%E5%A9%89%E5%A9%89%E5%88%9D%E6%AC%A1%E6%8B%8D%E5%8A%87%E7%9A%84%E9%9C%87%E6%92%BC-%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%9F%E6%89%93%E6%8E%8C%E6%91%91%E5%8A%87%E4%B8%AD%E7%88%B6%E8%A6%AA",
-    "timestamp": "2026-10-25T19:15:23.596Z",
     "strategy": ".content-card__main"
   }
 ];
