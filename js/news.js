@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T09:48:55.213Z
+// Last updated: 2026-10-27T11:19:45.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狄志遠：宏福火問責不涉司局長難服眾　制度倘發揮不到作用如虛設",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186638207475781632489703.jpeg/SU0Lg5f9PLaf9S60tb72J83t3wh_GuC42Wx_LNlsfyw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404203/%E7%8B%84%E5%BF%97%E9%81%A0-%E5%AE%8F%E7%A6%8F%E7%81%AB%E5%95%8F%E8%B2%AC%E4%B8%8D%E6%B6%89%E5%8F%B8%E5%B1%80%E9%95%B7%E9%9B%A3%E6%9C%8D%E7%9C%BE-%E5%88%B6%E5%BA%A6%E5%80%98%E7%99%BC%E6%8F%AE%E4%B8%8D%E5%88%B0%E4%BD%9C%E7%94%A8%E5%A6%82%E8%99%9B%E8%A8%AD",
+    "timestamp": "2026-10-27T11:19:45.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍17歲少女遭尾隨索襪受驚　警查天眼拘32歲男涉遊蕩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191673354860367872267809.jpeg/BSjmOVQUJW6n_dZld11-Lr4arGzd-eKDQqcA40KnAOM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403857/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E9%BC%A0%E6%82%A3-%E9%A3%9F%E7%92%B0%E5%AF%A6%E5%9C%B0%E8%A6%96%E5%AF%9F-%E5%85%A9%E5%80%8B%E6%9C%88%E6%8D%89%E8%BF%9160%E9%9A%BB%E9%BC%A0-%E8%AA%BF%E5%A4%9C%E9%BC%A0%E9%9A%8A%E6%BB%85%E9%BC%A0",
     "timestamp": "2026-10-27T01:25:26.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜高海寧揭張曦雯半裸戲內幕：嗰場戲我喺現場！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191531113940520960201384.jpeg/kJkNEcZqNPtLYxVztnlqrXvdeDLk2CwEyuMR0PDjEdA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403827/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E5%BC%B5%E6%9B%A6%E9%9B%AF%E5%8D%8A%E8%A3%B8%E6%88%B2%E5%85%A7%E5%B9%95-%E5%97%B0%E5%A0%B4%E6%88%B2%E6%88%91%E5%96%BA%E7%8F%BE%E5%A0%B4",
-    "timestamp": "2026-10-27T00:46:21.584Z",
     "strategy": ".content-card__main"
   }
 ];
