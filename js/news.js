@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T04:49:18.603Z
+// Last updated: 2026-10-27T05:01:01.476Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田MMA｜躁漢疑駕車上行人路　男子影罪證遭掟袋狂毆　雙雙被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191734377260781568583427.jpeg/2qxPgUxBXhWmwdf9N4aqVW0eUsbrumRXByUjXAclI1w",
+    "url": "https://www.hk01.com/01TV/60403991/%E6%B2%99%E7%94%B0mma-%E8%BA%81%E6%BC%A2%E7%96%91%E9%A7%95%E8%BB%8A%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E7%94%B7%E5%AD%90%E5%BD%B1%E7%BD%AA%E8%AD%89%E9%81%AD%E6%8E%9F%E8%A2%8B%E7%8B%82%E6%AF%86-%E9%9B%99%E9%9B%99%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-27T05:01:01.476Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "滙豐季績｜香港業務上季稅前增8%　商業房地產撥備有所減少",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
     "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
     "timestamp": "2026-10-26T20:57:13.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
-    "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
-    "timestamp": "2026-10-26T20:46:57.228Z",
     "strategy": ".content-card__main"
   }
 ];
