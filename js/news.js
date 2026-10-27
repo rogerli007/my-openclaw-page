@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T17:15:42.906Z
+// Last updated: 2026-10-27T17:26:06.914Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列大選頭9小時投票率55.7%　內塔尼亞胡政黨要求延長投票時間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191909147868663808924837.jpeg/FlfzBwNrqTDb59WZgwiZGG0e3J1wOLzecIOrsXCDq7E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404241/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8%E9%A0%AD9%E5%B0%8F%E6%99%82%E6%8A%95%E7%A5%A8%E7%8E%8755-7-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%94%BF%E9%BB%A8%E8%A6%81%E6%B1%82%E5%BB%B6%E9%95%B7%E6%8A%95%E7%A5%A8%E6%99%82%E9%96%93",
+    "timestamp": "2026-10-27T17:26:06.914Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列大選頭9小時投票率55.7%　內塔尼亞胡政黨要求延長投票時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191772533129482240650738.jpeg/nhCf9SiM_Vw3Ku4KLWX0QRHjSULOmMHtF9z0Bxfc9Ac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60403987/%E6%B1%9F%E8%98%87%E9%86%AB%E7%94%9F%E6%9F%A5%E8%B1%86%E5%8C%85ai%E9%96%8B%E9%99%8D%E8%A1%80%E5%A3%93%E8%97%A5-%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%AC%E6%84%9F%E4%B8%8D%E5%AE%89%E6%9C%AA%E5%8F%96%E8%97%A5-%E5%87%BA%E4%BA%8B%E8%AA%B0%E8%B2%A0%E8%B2%AC",
     "timestamp": "2026-10-27T07:31:31.543Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "原由樂風夥星基金收購發展　鴨脷洲單幢盤瀚澄涉82伙　最細186呎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191760160582799360184320.jpeg/yhgHi-Tg7hAOYm3cf6OXarVdGGL6Ec6W3Y9FUt2PRVI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60404034/%E5%8E%9F%E7%94%B1%E6%A8%82%E9%A2%A8%E5%A4%A5%E6%98%9F%E5%9F%BA%E9%87%91%E6%94%B6%E8%B3%BC%E7%99%BC%E5%B1%95-%E9%B4%A8%E8%84%B7%E6%B4%B2%E5%96%AE%E5%B9%A2%E7%9B%A4%E7%80%9A%E6%BE%84%E6%B6%8982%E4%BC%99-%E6%9C%80%E7%B4%B0186%E5%91%8E",
-    "timestamp": "2026-10-27T07:02:41.499Z",
     "strategy": ".content-card__main"
   }
 ];
