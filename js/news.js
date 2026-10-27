@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T12:57:23.220Z
+// Last updated: 2026-10-27T13:26:00.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台學者料中共二十一大出招　或提「兩制台灣方案」頂層設計",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191859937110659072259731.png/zWSNU-GQbzAkN7zYoZZpPpjtP20w2JFnoA3i36AN4t8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60404221/%E5%8F%B0%E5%AD%B8%E8%80%85%E6%96%99%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7%E5%87%BA%E6%8B%9B-%E6%88%96%E6%8F%90-%E5%85%A9%E5%88%B6%E5%8F%B0%E7%81%A3%E6%96%B9%E6%A1%88-%E9%A0%82%E5%B1%A4%E8%A8%AD%E8%A8%88",
+    "timestamp": "2026-10-27T13:26:00.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "信和黃永光看好北都、港迎「新黃金期」　近2900伙市區盤待推",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190078425407164416230194.jpeg/uLFRWE2ERKyIyLxaTedTsqFTRqkWWNMl1XFGPdVxRj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60359597/%E5%A4%A7%E8%85%B8%E7%99%8C%E9%A0%90%E9%98%B2-%E8%85%BA%E7%98%A4%E5%9E%8B%E6%81%AF%E8%82%89%E6%98%93%E7%99%8C%E5%8C%96-9%E6%8B%9B%E5%81%A5%E5%BA%B7%E9%A3%B2%E9%A3%9F%E9%99%8D%E9%A2%A8%E9%9A%AA-%E5%AE%9A%E6%99%82%E6%8E%92%E4%BE%BF",
     "timestamp": "2026-10-27T02:07:59.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西大選｜盧拉逆風翻盤　 弗拉維奧翻不起波濤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160945586761895936354129.jpeg/-f14StxpMD1xN-A6ZPMod99nJV4R5Pe7lKBuB5Sgbgc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60403871/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8-%E7%9B%A7%E6%8B%89%E9%80%86%E9%A2%A8%E7%BF%BB%E7%9B%A4-%E5%BC%97%E6%8B%89%E7%B6%AD%E5%A5%A7%E7%BF%BB%E4%B8%8D%E8%B5%B7%E6%B3%A2%E6%BF%A4",
-    "timestamp": "2026-10-27T01:50:42.940Z",
     "strategy": ".content-card__main"
   }
 ];
