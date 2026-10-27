@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T22:40:17.943Z
+// Last updated: 2026-10-27T22:53:40.945Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網上開戰？李力持激動回應田啟文話佢係「雙面人」：我頂你啊田雞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191806324313165824019528.jpeg/h7sXHAKBi8En5cgFEozkJc5fYE7FtP-C8u4R__LuEf8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404113/%E7%B6%B2%E4%B8%8A%E9%96%8B%E6%88%B0-%E6%9D%8E%E5%8A%9B%E6%8C%81%E6%BF%80%E5%8B%95%E5%9B%9E%E6%87%89%E7%94%B0%E5%95%9F%E6%96%87%E8%A9%B1%E4%BD%A2%E4%BF%82-%E9%9B%99%E9%9D%A2%E4%BA%BA-%E6%88%91%E9%A0%82%E4%BD%A0%E5%95%8A%E7%94%B0%E9%9B%9E",
+    "timestamp": "2026-10-27T22:53:40.945Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網上開戰？李力持激動回應田啟文話佢係「雙面人」：我頂你啊田雞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191914657883885568901785.png/1eonBpWokQ4ZCnkTu8WO8o-tjTSMNRahXJBj61yQY-s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401950/13%E6%AD%B2%E7%94%B7%E7%94%9F%E7%A9%BF%E6%96%B0nike%E9%9E%8B-%E9%81%AD15%E6%AD%B2%E5%90%8C%E5%AD%B8%E6%AF%86%E8%87%B3%E5%81%8F%E7%99%B1%E5%A4%B1%E6%98%8E-%E5%AE%BF%E7%AE%A13%E6%AC%A1%E6%8B%92%E6%96%BD%E6%8F%B4%E6%89%8B",
     "timestamp": "2026-10-27T16:53:47.907Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國多地示威拖累國內經濟　消費者信心指數跌至13年新低",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191896401349447680371840.jpeg/vKKqedfWaAjTd0XHg6Lxn8k5qGFknl9gAngRSQJ4EUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404237/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E7%A4%BA%E5%A8%81%E6%8B%96%E7%B4%AF%E5%9C%8B%E5%85%A7%E7%B6%93%E6%BF%9F-%E6%B6%88%E8%B2%BB%E8%80%85%E4%BF%A1%E5%BF%83%E6%8C%87%E6%95%B8%E8%B7%8C%E8%87%B313%E5%B9%B4%E6%96%B0%E4%BD%8E",
-    "timestamp": "2026-10-27T16:32:14.290Z",
     "strategy": ".content-card__main"
   }
 ];
