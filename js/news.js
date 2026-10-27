@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T15:47:46.404Z
+// Last updated: 2026-10-27T15:58:28.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仔石灘男子岸邊漂浮　當場死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191895813865869312018346.jpeg/Lx-EtwMYyGPB5U__diT8dKK4XNQy3nBaqO7ZcKju2XA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404238/%E9%A6%99%E6%B8%AF%E4%BB%94%E7%9F%B3%E7%81%98%E7%94%B7%E5%AD%90%E5%B2%B8%E9%82%8A%E6%BC%82%E6%B5%AE-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-10-27T15:58:28.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔石灘男子岸邊漂浮　當場死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191734377260781568583427.jpeg/2qxPgUxBXhWmwdf9N4aqVW0eUsbrumRXByUjXAclI1w",
     "url": "https://www.hk01.com/01TV/60403991/%E6%B2%99%E7%94%B0mma-%E8%BA%81%E6%BC%A2%E7%96%91%E9%A7%95%E8%BB%8A%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E7%94%B7%E5%AD%90%E5%BD%B1%E7%BD%AA%E8%AD%89%E9%81%AD%E6%8E%9F%E8%A2%8B%E7%8B%82%E6%AF%86-%E9%9B%99%E9%9B%99%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-27T05:01:01.476Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "滙豐季績｜香港業務上季稅前增8%　商業房地產撥備有所減少",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162334842008899584310962.jpeg/3s49bJhFEUdAXSL6Sgzo54fQannpYhCb1Sh9XNUofVw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403980/%E6%BB%99%E8%B1%90%E5%AD%A3%E7%B8%BE-%E9%A6%99%E6%B8%AF%E6%A5%AD%E5%8B%99%E4%B8%8A%E5%AD%A3%E7%A8%85%E5%89%8D%E5%A2%9E8-%E5%95%86%E6%A5%AD%E6%88%BF%E5%9C%B0%E7%94%A2%E6%92%A5%E5%82%99%E6%9C%89%E6%89%80%E6%B8%9B%E5%B0%91",
-    "timestamp": "2026-10-27T04:49:18.603Z",
     "strategy": ".content-card__main"
   }
 ];
