@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T17:46:06.339Z
+// Last updated: 2026-10-27T17:54:06.799Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安達臣男工推電單車　剷單車徑遇警阻止　大喝：企咁埋做咩｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191921169905750016521798.jpeg/GltEDp5_1Iputr2mmMUHSg8-JYciPXgVwBF_wsARf8I",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404243/%E5%AE%89%E9%81%94%E8%87%A3%E7%94%B7%E5%B7%A5%E6%8E%A8%E9%9B%BB%E5%96%AE%E8%BB%8A-%E5%89%B7%E5%96%AE%E8%BB%8A%E5%BE%91%E9%81%87%E8%AD%A6%E9%98%BB%E6%AD%A2-%E5%A4%A7%E5%96%9D-%E4%BC%81%E5%92%81%E5%9F%8B%E5%81%9A%E5%92%A9-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-27T17:54:06.799Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安達臣男工推電單車　剷單車徑遇警阻止　大喝：企咁埋做咩｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191761723057508352867139.png/ZwCkNJt8eGmCS70fbpoU3XNSBuRUJ72rGW1RwBltUcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403903/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E6%88%AA%E5%85%A9%E5%9C%B0%E7%89%8C%E8%BB%8A%E6%AA%A21-353%E7%AE%A1%E5%AD%95%E5%A9%A6%E8%A1%80%E6%A8%A3-%E6%8F%AD%E5%AF%84%E8%A1%80%E9%A9%97%E8%83%8E%E6%80%A7%E5%88%A5%E5%9C%B0%E4%B8%8B%E9%8F%88",
     "timestamp": "2026-10-27T08:27:01.121Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓國首爾自由行酒店精選：弘大L7下樓直達商圈、明洞平價HOP INN",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189641818346622976543972.jpeg/fcxBGLqxD2ale3nsuOG_IhyET4-5_8qDrQ0yPK0NMjw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60399668/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E9%85%92%E5%BA%97%E7%B2%BE%E9%81%B8-%E5%BC%98%E5%A4%A7l7%E4%B8%8B%E6%A8%93%E7%9B%B4%E9%81%94%E5%95%86%E5%9C%88-%E6%98%8E%E6%B4%9E%E5%B9%B3%E5%83%B9hop-inn",
-    "timestamp": "2026-10-27T07:52:24.978Z",
     "strategy": ".content-card__main"
   }
 ];
