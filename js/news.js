@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-26T23:44:36.052Z
+// Last updated: 2026-10-27T00:46:21.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜高海寧揭張曦雯半裸戲內幕：嗰場戲我喺現場！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191531113940520960201384.jpeg/kJkNEcZqNPtLYxVztnlqrXvdeDLk2CwEyuMR0PDjEdA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403827/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E5%BC%B5%E6%9B%A6%E9%9B%AF%E5%8D%8A%E8%A3%B8%E6%88%B2%E5%85%A7%E5%B9%95-%E5%97%B0%E5%A0%B4%E6%88%B2%E6%88%91%E5%96%BA%E7%8F%BE%E5%A0%B4",
+    "timestamp": "2026-10-27T00:46:21.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝安德：冀有生之年看到英國重返歐盟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191431938741637120513072.png/TSA7S9qwZEsS1q5MF_w1zHHykk0heen4_KWitfylorU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403652/%E9%9F%93%E7%89%88doctor-x-%E5%85%89%E5%B7%9E%E4%BA%8B%E4%BB%B6%E5%80%96%E5%AD%98%E8%80%85%E5%BD%88%E7%89%87%E7%95%99%E8%85%A646%E5%B9%B4-%E9%87%91%E6%99%BA%E5%AA%9B%E6%8C%91%E6%88%B0%E8%85%A6%E5%B9%B9%E6%89%8B%E8%A1%93",
     "timestamp": "2026-10-26T16:49:54.092Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張致恒黃榕分手20年破冰　自認渣男向舊愛道歉女方訴唔再信男人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191493949072609280647395.jpeg/jpcQEq0GJ9ehyH2-6PMFEeWcfm8P6mTqF4k-nBeJPpw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403741/%E5%BC%B5%E8%87%B4%E6%81%92%E9%BB%83%E6%A6%95%E5%88%86%E6%89%8B20%E5%B9%B4%E7%A0%B4%E5%86%B0-%E8%87%AA%E8%AA%8D%E6%B8%A3%E7%94%B7%E5%90%91%E8%88%8A%E6%84%9B%E9%81%93%E6%AD%89%E5%A5%B3%E6%96%B9%E8%A8%B4%E5%94%94%E5%86%8D%E4%BF%A1%E7%94%B7%E4%BA%BA",
-    "timestamp": "2026-10-26T15:57:05.064Z",
     "strategy": ".content-card__main"
   }
 ];
