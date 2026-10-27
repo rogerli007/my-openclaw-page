@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T02:47:09.345Z
+// Last updated: 2026-10-27T03:01:50.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華富邨重建｜趙式浩倡南港島線西段恢復重鐵　上蓋建物業補貼成本",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250831/1038926283158982656392407.jpeg/1vl32ZLfv3psaVBE6GLP4tddRdbNnZFspl7F6KZexeg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403885/%E8%8F%AF%E5%AF%8C%E9%82%A8%E9%87%8D%E5%BB%BA-%E8%B6%99%E5%BC%8F%E6%B5%A9%E5%80%A1%E5%8D%97%E6%B8%AF%E5%B3%B6%E7%B7%9A%E8%A5%BF%E6%AE%B5%E6%81%A2%E5%BE%A9%E9%87%8D%E9%90%B5-%E4%B8%8A%E8%93%8B%E5%BB%BA%E7%89%A9%E6%A5%AD%E8%A3%9C%E8%B2%BC%E6%88%90%E6%9C%AC",
+    "timestamp": "2026-10-27T03:01:50.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長者優惠｜免費聽力測試+$1500助聽器津貼　60歲可申請+報名方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190696932075376640351702.jpeg/vA6ncnT6j_FE_tkr87xyOUrsgs-MzIm79J8dhfSfHYU",
     "url": "https://www.hk01.com/01TV/60403209/%E8%BB%8A%E5%A9%89%E5%A9%89%E5%A4%B1%E8%81%B2%E5%A4%B1%E6%A5%AD%E9%99%B7%E4%BD%8E%E6%BD%AE-%E7%82%BA%E4%BA%86%E7%94%9F%E8%A8%88%E5%85%BC%E8%81%B7%E5%B9%AB%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%8D%B0%E5%B9%B4%E5%A0%B1",
     "timestamp": "2026-10-26T19:19:04.370Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯合國調查委員會：以色列犯下戰爭罪　持續在加沙種族滅絕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191569539712684032621839.jpeg/M8E9n5_LITvnLd0CXHSlDnRNOhkLasR2fB-_hnwfv4Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403838/%E8%81%AF%E5%90%88%E5%9C%8B%E8%AA%BF%E6%9F%A5%E5%A7%94%E5%93%A1%E6%9C%83-%E4%BB%A5%E8%89%B2%E5%88%97%E7%8A%AF%E4%B8%8B%E6%88%B0%E7%88%AD%E7%BD%AA-%E6%8C%81%E7%BA%8C%E5%9C%A8%E5%8A%A0%E6%B2%99%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95",
-    "timestamp": "2026-10-26T19:00:36.456Z",
     "strategy": ".content-card__main"
   }
 ];
