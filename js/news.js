@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T13:49:58.398Z
+// Last updated: 2026-10-27T14:02:25.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "你的保安李寶安｜保安面試者大有來頭　元朗「鬼巴士」享負盛名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191828499585830912307126.jpeg/74wyyZgnKMRZzi_kGW7q8dJwz53nLJ5ArBV-8awVfvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404081/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89%E6%9D%8E%E5%AF%B6%E5%AE%89-%E4%BF%9D%E5%AE%89%E9%9D%A2%E8%A9%A6%E8%80%85%E5%A4%A7%E6%9C%89%E4%BE%86%E9%A0%AD-%E5%85%83%E6%9C%97-%E9%AC%BC%E5%B7%B4%E5%A3%AB-%E4%BA%AB%E8%B2%A0%E7%9B%9B%E5%90%8D",
+    "timestamp": "2026-10-27T14:02:25.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Apple M6晶片14吋MacBook Pro與24吋新iMac登場：AI效能大躍進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250831/1038926283158982656392407.jpeg/1vl32ZLfv3psaVBE6GLP4tddRdbNnZFspl7F6KZexeg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403885/%E8%8F%AF%E5%AF%8C%E9%82%A8%E9%87%8D%E5%BB%BA-%E8%B6%99%E5%BC%8F%E6%B5%A9%E5%80%A1%E5%8D%97%E6%B8%AF%E5%B3%B6%E7%B7%9A%E8%A5%BF%E6%AE%B5%E6%81%A2%E5%BE%A9%E9%87%8D%E9%90%B5-%E4%B8%8A%E8%93%8B%E5%BB%BA%E7%89%A9%E6%A5%AD%E8%A3%9C%E8%B2%BC%E6%88%90%E6%9C%AC",
     "timestamp": "2026-10-27T03:01:50.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長者優惠｜免費聽力測試+$1500助聽器津貼　60歲可申請+報名方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191463669783859200081952.png/wTOELQGRD6DpDtl__yHoDxT2_uCAiPhxozXLaKM1y2g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60403766/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0-%E5%85%8D%E8%B2%BB%E8%81%BD%E5%8A%9B%E6%B8%AC%E8%A9%A6-1500%E5%8A%A9%E8%81%BD%E5%99%A8%E6%B4%A5%E8%B2%BC-60%E6%AD%B2%E5%8F%AF%E7%94%B3%E8%AB%8B-%E5%A0%B1%E5%90%8D%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-10-27T02:47:09.345Z",
     "strategy": ".content-card__main"
   }
 ];
