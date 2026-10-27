@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T18:53:38.553Z
+// Last updated: 2026-10-27T19:14:43.813Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉拒絕當「星二代」：堅持不靠母親人脈 要憑實力贏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190701542122983424985173.jpeg/l1rtrKfeRUpRIb8evzckbT8zUOaOBEsevYSz172Es9c",
+    "url": "https://www.hk01.com/01TV/60403219/%E8%BB%8A%E5%A9%89%E5%A9%89%E6%8B%92%E7%B5%95%E7%95%B6-%E6%98%9F%E4%BA%8C%E4%BB%A3-%E5%A0%85%E6%8C%81%E4%B8%8D%E9%9D%A0%E6%AF%8D%E8%A6%AA%E4%BA%BA%E8%84%88-%E8%A6%81%E6%86%91%E5%AF%A6%E5%8A%9B%E8%B4%8F",
+    "timestamp": "2026-10-27T19:14:43.813Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "漫畫巨匠千葉徹彌病逝享年87歲　《鐵拳浪子》燃燒殆盡一幕成經典",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191851561052016640872319.jpeg/cA8mzSzW-SmdY3vsLhhMDxqplfxz5fqVfxYhWX8WIVk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404215/%E4%BF%A1%E5%92%8C%E9%BB%83%E6%B0%B8%E5%85%89%E7%9C%8B%E5%A5%BD%E5%8C%97%E9%83%BD-%E6%B8%AF%E8%BF%8E-%E6%96%B0%E9%BB%83%E9%87%91%E6%9C%9F-%E8%BF%912900%E4%BC%99%E5%B8%82%E5%8D%80%E7%9B%A4%E5%BE%85%E6%8E%A8",
     "timestamp": "2026-10-27T12:57:23.220Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "狄志遠：宏福火問責不涉司局長難服眾　制度倘發揮不到作用如虛設",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186638207475781632489703.jpeg/SU0Lg5f9PLaf9S60tb72J83t3wh_GuC42Wx_LNlsfyw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404203/%E7%8B%84%E5%BF%97%E9%81%A0-%E5%AE%8F%E7%A6%8F%E7%81%AB%E5%95%8F%E8%B2%AC%E4%B8%8D%E6%B6%89%E5%8F%B8%E5%B1%80%E9%95%B7%E9%9B%A3%E6%9C%8D%E7%9C%BE-%E5%88%B6%E5%BA%A6%E5%80%98%E7%99%BC%E6%8F%AE%E4%B8%8D%E5%88%B0%E4%BD%9C%E7%94%A8%E5%A6%82%E8%99%9B%E8%A8%AD",
-    "timestamp": "2026-10-27T11:19:45.163Z",
     "strategy": ".content-card__main"
   }
 ];
