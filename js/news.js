@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T14:27:42.474Z
+// Last updated: 2026-10-27T14:50:46.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "不著邊際的你｜鄭容和演「一吻即暈」巨星　劇本惹追星女極致共鳴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191852012250075136316052.jpeg/Uio7wMmDn0DGQ6Z3o00LpKomAhVcLoCmgbu5boG7uW4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404197/%E4%B8%8D%E8%91%97%E9%82%8A%E9%9A%9B%E7%9A%84%E4%BD%A0-%E9%84%AD%E5%AE%B9%E5%92%8C%E6%BC%94-%E4%B8%80%E5%90%BB%E5%8D%B3%E6%9A%88-%E5%B7%A8%E6%98%9F-%E5%8A%87%E6%9C%AC%E6%83%B9%E8%BF%BD%E6%98%9F%E5%A5%B3%E6%A5%B5%E8%87%B4%E5%85%B1%E9%B3%B4",
+    "timestamp": "2026-10-27T14:50:46.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "芬蘭挪威領導人罕見致電普京　為11月美俄烏三方會談鋪路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191715886902284288017253.png/vsmzbVFLIEqV6KTO0pi6gw01x6UCZRmaVFAljVRQJY0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60403657/%E6%B6%88%E5%A7%94%E6%9C%83%E9%95%B7%E8%80%85%E6%96%B0%E8%88%88%E9%81%8B%E5%8B%959%E5%A4%A7-%E5%8C%B9%E5%85%8B%E7%90%83%E7%B7%B4%E5%8F%8D%E6%87%89-%E8%BC%95%E6%8E%92%E7%90%83%E5%A2%9E%E8%82%8C%E5%8A%9B-%E9%99%84%E5%AE%89%E5%85%A8%E8%B2%BC%E5%A3%AB",
     "timestamp": "2026-10-27T03:51:32.143Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京的士司機撿屍妙齡女乘客　事後竟留信「想再見我請撥這號碼」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191708094673981440897035.jpeg/9Le2BP2iO8Ul67HC8RZJNAokcrPkjq99xWzgl8Vs4Jc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403898/%E6%9D%B1%E4%BA%AC%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%92%BF%E5%B1%8D%E5%A6%99%E9%BD%A1%E5%A5%B3%E4%B9%98%E5%AE%A2-%E4%BA%8B%E5%BE%8C%E7%AB%9F%E7%95%99%E4%BF%A1-%E6%83%B3%E5%86%8D%E8%A6%8B%E6%88%91%E8%AB%8B%E6%92%A5%E9%80%99%E8%99%9F%E7%A2%BC",
-    "timestamp": "2026-10-27T03:29:33.758Z",
     "strategy": ".content-card__main"
   }
 ];
