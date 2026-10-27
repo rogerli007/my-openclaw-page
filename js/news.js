@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T11:19:45.163Z
+// Last updated: 2026-10-27T12:57:23.220Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "信和黃永光看好北都、港迎「新黃金期」　近2900伙市區盤待推",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191851561052016640872319.jpeg/cA8mzSzW-SmdY3vsLhhMDxqplfxz5fqVfxYhWX8WIVk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404215/%E4%BF%A1%E5%92%8C%E9%BB%83%E6%B0%B8%E5%85%89%E7%9C%8B%E5%A5%BD%E5%8C%97%E9%83%BD-%E6%B8%AF%E8%BF%8E-%E6%96%B0%E9%BB%83%E9%87%91%E6%9C%9F-%E8%BF%912900%E4%BC%99%E5%B8%82%E5%8D%80%E7%9B%A4%E5%BE%85%E6%8E%A8",
+    "timestamp": "2026-10-27T12:57:23.220Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "狄志遠：宏福火問責不涉司局長難服眾　制度倘發揮不到作用如虛設",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160945586761895936354129.jpeg/-f14StxpMD1xN-A6ZPMod99nJV4R5Pe7lKBuB5Sgbgc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60403871/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8-%E7%9B%A7%E6%8B%89%E9%80%86%E9%A2%A8%E7%BF%BB%E7%9B%A4-%E5%BC%97%E6%8B%89%E7%B6%AD%E5%A5%A7%E7%BF%BB%E4%B8%8D%E8%B5%B7%E6%B3%A2%E6%BF%A4",
     "timestamp": "2026-10-27T01:50:42.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌大隴街鼠患｜食環實地視察　兩個月捉近60隻鼠　調夜鼠隊滅鼠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191673354860367872267809.jpeg/BSjmOVQUJW6n_dZld11-Lr4arGzd-eKDQqcA40KnAOM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403857/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E9%BC%A0%E6%82%A3-%E9%A3%9F%E7%92%B0%E5%AF%A6%E5%9C%B0%E8%A6%96%E5%AF%9F-%E5%85%A9%E5%80%8B%E6%9C%88%E6%8D%89%E8%BF%9160%E9%9A%BB%E9%BC%A0-%E8%AA%BF%E5%A4%9C%E9%BC%A0%E9%9A%8A%E6%BB%85%E9%BC%A0",
-    "timestamp": "2026-10-27T01:25:26.749Z",
     "strategy": ".content-card__main"
   }
 ];
