@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T05:47:33.383Z
+// Last updated: 2026-10-27T07:02:41.499Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "原由樂風夥星基金收購發展　鴨脷洲單幢盤瀚澄涉82伙　最細186呎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191760160582799360184320.jpeg/yhgHi-Tg7hAOYm3cf6OXarVdGGL6Ec6W3Y9FUt2PRVI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60404034/%E5%8E%9F%E7%94%B1%E6%A8%82%E9%A2%A8%E5%A4%A5%E6%98%9F%E5%9F%BA%E9%87%91%E6%94%B6%E8%B3%BC%E7%99%BC%E5%B1%95-%E9%B4%A8%E8%84%B7%E6%B4%B2%E5%96%AE%E5%B9%A2%E7%9B%A4%E7%80%9A%E6%BE%84%E6%B6%8982%E4%BC%99-%E6%9C%80%E7%B4%B0186%E5%91%8E",
+    "timestamp": "2026-10-27T07:02:41.499Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "連原子彈也震不倒　日本鳥居屹立的秘密　全靠底部千年抗震黑科技",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579876782542848604831.jpeg/A_i1h7LFxBgwiZU6R8PDO_vVgM31VkYjuDSNj7g0jY8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403848/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%AD%9F%E5%8A%A0%E6%8B%89%E7%94%B7%E7%96%91%E9%81%AD%E4%BA%BA%E5%B0%8B%E4%BB%87%E6%A3%8D%E6%89%93-%E6%89%8B%E8%85%B3%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-10-26T21:48:15.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
-    "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
-    "timestamp": "2026-10-26T21:35:58.387Z",
     "strategy": ".content-card__main"
   }
 ];
