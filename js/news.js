@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T17:26:06.914Z
+// Last updated: 2026-10-27T17:46:06.339Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安達臣男工推電單車　剷單車徑遇警阻止　大喝：企咁埋做咩｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191921169905750016521798.jpeg/GltEDp5_1Iputr2mmMUHSg8-JYciPXgVwBF_wsARf8I",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404243/%E5%AE%89%E9%81%94%E8%87%A3%E7%94%B7%E5%B7%A5%E6%8E%A8%E9%9B%BB%E5%96%AE%E8%BB%8A-%E5%89%B7%E5%96%AE%E8%BB%8A%E5%BE%91%E9%81%87%E8%AD%A6%E9%98%BB%E6%AD%A2-%E5%A4%A7%E5%96%9D-%E4%BC%81%E5%92%81%E5%9F%8B%E5%81%9A%E5%92%A9-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-27T17:46:06.339Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列大選頭9小時投票率55.7%　內塔尼亞胡政黨要求延長投票時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189641818346622976543972.jpeg/fcxBGLqxD2ale3nsuOG_IhyET4-5_8qDrQ0yPK0NMjw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60399668/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E9%85%92%E5%BA%97%E7%B2%BE%E9%81%B8-%E5%BC%98%E5%A4%A7l7%E4%B8%8B%E6%A8%93%E7%9B%B4%E9%81%94%E5%95%86%E5%9C%88-%E6%98%8E%E6%B4%9E%E5%B9%B3%E5%83%B9hop-inn",
     "timestamp": "2026-10-27T07:52:24.978Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江蘇醫生查豆包AI開降血壓藥　患者家屬感不安未取藥：出事誰負責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191772533129482240650738.jpeg/nhCf9SiM_Vw3Ku4KLWX0QRHjSULOmMHtF9z0Bxfc9Ac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60403987/%E6%B1%9F%E8%98%87%E9%86%AB%E7%94%9F%E6%9F%A5%E8%B1%86%E5%8C%85ai%E9%96%8B%E9%99%8D%E8%A1%80%E5%A3%93%E8%97%A5-%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%AC%E6%84%9F%E4%B8%8D%E5%AE%89%E6%9C%AA%E5%8F%96%E8%97%A5-%E5%87%BA%E4%BA%8B%E8%AA%B0%E8%B2%A0%E8%B2%AC",
-    "timestamp": "2026-10-27T07:31:31.543Z",
     "strategy": ".content-card__main"
   }
 ];
