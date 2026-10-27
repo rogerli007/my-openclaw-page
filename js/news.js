@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T01:25:26.749Z
+// Last updated: 2026-10-27T01:50:42.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西大選｜盧拉逆風翻盤　 弗拉維奧翻不起波濤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260803/1160945586761895936354129.jpeg/-f14StxpMD1xN-A6ZPMod99nJV4R5Pe7lKBuB5Sgbgc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60403871/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8-%E7%9B%A7%E6%8B%89%E9%80%86%E9%A2%A8%E7%BF%BB%E7%9B%A4-%E5%BC%97%E6%8B%89%E7%B6%AD%E5%A5%A7%E7%BF%BB%E4%B8%8D%E8%B5%B7%E6%B3%A2%E6%BF%A4",
+    "timestamp": "2026-10-27T01:50:42.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌大隴街鼠患｜食環實地視察　兩個月捉近60隻鼠　調夜鼠隊滅鼠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191562764129144832839104.jpeg/SIVazRTzUg1LFNvtIXC24T-mPsfacZbGGCDhdRgg4XU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403837/%E6%96%BD%E6%B3%B0%E5%9B%A0%E9%82%81%E7%88%BE%E6%8A%B5%E9%81%94%E5%90%88%E8%82%A5-%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%B5%B1%E6%99%82%E9%9A%94%E8%BF%918%E5%B9%B4%E5%86%8D%E6%AC%A1%E8%A8%AA%E8%8F%AF",
     "timestamp": "2026-10-26T17:55:01.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓版Doctor X｜光州事件倖存者彈片留腦46年　金智媛挑戰腦幹手術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191431938741637120513072.png/TSA7S9qwZEsS1q5MF_w1zHHykk0heen4_KWitfylorU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403652/%E9%9F%93%E7%89%88doctor-x-%E5%85%89%E5%B7%9E%E4%BA%8B%E4%BB%B6%E5%80%96%E5%AD%98%E8%80%85%E5%BD%88%E7%89%87%E7%95%99%E8%85%A646%E5%B9%B4-%E9%87%91%E6%99%BA%E5%AA%9B%E6%8C%91%E6%88%B0%E8%85%A6%E5%B9%B9%E6%89%8B%E8%A1%93",
-    "timestamp": "2026-10-26T17:01:23.712Z",
     "strategy": ".content-card__main"
   }
 ];
