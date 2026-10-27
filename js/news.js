@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T16:32:14.290Z
+// Last updated: 2026-10-27T16:53:47.907Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "13歲男生穿新Nike鞋　遭15歲同學毆至偏癱失明　宿管3次拒施援手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191914657883885568901785.png/1eonBpWokQ4ZCnkTu8WO8o-tjTSMNRahXJBj61yQY-s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401950/13%E6%AD%B2%E7%94%B7%E7%94%9F%E7%A9%BF%E6%96%B0nike%E9%9E%8B-%E9%81%AD15%E6%AD%B2%E5%90%8C%E5%AD%B8%E6%AF%86%E8%87%B3%E5%81%8F%E7%99%B1%E5%A4%B1%E6%98%8E-%E5%AE%BF%E7%AE%A13%E6%AC%A1%E6%8B%92%E6%96%BD%E6%8F%B4%E6%89%8B",
+    "timestamp": "2026-10-27T16:53:47.907Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國多地示威拖累國內經濟　消費者信心指數跌至13年新低",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191705653085736960426598.png/cx9ijS2eyy9Rfec6zqblc7yhdlDxXJgEEB1QBRAdUAU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403923/%E9%80%A3%E5%8E%9F%E5%AD%90%E5%BD%88%E4%B9%9F%E9%9C%87%E4%B8%8D%E5%80%92-%E6%97%A5%E6%9C%AC%E9%B3%A5%E5%B1%85%E5%B1%B9%E7%AB%8B%E7%9A%84%E7%A7%98%E5%AF%86-%E5%85%A8%E9%9D%A0%E5%BA%95%E9%83%A8%E5%8D%83%E5%B9%B4%E6%8A%97%E9%9C%87%E9%BB%91%E7%A7%91%E6%8A%80",
     "timestamp": "2026-10-27T05:47:33.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "調查：29%SEN學童曾有自傷行為　浸大推App助家長應對負面情緒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191735390646571008816097.jpeg/gNO8tcjTeZmPh2axOsRgfuQ4YlEuqP5rBl-gNiNfoDY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403993/%E8%AA%BF%E6%9F%A5-29-sen%E5%AD%B8%E7%AB%A5%E6%9B%BE%E6%9C%89%E8%87%AA%E5%82%B7%E8%A1%8C%E7%82%BA-%E6%B5%B8%E5%A4%A7%E6%8E%A8app%E5%8A%A9%E5%AE%B6%E9%95%B7%E6%87%89%E5%B0%8D%E8%B2%A0%E9%9D%A2%E6%83%85%E7%B7%92",
-    "timestamp": "2026-10-27T05:25:11.092Z",
     "strategy": ".content-card__main"
   }
 ];
