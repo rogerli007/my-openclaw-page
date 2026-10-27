@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T07:52:24.978Z
+// Last updated: 2026-10-27T08:27:01.121Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港珠澳大橋截兩地牌車檢1,353管孕婦血樣　揭「寄血驗子」地下鏈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191761723057508352867139.png/ZwCkNJt8eGmCS70fbpoU3XNSBuRUJ72rGW1RwBltUcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403903/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E6%88%AA%E5%85%A9%E5%9C%B0%E7%89%8C%E8%BB%8A%E6%AA%A21-353%E7%AE%A1%E5%AD%95%E5%A9%A6%E8%A1%80%E6%A8%A3-%E6%8F%AD%E5%AF%84%E8%A1%80%E9%A9%97%E8%83%8E%E6%80%A7%E5%88%A5%E5%9C%B0%E4%B8%8B%E9%8F%88",
+    "timestamp": "2026-10-27T08:27:01.121Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國首爾自由行酒店精選：弘大L7下樓直達商圈、明洞平價HOP INN",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191464379837583360309172.jpeg/OtZ0si1Sw5aLJh7dhC_FiOI39mh8owbNLApTPywKUz8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403752/%E7%9B%A4%E9%BB%9E%E5%BC%B5%E6%99%BA%E9%9C%96%E6%AD%B7%E5%B9%B4%E4%B8%89%E5%A4%A7%E6%83%B9%E7%81%AB%E8%A8%80%E8%AB%96-%E5%A4%B1%E8%90%BD%E8%A6%96%E5%B8%9D%E4%B8%B2%E7%88%86tvb-%E6%BB%85%E7%8B%97%E8%AB%96-%E6%9B%B4%E9%A9%9A%E4%BA%BA",
     "timestamp": "2026-10-26T23:01:06.510Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張智霖歷年三大惹火言論盤點　失落視帝指：係咪代表TVB唔鍾意我",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191464379837583360309172.jpeg/OtZ0si1Sw5aLJh7dhC_FiOI39mh8owbNLApTPywKUz8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403752/%E7%9B%A4%E9%BB%9E%E5%BC%B5%E6%99%BA%E9%9C%96%E6%AD%B7%E5%B9%B4%E4%B8%89%E5%A4%A7%E6%83%B9%E7%81%AB%E8%A8%80%E8%AB%96-%E5%A4%B1%E8%90%BD%E8%A6%96%E5%B8%9D%E4%B8%B2%E7%88%86tvb-%E6%BB%85%E7%8B%97%E8%AB%96-%E6%9B%B4%E9%A9%9A%E4%BA%BA",
-    "timestamp": "2026-10-26T22:45:37.327Z",
     "strategy": ".content-card__main"
   }
 ];
