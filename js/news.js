@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T22:24:25.979Z
+// Last updated: 2026-10-27T22:40:17.943Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網上開戰？李力持激動回應田啟文話佢係「雙面人」：我頂你啊田雞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191806324313165824019528.jpeg/h7sXHAKBi8En5cgFEozkJc5fYE7FtP-C8u4R__LuEf8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404113/%E7%B6%B2%E4%B8%8A%E9%96%8B%E6%88%B0-%E6%9D%8E%E5%8A%9B%E6%8C%81%E6%BF%80%E5%8B%95%E5%9B%9E%E6%87%89%E7%94%B0%E5%95%9F%E6%96%87%E8%A9%B1%E4%BD%A2%E4%BF%82-%E9%9B%99%E9%9D%A2%E4%BA%BA-%E6%88%91%E9%A0%82%E4%BD%A0%E5%95%8A%E7%94%B0%E9%9B%9E",
+    "timestamp": "2026-10-27T22:40:17.943Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "范冰冰罕談2018年稅務風波低谷　親自出面3個月KO逾百代言糾紛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191896401349447680371840.jpeg/vKKqedfWaAjTd0XHg6Lxn8k5qGFknl9gAngRSQJ4EUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404237/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E7%A4%BA%E5%A8%81%E6%8B%96%E7%B4%AF%E5%9C%8B%E5%85%A7%E7%B6%93%E6%BF%9F-%E6%B6%88%E8%B2%BB%E8%80%85%E4%BF%A1%E5%BF%83%E6%8C%87%E6%95%B8%E8%B7%8C%E8%87%B313%E5%B9%B4%E6%96%B0%E4%BD%8E",
     "timestamp": "2026-10-27T16:32:14.290Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港仔石灘男子岸邊漂浮　當場死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191895813865869312018346.jpeg/Lx-EtwMYyGPB5U__diT8dKK4XNQy3nBaqO7ZcKju2XA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404238/%E9%A6%99%E6%B8%AF%E4%BB%94%E7%9F%B3%E7%81%98%E7%94%B7%E5%AD%90%E5%B2%B8%E9%82%8A%E6%BC%82%E6%B5%AE-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-10-27T15:58:28.450Z",
     "strategy": ".content-card__main"
   }
 ];
