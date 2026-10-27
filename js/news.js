@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T01:50:42.940Z
+// Last updated: 2026-10-27T02:07:59.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大腸癌預防｜腺瘤型息肉易癌化　9招健康飲食降風險　定時排便",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190078425407164416230194.jpeg/uLFRWE2ERKyIyLxaTedTsqFTRqkWWNMl1XFGPdVxRj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60359597/%E5%A4%A7%E8%85%B8%E7%99%8C%E9%A0%90%E9%98%B2-%E8%85%BA%E7%98%A4%E5%9E%8B%E6%81%AF%E8%82%89%E6%98%93%E7%99%8C%E5%8C%96-9%E6%8B%9B%E5%81%A5%E5%BA%B7%E9%A3%B2%E9%A3%9F%E9%99%8D%E9%A2%A8%E9%9A%AA-%E5%AE%9A%E6%99%82%E6%8E%92%E4%BE%BF",
+    "timestamp": "2026-10-27T02:07:59.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西大選｜盧拉逆風翻盤　 弗拉維奧翻不起波濤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191569539712684032621839.jpeg/M8E9n5_LITvnLd0CXHSlDnRNOhkLasR2fB-_hnwfv4Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403838/%E8%81%AF%E5%90%88%E5%9C%8B%E8%AA%BF%E6%9F%A5%E5%A7%94%E5%93%A1%E6%9C%83-%E4%BB%A5%E8%89%B2%E5%88%97%E7%8A%AF%E4%B8%8B%E6%88%B0%E7%88%AD%E7%BD%AA-%E6%8C%81%E7%BA%8C%E5%9C%A8%E5%8A%A0%E6%B2%99%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95",
     "timestamp": "2026-10-26T18:32:03.898Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施泰因邁爾抵達合肥　德國總統時隔近8年再次訪華",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191562764129144832839104.jpeg/SIVazRTzUg1LFNvtIXC24T-mPsfacZbGGCDhdRgg4XU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403837/%E6%96%BD%E6%B3%B0%E5%9B%A0%E9%82%81%E7%88%BE%E6%8A%B5%E9%81%94%E5%90%88%E8%82%A5-%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%B5%B1%E6%99%82%E9%9A%94%E8%BF%918%E5%B9%B4%E5%86%8D%E6%AC%A1%E8%A8%AA%E8%8F%AF",
-    "timestamp": "2026-10-26T17:55:01.990Z",
     "strategy": ".content-card__main"
   }
 ];
