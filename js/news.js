@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T22:53:40.945Z
+// Last updated: 2026-10-27T23:14:27.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加拿大醫生妻昏迷兩度撥911　等救護車85分鐘　心臟驟停送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191832477157560320412089.png/O7yrJS-eu97iIGsqiarTl0A2FekVH761yl5krcpeZK0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60387813/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%86%AB%E7%94%9F%E5%A6%BB%E6%98%8F%E8%BF%B7%E5%85%A9%E5%BA%A6%E6%92%A5911-%E7%AD%89%E6%95%91%E8%AD%B7%E8%BB%8A85%E5%88%86%E9%90%98-%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-10-27T23:14:27.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網上開戰？李力持激動回應田啟文話佢係「雙面人」：我頂你啊田雞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191909147868663808924837.jpeg/FlfzBwNrqTDb59WZgwiZGG0e3J1wOLzecIOrsXCDq7E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404241/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8%E9%A0%AD9%E5%B0%8F%E6%99%82%E6%8A%95%E7%A5%A8%E7%8E%8755-7-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%94%BF%E9%BB%A8%E8%A6%81%E6%B1%82%E5%BB%B6%E9%95%B7%E6%8A%95%E7%A5%A8%E6%99%82%E9%96%93",
     "timestamp": "2026-10-27T17:15:42.906Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "13歲男生穿新Nike鞋　遭15歲同學毆至偏癱失明　宿管3次拒施援手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191914657883885568901785.png/1eonBpWokQ4ZCnkTu8WO8o-tjTSMNRahXJBj61yQY-s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401950/13%E6%AD%B2%E7%94%B7%E7%94%9F%E7%A9%BF%E6%96%B0nike%E9%9E%8B-%E9%81%AD15%E6%AD%B2%E5%90%8C%E5%AD%B8%E6%AF%86%E8%87%B3%E5%81%8F%E7%99%B1%E5%A4%B1%E6%98%8E-%E5%AE%BF%E7%AE%A13%E6%AC%A1%E6%8B%92%E6%96%BD%E6%8F%B4%E6%89%8B",
-    "timestamp": "2026-10-27T16:53:47.907Z",
     "strategy": ".content-card__main"
   }
 ];
