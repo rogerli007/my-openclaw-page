@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T05:25:11.092Z
+// Last updated: 2026-10-27T05:47:33.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "連原子彈也震不倒　日本鳥居屹立的秘密　全靠底部千年抗震黑科技",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191705653085736960426598.png/cx9ijS2eyy9Rfec6zqblc7yhdlDxXJgEEB1QBRAdUAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403923/%E9%80%A3%E5%8E%9F%E5%AD%90%E5%BD%88%E4%B9%9F%E9%9C%87%E4%B8%8D%E5%80%92-%E6%97%A5%E6%9C%AC%E9%B3%A5%E5%B1%85%E5%B1%B9%E7%AB%8B%E7%9A%84%E7%A7%98%E5%AF%86-%E5%85%A8%E9%9D%A0%E5%BA%95%E9%83%A8%E5%8D%83%E5%B9%B4%E6%8A%97%E9%9C%87%E9%BB%91%E7%A7%91%E6%8A%80",
+    "timestamp": "2026-10-27T05:47:33.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "調查：29%SEN學童曾有自傷行為　浸大推App助家長應對負面情緒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
     "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
     "timestamp": "2026-10-26T21:35:58.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
-    "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
-    "timestamp": "2026-10-26T21:19:05.873Z",
     "strategy": ".content-card__main"
   }
 ];
