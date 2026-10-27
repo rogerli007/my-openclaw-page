@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T03:01:50.521Z
+// Last updated: 2026-10-27T03:29:33.758Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東京的士司機撿屍妙齡女乘客　事後竟留信「想再見我請撥這號碼」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191708094673981440897035.jpeg/9Le2BP2iO8Ul67HC8RZJNAokcrPkjq99xWzgl8Vs4Jc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403898/%E6%9D%B1%E4%BA%AC%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%92%BF%E5%B1%8D%E5%A6%99%E9%BD%A1%E5%A5%B3%E4%B9%98%E5%AE%A2-%E4%BA%8B%E5%BE%8C%E7%AB%9F%E7%95%99%E4%BF%A1-%E6%83%B3%E5%86%8D%E8%A6%8B%E6%88%91%E8%AB%8B%E6%92%A5%E9%80%99%E8%99%9F%E7%A2%BC",
+    "timestamp": "2026-10-27T03:29:33.758Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華富邨重建｜趙式浩倡南港島線西段恢復重鐵　上蓋建物業補貼成本",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190696932075376640351702.jpeg/vA6ncnT6j_FE_tkr87xyOUrsgs-MzIm79J8dhfSfHYU",
     "url": "https://www.hk01.com/01TV/60403209/%E8%BB%8A%E5%A9%89%E5%A9%89%E5%A4%B1%E8%81%B2%E5%A4%B1%E6%A5%AD%E9%99%B7%E4%BD%8E%E6%BD%AE-%E7%82%BA%E4%BA%86%E7%94%9F%E8%A8%88%E5%85%BC%E8%81%B7%E5%B9%AB%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%8D%B0%E5%B9%B4%E5%A0%B1",
     "timestamp": "2026-10-26T19:34:10.728Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉失聲失業陷低潮：為了生計兼職幫辦公室印年報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190696932075376640351702.jpeg/vA6ncnT6j_FE_tkr87xyOUrsgs-MzIm79J8dhfSfHYU",
-    "url": "https://www.hk01.com/01TV/60403209/%E8%BB%8A%E5%A9%89%E5%A9%89%E5%A4%B1%E8%81%B2%E5%A4%B1%E6%A5%AD%E9%99%B7%E4%BD%8E%E6%BD%AE-%E7%82%BA%E4%BA%86%E7%94%9F%E8%A8%88%E5%85%BC%E8%81%B7%E5%B9%AB%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%8D%B0%E5%B9%B4%E5%A0%B1",
-    "timestamp": "2026-10-26T19:19:04.370Z",
     "strategy": ".content-card__main"
   }
 ];
