@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T08:27:01.121Z
+// Last updated: 2026-10-27T08:52:58.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPad mini 8 定價$5,299起！5.4mm機身配OLED螢幕與A20 Pro 晶片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189980357097689088487309.jpeg/fyR5MWBSyUDRyTv8Umd65loqOjKJg-jSNr2uNja9rjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60400386/ipad-mini-8-%E5%AE%9A%E5%83%B9-5-299%E8%B5%B7-5-4mm%E6%A9%9F%E8%BA%AB%E9%85%8Doled%E8%9E%A2%E5%B9%95%E8%88%87a20-pro-%E6%99%B6%E7%89%87",
+    "timestamp": "2026-10-27T08:52:58.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港珠澳大橋截兩地牌車檢1,353管孕婦血樣　揭「寄血驗子」地下鏈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191557141551386624649203.png/byTvpRWK1SF2pWBLVYyZA-1S4d7dv1iqG8wa3xvMGt8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60403357/%E5%8A%A0%E5%B7%9E%E5%A5%B3%E7%96%91%E9%A7%95%E9%A7%9B%E6%99%82%E7%9C%8B%E6%88%90%E4%BA%BA%E7%B6%B2%E7%AB%99-%E8%87%B43%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E6%AD%BB-%E8%A2%AB%E6%8E%A7%E9%A7%95%E8%BB%8A%E9%81%8E%E5%A4%B1%E6%AE%BA%E4%BA%BA%E7%BD%AA",
     "timestamp": "2026-10-26T23:17:52.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張智霖歷年三大惹火言論盤點　失落視帝指：係咪代表TVB唔鍾意我",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191464379837583360309172.jpeg/OtZ0si1Sw5aLJh7dhC_FiOI39mh8owbNLApTPywKUz8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403752/%E7%9B%A4%E9%BB%9E%E5%BC%B5%E6%99%BA%E9%9C%96%E6%AD%B7%E5%B9%B4%E4%B8%89%E5%A4%A7%E6%83%B9%E7%81%AB%E8%A8%80%E8%AB%96-%E5%A4%B1%E8%90%BD%E8%A6%96%E5%B8%9D%E4%B8%B2%E7%88%86tvb-%E6%BB%85%E7%8B%97%E8%AB%96-%E6%9B%B4%E9%A9%9A%E4%BA%BA",
-    "timestamp": "2026-10-26T23:01:06.510Z",
     "strategy": ".content-card__main"
   }
 ];
