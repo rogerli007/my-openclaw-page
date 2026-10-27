@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T22:14:52.244Z
+// Last updated: 2026-10-27T22:24:25.979Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "范冰冰罕談2018年稅務風波低谷　親自出面3個月KO逾百代言糾紛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191822436459352064564017.jpeg/_JF7zbvJ7uJHnd_WCwdv4ysANhZF38vlHEUkORxFJDk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404100/%E8%8C%83%E5%86%B0%E5%86%B0%E7%BD%95%E8%AB%872018%E5%B9%B4%E7%A8%85%E5%8B%99%E9%A2%A8%E6%B3%A2%E4%BD%8E%E8%B0%B7-%E8%A6%AA%E8%87%AA%E5%87%BA%E9%9D%A23%E5%80%8B%E6%9C%88ko%E9%80%BE%E7%99%BE%E4%BB%A3%E8%A8%80%E7%B3%BE%E7%B4%9B",
+    "timestamp": "2026-10-27T22:24:25.979Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "范冰冰罕談2018年稅務風波低谷　親自出面3個月KO逾百代言糾紛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191895813865869312018346.jpeg/Lx-EtwMYyGPB5U__diT8dKK4XNQy3nBaqO7ZcKju2XA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404238/%E9%A6%99%E6%B8%AF%E4%BB%94%E7%9F%B3%E7%81%98%E7%94%B7%E5%AD%90%E5%B2%B8%E9%82%8A%E6%BC%82%E6%B5%AE-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-10-27T15:58:28.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港仔石灘男子岸邊漂浮　當場死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191895813865869312018346.jpeg/Lx-EtwMYyGPB5U__diT8dKK4XNQy3nBaqO7ZcKju2XA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404238/%E9%A6%99%E6%B8%AF%E4%BB%94%E7%9F%B3%E7%81%98%E7%94%B7%E5%AD%90%E5%B2%B8%E9%82%8A%E6%BC%82%E6%B5%AE-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-10-27T15:47:46.404Z",
     "strategy": ".content-card__main"
   }
 ];
