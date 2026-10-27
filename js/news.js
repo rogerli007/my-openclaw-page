@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T05:01:01.476Z
+// Last updated: 2026-10-27T05:25:11.092Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "調查：29%SEN學童曾有自傷行為　浸大推App助家長應對負面情緒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191735390646571008816097.jpeg/gNO8tcjTeZmPh2axOsRgfuQ4YlEuqP5rBl-gNiNfoDY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403993/%E8%AA%BF%E6%9F%A5-29-sen%E5%AD%B8%E7%AB%A5%E6%9B%BE%E6%9C%89%E8%87%AA%E5%82%B7%E8%A1%8C%E7%82%BA-%E6%B5%B8%E5%A4%A7%E6%8E%A8app%E5%8A%A9%E5%AE%B6%E9%95%B7%E6%87%89%E5%B0%8D%E8%B2%A0%E9%9D%A2%E6%83%85%E7%B7%92",
+    "timestamp": "2026-10-27T05:25:11.092Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田MMA｜躁漢疑駕車上行人路　男子影罪證遭掟袋狂毆　雙雙被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
     "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
     "timestamp": "2026-10-26T21:19:05.873Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
-    "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
-    "timestamp": "2026-10-26T20:57:13.800Z",
     "strategy": ".content-card__main"
   }
 ];
