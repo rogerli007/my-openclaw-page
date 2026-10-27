@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T09:22:59.410Z
+// Last updated: 2026-10-27T09:48:55.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍17歲少女遭尾隨索襪受驚　警查天眼拘32歲男涉遊蕩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191799888073986048602371.jpeg/aOrAM4W_MfTThAnDCgLPtXUIGpZYSOU5BWpyZgVqcmY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404142/%E5%A4%A9%E6%B0%B4%E5%9C%8D17%E6%AD%B2%E5%B0%91%E5%A5%B3%E9%81%AD%E5%B0%BE%E9%9A%A8%E7%B4%A2%E8%A5%AA%E5%8F%97%E9%A9%9A-%E8%AD%A6%E6%9F%A5%E5%A4%A9%E7%9C%BC%E6%8B%9832%E6%AD%B2%E7%94%B7%E6%B6%89%E9%81%8A%E8%95%A9",
+    "timestamp": "2026-10-27T09:48:55.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美容師賣兩女去緬甸KK園區　官斥被告歹毒及泯滅人性　判囚4年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191531113940520960201384.jpeg/kJkNEcZqNPtLYxVztnlqrXvdeDLk2CwEyuMR0PDjEdA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403827/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E5%BC%B5%E6%9B%A6%E9%9B%AF%E5%8D%8A%E8%A3%B8%E6%88%B2%E5%85%A7%E5%B9%95-%E5%97%B0%E5%A0%B4%E6%88%B2%E6%88%91%E5%96%BA%E7%8F%BE%E5%A0%B4",
     "timestamp": "2026-10-27T00:46:21.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "貝安德：冀有生之年看到英國重返歐盟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181343036425113600289143.jpeg/yOKDD238zgPdeYcwTg1Pl3hfy8PubWeNmv4aNpr-GjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403850/%E8%B2%9D%E5%AE%89%E5%BE%B7-%E5%86%80%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%E7%9C%8B%E5%88%B0%E8%8B%B1%E5%9C%8B%E9%87%8D%E8%BF%94%E6%AD%90%E7%9B%9F",
-    "timestamp": "2026-10-26T23:44:36.052Z",
     "strategy": ".content-card__main"
   }
 ];
