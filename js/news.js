@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T07:31:31.543Z
+// Last updated: 2026-10-27T07:52:24.978Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國首爾自由行酒店精選：弘大L7下樓直達商圈、明洞平價HOP INN",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189641818346622976543972.jpeg/fcxBGLqxD2ale3nsuOG_IhyET4-5_8qDrQ0yPK0NMjw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60399668/%E9%9F%93%E5%9C%8B%E9%A6%96%E7%88%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E9%85%92%E5%BA%97%E7%B2%BE%E9%81%B8-%E5%BC%98%E5%A4%A7l7%E4%B8%8B%E6%A8%93%E7%9B%B4%E9%81%94%E5%95%86%E5%9C%88-%E6%98%8E%E6%B4%9E%E5%B9%B3%E5%83%B9hop-inn",
+    "timestamp": "2026-10-27T07:52:24.978Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江蘇醫生查豆包AI開降血壓藥　患者家屬感不安未取藥：出事誰負責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191464379837583360309172.jpeg/OtZ0si1Sw5aLJh7dhC_FiOI39mh8owbNLApTPywKUz8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403752/%E7%9B%A4%E9%BB%9E%E5%BC%B5%E6%99%BA%E9%9C%96%E6%AD%B7%E5%B9%B4%E4%B8%89%E5%A4%A7%E6%83%B9%E7%81%AB%E8%A8%80%E8%AB%96-%E5%A4%B1%E8%90%BD%E8%A6%96%E5%B8%9D%E4%B8%B2%E7%88%86tvb-%E6%BB%85%E7%8B%97%E8%AB%96-%E6%9B%B4%E9%A9%9A%E4%BA%BA",
     "timestamp": "2026-10-26T22:45:37.327Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日早晚有幾陣雨　日間大致天晴約30度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191630259062444032502786.jpeg/8L4E4KtIg4wb2ickrIAGv1Yr-11CvbBXp2WrA6dlqwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60403833/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E9%9B%A8-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E7%B4%8430%E5%BA%A6",
-    "timestamp": "2026-10-26T22:20:47.613Z",
     "strategy": ".content-card__main"
   }
 ];
