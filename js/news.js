@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T21:53:29.411Z
+// Last updated: 2026-10-27T22:14:52.244Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "范冰冰罕談2018年稅務風波低谷　親自出面3個月KO逾百代言糾紛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191822436459352064564017.jpeg/_JF7zbvJ7uJHnd_WCwdv4ysANhZF38vlHEUkORxFJDk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404100/%E8%8C%83%E5%86%B0%E5%86%B0%E7%BD%95%E8%AB%872018%E5%B9%B4%E7%A8%85%E5%8B%99%E9%A2%A8%E6%B3%A2%E4%BD%8E%E8%B0%B7-%E8%A6%AA%E8%87%AA%E5%87%BA%E9%9D%A23%E5%80%8B%E6%9C%88ko%E9%80%BE%E7%99%BE%E4%BB%A3%E8%A8%80%E7%B3%BE%E7%B4%9B",
+    "timestamp": "2026-10-27T22:14:52.244Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵葵芳站老鼠紮紮跳　觀塘鼠群「捐水馬」　網民：失晒控｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191895813865869312018346.jpeg/Lx-EtwMYyGPB5U__diT8dKK4XNQy3nBaqO7ZcKju2XA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404238/%E9%A6%99%E6%B8%AF%E4%BB%94%E7%9F%B3%E7%81%98%E7%94%B7%E5%AD%90%E5%B2%B8%E9%82%8A%E6%BC%82%E6%B5%AE-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-10-27T15:47:46.404Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣爆水管｜多間超市樽裝水貨架清空　有健身中心沖涼房排長龍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191889384870252544457183.jpeg/O5ddBC6ku-fO9H914_O1xX-bLCoCQYSsdmsRVXZrEVU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404228/%E7%AD%B2%E7%AE%95%E7%81%A3%E7%88%86%E6%B0%B4%E7%AE%A1-%E5%A4%9A%E9%96%93%E8%B6%85%E5%B8%82%E6%A8%BD%E8%A3%9D%E6%B0%B4%E8%B2%A8%E6%9E%B6%E6%B8%85%E7%A9%BA-%E6%9C%89%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83%E6%B2%96%E6%B6%BC%E6%88%BF%E6%8E%92%E9%95%B7%E9%BE%8D",
-    "timestamp": "2026-10-27T15:22:12.262Z",
     "strategy": ".content-card__main"
   }
 ];
