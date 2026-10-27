@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T04:22:12.964Z
+// Last updated: 2026-10-27T04:49:18.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "滙豐季績｜香港業務上季稅前增8%　商業房地產撥備有所減少",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162334842008899584310962.jpeg/3s49bJhFEUdAXSL6Sgzo54fQannpYhCb1Sh9XNUofVw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403980/%E6%BB%99%E8%B1%90%E5%AD%A3%E7%B8%BE-%E9%A6%99%E6%B8%AF%E6%A5%AD%E5%8B%99%E4%B8%8A%E5%AD%A3%E7%A8%85%E5%89%8D%E5%A2%9E8-%E5%95%86%E6%A5%AD%E6%88%BF%E5%9C%B0%E7%94%A2%E6%92%A5%E5%82%99%E6%9C%89%E6%89%80%E6%B8%9B%E5%B0%91",
+    "timestamp": "2026-10-27T04:49:18.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小米Xiaomi米家車用吸塵器實測｜超強吸力配搭四吸頭極速清理車廂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
     "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
     "timestamp": "2026-10-26T20:46:57.228Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉艱難時期兼四份工養家：做OL、賣保險、拍戲多管齊下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
-    "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
-    "timestamp": "2026-10-26T20:21:09.200Z",
     "strategy": ".content-card__main"
   }
 ];
