@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T15:22:12.262Z
+// Last updated: 2026-10-27T15:47:46.404Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仔石灘男子岸邊漂浮　當場死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191895813865869312018346.jpeg/Lx-EtwMYyGPB5U__diT8dKK4XNQy3nBaqO7ZcKju2XA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404238/%E9%A6%99%E6%B8%AF%E4%BB%94%E7%9F%B3%E7%81%98%E7%94%B7%E5%AD%90%E5%B2%B8%E9%82%8A%E6%BC%82%E6%B5%AE-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-10-27T15:47:46.404Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣爆水管｜多間超市樽裝水貨架清空　有健身中心沖涼房排長龍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260807/1162334842008899584310962.jpeg/3s49bJhFEUdAXSL6Sgzo54fQannpYhCb1Sh9XNUofVw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403980/%E6%BB%99%E8%B1%90%E5%AD%A3%E7%B8%BE-%E9%A6%99%E6%B8%AF%E6%A5%AD%E5%8B%99%E4%B8%8A%E5%AD%A3%E7%A8%85%E5%89%8D%E5%A2%9E8-%E5%95%86%E6%A5%AD%E6%88%BF%E5%9C%B0%E7%94%A2%E6%92%A5%E5%82%99%E6%9C%89%E6%89%80%E6%B8%9B%E5%B0%91",
     "timestamp": "2026-10-27T04:49:18.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小米Xiaomi米家車用吸塵器實測｜超強吸力配搭四吸頭極速清理車廂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191716751662911488917834.jpeg/hz-pNfeE67pPrbMN-llD60CK9P8jbiw3vsWiP77Foj8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60403935/%E5%B0%8F%E7%B1%B3xiaomi%E7%B1%B3%E5%AE%B6%E8%BB%8A%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8%E5%AF%A6%E6%B8%AC-%E8%B6%85%E5%BC%B7%E5%90%B8%E5%8A%9B%E9%85%8D%E6%90%AD%E5%9B%9B%E5%90%B8%E9%A0%AD%E6%A5%B5%E9%80%9F%E6%B8%85%E7%90%86%E8%BB%8A%E5%BB%82",
-    "timestamp": "2026-10-27T04:22:12.964Z",
     "strategy": ".content-card__main"
   }
 ];
