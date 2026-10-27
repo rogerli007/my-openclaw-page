@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T14:50:46.111Z
+// Last updated: 2026-10-27T15:22:12.262Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筲箕灣爆水管｜多間超市樽裝水貨架清空　有健身中心沖涼房排長龍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191889384870252544457183.jpeg/O5ddBC6ku-fO9H914_O1xX-bLCoCQYSsdmsRVXZrEVU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404228/%E7%AD%B2%E7%AE%95%E7%81%A3%E7%88%86%E6%B0%B4%E7%AE%A1-%E5%A4%9A%E9%96%93%E8%B6%85%E5%B8%82%E6%A8%BD%E8%A3%9D%E6%B0%B4%E8%B2%A8%E6%9E%B6%E6%B8%85%E7%A9%BA-%E6%9C%89%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83%E6%B2%96%E6%B6%BC%E6%88%BF%E6%8E%92%E9%95%B7%E9%BE%8D",
+    "timestamp": "2026-10-27T15:22:12.262Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不著邊際的你｜鄭容和演「一吻即暈」巨星　劇本惹追星女極致共鳴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191716751662911488917834.jpeg/hz-pNfeE67pPrbMN-llD60CK9P8jbiw3vsWiP77Foj8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60403935/%E5%B0%8F%E7%B1%B3xiaomi%E7%B1%B3%E5%AE%B6%E8%BB%8A%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8%E5%AF%A6%E6%B8%AC-%E8%B6%85%E5%BC%B7%E5%90%B8%E5%8A%9B%E9%85%8D%E6%90%AD%E5%9B%9B%E5%90%B8%E9%A0%AD%E6%A5%B5%E9%80%9F%E6%B8%85%E7%90%86%E8%BB%8A%E5%BB%82",
     "timestamp": "2026-10-27T04:22:12.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會長者新興運動9大｜匹克球練反應、輕排球增肌力 附安全貼士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191715886902284288017253.png/vsmzbVFLIEqV6KTO0pi6gw01x6UCZRmaVFAljVRQJY0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60403657/%E6%B6%88%E5%A7%94%E6%9C%83%E9%95%B7%E8%80%85%E6%96%B0%E8%88%88%E9%81%8B%E5%8B%959%E5%A4%A7-%E5%8C%B9%E5%85%8B%E7%90%83%E7%B7%B4%E5%8F%8D%E6%87%89-%E8%BC%95%E6%8E%92%E7%90%83%E5%A2%9E%E8%82%8C%E5%8A%9B-%E9%99%84%E5%AE%89%E5%85%A8%E8%B2%BC%E5%A3%AB",
-    "timestamp": "2026-10-27T03:51:32.143Z",
     "strategy": ".content-card__main"
   }
 ];
