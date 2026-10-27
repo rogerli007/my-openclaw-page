@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T00:46:21.584Z
+// Last updated: 2026-10-27T01:25:26.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌大隴街鼠患｜食環實地視察　兩個月捉近60隻鼠　調夜鼠隊滅鼠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191673354860367872267809.jpeg/BSjmOVQUJW6n_dZld11-Lr4arGzd-eKDQqcA40KnAOM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403857/%E8%91%B5%E6%B6%8C%E5%A4%A7%E9%9A%B4%E8%A1%97%E9%BC%A0%E6%82%A3-%E9%A3%9F%E7%92%B0%E5%AF%A6%E5%9C%B0%E8%A6%96%E5%AF%9F-%E5%85%A9%E5%80%8B%E6%9C%88%E6%8D%89%E8%BF%9160%E9%9A%BB%E9%BC%A0-%E8%AA%BF%E5%A4%9C%E9%BC%A0%E9%9A%8A%E6%BB%85%E9%BC%A0",
+    "timestamp": "2026-10-27T01:25:26.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜高海寧揭張曦雯半裸戲內幕：嗰場戲我喺現場！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191431938741637120513072.png/TSA7S9qwZEsS1q5MF_w1zHHykk0heen4_KWitfylorU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403652/%E9%9F%93%E7%89%88doctor-x-%E5%85%89%E5%B7%9E%E4%BA%8B%E4%BB%B6%E5%80%96%E5%AD%98%E8%80%85%E5%BD%88%E7%89%87%E7%95%99%E8%85%A646%E5%B9%B4-%E9%87%91%E6%99%BA%E5%AA%9B%E6%8C%91%E6%88%B0%E8%85%A6%E5%B9%B9%E6%89%8B%E8%A1%93",
     "timestamp": "2026-10-26T17:01:23.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓版Doctor X｜光州事件倖存者彈片留腦46年　金智媛挑戰腦幹手術",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191431938741637120513072.png/TSA7S9qwZEsS1q5MF_w1zHHykk0heen4_KWitfylorU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403652/%E9%9F%93%E7%89%88doctor-x-%E5%85%89%E5%B7%9E%E4%BA%8B%E4%BB%B6%E5%80%96%E5%AD%98%E8%80%85%E5%BD%88%E7%89%87%E7%95%99%E8%85%A646%E5%B9%B4-%E9%87%91%E6%99%BA%E5%AA%9B%E6%8C%91%E6%88%B0%E8%85%A6%E5%B9%B9%E6%89%8B%E8%A1%93",
-    "timestamp": "2026-10-26T16:49:54.092Z",
     "strategy": ".content-card__main"
   }
 ];
