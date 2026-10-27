@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T03:51:32.143Z
+// Last updated: 2026-10-27T04:22:12.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小米Xiaomi米家車用吸塵器實測｜超強吸力配搭四吸頭極速清理車廂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191716751662911488917834.jpeg/hz-pNfeE67pPrbMN-llD60CK9P8jbiw3vsWiP77Foj8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60403935/%E5%B0%8F%E7%B1%B3xiaomi%E7%B1%B3%E5%AE%B6%E8%BB%8A%E7%94%A8%E5%90%B8%E5%A1%B5%E5%99%A8%E5%AF%A6%E6%B8%AC-%E8%B6%85%E5%BC%B7%E5%90%B8%E5%8A%9B%E9%85%8D%E6%90%AD%E5%9B%9B%E5%90%B8%E9%A0%AD%E6%A5%B5%E9%80%9F%E6%B8%85%E7%90%86%E8%BB%8A%E5%BB%82",
+    "timestamp": "2026-10-27T04:22:12.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會長者新興運動9大｜匹克球練反應、輕排球增肌力 附安全貼士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190697631278436352384961.jpeg/TETv-Z2hWotA13Wi8cKWTTE4Ila0MVghAdseNgHbHjY",
     "url": "https://www.hk01.com/01TV/60403211/%E8%BB%8A%E5%A9%89%E5%A9%89%E8%89%B1%E9%9B%A3%E6%99%82%E6%9C%9F%E5%85%BC%E5%9B%9B%E4%BB%BD%E5%B7%A5%E9%A4%8A%E5%AE%B6-%E5%81%9Aol-%E8%B3%A3%E4%BF%9D%E9%9A%AA-%E6%8B%8D%E6%88%B2%E5%A4%9A%E7%AE%A1%E9%BD%8A%E4%B8%8B",
     "timestamp": "2026-10-26T20:21:09.200Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西大選｜多個支持弗拉維奧的政黨承認盧拉勝選　不支持廢除結果",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191590823712526336986375.jpeg/6zVPc2SKKKTbs1pDZEiYmS25c0_5uk_CQZAqaEGQKmg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403842/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8-%E5%A4%9A%E5%80%8B%E6%94%AF%E6%8C%81%E5%BC%97%E6%8B%89%E7%B6%AD%E5%A5%A7%E7%9A%84%E6%94%BF%E9%BB%A8%E6%89%BF%E8%AA%8D%E7%9B%A7%E6%8B%89%E5%8B%9D%E9%81%B8-%E4%B8%8D%E6%94%AF%E6%8C%81%E5%BB%A2%E9%99%A4%E7%B5%90%E6%9E%9C",
-    "timestamp": "2026-10-26T19:57:33.073Z",
     "strategy": ".content-card__main"
   }
 ];
