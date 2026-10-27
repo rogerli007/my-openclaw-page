@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T20:28:06.171Z
+// Last updated: 2026-10-27T21:14:32.170Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵葵芳站老鼠紮紮跳　觀塘鼠群「捐水馬」　網民：失晒控｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191974326673346560763925.jpeg/ItqSIBKRA5Llt0ShrXzl-BTqIv3pq4eG9S0UzvUtFM4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404256/%E6%B8%AF%E9%90%B5%E8%91%B5%E8%8A%B3%E7%AB%99%E8%80%81%E9%BC%A0%E7%B4%AE%E7%B4%AE%E8%B7%B3-%E8%A7%80%E5%A1%98%E9%BC%A0%E7%BE%A4-%E6%8D%90%E6%B0%B4%E9%A6%AC-%E7%B6%B2%E6%B0%91-%E5%A4%B1%E6%99%92%E6%8E%A7-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-27T21:14:32.170Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "面對媽媽生病離世 車婉婉是內裡破碎 心有餘震",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189480624646262784706943.jpeg/_bAXeDDP4jPZoPQK_MKX78nPyaE1_mS31ATa2NQE2tg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404223/%E8%8A%AC%E8%98%AD%E6%8C%AA%E5%A8%81%E9%A0%98%E5%B0%8E%E4%BA%BA%E7%BD%95%E8%A6%8B%E8%87%B4%E9%9B%BB%E6%99%AE%E4%BA%AC-%E7%82%BA11%E6%9C%88%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E9%8B%AA%E8%B7%AF",
     "timestamp": "2026-10-27T14:27:42.474Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "你的保安李寶安｜保安面試者大有來頭　元朗「鬼巴士」享負盛名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191828499585830912307126.jpeg/74wyyZgnKMRZzi_kGW7q8dJwz53nLJ5ArBV-8awVfvE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404081/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89%E6%9D%8E%E5%AF%B6%E5%AE%89-%E4%BF%9D%E5%AE%89%E9%9D%A2%E8%A9%A6%E8%80%85%E5%A4%A7%E6%9C%89%E4%BE%86%E9%A0%AD-%E5%85%83%E6%9C%97-%E9%AC%BC%E5%B7%B4%E5%A3%AB-%E4%BA%AB%E8%B2%A0%E7%9B%9B%E5%90%8D",
-    "timestamp": "2026-10-27T14:02:25.334Z",
     "strategy": ".content-card__main"
   }
 ];
