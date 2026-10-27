@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T08:52:58.470Z
+// Last updated: 2026-10-27T09:22:59.410Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美容師賣兩女去緬甸KK園區　官斥被告歹毒及泯滅人性　判囚4年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956282253367840768108436.jpeg/CL20FyY8T_8_2-81vUkjwEBskaS-YhpB8zSpoPM0qaA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402786/%E7%BE%8E%E5%AE%B9%E5%B8%AB%E8%B3%A3%E5%85%A9%E5%A5%B3%E5%8E%BB%E7%B7%AC%E7%94%B8kk%E5%9C%92%E5%8D%80-%E5%AE%98%E6%96%A5%E8%A2%AB%E5%91%8A%E6%AD%B9%E6%AF%92%E5%8F%8A%E6%B3%AF%E6%BB%85%E4%BA%BA%E6%80%A7-%E5%88%A4%E5%9B%9A4%E5%B9%B4",
+    "timestamp": "2026-10-27T09:22:59.410Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPad mini 8 定價$5,299起！5.4mm機身配OLED螢幕與A20 Pro 晶片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260928/1181343036425113600289143.jpeg/yOKDD238zgPdeYcwTg1Pl3hfy8PubWeNmv4aNpr-GjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60403850/%E8%B2%9D%E5%AE%89%E5%BE%B7-%E5%86%80%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%E7%9C%8B%E5%88%B0%E8%8B%B1%E5%9C%8B%E9%87%8D%E8%BF%94%E6%AD%90%E7%9B%9F",
     "timestamp": "2026-10-26T23:44:36.052Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加州女疑駕駛時看成人網站　致3車相撞釀1死　被控駕車過失殺人罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191557141551386624649203.png/byTvpRWK1SF2pWBLVYyZA-1S4d7dv1iqG8wa3xvMGt8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60403357/%E5%8A%A0%E5%B7%9E%E5%A5%B3%E7%96%91%E9%A7%95%E9%A7%9B%E6%99%82%E7%9C%8B%E6%88%90%E4%BA%BA%E7%B6%B2%E7%AB%99-%E8%87%B43%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E6%AD%BB-%E8%A2%AB%E6%8E%A7%E9%A7%95%E8%BB%8A%E9%81%8E%E5%A4%B1%E6%AE%BA%E4%BA%BA%E7%BD%AA",
-    "timestamp": "2026-10-26T23:17:52.828Z",
     "strategy": ".content-card__main"
   }
 ];
