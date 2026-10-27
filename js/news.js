@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T17:54:06.799Z
+// Last updated: 2026-10-27T18:18:03.580Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《中年好聲音》讓車婉婉成功入屋：出到街大家都覺得我好熟悉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190700520801570816759248.jpeg/9fTkgzZvG4wyIfYAhR17BQ70b98uq4kooue396Lnt_c",
+    "url": "https://www.hk01.com/01TV/60403214/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3-%E8%AE%93%E8%BB%8A%E5%A9%89%E5%A9%89%E6%88%90%E5%8A%9F%E5%85%A5%E5%B1%8B-%E5%87%BA%E5%88%B0%E8%A1%97%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%A6%BA%E5%BE%97%E6%88%91%E5%A5%BD%E7%86%9F%E6%82%89",
+    "timestamp": "2026-10-27T18:18:03.580Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安達臣男工推電單車　剷單車徑遇警阻止　大喝：企咁埋做咩｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189980357097689088487309.jpeg/fyR5MWBSyUDRyTv8Umd65loqOjKJg-jSNr2uNja9rjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60400386/ipad-mini-8-%E5%AE%9A%E5%83%B9-5-299%E8%B5%B7-5-4mm%E6%A9%9F%E8%BA%AB%E9%85%8Doled%E8%9E%A2%E5%B9%95%E8%88%87a20-pro-%E6%99%B6%E7%89%87",
     "timestamp": "2026-10-27T08:52:58.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港珠澳大橋截兩地牌車檢1,353管孕婦血樣　揭「寄血驗子」地下鏈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191761723057508352867139.png/ZwCkNJt8eGmCS70fbpoU3XNSBuRUJ72rGW1RwBltUcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403903/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E6%88%AA%E5%85%A9%E5%9C%B0%E7%89%8C%E8%BB%8A%E6%AA%A21-353%E7%AE%A1%E5%AD%95%E5%A9%A6%E8%A1%80%E6%A8%A3-%E6%8F%AD%E5%AF%84%E8%A1%80%E9%A9%97%E8%83%8E%E6%80%A7%E5%88%A5%E5%9C%B0%E4%B8%8B%E9%8F%88",
-    "timestamp": "2026-10-27T08:27:01.121Z",
     "strategy": ".content-card__main"
   }
 ];
