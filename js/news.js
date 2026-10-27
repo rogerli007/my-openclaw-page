@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T21:24:00.986Z
+// Last updated: 2026-10-27T21:53:29.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵葵芳站老鼠紮紮跳　觀塘鼠群「捐水馬」　網民：失晒控｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191974326673346560763925.jpeg/ItqSIBKRA5Llt0ShrXzl-BTqIv3pq4eG9S0UzvUtFM4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404256/%E6%B8%AF%E9%90%B5%E8%91%B5%E8%8A%B3%E7%AB%99%E8%80%81%E9%BC%A0%E7%B4%AE%E7%B4%AE%E8%B7%B3-%E8%A7%80%E5%A1%98%E9%BC%A0%E7%BE%A4-%E6%8D%90%E6%B0%B4%E9%A6%AC-%E7%B6%B2%E6%B0%91-%E5%A4%B1%E6%99%92%E6%8E%A7-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-10-27T21:53:29.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵葵芳站老鼠紮紮跳　觀塘鼠群「捐水馬」　網民：失晒控｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191889384870252544457183.jpeg/O5ddBC6ku-fO9H914_O1xX-bLCoCQYSsdmsRVXZrEVU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404228/%E7%AD%B2%E7%AE%95%E7%81%A3%E7%88%86%E6%B0%B4%E7%AE%A1-%E5%A4%9A%E9%96%93%E8%B6%85%E5%B8%82%E6%A8%BD%E8%A3%9D%E6%B0%B4%E8%B2%A8%E6%9E%B6%E6%B8%85%E7%A9%BA-%E6%9C%89%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83%E6%B2%96%E6%B6%BC%E6%88%BF%E6%8E%92%E9%95%B7%E9%BE%8D",
     "timestamp": "2026-10-27T15:22:12.262Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不著邊際的你｜鄭容和演「一吻即暈」巨星　劇本惹追星女極致共鳴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191852012250075136316052.jpeg/Uio7wMmDn0DGQ6Z3o00LpKomAhVcLoCmgbu5boG7uW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404197/%E4%B8%8D%E8%91%97%E9%82%8A%E9%9A%9B%E7%9A%84%E4%BD%A0-%E9%84%AD%E5%AE%B9%E5%92%8C%E6%BC%94-%E4%B8%80%E5%90%BB%E5%8D%B3%E6%9A%88-%E5%B7%A8%E6%98%9F-%E5%8A%87%E6%9C%AC%E6%83%B9%E8%BF%BD%E6%98%9F%E5%A5%B3%E6%A5%B5%E8%87%B4%E5%85%B1%E9%B3%B4",
-    "timestamp": "2026-10-27T14:50:46.111Z",
     "strategy": ".content-card__main"
   }
 ];
