@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T13:26:00.086Z
+// Last updated: 2026-10-27T13:49:58.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Apple M6晶片14吋MacBook Pro與24吋新iMac登場：AI效能大躍進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191865736251838464504213.jpeg/Lf-J80-XinsnT7azInwoEourxMsdlOwDky5mBZMuZgU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60404222/apple-m6%E6%99%B6%E7%89%8714%E5%90%8Bmacbook-pro%E8%88%8724%E5%90%8B%E6%96%B0imac%E7%99%BB%E5%A0%B4-ai%E6%95%88%E8%83%BD%E5%A4%A7%E8%BA%8D%E9%80%B2",
+    "timestamp": "2026-10-27T13:49:58.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台學者料中共二十一大出招　或提「兩制台灣方案」頂層設計",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191463669783859200081952.png/wTOELQGRD6DpDtl__yHoDxT2_uCAiPhxozXLaKM1y2g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60403766/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0-%E5%85%8D%E8%B2%BB%E8%81%BD%E5%8A%9B%E6%B8%AC%E8%A9%A6-1500%E5%8A%A9%E8%81%BD%E5%99%A8%E6%B4%A5%E8%B2%BC-60%E6%AD%B2%E5%8F%AF%E7%94%B3%E8%AB%8B-%E5%A0%B1%E5%90%8D%E6%96%B9%E6%B3%95",
     "timestamp": "2026-10-27T02:47:09.345Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大腸癌預防｜腺瘤型息肉易癌化　9招健康飲食降風險　定時排便",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1190078425407164416230194.jpeg/uLFRWE2ERKyIyLxaTedTsqFTRqkWWNMl1XFGPdVxRj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60359597/%E5%A4%A7%E8%85%B8%E7%99%8C%E9%A0%90%E9%98%B2-%E8%85%BA%E7%98%A4%E5%9E%8B%E6%81%AF%E8%82%89%E6%98%93%E7%99%8C%E5%8C%96-9%E6%8B%9B%E5%81%A5%E5%BA%B7%E9%A3%B2%E9%A3%9F%E9%99%8D%E9%A2%A8%E9%9A%AA-%E5%AE%9A%E6%99%82%E6%8E%92%E4%BE%BF",
-    "timestamp": "2026-10-27T02:07:59.357Z",
     "strategy": ".content-card__main"
   }
 ];
