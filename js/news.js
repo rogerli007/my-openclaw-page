@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T15:58:28.450Z
+// Last updated: 2026-10-27T16:32:14.290Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國多地示威拖累國內經濟　消費者信心指數跌至13年新低",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191896401349447680371840.jpeg/vKKqedfWaAjTd0XHg6Lxn8k5qGFknl9gAngRSQJ4EUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404237/%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%9C%B0%E7%A4%BA%E5%A8%81%E6%8B%96%E7%B4%AF%E5%9C%8B%E5%85%A7%E7%B6%93%E6%BF%9F-%E6%B6%88%E8%B2%BB%E8%80%85%E4%BF%A1%E5%BF%83%E6%8C%87%E6%95%B8%E8%B7%8C%E8%87%B313%E5%B9%B4%E6%96%B0%E4%BD%8E",
+    "timestamp": "2026-10-27T16:32:14.290Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔石灘男子岸邊漂浮　當場死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191735390646571008816097.jpeg/gNO8tcjTeZmPh2axOsRgfuQ4YlEuqP5rBl-gNiNfoDY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403993/%E8%AA%BF%E6%9F%A5-29-sen%E5%AD%B8%E7%AB%A5%E6%9B%BE%E6%9C%89%E8%87%AA%E5%82%B7%E8%A1%8C%E7%82%BA-%E6%B5%B8%E5%A4%A7%E6%8E%A8app%E5%8A%A9%E5%AE%B6%E9%95%B7%E6%87%89%E5%B0%8D%E8%B2%A0%E9%9D%A2%E6%83%85%E7%B7%92",
     "timestamp": "2026-10-27T05:25:11.092Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田MMA｜躁漢疑駕車上行人路　男子影罪證遭掟袋狂毆　雙雙被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191734377260781568583427.jpeg/2qxPgUxBXhWmwdf9N4aqVW0eUsbrumRXByUjXAclI1w",
-    "url": "https://www.hk01.com/01TV/60403991/%E6%B2%99%E7%94%B0mma-%E8%BA%81%E6%BC%A2%E7%96%91%E9%A7%95%E8%BB%8A%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF-%E7%94%B7%E5%AD%90%E5%BD%B1%E7%BD%AA%E8%AD%89%E9%81%AD%E6%8E%9F%E8%A2%8B%E7%8B%82%E6%AF%86-%E9%9B%99%E9%9B%99%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-27T05:01:01.476Z",
     "strategy": ".content-card__main"
   }
 ];
