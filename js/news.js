@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T18:18:03.580Z
+// Last updated: 2026-10-27T18:30:33.022Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "挪威、芬蘭領導人與普京通話　丹麥首相：削弱歐洲團結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130115199508942848039782.jpeg/dLmjj58lseXZh64ch_CePvRSMw8ymDFjFksx8RZLMfE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404247/%E6%8C%AA%E5%A8%81-%E8%8A%AC%E8%98%AD%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E6%99%AE%E4%BA%AC%E9%80%9A%E8%A9%B1-%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8-%E5%89%8A%E5%BC%B1%E6%AD%90%E6%B4%B2%E5%9C%98%E7%B5%90",
+    "timestamp": "2026-10-27T18:30:33.022Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《中年好聲音》讓車婉婉成功入屋：出到街大家都覺得我好熟悉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250115/956282253367840768108436.jpeg/CL20FyY8T_8_2-81vUkjwEBskaS-YhpB8zSpoPM0qaA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402786/%E7%BE%8E%E5%AE%B9%E5%B8%AB%E8%B3%A3%E5%85%A9%E5%A5%B3%E5%8E%BB%E7%B7%AC%E7%94%B8kk%E5%9C%92%E5%8D%80-%E5%AE%98%E6%96%A5%E8%A2%AB%E5%91%8A%E6%AD%B9%E6%AF%92%E5%8F%8A%E6%B3%AF%E6%BB%85%E4%BA%BA%E6%80%A7-%E5%88%A4%E5%9B%9A4%E5%B9%B4",
     "timestamp": "2026-10-27T09:22:59.410Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPad mini 8 定價$5,299起！5.4mm機身配OLED螢幕與A20 Pro 晶片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189980357097689088487309.jpeg/fyR5MWBSyUDRyTv8Umd65loqOjKJg-jSNr2uNja9rjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60400386/ipad-mini-8-%E5%AE%9A%E5%83%B9-5-299%E8%B5%B7-5-4mm%E6%A9%9F%E8%BA%AB%E9%85%8Doled%E8%9E%A2%E5%B9%95%E8%88%87a20-pro-%E6%99%B6%E7%89%87",
-    "timestamp": "2026-10-27T08:52:58.470Z",
     "strategy": ".content-card__main"
   }
 ];
