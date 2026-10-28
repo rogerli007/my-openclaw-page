@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T20:30:30.818Z
+// Last updated: 2026-10-28T21:15:08.415Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美日防長同意合作構建「第一島鏈」防禦體系　日媒：為遏制中國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192312498548641792821065.png/go6TR3w9aMj9W7tcNoiTishgy0SKioEQxMAimcTAIpk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404665/%E7%BE%8E%E6%97%A5%E9%98%B2%E9%95%B7%E5%90%8C%E6%84%8F%E5%90%88%E4%BD%9C%E6%A7%8B%E5%BB%BA-%E7%AC%AC%E4%B8%80%E5%B3%B6%E9%8F%88-%E9%98%B2%E7%A6%A6%E9%AB%94%E7%B3%BB-%E6%97%A5%E5%AA%92-%E7%82%BA%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9C%8B",
+    "timestamp": "2026-10-28T21:15:08.415Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車婉婉主持《中年好聲音》爆紅：終於能讓天上的母親安心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192150134801043456982056.png/4zyX_jyuzV6Re4uO7JeUpBc86KYIag_Z95MEmfeTBJk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404479/%E5%8A%89%E6%BF%A4%E9%81%AD%E5%93%81%E7%89%8C%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%B9%B9%E8%B1%AC%E6%89%8B-%E8%A7%B8%E7%A2%B0%E8%83%B8%E9%83%A8%E6%91%9F%E8%85%B0-%E6%9C%89%E5%A4%9A%E4%BD%8D%E5%A5%B3%E6%98%9F%E5%8F%97%E5%AE%B3%E7%96%91%E6%85%A3%E7%8A%AF",
     "timestamp": "2026-10-28T14:34:07.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國財政預算案：2000萬戶獲100英鎊能源補貼　銀行附加稅增至6%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192236498993287168849506.jpeg/H3qAcHZ3X_O4WLgwtJ9gDcNb9kQHNrmtEHOadBBzmnQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404635/%E8%8B%B1%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%88-2000%E8%90%AC%E6%88%B6%E7%8D%B2100%E8%8B%B1%E9%8E%8A%E8%83%BD%E6%BA%90%E8%A3%9C%E8%B2%BC-%E9%8A%80%E8%A1%8C%E9%99%84%E5%8A%A0%E7%A8%85%E5%A2%9E%E8%87%B36",
-    "timestamp": "2026-10-28T14:17:12.156Z",
     "strategy": ".content-card__main"
   }
 ];
