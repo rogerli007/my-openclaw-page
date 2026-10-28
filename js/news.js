@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T16:41:19.126Z
+// Last updated: 2026-10-28T16:56:43.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荷蘭政府擬用AI取代2.5萬名公務員　盼每年節省約306億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172630727280300032608495.jpeg/2ZmHFlJV_JFKAPRXFvRXwEFsI_lr99ODIlhBSSJYQUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404652/%E8%8D%B7%E8%98%AD%E6%94%BF%E5%BA%9C%E6%93%AC%E7%94%A8ai%E5%8F%96%E4%BB%A32-5%E8%90%AC%E5%90%8D%E5%85%AC%E5%8B%99%E5%93%A1-%E7%9B%BC%E6%AF%8F%E5%B9%B4%E7%AF%80%E7%9C%81%E7%B4%84306%E5%84%84",
+    "timestamp": "2026-10-28T16:56:43.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神2｜郭珮文前度Ice飛半個地球求復合　突宣布回LA惹淘汰疑雲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230518/735751886002458624257069.jpeg/W9xYXx8V3aomPB8rFupXW9I6pOYoNBJhwDDWFNow1hQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404525/%E5%85%AC%E5%8B%99%E5%93%A1%E9%80%80%E4%BC%91%E9%87%91%E6%89%BF%E6%93%94%E7%A0%B49%E5%8D%83%E5%84%84-%E8%8F%AF%E5%93%A1%E6%9C%83%E7%B1%B2%E5%8B%BF%E7%9C%BC%E7%B4%85-%E9%95%B7%E7%B3%A7%E5%A6%82%E9%98%BF%E5%AA%BD%E5%B9%AB%E5%84%B2%E5%88%A9%E6%98%AF",
     "timestamp": "2026-10-28T10:53:34.099Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公務員退休金承擔破9千億　華員會籲勿眼紅：長糧如阿媽幫儲利是",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230518/735751886002458624257069.jpeg/W9xYXx8V3aomPB8rFupXW9I6pOYoNBJhwDDWFNow1hQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404525/%E5%85%AC%E5%8B%99%E5%93%A1%E9%80%80%E4%BC%91%E9%87%91%E6%89%BF%E6%93%94%E7%A0%B49%E5%8D%83%E5%84%84-%E8%8F%AF%E5%93%A1%E6%9C%83%E7%B1%B2%E5%8B%BF%E7%9C%BC%E7%B4%85-%E9%95%B7%E7%B3%A7%E5%A6%82%E9%98%BF%E5%AA%BD%E5%B9%AB%E5%84%B2%E5%88%A9%E6%98%AF",
-    "timestamp": "2026-10-28T10:43:47.443Z",
     "strategy": ".content-card__main"
   }
 ];
