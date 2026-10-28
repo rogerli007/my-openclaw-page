@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T17:54:19.746Z
+// Last updated: 2026-10-28T18:19:27.320Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國議息｜聯儲局維持利率不變　符市場預期　10：２票數通過決議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186267250017964032634178.jpeg/_sZSOfPE3JdT7w0Y0Nt7wGoMgBPhF0Nit4KhRbeCoUU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404653/%E7%BE%8E%E5%9C%8B%E8%AD%B0%E6%81%AF-%E8%81%AF%E5%84%B2%E5%B1%80%E7%B6%AD%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E8%AE%8A-%E7%AC%A6%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F-10-%EF%BC%92%E7%A5%A8%E6%95%B8%E9%80%9A%E9%81%8E%E6%B1%BA%E8%AD%B0",
+    "timestamp": "2026-10-28T18:19:27.320Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "游泳｜盧梓霖破短池男子200自香港紀錄　全國賽改寫塵封9年港績",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148950605524373504507419.jpeg/BpJHZx3nQ2nvoY1qpy3XBspbVrSmfk11oWigsaFooLE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404626/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%B9%9E%E9%81%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E7%A6%8F%E7%94%B0%E5%BA%B7%E5%A4%AB%E9%81%BA%E5%B1%AC%E8%87%B4%E5%94%81%E9%9B%BB-%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C-%E4%B8%AD%E6%96%B9%E7%9A%84%E8%80%83%E9%87%8F",
     "timestamp": "2026-10-28T13:16:48.554Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何超蓮請媽媽食過萬蚊Omakase　三太戴6千萬翡翠鈪與賭王定情物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192199478984052736890175.jpeg/69Sl0LuHfTl2OR5fgRmWosE3-dqLnfmRpOWch6TlnIc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404615/%E4%BD%95%E8%B6%85%E8%93%AE%E8%AB%8B%E5%AA%BD%E5%AA%BD%E9%A3%9F%E9%81%8E%E8%90%AC%E8%9A%8Aomakase-%E4%B8%89%E5%A4%AA%E6%88%B46%E5%8D%83%E8%90%AC%E7%BF%A1%E7%BF%A0%E9%88%AA%E8%88%87%E8%B3%AD%E7%8E%8B%E5%AE%9A%E6%83%85%E7%89%A9",
-    "timestamp": "2026-10-28T12:53:39.270Z",
     "strategy": ".content-card__main"
   }
 ];
