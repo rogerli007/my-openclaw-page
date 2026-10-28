@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T05:40:49.630Z
+// Last updated: 2026-10-28T05:53:36.218Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "醫衞局：截至今年9月底　523名大灣區醫護參加人才交流計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192093206947303424596724.jpeg/_DKAZ7nUWAxF6jHNtTAuknzfVdQgAZWaeYQv2XmEL9k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404386/%E9%86%AB%E8%A1%9E%E5%B1%80-%E6%88%AA%E8%87%B3%E4%BB%8A%E5%B9%B49%E6%9C%88%E5%BA%95-523%E5%90%8D%E5%A4%A7%E7%81%A3%E5%8D%80%E9%86%AB%E8%AD%B7%E5%8F%83%E5%8A%A0%E4%BA%BA%E6%89%8D%E4%BA%A4%E6%B5%81%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-10-28T05:53:36.218Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣州屋苑近300戶玻璃自爆　業主憂幼童墮樓　發展商稱過保卸責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191832477157560320412089.png/O7yrJS-eu97iIGsqiarTl0A2FekVH761yl5krcpeZK0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60387813/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%86%AB%E7%94%9F%E5%A6%BB%E6%98%8F%E8%BF%B7%E5%85%A9%E5%BA%A6%E6%92%A5911-%E7%AD%89%E6%95%91%E8%AD%B7%E8%BB%8A85%E5%88%86%E9%90%98-%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-27T23:23:44.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大醫生妻昏迷兩度撥911　等救護車85分鐘　心臟驟停送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191832477157560320412089.png/O7yrJS-eu97iIGsqiarTl0A2FekVH761yl5krcpeZK0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60387813/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%86%AB%E7%94%9F%E5%A6%BB%E6%98%8F%E8%BF%B7%E5%85%A9%E5%BA%A6%E6%92%A5911-%E7%AD%89%E6%95%91%E8%AD%B7%E8%BB%8A85%E5%88%86%E9%90%98-%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-27T23:14:27.901Z",
     "strategy": ".content-card__main"
   }
 ];
