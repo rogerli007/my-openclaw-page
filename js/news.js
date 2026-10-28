@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T12:44:39.169Z
+// Last updated: 2026-10-28T12:53:39.270Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何超蓮請媽媽食過萬蚊Omakase　三太戴6千萬翡翠鈪與賭王定情物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192199478984052736890175.jpeg/69Sl0LuHfTl2OR5fgRmWosE3-dqLnfmRpOWch6TlnIc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404615/%E4%BD%95%E8%B6%85%E8%93%AE%E8%AB%8B%E5%AA%BD%E5%AA%BD%E9%A3%9F%E9%81%8E%E8%90%AC%E8%9A%8Aomakase-%E4%B8%89%E5%A4%AA%E6%88%B46%E5%8D%83%E8%90%AC%E7%BF%A1%E7%BF%A0%E9%88%AA%E8%88%87%E8%B3%AD%E7%8E%8B%E5%AE%9A%E6%83%85%E7%89%A9",
+    "timestamp": "2026-10-28T12:53:39.270Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜蔣家旻鴛鴦浴未算最癲　過去曾兩次極大尺度從後被擒胸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192093206947303424596724.jpeg/_DKAZ7nUWAxF6jHNtTAuknzfVdQgAZWaeYQv2XmEL9k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404386/%E9%86%AB%E8%A1%9E%E5%B1%80-%E6%88%AA%E8%87%B3%E4%BB%8A%E5%B9%B49%E6%9C%88%E5%BA%95-523%E5%90%8D%E5%A4%A7%E7%81%A3%E5%8D%80%E9%86%AB%E8%AD%B7%E5%8F%83%E5%8A%A0%E4%BA%BA%E6%89%8D%E4%BA%A4%E6%B5%81%E8%A8%88%E5%8A%83",
     "timestamp": "2026-10-28T05:53:36.218Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣州屋苑近300戶玻璃自爆　業主憂幼童墮樓　發展商稱過保卸責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192099802406457344471520.jpeg/c8AP0tCpCUZnNZdJ3IA2qA6r3k10Z872loXBRJaFwUQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404370/%E5%BB%A3%E5%B7%9E%E5%B1%8B%E8%8B%91%E8%BF%91300%E6%88%B6%E7%8E%BB%E7%92%83%E8%87%AA%E7%88%86-%E6%A5%AD%E4%B8%BB%E6%86%82%E5%B9%BC%E7%AB%A5%E5%A2%AE%E6%A8%93-%E7%99%BC%E5%B1%95%E5%95%86%E7%A8%B1%E9%81%8E%E4%BF%9D%E5%8D%B8%E8%B2%AC",
-    "timestamp": "2026-10-28T05:40:49.630Z",
     "strategy": ".content-card__main"
   }
 ];
