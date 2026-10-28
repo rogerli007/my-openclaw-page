@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T10:20:36.698Z
+// Last updated: 2026-10-28T10:27:58.691Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關消防大窩坪配水庫搗非法油站　拘兩男檢220公升未完稅汽油",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192171102856548352923864.jpeg/hwEzpESmVWdHUmhjBlOBVkSlgT7VigZdm7-NC5u_jQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404566/%E6%B5%B7%E9%97%9C%E6%B6%88%E9%98%B2%E5%A4%A7%E7%AA%A9%E5%9D%AA%E9%85%8D%E6%B0%B4%E5%BA%AB%E6%90%97%E9%9D%9E%E6%B3%95%E6%B2%B9%E7%AB%99-%E6%8B%98%E5%85%A9%E7%94%B7%E6%AA%A2220%E5%85%AC%E5%8D%87%E6%9C%AA%E5%AE%8C%E7%A8%85%E6%B1%BD%E6%B2%B9",
+    "timestamp": "2026-10-28T10:27:58.691Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "｢Benz雄｣許紹雄離世一周年AI短片重現音容　幽默報平安惹全網淚崩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192086279412518912428739.jpeg/fSkQRDbLCqbLRQfA6NjFfv6pY12-gnyVwiKuNcIirjU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404332/%E6%9C%80%E6%85%98%E5%85%AD%E5%90%88%E5%BD%A9-%E6%B8%AF%E5%A5%B3%E8%B2%B7%E8%A4%87%E5%BC%8F-%E5%AE%8C%E7%BE%8E%E9%8C%AF%E9%96%8B-%E9%A0%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E7%B6%B2%E6%B0%91%E9%A9%9A-%E6%85%98%E9%81%8E%E5%94%94%E4%B8%AD",
     "timestamp": "2026-10-28T04:18:51.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣州27歲女赴清邁會網友失聯　雙方互備禮物對方承諾送iPhone 18",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192074546367172608570249.jpeg/finFUp_05pNStzEXRvQKmX9KsaPv9vjxSj6g5ko-oOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404312/%E5%BB%A3%E5%B7%9E27%E6%AD%B2%E5%A5%B3%E8%B5%B4%E6%B8%85%E9%82%81%E6%9C%83%E7%B6%B2%E5%8F%8B%E5%A4%B1%E8%81%AF-%E9%9B%99%E6%96%B9%E4%BA%92%E5%82%99%E7%A6%AE%E7%89%A9%E5%B0%8D%E6%96%B9%E6%89%BF%E8%AB%BE%E9%80%81iphone-18",
-    "timestamp": "2026-10-28T03:53:43.403Z",
     "strategy": ".content-card__main"
   }
 ];
