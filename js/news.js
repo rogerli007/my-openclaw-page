@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T22:25:47.007Z
+// Last updated: 2026-10-28T22:40:28.801Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "與張錦程離婚後走出陰霾甩「師奶味」　女神張延狀態回春更勝從前",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192150368872566784709561.jpeg/S5N8DUWOfe9decqWG-47bn7lRHGKKkWI_9cZ0__XGdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404445/%E8%88%87%E5%BC%B5%E9%8C%A6%E7%A8%8B%E9%9B%A2%E5%A9%9A%E5%BE%8C%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE%E7%94%A9-%E5%B8%AB%E5%A5%B6%E5%91%B3-%E5%A5%B3%E7%A5%9E%E5%BC%B5%E5%BB%B6%E7%8B%80%E6%85%8B%E5%9B%9E%E6%98%A5%E6%9B%B4%E5%8B%9D%E5%BE%9E%E5%89%8D",
+    "timestamp": "2026-10-28T22:40:28.801Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日初時有一兩陣微雨　日間漸轉天晴乾燥　最高約29度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530743422455808097824.jpeg/PYOIRdZJxr_qiFVUFRO0E9fygW3xNMiRAGVmMgBlZjI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-t1%E5%B0%8Dmkoi-8%E5%BC%B7%E5%B0%87%E8%AA%95%E7%94%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
     "timestamp": "2026-10-28T15:46:16.924Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國宣布禁止華大系三企業產品進口　指控涉強迫勞動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230828/772766376816283648312564.jpeg/zbAeolgRaR-QP2oyKbLuYcKCPTJstly33KGUG9yhlBs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404642/%E7%BE%8E%E5%9C%8B%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E8%8F%AF%E5%A4%A7%E7%B3%BB%E4%B8%89%E4%BC%81%E6%A5%AD%E7%94%A2%E5%93%81%E9%80%B2%E5%8F%A3-%E6%8C%87%E6%8E%A7%E6%B6%89%E5%BC%B7%E8%BF%AB%E5%8B%9E%E5%8B%95",
-    "timestamp": "2026-10-28T15:17:07.575Z",
     "strategy": ".content-card__main"
   }
 ];
