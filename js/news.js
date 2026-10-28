@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T19:53:30.395Z
+// Last updated: 2026-10-28T20:30:30.818Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉主持《中年好聲音》爆紅：終於能讓天上的母親安心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190705347304624128928765.jpeg/I1qhY3U1pYIfDtXFvBiTnmEXNx0ozj8pZLycRmS8nEY",
+    "url": "https://www.hk01.com/01TV/60403228/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%B8%BB%E6%8C%81-%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3-%E7%88%86%E7%B4%85-%E7%B5%82%E6%96%BC%E8%83%BD%E8%AE%93%E5%A4%A9%E4%B8%8A%E7%9A%84%E6%AF%8D%E8%A6%AA%E5%AE%89%E5%BF%83",
+    "timestamp": "2026-10-28T20:30:30.818Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國議息｜沃什：中期選舉不影響議息決策",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192236498993287168849506.jpeg/H3qAcHZ3X_O4WLgwtJ9gDcNb9kQHNrmtEHOadBBzmnQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404635/%E8%8B%B1%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%88-2000%E8%90%AC%E6%88%B6%E7%8D%B2100%E8%8B%B1%E9%8E%8A%E8%83%BD%E6%BA%90%E8%A3%9C%E8%B2%BC-%E9%8A%80%E8%A1%8C%E9%99%84%E5%8A%A0%E7%A8%85%E5%A2%9E%E8%87%B36",
     "timestamp": "2026-10-28T14:17:12.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄧龍威獲釋｜返港後與謝偉俊首重逢　謝︰難得再聚大家卻不再年輕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192215232575967232850629.png/QtvafPgBDnYPpLdPOdmXDxRIcVqUyD7swaWp9sGlqfY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404622/%E9%84%A7%E9%BE%8D%E5%A8%81%E7%8D%B2%E9%87%8B-%E8%BF%94%E6%B8%AF%E5%BE%8C%E8%88%87%E8%AC%9D%E5%81%89%E4%BF%8A%E9%A6%96%E9%87%8D%E9%80%A2-%E8%AC%9D-%E9%9B%A3%E5%BE%97%E5%86%8D%E8%81%9A%E5%A4%A7%E5%AE%B6%E5%8D%BB%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BC%95",
-    "timestamp": "2026-10-28T13:54:30.114Z",
     "strategy": ".content-card__main"
   }
 ];
