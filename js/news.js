@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T16:56:43.072Z
+// Last updated: 2026-10-28T17:15:35.098Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "74歲《狼王夢》作者沈石溪深夜帶貨　遭質疑被迫捱夜　急拍片澄清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191801690890702848759068.png/352GMMBkjEUQji91yqebz_smXeOL2dZNZD3ad2Q92nc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403938/74%E6%AD%B2-%E7%8B%BC%E7%8E%8B%E5%A4%A2-%E4%BD%9C%E8%80%85%E6%B2%88%E7%9F%B3%E6%BA%AA%E6%B7%B1%E5%A4%9C%E5%B8%B6%E8%B2%A8-%E9%81%AD%E8%B3%AA%E7%96%91%E8%A2%AB%E8%BF%AB%E6%8D%B1%E5%A4%9C-%E6%80%A5%E6%8B%8D%E7%89%87%E6%BE%84%E6%B8%85",
+    "timestamp": "2026-10-28T17:15:35.098Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荷蘭政府擬用AI取代2.5萬名公務員　盼每年節省約306億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125835518395813888301659.jpeg/rAvVs2layUGCDmakCwUFIS8RXerBP24215s8dNebPHQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404502/%E9%9F%93%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%BF%BD%E5%8A%A0%E9%80%AE%E6%8D%95%E4%BB%A4-%E5%89%8D%E7%B8%BD%E7%B5%B1%E5%A4%AB%E4%BA%BA%E9%87%91%E5%BB%BA%E5%B8%8C%E6%89%A3%E6%8A%BC%E8%87%B3%E5%B9%B4%E5%BA%95",
     "timestamp": "2026-10-28T11:15:14.813Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公務員退休金承擔破9千億　華員會籲勿眼紅：長糧如阿媽幫儲利是",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230518/735751886002458624257069.jpeg/W9xYXx8V3aomPB8rFupXW9I6pOYoNBJhwDDWFNow1hQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404525/%E5%85%AC%E5%8B%99%E5%93%A1%E9%80%80%E4%BC%91%E9%87%91%E6%89%BF%E6%93%94%E7%A0%B49%E5%8D%83%E5%84%84-%E8%8F%AF%E5%93%A1%E6%9C%83%E7%B1%B2%E5%8B%BF%E7%9C%BC%E7%B4%85-%E9%95%B7%E7%B3%A7%E5%A6%82%E9%98%BF%E5%AA%BD%E5%B9%AB%E5%84%B2%E5%88%A9%E6%98%AF",
-    "timestamp": "2026-10-28T10:53:34.099Z",
     "strategy": ".content-card__main"
   }
 ];
