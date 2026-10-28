@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T13:16:48.554Z
+// Last updated: 2026-10-28T13:27:34.634Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港郵政年度虧損擴大至9億元　員工開支佔64%　料保護主義等所致",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192216478955606016628917.jpeg/SIkNhXDuqbPDelIqGJX0GyRrDZ-0L7SdHdfQrjjX0K4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404630/%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF%E5%B9%B4%E5%BA%A6%E8%99%A7%E6%90%8D%E6%93%B4%E5%A4%A7%E8%87%B39%E5%84%84%E5%85%83-%E5%93%A1%E5%B7%A5%E9%96%8B%E6%94%AF%E4%BD%9464-%E6%96%99%E4%BF%9D%E8%AD%B7%E4%B8%BB%E7%BE%A9%E7%AD%89%E6%89%80%E8%87%B4",
+    "timestamp": "2026-10-28T13:27:34.634Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平繞過高市早苗向福田康夫遺屬致唁電　日本政府：中方的考量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192106840704421888215078.jpeg/IvIFxD63kUr7VXztwYP9dTMaJOxkE7fQA8s8wwPLPMM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404389/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E7%81%B0%E8%A1%AB%E7%94%B7%E4%BE%BF%E5%88%A9%E5%BA%97%E8%A1%8C%E7%AB%8A%E4%BA%8B%E6%95%97%E8%A2%AB%E5%BA%97%E5%93%A1%E6%96%B7%E6%AD%A3-%E5%90%8C%E4%BA%8B%E5%88%B0%E5%A0%B4%E4%BA%86%E8%A7%A3",
     "timestamp": "2026-10-28T06:47:51.057Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科大醫學院聘港大梁如鴻被指挖角　葉玉如否認　冀與兩醫學院合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192112422006034432541629.jpeg/aySqIvmfeSBvBZuLYuQtt77EtDZjC1qNrNPyjKzT8ow?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404426/%E7%A7%91%E5%A4%A7%E9%86%AB%E5%AD%B8%E9%99%A2%E8%81%98%E6%B8%AF%E5%A4%A7%E6%A2%81%E5%A6%82%E9%B4%BB%E8%A2%AB%E6%8C%87%E6%8C%96%E8%A7%92-%E8%91%89%E7%8E%89%E5%A6%82%E5%90%A6%E8%AA%8D-%E5%86%80%E8%88%87%E5%85%A9%E9%86%AB%E5%AD%B8%E9%99%A2%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-10-28T06:26:15.135Z",
     "strategy": ".content-card__main"
   }
 ];
