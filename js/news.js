@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T07:29:46.229Z
+// Last updated: 2026-10-28T07:53:35.400Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全球第二大穩定幣公司Circle委港區舵手　瞄準區塊鏈與AI金融基建",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192129511429246976830729.jpeg/rYqyBs7rHCFKpG_e1tQPBw7lwZ9KJGMBpwD9k6cA_ZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404456/%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%A9%A9%E5%AE%9A%E5%B9%A3%E5%85%AC%E5%8F%B8circle%E5%A7%94%E6%B8%AF%E5%8D%80%E8%88%B5%E6%89%8B-%E7%9E%84%E6%BA%96%E5%8D%80%E5%A1%8A%E9%8F%88%E8%88%87ai%E9%87%91%E8%9E%8D%E5%9F%BA%E5%BB%BA",
+    "timestamp": "2026-10-28T07:53:35.400Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英聯賽盃｜利物浦主場鬥車路士　伊沙克狀態回勇　藍軍缺祖奧柏度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191866829736251392062193.jpeg/mD5C_0C0UB8tOKKfyRrPCr8G2I2xckYl71elde9XpXU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404225/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%9C%98%E8%9B%9B%E7%94%B7%E6%8B%92%E8%AA%8D%E8%89%B2%E9%AD%94-%E5%BF%83%E7%90%86%E5%AD%B8%E5%AE%B6%E6%9D%8E%E5%A0%85%E7%BF%94%E6%8C%87%E7%95%B6%E4%BA%8B%E4%BA%BA%E6%81%90%E6%87%BC%E6%9A%AB%E9%9B%A3%E5%B9%B3%E5%BE%A9",
     "timestamp": "2026-10-28T01:44:02.938Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "獨家｜周殷廷《雨夜之徒》執導滿場飛　任達華現身油麻地老態曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191840943716700160946015.jpeg/qiujKxdVL3orpz3hJwsATXK4gv_bE1S8ey_JSXsvyUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403834/%E7%8D%A8%E5%AE%B6-%E5%91%A8%E6%AE%B7%E5%BB%B7-%E9%9B%A8%E5%A4%9C%E4%B9%8B%E5%BE%92-%E5%9F%B7%E5%B0%8E%E6%BB%BF%E5%A0%B4%E9%A3%9B-%E4%BB%BB%E9%81%94%E8%8F%AF%E7%8F%BE%E8%BA%AB%E6%B2%B9%E9%BA%BB%E5%9C%B0%E8%80%81%E6%85%8B%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-10-28T01:02:32.450Z",
     "strategy": ".content-card__main"
   }
 ];
