@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T06:57:11.157Z
+// Last updated: 2026-10-28T07:29:46.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英聯賽盃｜利物浦主場鬥車路士　伊沙克狀態回勇　藍軍缺祖奧柏度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251020/1056859518384214016320756.jpeg/cOKuvpoEj2z1N65IIL-47oE_pFaet_Ey6AWvJOgFryQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404432/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%B8%BB%E5%A0%B4%E9%AC%A5%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E4%BC%8A%E6%B2%99%E5%85%8B%E7%8B%80%E6%85%8B%E5%9B%9E%E5%8B%87-%E8%97%8D%E8%BB%8D%E7%BC%BA%E7%A5%96%E5%A5%A7%E6%9F%8F%E5%BA%A6",
+    "timestamp": "2026-10-28T07:29:46.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片︱屯門灰衫男便利店行竊事敗被店員斷正　同事到場了解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191840943716700160946015.jpeg/qiujKxdVL3orpz3hJwsATXK4gv_bE1S8ey_JSXsvyUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403834/%E7%8D%A8%E5%AE%B6-%E5%91%A8%E6%AE%B7%E5%BB%B7-%E9%9B%A8%E5%A4%9C%E4%B9%8B%E5%BE%92-%E5%9F%B7%E5%B0%8E%E6%BB%BF%E5%A0%B4%E9%A3%9B-%E4%BB%BB%E9%81%94%E8%8F%AF%E7%8F%BE%E8%BA%AB%E6%B2%B9%E9%BA%BB%E5%9C%B0%E8%80%81%E6%85%8B%E6%9B%9D%E5%85%89",
     "timestamp": "2026-10-28T01:02:32.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "善男信女｜楊偉倫演親密戲感尷尬　鍾雪瑩望跟《阿爹》一樣過千萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191927014508990464238594.jpeg/YTK5JHYWFkBsbiv3HmTQmfkEz-fXBQNSZoENAmaBDQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60404245/%E5%96%84%E7%94%B7%E4%BF%A1%E5%A5%B3-%E6%A5%8A%E5%81%89%E5%80%AB%E6%BC%94%E8%A6%AA%E5%AF%86%E6%88%B2%E6%84%9F%E5%B0%B7%E5%B0%AC-%E9%8D%BE%E9%9B%AA%E7%91%A9%E6%9C%9B%E8%B7%9F-%E9%98%BF%E7%88%B9-%E4%B8%80%E6%A8%A3%E9%81%8E%E5%8D%83%E8%90%AC",
-    "timestamp": "2026-10-28T00:37:00.745Z",
     "strategy": ".content-card__main"
   }
 ];
