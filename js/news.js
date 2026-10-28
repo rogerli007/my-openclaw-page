@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T14:17:12.156Z
+// Last updated: 2026-10-28T14:34:07.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉濤遭品牌創始人鹹豬手「觸碰胸部摟腰」　有多位女星受害疑慣犯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192150134801043456982056.png/4zyX_jyuzV6Re4uO7JeUpBc86KYIag_Z95MEmfeTBJk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404479/%E5%8A%89%E6%BF%A4%E9%81%AD%E5%93%81%E7%89%8C%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%B9%B9%E8%B1%AC%E6%89%8B-%E8%A7%B8%E7%A2%B0%E8%83%B8%E9%83%A8%E6%91%9F%E8%85%B0-%E6%9C%89%E5%A4%9A%E4%BD%8D%E5%A5%B3%E6%98%9F%E5%8F%97%E5%AE%B3%E7%96%91%E6%85%A3%E7%8A%AF",
+    "timestamp": "2026-10-28T14:34:07.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國財政預算案：2000萬戶獲100英鎊能源補貼　銀行附加稅增至6%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192143191608922112217394.jpeg/kgmuFGo2kT28FNUZZZ3TeuUWkahnvEClx_7pwMf-6cA?v=w1920",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402801/%E6%B6%88%E8%B2%BB%E6%AC%8A%E7%9B%8A%E6%96%B0%E8%81%9E%E7%8D%8E-%E9%A6%99%E6%B8%AF01%E5%A5%AA%E5%9B%9B%E7%8D%8E-%E9%A6%99%E6%B8%AF%E5%A4%A7%E8%97%A5%E6%88%BF%E5%86%92%E6%B8%AF%E5%93%81%E7%89%8C%E5%A0%B1%E9%81%93%E8%86%BA%E5%85%A9%E5%A4%A7%E7%8D%8E",
     "timestamp": "2026-10-28T08:20:40.946Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全球第二大穩定幣公司Circle委港區舵手　瞄準區塊鏈與AI金融基建",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192129511429246976830729.jpeg/rYqyBs7rHCFKpG_e1tQPBw7lwZ9KJGMBpwD9k6cA_ZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404456/%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%A9%A9%E5%AE%9A%E5%B9%A3%E5%85%AC%E5%8F%B8circle%E5%A7%94%E6%B8%AF%E5%8D%80%E8%88%B5%E6%89%8B-%E7%9E%84%E6%BA%96%E5%8D%80%E5%A1%8A%E9%8F%88%E8%88%87ai%E9%87%91%E8%9E%8D%E5%9F%BA%E5%BB%BA",
-    "timestamp": "2026-10-28T07:53:35.400Z",
     "strategy": ".content-card__main"
   }
 ];
