@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T16:30:31.136Z
+// Last updated: 2026-10-28T16:41:19.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2｜郭珮文前度Ice飛半個地球求復合　突宣布回LA惹淘汰疑雲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192261172477300736560132.jpeg/HW2VvIj676fETArXwFD9NiXz_zu8bnTaMpVoYTKVaGE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404645/%E5%A5%B3%E7%A5%9E2-%E9%83%AD%E7%8F%AE%E6%96%87%E5%89%8D%E5%BA%A6ice%E9%A3%9B%E5%8D%8A%E5%80%8B%E5%9C%B0%E7%90%83%E6%B1%82%E5%BE%A9%E5%90%88-%E7%AA%81%E5%AE%A3%E5%B8%83%E5%9B%9Ela%E6%83%B9%E6%B7%98%E6%B1%B0%E7%96%91%E9%9B%B2",
+    "timestamp": "2026-10-28T16:41:19.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜人妻棄20年婚姻情陷渣男扮才俊呃感情：話幫霍震寰揸車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230518/735751886002458624257069.jpeg/W9xYXx8V3aomPB8rFupXW9I6pOYoNBJhwDDWFNow1hQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404525/%E5%85%AC%E5%8B%99%E5%93%A1%E9%80%80%E4%BC%91%E9%87%91%E6%89%BF%E6%93%94%E7%A0%B49%E5%8D%83%E5%84%84-%E8%8F%AF%E5%93%A1%E6%9C%83%E7%B1%B2%E5%8B%BF%E7%9C%BC%E7%B4%85-%E9%95%B7%E7%B3%A7%E5%A6%82%E9%98%BF%E5%AA%BD%E5%B9%AB%E5%84%B2%E5%88%A9%E6%98%AF",
     "timestamp": "2026-10-28T10:43:47.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關消防大窩坪配水庫搗非法油站　拘兩男檢220公升未完稅汽油",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192171102856548352923864.jpeg/hwEzpESmVWdHUmhjBlOBVkSlgT7VigZdm7-NC5u_jQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404566/%E6%B5%B7%E9%97%9C%E6%B6%88%E9%98%B2%E5%A4%A7%E7%AA%A9%E5%9D%AA%E9%85%8D%E6%B0%B4%E5%BA%AB%E6%90%97%E9%9D%9E%E6%B3%95%E6%B2%B9%E7%AB%99-%E6%8B%98%E5%85%A9%E7%94%B7%E6%AA%A2220%E5%85%AC%E5%8D%87%E6%9C%AA%E5%AE%8C%E7%A8%85%E6%B1%BD%E6%B2%B9",
-    "timestamp": "2026-10-28T10:27:58.691Z",
     "strategy": ".content-card__main"
   }
 ];
