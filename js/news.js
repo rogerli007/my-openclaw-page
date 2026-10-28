@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T00:37:00.745Z
+// Last updated: 2026-10-28T01:02:32.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "獨家｜周殷廷《雨夜之徒》執導滿場飛　任達華現身油麻地老態曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191840943716700160946015.jpeg/qiujKxdVL3orpz3hJwsATXK4gv_bE1S8ey_JSXsvyUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60403834/%E7%8D%A8%E5%AE%B6-%E5%91%A8%E6%AE%B7%E5%BB%B7-%E9%9B%A8%E5%A4%9C%E4%B9%8B%E5%BE%92-%E5%9F%B7%E5%B0%8E%E6%BB%BF%E5%A0%B4%E9%A3%9B-%E4%BB%BB%E9%81%94%E8%8F%AF%E7%8F%BE%E8%BA%AB%E6%B2%B9%E9%BA%BB%E5%9C%B0%E8%80%81%E6%85%8B%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-10-28T01:02:32.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "善男信女｜楊偉倫演親密戲感尷尬　鍾雪瑩望跟《阿爹》一樣過千萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130115199508942848039782.jpeg/dLmjj58lseXZh64ch_CePvRSMw8ymDFjFksx8RZLMfE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404247/%E6%8C%AA%E5%A8%81-%E8%8A%AC%E8%98%AD%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E6%99%AE%E4%BA%AC%E9%80%9A%E8%A9%B1-%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8-%E5%89%8A%E5%BC%B1%E6%AD%90%E6%B4%B2%E5%9C%98%E7%B5%90",
     "timestamp": "2026-10-27T18:30:33.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《中年好聲音》讓車婉婉成功入屋：出到街大家都覺得我好熟悉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190700520801570816759248.jpeg/9fTkgzZvG4wyIfYAhR17BQ70b98uq4kooue396Lnt_c",
-    "url": "https://www.hk01.com/01TV/60403214/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3-%E8%AE%93%E8%BB%8A%E5%A9%89%E5%A9%89%E6%88%90%E5%8A%9F%E5%85%A5%E5%B1%8B-%E5%87%BA%E5%88%B0%E8%A1%97%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%A6%BA%E5%BE%97%E6%88%91%E5%A5%BD%E7%86%9F%E6%82%89",
-    "timestamp": "2026-10-27T18:18:03.580Z",
     "strategy": ".content-card__main"
   }
 ];
