@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T08:43:16.522Z
+// Last updated: 2026-10-28T08:53:19.858Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭希怡驚傳再度生B急澄清生母身份　遭網民批助長外傭懷孕風氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192136060050608128125974.jpeg/0HuBggd1pELEdNxwycDobj-f416oq11GPC7Z4jwu2eI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404444/%E9%84%AD%E5%B8%8C%E6%80%A1%E9%A9%9A%E5%82%B3%E5%86%8D%E5%BA%A6%E7%94%9Fb%E6%80%A5%E6%BE%84%E6%B8%85%E7%94%9F%E6%AF%8D%E8%BA%AB%E4%BB%BD-%E9%81%AD%E7%B6%B2%E6%B0%91%E6%89%B9%E5%8A%A9%E9%95%B7%E5%A4%96%E5%82%AD%E6%87%B7%E5%AD%95%E9%A2%A8%E6%B0%A3",
+    "timestamp": "2026-10-28T08:53:19.858Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜鰂魚涌貓咪墮樓困晾衫架　多人持布築防護網　消防爬梯拯救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192064249384407040354918.jpeg/vBC3kveTEzbjrkCmexL2fBVtE4YT5KuchmvedIZr3nQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404314/%E9%87%8D%E6%85%B62%E6%AD%B2%E7%AB%A5%E5%A2%AE%E4%BA%A1%E8%AD%A6%E4%B8%8D%E7%AB%8B%E6%A1%88-%E7%88%B6%E6%89%94%E9%81%BA%E7%89%A9%E7%A8%B1%E5%B7%B2%E8%99%95%E7%90%86%E7%8B%97-%E5%A6%BB%E5%A7%94%E8%A8%97%E5%BE%8B%E5%B8%AB%E5%86%8D%E7%94%B3%E8%A8%B4",
     "timestamp": "2026-10-28T02:54:46.907Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥巴比辱華｜人民日報斥「吃飯砸鍋」　浙江宣傳批不配受追捧",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192056619899293696108976.jpeg/yi8BXtpzfgQPd5dmRpQDJBQIcqHSdfygP-WfcT_ln3E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60404283/%E9%BA%A5%E5%B7%B4%E6%AF%94%E8%BE%B1%E8%8F%AF-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%E6%96%A5-%E5%90%83%E9%A3%AF%E7%A0%B8%E9%8D%8B-%E6%B5%99%E6%B1%9F%E5%AE%A3%E5%82%B3%E6%89%B9%E4%B8%8D%E9%85%8D%E5%8F%97%E8%BF%BD%E6%8D%A7",
-    "timestamp": "2026-10-28T02:41:58.704Z",
     "strategy": ".content-card__main"
   }
 ];
