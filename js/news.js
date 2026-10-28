@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T16:18:37.551Z
+// Last updated: 2026-10-28T16:30:31.136Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜人妻棄20年婚姻情陷渣男扮才俊呃感情：話幫霍震寰揸車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192237065106886656583794.jpeg/aBPIfRlWyBpcTw5FDhcsRMMuQrENjlxLmwl0RJsJdEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404640/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E4%BA%BA%E5%A6%BB%E6%A3%8420%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%83%85%E9%99%B7%E6%B8%A3%E7%94%B7%E6%89%AE%E6%89%8D%E4%BF%8A%E5%91%83%E6%84%9F%E6%83%85-%E8%A9%B1%E5%B9%AB%E9%9C%8D%E9%9C%87%E5%AF%B0%E6%8F%B8%E8%BB%8A",
+    "timestamp": "2026-10-28T16:30:31.136Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "筲箕灣爆水管｜修路疑鑿穿喉管致財損　路政署：督促承建商賠償",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192171102856548352923864.jpeg/hwEzpESmVWdHUmhjBlOBVkSlgT7VigZdm7-NC5u_jQs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404566/%E6%B5%B7%E9%97%9C%E6%B6%88%E9%98%B2%E5%A4%A7%E7%AA%A9%E5%9D%AA%E9%85%8D%E6%B0%B4%E5%BA%AB%E6%90%97%E9%9D%9E%E6%B3%95%E6%B2%B9%E7%AB%99-%E6%8B%98%E5%85%A9%E7%94%B7%E6%AA%A2220%E5%85%AC%E5%8D%87%E6%9C%AA%E5%AE%8C%E7%A8%85%E6%B1%BD%E6%B2%B9",
     "timestamp": "2026-10-28T10:27:58.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "｢Benz雄｣許紹雄離世一周年AI短片重現音容　幽默報平安惹全網淚崩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192155459109261312129875.jpeg/09CKD9ETeu1pzMigdFTn8fpKisoKcOETEwQ1PhMENT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404518/benz%E9%9B%84-%E8%A8%B1%E7%B4%B9%E9%9B%84%E9%9B%A2%E4%B8%96%E4%B8%80%E5%91%A8%E5%B9%B4ai%E7%9F%AD%E7%89%87%E9%87%8D%E7%8F%BE%E9%9F%B3%E5%AE%B9-%E5%B9%BD%E9%BB%98%E5%A0%B1%E5%B9%B3%E5%AE%89%E6%83%B9%E5%85%A8%E7%B6%B2%E6%B7%9A%E5%B4%A9",
-    "timestamp": "2026-10-28T10:20:36.698Z",
     "strategy": ".content-card__main"
   }
 ];
