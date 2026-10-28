@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T13:54:30.114Z
+// Last updated: 2026-10-28T14:17:12.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國財政預算案：2000萬戶獲100英鎊能源補貼　銀行附加稅增至6%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192236498993287168849506.jpeg/H3qAcHZ3X_O4WLgwtJ9gDcNb9kQHNrmtEHOadBBzmnQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404635/%E8%8B%B1%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%88-2000%E8%90%AC%E6%88%B6%E7%8D%B2100%E8%8B%B1%E9%8E%8A%E8%83%BD%E6%BA%90%E8%A3%9C%E8%B2%BC-%E9%8A%80%E8%A1%8C%E9%99%84%E5%8A%A0%E7%A8%85%E5%A2%9E%E8%87%B36",
+    "timestamp": "2026-10-28T14:17:12.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄧龍威獲釋｜返港後與謝偉俊首重逢　謝︰難得再聚大家卻不再年輕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192129511429246976830729.jpeg/rYqyBs7rHCFKpG_e1tQPBw7lwZ9KJGMBpwD9k6cA_ZM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404456/%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%A9%A9%E5%AE%9A%E5%B9%A3%E5%85%AC%E5%8F%B8circle%E5%A7%94%E6%B8%AF%E5%8D%80%E8%88%B5%E6%89%8B-%E7%9E%84%E6%BA%96%E5%8D%80%E5%A1%8A%E9%8F%88%E8%88%87ai%E9%87%91%E8%9E%8D%E5%9F%BA%E5%BB%BA",
     "timestamp": "2026-10-28T07:53:35.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英聯賽盃｜利物浦主場鬥車路士　伊沙克狀態回勇　藍軍缺祖奧柏度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251020/1056859518384214016320756.jpeg/cOKuvpoEj2z1N65IIL-47oE_pFaet_Ey6AWvJOgFryQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404432/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%B8%BB%E5%A0%B4%E9%AC%A5%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E4%BC%8A%E6%B2%99%E5%85%8B%E7%8B%80%E6%85%8B%E5%9B%9E%E5%8B%87-%E8%97%8D%E8%BB%8D%E7%BC%BA%E7%A5%96%E5%A5%A7%E6%9F%8F%E5%BA%A6",
-    "timestamp": "2026-10-28T07:29:46.229Z",
     "strategy": ".content-card__main"
   }
 ];
