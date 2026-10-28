@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T04:18:51.269Z
+// Last updated: 2026-10-28T04:32:14.272Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳洲向中國返還2件流失文物　為北宋皇陵文武官頭像",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192084887234940928302985.jpeg/6recmYTL5zYCVpFZ7s6-8KKgrJm80u2wyx0Xl8sdF5c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60404364/%E6%BE%B3%E6%B4%B2%E5%90%91%E4%B8%AD%E5%9C%8B%E8%BF%94%E9%82%842%E4%BB%B6%E6%B5%81%E5%A4%B1%E6%96%87%E7%89%A9-%E7%82%BA%E5%8C%97%E5%AE%8B%E7%9A%87%E9%99%B5%E6%96%87%E6%AD%A6%E5%AE%98%E9%A0%AD%E5%83%8F",
+    "timestamp": "2026-10-28T04:32:14.272Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最慘六合彩│港女買複式「完美錯開」頭獎號碼　網民驚：慘過唔中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191822436459352064564017.jpeg/_JF7zbvJ7uJHnd_WCwdv4ysANhZF38vlHEUkORxFJDk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404100/%E8%8C%83%E5%86%B0%E5%86%B0%E7%BD%95%E8%AB%872018%E5%B9%B4%E7%A8%85%E5%8B%99%E9%A2%A8%E6%B3%A2%E4%BD%8E%E8%B0%B7-%E8%A6%AA%E8%87%AA%E5%87%BA%E9%9D%A23%E5%80%8B%E6%9C%88ko%E9%80%BE%E7%99%BE%E4%BB%A3%E8%A8%80%E7%B3%BE%E7%B4%9B",
     "timestamp": "2026-10-27T22:14:52.244Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵葵芳站老鼠紮紮跳　觀塘鼠群「捐水馬」　網民：失晒控｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191974326673346560763925.jpeg/ItqSIBKRA5Llt0ShrXzl-BTqIv3pq4eG9S0UzvUtFM4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404256/%E6%B8%AF%E9%90%B5%E8%91%B5%E8%8A%B3%E7%AB%99%E8%80%81%E9%BC%A0%E7%B4%AE%E7%B4%AE%E8%B7%B3-%E8%A7%80%E5%A1%98%E9%BC%A0%E7%BE%A4-%E6%8D%90%E6%B0%B4%E9%A6%AC-%E7%B6%B2%E6%B0%91-%E5%A4%B1%E6%99%92%E6%8E%A7-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-27T21:53:29.411Z",
     "strategy": ".content-card__main"
   }
 ];
