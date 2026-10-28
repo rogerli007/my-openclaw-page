@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T03:46:34.381Z
+// Last updated: 2026-10-28T03:53:43.403Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣州27歲女赴清邁會網友失聯　雙方互備禮物對方承諾送iPhone 18",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192074546367172608570249.jpeg/finFUp_05pNStzEXRvQKmX9KsaPv9vjxSj6g5ko-oOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404312/%E5%BB%A3%E5%B7%9E27%E6%AD%B2%E5%A5%B3%E8%B5%B4%E6%B8%85%E9%82%81%E6%9C%83%E7%B6%B2%E5%8F%8B%E5%A4%B1%E8%81%AF-%E9%9B%99%E6%96%B9%E4%BA%92%E5%82%99%E7%A6%AE%E7%89%A9%E5%B0%8D%E6%96%B9%E6%89%BF%E8%AB%BE%E9%80%81iphone-18",
+    "timestamp": "2026-10-28T03:53:43.403Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港股黃金ETF懶人包　入場門檻、管理費 + 風險一文看清｜ETF教室",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191974326673346560763925.jpeg/ItqSIBKRA5Llt0ShrXzl-BTqIv3pq4eG9S0UzvUtFM4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404256/%E6%B8%AF%E9%90%B5%E8%91%B5%E8%8A%B3%E7%AB%99%E8%80%81%E9%BC%A0%E7%B4%AE%E7%B4%AE%E8%B7%B3-%E8%A7%80%E5%A1%98%E9%BC%A0%E7%BE%A4-%E6%8D%90%E6%B0%B4%E9%A6%AC-%E7%B6%B2%E6%B0%91-%E5%A4%B1%E6%99%92%E6%8E%A7-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-27T21:24:00.986Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵葵芳站老鼠紮紮跳　觀塘鼠群「捐水馬」　網民：失晒控｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191974326673346560763925.jpeg/ItqSIBKRA5Llt0ShrXzl-BTqIv3pq4eG9S0UzvUtFM4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404256/%E6%B8%AF%E9%90%B5%E8%91%B5%E8%8A%B3%E7%AB%99%E8%80%81%E9%BC%A0%E7%B4%AE%E7%B4%AE%E8%B7%B3-%E8%A7%80%E5%A1%98%E9%BC%A0%E7%BE%A4-%E6%8D%90%E6%B0%B4%E9%A6%AC-%E7%B6%B2%E6%B0%91-%E5%A4%B1%E6%99%92%E6%8E%A7-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-27T21:14:32.170Z",
     "strategy": ".content-card__main"
   }
 ];
