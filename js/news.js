@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T22:40:28.801Z
+// Last updated: 2026-10-28T22:53:45.005Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "與張錦程離婚後走出陰霾甩「師奶味」　女神張延狀態回春更勝從前",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192150368872566784709561.jpeg/S5N8DUWOfe9decqWG-47bn7lRHGKKkWI_9cZ0__XGdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404445/%E8%88%87%E5%BC%B5%E9%8C%A6%E7%A8%8B%E9%9B%A2%E5%A9%9A%E5%BE%8C%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE%E7%94%A9-%E5%B8%AB%E5%A5%B6%E5%91%B3-%E5%A5%B3%E7%A5%9E%E5%BC%B5%E5%BB%B6%E7%8B%80%E6%85%8B%E5%9B%9E%E6%98%A5%E6%9B%B4%E5%8B%9D%E5%BE%9E%E5%89%8D",
+    "timestamp": "2026-10-28T22:53:45.005Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "與張錦程離婚後走出陰霾甩「師奶味」　女神張延狀態回春更勝從前",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192256143510999040405239.jpeg/U5S3F6c6crR66k7CHxp5S4BEMP7HkBvBynZ0Tcp2dE0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404638/%E9%8D%BE%E9%BA%97%E7%B7%B9%E8%88%87%E9%AB%98%E9%A1%8F%E5%80%BC%E7%B4%B0%E5%A5%B3cayla%E7%8F%BE%E8%BA%AB-%E7%88%86%E5%A5%B3%E5%85%92%E8%A2%AB%E6%90%AD%E8%A8%95%E9%86%92%E7%9B%AE%E6%8B%92%E7%B5%95-%E5%94%94%E9%A9%9A%E4%BD%A2%E8%A2%AB%E5%91%83",
     "timestamp": "2026-10-28T15:53:59.435Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026｜T1對MKOI 8強將誕生！最新賽程結果+免費直播連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530743422455808097824.jpeg/PYOIRdZJxr_qiFVUFRO0E9fygW3xNMiRAGVmMgBlZjI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-t1%E5%B0%8Dmkoi-8%E5%BC%B7%E5%B0%87%E8%AA%95%E7%94%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-10-28T15:46:16.924Z",
     "strategy": ".content-card__main"
   }
 ];
