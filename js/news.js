@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T18:19:27.320Z
+// Last updated: 2026-10-28T18:53:32.592Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "以色列大選料無陣營過半　內塔尼亞胡籌組聯合政府困難或需重選",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192297458038738944516749.jpeg/AjcV-__AeXEV3J4CHlaHbxDVV_0b3_CgbCrT52wq0-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404662/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8%E6%96%99%E7%84%A1%E9%99%A3%E7%87%9F%E9%81%8E%E5%8D%8A-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%B1%8C%E7%B5%84%E8%81%AF%E5%90%88%E6%94%BF%E5%BA%9C%E5%9B%B0%E9%9B%A3%E6%88%96%E9%9C%80%E9%87%8D%E9%81%B8",
+    "timestamp": "2026-10-28T18:53:32.592Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國議息｜聯儲局維持利率不變　符市場預期　10：２票數通過決議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192216478955606016628917.jpeg/SIkNhXDuqbPDelIqGJX0GyRrDZ-0L7SdHdfQrjjX0K4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404630/%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF%E5%B9%B4%E5%BA%A6%E8%99%A7%E6%90%8D%E6%93%B4%E5%A4%A7%E8%87%B39%E5%84%84%E5%85%83-%E5%93%A1%E5%B7%A5%E9%96%8B%E6%94%AF%E4%BD%9464-%E6%96%99%E4%BF%9D%E8%AD%B7%E4%B8%BB%E7%BE%A9%E7%AD%89%E6%89%80%E8%87%B4",
     "timestamp": "2026-10-28T13:27:34.634Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "習近平繞過高市早苗向福田康夫遺屬致唁電　日本政府：中方的考量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148950605524373504507419.jpeg/BpJHZx3nQ2nvoY1qpy3XBspbVrSmfk11oWigsaFooLE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404626/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%B9%9E%E9%81%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E7%A6%8F%E7%94%B0%E5%BA%B7%E5%A4%AB%E9%81%BA%E5%B1%AC%E8%87%B4%E5%94%81%E9%9B%BB-%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C-%E4%B8%AD%E6%96%B9%E7%9A%84%E8%80%83%E9%87%8F",
-    "timestamp": "2026-10-28T13:16:48.554Z",
     "strategy": ".content-card__main"
   }
 ];
