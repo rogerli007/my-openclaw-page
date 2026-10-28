@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T23:15:05.584Z
+// Last updated: 2026-10-28T23:43:52.411Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "彭博：巴基斯坦25日以一中政策禁台灣航企飛越領空　28日恢復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122193485584142336890215.jpeg/-wlaHsWDmOvGRfqCjEvHkTtexwEbZqrmLZSnDC2Upww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404669/%E5%BD%AD%E5%8D%9A-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A625%E6%97%A5%E4%BB%A5%E4%B8%80%E4%B8%AD%E6%94%BF%E7%AD%96%E7%A6%81%E5%8F%B0%E7%81%A3%E8%88%AA%E4%BC%81%E9%A3%9B%E8%B6%8A%E9%A0%98%E7%A9%BA-28%E6%97%A5%E6%81%A2%E5%BE%A9",
+    "timestamp": "2026-10-28T23:43:52.411Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國刺激政策失效？聯滙之父︰財政措施效果有限　應加大「放水」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192237065106886656583794.jpeg/aBPIfRlWyBpcTw5FDhcsRMMuQrENjlxLmwl0RJsJdEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404640/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E4%BA%BA%E5%A6%BB%E6%A3%8420%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%83%85%E9%99%B7%E6%B8%A3%E7%94%B7%E6%89%AE%E6%89%8D%E4%BF%8A%E5%91%83%E6%84%9F%E6%83%85-%E8%A9%B1%E5%B9%AB%E9%9C%8D%E9%9C%87%E5%AF%B0%E6%8F%B8%E8%BB%8A",
     "timestamp": "2026-10-28T16:30:31.136Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "筲箕灣爆水管｜修路疑鑿穿喉管致財損　路政署：督促承建商賠償",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191760338500980736390781.jpeg/rjdBT3jsEr75Iy-iwgv31Ioss3gFK9GMOhsmuDobJrg?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404300/%E7%AD%B2%E7%AE%95%E7%81%A3%E7%88%86%E6%B0%B4%E7%AE%A1-%E4%BF%AE%E8%B7%AF%E7%96%91%E9%91%BF%E7%A9%BF%E5%96%89%E7%AE%A1%E8%87%B4%E8%B2%A1%E6%90%8D-%E8%B7%AF%E6%94%BF%E7%BD%B2-%E7%9D%A3%E4%BF%83%E6%89%BF%E5%BB%BA%E5%95%86%E8%B3%A0%E5%84%9F",
-    "timestamp": "2026-10-28T16:18:37.551Z",
     "strategy": ".content-card__main"
   }
 ];
