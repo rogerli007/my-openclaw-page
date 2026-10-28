@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T05:27:55.027Z
+// Last updated: 2026-10-28T05:40:49.630Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣州屋苑近300戶玻璃自爆　業主憂幼童墮樓　發展商稱過保卸責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192099802406457344471520.jpeg/c8AP0tCpCUZnNZdJ3IA2qA6r3k10Z872loXBRJaFwUQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404370/%E5%BB%A3%E5%B7%9E%E5%B1%8B%E8%8B%91%E8%BF%91300%E6%88%B6%E7%8E%BB%E7%92%83%E8%87%AA%E7%88%86-%E6%A5%AD%E4%B8%BB%E6%86%82%E5%B9%BC%E7%AB%A5%E5%A2%AE%E6%A8%93-%E7%99%BC%E5%B1%95%E5%95%86%E7%A8%B1%E9%81%8E%E4%BF%9D%E5%8D%B8%E8%B2%AC",
+    "timestamp": "2026-10-28T05:40:49.630Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "去年3.2萬張亂拋垃圾罰款書　議員倡非經濟處罰　政府稱具阻嚇力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191832477157560320412089.png/O7yrJS-eu97iIGsqiarTl0A2FekVH761yl5krcpeZK0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60387813/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%86%AB%E7%94%9F%E5%A6%BB%E6%98%8F%E8%BF%B7%E5%85%A9%E5%BA%A6%E6%92%A5911-%E7%AD%89%E6%95%91%E8%AD%B7%E8%BB%8A85%E5%88%86%E9%90%98-%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-27T23:14:27.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網上開戰？李力持激動回應田啟文話佢係「雙面人」：我頂你啊田雞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191806324313165824019528.jpeg/h7sXHAKBi8En5cgFEozkJc5fYE7FtP-C8u4R__LuEf8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404113/%E7%B6%B2%E4%B8%8A%E9%96%8B%E6%88%B0-%E6%9D%8E%E5%8A%9B%E6%8C%81%E6%BF%80%E5%8B%95%E5%9B%9E%E6%87%89%E7%94%B0%E5%95%9F%E6%96%87%E8%A9%B1%E4%BD%A2%E4%BF%82-%E9%9B%99%E9%9D%A2%E4%BA%BA-%E6%88%91%E9%A0%82%E4%BD%A0%E5%95%8A%E7%94%B0%E9%9B%9E",
-    "timestamp": "2026-10-27T22:53:40.945Z",
     "strategy": ".content-card__main"
   }
 ];
