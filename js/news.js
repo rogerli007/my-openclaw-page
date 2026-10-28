@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T02:41:58.704Z
+// Last updated: 2026-10-28T02:54:46.907Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重慶2歲童墮亡警不立案　父扔遺物稱已處理狗　妻委託律師再申訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192064249384407040354918.jpeg/vBC3kveTEzbjrkCmexL2fBVtE4YT5KuchmvedIZr3nQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404314/%E9%87%8D%E6%85%B62%E6%AD%B2%E7%AB%A5%E5%A2%AE%E4%BA%A1%E8%AD%A6%E4%B8%8D%E7%AB%8B%E6%A1%88-%E7%88%B6%E6%89%94%E9%81%BA%E7%89%A9%E7%A8%B1%E5%B7%B2%E8%99%95%E7%90%86%E7%8B%97-%E5%A6%BB%E5%A7%94%E8%A8%97%E5%BE%8B%E5%B8%AB%E5%86%8D%E7%94%B3%E8%A8%B4",
+    "timestamp": "2026-10-28T02:54:46.907Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥巴比辱華｜人民日報斥「吃飯砸鍋」　浙江宣傳批不配受追捧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190701542122983424985173.jpeg/l1rtrKfeRUpRIb8evzckbT8zUOaOBEsevYSz172Es9c",
     "url": "https://www.hk01.com/01TV/60403219/%E8%BB%8A%E5%A9%89%E5%A9%89%E6%8B%92%E7%B5%95%E7%95%B6-%E6%98%9F%E4%BA%8C%E4%BB%A3-%E5%A0%85%E6%8C%81%E4%B8%8D%E9%9D%A0%E6%AF%8D%E8%A6%AA%E4%BA%BA%E8%84%88-%E8%A6%81%E6%86%91%E5%AF%A6%E5%8A%9B%E8%B4%8F",
     "timestamp": "2026-10-27T19:53:58.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉拒絕當「星二代」：堅持不靠母親人脈 要憑實力贏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190701542122983424985173.jpeg/l1rtrKfeRUpRIb8evzckbT8zUOaOBEsevYSz172Es9c",
-    "url": "https://www.hk01.com/01TV/60403219/%E8%BB%8A%E5%A9%89%E5%A9%89%E6%8B%92%E7%B5%95%E7%95%B6-%E6%98%9F%E4%BA%8C%E4%BB%A3-%E5%A0%85%E6%8C%81%E4%B8%8D%E9%9D%A0%E6%AF%8D%E8%A6%AA%E4%BA%BA%E8%84%88-%E8%A6%81%E6%86%91%E5%AF%A6%E5%8A%9B%E8%B4%8F",
-    "timestamp": "2026-10-27T19:14:43.813Z",
     "strategy": ".content-card__main"
   }
 ];
