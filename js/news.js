@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T09:30:27.603Z
+// Last updated: 2026-10-28T09:57:11.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙兩列高速列車相撞　至少10死　官員：料進一步上升",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190707454300655616934856.jpeg/usM1K0F_VnNBC--lDSOa9iAXksHga7avuHmOA7h5jgM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404551/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%A9%E5%88%97%E9%AB%98%E9%80%9F%E5%88%97%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%9110%E6%AD%BB-%E5%AE%98%E5%93%A1-%E6%96%99%E9%80%B2%E4%B8%80%E6%AD%A5%E4%B8%8A%E5%8D%87",
+    "timestamp": "2026-10-28T09:57:11.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑報告明出爐　政圈熱議「誰落鑊」　一局長走唔甩？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190247470408404992241876.jpeg/Q_WpwxrPlnZLM3qjsbDN7IGFvh62tkA98gFCU_IBQlM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/60396516/%E6%B8%AF%E8%82%A1%E9%BB%83%E9%87%91etf%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%85%A5%E5%A0%B4%E9%96%80%E6%AA%BB-%E7%AE%A1%E7%90%86%E8%B2%BB-%E9%A2%A8%E9%9A%AA%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-etf%E6%95%99%E5%AE%A4",
     "timestamp": "2026-10-28T03:46:34.381Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "福田康夫逝世｜習近平向遺屬致唁電　冀恪守日中政治文件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189921093692035072185904.png/T5eBGS-1BqCez9daxvtg3-zsccrmidRazj1bcc49W3E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404337/%E7%A6%8F%E7%94%B0%E5%BA%B7%E5%A4%AB%E9%80%9D%E4%B8%96-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%90%91%E9%81%BA%E5%B1%AC%E8%87%B4%E5%94%81%E9%9B%BB-%E5%86%80%E6%81%AA%E5%AE%88%E6%97%A5%E4%B8%AD%E6%94%BF%E6%B2%BB%E6%96%87%E4%BB%B6",
-    "timestamp": "2026-10-28T03:32:26.387Z",
     "strategy": ".content-card__main"
   }
 ];
