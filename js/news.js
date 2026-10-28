@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T04:32:14.272Z
+// Last updated: 2026-10-28T04:42:28.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "193專訪(中)｜為設計爆款交學費 反思香港現在「無公認潮流Icon」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191827924626444288534896.jpeg/vo7F3TExOsaIUkQSVR3Ruu0umup-3CTy3kROXd5ETl0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60401550/193%E5%B0%88%E8%A8%AA-%E4%B8%AD-%E7%82%BA%E8%A8%AD%E8%A8%88%E7%88%86%E6%AC%BE%E4%BA%A4%E5%AD%B8%E8%B2%BB-%E5%8F%8D%E6%80%9D%E9%A6%99%E6%B8%AF%E7%8F%BE%E5%9C%A8-%E7%84%A1%E5%85%AC%E8%AA%8D%E6%BD%AE%E6%B5%81icon",
+    "timestamp": "2026-10-28T04:42:28.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳洲向中國返還2件流失文物　為北宋皇陵文武官頭像",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191822436459352064564017.jpeg/_JF7zbvJ7uJHnd_WCwdv4ysANhZF38vlHEUkORxFJDk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404100/%E8%8C%83%E5%86%B0%E5%86%B0%E7%BD%95%E8%AB%872018%E5%B9%B4%E7%A8%85%E5%8B%99%E9%A2%A8%E6%B3%A2%E4%BD%8E%E8%B0%B7-%E8%A6%AA%E8%87%AA%E5%87%BA%E9%9D%A23%E5%80%8B%E6%9C%88ko%E9%80%BE%E7%99%BE%E4%BB%A3%E8%A8%80%E7%B3%BE%E7%B4%9B",
     "timestamp": "2026-10-27T22:24:25.979Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "范冰冰罕談2018年稅務風波低谷　親自出面3個月KO逾百代言糾紛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191822436459352064564017.jpeg/_JF7zbvJ7uJHnd_WCwdv4ysANhZF38vlHEUkORxFJDk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404100/%E8%8C%83%E5%86%B0%E5%86%B0%E7%BD%95%E8%AB%872018%E5%B9%B4%E7%A8%85%E5%8B%99%E9%A2%A8%E6%B3%A2%E4%BD%8E%E8%B0%B7-%E8%A6%AA%E8%87%AA%E5%87%BA%E9%9D%A23%E5%80%8B%E6%9C%88ko%E9%80%BE%E7%99%BE%E4%BB%A3%E8%A8%80%E7%B3%BE%E7%B4%9B",
-    "timestamp": "2026-10-27T22:14:52.244Z",
     "strategy": ".content-card__main"
   }
 ];
