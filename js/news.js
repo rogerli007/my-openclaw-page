@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T01:02:32.450Z
+// Last updated: 2026-10-28T01:44:02.938Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜蜘蛛男拒認色魔　心理學家李堅翔指當事人恐懼暫難平復",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191866829736251392062193.jpeg/mD5C_0C0UB8tOKKfyRrPCr8G2I2xckYl71elde9XpXU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404225/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%9C%98%E8%9B%9B%E7%94%B7%E6%8B%92%E8%AA%8D%E8%89%B2%E9%AD%94-%E5%BF%83%E7%90%86%E5%AD%B8%E5%AE%B6%E6%9D%8E%E5%A0%85%E7%BF%94%E6%8C%87%E7%95%B6%E4%BA%8B%E4%BA%BA%E6%81%90%E6%87%BC%E6%9A%AB%E9%9B%A3%E5%B9%B3%E5%BE%A9",
+    "timestamp": "2026-10-28T01:44:02.938Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "獨家｜周殷廷《雨夜之徒》執導滿場飛　任達華現身油麻地老態曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130115199508942848039782.jpeg/dLmjj58lseXZh64ch_CePvRSMw8ymDFjFksx8RZLMfE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404247/%E6%8C%AA%E5%A8%81-%E8%8A%AC%E8%98%AD%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E6%99%AE%E4%BA%AC%E9%80%9A%E8%A9%B1-%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8-%E5%89%8A%E5%BC%B1%E6%AD%90%E6%B4%B2%E5%9C%98%E7%B5%90",
     "timestamp": "2026-10-27T18:41:51.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "挪威、芬蘭領導人與普京通話　丹麥首相：削弱歐洲團結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130115199508942848039782.jpeg/dLmjj58lseXZh64ch_CePvRSMw8ymDFjFksx8RZLMfE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404247/%E6%8C%AA%E5%A8%81-%E8%8A%AC%E8%98%AD%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E6%99%AE%E4%BA%AC%E9%80%9A%E8%A9%B1-%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8-%E5%89%8A%E5%BC%B1%E6%AD%90%E6%B4%B2%E5%9C%98%E7%B5%90",
-    "timestamp": "2026-10-27T18:30:33.022Z",
     "strategy": ".content-card__main"
   }
 ];
