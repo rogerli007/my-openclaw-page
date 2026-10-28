@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T05:53:36.218Z
+// Last updated: 2026-10-28T06:26:15.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科大醫學院聘港大梁如鴻被指挖角　葉玉如否認　冀與兩醫學院合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192112422006034432541629.jpeg/aySqIvmfeSBvBZuLYuQtt77EtDZjC1qNrNPyjKzT8ow?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404426/%E7%A7%91%E5%A4%A7%E9%86%AB%E5%AD%B8%E9%99%A2%E8%81%98%E6%B8%AF%E5%A4%A7%E6%A2%81%E5%A6%82%E9%B4%BB%E8%A2%AB%E6%8C%87%E6%8C%96%E8%A7%92-%E8%91%89%E7%8E%89%E5%A6%82%E5%90%A6%E8%AA%8D-%E5%86%80%E8%88%87%E5%85%A9%E9%86%AB%E5%AD%B8%E9%99%A2%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-10-28T06:26:15.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫衞局：截至今年9月底　523名大灣區醫護參加人才交流計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192013428173049856539472.jpeg/n2zMO42bXXlFF4wLvoDJXMa0oozvi--qfpRUnX6UVJ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404257/%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A9%AD-%E4%BF%84%E7%83%8F%E5%A5%A7%E5%88%97%E4%BB%80%E5%9F%BA%E5%81%9C%E7%81%AB%E6%8F%90%E5%89%8D2%E6%97%A5%E7%94%9F%E6%95%88-%E7%AF%84%E5%9C%8D%E5%B7%B2%E6%93%B4%E5%A4%A7",
     "timestamp": "2026-10-27T23:41:00.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加拿大醫生妻昏迷兩度撥911　等救護車85分鐘　心臟驟停送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191832477157560320412089.png/O7yrJS-eu97iIGsqiarTl0A2FekVH761yl5krcpeZK0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60387813/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%86%AB%E7%94%9F%E5%A6%BB%E6%98%8F%E8%BF%B7%E5%85%A9%E5%BA%A6%E6%92%A5911-%E7%AD%89%E6%95%91%E8%AD%B7%E8%BB%8A85%E5%88%86%E9%90%98-%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-27T23:23:44.471Z",
     "strategy": ".content-card__main"
   }
 ];
