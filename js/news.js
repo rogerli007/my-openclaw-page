@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T21:24:18.175Z
+// Last updated: 2026-10-28T21:40:49.117Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LOL世界賽2026｜T1對MKOI 8強將誕生！最新賽程結果+免費直播連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530743422455808097824.jpeg/PYOIRdZJxr_qiFVUFRO0E9fygW3xNMiRAGVmMgBlZjI?v=w1920",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-t1%E5%B0%8Dmkoi-8%E5%BC%B7%E5%B0%87%E8%AA%95%E7%94%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
+    "timestamp": "2026-10-28T21:40:49.117Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美日防長同意合作構建「第一島鏈」防禦體系　日媒：為遏制中國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192150134801043456982056.png/4zyX_jyuzV6Re4uO7JeUpBc86KYIag_Z95MEmfeTBJk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404479/%E5%8A%89%E6%BF%A4%E9%81%AD%E5%93%81%E7%89%8C%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%B9%B9%E8%B1%AC%E6%89%8B-%E8%A7%B8%E7%A2%B0%E8%83%B8%E9%83%A8%E6%91%9F%E8%85%B0-%E6%9C%89%E5%A4%9A%E4%BD%8D%E5%A5%B3%E6%98%9F%E5%8F%97%E5%AE%B3%E7%96%91%E6%85%A3%E7%8A%AF",
     "timestamp": "2026-10-28T14:54:25.921Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉濤遭品牌創始人鹹豬手「觸碰胸部摟腰」　有多位女星受害疑慣犯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192150134801043456982056.png/4zyX_jyuzV6Re4uO7JeUpBc86KYIag_Z95MEmfeTBJk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404479/%E5%8A%89%E6%BF%A4%E9%81%AD%E5%93%81%E7%89%8C%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%B9%B9%E8%B1%AC%E6%89%8B-%E8%A7%B8%E7%A2%B0%E8%83%B8%E9%83%A8%E6%91%9F%E8%85%B0-%E6%9C%89%E5%A4%9A%E4%BD%8D%E5%A5%B3%E6%98%9F%E5%8F%97%E5%AE%B3%E7%96%91%E6%85%A3%E7%8A%AF",
-    "timestamp": "2026-10-28T14:40:30.350Z",
     "strategy": ".content-card__main"
   }
 ];
