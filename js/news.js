@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T11:25:55.249Z
+// Last updated: 2026-10-28T12:44:39.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜蔣家旻鴛鴦浴未算最癲　過去曾兩次極大尺度從後被擒胸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192185801748779008965234.jpeg/Fdq5xLaYWD4l5qAsfhYV-uLSuTsof9dqGD4nTBg-J0w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404598/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E8%94%A3%E5%AE%B6%E6%97%BB%E9%B4%9B%E9%B4%A6%E6%B5%B4%E6%9C%AA%E7%AE%97%E6%9C%80%E7%99%B2-%E9%81%8E%E5%8E%BB%E6%9B%BE%E5%85%A9%E6%AC%A1%E6%A5%B5%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%BE%9E%E5%BE%8C%E8%A2%AB%E6%93%92%E8%83%B8",
+    "timestamp": "2026-10-28T12:44:39.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "皇崗口岸塞車｜深圳灣口岸萬聖節會否延長開放？陳國基：商討中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192099802406457344471520.jpeg/c8AP0tCpCUZnNZdJ3IA2qA6r3k10Z872loXBRJaFwUQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404370/%E5%BB%A3%E5%B7%9E%E5%B1%8B%E8%8B%91%E8%BF%91300%E6%88%B6%E7%8E%BB%E7%92%83%E8%87%AA%E7%88%86-%E6%A5%AD%E4%B8%BB%E6%86%82%E5%B9%BC%E7%AB%A5%E5%A2%AE%E6%A8%93-%E7%99%BC%E5%B1%95%E5%95%86%E7%A8%B1%E9%81%8E%E4%BF%9D%E5%8D%B8%E8%B2%AC",
     "timestamp": "2026-10-28T05:40:49.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "去年3.2萬張亂拋垃圾罰款書　議員倡非經濟處罰　政府稱具阻嚇力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192090649004871680031752.jpeg/HeQgrvbpV1xfrO1eaVMpy52x_qGV5denknNtFJJzbRQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404388/%E5%8E%BB%E5%B9%B43-2%E8%90%AC%E5%BC%B5%E4%BA%82%E6%8B%8B%E5%9E%83%E5%9C%BE%E7%BD%B0%E6%AC%BE%E6%9B%B8-%E8%AD%B0%E5%93%A1%E5%80%A1%E9%9D%9E%E7%B6%93%E6%BF%9F%E8%99%95%E7%BD%B0-%E6%94%BF%E5%BA%9C%E7%A8%B1%E5%85%B7%E9%98%BB%E5%9A%87%E5%8A%9B",
-    "timestamp": "2026-10-28T05:27:55.027Z",
     "strategy": ".content-card__main"
   }
 ];
