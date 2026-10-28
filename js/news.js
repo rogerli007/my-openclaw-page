@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T03:18:39.501Z
+// Last updated: 2026-10-28T03:32:26.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "福田康夫逝世｜習近平向遺屬致唁電　冀恪守日中政治文件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189921093692035072185904.png/T5eBGS-1BqCez9daxvtg3-zsccrmidRazj1bcc49W3E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404337/%E7%A6%8F%E7%94%B0%E5%BA%B7%E5%A4%AB%E9%80%9D%E4%B8%96-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%90%91%E9%81%BA%E5%B1%AC%E8%87%B4%E5%94%81%E9%9B%BB-%E5%86%80%E6%81%AA%E5%AE%88%E6%97%A5%E4%B8%AD%E6%94%BF%E6%B2%BB%E6%96%87%E4%BB%B6",
+    "timestamp": "2026-10-28T03:32:26.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "近視可抵消老花？成因＋症狀＋矯視方法及費用　滴眼藥水都得？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190702308896280576608173.jpeg/l5zzalI3nGSQs53E6kYgkqv6Dw8sTfzIs_FCBLPxQgQ",
     "url": "https://www.hk01.com/01TV/60403222/%E9%9D%A2%E5%B0%8D%E5%AA%BD%E5%AA%BD%E7%94%9F%E7%97%85%E9%9B%A2%E4%B8%96-%E8%BB%8A%E5%A9%89%E5%A9%89%E6%98%AF%E5%85%A7%E8%A3%A1%E7%A0%B4%E7%A2%8E-%E5%BF%83%E6%9C%89%E9%A4%98%E9%9C%87",
     "timestamp": "2026-10-27T20:28:06.171Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "面對媽媽生病離世 車婉婉是內裡破碎 心有餘震",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190702308896280576608173.jpeg/l5zzalI3nGSQs53E6kYgkqv6Dw8sTfzIs_FCBLPxQgQ",
-    "url": "https://www.hk01.com/01TV/60403222/%E9%9D%A2%E5%B0%8D%E5%AA%BD%E5%AA%BD%E7%94%9F%E7%97%85%E9%9B%A2%E4%B8%96-%E8%BB%8A%E5%A9%89%E5%A9%89%E6%98%AF%E5%85%A7%E8%A3%A1%E7%A0%B4%E7%A2%8E-%E5%BF%83%E6%9C%89%E9%A4%98%E9%9C%87",
-    "timestamp": "2026-10-27T20:17:38.524Z",
     "strategy": ".content-card__main"
   }
 ];
