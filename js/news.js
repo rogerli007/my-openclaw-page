@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T18:53:32.592Z
+// Last updated: 2026-10-28T19:24:19.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車婉婉人生最崩潰時刻：頂著母親的名聲 砸光積蓄清還巨債",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190704743496814592570236.jpeg/2vbfVM7CFHYU-bdg1UqLxhehipdRNVFg54d96OeHfeg",
+    "url": "https://www.hk01.com/01TV/60403226/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%BA%BA%E7%94%9F%E6%9C%80%E5%B4%A9%E6%BD%B0%E6%99%82%E5%88%BB-%E9%A0%82%E8%91%97%E6%AF%8D%E8%A6%AA%E7%9A%84%E5%90%8D%E8%81%B2-%E7%A0%B8%E5%85%89%E7%A9%8D%E8%93%84%E6%B8%85%E9%82%84%E5%B7%A8%E5%82%B5",
+    "timestamp": "2026-10-28T19:24:19.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列大選料無陣營過半　內塔尼亞胡籌組聯合政府困難或需重選",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192225975207727104183704.jpeg/Hy7YvWhQM-NMZF7GLUHIUPMeW0yNz_tCRI65qn6Ouao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60404636/%E9%82%B1%E5%A3%AB%E7%B8%89%E7%82%BA%E7%BC%BA%E5%B8%AD%E5%A9%9A%E7%A6%AE%E5%85%84%E5%BC%9F%E8%A7%A3%E7%95%AB-ak%E7%95%B6%E6%97%A5%E6%9C%89%E5%B7%A5%E4%BD%9C-%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%9C%89%E8%89%AF%E5%A5%BD%E6%BA%9D%E9%80%9A",
     "timestamp": "2026-10-28T13:40:39.956Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港郵政年度虧損擴大至9億元　員工開支佔64%　料保護主義等所致",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192216478955606016628917.jpeg/SIkNhXDuqbPDelIqGJX0GyRrDZ-0L7SdHdfQrjjX0K4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404630/%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF%E5%B9%B4%E5%BA%A6%E8%99%A7%E6%90%8D%E6%93%B4%E5%A4%A7%E8%87%B39%E5%84%84%E5%85%83-%E5%93%A1%E5%B7%A5%E9%96%8B%E6%94%AF%E4%BD%9464-%E6%96%99%E4%BF%9D%E8%AD%B7%E4%B8%BB%E7%BE%A9%E7%AD%89%E6%89%80%E8%87%B4",
-    "timestamp": "2026-10-28T13:27:34.634Z",
     "strategy": ".content-card__main"
   }
 ];
