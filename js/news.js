@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T11:15:14.813Z
+// Last updated: 2026-10-28T11:25:55.249Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇崗口岸塞車｜深圳灣口岸萬聖節會否延長開放？陳國基：商討中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190818535853527040741268.jpeg/u4zm3hRG8Tnvm6FzCMMzfngmx8bnAWTERE12oWFNdqE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404530/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%A1%9E%E8%BB%8A-%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E8%90%AC%E8%81%96%E7%AF%80%E6%9C%83%E5%90%A6%E5%BB%B6%E9%95%B7%E9%96%8B%E6%94%BE-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E5%95%86%E8%A8%8E%E4%B8%AD",
+    "timestamp": "2026-10-28T11:25:55.249Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓國最高法院追加逮捕令　前總統夫人金建希扣押至年底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192090649004871680031752.jpeg/HeQgrvbpV1xfrO1eaVMpy52x_qGV5denknNtFJJzbRQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404388/%E5%8E%BB%E5%B9%B43-2%E8%90%AC%E5%BC%B5%E4%BA%82%E6%8B%8B%E5%9E%83%E5%9C%BE%E7%BD%B0%E6%AC%BE%E6%9B%B8-%E8%AD%B0%E5%93%A1%E5%80%A1%E9%9D%9E%E7%B6%93%E6%BF%9F%E8%99%95%E7%BD%B0-%E6%94%BF%E5%BA%9C%E7%A8%B1%E5%85%B7%E9%98%BB%E5%9A%87%E5%8A%9B",
     "timestamp": "2026-10-28T05:27:55.027Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "193專訪(中)｜為設計爆款交學費 反思香港現在「無公認潮流Icon」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191827924626444288534896.jpeg/vo7F3TExOsaIUkQSVR3Ruu0umup-3CTy3kROXd5ETl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60401550/193%E5%B0%88%E8%A8%AA-%E4%B8%AD-%E7%82%BA%E8%A8%AD%E8%A8%88%E7%88%86%E6%AC%BE%E4%BA%A4%E5%AD%B8%E8%B2%BB-%E5%8F%8D%E6%80%9D%E9%A6%99%E6%B8%AF%E7%8F%BE%E5%9C%A8-%E7%84%A1%E5%85%AC%E8%AA%8D%E6%BD%AE%E6%B5%81icon",
-    "timestamp": "2026-10-28T04:53:54.812Z",
     "strategy": ".content-card__main"
   }
 ];
