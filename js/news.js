@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T15:46:16.924Z
+// Last updated: 2026-10-28T15:53:59.435Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾麗緹與高顏值細女Cayla現身 爆女兒被搭訕醒目拒絕：唔驚佢被呃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192256143510999040405239.jpeg/U5S3F6c6crR66k7CHxp5S4BEMP7HkBvBynZ0Tcp2dE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404638/%E9%8D%BE%E9%BA%97%E7%B7%B9%E8%88%87%E9%AB%98%E9%A1%8F%E5%80%BC%E7%B4%B0%E5%A5%B3cayla%E7%8F%BE%E8%BA%AB-%E7%88%86%E5%A5%B3%E5%85%92%E8%A2%AB%E6%90%AD%E8%A8%95%E9%86%92%E7%9B%AE%E6%8B%92%E7%B5%95-%E5%94%94%E9%A9%9A%E4%BD%A2%E8%A2%AB%E5%91%83",
+    "timestamp": "2026-10-28T15:53:59.435Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LOL世界賽2026｜T1對MKOI 8強將誕生！最新賽程結果+免費直播連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190707454300655616934856.jpeg/usM1K0F_VnNBC--lDSOa9iAXksHga7avuHmOA7h5jgM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404551/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%A9%E5%88%97%E9%AB%98%E9%80%9F%E5%88%97%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%9110%E6%AD%BB-%E5%AE%98%E5%93%A1-%E6%96%99%E9%80%B2%E4%B8%80%E6%AD%A5%E4%B8%8A%E5%8D%87",
     "timestamp": "2026-10-28T09:57:11.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑報告明出爐　政圈熱議「誰落鑊」　一局長走唔甩？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189912057751801856312957.jpeg/z4qJaj8MEE9IGUl0otmPTCcTYJSRrv1HN5FjSjeRY0o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404514/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A0%B1%E5%91%8A%E6%98%8E%E5%87%BA%E7%88%90-%E6%94%BF%E5%9C%88%E7%86%B1%E8%AD%B0-%E8%AA%B0%E8%90%BD%E9%91%8A-%E4%B8%80%E5%B1%80%E9%95%B7%E8%B5%B0%E5%94%94%E7%94%A9",
-    "timestamp": "2026-10-28T09:30:27.603Z",
     "strategy": ".content-card__main"
   }
 ];
