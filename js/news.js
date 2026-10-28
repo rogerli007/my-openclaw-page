@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T02:21:21.398Z
+// Last updated: 2026-10-28T02:41:58.704Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥巴比辱華｜人民日報斥「吃飯砸鍋」　浙江宣傳批不配受追捧",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192056619899293696108976.jpeg/yi8BXtpzfgQPd5dmRpQDJBQIcqHSdfygP-WfcT_ln3E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60404283/%E9%BA%A5%E5%B7%B4%E6%AF%94%E8%BE%B1%E8%8F%AF-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%E6%96%A5-%E5%90%83%E9%A3%AF%E7%A0%B8%E9%8D%8B-%E6%B5%99%E6%B1%9F%E5%AE%A3%E5%82%B3%E6%89%B9%E4%B8%8D%E9%85%8D%E5%8F%97%E8%BF%BD%E6%8D%A7",
+    "timestamp": "2026-10-28T02:41:58.704Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日外相：正協調首相高市早苗出席下月深圳APEC會議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190701542122983424985173.jpeg/l1rtrKfeRUpRIb8evzckbT8zUOaOBEsevYSz172Es9c",
     "url": "https://www.hk01.com/01TV/60403219/%E8%BB%8A%E5%A9%89%E5%A9%89%E6%8B%92%E7%B5%95%E7%95%B6-%E6%98%9F%E4%BA%8C%E4%BB%A3-%E5%A0%85%E6%8C%81%E4%B8%8D%E9%9D%A0%E6%AF%8D%E8%A6%AA%E4%BA%BA%E8%84%88-%E8%A6%81%E6%86%91%E5%AF%A6%E5%8A%9B%E8%B4%8F",
     "timestamp": "2026-10-27T19:14:43.813Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "漫畫巨匠千葉徹彌病逝享年87歲　《鐵拳浪子》燃燒殆盡一幕成經典",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191937521039183872728510.jpeg/_l0QeXEXgTubQuk1_3tvF5h1spe0QQ8ElbQAwZW0AME?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404249/%E6%BC%AB%E7%95%AB%E5%B7%A8%E5%8C%A0%E5%8D%83%E8%91%89%E5%BE%B9%E5%BD%8C%E7%97%85%E9%80%9D%E4%BA%AB%E5%B9%B487%E6%AD%B2-%E9%90%B5%E6%8B%B3%E6%B5%AA%E5%AD%90-%E7%87%83%E7%87%92%E6%AE%86%E7%9B%A1%E4%B8%80%E5%B9%95%E6%88%90%E7%B6%93%E5%85%B8",
-    "timestamp": "2026-10-27T18:53:38.553Z",
     "strategy": ".content-card__main"
   }
 ];
