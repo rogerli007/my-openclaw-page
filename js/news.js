@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T13:27:34.634Z
+// Last updated: 2026-10-28T13:40:39.956Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "邱士縉為缺席婚禮兄弟解畫　AK當日有工作：大家都有良好溝通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192225975207727104183704.jpeg/Hy7YvWhQM-NMZF7GLUHIUPMeW0yNz_tCRI65qn6Ouao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60404636/%E9%82%B1%E5%A3%AB%E7%B8%89%E7%82%BA%E7%BC%BA%E5%B8%AD%E5%A9%9A%E7%A6%AE%E5%85%84%E5%BC%9F%E8%A7%A3%E7%95%AB-ak%E7%95%B6%E6%97%A5%E6%9C%89%E5%B7%A5%E4%BD%9C-%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%9C%89%E8%89%AF%E5%A5%BD%E6%BA%9D%E9%80%9A",
+    "timestamp": "2026-10-28T13:40:39.956Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港郵政年度虧損擴大至9億元　員工開支佔64%　料保護主義等所致",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192106840704421888215078.jpeg/IvIFxD63kUr7VXztwYP9dTMaJOxkE7fQA8s8wwPLPMM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404389/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E7%81%B0%E8%A1%AB%E7%94%B7%E4%BE%BF%E5%88%A9%E5%BA%97%E8%A1%8C%E7%AB%8A%E4%BA%8B%E6%95%97%E8%A2%AB%E5%BA%97%E5%93%A1%E6%96%B7%E6%AD%A3-%E5%90%8C%E4%BA%8B%E5%88%B0%E5%A0%B4%E4%BA%86%E8%A7%A3",
     "timestamp": "2026-10-28T06:57:11.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片︱屯門灰衫男便利店行竊事敗被店員斷正　同事到場了解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192106840704421888215078.jpeg/IvIFxD63kUr7VXztwYP9dTMaJOxkE7fQA8s8wwPLPMM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404389/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E7%81%B0%E8%A1%AB%E7%94%B7%E4%BE%BF%E5%88%A9%E5%BA%97%E8%A1%8C%E7%AB%8A%E4%BA%8B%E6%95%97%E8%A2%AB%E5%BA%97%E5%93%A1%E6%96%B7%E6%AD%A3-%E5%90%8C%E4%BA%8B%E5%88%B0%E5%A0%B4%E4%BA%86%E8%A7%A3",
-    "timestamp": "2026-10-28T06:47:51.057Z",
     "strategy": ".content-card__main"
   }
 ];
