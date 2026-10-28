@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T14:54:25.921Z
+// Last updated: 2026-10-28T15:17:07.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國宣布禁止華大系三企業產品進口　指控涉強迫勞動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230828/772766376816283648312564.jpeg/zbAeolgRaR-QP2oyKbLuYcKCPTJstly33KGUG9yhlBs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404642/%E7%BE%8E%E5%9C%8B%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E8%8F%AF%E5%A4%A7%E7%B3%BB%E4%B8%89%E4%BC%81%E6%A5%AD%E7%94%A2%E5%93%81%E9%80%B2%E5%8F%A3-%E6%8C%87%E6%8E%A7%E6%B6%89%E5%BC%B7%E8%BF%AB%E5%8B%9E%E5%8B%95",
+    "timestamp": "2026-10-28T15:17:07.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉濤遭品牌創始人鹹豬手「觸碰胸部摟腰」　有多位女星受害疑慣犯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192084086953349120284109.png/A-vEG4kZFM0WKWo1zJvVeQKS-efHwpTsNCXhzDQl4cw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404340/%E5%AD%AB%E5%84%B7%E7%BD%95%E5%9B%9E%E6%87%89%E8%88%87%E9%84%A7%E8%B6%85%E9%9B%A2%E5%A9%9A%E5%82%B3%E8%81%9E-%E7%B5%A6%E5%A5%B3%E5%85%92%E5%AE%89%E5%85%A8%E6%84%9F-%E6%8F%AD%E5%A4%AB%E5%A6%BB%E7%A7%81%E4%B8%8B%E7%9B%B8%E8%99%95%E6%A8%A1%E5%BC%8F",
     "timestamp": "2026-10-28T09:18:51.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭希怡驚傳再度生B急澄清生母身份　遭網民批助長外傭懷孕風氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192136060050608128125974.jpeg/0HuBggd1pELEdNxwycDobj-f416oq11GPC7Z4jwu2eI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404444/%E9%84%AD%E5%B8%8C%E6%80%A1%E9%A9%9A%E5%82%B3%E5%86%8D%E5%BA%A6%E7%94%9Fb%E6%80%A5%E6%BE%84%E6%B8%85%E7%94%9F%E6%AF%8D%E8%BA%AB%E4%BB%BD-%E9%81%AD%E7%B6%B2%E6%B0%91%E6%89%B9%E5%8A%A9%E9%95%B7%E5%A4%96%E5%82%AD%E6%87%B7%E5%AD%95%E9%A2%A8%E6%B0%A3",
-    "timestamp": "2026-10-28T08:53:19.858Z",
     "strategy": ".content-card__main"
   }
 ];
