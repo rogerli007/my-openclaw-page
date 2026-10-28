@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T15:53:59.435Z
+// Last updated: 2026-10-28T16:18:37.551Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "筲箕灣爆水管｜修路疑鑿穿喉管致財損　路政署：督促承建商賠償",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191760338500980736390781.jpeg/rjdBT3jsEr75Iy-iwgv31Ioss3gFK9GMOhsmuDobJrg?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404300/%E7%AD%B2%E7%AE%95%E7%81%A3%E7%88%86%E6%B0%B4%E7%AE%A1-%E4%BF%AE%E8%B7%AF%E7%96%91%E9%91%BF%E7%A9%BF%E5%96%89%E7%AE%A1%E8%87%B4%E8%B2%A1%E6%90%8D-%E8%B7%AF%E6%94%BF%E7%BD%B2-%E7%9D%A3%E4%BF%83%E6%89%BF%E5%BB%BA%E5%95%86%E8%B3%A0%E5%84%9F",
+    "timestamp": "2026-10-28T16:18:37.551Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾麗緹與高顏值細女Cayla現身 爆女兒被搭訕醒目拒絕：唔驚佢被呃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192155459109261312129875.jpeg/09CKD9ETeu1pzMigdFTn8fpKisoKcOETEwQ1PhMENT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404518/benz%E9%9B%84-%E8%A8%B1%E7%B4%B9%E9%9B%84%E9%9B%A2%E4%B8%96%E4%B8%80%E5%91%A8%E5%B9%B4ai%E7%9F%AD%E7%89%87%E9%87%8D%E7%8F%BE%E9%9F%B3%E5%AE%B9-%E5%B9%BD%E9%BB%98%E5%A0%B1%E5%B9%B3%E5%AE%89%E6%83%B9%E5%85%A8%E7%B6%B2%E6%B7%9A%E5%B4%A9",
     "timestamp": "2026-10-28T10:20:36.698Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙兩列高速列車相撞　至少10死　官員：料進一步上升",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190707454300655616934856.jpeg/usM1K0F_VnNBC--lDSOa9iAXksHga7avuHmOA7h5jgM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404551/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%A9%E5%88%97%E9%AB%98%E9%80%9F%E5%88%97%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%9110%E6%AD%BB-%E5%AE%98%E5%93%A1-%E6%96%99%E9%80%B2%E4%B8%80%E6%AD%A5%E4%B8%8A%E5%8D%87",
-    "timestamp": "2026-10-28T09:57:11.269Z",
     "strategy": ".content-card__main"
   }
 ];
