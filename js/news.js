@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T03:32:26.387Z
+// Last updated: 2026-10-28T03:46:34.381Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港股黃金ETF懶人包　入場門檻、管理費 + 風險一文看清｜ETF教室",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190247470408404992241876.jpeg/Q_WpwxrPlnZLM3qjsbDN7IGFvh62tkA98gFCU_IBQlM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/60396516/%E6%B8%AF%E8%82%A1%E9%BB%83%E9%87%91etf%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%85%A5%E5%A0%B4%E9%96%80%E6%AA%BB-%E7%AE%A1%E7%90%86%E8%B2%BB-%E9%A2%A8%E9%9A%AA%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-etf%E6%95%99%E5%AE%A4",
+    "timestamp": "2026-10-28T03:46:34.381Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "福田康夫逝世｜習近平向遺屬致唁電　冀恪守日中政治文件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191974326673346560763925.jpeg/ItqSIBKRA5Llt0ShrXzl-BTqIv3pq4eG9S0UzvUtFM4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404256/%E6%B8%AF%E9%90%B5%E8%91%B5%E8%8A%B3%E7%AB%99%E8%80%81%E9%BC%A0%E7%B4%AE%E7%B4%AE%E8%B7%B3-%E8%A7%80%E5%A1%98%E9%BC%A0%E7%BE%A4-%E6%8D%90%E6%B0%B4%E9%A6%AC-%E7%B6%B2%E6%B0%91-%E5%A4%B1%E6%99%92%E6%8E%A7-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-27T21:14:32.170Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "面對媽媽生病離世 車婉婉是內裡破碎 心有餘震",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190702308896280576608173.jpeg/l5zzalI3nGSQs53E6kYgkqv6Dw8sTfzIs_FCBLPxQgQ",
-    "url": "https://www.hk01.com/01TV/60403222/%E9%9D%A2%E5%B0%8D%E5%AA%BD%E5%AA%BD%E7%94%9F%E7%97%85%E9%9B%A2%E4%B8%96-%E8%BB%8A%E5%A9%89%E5%A9%89%E6%98%AF%E5%85%A7%E8%A3%A1%E7%A0%B4%E7%A2%8E-%E5%BF%83%E6%9C%89%E9%A4%98%E9%9C%87",
-    "timestamp": "2026-10-27T20:28:06.171Z",
     "strategy": ".content-card__main"
   }
 ];
