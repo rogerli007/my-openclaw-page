@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T10:27:58.691Z
+// Last updated: 2026-10-28T10:43:47.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公務員退休金承擔破9千億　華員會籲勿眼紅：長糧如阿媽幫儲利是",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230518/735751886002458624257069.jpeg/W9xYXx8V3aomPB8rFupXW9I6pOYoNBJhwDDWFNow1hQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404525/%E5%85%AC%E5%8B%99%E5%93%A1%E9%80%80%E4%BC%91%E9%87%91%E6%89%BF%E6%93%94%E7%A0%B49%E5%8D%83%E5%84%84-%E8%8F%AF%E5%93%A1%E6%9C%83%E7%B1%B2%E5%8B%BF%E7%9C%BC%E7%B4%85-%E9%95%B7%E7%B3%A7%E5%A6%82%E9%98%BF%E5%AA%BD%E5%B9%AB%E5%84%B2%E5%88%A9%E6%98%AF",
+    "timestamp": "2026-10-28T10:43:47.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關消防大窩坪配水庫搗非法油站　拘兩男檢220公升未完稅汽油",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192084887234940928302985.jpeg/6recmYTL5zYCVpFZ7s6-8KKgrJm80u2wyx0Xl8sdF5c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60404364/%E6%BE%B3%E6%B4%B2%E5%90%91%E4%B8%AD%E5%9C%8B%E8%BF%94%E9%82%842%E4%BB%B6%E6%B5%81%E5%A4%B1%E6%96%87%E7%89%A9-%E7%82%BA%E5%8C%97%E5%AE%8B%E7%9A%87%E9%99%B5%E6%96%87%E6%AD%A6%E5%AE%98%E9%A0%AD%E5%83%8F",
     "timestamp": "2026-10-28T04:32:14.272Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最慘六合彩│港女買複式「完美錯開」頭獎號碼　網民驚：慘過唔中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192086279412518912428739.jpeg/fSkQRDbLCqbLRQfA6NjFfv6pY12-gnyVwiKuNcIirjU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404332/%E6%9C%80%E6%85%98%E5%85%AD%E5%90%88%E5%BD%A9-%E6%B8%AF%E5%A5%B3%E8%B2%B7%E8%A4%87%E5%BC%8F-%E5%AE%8C%E7%BE%8E%E9%8C%AF%E9%96%8B-%E9%A0%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E7%B6%B2%E6%B0%91%E9%A9%9A-%E6%85%98%E9%81%8E%E5%94%94%E4%B8%AD",
-    "timestamp": "2026-10-28T04:18:51.269Z",
     "strategy": ".content-card__main"
   }
 ];
