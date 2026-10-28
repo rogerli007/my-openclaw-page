@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-27T23:54:03.331Z
+// Last updated: 2026-10-28T00:37:00.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "善男信女｜楊偉倫演親密戲感尷尬　鍾雪瑩望跟《阿爹》一樣過千萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191927014508990464238594.jpeg/YTK5JHYWFkBsbiv3HmTQmfkEz-fXBQNSZoENAmaBDQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60404245/%E5%96%84%E7%94%B7%E4%BF%A1%E5%A5%B3-%E6%A5%8A%E5%81%89%E5%80%AB%E6%BC%94%E8%A6%AA%E5%AF%86%E6%88%B2%E6%84%9F%E5%B0%B7%E5%B0%AC-%E9%8D%BE%E9%9B%AA%E7%91%A9%E6%9C%9B%E8%B7%9F-%E9%98%BF%E7%88%B9-%E4%B8%80%E6%A8%A3%E9%81%8E%E5%8D%83%E8%90%AC",
+    "timestamp": "2026-10-28T00:37:00.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅拉尼婭：俄烏奧列什基停火提前2日生效　範圍已擴大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190700520801570816759248.jpeg/9fTkgzZvG4wyIfYAhR17BQ70b98uq4kooue396Lnt_c",
     "url": "https://www.hk01.com/01TV/60403214/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3-%E8%AE%93%E8%BB%8A%E5%A9%89%E5%A9%89%E6%88%90%E5%8A%9F%E5%85%A5%E5%B1%8B-%E5%87%BA%E5%88%B0%E8%A1%97%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%A6%BA%E5%BE%97%E6%88%91%E5%A5%BD%E7%86%9F%E6%82%89",
     "timestamp": "2026-10-27T18:18:03.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安達臣男工推電單車　剷單車徑遇警阻止　大喝：企咁埋做咩｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191921169905750016521798.jpeg/GltEDp5_1Iputr2mmMUHSg8-JYciPXgVwBF_wsARf8I",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404243/%E5%AE%89%E9%81%94%E8%87%A3%E7%94%B7%E5%B7%A5%E6%8E%A8%E9%9B%BB%E5%96%AE%E8%BB%8A-%E5%89%B7%E5%96%AE%E8%BB%8A%E5%BE%91%E9%81%87%E8%AD%A6%E9%98%BB%E6%AD%A2-%E5%A4%A7%E5%96%9D-%E4%BC%81%E5%92%81%E5%9F%8B%E5%81%9A%E5%92%A9-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-27T17:54:06.799Z",
     "strategy": ".content-card__main"
   }
 ];
