@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T21:40:49.117Z
+// Last updated: 2026-10-28T22:25:47.007Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日初時有一兩陣微雨　日間漸轉天晴乾燥　最高約29度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192355581260861440679504.jpeg/t9QVDJVD7WJqFLHg13T3DWTQNDX0pRnM4r2STOK9kkw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60404658/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A5%E9%96%93%E6%BC%B8%E8%BD%89%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6",
+    "timestamp": "2026-10-28T22:25:47.007Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LOL世界賽2026｜T1對MKOI 8強將誕生！最新賽程結果+免費直播連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230828/772766376816283648312564.jpeg/zbAeolgRaR-QP2oyKbLuYcKCPTJstly33KGUG9yhlBs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404642/%E7%BE%8E%E5%9C%8B%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E8%8F%AF%E5%A4%A7%E7%B3%BB%E4%B8%89%E4%BC%81%E6%A5%AD%E7%94%A2%E5%93%81%E9%80%B2%E5%8F%A3-%E6%8C%87%E6%8E%A7%E6%B6%89%E5%BC%B7%E8%BF%AB%E5%8B%9E%E5%8B%95",
     "timestamp": "2026-10-28T15:17:07.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉濤遭品牌創始人鹹豬手「觸碰胸部摟腰」　有多位女星受害疑慣犯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192150134801043456982056.png/4zyX_jyuzV6Re4uO7JeUpBc86KYIag_Z95MEmfeTBJk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404479/%E5%8A%89%E6%BF%A4%E9%81%AD%E5%93%81%E7%89%8C%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%B9%B9%E8%B1%AC%E6%89%8B-%E8%A7%B8%E7%A2%B0%E8%83%B8%E9%83%A8%E6%91%9F%E8%85%B0-%E6%9C%89%E5%A4%9A%E4%BD%8D%E5%A5%B3%E6%98%9F%E5%8F%97%E5%AE%B3%E7%96%91%E6%85%A3%E7%8A%AF",
-    "timestamp": "2026-10-28T14:54:25.921Z",
     "strategy": ".content-card__main"
   }
 ];
