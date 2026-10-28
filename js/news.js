@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T03:53:43.403Z
+// Last updated: 2026-10-28T04:18:51.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最慘六合彩│港女買複式「完美錯開」頭獎號碼　網民驚：慘過唔中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192086279412518912428739.jpeg/fSkQRDbLCqbLRQfA6NjFfv6pY12-gnyVwiKuNcIirjU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404332/%E6%9C%80%E6%85%98%E5%85%AD%E5%90%88%E5%BD%A9-%E6%B8%AF%E5%A5%B3%E8%B2%B7%E8%A4%87%E5%BC%8F-%E5%AE%8C%E7%BE%8E%E9%8C%AF%E9%96%8B-%E9%A0%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E7%B6%B2%E6%B0%91%E9%A9%9A-%E6%85%98%E9%81%8E%E5%94%94%E4%B8%AD",
+    "timestamp": "2026-10-28T04:18:51.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣州27歲女赴清邁會網友失聯　雙方互備禮物對方承諾送iPhone 18",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191974326673346560763925.jpeg/ItqSIBKRA5Llt0ShrXzl-BTqIv3pq4eG9S0UzvUtFM4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404256/%E6%B8%AF%E9%90%B5%E8%91%B5%E8%8A%B3%E7%AB%99%E8%80%81%E9%BC%A0%E7%B4%AE%E7%B4%AE%E8%B7%B3-%E8%A7%80%E5%A1%98%E9%BC%A0%E7%BE%A4-%E6%8D%90%E6%B0%B4%E9%A6%AC-%E7%B6%B2%E6%B0%91-%E5%A4%B1%E6%99%92%E6%8E%A7-%E6%9C%89%E7%89%87",
     "timestamp": "2026-10-27T21:53:29.411Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵葵芳站老鼠紮紮跳　觀塘鼠群「捐水馬」　網民：失晒控｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191974326673346560763925.jpeg/ItqSIBKRA5Llt0ShrXzl-BTqIv3pq4eG9S0UzvUtFM4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404256/%E6%B8%AF%E9%90%B5%E8%91%B5%E8%8A%B3%E7%AB%99%E8%80%81%E9%BC%A0%E7%B4%AE%E7%B4%AE%E8%B7%B3-%E8%A7%80%E5%A1%98%E9%BC%A0%E7%BE%A4-%E6%8D%90%E6%B0%B4%E9%A6%AC-%E7%B6%B2%E6%B0%91-%E5%A4%B1%E6%99%92%E6%8E%A7-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-10-27T21:24:00.986Z",
     "strategy": ".content-card__main"
   }
 ];
