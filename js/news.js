@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T09:18:51.531Z
+// Last updated: 2026-10-28T09:30:27.603Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑報告明出爐　政圈熱議「誰落鑊」　一局長走唔甩？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189912057751801856312957.jpeg/z4qJaj8MEE9IGUl0otmPTCcTYJSRrv1HN5FjSjeRY0o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404514/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A0%B1%E5%91%8A%E6%98%8E%E5%87%BA%E7%88%90-%E6%94%BF%E5%9C%88%E7%86%B1%E8%AD%B0-%E8%AA%B0%E8%90%BD%E9%91%8A-%E4%B8%80%E5%B1%80%E9%95%B7%E8%B5%B0%E5%94%94%E7%94%A9",
+    "timestamp": "2026-10-28T09:30:27.603Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "孫儷罕回應與鄧超離婚傳聞「給女兒安全感」　揭夫妻私下相處模式",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189921093692035072185904.png/T5eBGS-1BqCez9daxvtg3-zsccrmidRazj1bcc49W3E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404337/%E7%A6%8F%E7%94%B0%E5%BA%B7%E5%A4%AB%E9%80%9D%E4%B8%96-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%90%91%E9%81%BA%E5%B1%AC%E8%87%B4%E5%94%81%E9%9B%BB-%E5%86%80%E6%81%AA%E5%AE%88%E6%97%A5%E4%B8%AD%E6%94%BF%E6%B2%BB%E6%96%87%E4%BB%B6",
     "timestamp": "2026-10-28T03:32:26.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "近視可抵消老花？成因＋症狀＋矯視方法及費用　滴眼藥水都得？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192069402770542592485109.png/OUZtgrpwdlNLYWejliw0kQSJJ3eK5NcgWimBQFopgUA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60391292/%E8%BF%91%E8%A6%96%E5%8F%AF%E6%8A%B5%E6%B6%88%E8%80%81%E8%8A%B1-%E6%88%90%E5%9B%A0-%E7%97%87%E7%8B%80-%E7%9F%AF%E8%A6%96%E6%96%B9%E6%B3%95%E5%8F%8A%E8%B2%BB%E7%94%A8-%E6%BB%B4%E7%9C%BC%E8%97%A5%E6%B0%B4%E9%83%BD%E5%BE%97",
-    "timestamp": "2026-10-28T03:18:39.501Z",
     "strategy": ".content-card__main"
   }
 ];
