@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T10:53:34.099Z
+// Last updated: 2026-10-28T11:15:14.813Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓國最高法院追加逮捕令　前總統夫人金建希扣押至年底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260428/1125835518395813888301659.jpeg/rAvVs2layUGCDmakCwUFIS8RXerBP24215s8dNebPHQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404502/%E9%9F%93%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%BF%BD%E5%8A%A0%E9%80%AE%E6%8D%95%E4%BB%A4-%E5%89%8D%E7%B8%BD%E7%B5%B1%E5%A4%AB%E4%BA%BA%E9%87%91%E5%BB%BA%E5%B8%8C%E6%89%A3%E6%8A%BC%E8%87%B3%E5%B9%B4%E5%BA%95",
+    "timestamp": "2026-10-28T11:15:14.813Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公務員退休金承擔破9千億　華員會籲勿眼紅：長糧如阿媽幫儲利是",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191827924626444288534896.jpeg/vo7F3TExOsaIUkQSVR3Ruu0umup-3CTy3kROXd5ETl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60401550/193%E5%B0%88%E8%A8%AA-%E4%B8%AD-%E7%82%BA%E8%A8%AD%E8%A8%88%E7%88%86%E6%AC%BE%E4%BA%A4%E5%AD%B8%E8%B2%BB-%E5%8F%8D%E6%80%9D%E9%A6%99%E6%B8%AF%E7%8F%BE%E5%9C%A8-%E7%84%A1%E5%85%AC%E8%AA%8D%E6%BD%AE%E6%B5%81icon",
     "timestamp": "2026-10-28T04:53:54.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "193專訪(中)｜為設計爆款交學費 反思香港現在「無公認潮流Icon」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191827924626444288534896.jpeg/vo7F3TExOsaIUkQSVR3Ruu0umup-3CTy3kROXd5ETl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60401550/193%E5%B0%88%E8%A8%AA-%E4%B8%AD-%E7%82%BA%E8%A8%AD%E8%A8%88%E7%88%86%E6%AC%BE%E4%BA%A4%E5%AD%B8%E8%B2%BB-%E5%8F%8D%E6%80%9D%E9%A6%99%E6%B8%AF%E7%8F%BE%E5%9C%A8-%E7%84%A1%E5%85%AC%E8%AA%8D%E6%BD%AE%E6%B5%81icon",
-    "timestamp": "2026-10-28T04:42:28.101Z",
     "strategy": ".content-card__main"
   }
 ];
