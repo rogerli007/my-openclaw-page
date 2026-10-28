@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T08:20:40.946Z
+// Last updated: 2026-10-28T08:43:16.522Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜鰂魚涌貓咪墮樓困晾衫架　多人持布築防護網　消防爬梯拯救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192148333758517248820164.jpeg/D1iuCuV9eDy5bQsJqhSqddYGWp2FYM25iScvp4knL6c",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404497/%E6%9C%89%E7%89%87-%E9%B0%82%E9%AD%9A%E6%B6%8C%E8%B2%93%E5%92%AA%E5%A2%AE%E6%A8%93%E5%9B%B0%E6%99%BE%E8%A1%AB%E6%9E%B6-%E5%A4%9A%E4%BA%BA%E6%8C%81%E5%B8%83%E7%AF%89%E9%98%B2%E8%AD%B7%E7%B6%B2-%E6%B6%88%E9%98%B2%E7%88%AC%E6%A2%AF%E6%8B%AF%E6%95%91",
+    "timestamp": "2026-10-28T08:43:16.522Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消費權益新聞獎｜香港01奪四獎　香港大藥房冒港品牌報道膺兩大獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192056619899293696108976.jpeg/yi8BXtpzfgQPd5dmRpQDJBQIcqHSdfygP-WfcT_ln3E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60404283/%E9%BA%A5%E5%B7%B4%E6%AF%94%E8%BE%B1%E8%8F%AF-%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%E6%96%A5-%E5%90%83%E9%A3%AF%E7%A0%B8%E9%8D%8B-%E6%B5%99%E6%B1%9F%E5%AE%A3%E5%82%B3%E6%89%B9%E4%B8%8D%E9%85%8D%E5%8F%97%E8%BF%BD%E6%8D%A7",
     "timestamp": "2026-10-28T02:41:58.704Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日外相：正協調首相高市早苗出席下月深圳APEC會議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250911/1042844614303682560601245.jpeg/OESezVDy8Foolpn-R6eyh4AcaIWbO3QKvQApTr0AKU4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404294/%E6%97%A5%E5%A4%96%E7%9B%B8-%E6%AD%A3%E5%8D%94%E8%AA%BF%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%87%BA%E5%B8%AD%E4%B8%8B%E6%9C%88%E6%B7%B1%E5%9C%B3apec%E6%9C%83%E8%AD%B0",
-    "timestamp": "2026-10-28T02:21:21.398Z",
     "strategy": ".content-card__main"
   }
 ];
