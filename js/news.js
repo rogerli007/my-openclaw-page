@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T07:53:35.400Z
+// Last updated: 2026-10-28T08:20:40.946Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消費權益新聞獎｜香港01奪四獎　香港大藥房冒港品牌報道膺兩大獎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192143191608922112217394.jpeg/kgmuFGo2kT28FNUZZZ3TeuUWkahnvEClx_7pwMf-6cA?v=w1920",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60402801/%E6%B6%88%E8%B2%BB%E6%AC%8A%E7%9B%8A%E6%96%B0%E8%81%9E%E7%8D%8E-%E9%A6%99%E6%B8%AF01%E5%A5%AA%E5%9B%9B%E7%8D%8E-%E9%A6%99%E6%B8%AF%E5%A4%A7%E8%97%A5%E6%88%BF%E5%86%92%E6%B8%AF%E5%93%81%E7%89%8C%E5%A0%B1%E9%81%93%E8%86%BA%E5%85%A9%E5%A4%A7%E7%8D%8E",
+    "timestamp": "2026-10-28T08:20:40.946Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全球第二大穩定幣公司Circle委港區舵手　瞄準區塊鏈與AI金融基建",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250911/1042844614303682560601245.jpeg/OESezVDy8Foolpn-R6eyh4AcaIWbO3QKvQApTr0AKU4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404294/%E6%97%A5%E5%A4%96%E7%9B%B8-%E6%AD%A3%E5%8D%94%E8%AA%BF%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%87%BA%E5%B8%AD%E4%B8%8B%E6%9C%88%E6%B7%B1%E5%9C%B3apec%E6%9C%83%E8%AD%B0",
     "timestamp": "2026-10-28T02:21:21.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜蜘蛛男拒認色魔　心理學家李堅翔指當事人恐懼暫難平復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191866829736251392062193.jpeg/mD5C_0C0UB8tOKKfyRrPCr8G2I2xckYl71elde9XpXU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404225/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%9C%98%E8%9B%9B%E7%94%B7%E6%8B%92%E8%AA%8D%E8%89%B2%E9%AD%94-%E5%BF%83%E7%90%86%E5%AD%B8%E5%AE%B6%E6%9D%8E%E5%A0%85%E7%BF%94%E6%8C%87%E7%95%B6%E4%BA%8B%E4%BA%BA%E6%81%90%E6%87%BC%E6%9A%AB%E9%9B%A3%E5%B9%B3%E5%BE%A9",
-    "timestamp": "2026-10-28T01:44:02.938Z",
     "strategy": ".content-card__main"
   }
 ];
