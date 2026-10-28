@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T10:43:47.443Z
+// Last updated: 2026-10-28T10:53:34.099Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公務員退休金承擔破9千億　華員會籲勿眼紅：長糧如阿媽幫儲利是",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230518/735751886002458624257069.jpeg/W9xYXx8V3aomPB8rFupXW9I6pOYoNBJhwDDWFNow1hQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404525/%E5%85%AC%E5%8B%99%E5%93%A1%E9%80%80%E4%BC%91%E9%87%91%E6%89%BF%E6%93%94%E7%A0%B49%E5%8D%83%E5%84%84-%E8%8F%AF%E5%93%A1%E6%9C%83%E7%B1%B2%E5%8B%BF%E7%9C%BC%E7%B4%85-%E9%95%B7%E7%B3%A7%E5%A6%82%E9%98%BF%E5%AA%BD%E5%B9%AB%E5%84%B2%E5%88%A9%E6%98%AF",
+    "timestamp": "2026-10-28T10:53:34.099Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公務員退休金承擔破9千億　華員會籲勿眼紅：長糧如阿媽幫儲利是",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191827924626444288534896.jpeg/vo7F3TExOsaIUkQSVR3Ruu0umup-3CTy3kROXd5ETl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60401550/193%E5%B0%88%E8%A8%AA-%E4%B8%AD-%E7%82%BA%E8%A8%AD%E8%A8%88%E7%88%86%E6%AC%BE%E4%BA%A4%E5%AD%B8%E8%B2%BB-%E5%8F%8D%E6%80%9D%E9%A6%99%E6%B8%AF%E7%8F%BE%E5%9C%A8-%E7%84%A1%E5%85%AC%E8%AA%8D%E6%BD%AE%E6%B5%81icon",
     "timestamp": "2026-10-28T04:42:28.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澳洲向中國返還2件流失文物　為北宋皇陵文武官頭像",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192084887234940928302985.jpeg/6recmYTL5zYCVpFZ7s6-8KKgrJm80u2wyx0Xl8sdF5c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60404364/%E6%BE%B3%E6%B4%B2%E5%90%91%E4%B8%AD%E5%9C%8B%E8%BF%94%E9%82%842%E4%BB%B6%E6%B5%81%E5%A4%B1%E6%96%87%E7%89%A9-%E7%82%BA%E5%8C%97%E5%AE%8B%E7%9A%87%E9%99%B5%E6%96%87%E6%AD%A6%E5%AE%98%E9%A0%AD%E5%83%8F",
-    "timestamp": "2026-10-28T04:32:14.272Z",
     "strategy": ".content-card__main"
   }
 ];
