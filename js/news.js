@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T15:17:07.575Z
+// Last updated: 2026-10-28T15:46:16.924Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LOL世界賽2026｜T1對MKOI 8強將誕生！最新賽程結果+免費直播連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530743422455808097824.jpeg/PYOIRdZJxr_qiFVUFRO0E9fygW3xNMiRAGVmMgBlZjI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-t1%E5%B0%8Dmkoi-8%E5%BC%B7%E5%B0%87%E8%AA%95%E7%94%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
+    "timestamp": "2026-10-28T15:46:16.924Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國宣布禁止華大系三企業產品進口　指控涉強迫勞動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189912057751801856312957.jpeg/z4qJaj8MEE9IGUl0otmPTCcTYJSRrv1HN5FjSjeRY0o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60404514/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A0%B1%E5%91%8A%E6%98%8E%E5%87%BA%E7%88%90-%E6%94%BF%E5%9C%88%E7%86%B1%E8%AD%B0-%E8%AA%B0%E8%90%BD%E9%91%8A-%E4%B8%80%E5%B1%80%E9%95%B7%E8%B5%B0%E5%94%94%E7%94%A9",
     "timestamp": "2026-10-28T09:30:27.603Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "孫儷罕回應與鄧超離婚傳聞「給女兒安全感」　揭夫妻私下相處模式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192084086953349120284109.png/A-vEG4kZFM0WKWo1zJvVeQKS-efHwpTsNCXhzDQl4cw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404340/%E5%AD%AB%E5%84%B7%E7%BD%95%E5%9B%9E%E6%87%89%E8%88%87%E9%84%A7%E8%B6%85%E9%9B%A2%E5%A9%9A%E5%82%B3%E8%81%9E-%E7%B5%A6%E5%A5%B3%E5%85%92%E5%AE%89%E5%85%A8%E6%84%9F-%E6%8F%AD%E5%A4%AB%E5%A6%BB%E7%A7%81%E4%B8%8B%E7%9B%B8%E8%99%95%E6%A8%A1%E5%BC%8F",
-    "timestamp": "2026-10-28T09:18:51.531Z",
     "strategy": ".content-card__main"
   }
 ];
