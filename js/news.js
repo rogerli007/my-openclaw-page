@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T13:40:39.956Z
+// Last updated: 2026-10-28T13:54:30.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄧龍威獲釋｜返港後與謝偉俊首重逢　謝︰難得再聚大家卻不再年輕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192215232575967232850629.png/QtvafPgBDnYPpLdPOdmXDxRIcVqUyD7swaWp9sGlqfY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404622/%E9%84%A7%E9%BE%8D%E5%A8%81%E7%8D%B2%E9%87%8B-%E8%BF%94%E6%B8%AF%E5%BE%8C%E8%88%87%E8%AC%9D%E5%81%89%E4%BF%8A%E9%A6%96%E9%87%8D%E9%80%A2-%E8%AC%9D-%E9%9B%A3%E5%BE%97%E5%86%8D%E8%81%9A%E5%A4%A7%E5%AE%B6%E5%8D%BB%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BC%95",
+    "timestamp": "2026-10-28T13:54:30.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "邱士縉為缺席婚禮兄弟解畫　AK當日有工作：大家都有良好溝通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251020/1056859518384214016320756.jpeg/cOKuvpoEj2z1N65IIL-47oE_pFaet_Ey6AWvJOgFryQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404432/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%B8%BB%E5%A0%B4%E9%AC%A5%E8%BB%8A%E8%B7%AF%E5%A3%AB-%E4%BC%8A%E6%B2%99%E5%85%8B%E7%8B%80%E6%85%8B%E5%9B%9E%E5%8B%87-%E8%97%8D%E8%BB%8D%E7%BC%BA%E7%A5%96%E5%A5%A7%E6%9F%8F%E5%BA%A6",
     "timestamp": "2026-10-28T07:29:46.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片︱屯門灰衫男便利店行竊事敗被店員斷正　同事到場了解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192106840704421888215078.jpeg/IvIFxD63kUr7VXztwYP9dTMaJOxkE7fQA8s8wwPLPMM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404389/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E7%81%B0%E8%A1%AB%E7%94%B7%E4%BE%BF%E5%88%A9%E5%BA%97%E8%A1%8C%E7%AB%8A%E4%BA%8B%E6%95%97%E8%A2%AB%E5%BA%97%E5%93%A1%E6%96%B7%E6%AD%A3-%E5%90%8C%E4%BA%8B%E5%88%B0%E5%A0%B4%E4%BA%86%E8%A7%A3",
-    "timestamp": "2026-10-28T06:57:11.157Z",
     "strategy": ".content-card__main"
   }
 ];
