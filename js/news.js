@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T12:53:39.270Z
+// Last updated: 2026-10-28T13:16:48.554Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平繞過高市早苗向福田康夫遺屬致唁電　日本政府：中方的考量",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1148950605524373504507419.jpeg/BpJHZx3nQ2nvoY1qpy3XBspbVrSmfk11oWigsaFooLE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404626/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%B9%9E%E9%81%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E7%A6%8F%E7%94%B0%E5%BA%B7%E5%A4%AB%E9%81%BA%E5%B1%AC%E8%87%B4%E5%94%81%E9%9B%BB-%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C-%E4%B8%AD%E6%96%B9%E7%9A%84%E8%80%83%E9%87%8F",
+    "timestamp": "2026-10-28T13:16:48.554Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何超蓮請媽媽食過萬蚊Omakase　三太戴6千萬翡翠鈪與賭王定情物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192112422006034432541629.jpeg/aySqIvmfeSBvBZuLYuQtt77EtDZjC1qNrNPyjKzT8ow?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404426/%E7%A7%91%E5%A4%A7%E9%86%AB%E5%AD%B8%E9%99%A2%E8%81%98%E6%B8%AF%E5%A4%A7%E6%A2%81%E5%A6%82%E9%B4%BB%E8%A2%AB%E6%8C%87%E6%8C%96%E8%A7%92-%E8%91%89%E7%8E%89%E5%A6%82%E5%90%A6%E8%AA%8D-%E5%86%80%E8%88%87%E5%85%A9%E9%86%AB%E5%AD%B8%E9%99%A2%E5%90%88%E4%BD%9C",
     "timestamp": "2026-10-28T06:26:15.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫衞局：截至今年9月底　523名大灣區醫護參加人才交流計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192093206947303424596724.jpeg/_DKAZ7nUWAxF6jHNtTAuknzfVdQgAZWaeYQv2XmEL9k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404386/%E9%86%AB%E8%A1%9E%E5%B1%80-%E6%88%AA%E8%87%B3%E4%BB%8A%E5%B9%B49%E6%9C%88%E5%BA%95-523%E5%90%8D%E5%A4%A7%E7%81%A3%E5%8D%80%E9%86%AB%E8%AD%B7%E5%8F%83%E5%8A%A0%E4%BA%BA%E6%89%8D%E4%BA%A4%E6%B5%81%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-10-28T05:53:36.218Z",
     "strategy": ".content-card__main"
   }
 ];
