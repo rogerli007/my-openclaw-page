@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T02:54:46.907Z
+// Last updated: 2026-10-28T03:18:39.501Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "近視可抵消老花？成因＋症狀＋矯視方法及費用　滴眼藥水都得？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192069402770542592485109.png/OUZtgrpwdlNLYWejliw0kQSJJ3eK5NcgWimBQFopgUA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60391292/%E8%BF%91%E8%A6%96%E5%8F%AF%E6%8A%B5%E6%B6%88%E8%80%81%E8%8A%B1-%E6%88%90%E5%9B%A0-%E7%97%87%E7%8B%80-%E7%9F%AF%E8%A6%96%E6%96%B9%E6%B3%95%E5%8F%8A%E8%B2%BB%E7%94%A8-%E6%BB%B4%E7%9C%BC%E8%97%A5%E6%B0%B4%E9%83%BD%E5%BE%97",
+    "timestamp": "2026-10-28T03:18:39.501Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重慶2歲童墮亡警不立案　父扔遺物稱已處理狗　妻委託律師再申訴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190702308896280576608173.jpeg/l5zzalI3nGSQs53E6kYgkqv6Dw8sTfzIs_FCBLPxQgQ",
     "url": "https://www.hk01.com/01TV/60403222/%E9%9D%A2%E5%B0%8D%E5%AA%BD%E5%AA%BD%E7%94%9F%E7%97%85%E9%9B%A2%E4%B8%96-%E8%BB%8A%E5%A9%89%E5%A9%89%E6%98%AF%E5%85%A7%E8%A3%A1%E7%A0%B4%E7%A2%8E-%E5%BF%83%E6%9C%89%E9%A4%98%E9%9C%87",
     "timestamp": "2026-10-27T20:17:38.524Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉拒絕當「星二代」：堅持不靠母親人脈 要憑實力贏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190701542122983424985173.jpeg/l1rtrKfeRUpRIb8evzckbT8zUOaOBEsevYSz172Es9c",
-    "url": "https://www.hk01.com/01TV/60403219/%E8%BB%8A%E5%A9%89%E5%A9%89%E6%8B%92%E7%B5%95%E7%95%B6-%E6%98%9F%E4%BA%8C%E4%BB%A3-%E5%A0%85%E6%8C%81%E4%B8%8D%E9%9D%A0%E6%AF%8D%E8%A6%AA%E4%BA%BA%E8%84%88-%E8%A6%81%E6%86%91%E5%AF%A6%E5%8A%9B%E8%B4%8F",
-    "timestamp": "2026-10-27T19:53:58.597Z",
     "strategy": ".content-card__main"
   }
 ];
