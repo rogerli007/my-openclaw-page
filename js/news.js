@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T09:57:11.269Z
+// Last updated: 2026-10-28T10:20:36.698Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "｢Benz雄｣許紹雄離世一周年AI短片重現音容　幽默報平安惹全網淚崩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192155459109261312129875.jpeg/09CKD9ETeu1pzMigdFTn8fpKisoKcOETEwQ1PhMENT4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404518/benz%E9%9B%84-%E8%A8%B1%E7%B4%B9%E9%9B%84%E9%9B%A2%E4%B8%96%E4%B8%80%E5%91%A8%E5%B9%B4ai%E7%9F%AD%E7%89%87%E9%87%8D%E7%8F%BE%E9%9F%B3%E5%AE%B9-%E5%B9%BD%E9%BB%98%E5%A0%B1%E5%B9%B3%E5%AE%89%E6%83%B9%E5%85%A8%E7%B6%B2%E6%B7%9A%E5%B4%A9",
+    "timestamp": "2026-10-28T10:20:36.698Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙兩列高速列車相撞　至少10死　官員：料進一步上升",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192074546367172608570249.jpeg/finFUp_05pNStzEXRvQKmX9KsaPv9vjxSj6g5ko-oOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404312/%E5%BB%A3%E5%B7%9E27%E6%AD%B2%E5%A5%B3%E8%B5%B4%E6%B8%85%E9%82%81%E6%9C%83%E7%B6%B2%E5%8F%8B%E5%A4%B1%E8%81%AF-%E9%9B%99%E6%96%B9%E4%BA%92%E5%82%99%E7%A6%AE%E7%89%A9%E5%B0%8D%E6%96%B9%E6%89%BF%E8%AB%BE%E9%80%81iphone-18",
     "timestamp": "2026-10-28T03:53:43.403Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港股黃金ETF懶人包　入場門檻、管理費 + 風險一文看清｜ETF教室",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190247470408404992241876.jpeg/Q_WpwxrPlnZLM3qjsbDN7IGFvh62tkA98gFCU_IBQlM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/60396516/%E6%B8%AF%E8%82%A1%E9%BB%83%E9%87%91etf%E6%87%B6%E4%BA%BA%E5%8C%85-%E5%85%A5%E5%A0%B4%E9%96%80%E6%AA%BB-%E7%AE%A1%E7%90%86%E8%B2%BB-%E9%A2%A8%E9%9A%AA%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85-etf%E6%95%99%E5%AE%A4",
-    "timestamp": "2026-10-28T03:46:34.381Z",
     "strategy": ".content-card__main"
   }
 ];
