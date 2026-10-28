@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T01:44:02.938Z
+// Last updated: 2026-10-28T02:21:21.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日外相：正協調首相高市早苗出席下月深圳APEC會議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250911/1042844614303682560601245.jpeg/OESezVDy8Foolpn-R6eyh4AcaIWbO3QKvQApTr0AKU4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404294/%E6%97%A5%E5%A4%96%E7%9B%B8-%E6%AD%A3%E5%8D%94%E8%AA%BF%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%87%BA%E5%B8%AD%E4%B8%8B%E6%9C%88%E6%B7%B1%E5%9C%B3apec%E6%9C%83%E8%AD%B0",
+    "timestamp": "2026-10-28T02:21:21.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜蜘蛛男拒認色魔　心理學家李堅翔指當事人恐懼暫難平復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1191937521039183872728510.jpeg/_l0QeXEXgTubQuk1_3tvF5h1spe0QQ8ElbQAwZW0AME?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404249/%E6%BC%AB%E7%95%AB%E5%B7%A8%E5%8C%A0%E5%8D%83%E8%91%89%E5%BE%B9%E5%BD%8C%E7%97%85%E9%80%9D%E4%BA%AB%E5%B9%B487%E6%AD%B2-%E9%90%B5%E6%8B%B3%E6%B5%AA%E5%AD%90-%E7%87%83%E7%87%92%E6%AE%86%E7%9B%A1%E4%B8%80%E5%B9%95%E6%88%90%E7%B6%93%E5%85%B8",
     "timestamp": "2026-10-27T18:53:38.553Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "挪威、芬蘭領導人與普京通話　丹麥首相：削弱歐洲團結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260510/1130115199508942848039782.jpeg/dLmjj58lseXZh64ch_CePvRSMw8ymDFjFksx8RZLMfE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404247/%E6%8C%AA%E5%A8%81-%E8%8A%AC%E8%98%AD%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%88%87%E6%99%AE%E4%BA%AC%E9%80%9A%E8%A9%B1-%E4%B8%B9%E9%BA%A5%E9%A6%96%E7%9B%B8-%E5%89%8A%E5%BC%B1%E6%AD%90%E6%B4%B2%E5%9C%98%E7%B5%90",
-    "timestamp": "2026-10-27T18:41:51.308Z",
     "strategy": ".content-card__main"
   }
 ];
