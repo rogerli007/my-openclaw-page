@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T07:53:29.622Z
+// Last updated: 2026-10-29T08:21:28.678Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關水警聯手破9宗私煙案　檢逾2000萬支煙　扣5大馬力快艇及4車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192505262284476416579326.jpeg/fqNM7JZI86Et5jj-tA7bmVf0egfO0Wbd6jsq3c87Kt0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404908/%E6%B5%B7%E9%97%9C%E6%B0%B4%E8%AD%A6%E8%81%AF%E6%89%8B%E7%A0%B49%E5%AE%97%E7%A7%81%E7%85%99%E6%A1%88-%E6%AA%A2%E9%80%BE2000%E8%90%AC%E6%94%AF%E7%85%99-%E6%89%A35%E5%A4%A7%E9%A6%AC%E5%8A%9B%E5%BF%AB%E8%89%87%E5%8F%8A4%E8%BB%8A",
+    "timestamp": "2026-10-29T08:21:28.678Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙列車相撞釀68死　奪命錄音曝：系統失效竟下令「正常行駛」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192417439862755328125694.jpeg/ff1c8Q5YOWsF58i4gxIIrVxRY9nDoikVHxGlsx8RpbM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404695/%E6%96%B0%E8%92%B2%E5%B4%97%E5%B7%A5%E5%BB%88%E6%8A%95%E8%B3%87%E5%85%AC%E5%8F%B8%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E7%8E%BB%E7%92%83%E9%96%80%E8%A2%AB%E6%AF%80-%E6%90%8D%E5%A4%B1%E6%9C%89%E5%BE%85%E9%BB%9E%E7%AE%97",
     "timestamp": "2026-10-29T02:21:25.677Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節｜周末深宵跨境客量料增　運輸署特別交通安排一文看清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192407485118418944506973.jpeg/f1LWiNyUVnDY1RQwmBt4TTj5ZHndPBW_UZxliVGcZYk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404687/%E8%90%AC%E8%81%96%E7%AF%80-%E5%91%A8%E6%9C%AB%E6%B7%B1%E5%AE%B5%E8%B7%A8%E5%A2%83%E5%AE%A2%E9%87%8F%E6%96%99%E5%A2%9E-%E9%81%8B%E8%BC%B8%E7%BD%B2%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
-    "timestamp": "2026-10-29T01:53:46.641Z",
     "strategy": ".content-card__main"
   }
 ];
