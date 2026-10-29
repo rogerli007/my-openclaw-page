@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T08:55:53.738Z
+// Last updated: 2026-10-29T09:18:08.664Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "世界技能大賽港隊奪15獎創歷屆佳績　港鐵技術員軌道車輛技術奪銀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192450346497085440243896.jpeg/NtpmbzxzcEBGvy7-1GoC80DUC_68MU9uvkxYzr5MWM4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60404761/%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B3%BD%E6%B8%AF%E9%9A%8A%E5%A5%AA15%E7%8D%8E%E5%89%B5%E6%AD%B7%E5%B1%86%E4%BD%B3%E7%B8%BE-%E6%B8%AF%E9%90%B5%E6%8A%80%E8%A1%93%E5%93%A1%E8%BB%8C%E9%81%93%E8%BB%8A%E8%BC%9B%E6%8A%80%E8%A1%93%E5%A5%AA%E9%8A%80",
+    "timestamp": "2026-10-29T09:18:08.664Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔工傷｜據悉疑吊臂車尾輪壓塌排水蓋　車輛傾側致工作台急墜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186747873916620800053961.png/sBCh8kkTkKcZ_f3jdVYjvgmPLlSusHlGsfciHLH3Ihw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60399221/%E7%98%A6%E8%BA%AB-%E6%89%8B%E8%87%82%E9%AC%86%E5%BC%9B%E7%A9%BF%E8%A1%A3%E9%A1%AF%E5%A3%AF-%E7%AB%A5%E7%91%A4%E6%95%993%E5%80%8B%E7%B0%A1%E5%96%AE%E5%8B%95%E4%BD%9C%E6%B8%9B%E5%8E%BB%E6%8B%9C%E6%8B%9C%E8%82%89%E7%B7%8A%E5%AF%A6%E7%B7%9A%E6%A2%9D",
     "timestamp": "2026-10-29T03:35:46.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英聯賽盃｜曼城互射12碼4：3險勝白禮頓　後備門將魯利成救世主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192418421468303360061435.jpeg/PN9p506CYR8GvkeJ1SM0xdjLBVbsR8FG9COtxfQjrcU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404684/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E6%9B%BC%E5%9F%8E%E4%BA%92%E5%B0%8412%E7%A2%BC4-3%E9%9A%AA%E5%8B%9D%E7%99%BD%E7%A6%AE%E9%A0%93-%E5%BE%8C%E5%82%99%E9%96%80%E5%B0%87%E9%AD%AF%E5%88%A9%E6%88%90%E6%95%91%E4%B8%96%E4%B8%BB",
-    "timestamp": "2026-10-29T02:53:37.759Z",
     "strategy": ".content-card__main"
   }
 ];
