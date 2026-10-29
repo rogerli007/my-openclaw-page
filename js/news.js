@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T11:40:34.574Z
+// Last updated: 2026-10-29T11:53:40.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB不輸HOY　公布《璀璨之城》首十集狂吸2,300萬次觀看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192558275246166016864921.jpeg/pxS2PmQTaXRwSR4xX7C-2aqRcl0eUw-A6yi92usovdo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405039/tvb%E4%B8%8D%E8%BC%B8hoy-%E5%85%AC%E5%B8%83-%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%A6%96%E5%8D%81%E9%9B%86%E7%8B%82%E5%90%B82-300%E8%90%AC%E6%AC%A1%E8%A7%80%E7%9C%8B",
+    "timestamp": "2026-10-29T11:53:40.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "75歲星巴克店員竟是前戰機飛行員　豪言做到90歲　兼職原因極熱血",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192444311090761728048267.jpeg/EG-t92nCwnFniYwfCz4_TZKr0jEjK1d2xAQMpsQEDKY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404732/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9Fs16-faker%E7%AC%AC11%E6%AC%A1%E6%AE%BA%E5%85%A5%E5%85%AB%E5%BC%B7-ig%E6%BF%80%E6%88%B03%E5%B1%80%E6%99%82%E9%9A%947%E5%B9%B4%E9%87%8D%E5%9B%9E%E6%B7%98%E6%B1%B0%E8%B3%BD",
     "timestamp": "2026-10-29T06:25:18.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雙11優惠著數懶人包｜PlayStation 5／豐澤／小米／友和／電器幫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192471290758303744539206.jpeg/uh_NhLAcuMzKiKdMnY_Ois3eMGJZ3jmXO2jHqDtox6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60404808/%E9%9B%9911%E5%84%AA%E6%83%A0%E8%91%97%E6%95%B8%E6%87%B6%E4%BA%BA%E5%8C%85-playstation-5-%E8%B1%90%E6%BE%A4-%E5%B0%8F%E7%B1%B3-%E5%8F%8B%E5%92%8C-%E9%9B%BB%E5%99%A8%E5%B9%AB",
-    "timestamp": "2026-10-29T05:53:47.224Z",
     "strategy": ".content-card__main"
   }
 ];
