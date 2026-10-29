@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T07:40:36.115Z
+// Last updated: 2026-10-29T07:53:29.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙列車相撞釀68死　奪命錄音曝：系統失效竟下令「正常行駛」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192492836692430848078914.jpeg/l15xW9YComWsW-ch3C4DpdBzfsY5tIXD-Pf9s_j3_bM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404852/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%97%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%8068%E6%AD%BB-%E5%A5%AA%E5%91%BD%E9%8C%84%E9%9F%B3%E6%9B%9D-%E7%B3%BB%E7%B5%B1%E5%A4%B1%E6%95%88%E7%AB%9F%E4%B8%8B%E4%BB%A4-%E6%AD%A3%E5%B8%B8%E8%A1%8C%E9%A7%9B",
+    "timestamp": "2026-10-29T07:53:29.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男子懷疑女友出軌　靠AI開實驗室自製「聽話水」未下手先被捕入獄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192407485118418944506973.jpeg/f1LWiNyUVnDY1RQwmBt4TTj5ZHndPBW_UZxliVGcZYk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404687/%E8%90%AC%E8%81%96%E7%AF%80-%E5%91%A8%E6%9C%AB%E6%B7%B1%E5%AE%B5%E8%B7%A8%E5%A2%83%E5%AE%A2%E9%87%8F%E6%96%99%E5%A2%9E-%E9%81%8B%E8%BC%B8%E7%BD%B2%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
     "timestamp": "2026-10-29T01:53:46.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「美女別跑！我不是壞人」網紅深山救助流浪女爆紅　警方揭真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192153016606658560461875.jpeg/mGBObPhbeleaV3mCQwxsnRfXeOqMtCKp2bRs0dm0bNE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404494/%E7%BE%8E%E5%A5%B3%E5%88%A5%E8%B7%91-%E6%88%91%E4%B8%8D%E6%98%AF%E5%A3%9E%E4%BA%BA-%E7%B6%B2%E7%B4%85%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3%E7%88%86%E7%B4%85-%E8%AD%A6%E6%96%B9%E6%8F%AD%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-10-29T01:43:28.799Z",
     "strategy": ".content-card__main"
   }
 ];
