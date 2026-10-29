@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T00:36:46.250Z
+// Last updated: 2026-10-29T01:02:42.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國議息｜聯儲局按兵不動　沃什強調：無關中期選舉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177099587261960192265419.jpeg/ns57QlM_fCc5jZ-o-wsqu4wPlilhbdqVs8uyNLPLsjQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404682/%E7%BE%8E%E5%9C%8B%E8%AD%B0%E6%81%AF-%E8%81%AF%E5%84%B2%E5%B1%80%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95-%E6%B2%83%E4%BB%80%E5%BC%B7%E8%AA%BF-%E7%84%A1%E9%97%9C%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
+    "timestamp": "2026-10-29T01:02:42.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張家輝開金口唱鄭伊健變陳小春　想原班人馬開續集︰犯罪殺人片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191801690890702848759068.png/352GMMBkjEUQji91yqebz_smXeOL2dZNZD3ad2Q92nc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403938/74%E6%AD%B2-%E7%8B%BC%E7%8E%8B%E5%A4%A2-%E4%BD%9C%E8%80%85%E6%B2%88%E7%9F%B3%E6%BA%AA%E6%B7%B1%E5%A4%9C%E5%B8%B6%E8%B2%A8-%E9%81%AD%E8%B3%AA%E7%96%91%E8%A2%AB%E8%BF%AB%E6%8D%B1%E5%A4%9C-%E6%80%A5%E6%8B%8D%E7%89%87%E6%BE%84%E6%B8%85",
     "timestamp": "2026-10-28T17:15:35.098Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荷蘭政府擬用AI取代2.5萬名公務員　盼每年節省約306億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172630727280300032608495.jpeg/2ZmHFlJV_JFKAPRXFvRXwEFsI_lr99ODIlhBSSJYQUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404652/%E8%8D%B7%E8%98%AD%E6%94%BF%E5%BA%9C%E6%93%AC%E7%94%A8ai%E5%8F%96%E4%BB%A32-5%E8%90%AC%E5%90%8D%E5%85%AC%E5%8B%99%E5%93%A1-%E7%9B%BC%E6%AF%8F%E5%B9%B4%E7%AF%80%E7%9C%81%E7%B4%84306%E5%84%84",
-    "timestamp": "2026-10-28T16:56:43.072Z",
     "strategy": ".content-card__main"
   }
 ];
