@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-28T23:53:47.541Z
+// Last updated: 2026-10-29T00:36:46.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張家輝開金口唱鄭伊健變陳小春　想原班人馬開續集︰犯罪殺人片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192294926402981888483690.jpeg/FdDiVRfvOJcR1-eByYQnRNxNSBqfZkdJkFoYOZBaGDk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60404656/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%96%8B%E9%87%91%E5%8F%A3%E5%94%B1%E9%84%AD%E4%BC%8A%E5%81%A5%E8%AE%8A%E9%99%B3%E5%B0%8F%E6%98%A5-%E6%83%B3%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A6%AC%E9%96%8B%E7%BA%8C%E9%9B%86-%E7%8A%AF%E7%BD%AA%E6%AE%BA%E4%BA%BA%E7%89%87",
+    "timestamp": "2026-10-29T00:36:46.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "彭博：巴基斯坦25日以一中政策禁台灣航企飛越領空　28日恢復",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172630727280300032608495.jpeg/2ZmHFlJV_JFKAPRXFvRXwEFsI_lr99ODIlhBSSJYQUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404652/%E8%8D%B7%E8%98%AD%E6%94%BF%E5%BA%9C%E6%93%AC%E7%94%A8ai%E5%8F%96%E4%BB%A32-5%E8%90%AC%E5%90%8D%E5%85%AC%E5%8B%99%E5%93%A1-%E7%9B%BC%E6%AF%8F%E5%B9%B4%E7%AF%80%E7%9C%81%E7%B4%84306%E5%84%84",
     "timestamp": "2026-10-28T16:56:43.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神2｜郭珮文前度Ice飛半個地球求復合　突宣布回LA惹淘汰疑雲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192261172477300736560132.jpeg/HW2VvIj676fETArXwFD9NiXz_zu8bnTaMpVoYTKVaGE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404645/%E5%A5%B3%E7%A5%9E2-%E9%83%AD%E7%8F%AE%E6%96%87%E5%89%8D%E5%BA%A6ice%E9%A3%9B%E5%8D%8A%E5%80%8B%E5%9C%B0%E7%90%83%E6%B1%82%E5%BE%A9%E5%90%88-%E7%AA%81%E5%AE%A3%E5%B8%83%E5%9B%9Ela%E6%83%B9%E6%B7%98%E6%B1%B0%E7%96%91%E9%9B%B2",
-    "timestamp": "2026-10-28T16:41:19.126Z",
     "strategy": ".content-card__main"
   }
 ];
