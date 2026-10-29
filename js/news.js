@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T16:54:36.379Z
+// Last updated: 2026-10-29T17:25:28.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
+    "timestamp": "2026-10-29T17:25:28.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LOL世界賽2026｜英雄聯盟8強將誕生！最新賽程結果+免費直播連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189617130467758080918536.jpeg/yxgi59VF9Kw-oz9YBBXfhZSuDrvatkWIwqbHOcKmxzk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401730/amazing-toy-show-2026-12%E6%9C%88%E9%A6%96%E7%99%BB%E6%9C%83%E5%B1%95%E6%96%B0%E5%A2%9E%E5%8D%A1%E7%89%8C%E5%B0%88%E5%8D%80-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B69%E6%8A%98",
     "timestamp": "2026-10-29T10:53:50.202Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超能膠清除｜黐手勿硬扯！日本廠商教3步秒溶解+用前塗1物助防黏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192531865366433792340765.jpeg/SpRIfLTH348qtEvTb1jcbDzojG81BBmZRIEltESBJbQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60404978/%E8%B6%85%E8%83%BD%E8%86%A0%E6%B8%85%E9%99%A4-%E9%BB%90%E6%89%8B%E5%8B%BF%E7%A1%AC%E6%89%AF-%E6%97%A5%E6%9C%AC%E5%BB%A0%E5%95%86%E6%95%993%E6%AD%A5%E7%A7%92%E6%BA%B6%E8%A7%A3-%E7%94%A8%E5%89%8D%E5%A1%971%E7%89%A9%E5%8A%A9%E9%98%B2%E9%BB%8F",
-    "timestamp": "2026-10-29T10:41:04.288Z",
     "strategy": ".content-card__main"
   }
 ];
