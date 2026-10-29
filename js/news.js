@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T14:31:33.169Z
+// Last updated: 2026-10-29T14:54:13.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "銅鑼灣渣打銀行內地女存100元懷疑假美鈔　職員揭發報警拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172901613078056960948215.jpeg/-jWbApgyA_nHqOYrb_PkSgWfOXE1fAtRVZEjSFWRI0g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405086/%E9%8A%85%E9%91%BC%E7%81%A3%E6%B8%A3%E6%89%93%E9%8A%80%E8%A1%8C%E5%85%A7%E5%9C%B0%E5%A5%B3%E5%AD%98100%E5%85%83%E6%87%B7%E7%96%91%E5%81%87%E7%BE%8E%E9%88%94-%E8%81%B7%E5%93%A1%E6%8F%AD%E7%99%BC%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-10-29T14:54:13.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "單立文回應雷頌德指《愛心速遞》班底貴TVB要換血言論：唔關我事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192450346497085440243896.jpeg/NtpmbzxzcEBGvy7-1GoC80DUC_68MU9uvkxYzr5MWM4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60404761/%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B3%BD%E6%B8%AF%E9%9A%8A%E5%A5%AA15%E7%8D%8E%E5%89%B5%E6%AD%B7%E5%B1%86%E4%BD%B3%E7%B8%BE-%E6%B8%AF%E9%90%B5%E6%8A%80%E8%A1%93%E5%93%A1%E8%BB%8C%E9%81%93%E8%BB%8A%E8%BC%9B%E6%8A%80%E8%A1%93%E5%A5%AA%E9%8A%80",
     "timestamp": "2026-10-29T09:18:08.664Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港仔工傷｜據悉疑吊臂車尾輪壓塌排水蓋　車輛傾側致工作台急墜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192434072719200256397084.jpeg/pgLcC5eieHAYaSUwvnNd6c76ZaHKuyQe3tMPfd7TD30?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404934/%E9%A6%99%E6%B8%AF%E4%BB%94%E5%B7%A5%E5%82%B7-%E6%93%9A%E6%82%89%E7%96%91%E5%90%8A%E8%87%82%E8%BB%8A%E5%B0%BE%E8%BC%AA%E5%A3%93%E5%A1%8C%E6%8E%92%E6%B0%B4%E8%93%8B-%E8%BB%8A%E8%BC%9B%E5%82%BE%E5%81%B4%E8%87%B4%E5%B7%A5%E4%BD%9C%E5%8F%B0%E6%80%A5%E5%A2%9C",
-    "timestamp": "2026-10-29T08:55:53.738Z",
     "strategy": ".content-card__main"
   }
 ];
