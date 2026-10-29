@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T22:53:43.689Z
+// Last updated: 2026-10-29T23:15:53.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美軍中央司令部司令罕見赴白宮　向特朗普匯報對伊軍事選項",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192733444849799168619420.jpeg/_WwKiY-TvxfuxW7R59jv9fxQzf6fuF02QrBMREKwTEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405115/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%8F%B8%E4%BB%A4%E7%BD%95%E8%A6%8B%E8%B5%B4%E7%99%BD%E5%AE%AE-%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%AF%E5%A0%B1%E5%B0%8D%E4%BC%8A%E8%BB%8D%E4%BA%8B%E9%81%B8%E9%A0%85",
+    "timestamp": "2026-10-29T23:15:53.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本遊客退稅新制11.1生效　友都八喜11間門市推市區現金退稅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192606480587558912837549.png/K-jw2QKqyBlwPwjPDyPYd7lpP05d6hMVQy_QU0Mv0FM",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F8%E5%BC%B7%E5%B0%87%E8%AA%95%E7%94%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
     "timestamp": "2026-10-29T16:54:36.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙高鐵相撞增至69死　列車司機罷工促增撥資源改善鐵路安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192492840131891200487603.jpeg/uBHTjOas5FhFrY80wFGiEzcQl3gX2gDiLCUPBCwlDwQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405096/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%90%B5%E7%9B%B8%E6%92%9E%E5%A2%9E%E8%87%B369%E6%AD%BB-%E5%88%97%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%BD%B7%E5%B7%A5%E4%BF%83%E5%A2%9E%E6%92%A5%E8%B3%87%E6%BA%90%E6%94%B9%E5%96%84%E9%90%B5%E8%B7%AF%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-10-29T16:31:18.744Z",
     "strategy": ".content-card__main"
   }
 ];
