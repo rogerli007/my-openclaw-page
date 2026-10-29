@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T01:53:46.641Z
+// Last updated: 2026-10-29T02:21:25.677Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新蒲崗工廈投資公司疑遭爆竊　玻璃門被毀　損失有待點算",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192417439862755328125694.jpeg/ff1c8Q5YOWsF58i4gxIIrVxRY9nDoikVHxGlsx8RpbM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404695/%E6%96%B0%E8%92%B2%E5%B4%97%E5%B7%A5%E5%BB%88%E6%8A%95%E8%B3%87%E5%85%AC%E5%8F%B8%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E7%8E%BB%E7%92%83%E9%96%80%E8%A2%AB%E6%AF%80-%E6%90%8D%E5%A4%B1%E6%9C%89%E5%BE%85%E9%BB%9E%E7%AE%97",
+    "timestamp": "2026-10-29T02:21:25.677Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節｜周末深宵跨境客量料增　運輸署特別交通安排一文看清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186267250017964032634178.jpeg/_sZSOfPE3JdT7w0Y0Nt7wGoMgBPhF0Nit4KhRbeCoUU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404653/%E7%BE%8E%E5%9C%8B%E8%AD%B0%E6%81%AF-%E8%81%AF%E5%84%B2%E5%B1%80%E7%B6%AD%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E8%AE%8A-%E7%AC%A6%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F-10-%EF%BC%92%E7%A5%A8%E6%95%B8%E9%80%9A%E9%81%8E%E6%B1%BA%E8%AD%B0",
     "timestamp": "2026-10-28T18:19:27.320Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "游泳｜盧梓霖破短池男子200自香港紀錄　全國賽改寫塵封9年港績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192280578196508672903526.jpeg/rP52yPBAaH0dGJXwEOUGsDbmJmARujTRXHxaVFx8WlQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404659/%E6%B8%B8%E6%B3%B3-%E7%9B%A7%E6%A2%93%E9%9C%96%E7%A0%B4%E7%9F%AD%E6%B1%A0%E7%94%B7%E5%AD%90200%E8%87%AA%E9%A6%99%E6%B8%AF%E7%B4%80%E9%8C%84-%E5%85%A8%E5%9C%8B%E8%B3%BD%E6%94%B9%E5%AF%AB%E5%A1%B5%E5%B0%819%E5%B9%B4%E6%B8%AF%E7%B8%BE",
-    "timestamp": "2026-10-28T17:54:19.746Z",
     "strategy": ".content-card__main"
   }
 ];
