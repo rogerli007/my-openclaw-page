@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T20:56:49.335Z
+// Last updated: 2026-10-29T21:15:14.819Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「X教授」柏德烈史釗活逝世享年86歲　《復仇者聯盟5》成最後演出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192696227028799488429136.jpeg/Em1uL_xwOgbRNRRLEJoXAums8lo-C0vhRqp49UaqePU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405116/x%E6%95%99%E6%8E%88-%E6%9F%8F%E5%BE%B7%E7%83%88%E5%8F%B2%E9%87%97%E6%B4%BB%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B486%E6%AD%B2-%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%88%90%E6%9C%80%E5%BE%8C%E6%BC%94%E5%87%BA",
+    "timestamp": "2026-10-29T21:15:14.819Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「X教授」柏德烈史釗活逝世享年86歲　《復仇者聯盟5》成最後演出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172901613078056960948215.jpeg/-jWbApgyA_nHqOYrb_PkSgWfOXE1fAtRVZEjSFWRI0g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405086/%E9%8A%85%E9%91%BC%E7%81%A3%E6%B8%A3%E6%89%93%E9%8A%80%E8%A1%8C%E5%85%A7%E5%9C%B0%E5%A5%B3%E5%AD%98100%E5%85%83%E6%87%B7%E7%96%91%E5%81%87%E7%BE%8E%E9%88%94-%E8%81%B7%E5%93%A1%E6%8F%AD%E7%99%BC%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-10-29T14:54:13.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "單立文回應雷頌德指《愛心速遞》班底貴TVB要換血言論：唔關我事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192602424343269376602537.jpeg/EdpI5pYl6PFllY8NoNhA1cSfQmNMagtX4HtlCeB7ZQk",
-    "url": "https://www.hk01.com/01TV/60405083/%E5%96%AE%E7%AB%8B%E6%96%87%E5%9B%9E%E6%87%89%E9%9B%B7%E9%A0%8C%E5%BE%B7%E6%8C%87-%E6%84%9B%E5%BF%83%E9%80%9F%E9%81%9E-%E7%8F%AD%E5%BA%95%E8%B2%B4tvb%E8%A6%81%E6%8F%9B%E8%A1%80%E8%A8%80%E8%AB%96-%E5%94%94%E9%97%9C%E6%88%91%E4%BA%8B",
-    "timestamp": "2026-10-29T14:31:33.169Z",
     "strategy": ".content-card__main"
   }
 ];
