@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T23:40:15.300Z
+// Last updated: 2026-10-29T23:53:56.374Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "白宮「愛股」Intel盤後暴瀉逾23%！　Q4盈利指引遠遜華爾街預期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187708013507514368905764.jpeg/Od4arFt7FFqyp9gkpAGlz7xZ_erCgMtJJL68BCS-vAQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405131/%E7%99%BD%E5%AE%AE-%E6%84%9B%E8%82%A1-intel%E7%9B%A4%E5%BE%8C%E6%9A%B4%E7%80%89%E9%80%BE23-q4%E7%9B%88%E5%88%A9%E6%8C%87%E5%BC%95%E9%81%A0%E9%81%9C%E8%8F%AF%E7%88%BE%E8%A1%97%E9%A0%90%E6%9C%9F",
+    "timestamp": "2026-10-29T23:53:56.374Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美陸軍三星中將被指向傳媒洩密遭革職　美媒：曾4次未能通過測謊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
     "timestamp": "2026-10-29T17:54:12.953Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
-    "timestamp": "2026-10-29T17:40:44.430Z",
     "strategy": ".content-card__main"
   }
 ];
