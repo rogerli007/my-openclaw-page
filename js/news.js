@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T17:40:44.430Z
+// Last updated: 2026-10-29T17:54:12.953Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
+    "timestamp": "2026-10-29T17:54:12.953Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192538552060088320134652.jpeg/8Rop75laPcrNUwNLa8LWZ-thCQOphkVpGSL4lhki-JY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405007/%E6%B5%B7%E5%85%92%E5%A4%A7%E7%88%8617%E6%AD%B2%E5%81%B7%E8%AD%B7%E7%85%A7%E9%80%83%E5%8F%B0%E7%81%A3-%E8%A2%AB%E5%AE%B6%E4%BA%BA%E7%99%BC%E7%8F%BE-%E8%87%B3%E5%B0%91%E4%BD%A0%E6%AD%BB%E5%92%97%E6%88%91%E9%83%BD%E6%90%B5%E5%88%B0%E6%A2%9D%E5%B1%8D",
     "timestamp": "2026-10-29T11:25:13.840Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門灰衫男便利店偷竊　被店員斷正　疑非初犯累偷$500貨物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192554546103062528134086.jpeg/UE_udbkZnfFZtheq1sUlJorZVc_XjMszVTyqMFU8qjA",
-    "url": "https://www.hk01.com/01TV/60405034/%E5%B1%AF%E9%96%80%E7%81%B0%E8%A1%AB%E7%94%B7%E4%BE%BF%E5%88%A9%E5%BA%97%E5%81%B7%E7%AB%8A-%E8%A2%AB%E5%BA%97%E5%93%A1%E6%96%B7%E6%AD%A3-%E7%96%91%E9%9D%9E%E5%88%9D%E7%8A%AF%E7%B4%AF%E5%81%B7-500%E8%B2%A8%E7%89%A9",
-    "timestamp": "2026-10-29T11:15:18.848Z",
     "strategy": ".content-card__main"
   }
 ];
