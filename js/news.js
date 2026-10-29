@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T15:19:24.648Z
+// Last updated: 2026-10-29T15:40:44.027Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黑幫沙頭角經營非法加油站　跨部門檢$9萬汽油　58歲男將被檢控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192618750038249472698074.jpeg/JQVv0PqiDZPE0IFzvCprWumFwgOjvVMhXtQuFl7ULhY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405093/%E9%BB%91%E5%B9%AB%E6%B2%99%E9%A0%AD%E8%A7%92%E7%B6%93%E7%87%9F%E9%9D%9E%E6%B3%95%E5%8A%A0%E6%B2%B9%E7%AB%99-%E8%B7%A8%E9%83%A8%E9%96%80%E6%AA%A2-9%E8%90%AC%E6%B1%BD%E6%B2%B9-58%E6%AD%B2%E7%94%B7%E5%B0%87%E8%A2%AB%E6%AA%A2%E6%8E%A7",
+    "timestamp": "2026-10-29T15:40:44.027Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌道近荔景邨私家車撞水馬翻覆四輪朝天　入荃灣方向全封",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192528055902408704937160.jpeg/vCTx2XhE_Mgm-oWibbpKf5ST7GoE9WyXmCYFCJgmBQg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60404902/%E6%B4%8B%E8%94%A5%E9%A3%9F%E8%AD%9C-3%E5%88%86%E9%90%98%E6%B4%8B%E8%91%B1%E7%84%A6%E7%B3%96%E5%8C%96%E6%9B%B4%E9%A6%99%E7%94%9C%E5%B9%BE%E6%99%82%E6%94%BE%E6%B2%B9%E5%95%B1-%E5%88%87%E6%B4%8B%E8%94%A5%E9%98%B2%E5%82%AC%E6%B7%9A5%E6%8B%9B",
     "timestamp": "2026-10-29T09:40:24.208Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張柏芝登雜誌封面狀態大勇　全年狂上封面人氣沒法擋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192486568330268672540832.jpeg/ArLZNLKykGMCEMv3LCnMRhXQ9SgJT4VyLY9F3i2PRd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404849/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E7%99%BB%E9%9B%9C%E8%AA%8C%E5%B0%81%E9%9D%A2%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87-%E5%85%A8%E5%B9%B4%E7%8B%82%E4%B8%8A%E5%B0%81%E9%9D%A2%E4%BA%BA%E6%B0%A3%E6%B2%92%E6%B3%95%E6%93%8B",
-    "timestamp": "2026-10-29T09:30:18.154Z",
     "strategy": ".content-card__main"
   }
 ];
