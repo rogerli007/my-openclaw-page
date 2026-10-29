@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T06:47:32.590Z
+// Last updated: 2026-10-29T07:17:55.124Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美聯儲未加息　會德豐黃光耀指息口穩定有助置業　利樓市健康發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260119/1089910924178886656084179.jpeg/-MnzpS-RCBeXMoyPl8_MFeQ65-u2YK40oQACh5QAAoc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60404873/%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%AA%E5%8A%A0%E6%81%AF-%E6%9C%83%E5%BE%B7%E8%B1%90%E9%BB%83%E5%85%89%E8%80%80%E6%8C%87%E6%81%AF%E5%8F%A3%E7%A9%A9%E5%AE%9A%E6%9C%89%E5%8A%A9%E7%BD%AE%E6%A5%AD-%E5%88%A9%E6%A8%93%E5%B8%82%E5%81%A5%E5%BA%B7%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-10-29T07:17:55.124Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺公路貨車垃圾車相撞釀1傷　2人一度被困　往上水交通擠塞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192158073968398336621738.png/jxmy3J620JueJyNl9MXYiJin6cnNjvRVSqJKPUqiSj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399050/%E9%81%BA%E7%89%A9%E8%AE%8A%E4%BA%8C%E6%89%8B%E7%89%A9-%E5%90%8C%E4%BA%BA%E8%AA%8C%E8%B4%88%E5%A5%BD%E5%8F%8B-%E4%BB%96%E9%9B%A2%E4%B8%96%E5%BE%8C%E9%81%BA%E7%89%A9%E8%A2%AB%E7%B6%B2%E5%94%AE-%E6%83%B9%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0",
     "timestamp": "2026-10-29T01:20:06.869Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國議息｜聯儲局按兵不動　沃什強調：無關中期選舉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177099587261960192265419.jpeg/ns57QlM_fCc5jZ-o-wsqu4wPlilhbdqVs8uyNLPLsjQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404682/%E7%BE%8E%E5%9C%8B%E8%AD%B0%E6%81%AF-%E8%81%AF%E5%84%B2%E5%B1%80%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95-%E6%B2%83%E4%BB%80%E5%BC%B7%E8%AA%BF-%E7%84%A1%E9%97%9C%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
-    "timestamp": "2026-10-29T01:02:42.687Z",
     "strategy": ".content-card__main"
   }
 ];
