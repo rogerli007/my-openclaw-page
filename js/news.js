@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T10:41:04.288Z
+// Last updated: 2026-10-29T10:53:50.202Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Amazing Toy Show 2026｜12月首登會展新增卡牌專區｜門票獨家9折",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189617130467758080918536.jpeg/yxgi59VF9Kw-oz9YBBXfhZSuDrvatkWIwqbHOcKmxzk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401730/amazing-toy-show-2026-12%E6%9C%88%E9%A6%96%E7%99%BB%E6%9C%83%E5%B1%95%E6%96%B0%E5%A2%9E%E5%8D%A1%E7%89%8C%E5%B0%88%E5%8D%80-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B69%E6%8A%98",
+    "timestamp": "2026-10-29T10:53:50.202Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超能膠清除｜黐手勿硬扯！日本廠商教3步秒溶解+用前塗1物助防黏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192464633261199360849631.jpeg/DiMQWh7eg31jQSLxfGZfCrkLIIFyQVfJ-E3tSvhN7Uo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404818/%E8%82%BA%E7%99%8C%E5%8F%8A%E4%B9%B3%E7%99%8C%E5%9D%87%E5%8F%AF%E5%BC%95%E7%99%BC%E8%85%A6%E8%BD%89%E7%A7%BB-%E9%A0%AD%E7%97%9B-%E8%A8%98%E6%86%B6%E5%8A%9B%E4%B8%8B%E9%99%8D%E9%A0%88%E7%95%99%E7%A5%9E",
     "timestamp": "2026-10-29T05:16:26.861Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朝鮮據報向朝鮮半島東部海域　發射懷疑彈道導彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230714/756602255784022016586310.jpeg/mDSilU5NwKCavz4wBOYCb6sm6Uq5DjWJpytknKcrZJw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404805/%E6%9C%9D%E9%AE%AE%E6%93%9A%E5%A0%B1%E5%90%91%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F-%E7%99%BC%E5%B0%84%E6%87%B7%E7%96%91%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
-    "timestamp": "2026-10-29T04:53:50.161Z",
     "strategy": ".content-card__main"
   }
 ];
