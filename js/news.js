@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T10:53:50.202Z
+// Last updated: 2026-10-29T11:15:18.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門灰衫男便利店偷竊　被店員斷正　疑非初犯累偷$500貨物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192554546103062528134086.jpeg/UE_udbkZnfFZtheq1sUlJorZVc_XjMszVTyqMFU8qjA",
+    "url": "https://www.hk01.com/01TV/60405034/%E5%B1%AF%E9%96%80%E7%81%B0%E8%A1%AB%E7%94%B7%E4%BE%BF%E5%88%A9%E5%BA%97%E5%81%B7%E7%AB%8A-%E8%A2%AB%E5%BA%97%E5%93%A1%E6%96%B7%E6%AD%A3-%E7%96%91%E9%9D%9E%E5%88%9D%E7%8A%AF%E7%B4%AF%E5%81%B7-500%E8%B2%A8%E7%89%A9",
+    "timestamp": "2026-10-29T11:15:18.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Amazing Toy Show 2026｜12月首登會展新增卡牌專區｜門票獨家9折",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192464633261199360849631.jpeg/DiMQWh7eg31jQSLxfGZfCrkLIIFyQVfJ-E3tSvhN7Uo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404818/%E8%82%BA%E7%99%8C%E5%8F%8A%E4%B9%B3%E7%99%8C%E5%9D%87%E5%8F%AF%E5%BC%95%E7%99%BC%E8%85%A6%E8%BD%89%E7%A7%BB-%E9%A0%AD%E7%97%9B-%E8%A8%98%E6%86%B6%E5%8A%9B%E4%B8%8B%E9%99%8D%E9%A0%88%E7%95%99%E7%A5%9E",
     "timestamp": "2026-10-29T05:27:47.410Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肺癌及乳癌均可引發腦轉移　 頭痛、記憶力下降須留神",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192464633261199360849631.jpeg/DiMQWh7eg31jQSLxfGZfCrkLIIFyQVfJ-E3tSvhN7Uo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404818/%E8%82%BA%E7%99%8C%E5%8F%8A%E4%B9%B3%E7%99%8C%E5%9D%87%E5%8F%AF%E5%BC%95%E7%99%BC%E8%85%A6%E8%BD%89%E7%A7%BB-%E9%A0%AD%E7%97%9B-%E8%A8%98%E6%86%B6%E5%8A%9B%E4%B8%8B%E9%99%8D%E9%A0%88%E7%95%99%E7%A5%9E",
-    "timestamp": "2026-10-29T05:16:26.861Z",
     "strategy": ".content-card__main"
   }
 ];
