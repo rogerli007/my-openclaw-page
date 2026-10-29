@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T12:22:52.435Z
+// Last updated: 2026-10-29T12:45:39.487Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城11-15劇情線上看丨張智霖黑化接管公司+江美儀要見吳卓羲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185285192219103232753169.jpeg/_PqubVeE1cv3npl6POUWEG-mSGw8YfxtoyLzSKMi80g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403768/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E11-15%E5%8A%87%E6%83%85%E7%B7%9A%E4%B8%8A%E7%9C%8B-%E5%BC%B5%E6%99%BA%E9%9C%96%E9%BB%91%E5%8C%96%E6%8E%A5%E7%AE%A1%E5%85%AC%E5%8F%B8-%E6%B1%9F%E7%BE%8E%E5%84%80%E8%A6%81%E8%A6%8B%E5%90%B3%E5%8D%93%E7%BE%B2",
+    "timestamp": "2026-10-29T12:45:39.487Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "46歲泰劇女神Aff逆齡嫩似少女　瀟灑甩百億出軌夫戀小16歲Nonkul",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260119/1089910924178886656084179.jpeg/-MnzpS-RCBeXMoyPl8_MFeQ65-u2YK40oQACh5QAAoc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60404873/%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%AA%E5%8A%A0%E6%81%AF-%E6%9C%83%E5%BE%B7%E8%B1%90%E9%BB%83%E5%85%89%E8%80%80%E6%8C%87%E6%81%AF%E5%8F%A3%E7%A9%A9%E5%AE%9A%E6%9C%89%E5%8A%A9%E7%BD%AE%E6%A5%AD-%E5%88%A9%E6%A8%93%E5%B8%82%E5%81%A5%E5%BA%B7%E7%99%BC%E5%B1%95",
     "timestamp": "2026-10-29T07:17:55.124Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺公路貨車垃圾車相撞釀1傷　2人一度被困　往上水交通擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192484410956451840540916.jpeg/ztT1U8R3eJzjCbLj2N7hKGs_F2pGbGaFOOqirTjqoq0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404854/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E5%9E%83%E5%9C%BE%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E5%82%B7-2%E4%BA%BA%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E5%BE%80%E4%B8%8A%E6%B0%B4%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-10-29T06:47:32.590Z",
     "strategy": ".content-card__main"
   }
 ];
