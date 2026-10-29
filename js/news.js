@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T15:40:44.027Z
+// Last updated: 2026-10-29T15:54:58.880Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB乘勢急推接龍保安部短劇　焦浩軒莫家淦主演 網民：保安大戰？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192616302234046464219748.jpeg/BMT9zT5nyQ5ou4f7oB5jQmMxNKfo_23zGld8kBpXfJA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405070/tvb%E4%B9%98%E5%8B%A2%E6%80%A5%E6%8E%A8%E6%8E%A5%E9%BE%8D%E4%BF%9D%E5%AE%89%E9%83%A8%E7%9F%AD%E5%8A%87-%E7%84%A6%E6%B5%A9%E8%BB%92%E8%8E%AB%E5%AE%B6%E6%B7%A6%E4%B8%BB%E6%BC%94-%E7%B6%B2%E6%B0%91-%E4%BF%9D%E5%AE%89%E5%A4%A7%E6%88%B0",
+    "timestamp": "2026-10-29T15:54:58.880Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黑幫沙頭角經營非法加油站　跨部門檢$9萬汽油　58歲男將被檢控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079907638440890368537869.jpeg/2tNBo1gvxqeYmUU_goP20ey3kAD83B833FlcT-ZZXE8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404971/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A0%B1%E5%91%8A-%E5%B0%8D%E5%AE%8F%E6%A5%AD-%E9%B4%BB%E6%AF%85%E4%BD%9C%E6%9C%80%E5%9A%B4%E5%8E%B2%E8%AD%B4%E8%B2%AC-%E9%BB%9E%E5%90%8D%E9%AB%98%E5%B1%A4%E7%82%BA-%E7%BD%AA%E9%AD%81%E7%A6%8D%E9%A6%96",
     "timestamp": "2026-10-29T09:54:14.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洋蔥食譜｜3分鐘洋葱焦糖化更香甜幾時放油啱？切洋蔥防催淚5招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192528055902408704937160.jpeg/vCTx2XhE_Mgm-oWibbpKf5ST7GoE9WyXmCYFCJgmBQg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60404902/%E6%B4%8B%E8%94%A5%E9%A3%9F%E8%AD%9C-3%E5%88%86%E9%90%98%E6%B4%8B%E8%91%B1%E7%84%A6%E7%B3%96%E5%8C%96%E6%9B%B4%E9%A6%99%E7%94%9C%E5%B9%BE%E6%99%82%E6%94%BE%E6%B2%B9%E5%95%B1-%E5%88%87%E6%B4%8B%E8%94%A5%E9%98%B2%E5%82%AC%E6%B7%9A5%E6%8B%9B",
-    "timestamp": "2026-10-29T09:40:24.208Z",
     "strategy": ".content-card__main"
   }
 ];
