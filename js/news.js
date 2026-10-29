@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T04:43:02.665Z
+// Last updated: 2026-10-29T04:53:50.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朝鮮據報向朝鮮半島東部海域　發射懷疑彈道導彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230714/756602255784022016586310.jpeg/mDSilU5NwKCavz4wBOYCb6sm6Uq5DjWJpytknKcrZJw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404805/%E6%9C%9D%E9%AE%AE%E6%93%9A%E5%A0%B1%E5%90%91%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F-%E7%99%BC%E5%B0%84%E6%87%B7%E7%96%91%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
+    "timestamp": "2026-10-29T04:53:50.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "vivo X500 Pro Max評測：2億蔡司長焦配7800mAh巨電實力又如何？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192150368872566784709561.jpeg/S5N8DUWOfe9decqWG-47bn7lRHGKKkWI_9cZ0__XGdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404445/%E8%88%87%E5%BC%B5%E9%8C%A6%E7%A8%8B%E9%9B%A2%E5%A9%9A%E5%BE%8C%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE%E7%94%A9-%E5%B8%AB%E5%A5%B6%E5%91%B3-%E5%A5%B3%E7%A5%9E%E5%BC%B5%E5%BB%B6%E7%8B%80%E6%85%8B%E5%9B%9E%E6%98%A5%E6%9B%B4%E5%8B%9D%E5%BE%9E%E5%89%8D",
     "timestamp": "2026-10-28T22:40:28.801Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日初時有一兩陣微雨　日間漸轉天晴乾燥　最高約29度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192355581260861440679504.jpeg/t9QVDJVD7WJqFLHg13T3DWTQNDX0pRnM4r2STOK9kkw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60404658/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A5%E9%96%93%E6%BC%B8%E8%BD%89%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6",
-    "timestamp": "2026-10-28T22:25:47.007Z",
     "strategy": ".content-card__main"
   }
 ];
