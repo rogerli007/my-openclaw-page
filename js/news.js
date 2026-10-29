@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T01:20:06.869Z
+// Last updated: 2026-10-29T01:43:28.799Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「美女別跑！我不是壞人」網紅深山救助流浪女爆紅　警方揭真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192153016606658560461875.jpeg/mGBObPhbeleaV3mCQwxsnRfXeOqMtCKp2bRs0dm0bNE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404494/%E7%BE%8E%E5%A5%B3%E5%88%A5%E8%B7%91-%E6%88%91%E4%B8%8D%E6%98%AF%E5%A3%9E%E4%BA%BA-%E7%B6%B2%E7%B4%85%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3%E7%88%86%E7%B4%85-%E8%AD%A6%E6%96%B9%E6%8F%AD%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-10-29T01:43:28.799Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遺物變二手物！同人誌贈好友　他離世後遺物被網售　惹網民熱議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192280578196508672903526.jpeg/rP52yPBAaH0dGJXwEOUGsDbmJmARujTRXHxaVFx8WlQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404659/%E6%B8%B8%E6%B3%B3-%E7%9B%A7%E6%A2%93%E9%9C%96%E7%A0%B4%E7%9F%AD%E6%B1%A0%E7%94%B7%E5%AD%90200%E8%87%AA%E9%A6%99%E6%B8%AF%E7%B4%80%E9%8C%84-%E5%85%A8%E5%9C%8B%E8%B3%BD%E6%94%B9%E5%AF%AB%E5%A1%B5%E5%B0%819%E5%B9%B4%E6%B8%AF%E7%B8%BE",
     "timestamp": "2026-10-28T17:43:09.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "游泳｜盧梓霖破短池男子200自香港紀錄　全國賽改寫塵封9年港績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192280578196508672903526.jpeg/rP52yPBAaH0dGJXwEOUGsDbmJmARujTRXHxaVFx8WlQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404659/%E6%B8%B8%E6%B3%B3-%E7%9B%A7%E6%A2%93%E9%9C%96%E7%A0%B4%E7%9F%AD%E6%B1%A0%E7%94%B7%E5%AD%90200%E8%87%AA%E9%A6%99%E6%B8%AF%E7%B4%80%E9%8C%84-%E5%85%A8%E5%9C%8B%E8%B3%BD%E6%94%B9%E5%AF%AB%E5%A1%B5%E5%B0%819%E5%B9%B4%E6%B8%AF%E7%B8%BE",
-    "timestamp": "2026-10-28T17:25:19.776Z",
     "strategy": ".content-card__main"
   }
 ];
