@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T13:54:19.784Z
+// Last updated: 2026-10-29T14:31:33.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "單立文回應雷頌德指《愛心速遞》班底貴TVB要換血言論：唔關我事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192602424343269376602537.jpeg/EdpI5pYl6PFllY8NoNhA1cSfQmNMagtX4HtlCeB7ZQk",
+    "url": "https://www.hk01.com/01TV/60405083/%E5%96%AE%E7%AB%8B%E6%96%87%E5%9B%9E%E6%87%89%E9%9B%B7%E9%A0%8C%E5%BE%B7%E6%8C%87-%E6%84%9B%E5%BF%83%E9%80%9F%E9%81%9E-%E7%8F%AD%E5%BA%95%E8%B2%B4tvb%E8%A6%81%E6%8F%9B%E8%A1%80%E8%A8%80%E8%AB%96-%E5%94%94%E9%97%9C%E6%88%91%E4%BA%8B",
+    "timestamp": "2026-10-29T14:31:33.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "甘比獲封為「Slasher」典範　向Gen Z學習：有不受自我限制的勇氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192434072719200256397084.jpeg/pgLcC5eieHAYaSUwvnNd6c76ZaHKuyQe3tMPfd7TD30?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404934/%E9%A6%99%E6%B8%AF%E4%BB%94%E5%B7%A5%E5%82%B7-%E6%93%9A%E6%82%89%E7%96%91%E5%90%8A%E8%87%82%E8%BB%8A%E5%B0%BE%E8%BC%AA%E5%A3%93%E5%A1%8C%E6%8E%92%E6%B0%B4%E8%93%8B-%E8%BB%8A%E8%BC%9B%E5%82%BE%E5%81%B4%E8%87%B4%E5%B7%A5%E4%BD%9C%E5%8F%B0%E6%80%A5%E5%A2%9C",
     "timestamp": "2026-10-29T08:55:53.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Cartier美洲豹入駐虎豹別墅！卡地亞展覽展現野性美學|附登記連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192514755298856960906154.jpeg/bTL0CN9KVq2VLravyGnMa8gN89BXhqSO-345qft-Oak?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60404823/cartier%E7%BE%8E%E6%B4%B2%E8%B1%B9%E5%85%A5%E9%A7%90%E8%99%8E%E8%B1%B9%E5%88%A5%E5%A2%85-%E5%8D%A1%E5%9C%B0%E4%BA%9E%E5%B1%95%E8%A6%BD%E5%B1%95%E7%8F%BE%E9%87%8E%E6%80%A7%E7%BE%8E%E5%AD%B8-%E9%99%84%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-10-29T08:42:12.817Z",
     "strategy": ".content-card__main"
   }
 ];
