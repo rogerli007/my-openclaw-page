@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T14:54:13.993Z
+// Last updated: 2026-10-29T15:19:24.648Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌道近荔景邨私家車撞水馬翻覆四輪朝天　入荃灣方向全封",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192612375279177728964538.jpeg/HGs8slklVVhEYhaIfTK5FYX6E0qb0qQsJxVF1gIVRdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405090/%E8%91%B5%E6%B6%8C%E9%81%93%E8%BF%91%E8%8D%94%E6%99%AF%E9%82%A8%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%B0%B4%E9%A6%AC%E7%BF%BB%E8%A6%86%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%85%A5%E8%8D%83%E7%81%A3%E6%96%B9%E5%90%91%E5%85%A8%E5%B0%81",
+    "timestamp": "2026-10-29T15:19:24.648Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "銅鑼灣渣打銀行內地女存100元懷疑假美鈔　職員揭發報警拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192486568330268672540832.jpeg/ArLZNLKykGMCEMv3LCnMRhXQ9SgJT4VyLY9F3i2PRd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404849/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E7%99%BB%E9%9B%9C%E8%AA%8C%E5%B0%81%E9%9D%A2%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87-%E5%85%A8%E5%B9%B4%E7%8B%82%E4%B8%8A%E5%B0%81%E9%9D%A2%E4%BA%BA%E6%B0%A3%E6%B2%92%E6%B3%95%E6%93%8B",
     "timestamp": "2026-10-29T09:30:18.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "世界技能大賽港隊奪15獎創歷屆佳績　港鐵技術員軌道車輛技術奪銀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192450346497085440243896.jpeg/NtpmbzxzcEBGvy7-1GoC80DUC_68MU9uvkxYzr5MWM4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60404761/%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B3%BD%E6%B8%AF%E9%9A%8A%E5%A5%AA15%E7%8D%8E%E5%89%B5%E6%AD%B7%E5%B1%86%E4%BD%B3%E7%B8%BE-%E6%B8%AF%E9%90%B5%E6%8A%80%E8%A1%93%E5%93%A1%E8%BB%8C%E9%81%93%E8%BB%8A%E8%BC%9B%E6%8A%80%E8%A1%93%E5%A5%AA%E9%8A%80",
-    "timestamp": "2026-10-29T09:18:08.664Z",
     "strategy": ".content-card__main"
   }
 ];
