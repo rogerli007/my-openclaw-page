@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T02:53:37.759Z
+// Last updated: 2026-10-29T03:35:46.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瘦身｜手臂鬆弛穿衣顯壯？童瑤教3個簡單動作減去拜拜肉緊實線條",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186747873916620800053961.png/sBCh8kkTkKcZ_f3jdVYjvgmPLlSusHlGsfciHLH3Ihw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60399221/%E7%98%A6%E8%BA%AB-%E6%89%8B%E8%87%82%E9%AC%86%E5%BC%9B%E7%A9%BF%E8%A1%A3%E9%A1%AF%E5%A3%AF-%E7%AB%A5%E7%91%A4%E6%95%993%E5%80%8B%E7%B0%A1%E5%96%AE%E5%8B%95%E4%BD%9C%E6%B8%9B%E5%8E%BB%E6%8B%9C%E6%8B%9C%E8%82%89%E7%B7%8A%E5%AF%A6%E7%B7%9A%E6%A2%9D",
+    "timestamp": "2026-10-29T03:35:46.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英聯賽盃｜曼城互射12碼4：3險勝白禮頓　後備門將魯利成救世主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192319745865551872583207.jpeg/psxLD0vts0ytbO2e-DCBljvCzOVxn0ps5S70VeUu9FU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404666/%E7%BE%8E%E5%9C%8B%E8%AD%B0%E6%81%AF-%E6%B2%83%E4%BB%80-%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E4%B8%8D%E5%BD%B1%E9%9F%BF%E8%AD%B0%E6%81%AF%E6%B1%BA%E7%AD%96",
     "timestamp": "2026-10-28T19:53:30.395Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉人生最崩潰時刻：頂著母親的名聲 砸光積蓄清還巨債",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190704743496814592570236.jpeg/2vbfVM7CFHYU-bdg1UqLxhehipdRNVFg54d96OeHfeg",
-    "url": "https://www.hk01.com/01TV/60403226/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%BA%BA%E7%94%9F%E6%9C%80%E5%B4%A9%E6%BD%B0%E6%99%82%E5%88%BB-%E9%A0%82%E8%91%97%E6%AF%8D%E8%A6%AA%E7%9A%84%E5%90%8D%E8%81%B2-%E7%A0%B8%E5%85%89%E7%A9%8D%E8%93%84%E6%B8%85%E9%82%84%E5%B7%A8%E5%82%B5",
-    "timestamp": "2026-10-28T19:24:19.933Z",
     "strategy": ".content-card__main"
   }
 ];
