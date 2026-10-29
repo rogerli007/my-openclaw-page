@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T11:15:18.848Z
+// Last updated: 2026-10-29T11:25:13.840Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海兒大爆17歲偷護照逃台灣　被家人發現：至少你死咗我都搵到條屍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192538552060088320134652.jpeg/8Rop75laPcrNUwNLa8LWZ-thCQOphkVpGSL4lhki-JY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405007/%E6%B5%B7%E5%85%92%E5%A4%A7%E7%88%8617%E6%AD%B2%E5%81%B7%E8%AD%B7%E7%85%A7%E9%80%83%E5%8F%B0%E7%81%A3-%E8%A2%AB%E5%AE%B6%E4%BA%BA%E7%99%BC%E7%8F%BE-%E8%87%B3%E5%B0%91%E4%BD%A0%E6%AD%BB%E5%92%97%E6%88%91%E9%83%BD%E6%90%B5%E5%88%B0%E6%A2%9D%E5%B1%8D",
+    "timestamp": "2026-10-29T11:25:13.840Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門灰衫男便利店偷竊　被店員斷正　疑非初犯累偷$500貨物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192457692065566720986732.jpeg/1A8nS22FzASYDXRG2ZG4hTkotV3NrXg1MDozMDA6MzA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404807/9-8%E5%85%83%E9%BB%9E%E5%BF%83%E9%83%BD%E6%95%91%E5%94%94%E8%BF%94-%E5%A4%A7%E8%A7%92%E5%92%80%E7%9B%88%E5%9C%96%E7%AA%81%E7%B5%90%E6%A5%AD-%E6%9C%88%E5%85%A7%E7%B2%89%E5%B6%BA%E6%98%8E%E6%98%9F%E7%9A%87%E5%AE%AE%E4%BA%A6%E5%9F%B7%E7%AC%A0",
     "timestamp": "2026-10-29T05:41:44.033Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肺癌及乳癌均可引發腦轉移　 頭痛、記憶力下降須留神",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192464633261199360849631.jpeg/DiMQWh7eg31jQSLxfGZfCrkLIIFyQVfJ-E3tSvhN7Uo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404818/%E8%82%BA%E7%99%8C%E5%8F%8A%E4%B9%B3%E7%99%8C%E5%9D%87%E5%8F%AF%E5%BC%95%E7%99%BC%E8%85%A6%E8%BD%89%E7%A7%BB-%E9%A0%AD%E7%97%9B-%E8%A8%98%E6%86%B6%E5%8A%9B%E4%B8%8B%E9%99%8D%E9%A0%88%E7%95%99%E7%A5%9E",
-    "timestamp": "2026-10-29T05:27:47.410Z",
     "strategy": ".content-card__main"
   }
 ];
