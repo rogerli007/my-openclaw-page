@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T13:19:57.736Z
+// Last updated: 2026-10-29T13:28:23.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "你的保安｜靚仔「羅宋湯」選校草入行　洋名Meaning竟關古天樂事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192586075613171712961537.jpeg/kkqlF_xTJ5P8oK-RJNLRSRi67VkdoyoETG1oxExtaMQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404981/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89-%E9%9D%9A%E4%BB%94-%E7%BE%85%E5%AE%8B%E6%B9%AF-%E9%81%B8%E6%A0%A1%E8%8D%89%E5%85%A5%E8%A1%8C-%E6%B4%8B%E5%90%8Dmeaning%E7%AB%9F%E9%97%9C%E5%8F%A4%E5%A4%A9%E6%A8%82%E4%BA%8B",
+    "timestamp": "2026-10-29T13:28:23.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬杜羅案主審法官赫勒斯坦去世　案件分配至新法官明年6月開庭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192492836692430848078914.jpeg/l15xW9YComWsW-ch3C4DpdBzfsY5tIXD-Pf9s_j3_bM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404852/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%97%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%8068%E6%AD%BB-%E5%A5%AA%E5%91%BD%E9%8C%84%E9%9F%B3%E6%9B%9D-%E7%B3%BB%E7%B5%B1%E5%A4%B1%E6%95%88%E7%AB%9F%E4%B8%8B%E4%BB%A4-%E6%AD%A3%E5%B8%B8%E8%A1%8C%E9%A7%9B",
     "timestamp": "2026-10-29T07:53:29.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男子懷疑女友出軌　靠AI開實驗室自製「聽話水」未下手先被捕入獄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192472018755260416072893.png/ORHjM7fN6d4c-Y_n_PE00eAHxuiB6fX71w1zI7INcyM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404820/%E7%94%B7%E5%AD%90%E6%87%B7%E7%96%91%E5%A5%B3%E5%8F%8B%E5%87%BA%E8%BB%8C-%E9%9D%A0ai%E9%96%8B%E5%AF%A6%E9%A9%97%E5%AE%A4%E8%87%AA%E8%A3%BD-%E8%81%BD%E8%A9%B1%E6%B0%B4-%E6%9C%AA%E4%B8%8B%E6%89%8B%E5%85%88%E8%A2%AB%E6%8D%95%E5%85%A5%E7%8D%84",
-    "timestamp": "2026-10-29T07:40:36.115Z",
     "strategy": ".content-card__main"
   }
 ];
