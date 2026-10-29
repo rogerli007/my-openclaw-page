@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T09:30:18.154Z
+// Last updated: 2026-10-29T09:40:24.208Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "洋蔥食譜｜3分鐘洋葱焦糖化更香甜幾時放油啱？切洋蔥防催淚5招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192528055902408704937160.jpeg/vCTx2XhE_Mgm-oWibbpKf5ST7GoE9WyXmCYFCJgmBQg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60404902/%E6%B4%8B%E8%94%A5%E9%A3%9F%E8%AD%9C-3%E5%88%86%E9%90%98%E6%B4%8B%E8%91%B1%E7%84%A6%E7%B3%96%E5%8C%96%E6%9B%B4%E9%A6%99%E7%94%9C%E5%B9%BE%E6%99%82%E6%94%BE%E6%B2%B9%E5%95%B1-%E5%88%87%E6%B4%8B%E8%94%A5%E9%98%B2%E5%82%AC%E6%B7%9A5%E6%8B%9B",
+    "timestamp": "2026-10-29T09:40:24.208Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張柏芝登雜誌封面狀態大勇　全年狂上封面人氣沒法擋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192444528217296896526731.jpeg/5LJDFjlVT9qODZugPdg7ZTo4DO-ofPU-sUA4t7FAOLc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404782/%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E6%A5%AD%E4%B8%BB%E6%94%B6%E5%9B%9E%E5%96%AE%E4%BD%8D-%E6%8F%AD%E5%A4%A7%E9%87%8F%E7%88%AC%E8%9F%B2%E9%A1%9E%E5%8B%95%E7%89%A9%E6%96%83%E5%91%BD-%E5%8C%85%E6%8B%AC20%E9%BE%9C2%E8%9C%A5%E8%9C%B4%E7%AD%89",
     "timestamp": "2026-10-29T03:57:11.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劍擊U23亞錦賽｜港隊首日橫掃7獎牌　方曉楠梁殷僑男佩女花齊奪冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192438316771840000475863.png/pCW25mM8o1lRV8ESQgvo3JgZ2rKsWi3BJLlkxiS5ZMY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404767/%E5%8A%8D%E6%93%8Au23%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E9%A6%96%E6%97%A5%E6%A9%AB%E6%8E%837%E7%8D%8E%E7%89%8C-%E6%96%B9%E6%9B%89%E6%A5%A0%E6%A2%81%E6%AE%B7%E5%83%91%E7%94%B7%E4%BD%A9%E5%A5%B3%E8%8A%B1%E9%BD%8A%E5%A5%AA%E5%86%A0",
-    "timestamp": "2026-10-29T03:44:30.158Z",
     "strategy": ".content-card__main"
   }
 ];
