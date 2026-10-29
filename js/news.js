@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T23:15:53.134Z
+// Last updated: 2026-10-29T23:24:27.289Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秋天食鮮淮山蓮藕潤肺變升糖陷阱？營養師：兩款白色食材屬澱粉質",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189526394200133632375892.jpeg/l-pBa0mPxgzGVfx5xLXSnmMghHsk5Fz-8K0qHfCtKh0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60400132/%E7%A7%8B%E5%A4%A9%E9%A3%9F%E9%AE%AE%E6%B7%AE%E5%B1%B1%E8%93%AE%E8%97%95%E6%BD%A4%E8%82%BA%E8%AE%8A%E5%8D%87%E7%B3%96%E9%99%B7%E9%98%B1-%E7%87%9F%E9%A4%8A%E5%B8%AB-%E5%85%A9%E6%AC%BE%E7%99%BD%E8%89%B2%E9%A3%9F%E6%9D%90%E5%B1%AC%E6%BE%B1%E7%B2%89%E8%B3%AA",
+    "timestamp": "2026-10-29T23:24:27.289Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美軍中央司令部司令罕見赴白宮　向特朗普匯報對伊軍事選項",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
     "timestamp": "2026-10-29T17:25:28.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026｜英雄聯盟8強將誕生！最新賽程結果+免費直播連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192606480587558912837549.png/K-jw2QKqyBlwPwjPDyPYd7lpP05d6hMVQy_QU0Mv0FM",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F8%E5%BC%B7%E5%B0%87%E8%AA%95%E7%94%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-10-29T16:54:36.379Z",
     "strategy": ".content-card__main"
   }
 ];
