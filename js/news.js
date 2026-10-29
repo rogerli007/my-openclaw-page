@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T02:42:22.769Z
+// Last updated: 2026-10-29T02:53:37.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英聯賽盃｜曼城互射12碼4：3險勝白禮頓　後備門將魯利成救世主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192418421468303360061435.jpeg/PN9p506CYR8GvkeJ1SM0xdjLBVbsR8FG9COtxfQjrcU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404684/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E6%9B%BC%E5%9F%8E%E4%BA%92%E5%B0%8412%E7%A2%BC4-3%E9%9A%AA%E5%8B%9D%E7%99%BD%E7%A6%AE%E9%A0%93-%E5%BE%8C%E5%82%99%E9%96%80%E5%B0%87%E9%AD%AF%E5%88%A9%E6%88%90%E6%95%91%E4%B8%96%E4%B8%BB",
+    "timestamp": "2026-10-29T02:53:37.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一粥麵優惠｜外賣快閃！ 原隻鹽焗雞$48＋原隻豬手$38　$78歎兩款",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190704743496814592570236.jpeg/2vbfVM7CFHYU-bdg1UqLxhehipdRNVFg54d96OeHfeg",
     "url": "https://www.hk01.com/01TV/60403226/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%BA%BA%E7%94%9F%E6%9C%80%E5%B4%A9%E6%BD%B0%E6%99%82%E5%88%BB-%E9%A0%82%E8%91%97%E6%AF%8D%E8%A6%AA%E7%9A%84%E5%90%8D%E8%81%B2-%E7%A0%B8%E5%85%89%E7%A9%8D%E8%93%84%E6%B8%85%E9%82%84%E5%B7%A8%E5%82%B5",
     "timestamp": "2026-10-28T19:24:19.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列大選料無陣營過半　內塔尼亞胡籌組聯合政府困難或需重選",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192297458038738944516749.jpeg/AjcV-__AeXEV3J4CHlaHbxDVV_0b3_CgbCrT52wq0-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404662/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8%E6%96%99%E7%84%A1%E9%99%A3%E7%87%9F%E9%81%8E%E5%8D%8A-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%B1%8C%E7%B5%84%E8%81%AF%E5%90%88%E6%94%BF%E5%BA%9C%E5%9B%B0%E9%9B%A3%E6%88%96%E9%9C%80%E9%87%8D%E9%81%B8",
-    "timestamp": "2026-10-28T18:53:32.592Z",
     "strategy": ".content-card__main"
   }
 ];
