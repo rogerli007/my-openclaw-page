@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T11:25:13.840Z
+// Last updated: 2026-10-29T11:40:34.574Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "75歲星巴克店員竟是前戰機飛行員　豪言做到90歲　兼職原因極熱血",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192454567514607616957638.jpeg/piRYscB_RzwC2hSUComAmovZKXEiE2JHsQnQarEJ0Go?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404751/75%E6%AD%B2%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BA%97%E5%93%A1%E7%AB%9F%E6%98%AF%E5%89%8D%E6%88%B0%E6%A9%9F%E9%A3%9B%E8%A1%8C%E5%93%A1-%E8%B1%AA%E8%A8%80%E5%81%9A%E5%88%B090%E6%AD%B2-%E5%85%BC%E8%81%B7%E5%8E%9F%E5%9B%A0%E6%A5%B5%E7%86%B1%E8%A1%80",
+    "timestamp": "2026-10-29T11:40:34.574Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海兒大爆17歲偷護照逃台灣　被家人發現：至少你死咗我都搵到條屍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192471290758303744539206.jpeg/uh_NhLAcuMzKiKdMnY_Ois3eMGJZ3jmXO2jHqDtox6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60404808/%E9%9B%9911%E5%84%AA%E6%83%A0%E8%91%97%E6%95%B8%E6%87%B6%E4%BA%BA%E5%8C%85-playstation-5-%E8%B1%90%E6%BE%A4-%E5%B0%8F%E7%B1%B3-%E5%8F%8B%E5%92%8C-%E9%9B%BB%E5%99%A8%E5%B9%AB",
     "timestamp": "2026-10-29T05:53:47.224Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "9.8元點心都救唔返！大角咀盈圖突結業　月內粉嶺明星皇宮亦執笠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192457692065566720986732.jpeg/1A8nS22FzASYDXRG2ZG4hTkotV3NrXg1MDozMDA6MzA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404807/9-8%E5%85%83%E9%BB%9E%E5%BF%83%E9%83%BD%E6%95%91%E5%94%94%E8%BF%94-%E5%A4%A7%E8%A7%92%E5%92%80%E7%9B%88%E5%9C%96%E7%AA%81%E7%B5%90%E6%A5%AD-%E6%9C%88%E5%85%A7%E7%B2%89%E5%B6%BA%E6%98%8E%E6%98%9F%E7%9A%87%E5%AE%AE%E4%BA%A6%E5%9F%B7%E7%AC%A0",
-    "timestamp": "2026-10-29T05:41:44.033Z",
     "strategy": ".content-card__main"
   }
 ];
