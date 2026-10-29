@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T12:45:39.487Z
+// Last updated: 2026-10-29T13:19:57.736Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬杜羅案主審法官赫勒斯坦去世　案件分配至新法官明年6月開庭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192583385621467136367129.jpeg/P8WcazAkI1rwA04jCcEYjdGqZvipd6_Ib0ssrm9LLK4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405057/%E9%A6%AC%E6%9D%9C%E7%BE%85%E6%A1%88%E4%B8%BB%E5%AF%A9%E6%B3%95%E5%AE%98%E8%B5%AB%E5%8B%92%E6%96%AF%E5%9D%A6%E5%8E%BB%E4%B8%96-%E6%A1%88%E4%BB%B6%E5%88%86%E9%85%8D%E8%87%B3%E6%96%B0%E6%B3%95%E5%AE%98%E6%98%8E%E5%B9%B46%E6%9C%88%E9%96%8B%E5%BA%AD",
+    "timestamp": "2026-10-29T13:19:57.736Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城11-15劇情線上看丨張智霖黑化接管公司+江美儀要見吳卓羲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192472018755260416072893.png/ORHjM7fN6d4c-Y_n_PE00eAHxuiB6fX71w1zI7INcyM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404820/%E7%94%B7%E5%AD%90%E6%87%B7%E7%96%91%E5%A5%B3%E5%8F%8B%E5%87%BA%E8%BB%8C-%E9%9D%A0ai%E9%96%8B%E5%AF%A6%E9%A9%97%E5%AE%A4%E8%87%AA%E8%A3%BD-%E8%81%BD%E8%A9%B1%E6%B0%B4-%E6%9C%AA%E4%B8%8B%E6%89%8B%E5%85%88%E8%A2%AB%E6%8D%95%E5%85%A5%E7%8D%84",
     "timestamp": "2026-10-29T07:40:36.115Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯儲未加息　會德豐黃光耀指息口穩定有助置業　利樓市健康發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260119/1089910924178886656084179.jpeg/-MnzpS-RCBeXMoyPl8_MFeQ65-u2YK40oQACh5QAAoc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60404873/%E7%BE%8E%E8%81%AF%E5%84%B2%E6%9C%AA%E5%8A%A0%E6%81%AF-%E6%9C%83%E5%BE%B7%E8%B1%90%E9%BB%83%E5%85%89%E8%80%80%E6%8C%87%E6%81%AF%E5%8F%A3%E7%A9%A9%E5%AE%9A%E6%9C%89%E5%8A%A9%E7%BD%AE%E6%A5%AD-%E5%88%A9%E6%A8%93%E5%B8%82%E5%81%A5%E5%BA%B7%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-10-29T07:17:55.124Z",
     "strategy": ".content-card__main"
   }
 ];
