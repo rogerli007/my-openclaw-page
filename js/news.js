@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T18:19:16.928Z
+// Last updated: 2026-10-29T18:53:53.711Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國通過禁止中國實驗室測試在美使用電子產品　2028年底生效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192657285520822272951873.jpeg/SkTsrZJt94chEG1Q3P_SCLpAzhmY4i3C7pe3lO6Xt5Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405106/%E7%BE%8E%E5%9C%8B%E9%80%9A%E9%81%8E%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9C%8B%E5%AF%A6%E9%A9%97%E5%AE%A4%E6%B8%AC%E8%A9%A6%E5%9C%A8%E7%BE%8E%E4%BD%BF%E7%94%A8%E9%9B%BB%E5%AD%90%E7%94%A2%E5%93%81-2028%E5%B9%B4%E5%BA%95%E7%94%9F%E6%95%88",
+    "timestamp": "2026-10-29T18:53:53.711Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192558275246166016864921.jpeg/pxS2PmQTaXRwSR4xX7C-2aqRcl0eUw-A6yi92usovdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405039/tvb%E4%B8%8D%E8%BC%B8hoy-%E5%85%AC%E5%B8%83-%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%A6%96%E5%8D%81%E9%9B%86%E7%8B%82%E5%90%B82-300%E8%90%AC%E6%AC%A1%E8%A7%80%E7%9C%8B",
     "timestamp": "2026-10-29T11:53:40.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "75歲星巴克店員竟是前戰機飛行員　豪言做到90歲　兼職原因極熱血",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192454567514607616957638.jpeg/piRYscB_RzwC2hSUComAmovZKXEiE2JHsQnQarEJ0Go?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404751/75%E6%AD%B2%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BA%97%E5%93%A1%E7%AB%9F%E6%98%AF%E5%89%8D%E6%88%B0%E6%A9%9F%E9%A3%9B%E8%A1%8C%E5%93%A1-%E8%B1%AA%E8%A8%80%E5%81%9A%E5%88%B090%E6%AD%B2-%E5%85%BC%E8%81%B7%E5%8E%9F%E5%9B%A0%E6%A5%B5%E7%86%B1%E8%A1%80",
-    "timestamp": "2026-10-29T11:40:34.574Z",
     "strategy": ".content-card__main"
   }
 ];
