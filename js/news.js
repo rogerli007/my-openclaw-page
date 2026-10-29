@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T19:40:42.324Z
+// Last updated: 2026-10-29T19:53:35.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗被指已收到萬斯信件惟尚未回覆　堅持談判需滿足七項條件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192659110839980032361980.jpeg/RRpyieW1maBMSlSiyT5NL8I6MwYByTPZglrfLIJa3yw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405108/%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%8C%87%E5%B7%B2%E6%94%B6%E5%88%B0%E8%90%AC%E6%96%AF%E4%BF%A1%E4%BB%B6%E6%83%9F%E5%B0%9A%E6%9C%AA%E5%9B%9E%E8%A6%86-%E5%A0%85%E6%8C%81%E8%AB%87%E5%88%A4%E9%9C%80%E6%BB%BF%E8%B6%B3%E4%B8%83%E9%A0%85%E6%A2%9D%E4%BB%B6",
+    "timestamp": "2026-10-29T19:53:35.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗被指已收到萬斯信件惟尚未回覆　堅持談判需滿足七項條件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192586075613171712961537.jpeg/kkqlF_xTJ5P8oK-RJNLRSRi67VkdoyoETG1oxExtaMQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404981/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89-%E9%9D%9A%E4%BB%94-%E7%BE%85%E5%AE%8B%E6%B9%AF-%E9%81%B8%E6%A0%A1%E8%8D%89%E5%85%A5%E8%A1%8C-%E6%B4%8B%E5%90%8Dmeaning%E7%AB%9F%E9%97%9C%E5%8F%A4%E5%A4%A9%E6%A8%82%E4%BA%8B",
     "timestamp": "2026-10-29T13:28:23.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬杜羅案主審法官赫勒斯坦去世　案件分配至新法官明年6月開庭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192583385621467136367129.jpeg/P8WcazAkI1rwA04jCcEYjdGqZvipd6_Ib0ssrm9LLK4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405057/%E9%A6%AC%E6%9D%9C%E7%BE%85%E6%A1%88%E4%B8%BB%E5%AF%A9%E6%B3%95%E5%AE%98%E8%B5%AB%E5%8B%92%E6%96%AF%E5%9D%A6%E5%8E%BB%E4%B8%96-%E6%A1%88%E4%BB%B6%E5%88%86%E9%85%8D%E8%87%B3%E6%96%B0%E6%B3%95%E5%AE%98%E6%98%8E%E5%B9%B46%E6%9C%88%E9%96%8B%E5%BA%AD",
-    "timestamp": "2026-10-29T13:19:57.736Z",
     "strategy": ".content-card__main"
   }
 ];
