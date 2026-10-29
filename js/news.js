@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T03:44:30.158Z
+// Last updated: 2026-10-29T03:57:11.021Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘工廈業主收回單位　揭大量爬蟲類動物斃命　包括20龜2蜥蜴等",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192444528217296896526731.jpeg/5LJDFjlVT9qODZugPdg7ZTo4DO-ofPU-sUA4t7FAOLc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404782/%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E6%A5%AD%E4%B8%BB%E6%94%B6%E5%9B%9E%E5%96%AE%E4%BD%8D-%E6%8F%AD%E5%A4%A7%E9%87%8F%E7%88%AC%E8%9F%B2%E9%A1%9E%E5%8B%95%E7%89%A9%E6%96%83%E5%91%BD-%E5%8C%85%E6%8B%AC20%E9%BE%9C2%E8%9C%A5%E8%9C%B4%E7%AD%89",
+    "timestamp": "2026-10-29T03:57:11.021Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劍擊U23亞錦賽｜港隊首日橫掃7獎牌　方曉楠梁殷僑男佩女花齊奪冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192312498548641792821065.png/go6TR3w9aMj9W7tcNoiTishgy0SKioEQxMAimcTAIpk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404665/%E7%BE%8E%E6%97%A5%E9%98%B2%E9%95%B7%E5%90%8C%E6%84%8F%E5%90%88%E4%BD%9C%E6%A7%8B%E5%BB%BA-%E7%AC%AC%E4%B8%80%E5%B3%B6%E9%8F%88-%E9%98%B2%E7%A6%A6%E9%AB%94%E7%B3%BB-%E6%97%A5%E5%AA%92-%E7%82%BA%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9C%8B",
     "timestamp": "2026-10-28T21:15:08.415Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車婉婉主持《中年好聲音》爆紅：終於能讓天上的母親安心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190705347304624128928765.jpeg/I1qhY3U1pYIfDtXFvBiTnmEXNx0ozj8pZLycRmS8nEY",
-    "url": "https://www.hk01.com/01TV/60403228/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%B8%BB%E6%8C%81-%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3-%E7%88%86%E7%B4%85-%E7%B5%82%E6%96%BC%E8%83%BD%E8%AE%93%E5%A4%A9%E4%B8%8A%E7%9A%84%E6%AF%8D%E8%A6%AA%E5%AE%89%E5%BF%83",
-    "timestamp": "2026-10-28T20:30:30.818Z",
     "strategy": ".content-card__main"
   }
 ];
