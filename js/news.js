@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T18:53:53.711Z
+// Last updated: 2026-10-29T19:14:11.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大圍秦石邨35歲男失聯　家人報案揭猝死屋內",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192669882588598272738954.jpeg/qgfim1E4PLzPaAY3cVCQuK0sxWJhfcaVr5t1zJWbdcw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405110/%E5%A4%A7%E5%9C%8D%E7%A7%A6%E7%9F%B3%E9%82%A835%E6%AD%B2%E7%94%B7%E5%A4%B1%E8%81%AF-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%8F%AD%E7%8C%9D%E6%AD%BB%E5%B1%8B%E5%85%A7",
+    "timestamp": "2026-10-29T19:14:11.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國通過禁止中國實驗室測試在美使用電子產品　2028年底生效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192497792191303680340568.jpeg/YxXIhBRrmU3QDhdn_sDiGtAHukDkIspK-_W9rfv1va0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404789/46%E6%AD%B2%E6%B3%B0%E5%8A%87%E5%A5%B3%E7%A5%9Eaff%E9%80%86%E9%BD%A1%E5%AB%A9%E4%BC%BC%E5%B0%91%E5%A5%B3-%E7%80%9F%E7%81%91%E7%94%A9%E7%99%BE%E5%84%84%E5%87%BA%E8%BB%8C%E5%A4%AB%E6%88%80%E5%B0%8F16%E6%AD%B2nonkul",
     "timestamp": "2026-10-29T12:22:52.435Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB不輸HOY　公布《璀璨之城》首十集狂吸2,300萬次觀看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192558275246166016864921.jpeg/pxS2PmQTaXRwSR4xX7C-2aqRcl0eUw-A6yi92usovdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405039/tvb%E4%B8%8D%E8%BC%B8hoy-%E5%85%AC%E5%B8%83-%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%A6%96%E5%8D%81%E9%9B%86%E7%8B%82%E5%90%B82-300%E8%90%AC%E6%AC%A1%E8%A7%80%E7%9C%8B",
-    "timestamp": "2026-10-29T11:53:40.533Z",
     "strategy": ".content-card__main"
   }
 ];
