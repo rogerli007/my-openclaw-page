@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T20:27:59.991Z
+// Last updated: 2026-10-29T20:56:49.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「X教授」柏德烈史釗活逝世享年86歲　《復仇者聯盟5》成最後演出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192696227028799488429136.jpeg/Em1uL_xwOgbRNRRLEJoXAums8lo-C0vhRqp49UaqePU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405116/x%E6%95%99%E6%8E%88-%E6%9F%8F%E5%BE%B7%E7%83%88%E5%8F%B2%E9%87%97%E6%B4%BB%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B486%E6%AD%B2-%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%88%90%E6%9C%80%E5%BE%8C%E6%BC%94%E5%87%BA",
+    "timestamp": "2026-10-29T20:56:49.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列大選點票完成無陣營過半　內塔尼亞胡控阿拉伯裔政黨舞弊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192602424343269376602537.jpeg/EdpI5pYl6PFllY8NoNhA1cSfQmNMagtX4HtlCeB7ZQk",
     "url": "https://www.hk01.com/01TV/60405083/%E5%96%AE%E7%AB%8B%E6%96%87%E5%9B%9E%E6%87%89%E9%9B%B7%E9%A0%8C%E5%BE%B7%E6%8C%87-%E6%84%9B%E5%BF%83%E9%80%9F%E9%81%9E-%E7%8F%AD%E5%BA%95%E8%B2%B4tvb%E8%A6%81%E6%8F%9B%E8%A1%80%E8%A8%80%E8%AB%96-%E5%94%94%E9%97%9C%E6%88%91%E4%BA%8B",
     "timestamp": "2026-10-29T14:31:33.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "甘比獲封為「Slasher」典範　向Gen Z學習：有不受自我限制的勇氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192584777476083712981273.jpeg/LL09EnuSByVdQxo_BO9W7_kIszWQm43oxufKUMbnylA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405058/%E7%94%98%E6%AF%94%E7%8D%B2%E5%B0%81%E7%82%BA-slasher-%E5%85%B8%E7%AF%84-%E5%90%91gen-z%E5%AD%B8%E7%BF%92-%E6%9C%89%E4%B8%8D%E5%8F%97%E8%87%AA%E6%88%91%E9%99%90%E5%88%B6%E7%9A%84%E5%8B%87%E6%B0%A3",
-    "timestamp": "2026-10-29T13:54:19.784Z",
     "strategy": ".content-card__main"
   }
 ];
