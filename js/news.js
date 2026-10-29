@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T09:40:24.208Z
+// Last updated: 2026-10-29T09:54:14.246Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑報告｜對宏業、鴻毅作最嚴厲譴責　點名高層為「罪魁禍首」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079907638440890368537869.jpeg/2tNBo1gvxqeYmUU_goP20ey3kAD83B833FlcT-ZZXE8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404971/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A0%B1%E5%91%8A-%E5%B0%8D%E5%AE%8F%E6%A5%AD-%E9%B4%BB%E6%AF%85%E4%BD%9C%E6%9C%80%E5%9A%B4%E5%8E%B2%E8%AD%B4%E8%B2%AC-%E9%BB%9E%E5%90%8D%E9%AB%98%E5%B1%A4%E7%82%BA-%E7%BD%AA%E9%AD%81%E7%A6%8D%E9%A6%96",
+    "timestamp": "2026-10-29T09:54:14.246Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洋蔥食譜｜3分鐘洋葱焦糖化更香甜幾時放油啱？切洋蔥防催淚5招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211114/536609649319874560693580.jpeg/nEy8tXxBKxwL1RN-qqf1blEMdsruGr6NshMa8JgTGvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404791/%E5%8D%97%E8%B1%90%E5%B7%A5%E6%A5%AD%E5%9F%8E%E6%B3%95%E5%9C%98%E6%B6%89%E8%99%9B%E5%A0%B1%E5%85%A8%E8%81%B7%E6%9C%AC%E5%9C%B0%E5%83%B1%E5%93%A1%E6%95%B8%E7%9B%AE-%E9%81%AD%E5%8B%9E%E5%B7%A5%E8%99%95%E7%A6%81%E7%94%B3%E8%AB%8B%E5%A4%96%E5%8B%9E%E4%B8%80%E5%B9%B4",
     "timestamp": "2026-10-29T04:18:50.539Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘工廈業主收回單位　揭大量爬蟲類動物斃命　包括20龜2蜥蜴等",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192444528217296896526731.jpeg/5LJDFjlVT9qODZugPdg7ZTo4DO-ofPU-sUA4t7FAOLc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404782/%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E6%A5%AD%E4%B8%BB%E6%94%B6%E5%9B%9E%E5%96%AE%E4%BD%8D-%E6%8F%AD%E5%A4%A7%E9%87%8F%E7%88%AC%E8%9F%B2%E9%A1%9E%E5%8B%95%E7%89%A9%E6%96%83%E5%91%BD-%E5%8C%85%E6%8B%AC20%E9%BE%9C2%E8%9C%A5%E8%9C%B4%E7%AD%89",
-    "timestamp": "2026-10-29T03:57:11.021Z",
     "strategy": ".content-card__main"
   }
 ];
