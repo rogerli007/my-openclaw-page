@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T03:57:11.021Z
+// Last updated: 2026-10-29T04:18:50.539Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "南豐工業城法團涉虛報全職本地僱員數目　遭勞工處禁申請外勞一年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20211114/536609649319874560693580.jpeg/nEy8tXxBKxwL1RN-qqf1blEMdsruGr6NshMa8JgTGvA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404791/%E5%8D%97%E8%B1%90%E5%B7%A5%E6%A5%AD%E5%9F%8E%E6%B3%95%E5%9C%98%E6%B6%89%E8%99%9B%E5%A0%B1%E5%85%A8%E8%81%B7%E6%9C%AC%E5%9C%B0%E5%83%B1%E5%93%A1%E6%95%B8%E7%9B%AE-%E9%81%AD%E5%8B%9E%E5%B7%A5%E8%99%95%E7%A6%81%E7%94%B3%E8%AB%8B%E5%A4%96%E5%8B%9E%E4%B8%80%E5%B9%B4",
+    "timestamp": "2026-10-29T04:18:50.539Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘工廈業主收回單位　揭大量爬蟲類動物斃命　包括20龜2蜥蜴等",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192312498548641792821065.png/go6TR3w9aMj9W7tcNoiTishgy0SKioEQxMAimcTAIpk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404665/%E7%BE%8E%E6%97%A5%E9%98%B2%E9%95%B7%E5%90%8C%E6%84%8F%E5%90%88%E4%BD%9C%E6%A7%8B%E5%BB%BA-%E7%AC%AC%E4%B8%80%E5%B3%B6%E9%8F%88-%E9%98%B2%E7%A6%A6%E9%AB%94%E7%B3%BB-%E6%97%A5%E5%AA%92-%E7%82%BA%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9C%8B",
     "timestamp": "2026-10-28T21:24:18.175Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美日防長同意合作構建「第一島鏈」防禦體系　日媒：為遏制中國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192312498548641792821065.png/go6TR3w9aMj9W7tcNoiTishgy0SKioEQxMAimcTAIpk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404665/%E7%BE%8E%E6%97%A5%E9%98%B2%E9%95%B7%E5%90%8C%E6%84%8F%E5%90%88%E4%BD%9C%E6%A7%8B%E5%BB%BA-%E7%AC%AC%E4%B8%80%E5%B3%B6%E9%8F%88-%E9%98%B2%E7%A6%A6%E9%AB%94%E7%B3%BB-%E6%97%A5%E5%AA%92-%E7%82%BA%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9C%8B",
-    "timestamp": "2026-10-28T21:15:08.415Z",
     "strategy": ".content-card__main"
   }
 ];
