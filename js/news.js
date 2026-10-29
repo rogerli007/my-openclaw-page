@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T10:27:28.507Z
+// Last updated: 2026-10-29T10:41:04.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超能膠清除｜黐手勿硬扯！日本廠商教3步秒溶解+用前塗1物助防黏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192531865366433792340765.jpeg/SpRIfLTH348qtEvTb1jcbDzojG81BBmZRIEltESBJbQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60404978/%E8%B6%85%E8%83%BD%E8%86%A0%E6%B8%85%E9%99%A4-%E9%BB%90%E6%89%8B%E5%8B%BF%E7%A1%AC%E6%89%AF-%E6%97%A5%E6%9C%AC%E5%BB%A0%E5%95%86%E6%95%993%E6%AD%A5%E7%A7%92%E6%BA%B6%E8%A7%A3-%E7%94%A8%E5%89%8D%E5%A1%971%E7%89%A9%E5%8A%A9%E9%98%B2%E9%BB%8F",
+    "timestamp": "2026-10-29T10:41:04.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天瑜事故｜醫委會三理由解押後研訊　天瑜爸爸質疑最後一刻改主意",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230714/756602255784022016586310.jpeg/mDSilU5NwKCavz4wBOYCb6sm6Uq5DjWJpytknKcrZJw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404805/%E6%9C%9D%E9%AE%AE%E6%93%9A%E5%A0%B1%E5%90%91%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F-%E7%99%BC%E5%B0%84%E6%87%B7%E7%96%91%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88",
     "timestamp": "2026-10-29T04:53:50.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "vivo X500 Pro Max評測：2億蔡司長焦配7800mAh巨電實力又如何？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192293297658269696289647.jpeg/se1Ye3UTE-2KG9aFgtLb2D-tkFZXZxKWaqs1mGqrNZg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60403984/vivo-x500-pro-max%E8%A9%95%E6%B8%AC-2%E5%84%84%E8%94%A1%E5%8F%B8%E9%95%B7%E7%84%A6%E9%85%8D7800mah%E5%B7%A8%E9%9B%BB%E5%AF%A6%E5%8A%9B%E5%8F%88%E5%A6%82%E4%BD%95",
-    "timestamp": "2026-10-29T04:43:02.665Z",
     "strategy": ".content-card__main"
   }
 ];
