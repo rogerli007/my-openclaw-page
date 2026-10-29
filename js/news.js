@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T08:42:12.817Z
+// Last updated: 2026-10-29T08:55:53.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港仔工傷｜據悉疑吊臂車尾輪壓塌排水蓋　車輛傾側致工作台急墜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192434072719200256397084.jpeg/pgLcC5eieHAYaSUwvnNd6c76ZaHKuyQe3tMPfd7TD30?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404934/%E9%A6%99%E6%B8%AF%E4%BB%94%E5%B7%A5%E5%82%B7-%E6%93%9A%E6%82%89%E7%96%91%E5%90%8A%E8%87%82%E8%BB%8A%E5%B0%BE%E8%BC%AA%E5%A3%93%E5%A1%8C%E6%8E%92%E6%B0%B4%E8%93%8B-%E8%BB%8A%E8%BC%9B%E5%82%BE%E5%81%B4%E8%87%B4%E5%B7%A5%E4%BD%9C%E5%8F%B0%E6%80%A5%E5%A2%9C",
+    "timestamp": "2026-10-29T08:55:53.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Cartier美洲豹入駐虎豹別墅！卡地亞展覽展現野性美學|附登記連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192418421468303360061435.jpeg/PN9p506CYR8GvkeJ1SM0xdjLBVbsR8FG9COtxfQjrcU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404684/%E8%8B%B1%E8%81%AF%E8%B3%BD%E7%9B%83-%E6%9B%BC%E5%9F%8E%E4%BA%92%E5%B0%8412%E7%A2%BC4-3%E9%9A%AA%E5%8B%9D%E7%99%BD%E7%A6%AE%E9%A0%93-%E5%BE%8C%E5%82%99%E9%96%80%E5%B0%87%E9%AD%AF%E5%88%A9%E6%88%90%E6%95%91%E4%B8%96%E4%B8%BB",
     "timestamp": "2026-10-29T02:53:37.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一粥麵優惠｜外賣快閃！ 原隻鹽焗雞$48＋原隻豬手$38　$78歎兩款",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192422275819769856205438.jpeg/QkgzQenj0xikAHRrqwsgeT2J8q6Nn2lulqO2ApajtgI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60404711/%E4%B8%80%E7%B2%A5%E9%BA%B5%E5%84%AA%E6%83%A0-%E5%A4%96%E8%B3%A3%E5%BF%AB%E9%96%83-%E5%8E%9F%E9%9A%BB%E9%B9%BD%E7%84%97%E9%9B%9E-48-%E5%8E%9F%E9%9A%BB%E8%B1%AC%E6%89%8B-38-78%E6%AD%8E%E5%85%A9%E6%AC%BE",
-    "timestamp": "2026-10-29T02:42:22.769Z",
     "strategy": ".content-card__main"
   }
 ];
