@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T07:17:55.124Z
+// Last updated: 2026-10-29T07:40:36.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男子懷疑女友出軌　靠AI開實驗室自製「聽話水」未下手先被捕入獄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192472018755260416072893.png/ORHjM7fN6d4c-Y_n_PE00eAHxuiB6fX71w1zI7INcyM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404820/%E7%94%B7%E5%AD%90%E6%87%B7%E7%96%91%E5%A5%B3%E5%8F%8B%E5%87%BA%E8%BB%8C-%E9%9D%A0ai%E9%96%8B%E5%AF%A6%E9%A9%97%E5%AE%A4%E8%87%AA%E8%A3%BD-%E8%81%BD%E8%A9%B1%E6%B0%B4-%E6%9C%AA%E4%B8%8B%E6%89%8B%E5%85%88%E8%A2%AB%E6%8D%95%E5%85%A5%E7%8D%84",
+    "timestamp": "2026-10-29T07:40:36.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯儲未加息　會德豐黃光耀指息口穩定有助置業　利樓市健康發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192153016606658560461875.jpeg/mGBObPhbeleaV3mCQwxsnRfXeOqMtCKp2bRs0dm0bNE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60404494/%E7%BE%8E%E5%A5%B3%E5%88%A5%E8%B7%91-%E6%88%91%E4%B8%8D%E6%98%AF%E5%A3%9E%E4%BA%BA-%E7%B6%B2%E7%B4%85%E6%B7%B1%E5%B1%B1%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E5%A5%B3%E7%88%86%E7%B4%85-%E8%AD%A6%E6%96%B9%E6%8F%AD%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-10-29T01:43:28.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遺物變二手物！同人誌贈好友　他離世後遺物被網售　惹網民熱議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192158073968398336621738.png/jxmy3J620JueJyNl9MXYiJin6cnNjvRVSqJKPUqiSj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60399050/%E9%81%BA%E7%89%A9%E8%AE%8A%E4%BA%8C%E6%89%8B%E7%89%A9-%E5%90%8C%E4%BA%BA%E8%AA%8C%E8%B4%88%E5%A5%BD%E5%8F%8B-%E4%BB%96%E9%9B%A2%E4%B8%96%E5%BE%8C%E9%81%BA%E7%89%A9%E8%A2%AB%E7%B6%B2%E5%94%AE-%E6%83%B9%E7%B6%B2%E6%B0%91%E7%86%B1%E8%AD%B0",
-    "timestamp": "2026-10-29T01:20:06.869Z",
     "strategy": ".content-card__main"
   }
 ];
