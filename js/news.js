@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T17:25:28.824Z
+// Last updated: 2026-10-29T17:40:44.430Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
+    "timestamp": "2026-10-29T17:40:44.430Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192554546103062528134086.jpeg/UE_udbkZnfFZtheq1sUlJorZVc_XjMszVTyqMFU8qjA",
     "url": "https://www.hk01.com/01TV/60405034/%E5%B1%AF%E9%96%80%E7%81%B0%E8%A1%AB%E7%94%B7%E4%BE%BF%E5%88%A9%E5%BA%97%E5%81%B7%E7%AB%8A-%E8%A2%AB%E5%BA%97%E5%93%A1%E6%96%B7%E6%AD%A3-%E7%96%91%E9%9D%9E%E5%88%9D%E7%8A%AF%E7%B4%AF%E5%81%B7-500%E8%B2%A8%E7%89%A9",
     "timestamp": "2026-10-29T11:15:18.848Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Amazing Toy Show 2026｜12月首登會展新增卡牌專區｜門票獨家9折",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189617130467758080918536.jpeg/yxgi59VF9Kw-oz9YBBXfhZSuDrvatkWIwqbHOcKmxzk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60401730/amazing-toy-show-2026-12%E6%9C%88%E9%A6%96%E7%99%BB%E6%9C%83%E5%B1%95%E6%96%B0%E5%A2%9E%E5%8D%A1%E7%89%8C%E5%B0%88%E5%8D%80-%E9%96%80%E7%A5%A8%E7%8D%A8%E5%AE%B69%E6%8A%98",
-    "timestamp": "2026-10-29T10:53:50.202Z",
     "strategy": ".content-card__main"
   }
 ];
