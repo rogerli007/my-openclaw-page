@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T17:54:12.953Z
+// Last updated: 2026-10-29T18:19:16.928Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
+    "timestamp": "2026-10-29T18:19:16.928Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192454567514607616957638.jpeg/piRYscB_RzwC2hSUComAmovZKXEiE2JHsQnQarEJ0Go?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404751/75%E6%AD%B2%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BA%97%E5%93%A1%E7%AB%9F%E6%98%AF%E5%89%8D%E6%88%B0%E6%A9%9F%E9%A3%9B%E8%A1%8C%E5%93%A1-%E8%B1%AA%E8%A8%80%E5%81%9A%E5%88%B090%E6%AD%B2-%E5%85%BC%E8%81%B7%E5%8E%9F%E5%9B%A0%E6%A5%B5%E7%86%B1%E8%A1%80",
     "timestamp": "2026-10-29T11:40:34.574Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海兒大爆17歲偷護照逃台灣　被家人發現：至少你死咗我都搵到條屍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192538552060088320134652.jpeg/8Rop75laPcrNUwNLa8LWZ-thCQOphkVpGSL4lhki-JY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405007/%E6%B5%B7%E5%85%92%E5%A4%A7%E7%88%8617%E6%AD%B2%E5%81%B7%E8%AD%B7%E7%85%A7%E9%80%83%E5%8F%B0%E7%81%A3-%E8%A2%AB%E5%AE%B6%E4%BA%BA%E7%99%BC%E7%8F%BE-%E8%87%B3%E5%B0%91%E4%BD%A0%E6%AD%BB%E5%92%97%E6%88%91%E9%83%BD%E6%90%B5%E5%88%B0%E6%A2%9D%E5%B1%8D",
-    "timestamp": "2026-10-29T11:25:13.840Z",
     "strategy": ".content-card__main"
   }
 ];
