@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T11:53:40.533Z
+// Last updated: 2026-10-29T12:22:52.435Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "46歲泰劇女神Aff逆齡嫩似少女　瀟灑甩百億出軌夫戀小16歲Nonkul",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192497792191303680340568.jpeg/YxXIhBRrmU3QDhdn_sDiGtAHukDkIspK-_W9rfv1va0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404789/46%E6%AD%B2%E6%B3%B0%E5%8A%87%E5%A5%B3%E7%A5%9Eaff%E9%80%86%E9%BD%A1%E5%AB%A9%E4%BC%BC%E5%B0%91%E5%A5%B3-%E7%80%9F%E7%81%91%E7%94%A9%E7%99%BE%E5%84%84%E5%87%BA%E8%BB%8C%E5%A4%AB%E6%88%80%E5%B0%8F16%E6%AD%B2nonkul",
+    "timestamp": "2026-10-29T12:22:52.435Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB不輸HOY　公布《璀璨之城》首十集狂吸2,300萬次觀看",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192484410956451840540916.jpeg/ztT1U8R3eJzjCbLj2N7hKGs_F2pGbGaFOOqirTjqoq0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404854/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E5%9E%83%E5%9C%BE%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E5%82%B7-2%E4%BA%BA%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E5%BE%80%E4%B8%8A%E6%B0%B4%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-10-29T06:47:32.590Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英雄聯盟S16｜Faker第11次殺入八強！iG激戰3局時隔7年重回淘汰賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192444311090761728048267.jpeg/EG-t92nCwnFniYwfCz4_TZKr0jEjK1d2xAQMpsQEDKY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404732/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9Fs16-faker%E7%AC%AC11%E6%AC%A1%E6%AE%BA%E5%85%A5%E5%85%AB%E5%BC%B7-ig%E6%BF%80%E6%88%B03%E5%B1%80%E6%99%82%E9%9A%947%E5%B9%B4%E9%87%8D%E5%9B%9E%E6%B7%98%E6%B1%B0%E8%B3%BD",
-    "timestamp": "2026-10-29T06:25:18.521Z",
     "strategy": ".content-card__main"
   }
 ];
