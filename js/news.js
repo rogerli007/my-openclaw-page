@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T03:35:46.556Z
+// Last updated: 2026-10-29T03:44:30.158Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劍擊U23亞錦賽｜港隊首日橫掃7獎牌　方曉楠梁殷僑男佩女花齊奪冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192438316771840000475863.png/pCW25mM8o1lRV8ESQgvo3JgZ2rKsWi3BJLlkxiS5ZMY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404767/%E5%8A%8D%E6%93%8Au23%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E9%A6%96%E6%97%A5%E6%A9%AB%E6%8E%837%E7%8D%8E%E7%89%8C-%E6%96%B9%E6%9B%89%E6%A5%A0%E6%A2%81%E6%AE%B7%E5%83%91%E7%94%B7%E4%BD%A9%E5%A5%B3%E8%8A%B1%E9%BD%8A%E5%A5%AA%E5%86%A0",
+    "timestamp": "2026-10-29T03:44:30.158Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瘦身｜手臂鬆弛穿衣顯壯？童瑤教3個簡單動作減去拜拜肉緊實線條",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190705347304624128928765.jpeg/I1qhY3U1pYIfDtXFvBiTnmEXNx0ozj8pZLycRmS8nEY",
     "url": "https://www.hk01.com/01TV/60403228/%E8%BB%8A%E5%A9%89%E5%A9%89%E4%B8%BB%E6%8C%81-%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3-%E7%88%86%E7%B4%85-%E7%B5%82%E6%96%BC%E8%83%BD%E8%AE%93%E5%A4%A9%E4%B8%8A%E7%9A%84%E6%AF%8D%E8%A6%AA%E5%AE%89%E5%BF%83",
     "timestamp": "2026-10-28T20:30:30.818Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國議息｜沃什：中期選舉不影響議息決策",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192319745865551872583207.jpeg/psxLD0vts0ytbO2e-DCBljvCzOVxn0ps5S70VeUu9FU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404666/%E7%BE%8E%E5%9C%8B%E8%AD%B0%E6%81%AF-%E6%B2%83%E4%BB%80-%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E4%B8%8D%E5%BD%B1%E9%9F%BF%E8%AD%B0%E6%81%AF%E6%B1%BA%E7%AD%96",
-    "timestamp": "2026-10-28T19:53:30.395Z",
     "strategy": ".content-card__main"
   }
 ];
