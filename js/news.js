@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T09:18:08.664Z
+// Last updated: 2026-10-29T09:30:18.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張柏芝登雜誌封面狀態大勇　全年狂上封面人氣沒法擋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192486568330268672540832.jpeg/ArLZNLKykGMCEMv3LCnMRhXQ9SgJT4VyLY9F3i2PRd4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404849/%E5%BC%B5%E6%9F%8F%E8%8A%9D%E7%99%BB%E9%9B%9C%E8%AA%8C%E5%B0%81%E9%9D%A2%E7%8B%80%E6%85%8B%E5%A4%A7%E5%8B%87-%E5%85%A8%E5%B9%B4%E7%8B%82%E4%B8%8A%E5%B0%81%E9%9D%A2%E4%BA%BA%E6%B0%A3%E6%B2%92%E6%B3%95%E6%93%8B",
+    "timestamp": "2026-10-29T09:30:18.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "世界技能大賽港隊奪15獎創歷屆佳績　港鐵技術員軌道車輛技術奪銀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192438316771840000475863.png/pCW25mM8o1lRV8ESQgvo3JgZ2rKsWi3BJLlkxiS5ZMY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404767/%E5%8A%8D%E6%93%8Au23%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E9%A6%96%E6%97%A5%E6%A9%AB%E6%8E%837%E7%8D%8E%E7%89%8C-%E6%96%B9%E6%9B%89%E6%A5%A0%E6%A2%81%E6%AE%B7%E5%83%91%E7%94%B7%E4%BD%A9%E5%A5%B3%E8%8A%B1%E9%BD%8A%E5%A5%AA%E5%86%A0",
     "timestamp": "2026-10-29T03:44:30.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瘦身｜手臂鬆弛穿衣顯壯？童瑤教3個簡單動作減去拜拜肉緊實線條",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186747873916620800053961.png/sBCh8kkTkKcZ_f3jdVYjvgmPLlSusHlGsfciHLH3Ihw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60399221/%E7%98%A6%E8%BA%AB-%E6%89%8B%E8%87%82%E9%AC%86%E5%BC%9B%E7%A9%BF%E8%A1%A3%E9%A1%AF%E5%A3%AF-%E7%AB%A5%E7%91%A4%E6%95%993%E5%80%8B%E7%B0%A1%E5%96%AE%E5%8B%95%E4%BD%9C%E6%B8%9B%E5%8E%BB%E6%8B%9C%E6%8B%9C%E8%82%89%E7%B7%8A%E5%AF%A6%E7%B7%9A%E6%A2%9D",
-    "timestamp": "2026-10-29T03:35:46.556Z",
     "strategy": ".content-card__main"
   }
 ];
