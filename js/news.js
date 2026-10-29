@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T10:16:25.239Z
+// Last updated: 2026-10-29T10:27:28.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天瑜事故｜醫委會三理由解押後研訊　天瑜爸爸質疑最後一刻改主意",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250310/975748432943910912805143.jpeg/RjMj-Vhl9cC9kqbJL7FapA3sfq-bhATt6QdJS-kHSUs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404993/%E5%A4%A9%E7%91%9C%E4%BA%8B%E6%95%85-%E9%86%AB%E5%A7%94%E6%9C%83%E4%B8%89%E7%90%86%E7%94%B1%E8%A7%A3%E6%8A%BC%E5%BE%8C%E7%A0%94%E8%A8%8A-%E5%A4%A9%E7%91%9C%E7%88%B8%E7%88%B8%E8%B3%AA%E7%96%91%E6%9C%80%E5%BE%8C%E4%B8%80%E5%88%BB%E6%94%B9%E4%B8%BB%E6%84%8F",
+    "timestamp": "2026-10-29T10:27:28.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會測評｜近7成矽膠鑊鏟揮發物超標！7款獲5分滿分名單一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192293297658269696289647.jpeg/se1Ye3UTE-2KG9aFgtLb2D-tkFZXZxKWaqs1mGqrNZg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60403984/vivo-x500-pro-max%E8%A9%95%E6%B8%AC-2%E5%84%84%E8%94%A1%E5%8F%B8%E9%95%B7%E7%84%A6%E9%85%8D7800mah%E5%B7%A8%E9%9B%BB%E5%AF%A6%E5%8A%9B%E5%8F%88%E5%A6%82%E4%BD%95",
     "timestamp": "2026-10-29T04:43:02.665Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港交所旗下LME傳擬推金屬庫存代幣化　融資新財路兼配合五年規劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192443080079314944034168.jpeg/xDyphKz1406iKFxeiZbW3SH6IXYjEw9M1yRbA9ckWwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404784/%E6%B8%AF%E4%BA%A4%E6%89%80%E6%97%97%E4%B8%8Blme%E5%82%B3%E6%93%AC%E6%8E%A8%E9%87%91%E5%B1%AC%E5%BA%AB%E5%AD%98%E4%BB%A3%E5%B9%A3%E5%8C%96-%E8%9E%8D%E8%B3%87%E6%96%B0%E8%B2%A1%E8%B7%AF%E5%85%BC%E9%85%8D%E5%90%88%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83",
-    "timestamp": "2026-10-29T04:31:56.777Z",
     "strategy": ".content-card__main"
   }
 ];
