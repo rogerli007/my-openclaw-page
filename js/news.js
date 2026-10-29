@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T15:54:58.880Z
+// Last updated: 2026-10-29T16:18:05.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "vivo X Fold 6 評測：2 億像素蔡司鏡頭配巨量電池成摺機新標準？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192297943726559232205784.jpeg/A9wXmjiuZEBJo-o8migccNdvp1vR8SDCgMbnG4DG5xs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60404168/vivo-x-fold-6-%E8%A9%95%E6%B8%AC-2-%E5%84%84%E5%83%8F%E7%B4%A0%E8%94%A1%E5%8F%B8%E9%8F%A1%E9%A0%AD%E9%85%8D%E5%B7%A8%E9%87%8F%E9%9B%BB%E6%B1%A0%E6%88%90%E6%91%BA%E6%A9%9F%E6%96%B0%E6%A8%99%E6%BA%96",
+    "timestamp": "2026-10-29T16:18:05.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB乘勢急推接龍保安部短劇　焦浩軒莫家淦主演 網民：保安大戰？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192530140119175168075142.jpeg/JaAObPupnwOVrVijLuwSjd-SWhejPT9GwfYnF8H2Jxc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404824/%E6%B6%88%E5%A7%94%E6%9C%83%E6%B8%AC%E8%A9%95-%E8%BF%917%E6%88%90%E7%9F%BD%E8%86%A0%E9%91%8A%E9%8F%9F%E6%8F%AE%E7%99%BC%E7%89%A9%E8%B6%85%E6%A8%99-7%E6%AC%BE%E7%8D%B25%E5%88%86%E6%BB%BF%E5%88%86%E5%90%8D%E5%96%AE%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-10-29T10:16:25.239Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑報告｜對宏業、鴻毅作最嚴厲譴責　點名高層為「罪魁禍首」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251222/1079907638440890368537869.jpeg/2tNBo1gvxqeYmUU_goP20ey3kAD83B833FlcT-ZZXE8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404971/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A0%B1%E5%91%8A-%E5%B0%8D%E5%AE%8F%E6%A5%AD-%E9%B4%BB%E6%AF%85%E4%BD%9C%E6%9C%80%E5%9A%B4%E5%8E%B2%E8%AD%B4%E8%B2%AC-%E9%BB%9E%E5%90%8D%E9%AB%98%E5%B1%A4%E7%82%BA-%E7%BD%AA%E9%AD%81%E7%A6%8D%E9%A6%96",
-    "timestamp": "2026-10-29T09:54:14.246Z",
     "strategy": ".content-card__main"
   }
 ];
