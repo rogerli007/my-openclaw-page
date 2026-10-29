@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T19:14:11.987Z
+// Last updated: 2026-10-29T19:24:39.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大圍秦石邨35歲男失聯　家人報案揭猝死屋內",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192669882588598272738954.jpeg/qgfim1E4PLzPaAY3cVCQuK0sxWJhfcaVr5t1zJWbdcw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405110/%E5%A4%A7%E5%9C%8D%E7%A7%A6%E7%9F%B3%E9%82%A835%E6%AD%B2%E7%94%B7%E5%A4%B1%E8%81%AF-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%8F%AD%E7%8C%9D%E6%AD%BB%E5%B1%8B%E5%85%A7",
+    "timestamp": "2026-10-29T19:24:39.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大圍秦石邨35歲男失聯　家人報案揭猝死屋內",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185285192219103232753169.jpeg/_PqubVeE1cv3npl6POUWEG-mSGw8YfxtoyLzSKMi80g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60403768/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E11-15%E5%8A%87%E6%83%85%E7%B7%9A%E4%B8%8A%E7%9C%8B-%E5%BC%B5%E6%99%BA%E9%9C%96%E9%BB%91%E5%8C%96%E6%8E%A5%E7%AE%A1%E5%85%AC%E5%8F%B8-%E6%B1%9F%E7%BE%8E%E5%84%80%E8%A6%81%E8%A6%8B%E5%90%B3%E5%8D%93%E7%BE%B2",
     "timestamp": "2026-10-29T12:45:39.487Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "46歲泰劇女神Aff逆齡嫩似少女　瀟灑甩百億出軌夫戀小16歲Nonkul",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192497792191303680340568.jpeg/YxXIhBRrmU3QDhdn_sDiGtAHukDkIspK-_W9rfv1va0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404789/46%E6%AD%B2%E6%B3%B0%E5%8A%87%E5%A5%B3%E7%A5%9Eaff%E9%80%86%E9%BD%A1%E5%AB%A9%E4%BC%BC%E5%B0%91%E5%A5%B3-%E7%80%9F%E7%81%91%E7%94%A9%E7%99%BE%E5%84%84%E5%87%BA%E8%BB%8C%E5%A4%AB%E6%88%80%E5%B0%8F16%E6%AD%B2nonkul",
-    "timestamp": "2026-10-29T12:22:52.435Z",
     "strategy": ".content-card__main"
   }
 ];
