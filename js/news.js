@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T01:43:28.799Z
+// Last updated: 2026-10-29T01:53:46.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節｜周末深宵跨境客量料增　運輸署特別交通安排一文看清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192407485118418944506973.jpeg/f1LWiNyUVnDY1RQwmBt4TTj5ZHndPBW_UZxliVGcZYk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404687/%E8%90%AC%E8%81%96%E7%AF%80-%E5%91%A8%E6%9C%AB%E6%B7%B1%E5%AE%B5%E8%B7%A8%E5%A2%83%E5%AE%A2%E9%87%8F%E6%96%99%E5%A2%9E-%E9%81%8B%E8%BC%B8%E7%BD%B2%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
+    "timestamp": "2026-10-29T01:53:46.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「美女別跑！我不是壞人」網紅深山救助流浪女爆紅　警方揭真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192280578196508672903526.jpeg/rP52yPBAaH0dGJXwEOUGsDbmJmARujTRXHxaVFx8WlQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404659/%E6%B8%B8%E6%B3%B3-%E7%9B%A7%E6%A2%93%E9%9C%96%E7%A0%B4%E7%9F%AD%E6%B1%A0%E7%94%B7%E5%AD%90200%E8%87%AA%E9%A6%99%E6%B8%AF%E7%B4%80%E9%8C%84-%E5%85%A8%E5%9C%8B%E8%B3%BD%E6%94%B9%E5%AF%AB%E5%A1%B5%E5%B0%819%E5%B9%B4%E6%B8%AF%E7%B8%BE",
     "timestamp": "2026-10-28T17:54:19.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "游泳｜盧梓霖破短池男子200自香港紀錄　全國賽改寫塵封9年港績",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192280578196508672903526.jpeg/rP52yPBAaH0dGJXwEOUGsDbmJmARujTRXHxaVFx8WlQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60404659/%E6%B8%B8%E6%B3%B3-%E7%9B%A7%E6%A2%93%E9%9C%96%E7%A0%B4%E7%9F%AD%E6%B1%A0%E7%94%B7%E5%AD%90200%E8%87%AA%E9%A6%99%E6%B8%AF%E7%B4%80%E9%8C%84-%E5%85%A8%E5%9C%8B%E8%B3%BD%E6%94%B9%E5%AF%AB%E5%A1%B5%E5%B0%819%E5%B9%B4%E6%B8%AF%E7%B8%BE",
-    "timestamp": "2026-10-28T17:43:09.014Z",
     "strategy": ".content-card__main"
   }
 ];
