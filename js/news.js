@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T05:16:26.861Z
+// Last updated: 2026-10-29T05:27:47.410Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肺癌及乳癌均可引發腦轉移　 頭痛、記憶力下降須留神",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192464633261199360849631.jpeg/DiMQWh7eg31jQSLxfGZfCrkLIIFyQVfJ-E3tSvhN7Uo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404818/%E8%82%BA%E7%99%8C%E5%8F%8A%E4%B9%B3%E7%99%8C%E5%9D%87%E5%8F%AF%E5%BC%95%E7%99%BC%E8%85%A6%E8%BD%89%E7%A7%BB-%E9%A0%AD%E7%97%9B-%E8%A8%98%E6%86%B6%E5%8A%9B%E4%B8%8B%E9%99%8D%E9%A0%88%E7%95%99%E7%A5%9E",
+    "timestamp": "2026-10-29T05:27:47.410Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肺癌及乳癌均可引發腦轉移　 頭痛、記憶力下降須留神",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240729/894644064522080256520139.jpeg/TGX68BrwGn7Z-KPoaq2sLW3T00uwLA4ykCKAdpAigHY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404650/%E4%B8%AD%E5%9C%8B%E5%88%BA%E6%BF%80%E6%94%BF%E7%AD%96%E5%A4%B1%E6%95%88-%E8%81%AF%E6%BB%99%E4%B9%8B%E7%88%B6-%E8%B2%A1%E6%94%BF%E6%8E%AA%E6%96%BD%E6%95%88%E6%9E%9C%E6%9C%89%E9%99%90-%E6%87%89%E5%8A%A0%E5%A4%A7-%E6%94%BE%E6%B0%B4",
     "timestamp": "2026-10-28T23:15:05.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "與張錦程離婚後走出陰霾甩「師奶味」　女神張延狀態回春更勝從前",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192150368872566784709561.jpeg/S5N8DUWOfe9decqWG-47bn7lRHGKKkWI_9cZ0__XGdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404445/%E8%88%87%E5%BC%B5%E9%8C%A6%E7%A8%8B%E9%9B%A2%E5%A9%9A%E5%BE%8C%E8%B5%B0%E5%87%BA%E9%99%B0%E9%9C%BE%E7%94%A9-%E5%B8%AB%E5%A5%B6%E5%91%B3-%E5%A5%B3%E7%A5%9E%E5%BC%B5%E5%BB%B6%E7%8B%80%E6%85%8B%E5%9B%9E%E6%98%A5%E6%9B%B4%E5%8B%9D%E5%BE%9E%E5%89%8D",
-    "timestamp": "2026-10-28T22:53:45.005Z",
     "strategy": ".content-card__main"
   }
 ];
