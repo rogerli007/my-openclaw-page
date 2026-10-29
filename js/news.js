@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T02:21:25.677Z
+// Last updated: 2026-10-29T02:42:22.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一粥麵優惠｜外賣快閃！ 原隻鹽焗雞$48＋原隻豬手$38　$78歎兩款",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192422275819769856205438.jpeg/QkgzQenj0xikAHRrqwsgeT2J8q6Nn2lulqO2ApajtgI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60404711/%E4%B8%80%E7%B2%A5%E9%BA%B5%E5%84%AA%E6%83%A0-%E5%A4%96%E8%B3%A3%E5%BF%AB%E9%96%83-%E5%8E%9F%E9%9A%BB%E9%B9%BD%E7%84%97%E9%9B%9E-48-%E5%8E%9F%E9%9A%BB%E8%B1%AC%E6%89%8B-38-78%E6%AD%8E%E5%85%A9%E6%AC%BE",
+    "timestamp": "2026-10-29T02:42:22.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新蒲崗工廈投資公司疑遭爆竊　玻璃門被毀　損失有待點算",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192297458038738944516749.jpeg/AjcV-__AeXEV3J4CHlaHbxDVV_0b3_CgbCrT52wq0-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404662/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8%E6%96%99%E7%84%A1%E9%99%A3%E7%87%9F%E9%81%8E%E5%8D%8A-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E7%B1%8C%E7%B5%84%E8%81%AF%E5%90%88%E6%94%BF%E5%BA%9C%E5%9B%B0%E9%9B%A3%E6%88%96%E9%9C%80%E9%87%8D%E9%81%B8",
     "timestamp": "2026-10-28T18:53:32.592Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國議息｜聯儲局維持利率不變　符市場預期　10：２票數通過決議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186267250017964032634178.jpeg/_sZSOfPE3JdT7w0Y0Nt7wGoMgBPhF0Nit4KhRbeCoUU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404653/%E7%BE%8E%E5%9C%8B%E8%AD%B0%E6%81%AF-%E8%81%AF%E5%84%B2%E5%B1%80%E7%B6%AD%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E8%AE%8A-%E7%AC%A6%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F-10-%EF%BC%92%E7%A5%A8%E6%95%B8%E9%80%9A%E9%81%8E%E6%B1%BA%E8%AD%B0",
-    "timestamp": "2026-10-28T18:19:27.320Z",
     "strategy": ".content-card__main"
   }
 ];
