@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T06:25:18.521Z
+// Last updated: 2026-10-29T06:47:32.590Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺公路貨車垃圾車相撞釀1傷　2人一度被困　往上水交通擠塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192484410956451840540916.jpeg/ztT1U8R3eJzjCbLj2N7hKGs_F2pGbGaFOOqirTjqoq0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404854/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E8%B2%A8%E8%BB%8A%E5%9E%83%E5%9C%BE%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E5%82%B7-2%E4%BA%BA%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E5%BE%80%E4%B8%8A%E6%B0%B4%E4%BA%A4%E9%80%9A%E6%93%A0%E5%A1%9E",
+    "timestamp": "2026-10-29T06:47:32.590Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英雄聯盟S16｜Faker第11次殺入八強！iG激戰3局時隔7年重回淘汰賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177099587261960192265419.jpeg/ns57QlM_fCc5jZ-o-wsqu4wPlilhbdqVs8uyNLPLsjQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404682/%E7%BE%8E%E5%9C%8B%E8%AD%B0%E6%81%AF-%E8%81%AF%E5%84%B2%E5%B1%80%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95-%E6%B2%83%E4%BB%80%E5%BC%B7%E8%AA%BF-%E7%84%A1%E9%97%9C%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89",
     "timestamp": "2026-10-29T01:02:42.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張家輝開金口唱鄭伊健變陳小春　想原班人馬開續集︰犯罪殺人片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192294926402981888483690.jpeg/FdDiVRfvOJcR1-eByYQnRNxNSBqfZkdJkFoYOZBaGDk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60404656/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%96%8B%E9%87%91%E5%8F%A3%E5%94%B1%E9%84%AD%E4%BC%8A%E5%81%A5%E8%AE%8A%E9%99%B3%E5%B0%8F%E6%98%A5-%E6%83%B3%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A6%AC%E9%96%8B%E7%BA%8C%E9%9B%86-%E7%8A%AF%E7%BD%AA%E6%AE%BA%E4%BA%BA%E7%89%87",
-    "timestamp": "2026-10-29T00:36:46.250Z",
     "strategy": ".content-card__main"
   }
 ];
