@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T05:41:44.033Z
+// Last updated: 2026-10-29T05:53:47.224Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雙11優惠著數懶人包｜PlayStation 5／豐澤／小米／友和／電器幫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192471290758303744539206.jpeg/uh_NhLAcuMzKiKdMnY_Ois3eMGJZ3jmXO2jHqDtox6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60404808/%E9%9B%9911%E5%84%AA%E6%83%A0%E8%91%97%E6%95%B8%E6%87%B6%E4%BA%BA%E5%8C%85-playstation-5-%E8%B1%90%E6%BE%A4-%E5%B0%8F%E7%B1%B3-%E5%8F%8B%E5%92%8C-%E9%9B%BB%E5%99%A8%E5%B9%AB",
+    "timestamp": "2026-10-29T05:53:47.224Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "9.8元點心都救唔返！大角咀盈圖突結業　月內粉嶺明星皇宮亦執笠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122193485584142336890215.jpeg/-wlaHsWDmOvGRfqCjEvHkTtexwEbZqrmLZSnDC2Upww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404669/%E5%BD%AD%E5%8D%9A-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A625%E6%97%A5%E4%BB%A5%E4%B8%80%E4%B8%AD%E6%94%BF%E7%AD%96%E7%A6%81%E5%8F%B0%E7%81%A3%E8%88%AA%E4%BC%81%E9%A3%9B%E8%B6%8A%E9%A0%98%E7%A9%BA-28%E6%97%A5%E6%81%A2%E5%BE%A9",
     "timestamp": "2026-10-28T23:53:47.541Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博：巴基斯坦25日以一中政策禁台灣航企飛越領空　28日恢復",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122193485584142336890215.jpeg/-wlaHsWDmOvGRfqCjEvHkTtexwEbZqrmLZSnDC2Upww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404669/%E5%BD%AD%E5%8D%9A-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A625%E6%97%A5%E4%BB%A5%E4%B8%80%E4%B8%AD%E6%94%BF%E7%AD%96%E7%A6%81%E5%8F%B0%E7%81%A3%E8%88%AA%E4%BC%81%E9%A3%9B%E8%B6%8A%E9%A0%98%E7%A9%BA-28%E6%97%A5%E6%81%A2%E5%BE%A9",
-    "timestamp": "2026-10-28T23:43:52.411Z",
     "strategy": ".content-card__main"
   }
 ];
