@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T21:15:14.819Z
+// Last updated: 2026-10-29T21:40:52.676Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柏德烈·史釗活離世享年86歲　曾主演《新星空奇遇記》及《X-Men》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192712149953155072384250.jpeg/_lQVb9EIT4hInetOFEwZBQYUpnZ_9ShDgMVZR4DFWUc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405117/%E6%9F%8F%E5%BE%B7%E7%83%88-%E5%8F%B2%E9%87%97%E6%B4%BB%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B486%E6%AD%B2-%E6%9B%BE%E4%B8%BB%E6%BC%94-%E6%96%B0%E6%98%9F%E7%A9%BA%E5%A5%87%E9%81%87%E8%A8%98-%E5%8F%8A-x-men",
+    "timestamp": "2026-10-29T21:40:52.676Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「X教授」柏德烈史釗活逝世享年86歲　《復仇者聯盟5》成最後演出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192612375279177728964538.jpeg/HGs8slklVVhEYhaIfTK5FYX6E0qb0qQsJxVF1gIVRdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405090/%E8%91%B5%E6%B6%8C%E9%81%93%E8%BF%91%E8%8D%94%E6%99%AF%E9%82%A8%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E6%B0%B4%E9%A6%AC%E7%BF%BB%E8%A6%86%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%85%A5%E8%8D%83%E7%81%A3%E6%96%B9%E5%90%91%E5%85%A8%E5%B0%81",
     "timestamp": "2026-10-29T15:19:24.648Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "銅鑼灣渣打銀行內地女存100元懷疑假美鈔　職員揭發報警拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172901613078056960948215.jpeg/-jWbApgyA_nHqOYrb_PkSgWfOXE1fAtRVZEjSFWRI0g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405086/%E9%8A%85%E9%91%BC%E7%81%A3%E6%B8%A3%E6%89%93%E9%8A%80%E8%A1%8C%E5%85%A7%E5%9C%B0%E5%A5%B3%E5%AD%98100%E5%85%83%E6%87%B7%E7%96%91%E5%81%87%E7%BE%8E%E9%88%94-%E8%81%B7%E5%93%A1%E6%8F%AD%E7%99%BC%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-10-29T14:54:13.993Z",
     "strategy": ".content-card__main"
   }
 ];
