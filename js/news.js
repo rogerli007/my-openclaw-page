@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T04:31:56.777Z
+// Last updated: 2026-10-29T04:43:02.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "vivo X500 Pro Max評測：2億蔡司長焦配7800mAh巨電實力又如何？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192293297658269696289647.jpeg/se1Ye3UTE-2KG9aFgtLb2D-tkFZXZxKWaqs1mGqrNZg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60403984/vivo-x500-pro-max%E8%A9%95%E6%B8%AC-2%E5%84%84%E8%94%A1%E5%8F%B8%E9%95%B7%E7%84%A6%E9%85%8D7800mah%E5%B7%A8%E9%9B%BB%E5%AF%A6%E5%8A%9B%E5%8F%88%E5%A6%82%E4%BD%95",
+    "timestamp": "2026-10-29T04:43:02.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港交所旗下LME傳擬推金屬庫存代幣化　融資新財路兼配合五年規劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192355581260861440679504.jpeg/t9QVDJVD7WJqFLHg13T3DWTQNDX0pRnM4r2STOK9kkw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60404658/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A5%E9%96%93%E6%BC%B8%E8%BD%89%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5-%E6%9C%80%E9%AB%98%E7%B4%8429%E5%BA%A6",
     "timestamp": "2026-10-28T22:25:47.007Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026｜T1對MKOI 8強將誕生！最新賽程結果+免費直播連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530743422455808097824.jpeg/PYOIRdZJxr_qiFVUFRO0E9fygW3xNMiRAGVmMgBlZjI?v=w1920",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-t1%E5%B0%8Dmkoi-8%E5%BC%B7%E5%B0%87%E8%AA%95%E7%94%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-10-28T21:40:49.117Z",
     "strategy": ".content-card__main"
   }
 ];
