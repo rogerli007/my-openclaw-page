@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T16:18:05.831Z
+// Last updated: 2026-10-29T16:31:18.744Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西班牙高鐵相撞增至69死　列車司機罷工促增撥資源改善鐵路安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192492840131891200487603.jpeg/uBHTjOas5FhFrY80wFGiEzcQl3gX2gDiLCUPBCwlDwQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405096/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%90%B5%E7%9B%B8%E6%92%9E%E5%A2%9E%E8%87%B369%E6%AD%BB-%E5%88%97%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%BD%B7%E5%B7%A5%E4%BF%83%E5%A2%9E%E6%92%A5%E8%B3%87%E6%BA%90%E6%94%B9%E5%96%84%E9%90%B5%E8%B7%AF%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-10-29T16:31:18.744Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "vivo X Fold 6 評測：2 億像素蔡司鏡頭配巨量電池成摺機新標準？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250310/975748432943910912805143.jpeg/RjMj-Vhl9cC9kqbJL7FapA3sfq-bhATt6QdJS-kHSUs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404993/%E5%A4%A9%E7%91%9C%E4%BA%8B%E6%95%85-%E9%86%AB%E5%A7%94%E6%9C%83%E4%B8%89%E7%90%86%E7%94%B1%E8%A7%A3%E6%8A%BC%E5%BE%8C%E7%A0%94%E8%A8%8A-%E5%A4%A9%E7%91%9C%E7%88%B8%E7%88%B8%E8%B3%AA%E7%96%91%E6%9C%80%E5%BE%8C%E4%B8%80%E5%88%BB%E6%94%B9%E4%B8%BB%E6%84%8F",
     "timestamp": "2026-10-29T10:27:28.507Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會測評｜近7成矽膠鑊鏟揮發物超標！7款獲5分滿分名單一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192530140119175168075142.jpeg/JaAObPupnwOVrVijLuwSjd-SWhejPT9GwfYnF8H2Jxc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404824/%E6%B6%88%E5%A7%94%E6%9C%83%E6%B8%AC%E8%A9%95-%E8%BF%917%E6%88%90%E7%9F%BD%E8%86%A0%E9%91%8A%E9%8F%9F%E6%8F%AE%E7%99%BC%E7%89%A9%E8%B6%85%E6%A8%99-7%E6%AC%BE%E7%8D%B25%E5%88%86%E6%BB%BF%E5%88%86%E5%90%8D%E5%96%AE%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-10-29T10:16:25.239Z",
     "strategy": ".content-card__main"
   }
 ];
