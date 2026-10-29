@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T22:40:06.733Z
+// Last updated: 2026-10-29T22:53:43.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本遊客退稅新制11.1生效　友都八喜11間門市推市區現金退稅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192716023334178816256871.jpeg/XwHxR6K7k9eiKJZodXVWzldLnpHDMCjX-xYaD_sWGg8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405118/%E6%97%A5%E6%9C%AC%E9%81%8A%E5%AE%A2%E9%80%80%E7%A8%85%E6%96%B0%E5%88%B611-1%E7%94%9F%E6%95%88-%E5%8F%8B%E9%83%BD%E5%85%AB%E5%96%9C11%E9%96%93%E9%96%80%E5%B8%82%E6%8E%A8%E5%B8%82%E5%8D%80%E7%8F%BE%E9%87%91%E9%80%80%E7%A8%85",
+    "timestamp": "2026-10-29T22:53:43.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾志偉現身飯局有排場　疑似巨型保鑣跟實仲有專人幫手拉凳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192492840131891200487603.jpeg/uBHTjOas5FhFrY80wFGiEzcQl3gX2gDiLCUPBCwlDwQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405096/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%90%B5%E7%9B%B8%E6%92%9E%E5%A2%9E%E8%87%B369%E6%AD%BB-%E5%88%97%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%BD%B7%E5%B7%A5%E4%BF%83%E5%A2%9E%E6%92%A5%E8%B3%87%E6%BA%90%E6%94%B9%E5%96%84%E9%90%B5%E8%B7%AF%E5%AE%89%E5%85%A8",
     "timestamp": "2026-10-29T16:31:18.744Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "vivo X Fold 6 評測：2 億像素蔡司鏡頭配巨量電池成摺機新標準？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192297943726559232205784.jpeg/A9wXmjiuZEBJo-o8migccNdvp1vR8SDCgMbnG4DG5xs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60404168/vivo-x-fold-6-%E8%A9%95%E6%B8%AC-2-%E5%84%84%E5%83%8F%E7%B4%A0%E8%94%A1%E5%8F%B8%E9%8F%A1%E9%A0%AD%E9%85%8D%E5%B7%A8%E9%87%8F%E9%9B%BB%E6%B1%A0%E6%88%90%E6%91%BA%E6%A9%9F%E6%96%B0%E6%A8%99%E6%BA%96",
-    "timestamp": "2026-10-29T16:18:05.831Z",
     "strategy": ".content-card__main"
   }
 ];
