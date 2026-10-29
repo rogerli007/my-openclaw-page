@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T13:41:42.547Z
+// Last updated: 2026-10-29T13:54:19.784Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "甘比獲封為「Slasher」典範　向Gen Z學習：有不受自我限制的勇氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192584777476083712981273.jpeg/LL09EnuSByVdQxo_BO9W7_kIszWQm43oxufKUMbnylA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405058/%E7%94%98%E6%AF%94%E7%8D%B2%E5%B0%81%E7%82%BA-slasher-%E5%85%B8%E7%AF%84-%E5%90%91gen-z%E5%AD%B8%E7%BF%92-%E6%9C%89%E4%B8%8D%E5%8F%97%E8%87%AA%E6%88%91%E9%99%90%E5%88%B6%E7%9A%84%E5%8B%87%E6%B0%A3",
+    "timestamp": "2026-10-29T13:54:19.784Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Google母企績後暴瀉11%　失守300美元關　股神退休前押注恐坐艇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192514755298856960906154.jpeg/bTL0CN9KVq2VLravyGnMa8gN89BXhqSO-345qft-Oak?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60404823/cartier%E7%BE%8E%E6%B4%B2%E8%B1%B9%E5%85%A5%E9%A7%90%E8%99%8E%E8%B1%B9%E5%88%A5%E5%A2%85-%E5%8D%A1%E5%9C%B0%E4%BA%9E%E5%B1%95%E8%A6%BD%E5%B1%95%E7%8F%BE%E9%87%8E%E6%80%A7%E7%BE%8E%E5%AD%B8-%E9%99%84%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
     "timestamp": "2026-10-29T08:42:12.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關水警聯手破9宗私煙案　檢逾2000萬支煙　扣5大馬力快艇及4車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192505262284476416579326.jpeg/fqNM7JZI86Et5jj-tA7bmVf0egfO0Wbd6jsq3c87Kt0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404908/%E6%B5%B7%E9%97%9C%E6%B0%B4%E8%AD%A6%E8%81%AF%E6%89%8B%E7%A0%B49%E5%AE%97%E7%A7%81%E7%85%99%E6%A1%88-%E6%AA%A2%E9%80%BE2000%E8%90%AC%E6%94%AF%E7%85%99-%E6%89%A35%E5%A4%A7%E9%A6%AC%E5%8A%9B%E5%BF%AB%E8%89%87%E5%8F%8A4%E8%BB%8A",
-    "timestamp": "2026-10-29T08:21:28.678Z",
     "strategy": ".content-card__main"
   }
 ];
