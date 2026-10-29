@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T09:54:14.246Z
+// Last updated: 2026-10-29T10:16:25.239Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會測評｜近7成矽膠鑊鏟揮發物超標！7款獲5分滿分名單一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192530140119175168075142.jpeg/JaAObPupnwOVrVijLuwSjd-SWhejPT9GwfYnF8H2Jxc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404824/%E6%B6%88%E5%A7%94%E6%9C%83%E6%B8%AC%E8%A9%95-%E8%BF%917%E6%88%90%E7%9F%BD%E8%86%A0%E9%91%8A%E9%8F%9F%E6%8F%AE%E7%99%BC%E7%89%A9%E8%B6%85%E6%A8%99-7%E6%AC%BE%E7%8D%B25%E5%88%86%E6%BB%BF%E5%88%86%E5%90%8D%E5%96%AE%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-10-29T10:16:25.239Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑報告｜對宏業、鴻毅作最嚴厲譴責　點名高層為「罪魁禍首」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192443080079314944034168.jpeg/xDyphKz1406iKFxeiZbW3SH6IXYjEw9M1yRbA9ckWwM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404784/%E6%B8%AF%E4%BA%A4%E6%89%80%E6%97%97%E4%B8%8Blme%E5%82%B3%E6%93%AC%E6%8E%A8%E9%87%91%E5%B1%AC%E5%BA%AB%E5%AD%98%E4%BB%A3%E5%B9%A3%E5%8C%96-%E8%9E%8D%E8%B3%87%E6%96%B0%E8%B2%A1%E8%B7%AF%E5%85%BC%E9%85%8D%E5%90%88%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83",
     "timestamp": "2026-10-29T04:31:56.777Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "南豐工業城法團涉虛報全職本地僱員數目　遭勞工處禁申請外勞一年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20211114/536609649319874560693580.jpeg/nEy8tXxBKxwL1RN-qqf1blEMdsruGr6NshMa8JgTGvA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404791/%E5%8D%97%E8%B1%90%E5%B7%A5%E6%A5%AD%E5%9F%8E%E6%B3%95%E5%9C%98%E6%B6%89%E8%99%9B%E5%A0%B1%E5%85%A8%E8%81%B7%E6%9C%AC%E5%9C%B0%E5%83%B1%E5%93%A1%E6%95%B8%E7%9B%AE-%E9%81%AD%E5%8B%9E%E5%B7%A5%E8%99%95%E7%A6%81%E7%94%B3%E8%AB%8B%E5%A4%96%E5%8B%9E%E4%B8%80%E5%B9%B4",
-    "timestamp": "2026-10-29T04:18:50.539Z",
     "strategy": ".content-card__main"
   }
 ];
