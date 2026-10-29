@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T22:25:57.929Z
+// Last updated: 2026-10-29T22:40:06.733Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾志偉現身飯局有排場　疑似巨型保鑣跟實仲有專人幫手拉凳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192549294725402624234685.jpeg/RcC38bcTfSO-uoKZ4A8mBeMwRyz4m5_OSY_R7kmP0e4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404891/%E6%9B%BE%E5%BF%97%E5%81%89%E7%8F%BE%E8%BA%AB%E9%A3%AF%E5%B1%80%E6%9C%89%E6%8E%92%E5%A0%B4-%E7%96%91%E4%BC%BC%E5%B7%A8%E5%9E%8B%E4%BF%9D%E9%91%A3%E8%B7%9F%E5%AF%A6%E4%BB%B2%E6%9C%89%E5%B0%88%E4%BA%BA%E5%B9%AB%E6%89%8B%E6%8B%89%E5%87%B3",
+    "timestamp": "2026-10-29T22:40:06.733Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港仔工傷｜兩工人情況穩定　建築署：承建商即時停止相關工序",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192297943726559232205784.jpeg/A9wXmjiuZEBJo-o8migccNdvp1vR8SDCgMbnG4DG5xs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60404168/vivo-x-fold-6-%E8%A9%95%E6%B8%AC-2-%E5%84%84%E5%83%8F%E7%B4%A0%E8%94%A1%E5%8F%B8%E9%8F%A1%E9%A0%AD%E9%85%8D%E5%B7%A8%E9%87%8F%E9%9B%BB%E6%B1%A0%E6%88%90%E6%91%BA%E6%A9%9F%E6%96%B0%E6%A8%99%E6%BA%96",
     "timestamp": "2026-10-29T16:18:05.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB乘勢急推接龍保安部短劇　焦浩軒莫家淦主演 網民：保安大戰？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192616302234046464219748.jpeg/BMT9zT5nyQ5ou4f7oB5jQmMxNKfo_23zGld8kBpXfJA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405070/tvb%E4%B9%98%E5%8B%A2%E6%80%A5%E6%8E%A8%E6%8E%A5%E9%BE%8D%E4%BF%9D%E5%AE%89%E9%83%A8%E7%9F%AD%E5%8A%87-%E7%84%A6%E6%B5%A9%E8%BB%92%E8%8E%AB%E5%AE%B6%E6%B7%A6%E4%B8%BB%E6%BC%94-%E7%B6%B2%E6%B0%91-%E4%BF%9D%E5%AE%89%E5%A4%A7%E6%88%B0",
-    "timestamp": "2026-10-29T15:54:58.880Z",
     "strategy": ".content-card__main"
   }
 ];
