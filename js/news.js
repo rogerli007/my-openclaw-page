@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T04:18:50.539Z
+// Last updated: 2026-10-29T04:31:56.777Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港交所旗下LME傳擬推金屬庫存代幣化　融資新財路兼配合五年規劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192443080079314944034168.jpeg/xDyphKz1406iKFxeiZbW3SH6IXYjEw9M1yRbA9ckWwM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404784/%E6%B8%AF%E4%BA%A4%E6%89%80%E6%97%97%E4%B8%8Blme%E5%82%B3%E6%93%AC%E6%8E%A8%E9%87%91%E5%B1%AC%E5%BA%AB%E5%AD%98%E4%BB%A3%E5%B9%A3%E5%8C%96-%E8%9E%8D%E8%B3%87%E6%96%B0%E8%B2%A1%E8%B7%AF%E5%85%BC%E9%85%8D%E5%90%88%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83",
+    "timestamp": "2026-10-29T04:31:56.777Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "南豐工業城法團涉虛報全職本地僱員數目　遭勞工處禁申請外勞一年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261010/1185530743422455808097824.jpeg/PYOIRdZJxr_qiFVUFRO0E9fygW3xNMiRAGVmMgBlZjI?v=w1920",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-t1%E5%B0%8Dmkoi-8%E5%BC%B7%E5%B0%87%E8%AA%95%E7%94%9F-%E6%9C%80%E6%96%B0%E8%B3%BD%E7%A8%8B%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
     "timestamp": "2026-10-28T21:40:49.117Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美日防長同意合作構建「第一島鏈」防禦體系　日媒：為遏制中國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192312498548641792821065.png/go6TR3w9aMj9W7tcNoiTishgy0SKioEQxMAimcTAIpk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60404665/%E7%BE%8E%E6%97%A5%E9%98%B2%E9%95%B7%E5%90%8C%E6%84%8F%E5%90%88%E4%BD%9C%E6%A7%8B%E5%BB%BA-%E7%AC%AC%E4%B8%80%E5%B3%B6%E9%8F%88-%E9%98%B2%E7%A6%A6%E9%AB%94%E7%B3%BB-%E6%97%A5%E5%AA%92-%E7%82%BA%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9C%8B",
-    "timestamp": "2026-10-28T21:24:18.175Z",
     "strategy": ".content-card__main"
   }
 ];
