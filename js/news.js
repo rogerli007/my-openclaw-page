@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T22:13:38.646Z
+// Last updated: 2026-10-30T22:44:19.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜大埔公路流浪狗徘徊　巴士將駛至　Cam主響號護航救一命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193081888307154944914708.jpeg/gh4dLe27avJnTc7sP9-xMuw_bPZSErWIgbN2yIGzdsg",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405534/%E8%BB%8Acam-%E5%A4%A7%E5%9F%94%E5%85%AC%E8%B7%AF%E6%B5%81%E6%B5%AA%E7%8B%97%E5%BE%98%E5%BE%8A-%E5%B7%B4%E5%A3%AB%E5%B0%87%E9%A7%9B%E8%87%B3-cam%E4%B8%BB%E9%9F%BF%E8%99%9F%E8%AD%B7%E8%88%AA%E6%95%91%E4%B8%80%E5%91%BD",
+    "timestamp": "2026-10-30T22:44:19.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "7歲女擅自外出玩耍　遭母用衣架抽打兼從2樓推落街　官判緩刑惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1192990462957326336498107.jpeg/1O4mEw0JOUxORhWmX6N-xNoyebH6pWaleDpm3ng6Zt4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405506/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-gdp%E5%A2%9E%E9%95%B7%E5%BC%B7%E5%8B%81%E9%9B%A3%E6%8E%A9%E9%80%9A%E8%84%B9%E9%AB%98%E4%BC%81%E4%B9%8B%E8%8B%A6-%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%86%82%E6%85%AE%E9%81%B8%E6%83%85",
     "timestamp": "2026-10-30T16:17:04.430Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黑色十月｜考評局國際考試系統遭攻擊　近1.7萬考生個人資料外泄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241114/933806987357982720021893.jpeg/QNeGVU4Zy_7JKzQOq3N4Ir92-nChfPUsRp2BxUadgcU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405504/%E9%BB%91%E8%89%B2%E5%8D%81%E6%9C%88-%E8%80%83%E8%A9%95%E5%B1%80%E5%9C%8B%E9%9A%9B%E8%80%83%E8%A9%A6%E7%B3%BB%E7%B5%B1%E9%81%AD%E6%94%BB%E6%93%8A-%E8%BF%911-7%E8%90%AC%E8%80%83%E7%94%9F%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84",
-    "timestamp": "2026-10-30T15:53:38.672Z",
     "strategy": ".content-card__main"
   }
 ];
