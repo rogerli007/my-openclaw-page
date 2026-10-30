@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T01:43:43.629Z
+// Last updated: 2026-10-30T02:21:29.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳冠希自爆避走美國時遺失千萬Rolex名錶　曾戴住宣傳《頭文字D》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192530520383164416379642.jpeg/2nQqAfAN4ptTJV-zuZRGiV33AoHwEnhfTk6CNk5OgjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404985/%E9%99%B3%E5%86%A0%E5%B8%8C%E8%87%AA%E7%88%86%E9%81%BF%E8%B5%B0%E7%BE%8E%E5%9C%8B%E6%99%82%E9%81%BA%E5%A4%B1%E5%8D%83%E8%90%ACrolex%E5%90%8D%E9%8C%B6-%E6%9B%BE%E6%88%B4%E4%BD%8F%E5%AE%A3%E5%82%B3-%E9%A0%AD%E6%96%87%E5%AD%97d",
+    "timestamp": "2026-10-30T02:21:29.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "60分鐘影片開1.5倍速要看多久？簡單數學題難倒無數人　正解曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192669882588598272738954.jpeg/qgfim1E4PLzPaAY3cVCQuK0sxWJhfcaVr5t1zJWbdcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405110/%E5%A4%A7%E5%9C%8D%E7%A7%A6%E7%9F%B3%E9%82%A835%E6%AD%B2%E7%94%B7%E5%A4%B1%E8%81%AF-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%8F%AD%E7%8C%9D%E6%AD%BB%E5%B1%8B%E5%85%A7",
     "timestamp": "2026-10-29T19:24:39.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大圍秦石邨35歲男失聯　家人報案揭猝死屋內",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192669882588598272738954.jpeg/qgfim1E4PLzPaAY3cVCQuK0sxWJhfcaVr5t1zJWbdcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405110/%E5%A4%A7%E5%9C%8D%E7%A7%A6%E7%9F%B3%E9%82%A835%E6%AD%B2%E7%94%B7%E5%A4%B1%E8%81%AF-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%8F%AD%E7%8C%9D%E6%AD%BB%E5%B1%8B%E5%85%A7",
-    "timestamp": "2026-10-29T19:14:11.987Z",
     "strategy": ".content-card__main"
   }
 ];
