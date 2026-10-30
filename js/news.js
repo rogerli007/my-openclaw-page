@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T15:53:38.672Z
+// Last updated: 2026-10-30T16:17:04.430Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜GDP增長強勁難掩通脹高企之苦　共和黨人憂慮選情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1192990462957326336498107.jpeg/1O4mEw0JOUxORhWmX6N-xNoyebH6pWaleDpm3ng6Zt4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405506/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-gdp%E5%A2%9E%E9%95%B7%E5%BC%B7%E5%8B%81%E9%9B%A3%E6%8E%A9%E9%80%9A%E8%84%B9%E9%AB%98%E4%BC%81%E4%B9%8B%E8%8B%A6-%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%86%82%E6%85%AE%E9%81%B8%E6%83%85",
+    "timestamp": "2026-10-30T16:17:04.430Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黑色十月｜考評局國際考試系統遭攻擊　近1.7萬考生個人資料外泄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/3349531/org/69f9a3058c57c07f82e2560be7294582.JPG/88-ymylDJerBkLjUtTvwCJaDj3dWNdyys5OEO7OThDs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405399/%E8%8F%AF%E5%BE%A1%E7%B5%90%E9%A3%AF%E7%B3%B0-%E6%8B%89%E7%B5%B2-%E7%AC%AC%E4%B8%89%E6%96%B9%E5%8C%96%E9%A9%97%E8%AD%89%E7%AC%A6%E5%90%88%E6%A8%99%E6%BA%96-%E6%97%A5%E6%9C%AC%E7%B1%B3%E7%85%AE%E5%BE%8C%E5%A4%A9%E7%84%B6%E9%BB%8F%E6%80%A7",
     "timestamp": "2026-10-30T09:40:41.042Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳浩濂：港金融科技領先全球　會秉持「以穩促進、以進固穩」方針",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192860637294759936826530.jpeg/mH4D8yHXisUhuuHi5Dcd2iJZlvedT9OX1Gx2vNRsdrw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405332/%E9%99%B3%E6%B5%A9%E6%BF%82-%E6%B8%AF%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E9%A0%98%E5%85%88%E5%85%A8%E7%90%83-%E6%9C%83%E7%A7%89%E6%8C%81-%E4%BB%A5%E7%A9%A9%E4%BF%83%E9%80%B2-%E4%BB%A5%E9%80%B2%E5%9B%BA%E7%A9%A9-%E6%96%B9%E9%87%9D",
-    "timestamp": "2026-10-30T09:00:30.492Z",
     "strategy": ".content-card__main"
   }
 ];
