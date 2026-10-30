@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T10:27:31.843Z
+// Last updated: 2026-10-30T10:41:03.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Le Labo維也納限定CAFÉ 32 登場！盤點3款最新城市限定香水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192906144813682688841309.jpeg/03egbZbw6KVCfahfwJaTuZX2rOjyrOnvfvHX537x1-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60404190/le-labo%E7%B6%AD%E4%B9%9F%E7%B4%8D%E9%99%90%E5%AE%9Acaf%C3%A9-32-%E7%99%BB%E5%A0%B4-%E7%9B%A4%E9%BB%9E3%E6%AC%BE%E6%9C%80%E6%96%B0%E5%9F%8E%E5%B8%82%E9%99%90%E5%AE%9A%E9%A6%99%E6%B0%B4",
+    "timestamp": "2026-10-30T10:41:03.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵大圍站女生經痛冒冷汗頭暈！陌生女施援手獲讚　疑似本尊現身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192798332846608384702156.jpeg/47bzaR0J4dU_auguYgiWBeT7v6caUKKF_LvAZ_y7wGc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405195/%E6%81%92%E5%A4%A7%E7%89%A9%E6%A5%AD%E5%BE%A9%E7%89%8C%E5%BE%8C%E6%9B%BE%E6%8C%AB16-%E5%A4%AA%E7%9B%9F40%E5%84%84%E5%85%A5%E4%B8%BB%E6%88%90%E5%A4%A7%E8%82%A1%E6%9D%B1-%E8%A6%81%E7%B4%84%E5%83%B9%E6%8A%98%E8%AE%93%E4%B8%89%E6%88%90",
     "timestamp": "2026-10-30T03:32:15.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美酒佳餚巡禮2026｜直擊11大亮點！必試鮑魚漢堡/鹹魚奶蓋/咖啡園",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192790056390103040194503.jpeg/ldSHW2XQz6q3iqJX5xjimQFZaYPIgaL3-sc96vrHPeo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60405100/%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%B7%A1%E7%A6%AE2026-%E7%9B%B4%E6%93%8A11%E5%A4%A7%E4%BA%AE%E9%BB%9E-%E5%BF%85%E8%A9%A6%E9%AE%91%E9%AD%9A%E6%BC%A2%E5%A0%A1-%E9%B9%B9%E9%AD%9A%E5%A5%B6%E8%93%8B-%E5%92%96%E5%95%A1%E5%9C%92",
-    "timestamp": "2026-10-30T02:53:28.748Z",
     "strategy": ".content-card__main"
   }
 ];
