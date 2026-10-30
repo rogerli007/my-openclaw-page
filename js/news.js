@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T08:20:06.607Z
+// Last updated: 2026-10-30T08:41:47.693Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃新天地出租95%　4萬呎戶外廣場升級「荃天食」　餐飲比例逾4成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192877080728047616567824.jpeg/YT5yiS3eEKu0yDCAIQQ1UP5qxW8K28X60_OSbNPzkmw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60405340/%E8%8D%83%E6%96%B0%E5%A4%A9%E5%9C%B0%E5%87%BA%E7%A7%9F95-4%E8%90%AC%E5%91%8E%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4%E5%8D%87%E7%B4%9A-%E8%8D%83%E5%A4%A9%E9%A3%9F-%E9%A4%90%E9%A3%B2%E6%AF%94%E4%BE%8B%E9%80%BE4%E6%88%90",
+    "timestamp": "2026-10-30T08:41:47.693Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關深圳灣管制站截查貨車拘司機　檢8噸未完稅製成煙草值$5340萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192508077467766784294083.jpeg/howqFH_vFSDCjQaTZYkQ3g6uigUeGsF36uy0R-rstEc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60402754/%E5%B1%AC%E8%B1%AC-%E9%BC%A0-%E7%89%9B2027%E7%BE%8A%E5%B9%B4%E9%81%8B%E7%A8%8B-%E5%B1%AC%E9%BC%A0%E5%B0%8F%E5%BF%83%E7%88%9B%E6%A1%83%E8%8A%B1-%E5%B1%AC%E7%89%9B%E5%9A%B4%E9%98%B2%E5%A4%A7%E7%A0%B4%E8%B2%A1",
     "timestamp": "2026-10-30T00:38:18.896Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "白宮「愛股」Intel盤後暴瀉逾23%！　Q4盈利指引遠遜華爾街預期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187708013507514368905764.jpeg/Od4arFt7FFqyp9gkpAGlz7xZ_erCgMtJJL68BCS-vAQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405131/%E7%99%BD%E5%AE%AE-%E6%84%9B%E8%82%A1-intel%E7%9B%A4%E5%BE%8C%E6%9A%B4%E7%80%89%E9%80%BE23-q4%E7%9B%88%E5%88%A9%E6%8C%87%E5%BC%95%E9%81%A0%E9%81%9C%E8%8F%AF%E7%88%BE%E8%A1%97%E9%A0%90%E6%9C%9F",
-    "timestamp": "2026-10-29T23:53:56.374Z",
     "strategy": ".content-card__main"
   }
 ];
