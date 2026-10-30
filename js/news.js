@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T16:29:42.558Z
+// Last updated: 2026-10-30T16:40:18.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣豐澤開倉特賣場11月｜iPhone、電腦、家電等劈價｜登記連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220518/603628211724619776193287.jpeg/man_OTv92yzKhHzkO16D45xeArgLdwyPzKxjIcysYyE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60405508/%E8%8D%83%E7%81%A3%E8%B1%90%E6%BE%A4%E9%96%8B%E5%80%89%E7%89%B9%E8%B3%A3%E5%A0%B411%E6%9C%88-iphone-%E9%9B%BB%E8%85%A6-%E5%AE%B6%E9%9B%BB%E7%AD%89%E5%8A%88%E5%83%B9-%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
+    "timestamp": "2026-10-30T16:40:18.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣豐澤開倉特賣場11月｜iPhone、電腦、家電等劈價｜登記連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192790338427686912714256.png/A3V8wWH3UR_i0_5m-ysmORzh7kmMRdoMerPyGHqz8hg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405067/%E6%B8%AF%E9%90%B5%E5%A4%A7%E5%9C%8D%E7%AB%99%E5%A5%B3%E7%94%9F%E7%B6%93%E7%97%9B%E5%86%92%E5%86%B7%E6%B1%97%E9%A0%AD%E6%9A%88-%E9%99%8C%E7%94%9F%E5%A5%B3%E6%96%BD%E6%8F%B4%E6%89%8B%E7%8D%B2%E8%AE%9A-%E7%96%91%E4%BC%BC%E6%9C%AC%E5%B0%8A%E7%8F%BE%E8%BA%AB",
     "timestamp": "2026-10-30T10:16:26.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Halloween萬聖節2026｜周末狂歡散場搭咩車？交通懶人包一文看清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181646493312880640723045.jpeg/95XAPsbKf5ZNBHHf4NotIzZ1qMeB2LLgzOH2l-rh9pc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405396/halloween%E8%90%AC%E8%81%96%E7%AF%802026-%E5%91%A8%E6%9C%AB%E7%8B%82%E6%AD%A1%E6%95%A3%E5%A0%B4%E6%90%AD%E5%92%A9%E8%BB%8A-%E4%BA%A4%E9%80%9A%E6%87%B6%E4%BA%BA%E5%8C%85%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
-    "timestamp": "2026-10-30T09:53:22.260Z",
     "strategy": ".content-card__main"
   }
 ];
