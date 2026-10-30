@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T22:53:30.836Z
+// Last updated: 2026-10-30T23:13:16.723Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "43校網｜東頭、黃大仙、新蒲崗小學名單有甚麼學校？學額有多少？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251111/1064895654511513600406591.jpeg/5OtvPfen0gKn4QauUh-iNpNgw7LHW70cmaqVWpmqlVo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60402976/43%E6%A0%A1%E7%B6%B2-%E6%9D%B1%E9%A0%AD-%E9%BB%83%E5%A4%A7%E4%BB%99-%E6%96%B0%E8%92%B2%E5%B4%97%E5%B0%8F%E5%AD%B8%E5%90%8D%E5%96%AE%E6%9C%89%E7%94%9A%E9%BA%BC%E5%AD%B8%E6%A0%A1-%E5%AD%B8%E9%A1%8D%E6%9C%89%E5%A4%9A%E5%B0%91",
+    "timestamp": "2026-10-30T23:13:16.723Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜大埔公路流浪狗徘徊　巴士將駛至　Cam主響號護航救一命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220518/603628211724619776193287.jpeg/man_OTv92yzKhHzkO16D45xeArgLdwyPzKxjIcysYyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60405508/%E8%8D%83%E7%81%A3%E8%B1%90%E6%BE%A4%E9%96%8B%E5%80%89%E7%89%B9%E8%B3%A3%E5%A0%B411%E6%9C%88-iphone-%E9%9B%BB%E8%85%A6-%E5%AE%B6%E9%9B%BB%E7%AD%89%E5%8A%88%E5%83%B9-%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
     "timestamp": "2026-10-30T16:40:18.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣豐澤開倉特賣場11月｜iPhone、電腦、家電等劈價｜登記連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220518/603628211724619776193287.jpeg/man_OTv92yzKhHzkO16D45xeArgLdwyPzKxjIcysYyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60405508/%E8%8D%83%E7%81%A3%E8%B1%90%E6%BE%A4%E9%96%8B%E5%80%89%E7%89%B9%E8%B3%A3%E5%A0%B411%E6%9C%88-iphone-%E9%9B%BB%E8%85%A6-%E5%AE%B6%E9%9B%BB%E7%AD%89%E5%8A%88%E5%83%B9-%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-10-30T16:29:42.558Z",
     "strategy": ".content-card__main"
   }
 ];
