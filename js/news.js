@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T23:13:16.723Z
+// Last updated: 2026-10-30T23:23:50.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柳暗花明又一村下句是什麼？　古詩背後的灑脫與人情味｜歷史奇趣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192872292439298048340892.png/wFUc2lrKPRqAQJpgFEvj0CItZ7g8vm3F3a1F-N2tRfg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401635/%E6%9F%B3%E6%9A%97%E8%8A%B1%E6%98%8E%E5%8F%88%E4%B8%80%E6%9D%91%E4%B8%8B%E5%8F%A5%E6%98%AF%E4%BB%80%E9%BA%BC-%E5%8F%A4%E8%A9%A9%E8%83%8C%E5%BE%8C%E7%9A%84%E7%81%91%E8%84%AB%E8%88%87%E4%BA%BA%E6%83%85%E5%91%B3-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
+    "timestamp": "2026-10-30T23:23:50.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "43校網｜東頭、黃大仙、新蒲崗小學名單有甚麼學校？學額有多少？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186672809200324608148253.jpeg/K-PX5YComj75LCyMjhSjM2I1pxOvMtNgsTZY_rE2WP4?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399076/%E5%AB%81%E9%87%91%E9%87%B5%E7%B7%9A%E4%B8%8A%E7%9C%8B%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%92%AD%E5%87%BA%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E7%94%B0%E6%9B%A6%E8%96%87%E6%93%8A%E6%95%97%E7%9A%87%E5%90%8E%E9%9F%93%E5%AE%B6",
     "timestamp": "2026-10-30T16:54:20.676Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣豐澤開倉特賣場11月｜iPhone、電腦、家電等劈價｜登記連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220518/603628211724619776193287.jpeg/man_OTv92yzKhHzkO16D45xeArgLdwyPzKxjIcysYyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60405508/%E8%8D%83%E7%81%A3%E8%B1%90%E6%BE%A4%E9%96%8B%E5%80%89%E7%89%B9%E8%B3%A3%E5%A0%B411%E6%9C%88-iphone-%E9%9B%BB%E8%85%A6-%E5%AE%B6%E9%9B%BB%E7%AD%89%E5%8A%88%E5%83%B9-%E7%99%BB%E8%A8%98%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-10-30T16:40:18.881Z",
     "strategy": ".content-card__main"
   }
 ];
