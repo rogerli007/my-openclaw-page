@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T03:54:01.024Z
+// Last updated: 2026-10-30T04:18:34.729Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高息不必放棄增長：從收息股看3555的投資取向｜彭偉新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405140/%E9%AB%98%E6%81%AF%E4%B8%8D%E5%BF%85%E6%94%BE%E6%A3%84%E5%A2%9E%E9%95%B7-%E5%BE%9E%E6%94%B6%E6%81%AF%E8%82%A1%E7%9C%8B3555%E7%9A%84%E6%8A%95%E8%B3%87%E5%8F%96%E5%90%91-%E5%BD%AD%E5%81%89%E6%96%B0",
+    "timestamp": "2026-10-30T04:18:34.729Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "6歲女童石粒塞鼻越夾越深巧遇兒科醫生及時化解 附異物入鼻處理法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192696227028799488429136.jpeg/Em1uL_xwOgbRNRRLEJoXAums8lo-C0vhRqp49UaqePU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405116/x%E6%95%99%E6%8E%88-%E6%9F%8F%E5%BE%B7%E7%83%88%E5%8F%B2%E9%87%97%E6%B4%BB%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B486%E6%AD%B2-%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%88%90%E6%9C%80%E5%BE%8C%E6%BC%94%E5%87%BA",
     "timestamp": "2026-10-29T20:56:49.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列大選點票完成無陣營過半　內塔尼亞胡控阿拉伯裔政黨舞弊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192683986518806528075649.jpeg/qEKkrSQwiofr0_wIrXwDPujy5WU--w_iTa7JjE2uyYw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405111/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8%E9%BB%9E%E7%A5%A8%E5%AE%8C%E6%88%90%E7%84%A1%E9%99%A3%E7%87%9F%E9%81%8E%E5%8D%8A-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%8E%A7%E9%98%BF%E6%8B%89%E4%BC%AF%E8%A3%94%E6%94%BF%E9%BB%A8%E8%88%9E%E5%BC%8A",
-    "timestamp": "2026-10-29T20:27:59.991Z",
     "strategy": ".content-card__main"
   }
 ];
