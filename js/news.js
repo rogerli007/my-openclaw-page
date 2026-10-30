@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T05:16:21.072Z
+// Last updated: 2026-10-30T05:40:31.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜孫玉菡：按特首要求留守崗位　汲取教訓以結果為目標施政",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112730951135662080194608.jpeg/mPvFRpmm0EVrlXowKp8UIk4wsnWUfWQj8E5CHNVOQhw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405250/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E6%8C%89%E7%89%B9%E9%A6%96%E8%A6%81%E6%B1%82%E7%95%99%E5%AE%88%E5%B4%97%E4%BD%8D-%E6%B1%B2%E5%8F%96%E6%95%99%E8%A8%93%E4%BB%A5%E7%B5%90%E6%9E%9C%E7%82%BA%E7%9B%AE%E6%A8%99%E6%96%BD%E6%94%BF",
+    "timestamp": "2026-10-30T05:40:31.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘工廈虐待動物｜33隻龜、蜥等動物僅一存活　24歲男被捕獲保釋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192712149953155072384250.jpeg/_lQVb9EIT4hInetOFEwZBQYUpnZ_9ShDgMVZR4DFWUc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405117/%E6%9F%8F%E5%BE%B7%E7%83%88-%E5%8F%B2%E9%87%97%E6%B4%BB%E9%9B%A2%E4%B8%96%E4%BA%AB%E5%B9%B486%E6%AD%B2-%E6%9B%BE%E4%B8%BB%E6%BC%94-%E6%96%B0%E6%98%9F%E7%A9%BA%E5%A5%87%E9%81%87%E8%A8%98-%E5%8F%8A-x-men",
     "timestamp": "2026-10-29T21:40:52.676Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「X教授」柏德烈史釗活逝世享年86歲　《復仇者聯盟5》成最後演出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192696227028799488429136.jpeg/Em1uL_xwOgbRNRRLEJoXAums8lo-C0vhRqp49UaqePU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405116/x%E6%95%99%E6%8E%88-%E6%9F%8F%E5%BE%B7%E7%83%88%E5%8F%B2%E9%87%97%E6%B4%BB%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B486%E6%AD%B2-%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%88%90%E6%9C%80%E5%BE%8C%E6%BC%94%E5%87%BA",
-    "timestamp": "2026-10-29T21:15:14.819Z",
     "strategy": ".content-card__main"
   }
 ];
