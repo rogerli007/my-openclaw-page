@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T09:53:22.260Z
+// Last updated: 2026-10-30T10:16:26.382Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵大圍站女生經痛冒冷汗頭暈！陌生女施援手獲讚　疑似本尊現身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192790338427686912714256.png/A3V8wWH3UR_i0_5m-ysmORzh7kmMRdoMerPyGHqz8hg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405067/%E6%B8%AF%E9%90%B5%E5%A4%A7%E5%9C%8D%E7%AB%99%E5%A5%B3%E7%94%9F%E7%B6%93%E7%97%9B%E5%86%92%E5%86%B7%E6%B1%97%E9%A0%AD%E6%9A%88-%E9%99%8C%E7%94%9F%E5%A5%B3%E6%96%BD%E6%8F%B4%E6%89%8B%E7%8D%B2%E8%AE%9A-%E7%96%91%E4%BC%BC%E6%9C%AC%E5%B0%8A%E7%8F%BE%E8%BA%AB",
+    "timestamp": "2026-10-30T10:16:26.382Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Halloween萬聖節2026｜周末狂歡散場搭咩車？交通懶人包一文看清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192784272113537024968314.jpeg/_z2AqyQu6_SY0bC1vghJh5pCA_evPKc3TPD22Ezw9tg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405170/%E5%9C%9F%E8%80%B3%E5%85%B6%E6%97%85%E9%81%8A%E5%8B%9D%E5%9C%B0%E5%8D%A1%E5%B8%95%E5%A4%9A%E5%A5%87%E4%BA%9E%E5%A5%87-%E7%B2%BE%E9%9D%88%E7%85%99%E5%9B%AA-%E5%9D%8D%E5%A1%8C-%E8%87%B3%E5%B0%913%E6%AD%BB5%E5%82%B7",
     "timestamp": "2026-10-30T02:44:46.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳冠希自爆避走美國時遺失千萬Rolex名錶　曾戴住宣傳《頭文字D》",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192530520383164416379642.jpeg/2nQqAfAN4ptTJV-zuZRGiV33AoHwEnhfTk6CNk5OgjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404985/%E9%99%B3%E5%86%A0%E5%B8%8C%E8%87%AA%E7%88%86%E9%81%BF%E8%B5%B0%E7%BE%8E%E5%9C%8B%E6%99%82%E9%81%BA%E5%A4%B1%E5%8D%83%E8%90%ACrolex%E5%90%8D%E9%8C%B6-%E6%9B%BE%E6%88%B4%E4%BD%8F%E5%AE%A3%E5%82%B3-%E9%A0%AD%E6%96%87%E5%AD%97d",
-    "timestamp": "2026-10-30T02:21:29.127Z",
     "strategy": ".content-card__main"
   }
 ];
