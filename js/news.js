@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T00:38:18.896Z
+// Last updated: 2026-10-30T01:05:08.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔Cafe推介9大｜必試牛角窩夫！韓系工業風/海景露台/寵物友善",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192170558775627776749012.jpeg/mrsCedtiDapYq0sT8HmfsMydUMRI-ORxFeroRBXq6EQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60404359/%E5%A4%A7%E5%9F%94cafe%E6%8E%A8%E4%BB%8B9%E5%A4%A7-%E5%BF%85%E8%A9%A6%E7%89%9B%E8%A7%92%E7%AA%A9%E5%A4%AB-%E9%9F%93%E7%B3%BB%E5%B7%A5%E6%A5%AD%E9%A2%A8-%E6%B5%B7%E6%99%AF%E9%9C%B2%E5%8F%B0-%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84",
+    "timestamp": "2026-10-30T01:05:08.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屬豬、鼠、牛2027羊年運程｜屬鼠小心爛桃花、屬牛嚴防大破財",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192657285520822272951873.jpeg/SkTsrZJt94chEG1Q3P_SCLpAzhmY4i3C7pe3lO6Xt5Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405106/%E7%BE%8E%E5%9C%8B%E9%80%9A%E9%81%8E%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9C%8B%E5%AF%A6%E9%A9%97%E5%AE%A4%E6%B8%AC%E8%A9%A6%E5%9C%A8%E7%BE%8E%E4%BD%BF%E7%94%A8%E9%9B%BB%E5%AD%90%E7%94%A2%E5%93%81-2028%E5%B9%B4%E5%BA%95%E7%94%9F%E6%95%88",
     "timestamp": "2026-10-29T18:53:53.711Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
-    "timestamp": "2026-10-29T18:19:16.928Z",
     "strategy": ".content-card__main"
   }
 ];
