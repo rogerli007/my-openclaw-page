@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T20:14:17.643Z
+// Last updated: 2026-10-30T20:39:30.019Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水男子光顧足浴店突暈倒　昏迷送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193037555885412352750149.jpeg/Qtb6C7JqyGeXelw_Idh5-YLDLGm404E39L_l-M6_5fg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405522/%E4%B8%8A%E6%B0%B4%E7%94%B7%E5%AD%90%E5%85%89%E9%A1%A7%E8%B6%B3%E6%B5%B4%E5%BA%97%E7%AA%81%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-10-30T20:39:30.019Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水男子光顧足浴店突暈倒　昏迷送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1619598/org/fbe5cd56a760ee109de0ee08cee38c36.jpg/teYtaO0_yJ0kmHdFkPnAdblhLqu9Z8iSsa9CZrGvQmY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405477/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E7%84%A6%E8%BA%81%E7%97%85%E4%BA%BA%E5%92%AC%E7%A0%B4%E5%91%BC%E5%90%B8%E5%96%89-%E5%AF%A6%E7%BF%92%E9%86%AB%E7%94%9F%E8%AA%A4%E6%B3%A8%E5%8E%9F%E5%AE%9A%E8%99%95%E6%96%B95%E5%80%8D%E9%8E%AE%E9%9D%9C%E5%8A%91",
     "timestamp": "2026-10-30T13:27:52.125Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "81歲前TVB新聞王子蘇凌峰激罕露面　移民加拿大多年銀髮風采依然",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192946015372578816279386.jpeg/dXUypkXO9hu0P7y3QaiE4sEBdY6wZp56vJa95byWveU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405465/81%E6%AD%B2%E5%89%8Dtvb%E6%96%B0%E8%81%9E%E7%8E%8B%E5%AD%90%E8%98%87%E5%87%8C%E5%B3%B0%E6%BF%80%E7%BD%95%E9%9C%B2%E9%9D%A2-%E7%A7%BB%E6%B0%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%9A%E5%B9%B4%E9%8A%80%E9%AB%AE%E9%A2%A8%E9%87%87%E4%BE%9D%E7%84%B6",
-    "timestamp": "2026-10-30T13:16:52.147Z",
     "strategy": ".content-card__main"
   }
 ];
