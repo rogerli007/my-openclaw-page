@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T13:27:52.125Z
+// Last updated: 2026-10-30T13:54:08.283Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股AI敘事現「裂縫」　個股績後暴瀉浪接浪　Intel挫近30%最傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405469/%E7%BE%8E%E8%82%A1ai%E6%95%98%E4%BA%8B%E7%8F%BE-%E8%A3%82%E7%B8%AB-%E5%80%8B%E8%82%A1%E7%B8%BE%E5%BE%8C%E6%9A%B4%E7%80%89%E6%B5%AA%E6%8E%A5%E6%B5%AA-intel%E6%8C%AB%E8%BF%9130-%E6%9C%80%E5%82%B7",
+    "timestamp": "2026-10-30T13:54:08.283Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "醫療事故｜焦躁病人咬破呼吸喉　實習醫生誤注原定處方5倍鎮靜劑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250605/1007234780242382848752346.jpeg/3h_F8CdTFkHk4ig2XLMWs3YrU5jPGhY6f7lrXH-5a1w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60398047/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E9%AB%98%E5%AD%B8%E6%AD%B7%E4%B8%8D%E5%86%8D%E4%BF%9D%E8%AD%89%E9%AB%98%E8%96%AA-%E9%9D%92%E5%B9%B4%E6%80%92%E7%81%AB%E7%87%92%E5%90%91%E5%85%A9%E9%BB%A8",
     "timestamp": "2026-10-30T07:17:33.244Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣青康路電單車捱私家車撞　鐵騎士倒地受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192848413620703232839546.jpeg/NUnv_eSmlFAi9KBSyvON8zZKQigC-lJT_21Zk_9tWZM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405306/%E9%9D%92%E8%A1%A3%E9%9D%92%E5%BA%B7%E8%B7%AF%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%8D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%80%92%E5%9C%B0%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-10-30T07:01:13.161Z",
     "strategy": ".content-card__main"
   }
 ];
