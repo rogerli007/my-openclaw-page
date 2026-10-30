@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T17:40:23.341Z
+// Last updated: 2026-10-30T18:39:37.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梁朝偉劉嘉玲包廂睇Weeknd演唱會  嘉玲姐興奮唱王菲《季候風》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193019435451944960250987.jpeg/RSVEZfoe8_oQ2D_DHOaOwYyaDjZcynRCIZar-SGWq_k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60405517/%E6%A2%81%E6%9C%9D%E5%81%89%E5%8A%89%E5%98%89%E7%8E%B2%E5%8C%85%E5%BB%82%E7%9D%87weeknd%E6%BC%94%E5%94%B1%E6%9C%83-%E5%98%89%E7%8E%B2%E5%A7%90%E8%88%88%E5%A5%AE%E5%94%B1%E7%8E%8B%E8%8F%B2-%E5%AD%A3%E5%80%99%E9%A2%A8",
+    "timestamp": "2026-10-30T18:39:37.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劍擊U23亞錦賽｜劉晉延男子花劍封王　港隊個人賽掃4金2銀7銅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192915425550143488167985.jpeg/AUyqa6ENPgVL5gRgE4SjjF7VRlR1xfnvJtOKuSbTirk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60405421/%E6%B3%A8%E5%85%A5%E8%BB%8D%E4%BA%8B%E5%B7%A5%E8%A3%9D%E8%88%87%E5%BE%A9%E5%8F%A4%E5%86%B0%E7%90%83%E5%85%83%E7%B4%A0-adidas-originals%E8%81%AF%E4%B9%98clot%E5%85%A8%E6%96%B0%E7%B3%BB%E5%88%97",
     "timestamp": "2026-10-30T11:24:08.361Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "F1車神冼拿生前專屬紅色本田NSX倫敦拍賣！估價高達800萬港元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192878168550150144150639.jpeg/nh2RVdD3JfGturd4mYXVN4pQkWKsFtKNH08wzB9PMMw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60405197/f1%E8%BB%8A%E7%A5%9E%E5%86%BC%E6%8B%BF%E7%94%9F%E5%89%8D%E5%B0%88%E5%B1%AC%E7%B4%85%E8%89%B2%E6%9C%AC%E7%94%B0nsx%E5%80%AB%E6%95%A6%E6%8B%8D%E8%B3%A3-%E4%BC%B0%E5%83%B9%E9%AB%98%E9%81%94800%E8%90%AC%E6%B8%AF%E5%85%83",
-    "timestamp": "2026-10-30T11:14:26.890Z",
     "strategy": ".content-card__main"
   }
 ];
