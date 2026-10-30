@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T09:40:41.042Z
+// Last updated: 2026-10-30T09:53:22.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Halloween萬聖節2026｜周末狂歡散場搭咩車？交通懶人包一文看清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181646493312880640723045.jpeg/95XAPsbKf5ZNBHHf4NotIzZ1qMeB2LLgzOH2l-rh9pc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405396/halloween%E8%90%AC%E8%81%96%E7%AF%802026-%E5%91%A8%E6%9C%AB%E7%8B%82%E6%AD%A1%E6%95%A3%E5%A0%B4%E6%90%AD%E5%92%A9%E8%BB%8A-%E4%BA%A4%E9%80%9A%E6%87%B6%E4%BA%BA%E5%8C%85%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
+    "timestamp": "2026-10-30T09:53:22.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華御結飯糰「拉絲」｜第三方化驗證符合標準：日本米煮後天然黏性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192530520383164416379642.jpeg/2nQqAfAN4ptTJV-zuZRGiV33AoHwEnhfTk6CNk5OgjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404985/%E9%99%B3%E5%86%A0%E5%B8%8C%E8%87%AA%E7%88%86%E9%81%BF%E8%B5%B0%E7%BE%8E%E5%9C%8B%E6%99%82%E9%81%BA%E5%A4%B1%E5%8D%83%E8%90%ACrolex%E5%90%8D%E9%8C%B6-%E6%9B%BE%E6%88%B4%E4%BD%8F%E5%AE%A3%E5%82%B3-%E9%A0%AD%E6%96%87%E5%AD%97d",
     "timestamp": "2026-10-30T02:21:29.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "60分鐘影片開1.5倍速要看多久？簡單數學題難倒無數人　正解曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192449250357678080249016.jpeg/H2M3rnljomM7BjdTl3aziMN8ISKE3uI8jJSqBNaUqgQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404750/60%E5%88%86%E9%90%98%E5%BD%B1%E7%89%87%E9%96%8B1-5%E5%80%8D%E9%80%9F%E8%A6%81%E7%9C%8B%E5%A4%9A%E4%B9%85-%E7%B0%A1%E5%96%AE%E6%95%B8%E5%AD%B8%E9%A1%8C%E9%9B%A3%E5%80%92%E7%84%A1%E6%95%B8%E4%BA%BA-%E6%AD%A3%E8%A7%A3%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-10-30T01:43:43.629Z",
     "strategy": ".content-card__main"
   }
 ];
