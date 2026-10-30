@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T14:16:55.857Z
+// Last updated: 2026-10-30T14:29:22.861Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "假中銀職員稱提供低息貸款騙個人資料　市民察破綻及時報警保不失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192948958654107648347612.png/VJUL8frQfjeomstZiYv21ac658_zu4mR8xRoHvMUaB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405471/%E5%81%87%E4%B8%AD%E9%8A%80%E8%81%B7%E5%93%A1%E7%A8%B1%E6%8F%90%E4%BE%9B%E4%BD%8E%E6%81%AF%E8%B2%B8%E6%AC%BE%E9%A8%99%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99-%E5%B8%82%E6%B0%91%E5%AF%9F%E7%A0%B4%E7%B6%BB%E5%8F%8A%E6%99%82%E5%A0%B1%E8%AD%A6%E4%BF%9D%E4%B8%8D%E5%A4%B1",
+    "timestamp": "2026-10-30T14:29:22.861Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金正恩視察朝鮮無人機展倡取「絕對優勢」　官媒公布武器演示照",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192853203704614912365129.jpeg/Z_V4qFO8pv2UQZCYeBSiXKs1akQOdZ_Lj-Yr1o_mK9Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405298/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%90%B5%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E9%87%8069%E6%AD%BB-%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%AE%A2%E5%9B%A0-%E8%B3%B4%E5%BA%8A-%E6%94%B9%E7%B0%BD%E5%A5%87%E8%B9%9F%E4%BF%9D%E5%91%BD",
     "timestamp": "2026-10-30T07:40:41.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "房屋局｜一手潛在供應重上10萬伙　按季回升4000伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260130/1093924696048537600794201.jpeg/uEaJC4AwIlbiiM9JHWblXf_HAXx-93aiY-OziGPjs4g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60405324/%E6%88%BF%E5%B1%8B%E5%B1%80-%E4%B8%80%E6%89%8B%E6%BD%9B%E5%9C%A8%E4%BE%9B%E6%87%89%E9%87%8D%E4%B8%8A10%E8%90%AC%E4%BC%99-%E6%8C%89%E5%AD%A3%E5%9B%9E%E5%8D%874000%E4%BC%99",
-    "timestamp": "2026-10-30T07:31:13.901Z",
     "strategy": ".content-card__main"
   }
 ];
