@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T23:23:50.848Z
+// Last updated: 2026-10-30T23:39:23.372Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國女死囚打毒針後生還　稱甦醒後無時無刻都在痛　靈魂備受煎熬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405539/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E6%AD%BB%E5%9B%9A%E6%89%93%E6%AF%92%E9%87%9D%E5%BE%8C%E7%94%9F%E9%82%84-%E7%A8%B1%E7%94%A6%E9%86%92%E5%BE%8C%E7%84%A1%E6%99%82%E7%84%A1%E5%88%BB%E9%83%BD%E5%9C%A8%E7%97%9B-%E9%9D%88%E9%AD%82%E5%82%99%E5%8F%97%E7%85%8E%E7%86%AC",
+    "timestamp": "2026-10-30T23:39:23.372Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柳暗花明又一村下句是什麼？　古詩背後的灑脫與人情味｜歷史奇趣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193002246015553536176430.jpeg/suX3Sb0WTYNCBnYeAy-Ita3ZDnLWSazlfGce7EZnHuw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405512/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%AB%E5%A6%BB%E7%96%91%E9%9B%A2%E5%A9%9A%E7%88%AD%E5%9F%B7-38%E6%AD%B2%E5%A6%BB-%E9%A3%9B%E6%A8%BD-%E8%A2%AB%E6%8D%95-45%E6%AD%B2%E5%A4%AB%E9%A1%8D%E9%A0%AD%E8%A2%AB%E6%93%8A%E5%82%B7",
     "timestamp": "2026-10-30T17:14:35.950Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "嫁金釵線上看結局劇情｜最新播出更新時間｜田曦薇擊敗皇后韓家？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186672809200324608148253.jpeg/K-PX5YComj75LCyMjhSjM2I1pxOvMtNgsTZY_rE2WP4?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399076/%E5%AB%81%E9%87%91%E9%87%B5%E7%B7%9A%E4%B8%8A%E7%9C%8B%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%92%AD%E5%87%BA%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E7%94%B0%E6%9B%A6%E8%96%87%E6%93%8A%E6%95%97%E7%9A%87%E5%90%8E%E9%9F%93%E5%AE%B6",
-    "timestamp": "2026-10-30T16:54:20.676Z",
     "strategy": ".content-card__main"
   }
 ];
