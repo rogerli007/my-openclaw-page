@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T11:14:26.890Z
+// Last updated: 2026-10-30T11:24:08.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "注入軍事工裝與復古冰球元素 adidas Originals聯乘CLOT全新系列",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192915425550143488167985.jpeg/AUyqa6ENPgVL5gRgE4SjjF7VRlR1xfnvJtOKuSbTirk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60405421/%E6%B3%A8%E5%85%A5%E8%BB%8D%E4%BA%8B%E5%B7%A5%E8%A3%9D%E8%88%87%E5%BE%A9%E5%8F%A4%E5%86%B0%E7%90%83%E5%85%83%E7%B4%A0-adidas-originals%E8%81%AF%E4%B9%98clot%E5%85%A8%E6%96%B0%E7%B3%BB%E5%88%97",
+    "timestamp": "2026-10-30T11:24:08.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "F1車神冼拿生前專屬紅色本田NSX倫敦拍賣！估價高達800萬港元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192824381588377600426739.jpeg/tVPghjIajLAVA9NfGgbU8RqPJAzKNa0roM3jA6DN4wM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405258/%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9-33%E9%9A%BB%E9%BE%9C-%E8%9C%A5%E7%AD%89%E5%8B%95%E7%89%A9%E5%83%85%E4%B8%80%E5%AD%98%E6%B4%BB-24%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95%E7%8D%B2%E4%BF%9D%E9%87%8B",
     "timestamp": "2026-10-30T05:16:21.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高息不必放棄增長：從收息股看3555的投資取向｜彭偉新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405140/%E9%AB%98%E6%81%AF%E4%B8%8D%E5%BF%85%E6%94%BE%E6%A3%84%E5%A2%9E%E9%95%B7-%E5%BE%9E%E6%94%B6%E6%81%AF%E8%82%A1%E7%9C%8B3555%E7%9A%84%E6%8A%95%E8%B3%87%E5%8F%96%E5%90%91-%E5%BD%AD%E5%81%89%E6%96%B0",
-    "timestamp": "2026-10-30T04:18:34.729Z",
     "strategy": ".content-card__main"
   }
 ];
