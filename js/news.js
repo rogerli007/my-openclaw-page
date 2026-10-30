@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T12:45:34.959Z
+// Last updated: 2026-10-30T13:16:52.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "81歲前TVB新聞王子蘇凌峰激罕露面　移民加拿大多年銀髮風采依然",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192946015372578816279386.jpeg/dXUypkXO9hu0P7y3QaiE4sEBdY6wZp56vJa95byWveU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405465/81%E6%AD%B2%E5%89%8Dtvb%E6%96%B0%E8%81%9E%E7%8E%8B%E5%AD%90%E8%98%87%E5%87%8C%E5%B3%B0%E6%BF%80%E7%BD%95%E9%9C%B2%E9%9D%A2-%E7%A7%BB%E6%B0%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%9A%E5%B9%B4%E9%8A%80%E9%AB%AE%E9%A2%A8%E9%87%87%E4%BE%9D%E7%84%B6",
+    "timestamp": "2026-10-30T13:16:52.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Taylor Swift豪花2億搞夢幻婚禮　要求焚毀所有奢華裝飾原因曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192845116847427584734061.jpeg/clQI0330AS1ofTnQ8y0qyl8-rWIs_MM2Q78hW2a_IVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405280/%E9%BB%91%E5%B9%AB%E6%93%8D%E6%8E%A7%E4%BE%9B%E6%87%89%E9%8F%88-%E4%BD%8F%E5%AE%85%E5%96%AE%E4%BD%8D%E8%A3%BD%E6%AF%92%E5%8C%85%E8%A3%9D%E5%85%BC%E9%80%81%E8%B2%A8-%E8%AD%A6%E6%8B%9813%E4%BA%BA%E6%AA%A23%E5%8D%83%E8%90%AC%E6%AF%92%E5%93%81",
     "timestamp": "2026-10-30T06:48:14.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藍田站兩事故｜港鐵須撥480萬回贈　議員質疑周末補償難惠上班族",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186763008593235968170862.jpeg/opDbo4cRhLLevwHyGZSdUe92-nZ0sTeZQ8AUs2nAFLM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405178/%E8%97%8D%E7%94%B0%E7%AB%99%E5%85%A9%E4%BA%8B%E6%95%85-%E6%B8%AF%E9%90%B5%E9%A0%88%E6%92%A5480%E8%90%AC%E5%9B%9E%E8%B4%88-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E5%91%A8%E6%9C%AB%E8%A3%9C%E5%84%9F%E9%9B%A3%E6%83%A0%E4%B8%8A%E7%8F%AD%E6%97%8F",
-    "timestamp": "2026-10-30T06:30:02.380Z",
     "strategy": ".content-card__main"
   }
 ];
