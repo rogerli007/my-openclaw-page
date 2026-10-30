@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T11:57:14.233Z
+// Last updated: 2026-10-30T12:45:34.959Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Taylor Swift豪花2億搞夢幻婚禮　要求焚毀所有奢華裝飾原因曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192544971589160960245386.jpeg/cskYIfKgnrpLU4G97UFixebMiqhS9FrWNFMJfjRTCX4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60404901/taylor-swift%E8%B1%AA%E8%8A%B12%E5%84%84%E6%90%9E%E5%A4%A2%E5%B9%BB%E5%A9%9A%E7%A6%AE-%E8%A6%81%E6%B1%82%E7%84%9A%E6%AF%80%E6%89%80%E6%9C%89%E5%A5%A2%E8%8F%AF%E8%A3%9D%E9%A3%BE%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-10-30T12:45:34.959Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女子賣假鄭秀文演唱會門票罪成　官稱要慮事主期望落　判囚18月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186763008593235968170862.jpeg/opDbo4cRhLLevwHyGZSdUe92-nZ0sTeZQ8AUs2nAFLM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405178/%E8%97%8D%E7%94%B0%E7%AB%99%E5%85%A9%E4%BA%8B%E6%95%85-%E6%B8%AF%E9%90%B5%E9%A0%88%E6%92%A5480%E8%90%AC%E5%9B%9E%E8%B4%88-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E5%91%A8%E6%9C%AB%E8%A3%9C%E5%84%9F%E9%9B%A3%E6%83%A0%E4%B8%8A%E7%8F%AD%E6%97%8F",
     "timestamp": "2026-10-30T06:30:02.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WhatsApp騎劫｜胞妹來訊要應急錢　事主當面求證揭破　附提防9招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192830809560584192541679.jpeg/kPwbMYJhwxIWpImFJ5lQxahXZ4YwcOl8VczDk1XMw5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405262/whatsapp%E9%A8%8E%E5%8A%AB-%E8%83%9E%E5%A6%B9%E4%BE%86%E8%A8%8A%E8%A6%81%E6%87%89%E6%80%A5%E9%8C%A2-%E4%BA%8B%E4%B8%BB%E7%95%B6%E9%9D%A2%E6%B1%82%E8%AD%89%E6%8F%AD%E7%A0%B4-%E9%99%84%E6%8F%90%E9%98%B29%E6%8B%9B",
-    "timestamp": "2026-10-30T05:55:08.558Z",
     "strategy": ".content-card__main"
   }
 ];
