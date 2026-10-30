@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T20:39:30.019Z
+// Last updated: 2026-10-30T20:53:25.500Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Binance幣安被駭遭捲494億　公司稱將承擔一切損失　FBI介入調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193041398425718784672580.jpeg/LNYpXSHQ0p0_G91e_gBPWq6M3lmGx-fFJ4YM_CeGDPw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405525/binance%E5%B9%A3%E5%AE%89%E8%A2%AB%E9%A7%AD%E9%81%AD%E6%8D%B2494%E5%84%84-%E5%85%AC%E5%8F%B8%E7%A8%B1%E5%B0%87%E6%89%BF%E6%93%94%E4%B8%80%E5%88%87%E6%90%8D%E5%A4%B1-fbi%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-10-30T20:53:25.500Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上水男子光顧足浴店突暈倒　昏迷送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405469/%E7%BE%8E%E8%82%A1ai%E6%95%98%E4%BA%8B%E7%8F%BE-%E8%A3%82%E7%B8%AB-%E5%80%8B%E8%82%A1%E7%B8%BE%E5%BE%8C%E6%9A%B4%E7%80%89%E6%B5%AA%E6%8E%A5%E6%B5%AA-intel%E6%8C%AB%E8%BF%9130-%E6%9C%80%E5%82%B7",
     "timestamp": "2026-10-30T13:54:08.283Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "醫療事故｜焦躁病人咬破呼吸喉　實習醫生誤注原定處方5倍鎮靜劑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1619598/org/fbe5cd56a760ee109de0ee08cee38c36.jpg/teYtaO0_yJ0kmHdFkPnAdblhLqu9Z8iSsa9CZrGvQmY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405477/%E9%86%AB%E7%99%82%E4%BA%8B%E6%95%85-%E7%84%A6%E8%BA%81%E7%97%85%E4%BA%BA%E5%92%AC%E7%A0%B4%E5%91%BC%E5%90%B8%E5%96%89-%E5%AF%A6%E7%BF%92%E9%86%AB%E7%94%9F%E8%AA%A4%E6%B3%A8%E5%8E%9F%E5%AE%9A%E8%99%95%E6%96%B95%E5%80%8D%E9%8E%AE%E9%9D%9C%E5%8A%91",
-    "timestamp": "2026-10-30T13:27:52.125Z",
     "strategy": ".content-card__main"
   }
 ];
