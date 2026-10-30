@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T20:53:25.500Z
+// Last updated: 2026-10-30T21:12:25.353Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜良十四世已遞郵寄選票　成首位參與世俗投票教宗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187223275265069056234815.jpeg/nohagnF3yqcWovFfftIER4sKKun0OZ31j_SGDI_0hgw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405518/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%B7%B2%E9%81%9E%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8-%E6%88%90%E9%A6%96%E4%BD%8D%E5%8F%83%E8%88%87%E4%B8%96%E4%BF%97%E6%8A%95%E7%A5%A8%E6%95%99%E5%AE%97",
+    "timestamp": "2026-10-30T21:12:25.353Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Binance幣安被駭遭捲494億　公司稱將承擔一切損失　FBI介入調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192939023937572864802491.jpeg/VGOS2Jo96Sxkgp2o0mDyBKdbC6w7-FXCLUqQoi1KkKI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405480/%E9%87%91%E6%AD%A3%E6%81%A9%E8%A6%96%E5%AF%9F%E6%9C%9D%E9%AE%AE%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%B1%95%E5%80%A1%E5%8F%96-%E7%B5%95%E5%B0%8D%E5%84%AA%E5%8B%A2-%E5%AE%98%E5%AA%92%E5%85%AC%E5%B8%83%E6%AD%A6%E5%99%A8%E6%BC%94%E7%A4%BA%E7%85%A7",
     "timestamp": "2026-10-30T14:16:55.857Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股AI敘事現「裂縫」　個股績後暴瀉浪接浪　Intel挫近30%最傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251017/1055875744955109376304867.jpeg/xDpXLLEFEIPYDFv5lDYAcicnK4RDcbLSEprTYBKa02A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405469/%E7%BE%8E%E8%82%A1ai%E6%95%98%E4%BA%8B%E7%8F%BE-%E8%A3%82%E7%B8%AB-%E5%80%8B%E8%82%A1%E7%B8%BE%E5%BE%8C%E6%9A%B4%E7%80%89%E6%B5%AA%E6%8E%A5%E6%B5%AA-intel%E6%8C%AB%E8%BF%9130-%E6%9C%80%E5%82%B7",
-    "timestamp": "2026-10-30T13:54:08.283Z",
     "strategy": ".content-card__main"
   }
 ];
