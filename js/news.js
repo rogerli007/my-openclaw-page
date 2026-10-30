@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T01:05:08.863Z
+// Last updated: 2026-10-30T01:43:43.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "60分鐘影片開1.5倍速要看多久？簡單數學題難倒無數人　正解曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192449250357678080249016.jpeg/H2M3rnljomM7BjdTl3aziMN8ISKE3uI8jJSqBNaUqgQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404750/60%E5%88%86%E9%90%98%E5%BD%B1%E7%89%87%E9%96%8B1-5%E5%80%8D%E9%80%9F%E8%A6%81%E7%9C%8B%E5%A4%9A%E4%B9%85-%E7%B0%A1%E5%96%AE%E6%95%B8%E5%AD%B8%E9%A1%8C%E9%9B%A3%E5%80%92%E7%84%A1%E6%95%B8%E4%BA%BA-%E6%AD%A3%E8%A7%A3%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-10-30T01:43:43.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔Cafe推介9大｜必試牛角窩夫！韓系工業風/海景露台/寵物友善",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192669882588598272738954.jpeg/qgfim1E4PLzPaAY3cVCQuK0sxWJhfcaVr5t1zJWbdcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405110/%E5%A4%A7%E5%9C%8D%E7%A7%A6%E7%9F%B3%E9%82%A835%E6%AD%B2%E7%94%B7%E5%A4%B1%E8%81%AF-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%8F%AD%E7%8C%9D%E6%AD%BB%E5%B1%8B%E5%85%A7",
     "timestamp": "2026-10-29T19:14:11.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國通過禁止中國實驗室測試在美使用電子產品　2028年底生效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192657285520822272951873.jpeg/SkTsrZJt94chEG1Q3P_SCLpAzhmY4i3C7pe3lO6Xt5Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405106/%E7%BE%8E%E5%9C%8B%E9%80%9A%E9%81%8E%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9C%8B%E5%AF%A6%E9%A9%97%E5%AE%A4%E6%B8%AC%E8%A9%A6%E5%9C%A8%E7%BE%8E%E4%BD%BF%E7%94%A8%E9%9B%BB%E5%AD%90%E7%94%A2%E5%93%81-2028%E5%B9%B4%E5%BA%95%E7%94%9F%E6%95%88",
-    "timestamp": "2026-10-29T18:53:53.711Z",
     "strategy": ".content-card__main"
   }
 ];
