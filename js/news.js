@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-29T23:53:56.374Z
+// Last updated: 2026-10-30T00:38:18.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屬豬、鼠、牛2027羊年運程｜屬鼠小心爛桃花、屬牛嚴防大破財",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192508077467766784294083.jpeg/howqFH_vFSDCjQaTZYkQ3g6uigUeGsF36uy0R-rstEc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60402754/%E5%B1%AC%E8%B1%AC-%E9%BC%A0-%E7%89%9B2027%E7%BE%8A%E5%B9%B4%E9%81%8B%E7%A8%8B-%E5%B1%AC%E9%BC%A0%E5%B0%8F%E5%BF%83%E7%88%9B%E6%A1%83%E8%8A%B1-%E5%B1%AC%E7%89%9B%E5%9A%B4%E9%98%B2%E5%A4%A7%E7%A0%B4%E8%B2%A1",
+    "timestamp": "2026-10-30T00:38:18.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "白宮「愛股」Intel盤後暴瀉逾23%！　Q4盈利指引遠遜華爾街預期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
     "timestamp": "2026-10-29T18:19:16.928Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑問責｜田北辰：政治問責未符期望　其他局長應有相應交代",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523420303101952245871.jpeg/qK8qYGeQp3fJyDRecTvHkhAXvHlxmTBuRdz4DGDc-Aw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405105/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E7%94%B0%E5%8C%97%E8%BE%B0-%E6%94%BF%E6%B2%BB%E5%95%8F%E8%B2%AC%E6%9C%AA%E7%AC%A6%E6%9C%9F%E6%9C%9B-%E5%85%B6%E4%BB%96%E5%B1%80%E9%95%B7%E6%87%89%E6%9C%89%E7%9B%B8%E6%87%89%E4%BA%A4%E4%BB%A3",
-    "timestamp": "2026-10-29T17:54:12.953Z",
     "strategy": ".content-card__main"
   }
 ];
