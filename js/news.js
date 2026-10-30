@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T07:01:13.161Z
+// Last updated: 2026-10-30T07:17:33.244Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜高學歷不再保證高薪　青年怒火燒向兩黨？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250605/1007234780242382848752346.jpeg/3h_F8CdTFkHk4ig2XLMWs3YrU5jPGhY6f7lrXH-5a1w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60398047/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E9%AB%98%E5%AD%B8%E6%AD%B7%E4%B8%8D%E5%86%8D%E4%BF%9D%E8%AD%89%E9%AB%98%E8%96%AA-%E9%9D%92%E5%B9%B4%E6%80%92%E7%81%AB%E7%87%92%E5%90%91%E5%85%A9%E9%BB%A8",
+    "timestamp": "2026-10-30T07:17:33.244Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣青康路電單車捱私家車撞　鐵騎士倒地受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192733444849799168619420.jpeg/_WwKiY-TvxfuxW7R59jv9fxQzf6fuF02QrBMREKwTEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405115/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%8F%B8%E4%BB%A4%E7%BD%95%E8%A6%8B%E8%B5%B4%E7%99%BD%E5%AE%AE-%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%AF%E5%A0%B1%E5%B0%8D%E4%BC%8A%E8%BB%8D%E4%BA%8B%E9%81%B8%E9%A0%85",
     "timestamp": "2026-10-29T23:15:53.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本遊客退稅新制11.1生效　友都八喜11間門市推市區現金退稅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192716023334178816256871.jpeg/XwHxR6K7k9eiKJZodXVWzldLnpHDMCjX-xYaD_sWGg8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405118/%E6%97%A5%E6%9C%AC%E9%81%8A%E5%AE%A2%E9%80%80%E7%A8%85%E6%96%B0%E5%88%B611-1%E7%94%9F%E6%95%88-%E5%8F%8B%E9%83%BD%E5%85%AB%E5%96%9C11%E9%96%93%E9%96%80%E5%B8%82%E6%8E%A8%E5%B8%82%E5%8D%80%E7%8F%BE%E9%87%91%E9%80%80%E7%A8%85",
-    "timestamp": "2026-10-29T22:53:43.689Z",
     "strategy": ".content-card__main"
   }
 ];
