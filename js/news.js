@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T15:25:47.092Z
+// Last updated: 2026-10-30T15:53:38.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黑色十月｜考評局國際考試系統遭攻擊　近1.7萬考生個人資料外泄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241114/933806987357982720021893.jpeg/QNeGVU4Zy_7JKzQOq3N4Ir92-nChfPUsRp2BxUadgcU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405504/%E9%BB%91%E8%89%B2%E5%8D%81%E6%9C%88-%E8%80%83%E8%A9%95%E5%B1%80%E5%9C%8B%E9%9A%9B%E8%80%83%E8%A9%A6%E7%B3%BB%E7%B5%B1%E9%81%AD%E6%94%BB%E6%93%8A-%E8%BF%911-7%E8%90%AC%E8%80%83%E7%94%9F%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84",
+    "timestamp": "2026-10-30T15:53:38.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳康堤懶理黃澤林「無縫接軌」換新歡　突襲中環力撐好友林愷鈴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192860637294759936826530.jpeg/mH4D8yHXisUhuuHi5Dcd2iJZlvedT9OX1Gx2vNRsdrw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405332/%E9%99%B3%E6%B5%A9%E6%BF%82-%E6%B8%AF%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E9%A0%98%E5%85%88%E5%85%A8%E7%90%83-%E6%9C%83%E7%A7%89%E6%8C%81-%E4%BB%A5%E7%A9%A9%E4%BF%83%E9%80%B2-%E4%BB%A5%E9%80%B2%E5%9B%BA%E7%A9%A9-%E6%96%B9%E9%87%9D",
     "timestamp": "2026-10-30T09:00:30.492Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃新天地出租95%　4萬呎戶外廣場升級「荃天食」　餐飲比例逾4成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192877080728047616567824.jpeg/YT5yiS3eEKu0yDCAIQQ1UP5qxW8K28X60_OSbNPzkmw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60405340/%E8%8D%83%E6%96%B0%E5%A4%A9%E5%9C%B0%E5%87%BA%E7%A7%9F95-4%E8%90%AC%E5%91%8E%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4%E5%8D%87%E7%B4%9A-%E8%8D%83%E5%A4%A9%E9%A3%9F-%E9%A4%90%E9%A3%B2%E6%AF%94%E4%BE%8B%E9%80%BE4%E6%88%90",
-    "timestamp": "2026-10-30T08:41:47.693Z",
     "strategy": ".content-card__main"
   }
 ];
