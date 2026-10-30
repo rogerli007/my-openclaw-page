@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T16:40:18.881Z
+// Last updated: 2026-10-30T16:54:20.676Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "嫁金釵線上看結局劇情｜最新播出更新時間｜田曦薇擊敗皇后韓家？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186672809200324608148253.jpeg/K-PX5YComj75LCyMjhSjM2I1pxOvMtNgsTZY_rE2WP4?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60399076/%E5%AB%81%E9%87%91%E9%87%B5%E7%B7%9A%E4%B8%8A%E7%9C%8B%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E6%92%AD%E5%87%BA%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E7%94%B0%E6%9B%A6%E8%96%87%E6%93%8A%E6%95%97%E7%9A%87%E5%90%8E%E9%9F%93%E5%AE%B6",
+    "timestamp": "2026-10-30T16:54:20.676Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣豐澤開倉特賣場11月｜iPhone、電腦、家電等劈價｜登記連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192790338427686912714256.png/A3V8wWH3UR_i0_5m-ysmORzh7kmMRdoMerPyGHqz8hg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405067/%E6%B8%AF%E9%90%B5%E5%A4%A7%E5%9C%8D%E7%AB%99%E5%A5%B3%E7%94%9F%E7%B6%93%E7%97%9B%E5%86%92%E5%86%B7%E6%B1%97%E9%A0%AD%E6%9A%88-%E9%99%8C%E7%94%9F%E5%A5%B3%E6%96%BD%E6%8F%B4%E6%89%8B%E7%8D%B2%E8%AE%9A-%E7%96%91%E4%BC%BC%E6%9C%AC%E5%B0%8A%E7%8F%BE%E8%BA%AB",
     "timestamp": "2026-10-30T10:27:31.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵大圍站女生經痛冒冷汗頭暈！陌生女施援手獲讚　疑似本尊現身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192790338427686912714256.png/A3V8wWH3UR_i0_5m-ysmORzh7kmMRdoMerPyGHqz8hg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405067/%E6%B8%AF%E9%90%B5%E5%A4%A7%E5%9C%8D%E7%AB%99%E5%A5%B3%E7%94%9F%E7%B6%93%E7%97%9B%E5%86%92%E5%86%B7%E6%B1%97%E9%A0%AD%E6%9A%88-%E9%99%8C%E7%94%9F%E5%A5%B3%E6%96%BD%E6%8F%B4%E6%89%8B%E7%8D%B2%E8%AE%9A-%E7%96%91%E4%BC%BC%E6%9C%AC%E5%B0%8A%E7%8F%BE%E8%BA%AB",
-    "timestamp": "2026-10-30T10:16:26.382Z",
     "strategy": ".content-card__main"
   }
 ];
