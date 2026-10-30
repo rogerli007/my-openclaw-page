@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T08:41:47.693Z
+// Last updated: 2026-10-30T09:00:30.492Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳浩濂：港金融科技領先全球　會秉持「以穩促進、以進固穩」方針",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192860637294759936826530.jpeg/mH4D8yHXisUhuuHi5Dcd2iJZlvedT9OX1Gx2vNRsdrw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405332/%E9%99%B3%E6%B5%A9%E6%BF%82-%E6%B8%AF%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E9%A0%98%E5%85%88%E5%85%A8%E7%90%83-%E6%9C%83%E7%A7%89%E6%8C%81-%E4%BB%A5%E7%A9%A9%E4%BF%83%E9%80%B2-%E4%BB%A5%E9%80%B2%E5%9B%BA%E7%A9%A9-%E6%96%B9%E9%87%9D",
+    "timestamp": "2026-10-30T09:00:30.492Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃新天地出租95%　4萬呎戶外廣場升級「荃天食」　餐飲比例逾4成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192170558775627776749012.jpeg/mrsCedtiDapYq0sT8HmfsMydUMRI-ORxFeroRBXq6EQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60404359/%E5%A4%A7%E5%9F%94cafe%E6%8E%A8%E4%BB%8B9%E5%A4%A7-%E5%BF%85%E8%A9%A6%E7%89%9B%E8%A7%92%E7%AA%A9%E5%A4%AB-%E9%9F%93%E7%B3%BB%E5%B7%A5%E6%A5%AD%E9%A2%A8-%E6%B5%B7%E6%99%AF%E9%9C%B2%E5%8F%B0-%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84",
     "timestamp": "2026-10-30T01:05:08.863Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屬豬、鼠、牛2027羊年運程｜屬鼠小心爛桃花、屬牛嚴防大破財",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192508077467766784294083.jpeg/howqFH_vFSDCjQaTZYkQ3g6uigUeGsF36uy0R-rstEc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60402754/%E5%B1%AC%E8%B1%AC-%E9%BC%A0-%E7%89%9B2027%E7%BE%8A%E5%B9%B4%E9%81%8B%E7%A8%8B-%E5%B1%AC%E9%BC%A0%E5%B0%8F%E5%BF%83%E7%88%9B%E6%A1%83%E8%8A%B1-%E5%B1%AC%E7%89%9B%E5%9A%B4%E9%98%B2%E5%A4%A7%E7%A0%B4%E8%B2%A1",
-    "timestamp": "2026-10-30T00:38:18.896Z",
     "strategy": ".content-card__main"
   }
 ];
