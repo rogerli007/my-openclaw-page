@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T04:18:34.729Z
+// Last updated: 2026-10-30T05:16:21.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘工廈虐待動物｜33隻龜、蜥等動物僅一存活　24歲男被捕獲保釋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192824381588377600426739.jpeg/tVPghjIajLAVA9NfGgbU8RqPJAzKNa0roM3jA6DN4wM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405258/%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E8%99%90%E5%BE%85%E5%8B%95%E7%89%A9-33%E9%9A%BB%E9%BE%9C-%E8%9C%A5%E7%AD%89%E5%8B%95%E7%89%A9%E5%83%85%E4%B8%80%E5%AD%98%E6%B4%BB-24%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95%E7%8D%B2%E4%BF%9D%E9%87%8B",
+    "timestamp": "2026-10-30T05:16:21.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高息不必放棄增長：從收息股看3555的投資取向｜彭偉新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192696227028799488429136.jpeg/Em1uL_xwOgbRNRRLEJoXAums8lo-C0vhRqp49UaqePU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405116/x%E6%95%99%E6%8E%88-%E6%9F%8F%E5%BE%B7%E7%83%88%E5%8F%B2%E9%87%97%E6%B4%BB%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B486%E6%AD%B2-%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%88%90%E6%9C%80%E5%BE%8C%E6%BC%94%E5%87%BA",
     "timestamp": "2026-10-29T21:15:14.819Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「X教授」柏德烈史釗活逝世享年86歲　《復仇者聯盟5》成最後演出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192696227028799488429136.jpeg/Em1uL_xwOgbRNRRLEJoXAums8lo-C0vhRqp49UaqePU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405116/x%E6%95%99%E6%8E%88-%E6%9F%8F%E5%BE%B7%E7%83%88%E5%8F%B2%E9%87%97%E6%B4%BB%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B486%E6%AD%B2-%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%88%90%E6%9C%80%E5%BE%8C%E6%BC%94%E5%87%BA",
-    "timestamp": "2026-10-29T20:56:49.335Z",
     "strategy": ".content-card__main"
   }
 ];
