@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T03:32:15.441Z
+// Last updated: 2026-10-30T03:54:01.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "6歲女童石粒塞鼻越夾越深巧遇兒科醫生及時化解 附異物入鼻處理法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192362044246986752920158.jpeg/S6m-U39rVNklZclA_m_pjFIYdTJ1YMO_0GS2utBktro?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60404259/6%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%9F%B3%E7%B2%92%E5%A1%9E%E9%BC%BB%E8%B6%8A%E5%A4%BE%E8%B6%8A%E6%B7%B1%E5%B7%A7%E9%81%87%E5%85%92%E7%A7%91%E9%86%AB%E7%94%9F%E5%8F%8A%E6%99%82%E5%8C%96%E8%A7%A3-%E9%99%84%E7%95%B0%E7%89%A9%E5%85%A5%E9%BC%BB%E8%99%95%E7%90%86%E6%B3%95",
+    "timestamp": "2026-10-30T03:54:01.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恒大物業復牌後曾挫16% 　太盟40億入主成大股東　要約價折讓三成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192683986518806528075649.jpeg/qEKkrSQwiofr0_wIrXwDPujy5WU--w_iTa7JjE2uyYw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405111/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8%E9%BB%9E%E7%A5%A8%E5%AE%8C%E6%88%90%E7%84%A1%E9%99%A3%E7%87%9F%E9%81%8E%E5%8D%8A-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%8E%A7%E9%98%BF%E6%8B%89%E4%BC%AF%E8%A3%94%E6%94%BF%E9%BB%A8%E8%88%9E%E5%BC%8A",
     "timestamp": "2026-10-29T20:27:59.991Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列大選點票完成無陣營過半　內塔尼亞胡控阿拉伯裔政黨舞弊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192683986518806528075649.jpeg/qEKkrSQwiofr0_wIrXwDPujy5WU--w_iTa7JjE2uyYw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405111/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8%E9%BB%9E%E7%A5%A8%E5%AE%8C%E6%88%90%E7%84%A1%E9%99%A3%E7%87%9F%E9%81%8E%E5%8D%8A-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E6%8E%A7%E9%98%BF%E6%8B%89%E4%BC%AF%E8%A3%94%E6%94%BF%E9%BB%A8%E8%88%9E%E5%BC%8A",
-    "timestamp": "2026-10-29T20:18:03.986Z",
     "strategy": ".content-card__main"
   }
 ];
