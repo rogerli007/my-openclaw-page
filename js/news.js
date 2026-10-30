@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T17:14:35.950Z
+// Last updated: 2026-10-30T17:24:29.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地夫妻疑離婚爭執　38歲妻「飛樽」被捕　45歲夫額頭被擊傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193002246015553536176430.jpeg/suX3Sb0WTYNCBnYeAy-Ita3ZDnLWSazlfGce7EZnHuw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405512/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%AB%E5%A6%BB%E7%96%91%E9%9B%A2%E5%A9%9A%E7%88%AD%E5%9F%B7-38%E6%AD%B2%E5%A6%BB-%E9%A3%9B%E6%A8%BD-%E8%A2%AB%E6%8D%95-45%E6%AD%B2%E5%A4%AB%E9%A1%8D%E9%A0%AD%E8%A2%AB%E6%93%8A%E5%82%B7",
+    "timestamp": "2026-10-30T17:24:29.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地夫妻疑離婚爭執　38歲妻「飛樽」被捕　45歲夫額頭被擊傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192908734582493184207364.jpeg/d1OEpqaB2TtGxttIUwgNmFWgrio1W-hn2lXvZtpV72Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405447/%E5%BB%BA%E9%80%A0%E6%A5%AD%E8%AD%B0%E6%9C%83%E6%94%AF%E6%8C%81%E5%9C%8D%E6%A8%99%E5%88%91%E4%BA%8B%E5%8C%96%E7%AD%89%E6%8E%AA%E6%96%BD-%E9%A0%88%E6%9B%B4%E5%9A%B4%E5%8E%B2%E6%B3%95%E5%BE%8B%E5%88%B6%E8%A3%81%E5%92%8C%E5%9F%B7%E6%B3%95%E8%AD%B7%E5%85%AC%E5%B9%B3",
     "timestamp": "2026-10-30T10:53:33.481Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Le Labo維也納限定CAFÉ 32 登場！盤點3款最新城市限定香水",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192906144813682688841309.jpeg/03egbZbw6KVCfahfwJaTuZX2rOjyrOnvfvHX537x1-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60404190/le-labo%E7%B6%AD%E4%B9%9F%E7%B4%8D%E9%99%90%E5%AE%9Acaf%C3%A9-32-%E7%99%BB%E5%A0%B4-%E7%9B%A4%E9%BB%9E3%E6%AC%BE%E6%9C%80%E6%96%B0%E5%9F%8E%E5%B8%82%E9%99%90%E5%AE%9A%E9%A6%99%E6%B0%B4",
-    "timestamp": "2026-10-30T10:41:03.576Z",
     "strategy": ".content-card__main"
   }
 ];
