@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T10:41:03.576Z
+// Last updated: 2026-10-30T10:53:33.481Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "建造業議會支持圍標刑事化等措施　須更嚴厲法律制裁和執法護公平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192908734582493184207364.jpeg/d1OEpqaB2TtGxttIUwgNmFWgrio1W-hn2lXvZtpV72Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405447/%E5%BB%BA%E9%80%A0%E6%A5%AD%E8%AD%B0%E6%9C%83%E6%94%AF%E6%8C%81%E5%9C%8D%E6%A8%99%E5%88%91%E4%BA%8B%E5%8C%96%E7%AD%89%E6%8E%AA%E6%96%BD-%E9%A0%88%E6%9B%B4%E5%9A%B4%E5%8E%B2%E6%B3%95%E5%BE%8B%E5%88%B6%E8%A3%81%E5%92%8C%E5%9F%B7%E6%B3%95%E8%AD%B7%E5%85%AC%E5%B9%B3",
+    "timestamp": "2026-10-30T10:53:33.481Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Le Labo維也納限定CAFÉ 32 登場！盤點3款最新城市限定香水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192362044246986752920158.jpeg/S6m-U39rVNklZclA_m_pjFIYdTJ1YMO_0GS2utBktro?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60404259/6%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%9F%B3%E7%B2%92%E5%A1%9E%E9%BC%BB%E8%B6%8A%E5%A4%BE%E8%B6%8A%E6%B7%B1%E5%B7%A7%E9%81%87%E5%85%92%E7%A7%91%E9%86%AB%E7%94%9F%E5%8F%8A%E6%99%82%E5%8C%96%E8%A7%A3-%E9%99%84%E7%95%B0%E7%89%A9%E5%85%A5%E9%BC%BB%E8%99%95%E7%90%86%E6%B3%95",
     "timestamp": "2026-10-30T03:54:01.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恒大物業復牌後曾挫16% 　太盟40億入主成大股東　要約價折讓三成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192798332846608384702156.jpeg/47bzaR0J4dU_auguYgiWBeT7v6caUKKF_LvAZ_y7wGc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405195/%E6%81%92%E5%A4%A7%E7%89%A9%E6%A5%AD%E5%BE%A9%E7%89%8C%E5%BE%8C%E6%9B%BE%E6%8C%AB16-%E5%A4%AA%E7%9B%9F40%E5%84%84%E5%85%A5%E4%B8%BB%E6%88%90%E5%A4%A7%E8%82%A1%E6%9D%B1-%E8%A6%81%E7%B4%84%E5%83%B9%E6%8A%98%E8%AE%93%E4%B8%89%E6%88%90",
-    "timestamp": "2026-10-30T03:32:15.441Z",
     "strategy": ".content-card__main"
   }
 ];
