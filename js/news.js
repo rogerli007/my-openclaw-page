@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T05:55:08.558Z
+// Last updated: 2026-10-30T06:30:02.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藍田站兩事故｜港鐵須撥480萬回贈　議員質疑周末補償難惠上班族",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186763008593235968170862.jpeg/opDbo4cRhLLevwHyGZSdUe92-nZ0sTeZQ8AUs2nAFLM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405178/%E8%97%8D%E7%94%B0%E7%AB%99%E5%85%A9%E4%BA%8B%E6%95%85-%E6%B8%AF%E9%90%B5%E9%A0%88%E6%92%A5480%E8%90%AC%E5%9B%9E%E8%B4%88-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E5%91%A8%E6%9C%AB%E8%A3%9C%E5%84%9F%E9%9B%A3%E6%83%A0%E4%B8%8A%E7%8F%AD%E6%97%8F",
+    "timestamp": "2026-10-30T06:30:02.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WhatsApp騎劫｜胞妹來訊要應急錢　事主當面求證揭破　附提防9招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192434072719200256397084.jpeg/pgLcC5eieHAYaSUwvnNd6c76ZaHKuyQe3tMPfd7TD30?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405121/%E9%A6%99%E6%B8%AF%E4%BB%94%E5%B7%A5%E5%82%B7-%E5%85%A9%E5%B7%A5%E4%BA%BA%E6%83%85%E6%B3%81%E7%A9%A9%E5%AE%9A-%E5%BB%BA%E7%AF%89%E7%BD%B2-%E6%89%BF%E5%BB%BA%E5%95%86%E5%8D%B3%E6%99%82%E5%81%9C%E6%AD%A2%E7%9B%B8%E9%97%9C%E5%B7%A5%E5%BA%8F",
     "timestamp": "2026-10-29T22:25:57.929Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命︱土瓜灣男子墮樓壓毀水管　跌落樓下單位露台　清醒送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192716098114424832324751.jpeg/5MXKs-k3y7QiEEveIlWq7eE2t-RrGZTkA1XK1zlVytc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405119/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%9C%9F%E7%93%9C%E7%81%A3%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E5%A3%93%E6%AF%80%E6%B0%B4%E7%AE%A1-%E8%B7%8C%E8%90%BD%E6%A8%93%E4%B8%8B%E5%96%AE%E4%BD%8D%E9%9C%B2%E5%8F%B0-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-29T22:19:59.227Z",
     "strategy": ".content-card__main"
   }
 ];
