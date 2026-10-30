@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T09:00:30.492Z
+// Last updated: 2026-10-30T09:40:41.042Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華御結飯糰「拉絲」｜第三方化驗證符合標準：日本米煮後天然黏性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/3349531/org/69f9a3058c57c07f82e2560be7294582.JPG/88-ymylDJerBkLjUtTvwCJaDj3dWNdyys5OEO7OThDs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405399/%E8%8F%AF%E5%BE%A1%E7%B5%90%E9%A3%AF%E7%B3%B0-%E6%8B%89%E7%B5%B2-%E7%AC%AC%E4%B8%89%E6%96%B9%E5%8C%96%E9%A9%97%E8%AD%89%E7%AC%A6%E5%90%88%E6%A8%99%E6%BA%96-%E6%97%A5%E6%9C%AC%E7%B1%B3%E7%85%AE%E5%BE%8C%E5%A4%A9%E7%84%B6%E9%BB%8F%E6%80%A7",
+    "timestamp": "2026-10-30T09:40:41.042Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳浩濂：港金融科技領先全球　會秉持「以穩促進、以進固穩」方針",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192449250357678080249016.jpeg/H2M3rnljomM7BjdTl3aziMN8ISKE3uI8jJSqBNaUqgQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404750/60%E5%88%86%E9%90%98%E5%BD%B1%E7%89%87%E9%96%8B1-5%E5%80%8D%E9%80%9F%E8%A6%81%E7%9C%8B%E5%A4%9A%E4%B9%85-%E7%B0%A1%E5%96%AE%E6%95%B8%E5%AD%B8%E9%A1%8C%E9%9B%A3%E5%80%92%E7%84%A1%E6%95%B8%E4%BA%BA-%E6%AD%A3%E8%A7%A3%E6%9B%9D%E5%85%89",
     "timestamp": "2026-10-30T01:43:43.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔Cafe推介9大｜必試牛角窩夫！韓系工業風/海景露台/寵物友善",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192170558775627776749012.jpeg/mrsCedtiDapYq0sT8HmfsMydUMRI-ORxFeroRBXq6EQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60404359/%E5%A4%A7%E5%9F%94cafe%E6%8E%A8%E4%BB%8B9%E5%A4%A7-%E5%BF%85%E8%A9%A6%E7%89%9B%E8%A7%92%E7%AA%A9%E5%A4%AB-%E9%9F%93%E7%B3%BB%E5%B7%A5%E6%A5%AD%E9%A2%A8-%E6%B5%B7%E6%99%AF%E9%9C%B2%E5%8F%B0-%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84",
-    "timestamp": "2026-10-30T01:05:08.863Z",
     "strategy": ".content-card__main"
   }
 ];
