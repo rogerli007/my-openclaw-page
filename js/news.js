@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T06:48:14.659Z
+// Last updated: 2026-10-30T07:01:13.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣青康路電單車捱私家車撞　鐵騎士倒地受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192848413620703232839546.jpeg/NUnv_eSmlFAi9KBSyvON8zZKQigC-lJT_21Zk_9tWZM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405306/%E9%9D%92%E8%A1%A3%E9%9D%92%E5%BA%B7%E8%B7%AF%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%8D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%80%92%E5%9C%B0%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-10-30T07:01:13.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黑幫操控供應鏈　住宅單位製毒包裝兼送貨　警拘13人檢3千萬毒品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192716023334178816256871.jpeg/XwHxR6K7k9eiKJZodXVWzldLnpHDMCjX-xYaD_sWGg8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405118/%E6%97%A5%E6%9C%AC%E9%81%8A%E5%AE%A2%E9%80%80%E7%A8%85%E6%96%B0%E5%88%B611-1%E7%94%9F%E6%95%88-%E5%8F%8B%E9%83%BD%E5%85%AB%E5%96%9C11%E9%96%93%E9%96%80%E5%B8%82%E6%8E%A8%E5%B8%82%E5%8D%80%E7%8F%BE%E9%87%91%E9%80%80%E7%A8%85",
     "timestamp": "2026-10-29T22:53:43.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾志偉現身飯局有排場　疑似巨型保鑣跟實仲有專人幫手拉凳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192549294725402624234685.jpeg/RcC38bcTfSO-uoKZ4A8mBeMwRyz4m5_OSY_R7kmP0e4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60404891/%E6%9B%BE%E5%BF%97%E5%81%89%E7%8F%BE%E8%BA%AB%E9%A3%AF%E5%B1%80%E6%9C%89%E6%8E%92%E5%A0%B4-%E7%96%91%E4%BC%BC%E5%B7%A8%E5%9E%8B%E4%BF%9D%E9%91%A3%E8%B7%9F%E5%AF%A6%E4%BB%B2%E6%9C%89%E5%B0%88%E4%BA%BA%E5%B9%AB%E6%89%8B%E6%8B%89%E5%87%B3",
-    "timestamp": "2026-10-29T22:40:06.733Z",
     "strategy": ".content-card__main"
   }
 ];
