@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T14:29:22.861Z
+// Last updated: 2026-10-30T15:15:41.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雨天電單車驚現橘貓霸位！掀雨罩露無辜眼神　車主心軟結局超暖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192540435638128640548961.png/shk37S6FyPoAgBgm3_USO9Wrf5W08mWNmnYu8Zp2LvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404657/%E9%9B%A8%E5%A4%A9%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%A9%9A%E7%8F%BE%E6%A9%98%E8%B2%93%E9%9C%B8%E4%BD%8D-%E6%8E%80%E9%9B%A8%E7%BD%A9%E9%9C%B2%E7%84%A1%E8%BE%9C%E7%9C%BC%E7%A5%9E-%E8%BB%8A%E4%B8%BB%E5%BF%83%E8%BB%9F%E7%B5%90%E5%B1%80%E8%B6%85%E6%9A%96",
+    "timestamp": "2026-10-30T15:15:41.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "假中銀職員稱提供低息貸款騙個人資料　市民察破綻及時報警保不失",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192869093183590400279648.jpeg/QPstGWDcTFGu_erVsGHUiTwlzhdDtufJIEhXByBIVwc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405347/%E6%B5%B7%E9%97%9C%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA%E6%9F%A5%E8%B2%A8%E8%BB%8A%E6%8B%98%E5%8F%B8%E6%A9%9F-%E6%AA%A28%E5%99%B8%E6%9C%AA%E5%AE%8C%E7%A8%85%E8%A3%BD%E6%88%90%E7%85%99%E8%8D%89%E5%80%BC-5340%E8%90%AC",
     "timestamp": "2026-10-30T08:20:06.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西班牙高鐵相撞事故釀69死　中國遊客客因「賴床」改簽奇蹟保命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192853203704614912365129.jpeg/Z_V4qFO8pv2UQZCYeBSiXKs1akQOdZ_Lj-Yr1o_mK9Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405298/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%90%B5%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E9%87%8069%E6%AD%BB-%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%AE%A2%E5%9B%A0-%E8%B3%B4%E5%BA%8A-%E6%94%B9%E7%B0%BD%E5%A5%87%E8%B9%9F%E4%BF%9D%E5%91%BD",
-    "timestamp": "2026-10-30T07:40:41.432Z",
     "strategy": ".content-card__main"
   }
 ];
