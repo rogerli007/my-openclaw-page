@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T18:39:37.576Z
+// Last updated: 2026-10-30T19:23:52.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水男子光顧足浴店突暈倒　昏迷送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193037555885412352750149.jpeg/Qtb6C7JqyGeXelw_Idh5-YLDLGm404E39L_l-M6_5fg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405522/%E4%B8%8A%E6%B0%B4%E7%94%B7%E5%AD%90%E5%85%89%E9%A1%A7%E8%B6%B3%E6%B5%B4%E5%BA%97%E7%AA%81%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-10-30T19:23:52.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁朝偉劉嘉玲包廂睇Weeknd演唱會  嘉玲姐興奮唱王菲《季候風》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192898860238770176507429.jpeg/pEDeQ5apkVfUNWMBY-fRcTaBD-OCBnWpG-WXNhvllzY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405426/%E9%9B%BB%E5%95%86%E5%B9%B3%E5%8F%B0ai%E6%A8%A1%E7%89%B9%E7%8F%BE%E4%B8%89%E6%A2%9D%E8%85%BF-%E5%8F%8D%E9%97%9C%E7%AF%80-%E6%AF%94v-%E8%A3%BD%E4%BD%9C%E6%88%90%E6%9C%AC%E4%BD%8E%E8%87%B3-5%E5%85%83-%E5%BC%B5",
     "timestamp": "2026-10-30T11:41:10.848Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "注入軍事工裝與復古冰球元素 adidas Originals聯乘CLOT全新系列",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192915425550143488167985.jpeg/AUyqa6ENPgVL5gRgE4SjjF7VRlR1xfnvJtOKuSbTirk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60405421/%E6%B3%A8%E5%85%A5%E8%BB%8D%E4%BA%8B%E5%B7%A5%E8%A3%9D%E8%88%87%E5%BE%A9%E5%8F%A4%E5%86%B0%E7%90%83%E5%85%83%E7%B4%A0-adidas-originals%E8%81%AF%E4%B9%98clot%E5%85%A8%E6%96%B0%E7%B3%BB%E5%88%97",
-    "timestamp": "2026-10-30T11:24:08.361Z",
     "strategy": ".content-card__main"
   }
 ];
