@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T02:21:29.127Z
+// Last updated: 2026-10-30T02:44:46.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其旅遊勝地卡帕多奇亞奇「精靈煙囪」坍塌　至少3死5傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192784272113537024968314.jpeg/_z2AqyQu6_SY0bC1vghJh5pCA_evPKc3TPD22Ezw9tg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405170/%E5%9C%9F%E8%80%B3%E5%85%B6%E6%97%85%E9%81%8A%E5%8B%9D%E5%9C%B0%E5%8D%A1%E5%B8%95%E5%A4%9A%E5%A5%87%E4%BA%9E%E5%A5%87-%E7%B2%BE%E9%9D%88%E7%85%99%E5%9B%AA-%E5%9D%8D%E5%A1%8C-%E8%87%B3%E5%B0%913%E6%AD%BB5%E5%82%B7",
+    "timestamp": "2026-10-30T02:44:46.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳冠希自爆避走美國時遺失千萬Rolex名錶　曾戴住宣傳《頭文字D》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192659110839980032361980.jpeg/RRpyieW1maBMSlSiyT5NL8I6MwYByTPZglrfLIJa3yw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405108/%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%8C%87%E5%B7%B2%E6%94%B6%E5%88%B0%E8%90%AC%E6%96%AF%E4%BF%A1%E4%BB%B6%E6%83%9F%E5%B0%9A%E6%9C%AA%E5%9B%9E%E8%A6%86-%E5%A0%85%E6%8C%81%E8%AB%87%E5%88%A4%E9%9C%80%E6%BB%BF%E8%B6%B3%E4%B8%83%E9%A0%85%E6%A2%9D%E4%BB%B6",
     "timestamp": "2026-10-29T19:40:42.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大圍秦石邨35歲男失聯　家人報案揭猝死屋內",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192669882588598272738954.jpeg/qgfim1E4PLzPaAY3cVCQuK0sxWJhfcaVr5t1zJWbdcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405110/%E5%A4%A7%E5%9C%8D%E7%A7%A6%E7%9F%B3%E9%82%A835%E6%AD%B2%E7%94%B7%E5%A4%B1%E8%81%AF-%E5%AE%B6%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%8F%AD%E7%8C%9D%E6%AD%BB%E5%B1%8B%E5%85%A7",
-    "timestamp": "2026-10-29T19:24:39.951Z",
     "strategy": ".content-card__main"
   }
 ];
