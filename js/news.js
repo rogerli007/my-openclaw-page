@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T21:41:17.444Z
+// Last updated: 2026-10-30T21:53:42.327Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜良十四世已遞郵寄選票　成首位參與世俗投票教宗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187223275265069056234815.jpeg/nohagnF3yqcWovFfftIER4sKKun0OZ31j_SGDI_0hgw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405518/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%B7%B2%E9%81%9E%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8-%E6%88%90%E9%A6%96%E4%BD%8D%E5%8F%83%E8%88%87%E4%B8%96%E4%BF%97%E6%8A%95%E7%A5%A8%E6%95%99%E5%AE%97",
+    "timestamp": "2026-10-30T21:53:42.327Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜良十四世已遞郵寄選票　成首位參與世俗投票教宗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192962185014284288917320.jpeg/ZuFZvBCmyOOl1CQA4VbFkBVAXe_pvwBjOHHpsDhx6bA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405490/%E9%99%B3%E5%BA%B7%E5%A0%A4%E6%87%B6%E7%90%86%E9%BB%83%E6%BE%A4%E6%9E%97-%E7%84%A1%E7%B8%AB%E6%8E%A5%E8%BB%8C-%E6%8F%9B%E6%96%B0%E6%AD%A1-%E7%AA%81%E8%A5%B2%E4%B8%AD%E7%92%B0%E5%8A%9B%E6%92%90%E5%A5%BD%E5%8F%8B%E6%9E%97%E6%84%B7%E9%88%B4",
     "timestamp": "2026-10-30T15:25:47.092Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雨天電單車驚現橘貓霸位！掀雨罩露無辜眼神　車主心軟結局超暖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192540435638128640548961.png/shk37S6FyPoAgBgm3_USO9Wrf5W08mWNmnYu8Zp2LvE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404657/%E9%9B%A8%E5%A4%A9%E9%9B%BB%E5%96%AE%E8%BB%8A%E9%A9%9A%E7%8F%BE%E6%A9%98%E8%B2%93%E9%9C%B8%E4%BD%8D-%E6%8E%80%E9%9B%A8%E7%BD%A9%E9%9C%B2%E7%84%A1%E8%BE%9C%E7%9C%BC%E7%A5%9E-%E8%BB%8A%E4%B8%BB%E5%BF%83%E8%BB%9F%E7%B5%90%E5%B1%80%E8%B6%85%E6%9A%96",
-    "timestamp": "2026-10-30T15:15:41.793Z",
     "strategy": ".content-card__main"
   }
 ];
