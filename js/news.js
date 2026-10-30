@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T07:40:41.432Z
+// Last updated: 2026-10-30T08:20:06.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關深圳灣管制站截查貨車拘司機　檢8噸未完稅製成煙草值$5340萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192869093183590400279648.jpeg/QPstGWDcTFGu_erVsGHUiTwlzhdDtufJIEhXByBIVwc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405347/%E6%B5%B7%E9%97%9C%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA%E6%9F%A5%E8%B2%A8%E8%BB%8A%E6%8B%98%E5%8F%B8%E6%A9%9F-%E6%AA%A28%E5%99%B8%E6%9C%AA%E5%AE%8C%E7%A8%85%E8%A3%BD%E6%88%90%E7%85%99%E8%8D%89%E5%80%BC-5340%E8%90%AC",
+    "timestamp": "2026-10-30T08:20:06.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西班牙高鐵相撞事故釀69死　中國遊客客因「賴床」改簽奇蹟保命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261016/1187708013507514368905764.jpeg/Od4arFt7FFqyp9gkpAGlz7xZ_erCgMtJJL68BCS-vAQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405131/%E7%99%BD%E5%AE%AE-%E6%84%9B%E8%82%A1-intel%E7%9B%A4%E5%BE%8C%E6%9A%B4%E7%80%89%E9%80%BE23-q4%E7%9B%88%E5%88%A9%E6%8C%87%E5%BC%95%E9%81%A0%E9%81%9C%E8%8F%AF%E7%88%BE%E8%A1%97%E9%A0%90%E6%9C%9F",
     "timestamp": "2026-10-29T23:53:56.374Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美陸軍三星中將被指向傳媒洩密遭革職　美媒：曾4次未能通過測謊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192740424800800768507829.jpeg/KRz4C67n54-bJERieMWpq1sDWvxaO30MknohnJJ6IZw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405120/%E7%BE%8E%E9%99%B8%E8%BB%8D%E4%B8%89%E6%98%9F%E4%B8%AD%E5%B0%87%E8%A2%AB%E6%8C%87%E5%90%91%E5%82%B3%E5%AA%92%E6%B4%A9%E5%AF%86%E9%81%AD%E9%9D%A9%E8%81%B7-%E7%BE%8E%E5%AA%92-%E6%9B%BE4%E6%AC%A1%E6%9C%AA%E8%83%BD%E9%80%9A%E9%81%8E%E6%B8%AC%E8%AC%8A",
-    "timestamp": "2026-10-29T23:40:15.300Z",
     "strategy": ".content-card__main"
   }
 ];
