@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T15:15:41.793Z
+// Last updated: 2026-10-30T15:25:47.092Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳康堤懶理黃澤林「無縫接軌」換新歡　突襲中環力撐好友林愷鈴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192962185014284288917320.jpeg/ZuFZvBCmyOOl1CQA4VbFkBVAXe_pvwBjOHHpsDhx6bA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405490/%E9%99%B3%E5%BA%B7%E5%A0%A4%E6%87%B6%E7%90%86%E9%BB%83%E6%BE%A4%E6%9E%97-%E7%84%A1%E7%B8%AB%E6%8E%A5%E8%BB%8C-%E6%8F%9B%E6%96%B0%E6%AD%A1-%E7%AA%81%E8%A5%B2%E4%B8%AD%E7%92%B0%E5%8A%9B%E6%92%90%E5%A5%BD%E5%8F%8B%E6%9E%97%E6%84%B7%E9%88%B4",
+    "timestamp": "2026-10-30T15:25:47.092Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雨天電單車驚現橘貓霸位！掀雨罩露無辜眼神　車主心軟結局超暖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192877080728047616567824.jpeg/YT5yiS3eEKu0yDCAIQQ1UP5qxW8K28X60_OSbNPzkmw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60405340/%E8%8D%83%E6%96%B0%E5%A4%A9%E5%9C%B0%E5%87%BA%E7%A7%9F95-4%E8%90%AC%E5%91%8E%E6%88%B6%E5%A4%96%E5%BB%A3%E5%A0%B4%E5%8D%87%E7%B4%9A-%E8%8D%83%E5%A4%A9%E9%A3%9F-%E9%A4%90%E9%A3%B2%E6%AF%94%E4%BE%8B%E9%80%BE4%E6%88%90",
     "timestamp": "2026-10-30T08:41:47.693Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關深圳灣管制站截查貨車拘司機　檢8噸未完稅製成煙草值$5340萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192869093183590400279648.jpeg/QPstGWDcTFGu_erVsGHUiTwlzhdDtufJIEhXByBIVwc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405347/%E6%B5%B7%E9%97%9C%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA%E6%9F%A5%E8%B2%A8%E8%BB%8A%E6%8B%98%E5%8F%B8%E6%A9%9F-%E6%AA%A28%E5%99%B8%E6%9C%AA%E5%AE%8C%E7%A8%85%E8%A3%BD%E6%88%90%E7%85%99%E8%8D%89%E5%80%BC-5340%E8%90%AC",
-    "timestamp": "2026-10-30T08:20:06.607Z",
     "strategy": ".content-card__main"
   }
 ];
