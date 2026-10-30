@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T11:41:10.848Z
+// Last updated: 2026-10-30T11:57:14.233Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女子賣假鄭秀文演唱會門票罪成　官稱要慮事主期望落　判囚18月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240722/892023444974080000365927.jpeg/cSjyWtuYgnbf3LytxZGJGroAaoYug5n0BS-KzgUvis4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405472/%E5%A5%B3%E5%AD%90%E8%B3%A3%E5%81%87%E9%84%AD%E7%A7%80%E6%96%87%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%80%E7%A5%A8%E7%BD%AA%E6%88%90-%E5%AE%98%E7%A8%B1%E8%A6%81%E6%85%AE%E4%BA%8B%E4%B8%BB%E6%9C%9F%E6%9C%9B%E8%90%BD-%E5%88%A4%E5%9B%9A18%E6%9C%88",
+    "timestamp": "2026-10-30T11:57:14.233Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "電商平台AI模特現三條腿、反關節「比V」　製作成本低至¥5元/張",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192830809560584192541679.jpeg/kPwbMYJhwxIWpImFJ5lQxahXZ4YwcOl8VczDk1XMw5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405262/whatsapp%E9%A8%8E%E5%8A%AB-%E8%83%9E%E5%A6%B9%E4%BE%86%E8%A8%8A%E8%A6%81%E6%87%89%E6%80%A5%E9%8C%A2-%E4%BA%8B%E4%B8%BB%E7%95%B6%E9%9D%A2%E6%B1%82%E8%AD%89%E6%8F%AD%E7%A0%B4-%E9%99%84%E6%8F%90%E9%98%B29%E6%8B%9B",
     "timestamp": "2026-10-30T05:55:08.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜孫玉菡：按特首要求留守崗位　汲取教訓以結果為目標施政",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260323/1112730951135662080194608.jpeg/mPvFRpmm0EVrlXowKp8UIk4wsnWUfWQj8E5CHNVOQhw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405250/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E6%8C%89%E7%89%B9%E9%A6%96%E8%A6%81%E6%B1%82%E7%95%99%E5%AE%88%E5%B4%97%E4%BD%8D-%E6%B1%B2%E5%8F%96%E6%95%99%E8%A8%93%E4%BB%A5%E7%B5%90%E6%9E%9C%E7%82%BA%E7%9B%AE%E6%A8%99%E6%96%BD%E6%94%BF",
-    "timestamp": "2026-10-30T05:40:31.863Z",
     "strategy": ".content-card__main"
   }
 ];
