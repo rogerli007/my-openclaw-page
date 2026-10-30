@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T10:53:33.481Z
+// Last updated: 2026-10-30T11:14:26.890Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "F1車神冼拿生前專屬紅色本田NSX倫敦拍賣！估價高達800萬港元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192878168550150144150639.jpeg/nh2RVdD3JfGturd4mYXVN4pQkWKsFtKNH08wzB9PMMw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60405197/f1%E8%BB%8A%E7%A5%9E%E5%86%BC%E6%8B%BF%E7%94%9F%E5%89%8D%E5%B0%88%E5%B1%AC%E7%B4%85%E8%89%B2%E6%9C%AC%E7%94%B0nsx%E5%80%AB%E6%95%A6%E6%8B%8D%E8%B3%A3-%E4%BC%B0%E5%83%B9%E9%AB%98%E9%81%94800%E8%90%AC%E6%B8%AF%E5%85%83",
+    "timestamp": "2026-10-30T11:14:26.890Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "建造業議會支持圍標刑事化等措施　須更嚴厲法律制裁和執法護公平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405140/%E9%AB%98%E6%81%AF%E4%B8%8D%E5%BF%85%E6%94%BE%E6%A3%84%E5%A2%9E%E9%95%B7-%E5%BE%9E%E6%94%B6%E6%81%AF%E8%82%A1%E7%9C%8B3555%E7%9A%84%E6%8A%95%E8%B3%87%E5%8F%96%E5%90%91-%E5%BD%AD%E5%81%89%E6%96%B0",
     "timestamp": "2026-10-30T04:18:34.729Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "6歲女童石粒塞鼻越夾越深巧遇兒科醫生及時化解 附異物入鼻處理法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192362044246986752920158.jpeg/S6m-U39rVNklZclA_m_pjFIYdTJ1YMO_0GS2utBktro?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60404259/6%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%9F%B3%E7%B2%92%E5%A1%9E%E9%BC%BB%E8%B6%8A%E5%A4%BE%E8%B6%8A%E6%B7%B1%E5%B7%A7%E9%81%87%E5%85%92%E7%A7%91%E9%86%AB%E7%94%9F%E5%8F%8A%E6%99%82%E5%8C%96%E8%A7%A3-%E9%99%84%E7%95%B0%E7%89%A9%E5%85%A5%E9%BC%BB%E8%99%95%E7%90%86%E6%B3%95",
-    "timestamp": "2026-10-30T03:54:01.024Z",
     "strategy": ".content-card__main"
   }
 ];
