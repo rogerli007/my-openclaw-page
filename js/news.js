@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T21:18:05.725Z
+// Last updated: 2026-10-31T21:23:36.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "坑口公共單車泊位　9輛單車遭縱火燒毀　警追緝歹徒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193427909780443136506273.jpeg/lmr4SP1YdcO2otPoUYwPduzoecqsDJUv1zzRju080Y4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405758/%E5%9D%91%E5%8F%A3%E5%85%AC%E5%85%B1%E5%96%AE%E8%BB%8A%E6%B3%8A%E4%BD%8D-9%E8%BC%9B%E5%96%AE%E8%BB%8A%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
+    "timestamp": "2026-10-31T21:23:36.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坑口公共單車泊位　9輛單車遭縱火燒毀　警追緝歹徒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193329343347036160315289.jpeg/2JHShx3M9xYGambfF3lrXs7WcY51s3EJVmeURVZnlEU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405731/72%E6%AD%B2%E6%9E%97%E5%BB%BA%E6%98%8E%E6%9F%93%E6%83%A1%E8%8F%8C%E9%81%B2%E5%85%A9%E6%97%A5%E6%81%90%E8%AE%8A%E8%87%B4%E5%91%BD%E8%82%BA%E7%82%8E-%E8%A1%97%E9%A0%AD%E4%BB%86%E5%82%B7%E9%9B%99%E8%86%9D%E5%A4%A7%E5%98%86%E7%8A%AF%E5%A4%AA%E6%AD%B2",
     "timestamp": "2026-10-31T15:59:11.857Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "你的保安李寶安｜收視暴跌急變陣　導演何爵天鞠躬道歉嘆預算緊張",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193312359897108480263017.jpeg/S-MVNFxzsNZGhPvoFPHxOJZQDQzCXDInJ1T30idU99I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405709/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89%E6%9D%8E%E5%AF%B6%E5%AE%89-%E6%94%B6%E8%A6%96%E6%9A%B4%E8%B7%8C%E6%80%A5%E8%AE%8A%E9%99%A3-%E5%B0%8E%E6%BC%94%E4%BD%95%E7%88%B5%E5%A4%A9%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%E5%98%86%E9%A0%90%E7%AE%97%E7%B7%8A%E5%BC%B5",
-    "timestamp": "2026-10-31T15:23:36.453Z",
     "strategy": ".content-card__main"
   }
 ];
