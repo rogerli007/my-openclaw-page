@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T07:39:37.498Z
+// Last updated: 2026-10-31T07:53:59.067Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《嫁金釵》田曦薇閆桉終圓房　從替嫁沖喜到二次大婚虐戀成真！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190711915827957760932175.png/Giew2rbBgL7MxF6br7pMBuZaeox495fmsdbPprHWz6Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405587/%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B0%E6%9B%A6%E8%96%87%E9%96%86%E6%A1%89%E7%B5%82%E5%9C%93%E6%88%BF-%E5%BE%9E%E6%9B%BF%E5%AB%81%E6%B2%96%E5%96%9C%E5%88%B0%E4%BA%8C%E6%AC%A1%E5%A4%A7%E5%A9%9A%E8%99%90%E6%88%80%E6%88%90%E7%9C%9F",
+    "timestamp": "2026-10-31T07:53:59.067Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "70歲老婦掏老本幫孫女交學費　半年後卻只剩心寒嘆：錢填不滿空虛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192742912853544960674081.jpeg/lc-9-Sdnn9a-W6Trg25FtZ8mp8QOD605LZdihi2XYoY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60405124/%E8%90%AC%E8%81%96%E7%AF%80%E9%87%91%E5%A4%9A%E5%AF%B68000%E8%90%AC%E5%91%A8%E5%85%AD%E6%94%AA%E7%8F%A0-8%E5%A4%A7%E7%86%B1%E9%96%80%E8%99%9F%E7%A2%BC-ai%E6%8E%A8%E6%B8%AC%E6%9C%80%E5%BC%B7%E8%86%BD%E6%8B%96%E7%B5%84%E5%90%88",
     "timestamp": "2026-10-31T01:42:37.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜西貢大網仔營地30歲男子帳幕內燒炭　網民報警救回一命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193123337925038080754219.png/xGRdzTEtSvFHXLfA7QfHrhcxrlx8Z_SCrufm5a7n5uU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405542/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E7%87%9F%E5%9C%B030%E6%AD%B2%E7%94%B7%E5%AD%90%E5%B8%B3%E5%B9%95%E5%85%A7%E7%87%92%E7%82%AD-%E7%B6%B2%E6%B0%91%E5%A0%B1%E8%AD%A6%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD",
-    "timestamp": "2026-10-31T01:26:46.339Z",
     "strategy": ".content-card__main"
   }
 ];
