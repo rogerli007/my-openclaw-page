@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T16:18:32.819Z
+// Last updated: 2026-10-31T16:23:42.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節｜蘭桂坊一帶逼爆　女嘩鬼呻攰拒排長龍入蘭桂坊：未必去",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193351605584400384950876.jpeg/9ksEsT_5qZRFqmLBEhaltMOYF82kSF-FalnFDmpZxQ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405739/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E9%80%BC%E7%88%86-%E5%A5%B3%E5%98%A9%E9%AC%BC%E5%91%BB%E6%94%B0%E6%8B%92%E6%8E%92%E9%95%B7%E9%BE%8D%E5%85%A5%E8%98%AD%E6%A1%82%E5%9D%8A-%E6%9C%AA%E5%BF%85%E5%8E%BB",
+    "timestamp": "2026-10-31T16:23:42.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節｜蘭桂坊一帶逼爆　女嘩鬼呻攰拒排長龍入蘭桂坊：未必去",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193241417288257536521807.jpeg/vgOLWCpiW260h7wn0jpyFP-N4WAqFqxM0HMqXtBzKl4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405578/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%9B%BC%E8%81%AF%E4%BA%82%E5%B1%80%E7%84%A1%E9%99%90%E8%BC%AA%E8%BF%B4-%E5%A0%AA%E6%AF%94%E6%98%8E%E6%9C%9D%E5%BE%9E%E8%90%AC%E6%9B%86%E5%88%B0%E5%B4%87%E7%A6%8E%E6%AD%A5%E5%90%91%E6%BB%85%E4%BA%A1",
     "timestamp": "2026-10-31T08:53:30.081Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節｜天文台料今晚「回雲夜」雲量逐漸增多　下周六立冬暖笠笠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251031/1061037825748635648925487.jpeg/GNoWnREXG5n7pfzL-3exstaazp7MOOGqI_FPvQbxT70?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60405631/%E8%90%AC%E8%81%96%E7%AF%80-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BB%8A%E6%99%9A-%E5%9B%9E%E9%9B%B2%E5%A4%9C-%E9%9B%B2%E9%87%8F%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A-%E4%B8%8B%E5%91%A8%E5%85%AD%E7%AB%8B%E5%86%AC%E6%9A%96%E7%AC%A0%E7%AC%A0",
-    "timestamp": "2026-10-31T08:44:59.716Z",
     "strategy": ".content-card__main"
   }
 ];
