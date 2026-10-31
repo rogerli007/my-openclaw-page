@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T17:12:31.230Z
+// Last updated: 2026-10-31T17:27:43.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節｜蘭桂坊酒吧生意增5成　負責人讚萬聖月帶旺：上周起增加",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193367214170836992125784.jpeg/ynRZmo1KUC-d04u-SJuIyTBS_vWaPV0kFdBzRjzQc0Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405743/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E9%85%92%E5%90%A7%E7%94%9F%E6%84%8F%E5%A2%9E5%E6%88%90-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E8%AE%9A%E8%90%AC%E8%81%96%E6%9C%88%E5%B8%B6%E6%97%BA-%E4%B8%8A%E5%91%A8%E8%B5%B7%E5%A2%9E%E5%8A%A0",
+    "timestamp": "2026-10-31T17:27:43.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新皇崗口岸｜旅客半夜離港需等待45分鐘　內地客︰大家都不睡覺？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259461771268096624398.jpeg/EQw5CVIQTUHnp7KeS-GQGBlHAQupvQA2ONDhSjjQ4Uo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405663/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E8%94%A3%E5%AE%B6%E6%97%BB%E9%BB%91%E5%8C%96%E8%90%BD%E6%AF%92%E6%AE%BA%E5%A4%AB%E7%88%86%E6%A8%BD%E6%89%91%E8%94%A1%E4%B8%80%E6%99%BA-%E9%99%B3%E7%80%85%E8%A2%AB%E5%BC%B5%E6%99%BA%E9%9C%96%E6%89%AF%E9%A0%AD%E9%AB%AE",
     "timestamp": "2026-10-31T10:53:49.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱敏瀚為TVB台慶綵排發生意外　木架倒塌人從兩米高墮地場面驚險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193264461503270912417369.jpeg/CXmHJkVYffHoUd5FZGH7nvdg49C_nJvTjGahC4xmoQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405672/%E6%9C%B1%E6%95%8F%E7%80%9A%E7%82%BAtvb%E5%8F%B0%E6%85%B6%E7%B6%B5%E6%8E%92%E7%99%BC%E7%94%9F%E6%84%8F%E5%A4%96-%E6%9C%A8%E6%9E%B6%E5%80%92%E5%A1%8C%E4%BA%BA%E5%BE%9E%E5%85%A9%E7%B1%B3%E9%AB%98%E5%A2%AE%E5%9C%B0%E5%A0%B4%E9%9D%A2%E9%A9%9A%E9%9A%AA",
-    "timestamp": "2026-10-31T10:39:09.920Z",
     "strategy": ".content-card__main"
   }
 ];
