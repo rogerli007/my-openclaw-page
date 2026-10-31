@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T04:53:47.902Z
+// Last updated: 2026-10-31T05:19:38.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "公屋首次審查！男子「冇去」遭取消資格急求助　附房署條例+熱線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193031029883932672106587.png/p-a5pnQuj58WzVUbzCOL27bNdBcyBXfulW40UZVuNFE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404625/%E5%85%AC%E5%B1%8B%E9%A6%96%E6%AC%A1%E5%AF%A9%E6%9F%A5-%E7%94%B7%E5%AD%90-%E5%86%87%E5%8E%BB-%E9%81%AD%E5%8F%96%E6%B6%88%E8%B3%87%E6%A0%BC%E6%80%A5%E6%B1%82%E5%8A%A9-%E9%99%84%E6%88%BF%E7%BD%B2%E6%A2%9D%E4%BE%8B-%E7%86%B1%E7%B7%9A",
+    "timestamp": "2026-10-31T05:19:38.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣葵德街廢紙廠　工人壓縮紙皮　遭機器切斷手指頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251111/1064895654511513600406591.jpeg/5OtvPfen0gKn4QauUh-iNpNgw7LHW70cmaqVWpmqlVo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60402976/43%E6%A0%A1%E7%B6%B2-%E6%9D%B1%E9%A0%AD-%E9%BB%83%E5%A4%A7%E4%BB%99-%E6%96%B0%E8%92%B2%E5%B4%97%E5%B0%8F%E5%AD%B8%E5%90%8D%E5%96%AE%E6%9C%89%E7%94%9A%E9%BA%BC%E5%AD%B8%E6%A0%A1-%E5%AD%B8%E9%A1%8D%E6%9C%89%E5%A4%9A%E5%B0%91",
     "timestamp": "2026-10-30T23:13:16.723Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜大埔公路流浪狗徘徊　巴士將駛至　Cam主響號護航救一命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193081888307154944914708.jpeg/gh4dLe27avJnTc7sP9-xMuw_bPZSErWIgbN2yIGzdsg",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405534/%E8%BB%8Acam-%E5%A4%A7%E5%9F%94%E5%85%AC%E8%B7%AF%E6%B5%81%E6%B5%AA%E7%8B%97%E5%BE%98%E5%BE%8A-%E5%B7%B4%E5%A3%AB%E5%B0%87%E9%A7%9B%E8%87%B3-cam%E4%B8%BB%E9%9F%BF%E8%99%9F%E8%AD%B7%E8%88%AA%E6%95%91%E4%B8%80%E5%91%BD",
-    "timestamp": "2026-10-30T22:53:30.836Z",
     "strategy": ".content-card__main"
   }
 ];
