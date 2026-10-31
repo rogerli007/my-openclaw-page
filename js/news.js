@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T19:17:35.345Z
+// Last updated: 2026-10-31T19:24:06.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧談傳統童年智慧 井水浸西瓜與手工縫衣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193266179821539328719283.jpeg/ZlyIiCEkP3XeuhEgP8G4OpqiskWp-0aOKanZGSmp2Rk",
+    "url": "https://www.hk01.com/01TV/60405674/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%AB%87%E5%82%B3%E7%B5%B1%E7%AB%A5%E5%B9%B4%E6%99%BA%E6%85%A7-%E4%BA%95%E6%B0%B4%E6%B5%B8%E8%A5%BF%E7%93%9C%E8%88%87%E6%89%8B%E5%B7%A5%E7%B8%AB%E8%A1%A3",
+    "timestamp": "2026-10-31T19:24:06.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧談傳統童年智慧 井水浸西瓜與手工縫衣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193261649574760448742803.jpeg/JwoJ-am9yiMkUV9_HI_EoKI05Dzse13I5lrftuZa37Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405611/%E4%BD%95%E6%B2%9B%E7%8F%88%E8%87%AA%E7%88%86%E6%81%90%E7%94%B7%E7%8E%A9%E4%BA%A4%E5%8F%8Bapp%E8%A2%AB%E5%9A%87%E9%80%80-%E9%98%AE%E5%98%89%E6%95%8F%E5%BF%8D%E5%8F%97%E5%89%8D%E5%BA%A6%E8%A3%9D%E5%AE%9A%E4%BD%8D%E7%AB%9F%E9%81%AD%E5%81%B7%E9%A3%9F",
     "timestamp": "2026-10-31T13:39:21.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期10.31頭獎8000萬即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405720/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F10-31%E9%A0%AD%E7%8D%8E8000%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-10-31T13:23:55.256Z",
     "strategy": ".content-card__main"
   }
 ];
