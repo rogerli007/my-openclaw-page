@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T11:13:16.147Z
+// Last updated: 2026-10-31T11:53:45.668Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜如風變「紙片人」惹關注　全靠跑步加一日一餐︰想告別12年單身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193274884029943808390476.jpeg/_J1RR9B_4XeyP_Z4keqtvhlYuNGgoCQ9K0yAnytMgJ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405668/%E6%9D%9C%E5%A6%82%E9%A2%A8%E8%AE%8A-%E7%B4%99%E7%89%87%E4%BA%BA-%E6%83%B9%E9%97%9C%E6%B3%A8-%E5%85%A8%E9%9D%A0%E8%B7%91%E6%AD%A5%E5%8A%A0%E4%B8%80%E6%97%A5%E4%B8%80%E9%A4%90-%E6%83%B3%E5%91%8A%E5%88%A512%E5%B9%B4%E5%96%AE%E8%BA%AB",
+    "timestamp": "2026-10-31T11:53:45.668Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲民眾抗議生活成本高　示威料蔓延德國　法國嚴防萬聖節騷亂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191590473173569536023746.jpeg/FBnlQQoXQ7FcjveVLFb9b-uX6XaKaVUDPFqvqDxar6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405575/%E5%8D%9A%E7%88%BE%E7%B4%A2%E7%B4%8D%E7%BE%85%E5%85%92%E5%AD%90%E6%95%97%E9%81%B8%E5%BE%8C%E7%AA%81%E8%B5%B4%E7%BE%8E%E5%9C%8B-%E7%A8%B1%E9%81%AD%E5%B7%B4%E8%A5%BF%E5%9C%8B%E5%85%A7%E8%BF%AB%E5%AE%B3",
     "timestamp": "2026-10-31T04:24:59.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國海事局：黃海南海部分海域11月2日至6日實彈射擊，禁止駛入",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193172305723789312042936.png/ZoaTK0I8GTx_ZDsHZG1ZhEi3RIUN1PJc7k9yyu5Pcso?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405579/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E4%BA%8B%E5%B1%80-%E9%BB%83%E6%B5%B7%E5%8D%97%E6%B5%B7%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F11%E6%9C%882%E6%97%A5%E8%87%B36%E6%97%A5%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A-%E7%A6%81%E6%AD%A2%E9%A7%9B%E5%85%A5",
-    "timestamp": "2026-10-31T04:15:44.137Z",
     "strategy": ".content-card__main"
   }
 ];
