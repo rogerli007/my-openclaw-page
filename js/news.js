@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T20:40:36.167Z
+// Last updated: 2026-10-31T21:18:05.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "坑口公共單車泊位　9輛單車遭縱火燒毀　警追緝歹徒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193427909780443136506273.jpeg/lmr4SP1YdcO2otPoUYwPduzoecqsDJUv1zzRju080Y4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405758/%E5%9D%91%E5%8F%A3%E5%85%AC%E5%85%B1%E5%96%AE%E8%BB%8A%E6%B3%8A%E4%BD%8D-9%E8%BC%9B%E5%96%AE%E8%BB%8A%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
+    "timestamp": "2026-10-31T21:18:05.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西營盤14歲少年疑遭父親動手管教受傷送院　前妻揭發　35歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193312359897108480263017.jpeg/S-MVNFxzsNZGhPvoFPHxOJZQDQzCXDInJ1T30idU99I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405709/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89%E6%9D%8E%E5%AF%B6%E5%AE%89-%E6%94%B6%E8%A6%96%E6%9A%B4%E8%B7%8C%E6%80%A5%E8%AE%8A%E9%99%A3-%E5%B0%8E%E6%BC%94%E4%BD%95%E7%88%B5%E5%A4%A9%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%E5%98%86%E9%A0%90%E7%AE%97%E7%B7%8A%E5%BC%B5",
     "timestamp": "2026-10-31T15:23:36.453Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節｜美酒佳餚巡禮人流旺　安記海味打蛇餅　料生意按年增一成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193337811135107072067945.jpeg/IjsDfuP1lbxCewApPbBOzYZocEyBMxFlxqcDM-CnAzM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405736/%E8%90%AC%E8%81%96%E7%AF%80-%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%B7%A1%E7%A6%AE%E4%BA%BA%E6%B5%81%E6%97%BA-%E5%AE%89%E8%A8%98%E6%B5%B7%E5%91%B3%E6%89%93%E8%9B%87%E9%A4%85-%E6%96%99%E7%94%9F%E6%84%8F%E6%8C%89%E5%B9%B4%E5%A2%9E%E4%B8%80%E6%88%90",
-    "timestamp": "2026-10-31T15:12:47.463Z",
     "strategy": ".content-card__main"
   }
 ];
