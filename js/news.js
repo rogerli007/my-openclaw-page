@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T17:27:43.452Z
+// Last updated: 2026-10-31T17:39:14.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "駐日美軍沖繩違宵禁令酒後駕駛被捕　體內酒精含量超標2倍以上",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193367678522232832675391.jpeg/AlQ70UnZ-QQncUOY6XJ_NA42JDPuKXd6pL_rWaS_61k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405742/%E9%A7%90%E6%97%A5%E7%BE%8E%E8%BB%8D%E6%B2%96%E7%B9%A9%E9%81%95%E5%AE%B5%E7%A6%81%E4%BB%A4%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E8%A2%AB%E6%8D%95-%E9%AB%94%E5%85%A7%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%992%E5%80%8D%E4%BB%A5%E4%B8%8A",
+    "timestamp": "2026-10-31T17:39:14.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節｜蘭桂坊酒吧生意增5成　負責人讚萬聖月帶旺：上周起增加",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256988834795520479638.jpeg/f1IUZx1eyPH7VjwfmPd3GISCwZseKIgTkP7TgZD-04E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405652/%E6%AD%90%E6%B4%B2%E6%B0%91%E7%9C%BE%E6%8A%97%E8%AD%B0%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E9%AB%98-%E7%A4%BA%E5%A8%81%E6%96%99%E8%94%93%E5%BB%B6%E5%BE%B7%E5%9C%8B-%E6%B3%95%E5%9C%8B%E5%9A%B4%E9%98%B2%E8%90%AC%E8%81%96%E7%AF%80%E9%A8%B7%E4%BA%82",
     "timestamp": "2026-10-31T11:13:16.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜蔣家旻黑化落毒殺夫爆樽扑蔡一智　陳瀅被張智霖扯頭髮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259461771268096624398.jpeg/EQw5CVIQTUHnp7KeS-GQGBlHAQupvQA2ONDhSjjQ4Uo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405663/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E8%94%A3%E5%AE%B6%E6%97%BB%E9%BB%91%E5%8C%96%E8%90%BD%E6%AF%92%E6%AE%BA%E5%A4%AB%E7%88%86%E6%A8%BD%E6%89%91%E8%94%A1%E4%B8%80%E6%99%BA-%E9%99%B3%E7%80%85%E8%A2%AB%E5%BC%B5%E6%99%BA%E9%9C%96%E6%89%AF%E9%A0%AD%E9%AB%AE",
-    "timestamp": "2026-10-31T10:53:49.839Z",
     "strategy": ".content-card__main"
   }
 ];
