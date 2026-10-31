@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T18:30:24.722Z
+// Last updated: 2026-10-31T18:39:29.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節直擊中環巴士站半百人等B13尾班車北上　城巴臨時調車疏導",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193387625038221312987436.jpeg/RUBGR7uhr_tgduLVDDXFXKi1zEGlkO5yZ2scE0JrHBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405749/%E8%90%AC%E8%81%96%E7%AF%80%E7%9B%B4%E6%93%8A%E4%B8%AD%E7%92%B0%E5%B7%B4%E5%A3%AB%E7%AB%99%E5%8D%8A%E7%99%BE%E4%BA%BA%E7%AD%89b13%E5%B0%BE%E7%8F%AD%E8%BB%8A%E5%8C%97%E4%B8%8A-%E5%9F%8E%E5%B7%B4%E8%87%A8%E6%99%82%E8%AA%BF%E8%BB%8A%E7%96%8F%E5%B0%8E",
+    "timestamp": "2026-10-31T18:39:29.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節｜旺角600人等上車去新皇崗口岸　旅客大讚：比預想中快",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193292958795829248107489.jpeg/p3iFcOGoUL3dinL_CHV2AJSis2yklDhqXpFM016RTNM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405708/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E5%8F%B0%E5%B1%B1%E4%B8%89%E6%AF%8D%E5%A5%B3%E4%BE%86%E6%B8%AF%E7%8B%82%E6%AD%A1-%E5%B8%82%E6%B0%91%E7%9B%B4%E5%91%BC-%E4%B8%80%E5%B9%B4%E6%AF%94%E4%B8%80%E5%B9%B4%E5%A4%9A%E4%BA%BA",
     "timestamp": "2026-10-31T12:53:31.736Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西九龍住宅男子疑酒後失足墮平台　壓中途經外傭　均受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113236343221129216765138.jpeg/hSxcDK7kHHadYnflxCbTBAQS6qgS5nn6Tv8u0Gf_LtA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405710/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E4%BD%8F%E5%AE%85%E7%94%B7%E5%AD%90%E7%96%91%E9%85%92%E5%BE%8C%E5%A4%B1%E8%B6%B3%E5%A2%AE%E5%B9%B3%E5%8F%B0-%E5%A3%93%E4%B8%AD%E9%80%94%E7%B6%93%E5%A4%96%E5%82%AD-%E5%9D%87%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-10-31T12:39:39.380Z",
     "strategy": ".content-card__main"
   }
 ];
