@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T12:53:31.736Z
+// Last updated: 2026-10-31T13:13:20.924Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "製氧機老化！阿伯為省錢拒換　兒子驚揭輸出「安慰氧」無醫療價值",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192886649936154624973642.png/meqLhIIQy_LxARgwOahz66cnRdOFaUd5lEFslpRBbJY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405147/%E8%A3%BD%E6%B0%A7%E6%A9%9F%E8%80%81%E5%8C%96-%E9%98%BF%E4%BC%AF%E7%82%BA%E7%9C%81%E9%8C%A2%E6%8B%92%E6%8F%9B-%E5%85%92%E5%AD%90%E9%A9%9A%E6%8F%AD%E8%BC%B8%E5%87%BA-%E5%AE%89%E6%85%B0%E6%B0%A7-%E7%84%A1%E9%86%AB%E7%99%82%E5%83%B9%E5%80%BC",
+    "timestamp": "2026-10-31T13:13:20.924Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節｜蘭桂坊台山三母女來港狂歡　市民直呼：一年比一年多人！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193031029883932672106587.png/p-a5pnQuj58WzVUbzCOL27bNdBcyBXfulW40UZVuNFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404625/%E5%85%AC%E5%B1%8B%E9%A6%96%E6%AC%A1%E5%AF%A9%E6%9F%A5-%E7%94%B7%E5%AD%90-%E5%86%87%E5%8E%BB-%E9%81%AD%E5%8F%96%E6%B6%88%E8%B3%87%E6%A0%BC%E6%80%A5%E6%B1%82%E5%8A%A9-%E9%99%84%E6%88%BF%E7%BD%B2%E6%A2%9D%E4%BE%8B-%E7%86%B1%E7%B7%9A",
     "timestamp": "2026-10-31T05:19:38.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣葵德街廢紙廠　工人壓縮紙皮　遭機器切斷手指頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193179481909497856125094.jpeg/_sN0lmV_HYNIFkGyO2FUXZgX2KC9g3IWKBBmTygQZk8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405588/%E9%9D%92%E8%A1%A3%E8%91%B5%E5%BE%B7%E8%A1%97%E5%BB%A2%E7%B4%99%E5%BB%A0-%E5%B7%A5%E4%BA%BA%E5%A3%93%E7%B8%AE%E7%B4%99%E7%9A%AE-%E9%81%AD%E6%A9%9F%E5%99%A8%E5%88%87%E6%96%B7%E6%89%8B%E6%8C%87%E9%A0%AD",
-    "timestamp": "2026-10-31T04:53:47.902Z",
     "strategy": ".content-card__main"
   }
 ];
