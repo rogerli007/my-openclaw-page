@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T00:55:49.069Z
+// Last updated: 2026-10-31T01:15:28.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全面封殺麥巴比：中國的反應過度嗎？真的該道過歉就算了嗎？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192948458198142976701395.jpeg/WqyoIs4dFybuPpuuvTySbnH6XnaxdKbrK06Z0itOmdI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60405484/%E5%85%A8%E9%9D%A2%E5%B0%81%E6%AE%BA%E9%BA%A5%E5%B7%B4%E6%AF%94-%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%8F%8D%E6%87%89%E9%81%8E%E5%BA%A6%E5%97%8E-%E7%9C%9F%E7%9A%84%E8%A9%B2%E9%81%93%E9%81%8E%E6%AD%89%E5%B0%B1%E7%AE%97%E4%BA%86%E5%97%8E",
+    "timestamp": "2026-10-31T01:15:28.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI泡沫論｜亞馬遜設立硬件擔保融資安排　最高800億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193019435451944960250987.jpeg/RSVEZfoe8_oQ2D_DHOaOwYyaDjZcynRCIZar-SGWq_k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60405517/%E6%A2%81%E6%9C%9D%E5%81%89%E5%8A%89%E5%98%89%E7%8E%B2%E5%8C%85%E5%BB%82%E7%9D%87weeknd%E6%BC%94%E5%94%B1%E6%9C%83-%E5%98%89%E7%8E%B2%E5%A7%90%E8%88%88%E5%A5%AE%E5%94%B1%E7%8E%8B%E8%8F%B2-%E5%AD%A3%E5%80%99%E9%A2%A8",
     "timestamp": "2026-10-30T18:39:37.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劍擊U23亞錦賽｜劉晉延男子花劍封王　港隊個人賽掃4金2銀7銅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193011916633542656784356.png/O-UnNrVU9ume8C5tacZ5T2rTpg0Lh7NiN-cNtTfnDbU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405515/%E5%8A%8D%E6%93%8Au23%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E5%8A%89%E6%99%89%E5%BB%B6%E7%94%B7%E5%AD%90%E8%8A%B1%E5%8A%8D%E5%B0%81%E7%8E%8B-%E6%B8%AF%E9%9A%8A%E5%80%8B%E4%BA%BA%E8%B3%BD%E6%8E%834%E9%87%912%E9%8A%807%E9%8A%85",
-    "timestamp": "2026-10-30T17:40:23.341Z",
     "strategy": ".content-card__main"
   }
 ];
