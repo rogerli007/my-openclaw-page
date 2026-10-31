@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T02:55:41.594Z
+// Last updated: 2026-10-31T03:15:39.286Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "等18年終獲批移美！女生難捨男友　最終決定取綠卡：唔想老咗後悔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192848405966098432625371.png/JPtA6L5NpltcCk8VZC1C8jWtBXEgPvk6sXIN1bFyDdU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405045/%E7%AD%8918%E5%B9%B4%E7%B5%82%E7%8D%B2%E6%89%B9%E7%A7%BB%E7%BE%8E-%E5%A5%B3%E7%94%9F%E9%9B%A3%E6%8D%A8%E7%94%B7%E5%8F%8B-%E6%9C%80%E7%B5%82%E6%B1%BA%E5%AE%9A%E5%8F%96%E7%B6%A0%E5%8D%A1-%E5%94%94%E6%83%B3%E8%80%81%E5%92%97%E5%BE%8C%E6%82%94",
+    "timestamp": "2026-10-31T03:15:39.286Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許軼首演自爆緊張到寢食難安　麥沛東狠踢爆：一Break佢就食緊嘢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187223275265069056234815.jpeg/nohagnF3yqcWovFfftIER4sKKun0OZ31j_SGDI_0hgw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405518/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%B7%B2%E9%81%9E%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8-%E6%88%90%E9%A6%96%E4%BD%8D%E5%8F%83%E8%88%87%E4%B8%96%E4%BF%97%E6%8A%95%E7%A5%A8%E6%95%99%E5%AE%97",
     "timestamp": "2026-10-30T21:12:25.353Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Binance幣安被駭遭捲494億　公司稱將承擔一切損失　FBI介入調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193041398425718784672580.jpeg/LNYpXSHQ0p0_G91e_gBPWq6M3lmGx-fFJ4YM_CeGDPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405525/binance%E5%B9%A3%E5%AE%89%E8%A2%AB%E9%A7%AD%E9%81%AD%E6%8D%B2494%E5%84%84-%E5%85%AC%E5%8F%B8%E7%A8%B1%E5%B0%87%E6%89%BF%E6%93%94%E4%B8%80%E5%88%87%E6%90%8D%E5%A4%B1-fbi%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-10-30T20:53:25.500Z",
     "strategy": ".content-card__main"
   }
 ];
