@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T13:13:20.924Z
+// Last updated: 2026-10-31T13:23:55.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩結果｜今期10.31頭獎8000萬即時攪珠｜中獎號碼+派彩獎金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405720/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F10-31%E9%A0%AD%E7%8D%8E8000%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
+    "timestamp": "2026-10-31T13:23:55.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "製氧機老化！阿伯為省錢拒換　兒子驚揭輸出「安慰氧」無醫療價值",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193171732576342016195403.jpeg/3uLseONWg2A3bdBVmI8MPqwanLLPHGuWCrWwhQq1sIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405576/%E6%9D%9C%E5%A6%82%E9%A2%A8%E5%9B%A0-%E4%B8%96%E7%95%8C%E7%B4%9A%E6%B8%AF%E5%A5%B3-%E6%A8%99%E7%B1%A4%E5%96%AE%E8%BA%AB12%E5%B9%B4-%E6%93%87%E5%81%B6%E6%A8%99%E6%BA%96%E6%AD%B8%E9%9B%B6-%E6%9C%80%E7%B7%8A%E8%A6%81%E5%B0%88%E4%B8%80",
     "timestamp": "2026-10-31T05:39:15.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公屋首次審查！男子「冇去」遭取消資格急求助　附房署條例+熱線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193031029883932672106587.png/p-a5pnQuj58WzVUbzCOL27bNdBcyBXfulW40UZVuNFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404625/%E5%85%AC%E5%B1%8B%E9%A6%96%E6%AC%A1%E5%AF%A9%E6%9F%A5-%E7%94%B7%E5%AD%90-%E5%86%87%E5%8E%BB-%E9%81%AD%E5%8F%96%E6%B6%88%E8%B3%87%E6%A0%BC%E6%80%A5%E6%B1%82%E5%8A%A9-%E9%99%84%E6%88%BF%E7%BD%B2%E6%A2%9D%E4%BE%8B-%E7%86%B1%E7%B7%9A",
-    "timestamp": "2026-10-31T05:19:38.768Z",
     "strategy": ".content-card__main"
   }
 ];
