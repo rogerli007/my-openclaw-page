@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T15:12:47.463Z
+// Last updated: 2026-10-31T15:23:36.453Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "你的保安李寶安｜收視暴跌急變陣　導演何爵天鞠躬道歉嘆預算緊張",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193312359897108480263017.jpeg/S-MVNFxzsNZGhPvoFPHxOJZQDQzCXDInJ1T30idU99I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405709/%E4%BD%A0%E7%9A%84%E4%BF%9D%E5%AE%89%E6%9D%8E%E5%AF%B6%E5%AE%89-%E6%94%B6%E8%A6%96%E6%9A%B4%E8%B7%8C%E6%80%A5%E8%AE%8A%E9%99%A3-%E5%B0%8E%E6%BC%94%E4%BD%95%E7%88%B5%E5%A4%A9%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%E5%98%86%E9%A0%90%E7%AE%97%E7%B7%8A%E5%BC%B5",
+    "timestamp": "2026-10-31T15:23:36.453Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節｜美酒佳餚巡禮人流旺　安記海味打蛇餅　料生意按年增一成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190711915827957760932175.png/Giew2rbBgL7MxF6br7pMBuZaeox495fmsdbPprHWz6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405587/%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B0%E6%9B%A6%E8%96%87%E9%96%86%E6%A1%89%E7%B5%82%E5%9C%93%E6%88%BF-%E5%BE%9E%E6%9B%BF%E5%AB%81%E6%B2%96%E5%96%9C%E5%88%B0%E4%BA%8C%E6%AC%A1%E5%A4%A7%E5%A9%9A%E8%99%90%E6%88%80%E6%88%90%E7%9C%9F",
     "timestamp": "2026-10-31T07:53:59.067Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "70歲老婦掏老本幫孫女交學費　半年後卻只剩心寒嘆：錢填不滿空虛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191804663930818560089326.png/eumZJW0Zcb1VVrGHrbydPDLRj5A6eKU_D4XAaQ-FwGk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404167/70%E6%AD%B2%E8%80%81%E5%A9%A6%E6%8E%8F%E8%80%81%E6%9C%AC%E5%B9%AB%E5%AD%AB%E5%A5%B3%E4%BA%A4%E5%AD%B8%E8%B2%BB-%E5%8D%8A%E5%B9%B4%E5%BE%8C%E5%8D%BB%E5%8F%AA%E5%89%A9%E5%BF%83%E5%AF%92%E5%98%86-%E9%8C%A2%E5%A1%AB%E4%B8%8D%E6%BB%BF%E7%A9%BA%E8%99%9B",
-    "timestamp": "2026-10-31T07:39:37.498Z",
     "strategy": ".content-card__main"
   }
 ];
