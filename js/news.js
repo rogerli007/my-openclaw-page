@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T07:13:53.263Z
+// Last updated: 2026-10-31T07:39:37.498Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "70歲老婦掏老本幫孫女交學費　半年後卻只剩心寒嘆：錢填不滿空虛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191804663930818560089326.png/eumZJW0Zcb1VVrGHrbydPDLRj5A6eKU_D4XAaQ-FwGk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404167/70%E6%AD%B2%E8%80%81%E5%A9%A6%E6%8E%8F%E8%80%81%E6%9C%AC%E5%B9%AB%E5%AD%AB%E5%A5%B3%E4%BA%A4%E5%AD%B8%E8%B2%BB-%E5%8D%8A%E5%B9%B4%E5%BE%8C%E5%8D%BB%E5%8F%AA%E5%89%A9%E5%BF%83%E5%AF%92%E5%98%86-%E9%8C%A2%E5%A1%AB%E4%B8%8D%E6%BB%BF%E7%A9%BA%E8%99%9B",
+    "timestamp": "2026-10-31T07:39:37.498Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "惠州美食6大推介：客家窯雞/橫瀝湯粉/薑汁湯圓　西湖邊歎早茶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193123337925038080754219.png/xGRdzTEtSvFHXLfA7QfHrhcxrlx8Z_SCrufm5a7n5uU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405542/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E7%87%9F%E5%9C%B030%E6%AD%B2%E7%94%B7%E5%AD%90%E5%B8%B3%E5%B9%95%E5%85%A7%E7%87%92%E7%82%AD-%E7%B6%B2%E6%B0%91%E5%A0%B1%E8%AD%A6%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD",
     "timestamp": "2026-10-31T01:26:46.339Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全面封殺麥巴比：中國的反應過度嗎？真的該道過歉就算了嗎？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192948458198142976701395.jpeg/WqyoIs4dFybuPpuuvTySbnH6XnaxdKbrK06Z0itOmdI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60405484/%E5%85%A8%E9%9D%A2%E5%B0%81%E6%AE%BA%E9%BA%A5%E5%B7%B4%E6%AF%94-%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%8F%8D%E6%87%89%E9%81%8E%E5%BA%A6%E5%97%8E-%E7%9C%9F%E7%9A%84%E8%A9%B2%E9%81%93%E9%81%8E%E6%AD%89%E5%B0%B1%E7%AE%97%E4%BA%86%E5%97%8E",
-    "timestamp": "2026-10-31T01:15:28.639Z",
     "strategy": ".content-card__main"
   }
 ];
