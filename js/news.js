@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T06:54:36.033Z
+// Last updated: 2026-10-31T07:13:53.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "惠州美食6大推介：客家窯雞/橫瀝湯粉/薑汁湯圓　西湖邊歎早茶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192799111754027008324157.png/0WQQR09d95LDMIDTvA50LBiVIYT_JJX-JzRJQSc0SUE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60404600/%E6%83%A0%E5%B7%9E%E7%BE%8E%E9%A3%9F6%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%AE%A2%E5%AE%B6%E7%AA%AF%E9%9B%9E-%E6%A9%AB%E7%80%9D%E6%B9%AF%E7%B2%89-%E8%96%91%E6%B1%81%E6%B9%AF%E5%9C%93-%E8%A5%BF%E6%B9%96%E9%82%8A%E6%AD%8E%E6%97%A9%E8%8C%B6",
+    "timestamp": "2026-10-31T07:13:53.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘋果官宣：Apple智能接入阿里千問　11月4日開放測試",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192948458198142976701395.jpeg/WqyoIs4dFybuPpuuvTySbnH6XnaxdKbrK06Z0itOmdI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60405484/%E5%85%A8%E9%9D%A2%E5%B0%81%E6%AE%BA%E9%BA%A5%E5%B7%B4%E6%AF%94-%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%8F%8D%E6%87%89%E9%81%8E%E5%BA%A6%E5%97%8E-%E7%9C%9F%E7%9A%84%E8%A9%B2%E9%81%93%E9%81%8E%E6%AD%89%E5%B0%B1%E7%AE%97%E4%BA%86%E5%97%8E",
     "timestamp": "2026-10-31T01:15:28.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI泡沫論｜亞馬遜設立硬件擔保融資安排　最高800億美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106192339199594496934560.jpeg/EVyqDACFb3BoJXvmXzlnSkHPPkYPndCeqae9i6mnvYs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405545/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%A8%AD%E7%AB%8B%E7%A1%AC%E4%BB%B6%E6%93%94%E4%BF%9D%E8%9E%8D%E8%B3%87%E5%AE%89%E6%8E%92-%E6%9C%80%E9%AB%98800%E5%84%84%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-10-31T00:55:49.069Z",
     "strategy": ".content-card__main"
   }
 ];
