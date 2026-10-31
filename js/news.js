@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T06:20:05.753Z
+// Last updated: 2026-10-31T06:48:06.763Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2030年前將實現中國人登陸月球：任務由3人組成，2人着陸月球表面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231222/814846216188727296643709.jpeg/rFs6OIzTGHCXDyxpu_mssNLm8skrcHwd7ksxF-5LMRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405607/2030%E5%B9%B4%E5%89%8D%E5%B0%87%E5%AF%A6%E7%8F%BE%E4%B8%AD%E5%9C%8B%E4%BA%BA%E7%99%BB%E9%99%B8%E6%9C%88%E7%90%83-%E4%BB%BB%E5%8B%99%E7%94%B13%E4%BA%BA%E7%B5%84%E6%88%90-2%E4%BA%BA%E7%9D%80%E9%99%B8%E6%9C%88%E7%90%83%E8%A1%A8%E9%9D%A2",
+    "timestamp": "2026-10-31T06:48:06.763Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "存¥2500變¥2.5萬！銀行多按「0」存戶拒還：離櫃不負責　判決惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192494758174396416807396.png/7O0tVyYcbAln-mlPijfGZR8ngWrPav3plEaniJRGp4g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60404694/%E4%B8%88%E5%A4%AB%E6%82%A3%E7%84%A1%E7%B2%BE%E7%97%87%E5%A6%BB%E7%AB%9F%E6%87%B7%E5%AD%95-%E9%9F%93%E5%A5%B3%E7%8D%B8%E9%86%AB%E7%82%BA%E5%88%86%E5%AE%B6%E7%94%A2%E5%87%BA%E8%BB%8C-%E7%B2%BE%E9%81%B8%E5%A4%9A%E7%94%B7%E5%80%9F%E7%A8%AE%E7%94%9F%E5%AD%90",
     "timestamp": "2026-10-31T00:30:40.155Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國女死囚打毒針後生還　稱甦醒後無時無刻都在痛　靈魂備受煎熬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405539/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E6%AD%BB%E5%9B%9A%E6%89%93%E6%AF%92%E9%87%9D%E5%BE%8C%E7%94%9F%E9%82%84-%E7%A8%B1%E7%94%A6%E9%86%92%E5%BE%8C%E7%84%A1%E6%99%82%E7%84%A1%E5%88%BB%E9%83%BD%E5%9C%A8%E7%97%9B-%E9%9D%88%E9%AD%82%E5%82%99%E5%8F%97%E7%85%8E%E7%86%AC",
-    "timestamp": "2026-10-30T23:39:23.372Z",
     "strategy": ".content-card__main"
   }
 ];
