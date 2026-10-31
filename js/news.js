@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T14:23:36.241Z
+// Last updated: 2026-10-31T15:12:47.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節｜美酒佳餚巡禮人流旺　安記海味打蛇餅　料生意按年增一成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193337811135107072067945.jpeg/IjsDfuP1lbxCewApPbBOzYZocEyBMxFlxqcDM-CnAzM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405736/%E8%90%AC%E8%81%96%E7%AF%80-%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%B7%A1%E7%A6%AE%E4%BA%BA%E6%B5%81%E6%97%BA-%E5%AE%89%E8%A8%98%E6%B5%B7%E5%91%B3%E6%89%93%E8%9B%87%E9%A4%85-%E6%96%99%E7%94%9F%E6%84%8F%E6%8C%89%E5%B9%B4%E5%A2%9E%E4%B8%80%E6%88%90",
+    "timestamp": "2026-10-31T15:12:47.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國加州萬聖節商店爆槍擊案1死6傷　警方追捕疑犯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191804663930818560089326.png/eumZJW0Zcb1VVrGHrbydPDLRj5A6eKU_D4XAaQ-FwGk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404167/70%E6%AD%B2%E8%80%81%E5%A9%A6%E6%8E%8F%E8%80%81%E6%9C%AC%E5%B9%AB%E5%AD%AB%E5%A5%B3%E4%BA%A4%E5%AD%B8%E8%B2%BB-%E5%8D%8A%E5%B9%B4%E5%BE%8C%E5%8D%BB%E5%8F%AA%E5%89%A9%E5%BF%83%E5%AF%92%E5%98%86-%E9%8C%A2%E5%A1%AB%E4%B8%8D%E6%BB%BF%E7%A9%BA%E8%99%9B",
     "timestamp": "2026-10-31T07:39:37.498Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "惠州美食6大推介：客家窯雞/橫瀝湯粉/薑汁湯圓　西湖邊歎早茶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192799111754027008324157.png/0WQQR09d95LDMIDTvA50LBiVIYT_JJX-JzRJQSc0SUE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60404600/%E6%83%A0%E5%B7%9E%E7%BE%8E%E9%A3%9F6%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%AE%A2%E5%AE%B6%E7%AA%AF%E9%9B%9E-%E6%A9%AB%E7%80%9D%E6%B9%AF%E7%B2%89-%E8%96%91%E6%B1%81%E6%B9%AF%E5%9C%93-%E8%A5%BF%E6%B9%96%E9%82%8A%E6%AD%8E%E6%97%A9%E8%8C%B6",
-    "timestamp": "2026-10-31T07:13:53.263Z",
     "strategy": ".content-card__main"
   }
 ];
