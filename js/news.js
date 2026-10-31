@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T10:39:09.920Z
+// Last updated: 2026-10-31T10:53:49.839Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜蔣家旻黑化落毒殺夫爆樽扑蔡一智　陳瀅被張智霖扯頭髮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259461771268096624398.jpeg/EQw5CVIQTUHnp7KeS-GQGBlHAQupvQA2ONDhSjjQ4Uo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405663/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E8%94%A3%E5%AE%B6%E6%97%BB%E9%BB%91%E5%8C%96%E8%90%BD%E6%AF%92%E6%AE%BA%E5%A4%AB%E7%88%86%E6%A8%BD%E6%89%91%E8%94%A1%E4%B8%80%E6%99%BA-%E9%99%B3%E7%80%85%E8%A2%AB%E5%BC%B5%E6%99%BA%E9%9C%96%E6%89%AF%E9%A0%AD%E9%AB%AE",
+    "timestamp": "2026-10-31T10:53:49.839Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱敏瀚為TVB台慶綵排發生意外　木架倒塌人從兩米高墮地場面驚險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053323780371255296685012.jpeg/yV6E-YNYHbVl3HhVLYYDQa6rD1S-22iRaxMhUWsTIVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60284098/%E6%B8%9B%E8%82%A5-%E8%84%82%E8%82%AA%E6%9C%80%E6%80%95%E9%A3%9F%E7%89%A9%E6%9B%9D%E5%85%89-%E5%90%83%E5%B0%8D5%E7%A8%AE%E9%A3%9F%E7%89%A9%E8%83%BD%E5%95%9F%E5%8B%95%E5%8A%A0%E9%80%9F%E4%BB%A3%E8%AC%9D%E6%A8%A1%E5%BC%8F%E8%BC%95%E9%AC%86%E7%98%A6",
     "timestamp": "2026-10-31T03:40:24.039Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃錦公路3電單車「串燒」相撞　3名司機送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193156509924593664836159.jpeg/oqIXAHznelQjWJkxyFy00Ukop1N81cCDYjfdNWI33TU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405563/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF3%E9%9B%BB%E5%96%AE%E8%BB%8A-%E4%B8%B2%E7%87%92-%E7%9B%B8%E6%92%9E-3%E5%90%8D%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-10-31T03:25:01.557Z",
     "strategy": ".content-card__main"
   }
 ];
