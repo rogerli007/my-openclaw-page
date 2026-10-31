@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T07:53:59.067Z
+// Last updated: 2026-10-31T08:26:09.390Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "童年最恨父母逼做什麼？近3萬人共鳴　長大才知賺到：受用一生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190367008340840448820913.jpeg/ycZJSSGkdKlXPYqX9xpHOMeZ6fOeWgJ5B5XG_AeVxvw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60403011/%E7%AB%A5%E5%B9%B4%E6%9C%80%E6%81%A8%E7%88%B6%E6%AF%8D%E9%80%BC%E5%81%9A%E4%BB%80%E9%BA%BC-%E8%BF%913%E8%90%AC%E4%BA%BA%E5%85%B1%E9%B3%B4-%E9%95%B7%E5%A4%A7%E6%89%8D%E7%9F%A5%E8%B3%BA%E5%88%B0-%E5%8F%97%E7%94%A8%E4%B8%80%E7%94%9F",
+    "timestamp": "2026-10-31T08:26:09.390Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《嫁金釵》田曦薇閆桉終圓房　從替嫁沖喜到二次大婚虐戀成真！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192742912853544960674081.jpeg/lc-9-Sdnn9a-W6Trg25FtZ8mp8QOD605LZdihi2XYoY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60405124/%E8%90%AC%E8%81%96%E7%AF%80%E9%87%91%E5%A4%9A%E5%AF%B68000%E8%90%AC%E5%91%A8%E5%85%AD%E6%94%AA%E7%8F%A0-8%E5%A4%A7%E7%86%B1%E9%96%80%E8%99%9F%E7%A2%BC-ai%E6%8E%A8%E6%B8%AC%E6%9C%80%E5%BC%B7%E8%86%BD%E6%8B%96%E7%B5%84%E5%90%88",
     "timestamp": "2026-10-31T01:53:38.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節金多寶8000萬周六攪珠！8大熱門號碼+AI推測最強膽拖組合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192742912853544960674081.jpeg/lc-9-Sdnn9a-W6Trg25FtZ8mp8QOD605LZdihi2XYoY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60405124/%E8%90%AC%E8%81%96%E7%AF%80%E9%87%91%E5%A4%9A%E5%AF%B68000%E8%90%AC%E5%91%A8%E5%85%AD%E6%94%AA%E7%8F%A0-8%E5%A4%A7%E7%86%B1%E9%96%80%E8%99%9F%E7%A2%BC-ai%E6%8E%A8%E6%B8%AC%E6%9C%80%E5%BC%B7%E8%86%BD%E6%8B%96%E7%B5%84%E5%90%88",
-    "timestamp": "2026-10-31T01:42:37.968Z",
     "strategy": ".content-card__main"
   }
 ];
