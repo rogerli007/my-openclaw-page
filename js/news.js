@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T08:53:30.081Z
+// Last updated: 2026-10-31T09:53:42.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國錸金鎳鋯等戰略性礦產保有資源量大增　新疆首現大型鋯礦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193239835205177344623715.jpeg/aLNAjxAGD-nu0kwdn54oSfe8MbK8rvLiWwU4DFsFOAw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405633/%E4%B8%AD%E5%9C%8B%E9%8C%B8%E9%87%91%E9%8E%B3%E9%8B%AF%E7%AD%89%E6%88%B0%E7%95%A5%E6%80%A7%E7%A4%A6%E7%94%A2%E4%BF%9D%E6%9C%89%E8%B3%87%E6%BA%90%E9%87%8F%E5%A4%A7%E5%A2%9E-%E6%96%B0%E7%96%86%E9%A6%96%E7%8F%BE%E5%A4%A7%E5%9E%8B%E9%8B%AF%E7%A4%A6",
+    "timestamp": "2026-10-31T09:53:42.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "體壇札記｜曼聯亂局無限輪迴　堪比明朝從萬曆到崇禎步向滅亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193089277240545280514926.jpeg/ZAhdg-i8UiPPPPnyg9UDxvbPX6PX6goV44x9MtmMfTI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405536/%E8%A8%B1%E8%BB%BC%E9%A6%96%E6%BC%94%E8%87%AA%E7%88%86%E7%B7%8A%E5%BC%B5%E5%88%B0%E5%AF%A2%E9%A3%9F%E9%9B%A3%E5%AE%89-%E9%BA%A5%E6%B2%9B%E6%9D%B1%E7%8B%A0%E8%B8%A2%E7%88%86-%E4%B8%80break%E4%BD%A2%E5%B0%B1%E9%A3%9F%E7%B7%8A%E5%98%A2",
     "timestamp": "2026-10-31T02:55:41.594Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜陳茂波稱樓宇維修局服務須收回成本　資助比例不宜一刀切",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523302292557824468509.jpeg/aqW8gWSiFs5adnJUcmE7wbYWIqUCazDcT0XiXk9F4l4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405553/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E8%8C%82%E6%B3%A2%E7%A8%B1%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E5%B1%80%E6%9C%8D%E5%8B%99%E9%A0%88%E6%94%B6%E5%9B%9E%E6%88%90%E6%9C%AC-%E8%B3%87%E5%8A%A9%E6%AF%94%E4%BE%8B%E4%B8%8D%E5%AE%9C%E4%B8%80%E5%88%80%E5%88%87",
-    "timestamp": "2026-10-31T02:39:44.334Z",
     "strategy": ".content-card__main"
   }
 ];
