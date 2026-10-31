@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T03:40:24.039Z
+// Last updated: 2026-10-31T04:15:44.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國海事局：黃海南海部分海域11月2日至6日實彈射擊，禁止駛入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193172305723789312042936.png/ZoaTK0I8GTx_ZDsHZG1ZhEi3RIUN1PJc7k9yyu5Pcso?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405579/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E4%BA%8B%E5%B1%80-%E9%BB%83%E6%B5%B7%E5%8D%97%E6%B5%B7%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F11%E6%9C%882%E6%97%A5%E8%87%B36%E6%97%A5%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A-%E7%A6%81%E6%AD%A2%E9%A7%9B%E5%85%A5",
+    "timestamp": "2026-10-31T04:15:44.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥｜脂肪最怕食物曝光！吃對5種食物能啟動加速代謝模式輕鬆瘦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187223275265069056234815.jpeg/nohagnF3yqcWovFfftIER4sKKun0OZ31j_SGDI_0hgw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405518/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%B7%B2%E9%81%9E%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8-%E6%88%90%E9%A6%96%E4%BD%8D%E5%8F%83%E8%88%87%E4%B8%96%E4%BF%97%E6%8A%95%E7%A5%A8%E6%95%99%E5%AE%97",
     "timestamp": "2026-10-30T21:53:42.327Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜良十四世已遞郵寄選票　成首位參與世俗投票教宗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187223275265069056234815.jpeg/nohagnF3yqcWovFfftIER4sKKun0OZ31j_SGDI_0hgw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405518/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%B7%B2%E9%81%9E%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8-%E6%88%90%E9%A6%96%E4%BD%8D%E5%8F%83%E8%88%87%E4%B8%96%E4%BF%97%E6%8A%95%E7%A5%A8%E6%95%99%E5%AE%97",
-    "timestamp": "2026-10-30T21:41:17.444Z",
     "strategy": ".content-card__main"
   }
 ];
