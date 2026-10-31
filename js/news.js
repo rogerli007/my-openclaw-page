@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T05:39:15.944Z
+// Last updated: 2026-10-31T06:20:05.753Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "存¥2500變¥2.5萬！銀行多按「0」存戶拒還：離櫃不負責　判決惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193169807227228160629758.png/OzyEjRT7swjJXU_TAhCWo_0VlQXBXFXQQOQuNkDkLjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405144/%E5%AD%98-2500%E8%AE%8A-2-5%E8%90%AC-%E9%8A%80%E8%A1%8C%E5%A4%9A%E6%8C%89-0-%E5%AD%98%E6%88%B6%E6%8B%92%E9%82%84-%E9%9B%A2%E6%AB%83%E4%B8%8D%E8%B2%A0%E8%B2%AC-%E5%88%A4%E6%B1%BA%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-10-31T06:20:05.753Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜如風因「世界級港女」標籤單身12年　擇偶標準歸零：最緊要專一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261002/1182593332237307904170342.jpeg/x25wX8zy9_8LXbCH9fyyfn9Jni4dphGu_ISdJfyEnSU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405539/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E6%AD%BB%E5%9B%9A%E6%89%93%E6%AF%92%E9%87%9D%E5%BE%8C%E7%94%9F%E9%82%84-%E7%A8%B1%E7%94%A6%E9%86%92%E5%BE%8C%E7%84%A1%E6%99%82%E7%84%A1%E5%88%BB%E9%83%BD%E5%9C%A8%E7%97%9B-%E9%9D%88%E9%AD%82%E5%82%99%E5%8F%97%E7%85%8E%E7%86%AC",
     "timestamp": "2026-10-30T23:39:23.372Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柳暗花明又一村下句是什麼？　古詩背後的灑脫與人情味｜歷史奇趣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192872292439298048340892.png/wFUc2lrKPRqAQJpgFEvj0CItZ7g8vm3F3a1F-N2tRfg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401635/%E6%9F%B3%E6%9A%97%E8%8A%B1%E6%98%8E%E5%8F%88%E4%B8%80%E6%9D%91%E4%B8%8B%E5%8F%A5%E6%98%AF%E4%BB%80%E9%BA%BC-%E5%8F%A4%E8%A9%A9%E8%83%8C%E5%BE%8C%E7%9A%84%E7%81%91%E8%84%AB%E8%88%87%E4%BA%BA%E6%83%85%E5%91%B3-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
-    "timestamp": "2026-10-30T23:23:50.848Z",
     "strategy": ".content-card__main"
   }
 ];
