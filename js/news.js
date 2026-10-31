@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T23:23:35.370Z
+// Last updated: 2026-10-31T23:43:47.294Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜民主黨塔拉里科擅用聖經批特朗普　德州成關鍵議席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193428262559158272650917.jpeg/Lb1GyfOCaMTRF-kRO8ixd77zZpBIpHQEHvd8ER73fBE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405757/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%A1%94%E6%8B%89%E9%87%8C%E7%A7%91%E6%93%85%E7%94%A8%E8%81%96%E7%B6%93%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BE%B7%E5%B7%9E%E6%88%90%E9%97%9C%E9%8D%B5%E8%AD%B0%E5%B8%AD",
+    "timestamp": "2026-10-31T23:43:47.294Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI巨頭狂掃日本50噸舊書　掃描即切碎　罕見文獻面臨「永久蒸發」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193367214170836992125784.jpeg/ynRZmo1KUC-d04u-SJuIyTBS_vWaPV0kFdBzRjzQc0Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405743/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E9%85%92%E5%90%A7%E7%94%9F%E6%84%8F%E5%A2%9E5%E6%88%90-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E8%AE%9A%E8%90%AC%E8%81%96%E6%9C%88%E5%B8%B6%E6%97%BA-%E4%B8%8A%E5%91%A8%E8%B5%B7%E5%A2%9E%E5%8A%A0",
     "timestamp": "2026-10-31T17:27:43.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸｜旅客半夜離港需等待45分鐘　內地客︰大家都不睡覺？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193366600573521920872936.jpeg/MUP_H8Jbr2mzPUwGAMbjHZOUdorqv33AmAgVT5gIFU8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405744/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%97%85%E5%AE%A2%E5%8D%8A%E5%A4%9C%E9%9B%A2%E6%B8%AF%E9%9C%80%E7%AD%89%E5%BE%8545%E5%88%86%E9%90%98-%E5%85%A7%E5%9C%B0%E5%AE%A2-%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E7%9D%A1%E8%A6%BA",
-    "timestamp": "2026-10-31T17:12:31.230Z",
     "strategy": ".content-card__main"
   }
 ];
