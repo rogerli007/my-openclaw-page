@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T04:24:59.828Z
+// Last updated: 2026-10-31T04:39:34.481Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "保險公司「最醜黃毛球」洗腦廣告如疲勞轟炸　民眾崩潰上街示威",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193148645151608832187503.jpeg/H2pDZdcc6wgbjAw1Y3nvU5tFwInCS8fO2Oo7ENjqOxA?v=w1920",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60405556/%E7%BE%8E%E5%9C%8Bliberty-mutual%E9%BB%83%E6%AF%9B%E7%90%83%E5%90%89%E7%A5%A5%E7%89%A9liberty-biberty%E9%95%B7%E5%A4%AA%E9%86%9C%E6%83%B9%E7%88%AD%E8%AD%B0",
+    "timestamp": "2026-10-31T04:39:34.481Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "博爾索納羅兒子敗選後突赴美國　稱遭巴西國內迫害",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193081888307154944914708.jpeg/gh4dLe27avJnTc7sP9-xMuw_bPZSErWIgbN2yIGzdsg",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405534/%E8%BB%8Acam-%E5%A4%A7%E5%9F%94%E5%85%AC%E8%B7%AF%E6%B5%81%E6%B5%AA%E7%8B%97%E5%BE%98%E5%BE%8A-%E5%B7%B4%E5%A3%AB%E5%B0%87%E9%A7%9B%E8%87%B3-cam%E4%B8%BB%E9%9F%BF%E8%99%9F%E8%AD%B7%E8%88%AA%E6%95%91%E4%B8%80%E5%91%BD",
     "timestamp": "2026-10-30T22:44:19.483Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "7歲女擅自外出玩耍　遭母用衣架抽打兼從2樓推落街　官判緩刑惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192517876297240576260135.png/ok7S8B4Mum81QXqM-TEy8L67kv988LCmv7nkIL-55CA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60404720/7%E6%AD%B2%E5%A5%B3%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%E7%8E%A9%E8%80%8D-%E9%81%AD%E6%AF%8D%E7%94%A8%E8%A1%A3%E6%9E%B6%E6%8A%BD%E6%89%93%E5%85%BC%E5%BE%9E2%E6%A8%93%E6%8E%A8%E8%90%BD%E8%A1%97-%E5%AE%98%E5%88%A4%E7%B7%A9%E5%88%91%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-10-30T22:13:38.646Z",
     "strategy": ".content-card__main"
   }
 ];
