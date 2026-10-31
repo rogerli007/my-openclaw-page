@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T01:26:46.339Z
+// Last updated: 2026-10-31T01:42:37.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節金多寶8000萬周六攪珠！8大熱門號碼+AI推測最強膽拖組合",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192742912853544960674081.jpeg/lc-9-Sdnn9a-W6Trg25FtZ8mp8QOD605LZdihi2XYoY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60405124/%E8%90%AC%E8%81%96%E7%AF%80%E9%87%91%E5%A4%9A%E5%AF%B68000%E8%90%AC%E5%91%A8%E5%85%AD%E6%94%AA%E7%8F%A0-8%E5%A4%A7%E7%86%B1%E9%96%80%E8%99%9F%E7%A2%BC-ai%E6%8E%A8%E6%B8%AC%E6%9C%80%E5%BC%B7%E8%86%BD%E6%8B%96%E7%B5%84%E5%90%88",
+    "timestamp": "2026-10-31T01:42:37.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜西貢大網仔營地30歲男子帳幕內燒炭　網民報警救回一命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193037555885412352750149.jpeg/Qtb6C7JqyGeXelw_Idh5-YLDLGm404E39L_l-M6_5fg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405522/%E4%B8%8A%E6%B0%B4%E7%94%B7%E5%AD%90%E5%85%89%E9%A1%A7%E8%B6%B3%E6%B5%B4%E5%BA%97%E7%AA%81%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-30T19:40:10.555Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水男子光顧足浴店突暈倒　昏迷送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193037555885412352750149.jpeg/Qtb6C7JqyGeXelw_Idh5-YLDLGm404E39L_l-M6_5fg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405522/%E4%B8%8A%E6%B0%B4%E7%94%B7%E5%AD%90%E5%85%89%E9%A1%A7%E8%B6%B3%E6%B5%B4%E5%BA%97%E7%AA%81%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-30T19:23:52.911Z",
     "strategy": ".content-card__main"
   }
 ];
