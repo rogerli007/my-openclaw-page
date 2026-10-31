@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T21:23:36.926Z
+// Last updated: 2026-10-31T21:40:23.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "坑口公共單車泊位　9輛單車遭縱火燒毀　警追緝歹徒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193427909780443136506273.jpeg/lmr4SP1YdcO2otPoUYwPduzoecqsDJUv1zzRju080Y4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405758/%E5%9D%91%E5%8F%A3%E5%85%AC%E5%85%B1%E5%96%AE%E8%BB%8A%E6%B3%8A%E4%BD%8D-9%E8%BC%9B%E5%96%AE%E8%BB%8A%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
+    "timestamp": "2026-10-31T21:40:23.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坑口公共單車泊位　9輛單車遭縱火燒毀　警追緝歹徒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193351605584400384950876.jpeg/9ksEsT_5qZRFqmLBEhaltMOYF82kSF-FalnFDmpZxQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405739/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E9%80%BC%E7%88%86-%E5%A5%B3%E5%98%A9%E9%AC%BC%E5%91%BB%E6%94%B0%E6%8B%92%E6%8E%92%E9%95%B7%E9%BE%8D%E5%85%A5%E8%98%AD%E6%A1%82%E5%9D%8A-%E6%9C%AA%E5%BF%85%E5%8E%BB",
     "timestamp": "2026-10-31T16:18:32.819Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "72歲林建明染惡菌遲兩日恐變致命肺炎　街頭仆傷雙膝大嘆犯太歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193329343347036160315289.jpeg/2JHShx3M9xYGambfF3lrXs7WcY51s3EJVmeURVZnlEU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405731/72%E6%AD%B2%E6%9E%97%E5%BB%BA%E6%98%8E%E6%9F%93%E6%83%A1%E8%8F%8C%E9%81%B2%E5%85%A9%E6%97%A5%E6%81%90%E8%AE%8A%E8%87%B4%E5%91%BD%E8%82%BA%E7%82%8E-%E8%A1%97%E9%A0%AD%E4%BB%86%E5%82%B7%E9%9B%99%E8%86%9D%E5%A4%A7%E5%98%86%E7%8A%AF%E5%A4%AA%E6%AD%B2",
-    "timestamp": "2026-10-31T15:59:11.857Z",
     "strategy": ".content-card__main"
   }
 ];
