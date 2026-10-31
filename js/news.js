@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T11:53:45.668Z
+// Last updated: 2026-10-31T12:39:39.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九龍住宅男子疑酒後失足墮平台　壓中途經外傭　均受傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113236343221129216765138.jpeg/hSxcDK7kHHadYnflxCbTBAQS6qgS5nn6Tv8u0Gf_LtA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405710/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E4%BD%8F%E5%AE%85%E7%94%B7%E5%AD%90%E7%96%91%E9%85%92%E5%BE%8C%E5%A4%B1%E8%B6%B3%E5%A2%AE%E5%B9%B3%E5%8F%B0-%E5%A3%93%E4%B8%AD%E9%80%94%E7%B6%93%E5%A4%96%E5%82%AD-%E5%9D%87%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-10-31T12:39:39.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "杜如風變「紙片人」惹關注　全靠跑步加一日一餐︰想告別12年單身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193148645151608832187503.jpeg/H2pDZdcc6wgbjAw1Y3nvU5tFwInCS8fO2Oo7ENjqOxA?v=w1920",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60405556/%E7%BE%8E%E5%9C%8Bliberty-mutual%E9%BB%83%E6%AF%9B%E7%90%83%E5%90%89%E7%A5%A5%E7%89%A9liberty-biberty%E9%95%B7%E5%A4%AA%E9%86%9C%E6%83%B9%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-10-31T04:39:34.481Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "博爾索納羅兒子敗選後突赴美國　稱遭巴西國內迫害",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191590473173569536023746.jpeg/FBnlQQoXQ7FcjveVLFb9b-uX6XaKaVUDPFqvqDxar6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405575/%E5%8D%9A%E7%88%BE%E7%B4%A2%E7%B4%8D%E7%BE%85%E5%85%92%E5%AD%90%E6%95%97%E9%81%B8%E5%BE%8C%E7%AA%81%E8%B5%B4%E7%BE%8E%E5%9C%8B-%E7%A8%B1%E9%81%AD%E5%B7%B4%E8%A5%BF%E5%9C%8B%E5%85%A7%E8%BF%AB%E5%AE%B3",
-    "timestamp": "2026-10-31T04:24:59.828Z",
     "strategy": ".content-card__main"
   }
 ];
