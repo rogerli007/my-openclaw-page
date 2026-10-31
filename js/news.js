@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T10:19:33.466Z
+// Last updated: 2026-10-31T10:39:09.920Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱敏瀚為TVB台慶綵排發生意外　木架倒塌人從兩米高墮地場面驚險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193264461503270912417369.jpeg/CXmHJkVYffHoUd5FZGH7nvdg49C_nJvTjGahC4xmoQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405672/%E6%9C%B1%E6%95%8F%E7%80%9A%E7%82%BAtvb%E5%8F%B0%E6%85%B6%E7%B6%B5%E6%8E%92%E7%99%BC%E7%94%9F%E6%84%8F%E5%A4%96-%E6%9C%A8%E6%9E%B6%E5%80%92%E5%A1%8C%E4%BA%BA%E5%BE%9E%E5%85%A9%E7%B1%B3%E9%AB%98%E5%A2%AE%E5%9C%B0%E5%A0%B4%E9%9D%A2%E9%A9%9A%E9%9A%AA",
+    "timestamp": "2026-10-31T10:39:09.920Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱敏瀚為TVB台慶綵排發生意外　木架倒塌人從兩米高墮地場面驚險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193156509924593664836159.jpeg/oqIXAHznelQjWJkxyFy00Ukop1N81cCDYjfdNWI33TU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405563/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF3%E9%9B%BB%E5%96%AE%E8%BB%8A-%E4%B8%B2%E7%87%92-%E7%9B%B8%E6%92%9E-3%E5%90%8D%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-10-31T03:25:01.557Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "等18年終獲批移美！女生難捨男友　最終決定取綠卡：唔想老咗後悔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192848405966098432625371.png/JPtA6L5NpltcCk8VZC1C8jWtBXEgPvk6sXIN1bFyDdU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405045/%E7%AD%8918%E5%B9%B4%E7%B5%82%E7%8D%B2%E6%89%B9%E7%A7%BB%E7%BE%8E-%E5%A5%B3%E7%94%9F%E9%9B%A3%E6%8D%A8%E7%94%B7%E5%8F%8B-%E6%9C%80%E7%B5%82%E6%B1%BA%E5%AE%9A%E5%8F%96%E7%B6%A0%E5%8D%A1-%E5%94%94%E6%83%B3%E8%80%81%E5%92%97%E5%BE%8C%E6%82%94",
-    "timestamp": "2026-10-31T03:15:39.286Z",
     "strategy": ".content-card__main"
   }
 ];
