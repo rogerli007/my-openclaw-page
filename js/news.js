@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T09:53:42.466Z
+// Last updated: 2026-10-31T10:19:33.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱敏瀚為TVB台慶綵排發生意外　木架倒塌人從兩米高墮地場面驚險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193264461503270912417369.jpeg/CXmHJkVYffHoUd5FZGH7nvdg49C_nJvTjGahC4xmoQs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405672/%E6%9C%B1%E6%95%8F%E7%80%9A%E7%82%BAtvb%E5%8F%B0%E6%85%B6%E7%B6%B5%E6%8E%92%E7%99%BC%E7%94%9F%E6%84%8F%E5%A4%96-%E6%9C%A8%E6%9E%B6%E5%80%92%E5%A1%8C%E4%BA%BA%E5%BE%9E%E5%85%A9%E7%B1%B3%E9%AB%98%E5%A2%AE%E5%9C%B0%E5%A0%B4%E9%9D%A2%E9%A9%9A%E9%9A%AA",
+    "timestamp": "2026-10-31T10:19:33.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國錸金鎳鋯等戰略性礦產保有資源量大增　新疆首現大型鋯礦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192848405966098432625371.png/JPtA6L5NpltcCk8VZC1C8jWtBXEgPvk6sXIN1bFyDdU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405045/%E7%AD%8918%E5%B9%B4%E7%B5%82%E7%8D%B2%E6%89%B9%E7%A7%BB%E7%BE%8E-%E5%A5%B3%E7%94%9F%E9%9B%A3%E6%8D%A8%E7%94%B7%E5%8F%8B-%E6%9C%80%E7%B5%82%E6%B1%BA%E5%AE%9A%E5%8F%96%E7%B6%A0%E5%8D%A1-%E5%94%94%E6%83%B3%E8%80%81%E5%92%97%E5%BE%8C%E6%82%94",
     "timestamp": "2026-10-31T03:15:39.286Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許軼首演自爆緊張到寢食難安　麥沛東狠踢爆：一Break佢就食緊嘢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193089277240545280514926.jpeg/ZAhdg-i8UiPPPPnyg9UDxvbPX6PX6goV44x9MtmMfTI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405536/%E8%A8%B1%E8%BB%BC%E9%A6%96%E6%BC%94%E8%87%AA%E7%88%86%E7%B7%8A%E5%BC%B5%E5%88%B0%E5%AF%A2%E9%A3%9F%E9%9B%A3%E5%AE%89-%E9%BA%A5%E6%B2%9B%E6%9D%B1%E7%8B%A0%E8%B8%A2%E7%88%86-%E4%B8%80break%E4%BD%A2%E5%B0%B1%E9%A3%9F%E7%B7%8A%E5%98%A2",
-    "timestamp": "2026-10-31T02:55:41.594Z",
     "strategy": ".content-card__main"
   }
 ];
