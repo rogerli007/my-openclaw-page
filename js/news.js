@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T22:23:50.480Z
+// Last updated: 2026-10-31T22:39:19.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日初時一兩陣微雨　最高氣溫28度　今個星期連續多日有雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193445349511925760270649.jpeg/cZ0Bq9r8qkkebfRhTA35ZISu-aXePnTDdDeask43mrI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60405750/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB28%E5%BA%A6-%E4%BB%8A%E5%80%8B%E6%98%9F%E6%9C%9F%E9%80%A3%E7%BA%8C%E5%A4%9A%E6%97%A5%E6%9C%89%E9%9B%A8",
+    "timestamp": "2026-10-31T22:39:19.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日初時一兩陣微雨　最高氣溫28度　今個星期連續多日有雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193353182642704384671054.jpeg/vCGv3QpclDtiQWxGahTYNnMJmjojW8kJbg2Ej24NhI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405740/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-5100%E8%90%AC%E4%BA%BA%E5%B7%B2%E6%8F%90%E5%89%8D%E6%8A%95%E7%A5%A8-%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%81%B8%E6%B0%91%E8%BC%83%E5%85%B1%E5%92%8C%E9%BB%A8%E8%B8%B4%E8%BA%8D",
     "timestamp": "2026-10-31T16:53:36.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜5100萬人已提前投票　民主黨選民較共和黨踴躍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193353182642704384671054.jpeg/vCGv3QpclDtiQWxGahTYNnMJmjojW8kJbg2Ej24NhI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405740/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-5100%E8%90%AC%E4%BA%BA%E5%B7%B2%E6%8F%90%E5%89%8D%E6%8A%95%E7%A5%A8-%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%81%B8%E6%B0%91%E8%BC%83%E5%85%B1%E5%92%8C%E9%BB%A8%E8%B8%B4%E8%BA%8D",
-    "timestamp": "2026-10-31T16:40:23.790Z",
     "strategy": ".content-card__main"
   }
 ];
