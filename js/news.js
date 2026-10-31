@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-30T23:39:23.372Z
+// Last updated: 2026-10-31T00:30:40.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丈夫患無精症妻竟懷孕！韓女獸醫為分家產出軌　精選多男借種生子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192494758174396416807396.png/7O0tVyYcbAln-mlPijfGZR8ngWrPav3plEaniJRGp4g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60404694/%E4%B8%88%E5%A4%AB%E6%82%A3%E7%84%A1%E7%B2%BE%E7%97%87%E5%A6%BB%E7%AB%9F%E6%87%B7%E5%AD%95-%E9%9F%93%E5%A5%B3%E7%8D%B8%E9%86%AB%E7%82%BA%E5%88%86%E5%AE%B6%E7%94%A2%E5%87%BA%E8%BB%8C-%E7%B2%BE%E9%81%B8%E5%A4%9A%E7%94%B7%E5%80%9F%E7%A8%AE%E7%94%9F%E5%AD%90",
+    "timestamp": "2026-10-31T00:30:40.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國女死囚打毒針後生還　稱甦醒後無時無刻都在痛　靈魂備受煎熬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193002246015553536176430.jpeg/suX3Sb0WTYNCBnYeAy-Ita3ZDnLWSazlfGce7EZnHuw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405512/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%AB%E5%A6%BB%E7%96%91%E9%9B%A2%E5%A9%9A%E7%88%AD%E5%9F%B7-38%E6%AD%B2%E5%A6%BB-%E9%A3%9B%E6%A8%BD-%E8%A2%AB%E6%8D%95-45%E6%AD%B2%E5%A4%AB%E9%A1%8D%E9%A0%AD%E8%A2%AB%E6%93%8A%E5%82%B7",
     "timestamp": "2026-10-30T17:24:29.628Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地夫妻疑離婚爭執　38歲妻「飛樽」被捕　45歲夫額頭被擊傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193002246015553536176430.jpeg/suX3Sb0WTYNCBnYeAy-Ita3ZDnLWSazlfGce7EZnHuw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405512/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%AB%E5%A6%BB%E7%96%91%E9%9B%A2%E5%A9%9A%E7%88%AD%E5%9F%B7-38%E6%AD%B2%E5%A6%BB-%E9%A3%9B%E6%A8%BD-%E8%A2%AB%E6%8D%95-45%E6%AD%B2%E5%A4%AB%E9%A1%8D%E9%A0%AD%E8%A2%AB%E6%93%8A%E5%82%B7",
-    "timestamp": "2026-10-30T17:14:35.950Z",
     "strategy": ".content-card__main"
   }
 ];
