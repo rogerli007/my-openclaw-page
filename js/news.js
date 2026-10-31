@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T13:39:21.328Z
+// Last updated: 2026-10-31T13:56:48.560Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾比特告別標誌爆炸頭換清爽短髮　網民笑指撞樣鍾雪瑩：個頭想點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193308910048514048467809.jpeg/dGTSHMt1cBQvU9-LQHUa2yvai1fn48Gs0jaSI9I2kiM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405712/%E6%9B%BE%E6%AF%94%E7%89%B9%E5%91%8A%E5%88%A5%E6%A8%99%E8%AA%8C%E7%88%86%E7%82%B8%E9%A0%AD%E6%8F%9B%E6%B8%85%E7%88%BD%E7%9F%AD%E9%AB%AE-%E7%B6%B2%E6%B0%91%E7%AC%91%E6%8C%87%E6%92%9E%E6%A8%A3%E9%8D%BE%E9%9B%AA%E7%91%A9-%E5%80%8B%E9%A0%AD%E6%83%B3%E9%BB%9E",
+    "timestamp": "2026-10-31T13:56:48.560Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何沛珈自爆恐男玩交友App被嚇退　阮嘉敏忍受前度裝定位竟遭偷食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231222/814846216188727296643709.jpeg/rFs6OIzTGHCXDyxpu_mssNLm8skrcHwd7ksxF-5LMRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405607/2030%E5%B9%B4%E5%89%8D%E5%B0%87%E5%AF%A6%E7%8F%BE%E4%B8%AD%E5%9C%8B%E4%BA%BA%E7%99%BB%E9%99%B8%E6%9C%88%E7%90%83-%E4%BB%BB%E5%8B%99%E7%94%B13%E4%BA%BA%E7%B5%84%E6%88%90-2%E4%BA%BA%E7%9D%80%E9%99%B8%E6%9C%88%E7%90%83%E8%A1%A8%E9%9D%A2",
     "timestamp": "2026-10-31T06:48:06.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "存¥2500變¥2.5萬！銀行多按「0」存戶拒還：離櫃不負責　判決惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193169807227228160629758.png/OzyEjRT7swjJXU_TAhCWo_0VlQXBXFXQQOQuNkDkLjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405144/%E5%AD%98-2500%E8%AE%8A-2-5%E8%90%AC-%E9%8A%80%E8%A1%8C%E5%A4%9A%E6%8C%89-0-%E5%AD%98%E6%88%B6%E6%8B%92%E9%82%84-%E9%9B%A2%E6%AB%83%E4%B8%8D%E8%B2%A0%E8%B2%AC-%E5%88%A4%E6%B1%BA%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-10-31T06:20:05.753Z",
     "strategy": ".content-card__main"
   }
 ];
