@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T08:44:59.716Z
+// Last updated: 2026-10-31T08:53:30.081Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "體壇札記｜曼聯亂局無限輪迴　堪比明朝從萬曆到崇禎步向滅亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193241417288257536521807.jpeg/vgOLWCpiW260h7wn0jpyFP-N4WAqFqxM0HMqXtBzKl4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405578/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-%E6%9B%BC%E8%81%AF%E4%BA%82%E5%B1%80%E7%84%A1%E9%99%90%E8%BC%AA%E8%BF%B4-%E5%A0%AA%E6%AF%94%E6%98%8E%E6%9C%9D%E5%BE%9E%E8%90%AC%E6%9B%86%E5%88%B0%E5%B4%87%E7%A6%8E%E6%AD%A5%E5%90%91%E6%BB%85%E4%BA%A1",
+    "timestamp": "2026-10-31T08:53:30.081Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節｜天文台料今晚「回雲夜」雲量逐漸增多　下周六立冬暖笠笠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523302292557824468509.jpeg/aqW8gWSiFs5adnJUcmE7wbYWIqUCazDcT0XiXk9F4l4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405553/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E8%8C%82%E6%B3%A2%E7%A8%B1%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E5%B1%80%E6%9C%8D%E5%8B%99%E9%A0%88%E6%94%B6%E5%9B%9E%E6%88%90%E6%9C%AC-%E8%B3%87%E5%8A%A9%E6%AF%94%E4%BE%8B%E4%B8%8D%E5%AE%9C%E4%B8%80%E5%88%80%E5%88%87",
     "timestamp": "2026-10-31T02:39:44.334Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜陳茂波稱樓宇維修局服務須收回成本　資助比例不宜一刀切",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523302292557824468509.jpeg/aqW8gWSiFs5adnJUcmE7wbYWIqUCazDcT0XiXk9F4l4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405553/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E8%8C%82%E6%B3%A2%E7%A8%B1%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E5%B1%80%E6%9C%8D%E5%8B%99%E9%A0%88%E6%94%B6%E5%9B%9E%E6%88%90%E6%9C%AC-%E8%B3%87%E5%8A%A9%E6%AF%94%E4%BE%8B%E4%B8%8D%E5%AE%9C%E4%B8%80%E5%88%80%E5%88%87",
-    "timestamp": "2026-10-31T02:33:56.119Z",
     "strategy": ".content-card__main"
   }
 ];
