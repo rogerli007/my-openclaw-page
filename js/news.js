@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T17:39:14.111Z
+// Last updated: 2026-10-31T18:15:35.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧回憶南京童年：沒用過馬桶的舊時代體驗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193239241740521472019673.jpeg/cM9FnKKfhIyyNdQ5DC6FwHn7laJrkAekzu4XH87uFx8",
+    "url": "https://www.hk01.com/01TV/60405630/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%9B%9E%E6%86%B6%E5%8D%97%E4%BA%AC%E7%AB%A5%E5%B9%B4-%E6%B2%92%E7%94%A8%E9%81%8E%E9%A6%AC%E6%A1%B6%E7%9A%84%E8%88%8A%E6%99%82%E4%BB%A3%E9%AB%94%E9%A9%97",
+    "timestamp": "2026-10-31T18:15:35.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "駐日美軍沖繩違宵禁令酒後駕駛被捕　體內酒精含量超標2倍以上",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193274884029943808390476.jpeg/_J1RR9B_4XeyP_Z4keqtvhlYuNGgoCQ9K0yAnytMgJ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405668/%E6%9D%9C%E5%A6%82%E9%A2%A8%E8%AE%8A-%E7%B4%99%E7%89%87%E4%BA%BA-%E6%83%B9%E9%97%9C%E6%B3%A8-%E5%85%A8%E9%9D%A0%E8%B7%91%E6%AD%A5%E5%8A%A0%E4%B8%80%E6%97%A5%E4%B8%80%E9%A4%90-%E6%83%B3%E5%91%8A%E5%88%A512%E5%B9%B4%E5%96%AE%E8%BA%AB",
     "timestamp": "2026-10-31T11:53:45.668Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲民眾抗議生活成本高　示威料蔓延德國　法國嚴防萬聖節騷亂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256988834795520479638.jpeg/f1IUZx1eyPH7VjwfmPd3GISCwZseKIgTkP7TgZD-04E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405652/%E6%AD%90%E6%B4%B2%E6%B0%91%E7%9C%BE%E6%8A%97%E8%AD%B0%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E9%AB%98-%E7%A4%BA%E5%A8%81%E6%96%99%E8%94%93%E5%BB%B6%E5%BE%B7%E5%9C%8B-%E6%B3%95%E5%9C%8B%E5%9A%B4%E9%98%B2%E8%90%AC%E8%81%96%E7%AF%80%E9%A8%B7%E4%BA%82",
-    "timestamp": "2026-10-31T11:13:16.147Z",
     "strategy": ".content-card__main"
   }
 ];
