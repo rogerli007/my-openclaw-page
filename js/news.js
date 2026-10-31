@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T01:15:28.639Z
+// Last updated: 2026-10-31T01:26:46.339Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜西貢大網仔營地30歲男子帳幕內燒炭　網民報警救回一命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193123337925038080754219.png/xGRdzTEtSvFHXLfA7QfHrhcxrlx8Z_SCrufm5a7n5uU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405542/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E7%87%9F%E5%9C%B030%E6%AD%B2%E7%94%B7%E5%AD%90%E5%B8%B3%E5%B9%95%E5%85%A7%E7%87%92%E7%82%AD-%E7%B6%B2%E6%B0%91%E5%A0%B1%E8%AD%A6%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD",
+    "timestamp": "2026-10-31T01:26:46.339Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全面封殺麥巴比：中國的反應過度嗎？真的該道過歉就算了嗎？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193037555885412352750149.jpeg/Qtb6C7JqyGeXelw_Idh5-YLDLGm404E39L_l-M6_5fg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405522/%E4%B8%8A%E6%B0%B4%E7%94%B7%E5%AD%90%E5%85%89%E9%A1%A7%E8%B6%B3%E6%B5%B4%E5%BA%97%E7%AA%81%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-30T19:23:52.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梁朝偉劉嘉玲包廂睇Weeknd演唱會  嘉玲姐興奮唱王菲《季候風》",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193019435451944960250987.jpeg/RSVEZfoe8_oQ2D_DHOaOwYyaDjZcynRCIZar-SGWq_k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60405517/%E6%A2%81%E6%9C%9D%E5%81%89%E5%8A%89%E5%98%89%E7%8E%B2%E5%8C%85%E5%BB%82%E7%9D%87weeknd%E6%BC%94%E5%94%B1%E6%9C%83-%E5%98%89%E7%8E%B2%E5%A7%90%E8%88%88%E5%A5%AE%E5%94%B1%E7%8E%8B%E8%8F%B2-%E5%AD%A3%E5%80%99%E9%A2%A8",
-    "timestamp": "2026-10-30T18:39:37.576Z",
     "strategy": ".content-card__main"
   }
 ];
