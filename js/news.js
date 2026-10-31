@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T12:39:39.380Z
+// Last updated: 2026-10-31T12:53:31.736Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節｜蘭桂坊台山三母女來港狂歡　市民直呼：一年比一年多人！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193292958795829248107489.jpeg/p3iFcOGoUL3dinL_CHV2AJSis2yklDhqXpFM016RTNM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405708/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E5%8F%B0%E5%B1%B1%E4%B8%89%E6%AF%8D%E5%A5%B3%E4%BE%86%E6%B8%AF%E7%8B%82%E6%AD%A1-%E5%B8%82%E6%B0%91%E7%9B%B4%E5%91%BC-%E4%B8%80%E5%B9%B4%E6%AF%94%E4%B8%80%E5%B9%B4%E5%A4%9A%E4%BA%BA",
+    "timestamp": "2026-10-31T12:53:31.736Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九龍住宅男子疑酒後失足墮平台　壓中途經外傭　均受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193179481909497856125094.jpeg/_sN0lmV_HYNIFkGyO2FUXZgX2KC9g3IWKBBmTygQZk8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405588/%E9%9D%92%E8%A1%A3%E8%91%B5%E5%BE%B7%E8%A1%97%E5%BB%A2%E7%B4%99%E5%BB%A0-%E5%B7%A5%E4%BA%BA%E5%A3%93%E7%B8%AE%E7%B4%99%E7%9A%AE-%E9%81%AD%E6%A9%9F%E5%99%A8%E5%88%87%E6%96%B7%E6%89%8B%E6%8C%87%E9%A0%AD",
     "timestamp": "2026-10-31T04:53:47.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "保險公司「最醜黃毛球」洗腦廣告如疲勞轟炸　民眾崩潰上街示威",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193148645151608832187503.jpeg/H2pDZdcc6wgbjAw1Y3nvU5tFwInCS8fO2Oo7ENjqOxA?v=w1920",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60405556/%E7%BE%8E%E5%9C%8Bliberty-mutual%E9%BB%83%E6%AF%9B%E7%90%83%E5%90%89%E7%A5%A5%E7%89%A9liberty-biberty%E9%95%B7%E5%A4%AA%E9%86%9C%E6%83%B9%E7%88%AD%E8%AD%B0",
-    "timestamp": "2026-10-31T04:39:34.481Z",
     "strategy": ".content-card__main"
   }
 ];
