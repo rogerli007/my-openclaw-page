@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T20:13:26.186Z
+// Last updated: 2026-10-31T20:23:27.839Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西營盤14歲少年疑遭父親動手管教受傷送院　前妻揭發　35歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193415377187508224596423.jpeg/rUeZc5egu3I9N3hMYylXPJeWj1EOzaD9q-3ezpHt3s4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405754/%E8%A5%BF%E7%87%9F%E7%9B%A414%E6%AD%B2%E5%B0%91%E5%B9%B4%E7%96%91%E9%81%AD%E7%88%B6%E8%A6%AA%E5%8B%95%E6%89%8B%E7%AE%A1%E6%95%99%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E5%89%8D%E5%A6%BB%E6%8F%AD%E7%99%BC-35%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-10-31T20:23:27.839Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧被寄養外婆家：雖缺乏父母陪伴但愛不缺席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193324738324205568341526.jpeg/X3F1FvFP8RQBC5O3dEj_AYbqXFsb8H4arPH7q6zx-6s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405725/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%B7%9E%E8%90%AC%E8%81%96%E7%AF%80%E5%95%86%E5%BA%97%E7%88%86%E6%A7%8D%E6%93%8A%E6%A1%881%E6%AD%BB6%E5%82%B7-%E8%AD%A6%E6%96%B9%E8%BF%BD%E6%8D%95%E7%96%91%E7%8A%AF",
     "timestamp": "2026-10-31T14:23:36.241Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜車路士主場2球領先曼聯　般奴復任正選難救卡域克",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193297733960601600015438.jpeg/RffNmhnnwVLK-eg99h4njhIm6NZ8yCQo56No3uejaN4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405707/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%B8%BB%E5%A0%B42%E7%90%83%E9%A0%98%E5%85%88%E6%9B%BC%E8%81%AF-%E8%88%AC%E5%A5%B4%E5%BE%A9%E4%BB%BB%E6%AD%A3%E9%81%B8%E9%9B%A3%E6%95%91%E5%8D%A1%E5%9F%9F%E5%85%8B",
-    "timestamp": "2026-10-31T14:13:32.956Z",
     "strategy": ".content-card__main"
   }
 ];
