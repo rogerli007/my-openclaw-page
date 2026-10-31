@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T05:19:38.768Z
+// Last updated: 2026-10-31T05:39:15.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "杜如風因「世界級港女」標籤單身12年　擇偶標準歸零：最緊要專一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193171732576342016195403.jpeg/3uLseONWg2A3bdBVmI8MPqwanLLPHGuWCrWwhQq1sIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405576/%E6%9D%9C%E5%A6%82%E9%A2%A8%E5%9B%A0-%E4%B8%96%E7%95%8C%E7%B4%9A%E6%B8%AF%E5%A5%B3-%E6%A8%99%E7%B1%A4%E5%96%AE%E8%BA%AB12%E5%B9%B4-%E6%93%87%E5%81%B6%E6%A8%99%E6%BA%96%E6%AD%B8%E9%9B%B6-%E6%9C%80%E7%B7%8A%E8%A6%81%E5%B0%88%E4%B8%80",
+    "timestamp": "2026-10-31T05:39:15.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公屋首次審查！男子「冇去」遭取消資格急求助　附房署條例+熱線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192872292439298048340892.png/wFUc2lrKPRqAQJpgFEvj0CItZ7g8vm3F3a1F-N2tRfg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401635/%E6%9F%B3%E6%9A%97%E8%8A%B1%E6%98%8E%E5%8F%88%E4%B8%80%E6%9D%91%E4%B8%8B%E5%8F%A5%E6%98%AF%E4%BB%80%E9%BA%BC-%E5%8F%A4%E8%A9%A9%E8%83%8C%E5%BE%8C%E7%9A%84%E7%81%91%E8%84%AB%E8%88%87%E4%BA%BA%E6%83%85%E5%91%B3-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
     "timestamp": "2026-10-30T23:23:50.848Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "43校網｜東頭、黃大仙、新蒲崗小學名單有甚麼學校？學額有多少？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251111/1064895654511513600406591.jpeg/5OtvPfen0gKn4QauUh-iNpNgw7LHW70cmaqVWpmqlVo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60402976/43%E6%A0%A1%E7%B6%B2-%E6%9D%B1%E9%A0%AD-%E9%BB%83%E5%A4%A7%E4%BB%99-%E6%96%B0%E8%92%B2%E5%B4%97%E5%B0%8F%E5%AD%B8%E5%90%8D%E5%96%AE%E6%9C%89%E7%94%9A%E9%BA%BC%E5%AD%B8%E6%A0%A1-%E5%AD%B8%E9%A1%8D%E6%9C%89%E5%A4%9A%E5%B0%91",
-    "timestamp": "2026-10-30T23:13:16.723Z",
     "strategy": ".content-card__main"
   }
 ];
