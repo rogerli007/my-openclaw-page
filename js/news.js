@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T19:55:44.257Z
+// Last updated: 2026-10-31T20:13:26.186Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧被寄養外婆家：雖缺乏父母陪伴但愛不缺席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193240437867941888568412.jpeg/CzJjYBAZ9qGQ42-2p7taWHhIRHFy_sbrXw59NV8OfTU",
+    "url": "https://www.hk01.com/01TV/60405632/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A2%AB%E5%AF%84%E9%A4%8A%E5%A4%96%E5%A9%86%E5%AE%B6-%E9%9B%96%E7%BC%BA%E4%B9%8F%E7%88%B6%E6%AF%8D%E9%99%AA%E4%BC%B4%E4%BD%86%E6%84%9B%E4%B8%8D%E7%BC%BA%E5%B8%AD",
+    "timestamp": "2026-10-31T20:13:26.186Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧談傳統童年智慧 井水浸西瓜與手工縫衣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193297733960601600015438.jpeg/RffNmhnnwVLK-eg99h4njhIm6NZ8yCQo56No3uejaN4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405707/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%B8%BB%E5%A0%B42%E7%90%83%E9%A0%98%E5%85%88%E6%9B%BC%E8%81%AF-%E8%88%AC%E5%A5%B4%E5%BE%A9%E4%BB%BB%E6%AD%A3%E9%81%B8%E9%9B%A3%E6%95%91%E5%8D%A1%E5%9F%9F%E5%85%8B",
     "timestamp": "2026-10-31T14:13:32.956Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾比特告別標誌爆炸頭換清爽短髮　網民笑指撞樣鍾雪瑩：個頭想點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193308910048514048467809.jpeg/dGTSHMt1cBQvU9-LQHUa2yvai1fn48Gs0jaSI9I2kiM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405712/%E6%9B%BE%E6%AF%94%E7%89%B9%E5%91%8A%E5%88%A5%E6%A8%99%E8%AA%8C%E7%88%86%E7%82%B8%E9%A0%AD%E6%8F%9B%E6%B8%85%E7%88%BD%E7%9F%AD%E9%AB%AE-%E7%B6%B2%E6%B0%91%E7%AC%91%E6%8C%87%E6%92%9E%E6%A8%A3%E9%8D%BE%E9%9B%AA%E7%91%A9-%E5%80%8B%E9%A0%AD%E6%83%B3%E9%BB%9E",
-    "timestamp": "2026-10-31T13:56:48.560Z",
     "strategy": ".content-card__main"
   }
 ];
