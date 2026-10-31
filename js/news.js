@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T03:15:39.286Z
+// Last updated: 2026-10-31T03:25:01.557Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃錦公路3電單車「串燒」相撞　3名司機送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193156509924593664836159.jpeg/oqIXAHznelQjWJkxyFy00Ukop1N81cCDYjfdNWI33TU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405563/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF3%E9%9B%BB%E5%96%AE%E8%BB%8A-%E4%B8%B2%E7%87%92-%E7%9B%B8%E6%92%9E-3%E5%90%8D%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-10-31T03:25:01.557Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "等18年終獲批移美！女生難捨男友　最終決定取綠卡：唔想老咗後悔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187223275265069056234815.jpeg/nohagnF3yqcWovFfftIER4sKKun0OZ31j_SGDI_0hgw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405518/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%B7%B2%E9%81%9E%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8-%E6%88%90%E9%A6%96%E4%BD%8D%E5%8F%83%E8%88%87%E4%B8%96%E4%BF%97%E6%8A%95%E7%A5%A8%E6%95%99%E5%AE%97",
     "timestamp": "2026-10-30T21:23:44.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜良十四世已遞郵寄選票　成首位參與世俗投票教宗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187223275265069056234815.jpeg/nohagnF3yqcWovFfftIER4sKKun0OZ31j_SGDI_0hgw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405518/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%B7%B2%E9%81%9E%E9%83%B5%E5%AF%84%E9%81%B8%E7%A5%A8-%E6%88%90%E9%A6%96%E4%BD%8D%E5%8F%83%E8%88%87%E4%B8%96%E4%BF%97%E6%8A%95%E7%A5%A8%E6%95%99%E5%AE%97",
-    "timestamp": "2026-10-30T21:12:25.353Z",
     "strategy": ".content-card__main"
   }
 ];
