@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T00:30:40.155Z
+// Last updated: 2026-10-31T00:55:49.069Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI泡沫論｜亞馬遜設立硬件擔保融資安排　最高800億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260305/1106192339199594496934560.jpeg/EVyqDACFb3BoJXvmXzlnSkHPPkYPndCeqae9i6mnvYs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405545/ai%E6%B3%A1%E6%B2%AB%E8%AB%96-%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%A8%AD%E7%AB%8B%E7%A1%AC%E4%BB%B6%E6%93%94%E4%BF%9D%E8%9E%8D%E8%B3%87%E5%AE%89%E6%8E%92-%E6%9C%80%E9%AB%98800%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-10-31T00:55:49.069Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丈夫患無精症妻竟懷孕！韓女獸醫為分家產出軌　精選多男借種生子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193011916633542656784356.png/O-UnNrVU9ume8C5tacZ5T2rTpg0Lh7NiN-cNtTfnDbU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405515/%E5%8A%8D%E6%93%8Au23%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E5%8A%89%E6%99%89%E5%BB%B6%E7%94%B7%E5%AD%90%E8%8A%B1%E5%8A%8D%E5%B0%81%E7%8E%8B-%E6%B8%AF%E9%9A%8A%E5%80%8B%E4%BA%BA%E8%B3%BD%E6%8E%834%E9%87%912%E9%8A%807%E9%8A%85",
     "timestamp": "2026-10-30T17:40:23.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地夫妻疑離婚爭執　38歲妻「飛樽」被捕　45歲夫額頭被擊傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193002246015553536176430.jpeg/suX3Sb0WTYNCBnYeAy-Ita3ZDnLWSazlfGce7EZnHuw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405512/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%AB%E5%A6%BB%E7%96%91%E9%9B%A2%E5%A9%9A%E7%88%AD%E5%9F%B7-38%E6%AD%B2%E5%A6%BB-%E9%A3%9B%E6%A8%BD-%E8%A2%AB%E6%8D%95-45%E6%AD%B2%E5%A4%AB%E9%A1%8D%E9%A0%AD%E8%A2%AB%E6%93%8A%E5%82%B7",
-    "timestamp": "2026-10-30T17:24:29.628Z",
     "strategy": ".content-card__main"
   }
 ];
