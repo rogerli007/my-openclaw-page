@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T16:40:23.790Z
+// Last updated: 2026-10-31T16:53:36.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜5100萬人已提前投票　民主黨選民較共和黨踴躍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193353182642704384671054.jpeg/vCGv3QpclDtiQWxGahTYNnMJmjojW8kJbg2Ej24NhI8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405740/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-5100%E8%90%AC%E4%BA%BA%E5%B7%B2%E6%8F%90%E5%89%8D%E6%8A%95%E7%A5%A8-%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%81%B8%E6%B0%91%E8%BC%83%E5%85%B1%E5%92%8C%E9%BB%A8%E8%B8%B4%E8%BA%8D",
+    "timestamp": "2026-10-31T16:53:36.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜5100萬人已提前投票　民主黨選民較共和黨踴躍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193264461503270912417369.jpeg/CXmHJkVYffHoUd5FZGH7nvdg49C_nJvTjGahC4xmoQs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405672/%E6%9C%B1%E6%95%8F%E7%80%9A%E7%82%BAtvb%E5%8F%B0%E6%85%B6%E7%B6%B5%E6%8E%92%E7%99%BC%E7%94%9F%E6%84%8F%E5%A4%96-%E6%9C%A8%E6%9E%B6%E5%80%92%E5%A1%8C%E4%BA%BA%E5%BE%9E%E5%85%A9%E7%B1%B3%E9%AB%98%E5%A2%AE%E5%9C%B0%E5%A0%B4%E9%9D%A2%E9%A9%9A%E9%9A%AA",
     "timestamp": "2026-10-31T10:19:33.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國錸金鎳鋯等戰略性礦產保有資源量大增　新疆首現大型鋯礦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193239835205177344623715.jpeg/aLNAjxAGD-nu0kwdn54oSfe8MbK8rvLiWwU4DFsFOAw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405633/%E4%B8%AD%E5%9C%8B%E9%8C%B8%E9%87%91%E9%8E%B3%E9%8B%AF%E7%AD%89%E6%88%B0%E7%95%A5%E6%80%A7%E7%A4%A6%E7%94%A2%E4%BF%9D%E6%9C%89%E8%B3%87%E6%BA%90%E9%87%8F%E5%A4%A7%E5%A2%9E-%E6%96%B0%E7%96%86%E9%A6%96%E7%8F%BE%E5%A4%A7%E5%9E%8B%E9%8B%AF%E7%A4%A6",
-    "timestamp": "2026-10-31T09:53:42.466Z",
     "strategy": ".content-card__main"
   }
 ];
