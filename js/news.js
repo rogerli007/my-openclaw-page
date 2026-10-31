@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T13:56:48.560Z
+// Last updated: 2026-10-31T14:13:32.956Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜車路士主場2球領先曼聯　般奴復任正選難救卡域克",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193297733960601600015438.jpeg/RffNmhnnwVLK-eg99h4njhIm6NZ8yCQo56No3uejaN4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405707/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E4%B8%BB%E5%A0%B42%E7%90%83%E9%A0%98%E5%85%88%E6%9B%BC%E8%81%AF-%E8%88%AC%E5%A5%B4%E5%BE%A9%E4%BB%BB%E6%AD%A3%E9%81%B8%E9%9B%A3%E6%95%91%E5%8D%A1%E5%9F%9F%E5%85%8B",
+    "timestamp": "2026-10-31T14:13:32.956Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾比特告別標誌爆炸頭換清爽短髮　網民笑指撞樣鍾雪瑩：個頭想點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142510525893054464508126.jpeg/mny-yFBz2gv2_ZtncGe9zu6DIAAp9459DYqO5g2KjuY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405583/%E8%98%8B%E6%9E%9C%E5%AE%98%E5%AE%A3-apple%E6%99%BA%E8%83%BD%E6%8E%A5%E5%85%A5%E9%98%BF%E9%87%8C%E5%8D%83%E5%95%8F-11%E6%9C%884%E6%97%A5%E9%96%8B%E6%94%BE%E6%B8%AC%E8%A9%A6",
     "timestamp": "2026-10-31T06:54:36.033Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2030年前將實現中國人登陸月球：任務由3人組成，2人着陸月球表面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231222/814846216188727296643709.jpeg/rFs6OIzTGHCXDyxpu_mssNLm8skrcHwd7ksxF-5LMRc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405607/2030%E5%B9%B4%E5%89%8D%E5%B0%87%E5%AF%A6%E7%8F%BE%E4%B8%AD%E5%9C%8B%E4%BA%BA%E7%99%BB%E9%99%B8%E6%9C%88%E7%90%83-%E4%BB%BB%E5%8B%99%E7%94%B13%E4%BA%BA%E7%B5%84%E6%88%90-2%E4%BA%BA%E7%9D%80%E9%99%B8%E6%9C%88%E7%90%83%E8%A1%A8%E9%9D%A2",
-    "timestamp": "2026-10-31T06:48:06.763Z",
     "strategy": ".content-card__main"
   }
 ];
