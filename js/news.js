@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T16:53:36.463Z
+// Last updated: 2026-10-31T17:12:31.230Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸｜旅客半夜離港需等待45分鐘　內地客︰大家都不睡覺？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193366600573521920872936.jpeg/MUP_H8Jbr2mzPUwGAMbjHZOUdorqv33AmAgVT5gIFU8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405744/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%97%85%E5%AE%A2%E5%8D%8A%E5%A4%9C%E9%9B%A2%E6%B8%AF%E9%9C%80%E7%AD%89%E5%BE%8545%E5%88%86%E9%90%98-%E5%85%A7%E5%9C%B0%E5%AE%A2-%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E7%9D%A1%E8%A6%BA",
+    "timestamp": "2026-10-31T17:12:31.230Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜5100萬人已提前投票　民主黨選民較共和黨踴躍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193264461503270912417369.jpeg/CXmHJkVYffHoUd5FZGH7nvdg49C_nJvTjGahC4xmoQs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405672/%E6%9C%B1%E6%95%8F%E7%80%9A%E7%82%BAtvb%E5%8F%B0%E6%85%B6%E7%B6%B5%E6%8E%92%E7%99%BC%E7%94%9F%E6%84%8F%E5%A4%96-%E6%9C%A8%E6%9E%B6%E5%80%92%E5%A1%8C%E4%BA%BA%E5%BE%9E%E5%85%A9%E7%B1%B3%E9%AB%98%E5%A2%AE%E5%9C%B0%E5%A0%B4%E9%9D%A2%E9%A9%9A%E9%9A%AA",
     "timestamp": "2026-10-31T10:39:09.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱敏瀚為TVB台慶綵排發生意外　木架倒塌人從兩米高墮地場面驚險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193264461503270912417369.jpeg/CXmHJkVYffHoUd5FZGH7nvdg49C_nJvTjGahC4xmoQs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405672/%E6%9C%B1%E6%95%8F%E7%80%9A%E7%82%BAtvb%E5%8F%B0%E6%85%B6%E7%B6%B5%E6%8E%92%E7%99%BC%E7%94%9F%E6%84%8F%E5%A4%96-%E6%9C%A8%E6%9E%B6%E5%80%92%E5%A1%8C%E4%BA%BA%E5%BE%9E%E5%85%A9%E7%B1%B3%E9%AB%98%E5%A2%AE%E5%9C%B0%E5%A0%B4%E9%9D%A2%E9%A9%9A%E9%9A%AA",
-    "timestamp": "2026-10-31T10:19:33.466Z",
     "strategy": ".content-card__main"
   }
 ];
