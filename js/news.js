@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T02:33:56.119Z
+// Last updated: 2026-10-31T02:39:44.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜陳茂波稱樓宇維修局服務須收回成本　資助比例不宜一刀切",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523302292557824468509.jpeg/aqW8gWSiFs5adnJUcmE7wbYWIqUCazDcT0XiXk9F4l4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405553/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E8%8C%82%E6%B3%A2%E7%A8%B1%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E5%B1%80%E6%9C%8D%E5%8B%99%E9%A0%88%E6%94%B6%E5%9B%9E%E6%88%90%E6%9C%AC-%E8%B3%87%E5%8A%A9%E6%AF%94%E4%BE%8B%E4%B8%8D%E5%AE%9C%E4%B8%80%E5%88%80%E5%88%87",
+    "timestamp": "2026-10-31T02:39:44.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜陳茂波稱樓宇維修局服務須收回成本　資助比例不宜一刀切",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193037555885412352750149.jpeg/Qtb6C7JqyGeXelw_Idh5-YLDLGm404E39L_l-M6_5fg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405522/%E4%B8%8A%E6%B0%B4%E7%94%B7%E5%AD%90%E5%85%89%E9%A1%A7%E8%B6%B3%E6%B5%B4%E5%BA%97%E7%AA%81%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-10-30T20:39:30.019Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水男子光顧足浴店突暈倒　昏迷送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193037555885412352750149.jpeg/Qtb6C7JqyGeXelw_Idh5-YLDLGm404E39L_l-M6_5fg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405522/%E4%B8%8A%E6%B0%B4%E7%94%B7%E5%AD%90%E5%85%89%E9%A1%A7%E8%B6%B3%E6%B5%B4%E5%BA%97%E7%AA%81%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-10-30T20:14:17.643Z",
     "strategy": ".content-card__main"
   }
 ];
