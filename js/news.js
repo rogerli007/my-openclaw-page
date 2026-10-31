@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T08:26:09.390Z
+// Last updated: 2026-10-31T08:44:59.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節｜天文台料今晚「回雲夜」雲量逐漸增多　下周六立冬暖笠笠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251031/1061037825748635648925487.jpeg/GNoWnREXG5n7pfzL-3exstaazp7MOOGqI_FPvQbxT70?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60405631/%E8%90%AC%E8%81%96%E7%AF%80-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E4%BB%8A%E6%99%9A-%E5%9B%9E%E9%9B%B2%E5%A4%9C-%E9%9B%B2%E9%87%8F%E9%80%90%E6%BC%B8%E5%A2%9E%E5%A4%9A-%E4%B8%8B%E5%91%A8%E5%85%AD%E7%AB%8B%E5%86%AC%E6%9A%96%E7%AC%A0%E7%AC%A0",
+    "timestamp": "2026-10-31T08:44:59.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "童年最恨父母逼做什麼？近3萬人共鳴　長大才知賺到：受用一生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523302292557824468509.jpeg/aqW8gWSiFs5adnJUcmE7wbYWIqUCazDcT0XiXk9F4l4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405553/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E8%8C%82%E6%B3%A2%E7%A8%B1%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E5%B1%80%E6%9C%8D%E5%8B%99%E9%A0%88%E6%94%B6%E5%9B%9E%E6%88%90%E6%9C%AC-%E8%B3%87%E5%8A%A9%E6%AF%94%E4%BE%8B%E4%B8%8D%E5%AE%9C%E4%B8%80%E5%88%80%E5%88%87",
     "timestamp": "2026-10-31T02:33:56.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節金多寶8000萬周六攪珠！8大熱門號碼+AI推測最強膽拖組合",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192742912853544960674081.jpeg/lc-9-Sdnn9a-W6Trg25FtZ8mp8QOD605LZdihi2XYoY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60405124/%E8%90%AC%E8%81%96%E7%AF%80%E9%87%91%E5%A4%9A%E5%AF%B68000%E8%90%AC%E5%91%A8%E5%85%AD%E6%94%AA%E7%8F%A0-8%E5%A4%A7%E7%86%B1%E9%96%80%E8%99%9F%E7%A2%BC-ai%E6%8E%A8%E6%B8%AC%E6%9C%80%E5%BC%B7%E8%86%BD%E6%8B%96%E7%B5%84%E5%90%88",
-    "timestamp": "2026-10-31T01:53:38.293Z",
     "strategy": ".content-card__main"
   }
 ];
