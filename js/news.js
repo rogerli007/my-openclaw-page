@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T23:43:47.294Z
+// Last updated: 2026-10-31T23:59:02.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魯比奧：料特朗普與習近平將在APEC及G20峰會舉行會面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193465988926935040256347.jpeg/yYwoOev4VHOhU3dz5tjd2BDIR-zi-UG6L__F3C__xdw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405760/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E6%96%99%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%9C%A8apec%E5%8F%8Ag20%E5%B3%B0%E6%9C%83%E8%88%89%E8%A1%8C%E6%9C%83%E9%9D%A2",
+    "timestamp": "2026-10-31T23:59:02.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜民主黨塔拉里科擅用聖經批特朗普　德州成關鍵議席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193367678522232832675391.jpeg/AlQ70UnZ-QQncUOY6XJ_NA42JDPuKXd6pL_rWaS_61k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405742/%E9%A7%90%E6%97%A5%E7%BE%8E%E8%BB%8D%E6%B2%96%E7%B9%A9%E9%81%95%E5%AE%B5%E7%A6%81%E4%BB%A4%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E8%A2%AB%E6%8D%95-%E9%AB%94%E5%85%A7%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%992%E5%80%8D%E4%BB%A5%E4%B8%8A",
     "timestamp": "2026-10-31T17:39:14.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節｜蘭桂坊酒吧生意增5成　負責人讚萬聖月帶旺：上周起增加",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193367214170836992125784.jpeg/ynRZmo1KUC-d04u-SJuIyTBS_vWaPV0kFdBzRjzQc0Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405743/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E9%85%92%E5%90%A7%E7%94%9F%E6%84%8F%E5%A2%9E5%E6%88%90-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E8%AE%9A%E8%90%AC%E8%81%96%E6%9C%88%E5%B8%B6%E6%97%BA-%E4%B8%8A%E5%91%A8%E8%B5%B7%E5%A2%9E%E5%8A%A0",
-    "timestamp": "2026-10-31T17:27:43.452Z",
     "strategy": ".content-card__main"
   }
 ];
