@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T13:23:55.256Z
+// Last updated: 2026-10-31T13:39:21.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何沛珈自爆恐男玩交友App被嚇退　阮嘉敏忍受前度裝定位竟遭偷食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193261649574760448742803.jpeg/JwoJ-am9yiMkUV9_HI_EoKI05Dzse13I5lrftuZa37Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405611/%E4%BD%95%E6%B2%9B%E7%8F%88%E8%87%AA%E7%88%86%E6%81%90%E7%94%B7%E7%8E%A9%E4%BA%A4%E5%8F%8Bapp%E8%A2%AB%E5%9A%87%E9%80%80-%E9%98%AE%E5%98%89%E6%95%8F%E5%BF%8D%E5%8F%97%E5%89%8D%E5%BA%A6%E8%A3%9D%E5%AE%9A%E4%BD%8D%E7%AB%9F%E9%81%AD%E5%81%B7%E9%A3%9F",
+    "timestamp": "2026-10-31T13:39:21.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期10.31頭獎8000萬即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193169807227228160629758.png/OzyEjRT7swjJXU_TAhCWo_0VlQXBXFXQQOQuNkDkLjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405144/%E5%AD%98-2500%E8%AE%8A-2-5%E8%90%AC-%E9%8A%80%E8%A1%8C%E5%A4%9A%E6%8C%89-0-%E5%AD%98%E6%88%B6%E6%8B%92%E9%82%84-%E9%9B%A2%E6%AB%83%E4%B8%8D%E8%B2%A0%E8%B2%AC-%E5%88%A4%E6%B1%BA%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-10-31T06:20:05.753Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜如風因「世界級港女」標籤單身12年　擇偶標準歸零：最緊要專一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193171732576342016195403.jpeg/3uLseONWg2A3bdBVmI8MPqwanLLPHGuWCrWwhQq1sIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405576/%E6%9D%9C%E5%A6%82%E9%A2%A8%E5%9B%A0-%E4%B8%96%E7%95%8C%E7%B4%9A%E6%B8%AF%E5%A5%B3-%E6%A8%99%E7%B1%A4%E5%96%AE%E8%BA%AB12%E5%B9%B4-%E6%93%87%E5%81%B6%E6%A8%99%E6%BA%96%E6%AD%B8%E9%9B%B6-%E6%9C%80%E7%B7%8A%E8%A6%81%E5%B0%88%E4%B8%80",
-    "timestamp": "2026-10-31T05:39:15.944Z",
     "strategy": ".content-card__main"
   }
 ];
