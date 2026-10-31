@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T15:23:36.453Z
+// Last updated: 2026-10-31T15:59:11.857Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "72歲林建明染惡菌遲兩日恐變致命肺炎　街頭仆傷雙膝大嘆犯太歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193329343347036160315289.jpeg/2JHShx3M9xYGambfF3lrXs7WcY51s3EJVmeURVZnlEU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405731/72%E6%AD%B2%E6%9E%97%E5%BB%BA%E6%98%8E%E6%9F%93%E6%83%A1%E8%8F%8C%E9%81%B2%E5%85%A9%E6%97%A5%E6%81%90%E8%AE%8A%E8%87%B4%E5%91%BD%E8%82%BA%E7%82%8E-%E8%A1%97%E9%A0%AD%E4%BB%86%E5%82%B7%E9%9B%99%E8%86%9D%E5%A4%A7%E5%98%86%E7%8A%AF%E5%A4%AA%E6%AD%B2",
+    "timestamp": "2026-10-31T15:59:11.857Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "你的保安李寶安｜收視暴跌急變陣　導演何爵天鞠躬道歉嘆預算緊張",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190367008340840448820913.jpeg/ycZJSSGkdKlXPYqX9xpHOMeZ6fOeWgJ5B5XG_AeVxvw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60403011/%E7%AB%A5%E5%B9%B4%E6%9C%80%E6%81%A8%E7%88%B6%E6%AF%8D%E9%80%BC%E5%81%9A%E4%BB%80%E9%BA%BC-%E8%BF%913%E8%90%AC%E4%BA%BA%E5%85%B1%E9%B3%B4-%E9%95%B7%E5%A4%A7%E6%89%8D%E7%9F%A5%E8%B3%BA%E5%88%B0-%E5%8F%97%E7%94%A8%E4%B8%80%E7%94%9F",
     "timestamp": "2026-10-31T08:26:09.390Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《嫁金釵》田曦薇閆桉終圓房　從替嫁沖喜到二次大婚虐戀成真！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190711915827957760932175.png/Giew2rbBgL7MxF6br7pMBuZaeox495fmsdbPprHWz6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405587/%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B0%E6%9B%A6%E8%96%87%E9%96%86%E6%A1%89%E7%B5%82%E5%9C%93%E6%88%BF-%E5%BE%9E%E6%9B%BF%E5%AB%81%E6%B2%96%E5%96%9C%E5%88%B0%E4%BA%8C%E6%AC%A1%E5%A4%A7%E5%A9%9A%E8%99%90%E6%88%80%E6%88%90%E7%9C%9F",
-    "timestamp": "2026-10-31T07:53:59.067Z",
     "strategy": ".content-card__main"
   }
 ];
