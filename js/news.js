@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T18:39:29.269Z
+// Last updated: 2026-10-31T18:53:13.507Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節直擊中環巴士站半百人等B13尾班車北上　城巴臨時調車疏導",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193387625038221312987436.jpeg/RUBGR7uhr_tgduLVDDXFXKi1zEGlkO5yZ2scE0JrHBM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405749/%E8%90%AC%E8%81%96%E7%AF%80%E7%9B%B4%E6%93%8A%E4%B8%AD%E7%92%B0%E5%B7%B4%E5%A3%AB%E7%AB%99%E5%8D%8A%E7%99%BE%E4%BA%BA%E7%AD%89b13%E5%B0%BE%E7%8F%AD%E8%BB%8A%E5%8C%97%E4%B8%8A-%E5%9F%8E%E5%B7%B4%E8%87%A8%E6%99%82%E8%AA%BF%E8%BB%8A%E7%96%8F%E5%B0%8E",
+    "timestamp": "2026-10-31T18:53:13.507Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節直擊中環巴士站半百人等B13尾班車北上　城巴臨時調車疏導",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192886649936154624973642.png/meqLhIIQy_LxARgwOahz66cnRdOFaUd5lEFslpRBbJY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405147/%E8%A3%BD%E6%B0%A7%E6%A9%9F%E8%80%81%E5%8C%96-%E9%98%BF%E4%BC%AF%E7%82%BA%E7%9C%81%E9%8C%A2%E6%8B%92%E6%8F%9B-%E5%85%92%E5%AD%90%E9%A9%9A%E6%8F%AD%E8%BC%B8%E5%87%BA-%E5%AE%89%E6%85%B0%E6%B0%A7-%E7%84%A1%E9%86%AB%E7%99%82%E5%83%B9%E5%80%BC",
     "timestamp": "2026-10-31T13:13:20.924Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節｜蘭桂坊台山三母女來港狂歡　市民直呼：一年比一年多人！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193292958795829248107489.jpeg/p3iFcOGoUL3dinL_CHV2AJSis2yklDhqXpFM016RTNM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405708/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E5%8F%B0%E5%B1%B1%E4%B8%89%E6%AF%8D%E5%A5%B3%E4%BE%86%E6%B8%AF%E7%8B%82%E6%AD%A1-%E5%B8%82%E6%B0%91%E7%9B%B4%E5%91%BC-%E4%B8%80%E5%B9%B4%E6%AF%94%E4%B8%80%E5%B9%B4%E5%A4%9A%E4%BA%BA",
-    "timestamp": "2026-10-31T12:53:31.736Z",
     "strategy": ".content-card__main"
   }
 ];
