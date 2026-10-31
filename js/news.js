@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T14:13:32.956Z
+// Last updated: 2026-10-31T14:23:36.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國加州萬聖節商店爆槍擊案1死6傷　警方追捕疑犯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193324738324205568341526.jpeg/X3F1FvFP8RQBC5O3dEj_AYbqXFsb8H4arPH7q6zx-6s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405725/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%B7%9E%E8%90%AC%E8%81%96%E7%AF%80%E5%95%86%E5%BA%97%E7%88%86%E6%A7%8D%E6%93%8A%E6%A1%881%E6%AD%BB6%E5%82%B7-%E8%AD%A6%E6%96%B9%E8%BF%BD%E6%8D%95%E7%96%91%E7%8A%AF",
+    "timestamp": "2026-10-31T14:23:36.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜車路士主場2球領先曼聯　般奴復任正選難救卡域克",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192799111754027008324157.png/0WQQR09d95LDMIDTvA50LBiVIYT_JJX-JzRJQSc0SUE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60404600/%E6%83%A0%E5%B7%9E%E7%BE%8E%E9%A3%9F6%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%AE%A2%E5%AE%B6%E7%AA%AF%E9%9B%9E-%E6%A9%AB%E7%80%9D%E6%B9%AF%E7%B2%89-%E8%96%91%E6%B1%81%E6%B9%AF%E5%9C%93-%E8%A5%BF%E6%B9%96%E9%82%8A%E6%AD%8E%E6%97%A9%E8%8C%B6",
     "timestamp": "2026-10-31T07:13:53.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘋果官宣：Apple智能接入阿里千問　11月4日開放測試",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260613/1142510525893054464508126.jpeg/mny-yFBz2gv2_ZtncGe9zu6DIAAp9459DYqO5g2KjuY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405583/%E8%98%8B%E6%9E%9C%E5%AE%98%E5%AE%A3-apple%E6%99%BA%E8%83%BD%E6%8E%A5%E5%85%A5%E9%98%BF%E9%87%8C%E5%8D%83%E5%95%8F-11%E6%9C%884%E6%97%A5%E9%96%8B%E6%94%BE%E6%B8%AC%E8%A9%A6",
-    "timestamp": "2026-10-31T06:54:36.033Z",
     "strategy": ".content-card__main"
   }
 ];
