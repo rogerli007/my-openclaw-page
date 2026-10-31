@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T10:53:49.839Z
+// Last updated: 2026-10-31T11:13:16.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲民眾抗議生活成本高　示威料蔓延德國　法國嚴防萬聖節騷亂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256988834795520479638.jpeg/f1IUZx1eyPH7VjwfmPd3GISCwZseKIgTkP7TgZD-04E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405652/%E6%AD%90%E6%B4%B2%E6%B0%91%E7%9C%BE%E6%8A%97%E8%AD%B0%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E9%AB%98-%E7%A4%BA%E5%A8%81%E6%96%99%E8%94%93%E5%BB%B6%E5%BE%B7%E5%9C%8B-%E6%B3%95%E5%9C%8B%E5%9A%B4%E9%98%B2%E8%90%AC%E8%81%96%E7%AF%80%E9%A8%B7%E4%BA%82",
+    "timestamp": "2026-10-31T11:13:16.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜蔣家旻黑化落毒殺夫爆樽扑蔡一智　陳瀅被張智霖扯頭髮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193172305723789312042936.png/ZoaTK0I8GTx_ZDsHZG1ZhEi3RIUN1PJc7k9yyu5Pcso?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405579/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E4%BA%8B%E5%B1%80-%E9%BB%83%E6%B5%B7%E5%8D%97%E6%B5%B7%E9%83%A8%E5%88%86%E6%B5%B7%E5%9F%9F11%E6%9C%882%E6%97%A5%E8%87%B36%E6%97%A5%E5%AF%A6%E5%BD%88%E5%B0%84%E6%93%8A-%E7%A6%81%E6%AD%A2%E9%A7%9B%E5%85%A5",
     "timestamp": "2026-10-31T04:15:44.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥｜脂肪最怕食物曝光！吃對5種食物能啟動加速代謝模式輕鬆瘦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251010/1053323780371255296685012.jpeg/yV6E-YNYHbVl3HhVLYYDQa6rD1S-22iRaxMhUWsTIVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%BE%8E%E5%AE%B9%E6%89%8B%E5%B8%B3/60284098/%E6%B8%9B%E8%82%A5-%E8%84%82%E8%82%AA%E6%9C%80%E6%80%95%E9%A3%9F%E7%89%A9%E6%9B%9D%E5%85%89-%E5%90%83%E5%B0%8D5%E7%A8%AE%E9%A3%9F%E7%89%A9%E8%83%BD%E5%95%9F%E5%8B%95%E5%8A%A0%E9%80%9F%E4%BB%A3%E8%AC%9D%E6%A8%A1%E5%BC%8F%E8%BC%95%E9%AC%86%E7%98%A6",
-    "timestamp": "2026-10-31T03:40:24.039Z",
     "strategy": ".content-card__main"
   }
 ];
