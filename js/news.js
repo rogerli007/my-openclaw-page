@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T18:15:35.831Z
+// Last updated: 2026-10-31T18:30:24.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節｜旺角600人等上車去新皇崗口岸　旅客大讚：比預想中快",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193372384569069568901326.jpeg/NpJ7LoiNUT8xlqYy7yClkm1QTdPI58eLF4Na9xeDWvc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405746/%E8%90%AC%E8%81%96%E7%AF%80-%E6%97%BA%E8%A7%92600%E4%BA%BA%E7%AD%89%E4%B8%8A%E8%BB%8A%E5%8E%BB%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%97%85%E5%AE%A2%E5%A4%A7%E8%AE%9A-%E6%AF%94%E9%A0%90%E6%83%B3%E4%B8%AD%E5%BF%AB",
+    "timestamp": "2026-10-31T18:30:24.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧回憶南京童年：沒用過馬桶的舊時代體驗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260324/1113236343221129216765138.jpeg/hSxcDK7kHHadYnflxCbTBAQS6qgS5nn6Tv8u0Gf_LtA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405710/%E8%A5%BF%E4%B9%9D%E9%BE%8D%E4%BD%8F%E5%AE%85%E7%94%B7%E5%AD%90%E7%96%91%E9%85%92%E5%BE%8C%E5%A4%B1%E8%B6%B3%E5%A2%AE%E5%B9%B3%E5%8F%B0-%E5%A3%93%E4%B8%AD%E9%80%94%E7%B6%93%E5%A4%96%E5%82%AD-%E5%9D%87%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-10-31T12:39:39.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "杜如風變「紙片人」惹關注　全靠跑步加一日一餐︰想告別12年單身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193274884029943808390476.jpeg/_J1RR9B_4XeyP_Z4keqtvhlYuNGgoCQ9K0yAnytMgJ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405668/%E6%9D%9C%E5%A6%82%E9%A2%A8%E8%AE%8A-%E7%B4%99%E7%89%87%E4%BA%BA-%E6%83%B9%E9%97%9C%E6%B3%A8-%E5%85%A8%E9%9D%A0%E8%B7%91%E6%AD%A5%E5%8A%A0%E4%B8%80%E6%97%A5%E4%B8%80%E9%A4%90-%E6%83%B3%E5%91%8A%E5%88%A512%E5%B9%B4%E5%96%AE%E8%BA%AB",
-    "timestamp": "2026-10-31T11:53:45.668Z",
     "strategy": ".content-card__main"
   }
 ];
