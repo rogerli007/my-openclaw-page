@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T21:40:23.302Z
+// Last updated: 2026-10-31T22:18:44.258Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車主屋苑內驚遇同車牌車輛！埋伏一周拍照　犯人被捕揭造假原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192850887207292928379861.png/geZvDmx4Wvt0LYkc7fLIwOo-ZgyOcvpH1Rory9UaK8s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404866/%E8%BB%8A%E4%B8%BB%E5%B1%8B%E8%8B%91%E5%85%A7%E9%A9%9A%E9%81%87%E5%90%8C%E8%BB%8A%E7%89%8C%E8%BB%8A%E8%BC%9B-%E5%9F%8B%E4%BC%8F%E4%B8%80%E5%91%A8%E6%8B%8D%E7%85%A7-%E7%8A%AF%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%8F%AD%E9%80%A0%E5%81%87%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-10-31T22:18:44.258Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "坑口公共單車泊位　9輛單車遭縱火燒毀　警追緝歹徒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193351605584400384950876.jpeg/9ksEsT_5qZRFqmLBEhaltMOYF82kSF-FalnFDmpZxQ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405739/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E9%80%BC%E7%88%86-%E5%A5%B3%E5%98%A9%E9%AC%BC%E5%91%BB%E6%94%B0%E6%8B%92%E6%8E%92%E9%95%B7%E9%BE%8D%E5%85%A5%E8%98%AD%E6%A1%82%E5%9D%8A-%E6%9C%AA%E5%BF%85%E5%8E%BB",
     "timestamp": "2026-10-31T16:23:42.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節｜蘭桂坊一帶逼爆　女嘩鬼呻攰拒排長龍入蘭桂坊：未必去",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193351605584400384950876.jpeg/9ksEsT_5qZRFqmLBEhaltMOYF82kSF-FalnFDmpZxQ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405739/%E8%90%AC%E8%81%96%E7%AF%80-%E8%98%AD%E6%A1%82%E5%9D%8A%E4%B8%80%E5%B8%B6%E9%80%BC%E7%88%86-%E5%A5%B3%E5%98%A9%E9%AC%BC%E5%91%BB%E6%94%B0%E6%8B%92%E6%8E%92%E9%95%B7%E9%BE%8D%E5%85%A5%E8%98%AD%E6%A1%82%E5%9D%8A-%E6%9C%AA%E5%BF%85%E5%8E%BB",
-    "timestamp": "2026-10-31T16:18:32.819Z",
     "strategy": ".content-card__main"
   }
 ];
