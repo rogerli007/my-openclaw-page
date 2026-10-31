@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T04:39:34.481Z
+// Last updated: 2026-10-31T04:53:47.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣葵德街廢紙廠　工人壓縮紙皮　遭機器切斷手指頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193179481909497856125094.jpeg/_sN0lmV_HYNIFkGyO2FUXZgX2KC9g3IWKBBmTygQZk8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405588/%E9%9D%92%E8%A1%A3%E8%91%B5%E5%BE%B7%E8%A1%97%E5%BB%A2%E7%B4%99%E5%BB%A0-%E5%B7%A5%E4%BA%BA%E5%A3%93%E7%B8%AE%E7%B4%99%E7%9A%AE-%E9%81%AD%E6%A9%9F%E5%99%A8%E5%88%87%E6%96%B7%E6%89%8B%E6%8C%87%E9%A0%AD",
+    "timestamp": "2026-10-31T04:53:47.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "保險公司「最醜黃毛球」洗腦廣告如疲勞轟炸　民眾崩潰上街示威",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193081888307154944914708.jpeg/gh4dLe27avJnTc7sP9-xMuw_bPZSErWIgbN2yIGzdsg",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405534/%E8%BB%8Acam-%E5%A4%A7%E5%9F%94%E5%85%AC%E8%B7%AF%E6%B5%81%E6%B5%AA%E7%8B%97%E5%BE%98%E5%BE%8A-%E5%B7%B4%E5%A3%AB%E5%B0%87%E9%A7%9B%E8%87%B3-cam%E4%B8%BB%E9%9F%BF%E8%99%9F%E8%AD%B7%E8%88%AA%E6%95%91%E4%B8%80%E5%91%BD",
     "timestamp": "2026-10-30T22:53:30.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜大埔公路流浪狗徘徊　巴士將駛至　Cam主響號護航救一命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193081888307154944914708.jpeg/gh4dLe27avJnTc7sP9-xMuw_bPZSErWIgbN2yIGzdsg",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405534/%E8%BB%8Acam-%E5%A4%A7%E5%9F%94%E5%85%AC%E8%B7%AF%E6%B5%81%E6%B5%AA%E7%8B%97%E5%BE%98%E5%BE%8A-%E5%B7%B4%E5%A3%AB%E5%B0%87%E9%A7%9B%E8%87%B3-cam%E4%B8%BB%E9%9F%BF%E8%99%9F%E8%AD%B7%E8%88%AA%E6%95%91%E4%B8%80%E5%91%BD",
-    "timestamp": "2026-10-30T22:44:19.483Z",
     "strategy": ".content-card__main"
   }
 ];
