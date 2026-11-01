@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T13:13:01.933Z
+// Last updated: 2026-11-01T13:23:51.215Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寶琳車禍｜鐵騎士遭撞尾　困車底周身傷　私家車司機涉危駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193575229713027072960172.png/PHfbcyPzTQqPM5MwEFzUvFt7imx6Ms5QrNoaCazaGgk",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405946/%E5%AF%B6%E7%90%B3%E8%BB%8A%E7%A6%8D-%E9%90%B5%E9%A8%8E%E5%A3%AB%E9%81%AD%E6%92%9E%E5%B0%BE-%E5%9B%B0%E8%BB%8A%E5%BA%95%E5%91%A8%E8%BA%AB%E5%82%B7-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-01T13:23:51.215Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "生殖器遭大嫂咬爛！印度男吵架脫衣威嚇　弱點被咬縫55針保子孫根",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193577424260960256437098.jpeg/1KBrNWQ1iROKKxIZtcFxzWQE_vOz_2Gjh7Wg1rG1oNY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405862/%E6%9B%BE%E5%BF%97%E5%81%89%E8%AB%87%E9%9B%BB%E8%A6%96%E5%A4%A7%E6%88%B0-%E7%AF%80%E7%9B%AE%E7%AA%81%E7%88%86%E7%B4%85%E5%B1%AC-%E6%94%BE%E7%85%99%E8%8A%B1-%E9%9C%80%E8%A6%81%E9%95%B7%E9%81%A0%E4%B8%80%E5%95%B2%E5%98%85%E8%A8%88%E5%8A%83",
     "timestamp": "2026-11-01T07:24:24.362Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜寶琳私家車與電單車相撞　鐵騎士受傷被困車底　警蹲地察看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193575229713027072960172.png/PHfbcyPzTQqPM5MwEFzUvFt7imx6Ms5QrNoaCazaGgk",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405841/%E6%9C%89%E7%89%87-%E5%AF%B6%E7%90%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%88%87%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%97%E5%82%B7%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%BA%95-%E8%AD%A6%E8%B9%B2%E5%9C%B0%E5%AF%9F%E7%9C%8B",
-    "timestamp": "2026-11-01T06:53:22.095Z",
     "strategy": ".content-card__main"
   }
 ];
