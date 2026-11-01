@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T13:53:18.531Z
+// Last updated: 2026-11-01T14:13:02.201Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜賀錦麗籲大到不能操縱的投票率　轟特朗普腐敗無能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250501/994638695157993472428671.jpeg/ltWJ9Hk32h5oOkrser9yLgkysyro2Ise6fIgQ-nyIEM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405945/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%B3%80%E9%8C%A6%E9%BA%97%E7%B1%B2%E5%A4%A7%E5%88%B0%E4%B8%8D%E8%83%BD%E6%93%8D%E7%B8%B1%E7%9A%84%E6%8A%95%E7%A5%A8%E7%8E%87-%E8%BD%9F%E7%89%B9%E6%9C%97%E6%99%AE%E8%85%90%E6%95%97%E7%84%A1%E8%83%BD",
+    "timestamp": "2026-11-01T14:13:02.201Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "連詩雅罕晒母女合照五官倒模如餅印　媽媽氣質高貴顏值不輸愛女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193598652489142272023617.jpeg/zf1ih9-7NtglC3h1eWNEmwq-JMIg6HBuCRD5DAkQ-Qw",
     "url": "https://www.hk01.com/01TV/60405891/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E7%96%91%E5%A4%9C%E5%A0%B4%E9%81%AD%E8%90%BD%E8%97%A5%E9%80%81icu-%E7%B6%93%E7%90%86%E4%BA%BA%E7%95%B6%E8%A1%97%E6%80%92%E8%BD%9F%E8%B2%A0%E8%B2%AC%E4%BA%BA%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89",
     "timestamp": "2026-11-01T08:29:56.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國佛州女子揚言行刺特朗普被捕　辯稱只是「開玩笑」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192185917775810560542389.jpeg/WcBQvqIhimS7_5IHkdTs7D7d-MjuBhB83nHO0N5xztA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405863/%E7%BE%8E%E5%9C%8B%E4%BD%9B%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8F%9A%E8%A8%80%E8%A1%8C%E5%88%BA%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8D%95-%E8%BE%AF%E7%A8%B1%E5%8F%AA%E6%98%AF-%E9%96%8B%E7%8E%A9%E7%AC%91",
-    "timestamp": "2026-11-01T07:39:29.775Z",
     "strategy": ".content-card__main"
   }
 ];
