@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T06:53:22.095Z
+// Last updated: 2026-11-01T07:24:24.362Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾志偉談電視大戰　節目突爆紅屬「放煙花」：需要長遠一啲嘅計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193577424260960256437098.jpeg/1KBrNWQ1iROKKxIZtcFxzWQE_vOz_2Gjh7Wg1rG1oNY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405862/%E6%9B%BE%E5%BF%97%E5%81%89%E8%AB%87%E9%9B%BB%E8%A6%96%E5%A4%A7%E6%88%B0-%E7%AF%80%E7%9B%AE%E7%AA%81%E7%88%86%E7%B4%85%E5%B1%AC-%E6%94%BE%E7%85%99%E8%8A%B1-%E9%9C%80%E8%A6%81%E9%95%B7%E9%81%A0%E4%B8%80%E5%95%B2%E5%98%85%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-11-01T07:24:24.362Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜寶琳私家車與電單車相撞　鐵騎士受傷被困車底　警蹲地察看",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185085779974557696856413.jpeg/BcZHLGuL5cjnIcK4WTMp5yMyOEigt6kdc-uGNnPrhjY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405767/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E7%BE%8E%E5%9C%8B%E5%89%8D1-%E5%AE%B6%E5%BA%AD%E5%9D%90%E6%93%8132-5-%E8%B2%A1%E5%AF%8C-%E8%AA%B0%E4%BE%86%E6%B6%88%E8%B2%BB",
     "timestamp": "2026-11-01T01:02:07.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳曼娜急刪相惹揣測！薛家燕兒子投資短劇陣容曝光驚見前TVB小花",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193260809636024320796104.jpeg/67EKoyKaUVBVF9Y40F8KXjcffisZk2TeYRq4y2EauMs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405619/%E9%99%B3%E6%9B%BC%E5%A8%9C%E6%80%A5%E5%88%AA%E7%9B%B8%E6%83%B9%E6%8F%A3%E6%B8%AC-%E8%96%9B%E5%AE%B6%E7%87%95%E5%85%92%E5%AD%90%E6%8A%95%E8%B3%87%E7%9F%AD%E5%8A%87%E9%99%A3%E5%AE%B9%E6%9B%9D%E5%85%89%E9%A9%9A%E8%A6%8B%E5%89%8Dtvb%E5%B0%8F%E8%8A%B1",
-    "timestamp": "2026-11-01T00:37:07.520Z",
     "strategy": ".content-card__main"
   }
 ];
