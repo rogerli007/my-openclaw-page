@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T14:57:16.017Z
+// Last updated: 2026-11-01T15:23:45.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國男路邊摸貓咪遇Google街景車　預言：上地圖了　3個月後成真",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193156883679023104526847.png/oNFkKqAmgE4_9i-yFWEY7vvuGg5qt_MJ42BXtONgV7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405285/%E8%8B%B1%E5%9C%8B%E7%94%B7%E8%B7%AF%E9%82%8A%E6%91%B8%E8%B2%93%E5%92%AA%E9%81%87google%E8%A1%97%E6%99%AF%E8%BB%8A-%E9%A0%90%E8%A8%80-%E4%B8%8A%E5%9C%B0%E5%9C%96%E4%BA%86-3%E5%80%8B%E6%9C%88%E5%BE%8C%E6%88%90%E7%9C%9F",
+    "timestamp": "2026-11-01T15:23:45.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "手球中超總決賽｜港隊險勝安徽奪季　羅淑佩觀戰：興奮到不得了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192903887225360384106754.jpeg/uRqo6R7I6TQNybED3wHoLx_xzbNFsB1OWHRKOFh0Sjg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60405381/%E4%B8%8A%E6%B5%B7%E6%99%AF%E9%BB%9E-%E5%BF%85%E8%A1%8C14%E6%9D%A1%E9%A9%AC%E8%B7%AF%E8%B3%9E%E7%A7%8B%E6%97%A5%E7%B4%85%E8%91%89-%E6%89%93%E5%8D%A1%E5%90%8D%E4%BA%BA%E6%95%85%E5%B1%85-%E8%80%81%E6%B4%8B%E6%88%BF-%E5%8D%9A%E7%89%A9%E9%A4%A8",
     "timestamp": "2026-11-01T09:15:58.402Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑改革｜大律師公會倡檢控寬待吹哨者　設大維修承辦商扣分制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193604080589606912975024.png/wOieI9sugHK9RwDYaPvNE28fbxGNl3LoQ8xM-EPMTPg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405888/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%94%B9%E9%9D%A9-%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E5%80%A1%E6%AA%A2%E6%8E%A7%E5%AF%AC%E5%BE%85%E5%90%B9%E5%93%A8%E8%80%85-%E8%A8%AD%E5%A4%A7%E7%B6%AD%E4%BF%AE%E6%89%BF%E8%BE%A6%E5%95%86%E6%89%A3%E5%88%86%E5%88%B6",
-    "timestamp": "2026-11-01T08:54:12.884Z",
     "strategy": ".content-card__main"
   }
 ];
