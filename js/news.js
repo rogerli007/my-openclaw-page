@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T19:59:04.281Z
+// Last updated: 2026-11-01T20:18:24.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧一家擠天臺屋：窗外掛巨幅海報不敢拉窗簾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193244185587617792158960.jpeg/P-fi4BxgHzNdsMwC_4WFBr0TRhfesEa_f0uhIX9LoSE",
+    "url": "https://www.hk01.com/01TV/60405640/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%80%E5%AE%B6%E6%93%A0%E5%A4%A9%E8%87%BA%E5%B1%8B-%E7%AA%97%E5%A4%96%E6%8E%9B%E5%B7%A8%E5%B9%85%E6%B5%B7%E5%A0%B1%E4%B8%8D%E6%95%A2%E6%8B%89%E7%AA%97%E7%B0%BE",
+    "timestamp": "2026-11-01T20:18:24.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警灣仔截可疑私家車搜懷疑毒品　男司機涉販毒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193603454107389952816409.png/_K1Ybr8Z3aay7DwT4TGK7fnGj_tK8WYvJwVYFCcFWBQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405876/%E7%8E%89%E7%B0%9F%E7%A7%8B40%E9%9B%86%E8%BF%8E%E6%85%98%E7%83%88%E7%B5%90%E5%B1%80-%E4%B8%9E%E7%A3%8A%E6%88%B0%E6%AD%BB%E6%B2%99%E5%A0%B4%E5%BE%90%E8%8B%A5%E6%99%97%E5%AE%88%E5%AF%A1-%E7%B6%B2%E6%B0%91%E5%98%86-%E5%BF%83%E5%8F%A3%E6%82%B6",
     "timestamp": "2026-11-01T12:56:52.086Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "翁虹飛美國陪19歲學霸女兒劉蒔入學UCLA　揭「曾獲9所名校Offer」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191796270990102528492753.jpeg/4K07LkNtz6dqawWG24K3IJhDg_j8a8kalyyfMJcsnzA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403746/%E7%BF%81%E8%99%B9%E9%A3%9B%E7%BE%8E%E5%9C%8B%E9%99%AA19%E6%AD%B2%E5%AD%B8%E9%9C%B8%E5%A5%B3%E5%85%92%E5%8A%89%E8%92%94%E5%85%A5%E5%AD%B8ucla-%E6%8F%AD-%E6%9B%BE%E7%8D%B29%E6%89%80%E5%90%8D%E6%A0%A1offer",
-    "timestamp": "2026-11-01T12:41:25.526Z",
     "strategy": ".content-card__main"
   }
 ];
