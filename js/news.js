@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T05:23:46.780Z
+// Last updated: 2026-11-01T05:39:51.245Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北都馬拉松｜兩屆渣馬跑手嘆辛苦不再參加　部分路段樹根拱起易跌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193532036715909120062938.jpeg/a66FNzl5zvUQAokY8EwyhuqcrMb94otP4fB7ZOHwe2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405810/%E5%8C%97%E9%83%BD%E9%A6%AC%E6%8B%89%E6%9D%BE-%E5%85%A9%E5%B1%86%E6%B8%A3%E9%A6%AC%E8%B7%91%E6%89%8B%E5%98%86%E8%BE%9B%E8%8B%A6%E4%B8%8D%E5%86%8D%E5%8F%83%E5%8A%A0-%E9%83%A8%E5%88%86%E8%B7%AF%E6%AE%B5%E6%A8%B9%E6%A0%B9%E6%8B%B1%E8%B5%B7%E6%98%93%E8%B7%8C",
+    "timestamp": "2026-11-01T05:39:51.245Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DeepSeek發佈Super-agent設計探索　AI指揮AI 智能體",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193294441234829312318905.png/n-tZ5OMk2HXipAu0bZRkhbBOCLZwHLzMDklGdw5JRnc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395231/ai%E5%B7%A8%E9%A0%AD%E7%8B%82%E6%8E%83%E6%97%A5%E6%9C%AC50%E5%99%B8%E8%88%8A%E6%9B%B8-%E6%8E%83%E6%8F%8F%E5%8D%B3%E5%88%87%E7%A2%8E-%E7%BD%95%E8%A6%8B%E6%96%87%E7%8D%BB%E9%9D%A2%E8%87%A8-%E6%B0%B8%E4%B9%85%E8%92%B8%E7%99%BC",
     "timestamp": "2026-10-31T23:23:35.370Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日初時一兩陣微雨　最高氣溫28度　今個星期連續多日有雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193445349511925760270649.jpeg/cZ0Bq9r8qkkebfRhTA35ZISu-aXePnTDdDeask43mrI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60405750/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB28%E5%BA%A6-%E4%BB%8A%E5%80%8B%E6%98%9F%E6%9C%9F%E9%80%A3%E7%BA%8C%E5%A4%9A%E6%97%A5%E6%9C%89%E9%9B%A8",
-    "timestamp": "2026-10-31T22:39:19.497Z",
     "strategy": ".content-card__main"
   }
 ];
