@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T02:59:20.911Z
+// Last updated: 2026-11-01T03:18:22.085Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北都馬拉松2026｜主辦方劉業強期望每年舉辦　未來賽道延伸至深圳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193505644565762048854796.jpeg/8Gk8YMHplkznLe8IyzmaXloA0yt3Xf3WUSObw3Qjm8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405796/%E5%8C%97%E9%83%BD%E9%A6%AC%E6%8B%89%E6%9D%BE2026-%E4%B8%BB%E8%BE%A6%E6%96%B9%E5%8A%89%E6%A5%AD%E5%BC%B7%E6%9C%9F%E6%9C%9B%E6%AF%8F%E5%B9%B4%E8%88%89%E8%BE%A6-%E6%9C%AA%E4%BE%86%E8%B3%BD%E9%81%93%E5%BB%B6%E4%BC%B8%E8%87%B3%E6%B7%B1%E5%9C%B3",
+    "timestamp": "2026-11-01T03:18:22.085Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳女注射100組生長因子後臉部饅化畸形　致患抑鬱2年沒工作社交",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193415377187508224596423.jpeg/rUeZc5egu3I9N3hMYylXPJeWj1EOzaD9q-3ezpHt3s4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405754/%E8%A5%BF%E7%87%9F%E7%9B%A414%E6%AD%B2%E5%B0%91%E5%B9%B4%E7%96%91%E9%81%AD%E7%88%B6%E8%A6%AA%E5%8B%95%E6%89%8B%E7%AE%A1%E6%95%99%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E5%89%8D%E5%A6%BB%E6%8F%AD%E7%99%BC-35%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-10-31T20:23:27.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧被寄養外婆家：雖缺乏父母陪伴但愛不缺席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193240437867941888568412.jpeg/CzJjYBAZ9qGQ42-2p7taWHhIRHFy_sbrXw59NV8OfTU",
-    "url": "https://www.hk01.com/01TV/60405632/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A2%AB%E5%AF%84%E9%A4%8A%E5%A4%96%E5%A9%86%E5%AE%B6-%E9%9B%96%E7%BC%BA%E4%B9%8F%E7%88%B6%E6%AF%8D%E9%99%AA%E4%BC%B4%E4%BD%86%E6%84%9B%E4%B8%8D%E7%BC%BA%E5%B8%AD",
-    "timestamp": "2026-10-31T20:13:26.186Z",
     "strategy": ".content-card__main"
   }
 ];
