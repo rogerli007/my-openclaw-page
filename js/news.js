@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T08:29:56.842Z
+// Last updated: 2026-11-01T08:40:00.545Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "濱崎真緒疑遭落藥｜施用毒藥罪有例可依　直銷男迷暈3女判囚27月",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193597422178144256530928.jpeg/ICVSs6c8mQ-3omvLpiFO7ABlsvCmCzV1hFZYRKFWWEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405874/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E7%96%91%E9%81%AD%E8%90%BD%E8%97%A5-%E6%96%BD%E7%94%A8%E6%AF%92%E8%97%A5%E7%BD%AA%E6%9C%89%E4%BE%8B%E5%8F%AF%E4%BE%9D-%E7%9B%B4%E9%8A%B7%E7%94%B7%E8%BF%B7%E6%9A%883%E5%A5%B3%E5%88%A4%E5%9B%9A27%E6%9C%88",
+    "timestamp": "2026-11-01T08:40:00.545Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "濱崎真緒疑夜場遭落藥送ICU　 經理人當街怒轟負責人畫面曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193492610778402816143765.png/B_pliU-N4AJ_qJ_PHnq8GJdvi3mIcGtD4oqmYuKKpmI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405771/%E8%90%AC%E8%81%96%E7%AF%80mma%E6%9C%89%E7%89%87-%E4%B8%AD%E7%92%B0%E6%B5%B7%E6%BF%B1%E6%B7%B7%E6%88%B0-%E5%85%A9%E7%94%B7%E5%9C%8D%E6%AF%86-%E5%92%8C%E5%B0%9A-%E9%81%93%E5%A3%AB%E5%8B%B8%E9%98%BB%E7%84%A1%E5%8A%9B",
     "timestamp": "2026-11-01T01:53:37.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節MMA有片｜中環海濱混戰　兩男圍毆「和尚」　道士勸阻無力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193492610778402816143765.png/B_pliU-N4AJ_qJ_PHnq8GJdvi3mIcGtD4oqmYuKKpmI",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405771/%E8%90%AC%E8%81%96%E7%AF%80mma%E6%9C%89%E7%89%87-%E4%B8%AD%E7%92%B0%E6%B5%B7%E6%BF%B1%E6%B7%B7%E6%88%B0-%E5%85%A9%E7%94%B7%E5%9C%8D%E6%AF%86-%E5%92%8C%E5%B0%9A-%E9%81%93%E5%A3%AB%E5%8B%B8%E9%98%BB%E7%84%A1%E5%8A%9B",
-    "timestamp": "2026-11-01T01:42:25.212Z",
     "strategy": ".content-card__main"
   }
 ];
