@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T16:39:14.156Z
+// Last updated: 2026-11-01T17:13:12.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧感念外婆恩情：深夜背她跑去市級醫院求醫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193241417309229056480193.jpeg/gCMpXa_imc49CUdvzLjSqDEC7PDtqBr1Z7Ru7We0bu0",
+    "url": "https://www.hk01.com/01TV/60405635/%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%84%9F%E5%BF%B5%E5%A4%96%E5%A9%86%E6%81%A9%E6%83%85-%E6%B7%B1%E5%A4%9C%E8%83%8C%E5%A5%B9%E8%B7%91%E5%8E%BB%E5%B8%82%E7%B4%9A%E9%86%AB%E9%99%A2%E6%B1%82%E9%86%AB",
+    "timestamp": "2026-11-01T17:13:12.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蓮塘口岸開通6年　累計出入境人次突破1億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193623567074332672384075.jpeg/MZB2SnuuBS90FXlTu6SB4VkVsRBQWGo4xrF7-caxe_k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405913/%E6%B3%A2%E8%98%AD%E6%86%B2%E6%94%BF%E5%8D%B1%E6%A9%9F%E8%94%93%E5%BB%B6-%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF%E8%AB%8B%E8%BE%AD%E6%8E%80%E8%B7%9F%E9%80%B2%E6%BD%AE-%E5%9C%8B%E5%85%A7%E6%94%BF%E5%B1%80%E5%8B%95%E7%9B%AA%E9%9B%A3%E5%86%8D%E5%B1%A5%E8%81%B7",
     "timestamp": "2026-11-01T10:25:25.849Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "濱崎真緒遭下藥│被落藥無色無臭難察覺 10症狀非喝醉+6招自救方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193618679183446016843025.png/CUq5pBECh-NnW5LbglCYaOs011yK0mK7XGWBTFxlgUw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405880/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E9%81%AD%E4%B8%8B%E8%97%A5-%E8%A2%AB%E8%90%BD%E8%97%A5%E7%84%A1%E8%89%B2%E7%84%A1%E8%87%AD%E9%9B%A3%E5%AF%9F%E8%A6%BA-10%E7%97%87%E7%8B%80%E9%9D%9E%E5%96%9D%E9%86%89-6%E6%8B%9B%E8%87%AA%E6%95%91%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-11-01T10:12:08.089Z",
     "strategy": ".content-card__main"
   }
 ];
