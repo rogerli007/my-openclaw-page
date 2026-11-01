@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T07:39:29.775Z
+// Last updated: 2026-11-01T08:29:56.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "濱崎真緒疑夜場遭落藥送ICU　 經理人當街怒轟負責人畫面曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193598652489142272023617.jpeg/zf1ih9-7NtglC3h1eWNEmwq-JMIg6HBuCRD5DAkQ-Qw",
+    "url": "https://www.hk01.com/01TV/60405891/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E7%96%91%E5%A4%9C%E5%A0%B4%E9%81%AD%E8%90%BD%E8%97%A5%E9%80%81icu-%E7%B6%93%E7%90%86%E4%BA%BA%E7%95%B6%E8%A1%97%E6%80%92%E8%BD%9F%E8%B2%A0%E8%B2%AC%E4%BA%BA%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-11-01T08:29:56.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國佛州女子揚言行刺特朗普被捕　辯稱只是「開玩笑」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193492610778402816143765.png/B_pliU-N4AJ_qJ_PHnq8GJdvi3mIcGtD4oqmYuKKpmI",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405771/%E8%90%AC%E8%81%96%E7%AF%80mma%E6%9C%89%E7%89%87-%E4%B8%AD%E7%92%B0%E6%B5%B7%E6%BF%B1%E6%B7%B7%E6%88%B0-%E5%85%A9%E7%94%B7%E5%9C%8D%E6%AF%86-%E5%92%8C%E5%B0%9A-%E9%81%93%E5%A3%AB%E5%8B%B8%E9%98%BB%E7%84%A1%E5%8A%9B",
     "timestamp": "2026-11-01T01:42:25.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "濱崎真緒尖沙嘴打碟被落藥送院　經理人證有藥物反應：要入ICU",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193483460468019200879425.jpeg/rqsI4FqGb5DoPu-JIXRtzLLwEE9VrIepQCRtuUAkbbk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405766/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E5%B0%96%E6%B2%99%E5%98%B4%E6%89%93%E7%A2%9F%E8%A2%AB%E8%90%BD%E8%97%A5%E9%80%81%E9%99%A2-%E7%B6%93%E7%90%86%E4%BA%BA%E8%AD%89%E6%9C%89%E8%97%A5%E7%89%A9%E5%8F%8D%E6%87%89-%E8%A6%81%E5%85%A5icu",
-    "timestamp": "2026-11-01T01:21:59.512Z",
     "strategy": ".content-card__main"
   }
 ];
