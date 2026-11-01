@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T05:14:32.782Z
+// Last updated: 2026-11-01T05:23:46.780Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DeepSeek發佈Super-agent設計探索　AI指揮AI 智能體",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193549693527789568716950.jpeg/8WQWe6U9gd5yPrEzwc0cvnH4iNS9ZUCsrlUQDq5VEA4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405817/deepseek%E7%99%BC%E4%BD%88super-agent%E8%A8%AD%E8%A8%88%E6%8E%A2%E7%B4%A2-ai%E6%8C%87%E6%8F%AEai-%E6%99%BA%E8%83%BD%E9%AB%94",
+    "timestamp": "2026-11-01T05:23:46.780Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "濱崎真緒尖沙咀打碟疑遭落藥　經理人報警：驗出Happy水等4毒品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193445349511925760270649.jpeg/cZ0Bq9r8qkkebfRhTA35ZISu-aXePnTDdDeask43mrI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60405750/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB28%E5%BA%A6-%E4%BB%8A%E5%80%8B%E6%98%9F%E6%9C%9F%E9%80%A3%E7%BA%8C%E5%A4%9A%E6%97%A5%E6%9C%89%E9%9B%A8",
     "timestamp": "2026-10-31T22:39:19.497Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日初時一兩陣微雨　最高氣溫28度　今個星期連續多日有雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193445349511925760270649.jpeg/cZ0Bq9r8qkkebfRhTA35ZISu-aXePnTDdDeask43mrI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60405750/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB28%E5%BA%A6-%E4%BB%8A%E5%80%8B%E6%98%9F%E6%9C%9F%E9%80%A3%E7%BA%8C%E5%A4%9A%E6%97%A5%E6%9C%89%E9%9B%A8",
-    "timestamp": "2026-10-31T22:23:50.480Z",
     "strategy": ".content-card__main"
   }
 ];
