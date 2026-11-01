@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T15:23:45.601Z
+// Last updated: 2026-11-01T15:39:08.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國男路邊摸貓咪遇Google街景車　預言：上地圖了　3個月後成真",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193156883679023104526847.png/oNFkKqAmgE4_9i-yFWEY7vvuGg5qt_MJ42BXtONgV7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405285/%E8%8B%B1%E5%9C%8B%E7%94%B7%E8%B7%AF%E9%82%8A%E6%91%B8%E8%B2%93%E5%92%AA%E9%81%87google%E8%A1%97%E6%99%AF%E8%BB%8A-%E9%A0%90%E8%A8%80-%E4%B8%8A%E5%9C%B0%E5%9C%96%E4%BA%86-3%E5%80%8B%E6%9C%88%E5%BE%8C%E6%88%90%E7%9C%9F",
+    "timestamp": "2026-11-01T15:39:08.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國男路邊摸貓咪遇Google街景車　預言：上地圖了　3個月後成真",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193585163267739648726951.jpeg/vgGXgSv0zweIbd93DD1Gt-bSNQg3EvVyJEj7cSRI-3E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405854/%E6%A5%8A%E6%80%9D%E7%90%A6%E8%B7%9F%E9%A2%A8%E7%BF%BB%E5%94%B1-%E5%AD%A3%E5%80%99%E9%A2%A8-%E8%A2%AB%E8%BD%9F%E6%BB%BF%E5%98%B4%E9%84%89%E9%9F%B3-%E7%96%91%E6%88%B4%E5%B1%B1%E5%AF%A8%E6%8A%AB%E8%82%A9%E5%86%8D%E6%8E%80%E7%BE%A4%E5%98%B2",
     "timestamp": "2026-11-01T09:23:34.604Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上海景點｜必行14条马路賞秋日紅葉　打卡名人故居/老洋房/博物館",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192903887225360384106754.jpeg/uRqo6R7I6TQNybED3wHoLx_xzbNFsB1OWHRKOFh0Sjg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60405381/%E4%B8%8A%E6%B5%B7%E6%99%AF%E9%BB%9E-%E5%BF%85%E8%A1%8C14%E6%9D%A1%E9%A9%AC%E8%B7%AF%E8%B3%9E%E7%A7%8B%E6%97%A5%E7%B4%85%E8%91%89-%E6%89%93%E5%8D%A1%E5%90%8D%E4%BA%BA%E6%95%85%E5%B1%85-%E8%80%81%E6%B4%8B%E6%88%BF-%E5%8D%9A%E7%89%A9%E9%A4%A8",
-    "timestamp": "2026-11-01T09:15:58.402Z",
     "strategy": ".content-card__main"
   }
 ];
