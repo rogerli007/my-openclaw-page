@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T11:53:28.294Z
+// Last updated: 2026-11-01T12:41:25.526Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "翁虹飛美國陪19歲學霸女兒劉蒔入學UCLA　揭「曾獲9所名校Offer」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191796270990102528492753.jpeg/4K07LkNtz6dqawWG24K3IJhDg_j8a8kalyyfMJcsnzA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403746/%E7%BF%81%E8%99%B9%E9%A3%9B%E7%BE%8E%E5%9C%8B%E9%99%AA19%E6%AD%B2%E5%AD%B8%E9%9C%B8%E5%A5%B3%E5%85%92%E5%8A%89%E8%92%94%E5%85%A5%E5%AD%B8ucla-%E6%8F%AD-%E6%9B%BE%E7%8D%B29%E6%89%80%E5%90%8D%E6%A0%A1offer",
+    "timestamp": "2026-11-01T12:41:25.526Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聾人七欖世錦賽｜無聲默契中見證  「聽障和健聽人士一樣做得到」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193559139796652032493876.jpeg/JOOl1s3jo6jf7zEuyGIxd2oWXcJywptUzVTtIM1U7SA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405831/%E9%99%B3%E8%8C%82%E6%B3%A2-%E6%9C%AC%E6%B8%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%95%B7%E6%96%99%E5%8B%9D%E9%A0%90%E6%9C%9F-%E5%8F%97%E6%83%A0%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%95%B7%E5%BF%AB-%E5%85%A7%E9%9C%80%E7%A9%A9%E5%81%A5",
     "timestamp": "2026-11-01T05:53:13.744Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北都馬拉松｜兩屆渣馬跑手嘆辛苦不再參加　部分路段樹根拱起易跌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193532036715909120062938.jpeg/a66FNzl5zvUQAokY8EwyhuqcrMb94otP4fB7ZOHwe2Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405810/%E5%8C%97%E9%83%BD%E9%A6%AC%E6%8B%89%E6%9D%BE-%E5%85%A9%E5%B1%86%E6%B8%A3%E9%A6%AC%E8%B7%91%E6%89%8B%E5%98%86%E8%BE%9B%E8%8B%A6%E4%B8%8D%E5%86%8D%E5%8F%83%E5%8A%A0-%E9%83%A8%E5%88%86%E8%B7%AF%E6%AE%B5%E6%A8%B9%E6%A0%B9%E6%8B%B1%E8%B5%B7%E6%98%93%E8%B7%8C",
-    "timestamp": "2026-11-01T05:39:51.245Z",
     "strategy": ".content-card__main"
   }
 ];
