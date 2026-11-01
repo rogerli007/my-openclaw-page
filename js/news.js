@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T22:26:03.109Z
+// Last updated: 2026-11-01T22:39:39.967Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "橫頭磡邨45歲女子墮樓　昏迷送院惜不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579876782542848604831.jpeg/A_i1h7LFxBgwiZU6R8PDO_vVgM31VkYjuDSNj7g0jY8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406003/%E6%A9%AB%E9%A0%AD%E7%A3%A1%E9%82%A845%E6%AD%B2%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-11-01T22:39:39.967Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "熊黛林郭可頌結婚10周年驚談分居　為女兒應承「分開」：久唔久見",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135699980867080192570326.jpeg/YBrkjAANx479AYXOTeaK89Vv79YYmpq_iq-ApoqvgKY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405989/%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A6%E5%B9%B4-%E7%B4%AF%E8%A8%88%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E7%AA%81%E7%A0%B41%E5%84%84",
     "timestamp": "2026-11-01T16:29:22.440Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國男路邊摸貓咪遇Google街景車　預言：上地圖了　3個月後成真",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193156883679023104526847.png/oNFkKqAmgE4_9i-yFWEY7vvuGg5qt_MJ42BXtONgV7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405285/%E8%8B%B1%E5%9C%8B%E7%94%B7%E8%B7%AF%E9%82%8A%E6%91%B8%E8%B2%93%E5%92%AA%E9%81%87google%E8%A1%97%E6%99%AF%E8%BB%8A-%E9%A0%90%E8%A8%80-%E4%B8%8A%E5%9C%B0%E5%9C%96%E4%BA%86-3%E5%80%8B%E6%9C%88%E5%BE%8C%E6%88%90%E7%9C%9F",
-    "timestamp": "2026-11-01T15:39:08.380Z",
     "strategy": ".content-card__main"
   }
 ];
