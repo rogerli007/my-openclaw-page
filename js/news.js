@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T06:22:24.514Z
+// Last updated: 2026-11-01T06:53:22.095Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜寶琳私家車與電單車相撞　鐵騎士受傷被困車底　警蹲地察看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193575229713027072960172.png/PHfbcyPzTQqPM5MwEFzUvFt7imx6Ms5QrNoaCazaGgk",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405841/%E6%9C%89%E7%89%87-%E5%AF%B6%E7%90%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%88%87%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%97%E5%82%B7%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%BA%95-%E8%AD%A6%E8%B9%B2%E5%9C%B0%E5%AF%9F%E7%9C%8B",
+    "timestamp": "2026-11-01T06:53:22.095Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "濱崎真緒疑遭落藥入ICU驗出毒品　醫生警告一情況或導致器官壞死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193260809636024320796104.jpeg/67EKoyKaUVBVF9Y40F8KXjcffisZk2TeYRq4y2EauMs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405619/%E9%99%B3%E6%9B%BC%E5%A8%9C%E6%80%A5%E5%88%AA%E7%9B%B8%E6%83%B9%E6%8F%A3%E6%B8%AC-%E8%96%9B%E5%AE%B6%E7%87%95%E5%85%92%E5%AD%90%E6%8A%95%E8%B3%87%E7%9F%AD%E5%8A%87%E9%99%A3%E5%AE%B9%E6%9B%9D%E5%85%89%E9%A9%9A%E8%A6%8B%E5%89%8Dtvb%E5%B0%8F%E8%8A%B1",
     "timestamp": "2026-11-01T00:37:07.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧：料特朗普與習近平將在APEC及G20峰會舉行會面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193465988926935040256347.jpeg/yYwoOev4VHOhU3dz5tjd2BDIR-zi-UG6L__F3C__xdw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405760/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E6%96%99%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%9C%A8apec%E5%8F%8Ag20%E5%B3%B0%E6%9C%83%E8%88%89%E8%A1%8C%E6%9C%83%E9%9D%A2",
-    "timestamp": "2026-10-31T23:59:02.209Z",
     "strategy": ".content-card__main"
   }
 ];
