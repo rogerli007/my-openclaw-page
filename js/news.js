@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T09:39:15.245Z
+// Last updated: 2026-11-01T10:12:08.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "濱崎真緒遭下藥│被落藥無色無臭難察覺 10症狀非喝醉+6招自救方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193618679183446016843025.png/CUq5pBECh-NnW5LbglCYaOs011yK0mK7XGWBTFxlgUw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405880/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E9%81%AD%E4%B8%8B%E8%97%A5-%E8%A2%AB%E8%90%BD%E8%97%A5%E7%84%A1%E8%89%B2%E7%84%A1%E8%87%AD%E9%9B%A3%E5%AF%9F%E8%A6%BA-10%E7%97%87%E7%8B%80%E9%9D%9E%E5%96%9D%E9%86%89-6%E6%8B%9B%E8%87%AA%E6%95%91%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-11-01T10:12:08.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "嫁金釵｜閆桉演「陸濯」非內定！7次試鏡擊敗7大當紅男星奪男主角",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523293266022400860297.jpeg/2yRy0L_6etftWqQcfO65evMFiFctWFU3ohjNPqIYzT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405799/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E9%84%A7%E7%82%B3%E5%BC%B7-%E6%88%91%E7%91%A3%E7%A2%8E%E5%83%8F%E5%A1%B5%E8%B7%9F%E7%89%B9%E9%A6%96-%E8%8B%A5%E8%AA%8D%E7%82%BA%E6%88%91%E8%A6%81%E5%AE%8C%E7%B5%90%E4%BA%A6%E8%A6%BA%E5%BE%88%E5%A5%BD",
     "timestamp": "2026-11-01T03:46:18.217Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北都馬拉松2026｜主辦方劉業強期望每年舉辦　未來賽道延伸至深圳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193505644565762048854796.jpeg/8Gk8YMHplkznLe8IyzmaXloA0yt3Xf3WUSObw3Qjm8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405796/%E5%8C%97%E9%83%BD%E9%A6%AC%E6%8B%89%E6%9D%BE2026-%E4%B8%BB%E8%BE%A6%E6%96%B9%E5%8A%89%E6%A5%AD%E5%BC%B7%E6%9C%9F%E6%9C%9B%E6%AF%8F%E5%B9%B4%E8%88%89%E8%BE%A6-%E6%9C%AA%E4%BE%86%E8%B3%BD%E9%81%93%E5%BB%B6%E4%BC%B8%E8%87%B3%E6%B7%B1%E5%9C%B3",
-    "timestamp": "2026-11-01T03:18:22.085Z",
     "strategy": ".content-card__main"
   }
 ];
