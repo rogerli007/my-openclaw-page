@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T22:39:39.967Z
+// Last updated: 2026-11-01T22:53:30.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致天晴　日間炎熱約31度　稍後有一兩陣微雨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193812246602452992610472.jpeg/b_x9fKgQ9vjIdtqgafXWK0bdbVP2jwMYNpmm2xyZpts?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60406000/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8431%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
+    "timestamp": "2026-11-01T22:53:30.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "橫頭磡邨45歲女子墮樓　昏迷送院惜不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135699980867080192570326.jpeg/YBrkjAANx479AYXOTeaK89Vv79YYmpq_iq-ApoqvgKY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405989/%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A6%E5%B9%B4-%E7%B4%AF%E8%A8%88%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E7%AA%81%E7%A0%B41%E5%84%84",
     "timestamp": "2026-11-01T16:39:14.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蓮塘口岸開通6年　累計出入境人次突破1億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135699980867080192570326.jpeg/YBrkjAANx479AYXOTeaK89Vv79YYmpq_iq-ApoqvgKY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405989/%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A6%E5%B9%B4-%E7%B4%AF%E8%A8%88%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E7%AA%81%E7%A0%B41%E5%84%84",
-    "timestamp": "2026-11-01T16:29:22.440Z",
     "strategy": ".content-card__main"
   }
 ];
