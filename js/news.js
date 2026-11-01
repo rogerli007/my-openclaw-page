@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T09:23:34.604Z
+// Last updated: 2026-11-01T09:39:15.245Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "嫁金釵｜閆桉演「陸濯」非內定！7次試鏡擊敗7大當紅男星奪男主角",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193526854959501312302678.png/EzBYUw-UyLT4a2TdfoY5WGySew4d3OvEyJ2hgcidoYE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405787/%E5%AB%81%E9%87%91%E9%87%B5-%E9%96%86%E6%A1%89%E6%BC%94-%E9%99%B8%E6%BF%AF-%E9%9D%9E%E5%85%A7%E5%AE%9A-7%E6%AC%A1%E8%A9%A6%E9%8F%A1%E6%93%8A%E6%95%977%E5%A4%A7%E7%95%B6%E7%B4%85%E7%94%B7%E6%98%9F%E5%A5%AA%E7%94%B7%E4%B8%BB%E8%A7%92",
+    "timestamp": "2026-11-01T09:39:15.245Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊思琦跟風翻唱《季候風》 被轟滿嘴鄉音　疑戴山寨披肩再掀群嘲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193505644565762048854796.jpeg/8Gk8YMHplkznLe8IyzmaXloA0yt3Xf3WUSObw3Qjm8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405796/%E5%8C%97%E9%83%BD%E9%A6%AC%E6%8B%89%E6%9D%BE2026-%E4%B8%BB%E8%BE%A6%E6%96%B9%E5%8A%89%E6%A5%AD%E5%BC%B7%E6%9C%9F%E6%9C%9B%E6%AF%8F%E5%B9%B4%E8%88%89%E8%BE%A6-%E6%9C%AA%E4%BE%86%E8%B3%BD%E9%81%93%E5%BB%B6%E4%BC%B8%E8%87%B3%E6%B7%B1%E5%9C%B3",
     "timestamp": "2026-11-01T03:18:22.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳女注射100組生長因子後臉部饅化畸形　致患抑鬱2年沒工作社交",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193512200489144320217645.jpeg/MSK5DyB139nhWFYw_4gJ6O7LnfdhYucn_AMaD_wDGg8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405785/%E6%B7%B1%E5%9C%B3%E5%A5%B3%E6%B3%A8%E5%B0%84100%E7%B5%84%E7%94%9F%E9%95%B7%E5%9B%A0%E5%AD%90%E5%BE%8C%E8%87%89%E9%83%A8%E9%A5%85%E5%8C%96%E7%95%B8%E5%BD%A2-%E8%87%B4%E6%82%A3%E6%8A%91%E9%AC%B12%E5%B9%B4%E6%B2%92%E5%B7%A5%E4%BD%9C%E7%A4%BE%E4%BA%A4",
-    "timestamp": "2026-11-01T02:59:20.911Z",
     "strategy": ".content-card__main"
   }
 ];
