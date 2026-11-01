@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T08:40:00.545Z
+// Last updated: 2026-11-01T08:54:12.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑改革｜大律師公會倡檢控寬待吹哨者　設大維修承辦商扣分制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193604080589606912975024.png/wOieI9sugHK9RwDYaPvNE28fbxGNl3LoQ8xM-EPMTPg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405888/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%94%B9%E9%9D%A9-%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E5%80%A1%E6%AA%A2%E6%8E%A7%E5%AF%AC%E5%BE%85%E5%90%B9%E5%93%A8%E8%80%85-%E8%A8%AD%E5%A4%A7%E7%B6%AD%E4%BF%AE%E6%89%BF%E8%BE%A6%E5%95%86%E6%89%A3%E5%88%86%E5%88%B6",
+    "timestamp": "2026-11-01T08:54:12.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "濱崎真緒疑遭落藥｜施用毒藥罪有例可依　直銷男迷暈3女判囚27月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193504626758914048952841.jpeg/uGALqYGh-CGrTefGTDYk5C4jf1EkYmh8o9Ly1IbS8tQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405782/%E5%8C%97%E9%83%BD%E9%A6%AC%E6%8B%89%E6%9D%BE2026-%E7%94%AF%E6%BC%A2%E8%B1%AA%E7%BC%BA%E5%B8%AD%E5%85%A8%E9%A6%AC%E4%B8%BB%E7%A6%AE-%E5%8D%8A%E9%A6%AC%E9%B3%B4%E6%A7%8D%E9%BB%83%E5%81%89%E7%B6%B8%E6%8F%9B%E6%88%90%E5%8D%93%E6%B0%B8%E8%88%88",
     "timestamp": "2026-11-01T02:24:36.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節MMA有片｜中環海濱混戰　兩男圍毆「和尚」　道士勸阻無力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193492610778402816143765.png/B_pliU-N4AJ_qJ_PHnq8GJdvi3mIcGtD4oqmYuKKpmI",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405771/%E8%90%AC%E8%81%96%E7%AF%80mma%E6%9C%89%E7%89%87-%E4%B8%AD%E7%92%B0%E6%B5%B7%E6%BF%B1%E6%B7%B7%E6%88%B0-%E5%85%A9%E7%94%B7%E5%9C%8D%E6%AF%86-%E5%92%8C%E5%B0%9A-%E9%81%93%E5%A3%AB%E5%8B%B8%E9%98%BB%E7%84%A1%E5%8A%9B",
-    "timestamp": "2026-11-01T01:53:37.270Z",
     "strategy": ".content-card__main"
   }
 ];
