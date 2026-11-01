@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T11:15:10.258Z
+// Last updated: 2026-11-01T11:23:54.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梁家輝效法胡楓永不言退拍到老　自言冇信心奪金雞獎影帝志在參與",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193632368003387392245906.jpeg/AUG3FXtdIRYOVnikBgg_s9aLuZuxdTdrhPX56YT1-ek?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405924/%E6%A2%81%E5%AE%B6%E8%BC%9D%E6%95%88%E6%B3%95%E8%83%A1%E6%A5%93%E6%B0%B8%E4%B8%8D%E8%A8%80%E9%80%80%E6%8B%8D%E5%88%B0%E8%80%81-%E8%87%AA%E8%A8%80%E5%86%87%E4%BF%A1%E5%BF%83%E5%A5%AA%E9%87%91%E9%9B%9E%E7%8D%8E%E5%BD%B1%E5%B8%9D%E5%BF%97%E5%9C%A8%E5%8F%83%E8%88%87",
+    "timestamp": "2026-11-01T11:23:54.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外傭界神級僱主！接工人姐姐老公來港兼代湊子女　供讀國際學校",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193457142900723712621457.jpeg/SL5w-dYInamV8BZ1v83ewnzNil23bvz4jysKP48rCj8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405763/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E5%B0%96%E6%B2%99%E5%92%80%E6%89%93%E7%A2%9F%E7%96%91%E9%81%AD%E8%90%BD%E8%97%A5-%E7%B6%93%E7%90%86%E4%BA%BA%E5%A0%B1%E8%AD%A6-%E9%A9%97%E5%87%BAhappy%E6%B0%B4%E7%AD%894%E6%AF%92%E5%93%81",
     "timestamp": "2026-11-01T05:14:32.782Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "袁嘉敏貝殼比堅尼逼爆危險邊緣　全方位多角度解鎖好身段一覽無遺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193507940523315200672049.jpeg/AwQGIFjjy1wdRhXLvUnsF8Yq6Oz_qloqki-ZF5IvmRc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60405783/%E8%A2%81%E5%98%89%E6%95%8F%E8%B2%9D%E6%AE%BC%E6%AF%94%E5%A0%85%E5%B0%BC%E9%80%BC%E7%88%86%E5%8D%B1%E9%9A%AA%E9%82%8A%E7%B7%A3-%E5%85%A8%E6%96%B9%E4%BD%8D%E5%A4%9A%E8%A7%92%E5%BA%A6%E8%A7%A3%E9%8E%96%E5%A5%BD%E8%BA%AB%E6%AE%B5%E4%B8%80%E8%A6%BD%E7%84%A1%E9%81%BA",
-    "timestamp": "2026-11-01T04:42:32.021Z",
     "strategy": ".content-card__main"
   }
 ];
