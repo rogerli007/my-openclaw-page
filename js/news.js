@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T23:23:42.785Z
+// Last updated: 2026-11-01T23:53:35.953Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "騰訊雲訪問｜WorkBuddy月活已達3200萬　AI項目首重growth scale",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192906792581992448649320.jpeg/LrrEMiACg0Y_PbczmxldHTtVTABsYCm74g99xeIPfcU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405450/%E9%A8%B0%E8%A8%8A%E9%9B%B2%E8%A8%AA%E5%95%8F-workbuddy%E6%9C%88%E6%B4%BB%E5%B7%B2%E9%81%943200%E8%90%AC-ai%E9%A0%85%E7%9B%AE%E9%A6%96%E9%87%8Dgrowth-scale",
+    "timestamp": "2026-11-01T23:53:35.953Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "45歲母與18歲兒合照似情侶│逆齡媽媽爆紅　零醫美3大保鮮秘訣曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193266641094316032734928.jpeg/oe0nFoaM-vazhlOjcvzGtdZ-TF9hFoE-UUR4PVFEeD0",
     "url": "https://www.hk01.com/01TV/60405675/%E9%AB%98%E6%B5%B7%E5%AF%A713%E6%AD%B2%E4%BE%86%E6%B8%AF%E6%B1%82%E5%AD%B8-%E6%94%BE%E6%A3%84%E5%8D%97%E4%BA%AC%E9%87%8D%E9%BB%9E%E4%B8%AD%E5%AD%B8%E7%9A%84%E5%90%8D%E9%A1%8D",
     "timestamp": "2026-11-01T18:24:32.130Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧13歲來港求學：放棄南京重點中學的名額",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193266641094316032734928.jpeg/oe0nFoaM-vazhlOjcvzGtdZ-TF9hFoE-UUR4PVFEeD0",
-    "url": "https://www.hk01.com/01TV/60405675/%E9%AB%98%E6%B5%B7%E5%AF%A713%E6%AD%B2%E4%BE%86%E6%B8%AF%E6%B1%82%E5%AD%B8-%E6%94%BE%E6%A3%84%E5%8D%97%E4%BA%AC%E9%87%8D%E9%BB%9E%E4%B8%AD%E5%AD%B8%E7%9A%84%E5%90%8D%E9%A1%8D",
-    "timestamp": "2026-11-01T18:15:21.355Z",
     "strategy": ".content-card__main"
   }
 ];
