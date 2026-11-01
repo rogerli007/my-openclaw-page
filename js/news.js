@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T20:18:24.765Z
+// Last updated: 2026-11-01T20:27:27.029Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧一家擠天臺屋：窗外掛巨幅海報不敢拉窗簾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193244185587617792158960.jpeg/P-fi4BxgHzNdsMwC_4WFBr0TRhfesEa_f0uhIX9LoSE",
+    "url": "https://www.hk01.com/01TV/60405640/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%80%E5%AE%B6%E6%93%A0%E5%A4%A9%E8%87%BA%E5%B1%8B-%E7%AA%97%E5%A4%96%E6%8E%9B%E5%B7%A8%E5%B9%85%E6%B5%B7%E5%A0%B1%E4%B8%8D%E6%95%A2%E6%8B%89%E7%AA%97%E7%B0%BE",
+    "timestamp": "2026-11-01T20:27:27.029Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧一家擠天臺屋：窗外掛巨幅海報不敢拉窗簾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191811182856507392258037.png/cf_VcjpeP6XU6q4DXVGjkPhg0-gMi0N9fOIWZHziFmQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60404069/%E7%94%9F%E6%AE%96%E5%99%A8%E9%81%AD%E5%A4%A7%E5%AB%82%E5%92%AC%E7%88%9B-%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%90%B5%E6%9E%B6%E8%84%AB%E8%A1%A3%E5%A8%81%E5%9A%87-%E5%BC%B1%E9%BB%9E%E8%A2%AB%E5%92%AC%E7%B8%AB55%E9%87%9D%E4%BF%9D%E5%AD%90%E5%AD%AB%E6%A0%B9",
     "timestamp": "2026-11-01T13:13:01.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玉簟秋40集迎慘烈結局！丞磊戰死沙場徐若晗守寡　網民嘆：心口悶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193603454107389952816409.png/_K1Ybr8Z3aay7DwT4TGK7fnGj_tK8WYvJwVYFCcFWBQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405876/%E7%8E%89%E7%B0%9F%E7%A7%8B40%E9%9B%86%E8%BF%8E%E6%85%98%E7%83%88%E7%B5%90%E5%B1%80-%E4%B8%9E%E7%A3%8A%E6%88%B0%E6%AD%BB%E6%B2%99%E5%A0%B4%E5%BE%90%E8%8B%A5%E6%99%97%E5%AE%88%E5%AF%A1-%E7%B6%B2%E6%B0%91%E5%98%86-%E5%BF%83%E5%8F%A3%E6%82%B6",
-    "timestamp": "2026-11-01T12:56:52.086Z",
     "strategy": ".content-card__main"
   }
 ];
