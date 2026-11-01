@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T19:23:23.341Z
+// Last updated: 2026-11-01T19:38:59.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯拘未成年疑犯　涉莫斯科景點企圖恐襲案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193761628575764480950718.jpeg/F3Pjru1kpOhbsDTs38oiUp5zgd15qiTQ_hi-q_4Yvqs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405997/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8B%98%E6%9C%AA%E6%88%90%E5%B9%B4%E7%96%91%E7%8A%AF-%E6%B6%89%E8%8E%AB%E6%96%AF%E7%A7%91%E6%99%AF%E9%BB%9E%E4%BC%81%E5%9C%96%E6%81%90%E8%A5%B2%E6%A1%88",
+    "timestamp": "2026-11-01T19:38:59.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯拘未成年疑犯　涉莫斯科景點企圖恐襲案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193645002530492416067531.jpeg/tWV1dSDiJUit7SMELxNAamd8SBASvGLVaDOiyGgzosg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405940/%E8%81%BE%E4%BA%BA%E4%B8%83%E6%AC%96%E4%B8%96%E9%8C%A6%E8%B3%BD-%E7%84%A1%E8%81%B2%E9%BB%98%E5%A5%91%E4%B8%AD%E8%A6%8B%E8%AD%89-%E8%81%BD%E9%9A%9C%E5%92%8C%E5%81%A5%E8%81%BD%E4%BA%BA%E5%A3%AB%E4%B8%80%E6%A8%A3%E5%81%9A%E5%BE%97%E5%88%B0",
     "timestamp": "2026-11-01T11:53:28.294Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前港姐王敏慈日落下性感大解放　事業線深不可測網民呼：人間胸器",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193555633647915008275463.jpeg/L1U0chQz_QGxJsjyqd3S0RG_X8Dr_T1XUpId0VKSHdE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405824/%E5%89%8D%E6%B8%AF%E5%A7%90%E7%8E%8B%E6%95%8F%E6%85%88%E6%97%A5%E8%90%BD%E4%B8%8B%E6%80%A7%E6%84%9F%E5%A4%A7%E8%A7%A3%E6%94%BE-%E4%BA%8B%E6%A5%AD%E7%B7%9A%E6%B7%B1%E4%B8%8D%E5%8F%AF%E6%B8%AC%E7%B6%B2%E6%B0%91%E5%91%BC-%E4%BA%BA%E9%96%93%E8%83%B8%E5%99%A8",
-    "timestamp": "2026-11-01T11:38:04.829Z",
     "strategy": ".content-card__main"
   }
 ];
