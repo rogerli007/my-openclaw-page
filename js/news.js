@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T10:53:25.185Z
+// Last updated: 2026-11-01T11:15:10.258Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "外傭界神級僱主！接工人姐姐老公來港兼代湊子女　供讀國際學校",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193594760065978368513980.png/YndCblo2vJu8jhQOArhNAja4z1BNFV4v5RcXy-UXF8s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405814/%E5%A4%96%E5%82%AD%E7%95%8C%E7%A5%9E%E7%B4%9A%E5%83%B1%E4%B8%BB-%E6%8E%A5%E5%B7%A5%E4%BA%BA%E5%A7%90%E5%A7%90%E8%80%81%E5%85%AC%E4%BE%86%E6%B8%AF%E5%85%BC%E4%BB%A3%E6%B9%8A%E5%AD%90%E5%A5%B3-%E4%BE%9B%E8%AE%80%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1",
+    "timestamp": "2026-11-01T11:15:10.258Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "解放軍殲-16切角不是為了匿蹤　解密垂直尾翼防顫振關鍵氣動設計",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193507940523315200672049.jpeg/AwQGIFjjy1wdRhXLvUnsF8Yq6Oz_qloqki-ZF5IvmRc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60405783/%E8%A2%81%E5%98%89%E6%95%8F%E8%B2%9D%E6%AE%BC%E6%AF%94%E5%A0%85%E5%B0%BC%E9%80%BC%E7%88%86%E5%8D%B1%E9%9A%AA%E9%82%8A%E7%B7%A3-%E5%85%A8%E6%96%B9%E4%BD%8D%E5%A4%9A%E8%A7%92%E5%BA%A6%E8%A7%A3%E9%8E%96%E5%A5%BD%E8%BA%AB%E6%AE%B5%E4%B8%80%E8%A6%BD%E7%84%A1%E9%81%BA",
     "timestamp": "2026-11-01T04:42:32.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜內地醫科畢業生轉行做上門煮飯　日做3個鐘月入5千：不後悔",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193535441119219712357169.jpeg/QO_MOS59Bjtv3V8EnLLMG-0GX-ufyTXx3l0yP95dMj8",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405811/%E6%9C%89%E7%89%87-%E5%85%A7%E5%9C%B0%E9%86%AB%E7%A7%91%E7%95%A2%E6%A5%AD%E7%94%9F%E8%BD%89%E8%A1%8C%E5%81%9A%E4%B8%8A%E9%96%80%E7%85%AE%E9%A3%AF-%E6%97%A5%E5%81%9A3%E5%80%8B%E9%90%98%E6%9C%88%E5%85%A55%E5%8D%83-%E4%B8%8D%E5%BE%8C%E6%82%94",
-    "timestamp": "2026-11-01T04:26:44.613Z",
     "strategy": ".content-card__main"
   }
 ];
