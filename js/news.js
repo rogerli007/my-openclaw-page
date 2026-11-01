@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T05:53:13.744Z
+// Last updated: 2026-11-01T06:22:24.514Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "濱崎真緒疑遭落藥入ICU驗出毒品　醫生警告一情況或導致器官壞死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193565831548637184809365.jpeg/d4cXskvKT1r0tuY4c-fkBxZN4AJ534FmpMiJo6TIiaM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405837/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E7%96%91%E9%81%AD%E8%90%BD%E8%97%A5%E5%85%A5icu%E9%A9%97%E5%87%BA%E6%AF%92%E5%93%81-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E4%B8%80%E6%83%85%E6%B3%81%E6%88%96%E5%B0%8E%E8%87%B4%E5%99%A8%E5%AE%98%E5%A3%9E%E6%AD%BB",
+    "timestamp": "2026-11-01T06:22:24.514Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳茂波：本港第三季經濟增長料勝預期　受惠出口增長快、內需穩健",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193465988926935040256347.jpeg/yYwoOev4VHOhU3dz5tjd2BDIR-zi-UG6L__F3C__xdw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405760/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E6%96%99%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E5%9C%A8apec%E5%8F%8Ag20%E5%B3%B0%E6%9C%83%E8%88%89%E8%A1%8C%E6%9C%83%E9%9D%A2",
     "timestamp": "2026-10-31T23:59:02.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜民主黨塔拉里科擅用聖經批特朗普　德州成關鍵議席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193428262559158272650917.jpeg/Lb1GyfOCaMTRF-kRO8ixd77zZpBIpHQEHvd8ER73fBE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405757/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%A1%94%E6%8B%89%E9%87%8C%E7%A7%91%E6%93%85%E7%94%A8%E8%81%96%E7%B6%93%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BE%B7%E5%B7%9E%E6%88%90%E9%97%9C%E9%8D%B5%E8%AD%B0%E5%B8%AD",
-    "timestamp": "2026-10-31T23:43:47.294Z",
     "strategy": ".content-card__main"
   }
 ];
