@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T10:39:16.811Z
+// Last updated: 2026-11-01T10:53:25.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "解放軍殲-16切角不是為了匿蹤　解密垂直尾翼防顫振關鍵氣動設計",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230101/686238719253942272637859.jpeg/sTPoq-1VnwaleaxXRfcl9X3PwX-uLJVGXu53rV7ud60?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401701/%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%AE%B2-16%E5%88%87%E8%A7%92%E4%B8%8D%E6%98%AF%E7%82%BA%E4%BA%86%E5%8C%BF%E8%B9%A4-%E8%A7%A3%E5%AF%86%E5%9E%82%E7%9B%B4%E5%B0%BE%E7%BF%BC%E9%98%B2%E9%A1%AB%E6%8C%AF%E9%97%9C%E9%8D%B5%E6%B0%A3%E5%8B%95%E8%A8%AD%E8%A8%88",
+    "timestamp": "2026-11-01T10:53:25.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "解放軍殲-16切角不是為了匿蹤　解密垂直尾翼防顫振關鍵氣動設計",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193535441119219712357169.jpeg/QO_MOS59Bjtv3V8EnLLMG-0GX-ufyTXx3l0yP95dMj8",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405811/%E6%9C%89%E7%89%87-%E5%85%A7%E5%9C%B0%E9%86%AB%E7%A7%91%E7%95%A2%E6%A5%AD%E7%94%9F%E8%BD%89%E8%A1%8C%E5%81%9A%E4%B8%8A%E9%96%80%E7%85%AE%E9%A3%AF-%E6%97%A5%E5%81%9A3%E5%80%8B%E9%90%98%E6%9C%88%E5%85%A55%E5%8D%83-%E4%B8%8D%E5%BE%8C%E6%82%94",
     "timestamp": "2026-11-01T04:26:44.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "最慘$8000萬六合彩│港男完美錯開頭獎號碼　網民教1招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193535155277402112751463.jpeg/7DKdXqBpxq8AbAZAhKaX-aInoKwhMAPa_MozYfzKM2E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405805/%E6%9C%80%E6%85%98-8000%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9-%E6%B8%AF%E7%94%B7%E5%AE%8C%E7%BE%8E%E9%8C%AF%E9%96%8B%E9%A0%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E7%B6%B2%E6%B0%91%E6%95%991%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-11-01T04:18:05.180Z",
     "strategy": ".content-card__main"
   }
 ];
