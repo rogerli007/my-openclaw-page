@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T14:42:08.302Z
+// Last updated: 2026-11-01T14:57:16.017Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "手球中超總決賽｜港隊險勝安徽奪季　羅淑佩觀戰：興奮到不得了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193686320833105920583906.jpeg/9vGZtO33fq3GS1fu3FMd9KkwES8PwCMloAtb5qALW-Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405951/%E6%89%8B%E7%90%83%E4%B8%AD%E8%B6%85%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E9%9A%AA%E5%8B%9D%E5%AE%89%E5%BE%BD%E5%A5%AA%E5%AD%A3-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%A7%80%E6%88%B0-%E8%88%88%E5%A5%AE%E5%88%B0%E4%B8%8D%E5%BE%97%E4%BA%86",
+    "timestamp": "2026-11-01T14:57:16.017Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "手球中超總決賽｜港隊險勝安徽奪季　羅淑佩觀戰：興奮到不得了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193604080589606912975024.png/wOieI9sugHK9RwDYaPvNE28fbxGNl3LoQ8xM-EPMTPg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405888/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%94%B9%E9%9D%A9-%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E5%80%A1%E6%AA%A2%E6%8E%A7%E5%AF%AC%E5%BE%85%E5%90%B9%E5%93%A8%E8%80%85-%E8%A8%AD%E5%A4%A7%E7%B6%AD%E4%BF%AE%E6%89%BF%E8%BE%A6%E5%95%86%E6%89%A3%E5%88%86%E5%88%B6",
     "timestamp": "2026-11-01T08:54:12.884Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "濱崎真緒疑遭落藥｜施用毒藥罪有例可依　直銷男迷暈3女判囚27月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193597422178144256530928.jpeg/ICVSs6c8mQ-3omvLpiFO7ABlsvCmCzV1hFZYRKFWWEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405874/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E7%96%91%E9%81%AD%E8%90%BD%E8%97%A5-%E6%96%BD%E7%94%A8%E6%AF%92%E8%97%A5%E7%BD%AA%E6%9C%89%E4%BE%8B%E5%8F%AF%E4%BE%9D-%E7%9B%B4%E9%8A%B7%E7%94%B7%E8%BF%B7%E6%9A%883%E5%A5%B3%E5%88%A4%E5%9B%9A27%E6%9C%88",
-    "timestamp": "2026-11-01T08:40:00.545Z",
     "strategy": ".content-card__main"
   }
 ];
