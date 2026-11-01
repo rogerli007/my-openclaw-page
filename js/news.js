@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T04:42:32.021Z
+// Last updated: 2026-11-01T05:14:32.782Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "濱崎真緒尖沙咀打碟疑遭落藥　經理人報警：驗出Happy水等4毒品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193457142900723712621457.jpeg/SL5w-dYInamV8BZ1v83ewnzNil23bvz4jysKP48rCj8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405763/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E5%B0%96%E6%B2%99%E5%92%80%E6%89%93%E7%A2%9F%E7%96%91%E9%81%AD%E8%90%BD%E8%97%A5-%E7%B6%93%E7%90%86%E4%BA%BA%E5%A0%B1%E8%AD%A6-%E9%A9%97%E5%87%BAhappy%E6%B0%B4%E7%AD%894%E6%AF%92%E5%93%81",
+    "timestamp": "2026-11-01T05:14:32.782Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "袁嘉敏貝殼比堅尼逼爆危險邊緣　全方位多角度解鎖好身段一覽無遺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193445349511925760270649.jpeg/cZ0Bq9r8qkkebfRhTA35ZISu-aXePnTDdDeask43mrI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60405750/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB28%E5%BA%A6-%E4%BB%8A%E5%80%8B%E6%98%9F%E6%9C%9F%E9%80%A3%E7%BA%8C%E5%A4%9A%E6%97%A5%E6%9C%89%E9%9B%A8",
     "timestamp": "2026-10-31T22:23:50.480Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車主屋苑內驚遇同車牌車輛！埋伏一周拍照　犯人被捕揭造假原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192850887207292928379861.png/geZvDmx4Wvt0LYkc7fLIwOo-ZgyOcvpH1Rory9UaK8s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404866/%E8%BB%8A%E4%B8%BB%E5%B1%8B%E8%8B%91%E5%85%A7%E9%A9%9A%E9%81%87%E5%90%8C%E8%BB%8A%E7%89%8C%E8%BB%8A%E8%BC%9B-%E5%9F%8B%E4%BC%8F%E4%B8%80%E5%91%A8%E6%8B%8D%E7%85%A7-%E7%8A%AF%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%8F%AD%E9%80%A0%E5%81%87%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-10-31T22:18:44.258Z",
     "strategy": ".content-card__main"
   }
 ];
