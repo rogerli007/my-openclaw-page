@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T04:26:44.613Z
+// Last updated: 2026-11-01T04:42:32.021Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "袁嘉敏貝殼比堅尼逼爆危險邊緣　全方位多角度解鎖好身段一覽無遺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193507940523315200672049.jpeg/AwQGIFjjy1wdRhXLvUnsF8Yq6Oz_qloqki-ZF5IvmRc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60405783/%E8%A2%81%E5%98%89%E6%95%8F%E8%B2%9D%E6%AE%BC%E6%AF%94%E5%A0%85%E5%B0%BC%E9%80%BC%E7%88%86%E5%8D%B1%E9%9A%AA%E9%82%8A%E7%B7%A3-%E5%85%A8%E6%96%B9%E4%BD%8D%E5%A4%9A%E8%A7%92%E5%BA%A6%E8%A7%A3%E9%8E%96%E5%A5%BD%E8%BA%AB%E6%AE%B5%E4%B8%80%E8%A6%BD%E7%84%A1%E9%81%BA",
+    "timestamp": "2026-11-01T04:42:32.021Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜內地醫科畢業生轉行做上門煮飯　日做3個鐘月入5千：不後悔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192850887207292928379861.png/geZvDmx4Wvt0LYkc7fLIwOo-ZgyOcvpH1Rory9UaK8s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60404866/%E8%BB%8A%E4%B8%BB%E5%B1%8B%E8%8B%91%E5%85%A7%E9%A9%9A%E9%81%87%E5%90%8C%E8%BB%8A%E7%89%8C%E8%BB%8A%E8%BC%9B-%E5%9F%8B%E4%BC%8F%E4%B8%80%E5%91%A8%E6%8B%8D%E7%85%A7-%E7%8A%AF%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%8F%AD%E9%80%A0%E5%81%87%E5%8E%9F%E5%9B%A0",
     "timestamp": "2026-10-31T22:18:44.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坑口公共單車泊位　9輛單車遭縱火燒毀　警追緝歹徒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193427909780443136506273.jpeg/lmr4SP1YdcO2otPoUYwPduzoecqsDJUv1zzRju080Y4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405758/%E5%9D%91%E5%8F%A3%E5%85%AC%E5%85%B1%E5%96%AE%E8%BB%8A%E6%B3%8A%E4%BD%8D-9%E8%BC%9B%E5%96%AE%E8%BB%8A%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
-    "timestamp": "2026-10-31T21:40:23.302Z",
     "strategy": ".content-card__main"
   }
 ];
