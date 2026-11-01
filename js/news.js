@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T17:13:12.046Z
+// Last updated: 2026-11-01T18:15:21.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧13歲來港求學：放棄南京重點中學的名額",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193266641094316032734928.jpeg/oe0nFoaM-vazhlOjcvzGtdZ-TF9hFoE-UUR4PVFEeD0",
+    "url": "https://www.hk01.com/01TV/60405675/%E9%AB%98%E6%B5%B7%E5%AF%A713%E6%AD%B2%E4%BE%86%E6%B8%AF%E6%B1%82%E5%AD%B8-%E6%94%BE%E6%A3%84%E5%8D%97%E4%BA%AC%E9%87%8D%E9%BB%9E%E4%B8%AD%E5%AD%B8%E7%9A%84%E5%90%8D%E9%A1%8D",
+    "timestamp": "2026-11-01T18:15:21.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧感念外婆恩情：深夜背她跑去市級醫院求醫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230101/686238719253942272637859.jpeg/sTPoq-1VnwaleaxXRfcl9X3PwX-uLJVGXu53rV7ud60?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401701/%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%AE%B2-16%E5%88%87%E8%A7%92%E4%B8%8D%E6%98%AF%E7%82%BA%E4%BA%86%E5%8C%BF%E8%B9%A4-%E8%A7%A3%E5%AF%86%E5%9E%82%E7%9B%B4%E5%B0%BE%E7%BF%BC%E9%98%B2%E9%A1%AB%E6%8C%AF%E9%97%9C%E9%8D%B5%E6%B0%A3%E5%8B%95%E8%A8%AD%E8%A8%88",
     "timestamp": "2026-11-01T10:39:16.811Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "波蘭憲政危機蔓延　駐華大使請辭掀跟進潮：國內政局動盪難再履職",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193623567074332672384075.jpeg/MZB2SnuuBS90FXlTu6SB4VkVsRBQWGo4xrF7-caxe_k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405913/%E6%B3%A2%E8%98%AD%E6%86%B2%E6%94%BF%E5%8D%B1%E6%A9%9F%E8%94%93%E5%BB%B6-%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF%E8%AB%8B%E8%BE%AD%E6%8E%80%E8%B7%9F%E9%80%B2%E6%BD%AE-%E5%9C%8B%E5%85%A7%E6%94%BF%E5%B1%80%E5%8B%95%E7%9B%AA%E9%9B%A3%E5%86%8D%E5%B1%A5%E8%81%B7",
-    "timestamp": "2026-11-01T10:25:25.849Z",
     "strategy": ".content-card__main"
   }
 ];
