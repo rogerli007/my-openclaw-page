@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T18:24:32.130Z
+// Last updated: 2026-11-01T18:59:04.636Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜阿仙奴作客1：0勝利物浦　夏維斯居功",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193742612368986112415328.jpeg/6MusxY3a6IIWm4vU2InqPNIGYyW6-chf97fsc_e37HM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405995/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-0%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E7%B6%AD%E6%96%AF%E5%B1%85%E5%8A%9F",
+    "timestamp": "2026-11-01T18:59:04.636Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧13歲來港求學：放棄南京重點中學的名額",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193594760065978368513980.png/YndCblo2vJu8jhQOArhNAja4z1BNFV4v5RcXy-UXF8s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405814/%E5%A4%96%E5%82%AD%E7%95%8C%E7%A5%9E%E7%B4%9A%E5%83%B1%E4%B8%BB-%E6%8E%A5%E5%B7%A5%E4%BA%BA%E5%A7%90%E5%A7%90%E8%80%81%E5%85%AC%E4%BE%86%E6%B8%AF%E5%85%BC%E4%BB%A3%E6%B9%8A%E5%AD%90%E5%A5%B3-%E4%BE%9B%E8%AE%80%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1",
     "timestamp": "2026-11-01T11:15:10.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "解放軍殲-16切角不是為了匿蹤　解密垂直尾翼防顫振關鍵氣動設計",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230101/686238719253942272637859.jpeg/sTPoq-1VnwaleaxXRfcl9X3PwX-uLJVGXu53rV7ud60?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401701/%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%AE%B2-16%E5%88%87%E8%A7%92%E4%B8%8D%E6%98%AF%E7%82%BA%E4%BA%86%E5%8C%BF%E8%B9%A4-%E8%A7%A3%E5%AF%86%E5%9E%82%E7%9B%B4%E5%B0%BE%E7%BF%BC%E9%98%B2%E9%A1%AB%E6%8C%AF%E9%97%9C%E9%8D%B5%E6%B0%A3%E5%8B%95%E8%A8%AD%E8%A8%88",
-    "timestamp": "2026-11-01T10:53:25.185Z",
     "strategy": ".content-card__main"
   }
 ];
