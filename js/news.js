@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T21:23:40.722Z
+// Last updated: 2026-11-01T21:44:49.323Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜阿仙奴14年來作客首勝利物浦  添巴拉衫未罰12碼惹爭議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193797916964163584905241.jpeg/iEDKPF5_SO5NVLTUMDhb-1ejT-6pwEvvLS2_HC0tvxw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406001/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B414%E5%B9%B4%E4%BE%86%E4%BD%9C%E5%AE%A2%E9%A6%96%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E6%B7%BB%E5%B7%B4%E6%8B%89%E8%A1%AB%E6%9C%AA%E7%BD%B012%E7%A2%BC%E6%83%B9%E7%88%AD%E8%AD%B0",
+    "timestamp": "2026-11-01T21:44:49.323Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙特聯軍：對胡塞武裝目標實施了精準打擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193686320833105920583906.jpeg/9vGZtO33fq3GS1fu3FMd9KkwES8PwCMloAtb5qALW-Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405951/%E6%89%8B%E7%90%83%E4%B8%AD%E8%B6%85%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E9%9A%AA%E5%8B%9D%E5%AE%89%E5%BE%BD%E5%A5%AA%E5%AD%A3-%E7%BE%85%E6%B7%91%E4%BD%A9%E8%A7%80%E6%88%B0-%E8%88%88%E5%A5%AE%E5%88%B0%E4%B8%8D%E5%BE%97%E4%BA%86",
     "timestamp": "2026-11-01T14:42:08.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜賀錦麗籲大到不能操縱的投票率　轟特朗普腐敗無能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250501/994638695157993472428671.jpeg/ltWJ9Hk32h5oOkrser9yLgkysyro2Ise6fIgQ-nyIEM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405945/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%B3%80%E9%8C%A6%E9%BA%97%E7%B1%B2%E5%A4%A7%E5%88%B0%E4%B8%8D%E8%83%BD%E6%93%8D%E7%B8%B1%E7%9A%84%E6%8A%95%E7%A5%A8%E7%8E%87-%E8%BD%9F%E7%89%B9%E6%9C%97%E6%99%AE%E8%85%90%E6%95%97%E7%84%A1%E8%83%BD",
-    "timestamp": "2026-11-01T14:13:02.201Z",
     "strategy": ".content-card__main"
   }
 ];
