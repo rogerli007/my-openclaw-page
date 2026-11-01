@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T09:15:58.402Z
+// Last updated: 2026-11-01T09:23:34.604Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊思琦跟風翻唱《季候風》 被轟滿嘴鄉音　疑戴山寨披肩再掀群嘲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193585163267739648726951.jpeg/vgGXgSv0zweIbd93DD1Gt-bSNQg3EvVyJEj7cSRI-3E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405854/%E6%A5%8A%E6%80%9D%E7%90%A6%E8%B7%9F%E9%A2%A8%E7%BF%BB%E5%94%B1-%E5%AD%A3%E5%80%99%E9%A2%A8-%E8%A2%AB%E8%BD%9F%E6%BB%BF%E5%98%B4%E9%84%89%E9%9F%B3-%E7%96%91%E6%88%B4%E5%B1%B1%E5%AF%A8%E6%8A%AB%E8%82%A9%E5%86%8D%E6%8E%80%E7%BE%A4%E5%98%B2",
+    "timestamp": "2026-11-01T09:23:34.604Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上海景點｜必行14条马路賞秋日紅葉　打卡名人故居/老洋房/博物館",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193512200489144320217645.jpeg/MSK5DyB139nhWFYw_4gJ6O7LnfdhYucn_AMaD_wDGg8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405785/%E6%B7%B1%E5%9C%B3%E5%A5%B3%E6%B3%A8%E5%B0%84100%E7%B5%84%E7%94%9F%E9%95%B7%E5%9B%A0%E5%AD%90%E5%BE%8C%E8%87%89%E9%83%A8%E9%A5%85%E5%8C%96%E7%95%B8%E5%BD%A2-%E8%87%B4%E6%82%A3%E6%8A%91%E9%AC%B12%E5%B9%B4%E6%B2%92%E5%B7%A5%E4%BD%9C%E7%A4%BE%E4%BA%A4",
     "timestamp": "2026-11-01T02:59:20.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節MMA有片｜Wine & Dine三男混戰　網民：美酒加自由搏擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193509891994554368821340.png/7-Soc8kupav65-AY8T9rlJ0rUE-Mku7_NGzurDRs7qw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405774/%E8%90%AC%E8%81%96%E7%AF%80mma%E6%9C%89%E7%89%87-wine-dine%E4%B8%89%E7%94%B7%E6%B7%B7%E6%88%B0-%E7%B6%B2%E6%B0%91-%E7%BE%8E%E9%85%92%E5%8A%A0%E8%87%AA%E7%94%B1%E6%90%8F%E6%93%8A",
-    "timestamp": "2026-11-01T02:41:26.416Z",
     "strategy": ".content-card__main"
   }
 ];
