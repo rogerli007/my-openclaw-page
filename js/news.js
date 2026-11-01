@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T01:42:25.212Z
+// Last updated: 2026-11-01T01:53:37.270Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節MMA有片｜中環海濱混戰　兩男圍毆「和尚」　道士勸阻無力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193492610778402816143765.png/B_pliU-N4AJ_qJ_PHnq8GJdvi3mIcGtD4oqmYuKKpmI",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405771/%E8%90%AC%E8%81%96%E7%AF%80mma%E6%9C%89%E7%89%87-%E4%B8%AD%E7%92%B0%E6%B5%B7%E6%BF%B1%E6%B7%B7%E6%88%B0-%E5%85%A9%E7%94%B7%E5%9C%8D%E6%AF%86-%E5%92%8C%E5%B0%9A-%E9%81%93%E5%A3%AB%E5%8B%B8%E9%98%BB%E7%84%A1%E5%8A%9B",
+    "timestamp": "2026-11-01T01:53:37.270Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節MMA有片｜中環海濱混戰　兩男圍毆「和尚」　道士勸阻無力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193266179821539328719283.jpeg/ZlyIiCEkP3XeuhEgP8G4OpqiskWp-0aOKanZGSmp2Rk",
     "url": "https://www.hk01.com/01TV/60405674/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%AB%87%E5%82%B3%E7%B5%B1%E7%AB%A5%E5%B9%B4%E6%99%BA%E6%85%A7-%E4%BA%95%E6%B0%B4%E6%B5%B8%E8%A5%BF%E7%93%9C%E8%88%87%E6%89%8B%E5%B7%A5%E7%B8%AB%E8%A1%A3",
     "timestamp": "2026-10-31T19:17:35.345Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節直擊中環巴士站半百人等B13尾班車北上　城巴臨時調車疏導",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193387625038221312987436.jpeg/RUBGR7uhr_tgduLVDDXFXKi1zEGlkO5yZ2scE0JrHBM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405749/%E8%90%AC%E8%81%96%E7%AF%80%E7%9B%B4%E6%93%8A%E4%B8%AD%E7%92%B0%E5%B7%B4%E5%A3%AB%E7%AB%99%E5%8D%8A%E7%99%BE%E4%BA%BA%E7%AD%89b13%E5%B0%BE%E7%8F%AD%E8%BB%8A%E5%8C%97%E4%B8%8A-%E5%9F%8E%E5%B7%B4%E8%87%A8%E6%99%82%E8%AA%BF%E8%BB%8A%E7%96%8F%E5%B0%8E",
-    "timestamp": "2026-10-31T18:53:13.507Z",
     "strategy": ".content-card__main"
   }
 ];
