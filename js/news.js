@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T22:53:30.794Z
+// Last updated: 2026-11-01T23:13:18.350Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "十大屋苑周末錄8宗成交　按周回升33.3%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250217/968225726950019072340968.jpeg/56vWwe7I1md5_U0GGUspuH7Iy7N54roBjPy1oLr8taA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60405958/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB%E9%8C%848%E5%AE%97%E6%88%90%E4%BA%A4-%E6%8C%89%E5%91%A8%E5%9B%9E%E5%8D%8733-3",
+    "timestamp": "2026-11-01T23:13:18.350Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致天晴　日間炎熱約31度　稍後有一兩陣微雨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193241417309229056480193.jpeg/gCMpXa_imc49CUdvzLjSqDEC7PDtqBr1Z7Ru7We0bu0",
     "url": "https://www.hk01.com/01TV/60405635/%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%84%9F%E5%BF%B5%E5%A4%96%E5%A9%86%E6%81%A9%E6%83%85-%E6%B7%B1%E5%A4%9C%E8%83%8C%E5%A5%B9%E8%B7%91%E5%8E%BB%E5%B8%82%E7%B4%9A%E9%86%AB%E9%99%A2%E6%B1%82%E9%86%AB",
     "timestamp": "2026-11-01T17:13:12.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蓮塘口岸開通6年　累計出入境人次突破1億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135699980867080192570326.jpeg/YBrkjAANx479AYXOTeaK89Vv79YYmpq_iq-ApoqvgKY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405989/%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A6%E5%B9%B4-%E7%B4%AF%E8%A8%88%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E7%AA%81%E7%A0%B41%E5%84%84",
-    "timestamp": "2026-11-01T16:39:14.156Z",
     "strategy": ".content-card__main"
   }
 ];
