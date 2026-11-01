@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T05:39:51.245Z
+// Last updated: 2026-11-01T05:53:13.744Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳茂波：本港第三季經濟增長料勝預期　受惠出口增長快、內需穩健",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193559139796652032493876.jpeg/JOOl1s3jo6jf7zEuyGIxd2oWXcJywptUzVTtIM1U7SA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405831/%E9%99%B3%E8%8C%82%E6%B3%A2-%E6%9C%AC%E6%B8%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%95%B7%E6%96%99%E5%8B%9D%E9%A0%90%E6%9C%9F-%E5%8F%97%E6%83%A0%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%95%B7%E5%BF%AB-%E5%85%A7%E9%9C%80%E7%A9%A9%E5%81%A5",
+    "timestamp": "2026-11-01T05:53:13.744Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北都馬拉松｜兩屆渣馬跑手嘆辛苦不再參加　部分路段樹根拱起易跌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193428262559158272650917.jpeg/Lb1GyfOCaMTRF-kRO8ixd77zZpBIpHQEHvd8ER73fBE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405757/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%A1%94%E6%8B%89%E9%87%8C%E7%A7%91%E6%93%85%E7%94%A8%E8%81%96%E7%B6%93%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE-%E5%BE%B7%E5%B7%9E%E6%88%90%E9%97%9C%E9%8D%B5%E8%AD%B0%E5%B8%AD",
     "timestamp": "2026-10-31T23:43:47.294Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI巨頭狂掃日本50噸舊書　掃描即切碎　罕見文獻面臨「永久蒸發」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193294441234829312318905.png/n-tZ5OMk2HXipAu0bZRkhbBOCLZwHLzMDklGdw5JRnc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60395231/ai%E5%B7%A8%E9%A0%AD%E7%8B%82%E6%8E%83%E6%97%A5%E6%9C%AC50%E5%99%B8%E8%88%8A%E6%9B%B8-%E6%8E%83%E6%8F%8F%E5%8D%B3%E5%88%87%E7%A2%8E-%E7%BD%95%E8%A6%8B%E6%96%87%E7%8D%BB%E9%9D%A2%E8%87%A8-%E6%B0%B8%E4%B9%85%E8%92%B8%E7%99%BC",
-    "timestamp": "2026-10-31T23:23:35.370Z",
     "strategy": ".content-card__main"
   }
 ];
