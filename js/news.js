@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T02:41:26.416Z
+// Last updated: 2026-11-01T02:59:20.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳女注射100組生長因子後臉部饅化畸形　致患抑鬱2年沒工作社交",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193512200489144320217645.jpeg/MSK5DyB139nhWFYw_4gJ6O7LnfdhYucn_AMaD_wDGg8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405785/%E6%B7%B1%E5%9C%B3%E5%A5%B3%E6%B3%A8%E5%B0%84100%E7%B5%84%E7%94%9F%E9%95%B7%E5%9B%A0%E5%AD%90%E5%BE%8C%E8%87%89%E9%83%A8%E9%A5%85%E5%8C%96%E7%95%B8%E5%BD%A2-%E8%87%B4%E6%82%A3%E6%8A%91%E9%AC%B12%E5%B9%B4%E6%B2%92%E5%B7%A5%E4%BD%9C%E7%A4%BE%E4%BA%A4",
+    "timestamp": "2026-11-01T02:59:20.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬聖節MMA有片｜Wine & Dine三男混戰　網民：美酒加自由搏擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193240437867941888568412.jpeg/CzJjYBAZ9qGQ42-2p7taWHhIRHFy_sbrXw59NV8OfTU",
     "url": "https://www.hk01.com/01TV/60405632/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A2%AB%E5%AF%84%E9%A4%8A%E5%A4%96%E5%A9%86%E5%AE%B6-%E9%9B%96%E7%BC%BA%E4%B9%8F%E7%88%B6%E6%AF%8D%E9%99%AA%E4%BC%B4%E4%BD%86%E6%84%9B%E4%B8%8D%E7%BC%BA%E5%B8%AD",
     "timestamp": "2026-10-31T20:13:26.186Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧談傳統童年智慧 井水浸西瓜與手工縫衣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193266179821539328719283.jpeg/ZlyIiCEkP3XeuhEgP8G4OpqiskWp-0aOKanZGSmp2Rk",
-    "url": "https://www.hk01.com/01TV/60405674/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%AB%87%E5%82%B3%E7%B5%B1%E7%AB%A5%E5%B9%B4%E6%99%BA%E6%85%A7-%E4%BA%95%E6%B0%B4%E6%B5%B8%E8%A5%BF%E7%93%9C%E8%88%87%E6%89%8B%E5%B7%A5%E7%B8%AB%E8%A1%A3",
-    "timestamp": "2026-10-31T19:55:44.257Z",
     "strategy": ".content-card__main"
   }
 ];
