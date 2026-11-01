@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T01:02:07.268Z
+// Last updated: 2026-11-01T01:21:59.512Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "濱崎真緒尖沙嘴打碟被落藥送院　經理人證有藥物反應：要入ICU",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193483460468019200879425.jpeg/rqsI4FqGb5DoPu-JIXRtzLLwEE9VrIepQCRtuUAkbbk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405766/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E5%B0%96%E6%B2%99%E5%98%B4%E6%89%93%E7%A2%9F%E8%A2%AB%E8%90%BD%E8%97%A5%E9%80%81%E9%99%A2-%E7%B6%93%E7%90%86%E4%BA%BA%E8%AD%89%E6%9C%89%E8%97%A5%E7%89%A9%E5%8F%8D%E6%87%89-%E8%A6%81%E5%85%A5icu",
+    "timestamp": "2026-11-01T01:21:59.512Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "財經視野｜美國前1%家庭坐擁32.5%財富　誰來消費？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193387625038221312987436.jpeg/RUBGR7uhr_tgduLVDDXFXKi1zEGlkO5yZ2scE0JrHBM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405749/%E8%90%AC%E8%81%96%E7%AF%80%E7%9B%B4%E6%93%8A%E4%B8%AD%E7%92%B0%E5%B7%B4%E5%A3%AB%E7%AB%99%E5%8D%8A%E7%99%BE%E4%BA%BA%E7%AD%89b13%E5%B0%BE%E7%8F%AD%E8%BB%8A%E5%8C%97%E4%B8%8A-%E5%9F%8E%E5%B7%B4%E8%87%A8%E6%99%82%E8%AA%BF%E8%BB%8A%E7%96%8F%E5%B0%8E",
     "timestamp": "2026-10-31T18:39:29.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬聖節｜旺角600人等上車去新皇崗口岸　旅客大讚：比預想中快",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193372384569069568901326.jpeg/NpJ7LoiNUT8xlqYy7yClkm1QTdPI58eLF4Na9xeDWvc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405746/%E8%90%AC%E8%81%96%E7%AF%80-%E6%97%BA%E8%A7%92600%E4%BA%BA%E7%AD%89%E4%B8%8A%E8%BB%8A%E5%8E%BB%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%97%85%E5%AE%A2%E5%A4%A7%E8%AE%9A-%E6%AF%94%E9%A0%90%E6%83%B3%E4%B8%AD%E5%BF%AB",
-    "timestamp": "2026-10-31T18:30:24.722Z",
     "strategy": ".content-card__main"
   }
 ];
