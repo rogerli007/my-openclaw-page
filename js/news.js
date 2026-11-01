@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-10-31T23:59:02.209Z
+// Last updated: 2026-11-01T00:37:07.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳曼娜急刪相惹揣測！薛家燕兒子投資短劇陣容曝光驚見前TVB小花",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193260809636024320796104.jpeg/67EKoyKaUVBVF9Y40F8KXjcffisZk2TeYRq4y2EauMs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405619/%E9%99%B3%E6%9B%BC%E5%A8%9C%E6%80%A5%E5%88%AA%E7%9B%B8%E6%83%B9%E6%8F%A3%E6%B8%AC-%E8%96%9B%E5%AE%B6%E7%87%95%E5%85%92%E5%AD%90%E6%8A%95%E8%B3%87%E7%9F%AD%E5%8A%87%E9%99%A3%E5%AE%B9%E6%9B%9D%E5%85%89%E9%A9%9A%E8%A6%8B%E5%89%8Dtvb%E5%B0%8F%E8%8A%B1",
+    "timestamp": "2026-11-01T00:37:07.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧：料特朗普與習近平將在APEC及G20峰會舉行會面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193239241740521472019673.jpeg/cM9FnKKfhIyyNdQ5DC6FwHn7laJrkAekzu4XH87uFx8",
     "url": "https://www.hk01.com/01TV/60405630/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%9B%9E%E6%86%B6%E5%8D%97%E4%BA%AC%E7%AB%A5%E5%B9%B4-%E6%B2%92%E7%94%A8%E9%81%8E%E9%A6%AC%E6%A1%B6%E7%9A%84%E8%88%8A%E6%99%82%E4%BB%A3%E9%AB%94%E9%A9%97",
     "timestamp": "2026-10-31T18:15:35.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "駐日美軍沖繩違宵禁令酒後駕駛被捕　體內酒精含量超標2倍以上",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193367678522232832675391.jpeg/AlQ70UnZ-QQncUOY6XJ_NA42JDPuKXd6pL_rWaS_61k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405742/%E9%A7%90%E6%97%A5%E7%BE%8E%E8%BB%8D%E6%B2%96%E7%B9%A9%E9%81%95%E5%AE%B5%E7%A6%81%E4%BB%A4%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B%E8%A2%AB%E6%8D%95-%E9%AB%94%E5%85%A7%E9%85%92%E7%B2%BE%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%992%E5%80%8D%E4%BB%A5%E4%B8%8A",
-    "timestamp": "2026-10-31T17:39:14.111Z",
     "strategy": ".content-card__main"
   }
 ];
