@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T20:53:35.887Z
+// Last updated: 2026-11-01T21:23:40.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特聯軍：對胡塞武裝目標實施了精準打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189786024012681216327561.jpeg/LYj10LylqabUXgQDR8Uvsl7jiz3AwOsTChvmawob5ms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405994/%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D-%E5%B0%8D%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%9B%AE%E6%A8%99%E5%AF%A6%E6%96%BD%E4%BA%86%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A",
+    "timestamp": "2026-11-01T21:23:40.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧一家擠天臺屋：窗外掛巨幅海報不敢拉窗簾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250501/994638695157993472428671.jpeg/ltWJ9Hk32h5oOkrser9yLgkysyro2Ise6fIgQ-nyIEM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405945/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%B3%80%E9%8C%A6%E9%BA%97%E7%B1%B2%E5%A4%A7%E5%88%B0%E4%B8%8D%E8%83%BD%E6%93%8D%E7%B8%B1%E7%9A%84%E6%8A%95%E7%A5%A8%E7%8E%87-%E8%BD%9F%E7%89%B9%E6%9C%97%E6%99%AE%E8%85%90%E6%95%97%E7%84%A1%E8%83%BD",
     "timestamp": "2026-11-01T14:13:02.201Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "連詩雅罕晒母女合照五官倒模如餅印　媽媽氣質高貴顏值不輸愛女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193655716867477504941806.jpeg/R5DHrq_ITG4NkStY3nG2o0CsdzWyoXg5ASkv7wEpL-8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405941/%E9%80%A3%E8%A9%A9%E9%9B%85%E7%BD%95%E6%99%92%E6%AF%8D%E5%A5%B3%E5%90%88%E7%85%A7%E4%BA%94%E5%AE%98%E5%80%92%E6%A8%A1%E5%A6%82%E9%A4%85%E5%8D%B0-%E5%AA%BD%E5%AA%BD%E6%B0%A3%E8%B3%AA%E9%AB%98%E8%B2%B4%E9%A1%8F%E5%80%BC%E4%B8%8D%E8%BC%B8%E6%84%9B%E5%A5%B3",
-    "timestamp": "2026-11-01T13:53:18.531Z",
     "strategy": ".content-card__main"
   }
 ];
