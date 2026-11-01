@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T11:23:54.755Z
+// Last updated: 2026-11-01T11:38:04.829Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前港姐王敏慈日落下性感大解放　事業線深不可測網民呼：人間胸器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193555633647915008275463.jpeg/L1U0chQz_QGxJsjyqd3S0RG_X8Dr_T1XUpId0VKSHdE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405824/%E5%89%8D%E6%B8%AF%E5%A7%90%E7%8E%8B%E6%95%8F%E6%85%88%E6%97%A5%E8%90%BD%E4%B8%8B%E6%80%A7%E6%84%9F%E5%A4%A7%E8%A7%A3%E6%94%BE-%E4%BA%8B%E6%A5%AD%E7%B7%9A%E6%B7%B1%E4%B8%8D%E5%8F%AF%E6%B8%AC%E7%B6%B2%E6%B0%91%E5%91%BC-%E4%BA%BA%E9%96%93%E8%83%B8%E5%99%A8",
+    "timestamp": "2026-11-01T11:38:04.829Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁家輝效法胡楓永不言退拍到老　自言冇信心奪金雞獎影帝志在參與",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193549693527789568716950.jpeg/8WQWe6U9gd5yPrEzwc0cvnH4iNS9ZUCsrlUQDq5VEA4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60405817/deepseek%E7%99%BC%E4%BD%88super-agent%E8%A8%AD%E8%A8%88%E6%8E%A2%E7%B4%A2-ai%E6%8C%87%E6%8F%AEai-%E6%99%BA%E8%83%BD%E9%AB%94",
     "timestamp": "2026-11-01T05:23:46.780Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "濱崎真緒尖沙咀打碟疑遭落藥　經理人報警：驗出Happy水等4毒品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193457142900723712621457.jpeg/SL5w-dYInamV8BZ1v83ewnzNil23bvz4jysKP48rCj8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405763/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E5%B0%96%E6%B2%99%E5%92%80%E6%89%93%E7%A2%9F%E7%96%91%E9%81%AD%E8%90%BD%E8%97%A5-%E7%B6%93%E7%90%86%E4%BA%BA%E5%A0%B1%E8%AD%A6-%E9%A9%97%E5%87%BAhappy%E6%B0%B4%E7%AD%894%E6%AF%92%E5%93%81",
-    "timestamp": "2026-11-01T05:14:32.782Z",
     "strategy": ".content-card__main"
   }
 ];
