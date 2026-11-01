@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T00:37:07.520Z
+// Last updated: 2026-11-01T01:02:07.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "財經視野｜美國前1%家庭坐擁32.5%財富　誰來消費？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185085779974557696856413.jpeg/BcZHLGuL5cjnIcK4WTMp5yMyOEigt6kdc-uGNnPrhjY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405767/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E7%BE%8E%E5%9C%8B%E5%89%8D1-%E5%AE%B6%E5%BA%AD%E5%9D%90%E6%93%8132-5-%E8%B2%A1%E5%AF%8C-%E8%AA%B0%E4%BE%86%E6%B6%88%E8%B2%BB",
+    "timestamp": "2026-11-01T01:02:07.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳曼娜急刪相惹揣測！薛家燕兒子投資短劇陣容曝光驚見前TVB小花",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193372384569069568901326.jpeg/NpJ7LoiNUT8xlqYy7yClkm1QTdPI58eLF4Na9xeDWvc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405746/%E8%90%AC%E8%81%96%E7%AF%80-%E6%97%BA%E8%A7%92600%E4%BA%BA%E7%AD%89%E4%B8%8A%E8%BB%8A%E5%8E%BB%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%97%85%E5%AE%A2%E5%A4%A7%E8%AE%9A-%E6%AF%94%E9%A0%90%E6%83%B3%E4%B8%AD%E5%BF%AB",
     "timestamp": "2026-10-31T18:30:24.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧回憶南京童年：沒用過馬桶的舊時代體驗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193239241740521472019673.jpeg/cM9FnKKfhIyyNdQ5DC6FwHn7laJrkAekzu4XH87uFx8",
-    "url": "https://www.hk01.com/01TV/60405630/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%9B%9E%E6%86%B6%E5%8D%97%E4%BA%AC%E7%AB%A5%E5%B9%B4-%E6%B2%92%E7%94%A8%E9%81%8E%E9%A6%AC%E6%A1%B6%E7%9A%84%E8%88%8A%E6%99%82%E4%BB%A3%E9%AB%94%E9%A9%97",
-    "timestamp": "2026-10-31T18:15:35.831Z",
     "strategy": ".content-card__main"
   }
 ];
