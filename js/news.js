@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T08:54:12.884Z
+// Last updated: 2026-11-01T09:15:58.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上海景點｜必行14条马路賞秋日紅葉　打卡名人故居/老洋房/博物館",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192903887225360384106754.jpeg/uRqo6R7I6TQNybED3wHoLx_xzbNFsB1OWHRKOFh0Sjg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60405381/%E4%B8%8A%E6%B5%B7%E6%99%AF%E9%BB%9E-%E5%BF%85%E8%A1%8C14%E6%9D%A1%E9%A9%AC%E8%B7%AF%E8%B3%9E%E7%A7%8B%E6%97%A5%E7%B4%85%E8%91%89-%E6%89%93%E5%8D%A1%E5%90%8D%E4%BA%BA%E6%95%85%E5%B1%85-%E8%80%81%E6%B4%8B%E6%88%BF-%E5%8D%9A%E7%89%A9%E9%A4%A8",
+    "timestamp": "2026-11-01T09:15:58.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑改革｜大律師公會倡檢控寬待吹哨者　設大維修承辦商扣分制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193509891994554368821340.png/7-Soc8kupav65-AY8T9rlJ0rUE-Mku7_NGzurDRs7qw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405774/%E8%90%AC%E8%81%96%E7%AF%80mma%E6%9C%89%E7%89%87-wine-dine%E4%B8%89%E7%94%B7%E6%B7%B7%E6%88%B0-%E7%B6%B2%E6%B0%91-%E7%BE%8E%E9%85%92%E5%8A%A0%E8%87%AA%E7%94%B1%E6%90%8F%E6%93%8A",
     "timestamp": "2026-11-01T02:41:26.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北都馬拉松2026｜甯漢豪缺席全馬主禮　半馬鳴槍黃偉綸換成卓永興",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193504626758914048952841.jpeg/uGALqYGh-CGrTefGTDYk5C4jf1EkYmh8o9Ly1IbS8tQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405782/%E5%8C%97%E9%83%BD%E9%A6%AC%E6%8B%89%E6%9D%BE2026-%E7%94%AF%E6%BC%A2%E8%B1%AA%E7%BC%BA%E5%B8%AD%E5%85%A8%E9%A6%AC%E4%B8%BB%E7%A6%AE-%E5%8D%8A%E9%A6%AC%E9%B3%B4%E6%A7%8D%E9%BB%83%E5%81%89%E7%B6%B8%E6%8F%9B%E6%88%90%E5%8D%93%E6%B0%B8%E8%88%88",
-    "timestamp": "2026-11-01T02:24:36.419Z",
     "strategy": ".content-card__main"
   }
 ];
