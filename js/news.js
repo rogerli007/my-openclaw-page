@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T10:12:08.089Z
+// Last updated: 2026-11-01T10:25:25.849Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "波蘭憲政危機蔓延　駐華大使請辭掀跟進潮：國內政局動盪難再履職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193623567074332672384075.jpeg/MZB2SnuuBS90FXlTu6SB4VkVsRBQWGo4xrF7-caxe_k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405913/%E6%B3%A2%E8%98%AD%E6%86%B2%E6%94%BF%E5%8D%B1%E6%A9%9F%E8%94%93%E5%BB%B6-%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF%E8%AB%8B%E8%BE%AD%E6%8E%80%E8%B7%9F%E9%80%B2%E6%BD%AE-%E5%9C%8B%E5%85%A7%E6%94%BF%E5%B1%80%E5%8B%95%E7%9B%AA%E9%9B%A3%E5%86%8D%E5%B1%A5%E8%81%B7",
+    "timestamp": "2026-11-01T10:25:25.849Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "濱崎真緒遭下藥│被落藥無色無臭難察覺 10症狀非喝醉+6招自救方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523293266022400860297.jpeg/2yRy0L_6etftWqQcfO65evMFiFctWFU3ohjNPqIYzT4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405799/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E9%84%A7%E7%82%B3%E5%BC%B7-%E6%88%91%E7%91%A3%E7%A2%8E%E5%83%8F%E5%A1%B5%E8%B7%9F%E7%89%B9%E9%A6%96-%E8%8B%A5%E8%AA%8D%E7%82%BA%E6%88%91%E8%A6%81%E5%AE%8C%E7%B5%90%E4%BA%A6%E8%A6%BA%E5%BE%88%E5%A5%BD",
     "timestamp": "2026-11-01T03:54:13.261Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑問責｜鄧炳強：我瑣碎像塵跟特首　若認為我要完結亦覺很好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523293266022400860297.jpeg/2yRy0L_6etftWqQcfO65evMFiFctWFU3ohjNPqIYzT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405799/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E9%84%A7%E7%82%B3%E5%BC%B7-%E6%88%91%E7%91%A3%E7%A2%8E%E5%83%8F%E5%A1%B5%E8%B7%9F%E7%89%B9%E9%A6%96-%E8%8B%A5%E8%AA%8D%E7%82%BA%E6%88%91%E8%A6%81%E5%AE%8C%E7%B5%90%E4%BA%A6%E8%A6%BA%E5%BE%88%E5%A5%BD",
-    "timestamp": "2026-11-01T03:46:18.217Z",
     "strategy": ".content-card__main"
   }
 ];
