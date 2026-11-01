@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T10:25:25.849Z
+// Last updated: 2026-11-01T10:39:16.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "解放軍殲-16切角不是為了匿蹤　解密垂直尾翼防顫振關鍵氣動設計",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230101/686238719253942272637859.jpeg/sTPoq-1VnwaleaxXRfcl9X3PwX-uLJVGXu53rV7ud60?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401701/%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%AE%B2-16%E5%88%87%E8%A7%92%E4%B8%8D%E6%98%AF%E7%82%BA%E4%BA%86%E5%8C%BF%E8%B9%A4-%E8%A7%A3%E5%AF%86%E5%9E%82%E7%9B%B4%E5%B0%BE%E7%BF%BC%E9%98%B2%E9%A1%AB%E6%8C%AF%E9%97%9C%E9%8D%B5%E6%B0%A3%E5%8B%95%E8%A8%AD%E8%A8%88",
+    "timestamp": "2026-11-01T10:39:16.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "波蘭憲政危機蔓延　駐華大使請辭掀跟進潮：國內政局動盪難再履職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193535155277402112751463.jpeg/7DKdXqBpxq8AbAZAhKaX-aInoKwhMAPa_MozYfzKM2E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405805/%E6%9C%80%E6%85%98-8000%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9-%E6%B8%AF%E7%94%B7%E5%AE%8C%E7%BE%8E%E9%8C%AF%E9%96%8B%E9%A0%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E7%B6%B2%E6%B0%91%E6%95%991%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-11-01T04:18:05.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑問責｜鄧炳強：我瑣碎像塵跟特首　若認為我要完結亦覺很好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523293266022400860297.jpeg/2yRy0L_6etftWqQcfO65evMFiFctWFU3ohjNPqIYzT4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405799/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E9%84%A7%E7%82%B3%E5%BC%B7-%E6%88%91%E7%91%A3%E7%A2%8E%E5%83%8F%E5%A1%B5%E8%B7%9F%E7%89%B9%E9%A6%96-%E8%8B%A5%E8%AA%8D%E7%82%BA%E6%88%91%E8%A6%81%E5%AE%8C%E7%B5%90%E4%BA%A6%E8%A6%BA%E5%BE%88%E5%A5%BD",
-    "timestamp": "2026-11-01T03:54:13.261Z",
     "strategy": ".content-card__main"
   }
 ];
