@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T15:39:08.380Z
+// Last updated: 2026-11-01T16:29:22.440Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蓮塘口岸開通6年　累計出入境人次突破1億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260525/1135699980867080192570326.jpeg/YBrkjAANx479AYXOTeaK89Vv79YYmpq_iq-ApoqvgKY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405989/%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%96%8B%E9%80%9A6%E5%B9%B4-%E7%B4%AF%E8%A8%88%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E7%AA%81%E7%A0%B41%E5%84%84",
+    "timestamp": "2026-11-01T16:29:22.440Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國男路邊摸貓咪遇Google街景車　預言：上地圖了　3個月後成真",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193526854959501312302678.png/EzBYUw-UyLT4a2TdfoY5WGySew4d3OvEyJ2hgcidoYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405787/%E5%AB%81%E9%87%91%E9%87%B5-%E9%96%86%E6%A1%89%E6%BC%94-%E9%99%B8%E6%BF%AF-%E9%9D%9E%E5%85%A7%E5%AE%9A-7%E6%AC%A1%E8%A9%A6%E9%8F%A1%E6%93%8A%E6%95%977%E5%A4%A7%E7%95%B6%E7%B4%85%E7%94%B7%E6%98%9F%E5%A5%AA%E7%94%B7%E4%B8%BB%E8%A7%92",
     "timestamp": "2026-11-01T09:39:15.245Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊思琦跟風翻唱《季候風》 被轟滿嘴鄉音　疑戴山寨披肩再掀群嘲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193585163267739648726951.jpeg/vgGXgSv0zweIbd93DD1Gt-bSNQg3EvVyJEj7cSRI-3E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405854/%E6%A5%8A%E6%80%9D%E7%90%A6%E8%B7%9F%E9%A2%A8%E7%BF%BB%E5%94%B1-%E5%AD%A3%E5%80%99%E9%A2%A8-%E8%A2%AB%E8%BD%9F%E6%BB%BF%E5%98%B4%E9%84%89%E9%9F%B3-%E7%96%91%E6%88%B4%E5%B1%B1%E5%AF%A8%E6%8A%AB%E8%82%A9%E5%86%8D%E6%8E%80%E7%BE%A4%E5%98%B2",
-    "timestamp": "2026-11-01T09:23:34.604Z",
     "strategy": ".content-card__main"
   }
 ];
