@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T04:18:05.180Z
+// Last updated: 2026-11-01T04:26:44.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜內地醫科畢業生轉行做上門煮飯　日做3個鐘月入5千：不後悔",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193535441119219712357169.jpeg/QO_MOS59Bjtv3V8EnLLMG-0GX-ufyTXx3l0yP95dMj8",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405811/%E6%9C%89%E7%89%87-%E5%85%A7%E5%9C%B0%E9%86%AB%E7%A7%91%E7%95%A2%E6%A5%AD%E7%94%9F%E8%BD%89%E8%A1%8C%E5%81%9A%E4%B8%8A%E9%96%80%E7%85%AE%E9%A3%AF-%E6%97%A5%E5%81%9A3%E5%80%8B%E9%90%98%E6%9C%88%E5%85%A55%E5%8D%83-%E4%B8%8D%E5%BE%8C%E6%82%94",
+    "timestamp": "2026-11-01T04:26:44.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "最慘$8000萬六合彩│港男完美錯開頭獎號碼　網民教1招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193427909780443136506273.jpeg/lmr4SP1YdcO2otPoUYwPduzoecqsDJUv1zzRju080Y4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405758/%E5%9D%91%E5%8F%A3%E5%85%AC%E5%85%B1%E5%96%AE%E8%BB%8A%E6%B3%8A%E4%BD%8D-9%E8%BC%9B%E5%96%AE%E8%BB%8A%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
     "timestamp": "2026-10-31T21:40:23.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坑口公共單車泊位　9輛單車遭縱火燒毀　警追緝歹徒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193427909780443136506273.jpeg/lmr4SP1YdcO2otPoUYwPduzoecqsDJUv1zzRju080Y4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405758/%E5%9D%91%E5%8F%A3%E5%85%AC%E5%85%B1%E5%96%AE%E8%BB%8A%E6%B3%8A%E4%BD%8D-9%E8%BC%9B%E5%96%AE%E8%BB%8A%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
-    "timestamp": "2026-10-31T21:23:36.926Z",
     "strategy": ".content-card__main"
   }
 ];
