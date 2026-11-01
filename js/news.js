@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T12:56:52.086Z
+// Last updated: 2026-11-01T13:13:01.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "生殖器遭大嫂咬爛！印度男吵架脫衣威嚇　弱點被咬縫55針保子孫根",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261027/1191811182856507392258037.png/cf_VcjpeP6XU6q4DXVGjkPhg0-gMi0N9fOIWZHziFmQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60404069/%E7%94%9F%E6%AE%96%E5%99%A8%E9%81%AD%E5%A4%A7%E5%AB%82%E5%92%AC%E7%88%9B-%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%90%B5%E6%9E%B6%E8%84%AB%E8%A1%A3%E5%A8%81%E5%9A%87-%E5%BC%B1%E9%BB%9E%E8%A2%AB%E5%92%AC%E7%B8%AB55%E9%87%9D%E4%BF%9D%E5%AD%90%E5%AD%AB%E6%A0%B9",
+    "timestamp": "2026-11-01T13:13:01.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玉簟秋40集迎慘烈結局！丞磊戰死沙場徐若晗守寡　網民嘆：心口悶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193575229713027072960172.png/PHfbcyPzTQqPM5MwEFzUvFt7imx6Ms5QrNoaCazaGgk",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405841/%E6%9C%89%E7%89%87-%E5%AF%B6%E7%90%B3%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%88%87%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%97%E5%82%B7%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%BA%95-%E8%AD%A6%E8%B9%B2%E5%9C%B0%E5%AF%9F%E7%9C%8B",
     "timestamp": "2026-11-01T06:53:22.095Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "濱崎真緒疑遭落藥入ICU驗出毒品　醫生警告一情況或導致器官壞死",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193565831548637184809365.jpeg/d4cXskvKT1r0tuY4c-fkBxZN4AJ534FmpMiJo6TIiaM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405837/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E7%96%91%E9%81%AD%E8%90%BD%E8%97%A5%E5%85%A5icu%E9%A9%97%E5%87%BA%E6%AF%92%E5%93%81-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E4%B8%80%E6%83%85%E6%B3%81%E6%88%96%E5%B0%8E%E8%87%B4%E5%99%A8%E5%AE%98%E5%A3%9E%E6%AD%BB",
-    "timestamp": "2026-11-01T06:22:24.514Z",
     "strategy": ".content-card__main"
   }
 ];
