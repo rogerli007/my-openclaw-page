@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T03:54:13.261Z
+// Last updated: 2026-11-01T04:18:05.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最慘$8000萬六合彩│港男完美錯開頭獎號碼　網民教1招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193535155277402112751463.jpeg/7DKdXqBpxq8AbAZAhKaX-aInoKwhMAPa_MozYfzKM2E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405805/%E6%9C%80%E6%85%98-8000%E8%90%AC%E5%85%AD%E5%90%88%E5%BD%A9-%E6%B8%AF%E7%94%B7%E5%AE%8C%E7%BE%8E%E9%8C%AF%E9%96%8B%E9%A0%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E7%B6%B2%E6%B0%91%E6%95%991%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-11-01T04:18:05.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑問責｜鄧炳強：我瑣碎像塵跟特首　若認為我要完結亦覺很好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193427909780443136506273.jpeg/lmr4SP1YdcO2otPoUYwPduzoecqsDJUv1zzRju080Y4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405758/%E5%9D%91%E5%8F%A3%E5%85%AC%E5%85%B1%E5%96%AE%E8%BB%8A%E6%B3%8A%E4%BD%8D-9%E8%BC%9B%E5%96%AE%E8%BB%8A%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
     "timestamp": "2026-10-31T21:23:36.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "坑口公共單車泊位　9輛單車遭縱火燒毀　警追緝歹徒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193427909780443136506273.jpeg/lmr4SP1YdcO2otPoUYwPduzoecqsDJUv1zzRju080Y4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405758/%E5%9D%91%E5%8F%A3%E5%85%AC%E5%85%B1%E5%96%AE%E8%BB%8A%E6%B3%8A%E4%BD%8D-9%E8%BC%9B%E5%96%AE%E8%BB%8A%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
-    "timestamp": "2026-10-31T21:18:05.725Z",
     "strategy": ".content-card__main"
   }
 ];
