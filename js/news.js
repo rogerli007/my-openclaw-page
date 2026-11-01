@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T07:24:24.362Z
+// Last updated: 2026-11-01T07:39:29.775Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國佛州女子揚言行刺特朗普被捕　辯稱只是「開玩笑」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261028/1192185917775810560542389.jpeg/WcBQvqIhimS7_5IHkdTs7D7d-MjuBhB83nHO0N5xztA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405863/%E7%BE%8E%E5%9C%8B%E4%BD%9B%E5%B7%9E%E5%A5%B3%E5%AD%90%E6%8F%9A%E8%A8%80%E8%A1%8C%E5%88%BA%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8D%95-%E8%BE%AF%E7%A8%B1%E5%8F%AA%E6%98%AF-%E9%96%8B%E7%8E%A9%E7%AC%91",
+    "timestamp": "2026-11-01T07:39:29.775Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾志偉談電視大戰　節目突爆紅屬「放煙花」：需要長遠一啲嘅計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193483460468019200879425.jpeg/rqsI4FqGb5DoPu-JIXRtzLLwEE9VrIepQCRtuUAkbbk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405766/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E5%B0%96%E6%B2%99%E5%98%B4%E6%89%93%E7%A2%9F%E8%A2%AB%E8%90%BD%E8%97%A5%E9%80%81%E9%99%A2-%E7%B6%93%E7%90%86%E4%BA%BA%E8%AD%89%E6%9C%89%E8%97%A5%E7%89%A9%E5%8F%8D%E6%87%89-%E8%A6%81%E5%85%A5icu",
     "timestamp": "2026-11-01T01:21:59.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "財經視野｜美國前1%家庭坐擁32.5%財富　誰來消費？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185085779974557696856413.jpeg/BcZHLGuL5cjnIcK4WTMp5yMyOEigt6kdc-uGNnPrhjY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405767/%E8%B2%A1%E7%B6%93%E8%A6%96%E9%87%8E-%E7%BE%8E%E5%9C%8B%E5%89%8D1-%E5%AE%B6%E5%BA%AD%E5%9D%90%E6%93%8132-5-%E8%B2%A1%E5%AF%8C-%E8%AA%B0%E4%BE%86%E6%B6%88%E8%B2%BB",
-    "timestamp": "2026-11-01T01:02:07.268Z",
     "strategy": ".content-card__main"
   }
 ];
