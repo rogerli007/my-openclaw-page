@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T12:41:25.526Z
+// Last updated: 2026-11-01T12:56:52.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玉簟秋40集迎慘烈結局！丞磊戰死沙場徐若晗守寡　網民嘆：心口悶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193603454107389952816409.png/_K1Ybr8Z3aay7DwT4TGK7fnGj_tK8WYvJwVYFCcFWBQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60405876/%E7%8E%89%E7%B0%9F%E7%A7%8B40%E9%9B%86%E8%BF%8E%E6%85%98%E7%83%88%E7%B5%90%E5%B1%80-%E4%B8%9E%E7%A3%8A%E6%88%B0%E6%AD%BB%E6%B2%99%E5%A0%B4%E5%BE%90%E8%8B%A5%E6%99%97%E5%AE%88%E5%AF%A1-%E7%B6%B2%E6%B0%91%E5%98%86-%E5%BF%83%E5%8F%A3%E6%82%B6",
+    "timestamp": "2026-11-01T12:56:52.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "翁虹飛美國陪19歲學霸女兒劉蒔入學UCLA　揭「曾獲9所名校Offer」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193565831548637184809365.jpeg/d4cXskvKT1r0tuY4c-fkBxZN4AJ534FmpMiJo6TIiaM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405837/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E7%96%91%E9%81%AD%E8%90%BD%E8%97%A5%E5%85%A5icu%E9%A9%97%E5%87%BA%E6%AF%92%E5%93%81-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E4%B8%80%E6%83%85%E6%B3%81%E6%88%96%E5%B0%8E%E8%87%B4%E5%99%A8%E5%AE%98%E5%A3%9E%E6%AD%BB",
     "timestamp": "2026-11-01T06:22:24.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳茂波：本港第三季經濟增長料勝預期　受惠出口增長快、內需穩健",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193559139796652032493876.jpeg/JOOl1s3jo6jf7zEuyGIxd2oWXcJywptUzVTtIM1U7SA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405831/%E9%99%B3%E8%8C%82%E6%B3%A2-%E6%9C%AC%E6%B8%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%95%B7%E6%96%99%E5%8B%9D%E9%A0%90%E6%9C%9F-%E5%8F%97%E6%83%A0%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%95%B7%E5%BF%AB-%E5%85%A7%E9%9C%80%E7%A9%A9%E5%81%A5",
-    "timestamp": "2026-11-01T05:53:13.744Z",
     "strategy": ".content-card__main"
   }
 ];
