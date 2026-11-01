@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T03:46:18.217Z
+// Last updated: 2026-11-01T03:54:13.261Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑問責｜鄧炳強：我瑣碎像塵跟特首　若認為我要完結亦覺很好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192523293266022400860297.jpeg/2yRy0L_6etftWqQcfO65evMFiFctWFU3ohjNPqIYzT4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60405799/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%95%8F%E8%B2%AC-%E9%84%A7%E7%82%B3%E5%BC%B7-%E6%88%91%E7%91%A3%E7%A2%8E%E5%83%8F%E5%A1%B5%E8%B7%9F%E7%89%B9%E9%A6%96-%E8%8B%A5%E8%AA%8D%E7%82%BA%E6%88%91%E8%A6%81%E5%AE%8C%E7%B5%90%E4%BA%A6%E8%A6%BA%E5%BE%88%E5%A5%BD",
+    "timestamp": "2026-11-01T03:54:13.261Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑問責｜鄧炳強：我瑣碎像塵跟特首　若認為我要完結亦覺很好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193427909780443136506273.jpeg/lmr4SP1YdcO2otPoUYwPduzoecqsDJUv1zzRju080Y4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405758/%E5%9D%91%E5%8F%A3%E5%85%AC%E5%85%B1%E5%96%AE%E8%BB%8A%E6%B3%8A%E4%BD%8D-9%E8%BC%9B%E5%96%AE%E8%BB%8A%E9%81%AD%E7%B8%B1%E7%81%AB%E7%87%92%E6%AF%80-%E8%AD%A6%E8%BF%BD%E7%B7%9D%E6%AD%B9%E5%BE%92",
     "timestamp": "2026-10-31T21:18:05.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西營盤14歲少年疑遭父親動手管教受傷送院　前妻揭發　35歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193415377187508224596423.jpeg/rUeZc5egu3I9N3hMYylXPJeWj1EOzaD9q-3ezpHt3s4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405754/%E8%A5%BF%E7%87%9F%E7%9B%A414%E6%AD%B2%E5%B0%91%E5%B9%B4%E7%96%91%E9%81%AD%E7%88%B6%E8%A6%AA%E5%8B%95%E6%89%8B%E7%AE%A1%E6%95%99%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E5%89%8D%E5%A6%BB%E6%8F%AD%E7%99%BC-35%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-10-31T20:40:36.167Z",
     "strategy": ".content-card__main"
   }
 ];
