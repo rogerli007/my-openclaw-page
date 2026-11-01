@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-01T02:24:36.419Z
+// Last updated: 2026-11-01T02:41:26.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬聖節MMA有片｜Wine & Dine三男混戰　網民：美酒加自由搏擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193509891994554368821340.png/7-Soc8kupav65-AY8T9rlJ0rUE-Mku7_NGzurDRs7qw",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405774/%E8%90%AC%E8%81%96%E7%AF%80mma%E6%9C%89%E7%89%87-wine-dine%E4%B8%89%E7%94%B7%E6%B7%B7%E6%88%B0-%E7%B6%B2%E6%B0%91-%E7%BE%8E%E9%85%92%E5%8A%A0%E8%87%AA%E7%94%B1%E6%90%8F%E6%93%8A",
+    "timestamp": "2026-11-01T02:41:26.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北都馬拉松2026｜甯漢豪缺席全馬主禮　半馬鳴槍黃偉綸換成卓永興",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193266179821539328719283.jpeg/ZlyIiCEkP3XeuhEgP8G4OpqiskWp-0aOKanZGSmp2Rk",
     "url": "https://www.hk01.com/01TV/60405674/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%AB%87%E5%82%B3%E7%B5%B1%E7%AB%A5%E5%B9%B4%E6%99%BA%E6%85%A7-%E4%BA%95%E6%B0%B4%E6%B5%B8%E8%A5%BF%E7%93%9C%E8%88%87%E6%89%8B%E5%B7%A5%E7%B8%AB%E8%A1%A3",
     "timestamp": "2026-10-31T19:55:44.257Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧談傳統童年智慧 井水浸西瓜與手工縫衣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193266179821539328719283.jpeg/ZlyIiCEkP3XeuhEgP8G4OpqiskWp-0aOKanZGSmp2Rk",
-    "url": "https://www.hk01.com/01TV/60405674/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%AB%87%E5%82%B3%E7%B5%B1%E7%AB%A5%E5%B9%B4%E6%99%BA%E6%85%A7-%E4%BA%95%E6%B0%B4%E6%B5%B8%E8%A5%BF%E7%93%9C%E8%88%87%E6%89%8B%E5%B7%A5%E7%B8%AB%E8%A1%A3",
-    "timestamp": "2026-10-31T19:24:06.915Z",
     "strategy": ".content-card__main"
   }
 ];
