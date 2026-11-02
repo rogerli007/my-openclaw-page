@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T02:30:50.011Z
+// Last updated: 2026-11-02T02:41:12.283Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本桑田真澄次子「蛇精男」Matt捲同性醜聞　遭3男控告醉酒侵犯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193618544961523712751846.png/rmKeq-chjGUgpZNYTV5Co_b8DLLypoUWfBgQq3wYEKs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405906/%E6%97%A5%E6%9C%AC%E6%A1%91%E7%94%B0%E7%9C%9F%E6%BE%84%E6%AC%A1%E5%AD%90-%E8%9B%87%E7%B2%BE%E7%94%B7-matt%E6%8D%B2%E5%90%8C%E6%80%A7%E9%86%9C%E8%81%9E-%E9%81%AD3%E7%94%B7%E6%8E%A7%E5%91%8A%E9%86%89%E9%85%92%E4%BE%B5%E7%8A%AF",
+    "timestamp": "2026-11-02T02:41:12.283Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "FinTech Week 2026｜滙豐設人工智能及新興科技研究院　落戶北都",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193244185587617792158960.jpeg/P-fi4BxgHzNdsMwC_4WFBr0TRhfesEa_f0uhIX9LoSE",
     "url": "https://www.hk01.com/01TV/60405640/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%80%E5%AE%B6%E6%93%A0%E5%A4%A9%E8%87%BA%E5%B1%8B-%E7%AA%97%E5%A4%96%E6%8E%9B%E5%B7%A8%E5%B9%85%E6%B5%B7%E5%A0%B1%E4%B8%8D%E6%95%A2%E6%8B%89%E7%AA%97%E7%B0%BE",
     "timestamp": "2026-11-01T20:27:27.029Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧一家擠天臺屋：窗外掛巨幅海報不敢拉窗簾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193244185587617792158960.jpeg/P-fi4BxgHzNdsMwC_4WFBr0TRhfesEa_f0uhIX9LoSE",
-    "url": "https://www.hk01.com/01TV/60405640/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%80%E5%AE%B6%E6%93%A0%E5%A4%A9%E8%87%BA%E5%B1%8B-%E7%AA%97%E5%A4%96%E6%8E%9B%E5%B7%A8%E5%B9%85%E6%B5%B7%E5%A0%B1%E4%B8%8D%E6%95%A2%E6%8B%89%E7%AA%97%E7%B0%BE",
-    "timestamp": "2026-11-01T20:18:24.765Z",
     "strategy": ".content-card__main"
   }
 ];
