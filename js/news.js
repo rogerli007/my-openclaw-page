@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T04:27:45.879Z
+// Last updated: 2026-11-02T04:39:56.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車藝蓮被指掌摑同學致耳膜撕裂　賢妻良母形象崩壞廣告代言恐落空",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193901740156522496149678.jpeg/dzfEV9fE9a70CDVK8lR6mtOEfEvq4VLC6xnvFOsZ7xQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406098/%E8%BB%8A%E8%97%9D%E8%93%AE%E8%A2%AB%E6%8C%87%E6%8E%8C%E6%91%91%E5%90%8C%E5%AD%B8%E8%87%B4%E8%80%B3%E8%86%9C%E6%92%95%E8%A3%82-%E8%B3%A2%E5%A6%BB%E8%89%AF%E6%AF%8D%E5%BD%A2%E8%B1%A1%E5%B4%A9%E5%A3%9E%E5%BB%A3%E5%91%8A%E4%BB%A3%E8%A8%80%E6%81%90%E8%90%BD%E7%A9%BA",
+    "timestamp": "2026-11-02T04:39:56.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "濱崎真緒日文更新情況　被落藥後斷片及非常痛苦　將積極宣揚禁毒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579876782542848604831.jpeg/A_i1h7LFxBgwiZU6R8PDO_vVgM31VkYjuDSNj7g0jY8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406003/%E6%A9%AB%E9%A0%AD%E7%A3%A1%E9%82%A845%E6%AD%B2%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-11-01T22:39:39.967Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熊黛林郭可頌結婚10周年驚談分居　為女兒應承「分開」：久唔久見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193633081555161088948502.jpeg/lnS-s-29GwC9toNqPHxHGaND4rYpcEzpwV-uX8Ffrl8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405866/%E7%86%8A%E9%BB%9B%E6%9E%97%E9%83%AD%E5%8F%AF%E9%A0%8C%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4%E9%A9%9A%E8%AB%87%E5%88%86%E5%B1%85-%E7%82%BA%E5%A5%B3%E5%85%92%E6%87%89%E6%89%BF-%E5%88%86%E9%96%8B-%E4%B9%85%E5%94%94%E4%B9%85%E8%A6%8B",
-    "timestamp": "2026-11-01T22:26:03.109Z",
     "strategy": ".content-card__main"
   }
 ];
