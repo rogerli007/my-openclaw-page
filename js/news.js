@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T03:59:36.111Z
+// Last updated: 2026-11-02T04:16:51.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜閉路電視拍到鄺球買雪櫃情況　付款後曾拉下口罩抽煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193897033270824960391807.jpeg/EzvZIOouz4t4Eg9t7WLJk9FjvaDWAlnbqXAULKlwFCw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406091/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%96%89%E8%B7%AF%E9%9B%BB%E8%A6%96%E6%8B%8D%E5%88%B0%E9%84%BA%E7%90%83%E8%B2%B7%E9%9B%AA%E6%AB%83%E6%83%85%E6%B3%81-%E4%BB%98%E6%AC%BE%E5%BE%8C%E6%9B%BE%E6%8B%89%E4%B8%8B%E5%8F%A3%E7%BD%A9%E6%8A%BD%E7%85%99",
+    "timestamp": "2026-11-02T04:16:51.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "武漢萬聖節人群失控　網約車誤入人海遭掟垃圾砸窗放氣困4粒鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193633081555161088948502.jpeg/lnS-s-29GwC9toNqPHxHGaND4rYpcEzpwV-uX8Ffrl8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405866/%E7%86%8A%E9%BB%9B%E6%9E%97%E9%83%AD%E5%8F%AF%E9%A0%8C%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4%E9%A9%9A%E8%AB%87%E5%88%86%E5%B1%85-%E7%82%BA%E5%A5%B3%E5%85%92%E6%87%89%E6%89%BF-%E5%88%86%E9%96%8B-%E4%B9%85%E5%94%94%E4%B9%85%E8%A6%8B",
     "timestamp": "2026-11-01T22:13:16.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴14年來作客首勝利物浦  添巴拉衫未罰12碼惹爭議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193797916964163584905241.jpeg/iEDKPF5_SO5NVLTUMDhb-1ejT-6pwEvvLS2_HC0tvxw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406001/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B414%E5%B9%B4%E4%BE%86%E4%BD%9C%E5%AE%A2%E9%A6%96%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E6%B7%BB%E5%B7%B4%E6%8B%89%E8%A1%AB%E6%9C%AA%E7%BD%B012%E7%A2%BC%E6%83%B9%E7%88%AD%E8%AD%B0",
-    "timestamp": "2026-11-01T21:53:42.877Z",
     "strategy": ".content-card__main"
   }
 ];
