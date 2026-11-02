@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T12:19:59.265Z
+// Last updated: 2026-11-02T12:42:31.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "猴痘｜33歲男確診　潛伏期內曾在港與男子有高風險性接觸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186854639698448384047613.jpeg/75OcYmXkfhyj2Eu0p8elHLMARWYtSCkkBxMUBwcTFAc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406362/%E7%8C%B4%E7%97%98-33%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E6%9B%BE%E5%9C%A8%E6%B8%AF%E8%88%87%E7%94%B7%E5%AD%90%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%80%A7%E6%8E%A5%E8%A7%B8",
+    "timestamp": "2026-11-02T12:42:31.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佘詩曼私下超豪爽曾默默搶埋單　獲《新聞女王》後輩回請生日飯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121097302891958272052794.jpeg/Wqj83fZNxjED3Z_J2sDKae15Fl73Omsa7pVKAu6VSgI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60406043/%E4%B8%AD%E5%9C%8B6g%E8%88%87%E8%BC%89%E4%BA%BA%E7%99%BB%E6%9C%88%E9%9B%99%E7%B7%9A%E8%B6%85%E8%BB%8A-%E8%A7%A3%E5%AF%86%E4%B8%AD%E7%BE%8E%E7%A7%91%E6%8A%80%E7%AB%B6%E8%B3%BD%E7%9A%84%E6%B7%B1%E5%B1%A4%E5%B0%8D%E6%AF%94",
     "timestamp": "2026-11-02T05:16:29.894Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "72歲林建明染惡菌險演變成肺炎 一文睇清肺炎常見徵狀及預防方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193906365517533184685140.jpeg/KqP_EPRlAZOk5iNiK5O70nxwpeIEVy2GIaQTLiGkEy4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406069/72%E6%AD%B2%E6%9E%97%E5%BB%BA%E6%98%8E%E6%9F%93%E6%83%A1%E8%8F%8C%E9%9A%AA%E6%BC%94%E8%AE%8A%E6%88%90%E8%82%BA%E7%82%8E-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E8%82%BA%E7%82%8E%E5%B8%B8%E8%A6%8B%E5%BE%B5%E7%8B%80%E5%8F%8A%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-11-02T04:59:16.819Z",
     "strategy": ".content-card__main"
   }
 ];
