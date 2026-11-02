@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T21:24:15.087Z
+// Last updated: 2026-11-02T21:42:41.822Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國改革移民政策　大部份移民需住10年才可申永居",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194151827411570688904128.jpeg/039IWWF88OG4tLOAvScD6K2EhCVlYGhz0gS8WNIEvFg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406408/%E8%8B%B1%E5%9C%8B%E6%94%B9%E9%9D%A9%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%A7%BB%E6%B0%91%E9%9C%80%E4%BD%8F10%E5%B9%B4%E6%89%8D%E5%8F%AF%E7%94%B3%E6%B0%B8%E5%B1%85",
+    "timestamp": "2026-11-02T21:42:41.822Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌23歲男遭警截查　檢懷疑氯胺酮、可卡因及煙彈　涉販毒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194004062807265280619450.jpeg/848piFjWfIbOVmHTrg_f-YxuyrjYJANC-2D4rftg-K0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406342/%E6%B1%9F%E5%98%89%E6%95%8F%E8%BA%AB%E6%9D%90%E7%8D%B2%E5%B9%B3%E5%8F%8D%E7%8D%B2%E8%AE%9A-%E7%9C%9F%E4%BA%BA%E7%98%A6%E5%A5%BD%E5%A4%9A-%E8%A6%AA%E8%87%AA%E5%9B%9E%E8%A6%86%E4%B8%80%E5%8F%A5%E8%AA%AA%E8%A9%B1%E7%84%AB%E3%B7%AB%E7%B6%B2%E6%B0%91",
     "timestamp": "2026-11-02T16:32:12.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃澤林首開腔認戀譚旻萱　稱康堤講分手後先識Mandy：無關第三者",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194071522554155008507486.jpeg/cnleNAZiM62zzLfLET1dr44XNjUCh2YRZcArRWXAK0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406390/%E9%BB%83%E6%BE%A4%E6%9E%97%E9%A6%96%E9%96%8B%E8%85%94%E8%AA%8D%E6%88%80%E8%AD%9A%E6%97%BB%E8%90%B1-%E7%A8%B1%E5%BA%B7%E5%A0%A4%E8%AC%9B%E5%88%86%E6%89%8B%E5%BE%8C%E5%85%88%E8%AD%98mandy-%E7%84%A1%E9%97%9C%E7%AC%AC%E4%B8%89%E8%80%85",
-    "timestamp": "2026-11-02T15:59:09.511Z",
     "strategy": ".content-card__main"
   }
 ];
