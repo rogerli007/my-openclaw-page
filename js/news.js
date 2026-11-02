@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T04:59:16.819Z
+// Last updated: 2026-11-02T05:16:29.894Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國6G與載人登月雙線超車？解密中美科技競賽的深層對比",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121097302891958272052794.jpeg/Wqj83fZNxjED3Z_J2sDKae15Fl73Omsa7pVKAu6VSgI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60406043/%E4%B8%AD%E5%9C%8B6g%E8%88%87%E8%BC%89%E4%BA%BA%E7%99%BB%E6%9C%88%E9%9B%99%E7%B7%9A%E8%B6%85%E8%BB%8A-%E8%A7%A3%E5%AF%86%E4%B8%AD%E7%BE%8E%E7%A7%91%E6%8A%80%E7%AB%B6%E8%B3%BD%E7%9A%84%E6%B7%B1%E5%B1%A4%E5%B0%8D%E6%AF%94",
+    "timestamp": "2026-11-02T05:16:29.894Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "72歲林建明染惡菌險演變成肺炎 一文睇清肺炎常見徵狀及預防方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250217/968225726950019072340968.jpeg/56vWwe7I1md5_U0GGUspuH7Iy7N54roBjPy1oLr8taA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60405958/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB%E9%8C%848%E5%AE%97%E6%88%90%E4%BA%A4-%E6%8C%89%E5%91%A8%E5%9B%9E%E5%8D%8733-3",
     "timestamp": "2026-11-01T23:13:18.350Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致天晴　日間炎熱約31度　稍後有一兩陣微雨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193812246602452992610472.jpeg/b_x9fKgQ9vjIdtqgafXWK0bdbVP2jwMYNpmm2xyZpts?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60406000/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8431%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
-    "timestamp": "2026-11-01T22:53:30.794Z",
     "strategy": ".content-card__main"
   }
 ];
