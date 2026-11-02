@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T11:52:51.115Z
+// Last updated: 2026-11-02T12:19:59.265Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佘詩曼私下超豪爽曾默默搶埋單　獲《新聞女王》後輩回請生日飯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193943723411509248754980.jpeg/jOg6DEtzhW8C1bQSSPQWmx7R4xB8Mih8Np9prjafaa4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406121/%E4%BD%98%E8%A9%A9%E6%9B%BC%E7%A7%81%E4%B8%8B%E8%B6%85%E8%B1%AA%E7%88%BD%E6%9B%BE%E9%BB%98%E9%BB%98%E6%90%B6%E5%9F%8B%E5%96%AE-%E7%8D%B2-%E6%96%B0%E8%81%9E%E5%A5%B3%E7%8E%8B-%E5%BE%8C%E8%BC%A9%E5%9B%9E%E8%AB%8B%E7%94%9F%E6%97%A5%E9%A3%AF",
+    "timestamp": "2026-11-02T12:19:59.265Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Crypto.com疑撤出香港？通知用戶明年2月停App服務　並分階段停運",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193906365517533184685140.jpeg/KqP_EPRlAZOk5iNiK5O70nxwpeIEVy2GIaQTLiGkEy4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406069/72%E6%AD%B2%E6%9E%97%E5%BB%BA%E6%98%8E%E6%9F%93%E6%83%A1%E8%8F%8C%E9%9A%AA%E6%BC%94%E8%AE%8A%E6%88%90%E8%82%BA%E7%82%8E-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E8%82%BA%E7%82%8E%E5%B8%B8%E8%A6%8B%E5%BE%B5%E7%8B%80%E5%8F%8A%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95",
     "timestamp": "2026-11-02T04:59:16.819Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車藝蓮被指掌摑同學致耳膜撕裂　賢妻良母形象崩壞廣告代言恐落空",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193901740156522496149678.jpeg/dzfEV9fE9a70CDVK8lR6mtOEfEvq4VLC6xnvFOsZ7xQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406098/%E8%BB%8A%E8%97%9D%E8%93%AE%E8%A2%AB%E6%8C%87%E6%8E%8C%E6%91%91%E5%90%8C%E5%AD%B8%E8%87%B4%E8%80%B3%E8%86%9C%E6%92%95%E8%A3%82-%E8%B3%A2%E5%A6%BB%E8%89%AF%E6%AF%8D%E5%BD%A2%E8%B1%A1%E5%B4%A9%E5%A3%9E%E5%BB%A3%E5%91%8A%E4%BB%A3%E8%A8%80%E6%81%90%E8%90%BD%E7%A9%BA",
-    "timestamp": "2026-11-02T04:39:56.531Z",
     "strategy": ".content-card__main"
   }
 ];
