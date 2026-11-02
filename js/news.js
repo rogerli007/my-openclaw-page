@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T11:14:20.941Z
+// Last updated: 2026-11-02T11:39:32.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "拜票失足亡仍名列投票卡　團隊繼續爭取支持背後內情：阻對手回鍋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193972221903638528471826.png/facOFamt3EVJzVcf3R_Z0QajraTSkDbx5PjgQ-T44EM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406264/%E6%8B%9C%E7%A5%A8%E5%A4%B1%E8%B6%B3%E4%BA%A1%E4%BB%8D%E5%90%8D%E5%88%97%E6%8A%95%E7%A5%A8%E5%8D%A1-%E5%9C%98%E9%9A%8A%E7%B9%BC%E7%BA%8C%E7%88%AD%E5%8F%96%E6%94%AF%E6%8C%81%E8%83%8C%E5%BE%8C%E5%85%A7%E6%83%85-%E9%98%BB%E5%B0%8D%E6%89%8B%E5%9B%9E%E9%8D%8B",
+    "timestamp": "2026-11-02T11:39:32.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "M+慶祝開館五周年11月8日免費開放  7個展覽任看另設一系列活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193901257153056768815407.jpeg/mwXWMtBsZYlcptLYMCoYwJUQAwuiP91IA2wtGQNsLRk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406110/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E6%97%A5%E6%96%87%E6%9B%B4%E6%96%B0%E6%83%85%E6%B3%81-%E8%A2%AB%E8%90%BD%E8%97%A5%E5%BE%8C%E6%96%B7%E7%89%87%E5%8F%8A%E9%9D%9E%E5%B8%B8%E7%97%9B%E8%8B%A6-%E5%B0%87%E7%A9%8D%E6%A5%B5%E5%AE%A3%E6%8F%9A%E7%A6%81%E6%AF%92",
     "timestamp": "2026-11-02T04:27:45.879Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜閉路電視拍到鄺球買雪櫃情況　付款後曾拉下口罩抽煙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193897033270824960391807.jpeg/EzvZIOouz4t4Eg9t7WLJk9FjvaDWAlnbqXAULKlwFCw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406091/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%96%89%E8%B7%AF%E9%9B%BB%E8%A6%96%E6%8B%8D%E5%88%B0%E9%84%BA%E7%90%83%E8%B2%B7%E9%9B%AA%E6%AB%83%E6%83%85%E6%B3%81-%E4%BB%98%E6%AC%BE%E5%BE%8C%E6%9B%BE%E6%8B%89%E4%B8%8B%E5%8F%A3%E7%BD%A9%E6%8A%BD%E7%85%99",
-    "timestamp": "2026-11-02T04:16:51.302Z",
     "strategy": ".content-card__main"
   }
 ];
