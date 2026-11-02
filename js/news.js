@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T05:16:29.894Z
+// Last updated: 2026-11-02T05:25:56.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA｜費城76人登東岸第一　勒邦占士對位單防時對手命中率僅28.1%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193895126875770880168542.jpeg/6Ve-LzNIYCSMI4Ks28M4FVTzLOR9yprSKbph9Cm6YfQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60406086/nba-%E8%B2%BB%E5%9F%8E76%E4%BA%BA%E7%99%BB%E6%9D%B1%E5%B2%B8%E7%AC%AC%E4%B8%80-%E5%8B%92%E9%82%A6%E5%8D%A0%E5%A3%AB%E5%B0%8D%E4%BD%8D%E5%96%AE%E9%98%B2%E6%99%82%E5%B0%8D%E6%89%8B%E5%91%BD%E4%B8%AD%E7%8E%87%E5%83%8528-1",
+    "timestamp": "2026-11-02T05:25:56.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國6G與載人登月雙線超車？解密中美科技競賽的深層對比",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193672110535348224709648.png/Sr9P1MDa7amQMOCd3_QzLIHKY60hwxsOD2FJ3g9hSd4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405513/45%E6%AD%B2%E6%AF%8D%E8%88%8718%E6%AD%B2%E5%85%92%E5%90%88%E7%85%A7%E4%BC%BC%E6%83%85%E4%BE%B6-%E9%80%86%E9%BD%A1%E5%AA%BD%E5%AA%BD%E7%88%86%E7%B4%85-%E9%9B%B6%E9%86%AB%E7%BE%8E3%E5%A4%A7%E4%BF%9D%E9%AE%AE%E7%A7%98%E8%A8%A3%E6%9B%9D%E5%85%89",
     "timestamp": "2026-11-01T23:23:42.785Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "十大屋苑周末錄8宗成交　按周回升33.3%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250217/968225726950019072340968.jpeg/56vWwe7I1md5_U0GGUspuH7Iy7N54roBjPy1oLr8taA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60405958/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB%E9%8C%848%E5%AE%97%E6%88%90%E4%BA%A4-%E6%8C%89%E5%91%A8%E5%9B%9E%E5%8D%8733-3",
-    "timestamp": "2026-11-01T23:13:18.350Z",
     "strategy": ".content-card__main"
   }
 ];
