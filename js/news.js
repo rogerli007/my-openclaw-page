@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T23:24:12.095Z
+// Last updated: 2026-11-02T23:39:11.780Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜陳瀅酒後突吻陳曉華遭慘拒　挑戰電視尺度上演女女戀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194076305612607488287091.jpeg/hz15WDADkI7-4-lv0w3HWCDpsGWs9NzEpZKTL6WSky8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406391/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E7%80%85%E9%85%92%E5%BE%8C%E7%AA%81%E5%90%BB%E9%99%B3%E6%9B%89%E8%8F%AF%E9%81%AD%E6%85%98%E6%8B%92-%E6%8C%91%E6%88%B0%E9%9B%BB%E8%A6%96%E5%B0%BA%E5%BA%A6%E4%B8%8A%E6%BC%94%E5%A5%B3%E5%A5%B3%E6%88%80",
+    "timestamp": "2026-11-02T23:39:11.780Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美男童遇溺被誤判不治　放殮房5小時致永久腦損傷　家屬怒告醫生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971300012396544072495.jpeg/5YW1QeDr8X-aBPuD8uai0Sq7DX0_1YTvoOn0RaDp9EU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406397/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B4%AA%E6%B0%B4%E6%A9%8B%E6%AE%B554%E6%AD%B2%E5%A5%B3%E6%8D%B1%E8%BB%8A%E6%92%9E-%E8%B7%8C%E5%85%A5%E8%8A%B1%E5%8F%A2%E4%B8%8D%E6%B2%BB-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-02T18:17:24.782Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧三姊弟躲蟑螂：站在書檯拿皮帶「對峙」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268467034230784983074.jpeg/-kCn7R7hyEa0nBHQmVC9GONVzyfqSqj9H0dWRx9HVkc",
-    "url": "https://www.hk01.com/01TV/60405680/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%89%E5%A7%8A%E5%BC%9F%E8%BA%B2%E8%9F%91%E8%9E%82-%E7%AB%99%E5%9C%A8%E6%9B%B8%E6%AA%AF%E6%8B%BF%E7%9A%AE%E5%B8%B6-%E5%B0%8D%E5%B3%99",
-    "timestamp": "2026-11-02T17:53:36.268Z",
     "strategy": ".content-card__main"
   }
 ];
