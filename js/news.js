@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T07:39:41.927Z
+// Last updated: 2026-11-02T08:20:15.223Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡祖六︰內地政策有空間「大膽得多」　AI投資泡沫擔憂不適用中國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182282046970531840592740.jpeg/GghN0oGIADdn29u7eeObH8Fqd-zyFtVpku_nKZLv5yk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406228/%E8%83%A1%E7%A5%96%E5%85%AD-%E5%85%A7%E5%9C%B0%E6%94%BF%E7%AD%96%E6%9C%89%E7%A9%BA%E9%96%93-%E5%A4%A7%E8%86%BD%E5%BE%97%E5%A4%9A-ai%E6%8A%95%E8%B3%87%E6%B3%A1%E6%B2%AB%E6%93%94%E6%86%82%E4%B8%8D%E9%81%A9%E7%94%A8%E4%B8%AD%E5%9C%8B",
+    "timestamp": "2026-11-02T08:20:15.223Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：日本擬與台達5合作領域貿易協議　仿英國模式最快年底簽署",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161307584284594176926805.jpeg/ix_Y_qEY38mQ_GyUU0C4uIIeLufK20gFWY42O1mONjs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406033/fintech-week-2026-%E6%BB%99%E8%B1%90%E8%A8%AD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%96%B0%E8%88%88%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E9%99%A2-%E8%90%BD%E6%88%B6%E5%8C%97%E9%83%BD",
     "timestamp": "2026-11-02T02:19:06.912Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佛羅里達州小型飛機失事　「快墜了」高速直插地面爆炸9死｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193860942492864512759861.jpeg/kwjYzJTVQhLXwfD5EocGu8NkToDLxODhPUc6jj1HOo4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406012/%E4%BD%9B%E7%BE%85%E9%87%8C%E9%81%94%E5%B7%9E%E5%B0%8F%E5%9E%8B%E9%A3%9B%E6%A9%9F%E5%A4%B1%E4%BA%8B-%E5%BF%AB%E5%A2%9C%E4%BA%86-%E9%AB%98%E9%80%9F%E7%9B%B4%E6%8F%92%E5%9C%B0%E9%9D%A2%E7%88%86%E7%82%B89%E6%AD%BB-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-02T01:53:41.514Z",
     "strategy": ".content-card__main"
   }
 ];
