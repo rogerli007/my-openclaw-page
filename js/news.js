@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T09:46:12.528Z
+// Last updated: 2026-11-02T09:59:10.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜銅鑼灣三地牌七人車闖電車軌　行人過路處U-turn再切單白線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193981701131341824240981.jpeg/-KfkVQS3TVSMyhyuW-PjmLk_sAzCAsaYg7Ta3IO02tw",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406286/%E6%9C%89%E7%89%87-%E9%8A%85%E9%91%BC%E7%81%A3%E4%B8%89%E5%9C%B0%E7%89%8C%E4%B8%83%E4%BA%BA%E8%BB%8A%E9%97%96%E9%9B%BB%E8%BB%8A%E8%BB%8C-%E8%A1%8C%E4%BA%BA%E9%81%8E%E8%B7%AF%E8%99%95u-turn%E5%86%8D%E5%88%87%E5%96%AE%E7%99%BD%E7%B7%9A",
+    "timestamp": "2026-11-02T09:59:10.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜湖人主帥批後備戰力不足　當錫轟45分締新紀錄率隊險勝速龍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193874187500916736473598.png/rGUvXpNEu9f26R4Opp0ST1BLg5VBj7TfKo4GKCqOBig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60406046/%E5%A4%AA%E5%8F%A4%E5%9F%8E%E4%B8%89%E6%88%BF%E6%AC%A0%E7%AE%A1%E7%90%86%E8%B2%BB%E8%A2%AB%E6%8E%A8%E6%8B%8D-%E9%96%8B%E5%83%B9540%E8%90%AC%E4%BD%8E%E4%BC%B0%E5%83%B956-%E5%91%8E%E5%83%B9%E4%B8%8D%E8%B6%B37600%E5%85%83",
     "timestamp": "2026-11-02T02:54:35.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本桑田真澄次子「蛇精男」Matt捲同性醜聞　遭3男控告醉酒侵犯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193618544961523712751846.png/rmKeq-chjGUgpZNYTV5Co_b8DLLypoUWfBgQq3wYEKs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405906/%E6%97%A5%E6%9C%AC%E6%A1%91%E7%94%B0%E7%9C%9F%E6%BE%84%E6%AC%A1%E5%AD%90-%E8%9B%87%E7%B2%BE%E7%94%B7-matt%E6%8D%B2%E5%90%8C%E6%80%A7%E9%86%9C%E8%81%9E-%E9%81%AD3%E7%94%B7%E6%8E%A7%E5%91%8A%E9%86%89%E9%85%92%E4%BE%B5%E7%8A%AF",
-    "timestamp": "2026-11-02T02:41:12.283Z",
     "strategy": ".content-card__main"
   }
 ];
