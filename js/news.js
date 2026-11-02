@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T16:54:10.302Z
+// Last updated: 2026-11-02T17:13:35.038Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧三姊弟躲蟑螂：站在書檯拿皮帶「對峙」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268467034230784983074.jpeg/-kCn7R7hyEa0nBHQmVC9GONVzyfqSqj9H0dWRx9HVkc",
+    "url": "https://www.hk01.com/01TV/60405680/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%89%E5%A7%8A%E5%BC%9F%E8%BA%B2%E8%9F%91%E8%9E%82-%E7%AB%99%E5%9C%A8%E6%9B%B8%E6%AA%AF%E6%8B%BF%E7%9A%AE%E5%B8%B6-%E5%B0%8D%E5%B3%99",
+    "timestamp": "2026-11-02T17:13:35.038Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《玉簟秋》大結局虞昶軒戰死！盤點2部民國虐劇為何「十有九悲」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186854639698448384047613.jpeg/75OcYmXkfhyj2Eu0p8elHLMARWYtSCkkBxMUBwcTFAc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406321/%E6%B5%81%E6%84%9F-7%E6%AD%B2%E6%9C%AA%E6%89%93%E7%96%AB%E8%8B%97%E5%A5%B3%E7%AB%A5%E6%9F%93%E7%94%B2%E6%B5%81%E4%BD%B5%E7%99%BC%E8%82%BA%E7%82%8E-picu%E7%95%99%E9%86%AB-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E7%84%A1%E5%A4%96%E9%81%8A",
     "timestamp": "2026-11-02T10:39:42.240Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流感｜7歲未打疫苗女童染甲流併發肺炎　PICU留醫　潛伏期無外遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186854639698448384047613.jpeg/75OcYmXkfhyj2Eu0p8elHLMARWYtSCkkBxMUBwcTFAc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406321/%E6%B5%81%E6%84%9F-7%E6%AD%B2%E6%9C%AA%E6%89%93%E7%96%AB%E8%8B%97%E5%A5%B3%E7%AB%A5%E6%9F%93%E7%94%B2%E6%B5%81%E4%BD%B5%E7%99%BC%E8%82%BA%E7%82%8E-picu%E7%95%99%E9%86%AB-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E7%84%A1%E5%A4%96%E9%81%8A",
-    "timestamp": "2026-11-02T10:29:55.987Z",
     "strategy": ".content-card__main"
   }
 ];
