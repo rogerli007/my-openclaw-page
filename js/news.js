@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T22:39:18.888Z
+// Last updated: 2026-11-02T23:13:39.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乒總教練涉粗口辱罵　辯稱兜巴星屬德育訓話　學生控總會處理不當",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194025501887303680902548.jpeg/FqpuBIXEjnvuiUNqXauw2p4J0Nr2qNZopOM0nqTjNJ4",
+    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60402798/%E4%B9%92%E7%B8%BD%E6%95%99%E7%B7%B4%E6%B6%89%E7%B2%97%E5%8F%A3%E8%BE%B1%E7%BD%B5-%E8%BE%AF%E7%A8%B1%E5%85%9C%E5%B7%B4%E6%98%9F%E5%B1%AC%E5%BE%B7%E8%82%B2%E8%A8%93%E8%A9%B1-%E5%AD%B8%E7%94%9F%E6%8E%A7%E7%B8%BD%E6%9C%83%E8%99%95%E7%90%86%E4%B8%8D%E7%95%B6",
+    "timestamp": "2026-11-02T23:13:39.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "范彩兒披金絲裙褂出嫁　收起傲人身材潘嘉德《愛回家》二太到賀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268467034230784983074.jpeg/-kCn7R7hyEa0nBHQmVC9GONVzyfqSqj9H0dWRx9HVkc",
     "url": "https://www.hk01.com/01TV/60405680/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%89%E5%A7%8A%E5%BC%9F%E8%BA%B2%E8%9F%91%E8%9E%82-%E7%AB%99%E5%9C%A8%E6%9B%B8%E6%AA%AF%E6%8B%BF%E7%9A%AE%E5%B8%B6-%E5%B0%8D%E5%B3%99",
     "timestamp": "2026-11-02T17:22:09.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧三姊弟躲蟑螂：站在書檯拿皮帶「對峙」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268467034230784983074.jpeg/-kCn7R7hyEa0nBHQmVC9GONVzyfqSqj9H0dWRx9HVkc",
-    "url": "https://www.hk01.com/01TV/60405680/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%89%E5%A7%8A%E5%BC%9F%E8%BA%B2%E8%9F%91%E8%9E%82-%E7%AB%99%E5%9C%A8%E6%9B%B8%E6%AA%AF%E6%8B%BF%E7%9A%AE%E5%B8%B6-%E5%B0%8D%E5%B3%99",
-    "timestamp": "2026-11-02T17:13:35.038Z",
     "strategy": ".content-card__main"
   }
 ];
