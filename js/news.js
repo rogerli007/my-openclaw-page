@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T05:40:13.269Z
+// Last updated: 2026-11-02T05:53:22.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "糖尿病飲食｜減飯=健康？鷹嘴豆可代飯？長者吃飯4招加1物降血糖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193922201410080768712406.jpeg/WBJKegFrqhkbmhAMao0vJmDKCKHYgvHDrGo0DaxqNA0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60403567/%E7%B3%96%E5%B0%BF%E7%97%85%E9%A3%B2%E9%A3%9F-%E6%B8%9B%E9%A3%AF-%E5%81%A5%E5%BA%B7-%E9%B7%B9%E5%98%B4%E8%B1%86%E5%8F%AF%E4%BB%A3%E9%A3%AF-%E9%95%B7%E8%80%85%E5%90%83%E9%A3%AF4%E6%8B%9B%E5%8A%A01%E7%89%A9%E9%99%8D%E8%A1%80%E7%B3%96",
+    "timestamp": "2026-11-02T05:53:22.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "普通話中環抬頭！　彭博︰外籍人才回流投百份CV　不諳中文成阻礙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193604510539321344542310.jpeg/KmrZ39RD7OtnBKNFi_Dt_N8qBbYfJ1ioGDC5xxgwucc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401451/%E5%A5%B3%E8%B2%93%E5%A5%B4%E9%81%AD%E6%84%9B%E8%B2%93%E7%8C%9B%E8%B9%AC%E8%85%B9%E9%83%A8-%E6%B7%B1%E5%A4%9C%E7%97%9B%E9%86%92%E9%80%81%E9%86%AB-%E6%8F%AD%E9%BB%83%E9%AB%94%E5%9B%8A%E8%85%AB%E7%A0%B4%E8%A3%82%E7%A9%8D%E8%A1%801000ml",
     "timestamp": "2026-11-02T00:34:09.063Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "騰訊雲訪問｜WorkBuddy月活已達3200萬　AI項目首重growth scale",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192906792581992448649320.jpeg/LrrEMiACg0Y_PbczmxldHTtVTABsYCm74g99xeIPfcU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405450/%E9%A8%B0%E8%A8%8A%E9%9B%B2%E8%A8%AA%E5%95%8F-workbuddy%E6%9C%88%E6%B4%BB%E5%B7%B2%E9%81%943200%E8%90%AC-ai%E9%A0%85%E7%9B%AE%E9%A6%96%E9%87%8Dgrowth-scale",
-    "timestamp": "2026-11-01T23:53:35.953Z",
     "strategy": ".content-card__main"
   }
 ];
