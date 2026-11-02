@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T22:16:03.885Z
+// Last updated: 2026-11-02T22:39:18.888Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "范彩兒披金絲裙褂出嫁　收起傲人身材潘嘉德《愛回家》二太到賀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194071000220700672632540.jpeg/H5YEpar7psUmk3Q8EDle8RgMBXhB0M-TUe8RJ1HvESc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406327/%E8%8C%83%E5%BD%A9%E5%85%92%E6%8A%AB%E9%87%91%E7%B5%B2%E8%A3%99%E8%A4%82%E5%87%BA%E5%AB%81-%E6%94%B6%E8%B5%B7%E5%82%B2%E4%BA%BA%E8%BA%AB%E6%9D%90%E6%BD%98%E5%98%89%E5%BE%B7-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E4%BA%8C%E5%A4%AA%E5%88%B0%E8%B3%80",
+    "timestamp": "2026-11-02T22:39:18.888Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古明華餐廳連環執笠再開牛雜店　招攬「愛國藝人」一齊搞遭婉拒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268467034230784983074.jpeg/-kCn7R7hyEa0nBHQmVC9GONVzyfqSqj9H0dWRx9HVkc",
     "url": "https://www.hk01.com/01TV/60405680/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%89%E5%A7%8A%E5%BC%9F%E8%BA%B2%E8%9F%91%E8%9E%82-%E7%AB%99%E5%9C%A8%E6%9B%B8%E6%AA%AF%E6%8B%BF%E7%9A%AE%E5%B8%B6-%E5%B0%8D%E5%B3%99",
     "timestamp": "2026-11-02T17:13:35.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《玉簟秋》大結局虞昶軒戰死！盤點2部民國虐劇為何「十有九悲」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193951733160611840618954.png/PZcOk4sJKYh2CLOIopimQ86LFXZyrNt-TX6PHU1-jx0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60406162/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%A4%A7%E7%B5%90%E5%B1%80%E8%99%9E%E6%98%B6%E8%BB%92%E6%88%B0%E6%AD%BB-%E7%9B%A4%E9%BB%9E2%E9%83%A8%E6%B0%91%E5%9C%8B%E8%99%90%E5%8A%87%E7%82%BA%E4%BD%95-%E5%8D%81%E6%9C%89%E4%B9%9D%E6%82%B2",
-    "timestamp": "2026-11-02T16:54:10.302Z",
     "strategy": ".content-card__main"
   }
 ];
