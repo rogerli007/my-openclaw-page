@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T15:59:09.511Z
+// Last updated: 2026-11-02T16:32:12.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江嘉敏身材獲平反獲讚「真人瘦好多」　親自回覆一句說話焫㷫網民",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194004062807265280619450.jpeg/848piFjWfIbOVmHTrg_f-YxuyrjYJANC-2D4rftg-K0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406342/%E6%B1%9F%E5%98%89%E6%95%8F%E8%BA%AB%E6%9D%90%E7%8D%B2%E5%B9%B3%E5%8F%8D%E7%8D%B2%E8%AE%9A-%E7%9C%9F%E4%BA%BA%E7%98%A6%E5%A5%BD%E5%A4%9A-%E8%A6%AA%E8%87%AA%E5%9B%9E%E8%A6%86%E4%B8%80%E5%8F%A5%E8%AA%AA%E8%A9%B1%E7%84%AB%E3%B7%AB%E7%B6%B2%E6%B0%91",
+    "timestamp": "2026-11-02T16:32:12.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃澤林首開腔認戀譚旻萱　稱康堤講分手後先識Mandy：無關第三者",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193981701131341824240981.jpeg/-KfkVQS3TVSMyhyuW-PjmLk_sAzCAsaYg7Ta3IO02tw",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406286/%E6%9C%89%E7%89%87-%E9%8A%85%E9%91%BC%E7%81%A3%E4%B8%89%E5%9C%B0%E7%89%8C%E4%B8%83%E4%BA%BA%E8%BB%8A%E9%97%96%E9%9B%BB%E8%BB%8A%E8%BB%8C-%E8%A1%8C%E4%BA%BA%E9%81%8E%E8%B7%AF%E8%99%95u-turn%E5%86%8D%E5%88%87%E5%96%AE%E7%99%BD%E7%B7%9A",
     "timestamp": "2026-11-02T09:59:10.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜湖人主帥批後備戰力不足　當錫轟45分締新紀錄率隊險勝速龍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971390600974336349610.jpeg/P5dfUPXCvs1NWG4V5hiA54CzHZ36dRqoAtGkAQLRpAE?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60406267/nba-%E6%B9%96%E4%BA%BA%E4%B8%BB%E5%B8%A5%E6%89%B9%E5%BE%8C%E5%82%99%E6%88%B0%E5%8A%9B%E4%B8%8D%E8%B6%B3-%E7%95%B6%E9%8C%AB%E8%BD%9F45%E5%88%86%E7%B7%A0%E6%96%B0%E7%B4%80%E9%8C%84%E7%8E%87%E9%9A%8A%E9%9A%AA%E5%8B%9D%E9%80%9F%E9%BE%8D",
-    "timestamp": "2026-11-02T09:46:12.528Z",
     "strategy": ".content-card__main"
   }
 ];
