@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T04:39:56.531Z
+// Last updated: 2026-11-02T04:59:16.819Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "72歲林建明染惡菌險演變成肺炎 一文睇清肺炎常見徵狀及預防方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193906365517533184685140.jpeg/KqP_EPRlAZOk5iNiK5O70nxwpeIEVy2GIaQTLiGkEy4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406069/72%E6%AD%B2%E6%9E%97%E5%BB%BA%E6%98%8E%E6%9F%93%E6%83%A1%E8%8F%8C%E9%9A%AA%E6%BC%94%E8%AE%8A%E6%88%90%E8%82%BA%E7%82%8E-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E8%82%BA%E7%82%8E%E5%B8%B8%E8%A6%8B%E5%BE%B5%E7%8B%80%E5%8F%8A%E9%A0%90%E9%98%B2%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-11-02T04:59:16.819Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車藝蓮被指掌摑同學致耳膜撕裂　賢妻良母形象崩壞廣告代言恐落空",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193812246602452992610472.jpeg/b_x9fKgQ9vjIdtqgafXWK0bdbVP2jwMYNpmm2xyZpts?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60406000/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4-%E6%97%A5%E9%96%93%E7%82%8E%E7%86%B1%E7%B4%8431%E5%BA%A6-%E7%A8%8D%E5%BE%8C%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8",
     "timestamp": "2026-11-01T22:53:30.794Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "橫頭磡邨45歲女子墮樓　昏迷送院惜不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579876782542848604831.jpeg/A_i1h7LFxBgwiZU6R8PDO_vVgM31VkYjuDSNj7g0jY8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406003/%E6%A9%AB%E9%A0%AD%E7%A3%A1%E9%82%A845%E6%AD%B2%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%83%9C%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-11-01T22:39:39.967Z",
     "strategy": ".content-card__main"
   }
 ];
