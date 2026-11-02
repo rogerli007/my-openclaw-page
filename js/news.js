@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T00:53:21.953Z
+// Last updated: 2026-11-02T01:21:49.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：特朗普與內塔尼亞胡「坦誠通話」　商對伊朗下一步行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143511754974695424657398.jpeg/IwNhyedavqMyQ7nay3p4G74AWK_GwXLsgKS1HICktRw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406009/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%9D%A6%E8%AA%A0%E9%80%9A%E8%A9%B1-%E5%95%86%E5%B0%8D%E4%BC%8A%E6%9C%97%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-11-02T01:21:49.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "租30間屋教機械人做家務　武漢00後女訓練師遭經紀懷疑是騙子？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193761628575764480950718.jpeg/F3Pjru1kpOhbsDTs38oiUp5zgd15qiTQ_hi-q_4Yvqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405997/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8B%98%E6%9C%AA%E6%88%90%E5%B9%B4%E7%96%91%E7%8A%AF-%E6%B6%89%E8%8E%AB%E6%96%AF%E7%A7%91%E6%99%AF%E9%BB%9E%E4%BC%81%E5%9C%96%E6%81%90%E8%A5%B2%E6%A1%88",
     "timestamp": "2026-11-01T19:23:23.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧逆風翻盤：從Band 5最差班考到全級第二",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193267048013107200436287.jpeg/zMyzUJk9mM5AXAzZCCY0I9leW5vQeY-iFQayWBUGslg",
-    "url": "https://www.hk01.com/01TV/60405677/%E9%AB%98%E6%B5%B7%E5%AF%A7%E9%80%86%E9%A2%A8%E7%BF%BB%E7%9B%A4-%E5%BE%9Eband-5%E6%9C%80%E5%B7%AE%E7%8F%AD%E8%80%83%E5%88%B0%E5%85%A8%E7%B4%9A%E7%AC%AC%E4%BA%8C",
-    "timestamp": "2026-11-01T19:12:11.865Z",
     "strategy": ".content-card__main"
   }
 ];
