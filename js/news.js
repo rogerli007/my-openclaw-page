@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T12:42:31.651Z
+// Last updated: 2026-11-02T12:53:27.647Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "狗咬人後棄養增　五機構半年救569隻貓狗　倡政府撥地建綜合中心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194019991695921152685349.jpeg/SqWhpSuDd2SZDZ0292cE4wSJOx9oIfJBxtC5Z-DQuWc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406366/%E7%8B%97%E5%92%AC%E4%BA%BA%E5%BE%8C%E6%A3%84%E9%A4%8A%E5%A2%9E-%E4%BA%94%E6%A9%9F%E6%A7%8B%E5%8D%8A%E5%B9%B4%E6%95%91569%E9%9A%BB%E8%B2%93%E7%8B%97-%E5%80%A1%E6%94%BF%E5%BA%9C%E6%92%A5%E5%9C%B0%E5%BB%BA%E7%B6%9C%E5%90%88%E4%B8%AD%E5%BF%83",
+    "timestamp": "2026-11-02T12:53:27.647Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "猴痘｜33歲男確診　潛伏期內曾在港與男子有高風險性接觸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193895126875770880168542.jpeg/6Ve-LzNIYCSMI4Ks28M4FVTzLOR9yprSKbph9Cm6YfQ?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60406086/nba-%E8%B2%BB%E5%9F%8E76%E4%BA%BA%E7%99%BB%E6%9D%B1%E5%B2%B8%E7%AC%AC%E4%B8%80-%E5%8B%92%E9%82%A6%E5%8D%A0%E5%A3%AB%E5%B0%8D%E4%BD%8D%E5%96%AE%E9%98%B2%E6%99%82%E5%B0%8D%E6%89%8B%E5%91%BD%E4%B8%AD%E7%8E%87%E5%83%8528-1",
     "timestamp": "2026-11-02T05:25:56.765Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國6G與載人登月雙線超車？解密中美科技競賽的深層對比",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260415/1121097302891958272052794.jpeg/Wqj83fZNxjED3Z_J2sDKae15Fl73Omsa7pVKAu6VSgI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60406043/%E4%B8%AD%E5%9C%8B6g%E8%88%87%E8%BC%89%E4%BA%BA%E7%99%BB%E6%9C%88%E9%9B%99%E7%B7%9A%E8%B6%85%E8%BB%8A-%E8%A7%A3%E5%AF%86%E4%B8%AD%E7%BE%8E%E7%A7%91%E6%8A%80%E7%AB%B6%E8%B3%BD%E7%9A%84%E6%B7%B1%E5%B1%A4%E5%B0%8D%E6%AF%94",
-    "timestamp": "2026-11-02T05:16:29.894Z",
     "strategy": ".content-card__main"
   }
 ];
