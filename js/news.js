@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T19:39:45.024Z
+// Last updated: 2026-11-02T19:53:26.410Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧媽媽幫忙報名模特賽：贏得比賽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193275743509942272821067.jpeg/niEZ0NRRgFsICDA8KSyiwFbR8cAQApiyIF923yBfdt8",
+    "url": "https://www.hk01.com/01TV/60405694/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%AA%BD%E5%AA%BD%E5%B9%AB%E5%BF%99%E5%A0%B1%E5%90%8D%E6%A8%A1%E7%89%B9%E8%B3%BD-%E8%B4%8F%E5%BE%97%E6%AF%94%E8%B3%BD",
+    "timestamp": "2026-11-02T19:53:26.410Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧媽媽幫忙報名模特賽：贏得比賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194042032935407616843765.jpeg/KERfHKuAq-eb4xsIuQY19phtH29OY3dzAVZP-AFWT_g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406375/%E6%94%BE%E5%81%87%E8%A1%8C%E5%B1%B15%E5%B0%8F%E6%99%82%E5%94%94%E8%A6%86%E6%A9%9F%E8%A2%AB%E7%82%92-%E5%8D%97%E4%BA%AC%E5%A5%B3%E5%8A%A9%E6%95%99%E6%8F%AD%E9%9A%B1%E6%80%A7%E5%8A%A0%E7%8F%AD%E4%BB%B2%E8%A3%81%E7%B4%A2%E8%B3%A0",
     "timestamp": "2026-11-02T13:53:13.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《玉簟秋》大結局虞昶軒戰死！丞磊演「偽二世祖真城府」少帥獲讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193940117044072448268957.png/WgBoSN8OpuK4unS_QzINXNYg9TGKvMVZ2mePptpnj6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60406032/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%A4%A7%E7%B5%90%E5%B1%80%E8%99%9E%E6%98%B6%E8%BB%92%E6%88%B0%E6%AD%BB-%E4%B8%9E%E7%A3%8A%E6%BC%94-%E5%81%BD%E4%BA%8C%E4%B8%96%E7%A5%96%E7%9C%9F%E5%9F%8E%E5%BA%9C-%E5%B0%91%E5%B8%A5%E7%8D%B2%E8%AE%9A",
-    "timestamp": "2026-11-02T13:21:35.260Z",
     "strategy": ".content-card__main"
   }
 ];
