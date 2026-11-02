@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T06:33:45.011Z
+// Last updated: 2026-11-02T06:56:00.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "邱達根諷曾俊華「天才級智障師兄」　斥退任指指點點：齋噏當秘笈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193533078157398016246093.jpeg/gQh5eXHGs54SAg2A-aSobMFwnS8nAOTJz7_nUM-_51A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406177/%E9%82%B1%E9%81%94%E6%A0%B9%E8%AB%B7%E6%9B%BE%E4%BF%8A%E8%8F%AF-%E5%A4%A9%E6%89%8D%E7%B4%9A%E6%99%BA%E9%9A%9C%E5%B8%AB%E5%85%84-%E6%96%A5%E9%80%80%E4%BB%BB%E6%8C%87%E6%8C%87%E9%BB%9E%E9%BB%9E-%E9%BD%8B%E5%99%8F%E7%95%B6%E7%A7%98%E7%AC%88",
+    "timestamp": "2026-11-02T06:56:00.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Heidi Klum萬聖節「走火入魔史」：由做回自己到異形怪物冠絕全場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143511754974695424657398.jpeg/IwNhyedavqMyQ7nay3p4G74AWK_GwXLsgKS1HICktRw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406009/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%9D%A6%E8%AA%A0%E9%80%9A%E8%A9%B1-%E5%95%86%E5%B0%8D%E4%BC%8A%E6%9C%97%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-11-02T01:21:49.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "租30間屋教機械人做家務　武漢00後女訓練師遭經紀懷疑是騙子？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193692308248596480768054.jpeg/697fUW_uyzSaJHHVjupRNIwnljF72NJLV7Lyz1ey8s8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405953/%E7%A7%9F30%E9%96%93%E5%B1%8B%E6%95%99%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%81%9A%E5%AE%B6%E5%8B%99-%E6%AD%A6%E6%BC%A200%E5%BE%8C%E5%A5%B3%E8%A8%93%E7%B7%B4%E5%B8%AB%E9%81%AD%E7%B6%93%E7%B4%80%E6%87%B7%E7%96%91%E6%98%AF%E9%A8%99%E5%AD%90",
-    "timestamp": "2026-11-02T00:53:21.953Z",
     "strategy": ".content-card__main"
   }
 ];
