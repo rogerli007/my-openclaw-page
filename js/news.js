@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T02:54:35.349Z
+// Last updated: 2026-11-02T03:23:56.072Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵MMA│阿伯vs後生仔「九龍塘打到太子」！ 網民嘆：國際MMA之都",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193623389466529792905718.jpeg/0clY1srVhYB60Ak7OY-GnFLrc28lsEWKnljvlp5Y75Y",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60405845/%E6%B8%AF%E9%90%B5mma-%E9%98%BF%E4%BC%AFvs%E5%BE%8C%E7%94%9F%E4%BB%94-%E4%B9%9D%E9%BE%8D%E5%A1%98%E6%89%93%E5%88%B0%E5%A4%AA%E5%AD%90-%E7%B6%B2%E6%B0%91%E5%98%86-%E5%9C%8B%E9%9A%9Bmma%E4%B9%8B%E9%83%BD",
+    "timestamp": "2026-11-02T03:23:56.072Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太古城三房欠管理費被推拍　開價540萬低估價56%　呎價不足7600元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193244185587617792158960.jpeg/P-fi4BxgHzNdsMwC_4WFBr0TRhfesEa_f0uhIX9LoSE",
     "url": "https://www.hk01.com/01TV/60405640/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%80%E5%AE%B6%E6%93%A0%E5%A4%A9%E8%87%BA%E5%B1%8B-%E7%AA%97%E5%A4%96%E6%8E%9B%E5%B7%A8%E5%B9%85%E6%B5%B7%E5%A0%B1%E4%B8%8D%E6%95%A2%E6%8B%89%E7%AA%97%E7%B0%BE",
     "timestamp": "2026-11-01T20:53:35.887Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧一家擠天臺屋：窗外掛巨幅海報不敢拉窗簾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193244185587617792158960.jpeg/P-fi4BxgHzNdsMwC_4WFBr0TRhfesEa_f0uhIX9LoSE",
-    "url": "https://www.hk01.com/01TV/60405640/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%80%E5%AE%B6%E6%93%A0%E5%A4%A9%E8%87%BA%E5%B1%8B-%E7%AA%97%E5%A4%96%E6%8E%9B%E5%B7%A8%E5%B9%85%E6%B5%B7%E5%A0%B1%E4%B8%8D%E6%95%A2%E6%8B%89%E7%AA%97%E7%B0%BE",
-    "timestamp": "2026-11-01T20:39:48.968Z",
     "strategy": ".content-card__main"
   }
 ];
