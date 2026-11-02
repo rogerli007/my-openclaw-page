@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T05:53:22.497Z
+// Last updated: 2026-11-02T06:33:45.011Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Heidi Klum萬聖節「走火入魔史」：由做回自己到異形怪物冠絕全場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193930458975440896267154.jpeg/xjX-r_vijjIYg-EGP-BgdX-kEFgDPQhzAzgO4QM4DuE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60406102/heidi-klum%E8%90%AC%E8%81%96%E7%AF%80-%E8%B5%B0%E7%81%AB%E5%85%A5%E9%AD%94%E5%8F%B2-%E7%94%B1%E5%81%9A%E5%9B%9E%E8%87%AA%E5%B7%B1%E5%88%B0%E7%95%B0%E5%BD%A2%E6%80%AA%E7%89%A9%E5%86%A0%E7%B5%95%E5%85%A8%E5%A0%B4",
+    "timestamp": "2026-11-02T06:33:45.011Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "糖尿病飲食｜減飯=健康？鷹嘴豆可代飯？長者吃飯4招加1物降血糖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193692308248596480768054.jpeg/697fUW_uyzSaJHHVjupRNIwnljF72NJLV7Lyz1ey8s8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405953/%E7%A7%9F30%E9%96%93%E5%B1%8B%E6%95%99%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%81%9A%E5%AE%B6%E5%8B%99-%E6%AD%A6%E6%BC%A200%E5%BE%8C%E5%A5%B3%E8%A8%93%E7%B7%B4%E5%B8%AB%E9%81%AD%E7%B6%93%E7%B4%80%E6%87%B7%E7%96%91%E6%98%AF%E9%A8%99%E5%AD%90",
     "timestamp": "2026-11-02T00:53:21.953Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女貓奴遭愛貓猛蹬腹部　深夜痛醒送醫　揭黃體囊腫破裂積血1000ml",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193604510539321344542310.jpeg/KmrZ39RD7OtnBKNFi_Dt_N8qBbYfJ1ioGDC5xxgwucc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401451/%E5%A5%B3%E8%B2%93%E5%A5%B4%E9%81%AD%E6%84%9B%E8%B2%93%E7%8C%9B%E8%B9%AC%E8%85%B9%E9%83%A8-%E6%B7%B1%E5%A4%9C%E7%97%9B%E9%86%92%E9%80%81%E9%86%AB-%E6%8F%AD%E9%BB%83%E9%AB%94%E5%9B%8A%E8%85%AB%E7%A0%B4%E8%A3%82%E7%A9%8D%E8%A1%801000ml",
-    "timestamp": "2026-11-02T00:34:09.063Z",
     "strategy": ".content-card__main"
   }
 ];
