@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T00:34:09.063Z
+// Last updated: 2026-11-02T00:53:21.953Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "租30間屋教機械人做家務　武漢00後女訓練師遭經紀懷疑是騙子？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193692308248596480768054.jpeg/697fUW_uyzSaJHHVjupRNIwnljF72NJLV7Lyz1ey8s8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60405953/%E7%A7%9F30%E9%96%93%E5%B1%8B%E6%95%99%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%81%9A%E5%AE%B6%E5%8B%99-%E6%AD%A6%E6%BC%A200%E5%BE%8C%E5%A5%B3%E8%A8%93%E7%B7%B4%E5%B8%AB%E9%81%AD%E7%B6%93%E7%B4%80%E6%87%B7%E7%96%91%E6%98%AF%E9%A8%99%E5%AD%90",
+    "timestamp": "2026-11-02T00:53:21.953Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女貓奴遭愛貓猛蹬腹部　深夜痛醒送醫　揭黃體囊腫破裂積血1000ml",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193267048013107200436287.jpeg/zMyzUJk9mM5AXAzZCCY0I9leW5vQeY-iFQayWBUGslg",
     "url": "https://www.hk01.com/01TV/60405677/%E9%AB%98%E6%B5%B7%E5%AF%A7%E9%80%86%E9%A2%A8%E7%BF%BB%E7%9B%A4-%E5%BE%9Eband-5%E6%9C%80%E5%B7%AE%E7%8F%AD%E8%80%83%E5%88%B0%E5%85%A8%E7%B4%9A%E7%AC%AC%E4%BA%8C",
     "timestamp": "2026-11-01T19:12:11.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴作客1：0勝利物浦　夏維斯居功",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193742612368986112415328.jpeg/6MusxY3a6IIWm4vU2InqPNIGYyW6-chf97fsc_e37HM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60405995/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A21-0%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E5%A4%8F%E7%B6%AD%E6%96%AF%E5%B1%85%E5%8A%9F",
-    "timestamp": "2026-11-01T18:59:04.636Z",
     "strategy": ".content-card__main"
   }
 ];
