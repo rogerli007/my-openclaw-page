@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T20:59:13.783Z
+// Last updated: 2026-11-02T21:14:13.151Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅晤伊朗國安官員　稱對話談判才是解決戰事之道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194127890493476864713568.jpeg/uEchzGqXVrOe7rsYd3qgOZrBfMUvhPIyJf2j8CX9o_A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406401/%E7%8E%8B%E6%AF%85%E6%99%A4%E4%BC%8A%E6%9C%97%E5%9C%8B%E5%AE%89%E5%AE%98%E5%93%A1-%E7%A8%B1%E5%B0%8D%E8%A9%B1%E8%AB%87%E5%88%A4%E6%89%8D%E6%98%AF%E8%A7%A3%E6%B1%BA%E6%88%B0%E4%BA%8B%E4%B9%8B%E9%81%93",
+    "timestamp": "2026-11-02T21:14:13.151Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅晤伊朗國安官員　稱對話談判才是解決戰事之道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193724777152385024359184.jpeg/eQyTy4lIPNsAlmFQWujB9N8q0E6ykc9FLC20gCwttIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406388/%E7%89%B9%E6%9C%97%E6%99%AE%E8%90%AC%E8%81%96%E7%AF%80%E6%89%AE%E6%88%90-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%90%AC%E6%96%AF%E6%89%AE%E9%84%A7%E4%B8%8D%E5%88%A9%E5%A4%9A%E7%A8%B1-%E7%99%BC%E7%A6%8F%E8%80%81%E4%BA%86%E7%9A%84%E6%88%91",
     "timestamp": "2026-11-02T15:42:50.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "婚禮夜新郎車禍急送ICU！1臂傷殘失知覺　新娘查出已懷孕1招保胎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193977206905245696907281.png/WhGQlJpJmrhXP5lh3yY0m4C0HoOASIz-8ngjPPJ4Izw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60406023/%E5%A9%9A%E7%A6%AE%E5%A4%9C%E6%96%B0%E9%83%8E%E8%BB%8A%E7%A6%8D%E6%80%A5%E9%80%81icu-1%E8%87%82%E5%82%B7%E6%AE%98%E5%A4%B1%E7%9F%A5%E8%A6%BA-%E6%96%B0%E5%A8%98%E6%9F%A5%E5%87%BA%E5%B7%B2%E6%87%B7%E5%AD%951%E6%8B%9B%E4%BF%9D%E8%83%8E",
-    "timestamp": "2026-11-02T15:25:38.913Z",
     "strategy": ".content-card__main"
   }
 ];
