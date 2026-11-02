@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T09:59:10.157Z
+// Last updated: 2026-11-02T10:15:23.308Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "失業5年成人生贏家？獲派啟晴邨1人公屋單位　女子：長期病好返晒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193969992643645440385620.png/CJjBHu8Bi6oCd_IvpCv98vvafyOO5V5g35caHN-XGhw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60406131/%E5%A4%B1%E6%A5%AD5%E5%B9%B4%E6%88%90%E4%BA%BA%E7%94%9F%E8%B4%8F%E5%AE%B6-%E7%8D%B2%E6%B4%BE%E5%95%9F%E6%99%B4%E9%82%A81%E4%BA%BA%E5%85%AC%E5%B1%8B%E5%96%AE%E4%BD%8D-%E5%A5%B3%E5%AD%90-%E9%95%B7%E6%9C%9F%E7%97%85%E5%A5%BD%E8%BF%94%E6%99%92",
+    "timestamp": "2026-11-02T10:15:23.308Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜銅鑼灣三地牌七人車闖電車軌　行人過路處U-turn再切單白線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193623389466529792905718.jpeg/0clY1srVhYB60Ak7OY-GnFLrc28lsEWKnljvlp5Y75Y",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60405845/%E6%B8%AF%E9%90%B5mma-%E9%98%BF%E4%BC%AFvs%E5%BE%8C%E7%94%9F%E4%BB%94-%E4%B9%9D%E9%BE%8D%E5%A1%98%E6%89%93%E5%88%B0%E5%A4%AA%E5%AD%90-%E7%B6%B2%E6%B0%91%E5%98%86-%E5%9C%8B%E9%9A%9Bmma%E4%B9%8B%E9%83%BD",
     "timestamp": "2026-11-02T03:23:56.072Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太古城三房欠管理費被推拍　開價540萬低估價56%　呎價不足7600元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193874187500916736473598.png/rGUvXpNEu9f26R4Opp0ST1BLg5VBj7TfKo4GKCqOBig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60406046/%E5%A4%AA%E5%8F%A4%E5%9F%8E%E4%B8%89%E6%88%BF%E6%AC%A0%E7%AE%A1%E7%90%86%E8%B2%BB%E8%A2%AB%E6%8E%A8%E6%8B%8D-%E9%96%8B%E5%83%B9540%E8%90%AC%E4%BD%8E%E4%BC%B0%E5%83%B956-%E5%91%8E%E5%83%B9%E4%B8%8D%E8%B6%B37600%E5%85%83",
-    "timestamp": "2026-11-02T02:54:35.349Z",
     "strategy": ".content-card__main"
   }
 ];
