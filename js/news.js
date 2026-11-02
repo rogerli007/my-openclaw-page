@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T10:54:40.468Z
+// Last updated: 2026-11-02T11:14:20.941Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "M+慶祝開館五周年11月8日免費開放  7個展覽任看另設一系列活動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193999489589841920061982.jpeg/4baWuvS56kNqQSzUGTaLOvbM9ZQAxvr4uSnl87kp5fM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60406349/m-%E6%85%B6%E7%A5%9D%E9%96%8B%E9%A4%A8%E4%BA%94%E5%91%A8%E5%B9%B411%E6%9C%888%E6%97%A5%E5%85%8D%E8%B2%BB%E9%96%8B%E6%94%BE-7%E5%80%8B%E5%B1%95%E8%A6%BD%E4%BB%BB%E7%9C%8B%E5%8F%A6%E8%A8%AD%E4%B8%80%E7%B3%BB%E5%88%97%E6%B4%BB%E5%8B%95",
+    "timestamp": "2026-11-02T11:14:20.941Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃夏蕙淚憶胡百全病危遭正室設禁制令　曾被斷生活費：捱得好慘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193897033270824960391807.jpeg/EzvZIOouz4t4Eg9t7WLJk9FjvaDWAlnbqXAULKlwFCw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406091/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%96%89%E8%B7%AF%E9%9B%BB%E8%A6%96%E6%8B%8D%E5%88%B0%E9%84%BA%E7%90%83%E8%B2%B7%E9%9B%AA%E6%AB%83%E6%83%85%E6%B3%81-%E4%BB%98%E6%AC%BE%E5%BE%8C%E6%9B%BE%E6%8B%89%E4%B8%8B%E5%8F%A3%E7%BD%A9%E6%8A%BD%E7%85%99",
     "timestamp": "2026-11-02T04:16:51.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "武漢萬聖節人群失控　網約車誤入人海遭掟垃圾砸窗放氣困4粒鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193892123385008128102349.png/f1G-fCqwr4nA08LzqiTbZLIXnRB1BOv1C9HZowvR2aM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406058/%E6%AD%A6%E6%BC%A2%E8%90%AC%E8%81%96%E7%AF%80%E4%BA%BA%E7%BE%A4%E5%A4%B1%E6%8E%A7-%E7%B6%B2%E7%B4%84%E8%BB%8A%E8%AA%A4%E5%85%A5%E4%BA%BA%E6%B5%B7%E9%81%AD%E6%8E%9F%E5%9E%83%E5%9C%BE%E7%A0%B8%E7%AA%97%E6%94%BE%E6%B0%A3%E5%9B%B04%E7%B2%92%E9%90%98",
-    "timestamp": "2026-11-02T03:59:36.111Z",
     "strategy": ".content-card__main"
   }
 ];
