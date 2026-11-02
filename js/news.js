@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T14:16:47.775Z
+// Last updated: 2026-11-02T14:27:00.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "行李藏$106萬大麻花、私煙及第一部毒藥　曼谷抵港內地漢遭拘控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194047263861641216128439.jpeg/1Xic6GFkRqZAbip3rHjd2rnhB7ZIfUvnCfaYQQn2mEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406379/%E8%A1%8C%E6%9D%8E%E8%97%8F-106%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E7%A7%81%E7%85%99%E5%8F%8A%E7%AC%AC%E4%B8%80%E9%83%A8%E6%AF%92%E8%97%A5-%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF%E5%85%A7%E5%9C%B0%E6%BC%A2%E9%81%AD%E6%8B%98%E6%8E%A7",
+    "timestamp": "2026-11-02T14:27:00.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林愷鈴親認係滿清皇族「愛新覺羅」後人　尊重家族歷史期待演格格",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193533078157398016246093.jpeg/gQh5eXHGs54SAg2A-aSobMFwnS8nAOTJz7_nUM-_51A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406177/%E9%82%B1%E9%81%94%E6%A0%B9%E8%AB%B7%E6%9B%BE%E4%BF%8A%E8%8F%AF-%E5%A4%A9%E6%89%8D%E7%B4%9A%E6%99%BA%E9%9A%9C%E5%B8%AB%E5%85%84-%E6%96%A5%E9%80%80%E4%BB%BB%E6%8C%87%E6%8C%87%E9%BB%9E%E9%BB%9E-%E9%BD%8B%E5%99%8F%E7%95%B6%E7%A7%98%E7%AC%88",
     "timestamp": "2026-11-02T06:56:00.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Heidi Klum萬聖節「走火入魔史」：由做回自己到異形怪物冠絕全場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193930458975440896267154.jpeg/xjX-r_vijjIYg-EGP-BgdX-kEFgDPQhzAzgO4QM4DuE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60406102/heidi-klum%E8%90%AC%E8%81%96%E7%AF%80-%E8%B5%B0%E7%81%AB%E5%85%A5%E9%AD%94%E5%8F%B2-%E7%94%B1%E5%81%9A%E5%9B%9E%E8%87%AA%E5%B7%B1%E5%88%B0%E7%95%B0%E5%BD%A2%E6%80%AA%E7%89%A9%E5%86%A0%E7%B5%95%E5%85%A8%E5%A0%B4",
-    "timestamp": "2026-11-02T06:33:45.011Z",
     "strategy": ".content-card__main"
   }
 ];
