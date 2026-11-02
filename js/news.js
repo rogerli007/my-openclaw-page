@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T12:53:27.647Z
+// Last updated: 2026-11-02T13:21:35.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《玉簟秋》大結局虞昶軒戰死！丞磊演「偽二世祖真城府」少帥獲讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193940117044072448268957.png/WgBoSN8OpuK4unS_QzINXNYg9TGKvMVZ2mePptpnj6Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60406032/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%A4%A7%E7%B5%90%E5%B1%80%E8%99%9E%E6%98%B6%E8%BB%92%E6%88%B0%E6%AD%BB-%E4%B8%9E%E7%A3%8A%E6%BC%94-%E5%81%BD%E4%BA%8C%E4%B8%96%E7%A5%96%E7%9C%9F%E5%9F%8E%E5%BA%9C-%E5%B0%91%E5%B8%A5%E7%8D%B2%E8%AE%9A",
+    "timestamp": "2026-11-02T13:21:35.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "狗咬人後棄養增　五機構半年救569隻貓狗　倡政府撥地建綜合中心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1432618/org/110d53cc8d46da0d5014f63cb9e65306.jpg/eQZbjMFcPJgFo74Wq-dw2VXwxEtyLy4otJ_kErSf5BI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406090/%E6%99%AE%E9%80%9A%E8%A9%B1%E4%B8%AD%E7%92%B0%E6%8A%AC%E9%A0%AD-%E5%BD%AD%E5%8D%9A-%E5%A4%96%E7%B1%8D%E4%BA%BA%E6%89%8D%E5%9B%9E%E6%B5%81%E6%8A%95%E7%99%BE%E4%BB%BDcv-%E4%B8%8D%E8%AB%B3%E4%B8%AD%E6%96%87%E6%88%90%E9%98%BB%E7%A4%99",
     "timestamp": "2026-11-02T05:40:13.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜費城76人登東岸第一　勒邦占士對位單防時對手命中率僅28.1%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193895126875770880168542.jpeg/6Ve-LzNIYCSMI4Ks28M4FVTzLOR9yprSKbph9Cm6YfQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60406086/nba-%E8%B2%BB%E5%9F%8E76%E4%BA%BA%E7%99%BB%E6%9D%B1%E5%B2%B8%E7%AC%AC%E4%B8%80-%E5%8B%92%E9%82%A6%E5%8D%A0%E5%A3%AB%E5%B0%8D%E4%BD%8D%E5%96%AE%E9%98%B2%E6%99%82%E5%B0%8D%E6%89%8B%E5%91%BD%E4%B8%AD%E7%8E%87%E5%83%8528-1",
-    "timestamp": "2026-11-02T05:25:56.765Z",
     "strategy": ".content-card__main"
   }
 ];
