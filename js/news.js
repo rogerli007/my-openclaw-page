@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T21:53:26.101Z
+// Last updated: 2026-11-02T22:16:03.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古明華餐廳連環執笠再開牛雜店　招攬「愛國藝人」一齊搞遭婉拒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194051862836285440415893.jpeg/XBg2DMSeJdEubpcd8OjTwjHKWVxrKCDhLlUuaS5VLmk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406336/%E5%8F%A4%E6%98%8E%E8%8F%AF%E9%A4%90%E5%BB%B3%E9%80%A3%E7%92%B0%E5%9F%B7%E7%AC%A0%E5%86%8D%E9%96%8B%E7%89%9B%E9%9B%9C%E5%BA%97-%E6%8B%9B%E6%94%AC-%E6%84%9B%E5%9C%8B%E8%97%9D%E4%BA%BA-%E4%B8%80%E9%BD%8A%E6%90%9E%E9%81%AD%E5%A9%89%E6%8B%92",
+    "timestamp": "2026-11-02T22:16:03.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國改革移民政策　大部份移民需住10年才可申永居",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193951733160611840618954.png/PZcOk4sJKYh2CLOIopimQ86LFXZyrNt-TX6PHU1-jx0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60406162/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%A4%A7%E7%B5%90%E5%B1%80%E8%99%9E%E6%98%B6%E8%BB%92%E6%88%B0%E6%AD%BB-%E7%9B%A4%E9%BB%9E2%E9%83%A8%E6%B0%91%E5%9C%8B%E8%99%90%E5%8A%87%E7%82%BA%E4%BD%95-%E5%8D%81%E6%9C%89%E4%B9%9D%E6%82%B2",
     "timestamp": "2026-11-02T16:54:10.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《玉簟秋》大結局虞昶軒戰死！盤點2部民國虐劇為何「十有九悲」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193951733160611840618954.png/PZcOk4sJKYh2CLOIopimQ86LFXZyrNt-TX6PHU1-jx0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60406162/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%A4%A7%E7%B5%90%E5%B1%80%E8%99%9E%E6%98%B6%E8%BB%92%E6%88%B0%E6%AD%BB-%E7%9B%A4%E9%BB%9E2%E9%83%A8%E6%B0%91%E5%9C%8B%E8%99%90%E5%8A%87%E7%82%BA%E4%BD%95-%E5%8D%81%E6%9C%89%E4%B9%9D%E6%82%B2",
-    "timestamp": "2026-11-02T16:45:56.046Z",
     "strategy": ".content-card__main"
   }
 ];
