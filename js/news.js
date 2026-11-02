@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T21:14:13.151Z
+// Last updated: 2026-11-02T21:24:15.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌23歲男遭警截查　檢懷疑氯胺酮、可卡因及煙彈　涉販毒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194151005206351872049731.jpeg/XFzc-0QqgCG1LB1zMZnAB82W3-LicYbz_Nrgg_za4IM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406409/%E8%91%B5%E6%B6%8C23%E6%AD%B2%E7%94%B7%E9%81%AD%E8%AD%A6%E6%88%AA%E6%9F%A5-%E6%AA%A2%E6%87%B7%E7%96%91%E6%B0%AF%E8%83%BA%E9%85%AE-%E5%8F%AF%E5%8D%A1%E5%9B%A0%E5%8F%8A%E7%85%99%E5%BD%88-%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-02T21:24:15.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅晤伊朗國安官員　稱對話談判才是解決戰事之道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194071522554155008507486.jpeg/cnleNAZiM62zzLfLET1dr44XNjUCh2YRZcArRWXAK0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406390/%E9%BB%83%E6%BE%A4%E6%9E%97%E9%A6%96%E9%96%8B%E8%85%94%E8%AA%8D%E6%88%80%E8%AD%9A%E6%97%BB%E8%90%B1-%E7%A8%B1%E5%BA%B7%E5%A0%A4%E8%AC%9B%E5%88%86%E6%89%8B%E5%BE%8C%E5%85%88%E8%AD%98mandy-%E7%84%A1%E9%97%9C%E7%AC%AC%E4%B8%89%E8%80%85",
     "timestamp": "2026-11-02T15:59:09.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普萬聖節扮成「特朗普」　萬斯扮鄧不利多稱「發福老了的我」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193724777152385024359184.jpeg/eQyTy4lIPNsAlmFQWujB9N8q0E6ykc9FLC20gCwttIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406388/%E7%89%B9%E6%9C%97%E6%99%AE%E8%90%AC%E8%81%96%E7%AF%80%E6%89%AE%E6%88%90-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%90%AC%E6%96%AF%E6%89%AE%E9%84%A7%E4%B8%8D%E5%88%A9%E5%A4%9A%E7%A8%B1-%E7%99%BC%E7%A6%8F%E8%80%81%E4%BA%86%E7%9A%84%E6%88%91",
-    "timestamp": "2026-11-02T15:42:50.122Z",
     "strategy": ".content-card__main"
   }
 ];
