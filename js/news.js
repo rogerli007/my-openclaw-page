@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T14:53:34.145Z
+// Last updated: 2026-11-02T15:25:38.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "婚禮夜新郎車禍急送ICU！1臂傷殘失知覺　新娘查出已懷孕1招保胎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193977206905245696907281.png/WhGQlJpJmrhXP5lh3yY0m4C0HoOASIz-8ngjPPJ4Izw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60406023/%E5%A9%9A%E7%A6%AE%E5%A4%9C%E6%96%B0%E9%83%8E%E8%BB%8A%E7%A6%8D%E6%80%A5%E9%80%81icu-1%E8%87%82%E5%82%B7%E6%AE%98%E5%A4%B1%E7%9F%A5%E8%A6%BA-%E6%96%B0%E5%A8%98%E6%9F%A5%E5%87%BA%E5%B7%B2%E6%87%B7%E5%AD%951%E6%8B%9B%E4%BF%9D%E8%83%8E",
+    "timestamp": "2026-11-02T15:25:38.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗醫院壞𨋢｜17部完成執修　7部開放　承建商聘揸𨋢員加強溝通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182282046970531840592740.jpeg/GghN0oGIADdn29u7eeObH8Fqd-zyFtVpku_nKZLv5yk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406228/%E8%83%A1%E7%A5%96%E5%85%AD-%E5%85%A7%E5%9C%B0%E6%94%BF%E7%AD%96%E6%9C%89%E7%A9%BA%E9%96%93-%E5%A4%A7%E8%86%BD%E5%BE%97%E5%A4%9A-ai%E6%8A%95%E8%B3%87%E6%B3%A1%E6%B2%AB%E6%93%94%E6%86%82%E4%B8%8D%E9%81%A9%E7%94%A8%E4%B8%AD%E5%9C%8B",
     "timestamp": "2026-11-02T08:20:15.223Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日媒：日本擬與台達5合作領域貿易協議　仿英國模式最快年底簽署",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027278924243013632384750.jpeg/oYHwEZTA92SABl3FHZIEvAPb8ojX5r8FJgEEuCYBBLg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406202/%E6%97%A5%E5%AA%92-%E6%97%A5%E6%9C%AC%E6%93%AC%E8%88%87%E5%8F%B0%E9%81%945%E5%90%88%E4%BD%9C%E9%A0%98%E5%9F%9F%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0-%E4%BB%BF%E8%8B%B1%E5%9C%8B%E6%A8%A1%E5%BC%8F%E6%9C%80%E5%BF%AB%E5%B9%B4%E5%BA%95%E7%B0%BD%E7%BD%B2",
-    "timestamp": "2026-11-02T07:39:41.927Z",
     "strategy": ".content-card__main"
   }
 ];
