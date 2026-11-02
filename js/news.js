@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T13:53:13.763Z
+// Last updated: 2026-11-02T14:16:47.775Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林愷鈴親認係滿清皇族「愛新覺羅」後人　尊重家族歷史期待演格格",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194009627797229568431085.jpeg/w0R_ArTk5zlkCGwAdCCYEr53uBHzvxBpC1awGwtWsBs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406294/%E6%9E%97%E6%84%B7%E9%88%B4%E8%A6%AA%E8%AA%8D%E4%BF%82%E6%BB%BF%E6%B8%85%E7%9A%87%E6%97%8F-%E6%84%9B%E6%96%B0%E8%A6%BA%E7%BE%85-%E5%BE%8C%E4%BA%BA-%E5%B0%8A%E9%87%8D%E5%AE%B6%E6%97%8F%E6%AD%B7%E5%8F%B2%E6%9C%9F%E5%BE%85%E6%BC%94%E6%A0%BC%E6%A0%BC",
+    "timestamp": "2026-11-02T14:16:47.775Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "放假行山5小時唔覆機被炒　南京女助教揭隱性加班仲裁索賠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193930458975440896267154.jpeg/xjX-r_vijjIYg-EGP-BgdX-kEFgDPQhzAzgO4QM4DuE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60406102/heidi-klum%E8%90%AC%E8%81%96%E7%AF%80-%E8%B5%B0%E7%81%AB%E5%85%A5%E9%AD%94%E5%8F%B2-%E7%94%B1%E5%81%9A%E5%9B%9E%E8%87%AA%E5%B7%B1%E5%88%B0%E7%95%B0%E5%BD%A2%E6%80%AA%E7%89%A9%E5%86%A0%E7%B5%95%E5%85%A8%E5%A0%B4",
     "timestamp": "2026-11-02T06:33:45.011Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "糖尿病飲食｜減飯=健康？鷹嘴豆可代飯？長者吃飯4招加1物降血糖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193922201410080768712406.jpeg/WBJKegFrqhkbmhAMao0vJmDKCKHYgvHDrGo0DaxqNA0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60403567/%E7%B3%96%E5%B0%BF%E7%97%85%E9%A3%B2%E9%A3%9F-%E6%B8%9B%E9%A3%AF-%E5%81%A5%E5%BA%B7-%E9%B7%B9%E5%98%B4%E8%B1%86%E5%8F%AF%E4%BB%A3%E9%A3%AF-%E9%95%B7%E8%80%85%E5%90%83%E9%A3%AF4%E6%8B%9B%E5%8A%A01%E7%89%A9%E9%99%8D%E8%A1%80%E7%B3%96",
-    "timestamp": "2026-11-02T05:53:22.497Z",
     "strategy": ".content-card__main"
   }
 ];
