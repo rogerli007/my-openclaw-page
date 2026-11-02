@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T14:27:00.462Z
+// Last updated: 2026-11-02T14:53:34.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院壞𨋢｜17部完成執修　7部開放　承建商聘揸𨋢員加強溝通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193902621207826432761358.png/WZ3tlIDObKfLRt2SEkmA7C5be17YBHfkLIDklAmA5JQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406383/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-17%E9%83%A8%E5%AE%8C%E6%88%90%E5%9F%B7%E4%BF%AE-7%E9%83%A8%E9%96%8B%E6%94%BE-%E6%89%BF%E5%BB%BA%E5%95%86%E8%81%98%E6%8F%B8%F0%A8%8B%A2%E5%93%A1%E5%8A%A0%E5%BC%B7%E6%BA%9D%E9%80%9A",
+    "timestamp": "2026-11-02T14:53:34.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行李藏$106萬大麻花、私煙及第一部毒藥　曼谷抵港內地漢遭拘控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027278924243013632384750.jpeg/oYHwEZTA92SABl3FHZIEvAPb8ojX5r8FJgEEuCYBBLg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406202/%E6%97%A5%E5%AA%92-%E6%97%A5%E6%9C%AC%E6%93%AC%E8%88%87%E5%8F%B0%E9%81%945%E5%90%88%E4%BD%9C%E9%A0%98%E5%9F%9F%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0-%E4%BB%BF%E8%8B%B1%E5%9C%8B%E6%A8%A1%E5%BC%8F%E6%9C%80%E5%BF%AB%E5%B9%B4%E5%BA%95%E7%B0%BD%E7%BD%B2",
     "timestamp": "2026-11-02T07:39:41.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "邱達根諷曾俊華「天才級智障師兄」　斥退任指指點點：齋噏當秘笈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193533078157398016246093.jpeg/gQh5eXHGs54SAg2A-aSobMFwnS8nAOTJz7_nUM-_51A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406177/%E9%82%B1%E9%81%94%E6%A0%B9%E8%AB%B7%E6%9B%BE%E4%BF%8A%E8%8F%AF-%E5%A4%A9%E6%89%8D%E7%B4%9A%E6%99%BA%E9%9A%9C%E5%B8%AB%E5%85%84-%E6%96%A5%E9%80%80%E4%BB%BB%E6%8C%87%E6%8C%87%E9%BB%9E%E9%BB%9E-%E9%BD%8B%E5%99%8F%E7%95%B6%E7%A7%98%E7%AC%88",
-    "timestamp": "2026-11-02T06:56:00.141Z",
     "strategy": ".content-card__main"
   }
 ];
