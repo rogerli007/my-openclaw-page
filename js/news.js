@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T01:53:41.514Z
+// Last updated: 2026-11-02T02:19:06.912Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "FinTech Week 2026｜滙豐設人工智能及新興科技研究院　落戶北都",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260804/1161307584284594176926805.jpeg/ix_Y_qEY38mQ_GyUU0C4uIIeLufK20gFWY42O1mONjs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406033/fintech-week-2026-%E6%BB%99%E8%B1%90%E8%A8%AD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%96%B0%E8%88%88%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E9%99%A2-%E8%90%BD%E6%88%B6%E5%8C%97%E9%83%BD",
+    "timestamp": "2026-11-02T02:19:06.912Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佛羅里達州小型飛機失事　「快墜了」高速直插地面爆炸9死｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193770151909003264691470.jpeg/iZXIDEIWpJkLWKjBPcUBSdtzUUDl2dk9tIcRep6HEXo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405998/%E8%AD%A6%E7%81%A3%E4%BB%94%E6%88%AA%E5%8F%AF%E7%96%91%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%90%9C%E6%87%B7%E7%96%91%E6%AF%92%E5%93%81-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-01T19:59:04.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯拘未成年疑犯　涉莫斯科景點企圖恐襲案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193761628575764480950718.jpeg/F3Pjru1kpOhbsDTs38oiUp5zgd15qiTQ_hi-q_4Yvqs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405997/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8B%98%E6%9C%AA%E6%88%90%E5%B9%B4%E7%96%91%E7%8A%AF-%E6%B6%89%E8%8E%AB%E6%96%AF%E7%A7%91%E6%99%AF%E9%BB%9E%E4%BC%81%E5%9C%96%E6%81%90%E8%A5%B2%E6%A1%88",
-    "timestamp": "2026-11-01T19:38:59.870Z",
     "strategy": ".content-card__main"
   }
 ];
