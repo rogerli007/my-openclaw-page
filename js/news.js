@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T15:42:50.122Z
+// Last updated: 2026-11-02T15:59:09.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃澤林首開腔認戀譚旻萱　稱康堤講分手後先識Mandy：無關第三者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194071522554155008507486.jpeg/cnleNAZiM62zzLfLET1dr44XNjUCh2YRZcArRWXAK0U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406390/%E9%BB%83%E6%BE%A4%E6%9E%97%E9%A6%96%E9%96%8B%E8%85%94%E8%AA%8D%E6%88%80%E8%AD%9A%E6%97%BB%E8%90%B1-%E7%A8%B1%E5%BA%B7%E5%A0%A4%E8%AC%9B%E5%88%86%E6%89%8B%E5%BE%8C%E5%85%88%E8%AD%98mandy-%E7%84%A1%E9%97%9C%E7%AC%AC%E4%B8%89%E8%80%85",
+    "timestamp": "2026-11-02T15:59:09.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普萬聖節扮成「特朗普」　萬斯扮鄧不利多稱「發福老了的我」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971390600974336349610.jpeg/P5dfUPXCvs1NWG4V5hiA54CzHZ36dRqoAtGkAQLRpAE?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60406267/nba-%E6%B9%96%E4%BA%BA%E4%B8%BB%E5%B8%A5%E6%89%B9%E5%BE%8C%E5%82%99%E6%88%B0%E5%8A%9B%E4%B8%8D%E8%B6%B3-%E7%95%B6%E9%8C%AB%E8%BD%9F45%E5%88%86%E7%B7%A0%E6%96%B0%E7%B4%80%E9%8C%84%E7%8E%87%E9%9A%8A%E9%9A%AA%E5%8B%9D%E9%80%9F%E9%BE%8D",
     "timestamp": "2026-11-02T09:46:12.528Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香檳王Dom Pérignon攜手藝術家Damien Hirst 推出26年限量版香檳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192789904090730496725049.jpeg/K29eAakBQ9-80Rq9zSX6bl9IOA0JC_MqfOH943zh_eM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60404813/%E9%A6%99%E6%AA%B3%E7%8E%8Bdom-pe-rignon%E6%94%9C%E6%89%8B%E8%97%9D%E8%A1%93%E5%AE%B6damien-hirst-%E6%8E%A8%E5%87%BA26%E5%B9%B4%E9%99%90%E9%87%8F%E7%89%88%E9%A6%99%E6%AA%B3",
-    "timestamp": "2026-11-02T09:33:16.923Z",
     "strategy": ".content-card__main"
   }
 ];
