@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T03:40:44.433Z
+// Last updated: 2026-11-02T03:59:36.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "武漢萬聖節人群失控　網約車誤入人海遭掟垃圾砸窗放氣困4粒鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193892123385008128102349.png/f1G-fCqwr4nA08LzqiTbZLIXnRB1BOv1C9HZowvR2aM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406058/%E6%AD%A6%E6%BC%A2%E8%90%AC%E8%81%96%E7%AF%80%E4%BA%BA%E7%BE%A4%E5%A4%B1%E6%8E%A7-%E7%B6%B2%E7%B4%84%E8%BB%8A%E8%AA%A4%E5%85%A5%E4%BA%BA%E6%B5%B7%E9%81%AD%E6%8E%9F%E5%9E%83%E5%9C%BE%E7%A0%B8%E7%AA%97%E6%94%BE%E6%B0%A3%E5%9B%B04%E7%B2%92%E9%90%98",
+    "timestamp": "2026-11-02T03:59:36.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜密歇根州民主黨內訌　眾議員倒戈支持共和黨對手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193797916964163584905241.jpeg/iEDKPF5_SO5NVLTUMDhb-1ejT-6pwEvvLS2_HC0tvxw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406001/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B414%E5%B9%B4%E4%BE%86%E4%BD%9C%E5%AE%A2%E9%A6%96%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E6%B7%BB%E5%B7%B4%E6%8B%89%E8%A1%AB%E6%9C%AA%E7%BD%B012%E7%A2%BC%E6%83%B9%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-11-01T21:53:42.877Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜阿仙奴14年來作客首勝利物浦  添巴拉衫未罰12碼惹爭議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193797916964163584905241.jpeg/iEDKPF5_SO5NVLTUMDhb-1ejT-6pwEvvLS2_HC0tvxw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406001/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B414%E5%B9%B4%E4%BE%86%E4%BD%9C%E5%AE%A2%E9%A6%96%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E6%B7%BB%E5%B7%B4%E6%8B%89%E8%A1%AB%E6%9C%AA%E7%BD%B012%E7%A2%BC%E6%83%B9%E7%88%AD%E8%AD%B0",
-    "timestamp": "2026-11-01T21:44:49.323Z",
     "strategy": ".content-card__main"
   }
 ];
