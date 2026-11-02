@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T04:16:51.302Z
+// Last updated: 2026-11-02T04:27:45.879Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "濱崎真緒日文更新情況　被落藥後斷片及非常痛苦　將積極宣揚禁毒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193901257153056768815407.jpeg/mwXWMtBsZYlcptLYMCoYwJUQAwuiP91IA2wtGQNsLRk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406110/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E6%97%A5%E6%96%87%E6%9B%B4%E6%96%B0%E6%83%85%E6%B3%81-%E8%A2%AB%E8%90%BD%E8%97%A5%E5%BE%8C%E6%96%B7%E7%89%87%E5%8F%8A%E9%9D%9E%E5%B8%B8%E7%97%9B%E8%8B%A6-%E5%B0%87%E7%A9%8D%E6%A5%B5%E5%AE%A3%E6%8F%9A%E7%A6%81%E6%AF%92",
+    "timestamp": "2026-11-02T04:27:45.879Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜閉路電視拍到鄺球買雪櫃情況　付款後曾拉下口罩抽煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193633081555161088948502.jpeg/lnS-s-29GwC9toNqPHxHGaND4rYpcEzpwV-uX8Ffrl8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405866/%E7%86%8A%E9%BB%9B%E6%9E%97%E9%83%AD%E5%8F%AF%E9%A0%8C%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4%E9%A9%9A%E8%AB%87%E5%88%86%E5%B1%85-%E7%82%BA%E5%A5%B3%E5%85%92%E6%87%89%E6%89%BF-%E5%88%86%E9%96%8B-%E4%B9%85%E5%94%94%E4%B9%85%E8%A6%8B",
     "timestamp": "2026-11-01T22:26:03.109Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "熊黛林郭可頌結婚10周年驚談分居　為女兒應承「分開」：久唔久見",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193633081555161088948502.jpeg/lnS-s-29GwC9toNqPHxHGaND4rYpcEzpwV-uX8Ffrl8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60405866/%E7%86%8A%E9%BB%9B%E6%9E%97%E9%83%AD%E5%8F%AF%E9%A0%8C%E7%B5%90%E5%A9%9A10%E5%91%A8%E5%B9%B4%E9%A9%9A%E8%AB%87%E5%88%86%E5%B1%85-%E7%82%BA%E5%A5%B3%E5%85%92%E6%87%89%E6%89%BF-%E5%88%86%E9%96%8B-%E4%B9%85%E5%94%94%E4%B9%85%E8%A6%8B",
-    "timestamp": "2026-11-01T22:13:16.580Z",
     "strategy": ".content-card__main"
   }
 ];
