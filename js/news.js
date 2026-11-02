@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T10:15:23.308Z
+// Last updated: 2026-11-02T10:29:55.987Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "流感｜7歲未打疫苗女童染甲流併發肺炎　PICU留醫　潛伏期無外遊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186854639698448384047613.jpeg/75OcYmXkfhyj2Eu0p8elHLMARWYtSCkkBxMUBwcTFAc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406321/%E6%B5%81%E6%84%9F-7%E6%AD%B2%E6%9C%AA%E6%89%93%E7%96%AB%E8%8B%97%E5%A5%B3%E7%AB%A5%E6%9F%93%E7%94%B2%E6%B5%81%E4%BD%B5%E7%99%BC%E8%82%BA%E7%82%8E-picu%E7%95%99%E9%86%AB-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E7%84%A1%E5%A4%96%E9%81%8A",
+    "timestamp": "2026-11-02T10:29:55.987Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "失業5年成人生贏家？獲派啟晴邨1人公屋單位　女子：長期病好返晒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193623389466529792905718.jpeg/0clY1srVhYB60Ak7OY-GnFLrc28lsEWKnljvlp5Y75Y",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60405845/%E6%B8%AF%E9%90%B5mma-%E9%98%BF%E4%BC%AFvs%E5%BE%8C%E7%94%9F%E4%BB%94-%E4%B9%9D%E9%BE%8D%E5%A1%98%E6%89%93%E5%88%B0%E5%A4%AA%E5%AD%90-%E7%B6%B2%E6%B0%91%E5%98%86-%E5%9C%8B%E9%9A%9Bmma%E4%B9%8B%E9%83%BD",
     "timestamp": "2026-11-02T03:30:30.221Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵MMA│阿伯vs後生仔「九龍塘打到太子」！ 網民嘆：國際MMA之都",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193623389466529792905718.jpeg/0clY1srVhYB60Ak7OY-GnFLrc28lsEWKnljvlp5Y75Y",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60405845/%E6%B8%AF%E9%90%B5mma-%E9%98%BF%E4%BC%AFvs%E5%BE%8C%E7%94%9F%E4%BB%94-%E4%B9%9D%E9%BE%8D%E5%A1%98%E6%89%93%E5%88%B0%E5%A4%AA%E5%AD%90-%E7%B6%B2%E6%B0%91%E5%98%86-%E5%9C%8B%E9%9A%9Bmma%E4%B9%8B%E9%83%BD",
-    "timestamp": "2026-11-02T03:23:56.072Z",
     "strategy": ".content-card__main"
   }
 ];
