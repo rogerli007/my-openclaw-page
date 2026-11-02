@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T01:21:49.279Z
+// Last updated: 2026-11-02T01:53:41.514Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佛羅里達州小型飛機失事　「快墜了」高速直插地面爆炸9死｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193860942492864512759861.jpeg/kwjYzJTVQhLXwfD5EocGu8NkToDLxODhPUc6jj1HOo4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406012/%E4%BD%9B%E7%BE%85%E9%87%8C%E9%81%94%E5%B7%9E%E5%B0%8F%E5%9E%8B%E9%A3%9B%E6%A9%9F%E5%A4%B1%E4%BA%8B-%E5%BF%AB%E5%A2%9C%E4%BA%86-%E9%AB%98%E9%80%9F%E7%9B%B4%E6%8F%92%E5%9C%B0%E9%9D%A2%E7%88%86%E7%82%B89%E6%AD%BB-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-02T01:53:41.514Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：特朗普與內塔尼亞胡「坦誠通話」　商對伊朗下一步行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193761628575764480950718.jpeg/F3Pjru1kpOhbsDTs38oiUp5zgd15qiTQ_hi-q_4Yvqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405997/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8B%98%E6%9C%AA%E6%88%90%E5%B9%B4%E7%96%91%E7%8A%AF-%E6%B6%89%E8%8E%AB%E6%96%AF%E7%A7%91%E6%99%AF%E9%BB%9E%E4%BC%81%E5%9C%96%E6%81%90%E8%A5%B2%E6%A1%88",
     "timestamp": "2026-11-01T19:38:59.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯拘未成年疑犯　涉莫斯科景點企圖恐襲案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193761628575764480950718.jpeg/F3Pjru1kpOhbsDTs38oiUp5zgd15qiTQ_hi-q_4Yvqs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405997/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8B%98%E6%9C%AA%E6%88%90%E5%B9%B4%E7%96%91%E7%8A%AF-%E6%B6%89%E8%8E%AB%E6%96%AF%E7%A7%91%E6%99%AF%E9%BB%9E%E4%BC%81%E5%9C%96%E6%81%90%E8%A5%B2%E6%A1%88",
-    "timestamp": "2026-11-01T19:23:23.341Z",
     "strategy": ".content-card__main"
   }
 ];
