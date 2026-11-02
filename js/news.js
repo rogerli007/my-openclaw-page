@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T13:21:35.260Z
+// Last updated: 2026-11-02T13:53:13.763Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "放假行山5小時唔覆機被炒　南京女助教揭隱性加班仲裁索賠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194042032935407616843765.jpeg/KERfHKuAq-eb4xsIuQY19phtH29OY3dzAVZP-AFWT_g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406375/%E6%94%BE%E5%81%87%E8%A1%8C%E5%B1%B15%E5%B0%8F%E6%99%82%E5%94%94%E8%A6%86%E6%A9%9F%E8%A2%AB%E7%82%92-%E5%8D%97%E4%BA%AC%E5%A5%B3%E5%8A%A9%E6%95%99%E6%8F%AD%E9%9A%B1%E6%80%A7%E5%8A%A0%E7%8F%AD%E4%BB%B2%E8%A3%81%E7%B4%A2%E8%B3%A0",
+    "timestamp": "2026-11-02T13:53:13.763Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《玉簟秋》大結局虞昶軒戰死！丞磊演「偽二世祖真城府」少帥獲讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193922201410080768712406.jpeg/WBJKegFrqhkbmhAMao0vJmDKCKHYgvHDrGo0DaxqNA0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60403567/%E7%B3%96%E5%B0%BF%E7%97%85%E9%A3%B2%E9%A3%9F-%E6%B8%9B%E9%A3%AF-%E5%81%A5%E5%BA%B7-%E9%B7%B9%E5%98%B4%E8%B1%86%E5%8F%AF%E4%BB%A3%E9%A3%AF-%E9%95%B7%E8%80%85%E5%90%83%E9%A3%AF4%E6%8B%9B%E5%8A%A01%E7%89%A9%E9%99%8D%E8%A1%80%E7%B3%96",
     "timestamp": "2026-11-02T05:53:22.497Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普通話中環抬頭！　彭博︰外籍人才回流投百份CV　不諳中文成阻礙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1432618/org/110d53cc8d46da0d5014f63cb9e65306.jpg/eQZbjMFcPJgFo74Wq-dw2VXwxEtyLy4otJ_kErSf5BI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406090/%E6%99%AE%E9%80%9A%E8%A9%B1%E4%B8%AD%E7%92%B0%E6%8A%AC%E9%A0%AD-%E5%BD%AD%E5%8D%9A-%E5%A4%96%E7%B1%8D%E4%BA%BA%E6%89%8D%E5%9B%9E%E6%B5%81%E6%8A%95%E7%99%BE%E4%BB%BDcv-%E4%B8%8D%E8%AB%B3%E4%B8%AD%E6%96%87%E6%88%90%E9%98%BB%E7%A4%99",
-    "timestamp": "2026-11-02T05:40:13.269Z",
     "strategy": ".content-card__main"
   }
 ];
