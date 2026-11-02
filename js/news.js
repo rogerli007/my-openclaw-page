@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T02:41:12.283Z
+// Last updated: 2026-11-02T02:54:35.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太古城三房欠管理費被推拍　開價540萬低估價56%　呎價不足7600元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193874187500916736473598.png/rGUvXpNEu9f26R4Opp0ST1BLg5VBj7TfKo4GKCqOBig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60406046/%E5%A4%AA%E5%8F%A4%E5%9F%8E%E4%B8%89%E6%88%BF%E6%AC%A0%E7%AE%A1%E7%90%86%E8%B2%BB%E8%A2%AB%E6%8E%A8%E6%8B%8D-%E9%96%8B%E5%83%B9540%E8%90%AC%E4%BD%8E%E4%BC%B0%E5%83%B956-%E5%91%8E%E5%83%B9%E4%B8%8D%E8%B6%B37600%E5%85%83",
+    "timestamp": "2026-11-02T02:54:35.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本桑田真澄次子「蛇精男」Matt捲同性醜聞　遭3男控告醉酒侵犯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193244185587617792158960.jpeg/P-fi4BxgHzNdsMwC_4WFBr0TRhfesEa_f0uhIX9LoSE",
     "url": "https://www.hk01.com/01TV/60405640/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%80%E5%AE%B6%E6%93%A0%E5%A4%A9%E8%87%BA%E5%B1%8B-%E7%AA%97%E5%A4%96%E6%8E%9B%E5%B7%A8%E5%B9%85%E6%B5%B7%E5%A0%B1%E4%B8%8D%E6%95%A2%E6%8B%89%E7%AA%97%E7%B0%BE",
     "timestamp": "2026-11-01T20:39:48.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧一家擠天臺屋：窗外掛巨幅海報不敢拉窗簾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193244185587617792158960.jpeg/P-fi4BxgHzNdsMwC_4WFBr0TRhfesEa_f0uhIX9LoSE",
-    "url": "https://www.hk01.com/01TV/60405640/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%80%E5%AE%B6%E6%93%A0%E5%A4%A9%E8%87%BA%E5%B1%8B-%E7%AA%97%E5%A4%96%E6%8E%9B%E5%B7%A8%E5%B9%85%E6%B5%B7%E5%A0%B1%E4%B8%8D%E6%95%A2%E6%8B%89%E7%AA%97%E7%B0%BE",
-    "timestamp": "2026-11-01T20:27:27.029Z",
     "strategy": ".content-card__main"
   }
 ];
