@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T11:39:32.269Z
+// Last updated: 2026-11-02T11:52:51.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Crypto.com疑撤出香港？通知用戶明年2月停App服務　並分階段停運",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193996470655651840509183.png/YBxQwdA9qlNt2DCDklcyXhsGGLjlI6xs2RHcwtkR3MI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406340/crypto-com%E7%96%91%E6%92%A4%E5%87%BA%E9%A6%99%E6%B8%AF-%E9%80%9A%E7%9F%A5%E7%94%A8%E6%88%B6%E6%98%8E%E5%B9%B42%E6%9C%88%E5%81%9Capp%E6%9C%8D%E5%8B%99-%E4%B8%A6%E5%88%86%E9%9A%8E%E6%AE%B5%E5%81%9C%E9%81%8B",
+    "timestamp": "2026-11-02T11:52:51.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "拜票失足亡仍名列投票卡　團隊繼續爭取支持背後內情：阻對手回鍋",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193901740156522496149678.jpeg/dzfEV9fE9a70CDVK8lR6mtOEfEvq4VLC6xnvFOsZ7xQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406098/%E8%BB%8A%E8%97%9D%E8%93%AE%E8%A2%AB%E6%8C%87%E6%8E%8C%E6%91%91%E5%90%8C%E5%AD%B8%E8%87%B4%E8%80%B3%E8%86%9C%E6%92%95%E8%A3%82-%E8%B3%A2%E5%A6%BB%E8%89%AF%E6%AF%8D%E5%BD%A2%E8%B1%A1%E5%B4%A9%E5%A3%9E%E5%BB%A3%E5%91%8A%E4%BB%A3%E8%A8%80%E6%81%90%E8%90%BD%E7%A9%BA",
     "timestamp": "2026-11-02T04:39:56.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "濱崎真緒日文更新情況　被落藥後斷片及非常痛苦　將積極宣揚禁毒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193901257153056768815407.jpeg/mwXWMtBsZYlcptLYMCoYwJUQAwuiP91IA2wtGQNsLRk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406110/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E6%97%A5%E6%96%87%E6%9B%B4%E6%96%B0%E6%83%85%E6%B3%81-%E8%A2%AB%E8%90%BD%E8%97%A5%E5%BE%8C%E6%96%B7%E7%89%87%E5%8F%8A%E9%9D%9E%E5%B8%B8%E7%97%9B%E8%8B%A6-%E5%B0%87%E7%A9%8D%E6%A5%B5%E5%AE%A3%E6%8F%9A%E7%A6%81%E6%AF%92",
-    "timestamp": "2026-11-02T04:27:45.879Z",
     "strategy": ".content-card__main"
   }
 ];
