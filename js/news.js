@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T18:39:40.064Z
+// Last updated: 2026-11-02T18:53:25.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青山公路洪水橋段54歲女捱車撞　跌入花叢不治　男司機涉危駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971300012396544072495.jpeg/5YW1QeDr8X-aBPuD8uai0Sq7DX0_1YTvoOn0RaDp9EU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406397/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B4%AA%E6%B0%B4%E6%A9%8B%E6%AE%B554%E6%AD%B2%E5%A5%B3%E6%8D%B1%E8%BB%8A%E6%92%9E-%E8%B7%8C%E5%85%A5%E8%8A%B1%E5%8F%A2%E4%B8%8D%E6%B2%BB-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-02T18:53:25.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青山公路洪水橋段54歲女捱車撞　跌入花叢不治　男司機涉危駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193943723411509248754980.jpeg/jOg6DEtzhW8C1bQSSPQWmx7R4xB8Mih8Np9prjafaa4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406121/%E4%BD%98%E8%A9%A9%E6%9B%BC%E7%A7%81%E4%B8%8B%E8%B6%85%E8%B1%AA%E7%88%BD%E6%9B%BE%E9%BB%98%E9%BB%98%E6%90%B6%E5%9F%8B%E5%96%AE-%E7%8D%B2-%E6%96%B0%E8%81%9E%E5%A5%B3%E7%8E%8B-%E5%BE%8C%E8%BC%A9%E5%9B%9E%E8%AB%8B%E7%94%9F%E6%97%A5%E9%A3%AF",
     "timestamp": "2026-11-02T12:19:59.265Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Crypto.com疑撤出香港？通知用戶明年2月停App服務　並分階段停運",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193996470655651840509183.png/YBxQwdA9qlNt2DCDklcyXhsGGLjlI6xs2RHcwtkR3MI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406340/crypto-com%E7%96%91%E6%92%A4%E5%87%BA%E9%A6%99%E6%B8%AF-%E9%80%9A%E7%9F%A5%E7%94%A8%E6%88%B6%E6%98%8E%E5%B9%B42%E6%9C%88%E5%81%9Capp%E6%9C%8D%E5%8B%99-%E4%B8%A6%E5%88%86%E9%9A%8E%E6%AE%B5%E5%81%9C%E9%81%8B",
-    "timestamp": "2026-11-02T11:52:51.115Z",
     "strategy": ".content-card__main"
   }
 ];
