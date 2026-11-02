@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T16:32:12.622Z
+// Last updated: 2026-11-02T16:45:56.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《玉簟秋》大結局虞昶軒戰死！盤點2部民國虐劇為何「十有九悲」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193951733160611840618954.png/PZcOk4sJKYh2CLOIopimQ86LFXZyrNt-TX6PHU1-jx0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60406162/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%A4%A7%E7%B5%90%E5%B1%80%E8%99%9E%E6%98%B6%E8%BB%92%E6%88%B0%E6%AD%BB-%E7%9B%A4%E9%BB%9E2%E9%83%A8%E6%B0%91%E5%9C%8B%E8%99%90%E5%8A%87%E7%82%BA%E4%BD%95-%E5%8D%81%E6%9C%89%E4%B9%9D%E6%82%B2",
+    "timestamp": "2026-11-02T16:45:56.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江嘉敏身材獲平反獲讚「真人瘦好多」　親自回覆一句說話焫㷫網民",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193969992643645440385620.png/CJjBHu8Bi6oCd_IvpCv98vvafyOO5V5g35caHN-XGhw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60406131/%E5%A4%B1%E6%A5%AD5%E5%B9%B4%E6%88%90%E4%BA%BA%E7%94%9F%E8%B4%8F%E5%AE%B6-%E7%8D%B2%E6%B4%BE%E5%95%9F%E6%99%B4%E9%82%A81%E4%BA%BA%E5%85%AC%E5%B1%8B%E5%96%AE%E4%BD%8D-%E5%A5%B3%E5%AD%90-%E9%95%B7%E6%9C%9F%E7%97%85%E5%A5%BD%E8%BF%94%E6%99%92",
     "timestamp": "2026-11-02T10:15:23.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜銅鑼灣三地牌七人車闖電車軌　行人過路處U-turn再切單白線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193981701131341824240981.jpeg/-KfkVQS3TVSMyhyuW-PjmLk_sAzCAsaYg7Ta3IO02tw",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406286/%E6%9C%89%E7%89%87-%E9%8A%85%E9%91%BC%E7%81%A3%E4%B8%89%E5%9C%B0%E7%89%8C%E4%B8%83%E4%BA%BA%E8%BB%8A%E9%97%96%E9%9B%BB%E8%BB%8A%E8%BB%8C-%E8%A1%8C%E4%BA%BA%E9%81%8E%E8%B7%AF%E8%99%95u-turn%E5%86%8D%E5%88%87%E5%96%AE%E7%99%BD%E7%B7%9A",
-    "timestamp": "2026-11-02T09:59:10.157Z",
     "strategy": ".content-card__main"
   }
 ];
