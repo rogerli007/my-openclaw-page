@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T20:14:01.135Z
+// Last updated: 2026-11-02T20:23:45.324Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警偕海關深水埗搗非法賭檔、私煙倉、按摩院及賣淫場所　拘14人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194136125296349184197423.jpeg/wPFmV3uFkDIxUHvyKRKf-yJXzaRtM_HsC5UEmguVBJo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406404/%E8%AD%A6%E5%81%95%E6%B5%B7%E9%97%9C%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E7%A7%81%E7%85%99%E5%80%89-%E6%8C%89%E6%91%A9%E9%99%A2%E5%8F%8A%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E6%8B%9814%E4%BA%BA",
+    "timestamp": "2026-11-02T20:23:45.324Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧參選港姐內幕：因去加勒比海而報名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194047263861641216128439.jpeg/1Xic6GFkRqZAbip3rHjd2rnhB7ZIfUvnCfaYQQn2mEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406379/%E8%A1%8C%E6%9D%8E%E8%97%8F-106%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E7%A7%81%E7%85%99%E5%8F%8A%E7%AC%AC%E4%B8%80%E9%83%A8%E6%AF%92%E8%97%A5-%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF%E5%85%A7%E5%9C%B0%E6%BC%A2%E9%81%AD%E6%8B%98%E6%8E%A7",
     "timestamp": "2026-11-02T14:27:00.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林愷鈴親認係滿清皇族「愛新覺羅」後人　尊重家族歷史期待演格格",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194009627797229568431085.jpeg/w0R_ArTk5zlkCGwAdCCYEr53uBHzvxBpC1awGwtWsBs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406294/%E6%9E%97%E6%84%B7%E9%88%B4%E8%A6%AA%E8%AA%8D%E4%BF%82%E6%BB%BF%E6%B8%85%E7%9A%87%E6%97%8F-%E6%84%9B%E6%96%B0%E8%A6%BA%E7%BE%85-%E5%BE%8C%E4%BA%BA-%E5%B0%8A%E9%87%8D%E5%AE%B6%E6%97%8F%E6%AD%B7%E5%8F%B2%E6%9C%9F%E5%BE%85%E6%BC%94%E6%A0%BC%E6%A0%BC",
-    "timestamp": "2026-11-02T14:16:47.775Z",
     "strategy": ".content-card__main"
   }
 ];
