@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T03:30:30.221Z
+// Last updated: 2026-11-02T03:40:44.433Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜密歇根州民主黨內訌　眾議員倒戈支持共和黨對手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193886540141432832764305.jpeg/KuwuUxmRGY8b7r-cTEe_4Kw_IT54HZv9a0Cw1GtAsNQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406079/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%85%A7%E8%A8%8C-%E7%9C%BE%E8%AD%B0%E5%93%A1%E5%80%92%E6%88%88%E6%94%AF%E6%8C%81%E5%85%B1%E5%92%8C%E9%BB%A8%E5%B0%8D%E6%89%8B",
+    "timestamp": "2026-11-02T03:40:44.433Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵MMA│阿伯vs後生仔「九龍塘打到太子」！ 網民嘆：國際MMA之都",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193797916964163584905241.jpeg/iEDKPF5_SO5NVLTUMDhb-1ejT-6pwEvvLS2_HC0tvxw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406001/%E8%8B%B1%E8%B6%85-%E9%98%BF%E4%BB%99%E5%A5%B414%E5%B9%B4%E4%BE%86%E4%BD%9C%E5%AE%A2%E9%A6%96%E5%8B%9D%E5%88%A9%E7%89%A9%E6%B5%A6-%E6%B7%BB%E5%B7%B4%E6%8B%89%E8%A1%AB%E6%9C%AA%E7%BD%B012%E7%A2%BC%E6%83%B9%E7%88%AD%E8%AD%B0",
     "timestamp": "2026-11-01T21:44:49.323Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特聯軍：對胡塞武裝目標實施了精準打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261022/1189786024012681216327561.jpeg/LYj10LylqabUXgQDR8Uvsl7jiz3AwOsTChvmawob5ms?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405994/%E6%B2%99%E7%89%B9%E8%81%AF%E8%BB%8D-%E5%B0%8D%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%9B%AE%E6%A8%99%E5%AF%A6%E6%96%BD%E4%BA%86%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A",
-    "timestamp": "2026-11-01T21:23:40.722Z",
     "strategy": ".content-card__main"
   }
 ];
