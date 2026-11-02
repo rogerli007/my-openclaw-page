@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T23:13:39.452Z
+// Last updated: 2026-11-02T23:24:12.095Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美男童遇溺被誤判不治　放殮房5小時致永久腦損傷　家屬怒告醫生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192526013037285376095683.png/a1ylsKZxi4yCJ_-T69QvtUzbqJft8si3kaHroZGh66E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403945/%E7%BE%8E%E7%94%B7%E7%AB%A5%E9%81%87%E6%BA%BA%E8%A2%AB%E8%AA%A4%E5%88%A4%E4%B8%8D%E6%B2%BB-%E6%94%BE%E6%AE%AE%E6%88%BF5%E5%B0%8F%E6%99%82%E8%87%B4%E6%B0%B8%E4%B9%85%E8%85%A6%E6%90%8D%E5%82%B7-%E5%AE%B6%E5%B1%AC%E6%80%92%E5%91%8A%E9%86%AB%E7%94%9F",
+    "timestamp": "2026-11-02T23:24:12.095Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "乒總教練涉粗口辱罵　辯稱兜巴星屬德育訓話　學生控總會處理不當",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268467034230784983074.jpeg/-kCn7R7hyEa0nBHQmVC9GONVzyfqSqj9H0dWRx9HVkc",
     "url": "https://www.hk01.com/01TV/60405680/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%89%E5%A7%8A%E5%BC%9F%E8%BA%B2%E8%9F%91%E8%9E%82-%E7%AB%99%E5%9C%A8%E6%9B%B8%E6%AA%AF%E6%8B%BF%E7%9A%AE%E5%B8%B6-%E5%B0%8D%E5%B3%99",
     "timestamp": "2026-11-02T17:53:36.268Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧三姊弟躲蟑螂：站在書檯拿皮帶「對峙」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268467034230784983074.jpeg/-kCn7R7hyEa0nBHQmVC9GONVzyfqSqj9H0dWRx9HVkc",
-    "url": "https://www.hk01.com/01TV/60405680/%E9%AB%98%E6%B5%B7%E5%AF%A7%E4%B8%89%E5%A7%8A%E5%BC%9F%E8%BA%B2%E8%9F%91%E8%9E%82-%E7%AB%99%E5%9C%A8%E6%9B%B8%E6%AA%AF%E6%8B%BF%E7%9A%AE%E5%B8%B6-%E5%B0%8D%E5%B3%99",
-    "timestamp": "2026-11-02T17:22:09.800Z",
     "strategy": ".content-card__main"
   }
 ];
