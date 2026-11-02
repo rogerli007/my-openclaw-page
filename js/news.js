@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T21:42:41.822Z
+// Last updated: 2026-11-02T21:53:26.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國改革移民政策　大部份移民需住10年才可申永居",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194151827411570688904128.jpeg/039IWWF88OG4tLOAvScD6K2EhCVlYGhz0gS8WNIEvFg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406408/%E8%8B%B1%E5%9C%8B%E6%94%B9%E9%9D%A9%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%A7%BB%E6%B0%91%E9%9C%80%E4%BD%8F10%E5%B9%B4%E6%89%8D%E5%8F%AF%E7%94%B3%E6%B0%B8%E5%B1%85",
+    "timestamp": "2026-11-02T21:53:26.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國改革移民政策　大部份移民需住10年才可申永居",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193951733160611840618954.png/PZcOk4sJKYh2CLOIopimQ86LFXZyrNt-TX6PHU1-jx0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60406162/%E7%8E%89%E7%B0%9F%E7%A7%8B-%E5%A4%A7%E7%B5%90%E5%B1%80%E8%99%9E%E6%98%B6%E8%BB%92%E6%88%B0%E6%AD%BB-%E7%9B%A4%E9%BB%9E2%E9%83%A8%E6%B0%91%E5%9C%8B%E8%99%90%E5%8A%87%E7%82%BA%E4%BD%95-%E5%8D%81%E6%9C%89%E4%B9%9D%E6%82%B2",
     "timestamp": "2026-11-02T16:45:56.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江嘉敏身材獲平反獲讚「真人瘦好多」　親自回覆一句說話焫㷫網民",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194004062807265280619450.jpeg/848piFjWfIbOVmHTrg_f-YxuyrjYJANC-2D4rftg-K0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406342/%E6%B1%9F%E5%98%89%E6%95%8F%E8%BA%AB%E6%9D%90%E7%8D%B2%E5%B9%B3%E5%8F%8D%E7%8D%B2%E8%AE%9A-%E7%9C%9F%E4%BA%BA%E7%98%A6%E5%A5%BD%E5%A4%9A-%E8%A6%AA%E8%87%AA%E5%9B%9E%E8%A6%86%E4%B8%80%E5%8F%A5%E8%AA%AA%E8%A9%B1%E7%84%AB%E3%B7%AB%E7%B6%B2%E6%B0%91",
-    "timestamp": "2026-11-02T16:32:12.622Z",
     "strategy": ".content-card__main"
   }
 ];
