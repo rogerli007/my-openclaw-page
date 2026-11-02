@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T19:53:26.410Z
+// Last updated: 2026-11-02T20:14:01.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧參選港姐內幕：因去加勒比海而報名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268984795893760106732.jpeg/aNLT3H8clLLKb7jhB17uP5GojDs4EcwQwoXat8KF2rc",
+    "url": "https://www.hk01.com/01TV/60405682/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%8F%83%E9%81%B8%E6%B8%AF%E5%A7%90%E5%85%A7%E5%B9%95-%E5%9B%A0%E5%8E%BB%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E8%80%8C%E5%A0%B1%E5%90%8D",
+    "timestamp": "2026-11-02T20:14:01.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧媽媽幫忙報名模特賽：贏得比賽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194009627797229568431085.jpeg/w0R_ArTk5zlkCGwAdCCYEr53uBHzvxBpC1awGwtWsBs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406294/%E6%9E%97%E6%84%B7%E9%88%B4%E8%A6%AA%E8%AA%8D%E4%BF%82%E6%BB%BF%E6%B8%85%E7%9A%87%E6%97%8F-%E6%84%9B%E6%96%B0%E8%A6%BA%E7%BE%85-%E5%BE%8C%E4%BA%BA-%E5%B0%8A%E9%87%8D%E5%AE%B6%E6%97%8F%E6%AD%B7%E5%8F%B2%E6%9C%9F%E5%BE%85%E6%BC%94%E6%A0%BC%E6%A0%BC",
     "timestamp": "2026-11-02T14:16:47.775Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "放假行山5小時唔覆機被炒　南京女助教揭隱性加班仲裁索賠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194042032935407616843765.jpeg/KERfHKuAq-eb4xsIuQY19phtH29OY3dzAVZP-AFWT_g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406375/%E6%94%BE%E5%81%87%E8%A1%8C%E5%B1%B15%E5%B0%8F%E6%99%82%E5%94%94%E8%A6%86%E6%A9%9F%E8%A2%AB%E7%82%92-%E5%8D%97%E4%BA%AC%E5%A5%B3%E5%8A%A9%E6%95%99%E6%8F%AD%E9%9A%B1%E6%80%A7%E5%8A%A0%E7%8F%AD%E4%BB%B2%E8%A3%81%E7%B4%A2%E8%B3%A0",
-    "timestamp": "2026-11-02T13:53:13.763Z",
     "strategy": ".content-card__main"
   }
 ];
