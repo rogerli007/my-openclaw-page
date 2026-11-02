@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T15:25:38.913Z
+// Last updated: 2026-11-02T15:42:50.122Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普萬聖節扮成「特朗普」　萬斯扮鄧不利多稱「發福老了的我」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193724777152385024359184.jpeg/eQyTy4lIPNsAlmFQWujB9N8q0E6ykc9FLC20gCwttIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406388/%E7%89%B9%E6%9C%97%E6%99%AE%E8%90%AC%E8%81%96%E7%AF%80%E6%89%AE%E6%88%90-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%90%AC%E6%96%AF%E6%89%AE%E9%84%A7%E4%B8%8D%E5%88%A9%E5%A4%9A%E7%A8%B1-%E7%99%BC%E7%A6%8F%E8%80%81%E4%BA%86%E7%9A%84%E6%88%91",
+    "timestamp": "2026-11-02T15:42:50.122Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "婚禮夜新郎車禍急送ICU！1臂傷殘失知覺　新娘查出已懷孕1招保胎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192789904090730496725049.jpeg/K29eAakBQ9-80Rq9zSX6bl9IOA0JC_MqfOH943zh_eM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60404813/%E9%A6%99%E6%AA%B3%E7%8E%8Bdom-pe-rignon%E6%94%9C%E6%89%8B%E8%97%9D%E8%A1%93%E5%AE%B6damien-hirst-%E6%8E%A8%E5%87%BA26%E5%B9%B4%E9%99%90%E9%87%8F%E7%89%88%E9%A6%99%E6%AA%B3",
     "timestamp": "2026-11-02T09:33:16.923Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡祖六︰內地政策有空間「大膽得多」　AI投資泡沫擔憂不適用中國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261001/1182282046970531840592740.jpeg/GghN0oGIADdn29u7eeObH8Fqd-zyFtVpku_nKZLv5yk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406228/%E8%83%A1%E7%A5%96%E5%85%AD-%E5%85%A7%E5%9C%B0%E6%94%BF%E7%AD%96%E6%9C%89%E7%A9%BA%E9%96%93-%E5%A4%A7%E8%86%BD%E5%BE%97%E5%A4%9A-ai%E6%8A%95%E8%B3%87%E6%B3%A1%E6%B2%AB%E6%93%94%E6%86%82%E4%B8%8D%E9%81%A9%E7%94%A8%E4%B8%AD%E5%9C%8B",
-    "timestamp": "2026-11-02T08:20:15.223Z",
     "strategy": ".content-card__main"
   }
 ];
