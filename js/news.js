@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T06:56:00.141Z
+// Last updated: 2026-11-02T07:39:41.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：日本擬與台達5合作領域貿易協議　仿英國模式最快年底簽署",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250730/1027278924243013632384750.jpeg/oYHwEZTA92SABl3FHZIEvAPb8ojX5r8FJgEEuCYBBLg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406202/%E6%97%A5%E5%AA%92-%E6%97%A5%E6%9C%AC%E6%93%AC%E8%88%87%E5%8F%B0%E9%81%945%E5%90%88%E4%BD%9C%E9%A0%98%E5%9F%9F%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0-%E4%BB%BF%E8%8B%B1%E5%9C%8B%E6%A8%A1%E5%BC%8F%E6%9C%80%E5%BF%AB%E5%B9%B4%E5%BA%95%E7%B0%BD%E7%BD%B2",
+    "timestamp": "2026-11-02T07:39:41.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "邱達根諷曾俊華「天才級智障師兄」　斥退任指指點點：齋噏當秘笈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193860942492864512759861.jpeg/kwjYzJTVQhLXwfD5EocGu8NkToDLxODhPUc6jj1HOo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406012/%E4%BD%9B%E7%BE%85%E9%87%8C%E9%81%94%E5%B7%9E%E5%B0%8F%E5%9E%8B%E9%A3%9B%E6%A9%9F%E5%A4%B1%E4%BA%8B-%E5%BF%AB%E5%A2%9C%E4%BA%86-%E9%AB%98%E9%80%9F%E7%9B%B4%E6%8F%92%E5%9C%B0%E9%9D%A2%E7%88%86%E7%82%B89%E6%AD%BB-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-02T01:53:41.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：特朗普與內塔尼亞胡「坦誠通話」　商對伊朗下一步行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260616/1143511754974695424657398.jpeg/IwNhyedavqMyQ7nay3p4G74AWK_GwXLsgKS1HICktRw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406009/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E5%9D%A6%E8%AA%A0%E9%80%9A%E8%A9%B1-%E5%95%86%E5%B0%8D%E4%BC%8A%E6%9C%97%E4%B8%8B%E4%B8%80%E6%AD%A5%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-11-02T01:21:49.279Z",
     "strategy": ".content-card__main"
   }
 ];
