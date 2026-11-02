@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T05:25:56.765Z
+// Last updated: 2026-11-02T05:40:13.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普通話中環抬頭！　彭博︰外籍人才回流投百份CV　不諳中文成阻礙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1432618/org/110d53cc8d46da0d5014f63cb9e65306.jpg/eQZbjMFcPJgFo74Wq-dw2VXwxEtyLy4otJ_kErSf5BI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406090/%E6%99%AE%E9%80%9A%E8%A9%B1%E4%B8%AD%E7%92%B0%E6%8A%AC%E9%A0%AD-%E5%BD%AD%E5%8D%9A-%E5%A4%96%E7%B1%8D%E4%BA%BA%E6%89%8D%E5%9B%9E%E6%B5%81%E6%8A%95%E7%99%BE%E4%BB%BDcv-%E4%B8%8D%E8%AB%B3%E4%B8%AD%E6%96%87%E6%88%90%E9%98%BB%E7%A4%99",
+    "timestamp": "2026-11-02T05:40:13.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜費城76人登東岸第一　勒邦占士對位單防時對手命中率僅28.1%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192906792581992448649320.jpeg/LrrEMiACg0Y_PbczmxldHTtVTABsYCm74g99xeIPfcU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60405450/%E9%A8%B0%E8%A8%8A%E9%9B%B2%E8%A8%AA%E5%95%8F-workbuddy%E6%9C%88%E6%B4%BB%E5%B7%B2%E9%81%943200%E8%90%AC-ai%E9%A0%85%E7%9B%AE%E9%A6%96%E9%87%8Dgrowth-scale",
     "timestamp": "2026-11-01T23:53:35.953Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "45歲母與18歲兒合照似情侶│逆齡媽媽爆紅　零醫美3大保鮮秘訣曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193672110535348224709648.png/Sr9P1MDa7amQMOCd3_QzLIHKY60hwxsOD2FJ3g9hSd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405513/45%E6%AD%B2%E6%AF%8D%E8%88%8718%E6%AD%B2%E5%85%92%E5%90%88%E7%85%A7%E4%BC%BC%E6%83%85%E4%BE%B6-%E9%80%86%E9%BD%A1%E5%AA%BD%E5%AA%BD%E7%88%86%E7%B4%85-%E9%9B%B6%E9%86%AB%E7%BE%8E3%E5%A4%A7%E4%BF%9D%E9%AE%AE%E7%A7%98%E8%A8%A3%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-11-01T23:23:42.785Z",
     "strategy": ".content-card__main"
   }
 ];
