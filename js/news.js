@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T01:43:56.638Z
+// Last updated: 2026-11-03T01:54:00.125Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "每週2罐汽水胰臟癌增87%？專家拆解致癌真相：真正元兇是「它」！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193954197779779584870652.jpeg/13VhgssL-6o5T9Jp_VvHMTbrGmPA2Ks3ln8W0ZZ_FtE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406139/%E6%AF%8F%E9%80%B12%E7%BD%90%E6%B1%BD%E6%B0%B4%E8%83%B0%E8%87%9F%E7%99%8C%E5%A2%9E87-%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E8%87%B4%E7%99%8C%E7%9C%9F%E7%9B%B8-%E7%9C%9F%E6%AD%A3%E5%85%83%E5%85%87%E6%98%AF-%E5%AE%83",
+    "timestamp": "2026-11-03T01:54:00.125Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金融峰會| 何立峰對香港提出四大發展建議   北都帶動新產業發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193275743509942272821067.jpeg/niEZ0NRRgFsICDA8KSyiwFbR8cAQApiyIF923yBfdt8",
     "url": "https://www.hk01.com/01TV/60405694/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%AA%BD%E5%AA%BD%E5%B9%AB%E5%BF%99%E5%A0%B1%E5%90%8D%E6%A8%A1%E7%89%B9%E8%B3%BD-%E8%B4%8F%E5%BE%97%E6%AF%94%E8%B3%BD",
     "timestamp": "2026-11-02T19:53:26.410Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧媽媽幫忙報名模特賽：贏得比賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193275743509942272821067.jpeg/niEZ0NRRgFsICDA8KSyiwFbR8cAQApiyIF923yBfdt8",
-    "url": "https://www.hk01.com/01TV/60405694/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%AA%BD%E5%AA%BD%E5%B9%AB%E5%BF%99%E5%A0%B1%E5%90%8D%E6%A8%A1%E7%89%B9%E8%B3%BD-%E8%B4%8F%E5%BE%97%E6%AF%94%E8%B3%BD",
-    "timestamp": "2026-11-02T19:39:45.024Z",
     "strategy": ".content-card__main"
   }
 ];
