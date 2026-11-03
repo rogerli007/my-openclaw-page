@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T04:40:02.100Z
+// Last updated: 2026-11-03T04:53:28.557Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姜文杰首以人父身分慶生　抱愛女複製與秦沛溫馨照：最想多謝爸爸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194257813585530880081764.jpeg/URXU8v_xpmlVwTqCPmmWnXcscZMivnIHdEy9tnRMvbY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406493/%E5%A7%9C%E6%96%87%E6%9D%B0%E9%A6%96%E4%BB%A5%E4%BA%BA%E7%88%B6%E8%BA%AB%E5%88%86%E6%85%B6%E7%94%9F-%E6%8A%B1%E6%84%9B%E5%A5%B3%E8%A4%87%E8%A3%BD%E8%88%87%E7%A7%A6%E6%B2%9B%E6%BA%AB%E9%A6%A8%E7%85%A7-%E6%9C%80%E6%83%B3%E5%A4%9A%E8%AC%9D%E7%88%B8%E7%88%B8",
+    "timestamp": "2026-11-03T04:53:28.557Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金曲獎最佳新人陳嫺靜首度襲港！2027登紅磡TIDES開首個香港個唱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194051862836285440415893.jpeg/XBg2DMSeJdEubpcd8OjTwjHKWVxrKCDhLlUuaS5VLmk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406336/%E5%8F%A4%E6%98%8E%E8%8F%AF%E9%A4%90%E5%BB%B3%E9%80%A3%E7%92%B0%E5%9F%B7%E7%AC%A0%E5%86%8D%E9%96%8B%E7%89%9B%E9%9B%9C%E5%BA%97-%E6%8B%9B%E6%94%AC-%E6%84%9B%E5%9C%8B%E8%97%9D%E4%BA%BA-%E4%B8%80%E9%BD%8A%E6%90%9E%E9%81%AD%E5%A9%89%E6%8B%92",
     "timestamp": "2026-11-02T22:16:03.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國改革移民政策　大部份移民需住10年才可申永居",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194151827411570688904128.jpeg/039IWWF88OG4tLOAvScD6K2EhCVlYGhz0gS8WNIEvFg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406408/%E8%8B%B1%E5%9C%8B%E6%94%B9%E9%9D%A9%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%A7%BB%E6%B0%91%E9%9C%80%E4%BD%8F10%E5%B9%B4%E6%89%8D%E5%8F%AF%E7%94%B3%E6%B0%B8%E5%B1%85",
-    "timestamp": "2026-11-02T21:53:26.101Z",
     "strategy": ".content-card__main"
   }
 ];
