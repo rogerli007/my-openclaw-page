@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T21:39:32.682Z
+// Last updated: 2026-11-03T21:53:45.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍灣麗晶花園單位失火　3人送院150人疏散　主人攜寵物齊逃生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
+    "timestamp": "2026-11-03T21:53:45.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍灣麗晶花園單位失火　3人送院150人疏散　主人攜寵物齊逃生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193398321243230208895072.jpeg/CmePJ6gQc00gE0rVfGBXQ0VJ1SoUAlicVDhFcFQ4RXA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406849/binance%E5%B9%A3%E5%AE%89%E8%A2%AB%E7%9B%9C63%E5%84%84%E7%BE%8E%E5%85%83%E7%A0%B4%E7%B4%80%E9%8C%84-%E6%8C%87%E8%99%9B%E5%81%87%E9%9D%A2%E8%A9%A6%E8%88%87ai%E5%B7%A5%E5%85%B7%E9%81%AD%E5%85%A5%E4%BE%B5%E6%89%80%E8%87%B4",
     "timestamp": "2026-11-03T16:54:16.945Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "姜濤、陳卓澳門開倒數新年騷　再次缺席叱吒頒獎禮鏡粉擔心冇獎拎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194368010152841216457023.jpeg/fYkp7lvooocll8pPwAW8nmbVSs2TKU_6WY0yTlmNMk4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406787/%E5%A7%9C%E6%BF%A4-%E9%99%B3%E5%8D%93%E6%BE%B3%E9%96%80%E9%96%8B%E5%80%92%E6%95%B8%E6%96%B0%E5%B9%B4%E9%A8%B7-%E5%86%8D%E6%AC%A1%E7%BC%BA%E5%B8%AD%E5%8F%B1%E5%90%92%E9%A0%92%E7%8D%8E%E7%A6%AE%E9%8F%A1%E7%B2%89%E6%93%94%E5%BF%83%E5%86%87%E7%8D%8E%E6%8B%8E",
-    "timestamp": "2026-11-03T16:40:09.095Z",
     "strategy": ".content-card__main"
   }
 ];
