@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T22:53:30.223Z
+// Last updated: 2026-11-03T23:13:06.196Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Meta聯合中企研發機械人Max　搭NVIDIA晶片面部可模擬人類表情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194382510411223040963450.jpeg/54OQGsdfQh4_U5uo2RFS3RvkYiUPEFZ5DVyCnw1cgp8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60406583/meta%E8%81%AF%E5%90%88%E4%B8%AD%E4%BC%81%E7%A0%94%E7%99%BC%E6%A9%9F%E6%A2%B0%E4%BA%BAmax-%E6%90%ADnvidia%E6%99%B6%E7%89%87%E9%9D%A2%E9%83%A8%E5%8F%AF%E6%A8%A1%E6%93%AC%E4%BA%BA%E9%A1%9E%E8%A1%A8%E6%83%85",
+    "timestamp": "2026-11-03T23:13:06.196Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梵蒂岡：教宗健康良好　本周如期出訪南美洲三國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194467799724986368695308.jpeg/6ZXbE6qqpKLAYa2KCuKa9YFEiG5tQZlJuwUzTbsFM00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406855/%E6%AD%90%E6%B4%B2%E8%87%B3%E5%B0%917%E7%8F%AD%E8%88%AA%E6%A9%9F%E6%8E%A5%E7%8D%B2%E7%82%B8%E5%BD%88%E6%81%90%E5%9A%87-%E9%99%8D%E8%90%BD%E5%BE%8C%E5%9D%87%E7%84%A1%E7%99%BC%E7%8F%BE",
     "timestamp": "2026-11-03T18:16:50.946Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "83歲前台視主播顧安生病逝　愛妻胡錦悲痛證實前一天一起欣賞豫劇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194458187097444352467830.jpeg/XMRCxWVB0WqzUrNP5LK197jhn2xDPRQu5TVkq-U1ZKs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406853/83%E6%AD%B2%E5%89%8D%E5%8F%B0%E8%A6%96%E4%B8%BB%E6%92%AD%E9%A1%A7%E5%AE%89%E7%94%9F%E7%97%85%E9%80%9D-%E6%84%9B%E5%A6%BB%E8%83%A1%E9%8C%A6%E6%82%B2%E7%97%9B%E8%AD%89%E5%AF%A6%E5%89%8D%E4%B8%80%E5%A4%A9%E4%B8%80%E8%B5%B7%E6%AC%A3%E8%B3%9E%E8%B1%AB%E5%8A%87",
-    "timestamp": "2026-11-03T17:53:20.237Z",
     "strategy": ".content-card__main"
   }
 ];
