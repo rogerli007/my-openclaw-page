@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T16:26:13.173Z
+// Last updated: 2026-11-03T16:40:09.095Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姜濤、陳卓澳門開倒數新年騷　再次缺席叱吒頒獎禮鏡粉擔心冇獎拎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194368010152841216457023.jpeg/fYkp7lvooocll8pPwAW8nmbVSs2TKU_6WY0yTlmNMk4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406787/%E5%A7%9C%E6%BF%A4-%E9%99%B3%E5%8D%93%E6%BE%B3%E9%96%80%E9%96%8B%E5%80%92%E6%95%B8%E6%96%B0%E5%B9%B4%E9%A8%B7-%E5%86%8D%E6%AC%A1%E7%BC%BA%E5%B8%AD%E5%8F%B1%E5%90%92%E9%A0%92%E7%8D%8E%E7%A6%AE%E9%8F%A1%E7%B2%89%E6%93%94%E5%BF%83%E5%86%87%E7%8D%8E%E6%8B%8E",
+    "timestamp": "2026-11-03T16:40:09.095Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜高海寧誘吳卓羲床戰　再屈強姦留「重要物證」極狗血",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194319780119580672437260.jpeg/fvA6OH7lonUTurj2fbTDVZJacUo-U4w6BGKY4ARimOA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406656/%E5%B0%81%E6%AE%BA%E5%B8%B3%E8%99%9F%E5%8F%8D%E8%AE%93%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9B%B4%E5%8D%B1%E9%9A%AA-reddit%E5%85%A5%E7%A8%9F%E6%BE%B3%E6%B4%B2%E9%AB%98%E9%99%A2%E4%BF%83%E6%92%A4%E7%A6%81%E4%BB%A4",
     "timestamp": "2026-11-03T10:39:46.458Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "足球︱陳晉一左腳蹠骨骨折需動刀　3個月內二度重創料休戰逾10周",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194325224913375232154379.jpeg/2djkMMw33Pp9c8s9svxXttZvdIIy9GAAckErH3JBKx8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406640/%E8%B6%B3%E7%90%83-%E9%99%B3%E6%99%89%E4%B8%80%E5%B7%A6%E8%85%B3%E8%B9%A0%E9%AA%A8%E9%AA%A8%E6%8A%98%E9%9C%80%E5%8B%95%E5%88%80-3%E5%80%8B%E6%9C%88%E5%85%A7%E4%BA%8C%E5%BA%A6%E9%87%8D%E5%89%B5%E6%96%99%E4%BC%91%E6%88%B0%E9%80%BE10%E5%91%A8",
-    "timestamp": "2026-11-03T10:27:31.710Z",
     "strategy": ".content-card__main"
   }
 ];
