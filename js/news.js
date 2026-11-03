@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T18:16:50.946Z
+// Last updated: 2026-11-03T18:26:31.815Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲至少7班航機接獲炸彈恐嚇　降落後均無發現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194467799724986368695308.jpeg/6ZXbE6qqpKLAYa2KCuKa9YFEiG5tQZlJuwUzTbsFM00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406855/%E6%AD%90%E6%B4%B2%E8%87%B3%E5%B0%917%E7%8F%AD%E8%88%AA%E6%A9%9F%E6%8E%A5%E7%8D%B2%E7%82%B8%E5%BD%88%E6%81%90%E5%9A%87-%E9%99%8D%E8%90%BD%E5%BE%8C%E5%9D%87%E7%84%A1%E7%99%BC%E7%8F%BE",
+    "timestamp": "2026-11-03T18:26:31.815Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲至少7班航機接獲炸彈恐嚇　降落後均無發現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194303758771687424369710.jpeg/qfb3Jhmc83sORRjycniOChE6ymowR-ELYpb3SWKW90k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60406614/%E7%BE%8E%E8%A8%98%E8%80%85%E4%BD%8F%E4%B8%AD%E5%9C%8B14%E5%B9%B4%E7%A0%B4%E9%99%A4%E5%81%8F%E8%A6%8B-%E8%A9%95%E6%89%B6%E8%B2%A7%E6%94%BB%E5%A0%85-%E6%98%AF%E6%9C%AC%E4%B8%96%E7%B4%80%E6%9C%80%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%BA%8B",
     "timestamp": "2026-11-03T12:38:19.782Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "QS亞洲大學排名｜分析為何本港五大學成十強　三大範疇成優勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194357347296743424390861.jpeg/ucmBm9S8ivk-PZfkcR3glQNbxvUG7h0xrvSYrK70mKw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60406721/qs%E4%BA%9E%E6%B4%B2%E5%A4%A7%E5%AD%B8%E6%8E%92%E5%90%8D-%E5%88%86%E6%9E%90%E7%82%BA%E4%BD%95%E6%9C%AC%E6%B8%AF%E4%BA%94%E5%A4%A7%E5%AD%B8%E6%88%90%E5%8D%81%E5%BC%B7-%E4%B8%89%E5%A4%A7%E7%AF%84%E7%96%87%E6%88%90%E5%84%AA%E5%8B%A2",
-    "timestamp": "2026-11-03T12:19:12.176Z",
     "strategy": ".content-card__main"
   }
 ];
