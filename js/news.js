@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-02T23:59:15.692Z
+// Last updated: 2026-11-03T00:30:55.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘋果盤後跌逾2%　假日季營收指引未能打動投資者",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177641343166451712814520.png/IdWcTi9EwV6Pr4Dxn8SvsxXlTAeFuehwIv5oiSL-aIk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406420/%E8%98%8B%E6%9E%9C%E7%9B%A4%E5%BE%8C%E8%B7%8C%E9%80%BE2-%E5%81%87%E6%97%A5%E5%AD%A3%E7%87%9F%E6%94%B6%E6%8C%87%E5%BC%95%E6%9C%AA%E8%83%BD%E6%89%93%E5%8B%95%E6%8A%95%E8%B3%87%E8%80%85",
+    "timestamp": "2026-11-03T00:30:55.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜陳瀅酒後突吻陳曉華遭慘拒　挑戰電視尺度上演女女戀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971300012396544072495.jpeg/5YW1QeDr8X-aBPuD8uai0Sq7DX0_1YTvoOn0RaDp9EU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406397/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B4%AA%E6%B0%B4%E6%A9%8B%E6%AE%B554%E6%AD%B2%E5%A5%B3%E6%8D%B1%E8%BB%8A%E6%92%9E-%E8%B7%8C%E5%85%A5%E8%8A%B1%E5%8F%A2%E4%B8%8D%E6%B2%BB-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-02T18:53:25.724Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青山公路洪水橋段54歲女捱車撞　跌入花叢不治　男司機涉危駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971300012396544072495.jpeg/5YW1QeDr8X-aBPuD8uai0Sq7DX0_1YTvoOn0RaDp9EU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406397/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B4%AA%E6%B0%B4%E6%A9%8B%E6%AE%B554%E6%AD%B2%E5%A5%B3%E6%8D%B1%E8%BB%8A%E6%92%9E-%E8%B7%8C%E5%85%A5%E8%8A%B1%E5%8F%A2%E4%B8%8D%E6%B2%BB-%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-02T18:39:40.064Z",
     "strategy": ".content-card__main"
   }
 ];
