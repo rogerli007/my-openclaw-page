@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T10:27:31.710Z
+// Last updated: 2026-11-03T10:39:46.458Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "封殺帳號反讓青少年更危險？　Reddit入稟澳洲高院促撤禁令",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194319780119580672437260.jpeg/fvA6OH7lonUTurj2fbTDVZJacUo-U4w6BGKY4ARimOA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406656/%E5%B0%81%E6%AE%BA%E5%B8%B3%E8%99%9F%E5%8F%8D%E8%AE%93%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9B%B4%E5%8D%B1%E9%9A%AA-reddit%E5%85%A5%E7%A8%9F%E6%BE%B3%E6%B4%B2%E9%AB%98%E9%99%A2%E4%BF%83%E6%92%A4%E7%A6%81%E4%BB%A4",
+    "timestamp": "2026-11-03T10:39:46.458Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "足球︱陳晉一左腳蹠骨骨折需動刀　3個月內二度重創料休戰逾10周",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194257813585530880081764.jpeg/URXU8v_xpmlVwTqCPmmWnXcscZMivnIHdEy9tnRMvbY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406493/%E5%A7%9C%E6%96%87%E6%9D%B0%E9%A6%96%E4%BB%A5%E4%BA%BA%E7%88%B6%E8%BA%AB%E5%88%86%E6%85%B6%E7%94%9F-%E6%8A%B1%E6%84%9B%E5%A5%B3%E8%A4%87%E8%A3%BD%E8%88%87%E7%A7%A6%E6%B2%9B%E6%BA%AB%E9%A6%A8%E7%85%A7-%E6%9C%80%E6%83%B3%E5%A4%9A%E8%AC%9D%E7%88%B8%E7%88%B8",
     "timestamp": "2026-11-03T04:53:28.557Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金曲獎最佳新人陳嫺靜首度襲港！2027登紅磡TIDES開首個香港個唱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194264992484954112769815.jpeg/ybaeW2A9ZGZR_EkPNgtDIQaVEFaT1HuuGLBZBBiwWQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60406536/%E9%87%91%E6%9B%B2%E7%8D%8E%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E9%99%B3%E5%AB%BA%E9%9D%9C%E9%A6%96%E5%BA%A6%E8%A5%B2%E6%B8%AF-2027%E7%99%BB%E7%B4%85%E7%A3%A1tides%E9%96%8B%E9%A6%96%E5%80%8B%E9%A6%99%E6%B8%AF%E5%80%8B%E5%94%B1",
-    "timestamp": "2026-11-03T04:40:02.100Z",
     "strategy": ".content-card__main"
   }
 ];
