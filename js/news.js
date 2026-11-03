@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T08:53:27.235Z
+// Last updated: 2026-11-03T09:15:53.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印度貧困率降至2.6%？世行報告惹爭議：靠兩塊大餅算脫貧｜點經",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2881108/org/8dee0dc9463a8226d8ef6e7c3eac4de8.jpg/AsNCHATOldHV0hA8zIBThOnWJcWkVp2BecTVUXnE1VE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60406584/%E5%8D%B0%E5%BA%A6%E8%B2%A7%E5%9B%B0%E7%8E%87%E9%99%8D%E8%87%B32-6-%E4%B8%96%E8%A1%8C%E5%A0%B1%E5%91%8A%E6%83%B9%E7%88%AD%E8%AD%B0-%E9%9D%A0%E5%85%A9%E5%A1%8A%E5%A4%A7%E9%A4%85%E7%AE%97%E8%84%AB%E8%B2%A7-%E9%BB%9E%E7%B6%93",
+    "timestamp": "2026-11-03T09:15:53.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佳寶限時優惠全場8折｜一連13日大減價！糧油肉類海鮮掃貨攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193984798700343296874216.jpeg/rY1WNDwXpQyf6c7eTkNkX6woiMvRpIA0QCV01kAldNY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60406304/ella%E9%99%B3%E5%98%89%E6%A8%BA%E6%BC%94%E5%94%B1%E6%9C%832027-%E6%BE%B3%E9%96%80%E9%80%A3%E9%96%8B2%E5%A0%B4%E9%96%80%E7%A5%A8-480%E8%B5%B7-11-17%E9%96%8B%E8%B3%A3-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-11-03T03:39:57.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紐時揭特朗普演說變冗長難理解暴增2.5倍　遭質疑「認知退化」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194236996579495936023741.jpeg/aNFG0y47zvl-Hjiqs-XefzWgB-d_t8pDMBSHXDAUh1w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60406447/%E7%B4%90%E6%99%82%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AA%AA%E8%AE%8A%E5%86%97%E9%95%B7%E9%9B%A3%E7%90%86%E8%A7%A3%E6%9A%B4%E5%A2%9E2-5%E5%80%8D-%E9%81%AD%E8%B3%AA%E7%96%91-%E8%AA%8D%E7%9F%A5%E9%80%80%E5%8C%96",
-    "timestamp": "2026-11-03T03:27:00.627Z",
     "strategy": ".content-card__main"
   }
 ];
