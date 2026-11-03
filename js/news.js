@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T02:53:55.431Z
+// Last updated: 2026-11-03T03:22:06.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劍擊U23亞錦賽｜港隊強勢豪奪8金　男花女重團體齊稱霸謝幕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194243899107840000548172.jpeg/szA642myXzXI8YSywR_yOnDufZnXm2o67ehzve3oc70?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406487/%E5%8A%8D%E6%93%8Au23%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E5%BC%B7%E5%8B%A2%E8%B1%AA%E5%A5%AA8%E9%87%91-%E7%94%B7%E8%8A%B1%E5%A5%B3%E9%87%8D%E5%9C%98%E9%AB%94%E9%BD%8A%E7%A8%B1%E9%9C%B8%E8%AC%9D%E5%B9%95",
+    "timestamp": "2026-11-03T03:22:06.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "10月地產代理人數續升　最新報38391人　每6.6名代理爭一張單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194127890493476864713568.jpeg/uEchzGqXVrOe7rsYd3qgOZrBfMUvhPIyJf2j8CX9o_A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406401/%E7%8E%8B%E6%AF%85%E6%99%A4%E4%BC%8A%E6%9C%97%E5%9C%8B%E5%AE%89%E5%AE%98%E5%93%A1-%E7%A8%B1%E5%B0%8D%E8%A9%B1%E8%AB%87%E5%88%A4%E6%89%8D%E6%98%AF%E8%A7%A3%E6%B1%BA%E6%88%B0%E4%BA%8B%E4%B9%8B%E9%81%93",
     "timestamp": "2026-11-02T20:40:05.826Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警偕海關深水埗搗非法賭檔、私煙倉、按摩院及賣淫場所　拘14人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194136125296349184197423.jpeg/wPFmV3uFkDIxUHvyKRKf-yJXzaRtM_HsC5UEmguVBJo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406404/%E8%AD%A6%E5%81%95%E6%B5%B7%E9%97%9C%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E7%A7%81%E7%85%99%E5%80%89-%E6%8C%89%E6%91%A9%E9%99%A2%E5%8F%8A%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E6%8B%9814%E4%BA%BA",
-    "timestamp": "2026-11-02T20:23:45.324Z",
     "strategy": ".content-card__main"
   }
 ];
