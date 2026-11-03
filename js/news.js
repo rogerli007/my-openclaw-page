@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T11:53:50.271Z
+// Last updated: 2026-11-03T12:19:12.176Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "QS亞洲大學排名｜分析為何本港五大學成十強　三大範疇成優勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194357347296743424390861.jpeg/ucmBm9S8ivk-PZfkcR3glQNbxvUG7h0xrvSYrK70mKw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60406721/qs%E4%BA%9E%E6%B4%B2%E5%A4%A7%E5%AD%B8%E6%8E%92%E5%90%8D-%E5%88%86%E6%9E%90%E7%82%BA%E4%BD%95%E6%9C%AC%E6%B8%AF%E4%BA%94%E5%A4%A7%E5%AD%B8%E6%88%90%E5%8D%81%E5%BC%B7-%E4%B8%89%E5%A4%A7%E7%AF%84%E7%96%87%E6%88%90%E5%84%AA%E5%8B%A2",
+    "timestamp": "2026-11-03T12:19:12.176Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印網紅公開地址求甜點　卻遭「貨到付款」惡搞轟炸　嚇到連夜離家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250707/1018983922605756416540267.jpeg/dcbd39vw9-rw_Li4mrAmvqlPBFEzBeV9MSoPDDEqDww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406587/%E6%94%B6%E7%B7%8A%E6%9F%A5%E5%86%8A%E4%B8%8D%E8%A8%AD%E4%B8%8A%E8%A8%B4-%E8%AD%B0%E5%93%A1%E6%89%B9%E6%8A%B9%E6%AE%BA%E6%AD%A3%E5%B8%B8%E5%A0%B1%E9%81%93-%E7%99%BC%E5%B1%95%E5%B1%80-%E7%94%B3%E8%AB%8B%E9%96%80%E6%AA%BB%E4%B8%8D%E9%AB%98",
     "timestamp": "2026-11-03T06:43:46.572Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中大團隊AI篩出兩成高認知障礙風險者　明年落區黃大仙推免費評估",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194285659280379904509134.jpeg/SuIIS6zAZm9H9uUzm4PfZYsmckIBRvOokEVYhbVFWIU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406579/%E4%B8%AD%E5%A4%A7%E5%9C%98%E9%9A%8Aai%E7%AF%A9%E5%87%BA%E5%85%A9%E6%88%90%E9%AB%98%E8%AA%8D%E7%9F%A5%E9%9A%9C%E7%A4%99%E9%A2%A8%E9%9A%AA%E8%80%85-%E6%98%8E%E5%B9%B4%E8%90%BD%E5%8D%80%E9%BB%83%E5%A4%A7%E4%BB%99%E6%8E%A8%E5%85%8D%E8%B2%BB%E8%A9%95%E4%BC%B0",
-    "timestamp": "2026-11-03T06:21:47.373Z",
     "strategy": ".content-card__main"
   }
 ];
