@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T11:14:34.076Z
+// Last updated: 2026-11-03T11:24:11.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阮浩棕心痛何沛珈玩滑水梯爆喊被批綠茶　代平反兼澄清二人關係",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194366018026213376782493.jpeg/hiZbimpqI5hGPJfe2GK4s62ueLASyreD7Ieu5OyHruQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406774/%E9%98%AE%E6%B5%A9%E6%A3%95%E5%BF%83%E7%97%9B%E4%BD%95%E6%B2%9B%E7%8F%88%E7%8E%A9%E6%BB%91%E6%B0%B4%E6%A2%AF%E7%88%86%E5%96%8A%E8%A2%AB%E6%89%B9%E7%B6%A0%E8%8C%B6-%E4%BB%A3%E5%B9%B3%E5%8F%8D%E5%85%BC%E6%BE%84%E6%B8%85%E4%BA%8C%E4%BA%BA%E9%97%9C%E4%BF%82",
+    "timestamp": "2026-11-03T11:24:11.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃澤林認愛譚旻萱　一段愛情竟有4個輸家！輸得最慘是JFFT床哥？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251003/1050758317107843072291754.jpeg/BKgh9iRl4eKuWD-Lmpjrlb8KjWfWd41wKh48YA8ePGA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406566/%E6%96%BD%E9%A7%BF%E8%88%88%E8%88%87%E5%A5%B3%E7%AB%A5%E6%80%A7%E4%BA%A4%E5%9B%9A30%E6%9C%88-%E5%AE%98%E6%8B%92%E7%B4%8D%E9%87%8D%E7%8A%AF%E6%A9%9F%E6%9C%83%E4%BD%8E-%E6%85%BE%E5%BF%B5%E5%8F%AF%E4%BD%BF%E4%BA%BA%E8%B7%A8%E8%B6%8A%E7%B4%85%E7%B7%9A",
     "timestamp": "2026-11-03T05:41:30.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "咪錶故障4小時　營辦商香港電訊致歉　沒提原因稱將盡快提交報告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194235931461292032895307.jpeg/NHFsjxuNqWSuK7fGMNIaab71sWcb3Y3Kc-cManPnDGo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406561/%E5%92%AA%E9%8C%B6%E6%95%85%E9%9A%9C4%E5%B0%8F%E6%99%82-%E7%87%9F%E8%BE%A6%E5%95%86%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A%E8%87%B4%E6%AD%89-%E6%B2%92%E6%8F%90%E5%8E%9F%E5%9B%A0%E7%A8%B1%E5%B0%87%E7%9B%A1%E5%BF%AB%E6%8F%90%E4%BA%A4%E5%A0%B1%E5%91%8A",
-    "timestamp": "2026-11-03T05:29:39.728Z",
     "strategy": ".content-card__main"
   }
 ];
