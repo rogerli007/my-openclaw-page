@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T12:56:47.452Z
+// Last updated: 2026-11-03T13:14:56.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張景淳呂慧儀疑秘密合體開工　「龔水CP」再現《三代同糖》？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194391703058911232053489.jpeg/nnRt9ncq22ZvR8VUOrMV_vzVzNoO-vRCzOa7vczmu70?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406806/%E5%BC%B5%E6%99%AF%E6%B7%B3%E5%91%82%E6%85%A7%E5%84%80%E7%96%91%E7%A7%98%E5%AF%86%E5%90%88%E9%AB%94%E9%96%8B%E5%B7%A5-%E9%BE%94%E6%B0%B4cp-%E5%86%8D%E7%8F%BE-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96",
+    "timestamp": "2026-11-03T13:14:56.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林愷鈴父「上古許光漢」林煒翻紅　陳年咀戲洗版終露面回應復出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194305906779623424791820.jpeg/CNWil26uqbbrTK4FOOi6f1CwwhEGBhtRCsHhKArB4Sg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60310831/%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%8E%A8%E4%BB%8B2026-%E7%89%B9%E8%89%B2hightea%E6%8E%A8%E8%96%A6-%E6%B5%B7%E6%99%AF%E6%89%93%E5%8D%A1-%E7%BE%8E%E5%A6%9D%E7%A6%AE%E5%93%81-%E8%97%9D%E8%A1%93%E8%81%AF%E4%B9%98",
     "timestamp": "2026-11-03T07:25:11.942Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施駿興與女童性交囚2年半　勢失區議員資格　政府：9月起已停酬津",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179140075334668288972851.jpeg/OQ9Rh5S0HQtlcrRS22dYSghd8n_SwOBD6Lwu6ei8Luk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406594/%E6%96%BD%E9%A7%BF%E8%88%88%E8%88%87%E5%A5%B3%E7%AB%A5%E6%80%A7%E4%BA%A4%E5%9B%9A2%E5%B9%B4%E5%8D%8A-%E5%8B%A2%E5%A4%B1%E5%8D%80%E8%AD%B0%E5%93%A1%E8%B3%87%E6%A0%BC-%E6%94%BF%E5%BA%9C-9%E6%9C%88%E8%B5%B7%E5%B7%B2%E5%81%9C%E9%85%AC%E6%B4%A5",
-    "timestamp": "2026-11-03T07:18:42.306Z",
     "strategy": ".content-card__main"
   }
 ];
