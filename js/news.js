@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T01:54:00.125Z
+// Last updated: 2026-11-03T02:40:58.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "咪錶泊車系統故障｜記者視察各區咪錶　部分故障部份如常操作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194234529926090752791453.jpeg/9fiVa_Uq_1Hhy3W18G7kZl_oX1Hktrfoi3j7xIt4-8Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406466/%E5%92%AA%E9%8C%B6%E6%B3%8A%E8%BB%8A%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E8%A8%98%E8%80%85%E8%A6%96%E5%AF%9F%E5%90%84%E5%8D%80%E5%92%AA%E9%8C%B6-%E9%83%A8%E5%88%86%E6%95%85%E9%9A%9C%E9%83%A8%E4%BB%BD%E5%A6%82%E5%B8%B8%E6%93%8D%E4%BD%9C",
+    "timestamp": "2026-11-03T02:40:58.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "每週2罐汽水胰臟癌增87%？專家拆解致癌真相：真正元兇是「它」！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268984795893760106732.jpeg/aNLT3H8clLLKb7jhB17uP5GojDs4EcwQwoXat8KF2rc",
     "url": "https://www.hk01.com/01TV/60405682/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%8F%83%E9%81%B8%E6%B8%AF%E5%A7%90%E5%85%A7%E5%B9%95-%E5%9B%A0%E5%8E%BB%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E8%80%8C%E5%A0%B1%E5%90%8D",
     "timestamp": "2026-11-02T20:14:01.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧媽媽幫忙報名模特賽：贏得比賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193275743509942272821067.jpeg/niEZ0NRRgFsICDA8KSyiwFbR8cAQApiyIF923yBfdt8",
-    "url": "https://www.hk01.com/01TV/60405694/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%AA%BD%E5%AA%BD%E5%B9%AB%E5%BF%99%E5%A0%B1%E5%90%8D%E6%A8%A1%E7%89%B9%E8%B3%BD-%E8%B4%8F%E5%BE%97%E6%AF%94%E8%B3%BD",
-    "timestamp": "2026-11-02T19:53:26.410Z",
     "strategy": ".content-card__main"
   }
 ];
