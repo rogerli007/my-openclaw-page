@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T13:53:48.050Z
+// Last updated: 2026-11-03T14:14:44.779Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱與內塔尼亞胡達共識　年底將結束每年軍援以色列40億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150329383488065536243057.jpeg/mjT6u3oTiD7mF2PAJFJ7SYLxH0CtO01G8BvYrvAb2K4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406827/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E9%81%94%E5%85%B1%E8%AD%98-%E5%B9%B4%E5%BA%95%E5%B0%87%E7%B5%90%E6%9D%9F%E6%AF%8F%E5%B9%B4%E8%BB%8D%E6%8F%B4%E4%BB%A5%E8%89%B2%E5%88%9740%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-11-03T14:14:44.779Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌街頭無戴頭盔駕電動單車　外賣員遭警斷正涉5罪被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194305363545952256281593.jpeg/b49VGH6-LYwJIlP8ZMPYeGFvdpge-EJ7IyOf_yMjn_8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60406596/%E6%97%A5%E5%A5%B3%E5%81%B6%E5%83%8F%E7%AA%81%E8%85%A6%E4%B8%AD%E9%A2%A8%E9%9A%AA%E6%AD%BB-%E9%87%8D%E5%BA%A6%E7%99%B1%E7%98%93%E9%81%AD%E6%96%B7%E8%A8%80%E6%81%A2%E5%BE%A9%E7%84%A1%E6%9C%9B-%E4%BB%8A%E9%80%86%E8%BD%89%E8%AE%8A%E6%B2%BB%E7%99%82%E5%B8%AB",
     "timestamp": "2026-11-03T08:19:35.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "城巴免費｜殘疾人士及同行照顧者11.8免費乘車優惠　口岸線等除外",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2300543/org/38205e7ed6dc05d4ae0c087b98861c2c.JPG/Z4_jH6_VlU85uoZJV42OjgjhQIg9xoDcFlBeozNQXqM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406644/%E5%9F%8E%E5%B7%B4%E5%85%8D%E8%B2%BB-%E6%AE%98%E7%96%BE%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%90%8C%E8%A1%8C%E7%85%A7%E9%A1%A7%E8%80%8511-8%E5%85%8D%E8%B2%BB%E4%B9%98%E8%BB%8A%E5%84%AA%E6%83%A0-%E5%8F%A3%E5%B2%B8%E7%B7%9A%E7%AD%89%E9%99%A4%E5%A4%96",
-    "timestamp": "2026-11-03T07:59:22.724Z",
     "strategy": ".content-card__main"
   }
 ];
