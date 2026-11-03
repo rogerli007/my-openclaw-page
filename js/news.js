@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T17:53:20.237Z
+// Last updated: 2026-11-03T18:16:50.946Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲至少7班航機接獲炸彈恐嚇　降落後均無發現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194467799724986368695308.jpeg/6ZXbE6qqpKLAYa2KCuKa9YFEiG5tQZlJuwUzTbsFM00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406855/%E6%AD%90%E6%B4%B2%E8%87%B3%E5%B0%917%E7%8F%AD%E8%88%AA%E6%A9%9F%E6%8E%A5%E7%8D%B2%E7%82%B8%E5%BD%88%E6%81%90%E5%9A%87-%E9%99%8D%E8%90%BD%E5%BE%8C%E5%9D%87%E7%84%A1%E7%99%BC%E7%8F%BE",
+    "timestamp": "2026-11-03T18:16:50.946Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "83歲前台視主播顧安生病逝　愛妻胡錦悲痛證實前一天一起欣賞豫劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194357347296743424390861.jpeg/ucmBm9S8ivk-PZfkcR3glQNbxvUG7h0xrvSYrK70mKw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60406721/qs%E4%BA%9E%E6%B4%B2%E5%A4%A7%E5%AD%B8%E6%8E%92%E5%90%8D-%E5%88%86%E6%9E%90%E7%82%BA%E4%BD%95%E6%9C%AC%E6%B8%AF%E4%BA%94%E5%A4%A7%E5%AD%B8%E6%88%90%E5%8D%81%E5%BC%B7-%E4%B8%89%E5%A4%A7%E7%AF%84%E7%96%87%E6%88%90%E5%84%AA%E5%8B%A2",
     "timestamp": "2026-11-03T12:19:12.176Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印網紅公開地址求甜點　卻遭「貨到付款」惡搞轟炸　嚇到連夜離家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194348110063603712760419.png/eZVYAispijXB5-dKkhNJAPz755w_XM103eV9Td3lfU0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401450/%E5%8D%B0%E7%B6%B2%E7%B4%85%E5%85%AC%E9%96%8B%E5%9C%B0%E5%9D%80%E6%B1%82%E7%94%9C%E9%BB%9E-%E5%8D%BB%E9%81%AD-%E8%B2%A8%E5%88%B0%E4%BB%98%E6%AC%BE-%E6%83%A1%E6%90%9E%E8%BD%9F%E7%82%B8-%E5%9A%87%E5%88%B0%E9%80%A3%E5%A4%9C%E9%9B%A2%E5%AE%B6",
-    "timestamp": "2026-11-03T11:53:50.271Z",
     "strategy": ".content-card__main"
   }
 ];
