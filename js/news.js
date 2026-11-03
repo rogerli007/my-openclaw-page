@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T06:54:14.759Z
+// Last updated: 2026-11-03T07:18:42.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施駿興與女童性交囚2年半　勢失區議員資格　政府：9月起已停酬津",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179140075334668288972851.jpeg/OQ9Rh5S0HQtlcrRS22dYSghd8n_SwOBD6Lwu6ei8Luk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406594/%E6%96%BD%E9%A7%BF%E8%88%88%E8%88%87%E5%A5%B3%E7%AB%A5%E6%80%A7%E4%BA%A4%E5%9B%9A2%E5%B9%B4%E5%8D%8A-%E5%8B%A2%E5%A4%B1%E5%8D%80%E8%AD%B0%E5%93%A1%E8%B3%87%E6%A0%BC-%E6%94%BF%E5%BA%9C-9%E6%9C%88%E8%B5%B7%E5%B7%B2%E5%81%9C%E9%85%AC%E6%B4%A5",
+    "timestamp": "2026-11-03T07:18:42.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東京中野百老匯229萬元AP名錶被盜　小偷數天後寄回附道歉信",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194219071739006976139840.jpeg/jGG_U8ALO4_onUXZxjduzm5RaS6Mf8AxBC7q9QQu6vU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406421/%E5%BC%B5%E4%B8%96%E8%8F%AF%E9%86%AB%E7%94%9F%E9%9B%A2%E4%B8%96-%E7%97%85%E4%BA%BA%E6%82%BC%E8%85%B8%E8%83%83%E8%82%9D%E8%87%9F%E7%A7%91%E4%BB%81%E9%86%AB-%E6%82%A8%E6%98%AF%E6%88%91%E8%A6%8B%E9%81%8E%E6%9C%80%E6%BA%AB%E6%9F%94%E7%9A%84%E9%86%AB%E7%94%9F",
     "timestamp": "2026-11-03T01:27:26.387Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜清真寺外伸手黨湧現為搶錢推落樓梯　街友踢爆擁私樓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194063625652801536904586.jpeg/WuE91q_pZcs7CNgmjNMpeZQfCK2Q4qb3bXFNi21xTYs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406389/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%B8%85%E7%9C%9F%E5%AF%BA%E5%A4%96%E4%BC%B8%E6%89%8B%E9%BB%A8%E6%B9%A7%E7%8F%BE%E7%82%BA%E6%90%B6%E9%8C%A2%E6%8E%A8%E8%90%BD%E6%A8%93%E6%A2%AF-%E8%A1%97%E5%8F%8B%E8%B8%A2%E7%88%86%E6%93%81%E7%A7%81%E6%A8%93",
-    "timestamp": "2026-11-03T00:50:40.781Z",
     "strategy": ".content-card__main"
   }
 ];
