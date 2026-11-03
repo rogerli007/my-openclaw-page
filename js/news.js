@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T07:25:11.942Z
+// Last updated: 2026-11-03T07:40:02.652Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聖誕下午茶推介2026｜打卡HighTea:GODIVA任食/日本海膽/送香檳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194305906779623424791820.jpeg/CNWil26uqbbrTK4FOOi6f1CwwhEGBhtRCsHhKArB4Sg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60310831/%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%8E%A8%E4%BB%8B2026-%E7%89%B9%E8%89%B2hightea%E6%8E%A8%E8%96%A6-%E6%B5%B7%E6%99%AF%E6%89%93%E5%8D%A1-%E7%BE%8E%E5%A6%9D%E7%A6%AE%E5%93%81-%E8%97%9D%E8%A1%93%E8%81%AF%E4%B9%98",
+    "timestamp": "2026-11-03T07:40:02.652Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聖誕下午茶推介2026｜打卡HighTea:GODIVA任食/日本海膽/送香檳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193954197779779584870652.jpeg/13VhgssL-6o5T9Jp_VvHMTbrGmPA2Ks3ln8W0ZZ_FtE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406139/%E6%AF%8F%E9%80%B12%E7%BD%90%E6%B1%BD%E6%B0%B4%E8%83%B0%E8%87%9F%E7%99%8C%E5%A2%9E87-%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E8%87%B4%E7%99%8C%E7%9C%9F%E7%9B%B8-%E7%9C%9F%E6%AD%A3%E5%85%83%E5%85%87%E6%98%AF-%E5%AE%83",
     "timestamp": "2026-11-03T01:54:00.125Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金融峰會| 何立峰對香港提出四大發展建議   北都帶動新產業發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194221611666903040721936.jpeg/sO-rXTrxbS8xaWdGH9EYz52DZ8w5w-LMGn5SGRp-Uhk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406432/%E9%87%91%E8%9E%8D%E5%B3%B0%E6%9C%83-%E4%BD%95%E7%AB%8B%E5%B3%B0%E5%B0%8D%E9%A6%99%E6%B8%AF%E6%8F%90%E5%87%BA%E5%9B%9B%E5%A4%A7%E7%99%BC%E5%B1%95%E5%BB%BA%E8%AD%B0-%E5%8C%97%E9%83%BD%E5%B8%B6%E5%8B%95%E6%96%B0%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-11-03T01:43:56.638Z",
     "strategy": ".content-card__main"
   }
 ];
