@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T03:22:06.575Z
+// Last updated: 2026-11-03T03:27:00.627Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紐時揭特朗普演說變冗長難理解暴增2.5倍　遭質疑「認知退化」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194236996579495936023741.jpeg/aNFG0y47zvl-Hjiqs-XefzWgB-d_t8pDMBSHXDAUh1w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60406447/%E7%B4%90%E6%99%82%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AA%AA%E8%AE%8A%E5%86%97%E9%95%B7%E9%9B%A3%E7%90%86%E8%A7%A3%E6%9A%B4%E5%A2%9E2-5%E5%80%8D-%E9%81%AD%E8%B3%AA%E7%96%91-%E8%AA%8D%E7%9F%A5%E9%80%80%E5%8C%96",
+    "timestamp": "2026-11-03T03:27:00.627Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劍擊U23亞錦賽｜港隊強勢豪奪8金　男花女重團體齊稱霸謝幕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194127890493476864713568.jpeg/uEchzGqXVrOe7rsYd3qgOZrBfMUvhPIyJf2j8CX9o_A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406401/%E7%8E%8B%E6%AF%85%E6%99%A4%E4%BC%8A%E6%9C%97%E5%9C%8B%E5%AE%89%E5%AE%98%E5%93%A1-%E7%A8%B1%E5%B0%8D%E8%A9%B1%E8%AB%87%E5%88%A4%E6%89%8D%E6%98%AF%E8%A7%A3%E6%B1%BA%E6%88%B0%E4%BA%8B%E4%B9%8B%E9%81%93",
     "timestamp": "2026-11-02T20:59:13.783Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅晤伊朗國安官員　稱對話談判才是解決戰事之道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194127890493476864713568.jpeg/uEchzGqXVrOe7rsYd3qgOZrBfMUvhPIyJf2j8CX9o_A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406401/%E7%8E%8B%E6%AF%85%E6%99%A4%E4%BC%8A%E6%9C%97%E5%9C%8B%E5%AE%89%E5%AE%98%E5%93%A1-%E7%A8%B1%E5%B0%8D%E8%A9%B1%E8%AB%87%E5%88%A4%E6%89%8D%E6%98%AF%E8%A7%A3%E6%B1%BA%E6%88%B0%E4%BA%8B%E4%B9%8B%E9%81%93",
-    "timestamp": "2026-11-02T20:40:05.826Z",
     "strategy": ".content-card__main"
   }
 ];
