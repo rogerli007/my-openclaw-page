@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T04:53:28.557Z
+// Last updated: 2026-11-03T05:14:55.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Timex平民Tank坦克錶登場！WM Brown聯名復古方錶附鋼皮雙帶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192488293598498816523089.png/oENAw_eF7mQxeuH2QnJ2p2_XtJL7J5kr1Im3RNSJt0Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60404792/timex%E5%B9%B3%E6%B0%91tank%E5%9D%A6%E5%85%8B%E9%8C%B6%E7%99%BB%E5%A0%B4-wm-brown%E8%81%AF%E5%90%8D%E5%BE%A9%E5%8F%A4%E6%96%B9%E9%8C%B6%E9%99%84%E9%8B%BC%E7%9A%AE%E9%9B%99%E5%B8%B6",
+    "timestamp": "2026-11-03T05:14:55.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姜文杰首以人父身分慶生　抱愛女複製與秦沛溫馨照：最想多謝爸爸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194071000220700672632540.jpeg/H5YEpar7psUmk3Q8EDle8RgMBXhB0M-TUe8RJ1HvESc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406327/%E8%8C%83%E5%BD%A9%E5%85%92%E6%8A%AB%E9%87%91%E7%B5%B2%E8%A3%99%E8%A4%82%E5%87%BA%E5%AB%81-%E6%94%B6%E8%B5%B7%E5%82%B2%E4%BA%BA%E8%BA%AB%E6%9D%90%E6%BD%98%E5%98%89%E5%BE%B7-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E4%BA%8C%E5%A4%AA%E5%88%B0%E8%B3%80",
     "timestamp": "2026-11-02T22:39:18.888Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古明華餐廳連環執笠再開牛雜店　招攬「愛國藝人」一齊搞遭婉拒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194051862836285440415893.jpeg/XBg2DMSeJdEubpcd8OjTwjHKWVxrKCDhLlUuaS5VLmk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406336/%E5%8F%A4%E6%98%8E%E8%8F%AF%E9%A4%90%E5%BB%B3%E9%80%A3%E7%92%B0%E5%9F%B7%E7%AC%A0%E5%86%8D%E9%96%8B%E7%89%9B%E9%9B%9C%E5%BA%97-%E6%8B%9B%E6%94%AC-%E6%84%9B%E5%9C%8B%E8%97%9D%E4%BA%BA-%E4%B8%80%E9%BD%8A%E6%90%9E%E9%81%AD%E5%A9%89%E6%8B%92",
-    "timestamp": "2026-11-02T22:16:03.885Z",
     "strategy": ".content-card__main"
   }
 ];
