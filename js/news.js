@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T11:24:11.483Z
+// Last updated: 2026-11-03T11:44:57.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "本港第三季食肆總收益275億、漲3.1%　非中式餐館收益增幅最大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050062454178320384537842.jpeg/bym4Cr4oHO0H5eLkBoVkcHQ4ysWd1vi2W3EadVtxGnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406724/%E6%9C%AC%E6%B8%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E9%A3%9F%E8%82%86%E7%B8%BD%E6%94%B6%E7%9B%8A275%E5%84%84-%E6%BC%B23-1-%E9%9D%9E%E4%B8%AD%E5%BC%8F%E9%A4%90%E9%A4%A8%E6%94%B6%E7%9B%8A%E5%A2%9E%E5%B9%85%E6%9C%80%E5%A4%A7",
+    "timestamp": "2026-11-03T11:44:57.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阮浩棕心痛何沛珈玩滑水梯爆喊被批綠茶　代平反兼澄清二人關係",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194283497712259072485296.jpeg/3smtrOJttrYgSscc97ETLwbdgxA8XH5tOKoilziqIpc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406569/%E6%9C%B1%E6%95%8F%E7%80%9A%E5%8F%B0%E6%85%B6%E7%B6%B5%E6%8E%92%E6%84%8F%E5%A4%96%E5%85%A9%E7%B1%B3%E9%AB%98%E5%A2%AE%E5%9C%B0%E5%A0%B1%E5%B9%B3%E5%AE%89-%E5%AD%96%E5%A5%BD%E5%85%84%E5%BC%9F%E6%93%8D%E8%82%8C-%E5%94%94%E5%A5%BD%E4%BF%BE%E4%BD%A2%E5%81%9C",
     "timestamp": "2026-11-03T05:54:21.464Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "施駿興與女童性交囚30月　官拒納重犯機會低　慾念可使人跨越紅線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251003/1050758317107843072291754.jpeg/BKgh9iRl4eKuWD-Lmpjrlb8KjWfWd41wKh48YA8ePGA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406566/%E6%96%BD%E9%A7%BF%E8%88%88%E8%88%87%E5%A5%B3%E7%AB%A5%E6%80%A7%E4%BA%A4%E5%9B%9A30%E6%9C%88-%E5%AE%98%E6%8B%92%E7%B4%8D%E9%87%8D%E7%8A%AF%E6%A9%9F%E6%9C%83%E4%BD%8E-%E6%85%BE%E5%BF%B5%E5%8F%AF%E4%BD%BF%E4%BA%BA%E8%B7%A8%E8%B6%8A%E7%B4%85%E7%B7%9A",
-    "timestamp": "2026-11-03T05:41:30.881Z",
     "strategy": ".content-card__main"
   }
 ];
