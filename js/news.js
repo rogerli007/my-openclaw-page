@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T00:50:40.781Z
+// Last updated: 2026-11-03T01:27:26.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張世華醫生離世｜病人悼腸胃肝臟科仁醫：您是我見過最溫柔的醫生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194219071739006976139840.jpeg/jGG_U8ALO4_onUXZxjduzm5RaS6Mf8AxBC7q9QQu6vU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406421/%E5%BC%B5%E4%B8%96%E8%8F%AF%E9%86%AB%E7%94%9F%E9%9B%A2%E4%B8%96-%E7%97%85%E4%BA%BA%E6%82%BC%E8%85%B8%E8%83%83%E8%82%9D%E8%87%9F%E7%A7%91%E4%BB%81%E9%86%AB-%E6%82%A8%E6%98%AF%E6%88%91%E8%A6%8B%E9%81%8E%E6%9C%80%E6%BA%AB%E6%9F%94%E7%9A%84%E9%86%AB%E7%94%9F",
+    "timestamp": "2026-11-03T01:27:26.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜清真寺外伸手黨湧現為搶錢推落樓梯　街友踢爆擁私樓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193275743509942272821067.jpeg/niEZ0NRRgFsICDA8KSyiwFbR8cAQApiyIF923yBfdt8",
     "url": "https://www.hk01.com/01TV/60405694/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%AA%BD%E5%AA%BD%E5%B9%AB%E5%BF%99%E5%A0%B1%E5%90%8D%E6%A8%A1%E7%89%B9%E8%B3%BD-%E8%B4%8F%E5%BE%97%E6%AF%94%E8%B3%BD",
     "timestamp": "2026-11-02T19:28:14.573Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧媽媽幫忙報名模特賽：贏得比賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193275743509942272821067.jpeg/niEZ0NRRgFsICDA8KSyiwFbR8cAQApiyIF923yBfdt8",
-    "url": "https://www.hk01.com/01TV/60405694/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%AA%BD%E5%AA%BD%E5%B9%AB%E5%BF%99%E5%A0%B1%E5%90%8D%E6%A8%A1%E7%89%B9%E8%B3%BD-%E8%B4%8F%E5%BE%97%E6%AF%94%E8%B3%BD",
-    "timestamp": "2026-11-02T19:18:17.697Z",
     "strategy": ".content-card__main"
   }
 ];
