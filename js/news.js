@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T04:16:41.018Z
+// Last updated: 2026-11-03T04:40:02.100Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金曲獎最佳新人陳嫺靜首度襲港！2027登紅磡TIDES開首個香港個唱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194264992484954112769815.jpeg/ybaeW2A9ZGZR_EkPNgtDIQaVEFaT1HuuGLBZBBiwWQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60406536/%E9%87%91%E6%9B%B2%E7%8D%8E%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E9%99%B3%E5%AB%BA%E9%9D%9C%E9%A6%96%E5%BA%A6%E8%A5%B2%E6%B8%AF-2027%E7%99%BB%E7%B4%85%E7%A3%A1tides%E9%96%8B%E9%A6%96%E5%80%8B%E9%A6%99%E6%B8%AF%E5%80%8B%E5%94%B1",
+    "timestamp": "2026-11-03T04:40:02.100Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飛機中間位兩側扶手歸誰？禮儀專家揭潛規則　3招防經濟艙症候群",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194151827411570688904128.jpeg/039IWWF88OG4tLOAvScD6K2EhCVlYGhz0gS8WNIEvFg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406408/%E8%8B%B1%E5%9C%8B%E6%94%B9%E9%9D%A9%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%A7%BB%E6%B0%91%E9%9C%80%E4%BD%8F10%E5%B9%B4%E6%89%8D%E5%8F%AF%E7%94%B3%E6%B0%B8%E5%B1%85",
     "timestamp": "2026-11-02T21:53:26.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國改革移民政策　大部份移民需住10年才可申永居",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194151827411570688904128.jpeg/039IWWF88OG4tLOAvScD6K2EhCVlYGhz0gS8WNIEvFg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406408/%E8%8B%B1%E5%9C%8B%E6%94%B9%E9%9D%A9%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%A7%BB%E6%B0%91%E9%9C%80%E4%BD%8F10%E5%B9%B4%E6%89%8D%E5%8F%AF%E7%94%B3%E6%B0%B8%E5%B1%85",
-    "timestamp": "2026-11-02T21:42:41.822Z",
     "strategy": ".content-card__main"
   }
 ];
