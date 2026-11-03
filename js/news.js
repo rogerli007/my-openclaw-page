@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T07:40:02.652Z
+// Last updated: 2026-11-03T07:59:22.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "城巴免費｜殘疾人士及同行照顧者11.8免費乘車優惠　口岸線等除外",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2300543/org/38205e7ed6dc05d4ae0c087b98861c2c.JPG/Z4_jH6_VlU85uoZJV42OjgjhQIg9xoDcFlBeozNQXqM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406644/%E5%9F%8E%E5%B7%B4%E5%85%8D%E8%B2%BB-%E6%AE%98%E7%96%BE%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%90%8C%E8%A1%8C%E7%85%A7%E9%A1%A7%E8%80%8511-8%E5%85%8D%E8%B2%BB%E4%B9%98%E8%BB%8A%E5%84%AA%E6%83%A0-%E5%8F%A3%E5%B2%B8%E7%B7%9A%E7%AD%89%E9%99%A4%E5%A4%96",
+    "timestamp": "2026-11-03T07:59:22.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聖誕下午茶推介2026｜打卡HighTea:GODIVA任食/日本海膽/送香檳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194234529926090752791453.jpeg/9fiVa_Uq_1Hhy3W18G7kZl_oX1Hktrfoi3j7xIt4-8Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406466/%E5%92%AA%E9%8C%B6%E6%B3%8A%E8%BB%8A%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E8%A8%98%E8%80%85%E8%A6%96%E5%AF%9F%E5%90%84%E5%8D%80%E5%92%AA%E9%8C%B6-%E9%83%A8%E5%88%86%E6%95%85%E9%9A%9C%E9%83%A8%E4%BB%BD%E5%A6%82%E5%B8%B8%E6%93%8D%E4%BD%9C",
     "timestamp": "2026-11-03T02:40:58.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "每週2罐汽水胰臟癌增87%？專家拆解致癌真相：真正元兇是「它」！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193954197779779584870652.jpeg/13VhgssL-6o5T9Jp_VvHMTbrGmPA2Ks3ln8W0ZZ_FtE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406139/%E6%AF%8F%E9%80%B12%E7%BD%90%E6%B1%BD%E6%B0%B4%E8%83%B0%E8%87%9F%E7%99%8C%E5%A2%9E87-%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E8%87%B4%E7%99%8C%E7%9C%9F%E7%9B%B8-%E7%9C%9F%E6%AD%A3%E5%85%83%E5%85%87%E6%98%AF-%E5%AE%83",
-    "timestamp": "2026-11-03T01:54:00.125Z",
     "strategy": ".content-card__main"
   }
 ];
