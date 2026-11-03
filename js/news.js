@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T01:27:26.387Z
+// Last updated: 2026-11-03T01:43:56.638Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金融峰會| 何立峰對香港提出四大發展建議   北都帶動新產業發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194221611666903040721936.jpeg/sO-rXTrxbS8xaWdGH9EYz52DZ8w5w-LMGn5SGRp-Uhk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406432/%E9%87%91%E8%9E%8D%E5%B3%B0%E6%9C%83-%E4%BD%95%E7%AB%8B%E5%B3%B0%E5%B0%8D%E9%A6%99%E6%B8%AF%E6%8F%90%E5%87%BA%E5%9B%9B%E5%A4%A7%E7%99%BC%E5%B1%95%E5%BB%BA%E8%AD%B0-%E5%8C%97%E9%83%BD%E5%B8%B6%E5%8B%95%E6%96%B0%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-11-03T01:43:56.638Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張世華醫生離世｜病人悼腸胃肝臟科仁醫：您是我見過最溫柔的醫生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193275743509942272821067.jpeg/niEZ0NRRgFsICDA8KSyiwFbR8cAQApiyIF923yBfdt8",
     "url": "https://www.hk01.com/01TV/60405694/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%AA%BD%E5%AA%BD%E5%B9%AB%E5%BF%99%E5%A0%B1%E5%90%8D%E6%A8%A1%E7%89%B9%E8%B3%BD-%E8%B4%8F%E5%BE%97%E6%AF%94%E8%B3%BD",
     "timestamp": "2026-11-02T19:39:45.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧媽媽幫忙報名模特賽：贏得比賽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193275743509942272821067.jpeg/niEZ0NRRgFsICDA8KSyiwFbR8cAQApiyIF923yBfdt8",
-    "url": "https://www.hk01.com/01TV/60405694/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%AA%BD%E5%AA%BD%E5%B9%AB%E5%BF%99%E5%A0%B1%E5%90%8D%E6%A8%A1%E7%89%B9%E8%B3%BD-%E8%B4%8F%E5%BE%97%E6%AF%94%E8%B3%BD",
-    "timestamp": "2026-11-02T19:28:14.573Z",
     "strategy": ".content-card__main"
   }
 ];
