@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T07:59:22.724Z
+// Last updated: 2026-11-03T08:19:35.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日女偶像突腦中風險死！重度癱瘓遭斷言恢復無望　今逆轉變治療師",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194305363545952256281593.jpeg/b49VGH6-LYwJIlP8ZMPYeGFvdpge-EJ7IyOf_yMjn_8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60406596/%E6%97%A5%E5%A5%B3%E5%81%B6%E5%83%8F%E7%AA%81%E8%85%A6%E4%B8%AD%E9%A2%A8%E9%9A%AA%E6%AD%BB-%E9%87%8D%E5%BA%A6%E7%99%B1%E7%98%93%E9%81%AD%E6%96%B7%E8%A8%80%E6%81%A2%E5%BE%A9%E7%84%A1%E6%9C%9B-%E4%BB%8A%E9%80%86%E8%BD%89%E8%AE%8A%E6%B2%BB%E7%99%82%E5%B8%AB",
+    "timestamp": "2026-11-03T08:19:35.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "城巴免費｜殘疾人士及同行照顧者11.8免費乘車優惠　口岸線等除外",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194238171315965952925368.jpeg/4sBfxa4uSqsUwwVz4qQca-Io7ZVLzlS_1p-hcdafoXE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60406474/10%E6%9C%88%E5%9C%B0%E7%94%A2%E4%BB%A3%E7%90%86%E4%BA%BA%E6%95%B8%E7%BA%8C%E5%8D%87-%E6%9C%80%E6%96%B0%E5%A0%B138391%E4%BA%BA-%E6%AF%8F6-6%E5%90%8D%E4%BB%A3%E7%90%86%E7%88%AD%E4%B8%80%E5%BC%B5%E5%96%AE",
     "timestamp": "2026-11-03T02:53:55.431Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "咪錶泊車系統故障｜記者視察各區咪錶　部分故障部份如常操作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194234529926090752791453.jpeg/9fiVa_Uq_1Hhy3W18G7kZl_oX1Hktrfoi3j7xIt4-8Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406466/%E5%92%AA%E9%8C%B6%E6%B3%8A%E8%BB%8A%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E8%A8%98%E8%80%85%E8%A6%96%E5%AF%9F%E5%90%84%E5%8D%80%E5%92%AA%E9%8C%B6-%E9%83%A8%E5%88%86%E6%95%85%E9%9A%9C%E9%83%A8%E4%BB%BD%E5%A6%82%E5%B8%B8%E6%93%8D%E4%BD%9C",
-    "timestamp": "2026-11-03T02:40:58.366Z",
     "strategy": ".content-card__main"
   }
 ];
