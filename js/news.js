@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T09:39:57.266Z
+// Last updated: 2026-11-03T10:27:31.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "足球︱陳晉一左腳蹠骨骨折需動刀　3個月內二度重創料休戰逾10周",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194325224913375232154379.jpeg/2djkMMw33Pp9c8s9svxXttZvdIIy9GAAckErH3JBKx8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406640/%E8%B6%B3%E7%90%83-%E9%99%B3%E6%99%89%E4%B8%80%E5%B7%A6%E8%85%B3%E8%B9%A0%E9%AA%A8%E9%AA%A8%E6%8A%98%E9%9C%80%E5%8B%95%E5%88%80-3%E5%80%8B%E6%9C%88%E5%85%A7%E4%BA%8C%E5%BA%A6%E9%87%8D%E5%89%B5%E6%96%99%E4%BC%91%E6%88%B0%E9%80%BE10%E5%91%A8",
+    "timestamp": "2026-11-03T10:27:31.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大熊貓花花吐白沫舔腳疑現刻板行為　成都基地揭換食過渡期真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194264992484954112769815.jpeg/ybaeW2A9ZGZR_EkPNgtDIQaVEFaT1HuuGLBZBBiwWQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60406536/%E9%87%91%E6%9B%B2%E7%8D%8E%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E9%99%B3%E5%AB%BA%E9%9D%9C%E9%A6%96%E5%BA%A6%E8%A5%B2%E6%B8%AF-2027%E7%99%BB%E7%B4%85%E7%A3%A1tides%E9%96%8B%E9%A6%96%E5%80%8B%E9%A6%99%E6%B8%AF%E5%80%8B%E5%94%B1",
     "timestamp": "2026-11-03T04:40:02.100Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飛機中間位兩側扶手歸誰？禮儀專家揭潛規則　3招防經濟艙症候群",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194237626350047232591437.jpeg/QHEQxVSb1OCEou53bHcrFpmlUYmrGifMpYAS76WAEu8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60406436/%E9%A3%9B%E6%A9%9F%E4%B8%AD%E9%96%93%E4%BD%8D%E5%85%A9%E5%81%B4%E6%89%B6%E6%89%8B%E6%AD%B8%E8%AA%B0-%E7%A6%AE%E5%84%80%E5%B0%88%E5%AE%B6%E6%8F%AD%E6%BD%9B%E8%A6%8F%E5%89%87-3%E6%8B%9B%E9%98%B2%E7%B6%93%E6%BF%9F%E8%89%99%E7%97%87%E5%80%99%E7%BE%A4",
-    "timestamp": "2026-11-03T04:16:41.018Z",
     "strategy": ".content-card__main"
   }
 ];
