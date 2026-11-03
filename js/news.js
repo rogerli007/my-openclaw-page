@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T07:18:42.306Z
+// Last updated: 2026-11-03T07:25:11.942Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聖誕下午茶推介2026｜打卡HighTea:GODIVA任食/日本海膽/送香檳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194305906779623424791820.jpeg/CNWil26uqbbrTK4FOOi6f1CwwhEGBhtRCsHhKArB4Sg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60310831/%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%8E%A8%E4%BB%8B2026-%E7%89%B9%E8%89%B2hightea%E6%8E%A8%E8%96%A6-%E6%B5%B7%E6%99%AF%E6%89%93%E5%8D%A1-%E7%BE%8E%E5%A6%9D%E7%A6%AE%E5%93%81-%E8%97%9D%E8%A1%93%E8%81%AF%E4%B9%98",
+    "timestamp": "2026-11-03T07:25:11.942Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施駿興與女童性交囚2年半　勢失區議員資格　政府：9月起已停酬津",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194221611666903040721936.jpeg/sO-rXTrxbS8xaWdGH9EYz52DZ8w5w-LMGn5SGRp-Uhk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406432/%E9%87%91%E8%9E%8D%E5%B3%B0%E6%9C%83-%E4%BD%95%E7%AB%8B%E5%B3%B0%E5%B0%8D%E9%A6%99%E6%B8%AF%E6%8F%90%E5%87%BA%E5%9B%9B%E5%A4%A7%E7%99%BC%E5%B1%95%E5%BB%BA%E8%AD%B0-%E5%8C%97%E9%83%BD%E5%B8%B6%E5%8B%95%E6%96%B0%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
     "timestamp": "2026-11-03T01:43:56.638Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張世華醫生離世｜病人悼腸胃肝臟科仁醫：您是我見過最溫柔的醫生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194219071739006976139840.jpeg/jGG_U8ALO4_onUXZxjduzm5RaS6Mf8AxBC7q9QQu6vU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406421/%E5%BC%B5%E4%B8%96%E8%8F%AF%E9%86%AB%E7%94%9F%E9%9B%A2%E4%B8%96-%E7%97%85%E4%BA%BA%E6%82%BC%E8%85%B8%E8%83%83%E8%82%9D%E8%87%9F%E7%A7%91%E4%BB%81%E9%86%AB-%E6%82%A8%E6%98%AF%E6%88%91%E8%A6%8B%E9%81%8E%E6%9C%80%E6%BA%AB%E6%9F%94%E7%9A%84%E9%86%AB%E7%94%9F",
-    "timestamp": "2026-11-03T01:27:26.387Z",
     "strategy": ".content-card__main"
   }
 ];
