@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T03:27:00.627Z
+// Last updated: 2026-11-03T03:39:57.491Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Ella陳嘉樺演唱會2027｜澳門連開2場門票$480起+11.17開賣+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193984798700343296874216.jpeg/rY1WNDwXpQyf6c7eTkNkX6woiMvRpIA0QCV01kAldNY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60406304/ella%E9%99%B3%E5%98%89%E6%A8%BA%E6%BC%94%E5%94%B1%E6%9C%832027-%E6%BE%B3%E9%96%80%E9%80%A3%E9%96%8B2%E5%A0%B4%E9%96%80%E7%A5%A8-480%E8%B5%B7-11-17%E9%96%8B%E8%B3%A3-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-11-03T03:39:57.491Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紐時揭特朗普演說變冗長難理解暴增2.5倍　遭質疑「認知退化」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194127890493476864713568.jpeg/uEchzGqXVrOe7rsYd3qgOZrBfMUvhPIyJf2j8CX9o_A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406401/%E7%8E%8B%E6%AF%85%E6%99%A4%E4%BC%8A%E6%9C%97%E5%9C%8B%E5%AE%89%E5%AE%98%E5%93%A1-%E7%A8%B1%E5%B0%8D%E8%A9%B1%E8%AB%87%E5%88%A4%E6%89%8D%E6%98%AF%E8%A7%A3%E6%B1%BA%E6%88%B0%E4%BA%8B%E4%B9%8B%E9%81%93",
     "timestamp": "2026-11-02T21:14:13.151Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅晤伊朗國安官員　稱對話談判才是解決戰事之道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194127890493476864713568.jpeg/uEchzGqXVrOe7rsYd3qgOZrBfMUvhPIyJf2j8CX9o_A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406401/%E7%8E%8B%E6%AF%85%E6%99%A4%E4%BC%8A%E6%9C%97%E5%9C%8B%E5%AE%89%E5%AE%98%E5%93%A1-%E7%A8%B1%E5%B0%8D%E8%A9%B1%E8%AB%87%E5%88%A4%E6%89%8D%E6%98%AF%E8%A7%A3%E6%B1%BA%E6%88%B0%E4%BA%8B%E4%B9%8B%E9%81%93",
-    "timestamp": "2026-11-02T20:59:13.783Z",
     "strategy": ".content-card__main"
   }
 ];
