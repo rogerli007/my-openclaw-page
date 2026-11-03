@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T12:38:19.782Z
+// Last updated: 2026-11-03T12:56:47.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林愷鈴父「上古許光漢」林煒翻紅　陳年咀戲洗版終露面回應復出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194364401147187200364017.jpeg/dMsZM1UivgRNCh9sEkeQqNL7m_1Ov03AUSSczlEknM4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406756/%E6%9E%97%E6%84%B7%E9%88%B4%E7%88%B6-%E4%B8%8A%E5%8F%A4%E8%A8%B1%E5%85%89%E6%BC%A2-%E6%9E%97%E7%85%92%E7%BF%BB%E7%B4%85-%E9%99%B3%E5%B9%B4%E5%92%80%E6%88%B2%E6%B4%97%E7%89%88%E7%B5%82%E9%9C%B2%E9%9D%A2%E5%9B%9E%E6%87%89%E5%BE%A9%E5%87%BA",
+    "timestamp": "2026-11-03T12:56:47.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美記者住中國14年破除偏見　評扶貧攻堅：是本世紀最了不起的事！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260922/1179140075334668288972851.jpeg/OQ9Rh5S0HQtlcrRS22dYSghd8n_SwOBD6Lwu6ei8Luk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406594/%E6%96%BD%E9%A7%BF%E8%88%88%E8%88%87%E5%A5%B3%E7%AB%A5%E6%80%A7%E4%BA%A4%E5%9B%9A2%E5%B9%B4%E5%8D%8A-%E5%8B%A2%E5%A4%B1%E5%8D%80%E8%AD%B0%E5%93%A1%E8%B3%87%E6%A0%BC-%E6%94%BF%E5%BA%9C-9%E6%9C%88%E8%B5%B7%E5%B7%B2%E5%81%9C%E9%85%AC%E6%B4%A5",
     "timestamp": "2026-11-03T07:18:42.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京中野百老匯229萬元AP名錶被盜　小偷數天後寄回附道歉信",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194283216203157504529730.png/IBOmEERdRtfbh7za0SYwxWyQEglC-0ZONH_w5zR_8Oc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406574/%E6%9D%B1%E4%BA%AC%E4%B8%AD%E9%87%8E%E7%99%BE%E8%80%81%E5%8C%AF229%E8%90%AC%E5%85%83ap%E5%90%8D%E9%8C%B6%E8%A2%AB%E7%9B%9C-%E5%B0%8F%E5%81%B7%E6%95%B8%E5%A4%A9%E5%BE%8C%E5%AF%84%E5%9B%9E%E9%99%84%E9%81%93%E6%AD%89%E4%BF%A1",
-    "timestamp": "2026-11-03T06:54:14.759Z",
     "strategy": ".content-card__main"
   }
 ];
