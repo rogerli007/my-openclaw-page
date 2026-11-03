@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T15:26:35.464Z
+// Last updated: 2026-11-03T15:55:11.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青奧2026｜文薈喬100蛙後上摘銅　何詩蓓後首泳手登頒獎台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194434849725747200498316.jpeg/Qn467Xm114ErcsnezzRAV_ettxH8BUEQ1VEOmtVRDpo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406847/%E9%9D%92%E5%A5%A72026-%E6%96%87%E8%96%88%E5%96%AC100%E8%9B%99%E5%BE%8C%E4%B8%8A%E6%91%98%E9%8A%85-%E4%BD%95%E8%A9%A9%E8%93%93%E5%BE%8C%E9%A6%96%E6%B3%B3%E6%89%8B%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0",
+    "timestamp": "2026-11-03T15:55:11.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林愷鈴親證擁皇族血統　23歲胞弟引關注身高190cm讀法律文武雙全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194339388121681920957026.jpeg/l94E6gT4N-Mzwe_hN8LvZhfqzab6J9l8cRzs13Ec7Nc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60406717/%E5%8F%97%E8%B3%84%E9%80%BE6750%E8%90%AC-%E6%9D%B1%E6%96%B9%E8%88%AA%E7%A9%BA%E9%9B%86%E5%9C%98%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%B7%E5%8A%89%E7%B4%B9%E5%8B%87%E5%8F%97%E8%B3%84%E7%BD%AA%E6%88%90%E5%88%A4%E5%9B%9A14%E5%B9%B4",
     "timestamp": "2026-11-03T09:25:52.369Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度貧困率降至2.6%？世行報告惹爭議：靠兩塊大餅算脫貧｜點經",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2881108/org/8dee0dc9463a8226d8ef6e7c3eac4de8.jpg/AsNCHATOldHV0hA8zIBThOnWJcWkVp2BecTVUXnE1VE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60406584/%E5%8D%B0%E5%BA%A6%E8%B2%A7%E5%9B%B0%E7%8E%87%E9%99%8D%E8%87%B32-6-%E4%B8%96%E8%A1%8C%E5%A0%B1%E5%91%8A%E6%83%B9%E7%88%AD%E8%AD%B0-%E9%9D%A0%E5%85%A9%E5%A1%8A%E5%A4%A7%E9%A4%85%E7%AE%97%E8%84%AB%E8%B2%A7-%E9%BB%9E%E7%B6%93",
-    "timestamp": "2026-11-03T09:15:53.830Z",
     "strategy": ".content-card__main"
   }
 ];
