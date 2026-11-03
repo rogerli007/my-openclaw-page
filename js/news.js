@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T03:39:57.491Z
+// Last updated: 2026-11-03T03:53:27.165Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "10歲女童竟高182cm！進入｢猛長期｣每月高1cm　父親揭秘長高3關鍵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194247395248967680806315.jpeg/0EhWuY4KV-9zujnCiijhcdQqaJ15T67-CuYIPArmCDw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406485/10%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%AB%9F%E9%AB%98182cm-%E9%80%B2%E5%85%A5-%E7%8C%9B%E9%95%B7%E6%9C%9F-%E6%AF%8F%E6%9C%88%E9%AB%981cm-%E7%88%B6%E8%A6%AA%E6%8F%AD%E7%A7%98%E9%95%B7%E9%AB%983%E9%97%9C%E9%8D%B5",
+    "timestamp": "2026-11-03T03:53:27.165Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Ella陳嘉樺演唱會2027｜澳門連開2場門票$480起+11.17開賣+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194151005206351872049731.jpeg/XFzc-0QqgCG1LB1zMZnAB82W3-LicYbz_Nrgg_za4IM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406409/%E8%91%B5%E6%B6%8C23%E6%AD%B2%E7%94%B7%E9%81%AD%E8%AD%A6%E6%88%AA%E6%9F%A5-%E6%AA%A2%E6%87%B7%E7%96%91%E6%B0%AF%E8%83%BA%E9%85%AE-%E5%8F%AF%E5%8D%A1%E5%9B%A0%E5%8F%8A%E7%85%99%E5%BD%88-%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-02T21:24:15.087Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅晤伊朗國安官員　稱對話談判才是解決戰事之道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194127890493476864713568.jpeg/uEchzGqXVrOe7rsYd3qgOZrBfMUvhPIyJf2j8CX9o_A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406401/%E7%8E%8B%E6%AF%85%E6%99%A4%E4%BC%8A%E6%9C%97%E5%9C%8B%E5%AE%89%E5%AE%98%E5%93%A1-%E7%A8%B1%E5%B0%8D%E8%A9%B1%E8%AB%87%E5%88%A4%E6%89%8D%E6%98%AF%E8%A7%A3%E6%B1%BA%E6%88%B0%E4%BA%8B%E4%B9%8B%E9%81%93",
-    "timestamp": "2026-11-02T21:14:13.151Z",
     "strategy": ".content-card__main"
   }
 ];
