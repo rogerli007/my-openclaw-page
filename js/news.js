@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T08:19:35.885Z
+// Last updated: 2026-11-03T08:45:54.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "圍標隱蔽難查　議員倡學公屋打濫「篤灰有獎」　助搜情報",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176510697522335744503716.jpeg/iMW-dyYbPdvbjm3V5vOlRuzjT5avX_8GBHipcCF4qXA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406667/%E5%9C%8D%E6%A8%99%E9%9A%B1%E8%94%BD%E9%9B%A3%E6%9F%A5-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%AD%B8%E5%85%AC%E5%B1%8B%E6%89%93%E6%BF%AB-%E7%AF%A4%E7%81%B0%E6%9C%89%E7%8D%8E-%E5%8A%A9%E6%90%9C%E6%83%85%E5%A0%B1",
+    "timestamp": "2026-11-03T08:45:54.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日女偶像突腦中風險死！重度癱瘓遭斷言恢復無望　今逆轉變治療師",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194243899107840000548172.jpeg/szA642myXzXI8YSywR_yOnDufZnXm2o67ehzve3oc70?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406487/%E5%8A%8D%E6%93%8Au23%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E5%BC%B7%E5%8B%A2%E8%B1%AA%E5%A5%AA8%E9%87%91-%E7%94%B7%E8%8A%B1%E5%A5%B3%E9%87%8D%E5%9C%98%E9%AB%94%E9%BD%8A%E7%A8%B1%E9%9C%B8%E8%AC%9D%E5%B9%95",
     "timestamp": "2026-11-03T03:22:06.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "10月地產代理人數續升　最新報38391人　每6.6名代理爭一張單",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194238171315965952925368.jpeg/4sBfxa4uSqsUwwVz4qQca-Io7ZVLzlS_1p-hcdafoXE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60406474/10%E6%9C%88%E5%9C%B0%E7%94%A2%E4%BB%A3%E7%90%86%E4%BA%BA%E6%95%B8%E7%BA%8C%E5%8D%87-%E6%9C%80%E6%96%B0%E5%A0%B138391%E4%BA%BA-%E6%AF%8F6-6%E5%90%8D%E4%BB%A3%E7%90%86%E7%88%AD%E4%B8%80%E5%BC%B5%E5%96%AE",
-    "timestamp": "2026-11-03T02:53:55.431Z",
     "strategy": ".content-card__main"
   }
 ];
