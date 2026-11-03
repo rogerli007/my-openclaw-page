@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T20:14:55.359Z
+// Last updated: 2026-11-03T20:23:45.117Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透：SK海力士紐約投資計劃受阻　因美對華設備出口許可尚未審批",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1156022067376689152478512.jpeg/YQQtWf0s-IZd_3bvE56gWv3sPsI4ROMp_dyyrP3csqw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406863/%E8%B7%AF%E9%80%8F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%B4%90%E7%B4%84%E6%8A%95%E8%B3%87%E8%A8%88%E5%8A%83%E5%8F%97%E9%98%BB-%E5%9B%A0%E7%BE%8E%E5%B0%8D%E8%8F%AF%E8%A8%AD%E5%82%99%E5%87%BA%E5%8F%A3%E8%A8%B1%E5%8F%AF%E5%B0%9A%E6%9C%AA%E5%AF%A9%E6%89%B9",
+    "timestamp": "2026-11-03T20:23:45.117Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：SK海力士紐約投資計劃受阻　因美對華設備出口許可尚未審批",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194414719956422656795643.png/pEXBExVK23Ajeglqv6FQmgcbkADK_uxZ6CdxBugncQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406829/%E6%9E%97%E6%84%B7%E9%88%B4%E8%A6%AA%E8%AD%89%E6%93%81%E7%9A%87%E6%97%8F%E8%A1%80%E7%B5%B1-23%E6%AD%B2%E8%83%9E%E5%BC%9F%E5%BC%95%E9%97%9C%E6%B3%A8%E8%BA%AB%E9%AB%98190cm%E8%AE%80%E6%B3%95%E5%BE%8B%E6%96%87%E6%AD%A6%E9%9B%99%E5%85%A8",
     "timestamp": "2026-11-03T15:18:04.776Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蛇姬林采緹揭私密照外流內幕　18歲為生活拍攝　怕受困被迫就範",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193979469061165056217463.png/BYIYFqLZ1kSpEYu3HJd6-PTd2sskP6bv-iNHDfojRw0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60406295/%E8%9B%87%E5%A7%AC%E6%9E%97%E9%87%87%E7%B7%B9%E6%8F%AD%E7%A7%81%E5%AF%86%E7%85%A7%E5%A4%96%E6%B5%81%E5%85%A7%E5%B9%95-18%E6%AD%B2%E7%82%BA%E7%94%9F%E6%B4%BB%E6%8B%8D%E6%94%9D-%E6%80%95%E5%8F%97%E5%9B%B0%E8%A2%AB%E8%BF%AB%E5%B0%B1%E7%AF%84",
-    "timestamp": "2026-11-03T14:40:06.906Z",
     "strategy": ".content-card__main"
   }
 ];
