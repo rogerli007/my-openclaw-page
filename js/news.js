@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T18:26:31.815Z
+// Last updated: 2026-11-03T18:40:13.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲至少7班航機接獲炸彈恐嚇　降落後均無發現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194467799724986368695308.jpeg/6ZXbE6qqpKLAYa2KCuKa9YFEiG5tQZlJuwUzTbsFM00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406855/%E6%AD%90%E6%B4%B2%E8%87%B3%E5%B0%917%E7%8F%AD%E8%88%AA%E6%A9%9F%E6%8E%A5%E7%8D%B2%E7%82%B8%E5%BD%88%E6%81%90%E5%9A%87-%E9%99%8D%E8%90%BD%E5%BE%8C%E5%9D%87%E7%84%A1%E7%99%BC%E7%8F%BE",
+    "timestamp": "2026-11-03T18:40:13.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲至少7班航機接獲炸彈恐嚇　降落後均無發現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194364401147187200364017.jpeg/dMsZM1UivgRNCh9sEkeQqNL7m_1Ov03AUSSczlEknM4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406756/%E6%9E%97%E6%84%B7%E9%88%B4%E7%88%B6-%E4%B8%8A%E5%8F%A4%E8%A8%B1%E5%85%89%E6%BC%A2-%E6%9E%97%E7%85%92%E7%BF%BB%E7%B4%85-%E9%99%B3%E5%B9%B4%E5%92%80%E6%88%B2%E6%B4%97%E7%89%88%E7%B5%82%E9%9C%B2%E9%9D%A2%E5%9B%9E%E6%87%89%E5%BE%A9%E5%87%BA",
     "timestamp": "2026-11-03T12:56:47.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美記者住中國14年破除偏見　評扶貧攻堅：是本世紀最了不起的事！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194303758771687424369710.jpeg/qfb3Jhmc83sORRjycniOChE6ymowR-ELYpb3SWKW90k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60406614/%E7%BE%8E%E8%A8%98%E8%80%85%E4%BD%8F%E4%B8%AD%E5%9C%8B14%E5%B9%B4%E7%A0%B4%E9%99%A4%E5%81%8F%E8%A6%8B-%E8%A9%95%E6%89%B6%E8%B2%A7%E6%94%BB%E5%A0%85-%E6%98%AF%E6%9C%AC%E4%B8%96%E7%B4%80%E6%9C%80%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%BA%8B",
-    "timestamp": "2026-11-03T12:38:19.782Z",
     "strategy": ".content-card__main"
   }
 ];
