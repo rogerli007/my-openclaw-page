@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T22:39:36.597Z
+// Last updated: 2026-11-03T22:53:30.223Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梵蒂岡：教宗健康良好　本周如期出訪南美洲三國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194513996447748096381075.jpeg/QClPp6tWavb_LhlBThmhhwHy0zD6HXyFUaTcF1Gk3Bc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406869/%E6%A2%B5%E8%92%82%E5%B2%A1-%E6%95%99%E5%AE%97%E5%81%A5%E5%BA%B7%E8%89%AF%E5%A5%BD-%E6%9C%AC%E5%91%A8%E5%A6%82%E6%9C%9F%E5%87%BA%E8%A8%AA%E5%8D%97%E7%BE%8E%E6%B4%B2%E4%B8%89%E5%9C%8B",
+    "timestamp": "2026-11-03T22:53:30.223Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB女神賴彥妤撞傷下巴破相縫足8針　頸部上衣染血跡入院極嚇人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194458187097444352467830.jpeg/XMRCxWVB0WqzUrNP5LK197jhn2xDPRQu5TVkq-U1ZKs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406853/83%E6%AD%B2%E5%89%8D%E5%8F%B0%E8%A6%96%E4%B8%BB%E6%92%AD%E9%A1%A7%E5%AE%89%E7%94%9F%E7%97%85%E9%80%9D-%E6%84%9B%E5%A6%BB%E8%83%A1%E9%8C%A6%E6%82%B2%E7%97%9B%E8%AD%89%E5%AF%A6%E5%89%8D%E4%B8%80%E5%A4%A9%E4%B8%80%E8%B5%B7%E6%AC%A3%E8%B3%9E%E8%B1%AB%E5%8A%87",
     "timestamp": "2026-11-03T17:53:20.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "83歲前台視主播顧安生病逝　愛妻胡錦悲痛證實前一天一起欣賞豫劇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194458187097444352467830.jpeg/XMRCxWVB0WqzUrNP5LK197jhn2xDPRQu5TVkq-U1ZKs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406853/83%E6%AD%B2%E5%89%8D%E5%8F%B0%E8%A6%96%E4%B8%BB%E6%92%AD%E9%A1%A7%E5%AE%89%E7%94%9F%E7%97%85%E9%80%9D-%E6%84%9B%E5%A6%BB%E8%83%A1%E9%8C%A6%E6%82%B2%E7%97%9B%E8%AD%89%E5%AF%A6%E5%89%8D%E4%B8%80%E5%A4%A9%E4%B8%80%E8%B5%B7%E6%AC%A3%E8%B3%9E%E8%B1%AB%E5%8A%87",
-    "timestamp": "2026-11-03T17:45:00.977Z",
     "strategy": ".content-card__main"
   }
 ];
