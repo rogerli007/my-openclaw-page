@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T05:29:39.728Z
+// Last updated: 2026-11-03T05:41:30.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "施駿興與女童性交囚30月　官拒納重犯機會低　慾念可使人跨越紅線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251003/1050758317107843072291754.jpeg/BKgh9iRl4eKuWD-Lmpjrlb8KjWfWd41wKh48YA8ePGA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406566/%E6%96%BD%E9%A7%BF%E8%88%88%E8%88%87%E5%A5%B3%E7%AB%A5%E6%80%A7%E4%BA%A4%E5%9B%9A30%E6%9C%88-%E5%AE%98%E6%8B%92%E7%B4%8D%E9%87%8D%E7%8A%AF%E6%A9%9F%E6%9C%83%E4%BD%8E-%E6%85%BE%E5%BF%B5%E5%8F%AF%E4%BD%BF%E4%BA%BA%E8%B7%A8%E8%B6%8A%E7%B4%85%E7%B7%9A",
+    "timestamp": "2026-11-03T05:41:30.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "咪錶故障4小時　營辦商香港電訊致歉　沒提原因稱將盡快提交報告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192526013037285376095683.png/a1ylsKZxi4yCJ_-T69QvtUzbqJft8si3kaHroZGh66E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403945/%E7%BE%8E%E7%94%B7%E7%AB%A5%E9%81%87%E6%BA%BA%E8%A2%AB%E8%AA%A4%E5%88%A4%E4%B8%8D%E6%B2%BB-%E6%94%BE%E6%AE%AE%E6%88%BF5%E5%B0%8F%E6%99%82%E8%87%B4%E6%B0%B8%E4%B9%85%E8%85%A6%E6%90%8D%E5%82%B7-%E5%AE%B6%E5%B1%AC%E6%80%92%E5%91%8A%E9%86%AB%E7%94%9F",
     "timestamp": "2026-11-02T23:24:12.095Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乒總教練涉粗口辱罵　辯稱兜巴星屬德育訓話　學生控總會處理不當",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194025501887303680902548.jpeg/FqpuBIXEjnvuiUNqXauw2p4J0Nr2qNZopOM0nqTjNJ4",
-    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60402798/%E4%B9%92%E7%B8%BD%E6%95%99%E7%B7%B4%E6%B6%89%E7%B2%97%E5%8F%A3%E8%BE%B1%E7%BD%B5-%E8%BE%AF%E7%A8%B1%E5%85%9C%E5%B7%B4%E6%98%9F%E5%B1%AC%E5%BE%B7%E8%82%B2%E8%A8%93%E8%A9%B1-%E5%AD%B8%E7%94%9F%E6%8E%A7%E7%B8%BD%E6%9C%83%E8%99%95%E7%90%86%E4%B8%8D%E7%95%B6",
-    "timestamp": "2026-11-02T23:13:39.452Z",
     "strategy": ".content-card__main"
   }
 ];
