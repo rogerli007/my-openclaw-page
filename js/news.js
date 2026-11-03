@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T21:29:11.641Z
+// Last updated: 2026-11-03T21:39:32.682Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍灣麗晶花園單位失火　3人送院150人疏散　主人攜寵物齊逃生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
+    "timestamp": "2026-11-03T21:39:32.682Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍灣麗晶花園單位失火　3人送院150人疏散　主人攜寵物齊逃生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194368010152841216457023.jpeg/fYkp7lvooocll8pPwAW8nmbVSs2TKU_6WY0yTlmNMk4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406787/%E5%A7%9C%E6%BF%A4-%E9%99%B3%E5%8D%93%E6%BE%B3%E9%96%80%E9%96%8B%E5%80%92%E6%95%B8%E6%96%B0%E5%B9%B4%E9%A8%B7-%E5%86%8D%E6%AC%A1%E7%BC%BA%E5%B8%AD%E5%8F%B1%E5%90%92%E9%A0%92%E7%8D%8E%E7%A6%AE%E9%8F%A1%E7%B2%89%E6%93%94%E5%BF%83%E5%86%87%E7%8D%8E%E6%8B%8E",
     "timestamp": "2026-11-03T16:40:09.095Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜高海寧誘吳卓羲床戰　再屈強姦留「重要物證」極狗血",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194434281435303936150472.jpeg/ddnqSRlOMxcEzn3MqN6VmykD1mfu3OMheLl0Qni5dEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406844/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%AA%98%E5%90%B3%E5%8D%93%E7%BE%B2%E5%BA%8A%E6%88%B0-%E5%86%8D%E5%B1%88%E5%BC%B7%E5%A7%A6%E7%95%99-%E9%87%8D%E8%A6%81%E7%89%A9%E8%AD%89-%E6%A5%B5%E7%8B%97%E8%A1%80",
-    "timestamp": "2026-11-03T16:26:13.173Z",
     "strategy": ".content-card__main"
   }
 ];
