@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T20:39:50.228Z
+// Last updated: 2026-11-03T20:53:38.314Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜紐約州威徹斯特縣投票機故障　25萬張選票無法掃描",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194494730285617152027539.jpeg/hRq9v7CfkOlbRwb5yiUmwxJj0mXRq7Ho70ol7u9KJe4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406868/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%B4%90%E7%B4%84%E5%B7%9E%E5%A8%81%E5%BE%B9%E6%96%AF%E7%89%B9%E7%B8%A3%E6%8A%95%E7%A5%A8%E6%A9%9F%E6%95%85%E9%9A%9C-25%E8%90%AC%E5%BC%B5%E9%81%B8%E7%A5%A8%E7%84%A1%E6%B3%95%E6%8E%83%E6%8F%8F",
+    "timestamp": "2026-11-03T20:53:38.314Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：美伊就達成協議仍有大段距離　雷扎伊：美須明確回應七條件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194434849725747200498316.jpeg/Qn467Xm114ErcsnezzRAV_ettxH8BUEQ1VEOmtVRDpo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406847/%E9%9D%92%E5%A5%A72026-%E6%96%87%E8%96%88%E5%96%AC100%E8%9B%99%E5%BE%8C%E4%B8%8A%E6%91%98%E9%8A%85-%E4%BD%95%E8%A9%A9%E8%93%93%E5%BE%8C%E9%A6%96%E6%B3%B3%E6%89%8B%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0",
     "timestamp": "2026-11-03T15:55:11.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林愷鈴親證擁皇族血統　23歲胞弟引關注身高190cm讀法律文武雙全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194414719956422656795643.png/pEXBExVK23Ajeglqv6FQmgcbkADK_uxZ6CdxBugncQY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406829/%E6%9E%97%E6%84%B7%E9%88%B4%E8%A6%AA%E8%AD%89%E6%93%81%E7%9A%87%E6%97%8F%E8%A1%80%E7%B5%B1-23%E6%AD%B2%E8%83%9E%E5%BC%9F%E5%BC%95%E9%97%9C%E6%B3%A8%E8%BA%AB%E9%AB%98190cm%E8%AE%80%E6%B3%95%E5%BE%8B%E6%96%87%E6%AD%A6%E9%9B%99%E5%85%A8",
-    "timestamp": "2026-11-03T15:26:35.464Z",
     "strategy": ".content-card__main"
   }
 ];
