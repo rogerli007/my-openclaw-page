@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T13:24:31.247Z
+// Last updated: 2026-11-03T13:53:48.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌街頭無戴頭盔駕電動單車　外賣員遭警斷正涉5罪被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194402412912185344810745.jpeg/EFpNCDVC663i0nzk-ias9c30758j00Yj_w4OsP8ODrA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406824/%E8%91%B5%E6%B6%8C%E8%A1%97%E9%A0%AD%E7%84%A1%E6%88%B4%E9%A0%AD%E7%9B%94%E9%A7%95%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A-%E5%A4%96%E8%B3%A3%E5%93%A1%E9%81%AD%E8%AD%A6%E6%96%B7%E6%AD%A3%E6%B6%895%E7%BD%AA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-03T13:53:48.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTA香港賽︱伊雅娜首圈旗開得勝　菲律賓甜心全場6度成功「破發」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2300543/org/38205e7ed6dc05d4ae0c087b98861c2c.JPG/Z4_jH6_VlU85uoZJV42OjgjhQIg9xoDcFlBeozNQXqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406644/%E5%9F%8E%E5%B7%B4%E5%85%8D%E8%B2%BB-%E6%AE%98%E7%96%BE%E4%BA%BA%E5%A3%AB%E5%8F%8A%E5%90%8C%E8%A1%8C%E7%85%A7%E9%A1%A7%E8%80%8511-8%E5%85%8D%E8%B2%BB%E4%B9%98%E8%BB%8A%E5%84%AA%E6%83%A0-%E5%8F%A3%E5%B2%B8%E7%B7%9A%E7%AD%89%E9%99%A4%E5%A4%96",
     "timestamp": "2026-11-03T07:59:22.724Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聖誕下午茶推介2026｜打卡HighTea:GODIVA任食/日本海膽/送香檳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194305906779623424791820.jpeg/CNWil26uqbbrTK4FOOi6f1CwwhEGBhtRCsHhKArB4Sg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60310831/%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%8E%A8%E4%BB%8B2026-%E7%89%B9%E8%89%B2hightea%E6%8E%A8%E8%96%A6-%E6%B5%B7%E6%99%AF%E6%89%93%E5%8D%A1-%E7%BE%8E%E5%A6%9D%E7%A6%AE%E5%93%81-%E8%97%9D%E8%A1%93%E8%81%AF%E4%B9%98",
-    "timestamp": "2026-11-03T07:40:02.652Z",
     "strategy": ".content-card__main"
   }
 ];
