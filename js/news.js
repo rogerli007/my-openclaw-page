@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T19:39:44.194Z
+// Last updated: 2026-11-03T19:53:40.053Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧揭被屈包養真相：記者親口承認「寫你銷量高」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193252039744819200728436.jpeg/oc0n1v3nR8BLiXSULJj-BhTCjIqbDCcVO4YXszuGF7M",
+    "url": "https://www.hk01.com/01TV/60405649/%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E8%A2%AB%E5%B1%88%E5%8C%85%E9%A4%8A%E7%9C%9F%E7%9B%B8-%E8%A8%98%E8%80%85%E8%A6%AA%E5%8F%A3%E6%89%BF%E8%AA%8D-%E5%AF%AB%E4%BD%A0%E9%8A%B7%E9%87%8F%E9%AB%98",
+    "timestamp": "2026-11-03T19:53:40.053Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧揭被屈包養真相：記者親口承認「寫你銷量高」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150329383488065536243057.jpeg/mjT6u3oTiD7mF2PAJFJ7SYLxH0CtO01G8BvYrvAb2K4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406827/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E8%88%87%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E9%81%94%E5%85%B1%E8%AD%98-%E5%B9%B4%E5%BA%95%E5%B0%87%E7%B5%90%E6%9D%9F%E6%AF%8F%E5%B9%B4%E8%BB%8D%E6%8F%B4%E4%BB%A5%E8%89%B2%E5%88%9740%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-11-03T14:14:44.779Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌街頭無戴頭盔駕電動單車　外賣員遭警斷正涉5罪被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194402412912185344810745.jpeg/EFpNCDVC663i0nzk-ias9c30758j00Yj_w4OsP8ODrA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406824/%E8%91%B5%E6%B6%8C%E8%A1%97%E9%A0%AD%E7%84%A1%E6%88%B4%E9%A0%AD%E7%9B%94%E9%A7%95%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A-%E5%A4%96%E8%B3%A3%E5%93%A1%E9%81%AD%E8%AD%A6%E6%96%B7%E6%AD%A3%E6%B6%895%E7%BD%AA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-03T13:53:48.050Z",
     "strategy": ".content-card__main"
   }
 ];
