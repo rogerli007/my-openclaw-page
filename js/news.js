@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T12:19:12.176Z
+// Last updated: 2026-11-03T12:38:19.782Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美記者住中國14年破除偏見　評扶貧攻堅：是本世紀最了不起的事！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194303758771687424369710.jpeg/qfb3Jhmc83sORRjycniOChE6ymowR-ELYpb3SWKW90k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60406614/%E7%BE%8E%E8%A8%98%E8%80%85%E4%BD%8F%E4%B8%AD%E5%9C%8B14%E5%B9%B4%E7%A0%B4%E9%99%A4%E5%81%8F%E8%A6%8B-%E8%A9%95%E6%89%B6%E8%B2%A7%E6%94%BB%E5%A0%85-%E6%98%AF%E6%9C%AC%E4%B8%96%E7%B4%80%E6%9C%80%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%BA%8B",
+    "timestamp": "2026-11-03T12:38:19.782Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "QS亞洲大學排名｜分析為何本港五大學成十強　三大範疇成優勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194283216203157504529730.png/IBOmEERdRtfbh7za0SYwxWyQEglC-0ZONH_w5zR_8Oc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406574/%E6%9D%B1%E4%BA%AC%E4%B8%AD%E9%87%8E%E7%99%BE%E8%80%81%E5%8C%AF229%E8%90%AC%E5%85%83ap%E5%90%8D%E9%8C%B6%E8%A2%AB%E7%9B%9C-%E5%B0%8F%E5%81%B7%E6%95%B8%E5%A4%A9%E5%BE%8C%E5%AF%84%E5%9B%9E%E9%99%84%E9%81%93%E6%AD%89%E4%BF%A1",
     "timestamp": "2026-11-03T06:54:14.759Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "收緊查冊不設上訴　議員批抹殺正常報道　發展局：申請門檻不高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250707/1018983922605756416540267.jpeg/dcbd39vw9-rw_Li4mrAmvqlPBFEzBeV9MSoPDDEqDww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406587/%E6%94%B6%E7%B7%8A%E6%9F%A5%E5%86%8A%E4%B8%8D%E8%A8%AD%E4%B8%8A%E8%A8%B4-%E8%AD%B0%E5%93%A1%E6%89%B9%E6%8A%B9%E6%AE%BA%E6%AD%A3%E5%B8%B8%E5%A0%B1%E9%81%93-%E7%99%BC%E5%B1%95%E5%B1%80-%E7%94%B3%E8%AB%8B%E9%96%80%E6%AA%BB%E4%B8%8D%E9%AB%98",
-    "timestamp": "2026-11-03T06:43:46.572Z",
     "strategy": ".content-card__main"
   }
 ];
