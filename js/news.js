@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T16:40:09.095Z
+// Last updated: 2026-11-03T16:54:16.945Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Binance幣安被盜63億美元破紀錄　指虛假面試與AI工具遭入侵所致",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193398321243230208895072.jpeg/CmePJ6gQc00gE0rVfGBXQ0VJ1SoUAlicVDhFcFQ4RXA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406849/binance%E5%B9%A3%E5%AE%89%E8%A2%AB%E7%9B%9C63%E5%84%84%E7%BE%8E%E5%85%83%E7%A0%B4%E7%B4%80%E9%8C%84-%E6%8C%87%E8%99%9B%E5%81%87%E9%9D%A2%E8%A9%A6%E8%88%87ai%E5%B7%A5%E5%85%B7%E9%81%AD%E5%85%A5%E4%BE%B5%E6%89%80%E8%87%B4",
+    "timestamp": "2026-11-03T16:54:16.945Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姜濤、陳卓澳門開倒數新年騷　再次缺席叱吒頒獎禮鏡粉擔心冇獎拎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194356021238173696954630.jpeg/A6peJ82nB5nGqlCwHsWNlyAjUqg4ZlgW6SM8LtMjPC4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406762/atp%E5%8F%B0%E5%8C%97%E6%8C%91%E6%88%B0%E8%B3%BD-%E9%BB%83%E6%BE%A4%E6%9E%97%E4%BB%8A%E5%AD%A3%E6%9C%80%E5%BE%8C%E4%B8%80%E6%93%8A%E5%88%97%E9%A0%AD%E8%99%9F%E7%A8%AE%E5%AD%90-%E8%BC%95%E5%8F%96%E9%BB%83%E7%90%AE%E8%B1%AA%E6%99%8916%E5%BC%B7",
     "timestamp": "2026-11-03T10:59:09.580Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "封殺帳號反讓青少年更危險？　Reddit入稟澳洲高院促撤禁令",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194319780119580672437260.jpeg/fvA6OH7lonUTurj2fbTDVZJacUo-U4w6BGKY4ARimOA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406656/%E5%B0%81%E6%AE%BA%E5%B8%B3%E8%99%9F%E5%8F%8D%E8%AE%93%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9B%B4%E5%8D%B1%E9%9A%AA-reddit%E5%85%A5%E7%A8%9F%E6%BE%B3%E6%B4%B2%E9%AB%98%E9%99%A2%E4%BF%83%E6%92%A4%E7%A6%81%E4%BB%A4",
-    "timestamp": "2026-11-03T10:39:46.458Z",
     "strategy": ".content-card__main"
   }
 ];
