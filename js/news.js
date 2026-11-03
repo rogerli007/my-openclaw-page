@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T13:14:56.179Z
+// Last updated: 2026-11-03T13:24:31.247Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTA香港賽︱伊雅娜首圈旗開得勝　菲律賓甜心全場6度成功「破發」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194391747292041216489316.jpeg/LukRQbjjkHzyrUrCrZT7SaNKu0uyalnpxSmNn8UpjZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406807/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E9%A6%96%E5%9C%88%E6%97%97%E9%96%8B%E5%BE%97%E5%8B%9D-%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%94%9C%E5%BF%83%E5%85%A8%E5%A0%B46%E5%BA%A6%E6%88%90%E5%8A%9F-%E7%A0%B4%E7%99%BC",
+    "timestamp": "2026-11-03T13:24:31.247Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張景淳呂慧儀疑秘密合體開工　「龔水CP」再現《三代同糖》？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194305906779623424791820.jpeg/CNWil26uqbbrTK4FOOi6f1CwwhEGBhtRCsHhKArB4Sg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60310831/%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%8E%A8%E4%BB%8B2026-%E7%89%B9%E8%89%B2hightea%E6%8E%A8%E8%96%A6-%E6%B5%B7%E6%99%AF%E6%89%93%E5%8D%A1-%E7%BE%8E%E5%A6%9D%E7%A6%AE%E5%93%81-%E8%97%9D%E8%A1%93%E8%81%AF%E4%B9%98",
     "timestamp": "2026-11-03T07:40:02.652Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聖誕下午茶推介2026｜打卡HighTea:GODIVA任食/日本海膽/送香檳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194305906779623424791820.jpeg/CNWil26uqbbrTK4FOOi6f1CwwhEGBhtRCsHhKArB4Sg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60310831/%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%8E%A8%E4%BB%8B2026-%E7%89%B9%E8%89%B2hightea%E6%8E%A8%E8%96%A6-%E6%B5%B7%E6%99%AF%E6%89%93%E5%8D%A1-%E7%BE%8E%E5%A6%9D%E7%A6%AE%E5%93%81-%E8%97%9D%E8%A1%93%E8%81%AF%E4%B9%98",
-    "timestamp": "2026-11-03T07:25:11.942Z",
     "strategy": ".content-card__main"
   }
 ];
