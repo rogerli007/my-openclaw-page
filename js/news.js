@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T22:23:51.258Z
+// Last updated: 2026-11-03T22:39:36.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB女神賴彥妤撞傷下巴破相縫足8針　頸部上衣染血跡入院極嚇人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194407432151896064873104.jpeg/yBQL5vwfduhdCwqGgNt4gbPqNW9xO4FHAgpD2gIKQ9o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406729/tvb%E5%A5%B3%E7%A5%9E%E8%B3%B4%E5%BD%A5%E5%A6%A4%E6%92%9E%E5%82%B7%E4%B8%8B%E5%B7%B4%E7%A0%B4%E7%9B%B8%E7%B8%AB%E8%B6%B38%E9%87%9D-%E9%A0%B8%E9%83%A8%E4%B8%8A%E8%A1%A3%E6%9F%93%E8%A1%80%E8%B7%A1%E5%85%A5%E9%99%A2%E6%A5%B5%E5%9A%87%E4%BA%BA",
+    "timestamp": "2026-11-03T22:39:36.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致多雲　早晚有一兩陣雨　日間最高約28度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194458187097444352467830.jpeg/XMRCxWVB0WqzUrNP5LK197jhn2xDPRQu5TVkq-U1ZKs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406853/83%E6%AD%B2%E5%89%8D%E5%8F%B0%E8%A6%96%E4%B8%BB%E6%92%AD%E9%A1%A7%E5%AE%89%E7%94%9F%E7%97%85%E9%80%9D-%E6%84%9B%E5%A6%BB%E8%83%A1%E9%8C%A6%E6%82%B2%E7%97%9B%E8%AD%89%E5%AF%A6%E5%89%8D%E4%B8%80%E5%A4%A9%E4%B8%80%E8%B5%B7%E6%AC%A3%E8%B3%9E%E8%B1%AB%E5%8A%87",
     "timestamp": "2026-11-03T17:45:00.977Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧首度面對媒體爆料：媽媽為她流淚暴瘦20磅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193269311435706368695213.jpeg/LLP04cd1UeW7Hevjp3ejzHVPt6hg_iMle_1I5nv9SOY",
-    "url": "https://www.hk01.com/01TV/60405684/%E9%AB%98%E6%B5%B7%E5%AF%A7%E9%A6%96%E5%BA%A6%E9%9D%A2%E5%B0%8D%E5%AA%92%E9%AB%94%E7%88%86%E6%96%99-%E5%AA%BD%E5%AA%BD%E7%82%BA%E5%A5%B9%E6%B5%81%E6%B7%9A%E6%9A%B4%E7%98%A620%E7%A3%85",
-    "timestamp": "2026-11-03T17:23:36.515Z",
     "strategy": ".content-card__main"
   }
 ];
