@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T11:44:57.108Z
+// Last updated: 2026-11-03T11:53:50.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印網紅公開地址求甜點　卻遭「貨到付款」惡搞轟炸　嚇到連夜離家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194348110063603712760419.png/eZVYAispijXB5-dKkhNJAPz755w_XM103eV9Td3lfU0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401450/%E5%8D%B0%E7%B6%B2%E7%B4%85%E5%85%AC%E9%96%8B%E5%9C%B0%E5%9D%80%E6%B1%82%E7%94%9C%E9%BB%9E-%E5%8D%BB%E9%81%AD-%E8%B2%A8%E5%88%B0%E4%BB%98%E6%AC%BE-%E6%83%A1%E6%90%9E%E8%BD%9F%E7%82%B8-%E5%9A%87%E5%88%B0%E9%80%A3%E5%A4%9C%E9%9B%A2%E5%AE%B6",
+    "timestamp": "2026-11-03T11:53:50.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "本港第三季食肆總收益275億、漲3.1%　非中式餐館收益增幅最大",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194285659280379904509134.jpeg/SuIIS6zAZm9H9uUzm4PfZYsmckIBRvOokEVYhbVFWIU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406579/%E4%B8%AD%E5%A4%A7%E5%9C%98%E9%9A%8Aai%E7%AF%A9%E5%87%BA%E5%85%A9%E6%88%90%E9%AB%98%E8%AA%8D%E7%9F%A5%E9%9A%9C%E7%A4%99%E9%A2%A8%E9%9A%AA%E8%80%85-%E6%98%8E%E5%B9%B4%E8%90%BD%E5%8D%80%E9%BB%83%E5%A4%A7%E4%BB%99%E6%8E%A8%E5%85%8D%E8%B2%BB%E8%A9%95%E4%BC%B0",
     "timestamp": "2026-11-03T06:21:47.373Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱敏瀚台慶綵排意外兩米高墮地報平安　孖好兄弟操肌：唔好俾佢停",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194283497712259072485296.jpeg/3smtrOJttrYgSscc97ETLwbdgxA8XH5tOKoilziqIpc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406569/%E6%9C%B1%E6%95%8F%E7%80%9A%E5%8F%B0%E6%85%B6%E7%B6%B5%E6%8E%92%E6%84%8F%E5%A4%96%E5%85%A9%E7%B1%B3%E9%AB%98%E5%A2%AE%E5%9C%B0%E5%A0%B1%E5%B9%B3%E5%AE%89-%E5%AD%96%E5%A5%BD%E5%85%84%E5%BC%9F%E6%93%8D%E8%82%8C-%E5%94%94%E5%A5%BD%E4%BF%BE%E4%BD%A2%E5%81%9C",
-    "timestamp": "2026-11-03T05:54:21.464Z",
     "strategy": ".content-card__main"
   }
 ];
