@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T17:45:00.977Z
+// Last updated: 2026-11-03T17:53:20.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "83歲前台視主播顧安生病逝　愛妻胡錦悲痛證實前一天一起欣賞豫劇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194458187097444352467830.jpeg/XMRCxWVB0WqzUrNP5LK197jhn2xDPRQu5TVkq-U1ZKs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406853/83%E6%AD%B2%E5%89%8D%E5%8F%B0%E8%A6%96%E4%B8%BB%E6%92%AD%E9%A1%A7%E5%AE%89%E7%94%9F%E7%97%85%E9%80%9D-%E6%84%9B%E5%A6%BB%E8%83%A1%E9%8C%A6%E6%82%B2%E7%97%9B%E8%AD%89%E5%AF%A6%E5%89%8D%E4%B8%80%E5%A4%A9%E4%B8%80%E8%B5%B7%E6%AC%A3%E8%B3%9E%E8%B1%AB%E5%8A%87",
+    "timestamp": "2026-11-03T17:53:20.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "83歲前台視主播顧安生病逝　愛妻胡錦悲痛證實前一天一起欣賞豫劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194348110063603712760419.png/eZVYAispijXB5-dKkhNJAPz755w_XM103eV9Td3lfU0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60401450/%E5%8D%B0%E7%B6%B2%E7%B4%85%E5%85%AC%E9%96%8B%E5%9C%B0%E5%9D%80%E6%B1%82%E7%94%9C%E9%BB%9E-%E5%8D%BB%E9%81%AD-%E8%B2%A8%E5%88%B0%E4%BB%98%E6%AC%BE-%E6%83%A1%E6%90%9E%E8%BD%9F%E7%82%B8-%E5%9A%87%E5%88%B0%E9%80%A3%E5%A4%9C%E9%9B%A2%E5%AE%B6",
     "timestamp": "2026-11-03T11:53:50.271Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "本港第三季食肆總收益275億、漲3.1%　非中式餐館收益增幅最大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050062454178320384537842.jpeg/bym4Cr4oHO0H5eLkBoVkcHQ4ysWd1vi2W3EadVtxGnU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406724/%E6%9C%AC%E6%B8%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E9%A3%9F%E8%82%86%E7%B8%BD%E6%94%B6%E7%9B%8A275%E5%84%84-%E6%BC%B23-1-%E9%9D%9E%E4%B8%AD%E5%BC%8F%E9%A4%90%E9%A4%A8%E6%94%B6%E7%9B%8A%E5%A2%9E%E5%B9%85%E6%9C%80%E5%A4%A7",
-    "timestamp": "2026-11-03T11:44:57.108Z",
     "strategy": ".content-card__main"
   }
 ];
