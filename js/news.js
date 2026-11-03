@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T03:53:27.165Z
+// Last updated: 2026-11-03T04:16:41.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飛機中間位兩側扶手歸誰？禮儀專家揭潛規則　3招防經濟艙症候群",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194237626350047232591437.jpeg/QHEQxVSb1OCEou53bHcrFpmlUYmrGifMpYAS76WAEu8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60406436/%E9%A3%9B%E6%A9%9F%E4%B8%AD%E9%96%93%E4%BD%8D%E5%85%A9%E5%81%B4%E6%89%B6%E6%89%8B%E6%AD%B8%E8%AA%B0-%E7%A6%AE%E5%84%80%E5%B0%88%E5%AE%B6%E6%8F%AD%E6%BD%9B%E8%A6%8F%E5%89%87-3%E6%8B%9B%E9%98%B2%E7%B6%93%E6%BF%9F%E8%89%99%E7%97%87%E5%80%99%E7%BE%A4",
+    "timestamp": "2026-11-03T04:16:41.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "10歲女童竟高182cm！進入｢猛長期｣每月高1cm　父親揭秘長高3關鍵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194151827411570688904128.jpeg/039IWWF88OG4tLOAvScD6K2EhCVlYGhz0gS8WNIEvFg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406408/%E8%8B%B1%E5%9C%8B%E6%94%B9%E9%9D%A9%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96-%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%A7%BB%E6%B0%91%E9%9C%80%E4%BD%8F10%E5%B9%B4%E6%89%8D%E5%8F%AF%E7%94%B3%E6%B0%B8%E5%B1%85",
     "timestamp": "2026-11-02T21:42:41.822Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌23歲男遭警截查　檢懷疑氯胺酮、可卡因及煙彈　涉販毒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194151005206351872049731.jpeg/XFzc-0QqgCG1LB1zMZnAB82W3-LicYbz_Nrgg_za4IM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406409/%E8%91%B5%E6%B6%8C23%E6%AD%B2%E7%94%B7%E9%81%AD%E8%AD%A6%E6%88%AA%E6%9F%A5-%E6%AA%A2%E6%87%B7%E7%96%91%E6%B0%AF%E8%83%BA%E9%85%AE-%E5%8F%AF%E5%8D%A1%E5%9B%A0%E5%8F%8A%E7%85%99%E5%BD%88-%E6%B6%89%E8%B2%A9%E6%AF%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-02T21:24:15.087Z",
     "strategy": ".content-card__main"
   }
 ];
