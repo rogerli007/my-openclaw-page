@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T09:15:53.830Z
+// Last updated: 2026-11-03T09:25:52.369Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "受賄逾6750萬　東方航空集團原董事長劉紹勇受賄罪成判囚14年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194339388121681920957026.jpeg/l94E6gT4N-Mzwe_hN8LvZhfqzab6J9l8cRzs13Ec7Nc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60406717/%E5%8F%97%E8%B3%84%E9%80%BE6750%E8%90%AC-%E6%9D%B1%E6%96%B9%E8%88%AA%E7%A9%BA%E9%9B%86%E5%9C%98%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%B7%E5%8A%89%E7%B4%B9%E5%8B%87%E5%8F%97%E8%B3%84%E7%BD%AA%E6%88%90%E5%88%A4%E5%9B%9A14%E5%B9%B4",
+    "timestamp": "2026-11-03T09:25:52.369Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印度貧困率降至2.6%？世行報告惹爭議：靠兩塊大餅算脫貧｜點經",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194247395248967680806315.jpeg/0EhWuY4KV-9zujnCiijhcdQqaJ15T67-CuYIPArmCDw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406485/10%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%AB%9F%E9%AB%98182cm-%E9%80%B2%E5%85%A5-%E7%8C%9B%E9%95%B7%E6%9C%9F-%E6%AF%8F%E6%9C%88%E9%AB%981cm-%E7%88%B6%E8%A6%AA%E6%8F%AD%E7%A7%98%E9%95%B7%E9%AB%983%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-11-03T03:53:27.165Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Ella陳嘉樺演唱會2027｜澳門連開2場門票$480起+11.17開賣+座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193984798700343296874216.jpeg/rY1WNDwXpQyf6c7eTkNkX6woiMvRpIA0QCV01kAldNY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60406304/ella%E9%99%B3%E5%98%89%E6%A8%BA%E6%BC%94%E5%94%B1%E6%9C%832027-%E6%BE%B3%E9%96%80%E9%80%A3%E9%96%8B2%E5%A0%B4%E9%96%80%E7%A5%A8-480%E8%B5%B7-11-17%E9%96%8B%E8%B3%A3-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-11-03T03:39:57.491Z",
     "strategy": ".content-card__main"
   }
 ];
