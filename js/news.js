@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T23:13:06.196Z
+// Last updated: 2026-11-03T23:23:32.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘇軾文章寫太好才沒當上狀元？　歐陽修評卷有段故事｜歷史奇趣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193529568204427264645812.png/ykTSH_x60c87ATxDvcEE-X_kTtwzBk3hKFJtmihSbZo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405778/%E8%98%87%E8%BB%BE%E6%96%87%E7%AB%A0%E5%AF%AB%E5%A4%AA%E5%A5%BD%E6%89%8D%E6%B2%92%E7%95%B6%E4%B8%8A%E7%8B%80%E5%85%83-%E6%AD%90%E9%99%BD%E4%BF%AE%E8%A9%95%E5%8D%B7%E6%9C%89%E6%AE%B5%E6%95%85%E4%BA%8B-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
+    "timestamp": "2026-11-03T23:23:32.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Meta聯合中企研發機械人Max　搭NVIDIA晶片面部可模擬人類表情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194467799724986368695308.jpeg/6ZXbE6qqpKLAYa2KCuKa9YFEiG5tQZlJuwUzTbsFM00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406855/%E6%AD%90%E6%B4%B2%E8%87%B3%E5%B0%917%E7%8F%AD%E8%88%AA%E6%A9%9F%E6%8E%A5%E7%8D%B2%E7%82%B8%E5%BD%88%E6%81%90%E5%9A%87-%E9%99%8D%E8%90%BD%E5%BE%8C%E5%9D%87%E7%84%A1%E7%99%BC%E7%8F%BE",
     "timestamp": "2026-11-03T18:26:31.815Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲至少7班航機接獲炸彈恐嚇　降落後均無發現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194467799724986368695308.jpeg/6ZXbE6qqpKLAYa2KCuKa9YFEiG5tQZlJuwUzTbsFM00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406855/%E6%AD%90%E6%B4%B2%E8%87%B3%E5%B0%917%E7%8F%AD%E8%88%AA%E6%A9%9F%E6%8E%A5%E7%8D%B2%E7%82%B8%E5%BD%88%E6%81%90%E5%9A%87-%E9%99%8D%E8%90%BD%E5%BE%8C%E5%9D%87%E7%84%A1%E7%99%BC%E7%8F%BE",
-    "timestamp": "2026-11-03T18:16:50.946Z",
     "strategy": ".content-card__main"
   }
 ];
