@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T19:23:53.122Z
+// Last updated: 2026-11-03T19:39:44.194Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧揭被屈包養真相：記者親口承認「寫你銷量高」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193252039744819200728436.jpeg/oc0n1v3nR8BLiXSULJj-BhTCjIqbDCcVO4YXszuGF7M",
+    "url": "https://www.hk01.com/01TV/60405649/%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E8%A2%AB%E5%B1%88%E5%8C%85%E9%A4%8A%E7%9C%9F%E7%9B%B8-%E8%A8%98%E8%80%85%E8%A6%AA%E5%8F%A3%E6%89%BF%E8%AA%8D-%E5%AF%AB%E4%BD%A0%E9%8A%B7%E9%87%8F%E9%AB%98",
+    "timestamp": "2026-11-03T19:39:44.194Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧揭被屈包養真相：記者親口承認「寫你銷量高」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194402412912185344810745.jpeg/EFpNCDVC663i0nzk-ias9c30758j00Yj_w4OsP8ODrA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406824/%E8%91%B5%E6%B6%8C%E8%A1%97%E9%A0%AD%E7%84%A1%E6%88%B4%E9%A0%AD%E7%9B%94%E9%A7%95%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A-%E5%A4%96%E8%B3%A3%E5%93%A1%E9%81%AD%E8%AD%A6%E6%96%B7%E6%AD%A3%E6%B6%895%E7%BD%AA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-03T13:53:48.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTA香港賽︱伊雅娜首圈旗開得勝　菲律賓甜心全場6度成功「破發」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194391747292041216489316.jpeg/LukRQbjjkHzyrUrCrZT7SaNKu0uyalnpxSmNn8UpjZ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406807/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E9%A6%96%E5%9C%88%E6%97%97%E9%96%8B%E5%BE%97%E5%8B%9D-%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%94%9C%E5%BF%83%E5%85%A8%E5%A0%B46%E5%BA%A6%E6%88%90%E5%8A%9F-%E7%A0%B4%E7%99%BC",
-    "timestamp": "2026-11-03T13:24:31.247Z",
     "strategy": ".content-card__main"
   }
 ];
