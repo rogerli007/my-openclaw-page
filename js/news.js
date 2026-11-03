@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T20:53:38.314Z
+// Last updated: 2026-11-03T21:13:20.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍灣麗晶花園單位失火　3人送院150人疏散　主人攜寵物齊逃生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
+    "timestamp": "2026-11-03T21:13:20.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜紐約州威徹斯特縣投票機故障　25萬張選票無法掃描",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194434281435303936150472.jpeg/ddnqSRlOMxcEzn3MqN6VmykD1mfu3OMheLl0Qni5dEI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406844/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%AA%98%E5%90%B3%E5%8D%93%E7%BE%B2%E5%BA%8A%E6%88%B0-%E5%86%8D%E5%B1%88%E5%BC%B7%E5%A7%A6%E7%95%99-%E9%87%8D%E8%A6%81%E7%89%A9%E8%AD%89-%E6%A5%B5%E7%8B%97%E8%A1%80",
     "timestamp": "2026-11-03T16:15:59.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青奧2026｜文薈喬100蛙後上摘銅　何詩蓓後首泳手登頒獎台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194434849725747200498316.jpeg/Qn467Xm114ErcsnezzRAV_ettxH8BUEQ1VEOmtVRDpo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406847/%E9%9D%92%E5%A5%A72026-%E6%96%87%E8%96%88%E5%96%AC100%E8%9B%99%E5%BE%8C%E4%B8%8A%E6%91%98%E9%8A%85-%E4%BD%95%E8%A9%A9%E8%93%93%E5%BE%8C%E9%A6%96%E6%B3%B3%E6%89%8B%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0",
-    "timestamp": "2026-11-03T15:55:11.463Z",
     "strategy": ".content-card__main"
   }
 ];
