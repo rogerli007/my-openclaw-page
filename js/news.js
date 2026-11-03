@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T18:40:13.161Z
+// Last updated: 2026-11-03T18:53:58.775Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網傳南亞幫上門劫財　10多人狹窄單位亂戰困獸鬥　MMA影片曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194476862319890432237961.jpeg/xEpUssjpAxKdrn70OZ4c9JPqnGqoZMiObJEJ8GyRCfA",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406856/%E7%B6%B2%E5%82%B3%E5%8D%97%E4%BA%9E%E5%B9%AB%E4%B8%8A%E9%96%80%E5%8A%AB%E8%B2%A1-10%E5%A4%9A%E4%BA%BA%E7%8B%B9%E7%AA%84%E5%96%AE%E4%BD%8D%E4%BA%82%E6%88%B0%E5%9B%B0%E7%8D%B8%E9%AC%A5-mma%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-11-03T18:53:58.775Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲至少7班航機接獲炸彈恐嚇　降落後均無發現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194391703058911232053489.jpeg/nnRt9ncq22ZvR8VUOrMV_vzVzNoO-vRCzOa7vczmu70?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406806/%E5%BC%B5%E6%99%AF%E6%B7%B3%E5%91%82%E6%85%A7%E5%84%80%E7%96%91%E7%A7%98%E5%AF%86%E5%90%88%E9%AB%94%E9%96%8B%E5%B7%A5-%E9%BE%94%E6%B0%B4cp-%E5%86%8D%E7%8F%BE-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96",
     "timestamp": "2026-11-03T13:14:56.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林愷鈴父「上古許光漢」林煒翻紅　陳年咀戲洗版終露面回應復出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194364401147187200364017.jpeg/dMsZM1UivgRNCh9sEkeQqNL7m_1Ov03AUSSczlEknM4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406756/%E6%9E%97%E6%84%B7%E9%88%B4%E7%88%B6-%E4%B8%8A%E5%8F%A4%E8%A8%B1%E5%85%89%E6%BC%A2-%E6%9E%97%E7%85%92%E7%BF%BB%E7%B4%85-%E9%99%B3%E5%B9%B4%E5%92%80%E6%88%B2%E6%B4%97%E7%89%88%E7%B5%82%E9%9C%B2%E9%9D%A2%E5%9B%9E%E6%87%89%E5%BE%A9%E5%87%BA",
-    "timestamp": "2026-11-03T12:56:47.452Z",
     "strategy": ".content-card__main"
   }
 ];
