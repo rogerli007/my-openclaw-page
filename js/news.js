@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T05:14:55.268Z
+// Last updated: 2026-11-03T05:29:39.728Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "咪錶故障4小時　營辦商香港電訊致歉　沒提原因稱將盡快提交報告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194235931461292032895307.jpeg/NHFsjxuNqWSuK7fGMNIaab71sWcb3Y3Kc-cManPnDGo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406561/%E5%92%AA%E9%8C%B6%E6%95%85%E9%9A%9C4%E5%B0%8F%E6%99%82-%E7%87%9F%E8%BE%A6%E5%95%86%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A%E8%87%B4%E6%AD%89-%E6%B2%92%E6%8F%90%E5%8E%9F%E5%9B%A0%E7%A8%B1%E5%B0%87%E7%9B%A1%E5%BF%AB%E6%8F%90%E4%BA%A4%E5%A0%B1%E5%91%8A",
+    "timestamp": "2026-11-03T05:29:39.728Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Timex平民Tank坦克錶登場！WM Brown聯名復古方錶附鋼皮雙帶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194025501887303680902548.jpeg/FqpuBIXEjnvuiUNqXauw2p4J0Nr2qNZopOM0nqTjNJ4",
     "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60402798/%E4%B9%92%E7%B8%BD%E6%95%99%E7%B7%B4%E6%B6%89%E7%B2%97%E5%8F%A3%E8%BE%B1%E7%BD%B5-%E8%BE%AF%E7%A8%B1%E5%85%9C%E5%B7%B4%E6%98%9F%E5%B1%AC%E5%BE%B7%E8%82%B2%E8%A8%93%E8%A9%B1-%E5%AD%B8%E7%94%9F%E6%8E%A7%E7%B8%BD%E6%9C%83%E8%99%95%E7%90%86%E4%B8%8D%E7%95%B6",
     "timestamp": "2026-11-02T23:13:39.452Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "范彩兒披金絲裙褂出嫁　收起傲人身材潘嘉德《愛回家》二太到賀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194071000220700672632540.jpeg/H5YEpar7psUmk3Q8EDle8RgMBXhB0M-TUe8RJ1HvESc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406327/%E8%8C%83%E5%BD%A9%E5%85%92%E6%8A%AB%E9%87%91%E7%B5%B2%E8%A3%99%E8%A4%82%E5%87%BA%E5%AB%81-%E6%94%B6%E8%B5%B7%E5%82%B2%E4%BA%BA%E8%BA%AB%E6%9D%90%E6%BD%98%E5%98%89%E5%BE%B7-%E6%84%9B%E5%9B%9E%E5%AE%B6-%E4%BA%8C%E5%A4%AA%E5%88%B0%E8%B3%80",
-    "timestamp": "2026-11-02T22:39:18.888Z",
     "strategy": ".content-card__main"
   }
 ];
