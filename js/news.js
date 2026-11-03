@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T05:54:21.464Z
+// Last updated: 2026-11-03T06:21:47.373Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中大團隊AI篩出兩成高認知障礙風險者　明年落區黃大仙推免費評估",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194285659280379904509134.jpeg/SuIIS6zAZm9H9uUzm4PfZYsmckIBRvOokEVYhbVFWIU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406579/%E4%B8%AD%E5%A4%A7%E5%9C%98%E9%9A%8Aai%E7%AF%A9%E5%87%BA%E5%85%A9%E6%88%90%E9%AB%98%E8%AA%8D%E7%9F%A5%E9%9A%9C%E7%A4%99%E9%A2%A8%E9%9A%AA%E8%80%85-%E6%98%8E%E5%B9%B4%E8%90%BD%E5%8D%80%E9%BB%83%E5%A4%A7%E4%BB%99%E6%8E%A8%E5%85%8D%E8%B2%BB%E8%A9%95%E4%BC%B0",
+    "timestamp": "2026-11-03T06:21:47.373Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱敏瀚台慶綵排意外兩米高墮地報平安　孖好兄弟操肌：唔好俾佢停",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194076305612607488287091.jpeg/hz15WDADkI7-4-lv0w3HWCDpsGWs9NzEpZKTL6WSky8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406391/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E7%80%85%E9%85%92%E5%BE%8C%E7%AA%81%E5%90%BB%E9%99%B3%E6%9B%89%E8%8F%AF%E9%81%AD%E6%85%98%E6%8B%92-%E6%8C%91%E6%88%B0%E9%9B%BB%E8%A6%96%E5%B0%BA%E5%BA%A6%E4%B8%8A%E6%BC%94%E5%A5%B3%E5%A5%B3%E6%88%80",
     "timestamp": "2026-11-02T23:59:15.692Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜陳瀅酒後突吻陳曉華遭慘拒　挑戰電視尺度上演女女戀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194076305612607488287091.jpeg/hz15WDADkI7-4-lv0w3HWCDpsGWs9NzEpZKTL6WSky8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406391/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E7%80%85%E9%85%92%E5%BE%8C%E7%AA%81%E5%90%BB%E9%99%B3%E6%9B%89%E8%8F%AF%E9%81%AD%E6%85%98%E6%8B%92-%E6%8C%91%E6%88%B0%E9%9B%BB%E8%A6%96%E5%B0%BA%E5%BA%A6%E4%B8%8A%E6%BC%94%E5%A5%B3%E5%A5%B3%E6%88%80",
-    "timestamp": "2026-11-02T23:39:11.780Z",
     "strategy": ".content-card__main"
   }
 ];
