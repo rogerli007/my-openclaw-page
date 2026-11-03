@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T20:23:45.117Z
+// Last updated: 2026-11-03T20:39:50.228Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "路透：美伊就達成協議仍有大段距離　雷扎伊：美須明確回應七條件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170067481067261952693170.jpeg/_yC_RhoPcHJTNoQyvWjx8VYpZbQPTIH5yLhyDci4cg0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406867/%E8%B7%AF%E9%80%8F-%E7%BE%8E%E4%BC%8A%E5%B0%B1%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E4%BB%8D%E6%9C%89%E5%A4%A7%E6%AE%B5%E8%B7%9D%E9%9B%A2-%E9%9B%B7%E6%89%8E%E4%BC%8A-%E7%BE%8E%E9%A0%88%E6%98%8E%E7%A2%BA%E5%9B%9E%E6%87%89%E4%B8%83%E6%A2%9D%E4%BB%B6",
+    "timestamp": "2026-11-03T20:39:50.228Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：SK海力士紐約投資計劃受阻　因美對華設備出口許可尚未審批",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194414719956422656795643.png/pEXBExVK23Ajeglqv6FQmgcbkADK_uxZ6CdxBugncQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406829/%E6%9E%97%E6%84%B7%E9%88%B4%E8%A6%AA%E8%AD%89%E6%93%81%E7%9A%87%E6%97%8F%E8%A1%80%E7%B5%B1-23%E6%AD%B2%E8%83%9E%E5%BC%9F%E5%BC%95%E9%97%9C%E6%B3%A8%E8%BA%AB%E9%AB%98190cm%E8%AE%80%E6%B3%95%E5%BE%8B%E6%96%87%E6%AD%A6%E9%9B%99%E5%85%A8",
     "timestamp": "2026-11-03T15:26:35.464Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林愷鈴親證擁皇族血統　23歲胞弟引關注身高190cm讀法律文武雙全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194414719956422656795643.png/pEXBExVK23Ajeglqv6FQmgcbkADK_uxZ6CdxBugncQY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406829/%E6%9E%97%E6%84%B7%E9%88%B4%E8%A6%AA%E8%AD%89%E6%93%81%E7%9A%87%E6%97%8F%E8%A1%80%E7%B5%B1-23%E6%AD%B2%E8%83%9E%E5%BC%9F%E5%BC%95%E9%97%9C%E6%B3%A8%E8%BA%AB%E9%AB%98190cm%E8%AE%80%E6%B3%95%E5%BE%8B%E6%96%87%E6%AD%A6%E9%9B%99%E5%85%A8",
-    "timestamp": "2026-11-03T15:18:04.776Z",
     "strategy": ".content-card__main"
   }
 ];
