@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T10:59:09.580Z
+// Last updated: 2026-11-03T11:14:34.076Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃澤林認愛譚旻萱　一段愛情竟有4個輸家！輸得最慘是JFFT床哥？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194357491064901632578601.jpeg/ar_SB58dIIez9fuzIlwTmMP1d0RyAVv-RYiZ-EWImfg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60406738/%E9%BB%83%E6%BE%A4%E6%9E%97%E8%AA%8D%E6%84%9B%E8%AD%9A%E6%97%BB%E8%90%B1-%E4%B8%80%E6%AE%B5%E6%84%9B%E6%83%85%E7%AB%9F%E6%9C%894%E5%80%8B%E8%BC%B8%E5%AE%B6-%E8%BC%B8%E5%BE%97%E6%9C%80%E6%85%98%E6%98%AFjfft%E5%BA%8A%E5%93%A5",
+    "timestamp": "2026-11-03T11:14:34.076Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ATP台北挑戰賽︱黃澤林今季最後一擊列頭號種子 輕取黃琮豪晉16強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194235931461292032895307.jpeg/NHFsjxuNqWSuK7fGMNIaab71sWcb3Y3Kc-cManPnDGo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406561/%E5%92%AA%E9%8C%B6%E6%95%85%E9%9A%9C4%E5%B0%8F%E6%99%82-%E7%87%9F%E8%BE%A6%E5%95%86%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A%E8%87%B4%E6%AD%89-%E6%B2%92%E6%8F%90%E5%8E%9F%E5%9B%A0%E7%A8%B1%E5%B0%87%E7%9B%A1%E5%BF%AB%E6%8F%90%E4%BA%A4%E5%A0%B1%E5%91%8A",
     "timestamp": "2026-11-03T05:29:39.728Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Timex平民Tank坦克錶登場！WM Brown聯名復古方錶附鋼皮雙帶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192488293598498816523089.png/oENAw_eF7mQxeuH2QnJ2p2_XtJL7J5kr1Im3RNSJt0Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60404792/timex%E5%B9%B3%E6%B0%91tank%E5%9D%A6%E5%85%8B%E9%8C%B6%E7%99%BB%E5%A0%B4-wm-brown%E8%81%AF%E5%90%8D%E5%BE%A9%E5%8F%A4%E6%96%B9%E9%8C%B6%E9%99%84%E9%8B%BC%E7%9A%AE%E9%9B%99%E5%B8%B6",
-    "timestamp": "2026-11-03T05:14:55.268Z",
     "strategy": ".content-card__main"
   }
 ];
