@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T17:23:36.515Z
+// Last updated: 2026-11-03T17:45:00.977Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "83歲前台視主播顧安生病逝　愛妻胡錦悲痛證實前一天一起欣賞豫劇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194458187097444352467830.jpeg/XMRCxWVB0WqzUrNP5LK197jhn2xDPRQu5TVkq-U1ZKs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406853/83%E6%AD%B2%E5%89%8D%E5%8F%B0%E8%A6%96%E4%B8%BB%E6%92%AD%E9%A1%A7%E5%AE%89%E7%94%9F%E7%97%85%E9%80%9D-%E6%84%9B%E5%A6%BB%E8%83%A1%E9%8C%A6%E6%82%B2%E7%97%9B%E8%AD%89%E5%AF%A6%E5%89%8D%E4%B8%80%E5%A4%A9%E4%B8%80%E8%B5%B7%E6%AC%A3%E8%B3%9E%E8%B1%AB%E5%8A%87",
+    "timestamp": "2026-11-03T17:45:00.977Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧首度面對媒體爆料：媽媽為她流淚暴瘦20磅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251001/1050062454178320384537842.jpeg/bym4Cr4oHO0H5eLkBoVkcHQ4ysWd1vi2W3EadVtxGnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406724/%E6%9C%AC%E6%B8%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E9%A3%9F%E8%82%86%E7%B8%BD%E6%94%B6%E7%9B%8A275%E5%84%84-%E6%BC%B23-1-%E9%9D%9E%E4%B8%AD%E5%BC%8F%E9%A4%90%E9%A4%A8%E6%94%B6%E7%9B%8A%E5%A2%9E%E5%B9%85%E6%9C%80%E5%A4%A7",
     "timestamp": "2026-11-03T11:44:57.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阮浩棕心痛何沛珈玩滑水梯爆喊被批綠茶　代平反兼澄清二人關係",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194366018026213376782493.jpeg/hiZbimpqI5hGPJfe2GK4s62ueLASyreD7Ieu5OyHruQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406774/%E9%98%AE%E6%B5%A9%E6%A3%95%E5%BF%83%E7%97%9B%E4%BD%95%E6%B2%9B%E7%8F%88%E7%8E%A9%E6%BB%91%E6%B0%B4%E6%A2%AF%E7%88%86%E5%96%8A%E8%A2%AB%E6%89%B9%E7%B6%A0%E8%8C%B6-%E4%BB%A3%E5%B9%B3%E5%8F%8D%E5%85%BC%E6%BE%84%E6%B8%85%E4%BA%8C%E4%BA%BA%E9%97%9C%E4%BF%82",
-    "timestamp": "2026-11-03T11:24:11.483Z",
     "strategy": ".content-card__main"
   }
 ];
