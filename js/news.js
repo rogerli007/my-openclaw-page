@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T15:18:04.776Z
+// Last updated: 2026-11-03T15:26:35.464Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林愷鈴親證擁皇族血統　23歲胞弟引關注身高190cm讀法律文武雙全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194414719956422656795643.png/pEXBExVK23Ajeglqv6FQmgcbkADK_uxZ6CdxBugncQY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406829/%E6%9E%97%E6%84%B7%E9%88%B4%E8%A6%AA%E8%AD%89%E6%93%81%E7%9A%87%E6%97%8F%E8%A1%80%E7%B5%B1-23%E6%AD%B2%E8%83%9E%E5%BC%9F%E5%BC%95%E9%97%9C%E6%B3%A8%E8%BA%AB%E9%AB%98190cm%E8%AE%80%E6%B3%95%E5%BE%8B%E6%96%87%E6%AD%A6%E9%9B%99%E5%85%A8",
+    "timestamp": "2026-11-03T15:26:35.464Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林愷鈴親證擁皇族血統　23歲胞弟引關注身高190cm讀法律文武雙全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2881108/org/8dee0dc9463a8226d8ef6e7c3eac4de8.jpg/AsNCHATOldHV0hA8zIBThOnWJcWkVp2BecTVUXnE1VE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60406584/%E5%8D%B0%E5%BA%A6%E8%B2%A7%E5%9B%B0%E7%8E%87%E9%99%8D%E8%87%B32-6-%E4%B8%96%E8%A1%8C%E5%A0%B1%E5%91%8A%E6%83%B9%E7%88%AD%E8%AD%B0-%E9%9D%A0%E5%85%A9%E5%A1%8A%E5%A4%A7%E9%A4%85%E7%AE%97%E8%84%AB%E8%B2%A7-%E9%BB%9E%E7%B6%93",
     "timestamp": "2026-11-03T09:15:53.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佳寶限時優惠全場8折｜一連13日大減價！糧油肉類海鮮掃貨攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194330808358277120708532.jpeg/0mF988_rb1g7EZAUaFBNQxGdli5OLf-31J4HktSeB5I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60406645/%E4%BD%B3%E5%AF%B6%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0%E5%85%A8%E5%A0%B48%E6%8A%98-%E4%B8%80%E9%80%A313%E6%97%A5%E5%A4%A7%E6%B8%9B%E5%83%B9-%E7%B3%A7%E6%B2%B9%E8%82%89%E9%A1%9E%E6%B5%B7%E9%AE%AE%E6%8E%83%E8%B2%A8%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-11-03T08:53:27.235Z",
     "strategy": ".content-card__main"
   }
 ];
