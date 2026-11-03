@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T02:40:58.366Z
+// Last updated: 2026-11-03T02:53:55.431Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "10月地產代理人數續升　最新報38391人　每6.6名代理爭一張單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194238171315965952925368.jpeg/4sBfxa4uSqsUwwVz4qQca-Io7ZVLzlS_1p-hcdafoXE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60406474/10%E6%9C%88%E5%9C%B0%E7%94%A2%E4%BB%A3%E7%90%86%E4%BA%BA%E6%95%B8%E7%BA%8C%E5%8D%87-%E6%9C%80%E6%96%B0%E5%A0%B138391%E4%BA%BA-%E6%AF%8F6-6%E5%90%8D%E4%BB%A3%E7%90%86%E7%88%AD%E4%B8%80%E5%BC%B5%E5%96%AE",
+    "timestamp": "2026-11-03T02:53:55.431Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "咪錶泊車系統故障｜記者視察各區咪錶　部分故障部份如常操作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194136125296349184197423.jpeg/wPFmV3uFkDIxUHvyKRKf-yJXzaRtM_HsC5UEmguVBJo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406404/%E8%AD%A6%E5%81%95%E6%B5%B7%E9%97%9C%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%90%97%E9%9D%9E%E6%B3%95%E8%B3%AD%E6%AA%94-%E7%A7%81%E7%85%99%E5%80%89-%E6%8C%89%E6%91%A9%E9%99%A2%E5%8F%8A%E8%B3%A3%E6%B7%AB%E5%A0%B4%E6%89%80-%E6%8B%9814%E4%BA%BA",
     "timestamp": "2026-11-02T20:23:45.324Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧參選港姐內幕：因去加勒比海而報名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193268984795893760106732.jpeg/aNLT3H8clLLKb7jhB17uP5GojDs4EcwQwoXat8KF2rc",
-    "url": "https://www.hk01.com/01TV/60405682/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%8F%83%E9%81%B8%E6%B8%AF%E5%A7%90%E5%85%A7%E5%B9%95-%E5%9B%A0%E5%8E%BB%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E8%80%8C%E5%A0%B1%E5%90%8D",
-    "timestamp": "2026-11-02T20:14:01.135Z",
     "strategy": ".content-card__main"
   }
 ];
