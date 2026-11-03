@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T05:41:30.881Z
+// Last updated: 2026-11-03T05:54:21.464Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱敏瀚台慶綵排意外兩米高墮地報平安　孖好兄弟操肌：唔好俾佢停",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194283497712259072485296.jpeg/3smtrOJttrYgSscc97ETLwbdgxA8XH5tOKoilziqIpc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406569/%E6%9C%B1%E6%95%8F%E7%80%9A%E5%8F%B0%E6%85%B6%E7%B6%B5%E6%8E%92%E6%84%8F%E5%A4%96%E5%85%A9%E7%B1%B3%E9%AB%98%E5%A2%AE%E5%9C%B0%E5%A0%B1%E5%B9%B3%E5%AE%89-%E5%AD%96%E5%A5%BD%E5%85%84%E5%BC%9F%E6%93%8D%E8%82%8C-%E5%94%94%E5%A5%BD%E4%BF%BE%E4%BD%A2%E5%81%9C",
+    "timestamp": "2026-11-03T05:54:21.464Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "施駿興與女童性交囚30月　官拒納重犯機會低　慾念可使人跨越紅線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194076305612607488287091.jpeg/hz15WDADkI7-4-lv0w3HWCDpsGWs9NzEpZKTL6WSky8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406391/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E7%80%85%E9%85%92%E5%BE%8C%E7%AA%81%E5%90%BB%E9%99%B3%E6%9B%89%E8%8F%AF%E9%81%AD%E6%85%98%E6%8B%92-%E6%8C%91%E6%88%B0%E9%9B%BB%E8%A6%96%E5%B0%BA%E5%BA%A6%E4%B8%8A%E6%BC%94%E5%A5%B3%E5%A5%B3%E6%88%80",
     "timestamp": "2026-11-02T23:39:11.780Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美男童遇溺被誤判不治　放殮房5小時致永久腦損傷　家屬怒告醫生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192526013037285376095683.png/a1ylsKZxi4yCJ_-T69QvtUzbqJft8si3kaHroZGh66E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403945/%E7%BE%8E%E7%94%B7%E7%AB%A5%E9%81%87%E6%BA%BA%E8%A2%AB%E8%AA%A4%E5%88%A4%E4%B8%8D%E6%B2%BB-%E6%94%BE%E6%AE%AE%E6%88%BF5%E5%B0%8F%E6%99%82%E8%87%B4%E6%B0%B8%E4%B9%85%E8%85%A6%E6%90%8D%E5%82%B7-%E5%AE%B6%E5%B1%AC%E6%80%92%E5%91%8A%E9%86%AB%E7%94%9F",
-    "timestamp": "2026-11-02T23:24:12.095Z",
     "strategy": ".content-card__main"
   }
 ];
