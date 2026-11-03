@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T06:21:47.373Z
+// Last updated: 2026-11-03T06:43:46.572Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "收緊查冊不設上訴　議員批抹殺正常報道　發展局：申請門檻不高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250707/1018983922605756416540267.jpeg/dcbd39vw9-rw_Li4mrAmvqlPBFEzBeV9MSoPDDEqDww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406587/%E6%94%B6%E7%B7%8A%E6%9F%A5%E5%86%8A%E4%B8%8D%E8%A8%AD%E4%B8%8A%E8%A8%B4-%E8%AD%B0%E5%93%A1%E6%89%B9%E6%8A%B9%E6%AE%BA%E6%AD%A3%E5%B8%B8%E5%A0%B1%E9%81%93-%E7%99%BC%E5%B1%95%E5%B1%80-%E7%94%B3%E8%AB%8B%E9%96%80%E6%AA%BB%E4%B8%8D%E9%AB%98",
+    "timestamp": "2026-11-03T06:43:46.572Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中大團隊AI篩出兩成高認知障礙風險者　明年落區黃大仙推免費評估",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177641343166451712814520.png/IdWcTi9EwV6Pr4Dxn8SvsxXlTAeFuehwIv5oiSL-aIk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406420/%E8%98%8B%E6%9E%9C%E7%9B%A4%E5%BE%8C%E8%B7%8C%E9%80%BE2-%E5%81%87%E6%97%A5%E5%AD%A3%E7%87%9F%E6%94%B6%E6%8C%87%E5%BC%95%E6%9C%AA%E8%83%BD%E6%89%93%E5%8B%95%E6%8A%95%E8%B3%87%E8%80%85",
     "timestamp": "2026-11-03T00:30:55.644Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜陳瀅酒後突吻陳曉華遭慘拒　挑戰電視尺度上演女女戀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194076305612607488287091.jpeg/hz15WDADkI7-4-lv0w3HWCDpsGWs9NzEpZKTL6WSky8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406391/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%99%B3%E7%80%85%E9%85%92%E5%BE%8C%E7%AA%81%E5%90%BB%E9%99%B3%E6%9B%89%E8%8F%AF%E9%81%AD%E6%85%98%E6%8B%92-%E6%8C%91%E6%88%B0%E9%9B%BB%E8%A6%96%E5%B0%BA%E5%BA%A6%E4%B8%8A%E6%BC%94%E5%A5%B3%E5%A5%B3%E6%88%80",
-    "timestamp": "2026-11-02T23:59:15.692Z",
     "strategy": ".content-card__main"
   }
 ];
