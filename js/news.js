@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T18:53:58.775Z
+// Last updated: 2026-11-03T19:23:53.122Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧揭被屈包養真相：記者親口承認「寫你銷量高」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193252039744819200728436.jpeg/oc0n1v3nR8BLiXSULJj-BhTCjIqbDCcVO4YXszuGF7M",
+    "url": "https://www.hk01.com/01TV/60405649/%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E8%A2%AB%E5%B1%88%E5%8C%85%E9%A4%8A%E7%9C%9F%E7%9B%B8-%E8%A8%98%E8%80%85%E8%A6%AA%E5%8F%A3%E6%89%BF%E8%AA%8D-%E5%AF%AB%E4%BD%A0%E9%8A%B7%E9%87%8F%E9%AB%98",
+    "timestamp": "2026-11-03T19:23:53.122Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網傳南亞幫上門劫財　10多人狹窄單位亂戰困獸鬥　MMA影片曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194391747292041216489316.jpeg/LukRQbjjkHzyrUrCrZT7SaNKu0uyalnpxSmNn8UpjZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406807/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E9%A6%96%E5%9C%88%E6%97%97%E9%96%8B%E5%BE%97%E5%8B%9D-%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%94%9C%E5%BF%83%E5%85%A8%E5%A0%B46%E5%BA%A6%E6%88%90%E5%8A%9F-%E7%A0%B4%E7%99%BC",
     "timestamp": "2026-11-03T13:24:31.247Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張景淳呂慧儀疑秘密合體開工　「龔水CP」再現《三代同糖》？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194391703058911232053489.jpeg/nnRt9ncq22ZvR8VUOrMV_vzVzNoO-vRCzOa7vczmu70?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406806/%E5%BC%B5%E6%99%AF%E6%B7%B3%E5%91%82%E6%85%A7%E5%84%80%E7%96%91%E7%A7%98%E5%AF%86%E5%90%88%E9%AB%94%E9%96%8B%E5%B7%A5-%E9%BE%94%E6%B0%B4cp-%E5%86%8D%E7%8F%BE-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96",
-    "timestamp": "2026-11-03T13:14:56.179Z",
     "strategy": ".content-card__main"
   }
 ];
