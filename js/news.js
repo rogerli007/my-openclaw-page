@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T08:45:54.423Z
+// Last updated: 2026-11-03T08:53:27.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佳寶限時優惠全場8折｜一連13日大減價！糧油肉類海鮮掃貨攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194330808358277120708532.jpeg/0mF988_rb1g7EZAUaFBNQxGdli5OLf-31J4HktSeB5I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60406645/%E4%BD%B3%E5%AF%B6%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0%E5%85%A8%E5%A0%B48%E6%8A%98-%E4%B8%80%E9%80%A313%E6%97%A5%E5%A4%A7%E6%B8%9B%E5%83%B9-%E7%B3%A7%E6%B2%B9%E8%82%89%E9%A1%9E%E6%B5%B7%E9%AE%AE%E6%8E%83%E8%B2%A8%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-11-03T08:53:27.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "圍標隱蔽難查　議員倡學公屋打濫「篤灰有獎」　助搜情報",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194236996579495936023741.jpeg/aNFG0y47zvl-Hjiqs-XefzWgB-d_t8pDMBSHXDAUh1w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60406447/%E7%B4%90%E6%99%82%E6%8F%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AA%AA%E8%AE%8A%E5%86%97%E9%95%B7%E9%9B%A3%E7%90%86%E8%A7%A3%E6%9A%B4%E5%A2%9E2-5%E5%80%8D-%E9%81%AD%E8%B3%AA%E7%96%91-%E8%AA%8D%E7%9F%A5%E9%80%80%E5%8C%96",
     "timestamp": "2026-11-03T03:27:00.627Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劍擊U23亞錦賽｜港隊強勢豪奪8金　男花女重團體齊稱霸謝幕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194243899107840000548172.jpeg/szA642myXzXI8YSywR_yOnDufZnXm2o67ehzve3oc70?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406487/%E5%8A%8D%E6%93%8Au23%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E6%B8%AF%E9%9A%8A%E5%BC%B7%E5%8B%A2%E8%B1%AA%E5%A5%AA8%E9%87%91-%E7%94%B7%E8%8A%B1%E5%A5%B3%E9%87%8D%E5%9C%98%E9%AB%94%E9%BD%8A%E7%A8%B1%E9%9C%B8%E8%AC%9D%E5%B9%95",
-    "timestamp": "2026-11-03T03:22:06.575Z",
     "strategy": ".content-card__main"
   }
 ];
