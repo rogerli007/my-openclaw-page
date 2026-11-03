@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T09:25:52.369Z
+// Last updated: 2026-11-03T09:39:57.266Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大熊貓花花吐白沫舔腳疑現刻板行為　成都基地揭換食過渡期真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194328527135051776398467.png/bBVtTGnjmRwJZ9gg8HWTfIuTvBdBxKftej82K3o_Nis?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406662/%E5%A4%A7%E7%86%8A%E8%B2%93%E8%8A%B1%E8%8A%B1%E5%90%90%E7%99%BD%E6%B2%AB%E8%88%94%E8%85%B3%E7%96%91%E7%8F%BE%E5%88%BB%E6%9D%BF%E8%A1%8C%E7%82%BA-%E6%88%90%E9%83%BD%E5%9F%BA%E5%9C%B0%E6%8F%AD%E6%8F%9B%E9%A3%9F%E9%81%8E%E6%B8%A1%E6%9C%9F%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-11-03T09:39:57.266Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "受賄逾6750萬　東方航空集團原董事長劉紹勇受賄罪成判囚14年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194237626350047232591437.jpeg/QHEQxVSb1OCEou53bHcrFpmlUYmrGifMpYAS76WAEu8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60406436/%E9%A3%9B%E6%A9%9F%E4%B8%AD%E9%96%93%E4%BD%8D%E5%85%A9%E5%81%B4%E6%89%B6%E6%89%8B%E6%AD%B8%E8%AA%B0-%E7%A6%AE%E5%84%80%E5%B0%88%E5%AE%B6%E6%8F%AD%E6%BD%9B%E8%A6%8F%E5%89%87-3%E6%8B%9B%E9%98%B2%E7%B6%93%E6%BF%9F%E8%89%99%E7%97%87%E5%80%99%E7%BE%A4",
     "timestamp": "2026-11-03T04:16:41.018Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "10歲女童竟高182cm！進入｢猛長期｣每月高1cm　父親揭秘長高3關鍵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194247395248967680806315.jpeg/0EhWuY4KV-9zujnCiijhcdQqaJ15T67-CuYIPArmCDw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406485/10%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%AB%9F%E9%AB%98182cm-%E9%80%B2%E5%85%A5-%E7%8C%9B%E9%95%B7%E6%9C%9F-%E6%AF%8F%E6%9C%88%E9%AB%981cm-%E7%88%B6%E8%A6%AA%E6%8F%AD%E7%A7%98%E9%95%B7%E9%AB%983%E9%97%9C%E9%8D%B5",
-    "timestamp": "2026-11-03T03:53:27.165Z",
     "strategy": ".content-card__main"
   }
 ];
