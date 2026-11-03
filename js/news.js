@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T14:40:06.906Z
+// Last updated: 2026-11-03T15:18:04.776Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林愷鈴親證擁皇族血統　23歲胞弟引關注身高190cm讀法律文武雙全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194414719956422656795643.png/pEXBExVK23Ajeglqv6FQmgcbkADK_uxZ6CdxBugncQY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406829/%E6%9E%97%E6%84%B7%E9%88%B4%E8%A6%AA%E8%AD%89%E6%93%81%E7%9A%87%E6%97%8F%E8%A1%80%E7%B5%B1-23%E6%AD%B2%E8%83%9E%E5%BC%9F%E5%BC%95%E9%97%9C%E6%B3%A8%E8%BA%AB%E9%AB%98190cm%E8%AE%80%E6%B3%95%E5%BE%8B%E6%96%87%E6%AD%A6%E9%9B%99%E5%85%A8",
+    "timestamp": "2026-11-03T15:18:04.776Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蛇姬林采緹揭私密照外流內幕　18歲為生活拍攝　怕受困被迫就範",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194330808358277120708532.jpeg/0mF988_rb1g7EZAUaFBNQxGdli5OLf-31J4HktSeB5I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60406645/%E4%BD%B3%E5%AF%B6%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0%E5%85%A8%E5%A0%B48%E6%8A%98-%E4%B8%80%E9%80%A313%E6%97%A5%E5%A4%A7%E6%B8%9B%E5%83%B9-%E7%B3%A7%E6%B2%B9%E8%82%89%E9%A1%9E%E6%B5%B7%E9%AE%AE%E6%8E%83%E8%B2%A8%E6%94%BB%E7%95%A5",
     "timestamp": "2026-11-03T08:53:27.235Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "圍標隱蔽難查　議員倡學公屋打濫「篤灰有獎」　助搜情報",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176510697522335744503716.jpeg/iMW-dyYbPdvbjm3V5vOlRuzjT5avX_8GBHipcCF4qXA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406667/%E5%9C%8D%E6%A8%99%E9%9A%B1%E8%94%BD%E9%9B%A3%E6%9F%A5-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%AD%B8%E5%85%AC%E5%B1%8B%E6%89%93%E6%BF%AB-%E7%AF%A4%E7%81%B0%E6%9C%89%E7%8D%8E-%E5%8A%A9%E6%90%9C%E6%83%85%E5%A0%B1",
-    "timestamp": "2026-11-03T08:45:54.423Z",
     "strategy": ".content-card__main"
   }
 ];
