@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T17:13:56.605Z
+// Last updated: 2026-11-03T17:23:36.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧首度面對媒體爆料：媽媽為她流淚暴瘦20磅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193269311435706368695213.jpeg/LLP04cd1UeW7Hevjp3ejzHVPt6hg_iMle_1I5nv9SOY",
+    "url": "https://www.hk01.com/01TV/60405684/%E9%AB%98%E6%B5%B7%E5%AF%A7%E9%A6%96%E5%BA%A6%E9%9D%A2%E5%B0%8D%E5%AA%92%E9%AB%94%E7%88%86%E6%96%99-%E5%AA%BD%E5%AA%BD%E7%82%BA%E5%A5%B9%E6%B5%81%E6%B7%9A%E6%9A%B4%E7%98%A620%E7%A3%85",
+    "timestamp": "2026-11-03T17:23:36.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧首度面對媒體爆料：媽媽為她流淚暴瘦20磅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194366018026213376782493.jpeg/hiZbimpqI5hGPJfe2GK4s62ueLASyreD7Ieu5OyHruQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406774/%E9%98%AE%E6%B5%A9%E6%A3%95%E5%BF%83%E7%97%9B%E4%BD%95%E6%B2%9B%E7%8F%88%E7%8E%A9%E6%BB%91%E6%B0%B4%E6%A2%AF%E7%88%86%E5%96%8A%E8%A2%AB%E6%89%B9%E7%B6%A0%E8%8C%B6-%E4%BB%A3%E5%B9%B3%E5%8F%8D%E5%85%BC%E6%BE%84%E6%B8%85%E4%BA%8C%E4%BA%BA%E9%97%9C%E4%BF%82",
     "timestamp": "2026-11-03T11:24:11.483Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃澤林認愛譚旻萱　一段愛情竟有4個輸家！輸得最慘是JFFT床哥？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194357491064901632578601.jpeg/ar_SB58dIIez9fuzIlwTmMP1d0RyAVv-RYiZ-EWImfg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60406738/%E9%BB%83%E6%BE%A4%E6%9E%97%E8%AA%8D%E6%84%9B%E8%AD%9A%E6%97%BB%E8%90%B1-%E4%B8%80%E6%AE%B5%E6%84%9B%E6%83%85%E7%AB%9F%E6%9C%894%E5%80%8B%E8%BC%B8%E5%AE%B6-%E8%BC%B8%E5%BE%97%E6%9C%80%E6%85%98%E6%98%AFjfft%E5%BA%8A%E5%93%A5",
-    "timestamp": "2026-11-03T11:14:34.076Z",
     "strategy": ".content-card__main"
   }
 ];
