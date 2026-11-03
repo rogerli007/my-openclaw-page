@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T16:54:16.945Z
+// Last updated: 2026-11-03T17:13:56.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧首度面對媒體爆料：媽媽為她流淚暴瘦20磅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193269311435706368695213.jpeg/LLP04cd1UeW7Hevjp3ejzHVPt6hg_iMle_1I5nv9SOY",
+    "url": "https://www.hk01.com/01TV/60405684/%E9%AB%98%E6%B5%B7%E5%AF%A7%E9%A6%96%E5%BA%A6%E9%9D%A2%E5%B0%8D%E5%AA%92%E9%AB%94%E7%88%86%E6%96%99-%E5%AA%BD%E5%AA%BD%E7%82%BA%E5%A5%B9%E6%B5%81%E6%B7%9A%E6%9A%B4%E7%98%A620%E7%A3%85",
+    "timestamp": "2026-11-03T17:13:56.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Binance幣安被盜63億美元破紀錄　指虛假面試與AI工具遭入侵所致",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194357491064901632578601.jpeg/ar_SB58dIIez9fuzIlwTmMP1d0RyAVv-RYiZ-EWImfg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60406738/%E9%BB%83%E6%BE%A4%E6%9E%97%E8%AA%8D%E6%84%9B%E8%AD%9A%E6%97%BB%E8%90%B1-%E4%B8%80%E6%AE%B5%E6%84%9B%E6%83%85%E7%AB%9F%E6%9C%894%E5%80%8B%E8%BC%B8%E5%AE%B6-%E8%BC%B8%E5%BE%97%E6%9C%80%E6%85%98%E6%98%AFjfft%E5%BA%8A%E5%93%A5",
     "timestamp": "2026-11-03T11:14:34.076Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ATP台北挑戰賽︱黃澤林今季最後一擊列頭號種子 輕取黃琮豪晉16強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194356021238173696954630.jpeg/A6peJ82nB5nGqlCwHsWNlyAjUqg4ZlgW6SM8LtMjPC4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406762/atp%E5%8F%B0%E5%8C%97%E6%8C%91%E6%88%B0%E8%B3%BD-%E9%BB%83%E6%BE%A4%E6%9E%97%E4%BB%8A%E5%AD%A3%E6%9C%80%E5%BE%8C%E4%B8%80%E6%93%8A%E5%88%97%E9%A0%AD%E8%99%9F%E7%A8%AE%E5%AD%90-%E8%BC%95%E5%8F%96%E9%BB%83%E7%90%AE%E8%B1%AA%E6%99%8916%E5%BC%B7",
-    "timestamp": "2026-11-03T10:59:09.580Z",
     "strategy": ".content-card__main"
   }
 ];
