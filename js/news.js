@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T14:14:44.779Z
+// Last updated: 2026-11-03T14:40:06.906Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蛇姬林采緹揭私密照外流內幕　18歲為生活拍攝　怕受困被迫就範",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193979469061165056217463.png/BYIYFqLZ1kSpEYu3HJd6-PTd2sskP6bv-iNHDfojRw0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60406295/%E8%9B%87%E5%A7%AC%E6%9E%97%E9%87%87%E7%B7%B9%E6%8F%AD%E7%A7%81%E5%AF%86%E7%85%A7%E5%A4%96%E6%B5%81%E5%85%A7%E5%B9%95-18%E6%AD%B2%E7%82%BA%E7%94%9F%E6%B4%BB%E6%8B%8D%E6%94%9D-%E6%80%95%E5%8F%97%E5%9B%B0%E8%A2%AB%E8%BF%AB%E5%B0%B1%E7%AF%84",
+    "timestamp": "2026-11-03T14:40:06.906Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱與內塔尼亞胡達共識　年底將結束每年軍援以色列40億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260915/1176510697522335744503716.jpeg/iMW-dyYbPdvbjm3V5vOlRuzjT5avX_8GBHipcCF4qXA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60406667/%E5%9C%8D%E6%A8%99%E9%9A%B1%E8%94%BD%E9%9B%A3%E6%9F%A5-%E8%AD%B0%E5%93%A1%E5%80%A1%E5%AD%B8%E5%85%AC%E5%B1%8B%E6%89%93%E6%BF%AB-%E7%AF%A4%E7%81%B0%E6%9C%89%E7%8D%8E-%E5%8A%A9%E6%90%9C%E6%83%85%E5%A0%B1",
     "timestamp": "2026-11-03T08:45:54.423Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日女偶像突腦中風險死！重度癱瘓遭斷言恢復無望　今逆轉變治療師",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194305363545952256281593.jpeg/b49VGH6-LYwJIlP8ZMPYeGFvdpge-EJ7IyOf_yMjn_8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60406596/%E6%97%A5%E5%A5%B3%E5%81%B6%E5%83%8F%E7%AA%81%E8%85%A6%E4%B8%AD%E9%A2%A8%E9%9A%AA%E6%AD%BB-%E9%87%8D%E5%BA%A6%E7%99%B1%E7%98%93%E9%81%AD%E6%96%B7%E8%A8%80%E6%81%A2%E5%BE%A9%E7%84%A1%E6%9C%9B-%E4%BB%8A%E9%80%86%E8%BD%89%E8%AE%8A%E6%B2%BB%E7%99%82%E5%B8%AB",
-    "timestamp": "2026-11-03T08:19:35.885Z",
     "strategy": ".content-card__main"
   }
 ];
