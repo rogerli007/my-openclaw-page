@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T15:55:11.463Z
+// Last updated: 2026-11-03T16:15:59.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜高海寧誘吳卓羲床戰　再屈強姦留「重要物證」極狗血",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194434281435303936150472.jpeg/ddnqSRlOMxcEzn3MqN6VmykD1mfu3OMheLl0Qni5dEI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406844/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%AA%98%E5%90%B3%E5%8D%93%E7%BE%B2%E5%BA%8A%E6%88%B0-%E5%86%8D%E5%B1%88%E5%BC%B7%E5%A7%A6%E7%95%99-%E9%87%8D%E8%A6%81%E7%89%A9%E8%AD%89-%E6%A5%B5%E7%8B%97%E8%A1%80",
+    "timestamp": "2026-11-03T16:15:59.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青奧2026｜文薈喬100蛙後上摘銅　何詩蓓後首泳手登頒獎台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194328527135051776398467.png/bBVtTGnjmRwJZ9gg8HWTfIuTvBdBxKftej82K3o_Nis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406662/%E5%A4%A7%E7%86%8A%E8%B2%93%E8%8A%B1%E8%8A%B1%E5%90%90%E7%99%BD%E6%B2%AB%E8%88%94%E8%85%B3%E7%96%91%E7%8F%BE%E5%88%BB%E6%9D%BF%E8%A1%8C%E7%82%BA-%E6%88%90%E9%83%BD%E5%9F%BA%E5%9C%B0%E6%8F%AD%E6%8F%9B%E9%A3%9F%E9%81%8E%E6%B8%A1%E6%9C%9F%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-11-03T09:39:57.266Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "受賄逾6750萬　東方航空集團原董事長劉紹勇受賄罪成判囚14年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194339388121681920957026.jpeg/l94E6gT4N-Mzwe_hN8LvZhfqzab6J9l8cRzs13Ec7Nc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60406717/%E5%8F%97%E8%B3%84%E9%80%BE6750%E8%90%AC-%E6%9D%B1%E6%96%B9%E8%88%AA%E7%A9%BA%E9%9B%86%E5%9C%98%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%B7%E5%8A%89%E7%B4%B9%E5%8B%87%E5%8F%97%E8%B3%84%E7%BD%AA%E6%88%90%E5%88%A4%E5%9B%9A14%E5%B9%B4",
-    "timestamp": "2026-11-03T09:25:52.369Z",
     "strategy": ".content-card__main"
   }
 ];
