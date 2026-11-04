@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T15:15:10.103Z
+// Last updated: 2026-11-04T15:24:32.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中大法律學院與上海市司法局簽署備忘錄　探索法律人才培養新模式",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194786684387332096691273.jpeg/oHWswSkw86t_8R8x3gMAwwSMlPRVJPVIJT3wDiU98A4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60407270/%E4%B8%AD%E5%A4%A7%E6%B3%95%E5%BE%8B%E5%AD%B8%E9%99%A2%E8%88%87%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%8F%B8%E6%B3%95%E5%B1%80%E7%B0%BD%E7%BD%B2%E5%82%99%E5%BF%98%E9%8C%84-%E6%8E%A2%E7%B4%A2%E6%B3%95%E5%BE%8B%E4%BA%BA%E6%89%8D%E5%9F%B9%E9%A4%8A%E6%96%B0%E6%A8%A1%E5%BC%8F",
+    "timestamp": "2026-11-04T15:24:32.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜美民主黨中期選舉大勝　道指早段飆1200點　納指漲逾2%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194267341714624512190438.jpeg/REzSjG5XOI--myjTu_fv55XXPB0R9ZIj4nI3sOJyN7A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60403921/%E9%9B%9911%E5%84%AA%E6%83%A02026-20-%E7%B6%B2%E8%B3%BC%E5%84%AA%E6%83%A0%E7%A2%BC%E5%90%88%E9%9B%86-iherb-lululemon-nike-%E8%B1%90%E6%BE%A4",
     "timestamp": "2026-11-04T07:53:45.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國漢寄數百封粉末信恐嚇官員　FBI追查兩年終落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241202/940227066677170176246930.jpeg/zW6uJDckhzm3D_e1RU47UMwYxu7r4-lLHmONfx5jjX8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407070/%E7%BE%8E%E5%9C%8B%E6%BC%A2%E5%AF%84%E6%95%B8%E7%99%BE%E5%B0%81%E7%B2%89%E6%9C%AB%E4%BF%A1%E6%81%90%E5%9A%87%E5%AE%98%E5%93%A1-fbi%E8%BF%BD%E6%9F%A5%E5%85%A9%E5%B9%B4%E7%B5%82%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-11-04T07:26:48.119Z",
     "strategy": ".content-card__main"
   }
 ];
