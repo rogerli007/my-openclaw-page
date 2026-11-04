@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T22:39:22.524Z
+// Last updated: 2026-11-04T22:55:03.384Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳妙瑛相約胡楓羅蘭茶聚　被爆「大笑姑婆」真面目凍齡狀態極驚人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194760378358173696016935.jpeg/CcrQJ5BzBlgtLN_hNywimmcIqRKg9AOA3RHhy90R4cs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407124/%E9%99%B3%E5%A6%99%E7%91%9B%E7%9B%B8%E7%B4%84%E8%83%A1%E6%A5%93%E7%BE%85%E8%98%AD%E8%8C%B6%E8%81%9A-%E8%A2%AB%E7%88%86-%E5%A4%A7%E7%AC%91%E5%A7%91%E5%A9%86-%E7%9C%9F%E9%9D%A2%E7%9B%AE%E5%87%8D%E9%BD%A1%E7%8B%80%E6%85%8B%E6%A5%B5%E9%A9%9A%E4%BA%BA",
+    "timestamp": "2026-11-04T22:55:03.384Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳妙瑛相約胡楓羅蘭茶聚　被爆「大笑姑婆」真面目凍齡狀態極驚人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194820513118031872862149.jpeg/0-3VuYU06aEWGRiOKEtwzCLNAAusPvtEtfX4rbX1-K0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405198/1-08%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%85%A8%E9%A4%90%E5%A5%87%E6%8B%9B-220%E8%B2%B7%E9%BD%8A49%E5%80%8B%E8%99%9F%E7%A2%BC-%E9%81%8E%E4%BE%86%E4%BA%BA%E5%AF%A6%E6%B8%AC-%E8%BC%83%E5%AE%B9%E6%98%93%E4%B8%AD",
     "timestamp": "2026-11-04T17:53:36.516Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "$1.08億六合彩全餐奇招│$220買齊49個號碼！過來人實測：較容易中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194820513118031872862149.jpeg/0-3VuYU06aEWGRiOKEtwzCLNAAusPvtEtfX4rbX1-K0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405198/1-08%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%85%A8%E9%A4%90%E5%A5%87%E6%8B%9B-220%E8%B2%B7%E9%BD%8A49%E5%80%8B%E8%99%9F%E7%A2%BC-%E9%81%8E%E4%BE%86%E4%BA%BA%E5%AF%A6%E6%B8%AC-%E8%BC%83%E5%AE%B9%E6%98%93%E4%B8%AD",
-    "timestamp": "2026-11-04T17:39:43.502Z",
     "strategy": ".content-card__main"
   }
 ];
