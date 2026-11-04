@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T19:12:50.656Z
+// Last updated: 2026-11-04T19:23:50.246Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上水醉漢涉用瓷磚施襲被捕　陌生男臉嘴受傷　兩人齊送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194847146562555904965203.jpeg/b2rtaSbxnUZQU5fMvxZeric2jVa4oA7ayygGK_EoBis?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407292/%E4%B8%8A%E6%B0%B4%E9%86%89%E6%BC%A2%E6%B6%89%E7%94%A8%E7%93%B7%E7%A3%9A%E6%96%BD%E8%A5%B2%E8%A2%AB%E6%8D%95-%E9%99%8C%E7%94%9F%E7%94%B7%E8%87%89%E5%98%B4%E5%8F%97%E5%82%B7-%E5%85%A9%E4%BA%BA%E9%BD%8A%E9%80%81%E9%99%A2",
+    "timestamp": "2026-11-04T19:23:50.246Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "以色列大選｜總統接選舉正式結果　將就組閣與各政黨展開磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194751364014542848917532.jpeg/UXHs8PEyxvF8b4mcJbfVYDUkRPduZqD0OGeoxzhnqMc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407241/%E8%B7%A8%E5%A2%83%E7%99%BD%E7%89%8C%E8%BB%8A-%E8%AD%A6%E4%B8%80%E5%91%A8%E6%8B%987%E5%8F%B8%E6%A9%9F-%E8%8D%83%E7%81%A3%E5%BE%80%E6%BE%B3%E9%96%80%E7%B4%A2-1550-%E5%85%A7%E5%9C%B0%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-04T13:45:54.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "衛詩雅自爆結婚非為浪漫沖昏頭　揭真實內幕：防突然昏迷需人簽字",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194699575865118720836125.jpeg/00vZqZwFgoXTTNOiKbYxUxgBUrQsuWA4oh_ugqIf7oI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406968/%E8%A1%9B%E8%A9%A9%E9%9B%85%E8%87%AA%E7%88%86%E7%B5%90%E5%A9%9A%E9%9D%9E%E7%82%BA%E6%B5%AA%E6%BC%AB%E6%B2%96%E6%98%8F%E9%A0%AD-%E6%8F%AD%E7%9C%9F%E5%AF%A6%E5%85%A7%E5%B9%95-%E9%98%B2%E7%AA%81%E7%84%B6%E6%98%8F%E8%BF%B7%E9%9C%80%E4%BA%BA%E7%B0%BD%E5%AD%97",
-    "timestamp": "2026-11-04T13:19:51.156Z",
     "strategy": ".content-card__main"
   }
 ];
