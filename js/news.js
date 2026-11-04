@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T23:23:29.674Z
+// Last updated: 2026-11-04T23:38:58.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "練樂儀海景慶生四大男神包圍　關經翰企C位爆戀情自曝單身十年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194749838080610304954310.jpeg/KBX-qKthWxR3piqPyoSyKd89szIvXF4LUr1yxVK9csU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407235/%E7%B7%B4%E6%A8%82%E5%84%80%E6%B5%B7%E6%99%AF%E6%85%B6%E7%94%9F%E5%9B%9B%E5%A4%A7%E7%94%B7%E7%A5%9E%E5%8C%85%E5%9C%8D-%E9%97%9C%E7%B6%93%E7%BF%B0%E4%BC%81c%E4%BD%8D-%E7%88%86%E6%88%80%E6%83%85%E8%87%AA%E6%9B%9D%E5%96%AE%E8%BA%AB%E5%8D%81%E5%B9%B4",
+    "timestamp": "2026-11-04T23:38:58.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國女飛行員失蹤89年　衛星照現神秘黑影　探險隊遠赴荒島解密",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-11-04T18:40:40.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡塞武裝空襲也門政府軍新兵營　據指至少25死數十人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-11-04T18:26:26.154Z",
     "strategy": ".content-card__main"
   }
 ];
