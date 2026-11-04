@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T23:38:58.509Z
+// Last updated: 2026-11-04T23:59:06.958Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜張曦雯徹底黑化大暴走　高海寧被撞到飛起圍著車翻滾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194790901860274176645789.jpeg/oNMYfF92e_6rTotYrujeV9R_t7ZUm5JbAm1iSQJtYkk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407271/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E5%BE%B9%E5%BA%95%E9%BB%91%E5%8C%96%E5%A4%A7%E6%9A%B4%E8%B5%B0-%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A2%AB%E6%92%9E%E5%88%B0%E9%A3%9B%E8%B5%B7%E5%9C%8D%E8%91%97%E8%BB%8A%E7%BF%BB%E6%BB%BE",
+    "timestamp": "2026-11-04T23:59:06.958Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "練樂儀海景慶生四大男神包圍　關經翰企C位爆戀情自曝單身十年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-11-04T18:54:27.539Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡塞武裝空襲也門政府軍新兵營　據指至少25死數十人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-11-04T18:40:40.114Z",
     "strategy": ".content-card__main"
   }
 ];
