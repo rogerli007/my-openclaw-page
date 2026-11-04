@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T17:39:43.502Z
+// Last updated: 2026-11-04T17:53:36.516Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "$1.08億六合彩全餐奇招│$220買齊49個號碼！過來人實測：較容易中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194820513118031872862149.jpeg/0-3VuYU06aEWGRiOKEtwzCLNAAusPvtEtfX4rbX1-K0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405198/1-08%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%85%A8%E9%A4%90%E5%A5%87%E6%8B%9B-220%E8%B2%B7%E9%BD%8A49%E5%80%8B%E8%99%9F%E7%A2%BC-%E9%81%8E%E4%BE%86%E4%BA%BA%E5%AF%A6%E6%B8%AC-%E8%BC%83%E5%AE%B9%E6%98%93%E4%B8%AD",
+    "timestamp": "2026-11-04T17:53:36.516Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "$1.08億六合彩全餐奇招│$220買齊49個號碼！過來人實測：較容易中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194702658405928960479150.jpeg/69hSUrVZOUgnCcuob6YNr6twmT2FCWzTvP6Zerz-mXo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407169/%E5%8D%B0%E5%B0%BC%E7%88%86%E7%AB%8A%E8%81%BD%E7%B8%BD%E7%B5%B1%E9%80%9A%E8%A8%8A%E6%A1%88-%E8%AD%A6%E5%AF%9F%E7%B8%BD%E9%95%B7%E6%B6%89%E7%9B%A3%E8%81%BD%E6%99%AE%E6%8B%89%E5%8D%9A%E6%B2%83%E7%AD%89%E9%AB%98%E5%AE%98%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-04T10:53:50.019Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone驚現-32℃極寒預警！離奇撞正1960年末日預言！網：AI劇成真",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194698354739646464350721.jpeg/8YlnVCJyH6ZJTRnRPa1wSQsoMEM6Wu0CpnQ7I6Z0OyM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60407016/iphone%E9%A9%9A%E7%8F%BE-32-%E6%A5%B5%E5%AF%92%E9%A0%90%E8%AD%A6-%E9%9B%A2%E5%A5%87%E6%92%9E%E6%AD%A31960%E5%B9%B4%E6%9C%AB%E6%97%A5%E9%A0%90%E8%A8%80-%E7%B6%B2-ai%E5%8A%87%E6%88%90%E7%9C%9F",
-    "timestamp": "2026-11-04T10:40:15.248Z",
     "strategy": ".content-card__main"
   }
 ];
