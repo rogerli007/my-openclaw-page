@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T21:53:21.756Z
+// Last updated: 2026-11-04T22:13:07.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉緯民爆影帝曾欠近億債務　為還錢變賣家產再不停拍戲終還清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194720952500359168475930.jpeg/TkBiUM2U_pur_CdvR69udqY63xZEI2HUEOSLVxDki1c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407146/%E5%8A%89%E7%B7%AF%E6%B0%91%E7%88%86%E5%BD%B1%E5%B8%9D%E6%9B%BE%E6%AC%A0%E8%BF%91%E5%84%84%E5%82%B5%E5%8B%99-%E7%82%BA%E9%82%84%E9%8C%A2%E8%AE%8A%E8%B3%A3%E5%AE%B6%E7%94%A2%E5%86%8D%E4%B8%8D%E5%81%9C%E6%8B%8D%E6%88%B2%E7%B5%82%E9%82%84%E6%B8%85",
+    "timestamp": "2026-11-04T22:13:07.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網傳觀塘工廈垃圾箱有鼠群出沒　01直擊老鼠亂竄　籠內有鼠｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194815612304494592284760.jpeg/DWgGQu3gBvsOSNeVeRNFwkoPeIIQIdaJ9UzCgPVMwoA",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407282/%E6%B8%AF%E9%90%B5%E5%A4%A7%E7%AA%A9%E5%8F%A3%E7%AB%99%E8%80%81%E9%BC%A0%E5%A5%94%E8%B7%91-%E7%8B%82%E8%B7%B3%E6%A8%93%E6%A2%AF%E8%BA%AB%E6%89%8B%E6%95%8F%E6%8D%B7-%E7%9B%AE%E6%93%8A%E8%80%85-%E7%99%A1%E7%B7%9A%E3%97%8E-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-04T17:13:16.635Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "單車男闖入大埔運動場　跑道變單車徑　無視跑友照狂飆捱批｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194791659586457600438601.jpeg/ogbhrWIum53WZN5uYXEBjC7LBLHair_KmBKRNJgSkTQ",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407269/%E5%96%AE%E8%BB%8A%E7%94%B7%E9%97%96%E5%85%A5%E5%A4%A7%E5%9F%94%E9%81%8B%E5%8B%95%E5%A0%B4-%E8%B7%91%E9%81%93%E8%AE%8A%E5%96%AE%E8%BB%8A%E5%BE%91-%E7%84%A1%E8%A6%96%E8%B7%91%E5%8F%8B%E7%85%A7%E7%8B%82%E9%A3%86%E6%8D%B1%E6%89%B9-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-04T16:39:59.911Z",
     "strategy": ".content-card__main"
   }
 ];
