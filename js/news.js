@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T17:24:02.651Z
+// Last updated: 2026-11-04T17:39:43.502Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "$1.08億六合彩全餐奇招│$220買齊49個號碼！過來人實測：較容易中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194820513118031872862149.jpeg/0-3VuYU06aEWGRiOKEtwzCLNAAusPvtEtfX4rbX1-K0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405198/1-08%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%85%A8%E9%A4%90%E5%A5%87%E6%8B%9B-220%E8%B2%B7%E9%BD%8A49%E5%80%8B%E8%99%9F%E7%A2%BC-%E9%81%8E%E4%BE%86%E4%BA%BA%E5%AF%A6%E6%B8%AC-%E8%BC%83%E5%AE%B9%E6%98%93%E4%B8%AD",
+    "timestamp": "2026-11-04T17:39:43.502Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "$1.08億六合彩全餐奇招│$220買齊49個號碼！過來人實測：較容易中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194698354739646464350721.jpeg/8YlnVCJyH6ZJTRnRPa1wSQsoMEM6Wu0CpnQ7I6Z0OyM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60407016/iphone%E9%A9%9A%E7%8F%BE-32-%E6%A5%B5%E5%AF%92%E9%A0%90%E8%AD%A6-%E9%9B%A2%E5%A5%87%E6%92%9E%E6%AD%A31960%E5%B9%B4%E6%9C%AB%E6%97%A5%E9%A0%90%E8%A8%80-%E7%B6%B2-ai%E5%8A%87%E6%88%90%E7%9C%9F",
     "timestamp": "2026-11-04T10:40:15.248Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東京車站手信2026｜10大人氣伴手禮＋車站限定推介　附購買地址",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194710373857497088975623.jpeg/DJY32a8BQiLU6u55yTaVi7NkYCzkgfE3kHyB9ZB8gfU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407181/%E6%9D%B1%E4%BA%AC%E8%BB%8A%E7%AB%99%E6%89%8B%E4%BF%A12026-10%E5%A4%A7%E4%BA%BA%E6%B0%A3%E4%BC%B4%E6%89%8B%E7%A6%AE-%E8%BB%8A%E7%AB%99%E9%99%90%E5%AE%9A%E6%8E%A8%E4%BB%8B-%E9%99%84%E8%B3%BC%E8%B2%B7%E5%9C%B0%E5%9D%80",
-    "timestamp": "2026-11-04T10:15:48.560Z",
     "strategy": ".content-card__main"
   }
 ];
