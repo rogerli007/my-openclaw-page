@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T15:55:21.981Z
+// Last updated: 2026-11-04T16:23:34.167Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "單車男闖入大埔運動場　跑道變單車徑　無視跑友照狂飆捱批｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194791659586457600438601.jpeg/ogbhrWIum53WZN5uYXEBjC7LBLHair_KmBKRNJgSkTQ",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407269/%E5%96%AE%E8%BB%8A%E7%94%B7%E9%97%96%E5%85%A5%E5%A4%A7%E5%9F%94%E9%81%8B%E5%8B%95%E5%A0%B4-%E8%B7%91%E9%81%93%E8%AE%8A%E5%96%AE%E8%BB%8A%E5%BE%91-%E7%84%A1%E8%A6%96%E8%B7%91%E5%8F%8B%E7%85%A7%E7%8B%82%E9%A3%86%E6%8D%B1%E6%89%B9-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-04T16:23:34.167Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：特朗普政府與委內瑞拉磋商SOFA協定　為長期駐軍鋪路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194683582661005312450178.jpeg/8ySvriXJjmdDAeEchHCJKF9fkli4Xc0XkpF_2pKRf9o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60406760/%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E6%83%A0%E5%BA%B7-%E7%99%BE%E4%BD%B3%E5%85%A8%E5%A0%B488%E6%8A%98-%E4%BD%B3%E5%AE%9D8%E6%8A%98-%E5%B4%87%E5%85%89%E6%84%9F%E8%AC%9D%E7%A5%AD23%E6%8A%98%E8%B5%B7-%E5%84%AA%E6%83%A0%E7%A2%BC",
     "timestamp": "2026-11-04T08:39:42.477Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "媽樣年華｜影評批保守沒激發「戀母狂亂倫衝動」　導演︰深感愕然",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194681651838324736473215.jpeg/qWvk9rGD2nlhinj0OaoHWdy4lzy5dBvRwj2tzMI9rcw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407050/%E5%AA%BD%E6%A8%A3%E5%B9%B4%E8%8F%AF-%E5%BD%B1%E8%A9%95%E6%89%B9%E4%BF%9D%E5%AE%88%E6%B2%92%E6%BF%80%E7%99%BC-%E6%88%80%E6%AF%8D%E7%8B%82%E4%BA%82%E5%80%AB%E8%A1%9D%E5%8B%95-%E5%B0%8E%E6%BC%94-%E6%B7%B1%E6%84%9F%E6%84%95%E7%84%B6",
-    "timestamp": "2026-11-04T08:24:12.687Z",
     "strategy": ".content-card__main"
   }
 ];
