@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T03:26:31.521Z
+// Last updated: 2026-11-04T03:40:16.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華為發布Fintelligent AI　推動金融業邁向Agentic Finance",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194601001806467072346518.jpeg/rP1NmMzadql0iSoz4rITbBdTfXVoNUHRDYBMBA2ATAQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60406936/%E8%8F%AF%E7%82%BA%E7%99%BC%E5%B8%83fintelligent-ai-%E6%8E%A8%E5%8B%95%E9%87%91%E8%9E%8D%E6%A5%AD%E9%82%81%E5%90%91agentic-finance",
+    "timestamp": "2026-11-04T03:40:16.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "引國際經驗提升港ETF市場生態圈　Global X ︰推動良性循環",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
     "timestamp": "2026-11-03T21:13:20.633Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜紐約州威徹斯特縣投票機故障　25萬張選票無法掃描",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194494730285617152027539.jpeg/hRq9v7CfkOlbRwb5yiUmwxJj0mXRq7Ho70ol7u9KJe4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406868/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%B4%90%E7%B4%84%E5%B7%9E%E5%A8%81%E5%BE%B9%E6%96%AF%E7%89%B9%E7%B8%A3%E6%8A%95%E7%A5%A8%E6%A9%9F%E6%95%85%E9%9A%9C-25%E8%90%AC%E5%BC%B5%E9%81%B8%E7%A5%A8%E7%84%A1%E6%B3%95%E6%8E%83%E6%8F%8F",
-    "timestamp": "2026-11-03T20:53:38.314Z",
     "strategy": ".content-card__main"
   }
 ];
