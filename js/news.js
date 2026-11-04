@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T19:53:23.720Z
+// Last updated: 2026-11-04T20:29:26.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧親人連續離世：受到嚴重打擊遭心理創傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256817170321408456231.png/ianLExMhGmMlSuAcXfJotZtphdGT7U0Kqw1AuqsNQLo",
+    "url": "https://www.hk01.com/01TV/60405655/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E4%BA%BA%E9%80%A3%E7%BA%8C%E9%9B%A2%E4%B8%96-%E5%8F%97%E5%88%B0%E5%9A%B4%E9%87%8D%E6%89%93%E6%93%8A%E9%81%AD%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7",
+    "timestamp": "2026-11-04T20:29:26.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜利物浦作客2：3不敵費倫巴治　皇馬作客3：2勝AEK雅典",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188380153835687936726485.jpeg/ak6XT3aXY0ld3yy_nsNnco_tDgSf8foWjxKEZ48ShGc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60407250/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E5%BE%B7%E5%B7%9E%E4%B9%9F%E8%AE%8A%E5%A4%A9-%E9%A6%AC%E6%96%AF%E5%85%8B%E6%B7%AA-%E8%BC%B8%E5%AE%B6-spacex%E6%80%A5%E6%8C%AB%E9%80%BE5",
     "timestamp": "2026-11-04T14:40:16.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鍾志光拜祭黎彼得晒靈龕照14字哀悼故友　網民大讚有情有義",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194775456973328384841256.jpeg/qvNvnvRBJPs_Ke9AnHQA1OsO4fDK6PGud-mpBnfpqQY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407259/%E9%8D%BE%E5%BF%97%E5%85%89%E6%8B%9C%E7%A5%AD%E9%BB%8E%E5%BD%BC%E5%BE%97%E6%99%92%E9%9D%88%E9%BE%95%E7%85%A714%E5%AD%97%E5%93%80%E6%82%BC%E6%95%85%E5%8F%8B-%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E6%9C%89%E6%83%85%E6%9C%89%E7%BE%A9",
-    "timestamp": "2026-11-04T14:25:27.805Z",
     "strategy": ".content-card__main"
   }
 ];
