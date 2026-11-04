@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T22:55:03.384Z
+// Last updated: 2026-11-04T23:13:43.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI教育共享｜當AI無所不知之時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193959472704262144348172.jpeg/qPOo09DMVBiVkNSYFe1-anlL-PyOe1SqiY9tE4mPbRM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60404581/ai%E6%95%99%E8%82%B2%E5%85%B1%E4%BA%AB-%E7%95%B6ai%E7%84%A1%E6%89%80%E4%B8%8D%E7%9F%A5%E4%B9%8B%E6%99%82",
+    "timestamp": "2026-11-04T23:13:43.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳妙瑛相約胡楓羅蘭茶聚　被爆「大笑姑婆」真面目凍齡狀態極驚人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-11-04T18:16:50.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "$1.08億六合彩全餐奇招│$220買齊49個號碼！過來人實測：較容易中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194820513118031872862149.jpeg/0-3VuYU06aEWGRiOKEtwzCLNAAusPvtEtfX4rbX1-K0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405198/1-08%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%85%A8%E9%A4%90%E5%A5%87%E6%8B%9B-220%E8%B2%B7%E9%BD%8A49%E5%80%8B%E8%99%9F%E7%A2%BC-%E9%81%8E%E4%BE%86%E4%BA%BA%E5%AF%A6%E6%B8%AC-%E8%BC%83%E5%AE%B9%E6%98%93%E4%B8%AD",
-    "timestamp": "2026-11-04T17:53:36.516Z",
     "strategy": ".content-card__main"
   }
 ];
