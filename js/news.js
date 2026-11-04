@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-03T23:40:22.549Z
+// Last updated: 2026-11-04T00:29:48.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "比亞迪巴西市場份額一年翻倍　10月註冊量按年增137.6%｜企業出海",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114609208671604736536914.png/wJNKucdErtG5wmRQdTjwn9ceI237ZM4J_pGbk_6Rm5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406879/%E6%AF%94%E4%BA%9E%E8%BF%AA%E5%B7%B4%E8%A5%BF%E5%B8%82%E5%A0%B4%E4%BB%BD%E9%A1%8D%E4%B8%80%E5%B9%B4%E7%BF%BB%E5%80%8D-10%E6%9C%88%E8%A8%BB%E5%86%8A%E9%87%8F%E6%8C%89%E5%B9%B4%E5%A2%9E137-6-%E4%BC%81%E6%A5%AD%E5%87%BA%E6%B5%B7",
+    "timestamp": "2026-11-04T00:29:48.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘇軾文章寫太好才沒當上狀元？　歐陽修評卷有段故事｜歷史奇趣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194476862319890432237961.jpeg/xEpUssjpAxKdrn70OZ4c9JPqnGqoZMiObJEJ8GyRCfA",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406856/%E7%B6%B2%E5%82%B3%E5%8D%97%E4%BA%9E%E5%B9%AB%E4%B8%8A%E9%96%80%E5%8A%AB%E8%B2%A1-10%E5%A4%9A%E4%BA%BA%E7%8B%B9%E7%AA%84%E5%96%AE%E4%BD%8D%E4%BA%82%E6%88%B0%E5%9B%B0%E7%8D%B8%E9%AC%A5-mma%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
     "timestamp": "2026-11-03T18:53:58.775Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲至少7班航機接獲炸彈恐嚇　降落後均無發現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194467799724986368695308.jpeg/6ZXbE6qqpKLAYa2KCuKa9YFEiG5tQZlJuwUzTbsFM00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406855/%E6%AD%90%E6%B4%B2%E8%87%B3%E5%B0%917%E7%8F%AD%E8%88%AA%E6%A9%9F%E6%8E%A5%E7%8D%B2%E7%82%B8%E5%BD%88%E6%81%90%E5%9A%87-%E9%99%8D%E8%90%BD%E5%BE%8C%E5%9D%87%E7%84%A1%E7%99%BC%E7%8F%BE",
-    "timestamp": "2026-11-03T18:40:13.161Z",
     "strategy": ".content-card__main"
   }
 ];
