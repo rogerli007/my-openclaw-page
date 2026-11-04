@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T09:27:04.044Z
+// Last updated: 2026-11-04T10:15:48.560Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東京車站手信2026｜10大人氣伴手禮＋車站限定推介　附購買地址",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194710373857497088975623.jpeg/DJY32a8BQiLU6u55yTaVi7NkYCzkgfE3kHyB9ZB8gfU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407181/%E6%9D%B1%E4%BA%AC%E8%BB%8A%E7%AB%99%E6%89%8B%E4%BF%A12026-10%E5%A4%A7%E4%BA%BA%E6%B0%A3%E4%BC%B4%E6%89%8B%E7%A6%AE-%E8%BB%8A%E7%AB%99%E9%99%90%E5%AE%9A%E6%8E%A8%E4%BB%8B-%E9%99%84%E8%B3%BC%E8%B2%B7%E5%9C%B0%E5%9D%80",
+    "timestamp": "2026-11-04T10:15:48.560Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉‧最新｜民主黨贏開巷取6搖擺州　誕首位穆斯林參議員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181654994068180992346921.jpeg/1LD5gfew6B_yg3aDkGN7WRdpqkumXhKbd5w033ecNN8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394899/%E7%BE%8E%E5%9C%8B%E8%BB%8A%E7%89%8C%E7%94%A8%E8%BE%B1%E8%8F%AF%E5%AD%97%E7%9C%BC-ch-nk-%E7%AB%9F%E9%81%8E%E5%AF%A9-%E6%96%B0%E5%86%A0%E6%99%82%E5%B0%8D%E4%BA%9E%E8%A3%94%E7%9A%84%E6%AD%A7%E8%A6%96%E4%BB%8D%E6%9C%AA%E6%B6%88",
     "timestamp": "2026-11-04T01:53:37.790Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國車牌用辱華字眼「CH*NK」竟過審　新冠時對亞裔的歧視仍未消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181654994068180992346921.jpeg/1LD5gfew6B_yg3aDkGN7WRdpqkumXhKbd5w033ecNN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394899/%E7%BE%8E%E5%9C%8B%E8%BB%8A%E7%89%8C%E7%94%A8%E8%BE%B1%E8%8F%AF%E5%AD%97%E7%9C%BC-ch-nk-%E7%AB%9F%E9%81%8E%E5%AF%A9-%E6%96%B0%E5%86%A0%E6%99%82%E5%B0%8D%E4%BA%9E%E8%A3%94%E7%9A%84%E6%AD%A7%E8%A6%96%E4%BB%8D%E6%9C%AA%E6%B6%88",
-    "timestamp": "2026-11-04T01:41:57.070Z",
     "strategy": ".content-card__main"
   }
 ];
