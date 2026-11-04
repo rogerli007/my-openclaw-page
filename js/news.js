@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T01:53:37.790Z
+// Last updated: 2026-11-04T02:17:43.502Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯球評︱曼聯熱血反勝羅馬4點觀察　能否真正反彈還看心理層面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194585318376869888917260.jpeg/Fz3mOVRnFJhjKZoUthfING_1UsW1Hkwlm-0agJvtGoA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406895/%E6%AD%90%E8%81%AF%E7%90%83%E8%A9%95-%E6%9B%BC%E8%81%AF%E7%86%B1%E8%A1%80%E5%8F%8D%E5%8B%9D%E7%BE%85%E9%A6%AC4%E9%BB%9E%E8%A7%80%E5%AF%9F-%E8%83%BD%E5%90%A6%E7%9C%9F%E6%AD%A3%E5%8F%8D%E5%BD%88%E9%82%84%E7%9C%8B%E5%BF%83%E7%90%86%E5%B1%A4%E9%9D%A2",
+    "timestamp": "2026-11-04T02:17:43.502Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國車牌用辱華字眼「CH*NK」竟過審　新冠時對亞裔的歧視仍未消",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170067481067261952693170.jpeg/_yC_RhoPcHJTNoQyvWjx8VYpZbQPTIH5yLhyDci4cg0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406867/%E8%B7%AF%E9%80%8F-%E7%BE%8E%E4%BC%8A%E5%B0%B1%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E4%BB%8D%E6%9C%89%E5%A4%A7%E6%AE%B5%E8%B7%9D%E9%9B%A2-%E9%9B%B7%E6%89%8E%E4%BC%8A-%E7%BE%8E%E9%A0%88%E6%98%8E%E7%A2%BA%E5%9B%9E%E6%87%89%E4%B8%83%E6%A2%9D%E4%BB%B6",
     "timestamp": "2026-11-03T20:39:50.228Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：SK海力士紐約投資計劃受阻　因美對華設備出口許可尚未審批",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1156022067376689152478512.jpeg/YQQtWf0s-IZd_3bvE56gWv3sPsI4ROMp_dyyrP3csqw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406863/%E8%B7%AF%E9%80%8F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%B4%90%E7%B4%84%E6%8A%95%E8%B3%87%E8%A8%88%E5%8A%83%E5%8F%97%E9%98%BB-%E5%9B%A0%E7%BE%8E%E5%B0%8D%E8%8F%AF%E8%A8%AD%E5%82%99%E5%87%BA%E5%8F%A3%E8%A8%B1%E5%8F%AF%E5%B0%9A%E6%9C%AA%E5%AF%A9%E6%89%B9",
-    "timestamp": "2026-11-03T20:23:45.117Z",
     "strategy": ".content-card__main"
   }
 ];
