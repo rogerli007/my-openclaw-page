@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T03:40:16.746Z
+// Last updated: 2026-11-04T04:22:05.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山西女碩士失蹤13年遭多次性侵　2村民強姦罪成判囚10-12年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194610769275129856307489.jpeg/aeM887mf2HVEH2m2uurIavjBEjlXxnQNtdCdGrXQnRo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60406960/%E5%B1%B1%E8%A5%BF%E5%A5%B3%E7%A2%A9%E5%A3%AB%E5%A4%B1%E8%B9%A413%E5%B9%B4%E9%81%AD%E5%A4%9A%E6%AC%A1%E6%80%A7%E4%BE%B5-2%E6%9D%91%E6%B0%91%E5%BC%B7%E5%A7%A6%E7%BD%AA%E6%88%90%E5%88%A4%E5%9B%9A10-12%E5%B9%B4",
+    "timestamp": "2026-11-04T04:22:05.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華為發布Fintelligent AI　推動金融業邁向Agentic Finance",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
     "timestamp": "2026-11-03T21:29:11.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍灣麗晶花園單位失火　3人送院150人疏散　主人攜寵物齊逃生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
-    "timestamp": "2026-11-03T21:13:20.633Z",
     "strategy": ".content-card__main"
   }
 ];
