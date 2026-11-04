@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T07:26:48.119Z
+// Last updated: 2026-11-04T07:53:45.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雙11優惠2026｜20+網購優惠碼合集！iHerb/Lululemon/Nike/豐澤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194267341714624512190438.jpeg/REzSjG5XOI--myjTu_fv55XXPB0R9ZIj4nI3sOJyN7A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60403921/%E9%9B%9911%E5%84%AA%E6%83%A02026-20-%E7%B6%B2%E8%B3%BC%E5%84%AA%E6%83%A0%E7%A2%BC%E5%90%88%E9%9B%86-iherb-lululemon-nike-%E8%B1%90%E6%BE%A4",
+    "timestamp": "2026-11-04T07:53:45.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國漢寄數百封粉末信恐嚇官員　FBI追查兩年終落網",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114609208671604736536914.png/wJNKucdErtG5wmRQdTjwn9ceI237ZM4J_pGbk_6Rm5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406879/%E6%AF%94%E4%BA%9E%E8%BF%AA%E5%B7%B4%E8%A5%BF%E5%B8%82%E5%A0%B4%E4%BB%BD%E9%A1%8D%E4%B8%80%E5%B9%B4%E7%BF%BB%E5%80%8D-10%E6%9C%88%E8%A8%BB%E5%86%8A%E9%87%8F%E6%8C%89%E5%B9%B4%E5%A2%9E137-6-%E4%BC%81%E6%A5%AD%E5%87%BA%E6%B5%B7",
     "timestamp": "2026-11-04T00:29:48.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘇軾文章寫太好才沒當上狀元？　歐陽修評卷有段故事｜歷史奇趣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193529568204427264645812.png/ykTSH_x60c87ATxDvcEE-X_kTtwzBk3hKFJtmihSbZo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405778/%E8%98%87%E8%BB%BE%E6%96%87%E7%AB%A0%E5%AF%AB%E5%A4%AA%E5%A5%BD%E6%89%8D%E6%B2%92%E7%95%B6%E4%B8%8A%E7%8B%80%E5%85%83-%E6%AD%90%E9%99%BD%E4%BF%AE%E8%A9%95%E5%8D%B7%E6%9C%89%E6%AE%B5%E6%95%85%E4%BA%8B-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
-    "timestamp": "2026-11-03T23:40:22.549Z",
     "strategy": ".content-card__main"
   }
 ];
