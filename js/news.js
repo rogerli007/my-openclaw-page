@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T10:15:48.560Z
+// Last updated: 2026-11-04T10:40:15.248Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone驚現-32℃極寒預警！離奇撞正1960年末日預言！網：AI劇成真",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194698354739646464350721.jpeg/8YlnVCJyH6ZJTRnRPa1wSQsoMEM6Wu0CpnQ7I6Z0OyM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60407016/iphone%E9%A9%9A%E7%8F%BE-32-%E6%A5%B5%E5%AF%92%E9%A0%90%E8%AD%A6-%E9%9B%A2%E5%A5%87%E6%92%9E%E6%AD%A31960%E5%B9%B4%E6%9C%AB%E6%97%A5%E9%A0%90%E8%A8%80-%E7%B6%B2-ai%E5%8A%87%E6%88%90%E7%9C%9F",
+    "timestamp": "2026-11-04T10:40:15.248Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東京車站手信2026｜10大人氣伴手禮＋車站限定推介　附購買地址",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194585318376869888917260.jpeg/Fz3mOVRnFJhjKZoUthfING_1UsW1Hkwlm-0agJvtGoA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406895/%E6%AD%90%E8%81%AF%E7%90%83%E8%A9%95-%E6%9B%BC%E8%81%AF%E7%86%B1%E8%A1%80%E5%8F%8D%E5%8B%9D%E7%BE%85%E9%A6%AC4%E9%BB%9E%E8%A7%80%E5%AF%9F-%E8%83%BD%E5%90%A6%E7%9C%9F%E6%AD%A3%E5%8F%8D%E5%BD%88%E9%82%84%E7%9C%8B%E5%BF%83%E7%90%86%E5%B1%A4%E9%9D%A2",
     "timestamp": "2026-11-04T02:17:43.502Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國車牌用辱華字眼「CH*NK」竟過審　新冠時對亞裔的歧視仍未消",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181654994068180992346921.jpeg/1LD5gfew6B_yg3aDkGN7WRdpqkumXhKbd5w033ecNN8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394899/%E7%BE%8E%E5%9C%8B%E8%BB%8A%E7%89%8C%E7%94%A8%E8%BE%B1%E8%8F%AF%E5%AD%97%E7%9C%BC-ch-nk-%E7%AB%9F%E9%81%8E%E5%AF%A9-%E6%96%B0%E5%86%A0%E6%99%82%E5%B0%8D%E4%BA%9E%E8%A3%94%E7%9A%84%E6%AD%A7%E8%A6%96%E4%BB%8D%E6%9C%AA%E6%B6%88",
-    "timestamp": "2026-11-04T01:53:37.790Z",
     "strategy": ".content-card__main"
   }
 ];
