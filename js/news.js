@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T12:38:24.549Z
+// Last updated: 2026-11-04T13:19:51.156Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "衛詩雅自爆結婚非為浪漫沖昏頭　揭真實內幕：防突然昏迷需人簽字",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194699575865118720836125.jpeg/00vZqZwFgoXTTNOiKbYxUxgBUrQsuWA4oh_ugqIf7oI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406968/%E8%A1%9B%E8%A9%A9%E9%9B%85%E8%87%AA%E7%88%86%E7%B5%90%E5%A9%9A%E9%9D%9E%E7%82%BA%E6%B5%AA%E6%BC%AB%E6%B2%96%E6%98%8F%E9%A0%AD-%E6%8F%AD%E7%9C%9F%E5%AF%A6%E5%85%A7%E5%B9%95-%E9%98%B2%E7%AA%81%E7%84%B6%E6%98%8F%E8%BF%B7%E9%9C%80%E4%BA%BA%E7%B0%BD%E5%AD%97",
+    "timestamp": "2026-11-04T13:19:51.156Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門食肆3鼠狂奔｜食環：即時檢控持牌人　要求商場店舖加強滅鼠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194640124730675200498076.jpeg/oOhmMsfzeP3RB0odmuZrivoUHgEhcRfWlWDZupVg2bo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406998/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%BC%BB%E5%92%BD%E7%99%8C%E6%82%A3%E8%80%85%E8%AA%A4%E4%BF%A1%E4%B8%AD%E4%BB%8B%E8%B5%B4%E6%97%A5%E6%89%93%E5%85%8D%E7%96%AB%E9%87%9D-%E8%8A%B1250%E8%90%AC%E6%83%A1%E5%8C%96%E8%87%B3%E5%9B%9B%E6%9C%9F",
     "timestamp": "2026-11-04T05:25:29.117Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "惠英紅爆在TVB曾被睇唔起　遭髮型師言語羞辱極崩潰：眼淚停唔到",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194338573550096384061283.jpeg/XoZ6lc428E_L-bO-SPN-W4wHkcwIaCGIfILAhHyCwIQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406664/%E6%83%A0%E8%8B%B1%E7%B4%85%E7%88%86%E5%9C%A8tvb%E6%9B%BE%E8%A2%AB%E7%9D%87%E5%94%94%E8%B5%B7-%E9%81%AD%E9%AB%AE%E5%9E%8B%E5%B8%AB%E8%A8%80%E8%AA%9E%E7%BE%9E%E8%BE%B1%E6%A5%B5%E5%B4%A9%E6%BD%B0-%E7%9C%BC%E6%B7%9A%E5%81%9C%E5%94%94%E5%88%B0",
-    "timestamp": "2026-11-04T04:53:50.935Z",
     "strategy": ".content-card__main"
   }
 ];
