@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T23:13:43.757Z
+// Last updated: 2026-11-04T23:23:29.674Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國女飛行員失蹤89年　衛星照現神秘黑影　探險隊遠赴荒島解密",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194625485414338560079568.png/XSBp7iQgxqX_qvly-2jV8YPBBOiiU7CiMQJnITECZyE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403090/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E9%A3%9B%E8%A1%8C%E5%93%A1%E5%A4%B1%E8%B9%A489%E5%B9%B4-%E8%A1%9B%E6%98%9F%E7%85%A7%E7%8F%BE%E7%A5%9E%E7%A7%98%E9%BB%91%E5%BD%B1-%E6%8E%A2%E9%9A%AA%E9%9A%8A%E9%81%A0%E8%B5%B4%E8%8D%92%E5%B3%B6%E8%A7%A3%E5%AF%86",
+    "timestamp": "2026-11-04T23:23:29.674Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI教育共享｜當AI無所不知之時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-11-04T18:26:26.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡塞武裝空襲也門政府軍新兵營　據指至少25死數十人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-11-04T18:16:50.025Z",
     "strategy": ".content-card__main"
   }
 ];
