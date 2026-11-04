@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T08:24:12.687Z
+// Last updated: 2026-11-04T08:39:42.477Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超市優惠｜惠康/百佳全場88折！佳宝8折/崇光感謝祭23折起+優惠碼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194683582661005312450178.jpeg/8ySvriXJjmdDAeEchHCJKF9fkli4Xc0XkpF_2pKRf9o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60406760/%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E6%83%A0%E5%BA%B7-%E7%99%BE%E4%BD%B3%E5%85%A8%E5%A0%B488%E6%8A%98-%E4%BD%B3%E5%AE%9D8%E6%8A%98-%E5%B4%87%E5%85%89%E6%84%9F%E8%AC%9D%E7%A5%AD23%E6%8A%98%E8%B5%B7-%E5%84%AA%E6%83%A0%E7%A2%BC",
+    "timestamp": "2026-11-04T08:39:42.477Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "媽樣年華｜影評批保守沒激發「戀母狂亂倫衝動」　導演︰深感愕然",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194576015817445376985203.jpeg/SCE4eq5e-YZe1grOZXVqNk9AlGpbyza3xCMpO8QjKTs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406890/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B4%BE1000%E4%BA%BA%E7%9B%A3%E7%9D%A3%E5%85%A8%E5%9C%8B50%E5%B7%9E%E6%8A%95%E7%A5%A8-%E8%A6%8F%E6%A8%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7",
     "timestamp": "2026-11-04T01:14:15.166Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱咪咪撕破市儈形象自掏腰包氹老人家真相曝光：要積吓福",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194343152148811776358079.jpeg/7aFdtWK12D4ZH63wNJBW3eNBjDBNmVM_hNKHJL7ShyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406734/%E6%9C%B1%E5%92%AA%E5%92%AA%E6%92%95%E7%A0%B4%E5%B8%82%E5%84%88%E5%BD%A2%E8%B1%A1%E8%87%AA%E6%8E%8F%E8%85%B0%E5%8C%85%E6%B0%B9%E8%80%81%E4%BA%BA%E5%AE%B6%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89-%E8%A6%81%E7%A9%8D%E5%90%93%E7%A6%8F",
-    "timestamp": "2026-11-04T00:50:52.218Z",
     "strategy": ".content-card__main"
   }
 ];
