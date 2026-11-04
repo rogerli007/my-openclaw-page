@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T10:53:50.019Z
+// Last updated: 2026-11-04T11:25:29.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球．韓國賽︱李卓耀吳英倫伍家朗齊過關　男單16強港將佔3席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194704078513377280619850.jpeg/FOJ6F6XBMNtiP9BZZmBi0GVQrQW-1FPNRTsWo0U7FqM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407170/%E7%BE%BD%E6%AF%9B%E7%90%83-%E9%9F%93%E5%9C%8B%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%80%E5%90%B3%E8%8B%B1%E5%80%AB%E4%BC%8D%E5%AE%B6%E6%9C%97%E9%BD%8A%E9%81%8E%E9%97%9C-%E7%94%B7%E5%96%AE16%E5%BC%B7%E6%B8%AF%E5%B0%87%E4%BD%943%E5%B8%AD",
+    "timestamp": "2026-11-04T11:25:29.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印尼爆竊聽總統通訊案　警察總長涉監聽普拉博沃等高官被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194601001806467072346518.jpeg/rP1NmMzadql0iSoz4rITbBdTfXVoNUHRDYBMBA2ATAQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A7%91%E6%8A%80%E6%96%B0%E8%81%9E/60406936/%E8%8F%AF%E7%82%BA%E7%99%BC%E5%B8%83fintelligent-ai-%E6%8E%A8%E5%8B%95%E9%87%91%E8%9E%8D%E6%A5%AD%E9%82%81%E5%90%91agentic-finance",
     "timestamp": "2026-11-04T03:40:16.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "引國際經驗提升港ETF市場生態圈　Global X ︰推動良性循環",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192868168058540032821405.jpeg/uKaAhPOQ14OkjDsljixdsBgIgGSMNJGiY1Ou12NTrtc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403709/%E5%BC%95%E5%9C%8B%E9%9A%9B%E7%B6%93%E9%A9%97%E6%8F%90%E5%8D%87%E6%B8%AFetf%E5%B8%82%E5%A0%B4%E7%94%9F%E6%85%8B%E5%9C%88-global-x-%E6%8E%A8%E5%8B%95%E8%89%AF%E6%80%A7%E5%BE%AA%E7%92%B0",
-    "timestamp": "2026-11-04T03:26:31.521Z",
     "strategy": ".content-card__main"
   }
 ];
