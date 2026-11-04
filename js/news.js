@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T04:42:59.915Z
+// Last updated: 2026-11-04T04:53:50.935Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "惠英紅爆在TVB曾被睇唔起　遭髮型師言語羞辱極崩潰：眼淚停唔到",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194338573550096384061283.jpeg/XoZ6lc428E_L-bO-SPN-W4wHkcwIaCGIfILAhHyCwIQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406664/%E6%83%A0%E8%8B%B1%E7%B4%85%E7%88%86%E5%9C%A8tvb%E6%9B%BE%E8%A2%AB%E7%9D%87%E5%94%94%E8%B5%B7-%E9%81%AD%E9%AB%AE%E5%9E%8B%E5%B8%AB%E8%A8%80%E8%AA%9E%E7%BE%9E%E8%BE%B1%E6%A5%B5%E5%B4%A9%E6%BD%B0-%E7%9C%BC%E6%B7%9A%E5%81%9C%E5%94%94%E5%88%B0",
+    "timestamp": "2026-11-04T04:53:50.935Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "煲飯貼士｜日媒實測1款水煮飯Q彈鬆軟！加白醋助降血壓+煲飯4貼士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
     "timestamp": "2026-11-03T21:53:45.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍灣麗晶花園單位失火　3人送院150人疏散　主人攜寵物齊逃生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
-    "timestamp": "2026-11-03T21:39:32.682Z",
     "strategy": ".content-card__main"
   }
 ];
