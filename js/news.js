@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T21:41:17.423Z
+// Last updated: 2026-11-04T21:53:21.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網傳觀塘工廈垃圾箱有鼠群出沒　01直擊老鼠亂竄　籠內有鼠｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194887023526154240289051.jpeg/KHjQKTO5_7wwM03DAxR3B8HTtlk2eqxqc0ciO3NHIjs",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407295/%E7%B6%B2%E5%82%B3%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%9E%83%E5%9C%BE%E7%AE%B1%E6%9C%89%E9%BC%A0%E7%BE%A4%E5%87%BA%E6%B2%92-01%E7%9B%B4%E6%93%8A%E8%80%81%E9%BC%A0%E4%BA%82%E7%AB%84-%E7%B1%A0%E5%85%A7%E6%9C%89%E9%BC%A0-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-04T21:53:21.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網傳觀塘工廈垃圾箱有鼠群出沒　01直擊老鼠亂竄　籠內有鼠｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194791659586457600438601.jpeg/ogbhrWIum53WZN5uYXEBjC7LBLHair_KmBKRNJgSkTQ",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407269/%E5%96%AE%E8%BB%8A%E7%94%B7%E9%97%96%E5%85%A5%E5%A4%A7%E5%9F%94%E9%81%8B%E5%8B%95%E5%A0%B4-%E8%B7%91%E9%81%93%E8%AE%8A%E5%96%AE%E8%BB%8A%E5%BE%91-%E7%84%A1%E8%A6%96%E8%B7%91%E5%8F%8B%E7%85%A7%E7%8B%82%E9%A3%86%E6%8D%B1%E6%89%B9-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-04T16:39:59.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "單車男闖入大埔運動場　跑道變單車徑　無視跑友照狂飆捱批｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194791659586457600438601.jpeg/ogbhrWIum53WZN5uYXEBjC7LBLHair_KmBKRNJgSkTQ",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407269/%E5%96%AE%E8%BB%8A%E7%94%B7%E9%97%96%E5%85%A5%E5%A4%A7%E5%9F%94%E9%81%8B%E5%8B%95%E5%A0%B4-%E8%B7%91%E9%81%93%E8%AE%8A%E5%96%AE%E8%BB%8A%E5%BE%91-%E7%84%A1%E8%A6%96%E8%B7%91%E5%8F%8B%E7%85%A7%E7%8B%82%E9%A3%86%E6%8D%B1%E6%89%B9-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-04T16:23:34.167Z",
     "strategy": ".content-card__main"
   }
 ];
