@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T00:50:52.218Z
+// Last updated: 2026-11-04T01:14:15.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜司法部派1000人監督全國50州投票　規模史上最大",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194576015817445376985203.jpeg/SCE4eq5e-YZe1grOZXVqNk9AlGpbyza3xCMpO8QjKTs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406890/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B4%BE1000%E4%BA%BA%E7%9B%A3%E7%9D%A3%E5%85%A8%E5%9C%8B50%E5%B7%9E%E6%8A%95%E7%A5%A8-%E8%A6%8F%E6%A8%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7",
+    "timestamp": "2026-11-04T01:14:15.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱咪咪撕破市儈形象自掏腰包氹老人家真相曝光：要積吓福",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193252039744819200728436.jpeg/oc0n1v3nR8BLiXSULJj-BhTCjIqbDCcVO4YXszuGF7M",
     "url": "https://www.hk01.com/01TV/60405649/%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E8%A2%AB%E5%B1%88%E5%8C%85%E9%A4%8A%E7%9C%9F%E7%9B%B8-%E8%A8%98%E8%80%85%E8%A6%AA%E5%8F%A3%E6%89%BF%E8%AA%8D-%E5%AF%AB%E4%BD%A0%E9%8A%B7%E9%87%8F%E9%AB%98",
     "timestamp": "2026-11-03T19:39:44.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧揭被屈包養真相：記者親口承認「寫你銷量高」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193252039744819200728436.jpeg/oc0n1v3nR8BLiXSULJj-BhTCjIqbDCcVO4YXszuGF7M",
-    "url": "https://www.hk01.com/01TV/60405649/%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E8%A2%AB%E5%B1%88%E5%8C%85%E9%A4%8A%E7%9C%9F%E7%9B%B8-%E8%A8%98%E8%80%85%E8%A6%AA%E5%8F%A3%E6%89%BF%E8%AA%8D-%E5%AF%AB%E4%BD%A0%E9%8A%B7%E9%87%8F%E9%AB%98",
-    "timestamp": "2026-11-03T19:23:53.122Z",
     "strategy": ".content-card__main"
   }
 ];
