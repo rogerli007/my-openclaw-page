@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T18:40:40.114Z
+// Last updated: 2026-11-04T18:54:27.539Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡塞武裝空襲也門政府軍新兵營　據指至少25死數十人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-11-04T18:54:27.539Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡塞武裝空襲也門政府軍新兵營　據指至少25死數十人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194436612474277888351287.jpeg/xzXQxWxdvVabZHx9yvJg8zGZeZUTzEprHpc-Hh6XPh4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407240/%E5%B1%AF%E9%96%80%E9%A3%9F%E8%82%863%E9%BC%A0%E7%8B%82%E5%A5%94-%E9%A3%9F%E7%92%B0-%E5%8D%B3%E6%99%82%E6%AA%A2%E6%8E%A7%E6%8C%81%E7%89%8C%E4%BA%BA-%E8%A6%81%E6%B1%82%E5%95%86%E5%A0%B4%E5%BA%97%E8%88%96%E5%8A%A0%E5%BC%B7%E6%BB%85%E9%BC%A0",
     "timestamp": "2026-11-04T12:38:24.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT法蘭克福冠軍賽｜杜凱琹女單無緣次圈　1：3不敵20歲主場球手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194726123208970240697514.jpeg/MiJLD11EPy4IjCafYsKfD7ceLkA9him_LTXeBy013gc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407226/wtt%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F%E5%86%A0%E8%BB%8D%E8%B3%BD-%E6%9D%9C%E5%87%B1%E7%90%B9%E5%A5%B3%E5%96%AE%E7%84%A1%E7%B7%A3%E6%AC%A1%E5%9C%88-1-3%E4%B8%8D%E6%95%B520%E6%AD%B2%E4%B8%BB%E5%A0%B4%E7%90%83%E6%89%8B",
-    "timestamp": "2026-11-04T11:54:23.462Z",
     "strategy": ".content-card__main"
   }
 ];
