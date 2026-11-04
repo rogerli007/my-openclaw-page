@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T08:39:42.477Z
+// Last updated: 2026-11-04T08:59:17.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗斬人有片｜越南漢甫入雜貨店遭同鄉雙刀斬傷　旁人蜂擁制止",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194690672968339456749623.jpeg/lTMhC2KtkV-D1MJNrnDAkgN3QI0jYwEh3lHTVt5R01Y",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407135/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%96%AC%E4%BA%BA%E6%9C%89%E7%89%87-%E8%B6%8A%E5%8D%97%E6%BC%A2%E7%94%AB%E5%85%A5%E9%9B%9C%E8%B2%A8%E5%BA%97%E9%81%AD%E5%90%8C%E9%84%89%E9%9B%99%E5%88%80%E6%96%AC%E5%82%B7-%E6%97%81%E4%BA%BA%E8%9C%82%E6%93%81%E5%88%B6%E6%AD%A2",
+    "timestamp": "2026-11-04T08:59:17.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超市優惠｜惠康/百佳全場88折！佳宝8折/崇光感謝祭23折起+優惠碼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168582330680348672493618.jpeg/ByEHON7ClHWR00vCLr2oqb_M1aJS_Y7_bchFK23IRSs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60406747/%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD-%E8%8F%AF%E7%82%BA-%E5%82%B3%E6%B4%BD%E7%A7%9F%E8%A5%BF%E4%B9%9Digc%E5%85%A9%E5%B1%A4-%E6%B6%89%E7%B4%847%E8%90%AC%E5%91%8E%E6%A8%93%E9%9D%A2-%E5%91%8E%E7%A7%9F%E7%B4%8440%E8%9A%8A",
     "timestamp": "2026-11-04T01:23:19.663Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜司法部派1000人監督全國50州投票　規模史上最大",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194576015817445376985203.jpeg/SCE4eq5e-YZe1grOZXVqNk9AlGpbyza3xCMpO8QjKTs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406890/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B4%BE1000%E4%BA%BA%E7%9B%A3%E7%9D%A3%E5%85%A8%E5%9C%8B50%E5%B7%9E%E6%8A%95%E7%A5%A8-%E8%A6%8F%E6%A8%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7",
-    "timestamp": "2026-11-04T01:14:15.166Z",
     "strategy": ".content-card__main"
   }
 ];
