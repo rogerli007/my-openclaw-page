@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T06:21:45.116Z
+// Last updated: 2026-11-04T06:44:20.828Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警破洗黑錢集團拘11人　涉85宗騙案　揭買債仔戶口洗7000萬黑錢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194632843205021696136807.jpeg/N6VaXxi_X40NejWxSldQKnWqxJf-vHsJ70F2N8pBdjc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406992/%E8%AD%A6%E7%A0%B4%E6%B4%97%E9%BB%91%E9%8C%A2%E9%9B%86%E5%9C%98%E6%8B%9811%E4%BA%BA-%E6%B6%8985%E5%AE%97%E9%A8%99%E6%A1%88-%E6%8F%AD%E8%B2%B7%E5%82%B5%E4%BB%94%E6%88%B6%E5%8F%A3%E6%B4%977000%E8%90%AC%E9%BB%91%E9%8C%A2",
+    "timestamp": "2026-11-04T06:44:20.828Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜民主黨重奪國會　傑弗里斯勢成首位黑人眾議院議長",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194382510411223040963450.jpeg/54OQGsdfQh4_U5uo2RFS3RvkYiUPEFZ5DVyCnw1cgp8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60406583/meta%E8%81%AF%E5%90%88%E4%B8%AD%E4%BC%81%E7%A0%94%E7%99%BC%E6%A9%9F%E6%A2%B0%E4%BA%BAmax-%E6%90%ADnvidia%E6%99%B6%E7%89%87%E9%9D%A2%E9%83%A8%E5%8F%AF%E6%A8%A1%E6%93%AC%E4%BA%BA%E9%A1%9E%E8%A1%A8%E6%83%85",
     "timestamp": "2026-11-03T23:13:06.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梵蒂岡：教宗健康良好　本周如期出訪南美洲三國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194513996447748096381075.jpeg/QClPp6tWavb_LhlBThmhhwHy0zD6HXyFUaTcF1Gk3Bc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406869/%E6%A2%B5%E8%92%82%E5%B2%A1-%E6%95%99%E5%AE%97%E5%81%A5%E5%BA%B7%E8%89%AF%E5%A5%BD-%E6%9C%AC%E5%91%A8%E5%A6%82%E6%9C%9F%E5%87%BA%E8%A8%AA%E5%8D%97%E7%BE%8E%E6%B4%B2%E4%B8%89%E5%9C%8B",
-    "timestamp": "2026-11-03T22:53:30.223Z",
     "strategy": ".content-card__main"
   }
 ];
