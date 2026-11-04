@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T00:29:48.824Z
+// Last updated: 2026-11-04T00:50:52.218Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱咪咪撕破市儈形象自掏腰包氹老人家真相曝光：要積吓福",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194343152148811776358079.jpeg/7aFdtWK12D4ZH63wNJBW3eNBjDBNmVM_hNKHJL7ShyQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406734/%E6%9C%B1%E5%92%AA%E5%92%AA%E6%92%95%E7%A0%B4%E5%B8%82%E5%84%88%E5%BD%A2%E8%B1%A1%E8%87%AA%E6%8E%8F%E8%85%B0%E5%8C%85%E6%B0%B9%E8%80%81%E4%BA%BA%E5%AE%B6%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89-%E8%A6%81%E7%A9%8D%E5%90%93%E7%A6%8F",
+    "timestamp": "2026-11-04T00:50:52.218Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比亞迪巴西市場份額一年翻倍　10月註冊量按年增137.6%｜企業出海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193252039744819200728436.jpeg/oc0n1v3nR8BLiXSULJj-BhTCjIqbDCcVO4YXszuGF7M",
     "url": "https://www.hk01.com/01TV/60405649/%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E8%A2%AB%E5%B1%88%E5%8C%85%E9%A4%8A%E7%9C%9F%E7%9B%B8-%E8%A8%98%E8%80%85%E8%A6%AA%E5%8F%A3%E6%89%BF%E8%AA%8D-%E5%AF%AB%E4%BD%A0%E9%8A%B7%E9%87%8F%E9%AB%98",
     "timestamp": "2026-11-03T19:23:53.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網傳南亞幫上門劫財　10多人狹窄單位亂戰困獸鬥　MMA影片曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194476862319890432237961.jpeg/xEpUssjpAxKdrn70OZ4c9JPqnGqoZMiObJEJ8GyRCfA",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406856/%E7%B6%B2%E5%82%B3%E5%8D%97%E4%BA%9E%E5%B9%AB%E4%B8%8A%E9%96%80%E5%8A%AB%E8%B2%A1-10%E5%A4%9A%E4%BA%BA%E7%8B%B9%E7%AA%84%E5%96%AE%E4%BD%8D%E4%BA%82%E6%88%B0%E5%9B%B0%E7%8D%B8%E9%AC%A5-mma%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-11-03T18:53:58.775Z",
     "strategy": ".content-card__main"
   }
 ];
