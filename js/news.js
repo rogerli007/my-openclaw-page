@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T04:22:05.148Z
+// Last updated: 2026-11-04T04:42:59.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "煲飯貼士｜日媒實測1款水煮飯Q彈鬆軟！加白醋助降血壓+煲飯4貼士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194628503316729856240689.jpeg/_8zL09MXBt0vLJgHp00NfvuQtp1hndU_pNknCqTZJwo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60390474/%E7%85%B2%E9%A3%AF%E8%B2%BC%E5%A3%AB-%E6%97%A5%E5%AA%92%E5%AF%A6%E6%B8%AC1%E6%AC%BE%E6%B0%B4%E7%85%AE%E9%A3%AFq%E5%BD%88%E9%AC%86%E8%BB%9F-%E5%8A%A0%E7%99%BD%E9%86%8B%E5%8A%A9%E9%99%8D%E8%A1%80%E5%A3%93-%E7%85%B2%E9%A3%AF4%E8%B2%BC%E5%A3%AB",
+    "timestamp": "2026-11-04T04:42:59.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山西女碩士失蹤13年遭多次性侵　2村民強姦罪成判囚10-12年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
     "timestamp": "2026-11-03T21:39:32.682Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍灣麗晶花園單位失火　3人送院150人疏散　主人攜寵物齊逃生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
-    "timestamp": "2026-11-03T21:29:11.641Z",
     "strategy": ".content-card__main"
   }
 ];
