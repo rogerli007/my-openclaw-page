@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T11:54:23.462Z
+// Last updated: 2026-11-04T12:38:24.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門食肆3鼠狂奔｜食環：即時檢控持牌人　要求商場店舖加強滅鼠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194436612474277888351287.jpeg/xzXQxWxdvVabZHx9yvJg8zGZeZUTzEprHpc-Hh6XPh4",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407240/%E5%B1%AF%E9%96%80%E9%A3%9F%E8%82%863%E9%BC%A0%E7%8B%82%E5%A5%94-%E9%A3%9F%E7%92%B0-%E5%8D%B3%E6%99%82%E6%AA%A2%E6%8E%A7%E6%8C%81%E7%89%8C%E4%BA%BA-%E8%A6%81%E6%B1%82%E5%95%86%E5%A0%B4%E5%BA%97%E8%88%96%E5%8A%A0%E5%BC%B7%E6%BB%85%E9%BC%A0",
+    "timestamp": "2026-11-04T12:38:24.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT法蘭克福冠軍賽｜杜凱琹女單無緣次圈　1：3不敵20歲主場球手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194338573550096384061283.jpeg/XoZ6lc428E_L-bO-SPN-W4wHkcwIaCGIfILAhHyCwIQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406664/%E6%83%A0%E8%8B%B1%E7%B4%85%E7%88%86%E5%9C%A8tvb%E6%9B%BE%E8%A2%AB%E7%9D%87%E5%94%94%E8%B5%B7-%E9%81%AD%E9%AB%AE%E5%9E%8B%E5%B8%AB%E8%A8%80%E8%AA%9E%E7%BE%9E%E8%BE%B1%E6%A5%B5%E5%B4%A9%E6%BD%B0-%E7%9C%BC%E6%B7%9A%E5%81%9C%E5%94%94%E5%88%B0",
     "timestamp": "2026-11-04T04:53:50.935Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "煲飯貼士｜日媒實測1款水煮飯Q彈鬆軟！加白醋助降血壓+煲飯4貼士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194628503316729856240689.jpeg/_8zL09MXBt0vLJgHp00NfvuQtp1hndU_pNknCqTZJwo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60390474/%E7%85%B2%E9%A3%AF%E8%B2%BC%E5%A3%AB-%E6%97%A5%E5%AA%92%E5%AF%A6%E6%B8%AC1%E6%AC%BE%E6%B0%B4%E7%85%AE%E9%A3%AFq%E5%BD%88%E9%AC%86%E8%BB%9F-%E5%8A%A0%E7%99%BD%E9%86%8B%E5%8A%A9%E9%99%8D%E8%A1%80%E5%A3%93-%E7%85%B2%E9%A3%AF4%E8%B2%BC%E5%A3%AB",
-    "timestamp": "2026-11-04T04:42:59.915Z",
     "strategy": ".content-card__main"
   }
 ];
