@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T13:19:51.156Z
+// Last updated: 2026-11-04T13:45:54.889Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨境白牌車｜警一周拘7司機　荃灣往澳門索¥1550　內地男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194751364014542848917532.jpeg/UXHs8PEyxvF8b4mcJbfVYDUkRPduZqD0OGeoxzhnqMc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407241/%E8%B7%A8%E5%A2%83%E7%99%BD%E7%89%8C%E8%BB%8A-%E8%AD%A6%E4%B8%80%E5%91%A8%E6%8B%987%E5%8F%B8%E6%A9%9F-%E8%8D%83%E7%81%A3%E5%BE%80%E6%BE%B3%E9%96%80%E7%B4%A2-1550-%E5%85%A7%E5%9C%B0%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-04T13:45:54.889Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "衛詩雅自爆結婚非為浪漫沖昏頭　揭真實內幕：防突然昏迷需人簽字",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194643597484363776865039.jpeg/bb2QFENeNxOt33LnPomAx5hZQAW7cyKW_Vrdav1a3Wo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60407027/%E6%8F%80%E5%A4%A7%E9%96%98%E8%9F%B9%E8%B2%BC%E5%A3%AB-%E5%A4%A7%E5%BB%9A%E6%95%99%E9%81%B8%E9%9D%9A%E5%A4%A7%E9%96%98%E8%9F%B95%E7%89%B9%E5%BE%B5-%E5%94%94%E6%8F%80%E9%99%BD%E6%BE%84%E6%B9%96-%E9%98%B2%E8%B2%B7%E5%81%87%E8%B2%A82%E6%8B%9B",
     "timestamp": "2026-11-04T05:40:05.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜鼻咽癌患者誤信中介赴日打免疫針　花250萬惡化至四期",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194640124730675200498076.jpeg/oOhmMsfzeP3RB0odmuZrivoUHgEhcRfWlWDZupVg2bo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406998/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%BC%BB%E5%92%BD%E7%99%8C%E6%82%A3%E8%80%85%E8%AA%A4%E4%BF%A1%E4%B8%AD%E4%BB%8B%E8%B5%B4%E6%97%A5%E6%89%93%E5%85%8D%E7%96%AB%E9%87%9D-%E8%8A%B1250%E8%90%AC%E6%83%A1%E5%8C%96%E8%87%B3%E5%9B%9B%E6%9C%9F",
-    "timestamp": "2026-11-04T05:25:29.117Z",
     "strategy": ".content-card__main"
   }
 ];
