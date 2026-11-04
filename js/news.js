@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T19:43:08.014Z
+// Last updated: 2026-11-04T19:53:23.720Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜利物浦作客2：3不敵費倫巴治　皇馬作客3：2勝AEK雅典",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194856023156985856972135.jpeg/F0bd7k0YIoBRzLQm-6ZjTwjo80PCLiHJXgtnNF4LZzQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407294/%E6%AD%90%E8%81%AF-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A22-3%E4%B8%8D%E6%95%B5%E8%B2%BB%E5%80%AB%E5%B7%B4%E6%B2%BB-%E7%9A%87%E9%A6%AC%E4%BD%9C%E5%AE%A23-2%E5%8B%9Daek%E9%9B%85%E5%85%B8",
+    "timestamp": "2026-11-04T19:53:23.720Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜特朗普：不擔心民主黨發起彈劾　或與對方融洽相處",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194775456973328384841256.jpeg/qvNvnvRBJPs_Ke9AnHQA1OsO4fDK6PGud-mpBnfpqQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407259/%E9%8D%BE%E5%BF%97%E5%85%89%E6%8B%9C%E7%A5%AD%E9%BB%8E%E5%BD%BC%E5%BE%97%E6%99%92%E9%9D%88%E9%BE%95%E7%85%A714%E5%AD%97%E5%93%80%E6%82%BC%E6%95%85%E5%8F%8B-%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E6%9C%89%E6%83%85%E6%9C%89%E7%BE%A9",
     "timestamp": "2026-11-04T14:25:27.805Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何文田巴富街中學遇竊　失$28.7萬平板電腦及相機器材",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194772256572575744572168.png/if0RFE75bqVJRVEK30XVVQqTV1lIYerBq1r8-qta_Po?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407258/%E4%BD%95%E6%96%87%E7%94%B0%E5%B7%B4%E5%AF%8C%E8%A1%97%E4%B8%AD%E5%AD%B8%E9%81%87%E7%AB%8A-%E5%A4%B1-28-7%E8%90%AC%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6%E5%8F%8A%E7%9B%B8%E6%A9%9F%E5%99%A8%E6%9D%90",
-    "timestamp": "2026-11-04T14:15:37.592Z",
     "strategy": ".content-card__main"
   }
 ];
