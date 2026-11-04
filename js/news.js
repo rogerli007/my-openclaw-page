@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T14:40:16.511Z
+// Last updated: 2026-11-04T14:53:27.248Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角英皇道女子捱貨車撞　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260619/1144479192226729984649571.jpeg/OaMkUP-HpcQYUEJQ7wYtq9K6bjQ-LM5ABw9Rwj0PUcI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407265/%E5%8C%97%E8%A7%92%E8%8B%B1%E7%9A%87%E9%81%93%E5%A5%B3%E5%AD%90%E6%8D%B1%E8%B2%A8%E8%BB%8A%E6%92%9E-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-11-04T14:53:27.248Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜德州也變天！　馬斯克淪「輸家」　SpaceX急挫逾5%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194627154151739392352786.jpeg/ln05TvKeFKIzwVszg0SqCauO2T0x8TVIenYYUXp2GFE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60402628/%E6%B7%B1%E5%9C%B3%E7%94%9C%E5%93%81-5%E5%A4%A7%E4%BA%BA%E6%B0%A3-%E5%B0%8F%E6%88%BF%E5%AD%90%E8%9B%8B%E7%B3%95-%E6%85%95%E6%96%AF%E5%B1%8B%E9%A0%82-%E5%B7%B4%E6%96%AF%E5%85%8B%E5%9F%BA%E5%BA%95%E5%8F%A3%E6%84%9F%E8%B1%90%E5%AF%8C",
     "timestamp": "2026-11-04T07:15:41.307Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警破洗黑錢集團拘11人　涉85宗騙案　揭買債仔戶口洗7000萬黑錢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194632843205021696136807.jpeg/N6VaXxi_X40NejWxSldQKnWqxJf-vHsJ70F2N8pBdjc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406992/%E8%AD%A6%E7%A0%B4%E6%B4%97%E9%BB%91%E9%8C%A2%E9%9B%86%E5%9C%98%E6%8B%9811%E4%BA%BA-%E6%B6%8985%E5%AE%97%E9%A8%99%E6%A1%88-%E6%8F%AD%E8%B2%B7%E5%82%B5%E4%BB%94%E6%88%B6%E5%8F%A3%E6%B4%977000%E8%90%AC%E9%BB%91%E9%8C%A2",
-    "timestamp": "2026-11-04T06:44:20.828Z",
     "strategy": ".content-card__main"
   }
 ];
