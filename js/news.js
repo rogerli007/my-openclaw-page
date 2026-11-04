@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T08:59:17.402Z
+// Last updated: 2026-11-04T09:27:04.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉‧最新｜民主黨贏開巷取6搖擺州　誕首位穆斯林參議員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194636000391860224543862.jpeg/sfJcij299nIkX646IeTOagzr2nNTUxT0wGA5GsBgORo",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406687/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%B5%90%E6%9E%9C%E6%9C%80%E6%96%B0-%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8F%966%E6%90%96%E6%93%BA%E5%B7%9E-%E8%AA%95%E9%A6%96%E4%BD%8D%E7%A9%86%E6%96%AF%E6%9E%97%E5%8F%83%E8%AD%B0%E5%93%A1",
+    "timestamp": "2026-11-04T09:27:04.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗斬人有片｜越南漢甫入雜貨店遭同鄉雙刀斬傷　旁人蜂擁制止",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181654994068180992346921.jpeg/1LD5gfew6B_yg3aDkGN7WRdpqkumXhKbd5w033ecNN8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394899/%E7%BE%8E%E5%9C%8B%E8%BB%8A%E7%89%8C%E7%94%A8%E8%BE%B1%E8%8F%AF%E5%AD%97%E7%9C%BC-ch-nk-%E7%AB%9F%E9%81%8E%E5%AF%A9-%E6%96%B0%E5%86%A0%E6%99%82%E5%B0%8D%E4%BA%9E%E8%A3%94%E7%9A%84%E6%AD%A7%E8%A6%96%E4%BB%8D%E6%9C%AA%E6%B6%88",
     "timestamp": "2026-11-04T01:41:57.070Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "科技巨頭「華為」傳洽租西九IGC兩層！涉約7萬呎樓面　呎租約40蚊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168582330680348672493618.jpeg/ByEHON7ClHWR00vCLr2oqb_M1aJS_Y7_bchFK23IRSs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60406747/%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD-%E8%8F%AF%E7%82%BA-%E5%82%B3%E6%B4%BD%E7%A7%9F%E8%A5%BF%E4%B9%9Digc%E5%85%A9%E5%B1%A4-%E6%B6%89%E7%B4%847%E8%90%AC%E5%91%8E%E6%A8%93%E9%9D%A2-%E5%91%8E%E7%A7%9F%E7%B4%8440%E8%9A%8A",
-    "timestamp": "2026-11-04T01:23:19.663Z",
     "strategy": ".content-card__main"
   }
 ];
