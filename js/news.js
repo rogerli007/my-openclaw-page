@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T18:16:50.025Z
+// Last updated: 2026-11-04T18:26:26.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡塞武裝空襲也門政府軍新兵營　據指至少25死數十人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-11-04T18:26:26.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "胡塞武裝空襲也門政府軍新兵營　據指至少25死數十人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194704078513377280619850.jpeg/FOJ6F6XBMNtiP9BZZmBi0GVQrQW-1FPNRTsWo0U7FqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407170/%E7%BE%BD%E6%AF%9B%E7%90%83-%E9%9F%93%E5%9C%8B%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%80%E5%90%B3%E8%8B%B1%E5%80%AB%E4%BC%8D%E5%AE%B6%E6%9C%97%E9%BD%8A%E9%81%8E%E9%97%9C-%E7%94%B7%E5%96%AE16%E5%BC%B7%E6%B8%AF%E5%B0%87%E4%BD%943%E5%B8%AD",
     "timestamp": "2026-11-04T11:39:51.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球．韓國賽︱李卓耀吳英倫伍家朗齊過關　男單16強港將佔3席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194704078513377280619850.jpeg/FOJ6F6XBMNtiP9BZZmBi0GVQrQW-1FPNRTsWo0U7FqM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407170/%E7%BE%BD%E6%AF%9B%E7%90%83-%E9%9F%93%E5%9C%8B%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%80%E5%90%B3%E8%8B%B1%E5%80%AB%E4%BC%8D%E5%AE%B6%E6%9C%97%E9%BD%8A%E9%81%8E%E9%97%9C-%E7%94%B7%E5%96%AE16%E5%BC%B7%E6%B8%AF%E5%B0%87%E4%BD%943%E5%B8%AD",
-    "timestamp": "2026-11-04T11:25:29.999Z",
     "strategy": ".content-card__main"
   }
 ];
