@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T14:25:27.805Z
+// Last updated: 2026-11-04T14:40:16.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜德州也變天！　馬斯克淪「輸家」　SpaceX急挫逾5%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188380153835687936726485.jpeg/ak6XT3aXY0ld3yy_nsNnco_tDgSf8foWjxKEZ48ShGc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60407250/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E5%BE%B7%E5%B7%9E%E4%B9%9F%E8%AE%8A%E5%A4%A9-%E9%A6%AC%E6%96%AF%E5%85%8B%E6%B7%AA-%E8%BC%B8%E5%AE%B6-spacex%E6%80%A5%E6%8C%AB%E9%80%BE5",
+    "timestamp": "2026-11-04T14:40:16.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾志光拜祭黎彼得晒靈龕照14字哀悼故友　網民大讚有情有義",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194632843205021696136807.jpeg/N6VaXxi_X40NejWxSldQKnWqxJf-vHsJ70F2N8pBdjc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406992/%E8%AD%A6%E7%A0%B4%E6%B4%97%E9%BB%91%E9%8C%A2%E9%9B%86%E5%9C%98%E6%8B%9811%E4%BA%BA-%E6%B6%8985%E5%AE%97%E9%A8%99%E6%A1%88-%E6%8F%AD%E8%B2%B7%E5%82%B5%E4%BB%94%E6%88%B6%E5%8F%A3%E6%B4%977000%E8%90%AC%E9%BB%91%E9%8C%A2",
     "timestamp": "2026-11-04T06:44:20.828Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜民主黨重奪國會　傑弗里斯勢成首位黑人眾議院議長",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194652966808719360689307.jpeg/kYFeuG20ezhu5RwpaRqdOikZtgZL0B0nJAQLcyQEC3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407035/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%87%8D%E5%A5%AA%E5%9C%8B%E6%9C%83-%E5%82%91%E5%BC%97%E9%87%8C%E6%96%AF%E5%8B%A2%E6%88%90%E9%A6%96%E4%BD%8D%E9%BB%91%E4%BA%BA%E7%9C%BE%E8%AD%B0%E9%99%A2%E8%AD%B0%E9%95%B7",
-    "timestamp": "2026-11-04T06:21:45.116Z",
     "strategy": ".content-card__main"
   }
 ];
