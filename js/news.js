@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T05:25:29.117Z
+// Last updated: 2026-11-04T05:40:05.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "揀大閘蟹貼士｜大廚教選靚大閘蟹5特徵　唔揀陽澄湖？防買假貨2招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194643597484363776865039.jpeg/bb2QFENeNxOt33LnPomAx5hZQAW7cyKW_Vrdav1a3Wo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60407027/%E6%8F%80%E5%A4%A7%E9%96%98%E8%9F%B9%E8%B2%BC%E5%A3%AB-%E5%A4%A7%E5%BB%9A%E6%95%99%E9%81%B8%E9%9D%9A%E5%A4%A7%E9%96%98%E8%9F%B95%E7%89%B9%E5%BE%B5-%E5%94%94%E6%8F%80%E9%99%BD%E6%BE%84%E6%B9%96-%E9%98%B2%E8%B2%B7%E5%81%87%E8%B2%A82%E6%8B%9B",
+    "timestamp": "2026-11-04T05:40:05.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜鼻咽癌患者誤信中介赴日打免疫針　花250萬惡化至四期",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194530537902313472421739.jpeg/8W1EtxQUrdyh7uz_UF6OZPMUzmQZfXWJQidcTEInXEw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60406852/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E6%99%9A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8428%E5%BA%A6",
     "timestamp": "2026-11-03T22:23:51.258Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致多雲　早晚有一兩陣雨　日間最高約28度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194530537902313472421739.jpeg/8W1EtxQUrdyh7uz_UF6OZPMUzmQZfXWJQidcTEInXEw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60406852/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E6%99%9A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8428%E5%BA%A6",
-    "timestamp": "2026-11-03T22:18:26.321Z",
     "strategy": ".content-card__main"
   }
 ];
