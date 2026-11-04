@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T07:15:41.307Z
+// Last updated: 2026-11-04T07:26:48.119Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國漢寄數百封粉末信恐嚇官員　FBI追查兩年終落網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241202/940227066677170176246930.jpeg/zW6uJDckhzm3D_e1RU47UMwYxu7r4-lLHmONfx5jjX8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407070/%E7%BE%8E%E5%9C%8B%E6%BC%A2%E5%AF%84%E6%95%B8%E7%99%BE%E5%B0%81%E7%B2%89%E6%9C%AB%E4%BF%A1%E6%81%90%E5%9A%87%E5%AE%98%E5%93%A1-fbi%E8%BF%BD%E6%9F%A5%E5%85%A9%E5%B9%B4%E7%B5%82%E8%90%BD%E7%B6%B2",
+    "timestamp": "2026-11-04T07:26:48.119Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳甜品｜5大人氣「小房子蛋糕」　慕斯屋頂+巴斯克基底口感豐富",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193529568204427264645812.png/ykTSH_x60c87ATxDvcEE-X_kTtwzBk3hKFJtmihSbZo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405778/%E8%98%87%E8%BB%BE%E6%96%87%E7%AB%A0%E5%AF%AB%E5%A4%AA%E5%A5%BD%E6%89%8D%E6%B2%92%E7%95%B6%E4%B8%8A%E7%8B%80%E5%85%83-%E6%AD%90%E9%99%BD%E4%BF%AE%E8%A9%95%E5%8D%B7%E6%9C%89%E6%AE%B5%E6%95%85%E4%BA%8B-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
     "timestamp": "2026-11-03T23:40:22.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘇軾文章寫太好才沒當上狀元？　歐陽修評卷有段故事｜歷史奇趣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193529568204427264645812.png/ykTSH_x60c87ATxDvcEE-X_kTtwzBk3hKFJtmihSbZo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405778/%E8%98%87%E8%BB%BE%E6%96%87%E7%AB%A0%E5%AF%AB%E5%A4%AA%E5%A5%BD%E6%89%8D%E6%B2%92%E7%95%B6%E4%B8%8A%E7%8B%80%E5%85%83-%E6%AD%90%E9%99%BD%E4%BF%AE%E8%A9%95%E5%8D%B7%E6%9C%89%E6%AE%B5%E6%95%85%E4%BA%8B-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
-    "timestamp": "2026-11-03T23:23:32.901Z",
     "strategy": ".content-card__main"
   }
 ];
