@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T15:24:32.933Z
+// Last updated: 2026-11-04T15:55:21.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：特朗普政府與委內瑞拉磋商SOFA協定　為長期駐軍鋪路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260111/1086874201832296448795013.jpeg/boHryleYKQfumKle_R2jaLhUNMuR-rhLjWF12I1hddg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407246/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%88%87%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%A3%8B%E5%95%86sofa%E5%8D%94%E5%AE%9A-%E7%82%BA%E9%95%B7%E6%9C%9F%E9%A7%90%E8%BB%8D%E9%8B%AA%E8%B7%AF",
+    "timestamp": "2026-11-04T15:55:21.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中大法律學院與上海市司法局簽署備忘錄　探索法律人才培養新模式",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194681651838324736473215.jpeg/qWvk9rGD2nlhinj0OaoHWdy4lzy5dBvRwj2tzMI9rcw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407050/%E5%AA%BD%E6%A8%A3%E5%B9%B4%E8%8F%AF-%E5%BD%B1%E8%A9%95%E6%89%B9%E4%BF%9D%E5%AE%88%E6%B2%92%E6%BF%80%E7%99%BC-%E6%88%80%E6%AF%8D%E7%8B%82%E4%BA%82%E5%80%AB%E8%A1%9D%E5%8B%95-%E5%B0%8E%E6%BC%94-%E6%B7%B1%E6%84%9F%E6%84%95%E7%84%B6",
     "timestamp": "2026-11-04T08:24:12.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雙11優惠2026｜20+網購優惠碼合集！iHerb/Lululemon/Nike/豐澤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194267341714624512190438.jpeg/REzSjG5XOI--myjTu_fv55XXPB0R9ZIj4nI3sOJyN7A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60403921/%E9%9B%9911%E5%84%AA%E6%83%A02026-20-%E7%B6%B2%E8%B3%BC%E5%84%AA%E6%83%A0%E7%A2%BC%E5%90%88%E9%9B%86-iherb-lululemon-nike-%E8%B1%90%E6%BE%A4",
-    "timestamp": "2026-11-04T07:53:45.865Z",
     "strategy": ".content-card__main"
   }
 ];
