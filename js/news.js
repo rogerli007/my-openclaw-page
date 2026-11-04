@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T11:39:51.147Z
+// Last updated: 2026-11-04T11:54:23.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT法蘭克福冠軍賽｜杜凱琹女單無緣次圈　1：3不敵20歲主場球手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194726123208970240697514.jpeg/MiJLD11EPy4IjCafYsKfD7ceLkA9him_LTXeBy013gc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407226/wtt%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F%E5%86%A0%E8%BB%8D%E8%B3%BD-%E6%9D%9C%E5%87%B1%E7%90%B9%E5%A5%B3%E5%96%AE%E7%84%A1%E7%B7%A3%E6%AC%A1%E5%9C%88-1-3%E4%B8%8D%E6%95%B520%E6%AD%B2%E4%B8%BB%E5%A0%B4%E7%90%83%E6%89%8B",
+    "timestamp": "2026-11-04T11:54:23.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球．韓國賽︱李卓耀吳英倫伍家朗齊過關　男單16強港將佔3席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194628503316729856240689.jpeg/_8zL09MXBt0vLJgHp00NfvuQtp1hndU_pNknCqTZJwo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60390474/%E7%85%B2%E9%A3%AF%E8%B2%BC%E5%A3%AB-%E6%97%A5%E5%AA%92%E5%AF%A6%E6%B8%AC1%E6%AC%BE%E6%B0%B4%E7%85%AE%E9%A3%AFq%E5%BD%88%E9%AC%86%E8%BB%9F-%E5%8A%A0%E7%99%BD%E9%86%8B%E5%8A%A9%E9%99%8D%E8%A1%80%E5%A3%93-%E7%85%B2%E9%A3%AF4%E8%B2%BC%E5%A3%AB",
     "timestamp": "2026-11-04T04:42:59.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山西女碩士失蹤13年遭多次性侵　2村民強姦罪成判囚10-12年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194610769275129856307489.jpeg/aeM887mf2HVEH2m2uurIavjBEjlXxnQNtdCdGrXQnRo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60406960/%E5%B1%B1%E8%A5%BF%E5%A5%B3%E7%A2%A9%E5%A3%AB%E5%A4%B1%E8%B9%A413%E5%B9%B4%E9%81%AD%E5%A4%9A%E6%AC%A1%E6%80%A7%E4%BE%B5-2%E6%9D%91%E6%B0%91%E5%BC%B7%E5%A7%A6%E7%BD%AA%E6%88%90%E5%88%A4%E5%9B%9A10-12%E5%B9%B4",
-    "timestamp": "2026-11-04T04:22:05.148Z",
     "strategy": ".content-card__main"
   }
 ];
