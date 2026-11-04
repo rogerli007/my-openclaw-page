@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T21:12:46.079Z
+// Last updated: 2026-11-04T21:24:11.568Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網傳觀塘工廈垃圾箱有鼠群出沒　01直擊老鼠亂竄　籠內有鼠｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194873703117099008980523.jpeg/Kz8wriipf-DEId002EGZ7N4FqVpn5bg1FrU5Kiy1OSo",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407295/%E7%B6%B2%E5%82%B3%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%9E%83%E5%9C%BE%E7%AE%B1%E6%9C%89%E9%BC%A0%E7%BE%A4%E5%87%BA%E6%B2%92-01%E7%9B%B4%E6%93%8A%E8%80%81%E9%BC%A0%E4%BA%82%E7%AB%84-%E7%B1%A0%E5%85%A7%E6%9C%89%E9%BC%A0-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-04T21:24:11.568Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧親人連續離世：受到嚴重打擊遭心理創傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260111/1086874201832296448795013.jpeg/boHryleYKQfumKle_R2jaLhUNMuR-rhLjWF12I1hddg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407246/%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%88%87%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89%E7%A3%8B%E5%95%86sofa%E5%8D%94%E5%AE%9A-%E7%82%BA%E9%95%B7%E6%9C%9F%E9%A7%90%E8%BB%8D%E9%8B%AA%E8%B7%AF",
     "timestamp": "2026-11-04T15:55:21.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中大法律學院與上海市司法局簽署備忘錄　探索法律人才培養新模式",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194786684387332096691273.jpeg/oHWswSkw86t_8R8x3gMAwwSMlPRVJPVIJT3wDiU98A4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2/60407270/%E4%B8%AD%E5%A4%A7%E6%B3%95%E5%BE%8B%E5%AD%B8%E9%99%A2%E8%88%87%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%8F%B8%E6%B3%95%E5%B1%80%E7%B0%BD%E7%BD%B2%E5%82%99%E5%BF%98%E9%8C%84-%E6%8E%A2%E7%B4%A2%E6%B3%95%E5%BE%8B%E4%BA%BA%E6%89%8D%E5%9F%B9%E9%A4%8A%E6%96%B0%E6%A8%A1%E5%BC%8F",
-    "timestamp": "2026-11-04T15:24:32.933Z",
     "strategy": ".content-card__main"
   }
 ];
