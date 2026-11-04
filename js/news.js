@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T01:23:19.663Z
+// Last updated: 2026-11-04T01:41:57.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國車牌用辱華字眼「CH*NK」竟過審　新冠時對亞裔的歧視仍未消",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181654994068180992346921.jpeg/1LD5gfew6B_yg3aDkGN7WRdpqkumXhKbd5w033ecNN8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60394899/%E7%BE%8E%E5%9C%8B%E8%BB%8A%E7%89%8C%E7%94%A8%E8%BE%B1%E8%8F%AF%E5%AD%97%E7%9C%BC-ch-nk-%E7%AB%9F%E9%81%8E%E5%AF%A9-%E6%96%B0%E5%86%A0%E6%99%82%E5%B0%8D%E4%BA%9E%E8%A3%94%E7%9A%84%E6%AD%A7%E8%A6%96%E4%BB%8D%E6%9C%AA%E6%B6%88",
+    "timestamp": "2026-11-04T01:41:57.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科技巨頭「華為」傳洽租西九IGC兩層！涉約7萬呎樓面　呎租約40蚊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260720/1156022067376689152478512.jpeg/YQQtWf0s-IZd_3bvE56gWv3sPsI4ROMp_dyyrP3csqw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406863/%E8%B7%AF%E9%80%8F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%B4%90%E7%B4%84%E6%8A%95%E8%B3%87%E8%A8%88%E5%8A%83%E5%8F%97%E9%98%BB-%E5%9B%A0%E7%BE%8E%E5%B0%8D%E8%8F%AF%E8%A8%AD%E5%82%99%E5%87%BA%E5%8F%A3%E8%A8%B1%E5%8F%AF%E5%B0%9A%E6%9C%AA%E5%AF%A9%E6%89%B9",
     "timestamp": "2026-11-03T20:14:55.359Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧揭被屈包養真相：記者親口承認「寫你銷量高」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193252039744819200728436.jpeg/oc0n1v3nR8BLiXSULJj-BhTCjIqbDCcVO4YXszuGF7M",
-    "url": "https://www.hk01.com/01TV/60405649/%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8F%AD%E8%A2%AB%E5%B1%88%E5%8C%85%E9%A4%8A%E7%9C%9F%E7%9B%B8-%E8%A8%98%E8%80%85%E8%A6%AA%E5%8F%A3%E6%89%BF%E8%AA%8D-%E5%AF%AB%E4%BD%A0%E9%8A%B7%E9%87%8F%E9%AB%98",
-    "timestamp": "2026-11-03T19:53:40.053Z",
     "strategy": ".content-card__main"
   }
 ];
