@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T04:53:50.935Z
+// Last updated: 2026-11-04T05:25:29.117Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜鼻咽癌患者誤信中介赴日打免疫針　花250萬惡化至四期",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194640124730675200498076.jpeg/oOhmMsfzeP3RB0odmuZrivoUHgEhcRfWlWDZupVg2bo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406998/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E9%BC%BB%E5%92%BD%E7%99%8C%E6%82%A3%E8%80%85%E8%AA%A4%E4%BF%A1%E4%B8%AD%E4%BB%8B%E8%B5%B4%E6%97%A5%E6%89%93%E5%85%8D%E7%96%AB%E9%87%9D-%E8%8A%B1250%E8%90%AC%E6%83%A1%E5%8C%96%E8%87%B3%E5%9B%9B%E6%9C%9F",
+    "timestamp": "2026-11-04T05:25:29.117Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "惠英紅爆在TVB曾被睇唔起　遭髮型師言語羞辱極崩潰：眼淚停唔到",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194530537902313472421739.jpeg/8W1EtxQUrdyh7uz_UF6OZPMUzmQZfXWJQidcTEInXEw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60406852/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E6%99%9A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8428%E5%BA%A6",
     "timestamp": "2026-11-03T22:18:26.321Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍灣麗晶花園單位失火　3人送院150人疏散　主人攜寵物齊逃生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194504227456552960230567.jpeg/c4rTEGttRaqn0sbquf1sLL0sJ_vNhNdGY60FnWOtBZ0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406866/%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%BA%97%E6%99%B6%E8%8A%B1%E5%9C%92%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-3%E4%BA%BA%E9%80%81%E9%99%A2150%E4%BA%BA%E7%96%8F%E6%95%A3-%E4%B8%BB%E4%BA%BA%E6%94%9C%E5%AF%B5%E7%89%A9%E9%BD%8A%E9%80%83%E7%94%9F",
-    "timestamp": "2026-11-03T21:53:45.154Z",
     "strategy": ".content-card__main"
   }
 ];
