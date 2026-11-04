@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T13:45:54.889Z
+// Last updated: 2026-11-04T14:15:37.592Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何文田巴富街中學遇竊　失$28.7萬平板電腦及相機器材",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194772256572575744572168.png/if0RFE75bqVJRVEK30XVVQqTV1lIYerBq1r8-qta_Po?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407258/%E4%BD%95%E6%96%87%E7%94%B0%E5%B7%B4%E5%AF%8C%E8%A1%97%E4%B8%AD%E5%AD%B8%E9%81%87%E7%AB%8A-%E5%A4%B1-28-7%E8%90%AC%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6%E5%8F%8A%E7%9B%B8%E6%A9%9F%E5%99%A8%E6%9D%90",
+    "timestamp": "2026-11-04T14:15:37.592Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨境白牌車｜警一周拘7司機　荃灣往澳門索¥1550　內地男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194635592516767744452869.png/Yisd8V9RWZG6ZqRwq5xjjfNjvPA5P7I3kKxPKpCsTyo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407005/%E7%94%B0%E6%9B%A6%E8%96%87-%E7%A6%AE%E6%9C%8D%E8%83%B8%E5%8F%A3%E9%AC%86%E5%8B%95-%E7%96%91%E8%B5%B0%E5%85%8917%E7%A7%92%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91%E9%A7%81%E6%96%A5%E6%98%AF%E7%9A%BA%E6%91%BA%E9%99%B0%E5%BD%B1",
     "timestamp": "2026-11-04T05:53:47.218Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "揀大閘蟹貼士｜大廚教選靚大閘蟹5特徵　唔揀陽澄湖？防買假貨2招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194643597484363776865039.jpeg/bb2QFENeNxOt33LnPomAx5hZQAW7cyKW_Vrdav1a3Wo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60407027/%E6%8F%80%E5%A4%A7%E9%96%98%E8%9F%B9%E8%B2%BC%E5%A3%AB-%E5%A4%A7%E5%BB%9A%E6%95%99%E9%81%B8%E9%9D%9A%E5%A4%A7%E9%96%98%E8%9F%B95%E7%89%B9%E5%BE%B5-%E5%94%94%E6%8F%80%E9%99%BD%E6%BE%84%E6%B9%96-%E9%98%B2%E8%B2%B7%E5%81%87%E8%B2%A82%E6%8B%9B",
-    "timestamp": "2026-11-04T05:40:05.114Z",
     "strategy": ".content-card__main"
   }
 ];
