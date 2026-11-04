@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T16:39:59.911Z
+// Last updated: 2026-11-04T17:13:16.635Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵大窩口站老鼠奔跑　狂跳樓梯身手敏捷　目擊者：癡線㗎｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194815612304494592284760.jpeg/DWgGQu3gBvsOSNeVeRNFwkoPeIIQIdaJ9UzCgPVMwoA",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407282/%E6%B8%AF%E9%90%B5%E5%A4%A7%E7%AA%A9%E5%8F%A3%E7%AB%99%E8%80%81%E9%BC%A0%E5%A5%94%E8%B7%91-%E7%8B%82%E8%B7%B3%E6%A8%93%E6%A2%AF%E8%BA%AB%E6%89%8B%E6%95%8F%E6%8D%B7-%E7%9B%AE%E6%93%8A%E8%80%85-%E7%99%A1%E7%B7%9A%E3%97%8E-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-04T17:13:16.635Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "單車男闖入大埔運動場　跑道變單車徑　無視跑友照狂飆捱批｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194636000391860224543862.jpeg/sfJcij299nIkX646IeTOagzr2nNTUxT0wGA5GsBgORo",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406687/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%B5%90%E6%9E%9C%E6%9C%80%E6%96%B0-%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%8F%966%E6%90%96%E6%93%BA%E5%B7%9E-%E8%AA%95%E9%A6%96%E4%BD%8D%E7%A9%86%E6%96%AF%E6%9E%97%E5%8F%83%E8%AD%B0%E5%93%A1",
     "timestamp": "2026-11-04T09:27:04.044Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗斬人有片｜越南漢甫入雜貨店遭同鄉雙刀斬傷　旁人蜂擁制止",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194690672968339456749623.jpeg/lTMhC2KtkV-D1MJNrnDAkgN3QI0jYwEh3lHTVt5R01Y",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407135/%E6%B7%B1%E6%B0%B4%E5%9F%97%E6%96%AC%E4%BA%BA%E6%9C%89%E7%89%87-%E8%B6%8A%E5%8D%97%E6%BC%A2%E7%94%AB%E5%85%A5%E9%9B%9C%E8%B2%A8%E5%BA%97%E9%81%AD%E5%90%8C%E9%84%89%E9%9B%99%E5%88%80%E6%96%AC%E5%82%B7-%E6%97%81%E4%BA%BA%E8%9C%82%E6%93%81%E5%88%B6%E6%AD%A2",
-    "timestamp": "2026-11-04T08:59:17.402Z",
     "strategy": ".content-card__main"
   }
 ];
