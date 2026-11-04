@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T02:17:43.502Z
+// Last updated: 2026-11-04T03:26:31.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "引國際經驗提升港ETF市場生態圈　Global X ︰推動良性循環",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192868168058540032821405.jpeg/uKaAhPOQ14OkjDsljixdsBgIgGSMNJGiY1Ou12NTrtc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403709/%E5%BC%95%E5%9C%8B%E9%9A%9B%E7%B6%93%E9%A9%97%E6%8F%90%E5%8D%87%E6%B8%AFetf%E5%B8%82%E5%A0%B4%E7%94%9F%E6%85%8B%E5%9C%88-global-x-%E6%8E%A8%E5%8B%95%E8%89%AF%E6%80%A7%E5%BE%AA%E7%92%B0",
+    "timestamp": "2026-11-04T03:26:31.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯球評︱曼聯熱血反勝羅馬4點觀察　能否真正反彈還看心理層面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194494730285617152027539.jpeg/hRq9v7CfkOlbRwb5yiUmwxJj0mXRq7Ho70ol7u9KJe4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406868/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%B4%90%E7%B4%84%E5%B7%9E%E5%A8%81%E5%BE%B9%E6%96%AF%E7%89%B9%E7%B8%A3%E6%8A%95%E7%A5%A8%E6%A9%9F%E6%95%85%E9%9A%9C-25%E8%90%AC%E5%BC%B5%E9%81%B8%E7%A5%A8%E7%84%A1%E6%B3%95%E6%8E%83%E6%8F%8F",
     "timestamp": "2026-11-03T20:53:38.314Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：美伊就達成協議仍有大段距離　雷扎伊：美須明確回應七條件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170067481067261952693170.jpeg/_yC_RhoPcHJTNoQyvWjx8VYpZbQPTIH5yLhyDci4cg0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60406867/%E8%B7%AF%E9%80%8F-%E7%BE%8E%E4%BC%8A%E5%B0%B1%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0%E4%BB%8D%E6%9C%89%E5%A4%A7%E6%AE%B5%E8%B7%9D%E9%9B%A2-%E9%9B%B7%E6%89%8E%E4%BC%8A-%E7%BE%8E%E9%A0%88%E6%98%8E%E7%A2%BA%E5%9B%9E%E6%87%89%E4%B8%83%E6%A2%9D%E4%BB%B6",
-    "timestamp": "2026-11-03T20:39:50.228Z",
     "strategy": ".content-card__main"
   }
 ];
