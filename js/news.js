@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T10:40:15.248Z
+// Last updated: 2026-11-04T10:53:50.019Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印尼爆竊聽總統通訊案　警察總長涉監聽普拉博沃等高官被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194702658405928960479150.jpeg/69hSUrVZOUgnCcuob6YNr6twmT2FCWzTvP6Zerz-mXo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407169/%E5%8D%B0%E5%B0%BC%E7%88%86%E7%AB%8A%E8%81%BD%E7%B8%BD%E7%B5%B1%E9%80%9A%E8%A8%8A%E6%A1%88-%E8%AD%A6%E5%AF%9F%E7%B8%BD%E9%95%B7%E6%B6%89%E7%9B%A3%E8%81%BD%E6%99%AE%E6%8B%89%E5%8D%9A%E6%B2%83%E7%AD%89%E9%AB%98%E5%AE%98%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-04T10:53:50.019Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone驚現-32℃極寒預警！離奇撞正1960年末日預言！網：AI劇成真",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192868168058540032821405.jpeg/uKaAhPOQ14OkjDsljixdsBgIgGSMNJGiY1Ou12NTrtc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60403709/%E5%BC%95%E5%9C%8B%E9%9A%9B%E7%B6%93%E9%A9%97%E6%8F%90%E5%8D%87%E6%B8%AFetf%E5%B8%82%E5%A0%B4%E7%94%9F%E6%85%8B%E5%9C%88-global-x-%E6%8E%A8%E5%8B%95%E8%89%AF%E6%80%A7%E5%BE%AA%E7%92%B0",
     "timestamp": "2026-11-04T03:26:31.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯球評︱曼聯熱血反勝羅馬4點觀察　能否真正反彈還看心理層面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194585318376869888917260.jpeg/Fz3mOVRnFJhjKZoUthfING_1UsW1Hkwlm-0agJvtGoA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60406895/%E6%AD%90%E8%81%AF%E7%90%83%E8%A9%95-%E6%9B%BC%E8%81%AF%E7%86%B1%E8%A1%80%E5%8F%8D%E5%8B%9D%E7%BE%85%E9%A6%AC4%E9%BB%9E%E8%A7%80%E5%AF%9F-%E8%83%BD%E5%90%A6%E7%9C%9F%E6%AD%A3%E5%8F%8D%E5%BD%88%E9%82%84%E7%9C%8B%E5%BF%83%E7%90%86%E5%B1%A4%E9%9D%A2",
-    "timestamp": "2026-11-04T02:17:43.502Z",
     "strategy": ".content-card__main"
   }
 ];
