@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T17:53:36.516Z
+// Last updated: 2026-11-04T18:16:50.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "胡塞武裝空襲也門政府軍新兵營　據指至少25死數十人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-11-04T18:16:50.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "$1.08億六合彩全餐奇招│$220買齊49個號碼！過來人實測：較容易中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194704078513377280619850.jpeg/FOJ6F6XBMNtiP9BZZmBi0GVQrQW-1FPNRTsWo0U7FqM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407170/%E7%BE%BD%E6%AF%9B%E7%90%83-%E9%9F%93%E5%9C%8B%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%80%E5%90%B3%E8%8B%B1%E5%80%AB%E4%BC%8D%E5%AE%B6%E6%9C%97%E9%BD%8A%E9%81%8E%E9%97%9C-%E7%94%B7%E5%96%AE16%E5%BC%B7%E6%B8%AF%E5%B0%87%E4%BD%943%E5%B8%AD",
     "timestamp": "2026-11-04T11:25:29.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼爆竊聽總統通訊案　警察總長涉監聽普拉博沃等高官被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194702658405928960479150.jpeg/69hSUrVZOUgnCcuob6YNr6twmT2FCWzTvP6Zerz-mXo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407169/%E5%8D%B0%E5%B0%BC%E7%88%86%E7%AB%8A%E8%81%BD%E7%B8%BD%E7%B5%B1%E9%80%9A%E8%A8%8A%E6%A1%88-%E8%AD%A6%E5%AF%9F%E7%B8%BD%E9%95%B7%E6%B6%89%E7%9B%A3%E8%81%BD%E6%99%AE%E6%8B%89%E5%8D%9A%E6%B2%83%E7%AD%89%E9%AB%98%E5%AE%98%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-04T10:53:50.019Z",
     "strategy": ".content-card__main"
   }
 ];
