@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T07:53:45.865Z
+// Last updated: 2026-11-04T08:24:12.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "媽樣年華｜影評批保守沒激發「戀母狂亂倫衝動」　導演︰深感愕然",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194681651838324736473215.jpeg/qWvk9rGD2nlhinj0OaoHWdy4lzy5dBvRwj2tzMI9rcw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407050/%E5%AA%BD%E6%A8%A3%E5%B9%B4%E8%8F%AF-%E5%BD%B1%E8%A9%95%E6%89%B9%E4%BF%9D%E5%AE%88%E6%B2%92%E6%BF%80%E7%99%BC-%E6%88%80%E6%AF%8D%E7%8B%82%E4%BA%82%E5%80%AB%E8%A1%9D%E5%8B%95-%E5%B0%8E%E6%BC%94-%E6%B7%B1%E6%84%9F%E6%84%95%E7%84%B6",
+    "timestamp": "2026-11-04T08:24:12.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雙11優惠2026｜20+網購優惠碼合集！iHerb/Lululemon/Nike/豐澤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194343152148811776358079.jpeg/7aFdtWK12D4ZH63wNJBW3eNBjDBNmVM_hNKHJL7ShyQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406734/%E6%9C%B1%E5%92%AA%E5%92%AA%E6%92%95%E7%A0%B4%E5%B8%82%E5%84%88%E5%BD%A2%E8%B1%A1%E8%87%AA%E6%8E%8F%E8%85%B0%E5%8C%85%E6%B0%B9%E8%80%81%E4%BA%BA%E5%AE%B6%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89-%E8%A6%81%E7%A9%8D%E5%90%93%E7%A6%8F",
     "timestamp": "2026-11-04T00:50:52.218Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "比亞迪巴西市場份額一年翻倍　10月註冊量按年增137.6%｜企業出海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260328/1114609208671604736536914.png/wJNKucdErtG5wmRQdTjwn9ceI237ZM4J_pGbk_6Rm5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60406879/%E6%AF%94%E4%BA%9E%E8%BF%AA%E5%B7%B4%E8%A5%BF%E5%B8%82%E5%A0%B4%E4%BB%BD%E9%A1%8D%E4%B8%80%E5%B9%B4%E7%BF%BB%E5%80%8D-10%E6%9C%88%E8%A8%BB%E5%86%8A%E9%87%8F%E6%8C%89%E5%B9%B4%E5%A2%9E137-6-%E4%BC%81%E6%A5%AD%E5%87%BA%E6%B5%B7",
-    "timestamp": "2026-11-04T00:29:48.824Z",
     "strategy": ".content-card__main"
   }
 ];
