@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T14:15:37.592Z
+// Last updated: 2026-11-04T14:25:27.805Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾志光拜祭黎彼得晒靈龕照14字哀悼故友　網民大讚有情有義",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194775456973328384841256.jpeg/qvNvnvRBJPs_Ke9AnHQA1OsO4fDK6PGud-mpBnfpqQY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407259/%E9%8D%BE%E5%BF%97%E5%85%89%E6%8B%9C%E7%A5%AD%E9%BB%8E%E5%BD%BC%E5%BE%97%E6%99%92%E9%9D%88%E9%BE%95%E7%85%A714%E5%AD%97%E5%93%80%E6%82%BC%E6%95%85%E5%8F%8B-%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E6%9C%89%E6%83%85%E6%9C%89%E7%BE%A9",
+    "timestamp": "2026-11-04T14:25:27.805Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何文田巴富街中學遇竊　失$28.7萬平板電腦及相機器材",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194652966808719360689307.jpeg/kYFeuG20ezhu5RwpaRqdOikZtgZL0B0nJAQLcyQEC3M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407035/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%87%8D%E5%A5%AA%E5%9C%8B%E6%9C%83-%E5%82%91%E5%BC%97%E9%87%8C%E6%96%AF%E5%8B%A2%E6%88%90%E9%A6%96%E4%BD%8D%E9%BB%91%E4%BA%BA%E7%9C%BE%E8%AD%B0%E9%99%A2%E8%AD%B0%E9%95%B7",
     "timestamp": "2026-11-04T06:21:45.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "田曦薇「禮服胸口鬆動」疑走光17秒影片瘋傳　網民駁斥是皺摺陰影",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194635592516767744452869.png/Yisd8V9RWZG6ZqRwq5xjjfNjvPA5P7I3kKxPKpCsTyo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407005/%E7%94%B0%E6%9B%A6%E8%96%87-%E7%A6%AE%E6%9C%8D%E8%83%B8%E5%8F%A3%E9%AC%86%E5%8B%95-%E7%96%91%E8%B5%B0%E5%85%8917%E7%A7%92%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91%E9%A7%81%E6%96%A5%E6%98%AF%E7%9A%BA%E6%91%BA%E9%99%B0%E5%BD%B1",
-    "timestamp": "2026-11-04T05:53:47.218Z",
     "strategy": ".content-card__main"
   }
 ];
