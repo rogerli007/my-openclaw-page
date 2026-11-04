@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T22:13:07.394Z
+// Last updated: 2026-11-04T22:23:53.393Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜曼城作客3：2勝RB萊比錫　阿仙奴作客2：1贏布拉格斯拉維亞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194891264206573568905473.jpeg/10Srh_Ylgj47wRRwT47jKiWdu85AjRzUYIH1gWCB9YE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407297/%E6%AD%90%E8%81%AF-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A23-2%E5%8B%9Drb%E8%90%8A%E6%AF%94%E9%8C%AB-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A22-1%E8%B4%8F%E5%B8%83%E6%8B%89%E6%A0%BC%E6%96%AF%E6%8B%89%E7%B6%AD%E4%BA%9E",
+    "timestamp": "2026-11-04T22:23:53.393Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉緯民爆影帝曾欠近億債務　為還錢變賣家產再不停拍戲終還清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194820513118031872862149.jpeg/0-3VuYU06aEWGRiOKEtwzCLNAAusPvtEtfX4rbX1-K0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405198/1-08%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%85%A8%E9%A4%90%E5%A5%87%E6%8B%9B-220%E8%B2%B7%E9%BD%8A49%E5%80%8B%E8%99%9F%E7%A2%BC-%E9%81%8E%E4%BE%86%E4%BA%BA%E5%AF%A6%E6%B8%AC-%E8%BC%83%E5%AE%B9%E6%98%93%E4%B8%AD",
     "timestamp": "2026-11-04T17:24:02.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵大窩口站老鼠奔跑　狂跳樓梯身手敏捷　目擊者：癡線㗎｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194815612304494592284760.jpeg/DWgGQu3gBvsOSNeVeRNFwkoPeIIQIdaJ9UzCgPVMwoA",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407282/%E6%B8%AF%E9%90%B5%E5%A4%A7%E7%AA%A9%E5%8F%A3%E7%AB%99%E8%80%81%E9%BC%A0%E5%A5%94%E8%B7%91-%E7%8B%82%E8%B7%B3%E6%A8%93%E6%A2%AF%E8%BA%AB%E6%89%8B%E6%95%8F%E6%8D%B7-%E7%9B%AE%E6%93%8A%E8%80%85-%E7%99%A1%E7%B7%9A%E3%97%8E-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-04T17:13:16.635Z",
     "strategy": ".content-card__main"
   }
 ];
