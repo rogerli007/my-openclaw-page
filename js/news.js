@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T14:53:27.248Z
+// Last updated: 2026-11-04T15:15:10.103Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜美民主黨中期選舉大勝　道指早段飆1200點　納指漲逾2%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260325/1113610276663463936480972.jpeg/DdTsp43e3G4b1oxuI1PHcJOdWljiOKf0YwUPwmMFD8I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60407267/%E7%BE%8E%E8%82%A1-%E7%BE%8E%E6%B0%91%E4%B8%BB%E9%BB%A8%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%A4%A7%E5%8B%9D-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E9%A3%861200%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%BC%B2%E9%80%BE2",
+    "timestamp": "2026-11-04T15:15:10.103Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角英皇道女子捱貨車撞　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241202/940227066677170176246930.jpeg/zW6uJDckhzm3D_e1RU47UMwYxu7r4-lLHmONfx5jjX8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407070/%E7%BE%8E%E5%9C%8B%E6%BC%A2%E5%AF%84%E6%95%B8%E7%99%BE%E5%B0%81%E7%B2%89%E6%9C%AB%E4%BF%A1%E6%81%90%E5%9A%87%E5%AE%98%E5%93%A1-fbi%E8%BF%BD%E6%9F%A5%E5%85%A9%E5%B9%B4%E7%B5%82%E8%90%BD%E7%B6%B2",
     "timestamp": "2026-11-04T07:26:48.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳甜品｜5大人氣「小房子蛋糕」　慕斯屋頂+巴斯克基底口感豐富",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194627154151739392352786.jpeg/ln05TvKeFKIzwVszg0SqCauO2T0x8TVIenYYUXp2GFE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60402628/%E6%B7%B1%E5%9C%B3%E7%94%9C%E5%93%81-5%E5%A4%A7%E4%BA%BA%E6%B0%A3-%E5%B0%8F%E6%88%BF%E5%AD%90%E8%9B%8B%E7%B3%95-%E6%85%95%E6%96%AF%E5%B1%8B%E9%A0%82-%E5%B7%B4%E6%96%AF%E5%85%8B%E5%9F%BA%E5%BA%95%E5%8F%A3%E6%84%9F%E8%B1%90%E5%AF%8C",
-    "timestamp": "2026-11-04T07:15:41.307Z",
     "strategy": ".content-card__main"
   }
 ];
