@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T06:44:20.828Z
+// Last updated: 2026-11-04T07:15:41.307Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳甜品｜5大人氣「小房子蛋糕」　慕斯屋頂+巴斯克基底口感豐富",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194627154151739392352786.jpeg/ln05TvKeFKIzwVszg0SqCauO2T0x8TVIenYYUXp2GFE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60402628/%E6%B7%B1%E5%9C%B3%E7%94%9C%E5%93%81-5%E5%A4%A7%E4%BA%BA%E6%B0%A3-%E5%B0%8F%E6%88%BF%E5%AD%90%E8%9B%8B%E7%B3%95-%E6%85%95%E6%96%AF%E5%B1%8B%E9%A0%82-%E5%B7%B4%E6%96%AF%E5%85%8B%E5%9F%BA%E5%BA%95%E5%8F%A3%E6%84%9F%E8%B1%90%E5%AF%8C",
+    "timestamp": "2026-11-04T07:15:41.307Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警破洗黑錢集團拘11人　涉85宗騙案　揭買債仔戶口洗7000萬黑錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193529568204427264645812.png/ykTSH_x60c87ATxDvcEE-X_kTtwzBk3hKFJtmihSbZo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405778/%E8%98%87%E8%BB%BE%E6%96%87%E7%AB%A0%E5%AF%AB%E5%A4%AA%E5%A5%BD%E6%89%8D%E6%B2%92%E7%95%B6%E4%B8%8A%E7%8B%80%E5%85%83-%E6%AD%90%E9%99%BD%E4%BF%AE%E8%A9%95%E5%8D%B7%E6%9C%89%E6%AE%B5%E6%95%85%E4%BA%8B-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
     "timestamp": "2026-11-03T23:23:32.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Meta聯合中企研發機械人Max　搭NVIDIA晶片面部可模擬人類表情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194382510411223040963450.jpeg/54OQGsdfQh4_U5uo2RFS3RvkYiUPEFZ5DVyCnw1cgp8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60406583/meta%E8%81%AF%E5%90%88%E4%B8%AD%E4%BC%81%E7%A0%94%E7%99%BC%E6%A9%9F%E6%A2%B0%E4%BA%BAmax-%E6%90%ADnvidia%E6%99%B6%E7%89%87%E9%9D%A2%E9%83%A8%E5%8F%AF%E6%A8%A1%E6%93%AC%E4%BA%BA%E9%A1%9E%E8%A1%A8%E6%83%85",
-    "timestamp": "2026-11-03T23:13:06.196Z",
     "strategy": ".content-card__main"
   }
 ];
