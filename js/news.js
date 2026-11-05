@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T13:43:33.670Z
+// Last updated: 2026-11-05T13:53:25.009Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《香港01》嚴正聲明：與可疑眾籌網站無任何關聯　籲公眾提防受騙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195126693459660800592863.jpeg/CBuj_8rRvCqzirDNA1TRxGfiL-QLi48-9T8Pb_U_D28?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407678/%E9%A6%99%E6%B8%AF01-%E5%9A%B4%E6%AD%A3%E8%81%B2%E6%98%8E-%E8%88%87%E5%8F%AF%E7%96%91%E7%9C%BE%E7%B1%8C%E7%B6%B2%E7%AB%99%E7%84%A1%E4%BB%BB%E4%BD%95%E9%97%9C%E8%81%AF-%E7%B1%B2%E5%85%AC%E7%9C%BE%E6%8F%90%E9%98%B2%E5%8F%97%E9%A8%99",
+    "timestamp": "2026-11-05T13:53:25.009Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《嫁金釵》結局引熱議！最大贏家竟不是浴血奮戰的田曦薇而是她？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195038657900187648768432.jpeg/K-ZsIK2FSzwl4ohU30bXQ6vFTLluY74JRxhfNkcYXzY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60407506/%E5%85%AB%E4%B8%89%E5%A4%AD%E6%BC%94%E5%94%B1%E6%9C%832026-%E6%BE%B3%E9%96%80%E9%96%8B1%E5%A0%B4%E9%96%80%E7%A5%A8-588%E8%B5%B7-%E9%99%84%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-11-05T08:25:24.243Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "UNIQLO推出文學雜誌！Cate Blanchett掛帥新企劃寫下女性真實經歷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195015354854674432123957.jpeg/I4LDogku7dgcRF3oUbqxn47Px9rkYx3DVGipGVRoqRk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60407481/uniqlo%E6%8E%A8%E5%87%BA%E6%96%87%E5%AD%B8%E9%9B%9C%E8%AA%8C-cate-blanchett%E6%8E%9B%E5%B8%A5%E6%96%B0%E4%BC%81%E5%8A%83%E5%AF%AB%E4%B8%8B%E5%A5%B3%E6%80%A7%E7%9C%9F%E5%AF%A6%E7%B6%93%E6%AD%B7",
-    "timestamp": "2026-11-05T07:57:33.495Z",
     "strategy": ".content-card__main"
   }
 ];
