@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T03:27:49.438Z
+// Last updated: 2026-11-05T03:38:15.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大灣區航空優惠｜台北機票$80起！東京/大阪/福岡85折 包20KG行李",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194959515338936320680541.jpeg/BvSLjyLXgDFYifz4gYzUaj71H8EMbyaANfQVRzX0FUc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407347/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%88%AA%E7%A9%BA%E5%84%AA%E6%83%A0-%E5%8F%B0%E5%8C%97%E6%A9%9F%E7%A5%A8-80%E8%B5%B7-%E6%9D%B1%E4%BA%AC-%E5%A4%A7%E9%98%AA-%E7%A6%8F%E5%B2%A185%E6%8A%98-%E5%8C%8520kg%E8%A1%8C%E6%9D%8E",
+    "timestamp": "2026-11-05T03:38:15.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗男子持刀危坐天台　揭早前刀傷一女子頸手　警方消防展開遊說",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194887023526154240289051.jpeg/KHjQKTO5_7wwM03DAxR3B8HTtlk2eqxqc0ciO3NHIjs",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407295/%E7%B6%B2%E5%82%B3%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%9E%83%E5%9C%BE%E7%AE%B1%E6%9C%89%E9%BC%A0%E7%BE%A4%E5%87%BA%E6%B2%92-01%E7%9B%B4%E6%93%8A%E8%80%81%E9%BC%A0%E4%BA%82%E7%AB%84-%E7%B1%A0%E5%85%A7%E6%9C%89%E9%BC%A0-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-04T21:41:17.423Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網傳觀塘工廈垃圾箱有鼠群出沒　01直擊老鼠亂竄　籠內有鼠｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194873703117099008980523.jpeg/Kz8wriipf-DEId002EGZ7N4FqVpn5bg1FrU5Kiy1OSo",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407295/%E7%B6%B2%E5%82%B3%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%9E%83%E5%9C%BE%E7%AE%B1%E6%9C%89%E9%BC%A0%E7%BE%A4%E5%87%BA%E6%B2%92-01%E7%9B%B4%E6%93%8A%E8%80%81%E9%BC%A0%E4%BA%82%E7%AB%84-%E7%B1%A0%E5%85%A7%E6%9C%89%E9%BC%A0-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-04T21:24:11.568Z",
     "strategy": ".content-card__main"
   }
 ];
