@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T19:39:37.409Z
+// Last updated: 2026-11-05T19:59:11.763Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴拉圭總統培尼亞為銀行倒閉請辭　眾議院照通過彈劾案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195217101166481408487159.jpeg/sEqLdXTmnZqVPEUovhrmhhVi1JJAuATvpronE6a6JxM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407705/%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%B8%BD%E7%B5%B1%E5%9F%B9%E5%B0%BC%E4%BA%9E%E7%82%BA%E9%8A%80%E8%A1%8C%E5%80%92%E9%96%89%E8%AB%8B%E8%BE%AD-%E7%9C%BE%E8%AD%B0%E9%99%A2%E7%85%A7%E9%80%9A%E9%81%8E%E5%BD%88%E5%8A%BE%E6%A1%88",
+    "timestamp": "2026-11-05T19:59:11.763Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧從心理學中自我救贖：讀懂三大心理學派走向正面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195070188580507648079152.jpeg/cBp431IdJXivitfVl3xjXBdNtcwMtpQIAfgdTgH4HU4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407607/%E8%A1%9D%E4%B8%8A%E9%9B%B2%E9%9C%84%E5%A4%A7%E9%81%B8-%E5%AD%A3%E8%BB%8D%E9%99%B8%E7%85%A5%E6%81%86%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F-%E6%9B%BE%E9%81%AD%E8%A3%81%E5%93%A1%E9%80%86%E8%A5%B2%E8%80%83%E7%8D%B2%E6%A9%9F%E5%B8%AB%E5%9F%B7%E7%85%A7",
     "timestamp": "2026-11-05T14:46:32.284Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Binance幣安被盜494億元　創辦人趙長鵬警告：銀行處境更危險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195137431460909056516804.jpeg/1R0kbnuuwEQ9h8vxMmtGFwoqLNtiovNXGV5rdhlea3Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407676/binance%E5%B9%A3%E5%AE%89%E8%A2%AB%E7%9B%9C494%E5%84%84%E5%85%83-%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%B6%99%E9%95%B7%E9%B5%AC%E8%AD%A6%E5%91%8A-%E9%8A%80%E8%A1%8C%E8%99%95%E5%A2%83%E6%9B%B4%E5%8D%B1%E9%9A%AA",
-    "timestamp": "2026-11-05T14:25:16.950Z",
     "strategy": ".content-card__main"
   }
 ];
