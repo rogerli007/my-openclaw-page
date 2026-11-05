@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T23:45:08.939Z
+// Last updated: 2026-11-05T23:56:56.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "64歲日本名醫血管年齡僅34歲 公開20年早餐餐單 穩血糖兼抗老",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194999815662997504142780.jpeg/xGDuVPD_B-jfbtGKE5QqrJHNkfV-dGhft11ql7ddapc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407413/64%E6%AD%B2%E6%97%A5%E6%9C%AC%E5%90%8D%E9%86%AB%E8%A1%80%E7%AE%A1%E5%B9%B4%E9%BD%A1%E5%83%8534%E6%AD%B2-%E5%85%AC%E9%96%8B20%E5%B9%B4%E6%97%A9%E9%A4%90%E9%A4%90%E5%96%AE-%E7%A9%A9%E8%A1%80%E7%B3%96%E5%85%BC%E6%8A%97%E8%80%81",
+    "timestamp": "2026-11-05T23:56:56.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "64歲日本名醫血管年齡僅34歲 公開20年早餐餐單 穩血糖兼抗老",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155456578984349696128364.jpeg/5yPt-dRvRz1ryiAtewNDZUpmpLCj1BXSXFfXlFxX15Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407700/%E7%BE%8E%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%93%AC%E6%8E%A8%E6%B3%95%E6%A1%88%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B6%85%E7%B4%9Aai-%E9%81%95%E8%A6%8F%E6%AF%94%E7%85%A7%E6%A0%B8%E6%AD%A6%E7%B4%9A%E5%8F%AF%E5%9B%9A20%E5%B9%B4",
     "timestamp": "2026-11-05T18:22:54.932Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梅拉尼婭白宮會見俄烏談判代表　表彰其協助促成奧列什基六日停火",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195184750256459776247598.jpeg/hPJTLz38vv5S7P-HV0F6ukU085AUIhHtLT9KVi0_SlY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407696/%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A9%AD%E7%99%BD%E5%AE%AE%E6%9C%83%E8%A6%8B%E4%BF%84%E7%83%8F%E8%AB%87%E5%88%A4%E4%BB%A3%E8%A1%A8-%E8%A1%A8%E5%BD%B0%E5%85%B6%E5%8D%94%E5%8A%A9%E4%BF%83%E6%88%90%E5%A5%A7%E5%88%97%E4%BB%80%E5%9F%BA%E5%85%AD%E6%97%A5%E5%81%9C%E7%81%AB",
-    "timestamp": "2026-11-05T17:53:05.984Z",
     "strategy": ".content-card__main"
   }
 ];
