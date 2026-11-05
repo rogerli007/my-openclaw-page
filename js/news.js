@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T10:53:34.837Z
+// Last updated: 2026-11-05T11:13:47.004Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安達邨嚴打違規冷氣機！最嚴重收樓　房署一直全港執法　早有案例",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194813190534336512135284.png/U9T1bBacC4CYsYhabNz6sythqvHy9wuHY1IV7WNSFe0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407188/%E5%AE%89%E9%81%94%E9%82%A8%E5%9A%B4%E6%89%93%E9%81%95%E8%A6%8F%E5%86%B7%E6%B0%A3%E6%A9%9F-%E6%9C%80%E5%9A%B4%E9%87%8D%E6%94%B6%E6%A8%93-%E6%88%BF%E7%BD%B2%E4%B8%80%E7%9B%B4%E5%85%A8%E6%B8%AF%E5%9F%B7%E6%B3%95-%E6%97%A9%E6%9C%89%E6%A1%88%E4%BE%8B",
+    "timestamp": "2026-11-05T11:13:47.004Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非凡人物｜沈維立解構手機攝影美學   十優狀元鄺文傑的治癒之路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194679968068538368589340.jpeg/9DhofJSfC-IJW1KcpW294NxYA4ox_aY9e2LdLHti3Sw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60407426/%E5%BB%B6%E5%AE%89%E5%A4%A7%E5%AD%B8%E5%89%AF%E6%95%99%E6%8E%88%E6%8A%95%E6%B9%96%E8%87%AA%E7%9B%A1%E9%81%BA%E6%9B%B8%E8%88%89%E5%A0%B1%E6%A0%A1%E6%96%B9-%E9%99%9D%E8%A5%BF%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E8%81%AF%E5%90%88%E8%AA%BF%E6%9F%A5%E7%B5%84",
     "timestamp": "2026-11-05T04:42:26.224Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張家輝大娛樂騷｜農曆年首登紅館　召喚五大經典角色逼住的士宣傳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194985956751446016789243.jpeg/5iiJCJRGG9R_W9WBr-1rt2ZmpCj7KdP2Z0v99mdL_fY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407421/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E5%A4%A7%E5%A8%9B%E6%A8%82%E9%A8%B7-%E8%BE%B2%E6%9B%86%E5%B9%B4%E9%A6%96%E7%99%BB%E7%B4%85%E9%A4%A8-%E5%8F%AC%E5%96%9A%E4%BA%94%E5%A4%A7%E7%B6%93%E5%85%B8%E8%A7%92%E8%89%B2%E9%80%BC%E4%BD%8F%E7%9A%84%E5%A3%AB%E5%AE%A3%E5%82%B3",
-    "timestamp": "2026-11-05T04:22:30.748Z",
     "strategy": ".content-card__main"
   }
 ];
