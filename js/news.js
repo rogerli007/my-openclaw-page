@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T11:13:47.004Z
+// Last updated: 2026-11-05T11:23:49.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉共和黨慘敗　英國報紙封面揶揄特朗普「跛腳唐老鴨」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195092240435777536738529.jpeg/72pTBeTBQRaaJMPLXhj4SL3jXLnygsNho73EiqO9xIo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407634/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%85%B1%E5%92%8C%E9%BB%A8%E6%85%98%E6%95%97-%E8%8B%B1%E5%9C%8B%E5%A0%B1%E7%B4%99%E5%B0%81%E9%9D%A2%E6%8F%B6%E6%8F%84%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B7%9B%E8%85%B3%E5%94%90%E8%80%81%E9%B4%A8",
+    "timestamp": "2026-11-05T11:23:49.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安達邨嚴打違規冷氣機！最嚴重收樓　房署一直全港執法　早有案例",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194990224145387520971542.jpeg/Kt4C_OD5GOVNcsLshGdH0sLTvI30GsVI5gaAeMMGgHg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407427/%E9%BB%83%E4%B9%8B%E9%8B%92%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B%E5%9B%9A10%E5%B9%B4-%E6%9D%8E%E6%A1%82%E8%8F%AF%E6%8C%87%E7%8A%AF%E6%A1%88%E7%BA%8D%E7%BA%8D%E5%86%80%E9%BB%83%E7%8D%84%E4%B8%AD%E5%8F%8D%E7%9C%81",
     "timestamp": "2026-11-05T04:53:37.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "延安大學副教授投湖自盡遺書舉報校方　陝西宣布成立聯合調查組",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194679968068538368589340.jpeg/9DhofJSfC-IJW1KcpW294NxYA4ox_aY9e2LdLHti3Sw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60407426/%E5%BB%B6%E5%AE%89%E5%A4%A7%E5%AD%B8%E5%89%AF%E6%95%99%E6%8E%88%E6%8A%95%E6%B9%96%E8%87%AA%E7%9B%A1%E9%81%BA%E6%9B%B8%E8%88%89%E5%A0%B1%E6%A0%A1%E6%96%B9-%E9%99%9D%E8%A5%BF%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E8%81%AF%E5%90%88%E8%AA%BF%E6%9F%A5%E7%B5%84",
-    "timestamp": "2026-11-05T04:42:26.224Z",
     "strategy": ".content-card__main"
   }
 ];
