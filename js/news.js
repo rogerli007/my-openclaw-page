@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T08:31:33.910Z
+// Last updated: 2026-11-05T08:46:27.204Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "佩洛西接棒戰落幕　港人移民陳詩敏承認敗選　三藩市首迎同志議員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195047641449238528960387.jpeg/k5Ug3MgxwAJufx96WZvIkgs_CJC2uTkCRuCzdEbgs3Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407521/%E4%BD%A9%E6%B4%9B%E8%A5%BF%E6%8E%A5%E6%A3%92%E6%88%B0%E8%90%BD%E5%B9%95-%E6%B8%AF%E4%BA%BA%E7%A7%BB%E6%B0%91%E9%99%B3%E8%A9%A9%E6%95%8F%E6%89%BF%E8%AA%8D%E6%95%97%E9%81%B8-%E4%B8%89%E8%97%A9%E5%B8%82%E9%A6%96%E8%BF%8E%E5%90%8C%E5%BF%97%E8%AD%B0%E5%93%A1",
+    "timestamp": "2026-11-05T08:46:27.204Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李家超：主動對接國家科技戰略　爭取核心領域科研突破",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194741191225118720967538.png/ZKlThwb04ls71xONEWSG1vD9vR_0SNIOUKCsBFCgrAQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60406858/%E9%A6%99%E6%B8%AF%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89-%E9%BE%8D%E5%AE%89%E5%BF%97%E8%AB%87%E6%B1%9F%E6%B9%96%E5%92%8Cai%E7%84%A6%E6%85%AE-%E4%B8%96%E7%95%8C%E9%9C%80%E8%A6%81%E6%9D%B1%E6%96%B9%E5%8A%9F%E5%A4%AB%E5%92%8C%E5%93%B2%E5%AD%B8",
     "timestamp": "2026-11-05T01:55:40.362Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港到香格里拉　龍安志談江湖和AI焦慮：世界需要東方功夫和哲學",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194741191225118720967538.png/ZKlThwb04ls71xONEWSG1vD9vR_0SNIOUKCsBFCgrAQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60406858/%E9%A6%99%E6%B8%AF%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89-%E9%BE%8D%E5%AE%89%E5%BF%97%E8%AB%87%E6%B1%9F%E6%B9%96%E5%92%8Cai%E7%84%A6%E6%85%AE-%E4%B8%96%E7%95%8C%E9%9C%80%E8%A6%81%E6%9D%B1%E6%96%B9%E5%8A%9F%E5%A4%AB%E5%92%8C%E5%93%B2%E5%AD%B8",
-    "timestamp": "2026-11-05T01:42:45.442Z",
     "strategy": ".content-card__main"
   }
 ];
