@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T17:53:05.984Z
+// Last updated: 2026-11-05T18:22:54.932Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國民主黨擬推法案永久禁超級AI　違規比照核武級可囚20年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155456578984349696128364.jpeg/5yPt-dRvRz1ryiAtewNDZUpmpLCj1BXSXFfXlFxX15Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407700/%E7%BE%8E%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%93%AC%E6%8E%A8%E6%B3%95%E6%A1%88%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B6%85%E7%B4%9Aai-%E9%81%95%E8%A6%8F%E6%AF%94%E7%85%A7%E6%A0%B8%E6%AD%A6%E7%B4%9A%E5%8F%AF%E5%9B%9A20%E5%B9%B4",
+    "timestamp": "2026-11-05T18:22:54.932Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梅拉尼婭白宮會見俄烏談判代表　表彰其協助促成奧列什基六日停火",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195018670724616192218964.jpeg/qTzAR5kVT6KIJVeztqsBpFoYdH0wWAlMUiS071IktO8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407479/%E5%A7%9A%E7%84%AF%E8%8F%B2%E7%B4%90%E7%B4%84%E9%96%8B%E7%9D%A1%E8%A1%A3%E6%B4%BE%E5%B0%8D%E7%B2%89%E7%B4%85%E5%90%8A%E5%B8%B6%E5%A4%A7%E8%A7%A3%E6%94%BE-%E9%85%8D%E7%99%BD%E5%96%B1%E5%A3%AB%E9%95%B7%E8%A5%AA%E5%98%9F%E5%98%B4%E7%94%9C%E5%BA%A6%E7%88%86%E7%87%88",
     "timestamp": "2026-11-05T12:33:26.342Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張家輝首度紅館開騷｜ 演技好兼世一老公　拆解觀眾喜歡他4大原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195071478542897152261870.jpeg/JXelUIJ3btGlUkH-g4cWhaluNmKBteyKl4jCHpeIwh4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60407501/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%A6%96%E5%BA%A6%E7%B4%85%E9%A4%A8%E9%96%8B%E9%A8%B7-%E6%BC%94%E6%8A%80%E5%A5%BD%E5%85%BC%E4%B8%96%E4%B8%80%E8%80%81%E5%85%AC-%E6%8B%86%E8%A7%A3%E8%A7%80%E7%9C%BE%E5%96%9C%E6%AD%A1%E4%BB%964%E5%A4%A7%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-11-05T12:19:33.362Z",
     "strategy": ".content-card__main"
   }
 ];
