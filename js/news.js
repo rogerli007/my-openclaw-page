@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T20:53:27.023Z
+// Last updated: 2026-11-05T21:12:54.961Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國司法部民權司長迪隆辭職　曾主導部門爭議改革",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195227555628584960348216.jpeg/96Awv2eLbVQ28OLrZxZXTAut-NSpx84BsyrUyLMq1Mg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407706/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B0%91%E6%AC%8A%E5%8F%B8%E9%95%B7%E8%BF%AA%E9%9A%86%E8%BE%AD%E8%81%B7-%E6%9B%BE%E4%B8%BB%E5%B0%8E%E9%83%A8%E9%96%80%E7%88%AD%E8%AD%B0%E6%94%B9%E9%9D%A9",
+    "timestamp": "2026-11-05T21:12:54.961Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國司法部民權司長迪隆辭職　曾主導部門爭議改革",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195079101535227904590428.jpeg/NWDeR9cs_i2Bt-LbMpgMRVYL1E6uloZsjrHxVI6x8VQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407496/%E6%B6%88%E5%A7%94%E6%9C%8320%E6%AC%BEsoundbar%E6%B8%AC%E8%A9%A6-%E5%B9%B3%E5%83%B9samsung-5-480%E6%9B%B4%E5%8B%9Dsony-17-299%E7%94%A2%E5%93%81",
     "timestamp": "2026-11-05T16:17:24.788Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃之鋒囚10年｜立法會堅定支持法庭依法判刑　充份彰顯法治和公義",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195157526522368000958372.jpeg/n4pByLsmomkRc95GyWAGSkUXc0CtR7loEwC2pxMAtqc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407691/%E9%BB%83%E4%B9%8B%E9%8B%92%E5%9B%9A10%E5%B9%B4-%E7%AB%8B%E6%B3%95%E6%9C%83%E5%A0%85%E5%AE%9A%E6%94%AF%E6%8C%81%E6%B3%95%E5%BA%AD%E4%BE%9D%E6%B3%95%E5%88%A4%E5%88%91-%E5%85%85%E4%BB%BD%E5%BD%B0%E9%A1%AF%E6%B3%95%E6%B2%BB%E5%92%8C%E5%85%AC%E7%BE%A9",
-    "timestamp": "2026-11-05T15:53:09.682Z",
     "strategy": ".content-card__main"
   }
 ];
