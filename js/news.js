@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T00:50:34.591Z
+// Last updated: 2026-11-05T01:21:31.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "每公里2毫成本！吉利銀河星耀6EF　首創甲醇混能、入滿油行1880km",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194671122830856192897423.jpeg/OhpNjgatfLaSCtLite5eNw9zXbUOy--z9_3NGvf9zRo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407080/%E6%AF%8F%E5%85%AC%E9%87%8C2%E6%AF%AB%E6%88%90%E6%9C%AC-%E5%90%89%E5%88%A9%E9%8A%80%E6%B2%B3%E6%98%9F%E8%80%806ef-%E9%A6%96%E5%89%B5%E7%94%B2%E9%86%87%E6%B7%B7%E8%83%BD-%E5%85%A5%E6%BB%BF%E6%B2%B9%E8%A1%8C1880km",
+    "timestamp": "2026-11-05T01:21:31.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡辛強重出江湖動作多多　疑現身張家輝紅館騷︰話請我做嘉賓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194759646737338368672891.jpeg/jLgIOIpib6g2Ed2kHD3Xw1Hz8Yw1z_prsJRxy7CUccs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407293/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E6%93%94%E5%BF%83%E6%B0%91%E4%B8%BB%E9%BB%A8%E7%99%BC%E8%B5%B7%E5%BD%88%E5%8A%BE-%E6%88%96%E8%88%87%E5%B0%8D%E6%96%B9%E8%9E%8D%E6%B4%BD%E7%9B%B8%E8%99%95",
     "timestamp": "2026-11-04T19:43:08.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上水醉漢涉用瓷磚施襲被捕　陌生男臉嘴受傷　兩人齊送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194847146562555904965203.jpeg/b2rtaSbxnUZQU5fMvxZeric2jVa4oA7ayygGK_EoBis?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407292/%E4%B8%8A%E6%B0%B4%E9%86%89%E6%BC%A2%E6%B6%89%E7%94%A8%E7%93%B7%E7%A3%9A%E6%96%BD%E8%A5%B2%E8%A2%AB%E6%8D%95-%E9%99%8C%E7%94%9F%E7%94%B7%E8%87%89%E5%98%B4%E5%8F%97%E5%82%B7-%E5%85%A9%E4%BA%BA%E9%BD%8A%E9%80%81%E9%99%A2",
-    "timestamp": "2026-11-04T19:23:50.246Z",
     "strategy": ".content-card__main"
   }
 ];
