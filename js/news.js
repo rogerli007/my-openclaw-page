@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T06:49:55.431Z
+// Last updated: 2026-11-05T07:25:57.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國外交罕見大動作！為何三位特使同時急赴中東與非洲七國？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194712708566487040463570.jpeg/aN4VHYk_w9vEX7KePGViQGNz4xzTXebwN56RAzeekQM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60407160/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E7%BD%95%E8%A6%8B%E5%A4%A7%E5%8B%95%E4%BD%9C-%E7%82%BA%E4%BD%95%E4%B8%89%E4%BD%8D%E7%89%B9%E4%BD%BF%E5%90%8C%E6%99%82%E6%80%A5%E8%B5%B4%E4%B8%AD%E6%9D%B1%E8%88%87%E9%9D%9E%E6%B4%B2%E4%B8%83%E5%9C%8B",
+    "timestamp": "2026-11-05T07:25:57.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃之鋒囚10年｜李家超：黃與羅冠聰及團夥是破壞香港繁榮穩定禍首",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194790901860274176645789.jpeg/oNMYfF92e_6rTotYrujeV9R_t7ZUm5JbAm1iSQJtYkk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407271/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E5%BC%B5%E6%9B%A6%E9%9B%AF%E5%BE%B9%E5%BA%95%E9%BB%91%E5%8C%96%E5%A4%A7%E6%9A%B4%E8%B5%B0-%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A2%AB%E6%92%9E%E5%88%B0%E9%A3%9B%E8%B5%B7%E5%9C%8D%E8%91%97%E8%BB%8A%E7%BF%BB%E6%BB%BE",
     "timestamp": "2026-11-04T23:59:06.958Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "練樂儀海景慶生四大男神包圍　關經翰企C位爆戀情自曝單身十年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194749838080610304954310.jpeg/KBX-qKthWxR3piqPyoSyKd89szIvXF4LUr1yxVK9csU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407235/%E7%B7%B4%E6%A8%82%E5%84%80%E6%B5%B7%E6%99%AF%E6%85%B6%E7%94%9F%E5%9B%9B%E5%A4%A7%E7%94%B7%E7%A5%9E%E5%8C%85%E5%9C%8D-%E9%97%9C%E7%B6%93%E7%BF%B0%E4%BC%81c%E4%BD%8D-%E7%88%86%E6%88%80%E6%83%85%E8%87%AA%E6%9B%9D%E5%96%AE%E8%BA%AB%E5%8D%81%E5%B9%B4",
-    "timestamp": "2026-11-04T23:38:58.509Z",
     "strategy": ".content-card__main"
   }
 ];
