@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T12:48:37.095Z
+// Last updated: 2026-11-05T12:54:01.878Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關上水截貨車　搗粉錦公路鐵皮私煙倉　檢$1255萬貨拘內地司機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195112636031700992928560.jpeg/8ZFLP8fOZ8r5tC1TKTy3HiSujkrr8ClnQGq4_EBquPw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407667/%E6%B5%B7%E9%97%9C%E4%B8%8A%E6%B0%B4%E6%88%AA%E8%B2%A8%E8%BB%8A-%E6%90%97%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E9%90%B5%E7%9A%AE%E7%A7%81%E7%85%99%E5%80%89-%E6%AA%A2-1255%E8%90%AC%E8%B2%A8%E6%8B%98%E5%85%A7%E5%9C%B0%E5%8F%B8%E6%A9%9F",
+    "timestamp": "2026-11-05T12:54:01.878Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "據悉警帶走在囚人士支援平台「候鳥」一名成員　海關日前扣查書籍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194712708566487040463570.jpeg/aN4VHYk_w9vEX7KePGViQGNz4xzTXebwN56RAzeekQM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60407160/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E7%BD%95%E8%A6%8B%E5%A4%A7%E5%8B%95%E4%BD%9C-%E7%82%BA%E4%BD%95%E4%B8%89%E4%BD%8D%E7%89%B9%E4%BD%BF%E5%90%8C%E6%99%82%E6%80%A5%E8%B5%B4%E4%B8%AD%E6%9D%B1%E8%88%87%E9%9D%9E%E6%B4%B2%E4%B8%83%E5%9C%8B",
     "timestamp": "2026-11-05T07:25:57.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃之鋒囚10年｜李家超：黃與羅冠聰及團夥是破壞香港繁榮穩定禍首",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177244802660700160057284.jpeg/s9G70hutHwmCxAng-11Fp0uapPCmHPvt0GlNxPVpTcQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407486/%E9%BB%83%E4%B9%8B%E9%8B%92%E5%9B%9A10%E5%B9%B4-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E9%BB%83%E8%88%87%E7%BE%85%E5%86%A0%E8%81%B0%E5%8F%8A%E5%9C%98%E5%A4%A5%E6%98%AF%E7%A0%B4%E5%A3%9E%E9%A6%99%E6%B8%AF%E7%B9%81%E6%A6%AE%E7%A9%A9%E5%AE%9A%E7%A6%8D%E9%A6%96",
-    "timestamp": "2026-11-05T06:49:55.431Z",
     "strategy": ".content-card__main"
   }
 ];
