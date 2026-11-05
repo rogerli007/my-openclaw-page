@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T21:53:36.863Z
+// Last updated: 2026-11-05T22:19:37.140Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大坑私家車泊馬路　60歲男司機被揭醉駕被捕　報稱不適送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195256516844720128314250.jpeg/D0u4eWK0N83CJ1_irNZuwVYrktf8L-jAWEhdcWJIXXE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407709/%E5%A4%A7%E5%9D%91%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%B3%8A%E9%A6%AC%E8%B7%AF-60%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8F%AD%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E5%A0%B1%E7%A8%B1%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
+    "timestamp": "2026-11-05T22:19:37.140Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國工會加入抗議示威活動　要求提高工資與公共服務水平",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5e528004a5af56141f1d5473.jpg/PJfzQZkNk3tCPTOgvBqqTC30APnZ2T3aAxp6JSUaeiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407694/%E9%BB%83%E4%B9%8B%E9%8B%92%E5%9B%9A10%E5%B9%B4-%E6%B8%AF%E5%BA%9C%E8%AD%B4%E8%B2%AC%E7%BE%8E%E5%9C%8B%E9%A7%90%E6%B8%AF%E7%B8%BD%E9%A0%98%E4%BA%8B%E9%A4%A8%E8%A8%80%E8%AB%96-%E7%A8%B1%E6%98%AF%E5%8D%91%E5%8A%A3%E6%94%BF%E6%B2%BB%E6%93%8D%E5%BC%84",
     "timestamp": "2026-11-05T16:54:19.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會20款Soundbar測試：平價Samsung$5,480更勝Sony$17,299產品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195079101535227904590428.jpeg/NWDeR9cs_i2Bt-LbMpgMRVYL1E6uloZsjrHxVI6x8VQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407496/%E6%B6%88%E5%A7%94%E6%9C%8320%E6%AC%BEsoundbar%E6%B8%AC%E8%A9%A6-%E5%B9%B3%E5%83%B9samsung-5-480%E6%9B%B4%E5%8B%9Dsony-17-299%E7%94%A2%E5%93%81",
-    "timestamp": "2026-11-05T16:45:30.500Z",
     "strategy": ".content-card__main"
   }
 ];
