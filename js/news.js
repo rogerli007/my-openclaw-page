@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T04:42:26.224Z
+// Last updated: 2026-11-05T04:53:37.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃之鋒認串謀勾結外國勢力囚10年　李桂華指犯案纍纍冀黃獄中反省",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194990224145387520971542.jpeg/Kt4C_OD5GOVNcsLshGdH0sLTvI30GsVI5gaAeMMGgHg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407427/%E9%BB%83%E4%B9%8B%E9%8B%92%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B%E5%9B%9A10%E5%B9%B4-%E6%9D%8E%E6%A1%82%E8%8F%AF%E6%8C%87%E7%8A%AF%E6%A1%88%E7%BA%8D%E7%BA%8D%E5%86%80%E9%BB%83%E7%8D%84%E4%B8%AD%E5%8F%8D%E7%9C%81",
+    "timestamp": "2026-11-05T04:53:37.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "延安大學副教授投湖自盡遺書舉報校方　陝西宣布成立聯合調查組",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194891264206573568905473.jpeg/10Srh_Ylgj47wRRwT47jKiWdu85AjRzUYIH1gWCB9YE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407297/%E6%AD%90%E8%81%AF-%E6%9B%BC%E5%9F%8E%E4%BD%9C%E5%AE%A23-2%E5%8B%9Drb%E8%90%8A%E6%AF%94%E9%8C%AB-%E9%98%BF%E4%BB%99%E5%A5%B4%E4%BD%9C%E5%AE%A22-1%E8%B4%8F%E5%B8%83%E6%8B%89%E6%A0%BC%E6%96%AF%E6%8B%89%E7%B6%AD%E4%BA%9E",
     "timestamp": "2026-11-04T22:23:53.393Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉緯民爆影帝曾欠近億債務　為還錢變賣家產再不停拍戲終還清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194720952500359168475930.jpeg/TkBiUM2U_pur_CdvR69udqY63xZEI2HUEOSLVxDki1c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407146/%E5%8A%89%E7%B7%AF%E6%B0%91%E7%88%86%E5%BD%B1%E5%B8%9D%E6%9B%BE%E6%AC%A0%E8%BF%91%E5%84%84%E5%82%B5%E5%8B%99-%E7%82%BA%E9%82%84%E9%8C%A2%E8%AE%8A%E8%B3%A3%E5%AE%B6%E7%94%A2%E5%86%8D%E4%B8%8D%E5%81%9C%E6%8B%8D%E6%88%B2%E7%B5%82%E9%82%84%E6%B8%85",
-    "timestamp": "2026-11-04T22:13:07.394Z",
     "strategy": ".content-card__main"
   }
 ];
