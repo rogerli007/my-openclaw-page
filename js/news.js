@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T21:25:57.646Z
+// Last updated: 2026-11-05T21:53:36.863Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國工會加入抗議示威活動　要求提高工資與公共服務水平",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195245874205167616265178.jpeg/N1-Y2R6GvuVbQlMwY6KSUeYAmIicQpZoTqAutU6gLrU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407707/%E6%B3%95%E5%9C%8B%E5%B7%A5%E6%9C%83%E5%8A%A0%E5%85%A5%E6%8A%97%E8%AD%B0%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8B%95-%E8%A6%81%E6%B1%82%E6%8F%90%E9%AB%98%E5%B7%A5%E8%B3%87%E8%88%87%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E6%B0%B4%E5%B9%B3",
+    "timestamp": "2026-11-05T21:53:36.863Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國司法部民權司長迪隆辭職　曾主導部門爭議改革",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195079101535227904590428.jpeg/NWDeR9cs_i2Bt-LbMpgMRVYL1E6uloZsjrHxVI6x8VQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407496/%E6%B6%88%E5%A7%94%E6%9C%8320%E6%AC%BEsoundbar%E6%B8%AC%E8%A9%A6-%E5%B9%B3%E5%83%B9samsung-5-480%E6%9B%B4%E5%8B%9Dsony-17-299%E7%94%A2%E5%93%81",
     "timestamp": "2026-11-05T16:45:30.500Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會20款Soundbar測試：平價Samsung$5,480更勝Sony$17,299產品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195079101535227904590428.jpeg/NWDeR9cs_i2Bt-LbMpgMRVYL1E6uloZsjrHxVI6x8VQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407496/%E6%B6%88%E5%A7%94%E6%9C%8320%E6%AC%BEsoundbar%E6%B8%AC%E8%A9%A6-%E5%B9%B3%E5%83%B9samsung-5-480%E6%9B%B4%E5%8B%9Dsony-17-299%E7%94%A2%E5%93%81",
-    "timestamp": "2026-11-05T16:28:53.424Z",
     "strategy": ".content-card__main"
   }
 ];
