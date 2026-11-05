@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T18:29:15.613Z
+// Last updated: 2026-11-05T18:45:40.437Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "連鎖食店旺角分店驚現3老鼠　炮台山分店燈箱內爬滿蟲｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195199964880310272156234.jpeg/bOmlUW5caqAg_PpypN7PsWN05uuUH1fYUWOPvFFjj7w",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407698/%E9%80%A3%E9%8E%96%E9%A3%9F%E5%BA%97%E6%97%BA%E8%A7%92%E5%88%86%E5%BA%97%E9%A9%9A%E7%8F%BE3%E8%80%81%E9%BC%A0-%E7%82%AE%E5%8F%B0%E5%B1%B1%E5%88%86%E5%BA%97%E7%87%88%E7%AE%B1%E5%85%A7%E7%88%AC%E6%BB%BF%E8%9F%B2-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-05T18:45:40.437Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國民主黨擬推法案永久禁超級AI　違規比照核武級可囚20年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195112636031700992928560.jpeg/8ZFLP8fOZ8r5tC1TKTy3HiSujkrr8ClnQGq4_EBquPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407667/%E6%B5%B7%E9%97%9C%E4%B8%8A%E6%B0%B4%E6%88%AA%E8%B2%A8%E8%BB%8A-%E6%90%97%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E9%90%B5%E7%9A%AE%E7%A7%81%E7%85%99%E5%80%89-%E6%AA%A2-1255%E8%90%AC%E8%B2%A8%E6%8B%98%E5%85%A7%E5%9C%B0%E5%8F%B8%E6%A9%9F",
     "timestamp": "2026-11-05T12:54:01.878Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "據悉警帶走在囚人士支援平台「候鳥」一名成員　海關日前扣查書籍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195107170820034560279380.jpeg/rsLP3YjiFXAz_HoVhfm2LBg_YlI6d0Dbj0o-Mo9KPjI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407519/%E6%93%9A%E6%82%89%E8%AD%A6%E5%B8%B6%E8%B5%B0%E5%9C%A8%E5%9B%9A%E4%BA%BA%E5%A3%AB%E6%94%AF%E6%8F%B4%E5%B9%B3%E5%8F%B0-%E5%80%99%E9%B3%A5-%E4%B8%80%E5%90%8D%E6%88%90%E5%93%A1-%E6%B5%B7%E9%97%9C%E6%97%A5%E5%89%8D%E6%89%A3%E6%9F%A5%E6%9B%B8%E7%B1%8D",
-    "timestamp": "2026-11-05T12:48:37.095Z",
     "strategy": ".content-card__main"
   }
 ];
