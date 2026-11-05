@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T17:14:21.559Z
+// Last updated: 2026-11-05T17:29:48.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧親歷抑鬱症死裡逃生：站在馬路邊險衝向大貨車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193257488942632960804275.jpeg/-DWZ95PFTL9Vv4hexj-3oaD0rfNwfLSkIDXcgiA13II",
+    "url": "https://www.hk01.com/01TV/60405656/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E6%AD%B7%E6%8A%91%E9%AC%B1%E7%97%87%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F-%E7%AB%99%E5%9C%A8%E9%A6%AC%E8%B7%AF%E9%82%8A%E9%9A%AA%E8%A1%9D%E5%90%91%E5%A4%A7%E8%B2%A8%E8%BB%8A",
+    "timestamp": "2026-11-05T17:29:48.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧親歷抑鬱症死裡逃生：站在馬路邊險衝向大貨車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193953120216944640824357.jpeg/WMbPI6ICQecuohjqw2uryvQAMzCSmWK1wHcTtMB3E7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60406211/%E6%97%A5%E7%B6%9C%E7%9B%A4%E9%BB%9E-%E5%AE%B9%E6%98%93%E5%87%BA%E8%BB%8C%E7%94%B7-5%E7%89%B9%E5%BE%B5-%E5%A4%AB%E5%A6%BB%E6%94%B6%E5%85%A5%E8%97%8F%E5%8D%B1%E6%A9%9F-%E7%94%B7%E9%86%AB%E7%94%9F%E6%9B%B4%E6%84%9B%E5%81%B7%E9%A3%9F",
     "timestamp": "2026-11-05T11:39:51.241Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉共和黨慘敗　英國報紙封面揶揄特朗普「跛腳唐老鴨」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195092240435777536738529.jpeg/72pTBeTBQRaaJMPLXhj4SL3jXLnygsNho73EiqO9xIo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407634/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%85%B1%E5%92%8C%E9%BB%A8%E6%85%98%E6%95%97-%E8%8B%B1%E5%9C%8B%E5%A0%B1%E7%B4%99%E5%B0%81%E9%9D%A2%E6%8F%B6%E6%8F%84%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B7%9B%E8%85%B3%E5%94%90%E8%80%81%E9%B4%A8",
-    "timestamp": "2026-11-05T11:23:49.883Z",
     "strategy": ".content-card__main"
   }
 ];
