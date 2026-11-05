@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T14:53:45.047Z
+// Last updated: 2026-11-05T15:20:21.744Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Bob Dylan「黑客」look訪梵蒂岡晤教宗　良十四世贈念珠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195138432750325760253749.png/wPTuz7059nUWwoVQSbCqgxPNBU1-4gG7pJ90pqSfdKY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407685/bob-dylan-%E9%BB%91%E5%AE%A2-look%E8%A8%AA%E6%A2%B5%E8%92%82%E5%B2%A1%E6%99%A4%E6%95%99%E5%AE%97-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E8%B4%88%E5%BF%B5%E7%8F%A0",
+    "timestamp": "2026-11-05T15:20:21.744Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTA香港賽︱伊雅娜力戰近2小時挫捷克新星　9度挽救破發點入8強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195060298617196544620497.jpeg/ESoglRG2V0w8NDx9KOC5UeHxolW8Ezf0DOa9zwzmvc8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407573/%E8%8B%B1%E8%B6%85%E7%89%B9%E6%94%BB-%E5%85%B5%E5%B7%A5%E5%BB%A0%E4%B8%BB%E5%A0%B4%E7%84%A1%E6%95%B5-%E7%B4%B0-%E6%93%92%E8%80%81%E8%99%8E",
     "timestamp": "2026-11-05T09:42:42.402Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西足球賽上演全武鬥　球證「慷慨」派53張紅牌破世界紀錄｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195057507089780736183604.jpeg/dVuZcmwMr5I9CDYb79YSwe104P6ig0Aw_8H5aP_B-Wg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60407541/%E5%B7%B4%E8%A5%BF%E8%B6%B3%E7%90%83%E8%B3%BD%E4%B8%8A%E6%BC%94%E5%85%A8%E6%AD%A6%E9%AC%A5-%E7%90%83%E8%AD%89-%E6%85%B7%E6%85%A8-%E6%B4%BE53%E5%BC%B5%E7%B4%85%E7%89%8C%E7%A0%B4%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-05T09:20:29.445Z",
     "strategy": ".content-card__main"
   }
 ];
