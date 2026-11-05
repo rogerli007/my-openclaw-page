@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T16:28:53.424Z
+// Last updated: 2026-11-05T16:45:30.500Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會20款Soundbar測試：平價Samsung$5,480更勝Sony$17,299產品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195079101535227904590428.jpeg/NWDeR9cs_i2Bt-LbMpgMRVYL1E6uloZsjrHxVI6x8VQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407496/%E6%B6%88%E5%A7%94%E6%9C%8320%E6%AC%BEsoundbar%E6%B8%AC%E8%A9%A6-%E5%B9%B3%E5%83%B9samsung-5-480%E6%9B%B4%E5%8B%9Dsony-17-299%E7%94%A2%E5%93%81",
+    "timestamp": "2026-11-05T16:45:30.500Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會20款Soundbar測試：平價Samsung$5,480更勝Sony$17,299產品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195082566328127488643875.png/nWaw5ELEE5v4y-iiQBFP9aiyC6VrS3vsIkIeiCJCHog?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60407628/%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E6%B2%88%E7%B6%AD%E7%AB%8B%E8%A7%A3%E6%A7%8B%E6%89%8B%E6%A9%9F%E6%94%9D%E5%BD%B1%E7%BE%8E%E5%AD%B8-%E5%8D%81%E5%84%AA%E7%8B%80%E5%85%83%E9%84%BA%E6%96%87%E5%82%91%E7%9A%84%E6%B2%BB%E7%99%92%E4%B9%8B%E8%B7%AF",
     "timestamp": "2026-11-05T10:53:34.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非凡人物｜沈維立解構手機攝影美學   十優狀元鄺文傑的治癒之路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195082566328127488643875.png/nWaw5ELEE5v4y-iiQBFP9aiyC6VrS3vsIkIeiCJCHog?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60407628/%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E6%B2%88%E7%B6%AD%E7%AB%8B%E8%A7%A3%E6%A7%8B%E6%89%8B%E6%A9%9F%E6%94%9D%E5%BD%B1%E7%BE%8E%E5%AD%B8-%E5%8D%81%E5%84%AA%E7%8B%80%E5%85%83%E9%84%BA%E6%96%87%E5%82%91%E7%9A%84%E6%B2%BB%E7%99%92%E4%B9%8B%E8%B7%AF",
-    "timestamp": "2026-11-05T10:45:41.689Z",
     "strategy": ".content-card__main"
   }
 ];
