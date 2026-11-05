@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T22:45:10.832Z
+// Last updated: 2026-11-05T23:13:20.069Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "魯比奧否認擬離開特朗普政府　但拒談會否角逐下屆總統",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131801161817395200504698.jpeg/vurRA7KpMvk8jLWLDmU3UZ06VU2R---y1kOqddZDqnU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407710/%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%90%A6%E8%AA%8D%E6%93%AC%E9%9B%A2%E9%96%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C-%E4%BD%86%E6%8B%92%E8%AB%87%E6%9C%83%E5%90%A6%E8%A7%92%E9%80%90%E4%B8%8B%E5%B1%86%E7%B8%BD%E7%B5%B1",
+    "timestamp": "2026-11-05T23:13:20.069Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日大致多雲　早晚有一兩陣雨　日間最高29度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193257488942632960804275.jpeg/-DWZ95PFTL9Vv4hexj-3oaD0rfNwfLSkIDXcgiA13II",
     "url": "https://www.hk01.com/01TV/60405656/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E6%AD%B7%E6%8A%91%E9%AC%B1%E7%97%87%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F-%E7%AB%99%E5%9C%A8%E9%A6%AC%E8%B7%AF%E9%82%8A%E9%9A%AA%E8%A1%9D%E5%90%91%E5%A4%A7%E8%B2%A8%E8%BB%8A",
     "timestamp": "2026-11-05T17:29:48.068Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧親歷抑鬱症死裡逃生：站在馬路邊險衝向大貨車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193257488942632960804275.jpeg/-DWZ95PFTL9Vv4hexj-3oaD0rfNwfLSkIDXcgiA13II",
-    "url": "https://www.hk01.com/01TV/60405656/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E6%AD%B7%E6%8A%91%E9%AC%B1%E7%97%87%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F-%E7%AB%99%E5%9C%A8%E9%A6%AC%E8%B7%AF%E9%82%8A%E9%9A%AA%E8%A1%9D%E5%90%91%E5%A4%A7%E8%B2%A8%E8%BB%8A",
-    "timestamp": "2026-11-05T17:14:21.559Z",
     "strategy": ".content-card__main"
   }
 ];
