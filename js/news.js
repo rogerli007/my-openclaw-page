@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T14:46:32.284Z
+// Last updated: 2026-11-05T14:53:45.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTA香港賽︱伊雅娜力戰近2小時挫捷克新星　9度挽救破發點入8強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195133579412115456286570.jpeg/0Wl0xEiQB33FHyiQ1I5zxp7lVm5HSY3dBhQ0kQYUNJE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407682/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E5%8A%9B%E6%88%B0%E8%BF%912%E5%B0%8F%E6%99%82%E6%8C%AB%E6%8D%B7%E5%85%8B%E6%96%B0%E6%98%9F-9%E5%BA%A6%E6%8C%BD%E6%95%91%E7%A0%B4%E7%99%BC%E9%BB%9E%E5%85%A58%E5%BC%B7",
+    "timestamp": "2026-11-05T14:53:45.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《衝上雲霄大選》季軍雪地求婚成功　曾被裁員自強考獲機師證圓夢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195057507089780736183604.jpeg/dVuZcmwMr5I9CDYb79YSwe104P6ig0Aw_8H5aP_B-Wg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60407541/%E5%B7%B4%E8%A5%BF%E8%B6%B3%E7%90%83%E8%B3%BD%E4%B8%8A%E6%BC%94%E5%85%A8%E6%AD%A6%E9%AC%A5-%E7%90%83%E8%AD%89-%E6%85%B7%E6%85%A8-%E6%B4%BE53%E5%BC%B5%E7%B4%85%E7%89%8C%E7%A0%B4%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-05T09:20:29.445Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "佩洛西接棒戰落幕　港人移民陳詩敏承認敗選　三藩市首迎同志議員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195047641449238528960387.jpeg/k5Ug3MgxwAJufx96WZvIkgs_CJC2uTkCRuCzdEbgs3Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407521/%E4%BD%A9%E6%B4%9B%E8%A5%BF%E6%8E%A5%E6%A3%92%E6%88%B0%E8%90%BD%E5%B9%95-%E6%B8%AF%E4%BA%BA%E7%A7%BB%E6%B0%91%E9%99%B3%E8%A9%A9%E6%95%8F%E6%89%BF%E8%AA%8D%E6%95%97%E9%81%B8-%E4%B8%89%E8%97%A9%E5%B8%82%E9%A6%96%E8%BF%8E%E5%90%8C%E5%BF%97%E8%AD%B0%E5%93%A1",
-    "timestamp": "2026-11-05T08:46:27.204Z",
     "strategy": ".content-card__main"
   }
 ];
