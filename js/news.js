@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T07:39:58.050Z
+// Last updated: 2026-11-05T07:57:33.495Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "UNIQLO推出文學雜誌！Cate Blanchett掛帥新企劃寫下女性真實經歷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195015354854674432123957.jpeg/I4LDogku7dgcRF3oUbqxn47Px9rkYx3DVGipGVRoqRk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60407481/uniqlo%E6%8E%A8%E5%87%BA%E6%96%87%E5%AD%B8%E9%9B%9C%E8%AA%8C-cate-blanchett%E6%8E%9B%E5%B8%A5%E6%96%B0%E4%BC%81%E5%8A%83%E5%AF%AB%E4%B8%8B%E5%A5%B3%E6%80%A7%E7%9C%9F%E5%AF%A6%E7%B6%93%E6%AD%B7",
+    "timestamp": "2026-11-05T07:57:33.495Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本退稅新制註冊須填信用卡CVC引安全憂慮　只有這間公司不需要",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194703082127101952546891.jpeg/M_kIV0RHwNAMVTeygwzBhD1Bo9IGPc1eM1OsPDNTrDw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407166/%E8%94%A1%E8%BE%9B%E5%BC%B7%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96%E5%8B%95%E4%BD%9C%E5%A4%9A%E5%A4%9A-%E7%96%91%E7%8F%BE%E8%BA%AB%E5%BC%B5%E5%AE%B6%E8%BC%9D%E7%B4%85%E9%A4%A8%E9%A8%B7-%E8%A9%B1%E8%AB%8B%E6%88%91%E5%81%9A%E5%98%89%E8%B3%93",
     "timestamp": "2026-11-05T00:50:34.591Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡辛強重出江湖動作多多　疑現身張家輝紅館騷︰話請我做嘉賓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194703082127101952546891.jpeg/M_kIV0RHwNAMVTeygwzBhD1Bo9IGPc1eM1OsPDNTrDw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407166/%E8%94%A1%E8%BE%9B%E5%BC%B7%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96%E5%8B%95%E4%BD%9C%E5%A4%9A%E5%A4%9A-%E7%96%91%E7%8F%BE%E8%BA%AB%E5%BC%B5%E5%AE%B6%E8%BC%9D%E7%B4%85%E9%A4%A8%E9%A8%B7-%E8%A9%B1%E8%AB%8B%E6%88%91%E5%81%9A%E5%98%89%E8%B3%93",
-    "timestamp": "2026-11-05T00:37:58.508Z",
     "strategy": ".content-card__main"
   }
 ];
