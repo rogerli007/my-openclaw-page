@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T05:45:49.715Z
+// Last updated: 2026-11-05T05:59:08.795Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Google擬預設校園AI關閉　搜索功能一併停用　遭批技術霸權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195009490907303936453920.jpeg/N42BH2UTK2x1ikM1h6spW_XEVaW5PPdNnjgjvp44I74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407460/google%E6%93%AC%E9%A0%90%E8%A8%AD%E6%A0%A1%E5%9C%92ai%E9%97%9C%E9%96%89-%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD%E4%B8%80%E4%BD%B5%E5%81%9C%E7%94%A8-%E9%81%AD%E6%89%B9%E6%8A%80%E8%A1%93%E9%9C%B8%E6%AC%8A",
+    "timestamp": "2026-11-05T05:59:08.795Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "$1.08億六合彩今晚攪珠│頭獎得主分享「畫十字」投注秘技:中過3次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193959472704262144348172.jpeg/qPOo09DMVBiVkNSYFe1-anlL-PyOe1SqiY9tE4mPbRM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60404581/ai%E6%95%99%E8%82%B2%E5%85%B1%E4%BA%AB-%E7%95%B6ai%E7%84%A1%E6%89%80%E4%B8%8D%E7%9F%A5%E4%B9%8B%E6%99%82",
     "timestamp": "2026-11-04T23:13:43.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳妙瑛相約胡楓羅蘭茶聚　被爆「大笑姑婆」真面目凍齡狀態極驚人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194760378358173696016935.jpeg/CcrQJ5BzBlgtLN_hNywimmcIqRKg9AOA3RHhy90R4cs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407124/%E9%99%B3%E5%A6%99%E7%91%9B%E7%9B%B8%E7%B4%84%E8%83%A1%E6%A5%93%E7%BE%85%E8%98%AD%E8%8C%B6%E8%81%9A-%E8%A2%AB%E7%88%86-%E5%A4%A7%E7%AC%91%E5%A7%91%E5%A9%86-%E7%9C%9F%E9%9D%A2%E7%9B%AE%E5%87%8D%E9%BD%A1%E7%8B%80%E6%85%8B%E6%A5%B5%E9%A9%9A%E4%BA%BA",
-    "timestamp": "2026-11-04T22:55:03.384Z",
     "strategy": ".content-card__main"
   }
 ];
