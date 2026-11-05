@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T16:54:19.380Z
+// Last updated: 2026-11-05T17:14:21.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧親歷抑鬱症死裡逃生：站在馬路邊險衝向大貨車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193257488942632960804275.jpeg/-DWZ95PFTL9Vv4hexj-3oaD0rfNwfLSkIDXcgiA13II",
+    "url": "https://www.hk01.com/01TV/60405656/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E6%AD%B7%E6%8A%91%E9%AC%B1%E7%97%87%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F-%E7%AB%99%E5%9C%A8%E9%A6%AC%E8%B7%AF%E9%82%8A%E9%9A%AA%E8%A1%9D%E5%90%91%E5%A4%A7%E8%B2%A8%E8%BB%8A",
+    "timestamp": "2026-11-05T17:14:21.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃之鋒囚10年｜港府譴責美國駐港總領事館言論　稱是卑劣政治操弄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195092240435777536738529.jpeg/72pTBeTBQRaaJMPLXhj4SL3jXLnygsNho73EiqO9xIo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407634/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%85%B1%E5%92%8C%E9%BB%A8%E6%85%98%E6%95%97-%E8%8B%B1%E5%9C%8B%E5%A0%B1%E7%B4%99%E5%B0%81%E9%9D%A2%E6%8F%B6%E6%8F%84%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B7%9B%E8%85%B3%E5%94%90%E8%80%81%E9%B4%A8",
     "timestamp": "2026-11-05T11:23:49.883Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "安達邨嚴打違規冷氣機！最嚴重收樓　房署一直全港執法　早有案例",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194813190534336512135284.png/U9T1bBacC4CYsYhabNz6sythqvHy9wuHY1IV7WNSFe0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407188/%E5%AE%89%E9%81%94%E9%82%A8%E5%9A%B4%E6%89%93%E9%81%95%E8%A6%8F%E5%86%B7%E6%B0%A3%E6%A9%9F-%E6%9C%80%E5%9A%B4%E9%87%8D%E6%94%B6%E6%A8%93-%E6%88%BF%E7%BD%B2%E4%B8%80%E7%9B%B4%E5%85%A8%E6%B8%AF%E5%9F%B7%E6%B3%95-%E6%97%A9%E6%9C%89%E6%A1%88%E4%BE%8B",
-    "timestamp": "2026-11-05T11:13:47.004Z",
     "strategy": ".content-card__main"
   }
 ];
