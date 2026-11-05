@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T18:45:40.437Z
+// Last updated: 2026-11-05T18:59:10.318Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紐約布魯克林住宅發生火災　至少6死9傷　起火原因仍在調查中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195200559154466816124386.png/WTKsffxWAAohW4x84w17ja-yuaXoR1cIvQmTO70Jkzs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407701/%E7%B4%90%E7%B4%84%E5%B8%83%E9%AD%AF%E5%85%8B%E6%9E%97%E4%BD%8F%E5%AE%85%E7%99%BC%E7%94%9F%E7%81%AB%E7%81%BD-%E8%87%B3%E5%B0%916%E6%AD%BB9%E5%82%B7-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E4%BB%8D%E5%9C%A8%E8%AA%BF%E6%9F%A5%E4%B8%AD",
+    "timestamp": "2026-11-05T18:59:10.318Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "連鎖食店旺角分店驚現3老鼠　炮台山分店燈箱內爬滿蟲｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407586/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F11-5%E9%A0%AD%E7%8D%8E1-08%E5%84%84%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
     "timestamp": "2026-11-05T13:20:23.625Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關上水截貨車　搗粉錦公路鐵皮私煙倉　檢$1255萬貨拘內地司機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195112636031700992928560.jpeg/8ZFLP8fOZ8r5tC1TKTy3HiSujkrr8ClnQGq4_EBquPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407667/%E6%B5%B7%E9%97%9C%E4%B8%8A%E6%B0%B4%E6%88%AA%E8%B2%A8%E8%BB%8A-%E6%90%97%E7%B2%89%E9%8C%A6%E5%85%AC%E8%B7%AF%E9%90%B5%E7%9A%AE%E7%A7%81%E7%85%99%E5%80%89-%E6%AA%A2-1255%E8%90%AC%E8%B2%A8%E6%8B%98%E5%85%A7%E5%9C%B0%E5%8F%B8%E6%A9%9F",
-    "timestamp": "2026-11-05T12:54:01.878Z",
     "strategy": ".content-card__main"
   }
 ];
