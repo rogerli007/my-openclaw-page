@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T03:38:15.710Z
+// Last updated: 2026-11-05T04:22:30.748Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張家輝大娛樂騷｜農曆年首登紅館　召喚五大經典角色逼住的士宣傳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194985956751446016789243.jpeg/5iiJCJRGG9R_W9WBr-1rt2ZmpCj7KdP2Z0v99mdL_fY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407421/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E5%A4%A7%E5%A8%9B%E6%A8%82%E9%A8%B7-%E8%BE%B2%E6%9B%86%E5%B9%B4%E9%A6%96%E7%99%BB%E7%B4%85%E9%A4%A8-%E5%8F%AC%E5%96%9A%E4%BA%94%E5%A4%A7%E7%B6%93%E5%85%B8%E8%A7%92%E8%89%B2%E9%80%BC%E4%BD%8F%E7%9A%84%E5%A3%AB%E5%AE%A3%E5%82%B3",
+    "timestamp": "2026-11-05T04:22:30.748Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大灣區航空優惠｜台北機票$80起！東京/大阪/福岡85折 包20KG行李",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194887023526154240289051.jpeg/KHjQKTO5_7wwM03DAxR3B8HTtlk2eqxqc0ciO3NHIjs",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407295/%E7%B6%B2%E5%82%B3%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%9E%83%E5%9C%BE%E7%AE%B1%E6%9C%89%E9%BC%A0%E7%BE%A4%E5%87%BA%E6%B2%92-01%E7%9B%B4%E6%93%8A%E8%80%81%E9%BC%A0%E4%BA%82%E7%AB%84-%E7%B1%A0%E5%85%A7%E6%9C%89%E9%BC%A0-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-04T21:53:21.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網傳觀塘工廈垃圾箱有鼠群出沒　01直擊老鼠亂竄　籠內有鼠｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194887023526154240289051.jpeg/KHjQKTO5_7wwM03DAxR3B8HTtlk2eqxqc0ciO3NHIjs",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407295/%E7%B6%B2%E5%82%B3%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%9E%83%E5%9C%BE%E7%AE%B1%E6%9C%89%E9%BC%A0%E7%BE%A4%E5%87%BA%E6%B2%92-01%E7%9B%B4%E6%93%8A%E8%80%81%E9%BC%A0%E4%BA%82%E7%AB%84-%E7%B1%A0%E5%85%A7%E6%9C%89%E9%BC%A0-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-04T21:41:17.423Z",
     "strategy": ".content-card__main"
   }
 ];
