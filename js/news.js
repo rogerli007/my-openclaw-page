@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T12:33:26.342Z
+// Last updated: 2026-11-05T12:48:37.095Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "據悉警帶走在囚人士支援平台「候鳥」一名成員　海關日前扣查書籍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195107170820034560279380.jpeg/rsLP3YjiFXAz_HoVhfm2LBg_YlI6d0Dbj0o-Mo9KPjI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407519/%E6%93%9A%E6%82%89%E8%AD%A6%E5%B8%B6%E8%B5%B0%E5%9C%A8%E5%9B%9A%E4%BA%BA%E5%A3%AB%E6%94%AF%E6%8F%B4%E5%B9%B3%E5%8F%B0-%E5%80%99%E9%B3%A5-%E4%B8%80%E5%90%8D%E6%88%90%E5%93%A1-%E6%B5%B7%E9%97%9C%E6%97%A5%E5%89%8D%E6%89%A3%E6%9F%A5%E6%9B%B8%E7%B1%8D",
+    "timestamp": "2026-11-05T12:48:37.095Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "姚焯菲紐約開睡衣派對粉紅吊帶大解放　配白喱士長襪嘟嘴甜度爆燈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177244802660700160057284.jpeg/s9G70hutHwmCxAng-11Fp0uapPCmHPvt0GlNxPVpTcQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407486/%E9%BB%83%E4%B9%8B%E9%8B%92%E5%9B%9A10%E5%B9%B4-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E9%BB%83%E8%88%87%E7%BE%85%E5%86%A0%E8%81%B0%E5%8F%8A%E5%9C%98%E5%A4%A5%E6%98%AF%E7%A0%B4%E5%A3%9E%E9%A6%99%E6%B8%AF%E7%B9%81%E6%A6%AE%E7%A9%A9%E5%AE%9A%E7%A6%8D%E9%A6%96",
     "timestamp": "2026-11-05T06:49:55.431Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026美元定期存款及收益產品比較　有收益產品淨收益率高逾4.5%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192467957897236480260743.jpeg/TuiWMCnEiDUTvXY_VbEycGdJLXr-ILblxIlzgcSJc4E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60404812/%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE2026-%E9%8A%80%E8%A1%8C%E7%BE%8E%E5%85%83%E5%AE%9A%E5%AD%98%E5%88%A9%E7%8E%87%E9%AB%98%E9%80%BE4-5%E5%8E%98-%E4%B8%80%E9%8D%B5%E6%AF%94%E8%BC%83%E5%84%AA%E6%83%A0%E5%88%A9%E6%81%AF",
-    "timestamp": "2026-11-05T06:27:27.155Z",
     "strategy": ".content-card__main"
   }
 ];
