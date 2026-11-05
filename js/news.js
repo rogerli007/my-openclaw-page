@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-04T23:59:06.958Z
+// Last updated: 2026-11-05T00:37:58.508Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡辛強重出江湖動作多多　疑現身張家輝紅館騷︰話請我做嘉賓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194703082127101952546891.jpeg/M_kIV0RHwNAMVTeygwzBhD1Bo9IGPc1eM1OsPDNTrDw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407166/%E8%94%A1%E8%BE%9B%E5%BC%B7%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96%E5%8B%95%E4%BD%9C%E5%A4%9A%E5%A4%9A-%E7%96%91%E7%8F%BE%E8%BA%AB%E5%BC%B5%E5%AE%B6%E8%BC%9D%E7%B4%85%E9%A4%A8%E9%A8%B7-%E8%A9%B1%E8%AB%8B%E6%88%91%E5%81%9A%E5%98%89%E8%B3%93",
+    "timestamp": "2026-11-05T00:37:58.508Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜張曦雯徹底黑化大暴走　高海寧被撞到飛起圍著車翻滾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193978574604865536431956.jpeg/8qh4u1DzihRmZONFBKOVpfDEMxenjhuRTICWDkyAlg4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407291/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8-%E7%B8%BD%E7%B5%B1%E6%8E%A5%E9%81%B8%E8%88%89%E6%AD%A3%E5%BC%8F%E7%B5%90%E6%9E%9C-%E5%B0%87%E5%B0%B1%E7%B5%84%E9%96%A3%E8%88%87%E5%90%84%E6%94%BF%E9%BB%A8%E5%B1%95%E9%96%8B%E7%A3%8B%E5%95%86",
     "timestamp": "2026-11-04T19:12:50.656Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "胡塞武裝空襲也門政府軍新兵營　據指至少25死數十人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176991280337522688245701.jpeg/Stob6sHa_l2wgHArxkCNWqAb8g2_osYDykwx-cpMMfk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407288/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%A9%BA%E8%A5%B2%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E6%96%B0%E5%85%B5%E7%87%9F-%E6%93%9A%E6%8C%87%E8%87%B3%E5%B0%9125%E6%AD%BB%E6%95%B8%E5%8D%81%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-11-04T18:54:27.539Z",
     "strategy": ".content-card__main"
   }
 ];
