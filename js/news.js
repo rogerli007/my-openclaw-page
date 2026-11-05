@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T16:45:30.500Z
+// Last updated: 2026-11-05T16:54:19.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃之鋒囚10年｜港府譴責美國駐港總領事館言論　稱是卑劣政治操弄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5e528004a5af56141f1d5473.jpg/PJfzQZkNk3tCPTOgvBqqTC30APnZ2T3aAxp6JSUaeiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407694/%E9%BB%83%E4%B9%8B%E9%8B%92%E5%9B%9A10%E5%B9%B4-%E6%B8%AF%E5%BA%9C%E8%AD%B4%E8%B2%AC%E7%BE%8E%E5%9C%8B%E9%A7%90%E6%B8%AF%E7%B8%BD%E9%A0%98%E4%BA%8B%E9%A4%A8%E8%A8%80%E8%AB%96-%E7%A8%B1%E6%98%AF%E5%8D%91%E5%8A%A3%E6%94%BF%E6%B2%BB%E6%93%8D%E5%BC%84",
+    "timestamp": "2026-11-05T16:54:19.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會20款Soundbar測試：平價Samsung$5,480更勝Sony$17,299產品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194813190534336512135284.png/U9T1bBacC4CYsYhabNz6sythqvHy9wuHY1IV7WNSFe0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407188/%E5%AE%89%E9%81%94%E9%82%A8%E5%9A%B4%E6%89%93%E9%81%95%E8%A6%8F%E5%86%B7%E6%B0%A3%E6%A9%9F-%E6%9C%80%E5%9A%B4%E9%87%8D%E6%94%B6%E6%A8%93-%E6%88%BF%E7%BD%B2%E4%B8%80%E7%9B%B4%E5%85%A8%E6%B8%AF%E5%9F%B7%E6%B3%95-%E6%97%A9%E6%9C%89%E6%A1%88%E4%BE%8B",
     "timestamp": "2026-11-05T11:13:47.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "非凡人物｜沈維立解構手機攝影美學   十優狀元鄺文傑的治癒之路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195082566328127488643875.png/nWaw5ELEE5v4y-iiQBFP9aiyC6VrS3vsIkIeiCJCHog?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60407628/%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E6%B2%88%E7%B6%AD%E7%AB%8B%E8%A7%A3%E6%A7%8B%E6%89%8B%E6%A9%9F%E6%94%9D%E5%BD%B1%E7%BE%8E%E5%AD%B8-%E5%8D%81%E5%84%AA%E7%8B%80%E5%85%83%E9%84%BA%E6%96%87%E5%82%91%E7%9A%84%E6%B2%BB%E7%99%92%E4%B9%8B%E8%B7%AF",
-    "timestamp": "2026-11-05T10:53:34.837Z",
     "strategy": ".content-card__main"
   }
 ];
