@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T05:59:08.795Z
+// Last updated: 2026-11-05T06:27:27.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026美元定期存款及收益產品比較　有收益產品淨收益率高逾4.5%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192467957897236480260743.jpeg/TuiWMCnEiDUTvXY_VbEycGdJLXr-ILblxIlzgcSJc4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60404812/%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE2026-%E9%8A%80%E8%A1%8C%E7%BE%8E%E5%85%83%E5%AE%9A%E5%AD%98%E5%88%A9%E7%8E%87%E9%AB%98%E9%80%BE4-5%E5%8E%98-%E4%B8%80%E9%8D%B5%E6%AF%94%E8%BC%83%E5%84%AA%E6%83%A0%E5%88%A9%E6%81%AF",
+    "timestamp": "2026-11-05T06:27:27.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Google擬預設校園AI關閉　搜索功能一併停用　遭批技術霸權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194625485414338560079568.png/XSBp7iQgxqX_qvly-2jV8YPBBOiiU7CiMQJnITECZyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403090/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E9%A3%9B%E8%A1%8C%E5%93%A1%E5%A4%B1%E8%B9%A489%E5%B9%B4-%E8%A1%9B%E6%98%9F%E7%85%A7%E7%8F%BE%E7%A5%9E%E7%A7%98%E9%BB%91%E5%BD%B1-%E6%8E%A2%E9%9A%AA%E9%9A%8A%E9%81%A0%E8%B5%B4%E8%8D%92%E5%B3%B6%E8%A7%A3%E5%AF%86",
     "timestamp": "2026-11-04T23:23:29.674Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI教育共享｜當AI無所不知之時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193959472704262144348172.jpeg/qPOo09DMVBiVkNSYFe1-anlL-PyOe1SqiY9tE4mPbRM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60404581/ai%E6%95%99%E8%82%B2%E5%85%B1%E4%BA%AB-%E7%95%B6ai%E7%84%A1%E6%89%80%E4%B8%8D%E7%9F%A5%E4%B9%8B%E6%99%82",
-    "timestamp": "2026-11-04T23:13:43.757Z",
     "strategy": ".content-card__main"
   }
 ];
