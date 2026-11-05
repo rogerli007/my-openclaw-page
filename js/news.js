@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T15:53:09.682Z
+// Last updated: 2026-11-05T16:17:24.788Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會20款Soundbar測試：平價Samsung$5,480更勝Sony$17,299產品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195079101535227904590428.jpeg/NWDeR9cs_i2Bt-LbMpgMRVYL1E6uloZsjrHxVI6x8VQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407496/%E6%B6%88%E5%A7%94%E6%9C%8320%E6%AC%BEsoundbar%E6%B8%AC%E8%A9%A6-%E5%B9%B3%E5%83%B9samsung-5-480%E6%9B%B4%E5%8B%9Dsony-17-299%E7%94%A2%E5%93%81",
+    "timestamp": "2026-11-05T16:17:24.788Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃之鋒囚10年｜立法會堅定支持法庭依法判刑　充份彰顯法治和公義",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195052622545948672314879.jpeg/zjxoBxiwIdzFr5LVo8mlWbfCzbbXQ3Wyrqpi6a6qYuk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407526/%E9%87%8D%E7%94%9F2-%E6%A2%81%E6%B4%9B%E6%96%BD%E5%8C%96%E8%BA%AB%E5%A5%B3%E6%AE%BA%E7%A5%9E%E5%88%80%E6%A7%8D%E8%82%89%E6%90%8F-%E8%81%AF%E6%89%8B%E6%96%87%E4%BF%8A%E8%BC%9D%E4%BB%A5%E5%91%BD%E6%B1%BA%E6%88%B0%E6%B4%AA%E9%87%91%E5%AF%B6",
     "timestamp": "2026-11-05T10:20:37.187Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳自助餐推介｜20間必食！任食龍蝦/生蠔/刺身/360度全景$155起",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195071774174220288612085.jpeg/TaZJZt2tgE2bcPQ0UUcRexTmPLucUS9BNFgZVjRYGVY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407597/%E6%B7%B1%E5%9C%B3%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B-20%E9%96%93%E5%BF%85%E9%A3%9F-%E4%BB%BB%E9%A3%9F%E9%BE%8D%E8%9D%A6-%E7%94%9F%E8%A0%94-%E5%88%BA%E8%BA%AB-360%E5%BA%A6%E5%85%A8%E6%99%AF-155%E8%B5%B7",
-    "timestamp": "2026-11-05T09:59:06.783Z",
     "strategy": ".content-card__main"
   }
 ];
