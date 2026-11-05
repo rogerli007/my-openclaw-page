@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T06:27:27.155Z
+// Last updated: 2026-11-05T06:49:55.431Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃之鋒囚10年｜李家超：黃與羅冠聰及團夥是破壞香港繁榮穩定禍首",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177244802660700160057284.jpeg/s9G70hutHwmCxAng-11Fp0uapPCmHPvt0GlNxPVpTcQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407486/%E9%BB%83%E4%B9%8B%E9%8B%92%E5%9B%9A10%E5%B9%B4-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E9%BB%83%E8%88%87%E7%BE%85%E5%86%A0%E8%81%B0%E5%8F%8A%E5%9C%98%E5%A4%A5%E6%98%AF%E7%A0%B4%E5%A3%9E%E9%A6%99%E6%B8%AF%E7%B9%81%E6%A6%AE%E7%A9%A9%E5%AE%9A%E7%A6%8D%E9%A6%96",
+    "timestamp": "2026-11-05T06:49:55.431Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026美元定期存款及收益產品比較　有收益產品淨收益率高逾4.5%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194749838080610304954310.jpeg/KBX-qKthWxR3piqPyoSyKd89szIvXF4LUr1yxVK9csU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407235/%E7%B7%B4%E6%A8%82%E5%84%80%E6%B5%B7%E6%99%AF%E6%85%B6%E7%94%9F%E5%9B%9B%E5%A4%A7%E7%94%B7%E7%A5%9E%E5%8C%85%E5%9C%8D-%E9%97%9C%E7%B6%93%E7%BF%B0%E4%BC%81c%E4%BD%8D-%E7%88%86%E6%88%80%E6%83%85%E8%87%AA%E6%9B%9D%E5%96%AE%E8%BA%AB%E5%8D%81%E5%B9%B4",
     "timestamp": "2026-11-04T23:38:58.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國女飛行員失蹤89年　衛星照現神秘黑影　探險隊遠赴荒島解密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194625485414338560079568.png/XSBp7iQgxqX_qvly-2jV8YPBBOiiU7CiMQJnITECZyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60403090/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E9%A3%9B%E8%A1%8C%E5%93%A1%E5%A4%B1%E8%B9%A489%E5%B9%B4-%E8%A1%9B%E6%98%9F%E7%85%A7%E7%8F%BE%E7%A5%9E%E7%A7%98%E9%BB%91%E5%BD%B1-%E6%8E%A2%E9%9A%AA%E9%9A%8A%E9%81%A0%E8%B5%B4%E8%8D%92%E5%B3%B6%E8%A7%A3%E5%AF%86",
-    "timestamp": "2026-11-04T23:23:29.674Z",
     "strategy": ".content-card__main"
   }
 ];
