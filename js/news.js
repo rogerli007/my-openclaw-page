@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T20:23:51.673Z
+// Last updated: 2026-11-05T20:40:05.136Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國司法部民權司長迪隆辭職　曾主導部門爭議改革",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195227555628584960348216.jpeg/96Awv2eLbVQ28OLrZxZXTAut-NSpx84BsyrUyLMq1Mg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407706/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B0%91%E6%AC%8A%E5%8F%B8%E9%95%B7%E8%BF%AA%E9%9A%86%E8%BE%AD%E8%81%B7-%E6%9B%BE%E4%B8%BB%E5%B0%8E%E9%83%A8%E9%96%80%E7%88%AD%E8%AD%B0%E6%94%B9%E9%9D%A9",
+    "timestamp": "2026-11-05T20:40:05.136Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴拉圭總統培尼亞為銀行倒閉請辭　眾議院照通過彈劾案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195138432750325760253749.png/wPTuz7059nUWwoVQSbCqgxPNBU1-4gG7pJ90pqSfdKY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407685/bob-dylan-%E9%BB%91%E5%AE%A2-look%E8%A8%AA%E6%A2%B5%E8%92%82%E5%B2%A1%E6%99%A4%E6%95%99%E5%AE%97-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E8%B4%88%E5%BF%B5%E7%8F%A0",
     "timestamp": "2026-11-05T15:20:21.744Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTA香港賽︱伊雅娜力戰近2小時挫捷克新星　9度挽救破發點入8強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195133579412115456286570.jpeg/0Wl0xEiQB33FHyiQ1I5zxp7lVm5HSY3dBhQ0kQYUNJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407682/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E5%8A%9B%E6%88%B0%E8%BF%912%E5%B0%8F%E6%99%82%E6%8C%AB%E6%8D%B7%E5%85%8B%E6%96%B0%E6%98%9F-9%E5%BA%A6%E6%8C%BD%E6%95%91%E7%A0%B4%E7%99%BC%E9%BB%9E%E5%85%A58%E5%BC%B7",
-    "timestamp": "2026-11-05T14:53:45.047Z",
     "strategy": ".content-card__main"
   }
 ];
