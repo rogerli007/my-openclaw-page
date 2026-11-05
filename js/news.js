@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T17:29:48.068Z
+// Last updated: 2026-11-05T17:39:36.440Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梅拉尼婭白宮會見俄烏談判代表　表彰其協助促成奧列什基六日停火",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195184750256459776247598.jpeg/hPJTLz38vv5S7P-HV0F6ukU085AUIhHtLT9KVi0_SlY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407696/%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A9%AD%E7%99%BD%E5%AE%AE%E6%9C%83%E8%A6%8B%E4%BF%84%E7%83%8F%E8%AB%87%E5%88%A4%E4%BB%A3%E8%A1%A8-%E8%A1%A8%E5%BD%B0%E5%85%B6%E5%8D%94%E5%8A%A9%E4%BF%83%E6%88%90%E5%A5%A7%E5%88%97%E4%BB%80%E5%9F%BA%E5%85%AD%E6%97%A5%E5%81%9C%E7%81%AB",
+    "timestamp": "2026-11-05T17:39:36.440Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧親歷抑鬱症死裡逃生：站在馬路邊險衝向大貨車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195087268390375424321780.jpeg/I8fxmfnLpL09Y7kfc5q-g-dV37mOf4K285OhU_OToVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407635/error-%E8%82%A5%E4%BB%94%E8%88%87%E9%BB%8E%E6%98%8E%E6%96%B0%E6%AD%8C%E8%A2%AB%E6%8C%87%E6%9A%97%E8%97%8F%E7%B2%97%E5%8F%A3%E8%AB%A7%E9%9F%B3-%E8%A6%AA%E8%A7%A3-%E9%BB%8E%E7%94%9F%E8%A6%BA%E5%BE%97%E7%9B%9E%E9%AC%BC",
     "timestamp": "2026-11-05T11:53:36.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日綜盤點「容易出軌男」5特徵　夫妻收入藏危機　男醫生更愛偷食",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193953120216944640824357.jpeg/WMbPI6ICQecuohjqw2uryvQAMzCSmWK1wHcTtMB3E7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60406211/%E6%97%A5%E7%B6%9C%E7%9B%A4%E9%BB%9E-%E5%AE%B9%E6%98%93%E5%87%BA%E8%BB%8C%E7%94%B7-5%E7%89%B9%E5%BE%B5-%E5%A4%AB%E5%A6%BB%E6%94%B6%E5%85%A5%E8%97%8F%E5%8D%B1%E6%A9%9F-%E7%94%B7%E9%86%AB%E7%94%9F%E6%9B%B4%E6%84%9B%E5%81%B7%E9%A3%9F",
-    "timestamp": "2026-11-05T11:39:51.241Z",
     "strategy": ".content-card__main"
   }
 ];
