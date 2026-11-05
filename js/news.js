@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T09:20:29.445Z
+// Last updated: 2026-11-05T09:42:42.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超特攻｜兵工廠主場無敵　「細」擒老虎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195060298617196544620497.jpeg/ESoglRG2V0w8NDx9KOC5UeHxolW8Ezf0DOa9zwzmvc8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407573/%E8%8B%B1%E8%B6%85%E7%89%B9%E6%94%BB-%E5%85%B5%E5%B7%A5%E5%BB%A0%E4%B8%BB%E5%A0%B4%E7%84%A1%E6%95%B5-%E7%B4%B0-%E6%93%92%E8%80%81%E8%99%8E",
+    "timestamp": "2026-11-05T09:42:42.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西足球賽上演全武鬥　球證「慷慨」派53張紅牌破世界紀錄｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189640455705333760524701.jpeg/DaqPlSx_hifGyk6SUsEimNSbUxyKj1uqXBiIalwYiGo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60402160/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-%E5%B1%95%E7%99%BB%E9%99%B8%E5%95%9F%E5%BE%B7-%E9%87%8D%E7%8F%BE%E5%9C%98%E7%B5%90band%E9%9D%92%E6%98%A5%E8%88%9E%E5%8F%B0-%E6%97%A9%E9%B3%A5%E9%96%80%E7%A5%A887%E6%8A%98",
     "timestamp": "2026-11-05T02:36:33.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "建管條例｜修訂倡物管抽查20%授權票　業界憂難核證加大工作量",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187391067813580800159260.jpeg/v64aIe0jnoUmyQhvdDd6ia5Uj83fmJe67bd49-23ePc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407309/%E5%BB%BA%E7%AE%A1%E6%A2%9D%E4%BE%8B-%E4%BF%AE%E8%A8%82%E5%80%A1%E7%89%A9%E7%AE%A1%E6%8A%BD%E6%9F%A520-%E6%8E%88%E6%AC%8A%E7%A5%A8-%E6%A5%AD%E7%95%8C%E6%86%82%E9%9B%A3%E6%A0%B8%E8%AD%89%E5%8A%A0%E5%A4%A7%E5%B7%A5%E4%BD%9C%E9%87%8F",
-    "timestamp": "2026-11-05T02:20:01.612Z",
     "strategy": ".content-card__main"
   }
 ];
