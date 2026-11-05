@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T13:53:25.009Z
+// Last updated: 2026-11-05T14:25:16.950Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Binance幣安被盜494億元　創辦人趙長鵬警告：銀行處境更危險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195137431460909056516804.jpeg/1R0kbnuuwEQ9h8vxMmtGFwoqLNtiovNXGV5rdhlea3Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407676/binance%E5%B9%A3%E5%AE%89%E8%A2%AB%E7%9B%9C494%E5%84%84%E5%85%83-%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%B6%99%E9%95%B7%E9%B5%AC%E8%AD%A6%E5%91%8A-%E9%8A%80%E8%A1%8C%E8%99%95%E5%A2%83%E6%9B%B4%E5%8D%B1%E9%9A%AA",
+    "timestamp": "2026-11-05T14:25:16.950Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《香港01》嚴正聲明：與可疑眾籌網站無任何關聯　籲公眾提防受騙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195045360117223424594217.jpeg/fEtiaD1av9txw0lkLJnz6QxX3opWonq7KXsYjCl7GIw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407533/%E6%9D%8E%E5%AE%B6%E8%B6%85-%E4%B8%BB%E5%8B%95%E5%B0%8D%E6%8E%A5%E5%9C%8B%E5%AE%B6%E7%A7%91%E6%8A%80%E6%88%B0%E7%95%A5-%E7%88%AD%E5%8F%96%E6%A0%B8%E5%BF%83%E9%A0%98%E5%9F%9F%E7%A7%91%E7%A0%94%E7%AA%81%E7%A0%B4",
     "timestamp": "2026-11-05T08:31:33.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "八三夭演唱會2026｜澳門開1場門票$588起！附購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195038657900187648768432.jpeg/K-ZsIK2FSzwl4ohU30bXQ6vFTLluY74JRxhfNkcYXzY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60407506/%E5%85%AB%E4%B8%89%E5%A4%AD%E6%BC%94%E5%94%B1%E6%9C%832026-%E6%BE%B3%E9%96%80%E9%96%8B1%E5%A0%B4%E9%96%80%E7%A5%A8-588%E8%B5%B7-%E9%99%84%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-11-05T08:25:24.243Z",
     "strategy": ".content-card__main"
   }
 ];
