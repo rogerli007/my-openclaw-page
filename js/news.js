@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T14:25:16.950Z
+// Last updated: 2026-11-05T14:46:32.284Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《衝上雲霄大選》季軍雪地求婚成功　曾被裁員自強考獲機師證圓夢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195070188580507648079152.jpeg/cBp431IdJXivitfVl3xjXBdNtcwMtpQIAfgdTgH4HU4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407607/%E8%A1%9D%E4%B8%8A%E9%9B%B2%E9%9C%84%E5%A4%A7%E9%81%B8-%E5%AD%A3%E8%BB%8D%E9%99%B8%E7%85%A5%E6%81%86%E6%B1%82%E5%A9%9A%E6%88%90%E5%8A%9F-%E6%9B%BE%E9%81%AD%E8%A3%81%E5%93%A1%E9%80%86%E8%A5%B2%E8%80%83%E7%8D%B2%E6%A9%9F%E5%B8%AB%E5%9F%B7%E7%85%A7",
+    "timestamp": "2026-11-05T14:46:32.284Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Binance幣安被盜494億元　創辦人趙長鵬警告：銀行處境更危險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195047641449238528960387.jpeg/k5Ug3MgxwAJufx96WZvIkgs_CJC2uTkCRuCzdEbgs3Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407521/%E4%BD%A9%E6%B4%9B%E8%A5%BF%E6%8E%A5%E6%A3%92%E6%88%B0%E8%90%BD%E5%B9%95-%E6%B8%AF%E4%BA%BA%E7%A7%BB%E6%B0%91%E9%99%B3%E8%A9%A9%E6%95%8F%E6%89%BF%E8%AA%8D%E6%95%97%E9%81%B8-%E4%B8%89%E8%97%A9%E5%B8%82%E9%A6%96%E8%BF%8E%E5%90%8C%E5%BF%97%E8%AD%B0%E5%93%A1",
     "timestamp": "2026-11-05T08:46:27.204Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李家超：主動對接國家科技戰略　爭取核心領域科研突破",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195045360117223424594217.jpeg/fEtiaD1av9txw0lkLJnz6QxX3opWonq7KXsYjCl7GIw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407533/%E6%9D%8E%E5%AE%B6%E8%B6%85-%E4%B8%BB%E5%8B%95%E5%B0%8D%E6%8E%A5%E5%9C%8B%E5%AE%B6%E7%A7%91%E6%8A%80%E6%88%B0%E7%95%A5-%E7%88%AD%E5%8F%96%E6%A0%B8%E5%BF%83%E9%A0%98%E5%9F%9F%E7%A7%91%E7%A0%94%E7%AA%81%E7%A0%B4",
-    "timestamp": "2026-11-05T08:31:33.910Z",
     "strategy": ".content-card__main"
   }
 ];
