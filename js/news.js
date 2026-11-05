@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T12:54:01.878Z
+// Last updated: 2026-11-05T13:20:23.625Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩結果｜今期11.5頭獎1.08億即時攪珠｜中獎號碼+派彩獎金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407586/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F11-5%E9%A0%AD%E7%8D%8E1-08%E5%84%84%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
+    "timestamp": "2026-11-05T13:20:23.625Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關上水截貨車　搗粉錦公路鐵皮私煙倉　檢$1255萬貨拘內地司機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188282245304029184134275.jpeg/KFE4nYCtmHFD1MWkGeRiW2NeukKuP3GMb062d29Otnc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407497/%E6%97%A5%E6%9C%AC%E9%80%80%E7%A8%85%E6%96%B0%E5%88%B6%E8%A8%BB%E5%86%8A%E9%A0%88%E5%A1%AB%E4%BF%A1%E7%94%A8%E5%8D%A1cvc%E5%BC%95%E5%AE%89%E5%85%A8%E6%86%82%E6%85%AE-%E5%8F%AA%E6%9C%89%E9%80%99%E9%96%93%E5%85%AC%E5%8F%B8%E4%B8%8D%E9%9C%80%E8%A6%81",
     "timestamp": "2026-11-05T07:39:58.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國外交罕見大動作！為何三位特使同時急赴中東與非洲七國？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194712708566487040463570.jpeg/aN4VHYk_w9vEX7KePGViQGNz4xzTXebwN56RAzeekQM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60407160/%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E7%BD%95%E8%A6%8B%E5%A4%A7%E5%8B%95%E4%BD%9C-%E7%82%BA%E4%BD%95%E4%B8%89%E4%BD%8D%E7%89%B9%E4%BD%BF%E5%90%8C%E6%99%82%E6%80%A5%E8%B5%B4%E4%B8%AD%E6%9D%B1%E8%88%87%E9%9D%9E%E6%B4%B2%E4%B8%83%E5%9C%8B",
-    "timestamp": "2026-11-05T07:25:57.939Z",
     "strategy": ".content-card__main"
   }
 ];
