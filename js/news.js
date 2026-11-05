@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T22:19:37.140Z
+// Last updated: 2026-11-05T22:45:10.832Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日大致多雲　早晚有一兩陣雨　日間最高29度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195262478297206784032618.jpeg/rcBglQORsqwF3-GeoQ2oNE2nEIstO4LelP9-JZT_fiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60407702/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E6%99%9A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9829%E5%BA%A6",
+    "timestamp": "2026-11-05T22:45:10.832Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大坑私家車泊馬路　60歲男司機被揭醉駕被捕　報稱不適送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193257488942632960804275.jpeg/-DWZ95PFTL9Vv4hexj-3oaD0rfNwfLSkIDXcgiA13II",
     "url": "https://www.hk01.com/01TV/60405656/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E6%AD%B7%E6%8A%91%E9%AC%B1%E7%97%87%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F-%E7%AB%99%E5%9C%A8%E9%A6%AC%E8%B7%AF%E9%82%8A%E9%9A%AA%E8%A1%9D%E5%90%91%E5%A4%A7%E8%B2%A8%E8%BB%8A",
     "timestamp": "2026-11-05T17:14:21.559Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃之鋒囚10年｜港府譴責美國駐港總領事館言論　稱是卑劣政治操弄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5e528004a5af56141f1d5473.jpg/PJfzQZkNk3tCPTOgvBqqTC30APnZ2T3aAxp6JSUaeiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407694/%E9%BB%83%E4%B9%8B%E9%8B%92%E5%9B%9A10%E5%B9%B4-%E6%B8%AF%E5%BA%9C%E8%AD%B4%E8%B2%AC%E7%BE%8E%E5%9C%8B%E9%A7%90%E6%B8%AF%E7%B8%BD%E9%A0%98%E4%BA%8B%E9%A4%A8%E8%A8%80%E8%AB%96-%E7%A8%B1%E6%98%AF%E5%8D%91%E5%8A%A3%E6%94%BF%E6%B2%BB%E6%93%8D%E5%BC%84",
-    "timestamp": "2026-11-05T16:54:19.380Z",
     "strategy": ".content-card__main"
   }
 ];
