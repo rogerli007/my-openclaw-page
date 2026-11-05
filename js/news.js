@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T23:13:20.069Z
+// Last updated: 2026-11-05T23:29:00.177Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "換季血壓坐過山車？睡醒下床最危險　醫生揭換季保命五字訣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190256610618904576283641.jpeg/F6SZ8oWj1hcaMznXQEj0dEQnq6-F-RdBohzcC6Ic3As?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60402092/%E6%8F%9B%E5%AD%A3%E8%A1%80%E5%A3%93%E5%9D%90%E9%81%8E%E5%B1%B1%E8%BB%8A-%E7%9D%A1%E9%86%92%E4%B8%8B%E5%BA%8A%E6%9C%80%E5%8D%B1%E9%9A%AA-%E9%86%AB%E7%94%9F%E6%8F%AD%E6%8F%9B%E5%AD%A3%E4%BF%9D%E5%91%BD%E4%BA%94%E5%AD%97%E8%A8%A3",
+    "timestamp": "2026-11-05T23:29:00.177Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧否認擬離開特朗普政府　但拒談會否角逐下屆總統",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195184750256459776247598.jpeg/hPJTLz38vv5S7P-HV0F6ukU085AUIhHtLT9KVi0_SlY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407696/%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A9%AD%E7%99%BD%E5%AE%AE%E6%9C%83%E8%A6%8B%E4%BF%84%E7%83%8F%E8%AB%87%E5%88%A4%E4%BB%A3%E8%A1%A8-%E8%A1%A8%E5%BD%B0%E5%85%B6%E5%8D%94%E5%8A%A9%E4%BF%83%E6%88%90%E5%A5%A7%E5%88%97%E4%BB%80%E5%9F%BA%E5%85%AD%E6%97%A5%E5%81%9C%E7%81%AB",
     "timestamp": "2026-11-05T17:39:36.440Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧親歷抑鬱症死裡逃生：站在馬路邊險衝向大貨車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193257488942632960804275.jpeg/-DWZ95PFTL9Vv4hexj-3oaD0rfNwfLSkIDXcgiA13II",
-    "url": "https://www.hk01.com/01TV/60405656/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E6%AD%B7%E6%8A%91%E9%AC%B1%E7%97%87%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F-%E7%AB%99%E5%9C%A8%E9%A6%AC%E8%B7%AF%E9%82%8A%E9%9A%AA%E8%A1%9D%E5%90%91%E5%A4%A7%E8%B2%A8%E8%BB%8A",
-    "timestamp": "2026-11-05T17:29:48.068Z",
     "strategy": ".content-card__main"
   }
 ];
