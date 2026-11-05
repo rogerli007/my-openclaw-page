@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T01:42:45.442Z
+// Last updated: 2026-11-05T01:55:40.362Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港到香格里拉　龍安志談江湖和AI焦慮：世界需要東方功夫和哲學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194741191225118720967538.png/ZKlThwb04ls71xONEWSG1vD9vR_0SNIOUKCsBFCgrAQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60406858/%E9%A6%99%E6%B8%AF%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89-%E9%BE%8D%E5%AE%89%E5%BF%97%E8%AB%87%E6%B1%9F%E6%B9%96%E5%92%8Cai%E7%84%A6%E6%85%AE-%E4%B8%96%E7%95%8C%E9%9C%80%E8%A6%81%E6%9D%B1%E6%96%B9%E5%8A%9F%E5%A4%AB%E5%92%8C%E5%93%B2%E5%AD%B8",
+    "timestamp": "2026-11-05T01:55:40.362Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港到香格里拉　龍安志談江湖和AI焦慮：世界需要東方功夫和哲學",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256817170321408456231.png/ianLExMhGmMlSuAcXfJotZtphdGT7U0Kqw1AuqsNQLo",
     "url": "https://www.hk01.com/01TV/60405655/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E4%BA%BA%E9%80%A3%E7%BA%8C%E9%9B%A2%E4%B8%96-%E5%8F%97%E5%88%B0%E5%9A%B4%E9%87%8D%E6%89%93%E6%93%8A%E9%81%AD%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7",
     "timestamp": "2026-11-04T20:29:26.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜利物浦作客2：3不敵費倫巴治　皇馬作客3：2勝AEK雅典",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194856023156985856972135.jpeg/F0bd7k0YIoBRzLQm-6ZjTwjo80PCLiHJXgtnNF4LZzQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407294/%E6%AD%90%E8%81%AF-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A22-3%E4%B8%8D%E6%95%B5%E8%B2%BB%E5%80%AB%E5%B7%B4%E6%B2%BB-%E7%9A%87%E9%A6%AC%E4%BD%9C%E5%AE%A23-2%E5%8B%9Daek%E9%9B%85%E5%85%B8",
-    "timestamp": "2026-11-04T19:53:23.720Z",
     "strategy": ".content-card__main"
   }
 ];
