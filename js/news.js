@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T10:45:41.689Z
+// Last updated: 2026-11-05T10:53:34.837Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非凡人物｜沈維立解構手機攝影美學   十優狀元鄺文傑的治癒之路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195082566328127488643875.png/nWaw5ELEE5v4y-iiQBFP9aiyC6VrS3vsIkIeiCJCHog?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60407628/%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E6%B2%88%E7%B6%AD%E7%AB%8B%E8%A7%A3%E6%A7%8B%E6%89%8B%E6%A9%9F%E6%94%9D%E5%BD%B1%E7%BE%8E%E5%AD%B8-%E5%8D%81%E5%84%AA%E7%8B%80%E5%85%83%E9%84%BA%E6%96%87%E5%82%91%E7%9A%84%E6%B2%BB%E7%99%92%E4%B9%8B%E8%B7%AF",
+    "timestamp": "2026-11-05T10:53:34.837Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "非凡人物｜沈維立解構手機攝影美學   十優狀元鄺文傑的治癒之路",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194985956751446016789243.jpeg/5iiJCJRGG9R_W9WBr-1rt2ZmpCj7KdP2Z0v99mdL_fY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407421/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E5%A4%A7%E5%A8%9B%E6%A8%82%E9%A8%B7-%E8%BE%B2%E6%9B%86%E5%B9%B4%E9%A6%96%E7%99%BB%E7%B4%85%E9%A4%A8-%E5%8F%AC%E5%96%9A%E4%BA%94%E5%A4%A7%E7%B6%93%E5%85%B8%E8%A7%92%E8%89%B2%E9%80%BC%E4%BD%8F%E7%9A%84%E5%A3%AB%E5%AE%A3%E5%82%B3",
     "timestamp": "2026-11-05T04:22:30.748Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大灣區航空優惠｜台北機票$80起！東京/大阪/福岡85折 包20KG行李",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194959515338936320680541.jpeg/BvSLjyLXgDFYifz4gYzUaj71H8EMbyaANfQVRzX0FUc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407347/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%88%AA%E7%A9%BA%E5%84%AA%E6%83%A0-%E5%8F%B0%E5%8C%97%E6%A9%9F%E7%A5%A8-80%E8%B5%B7-%E6%9D%B1%E4%BA%AC-%E5%A4%A7%E9%98%AA-%E7%A6%8F%E5%B2%A185%E6%8A%98-%E5%8C%8520kg%E8%A1%8C%E6%9D%8E",
-    "timestamp": "2026-11-05T03:38:15.710Z",
     "strategy": ".content-card__main"
   }
 ];
