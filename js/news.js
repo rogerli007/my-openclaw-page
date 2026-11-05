@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T19:23:37.703Z
+// Last updated: 2026-11-05T19:39:37.409Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧從心理學中自我救贖：讀懂三大心理學派走向正面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259899363004416371809.jpeg/6-nKEDdsTA9DEsbarp9OTgWCV6g8DgJOg3Y7koN2O5I",
+    "url": "https://www.hk01.com/01TV/60405664/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BE%9E%E5%BF%83%E7%90%86%E5%AD%B8%E4%B8%AD%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E8%AE%80%E6%87%82%E4%B8%89%E5%A4%A7%E5%BF%83%E7%90%86%E5%AD%B8%E6%B4%BE%E8%B5%B0%E5%90%91%E6%AD%A3%E9%9D%A2",
+    "timestamp": "2026-11-05T19:39:37.409Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧從心理學中自我救贖：讀懂三大心理學派走向正面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195137431460909056516804.jpeg/1R0kbnuuwEQ9h8vxMmtGFwoqLNtiovNXGV5rdhlea3Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407676/binance%E5%B9%A3%E5%AE%89%E8%A2%AB%E7%9B%9C494%E5%84%84%E5%85%83-%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%B6%99%E9%95%B7%E9%B5%AC%E8%AD%A6%E5%91%8A-%E9%8A%80%E8%A1%8C%E8%99%95%E5%A2%83%E6%9B%B4%E5%8D%B1%E9%9A%AA",
     "timestamp": "2026-11-05T14:25:16.950Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《香港01》嚴正聲明：與可疑眾籌網站無任何關聯　籲公眾提防受騙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195126693459660800592863.jpeg/CBuj_8rRvCqzirDNA1TRxGfiL-QLi48-9T8Pb_U_D28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407678/%E9%A6%99%E6%B8%AF01-%E5%9A%B4%E6%AD%A3%E8%81%B2%E6%98%8E-%E8%88%87%E5%8F%AF%E7%96%91%E7%9C%BE%E7%B1%8C%E7%B6%B2%E7%AB%99%E7%84%A1%E4%BB%BB%E4%BD%95%E9%97%9C%E8%81%AF-%E7%B1%B2%E5%85%AC%E7%9C%BE%E6%8F%90%E9%98%B2%E5%8F%97%E9%A8%99",
-    "timestamp": "2026-11-05T13:53:25.009Z",
     "strategy": ".content-card__main"
   }
 ];
