@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T02:20:01.612Z
+// Last updated: 2026-11-05T02:36:33.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《孤獨搖滾！》展登陸啟德｜重現團結Band青春舞台｜早鳥門票87折",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189640455705333760524701.jpeg/DaqPlSx_hifGyk6SUsEimNSbUxyKj1uqXBiIalwYiGo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60402160/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-%E5%B1%95%E7%99%BB%E9%99%B8%E5%95%9F%E5%BE%B7-%E9%87%8D%E7%8F%BE%E5%9C%98%E7%B5%90band%E9%9D%92%E6%98%A5%E8%88%9E%E5%8F%B0-%E6%97%A9%E9%B3%A5%E9%96%80%E7%A5%A887%E6%8A%98",
+    "timestamp": "2026-11-05T02:36:33.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "建管條例｜修訂倡物管抽查20%授權票　業界憂難核證加大工作量",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256817170321408456231.png/ianLExMhGmMlSuAcXfJotZtphdGT7U0Kqw1AuqsNQLo",
     "url": "https://www.hk01.com/01TV/60405655/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E4%BA%BA%E9%80%A3%E7%BA%8C%E9%9B%A2%E4%B8%96-%E5%8F%97%E5%88%B0%E5%9A%B4%E9%87%8D%E6%89%93%E6%93%8A%E9%81%AD%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7",
     "timestamp": "2026-11-04T20:53:54.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧親人連續離世：受到嚴重打擊遭心理創傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256817170321408456231.png/ianLExMhGmMlSuAcXfJotZtphdGT7U0Kqw1AuqsNQLo",
-    "url": "https://www.hk01.com/01TV/60405655/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E4%BA%BA%E9%80%A3%E7%BA%8C%E9%9B%A2%E4%B8%96-%E5%8F%97%E5%88%B0%E5%9A%B4%E9%87%8D%E6%89%93%E6%93%8A%E9%81%AD%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7",
-    "timestamp": "2026-11-04T20:40:18.738Z",
     "strategy": ".content-card__main"
   }
 ];
