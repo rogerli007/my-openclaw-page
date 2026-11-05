@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T18:59:10.318Z
+// Last updated: 2026-11-05T19:12:20.333Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧從心理學中自我救贖：讀懂三大心理學派走向正面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259899363004416371809.jpeg/6-nKEDdsTA9DEsbarp9OTgWCV6g8DgJOg3Y7koN2O5I",
+    "url": "https://www.hk01.com/01TV/60405664/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BE%9E%E5%BF%83%E7%90%86%E5%AD%B8%E4%B8%AD%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E8%AE%80%E6%87%82%E4%B8%89%E5%A4%A7%E5%BF%83%E7%90%86%E5%AD%B8%E6%B4%BE%E8%B5%B0%E5%90%91%E6%AD%A3%E9%9D%A2",
+    "timestamp": "2026-11-05T19:12:20.333Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紐約布魯克林住宅發生火災　至少6死9傷　起火原因仍在調查中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194976218840043520814203.png/3wDJ4QQ9FWvWJDG5LrCUMo6_rQbwMtiM7tL9ee7S_Xk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407322/%E5%AB%81%E9%87%91%E9%87%B5%E7%B5%90%E5%B1%80%E5%8F%8D%E8%BD%89-%E7%94%B0%E6%9B%A6%E8%96%87%E6%BB%BF%E8%BA%AB%E5%82%B7%E7%97%95%E8%AD%B7%E5%9C%8B-%E5%85%A8%E5%8A%87%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6%E7%AB%9F%E6%98%AF%E7%BE%A9%E5%A6%B9%E7%B4%85%E7%B7%9A",
     "timestamp": "2026-11-05T13:43:33.670Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期11.5頭獎1.08億即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407586/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F11-5%E9%A0%AD%E7%8D%8E1-08%E5%84%84%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-11-05T13:20:23.625Z",
     "strategy": ".content-card__main"
   }
 ];
