@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T07:57:33.495Z
+// Last updated: 2026-11-05T08:25:24.243Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八三夭演唱會2026｜澳門開1場門票$588起！附購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195038657900187648768432.jpeg/K-ZsIK2FSzwl4ohU30bXQ6vFTLluY74JRxhfNkcYXzY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60407506/%E5%85%AB%E4%B8%89%E5%A4%AD%E6%BC%94%E5%94%B1%E6%9C%832026-%E6%BE%B3%E9%96%80%E9%96%8B1%E5%A0%B4%E9%96%80%E7%A5%A8-588%E8%B5%B7-%E9%99%84%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-11-05T08:25:24.243Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "UNIQLO推出文學雜誌！Cate Blanchett掛帥新企劃寫下女性真實經歷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194671122830856192897423.jpeg/OhpNjgatfLaSCtLite5eNw9zXbUOy--z9_3NGvf9zRo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407080/%E6%AF%8F%E5%85%AC%E9%87%8C2%E6%AF%AB%E6%88%90%E6%9C%AC-%E5%90%89%E5%88%A9%E9%8A%80%E6%B2%B3%E6%98%9F%E8%80%806ef-%E9%A6%96%E5%89%B5%E7%94%B2%E9%86%87%E6%B7%B7%E8%83%BD-%E5%85%A5%E6%BB%BF%E6%B2%B9%E8%A1%8C1880km",
     "timestamp": "2026-11-05T01:21:31.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡辛強重出江湖動作多多　疑現身張家輝紅館騷︰話請我做嘉賓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194703082127101952546891.jpeg/M_kIV0RHwNAMVTeygwzBhD1Bo9IGPc1eM1OsPDNTrDw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407166/%E8%94%A1%E8%BE%9B%E5%BC%B7%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96%E5%8B%95%E4%BD%9C%E5%A4%9A%E5%A4%9A-%E7%96%91%E7%8F%BE%E8%BA%AB%E5%BC%B5%E5%AE%B6%E8%BC%9D%E7%B4%85%E9%A4%A8%E9%A8%B7-%E8%A9%B1%E8%AB%8B%E6%88%91%E5%81%9A%E5%98%89%E8%B3%93",
-    "timestamp": "2026-11-05T00:50:34.591Z",
     "strategy": ".content-card__main"
   }
 ];
