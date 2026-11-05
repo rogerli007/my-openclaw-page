@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T00:37:58.508Z
+// Last updated: 2026-11-05T00:50:34.591Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡辛強重出江湖動作多多　疑現身張家輝紅館騷︰話請我做嘉賓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194703082127101952546891.jpeg/M_kIV0RHwNAMVTeygwzBhD1Bo9IGPc1eM1OsPDNTrDw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407166/%E8%94%A1%E8%BE%9B%E5%BC%B7%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96%E5%8B%95%E4%BD%9C%E5%A4%9A%E5%A4%9A-%E7%96%91%E7%8F%BE%E8%BA%AB%E5%BC%B5%E5%AE%B6%E8%BC%9D%E7%B4%85%E9%A4%A8%E9%A8%B7-%E8%A9%B1%E8%AB%8B%E6%88%91%E5%81%9A%E5%98%89%E8%B3%93",
+    "timestamp": "2026-11-05T00:50:34.591Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡辛強重出江湖動作多多　疑現身張家輝紅館騷︰話請我做嘉賓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194847146562555904965203.jpeg/b2rtaSbxnUZQU5fMvxZeric2jVa4oA7ayygGK_EoBis?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407292/%E4%B8%8A%E6%B0%B4%E9%86%89%E6%BC%A2%E6%B6%89%E7%94%A8%E7%93%B7%E7%A3%9A%E6%96%BD%E8%A5%B2%E8%A2%AB%E6%8D%95-%E9%99%8C%E7%94%9F%E7%94%B7%E8%87%89%E5%98%B4%E5%8F%97%E5%82%B7-%E5%85%A9%E4%BA%BA%E9%BD%8A%E9%80%81%E9%99%A2",
     "timestamp": "2026-11-04T19:23:50.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "以色列大選｜總統接選舉正式結果　將就組閣與各政黨展開磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193978574604865536431956.jpeg/8qh4u1DzihRmZONFBKOVpfDEMxenjhuRTICWDkyAlg4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407291/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E9%81%B8-%E7%B8%BD%E7%B5%B1%E6%8E%A5%E9%81%B8%E8%88%89%E6%AD%A3%E5%BC%8F%E7%B5%90%E6%9E%9C-%E5%B0%87%E5%B0%B1%E7%B5%84%E9%96%A3%E8%88%87%E5%90%84%E6%94%BF%E9%BB%A8%E5%B1%95%E9%96%8B%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-11-04T19:12:50.656Z",
     "strategy": ".content-card__main"
   }
 ];
