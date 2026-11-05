@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T03:22:16.225Z
+// Last updated: 2026-11-05T03:27:49.438Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗男子持刀危坐天台　揭早前刀傷一女子頸手　警方消防展開遊說",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194971627826188288781092.jpeg/p9YZ59nZKZ1HCpH3Iokx0gjdUoHNp4eq94Wnz86Fp88?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407380/%E5%85%83%E6%9C%97%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E5%8D%B1%E5%9D%90%E5%A4%A9%E5%8F%B0-%E6%8F%AD%E6%97%A9%E5%89%8D%E5%88%80%E5%82%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E9%A0%B8%E6%89%8B-%E8%AD%A6%E6%96%B9%E6%B6%88%E9%98%B2%E5%B1%95%E9%96%8B%E9%81%8A%E8%AA%AA",
+    "timestamp": "2026-11-05T03:27:49.438Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "嫌出餐慢！港男大鬧麥當勞：知唔知我邊個？ 經理4字金句反擊爆笑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194873703117099008980523.jpeg/Kz8wriipf-DEId002EGZ7N4FqVpn5bg1FrU5Kiy1OSo",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407295/%E7%B6%B2%E5%82%B3%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E5%9E%83%E5%9C%BE%E7%AE%B1%E6%9C%89%E9%BC%A0%E7%BE%A4%E5%87%BA%E6%B2%92-01%E7%9B%B4%E6%93%8A%E8%80%81%E9%BC%A0%E4%BA%82%E7%AB%84-%E7%B1%A0%E5%85%A7%E6%9C%89%E9%BC%A0-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-04T21:24:11.568Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧親人連續離世：受到嚴重打擊遭心理創傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256817170321408456231.png/ianLExMhGmMlSuAcXfJotZtphdGT7U0Kqw1AuqsNQLo",
-    "url": "https://www.hk01.com/01TV/60405655/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E4%BA%BA%E9%80%A3%E7%BA%8C%E9%9B%A2%E4%B8%96-%E5%8F%97%E5%88%B0%E5%9A%B4%E9%87%8D%E6%89%93%E6%93%8A%E9%81%AD%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7",
-    "timestamp": "2026-11-04T21:12:46.079Z",
     "strategy": ".content-card__main"
   }
 ];
