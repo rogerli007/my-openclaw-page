@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T08:25:24.243Z
+// Last updated: 2026-11-05T08:31:33.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李家超：主動對接國家科技戰略　爭取核心領域科研突破",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195045360117223424594217.jpeg/fEtiaD1av9txw0lkLJnz6QxX3opWonq7KXsYjCl7GIw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407533/%E6%9D%8E%E5%AE%B6%E8%B6%85-%E4%B8%BB%E5%8B%95%E5%B0%8D%E6%8E%A5%E5%9C%8B%E5%AE%B6%E7%A7%91%E6%8A%80%E6%88%B0%E7%95%A5-%E7%88%AD%E5%8F%96%E6%A0%B8%E5%BF%83%E9%A0%98%E5%9F%9F%E7%A7%91%E7%A0%94%E7%AA%81%E7%A0%B4",
+    "timestamp": "2026-11-05T08:31:33.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八三夭演唱會2026｜澳門開1場門票$588起！附購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194741191225118720967538.png/ZKlThwb04ls71xONEWSG1vD9vR_0SNIOUKCsBFCgrAQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60406858/%E9%A6%99%E6%B8%AF%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89-%E9%BE%8D%E5%AE%89%E5%BF%97%E8%AB%87%E6%B1%9F%E6%B9%96%E5%92%8Cai%E7%84%A6%E6%85%AE-%E4%B8%96%E7%95%8C%E9%9C%80%E8%A6%81%E6%9D%B1%E6%96%B9%E5%8A%9F%E5%A4%AB%E5%92%8C%E5%93%B2%E5%AD%B8",
     "timestamp": "2026-11-05T01:42:45.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "每公里2毫成本！吉利銀河星耀6EF　首創甲醇混能、入滿油行1880km",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194671122830856192897423.jpeg/OhpNjgatfLaSCtLite5eNw9zXbUOy--z9_3NGvf9zRo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407080/%E6%AF%8F%E5%85%AC%E9%87%8C2%E6%AF%AB%E6%88%90%E6%9C%AC-%E5%90%89%E5%88%A9%E9%8A%80%E6%B2%B3%E6%98%9F%E8%80%806ef-%E9%A6%96%E5%89%B5%E7%94%B2%E9%86%87%E6%B7%B7%E8%83%BD-%E5%85%A5%E6%BB%BF%E6%B2%B9%E8%A1%8C1880km",
-    "timestamp": "2026-11-05T01:21:31.291Z",
     "strategy": ".content-card__main"
   }
 ];
