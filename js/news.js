@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T05:20:39.944Z
+// Last updated: 2026-11-05T05:45:49.715Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "$1.08億六合彩今晚攪珠│頭獎得主分享「畫十字」投注秘技:中過3次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192804029168619520265038.jpeg/GhZ04b0IUHavMOGtoGU5eekH6SXu9p9Iyv_OLMr_ziw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405207/1-08%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E4%BB%8A%E6%99%9A%E6%94%AA%E7%8F%A0-%E9%A0%AD%E7%8D%8E%E5%BE%97%E4%B8%BB%E5%88%86%E4%BA%AB-%E7%95%AB%E5%8D%81%E5%AD%97-%E6%8A%95%E6%B3%A8%E7%A7%98%E6%8A%80-%E4%B8%AD%E9%81%8E3%E6%AC%A1",
+    "timestamp": "2026-11-05T05:45:49.715Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吳敬浩做「禮儀先生」搶鏡獲封新一代男神　網民：TVB終於有靚仔",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194760378358173696016935.jpeg/CcrQJ5BzBlgtLN_hNywimmcIqRKg9AOA3RHhy90R4cs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407124/%E9%99%B3%E5%A6%99%E7%91%9B%E7%9B%B8%E7%B4%84%E8%83%A1%E6%A5%93%E7%BE%85%E8%98%AD%E8%8C%B6%E8%81%9A-%E8%A2%AB%E7%88%86-%E5%A4%A7%E7%AC%91%E5%A7%91%E5%A9%86-%E7%9C%9F%E9%9D%A2%E7%9B%AE%E5%87%8D%E9%BD%A1%E7%8B%80%E6%85%8B%E6%A5%B5%E9%A9%9A%E4%BA%BA",
     "timestamp": "2026-11-04T22:55:03.384Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳妙瑛相約胡楓羅蘭茶聚　被爆「大笑姑婆」真面目凍齡狀態極驚人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194760378358173696016935.jpeg/CcrQJ5BzBlgtLN_hNywimmcIqRKg9AOA3RHhy90R4cs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407124/%E9%99%B3%E5%A6%99%E7%91%9B%E7%9B%B8%E7%B4%84%E8%83%A1%E6%A5%93%E7%BE%85%E8%98%AD%E8%8C%B6%E8%81%9A-%E8%A2%AB%E7%88%86-%E5%A4%A7%E7%AC%91%E5%A7%91%E5%A9%86-%E7%9C%9F%E9%9D%A2%E7%9B%AE%E5%87%8D%E9%BD%A1%E7%8B%80%E6%85%8B%E6%A5%B5%E9%A9%9A%E4%BA%BA",
-    "timestamp": "2026-11-04T22:39:22.524Z",
     "strategy": ".content-card__main"
   }
 ];
