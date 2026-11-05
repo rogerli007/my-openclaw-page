@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T09:59:06.783Z
+// Last updated: 2026-11-05T10:20:37.187Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重生2｜梁洛施化身女殺神刀槍肉搏　聯手文俊輝以命決戰洪金寶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195052622545948672314879.jpeg/zjxoBxiwIdzFr5LVo8mlWbfCzbbXQ3Wyrqpi6a6qYuk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407526/%E9%87%8D%E7%94%9F2-%E6%A2%81%E6%B4%9B%E6%96%BD%E5%8C%96%E8%BA%AB%E5%A5%B3%E6%AE%BA%E7%A5%9E%E5%88%80%E6%A7%8D%E8%82%89%E6%90%8F-%E8%81%AF%E6%89%8B%E6%96%87%E4%BF%8A%E8%BC%9D%E4%BB%A5%E5%91%BD%E6%B1%BA%E6%88%B0%E6%B4%AA%E9%87%91%E5%AF%B6",
+    "timestamp": "2026-11-05T10:20:37.187Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳自助餐推介｜20間必食！任食龍蝦/生蠔/刺身/360度全景$155起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194971627826188288781092.jpeg/p9YZ59nZKZ1HCpH3Iokx0gjdUoHNp4eq94Wnz86Fp88?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407380/%E5%85%83%E6%9C%97%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E5%8D%B1%E5%9D%90%E5%A4%A9%E5%8F%B0-%E6%8F%AD%E6%97%A9%E5%89%8D%E5%88%80%E5%82%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E9%A0%B8%E6%89%8B-%E8%AD%A6%E6%96%B9%E6%B6%88%E9%98%B2%E5%B1%95%E9%96%8B%E9%81%8A%E8%AA%AA",
     "timestamp": "2026-11-05T03:27:49.438Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "嫌出餐慢！港男大鬧麥當勞：知唔知我邊個？ 經理4字金句反擊爆笑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194369129381892096051932.jpeg/2x-Ad1h4C48VzXvMpg-yxwjboKys9Z8uTU9bQ01PW0M",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60406772/%E5%AB%8C%E5%87%BA%E9%A4%90%E6%85%A2-%E6%B8%AF%E7%94%B7%E5%A4%A7%E9%AC%A7%E9%BA%A5%E7%95%B6%E5%8B%9E-%E7%9F%A5%E5%94%94%E7%9F%A5%E6%88%91%E9%82%8A%E5%80%8B-%E7%B6%93%E7%90%864%E5%AD%97%E9%87%91%E5%8F%A5%E5%8F%8D%E6%93%8A%E7%88%86%E7%AC%91",
-    "timestamp": "2026-11-05T03:22:16.225Z",
     "strategy": ".content-card__main"
   }
 ];
