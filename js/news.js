@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T20:40:05.136Z
+// Last updated: 2026-11-05T20:53:27.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國司法部民權司長迪隆辭職　曾主導部門爭議改革",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195227555628584960348216.jpeg/96Awv2eLbVQ28OLrZxZXTAut-NSpx84BsyrUyLMq1Mg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407706/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B0%91%E6%AC%8A%E5%8F%B8%E9%95%B7%E8%BF%AA%E9%9A%86%E8%BE%AD%E8%81%B7-%E6%9B%BE%E4%B8%BB%E5%B0%8E%E9%83%A8%E9%96%80%E7%88%AD%E8%AD%B0%E6%94%B9%E9%9D%A9",
+    "timestamp": "2026-11-05T20:53:27.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國司法部民權司長迪隆辭職　曾主導部門爭議改革",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195157526522368000958372.jpeg/n4pByLsmomkRc95GyWAGSkUXc0CtR7loEwC2pxMAtqc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407691/%E9%BB%83%E4%B9%8B%E9%8B%92%E5%9B%9A10%E5%B9%B4-%E7%AB%8B%E6%B3%95%E6%9C%83%E5%A0%85%E5%AE%9A%E6%94%AF%E6%8C%81%E6%B3%95%E5%BA%AD%E4%BE%9D%E6%B3%95%E5%88%A4%E5%88%91-%E5%85%85%E4%BB%BD%E5%BD%B0%E9%A1%AF%E6%B3%95%E6%B2%BB%E5%92%8C%E5%85%AC%E7%BE%A9",
     "timestamp": "2026-11-05T15:53:09.682Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Bob Dylan「黑客」look訪梵蒂岡晤教宗　良十四世贈念珠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195138432750325760253749.png/wPTuz7059nUWwoVQSbCqgxPNBU1-4gG7pJ90pqSfdKY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407685/bob-dylan-%E9%BB%91%E5%AE%A2-look%E8%A8%AA%E6%A2%B5%E8%92%82%E5%B2%A1%E6%99%A4%E6%95%99%E5%AE%97-%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E8%B4%88%E5%BF%B5%E7%8F%A0",
-    "timestamp": "2026-11-05T15:20:21.744Z",
     "strategy": ".content-card__main"
   }
 ];
