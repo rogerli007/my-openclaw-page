@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T11:23:49.883Z
+// Last updated: 2026-11-05T11:39:51.241Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日綜盤點「容易出軌男」5特徵　夫妻收入藏危機　男醫生更愛偷食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193953120216944640824357.jpeg/WMbPI6ICQecuohjqw2uryvQAMzCSmWK1wHcTtMB3E7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%AB%87%E6%83%85%E8%AA%AA%E6%80%A7/60406211/%E6%97%A5%E7%B6%9C%E7%9B%A4%E9%BB%9E-%E5%AE%B9%E6%98%93%E5%87%BA%E8%BB%8C%E7%94%B7-5%E7%89%B9%E5%BE%B5-%E5%A4%AB%E5%A6%BB%E6%94%B6%E5%85%A5%E8%97%8F%E5%8D%B1%E6%A9%9F-%E7%94%B7%E9%86%AB%E7%94%9F%E6%9B%B4%E6%84%9B%E5%81%B7%E9%A3%9F",
+    "timestamp": "2026-11-05T11:39:51.241Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉共和黨慘敗　英國報紙封面揶揄特朗普「跛腳唐老鴨」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195000830319661056690328.jpeg/EiU3Bam0V1P2zC5Z6MA0BG5ayYxETBTYT73QVk-90FY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407422/%E5%90%B3%E6%95%AC%E6%B5%A9%E5%81%9A-%E7%A6%AE%E5%84%80%E5%85%88%E7%94%9F-%E6%90%B6%E9%8F%A1%E7%8D%B2%E5%B0%81%E6%96%B0%E4%B8%80%E4%BB%A3%E7%94%B7%E7%A5%9E-%E7%B6%B2%E6%B0%91-tvb%E7%B5%82%E6%96%BC%E6%9C%89%E9%9D%9A%E4%BB%94",
     "timestamp": "2026-11-05T05:20:39.944Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃之鋒認串謀勾結外國勢力囚10年　李桂華指犯案纍纍冀黃獄中反省",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194990224145387520971542.jpeg/Kt4C_OD5GOVNcsLshGdH0sLTvI30GsVI5gaAeMMGgHg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407427/%E9%BB%83%E4%B9%8B%E9%8B%92%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B%E5%9B%9A10%E5%B9%B4-%E6%9D%8E%E6%A1%82%E8%8F%AF%E6%8C%87%E7%8A%AF%E6%A1%88%E7%BA%8D%E7%BA%8D%E5%86%80%E9%BB%83%E7%8D%84%E4%B8%AD%E5%8F%8D%E7%9C%81",
-    "timestamp": "2026-11-05T04:53:37.383Z",
     "strategy": ".content-card__main"
   }
 ];
