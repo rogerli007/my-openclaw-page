@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T12:19:33.362Z
+// Last updated: 2026-11-05T12:33:26.342Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "姚焯菲紐約開睡衣派對粉紅吊帶大解放　配白喱士長襪嘟嘴甜度爆燈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195018670724616192218964.jpeg/qTzAR5kVT6KIJVeztqsBpFoYdH0wWAlMUiS071IktO8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407479/%E5%A7%9A%E7%84%AF%E8%8F%B2%E7%B4%90%E7%B4%84%E9%96%8B%E7%9D%A1%E8%A1%A3%E6%B4%BE%E5%B0%8D%E7%B2%89%E7%B4%85%E5%90%8A%E5%B8%B6%E5%A4%A7%E8%A7%A3%E6%94%BE-%E9%85%8D%E7%99%BD%E5%96%B1%E5%A3%AB%E9%95%B7%E8%A5%AA%E5%98%9F%E5%98%B4%E7%94%9C%E5%BA%A6%E7%88%86%E7%87%88",
+    "timestamp": "2026-11-05T12:33:26.342Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張家輝首度紅館開騷｜ 演技好兼世一老公　拆解觀眾喜歡他4大原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192467957897236480260743.jpeg/TuiWMCnEiDUTvXY_VbEycGdJLXr-ILblxIlzgcSJc4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60404812/%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE2026-%E9%8A%80%E8%A1%8C%E7%BE%8E%E5%85%83%E5%AE%9A%E5%AD%98%E5%88%A9%E7%8E%87%E9%AB%98%E9%80%BE4-5%E5%8E%98-%E4%B8%80%E9%8D%B5%E6%AF%94%E8%BC%83%E5%84%AA%E6%83%A0%E5%88%A9%E6%81%AF",
     "timestamp": "2026-11-05T06:27:27.155Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Google擬預設校園AI關閉　搜索功能一併停用　遭批技術霸權",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195009490907303936453920.jpeg/N42BH2UTK2x1ikM1h6spW_XEVaW5PPdNnjgjvp44I74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407460/google%E6%93%AC%E9%A0%90%E8%A8%AD%E6%A0%A1%E5%9C%92ai%E9%97%9C%E9%96%89-%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD%E4%B8%80%E4%BD%B5%E5%81%9C%E7%94%A8-%E9%81%AD%E6%89%B9%E6%8A%80%E8%A1%93%E9%9C%B8%E6%AC%8A",
-    "timestamp": "2026-11-05T05:59:08.795Z",
     "strategy": ".content-card__main"
   }
 ];
