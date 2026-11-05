@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T09:42:42.402Z
+// Last updated: 2026-11-05T09:59:06.783Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳自助餐推介｜20間必食！任食龍蝦/生蠔/刺身/360度全景$155起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195071774174220288612085.jpeg/TaZJZt2tgE2bcPQ0UUcRexTmPLucUS9BNFgZVjRYGVY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407597/%E6%B7%B1%E5%9C%B3%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B-20%E9%96%93%E5%BF%85%E9%A3%9F-%E4%BB%BB%E9%A3%9F%E9%BE%8D%E8%9D%A6-%E7%94%9F%E8%A0%94-%E5%88%BA%E8%BA%AB-360%E5%BA%A6%E5%85%A8%E6%99%AF-155%E8%B5%B7",
+    "timestamp": "2026-11-05T09:59:06.783Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超特攻｜兵工廠主場無敵　「細」擒老虎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194369129381892096051932.jpeg/2x-Ad1h4C48VzXvMpg-yxwjboKys9Z8uTU9bQ01PW0M",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60406772/%E5%AB%8C%E5%87%BA%E9%A4%90%E6%85%A2-%E6%B8%AF%E7%94%B7%E5%A4%A7%E9%AC%A7%E9%BA%A5%E7%95%B6%E5%8B%9E-%E7%9F%A5%E5%94%94%E7%9F%A5%E6%88%91%E9%82%8A%E5%80%8B-%E7%B6%93%E7%90%864%E5%AD%97%E9%87%91%E5%8F%A5%E5%8F%8D%E6%93%8A%E7%88%86%E7%AC%91",
     "timestamp": "2026-11-05T03:22:16.225Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《孤獨搖滾！》展登陸啟德｜重現團結Band青春舞台｜早鳥門票87折",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261021/1189640455705333760524701.jpeg/DaqPlSx_hifGyk6SUsEimNSbUxyKj1uqXBiIalwYiGo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60402160/%E5%AD%A4%E7%8D%A8%E6%90%96%E6%BB%BE-%E5%B1%95%E7%99%BB%E9%99%B8%E5%95%9F%E5%BE%B7-%E9%87%8D%E7%8F%BE%E5%9C%98%E7%B5%90band%E9%9D%92%E6%98%A5%E8%88%9E%E5%8F%B0-%E6%97%A9%E9%B3%A5%E9%96%80%E7%A5%A887%E6%8A%98",
-    "timestamp": "2026-11-05T02:36:33.178Z",
     "strategy": ".content-card__main"
   }
 ];
