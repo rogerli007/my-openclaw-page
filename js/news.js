@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T08:46:27.204Z
+// Last updated: 2026-11-05T09:20:29.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西足球賽上演全武鬥　球證「慷慨」派53張紅牌破世界紀錄｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195057507089780736183604.jpeg/dVuZcmwMr5I9CDYb79YSwe104P6ig0Aw_8H5aP_B-Wg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60407541/%E5%B7%B4%E8%A5%BF%E8%B6%B3%E7%90%83%E8%B3%BD%E4%B8%8A%E6%BC%94%E5%85%A8%E6%AD%A6%E9%AC%A5-%E7%90%83%E8%AD%89-%E6%85%B7%E6%85%A8-%E6%B4%BE53%E5%BC%B5%E7%B4%85%E7%89%8C%E7%A0%B4%E4%B8%96%E7%95%8C%E7%B4%80%E9%8C%84-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-05T09:20:29.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "佩洛西接棒戰落幕　港人移民陳詩敏承認敗選　三藩市首迎同志議員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261015/1187391067813580800159260.jpeg/v64aIe0jnoUmyQhvdDd6ia5Uj83fmJe67bd49-23ePc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407309/%E5%BB%BA%E7%AE%A1%E6%A2%9D%E4%BE%8B-%E4%BF%AE%E8%A8%82%E5%80%A1%E7%89%A9%E7%AE%A1%E6%8A%BD%E6%9F%A520-%E6%8E%88%E6%AC%8A%E7%A5%A8-%E6%A5%AD%E7%95%8C%E6%86%82%E9%9B%A3%E6%A0%B8%E8%AD%89%E5%8A%A0%E5%A4%A7%E5%B7%A5%E4%BD%9C%E9%87%8F",
     "timestamp": "2026-11-05T02:20:01.612Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港到香格里拉　龍安志談江湖和AI焦慮：世界需要東方功夫和哲學",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194741191225118720967538.png/ZKlThwb04ls71xONEWSG1vD9vR_0SNIOUKCsBFCgrAQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/60406858/%E9%A6%99%E6%B8%AF%E5%88%B0%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89-%E9%BE%8D%E5%AE%89%E5%BF%97%E8%AB%87%E6%B1%9F%E6%B9%96%E5%92%8Cai%E7%84%A6%E6%85%AE-%E4%B8%96%E7%95%8C%E9%9C%80%E8%A6%81%E6%9D%B1%E6%96%B9%E5%8A%9F%E5%A4%AB%E5%92%8C%E5%93%B2%E5%AD%B8",
-    "timestamp": "2026-11-05T01:55:40.362Z",
     "strategy": ".content-card__main"
   }
 ];
