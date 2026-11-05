@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T19:12:20.333Z
+// Last updated: 2026-11-05T19:23:37.703Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧從心理學中自我救贖：讀懂三大心理學派走向正面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259899363004416371809.jpeg/6-nKEDdsTA9DEsbarp9OTgWCV6g8DgJOg3Y7koN2O5I",
+    "url": "https://www.hk01.com/01TV/60405664/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BE%9E%E5%BF%83%E7%90%86%E5%AD%B8%E4%B8%AD%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E8%AE%80%E6%87%82%E4%B8%89%E5%A4%A7%E5%BF%83%E7%90%86%E5%AD%B8%E6%B4%BE%E8%B5%B0%E5%90%91%E6%AD%A3%E9%9D%A2",
+    "timestamp": "2026-11-05T19:23:37.703Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧從心理學中自我救贖：讀懂三大心理學派走向正面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195126693459660800592863.jpeg/CBuj_8rRvCqzirDNA1TRxGfiL-QLi48-9T8Pb_U_D28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407678/%E9%A6%99%E6%B8%AF01-%E5%9A%B4%E6%AD%A3%E8%81%B2%E6%98%8E-%E8%88%87%E5%8F%AF%E7%96%91%E7%9C%BE%E7%B1%8C%E7%B6%B2%E7%AB%99%E7%84%A1%E4%BB%BB%E4%BD%95%E9%97%9C%E8%81%AF-%E7%B1%B2%E5%85%AC%E7%9C%BE%E6%8F%90%E9%98%B2%E5%8F%97%E9%A8%99",
     "timestamp": "2026-11-05T13:53:25.009Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《嫁金釵》結局引熱議！最大贏家竟不是浴血奮戰的田曦薇而是她？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194976218840043520814203.png/3wDJ4QQ9FWvWJDG5LrCUMo6_rQbwMtiM7tL9ee7S_Xk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407322/%E5%AB%81%E9%87%91%E9%87%B5%E7%B5%90%E5%B1%80%E5%8F%8D%E8%BD%89-%E7%94%B0%E6%9B%A6%E8%96%87%E6%BB%BF%E8%BA%AB%E5%82%B7%E7%97%95%E8%AD%B7%E5%9C%8B-%E5%85%A8%E5%8A%87%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6%E7%AB%9F%E6%98%AF%E7%BE%A9%E5%A6%B9%E7%B4%85%E7%B7%9A",
-    "timestamp": "2026-11-05T13:43:33.670Z",
     "strategy": ".content-card__main"
   }
 ];
