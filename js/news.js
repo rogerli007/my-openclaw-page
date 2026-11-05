@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T02:36:33.178Z
+// Last updated: 2026-11-05T03:22:16.225Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "嫌出餐慢！港男大鬧麥當勞：知唔知我邊個？ 經理4字金句反擊爆笑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194369129381892096051932.jpeg/2x-Ad1h4C48VzXvMpg-yxwjboKys9Z8uTU9bQ01PW0M",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60406772/%E5%AB%8C%E5%87%BA%E9%A4%90%E6%85%A2-%E6%B8%AF%E7%94%B7%E5%A4%A7%E9%AC%A7%E9%BA%A5%E7%95%B6%E5%8B%9E-%E7%9F%A5%E5%94%94%E7%9F%A5%E6%88%91%E9%82%8A%E5%80%8B-%E7%B6%93%E7%90%864%E5%AD%97%E9%87%91%E5%8F%A5%E5%8F%8D%E6%93%8A%E7%88%86%E7%AC%91",
+    "timestamp": "2026-11-05T03:22:16.225Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《孤獨搖滾！》展登陸啟德｜重現團結Band青春舞台｜早鳥門票87折",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256817170321408456231.png/ianLExMhGmMlSuAcXfJotZtphdGT7U0Kqw1AuqsNQLo",
     "url": "https://www.hk01.com/01TV/60405655/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E4%BA%BA%E9%80%A3%E7%BA%8C%E9%9B%A2%E4%B8%96-%E5%8F%97%E5%88%B0%E5%9A%B4%E9%87%8D%E6%89%93%E6%93%8A%E9%81%AD%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7",
     "timestamp": "2026-11-04T21:12:46.079Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧親人連續離世：受到嚴重打擊遭心理創傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193256817170321408456231.png/ianLExMhGmMlSuAcXfJotZtphdGT7U0Kqw1AuqsNQLo",
-    "url": "https://www.hk01.com/01TV/60405655/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%A6%AA%E4%BA%BA%E9%80%A3%E7%BA%8C%E9%9B%A2%E4%B8%96-%E5%8F%97%E5%88%B0%E5%9A%B4%E9%87%8D%E6%89%93%E6%93%8A%E9%81%AD%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7",
-    "timestamp": "2026-11-04T20:53:54.021Z",
     "strategy": ".content-card__main"
   }
 ];
