@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T10:20:37.187Z
+// Last updated: 2026-11-05T10:45:41.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "非凡人物｜沈維立解構手機攝影美學   十優狀元鄺文傑的治癒之路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195082566328127488643875.png/nWaw5ELEE5v4y-iiQBFP9aiyC6VrS3vsIkIeiCJCHog?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60407628/%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E6%B2%88%E7%B6%AD%E7%AB%8B%E8%A7%A3%E6%A7%8B%E6%89%8B%E6%A9%9F%E6%94%9D%E5%BD%B1%E7%BE%8E%E5%AD%B8-%E5%8D%81%E5%84%AA%E7%8B%80%E5%85%83%E9%84%BA%E6%96%87%E5%82%91%E7%9A%84%E6%B2%BB%E7%99%92%E4%B9%8B%E8%B7%AF",
+    "timestamp": "2026-11-05T10:45:41.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重生2｜梁洛施化身女殺神刀槍肉搏　聯手文俊輝以命決戰洪金寶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194959515338936320680541.jpeg/BvSLjyLXgDFYifz4gYzUaj71H8EMbyaANfQVRzX0FUc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407347/%E5%A4%A7%E7%81%A3%E5%8D%80%E8%88%AA%E7%A9%BA%E5%84%AA%E6%83%A0-%E5%8F%B0%E5%8C%97%E6%A9%9F%E7%A5%A8-80%E8%B5%B7-%E6%9D%B1%E4%BA%AC-%E5%A4%A7%E9%98%AA-%E7%A6%8F%E5%B2%A185%E6%8A%98-%E5%8C%8520kg%E8%A1%8C%E6%9D%8E",
     "timestamp": "2026-11-05T03:38:15.710Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗男子持刀危坐天台　揭早前刀傷一女子頸手　警方消防展開遊說",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194971627826188288781092.jpeg/p9YZ59nZKZ1HCpH3Iokx0gjdUoHNp4eq94Wnz86Fp88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407380/%E5%85%83%E6%9C%97%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E5%8D%B1%E5%9D%90%E5%A4%A9%E5%8F%B0-%E6%8F%AD%E6%97%A9%E5%89%8D%E5%88%80%E5%82%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E9%A0%B8%E6%89%8B-%E8%AD%A6%E6%96%B9%E6%B6%88%E9%98%B2%E5%B1%95%E9%96%8B%E9%81%8A%E8%AA%AA",
-    "timestamp": "2026-11-05T03:27:49.438Z",
     "strategy": ".content-card__main"
   }
 ];
