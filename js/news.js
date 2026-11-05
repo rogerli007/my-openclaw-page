@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T13:20:23.625Z
+// Last updated: 2026-11-05T13:43:33.670Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《嫁金釵》結局引熱議！最大贏家竟不是浴血奮戰的田曦薇而是她？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194976218840043520814203.png/3wDJ4QQ9FWvWJDG5LrCUMo6_rQbwMtiM7tL9ee7S_Xk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407322/%E5%AB%81%E9%87%91%E9%87%B5%E7%B5%90%E5%B1%80%E5%8F%8D%E8%BD%89-%E7%94%B0%E6%9B%A6%E8%96%87%E6%BB%BF%E8%BA%AB%E5%82%B7%E7%97%95%E8%AD%B7%E5%9C%8B-%E5%85%A8%E5%8A%87%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6%E7%AB%9F%E6%98%AF%E7%BE%A9%E5%A6%B9%E7%B4%85%E7%B7%9A",
+    "timestamp": "2026-11-05T13:43:33.670Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期11.5頭獎1.08億即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195015354854674432123957.jpeg/I4LDogku7dgcRF3oUbqxn47Px9rkYx3DVGipGVRoqRk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60407481/uniqlo%E6%8E%A8%E5%87%BA%E6%96%87%E5%AD%B8%E9%9B%9C%E8%AA%8C-cate-blanchett%E6%8E%9B%E5%B8%A5%E6%96%B0%E4%BC%81%E5%8A%83%E5%AF%AB%E4%B8%8B%E5%A5%B3%E6%80%A7%E7%9C%9F%E5%AF%A6%E7%B6%93%E6%AD%B7",
     "timestamp": "2026-11-05T07:57:33.495Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本退稅新制註冊須填信用卡CVC引安全憂慮　只有這間公司不需要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188282245304029184134275.jpeg/KFE4nYCtmHFD1MWkGeRiW2NeukKuP3GMb062d29Otnc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407497/%E6%97%A5%E6%9C%AC%E9%80%80%E7%A8%85%E6%96%B0%E5%88%B6%E8%A8%BB%E5%86%8A%E9%A0%88%E5%A1%AB%E4%BF%A1%E7%94%A8%E5%8D%A1cvc%E5%BC%95%E5%AE%89%E5%85%A8%E6%86%82%E6%85%AE-%E5%8F%AA%E6%9C%89%E9%80%99%E9%96%93%E5%85%AC%E5%8F%B8%E4%B8%8D%E9%9C%80%E8%A6%81",
-    "timestamp": "2026-11-05T07:39:58.050Z",
     "strategy": ".content-card__main"
   }
 ];
