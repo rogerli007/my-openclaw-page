@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T14:39:38.372Z
+// Last updated: 2026-11-06T14:59:01.300Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "昔日天氣女郎黃婉曼嫁得好　做馬主愛駒爆冷跑出孖老公閨密拉頭馬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195474067751178240264103.png/hJuE_gZHFZ9puCP_Tt27q4VuSOGhg48nHn8JlR5_CZU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408043/%E6%98%94%E6%97%A5%E5%A4%A9%E6%B0%A3%E5%A5%B3%E9%83%8E%E9%BB%83%E5%A9%89%E6%9B%BC%E5%AB%81%E5%BE%97%E5%A5%BD-%E5%81%9A%E9%A6%AC%E4%B8%BB%E6%84%9B%E9%A7%92%E7%88%86%E5%86%B7%E8%B7%91%E5%87%BA%E5%AD%96%E8%80%81%E5%85%AC%E9%96%A8%E5%AF%86%E6%8B%89%E9%A0%AD%E9%A6%AC",
+    "timestamp": "2026-11-06T14:59:01.300Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門怡樂花園法團收廉署通知取消業主大會　據悉顧問公司成員被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195411524861169664735896.png/69hT3FUiTLXoVrNYFvE-e7UhPanclHD8UH79d1B-_Xc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407934/%E7%B9%BC%E8%B5%A4%E6%9F%B1%E5%88%A5%E5%A2%85%E8%B3%BA%E5%8D%81%E5%84%84-%E7%B4%80%E6%83%A0%E9%9B%86%E5%9C%98%E5%82%B3%E8%B3%A3%E9%8A%85%E9%91%BC%E7%81%A3-%E9%8A%80%E8%A1%8C%E8%88%96-%E8%A1%80%E8%9D%953080%E8%90%AC",
     "timestamp": "2026-11-06T08:59:21.343Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨境白牌車｜荃灣上廣州索價$1950　警拘男司機扣兩地牌七人車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412670430318592408731.jpeg/hc-8zRHehRwf4cXgYlni7x5OpYu09EOm21EknttRJJ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407924/%E8%B7%A8%E5%A2%83%E7%99%BD%E7%89%8C%E8%BB%8A-%E8%8D%83%E7%81%A3%E4%B8%8A%E5%BB%A3%E5%B7%9E%E7%B4%A2%E5%83%B9-1950-%E8%AD%A6%E6%8B%98%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%89%A3%E5%85%A9%E5%9C%B0%E7%89%8C%E4%B8%83%E4%BA%BA%E8%BB%8A",
-    "timestamp": "2026-11-06T08:45:19.985Z",
     "strategy": ".content-card__main"
   }
 ];
