@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T22:29:14.895Z
+// Last updated: 2026-11-06T22:45:02.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美俄烏三方會談即將登場　普京證實11.10於阿布扎比舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195421557959168000914065.jpeg/R7DOzGDcbewcwek317pQV0Twx5J67uIOXilv1F4pb9Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408087/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4-%E6%99%AE%E4%BA%AC%E8%AD%89%E5%AF%A611-10%E6%96%BC%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-11-06T22:45:02.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美俄烏三方會談即將登場　普京證實11.10於阿布扎比舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195508137491173376912360.jpeg/r_9MLn1hq_NTHKC4hP2CoOFnGA7nmoUJhkNd_4ZDXf8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408063/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%8D%A8%E5%B1%85%E5%A9%86%E5%A9%86%E9%90%B5%E9%8F%88%E8%87%AA%E5%9B%B0%E6%80%AA%E8%81%B2%E8%BD%9F%E7%82%B8%E9%84%B0%E5%B1%85-%E9%8F%A1%E9%A0%AD%E5%89%8D%E5%B4%A9%E6%BD%B0%E4%B8%8B%E8%B7%AA%E6%B1%82%E6%95%91",
     "timestamp": "2026-11-06T17:19:22.244Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗白沙村貨倉三級大火　12人疏散　消防動用3條喉灌救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195539806084403200954182.jpeg/mFbVqCqHK5d_OyUnghFXH3K1NjkpXyUg8HPYYPBz2GA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408075/%E5%85%83%E6%9C%97%E7%99%BD%E6%B2%99%E6%9D%91%E8%B2%A8%E5%80%89%E4%B8%89%E7%B4%9A%E5%A4%A7%E7%81%AB-12%E4%BA%BA%E7%96%8F%E6%95%A3-%E6%B6%88%E9%98%B2%E5%8B%95%E7%94%A83%E6%A2%9D%E5%96%89%E7%81%8C%E6%95%91",
-    "timestamp": "2026-11-06T16:59:16.587Z",
     "strategy": ".content-card__main"
   }
 ];
