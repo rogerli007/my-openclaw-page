@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T23:18:16.292Z
+// Last updated: 2026-11-06T23:29:09.103Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前女友另嫁同村男　貴州男質疑出軌報復　潛入家中投老鼠藥囚4年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195063843940732928894732.png/a3W-XlSKpHAR8ChvdVm64EhX0gLN4cmUW3zeFlt83hY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407341/%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%8F%A6%E5%AB%81%E5%90%8C%E6%9D%91%E7%94%B7-%E8%B2%B4%E5%B7%9E%E7%94%B7%E8%B3%AA%E7%96%91%E5%87%BA%E8%BB%8C%E5%A0%B1%E5%BE%A9-%E6%BD%9B%E5%85%A5%E5%AE%B6%E4%B8%AD%E6%8A%95%E8%80%81%E9%BC%A0%E8%97%A5%E5%9B%9A4%E5%B9%B4",
+    "timestamp": "2026-11-06T23:29:09.103Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國政壇變天　全球影響深遠　香港股市樓市將受惠或受損？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195245874205167616265178.jpeg/N1-Y2R6GvuVbQlMwY6KSUeYAmIicQpZoTqAutU6gLrU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408078/%E6%B3%95%E5%9C%8B%E5%BE%8B%E5%B8%AB%E6%8C%87%E8%B2%AC%E8%AD%A6%E6%96%B9%E7%A4%BA%E5%A8%81%E4%B8%AD%E9%81%8E%E5%BA%A6%E4%BD%BF%E7%94%A8%E6%AD%A6%E5%8A%9B-%E8%A8%88%E5%8A%83%E8%B5%B7%E8%A8%B4%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB",
     "timestamp": "2026-11-06T18:17:55.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中期選舉失利後美司法部爆出走潮　再有兩名高官辭職",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195548505519689728983610.jpeg/DkpX68R3pck928A80pYRoa9AM3cq4kKh7nue4-57nuM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408076/%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%A4%B1%E5%88%A9%E5%BE%8C%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E7%88%86%E5%87%BA%E8%B5%B0%E6%BD%AE-%E5%86%8D%E6%9C%89%E5%85%A9%E5%90%8D%E9%AB%98%E5%AE%98%E8%BE%AD%E8%81%B7",
-    "timestamp": "2026-11-06T17:53:27.968Z",
     "strategy": ".content-card__main"
   }
 ];
