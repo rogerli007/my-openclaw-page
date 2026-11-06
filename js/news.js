@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T10:20:18.116Z
+// Last updated: 2026-11-06T10:45:23.043Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宣萱嘆《騙中傳奇》拍得最辛苦　與古天樂未能見證張家輝上紅館",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195433565651734528843051.jpeg/E26fx4VYlfZxXkQGqCNiTOQC7U5TWdXdyXHhLslx4S4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407961/%E5%AE%A3%E8%90%B1%E5%98%86-%E9%A8%99%E4%B8%AD%E5%82%B3%E5%A5%87-%E6%8B%8D%E5%BE%97%E6%9C%80%E8%BE%9B%E8%8B%A6-%E8%88%87%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%9C%AA%E8%83%BD%E8%A6%8B%E8%AD%89%E5%BC%B5%E5%AE%B6%E8%BC%9D%E4%B8%8A%E7%B4%85%E9%A4%A8",
+    "timestamp": "2026-11-06T10:45:23.043Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聖誕好去處2026｜9大推介！中環20米高聖誕樹／氣球市集／Pixar展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195046436366979072357064.jpeg/frdf6f-7s1Te1Igj4EwOMKfXLxTIipt3Mc1RJzHNUSc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407310/%E9%A3%9F%E8%9C%86%E8%A3%9C%E8%A1%80%E5%85%BC%E6%B8%9B%E8%82%A5-%E9%90%B5%E8%B3%AA%E9%AB%98%E8%A5%BF%E5%86%B7%E7%89%9B%E6%89%923%E5%80%8D-%E4%B8%80%E6%96%87%E6%8B%86%E8%A7%A3%E6%B2%99%E7%99%BD%E8%9C%86%E5%8A%9F%E6%95%88%E7%A6%81%E5%BF%8C",
     "timestamp": "2026-11-06T04:22:44.486Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅湖口岸新接駁橋開通｜免日曬雨淋5分鐘直達商圈！香港出發攻略",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195319678499557376582961.jpeg/gu7lgEqxBXWbwOP4wmYljbiA4J7Hxru3HcCkpx3ApKc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407755/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8%E6%96%B0%E6%8E%A5%E9%A7%81%E6%A9%8B%E9%96%8B%E9%80%9A-%E5%85%8D%E6%97%A5%E6%9B%AC%E9%9B%A8%E6%B7%8B5%E5%88%86%E9%90%98%E7%9B%B4%E9%81%94%E5%95%86%E5%9C%88-%E9%A6%99%E6%B8%AF%E5%87%BA%E7%99%BC%E6%94%BB%E7%95%A5",
-    "timestamp": "2026-11-06T03:53:48.870Z",
     "strategy": ".content-card__main"
   }
 ];
