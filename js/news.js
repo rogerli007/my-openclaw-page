@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T02:33:42.530Z
+// Last updated: 2026-11-06T02:44:12.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《今天是太陽雨》定檔｜董思成撕偶像標籤　網民讚演大學生零違和",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195076025717886976276413.png/ALqQij80Z5fHwQlxEbEeQd8syjSgw17PyXgFIMl4BSA",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407578/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E5%AE%9A%E6%AA%94-%E8%91%A3%E6%80%9D%E6%88%90%E6%92%95%E5%81%B6%E5%83%8F%E6%A8%99%E7%B1%A4-%E7%B6%B2%E6%B0%91%E8%AE%9A%E6%BC%94%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%9B%B6%E9%81%95%E5%92%8C",
+    "timestamp": "2026-11-06T02:44:12.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《今天是太陽雨》定檔｜董思成撕偶像標籤　網民讚演大學生零違和",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195217101166481408487159.jpeg/sEqLdXTmnZqVPEUovhrmhhVi1JJAuATvpronE6a6JxM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407705/%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%B8%BD%E7%B5%B1%E5%9F%B9%E5%B0%BC%E4%BA%9E%E7%82%BA%E9%8A%80%E8%A1%8C%E5%80%92%E9%96%89%E8%AB%8B%E8%BE%AD-%E7%9C%BE%E8%AD%B0%E9%99%A2%E7%85%A7%E9%80%9A%E9%81%8E%E5%BD%88%E5%8A%BE%E6%A1%88",
     "timestamp": "2026-11-05T20:23:51.673Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴拉圭總統培尼亞為銀行倒閉請辭　眾議院照通過彈劾案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195217101166481408487159.jpeg/sEqLdXTmnZqVPEUovhrmhhVi1JJAuATvpronE6a6JxM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407705/%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%B8%BD%E7%B5%B1%E5%9F%B9%E5%B0%BC%E4%BA%9E%E7%82%BA%E9%8A%80%E8%A1%8C%E5%80%92%E9%96%89%E8%AB%8B%E8%BE%AD-%E7%9C%BE%E8%AD%B0%E9%99%A2%E7%85%A7%E9%80%9A%E9%81%8E%E5%BD%88%E5%8A%BE%E6%A1%88",
-    "timestamp": "2026-11-05T19:59:11.763Z",
     "strategy": ".content-card__main"
   }
 ];
