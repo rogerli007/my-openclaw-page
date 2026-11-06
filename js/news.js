@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T05:20:41.800Z
+// Last updated: 2026-11-06T05:42:47.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜下周二分區低至14°C！實測8款熱飲暖身效果排名 奶愈飲愈凍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195364716508090368731850.jpeg/9sgPhKdvzZXSIH2YgWArKuxa4UhbAAvq0EfqrtBH6q4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60407840/%E5%A4%A9%E6%B0%A3-%E4%B8%8B%E5%91%A8%E4%BA%8C%E5%88%86%E5%8D%80%E4%BD%8E%E8%87%B314-c-%E5%AF%A6%E6%B8%AC8%E6%AC%BE%E7%86%B1%E9%A3%B2%E6%9A%96%E8%BA%AB%E6%95%88%E6%9E%9C%E6%8E%92%E5%90%8D-%E5%A5%B6%E6%84%88%E9%A3%B2%E6%84%88%E5%87%8D",
+    "timestamp": "2026-11-06T05:42:47.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城大結局丨江美儀護子成魔　張智霖2分半鐘淚之獨白考演技",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194999815662997504142780.jpeg/xGDuVPD_B-jfbtGKE5QqrJHNkfV-dGhft11ql7ddapc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407413/64%E6%AD%B2%E6%97%A5%E6%9C%AC%E5%90%8D%E9%86%AB%E8%A1%80%E7%AE%A1%E5%B9%B4%E9%BD%A1%E5%83%8534%E6%AD%B2-%E5%85%AC%E9%96%8B20%E5%B9%B4%E6%97%A9%E9%A4%90%E9%A4%90%E5%96%AE-%E7%A9%A9%E8%A1%80%E7%B3%96%E5%85%BC%E6%8A%97%E8%80%81",
     "timestamp": "2026-11-05T23:45:08.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "換季血壓坐過山車？睡醒下床最危險　醫生揭換季保命五字訣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190256610618904576283641.jpeg/F6SZ8oWj1hcaMznXQEj0dEQnq6-F-RdBohzcC6Ic3As?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60402092/%E6%8F%9B%E5%AD%A3%E8%A1%80%E5%A3%93%E5%9D%90%E9%81%8E%E5%B1%B1%E8%BB%8A-%E7%9D%A1%E9%86%92%E4%B8%8B%E5%BA%8A%E6%9C%80%E5%8D%B1%E9%9A%AA-%E9%86%AB%E7%94%9F%E6%8F%AD%E6%8F%9B%E5%AD%A3%E4%BF%9D%E5%91%BD%E4%BA%94%E5%AD%97%E8%A8%A3",
-    "timestamp": "2026-11-05T23:29:00.177Z",
     "strategy": ".content-card__main"
   }
 ];
