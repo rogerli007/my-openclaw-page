@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T09:58:56.596Z
+// Last updated: 2026-11-06T10:20:18.116Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聖誕好去處2026｜9大推介！中環20米高聖誕樹／氣球市集／Pixar展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195440100268314624240859.jpeg/Srb2igX98o6jt2MDC_AiRFx5fj2IhXmSZPa_AmT2vwI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60407904/%E8%81%96%E8%AA%95%E5%A5%BD%E5%8E%BB%E8%99%952026-9%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E4%B8%AD%E7%92%B020%E7%B1%B3%E9%AB%98%E8%81%96%E8%AA%95%E6%A8%B9-%E6%B0%A3%E7%90%83%E5%B8%82%E9%9B%86-pixar%E5%B1%95",
+    "timestamp": "2026-11-06T10:20:18.116Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "ATP台北挑戰賽︱黃澤林繼亞運後再挫泰國卡西迪　闖4強鬥綿貫陽介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195319678499557376582961.jpeg/gu7lgEqxBXWbwOP4wmYljbiA4J7Hxru3HcCkpx3ApKc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407755/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8%E6%96%B0%E6%8E%A5%E9%A7%81%E6%A9%8B%E9%96%8B%E9%80%9A-%E5%85%8D%E6%97%A5%E6%9B%AC%E9%9B%A8%E6%B7%8B5%E5%88%86%E9%90%98%E7%9B%B4%E9%81%94%E5%95%86%E5%9C%88-%E9%A6%99%E6%B8%AF%E5%87%BA%E7%99%BC%E6%94%BB%E7%95%A5",
     "timestamp": "2026-11-06T03:53:48.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬尼拉「Ativan幫」專獵外國客　華人險遭落藥　警方當場擒5賊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195326817993494528879056.jpeg/qQPzjJYLxgYu-ZBLPh3q-LItcc95TxJmtaLACbWiwAk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407764/%E9%A6%AC%E5%B0%BC%E6%8B%89-ativan%E5%B9%AB-%E5%B0%88%E7%8D%B5%E5%A4%96%E5%9C%8B%E5%AE%A2-%E8%8F%AF%E4%BA%BA%E9%9A%AA%E9%81%AD%E8%90%BD%E8%97%A5-%E8%AD%A6%E6%96%B9%E7%95%B6%E5%A0%B4%E6%93%925%E8%B3%8A",
-    "timestamp": "2026-11-06T03:45:25.483Z",
     "strategy": ".content-card__main"
   }
 ];
