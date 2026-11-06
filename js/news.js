@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T11:38:01.414Z
+// Last updated: 2026-11-06T11:59:07.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "草間彌生5米高雕塑落戶啟德　利福劉鑾鴻料雙子匯2期明年6成租出",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195447684538830848974513.jpeg/RXy_4ThXXmLJVT6pdkda5lCtuYzGECaLlVjB0qBYwdI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60408006/%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F5%E7%B1%B3%E9%AB%98%E9%9B%95%E5%A1%91%E8%90%BD%E6%88%B6%E5%95%9F%E5%BE%B7-%E5%88%A9%E7%A6%8F%E5%8A%89%E9%91%BE%E9%B4%BB%E6%96%99%E9%9B%99%E5%AD%90%E5%8C%AF2%E6%9C%9F%E6%98%8E%E5%B9%B46%E6%88%90%E7%A7%9F%E5%87%BA",
+    "timestamp": "2026-11-06T11:59:07.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《2026全球海員健康與權益藍皮書》將於香港世界航商大會正式發布",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195364716508090368731850.jpeg/9sgPhKdvzZXSIH2YgWArKuxa4UhbAAvq0EfqrtBH6q4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60407840/%E5%A4%A9%E6%B0%A3-%E4%B8%8B%E5%91%A8%E4%BA%8C%E5%88%86%E5%8D%80%E4%BD%8E%E8%87%B314-c-%E5%AF%A6%E6%B8%AC8%E6%AC%BE%E7%86%B1%E9%A3%B2%E6%9A%96%E8%BA%AB%E6%95%88%E6%9E%9C%E6%8E%92%E5%90%8D-%E5%A5%B6%E6%84%88%E9%A3%B2%E6%84%88%E5%87%8D",
     "timestamp": "2026-11-06T05:42:47.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城大結局丨江美儀護子成魔　張智霖2分半鐘淚之獨白考演技",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195358278733795328845026.png/CI0C4jjzPGaDcng7-nDGie_FB4DG3H-EjVmnBI1ZpwQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407822/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%A4%A7%E7%B5%90%E5%B1%80-%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AD%B7%E5%AD%90%E6%88%90%E9%AD%94-%E5%BC%B5%E6%99%BA%E9%9C%962%E5%88%86%E5%8D%8A%E9%90%98%E6%B7%9A%E4%B9%8B%E7%8D%A8%E7%99%BD%E8%80%83%E6%BC%94%E6%8A%80",
-    "timestamp": "2026-11-06T05:20:41.800Z",
     "strategy": ".content-card__main"
   }
 ];
