@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T01:48:24.206Z
+// Last updated: 2026-11-06T01:59:03.758Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：中國月之暗面擬繞過美國限制　租用英偉達歐洲先進晶片算力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195312520248692736509827.jpeg/zm3ZYChESNpBpXmQE-OnkWgDmrvxPA7dPfHu9D3x7vQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407734/%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E6%93%AC%E7%B9%9E%E9%81%8E%E7%BE%8E%E5%9C%8B%E9%99%90%E5%88%B6-%E7%A7%9F%E7%94%A8%E8%8B%B1%E5%81%89%E9%81%94%E6%AD%90%E6%B4%B2%E5%85%88%E9%80%B2%E6%99%B6%E7%89%87%E7%AE%97%E5%8A%9B",
+    "timestamp": "2026-11-06T01:59:03.758Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "疑非法釣魚機檔黑幫講數　十多人大亂鬥　凳傘垃圾桶皆兵器",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259899363004416371809.jpeg/6-nKEDdsTA9DEsbarp9OTgWCV6g8DgJOg3Y7koN2O5I",
     "url": "https://www.hk01.com/01TV/60405664/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BE%9E%E5%BF%83%E7%90%86%E5%AD%B8%E4%B8%AD%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E8%AE%80%E6%87%82%E4%B8%89%E5%A4%A7%E5%BF%83%E7%90%86%E5%AD%B8%E6%B4%BE%E8%B5%B0%E5%90%91%E6%AD%A3%E9%9D%A2",
     "timestamp": "2026-11-05T19:23:37.703Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧從心理學中自我救贖：讀懂三大心理學派走向正面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259899363004416371809.jpeg/6-nKEDdsTA9DEsbarp9OTgWCV6g8DgJOg3Y7koN2O5I",
-    "url": "https://www.hk01.com/01TV/60405664/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BE%9E%E5%BF%83%E7%90%86%E5%AD%B8%E4%B8%AD%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E8%AE%80%E6%87%82%E4%B8%89%E5%A4%A7%E5%BF%83%E7%90%86%E5%AD%B8%E6%B4%BE%E8%B5%B0%E5%90%91%E6%AD%A3%E9%9D%A2",
-    "timestamp": "2026-11-05T19:12:20.333Z",
     "strategy": ".content-card__main"
   }
 ];
