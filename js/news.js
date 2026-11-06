@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T08:45:19.985Z
+// Last updated: 2026-11-06T08:59:21.343Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "繼赤柱別墅賺十億　紀惠集團傳賣銅鑼灣「銀行舖」　血蝕3080萬！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195411524861169664735896.png/69hT3FUiTLXoVrNYFvE-e7UhPanclHD8UH79d1B-_Xc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407934/%E7%B9%BC%E8%B5%A4%E6%9F%B1%E5%88%A5%E5%A2%85%E8%B3%BA%E5%8D%81%E5%84%84-%E7%B4%80%E6%83%A0%E9%9B%86%E5%9C%98%E5%82%B3%E8%B3%A3%E9%8A%85%E9%91%BC%E7%81%A3-%E9%8A%80%E8%A1%8C%E8%88%96-%E8%A1%80%E8%9D%953080%E8%90%AC",
+    "timestamp": "2026-11-06T08:59:21.343Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨境白牌車｜荃灣上廣州索價$1950　警拘男司機扣兩地牌七人車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195303523789574144087156.jpeg/M70H6u3Un7j9S_gRFvNxq9Ey6vm0ngYpzOOtu8zjrbs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407721/%E7%B2%B5%E6%B8%AF%E6%BE%B3%E8%AD%A6%E6%96%B9%E6%89%93%E6%93%8A%E4%B8%89%E5%90%88%E6%9C%83-%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E6%90%97%E5%A4%9A%E5%80%8B%E9%9D%9E%E6%B3%95%E5%A0%B4%E6%89%80-%E6%8B%98%E6%8D%95%E9%80%BE4-700%E4%BA%BA",
     "timestamp": "2026-11-06T02:59:18.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《今天是太陽雨》定檔｜董思成撕偶像標籤　網民讚演大學生零違和",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195076025717886976276413.png/ALqQij80Z5fHwQlxEbEeQd8syjSgw17PyXgFIMl4BSA",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407578/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E5%AE%9A%E6%AA%94-%E8%91%A3%E6%80%9D%E6%88%90%E6%92%95%E5%81%B6%E5%83%8F%E6%A8%99%E7%B1%A4-%E7%B6%B2%E6%B0%91%E8%AE%9A%E6%BC%94%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%9B%B6%E9%81%95%E5%92%8C",
-    "timestamp": "2026-11-06T02:44:12.680Z",
     "strategy": ".content-card__main"
   }
 ];
