@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T00:55:31.088Z
+// Last updated: 2026-11-06T01:21:23.610Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青奧2026｜港隊再添兩銅牌　文薈喬蘇籽童齊奪今屆第二面獎牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195302348700782592729651.png/B3JoKmBM4zyKx-r48kiV0imeBcr68us8YQSV72EEle8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407726/%E9%9D%92%E5%A5%A72026-%E6%B8%AF%E9%9A%8A%E5%86%8D%E6%B7%BB%E5%85%A9%E9%8A%85%E7%89%8C-%E6%96%87%E8%96%88%E5%96%AC%E8%98%87%E7%B1%BD%E7%AB%A5%E9%BD%8A%E5%A5%AA%E4%BB%8A%E5%B1%86%E7%AC%AC%E4%BA%8C%E9%9D%A2%E7%8D%8E%E7%89%8C",
+    "timestamp": "2026-11-06T01:21:23.610Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高位接火棒慘蝕　屯門龍門居河景兩房400萬沽　四年樓價蒸發近3成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195200559154466816124386.png/WTKsffxWAAohW4x84w17ja-yuaXoR1cIvQmTO70Jkzs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407701/%E7%B4%90%E7%B4%84%E5%B8%83%E9%AD%AF%E5%85%8B%E6%9E%97%E4%BD%8F%E5%AE%85%E7%99%BC%E7%94%9F%E7%81%AB%E7%81%BD-%E8%87%B3%E5%B0%916%E6%AD%BB9%E5%82%B7-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E4%BB%8D%E5%9C%A8%E8%AA%BF%E6%9F%A5%E4%B8%AD",
     "timestamp": "2026-11-05T18:59:10.318Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "連鎖食店旺角分店驚現3老鼠　炮台山分店燈箱內爬滿蟲｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195199964880310272156234.jpeg/bOmlUW5caqAg_PpypN7PsWN05uuUH1fYUWOPvFFjj7w",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407698/%E9%80%A3%E9%8E%96%E9%A3%9F%E5%BA%97%E6%97%BA%E8%A7%92%E5%88%86%E5%BA%97%E9%A9%9A%E7%8F%BE3%E8%80%81%E9%BC%A0-%E7%82%AE%E5%8F%B0%E5%B1%B1%E5%88%86%E5%BA%97%E7%87%88%E7%AE%B1%E5%85%A7%E7%88%AC%E6%BB%BF%E8%9F%B2-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-05T18:45:40.437Z",
     "strategy": ".content-card__main"
   }
 ];
