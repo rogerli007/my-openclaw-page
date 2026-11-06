@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T01:59:03.758Z
+// Last updated: 2026-11-06T02:24:38.683Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "8休班警$1050萬洗黑錢案　34歲停職男警被控欺詐罪今提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20210128/431463403970629632097328.jpeg/CXlCvFgI7KJ20NfkqXPuJzl4UIs5uCiCttle5bbZXuU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407746/8%E4%BC%91%E7%8F%AD%E8%AD%A6-1050%E8%90%AC%E6%B4%97%E9%BB%91%E9%8C%A2%E6%A1%88-34%E6%AD%B2%E5%81%9C%E8%81%B7%E7%94%B7%E8%AD%A6%E8%A2%AB%E6%8E%A7%E6%AC%BA%E8%A9%90%E7%BD%AA%E4%BB%8A%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-11-06T02:24:38.683Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：中國月之暗面擬繞過美國限制　租用英偉達歐洲先進晶片算力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259899363004416371809.jpeg/6-nKEDdsTA9DEsbarp9OTgWCV6g8DgJOg3Y7koN2O5I",
     "url": "https://www.hk01.com/01TV/60405664/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BE%9E%E5%BF%83%E7%90%86%E5%AD%B8%E4%B8%AD%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E8%AE%80%E6%87%82%E4%B8%89%E5%A4%A7%E5%BF%83%E7%90%86%E5%AD%B8%E6%B4%BE%E8%B5%B0%E5%90%91%E6%AD%A3%E9%9D%A2",
     "timestamp": "2026-11-05T19:39:37.409Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧從心理學中自我救贖：讀懂三大心理學派走向正面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259899363004416371809.jpeg/6-nKEDdsTA9DEsbarp9OTgWCV6g8DgJOg3Y7koN2O5I",
-    "url": "https://www.hk01.com/01TV/60405664/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BE%9E%E5%BF%83%E7%90%86%E5%AD%B8%E4%B8%AD%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E8%AE%80%E6%87%82%E4%B8%89%E5%A4%A7%E5%BF%83%E7%90%86%E5%AD%B8%E6%B4%BE%E8%B5%B0%E5%90%91%E6%AD%A3%E9%9D%A2",
-    "timestamp": "2026-11-05T19:23:37.703Z",
     "strategy": ".content-card__main"
   }
 ];
