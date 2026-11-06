@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T13:20:12.280Z
+// Last updated: 2026-11-06T13:42:50.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊焉爆患癌家人險中免疫針騙局　痛批涉事中介食人血饅頭極陰質",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195475778247069696138975.jpeg/_tMP-NGpvKLvN7A_OWV59KwHa9TMn5kAuPtCK7j7Qis?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408034/%E6%A5%8A%E7%84%89%E7%88%86%E6%82%A3%E7%99%8C%E5%AE%B6%E4%BA%BA%E9%9A%AA%E4%B8%AD%E5%85%8D%E7%96%AB%E9%87%9D%E9%A8%99%E5%B1%80-%E7%97%9B%E6%89%B9%E6%B6%89%E4%BA%8B%E4%B8%AD%E4%BB%8B%E9%A3%9F%E4%BA%BA%E8%A1%80%E9%A5%85%E9%A0%AD%E6%A5%B5%E9%99%B0%E8%B3%AA",
+    "timestamp": "2026-11-06T13:42:50.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普將白宮橢圓辦公室列國家紀念地　稱「誰敢拆就打給我」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190643831733751808901432.jpeg/eh-AsqfGOHAE8Dsn2e4qId1Nsn48nfFDyXDqMMlw6jA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-duo%E5%85%88%E9%81%94%E7%82%92%E5%83%B9%E7%9B%B4%E6%93%8A-10-25%E9%80%B1%E6%97%A51tb%E5%A4%A7%E5%8D%87%E6%BF%80%E8%B3%BA-4700-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
     "timestamp": "2026-11-06T07:45:29.807Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗發「台灣有事論」1週年　內閣官房長官重申對台立場未變",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195388574267084800409617.jpeg/2eDPNY_gheYVJtxvN-CGn3sOoID4w0O3rP4t7qz-Le4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407885/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BC-%E5%8F%B0%E7%81%A3%E6%9C%89%E4%BA%8B%E8%AB%96-1%E9%80%B1%E5%B9%B4-%E5%85%A7%E9%96%A3%E5%AE%98%E6%88%BF%E9%95%B7%E5%AE%98%E9%87%8D%E7%94%B3%E5%B0%8D%E5%8F%B0%E7%AB%8B%E5%A0%B4%E6%9C%AA%E8%AE%8A",
-    "timestamp": "2026-11-06T07:21:30.759Z",
     "strategy": ".content-card__main"
   }
 ];
