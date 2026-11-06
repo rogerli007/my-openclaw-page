@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T10:59:02.407Z
+// Last updated: 2026-11-06T11:19:38.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網站FundHK假冒與機構合作眾籌　警接4宗備案　防騙視伏器列詐騙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195450430016983040143725.png/w9gN2vVTN2mVJwaZuRwziVY1VuAgZrfJFjbkVxY25Fc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408017/%E7%B6%B2%E7%AB%99fundhk%E5%81%87%E5%86%92%E8%88%87%E6%A9%9F%E6%A7%8B%E5%90%88%E4%BD%9C%E7%9C%BE%E7%B1%8C-%E8%AD%A6%E6%8E%A54%E5%AE%97%E5%82%99%E6%A1%88-%E9%98%B2%E9%A8%99%E8%A6%96%E4%BC%8F%E5%99%A8%E5%88%97%E8%A9%90%E9%A8%99",
+    "timestamp": "2026-11-06T11:19:38.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NHK：日本關東地區東部近海發生6.1級地震",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195350866031284224917256.jpeg/1Wwll23dOxpET775qjFbWdmCKjQWohAecuRGD1fkRg8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407748/%E5%85%A5%E5%A2%83%E8%99%95%E7%A0%B4%E8%B7%A8%E5%A2%83%E9%9B%86%E5%9C%98-%E6%8F%90%E4%BE%9B%E5%81%87%E8%BA%AB%E4%BB%BD%E8%AD%89%E5%81%9A%E9%BB%91%E5%B7%A5-15%E4%BA%BA%E8%A2%AB%E6%8D%95%E4%B8%BB%E8%85%A6%E5%88%A4%E5%9B%9A%E5%85%A5%E7%8D%84",
     "timestamp": "2026-11-06T04:59:21.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蝕讓之城｜比華利山別墅銀主盤2268萬蝕沽　15年帳勁蝕逾四成離場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231130/806805888923865088972850.jpeg/R70k0yaYiHGlej46e6m4Fr8GA2zfsU0H243kv9uN5L8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407814/%E8%9D%95%E8%AE%93%E4%B9%8B%E5%9F%8E-%E6%AF%94%E8%8F%AF%E5%88%A9%E5%B1%B1%E5%88%A5%E5%A2%85%E9%8A%80%E4%B8%BB%E7%9B%A42268%E8%90%AC%E8%9D%95%E6%B2%BD-15%E5%B9%B4%E5%B8%B3%E5%8B%81%E8%9D%95%E9%80%BE%E5%9B%9B%E6%88%90%E9%9B%A2%E5%A0%B4",
-    "timestamp": "2026-11-06T04:45:33.832Z",
     "strategy": ".content-card__main"
   }
 ];
