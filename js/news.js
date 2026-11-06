@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T01:21:23.610Z
+// Last updated: 2026-11-06T01:48:24.206Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "疑非法釣魚機檔黑幫講數　十多人大亂鬥　凳傘垃圾桶皆兵器",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195045738824863744786954.jpeg/kHSCTekMVHqdaAl2xkSgNd4biPnwgDd_MdSFljHUhZY",
+    "url": "https://www.hk01.com/01TV/60407534/%E7%96%91%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E6%AA%94%E9%BB%91%E5%B9%AB%E8%AC%9B%E6%95%B8-%E5%8D%81%E5%A4%9A%E4%BA%BA%E5%A4%A7%E4%BA%82%E9%AC%A5-%E5%87%B3%E5%82%98%E5%9E%83%E5%9C%BE%E6%A1%B6%E7%9A%86%E5%85%B5%E5%99%A8",
+    "timestamp": "2026-11-06T01:48:24.206Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青奧2026｜港隊再添兩銅牌　文薈喬蘇籽童齊奪今屆第二面獎牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193259899363004416371809.jpeg/6-nKEDdsTA9DEsbarp9OTgWCV6g8DgJOg3Y7koN2O5I",
     "url": "https://www.hk01.com/01TV/60405664/%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%BE%9E%E5%BF%83%E7%90%86%E5%AD%B8%E4%B8%AD%E8%87%AA%E6%88%91%E6%95%91%E8%B4%96-%E8%AE%80%E6%87%82%E4%B8%89%E5%A4%A7%E5%BF%83%E7%90%86%E5%AD%B8%E6%B4%BE%E8%B5%B0%E5%90%91%E6%AD%A3%E9%9D%A2",
     "timestamp": "2026-11-05T19:12:20.333Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紐約布魯克林住宅發生火災　至少6死9傷　起火原因仍在調查中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195200559154466816124386.png/WTKsffxWAAohW4x84w17ja-yuaXoR1cIvQmTO70Jkzs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407701/%E7%B4%90%E7%B4%84%E5%B8%83%E9%AD%AF%E5%85%8B%E6%9E%97%E4%BD%8F%E5%AE%85%E7%99%BC%E7%94%9F%E7%81%AB%E7%81%BD-%E8%87%B3%E5%B0%916%E6%AD%BB9%E5%82%B7-%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E4%BB%8D%E5%9C%A8%E8%AA%BF%E6%9F%A5%E4%B8%AD",
-    "timestamp": "2026-11-05T18:59:10.318Z",
     "strategy": ".content-card__main"
   }
 ];
