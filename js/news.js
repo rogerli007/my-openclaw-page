@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T08:30:19.824Z
+// Last updated: 2026-11-06T08:45:19.985Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨境白牌車｜荃灣上廣州索價$1950　警拘男司機扣兩地牌七人車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412670430318592408731.jpeg/hc-8zRHehRwf4cXgYlni7x5OpYu09EOm21EknttRJJ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407924/%E8%B7%A8%E5%A2%83%E7%99%BD%E7%89%8C%E8%BB%8A-%E8%8D%83%E7%81%A3%E4%B8%8A%E5%BB%A3%E5%B7%9E%E7%B4%A2%E5%83%B9-1950-%E8%AD%A6%E6%8B%98%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%89%A3%E5%85%A9%E5%9C%B0%E7%89%8C%E4%B8%83%E4%BA%BA%E8%BB%8A",
+    "timestamp": "2026-11-06T08:45:19.985Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "CCL連跌四周報159.11點　見近5個月低位　分析：料下試158點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195076025717886976276413.png/ALqQij80Z5fHwQlxEbEeQd8syjSgw17PyXgFIMl4BSA",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407578/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E5%AE%9A%E6%AA%94-%E8%91%A3%E6%80%9D%E6%88%90%E6%92%95%E5%81%B6%E5%83%8F%E6%A8%99%E7%B1%A4-%E7%B6%B2%E6%B0%91%E8%AE%9A%E6%BC%94%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%9B%B6%E9%81%95%E5%92%8C",
     "timestamp": "2026-11-06T02:44:12.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《今天是太陽雨》定檔｜董思成撕偶像標籤　網民讚演大學生零違和",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195076025717886976276413.png/ALqQij80Z5fHwQlxEbEeQd8syjSgw17PyXgFIMl4BSA",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407578/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E5%AE%9A%E6%AA%94-%E8%91%A3%E6%80%9D%E6%88%90%E6%92%95%E5%81%B6%E5%83%8F%E6%A8%99%E7%B1%A4-%E7%B6%B2%E6%B0%91%E8%AE%9A%E6%BC%94%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%9B%B6%E9%81%95%E5%92%8C",
-    "timestamp": "2026-11-06T02:33:42.530Z",
     "strategy": ".content-card__main"
   }
 ];
