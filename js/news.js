@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T16:45:26.074Z
+// Last updated: 2026-11-06T16:59:16.587Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗白沙村貨倉三級大火　12人疏散　消防動用3條喉灌救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195539806084403200954182.jpeg/mFbVqCqHK5d_OyUnghFXH3K1NjkpXyUg8HPYYPBz2GA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408075/%E5%85%83%E6%9C%97%E7%99%BD%E6%B2%99%E6%9D%91%E8%B2%A8%E5%80%89%E4%B8%89%E7%B4%9A%E5%A4%A7%E7%81%AB-12%E4%BA%BA%E7%96%8F%E6%95%A3-%E6%B6%88%E9%98%B2%E5%8B%95%E7%94%A83%E6%A2%9D%E5%96%89%E7%81%8C%E6%95%91",
+    "timestamp": "2026-11-06T16:59:16.587Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "穀雨｜50歲張頌文喊同齡李小冉「岳母」娶差21歲張雪迎爆利益婚姻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195450430016983040143725.png/w9gN2vVTN2mVJwaZuRwziVY1VuAgZrfJFjbkVxY25Fc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408017/%E7%B6%B2%E7%AB%99fundhk%E5%81%87%E5%86%92%E8%88%87%E6%A9%9F%E6%A7%8B%E5%90%88%E4%BD%9C%E7%9C%BE%E7%B1%8C-%E8%AD%A6%E6%8E%A54%E5%AE%97%E5%82%99%E6%A1%88-%E9%98%B2%E9%A8%99%E8%A6%96%E4%BC%8F%E5%99%A8%E5%88%97%E8%A9%90%E9%A8%99",
     "timestamp": "2026-11-06T11:19:38.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NHK：日本關東地區東部近海發生6.1級地震",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195449754796953600408926.png/HQsQUaYkNHY7GwQ958VDaPKcXFQ5cZdqxICmGsSApho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408010/nhk-%E6%97%A5%E6%9C%AC%E9%97%9C%E6%9D%B1%E5%9C%B0%E5%8D%80%E6%9D%B1%E9%83%A8%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F6-1%E7%B4%9A%E5%9C%B0%E9%9C%87",
-    "timestamp": "2026-11-06T10:59:02.407Z",
     "strategy": ".content-card__main"
   }
 ];
