@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T12:18:52.595Z
+// Last updated: 2026-11-06T12:41:32.632Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城20集大結局劇情丨江美儀陳瀅找張智霖罪證+吳卓羲被背叛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185285192219103232753169.jpeg/_PqubVeE1cv3npl6POUWEG-mSGw8YfxtoyLzSKMi80g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406328/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E20%E9%9B%86%E5%A4%A7%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%B1%9F%E7%BE%8E%E5%84%80%E9%99%B3%E7%80%85%E6%89%BE%E5%BC%B5%E6%99%BA%E9%9C%96%E7%BD%AA%E8%AD%89-%E5%90%B3%E5%8D%93%E7%BE%B2%E8%A2%AB%E8%83%8C%E5%8F%9B",
+    "timestamp": "2026-11-06T12:41:32.632Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球韓國賽︱李卓耀勝台黑馬　吳英倫挫真廷　港將包辦4強兩席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195343351235219456814206.jpeg/mDj8x3I4AQ256mNZpClJwoLLlj_kKqL0YFVLXGBVS1w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407780/iphone-20%E9%80%B1%E5%B9%B4%E6%96%B0%E7%88%86%E6%96%99-%E9%A6%96%E6%90%AD%E5%9B%9B%E5%BE%AE%E6%9B%B2%E9%9D%A2%E8%BF%8E%E4%BE%86%E9%9B%B6%E9%82%8A%E6%A1%86-%E5%8B%95%E6%85%8B%E5%B3%B6%E4%BB%8D%E4%BF%9D%E7%95%99",
     "timestamp": "2026-11-06T06:26:42.908Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "會德豐地產年內累售2527伙吸金302億　下周一賣3新盤貨尾共193伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195367952631730176793415.jpeg/uJyPxQWyFTPO3RCWQTNQAhprQDv4S5DVrxhFa68YRWs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407844/%E6%9C%83%E5%BE%B7%E8%B1%90%E5%9C%B0%E7%94%A2%E5%B9%B4%E5%85%A7%E7%B4%AF%E5%94%AE2527%E4%BC%99%E5%90%B8%E9%87%91302%E5%84%84-%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B3%A33%E6%96%B0%E7%9B%A4%E8%B2%A8%E5%B0%BE%E5%85%B1193%E4%BC%99",
-    "timestamp": "2026-11-06T05:53:30.335Z",
     "strategy": ".content-card__main"
   }
 ];
