@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T22:59:20.697Z
+// Last updated: 2026-11-06T23:18:16.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國政壇變天　全球影響深遠　香港股市樓市將受惠或受損？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195480961484066816987632.jpeg/2jg3ey1taTytTjfosOA-OGb-fyjWwSjoIcsYyyHLGMs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60408039/%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%A3%87%E8%AE%8A%E5%A4%A9-%E5%85%A8%E7%90%83%E5%BD%B1%E9%9F%BF%E6%B7%B1%E9%81%A0-%E9%A6%99%E6%B8%AF%E8%82%A1%E5%B8%82%E6%A8%93%E5%B8%82%E5%B0%87%E5%8F%97%E6%83%A0%E6%88%96%E5%8F%97%E6%90%8D",
+    "timestamp": "2026-11-06T23:18:16.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美俄烏三方會談即將登場　普京證實11.10於阿布扎比舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195548505519689728983610.jpeg/DkpX68R3pck928A80pYRoa9AM3cq4kKh7nue4-57nuM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408076/%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%A4%B1%E5%88%A9%E5%BE%8C%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E7%88%86%E5%87%BA%E8%B5%B0%E6%BD%AE-%E5%86%8D%E6%9C%89%E5%85%A9%E5%90%8D%E9%AB%98%E5%AE%98%E8%BE%AD%E8%81%B7",
     "timestamp": "2026-11-06T17:53:27.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中期選舉失利後美司法部爆出走潮　再有兩名高官辭職",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195548505519689728983610.jpeg/DkpX68R3pck928A80pYRoa9AM3cq4kKh7nue4-57nuM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408076/%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%A4%B1%E5%88%A9%E5%BE%8C%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E7%88%86%E5%87%BA%E8%B5%B0%E6%BD%AE-%E5%86%8D%E6%9C%89%E5%85%A9%E5%90%8D%E9%AB%98%E5%AE%98%E8%BE%AD%E8%81%B7",
-    "timestamp": "2026-11-06T17:39:48.078Z",
     "strategy": ".content-card__main"
   }
 ];
