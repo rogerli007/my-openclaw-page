@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T12:41:32.632Z
+// Last updated: 2026-11-06T12:53:35.160Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "惠康88折｜11.7滿$168全場88折優惠！任何門市無上限！買酒折上折",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194719357809201152164230.jpeg/dRKCRGKTbb9EUHmzpEhqff0tw0sPiHzaO98JbTvfCW0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60407177/%E6%83%A0%E5%BA%B788%E6%8A%98-11-7%E6%BB%BF-168%E5%85%A8%E5%A0%B488%E6%8A%98%E5%84%AA%E6%83%A0-%E4%BB%BB%E4%BD%95%E9%96%80%E5%B8%82%E7%84%A1%E4%B8%8A%E9%99%90-%E8%B2%B7%E9%85%92%E6%8A%98%E4%B8%8A%E6%8A%98",
+    "timestamp": "2026-11-06T12:53:35.160Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城20集大結局劇情丨江美儀陳瀅找張智霖罪證+吳卓羲被背叛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195385309496348672419730.jpeg/yIvYOAtSHtjDuzA7lL_hrKpB6dVWMWdGbVF1m21RdZs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60407875/%E6%97%A5%E9%9F%93%E8%82%A1%E5%B8%82%E8%B7%8C%E5%85%A5-%E7%86%8A%E5%B8%82-%E9%9F%93%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E9%95%B7%E7%B7%8A%E6%80%A5%E5%9B%9E%E6%87%89-%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E5%B8%82%E5%A0%B4%E7%8B%80%E6%B3%81",
     "timestamp": "2026-11-06T06:50:07.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 20週年新爆料：首搭四微曲面迎來零邊框　動態島仍保留？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195343351235219456814206.jpeg/mDj8x3I4AQ256mNZpClJwoLLlj_kKqL0YFVLXGBVS1w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407780/iphone-20%E9%80%B1%E5%B9%B4%E6%96%B0%E7%88%86%E6%96%99-%E9%A6%96%E6%90%AD%E5%9B%9B%E5%BE%AE%E6%9B%B2%E9%9D%A2%E8%BF%8E%E4%BE%86%E9%9B%B6%E9%82%8A%E6%A1%86-%E5%8B%95%E6%85%8B%E5%B3%B6%E4%BB%8D%E4%BF%9D%E7%95%99",
-    "timestamp": "2026-11-06T06:26:42.908Z",
     "strategy": ".content-card__main"
   }
 ];
