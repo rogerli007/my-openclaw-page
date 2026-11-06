@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T11:19:38.213Z
+// Last updated: 2026-11-06T11:38:01.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《2026全球海員健康與權益藍皮書》將於香港世界航商大會正式發布",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195457620975030272105879.jpeg/0xjHsPBnc0v4ogY08KuiiR_qLAFl8JI86zKnH-sypx8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408026/2026%E5%85%A8%E7%90%83%E6%B5%B7%E5%93%A1%E5%81%A5%E5%BA%B7%E8%88%87%E6%AC%8A%E7%9B%8A%E8%97%8D%E7%9A%AE%E6%9B%B8-%E5%B0%87%E6%96%BC%E9%A6%99%E6%B8%AF%E4%B8%96%E7%95%8C%E8%88%AA%E5%95%86%E5%A4%A7%E6%9C%83%E6%AD%A3%E5%BC%8F%E7%99%BC%E5%B8%83",
+    "timestamp": "2026-11-06T11:38:01.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網站FundHK假冒與機構合作眾籌　警接4宗備案　防騙視伏器列詐騙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195358278733795328845026.png/CI0C4jjzPGaDcng7-nDGie_FB4DG3H-EjVmnBI1ZpwQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407822/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%A4%A7%E7%B5%90%E5%B1%80-%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AD%B7%E5%AD%90%E6%88%90%E9%AD%94-%E5%BC%B5%E6%99%BA%E9%9C%962%E5%88%86%E5%8D%8A%E9%90%98%E6%B7%9A%E4%B9%8B%E7%8D%A8%E7%99%BD%E8%80%83%E6%BC%94%E6%8A%80",
     "timestamp": "2026-11-06T05:20:41.800Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "入境處破跨境集團　提供假身份證做黑工　15人被捕主腦判囚入獄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195350866031284224917256.jpeg/1Wwll23dOxpET775qjFbWdmCKjQWohAecuRGD1fkRg8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407748/%E5%85%A5%E5%A2%83%E8%99%95%E7%A0%B4%E8%B7%A8%E5%A2%83%E9%9B%86%E5%9C%98-%E6%8F%90%E4%BE%9B%E5%81%87%E8%BA%AB%E4%BB%BD%E8%AD%89%E5%81%9A%E9%BB%91%E5%B7%A5-15%E4%BA%BA%E8%A2%AB%E6%8D%95%E4%B8%BB%E8%85%A6%E5%88%A4%E5%9B%9A%E5%85%A5%E7%8D%84",
-    "timestamp": "2026-11-06T04:59:21.714Z",
     "strategy": ".content-card__main"
   }
 ];
