@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T04:22:44.486Z
+// Last updated: 2026-11-06T04:45:33.832Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蝕讓之城｜比華利山別墅銀主盤2268萬蝕沽　15年帳勁蝕逾四成離場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231130/806805888923865088972850.jpeg/R70k0yaYiHGlej46e6m4Fr8GA2zfsU0H243kv9uN5L8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407814/%E8%9D%95%E8%AE%93%E4%B9%8B%E5%9F%8E-%E6%AF%94%E8%8F%AF%E5%88%A9%E5%B1%B1%E5%88%A5%E5%A2%85%E9%8A%80%E4%B8%BB%E7%9B%A42268%E8%90%AC%E8%9D%95%E6%B2%BD-15%E5%B9%B4%E5%B8%B3%E5%8B%81%E8%9D%95%E9%80%BE%E5%9B%9B%E6%88%90%E9%9B%A2%E5%A0%B4",
+    "timestamp": "2026-11-06T04:45:33.832Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "食蜆補血兼減肥？鐵質高西冷牛扒3倍！一文拆解沙白蜆功效禁忌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195262478297206784032618.jpeg/rcBglQORsqwF3-GeoQ2oNE2nEIstO4LelP9-JZT_fiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60407702/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E6%99%9A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9829%E5%BA%A6",
     "timestamp": "2026-11-05T22:45:10.832Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大坑私家車泊馬路　60歲男司機被揭醉駕被捕　報稱不適送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195256516844720128314250.jpeg/D0u4eWK0N83CJ1_irNZuwVYrktf8L-jAWEhdcWJIXXE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407709/%E5%A4%A7%E5%9D%91%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%B3%8A%E9%A6%AC%E8%B7%AF-60%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8F%AD%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E5%A0%B1%E7%A8%B1%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
-    "timestamp": "2026-11-05T22:19:37.140Z",
     "strategy": ".content-card__main"
   }
 ];
