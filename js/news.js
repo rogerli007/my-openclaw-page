@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-05T23:56:56.617Z
+// Last updated: 2026-11-06T00:38:08.866Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太子美邦大廈熱水爐疑漏氣傳爆炸聲　女住戶遭碎片擊中前額受傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195286959900069888819034.jpeg/e11wwQXRQ90kPZIV8EIiNypJk3TrUHnAdMlrTXTJa00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407714/%E5%A4%AA%E5%AD%90%E7%BE%8E%E9%82%A6%E5%A4%A7%E5%BB%88%E7%86%B1%E6%B0%B4%E7%88%90%E7%96%91%E6%BC%8F%E6%B0%A3%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E5%A5%B3%E4%BD%8F%E6%88%B6%E9%81%AD%E7%A2%8E%E7%89%87%E6%93%8A%E4%B8%AD%E5%89%8D%E9%A1%8D%E5%8F%97%E5%82%B7",
+    "timestamp": "2026-11-06T00:38:08.866Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "64歲日本名醫血管年齡僅34歲 公開20年早餐餐單 穩血糖兼抗老",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155456578984349696128364.jpeg/5yPt-dRvRz1ryiAtewNDZUpmpLCj1BXSXFfXlFxX15Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407700/%E7%BE%8E%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%93%AC%E6%8E%A8%E6%B3%95%E6%A1%88%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B6%85%E7%B4%9Aai-%E9%81%95%E8%A6%8F%E6%AF%94%E7%85%A7%E6%A0%B8%E6%AD%A6%E7%B4%9A%E5%8F%AF%E5%9B%9A20%E5%B9%B4",
     "timestamp": "2026-11-05T18:29:15.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國民主黨擬推法案永久禁超級AI　違規比照核武級可囚20年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155456578984349696128364.jpeg/5yPt-dRvRz1ryiAtewNDZUpmpLCj1BXSXFfXlFxX15Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407700/%E7%BE%8E%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%93%AC%E6%8E%A8%E6%B3%95%E6%A1%88%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B6%85%E7%B4%9Aai-%E9%81%95%E8%A6%8F%E6%AF%94%E7%85%A7%E6%A0%B8%E6%AD%A6%E7%B4%9A%E5%8F%AF%E5%9B%9A20%E5%B9%B4",
-    "timestamp": "2026-11-05T18:22:54.932Z",
     "strategy": ".content-card__main"
   }
 ];
