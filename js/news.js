@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T03:18:39.973Z
+// Last updated: 2026-11-06T03:27:26.652Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "環島中港通優惠｜免費派優惠券　WeChat掃碼即享　最多慳$120",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241024/926111518590767104201895.jpeg/kCWTum2DSHZJE9ASmVSkdbFlExWPwAt2W77Cd1u-wnc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407777/%E7%92%B0%E5%B3%B6%E4%B8%AD%E6%B8%AF%E9%80%9A%E5%84%AA%E6%83%A0-%E5%85%8D%E8%B2%BB%E6%B4%BE%E5%84%AA%E6%83%A0%E5%88%B8-wechat%E6%8E%83%E7%A2%BC%E5%8D%B3%E4%BA%AB-%E6%9C%80%E5%A4%9A%E6%85%B3-120",
+    "timestamp": "2026-11-06T03:27:26.652Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加拿大加速處理港人「救生艇計劃」申請　或2027年內解決積壓個案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195227555628584960348216.jpeg/96Awv2eLbVQ28OLrZxZXTAut-NSpx84BsyrUyLMq1Mg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407706/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B0%91%E6%AC%8A%E5%8F%B8%E9%95%B7%E8%BF%AA%E9%9A%86%E8%BE%AD%E8%81%B7-%E6%9B%BE%E4%B8%BB%E5%B0%8E%E9%83%A8%E9%96%80%E7%88%AD%E8%AD%B0%E6%94%B9%E9%9D%A9",
     "timestamp": "2026-11-05T21:12:54.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國司法部民權司長迪隆辭職　曾主導部門爭議改革",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195227555628584960348216.jpeg/96Awv2eLbVQ28OLrZxZXTAut-NSpx84BsyrUyLMq1Mg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407706/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B0%91%E6%AC%8A%E5%8F%B8%E9%95%B7%E8%BF%AA%E9%9A%86%E8%BE%AD%E8%81%B7-%E6%9B%BE%E4%B8%BB%E5%B0%8E%E9%83%A8%E9%96%80%E7%88%AD%E8%AD%B0%E6%94%B9%E9%9D%A9",
-    "timestamp": "2026-11-05T20:53:27.023Z",
     "strategy": ".content-card__main"
   }
 ];
