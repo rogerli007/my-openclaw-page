@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T08:24:28.271Z
+// Last updated: 2026-11-06T08:30:19.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CCL連跌四周報159.11點　見近5個月低位　分析：料下試158點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195409096954613760760425.jpeg/RTZjjqbYhhRo1ASeTZPLOdepRcwu3-sYgSRQ6oEkUOo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407929/ccl%E9%80%A3%E8%B7%8C%E5%9B%9B%E5%91%A8%E5%A0%B1159-11%E9%BB%9E-%E8%A6%8B%E8%BF%915%E5%80%8B%E6%9C%88%E4%BD%8E%E4%BD%8D-%E5%88%86%E6%9E%90-%E6%96%99%E4%B8%8B%E8%A9%A6158%E9%BB%9E",
+    "timestamp": "2026-11-06T08:30:19.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "CCL連跌四周報159.11點　見近5個月低位　分析：料下試158點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195076025717886976276413.png/ALqQij80Z5fHwQlxEbEeQd8syjSgw17PyXgFIMl4BSA",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407578/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E5%AE%9A%E6%AA%94-%E8%91%A3%E6%80%9D%E6%88%90%E6%92%95%E5%81%B6%E5%83%8F%E6%A8%99%E7%B1%A4-%E7%B6%B2%E6%B0%91%E8%AE%9A%E6%BC%94%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%9B%B6%E9%81%95%E5%92%8C",
     "timestamp": "2026-11-06T02:33:42.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "8休班警$1050萬洗黑錢案　34歲停職男警被控欺詐罪今提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210128/431463403970629632097328.jpeg/CXlCvFgI7KJ20NfkqXPuJzl4UIs5uCiCttle5bbZXuU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407746/8%E4%BC%91%E7%8F%AD%E8%AD%A6-1050%E8%90%AC%E6%B4%97%E9%BB%91%E9%8C%A2%E6%A1%88-34%E6%AD%B2%E5%81%9C%E8%81%B7%E7%94%B7%E8%AD%A6%E8%A2%AB%E6%8E%A7%E6%AC%BA%E8%A9%90%E7%BD%AA%E4%BB%8A%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-11-06T02:24:38.683Z",
     "strategy": ".content-card__main"
   }
 ];
