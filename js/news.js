@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T18:35:06.139Z
+// Last updated: 2026-11-06T18:59:11.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國律師指責警方示威中過度使用武力　計劃起訴內政部長追究責任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195245874205167616265178.jpeg/N1-Y2R6GvuVbQlMwY6KSUeYAmIicQpZoTqAutU6gLrU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408078/%E6%B3%95%E5%9C%8B%E5%BE%8B%E5%B8%AB%E6%8C%87%E8%B2%AC%E8%AD%A6%E6%96%B9%E7%A4%BA%E5%A8%81%E4%B8%AD%E9%81%8E%E5%BA%A6%E4%BD%BF%E7%94%A8%E6%AD%A6%E5%8A%9B-%E8%A8%88%E5%8A%83%E8%B5%B7%E8%A8%B4%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB",
+    "timestamp": "2026-11-06T18:59:11.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國律師指責警方示威中過度使用武力　計劃起訴內政部長追究責任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195441182050619392790341.jpeg/x2In8dwsBoPNsHZoDcjoZ-wnMreDj85sq5GNTKuRjUw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407999/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E7%99%BD%E5%AE%AE%E6%A9%A2%E5%9C%93%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%88%97%E5%9C%8B%E5%AE%B6%E7%B4%80%E5%BF%B5%E5%9C%B0-%E7%A8%B1-%E8%AA%B0%E6%95%A2%E6%8B%86%E5%B0%B1%E6%89%93%E7%B5%A6%E6%88%91",
     "timestamp": "2026-11-06T13:20:12.280Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "惠康88折｜11.7滿$168全場88折優惠！任何門市無上限！買酒折上折",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194719357809201152164230.jpeg/dRKCRGKTbb9EUHmzpEhqff0tw0sPiHzaO98JbTvfCW0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60407177/%E6%83%A0%E5%BA%B788%E6%8A%98-11-7%E6%BB%BF-168%E5%85%A8%E5%A0%B488%E6%8A%98%E5%84%AA%E6%83%A0-%E4%BB%BB%E4%BD%95%E9%96%80%E5%B8%82%E7%84%A1%E4%B8%8A%E9%99%90-%E8%B2%B7%E9%85%92%E6%8A%98%E4%B8%8A%E6%8A%98",
-    "timestamp": "2026-11-06T12:53:35.160Z",
     "strategy": ".content-card__main"
   }
 ];
