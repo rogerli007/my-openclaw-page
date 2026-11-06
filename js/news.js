@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T16:24:37.775Z
+// Last updated: 2026-11-06T16:45:26.074Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "穀雨｜50歲張頌文喊同齡李小冉「岳母」娶差21歲張雪迎爆利益婚姻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195432459576020992750928.png/NAHsMiQIRcAeEVC_TQTPUVkVgMMn2DkyPQS8RD0EvEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407941/%E7%A9%80%E9%9B%A8-50%E6%AD%B2%E5%BC%B5%E9%A0%8C%E6%96%87%E5%96%8A%E5%90%8C%E9%BD%A1%E6%9D%8E%E5%B0%8F%E5%86%89-%E5%B2%B3%E6%AF%8D-%E5%A8%B6%E5%B7%AE21%E6%AD%B2%E5%BC%B5%E9%9B%AA%E8%BF%8E%E7%88%86%E5%88%A9%E7%9B%8A%E5%A9%9A%E5%A7%BB",
+    "timestamp": "2026-11-06T16:45:26.074Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華美醫療｜小型診所無牌亦可經營？衞生署指明年底全面實施須登記",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195449754796953600408926.png/HQsQUaYkNHY7GwQ958VDaPKcXFQ5cZdqxICmGsSApho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408010/nhk-%E6%97%A5%E6%9C%AC%E9%97%9C%E6%9D%B1%E5%9C%B0%E5%8D%80%E6%9D%B1%E9%83%A8%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F6-1%E7%B4%9A%E5%9C%B0%E9%9C%87",
     "timestamp": "2026-11-06T10:59:02.407Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宣萱嘆《騙中傳奇》拍得最辛苦　與古天樂未能見證張家輝上紅館",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195433565651734528843051.jpeg/E26fx4VYlfZxXkQGqCNiTOQC7U5TWdXdyXHhLslx4S4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407961/%E5%AE%A3%E8%90%B1%E5%98%86-%E9%A8%99%E4%B8%AD%E5%82%B3%E5%A5%87-%E6%8B%8D%E5%BE%97%E6%9C%80%E8%BE%9B%E8%8B%A6-%E8%88%87%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%9C%AA%E8%83%BD%E8%A6%8B%E8%AD%89%E5%BC%B5%E5%AE%B6%E8%BC%9D%E4%B8%8A%E7%B4%85%E9%A4%A8",
-    "timestamp": "2026-11-06T10:45:23.043Z",
     "strategy": ".content-card__main"
   }
 ];
