@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T20:53:16.584Z
+// Last updated: 2026-11-06T21:12:04.105Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：烏克蘭將繼續襲擊俄羅斯煉油設施　以回應俄軍打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408085/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%A5%B2%E6%93%8A%E4%BF%84%E7%BE%85%E6%96%AF%E7%85%89%E6%B2%B9%E8%A8%AD%E6%96%BD-%E4%BB%A5%E5%9B%9E%E6%87%89%E4%BF%84%E8%BB%8D%E6%89%93%E6%93%8A",
+    "timestamp": "2026-11-06T21:12:04.105Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "慈雲山九巴關門開車　六旬翁要求下車　踢爛車門兼撞跌車長被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195507299754446848648352.jpeg/WJJ-C86YTYlqQ42xUPrtbwFKXVr0V68xqJEIFaiRCBU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408067/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%A4%A7%E7%B5%90%E5%B1%80-%E6%9D%B1%E5%85%88%E7%94%9F-%E7%AB%9F%E6%98%AFai-%E7%8C%99%E7%8D%B0%E7%8B%82%E7%AC%91%E9%81%AD%E7%8B%82%E8%BD%9F-%E5%92%81%E9%83%BD%E5%87%BA%E5%88%B0%E8%A1%97",
     "timestamp": "2026-11-06T15:45:28.566Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜灣仔怪漢擲雜物堵電車　網民指為電車狂迷　屢因擋鏡頭暴走",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195508085611827200904567.png/Ec_vvqfYu7i-sdwyPffp5DHqvUKgGb__E0tayRNLWsk?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408060/%E6%9C%89%E7%89%87-%E7%81%A3%E4%BB%94%E6%80%AA%E6%BC%A2%E6%93%B2%E9%9B%9C%E7%89%A9%E5%A0%B5%E9%9B%BB%E8%BB%8A-%E7%B6%B2%E6%B0%91%E6%8C%87%E7%82%BA%E9%9B%BB%E8%BB%8A%E7%8B%82%E8%BF%B7-%E5%B1%A2%E5%9B%A0%E6%93%8B%E9%8F%A1%E9%A0%AD%E6%9A%B4%E8%B5%B0",
-    "timestamp": "2026-11-06T15:29:26.058Z",
     "strategy": ".content-card__main"
   }
 ];
