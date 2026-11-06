@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T07:21:30.759Z
+// Last updated: 2026-11-06T07:45:29.807Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo先達炒價直擊！11.6 18 Pro、Duo平穩回升｜每日更新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190643831733751808901432.jpeg/eh-AsqfGOHAE8Dsn2e4qId1Nsn48nfFDyXDqMMlw6jA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60391154/iphone-duo%E5%85%88%E9%81%94%E7%82%92%E5%83%B9%E7%9B%B4%E6%93%8A-10-25%E9%80%B1%E6%97%A51tb%E5%A4%A7%E5%8D%87%E6%BF%80%E8%B3%BA-4700-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0",
+    "timestamp": "2026-11-06T07:45:29.807Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗發「台灣有事論」1週年　內閣官房長官重申對台立場未變",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195045738824863744786954.jpeg/kHSCTekMVHqdaAl2xkSgNd4biPnwgDd_MdSFljHUhZY",
     "url": "https://www.hk01.com/01TV/60407534/%E7%96%91%E9%9D%9E%E6%B3%95%E9%87%A3%E9%AD%9A%E6%A9%9F%E6%AA%94%E9%BB%91%E5%B9%AB%E8%AC%9B%E6%95%B8-%E5%8D%81%E5%A4%9A%E4%BA%BA%E5%A4%A7%E4%BA%82%E9%AC%A5-%E5%87%B3%E5%82%98%E5%9E%83%E5%9C%BE%E6%A1%B6%E7%9A%86%E5%85%B5%E5%99%A8",
     "timestamp": "2026-11-06T01:48:24.206Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青奧2026｜港隊再添兩銅牌　文薈喬蘇籽童齊奪今屆第二面獎牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195302348700782592729651.png/B3JoKmBM4zyKx-r48kiV0imeBcr68us8YQSV72EEle8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407726/%E9%9D%92%E5%A5%A72026-%E6%B8%AF%E9%9A%8A%E5%86%8D%E6%B7%BB%E5%85%A9%E9%8A%85%E7%89%8C-%E6%96%87%E8%96%88%E5%96%AC%E8%98%87%E7%B1%BD%E7%AB%A5%E9%BD%8A%E5%A5%AA%E4%BB%8A%E5%B1%86%E7%AC%AC%E4%BA%8C%E9%9D%A2%E7%8D%8E%E7%89%8C",
-    "timestamp": "2026-11-06T01:21:23.610Z",
     "strategy": ".content-card__main"
   }
 ];
