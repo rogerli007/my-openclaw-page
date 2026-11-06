@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T14:59:01.300Z
+// Last updated: 2026-11-06T15:29:26.058Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜灣仔怪漢擲雜物堵電車　網民指為電車狂迷　屢因擋鏡頭暴走",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195508085611827200904567.png/Ec_vvqfYu7i-sdwyPffp5DHqvUKgGb__E0tayRNLWsk?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408060/%E6%9C%89%E7%89%87-%E7%81%A3%E4%BB%94%E6%80%AA%E6%BC%A2%E6%93%B2%E9%9B%9C%E7%89%A9%E5%A0%B5%E9%9B%BB%E8%BB%8A-%E7%B6%B2%E6%B0%91%E6%8C%87%E7%82%BA%E9%9B%BB%E8%BB%8A%E7%8B%82%E8%BF%B7-%E5%B1%A2%E5%9B%A0%E6%93%8B%E9%8F%A1%E9%A0%AD%E6%9A%B4%E8%B5%B0",
+    "timestamp": "2026-11-06T15:29:26.058Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "昔日天氣女郎黃婉曼嫁得好　做馬主愛駒爆冷跑出孖老公閨密拉頭馬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184904709031333888851796.jpeg/A6PHHXU2YwyMJ8qFxZQ9n2kaIZ3OjBDJeO5F1XjuRdU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60395137/%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E5%B9%B4%E5%A5%AA500%E5%91%BD-%E8%90%AC%E4%BA%BA%E7%A0%94%E7%A9%B6%E9%A9%9A%E7%88%86-%E5%B8%B8%E5%90%83-%E9%80%99%E9%A1%9E%E9%A3%9F%E7%89%A9-%E9%A2%A8%E9%9A%AA%E9%A3%86%E5%8D%8730",
     "timestamp": "2026-11-06T09:22:34.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "繼赤柱別墅賺十億　紀惠集團傳賣銅鑼灣「銀行舖」　血蝕3080萬！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195411524861169664735896.png/69hT3FUiTLXoVrNYFvE-e7UhPanclHD8UH79d1B-_Xc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407934/%E7%B9%BC%E8%B5%A4%E6%9F%B1%E5%88%A5%E5%A2%85%E8%B3%BA%E5%8D%81%E5%84%84-%E7%B4%80%E6%83%A0%E9%9B%86%E5%9C%98%E5%82%B3%E8%B3%A3%E9%8A%85%E9%91%BC%E7%81%A3-%E9%8A%80%E8%A1%8C%E8%88%96-%E8%A1%80%E8%9D%953080%E8%90%AC",
-    "timestamp": "2026-11-06T08:59:21.343Z",
     "strategy": ".content-card__main"
   }
 ];
