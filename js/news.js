@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T17:39:48.078Z
+// Last updated: 2026-11-06T17:53:27.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中期選舉失利後美司法部爆出走潮　再有兩名高官辭職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195548505519689728983610.jpeg/DkpX68R3pck928A80pYRoa9AM3cq4kKh7nue4-57nuM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408076/%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%A4%B1%E5%88%A9%E5%BE%8C%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E7%88%86%E5%87%BA%E8%B5%B0%E6%BD%AE-%E5%86%8D%E6%9C%89%E5%85%A9%E5%90%8D%E9%AB%98%E5%AE%98%E8%BE%AD%E8%81%B7",
+    "timestamp": "2026-11-06T17:53:27.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中期選舉失利後美司法部爆出走潮　再有兩名高官辭職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185263799456763904835169.jpeg/Cc8t5d6pQSIKwlDd_4e9MoQCh44E1R_6JcF6XyXBel8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408038/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%80%E5%8B%9D%E5%8F%B0%E9%BB%91%E9%A6%AC-%E5%90%B3%E8%8B%B1%E5%80%AB%E6%8C%AB%E7%9C%9F%E5%BB%B7-%E6%B8%AF%E5%B0%87%E5%8C%85%E8%BE%A64%E5%BC%B7%E5%85%A9%E5%B8%AD",
     "timestamp": "2026-11-06T12:18:52.595Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "草間彌生5米高雕塑落戶啟德　利福劉鑾鴻料雙子匯2期明年6成租出",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195447684538830848974513.jpeg/RXy_4ThXXmLJVT6pdkda5lCtuYzGECaLlVjB0qBYwdI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60408006/%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F5%E7%B1%B3%E9%AB%98%E9%9B%95%E5%A1%91%E8%90%BD%E6%88%B6%E5%95%9F%E5%BE%B7-%E5%88%A9%E7%A6%8F%E5%8A%89%E9%91%BE%E9%B4%BB%E6%96%99%E9%9B%99%E5%AD%90%E5%8C%AF2%E6%9C%9F%E6%98%8E%E5%B9%B46%E6%88%90%E7%A7%9F%E5%87%BA",
-    "timestamp": "2026-11-06T11:59:07.361Z",
     "strategy": ".content-card__main"
   }
 ];
