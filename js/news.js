@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T15:59:01.229Z
+// Last updated: 2026-11-06T16:18:23.932Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華美醫療｜小型診所無牌亦可經營？衞生署指明年底全面實施須登記",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195469491803262976605782.jpeg/G9afNZCEMmbBuTQo6kWsKvYnf1AfAfkQrt7Hf5vex38?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408065/%E8%8F%AF%E7%BE%8E%E9%86%AB%E7%99%82-%E5%B0%8F%E5%9E%8B%E8%A8%BA%E6%89%80%E7%84%A1%E7%89%8C%E4%BA%A6%E5%8F%AF%E7%B6%93%E7%87%9F-%E8%A1%9E%E7%94%9F%E7%BD%B2%E6%8C%87%E6%98%8E%E5%B9%B4%E5%BA%95%E5%85%A8%E9%9D%A2%E5%AF%A6%E6%96%BD%E9%A0%88%E7%99%BB%E8%A8%98",
+    "timestamp": "2026-11-06T16:18:23.932Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城大結局｜「東先生」竟是AI　猙獰狂笑遭狂轟：咁都出到街",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195440100268314624240859.jpeg/Srb2igX98o6jt2MDC_AiRFx5fj2IhXmSZPa_AmT2vwI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60407904/%E8%81%96%E8%AA%95%E5%A5%BD%E5%8E%BB%E8%99%952026-9%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E4%B8%AD%E7%92%B020%E7%B1%B3%E9%AB%98%E8%81%96%E8%AA%95%E6%A8%B9-%E6%B0%A3%E7%90%83%E5%B8%82%E9%9B%86-pixar%E5%B1%95",
     "timestamp": "2026-11-06T10:20:18.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "ATP台北挑戰賽︱黃澤林繼亞運後再挫泰國卡西迪　闖4強鬥綿貫陽介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195432420594159616921650.jpeg/nXuhidTLY0ydxNg4q1VWbMGB65FxbtsLzserSc7Hq0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407977/atp%E5%8F%B0%E5%8C%97%E6%8C%91%E6%88%B0%E8%B3%BD-%E9%BB%83%E6%BE%A4%E6%9E%97%E7%B9%BC%E4%BA%9E%E9%81%8B%E5%BE%8C%E5%86%8D%E6%8C%AB%E6%B3%B0%E5%9C%8B%E5%8D%A1%E8%A5%BF%E8%BF%AA-%E9%97%964%E5%BC%B7%E9%AC%A5%E7%B6%BF%E8%B2%AB%E9%99%BD%E4%BB%8B",
-    "timestamp": "2026-11-06T09:58:56.596Z",
     "strategy": ".content-card__main"
   }
 ];
