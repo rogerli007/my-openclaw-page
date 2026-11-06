@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T05:42:47.725Z
+// Last updated: 2026-11-06T05:53:30.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "會德豐地產年內累售2527伙吸金302億　下周一賣3新盤貨尾共193伙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195367952631730176793415.jpeg/uJyPxQWyFTPO3RCWQTNQAhprQDv4S5DVrxhFa68YRWs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407844/%E6%9C%83%E5%BE%B7%E8%B1%90%E5%9C%B0%E7%94%A2%E5%B9%B4%E5%85%A7%E7%B4%AF%E5%94%AE2527%E4%BC%99%E5%90%B8%E9%87%91302%E5%84%84-%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B3%A33%E6%96%B0%E7%9B%A4%E8%B2%A8%E5%B0%BE%E5%85%B1193%E4%BC%99",
+    "timestamp": "2026-11-06T05:53:30.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜下周二分區低至14°C！實測8款熱飲暖身效果排名 奶愈飲愈凍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194999815662997504142780.jpeg/xGDuVPD_B-jfbtGKE5QqrJHNkfV-dGhft11ql7ddapc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407413/64%E6%AD%B2%E6%97%A5%E6%9C%AC%E5%90%8D%E9%86%AB%E8%A1%80%E7%AE%A1%E5%B9%B4%E9%BD%A1%E5%83%8534%E6%AD%B2-%E5%85%AC%E9%96%8B20%E5%B9%B4%E6%97%A9%E9%A4%90%E9%A4%90%E5%96%AE-%E7%A9%A9%E8%A1%80%E7%B3%96%E5%85%BC%E6%8A%97%E8%80%81",
     "timestamp": "2026-11-05T23:56:56.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "64歲日本名醫血管年齡僅34歲 公開20年早餐餐單 穩血糖兼抗老",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194999815662997504142780.jpeg/xGDuVPD_B-jfbtGKE5QqrJHNkfV-dGhft11ql7ddapc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407413/64%E6%AD%B2%E6%97%A5%E6%9C%AC%E5%90%8D%E9%86%AB%E8%A1%80%E7%AE%A1%E5%B9%B4%E9%BD%A1%E5%83%8534%E6%AD%B2-%E5%85%AC%E9%96%8B20%E5%B9%B4%E6%97%A9%E9%A4%90%E9%A4%90%E5%96%AE-%E7%A9%A9%E8%A1%80%E7%B3%96%E5%85%BC%E6%8A%97%E8%80%81",
-    "timestamp": "2026-11-05T23:45:08.939Z",
     "strategy": ".content-card__main"
   }
 ];
