@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T09:45:21.868Z
+// Last updated: 2026-11-06T09:58:56.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "ATP台北挑戰賽︱黃澤林繼亞運後再挫泰國卡西迪　闖4強鬥綿貫陽介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195432420594159616921650.jpeg/nXuhidTLY0ydxNg4q1VWbMGB65FxbtsLzserSc7Hq0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407977/atp%E5%8F%B0%E5%8C%97%E6%8C%91%E6%88%B0%E8%B3%BD-%E9%BB%83%E6%BE%A4%E6%9E%97%E7%B9%BC%E4%BA%9E%E9%81%8B%E5%BE%8C%E5%86%8D%E6%8C%AB%E6%B3%B0%E5%9C%8B%E5%8D%A1%E8%A5%BF%E8%BF%AA-%E9%97%964%E5%BC%B7%E9%AC%A5%E7%B6%BF%E8%B2%AB%E9%99%BD%E4%BB%8B",
+    "timestamp": "2026-11-06T09:58:56.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普或在選舉後增加與朝鮮接觸　路透社：日韓擔心遭排除在外",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195326817993494528879056.jpeg/qQPzjJYLxgYu-ZBLPh3q-LItcc95TxJmtaLACbWiwAk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407764/%E9%A6%AC%E5%B0%BC%E6%8B%89-ativan%E5%B9%AB-%E5%B0%88%E7%8D%B5%E5%A4%96%E5%9C%8B%E5%AE%A2-%E8%8F%AF%E4%BA%BA%E9%9A%AA%E9%81%AD%E8%90%BD%E8%97%A5-%E8%AD%A6%E6%96%B9%E7%95%B6%E5%A0%B4%E6%93%925%E8%B3%8A",
     "timestamp": "2026-11-06T03:45:25.483Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "環島中港通優惠｜免費派優惠券　WeChat掃碼即享　最多慳$120",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241024/926111518590767104201895.jpeg/kCWTum2DSHZJE9ASmVSkdbFlExWPwAt2W77Cd1u-wnc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407777/%E7%92%B0%E5%B3%B6%E4%B8%AD%E6%B8%AF%E9%80%9A%E5%84%AA%E6%83%A0-%E5%85%8D%E8%B2%BB%E6%B4%BE%E5%84%AA%E6%83%A0%E5%88%B8-wechat%E6%8E%83%E7%A2%BC%E5%8D%B3%E4%BA%AB-%E6%9C%80%E5%A4%9A%E6%85%B3-120",
-    "timestamp": "2026-11-06T03:27:26.652Z",
     "strategy": ".content-card__main"
   }
 ];
