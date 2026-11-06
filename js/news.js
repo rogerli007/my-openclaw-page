@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T14:15:23.392Z
+// Last updated: 2026-11-06T14:30:43.332Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "肯尼亞邪教害死190童　森林絕食枉死　頭目麥肯齊判囚200年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195486242993606656867031.jpeg/Goc64eMVr_F29xYU5NaDRieK1qMkNwSsyVYdN8lWHTc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408049/%E8%82%AF%E5%B0%BC%E4%BA%9E%E9%82%AA%E6%95%99%E5%AE%B3%E6%AD%BB190%E7%AB%A5-%E6%A3%AE%E6%9E%97%E7%B5%95%E9%A3%9F%E6%9E%89%E6%AD%BB-%E9%A0%AD%E7%9B%AE%E9%BA%A5%E8%82%AF%E9%BD%8A%E5%88%A4%E5%9B%9A200%E5%B9%B4",
+    "timestamp": "2026-11-06T14:30:43.332Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國產武俠動作遊戲《影之刃零》發售3天破400萬銷量　收入超10億元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195409096954613760760425.jpeg/RTZjjqbYhhRo1ASeTZPLOdepRcwu3-sYgSRQ6oEkUOo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407929/ccl%E9%80%A3%E8%B7%8C%E5%9B%9B%E5%91%A8%E5%A0%B1159-11%E9%BB%9E-%E8%A6%8B%E8%BF%915%E5%80%8B%E6%9C%88%E4%BD%8E%E4%BD%8D-%E5%88%86%E6%9E%90-%E6%96%99%E4%B8%8B%E8%A9%A6158%E9%BB%9E",
     "timestamp": "2026-11-06T08:30:19.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "CCL連跌四周報159.11點　見近5個月低位　分析：料下試158點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195409096954613760760425.jpeg/RTZjjqbYhhRo1ASeTZPLOdepRcwu3-sYgSRQ6oEkUOo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407929/ccl%E9%80%A3%E8%B7%8C%E5%9B%9B%E5%91%A8%E5%A0%B1159-11%E9%BB%9E-%E8%A6%8B%E8%BF%915%E5%80%8B%E6%9C%88%E4%BD%8E%E4%BD%8D-%E5%88%86%E6%9E%90-%E6%96%99%E4%B8%8B%E8%A9%A6158%E9%BB%9E",
-    "timestamp": "2026-11-06T08:24:28.271Z",
     "strategy": ".content-card__main"
   }
 ];
