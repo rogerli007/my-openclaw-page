@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T19:42:24.566Z
+// Last updated: 2026-11-06T19:59:05.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普任命米勒出任新白宮幕僚長　懷爾斯調任總統政治營運團隊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195578878446276608354198.jpeg/iqxb9tHDNSaDSCkIjEF6Y0nhIhHTbE4HBC3m_QQt5v0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408082/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%BB%E5%91%BD%E7%B1%B3%E5%8B%92%E5%87%BA%E4%BB%BB%E6%96%B0%E7%99%BD%E5%AE%AE%E5%B9%95%E5%83%9A%E9%95%B7-%E6%87%B7%E7%88%BE%E6%96%AF%E8%AA%BF%E4%BB%BB%E7%B8%BD%E7%B5%B1%E6%94%BF%E6%B2%BB%E7%87%9F%E9%81%8B%E5%9C%98%E9%9A%8A",
+    "timestamp": "2026-11-06T19:59:05.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普任命米勒出任新白宮幕僚長　懷爾斯調任總統政治營運團隊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195486242993606656867031.jpeg/Goc64eMVr_F29xYU5NaDRieK1qMkNwSsyVYdN8lWHTc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408049/%E8%82%AF%E5%B0%BC%E4%BA%9E%E9%82%AA%E6%95%99%E5%AE%B3%E6%AD%BB190%E7%AB%A5-%E6%A3%AE%E6%9E%97%E7%B5%95%E9%A3%9F%E6%9E%89%E6%AD%BB-%E9%A0%AD%E7%9B%AE%E9%BA%A5%E8%82%AF%E9%BD%8A%E5%88%A4%E5%9B%9A200%E5%B9%B4",
     "timestamp": "2026-11-06T14:30:43.332Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國產武俠動作遊戲《影之刃零》發售3天破400萬銷量　收入超10億元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195493183602036736120638.jpeg/BcbBgPkH7xH2OdMVIobWbQgARox2_qqIcig_4nIoP-I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60408052/%E5%9C%8B%E7%94%A2%E6%AD%A6%E4%BF%A0%E5%8B%95%E4%BD%9C%E9%81%8A%E6%88%B2-%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6-%E7%99%BC%E5%94%AE3%E5%A4%A9%E7%A0%B4400%E8%90%AC%E9%8A%B7%E9%87%8F-%E6%94%B6%E5%85%A5%E8%B6%8510%E5%84%84%E5%85%83",
-    "timestamp": "2026-11-06T14:15:23.392Z",
     "strategy": ".content-card__main"
   }
 ];
