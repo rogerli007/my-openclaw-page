@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T15:29:26.058Z
+// Last updated: 2026-11-06T15:45:28.566Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城大結局｜「東先生」竟是AI　猙獰狂笑遭狂轟：咁都出到街",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195507299754446848648352.jpeg/WJJ-C86YTYlqQ42xUPrtbwFKXVr0V68xqJEIFaiRCBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408067/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%A4%A7%E7%B5%90%E5%B1%80-%E6%9D%B1%E5%85%88%E7%94%9F-%E7%AB%9F%E6%98%AFai-%E7%8C%99%E7%8D%B0%E7%8B%82%E7%AC%91%E9%81%AD%E7%8B%82%E8%BD%9F-%E5%92%81%E9%83%BD%E5%87%BA%E5%88%B0%E8%A1%97",
+    "timestamp": "2026-11-06T15:45:28.566Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜灣仔怪漢擲雜物堵電車　網民指為電車狂迷　屢因擋鏡頭暴走",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20211218/548871351071805440130278.jpeg/JmwK5kuP3W5asVW2vdNDHzoDmmit9pIq5TwjGOU8Ixg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407935/%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9C%A8%E9%81%B8%E8%88%89%E5%BE%8C%E5%A2%9E%E5%8A%A0%E8%88%87%E6%9C%9D%E9%AE%AE%E6%8E%A5%E8%A7%B8-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E6%97%A5%E9%9F%93%E6%93%94%E5%BF%83%E9%81%AD%E6%8E%92%E9%99%A4%E5%9C%A8%E5%A4%96",
     "timestamp": "2026-11-06T09:45:21.868Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184904709031333888851796.jpeg/A6PHHXU2YwyMJ8qFxZQ9n2kaIZ3OjBDJeO5F1XjuRdU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60395137/%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E5%B9%B4%E5%A5%AA500%E5%91%BD-%E8%90%AC%E4%BA%BA%E7%A0%94%E7%A9%B6%E9%A9%9A%E7%88%86-%E5%B8%B8%E5%90%83-%E9%80%99%E9%A1%9E%E9%A3%9F%E7%89%A9-%E9%A2%A8%E9%9A%AA%E9%A3%86%E5%8D%8730",
-    "timestamp": "2026-11-06T09:22:34.792Z",
     "strategy": ".content-card__main"
   }
 ];
