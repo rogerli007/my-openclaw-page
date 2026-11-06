@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T13:53:49.586Z
+// Last updated: 2026-11-06T14:15:23.392Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國產武俠動作遊戲《影之刃零》發售3天破400萬銷量　收入超10億元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195493183602036736120638.jpeg/BcbBgPkH7xH2OdMVIobWbQgARox2_qqIcig_4nIoP-I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60408052/%E5%9C%8B%E7%94%A2%E6%AD%A6%E4%BF%A0%E5%8B%95%E4%BD%9C%E9%81%8A%E6%88%B2-%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6-%E7%99%BC%E5%94%AE3%E5%A4%A9%E7%A0%B4400%E8%90%AC%E9%8A%B7%E9%87%8F-%E6%94%B6%E5%85%A5%E8%B6%8510%E5%84%84%E5%85%83",
+    "timestamp": "2026-11-06T14:15:23.392Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角新診所$199連3日藥惹議　醫生親解低收費：盼病人免逼急症室",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195409096954613760760425.jpeg/RTZjjqbYhhRo1ASeTZPLOdepRcwu3-sYgSRQ6oEkUOo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407929/ccl%E9%80%A3%E8%B7%8C%E5%9B%9B%E5%91%A8%E5%A0%B1159-11%E9%BB%9E-%E8%A6%8B%E8%BF%915%E5%80%8B%E6%9C%88%E4%BD%8E%E4%BD%8D-%E5%88%86%E6%9E%90-%E6%96%99%E4%B8%8B%E8%A9%A6158%E9%BB%9E",
     "timestamp": "2026-11-06T08:24:28.271Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國中期選舉｜防長赫格塞思成眾矢之的　拍片反擊：這招對我沒用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195398958042583040584296.jpeg/t1bgaCPz0wezwLDj2pXIM-zusAvdOoIjz0Qt689ELes?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407897/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E6%88%90%E7%9C%BE%E7%9F%A2%E4%B9%8B%E7%9A%84-%E6%8B%8D%E7%89%87%E5%8F%8D%E6%93%8A-%E9%80%99%E6%8B%9B%E5%B0%8D%E6%88%91%E6%B2%92%E7%94%A8",
-    "timestamp": "2026-11-06T07:54:49.747Z",
     "strategy": ".content-card__main"
   }
 ];
