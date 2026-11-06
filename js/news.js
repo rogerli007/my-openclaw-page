@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T11:59:07.361Z
+// Last updated: 2026-11-06T12:18:52.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球韓國賽︱李卓耀勝台黑馬　吳英倫挫真廷　港將包辦4強兩席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185263799456763904835169.jpeg/Cc8t5d6pQSIKwlDd_4e9MoQCh44E1R_6JcF6XyXBel8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408038/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%80%E5%8B%9D%E5%8F%B0%E9%BB%91%E9%A6%AC-%E5%90%B3%E8%8B%B1%E5%80%AB%E6%8C%AB%E7%9C%9F%E5%BB%B7-%E6%B8%AF%E5%B0%87%E5%8C%85%E8%BE%A64%E5%BC%B7%E5%85%A9%E5%B8%AD",
+    "timestamp": "2026-11-06T12:18:52.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "草間彌生5米高雕塑落戶啟德　利福劉鑾鴻料雙子匯2期明年6成租出",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195367952631730176793415.jpeg/uJyPxQWyFTPO3RCWQTNQAhprQDv4S5DVrxhFa68YRWs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407844/%E6%9C%83%E5%BE%B7%E8%B1%90%E5%9C%B0%E7%94%A2%E5%B9%B4%E5%85%A7%E7%B4%AF%E5%94%AE2527%E4%BC%99%E5%90%B8%E9%87%91302%E5%84%84-%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B3%A33%E6%96%B0%E7%9B%A4%E8%B2%A8%E5%B0%BE%E5%85%B1193%E4%BC%99",
     "timestamp": "2026-11-06T05:53:30.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜下周二分區低至14°C！實測8款熱飲暖身效果排名 奶愈飲愈凍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195364716508090368731850.jpeg/9sgPhKdvzZXSIH2YgWArKuxa4UhbAAvq0EfqrtBH6q4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60407840/%E5%A4%A9%E6%B0%A3-%E4%B8%8B%E5%91%A8%E4%BA%8C%E5%88%86%E5%8D%80%E4%BD%8E%E8%87%B314-c-%E5%AF%A6%E6%B8%AC8%E6%AC%BE%E7%86%B1%E9%A3%B2%E6%9A%96%E8%BA%AB%E6%95%88%E6%9E%9C%E6%8E%92%E5%90%8D-%E5%A5%B6%E6%84%88%E9%A3%B2%E6%84%88%E5%87%8D",
-    "timestamp": "2026-11-06T05:42:47.725Z",
     "strategy": ".content-card__main"
   }
 ];
