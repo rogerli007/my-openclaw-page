@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T03:53:48.870Z
+// Last updated: 2026-11-06T04:22:44.486Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "食蜆補血兼減肥？鐵質高西冷牛扒3倍！一文拆解沙白蜆功效禁忌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195046436366979072357064.jpeg/frdf6f-7s1Te1Igj4EwOMKfXLxTIipt3Mc1RJzHNUSc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407310/%E9%A3%9F%E8%9C%86%E8%A3%9C%E8%A1%80%E5%85%BC%E6%B8%9B%E8%82%A5-%E9%90%B5%E8%B3%AA%E9%AB%98%E8%A5%BF%E5%86%B7%E7%89%9B%E6%89%923%E5%80%8D-%E4%B8%80%E6%96%87%E6%8B%86%E8%A7%A3%E6%B2%99%E7%99%BD%E8%9C%86%E5%8A%9F%E6%95%88%E7%A6%81%E5%BF%8C",
+    "timestamp": "2026-11-06T04:22:44.486Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅湖口岸新接駁橋開通｜免日曬雨淋5分鐘直達商圈！香港出發攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195256516844720128314250.jpeg/D0u4eWK0N83CJ1_irNZuwVYrktf8L-jAWEhdcWJIXXE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407709/%E5%A4%A7%E5%9D%91%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%B3%8A%E9%A6%AC%E8%B7%AF-60%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8F%AD%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95-%E5%A0%B1%E7%A8%B1%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2",
     "timestamp": "2026-11-05T22:19:37.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國工會加入抗議示威活動　要求提高工資與公共服務水平",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195245874205167616265178.jpeg/N1-Y2R6GvuVbQlMwY6KSUeYAmIicQpZoTqAutU6gLrU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407707/%E6%B3%95%E5%9C%8B%E5%B7%A5%E6%9C%83%E5%8A%A0%E5%85%A5%E6%8A%97%E8%AD%B0%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8B%95-%E8%A6%81%E6%B1%82%E6%8F%90%E9%AB%98%E5%B7%A5%E8%B3%87%E8%88%87%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E6%B0%B4%E5%B9%B3",
-    "timestamp": "2026-11-05T21:53:36.863Z",
     "strategy": ".content-card__main"
   }
 ];
