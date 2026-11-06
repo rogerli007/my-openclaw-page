@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T05:53:30.335Z
+// Last updated: 2026-11-06T06:26:42.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 20週年新爆料：首搭四微曲面迎來零邊框　動態島仍保留？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195343351235219456814206.jpeg/mDj8x3I4AQ256mNZpClJwoLLlj_kKqL0YFVLXGBVS1w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60407780/iphone-20%E9%80%B1%E5%B9%B4%E6%96%B0%E7%88%86%E6%96%99-%E9%A6%96%E6%90%AD%E5%9B%9B%E5%BE%AE%E6%9B%B2%E9%9D%A2%E8%BF%8E%E4%BE%86%E9%9B%B6%E9%82%8A%E6%A1%86-%E5%8B%95%E6%85%8B%E5%B3%B6%E4%BB%8D%E4%BF%9D%E7%95%99",
+    "timestamp": "2026-11-06T06:26:42.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "會德豐地產年內累售2527伙吸金302億　下周一賣3新盤貨尾共193伙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195286959900069888819034.jpeg/e11wwQXRQ90kPZIV8EIiNypJk3TrUHnAdMlrTXTJa00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407714/%E5%A4%AA%E5%AD%90%E7%BE%8E%E9%82%A6%E5%A4%A7%E5%BB%88%E7%86%B1%E6%B0%B4%E7%88%90%E7%96%91%E6%BC%8F%E6%B0%A3%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E5%A5%B3%E4%BD%8F%E6%88%B6%E9%81%AD%E7%A2%8E%E7%89%87%E6%93%8A%E4%B8%AD%E5%89%8D%E9%A1%8D%E5%8F%97%E5%82%B7",
     "timestamp": "2026-11-06T00:38:08.866Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "64歲日本名醫血管年齡僅34歲 公開20年早餐餐單 穩血糖兼抗老",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194999815662997504142780.jpeg/xGDuVPD_B-jfbtGKE5QqrJHNkfV-dGhft11ql7ddapc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407413/64%E6%AD%B2%E6%97%A5%E6%9C%AC%E5%90%8D%E9%86%AB%E8%A1%80%E7%AE%A1%E5%B9%B4%E9%BD%A1%E5%83%8534%E6%AD%B2-%E5%85%AC%E9%96%8B20%E5%B9%B4%E6%97%A9%E9%A4%90%E9%A4%90%E5%96%AE-%E7%A9%A9%E8%A1%80%E7%B3%96%E5%85%BC%E6%8A%97%E8%80%81",
-    "timestamp": "2026-11-05T23:56:56.617Z",
     "strategy": ".content-card__main"
   }
 ];
