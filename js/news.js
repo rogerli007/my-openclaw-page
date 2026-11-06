@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T04:45:33.832Z
+// Last updated: 2026-11-06T04:59:21.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "入境處破跨境集團　提供假身份證做黑工　15人被捕主腦判囚入獄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195350866031284224917256.jpeg/1Wwll23dOxpET775qjFbWdmCKjQWohAecuRGD1fkRg8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407748/%E5%85%A5%E5%A2%83%E8%99%95%E7%A0%B4%E8%B7%A8%E5%A2%83%E9%9B%86%E5%9C%98-%E6%8F%90%E4%BE%9B%E5%81%87%E8%BA%AB%E4%BB%BD%E8%AD%89%E5%81%9A%E9%BB%91%E5%B7%A5-15%E4%BA%BA%E8%A2%AB%E6%8D%95%E4%B8%BB%E8%85%A6%E5%88%A4%E5%9B%9A%E5%85%A5%E7%8D%84",
+    "timestamp": "2026-11-06T04:59:21.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蝕讓之城｜比華利山別墅銀主盤2268萬蝕沽　15年帳勁蝕逾四成離場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131801161817395200504698.jpeg/vurRA7KpMvk8jLWLDmU3UZ06VU2R---y1kOqddZDqnU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407710/%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%90%A6%E8%AA%8D%E6%93%AC%E9%9B%A2%E9%96%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C-%E4%BD%86%E6%8B%92%E8%AB%87%E6%9C%83%E5%90%A6%E8%A7%92%E9%80%90%E4%B8%8B%E5%B1%86%E7%B8%BD%E7%B5%B1",
     "timestamp": "2026-11-05T23:13:20.069Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日大致多雲　早晚有一兩陣雨　日間最高29度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195262478297206784032618.jpeg/rcBglQORsqwF3-GeoQ2oNE2nEIstO4LelP9-JZT_fiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60407702/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%87%B4%E5%A4%9A%E9%9B%B2-%E6%97%A9%E6%99%9A%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%9829%E5%BA%A6",
-    "timestamp": "2026-11-05T22:45:10.832Z",
     "strategy": ".content-card__main"
   }
 ];
