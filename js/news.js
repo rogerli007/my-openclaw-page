@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T14:30:43.332Z
+// Last updated: 2026-11-06T14:39:38.372Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門怡樂花園法團收廉署通知取消業主大會　據悉顧問公司成員被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251215/1077289933808340992192640.jpeg/ImWkGvKKM6twVSvYegk67iL42AqJiwtT4XKSi8tykos?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408057/%E5%B1%AF%E9%96%80%E6%80%A1%E6%A8%82%E8%8A%B1%E5%9C%92%E6%B3%95%E5%9C%98%E6%94%B6%E5%BB%89%E7%BD%B2%E9%80%9A%E7%9F%A5%E5%8F%96%E6%B6%88%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E6%93%9A%E6%82%89%E9%A1%A7%E5%95%8F%E5%85%AC%E5%8F%B8%E6%88%90%E5%93%A1%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-06T14:39:38.372Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "肯尼亞邪教害死190童　森林絕食枉死　頭目麥肯齊判囚200年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412670430318592408731.jpeg/hc-8zRHehRwf4cXgYlni7x5OpYu09EOm21EknttRJJ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407924/%E8%B7%A8%E5%A2%83%E7%99%BD%E7%89%8C%E8%BB%8A-%E8%8D%83%E7%81%A3%E4%B8%8A%E5%BB%A3%E5%B7%9E%E7%B4%A2%E5%83%B9-1950-%E8%AD%A6%E6%8B%98%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%89%A3%E5%85%A9%E5%9C%B0%E7%89%8C%E4%B8%83%E4%BA%BA%E8%BB%8A",
     "timestamp": "2026-11-06T08:45:19.985Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "CCL連跌四周報159.11點　見近5個月低位　分析：料下試158點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195409096954613760760425.jpeg/RTZjjqbYhhRo1ASeTZPLOdepRcwu3-sYgSRQ6oEkUOo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407929/ccl%E9%80%A3%E8%B7%8C%E5%9B%9B%E5%91%A8%E5%A0%B1159-11%E9%BB%9E-%E8%A6%8B%E8%BF%915%E5%80%8B%E6%9C%88%E4%BD%8E%E4%BD%8D-%E5%88%86%E6%9E%90-%E6%96%99%E4%B8%8B%E8%A9%A6158%E9%BB%9E",
-    "timestamp": "2026-11-06T08:30:19.824Z",
     "strategy": ".content-card__main"
   }
 ];
