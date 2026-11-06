@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T20:45:35.039Z
+// Last updated: 2026-11-06T20:53:16.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "慈雲山九巴關門開車　六旬翁要求下車　踢爛車門兼撞跌車長被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195597047663693824251760.jpeg/eUu6enhi7qhP-91OumzOA7C5Tedrp3a-2DwXzdg8F80?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408084/%E6%85%88%E9%9B%B2%E5%B1%B1%E4%B9%9D%E5%B7%B4%E9%97%9C%E9%96%80%E9%96%8B%E8%BB%8A-%E5%85%AD%E6%97%AC%E7%BF%81%E8%A6%81%E6%B1%82%E4%B8%8B%E8%BB%8A-%E8%B8%A2%E7%88%9B%E8%BB%8A%E9%96%80%E5%85%BC%E6%92%9E%E8%B7%8C%E8%BB%8A%E9%95%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-06T20:53:16.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地現時點男賊偷卡　得手逃走露內褲　店方：驚到甩褲？｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195508085611827200904567.png/Ec_vvqfYu7i-sdwyPffp5DHqvUKgGb__E0tayRNLWsk?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408060/%E6%9C%89%E7%89%87-%E7%81%A3%E4%BB%94%E6%80%AA%E6%BC%A2%E6%93%B2%E9%9B%9C%E7%89%A9%E5%A0%B5%E9%9B%BB%E8%BB%8A-%E7%B6%B2%E6%B0%91%E6%8C%87%E7%82%BA%E9%9B%BB%E8%BB%8A%E7%8B%82%E8%BF%B7-%E5%B1%A2%E5%9B%A0%E6%93%8B%E9%8F%A1%E9%A0%AD%E6%9A%B4%E8%B5%B0",
     "timestamp": "2026-11-06T15:29:26.058Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "昔日天氣女郎黃婉曼嫁得好　做馬主愛駒爆冷跑出孖老公閨密拉頭馬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195474067751178240264103.png/hJuE_gZHFZ9puCP_Tt27q4VuSOGhg48nHn8JlR5_CZU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408043/%E6%98%94%E6%97%A5%E5%A4%A9%E6%B0%A3%E5%A5%B3%E9%83%8E%E9%BB%83%E5%A9%89%E6%9B%BC%E5%AB%81%E5%BE%97%E5%A5%BD-%E5%81%9A%E9%A6%AC%E4%B8%BB%E6%84%9B%E9%A7%92%E7%88%86%E5%86%B7%E8%B7%91%E5%87%BA%E5%AD%96%E8%80%81%E5%85%AC%E9%96%A8%E5%AF%86%E6%8B%89%E9%A0%AD%E9%A6%AC",
-    "timestamp": "2026-11-06T14:59:01.300Z",
     "strategy": ".content-card__main"
   }
 ];
