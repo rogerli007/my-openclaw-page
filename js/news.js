@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T00:38:08.866Z
+// Last updated: 2026-11-06T00:55:31.088Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高位接火棒慘蝕　屯門龍門居河景兩房400萬沽　四年樓價蒸發近3成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221019/659454953093468160837105.jpeg/e9SGhRLtppwGsw1F-SluBGkOxViQzCiTExjf_BMY3_w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407114/%E9%AB%98%E4%BD%8D%E6%8E%A5%E7%81%AB%E6%A3%92%E6%85%98%E8%9D%95-%E5%B1%AF%E9%96%80%E9%BE%8D%E9%96%80%E5%B1%85%E6%B2%B3%E6%99%AF%E5%85%A9%E6%88%BF400%E8%90%AC%E6%B2%BD-%E5%9B%9B%E5%B9%B4%E6%A8%93%E5%83%B9%E8%92%B8%E7%99%BC%E8%BF%913%E6%88%90",
+    "timestamp": "2026-11-06T00:55:31.088Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "太子美邦大廈熱水爐疑漏氣傳爆炸聲　女住戶遭碎片擊中前額受傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195199964880310272156234.jpeg/bOmlUW5caqAg_PpypN7PsWN05uuUH1fYUWOPvFFjj7w",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407698/%E9%80%A3%E9%8E%96%E9%A3%9F%E5%BA%97%E6%97%BA%E8%A7%92%E5%88%86%E5%BA%97%E9%A9%9A%E7%8F%BE3%E8%80%81%E9%BC%A0-%E7%82%AE%E5%8F%B0%E5%B1%B1%E5%88%86%E5%BA%97%E7%87%88%E7%AE%B1%E5%85%A7%E7%88%AC%E6%BB%BF%E8%9F%B2-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-05T18:45:40.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國民主黨擬推法案永久禁超級AI　違規比照核武級可囚20年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260719/1155456578984349696128364.jpeg/5yPt-dRvRz1ryiAtewNDZUpmpLCj1BXSXFfXlFxX15Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407700/%E7%BE%8E%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%93%AC%E6%8E%A8%E6%B3%95%E6%A1%88%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B6%85%E7%B4%9Aai-%E9%81%95%E8%A6%8F%E6%AF%94%E7%85%A7%E6%A0%B8%E6%AD%A6%E7%B4%9A%E5%8F%AF%E5%9B%9A20%E5%B9%B4",
-    "timestamp": "2026-11-05T18:29:15.613Z",
     "strategy": ".content-card__main"
   }
 ];
