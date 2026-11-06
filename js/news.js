@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T03:45:25.483Z
+// Last updated: 2026-11-06T03:53:48.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅湖口岸新接駁橋開通｜免日曬雨淋5分鐘直達商圈！香港出發攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195319678499557376582961.jpeg/gu7lgEqxBXWbwOP4wmYljbiA4J7Hxru3HcCkpx3ApKc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407755/%E7%BE%85%E6%B9%96%E5%8F%A3%E5%B2%B8%E6%96%B0%E6%8E%A5%E9%A7%81%E6%A9%8B%E9%96%8B%E9%80%9A-%E5%85%8D%E6%97%A5%E6%9B%AC%E9%9B%A8%E6%B7%8B5%E5%88%86%E9%90%98%E7%9B%B4%E9%81%94%E5%95%86%E5%9C%88-%E9%A6%99%E6%B8%AF%E5%87%BA%E7%99%BC%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-11-06T03:53:48.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬尼拉「Ativan幫」專獵外國客　華人險遭落藥　警方當場擒5賊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195245874205167616265178.jpeg/N1-Y2R6GvuVbQlMwY6KSUeYAmIicQpZoTqAutU6gLrU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407707/%E6%B3%95%E5%9C%8B%E5%B7%A5%E6%9C%83%E5%8A%A0%E5%85%A5%E6%8A%97%E8%AD%B0%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8B%95-%E8%A6%81%E6%B1%82%E6%8F%90%E9%AB%98%E5%B7%A5%E8%B3%87%E8%88%87%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E6%B0%B4%E5%B9%B3",
     "timestamp": "2026-11-05T21:53:36.863Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國司法部民權司長迪隆辭職　曾主導部門爭議改革",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195227555628584960348216.jpeg/96Awv2eLbVQ28OLrZxZXTAut-NSpx84BsyrUyLMq1Mg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407706/%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B0%91%E6%AC%8A%E5%8F%B8%E9%95%B7%E8%BF%AA%E9%9A%86%E8%BE%AD%E8%81%B7-%E6%9B%BE%E4%B8%BB%E5%B0%8E%E9%83%A8%E9%96%80%E7%88%AD%E8%AD%B0%E6%94%B9%E9%9D%A9",
-    "timestamp": "2026-11-05T21:25:57.646Z",
     "strategy": ".content-card__main"
   }
 ];
