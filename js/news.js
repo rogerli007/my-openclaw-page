@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T06:50:07.681Z
+// Last updated: 2026-11-06T07:21:30.759Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗發「台灣有事論」1週年　內閣官房長官重申對台立場未變",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195388574267084800409617.jpeg/2eDPNY_gheYVJtxvN-CGn3sOoID4w0O3rP4t7qz-Le4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407885/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BC-%E5%8F%B0%E7%81%A3%E6%9C%89%E4%BA%8B%E8%AB%96-1%E9%80%B1%E5%B9%B4-%E5%85%A7%E9%96%A3%E5%AE%98%E6%88%BF%E9%95%B7%E5%AE%98%E9%87%8D%E7%94%B3%E5%B0%8D%E5%8F%B0%E7%AB%8B%E5%A0%B4%E6%9C%AA%E8%AE%8A",
+    "timestamp": "2026-11-06T07:21:30.759Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日韓股市跌入「熊市」　韓國財政部長緊急回應︰密切關注市場狀況",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195302348700782592729651.png/B3JoKmBM4zyKx-r48kiV0imeBcr68us8YQSV72EEle8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60407726/%E9%9D%92%E5%A5%A72026-%E6%B8%AF%E9%9A%8A%E5%86%8D%E6%B7%BB%E5%85%A9%E9%8A%85%E7%89%8C-%E6%96%87%E8%96%88%E5%96%AC%E8%98%87%E7%B1%BD%E7%AB%A5%E9%BD%8A%E5%A5%AA%E4%BB%8A%E5%B1%86%E7%AC%AC%E4%BA%8C%E9%9D%A2%E7%8D%8E%E7%89%8C",
     "timestamp": "2026-11-06T01:21:23.610Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高位接火棒慘蝕　屯門龍門居河景兩房400萬沽　四年樓價蒸發近3成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221019/659454953093468160837105.jpeg/e9SGhRLtppwGsw1F-SluBGkOxViQzCiTExjf_BMY3_w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407114/%E9%AB%98%E4%BD%8D%E6%8E%A5%E7%81%AB%E6%A3%92%E6%85%98%E8%9D%95-%E5%B1%AF%E9%96%80%E9%BE%8D%E9%96%80%E5%B1%85%E6%B2%B3%E6%99%AF%E5%85%A9%E6%88%BF400%E8%90%AC%E6%B2%BD-%E5%9B%9B%E5%B9%B4%E6%A8%93%E5%83%B9%E8%92%B8%E7%99%BC%E8%BF%913%E6%88%90",
-    "timestamp": "2026-11-06T00:55:31.088Z",
     "strategy": ".content-card__main"
   }
 ];
