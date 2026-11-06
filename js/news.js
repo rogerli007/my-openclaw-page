@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T17:53:27.968Z
+// Last updated: 2026-11-06T18:17:55.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國律師指責警方示威中過度使用武力　計劃起訴內政部長追究責任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195245874205167616265178.jpeg/N1-Y2R6GvuVbQlMwY6KSUeYAmIicQpZoTqAutU6gLrU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408078/%E6%B3%95%E5%9C%8B%E5%BE%8B%E5%B8%AB%E6%8C%87%E8%B2%AC%E8%AD%A6%E6%96%B9%E7%A4%BA%E5%A8%81%E4%B8%AD%E9%81%8E%E5%BA%A6%E4%BD%BF%E7%94%A8%E6%AD%A6%E5%8A%9B-%E8%A8%88%E5%8A%83%E8%B5%B7%E8%A8%B4%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB",
+    "timestamp": "2026-11-06T18:17:55.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中期選舉失利後美司法部爆出走潮　再有兩名高官辭職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185285192219103232753169.jpeg/_PqubVeE1cv3npl6POUWEG-mSGw8YfxtoyLzSKMi80g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60406328/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E20%E9%9B%86%E5%A4%A7%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%B1%9F%E7%BE%8E%E5%84%80%E9%99%B3%E7%80%85%E6%89%BE%E5%BC%B5%E6%99%BA%E9%9C%96%E7%BD%AA%E8%AD%89-%E5%90%B3%E5%8D%93%E7%BE%B2%E8%A2%AB%E8%83%8C%E5%8F%9B",
     "timestamp": "2026-11-06T12:41:32.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球韓國賽︱李卓耀勝台黑馬　吳英倫挫真廷　港將包辦4強兩席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185263799456763904835169.jpeg/Cc8t5d6pQSIKwlDd_4e9MoQCh44E1R_6JcF6XyXBel8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408038/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%80%E5%8B%9D%E5%8F%B0%E9%BB%91%E9%A6%AC-%E5%90%B3%E8%8B%B1%E5%80%AB%E6%8C%AB%E7%9C%9F%E5%BB%B7-%E6%B8%AF%E5%B0%87%E5%8C%85%E8%BE%A64%E5%BC%B7%E5%85%A9%E5%B8%AD",
-    "timestamp": "2026-11-06T12:18:52.595Z",
     "strategy": ".content-card__main"
   }
 ];
