@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T23:44:25.280Z
+// Last updated: 2026-11-06T23:59:11.549Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "開業逾半世紀　太子弼街金華冰廳廚所火警　5人須疏散",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195644035843231744783601.jpeg/ppdpam3z0bt2hYKIxW5Di1xjDESDuWgDnb3c4p293OI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408092/%E9%96%8B%E6%A5%AD%E9%80%BE%E5%8D%8A%E4%B8%96%E7%B4%80-%E5%A4%AA%E5%AD%90%E5%BC%BC%E8%A1%97%E9%87%91%E8%8F%AF%E5%86%B0%E5%BB%B3%E5%BB%9A%E6%89%80%E7%81%AB%E8%AD%A6-5%E4%BA%BA%E9%A0%88%E7%96%8F%E6%95%A3",
+    "timestamp": "2026-11-06T23:59:11.549Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前女友另嫁同村男　貴州男質疑出軌報復　潛入家中投老鼠藥囚4年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195245874205167616265178.jpeg/N1-Y2R6GvuVbQlMwY6KSUeYAmIicQpZoTqAutU6gLrU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408078/%E6%B3%95%E5%9C%8B%E5%BE%8B%E5%B8%AB%E6%8C%87%E8%B2%AC%E8%AD%A6%E6%96%B9%E7%A4%BA%E5%A8%81%E4%B8%AD%E9%81%8E%E5%BA%A6%E4%BD%BF%E7%94%A8%E6%AD%A6%E5%8A%9B-%E8%A8%88%E5%8A%83%E8%B5%B7%E8%A8%B4%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB",
     "timestamp": "2026-11-06T18:59:11.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國律師指責警方示威中過度使用武力　計劃起訴內政部長追究責任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195245874205167616265178.jpeg/N1-Y2R6GvuVbQlMwY6KSUeYAmIicQpZoTqAutU6gLrU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408078/%E6%B3%95%E5%9C%8B%E5%BE%8B%E5%B8%AB%E6%8C%87%E8%B2%AC%E8%AD%A6%E6%96%B9%E7%A4%BA%E5%A8%81%E4%B8%AD%E9%81%8E%E5%BA%A6%E4%BD%BF%E7%94%A8%E6%AD%A6%E5%8A%9B-%E8%A8%88%E5%8A%83%E8%B5%B7%E8%A8%B4%E5%85%A7%E6%94%BF%E9%83%A8%E9%95%B7%E8%BF%BD%E7%A9%B6%E8%B2%AC%E4%BB%BB",
-    "timestamp": "2026-11-06T18:35:06.139Z",
     "strategy": ".content-card__main"
   }
 ];
