@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T19:17:59.023Z
+// Last updated: 2026-11-06T19:29:18.904Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖東私家車行車不穩遇截查　39歲男司機「吹爆波」　涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195570813940535296374618.jpeg/YbxDy4cTO5BJSph4nc3vX6lv4dDQMzSV0rGElOixhJQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408080/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E6%88%AA%E6%9F%A5-39%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-06T19:29:18.904Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖東私家車行車不穩遇截查　39歲男司機「吹爆波」　涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195469491803262976605782.jpeg/jPFdseivvYvTC7rDH8z_TYx1aXN7NLdFdJ1CzVGdQs0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408018/%E6%97%BA%E8%A7%92%E6%96%B0%E8%A8%BA%E6%89%80-199%E9%80%A33%E6%97%A5%E8%97%A5%E6%83%B9%E8%AD%B0-%E9%86%AB%E7%94%9F%E8%A6%AA%E8%A7%A3%E4%BD%8E%E6%94%B6%E8%B2%BB-%E7%9B%BC%E7%97%85%E4%BA%BA%E5%85%8D%E9%80%BC%E6%80%A5%E7%97%87%E5%AE%A4",
     "timestamp": "2026-11-06T13:53:49.586Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊焉爆患癌家人險中免疫針騙局　痛批涉事中介食人血饅頭極陰質",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195475778247069696138975.jpeg/_tMP-NGpvKLvN7A_OWV59KwHa9TMn5kAuPtCK7j7Qis?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408034/%E6%A5%8A%E7%84%89%E7%88%86%E6%82%A3%E7%99%8C%E5%AE%B6%E4%BA%BA%E9%9A%AA%E4%B8%AD%E5%85%8D%E7%96%AB%E9%87%9D%E9%A8%99%E5%B1%80-%E7%97%9B%E6%89%B9%E6%B6%89%E4%BA%8B%E4%B8%AD%E4%BB%8B%E9%A3%9F%E4%BA%BA%E8%A1%80%E9%A5%85%E9%A0%AD%E6%A5%B5%E9%99%B0%E8%B3%AA",
-    "timestamp": "2026-11-06T13:42:50.423Z",
     "strategy": ".content-card__main"
   }
 ];
