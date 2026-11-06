@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T07:54:49.747Z
+// Last updated: 2026-11-06T08:24:28.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CCL連跌四周報159.11點　見近5個月低位　分析：料下試158點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195409096954613760760425.jpeg/RTZjjqbYhhRo1ASeTZPLOdepRcwu3-sYgSRQ6oEkUOo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407929/ccl%E9%80%A3%E8%B7%8C%E5%9B%9B%E5%91%A8%E5%A0%B1159-11%E9%BB%9E-%E8%A6%8B%E8%BF%915%E5%80%8B%E6%9C%88%E4%BD%8E%E4%BD%8D-%E5%88%86%E6%9E%90-%E6%96%99%E4%B8%8B%E8%A9%A6158%E9%BB%9E",
+    "timestamp": "2026-11-06T08:24:28.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國中期選舉｜防長赫格塞思成眾矢之的　拍片反擊：這招對我沒用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210128/431463403970629632097328.jpeg/CXlCvFgI7KJ20NfkqXPuJzl4UIs5uCiCttle5bbZXuU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407746/8%E4%BC%91%E7%8F%AD%E8%AD%A6-1050%E8%90%AC%E6%B4%97%E9%BB%91%E9%8C%A2%E6%A1%88-34%E6%AD%B2%E5%81%9C%E8%81%B7%E7%94%B7%E8%AD%A6%E8%A2%AB%E6%8E%A7%E6%AC%BA%E8%A9%90%E7%BD%AA%E4%BB%8A%E6%8F%90%E5%A0%82",
     "timestamp": "2026-11-06T02:24:38.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：中國月之暗面擬繞過美國限制　租用英偉達歐洲先進晶片算力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195312520248692736509827.jpeg/zm3ZYChESNpBpXmQE-OnkWgDmrvxPA7dPfHu9D3x7vQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407734/%E7%BE%8E%E5%AA%92-%E4%B8%AD%E5%9C%8B%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E6%93%AC%E7%B9%9E%E9%81%8E%E7%BE%8E%E5%9C%8B%E9%99%90%E5%88%B6-%E7%A7%9F%E7%94%A8%E8%8B%B1%E5%81%89%E9%81%94%E6%AD%90%E6%B4%B2%E5%85%88%E9%80%B2%E6%99%B6%E7%89%87%E7%AE%97%E5%8A%9B",
-    "timestamp": "2026-11-06T01:59:03.758Z",
     "strategy": ".content-card__main"
   }
 ];
