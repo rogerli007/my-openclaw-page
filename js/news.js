@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T20:20:07.076Z
+// Last updated: 2026-11-06T20:45:35.039Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地現時點男賊偷卡　得手逃走露內褲　店方：驚到甩褲？｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195579754091122688063519.jpeg/LNa5p4SD4i9RDkadDzpzzmlpIemctcd05uCbfebgm30",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408083/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%8F%BE%E6%99%82%E9%BB%9E%E7%94%B7%E8%B3%8A%E5%81%B7%E5%8D%A1-%E5%BE%97%E6%89%8B%E9%80%83%E8%B5%B0%E9%9C%B2%E5%85%A7%E8%A4%B2-%E5%BA%97%E6%96%B9-%E9%A9%9A%E5%88%B0%E7%94%A9%E8%A4%B2-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-06T20:45:35.039Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地現時點男賊偷卡　得手逃走露內褲　店方：驚到甩褲？｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195474067751178240264103.png/hJuE_gZHFZ9puCP_Tt27q4VuSOGhg48nHn8JlR5_CZU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408043/%E6%98%94%E6%97%A5%E5%A4%A9%E6%B0%A3%E5%A5%B3%E9%83%8E%E9%BB%83%E5%A9%89%E6%9B%BC%E5%AB%81%E5%BE%97%E5%A5%BD-%E5%81%9A%E9%A6%AC%E4%B8%BB%E6%84%9B%E9%A7%92%E7%88%86%E5%86%B7%E8%B7%91%E5%87%BA%E5%AD%96%E8%80%81%E5%85%AC%E9%96%A8%E5%AF%86%E6%8B%89%E9%A0%AD%E9%A6%AC",
     "timestamp": "2026-11-06T14:59:01.300Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門怡樂花園法團收廉署通知取消業主大會　據悉顧問公司成員被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251215/1077289933808340992192640.jpeg/ImWkGvKKM6twVSvYegk67iL42AqJiwtT4XKSi8tykos?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408057/%E5%B1%AF%E9%96%80%E6%80%A1%E6%A8%82%E8%8A%B1%E5%9C%92%E6%B3%95%E5%9C%98%E6%94%B6%E5%BB%89%E7%BD%B2%E9%80%9A%E7%9F%A5%E5%8F%96%E6%B6%88%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E6%93%9A%E6%82%89%E9%A1%A7%E5%95%8F%E5%85%AC%E5%8F%B8%E6%88%90%E5%93%A1%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-06T14:39:38.372Z",
     "strategy": ".content-card__main"
   }
 ];
