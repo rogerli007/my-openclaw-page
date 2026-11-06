@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T06:26:42.908Z
+// Last updated: 2026-11-06T06:50:07.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日韓股市跌入「熊市」　韓國財政部長緊急回應︰密切關注市場狀況",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195385309496348672419730.jpeg/yIvYOAtSHtjDuzA7lL_hrKpB6dVWMWdGbVF1m21RdZs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60407875/%E6%97%A5%E9%9F%93%E8%82%A1%E5%B8%82%E8%B7%8C%E5%85%A5-%E7%86%8A%E5%B8%82-%E9%9F%93%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E9%95%B7%E7%B7%8A%E6%80%A5%E5%9B%9E%E6%87%89-%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E5%B8%82%E5%A0%B4%E7%8B%80%E6%B3%81",
+    "timestamp": "2026-11-06T06:50:07.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 20週年新爆料：首搭四微曲面迎來零邊框　動態島仍保留？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221019/659454953093468160837105.jpeg/e9SGhRLtppwGsw1F-SluBGkOxViQzCiTExjf_BMY3_w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407114/%E9%AB%98%E4%BD%8D%E6%8E%A5%E7%81%AB%E6%A3%92%E6%85%98%E8%9D%95-%E5%B1%AF%E9%96%80%E9%BE%8D%E9%96%80%E5%B1%85%E6%B2%B3%E6%99%AF%E5%85%A9%E6%88%BF400%E8%90%AC%E6%B2%BD-%E5%9B%9B%E5%B9%B4%E6%A8%93%E5%83%B9%E8%92%B8%E7%99%BC%E8%BF%913%E6%88%90",
     "timestamp": "2026-11-06T00:55:31.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太子美邦大廈熱水爐疑漏氣傳爆炸聲　女住戶遭碎片擊中前額受傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195286959900069888819034.jpeg/e11wwQXRQ90kPZIV8EIiNypJk3TrUHnAdMlrTXTJa00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60407714/%E5%A4%AA%E5%AD%90%E7%BE%8E%E9%82%A6%E5%A4%A7%E5%BB%88%E7%86%B1%E6%B0%B4%E7%88%90%E7%96%91%E6%BC%8F%E6%B0%A3%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E5%A5%B3%E4%BD%8F%E6%88%B6%E9%81%AD%E7%A2%8E%E7%89%87%E6%93%8A%E4%B8%AD%E5%89%8D%E9%A1%8D%E5%8F%97%E5%82%B7",
-    "timestamp": "2026-11-06T00:38:08.866Z",
     "strategy": ".content-card__main"
   }
 ];
