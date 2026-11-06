@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T10:45:23.043Z
+// Last updated: 2026-11-06T10:59:02.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NHK：日本關東地區東部近海發生6.1級地震",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195449754796953600408926.png/HQsQUaYkNHY7GwQ958VDaPKcXFQ5cZdqxICmGsSApho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408010/nhk-%E6%97%A5%E6%9C%AC%E9%97%9C%E6%9D%B1%E5%9C%B0%E5%8D%80%E6%9D%B1%E9%83%A8%E8%BF%91%E6%B5%B7%E7%99%BC%E7%94%9F6-1%E7%B4%9A%E5%9C%B0%E9%9C%87",
+    "timestamp": "2026-11-06T10:59:02.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宣萱嘆《騙中傳奇》拍得最辛苦　與古天樂未能見證張家輝上紅館",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231130/806805888923865088972850.jpeg/R70k0yaYiHGlej46e6m4Fr8GA2zfsU0H243kv9uN5L8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60407814/%E8%9D%95%E8%AE%93%E4%B9%8B%E5%9F%8E-%E6%AF%94%E8%8F%AF%E5%88%A9%E5%B1%B1%E5%88%A5%E5%A2%85%E9%8A%80%E4%B8%BB%E7%9B%A42268%E8%90%AC%E8%9D%95%E6%B2%BD-15%E5%B9%B4%E5%B8%B3%E5%8B%81%E8%9D%95%E9%80%BE%E5%9B%9B%E6%88%90%E9%9B%A2%E5%A0%B4",
     "timestamp": "2026-11-06T04:45:33.832Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "食蜆補血兼減肥？鐵質高西冷牛扒3倍！一文拆解沙白蜆功效禁忌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195046436366979072357064.jpeg/frdf6f-7s1Te1Igj4EwOMKfXLxTIipt3Mc1RJzHNUSc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407310/%E9%A3%9F%E8%9C%86%E8%A3%9C%E8%A1%80%E5%85%BC%E6%B8%9B%E8%82%A5-%E9%90%B5%E8%B3%AA%E9%AB%98%E8%A5%BF%E5%86%B7%E7%89%9B%E6%89%923%E5%80%8D-%E4%B8%80%E6%96%87%E6%8B%86%E8%A7%A3%E6%B2%99%E7%99%BD%E8%9C%86%E5%8A%9F%E6%95%88%E7%A6%81%E5%BF%8C",
-    "timestamp": "2026-11-06T04:22:44.486Z",
     "strategy": ".content-card__main"
   }
 ];
