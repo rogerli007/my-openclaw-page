@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T04:59:21.714Z
+// Last updated: 2026-11-06T05:20:41.800Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城大結局丨江美儀護子成魔　張智霖2分半鐘淚之獨白考演技",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195358278733795328845026.png/CI0C4jjzPGaDcng7-nDGie_FB4DG3H-EjVmnBI1ZpwQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407822/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E%E5%A4%A7%E7%B5%90%E5%B1%80-%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AD%B7%E5%AD%90%E6%88%90%E9%AD%94-%E5%BC%B5%E6%99%BA%E9%9C%962%E5%88%86%E5%8D%8A%E9%90%98%E6%B7%9A%E4%B9%8B%E7%8D%A8%E7%99%BD%E8%80%83%E6%BC%94%E6%8A%80",
+    "timestamp": "2026-11-06T05:20:41.800Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "入境處破跨境集團　提供假身份證做黑工　15人被捕主腦判囚入獄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190256610618904576283641.jpeg/F6SZ8oWj1hcaMznXQEj0dEQnq6-F-RdBohzcC6Ic3As?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60402092/%E6%8F%9B%E5%AD%A3%E8%A1%80%E5%A3%93%E5%9D%90%E9%81%8E%E5%B1%B1%E8%BB%8A-%E7%9D%A1%E9%86%92%E4%B8%8B%E5%BA%8A%E6%9C%80%E5%8D%B1%E9%9A%AA-%E9%86%AB%E7%94%9F%E6%8F%AD%E6%8F%9B%E5%AD%A3%E4%BF%9D%E5%91%BD%E4%BA%94%E5%AD%97%E8%A8%A3",
     "timestamp": "2026-11-05T23:29:00.177Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧否認擬離開特朗普政府　但拒談會否角逐下屆總統",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260515/1131801161817395200504698.jpeg/vurRA7KpMvk8jLWLDmU3UZ06VU2R---y1kOqddZDqnU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60407710/%E9%AD%AF%E6%AF%94%E5%A5%A7%E5%90%A6%E8%AA%8D%E6%93%AC%E9%9B%A2%E9%96%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C-%E4%BD%86%E6%8B%92%E8%AB%87%E6%9C%83%E5%90%A6%E8%A7%92%E9%80%90%E4%B8%8B%E5%B1%86%E7%B8%BD%E7%B5%B1",
-    "timestamp": "2026-11-05T23:13:20.069Z",
     "strategy": ".content-card__main"
   }
 ];
