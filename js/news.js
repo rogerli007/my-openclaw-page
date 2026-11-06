@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-06T22:14:15.679Z
+// Last updated: 2026-11-06T22:29:14.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美俄烏三方會談即將登場　普京證實11.10於阿布扎比舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195421557959168000914065.jpeg/R7DOzGDcbewcwek317pQV0Twx5J67uIOXilv1F4pb9Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408087/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4-%E6%99%AE%E4%BA%AC%E8%AD%89%E5%AF%A611-10%E6%96%BC%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-11-06T22:29:14.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立冬天氣｜今日早晚一兩陣雨　最高氣溫29度　預料下周二最低18度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195539806084403200954182.jpeg/mFbVqCqHK5d_OyUnghFXH3K1NjkpXyUg8HPYYPBz2GA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408075/%E5%85%83%E6%9C%97%E7%99%BD%E6%B2%99%E6%9D%91%E8%B2%A8%E5%80%89%E4%B8%89%E7%B4%9A%E5%A4%A7%E7%81%AB-12%E4%BA%BA%E7%96%8F%E6%95%A3-%E6%B6%88%E9%98%B2%E5%8B%95%E7%94%A83%E6%A2%9D%E5%96%89%E7%81%8C%E6%95%91",
     "timestamp": "2026-11-06T16:59:16.587Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "穀雨｜50歲張頌文喊同齡李小冉「岳母」娶差21歲張雪迎爆利益婚姻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195432459576020992750928.png/NAHsMiQIRcAeEVC_TQTPUVkVgMMn2DkyPQS8RD0EvEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407941/%E7%A9%80%E9%9B%A8-50%E6%AD%B2%E5%BC%B5%E9%A0%8C%E6%96%87%E5%96%8A%E5%90%8C%E9%BD%A1%E6%9D%8E%E5%B0%8F%E5%86%89-%E5%B2%B3%E6%AF%8D-%E5%A8%B6%E5%B7%AE21%E6%AD%B2%E5%BC%B5%E9%9B%AA%E8%BF%8E%E7%88%86%E5%88%A9%E7%9B%8A%E5%A9%9A%E5%A7%BB",
-    "timestamp": "2026-11-06T16:45:26.074Z",
     "strategy": ".content-card__main"
   }
 ];
