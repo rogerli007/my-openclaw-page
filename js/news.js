@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T15:17:55.220Z
+// Last updated: 2026-11-07T15:29:20.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩11.10頭獎1500萬攪珠前攻略！6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230623/749061498940166144456297.jpeg/FlJ40gvZM1yh8h2E20_maBquOLGoJA4ppr-0qaa_tKk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408305/%E5%85%AD%E5%90%88%E5%BD%A911-10%E9%A0%AD%E7%8D%8E1500%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E6%94%BB%E7%95%A5-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-11-07T15:29:20.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩11.10頭獎1500萬攪珠前攻略！6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172631504208007168830719.jpeg/VgGzEmMhLI3LFeY2UEHMOqO1CGpMlUnFCgWxezwFsXs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408226/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD-%E5%90%B3%E8%8B%B1%E5%80%AB%E8%BC%95%E5%8F%96%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E7%8E%8B%E5%AD%90%E7%B6%AD%E5%85%A5%E6%B1%BA%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%804%E5%BC%B7%E6%AD%A2%E6%AD%A5",
     "timestamp": "2026-11-07T09:29:17.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國擬再迎新一輪示威　政府部署7萬警力嚴陣以待",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195089808943222784215984.jpeg/-K4Ngk05TMaYt8fZeB184dtn0imV4dIZdZ0nIXWdJyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408220/%E6%B3%95%E5%9C%8B%E6%93%AC%E5%86%8D%E8%BF%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A4%BA%E5%A8%81-%E6%94%BF%E5%BA%9C%E9%83%A8%E7%BD%B27%E8%90%AC%E8%AD%A6%E5%8A%9B%E5%9A%B4%E9%99%A3%E4%BB%A5%E5%BE%85",
-    "timestamp": "2026-11-07T09:14:51.836Z",
     "strategy": ".content-card__main"
   }
 ];
