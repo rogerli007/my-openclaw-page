@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T15:59:03.859Z
+// Last updated: 2026-11-07T16:19:51.686Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王文濤會晤奧地利經濟旅遊部長　指冀奧方為中企投資營造公平環境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195889271379070976721904.jpeg/msje9gVrkXpKo-CtcWQpgFuo3_jhzl7BKVCHOylQhzs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408308/%E7%8E%8B%E6%96%87%E6%BF%A4%E6%9C%83%E6%99%A4%E5%A5%A7%E5%9C%B0%E5%88%A9%E7%B6%93%E6%BF%9F%E6%97%85%E9%81%8A%E9%83%A8%E9%95%B7-%E6%8C%87%E5%86%80%E5%A5%A7%E6%96%B9%E7%82%BA%E4%B8%AD%E4%BC%81%E6%8A%95%E8%B3%87%E7%87%9F%E9%80%A0%E5%85%AC%E5%B9%B3%E7%92%B0%E5%A2%83",
+    "timestamp": "2026-11-07T16:19:51.686Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "波蘭克拉科夫市發生槍擊事件　至少5死10傷　槍手已被捕動機不明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195796271877591040601473.png/WQpLYaIP6PMVVmvNG4J0dJTnBTBZu1iidzSXzHc0l8w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408235/23%E6%AD%B2%E4%B8%AD%E5%9C%8B%E5%A5%B3%E9%81%8A%E5%AE%A2%E6%B6%89%E7%9B%9C%E7%AB%8A%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%8D%95-%E5%B0%88%E6%94%BB24%E5%B0%8F%E6%99%82%E5%81%A5%E8%BA%AB%E5%AE%A4%E6%88%96%E6%B6%89%E6%A1%8810%E5%A4%9A%E5%AE%97",
     "timestamp": "2026-11-07T10:44:55.190Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港超聯｜大衛施華首戰建功再膺最佳球員　感激香港球迷熱情支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195798466958200832719635.jpeg/Id-8DM_BZjejdTT4afC-FCNCt4Gee0asOA1fvjgNX74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408237/%E6%B8%AF%E8%B6%85%E8%81%AF-%E5%A4%A7%E8%A1%9B%E6%96%BD%E8%8F%AF%E9%A6%96%E6%88%B0%E5%BB%BA%E5%8A%9F%E5%86%8D%E8%86%BA%E6%9C%80%E4%BD%B3%E7%90%83%E5%93%A1-%E6%84%9F%E6%BF%80%E9%A6%99%E6%B8%AF%E7%90%83%E8%BF%B7%E7%86%B1%E6%83%85%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-11-07T10:18:56.870Z",
     "strategy": ".content-card__main"
   }
 ];
