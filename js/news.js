@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T04:26:13.269Z
+// Last updated: 2026-11-07T04:45:14.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴拉圭銀行倒閉風波　總統培尼亞遭彈劾後被捕軟禁　副總統接任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195715585833439232149830.jpeg/h97z3kar38HDwc5RjxsKkatE_dZ3AvDSgTq8cYE6vHE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408133/%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%8A%80%E8%A1%8C%E5%80%92%E9%96%89%E9%A2%A8%E6%B3%A2-%E7%B8%BD%E7%B5%B1%E5%9F%B9%E5%B0%BC%E4%BA%9E%E9%81%AD%E5%BD%88%E5%8A%BE%E5%BE%8C%E8%A2%AB%E6%8D%95%E8%BB%9F%E7%A6%81-%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%8E%A5%E4%BB%BB",
+    "timestamp": "2026-11-07T04:45:14.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "基本法頒布36周年｜李家超：有效實踐　確保香港長期繁榮穩定",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195421557959168000914065.jpeg/R7DOzGDcbewcwek317pQV0Twx5J67uIOXilv1F4pb9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408087/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4-%E6%99%AE%E4%BA%AC%E8%AD%89%E5%AF%A611-10%E6%96%BC%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%88%89%E8%A1%8C",
     "timestamp": "2026-11-06T22:45:02.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美俄烏三方會談即將登場　普京證實11.10於阿布扎比舉行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195421557959168000914065.jpeg/R7DOzGDcbewcwek317pQV0Twx5J67uIOXilv1F4pb9Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408087/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4-%E6%99%AE%E4%BA%AC%E8%AD%89%E5%AF%A611-10%E6%96%BC%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%88%89%E8%A1%8C",
-    "timestamp": "2026-11-06T22:29:14.895Z",
     "strategy": ".content-card__main"
   }
 ];
