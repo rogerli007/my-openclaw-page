@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T17:17:35.883Z
+// Last updated: 2026-11-07T17:29:36.724Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀的士撞醉男途人　傷者頭部流血　昏迷送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195908398743293952158769.jpeg/TXazIR7IJSrrql1FVsb3QOjHtPxasz_uvqwoCoSsKAo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408309/%E5%B0%96%E6%B2%99%E5%92%80%E7%9A%84%E5%A3%AB%E6%92%9E%E9%86%89%E7%94%B7%E9%80%94%E4%BA%BA-%E5%82%B7%E8%80%85%E9%A0%AD%E9%83%A8%E6%B5%81%E8%A1%80-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-11-07T17:29:36.724Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LOL世界賽2026｜英雄聯盟4強名單!準決賽程時間結果+免費直播連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195820193272565760789260.png/UPXjTmuIWrkxubyGxLJg1V8T99ofzAAVKCCZbSggmW0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408266/%E6%97%A5%E6%9C%AC%E8%8C%A8%E5%9F%8E%E7%B8%A3%E5%B0%8D%E9%96%8B%E6%B5%B7%E5%9F%9F5-6%E7%B4%9A%E6%B7%BA%E5%B1%A4%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A63%E7%B4%9A",
     "timestamp": "2026-11-07T11:44:50.397Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新西蘭大選：兩黨得票跌破三成　執政聯盟料議席過半但僅一席優勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195808801677119488762395.jpeg/ww-May85ja3RbZx0ZLgsGydHNZ970swXJy0jsictI7I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408250/%E6%96%B0%E8%A5%BF%E8%98%AD%E5%A4%A7%E9%81%B8-%E5%85%A9%E9%BB%A8%E5%BE%97%E7%A5%A8%E8%B7%8C%E7%A0%B4%E4%B8%89%E6%88%90-%E5%9F%B7%E6%94%BF%E8%81%AF%E7%9B%9F%E6%96%99%E8%AD%B0%E5%B8%AD%E9%81%8E%E5%8D%8A%E4%BD%86%E5%83%85%E4%B8%80%E5%B8%AD%E5%84%AA%E5%8B%A2",
-    "timestamp": "2026-11-07T11:29:06.073Z",
     "strategy": ".content-card__main"
   }
 ];
