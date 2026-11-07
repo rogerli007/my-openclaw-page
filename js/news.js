@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T17:29:36.724Z
+// Last updated: 2026-11-07T17:44:59.192Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀醉男衝出馬路　遭的士撞飛30米　傷者頭傷昏迷送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195911081516601344793280.jpeg/44pEaWbiFaDgCPXo5DiIQftyPZBfAqSWQHUicHp1InA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408309/%E5%B0%96%E6%B2%99%E5%92%80%E9%86%89%E7%94%B7%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E9%81%AD%E7%9A%84%E5%A3%AB%E6%92%9E%E9%A3%9B30%E7%B1%B3-%E5%82%B7%E8%80%85%E9%A0%AD%E5%82%B7%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-11-07T17:44:59.192Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀的士撞醉男途人　傷者頭部流血　昏迷送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195754481472507904612098.png/bcZ3y-Sn31B2gb3hQ5vzt_dKFfCb7AOXFuextxbnsbc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408170/%E6%88%B2%E8%AA%AA%E5%8F%B0%E7%81%A3-%E6%9E%97%E5%A7%BF%E8%A8%80%E5%8F%A4%E8%A3%9D%E6%92%9E%E6%A8%A3bigbang%E5%A4%A7%E8%81%B2-%E5%B0%8D%E6%AF%94%E5%9C%96%E7%98%8B%E5%82%B3%E8%BF%91150%E8%90%AC%E7%80%8F%E8%A6%BD",
     "timestamp": "2026-11-07T11:53:23.459Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本茨城縣對開海域5.6級淺層地震　最大震度3級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195820193272565760789260.png/UPXjTmuIWrkxubyGxLJg1V8T99ofzAAVKCCZbSggmW0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408266/%E6%97%A5%E6%9C%AC%E8%8C%A8%E5%9F%8E%E7%B8%A3%E5%B0%8D%E9%96%8B%E6%B5%B7%E5%9F%9F5-6%E7%B4%9A%E6%B7%BA%E5%B1%A4%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A63%E7%B4%9A",
-    "timestamp": "2026-11-07T11:44:50.397Z",
     "strategy": ".content-card__main"
   }
 ];
