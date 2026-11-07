@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T11:44:50.397Z
+// Last updated: 2026-11-07T11:53:23.459Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《戲說台灣》林姿言古裝撞樣BIGBANG大聲　對比圖瘋傳近150萬瀏覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195754481472507904612098.png/bcZ3y-Sn31B2gb3hQ5vzt_dKFfCb7AOXFuextxbnsbc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408170/%E6%88%B2%E8%AA%AA%E5%8F%B0%E7%81%A3-%E6%9E%97%E5%A7%BF%E8%A8%80%E5%8F%A4%E8%A3%9D%E6%92%9E%E6%A8%A3bigbang%E5%A4%A7%E8%81%B2-%E5%B0%8D%E6%AF%94%E5%9C%96%E7%98%8B%E5%82%B3%E8%BF%91150%E8%90%AC%E7%80%8F%E8%A6%BD",
+    "timestamp": "2026-11-07T11:53:23.459Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本茨城縣對開海域5.6級淺層地震　最大震度3級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194631687124815872089132.jpeg/aLD-_LeInLJEOhMz7vQw4dAIYwOXwciFStnLLUrZyy0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60406959/%E7%AB%8B%E5%86%AC2026-%E4%B8%AD%E9%86%AB%E6%95%99%E6%BA%AB%E8%A3%9C%E9%A4%8A%E8%85%8E%E6%8E%A8%E4%BB%8B8%E9%A3%9F%E7%89%A9%E4%BA%BA%E5%8F%83%E5%95%B1%E5%94%94%E5%95%B1-4%E6%AC%BE%E6%B9%AF%E6%B0%B4%E5%81%A5%E8%84%BE%E6%BB%8B%E9%99%B0",
     "timestamp": "2026-11-07T05:59:04.830Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警方守網者聯乘WhatsApp　提3大關鍵防假冒陷阱　識別官方支援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195727673117118464427360.jpeg/_1sgjFLz8PumNsl5uheUSpjc5PXTd_14_kIhwP5CIcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408150/%E8%AD%A6%E6%96%B9%E5%AE%88%E7%B6%B2%E8%80%85%E8%81%AF%E4%B9%98whatsapp-%E6%8F%903%E5%A4%A7%E9%97%9C%E9%8D%B5%E9%98%B2%E5%81%87%E5%86%92%E9%99%B7%E9%98%B1-%E8%AD%98%E5%88%A5%E5%AE%98%E6%96%B9%E6%94%AF%E6%8F%B4",
-    "timestamp": "2026-11-07T05:45:19.154Z",
     "strategy": ".content-card__main"
   }
 ];
