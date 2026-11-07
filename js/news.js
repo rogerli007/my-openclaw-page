@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T04:16:16.624Z
+// Last updated: 2026-11-07T04:26:13.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "基本法頒布36周年｜李家超：有效實踐　確保香港長期繁榮穩定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195705074676928512280795.png/ZrSP6a5CToE7Rs0x9xePkqLMMttvb7m_Q2UlSUNlJUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408128/%E5%9F%BA%E6%9C%AC%E6%B3%95%E9%A0%92%E5%B8%8336%E5%91%A8%E5%B9%B4-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%9C%89%E6%95%88%E5%AF%A6%E8%B8%90-%E7%A2%BA%E4%BF%9D%E9%A6%99%E6%B8%AF%E9%95%B7%E6%9C%9F%E7%B9%81%E6%A6%AE%E7%A9%A9%E5%AE%9A",
+    "timestamp": "2026-11-07T04:26:13.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海洋公園鬼屋假石堵路出口欠斜道　輪椅客卡關折返仍讚體驗望再訪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195421557959168000914065.jpeg/R7DOzGDcbewcwek317pQV0Twx5J67uIOXilv1F4pb9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408087/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4-%E6%99%AE%E4%BA%AC%E8%AD%89%E5%AF%A611-10%E6%96%BC%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%88%89%E8%A1%8C",
     "timestamp": "2026-11-06T22:29:14.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立冬天氣｜今日早晚一兩陣雨　最高氣溫29度　預料下周二最低18度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195615390915366912062491.jpeg/w0VrndCtP8hjN0Ob8IF8t9e6ewIh-Od9vVP0YYdT9GE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408086/%E7%AB%8B%E5%86%AC%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB29%E5%BA%A6-%E9%A0%90%E6%96%99%E4%B8%8B%E5%91%A8%E4%BA%8C%E6%9C%80%E4%BD%8E18%E5%BA%A6",
-    "timestamp": "2026-11-06T22:14:15.679Z",
     "strategy": ".content-card__main"
   }
 ];
