@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T12:59:11.280Z
+// Last updated: 2026-11-07T13:18:14.682Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前TVB主播「翻版姚子羚」鄧詩穎升格人母　離巢後轉型做大學講師",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195821105558851584358961.jpeg/Wavb98vGt4rvryRTAUZXFUveON7J9LO80o4lQNKOJUA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408261/%E5%89%8Dtvb%E4%B8%BB%E6%92%AD-%E7%BF%BB%E7%89%88%E5%A7%9A%E5%AD%90%E7%BE%9A-%E9%84%A7%E8%A9%A9%E7%A9%8E%E5%8D%87%E6%A0%BC%E4%BA%BA%E6%AF%8D-%E9%9B%A2%E5%B7%A2%E5%BE%8C%E8%BD%89%E5%9E%8B%E5%81%9A%E5%A4%A7%E5%AD%B8%E8%AC%9B%E5%B8%AB",
+    "timestamp": "2026-11-07T13:18:14.682Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東涌西站支柱疑灌石屎「未到頂」　路政署要求港鐵兩周內交報告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195738175662723072814320.jpeg/FAMd4nFKHY2Gc6FDaFBMKlTunEZol8MKIz5PySM-T8k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408124/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-c%E6%9C%97%E7%8C%B6%E5%A6%82%E8%91%A1%E8%90%84%E7%89%99%E5%90%8D%E7%89%87%E5%8D%BB%E9%BB%AF%E7%84%B6%E9%9B%A2%E5%A0%B4-%E4%B8%80%E4%BB%A3%E7%90%83%E7%8E%8B%E5%80%BC%E5%BE%97%E7%9B%9B%E5%A4%A7%E5%91%8A%E5%88%A5",
     "timestamp": "2026-11-07T06:59:14.416Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傅嘉莉宣布獲寶石學學士學位兩科奪A　大曬畢業證書期待戴四方帽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195738542756597760731490.jpeg/yTL5bYvIUmtCx-xOVSt1Quy5XojRd8CfSwgh6ksIIeo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408142/%E5%82%85%E5%98%89%E8%8E%89%E5%AE%A3%E5%B8%83%E7%8D%B2%E5%AF%B6%E7%9F%B3%E5%AD%B8%E5%AD%B8%E5%A3%AB%E5%AD%B8%E4%BD%8D%E5%85%A9%E7%A7%91%E5%A5%AAa-%E5%A4%A7%E6%9B%AC%E7%95%A2%E6%A5%AD%E8%AD%89%E6%9B%B8%E6%9C%9F%E5%BE%85%E6%88%B4%E5%9B%9B%E6%96%B9%E5%B8%BD",
-    "timestamp": "2026-11-07T06:39:16.086Z",
     "strategy": ".content-card__main"
   }
 ];
