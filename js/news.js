@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T19:17:31.270Z
+// Last updated: 2026-11-07T19:29:20.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華講述極限練功魔鬼細節：倒立撐地一小時 頭下放水盆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195710866410967040826759.jpeg/2hkRBm1q8j5v1ZvM3bx9ClCHdy0zn9fJlBCUFJQQlBQ",
+    "url": "https://www.hk01.com/01TV/60408132/%E5%85%83%E8%8F%AF%E8%AC%9B%E8%BF%B0%E6%A5%B5%E9%99%90%E7%B7%B4%E5%8A%9F%E9%AD%94%E9%AC%BC%E7%B4%B0%E7%AF%80-%E5%80%92%E7%AB%8B%E6%92%90%E5%9C%B0%E4%B8%80%E5%B0%8F%E6%99%82-%E9%A0%AD%E4%B8%8B%E6%94%BE%E6%B0%B4%E7%9B%86",
+    "timestamp": "2026-11-07T19:29:20.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華講述極限練功魔鬼細節：倒立撐地一小時 頭下放水盆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195851927041085440947653.png/W_r-kgeN9BmaQxkCam9KiDMtRDh7k-2T5z-TOec_kzk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408289/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%BB%8D%E9%A6%96%E6%89%B9%E8%89%A6%E8%BC%89%E6%A9%9F%E5%A5%B3%E9%A3%9B%E8%A1%8C%E5%93%A1%E7%B5%90%E6%A5%AD-00%E5%BE%8C-%E5%A5%94%E8%B5%B4%E4%B8%80%E7%B7%9A%E7%99%BB%E8%88%AA%E6%AF%8D%E6%88%B0%E4%BD%8D",
     "timestamp": "2026-11-07T13:53:25.124Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "向太自爆每月基本開銷至少50萬　5隻愛犬月花4萬元專人服侍兼上課",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195776965311729664734968.jpeg/inuxI7xA452JxpBMJydt7FZnBps0UqDkgKB1xYCgdcU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408207/%E5%90%91%E5%A4%AA%E8%87%AA%E7%88%86%E6%AF%8F%E6%9C%88%E5%9F%BA%E6%9C%AC%E9%96%8B%E9%8A%B7%E8%87%B3%E5%B0%9150%E8%90%AC-5%E9%9A%BB%E6%84%9B%E7%8A%AC%E6%9C%88%E8%8A%B14%E8%90%AC%E5%85%83%E5%B0%88%E4%BA%BA%E6%9C%8D%E4%BE%8D%E5%85%BC%E4%B8%8A%E8%AA%B2",
-    "timestamp": "2026-11-07T13:44:44.566Z",
     "strategy": ".content-card__main"
   }
 ];
