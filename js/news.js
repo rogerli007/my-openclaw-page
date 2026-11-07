@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T15:44:47.349Z
+// Last updated: 2026-11-07T15:59:03.859Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "波蘭克拉科夫市發生槍擊事件　至少5死10傷　槍手已被捕動機不明",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195881045853999104893764.jpeg/VQY2EqTahkuXhwaqwGkhwqDf10SWD2HLvX8Pmr1_D5o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408307/%E6%B3%A2%E8%98%AD%E5%85%8B%E6%8B%89%E7%A7%91%E5%A4%AB%E5%B8%82%E7%99%BC%E7%94%9F%E6%A7%8D%E6%93%8A%E4%BA%8B%E4%BB%B6-%E8%87%B3%E5%B0%915%E6%AD%BB10%E5%82%B7-%E6%A7%8D%E6%89%8B%E5%B7%B2%E8%A2%AB%E6%8D%95%E5%8B%95%E6%A9%9F%E4%B8%8D%E6%98%8E",
+    "timestamp": "2026-11-07T15:59:03.859Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城丨果凍唇太靚引網民開Po詢問　陳瀅畫圖親解：要搽足5支",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195798466958200832719635.jpeg/Id-8DM_BZjejdTT4afC-FCNCt4Gee0asOA1fvjgNX74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408237/%E6%B8%AF%E8%B6%85%E8%81%AF-%E5%A4%A7%E8%A1%9B%E6%96%BD%E8%8F%AF%E9%A6%96%E6%88%B0%E5%BB%BA%E5%8A%9F%E5%86%8D%E8%86%BA%E6%9C%80%E4%BD%B3%E7%90%83%E5%93%A1-%E6%84%9F%E6%BF%80%E9%A6%99%E6%B8%AF%E7%90%83%E8%BF%B7%E7%86%B1%E6%83%85%E6%94%AF%E6%8C%81",
     "timestamp": "2026-11-07T10:18:56.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地訪日遊客未見復甦　日本稱力推地方旅遊吸引各國回頭客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240229/839988374671462400053479.jpeg/4gzBnlCaozMnu_PCLpzG7YF9Oj2WEzFA8dnCRfHZwkU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408201/%E5%85%A7%E5%9C%B0%E8%A8%AA%E6%97%A5%E9%81%8A%E5%AE%A2%E6%9C%AA%E8%A6%8B%E5%BE%A9%E7%94%A6-%E6%97%A5%E6%9C%AC%E7%A8%B1%E5%8A%9B%E6%8E%A8%E5%9C%B0%E6%96%B9%E6%97%85%E9%81%8A%E5%90%B8%E5%BC%95%E5%90%84%E5%9C%8B%E5%9B%9E%E9%A0%AD%E5%AE%A2",
-    "timestamp": "2026-11-07T09:59:06.354Z",
     "strategy": ".content-card__main"
   }
 ];
