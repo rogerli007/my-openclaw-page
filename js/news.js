@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T19:29:20.731Z
+// Last updated: 2026-11-07T19:44:52.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣九巴男乘客車內暈倒　車長報案　送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195940305937895424069213.jpeg/wEnvrrViUUyQZXYSWghwLRRv3-6irGrkFhqa3ywamt8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408315/%E8%8D%83%E7%81%A3%E4%B9%9D%E5%B7%B4%E7%94%B7%E4%B9%98%E5%AE%A2%E8%BB%8A%E5%85%A7%E6%9A%88%E5%80%92-%E8%BB%8A%E9%95%B7%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-11-07T19:44:52.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華講述極限練功魔鬼細節：倒立撐地一小時 頭下放水盆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188438206647898112489726.jpeg/lZPAPgod3QPJqnlYZ72S2ZDdOvkPD4gk64rFPeuKxT0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408271/%E7%BE%8E%E5%AA%92%E6%8C%87%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%93%AC%E6%8E%A8%E7%BF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%97%9C%E7%A8%85%E8%A8%88%E5%8A%83-%E5%8A%A0%E7%B8%BD%E7%90%86%E5%8D%A1%E5%B0%BC-%E6%AD%A1%E8%BF%8E",
     "timestamp": "2026-11-07T14:18:46.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國海軍首批艦載機女飛行員結業！「00後」奔赴一線登航母戰位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195851927041085440947653.png/W_r-kgeN9BmaQxkCam9KiDMtRDh7k-2T5z-TOec_kzk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408289/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%BB%8D%E9%A6%96%E6%89%B9%E8%89%A6%E8%BC%89%E6%A9%9F%E5%A5%B3%E9%A3%9B%E8%A1%8C%E5%93%A1%E7%B5%90%E6%A5%AD-00%E5%BE%8C-%E5%A5%94%E8%B5%B4%E4%B8%80%E7%B7%9A%E7%99%BB%E8%88%AA%E6%AF%8D%E6%88%B0%E4%BD%8D",
-    "timestamp": "2026-11-07T13:53:25.124Z",
     "strategy": ".content-card__main"
   }
 ];
