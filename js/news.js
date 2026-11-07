@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T01:20:15.441Z
+// Last updated: 2026-11-07T01:47:32.520Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "基斯頓比爾為拍戲有多拚？皮包骨半年變蝙蝠俠　盤點10大代表角色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195074328098508800863790.png/JcCHrR4C8Y4ceiUh-S8OP_0VEfjGaUevyczHw8nMx8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407595/%E5%9F%BA%E6%96%AF%E9%A0%93%E6%AF%94%E7%88%BE%E7%82%BA%E6%8B%8D%E6%88%B2%E6%9C%89%E5%A4%9A%E6%8B%9A-%E7%9A%AE%E5%8C%85%E9%AA%A8%E5%8D%8A%E5%B9%B4%E8%AE%8A%E8%9D%99%E8%9D%A0%E4%BF%A0-%E7%9B%A4%E9%BB%9E10%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%A7%92%E8%89%B2",
+    "timestamp": "2026-11-07T01:47:32.520Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "連鎖食店旺角分店驚現3老鼠　炮台山分店燈箱內爬滿蟲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195578878446276608354198.jpeg/iqxb9tHDNSaDSCkIjEF6Y0nhIhHTbE4HBC3m_QQt5v0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408082/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%BB%E5%91%BD%E7%B1%B3%E5%8B%92%E5%87%BA%E4%BB%BB%E6%96%B0%E7%99%BD%E5%AE%AE%E5%B9%95%E5%83%9A%E9%95%B7-%E6%87%B7%E7%88%BE%E6%96%AF%E8%AA%BF%E4%BB%BB%E7%B8%BD%E7%B5%B1%E6%94%BF%E6%B2%BB%E7%87%9F%E9%81%8B%E5%9C%98%E9%9A%8A",
     "timestamp": "2026-11-06T19:59:05.471Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普任命米勒出任新白宮幕僚長　懷爾斯調任總統政治營運團隊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195578878446276608354198.jpeg/iqxb9tHDNSaDSCkIjEF6Y0nhIhHTbE4HBC3m_QQt5v0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408082/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%BB%E5%91%BD%E7%B1%B3%E5%8B%92%E5%87%BA%E4%BB%BB%E6%96%B0%E7%99%BD%E5%AE%AE%E5%B9%95%E5%83%9A%E9%95%B7-%E6%87%B7%E7%88%BE%E6%96%AF%E8%AA%BF%E4%BB%BB%E7%B8%BD%E7%B5%B1%E6%94%BF%E6%B2%BB%E7%87%9F%E9%81%8B%E5%9C%98%E9%9A%8A",
-    "timestamp": "2026-11-06T19:42:24.566Z",
     "strategy": ".content-card__main"
   }
 ];
