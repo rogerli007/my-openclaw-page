@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T15:29:20.040Z
+// Last updated: 2026-11-07T15:44:47.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城丨果凍唇太靚引網民開Po詢問　陳瀅畫圖親解：要搽足5支",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195843959146942464271639.jpeg/zgKElTQhUOz5NNA8njo7cXJctV3100q11UZzqNVGc6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408283/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E6%9E%9C%E5%87%8D%E5%94%87%E5%A4%AA%E9%9D%9A%E5%BC%95%E7%B6%B2%E6%B0%91%E9%96%8Bpo%E8%A9%A2%E5%95%8F-%E9%99%B3%E7%80%85%E7%95%AB%E5%9C%96%E8%A6%AA%E8%A7%A3-%E8%A6%81%E6%90%BD%E8%B6%B35%E6%94%AF",
+    "timestamp": "2026-11-07T15:44:47.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩11.10頭獎1500萬攪珠前攻略！6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240229/839988374671462400053479.jpeg/4gzBnlCaozMnu_PCLpzG7YF9Oj2WEzFA8dnCRfHZwkU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408201/%E5%85%A7%E5%9C%B0%E8%A8%AA%E6%97%A5%E9%81%8A%E5%AE%A2%E6%9C%AA%E8%A6%8B%E5%BE%A9%E7%94%A6-%E6%97%A5%E6%9C%AC%E7%A8%B1%E5%8A%9B%E6%8E%A8%E5%9C%B0%E6%96%B9%E6%97%85%E9%81%8A%E5%90%B8%E5%BC%95%E5%90%84%E5%9C%8B%E5%9B%9E%E9%A0%AD%E5%AE%A2",
     "timestamp": "2026-11-07T09:59:06.354Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球韓國賽︱吳英倫輕取中華台北王子維入決賽　李卓耀4強止步",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172631504208007168830719.jpeg/VgGzEmMhLI3LFeY2UEHMOqO1CGpMlUnFCgWxezwFsXs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408226/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD-%E5%90%B3%E8%8B%B1%E5%80%AB%E8%BC%95%E5%8F%96%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E7%8E%8B%E5%AD%90%E7%B6%AD%E5%85%A5%E6%B1%BA%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%804%E5%BC%B7%E6%AD%A2%E6%AD%A5",
-    "timestamp": "2026-11-07T09:29:17.157Z",
     "strategy": ".content-card__main"
   }
 ];
