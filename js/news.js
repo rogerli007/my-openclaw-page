@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T20:59:04.337Z
+// Last updated: 2026-11-07T21:18:10.342Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普下令司法部調查民主黨「敲詐勒索」　指責對方濫用彈劾威脅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195254502052073472391687.jpeg/4_pY0G4PsI7S8bzzi2UaTxz3_CFWwBKHver96r3q_eo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408319/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E6%B0%91%E4%B8%BB%E9%BB%A8-%E6%95%B2%E8%A9%90%E5%8B%92%E7%B4%A2-%E6%8C%87%E8%B2%AC%E5%B0%8D%E6%96%B9%E6%BF%AB%E7%94%A8%E5%BD%88%E5%8A%BE%E5%A8%81%E8%84%85",
+    "timestamp": "2026-11-07T21:18:10.342Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜諾定咸森林3:1勝曼城　曼城遭遇聯賽三連敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195843959146942464271639.jpeg/zgKElTQhUOz5NNA8njo7cXJctV3100q11UZzqNVGc6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408283/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E6%9E%9C%E5%87%8D%E5%94%87%E5%A4%AA%E9%9D%9A%E5%BC%95%E7%B6%B2%E6%B0%91%E9%96%8Bpo%E8%A9%A2%E5%95%8F-%E9%99%B3%E7%80%85%E7%95%AB%E5%9C%96%E8%A6%AA%E8%A7%A3-%E8%A6%81%E6%90%BD%E8%B6%B35%E6%94%AF",
     "timestamp": "2026-11-07T15:44:47.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩11.10頭獎1500萬攪珠前攻略！6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230623/749061498940166144456297.jpeg/FlJ40gvZM1yh8h2E20_maBquOLGoJA4ppr-0qaa_tKk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408305/%E5%85%AD%E5%90%88%E5%BD%A911-10%E9%A0%AD%E7%8D%8E1500%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E6%94%BB%E7%95%A5-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-11-07T15:29:20.040Z",
     "strategy": ".content-card__main"
   }
 ];
