@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T07:45:28.527Z
+// Last updated: 2026-11-07T07:59:14.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港超聯｜話題之戰沙田對流浪半場0：0　大衛施華正選披甲贏盡掌聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195766152140165120261890.jpeg/oMqjvsjKFXAPVleyzElseu-RHB1KTfMUB6Duvgeg7r4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408174/%E6%B8%AF%E8%B6%85%E8%81%AF-%E8%A9%B1%E9%A1%8C%E4%B9%8B%E6%88%B0%E6%B2%99%E7%94%B0%E5%B0%8D%E6%B5%81%E6%B5%AA%E5%8D%8A%E5%A0%B40-0-%E5%A4%A7%E8%A1%9B%E6%96%BD%E8%8F%AF%E6%AD%A3%E9%81%B8%E6%8A%AB%E7%94%B2%E8%B4%8F%E7%9B%A1%E6%8E%8C%E8%81%B2",
+    "timestamp": "2026-11-07T07:59:14.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台籍男子曼谷暹羅百麗宮墮樓亡！電梯旁摔落B1　顧客目睹倒血泊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195677207024898048549108.jpeg/zSkTAj6HY1t6nfvkr81YKPLQ74MebuiP5uShYebkoWE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408102/%E5%8D%8A%E5%B1%B1%E5%8D%91%E5%88%A9%E5%A3%AB%E9%81%93%E4%BF%9D%E6%99%82%E6%8D%B7%E6%92%9E%E8%B7%AF%E7%89%8C%E9%A8%8E%E4%B8%8A%E6%AC%84%E6%9D%86-82%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%9C%89%E9%A9%9A%E7%84%A1%E9%9A%AA",
     "timestamp": "2026-11-07T02:23:22.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何立峰與美方經貿牽頭人通話　就華府對中方經貿限制措施表關切",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250531/1005349729720078336102376.jpeg/QjDGgiaJxUkJkj-A0kIyRusl5DnN4OmjAnCbcwJwm3M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408099/%E4%BD%95%E7%AB%8B%E5%B3%B0%E8%88%87%E7%BE%8E%E6%96%B9%E7%B6%93%E8%B2%BF%E7%89%BD%E9%A0%AD%E4%BA%BA%E9%80%9A%E8%A9%B1-%E5%B0%B1%E8%8F%AF%E5%BA%9C%E5%B0%8D%E4%B8%AD%E6%96%B9%E7%B6%93%E8%B2%BF%E9%99%90%E5%88%B6%E6%8E%AA%E6%96%BD%E8%A1%A8%E9%97%9C%E5%88%87",
-    "timestamp": "2026-11-07T01:56:33.570Z",
     "strategy": ".content-card__main"
   }
 ];
