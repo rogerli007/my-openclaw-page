@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T20:45:04.424Z
+// Last updated: 2026-11-07T20:59:04.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜諾定咸森林3:1勝曼城　曼城遭遇聯賽三連敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195944503614115840023815.jpeg/a1z3JXK43v33tBI30p1JQPSnYt6M7MIDN37b6Dd-2-g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408318/%E8%8B%B1%E8%B6%85-%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%973-1%E5%8B%9D%E6%9B%BC%E5%9F%8E-%E6%9B%BC%E5%9F%8E%E9%81%AD%E9%81%87%E8%81%AF%E8%B3%BD%E4%B8%89%E9%80%A3%E6%95%97",
+    "timestamp": "2026-11-07T20:59:04.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜諾定咸森林3:1勝曼城　曼城遭遇聯賽三連敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230623/749061498940166144456297.jpeg/FlJ40gvZM1yh8h2E20_maBquOLGoJA4ppr-0qaa_tKk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408305/%E5%85%AD%E5%90%88%E5%BD%A911-10%E9%A0%AD%E7%8D%8E1500%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E6%94%BB%E7%95%A5-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-11-07T15:29:20.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩11.10頭獎1500萬攪珠前攻略！6個最旺號碼+2招增中獎機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230623/749061498940166144456297.jpeg/FlJ40gvZM1yh8h2E20_maBquOLGoJA4ppr-0qaa_tKk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408305/%E5%85%AD%E5%90%88%E5%BD%A911-10%E9%A0%AD%E7%8D%8E1500%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E6%94%BB%E7%95%A5-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-11-07T15:17:55.220Z",
     "strategy": ".content-card__main"
   }
 ];
