@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T13:18:14.682Z
+// Last updated: 2026-11-07T13:29:14.521Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "3300人參加香港青年發展高峰論壇　麥美娟：將打造為年度旗艦品牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195820994766311424308469.jpeg/CcuAH4bZwEDjQ9FbL3g4kH40enSDrqlj_V3NwP1dzcA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408267/3300%E4%BA%BA%E5%8F%83%E5%8A%A0%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E7%99%BC%E5%B1%95%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E5%B0%87%E6%89%93%E9%80%A0%E7%82%BA%E5%B9%B4%E5%BA%A6%E6%97%97%E8%89%A6%E5%93%81%E7%89%8C",
+    "timestamp": "2026-11-07T13:29:14.521Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前TVB主播「翻版姚子羚」鄧詩穎升格人母　離巢後轉型做大學講師",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195013435180453888490357.png/7UoMGtRm41L7yuWdHh54UHA5buZCm7fA1s-O-9bPjvs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60407451/%E5%8F%B0%E6%AF%8D%E6%8F%AD%E5%A5%B3%E5%85%92%E9%81%AD%E7%88%B6%E9%AB%94%E7%BD%B0-%E8%97%A4%E6%A2%9D%E6%89%93%E5%85%BC-%E8%96%91%E7%BD%B0-%E7%96%91%E6%B6%89%E8%99%90%E5%BE%85-%E7%B6%B2%E6%B0%91%E7%B1%B2%E5%A0%B1%E8%AD%A6",
     "timestamp": "2026-11-07T07:19:34.197Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "體壇札記｜C朗猶如葡萄牙名片卻黯然離場　一代球王值得盛大告別",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195738175662723072814320.jpeg/FAMd4nFKHY2Gc6FDaFBMKlTunEZol8MKIz5PySM-T8k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408124/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-c%E6%9C%97%E7%8C%B6%E5%A6%82%E8%91%A1%E8%90%84%E7%89%99%E5%90%8D%E7%89%87%E5%8D%BB%E9%BB%AF%E7%84%B6%E9%9B%A2%E5%A0%B4-%E4%B8%80%E4%BB%A3%E7%90%83%E7%8E%8B%E5%80%BC%E5%BE%97%E7%9B%9B%E5%A4%A7%E5%91%8A%E5%88%A5",
-    "timestamp": "2026-11-07T06:59:14.416Z",
     "strategy": ".content-card__main"
   }
 ];
