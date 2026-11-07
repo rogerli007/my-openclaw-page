@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T02:23:22.168Z
+// Last updated: 2026-11-07T02:45:37.693Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜青衣青雅苑女子高處墮下　當場身亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195682056126861312024968.jpeg/Tsh5s1fPVG7dCPxliQ4iZn3ExJ-S7zhMa9Zndk7WZ3Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408100/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%9D%92%E8%A1%A3%E9%9D%92%E9%9B%85%E8%8B%91%E5%A5%B3%E5%AD%90%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1",
+    "timestamp": "2026-11-07T02:45:37.693Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "半山卑利士道保時捷撞路牌騎上欄杆　82歲男司機有驚無險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195597047663693824251760.jpeg/eUu6enhi7qhP-91OumzOA7C5Tedrp3a-2DwXzdg8F80?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408084/%E6%85%88%E9%9B%B2%E5%B1%B1%E4%B9%9D%E5%B7%B4%E9%97%9C%E9%96%80%E9%96%8B%E8%BB%8A-%E5%85%AD%E6%97%AC%E7%BF%81%E8%A6%81%E6%B1%82%E4%B8%8B%E8%BB%8A-%E8%B8%A2%E7%88%9B%E8%BB%8A%E9%96%80%E5%85%BC%E6%92%9E%E8%B7%8C%E8%BB%8A%E9%95%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-06T20:53:16.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地現時點男賊偷卡　得手逃走露內褲　店方：驚到甩褲？｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195579754091122688063519.jpeg/LNa5p4SD4i9RDkadDzpzzmlpIemctcd05uCbfebgm30",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408083/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%8F%BE%E6%99%82%E9%BB%9E%E7%94%B7%E8%B3%8A%E5%81%B7%E5%8D%A1-%E5%BE%97%E6%89%8B%E9%80%83%E8%B5%B0%E9%9C%B2%E5%85%A7%E8%A4%B2-%E5%BA%97%E6%96%B9-%E9%A9%9A%E5%88%B0%E7%94%A9%E8%A4%B2-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-06T20:45:35.039Z",
     "strategy": ".content-card__main"
   }
 ];
