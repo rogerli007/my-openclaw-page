@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T23:29:13.679Z
+// Last updated: 2026-11-07T23:44:55.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大馬華裔女遊昆明　街頭遇已故外公舊照　赴華尋根揭外公參與抗戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195058864672739328475093.png/wQdmsVe1ERzaSAjWQfUgRlzt1gxI_gWeEWWELRFlhC0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407364/%E5%A4%A7%E9%A6%AC%E8%8F%AF%E8%A3%94%E5%A5%B3%E9%81%8A%E6%98%86%E6%98%8E-%E8%A1%97%E9%A0%AD%E9%81%87%E5%B7%B2%E6%95%85%E5%A4%96%E5%85%AC%E8%88%8A%E7%85%A7-%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9%E6%8F%AD%E5%A4%96%E5%85%AC%E5%8F%83%E8%88%87%E6%8A%97%E6%88%B0",
+    "timestamp": "2026-11-07T23:44:55.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大馬華裔女遊昆明　街頭遇已故外公舊照　赴華尋根揭外公參與抗戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408311/anthropic%E6%93%AC11%E6%9C%88%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B%E4%B8%8A%E5%B8%82-%E6%8A%95%E8%B3%87%E4%BA%BA%E6%8C%87%E6%AD%A4%E5%89%8D2%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E9%9B%A3%E5%AF%A6%E7%8F%BE",
     "timestamp": "2026-11-07T18:45:12.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Anthropic擬11月納斯達克上市　投資人指此前2萬億美元估值難實現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408311/anthropic%E6%93%AC11%E6%9C%88%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B%E4%B8%8A%E5%B8%82-%E6%8A%95%E8%B3%87%E4%BA%BA%E6%8C%87%E6%AD%A4%E5%89%8D2%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E9%9B%A3%E5%AF%A6%E7%8F%BE",
-    "timestamp": "2026-11-07T18:20:57.611Z",
     "strategy": ".content-card__main"
   }
 ];
