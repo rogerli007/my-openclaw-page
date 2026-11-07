@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T03:59:16.450Z
+// Last updated: 2026-11-07T04:16:16.624Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海洋公園鬼屋假石堵路出口欠斜道　輪椅客卡關折返仍讚體驗望再訪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179939843933999104610783.jpeg/pFOhVx5vPu2Yen5TZWtZEtRDU_moqfrPJInWeQGJ1nk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407171/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E9%AC%BC%E5%B1%8B%E5%81%87%E7%9F%B3%E5%A0%B5%E8%B7%AF%E5%87%BA%E5%8F%A3%E6%AC%A0%E6%96%9C%E9%81%93-%E8%BC%AA%E6%A4%85%E5%AE%A2%E5%8D%A1%E9%97%9C%E6%8A%98%E8%BF%94%E4%BB%8D%E8%AE%9A%E9%AB%94%E9%A9%97%E6%9C%9B%E5%86%8D%E8%A8%AA",
+    "timestamp": "2026-11-07T04:16:16.624Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳美寶：五年內將香港機場航點增至240個　聚焦中東非洲等市場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195615390915366912062491.jpeg/w0VrndCtP8hjN0Ob8IF8t9e6ewIh-Od9vVP0YYdT9GE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408086/%E7%AB%8B%E5%86%AC%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB29%E5%BA%A6-%E9%A0%90%E6%96%99%E4%B8%8B%E5%91%A8%E4%BA%8C%E6%9C%80%E4%BD%8E18%E5%BA%A6",
     "timestamp": "2026-11-06T22:14:15.679Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：烏克蘭將繼續襲擊俄羅斯煉油設施　以回應俄軍打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408085/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%A5%B2%E6%93%8A%E4%BF%84%E7%BE%85%E6%96%AF%E7%85%89%E6%B2%B9%E8%A8%AD%E6%96%BD-%E4%BB%A5%E5%9B%9E%E6%87%89%E4%BF%84%E8%BB%8D%E6%89%93%E6%93%8A",
-    "timestamp": "2026-11-06T21:59:01.000Z",
     "strategy": ".content-card__main"
   }
 ];
