@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T10:44:55.190Z
+// Last updated: 2026-11-07T10:59:08.400Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天水圍嘉湖山莊樂湖居單位起火　一人昏迷倒臥梯間　獲救送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/4389491/org/c0dca1b2872bf4bc3ea6bae36cecc3c1.jpg/SmFOWSDkdQMGI3W1QvrqSOoRvaAoAcdHMKCrEjCgqxI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408252/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%98%89%E6%B9%96%E5%B1%B1%E8%8E%8A%E6%A8%82%E6%B9%96%E5%B1%85%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E4%B8%80%E4%BA%BA%E6%98%8F%E8%BF%B7%E5%80%92%E8%87%A5%E6%A2%AF%E9%96%93-%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2",
+    "timestamp": "2026-11-07T10:59:08.400Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "23歲中國女遊客涉盜竊在日本被捕　專攻24小時健身室或涉案10多宗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090656854352072704865024.jpeg/HvSUllbN8Wfi-kMdU4-rZ2SprXOZolTzvt5tSpvebUo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408137/%E5%BC%B7%E7%83%88%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A811-9%E6%AE%BA%E5%88%B0-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E9%AB%98%E5%9C%B0%E5%90%B9%E7%83%88%E9%A2%A8-%E4%B8%80%E5%8D%80%E5%8D%8A%E6%97%A5%E6%80%A5%E9%99%8D10%E5%BA%A6",
     "timestamp": "2026-11-07T04:59:25.296Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴拉圭銀行倒閉風波　總統培尼亞遭彈劾後被捕軟禁　副總統接任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195715585833439232149830.jpeg/h97z3kar38HDwc5RjxsKkatE_dZ3AvDSgTq8cYE6vHE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408133/%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%8A%80%E8%A1%8C%E5%80%92%E9%96%89%E9%A2%A8%E6%B3%A2-%E7%B8%BD%E7%B5%B1%E5%9F%B9%E5%B0%BC%E4%BA%9E%E9%81%AD%E5%BD%88%E5%8A%BE%E5%BE%8C%E8%A2%AB%E6%8D%95%E8%BB%9F%E7%A6%81-%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%8E%A5%E4%BB%BB",
-    "timestamp": "2026-11-07T04:45:14.908Z",
     "strategy": ".content-card__main"
   }
 ];
