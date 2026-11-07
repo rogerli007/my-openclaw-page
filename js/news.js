@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T09:14:51.836Z
+// Last updated: 2026-11-07T09:29:17.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球韓國賽︱吳英倫輕取中華台北王子維入決賽　李卓耀4強止步",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172631504208007168830719.jpeg/VgGzEmMhLI3LFeY2UEHMOqO1CGpMlUnFCgWxezwFsXs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408226/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD-%E5%90%B3%E8%8B%B1%E5%80%AB%E8%BC%95%E5%8F%96%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E7%8E%8B%E5%AD%90%E7%B6%AD%E5%85%A5%E6%B1%BA%E8%B3%BD-%E6%9D%8E%E5%8D%93%E8%80%804%E5%BC%B7%E6%AD%A2%E6%AD%A5",
+    "timestamp": "2026-11-07T09:29:17.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國擬再迎新一輪示威　政府部署7萬警力嚴陣以待",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195699356410318848439201.jpeg/dD0BsWWgaFtsXFsoBHJZqeLF4arIbxzpNYVT4TWFU-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408125/%E9%99%B3%E7%BE%8E%E5%AF%B6-%E4%BA%94%E5%B9%B4%E5%85%A7%E5%B0%87%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E8%88%AA%E9%BB%9E%E5%A2%9E%E8%87%B3240%E5%80%8B-%E8%81%9A%E7%84%A6%E4%B8%AD%E6%9D%B1%E9%9D%9E%E6%B4%B2%E7%AD%89%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-11-07T03:59:16.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "璀璨之城｜戴耀明係「AI東先生」　慨嘆老戲骨短缺︰好多唔喺度囉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195695188282970112894051.jpeg/sLwWB1PGBTcbCqNM3r78YMUYjR0znwtZzKmu48ypruM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408116/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E6%88%B4%E8%80%80%E6%98%8E%E4%BF%82-ai%E6%9D%B1%E5%85%88%E7%94%9F-%E6%85%A8%E5%98%86%E8%80%81%E6%88%B2%E9%AA%A8%E7%9F%AD%E7%BC%BA-%E5%A5%BD%E5%A4%9A%E5%94%94%E5%96%BA%E5%BA%A6%E5%9B%89",
-    "timestamp": "2026-11-07T03:45:38.958Z",
     "strategy": ".content-card__main"
   }
 ];
