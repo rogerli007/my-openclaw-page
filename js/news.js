@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T18:45:12.179Z
+// Last updated: 2026-11-07T18:59:03.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警東九龍調配無人機執法　3司機涉危駕被捕　另1鐵騎士被傳票檢控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195926895976255488312604.jpeg/YeNeAyArXJAkUga37tUP840pgmo0rVp4uGbeC7hm3gs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408313/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E8%AA%BF%E9%85%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%9F%B7%E6%B3%95-3%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95-%E5%8F%A61%E9%90%B5%E9%A8%8E%E5%A3%AB%E8%A2%AB%E5%82%B3%E7%A5%A8%E6%AA%A2%E6%8E%A7",
+    "timestamp": "2026-11-07T18:59:03.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic擬11月納斯達克上市　投資人指此前2萬億美元估值難實現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195820994766311424308469.jpeg/CcuAH4bZwEDjQ9FbL3g4kH40enSDrqlj_V3NwP1dzcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408267/3300%E4%BA%BA%E5%8F%83%E5%8A%A0%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E7%99%BC%E5%B1%95%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E5%B0%87%E6%89%93%E9%80%A0%E7%82%BA%E5%B9%B4%E5%BA%A6%E6%97%97%E8%89%A6%E5%93%81%E7%89%8C",
     "timestamp": "2026-11-07T13:29:14.521Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前TVB主播「翻版姚子羚」鄧詩穎升格人母　離巢後轉型做大學講師",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195821105558851584358961.jpeg/Wavb98vGt4rvryRTAUZXFUveON7J9LO80o4lQNKOJUA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408261/%E5%89%8Dtvb%E4%B8%BB%E6%92%AD-%E7%BF%BB%E7%89%88%E5%A7%9A%E5%AD%90%E7%BE%9A-%E9%84%A7%E8%A9%A9%E7%A9%8E%E5%8D%87%E6%A0%BC%E4%BA%BA%E6%AF%8D-%E9%9B%A2%E5%B7%A2%E5%BE%8C%E8%BD%89%E5%9E%8B%E5%81%9A%E5%A4%A7%E5%AD%B8%E8%AC%9B%E5%B8%AB",
-    "timestamp": "2026-11-07T13:18:14.682Z",
     "strategy": ".content-card__main"
   }
 ];
