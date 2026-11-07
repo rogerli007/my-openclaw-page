@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T00:54:48.993Z
+// Last updated: 2026-11-07T01:20:15.441Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "連鎖食店旺角分店驚現3老鼠　炮台山分店燈箱內爬滿蟲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195362448354316288917625.jpeg/Y3R03FvW0oayJSXkRKf-AGS_yc5bfPW7FeRbeRXkW3k",
+    "url": "https://www.hk01.com/01TV/60407835/%E9%80%A3%E9%8E%96%E9%A3%9F%E5%BA%97%E6%97%BA%E8%A7%92%E5%88%86%E5%BA%97%E9%A9%9A%E7%8F%BE3%E8%80%81%E9%BC%A0-%E7%82%AE%E5%8F%B0%E5%B1%B1%E5%88%86%E5%BA%97%E7%87%88%E7%AE%B1%E5%85%A7%E7%88%AC%E6%BB%BF%E8%9F%B2",
+    "timestamp": "2026-11-07T01:20:15.441Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩地牌寶馬中環違例左轉　網片曝光後　警拘本地男司機不小心駕駛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195578878446276608354198.jpeg/iqxb9tHDNSaDSCkIjEF6Y0nhIhHTbE4HBC3m_QQt5v0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408082/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%BB%E5%91%BD%E7%B1%B3%E5%8B%92%E5%87%BA%E4%BB%BB%E6%96%B0%E7%99%BD%E5%AE%AE%E5%B9%95%E5%83%9A%E9%95%B7-%E6%87%B7%E7%88%BE%E6%96%AF%E8%AA%BF%E4%BB%BB%E7%B8%BD%E7%B5%B1%E6%94%BF%E6%B2%BB%E7%87%9F%E9%81%8B%E5%9C%98%E9%9A%8A",
     "timestamp": "2026-11-06T19:42:24.566Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖東私家車行車不穩遇截查　39歲男司機「吹爆波」　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195570813940535296374618.jpeg/YbxDy4cTO5BJSph4nc3vX6lv4dDQMzSV0rGElOixhJQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408080/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E6%88%AA%E6%9F%A5-39%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-06T19:29:18.904Z",
     "strategy": ".content-card__main"
   }
 ];
