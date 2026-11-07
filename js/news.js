@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T19:59:05.452Z
+// Last updated: 2026-11-07T20:19:07.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華偷溜出門遭體罰：獨腳站立足頂水杯不能倒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195757785447403520018952.jpeg/Nfy7ZRifa3B1kjFw4P_WVHSyiu96gVRWcjBLPXIwSz0",
+    "url": "https://www.hk01.com/01TV/60408177/%E5%85%83%E8%8F%AF%E5%81%B7%E6%BA%9C%E5%87%BA%E9%96%80%E9%81%AD%E9%AB%94%E7%BD%B0-%E7%8D%A8%E8%85%B3%E7%AB%99%E7%AB%8B%E8%B6%B3%E9%A0%82%E6%B0%B4%E6%9D%AF%E4%B8%8D%E8%83%BD%E5%80%92",
+    "timestamp": "2026-11-07T20:19:07.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣九巴男乘客車內暈倒　車長報案　送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195869251563425792780456.jpeg/xHxuIWlKprn6VQdNZkRtqi-rVBKrduWtXYwwVl2MMFY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408302/%E8%8B%B1%E8%B6%85-%E5%88%97%E6%96%AF%E8%81%AF%E5%B0%BE%E6%AE%B5%E5%85%A5%E7%90%83%E6%8C%AB%E7%86%B1%E5%88%BA-%E7%B5%82%E7%B5%90%E8%B8%A2%E6%97%A9%E5%A0%B421%E5%A0%B4%E4%B8%8D%E5%8B%9D%E5%B0%B7%E5%B0%AC%E7%B4%80%E9%8C%84",
     "timestamp": "2026-11-07T14:59:04.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "谷婭溦同情前「星夢一姐」菊梓喬人氣大不如前：好講你條命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195867079824117760748903.jpeg/SmNMIPV2pgcxXjVEkKBual4sVLapD4ylYfADemHwA3o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408300/%E8%B0%B7%E5%A9%AD%E6%BA%A6%E5%90%8C%E6%83%85%E5%89%8D-%E6%98%9F%E5%A4%A2%E4%B8%80%E5%A7%90-%E8%8F%8A%E6%A2%93%E5%96%AC%E4%BA%BA%E6%B0%A3%E5%A4%A7%E4%B8%8D%E5%A6%82%E5%89%8D-%E5%A5%BD%E8%AC%9B%E4%BD%A0%E6%A2%9D%E5%91%BD",
-    "timestamp": "2026-11-07T14:44:47.344Z",
     "strategy": ".content-card__main"
   }
 ];
