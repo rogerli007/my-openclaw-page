@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T19:44:52.442Z
+// Last updated: 2026-11-07T19:59:05.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣九巴男乘客車內暈倒　車長報案　送院不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195940305937895424069213.jpeg/wEnvrrViUUyQZXYSWghwLRRv3-6irGrkFhqa3ywamt8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408315/%E8%8D%83%E7%81%A3%E4%B9%9D%E5%B7%B4%E7%94%B7%E4%B9%98%E5%AE%A2%E8%BB%8A%E5%85%A7%E6%9A%88%E5%80%92-%E8%BB%8A%E9%95%B7%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-11-07T19:59:05.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣九巴男乘客車內暈倒　車長報案　送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195867079824117760748903.jpeg/SmNMIPV2pgcxXjVEkKBual4sVLapD4ylYfADemHwA3o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408300/%E8%B0%B7%E5%A9%AD%E6%BA%A6%E5%90%8C%E6%83%85%E5%89%8D-%E6%98%9F%E5%A4%A2%E4%B8%80%E5%A7%90-%E8%8F%8A%E6%A2%93%E5%96%AC%E4%BA%BA%E6%B0%A3%E5%A4%A7%E4%B8%8D%E5%A6%82%E5%89%8D-%E5%A5%BD%E8%AC%9B%E4%BD%A0%E6%A2%9D%E5%91%BD",
     "timestamp": "2026-11-07T14:44:47.344Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒指民主黨擬推翻特朗普加拿大關稅計劃　加總理卡尼：歡迎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188438206647898112489726.jpeg/lZPAPgod3QPJqnlYZ72S2ZDdOvkPD4gk64rFPeuKxT0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408271/%E7%BE%8E%E5%AA%92%E6%8C%87%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%93%AC%E6%8E%A8%E7%BF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%97%9C%E7%A8%85%E8%A8%88%E5%8A%83-%E5%8A%A0%E7%B8%BD%E7%90%86%E5%8D%A1%E5%B0%BC-%E6%AD%A1%E8%BF%8E",
-    "timestamp": "2026-11-07T14:18:46.002Z",
     "strategy": ".content-card__main"
   }
 ];
