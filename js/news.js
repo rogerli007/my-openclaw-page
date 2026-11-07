@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T02:59:10.118Z
+// Last updated: 2026-11-07T03:21:12.593Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英國男嬰心跳飆至每分鐘280下 愛犬異常黏人兩度提醒家人救回一命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195648932881895424754193.jpeg/0Jk69yqPFR2a5Ms3KNlZEhYtpKTZpq7s1NNlatTTZWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60407712/%E8%8B%B1%E5%9C%8B%E7%94%B7%E5%AC%B0%E5%BF%83%E8%B7%B3%E9%A3%86%E8%87%B3%E6%AF%8F%E5%88%86%E9%90%98280%E4%B8%8B-%E6%84%9B%E7%8A%AC%E7%95%B0%E5%B8%B8%E9%BB%8F%E4%BA%BA%E5%85%A9%E5%BA%A6%E6%8F%90%E9%86%92%E5%AE%B6%E4%BA%BA%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD",
+    "timestamp": "2026-11-07T03:21:12.593Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "神舟二十四｜巴勒斯坦載荷專家獲選！天宮將迎首位外籍航天員到訪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408085/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%A5%B2%E6%93%8A%E4%BF%84%E7%BE%85%E6%96%AF%E7%85%89%E6%B2%B9%E8%A8%AD%E6%96%BD-%E4%BB%A5%E5%9B%9E%E6%87%89%E4%BF%84%E8%BB%8D%E6%89%93%E6%93%8A",
     "timestamp": "2026-11-06T21:29:23.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：烏克蘭將繼續襲擊俄羅斯煉油設施　以回應俄軍打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408085/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%A5%B2%E6%93%8A%E4%BF%84%E7%BE%85%E6%96%AF%E7%85%89%E6%B2%B9%E8%A8%AD%E6%96%BD-%E4%BB%A5%E5%9B%9E%E6%87%89%E4%BF%84%E8%BB%8D%E6%89%93%E6%93%8A",
-    "timestamp": "2026-11-06T21:12:04.105Z",
     "strategy": ".content-card__main"
   }
 ];
