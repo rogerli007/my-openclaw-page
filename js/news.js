@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T03:45:38.958Z
+// Last updated: 2026-11-07T03:59:16.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳美寶：五年內將香港機場航點增至240個　聚焦中東非洲等市場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195699356410318848439201.jpeg/dD0BsWWgaFtsXFsoBHJZqeLF4arIbxzpNYVT4TWFU-E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408125/%E9%99%B3%E7%BE%8E%E5%AF%B6-%E4%BA%94%E5%B9%B4%E5%85%A7%E5%B0%87%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E8%88%AA%E9%BB%9E%E5%A2%9E%E8%87%B3240%E5%80%8B-%E8%81%9A%E7%84%A6%E4%B8%AD%E6%9D%B1%E9%9D%9E%E6%B4%B2%E7%AD%89%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-11-07T03:59:16.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "璀璨之城｜戴耀明係「AI東先生」　慨嘆老戲骨短缺︰好多唔喺度囉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408085/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%A5%B2%E6%93%8A%E4%BF%84%E7%BE%85%E6%96%AF%E7%85%89%E6%B2%B9%E8%A8%AD%E6%96%BD-%E4%BB%A5%E5%9B%9E%E6%87%89%E4%BF%84%E8%BB%8D%E6%89%93%E6%93%8A",
     "timestamp": "2026-11-06T21:59:01.000Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：烏克蘭將繼續襲擊俄羅斯煉油設施　以回應俄軍打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408085/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%A5%B2%E6%93%8A%E4%BF%84%E7%BE%85%E6%96%AF%E7%85%89%E6%B2%B9%E8%A8%AD%E6%96%BD-%E4%BB%A5%E5%9B%9E%E6%87%89%E4%BF%84%E8%BB%8D%E6%89%93%E6%93%8A",
-    "timestamp": "2026-11-06T21:44:48.760Z",
     "strategy": ".content-card__main"
   }
 ];
