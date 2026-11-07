@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T21:44:46.389Z
+// Last updated: 2026-11-07T21:59:10.547Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普下令司法部調查民主黨「敲詐勒索」　指責對方濫用彈劾威脅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195254502052073472391687.jpeg/4_pY0G4PsI7S8bzzi2UaTxz3_CFWwBKHver96r3q_eo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408319/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E6%B0%91%E4%B8%BB%E9%BB%A8-%E6%95%B2%E8%A9%90%E5%8B%92%E7%B4%A2-%E6%8C%87%E8%B2%AC%E5%B0%8D%E6%96%B9%E6%BF%AB%E7%94%A8%E5%BD%88%E5%8A%BE%E5%A8%81%E8%84%85",
+    "timestamp": "2026-11-07T21:59:10.547Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普下令司法部調查民主黨「敲詐勒索」　指責對方濫用彈劾威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195862017399853056750839.jpeg/LTSTL20Mijs-qT7hLSVmsP7saj07Y-gtQJ_h5kCf4eY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408297/%E4%BD%95%E7%8C%B7%E4%BA%A8%E5%B7%B2%E5%A9%9A%E8%88%8A%E6%84%9B%E9%99%B3%E5%8F%AF%E6%AC%A3%E7%91%9E%E5%A3%AB%E8%B2%B4%E6%97%8F%E7%A7%81%E9%99%A2%E8%AA%95%E5%AD%90-%E6%9B%BE%E7%8D%B2%E8%B3%AD%E7%8E%8B%E7%B5%A6%E6%BB%BF%E5%88%86%E5%9B%9B%E5%A4%AA%E7%8B%82%E8%AE%9A",
     "timestamp": "2026-11-07T16:44:53.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王文濤會晤奧地利經濟旅遊部長　指冀奧方為中企投資營造公平環境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195889271379070976721904.jpeg/msje9gVrkXpKo-CtcWQpgFuo3_jhzl7BKVCHOylQhzs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408308/%E7%8E%8B%E6%96%87%E6%BF%A4%E6%9C%83%E6%99%A4%E5%A5%A7%E5%9C%B0%E5%88%A9%E7%B6%93%E6%BF%9F%E6%97%85%E9%81%8A%E9%83%A8%E9%95%B7-%E6%8C%87%E5%86%80%E5%A5%A7%E6%96%B9%E7%82%BA%E4%B8%AD%E4%BC%81%E6%8A%95%E8%B3%87%E7%87%9F%E9%80%A0%E5%85%AC%E5%B9%B3%E7%92%B0%E5%A2%83",
-    "timestamp": "2026-11-07T16:19:51.686Z",
     "strategy": ".content-card__main"
   }
 ];
