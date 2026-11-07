@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T13:53:25.124Z
+// Last updated: 2026-11-07T14:18:46.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒指民主黨擬推翻特朗普加拿大關稅計劃　加總理卡尼：歡迎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261018/1188438206647898112489726.jpeg/lZPAPgod3QPJqnlYZ72S2ZDdOvkPD4gk64rFPeuKxT0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408271/%E7%BE%8E%E5%AA%92%E6%8C%87%E6%B0%91%E4%B8%BB%E9%BB%A8%E6%93%AC%E6%8E%A8%E7%BF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%97%9C%E7%A8%85%E8%A8%88%E5%8A%83-%E5%8A%A0%E7%B8%BD%E7%90%86%E5%8D%A1%E5%B0%BC-%E6%AD%A1%E8%BF%8E",
+    "timestamp": "2026-11-07T14:18:46.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國海軍首批艦載機女飛行員結業！「00後」奔赴一線登航母戰位",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195407689916616704496702.jpeg/B5eUxcXAXJ4bjhTtBeWg7qZPOWUDungeyLgGZsi4BmY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407561/%E5%BB%A3%E5%B7%9E%E7%BE%8E%E9%A3%9F-%E8%A5%BF%E9%97%9C%E7%AB%B9%E5%9C%9270-%E5%B9%B4%E8%80%81%E5%AD%97%E8%99%9F%E7%AB%B9%E5%8D%87%E9%BA%B5-%E9%9B%B2%E5%90%9E%E6%95%B4%E7%B2%92%E7%91%A4%E6%9F%B1%E5%85%A5%E9%A4%A1%E8%B6%85%E9%AE%AE%E7%94%9C",
     "timestamp": "2026-11-07T08:22:09.071Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港超聯｜話題之戰沙田對流浪半場0：0　大衛施華正選披甲贏盡掌聲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195766152140165120261890.jpeg/oMqjvsjKFXAPVleyzElseu-RHB1KTfMUB6Duvgeg7r4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408174/%E6%B8%AF%E8%B6%85%E8%81%AF-%E8%A9%B1%E9%A1%8C%E4%B9%8B%E6%88%B0%E6%B2%99%E7%94%B0%E5%B0%8D%E6%B5%81%E6%B5%AA%E5%8D%8A%E5%A0%B40-0-%E5%A4%A7%E8%A1%9B%E6%96%BD%E8%8F%AF%E6%AD%A3%E9%81%B8%E6%8A%AB%E7%94%B2%E8%B4%8F%E7%9B%A1%E6%8E%8C%E8%81%B2",
-    "timestamp": "2026-11-07T07:59:14.269Z",
     "strategy": ".content-card__main"
   }
 ];
