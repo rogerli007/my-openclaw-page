@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T22:39:33.253Z
+// Last updated: 2026-11-07T22:53:20.986Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今日一兩陣雨　氣溫24至28度　周二周三料最低氣溫18度以下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195982512573124608123869.jpeg/-2YJfVGiCbS1ej2lh5RoJvWY8dZW5Kj4_pV_Y8SVf2M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408316/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%B0%A3%E6%BA%AB24%E8%87%B328%E5%BA%A6-%E5%91%A8%E4%BA%8C%E5%91%A8%E4%B8%89%E6%96%99%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB18%E5%BA%A6%E4%BB%A5%E4%B8%8B",
+    "timestamp": "2026-11-07T22:53:20.986Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日一兩陣雨　氣溫24至28度　周二周三料最低氣溫18度以下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195911081516601344793280.jpeg/44pEaWbiFaDgCPXo5DiIQftyPZBfAqSWQHUicHp1InA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408309/%E5%B0%96%E6%B2%99%E5%92%80%E9%86%89%E7%94%B7%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E9%81%AD%E7%9A%84%E5%A3%AB%E6%92%9E%E9%A3%9B30%E7%B1%B3-%E5%82%B7%E8%80%85%E9%A0%AD%E5%82%B7%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-11-07T17:44:59.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀的士撞醉男途人　傷者頭部流血　昏迷送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195908398743293952158769.jpeg/TXazIR7IJSrrql1FVsb3QOjHtPxasz_uvqwoCoSsKAo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408309/%E5%B0%96%E6%B2%99%E5%92%80%E7%9A%84%E5%A3%AB%E6%92%9E%E9%86%89%E7%94%B7%E9%80%94%E4%BA%BA-%E5%82%B7%E8%80%85%E9%A0%AD%E9%83%A8%E6%B5%81%E8%A1%80-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-11-07T17:29:36.724Z",
     "strategy": ".content-card__main"
   }
 ];
