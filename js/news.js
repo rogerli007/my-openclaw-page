@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T12:44:55.487Z
+// Last updated: 2026-11-07T12:59:11.280Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東涌西站支柱疑灌石屎「未到頂」　路政署要求港鐵兩周內交報告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195584973382356992684937.png/e0JPl5dTLS7P8GeQVLlzpQMuhLXx0RPBbrng7G654Ow",
+    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60408276/%E6%9D%B1%E6%B6%8C%E8%A5%BF%E7%AB%99%E6%94%AF%E6%9F%B1%E7%96%91%E7%81%8C%E7%9F%B3%E5%B1%8E-%E6%9C%AA%E5%88%B0%E9%A0%82-%E8%B7%AF%E6%94%BF%E7%BD%B2%E8%A6%81%E6%B1%82%E6%B8%AF%E9%90%B5%E5%85%A9%E5%91%A8%E5%85%A7%E4%BA%A4%E5%A0%B1%E5%91%8A",
+    "timestamp": "2026-11-07T12:59:11.280Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國外賣騎手墨爾本遇刺亡　中領館：要求警方全力徹查、嚴懲兇手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195738542756597760731490.jpeg/yTL5bYvIUmtCx-xOVSt1Quy5XojRd8CfSwgh6ksIIeo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408142/%E5%82%85%E5%98%89%E8%8E%89%E5%AE%A3%E5%B8%83%E7%8D%B2%E5%AF%B6%E7%9F%B3%E5%AD%B8%E5%AD%B8%E5%A3%AB%E5%AD%B8%E4%BD%8D%E5%85%A9%E7%A7%91%E5%A5%AAa-%E5%A4%A7%E6%9B%AC%E7%95%A2%E6%A5%AD%E8%AD%89%E6%9B%B8%E6%9C%9F%E5%BE%85%E6%88%B4%E5%9B%9B%E6%96%B9%E5%B8%BD",
     "timestamp": "2026-11-07T06:39:16.086Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港青年發展高峰論壇｜李家超： 五年規劃提升青年發展機遇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195732142236110848267835.jpeg/_Z3WaLnRpxjk0b-B-wjRBTYb52cVKljpTk1HCE5NRwg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408153/%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E7%99%BC%E5%B1%95%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83%E6%8F%90%E5%8D%87%E9%9D%92%E5%B9%B4%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87",
-    "timestamp": "2026-11-07T06:25:32.766Z",
     "strategy": ".content-card__main"
   }
 ];
