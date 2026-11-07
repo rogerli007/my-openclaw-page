@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T14:44:47.344Z
+// Last updated: 2026-11-07T14:59:04.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜列斯聯尾段入球挫熱刺　終結踢早場21場不勝尷尬紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195869251563425792780456.jpeg/xHxuIWlKprn6VQdNZkRtqi-rVBKrduWtXYwwVl2MMFY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408302/%E8%8B%B1%E8%B6%85-%E5%88%97%E6%96%AF%E8%81%AF%E5%B0%BE%E6%AE%B5%E5%85%A5%E7%90%83%E6%8C%AB%E7%86%B1%E5%88%BA-%E7%B5%82%E7%B5%90%E8%B8%A2%E6%97%A9%E5%A0%B421%E5%A0%B4%E4%B8%8D%E5%8B%9D%E5%B0%B7%E5%B0%AC%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-11-07T14:59:04.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "谷婭溦同情前「星夢一姐」菊梓喬人氣大不如前：好講你條命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195764941978603520034716.jpeg/lg69NdB7kxWncd9aYH2w47TiWzCndWKxMlZTYjJWU2I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408171/%E8%81%96%E4%BF%9D%E7%BE%85%E6%9B%B8%E9%99%A2%E8%BE%A6%E5%85%A5%E5%AD%B8%E7%B0%A1%E4%BB%8B%E6%9C%83-%E9%AB%98%E6%89%8D%E7%88%B8%E6%AC%A3%E8%B3%9E%E6%B8%AF%E5%85%A8%E6%96%B9%E4%BD%8D%E6%95%99%E8%82%B2-%E7%AB%B6%E7%88%AD%E7%84%A1%E5%8F%AF%E9%81%BF%E5%85%8D",
     "timestamp": "2026-11-07T08:59:00.552Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜荃灣路P牌私家車起火　車頭火光熊熊湧濃煙　入屯門全線封",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195774589431451648260453.png/UItM9KTEW0XVDkPGnNTKEymW8-Wcka_1dn9LynZ_S8o",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408172/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E8%B7%AFp%E7%89%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%B5%B7%E7%81%AB-%E8%BB%8A%E9%A0%AD%E7%81%AB%E5%85%89%E7%86%8A%E7%86%8A%E6%B9%A7%E6%BF%83%E7%85%99-%E5%85%A5%E5%B1%AF%E9%96%80%E5%85%A8%E7%B7%9A%E5%B0%81",
-    "timestamp": "2026-11-07T08:44:07.731Z",
     "strategy": ".content-card__main"
   }
 ];
