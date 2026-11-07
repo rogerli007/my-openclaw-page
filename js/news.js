@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T08:22:09.071Z
+// Last updated: 2026-11-07T08:44:07.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜荃灣路P牌私家車起火　車頭火光熊熊湧濃煙　入屯門全線封",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195774589431451648260453.png/UItM9KTEW0XVDkPGnNTKEymW8-Wcka_1dn9LynZ_S8o",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408172/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E8%B7%AFp%E7%89%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%B5%B7%E7%81%AB-%E8%BB%8A%E9%A0%AD%E7%81%AB%E5%85%89%E7%86%8A%E7%86%8A%E6%B9%A7%E6%BF%83%E7%85%99-%E5%85%A5%E5%B1%AF%E9%96%80%E5%85%A8%E7%B7%9A%E5%B0%81",
+    "timestamp": "2026-11-07T08:44:07.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣州美食｜西關竹園70+年老字號竹升麵！雲吞整粒瑤柱入餡超鮮甜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195689750028095488584901.png/DffzyFEA6uPylhnmqjb64NiGXq3KOy7cJF10QSRddEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408112/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B-%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%BC%89%E8%8D%B7%E5%B0%88%E5%AE%B6%E7%8D%B2%E9%81%B8-%E5%A4%A9%E5%AE%AE%E5%B0%87%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%93%A1%E5%88%B0%E8%A8%AA",
     "timestamp": "2026-11-07T02:59:10.118Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜青衣青雅苑女子高處墮下　當場身亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195682056126861312024968.jpeg/Tsh5s1fPVG7dCPxliQ4iZn3ExJ-S7zhMa9Zndk7WZ3Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408100/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%9D%92%E8%A1%A3%E9%9D%92%E9%9B%85%E8%8B%91%E5%A5%B3%E5%AD%90%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1",
-    "timestamp": "2026-11-07T02:45:37.693Z",
     "strategy": ".content-card__main"
   }
 ];
