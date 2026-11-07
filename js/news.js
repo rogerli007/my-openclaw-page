@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T17:44:59.192Z
+// Last updated: 2026-11-07T17:59:09.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屋宇署證01報道有30石屎支柱欠妥當　稱10月接通報證監管制度有效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195915545774395392587496.png/8zvEtYuUw5Z7YX6_d_VvCB6na0AwYseL9GwEmPRsBJg",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408310/%E5%B1%8B%E5%AE%87%E7%BD%B2%E8%AD%8901%E5%A0%B1%E9%81%93%E6%9C%8930%E7%9F%B3%E5%B1%8E%E6%94%AF%E6%9F%B1%E6%AC%A0%E5%A6%A5%E7%95%B6-%E7%A8%B110%E6%9C%88%E6%8E%A5%E9%80%9A%E5%A0%B1%E8%AD%89%E7%9B%A3%E7%AE%A1%E5%88%B6%E5%BA%A6%E6%9C%89%E6%95%88",
+    "timestamp": "2026-11-07T17:59:09.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀醉男衝出馬路　遭的士撞飛30米　傷者頭傷昏迷送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195836706939473920872503.jpeg/STmMmiT-A3WPqpRNJRhm2q6RykM61tfYSwKwxEsCsMQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408280/%E4%B8%AD%E5%9C%8B%E5%A4%96%E8%B3%A3%E9%A8%8E%E6%89%8B%E5%A2%A8%E7%88%BE%E6%9C%AC%E9%81%87%E5%88%BA%E4%BA%A1-%E4%B8%AD%E9%A0%98%E9%A4%A8-%E8%A6%81%E6%B1%82%E8%AD%A6%E6%96%B9%E5%85%A8%E5%8A%9B%E5%BE%B9%E6%9F%A5-%E5%9A%B4%E6%87%B2%E5%85%87%E6%89%8B",
     "timestamp": "2026-11-07T12:44:55.487Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《戲說台灣》林姿言古裝撞樣BIGBANG大聲　對比圖瘋傳近150萬瀏覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195754481472507904612098.png/bcZ3y-Sn31B2gb3hQ5vzt_dKFfCb7AOXFuextxbnsbc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408170/%E6%88%B2%E8%AA%AA%E5%8F%B0%E7%81%A3-%E6%9E%97%E5%A7%BF%E8%A8%80%E5%8F%A4%E8%A3%9D%E6%92%9E%E6%A8%A3bigbang%E5%A4%A7%E8%81%B2-%E5%B0%8D%E6%AF%94%E5%9C%96%E7%98%8B%E5%82%B3%E8%BF%91150%E8%90%AC%E7%80%8F%E8%A6%BD",
-    "timestamp": "2026-11-07T11:53:23.459Z",
     "strategy": ".content-card__main"
   }
 ];
