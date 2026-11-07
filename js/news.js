@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T13:44:44.566Z
+// Last updated: 2026-11-07T13:53:25.124Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國海軍首批艦載機女飛行員結業！「00後」奔赴一線登航母戰位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195851927041085440947653.png/W_r-kgeN9BmaQxkCam9KiDMtRDh7k-2T5z-TOec_kzk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408289/%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%BB%8D%E9%A6%96%E6%89%B9%E8%89%A6%E8%BC%89%E6%A9%9F%E5%A5%B3%E9%A3%9B%E8%A1%8C%E5%93%A1%E7%B5%90%E6%A5%AD-00%E5%BE%8C-%E5%A5%94%E8%B5%B4%E4%B8%80%E7%B7%9A%E7%99%BB%E8%88%AA%E6%AF%8D%E6%88%B0%E4%BD%8D",
+    "timestamp": "2026-11-07T13:53:25.124Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "向太自爆每月基本開銷至少50萬　5隻愛犬月花4萬元專人服侍兼上課",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195766152140165120261890.jpeg/oMqjvsjKFXAPVleyzElseu-RHB1KTfMUB6Duvgeg7r4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408174/%E6%B8%AF%E8%B6%85%E8%81%AF-%E8%A9%B1%E9%A1%8C%E4%B9%8B%E6%88%B0%E6%B2%99%E7%94%B0%E5%B0%8D%E6%B5%81%E6%B5%AA%E5%8D%8A%E5%A0%B40-0-%E5%A4%A7%E8%A1%9B%E6%96%BD%E8%8F%AF%E6%AD%A3%E9%81%B8%E6%8A%AB%E7%94%B2%E8%B4%8F%E7%9B%A1%E6%8E%8C%E8%81%B2",
     "timestamp": "2026-11-07T07:59:14.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台籍男子曼谷暹羅百麗宮墮樓亡！電梯旁摔落B1　顧客目睹倒血泊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195760221515943936913647.png/2lxEsw0NvZ7hgbq7CEEYzwITpNfZE8SSJKjLCSSoywk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60408180/%E5%8F%B0%E7%B1%8D%E7%94%B7%E5%AD%90%E6%9B%BC%E8%B0%B7%E6%9A%B9%E7%BE%85%E7%99%BE%E9%BA%97%E5%AE%AE%E5%A2%AE%E6%A8%93%E4%BA%A1-%E9%9B%BB%E6%A2%AF%E6%97%81%E6%91%94%E8%90%BDb1-%E9%A1%A7%E5%AE%A2%E7%9B%AE%E7%9D%B9%E5%80%92%E8%A1%80%E6%B3%8A",
-    "timestamp": "2026-11-07T07:45:28.527Z",
     "strategy": ".content-card__main"
   }
 ];
