@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T08:44:07.731Z
+// Last updated: 2026-11-07T08:59:00.552Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聖保羅書院辦入學簡介會　高才爸欣賞港全方位教育　競爭無可避免",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195764941978603520034716.jpeg/lg69NdB7kxWncd9aYH2w47TiWzCndWKxMlZTYjJWU2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408171/%E8%81%96%E4%BF%9D%E7%BE%85%E6%9B%B8%E9%99%A2%E8%BE%A6%E5%85%A5%E5%AD%B8%E7%B0%A1%E4%BB%8B%E6%9C%83-%E9%AB%98%E6%89%8D%E7%88%B8%E6%AC%A3%E8%B3%9E%E6%B8%AF%E5%85%A8%E6%96%B9%E4%BD%8D%E6%95%99%E8%82%B2-%E7%AB%B6%E7%88%AD%E7%84%A1%E5%8F%AF%E9%81%BF%E5%85%8D",
+    "timestamp": "2026-11-07T08:59:00.552Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜荃灣路P牌私家車起火　車頭火光熊熊湧濃煙　入屯門全線封",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195648932881895424754193.jpeg/0Jk69yqPFR2a5Ms3KNlZEhYtpKTZpq7s1NNlatTTZWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60407712/%E8%8B%B1%E5%9C%8B%E7%94%B7%E5%AC%B0%E5%BF%83%E8%B7%B3%E9%A3%86%E8%87%B3%E6%AF%8F%E5%88%86%E9%90%98280%E4%B8%8B-%E6%84%9B%E7%8A%AC%E7%95%B0%E5%B8%B8%E9%BB%8F%E4%BA%BA%E5%85%A9%E5%BA%A6%E6%8F%90%E9%86%92%E5%AE%B6%E4%BA%BA%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD",
     "timestamp": "2026-11-07T03:21:12.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "神舟二十四｜巴勒斯坦載荷專家獲選！天宮將迎首位外籍航天員到訪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195689750028095488584901.png/DffzyFEA6uPylhnmqjb64NiGXq3KOy7cJF10QSRddEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408112/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B-%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%BC%89%E8%8D%B7%E5%B0%88%E5%AE%B6%E7%8D%B2%E9%81%B8-%E5%A4%A9%E5%AE%AE%E5%B0%87%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%93%A1%E5%88%B0%E8%A8%AA",
-    "timestamp": "2026-11-07T02:59:10.118Z",
     "strategy": ".content-card__main"
   }
 ];
