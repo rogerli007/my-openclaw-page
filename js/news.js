@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T07:59:14.269Z
+// Last updated: 2026-11-07T08:22:09.071Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣州美食｜西關竹園70+年老字號竹升麵！雲吞整粒瑤柱入餡超鮮甜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195407689916616704496702.jpeg/B5eUxcXAXJ4bjhTtBeWg7qZPOWUDungeyLgGZsi4BmY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407561/%E5%BB%A3%E5%B7%9E%E7%BE%8E%E9%A3%9F-%E8%A5%BF%E9%97%9C%E7%AB%B9%E5%9C%9270-%E5%B9%B4%E8%80%81%E5%AD%97%E8%99%9F%E7%AB%B9%E5%8D%87%E9%BA%B5-%E9%9B%B2%E5%90%9E%E6%95%B4%E7%B2%92%E7%91%A4%E6%9F%B1%E5%85%A5%E9%A4%A1%E8%B6%85%E9%AE%AE%E7%94%9C",
+    "timestamp": "2026-11-07T08:22:09.071Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港超聯｜話題之戰沙田對流浪半場0：0　大衛施華正選披甲贏盡掌聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195682056126861312024968.jpeg/Tsh5s1fPVG7dCPxliQ4iZn3ExJ-S7zhMa9Zndk7WZ3Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408100/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%9D%92%E8%A1%A3%E9%9D%92%E9%9B%85%E8%8B%91%E5%A5%B3%E5%AD%90%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1",
     "timestamp": "2026-11-07T02:45:37.693Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "半山卑利士道保時捷撞路牌騎上欄杆　82歲男司機有驚無險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195677207024898048549108.jpeg/zSkTAj6HY1t6nfvkr81YKPLQ74MebuiP5uShYebkoWE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408102/%E5%8D%8A%E5%B1%B1%E5%8D%91%E5%88%A9%E5%A3%AB%E9%81%93%E4%BF%9D%E6%99%82%E6%8D%B7%E6%92%9E%E8%B7%AF%E7%89%8C%E9%A8%8E%E4%B8%8A%E6%AC%84%E6%9D%86-82%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%9C%89%E9%A9%9A%E7%84%A1%E9%9A%AA",
-    "timestamp": "2026-11-07T02:23:22.168Z",
     "strategy": ".content-card__main"
   }
 ];
