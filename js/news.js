@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T06:25:32.766Z
+// Last updated: 2026-11-07T06:39:16.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傅嘉莉宣布獲寶石學學士學位兩科奪A　大曬畢業證書期待戴四方帽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195738542756597760731490.jpeg/yTL5bYvIUmtCx-xOVSt1Quy5XojRd8CfSwgh6ksIIeo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408142/%E5%82%85%E5%98%89%E8%8E%89%E5%AE%A3%E5%B8%83%E7%8D%B2%E5%AF%B6%E7%9F%B3%E5%AD%B8%E5%AD%B8%E5%A3%AB%E5%AD%B8%E4%BD%8D%E5%85%A9%E7%A7%91%E5%A5%AAa-%E5%A4%A7%E6%9B%AC%E7%95%A2%E6%A5%AD%E8%AD%89%E6%9B%B8%E6%9C%9F%E5%BE%85%E6%88%B4%E5%9B%9B%E6%96%B9%E5%B8%BD",
+    "timestamp": "2026-11-07T06:39:16.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港青年發展高峰論壇｜李家超： 五年規劃提升青年發展機遇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190465767796117504389246.jpeg/Lavf3Xlwjy1V5NbWu44Zj8Vv37EU4Y_6c0GIcXNBiHE",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408094/%E5%85%A9%E5%9C%B0%E7%89%8C%E5%AF%B6%E9%A6%AC%E4%B8%AD%E7%92%B0%E9%81%95%E4%BE%8B%E5%B7%A6%E8%BD%89-%E7%B6%B2%E7%89%87%E6%9B%9D%E5%85%89%E5%BE%8C-%E8%AD%A6%E6%8B%98%E6%9C%AC%E5%9C%B0%E7%94%B7%E5%8F%B8%E6%A9%9F%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B",
     "timestamp": "2026-11-07T00:54:48.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山東少女初來經弄髒梳化　暖父送花安慰獲讚　影片瘋傳網民揭疑點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195033934132416512241605.png/kSScgx3lOo2xHO-mF-tFOWX9Hx8r5OIEu9-Zv7vfmb8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407324/%E5%B1%B1%E6%9D%B1%E5%B0%91%E5%A5%B3%E5%88%9D%E4%BE%86%E7%B6%93%E5%BC%84%E9%AB%92%E6%A2%B3%E5%8C%96-%E6%9A%96%E7%88%B6%E9%80%81%E8%8A%B1%E5%AE%89%E6%85%B0%E7%8D%B2%E8%AE%9A-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3%E7%B6%B2%E6%B0%91%E6%8F%AD%E7%96%91%E9%BB%9E",
-    "timestamp": "2026-11-07T00:33:51.488Z",
     "strategy": ".content-card__main"
   }
 ];
