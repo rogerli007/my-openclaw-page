@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T16:44:53.583Z
+// Last updated: 2026-11-07T16:55:42.107Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何猷亨已婚舊愛陳可欣瑞士貴族私院誕子　曾獲賭王給滿分四太狂讚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195862017399853056750839.jpeg/LTSTL20Mijs-qT7hLSVmsP7saj07Y-gtQJ_h5kCf4eY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408297/%E4%BD%95%E7%8C%B7%E4%BA%A8%E5%B7%B2%E5%A9%9A%E8%88%8A%E6%84%9B%E9%99%B3%E5%8F%AF%E6%AC%A3%E7%91%9E%E5%A3%AB%E8%B2%B4%E6%97%8F%E7%A7%81%E9%99%A2%E8%AA%95%E5%AD%90-%E6%9B%BE%E7%8D%B2%E8%B3%AD%E7%8E%8B%E7%B5%A6%E6%BB%BF%E5%88%86%E5%9B%9B%E5%A4%AA%E7%8B%82%E8%AE%9A",
+    "timestamp": "2026-11-07T16:55:42.107Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何猷亨已婚舊愛陳可欣瑞士貴族私院誕子　曾獲賭王給滿分四太狂讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195810769208348672376108.jpeg/218tXRt2gJ7dRBMpdcHy_OXUWHM7bNvCYWugO0RroDs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408256/%E8%97%8D%E7%94%B06%E6%AD%B2%E5%A5%B3%E8%A3%9C%E7%BF%92%E5%BE%8C%E9%9D%A2%E8%85%AB-%E7%88%B6%E6%86%82%E6%B6%89%E8%99%90%E5%85%92%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%9F%A5%E6%98%8E%E7%B6%93%E9%81%8E%E5%88%97%E7%B3%BE%E7%B4%9B",
     "timestamp": "2026-11-07T11:17:41.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天水圍嘉湖山莊樂湖居單位起火　一人昏迷倒臥梯間　獲救送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/4389491/org/c0dca1b2872bf4bc3ea6bae36cecc3c1.jpg/SmFOWSDkdQMGI3W1QvrqSOoRvaAoAcdHMKCrEjCgqxI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408252/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%98%89%E6%B9%96%E5%B1%B1%E8%8E%8A%E6%A8%82%E6%B9%96%E5%B1%85%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E4%B8%80%E4%BA%BA%E6%98%8F%E8%BF%B7%E5%80%92%E8%87%A5%E6%A2%AF%E9%96%93-%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2",
-    "timestamp": "2026-11-07T10:59:08.400Z",
     "strategy": ".content-card__main"
   }
 ];
