@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T13:29:14.521Z
+// Last updated: 2026-11-07T13:44:44.566Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "向太自爆每月基本開銷至少50萬　5隻愛犬月花4萬元專人服侍兼上課",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195776965311729664734968.jpeg/inuxI7xA452JxpBMJydt7FZnBps0UqDkgKB1xYCgdcU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408207/%E5%90%91%E5%A4%AA%E8%87%AA%E7%88%86%E6%AF%8F%E6%9C%88%E5%9F%BA%E6%9C%AC%E9%96%8B%E9%8A%B7%E8%87%B3%E5%B0%9150%E8%90%AC-5%E9%9A%BB%E6%84%9B%E7%8A%AC%E6%9C%88%E8%8A%B14%E8%90%AC%E5%85%83%E5%B0%88%E4%BA%BA%E6%9C%8D%E4%BE%8D%E5%85%BC%E4%B8%8A%E8%AA%B2",
+    "timestamp": "2026-11-07T13:44:44.566Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "3300人參加香港青年發展高峰論壇　麥美娟：將打造為年度旗艦品牌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195760221515943936913647.png/2lxEsw0NvZ7hgbq7CEEYzwITpNfZE8SSJKjLCSSoywk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60408180/%E5%8F%B0%E7%B1%8D%E7%94%B7%E5%AD%90%E6%9B%BC%E8%B0%B7%E6%9A%B9%E7%BE%85%E7%99%BE%E9%BA%97%E5%AE%AE%E5%A2%AE%E6%A8%93%E4%BA%A1-%E9%9B%BB%E6%A2%AF%E6%97%81%E6%91%94%E8%90%BDb1-%E9%A1%A7%E5%AE%A2%E7%9B%AE%E7%9D%B9%E5%80%92%E8%A1%80%E6%B3%8A",
     "timestamp": "2026-11-07T07:45:28.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薑罰是什麼？台母揭女兒遭父體罰疑虐待　網民聽1狠招心寒籲報警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195013435180453888490357.png/7UoMGtRm41L7yuWdHh54UHA5buZCm7fA1s-O-9bPjvs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60407451/%E5%8F%B0%E6%AF%8D%E6%8F%AD%E5%A5%B3%E5%85%92%E9%81%AD%E7%88%B6%E9%AB%94%E7%BD%B0-%E8%97%A4%E6%A2%9D%E6%89%93%E5%85%BC-%E8%96%91%E7%BD%B0-%E7%96%91%E6%B6%89%E8%99%90%E5%BE%85-%E7%B6%B2%E6%B0%91%E7%B1%B2%E5%A0%B1%E8%AD%A6",
-    "timestamp": "2026-11-07T07:19:34.197Z",
     "strategy": ".content-card__main"
   }
 ];
