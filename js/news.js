@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T00:33:51.488Z
+// Last updated: 2026-11-07T00:54:48.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩地牌寶馬中環違例左轉　網片曝光後　警拘本地男司機不小心駕駛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190465767796117504389246.jpeg/Lavf3Xlwjy1V5NbWu44Zj8Vv37EU4Y_6c0GIcXNBiHE",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408094/%E5%85%A9%E5%9C%B0%E7%89%8C%E5%AF%B6%E9%A6%AC%E4%B8%AD%E7%92%B0%E9%81%95%E4%BE%8B%E5%B7%A6%E8%BD%89-%E7%B6%B2%E7%89%87%E6%9B%9D%E5%85%89%E5%BE%8C-%E8%AD%A6%E6%8B%98%E6%9C%AC%E5%9C%B0%E7%94%B7%E5%8F%B8%E6%A9%9F%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B",
+    "timestamp": "2026-11-07T00:54:48.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山東少女初來經弄髒梳化　暖父送花安慰獲讚　影片瘋傳網民揭疑點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195570813940535296374618.jpeg/YbxDy4cTO5BJSph4nc3vX6lv4dDQMzSV0rGElOixhJQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408080/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E6%88%AA%E6%9F%A5-39%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-06T19:29:18.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖東私家車行車不穩遇截查　39歲男司機「吹爆波」　涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195570813940535296374618.jpeg/YbxDy4cTO5BJSph4nc3vX6lv4dDQMzSV0rGElOixhJQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408080/%E5%B0%96%E6%9D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%A1%8C%E8%BB%8A%E4%B8%8D%E7%A9%A9%E9%81%87%E6%88%AA%E6%9F%A5-39%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%88%86%E6%B3%A2-%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-06T19:17:59.023Z",
     "strategy": ".content-card__main"
   }
 ];
