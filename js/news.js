@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T04:45:14.908Z
+// Last updated: 2026-11-07T04:59:25.296Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "強烈東北季候風11.9殺到　天文台料高地吹烈風　一區半日急降10度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090656854352072704865024.jpeg/HvSUllbN8Wfi-kMdU4-rZ2SprXOZolTzvt5tSpvebUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408137/%E5%BC%B7%E7%83%88%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A811-9%E6%AE%BA%E5%88%B0-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E9%AB%98%E5%9C%B0%E5%90%B9%E7%83%88%E9%A2%A8-%E4%B8%80%E5%8D%80%E5%8D%8A%E6%97%A5%E6%80%A5%E9%99%8D10%E5%BA%A6",
+    "timestamp": "2026-11-07T04:59:25.296Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴拉圭銀行倒閉風波　總統培尼亞遭彈劾後被捕軟禁　副總統接任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195421557959168000914065.jpeg/R7DOzGDcbewcwek317pQV0Twx5J67uIOXilv1F4pb9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408087/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4-%E6%99%AE%E4%BA%AC%E8%AD%89%E5%AF%A611-10%E6%96%BC%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%88%89%E8%A1%8C",
     "timestamp": "2026-11-06T22:59:20.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美俄烏三方會談即將登場　普京證實11.10於阿布扎比舉行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195421557959168000914065.jpeg/R7DOzGDcbewcwek317pQV0Twx5J67uIOXilv1F4pb9Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408087/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4-%E6%99%AE%E4%BA%AC%E8%AD%89%E5%AF%A611-10%E6%96%BC%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%88%89%E8%A1%8C",
-    "timestamp": "2026-11-06T22:45:02.830Z",
     "strategy": ".content-card__main"
   }
 ];
