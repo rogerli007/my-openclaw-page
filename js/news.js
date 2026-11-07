@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T09:59:06.354Z
+// Last updated: 2026-11-07T10:18:56.870Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港超聯｜大衛施華首戰建功再膺最佳球員　感激香港球迷熱情支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195798466958200832719635.jpeg/Id-8DM_BZjejdTT4afC-FCNCt4Gee0asOA1fvjgNX74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408237/%E6%B8%AF%E8%B6%85%E8%81%AF-%E5%A4%A7%E8%A1%9B%E6%96%BD%E8%8F%AF%E9%A6%96%E6%88%B0%E5%BB%BA%E5%8A%9F%E5%86%8D%E8%86%BA%E6%9C%80%E4%BD%B3%E7%90%83%E5%93%A1-%E6%84%9F%E6%BF%80%E9%A6%99%E6%B8%AF%E7%90%83%E8%BF%B7%E7%86%B1%E6%83%85%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-11-07T10:18:56.870Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地訪日遊客未見復甦　日本稱力推地方旅遊吸引各國回頭客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195705074676928512280795.png/ZrSP6a5CToE7Rs0x9xePkqLMMttvb7m_Q2UlSUNlJUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408128/%E5%9F%BA%E6%9C%AC%E6%B3%95%E9%A0%92%E5%B8%8336%E5%91%A8%E5%B9%B4-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%9C%89%E6%95%88%E5%AF%A6%E8%B8%90-%E7%A2%BA%E4%BF%9D%E9%A6%99%E6%B8%AF%E9%95%B7%E6%9C%9F%E7%B9%81%E6%A6%AE%E7%A9%A9%E5%AE%9A",
     "timestamp": "2026-11-07T04:26:13.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海洋公園鬼屋假石堵路出口欠斜道　輪椅客卡關折返仍讚體驗望再訪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179939843933999104610783.jpeg/pFOhVx5vPu2Yen5TZWtZEtRDU_moqfrPJInWeQGJ1nk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407171/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E9%AC%BC%E5%B1%8B%E5%81%87%E7%9F%B3%E5%A0%B5%E8%B7%AF%E5%87%BA%E5%8F%A3%E6%AC%A0%E6%96%9C%E9%81%93-%E8%BC%AA%E6%A4%85%E5%AE%A2%E5%8D%A1%E9%97%9C%E6%8A%98%E8%BF%94%E4%BB%8D%E8%AE%9A%E9%AB%94%E9%A9%97%E6%9C%9B%E5%86%8D%E8%A8%AA",
-    "timestamp": "2026-11-07T04:16:16.624Z",
     "strategy": ".content-card__main"
   }
 ];
