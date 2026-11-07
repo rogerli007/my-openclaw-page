@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T22:53:20.986Z
+// Last updated: 2026-11-07T23:18:08.821Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大馬華裔女遊昆明　街頭遇已故外公舊照　赴華尋根揭外公參與抗戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195058864672739328475093.png/wQdmsVe1ERzaSAjWQfUgRlzt1gxI_gWeEWWELRFlhC0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407364/%E5%A4%A7%E9%A6%AC%E8%8F%AF%E8%A3%94%E5%A5%B3%E9%81%8A%E6%98%86%E6%98%8E-%E8%A1%97%E9%A0%AD%E9%81%87%E5%B7%B2%E6%95%85%E5%A4%96%E5%85%AC%E8%88%8A%E7%85%A7-%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9%E6%8F%AD%E5%A4%96%E5%85%AC%E5%8F%83%E8%88%87%E6%8A%97%E6%88%B0",
+    "timestamp": "2026-11-07T23:18:08.821Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今日一兩陣雨　氣溫24至28度　周二周三料最低氣溫18度以下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195915545774395392587496.png/8zvEtYuUw5Z7YX6_d_VvCB6na0AwYseL9GwEmPRsBJg",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408310/%E5%B1%8B%E5%AE%87%E7%BD%B2%E8%AD%8901%E5%A0%B1%E9%81%93%E6%9C%8930%E7%9F%B3%E5%B1%8E%E6%94%AF%E6%9F%B1%E6%AC%A0%E5%A6%A5%E7%95%B6-%E7%A8%B110%E6%9C%88%E6%8E%A5%E9%80%9A%E5%A0%B1%E8%AD%89%E7%9B%A3%E7%AE%A1%E5%88%B6%E5%BA%A6%E6%9C%89%E6%95%88",
     "timestamp": "2026-11-07T17:59:09.644Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀醉男衝出馬路　遭的士撞飛30米　傷者頭傷昏迷送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195911081516601344793280.jpeg/44pEaWbiFaDgCPXo5DiIQftyPZBfAqSWQHUicHp1InA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408309/%E5%B0%96%E6%B2%99%E5%92%80%E9%86%89%E7%94%B7%E8%A1%9D%E5%87%BA%E9%A6%AC%E8%B7%AF-%E9%81%AD%E7%9A%84%E5%A3%AB%E6%92%9E%E9%A3%9B30%E7%B1%B3-%E5%82%B7%E8%80%85%E9%A0%AD%E5%82%B7%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-11-07T17:44:59.192Z",
     "strategy": ".content-card__main"
   }
 ];
