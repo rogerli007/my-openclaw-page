@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T03:21:12.593Z
+// Last updated: 2026-11-07T03:45:38.958Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "璀璨之城｜戴耀明係「AI東先生」　慨嘆老戲骨短缺︰好多唔喺度囉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195695188282970112894051.jpeg/sLwWB1PGBTcbCqNM3r78YMUYjR0znwtZzKmu48ypruM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408116/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E6%88%B4%E8%80%80%E6%98%8E%E4%BF%82-ai%E6%9D%B1%E5%85%88%E7%94%9F-%E6%85%A8%E5%98%86%E8%80%81%E6%88%B2%E9%AA%A8%E7%9F%AD%E7%BC%BA-%E5%A5%BD%E5%A4%9A%E5%94%94%E5%96%BA%E5%BA%A6%E5%9B%89",
+    "timestamp": "2026-11-07T03:45:38.958Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英國男嬰心跳飆至每分鐘280下 愛犬異常黏人兩度提醒家人救回一命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408085/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%A5%B2%E6%93%8A%E4%BF%84%E7%BE%85%E6%96%AF%E7%85%89%E6%B2%B9%E8%A8%AD%E6%96%BD-%E4%BB%A5%E5%9B%9E%E6%87%89%E4%BF%84%E8%BB%8D%E6%89%93%E6%93%8A",
     "timestamp": "2026-11-06T21:44:48.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：烏克蘭將繼續襲擊俄羅斯煉油設施　以回應俄軍打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408085/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%A5%B2%E6%93%8A%E4%BF%84%E7%BE%85%E6%96%AF%E7%85%89%E6%B2%B9%E8%A8%AD%E6%96%BD-%E4%BB%A5%E5%9B%9E%E6%87%89%E4%BF%84%E8%BB%8D%E6%89%93%E6%93%8A",
-    "timestamp": "2026-11-06T21:29:23.024Z",
     "strategy": ".content-card__main"
   }
 ];
