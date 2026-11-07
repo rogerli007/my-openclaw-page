@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T05:45:19.154Z
+// Last updated: 2026-11-07T05:59:04.830Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立冬2026｜中醫教溫補養腎推介8食物人參啱唔啱？4款湯水健脾滋陰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194631687124815872089132.jpeg/aLD-_LeInLJEOhMz7vQw4dAIYwOXwciFStnLLUrZyy0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60406959/%E7%AB%8B%E5%86%AC2026-%E4%B8%AD%E9%86%AB%E6%95%99%E6%BA%AB%E8%A3%9C%E9%A4%8A%E8%85%8E%E6%8E%A8%E4%BB%8B8%E9%A3%9F%E7%89%A9%E4%BA%BA%E5%8F%83%E5%95%B1%E5%94%94%E5%95%B1-4%E6%AC%BE%E6%B9%AF%E6%B0%B4%E5%81%A5%E8%84%BE%E6%BB%8B%E9%99%B0",
+    "timestamp": "2026-11-07T05:59:04.830Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警方守網者聯乘WhatsApp　提3大關鍵防假冒陷阱　識別官方支援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195644035843231744783601.jpeg/ppdpam3z0bt2hYKIxW5Di1xjDESDuWgDnb3c4p293OI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408092/%E9%96%8B%E6%A5%AD%E9%80%BE%E5%8D%8A%E4%B8%96%E7%B4%80-%E5%A4%AA%E5%AD%90%E5%BC%BC%E8%A1%97%E9%87%91%E8%8F%AF%E5%86%B0%E5%BB%B3%E5%BB%9A%E6%89%80%E7%81%AB%E8%AD%A6-5%E4%BA%BA%E9%A0%88%E7%96%8F%E6%95%A3",
     "timestamp": "2026-11-06T23:59:11.549Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前女友另嫁同村男　貴州男質疑出軌報復　潛入家中投老鼠藥囚4年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195063843940732928894732.png/a3W-XlSKpHAR8ChvdVm64EhX0gLN4cmUW3zeFlt83hY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407341/%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%8F%A6%E5%AB%81%E5%90%8C%E6%9D%91%E7%94%B7-%E8%B2%B4%E5%B7%9E%E7%94%B7%E8%B3%AA%E7%96%91%E5%87%BA%E8%BB%8C%E5%A0%B1%E5%BE%A9-%E6%BD%9B%E5%85%A5%E5%AE%B6%E4%B8%AD%E6%8A%95%E8%80%81%E9%BC%A0%E8%97%A5%E5%9B%9A4%E5%B9%B4",
-    "timestamp": "2026-11-06T23:44:25.280Z",
     "strategy": ".content-card__main"
   }
 ];
