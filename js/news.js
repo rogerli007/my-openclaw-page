@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T10:59:08.400Z
+// Last updated: 2026-11-07T11:17:41.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藍田6歲女補習後面腫　父憂涉虐兒報案　警查明經過列糾紛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195810769208348672376108.jpeg/218tXRt2gJ7dRBMpdcHy_OXUWHM7bNvCYWugO0RroDs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408256/%E8%97%8D%E7%94%B06%E6%AD%B2%E5%A5%B3%E8%A3%9C%E7%BF%92%E5%BE%8C%E9%9D%A2%E8%85%AB-%E7%88%B6%E6%86%82%E6%B6%89%E8%99%90%E5%85%92%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%9F%A5%E6%98%8E%E7%B6%93%E9%81%8E%E5%88%97%E7%B3%BE%E7%B4%9B",
+    "timestamp": "2026-11-07T11:17:41.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天水圍嘉湖山莊樂湖居單位起火　一人昏迷倒臥梯間　獲救送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195716676243427328206374.png/-bTnaLfBNVCmaIfeBar4Dh7QkiblfzNe85ZOvPOWTrw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408136/%E4%B8%AD%E5%9C%8B%E5%A4%96%E8%B3%A3%E9%A8%8E%E6%89%8B%E5%A2%A8%E7%88%BE%E6%9C%AC%E9%81%87%E5%88%BA%E4%BA%A1-%E5%BE%9E%E6%97%A9%E5%81%9A%E5%88%B0%E5%A4%9C%E7%82%BA%E4%BE%9B%E5%AD%90%E8%AE%80%E6%9B%B8-51%E6%AD%B2%E7%96%91%E7%8A%AF%E8%90%BD%E7%B6%B2",
     "timestamp": "2026-11-07T05:17:07.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "強烈東北季候風11.9殺到　天文台料高地吹烈風　一區半日急降10度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090656854352072704865024.jpeg/HvSUllbN8Wfi-kMdU4-rZ2SprXOZolTzvt5tSpvebUo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408137/%E5%BC%B7%E7%83%88%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A811-9%E6%AE%BA%E5%88%B0-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E9%AB%98%E5%9C%B0%E5%90%B9%E7%83%88%E9%A2%A8-%E4%B8%80%E5%8D%80%E5%8D%8A%E6%97%A5%E6%80%A5%E9%99%8D10%E5%BA%A6",
-    "timestamp": "2026-11-07T04:59:25.296Z",
     "strategy": ".content-card__main"
   }
 ];
