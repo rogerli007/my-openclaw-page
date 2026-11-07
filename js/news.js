@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T08:59:00.552Z
+// Last updated: 2026-11-07T09:14:51.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國擬再迎新一輪示威　政府部署7萬警力嚴陣以待",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195089808943222784215984.jpeg/-K4Ngk05TMaYt8fZeB184dtn0imV4dIZdZ0nIXWdJyE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408220/%E6%B3%95%E5%9C%8B%E6%93%AC%E5%86%8D%E8%BF%8E%E6%96%B0%E4%B8%80%E8%BC%AA%E7%A4%BA%E5%A8%81-%E6%94%BF%E5%BA%9C%E9%83%A8%E7%BD%B27%E8%90%AC%E8%AD%A6%E5%8A%9B%E5%9A%B4%E9%99%A3%E4%BB%A5%E5%BE%85",
+    "timestamp": "2026-11-07T09:14:51.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聖保羅書院辦入學簡介會　高才爸欣賞港全方位教育　競爭無可避免",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195695188282970112894051.jpeg/sLwWB1PGBTcbCqNM3r78YMUYjR0znwtZzKmu48ypruM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408116/%E7%92%80%E7%92%A8%E4%B9%8B%E5%9F%8E-%E6%88%B4%E8%80%80%E6%98%8E%E4%BF%82-ai%E6%9D%B1%E5%85%88%E7%94%9F-%E6%85%A8%E5%98%86%E8%80%81%E6%88%B2%E9%AA%A8%E7%9F%AD%E7%BC%BA-%E5%A5%BD%E5%A4%9A%E5%94%94%E5%96%BA%E5%BA%A6%E5%9B%89",
     "timestamp": "2026-11-07T03:45:38.958Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英國男嬰心跳飆至每分鐘280下 愛犬異常黏人兩度提醒家人救回一命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195648932881895424754193.jpeg/0Jk69yqPFR2a5Ms3KNlZEhYtpKTZpq7s1NNlatTTZWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60407712/%E8%8B%B1%E5%9C%8B%E7%94%B7%E5%AC%B0%E5%BF%83%E8%B7%B3%E9%A3%86%E8%87%B3%E6%AF%8F%E5%88%86%E9%90%98280%E4%B8%8B-%E6%84%9B%E7%8A%AC%E7%95%B0%E5%B8%B8%E9%BB%8F%E4%BA%BA%E5%85%A9%E5%BA%A6%E6%8F%90%E9%86%92%E5%AE%B6%E4%BA%BA%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD",
-    "timestamp": "2026-11-07T03:21:12.593Z",
     "strategy": ".content-card__main"
   }
 ];
