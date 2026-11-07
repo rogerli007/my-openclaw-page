@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T10:18:56.870Z
+// Last updated: 2026-11-07T10:44:55.190Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "23歲中國女遊客涉盜竊在日本被捕　專攻24小時健身室或涉案10多宗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195796271877591040601473.png/WQpLYaIP6PMVVmvNG4J0dJTnBTBZu1iidzSXzHc0l8w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408235/23%E6%AD%B2%E4%B8%AD%E5%9C%8B%E5%A5%B3%E9%81%8A%E5%AE%A2%E6%B6%89%E7%9B%9C%E7%AB%8A%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%8D%95-%E5%B0%88%E6%94%BB24%E5%B0%8F%E6%99%82%E5%81%A5%E8%BA%AB%E5%AE%A4%E6%88%96%E6%B6%89%E6%A1%8810%E5%A4%9A%E5%AE%97",
+    "timestamp": "2026-11-07T10:44:55.190Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港超聯｜大衛施華首戰建功再膺最佳球員　感激香港球迷熱情支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195715585833439232149830.jpeg/h97z3kar38HDwc5RjxsKkatE_dZ3AvDSgTq8cYE6vHE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408133/%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%8A%80%E8%A1%8C%E5%80%92%E9%96%89%E9%A2%A8%E6%B3%A2-%E7%B8%BD%E7%B5%B1%E5%9F%B9%E5%B0%BC%E4%BA%9E%E9%81%AD%E5%BD%88%E5%8A%BE%E5%BE%8C%E8%A2%AB%E6%8D%95%E8%BB%9F%E7%A6%81-%E5%89%AF%E7%B8%BD%E7%B5%B1%E6%8E%A5%E4%BB%BB",
     "timestamp": "2026-11-07T04:45:14.908Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "基本法頒布36周年｜李家超：有效實踐　確保香港長期繁榮穩定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195705074676928512280795.png/ZrSP6a5CToE7Rs0x9xePkqLMMttvb7m_Q2UlSUNlJUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408128/%E5%9F%BA%E6%9C%AC%E6%B3%95%E9%A0%92%E5%B8%8336%E5%91%A8%E5%B9%B4-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%9C%89%E6%95%88%E5%AF%A6%E8%B8%90-%E7%A2%BA%E4%BF%9D%E9%A6%99%E6%B8%AF%E9%95%B7%E6%9C%9F%E7%B9%81%E6%A6%AE%E7%A9%A9%E5%AE%9A",
-    "timestamp": "2026-11-07T04:26:13.269Z",
     "strategy": ".content-card__main"
   }
 ];
