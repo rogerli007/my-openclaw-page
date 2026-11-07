@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T09:29:17.157Z
+// Last updated: 2026-11-07T09:59:06.354Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地訪日遊客未見復甦　日本稱力推地方旅遊吸引各國回頭客",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240229/839988374671462400053479.jpeg/4gzBnlCaozMnu_PCLpzG7YF9Oj2WEzFA8dnCRfHZwkU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408201/%E5%85%A7%E5%9C%B0%E8%A8%AA%E6%97%A5%E9%81%8A%E5%AE%A2%E6%9C%AA%E8%A6%8B%E5%BE%A9%E7%94%A6-%E6%97%A5%E6%9C%AC%E7%A8%B1%E5%8A%9B%E6%8E%A8%E5%9C%B0%E6%96%B9%E6%97%85%E9%81%8A%E5%90%B8%E5%BC%95%E5%90%84%E5%9C%8B%E5%9B%9E%E9%A0%AD%E5%AE%A2",
+    "timestamp": "2026-11-07T09:59:06.354Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球韓國賽︱吳英倫輕取中華台北王子維入決賽　李卓耀4強止步",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260924/1179939843933999104610783.jpeg/pFOhVx5vPu2Yen5TZWtZEtRDU_moqfrPJInWeQGJ1nk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407171/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E9%AC%BC%E5%B1%8B%E5%81%87%E7%9F%B3%E5%A0%B5%E8%B7%AF%E5%87%BA%E5%8F%A3%E6%AC%A0%E6%96%9C%E9%81%93-%E8%BC%AA%E6%A4%85%E5%AE%A2%E5%8D%A1%E9%97%9C%E6%8A%98%E8%BF%94%E4%BB%8D%E8%AE%9A%E9%AB%94%E9%A9%97%E6%9C%9B%E5%86%8D%E8%A8%AA",
     "timestamp": "2026-11-07T04:16:16.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳美寶：五年內將香港機場航點增至240個　聚焦中東非洲等市場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195699356410318848439201.jpeg/dD0BsWWgaFtsXFsoBHJZqeLF4arIbxzpNYVT4TWFU-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408125/%E9%99%B3%E7%BE%8E%E5%AF%B6-%E4%BA%94%E5%B9%B4%E5%85%A7%E5%B0%87%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E8%88%AA%E9%BB%9E%E5%A2%9E%E8%87%B3240%E5%80%8B-%E8%81%9A%E7%84%A6%E4%B8%AD%E6%9D%B1%E9%9D%9E%E6%B4%B2%E7%AD%89%E5%B8%82%E5%A0%B4",
-    "timestamp": "2026-11-07T03:59:16.450Z",
     "strategy": ".content-card__main"
   }
 ];
