@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T11:17:41.180Z
+// Last updated: 2026-11-07T11:29:06.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新西蘭大選：兩黨得票跌破三成　執政聯盟料議席過半但僅一席優勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195808801677119488762395.jpeg/ww-May85ja3RbZx0ZLgsGydHNZ970swXJy0jsictI7I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408250/%E6%96%B0%E8%A5%BF%E8%98%AD%E5%A4%A7%E9%81%B8-%E5%85%A9%E9%BB%A8%E5%BE%97%E7%A5%A8%E8%B7%8C%E7%A0%B4%E4%B8%89%E6%88%90-%E5%9F%B7%E6%94%BF%E8%81%AF%E7%9B%9F%E6%96%99%E8%AD%B0%E5%B8%AD%E9%81%8E%E5%8D%8A%E4%BD%86%E5%83%85%E4%B8%80%E5%B8%AD%E5%84%AA%E5%8B%A2",
+    "timestamp": "2026-11-07T11:29:06.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藍田6歲女補習後面腫　父憂涉虐兒報案　警查明經過列糾紛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250827/1037510487484665856237056.jpeg/DedENYhp7ocqSmGStL8bWwqoXYUTUSBY_R-PTf0fj00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408145/%E5%BD%AD%E5%8D%9A-%E8%8B%B1%E5%81%89%E9%81%94%E6%96%BD%E5%A3%93%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%AE%A2%E6%88%B6%E5%8A%A0%E5%85%A5%E8%BF%BD%E8%B9%A4%E7%B3%BB%E7%B5%B1-%E4%BB%A5%E9%81%8F%E6%AD%A2ai%E6%99%B6%E7%89%87%E8%B5%B0%E7%A7%81",
     "timestamp": "2026-11-07T05:28:42.367Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國外賣騎手墨爾本遇刺亡：從早做到夜為供子讀書　51歲疑犯落網",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195716676243427328206374.png/-bTnaLfBNVCmaIfeBar4Dh7QkiblfzNe85ZOvPOWTrw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408136/%E4%B8%AD%E5%9C%8B%E5%A4%96%E8%B3%A3%E9%A8%8E%E6%89%8B%E5%A2%A8%E7%88%BE%E6%9C%AC%E9%81%87%E5%88%BA%E4%BA%A1-%E5%BE%9E%E6%97%A9%E5%81%9A%E5%88%B0%E5%A4%9C%E7%82%BA%E4%BE%9B%E5%AD%90%E8%AE%80%E6%9B%B8-51%E6%AD%B2%E7%96%91%E7%8A%AF%E8%90%BD%E7%B6%B2",
-    "timestamp": "2026-11-07T05:17:07.964Z",
     "strategy": ".content-card__main"
   }
 ];
