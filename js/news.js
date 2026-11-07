@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T16:55:42.107Z
+// Last updated: 2026-11-07T17:17:35.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LOL世界賽2026｜英雄聯盟4強名單!準決賽程時間結果+免費直播連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195904735811473408247109.png/6eT8r4L2HJtcdYBQ0xVlvO2E7vwtswpYuo0sirqNLIo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F4%E5%BC%B7%E5%90%8D%E5%96%AE-%E6%BA%96%E6%B1%BA%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
+    "timestamp": "2026-11-07T17:17:35.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何猷亨已婚舊愛陳可欣瑞士貴族私院誕子　曾獲賭王給滿分四太狂讚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195808801677119488762395.jpeg/ww-May85ja3RbZx0ZLgsGydHNZ970swXJy0jsictI7I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408250/%E6%96%B0%E8%A5%BF%E8%98%AD%E5%A4%A7%E9%81%B8-%E5%85%A9%E9%BB%A8%E5%BE%97%E7%A5%A8%E8%B7%8C%E7%A0%B4%E4%B8%89%E6%88%90-%E5%9F%B7%E6%94%BF%E8%81%AF%E7%9B%9F%E6%96%99%E8%AD%B0%E5%B8%AD%E9%81%8E%E5%8D%8A%E4%BD%86%E5%83%85%E4%B8%80%E5%B8%AD%E5%84%AA%E5%8B%A2",
     "timestamp": "2026-11-07T11:29:06.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藍田6歲女補習後面腫　父憂涉虐兒報案　警查明經過列糾紛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195810769208348672376108.jpeg/218tXRt2gJ7dRBMpdcHy_OXUWHM7bNvCYWugO0RroDs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408256/%E8%97%8D%E7%94%B06%E6%AD%B2%E5%A5%B3%E8%A3%9C%E7%BF%92%E5%BE%8C%E9%9D%A2%E8%85%AB-%E7%88%B6%E6%86%82%E6%B6%89%E8%99%90%E5%85%92%E5%A0%B1%E6%A1%88-%E8%AD%A6%E6%9F%A5%E6%98%8E%E7%B6%93%E9%81%8E%E5%88%97%E7%B3%BE%E7%B4%9B",
-    "timestamp": "2026-11-07T11:17:41.180Z",
     "strategy": ".content-card__main"
   }
 ];
