@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T18:59:03.001Z
+// Last updated: 2026-11-07T19:17:31.270Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華講述極限練功魔鬼細節：倒立撐地一小時 頭下放水盆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195710866410967040826759.jpeg/2hkRBm1q8j5v1ZvM3bx9ClCHdy0zn9fJlBCUFJQQlBQ",
+    "url": "https://www.hk01.com/01TV/60408132/%E5%85%83%E8%8F%AF%E8%AC%9B%E8%BF%B0%E6%A5%B5%E9%99%90%E7%B7%B4%E5%8A%9F%E9%AD%94%E9%AC%BC%E7%B4%B0%E7%AF%80-%E5%80%92%E7%AB%8B%E6%92%90%E5%9C%B0%E4%B8%80%E5%B0%8F%E6%99%82-%E9%A0%AD%E4%B8%8B%E6%94%BE%E6%B0%B4%E7%9B%86",
+    "timestamp": "2026-11-07T19:17:31.270Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警東九龍調配無人機執法　3司機涉危駕被捕　另1鐵騎士被傳票檢控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195776965311729664734968.jpeg/inuxI7xA452JxpBMJydt7FZnBps0UqDkgKB1xYCgdcU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408207/%E5%90%91%E5%A4%AA%E8%87%AA%E7%88%86%E6%AF%8F%E6%9C%88%E5%9F%BA%E6%9C%AC%E9%96%8B%E9%8A%B7%E8%87%B3%E5%B0%9150%E8%90%AC-5%E9%9A%BB%E6%84%9B%E7%8A%AC%E6%9C%88%E8%8A%B14%E8%90%AC%E5%85%83%E5%B0%88%E4%BA%BA%E6%9C%8D%E4%BE%8D%E5%85%BC%E4%B8%8A%E8%AA%B2",
     "timestamp": "2026-11-07T13:44:44.566Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "3300人參加香港青年發展高峰論壇　麥美娟：將打造為年度旗艦品牌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195820994766311424308469.jpeg/CcuAH4bZwEDjQ9FbL3g4kH40enSDrqlj_V3NwP1dzcA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408267/3300%E4%BA%BA%E5%8F%83%E5%8A%A0%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E7%99%BC%E5%B1%95%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E5%B0%87%E6%89%93%E9%80%A0%E7%82%BA%E5%B9%B4%E5%BA%A6%E6%97%97%E8%89%A6%E5%93%81%E7%89%8C",
-    "timestamp": "2026-11-07T13:29:14.521Z",
     "strategy": ".content-card__main"
   }
 ];
