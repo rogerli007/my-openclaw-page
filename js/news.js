@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T05:59:04.830Z
+// Last updated: 2026-11-07T06:25:32.766Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港青年發展高峰論壇｜李家超： 五年規劃提升青年發展機遇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195732142236110848267835.jpeg/_Z3WaLnRpxjk0b-B-wjRBTYb52cVKljpTk1HCE5NRwg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408153/%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E7%99%BC%E5%B1%95%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83%E6%8F%90%E5%8D%87%E9%9D%92%E5%B9%B4%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87",
+    "timestamp": "2026-11-07T06:25:32.766Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立冬2026｜中醫教溫補養腎推介8食物人參啱唔啱？4款湯水健脾滋陰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195033934132416512241605.png/kSScgx3lOo2xHO-mF-tFOWX9Hx8r5OIEu9-Zv7vfmb8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407324/%E5%B1%B1%E6%9D%B1%E5%B0%91%E5%A5%B3%E5%88%9D%E4%BE%86%E7%B6%93%E5%BC%84%E9%AB%92%E6%A2%B3%E5%8C%96-%E6%9A%96%E7%88%B6%E9%80%81%E8%8A%B1%E5%AE%89%E6%85%B0%E7%8D%B2%E8%AE%9A-%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3%E7%B6%B2%E6%B0%91%E6%8F%AD%E7%96%91%E9%BB%9E",
     "timestamp": "2026-11-07T00:33:51.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "開業逾半世紀　太子弼街金華冰廳廚所火警　5人須疏散",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195644035843231744783601.jpeg/ppdpam3z0bt2hYKIxW5Di1xjDESDuWgDnb3c4p293OI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408092/%E9%96%8B%E6%A5%AD%E9%80%BE%E5%8D%8A%E4%B8%96%E7%B4%80-%E5%A4%AA%E5%AD%90%E5%BC%BC%E8%A1%97%E9%87%91%E8%8F%AF%E5%86%B0%E5%BB%B3%E5%BB%9A%E6%89%80%E7%81%AB%E8%AD%A6-5%E4%BA%BA%E9%A0%88%E7%96%8F%E6%95%A3",
-    "timestamp": "2026-11-06T23:59:11.549Z",
     "strategy": ".content-card__main"
   }
 ];
