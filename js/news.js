@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T07:19:34.197Z
+// Last updated: 2026-11-07T07:45:28.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台籍男子曼谷暹羅百麗宮墮樓亡！電梯旁摔落B1　顧客目睹倒血泊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195760221515943936913647.png/2lxEsw0NvZ7hgbq7CEEYzwITpNfZE8SSJKjLCSSoywk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60408180/%E5%8F%B0%E7%B1%8D%E7%94%B7%E5%AD%90%E6%9B%BC%E8%B0%B7%E6%9A%B9%E7%BE%85%E7%99%BE%E9%BA%97%E5%AE%AE%E5%A2%AE%E6%A8%93%E4%BA%A1-%E9%9B%BB%E6%A2%AF%E6%97%81%E6%91%94%E8%90%BDb1-%E9%A1%A7%E5%AE%A2%E7%9B%AE%E7%9D%B9%E5%80%92%E8%A1%80%E6%B3%8A",
+    "timestamp": "2026-11-07T07:45:28.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "薑罰是什麼？台母揭女兒遭父體罰疑虐待　網民聽1狠招心寒籲報警",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250531/1005349729720078336102376.jpeg/QjDGgiaJxUkJkj-A0kIyRusl5DnN4OmjAnCbcwJwm3M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408099/%E4%BD%95%E7%AB%8B%E5%B3%B0%E8%88%87%E7%BE%8E%E6%96%B9%E7%B6%93%E8%B2%BF%E7%89%BD%E9%A0%AD%E4%BA%BA%E9%80%9A%E8%A9%B1-%E5%B0%B1%E8%8F%AF%E5%BA%9C%E5%B0%8D%E4%B8%AD%E6%96%B9%E7%B6%93%E8%B2%BF%E9%99%90%E5%88%B6%E6%8E%AA%E6%96%BD%E8%A1%A8%E9%97%9C%E5%88%87",
     "timestamp": "2026-11-07T01:56:33.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "基斯頓比爾為拍戲有多拚？皮包骨半年變蝙蝠俠　盤點10大代表角色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195074328098508800863790.png/JcCHrR4C8Y4ceiUh-S8OP_0VEfjGaUevyczHw8nMx8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407595/%E5%9F%BA%E6%96%AF%E9%A0%93%E6%AF%94%E7%88%BE%E7%82%BA%E6%8B%8D%E6%88%B2%E6%9C%89%E5%A4%9A%E6%8B%9A-%E7%9A%AE%E5%8C%85%E9%AA%A8%E5%8D%8A%E5%B9%B4%E8%AE%8A%E8%9D%99%E8%9D%A0%E4%BF%A0-%E7%9B%A4%E9%BB%9E10%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%A7%92%E8%89%B2",
-    "timestamp": "2026-11-07T01:47:32.520Z",
     "strategy": ".content-card__main"
   }
 ];
