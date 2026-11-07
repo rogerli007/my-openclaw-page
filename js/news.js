@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T11:29:06.073Z
+// Last updated: 2026-11-07T11:44:50.397Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本茨城縣對開海域5.6級淺層地震　最大震度3級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195820193272565760789260.png/UPXjTmuIWrkxubyGxLJg1V8T99ofzAAVKCCZbSggmW0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408266/%E6%97%A5%E6%9C%AC%E8%8C%A8%E5%9F%8E%E7%B8%A3%E5%B0%8D%E9%96%8B%E6%B5%B7%E5%9F%9F5-6%E7%B4%9A%E6%B7%BA%E5%B1%A4%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A63%E7%B4%9A",
+    "timestamp": "2026-11-07T11:44:50.397Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新西蘭大選：兩黨得票跌破三成　執政聯盟料議席過半但僅一席優勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195727673117118464427360.jpeg/_1sgjFLz8PumNsl5uheUSpjc5PXTd_14_kIhwP5CIcA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408150/%E8%AD%A6%E6%96%B9%E5%AE%88%E7%B6%B2%E8%80%85%E8%81%AF%E4%B9%98whatsapp-%E6%8F%903%E5%A4%A7%E9%97%9C%E9%8D%B5%E9%98%B2%E5%81%87%E5%86%92%E9%99%B7%E9%98%B1-%E8%AD%98%E5%88%A5%E5%AE%98%E6%96%B9%E6%94%AF%E6%8F%B4",
     "timestamp": "2026-11-07T05:45:19.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "彭博：英偉達施壓東南亞客戶加入追蹤系統　以遏止AI晶片走私",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250827/1037510487484665856237056.jpeg/DedENYhp7ocqSmGStL8bWwqoXYUTUSBY_R-PTf0fj00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408145/%E5%BD%AD%E5%8D%9A-%E8%8B%B1%E5%81%89%E9%81%94%E6%96%BD%E5%A3%93%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%AE%A2%E6%88%B6%E5%8A%A0%E5%85%A5%E8%BF%BD%E8%B9%A4%E7%B3%BB%E7%B5%B1-%E4%BB%A5%E9%81%8F%E6%AD%A2ai%E6%99%B6%E7%89%87%E8%B5%B0%E7%A7%81",
-    "timestamp": "2026-11-07T05:28:42.367Z",
     "strategy": ".content-card__main"
   }
 ];
