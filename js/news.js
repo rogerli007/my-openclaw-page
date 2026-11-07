@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T01:56:33.570Z
+// Last updated: 2026-11-07T02:23:22.168Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "半山卑利士道保時捷撞路牌騎上欄杆　82歲男司機有驚無險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195677207024898048549108.jpeg/zSkTAj6HY1t6nfvkr81YKPLQ74MebuiP5uShYebkoWE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408102/%E5%8D%8A%E5%B1%B1%E5%8D%91%E5%88%A9%E5%A3%AB%E9%81%93%E4%BF%9D%E6%99%82%E6%8D%B7%E6%92%9E%E8%B7%AF%E7%89%8C%E9%A8%8E%E4%B8%8A%E6%AC%84%E6%9D%86-82%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%9C%89%E9%A9%9A%E7%84%A1%E9%9A%AA",
+    "timestamp": "2026-11-07T02:23:22.168Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何立峰與美方經貿牽頭人通話　就華府對中方經貿限制措施表關切",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195579754091122688063519.jpeg/LNa5p4SD4i9RDkadDzpzzmlpIemctcd05uCbfebgm30",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408083/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%8F%BE%E6%99%82%E9%BB%9E%E7%94%B7%E8%B3%8A%E5%81%B7%E5%8D%A1-%E5%BE%97%E6%89%8B%E9%80%83%E8%B5%B0%E9%9C%B2%E5%85%A7%E8%A4%B2-%E5%BA%97%E6%96%B9-%E9%A9%9A%E5%88%B0%E7%94%A9%E8%A4%B2-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-06T20:45:35.039Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地現時點男賊偷卡　得手逃走露內褲　店方：驚到甩褲？｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195579754091122688063519.jpeg/LNa5p4SD4i9RDkadDzpzzmlpIemctcd05uCbfebgm30",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408083/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%8F%BE%E6%99%82%E9%BB%9E%E7%94%B7%E8%B3%8A%E5%81%B7%E5%8D%A1-%E5%BE%97%E6%89%8B%E9%80%83%E8%B5%B0%E9%9C%B2%E5%85%A7%E8%A4%B2-%E5%BA%97%E6%96%B9-%E9%A9%9A%E5%88%B0%E7%94%A9%E8%A4%B2-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-06T20:20:07.076Z",
     "strategy": ".content-card__main"
   }
 ];
