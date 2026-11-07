@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T06:59:14.416Z
+// Last updated: 2026-11-07T07:19:34.197Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薑罰是什麼？台母揭女兒遭父體罰疑虐待　網民聽1狠招心寒籲報警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195013435180453888490357.png/7UoMGtRm41L7yuWdHh54UHA5buZCm7fA1s-O-9bPjvs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60407451/%E5%8F%B0%E6%AF%8D%E6%8F%AD%E5%A5%B3%E5%85%92%E9%81%AD%E7%88%B6%E9%AB%94%E7%BD%B0-%E8%97%A4%E6%A2%9D%E6%89%93%E5%85%BC-%E8%96%91%E7%BD%B0-%E7%96%91%E6%B6%89%E8%99%90%E5%BE%85-%E7%B6%B2%E6%B0%91%E7%B1%B2%E5%A0%B1%E8%AD%A6",
+    "timestamp": "2026-11-07T07:19:34.197Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "體壇札記｜C朗猶如葡萄牙名片卻黯然離場　一代球王值得盛大告別",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195074328098508800863790.png/JcCHrR4C8Y4ceiUh-S8OP_0VEfjGaUevyczHw8nMx8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60407595/%E5%9F%BA%E6%96%AF%E9%A0%93%E6%AF%94%E7%88%BE%E7%82%BA%E6%8B%8D%E6%88%B2%E6%9C%89%E5%A4%9A%E6%8B%9A-%E7%9A%AE%E5%8C%85%E9%AA%A8%E5%8D%8A%E5%B9%B4%E8%AE%8A%E8%9D%99%E8%9D%A0%E4%BF%A0-%E7%9B%A4%E9%BB%9E10%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%A7%92%E8%89%B2",
     "timestamp": "2026-11-07T01:47:32.520Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "連鎖食店旺角分店驚現3老鼠　炮台山分店燈箱內爬滿蟲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195362448354316288917625.jpeg/Y3R03FvW0oayJSXkRKf-AGS_yc5bfPW7FeRbeRXkW3k",
-    "url": "https://www.hk01.com/01TV/60407835/%E9%80%A3%E9%8E%96%E9%A3%9F%E5%BA%97%E6%97%BA%E8%A7%92%E5%88%86%E5%BA%97%E9%A9%9A%E7%8F%BE3%E8%80%81%E9%BC%A0-%E7%82%AE%E5%8F%B0%E5%B1%B1%E5%88%86%E5%BA%97%E7%87%88%E7%AE%B1%E5%85%A7%E7%88%AC%E6%BB%BF%E8%9F%B2",
-    "timestamp": "2026-11-07T01:20:15.441Z",
     "strategy": ".content-card__main"
   }
 ];
