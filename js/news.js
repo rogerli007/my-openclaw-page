@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T14:18:46.002Z
+// Last updated: 2026-11-07T14:44:47.344Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "谷婭溦同情前「星夢一姐」菊梓喬人氣大不如前：好講你條命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195867079824117760748903.jpeg/SmNMIPV2pgcxXjVEkKBual4sVLapD4ylYfADemHwA3o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408300/%E8%B0%B7%E5%A9%AD%E6%BA%A6%E5%90%8C%E6%83%85%E5%89%8D-%E6%98%9F%E5%A4%A2%E4%B8%80%E5%A7%90-%E8%8F%8A%E6%A2%93%E5%96%AC%E4%BA%BA%E6%B0%A3%E5%A4%A7%E4%B8%8D%E5%A6%82%E5%89%8D-%E5%A5%BD%E8%AC%9B%E4%BD%A0%E6%A2%9D%E5%91%BD",
+    "timestamp": "2026-11-07T14:44:47.344Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒指民主黨擬推翻特朗普加拿大關稅計劃　加總理卡尼：歡迎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195774589431451648260453.png/UItM9KTEW0XVDkPGnNTKEymW8-Wcka_1dn9LynZ_S8o",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408172/%E6%9C%89%E7%89%87-%E8%8D%83%E7%81%A3%E8%B7%AFp%E7%89%8C%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%B5%B7%E7%81%AB-%E8%BB%8A%E9%A0%AD%E7%81%AB%E5%85%89%E7%86%8A%E7%86%8A%E6%B9%A7%E6%BF%83%E7%85%99-%E5%85%A5%E5%B1%AF%E9%96%80%E5%85%A8%E7%B7%9A%E5%B0%81",
     "timestamp": "2026-11-07T08:44:07.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣州美食｜西關竹園70+年老字號竹升麵！雲吞整粒瑤柱入餡超鮮甜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195407689916616704496702.jpeg/B5eUxcXAXJ4bjhTtBeWg7qZPOWUDungeyLgGZsi4BmY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407561/%E5%BB%A3%E5%B7%9E%E7%BE%8E%E9%A3%9F-%E8%A5%BF%E9%97%9C%E7%AB%B9%E5%9C%9270-%E5%B9%B4%E8%80%81%E5%AD%97%E8%99%9F%E7%AB%B9%E5%8D%87%E9%BA%B5-%E9%9B%B2%E5%90%9E%E6%95%B4%E7%B2%92%E7%91%A4%E6%9F%B1%E5%85%A5%E9%A4%A1%E8%B6%85%E9%AE%AE%E7%94%9C",
-    "timestamp": "2026-11-07T08:22:09.071Z",
     "strategy": ".content-card__main"
   }
 ];
