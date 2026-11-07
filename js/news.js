@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T23:44:55.355Z
+// Last updated: 2026-11-07T23:59:14.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "空肚飲無糖咖啡能減肥控糖？英國研究警告：恐使早餐後血糖暴增",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189237124386263040973806.jpeg/cnn1SdR5bYqNf3DY4AiXLwGJDrRMA8cDrFCWdKxQlnQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60399601/%E7%A9%BA%E8%82%9A%E9%A3%B2%E7%84%A1%E7%B3%96%E5%92%96%E5%95%A1%E8%83%BD%E6%B8%9B%E8%82%A5%E6%8E%A7%E7%B3%96-%E8%8B%B1%E5%9C%8B%E7%A0%94%E7%A9%B6%E8%AD%A6%E5%91%8A-%E6%81%90%E4%BD%BF%E6%97%A9%E9%A4%90%E5%BE%8C%E8%A1%80%E7%B3%96%E6%9A%B4%E5%A2%9E",
+    "timestamp": "2026-11-07T23:59:14.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大馬華裔女遊昆明　街頭遇已故外公舊照　赴華尋根揭外公參與抗戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195926895976255488312604.jpeg/YeNeAyArXJAkUga37tUP840pgmo0rVp4uGbeC7hm3gs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408313/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E8%AA%BF%E9%85%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%9F%B7%E6%B3%95-3%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95-%E5%8F%A61%E9%90%B5%E9%A8%8E%E5%A3%AB%E8%A2%AB%E5%82%B3%E7%A5%A8%E6%AA%A2%E6%8E%A7",
     "timestamp": "2026-11-07T18:59:03.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Anthropic擬11月納斯達克上市　投資人指此前2萬億美元估值難實現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408311/anthropic%E6%93%AC11%E6%9C%88%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B%E4%B8%8A%E5%B8%82-%E6%8A%95%E8%B3%87%E4%BA%BA%E6%8C%87%E6%AD%A4%E5%89%8D2%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E9%9B%A3%E5%AF%A6%E7%8F%BE",
-    "timestamp": "2026-11-07T18:45:12.179Z",
     "strategy": ".content-card__main"
   }
 ];
