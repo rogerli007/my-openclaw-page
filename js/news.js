@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T06:39:16.086Z
+// Last updated: 2026-11-07T06:59:14.416Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "體壇札記｜C朗猶如葡萄牙名片卻黯然離場　一代球王值得盛大告別",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195738175662723072814320.jpeg/FAMd4nFKHY2Gc6FDaFBMKlTunEZol8MKIz5PySM-T8k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408124/%E9%AB%94%E5%A3%87%E6%9C%AD%E8%A8%98-c%E6%9C%97%E7%8C%B6%E5%A6%82%E8%91%A1%E8%90%84%E7%89%99%E5%90%8D%E7%89%87%E5%8D%BB%E9%BB%AF%E7%84%B6%E9%9B%A2%E5%A0%B4-%E4%B8%80%E4%BB%A3%E7%90%83%E7%8E%8B%E5%80%BC%E5%BE%97%E7%9B%9B%E5%A4%A7%E5%91%8A%E5%88%A5",
+    "timestamp": "2026-11-07T06:59:14.416Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傅嘉莉宣布獲寶石學學士學位兩科奪A　大曬畢業證書期待戴四方帽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195362448354316288917625.jpeg/Y3R03FvW0oayJSXkRKf-AGS_yc5bfPW7FeRbeRXkW3k",
     "url": "https://www.hk01.com/01TV/60407835/%E9%80%A3%E9%8E%96%E9%A3%9F%E5%BA%97%E6%97%BA%E8%A7%92%E5%88%86%E5%BA%97%E9%A9%9A%E7%8F%BE3%E8%80%81%E9%BC%A0-%E7%82%AE%E5%8F%B0%E5%B1%B1%E5%88%86%E5%BA%97%E7%87%88%E7%AE%B1%E5%85%A7%E7%88%AC%E6%BB%BF%E8%9F%B2",
     "timestamp": "2026-11-07T01:20:15.441Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩地牌寶馬中環違例左轉　網片曝光後　警拘本地男司機不小心駕駛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190465767796117504389246.jpeg/Lavf3Xlwjy1V5NbWu44Zj8Vv37EU4Y_6c0GIcXNBiHE",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408094/%E5%85%A9%E5%9C%B0%E7%89%8C%E5%AF%B6%E9%A6%AC%E4%B8%AD%E7%92%B0%E9%81%95%E4%BE%8B%E5%B7%A6%E8%BD%89-%E7%B6%B2%E7%89%87%E6%9B%9D%E5%85%89%E5%BE%8C-%E8%AD%A6%E6%8B%98%E6%9C%AC%E5%9C%B0%E7%94%B7%E5%8F%B8%E6%A9%9F%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B",
-    "timestamp": "2026-11-07T00:54:48.993Z",
     "strategy": ".content-card__main"
   }
 ];
