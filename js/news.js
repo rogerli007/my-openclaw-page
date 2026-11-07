@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T11:53:23.459Z
+// Last updated: 2026-11-07T12:44:55.487Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國外賣騎手墨爾本遇刺亡　中領館：要求警方全力徹查、嚴懲兇手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195836706939473920872503.jpeg/STmMmiT-A3WPqpRNJRhm2q6RykM61tfYSwKwxEsCsMQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408280/%E4%B8%AD%E5%9C%8B%E5%A4%96%E8%B3%A3%E9%A8%8E%E6%89%8B%E5%A2%A8%E7%88%BE%E6%9C%AC%E9%81%87%E5%88%BA%E4%BA%A1-%E4%B8%AD%E9%A0%98%E9%A4%A8-%E8%A6%81%E6%B1%82%E8%AD%A6%E6%96%B9%E5%85%A8%E5%8A%9B%E5%BE%B9%E6%9F%A5-%E5%9A%B4%E6%87%B2%E5%85%87%E6%89%8B",
+    "timestamp": "2026-11-07T12:44:55.487Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《戲說台灣》林姿言古裝撞樣BIGBANG大聲　對比圖瘋傳近150萬瀏覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195732142236110848267835.jpeg/_Z3WaLnRpxjk0b-B-wjRBTYb52cVKljpTk1HCE5NRwg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408153/%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E7%99%BC%E5%B1%95%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83%E6%8F%90%E5%8D%87%E9%9D%92%E5%B9%B4%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87",
     "timestamp": "2026-11-07T06:25:32.766Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "立冬2026｜中醫教溫補養腎推介8食物人參啱唔啱？4款湯水健脾滋陰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194631687124815872089132.jpeg/aLD-_LeInLJEOhMz7vQw4dAIYwOXwciFStnLLUrZyy0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60406959/%E7%AB%8B%E5%86%AC2026-%E4%B8%AD%E9%86%AB%E6%95%99%E6%BA%AB%E8%A3%9C%E9%A4%8A%E8%85%8E%E6%8E%A8%E4%BB%8B8%E9%A3%9F%E7%89%A9%E4%BA%BA%E5%8F%83%E5%95%B1%E5%94%94%E5%95%B1-4%E6%AC%BE%E6%B9%AF%E6%B0%B4%E5%81%A5%E8%84%BE%E6%BB%8B%E9%99%B0",
-    "timestamp": "2026-11-07T05:59:04.830Z",
     "strategy": ".content-card__main"
   }
 ];
