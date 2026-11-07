@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T18:20:57.611Z
+// Last updated: 2026-11-07T18:45:12.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Anthropic擬11月納斯達克上市　投資人指此前2萬億美元估值難實現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408311/anthropic%E6%93%AC11%E6%9C%88%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B%E4%B8%8A%E5%B8%82-%E6%8A%95%E8%B3%87%E4%BA%BA%E6%8C%87%E6%AD%A4%E5%89%8D2%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC%E9%9B%A3%E5%AF%A6%E7%8F%BE",
+    "timestamp": "2026-11-07T18:45:12.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic擬11月納斯達克上市　投資人指此前2萬億美元估值難實現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195821105558851584358961.jpeg/Wavb98vGt4rvryRTAUZXFUveON7J9LO80o4lQNKOJUA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408261/%E5%89%8Dtvb%E4%B8%BB%E6%92%AD-%E7%BF%BB%E7%89%88%E5%A7%9A%E5%AD%90%E7%BE%9A-%E9%84%A7%E8%A9%A9%E7%A9%8E%E5%8D%87%E6%A0%BC%E4%BA%BA%E6%AF%8D-%E9%9B%A2%E5%B7%A2%E5%BE%8C%E8%BD%89%E5%9E%8B%E5%81%9A%E5%A4%A7%E5%AD%B8%E8%AC%9B%E5%B8%AB",
     "timestamp": "2026-11-07T13:18:14.682Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東涌西站支柱疑灌石屎「未到頂」　路政署要求港鐵兩周內交報告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195584973382356992684937.png/e0JPl5dTLS7P8GeQVLlzpQMuhLXx0RPBbrng7G654Ow",
-    "url": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60408276/%E6%9D%B1%E6%B6%8C%E8%A5%BF%E7%AB%99%E6%94%AF%E6%9F%B1%E7%96%91%E7%81%8C%E7%9F%B3%E5%B1%8E-%E6%9C%AA%E5%88%B0%E9%A0%82-%E8%B7%AF%E6%94%BF%E7%BD%B2%E8%A6%81%E6%B1%82%E6%B8%AF%E9%90%B5%E5%85%A9%E5%91%A8%E5%85%A7%E4%BA%A4%E5%A0%B1%E5%91%8A",
-    "timestamp": "2026-11-07T12:59:11.280Z",
     "strategy": ".content-card__main"
   }
 ];
