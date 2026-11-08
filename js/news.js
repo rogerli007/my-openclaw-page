@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T10:14:49.891Z
+// Last updated: 2026-11-08T10:30:09.674Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "草間彌生5米高巨型南瓜雕塑成啟德新地標　多人打卡帶動周邊人流",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196147222404665344951487.jpeg/kAhMdII0zgKZQqRxr0514zIoIXNgCQlAr_puBK_6bgQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408445/%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F5%E7%B1%B3%E9%AB%98%E5%B7%A8%E5%9E%8B%E5%8D%97%E7%93%9C%E9%9B%95%E5%A1%91%E6%88%90%E5%95%9F%E5%BE%B7%E6%96%B0%E5%9C%B0%E6%A8%99-%E5%A4%9A%E4%BA%BA%E6%89%93%E5%8D%A1%E5%B8%B6%E5%8B%95%E5%91%A8%E9%82%8A%E4%BA%BA%E6%B5%81",
+    "timestamp": "2026-11-08T10:30:09.674Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "公屋單位香煙味傳樓下？男住戶慨嘆受困擾反惹質疑　專家拆解真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196066324405555200714930.png/qkEfhT_dd09cgZxH8ooRh82TA3Z8JY7eqQ-VQakPlUE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408348/%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AD%A6%E7%9B%B4%E5%8D%87%E6%A9%9F%E7%B7%9D%E6%AF%92%E6%8E%83%E5%B0%84%E6%B1%BD%E8%BB%8A-7%E6%AD%B2%E7%BE%8E%E7%B1%8D%E5%A5%B3%E7%AB%A5%E6%85%98%E9%81%AD%E6%93%8A%E6%96%83-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-08T04:39:35.609Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "甯漢豪再談建造業「爛到不能再爛」：是其是，非其非　罰則將加辣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192814127597228032894256.jpeg/62FG_LjqY0DI_FZ2_ISADoPXlrKcECT3znIf7OtyH-w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408355/%E7%94%AF%E6%BC%A2%E8%B1%AA%E5%86%8D%E8%AB%87%E5%BB%BA%E9%80%A0%E6%A5%AD-%E7%88%9B%E5%88%B0%E4%B8%8D%E8%83%BD%E5%86%8D%E7%88%9B-%E6%98%AF%E5%85%B6%E6%98%AF-%E9%9D%9E%E5%85%B6%E9%9D%9E-%E7%BD%B0%E5%89%87%E5%B0%87%E5%8A%A0%E8%BE%A3",
-    "timestamp": "2026-11-08T04:21:42.576Z",
     "strategy": ".content-card__main"
   }
 ];
