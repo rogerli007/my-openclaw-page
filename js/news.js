@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T21:16:21.385Z
+// Last updated: 2026-11-08T21:29:12.967Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華爆李小龍私下狂熱鍛鍊：用高壓電刺激肌肉訓練",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
+    "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
+    "timestamp": "2026-11-08T21:29:12.967Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華爆李小龍私下狂熱鍛鍊：用高壓電刺激肌肉訓練",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196246634221015040508173.jpeg/y_XTZ6YmGsDY_4rka75hE95dFEhCXcqHPJ1brzydW68?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408502/%E5%9F%83%E5%8F%8A%E7%81%AB%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%BE%8C%E5%87%BA%E8%BB%8C-%E8%87%B3%E5%B0%914%E6%AD%BB88%E4%BA%BA%E5%82%B7",
     "timestamp": "2026-11-08T15:59:15.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大東山周末再現追芒草人潮　行山客網上呻：上山落山等車都要排隊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196236368490008576037821.png/J64oX1s07cCfeMLtW5Ch6er9uGjvp-TYpFYGaqRWBmo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408495/%E5%A4%A7%E6%9D%B1%E5%B1%B1%E5%91%A8%E6%9C%AB%E5%86%8D%E7%8F%BE%E8%BF%BD%E8%8A%92%E8%8D%89%E4%BA%BA%E6%BD%AE-%E8%A1%8C%E5%B1%B1%E5%AE%A2%E7%B6%B2%E4%B8%8A%E5%91%BB-%E4%B8%8A%E5%B1%B1%E8%90%BD%E5%B1%B1%E7%AD%89%E8%BB%8A%E9%83%BD%E8%A6%81%E6%8E%92%E9%9A%8A",
-    "timestamp": "2026-11-08T15:41:50.795Z",
     "strategy": ".content-card__main"
   }
 ];
