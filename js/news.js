@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T21:44:50.847Z
+// Last updated: 2026-11-08T21:59:02.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：黃仁勳承認有婚外情　英偉達：就間諜風波啟動調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192782044292190208125906.png/OeDnD2_lMIdVQ2RE5HstMhrRKBXew0Y1_wP_3v8D_94?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408512/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%89%BF%E8%AA%8D%E6%9C%89%E5%A9%9A%E5%A4%96%E6%83%85-%E8%8B%B1%E5%81%89%E9%81%94-%E5%B0%B1%E9%96%93%E8%AB%9C%E9%A2%A8%E6%B3%A2%E5%95%9F%E5%8B%95%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-08T21:59:02.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華爆李小龍私下狂熱鍛鍊：用高壓電刺激肌肉訓練",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196235668284510208260371.jpeg/rvFBglTAwmaJ-LVhrXxgSORzYlsmvq93FMzpaxTM6Ws?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408497/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A2%E6%8C%AB%E6%B0%B4%E6%99%B6%E5%AE%AE%E9%87%8D%E8%BF%94%E5%89%8D%E5%9B%9B-%E7%99%BD%E7%A6%AE%E9%A0%93%E5%8F%88%E8%B4%8F%E4%B8%80%E5%A0%B4%E5%A3%93%E6%9B%BC%E5%9F%8E%E5%8D%87%E6%AC%A1%E5%B8%AD",
     "timestamp": "2026-11-08T16:39:06.257Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LOL世界賽2026｜T1對BLG！準決賽程時間結果+免費直播連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196253794598391808417269.png/dBZxjN0m74pgfLvJBQ50bqZf7mWyG_yMUBpJ3FAaSdw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-t1%E5%B0%8Dblg-%E6%BA%96%E6%B1%BA%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-11-08T16:19:25.689Z",
     "strategy": ".content-card__main"
   }
 ];
