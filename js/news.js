@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T21:29:12.967Z
+// Last updated: 2026-11-08T21:44:50.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華爆李小龍私下狂熱鍛鍊：用高壓電刺激肌肉訓練",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
+    "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
+    "timestamp": "2026-11-08T21:44:50.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華爆李小龍私下狂熱鍛鍊：用高壓電刺激肌肉訓練",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196253794598391808417269.png/dBZxjN0m74pgfLvJBQ50bqZf7mWyG_yMUBpJ3FAaSdw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-t1%E5%B0%8Dblg-%E6%BA%96%E6%B1%BA%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
     "timestamp": "2026-11-08T16:19:25.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "埃及火車相撞後出軌　至少4死88人傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196246634221015040508173.jpeg/y_XTZ6YmGsDY_4rka75hE95dFEhCXcqHPJ1brzydW68?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408502/%E5%9F%83%E5%8F%8A%E7%81%AB%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%BE%8C%E5%87%BA%E8%BB%8C-%E8%87%B3%E5%B0%914%E6%AD%BB88%E4%BA%BA%E5%82%B7",
-    "timestamp": "2026-11-08T15:59:15.132Z",
     "strategy": ".content-card__main"
   }
 ];
