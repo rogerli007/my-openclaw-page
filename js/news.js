@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T12:59:01.074Z
+// Last updated: 2026-11-08T13:18:24.128Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西抵港內地婦涉攜31公斤瀕危乾魚翅　海關拘人交漁護署檢控",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196206998442479616586421.jpeg/rGf3t9C9Qpx-XRdNqVrsKWJeCPOr10gsAHiaFQB4mhU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408481/%E5%B7%B4%E8%A5%BF%E6%8A%B5%E6%B8%AF%E5%85%A7%E5%9C%B0%E5%A9%A6%E6%B6%89%E6%94%9C31%E5%85%AC%E6%96%A4%E7%80%95%E5%8D%B1%E4%B9%BE%E9%AD%9A%E7%BF%85-%E6%B5%B7%E9%97%9C%E6%8B%98%E4%BA%BA%E4%BA%A4%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%AA%A2%E6%8E%A7",
+    "timestamp": "2026-11-08T13:18:24.128Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粵劇才女謝曉瑩獲設宴慶生　孖高潤鴻甜蜜合唱《遊龍戲鳳》掀高潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196120717259706368140976.jpeg/l5Uf9ZuJAqWnKOXIlXdDDGwWacr3LjX7y1Cat8tQmrc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408410/infinite%E5%8D%97%E5%84%AA%E8%B3%A2%E9%96%8B%E9%A8%B7%E9%9A%AA%E7%88%86%E5%9A%B4%E9%87%8D%E6%84%8F%E5%A4%96-%E5%8D%87%E9%99%8D%E5%8F%B0%E7%AA%81%E5%8D%87%E8%B5%B7%E5%B7%AE%E5%8D%8A%E6%AD%A5%E9%9A%AA%E5%A2%AE%E5%8F%B0",
     "timestamp": "2026-11-08T08:22:11.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西環東邊街近第二街　24噸貨車撞欄冒煙　現場交通嚴重擠塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196124671821484032256189.jpeg/apQ8panReX-jLykX7BbECkoFh970_Q3hsvZyyJf2csg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408417/%E8%A5%BF%E7%92%B0%E6%9D%B1%E9%82%8A%E8%A1%97%E8%BF%91%E7%AC%AC%E4%BA%8C%E8%A1%97-24%E5%99%B8%E8%B2%A8%E8%BB%8A%E6%92%9E%E6%AC%84%E5%86%92%E7%85%99-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E5%9A%B4%E9%87%8D%E6%93%A0%E5%A1%9E",
-    "timestamp": "2026-11-08T07:59:16.055Z",
     "strategy": ".content-card__main"
   }
 ];
