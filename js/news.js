@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T09:29:30.976Z
+// Last updated: 2026-11-08T09:44:57.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山昂平滑翔傘意外｜事主疑上網睇片自學　傘友曾勸搵教練學習",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196096738981580800240897.jpeg/u3sVDzKMu7Gt5s_QNQOzAv6Z516IMB7X7HIEJuxyBCY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408412/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%B9%B3%E6%BB%91%E7%BF%94%E5%82%98%E6%84%8F%E5%A4%96-%E4%BA%8B%E4%B8%BB%E7%96%91%E4%B8%8A%E7%B6%B2%E7%9D%87%E7%89%87%E8%87%AA%E5%AD%B8-%E5%82%98%E5%8F%8B%E6%9B%BE%E5%8B%B8%E6%90%B5%E6%95%99%E7%B7%B4%E5%AD%B8%E7%BF%92",
+    "timestamp": "2026-11-08T09:44:57.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《紐時》：多間獲批購買英偉達晶片中國企業疑為空殼公司",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196059283242881024691430.jpeg/2Hzde3tWR5ACKdZbdXjen8cnuG4rRIJ1vOhDHLzoQxw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408346/%E6%96%B0%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%B0%B4%E9%A6%AC-%E5%8D%8A%E9%82%8A%E8%BB%8A%E8%BA%AB%E5%87%8C%E7%A9%BA%E6%93%B1%E6%B0%B4%E9%A6%AC-%E9%9A%AA%E8%BF%8E%E9%A0%AD%E6%92%9E%E5%B7%B4%E5%A3%AB",
     "timestamp": "2026-11-08T03:45:40.125Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜深水埗兩地牌七人車逆駕　穿安全島「重返正途」惹狠批",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195731728883257344308195.jpeg/ibB2Mm46OS14Tcd-alAbYsfsb2z8tR9QFdA7bhXQO24",
-    "url": "https://www.hk01.com/01TV/60408152/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%85%A9%E5%9C%B0%E7%89%8C%E4%B8%83%E4%BA%BA%E8%BB%8A%E9%80%86%E9%A7%95-%E7%A9%BF%E5%AE%89%E5%85%A8%E5%B3%B6-%E9%87%8D%E8%BF%94%E6%AD%A3%E9%80%94-%E6%83%B9%E7%8B%A0%E6%89%B9",
-    "timestamp": "2026-11-08T03:22:28.512Z",
     "strategy": ".content-card__main"
   }
 ];
