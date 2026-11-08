@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T13:29:11.973Z
+// Last updated: 2026-11-08T13:44:51.903Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特：胡塞空襲利雅德金融區　沙特阿美大樓受損",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196214623192223744402158.png/_4sh03pGtDC-duYUNGvA0vjSpssO6upU_xfn1P8X59Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408486/%E6%B2%99%E7%89%B9-%E8%83%A1%E5%A1%9E%E7%A9%BA%E8%A5%B2%E5%88%A9%E9%9B%85%E5%BE%B7%E9%87%91%E8%9E%8D%E5%8D%80-%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E%E5%A4%A7%E6%A8%93%E5%8F%97%E6%90%8D",
+    "timestamp": "2026-11-08T13:44:51.903Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山西太原一高層建築起火　有人被困窗邊求救　傷者送院救治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196116184399876096492706.jpeg/7x8679YduiI_ZRZqXqDSWItGx6VHvTc8UPbtTVD27U0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408404/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD%E5%90%B3%E8%8B%B1%E5%80%AB%E8%B3%B4%E6%B5%A9%E4%BF%8A%E5%90%88%E6%BC%94%E5%8F%A6%E9%A1%9E%E9%A6%99%E6%B8%AF%E6%89%93%E5%90%A1-%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E6%96%99%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98",
     "timestamp": "2026-11-08T08:59:16.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣虐兒內情｜女童毀豬仔錢罌偷錢買零食　母擸衣架打女後離家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196087442999087104631487.jpeg/WTKgJX4nur2oy6Y4cPHhFgXULTvRjRowBMnS2yHJ0ts?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408424/%E9%95%B7%E6%B2%99%E7%81%A3%E8%99%90%E5%85%92%E5%85%A7%E6%83%85-%E5%A5%B3%E7%AB%A5%E6%AF%80%E8%B1%AC%E4%BB%94%E9%8C%A2%E7%BD%8C%E5%81%B7%E9%8C%A2%E8%B2%B7%E9%9B%B6%E9%A3%9F-%E6%AF%8D%E6%93%B8%E8%A1%A3%E6%9E%B6%E6%89%93%E5%A5%B3%E5%BE%8C%E9%9B%A2%E5%AE%B6",
-    "timestamp": "2026-11-08T08:45:13.754Z",
     "strategy": ".content-card__main"
   }
 ];
