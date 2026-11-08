@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T10:45:15.187Z
+// Last updated: 2026-11-08T10:59:03.073Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "M+博物館5周年免費入場　部份展館須分流　有市民扶老攜幼親子遊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196160365256249344658092.jpeg/ZEAmX69GPBLIw8thtRzYoktsCV8zvFliH2kUFTppFBU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408463/m-%E5%8D%9A%E7%89%A9%E9%A4%A85%E5%91%A8%E5%B9%B4%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E9%83%A8%E4%BB%BD%E5%B1%95%E9%A4%A8%E9%A0%88%E5%88%86%E6%B5%81-%E6%9C%89%E5%B8%82%E6%B0%91%E6%89%B6%E8%80%81%E6%94%9C%E5%B9%BC%E8%A6%AA%E5%AD%90%E9%81%8A",
+    "timestamp": "2026-11-08T10:59:03.073Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冷鋒挾東北季候風11.9殺到　市區最低氣溫16度　風力飆升有得解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196072412844658688106328.png/WamFR57j6An4MWrbMQUWVKt4Uo9IS-DhCi4bWwouG1s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408359/%E8%B6%B3%E7%90%83%E7%86%B1%E8%A9%B1-%E6%BF%83%E9%9C%A7%E4%BD%9C%E6%88%B0%E5%8F%A6%E9%A1%9E%E6%A8%82%E8%B6%A3-%E7%90%83%E8%BF%B7%E8%AB%B7-%E8%B6%B3%E7%B8%BD%E7%9B%83%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%B2%BE%E5%BD%A9%E6%99%82%E5%88%BB",
     "timestamp": "2026-11-08T05:29:28.907Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "足球熱話︱濃霧作戰另類樂趣　球迷諷：足總盃史上最精彩時刻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196072412844658688106328.png/WamFR57j6An4MWrbMQUWVKt4Uo9IS-DhCi4bWwouG1s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408359/%E8%B6%B3%E7%90%83%E7%86%B1%E8%A9%B1-%E6%BF%83%E9%9C%A7%E4%BD%9C%E6%88%B0%E5%8F%A6%E9%A1%9E%E6%A8%82%E8%B6%A3-%E7%90%83%E8%BF%B7%E8%AB%B7-%E8%B6%B3%E7%B8%BD%E7%9B%83%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%B2%BE%E5%BD%A9%E6%99%82%E5%88%BB",
-    "timestamp": "2026-11-08T05:13:52.670Z",
     "strategy": ".content-card__main"
   }
 ];
