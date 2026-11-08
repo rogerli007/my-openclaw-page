@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T12:23:31.338Z
+// Last updated: 2026-11-08T12:29:55.861Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玫瑰戰爭丨陳自瑤慘遭好姊妹姚子羚設局　被落迷姦水送上床陪客",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196191987770855424870594.jpeg/_ZFU8yYdwvpwbn2iL_sswIwdHMamXGPfByn__Acp__w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408421/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E9%99%B3%E8%87%AA%E7%91%A4%E6%85%98%E9%81%AD%E5%A5%BD%E5%A7%8A%E5%A6%B9%E5%A7%9A%E5%AD%90%E7%BE%9A%E8%A8%AD%E5%B1%80-%E8%A2%AB%E8%90%BD%E8%BF%B7%E5%A7%A6%E6%B0%B4%E9%80%81%E4%B8%8A%E5%BA%8A%E9%99%AA%E5%AE%A2",
+    "timestamp": "2026-11-08T12:29:55.861Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AI救命！男子胸悶檢查正常　瀕窒息休克求助豆包　勸勿離院終保命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412345086545920029461.jpeg/EJNH4BOg80AdFalGGySpVRoLvLWUptxQavXWjmr11o4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407649/%E5%BE%90%E5%B7%9E%E6%99%AF%E9%BB%9E8%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E7%99%BB%E9%9B%B2%E9%BE%8D%E5%B1%B1%E5%B0%8B%E8%98%87%E6%9D%B1%E5%9D%A1%E8%B6%B3%E8%B7%A1-%E9%80%9B%E6%88%B6%E9%83%A8%E5%B1%B1%E6%AD%A5%E8%A1%8C%E8%A1%97%E5%90%83%E7%BE%8E%E9%A3%9F",
     "timestamp": "2026-11-08T07:20:39.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "基層缺娛樂　調查揭逾半兒童日玩手機逾兩小時　社協倡增課餘活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196101205873397760146720.jpeg/yh7cKrAgG3Rvt6htzutnwI2GSjToHkvMLHm1rix5ta4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408384/%E5%9F%BA%E5%B1%A4%E7%BC%BA%E5%A8%9B%E6%A8%82-%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%80%BE%E5%8D%8A%E5%85%92%E7%AB%A5%E6%97%A5%E7%8E%A9%E6%89%8B%E6%A9%9F%E9%80%BE%E5%85%A9%E5%B0%8F%E6%99%82-%E7%A4%BE%E5%8D%94%E5%80%A1%E5%A2%9E%E8%AA%B2%E9%A4%98%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-11-08T06:59:15.242Z",
     "strategy": ".content-card__main"
   }
 ];
