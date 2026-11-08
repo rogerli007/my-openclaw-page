@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T16:59:07.002Z
+// Last updated: 2026-11-08T17:17:46.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華與洪金寶的童年恩怨：洪金寶玩21點輸了不服氣 兩人私下打架",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195761749702217728074386.jpeg/XgJ6aqCDGC8TmXqKUMNKfPgS0bVMdQRPmzNwtZszcLU",
+    "url": "https://www.hk01.com/01TV/60408183/%E5%85%83%E8%8F%AF%E8%88%87%E6%B4%AA%E9%87%91%E5%AF%B6%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%81%A9%E6%80%A8-%E6%B4%AA%E9%87%91%E5%AF%B6%E7%8E%A921%E9%BB%9E%E8%BC%B8%E4%BA%86%E4%B8%8D%E6%9C%8D%E6%B0%A3-%E5%85%A9%E4%BA%BA%E7%A7%81%E4%B8%8B%E6%89%93%E6%9E%B6",
+    "timestamp": "2026-11-08T17:17:46.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角食環外判車撞倒女途人留醫4日不治　司機涉危駕致他人死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196170153788706816028341.jpeg/XxuN5ahHhMcO3bLLHZ2yp7u886dYXZRgLWGrOC1hqzg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408447/%E5%8A%89%E7%A9%8E%E9%8F%87%E5%87%BA%E6%88%B0903%E7%B1%83%E7%90%83%E8%B3%BD%E7%89%87%E6%B4%97%E7%89%88-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A%E5%AE%8C%E5%8B%9Dmandy-%E4%BE%9D%E5%95%B2%E5%85%88%E4%BF%82%E7%9C%9F%E5%A5%B3%E7%A5%9E",
     "timestamp": "2026-11-08T11:44:45.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTA香港賽︱伊雅娜紮住上負劉婧文奪亞 菲律賓甜心仍為賽季感自豪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196178877471264768983015.jpeg/tZFsuG8juUGC8uJc-ujeS1QRW2TOG3fvA6NmNAOjZjQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408450/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E7%B4%AE%E4%BD%8F%E4%B8%8A%E8%B2%A0%E5%8A%89%E5%A9%A7%E6%96%87%E5%A5%AA%E4%BA%9E-%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%94%9C%E5%BF%83%E4%BB%8D%E7%82%BA%E8%B3%BD%E5%AD%A3%E6%84%9F%E8%87%AA%E8%B1%AA",
-    "timestamp": "2026-11-08T11:29:08.683Z",
     "strategy": ".content-card__main"
   }
 ];
