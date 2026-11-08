@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T16:19:25.689Z
+// Last updated: 2026-11-08T16:39:06.257Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超︱利物浦作客挫水晶宮重返前四　白禮頓又贏一場壓曼城升次席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196235668284510208260371.jpeg/rvFBglTAwmaJ-LVhrXxgSORzYlsmvq93FMzpaxTM6Ws?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408497/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A2%E6%8C%AB%E6%B0%B4%E6%99%B6%E5%AE%AE%E9%87%8D%E8%BF%94%E5%89%8D%E5%9B%9B-%E7%99%BD%E7%A6%AE%E9%A0%93%E5%8F%88%E8%B4%8F%E4%B8%80%E5%A0%B4%E5%A3%93%E6%9B%BC%E5%9F%8E%E5%8D%87%E6%AC%A1%E5%B8%AD",
+    "timestamp": "2026-11-08T16:39:06.257Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LOL世界賽2026｜T1對BLG！準決賽程時間結果+免費直播連結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196151989067583488803495.jpeg/2ErnjpmgIQ7RqMmwfv2wbBc5WUecxYlU-uv6PPrr-jw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408450/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E7%B4%AE%E4%BD%8F%E4%B8%8A%E8%B2%A0%E5%8A%89%E5%A9%A7%E6%96%87%E5%A5%AA%E4%BA%9E-%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%94%9C%E5%BF%83%E4%BB%8D%E7%82%BA%E8%B3%BD%E5%AD%A3%E6%84%9F%E8%87%AA%E8%B1%AA",
     "timestamp": "2026-11-08T11:12:37.687Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "M+博物館5周年免費入場　部份展館須分流　有市民扶老攜幼親子遊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196160365256249344658092.jpeg/ZEAmX69GPBLIw8thtRzYoktsCV8zvFliH2kUFTppFBU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408463/m-%E5%8D%9A%E7%89%A9%E9%A4%A85%E5%91%A8%E5%B9%B4%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E9%83%A8%E4%BB%BD%E5%B1%95%E9%A4%A8%E9%A0%88%E5%88%86%E6%B5%81-%E6%9C%89%E5%B8%82%E6%B0%91%E6%89%B6%E8%80%81%E6%94%9C%E5%B9%BC%E8%A6%AA%E5%AD%90%E9%81%8A",
-    "timestamp": "2026-11-08T10:59:03.073Z",
     "strategy": ".content-card__main"
   }
 ];
