@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T05:45:20.136Z
+// Last updated: 2026-11-08T05:59:06.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長沙灣麗翠苑女童整晚獨留在家　親人登門揭發　母親涉虐兒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196087442999087104631487.jpeg/WTKgJX4nur2oy6Y4cPHhFgXULTvRjRowBMnS2yHJ0ts?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408369/%E9%95%B7%E6%B2%99%E7%81%A3%E9%BA%97%E7%BF%A0%E8%8B%91%E5%A5%B3%E7%AB%A5%E6%95%B4%E6%99%9A%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E8%A6%AA%E4%BA%BA%E7%99%BB%E9%96%80%E6%8F%AD%E7%99%BC-%E6%AF%8D%E8%A6%AA%E6%B6%89%E8%99%90%E5%85%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-08T05:59:06.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東北季候風殺到　多區一夜跌逾10度　周二最低16度　一區低見13度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195058864672739328475093.png/wQdmsVe1ERzaSAjWQfUgRlzt1gxI_gWeEWWELRFlhC0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407364/%E5%A4%A7%E9%A6%AC%E8%8F%AF%E8%A3%94%E5%A5%B3%E9%81%8A%E6%98%86%E6%98%8E-%E8%A1%97%E9%A0%AD%E9%81%87%E5%B7%B2%E6%95%85%E5%A4%96%E5%85%AC%E8%88%8A%E7%85%A7-%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9%E6%8F%AD%E5%A4%96%E5%85%AC%E5%8F%83%E8%88%87%E6%8A%97%E6%88%B0",
     "timestamp": "2026-11-07T23:18:08.821Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日一兩陣雨　氣溫24至28度　周二周三料最低氣溫18度以下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195982512573124608123869.jpeg/-2YJfVGiCbS1ej2lh5RoJvWY8dZW5Kj4_pV_Y8SVf2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408316/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%B0%A3%E6%BA%AB24%E8%87%B328%E5%BA%A6-%E5%91%A8%E4%BA%8C%E5%91%A8%E4%B8%89%E6%96%99%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB18%E5%BA%A6%E4%BB%A5%E4%B8%8B",
-    "timestamp": "2026-11-07T22:53:20.986Z",
     "strategy": ".content-card__main"
   }
 ];
