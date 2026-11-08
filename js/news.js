@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T01:00:09.126Z
+// Last updated: 2026-11-08T01:20:00.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "專訪｜吳卓羲曾半年痛失3貓1狗 寵物離世感崩潰：半年內喊四次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195789190843863040539408.jpeg/olUtNpkXpSNTL-z_iqV3J8peF4K-B-gdTQP9EE0D_RA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408163/%E5%B0%88%E8%A8%AA-%E5%90%B3%E5%8D%93%E7%BE%B2%E6%9B%BE%E5%8D%8A%E5%B9%B4%E7%97%9B%E5%A4%B13%E8%B2%931%E7%8B%97-%E5%AF%B5%E7%89%A9%E9%9B%A2%E4%B8%96%E6%84%9F%E5%B4%A9%E6%BD%B0-%E5%8D%8A%E5%B9%B4%E5%85%A7%E5%96%8A%E5%9B%9B%E6%AC%A1",
+    "timestamp": "2026-11-08T01:20:00.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "獨家丨何麥武館早倒閉　女友斥何慈茵一年見父兩次：人在做天在看",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195940305937895424069213.jpeg/wEnvrrViUUyQZXYSWghwLRRv3-6irGrkFhqa3ywamt8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408315/%E8%8D%83%E7%81%A3%E4%B9%9D%E5%B7%B4%E7%94%B7%E4%B9%98%E5%AE%A2%E8%BB%8A%E5%85%A7%E6%9A%88%E5%80%92-%E8%BB%8A%E9%95%B7%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-11-07T19:44:52.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華講述極限練功魔鬼細節：倒立撐地一小時 頭下放水盆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195710866410967040826759.jpeg/2hkRBm1q8j5v1ZvM3bx9ClCHdy0zn9fJlBCUFJQQlBQ",
-    "url": "https://www.hk01.com/01TV/60408132/%E5%85%83%E8%8F%AF%E8%AC%9B%E8%BF%B0%E6%A5%B5%E9%99%90%E7%B7%B4%E5%8A%9F%E9%AD%94%E9%AC%BC%E7%B4%B0%E7%AF%80-%E5%80%92%E7%AB%8B%E6%92%90%E5%9C%B0%E4%B8%80%E5%B0%8F%E6%99%82-%E9%A0%AD%E4%B8%8B%E6%94%BE%E6%B0%B4%E7%9B%86",
-    "timestamp": "2026-11-07T19:29:20.731Z",
     "strategy": ".content-card__main"
   }
 ];
