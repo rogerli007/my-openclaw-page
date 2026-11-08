@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T02:35:37.118Z
+// Last updated: 2026-11-08T02:53:46.347Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "麥巴比風波｜超市為清庫存出奇招！老闆貼紙遮樣：換人啦這瓶我上",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196046030060130304743258.jpeg/L5E4PEAKFg3rV33GaVFz5JuWcnekavx7-FJ82fhSfNk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60408337/%E9%BA%A5%E5%B7%B4%E6%AF%94%E9%A2%A8%E6%B3%A2-%E8%B6%85%E5%B8%82%E7%82%BA%E6%B8%85%E5%BA%AB%E5%AD%98%E5%87%BA%E5%A5%87%E6%8B%9B-%E8%80%81%E9%97%86%E8%B2%BC%E7%B4%99%E9%81%AE%E6%A8%A3-%E6%8F%9B%E4%BA%BA%E5%95%A6%E9%80%99%E7%93%B6%E6%88%91%E4%B8%8A",
+    "timestamp": "2026-11-08T02:53:46.347Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宇樹長鑫股價重挫　中國AI熱退潮從股市開始？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195944503614115840023815.jpeg/a1z3JXK43v33tBI30p1JQPSnYt6M7MIDN37b6Dd-2-g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408318/%E8%8B%B1%E8%B6%85-%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%973-1%E5%8B%9D%E6%9B%BC%E5%9F%8E-%E6%9B%BC%E5%9F%8E%E9%81%AD%E9%81%87%E8%81%AF%E8%B3%BD%E4%B8%89%E9%80%A3%E6%95%97",
     "timestamp": "2026-11-07T20:59:04.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜諾定咸森林3:1勝曼城　曼城遭遇聯賽三連敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195944503614115840023815.jpeg/a1z3JXK43v33tBI30p1JQPSnYt6M7MIDN37b6Dd-2-g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408318/%E8%8B%B1%E8%B6%85-%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%973-1%E5%8B%9D%E6%9B%BC%E5%9F%8E-%E6%9B%BC%E5%9F%8E%E9%81%AD%E9%81%87%E8%81%AF%E8%B3%BD%E4%B8%89%E9%80%A3%E6%95%97",
-    "timestamp": "2026-11-07T20:45:04.424Z",
     "strategy": ".content-card__main"
   }
 ];
