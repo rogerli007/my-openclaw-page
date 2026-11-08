@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T04:21:42.576Z
+// Last updated: 2026-11-08T04:39:35.609Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "墨西哥警直升機緝毒掃射汽車　7歲美籍女童慘遭擊斃｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196066324405555200714930.png/qkEfhT_dd09cgZxH8ooRh82TA3Z8JY7eqQ-VQakPlUE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408348/%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AD%A6%E7%9B%B4%E5%8D%87%E6%A9%9F%E7%B7%9D%E6%AF%92%E6%8E%83%E5%B0%84%E6%B1%BD%E8%BB%8A-7%E6%AD%B2%E7%BE%8E%E7%B1%8D%E5%A5%B3%E7%AB%A5%E6%85%98%E9%81%AD%E6%93%8A%E6%96%83-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-08T04:39:35.609Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "甯漢豪再談建造業「爛到不能再爛」：是其是，非其非　罰則將加辣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195254502052073472391687.jpeg/4_pY0G4PsI7S8bzzi2UaTxz3_CFWwBKHver96r3q_eo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408319/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E6%B0%91%E4%B8%BB%E9%BB%A8-%E6%95%B2%E8%A9%90%E5%8B%92%E7%B4%A2-%E6%8C%87%E8%B2%AC%E5%B0%8D%E6%96%B9%E6%BF%AB%E7%94%A8%E5%BD%88%E5%8A%BE%E5%A8%81%E8%84%85",
     "timestamp": "2026-11-07T22:12:36.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普下令司法部調查民主黨「敲詐勒索」　指責對方濫用彈劾威脅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195254502052073472391687.jpeg/4_pY0G4PsI7S8bzzi2UaTxz3_CFWwBKHver96r3q_eo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408319/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E6%B0%91%E4%B8%BB%E9%BB%A8-%E6%95%B2%E8%A9%90%E5%8B%92%E7%B4%A2-%E6%8C%87%E8%B2%AC%E5%B0%8D%E6%96%B9%E6%BF%AB%E7%94%A8%E5%BD%88%E5%8A%BE%E5%A8%81%E8%84%85",
-    "timestamp": "2026-11-07T21:59:10.547Z",
     "strategy": ".content-card__main"
   }
 ];
