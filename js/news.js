@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T05:59:06.629Z
+// Last updated: 2026-11-08T06:20:13.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵月台2男爆粗鬧到上車！四眼男斥：蝦阿姐　網民睇到尾：冇MMA",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195931792524185600923610.png/SilHI9pApVI50jRXFROWBIdiaga5nvE1nBXeC5wV3gs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408281/%E6%B8%AF%E9%90%B5%E6%9C%88%E5%8F%B02%E7%94%B7%E7%88%86%E7%B2%97%E9%AC%A7%E5%88%B0%E4%B8%8A%E8%BB%8A-%E5%9B%9B%E7%9C%BC%E7%94%B7%E6%96%A5-%E8%9D%A6%E9%98%BF%E5%A7%90-%E7%B6%B2%E6%B0%91%E7%9D%87%E5%88%B0%E5%B0%BE-%E5%86%87mma",
+    "timestamp": "2026-11-08T06:20:13.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙灣麗翠苑女童整晚獨留在家　親人登門揭發　母親涉虐兒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195058864672739328475093.png/wQdmsVe1ERzaSAjWQfUgRlzt1gxI_gWeEWWELRFlhC0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407364/%E5%A4%A7%E9%A6%AC%E8%8F%AF%E8%A3%94%E5%A5%B3%E9%81%8A%E6%98%86%E6%98%8E-%E8%A1%97%E9%A0%AD%E9%81%87%E5%B7%B2%E6%95%85%E5%A4%96%E5%85%AC%E8%88%8A%E7%85%A7-%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9%E6%8F%AD%E5%A4%96%E5%85%AC%E5%8F%83%E8%88%87%E6%8A%97%E6%88%B0",
     "timestamp": "2026-11-07T23:29:13.679Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬華裔女遊昆明　街頭遇已故外公舊照　赴華尋根揭外公參與抗戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195058864672739328475093.png/wQdmsVe1ERzaSAjWQfUgRlzt1gxI_gWeEWWELRFlhC0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407364/%E5%A4%A7%E9%A6%AC%E8%8F%AF%E8%A3%94%E5%A5%B3%E9%81%8A%E6%98%86%E6%98%8E-%E8%A1%97%E9%A0%AD%E9%81%87%E5%B7%B2%E6%95%85%E5%A4%96%E5%85%AC%E8%88%8A%E7%85%A7-%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9%E6%8F%AD%E5%A4%96%E5%85%AC%E5%8F%83%E8%88%87%E6%8A%97%E6%88%B0",
-    "timestamp": "2026-11-07T23:18:08.821Z",
     "strategy": ".content-card__main"
   }
 ];
