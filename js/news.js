@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T23:45:06.570Z
+// Last updated: 2026-11-08T23:53:29.909Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊拉克代表團據報訪問德黑蘭　轉達美方信息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408511/%E4%BC%8A%E6%8B%89%E5%85%8B%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%93%9A%E5%A0%B1%E8%A8%AA%E5%95%8F%E5%BE%B7%E9%BB%91%E8%98%AD-%E8%BD%89%E9%81%94%E7%BE%8E%E6%96%B9%E4%BF%A1%E6%81%AF",
+    "timestamp": "2026-11-08T23:53:29.909Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "168斷食當8小時「無限制飲食期」體脂狂飆　專家：內臟脂肪悄爆棚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195766896465547264036495.jpeg/pTwcl079_0z4M9CIUTdxnBLE5AXfeUkEr2NTFa9jUxU",
     "url": "https://www.hk01.com/01TV/60408189/%E5%85%83%E8%8F%AF%E5%B1%95%E7%8F%BE-%E7%AD%8B%E6%96%97%E7%8E%8B-%E7%B5%95%E6%8A%80-%E9%80%A3%E7%BF%BB40%E5%80%8B%E7%BF%BB%E6%BB%BE%E8%A2%AB%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%9B%B8%E4%B8%AD",
     "timestamp": "2026-11-08T18:44:56.776Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華展現「筋斗王」絕技：連翻40個翻滾被李小龍相中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195766896465547264036495.jpeg/pTwcl079_0z4M9CIUTdxnBLE5AXfeUkEr2NTFa9jUxU",
-    "url": "https://www.hk01.com/01TV/60408189/%E5%85%83%E8%8F%AF%E5%B1%95%E7%8F%BE-%E7%AD%8B%E6%96%97%E7%8E%8B-%E7%B5%95%E6%8A%80-%E9%80%A3%E7%BF%BB40%E5%80%8B%E7%BF%BB%E6%BB%BE%E8%A2%AB%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%9B%B8%E4%B8%AD",
-    "timestamp": "2026-11-08T18:21:08.255Z",
     "strategy": ".content-card__main"
   }
 ];
