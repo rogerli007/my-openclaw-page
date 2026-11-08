@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T15:29:13.742Z
+// Last updated: 2026-11-08T15:41:50.795Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大東山周末再現追芒草人潮　行山客網上呻：上山落山等車都要排隊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196236368490008576037821.png/J64oX1s07cCfeMLtW5Ch6er9uGjvp-TYpFYGaqRWBmo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408495/%E5%A4%A7%E6%9D%B1%E5%B1%B1%E5%91%A8%E6%9C%AB%E5%86%8D%E7%8F%BE%E8%BF%BD%E8%8A%92%E8%8D%89%E4%BA%BA%E6%BD%AE-%E8%A1%8C%E5%B1%B1%E5%AE%A2%E7%B6%B2%E4%B8%8A%E5%91%BB-%E4%B8%8A%E5%B1%B1%E8%90%BD%E5%B1%B1%E7%AD%89%E8%BB%8A%E9%83%BD%E8%A6%81%E6%8E%92%E9%9A%8A",
+    "timestamp": "2026-11-08T15:41:50.795Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葉玉如獲聯合國教科文組織獎項　孫東：繼續支持科研成果轉化落地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196147222404665344951487.jpeg/kAhMdII0zgKZQqRxr0514zIoIXNgCQlAr_puBK_6bgQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408445/%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F5%E7%B1%B3%E9%AB%98%E5%B7%A8%E5%9E%8B%E5%8D%97%E7%93%9C%E9%9B%95%E5%A1%91%E6%88%90%E5%95%9F%E5%BE%B7%E6%96%B0%E5%9C%B0%E6%A8%99-%E5%A4%9A%E4%BA%BA%E6%89%93%E5%8D%A1%E5%B8%B6%E5%8B%95%E5%91%A8%E9%82%8A%E4%BA%BA%E6%B5%81",
     "timestamp": "2026-11-08T10:30:09.674Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "公屋單位香煙味傳樓下？男住戶慨嘆受困擾反惹質疑　專家拆解真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195931795892211712918037.png/YF1iYfFve9q5pZsAXZBDMyuq2Lo31BlQ-XKj9_lyo_c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408295/%E5%85%AC%E5%B1%8B%E5%96%AE%E4%BD%8D%E9%A6%99%E7%85%99%E5%91%B3%E5%82%B3%E6%A8%93%E4%B8%8B-%E7%94%B7%E4%BD%8F%E6%88%B6%E6%85%A8%E5%98%86%E5%8F%97%E5%9B%B0%E6%93%BE%E5%8F%8D%E6%83%B9%E8%B3%AA%E7%96%91-%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-11-08T10:14:49.891Z",
     "strategy": ".content-card__main"
   }
 ];
