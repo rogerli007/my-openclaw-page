@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T01:59:00.926Z
+// Last updated: 2026-11-08T02:35:37.118Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宇樹長鑫股價重挫　中國AI熱退潮從股市開始？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196045278331801600435798.jpeg/7g9rBHZTC1_q7EZNdXWDBrvWYpg7yN2pznBxws5wccI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60408339/%E5%AE%87%E6%A8%B9%E9%95%B7%E9%91%AB%E8%82%A1%E5%83%B9%E9%87%8D%E6%8C%AB-%E4%B8%AD%E5%9C%8Bai%E7%86%B1%E9%80%80%E6%BD%AE%E5%BE%9E%E8%82%A1%E5%B8%82%E9%96%8B%E5%A7%8B",
+    "timestamp": "2026-11-08T02:35:37.118Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "為何日本稱美國「米國」？揭秘中日翻譯史　中文曾叫「咩哩幹國」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195944503614115840023815.jpeg/a1z3JXK43v33tBI30p1JQPSnYt6M7MIDN37b6Dd-2-g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408318/%E8%8B%B1%E8%B6%85-%E8%AB%BE%E5%AE%9A%E5%92%B8%E6%A3%AE%E6%9E%973-1%E5%8B%9D%E6%9B%BC%E5%9F%8E-%E6%9B%BC%E5%9F%8E%E9%81%AD%E9%81%87%E8%81%AF%E8%B3%BD%E4%B8%89%E9%80%A3%E6%95%97",
     "timestamp": "2026-11-07T20:45:04.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華偷溜出門遭體罰：獨腳站立足頂水杯不能倒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195757785447403520018952.jpeg/Nfy7ZRifa3B1kjFw4P_WVHSyiu96gVRWcjBLPXIwSz0",
-    "url": "https://www.hk01.com/01TV/60408177/%E5%85%83%E8%8F%AF%E5%81%B7%E6%BA%9C%E5%87%BA%E9%96%80%E9%81%AD%E9%AB%94%E7%BD%B0-%E7%8D%A8%E8%85%B3%E7%AB%99%E7%AB%8B%E8%B6%B3%E9%A0%82%E6%B0%B4%E6%9D%AF%E4%B8%8D%E8%83%BD%E5%80%92",
-    "timestamp": "2026-11-07T20:19:07.336Z",
     "strategy": ".content-card__main"
   }
 ];
