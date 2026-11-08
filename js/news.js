@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T11:59:20.135Z
+// Last updated: 2026-11-08T12:23:31.338Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AI救命！男子胸悶檢查正常　瀕窒息休克求助豆包　勸勿離院終保命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196159357188837376498716.png/C5UblrZJSlHp8SrYUzEUEKyxZFPu1NLg9xXxx_cV8cc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408389/ai%E6%95%91%E5%91%BD-%E7%94%B7%E5%AD%90%E8%83%B8%E6%82%B6%E6%AA%A2%E6%9F%A5%E6%AD%A3%E5%B8%B8-%E7%80%95%E7%AA%92%E6%81%AF%E4%BC%91%E5%85%8B%E6%B1%82%E5%8A%A9%E8%B1%86%E5%8C%85-%E5%8B%B8%E5%8B%BF%E9%9B%A2%E9%99%A2%E7%B5%82%E4%BF%9D%E5%91%BD",
+    "timestamp": "2026-11-08T12:23:31.338Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前泰國小姐Boom慈善人設崩塌　涉「吞2億善款」遭捕逾億資產被扣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196101205873397760146720.jpeg/yh7cKrAgG3Rvt6htzutnwI2GSjToHkvMLHm1rix5ta4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408384/%E5%9F%BA%E5%B1%A4%E7%BC%BA%E5%A8%9B%E6%A8%82-%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%80%BE%E5%8D%8A%E5%85%92%E7%AB%A5%E6%97%A5%E7%8E%A9%E6%89%8B%E6%A9%9F%E9%80%BE%E5%85%A9%E5%B0%8F%E6%99%82-%E7%A4%BE%E5%8D%94%E5%80%A1%E5%A2%9E%E8%AA%B2%E9%A4%98%E6%B4%BB%E5%8B%95",
     "timestamp": "2026-11-08T06:59:15.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張馳豪指隊長古天樂氣場震懾全場　預告再與姜濤193同隊打波",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195963108883959808984067.jpeg/SOCoti8RkbHvmCLkpH0KKBKDZbJ024VU7hUxDO4VMQw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408320/%E5%BC%B5%E9%A6%B3%E8%B1%AA%E6%8C%87%E9%9A%8A%E9%95%B7%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%B0%A3%E5%A0%B4%E9%9C%87%E6%87%BE%E5%85%A8%E5%A0%B4-%E9%A0%90%E5%91%8A%E5%86%8D%E8%88%87%E5%A7%9C%E6%BF%A4193%E5%90%8C%E9%9A%8A%E6%89%93%E6%B3%A2",
-    "timestamp": "2026-11-08T06:47:05.656Z",
     "strategy": ".content-card__main"
   }
 ];
