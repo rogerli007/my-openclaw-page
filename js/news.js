@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T14:18:41.896Z
+// Last updated: 2026-11-08T14:44:48.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曼聯對維拉前墮降班區　卡域克未獲保證留任：要發生的事總會發生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196217625080762368497358.jpeg/08NnxRsXH6k-712thnfWmf5NbdHI9_57HOZHKxzmRys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408490/%E6%9B%BC%E8%81%AF%E5%B0%8D%E7%B6%AD%E6%8B%89%E5%89%8D%E5%A2%AE%E9%99%8D%E7%8F%AD%E5%8D%80-%E5%8D%A1%E5%9F%9F%E5%85%8B%E6%9C%AA%E7%8D%B2%E4%BF%9D%E8%AD%89%E7%95%99%E4%BB%BB-%E8%A6%81%E7%99%BC%E7%94%9F%E7%9A%84%E4%BA%8B%E7%B8%BD%E6%9C%83%E7%99%BC%E7%94%9F",
+    "timestamp": "2026-11-08T14:44:48.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角建興大廈對開　42歲內地漢暈倒　昏迷送院搶救後不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196096738981580800240897.jpeg/u3sVDzKMu7Gt5s_QNQOzAv6Z516IMB7X7HIEJuxyBCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408412/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%B9%B3%E6%BB%91%E7%BF%94%E5%82%98%E6%84%8F%E5%A4%96-%E4%BA%8B%E4%B8%BB%E7%96%91%E4%B8%8A%E7%B6%B2%E7%9D%87%E7%89%87%E8%87%AA%E5%AD%B8-%E5%82%98%E5%8F%8B%E6%9B%BE%E5%8B%B8%E6%90%B5%E6%95%99%E7%B7%B4%E5%AD%B8%E7%BF%92",
     "timestamp": "2026-11-08T09:44:57.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《紐時》：多間獲批購買英偉達晶片中國企業疑為空殼公司",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166728003011481600012865.jpeg/elOH1glBbo3u58PaLf5Z4JNbhBxT7j_kMtcAKzLXACs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408442/%E7%B4%90%E6%99%82-%E5%A4%9A%E9%96%93%E7%8D%B2%E6%89%B9%E8%B3%BC%E8%B2%B7%E8%8B%B1%E5%81%89%E9%81%94%E6%99%B6%E7%89%87%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%96%91%E7%82%BA%E7%A9%BA%E6%AE%BC%E5%85%AC%E5%8F%B8",
-    "timestamp": "2026-11-08T09:29:30.976Z",
     "strategy": ".content-card__main"
   }
 ];
