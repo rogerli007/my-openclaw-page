@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T08:59:16.570Z
+// Last updated: 2026-11-08T09:15:06.807Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湖北大學生看熱鬧拍照　遭校園保安勒頸鎖臂致骨折　校方回應惹議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195709283782627328957236.png/zVgJz5izZVCZ_FA5xiasJQ-B-biOKOMEqtkqs6rZKrM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408109/%E6%B9%96%E5%8C%97%E5%A4%A7%E5%AD%B8%E7%94%9F%E7%9C%8B%E7%86%B1%E9%AC%A7%E6%8B%8D%E7%85%A7-%E9%81%AD%E6%A0%A1%E5%9C%92%E4%BF%9D%E5%AE%89%E5%8B%92%E9%A0%B8%E9%8E%96%E8%87%82%E8%87%B4%E9%AA%A8%E6%8A%98-%E6%A0%A1%E6%96%B9%E5%9B%9E%E6%87%89%E6%83%B9%E8%AD%B0",
+    "timestamp": "2026-11-08T09:15:06.807Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球韓國賽吳英倫賴浩俊合演另類香港打吡　世界排名料再創新高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196046030060130304743258.jpeg/L5E4PEAKFg3rV33GaVFz5JuWcnekavx7-FJ82fhSfNk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60408337/%E9%BA%A5%E5%B7%B4%E6%AF%94%E9%A2%A8%E6%B3%A2-%E8%B6%85%E5%B8%82%E7%82%BA%E6%B8%85%E5%BA%AB%E5%AD%98%E5%87%BA%E5%A5%87%E6%8B%9B-%E8%80%81%E9%97%86%E8%B2%BC%E7%B4%99%E9%81%AE%E6%A8%A3-%E6%8F%9B%E4%BA%BA%E5%95%A6%E9%80%99%E7%93%B6%E6%88%91%E4%B8%8A",
     "timestamp": "2026-11-08T02:53:46.347Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宇樹長鑫股價重挫　中國AI熱退潮從股市開始？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196045278331801600435798.jpeg/7g9rBHZTC1_q7EZNdXWDBrvWYpg7yN2pznBxws5wccI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60408339/%E5%AE%87%E6%A8%B9%E9%95%B7%E9%91%AB%E8%82%A1%E5%83%B9%E9%87%8D%E6%8C%AB-%E4%B8%AD%E5%9C%8Bai%E7%86%B1%E9%80%80%E6%BD%AE%E5%BE%9E%E8%82%A1%E5%B8%82%E9%96%8B%E5%A7%8B",
-    "timestamp": "2026-11-08T02:35:37.118Z",
     "strategy": ".content-card__main"
   }
 ];
