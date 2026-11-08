@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T10:59:03.073Z
+// Last updated: 2026-11-08T11:12:37.687Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTA香港賽︱伊雅娜紮住上負劉婧文奪亞 菲律賓甜心仍為賽季感自豪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196151989067583488803495.jpeg/2ErnjpmgIQ7RqMmwfv2wbBc5WUecxYlU-uv6PPrr-jw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408450/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E7%B4%AE%E4%BD%8F%E4%B8%8A%E8%B2%A0%E5%8A%89%E5%A9%A7%E6%96%87%E5%A5%AA%E4%BA%9E-%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%94%9C%E5%BF%83%E4%BB%8D%E7%82%BA%E8%B3%BD%E5%AD%A3%E6%84%9F%E8%87%AA%E8%B1%AA",
+    "timestamp": "2026-11-08T11:12:37.687Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "M+博物館5周年免費入場　部份展館須分流　有市民扶老攜幼親子遊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090656854352072704865024.jpeg/HvSUllbN8Wfi-kMdU4-rZ2SprXOZolTzvt5tSpvebUo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408368/%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A8%E6%AE%BA%E5%88%B0-%E5%A4%9A%E5%8D%80%E4%B8%80%E5%A4%9C%E8%B7%8C%E9%80%BE10%E5%BA%A6-%E5%91%A8%E4%BA%8C%E6%9C%80%E4%BD%8E16%E5%BA%A6-%E4%B8%80%E5%8D%80%E4%BD%8E%E8%A6%8B13%E5%BA%A6",
     "timestamp": "2026-11-08T05:45:20.136Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "足球熱話︱濃霧作戰另類樂趣　球迷諷：足總盃史上最精彩時刻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196072412844658688106328.png/WamFR57j6An4MWrbMQUWVKt4Uo9IS-DhCi4bWwouG1s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408359/%E8%B6%B3%E7%90%83%E7%86%B1%E8%A9%B1-%E6%BF%83%E9%9C%A7%E4%BD%9C%E6%88%B0%E5%8F%A6%E9%A1%9E%E6%A8%82%E8%B6%A3-%E7%90%83%E8%BF%B7%E8%AB%B7-%E8%B6%B3%E7%B8%BD%E7%9B%83%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%B2%BE%E5%BD%A9%E6%99%82%E5%88%BB",
-    "timestamp": "2026-11-08T05:29:28.907Z",
     "strategy": ".content-card__main"
   }
 ];
