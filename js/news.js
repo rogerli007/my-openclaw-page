@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T06:20:13.155Z
+// Last updated: 2026-11-08T06:47:05.656Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張馳豪指隊長古天樂氣場震懾全場　預告再與姜濤193同隊打波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195963108883959808984067.jpeg/SOCoti8RkbHvmCLkpH0KKBKDZbJ024VU7hUxDO4VMQw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408320/%E5%BC%B5%E9%A6%B3%E8%B1%AA%E6%8C%87%E9%9A%8A%E9%95%B7%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%B0%A3%E5%A0%B4%E9%9C%87%E6%87%BE%E5%85%A8%E5%A0%B4-%E9%A0%90%E5%91%8A%E5%86%8D%E8%88%87%E5%A7%9C%E6%BF%A4193%E5%90%8C%E9%9A%8A%E6%89%93%E6%B3%A2",
+    "timestamp": "2026-11-08T06:47:05.656Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵月台2男爆粗鬧到上車！四眼男斥：蝦阿姐　網民睇到尾：冇MMA",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195058864672739328475093.png/wQdmsVe1ERzaSAjWQfUgRlzt1gxI_gWeEWWELRFlhC0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407364/%E5%A4%A7%E9%A6%AC%E8%8F%AF%E8%A3%94%E5%A5%B3%E9%81%8A%E6%98%86%E6%98%8E-%E8%A1%97%E9%A0%AD%E9%81%87%E5%B7%B2%E6%95%85%E5%A4%96%E5%85%AC%E8%88%8A%E7%85%A7-%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9%E6%8F%AD%E5%A4%96%E5%85%AC%E5%8F%83%E8%88%87%E6%8A%97%E6%88%B0",
     "timestamp": "2026-11-07T23:44:55.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬華裔女遊昆明　街頭遇已故外公舊照　赴華尋根揭外公參與抗戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195058864672739328475093.png/wQdmsVe1ERzaSAjWQfUgRlzt1gxI_gWeEWWELRFlhC0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407364/%E5%A4%A7%E9%A6%AC%E8%8F%AF%E8%A3%94%E5%A5%B3%E9%81%8A%E6%98%86%E6%98%8E-%E8%A1%97%E9%A0%AD%E9%81%87%E5%B7%B2%E6%95%85%E5%A4%96%E5%85%AC%E8%88%8A%E7%85%A7-%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9%E6%8F%AD%E5%A4%96%E5%85%AC%E5%8F%83%E8%88%87%E6%8A%97%E6%88%B0",
-    "timestamp": "2026-11-07T23:29:13.679Z",
     "strategy": ".content-card__main"
   }
 ];
