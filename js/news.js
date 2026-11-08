@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T12:44:55.028Z
+// Last updated: 2026-11-08T12:59:01.074Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粵劇才女謝曉瑩獲設宴慶生　孖高潤鴻甜蜜合唱《遊龍戲鳳》掀高潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196160438040006656601475.jpeg/nZ3H4phq1jXhg5KRhQJk2kiffI-_jSqXGRlY5BkZWOQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408441/%E7%B2%B5%E5%8A%87%E6%89%8D%E5%A5%B3%E8%AC%9D%E6%9B%89%E7%91%A9%E7%8D%B2%E8%A8%AD%E5%AE%B4%E6%85%B6%E7%94%9F-%E5%AD%96%E9%AB%98%E6%BD%A4%E9%B4%BB%E7%94%9C%E8%9C%9C%E5%90%88%E5%94%B1-%E9%81%8A%E9%BE%8D%E6%88%B2%E9%B3%B3-%E6%8E%80%E9%AB%98%E6%BD%AE",
+    "timestamp": "2026-11-08T12:59:01.074Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球韓國賽︱安洗瑩繼續無敵　挫山口茜再奪11冠今年含金量更高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196124671821484032256189.jpeg/apQ8panReX-jLykX7BbECkoFh970_Q3hsvZyyJf2csg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408417/%E8%A5%BF%E7%92%B0%E6%9D%B1%E9%82%8A%E8%A1%97%E8%BF%91%E7%AC%AC%E4%BA%8C%E8%A1%97-24%E5%99%B8%E8%B2%A8%E8%BB%8A%E6%92%9E%E6%AC%84%E5%86%92%E7%85%99-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E5%9A%B4%E9%87%8D%E6%93%A0%E5%A1%9E",
     "timestamp": "2026-11-08T07:59:16.055Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國女遭前夫鐵鍊鎖床施暴2年！如廁靠水桶　維修工聞求救聲救人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196116458917072896830647.jpeg/GSjxrHn06PNjhQ9LBuydNXzAR1Vbdtfuco70dnKO9HY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408392/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E9%81%AD%E5%89%8D%E5%A4%AB%E9%90%B5%E9%8D%8A%E9%8E%96%E5%BA%8A%E6%96%BD%E6%9A%B42%E5%B9%B4-%E5%A6%82%E5%BB%81%E9%9D%A0%E6%B0%B4%E6%A1%B6-%E7%B6%AD%E4%BF%AE%E5%B7%A5%E8%81%9E%E6%B1%82%E6%95%91%E8%81%B2%E6%95%91%E4%BA%BA",
-    "timestamp": "2026-11-08T07:45:02.686Z",
     "strategy": ".content-card__main"
   }
 ];
