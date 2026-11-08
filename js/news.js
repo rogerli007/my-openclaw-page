@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-07T23:59:14.462Z
+// Last updated: 2026-11-08T00:34:22.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "獨家丨何麥武館早倒閉　女友斥何慈茵一年見父兩次：人在做天在看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195880812449370112824705.jpeg/Ii2DddFjmzYFnQS4FVhvbDw3k3xrEyrKm6gb1JuoG9Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408228/%E7%8D%A8%E5%AE%B6-%E4%BD%95%E9%BA%A5%E6%AD%A6%E9%A4%A8%E6%97%A9%E5%80%92%E9%96%89-%E5%A5%B3%E5%8F%8B%E6%96%A5%E4%BD%95%E6%85%88%E8%8C%B5%E4%B8%80%E5%B9%B4%E8%A6%8B%E7%88%B6%E5%85%A9%E6%AC%A1-%E4%BA%BA%E5%9C%A8%E5%81%9A%E5%A4%A9%E5%9C%A8%E7%9C%8B",
+    "timestamp": "2026-11-08T00:34:22.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "空肚飲無糖咖啡能減肥控糖？英國研究警告：恐使早餐後血糖暴增",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195710866410967040826759.jpeg/2hkRBm1q8j5v1ZvM3bx9ClCHdy0zn9fJlBCUFJQQlBQ",
     "url": "https://www.hk01.com/01TV/60408132/%E5%85%83%E8%8F%AF%E8%AC%9B%E8%BF%B0%E6%A5%B5%E9%99%90%E7%B7%B4%E5%8A%9F%E9%AD%94%E9%AC%BC%E7%B4%B0%E7%AF%80-%E5%80%92%E7%AB%8B%E6%92%90%E5%9C%B0%E4%B8%80%E5%B0%8F%E6%99%82-%E9%A0%AD%E4%B8%8B%E6%94%BE%E6%B0%B4%E7%9B%86",
     "timestamp": "2026-11-07T19:17:31.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警東九龍調配無人機執法　3司機涉危駕被捕　另1鐵騎士被傳票檢控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195926895976255488312604.jpeg/YeNeAyArXJAkUga37tUP840pgmo0rVp4uGbeC7hm3gs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408313/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E8%AA%BF%E9%85%8D%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%9F%B7%E6%B3%95-3%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95-%E5%8F%A61%E9%90%B5%E9%A8%8E%E5%A3%AB%E8%A2%AB%E5%82%B3%E7%A5%A8%E6%AA%A2%E6%8E%A7",
-    "timestamp": "2026-11-07T18:59:03.001Z",
     "strategy": ".content-card__main"
   }
 ];
