@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T11:29:08.683Z
+// Last updated: 2026-11-08T11:44:45.817Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉穎鏇出戰903籃球賽片洗版　網民激讚完勝Mandy：依啲先係真女神",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196170153788706816028341.jpeg/XxuN5ahHhMcO3bLLHZ2yp7u886dYXZRgLWGrOC1hqzg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408447/%E5%8A%89%E7%A9%8E%E9%8F%87%E5%87%BA%E6%88%B0903%E7%B1%83%E7%90%83%E8%B3%BD%E7%89%87%E6%B4%97%E7%89%88-%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A%E5%AE%8C%E5%8B%9Dmandy-%E4%BE%9D%E5%95%B2%E5%85%88%E4%BF%82%E7%9C%9F%E5%A5%B3%E7%A5%9E",
+    "timestamp": "2026-11-08T11:44:45.817Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTA香港賽︱伊雅娜紮住上負劉婧文奪亞 菲律賓甜心仍為賽季感自豪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195931792524185600923610.png/SilHI9pApVI50jRXFROWBIdiaga5nvE1nBXeC5wV3gs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408281/%E6%B8%AF%E9%90%B5%E6%9C%88%E5%8F%B02%E7%94%B7%E7%88%86%E7%B2%97%E9%AC%A7%E5%88%B0%E4%B8%8A%E8%BB%8A-%E5%9B%9B%E7%9C%BC%E7%94%B7%E6%96%A5-%E8%9D%A6%E9%98%BF%E5%A7%90-%E7%B6%B2%E6%B0%91%E7%9D%87%E5%88%B0%E5%B0%BE-%E5%86%87mma",
     "timestamp": "2026-11-08T06:20:13.155Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長沙灣麗翠苑女童整晚獨留在家　親人登門揭發　母親涉虐兒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196087442999087104631487.jpeg/WTKgJX4nur2oy6Y4cPHhFgXULTvRjRowBMnS2yHJ0ts?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408369/%E9%95%B7%E6%B2%99%E7%81%A3%E9%BA%97%E7%BF%A0%E8%8B%91%E5%A5%B3%E7%AB%A5%E6%95%B4%E6%99%9A%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E8%A6%AA%E4%BA%BA%E7%99%BB%E9%96%80%E6%8F%AD%E7%99%BC-%E6%AF%8D%E8%A6%AA%E6%B6%89%E8%99%90%E5%85%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-08T05:59:06.629Z",
     "strategy": ".content-card__main"
   }
 ];
