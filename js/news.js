@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T11:44:45.817Z
+// Last updated: 2026-11-08T11:59:20.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前泰國小姐Boom慈善人設崩塌　涉「吞2億善款」遭捕逾億資產被扣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196158749325135872249357.png/AWiPMECxKBtRyJSH0WdiSu87cHc3RW3v6gFPNOoBTzQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408446/%E5%89%8D%E6%B3%B0%E5%9C%8B%E5%B0%8F%E5%A7%90boom%E6%85%88%E5%96%84%E4%BA%BA%E8%A8%AD%E5%B4%A9%E5%A1%8C-%E6%B6%89-%E5%90%9E2%E5%84%84%E5%96%84%E6%AC%BE-%E9%81%AD%E6%8D%95%E9%80%BE%E5%84%84%E8%B3%87%E7%94%A2%E8%A2%AB%E6%89%A3",
+    "timestamp": "2026-11-08T11:59:20.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉穎鏇出戰903籃球賽片洗版　網民激讚完勝Mandy：依啲先係真女神",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195963108883959808984067.jpeg/SOCoti8RkbHvmCLkpH0KKBKDZbJ024VU7hUxDO4VMQw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408320/%E5%BC%B5%E9%A6%B3%E8%B1%AA%E6%8C%87%E9%9A%8A%E9%95%B7%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%B0%A3%E5%A0%B4%E9%9C%87%E6%87%BE%E5%85%A8%E5%A0%B4-%E9%A0%90%E5%91%8A%E5%86%8D%E8%88%87%E5%A7%9C%E6%BF%A4193%E5%90%8C%E9%9A%8A%E6%89%93%E6%B3%A2",
     "timestamp": "2026-11-08T06:47:05.656Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵月台2男爆粗鬧到上車！四眼男斥：蝦阿姐　網民睇到尾：冇MMA",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195931792524185600923610.png/SilHI9pApVI50jRXFROWBIdiaga5nvE1nBXeC5wV3gs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408281/%E6%B8%AF%E9%90%B5%E6%9C%88%E5%8F%B02%E7%94%B7%E7%88%86%E7%B2%97%E9%AC%A7%E5%88%B0%E4%B8%8A%E8%BB%8A-%E5%9B%9B%E7%9C%BC%E7%94%B7%E6%96%A5-%E8%9D%A6%E9%98%BF%E5%A7%90-%E7%B6%B2%E6%B0%91%E7%9D%87%E5%88%B0%E5%B0%BE-%E5%86%87mma",
-    "timestamp": "2026-11-08T06:20:13.155Z",
     "strategy": ".content-card__main"
   }
 ];
