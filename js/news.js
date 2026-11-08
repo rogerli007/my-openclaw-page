@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T01:47:57.428Z
+// Last updated: 2026-11-08T01:59:00.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "為何日本稱美國「米國」？揭秘中日翻譯史　中文曾叫「咩哩幹國」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174742726642503680274903.jpeg/nRiE7_4Ql6UT8wY1b_NrFGQANSg0AqMzj37HJI9-xyQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60301689/%E7%82%BA%E4%BD%95%E6%97%A5%E6%9C%AC%E7%A8%B1%E7%BE%8E%E5%9C%8B-%E7%B1%B3%E5%9C%8B-%E6%8F%AD%E7%A7%98%E4%B8%AD%E6%97%A5%E7%BF%BB%E8%AD%AF%E5%8F%B2-%E4%B8%AD%E6%96%87%E6%9B%BE%E5%8F%AB-%E5%92%A9%E5%93%A9%E5%B9%B9%E5%9C%8B",
+    "timestamp": "2026-11-08T01:59:00.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "為何日本稱美國「米國」？揭秘中日翻譯史　中文曾叫「咩哩幹國」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195757785447403520018952.jpeg/Nfy7ZRifa3B1kjFw4P_WVHSyiu96gVRWcjBLPXIwSz0",
     "url": "https://www.hk01.com/01TV/60408177/%E5%85%83%E8%8F%AF%E5%81%B7%E6%BA%9C%E5%87%BA%E9%96%80%E9%81%AD%E9%AB%94%E7%BD%B0-%E7%8D%A8%E8%85%B3%E7%AB%99%E7%AB%8B%E8%B6%B3%E9%A0%82%E6%B0%B4%E6%9D%AF%E4%B8%8D%E8%83%BD%E5%80%92",
     "timestamp": "2026-11-07T20:19:07.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣九巴男乘客車內暈倒　車長報案　送院不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195940305937895424069213.jpeg/wEnvrrViUUyQZXYSWghwLRRv3-6irGrkFhqa3ywamt8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408315/%E8%8D%83%E7%81%A3%E4%B9%9D%E5%B7%B4%E7%94%B7%E4%B9%98%E5%AE%A2%E8%BB%8A%E5%85%A7%E6%9A%88%E5%80%92-%E8%BB%8A%E9%95%B7%E5%A0%B1%E6%A1%88-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-11-07T19:59:05.452Z",
     "strategy": ".content-card__main"
   }
 ];
