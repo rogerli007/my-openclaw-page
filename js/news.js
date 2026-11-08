@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T09:44:57.755Z
+// Last updated: 2026-11-08T10:00:14.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山昂平滑翔傘意外｜事主疑上網睇片自學　傘友曾勸搵教練學習",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196096738981580800240897.jpeg/u3sVDzKMu7Gt5s_QNQOzAv6Z516IMB7X7HIEJuxyBCY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408412/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%B9%B3%E6%BB%91%E7%BF%94%E5%82%98%E6%84%8F%E5%A4%96-%E4%BA%8B%E4%B8%BB%E7%96%91%E4%B8%8A%E7%B6%B2%E7%9D%87%E7%89%87%E8%87%AA%E5%AD%B8-%E5%82%98%E5%8F%8B%E6%9B%BE%E5%8B%B8%E6%90%B5%E6%95%99%E7%B7%B4%E5%AD%B8%E7%BF%92",
+    "timestamp": "2026-11-08T10:00:14.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山昂平滑翔傘意外｜事主疑上網睇片自學　傘友曾勸搵教練學習",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196068674776076288203197.png/0tDtsW6V5rImJdWDmDWBXdbxE4o21Sh0OthRYjrYUWI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408350/%E6%9C%80%E5%BE%8C%E4%B8%80%E4%BD%8D%E9%96%8B%E5%9C%8B%E5%B0%87%E8%BB%8D-%E5%8E%9F%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E8%BB%8D%E5%8D%80%E5%89%AF%E5%8F%B8%E4%BB%A4%E7%8E%8B%E6%89%B6%E4%B9%8B%E7%97%85%E9%80%9D-%E4%BA%AB%E5%B9%B4104%E6%AD%B2",
     "timestamp": "2026-11-08T03:59:10.440Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新清水灣道私家車自炒撞水馬　半邊車身凌空擱水馬　險迎頭撞巴士",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196059283242881024691430.jpeg/2Hzde3tWR5ACKdZbdXjen8cnuG4rRIJ1vOhDHLzoQxw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408346/%E6%96%B0%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%B0%B4%E9%A6%AC-%E5%8D%8A%E9%82%8A%E8%BB%8A%E8%BA%AB%E5%87%8C%E7%A9%BA%E6%93%B1%E6%B0%B4%E9%A6%AC-%E9%9A%AA%E8%BF%8E%E9%A0%AD%E6%92%9E%E5%B7%B4%E5%A3%AB",
-    "timestamp": "2026-11-08T03:45:40.125Z",
     "strategy": ".content-card__main"
   }
 ];
