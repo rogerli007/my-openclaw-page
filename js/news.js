@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T23:18:47.702Z
+// Last updated: 2026-11-08T23:45:06.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "168斷食當8小時「無限制飲食期」體脂狂飆　專家：內臟脂肪悄爆棚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191419988167102464981652.jpeg/vYz6gEUUo4jPelN-S46iqhfoE_Iq4utIPHckXDx3JFw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60402729/168%E6%96%B7%E9%A3%9F%E7%95%B68%E5%B0%8F%E6%99%82-%E7%84%A1%E9%99%90%E5%88%B6%E9%A3%B2%E9%A3%9F%E6%9C%9F-%E9%AB%94%E8%84%82%E7%8B%82%E9%A3%86-%E5%B0%88%E5%AE%B6-%E5%85%A7%E8%87%9F%E8%84%82%E8%82%AA%E6%82%84%E7%88%86%E6%A3%9A",
+    "timestamp": "2026-11-08T23:45:06.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：倘美伊談判現進展　「極不可能」再發動新一輪攻勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195766896465547264036495.jpeg/pTwcl079_0z4M9CIUTdxnBLE5AXfeUkEr2NTFa9jUxU",
     "url": "https://www.hk01.com/01TV/60408189/%E5%85%83%E8%8F%AF%E5%B1%95%E7%8F%BE-%E7%AD%8B%E6%96%97%E7%8E%8B-%E7%B5%95%E6%8A%80-%E9%80%A3%E7%BF%BB40%E5%80%8B%E7%BF%BB%E6%BB%BE%E8%A2%AB%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%9B%B8%E4%B8%AD",
     "timestamp": "2026-11-08T18:21:08.255Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高市早苗重申冀與金正恩會面　稱想法獲特朗普支持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251103/1062091228830502912278014.jpeg/SKaD6XJ6cZnGlE40QnbkdvspEq7upgPnHbij1h24o9Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408503/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%87%8D%E7%94%B3%E5%86%80%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E6%9C%83%E9%9D%A2-%E7%A8%B1%E6%83%B3%E6%B3%95%E7%8D%B2%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81",
-    "timestamp": "2026-11-08T17:59:05.712Z",
     "strategy": ".content-card__main"
   }
 ];
