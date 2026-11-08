@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T19:45:57.771Z
+// Last updated: 2026-11-08T19:59:00.532Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華回憶首度對決李小龍：在《精武門》飾演日本仔挨踢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195768506776293376273986.jpeg/t0gkAPxZyPELf6RlmFWBjZx0nW0n7DaLXLqbSFy6m0g",
+    "url": "https://www.hk01.com/01TV/60408193/%E5%85%83%E8%8F%AF%E5%9B%9E%E6%86%B6%E9%A6%96%E5%BA%A6%E5%B0%8D%E6%B1%BA%E6%9D%8E%E5%B0%8F%E9%BE%8D-%E5%9C%A8-%E7%B2%BE%E6%AD%A6%E9%96%80-%E9%A3%BE%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BB%94%E6%8C%A8%E8%B8%A2",
+    "timestamp": "2026-11-08T19:59:00.532Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華回憶首度對決李小龍：在《精武門》飾演日本仔挨踢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260125/1092175920489304064689520.jpeg/CyiPYn1RG2nngFWSEN6QXTD-6_d69g8dedq2Z1Datmc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408491/%E6%97%BA%E8%A7%92%E5%BB%BA%E8%88%88%E5%A4%A7%E5%BB%88%E5%B0%8D%E9%96%8B-42%E6%AD%B2%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-11-08T14:18:41.896Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特：胡塞空襲利雅德金融區　沙特阿美大樓受損",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196214623192223744402158.png/_4sh03pGtDC-duYUNGvA0vjSpssO6upU_xfn1P8X59Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408486/%E6%B2%99%E7%89%B9-%E8%83%A1%E5%A1%9E%E7%A9%BA%E8%A5%B2%E5%88%A9%E9%9B%85%E5%BE%B7%E9%87%91%E8%9E%8D%E5%8D%80-%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E%E5%A4%A7%E6%A8%93%E5%8F%97%E6%90%8D",
-    "timestamp": "2026-11-08T13:59:02.851Z",
     "strategy": ".content-card__main"
   }
 ];
