@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T17:29:15.822Z
+// Last updated: 2026-11-08T17:44:56.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華與洪金寶的童年恩怨：洪金寶玩21點輸了不服氣 兩人私下打架",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195761749702217728074386.jpeg/XgJ6aqCDGC8TmXqKUMNKfPgS0bVMdQRPmzNwtZszcLU",
+    "url": "https://www.hk01.com/01TV/60408183/%E5%85%83%E8%8F%AF%E8%88%87%E6%B4%AA%E9%87%91%E5%AF%B6%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%81%A9%E6%80%A8-%E6%B4%AA%E9%87%91%E5%AF%B6%E7%8E%A921%E9%BB%9E%E8%BC%B8%E4%BA%86%E4%B8%8D%E6%9C%8D%E6%B0%A3-%E5%85%A9%E4%BA%BA%E7%A7%81%E4%B8%8B%E6%89%93%E6%9E%B6",
+    "timestamp": "2026-11-08T17:44:56.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華與洪金寶的童年恩怨：洪金寶玩21點輸了不服氣 兩人私下打架",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196159357188837376498716.png/C5UblrZJSlHp8SrYUzEUEKyxZFPu1NLg9xXxx_cV8cc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408389/ai%E6%95%91%E5%91%BD-%E7%94%B7%E5%AD%90%E8%83%B8%E6%82%B6%E6%AA%A2%E6%9F%A5%E6%AD%A3%E5%B8%B8-%E7%80%95%E7%AA%92%E6%81%AF%E4%BC%91%E5%85%8B%E6%B1%82%E5%8A%A9%E8%B1%86%E5%8C%85-%E5%8B%B8%E5%8B%BF%E9%9B%A2%E9%99%A2%E7%B5%82%E4%BF%9D%E5%91%BD",
     "timestamp": "2026-11-08T12:23:31.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前泰國小姐Boom慈善人設崩塌　涉「吞2億善款」遭捕逾億資產被扣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196158749325135872249357.png/AWiPMECxKBtRyJSH0WdiSu87cHc3RW3v6gFPNOoBTzQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408446/%E5%89%8D%E6%B3%B0%E5%9C%8B%E5%B0%8F%E5%A7%90boom%E6%85%88%E5%96%84%E4%BA%BA%E8%A8%AD%E5%B4%A9%E5%A1%8C-%E6%B6%89-%E5%90%9E2%E5%84%84%E5%96%84%E6%AC%BE-%E9%81%AD%E6%8D%95%E9%80%BE%E5%84%84%E8%B3%87%E7%94%A2%E8%A2%AB%E6%89%A3",
-    "timestamp": "2026-11-08T11:59:20.135Z",
     "strategy": ".content-card__main"
   }
 ];
