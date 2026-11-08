@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T05:29:28.907Z
+// Last updated: 2026-11-08T05:45:20.136Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東北季候風殺到　多區一夜跌逾10度　周二最低16度　一區低見13度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260121/1090656854352072704865024.jpeg/HvSUllbN8Wfi-kMdU4-rZ2SprXOZolTzvt5tSpvebUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408368/%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A8%E6%AE%BA%E5%88%B0-%E5%A4%9A%E5%8D%80%E4%B8%80%E5%A4%9C%E8%B7%8C%E9%80%BE10%E5%BA%A6-%E5%91%A8%E4%BA%8C%E6%9C%80%E4%BD%8E16%E5%BA%A6-%E4%B8%80%E5%8D%80%E4%BD%8E%E8%A6%8B13%E5%BA%A6",
+    "timestamp": "2026-11-08T05:45:20.136Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "足球熱話︱濃霧作戰另類樂趣　球迷諷：足總盃史上最精彩時刻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195982512573124608123869.jpeg/-2YJfVGiCbS1ej2lh5RoJvWY8dZW5Kj4_pV_Y8SVf2M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408316/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%B0%A3%E6%BA%AB24%E8%87%B328%E5%BA%A6-%E5%91%A8%E4%BA%8C%E5%91%A8%E4%B8%89%E6%96%99%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB18%E5%BA%A6%E4%BB%A5%E4%B8%8B",
     "timestamp": "2026-11-07T22:53:20.986Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日一兩陣雨　氣溫24至28度　周二周三料最低氣溫18度以下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195982512573124608123869.jpeg/-2YJfVGiCbS1ej2lh5RoJvWY8dZW5Kj4_pV_Y8SVf2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408316/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%B0%A3%E6%BA%AB24%E8%87%B328%E5%BA%A6-%E5%91%A8%E4%BA%8C%E5%91%A8%E4%B8%89%E6%96%99%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB18%E5%BA%A6%E4%BB%A5%E4%B8%8B",
-    "timestamp": "2026-11-07T22:39:33.253Z",
     "strategy": ".content-card__main"
   }
 ];
