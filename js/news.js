@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T17:44:56.606Z
+// Last updated: 2026-11-08T17:59:05.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗重申冀與金正恩會面　稱想法獲特朗普支持",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251103/1062091228830502912278014.jpeg/SKaD6XJ6cZnGlE40QnbkdvspEq7upgPnHbij1h24o9Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408503/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%87%8D%E7%94%B3%E5%86%80%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E6%9C%83%E9%9D%A2-%E7%A8%B1%E6%83%B3%E6%B3%95%E7%8D%B2%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81",
+    "timestamp": "2026-11-08T17:59:05.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華與洪金寶的童年恩怨：洪金寶玩21點輸了不服氣 兩人私下打架",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196191987770855424870594.jpeg/_ZFU8yYdwvpwbn2iL_sswIwdHMamXGPfByn__Acp__w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408421/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E9%99%B3%E8%87%AA%E7%91%A4%E6%85%98%E9%81%AD%E5%A5%BD%E5%A7%8A%E5%A6%B9%E5%A7%9A%E5%AD%90%E7%BE%9A%E8%A8%AD%E5%B1%80-%E8%A2%AB%E8%90%BD%E8%BF%B7%E5%A7%A6%E6%B0%B4%E9%80%81%E4%B8%8A%E5%BA%8A%E9%99%AA%E5%AE%A2",
     "timestamp": "2026-11-08T12:29:55.861Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AI救命！男子胸悶檢查正常　瀕窒息休克求助豆包　勸勿離院終保命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196159357188837376498716.png/C5UblrZJSlHp8SrYUzEUEKyxZFPu1NLg9xXxx_cV8cc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408389/ai%E6%95%91%E5%91%BD-%E7%94%B7%E5%AD%90%E8%83%B8%E6%82%B6%E6%AA%A2%E6%9F%A5%E6%AD%A3%E5%B8%B8-%E7%80%95%E7%AA%92%E6%81%AF%E4%BC%91%E5%85%8B%E6%B1%82%E5%8A%A9%E8%B1%86%E5%8C%85-%E5%8B%B8%E5%8B%BF%E9%9B%A2%E9%99%A2%E7%B5%82%E4%BF%9D%E5%91%BD",
-    "timestamp": "2026-11-08T12:23:31.338Z",
     "strategy": ".content-card__main"
   }
 ];
