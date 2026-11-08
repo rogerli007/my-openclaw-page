@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T14:44:48.018Z
+// Last updated: 2026-11-08T15:18:09.049Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國IT男自製交友App！全部女用家只可與他配對　求愛實驗神結局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194822995638489088634571.jpeg/QMpr_orVU2eSbMenvaA0k-vYJH1rv2NfvBtMbLwbTGw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407278/%E7%BE%8E%E5%9C%8B%E7%8D%A8%E7%94%B7%E8%87%AA%E8%A3%BD%E4%BA%A4%E5%8F%8Bapp-%E5%85%A8%E9%83%A8%E5%A5%B3%E7%94%A8%E5%AE%B6%E5%8F%AA%E5%8F%AF%E8%88%87%E4%BB%96%E9%85%8D%E5%B0%8D-%E6%B1%82%E6%84%9B%E5%AF%A6%E9%A9%97%E7%B5%82%E8%84%AB%E5%96%AE",
+    "timestamp": "2026-11-08T15:18:09.049Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曼聯對維拉前墮降班區　卡域克未獲保證留任：要發生的事總會發生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196096738981580800240897.jpeg/u3sVDzKMu7Gt5s_QNQOzAv6Z516IMB7X7HIEJuxyBCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408412/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%B9%B3%E6%BB%91%E7%BF%94%E5%82%98%E6%84%8F%E5%A4%96-%E4%BA%8B%E4%B8%BB%E7%96%91%E4%B8%8A%E7%B6%B2%E7%9D%87%E7%89%87%E8%87%AA%E5%AD%B8-%E5%82%98%E5%8F%8B%E6%9B%BE%E5%8B%B8%E6%90%B5%E6%95%99%E7%B7%B4%E5%AD%B8%E7%BF%92",
     "timestamp": "2026-11-08T10:00:14.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山昂平滑翔傘意外｜事主疑上網睇片自學　傘友曾勸搵教練學習",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196096738981580800240897.jpeg/u3sVDzKMu7Gt5s_QNQOzAv6Z516IMB7X7HIEJuxyBCY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408412/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%B9%B3%E6%BB%91%E7%BF%94%E5%82%98%E6%84%8F%E5%A4%96-%E4%BA%8B%E4%B8%BB%E7%96%91%E4%B8%8A%E7%B6%B2%E7%9D%87%E7%89%87%E8%87%AA%E5%AD%B8-%E5%82%98%E5%8F%8B%E6%9B%BE%E5%8B%B8%E6%90%B5%E6%95%99%E7%B7%B4%E5%AD%B8%E7%BF%92",
-    "timestamp": "2026-11-08T09:44:57.755Z",
     "strategy": ".content-card__main"
   }
 ];
