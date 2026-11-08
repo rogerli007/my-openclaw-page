@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T13:44:51.903Z
+// Last updated: 2026-11-08T13:59:02.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特：胡塞空襲利雅德金融區　沙特阿美大樓受損",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196214623192223744402158.png/_4sh03pGtDC-duYUNGvA0vjSpssO6upU_xfn1P8X59Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408486/%E6%B2%99%E7%89%B9-%E8%83%A1%E5%A1%9E%E7%A9%BA%E8%A5%B2%E5%88%A9%E9%9B%85%E5%BE%B7%E9%87%91%E8%9E%8D%E5%8D%80-%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E%E5%A4%A7%E6%A8%93%E5%8F%97%E6%90%8D",
+    "timestamp": "2026-11-08T13:59:02.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙特：胡塞空襲利雅德金融區　沙特阿美大樓受損",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195709283782627328957236.png/zVgJz5izZVCZ_FA5xiasJQ-B-biOKOMEqtkqs6rZKrM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408109/%E6%B9%96%E5%8C%97%E5%A4%A7%E5%AD%B8%E7%94%9F%E7%9C%8B%E7%86%B1%E9%AC%A7%E6%8B%8D%E7%85%A7-%E9%81%AD%E6%A0%A1%E5%9C%92%E4%BF%9D%E5%AE%89%E5%8B%92%E9%A0%B8%E9%8E%96%E8%87%82%E8%87%B4%E9%AA%A8%E6%8A%98-%E6%A0%A1%E6%96%B9%E5%9B%9E%E6%87%89%E6%83%B9%E8%AD%B0",
     "timestamp": "2026-11-08T09:15:06.807Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球韓國賽吳英倫賴浩俊合演另類香港打吡　世界排名料再創新高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196116184399876096492706.jpeg/7x8679YduiI_ZRZqXqDSWItGx6VHvTc8UPbtTVD27U0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408404/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD%E5%90%B3%E8%8B%B1%E5%80%AB%E8%B3%B4%E6%B5%A9%E4%BF%8A%E5%90%88%E6%BC%94%E5%8F%A6%E9%A1%9E%E9%A6%99%E6%B8%AF%E6%89%93%E5%90%A1-%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E6%96%99%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98",
-    "timestamp": "2026-11-08T08:59:16.570Z",
     "strategy": ".content-card__main"
   }
 ];
