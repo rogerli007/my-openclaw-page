@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T05:13:52.670Z
+// Last updated: 2026-11-08T05:29:28.907Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "足球熱話︱濃霧作戰另類樂趣　球迷諷：足總盃史上最精彩時刻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196072412844658688106328.png/WamFR57j6An4MWrbMQUWVKt4Uo9IS-DhCi4bWwouG1s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408359/%E8%B6%B3%E7%90%83%E7%86%B1%E8%A9%B1-%E6%BF%83%E9%9C%A7%E4%BD%9C%E6%88%B0%E5%8F%A6%E9%A1%9E%E6%A8%82%E8%B6%A3-%E7%90%83%E8%BF%B7%E8%AB%B7-%E8%B6%B3%E7%B8%BD%E7%9B%83%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%B2%BE%E5%BD%A9%E6%99%82%E5%88%BB",
+    "timestamp": "2026-11-08T05:29:28.907Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "足球熱話︱濃霧作戰另類樂趣　球迷諷：足總盃史上最精彩時刻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195982512573124608123869.jpeg/-2YJfVGiCbS1ej2lh5RoJvWY8dZW5Kj4_pV_Y8SVf2M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408316/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%B0%A3%E6%BA%AB24%E8%87%B328%E5%BA%A6-%E5%91%A8%E4%BA%8C%E5%91%A8%E4%B8%89%E6%96%99%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB18%E5%BA%A6%E4%BB%A5%E4%B8%8B",
     "timestamp": "2026-11-07T22:39:33.253Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今日一兩陣雨　氣溫24至28度　周二周三料最低氣溫18度以下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1195982512573124608123869.jpeg/-2YJfVGiCbS1ej2lh5RoJvWY8dZW5Kj4_pV_Y8SVf2M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60408316/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%B0%A3%E6%BA%AB24%E8%87%B328%E5%BA%A6-%E5%91%A8%E4%BA%8C%E5%91%A8%E4%B8%89%E6%96%99%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB18%E5%BA%A6%E4%BB%A5%E4%B8%8B",
-    "timestamp": "2026-11-07T22:29:11.631Z",
     "strategy": ".content-card__main"
   }
 ];
