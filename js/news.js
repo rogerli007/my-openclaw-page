@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T22:59:04.036Z
+// Last updated: 2026-11-08T23:18:47.702Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：倘美伊談判現進展　「極不可能」再發動新一輪攻勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194854749476753408581260.jpeg/A2wxQ-Ju-fDHCBY3D0WKmWDzZUIaYSSKXSqPl10qj5c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408514/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%80%98%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E7%8F%BE%E9%80%B2%E5%B1%95-%E6%A5%B5%E4%B8%8D%E5%8F%AF%E8%83%BD-%E5%86%8D%E7%99%BC%E5%8B%95%E6%96%B0%E4%B8%80%E8%BC%AA%E6%94%BB%E5%8B%A2",
+    "timestamp": "2026-11-08T23:18:47.702Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「亞視忠臣」劉錫賢效力ATV28年曾向TVB自薦　一個原因被無情拒絕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251103/1062091228830502912278014.jpeg/SKaD6XJ6cZnGlE40QnbkdvspEq7upgPnHbij1h24o9Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408503/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%87%8D%E7%94%B3%E5%86%80%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E6%9C%83%E9%9D%A2-%E7%A8%B1%E6%83%B3%E6%B3%95%E7%8D%B2%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81",
     "timestamp": "2026-11-08T17:59:05.712Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華與洪金寶的童年恩怨：洪金寶玩21點輸了不服氣 兩人私下打架",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195761749702217728074386.jpeg/XgJ6aqCDGC8TmXqKUMNKfPgS0bVMdQRPmzNwtZszcLU",
-    "url": "https://www.hk01.com/01TV/60408183/%E5%85%83%E8%8F%AF%E8%88%87%E6%B4%AA%E9%87%91%E5%AF%B6%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%81%A9%E6%80%A8-%E6%B4%AA%E9%87%91%E5%AF%B6%E7%8E%A921%E9%BB%9E%E8%BC%B8%E4%BA%86%E4%B8%8D%E6%9C%8D%E6%B0%A3-%E5%85%A9%E4%BA%BA%E7%A7%81%E4%B8%8B%E6%89%93%E6%9E%B6",
-    "timestamp": "2026-11-08T17:44:56.606Z",
     "strategy": ".content-card__main"
   }
 ];
