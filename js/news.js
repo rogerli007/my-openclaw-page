@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T18:53:39.271Z
+// Last updated: 2026-11-08T19:17:24.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華回憶首度對決李小龍：在《精武門》飾演日本仔挨踢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195768506776293376273986.jpeg/t0gkAPxZyPELf6RlmFWBjZx0nW0n7DaLXLqbSFy6m0g",
+    "url": "https://www.hk01.com/01TV/60408193/%E5%85%83%E8%8F%AF%E5%9B%9E%E6%86%B6%E9%A6%96%E5%BA%A6%E5%B0%8D%E6%B1%BA%E6%9D%8E%E5%B0%8F%E9%BE%8D-%E5%9C%A8-%E7%B2%BE%E6%AD%A6%E9%96%80-%E9%A3%BE%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BB%94%E6%8C%A8%E8%B8%A2",
+    "timestamp": "2026-11-08T19:17:24.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼聯4：4逼和阿士東維拉　排第18續陷降班區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196211187344216064019382.png/xvrBzRM9pqoVQdBhEugHeF9Yd6RlAxue9Iga8_SIGvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408483/%E5%B1%B1%E8%A5%BF%E5%A4%AA%E5%8E%9F%E4%B8%80%E9%AB%98%E5%B1%A4%E5%BB%BA%E7%AF%89%E8%B5%B7%E7%81%AB-%E6%9C%89%E4%BA%BA%E8%A2%AB%E5%9B%B0%E7%AA%97%E9%82%8A%E6%B1%82%E6%95%91-%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
     "timestamp": "2026-11-08T13:29:11.973Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西抵港內地婦涉攜31公斤瀕危乾魚翅　海關拘人交漁護署檢控",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196206998442479616586421.jpeg/rGf3t9C9Qpx-XRdNqVrsKWJeCPOr10gsAHiaFQB4mhU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408481/%E5%B7%B4%E8%A5%BF%E6%8A%B5%E6%B8%AF%E5%85%A7%E5%9C%B0%E5%A9%A6%E6%B6%89%E6%94%9C31%E5%85%AC%E6%96%A4%E7%80%95%E5%8D%B1%E4%B9%BE%E9%AD%9A%E7%BF%85-%E6%B5%B7%E9%97%9C%E6%8B%98%E4%BA%BA%E4%BA%A4%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%AA%A2%E6%8E%A7",
-    "timestamp": "2026-11-08T13:18:24.128Z",
     "strategy": ".content-card__main"
   }
 ];
