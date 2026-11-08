@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T10:30:09.674Z
+// Last updated: 2026-11-08T10:45:15.187Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冷鋒挾東北季候風11.9殺到　市區最低氣溫16度　風力飆升有得解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196161899272605696068745.jpeg/M0J7gruji1qg1gcXacApNtqkZkiFOcmu5c2dOeXNnTk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408452/%E5%86%B7%E9%8B%92%E6%8C%BE%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A811-9%E6%AE%BA%E5%88%B0-%E5%B8%82%E5%8D%80%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB16%E5%BA%A6-%E9%A2%A8%E5%8A%9B%E9%A3%86%E5%8D%87%E6%9C%89%E5%BE%97%E8%A7%A3",
+    "timestamp": "2026-11-08T10:45:15.187Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "草間彌生5米高巨型南瓜雕塑成啟德新地標　多人打卡帶動周邊人流",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196072412844658688106328.png/WamFR57j6An4MWrbMQUWVKt4Uo9IS-DhCi4bWwouG1s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408359/%E8%B6%B3%E7%90%83%E7%86%B1%E8%A9%B1-%E6%BF%83%E9%9C%A7%E4%BD%9C%E6%88%B0%E5%8F%A6%E9%A1%9E%E6%A8%82%E8%B6%A3-%E7%90%83%E8%BF%B7%E8%AB%B7-%E8%B6%B3%E7%B8%BD%E7%9B%83%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%B2%BE%E5%BD%A9%E6%99%82%E5%88%BB",
     "timestamp": "2026-11-08T05:13:52.670Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "墨西哥警直升機緝毒掃射汽車　7歲美籍女童慘遭擊斃｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196066324405555200714930.png/qkEfhT_dd09cgZxH8ooRh82TA3Z8JY7eqQ-VQakPlUE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408348/%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%AD%A6%E7%9B%B4%E5%8D%87%E6%A9%9F%E7%B7%9D%E6%AF%92%E6%8E%83%E5%B0%84%E6%B1%BD%E8%BB%8A-7%E6%AD%B2%E7%BE%8E%E7%B1%8D%E5%A5%B3%E7%AB%A5%E6%85%98%E9%81%AD%E6%93%8A%E6%96%83-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-08T04:39:35.609Z",
     "strategy": ".content-card__main"
   }
 ];
