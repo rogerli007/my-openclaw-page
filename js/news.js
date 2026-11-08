@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T21:59:02.848Z
+// Last updated: 2026-11-08T22:18:57.680Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王晶爆曾見明星出入逾20人包圍排場誇張　大讚影帝貼地請劇組食餅",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196135611656835072548927.jpeg/5oHu8xQZUGMe_eoMG9QjwX1EKnf5Dol_Ji6C7SYugu0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408375/%E7%8E%8B%E6%99%B6%E7%88%86%E6%9B%BE%E8%A6%8B%E6%98%8E%E6%98%9F%E5%87%BA%E5%85%A5%E9%80%BE20%E4%BA%BA%E5%8C%85%E5%9C%8D%E6%8E%92%E5%A0%B4%E8%AA%87%E5%BC%B5-%E5%A4%A7%E8%AE%9A%E5%BD%B1%E5%B8%9D%E8%B2%BC%E5%9C%B0%E8%AB%8B%E5%8A%87%E7%B5%84%E9%A3%9F%E9%A4%85",
+    "timestamp": "2026-11-08T22:18:57.680Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：黃仁勳承認有婚外情　英偉達：就間諜風波啟動調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196259928625385472856014.jpeg/CCzEdZKyecoHttNQOi4J4CLDWz5h8WfP7sIkOu7CJDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408505/%E5%8C%97%E8%A7%92%E9%A3%9F%E7%92%B0%E5%A4%96%E5%88%A4%E8%BB%8A%E6%92%9E%E5%80%92%E5%A5%B3%E9%80%94%E4%BA%BA%E7%95%99%E9%86%AB4%E6%97%A5%E4%B8%8D%E6%B2%BB-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%87%B4%E4%BB%96%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-11-08T16:59:07.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超︱利物浦作客挫水晶宮重返前四　白禮頓又贏一場壓曼城升次席",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196235668284510208260371.jpeg/rvFBglTAwmaJ-LVhrXxgSORzYlsmvq93FMzpaxTM6Ws?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408497/%E8%8B%B1%E8%B6%85-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A2%E6%8C%AB%E6%B0%B4%E6%99%B6%E5%AE%AE%E9%87%8D%E8%BF%94%E5%89%8D%E5%9B%9B-%E7%99%BD%E7%A6%AE%E9%A0%93%E5%8F%88%E8%B4%8F%E4%B8%80%E5%A0%B4%E5%A3%93%E6%9B%BC%E5%9F%8E%E5%8D%87%E6%AC%A1%E5%B8%AD",
-    "timestamp": "2026-11-08T16:39:06.257Z",
     "strategy": ".content-card__main"
   }
 ];
