@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T15:41:50.795Z
+// Last updated: 2026-11-08T15:59:15.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "埃及火車相撞後出軌　至少4死88人傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196246634221015040508173.jpeg/y_XTZ6YmGsDY_4rka75hE95dFEhCXcqHPJ1brzydW68?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408502/%E5%9F%83%E5%8F%8A%E7%81%AB%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%BE%8C%E5%87%BA%E8%BB%8C-%E8%87%B3%E5%B0%914%E6%AD%BB88%E4%BA%BA%E5%82%B7",
+    "timestamp": "2026-11-08T15:59:15.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大東山周末再現追芒草人潮　行山客網上呻：上山落山等車都要排隊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196161899272605696068745.jpeg/M0J7gruji1qg1gcXacApNtqkZkiFOcmu5c2dOeXNnTk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408452/%E5%86%B7%E9%8B%92%E6%8C%BE%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A811-9%E6%AE%BA%E5%88%B0-%E5%B8%82%E5%8D%80%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB16%E5%BA%A6-%E9%A2%A8%E5%8A%9B%E9%A3%86%E5%8D%87%E6%9C%89%E5%BE%97%E8%A7%A3",
     "timestamp": "2026-11-08T10:45:15.187Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "草間彌生5米高巨型南瓜雕塑成啟德新地標　多人打卡帶動周邊人流",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196147222404665344951487.jpeg/kAhMdII0zgKZQqRxr0514zIoIXNgCQlAr_puBK_6bgQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408445/%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F5%E7%B1%B3%E9%AB%98%E5%B7%A8%E5%9E%8B%E5%8D%97%E7%93%9C%E9%9B%95%E5%A1%91%E6%88%90%E5%95%9F%E5%BE%B7%E6%96%B0%E5%9C%B0%E6%A8%99-%E5%A4%9A%E4%BA%BA%E6%89%93%E5%8D%A1%E5%B8%B6%E5%8B%95%E5%91%A8%E9%82%8A%E4%BA%BA%E6%B5%81",
-    "timestamp": "2026-11-08T10:30:09.674Z",
     "strategy": ".content-card__main"
   }
 ];
