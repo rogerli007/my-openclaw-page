@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T22:45:01.693Z
+// Last updated: 2026-11-08T22:59:04.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「亞視忠臣」劉錫賢效力ATV28年曾向TVB自薦　一個原因被無情拒絕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196235021652856832342065.jpeg/KEKTxtiSyTi1HOFe9-DR0J5mzsOZjSE1bqkglm6pIJY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408437/%E4%BA%9E%E8%A6%96%E5%BF%A0%E8%87%A3-%E5%8A%89%E9%8C%AB%E8%B3%A2%E6%95%88%E5%8A%9Batv28%E5%B9%B4%E6%9B%BE%E5%90%91tvb%E8%87%AA%E8%96%A6-%E4%B8%80%E5%80%8B%E5%8E%9F%E5%9B%A0%E8%A2%AB%E7%84%A1%E6%83%85%E6%8B%92%E7%B5%95",
+    "timestamp": "2026-11-08T22:59:04.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「亞視忠臣」劉錫賢效力ATV28年曾向TVB自薦　一個原因被無情拒絕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195761749702217728074386.jpeg/XgJ6aqCDGC8TmXqKUMNKfPgS0bVMdQRPmzNwtZszcLU",
     "url": "https://www.hk01.com/01TV/60408183/%E5%85%83%E8%8F%AF%E8%88%87%E6%B4%AA%E9%87%91%E5%AF%B6%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%81%A9%E6%80%A8-%E6%B4%AA%E9%87%91%E5%AF%B6%E7%8E%A921%E9%BB%9E%E8%BC%B8%E4%BA%86%E4%B8%8D%E6%9C%8D%E6%B0%A3-%E5%85%A9%E4%BA%BA%E7%A7%81%E4%B8%8B%E6%89%93%E6%9E%B6",
     "timestamp": "2026-11-08T17:44:56.606Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華與洪金寶的童年恩怨：洪金寶玩21點輸了不服氣 兩人私下打架",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195761749702217728074386.jpeg/XgJ6aqCDGC8TmXqKUMNKfPgS0bVMdQRPmzNwtZszcLU",
-    "url": "https://www.hk01.com/01TV/60408183/%E5%85%83%E8%8F%AF%E8%88%87%E6%B4%AA%E9%87%91%E5%AF%B6%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%81%A9%E6%80%A8-%E6%B4%AA%E9%87%91%E5%AF%B6%E7%8E%A921%E9%BB%9E%E8%BC%B8%E4%BA%86%E4%B8%8D%E6%9C%8D%E6%B0%A3-%E5%85%A9%E4%BA%BA%E7%A7%81%E4%B8%8B%E6%89%93%E6%9E%B6",
-    "timestamp": "2026-11-08T17:29:15.822Z",
     "strategy": ".content-card__main"
   }
 ];
