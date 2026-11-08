@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T13:18:24.128Z
+// Last updated: 2026-11-08T13:29:11.973Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山西太原一高層建築起火　有人被困窗邊求救　傷者送院救治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196211187344216064019382.png/xvrBzRM9pqoVQdBhEugHeF9Yd6RlAxue9Iga8_SIGvM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408483/%E5%B1%B1%E8%A5%BF%E5%A4%AA%E5%8E%9F%E4%B8%80%E9%AB%98%E5%B1%A4%E5%BB%BA%E7%AF%89%E8%B5%B7%E7%81%AB-%E6%9C%89%E4%BA%BA%E8%A2%AB%E5%9B%B0%E7%AA%97%E9%82%8A%E6%B1%82%E6%95%91-%E5%82%B7%E8%80%85%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB",
+    "timestamp": "2026-11-08T13:29:11.973Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西抵港內地婦涉攜31公斤瀕危乾魚翅　海關拘人交漁護署檢控",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196087442999087104631487.jpeg/WTKgJX4nur2oy6Y4cPHhFgXULTvRjRowBMnS2yHJ0ts?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408424/%E9%95%B7%E6%B2%99%E7%81%A3%E8%99%90%E5%85%92%E5%85%A7%E6%83%85-%E5%A5%B3%E7%AB%A5%E6%AF%80%E8%B1%AC%E4%BB%94%E9%8C%A2%E7%BD%8C%E5%81%B7%E9%8C%A2%E8%B2%B7%E9%9B%B6%E9%A3%9F-%E6%AF%8D%E6%93%B8%E8%A1%A3%E6%9E%B6%E6%89%93%E5%A5%B3%E5%BE%8C%E9%9B%A2%E5%AE%B6",
     "timestamp": "2026-11-08T08:45:13.754Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "INFINITE南優賢開騷險爆嚴重意外　升降台突升起差半步險墮台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196120717259706368140976.jpeg/l5Uf9ZuJAqWnKOXIlXdDDGwWacr3LjX7y1Cat8tQmrc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408410/infinite%E5%8D%97%E5%84%AA%E8%B3%A2%E9%96%8B%E9%A8%B7%E9%9A%AA%E7%88%86%E5%9A%B4%E9%87%8D%E6%84%8F%E5%A4%96-%E5%8D%87%E9%99%8D%E5%8F%B0%E7%AA%81%E5%8D%87%E8%B5%B7%E5%B7%AE%E5%8D%8A%E6%AD%A5%E9%9A%AA%E5%A2%AE%E5%8F%B0",
-    "timestamp": "2026-11-08T08:22:11.707Z",
     "strategy": ".content-card__main"
   }
 ];
