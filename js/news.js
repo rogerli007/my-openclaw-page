@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T13:59:02.851Z
+// Last updated: 2026-11-08T14:18:41.896Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角建興大廈對開　42歲內地漢暈倒　昏迷送院搶救後不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260125/1092175920489304064689520.jpeg/CyiPYn1RG2nngFWSEN6QXTD-6_d69g8dedq2Z1Datmc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408491/%E6%97%BA%E8%A7%92%E5%BB%BA%E8%88%88%E5%A4%A7%E5%BB%88%E5%B0%8D%E9%96%8B-42%E6%AD%B2%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-11-08T14:18:41.896Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙特：胡塞空襲利雅德金融區　沙特阿美大樓受損",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166728003011481600012865.jpeg/elOH1glBbo3u58PaLf5Z4JNbhBxT7j_kMtcAKzLXACs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408442/%E7%B4%90%E6%99%82-%E5%A4%9A%E9%96%93%E7%8D%B2%E6%89%B9%E8%B3%BC%E8%B2%B7%E8%8B%B1%E5%81%89%E9%81%94%E6%99%B6%E7%89%87%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%96%91%E7%82%BA%E7%A9%BA%E6%AE%BC%E5%85%AC%E5%8F%B8",
     "timestamp": "2026-11-08T09:29:30.976Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湖北大學生看熱鬧拍照　遭校園保安勒頸鎖臂致骨折　校方回應惹議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195709283782627328957236.png/zVgJz5izZVCZ_FA5xiasJQ-B-biOKOMEqtkqs6rZKrM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408109/%E6%B9%96%E5%8C%97%E5%A4%A7%E5%AD%B8%E7%94%9F%E7%9C%8B%E7%86%B1%E9%AC%A7%E6%8B%8D%E7%85%A7-%E9%81%AD%E6%A0%A1%E5%9C%92%E4%BF%9D%E5%AE%89%E5%8B%92%E9%A0%B8%E9%8E%96%E8%87%82%E8%87%B4%E9%AA%A8%E6%8A%98-%E6%A0%A1%E6%96%B9%E5%9B%9E%E6%87%89%E6%83%B9%E8%AD%B0",
-    "timestamp": "2026-11-08T09:15:06.807Z",
     "strategy": ".content-card__main"
   }
 ];
