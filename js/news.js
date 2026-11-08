@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T03:45:40.125Z
+// Last updated: 2026-11-08T03:59:10.440Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "最後一位開國將軍、原烏魯木齊軍區副司令王扶之病逝　享年104歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196068674776076288203197.png/0tDtsW6V5rImJdWDmDWBXdbxE4o21Sh0OthRYjrYUWI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408350/%E6%9C%80%E5%BE%8C%E4%B8%80%E4%BD%8D%E9%96%8B%E5%9C%8B%E5%B0%87%E8%BB%8D-%E5%8E%9F%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E8%BB%8D%E5%8D%80%E5%89%AF%E5%8F%B8%E4%BB%A4%E7%8E%8B%E6%89%B6%E4%B9%8B%E7%97%85%E9%80%9D-%E4%BA%AB%E5%B9%B4104%E6%AD%B2",
+    "timestamp": "2026-11-08T03:59:10.440Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新清水灣道私家車自炒撞水馬　半邊車身凌空擱水馬　險迎頭撞巴士",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195254502052073472391687.jpeg/4_pY0G4PsI7S8bzzi2UaTxz3_CFWwBKHver96r3q_eo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408319/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E6%B0%91%E4%B8%BB%E9%BB%A8-%E6%95%B2%E8%A9%90%E5%8B%92%E7%B4%A2-%E6%8C%87%E8%B2%AC%E5%B0%8D%E6%96%B9%E6%BF%AB%E7%94%A8%E5%BD%88%E5%8A%BE%E5%A8%81%E8%84%85",
     "timestamp": "2026-11-07T21:44:46.389Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普下令司法部調查民主黨「敲詐勒索」　指責對方濫用彈劾威脅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195254502052073472391687.jpeg/4_pY0G4PsI7S8bzzi2UaTxz3_CFWwBKHver96r3q_eo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408319/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E6%B0%91%E4%B8%BB%E9%BB%A8-%E6%95%B2%E8%A9%90%E5%8B%92%E7%B4%A2-%E6%8C%87%E8%B2%AC%E5%B0%8D%E6%96%B9%E6%BF%AB%E7%94%A8%E5%BD%88%E5%8A%BE%E5%A8%81%E8%84%85",
-    "timestamp": "2026-11-07T21:23:33.123Z",
     "strategy": ".content-card__main"
   }
 ];
