@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T18:44:56.776Z
+// Last updated: 2026-11-08T18:53:39.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼聯4：4逼和阿士東維拉　排第18續陷降班區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196290456321789952065837.jpeg/JzQc4fVcugj_G-Kxmqq0bI7OEwJfKSc3tDBpFrQwaRY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408508/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF4-4%E9%80%BC%E5%92%8C%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89-%E6%8E%92%E7%AC%AC18%E7%BA%8C%E9%99%B7%E9%99%8D%E7%8F%AD%E5%8D%80",
+    "timestamp": "2026-11-08T18:53:39.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華展現「筋斗王」絕技：連翻40個翻滾被李小龍相中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196206998442479616586421.jpeg/rGf3t9C9Qpx-XRdNqVrsKWJeCPOr10gsAHiaFQB4mhU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408481/%E5%B7%B4%E8%A5%BF%E6%8A%B5%E6%B8%AF%E5%85%A7%E5%9C%B0%E5%A9%A6%E6%B6%89%E6%94%9C31%E5%85%AC%E6%96%A4%E7%80%95%E5%8D%B1%E4%B9%BE%E9%AD%9A%E7%BF%85-%E6%B5%B7%E9%97%9C%E6%8B%98%E4%BA%BA%E4%BA%A4%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%AA%A2%E6%8E%A7",
     "timestamp": "2026-11-08T13:18:24.128Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粵劇才女謝曉瑩獲設宴慶生　孖高潤鴻甜蜜合唱《遊龍戲鳳》掀高潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196160438040006656601475.jpeg/nZ3H4phq1jXhg5KRhQJk2kiffI-_jSqXGRlY5BkZWOQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408441/%E7%B2%B5%E5%8A%87%E6%89%8D%E5%A5%B3%E8%AC%9D%E6%9B%89%E7%91%A9%E7%8D%B2%E8%A8%AD%E5%AE%B4%E6%85%B6%E7%94%9F-%E5%AD%96%E9%AB%98%E6%BD%A4%E9%B4%BB%E7%94%9C%E8%9C%9C%E5%90%88%E5%94%B1-%E9%81%8A%E9%BE%8D%E6%88%B2%E9%B3%B3-%E6%8E%80%E9%AB%98%E6%BD%AE",
-    "timestamp": "2026-11-08T12:59:01.074Z",
     "strategy": ".content-card__main"
   }
 ];
