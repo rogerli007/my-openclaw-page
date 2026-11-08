@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T09:15:06.807Z
+// Last updated: 2026-11-08T09:29:30.976Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《紐時》：多間獲批購買英偉達晶片中國企業疑為空殼公司",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260819/1166728003011481600012865.jpeg/elOH1glBbo3u58PaLf5Z4JNbhBxT7j_kMtcAKzLXACs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408442/%E7%B4%90%E6%99%82-%E5%A4%9A%E9%96%93%E7%8D%B2%E6%89%B9%E8%B3%BC%E8%B2%B7%E8%8B%B1%E5%81%89%E9%81%94%E6%99%B6%E7%89%87%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%96%91%E7%82%BA%E7%A9%BA%E6%AE%BC%E5%85%AC%E5%8F%B8",
+    "timestamp": "2026-11-08T09:29:30.976Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湖北大學生看熱鬧拍照　遭校園保安勒頸鎖臂致骨折　校方回應惹議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195731728883257344308195.jpeg/ibB2Mm46OS14Tcd-alAbYsfsb2z8tR9QFdA7bhXQO24",
     "url": "https://www.hk01.com/01TV/60408152/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%85%A9%E5%9C%B0%E7%89%8C%E4%B8%83%E4%BA%BA%E8%BB%8A%E9%80%86%E9%A7%95-%E7%A9%BF%E5%AE%89%E5%85%A8%E5%B3%B6-%E9%87%8D%E8%BF%94%E6%AD%A3%E9%80%94-%E6%83%B9%E7%8B%A0%E6%89%B9",
     "timestamp": "2026-11-08T03:22:28.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "麥巴比風波｜超市為清庫存出奇招！老闆貼紙遮樣：換人啦這瓶我上",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196046030060130304743258.jpeg/L5E4PEAKFg3rV33GaVFz5JuWcnekavx7-FJ82fhSfNk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60408337/%E9%BA%A5%E5%B7%B4%E6%AF%94%E9%A2%A8%E6%B3%A2-%E8%B6%85%E5%B8%82%E7%82%BA%E6%B8%85%E5%BA%AB%E5%AD%98%E5%87%BA%E5%A5%87%E6%8B%9B-%E8%80%81%E9%97%86%E8%B2%BC%E7%B4%99%E9%81%AE%E6%A8%A3-%E6%8F%9B%E4%BA%BA%E5%95%A6%E9%80%99%E7%93%B6%E6%88%91%E4%B8%8A",
-    "timestamp": "2026-11-08T02:53:46.347Z",
     "strategy": ".content-card__main"
   }
 ];
