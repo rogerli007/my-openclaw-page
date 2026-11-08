@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T15:59:15.132Z
+// Last updated: 2026-11-08T16:19:25.689Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LOL世界賽2026｜T1對BLG！準決賽程時間結果+免費直播連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196253794598391808417269.png/dBZxjN0m74pgfLvJBQ50bqZf7mWyG_yMUBpJ3FAaSdw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60404627/lol%E4%B8%96%E7%95%8C%E8%B3%BD2026-t1%E5%B0%8Dblg-%E6%BA%96%E6%B1%BA%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E7%B5%90%E6%9E%9C-%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90",
+    "timestamp": "2026-11-08T16:19:25.689Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "埃及火車相撞後出軌　至少4死88人傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196160365256249344658092.jpeg/ZEAmX69GPBLIw8thtRzYoktsCV8zvFliH2kUFTppFBU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408463/m-%E5%8D%9A%E7%89%A9%E9%A4%A85%E5%91%A8%E5%B9%B4%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-%E9%83%A8%E4%BB%BD%E5%B1%95%E9%A4%A8%E9%A0%88%E5%88%86%E6%B5%81-%E6%9C%89%E5%B8%82%E6%B0%91%E6%89%B6%E8%80%81%E6%94%9C%E5%B9%BC%E8%A6%AA%E5%AD%90%E9%81%8A",
     "timestamp": "2026-11-08T10:59:03.073Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冷鋒挾東北季候風11.9殺到　市區最低氣溫16度　風力飆升有得解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196161899272605696068745.jpeg/M0J7gruji1qg1gcXacApNtqkZkiFOcmu5c2dOeXNnTk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408452/%E5%86%B7%E9%8B%92%E6%8C%BE%E6%9D%B1%E5%8C%97%E5%AD%A3%E5%80%99%E9%A2%A811-9%E6%AE%BA%E5%88%B0-%E5%B8%82%E5%8D%80%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB16%E5%BA%A6-%E9%A2%A8%E5%8A%9B%E9%A3%86%E5%8D%87%E6%9C%89%E5%BE%97%E8%A7%A3",
-    "timestamp": "2026-11-08T10:45:15.187Z",
     "strategy": ".content-card__main"
   }
 ];
