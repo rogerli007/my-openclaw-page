@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T12:29:55.861Z
+// Last updated: 2026-11-08T12:44:55.028Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球韓國賽︱安洗瑩繼續無敵　挫山口茜再奪11冠今年含金量更高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196181725609201664736901.jpeg/cxhwzxqYMx2jPSog4s8wArx7Cgh5ndsn9ZrwZfWa8GU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408474/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD-%E5%AE%89%E6%B4%97%E7%91%A9%E7%B9%BC%E7%BA%8C%E7%84%A1%E6%95%B5-%E6%8C%AB%E5%B1%B1%E5%8F%A3%E8%8C%9C%E5%86%8D%E5%A5%AA11%E5%86%A0%E4%BB%8A%E5%B9%B4%E5%90%AB%E9%87%91%E9%87%8F%E6%9B%B4%E9%AB%98",
+    "timestamp": "2026-11-08T12:44:55.028Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玫瑰戰爭丨陳自瑤慘遭好姊妹姚子羚設局　被落迷姦水送上床陪客",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196116458917072896830647.jpeg/GSjxrHn06PNjhQ9LBuydNXzAR1Vbdtfuco70dnKO9HY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408392/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E9%81%AD%E5%89%8D%E5%A4%AB%E9%90%B5%E9%8D%8A%E9%8E%96%E5%BA%8A%E6%96%BD%E6%9A%B42%E5%B9%B4-%E5%A6%82%E5%BB%81%E9%9D%A0%E6%B0%B4%E6%A1%B6-%E7%B6%AD%E4%BF%AE%E5%B7%A5%E8%81%9E%E6%B1%82%E6%95%91%E8%81%B2%E6%95%91%E4%BA%BA",
     "timestamp": "2026-11-08T07:45:02.686Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "徐州景點8大推介｜登雲龍山尋蘇東坡足跡　逛戶部山步行街吃美食",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412345086545920029461.jpeg/EJNH4BOg80AdFalGGySpVRoLvLWUptxQavXWjmr11o4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407649/%E5%BE%90%E5%B7%9E%E6%99%AF%E9%BB%9E8%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E7%99%BB%E9%9B%B2%E9%BE%8D%E5%B1%B1%E5%B0%8B%E8%98%87%E6%9D%B1%E5%9D%A1%E8%B6%B3%E8%B7%A1-%E9%80%9B%E6%88%B6%E9%83%A8%E5%B1%B1%E6%AD%A5%E8%A1%8C%E8%A1%97%E5%90%83%E7%BE%8E%E9%A3%9F",
-    "timestamp": "2026-11-08T07:20:39.763Z",
     "strategy": ".content-card__main"
   }
 ];
