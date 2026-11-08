@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T07:20:39.763Z
+// Last updated: 2026-11-08T07:45:02.686Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國女遭前夫鐵鍊鎖床施暴2年！如廁靠水桶　維修工聞求救聲救人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196116458917072896830647.jpeg/GSjxrHn06PNjhQ9LBuydNXzAR1Vbdtfuco70dnKO9HY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408392/%E7%BE%8E%E5%9C%8B%E5%A5%B3%E9%81%AD%E5%89%8D%E5%A4%AB%E9%90%B5%E9%8D%8A%E9%8E%96%E5%BA%8A%E6%96%BD%E6%9A%B42%E5%B9%B4-%E5%A6%82%E5%BB%81%E9%9D%A0%E6%B0%B4%E6%A1%B6-%E7%B6%AD%E4%BF%AE%E5%B7%A5%E8%81%9E%E6%B1%82%E6%95%91%E8%81%B2%E6%95%91%E4%BA%BA",
+    "timestamp": "2026-11-08T07:45:02.686Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "徐州景點8大推介｜登雲龍山尋蘇東坡足跡　逛戶部山步行街吃美食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195880812449370112824705.jpeg/Ii2DddFjmzYFnQS4FVhvbDw3k3xrEyrKm6gb1JuoG9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408228/%E7%8D%A8%E5%AE%B6-%E4%BD%95%E9%BA%A5%E6%AD%A6%E9%A4%A8%E6%97%A9%E5%80%92%E9%96%89-%E5%A5%B3%E5%8F%8B%E6%96%A5%E4%BD%95%E6%85%88%E8%8C%B5%E4%B8%80%E5%B9%B4%E8%A6%8B%E7%88%B6%E5%85%A9%E6%AC%A1-%E4%BA%BA%E5%9C%A8%E5%81%9A%E5%A4%A9%E5%9C%A8%E7%9C%8B",
     "timestamp": "2026-11-08T01:00:09.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "獨家丨何麥武館早倒閉　女友斥何慈茵一年見父兩次：人在做天在看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195880812449370112824705.jpeg/Ii2DddFjmzYFnQS4FVhvbDw3k3xrEyrKm6gb1JuoG9Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408228/%E7%8D%A8%E5%AE%B6-%E4%BD%95%E9%BA%A5%E6%AD%A6%E9%A4%A8%E6%97%A9%E5%80%92%E9%96%89-%E5%A5%B3%E5%8F%8B%E6%96%A5%E4%BD%95%E6%85%88%E8%8C%B5%E4%B8%80%E5%B9%B4%E8%A6%8B%E7%88%B6%E5%85%A9%E6%AC%A1-%E4%BA%BA%E5%9C%A8%E5%81%9A%E5%A4%A9%E5%9C%A8%E7%9C%8B",
-    "timestamp": "2026-11-08T00:34:22.219Z",
     "strategy": ".content-card__main"
   }
 ];
