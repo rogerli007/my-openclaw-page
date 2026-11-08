@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T22:18:57.680Z
+// Last updated: 2026-11-08T22:29:35.273Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼聯戲劇性4:4逼和維拉  防線多漏洞  累積失30球冠絕歐洲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196345895965167616184907.jpeg/QNagZ3p2XYRvmoV9BeaMaDg7y4zsZM0fKY8aDCmPGgw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408515/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E6%88%B2%E5%8A%87%E6%80%A74-4%E9%80%BC%E5%92%8C%E7%B6%AD%E6%8B%89-%E9%98%B2%E7%B7%9A%E5%A4%9A%E6%BC%8F%E6%B4%9E-%E7%B4%AF%E7%A9%8D%E5%A4%B130%E7%90%83%E5%86%A0%E7%B5%95%E6%AD%90%E6%B4%B2",
+    "timestamp": "2026-11-08T22:29:35.273Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王晶爆曾見明星出入逾20人包圍排場誇張　大讚影帝貼地請劇組食餅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195761749702217728074386.jpeg/XgJ6aqCDGC8TmXqKUMNKfPgS0bVMdQRPmzNwtZszcLU",
     "url": "https://www.hk01.com/01TV/60408183/%E5%85%83%E8%8F%AF%E8%88%87%E6%B4%AA%E9%87%91%E5%AF%B6%E7%9A%84%E7%AB%A5%E5%B9%B4%E6%81%A9%E6%80%A8-%E6%B4%AA%E9%87%91%E5%AF%B6%E7%8E%A921%E9%BB%9E%E8%BC%B8%E4%BA%86%E4%B8%8D%E6%9C%8D%E6%B0%A3-%E5%85%A9%E4%BA%BA%E7%A7%81%E4%B8%8B%E6%89%93%E6%9E%B6",
     "timestamp": "2026-11-08T17:17:46.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角食環外判車撞倒女途人留醫4日不治　司機涉危駕致他人死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196259928625385472856014.jpeg/CCzEdZKyecoHttNQOi4J4CLDWz5h8WfP7sIkOu7CJDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408505/%E5%8C%97%E8%A7%92%E9%A3%9F%E7%92%B0%E5%A4%96%E5%88%A4%E8%BB%8A%E6%92%9E%E5%80%92%E5%A5%B3%E9%80%94%E4%BA%BA%E7%95%99%E9%86%AB4%E6%97%A5%E4%B8%8D%E6%B2%BB-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%87%B4%E4%BB%96%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-11-08T16:59:07.002Z",
     "strategy": ".content-card__main"
   }
 ];
