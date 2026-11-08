@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T06:59:15.242Z
+// Last updated: 2026-11-08T07:20:39.763Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "徐州景點8大推介｜登雲龍山尋蘇東坡足跡　逛戶部山步行街吃美食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412345086545920029461.jpeg/EJNH4BOg80AdFalGGySpVRoLvLWUptxQavXWjmr11o4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60407649/%E5%BE%90%E5%B7%9E%E6%99%AF%E9%BB%9E8%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E7%99%BB%E9%9B%B2%E9%BE%8D%E5%B1%B1%E5%B0%8B%E8%98%87%E6%9D%B1%E5%9D%A1%E8%B6%B3%E8%B7%A1-%E9%80%9B%E6%88%B6%E9%83%A8%E5%B1%B1%E6%AD%A5%E8%A1%8C%E8%A1%97%E5%90%83%E7%BE%8E%E9%A3%9F",
+    "timestamp": "2026-11-08T07:20:39.763Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "基層缺娛樂　調查揭逾半兒童日玩手機逾兩小時　社協倡增課餘活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195880812449370112824705.jpeg/Ii2DddFjmzYFnQS4FVhvbDw3k3xrEyrKm6gb1JuoG9Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408228/%E7%8D%A8%E5%AE%B6-%E4%BD%95%E9%BA%A5%E6%AD%A6%E9%A4%A8%E6%97%A9%E5%80%92%E9%96%89-%E5%A5%B3%E5%8F%8B%E6%96%A5%E4%BD%95%E6%85%88%E8%8C%B5%E4%B8%80%E5%B9%B4%E8%A6%8B%E7%88%B6%E5%85%A9%E6%AC%A1-%E4%BA%BA%E5%9C%A8%E5%81%9A%E5%A4%A9%E5%9C%A8%E7%9C%8B",
     "timestamp": "2026-11-08T00:34:22.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "空肚飲無糖咖啡能減肥控糖？英國研究警告：恐使早餐後血糖暴增",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189237124386263040973806.jpeg/cnn1SdR5bYqNf3DY4AiXLwGJDrRMA8cDrFCWdKxQlnQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60399601/%E7%A9%BA%E8%82%9A%E9%A3%B2%E7%84%A1%E7%B3%96%E5%92%96%E5%95%A1%E8%83%BD%E6%B8%9B%E8%82%A5%E6%8E%A7%E7%B3%96-%E8%8B%B1%E5%9C%8B%E7%A0%94%E7%A9%B6%E8%AD%A6%E5%91%8A-%E6%81%90%E4%BD%BF%E6%97%A9%E9%A4%90%E5%BE%8C%E8%A1%80%E7%B3%96%E6%9A%B4%E5%A2%9E",
-    "timestamp": "2026-11-07T23:59:14.462Z",
     "strategy": ".content-card__main"
   }
 ];
