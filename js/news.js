@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T16:39:06.257Z
+// Last updated: 2026-11-08T16:59:07.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角食環外判車撞倒女途人留醫4日不治　司機涉危駕致他人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196259928625385472856014.jpeg/CCzEdZKyecoHttNQOi4J4CLDWz5h8WfP7sIkOu7CJDo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408505/%E5%8C%97%E8%A7%92%E9%A3%9F%E7%92%B0%E5%A4%96%E5%88%A4%E8%BB%8A%E6%92%9E%E5%80%92%E5%A5%B3%E9%80%94%E4%BA%BA%E7%95%99%E9%86%AB4%E6%97%A5%E4%B8%8D%E6%B2%BB-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%87%B4%E4%BB%96%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-11-08T16:59:07.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超︱利物浦作客挫水晶宮重返前四　白禮頓又贏一場壓曼城升次席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196178877471264768983015.jpeg/tZFsuG8juUGC8uJc-ujeS1QRW2TOG3fvA6NmNAOjZjQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408450/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E7%B4%AE%E4%BD%8F%E4%B8%8A%E8%B2%A0%E5%8A%89%E5%A9%A7%E6%96%87%E5%A5%AA%E4%BA%9E-%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%94%9C%E5%BF%83%E4%BB%8D%E7%82%BA%E8%B3%BD%E5%AD%A3%E6%84%9F%E8%87%AA%E8%B1%AA",
     "timestamp": "2026-11-08T11:29:08.683Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTA香港賽︱伊雅娜紮住上負劉婧文奪亞 菲律賓甜心仍為賽季感自豪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196151989067583488803495.jpeg/2ErnjpmgIQ7RqMmwfv2wbBc5WUecxYlU-uv6PPrr-jw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408450/wta%E9%A6%99%E6%B8%AF%E8%B3%BD-%E4%BC%8A%E9%9B%85%E5%A8%9C%E7%B4%AE%E4%BD%8F%E4%B8%8A%E8%B2%A0%E5%8A%89%E5%A9%A7%E6%96%87%E5%A5%AA%E4%BA%9E-%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%94%9C%E5%BF%83%E4%BB%8D%E7%82%BA%E8%B3%BD%E5%AD%A3%E6%84%9F%E8%87%AA%E8%B1%AA",
-    "timestamp": "2026-11-08T11:12:37.687Z",
     "strategy": ".content-card__main"
   }
 ];
