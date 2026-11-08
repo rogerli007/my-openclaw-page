@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T06:47:05.656Z
+// Last updated: 2026-11-08T06:59:15.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "基層缺娛樂　調查揭逾半兒童日玩手機逾兩小時　社協倡增課餘活動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196101205873397760146720.jpeg/yh7cKrAgG3Rvt6htzutnwI2GSjToHkvMLHm1rix5ta4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408384/%E5%9F%BA%E5%B1%A4%E7%BC%BA%E5%A8%9B%E6%A8%82-%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%80%BE%E5%8D%8A%E5%85%92%E7%AB%A5%E6%97%A5%E7%8E%A9%E6%89%8B%E6%A9%9F%E9%80%BE%E5%85%A9%E5%B0%8F%E6%99%82-%E7%A4%BE%E5%8D%94%E5%80%A1%E5%A2%9E%E8%AA%B2%E9%A4%98%E6%B4%BB%E5%8B%95",
+    "timestamp": "2026-11-08T06:59:15.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張馳豪指隊長古天樂氣場震懾全場　預告再與姜濤193同隊打波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189237124386263040973806.jpeg/cnn1SdR5bYqNf3DY4AiXLwGJDrRMA8cDrFCWdKxQlnQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60399601/%E7%A9%BA%E8%82%9A%E9%A3%B2%E7%84%A1%E7%B3%96%E5%92%96%E5%95%A1%E8%83%BD%E6%B8%9B%E8%82%A5%E6%8E%A7%E7%B3%96-%E8%8B%B1%E5%9C%8B%E7%A0%94%E7%A9%B6%E8%AD%A6%E5%91%8A-%E6%81%90%E4%BD%BF%E6%97%A9%E9%A4%90%E5%BE%8C%E8%A1%80%E7%B3%96%E6%9A%B4%E5%A2%9E",
     "timestamp": "2026-11-07T23:59:14.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大馬華裔女遊昆明　街頭遇已故外公舊照　赴華尋根揭外公參與抗戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195058864672739328475093.png/wQdmsVe1ERzaSAjWQfUgRlzt1gxI_gWeEWWELRFlhC0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60407364/%E5%A4%A7%E9%A6%AC%E8%8F%AF%E8%A3%94%E5%A5%B3%E9%81%8A%E6%98%86%E6%98%8E-%E8%A1%97%E9%A0%AD%E9%81%87%E5%B7%B2%E6%95%85%E5%A4%96%E5%85%AC%E8%88%8A%E7%85%A7-%E8%B5%B4%E8%8F%AF%E5%B0%8B%E6%A0%B9%E6%8F%AD%E5%A4%96%E5%85%AC%E5%8F%83%E8%88%87%E6%8A%97%E6%88%B0",
-    "timestamp": "2026-11-07T23:44:55.355Z",
     "strategy": ".content-card__main"
   }
 ];
