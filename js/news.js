@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T03:22:28.512Z
+// Last updated: 2026-11-08T03:45:40.125Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新清水灣道私家車自炒撞水馬　半邊車身凌空擱水馬　險迎頭撞巴士",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196059283242881024691430.jpeg/2Hzde3tWR5ACKdZbdXjen8cnuG4rRIJ1vOhDHLzoQxw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408346/%E6%96%B0%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%B0%B4%E9%A6%AC-%E5%8D%8A%E9%82%8A%E8%BB%8A%E8%BA%AB%E5%87%8C%E7%A9%BA%E6%93%B1%E6%B0%B4%E9%A6%AC-%E9%9A%AA%E8%BF%8E%E9%A0%AD%E6%92%9E%E5%B7%B4%E5%A3%AB",
+    "timestamp": "2026-11-08T03:45:40.125Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜深水埗兩地牌七人車逆駕　穿安全島「重返正途」惹狠批",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195254502052073472391687.jpeg/4_pY0G4PsI7S8bzzi2UaTxz3_CFWwBKHver96r3q_eo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408319/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E6%B0%91%E4%B8%BB%E9%BB%A8-%E6%95%B2%E8%A9%90%E5%8B%92%E7%B4%A2-%E6%8C%87%E8%B2%AC%E5%B0%8D%E6%96%B9%E6%BF%AB%E7%94%A8%E5%BD%88%E5%8A%BE%E5%A8%81%E8%84%85",
     "timestamp": "2026-11-07T21:23:33.123Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普下令司法部調查民主黨「敲詐勒索」　指責對方濫用彈劾威脅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195254502052073472391687.jpeg/4_pY0G4PsI7S8bzzi2UaTxz3_CFWwBKHver96r3q_eo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408319/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%8F%B8%E6%B3%95%E9%83%A8%E8%AA%BF%E6%9F%A5%E6%B0%91%E4%B8%BB%E9%BB%A8-%E6%95%B2%E8%A9%90%E5%8B%92%E7%B4%A2-%E6%8C%87%E8%B2%AC%E5%B0%8D%E6%96%B9%E6%BF%AB%E7%94%A8%E5%BD%88%E5%8A%BE%E5%A8%81%E8%84%85",
-    "timestamp": "2026-11-07T21:18:10.342Z",
     "strategy": ".content-card__main"
   }
 ];
