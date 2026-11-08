@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T07:45:02.686Z
+// Last updated: 2026-11-08T07:59:16.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西環東邊街近第二街　24噸貨車撞欄冒煙　現場交通嚴重擠塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196124671821484032256189.jpeg/apQ8panReX-jLykX7BbECkoFh970_Q3hsvZyyJf2csg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408417/%E8%A5%BF%E7%92%B0%E6%9D%B1%E9%82%8A%E8%A1%97%E8%BF%91%E7%AC%AC%E4%BA%8C%E8%A1%97-24%E5%99%B8%E8%B2%A8%E8%BB%8A%E6%92%9E%E6%AC%84%E5%86%92%E7%85%99-%E7%8F%BE%E5%A0%B4%E4%BA%A4%E9%80%9A%E5%9A%B4%E9%87%8D%E6%93%A0%E5%A1%9E",
+    "timestamp": "2026-11-08T07:59:16.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國女遭前夫鐵鍊鎖床施暴2年！如廁靠水桶　維修工聞求救聲救人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195789190843863040539408.jpeg/olUtNpkXpSNTL-z_iqV3J8peF4K-B-gdTQP9EE0D_RA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408163/%E5%B0%88%E8%A8%AA-%E5%90%B3%E5%8D%93%E7%BE%B2%E6%9B%BE%E5%8D%8A%E5%B9%B4%E7%97%9B%E5%A4%B13%E8%B2%931%E7%8B%97-%E5%AF%B5%E7%89%A9%E9%9B%A2%E4%B8%96%E6%84%9F%E5%B4%A9%E6%BD%B0-%E5%8D%8A%E5%B9%B4%E5%85%A7%E5%96%8A%E5%9B%9B%E6%AC%A1",
     "timestamp": "2026-11-08T01:20:00.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "獨家丨何麥武館早倒閉　女友斥何慈茵一年見父兩次：人在做天在看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195880812449370112824705.jpeg/Ii2DddFjmzYFnQS4FVhvbDw3k3xrEyrKm6gb1JuoG9Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408228/%E7%8D%A8%E5%AE%B6-%E4%BD%95%E9%BA%A5%E6%AD%A6%E9%A4%A8%E6%97%A9%E5%80%92%E9%96%89-%E5%A5%B3%E5%8F%8B%E6%96%A5%E4%BD%95%E6%85%88%E8%8C%B5%E4%B8%80%E5%B9%B4%E8%A6%8B%E7%88%B6%E5%85%A9%E6%AC%A1-%E4%BA%BA%E5%9C%A8%E5%81%9A%E5%A4%A9%E5%9C%A8%E7%9C%8B",
-    "timestamp": "2026-11-08T01:00:09.126Z",
     "strategy": ".content-card__main"
   }
 ];
