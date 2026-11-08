@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T17:59:05.712Z
+// Last updated: 2026-11-08T18:21:08.255Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華展現「筋斗王」絕技：連翻40個翻滾被李小龍相中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195766896465547264036495.jpeg/pTwcl079_0z4M9CIUTdxnBLE5AXfeUkEr2NTFa9jUxU",
+    "url": "https://www.hk01.com/01TV/60408189/%E5%85%83%E8%8F%AF%E5%B1%95%E7%8F%BE-%E7%AD%8B%E6%96%97%E7%8E%8B-%E7%B5%95%E6%8A%80-%E9%80%A3%E7%BF%BB40%E5%80%8B%E7%BF%BB%E6%BB%BE%E8%A2%AB%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%9B%B8%E4%B8%AD",
+    "timestamp": "2026-11-08T18:21:08.255Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗重申冀與金正恩會面　稱想法獲特朗普支持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196181725609201664736901.jpeg/cxhwzxqYMx2jPSog4s8wArx7Cgh5ndsn9ZrwZfWa8GU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408474/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD-%E5%AE%89%E6%B4%97%E7%91%A9%E7%B9%BC%E7%BA%8C%E7%84%A1%E6%95%B5-%E6%8C%AB%E5%B1%B1%E5%8F%A3%E8%8C%9C%E5%86%8D%E5%A5%AA11%E5%86%A0%E4%BB%8A%E5%B9%B4%E5%90%AB%E9%87%91%E9%87%8F%E6%9B%B4%E9%AB%98",
     "timestamp": "2026-11-08T12:44:55.028Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玫瑰戰爭丨陳自瑤慘遭好姊妹姚子羚設局　被落迷姦水送上床陪客",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196191987770855424870594.jpeg/_ZFU8yYdwvpwbn2iL_sswIwdHMamXGPfByn__Acp__w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408421/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E9%99%B3%E8%87%AA%E7%91%A4%E6%85%98%E9%81%AD%E5%A5%BD%E5%A7%8A%E5%A6%B9%E5%A7%9A%E5%AD%90%E7%BE%9A%E8%A8%AD%E5%B1%80-%E8%A2%AB%E8%90%BD%E8%BF%B7%E5%A7%A6%E6%B0%B4%E9%80%81%E4%B8%8A%E5%BA%8A%E9%99%AA%E5%AE%A2",
-    "timestamp": "2026-11-08T12:29:55.861Z",
     "strategy": ".content-card__main"
   }
 ];
