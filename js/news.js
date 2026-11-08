@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T08:45:13.754Z
+// Last updated: 2026-11-08T08:59:16.570Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球韓國賽吳英倫賴浩俊合演另類香港打吡　世界排名料再創新高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196116184399876096492706.jpeg/7x8679YduiI_ZRZqXqDSWItGx6VHvTc8UPbtTVD27U0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408404/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%9F%93%E5%9C%8B%E8%B3%BD%E5%90%B3%E8%8B%B1%E5%80%AB%E8%B3%B4%E6%B5%A9%E4%BF%8A%E5%90%88%E6%BC%94%E5%8F%A6%E9%A1%9E%E9%A6%99%E6%B8%AF%E6%89%93%E5%90%A1-%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E6%96%99%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98",
+    "timestamp": "2026-11-08T08:59:16.570Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長沙灣虐兒內情｜女童毀豬仔錢罌偷錢買零食　母擸衣架打女後離家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196045278331801600435798.jpeg/7g9rBHZTC1_q7EZNdXWDBrvWYpg7yN2pznBxws5wccI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60408339/%E5%AE%87%E6%A8%B9%E9%95%B7%E9%91%AB%E8%82%A1%E5%83%B9%E9%87%8D%E6%8C%AB-%E4%B8%AD%E5%9C%8Bai%E7%86%B1%E9%80%80%E6%BD%AE%E5%BE%9E%E8%82%A1%E5%B8%82%E9%96%8B%E5%A7%8B",
     "timestamp": "2026-11-08T02:35:37.118Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "為何日本稱美國「米國」？揭秘中日翻譯史　中文曾叫「咩哩幹國」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174742726642503680274903.jpeg/nRiE7_4Ql6UT8wY1b_NrFGQANSg0AqMzj37HJI9-xyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60301689/%E7%82%BA%E4%BD%95%E6%97%A5%E6%9C%AC%E7%A8%B1%E7%BE%8E%E5%9C%8B-%E7%B1%B3%E5%9C%8B-%E6%8F%AD%E7%A7%98%E4%B8%AD%E6%97%A5%E7%BF%BB%E8%AD%AF%E5%8F%B2-%E4%B8%AD%E6%96%87%E6%9B%BE%E5%8F%AB-%E5%92%A9%E5%93%A9%E5%B9%B9%E5%9C%8B",
-    "timestamp": "2026-11-08T01:59:00.926Z",
     "strategy": ".content-card__main"
   }
 ];
