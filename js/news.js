@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T22:59:05.968Z
+// Last updated: 2026-11-09T23:18:23.202Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教育臻善｜一張能量卡，連起你我的心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195423300948332544763510.jpeg/2usYGrEuTu1vxnEDUn-fJGag9Hm2TgajMtGncjLRp3I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60407921/%E6%95%99%E8%82%B2%E8%87%BB%E5%96%84-%E4%B8%80%E5%BC%B5%E8%83%BD%E9%87%8F%E5%8D%A1-%E9%80%A3%E8%B5%B7%E4%BD%A0%E6%88%91%E7%9A%84%E5%BF%83",
+    "timestamp": "2026-11-09T23:18:23.202Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "火星認何麥女友做契女　揭喪禮內幕指何慈茵欠規矩：連鞠個躬都冇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196630787215069184543128.jpeg/oUqh7VMLuSKD0OwspmYmnzzbKrxLTRxDI1R20iNUdtI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408901/%E6%B8%AF%E7%89%88-%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E6%9C%AA%E6%92%AD%E5%85%88%E6%83%B9%E7%81%AB-%E6%B5%B7%E5%A0%B1%E9%A9%9A%E7%8F%BE%E4%B8%89%E5%8A%83-%E6%9C%88-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%81%8E%E4%BB%BD",
     "timestamp": "2026-11-09T17:45:26.348Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華挑戰極限特技：從小型飛機躍下 高空跳海命懸一線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195770515910823936527138.jpeg/hhuIG3_6yqmP1Xq0C7xb_p1ne4nQanox08RmJdPEZiU",
-    "url": "https://www.hk01.com/01TV/60408197/%E5%85%83%E8%8F%AF%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90%E7%89%B9%E6%8A%80-%E5%BE%9E%E5%B0%8F%E5%9E%8B%E9%A3%9B%E6%A9%9F%E8%BA%8D%E4%B8%8B-%E9%AB%98%E7%A9%BA%E8%B7%B3%E6%B5%B7%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A",
-    "timestamp": "2026-11-09T17:20:04.144Z",
     "strategy": ".content-card__main"
   }
 ];
