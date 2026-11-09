@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T13:53:39.190Z
+// Last updated: 2026-11-09T14:21:41.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《東張西望》22.8點繼續稱霸　《三代同糖》連跌幾月後終升破18點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196546495977885696180352.jpeg/tC3DGBcYQhIPGkjuxQkbz4ggl8mueIIweRL5UXkS-VE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408850/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-22-8%E9%BB%9E%E7%B9%BC%E7%BA%8C%E7%A8%B1%E9%9C%B8-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E9%80%A3%E8%B7%8C%E5%B9%BE%E6%9C%88%E5%BE%8C%E7%B5%82%E5%8D%87%E7%A0%B418%E9%BB%9E",
+    "timestamp": "2026-11-09T14:21:41.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秦陵陪葬男頭骨中箭遭肢解　顱面復原「蜂準長目」疑秦始皇之子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194434496401772544596701.jpeg/Z1qBClIZS7xP8-L8OeU4sS-r1lBXSMUl4vMz5uLzM-Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408699/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AA%8D%E9%A9%85%E9%80%90%E6%94%BF%E7%AD%96-%E5%8F%AF%E8%83%BD%E9%81%8E%E5%9A%B4-%E7%A8%B1%E5%8F%AF%E8%88%87%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%81%94%E7%A7%BB%E6%B0%91%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-11-09T07:33:47.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "光榮冰室元朗店釘牌｜食環署：屢違反《食物業規例》　須即時停業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196479701443416064490867.png/iA20dCC7EVyfEVQr7aT3cQYlfi8CROYaC41h8guNYfI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408697/%E5%85%89%E6%A6%AE%E5%86%B0%E5%AE%A4%E5%85%83%E6%9C%97%E5%BA%97%E9%87%98%E7%89%8C-%E9%A3%9F%E7%92%B0%E7%BD%B2-%E5%B1%A2%E9%81%95%E5%8F%8D-%E9%A3%9F%E7%89%A9%E6%A5%AD%E8%A6%8F%E4%BE%8B-%E9%A0%88%E5%8D%B3%E6%99%82%E5%81%9C%E6%A5%AD",
-    "timestamp": "2026-11-09T07:22:42.196Z",
     "strategy": ".content-card__main"
   }
 ];
