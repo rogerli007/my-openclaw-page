@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T21:59:10.880Z
+// Last updated: 2026-11-09T22:18:27.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警堅尼地城設路障截查電單車　32歲尼泊爾籍男酒精超標涉醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971300012396544072495.jpeg/5YW1QeDr8X-aBPuD8uai0Sq7DX0_1YTvoOn0RaDp9EU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408908/%E8%AD%A6%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%88%AA%E6%9F%A5%E9%9B%BB%E5%96%AE%E8%BB%8A-32%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%B1%8D%E7%94%B7%E9%85%92%E7%B2%BE%E8%B6%85%E6%A8%99%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-09T22:18:27.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美中期選舉｜特朗普質疑公正性　選民對以色列反感是失利原因之一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250707/1018983922605756416540267.jpeg/dcbd39vw9-rw_Li4mrAmvqlPBFEzBeV9MSoPDDEqDww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408889/%E6%94%B6%E7%B7%8A%E5%9C%9F%E5%9C%B0%E6%9F%A5%E5%86%8A-%E7%AB%8B%E6%9C%83%E6%94%B611%E4%BB%BD%E6%84%8F%E8%A6%8B%E6%9B%B8%E5%A4%A7%E5%A4%9A%E5%8F%8D%E5%B0%8D-%E8%A8%98%E5%8D%94-%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AD%89%E4%B8%8D%E5%AF%A9%E6%9F%A5",
     "timestamp": "2026-11-09T16:21:59.779Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "環保署籲提防虛假回收補貼計劃　市民如曾提供資料或交易應報警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196602652809498624395862.jpeg/ROAgHZsHcP4pV0v8JoYJcVIDjBOFclULPi8UPj4vFD4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408890/%E7%92%B0%E4%BF%9D%E7%BD%B2%E7%B1%B2%E6%8F%90%E9%98%B2%E8%99%9B%E5%81%87%E5%9B%9E%E6%94%B6%E8%A3%9C%E8%B2%BC%E8%A8%88%E5%8A%83-%E5%B8%82%E6%B0%91%E5%A6%82%E6%9B%BE%E6%8F%90%E4%BE%9B%E8%B3%87%E6%96%99%E6%88%96%E4%BA%A4%E6%98%93%E6%87%89%E5%A0%B1%E8%AD%A6",
-    "timestamp": "2026-11-09T15:57:21.847Z",
     "strategy": ".content-card__main"
   }
 ];
