@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T07:33:47.293Z
+// Last updated: 2026-11-09T07:45:57.817Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "比亞迪荷蘭辦公室遭突擊搜查　捷豹路虎控Ti7抄襲Defender",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240510/865542501124018176589710.jpeg/bjj_R9CqInKdcgCIJoa9MFJjGOQ5kn1FoSsuCaErLgk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408689/%E6%AF%94%E4%BA%9E%E8%BF%AA%E8%8D%B7%E8%98%AD%E8%BE%A6%E5%85%AC%E5%AE%A4%E9%81%AD%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5-%E6%8D%B7%E8%B1%B9%E8%B7%AF%E8%99%8E%E6%8E%A7ti7%E6%8A%84%E8%A5%B2defender",
+    "timestamp": "2026-11-09T07:45:57.817Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普認驅逐政策「可能過嚴」　稱可與民主黨達移民協議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176863084849926144356241.jpeg/WN6_L2Q64nRW4h2MfPiSWB3YlwBPa9KGkjE6YpIxOmI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408529/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A9%9A%E5%A4%96%E6%83%85-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%8D%E9%A1%98%E5%B8%B6%E4%BB%96%E5%87%BA%E8%A8%AA%E4%BA%9E%E6%B4%B2-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%A8%B1%E5%85%B6%E7%84%A1%E5%8F%AF%E6%9B%BF%E4%BB%A3",
     "timestamp": "2026-11-09T01:48:19.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳承認有婚外情　美媒：致英偉達員工信全文曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180182109843623936769548.jpeg/yKzoCAB6U0f9yuqpR9v8WalmAWwENPr1s0nQTrNJ0E4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408522/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%89%BF%E8%AA%8D%E6%9C%89%E5%A9%9A%E5%A4%96%E6%83%85-%E7%BE%8E%E5%AA%92-%E8%87%B4%E8%8B%B1%E5%81%89%E9%81%94%E5%93%A1%E5%B7%A5%E4%BF%A1%E5%85%A8%E6%96%87%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-11-09T01:21:47.705Z",
     "strategy": ".content-card__main"
   }
 ];
