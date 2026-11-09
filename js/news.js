@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T02:46:51.951Z
+// Last updated: 2026-11-09T02:58:58.213Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Nvidia黃仁勳發信承認婚外情！與黃樂用餐後親臉頰、同車畫面曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196412301041733632732518.jpeg/hUsvPcRNqLwLFJpuV1Y0CYkUZ_wy8yxY_dtDCv3bQwo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408541/nvidia%E9%BB%83%E4%BB%81%E5%8B%B3%E7%99%BC%E4%BF%A1%E6%89%BF%E8%AA%8D%E5%A9%9A%E5%A4%96%E6%83%85-%E8%88%87%E9%BB%83%E6%A8%82%E7%94%A8%E9%A4%90%E5%BE%8C%E8%A6%AA%E8%87%89%E9%A0%B0-%E5%90%8C%E8%BB%8A%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-11-09T02:58:58.213Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳婚外情｜胡錫進：黃被民主黨列清算對象　已成｢案板上的肉｣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
     "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
     "timestamp": "2026-11-08T21:16:21.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華爆李小龍私下狂熱鍛鍊：用高壓電刺激肌肉訓練",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
-    "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
-    "timestamp": "2026-11-08T20:59:15.924Z",
     "strategy": ".content-card__main"
   }
 ];
