@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T05:21:57.970Z
+// Last updated: 2026-11-09T05:46:33.953Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA｜拓荒者球員楊瀚森砍下雙雙　刷生涯新高成易建聯後中國第1人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196419548148928512806345.jpeg/p1ODcvPcyQhMVgPyUgGwkc16Qa3D6_9IXYWoEV2FqBE?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60408570/nba-%E6%8B%93%E8%8D%92%E8%80%85%E7%90%83%E5%93%A1%E6%A5%8A%E7%80%9A%E6%A3%AE%E7%A0%8D%E4%B8%8B%E9%9B%99%E9%9B%99-%E5%88%B7%E7%94%9F%E6%B6%AF%E6%96%B0%E9%AB%98%E6%88%90%E6%98%93%E5%BB%BA%E8%81%AF%E5%BE%8C%E4%B8%AD%E5%9C%8B%E7%AC%AC1%E4%BA%BA",
+    "timestamp": "2026-11-09T05:46:33.953Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高血壓症狀原因｜長者血壓幾多算高？722量度黃金法則+降血壓方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194854749476753408581260.jpeg/A2wxQ-Ju-fDHCBY3D0WKmWDzZUIaYSSKXSqPl10qj5c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408514/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%80%98%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E7%8F%BE%E9%80%B2%E5%B1%95-%E6%A5%B5%E4%B8%8D%E5%8F%AF%E8%83%BD-%E5%86%8D%E7%99%BC%E5%8B%95%E6%96%B0%E4%B8%80%E8%BC%AA%E6%94%BB%E5%8B%A2",
     "timestamp": "2026-11-08T23:18:47.702Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「亞視忠臣」劉錫賢效力ATV28年曾向TVB自薦　一個原因被無情拒絕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196235021652856832342065.jpeg/KEKTxtiSyTi1HOFe9-DR0J5mzsOZjSE1bqkglm6pIJY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408437/%E4%BA%9E%E8%A6%96%E5%BF%A0%E8%87%A3-%E5%8A%89%E9%8C%AB%E8%B3%A2%E6%95%88%E5%8A%9Batv28%E5%B9%B4%E6%9B%BE%E5%90%91tvb%E8%87%AA%E8%96%A6-%E4%B8%80%E5%80%8B%E5%8E%9F%E5%9B%A0%E8%A2%AB%E7%84%A1%E6%83%85%E6%8B%92%E7%B5%95",
-    "timestamp": "2026-11-08T22:59:04.036Z",
     "strategy": ".content-card__main"
   }
 ];
