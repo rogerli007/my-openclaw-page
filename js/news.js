@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T19:58:59.439Z
+// Last updated: 2026-11-09T20:20:07.264Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華留標誌性鬍鬚內幕：洪金寶嫌他「長得太𡃁仔」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195772854277246976293640.jpeg/Noeg5v8Pc4734BAM1q03P36ZU-J3Z26MHlCaxh5QmsY",
+    "url": "https://www.hk01.com/01TV/60408200/%E5%85%83%E8%8F%AF%E7%95%99%E6%A8%99%E8%AA%8C%E6%80%A7%E9%AC%8D%E9%AC%9A%E5%85%A7%E5%B9%95-%E6%B4%AA%E9%87%91%E5%AF%B6%E5%AB%8C%E4%BB%96-%E9%95%B7%E5%BE%97%E5%A4%AA%F0%A1%83%81%E4%BB%94",
+    "timestamp": "2026-11-09T20:20:07.264Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國：數百超市冷藏系統上月遭攻擊　伊朗革命衛隊幕後黑手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196579697631170560860743.jpeg/zoQSUVi-yyi7tV9ifNXaEU_OR2OXjAHM6_SAu-v0gLs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408876/%E7%A7%A6%E9%99%B5%E9%99%AA%E8%91%AC%E7%94%B7%E9%A0%AD%E9%AA%A8%E4%B8%AD%E7%AE%AD%E9%81%AD%E8%82%A2%E8%A7%A3-%E9%A1%B1%E9%9D%A2%E5%BE%A9%E5%8E%9F-%E8%9C%82%E6%BA%96%E9%95%B7%E7%9B%AE-%E7%96%91%E7%A7%A6%E5%A7%8B%E7%9A%87%E4%B9%8B%E5%AD%90",
     "timestamp": "2026-11-09T13:53:39.190Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關深圳灣管制站截查入境貨車　搜紙箱揭襪內藏6瀕危活龜值$6萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196577307351846912154093.jpeg/XzHnx97pSQYFh-pEiyowpSS4VVB1oZFy83NQM_NzUDM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408878/%E6%B5%B7%E9%97%9C%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA%E6%9F%A5%E5%85%A5%E5%A2%83%E8%B2%A8%E8%BB%8A-%E6%90%9C%E7%B4%99%E7%AE%B1%E6%8F%AD%E8%A5%AA%E5%85%A7%E8%97%8F6%E7%80%95%E5%8D%B1%E6%B4%BB%E9%BE%9C%E5%80%BC-6%E8%90%AC",
-    "timestamp": "2026-11-09T13:45:32.327Z",
     "strategy": ".content-card__main"
   }
 ];
