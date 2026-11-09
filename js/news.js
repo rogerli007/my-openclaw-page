@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T03:23:55.707Z
+// Last updated: 2026-11-09T03:36:48.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "教師請病假16年未曾上班　白領全額月薪　校長換人竟不知有此員工",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196417477035167744382904.png/O2GZJoMNcDWps7wfLJImavpQJC5k1Cn28E1EfPBNRHw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408578/%E6%95%99%E5%B8%AB%E8%AB%8B%E7%97%85%E5%81%8716%E5%B9%B4%E6%9C%AA%E6%9B%BE%E4%B8%8A%E7%8F%AD-%E7%99%BD%E9%A0%98%E5%85%A8%E9%A1%8D%E6%9C%88%E8%96%AA-%E6%A0%A1%E9%95%B7%E6%8F%9B%E4%BA%BA%E7%AB%9F%E4%B8%8D%E7%9F%A5%E6%9C%89%E6%AD%A4%E5%93%A1%E5%B7%A5",
+    "timestamp": "2026-11-09T03:36:48.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "30歲馬拉松健將都中招！肺炎鏈球菌血清型「洗牌」防護需與時俱進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
     "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
     "timestamp": "2026-11-08T21:44:50.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華爆李小龍私下狂熱鍛鍊：用高壓電刺激肌肉訓練",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
-    "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
-    "timestamp": "2026-11-08T21:29:12.967Z",
     "strategy": ".content-card__main"
   }
 ];
