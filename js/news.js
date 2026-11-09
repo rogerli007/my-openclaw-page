@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T05:46:33.953Z
+// Last updated: 2026-11-09T05:59:17.345Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "淺水灣法拉利F40出大路險被撞　警接獲兩宗投訴　MS牌是老爺車牌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195872367453147136726450.png/LckJqba5864KlM5Kh3wRL4VuBd3igtbXyqW10MqltdA?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408619/%E6%B7%BA%E6%B0%B4%E7%81%A3%E6%B3%95%E6%8B%89%E5%88%A9f40%E5%87%BA%E5%A4%A7%E8%B7%AF%E9%9A%AA%E8%A2%AB%E6%92%9E-%E8%AD%A6%E6%8E%A5%E7%8D%B2%E5%85%A9%E5%AE%97%E6%8A%95%E8%A8%B4-ms%E7%89%8C%E6%98%AF%E8%80%81%E7%88%BA%E8%BB%8A%E7%89%8C",
+    "timestamp": "2026-11-09T05:59:17.345Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜拓荒者球員楊瀚森砍下雙雙　刷生涯新高成易建聯後中國第1人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191419988167102464981652.jpeg/vYz6gEUUo4jPelN-S46iqhfoE_Iq4utIPHckXDx3JFw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60402729/168%E6%96%B7%E9%A3%9F%E7%95%B68%E5%B0%8F%E6%99%82-%E7%84%A1%E9%99%90%E5%88%B6%E9%A3%B2%E9%A3%9F%E6%9C%9F-%E9%AB%94%E8%84%82%E7%8B%82%E9%A3%86-%E5%B0%88%E5%AE%B6-%E5%85%A7%E8%87%9F%E8%84%82%E8%82%AA%E6%82%84%E7%88%86%E6%A3%9A",
     "timestamp": "2026-11-08T23:45:06.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：倘美伊談判現進展　「極不可能」再發動新一輪攻勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194854749476753408581260.jpeg/A2wxQ-Ju-fDHCBY3D0WKmWDzZUIaYSSKXSqPl10qj5c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408514/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%80%98%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E7%8F%BE%E9%80%B2%E5%B1%95-%E6%A5%B5%E4%B8%8D%E5%8F%AF%E8%83%BD-%E5%86%8D%E7%99%BC%E5%8B%95%E6%96%B0%E4%B8%80%E8%BC%AA%E6%94%BB%E5%8B%A2",
-    "timestamp": "2026-11-08T23:18:47.702Z",
     "strategy": ".content-card__main"
   }
 ];
