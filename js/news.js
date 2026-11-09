@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T02:19:43.681Z
+// Last updated: 2026-11-09T02:31:46.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角奪命車禍．有片｜男子捱巴士撞血流披面　司機曾蹲下察看傷勢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196404214910160896275108.png/ixiOVkuQYKuFnY1ueAuuk6-ToK0UEPAmROtP3ETrT9w",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408532/%E5%8C%97%E8%A7%92%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E7%94%B7%E5%AD%90%E6%8D%B1%E5%B7%B4%E5%A3%AB%E6%92%9E%E8%A1%80%E6%B5%81%E6%8A%AB%E9%9D%A2-%E5%8F%B8%E6%A9%9F%E6%9B%BE%E8%B9%B2%E4%B8%8B%E5%AF%9F%E7%9C%8B%E5%82%B7%E5%8B%A2",
+    "timestamp": "2026-11-09T02:31:46.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BB濕疹與奶粉有關？醫拆解牛羊奶差異　選對配方高危群降風險64%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
     "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
     "timestamp": "2026-11-08T20:45:01.127Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華爆李小龍私下狂熱鍛鍊：用高壓電刺激肌肉訓練",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
-    "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
-    "timestamp": "2026-11-08T20:19:08.615Z",
     "strategy": ".content-card__main"
   }
 ];
