@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T01:00:11.970Z
+// Last updated: 2026-11-09T01:21:47.705Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳承認有婚外情　美媒：致英偉達員工信全文曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260925/1180182109843623936769548.jpeg/yKzoCAB6U0f9yuqpR9v8WalmAWwENPr1s0nQTrNJ0E4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408522/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%89%BF%E8%AA%8D%E6%9C%89%E5%A9%9A%E5%A4%96%E6%83%85-%E7%BE%8E%E5%AA%92-%E8%87%B4%E8%8B%B1%E5%81%89%E9%81%94%E5%93%A1%E5%B7%A5%E4%BF%A1%E5%85%A8%E6%96%87%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-11-09T01:21:47.705Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵何文田站有列車設備故障  觀塘綫行車時間需額外10至15分鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195768506776293376273986.jpeg/t0gkAPxZyPELf6RlmFWBjZx0nW0n7DaLXLqbSFy6m0g",
     "url": "https://www.hk01.com/01TV/60408193/%E5%85%83%E8%8F%AF%E5%9B%9E%E6%86%B6%E9%A6%96%E5%BA%A6%E5%B0%8D%E6%B1%BA%E6%9D%8E%E5%B0%8F%E9%BE%8D-%E5%9C%A8-%E7%B2%BE%E6%AD%A6%E9%96%80-%E9%A3%BE%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BB%94%E6%8C%A8%E8%B8%A2",
     "timestamp": "2026-11-08T19:29:20.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華回憶首度對決李小龍：在《精武門》飾演日本仔挨踢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195768506776293376273986.jpeg/t0gkAPxZyPELf6RlmFWBjZx0nW0n7DaLXLqbSFy6m0g",
-    "url": "https://www.hk01.com/01TV/60408193/%E5%85%83%E8%8F%AF%E5%9B%9E%E6%86%B6%E9%A6%96%E5%BA%A6%E5%B0%8D%E6%B1%BA%E6%9D%8E%E5%B0%8F%E9%BE%8D-%E5%9C%A8-%E7%B2%BE%E6%AD%A6%E9%96%80-%E9%A3%BE%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BB%94%E6%8C%A8%E8%B8%A2",
-    "timestamp": "2026-11-08T19:17:24.781Z",
     "strategy": ".content-card__main"
   }
 ];
