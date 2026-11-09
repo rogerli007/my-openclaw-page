@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T19:18:29.159Z
+// Last updated: 2026-11-09T19:24:41.557Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國：數百超市冷藏系統上月遭攻擊　伊朗革命衛隊幕後黑手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196657452070735872039548.jpeg/_Eh_-VFkXf0qIawDDjMPaGy4dX4gpGoKXv14v179eL8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408905/%E6%B3%95%E5%9C%8B-%E6%95%B8%E7%99%BE%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%B5%B1%E4%B8%8A%E6%9C%88%E9%81%AD%E6%94%BB%E6%93%8A-%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E5%B9%95%E5%BE%8C%E9%BB%91%E6%89%8B",
+    "timestamp": "2026-11-09T19:24:41.557Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國：數百超市冷藏系統上月遭攻擊　伊朗革命衛隊幕後黑手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196563918957318144530986.jpeg/ylrjAlisRUDQfBI1VoDLDn_nV6JXtx7YSN_Ygm3f2II?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408867/%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E4%B8%8D%E6%9C%8D%E5%90%B3%E9%9D%84%E5%84%80%E6%9C%AA%E8%A2%AB%E8%A8%93%E8%AA%A1%E6%B1%82%E8%A6%86%E6%A0%B8-%E6%8C%87%E6%90%8D%E5%A4%A7%E5%BE%8B%E5%B8%AB%E8%81%B2%E8%AD%BD%E5%B1%AC%E5%B0%88%E6%A5%AD%E5%A4%B1%E7%95%B6",
     "timestamp": "2026-11-09T12:59:12.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周慧賢被殺案　被告知周懷孕曾問誰是經手人　稱有付墮胎費及送禮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194022223350861824874103.jpeg/OkqolOfY9uJNJYHHELqGtdjSdWrL-JVUASRC_gEkQv4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408862/%E5%91%A8%E6%85%A7%E8%B3%A2%E8%A2%AB%E6%AE%BA%E6%A1%88-%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%91%A8%E6%87%B7%E5%AD%95%E6%9B%BE%E5%95%8F%E8%AA%B0%E6%98%AF%E7%B6%93%E6%89%8B%E4%BA%BA-%E7%A8%B1%E6%9C%89%E4%BB%98%E5%A2%AE%E8%83%8E%E8%B2%BB%E5%8F%8A%E9%80%81%E7%A6%AE",
-    "timestamp": "2026-11-09T12:43:56.433Z",
     "strategy": ".content-card__main"
   }
 ];
