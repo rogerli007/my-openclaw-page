@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T02:31:46.873Z
+// Last updated: 2026-11-09T02:46:51.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳婚外情｜胡錫進：黃被民主黨列清算對象　已成｢案板上的肉｣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138225318545330176823169.jpeg/v8L6Fda9skrRsWO7cBU--5lcmqnz6DxGOzumhzs7poc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408559/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A9%9A%E5%A4%96%E6%83%85-%E8%83%A1%E9%8C%AB%E9%80%B2-%E9%BB%83%E8%A2%AB%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%88%97%E6%B8%85%E7%AE%97%E5%B0%8D%E8%B1%A1-%E5%B7%B2%E6%88%90-%E6%A1%88%E6%9D%BF%E4%B8%8A%E7%9A%84%E8%82%89",
+    "timestamp": "2026-11-09T02:46:51.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角奪命車禍．有片｜男子捱巴士撞血流披面　司機曾蹲下察看傷勢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
     "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
     "timestamp": "2026-11-08T20:59:15.924Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華爆李小龍私下狂熱鍛鍊：用高壓電刺激肌肉訓練",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
-    "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
-    "timestamp": "2026-11-08T20:45:01.127Z",
     "strategy": ".content-card__main"
   }
 ];
