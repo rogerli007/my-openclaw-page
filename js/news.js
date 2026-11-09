@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T09:24:47.750Z
+// Last updated: 2026-11-09T09:37:05.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三藩市豪宅侵佔案欠稅34萬料遭法拍　涉事華女多項重罪遭警方拘捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196466859650584576542760.jpeg/KBHuQ7jPRymQ54QrBVjq_jkybQk0VHgqJV6LlSVei5U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408598/%E4%B8%89%E8%97%A9%E5%B8%82%E8%B1%AA%E5%AE%85%E4%BE%B5%E4%BD%94%E6%A1%88%E6%AC%A0%E7%A8%8534%E8%90%AC%E6%96%99%E9%81%AD%E6%B3%95%E6%8B%8D-%E6%B6%89%E4%BA%8B%E8%8F%AF%E5%A5%B3%E5%A4%9A%E9%A0%85%E9%87%8D%E7%BD%AA%E9%81%AD%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%95",
+    "timestamp": "2026-11-09T09:37:05.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗醫院壞𨋢｜機電署未答批准用證時為何沒發現　僅重申立會交代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196412301041733632732518.jpeg/hUsvPcRNqLwLFJpuV1Y0CYkUZ_wy8yxY_dtDCv3bQwo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408541/nvidia%E9%BB%83%E4%BB%81%E5%8B%B3%E7%99%BC%E4%BF%A1%E6%89%BF%E8%AA%8D%E5%A9%9A%E5%A4%96%E6%83%85-%E8%88%87%E9%BB%83%E6%A8%82%E7%94%A8%E9%A4%90%E5%BE%8C%E8%A6%AA%E8%87%89%E9%A0%B0-%E5%90%8C%E8%BB%8A%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89",
     "timestamp": "2026-11-09T02:58:58.213Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳婚外情｜胡錫進：黃被民主黨列清算對象　已成｢案板上的肉｣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138225318545330176823169.jpeg/v8L6Fda9skrRsWO7cBU--5lcmqnz6DxGOzumhzs7poc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408559/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A9%9A%E5%A4%96%E6%83%85-%E8%83%A1%E9%8C%AB%E9%80%B2-%E9%BB%83%E8%A2%AB%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%88%97%E6%B8%85%E7%AE%97%E5%B0%8D%E8%B1%A1-%E5%B7%B2%E6%88%90-%E6%A1%88%E6%9D%BF%E4%B8%8A%E7%9A%84%E8%82%89",
-    "timestamp": "2026-11-09T02:46:51.951Z",
     "strategy": ".content-card__main"
   }
 ];
