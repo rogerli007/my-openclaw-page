@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T21:29:19.249Z
+// Last updated: 2026-11-09T21:45:06.598Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其鋼鐵廠爆炸至少16死　埃爾多安稱展開調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196673766869176320563082.jpeg/xrVQQhzX0G2gCxh-r1UWbe26s7JmMc1mD8rPSQ_Kz0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408906/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%8B%BC%E9%90%B5%E5%BB%A0%E7%88%86%E7%82%B8%E8%87%B3%E5%B0%9116%E6%AD%BB-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E7%A8%B1%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-09T21:45:06.598Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土耳其鋼鐵廠爆炸至少16死　埃爾多安稱展開調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196507633574481920015268.jpeg/MWXv0Uqei1rnxX5RDED9LlpZ03K1CJMisVJ-BrFSfgY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408735/%E5%A5%B3%E5%81%B6%E5%83%8F%E5%B9%B3%E7%A7%9F%E6%9D%B1%E4%BA%AC%E5%87%B6%E5%AE%85-%E8%88%87-%E7%94%B7%E9%AC%BC-%E5%90%8C%E5%B1%854%E5%B9%B4-%E7%9C%BC%E7%A5%9E%E4%B8%8D%E5%8F%8B%E5%96%84%E4%BD%86%E5%B9%AB%E6%88%91%E7%9C%81%E9%8C%A2",
     "timestamp": "2026-11-09T15:45:48.749Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《嫁金釵》獲封《延禧攻略》進階版！田曦薇比魏瓔珞狠 有3大進化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196530126393708544043925.png/Xr-44tN2ktC56mV_fkkKIDB3HFvgXkgj97Uke_e1JHs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60408804/%E5%AB%81%E9%87%91%E9%87%B5-%E7%8D%B2%E5%B0%81-%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5-%E9%80%B2%E9%9A%8E%E7%89%88-%E7%94%B0%E6%9B%A6%E8%96%87%E6%AF%94%E9%AD%8F%E7%93%94%E7%8F%9E%E7%8B%A0-%E6%9C%893%E5%A4%A7%E9%80%B2%E5%8C%96",
-    "timestamp": "2026-11-09T15:20:31.482Z",
     "strategy": ".content-card__main"
   }
 ];
