@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T01:59:19.463Z
+// Last updated: 2026-11-09T02:19:43.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BB濕疹與奶粉有關？醫拆解牛羊奶差異　選對配方高危群降風險64%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189230128144584704087613.jpeg/tjqnIi8evEWzqGfuPsTl0ZzDeVrbxt8IgMWgevXFoHo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60401582/bb%E6%BF%95%E7%96%B9%E8%88%87%E5%A5%B6%E7%B2%89%E6%9C%89%E9%97%9C-%E9%86%AB%E6%8B%86%E8%A7%A3%E7%89%9B%E7%BE%8A%E5%A5%B6%E5%B7%AE%E7%95%B0-%E9%81%B8%E5%B0%8D%E9%85%8D%E6%96%B9%E9%AB%98%E5%8D%B1%E7%BE%A4%E9%99%8D%E9%A2%A8%E9%9A%AA64",
+    "timestamp": "2026-11-09T02:19:43.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌懶人包5重點│外遇對象黃樂是誰？神秘背景被指中國間諜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195769533588049920742981.jpeg/HFZANqLVNLsxhWlOepvvBsEceHZ-IKnlxtPtQsbT7UI",
     "url": "https://www.hk01.com/01TV/60408195/%E5%85%83%E8%8F%AF%E7%88%86%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%A7%81%E4%B8%8B%E7%8B%82%E7%86%B1%E9%8D%9B%E9%8D%8A-%E7%94%A8%E9%AB%98%E5%A3%93%E9%9B%BB%E5%88%BA%E6%BF%80%E8%82%8C%E8%82%89%E8%A8%93%E7%B7%B4",
     "timestamp": "2026-11-08T20:19:08.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華回憶首度對決李小龍：在《精武門》飾演日本仔挨踢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195768506776293376273986.jpeg/t0gkAPxZyPELf6RlmFWBjZx0nW0n7DaLXLqbSFy6m0g",
-    "url": "https://www.hk01.com/01TV/60408193/%E5%85%83%E8%8F%AF%E5%9B%9E%E6%86%B6%E9%A6%96%E5%BA%A6%E5%B0%8D%E6%B1%BA%E6%9D%8E%E5%B0%8F%E9%BE%8D-%E5%9C%A8-%E7%B2%BE%E6%AD%A6%E9%96%80-%E9%A3%BE%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BB%94%E6%8C%A8%E8%B8%A2",
-    "timestamp": "2026-11-08T19:59:00.532Z",
     "strategy": ".content-card__main"
   }
 ];
