@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-08T23:53:29.909Z
+// Last updated: 2026-11-09T00:35:03.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "婦遇電騙遭遠端遙控手機　警拍門反被當騙徒　借牙籤拔卡保¥500萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196061735174279168870953.png/dh8dChMcMbn-K31EnYqReXpR8LGZt1asfiJbnH4iW5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405847/%E5%A9%A6%E9%81%87%E9%9B%BB%E9%A8%99%E9%81%AD%E9%81%A0%E7%AB%AF%E9%81%99%E6%8E%A7%E6%89%8B%E6%A9%9F-%E8%AD%A6%E6%8B%8D%E9%96%80%E5%8F%8D%E8%A2%AB%E7%95%B6%E9%A8%99%E5%BE%92-%E5%80%9F%E7%89%99%E7%B1%A4%E6%8B%94%E5%8D%A1%E4%BF%9D-500%E8%90%AC",
+    "timestamp": "2026-11-09T00:35:03.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊拉克代表團據報訪問德黑蘭　轉達美方信息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196290456321789952065837.jpeg/JzQc4fVcugj_G-Kxmqq0bI7OEwJfKSc3tDBpFrQwaRY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408508/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF4-4%E9%80%BC%E5%92%8C%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89-%E6%8E%92%E7%AC%AC18%E7%BA%8C%E9%99%B7%E9%99%8D%E7%8F%AD%E5%8D%80",
     "timestamp": "2026-11-08T18:53:39.271Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華展現「筋斗王」絕技：連翻40個翻滾被李小龍相中",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195766896465547264036495.jpeg/pTwcl079_0z4M9CIUTdxnBLE5AXfeUkEr2NTFa9jUxU",
-    "url": "https://www.hk01.com/01TV/60408189/%E5%85%83%E8%8F%AF%E5%B1%95%E7%8F%BE-%E7%AD%8B%E6%96%97%E7%8E%8B-%E7%B5%95%E6%8A%80-%E9%80%A3%E7%BF%BB40%E5%80%8B%E7%BF%BB%E6%BB%BE%E8%A2%AB%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%9B%B8%E4%B8%AD",
-    "timestamp": "2026-11-08T18:44:56.776Z",
     "strategy": ".content-card__main"
   }
 ];
