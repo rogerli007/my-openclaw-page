@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T04:23:02.387Z
+// Last updated: 2026-11-09T04:35:15.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "調查│2027年打工仔預計平均加人工1.44%　六成僱主料減或維持人手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194692989570519040594238.jpeg/AuwnXON7dHAJ7Zmx_XSxcCz6bCcZrwnYLUIliC1CJYg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60407129/%E8%AA%BF%E6%9F%A5-2027%E5%B9%B4%E6%89%93%E5%B7%A5%E4%BB%94%E9%A0%90%E8%A8%88%E5%B9%B3%E5%9D%87%E5%8A%A0%E4%BA%BA%E5%B7%A51-44-%E5%85%AD%E6%88%90%E5%83%B1%E4%B8%BB%E6%96%99%E6%B8%9B%E6%88%96%E7%B6%AD%E6%8C%81%E4%BA%BA%E6%89%8B",
+    "timestamp": "2026-11-09T04:35:15.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣客貨車與九巴相撞　客貨車狂掃巴士站　廣告牌飛脫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196345895965167616184907.jpeg/QNagZ3p2XYRvmoV9BeaMaDg7y4zsZM0fKY8aDCmPGgw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408515/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E6%88%B2%E5%8A%87%E6%80%A74-4%E9%80%BC%E5%92%8C%E7%B6%AD%E6%8B%89-%E9%98%B2%E7%B7%9A%E5%A4%9A%E6%BC%8F%E6%B4%9E-%E7%B4%AF%E7%A9%8D%E5%A4%B130%E7%90%83%E5%86%A0%E7%B5%95%E6%AD%90%E6%B4%B2",
     "timestamp": "2026-11-08T22:29:35.273Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王晶爆曾見明星出入逾20人包圍排場誇張　大讚影帝貼地請劇組食餅",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196135611656835072548927.jpeg/5oHu8xQZUGMe_eoMG9QjwX1EKnf5Dol_Ji6C7SYugu0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408375/%E7%8E%8B%E6%99%B6%E7%88%86%E6%9B%BE%E8%A6%8B%E6%98%8E%E6%98%9F%E5%87%BA%E5%85%A5%E9%80%BE20%E4%BA%BA%E5%8C%85%E5%9C%8D%E6%8E%92%E5%A0%B4%E8%AA%87%E5%BC%B5-%E5%A4%A7%E8%AE%9A%E5%BD%B1%E5%B8%9D%E8%B2%BC%E5%9C%B0%E8%AB%8B%E5%8A%87%E7%B5%84%E9%A3%9F%E9%A4%85",
-    "timestamp": "2026-11-08T22:18:57.680Z",
     "strategy": ".content-card__main"
   }
 ];
