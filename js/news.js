@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T22:24:00.209Z
+// Last updated: 2026-11-09T22:39:44.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "火星認何麥女友做契女　揭喪禮內幕指何慈茵欠規矩：連鞠個躬都冇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196586498665746432175409.jpeg/wEdeHmLqQ92ljs_9h7Ka70U-TnMKh2yrk_M905PzPdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408808/%E7%81%AB%E6%98%9F%E8%AA%8D%E4%BD%95%E9%BA%A5%E5%A5%B3%E5%8F%8B%E5%81%9A%E5%A5%91%E5%A5%B3-%E6%8F%AD%E5%96%AA%E7%A6%AE%E5%85%A7%E5%B9%95%E6%8C%87%E4%BD%95%E6%85%88%E8%8C%B5%E6%AC%A0%E8%A6%8F%E7%9F%A9-%E9%80%A3%E9%9E%A0%E5%80%8B%E8%BA%AC%E9%83%BD%E5%86%87",
+    "timestamp": "2026-11-09T22:39:44.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警堅尼地城設路障截查電單車　32歲尼泊爾籍男酒精超標涉醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241207/942079325543469056968013.jpeg/uif0pxlcBFAkyG48JJPpBThaCE5r56-BpybX-oIm1_o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408896/%E9%99%B3%E7%99%BE%E7%A5%A5%E6%8C%87tvb%E7%B1%8C%E6%AC%BE%E7%AF%80%E7%9B%AE%E8%AB%8B%E5%94%94%E5%88%B0%E5%A4%A7%E5%8D%A1%E5%A3%AB-%E7%88%86%E4%BB%8A%E6%AC%A1%E7%A2%8C%E4%BA%BA%E6%83%85%E5%8D%A1%E8%AB%8B%E4%BA%BA%E7%8D%BB%E5%94%B1",
     "timestamp": "2026-11-09T16:59:11.282Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳百祥指舊東家籌款節目請唔到大卡士　爆今次碌人情卡請人獻唱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241207/942079325543469056968013.jpeg/uif0pxlcBFAkyG48JJPpBThaCE5r56-BpybX-oIm1_o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408896/%E9%99%B3%E7%99%BE%E7%A5%A5%E6%8C%87%E8%88%8A%E6%9D%B1%E5%AE%B6%E7%B1%8C%E6%AC%BE%E7%AF%80%E7%9B%AE%E8%AB%8B%E5%94%94%E5%88%B0%E5%A4%A7%E5%8D%A1%E5%A3%AB-%E7%88%86%E4%BB%8A%E6%AC%A1%E7%A2%8C%E4%BA%BA%E6%83%85%E5%8D%A1%E8%AB%8B%E4%BA%BA%E7%8D%BB%E5%94%B1",
-    "timestamp": "2026-11-09T16:45:35.424Z",
     "strategy": ".content-card__main"
   }
 ];
