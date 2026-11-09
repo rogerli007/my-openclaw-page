@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T03:59:19.928Z
+// Last updated: 2026-11-09T04:23:02.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣客貨車與九巴相撞　客貨車狂掃巴士站　廣告牌飛脫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196428493353652224631745.png/BlV8ZUmgfGFmfAa6woI0F5hIUCZGLTWiApuTcwKbk3M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408591/%E8%8D%83%E7%81%A3%E5%AE%A2%E8%B2%A8%E8%BB%8A%E8%88%87%E4%B9%9D%E5%B7%B4%E7%9B%B8%E6%92%9E-%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%8B%82%E6%8E%83%E5%B7%B4%E5%A3%AB%E7%AB%99-%E5%BB%A3%E5%91%8A%E7%89%8C%E9%A3%9B%E8%84%AB",
+    "timestamp": "2026-11-09T04:23:02.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳婚外情｜女主角黃樂自稱曾任央視記者　履歷被揭疑似造假",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196135611656835072548927.jpeg/5oHu8xQZUGMe_eoMG9QjwX1EKnf5Dol_Ji6C7SYugu0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408375/%E7%8E%8B%E6%99%B6%E7%88%86%E6%9B%BE%E8%A6%8B%E6%98%8E%E6%98%9F%E5%87%BA%E5%85%A5%E9%80%BE20%E4%BA%BA%E5%8C%85%E5%9C%8D%E6%8E%92%E5%A0%B4%E8%AA%87%E5%BC%B5-%E5%A4%A7%E8%AE%9A%E5%BD%B1%E5%B8%9D%E8%B2%BC%E5%9C%B0%E8%AB%8B%E5%8A%87%E7%B5%84%E9%A3%9F%E9%A4%85",
     "timestamp": "2026-11-08T22:18:57.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：黃仁勳承認有婚外情　英偉達：就間諜風波啟動調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192782044292190208125906.png/OeDnD2_lMIdVQ2RE5HstMhrRKBXew0Y1_wP_3v8D_94?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408512/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%89%BF%E8%AA%8D%E6%9C%89%E5%A9%9A%E5%A4%96%E6%83%85-%E8%8B%B1%E5%81%89%E9%81%94-%E5%B0%B1%E9%96%93%E8%AB%9C%E9%A2%A8%E6%B3%A2%E5%95%9F%E5%8B%95%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-08T21:59:02.848Z",
     "strategy": ".content-card__main"
   }
 ];
