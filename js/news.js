@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T17:59:18.511Z
+// Last updated: 2026-11-09T18:45:25.875Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "何立峰出席中加經濟財金戰略對話　稱兩國交往重回正軌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196631275889364992286403.jpeg/f-05TOraNjlJB5KZ_qxqEKlP65PYWURmGAXpNhgF6TY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408900/%E4%BD%95%E7%AB%8B%E5%B3%B0%E5%87%BA%E5%B8%AD%E4%B8%AD%E5%8A%A0%E7%B6%93%E6%BF%9F%E8%B2%A1%E9%87%91%E6%88%B0%E7%95%A5%E5%B0%8D%E8%A9%B1-%E7%A8%B1%E5%85%A9%E5%9C%8B%E4%BA%A4%E5%BE%80%E9%87%8D%E5%9B%9E%E6%AD%A3%E8%BB%8C",
+    "timestamp": "2026-11-09T18:45:25.875Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港版《悠長假期》未播先惹火　海報驚現三劃「月」網民斥過份",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196548484308668416743012.jpeg/Er-X63Lh0zmPOjaPechZumVl8j-FCPROpLG5KKSxuSg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408849/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%85%A7%E5%AA%92%E7%A8%B1%E9%BB%83%E6%A8%82%E6%B5%B8%E5%A4%A7%E5%82%B3%E7%90%86%E7%A2%A9%E5%A3%AB%E7%95%A2%E6%A5%AD-%E7%9F%A5%E6%83%85%E8%80%85%E8%AE%9A%E5%96%84%E8%AB%87%E5%85%B7%E6%B0%A3%E5%A0%B4",
     "timestamp": "2026-11-09T11:58:59.753Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "淺水灣MS牌法拉利F40小路出大路致城巴急煞　警拘38歲男子涉危駕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196544873289748480915683.jpeg/bVrrfVbWl_hw44bHFbQF9PuqQzznRJmfLGiZoCxomaA",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408848/%E6%B7%BA%E6%B0%B4%E7%81%A3ms%E7%89%8C%E6%B3%95%E6%8B%89%E5%88%A9f40%E5%B0%8F%E8%B7%AF%E5%87%BA%E5%A4%A7%E8%B7%AF%E8%87%B4%E5%9F%8E%E5%B7%B4%E6%80%A5%E7%85%9E-%E8%AD%A6%E6%8B%9838%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B6%89%E5%8D%B1%E9%A7%95",
-    "timestamp": "2026-11-09T11:45:12.142Z",
     "strategy": ".content-card__main"
   }
 ];
