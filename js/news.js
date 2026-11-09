@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T08:53:36.219Z
+// Last updated: 2026-11-09T09:24:47.750Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院壞𨋢｜機電署未答批准用證時為何沒發現　僅重申立會交代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193902621207826432761358.png/WZ3tlIDObKfLRt2SEkmA7C5be17YBHfkLIDklAmA5JQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408768/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E6%A9%9F%E9%9B%BB%E7%BD%B2%E6%9C%AA%E7%AD%94%E6%89%B9%E5%87%86%E7%94%A8%E8%AD%89%E6%99%82%E7%82%BA%E4%BD%95%E6%B2%92%E7%99%BC%E7%8F%BE-%E5%83%85%E9%87%8D%E7%94%B3%E7%AB%8B%E6%9C%83%E4%BA%A4%E4%BB%A3",
+    "timestamp": "2026-11-09T09:24:47.750Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "據報黃樂誇口「可叫黃仁勳過來」　NetThunder CEO：然後就出現了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260601/1138225318545330176823169.jpeg/v8L6Fda9skrRsWO7cBU--5lcmqnz6DxGOzumhzs7poc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408559/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A9%9A%E5%A4%96%E6%83%85-%E8%83%A1%E9%8C%AB%E9%80%B2-%E9%BB%83%E8%A2%AB%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%88%97%E6%B8%85%E7%AE%97%E5%B0%8D%E8%B1%A1-%E5%B7%B2%E6%88%90-%E6%A1%88%E6%9D%BF%E4%B8%8A%E7%9A%84%E8%82%89",
     "timestamp": "2026-11-09T02:46:51.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角奪命車禍．有片｜男子捱巴士撞血流披面　司機曾蹲下察看傷勢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196404214910160896275108.png/ixiOVkuQYKuFnY1ueAuuk6-ToK0UEPAmROtP3ETrT9w",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408532/%E5%8C%97%E8%A7%92%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E7%94%B7%E5%AD%90%E6%8D%B1%E5%B7%B4%E5%A3%AB%E6%92%9E%E8%A1%80%E6%B5%81%E6%8A%AB%E9%9D%A2-%E5%8F%B8%E6%A9%9F%E6%9B%BE%E8%B9%B2%E4%B8%8B%E5%AF%9F%E7%9C%8B%E5%82%B7%E5%8B%A2",
-    "timestamp": "2026-11-09T02:31:46.873Z",
     "strategy": ".content-card__main"
   }
 ];
