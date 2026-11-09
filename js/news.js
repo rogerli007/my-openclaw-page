@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T13:21:48.206Z
+// Last updated: 2026-11-09T13:45:32.327Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關深圳灣管制站截查入境貨車　搜紙箱揭襪內藏6瀕危活龜值$6萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196577307351846912154093.jpeg/XzHnx97pSQYFh-pEiyowpSS4VVB1oZFy83NQM_NzUDM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408878/%E6%B5%B7%E9%97%9C%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA%E6%9F%A5%E5%85%A5%E5%A2%83%E8%B2%A8%E8%BB%8A-%E6%90%9C%E7%B4%99%E7%AE%B1%E6%8F%AD%E8%A5%AA%E5%85%A7%E8%97%8F6%E7%80%95%E5%8D%B1%E6%B4%BB%E9%BE%9C%E5%80%BC-6%E8%90%AC",
+    "timestamp": "2026-11-09T13:45:32.327Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王源鎮江生日專場遇暴雨！熱氣球被迫取消　王源哽咽道歉惹哭歌迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196458440084426752754826.jpeg/792rgaRIwnYojF99VugOFOVTPvyW7biBT_5r8k_-a_I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408568/wtt%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F%E5%86%A0%E8%BB%8D%E8%B3%BD-%E6%97%A5%E6%9C%AC%E5%8C%85%E8%BE%A6%E7%94%B7%E5%A5%B3%E5%96%AE%E5%86%A0%E8%BB%8D-%E5%9C%8B%E4%B9%92%E7%84%A1%E4%BA%BA%E5%85%A54%E5%BC%B76%E7%AB%99%E5%83%851%E5%86%A0",
     "timestamp": "2026-11-09T06:57:28.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "學生輔助會告職員｜CEO上立法會擬申3.8億建新大樓　遭議員質問",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196460755751276544590162.jpeg/ngnXn3R_bD8XKlPxmnTTLf1ybL9O3fiy_gFBtP4BQbQ?v=w1920",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407599/%E5%AD%B8%E7%94%9F%E8%BC%94%E5%8A%A9%E6%9C%83%E5%91%8A%E8%81%B7%E5%93%A1-ceo%E4%B8%8A%E7%AB%8B%E6%B3%95%E6%9C%83%E6%93%AC%E7%94%B33-8%E5%84%84%E5%BB%BA%E6%96%B0%E5%A4%A7%E6%A8%93-%E9%81%AD%E8%AD%B0%E5%93%A1%E8%B3%AA%E5%95%8F",
-    "timestamp": "2026-11-09T06:34:05.401Z",
     "strategy": ".content-card__main"
   }
 ];
