@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T08:26:49.414Z
+// Last updated: 2026-11-09T08:40:14.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關截兩英國經深圳灣抵港包裹　揭共藏6支藥物針劑　拘2收貨人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196495600552513536064573.jpeg/prIO8ts_uGNXj_NfwMWrNI-oDdVW8UCKWNfSnVjX0p0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408737/%E6%B5%B7%E9%97%9C%E6%88%AA%E5%85%A9%E8%8B%B1%E5%9C%8B%E7%B6%93%E6%B7%B1%E5%9C%B3%E7%81%A3%E6%8A%B5%E6%B8%AF%E5%8C%85%E8%A3%B9-%E6%8F%AD%E5%85%B1%E8%97%8F6%E6%94%AF%E8%97%A5%E7%89%A9%E9%87%9D%E5%8A%91-%E6%8B%982%E6%94%B6%E8%B2%A8%E4%BA%BA",
+    "timestamp": "2026-11-09T08:40:14.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜胡錫進：中國情報界不要求女間諜以上床實現目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189230128144584704087613.jpeg/tjqnIi8evEWzqGfuPsTl0ZzDeVrbxt8IgMWgevXFoHo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60401582/bb%E6%BF%95%E7%96%B9%E8%88%87%E5%A5%B6%E7%B2%89%E6%9C%89%E9%97%9C-%E9%86%AB%E6%8B%86%E8%A7%A3%E7%89%9B%E7%BE%8A%E5%A5%B6%E5%B7%AE%E7%95%B0-%E9%81%B8%E5%B0%8D%E9%85%8D%E6%96%B9%E9%AB%98%E5%8D%B1%E7%BE%A4%E9%99%8D%E9%A2%A8%E9%9A%AA64",
     "timestamp": "2026-11-09T02:19:43.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌懶人包5重點│外遇對象黃樂是誰？神秘背景被指中國間諜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196398626482425856285674.jpeg/9JABfAtDWXbgWhiqa0hwqlsBgqGASDZ50DKgidAyoIk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408530/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E6%87%B6%E4%BA%BA%E5%8C%855%E9%87%8D%E9%BB%9E-%E5%A4%96%E9%81%87%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E6%98%AF%E8%AA%B0-%E7%A5%9E%E7%A7%98%E8%83%8C%E6%99%AF%E8%A2%AB%E6%8C%87%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C",
-    "timestamp": "2026-11-09T01:59:19.463Z",
     "strategy": ".content-card__main"
   }
 ];
