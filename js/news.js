@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T14:45:36.250Z
+// Last updated: 2026-11-09T14:59:18.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Katy Perry影星前夫Russell Brand　因強姦及性侵罪被判囚10年半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195338568914964480457189.jpeg/HBO9PskUWWVoh2Mdte39NVmjB7mvcZeuPEOkrzxDpK8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408885/katy-perry%E5%BD%B1%E6%98%9F%E5%89%8D%E5%A4%ABrussell-brand-%E5%9B%A0%E5%BC%B7%E5%A7%A6%E5%8F%8A%E6%80%A7%E4%BE%B5%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%9B%9A10%E5%B9%B4%E5%8D%8A",
+    "timestamp": "2026-11-09T14:59:18.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鼓鼓呂思緯、蕭秉治、蕭景鴻、小魏魏嘉瑩田中馬拉松熱情開唱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196413639926484992825906.jpeg/bFwP0ZFQRH8yzcbreHt9z9iilZSE5vIBqsa7QqrGu0I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408734/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%83%A1%E9%8C%AB%E9%80%B2-%E4%B8%AD%E5%9C%8B%E6%83%85%E5%A0%B1%E7%95%8C%E4%B8%8D%E8%A6%81%E6%B1%82%E5%A5%B3%E9%96%93%E8%AB%9C%E4%BB%A5%E4%B8%8A%E5%BA%8A%E5%AF%A6%E7%8F%BE%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-11-09T08:26:49.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "比亞迪荷蘭辦公室遭突擊搜查　捷豹路虎控Ti7抄襲Defender",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240510/865542501124018176589710.jpeg/bjj_R9CqInKdcgCIJoa9MFJjGOQ5kn1FoSsuCaErLgk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408689/%E6%AF%94%E4%BA%9E%E8%BF%AA%E8%8D%B7%E8%98%AD%E8%BE%A6%E5%85%AC%E5%AE%A4%E9%81%AD%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5-%E6%8D%B7%E8%B1%B9%E8%B7%AF%E8%99%8E%E6%8E%A7ti7%E6%8A%84%E8%A5%B2defender",
-    "timestamp": "2026-11-09T07:45:57.817Z",
     "strategy": ".content-card__main"
   }
 ];
