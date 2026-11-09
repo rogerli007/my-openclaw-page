@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T18:45:25.875Z
+// Last updated: 2026-11-09T18:59:00.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地兩名非華裔男捱的士撞　1人昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196646433067896832421569.jpeg/ZaHb8zl1q7jWDxzRTQdFEANhosQ3t1k6ITVnfQs1Z30?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408902/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%85%A9%E5%90%8D%E9%9D%9E%E8%8F%AF%E8%A3%94%E7%94%B7%E6%8D%B1%E7%9A%84%E5%A3%AB%E6%92%9E-1%E4%BA%BA%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-11-09T18:59:00.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何立峰出席中加經濟財金戰略對話　稱兩國交往重回正軌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194288451210448896394127.jpeg/Bdzmyl6H9k7yHWcmO9YIwQYZ5VAMpRJ60chlodHIZaE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60406554/%E5%A4%A9%E6%B0%A3%E8%BD%89%E6%B6%BC-%E5%86%B7%E9%8B%92-%E4%B9%BE%E8%A1%A3%E6%A9%9F%E6%9A%96%E9%A2%A8%E6%A9%9F%E7%86%B1%E6%B0%B4%E7%88%90%E6%85%B3%E9%9B%BB%E6%95%99%E5%AD%B8-%E7%A7%8B%E6%B6%BC%E5%A4%A9%E6%B0%A3%E7%9C%81%E9%9B%BB%E7%A7%98%E8%A8%A3",
     "timestamp": "2026-11-09T12:26:22.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜內媒稱黃樂浸大傳理碩士畢業　知情者讚善談具氣場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196548484308668416743012.jpeg/Er-X63Lh0zmPOjaPechZumVl8j-FCPROpLG5KKSxuSg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408849/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%85%A7%E5%AA%92%E7%A8%B1%E9%BB%83%E6%A8%82%E6%B5%B8%E5%A4%A7%E5%82%B3%E7%90%86%E7%A2%A9%E5%A3%AB%E7%95%A2%E6%A5%AD-%E7%9F%A5%E6%83%85%E8%80%85%E8%AE%9A%E5%96%84%E8%AB%87%E5%85%B7%E6%B0%A3%E5%A0%B4",
-    "timestamp": "2026-11-09T11:58:59.753Z",
     "strategy": ".content-card__main"
   }
 ];
