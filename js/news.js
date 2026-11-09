@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T19:40:08.064Z
+// Last updated: 2026-11-09T19:58:59.439Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "法國：數百超市冷藏系統上月遭攻擊　伊朗革命衛隊幕後黑手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196657452070735872039548.jpeg/_Eh_-VFkXf0qIawDDjMPaGy4dX4gpGoKXv14v179eL8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408905/%E6%B3%95%E5%9C%8B-%E6%95%B8%E7%99%BE%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%B5%B1%E4%B8%8A%E6%9C%88%E9%81%AD%E6%94%BB%E6%93%8A-%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E5%B9%95%E5%BE%8C%E9%BB%91%E6%89%8B",
+    "timestamp": "2026-11-09T19:58:59.439Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "法國：數百超市冷藏系統上月遭攻擊　伊朗革命衛隊幕後黑手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196577307351846912154093.jpeg/XzHnx97pSQYFh-pEiyowpSS4VVB1oZFy83NQM_NzUDM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408878/%E6%B5%B7%E9%97%9C%E6%B7%B1%E5%9C%B3%E7%81%A3%E7%AE%A1%E5%88%B6%E7%AB%99%E6%88%AA%E6%9F%A5%E5%85%A5%E5%A2%83%E8%B2%A8%E8%BB%8A-%E6%90%9C%E7%B4%99%E7%AE%B1%E6%8F%AD%E8%A5%AA%E5%85%A7%E8%97%8F6%E7%80%95%E5%8D%B1%E6%B4%BB%E9%BE%9C%E5%80%BC-6%E8%90%AC",
     "timestamp": "2026-11-09T13:45:32.327Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王源鎮江生日專場遇暴雨！熱氣球被迫取消　王源哽咽道歉惹哭歌迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196481561134895104098321.png/AfG4jqppxL3BuvKL7fCbfzC2htd88Q4RjZMMrY2TDK0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408665/%E7%8E%8B%E6%BA%90%E9%8E%AE%E6%B1%9F%E7%94%9F%E6%97%A5%E5%B0%88%E5%A0%B4%E9%81%87%E6%9A%B4%E9%9B%A8-%E7%86%B1%E6%B0%A3%E7%90%83%E8%A2%AB%E8%BF%AB%E5%8F%96%E6%B6%88-%E7%8E%8B%E6%BA%90%E5%93%BD%E5%92%BD%E9%81%93%E6%AD%89%E6%83%B9%E5%93%AD%E6%AD%8C%E8%BF%B7",
-    "timestamp": "2026-11-09T13:21:48.206Z",
     "strategy": ".content-card__main"
   }
 ];
