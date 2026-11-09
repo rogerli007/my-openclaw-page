@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T04:35:15.812Z
+// Last updated: 2026-11-09T04:53:48.240Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "抗癌｜末期大腸癌仍現轉機？患者術後規律做一事 5年未見復發",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192892869711499264926187.jpeg/gzqtyGJdfAvOzfKz0Jy_agFjLk-TioGRV8Ucy1fFHMs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405265/%E6%8A%97%E7%99%8C-%E6%9C%AB%E6%9C%9F%E5%A4%A7%E8%85%B8%E7%99%8C%E4%BB%8D%E7%8F%BE%E8%BD%89%E6%A9%9F-%E6%82%A3%E8%80%85%E8%A1%93%E5%BE%8C%E8%A6%8F%E5%BE%8B%E5%81%9A%E4%B8%80%E4%BA%8B-5%E5%B9%B4%E6%9C%AA%E8%A6%8B%E5%BE%A9%E7%99%BC",
+    "timestamp": "2026-11-09T04:53:48.240Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "調查│2027年打工仔預計平均加人工1.44%　六成僱主料減或維持人手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196235021652856832342065.jpeg/KEKTxtiSyTi1HOFe9-DR0J5mzsOZjSE1bqkglm6pIJY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408437/%E4%BA%9E%E8%A6%96%E5%BF%A0%E8%87%A3-%E5%8A%89%E9%8C%AB%E8%B3%A2%E6%95%88%E5%8A%9Batv28%E5%B9%B4%E6%9B%BE%E5%90%91tvb%E8%87%AA%E8%96%A6-%E4%B8%80%E5%80%8B%E5%8E%9F%E5%9B%A0%E8%A2%AB%E7%84%A1%E6%83%85%E6%8B%92%E7%B5%95",
     "timestamp": "2026-11-08T22:45:01.693Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼聯戲劇性4:4逼和維拉  防線多漏洞  累積失30球冠絕歐洲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196345895965167616184907.jpeg/QNagZ3p2XYRvmoV9BeaMaDg7y4zsZM0fKY8aDCmPGgw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408515/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E6%88%B2%E5%8A%87%E6%80%A74-4%E9%80%BC%E5%92%8C%E7%B6%AD%E6%8B%89-%E9%98%B2%E7%B7%9A%E5%A4%9A%E6%BC%8F%E6%B4%9E-%E7%B4%AF%E7%A9%8D%E5%A4%B130%E7%90%83%E5%86%A0%E7%B5%95%E6%AD%90%E6%B4%B2",
-    "timestamp": "2026-11-08T22:29:35.273Z",
     "strategy": ".content-card__main"
   }
 ];
