@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T09:37:05.607Z
+// Last updated: 2026-11-09T09:53:20.782Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八達通與香港世界宣明會首度攜手　推出「糧家村」手機八達通卡面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196511988511936512549628.jpeg/zY38-lgSVSwKYggU7yD0x0M5xNpnZ4akPfayVD32slQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60408784/%E5%85%AB%E9%81%94%E9%80%9A%E8%88%87%E9%A6%99%E6%B8%AF%E4%B8%96%E7%95%8C%E5%AE%A3%E6%98%8E%E6%9C%83%E9%A6%96%E5%BA%A6%E6%94%9C%E6%89%8B-%E6%8E%A8%E5%87%BA-%E7%B3%A7%E5%AE%B6%E6%9D%91-%E6%89%8B%E6%A9%9F%E5%85%AB%E9%81%94%E9%80%9A%E5%8D%A1%E9%9D%A2",
+    "timestamp": "2026-11-09T09:53:20.782Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三藩市豪宅侵佔案欠稅34萬料遭法拍　涉事華女多項重罪遭警方拘捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196421058417135616617942.jpeg/-7Mznao9dJRosFbfvMUTa_ll8Yh6YWg8ENrpdRDa6XU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60408583/30%E6%AD%B2%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%81%A5%E5%B0%87%E9%83%BD%E4%B8%AD%E6%8B%9B-%E8%82%BA%E7%82%8E%E9%8F%88%E7%90%83%E8%8F%8C%E8%A1%80%E6%B8%85%E5%9E%8B-%E6%B4%97%E7%89%8C-%E9%98%B2%E8%AD%B7%E9%9C%80%E8%88%87%E6%99%82%E4%BF%B1%E9%80%B2",
     "timestamp": "2026-11-09T03:23:55.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Nvidia黃仁勳發信承認婚外情！與黃樂用餐後親臉頰、同車畫面曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196412301041733632732518.jpeg/hUsvPcRNqLwLFJpuV1Y0CYkUZ_wy8yxY_dtDCv3bQwo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408541/nvidia%E9%BB%83%E4%BB%81%E5%8B%B3%E7%99%BC%E4%BF%A1%E6%89%BF%E8%AA%8D%E5%A9%9A%E5%A4%96%E6%83%85-%E8%88%87%E9%BB%83%E6%A8%82%E7%94%A8%E9%A4%90%E5%BE%8C%E8%A6%AA%E8%87%89%E9%A0%B0-%E5%90%8C%E8%BB%8A%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-11-09T02:58:58.213Z",
     "strategy": ".content-card__main"
   }
 ];
