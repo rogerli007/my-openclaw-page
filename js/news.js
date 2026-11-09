@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T12:26:22.927Z
+// Last updated: 2026-11-09T12:43:56.433Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周慧賢被殺案　被告知周懷孕曾問誰是經手人　稱有付墮胎費及送禮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194022223350861824874103.jpeg/OkqolOfY9uJNJYHHELqGtdjSdWrL-JVUASRC_gEkQv4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408862/%E5%91%A8%E6%85%A7%E8%B3%A2%E8%A2%AB%E6%AE%BA%E6%A1%88-%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%91%A8%E6%87%B7%E5%AD%95%E6%9B%BE%E5%95%8F%E8%AA%B0%E6%98%AF%E7%B6%93%E6%89%8B%E4%BA%BA-%E7%A8%B1%E6%9C%89%E4%BB%98%E5%A2%AE%E8%83%8E%E8%B2%BB%E5%8F%8A%E9%80%81%E7%A6%AE",
+    "timestamp": "2026-11-09T12:43:56.433Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣低至16度｜不開冷氣電費仍然貴？你熱水爐乾衣機暖風機用錯了",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196419548148928512806345.jpeg/p1ODcvPcyQhMVgPyUgGwkc16Qa3D6_9IXYWoEV2FqBE?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60408570/nba-%E6%8B%93%E8%8D%92%E8%80%85%E7%90%83%E5%93%A1%E6%A5%8A%E7%80%9A%E6%A3%AE%E7%A0%8D%E4%B8%8B%E9%9B%99%E9%9B%99-%E5%88%B7%E7%94%9F%E6%B6%AF%E6%96%B0%E9%AB%98%E6%88%90%E6%98%93%E5%BB%BA%E8%81%AF%E5%BE%8C%E4%B8%AD%E5%9C%8B%E7%AC%AC1%E4%BA%BA",
     "timestamp": "2026-11-09T05:46:33.953Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高血壓症狀原因｜長者血壓幾多算高？722量度黃金法則+降血壓方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196452487914065920137586.png/m_AnUfJYYjOD_hAUeJbTTNfrXrGodvIh00hJGtNISRo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60397563/%E9%AB%98%E8%A1%80%E5%A3%93%E7%97%87%E7%8B%80%E5%8E%9F%E5%9B%A0-%E9%95%B7%E8%80%85%E8%A1%80%E5%A3%93%E5%B9%BE%E5%A4%9A%E7%AE%97%E9%AB%98-722%E9%87%8F%E5%BA%A6%E9%BB%83%E9%87%91%E6%B3%95%E5%89%87-%E9%99%8D%E8%A1%80%E5%A3%93%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-11-09T05:21:57.970Z",
     "strategy": ".content-card__main"
   }
 ];
