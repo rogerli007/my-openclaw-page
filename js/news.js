@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T10:20:23.937Z
+// Last updated: 2026-11-09T10:59:21.200Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普「被解決」與伊朗戰爭「未解決」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196532633748639744214576.jpeg/np38-nb0OfAcQemxgQbXugEzZbTGCiJHo9ZHV6PWR1c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60408839/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%A2%AB%E8%A7%A3%E6%B1%BA-%E8%88%87%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E6%9C%AA%E8%A7%A3%E6%B1%BA",
+    "timestamp": "2026-11-09T10:59:21.200Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Google Maps隱藏功能10個｜旅行避開樓梯位！學識1招離線都用得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196423657904148480520483.jpeg/8wnn4LDW2lZkZaS9Euvq8Fr96sBTC7lvpPaVIKT2lSA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408563/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A9%9A%E5%A4%96%E6%83%85-%E5%A5%B3%E4%B8%BB%E8%A7%92%E9%BB%83%E6%A8%82%E8%87%AA%E7%A8%B1%E6%9B%BE%E4%BB%BB%E5%A4%AE%E8%A6%96%E8%A8%98%E8%80%85-%E5%B1%A5%E6%AD%B7%E8%A2%AB%E6%8F%AD%E7%96%91%E4%BC%BC%E9%80%A0%E5%81%87",
     "timestamp": "2026-11-09T03:59:19.928Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教師請病假16年未曾上班　白領全額月薪　校長換人竟不知有此員工",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196417477035167744382904.png/O2GZJoMNcDWps7wfLJImavpQJC5k1Cn28E1EfPBNRHw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408578/%E6%95%99%E5%B8%AB%E8%AB%8B%E7%97%85%E5%81%8716%E5%B9%B4%E6%9C%AA%E6%9B%BE%E4%B8%8A%E7%8F%AD-%E7%99%BD%E9%A0%98%E5%85%A8%E9%A1%8D%E6%9C%88%E8%96%AA-%E6%A0%A1%E9%95%B7%E6%8F%9B%E4%BA%BA%E7%AB%9F%E4%B8%8D%E7%9F%A5%E6%9C%89%E6%AD%A4%E5%93%A1%E5%B7%A5",
-    "timestamp": "2026-11-09T03:36:48.293Z",
     "strategy": ".content-card__main"
   }
 ];
