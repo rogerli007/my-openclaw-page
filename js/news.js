@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T12:43:56.433Z
+// Last updated: 2026-11-09T12:59:12.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大律師公會不服吳靄儀未被訓誡求覆核　指損大律師聲譽屬專業失當",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196563918957318144530986.jpeg/ylrjAlisRUDQfBI1VoDLDn_nV6JXtx7YSN_Ygm3f2II?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60408867/%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E4%B8%8D%E6%9C%8D%E5%90%B3%E9%9D%84%E5%84%80%E6%9C%AA%E8%A2%AB%E8%A8%93%E8%AA%A1%E6%B1%82%E8%A6%86%E6%A0%B8-%E6%8C%87%E6%90%8D%E5%A4%A7%E5%BE%8B%E5%B8%AB%E8%81%B2%E8%AD%BD%E5%B1%AC%E5%B0%88%E6%A5%AD%E5%A4%B1%E7%95%B6",
+    "timestamp": "2026-11-09T12:59:12.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周慧賢被殺案　被告知周懷孕曾問誰是經手人　稱有付墮胎費及送禮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195872367453147136726450.png/LckJqba5864KlM5Kh3wRL4VuBd3igtbXyqW10MqltdA?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408619/%E6%B7%BA%E6%B0%B4%E7%81%A3%E6%B3%95%E6%8B%89%E5%88%A9f40%E5%87%BA%E5%A4%A7%E8%B7%AF%E9%9A%AA%E8%A2%AB%E6%92%9E-%E8%AD%A6%E6%8E%A5%E7%8D%B2%E5%85%A9%E5%AE%97%E6%8A%95%E8%A8%B4-ms%E7%89%8C%E6%98%AF%E8%80%81%E7%88%BA%E8%BB%8A%E7%89%8C",
     "timestamp": "2026-11-09T05:59:17.345Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜拓荒者球員楊瀚森砍下雙雙　刷生涯新高成易建聯後中國第1人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196419548148928512806345.jpeg/p1ODcvPcyQhMVgPyUgGwkc16Qa3D6_9IXYWoEV2FqBE?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60408570/nba-%E6%8B%93%E8%8D%92%E8%80%85%E7%90%83%E5%93%A1%E6%A5%8A%E7%80%9A%E6%A3%AE%E7%A0%8D%E4%B8%8B%E9%9B%99%E9%9B%99-%E5%88%B7%E7%94%9F%E6%B6%AF%E6%96%B0%E9%AB%98%E6%88%90%E6%98%93%E5%BB%BA%E8%81%AF%E5%BE%8C%E4%B8%AD%E5%9C%8B%E7%AC%AC1%E4%BA%BA",
-    "timestamp": "2026-11-09T05:46:33.953Z",
     "strategy": ".content-card__main"
   }
 ];
