@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T09:53:20.782Z
+// Last updated: 2026-11-09T10:20:23.937Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Google Maps隱藏功能10個｜旅行避開樓梯位！學識1招離線都用得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196524987255623680523940.jpeg/X9RMBfJ8HAtYO8ypVVFiLU2wxapmGBjcSrTwbkq08G4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60408822/google-maps%E9%9A%B1%E8%97%8F%E5%8A%9F%E8%83%BD10%E5%80%8B-%E6%97%85%E8%A1%8C%E9%81%BF%E9%96%8B%E6%A8%93%E6%A2%AF%E4%BD%8D-%E5%AD%B8%E8%AD%981%E6%8B%9B%E9%9B%A2%E7%B7%9A%E9%83%BD%E7%94%A8%E5%BE%97",
+    "timestamp": "2026-11-09T10:20:23.937Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八達通與香港世界宣明會首度攜手　推出「糧家村」手機八達通卡面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196417477035167744382904.png/O2GZJoMNcDWps7wfLJImavpQJC5k1Cn28E1EfPBNRHw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408578/%E6%95%99%E5%B8%AB%E8%AB%8B%E7%97%85%E5%81%8716%E5%B9%B4%E6%9C%AA%E6%9B%BE%E4%B8%8A%E7%8F%AD-%E7%99%BD%E9%A0%98%E5%85%A8%E9%A1%8D%E6%9C%88%E8%96%AA-%E6%A0%A1%E9%95%B7%E6%8F%9B%E4%BA%BA%E7%AB%9F%E4%B8%8D%E7%9F%A5%E6%9C%89%E6%AD%A4%E5%93%A1%E5%B7%A5",
     "timestamp": "2026-11-09T03:36:48.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "30歲馬拉松健將都中招！肺炎鏈球菌血清型「洗牌」防護需與時俱進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196421058417135616617942.jpeg/-7Mznao9dJRosFbfvMUTa_ll8Yh6YWg8ENrpdRDa6XU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60408583/30%E6%AD%B2%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%81%A5%E5%B0%87%E9%83%BD%E4%B8%AD%E6%8B%9B-%E8%82%BA%E7%82%8E%E9%8F%88%E7%90%83%E8%8F%8C%E8%A1%80%E6%B8%85%E5%9E%8B-%E6%B4%97%E7%89%8C-%E9%98%B2%E8%AD%B7%E9%9C%80%E8%88%87%E6%99%82%E4%BF%B1%E9%80%B2",
-    "timestamp": "2026-11-09T03:23:55.707Z",
     "strategy": ".content-card__main"
   }
 ];
