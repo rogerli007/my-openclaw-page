@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T01:21:47.705Z
+// Last updated: 2026-11-09T01:48:19.140Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳婚外情｜特朗普：仍願帶他出訪亞洲　馬斯克稱其無可替代",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176863084849926144356241.jpeg/WN6_L2Q64nRW4h2MfPiSWB3YlwBPa9KGkjE6YpIxOmI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408529/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A9%9A%E5%A4%96%E6%83%85-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%8D%E9%A1%98%E5%B8%B6%E4%BB%96%E5%87%BA%E8%A8%AA%E4%BA%9E%E6%B4%B2-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%A8%B1%E5%85%B6%E7%84%A1%E5%8F%AF%E6%9B%BF%E4%BB%A3",
+    "timestamp": "2026-11-09T01:48:19.140Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳承認有婚外情　美媒：致英偉達員工信全文曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195768506776293376273986.jpeg/t0gkAPxZyPELf6RlmFWBjZx0nW0n7DaLXLqbSFy6m0g",
     "url": "https://www.hk01.com/01TV/60408193/%E5%85%83%E8%8F%AF%E5%9B%9E%E6%86%B6%E9%A6%96%E5%BA%A6%E5%B0%8D%E6%B1%BA%E6%9D%8E%E5%B0%8F%E9%BE%8D-%E5%9C%A8-%E7%B2%BE%E6%AD%A6%E9%96%80-%E9%A3%BE%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BB%94%E6%8C%A8%E8%B8%A2",
     "timestamp": "2026-11-08T19:45:57.771Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華回憶首度對決李小龍：在《精武門》飾演日本仔挨踢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195768506776293376273986.jpeg/t0gkAPxZyPELf6RlmFWBjZx0nW0n7DaLXLqbSFy6m0g",
-    "url": "https://www.hk01.com/01TV/60408193/%E5%85%83%E8%8F%AF%E5%9B%9E%E6%86%B6%E9%A6%96%E5%BA%A6%E5%B0%8D%E6%B1%BA%E6%9D%8E%E5%B0%8F%E9%BE%8D-%E5%9C%A8-%E7%B2%BE%E6%AD%A6%E9%96%80-%E9%A3%BE%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BB%94%E6%8C%A8%E8%B8%A2",
-    "timestamp": "2026-11-08T19:29:20.889Z",
     "strategy": ".content-card__main"
   }
 ];
