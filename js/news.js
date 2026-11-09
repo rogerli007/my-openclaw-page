@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T23:18:23.202Z
+// Last updated: 2026-11-09T23:23:29.381Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玫瑰戰爭劇透｜楊茜堯為證清白自插一刀　林夏薇現眼報重傷昏迷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196623541332611072021579.jpeg/WTWCpQPFbRFLb2HHkdLecJJIjXcQTQOp8PtzUvD7c1I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408891/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD%E5%8A%87%E9%80%8F-%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%82%BA%E8%AD%89%E6%B8%85%E7%99%BD%E8%87%AA%E6%8F%92%E4%B8%80%E5%88%80-%E6%9E%97%E5%A4%8F%E8%96%87%E7%8F%BE%E7%9C%BC%E5%A0%B1%E9%87%8D%E5%82%B7%E6%98%8F%E8%BF%B7",
+    "timestamp": "2026-11-09T23:23:29.381Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "教育臻善｜一張能量卡，連起你我的心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196630787215069184543128.jpeg/oUqh7VMLuSKD0OwspmYmnzzbKrxLTRxDI1R20iNUdtI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408901/%E6%B8%AF%E7%89%88-%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E6%9C%AA%E6%92%AD%E5%85%88%E6%83%B9%E7%81%AB-%E6%B5%B7%E5%A0%B1%E9%A9%9A%E7%8F%BE%E4%B8%89%E5%8A%83-%E6%9C%88-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%81%8E%E4%BB%BD",
     "timestamp": "2026-11-09T17:59:18.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港版《悠長假期》未播先惹火　海報驚現三劃「月」網民斥過份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196630787215069184543128.jpeg/oUqh7VMLuSKD0OwspmYmnzzbKrxLTRxDI1R20iNUdtI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408901/%E6%B8%AF%E7%89%88-%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E6%9C%AA%E6%92%AD%E5%85%88%E6%83%B9%E7%81%AB-%E6%B5%B7%E5%A0%B1%E9%A9%9A%E7%8F%BE%E4%B8%89%E5%8A%83-%E6%9C%88-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%81%8E%E4%BB%BD",
-    "timestamp": "2026-11-09T17:45:26.348Z",
     "strategy": ".content-card__main"
   }
 ];
