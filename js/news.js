@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T17:45:26.348Z
+// Last updated: 2026-11-09T17:59:18.511Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港版《悠長假期》未播先惹火　海報驚現三劃「月」網民斥過份",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196630787215069184543128.jpeg/oUqh7VMLuSKD0OwspmYmnzzbKrxLTRxDI1R20iNUdtI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408901/%E6%B8%AF%E7%89%88-%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E6%9C%AA%E6%92%AD%E5%85%88%E6%83%B9%E7%81%AB-%E6%B5%B7%E5%A0%B1%E9%A9%9A%E7%8F%BE%E4%B8%89%E5%8A%83-%E6%9C%88-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%81%8E%E4%BB%BD",
+    "timestamp": "2026-11-09T17:59:18.511Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港版《悠長假期》未播先惹火　海報驚現三劃「月」網民斥過份",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196544873289748480915683.jpeg/bVrrfVbWl_hw44bHFbQF9PuqQzznRJmfLGiZoCxomaA",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408848/%E6%B7%BA%E6%B0%B4%E7%81%A3ms%E7%89%8C%E6%B3%95%E6%8B%89%E5%88%A9f40%E5%B0%8F%E8%B7%AF%E5%87%BA%E5%A4%A7%E8%B7%AF%E8%87%B4%E5%9F%8E%E5%B7%B4%E6%80%A5%E7%85%9E-%E8%AD%A6%E6%8B%9838%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B6%89%E5%8D%B1%E9%A7%95",
     "timestamp": "2026-11-09T11:45:12.142Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SBS歌謠大戰2026MC名單出爐！　安俞真七度執棒　Jisoo率新星登場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196494008763813888512748.png/Te1BdBGs4TDy7Iy2c3XXRRW5_OqELcjo2M_d8NjP3fA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408679/sbs%E6%AD%8C%E8%AC%A0%E5%A4%A7%E6%88%B02026mc%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%AE%89%E4%BF%9E%E7%9C%9F%E4%B8%83%E5%BA%A6%E5%9F%B7%E6%A3%92-jisoo%E7%8E%87%E6%96%B0%E6%98%9F%E7%99%BB%E5%A0%B4",
-    "timestamp": "2026-11-09T11:29:24.453Z",
     "strategy": ".content-card__main"
   }
 ];
