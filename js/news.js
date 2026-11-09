@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T17:20:04.144Z
+// Last updated: 2026-11-09T17:45:26.348Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港版《悠長假期》未播先惹火　海報驚現三劃「月」網民斥過份",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196630787215069184543128.jpeg/oUqh7VMLuSKD0OwspmYmnzzbKrxLTRxDI1R20iNUdtI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408901/%E6%B8%AF%E7%89%88-%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E6%9C%AA%E6%92%AD%E5%85%88%E6%83%B9%E7%81%AB-%E6%B5%B7%E5%A0%B1%E9%A9%9A%E7%8F%BE%E4%B8%89%E5%8A%83-%E6%9C%88-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%81%8E%E4%BB%BD",
+    "timestamp": "2026-11-09T17:45:26.348Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華挑戰極限特技：從小型飛機躍下 高空跳海命懸一線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196494008763813888512748.png/Te1BdBGs4TDy7Iy2c3XXRRW5_OqELcjo2M_d8NjP3fA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408679/sbs%E6%AD%8C%E8%AC%A0%E5%A4%A7%E6%88%B02026mc%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%AE%89%E4%BF%9E%E7%9C%9F%E4%B8%83%E5%BA%A6%E5%9F%B7%E6%A3%92-jisoo%E7%8E%87%E6%96%B0%E6%98%9F%E7%99%BB%E5%A0%B4",
     "timestamp": "2026-11-09T11:29:24.453Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普「被解決」與伊朗戰爭「未解決」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196532633748639744214576.jpeg/np38-nb0OfAcQemxgQbXugEzZbTGCiJHo9ZHV6PWR1c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60408839/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%A2%AB%E8%A7%A3%E6%B1%BA-%E8%88%87%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E6%9C%AA%E8%A7%A3%E6%B1%BA",
-    "timestamp": "2026-11-09T10:59:21.200Z",
     "strategy": ".content-card__main"
   }
 ];
