@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T04:53:48.240Z
+// Last updated: 2026-11-09T05:21:57.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高血壓症狀原因｜長者血壓幾多算高？722量度黃金法則+降血壓方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196452487914065920137586.png/m_AnUfJYYjOD_hAUeJbTTNfrXrGodvIh00hJGtNISRo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60397563/%E9%AB%98%E8%A1%80%E5%A3%93%E7%97%87%E7%8B%80%E5%8E%9F%E5%9B%A0-%E9%95%B7%E8%80%85%E8%A1%80%E5%A3%93%E5%B9%BE%E5%A4%9A%E7%AE%97%E9%AB%98-722%E9%87%8F%E5%BA%A6%E9%BB%83%E9%87%91%E6%B3%95%E5%89%87-%E9%99%8D%E8%A1%80%E5%A3%93%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-11-09T05:21:57.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "抗癌｜末期大腸癌仍現轉機？患者術後規律做一事 5年未見復發",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196235021652856832342065.jpeg/KEKTxtiSyTi1HOFe9-DR0J5mzsOZjSE1bqkglm6pIJY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408437/%E4%BA%9E%E8%A6%96%E5%BF%A0%E8%87%A3-%E5%8A%89%E9%8C%AB%E8%B3%A2%E6%95%88%E5%8A%9Batv28%E5%B9%B4%E6%9B%BE%E5%90%91tvb%E8%87%AA%E8%96%A6-%E4%B8%80%E5%80%8B%E5%8E%9F%E5%9B%A0%E8%A2%AB%E7%84%A1%E6%83%85%E6%8B%92%E7%B5%95",
     "timestamp": "2026-11-08T22:59:04.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「亞視忠臣」劉錫賢效力ATV28年曾向TVB自薦　一個原因被無情拒絕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196235021652856832342065.jpeg/KEKTxtiSyTi1HOFe9-DR0J5mzsOZjSE1bqkglm6pIJY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408437/%E4%BA%9E%E8%A6%96%E5%BF%A0%E8%87%A3-%E5%8A%89%E9%8C%AB%E8%B3%A2%E6%95%88%E5%8A%9Batv28%E5%B9%B4%E6%9B%BE%E5%90%91tvb%E8%87%AA%E8%96%A6-%E4%B8%80%E5%80%8B%E5%8E%9F%E5%9B%A0%E8%A2%AB%E7%84%A1%E6%83%85%E6%8B%92%E7%B5%95",
-    "timestamp": "2026-11-08T22:45:01.693Z",
     "strategy": ".content-card__main"
   }
 ];
