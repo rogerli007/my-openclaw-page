@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T16:59:11.282Z
+// Last updated: 2026-11-09T17:20:04.144Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華挑戰極限特技：從小型飛機躍下 高空跳海命懸一線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195770515910823936527138.jpeg/hhuIG3_6yqmP1Xq0C7xb_p1ne4nQanox08RmJdPEZiU",
+    "url": "https://www.hk01.com/01TV/60408197/%E5%85%83%E8%8F%AF%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90%E7%89%B9%E6%8A%80-%E5%BE%9E%E5%B0%8F%E5%9E%8B%E9%A3%9B%E6%A9%9F%E8%BA%8D%E4%B8%8B-%E9%AB%98%E7%A9%BA%E8%B7%B3%E6%B5%B7%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A",
+    "timestamp": "2026-11-09T17:20:04.144Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳百祥指TVB籌款節目請唔到大卡士　爆今次碌人情卡請人獻唱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196532633748639744214576.jpeg/np38-nb0OfAcQemxgQbXugEzZbTGCiJHo9ZHV6PWR1c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60408839/%E7%89%B9%E6%9C%97%E6%99%AE-%E8%A2%AB%E8%A7%A3%E6%B1%BA-%E8%88%87%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E6%9C%AA%E8%A7%A3%E6%B1%BA",
     "timestamp": "2026-11-09T10:59:21.200Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Google Maps隱藏功能10個｜旅行避開樓梯位！學識1招離線都用得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196524987255623680523940.jpeg/X9RMBfJ8HAtYO8ypVVFiLU2wxapmGBjcSrTwbkq08G4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60408822/google-maps%E9%9A%B1%E8%97%8F%E5%8A%9F%E8%83%BD10%E5%80%8B-%E6%97%85%E8%A1%8C%E9%81%BF%E9%96%8B%E6%A8%93%E6%A2%AF%E4%BD%8D-%E5%AD%B8%E8%AD%981%E6%8B%9B%E9%9B%A2%E7%B7%9A%E9%83%BD%E7%94%A8%E5%BE%97",
-    "timestamp": "2026-11-09T10:20:23.937Z",
     "strategy": ".content-card__main"
   }
 ];
