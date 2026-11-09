@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T21:45:06.598Z
+// Last updated: 2026-11-09T21:59:10.880Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美中期選舉｜特朗普質疑公正性　選民對以色列反感是失利原因之一",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187186111953244160542187.jpeg/1KLzzYf1OBbSAeRBiiPOJIEJccTWz18KbfJ8L23yfC8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408907/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%89%B9%E6%9C%97%E6%99%AE%E8%B3%AA%E7%96%91%E5%85%AC%E6%AD%A3%E6%80%A7-%E9%81%B8%E6%B0%91%E5%B0%8D%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%8D%E6%84%9F%E6%98%AF%E5%A4%B1%E5%88%A9%E5%8E%9F%E5%9B%A0%E4%B9%8B%E4%B8%80",
+    "timestamp": "2026-11-09T21:59:10.880Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土耳其鋼鐵廠爆炸至少16死　埃爾多安稱展開調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196602652809498624395862.jpeg/ROAgHZsHcP4pV0v8JoYJcVIDjBOFclULPi8UPj4vFD4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408890/%E7%92%B0%E4%BF%9D%E7%BD%B2%E7%B1%B2%E6%8F%90%E9%98%B2%E8%99%9B%E5%81%87%E5%9B%9E%E6%94%B6%E8%A3%9C%E8%B2%BC%E8%A8%88%E5%8A%83-%E5%B8%82%E6%B0%91%E5%A6%82%E6%9B%BE%E6%8F%90%E4%BE%9B%E8%B3%87%E6%96%99%E6%88%96%E4%BA%A4%E6%98%93%E6%87%89%E5%A0%B1%E8%AD%A6",
     "timestamp": "2026-11-09T15:57:21.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女偶像平租東京凶宅　與「男鬼」同居4年：眼神不友善但幫我省錢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196507633574481920015268.jpeg/MWXv0Uqei1rnxX5RDED9LlpZ03K1CJMisVJ-BrFSfgY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408735/%E5%A5%B3%E5%81%B6%E5%83%8F%E5%B9%B3%E7%A7%9F%E6%9D%B1%E4%BA%AC%E5%87%B6%E5%AE%85-%E8%88%87-%E7%94%B7%E9%AC%BC-%E5%90%8C%E5%B1%854%E5%B9%B4-%E7%9C%BC%E7%A5%9E%E4%B8%8D%E5%8F%8B%E5%96%84%E4%BD%86%E5%B9%AB%E6%88%91%E7%9C%81%E9%8C%A2",
-    "timestamp": "2026-11-09T15:45:48.749Z",
     "strategy": ".content-card__main"
   }
 ];
