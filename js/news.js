@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T11:45:12.142Z
+// Last updated: 2026-11-09T11:58:59.753Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜內媒稱黃樂浸大傳理碩士畢業　知情者讚善談具氣場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196548484308668416743012.jpeg/Er-X63Lh0zmPOjaPechZumVl8j-FCPROpLG5KKSxuSg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408849/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%85%A7%E5%AA%92%E7%A8%B1%E9%BB%83%E6%A8%82%E6%B5%B8%E5%A4%A7%E5%82%B3%E7%90%86%E7%A2%A9%E5%A3%AB%E7%95%A2%E6%A5%AD-%E7%9F%A5%E6%83%85%E8%80%85%E8%AE%9A%E5%96%84%E8%AB%87%E5%85%B7%E6%B0%A3%E5%A0%B4",
+    "timestamp": "2026-11-09T11:58:59.753Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "淺水灣MS牌法拉利F40小路出大路致城巴急煞　警拘38歲男子涉危駕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192892869711499264926187.jpeg/gzqtyGJdfAvOzfKz0Jy_agFjLk-TioGRV8Ucy1fFHMs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405265/%E6%8A%97%E7%99%8C-%E6%9C%AB%E6%9C%9F%E5%A4%A7%E8%85%B8%E7%99%8C%E4%BB%8D%E7%8F%BE%E8%BD%89%E6%A9%9F-%E6%82%A3%E8%80%85%E8%A1%93%E5%BE%8C%E8%A6%8F%E5%BE%8B%E5%81%9A%E4%B8%80%E4%BA%8B-5%E5%B9%B4%E6%9C%AA%E8%A6%8B%E5%BE%A9%E7%99%BC",
     "timestamp": "2026-11-09T04:53:48.240Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "調查│2027年打工仔預計平均加人工1.44%　六成僱主料減或維持人手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194692989570519040594238.jpeg/AuwnXON7dHAJ7Zmx_XSxcCz6bCcZrwnYLUIliC1CJYg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60407129/%E8%AA%BF%E6%9F%A5-2027%E5%B9%B4%E6%89%93%E5%B7%A5%E4%BB%94%E9%A0%90%E8%A8%88%E5%B9%B3%E5%9D%87%E5%8A%A0%E4%BA%BA%E5%B7%A51-44-%E5%85%AD%E6%88%90%E5%83%B1%E4%B8%BB%E6%96%99%E6%B8%9B%E6%88%96%E7%B6%AD%E6%8C%81%E4%BA%BA%E6%89%8B",
-    "timestamp": "2026-11-09T04:35:15.812Z",
     "strategy": ".content-card__main"
   }
 ];
