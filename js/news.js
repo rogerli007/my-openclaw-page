@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T13:45:32.327Z
+// Last updated: 2026-11-09T13:53:39.190Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秦陵陪葬男頭骨中箭遭肢解　顱面復原「蜂準長目」疑秦始皇之子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196579697631170560860743.jpeg/zoQSUVi-yyi7tV9ifNXaEU_OR2OXjAHM6_SAu-v0gLs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408876/%E7%A7%A6%E9%99%B5%E9%99%AA%E8%91%AC%E7%94%B7%E9%A0%AD%E9%AA%A8%E4%B8%AD%E7%AE%AD%E9%81%AD%E8%82%A2%E8%A7%A3-%E9%A1%B1%E9%9D%A2%E5%BE%A9%E5%8E%9F-%E8%9C%82%E6%BA%96%E9%95%B7%E7%9B%AE-%E7%96%91%E7%A7%A6%E5%A7%8B%E7%9A%87%E4%B9%8B%E5%AD%90",
+    "timestamp": "2026-11-09T13:53:39.190Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關深圳灣管制站截查入境貨車　搜紙箱揭襪內藏6瀕危活龜值$6萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196479701443416064490867.png/iA20dCC7EVyfEVQr7aT3cQYlfi8CROYaC41h8guNYfI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408697/%E5%85%89%E6%A6%AE%E5%86%B0%E5%AE%A4%E5%85%83%E6%9C%97%E5%BA%97%E9%87%98%E7%89%8C-%E9%A3%9F%E7%92%B0%E7%BD%B2-%E5%B1%A2%E9%81%95%E5%8F%8D-%E9%A3%9F%E7%89%A9%E6%A5%AD%E8%A6%8F%E4%BE%8B-%E9%A0%88%E5%8D%B3%E6%99%82%E5%81%9C%E6%A5%AD",
     "timestamp": "2026-11-09T07:22:42.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT法蘭克福冠軍賽｜日本包辦男女單冠軍　國乒無人入4強6站僅1冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196458440084426752754826.jpeg/792rgaRIwnYojF99VugOFOVTPvyW7biBT_5r8k_-a_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408568/wtt%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F%E5%86%A0%E8%BB%8D%E8%B3%BD-%E6%97%A5%E6%9C%AC%E5%8C%85%E8%BE%A6%E7%94%B7%E5%A5%B3%E5%96%AE%E5%86%A0%E8%BB%8D-%E5%9C%8B%E4%B9%92%E7%84%A1%E4%BA%BA%E5%85%A54%E5%BC%B76%E7%AB%99%E5%83%851%E5%86%A0",
-    "timestamp": "2026-11-09T06:57:28.185Z",
     "strategy": ".content-card__main"
   }
 ];
