@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T11:58:59.753Z
+// Last updated: 2026-11-09T12:26:22.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣低至16度｜不開冷氣電費仍然貴？你熱水爐乾衣機暖風機用錯了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194288451210448896394127.jpeg/Bdzmyl6H9k7yHWcmO9YIwQYZ5VAMpRJ60chlodHIZaE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60406554/%E5%A4%A9%E6%B0%A3%E8%BD%89%E6%B6%BC-%E5%86%B7%E9%8B%92-%E4%B9%BE%E8%A1%A3%E6%A9%9F%E6%9A%96%E9%A2%A8%E6%A9%9F%E7%86%B1%E6%B0%B4%E7%88%90%E6%85%B3%E9%9B%BB%E6%95%99%E5%AD%B8-%E7%A7%8B%E6%B6%BC%E5%A4%A9%E6%B0%A3%E7%9C%81%E9%9B%BB%E7%A7%98%E8%A8%A3",
+    "timestamp": "2026-11-09T12:26:22.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜內媒稱黃樂浸大傳理碩士畢業　知情者讚善談具氣場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196452487914065920137586.png/m_AnUfJYYjOD_hAUeJbTTNfrXrGodvIh00hJGtNISRo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60397563/%E9%AB%98%E8%A1%80%E5%A3%93%E7%97%87%E7%8B%80%E5%8E%9F%E5%9B%A0-%E9%95%B7%E8%80%85%E8%A1%80%E5%A3%93%E5%B9%BE%E5%A4%9A%E7%AE%97%E9%AB%98-722%E9%87%8F%E5%BA%A6%E9%BB%83%E9%87%91%E6%B3%95%E5%89%87-%E9%99%8D%E8%A1%80%E5%A3%93%E6%96%B9%E6%B3%95",
     "timestamp": "2026-11-09T05:21:57.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "抗癌｜末期大腸癌仍現轉機？患者術後規律做一事 5年未見復發",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192892869711499264926187.jpeg/gzqtyGJdfAvOzfKz0Jy_agFjLk-TioGRV8Ucy1fFHMs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405265/%E6%8A%97%E7%99%8C-%E6%9C%AB%E6%9C%9F%E5%A4%A7%E8%85%B8%E7%99%8C%E4%BB%8D%E7%8F%BE%E8%BD%89%E6%A9%9F-%E6%82%A3%E8%80%85%E8%A1%93%E5%BE%8C%E8%A6%8F%E5%BE%8B%E5%81%9A%E4%B8%80%E4%BA%8B-5%E5%B9%B4%E6%9C%AA%E8%A6%8B%E5%BE%A9%E7%99%BC",
-    "timestamp": "2026-11-09T04:53:48.240Z",
     "strategy": ".content-card__main"
   }
 ];
