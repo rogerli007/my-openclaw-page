@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T14:21:41.386Z
+// Last updated: 2026-11-09T14:45:36.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鼓鼓呂思緯、蕭秉治、蕭景鴻、小魏魏嘉瑩田中馬拉松熱情開唱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196564769985794048386709.jpeg/cqejEVRZId8ePOMr2GqpvZhdK7k-DfTbP29NAj9vTQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60408865/%E9%BC%93%E9%BC%93%E5%91%82%E6%80%9D%E7%B7%AF-%E8%95%AD%E7%A7%89%E6%B2%BB-%E8%95%AD%E6%99%AF%E9%B4%BB-%E5%B0%8F%E9%AD%8F%E9%AD%8F%E5%98%89%E7%91%A9%E7%94%B0%E4%B8%AD%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%86%B1%E6%83%85%E9%96%8B%E5%94%B1",
+    "timestamp": "2026-11-09T14:45:36.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《東張西望》22.8點繼續稱霸　《三代同糖》連跌幾月後終升破18點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240510/865542501124018176589710.jpeg/bjj_R9CqInKdcgCIJoa9MFJjGOQ5kn1FoSsuCaErLgk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408689/%E6%AF%94%E4%BA%9E%E8%BF%AA%E8%8D%B7%E8%98%AD%E8%BE%A6%E5%85%AC%E5%AE%A4%E9%81%AD%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5-%E6%8D%B7%E8%B1%B9%E8%B7%AF%E8%99%8E%E6%8E%A7ti7%E6%8A%84%E8%A5%B2defender",
     "timestamp": "2026-11-09T07:45:57.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普認驅逐政策「可能過嚴」　稱可與民主黨達移民協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194434496401772544596701.jpeg/Z1qBClIZS7xP8-L8OeU4sS-r1lBXSMUl4vMz5uLzM-Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408699/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AA%8D%E9%A9%85%E9%80%90%E6%94%BF%E7%AD%96-%E5%8F%AF%E8%83%BD%E9%81%8E%E5%9A%B4-%E7%A8%B1%E5%8F%AF%E8%88%87%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%81%94%E7%A7%BB%E6%B0%91%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-11-09T07:33:47.293Z",
     "strategy": ".content-card__main"
   }
 ];
