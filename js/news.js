@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T15:20:31.482Z
+// Last updated: 2026-11-09T15:45:48.749Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女偶像平租東京凶宅　與「男鬼」同居4年：眼神不友善但幫我省錢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196507633574481920015268.jpeg/MWXv0Uqei1rnxX5RDED9LlpZ03K1CJMisVJ-BrFSfgY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408735/%E5%A5%B3%E5%81%B6%E5%83%8F%E5%B9%B3%E7%A7%9F%E6%9D%B1%E4%BA%AC%E5%87%B6%E5%AE%85-%E8%88%87-%E7%94%B7%E9%AC%BC-%E5%90%8C%E5%B1%854%E5%B9%B4-%E7%9C%BC%E7%A5%9E%E4%B8%8D%E5%8F%8B%E5%96%84%E4%BD%86%E5%B9%AB%E6%88%91%E7%9C%81%E9%8C%A2",
+    "timestamp": "2026-11-09T15:45:48.749Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《嫁金釵》獲封《延禧攻略》進階版！田曦薇比魏瓔珞狠 有3大進化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196420177797844992678952.jpeg/lZTiGokufk8ypnmguYyMmibjbDsxN1AJWNvXSVjb10k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408745/%E6%93%9A%E5%A0%B1%E9%BB%83%E6%A8%82%E8%AA%87%E5%8F%A3-%E5%8F%AF%E5%8F%AB%E9%BB%83%E4%BB%81%E5%8B%B3%E9%81%8E%E4%BE%86-netthunder-ceo-%E7%84%B6%E5%BE%8C%E5%B0%B1%E5%87%BA%E7%8F%BE%E4%BA%86",
     "timestamp": "2026-11-09T08:53:36.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關截兩英國經深圳灣抵港包裹　揭共藏6支藥物針劑　拘2收貨人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196495600552513536064573.jpeg/prIO8ts_uGNXj_NfwMWrNI-oDdVW8UCKWNfSnVjX0p0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408737/%E6%B5%B7%E9%97%9C%E6%88%AA%E5%85%A9%E8%8B%B1%E5%9C%8B%E7%B6%93%E6%B7%B1%E5%9C%B3%E7%81%A3%E6%8A%B5%E6%B8%AF%E5%8C%85%E8%A3%B9-%E6%8F%AD%E5%85%B1%E8%97%8F6%E6%94%AF%E8%97%A5%E7%89%A9%E9%87%9D%E5%8A%91-%E6%8B%982%E6%94%B6%E8%B2%A8%E4%BA%BA",
-    "timestamp": "2026-11-09T08:40:14.659Z",
     "strategy": ".content-card__main"
   }
 ];
