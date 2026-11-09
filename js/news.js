@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T01:48:19.140Z
+// Last updated: 2026-11-09T01:59:19.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌懶人包5重點│外遇對象黃樂是誰？神秘背景被指中國間諜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196398626482425856285674.jpeg/9JABfAtDWXbgWhiqa0hwqlsBgqGASDZ50DKgidAyoIk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408530/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E6%87%B6%E4%BA%BA%E5%8C%855%E9%87%8D%E9%BB%9E-%E5%A4%96%E9%81%87%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E6%98%AF%E8%AA%B0-%E7%A5%9E%E7%A7%98%E8%83%8C%E6%99%AF%E8%A2%AB%E6%8C%87%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C",
+    "timestamp": "2026-11-09T01:59:19.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳婚外情｜特朗普：仍願帶他出訪亞洲　馬斯克稱其無可替代",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195768506776293376273986.jpeg/t0gkAPxZyPELf6RlmFWBjZx0nW0n7DaLXLqbSFy6m0g",
     "url": "https://www.hk01.com/01TV/60408193/%E5%85%83%E8%8F%AF%E5%9B%9E%E6%86%B6%E9%A6%96%E5%BA%A6%E5%B0%8D%E6%B1%BA%E6%9D%8E%E5%B0%8F%E9%BE%8D-%E5%9C%A8-%E7%B2%BE%E6%AD%A6%E9%96%80-%E9%A3%BE%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BB%94%E6%8C%A8%E8%B8%A2",
     "timestamp": "2026-11-08T19:59:00.532Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華回憶首度對決李小龍：在《精武門》飾演日本仔挨踢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195768506776293376273986.jpeg/t0gkAPxZyPELf6RlmFWBjZx0nW0n7DaLXLqbSFy6m0g",
-    "url": "https://www.hk01.com/01TV/60408193/%E5%85%83%E8%8F%AF%E5%9B%9E%E6%86%B6%E9%A6%96%E5%BA%A6%E5%B0%8D%E6%B1%BA%E6%9D%8E%E5%B0%8F%E9%BE%8D-%E5%9C%A8-%E7%B2%BE%E6%AD%A6%E9%96%80-%E9%A3%BE%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BB%94%E6%8C%A8%E8%B8%A2",
-    "timestamp": "2026-11-08T19:45:57.771Z",
     "strategy": ".content-card__main"
   }
 ];
