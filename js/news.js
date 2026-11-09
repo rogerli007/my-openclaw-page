@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T15:45:48.749Z
+// Last updated: 2026-11-09T15:57:21.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "環保署籲提防虛假回收補貼計劃　市民如曾提供資料或交易應報警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196602652809498624395862.jpeg/ROAgHZsHcP4pV0v8JoYJcVIDjBOFclULPi8UPj4vFD4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408890/%E7%92%B0%E4%BF%9D%E7%BD%B2%E7%B1%B2%E6%8F%90%E9%98%B2%E8%99%9B%E5%81%87%E5%9B%9E%E6%94%B6%E8%A3%9C%E8%B2%BC%E8%A8%88%E5%8A%83-%E5%B8%82%E6%B0%91%E5%A6%82%E6%9B%BE%E6%8F%90%E4%BE%9B%E8%B3%87%E6%96%99%E6%88%96%E4%BA%A4%E6%98%93%E6%87%89%E5%A0%B1%E8%AD%A6",
+    "timestamp": "2026-11-09T15:57:21.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女偶像平租東京凶宅　與「男鬼」同居4年：眼神不友善但幫我省錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193902621207826432761358.png/WZ3tlIDObKfLRt2SEkmA7C5be17YBHfkLIDklAmA5JQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408768/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E6%A9%9F%E9%9B%BB%E7%BD%B2%E6%9C%AA%E7%AD%94%E6%89%B9%E5%87%86%E7%94%A8%E8%AD%89%E6%99%82%E7%82%BA%E4%BD%95%E6%B2%92%E7%99%BC%E7%8F%BE-%E5%83%85%E9%87%8D%E7%94%B3%E7%AB%8B%E6%9C%83%E4%BA%A4%E4%BB%A3",
     "timestamp": "2026-11-09T09:24:47.750Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "據報黃樂誇口「可叫黃仁勳過來」　NetThunder CEO：然後就出現了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196420177797844992678952.jpeg/lZTiGokufk8ypnmguYyMmibjbDsxN1AJWNvXSVjb10k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408745/%E6%93%9A%E5%A0%B1%E9%BB%83%E6%A8%82%E8%AA%87%E5%8F%A3-%E5%8F%AF%E5%8F%AB%E9%BB%83%E4%BB%81%E5%8B%B3%E9%81%8E%E4%BE%86-netthunder-ceo-%E7%84%B6%E5%BE%8C%E5%B0%B1%E5%87%BA%E7%8F%BE%E4%BA%86",
-    "timestamp": "2026-11-09T08:53:36.219Z",
     "strategy": ".content-card__main"
   }
 ];
