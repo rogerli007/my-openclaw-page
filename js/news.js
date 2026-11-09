@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T08:40:14.659Z
+// Last updated: 2026-11-09T08:53:36.219Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "據報黃樂誇口「可叫黃仁勳過來」　NetThunder CEO：然後就出現了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196420177797844992678952.jpeg/lZTiGokufk8ypnmguYyMmibjbDsxN1AJWNvXSVjb10k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408745/%E6%93%9A%E5%A0%B1%E9%BB%83%E6%A8%82%E8%AA%87%E5%8F%A3-%E5%8F%AF%E5%8F%AB%E9%BB%83%E4%BB%81%E5%8B%B3%E9%81%8E%E4%BE%86-netthunder-ceo-%E7%84%B6%E5%BE%8C%E5%B0%B1%E5%87%BA%E7%8F%BE%E4%BA%86",
+    "timestamp": "2026-11-09T08:53:36.219Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關截兩英國經深圳灣抵港包裹　揭共藏6支藥物針劑　拘2收貨人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196404214910160896275108.png/ixiOVkuQYKuFnY1ueAuuk6-ToK0UEPAmROtP3ETrT9w",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408532/%E5%8C%97%E8%A7%92%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-%E6%9C%89%E7%89%87-%E7%94%B7%E5%AD%90%E6%8D%B1%E5%B7%B4%E5%A3%AB%E6%92%9E%E8%A1%80%E6%B5%81%E6%8A%AB%E9%9D%A2-%E5%8F%B8%E6%A9%9F%E6%9B%BE%E8%B9%B2%E4%B8%8B%E5%AF%9F%E7%9C%8B%E5%82%B7%E5%8B%A2",
     "timestamp": "2026-11-09T02:31:46.873Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BB濕疹與奶粉有關？醫拆解牛羊奶差異　選對配方高危群降風險64%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189230128144584704087613.jpeg/tjqnIi8evEWzqGfuPsTl0ZzDeVrbxt8IgMWgevXFoHo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60401582/bb%E6%BF%95%E7%96%B9%E8%88%87%E5%A5%B6%E7%B2%89%E6%9C%89%E9%97%9C-%E9%86%AB%E6%8B%86%E8%A7%A3%E7%89%9B%E7%BE%8A%E5%A5%B6%E5%B7%AE%E7%95%B0-%E9%81%B8%E5%B0%8D%E9%85%8D%E6%96%B9%E9%AB%98%E5%8D%B1%E7%BE%A4%E9%99%8D%E9%A2%A8%E9%9A%AA64",
-    "timestamp": "2026-11-09T02:19:43.681Z",
     "strategy": ".content-card__main"
   }
 ];
