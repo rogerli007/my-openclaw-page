@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T20:20:07.264Z
+// Last updated: 2026-11-09T20:45:24.640Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其鋼鐵廠爆炸至少16死　埃爾多安稱展開調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196673766869176320563082.jpeg/xrVQQhzX0G2gCxh-r1UWbe26s7JmMc1mD8rPSQ_Kz0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408906/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%8B%BC%E9%90%B5%E5%BB%A0%E7%88%86%E7%82%B8%E8%87%B3%E5%B0%9116%E6%AD%BB-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E7%A8%B1%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-09T20:45:24.640Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華留標誌性鬍鬚內幕：洪金寶嫌他「長得太𡃁仔」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196546495977885696180352.jpeg/tC3DGBcYQhIPGkjuxQkbz4ggl8mueIIweRL5UXkS-VE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408850/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-22-8%E9%BB%9E%E7%B9%BC%E7%BA%8C%E7%A8%B1%E9%9C%B8-%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E9%80%A3%E8%B7%8C%E5%B9%BE%E6%9C%88%E5%BE%8C%E7%B5%82%E5%8D%87%E7%A0%B418%E9%BB%9E",
     "timestamp": "2026-11-09T14:21:41.386Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秦陵陪葬男頭骨中箭遭肢解　顱面復原「蜂準長目」疑秦始皇之子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196579697631170560860743.jpeg/zoQSUVi-yyi7tV9ifNXaEU_OR2OXjAHM6_SAu-v0gLs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408876/%E7%A7%A6%E9%99%B5%E9%99%AA%E8%91%AC%E7%94%B7%E9%A0%AD%E9%AA%A8%E4%B8%AD%E7%AE%AD%E9%81%AD%E8%82%A2%E8%A7%A3-%E9%A1%B1%E9%9D%A2%E5%BE%A9%E5%8E%9F-%E8%9C%82%E6%BA%96%E9%95%B7%E7%9B%AE-%E7%96%91%E7%A7%A6%E5%A7%8B%E7%9A%87%E4%B9%8B%E5%AD%90",
-    "timestamp": "2026-11-09T13:53:39.190Z",
     "strategy": ".content-card__main"
   }
 ];
