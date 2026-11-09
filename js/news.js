@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T23:23:29.381Z
+// Last updated: 2026-11-09T23:44:56.264Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜特朗普：黃稱不知女方是間諜　FBI啟動調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196728496840249344952713.jpeg/Jz0QDLmcqwnU-OQiLAWQSYMwj7V-qpphTOb3ZEzm92Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408913/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%BB%83%E7%A8%B1%E4%B8%8D%E7%9F%A5%E5%A5%B3%E6%96%B9%E6%98%AF%E9%96%93%E8%AB%9C-fbi%E5%95%9F%E5%8B%95%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-09T23:44:56.264Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玫瑰戰爭劇透｜楊茜堯為證清白自插一刀　林夏薇現眼報重傷昏迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196631275889364992286403.jpeg/f-05TOraNjlJB5KZ_qxqEKlP65PYWURmGAXpNhgF6TY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408900/%E4%BD%95%E7%AB%8B%E5%B3%B0%E5%87%BA%E5%B8%AD%E4%B8%AD%E5%8A%A0%E7%B6%93%E6%BF%9F%E8%B2%A1%E9%87%91%E6%88%B0%E7%95%A5%E5%B0%8D%E8%A9%B1-%E7%A8%B1%E5%85%A9%E5%9C%8B%E4%BA%A4%E5%BE%80%E9%87%8D%E5%9B%9E%E6%AD%A3%E8%BB%8C",
     "timestamp": "2026-11-09T18:45:25.875Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港版《悠長假期》未播先惹火　海報驚現三劃「月」網民斥過份",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196630787215069184543128.jpeg/oUqh7VMLuSKD0OwspmYmnzzbKrxLTRxDI1R20iNUdtI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408901/%E6%B8%AF%E7%89%88-%E6%82%A0%E9%95%B7%E5%81%87%E6%9C%9F-%E6%9C%AA%E6%92%AD%E5%85%88%E6%83%B9%E7%81%AB-%E6%B5%B7%E5%A0%B1%E9%A9%9A%E7%8F%BE%E4%B8%89%E5%8A%83-%E6%9C%88-%E7%B6%B2%E6%B0%91%E6%96%A5%E9%81%8E%E4%BB%BD",
-    "timestamp": "2026-11-09T17:59:18.511Z",
     "strategy": ".content-card__main"
   }
 ];
