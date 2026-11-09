@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T06:57:28.185Z
+// Last updated: 2026-11-09T07:22:42.196Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "光榮冰室元朗店釘牌｜食環署：屢違反《食物業規例》　須即時停業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196479701443416064490867.png/iA20dCC7EVyfEVQr7aT3cQYlfi8CROYaC41h8guNYfI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408697/%E5%85%89%E6%A6%AE%E5%86%B0%E5%AE%A4%E5%85%83%E6%9C%97%E5%BA%97%E9%87%98%E7%89%8C-%E9%A3%9F%E7%92%B0%E7%BD%B2-%E5%B1%A2%E9%81%95%E5%8F%8D-%E9%A3%9F%E7%89%A9%E6%A5%AD%E8%A6%8F%E4%BE%8B-%E9%A0%88%E5%8D%B3%E6%99%82%E5%81%9C%E6%A5%AD",
+    "timestamp": "2026-11-09T07:22:42.196Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT法蘭克福冠軍賽｜日本包辦男女單冠軍　國乒無人入4強6站僅1冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156864592404549632615972.jpeg/gzTnyWpGJtl-f2JuMeEnSF3mOgl4qgS2cWPIq3FjyKs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408521/%E6%B8%AF%E9%90%B5%E4%BD%95%E6%96%87%E7%94%B0%E7%AB%99%E6%9C%89%E5%88%97%E8%BB%8A%E8%A8%AD%E5%82%99%E6%95%85%E9%9A%9C-%E8%A7%80%E5%A1%98%E7%B6%AB%E8%A1%8C%E8%BB%8A%E6%99%82%E9%96%93%E9%9C%80%E9%A1%8D%E5%A4%9610%E8%87%B315%E5%88%86%E9%90%98",
     "timestamp": "2026-11-09T01:00:11.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "婦遇電騙遭遠端遙控手機　警拍門反被當騙徒　借牙籤拔卡保¥500萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196061735174279168870953.png/dh8dChMcMbn-K31EnYqReXpR8LGZt1asfiJbnH4iW5w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405847/%E5%A9%A6%E9%81%87%E9%9B%BB%E9%A8%99%E9%81%AD%E9%81%A0%E7%AB%AF%E9%81%99%E6%8E%A7%E6%89%8B%E6%A9%9F-%E8%AD%A6%E6%8B%8D%E9%96%80%E5%8F%8D%E8%A2%AB%E7%95%B6%E9%A8%99%E5%BE%92-%E5%80%9F%E7%89%99%E7%B1%A4%E6%8B%94%E5%8D%A1%E4%BF%9D-500%E8%90%AC",
-    "timestamp": "2026-11-09T00:35:03.792Z",
     "strategy": ".content-card__main"
   }
 ];
