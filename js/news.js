@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T07:45:57.817Z
+// Last updated: 2026-11-09T08:26:49.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜胡錫進：中國情報界不要求女間諜以上床實現目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196413639926484992825906.jpeg/bFwP0ZFQRH8yzcbreHt9z9iilZSE5vIBqsa7QqrGu0I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408734/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%83%A1%E9%8C%AB%E9%80%B2-%E4%B8%AD%E5%9C%8B%E6%83%85%E5%A0%B1%E7%95%8C%E4%B8%8D%E8%A6%81%E6%B1%82%E5%A5%B3%E9%96%93%E8%AB%9C%E4%BB%A5%E4%B8%8A%E5%BA%8A%E5%AF%A6%E7%8F%BE%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-11-09T08:26:49.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比亞迪荷蘭辦公室遭突擊搜查　捷豹路虎控Ti7抄襲Defender",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196398626482425856285674.jpeg/9JABfAtDWXbgWhiqa0hwqlsBgqGASDZ50DKgidAyoIk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408530/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E6%87%B6%E4%BA%BA%E5%8C%855%E9%87%8D%E9%BB%9E-%E5%A4%96%E9%81%87%E5%B0%8D%E8%B1%A1%E9%BB%83%E6%A8%82%E6%98%AF%E8%AA%B0-%E7%A5%9E%E7%A7%98%E8%83%8C%E6%99%AF%E8%A2%AB%E6%8C%87%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C",
     "timestamp": "2026-11-09T01:59:19.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳婚外情｜特朗普：仍願帶他出訪亞洲　馬斯克稱其無可替代",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260916/1176863084849926144356241.jpeg/WN6_L2Q64nRW4h2MfPiSWB3YlwBPa9KGkjE6YpIxOmI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408529/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A9%9A%E5%A4%96%E6%83%85-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%8D%E9%A1%98%E5%B8%B6%E4%BB%96%E5%87%BA%E8%A8%AA%E4%BA%9E%E6%B4%B2-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%A8%B1%E5%85%B6%E7%84%A1%E5%8F%AF%E6%9B%BF%E4%BB%A3",
-    "timestamp": "2026-11-09T01:48:19.140Z",
     "strategy": ".content-card__main"
   }
 ];
