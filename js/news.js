@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T06:34:05.401Z
+// Last updated: 2026-11-09T06:57:28.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT法蘭克福冠軍賽｜日本包辦男女單冠軍　國乒無人入4強6站僅1冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196458440084426752754826.jpeg/792rgaRIwnYojF99VugOFOVTPvyW7biBT_5r8k_-a_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60408568/wtt%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F%E5%86%A0%E8%BB%8D%E8%B3%BD-%E6%97%A5%E6%9C%AC%E5%8C%85%E8%BE%A6%E7%94%B7%E5%A5%B3%E5%96%AE%E5%86%A0%E8%BB%8D-%E5%9C%8B%E4%B9%92%E7%84%A1%E4%BA%BA%E5%85%A54%E5%BC%B76%E7%AB%99%E5%83%851%E5%86%A0",
+    "timestamp": "2026-11-09T06:57:28.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "學生輔助會告職員｜CEO上立法會擬申3.8億建新大樓　遭議員質問",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261108/1196061735174279168870953.png/dh8dChMcMbn-K31EnYqReXpR8LGZt1asfiJbnH4iW5w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405847/%E5%A9%A6%E9%81%87%E9%9B%BB%E9%A8%99%E9%81%AD%E9%81%A0%E7%AB%AF%E9%81%99%E6%8E%A7%E6%89%8B%E6%A9%9F-%E8%AD%A6%E6%8B%8D%E9%96%80%E5%8F%8D%E8%A2%AB%E7%95%B6%E9%A8%99%E5%BE%92-%E5%80%9F%E7%89%99%E7%B1%A4%E6%8B%94%E5%8D%A1%E4%BF%9D-500%E8%90%AC",
     "timestamp": "2026-11-09T00:35:03.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊拉克代表團據報訪問德黑蘭　轉達美方信息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260902/1171653473666600960301574.jpeg/ZuN1LSEGij6hLZNxXZmPfN7_0xI0O5u-qmfihqpn4oY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408511/%E4%BC%8A%E6%8B%89%E5%85%8B%E4%BB%A3%E8%A1%A8%E5%9C%98%E6%93%9A%E5%A0%B1%E8%A8%AA%E5%95%8F%E5%BE%B7%E9%BB%91%E8%98%AD-%E8%BD%89%E9%81%94%E7%BE%8E%E6%96%B9%E4%BF%A1%E6%81%AF",
-    "timestamp": "2026-11-08T23:53:29.909Z",
     "strategy": ".content-card__main"
   }
 ];
