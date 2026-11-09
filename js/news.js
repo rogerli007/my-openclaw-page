@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-09T20:59:10.057Z
+// Last updated: 2026-11-09T21:13:10.488Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其鋼鐵廠爆炸至少16死　埃爾多安稱展開調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196673766869176320563082.jpeg/xrVQQhzX0G2gCxh-r1UWbe26s7JmMc1mD8rPSQ_Kz0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408906/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%8B%BC%E9%90%B5%E5%BB%A0%E7%88%86%E7%82%B8%E8%87%B3%E5%B0%9116%E6%AD%BB-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E7%A8%B1%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-09T21:13:10.488Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土耳其鋼鐵廠爆炸至少16死　埃爾多安稱展開調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195338568914964480457189.jpeg/HBO9PskUWWVoh2Mdte39NVmjB7mvcZeuPEOkrzxDpK8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408885/katy-perry%E5%BD%B1%E6%98%9F%E5%89%8D%E5%A4%ABrussell-brand-%E5%9B%A0%E5%BC%B7%E5%A7%A6%E5%8F%8A%E6%80%A7%E4%BE%B5%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%9B%9A10%E5%B9%B4%E5%8D%8A",
     "timestamp": "2026-11-09T14:59:18.429Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鼓鼓呂思緯、蕭秉治、蕭景鴻、小魏魏嘉瑩田中馬拉松熱情開唱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196564769985794048386709.jpeg/cqejEVRZId8ePOMr2GqpvZhdK7k-DfTbP29NAj9vTQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60408865/%E9%BC%93%E9%BC%93%E5%91%82%E6%80%9D%E7%B7%AF-%E8%95%AD%E7%A7%89%E6%B2%BB-%E8%95%AD%E6%99%AF%E9%B4%BB-%E5%B0%8F%E9%AD%8F%E9%AD%8F%E5%98%89%E7%91%A9%E7%94%B0%E4%B8%AD%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%86%B1%E6%83%85%E9%96%8B%E5%94%B1",
-    "timestamp": "2026-11-09T14:45:36.250Z",
     "strategy": ".content-card__main"
   }
 ];
