@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T06:27:01.802Z
+// Last updated: 2026-11-10T06:59:10.218Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DSE｜英文閱讀卷　引文作答考生仍串錯字　 slower 寫成 shower",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196826283602874368417839.jpeg/9pPSEAlEabj_dTWMhDn8IpND8rf5yOxsse5FHbHuRR0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409084/dse-%E8%8B%B1%E6%96%87%E9%96%B1%E8%AE%80%E5%8D%B7-%E5%BC%95%E6%96%87%E4%BD%9C%E7%AD%94%E8%80%83%E7%94%9F%E4%BB%8D%E4%B8%B2%E9%8C%AF%E5%AD%97-slower-%E5%AF%AB%E6%88%90-shower",
+    "timestamp": "2026-11-10T06:59:10.218Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藍田麗港城擬引人臉識別　物管業界：新樓已用多年　保安程度較高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196739207725322240308695.jpeg/FWbvxG0Mhgo5vweKlIMbyN6FDpWyzY9n7CYT6OwmE-g",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408917/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B7%B1%E5%AE%B5%E6%95%A3%E8%90%BD%E5%8D%A1%E6%9D%BF%E7%9F%B3%E5%A1%8A-9%E8%BB%8A%E7%96%91%E4%B8%AD%E6%8B%9B%E7%88%86%E8%83%8E%E6%88%96%E5%88%AE%E8%8A%B1",
     "timestamp": "2026-11-10T00:49:46.121Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車CAM｜北大嶼山公路散落卡板石塊　9車疑中招　部份爆胎或刮花",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196739207725322240308695.jpeg/FWbvxG0Mhgo5vweKlIMbyN6FDpWyzY9n7CYT6OwmE-g",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408917/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%95%A3%E8%90%BD%E5%8D%A1%E6%9D%BF%E7%9F%B3%E5%A1%8A-9%E8%BB%8A%E7%96%91%E4%B8%AD%E6%8B%9B-%E9%83%A8%E4%BB%BD%E7%88%86%E8%83%8E%E6%88%96%E5%88%AE%E8%8A%B1",
-    "timestamp": "2026-11-10T00:35:53.468Z",
     "strategy": ".content-card__main"
   }
 ];
