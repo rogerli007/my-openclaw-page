@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T07:21:06.548Z
+// Last updated: 2026-11-10T07:45:20.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本前自衛隊員擅闖中國大使館　檢方要求囚1.5年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114156126099738624659834.png/KMQHLTmQrEZtuOmwyAeq-RhBOVaENHzhqrmFo6q5haM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409131/%E6%97%A5%E6%9C%AC%E5%89%8D%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%93%A1%E6%93%85%E9%97%96%E4%B8%AD%E5%9C%8B%E5%A4%A7%E4%BD%BF%E9%A4%A8-%E6%AA%A2%E6%96%B9%E8%A6%81%E6%B1%82%E5%9B%9A1-5%E5%B9%B4",
+    "timestamp": "2026-11-10T07:45:20.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲律賓棉蘭老島有私人飛機墜毀　機上6名外國公民生死未卜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196733990543822848210546.jpeg/Y_bf77d9JWcLXnf2r__2JynW0HISeC6nWWjuMVlo7jE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60408088/%E5%BB%96%E5%95%9F%E6%99%BA%E6%AC%A1%E5%AD%90%E7%9D%87-%E6%88%91%E9%98%BF%E7%88%B9%E6%83%B3%E6%97%85%E8%A1%8C-%E6%86%B6%E9%9B%99%E8%A6%AA%E6%9C%AA%E9%99%AA%E7%88%B6%E9%A8%8E%E9%A6%AC%E7%95%99%E6%86%BE-%E6%99%82%E9%96%93%E4%B8%8D%E7%AD%89%E4%BA%BA",
     "timestamp": "2026-11-10T01:20:16.889Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜身份等同英偉達　AI產業最關鍵的晶片帝國陷接班危機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156911118321455104453876.jpeg/-eN7fCdwZ0BBTwGfL1y4xm4M1eOt2u60KcltxSnJbcU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408920/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%BA%AB%E4%BB%BD%E7%AD%89%E5%90%8C%E8%8B%B1%E5%81%89%E9%81%94-ai%E7%94%A2%E6%A5%AD%E6%9C%80%E9%97%9C%E9%8D%B5%E7%9A%84%E6%99%B6%E7%89%87%E5%B8%9D%E5%9C%8B%E9%99%B7%E6%8E%A5%E7%8F%AD%E5%8D%B1%E6%A9%9F",
-    "timestamp": "2026-11-10T01:04:01.879Z",
     "strategy": ".content-card__main"
   }
 ];
