@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T21:19:26.853Z
+// Last updated: 2026-11-10T21:44:51.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺男工貨車尾上落貨　1米高意外墮下　頭傷清醒送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197056101271474176489236.jpeg/ZANnbcBENEqA8sLpWm4TPyZFFHY5vp0Z--E4msHhOJo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409361/%E7%B2%89%E5%B6%BA%E7%94%B7%E5%B7%A5%E8%B2%A8%E8%BB%8A%E5%B0%BE%E4%B8%8A%E8%90%BD%E8%B2%A8-1%E7%B1%B3%E9%AB%98%E6%84%8F%E5%A4%96%E5%A2%AE%E4%B8%8B-%E9%A0%AD%E5%82%B7%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-11-10T21:44:51.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美陸軍41歲高級士兵涉協助俄羅斯情報部門　在英國遭當地警方逮捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049830299971620864836107.jpeg/Zi8zOhWF2220rO4q9qvIco1UCsGv6ofY7xNO5u8TTuY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409331/%E7%BE%8E%E8%82%A1-%E7%BE%8E10%E6%9C%88%E9%80%9A%E8%84%B9%E9%AB%98%E6%96%BC%E9%A0%90%E6%9C%9F-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E8%B7%8C%E9%80%BE300%E9%BB%9E-nvidia%E6%8C%AB%E9%80%BE4",
     "timestamp": "2026-11-10T15:19:38.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬國明高海寧同陳豪地位超然企正C位　「劇王」羅子溢都要靠邊站",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196947031717842944509726.jpeg/j_kcEXTyO2iVvFHXkFuC5KSQgYZl0S1sQCF2OEAhdjg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409324/%E9%A6%AC%E5%9C%8B%E6%98%8E%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%90%8C%E9%99%B3%E8%B1%AA%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6%E4%BC%81%E6%AD%A3c%E4%BD%8D-%E5%8A%87%E7%8E%8B-%E7%BE%85%E5%AD%90%E6%BA%A2%E9%83%BD%E8%A6%81%E9%9D%A0%E9%82%8A%E7%AB%99",
-    "timestamp": "2026-11-10T14:59:04.702Z",
     "strategy": ".content-card__main"
   }
 ];
