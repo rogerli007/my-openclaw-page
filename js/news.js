@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T03:45:20.649Z
+// Last updated: 2026-11-10T03:59:12.638Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美俄烏三方會談登場　美方據報要求俄允烏獲類似北約安全保障",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030374653551448064347120.jpeg/Eph_mt1sANLiz8UnIHM3Pu2xafzSi93DfNnJ33zZyd8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408999/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E7%99%BB%E5%A0%B4-%E7%BE%8E%E6%96%B9%E6%93%9A%E5%A0%B1%E8%A6%81%E6%B1%82%E4%BF%84%E5%85%81%E7%83%8F%E7%8D%B2%E9%A1%9E%E4%BC%BC%E5%8C%97%E7%B4%84%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C",
+    "timestamp": "2026-11-10T03:59:12.638Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "臺日電梯｜姚潔凝：涉事升降機數字驚人　倡引入獨立第三方檢驗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971300012396544072495.jpeg/5YW1QeDr8X-aBPuD8uai0Sq7DX0_1YTvoOn0RaDp9EU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408908/%E8%AD%A6%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%88%AA%E6%9F%A5%E9%9B%BB%E5%96%AE%E8%BB%8A-32%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%B1%8D%E7%94%B7%E9%85%92%E7%B2%BE%E8%B6%85%E6%A8%99%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-09T22:24:00.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警堅尼地城設路障截查電單車　32歲尼泊爾籍男酒精超標涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971300012396544072495.jpeg/5YW1QeDr8X-aBPuD8uai0Sq7DX0_1YTvoOn0RaDp9EU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408908/%E8%AD%A6%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%88%AA%E6%9F%A5%E9%9B%BB%E5%96%AE%E8%BB%8A-32%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%B1%8D%E7%94%B7%E9%85%92%E7%B2%BE%E8%B6%85%E6%A8%99%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-09T22:18:27.101Z",
     "strategy": ".content-card__main"
   }
 ];
