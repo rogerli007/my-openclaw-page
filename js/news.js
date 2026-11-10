@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T16:45:19.666Z
+// Last updated: 2026-11-10T16:59:19.016Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "01球評︱曼聯今日災禍誰之過？　拉傑夫英明老闆變衰落加速師",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196934688388681728239876.jpeg/83mP6vIlbcbSKA-KPvfzCKu-7AD8iYjjuyMBb7sjAW8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60409314/01%E7%90%83%E8%A9%95-%E6%9B%BC%E8%81%AF%E4%BB%8A%E6%97%A5%E7%81%BD%E7%A6%8D%E8%AA%B0%E4%B9%8B%E9%81%8E-%E6%8B%89%E5%82%91%E5%A4%AB%E8%8B%B1%E6%98%8E%E8%80%81%E9%97%86%E8%AE%8A%E8%A1%B0%E8%90%BD%E5%8A%A0%E9%80%9F%E5%B8%AB",
+    "timestamp": "2026-11-10T16:59:19.016Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒報道港人沖繩任潛水教練黑工被捕　入境處︰正了解涉案人身份",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196842906388795392506714.jpeg/z9IFN-lxQZiETkRWWj0XLVHRpHcP4Gj2x4HT9MeB0_Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409115/%E9%83%AD%E7%BE%A8%E5%A6%AE14%E6%AD%B2%E6%84%9B%E5%A5%B3%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E5%A4%A7%E8%88%9E%E5%8F%B0%E7%8D%BB%E8%8A%B1-%E7%9C%89%E5%AE%87%E6%A5%B5%E4%BC%BC%E5%AA%BD%E5%92%AA%E5%AE%8C%E7%BE%8E%E7%B9%BC%E6%89%BF%E7%BE%8E%E8%B2%8C",
     "timestamp": "2026-11-10T10:20:14.766Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳環保大道包裹起火｜區議員憂安全隱患　倡規劃專屬理貨區",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196877377095864320145769.jpeg/HKY0SaGk596Yo72zucqUKQXyes5uVsOelWVJaJVlSWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409209/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%92%B0%E4%BF%9D%E5%A4%A7%E9%81%93%E5%8C%85%E8%A3%B9%E8%B5%B7%E7%81%AB-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%86%82%E5%AE%89%E5%85%A8%E9%9A%B1%E6%82%A3-%E5%80%A1%E8%A6%8F%E5%8A%83%E5%B0%88%E5%B1%AC%E7%90%86%E8%B2%A8%E5%8D%80",
-    "timestamp": "2026-11-10T09:59:05.946Z",
     "strategy": ".content-card__main"
   }
 ];
