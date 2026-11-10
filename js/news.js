@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T01:59:11.035Z
+// Last updated: 2026-11-10T02:23:57.369Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紐時：美商務部疑在英偉達介入後　中止針對Megaspeed 晶片輸中案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131602020432613376390478.jpeg/6r2Mq-TEdO7xYOCGa593oitvzFSF6mRgxD5YUMQ-WFA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408952/%E7%B4%90%E6%99%82-%E7%BE%8E%E5%95%86%E5%8B%99%E9%83%A8%E7%96%91%E5%9C%A8%E8%8B%B1%E5%81%89%E9%81%94%E4%BB%8B%E5%85%A5%E5%BE%8C-%E4%B8%AD%E6%AD%A2%E9%87%9D%E5%B0%8Dmegaspeed-%E6%99%B6%E7%89%87%E8%BC%B8%E4%B8%AD%E6%A1%88",
+    "timestamp": "2026-11-10T02:23:57.369Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜「斬殺」黃仁勳是美國政治惡鬥的具象化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196673766869176320563082.jpeg/xrVQQhzX0G2gCxh-r1UWbe26s7JmMc1mD8rPSQ_Kz0k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408906/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%8B%BC%E9%90%B5%E5%BB%A0%E7%88%86%E7%82%B8%E8%87%B3%E5%B0%9116%E6%AD%BB-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E7%A8%B1%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-09T20:59:10.057Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土耳其鋼鐵廠爆炸至少16死　埃爾多安稱展開調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196673766869176320563082.jpeg/xrVQQhzX0G2gCxh-r1UWbe26s7JmMc1mD8rPSQ_Kz0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408906/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%8B%BC%E9%90%B5%E5%BB%A0%E7%88%86%E7%82%B8%E8%87%B3%E5%B0%9116%E6%AD%BB-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E7%A8%B1%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-09T20:45:24.640Z",
     "strategy": ".content-card__main"
   }
 ];
