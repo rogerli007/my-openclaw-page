@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T02:23:57.369Z
+// Last updated: 2026-11-10T02:35:21.393Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玫瑰戰爭｜姚子羚大爆娛樂圈明爭暗鬥屢遭抹黑加害：問佢都唔會認",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196582582758674432602491.jpeg/iavUG0jFqMQyBYW4YAfXqLm7LAbLHPxgNIpXwA6KV8A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408882/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E5%A7%9A%E5%AD%90%E7%BE%9A%E5%A4%A7%E7%88%86%E5%A8%9B%E6%A8%82%E5%9C%88%E6%98%8E%E7%88%AD%E6%9A%97%E9%AC%A5%E5%B1%A2%E9%81%AD%E6%8A%B9%E9%BB%91%E5%8A%A0%E5%AE%B3-%E5%95%8F%E4%BD%A2%E9%83%BD%E5%94%94%E6%9C%83%E8%AA%8D",
+    "timestamp": "2026-11-10T02:35:21.393Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紐時：美商務部疑在英偉達介入後　中止針對Megaspeed 晶片輸中案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196673766869176320563082.jpeg/xrVQQhzX0G2gCxh-r1UWbe26s7JmMc1mD8rPSQ_Kz0k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408906/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%8B%BC%E9%90%B5%E5%BB%A0%E7%88%86%E7%82%B8%E8%87%B3%E5%B0%9116%E6%AD%BB-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E7%A8%B1%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-09T21:13:10.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土耳其鋼鐵廠爆炸至少16死　埃爾多安稱展開調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196673766869176320563082.jpeg/xrVQQhzX0G2gCxh-r1UWbe26s7JmMc1mD8rPSQ_Kz0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408906/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%8B%BC%E9%90%B5%E5%BB%A0%E7%88%86%E7%82%B8%E8%87%B3%E5%B0%9116%E6%AD%BB-%E5%9F%83%E7%88%BE%E5%A4%9A%E5%AE%89%E7%A8%B1%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-09T20:59:10.057Z",
     "strategy": ".content-card__main"
   }
 ];
