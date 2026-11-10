@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T12:37:29.973Z
+// Last updated: 2026-11-10T12:59:08.076Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地劇宣傳走火入魔？《折月亮》林一盧昱曉粉絲見面會變婚禮現場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196823182430965760953740.png/qSoJHuNAc2f0-ykVMaKsCClEeDUg_k_pc_kZ8HP5GfA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60408975/%E5%85%A7%E5%9C%B0%E5%8A%87%E5%AE%A3%E5%82%B3%E8%B5%B0%E7%81%AB%E5%85%A5%E9%AD%94-%E6%8A%98%E6%9C%88%E4%BA%AE-%E6%9E%97%E4%B8%80%E7%9B%A7%E6%98%B1%E6%9B%89%E7%B2%89%E7%B5%B2%E8%A6%8B%E9%9D%A2%E6%9C%83%E8%AE%8A%E5%A9%9A%E7%A6%AE%E7%8F%BE%E5%A0%B4",
+    "timestamp": "2026-11-10T12:59:08.076Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "男賊涉兩度潛入觀塘地盤　偷走高價建材轉售圖利　警查｢銳眼｣拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196826653024587776297065.jpeg/LAhXEIVi8ofRsOkx2WHn_1MP3DEQzAea9fPOkfXzzpE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409058/%E8%97%8D%E7%94%B0%E9%BA%97%E6%B8%AF%E5%9F%8E%E6%93%AC%E5%BC%95%E4%BA%BA%E8%87%89%E8%AD%98%E5%88%A5-%E7%89%A9%E7%AE%A1%E6%A5%AD%E7%95%8C-%E6%96%B0%E6%A8%93%E5%B7%B2%E7%94%A8%E5%A4%9A%E5%B9%B4-%E4%BF%9D%E5%AE%89%E7%A8%8B%E5%BA%A6%E8%BC%83%E9%AB%98",
     "timestamp": "2026-11-10T06:27:01.802Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Meta AI年齡估算技術擴至香港Instagram　防青少年虛報年齡開戶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409062/meta-ai%E5%B9%B4%E9%BD%A1%E4%BC%B0%E7%AE%97%E6%8A%80%E8%A1%93%E6%93%B4%E8%87%B3%E9%A6%99%E6%B8%AFinstagram-%E9%98%B2%E9%9D%92%E5%B0%91%E5%B9%B4%E8%99%9B%E5%A0%B1%E5%B9%B4%E9%BD%A1%E9%96%8B%E6%88%B6",
-    "timestamp": "2026-11-10T05:59:13.318Z",
     "strategy": ".content-card__main"
   }
 ];
