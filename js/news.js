@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T19:18:40.845Z
+// Last updated: 2026-11-10T19:29:22.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華憑《功夫》勇奪最佳男配角：功名利祿皆如雲煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195777967335149568182569.jpeg/9Bc2NIJ0nGn9-44wRhJbcxEBliyzrRecSga4lEoGuJQ",
+    "url": "https://www.hk01.com/01TV/60408213/%E5%85%83%E8%8F%AF%E6%86%91-%E5%8A%9F%E5%A4%AB-%E5%8B%87%E5%A5%AA%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92-%E5%8A%9F%E5%90%8D%E5%88%A9%E7%A5%BF%E7%9A%86%E5%A6%82%E9%9B%B2%E7%85%99",
+    "timestamp": "2026-11-10T19:29:22.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華憑《功夫》勇奪最佳男配角：功名利祿皆如雲煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196823182430965760953740.png/qSoJHuNAc2f0-ykVMaKsCClEeDUg_k_pc_kZ8HP5GfA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60408975/%E5%85%A7%E5%9C%B0%E5%8A%87%E5%AE%A3%E5%82%B3%E8%B5%B0%E7%81%AB%E5%85%A5%E9%AD%94-%E6%8A%98%E6%9C%88%E4%BA%AE-%E6%9E%97%E4%B8%80%E7%9B%A7%E6%98%B1%E6%9B%89%E7%B2%89%E7%B5%B2%E8%A6%8B%E9%9D%A2%E6%9C%83%E8%AE%8A%E5%A9%9A%E7%A6%AE%E7%8F%BE%E5%A0%B4",
     "timestamp": "2026-11-10T12:59:08.076Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男賊涉兩度潛入觀塘地盤　偷走高價建材轉售圖利　警查｢銳眼｣拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196922088980484096498167.jpeg/omsK3KEC-8PQ1pxSDtArk_i69doMLxDIKk2jWCpNo1g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409300/%E7%94%B7%E8%B3%8A%E6%B6%89%E5%85%A9%E5%BA%A6%E6%BD%9B%E5%85%A5%E8%A7%80%E5%A1%98%E5%9C%B0%E7%9B%A4-%E5%81%B7%E8%B5%B0%E9%AB%98%E5%83%B9%E5%BB%BA%E6%9D%90%E8%BD%89%E5%94%AE%E5%9C%96%E5%88%A9-%E8%AD%A6%E6%9F%A5-%E9%8A%B3%E7%9C%BC-%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-11-10T12:37:29.973Z",
     "strategy": ".content-card__main"
   }
 ];
