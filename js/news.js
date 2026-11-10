@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T13:45:26.348Z
+// Last updated: 2026-11-10T13:59:09.886Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新冠｜孔繁毅指50歲以上疫苗接種率僅1.27%　西醫工會倡增接種點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196900461081268224648132.jpeg/pvSgCMZAQecFCZtthvF1pakW897kUhZ8qoEY-aqBGPk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409278/%E6%96%B0%E5%86%A0-%E5%AD%94%E7%B9%81%E6%AF%85%E6%8C%8750%E6%AD%B2%E4%BB%A5%E4%B8%8A%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE%E7%8E%87%E5%83%851-27-%E8%A5%BF%E9%86%AB%E5%B7%A5%E6%9C%83%E5%80%A1%E5%A2%9E%E6%8E%A5%E7%A8%AE%E9%BB%9E",
+    "timestamp": "2026-11-10T13:59:09.886Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前港姐亞軍龐卓欣升呢人妻大解放　偕一眾名媛閨密出海曬S曲線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114156126099738624659834.png/KMQHLTmQrEZtuOmwyAeq-RhBOVaENHzhqrmFo6q5haM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409131/%E6%97%A5%E6%9C%AC%E5%89%8D%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%93%A1%E6%93%85%E9%97%96%E4%B8%AD%E5%9C%8B%E5%A4%A7%E4%BD%BF%E9%A4%A8-%E6%AA%A2%E6%96%B9%E8%A6%81%E6%B1%82%E5%9B%9A1-5%E5%B9%B4",
     "timestamp": "2026-11-10T07:45:20.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "菲律賓棉蘭老島有私人飛機墜毀　機上6名外國公民生死未卜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230331/718499811669577728752643.jpeg/73ZEa_WrR6Dg2MP508IQM11NqVk14OJA9dnPjvXZz44?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409110/%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%A3%89%E8%98%AD%E8%80%81%E5%B3%B6%E6%9C%89%E7%A7%81%E4%BA%BA%E9%A3%9B%E6%A9%9F%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E5%90%8D%E5%A4%96%E5%9C%8B%E5%85%AC%E6%B0%91%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C",
-    "timestamp": "2026-11-10T07:21:06.548Z",
     "strategy": ".content-card__main"
   }
 ];
