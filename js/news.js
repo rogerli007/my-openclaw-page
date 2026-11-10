@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T16:21:23.993Z
+// Last updated: 2026-11-10T16:45:19.666Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒報道港人沖繩任潛水教練黑工被捕　入境處︰正了解涉案人身份",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196973051799932928268493.png/L1XANy3MUVUDp22hBR60b0_tXBg1eXPb1g2CxtYNgsY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409330/%E6%97%A5%E5%AA%92%E5%A0%B1%E9%81%93%E6%B8%AF%E4%BA%BA%E6%B2%96%E7%B9%A9%E4%BB%BB%E6%BD%9B%E6%B0%B4%E6%95%99%E7%B7%B4%E9%BB%91%E5%B7%A5%E8%A2%AB%E6%8D%95-%E5%85%A5%E5%A2%83%E8%99%95-%E6%AD%A3%E4%BA%86%E8%A7%A3%E6%B6%89%E6%A1%88%E4%BA%BA%E8%BA%AB%E4%BB%BD",
+    "timestamp": "2026-11-10T16:45:19.666Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國產化率破90%突破封鎖　新一代光刻機步入量產　關鍵部件全自主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196877377095864320145769.jpeg/HKY0SaGk596Yo72zucqUKQXyes5uVsOelWVJaJVlSWg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409209/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%92%B0%E4%BF%9D%E5%A4%A7%E9%81%93%E5%8C%85%E8%A3%B9%E8%B5%B7%E7%81%AB-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%86%82%E5%AE%89%E5%85%A8%E9%9A%B1%E6%82%A3-%E5%80%A1%E8%A6%8F%E5%8A%83%E5%B0%88%E5%B1%AC%E7%90%86%E8%B2%A8%E5%8D%80",
     "timestamp": "2026-11-10T09:59:05.946Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Rick Owens x adidas Originals 最新聯乘鞋款將於11月17日發售",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196876499051876352235870.jpeg/7w_1Yo6-zXjvH_L5xItiD51BjiZ8vwjbUz1bvlM9W74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60409105/rick-owens-x-adidas-originals-%E6%9C%80%E6%96%B0%E8%81%AF%E4%B9%98%E9%9E%8B%E6%AC%BE%E5%B0%87%E6%96%BC11%E6%9C%8817%E6%97%A5%E7%99%BC%E5%94%AE",
-    "timestamp": "2026-11-10T09:45:27.386Z",
     "strategy": ".content-card__main"
   }
 ];
