@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T11:59:09.659Z
+// Last updated: 2026-11-10T12:24:27.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玫瑰戰爭｜陳豪搏命寵粉做足表情　粉絲事後崩潰：佢熄咗錄影",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196781669428760576430987.jpeg/3bvpvBqgCrzFzdqirPXaBh67xk0ScI9mXuwYBF7sGAQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408974/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E9%99%B3%E8%B1%AA%E6%90%8F%E5%91%BD%E5%AF%B5%E7%B2%89%E5%81%9A%E8%B6%B3%E8%A1%A8%E6%83%85-%E7%B2%89%E7%B5%B2%E4%BA%8B%E5%BE%8C%E5%B4%A9%E6%BD%B0-%E4%BD%A2%E7%86%84%E5%92%97%E9%8C%84%E5%BD%B1",
+    "timestamp": "2026-11-10T12:24:27.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "網傳「飛將軍」現昂坪360游繩拯救　實為跨部門演習模擬纜車故障",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250407/985935726971457536312974.jpeg/Y2EC3UZCC_6QGC1p6g_qrw_Yz6CYj9-QpVhB849YQfM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409056/%E5%B1%AF%E9%96%8023%E6%AD%B2%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%8F%8B%E5%BB%9A%E6%88%BF%E5%88%80%E8%A5%B2%E6%93%8A-%E5%89%8D%E9%A1%8D%E7%95%99%E5%82%B7%E7%97%95-%E8%AD%A6%E7%B7%9D38%E6%AD%B2%E6%BC%A2",
     "timestamp": "2026-11-10T05:45:36.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周杰倫歎日料開近50萬天價紅酒　網民驚呼：一餐飯飲咗部名車！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196780098963902464310692.jpeg/pHN01F8UczumHyv5NFHHABCI2OTNvF0Qx_6ymsf-spo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408972/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%AD%8E%E6%97%A5%E6%96%99%E9%96%8B%E8%BF%9150%E8%90%AC%E5%A4%A9%E5%83%B9%E7%B4%85%E9%85%92-%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%91%BC-%E4%B8%80%E9%A4%90%E9%A3%AF%E9%A3%B2%E5%92%97%E9%83%A8%E5%90%8D%E8%BB%8A",
-    "timestamp": "2026-11-10T05:20:47.385Z",
     "strategy": ".content-card__main"
   }
 ];
