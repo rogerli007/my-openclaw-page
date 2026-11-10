@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T04:59:10.581Z
+// Last updated: 2026-11-10T05:20:47.385Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周杰倫歎日料開近50萬天價紅酒　網民驚呼：一餐飯飲咗部名車！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196780098963902464310692.jpeg/pHN01F8UczumHyv5NFHHABCI2OTNvF0Qx_6ymsf-spo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408972/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%AD%8E%E6%97%A5%E6%96%99%E9%96%8B%E8%BF%9150%E8%90%AC%E5%A4%A9%E5%83%B9%E7%B4%85%E9%85%92-%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%91%BC-%E4%B8%80%E9%A4%90%E9%A3%AF%E9%A3%B2%E5%92%97%E9%83%A8%E5%90%8D%E8%BB%8A",
+    "timestamp": "2026-11-10T05:20:47.385Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小巴司機毒駕｜業界指司機質素參差　難強制驗毒　靠內部通報把關",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196623541332611072021579.jpeg/WTWCpQPFbRFLb2HHkdLecJJIjXcQTQOp8PtzUvD7c1I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408891/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD%E5%8A%87%E9%80%8F-%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%82%BA%E8%AD%89%E6%B8%85%E7%99%BD%E8%87%AA%E6%8F%92%E4%B8%80%E5%88%80-%E6%9E%97%E5%A4%8F%E8%96%87%E7%8F%BE%E7%9C%BC%E5%A0%B1%E9%87%8D%E5%82%B7%E6%98%8F%E8%BF%B7",
     "timestamp": "2026-11-09T23:23:29.381Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "教育臻善｜一張能量卡，連起你我的心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195423300948332544763510.jpeg/2usYGrEuTu1vxnEDUn-fJGag9Hm2TgajMtGncjLRp3I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%9C%92/60407921/%E6%95%99%E8%82%B2%E8%87%BB%E5%96%84-%E4%B8%80%E5%BC%B5%E8%83%BD%E9%87%8F%E5%8D%A1-%E9%80%A3%E8%B5%B7%E4%BD%A0%E6%88%91%E7%9A%84%E5%BF%83",
-    "timestamp": "2026-11-09T23:18:23.202Z",
     "strategy": ".content-card__main"
   }
 ];
