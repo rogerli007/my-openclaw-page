@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T21:59:00.769Z
+// Last updated: 2026-11-10T22:19:50.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今早市區約18度　新界部份地區12度或以下　日間最高約25度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197067735935356928502341.jpeg/tEvfem36XeV8mPjNlNB9Xm43oHgjZbWjrgTLOq4Eyzo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60409349/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B8%82%E5%8D%80%E7%B4%8418%E5%BA%A6-%E6%96%B0%E7%95%8C%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%8012%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8B-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8425%E5%BA%A6",
+    "timestamp": "2026-11-10T22:19:50.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雷扎伊否認將與萬斯會面　伊朗外長：沒有此類會面計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196888295452184576963418.png/WhKJ2upXO7FnM9Fuo2jirdv_kQCj-0TyB6afxQemn8U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60409267/%E5%9C%8B%E7%94%A2%E5%8C%96%E7%8E%87%E7%A0%B490-%E7%AA%81%E7%A0%B4%E5%B0%81%E9%8E%96-%E6%96%B0%E4%B8%80%E4%BB%A3%E5%85%89%E5%88%BB%E6%A9%9F%E6%AD%A5%E5%85%A5%E9%87%8F%E7%94%A2-%E9%97%9C%E9%8D%B5%E9%83%A8%E4%BB%B6%E5%85%A8%E8%87%AA%E4%B8%BB",
     "timestamp": "2026-11-10T16:21:23.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "魯比奧：美對伊朗經濟制裁與海上封鎖效果顯著　無需恢復軍事行動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193499826977771520402195.jpeg/_aTAa_p7mCIVNebxgefAw7xN5mahfrwxVgxtblYMbW4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409337/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%B6%93%E6%BF%9F%E5%88%B6%E8%A3%81%E8%88%87%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%8E%96%E6%95%88%E6%9E%9C%E9%A1%AF%E8%91%97-%E7%84%A1%E9%9C%80%E6%81%A2%E5%BE%A9%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
-    "timestamp": "2026-11-10T15:44:18.999Z",
     "strategy": ".content-card__main"
   }
 ];
