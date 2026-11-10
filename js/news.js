@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T21:44:51.401Z
+// Last updated: 2026-11-10T21:59:00.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雷扎伊否認將與萬斯會面　伊朗外長：沒有此類會面計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170067481067261952693170.jpeg/_yC_RhoPcHJTNoQyvWjx8VYpZbQPTIH5yLhyDci4cg0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409362/%E9%9B%B7%E6%89%8E%E4%BC%8A%E5%90%A6%E8%AA%8D%E5%B0%87%E8%88%87%E8%90%AC%E6%96%AF%E6%9C%83%E9%9D%A2-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%B2%92%E6%9C%89%E6%AD%A4%E9%A1%9E%E6%9C%83%E9%9D%A2%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-11-10T21:59:00.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺男工貨車尾上落貨　1米高意外墮下　頭傷清醒送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261101/1193499826977771520402195.jpeg/_aTAa_p7mCIVNebxgefAw7xN5mahfrwxVgxtblYMbW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409337/%E9%AD%AF%E6%AF%94%E5%A5%A7-%E7%BE%8E%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%B6%93%E6%BF%9F%E5%88%B6%E8%A3%81%E8%88%87%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%8E%96%E6%95%88%E6%9E%9C%E9%A1%AF%E8%91%97-%E7%84%A1%E9%9C%80%E6%81%A2%E5%BE%A9%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-11-10T15:44:18.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜美10月通脹高於預期　道指早段跌逾300點　Nvidia挫逾4%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049830299971620864836107.jpeg/Zi8zOhWF2220rO4q9qvIco1UCsGv6ofY7xNO5u8TTuY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409331/%E7%BE%8E%E8%82%A1-%E7%BE%8E10%E6%9C%88%E9%80%9A%E8%84%B9%E9%AB%98%E6%96%BC%E9%A0%90%E6%9C%9F-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E8%B7%8C%E9%80%BE300%E9%BB%9E-nvidia%E6%8C%AB%E9%80%BE4",
-    "timestamp": "2026-11-10T15:19:38.466Z",
     "strategy": ".content-card__main"
   }
 ];
