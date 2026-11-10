@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T05:59:13.318Z
+// Last updated: 2026-11-10T06:27:01.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藍田麗港城擬引人臉識別　物管業界：新樓已用多年　保安程度較高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196826653024587776297065.jpeg/LAhXEIVi8ofRsOkx2WHn_1MP3DEQzAea9fPOkfXzzpE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409058/%E8%97%8D%E7%94%B0%E9%BA%97%E6%B8%AF%E5%9F%8E%E6%93%AC%E5%BC%95%E4%BA%BA%E8%87%89%E8%AD%98%E5%88%A5-%E7%89%A9%E7%AE%A1%E6%A5%AD%E7%95%8C-%E6%96%B0%E6%A8%93%E5%B7%B2%E7%94%A8%E5%A4%9A%E5%B9%B4-%E4%BF%9D%E5%AE%89%E7%A8%8B%E5%BA%A6%E8%BC%83%E9%AB%98",
+    "timestamp": "2026-11-10T06:27:01.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Meta AI年齡估算技術擴至香港Instagram　防青少年虛報年齡開戶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196739207725322240308695.jpeg/FWbvxG0Mhgo5vweKlIMbyN6FDpWyzY9n7CYT6OwmE-g",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408917/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%95%A3%E8%90%BD%E5%8D%A1%E6%9D%BF%E7%9F%B3%E5%A1%8A-9%E8%BB%8A%E7%96%91%E4%B8%AD%E6%8B%9B-%E9%83%A8%E4%BB%BD%E7%88%86%E8%83%8E%E6%88%96%E5%88%AE%E8%8A%B1",
     "timestamp": "2026-11-10T00:35:53.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜特朗普：黃稱不知女方是間諜　FBI啟動調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196728496840249344952713.jpeg/Jz0QDLmcqwnU-OQiLAWQSYMwj7V-qpphTOb3ZEzm92Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408913/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%BB%83%E7%A8%B1%E4%B8%8D%E7%9F%A5%E5%A5%B3%E6%96%B9%E6%98%AF%E9%96%93%E8%AB%9C-fbi%E5%95%9F%E5%8B%95%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-09T23:53:18.335Z",
     "strategy": ".content-card__main"
   }
 ];
