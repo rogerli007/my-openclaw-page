@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T05:45:36.104Z
+// Last updated: 2026-11-10T05:59:13.318Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Meta AI年齡估算技術擴至香港Instagram　防青少年虛報年齡開戶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409062/meta-ai%E5%B9%B4%E9%BD%A1%E4%BC%B0%E7%AE%97%E6%8A%80%E8%A1%93%E6%93%B4%E8%87%B3%E9%A6%99%E6%B8%AFinstagram-%E9%98%B2%E9%9D%92%E5%B0%91%E5%B9%B4%E8%99%9B%E5%A0%B1%E5%B9%B4%E9%BD%A1%E9%96%8B%E6%88%B6",
+    "timestamp": "2026-11-10T05:59:13.318Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門23歲女子遭男友廚房刀襲擊　前額留傷痕　警緝38歲漢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196728496840249344952713.jpeg/Jz0QDLmcqwnU-OQiLAWQSYMwj7V-qpphTOb3ZEzm92Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408913/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%BB%83%E7%A8%B1%E4%B8%8D%E7%9F%A5%E5%A5%B3%E6%96%B9%E6%98%AF%E9%96%93%E8%AB%9C-fbi%E5%95%9F%E5%8B%95%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-09T23:53:18.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜特朗普：黃稱不知女方是間諜　FBI啟動調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196728496840249344952713.jpeg/Jz0QDLmcqwnU-OQiLAWQSYMwj7V-qpphTOb3ZEzm92Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408913/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%BB%83%E7%A8%B1%E4%B8%8D%E7%9F%A5%E5%A5%B3%E6%96%B9%E6%98%AF%E9%96%93%E8%AB%9C-fbi%E5%95%9F%E5%8B%95%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-09T23:44:56.264Z",
     "strategy": ".content-card__main"
   }
 ];
