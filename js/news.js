@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T13:59:09.886Z
+// Last updated: 2026-11-10T14:20:29.373Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西環海濱公園兩童一度走失　21歲胞姊心急如焚報案　幸尋回無恙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196947131231899648896021.jpeg/NScW72GxC0YN4xe7E8Exg5RFeCBBbqVkTcUQCU3FEAk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409319/%E8%A5%BF%E7%92%B0%E6%B5%B7%E6%BF%B1%E5%85%AC%E5%9C%92%E5%85%A9%E7%AB%A5%E4%B8%80%E5%BA%A6%E8%B5%B0%E5%A4%B1-21%E6%AD%B2%E8%83%9E%E5%A7%8A%E5%BF%83%E6%80%A5%E5%A6%82%E7%84%9A%E5%A0%B1%E6%A1%88-%E5%B9%B8%E5%B0%8B%E5%9B%9E%E7%84%A1%E6%81%99",
+    "timestamp": "2026-11-10T14:20:29.373Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新冠｜孔繁毅指50歲以上疫苗接種率僅1.27%　西醫工會倡增接種點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195384126362882048387246.jpeg/uDAxlljyAis_U_WON7ui6j8j3_6F0E93gH8s7YB_LO0",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407880/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%A5%8A%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90",
     "timestamp": "2026-11-10T07:59:10.773Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本前自衛隊員擅闖中國大使館　檢方要求囚1.5年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260327/1114156126099738624659834.png/KMQHLTmQrEZtuOmwyAeq-RhBOVaENHzhqrmFo6q5haM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409131/%E6%97%A5%E6%9C%AC%E5%89%8D%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%93%A1%E6%93%85%E9%97%96%E4%B8%AD%E5%9C%8B%E5%A4%A7%E4%BD%BF%E9%A4%A8-%E6%AA%A2%E6%96%B9%E8%A6%81%E6%B1%82%E5%9B%9A1-5%E5%B9%B4",
-    "timestamp": "2026-11-10T07:45:20.831Z",
     "strategy": ".content-card__main"
   }
 ];
