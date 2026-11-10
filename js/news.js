@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T16:59:19.016Z
+// Last updated: 2026-11-10T17:19:01.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "露宿ATM中心｜未見老翁躺地入睡　其中一邊門柄被拆走難再反鎖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196990513333407744294538.jpeg/xbnCv7qgkQsOd6wZud6f79Lckx53XKQnsXendot3p3Y",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409346/%E9%9C%B2%E5%AE%BFatm%E4%B8%AD%E5%BF%83-%E6%9C%AA%E8%A6%8B%E8%80%81%E7%BF%81%E8%BA%BA%E5%9C%B0%E5%85%A5%E7%9D%A1-%E5%85%B6%E4%B8%AD%E4%B8%80%E9%82%8A%E9%96%80%E6%9F%84%E8%A2%AB%E6%8B%86%E8%B5%B0%E9%9B%A3%E5%86%8D%E5%8F%8D%E9%8E%96",
+    "timestamp": "2026-11-10T17:19:01.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "01球評︱曼聯今日災禍誰之過？　拉傑夫英明老闆變衰落加速師",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196889553911156736032847.jpeg/p34dDU3jwbTPaAm_hk00hgYPVPfcWKHR4oxAnOKMQJw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60409255/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%85%A7%E5%AA%92%E6%8F%AD%E9%BB%83%E6%A8%8251%E6%AD%B2%E4%B8%88%E5%A4%AB%E5%BA%B7%E5%81%89%E8%83%8C%E6%99%AF-%E5%B7%B2%E8%A2%AB%E6%8E%A1%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%B7%E5%88%B6%E6%8E%AA%E6%96%BD",
     "timestamp": "2026-11-10T10:39:13.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭羨妮14歲愛女驚喜現身大舞台獻花　眉宇極似媽咪完美繼承美貌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196842906388795392506714.jpeg/z9IFN-lxQZiETkRWWj0XLVHRpHcP4Gj2x4HT9MeB0_Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409115/%E9%83%AD%E7%BE%A8%E5%A6%AE14%E6%AD%B2%E6%84%9B%E5%A5%B3%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E5%A4%A7%E8%88%9E%E5%8F%B0%E7%8D%BB%E8%8A%B1-%E7%9C%89%E5%AE%87%E6%A5%B5%E4%BC%BC%E5%AA%BD%E5%92%AA%E5%AE%8C%E7%BE%8E%E7%B9%BC%E6%89%BF%E7%BE%8E%E8%B2%8C",
-    "timestamp": "2026-11-10T10:20:14.766Z",
     "strategy": ".content-card__main"
   }
 ];
