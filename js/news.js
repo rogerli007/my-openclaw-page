@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T01:20:16.889Z
+// Last updated: 2026-11-10T01:48:02.550Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜「斬殺」黃仁勳是美國政治惡鬥的具象化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250828/1037794508365893632627035.jpeg/25jnjbwctJAFfA94N_AYZ3gN8TiVXry7Hhb2vx4W9r8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60408925/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E6%96%AC%E6%AE%BA-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%98%AF%E7%BE%8E%E5%9C%8B%E6%94%BF%E6%B2%BB%E6%83%A1%E9%AC%A5%E7%9A%84%E5%85%B7%E8%B1%A1%E5%8C%96",
+    "timestamp": "2026-11-10T01:48:02.550Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廖啟智次子睇《我阿爹想旅行》憶雙親未陪父騎馬留憾：時間不等人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195772854277246976293640.jpeg/Noeg5v8Pc4734BAM1q03P36ZU-J3Z26MHlCaxh5QmsY",
     "url": "https://www.hk01.com/01TV/60408200/%E5%85%83%E8%8F%AF%E7%95%99%E6%A8%99%E8%AA%8C%E6%80%A7%E9%AC%8D%E9%AC%9A%E5%85%A7%E5%B9%95-%E6%B4%AA%E9%87%91%E5%AF%B6%E5%AB%8C%E4%BB%96-%E9%95%B7%E5%BE%97%E5%A4%AA%F0%A1%83%81%E4%BB%94",
     "timestamp": "2026-11-09T20:20:07.264Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國：數百超市冷藏系統上月遭攻擊　伊朗革命衛隊幕後黑手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196657452070735872039548.jpeg/_Eh_-VFkXf0qIawDDjMPaGy4dX4gpGoKXv14v179eL8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408905/%E6%B3%95%E5%9C%8B-%E6%95%B8%E7%99%BE%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%B5%B1%E4%B8%8A%E6%9C%88%E9%81%AD%E6%94%BB%E6%93%8A-%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E5%B9%95%E5%BE%8C%E9%BB%91%E6%89%8B",
-    "timestamp": "2026-11-09T19:58:59.439Z",
     "strategy": ".content-card__main"
   }
 ];
