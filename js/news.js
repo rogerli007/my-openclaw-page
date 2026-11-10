@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T01:04:01.879Z
+// Last updated: 2026-11-10T01:20:16.889Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廖啟智次子睇《我阿爹想旅行》憶雙親未陪父騎馬留憾：時間不等人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196733990543822848210546.jpeg/Y_bf77d9JWcLXnf2r__2JynW0HISeC6nWWjuMVlo7jE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60408088/%E5%BB%96%E5%95%9F%E6%99%BA%E6%AC%A1%E5%AD%90%E7%9D%87-%E6%88%91%E9%98%BF%E7%88%B9%E6%83%B3%E6%97%85%E8%A1%8C-%E6%86%B6%E9%9B%99%E8%A6%AA%E6%9C%AA%E9%99%AA%E7%88%B6%E9%A8%8E%E9%A6%AC%E7%95%99%E6%86%BE-%E6%99%82%E9%96%93%E4%B8%8D%E7%AD%89%E4%BA%BA",
+    "timestamp": "2026-11-10T01:20:16.889Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜身份等同英偉達　AI產業最關鍵的晶片帝國陷接班危機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196657452070735872039548.jpeg/_Eh_-VFkXf0qIawDDjMPaGy4dX4gpGoKXv14v179eL8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408905/%E6%B3%95%E5%9C%8B-%E6%95%B8%E7%99%BE%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%B5%B1%E4%B8%8A%E6%9C%88%E9%81%AD%E6%94%BB%E6%93%8A-%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E5%B9%95%E5%BE%8C%E9%BB%91%E6%89%8B",
     "timestamp": "2026-11-09T19:58:59.439Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國：數百超市冷藏系統上月遭攻擊　伊朗革命衛隊幕後黑手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196657452070735872039548.jpeg/_Eh_-VFkXf0qIawDDjMPaGy4dX4gpGoKXv14v179eL8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408905/%E6%B3%95%E5%9C%8B-%E6%95%B8%E7%99%BE%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%B5%B1%E4%B8%8A%E6%9C%88%E9%81%AD%E6%94%BB%E6%93%8A-%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E5%B9%95%E5%BE%8C%E9%BB%91%E6%89%8B",
-    "timestamp": "2026-11-09T19:40:08.064Z",
     "strategy": ".content-card__main"
   }
 ];
