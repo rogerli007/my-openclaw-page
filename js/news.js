@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T19:58:50.710Z
+// Last updated: 2026-11-10T20:19:53.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：眾議院共和黨人推選Jim Jordan擔任下屆少數黨領袖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197034563306524672795468.jpeg/hHRJ8S4t-cYR7ELwoFh1dSP4BZP2XgofVCpiAVQqYgE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409356/%E7%BE%8E%E5%AA%92-%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%8E%A8%E9%81%B8jim-jordan%E6%93%94%E4%BB%BB%E4%B8%8B%E5%B1%86%E5%B0%91%E6%95%B8%E9%BB%A8%E9%A0%98%E8%A2%96",
+    "timestamp": "2026-11-10T20:19:53.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華憑《功夫》勇奪最佳男配角：功名利祿皆如雲煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196900461081268224648132.jpeg/pvSgCMZAQecFCZtthvF1pakW897kUhZ8qoEY-aqBGPk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409278/%E6%96%B0%E5%86%A0-%E5%AD%94%E7%B9%81%E6%AF%85%E6%8C%8750%E6%AD%B2%E4%BB%A5%E4%B8%8A%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE%E7%8E%87%E5%83%851-27-%E8%A5%BF%E9%86%AB%E5%B7%A5%E6%9C%83%E5%80%A1%E5%A2%9E%E6%8E%A5%E7%A8%AE%E9%BB%9E",
     "timestamp": "2026-11-10T13:59:09.886Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前港姐亞軍龐卓欣升呢人妻大解放　偕一眾名媛閨密出海曬S曲線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196823492394225664619254.jpeg/h_2uRcgD4g-ReWMVQNlHH6MZPU0ezqDlLnPo_C5z6Pw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408964/%E5%89%8D%E6%B8%AF%E5%A7%90%E4%BA%9E%E8%BB%8D%E9%BE%90%E5%8D%93%E6%AC%A3%E5%8D%87%E5%91%A2%E4%BA%BA%E5%A6%BB%E5%A4%A7%E8%A7%A3%E6%94%BE-%E5%81%95%E4%B8%80%E7%9C%BE%E5%90%8D%E5%AA%9B%E9%96%A8%E5%AF%86%E5%87%BA%E6%B5%B7%E6%9B%ACs%E6%9B%B2%E7%B7%9A",
-    "timestamp": "2026-11-10T13:45:26.348Z",
     "strategy": ".content-card__main"
   }
 ];
