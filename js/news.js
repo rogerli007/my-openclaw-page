@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T07:59:10.773Z
+// Last updated: 2026-11-10T08:24:40.517Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌丨諜影重重下　月之暗面被指內地租用Nvidia頂級AI晶片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158495566393511936624108.jpeg/6KsUceqwmyBkh29ESpjjdW4FqlXM3cz1V_nGXVf5xl0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409153/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%AB%9C%E5%BD%B1%E9%87%8D%E9%87%8D%E4%B8%8B-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E8%A2%AB%E6%8C%87%E5%85%A7%E5%9C%B0%E7%A7%9F%E7%94%A8nvidia%E9%A0%82%E7%B4%9Aai%E6%99%B6%E7%89%87",
+    "timestamp": "2026-11-10T08:24:40.517Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "今天是太陽雨線上看劇情｜最新追劇日曆/更新時間+楊超越董思成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250828/1037794508365893632627035.jpeg/25jnjbwctJAFfA94N_AYZ3gN8TiVXry7Hhb2vx4W9r8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60408925/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E6%96%AC%E6%AE%BA-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%98%AF%E7%BE%8E%E5%9C%8B%E6%94%BF%E6%B2%BB%E6%83%A1%E9%AC%A5%E7%9A%84%E5%85%B7%E8%B1%A1%E5%8C%96",
     "timestamp": "2026-11-10T01:59:11.035Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜「斬殺」黃仁勳是美國政治惡鬥的具象化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250828/1037794508365893632627035.jpeg/25jnjbwctJAFfA94N_AYZ3gN8TiVXry7Hhb2vx4W9r8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60408925/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E6%96%AC%E6%AE%BA-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%98%AF%E7%BE%8E%E5%9C%8B%E6%94%BF%E6%B2%BB%E6%83%A1%E9%AC%A5%E7%9A%84%E5%85%B7%E8%B1%A1%E5%8C%96",
-    "timestamp": "2026-11-10T01:48:02.550Z",
     "strategy": ".content-card__main"
   }
 ];
