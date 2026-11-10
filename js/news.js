@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T17:53:40.794Z
+// Last updated: 2026-11-10T18:21:14.967Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華拍《功夫》慘遭酷暑考驗：40度上海高溫下曬到中暑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195774717437415424617058.jpeg/Qw3HTiluWEu5GeU_cQED1a9OpSjAB7552svjjNrL44w",
+    "url": "https://www.hk01.com/01TV/60408208/%E5%85%83%E8%8F%AF%E6%8B%8D-%E5%8A%9F%E5%A4%AB-%E6%85%98%E9%81%AD%E9%85%B7%E6%9A%91%E8%80%83%E9%A9%97-40%E5%BA%A6%E4%B8%8A%E6%B5%B7%E9%AB%98%E6%BA%AB%E4%B8%8B%E6%9B%AC%E5%88%B0%E4%B8%AD%E6%9A%91",
+    "timestamp": "2026-11-10T18:21:14.967Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美防長赫格塞思斥彈劾案為鬧劇　特朗普再次表態力挺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196909722490376192078691.jpeg/ynuqhfuNg1vjWAe1WL0M57VhE__tCsFpglPMGIJTzBg",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409160/%E5%8C%97%E8%A7%92%E4%BC%AF%E4%BC%AF%E5%8F%8D%E9%8E%96%E9%9C%B8%E4%B8%8A%E6%B5%B7%E5%95%86%E6%A5%AD%E9%8A%80%E8%A1%8Catm%E4%B8%AD%E5%BF%83%E7%9D%A1%E8%A6%BA-%E5%B8%82%E6%B0%91%E7%84%A1%E5%A5%88-%E5%8F%AA%E4%BF%82%E6%83%B3%E6%8B%8E%E9%8C%A2",
     "timestamp": "2026-11-10T11:45:11.873Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周慧敏59歲生日曬自拍｢登六｣前夕極凍齡　自爆為愛貓堅持健身9年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196861029338845184276319.jpeg/4j8-EBtzIQadsgv0sAN7pEoYCnJ9N0xkQwRCFUMEQhU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409191/%E5%91%A8%E6%85%A7%E6%95%8F59%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9B%AC%E8%87%AA%E6%8B%8D-%E7%99%BB%E5%85%AD-%E5%89%8D%E5%A4%95%E6%A5%B5%E5%87%8D%E9%BD%A1-%E8%87%AA%E7%88%86%E7%82%BA%E6%84%9B%E8%B2%93%E5%A0%85%E6%8C%81%E5%81%A5%E8%BA%AB9%E5%B9%B4",
-    "timestamp": "2026-11-10T11:19:26.337Z",
     "strategy": ".content-card__main"
   }
 ];
