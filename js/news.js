@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T17:45:15.806Z
+// Last updated: 2026-11-10T17:53:40.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美防長赫格塞思斥彈劾案為鬧劇　特朗普再次表態力挺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196991154097229824465307.jpeg/3tuXYgFOHrdFAnIU-Y3SAQY7LnNkyVUycxKoTXMSqE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409347/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E6%96%A5%E5%BD%88%E5%8A%BE%E6%A1%88%E7%82%BA%E9%AC%A7%E5%8A%87-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%A1%A8%E6%85%8B%E5%8A%9B%E6%8C%BA",
+    "timestamp": "2026-11-10T17:53:40.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美防長赫格塞思斥彈劾案為鬧劇　特朗普再次表態力挺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196861029338845184276319.jpeg/4j8-EBtzIQadsgv0sAN7pEoYCnJ9N0xkQwRCFUMEQhU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409191/%E5%91%A8%E6%85%A7%E6%95%8F59%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9B%AC%E8%87%AA%E6%8B%8D-%E7%99%BB%E5%85%AD-%E5%89%8D%E5%A4%95%E6%A5%B5%E5%87%8D%E9%BD%A1-%E8%87%AA%E7%88%86%E7%82%BA%E6%84%9B%E8%B2%93%E5%A0%85%E6%8C%81%E5%81%A5%E8%BA%AB9%E5%B9%B4",
     "timestamp": "2026-11-10T11:19:26.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蒸餸食譜大全｜25道蒸餸住家菜30分鐘開飯！蒸肉餅蒸水蛋好吃秘訣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20210402/454731202511769600620534.jpeg/KneBqLWTk1m1Efm0TgLpDyLn9Jbq-M15Pej7Vz3o-1c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/606530/%E8%92%B8%E9%A4%B8%E9%A3%9F%E8%AD%9C%E5%A4%A7%E5%85%A8-25%E9%81%93%E8%92%B8%E9%A4%B8%E4%BD%8F%E5%AE%B6%E8%8F%9C30%E5%88%86%E9%90%98%E9%96%8B%E9%A3%AF-%E8%92%B8%E8%82%89%E9%A4%85%E8%92%B8%E6%B0%B4%E8%9B%8B%E5%A5%BD%E5%90%83%E7%A7%98%E8%A8%A3",
-    "timestamp": "2026-11-10T10:58:57.304Z",
     "strategy": ".content-card__main"
   }
 ];
