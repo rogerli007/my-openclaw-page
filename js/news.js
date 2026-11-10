@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T10:20:14.766Z
+// Last updated: 2026-11-10T10:39:13.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌│內媒揭黃樂51歲丈夫康偉背景：已被採取刑事強制措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196889553911156736032847.jpeg/p34dDU3jwbTPaAm_hk00hgYPVPfcWKHR4oxAnOKMQJw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60409255/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%85%A7%E5%AA%92%E6%8F%AD%E9%BB%83%E6%A8%8251%E6%AD%B2%E4%B8%88%E5%A4%AB%E5%BA%B7%E5%81%89%E8%83%8C%E6%99%AF-%E5%B7%B2%E8%A2%AB%E6%8E%A1%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%B7%E5%88%B6%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-11-10T10:39:13.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "郭羨妮14歲愛女驚喜現身大舞台獻花　眉宇極似媽咪完美繼承美貌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250808/1030374653551448064347120.jpeg/Eph_mt1sANLiz8UnIHM3Pu2xafzSi93DfNnJ33zZyd8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408999/%E7%BE%8E%E4%BF%84%E7%83%8F%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E7%99%BB%E5%A0%B4-%E7%BE%8E%E6%96%B9%E6%93%9A%E5%A0%B1%E8%A6%81%E6%B1%82%E4%BF%84%E5%85%81%E7%83%8F%E7%8D%B2%E9%A1%9E%E4%BC%BC%E5%8C%97%E7%B4%84%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C",
     "timestamp": "2026-11-10T03:59:12.638Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "臺日電梯｜姚潔凝：涉事升降機數字驚人　倡引入獨立第三方檢驗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196769949545140224013794.jpeg/4klj4SFGLualeWXszgJ5qoxrXL7AvGhvKtOk9yrTpPc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408954/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E5%A7%9A%E6%BD%94%E5%87%9D-%E6%B6%89%E4%BA%8B%E5%8D%87%E9%99%8D%E6%A9%9F%E6%95%B8%E5%AD%97%E9%A9%9A%E4%BA%BA-%E5%80%A1%E5%BC%95%E5%85%A5%E7%8D%A8%E7%AB%8B%E7%AC%AC%E4%B8%89%E6%96%B9%E6%AA%A2%E9%A9%97",
-    "timestamp": "2026-11-10T03:45:20.649Z",
     "strategy": ".content-card__main"
   }
 ];
