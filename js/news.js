@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T20:44:42.111Z
+// Last updated: 2026-11-10T20:59:08.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡海濱長廊　兩男女疑飲醉酒口角跳海　清醒獲救回上岸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197044397980520448946301.jpeg/7_GkC0_JDktWMS22zg_Dmj9ipyrBOOTVlo8HPKyPBzw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409357/%E7%B4%85%E7%A3%A1%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A-%E5%85%A9%E7%94%B7%E5%A5%B3%E7%96%91%E9%A3%B2%E9%86%89%E9%85%92%E5%8F%A3%E8%A7%92%E8%B7%B3%E6%B5%B7-%E6%B8%85%E9%86%92%E7%8D%B2%E6%95%91%E5%9B%9E%E4%B8%8A%E5%B2%B8",
+    "timestamp": "2026-11-10T20:59:08.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：眾議院共和黨人推選Jim Jordan擔任下屆少數黨領袖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196953972405964800793501.jpeg/l8gj620--oDBCEls6o7BG9-9aZrGjHU_fwaqCn8Gqgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409328/%E9%87%91%E9%9B%9E%E7%8D%8E2026-%E6%A2%81%E5%AE%B6%E8%BC%9D-%E6%8D%95%E9%A2%A8%E6%8D%89%E5%BD%B1-%E5%B0%81%E5%B8%9D-%E7%B9%BC%E6%A2%81%E6%9C%9D%E5%81%89%E5%BE%8C%E7%8D%B2%E4%B8%89%E9%87%91%E5%BD%B1%E5%B8%9D%E6%B8%AF%E4%BA%BA",
     "timestamp": "2026-11-10T14:45:35.243Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西環海濱公園兩童一度走失　21歲胞姊心急如焚報案　幸尋回無恙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196947131231899648896021.jpeg/NScW72GxC0YN4xe7E8Exg5RFeCBBbqVkTcUQCU3FEAk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409319/%E8%A5%BF%E7%92%B0%E6%B5%B7%E6%BF%B1%E5%85%AC%E5%9C%92%E5%85%A9%E7%AB%A5%E4%B8%80%E5%BA%A6%E8%B5%B0%E5%A4%B1-21%E6%AD%B2%E8%83%9E%E5%A7%8A%E5%BF%83%E6%80%A5%E5%A6%82%E7%84%9A%E5%A0%B1%E6%A1%88-%E5%B9%B8%E5%B0%8B%E5%9B%9E%E7%84%A1%E6%81%99",
-    "timestamp": "2026-11-10T14:20:29.373Z",
     "strategy": ".content-card__main"
   }
 ];
