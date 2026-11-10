@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T08:24:40.517Z
+// Last updated: 2026-11-10T08:35:41.755Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藍田麗港城引人臉識別　有住戶未憂私隱　籲物管確保系統順利運作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196828289604390912495386.jpeg/VI1Yyf9iFqeZkYPEDGKoistFaI8-l9I_iSMo_KwjKPw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409141/%E8%97%8D%E7%94%B0%E9%BA%97%E6%B8%AF%E5%9F%8E%E5%BC%95%E4%BA%BA%E8%87%89%E8%AD%98%E5%88%A5-%E6%9C%89%E4%BD%8F%E6%88%B6%E6%9C%AA%E6%86%82%E7%A7%81%E9%9A%B1-%E7%B1%B2%E7%89%A9%E7%AE%A1%E7%A2%BA%E4%BF%9D%E7%B3%BB%E7%B5%B1%E9%A0%86%E5%88%A9%E9%81%8B%E4%BD%9C",
+    "timestamp": "2026-11-10T08:35:41.755Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌丨諜影重重下　月之暗面被指內地租用Nvidia頂級AI晶片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131602020432613376390478.jpeg/6r2Mq-TEdO7xYOCGa593oitvzFSF6mRgxD5YUMQ-WFA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408952/%E7%B4%90%E6%99%82-%E7%BE%8E%E5%95%86%E5%8B%99%E9%83%A8%E7%96%91%E5%9C%A8%E8%8B%B1%E5%81%89%E9%81%94%E4%BB%8B%E5%85%A5%E5%BE%8C-%E4%B8%AD%E6%AD%A2%E9%87%9D%E5%B0%8Dmegaspeed-%E6%99%B6%E7%89%87%E8%BC%B8%E4%B8%AD%E6%A1%88",
     "timestamp": "2026-11-10T02:23:57.369Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜「斬殺」黃仁勳是美國政治惡鬥的具象化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250828/1037794508365893632627035.jpeg/25jnjbwctJAFfA94N_AYZ3gN8TiVXry7Hhb2vx4W9r8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60408925/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E6%96%AC%E6%AE%BA-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%98%AF%E7%BE%8E%E5%9C%8B%E6%94%BF%E6%B2%BB%E6%83%A1%E9%AC%A5%E7%9A%84%E5%85%B7%E8%B1%A1%E5%8C%96",
-    "timestamp": "2026-11-10T01:59:11.035Z",
     "strategy": ".content-card__main"
   }
 ];
