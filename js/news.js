@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T03:59:12.638Z
+// Last updated: 2026-11-10T04:21:51.483Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "古天樂秘婚傳聞再掀波瀾　與林淑茵疑穿「情侶跑鞋」隔空放閃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196776269249777664956347.jpeg/yYTP5thHOVhVLUH9X0H-pWsXvPGqu7wbOvlF2zr5Rds?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408950/%E5%8F%A4%E5%A4%A9%E6%A8%82%E7%A7%98%E5%A9%9A%E5%82%B3%E8%81%9E%E5%86%8D%E6%8E%80%E6%B3%A2%E7%80%BE-%E8%88%87%E6%9E%97%E6%B7%91%E8%8C%B5%E7%96%91%E7%A9%BF-%E6%83%85%E4%BE%B6%E8%B7%91%E9%9E%8B-%E9%9A%94%E7%A9%BA%E6%94%BE%E9%96%83",
+    "timestamp": "2026-11-10T04:21:51.483Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美俄烏三方會談登場　美方據報要求俄允烏獲類似北約安全保障",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196586498665746432175409.jpeg/wEdeHmLqQ92ljs_9h7Ka70U-TnMKh2yrk_M905PzPdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408808/%E7%81%AB%E6%98%9F%E8%AA%8D%E4%BD%95%E9%BA%A5%E5%A5%B3%E5%8F%8B%E5%81%9A%E5%A5%91%E5%A5%B3-%E6%8F%AD%E5%96%AA%E7%A6%AE%E5%85%A7%E5%B9%95%E6%8C%87%E4%BD%95%E6%85%88%E8%8C%B5%E6%AC%A0%E8%A6%8F%E7%9F%A9-%E9%80%A3%E9%9E%A0%E5%80%8B%E8%BA%AC%E9%83%BD%E5%86%87",
     "timestamp": "2026-11-09T22:39:44.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警堅尼地城設路障截查電單車　32歲尼泊爾籍男酒精超標涉醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193971300012396544072495.jpeg/5YW1QeDr8X-aBPuD8uai0Sq7DX0_1YTvoOn0RaDp9EU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408908/%E8%AD%A6%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%88%AA%E6%9F%A5%E9%9B%BB%E5%96%AE%E8%BB%8A-32%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%B1%8D%E7%94%B7%E9%85%92%E7%B2%BE%E8%B6%85%E6%A8%99%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-09T22:24:00.209Z",
     "strategy": ".content-card__main"
   }
 ];
