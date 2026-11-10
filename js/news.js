@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T00:35:53.468Z
+// Last updated: 2026-11-10T00:49:46.121Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車CAM｜北大嶼山公路深宵散落卡板石塊　9車疑中招爆胎或刮花",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196739207725322240308695.jpeg/FWbvxG0Mhgo5vweKlIMbyN6FDpWyzY9n7CYT6OwmE-g",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408917/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B7%B1%E5%AE%B5%E6%95%A3%E8%90%BD%E5%8D%A1%E6%9D%BF%E7%9F%B3%E5%A1%8A-9%E8%BB%8A%E7%96%91%E4%B8%AD%E6%8B%9B%E7%88%86%E8%83%8E%E6%88%96%E5%88%AE%E8%8A%B1",
+    "timestamp": "2026-11-10T00:49:46.121Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車CAM｜北大嶼山公路散落卡板石塊　9車疑中招　部份爆胎或刮花",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196657452070735872039548.jpeg/_Eh_-VFkXf0qIawDDjMPaGy4dX4gpGoKXv14v179eL8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408905/%E6%B3%95%E5%9C%8B-%E6%95%B8%E7%99%BE%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%B5%B1%E4%B8%8A%E6%9C%88%E9%81%AD%E6%94%BB%E6%93%8A-%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E5%B9%95%E5%BE%8C%E9%BB%91%E6%89%8B",
     "timestamp": "2026-11-09T19:24:41.557Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "法國：數百超市冷藏系統上月遭攻擊　伊朗革命衛隊幕後黑手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196657452070735872039548.jpeg/_Eh_-VFkXf0qIawDDjMPaGy4dX4gpGoKXv14v179eL8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408905/%E6%B3%95%E5%9C%8B-%E6%95%B8%E7%99%BE%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%B5%B1%E4%B8%8A%E6%9C%88%E9%81%AD%E6%94%BB%E6%93%8A-%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E5%B9%95%E5%BE%8C%E9%BB%91%E6%89%8B",
-    "timestamp": "2026-11-09T19:18:29.159Z",
     "strategy": ".content-card__main"
   }
 ];
