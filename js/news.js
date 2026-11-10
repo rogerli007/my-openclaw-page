@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T11:19:26.337Z
+// Last updated: 2026-11-10T11:45:11.873Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角伯伯反鎖霸上海商業銀行ATM中心睡覺　市民無奈：只係想拎錢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196909722490376192078691.jpeg/ynuqhfuNg1vjWAe1WL0M57VhE__tCsFpglPMGIJTzBg",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409160/%E5%8C%97%E8%A7%92%E4%BC%AF%E4%BC%AF%E5%8F%8D%E9%8E%96%E9%9C%B8%E4%B8%8A%E6%B5%B7%E5%95%86%E6%A5%AD%E9%8A%80%E8%A1%8Catm%E4%B8%AD%E5%BF%83%E7%9D%A1%E8%A6%BA-%E5%B8%82%E6%B0%91%E7%84%A1%E5%A5%88-%E5%8F%AA%E4%BF%82%E6%83%B3%E6%8B%8E%E9%8C%A2",
+    "timestamp": "2026-11-10T11:45:11.873Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周慧敏59歲生日曬自拍｢登六｣前夕極凍齡　自爆為愛貓堅持健身9年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196783400669941760820517.jpeg/14CeDUs89LwcKx-Uc-Zkir4_m8D7yeTBy_Pqcu7z6nI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409038/%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E6%AF%92%E9%A7%95-%E6%A5%AD%E7%95%8C%E6%8C%87%E5%8F%B8%E6%A9%9F%E8%B3%AA%E7%B4%A0%E5%8F%83%E5%B7%AE-%E9%9B%A3%E5%BC%B7%E5%88%B6%E9%A9%97%E6%AF%92-%E9%9D%A0%E5%85%A7%E9%83%A8%E9%80%9A%E5%A0%B1%E6%8A%8A%E9%97%9C",
     "timestamp": "2026-11-10T04:59:10.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張雪機車意大利展出「油箱蓋後視鏡全被偷」： 2個月前意國也遭竊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196803012438265856537146.png/7jMhJL8KPGEXNqoS8YDdRJa_ZguUEkeOdXKuVXVyrlU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60409009/%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B1%95%E5%87%BA-%E6%B2%B9%E7%AE%B1%E8%93%8B%E5%BE%8C%E8%A6%96%E9%8F%A1%E5%85%A8%E8%A2%AB%E5%81%B7-2%E5%80%8B%E6%9C%88%E5%89%8D%E6%84%8F%E5%9C%8B%E4%B9%9F%E9%81%AD%E7%AB%8A",
-    "timestamp": "2026-11-10T04:45:25.602Z",
     "strategy": ".content-card__main"
   }
 ];
