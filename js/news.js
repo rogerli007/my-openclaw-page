@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T20:59:08.731Z
+// Last updated: 2026-11-10T21:19:26.853Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美陸軍41歲高級士兵涉協助俄羅斯情報部門　在英國遭當地警方逮捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250304/973565974785560576867052.jpeg/o0lVe1pS5cEyj87eL4cLfKYEEpXtufXL2Hwlath8JWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409360/%E7%BE%8E%E9%99%B8%E8%BB%8D41%E6%AD%B2%E9%AB%98%E7%B4%9A%E5%A3%AB%E5%85%B5%E6%B6%89%E5%8D%94%E5%8A%A9%E4%BF%84%E7%BE%85%E6%96%AF%E6%83%85%E5%A0%B1%E9%83%A8%E9%96%80-%E5%9C%A8%E8%8B%B1%E5%9C%8B%E9%81%AD%E7%95%B6%E5%9C%B0%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95",
+    "timestamp": "2026-11-10T21:19:26.853Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡海濱長廊　兩男女疑飲醉酒口角跳海　清醒獲救回上岸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196947031717842944509726.jpeg/j_kcEXTyO2iVvFHXkFuC5KSQgYZl0S1sQCF2OEAhdjg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409324/%E9%A6%AC%E5%9C%8B%E6%98%8E%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%90%8C%E9%99%B3%E8%B1%AA%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6%E4%BC%81%E6%AD%A3c%E4%BD%8D-%E5%8A%87%E7%8E%8B-%E7%BE%85%E5%AD%90%E6%BA%A2%E9%83%BD%E8%A6%81%E9%9D%A0%E9%82%8A%E7%AB%99",
     "timestamp": "2026-11-10T14:59:04.702Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金雞獎2026｜梁家輝《捕風捉影》封帝　繼梁朝偉後獲三金影帝港人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196953972405964800793501.jpeg/l8gj620--oDBCEls6o7BG9-9aZrGjHU_fwaqCn8Gqgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409328/%E9%87%91%E9%9B%9E%E7%8D%8E2026-%E6%A2%81%E5%AE%B6%E8%BC%9D-%E6%8D%95%E9%A2%A8%E6%8D%89%E5%BD%B1-%E5%B0%81%E5%B8%9D-%E7%B9%BC%E6%A2%81%E6%9C%9D%E5%81%89%E5%BE%8C%E7%8D%B2%E4%B8%89%E9%87%91%E5%BD%B1%E5%B8%9D%E6%B8%AF%E4%BA%BA",
-    "timestamp": "2026-11-10T14:45:35.243Z",
     "strategy": ".content-card__main"
   }
 ];
