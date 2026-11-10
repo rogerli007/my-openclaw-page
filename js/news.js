@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T23:26:08.155Z
+// Last updated: 2026-11-10T23:44:45.891Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角新填地街單位疑充電器冒煙失火　消防開喉灌救　一人不適",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197088733522825216196850.jpeg/XAOSgPvPRocxFnmqtK8e72Wgrq9Ugbrq1tRDI9bUQyM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409365/%E6%97%BA%E8%A7%92%E6%96%B0%E5%A1%AB%E5%9C%B0%E8%A1%97%E5%96%AE%E4%BD%8D%E7%96%91%E5%85%85%E9%9B%BB%E5%99%A8%E5%86%92%E7%85%99%E5%A4%B1%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E4%B8%80%E4%BA%BA%E4%B8%8D%E9%81%A9",
+    "timestamp": "2026-11-10T23:44:45.891Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高海寧落實出演《新聞女王3》　獲廣告商瘋狂集郵逼爆通道",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196991154097229824465307.jpeg/3tuXYgFOHrdFAnIU-Y3SAQY7LnNkyVUycxKoTXMSqE0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409347/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E6%96%A5%E5%BD%88%E5%8A%BE%E6%A1%88%E7%82%BA%E9%AC%A7%E5%8A%87-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%A1%A8%E6%85%8B%E5%8A%9B%E6%8C%BA",
     "timestamp": "2026-11-10T17:53:40.794Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美防長赫格塞思斥彈劾案為鬧劇　特朗普再次表態力挺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196991154097229824465307.jpeg/3tuXYgFOHrdFAnIU-Y3SAQY7LnNkyVUycxKoTXMSqE0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409347/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E6%96%A5%E5%BD%88%E5%8A%BE%E6%A1%88%E7%82%BA%E9%AC%A7%E5%8A%87-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%A1%A8%E6%85%8B%E5%8A%9B%E6%8C%BA",
-    "timestamp": "2026-11-10T17:45:15.806Z",
     "strategy": ".content-card__main"
   }
 ];
