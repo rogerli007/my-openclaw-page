@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T23:18:22.290Z
+// Last updated: 2026-11-10T23:26:08.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高海寧落實出演《新聞女王3》　獲廣告商瘋狂集郵逼爆通道",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197006195831869440653870.jpeg/GccIG43-zsiWwWqQc92ir18MMEj3dEN1opmazaKZms0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409350/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%90%BD%E5%AF%A6%E5%87%BA%E6%BC%94-%E6%96%B0%E8%81%9E%E5%A5%B3%E7%8E%8B3-%E7%8D%B2%E5%BB%A3%E5%91%8A%E5%95%86%E7%98%8B%E7%8B%82%E9%9B%86%E9%83%B5%E9%80%BC%E7%88%86%E9%80%9A%E9%81%93",
+    "timestamp": "2026-11-10T23:26:08.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁文廣提公屋議案引爆政黨路線角力　隨時陰溝翻船?｜政圈風聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196991154097229824465307.jpeg/3tuXYgFOHrdFAnIU-Y3SAQY7LnNkyVUycxKoTXMSqE0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409347/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E6%96%A5%E5%BD%88%E5%8A%BE%E6%A1%88%E7%82%BA%E9%AC%A7%E5%8A%87-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%A1%A8%E6%85%8B%E5%8A%9B%E6%8C%BA",
     "timestamp": "2026-11-10T17:45:15.806Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "露宿ATM中心｜未見老翁躺地入睡　其中一邊門柄被拆走難再反鎖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196990513333407744294538.jpeg/xbnCv7qgkQsOd6wZud6f79Lckx53XKQnsXendot3p3Y",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409346/%E9%9C%B2%E5%AE%BFatm%E4%B8%AD%E5%BF%83-%E6%9C%AA%E8%A6%8B%E8%80%81%E7%BF%81%E8%BA%BA%E5%9C%B0%E5%85%A5%E7%9D%A1-%E5%85%B6%E4%B8%AD%E4%B8%80%E9%82%8A%E9%96%80%E6%9F%84%E8%A2%AB%E6%8B%86%E8%B5%B0%E9%9B%A3%E5%86%8D%E5%8F%8D%E9%8E%96",
-    "timestamp": "2026-11-10T17:19:01.767Z",
     "strategy": ".content-card__main"
   }
 ];
