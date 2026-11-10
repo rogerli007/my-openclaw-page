@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T05:20:47.385Z
+// Last updated: 2026-11-10T05:45:36.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門23歲女子遭男友廚房刀襲擊　前額留傷痕　警緝38歲漢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250407/985935726971457536312974.jpeg/Y2EC3UZCC_6QGC1p6g_qrw_Yz6CYj9-QpVhB849YQfM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409056/%E5%B1%AF%E9%96%8023%E6%AD%B2%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%8F%8B%E5%BB%9A%E6%88%BF%E5%88%80%E8%A5%B2%E6%93%8A-%E5%89%8D%E9%A1%8D%E7%95%99%E5%82%B7%E7%97%95-%E8%AD%A6%E7%B7%9D38%E6%AD%B2%E6%BC%A2",
+    "timestamp": "2026-11-10T05:45:36.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周杰倫歎日料開近50萬天價紅酒　網民驚呼：一餐飯飲咗部名車！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196728496840249344952713.jpeg/Jz0QDLmcqwnU-OQiLAWQSYMwj7V-qpphTOb3ZEzm92Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408913/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%BB%83%E7%A8%B1%E4%B8%8D%E7%9F%A5%E5%A5%B3%E6%96%B9%E6%98%AF%E9%96%93%E8%AB%9C-fbi%E5%95%9F%E5%8B%95%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-09T23:44:56.264Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玫瑰戰爭劇透｜楊茜堯為證清白自插一刀　林夏薇現眼報重傷昏迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196623541332611072021579.jpeg/WTWCpQPFbRFLb2HHkdLecJJIjXcQTQOp8PtzUvD7c1I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408891/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD%E5%8A%87%E9%80%8F-%E6%A5%8A%E8%8C%9C%E5%A0%AF%E7%82%BA%E8%AD%89%E6%B8%85%E7%99%BD%E8%87%AA%E6%8F%92%E4%B8%80%E5%88%80-%E6%9E%97%E5%A4%8F%E8%96%87%E7%8F%BE%E7%9C%BC%E5%A0%B1%E9%87%8D%E5%82%B7%E6%98%8F%E8%BF%B7",
-    "timestamp": "2026-11-09T23:23:29.381Z",
     "strategy": ".content-card__main"
   }
 ];
