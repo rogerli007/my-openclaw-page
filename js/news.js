@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T04:21:51.483Z
+// Last updated: 2026-11-10T04:45:25.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張雪機車意大利展出「油箱蓋後視鏡全被偷」： 2個月前意國也遭竊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196803012438265856537146.png/7jMhJL8KPGEXNqoS8YDdRJa_ZguUEkeOdXKuVXVyrlU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60409009/%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B1%95%E5%87%BA-%E6%B2%B9%E7%AE%B1%E8%93%8B%E5%BE%8C%E8%A6%96%E9%8F%A1%E5%85%A8%E8%A2%AB%E5%81%B7-2%E5%80%8B%E6%9C%88%E5%89%8D%E6%84%8F%E5%9C%8B%E4%B9%9F%E9%81%AD%E7%AB%8A",
+    "timestamp": "2026-11-10T04:45:25.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "古天樂秘婚傳聞再掀波瀾　與林淑茵疑穿「情侶跑鞋」隔空放閃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196586498665746432175409.jpeg/wEdeHmLqQ92ljs_9h7Ka70U-TnMKh2yrk_M905PzPdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408808/%E7%81%AB%E6%98%9F%E8%AA%8D%E4%BD%95%E9%BA%A5%E5%A5%B3%E5%8F%8B%E5%81%9A%E5%A5%91%E5%A5%B3-%E6%8F%AD%E5%96%AA%E7%A6%AE%E5%85%A7%E5%B9%95%E6%8C%87%E4%BD%95%E6%85%88%E8%8C%B5%E6%AC%A0%E8%A6%8F%E7%9F%A9-%E9%80%A3%E9%9E%A0%E5%80%8B%E8%BA%AC%E9%83%BD%E5%86%87",
     "timestamp": "2026-11-09T22:59:05.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "火星認何麥女友做契女　揭喪禮內幕指何慈茵欠規矩：連鞠個躬都冇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196586498665746432175409.jpeg/wEdeHmLqQ92ljs_9h7Ka70U-TnMKh2yrk_M905PzPdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408808/%E7%81%AB%E6%98%9F%E8%AA%8D%E4%BD%95%E9%BA%A5%E5%A5%B3%E5%8F%8B%E5%81%9A%E5%A5%91%E5%A5%B3-%E6%8F%AD%E5%96%AA%E7%A6%AE%E5%85%A7%E5%B9%95%E6%8C%87%E4%BD%95%E6%85%88%E8%8C%B5%E6%AC%A0%E8%A6%8F%E7%9F%A9-%E9%80%A3%E9%9E%A0%E5%80%8B%E8%BA%AC%E9%83%BD%E5%86%87",
-    "timestamp": "2026-11-09T22:39:44.617Z",
     "strategy": ".content-card__main"
   }
 ];
