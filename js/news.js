@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T10:58:57.304Z
+// Last updated: 2026-11-10T11:19:26.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周慧敏59歲生日曬自拍｢登六｣前夕極凍齡　自爆為愛貓堅持健身9年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196861029338845184276319.jpeg/4j8-EBtzIQadsgv0sAN7pEoYCnJ9N0xkQwRCFUMEQhU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409191/%E5%91%A8%E6%85%A7%E6%95%8F59%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9B%AC%E8%87%AA%E6%8B%8D-%E7%99%BB%E5%85%AD-%E5%89%8D%E5%A4%95%E6%A5%B5%E5%87%8D%E9%BD%A1-%E8%87%AA%E7%88%86%E7%82%BA%E6%84%9B%E8%B2%93%E5%A0%85%E6%8C%81%E5%81%A5%E8%BA%AB9%E5%B9%B4",
+    "timestamp": "2026-11-10T11:19:26.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蒸餸食譜大全｜25道蒸餸住家菜30分鐘開飯！蒸肉餅蒸水蛋好吃秘訣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196803012438265856537146.png/7jMhJL8KPGEXNqoS8YDdRJa_ZguUEkeOdXKuVXVyrlU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60409009/%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B1%95%E5%87%BA-%E6%B2%B9%E7%AE%B1%E8%93%8B%E5%BE%8C%E8%A6%96%E9%8F%A1%E5%85%A8%E8%A2%AB%E5%81%B7-2%E5%80%8B%E6%9C%88%E5%89%8D%E6%84%8F%E5%9C%8B%E4%B9%9F%E9%81%AD%E7%AB%8A",
     "timestamp": "2026-11-10T04:45:25.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "古天樂秘婚傳聞再掀波瀾　與林淑茵疑穿「情侶跑鞋」隔空放閃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196776269249777664956347.jpeg/yYTP5thHOVhVLUH9X0H-pWsXvPGqu7wbOvlF2zr5Rds?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408950/%E5%8F%A4%E5%A4%A9%E6%A8%82%E7%A7%98%E5%A9%9A%E5%82%B3%E8%81%9E%E5%86%8D%E6%8E%80%E6%B3%A2%E7%80%BE-%E8%88%87%E6%9E%97%E6%B7%91%E8%8C%B5%E7%96%91%E7%A9%BF-%E6%83%85%E4%BE%B6%E8%B7%91%E9%9E%8B-%E9%9A%94%E7%A9%BA%E6%94%BE%E9%96%83",
-    "timestamp": "2026-11-10T04:21:51.483Z",
     "strategy": ".content-card__main"
   }
 ];
