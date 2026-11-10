@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T18:53:18.204Z
+// Last updated: 2026-11-10T19:18:40.845Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華憑《功夫》勇奪最佳男配角：功名利祿皆如雲煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195777967335149568182569.jpeg/9Bc2NIJ0nGn9-44wRhJbcxEBliyzrRecSga4lEoGuJQ",
+    "url": "https://www.hk01.com/01TV/60408213/%E5%85%83%E8%8F%AF%E6%86%91-%E5%8A%9F%E5%A4%AB-%E5%8B%87%E5%A5%AA%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92-%E5%8A%9F%E5%90%8D%E5%88%A9%E7%A5%BF%E7%9A%86%E5%A6%82%E9%9B%B2%E7%85%99",
+    "timestamp": "2026-11-10T19:18:40.845Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯加大對烏能源設施襲擊　烏外長：已促美加快攔截彈交付速度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196922088980484096498167.jpeg/omsK3KEC-8PQ1pxSDtArk_i69doMLxDIKk2jWCpNo1g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409300/%E7%94%B7%E8%B3%8A%E6%B6%89%E5%85%A9%E5%BA%A6%E6%BD%9B%E5%85%A5%E8%A7%80%E5%A1%98%E5%9C%B0%E7%9B%A4-%E5%81%B7%E8%B5%B0%E9%AB%98%E5%83%B9%E5%BB%BA%E6%9D%90%E8%BD%89%E5%94%AE%E5%9C%96%E5%88%A9-%E8%AD%A6%E6%9F%A5-%E9%8A%B3%E7%9C%BC-%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-11-10T12:37:29.973Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玫瑰戰爭｜陳豪搏命寵粉做足表情　粉絲事後崩潰：佢熄咗錄影",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196781669428760576430987.jpeg/3bvpvBqgCrzFzdqirPXaBh67xk0ScI9mXuwYBF7sGAQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408974/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E9%99%B3%E8%B1%AA%E6%90%8F%E5%91%BD%E5%AF%B5%E7%B2%89%E5%81%9A%E8%B6%B3%E8%A1%A8%E6%83%85-%E7%B2%89%E7%B5%B2%E4%BA%8B%E5%BE%8C%E5%B4%A9%E6%BD%B0-%E4%BD%A2%E7%86%84%E5%92%97%E9%8C%84%E5%BD%B1",
-    "timestamp": "2026-11-10T12:24:27.531Z",
     "strategy": ".content-card__main"
   }
 ];
