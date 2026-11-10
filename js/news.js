@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T09:59:05.946Z
+// Last updated: 2026-11-10T10:20:14.766Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭羨妮14歲愛女驚喜現身大舞台獻花　眉宇極似媽咪完美繼承美貌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196842906388795392506714.jpeg/z9IFN-lxQZiETkRWWj0XLVHRpHcP4Gj2x4HT9MeB0_Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409115/%E9%83%AD%E7%BE%A8%E5%A6%AE14%E6%AD%B2%E6%84%9B%E5%A5%B3%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB%E5%A4%A7%E8%88%9E%E5%8F%B0%E7%8D%BB%E8%8A%B1-%E7%9C%89%E5%AE%87%E6%A5%B5%E4%BC%BC%E5%AA%BD%E5%92%AA%E5%AE%8C%E7%BE%8E%E7%B9%BC%E6%89%BF%E7%BE%8E%E8%B2%8C",
+    "timestamp": "2026-11-10T10:20:14.766Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳環保大道包裹起火｜區議員憂安全隱患　倡規劃專屬理貨區",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196769949545140224013794.jpeg/4klj4SFGLualeWXszgJ5qoxrXL7AvGhvKtOk9yrTpPc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408954/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E5%A7%9A%E6%BD%94%E5%87%9D-%E6%B6%89%E4%BA%8B%E5%8D%87%E9%99%8D%E6%A9%9F%E6%95%B8%E5%AD%97%E9%A9%9A%E4%BA%BA-%E5%80%A1%E5%BC%95%E5%85%A5%E7%8D%A8%E7%AB%8B%E7%AC%AC%E4%B8%89%E6%96%B9%E6%AA%A2%E9%A9%97",
     "timestamp": "2026-11-10T03:45:20.649Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳市政協原主席戴北方被逮捕　二十大以來廣東第三「虎」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196780617295990784874130.png/9CApI__lURuI7XVqE7skNcgtbQIFx6Mef6ST7X-kk-0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408977/%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%94%BF%E5%8D%94%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%88%B4%E5%8C%97%E6%96%B9%E8%A2%AB%E9%80%AE%E6%8D%95-%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BB%A5%E4%BE%86%E5%BB%A3%E6%9D%B1%E7%AC%AC%E4%B8%89-%E8%99%8E",
-    "timestamp": "2026-11-10T03:26:45.621Z",
     "strategy": ".content-card__main"
   }
 ];
