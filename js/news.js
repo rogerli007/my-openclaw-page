@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T14:59:04.702Z
+// Last updated: 2026-11-10T15:19:38.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜美10月通脹高於預期　道指早段跌逾300點　Nvidia挫逾4%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250930/1049830299971620864836107.jpeg/Zi8zOhWF2220rO4q9qvIco1UCsGv6ofY7xNO5u8TTuY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409331/%E7%BE%8E%E8%82%A1-%E7%BE%8E10%E6%9C%88%E9%80%9A%E8%84%B9%E9%AB%98%E6%96%BC%E9%A0%90%E6%9C%9F-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E8%B7%8C%E9%80%BE300%E9%BB%9E-nvidia%E6%8C%AB%E9%80%BE4",
+    "timestamp": "2026-11-10T15:19:38.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬國明高海寧同陳豪地位超然企正C位　「劇王」羅子溢都要靠邊站",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220325/584078004196478976934672.jpeg/eqkaOEkYtCcWjBDtvH0GO65mD7-3YLI7SJUYX0iVGF8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60409037/%E8%A1%8C%E5%B1%B1%E5%A5%BD%E5%8E%BB%E8%99%95-9%E5%A4%A7%E6%96%B0%E6%89%8B%E8%BC%95%E9%AC%86%E8%B7%AF%E7%B7%9A-%E9%B6%B4%E5%92%80-%E5%8D%97%E6%9C%97%E5%B1%B1-%E5%9F%8E%E9%96%80%E6%B0%B4%E5%A1%98-%E9%99%84%E4%BA%A4%E9%80%9A",
     "timestamp": "2026-11-10T08:58:31.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藍田麗港城引人臉識別　有住戶未憂私隱　籲物管確保系統順利運作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196828289604390912495386.jpeg/VI1Yyf9iFqeZkYPEDGKoistFaI8-l9I_iSMo_KwjKPw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409141/%E8%97%8D%E7%94%B0%E9%BA%97%E6%B8%AF%E5%9F%8E%E5%BC%95%E4%BA%BA%E8%87%89%E8%AD%98%E5%88%A5-%E6%9C%89%E4%BD%8F%E6%88%B6%E6%9C%AA%E6%86%82%E7%A7%81%E9%9A%B1-%E7%B1%B2%E7%89%A9%E7%AE%A1%E7%A2%BA%E4%BF%9D%E7%B3%BB%E7%B5%B1%E9%A0%86%E5%88%A9%E9%81%8B%E4%BD%9C",
-    "timestamp": "2026-11-10T08:35:41.755Z",
     "strategy": ".content-card__main"
   }
 ];
