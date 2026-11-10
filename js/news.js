@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T13:19:56.793Z
+// Last updated: 2026-11-10T13:45:26.348Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前港姐亞軍龐卓欣升呢人妻大解放　偕一眾名媛閨密出海曬S曲線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196823492394225664619254.jpeg/h_2uRcgD4g-ReWMVQNlHH6MZPU0ezqDlLnPo_C5z6Pw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408964/%E5%89%8D%E6%B8%AF%E5%A7%90%E4%BA%9E%E8%BB%8D%E9%BE%90%E5%8D%93%E6%AC%A3%E5%8D%87%E5%91%A2%E4%BA%BA%E5%A6%BB%E5%A4%A7%E8%A7%A3%E6%94%BE-%E5%81%95%E4%B8%80%E7%9C%BE%E5%90%8D%E5%AA%9B%E9%96%A8%E5%AF%86%E5%87%BA%E6%B5%B7%E6%9B%ACs%E6%9B%B2%E7%B7%9A",
+    "timestamp": "2026-11-10T13:45:26.348Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿里巴巴分拆「平頭哥」上市　獲聯交所同意　傳集資最少20億美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230331/718499811669577728752643.jpeg/73ZEa_WrR6Dg2MP508IQM11NqVk14OJA9dnPjvXZz44?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409110/%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%A3%89%E8%98%AD%E8%80%81%E5%B3%B6%E6%9C%89%E7%A7%81%E4%BA%BA%E9%A3%9B%E6%A9%9F%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E5%90%8D%E5%A4%96%E5%9C%8B%E5%85%AC%E6%B0%91%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C",
     "timestamp": "2026-11-10T07:21:06.548Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DSE｜英文閱讀卷　引文作答考生仍串錯字　 slower 寫成 shower",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196826283602874368417839.jpeg/9pPSEAlEabj_dTWMhDn8IpND8rf5yOxsse5FHbHuRR0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409084/dse-%E8%8B%B1%E6%96%87%E9%96%B1%E8%AE%80%E5%8D%B7-%E5%BC%95%E6%96%87%E4%BD%9C%E7%AD%94%E8%80%83%E7%94%9F%E4%BB%8D%E4%B8%B2%E9%8C%AF%E5%AD%97-slower-%E5%AF%AB%E6%88%90-shower",
-    "timestamp": "2026-11-10T06:59:10.218Z",
     "strategy": ".content-card__main"
   }
 ];
