@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T19:29:22.708Z
+// Last updated: 2026-11-10T19:45:03.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華憑《功夫》勇奪最佳男配角：功名利祿皆如雲煙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195777967335149568182569.jpeg/9Bc2NIJ0nGn9-44wRhJbcxEBliyzrRecSga4lEoGuJQ",
+    "url": "https://www.hk01.com/01TV/60408213/%E5%85%83%E8%8F%AF%E6%86%91-%E5%8A%9F%E5%A4%AB-%E5%8B%87%E5%A5%AA%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92-%E5%8A%9F%E5%90%8D%E5%88%A9%E7%A5%BF%E7%9A%86%E5%A6%82%E9%9B%B2%E7%85%99",
+    "timestamp": "2026-11-10T19:45:03.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華憑《功夫》勇奪最佳男配角：功名利祿皆如雲煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193283853419024384416305.png/rK0Ji87sdPP8GXmy0b3Ay2GqKHCxjcOZrhoToq4aE6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409312/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%88%86%E6%8B%86-%E5%B9%B3%E9%A0%AD%E5%93%A5-%E4%B8%8A%E5%B8%82-%E7%8D%B2%E8%81%AF%E4%BA%A4%E6%89%80%E5%90%8C%E6%84%8F-%E5%82%B3%E9%9B%86%E8%B3%87%E6%9C%80%E5%B0%9120%E5%84%84%E7%BE%8E%E5%85%83",
     "timestamp": "2026-11-10T13:19:56.793Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地劇宣傳走火入魔？《折月亮》林一盧昱曉粉絲見面會變婚禮現場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196823182430965760953740.png/qSoJHuNAc2f0-ykVMaKsCClEeDUg_k_pc_kZ8HP5GfA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60408975/%E5%85%A7%E5%9C%B0%E5%8A%87%E5%AE%A3%E5%82%B3%E8%B5%B0%E7%81%AB%E5%85%A5%E9%AD%94-%E6%8A%98%E6%9C%88%E4%BA%AE-%E6%9E%97%E4%B8%80%E7%9B%A7%E6%98%B1%E6%9B%89%E7%B2%89%E7%B5%B2%E8%A6%8B%E9%9D%A2%E6%9C%83%E8%AE%8A%E5%A9%9A%E7%A6%AE%E7%8F%BE%E5%A0%B4",
-    "timestamp": "2026-11-10T12:59:08.076Z",
     "strategy": ".content-card__main"
   }
 ];
