@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T09:45:27.386Z
+// Last updated: 2026-11-10T09:59:05.946Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳環保大道包裹起火｜區議員憂安全隱患　倡規劃專屬理貨區",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196877377095864320145769.jpeg/HKY0SaGk596Yo72zucqUKQXyes5uVsOelWVJaJVlSWg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409209/%E5%B0%87%E8%BB%8D%E6%BE%B3%E7%92%B0%E4%BF%9D%E5%A4%A7%E9%81%93%E5%8C%85%E8%A3%B9%E8%B5%B7%E7%81%AB-%E5%8D%80%E8%AD%B0%E5%93%A1%E6%86%82%E5%AE%89%E5%85%A8%E9%9A%B1%E6%82%A3-%E5%80%A1%E8%A6%8F%E5%8A%83%E5%B0%88%E5%B1%AC%E7%90%86%E8%B2%A8%E5%8D%80",
+    "timestamp": "2026-11-10T09:59:05.946Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Rick Owens x adidas Originals 最新聯乘鞋款將於11月17日發售",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196780617295990784874130.png/9CApI__lURuI7XVqE7skNcgtbQIFx6Mef6ST7X-kk-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60408977/%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%94%BF%E5%8D%94%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%88%B4%E5%8C%97%E6%96%B9%E8%A2%AB%E9%80%AE%E6%8D%95-%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BB%A5%E4%BE%86%E5%BB%A3%E6%9D%B1%E7%AC%AC%E4%B8%89-%E8%99%8E",
     "timestamp": "2026-11-10T03:26:45.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大家樂高息之外　還有盈利修復的投資邏輯｜彭偉新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60408941/%E5%A4%A7%E5%AE%B6%E6%A8%82%E9%AB%98%E6%81%AF%E4%B9%8B%E5%A4%96-%E9%82%84%E6%9C%89%E7%9B%88%E5%88%A9%E4%BF%AE%E5%BE%A9%E7%9A%84%E6%8A%95%E8%B3%87%E9%82%8F%E8%BC%AF-%E5%BD%AD%E5%81%89%E6%96%B0",
-    "timestamp": "2026-11-10T03:16:20.670Z",
     "strategy": ".content-card__main"
   }
 ];
