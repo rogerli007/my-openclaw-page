@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T12:24:27.531Z
+// Last updated: 2026-11-10T12:37:29.973Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男賊涉兩度潛入觀塘地盤　偷走高價建材轉售圖利　警查｢銳眼｣拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196922088980484096498167.jpeg/omsK3KEC-8PQ1pxSDtArk_i69doMLxDIKk2jWCpNo1g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409300/%E7%94%B7%E8%B3%8A%E6%B6%89%E5%85%A9%E5%BA%A6%E6%BD%9B%E5%85%A5%E8%A7%80%E5%A1%98%E5%9C%B0%E7%9B%A4-%E5%81%B7%E8%B5%B0%E9%AB%98%E5%83%B9%E5%BB%BA%E6%9D%90%E8%BD%89%E5%94%AE%E5%9C%96%E5%88%A9-%E8%AD%A6%E6%9F%A5-%E9%8A%B3%E7%9C%BC-%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-11-10T12:37:29.973Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玫瑰戰爭｜陳豪搏命寵粉做足表情　粉絲事後崩潰：佢熄咗錄影",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409062/meta-ai%E5%B9%B4%E9%BD%A1%E4%BC%B0%E7%AE%97%E6%8A%80%E8%A1%93%E6%93%B4%E8%87%B3%E9%A6%99%E6%B8%AFinstagram-%E9%98%B2%E9%9D%92%E5%B0%91%E5%B9%B4%E8%99%9B%E5%A0%B1%E5%B9%B4%E9%BD%A1%E9%96%8B%E6%88%B6",
     "timestamp": "2026-11-10T05:59:13.318Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門23歲女子遭男友廚房刀襲擊　前額留傷痕　警緝38歲漢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250407/985935726971457536312974.jpeg/Y2EC3UZCC_6QGC1p6g_qrw_Yz6CYj9-QpVhB849YQfM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409056/%E5%B1%AF%E9%96%8023%E6%AD%B2%E5%A5%B3%E5%AD%90%E9%81%AD%E7%94%B7%E5%8F%8B%E5%BB%9A%E6%88%BF%E5%88%80%E8%A5%B2%E6%93%8A-%E5%89%8D%E9%A1%8D%E7%95%99%E5%82%B7%E7%97%95-%E8%AD%A6%E7%B7%9D38%E6%AD%B2%E6%BC%A2",
-    "timestamp": "2026-11-10T05:45:36.104Z",
     "strategy": ".content-card__main"
   }
 ];
