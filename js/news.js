@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T18:45:44.328Z
+// Last updated: 2026-11-10T18:53:18.204Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯加大對烏能源設施襲擊　烏外長：已促美加快攔截彈交付速度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196619161673928704860941.jpeg/dT1j0yB6u6vXjCX9AryWof5v0rAbf59gwWcwc8FnMHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409352/%E4%BF%84%E7%BE%85%E6%96%AF%E5%8A%A0%E5%A4%A7%E5%B0%8D%E7%83%8F%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%A4%96%E9%95%B7-%E5%B7%B2%E4%BF%83%E7%BE%8E%E5%8A%A0%E5%BF%AB%E6%94%94%E6%88%AA%E5%BD%88%E4%BA%A4%E4%BB%98%E9%80%9F%E5%BA%A6",
+    "timestamp": "2026-11-10T18:53:18.204Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯加大對烏能源設施襲擊　烏外長：已促美加快攔截彈交付速度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196781669428760576430987.jpeg/3bvpvBqgCrzFzdqirPXaBh67xk0ScI9mXuwYBF7sGAQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408974/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E9%99%B3%E8%B1%AA%E6%90%8F%E5%91%BD%E5%AF%B5%E7%B2%89%E5%81%9A%E8%B6%B3%E8%A1%A8%E6%83%85-%E7%B2%89%E7%B5%B2%E4%BA%8B%E5%BE%8C%E5%B4%A9%E6%BD%B0-%E4%BD%A2%E7%86%84%E5%92%97%E9%8C%84%E5%BD%B1",
     "timestamp": "2026-11-10T12:24:27.531Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網傳「飛將軍」現昂坪360游繩拯救　實為跨部門演習模擬纜車故障",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196911192497459200720489.jpeg/X9PfeiOqCY43s7d8ED_f_uTOPqudierTXdTIsl3UyLI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409288/%E7%B6%B2%E5%82%B3-%E9%A3%9B%E5%B0%87%E8%BB%8D-%E7%8F%BE%E6%98%82%E5%9D%AA360%E6%B8%B8%E7%B9%A9%E6%8B%AF%E6%95%91-%E5%AF%A6%E7%82%BA%E8%B7%A8%E9%83%A8%E9%96%80%E6%BC%94%E7%BF%92%E6%A8%A1%E6%93%AC%E7%BA%9C%E8%BB%8A%E6%95%85%E9%9A%9C",
-    "timestamp": "2026-11-10T11:59:09.659Z",
     "strategy": ".content-card__main"
   }
 ];
