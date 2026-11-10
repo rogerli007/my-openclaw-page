@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T17:19:01.767Z
+// Last updated: 2026-11-10T17:45:15.806Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美防長赫格塞思斥彈劾案為鬧劇　特朗普再次表態力挺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196991154097229824465307.jpeg/3tuXYgFOHrdFAnIU-Y3SAQY7LnNkyVUycxKoTXMSqE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409347/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E6%96%A5%E5%BD%88%E5%8A%BE%E6%A1%88%E7%82%BA%E9%AC%A7%E5%8A%87-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%A1%A8%E6%85%8B%E5%8A%9B%E6%8C%BA",
+    "timestamp": "2026-11-10T17:45:15.806Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "露宿ATM中心｜未見老翁躺地入睡　其中一邊門柄被拆走難再反鎖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20210402/454731202511769600620534.jpeg/KneBqLWTk1m1Efm0TgLpDyLn9Jbq-M15Pej7Vz3o-1c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/606530/%E8%92%B8%E9%A4%B8%E9%A3%9F%E8%AD%9C%E5%A4%A7%E5%85%A8-25%E9%81%93%E8%92%B8%E9%A4%B8%E4%BD%8F%E5%AE%B6%E8%8F%9C30%E5%88%86%E9%90%98%E9%96%8B%E9%A3%AF-%E8%92%B8%E8%82%89%E9%A4%85%E8%92%B8%E6%B0%B4%E8%9B%8B%E5%A5%BD%E5%90%83%E7%A7%98%E8%A8%A3",
     "timestamp": "2026-11-10T10:58:57.304Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌│內媒揭黃樂51歲丈夫康偉背景：已被採取刑事強制措施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196889553911156736032847.jpeg/p34dDU3jwbTPaAm_hk00hgYPVPfcWKHR4oxAnOKMQJw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60409255/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%85%A7%E5%AA%92%E6%8F%AD%E9%BB%83%E6%A8%8251%E6%AD%B2%E4%B8%88%E5%A4%AB%E5%BA%B7%E5%81%89%E8%83%8C%E6%99%AF-%E5%B7%B2%E8%A2%AB%E6%8E%A1%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%B7%E5%88%B6%E6%8E%AA%E6%96%BD",
-    "timestamp": "2026-11-10T10:39:13.596Z",
     "strategy": ".content-card__main"
   }
 ];
