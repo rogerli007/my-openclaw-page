@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T22:59:14.131Z
+// Last updated: 2026-11-10T23:18:22.290Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梁文廣提公屋議案引爆政黨路線角力　隨時陰溝翻船?｜政圈風聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177244331761733632325716.jpeg/MMnQka3jDxXPMbHG2SSNo1EMDYgIyzBCpInIt4GJyLc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60409297/%E6%A2%81%E6%96%87%E5%BB%A3%E6%8F%90%E5%85%AC%E5%B1%8B%E8%AD%B0%E6%A1%88%E5%BC%95%E7%88%86%E6%94%BF%E9%BB%A8%E8%B7%AF%E7%B7%9A%E8%A7%92%E5%8A%9B-%E9%9A%A8%E6%99%82%E9%99%B0%E6%BA%9D%E7%BF%BB%E8%88%B9-%E6%94%BF%E5%9C%88%E9%A2%A8%E8%81%B2",
+    "timestamp": "2026-11-10T23:18:22.290Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何慈茵終極反擊唔認「哎吔阿媽」　擬訴諸法律爆師母出手刪帖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196990513333407744294538.jpeg/xbnCv7qgkQsOd6wZud6f79Lckx53XKQnsXendot3p3Y",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409346/%E9%9C%B2%E5%AE%BFatm%E4%B8%AD%E5%BF%83-%E6%9C%AA%E8%A6%8B%E8%80%81%E7%BF%81%E8%BA%BA%E5%9C%B0%E5%85%A5%E7%9D%A1-%E5%85%B6%E4%B8%AD%E4%B8%80%E9%82%8A%E9%96%80%E6%9F%84%E8%A2%AB%E6%8B%86%E8%B5%B0%E9%9B%A3%E5%86%8D%E5%8F%8D%E9%8E%96",
     "timestamp": "2026-11-10T17:19:01.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "01球評︱曼聯今日災禍誰之過？　拉傑夫英明老闆變衰落加速師",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196934688388681728239876.jpeg/83mP6vIlbcbSKA-KPvfzCKu-7AD8iYjjuyMBb7sjAW8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60409314/01%E7%90%83%E8%A9%95-%E6%9B%BC%E8%81%AF%E4%BB%8A%E6%97%A5%E7%81%BD%E7%A6%8D%E8%AA%B0%E4%B9%8B%E9%81%8E-%E6%8B%89%E5%82%91%E5%A4%AB%E8%8B%B1%E6%98%8E%E8%80%81%E9%97%86%E8%AE%8A%E8%A1%B0%E8%90%BD%E5%8A%A0%E9%80%9F%E5%B8%AB",
-    "timestamp": "2026-11-10T16:59:19.016Z",
     "strategy": ".content-card__main"
   }
 ];
