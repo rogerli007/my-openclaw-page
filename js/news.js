@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T15:44:18.999Z
+// Last updated: 2026-11-10T16:21:23.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國產化率破90%突破封鎖　新一代光刻機步入量產　關鍵部件全自主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196888295452184576963418.png/WhKJ2upXO7FnM9Fuo2jirdv_kQCj-0TyB6afxQemn8U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60409267/%E5%9C%8B%E7%94%A2%E5%8C%96%E7%8E%87%E7%A0%B490-%E7%AA%81%E7%A0%B4%E5%B0%81%E9%8E%96-%E6%96%B0%E4%B8%80%E4%BB%A3%E5%85%89%E5%88%BB%E6%A9%9F%E6%AD%A5%E5%85%A5%E9%87%8F%E7%94%A2-%E9%97%9C%E9%8D%B5%E9%83%A8%E4%BB%B6%E5%85%A8%E8%87%AA%E4%B8%BB",
+    "timestamp": "2026-11-10T16:21:23.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "魯比奧：美對伊朗經濟制裁與海上封鎖效果顯著　無需恢復軍事行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196876499051876352235870.jpeg/7w_1Yo6-zXjvH_L5xItiD51BjiZ8vwjbUz1bvlM9W74?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60409105/rick-owens-x-adidas-originals-%E6%9C%80%E6%96%B0%E8%81%AF%E4%B9%98%E9%9E%8B%E6%AC%BE%E5%B0%87%E6%96%BC11%E6%9C%8817%E6%97%A5%E7%99%BC%E5%94%AE",
     "timestamp": "2026-11-10T09:45:27.386Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "風扇清洗｜日專家3步清洗免拆妙招防塵蟎　落地扇/循環扇一樣得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196868832216485888478023.jpeg/xmTKYSGzL1GnRgWlI6ysO2s0mW6kTlQRzrJv6M6yb-g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60406604/%E9%A2%A8%E6%89%87%E6%B8%85%E6%B4%97-%E6%97%A5%E5%B0%88%E5%AE%B63%E6%AD%A5%E6%B8%85%E6%B4%97%E5%85%8D%E6%8B%86%E5%A6%99%E6%8B%9B%E9%98%B2%E5%A1%B5%E8%9F%8E-%E8%90%BD%E5%9C%B0%E6%89%87-%E5%BE%AA%E7%92%B0%E6%89%87%E4%B8%80%E6%A8%A3%E5%BE%97",
-    "timestamp": "2026-11-10T09:21:59.353Z",
     "strategy": ".content-card__main"
   }
 ];
