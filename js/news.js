@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T07:45:20.831Z
+// Last updated: 2026-11-10T07:59:10.773Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "今天是太陽雨線上看劇情｜最新追劇日曆/更新時間+楊超越董思成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195384126362882048387246.jpeg/uDAxlljyAis_U_WON7ui6j8j3_6F0E93gH8s7YB_LO0",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407880/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%A5%8A%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90",
+    "timestamp": "2026-11-10T07:59:10.773Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本前自衛隊員擅闖中國大使館　檢方要求囚1.5年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250828/1037794508365893632627035.jpeg/25jnjbwctJAFfA94N_AYZ3gN8TiVXry7Hhb2vx4W9r8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60408925/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E6%96%AC%E6%AE%BA-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%98%AF%E7%BE%8E%E5%9C%8B%E6%94%BF%E6%B2%BB%E6%83%A1%E9%AC%A5%E7%9A%84%E5%85%B7%E8%B1%A1%E5%8C%96",
     "timestamp": "2026-11-10T01:48:02.550Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廖啟智次子睇《我阿爹想旅行》憶雙親未陪父騎馬留憾：時間不等人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196733990543822848210546.jpeg/Y_bf77d9JWcLXnf2r__2JynW0HISeC6nWWjuMVlo7jE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60408088/%E5%BB%96%E5%95%9F%E6%99%BA%E6%AC%A1%E5%AD%90%E7%9D%87-%E6%88%91%E9%98%BF%E7%88%B9%E6%83%B3%E6%97%85%E8%A1%8C-%E6%86%B6%E9%9B%99%E8%A6%AA%E6%9C%AA%E9%99%AA%E7%88%B6%E9%A8%8E%E9%A6%AC%E7%95%99%E6%86%BE-%E6%99%82%E9%96%93%E4%B8%8D%E7%AD%89%E4%BA%BA",
-    "timestamp": "2026-11-10T01:20:16.889Z",
     "strategy": ".content-card__main"
   }
 ];
