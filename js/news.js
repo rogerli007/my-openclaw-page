@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T08:58:31.232Z
+// Last updated: 2026-11-10T09:21:59.353Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "風扇清洗｜日專家3步清洗免拆妙招防塵蟎　落地扇/循環扇一樣得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196868832216485888478023.jpeg/xmTKYSGzL1GnRgWlI6ysO2s0mW6kTlQRzrJv6M6yb-g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60406604/%E9%A2%A8%E6%89%87%E6%B8%85%E6%B4%97-%E6%97%A5%E5%B0%88%E5%AE%B63%E6%AD%A5%E6%B8%85%E6%B4%97%E5%85%8D%E6%8B%86%E5%A6%99%E6%8B%9B%E9%98%B2%E5%A1%B5%E8%9F%8E-%E8%90%BD%E5%9C%B0%E6%89%87-%E5%BE%AA%E7%92%B0%E6%89%87%E4%B8%80%E6%A8%A3%E5%BE%97",
+    "timestamp": "2026-11-10T09:21:59.353Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行山好去處｜9大新手輕鬆路線！鶴咀/南朗山/城門水塘 附交通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196772556158275584506714.jpeg/GKYmndPeau--cm14lZosZKFmGeR8WtBTqBqy46gasuM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408956/%E5%B0%96%E6%B2%99%E5%92%80%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93%E9%BC%A0%E7%BE%A4%E5%A4%9C%E9%81%8A%E8%A6%93%E9%A3%9F-%E5%BA%B7%E6%96%87%E7%BD%B2%E5%85%A9%E5%91%A8%E6%8E%A55%E6%8A%95%E8%A8%B4-%E6%AD%A3%E5%8A%A0%E5%BC%B7%E6%BB%85%E9%BC%A0",
     "timestamp": "2026-11-10T02:59:06.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玫瑰戰爭｜姚子羚大爆娛樂圈明爭暗鬥屢遭抹黑加害：問佢都唔會認",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196582582758674432602491.jpeg/iavUG0jFqMQyBYW4YAfXqLm7LAbLHPxgNIpXwA6KV8A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408882/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E5%A7%9A%E5%AD%90%E7%BE%9A%E5%A4%A7%E7%88%86%E5%A8%9B%E6%A8%82%E5%9C%88%E6%98%8E%E7%88%AD%E6%9A%97%E9%AC%A5%E5%B1%A2%E9%81%AD%E6%8A%B9%E9%BB%91%E5%8A%A0%E5%AE%B3-%E5%95%8F%E4%BD%A2%E9%83%BD%E5%94%94%E6%9C%83%E8%AA%8D",
-    "timestamp": "2026-11-10T02:35:21.393Z",
     "strategy": ".content-card__main"
   }
 ];
