@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T09:21:59.353Z
+// Last updated: 2026-11-10T09:45:27.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Rick Owens x adidas Originals 最新聯乘鞋款將於11月17日發售",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196876499051876352235870.jpeg/7w_1Yo6-zXjvH_L5xItiD51BjiZ8vwjbUz1bvlM9W74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60409105/rick-owens-x-adidas-originals-%E6%9C%80%E6%96%B0%E8%81%AF%E4%B9%98%E9%9E%8B%E6%AC%BE%E5%B0%87%E6%96%BC11%E6%9C%8817%E6%97%A5%E7%99%BC%E5%94%AE",
+    "timestamp": "2026-11-10T09:45:27.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "風扇清洗｜日專家3步清洗免拆妙招防塵蟎　落地扇/循環扇一樣得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260506/1128730570877046784270693.jpeg/Vy2Tl8spYX3w-nlMo-E0m_kBklC_PF9R0efz4dHn8-E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60408941/%E5%A4%A7%E5%AE%B6%E6%A8%82%E9%AB%98%E6%81%AF%E4%B9%8B%E5%A4%96-%E9%82%84%E6%9C%89%E7%9B%88%E5%88%A9%E4%BF%AE%E5%BE%A9%E7%9A%84%E6%8A%95%E8%B3%87%E9%82%8F%E8%BC%AF-%E5%BD%AD%E5%81%89%E6%96%B0",
     "timestamp": "2026-11-10T03:16:20.670Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀星光大道鼠群夜遊覓食｜康文署兩周接5投訴　正加強滅鼠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196772556158275584506714.jpeg/GKYmndPeau--cm14lZosZKFmGeR8WtBTqBqy46gasuM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408956/%E5%B0%96%E6%B2%99%E5%92%80%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93%E9%BC%A0%E7%BE%A4%E5%A4%9C%E9%81%8A%E8%A6%93%E9%A3%9F-%E5%BA%B7%E6%96%87%E7%BD%B2%E5%85%A9%E5%91%A8%E6%8E%A55%E6%8A%95%E8%A8%B4-%E6%AD%A3%E5%8A%A0%E5%BC%B7%E6%BB%85%E9%BC%A0",
-    "timestamp": "2026-11-10T02:59:06.001Z",
     "strategy": ".content-card__main"
   }
 ];
