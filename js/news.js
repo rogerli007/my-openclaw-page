@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T14:45:35.243Z
+// Last updated: 2026-11-10T14:59:04.702Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬國明高海寧同陳豪地位超然企正C位　「劇王」羅子溢都要靠邊站",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196947031717842944509726.jpeg/j_kcEXTyO2iVvFHXkFuC5KSQgYZl0S1sQCF2OEAhdjg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409324/%E9%A6%AC%E5%9C%8B%E6%98%8E%E9%AB%98%E6%B5%B7%E5%AF%A7%E5%90%8C%E9%99%B3%E8%B1%AA%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6%E4%BC%81%E6%AD%A3c%E4%BD%8D-%E5%8A%87%E7%8E%8B-%E7%BE%85%E5%AD%90%E6%BA%A2%E9%83%BD%E8%A6%81%E9%9D%A0%E9%82%8A%E7%AB%99",
+    "timestamp": "2026-11-10T14:59:04.702Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金雞獎2026｜梁家輝《捕風捉影》封帝　繼梁朝偉後獲三金影帝港人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196828289604390912495386.jpeg/VI1Yyf9iFqeZkYPEDGKoistFaI8-l9I_iSMo_KwjKPw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409141/%E8%97%8D%E7%94%B0%E9%BA%97%E6%B8%AF%E5%9F%8E%E5%BC%95%E4%BA%BA%E8%87%89%E8%AD%98%E5%88%A5-%E6%9C%89%E4%BD%8F%E6%88%B6%E6%9C%AA%E6%86%82%E7%A7%81%E9%9A%B1-%E7%B1%B2%E7%89%A9%E7%AE%A1%E7%A2%BA%E4%BF%9D%E7%B3%BB%E7%B5%B1%E9%A0%86%E5%88%A9%E9%81%8B%E4%BD%9C",
     "timestamp": "2026-11-10T08:35:41.755Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌丨諜影重重下　月之暗面被指內地租用Nvidia頂級AI晶片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158495566393511936624108.jpeg/6KsUceqwmyBkh29ESpjjdW4FqlXM3cz1V_nGXVf5xl0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409153/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%AB%9C%E5%BD%B1%E9%87%8D%E9%87%8D%E4%B8%8B-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E8%A2%AB%E6%8C%87%E5%85%A7%E5%9C%B0%E7%A7%9F%E7%94%A8nvidia%E9%A0%82%E7%B4%9Aai%E6%99%B6%E7%89%87",
-    "timestamp": "2026-11-10T08:24:40.517Z",
     "strategy": ".content-card__main"
   }
 ];
