@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T20:19:53.895Z
+// Last updated: 2026-11-10T20:44:42.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：眾議院共和黨人推選Jim Jordan擔任下屆少數黨領袖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197034563306524672795468.jpeg/hHRJ8S4t-cYR7ELwoFh1dSP4BZP2XgofVCpiAVQqYgE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409356/%E7%BE%8E%E5%AA%92-%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%8E%A8%E9%81%B8jim-jordan%E6%93%94%E4%BB%BB%E4%B8%8B%E5%B1%86%E5%B0%91%E6%95%B8%E9%BB%A8%E9%A0%98%E8%A2%96",
+    "timestamp": "2026-11-10T20:44:42.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：眾議院共和黨人推選Jim Jordan擔任下屆少數黨領袖",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196947131231899648896021.jpeg/NScW72GxC0YN4xe7E8Exg5RFeCBBbqVkTcUQCU3FEAk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409319/%E8%A5%BF%E7%92%B0%E6%B5%B7%E6%BF%B1%E5%85%AC%E5%9C%92%E5%85%A9%E7%AB%A5%E4%B8%80%E5%BA%A6%E8%B5%B0%E5%A4%B1-21%E6%AD%B2%E8%83%9E%E5%A7%8A%E5%BF%83%E6%80%A5%E5%A6%82%E7%84%9A%E5%A0%B1%E6%A1%88-%E5%B9%B8%E5%B0%8B%E5%9B%9E%E7%84%A1%E6%81%99",
     "timestamp": "2026-11-10T14:20:29.373Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新冠｜孔繁毅指50歲以上疫苗接種率僅1.27%　西醫工會倡增接種點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196900461081268224648132.jpeg/pvSgCMZAQecFCZtthvF1pakW897kUhZ8qoEY-aqBGPk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409278/%E6%96%B0%E5%86%A0-%E5%AD%94%E7%B9%81%E6%AF%85%E6%8C%8750%E6%AD%B2%E4%BB%A5%E4%B8%8A%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE%E7%8E%87%E5%83%851-27-%E8%A5%BF%E9%86%AB%E5%B7%A5%E6%9C%83%E5%80%A1%E5%A2%9E%E6%8E%A5%E7%A8%AE%E9%BB%9E",
-    "timestamp": "2026-11-10T13:59:09.886Z",
     "strategy": ".content-card__main"
   }
 ];
