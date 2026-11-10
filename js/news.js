@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T11:45:11.873Z
+// Last updated: 2026-11-10T11:59:09.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網傳「飛將軍」現昂坪360游繩拯救　實為跨部門演習模擬纜車故障",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196911192497459200720489.jpeg/X9PfeiOqCY43s7d8ED_f_uTOPqudierTXdTIsl3UyLI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409288/%E7%B6%B2%E5%82%B3-%E9%A3%9B%E5%B0%87%E8%BB%8D-%E7%8F%BE%E6%98%82%E5%9D%AA360%E6%B8%B8%E7%B9%A9%E6%8B%AF%E6%95%91-%E5%AF%A6%E7%82%BA%E8%B7%A8%E9%83%A8%E9%96%80%E6%BC%94%E7%BF%92%E6%A8%A1%E6%93%AC%E7%BA%9C%E8%BB%8A%E6%95%85%E9%9A%9C",
+    "timestamp": "2026-11-10T11:59:09.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角伯伯反鎖霸上海商業銀行ATM中心睡覺　市民無奈：只係想拎錢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196780098963902464310692.jpeg/pHN01F8UczumHyv5NFHHABCI2OTNvF0Qx_6ymsf-spo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408972/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%AD%8E%E6%97%A5%E6%96%99%E9%96%8B%E8%BF%9150%E8%90%AC%E5%A4%A9%E5%83%B9%E7%B4%85%E9%85%92-%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%91%BC-%E4%B8%80%E9%A4%90%E9%A3%AF%E9%A3%B2%E5%92%97%E9%83%A8%E5%90%8D%E8%BB%8A",
     "timestamp": "2026-11-10T05:20:47.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小巴司機毒駕｜業界指司機質素參差　難強制驗毒　靠內部通報把關",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196783400669941760820517.jpeg/14CeDUs89LwcKx-Uc-Zkir4_m8D7yeTBy_Pqcu7z6nI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409038/%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E6%AF%92%E9%A7%95-%E6%A5%AD%E7%95%8C%E6%8C%87%E5%8F%B8%E6%A9%9F%E8%B3%AA%E7%B4%A0%E5%8F%83%E5%B7%AE-%E9%9B%A3%E5%BC%B7%E5%88%B6%E9%A9%97%E6%AF%92-%E9%9D%A0%E5%85%A7%E9%83%A8%E9%80%9A%E5%A0%B1%E6%8A%8A%E9%97%9C",
-    "timestamp": "2026-11-10T04:59:10.581Z",
     "strategy": ".content-card__main"
   }
 ];
