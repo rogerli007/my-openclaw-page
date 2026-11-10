@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T18:21:14.967Z
+// Last updated: 2026-11-10T18:45:44.328Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯加大對烏能源設施襲擊　烏外長：已促美加快攔截彈交付速度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196619161673928704860941.jpeg/dT1j0yB6u6vXjCX9AryWof5v0rAbf59gwWcwc8FnMHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409352/%E4%BF%84%E7%BE%85%E6%96%AF%E5%8A%A0%E5%A4%A7%E5%B0%8D%E7%83%8F%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%A4%96%E9%95%B7-%E5%B7%B2%E4%BF%83%E7%BE%8E%E5%8A%A0%E5%BF%AB%E6%94%94%E6%88%AA%E5%BD%88%E4%BA%A4%E4%BB%98%E9%80%9F%E5%BA%A6",
+    "timestamp": "2026-11-10T18:45:44.328Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華拍《功夫》慘遭酷暑考驗：40度上海高溫下曬到中暑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196911192497459200720489.jpeg/X9PfeiOqCY43s7d8ED_f_uTOPqudierTXdTIsl3UyLI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409288/%E7%B6%B2%E5%82%B3-%E9%A3%9B%E5%B0%87%E8%BB%8D-%E7%8F%BE%E6%98%82%E5%9D%AA360%E6%B8%B8%E7%B9%A9%E6%8B%AF%E6%95%91-%E5%AF%A6%E7%82%BA%E8%B7%A8%E9%83%A8%E9%96%80%E6%BC%94%E7%BF%92%E6%A8%A1%E6%93%AC%E7%BA%9C%E8%BB%8A%E6%95%85%E9%9A%9C",
     "timestamp": "2026-11-10T11:59:09.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角伯伯反鎖霸上海商業銀行ATM中心睡覺　市民無奈：只係想拎錢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196909722490376192078691.jpeg/ynuqhfuNg1vjWAe1WL0M57VhE__tCsFpglPMGIJTzBg",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409160/%E5%8C%97%E8%A7%92%E4%BC%AF%E4%BC%AF%E5%8F%8D%E9%8E%96%E9%9C%B8%E4%B8%8A%E6%B5%B7%E5%95%86%E6%A5%AD%E9%8A%80%E8%A1%8Catm%E4%B8%AD%E5%BF%83%E7%9D%A1%E8%A6%BA-%E5%B8%82%E6%B0%91%E7%84%A1%E5%A5%88-%E5%8F%AA%E4%BF%82%E6%83%B3%E6%8B%8E%E9%8C%A2",
-    "timestamp": "2026-11-10T11:45:11.873Z",
     "strategy": ".content-card__main"
   }
 ];
