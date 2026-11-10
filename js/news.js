@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T06:59:10.218Z
+// Last updated: 2026-11-10T07:21:06.548Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "菲律賓棉蘭老島有私人飛機墜毀　機上6名外國公民生死未卜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230331/718499811669577728752643.jpeg/73ZEa_WrR6Dg2MP508IQM11NqVk14OJA9dnPjvXZz44?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409110/%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%A3%89%E8%98%AD%E8%80%81%E5%B3%B6%E6%9C%89%E7%A7%81%E4%BA%BA%E9%A3%9B%E6%A9%9F%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A6%E5%90%8D%E5%A4%96%E5%9C%8B%E5%85%AC%E6%B0%91%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C",
+    "timestamp": "2026-11-10T07:21:06.548Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DSE｜英文閱讀卷　引文作答考生仍串錯字　 slower 寫成 shower",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260723/1156911118321455104453876.jpeg/-eN7fCdwZ0BBTwGfL1y4xm4M1eOt2u60KcltxSnJbcU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408920/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%BA%AB%E4%BB%BD%E7%AD%89%E5%90%8C%E8%8B%B1%E5%81%89%E9%81%94-ai%E7%94%A2%E6%A5%AD%E6%9C%80%E9%97%9C%E9%8D%B5%E7%9A%84%E6%99%B6%E7%89%87%E5%B8%9D%E5%9C%8B%E9%99%B7%E6%8E%A5%E7%8F%AD%E5%8D%B1%E6%A9%9F",
     "timestamp": "2026-11-10T01:04:01.879Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車CAM｜北大嶼山公路深宵散落卡板石塊　9車疑中招爆胎或刮花",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196739207725322240308695.jpeg/FWbvxG0Mhgo5vweKlIMbyN6FDpWyzY9n7CYT6OwmE-g",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408917/%E8%BB%8Acam-%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B7%B1%E5%AE%B5%E6%95%A3%E8%90%BD%E5%8D%A1%E6%9D%BF%E7%9F%B3%E5%A1%8A-9%E8%BB%8A%E7%96%91%E4%B8%AD%E6%8B%9B%E7%88%86%E8%83%8E%E6%88%96%E5%88%AE%E8%8A%B1",
-    "timestamp": "2026-11-10T00:49:46.121Z",
     "strategy": ".content-card__main"
   }
 ];
