@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T08:35:41.755Z
+// Last updated: 2026-11-10T08:58:31.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "行山好去處｜9大新手輕鬆路線！鶴咀/南朗山/城門水塘 附交通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220325/584078004196478976934672.jpeg/eqkaOEkYtCcWjBDtvH0GO65mD7-3YLI7SJUYX0iVGF8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60409037/%E8%A1%8C%E5%B1%B1%E5%A5%BD%E5%8E%BB%E8%99%95-9%E5%A4%A7%E6%96%B0%E6%89%8B%E8%BC%95%E9%AC%86%E8%B7%AF%E7%B7%9A-%E9%B6%B4%E5%92%80-%E5%8D%97%E6%9C%97%E5%B1%B1-%E5%9F%8E%E9%96%80%E6%B0%B4%E5%A1%98-%E9%99%84%E4%BA%A4%E9%80%9A",
+    "timestamp": "2026-11-10T08:58:31.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藍田麗港城引人臉識別　有住戶未憂私隱　籲物管確保系統順利運作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196582582758674432602491.jpeg/iavUG0jFqMQyBYW4YAfXqLm7LAbLHPxgNIpXwA6KV8A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408882/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E5%A7%9A%E5%AD%90%E7%BE%9A%E5%A4%A7%E7%88%86%E5%A8%9B%E6%A8%82%E5%9C%88%E6%98%8E%E7%88%AD%E6%9A%97%E9%AC%A5%E5%B1%A2%E9%81%AD%E6%8A%B9%E9%BB%91%E5%8A%A0%E5%AE%B3-%E5%95%8F%E4%BD%A2%E9%83%BD%E5%94%94%E6%9C%83%E8%AA%8D",
     "timestamp": "2026-11-10T02:35:21.393Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紐時：美商務部疑在英偉達介入後　中止針對Megaspeed 晶片輸中案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131602020432613376390478.jpeg/6r2Mq-TEdO7xYOCGa593oitvzFSF6mRgxD5YUMQ-WFA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60408952/%E7%B4%90%E6%99%82-%E7%BE%8E%E5%95%86%E5%8B%99%E9%83%A8%E7%96%91%E5%9C%A8%E8%8B%B1%E5%81%89%E9%81%94%E4%BB%8B%E5%85%A5%E5%BE%8C-%E4%B8%AD%E6%AD%A2%E9%87%9D%E5%B0%8Dmegaspeed-%E6%99%B6%E7%89%87%E8%BC%B8%E4%B8%AD%E6%A1%88",
-    "timestamp": "2026-11-10T02:23:57.369Z",
     "strategy": ".content-card__main"
   }
 ];
