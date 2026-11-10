@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T14:20:29.373Z
+// Last updated: 2026-11-10T14:45:35.243Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金雞獎2026｜梁家輝《捕風捉影》封帝　繼梁朝偉後獲三金影帝港人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196953972405964800793501.jpeg/l8gj620--oDBCEls6o7BG9-9aZrGjHU_fwaqCn8Gqgo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409328/%E9%87%91%E9%9B%9E%E7%8D%8E2026-%E6%A2%81%E5%AE%B6%E8%BC%9D-%E6%8D%95%E9%A2%A8%E6%8D%89%E5%BD%B1-%E5%B0%81%E5%B8%9D-%E7%B9%BC%E6%A2%81%E6%9C%9D%E5%81%89%E5%BE%8C%E7%8D%B2%E4%B8%89%E9%87%91%E5%BD%B1%E5%B8%9D%E6%B8%AF%E4%BA%BA",
+    "timestamp": "2026-11-10T14:45:35.243Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西環海濱公園兩童一度走失　21歲胞姊心急如焚報案　幸尋回無恙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260727/1158495566393511936624108.jpeg/6KsUceqwmyBkh29ESpjjdW4FqlXM3cz1V_nGXVf5xl0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409153/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%AB%9C%E5%BD%B1%E9%87%8D%E9%87%8D%E4%B8%8B-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E8%A2%AB%E6%8C%87%E5%85%A7%E5%9C%B0%E7%A7%9F%E7%94%A8nvidia%E9%A0%82%E7%B4%9Aai%E6%99%B6%E7%89%87",
     "timestamp": "2026-11-10T08:24:40.517Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "今天是太陽雨線上看劇情｜最新追劇日曆/更新時間+楊超越董思成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195384126362882048387246.jpeg/uDAxlljyAis_U_WON7ui6j8j3_6F0E93gH8s7YB_LO0",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407880/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8%E7%B7%9A%E4%B8%8A%E7%9C%8B%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%A5%8A%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90",
-    "timestamp": "2026-11-10T07:59:10.773Z",
     "strategy": ".content-card__main"
   }
 ];
