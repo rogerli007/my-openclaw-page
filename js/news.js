@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T12:59:08.076Z
+// Last updated: 2026-11-10T13:19:56.793Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿里巴巴分拆「平頭哥」上市　獲聯交所同意　傳集資最少20億美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193283853419024384416305.png/rK0Ji87sdPP8GXmy0b3Ay2GqKHCxjcOZrhoToq4aE6I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409312/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%88%86%E6%8B%86-%E5%B9%B3%E9%A0%AD%E5%93%A5-%E4%B8%8A%E5%B8%82-%E7%8D%B2%E8%81%AF%E4%BA%A4%E6%89%80%E5%90%8C%E6%84%8F-%E5%82%B3%E9%9B%86%E8%B3%87%E6%9C%80%E5%B0%9120%E5%84%84%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-11-10T13:19:56.793Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地劇宣傳走火入魔？《折月亮》林一盧昱曉粉絲見面會變婚禮現場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196826283602874368417839.jpeg/9pPSEAlEabj_dTWMhDn8IpND8rf5yOxsse5FHbHuRR0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409084/dse-%E8%8B%B1%E6%96%87%E9%96%B1%E8%AE%80%E5%8D%B7-%E5%BC%95%E6%96%87%E4%BD%9C%E7%AD%94%E8%80%83%E7%94%9F%E4%BB%8D%E4%B8%B2%E9%8C%AF%E5%AD%97-slower-%E5%AF%AB%E6%88%90-shower",
     "timestamp": "2026-11-10T06:59:10.218Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "藍田麗港城擬引人臉識別　物管業界：新樓已用多年　保安程度較高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196826653024587776297065.jpeg/LAhXEIVi8ofRsOkx2WHn_1MP3DEQzAea9fPOkfXzzpE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409058/%E8%97%8D%E7%94%B0%E9%BA%97%E6%B8%AF%E5%9F%8E%E6%93%AC%E5%BC%95%E4%BA%BA%E8%87%89%E8%AD%98%E5%88%A5-%E7%89%A9%E7%AE%A1%E6%A5%AD%E7%95%8C-%E6%96%B0%E6%A8%93%E5%B7%B2%E7%94%A8%E5%A4%9A%E5%B9%B4-%E4%BF%9D%E5%AE%89%E7%A8%8B%E5%BA%A6%E8%BC%83%E9%AB%98",
-    "timestamp": "2026-11-10T06:27:01.802Z",
     "strategy": ".content-card__main"
   }
 ];
