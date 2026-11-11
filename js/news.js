@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T00:37:18.259Z
+// Last updated: 2026-11-11T00:56:52.558Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地單位充電器火警｜小四女童披警制服脫臉　嚇到喊：好驚呀！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197100277723828224064521.jpeg/-3ZNrGeb3NraQbOkXPew6tt2u4IXGNg6Ye1IKGHtSCg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409368/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%96%AE%E4%BD%8D%E5%85%85%E9%9B%BB%E5%99%A8%E7%81%AB%E8%AD%A6-%E5%B0%8F%E5%9B%9B%E5%A5%B3%E7%AB%A5%E6%8A%AB%E8%AD%A6%E5%88%B6%E6%9C%8D%E8%84%AB%E8%87%89-%E5%9A%87%E5%88%B0%E5%96%8A-%E5%A5%BD%E9%A9%9A%E5%91%80",
+    "timestamp": "2026-11-11T00:56:52.558Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓劇《好搭檔2》11.20首播！張娜拉自立門戶　迎戰網紅律師朴海鎮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196619161673928704860941.jpeg/dT1j0yB6u6vXjCX9AryWof5v0rAbf59gwWcwc8FnMHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409352/%E4%BF%84%E7%BE%85%E6%96%AF%E5%8A%A0%E5%A4%A7%E5%B0%8D%E7%83%8F%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%A4%96%E9%95%B7-%E5%B7%B2%E4%BF%83%E7%BE%8E%E5%8A%A0%E5%BF%AB%E6%94%94%E6%88%AA%E5%BD%88%E4%BA%A4%E4%BB%98%E9%80%9F%E5%BA%A6",
     "timestamp": "2026-11-10T18:53:18.204Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯加大對烏能源設施襲擊　烏外長：已促美加快攔截彈交付速度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196619161673928704860941.jpeg/dT1j0yB6u6vXjCX9AryWof5v0rAbf59gwWcwc8FnMHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409352/%E4%BF%84%E7%BE%85%E6%96%AF%E5%8A%A0%E5%A4%A7%E5%B0%8D%E7%83%8F%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%A4%96%E9%95%B7-%E5%B7%B2%E4%BF%83%E7%BE%8E%E5%8A%A0%E5%BF%AB%E6%94%94%E6%88%AA%E5%BD%88%E4%BA%A4%E4%BB%98%E9%80%9F%E5%BA%A6",
-    "timestamp": "2026-11-10T18:45:44.328Z",
     "strategy": ".content-card__main"
   }
 ];
