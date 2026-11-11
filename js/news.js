@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T09:45:31.057Z
+// Last updated: 2026-11-11T09:59:06.593Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鄭丹瑞細女與外籍男友愛情長跑12年修成正果　父親撐學霸千金追夢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195280167082135552784915.jpeg/B-ZXK9A1BxShPF-Z2KxLi8_cQw_sh-4G7uiTye7ok8k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60407302/%E9%84%AD%E4%B8%B9%E7%91%9E%E7%B4%B0%E5%A5%B3%E8%88%87%E5%A4%96%E7%B1%8D%E7%94%B7%E5%8F%8B%E6%84%9B%E6%83%85%E9%95%B7%E8%B7%9112%E5%B9%B4%E4%BF%AE%E6%88%90%E6%AD%A3%E6%9E%9C-%E7%88%B6%E8%A6%AA%E6%92%90%E5%AD%B8%E9%9C%B8%E5%8D%83%E9%87%91%E8%BF%BD%E5%A4%A2",
+    "timestamp": "2026-11-11T09:59:06.593Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜鄺港傑稱在咖啡室與弟相會有動作　只在談論健身話題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196841923369766912190253.jpeg/LkLi_IWsWvbg6GvIRmlPJgFXZFXN2k-Gizw7eos8O3o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409431/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%82%B3%E9%BB%83%E6%A8%82%E6%9B%BE%E9%81%AD%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%95%8F%E8%A9%B1%E5%8F%8A%E9%99%90%E5%88%B6%E9%9B%A2%E5%A2%83-%E5%B0%91%E5%A0%B15%E8%90%AC%E6%99%B6%E7%89%87%E5%8E%BB%E5%90%91",
     "timestamp": "2026-11-11T03:59:08.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣或收緊兩類港人入境審查　含內地出生者　陸委會：不會一刀切",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221102/664464292556312576034621.jpeg/teEr2-L-r6N__eLYS402onYmNwu-Rtqcy3SNAst0jQI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60409451/%E5%8F%B0%E7%81%A3%E6%88%96%E6%94%B6%E7%B7%8A%E5%85%A9%E9%A1%9E%E6%B8%AF%E4%BA%BA%E5%85%A5%E5%A2%83%E5%AF%A9%E6%9F%A5-%E5%90%AB%E5%85%A7%E5%9C%B0%E5%87%BA%E7%94%9F%E8%80%85-%E9%99%B8%E5%A7%94%E6%9C%83-%E4%B8%8D%E6%9C%83%E4%B8%80%E5%88%80%E5%88%87",
-    "timestamp": "2026-11-11T03:45:43.736Z",
     "strategy": ".content-card__main"
   }
 ];
