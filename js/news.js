@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T01:20:16.716Z
+// Last updated: 2026-11-11T01:59:13.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "OpenAI第三季度營收達百億美元　逆勢飆五成　冀估值衝1.3萬億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183310702383730688201347.jpeg/ISIkZZGCRgo4SG7ps18mFAfYrDUdLydBV3xfnVd8X50?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409376/openai%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%87%9F%E6%94%B6%E9%81%94%E7%99%BE%E5%84%84%E7%BE%8E%E5%85%83-%E9%80%86%E5%8B%A2%E9%A3%86%E4%BA%94%E6%88%90-%E5%86%80%E4%BC%B0%E5%80%BC%E8%A1%9D1-3%E8%90%AC%E5%84%84",
+    "timestamp": "2026-11-11T01:59:13.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳才是被偷吃那位？他的身體值48億美元　網民嘲：為公司捐軀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195777967335149568182569.jpeg/9Bc2NIJ0nGn9-44wRhJbcxEBliyzrRecSga4lEoGuJQ",
     "url": "https://www.hk01.com/01TV/60408213/%E5%85%83%E8%8F%AF%E6%86%91-%E5%8A%9F%E5%A4%AB-%E5%8B%87%E5%A5%AA%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92-%E5%8A%9F%E5%90%8D%E5%88%A9%E7%A5%BF%E7%9A%86%E5%A6%82%E9%9B%B2%E7%85%99",
     "timestamp": "2026-11-10T19:29:22.708Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華憑《功夫》勇奪最佳男配角：功名利祿皆如雲煙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195777967335149568182569.jpeg/9Bc2NIJ0nGn9-44wRhJbcxEBliyzrRecSga4lEoGuJQ",
-    "url": "https://www.hk01.com/01TV/60408213/%E5%85%83%E8%8F%AF%E6%86%91-%E5%8A%9F%E5%A4%AB-%E5%8B%87%E5%A5%AA%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92-%E5%8A%9F%E5%90%8D%E5%88%A9%E7%A5%BF%E7%9A%86%E5%A6%82%E9%9B%B2%E7%85%99",
-    "timestamp": "2026-11-10T19:18:40.845Z",
     "strategy": ".content-card__main"
   }
 ];
