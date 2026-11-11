@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T14:20:30.707Z
+// Last updated: 2026-11-11T14:45:32.581Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "谷雨選角挨轟｜張頌文張雪迎21歲年齡差演夫妻　喊同齡李小冉岳母",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197202636940513280836412.png/55D4GOr0o1_EwpIs9mNOnJTi_jrhmV54reqkDq3qpA4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409551/%E8%B0%B7%E9%9B%A8%E9%81%B8%E8%A7%92%E6%8C%A8%E8%BD%9F-%E5%BC%B5%E9%A0%8C%E6%96%87%E5%BC%B5%E9%9B%AA%E8%BF%8E21%E6%AD%B2%E5%B9%B4%E9%BD%A1%E5%B7%AE%E6%BC%94%E5%A4%AB%E5%A6%BB-%E5%96%8A%E5%90%8C%E9%BD%A1%E6%9D%8E%E5%B0%8F%E5%86%89%E5%B2%B3%E6%AF%8D",
+    "timestamp": "2026-11-11T14:45:32.581Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "成人展取消｜主辦去年成立老闆做設計倉存生意　上月增三內地股東",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197182288509538304789364.png/0MHmXFj1DbpeCjiuVgcgDv2SP1y5aLNeISOwXiEjsF4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409530/%E5%85%A7%E5%9C%B0%E9%9D%92%E5%B9%B4%E5%A4%B1%E6%A5%AD%E6%BD%AE%E5%82%AC%E7%94%9F%E5%95%86%E6%A9%9F-30%E5%85%83%E5%8D%B3%E5%8F%AF%E7%A7%9F%E5%B7%A5%E4%BD%8D-%E5%81%87%E4%B8%8A%E7%8F%AD-%E9%82%84%E5%8C%85%E6%8B%8D%E5%B7%A5%E4%BD%9C%E7%85%A7",
     "timestamp": "2026-11-11T08:34:35.509Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國17歲美少女青奧100米欄破紀錄奪金　張可依拒做「新吳艷妮」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197155748463775744613405.jpeg/YJefx_3YoAnBWcP1MQYEQj0UVGfguJFFu7Ygtru2ILY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60409435/%E4%B8%AD%E5%9C%8B17%E6%AD%B2%E7%BE%8E%E5%B0%91%E5%A5%B3%E9%9D%92%E5%A5%A7100%E7%B1%B3%E6%AC%84%E7%A0%B4%E7%B4%80%E9%8C%84%E5%A5%AA%E9%87%91-%E5%BC%B5%E5%8F%AF%E4%BE%9D%E6%8B%92%E5%81%9A-%E6%96%B0%E5%90%B3%E8%89%B7%E5%A6%AE",
-    "timestamp": "2026-11-11T08:24:05.168Z",
     "strategy": ".content-card__main"
   }
 ];
