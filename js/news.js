@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-10T23:59:07.021Z
+// Last updated: 2026-11-11T00:37:18.259Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓劇《好搭檔2》11.20首播！張娜拉自立門戶　迎戰網紅律師朴海鎮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196879058932076544732905.png/0atbAUb28sy_eF5OZq7lkQF9kCfoYg2RGekHwxnpB8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409214/%E9%9F%93%E5%8A%87-%E5%A5%BD%E6%90%AD%E6%AA%942-11-20%E9%A6%96%E6%92%AD-%E5%BC%B5%E5%A8%9C%E6%8B%89%E8%87%AA%E7%AB%8B%E9%96%80%E6%88%B6-%E8%BF%8E%E6%88%B0%E7%B6%B2%E7%B4%85%E5%BE%8B%E5%B8%AB%E6%9C%B4%E6%B5%B7%E9%8E%AE",
+    "timestamp": "2026-11-11T00:37:18.259Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美聯儲理事沃勒︰倘通脹加速支持一次過加息半厘　以保局方信譽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196619161673928704860941.jpeg/dT1j0yB6u6vXjCX9AryWof5v0rAbf59gwWcwc8FnMHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409352/%E4%BF%84%E7%BE%85%E6%96%AF%E5%8A%A0%E5%A4%A7%E5%B0%8D%E7%83%8F%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%A4%96%E9%95%B7-%E5%B7%B2%E4%BF%83%E7%BE%8E%E5%8A%A0%E5%BF%AB%E6%94%94%E6%88%AA%E5%BD%88%E4%BA%A4%E4%BB%98%E9%80%9F%E5%BA%A6",
     "timestamp": "2026-11-10T18:45:44.328Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華拍《功夫》慘遭酷暑考驗：40度上海高溫下曬到中暑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195774717437415424617058.jpeg/Qw3HTiluWEu5GeU_cQED1a9OpSjAB7552svjjNrL44w",
-    "url": "https://www.hk01.com/01TV/60408208/%E5%85%83%E8%8F%AF%E6%8B%8D-%E5%8A%9F%E5%A4%AB-%E6%85%98%E9%81%AD%E9%85%B7%E6%9A%91%E8%80%83%E9%A9%97-40%E5%BA%A6%E4%B8%8A%E6%B5%B7%E9%AB%98%E6%BA%AB%E4%B8%8B%E6%9B%AC%E5%88%B0%E4%B8%AD%E6%9A%91",
-    "timestamp": "2026-11-10T18:21:14.967Z",
     "strategy": ".content-card__main"
   }
 ];
