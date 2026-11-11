@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T23:18:40.615Z
+// Last updated: 2026-11-11T23:29:55.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大腸癌年輕化｜23歲女運動員無家族史　持續腹痛照腸鏡揭患原位癌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192515136326209536786059.jpeg/aEj203ZWcSGemKO94jguUFYPAx8SZSgDjoRicY6EYnE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60403896/%E5%A4%A7%E8%85%B8%E7%99%8C%E5%B9%B4%E8%BC%95%E5%8C%96-23%E6%AD%B2%E5%A5%B3%E9%81%8B%E5%8B%95%E5%93%A1%E7%84%A1%E5%AE%B6%E6%97%8F%E5%8F%B2-%E6%8C%81%E7%BA%8C%E8%85%B9%E7%97%9B%E7%85%A7%E8%85%B8%E9%8F%A1%E6%8F%AD%E6%82%A3%E5%8E%9F%E4%BD%8D%E7%99%8C",
+    "timestamp": "2026-11-11T23:29:55.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：萬斯計劃與伊朗強硬派直接對話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250228/972261338212470784391804.png/ZWnHPV_IFUIpDT6P3H5-gpTdZGACut3u1AzGndQMxp0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409798/%E4%BF%84%E7%BE%85%E6%96%AF%E9%A7%90%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%81%94%E7%88%BE%E5%A5%87%E8%80%B6%E5%A4%AB%E7%AA%81%E7%84%B6%E5%8E%BB%E4%B8%96-%E7%B5%82%E5%B9%B466%E6%AD%B2",
     "timestamp": "2026-11-11T17:19:37.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港珠澳大橋香港段半馬拉松周日舉行　特別交通安排周六起分段實施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183461722782961664287439.jpeg/40z3Y4axODe6ZKmx3kK2nyrZNFklYe3dYwJwtGMCcLQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409792/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E9%A6%99%E6%B8%AF%E6%AE%B5%E5%8D%8A%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%91%A8%E6%97%A5%E8%88%89%E8%A1%8C-%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92%E5%91%A8%E5%85%AD%E8%B5%B7%E5%88%86%E6%AE%B5%E5%AF%A6%E6%96%BD",
-    "timestamp": "2026-11-11T16:59:16.421Z",
     "strategy": ".content-card__main"
   }
 ];
