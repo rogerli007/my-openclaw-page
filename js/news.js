@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T13:59:08.984Z
+// Last updated: 2026-11-11T14:20:30.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "成人展取消｜主辦去年成立老闆做設計倉存生意　上月增三內地股東",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197295644088209408357201.png/9qix2C50FwKIvxPHIigUPfZL90-lCcbNYYJVpGGCVaQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409773/%E6%88%90%E4%BA%BA%E5%B1%95%E5%8F%96%E6%B6%88-%E4%B8%BB%E8%BE%A6%E5%8E%BB%E5%B9%B4%E6%88%90%E7%AB%8B%E8%80%81%E9%97%86%E5%81%9A%E8%A8%AD%E8%A8%88%E5%80%89%E5%AD%98%E7%94%9F%E6%84%8F-%E4%B8%8A%E6%9C%88%E5%A2%9E%E4%B8%89%E5%85%A7%E5%9C%B0%E8%82%A1%E6%9D%B1",
+    "timestamp": "2026-11-11T14:20:30.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "灣仔錫克教廟亮藍燈變《冰雪奇緣》逾百人包圍打卡　亮燈至11.24",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197155748463775744613405.jpeg/YJefx_3YoAnBWcP1MQYEQj0UVGfguJFFu7Ygtru2ILY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60409435/%E4%B8%AD%E5%9C%8B17%E6%AD%B2%E7%BE%8E%E5%B0%91%E5%A5%B3%E9%9D%92%E5%A5%A7100%E7%B1%B3%E6%AC%84%E7%A0%B4%E7%B4%80%E9%8C%84%E5%A5%AA%E9%87%91-%E5%BC%B5%E5%8F%AF%E4%BE%9D%E6%8B%92%E5%81%9A-%E6%96%B0%E5%90%B3%E8%89%B7%E5%A6%AE",
     "timestamp": "2026-11-11T08:24:05.168Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜黃仁勳被爆2度訪台享齊人福　情婦黃樂與正宮同隨行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197201374345957376715826.png/U1YRmte6yzz5T1hCIQIcSpcUVc8n_w9lTYakBU2GpAU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409565/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%A2%AB%E7%88%862%E5%BA%A6%E8%A8%AA%E5%8F%B0%E4%BA%AB%E9%BD%8A%E4%BA%BA%E7%A6%8F-%E6%83%85%E5%A9%A6%E9%BB%83%E6%A8%82%E8%88%87%E6%AD%A3%E5%AE%AE%E5%90%8C%E9%9A%A8%E8%A1%8C",
-    "timestamp": "2026-11-11T07:59:01.212Z",
     "strategy": ".content-card__main"
   }
 ];
