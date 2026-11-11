@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T06:49:59.562Z
+// Last updated: 2026-11-11T07:21:42.535Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳欣健偕嫩女買餸傳黃昏戀　親揭真相否認有新歡：我得一個老婆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197183967376183296758243.jpeg/186vcgno1yEMvSRYdLEqkZRaDC0SZDcaTxes608XrOs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409469/%E9%99%B3%E6%AC%A3%E5%81%A5%E5%81%95%E5%AB%A9%E5%A5%B3%E8%B2%B7%E9%A4%B8%E5%82%B3%E9%BB%83%E6%98%8F%E6%88%80-%E8%A6%AA%E6%8F%AD%E7%9C%9F%E7%9B%B8%E5%90%A6%E8%AA%8D%E6%9C%89%E6%96%B0%E6%AD%A1-%E6%88%91%E5%BE%97%E4%B8%80%E5%80%8B%E8%80%81%E5%A9%86",
+    "timestamp": "2026-11-11T07:21:42.535Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德媒：2024年才獲准採購DJI大疆　德軍憂安全突禁中國商用無人機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196879058932076544732905.png/0atbAUb28sy_eF5OZq7lkQF9kCfoYg2RGekHwxnpB8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409214/%E9%9F%93%E5%8A%87-%E5%A5%BD%E6%90%AD%E6%AA%942-11-20%E9%A6%96%E6%92%AD-%E5%BC%B5%E5%A8%9C%E6%8B%89%E8%87%AA%E7%AB%8B%E9%96%80%E6%88%B6-%E8%BF%8E%E6%88%B0%E7%B6%B2%E7%B4%85%E5%BE%8B%E5%B8%AB%E6%9C%B4%E6%B5%B7%E9%8E%AE",
     "timestamp": "2026-11-11T00:37:18.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美聯儲理事沃勒︰倘通脹加速支持一次過加息半厘　以保局方信譽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196895780988784640806712.jpeg/GutxhE5pc-uc74gBM9Wta5B6D1GVviSTPQLA5j0CwOY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409277/%E7%BE%8E%E8%81%AF%E5%84%B2%E7%90%86%E4%BA%8B%E6%B2%83%E5%8B%92-%E5%80%98%E9%80%9A%E8%84%B9%E5%8A%A0%E9%80%9F%E6%94%AF%E6%8C%81%E4%B8%80%E6%AC%A1%E9%81%8E%E5%8A%A0%E6%81%AF%E5%8D%8A%E5%8E%98-%E4%BB%A5%E4%BF%9D%E5%B1%80%E6%96%B9%E4%BF%A1%E8%AD%BD",
-    "timestamp": "2026-11-10T23:59:07.021Z",
     "strategy": ".content-card__main"
   }
 ];
