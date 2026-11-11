@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T00:56:52.558Z
+// Last updated: 2026-11-11T01:20:16.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳才是被偷吃那位？他的身體值48億美元　網民嘲：為公司捐軀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196974571639541760472930.jpeg/frI34hGQa3nmtmaHcoqRCLKBn4v1eSbh14pGWNeKRlg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409327/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%89%8D%E6%98%AF%E8%A2%AB%E5%81%B7%E5%90%83%E9%82%A3%E4%BD%8D-%E4%BB%96%E7%9A%84%E8%BA%AB%E9%AB%94%E5%80%BC48%E5%84%84%E7%BE%8E%E5%85%83-%E7%B6%B2%E6%B0%91%E5%98%B2-%E7%82%BA%E5%85%AC%E5%8F%B8%E6%8D%90%E8%BB%80",
+    "timestamp": "2026-11-11T01:20:16.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地單位充電器火警｜小四女童披警制服脫臉　嚇到喊：好驚呀！",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195777967335149568182569.jpeg/9Bc2NIJ0nGn9-44wRhJbcxEBliyzrRecSga4lEoGuJQ",
     "url": "https://www.hk01.com/01TV/60408213/%E5%85%83%E8%8F%AF%E6%86%91-%E5%8A%9F%E5%A4%AB-%E5%8B%87%E5%A5%AA%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92-%E5%8A%9F%E5%90%8D%E5%88%A9%E7%A5%BF%E7%9A%86%E5%A6%82%E9%9B%B2%E7%85%99",
     "timestamp": "2026-11-10T19:18:40.845Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯加大對烏能源設施襲擊　烏外長：已促美加快攔截彈交付速度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196619161673928704860941.jpeg/dT1j0yB6u6vXjCX9AryWof5v0rAbf59gwWcwc8FnMHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409352/%E4%BF%84%E7%BE%85%E6%96%AF%E5%8A%A0%E5%A4%A7%E5%B0%8D%E7%83%8F%E8%83%BD%E6%BA%90%E8%A8%AD%E6%96%BD%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%A4%96%E9%95%B7-%E5%B7%B2%E4%BF%83%E7%BE%8E%E5%8A%A0%E5%BF%AB%E6%94%94%E6%88%AA%E5%BD%88%E4%BA%A4%E4%BB%98%E9%80%9F%E5%BA%A6",
-    "timestamp": "2026-11-10T18:53:18.204Z",
     "strategy": ".content-card__main"
   }
 ];
