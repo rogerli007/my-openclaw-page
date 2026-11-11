@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T22:59:08.916Z
+// Last updated: 2026-11-11T23:18:40.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：萬斯計劃與伊朗強硬派直接對話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189258463486676992684015.jpeg/qTLKSOe6FPDtih_vnOcUKeqEh9RU7K20L1yaVi9cmlY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409816/%E7%BE%8E%E5%AA%92-%E8%90%AC%E6%96%AF%E8%A8%88%E5%8A%83%E8%88%87%E4%BC%8A%E6%9C%97%E5%BC%B7%E7%A1%AC%E6%B4%BE%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1",
+    "timestamp": "2026-11-11T23:18:40.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WSJ：英偉達董事會準備罷免黃仁勳　因其存有兩段婚外情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183461722782961664287439.jpeg/40z3Y4axODe6ZKmx3kK2nyrZNFklYe3dYwJwtGMCcLQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409792/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E9%A6%99%E6%B8%AF%E6%AE%B5%E5%8D%8A%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%91%A8%E6%97%A5%E8%88%89%E8%A1%8C-%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92%E5%91%A8%E5%85%AD%E8%B5%B7%E5%88%86%E6%AE%B5%E5%AF%A6%E6%96%BD",
     "timestamp": "2026-11-11T16:59:16.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港珠澳大橋香港段半馬拉松周日舉行　特別交通安排周六起分段實施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183461722782961664287439.jpeg/40z3Y4axODe6ZKmx3kK2nyrZNFklYe3dYwJwtGMCcLQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409792/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E9%A6%99%E6%B8%AF%E6%AE%B5%E5%8D%8A%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%91%A8%E6%97%A5%E8%88%89%E8%A1%8C-%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92%E5%91%A8%E5%85%AD%E8%B5%B7%E5%88%86%E6%AE%B5%E5%AF%A6%E6%96%BD",
-    "timestamp": "2026-11-11T16:46:26.706Z",
     "strategy": ".content-card__main"
   }
 ];
