@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T11:44:35.340Z
+// Last updated: 2026-11-11T11:59:03.465Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網購走私內地凍肉無冷藏4小時運抵九龍　跨部門拘9人檢逾千公斤貨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197249019248644096729586.jpeg/kqNAHcIOzVFXKqiKDZVqCydeElCBMaYQ0mZ9QfdmfUE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409704/%E7%B6%B2%E8%B3%BC%E8%B5%B0%E7%A7%81%E5%85%A7%E5%9C%B0%E5%87%8D%E8%82%89%E7%84%A1%E5%86%B7%E8%97%8F4%E5%B0%8F%E6%99%82%E9%81%8B%E6%8A%B5%E4%B9%9D%E9%BE%8D-%E8%B7%A8%E9%83%A8%E9%96%80%E6%8B%989%E4%BA%BA%E6%AA%A2%E9%80%BE%E5%8D%83%E5%85%AC%E6%96%A4%E8%B2%A8",
+    "timestamp": "2026-11-11T11:59:03.465Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "成人展取消｜參展日本女優包括波多野結衣、河北彩花等　名單一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197179865455923200897632.jpeg/byXZtaoUQLhMyhycHStgBK3A70vU6NbBrCDqSKwg6kg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409528/%E9%87%91%E7%99%BC%E5%B1%80%E6%8F%90%E4%B8%89%E5%A4%A7%E5%BB%BA%E8%AD%B0%E5%8A%A9%E6%B8%AF%E5%90%B8%E8%80%90%E5%BF%83%E8%B3%87%E6%9C%AC-%E7%B1%B2%E5%85%A7%E5%9C%B0%E9%80%80%E4%BC%91%E5%9F%BA%E9%87%91%E7%B4%8D%E5%85%A5%E5%82%B5%E5%88%B8%E5%8D%97%E5%90%91%E9%80%9A",
     "timestamp": "2026-11-11T05:45:51.191Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "獸醫管理局今年收66宗投訴五年新高　涉無牌行醫舉報0檢控或定罪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197168150794211328830579.png/efIqKJmuybn2Q78I0KW2uUxw9CgGF7Y2X0JLU19CS1M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409506/%E7%8D%B8%E9%86%AB%E7%AE%A1%E7%90%86%E5%B1%80%E4%BB%8A%E5%B9%B4%E6%94%B666%E5%AE%97%E6%8A%95%E8%A8%B4%E4%BA%94%E5%B9%B4%E6%96%B0%E9%AB%98-%E6%B6%89%E7%84%A1%E7%89%8C%E8%A1%8C%E9%86%AB%E8%88%89%E5%A0%B10%E6%AA%A2%E6%8E%A7%E6%88%96%E5%AE%9A%E7%BD%AA",
-    "timestamp": "2026-11-11T05:30:11.141Z",
     "strategy": ".content-card__main"
   }
 ];
