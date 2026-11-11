@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T07:45:29.111Z
+// Last updated: 2026-11-11T07:59:01.212Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜黃仁勳被爆2度訪台享齊人福　情婦黃樂與正宮同隨行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197201374345957376715826.png/U1YRmte6yzz5T1hCIQIcSpcUVc8n_w9lTYakBU2GpAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409565/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%A2%AB%E7%88%862%E5%BA%A6%E8%A8%AA%E5%8F%B0%E4%BA%AB%E9%BD%8A%E4%BA%BA%E7%A6%8F-%E6%83%85%E5%A9%A6%E9%BB%83%E6%A8%82%E8%88%87%E6%AD%A3%E5%AE%AE%E5%90%8C%E9%9A%A8%E8%A1%8C",
+    "timestamp": "2026-11-11T07:59:01.212Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雙11優惠2026｜30+網購優惠碼合集！iHerb/Lululemon/Nike/豐澤",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196974571639541760472930.jpeg/frI34hGQa3nmtmaHcoqRCLKBn4v1eSbh14pGWNeKRlg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409327/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%89%8D%E6%98%AF%E8%A2%AB%E5%81%B7%E5%90%83%E9%82%A3%E4%BD%8D-%E4%BB%96%E7%9A%84%E8%BA%AB%E9%AB%94%E5%80%BC48%E5%84%84%E7%BE%8E%E5%85%83-%E7%B6%B2%E6%B0%91%E5%98%B2-%E7%82%BA%E5%85%AC%E5%8F%B8%E6%8D%90%E8%BB%80",
     "timestamp": "2026-11-11T01:20:16.716Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地單位充電器火警｜小四女童披警制服脫臉　嚇到喊：好驚呀！",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197100277723828224064521.jpeg/-3ZNrGeb3NraQbOkXPew6tt2u4IXGNg6Ye1IKGHtSCg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409368/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%96%AE%E4%BD%8D%E5%85%85%E9%9B%BB%E5%99%A8%E7%81%AB%E8%AD%A6-%E5%B0%8F%E5%9B%9B%E5%A5%B3%E7%AB%A5%E6%8A%AB%E8%AD%A6%E5%88%B6%E6%9C%8D%E8%84%AB%E8%87%89-%E5%9A%87%E5%88%B0%E5%96%8A-%E5%A5%BD%E9%A9%9A%E5%91%80",
-    "timestamp": "2026-11-11T00:56:52.558Z",
     "strategy": ".content-card__main"
   }
 ];
