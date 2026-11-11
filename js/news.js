@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T20:20:07.732Z
+// Last updated: 2026-11-11T21:17:11.389Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遭沙特攔截導彈及無人機　胡塞武裝否認以麥加為目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409807/%E9%81%AD%E6%B2%99%E7%89%B9%E6%94%94%E6%88%AA%E5%B0%8E%E5%BD%88%E5%8F%8A%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%A6%E8%AA%8D%E4%BB%A5%E9%BA%A5%E5%8A%A0%E7%82%BA%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-11-11T21:17:11.389Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華晚年移居溫哥華：享受孫兒圍繞的清閑退休生活",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197202636940513280836412.png/55D4GOr0o1_EwpIs9mNOnJTi_jrhmV54reqkDq3qpA4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409551/%E8%B0%B7%E9%9B%A8%E9%81%B8%E8%A7%92%E6%8C%A8%E8%BD%9F-%E5%BC%B5%E9%A0%8C%E6%96%87%E5%BC%B5%E9%9B%AA%E8%BF%8E21%E6%AD%B2%E5%B9%B4%E9%BD%A1%E5%B7%AE%E6%BC%94%E5%A4%AB%E5%A6%BB-%E5%96%8A%E5%90%8C%E9%BD%A1%E6%9D%8E%E5%B0%8F%E5%86%89%E5%B2%B3%E6%AF%8D",
     "timestamp": "2026-11-11T14:45:32.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "成人展取消｜主辦去年成立老闆做設計倉存生意　上月增三內地股東",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197295644088209408357201.png/9qix2C50FwKIvxPHIigUPfZL90-lCcbNYYJVpGGCVaQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409773/%E6%88%90%E4%BA%BA%E5%B1%95%E5%8F%96%E6%B6%88-%E4%B8%BB%E8%BE%A6%E5%8E%BB%E5%B9%B4%E6%88%90%E7%AB%8B%E8%80%81%E9%97%86%E5%81%9A%E8%A8%AD%E8%A8%88%E5%80%89%E5%AD%98%E7%94%9F%E6%84%8F-%E4%B8%8A%E6%9C%88%E5%A2%9E%E4%B8%89%E5%85%A7%E5%9C%B0%E8%82%A1%E6%9D%B1",
-    "timestamp": "2026-11-11T14:20:30.707Z",
     "strategy": ".content-card__main"
   }
 ];
