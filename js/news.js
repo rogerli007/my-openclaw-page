@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T05:59:26.778Z
+// Last updated: 2026-11-11T06:27:54.299Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "矢板明夫遇襲｜港黑幫收錢跨境施暴　嫌犯認罪求輕判當事人拒和解",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197191077086367744248196.jpeg/j5VCYutut6b-LPV0dV1BFCQhKCmOcCJE8h3RTfId0U0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60409547/%E7%9F%A2%E6%9D%BF%E6%98%8E%E5%A4%AB%E9%81%87%E8%A5%B2-%E6%B8%AF%E9%BB%91%E5%B9%AB%E6%94%B6%E9%8C%A2%E8%B7%A8%E5%A2%83%E6%96%BD%E6%9A%B4-%E5%AB%8C%E7%8A%AF%E8%AA%8D%E7%BD%AA%E6%B1%82%E8%BC%95%E5%88%A4%E7%95%B6%E4%BA%8B%E4%BA%BA%E6%8B%92%E5%92%8C%E8%A7%A3",
+    "timestamp": "2026-11-11T06:27:54.299Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢貨倉男工遭約300公斤巨型紙卷壓傷腳　受傷送院治理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197088733522825216196850.jpeg/XAOSgPvPRocxFnmqtK8e72Wgrq9Ugbrq1tRDI9bUQyM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409365/%E6%97%BA%E8%A7%92%E6%96%B0%E5%A1%AB%E5%9C%B0%E8%A1%97%E5%96%AE%E4%BD%8D%E7%96%91%E5%85%85%E9%9B%BB%E5%99%A8%E5%86%92%E7%85%99%E5%A4%B1%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E4%B8%80%E4%BA%BA%E4%B8%8D%E9%81%A9",
     "timestamp": "2026-11-10T23:44:45.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高海寧落實出演《新聞女王3》　獲廣告商瘋狂集郵逼爆通道",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197006195831869440653870.jpeg/GccIG43-zsiWwWqQc92ir18MMEj3dEN1opmazaKZms0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409350/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%90%BD%E5%AF%A6%E5%87%BA%E6%BC%94-%E6%96%B0%E8%81%9E%E5%A5%B3%E7%8E%8B3-%E7%8D%B2%E5%BB%A3%E5%91%8A%E5%95%86%E7%98%8B%E7%8B%82%E9%9B%86%E9%83%B5%E9%80%BC%E7%88%86%E9%80%9A%E9%81%93",
-    "timestamp": "2026-11-10T23:26:08.155Z",
     "strategy": ".content-card__main"
   }
 ];
