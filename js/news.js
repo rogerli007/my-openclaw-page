@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T21:59:03.147Z
+// Last updated: 2026-11-11T22:19:32.921Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地健身室MMA｜女子亂扔啞鈴惹不滿　男客勸阻無果連揮2拳擊倒地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197235173880500224683059.jpeg/PRz9uTX9UIdw-5UcQjBmO1aMvRLtk1ZMMACBDDAAgQw",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409487/%E5%85%A7%E5%9C%B0%E5%81%A5%E8%BA%AB%E5%AE%A4mma-%E5%A5%B3%E5%AD%90%E4%BA%82%E6%89%94%E5%95%9E%E9%88%B4%E6%83%B9%E4%B8%8D%E6%BB%BF-%E7%94%B7%E5%AE%A2%E5%8B%B8%E9%98%BB%E7%84%A1%E6%9E%9C%E9%80%A3%E6%8F%AE2%E6%8B%B3%E6%93%8A%E5%80%92%E5%9C%B0",
+    "timestamp": "2026-11-11T22:19:32.921Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜美眾議院委員會擬發傳票　要求黃仁勳說明間諜風波",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173636068986195968594681.jpeg/518tSnHEG-0HXbvGWyOdlOdgaKfg-Ge1iWv9vqxr_b4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409772/%E6%96%B0%E5%86%A0-%E9%98%B2%E8%AD%B7%E4%B8%AD%E5%BF%83-%E6%96%B0%E6%88%90%E4%BB%BD%E7%96%AB%E8%8B%97%E7%94%9F%E7%94%A2%E5%8F%8A%E9%81%8B%E9%80%81%E9%9C%80%E6%99%82-%E4%B8%8D%E6%9C%83%E6%93%B4%E5%B1%95%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE%E9%BB%9E",
     "timestamp": "2026-11-11T15:59:11.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "成人展取消｜橘瑪麗、涼森玲夢發文指抵港時被拒入境　對粉絲致歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197309069950455808317908.jpeg/QC5GKQKJWGsM3aXDjXgIihyg7cI2OABs9cz7sfXM-7E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409778/%E6%88%90%E4%BA%BA%E5%B1%95%E5%8F%96%E6%B6%88-%E6%A9%98%E7%91%AA%E9%BA%97-%E6%B6%BC%E6%A3%AE%E7%8E%B2%E5%A4%A2%E7%99%BC%E6%96%87%E6%8C%87%E6%8A%B5%E6%B8%AF%E6%99%82%E8%A2%AB%E6%8B%92%E5%85%A5%E5%A2%83-%E5%B0%8D%E7%B2%89%E7%B5%B2%E8%87%B4%E6%AD%89",
-    "timestamp": "2026-11-11T15:45:15.900Z",
     "strategy": ".content-card__main"
   }
 ];
