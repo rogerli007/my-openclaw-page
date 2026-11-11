@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T14:59:05.269Z
+// Last updated: 2026-11-11T15:19:24.387Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜道指早段偏軟　納指最新升逾1%　Nvidia反彈2%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183912684605673472185320.jpeg/-yqhRmE8-wvQpESKdamgj-BjO4ipzOZGUw7m-FMO5vg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409788/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%81%8F%E8%BB%9F-%E7%B4%8D%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87%E9%80%BE1-nvidia%E5%8F%8D%E5%BD%882",
+    "timestamp": "2026-11-11T15:19:24.387Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再婚皇后｜申敏兒李鍾碩曖昧升溫遇危機！李世榮心機認筆友引眾怒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197216027105038336756109.png/run4uTXnaNeHU6nLgpPo06-kfZbRrH59eaLLGHmiyxg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409618/%E6%AD%8C%E6%89%8B%E5%BC%B5%E5%AE%87%E7%BD%B9%E6%82%A3%E7%BD%95%E8%A6%8B%E8%81%B2%E9%9F%B3%E7%97%99%E6%94%A3%E5%81%9C%E5%B7%A58%E5%B9%B4-%E7%99%BD%E9%AB%AE%E8%BF%91%E7%85%A7%E4%BA%AE%E7%9B%B8%E5%AE%A3%E5%91%8A-%E9%87%8D%E8%BF%94%E8%81%B7%E5%A0%B4",
     "timestamp": "2026-11-11T08:59:25.166Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "首屆淘寶雙11僅27品牌　成交額12年後漲逾萬倍　為何要選11.11？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197225698868072448725491.jpeg/yQE7xNEN3ZMGCGH29cZyubMLxLsGtpnSMo3PSTKNz0k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409605/%E9%A6%96%E5%B1%86%E6%B7%98%E5%AF%B6%E9%9B%9911%E5%83%8527%E5%93%81%E7%89%8C-%E6%88%90%E4%BA%A4%E9%A1%8D12%E5%B9%B4%E5%BE%8C%E6%BC%B2%E9%80%BE%E8%90%AC%E5%80%8D-%E7%82%BA%E4%BD%95%E8%A6%81%E9%81%B811-11",
-    "timestamp": "2026-11-11T08:45:01.968Z",
     "strategy": ".content-card__main"
   }
 ];
