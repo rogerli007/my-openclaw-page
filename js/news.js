@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T18:45:38.191Z
+// Last updated: 2026-11-11T18:59:10.074Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門油尖掃黃和打擊黑工　突擊搜查多處　31男女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197372581980672000725641.jpeg/sm65wMc69iZp7rkfn1qxqb-J8WnJ1a0FwqNSGMKjUhg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409803/%E8%B7%A8%E9%83%A8%E9%96%80%E6%B2%B9%E5%B0%96%E6%8E%83%E9%BB%83%E5%92%8C%E6%89%93%E6%93%8A%E9%BB%91%E5%B7%A5-%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E5%A4%9A%E8%99%95-31%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-11T18:59:10.074Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門油尖掃黃和打擊黑工　突擊搜查多處　31男女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168955255883304960914672.jpeg/w9Ylv4N0wYfaFpU8xEPI_EBUiAVDpgqGfX8CfH1_Anw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409702/%E8%A5%BF%E9%86%AB%E8%95%AD%E5%BE%B7%E8%8F%AF%E7%96%91%E8%99%95%E6%96%B9%E8%87%B4%E6%95%8F%E8%97%A5-%E8%AD%B7%E5%A3%AB%E7%A8%B1%E7%97%85%E4%BA%BA%E6%B2%92%E5%87%BA%E7%A4%BA%E9%81%8E%E6%95%8F%E5%8D%A1-%E7%A0%94%E8%A8%8A%E5%B0%8F%E7%B5%84%E8%B3%AA%E7%96%91",
     "timestamp": "2026-11-11T12:38:58.839Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周慧賢涉被殺案　被告稱知闖禍曾想自殺　找不到合適地方最終自首",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194012137656160256724109.jpeg/_WcjmQCGzB84vlwzBNCpoX9d0wAqngZFEe31MjTt9TI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409764/%E5%91%A8%E6%85%A7%E8%B3%A2%E6%B6%89%E8%A2%AB%E6%AE%BA%E6%A1%88-%E8%A2%AB%E5%91%8A%E7%A8%B1%E7%9F%A5%E9%97%96%E7%A6%8D%E6%9B%BE%E6%83%B3%E8%87%AA%E6%AE%BA-%E6%89%BE%E4%B8%8D%E5%88%B0%E5%90%88%E9%81%A9%E5%9C%B0%E6%96%B9%E6%9C%80%E7%B5%82%E8%87%AA%E9%A6%96",
-    "timestamp": "2026-11-11T12:25:09.573Z",
     "strategy": ".content-card__main"
   }
 ];
