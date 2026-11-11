@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T18:59:10.074Z
+// Last updated: 2026-11-11T19:18:57.600Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華決定離開TVB主因：角色千篇一律 毫無挑戰性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195782254400376832567319.jpeg/oZwN4sF9-9E63dPQ9omynTdfNAvnM2oYaYSUzmmElM4",
+    "url": "https://www.hk01.com/01TV/60408222/%E5%85%83%E8%8F%AF%E6%B1%BA%E5%AE%9A%E9%9B%A2%E9%96%8Btvb%E4%B8%BB%E5%9B%A0-%E8%A7%92%E8%89%B2%E5%8D%83%E7%AF%87%E4%B8%80%E5%BE%8B-%E6%AF%AB%E7%84%A1%E6%8C%91%E6%88%B0%E6%80%A7",
+    "timestamp": "2026-11-11T19:18:57.600Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門油尖掃黃和打擊黑工　突擊搜查多處　31男女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184999302787764224093158.jpeg/J1c_om4mmenbB216SkeLG5Ni7JyKTdlONVZpajVWaWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409325/%E5%85%AD%E5%90%88%E5%BD%A911-12%E9%A0%AD%E7%8D%8E2000%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E5%BF%85%E7%9D%87%E6%94%BB%E7%95%A5-6%E5%80%8B%E8%99%9F%E7%A2%BC%E8%80%81%E6%98%AF%E5%B8%B8%E5%87%BA%E7%8F%BE",
     "timestamp": "2026-11-11T12:58:57.606Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西醫蕭德華疑處方致敏藥　護士稱病人沒出示過敏卡　研訊小組質疑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168955255883304960914672.jpeg/w9Ylv4N0wYfaFpU8xEPI_EBUiAVDpgqGfX8CfH1_Anw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409702/%E8%A5%BF%E9%86%AB%E8%95%AD%E5%BE%B7%E8%8F%AF%E7%96%91%E8%99%95%E6%96%B9%E8%87%B4%E6%95%8F%E8%97%A5-%E8%AD%B7%E5%A3%AB%E7%A8%B1%E7%97%85%E4%BA%BA%E6%B2%92%E5%87%BA%E7%A4%BA%E9%81%8E%E6%95%8F%E5%8D%A1-%E7%A0%94%E8%A8%8A%E5%B0%8F%E7%B5%84%E8%B3%AA%E7%96%91",
-    "timestamp": "2026-11-11T12:38:58.839Z",
     "strategy": ".content-card__main"
   }
 ];
