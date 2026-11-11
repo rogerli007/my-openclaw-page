@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T23:45:06.091Z
+// Last updated: 2026-11-11T23:59:17.726Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺一鳴路單車捱私家車撞壓車底　男騎手擦傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197453962366685184239547.jpeg/5UP2th0OX1S14GNhQ_KnHZQNiuvIdqOYZ1bBqmdWwao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409818/%E7%B2%89%E5%B6%BA%E4%B8%80%E9%B3%B4%E8%B7%AF%E5%96%AE%E8%BB%8A%E6%8D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%93%E8%BB%8A%E5%BA%95-%E7%94%B7%E9%A8%8E%E6%89%8B%E6%93%A6%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-11-11T23:59:17.726Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英偉達盤後瀉逾8%　美媒︰黃仁勳涉另一單婚外情　董事局擬罷免他",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186854639698448384047613.jpeg/75OcYmXkfhyj2Eu0p8elHLMARWYtSCkkBxMUBwcTFAc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409797/%E7%8C%B4%E7%97%98-26%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E6%9B%BE%E8%88%87%E7%A4%BE%E4%BA%A4app%E7%B5%90%E8%AD%98%E7%94%B7%E5%AD%90%E6%80%A7%E6%8E%A5%E8%A7%B8",
     "timestamp": "2026-11-11T17:59:08.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "猴痘｜26歲男確診　潛伏期內曾與社交App結識男子性接觸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186854639698448384047613.jpeg/75OcYmXkfhyj2Eu0p8elHLMARWYtSCkkBxMUBwcTFAc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409797/%E7%8C%B4%E7%97%98-26%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E6%9B%BE%E8%88%87%E7%A4%BE%E4%BA%A4app%E7%B5%90%E8%AD%98%E7%94%B7%E5%AD%90%E6%80%A7%E6%8E%A5%E8%A7%B8",
-    "timestamp": "2026-11-11T17:45:45.364Z",
     "strategy": ".content-card__main"
   }
 ];
