@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T07:59:01.212Z
+// Last updated: 2026-11-11T08:24:05.168Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國17歲美少女青奧100米欄破紀錄奪金　張可依拒做「新吳艷妮」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197155748463775744613405.jpeg/YJefx_3YoAnBWcP1MQYEQj0UVGfguJFFu7Ygtru2ILY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60409435/%E4%B8%AD%E5%9C%8B17%E6%AD%B2%E7%BE%8E%E5%B0%91%E5%A5%B3%E9%9D%92%E5%A5%A7100%E7%B1%B3%E6%AC%84%E7%A0%B4%E7%B4%80%E9%8C%84%E5%A5%AA%E9%87%91-%E5%BC%B5%E5%8F%AF%E4%BE%9D%E6%8B%92%E5%81%9A-%E6%96%B0%E5%90%B3%E8%89%B7%E5%A6%AE",
+    "timestamp": "2026-11-11T08:24:05.168Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜黃仁勳被爆2度訪台享齊人福　情婦黃樂與正宮同隨行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183310702383730688201347.jpeg/ISIkZZGCRgo4SG7ps18mFAfYrDUdLydBV3xfnVd8X50?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409376/openai%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%87%9F%E6%94%B6%E9%81%94%E7%99%BE%E5%84%84%E7%BE%8E%E5%85%83-%E9%80%86%E5%8B%A2%E9%A3%86%E4%BA%94%E6%88%90-%E5%86%80%E4%BC%B0%E5%80%BC%E8%A1%9D1-3%E8%90%AC%E5%84%84",
     "timestamp": "2026-11-11T01:59:13.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳才是被偷吃那位？他的身體值48億美元　網民嘲：為公司捐軀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196974571639541760472930.jpeg/frI34hGQa3nmtmaHcoqRCLKBn4v1eSbh14pGWNeKRlg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409327/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%89%8D%E6%98%AF%E8%A2%AB%E5%81%B7%E5%90%83%E9%82%A3%E4%BD%8D-%E4%BB%96%E7%9A%84%E8%BA%AB%E9%AB%94%E5%80%BC48%E5%84%84%E7%BE%8E%E5%85%83-%E7%B6%B2%E6%B0%91%E5%98%B2-%E7%82%BA%E5%85%AC%E5%8F%B8%E6%8D%90%E8%BB%80",
-    "timestamp": "2026-11-11T01:20:16.716Z",
     "strategy": ".content-card__main"
   }
 ];
