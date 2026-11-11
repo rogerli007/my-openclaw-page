@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T05:30:11.141Z
+// Last updated: 2026-11-11T05:45:51.191Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金發局提三大建議助港吸耐心資本　籲內地退休基金納入債券南向通",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197179865455923200897632.jpeg/byXZtaoUQLhMyhycHStgBK3A70vU6NbBrCDqSKwg6kg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409528/%E9%87%91%E7%99%BC%E5%B1%80%E6%8F%90%E4%B8%89%E5%A4%A7%E5%BB%BA%E8%AD%B0%E5%8A%A9%E6%B8%AF%E5%90%B8%E8%80%90%E5%BF%83%E8%B3%87%E6%9C%AC-%E7%B1%B2%E5%85%A7%E5%9C%B0%E9%80%80%E4%BC%91%E5%9F%BA%E9%87%91%E7%B4%8D%E5%85%A5%E5%82%B5%E5%88%B8%E5%8D%97%E5%90%91%E9%80%9A",
+    "timestamp": "2026-11-11T05:45:51.191Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "獸醫管理局今年收66宗投訴五年新高　涉無牌行醫舉報0檢控或定罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177244331761733632325716.jpeg/MMnQka3jDxXPMbHG2SSNo1EMDYgIyzBCpInIt4GJyLc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60409297/%E6%A2%81%E6%96%87%E5%BB%A3%E6%8F%90%E5%85%AC%E5%B1%8B%E8%AD%B0%E6%A1%88%E5%BC%95%E7%88%86%E6%94%BF%E9%BB%A8%E8%B7%AF%E7%B7%9A%E8%A7%92%E5%8A%9B-%E9%9A%A8%E6%99%82%E9%99%B0%E6%BA%9D%E7%BF%BB%E8%88%B9-%E6%94%BF%E5%9C%88%E9%A2%A8%E8%81%B2",
     "timestamp": "2026-11-10T23:18:22.290Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何慈茵終極反擊唔認「哎吔阿媽」　擬訴諸法律爆師母出手刪帖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196939226621415424867952.jpeg/9kwPO2nT2VAob1ofyjvR2Y7A-rCuvKre3YBR2t2AUdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408879/%E4%BD%95%E6%85%88%E8%8C%B5%E7%B5%82%E6%A5%B5%E5%8F%8D%E6%93%8A%E5%94%94%E8%AA%8D-%E5%93%8E%E5%90%94%E9%98%BF%E5%AA%BD-%E6%93%AC%E8%A8%B4%E8%AB%B8%E6%B3%95%E5%BE%8B%E7%88%86%E5%B8%AB%E6%AF%8D%E5%87%BA%E6%89%8B%E5%88%AA%E5%B8%96",
-    "timestamp": "2026-11-10T22:59:14.131Z",
     "strategy": ".content-card__main"
   }
 ];
