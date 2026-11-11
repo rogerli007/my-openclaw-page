@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T23:29:55.349Z
+// Last updated: 2026-11-11T23:45:06.091Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英偉達盤後瀉逾8%　美媒︰黃仁勳涉另一單婚外情　董事局擬罷免他",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197262918719115264107492.jpeg/1UhVrXJSrDeJ4Ol_fo0NMPSTkelXJWHb5d-S1OXfktQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409817/%E9%BB%83%E4%BB%81%E5%8B%B3l%E6%93%9A%E5%A0%B1%E6%B6%89%E5%8F%A6%E4%B8%80%E5%96%AE%E5%A9%9A%E5%A4%96%E6%83%85-%E8%91%A3%E4%BA%8B%E5%B1%80%E8%80%83%E6%85%AE%E7%BD%B7%E5%85%8D%E4%BB%96-%E8%8B%B1%E5%81%89%E9%81%94%E7%9B%A4%E5%BE%8C%E7%80%898",
+    "timestamp": "2026-11-11T23:45:06.091Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大腸癌年輕化｜23歲女運動員無家族史　持續腹痛照腸鏡揭患原位癌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186854639698448384047613.jpeg/75OcYmXkfhyj2Eu0p8elHLMARWYtSCkkBxMUBwcTFAc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409797/%E7%8C%B4%E7%97%98-26%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E6%9B%BE%E8%88%87%E7%A4%BE%E4%BA%A4app%E7%B5%90%E8%AD%98%E7%94%B7%E5%AD%90%E6%80%A7%E6%8E%A5%E8%A7%B8",
     "timestamp": "2026-11-11T17:45:45.364Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯駐美大使達爾奇耶夫突然去世　終年66歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250228/972261338212470784391804.png/ZWnHPV_IFUIpDT6P3H5-gpTdZGACut3u1AzGndQMxp0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409798/%E4%BF%84%E7%BE%85%E6%96%AF%E9%A7%90%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%81%94%E7%88%BE%E5%A5%87%E8%80%B6%E5%A4%AB%E7%AA%81%E7%84%B6%E5%8E%BB%E4%B8%96-%E7%B5%82%E5%B9%B466%E6%AD%B2",
-    "timestamp": "2026-11-11T17:19:37.601Z",
     "strategy": ".content-card__main"
   }
 ];
