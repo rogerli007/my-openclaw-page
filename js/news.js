@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T06:27:54.299Z
+// Last updated: 2026-11-11T06:49:59.562Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德媒：2024年才獲准採購DJI大疆　德軍憂安全突禁中國商用無人機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230426/727951837528854528184697.jpeg/bcQ9N77djIM6aQRmiUrdYMC0mY1A2_0tbSOhaW0joWk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409555/%E5%BE%B7%E5%AA%92-2024%E5%B9%B4%E6%89%8D%E7%8D%B2%E5%87%86%E6%8E%A1%E8%B3%BCdji%E5%A4%A7%E7%96%86-%E5%BE%B7%E8%BB%8D%E6%86%82%E5%AE%89%E5%85%A8%E7%AA%81%E7%A6%81%E4%B8%AD%E5%9C%8B%E5%95%86%E7%94%A8%E7%84%A1%E4%BA%BA%E6%A9%9F",
+    "timestamp": "2026-11-11T06:49:59.562Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "矢板明夫遇襲｜港黑幫收錢跨境施暴　嫌犯認罪求輕判當事人拒和解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196895780988784640806712.jpeg/GutxhE5pc-uc74gBM9Wta5B6D1GVviSTPQLA5j0CwOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409277/%E7%BE%8E%E8%81%AF%E5%84%B2%E7%90%86%E4%BA%8B%E6%B2%83%E5%8B%92-%E5%80%98%E9%80%9A%E8%84%B9%E5%8A%A0%E9%80%9F%E6%94%AF%E6%8C%81%E4%B8%80%E6%AC%A1%E9%81%8E%E5%8A%A0%E6%81%AF%E5%8D%8A%E5%8E%98-%E4%BB%A5%E4%BF%9D%E5%B1%80%E6%96%B9%E4%BF%A1%E8%AD%BD",
     "timestamp": "2026-11-10T23:59:07.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角新填地街單位疑充電器冒煙失火　消防開喉灌救　一人不適",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197088733522825216196850.jpeg/XAOSgPvPRocxFnmqtK8e72Wgrq9Ugbrq1tRDI9bUQyM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409365/%E6%97%BA%E8%A7%92%E6%96%B0%E5%A1%AB%E5%9C%B0%E8%A1%97%E5%96%AE%E4%BD%8D%E7%96%91%E5%85%85%E9%9B%BB%E5%99%A8%E5%86%92%E7%85%99%E5%A4%B1%E7%81%AB-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E7%81%8C%E6%95%91-%E4%B8%80%E4%BA%BA%E4%B8%8D%E9%81%A9",
-    "timestamp": "2026-11-10T23:44:45.891Z",
     "strategy": ".content-card__main"
   }
 ];
