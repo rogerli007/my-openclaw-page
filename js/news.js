@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T16:59:16.421Z
+// Last updated: 2026-11-11T17:19:37.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯駐美大使達爾奇耶夫突然去世　終年66歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250228/972261338212470784391804.png/ZWnHPV_IFUIpDT6P3H5-gpTdZGACut3u1AzGndQMxp0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409798/%E4%BF%84%E7%BE%85%E6%96%AF%E9%A7%90%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%81%94%E7%88%BE%E5%A5%87%E8%80%B6%E5%A4%AB%E7%AA%81%E7%84%B6%E5%8E%BB%E4%B8%96-%E7%B5%82%E5%B9%B466%E6%AD%B2",
+    "timestamp": "2026-11-11T17:19:37.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港珠澳大橋香港段半馬拉松周日舉行　特別交通安排周六起分段實施",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104146471483084800736452.jpeg/VJNUe9sfsEJcW0P9p-ItPEJTLAJA7v81oFpRBKBaUQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409721/%E6%83%A0%E5%BA%B7%E8%87%AA%E5%AE%B6%E5%93%81%E7%89%8Cmeadows%E8%84%AB%E8%84%82%E5%A5%B6%E5%90%AB%E8%8F%8C%E9%87%8F%E8%B6%85%E6%A8%99-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83-%E7%84%A1%E6%B5%81%E5%87%BA%E5%B8%82%E9%9D%A2",
     "timestamp": "2026-11-11T10:59:01.448Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周杰倫巨星傳奇｜旗下全球首間科技Cafe直擊　咖啡師竟唔係人？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197247192331456512892673.jpeg/ODE6xwazLwoUSoZaBPa-Y-nLxQtIBVTsAbgygwG4MoM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409716/%E5%91%A8%E6%9D%B0%E5%80%AB%E5%B7%A8%E6%98%9F%E5%82%B3%E5%A5%87-%E6%97%97%E4%B8%8B%E5%85%A8%E7%90%83%E9%A6%96%E9%96%93%E7%A7%91%E6%8A%80cafe%E7%9B%B4%E6%93%8A-%E5%92%96%E5%95%A1%E5%B8%AB%E7%AB%9F%E5%94%94%E4%BF%82%E4%BA%BA",
-    "timestamp": "2026-11-11T10:45:31.504Z",
     "strategy": ".content-card__main"
   }
 ];
