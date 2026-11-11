@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T12:58:57.606Z
+// Last updated: 2026-11-11T13:20:02.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國網紅孟加拉貧民窟拍片謊稱新德里　印外交部促當局嚴懲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197295436558241792476280.jpeg/dpV26K5U4Jz0h0Zfed_590KGh1HeYWbxUKvXTiqr104?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60409768/%E4%B8%AD%E5%9C%8B%E7%B6%B2%E7%B4%85%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%B2%A7%E6%B0%91%E7%AA%9F%E6%8B%8D%E7%89%87%E8%AC%8A%E7%A8%B1%E6%96%B0%E5%BE%B7%E9%87%8C-%E5%8D%B0%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BF%83%E7%95%B6%E5%B1%80%E5%9A%B4%E6%87%B2",
+    "timestamp": "2026-11-11T13:20:02.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩11.12頭獎2000萬攪珠前必睇攻略！6個號碼老是常出現",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197183967376183296758243.jpeg/186vcgno1yEMvSRYdLEqkZRaDC0SZDcaTxes608XrOs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409469/%E9%99%B3%E6%AC%A3%E5%81%A5%E5%81%95%E5%AB%A9%E5%A5%B3%E8%B2%B7%E9%A4%B8%E5%82%B3%E9%BB%83%E6%98%8F%E6%88%80-%E8%A6%AA%E6%8F%AD%E7%9C%9F%E7%9B%B8%E5%90%A6%E8%AA%8D%E6%9C%89%E6%96%B0%E6%AD%A1-%E6%88%91%E5%BE%97%E4%B8%80%E5%80%8B%E8%80%81%E5%A9%86",
     "timestamp": "2026-11-11T07:21:42.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德媒：2024年才獲准採購DJI大疆　德軍憂安全突禁中國商用無人機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230426/727951837528854528184697.jpeg/bcQ9N77djIM6aQRmiUrdYMC0mY1A2_0tbSOhaW0joWk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409555/%E5%BE%B7%E5%AA%92-2024%E5%B9%B4%E6%89%8D%E7%8D%B2%E5%87%86%E6%8E%A1%E8%B3%BCdji%E5%A4%A7%E7%96%86-%E5%BE%B7%E8%BB%8D%E6%86%82%E5%AE%89%E5%85%A8%E7%AA%81%E7%A6%81%E4%B8%AD%E5%9C%8B%E5%95%86%E7%94%A8%E7%84%A1%E4%BA%BA%E6%A9%9F",
-    "timestamp": "2026-11-11T06:49:59.562Z",
     "strategy": ".content-card__main"
   }
 ];
