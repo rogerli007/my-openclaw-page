@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T07:21:42.535Z
+// Last updated: 2026-11-11T07:45:29.111Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雙11優惠2026｜30+網購優惠碼合集！iHerb/Lululemon/Nike/豐澤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196779287319941120243576.jpeg/1Ses_D06q80dGT4-6vrzcT3295S8-ivL90u3qvdLt6o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60403921/%E9%9B%9911%E5%84%AA%E6%83%A02026-30-%E7%B6%B2%E8%B3%BC%E5%84%AA%E6%83%A0%E7%A2%BC%E5%90%88%E9%9B%86-iherb-lululemon-nike-%E8%B1%90%E6%BE%A4",
+    "timestamp": "2026-11-11T07:45:29.111Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳欣健偕嫩女買餸傳黃昏戀　親揭真相否認有新歡：我得一個老婆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197100277723828224064521.jpeg/-3ZNrGeb3NraQbOkXPew6tt2u4IXGNg6Ye1IKGHtSCg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409368/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%96%AE%E4%BD%8D%E5%85%85%E9%9B%BB%E5%99%A8%E7%81%AB%E8%AD%A6-%E5%B0%8F%E5%9B%9B%E5%A5%B3%E7%AB%A5%E6%8A%AB%E8%AD%A6%E5%88%B6%E6%9C%8D%E8%84%AB%E8%87%89-%E5%9A%87%E5%88%B0%E5%96%8A-%E5%A5%BD%E9%A9%9A%E5%91%80",
     "timestamp": "2026-11-11T00:56:52.558Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓劇《好搭檔2》11.20首播！張娜拉自立門戶　迎戰網紅律師朴海鎮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196879058932076544732905.png/0atbAUb28sy_eF5OZq7lkQF9kCfoYg2RGekHwxnpB8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409214/%E9%9F%93%E5%8A%87-%E5%A5%BD%E6%90%AD%E6%AA%942-11-20%E9%A6%96%E6%92%AD-%E5%BC%B5%E5%A8%9C%E6%8B%89%E8%87%AA%E7%AB%8B%E9%96%80%E6%88%B6-%E8%BF%8E%E6%88%B0%E7%B6%B2%E7%B4%85%E5%BE%8B%E5%B8%AB%E6%9C%B4%E6%B5%B7%E9%8E%AE",
-    "timestamp": "2026-11-11T00:37:18.259Z",
     "strategy": ".content-card__main"
   }
 ];
