@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T21:45:24.327Z
+// Last updated: 2026-11-11T21:59:03.147Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜美眾議院委員會擬發傳票　要求黃仁勳說明間諜風波",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241220/946675621386260480912856.jpeg/0rBQDQEMSsraOGh8QYcmbSKnmSsrYD8adT68yHU-vMg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409810/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%A7%94%E5%93%A1%E6%9C%83%E6%93%AC%E7%99%BC%E5%82%B3%E7%A5%A8-%E8%A6%81%E6%B1%82%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%AA%E6%98%8E%E9%96%93%E8%AB%9C%E9%A2%A8%E6%B3%A2",
+    "timestamp": "2026-11-11T21:59:03.147Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遭沙特攔截導彈及無人機　胡塞武裝否認以麥加為目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197309069950455808317908.jpeg/QC5GKQKJWGsM3aXDjXgIihyg7cI2OABs9cz7sfXM-7E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409778/%E6%88%90%E4%BA%BA%E5%B1%95%E5%8F%96%E6%B6%88-%E6%A9%98%E7%91%AA%E9%BA%97-%E6%B6%BC%E6%A3%AE%E7%8E%B2%E5%A4%A2%E7%99%BC%E6%96%87%E6%8C%87%E6%8A%B5%E6%B8%AF%E6%99%82%E8%A2%AB%E6%8B%92%E5%85%A5%E5%A2%83-%E5%B0%8D%E7%B2%89%E7%B5%B2%E8%87%B4%E6%AD%89",
     "timestamp": "2026-11-11T15:45:15.900Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜道指早段偏軟　納指最新升逾1%　Nvidia反彈2%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183912684605673472185320.jpeg/-yqhRmE8-wvQpESKdamgj-BjO4ipzOZGUw7m-FMO5vg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409788/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E5%81%8F%E8%BB%9F-%E7%B4%8D%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87%E9%80%BE1-nvidia%E5%8F%8D%E5%BD%882",
-    "timestamp": "2026-11-11T15:19:24.387Z",
     "strategy": ".content-card__main"
   }
 ];
