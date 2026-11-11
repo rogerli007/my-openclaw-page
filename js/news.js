@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T21:17:11.389Z
+// Last updated: 2026-11-11T21:31:06.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "遭沙特攔截導彈及無人機　胡塞武裝否認以麥加為目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409807/%E9%81%AD%E6%B2%99%E7%89%B9%E6%94%94%E6%88%AA%E5%B0%8E%E5%BD%88%E5%8F%8A%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%A6%E8%AA%8D%E4%BB%A5%E9%BA%A5%E5%8A%A0%E7%82%BA%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-11-11T21:31:06.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "遭沙特攔截導彈及無人機　胡塞武裝否認以麥加為目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197247547115048960043512.png/UAdLmr8ZuoO-FXuCe6k-dBtsrRnpyxVS2zQG1ts0BtY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409672/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E7%94%B3%E6%95%8F%E5%85%92%E6%9D%8E%E9%8D%BE%E7%A2%A9%E6%9B%96%E6%98%A7%E5%8D%87%E6%BA%AB%E9%81%87%E5%8D%B1%E6%A9%9F-%E6%9D%8E%E4%B8%96%E6%A6%AE%E5%BF%83%E6%A9%9F%E8%AA%8D%E7%AD%86%E5%8F%8B%E5%BC%95%E7%9C%BE%E6%80%92",
     "timestamp": "2026-11-11T14:59:05.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "谷雨選角挨轟｜張頌文張雪迎21歲年齡差演夫妻　喊同齡李小冉岳母",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197202636940513280836412.png/55D4GOr0o1_EwpIs9mNOnJTi_jrhmV54reqkDq3qpA4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409551/%E8%B0%B7%E9%9B%A8%E9%81%B8%E8%A7%92%E6%8C%A8%E8%BD%9F-%E5%BC%B5%E9%A0%8C%E6%96%87%E5%BC%B5%E9%9B%AA%E8%BF%8E21%E6%AD%B2%E5%B9%B4%E9%BD%A1%E5%B7%AE%E6%BC%94%E5%A4%AB%E5%A6%BB-%E5%96%8A%E5%90%8C%E9%BD%A1%E6%9D%8E%E5%B0%8F%E5%86%89%E5%B2%B3%E6%AF%8D",
-    "timestamp": "2026-11-11T14:45:32.581Z",
     "strategy": ".content-card__main"
   }
 ];
