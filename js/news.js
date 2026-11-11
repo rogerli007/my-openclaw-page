@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T22:19:32.921Z
+// Last updated: 2026-11-11T22:45:13.796Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李添勝手持拐杖罕現身　「掃街茂」變金牌監製捧紅周潤發梁朝偉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197268163624964096138976.jpeg/c8E_xV-H4srh6EXOyYw5seKbAEdobLkTdsp_d3bKf3c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409678/%E6%9D%8E%E6%B7%BB%E5%8B%9D%E6%89%8B%E6%8C%81%E6%8B%90%E6%9D%96%E7%BD%95%E7%8F%BE%E8%BA%AB-%E6%8E%83%E8%A1%97%E8%8C%82-%E8%AE%8A%E9%87%91%E7%89%8C%E7%9B%A3%E8%A3%BD%E6%8D%A7%E7%B4%85%E5%91%A8%E6%BD%A4%E7%99%BC%E6%A2%81%E6%9C%9D%E5%81%89",
+    "timestamp": "2026-11-11T22:45:13.796Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地健身室MMA｜女子亂扔啞鈴惹不滿　男客勸阻無果連揮2拳擊倒地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196980053976551424741529.jpeg/EJh4Oxs6YLudmuREYwwEC5SKeB2XIZ7xUAm1VlAJtVY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60409339/ipad-mini-8%E8%A9%95%E6%B8%AC-%E5%8D%87%E7%B4%9Aoled-a20-pro%E6%B2%92%E9%AB%98%E5%88%B7%E5%80%BC%E5%BE%97%E5%85%A5%E6%89%8B%E5%97%8E-%E8%A6%8F%E6%A0%BC%E5%B0%8D%E6%AF%94",
     "timestamp": "2026-11-11T16:21:17.597Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新冠｜防護中心：新成份疫苗生產及運送需時　不會擴展疫苗接種點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173636068986195968594681.jpeg/518tSnHEG-0HXbvGWyOdlOdgaKfg-Ge1iWv9vqxr_b4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409772/%E6%96%B0%E5%86%A0-%E9%98%B2%E8%AD%B7%E4%B8%AD%E5%BF%83-%E6%96%B0%E6%88%90%E4%BB%BD%E7%96%AB%E8%8B%97%E7%94%9F%E7%94%A2%E5%8F%8A%E9%81%8B%E9%80%81%E9%9C%80%E6%99%82-%E4%B8%8D%E6%9C%83%E6%93%B4%E5%B1%95%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE%E9%BB%9E",
-    "timestamp": "2026-11-11T15:59:11.401Z",
     "strategy": ".content-card__main"
   }
 ];
