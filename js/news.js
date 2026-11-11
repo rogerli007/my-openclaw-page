@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T15:19:24.387Z
+// Last updated: 2026-11-11T15:45:15.900Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "成人展取消｜橘瑪麗、涼森玲夢發文指抵港時被拒入境　對粉絲致歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197309069950455808317908.jpeg/QC5GKQKJWGsM3aXDjXgIihyg7cI2OABs9cz7sfXM-7E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409778/%E6%88%90%E4%BA%BA%E5%B1%95%E5%8F%96%E6%B6%88-%E6%A9%98%E7%91%AA%E9%BA%97-%E6%B6%BC%E6%A3%AE%E7%8E%B2%E5%A4%A2%E7%99%BC%E6%96%87%E6%8C%87%E6%8A%B5%E6%B8%AF%E6%99%82%E8%A2%AB%E6%8B%92%E5%85%A5%E5%A2%83-%E5%B0%8D%E7%B2%89%E7%B5%B2%E8%87%B4%E6%AD%89",
+    "timestamp": "2026-11-11T15:45:15.900Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜道指早段偏軟　納指最新升逾1%　Nvidia反彈2%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197226516186927104631754.jpeg/Vs5mOWt4BEbOtj4EFsQZf4V8FVXeRjbL2C7tF9gu7Rc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60409641/%E5%8F%B1%E5%92%A42026-%E6%88%91%E6%9C%80%E5%96%9C%E6%84%9B-12%E5%BC%B7%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%8F%A4%E5%A4%A9%E6%A8%82%E7%9B%B8%E9%9A%948%E5%B9%B4%E5%86%8D%E5%BA%A6%E5%85%A5%E5%9C%8D",
     "timestamp": "2026-11-11T09:21:38.876Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歌手張宇罹患罕見聲音痙攣停工8年　白髮近照亮相宣告：重返職場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197216027105038336756109.png/run4uTXnaNeHU6nLgpPo06-kfZbRrH59eaLLGHmiyxg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409618/%E6%AD%8C%E6%89%8B%E5%BC%B5%E5%AE%87%E7%BD%B9%E6%82%A3%E7%BD%95%E8%A6%8B%E8%81%B2%E9%9F%B3%E7%97%99%E6%94%A3%E5%81%9C%E5%B7%A58%E5%B9%B4-%E7%99%BD%E9%AB%AE%E8%BF%91%E7%85%A7%E4%BA%AE%E7%9B%B8%E5%AE%A3%E5%91%8A-%E9%87%8D%E8%BF%94%E8%81%B7%E5%A0%B4",
-    "timestamp": "2026-11-11T08:59:25.166Z",
     "strategy": ".content-card__main"
   }
 ];
