@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T08:59:25.166Z
+// Last updated: 2026-11-11T09:21:38.876Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "叱咤2026｜「我最喜愛」12強名單出爐！古天樂相隔8年再度入圍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197226516186927104631754.jpeg/Vs5mOWt4BEbOtj4EFsQZf4V8FVXeRjbL2C7tF9gu7Rc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60409641/%E5%8F%B1%E5%92%A42026-%E6%88%91%E6%9C%80%E5%96%9C%E6%84%9B-12%E5%BC%B7%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%8F%A4%E5%A4%A9%E6%A8%82%E7%9B%B8%E9%9A%948%E5%B9%B4%E5%86%8D%E5%BA%A6%E5%85%A5%E5%9C%8D",
+    "timestamp": "2026-11-11T09:21:38.876Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歌手張宇罹患罕見聲音痙攣停工8年　白髮近照亮相宣告：重返職場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192782044292190208125906.png/OeDnD2_lMIdVQ2RE5HstMhrRKBXew0Y1_wP_3v8D_94?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409403/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%8D%E5%87%BA%E8%BB%8C%E7%BF%8C%E6%97%A5%E7%85%A7%E8%BF%94%E5%B7%A5-%E6%97%A9%E6%9C%83%E9%81%93%E6%AD%89%E5%BE%8C%E6%89%AE%E7%84%A1%E4%BA%8B-%E5%85%AC%E5%8F%B8%E6%B0%A3%E6%B0%9B%E4%BD%8E%E8%90%BD",
     "timestamp": "2026-11-11T03:33:19.352Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜美共和民主兩黨急推3法案　限制中國獲取AI晶片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250521/1001811839228579840510937.jpeg/TiRp1YDsnGSwtzRwGfLtdnOZtUGjauwJE98RghPfEYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409407/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%BE%8E%E5%85%B1%E5%92%8C%E6%B0%91%E4%B8%BB%E5%85%A9%E9%BB%A8%E6%80%A5%E6%8E%A83%E6%B3%95%E6%A1%88-%E9%99%90%E5%88%B6%E4%B8%AD%E5%9C%8B%E7%8D%B2%E5%8F%96ai%E6%99%B6%E7%89%87",
-    "timestamp": "2026-11-11T02:57:29.361Z",
     "strategy": ".content-card__main"
   }
 ];
