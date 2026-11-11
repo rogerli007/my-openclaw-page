@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T15:45:15.900Z
+// Last updated: 2026-11-11T15:59:11.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新冠｜防護中心：新成份疫苗生產及運送需時　不會擴展疫苗接種點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260907/1173636068986195968594681.jpeg/518tSnHEG-0HXbvGWyOdlOdgaKfg-Ge1iWv9vqxr_b4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409772/%E6%96%B0%E5%86%A0-%E9%98%B2%E8%AD%B7%E4%B8%AD%E5%BF%83-%E6%96%B0%E6%88%90%E4%BB%BD%E7%96%AB%E8%8B%97%E7%94%9F%E7%94%A2%E5%8F%8A%E9%81%8B%E9%80%81%E9%9C%80%E6%99%82-%E4%B8%8D%E6%9C%83%E6%93%B4%E5%B1%95%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE%E9%BB%9E",
+    "timestamp": "2026-11-11T15:59:11.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "成人展取消｜橘瑪麗、涼森玲夢發文指抵港時被拒入境　對粉絲致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196448728576167936839026.jpeg/D0rf7YdtvkS1wswOOoNvNNqiTNDlQ9i9vmmOSr5pjko?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409688/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E5%82%91%E7%A8%B1%E5%9C%A8%E5%92%96%E5%95%A1%E5%AE%A4%E8%88%87%E5%BC%9F%E7%9B%B8%E6%9C%83%E6%9C%89%E5%8B%95%E4%BD%9C-%E5%8F%AA%E5%9C%A8%E8%AB%87%E8%AB%96%E5%81%A5%E8%BA%AB%E8%A9%B1%E9%A1%8C",
     "timestamp": "2026-11-11T09:45:31.057Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "叱咤2026｜「我最喜愛」12強名單出爐！古天樂相隔8年再度入圍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197226516186927104631754.jpeg/Vs5mOWt4BEbOtj4EFsQZf4V8FVXeRjbL2C7tF9gu7Rc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60409641/%E5%8F%B1%E5%92%A42026-%E6%88%91%E6%9C%80%E5%96%9C%E6%84%9B-12%E5%BC%B7%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%8F%A4%E5%A4%A9%E6%A8%82%E7%9B%B8%E9%9A%948%E5%B9%B4%E5%86%8D%E5%BA%A6%E5%85%A5%E5%9C%8D",
-    "timestamp": "2026-11-11T09:21:38.876Z",
     "strategy": ".content-card__main"
   }
 ];
