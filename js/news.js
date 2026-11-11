@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T10:20:15.966Z
+// Last updated: 2026-11-11T10:45:31.504Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周杰倫巨星傳奇｜旗下全球首間科技Cafe直擊　咖啡師竟唔係人？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197247192331456512892673.jpeg/ODE6xwazLwoUSoZaBPa-Y-nLxQtIBVTsAbgygwG4MoM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409716/%E5%91%A8%E6%9D%B0%E5%80%AB%E5%B7%A8%E6%98%9F%E5%82%B3%E5%A5%87-%E6%97%97%E4%B8%8B%E5%85%A8%E7%90%83%E9%A6%96%E9%96%93%E7%A7%91%E6%8A%80cafe%E7%9B%B4%E6%93%8A-%E5%92%96%E5%95%A1%E5%B8%AB%E7%AB%9F%E5%94%94%E4%BF%82%E4%BA%BA",
+    "timestamp": "2026-11-11T10:45:31.504Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "比亞迪大唐EV前後輪裝錯　官方認錯歸因供應商　強調無安全風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197158385846325248089361.jpeg/gCM0G6m5CV6rV13ursno56Z6t5Z3Q742MvywajL8sGo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60406140/%E9%9B%9911%E5%84%AA%E6%83%A02026-14%E5%A4%A7%E5%BF%85%E6%90%B6-%E4%BD%B3%E5%AF%B6%E5%85%A8%E5%A0%B48%E6%8A%98-%E8%AD%9A%E4%BB%94-11%E5%8A%A0%E5%B0%8F%E9%A3%9F-%E5%A4%A7%E5%AE%B6%E6%A8%82%E6%B8%9B-11",
     "timestamp": "2026-11-11T04:45:43.479Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone Duo炒價雪崩！先達劏舖「反高潮」4個月漲3成　夠買4部機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190258103929671680243719.jpeg/dTrn9ep6OsZCXeGqEAczvSIdEzcCTZY7q-K6qI7iuqg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60409427/iphone-duo%E7%82%92%E5%83%B9%E9%9B%AA%E5%B4%A9-%E5%85%88%E9%81%94%E5%8A%8F%E8%88%96-%E5%8F%8D%E9%AB%98%E6%BD%AE-4%E5%80%8B%E6%9C%88%E6%BC%B23%E6%88%90%E5%A4%A0%E8%B2%B74%E9%83%A8%E6%96%B0%E6%A9%9F",
-    "timestamp": "2026-11-11T04:22:03.061Z",
     "strategy": ".content-card__main"
   }
 ];
