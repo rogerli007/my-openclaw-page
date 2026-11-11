@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T02:42:07.968Z
+// Last updated: 2026-11-11T02:57:29.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜美共和民主兩黨急推3法案　限制中國獲取AI晶片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250521/1001811839228579840510937.jpeg/TiRp1YDsnGSwtzRwGfLtdnOZtUGjauwJE98RghPfEYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409407/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%BE%8E%E5%85%B1%E5%92%8C%E6%B0%91%E4%B8%BB%E5%85%A9%E9%BB%A8%E6%80%A5%E6%8E%A83%E6%B3%95%E6%A1%88-%E9%99%90%E5%88%B6%E4%B8%AD%E5%9C%8B%E7%8D%B2%E5%8F%96ai%E6%99%B6%E7%89%87",
+    "timestamp": "2026-11-11T02:57:29.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "麥當勞 X Pokémon 11月11日開賣！3款全新口味隨機飽面寶可夢漢堡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197034563306524672795468.jpeg/hHRJ8S4t-cYR7ELwoFh1dSP4BZP2XgofVCpiAVQqYgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409356/%E7%BE%8E%E5%AA%92-%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%8E%A8%E9%81%B8jim-jordan%E6%93%94%E4%BB%BB%E4%B8%8B%E5%B1%86%E5%B0%91%E6%95%B8%E9%BB%A8%E9%A0%98%E8%A2%96",
     "timestamp": "2026-11-10T20:19:53.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華憑《功夫》勇奪最佳男配角：功名利祿皆如雲煙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195777967335149568182569.jpeg/9Bc2NIJ0nGn9-44wRhJbcxEBliyzrRecSga4lEoGuJQ",
-    "url": "https://www.hk01.com/01TV/60408213/%E5%85%83%E8%8F%AF%E6%86%91-%E5%8A%9F%E5%A4%AB-%E5%8B%87%E5%A5%AA%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92-%E5%8A%9F%E5%90%8D%E5%88%A9%E7%A5%BF%E7%9A%86%E5%A6%82%E9%9B%B2%E7%85%99",
-    "timestamp": "2026-11-10T19:58:50.710Z",
     "strategy": ".content-card__main"
   }
 ];
