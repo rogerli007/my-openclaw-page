@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T03:59:08.596Z
+// Last updated: 2026-11-11T04:22:03.061Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone Duo炒價雪崩！先達劏舖「反高潮」4個月漲3成　夠買4部機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190258103929671680243719.jpeg/dTrn9ep6OsZCXeGqEAczvSIdEzcCTZY7q-K6qI7iuqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60409427/iphone-duo%E7%82%92%E5%83%B9%E9%9B%AA%E5%B4%A9-%E5%85%88%E9%81%94%E5%8A%8F%E8%88%96-%E5%8F%8D%E9%AB%98%E6%BD%AE-4%E5%80%8B%E6%9C%88%E6%BC%B23%E6%88%90%E5%A4%A0%E8%B2%B74%E9%83%A8%E6%96%B0%E6%A9%9F",
+    "timestamp": "2026-11-11T04:22:03.061Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜傳黃樂曾遭新加坡問話及限制離境　少報5萬晶片去向",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197056101271474176489236.jpeg/ZANnbcBENEqA8sLpWm4TPyZFFHY5vp0Z--E4msHhOJo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409361/%E7%B2%89%E5%B6%BA%E7%94%B7%E5%B7%A5%E8%B2%A8%E8%BB%8A%E5%B0%BE%E4%B8%8A%E8%90%BD%E8%B2%A8-1%E7%B1%B3%E9%AB%98%E6%84%8F%E5%A4%96%E5%A2%AE%E4%B8%8B-%E9%A0%AD%E5%82%B7%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
     "timestamp": "2026-11-10T21:44:51.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美陸軍41歲高級士兵涉協助俄羅斯情報部門　在英國遭當地警方逮捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250304/973565974785560576867052.jpeg/o0lVe1pS5cEyj87eL4cLfKYEEpXtufXL2Hwlath8JWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409360/%E7%BE%8E%E9%99%B8%E8%BB%8D41%E6%AD%B2%E9%AB%98%E7%B4%9A%E5%A3%AB%E5%85%B5%E6%B6%89%E5%8D%94%E5%8A%A9%E4%BF%84%E7%BE%85%E6%96%AF%E6%83%85%E5%A0%B1%E9%83%A8%E9%96%80-%E5%9C%A8%E8%8B%B1%E5%9C%8B%E9%81%AD%E7%95%B6%E5%9C%B0%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95",
-    "timestamp": "2026-11-10T21:19:26.853Z",
     "strategy": ".content-card__main"
   }
 ];
