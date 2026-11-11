@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T08:34:35.509Z
+// Last updated: 2026-11-11T08:45:01.968Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "首屆淘寶雙11僅27品牌　成交額12年後漲逾萬倍　為何要選11.11？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197225698868072448725491.jpeg/yQE7xNEN3ZMGCGH29cZyubMLxLsGtpnSMo3PSTKNz0k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409605/%E9%A6%96%E5%B1%86%E6%B7%98%E5%AF%B6%E9%9B%9911%E5%83%8527%E5%93%81%E7%89%8C-%E6%88%90%E4%BA%A4%E9%A1%8D12%E5%B9%B4%E5%BE%8C%E6%BC%B2%E9%80%BE%E8%90%AC%E5%80%8D-%E7%82%BA%E4%BD%95%E8%A6%81%E9%81%B811-11",
+    "timestamp": "2026-11-11T08:45:01.968Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地青年失業潮催生商機　30元即可租工位「假上班」還包拍工作照",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196871629691424768637058.jpeg/DJ7nNPZSZ7XxoJ8qP8vJjgkXxdwyRh64jX0sk419LJM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60409194/%E9%BA%A5%E7%95%B6%E5%8B%9E-x-pok%C3%A9mon-11%E6%9C%8811%E6%97%A5%E9%96%8B%E8%B3%A3-3%E6%AC%BE%E5%85%A8%E6%96%B0%E5%8F%A3%E5%91%B3%E9%9A%A8%E6%A9%9F%E9%A3%BD%E9%9D%A2%E5%AF%B6%E5%8F%AF%E5%A4%A2%E6%BC%A2%E5%A0%A1",
     "timestamp": "2026-11-11T02:42:07.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "灣仔錫克教廟亮藍燈　如《冰雪奇緣》建築　網民：Elsa似隨時出黎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197117369307107328385071.jpeg/nwit0EMq_Pwt4PFutzb632GzDJIDccj8kd7UiJHe1Ig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409377/%E7%81%A3%E4%BB%94%E9%8C%AB%E5%85%8B%E6%95%99%E5%BB%9F%E4%BA%AE%E8%97%8D%E7%87%88-%E5%A6%82-%E5%86%B0%E9%9B%AA%E5%A5%87%E7%B7%A3-%E5%BB%BA%E7%AF%89-%E7%B6%B2%E6%B0%91-elsa%E4%BC%BC%E9%9A%A8%E6%99%82%E5%87%BA%E9%BB%8E",
-    "timestamp": "2026-11-11T02:22:48.767Z",
     "strategy": ".content-card__main"
   }
 ];
