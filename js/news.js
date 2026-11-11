@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T12:25:09.573Z
+// Last updated: 2026-11-11T12:38:58.839Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西醫蕭德華疑處方致敏藥　護士稱病人沒出示過敏卡　研訊小組質疑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168955255883304960914672.jpeg/w9Ylv4N0wYfaFpU8xEPI_EBUiAVDpgqGfX8CfH1_Anw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409702/%E8%A5%BF%E9%86%AB%E8%95%AD%E5%BE%B7%E8%8F%AF%E7%96%91%E8%99%95%E6%96%B9%E8%87%B4%E6%95%8F%E8%97%A5-%E8%AD%B7%E5%A3%AB%E7%A8%B1%E7%97%85%E4%BA%BA%E6%B2%92%E5%87%BA%E7%A4%BA%E9%81%8E%E6%95%8F%E5%8D%A1-%E7%A0%94%E8%A8%8A%E5%B0%8F%E7%B5%84%E8%B3%AA%E7%96%91",
+    "timestamp": "2026-11-11T12:38:58.839Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周慧賢涉被殺案　被告稱知闖禍曾想自殺　找不到合適地方最終自首",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197191077086367744248196.jpeg/j5VCYutut6b-LPV0dV1BFCQhKCmOcCJE8h3RTfId0U0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60409547/%E7%9F%A2%E6%9D%BF%E6%98%8E%E5%A4%AB%E9%81%87%E8%A5%B2-%E6%B8%AF%E9%BB%91%E5%B9%AB%E6%94%B6%E9%8C%A2%E8%B7%A8%E5%A2%83%E6%96%BD%E6%9A%B4-%E5%AB%8C%E7%8A%AF%E8%AA%8D%E7%BD%AA%E6%B1%82%E8%BC%95%E5%88%A4%E7%95%B6%E4%BA%8B%E4%BA%BA%E6%8B%92%E5%92%8C%E8%A7%A3",
     "timestamp": "2026-11-11T06:27:54.299Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西貢貨倉男工遭約300公斤巨型紙卷壓傷腳　受傷送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197180409448763392918364.jpeg/xHVl48lr4bbhVVDM4l1aK10njcE-lOdnQzzVPGk81Tw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409524/%E8%A5%BF%E8%B2%A2%E8%B2%A8%E5%80%89%E7%94%B7%E5%B7%A5%E9%81%AD%E7%B4%84300%E5%85%AC%E6%96%A4%E5%B7%A8%E5%9E%8B%E7%B4%99%E5%8D%B7%E5%A3%93%E5%82%B7%E8%85%B3-%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-11-11T05:59:26.778Z",
     "strategy": ".content-card__main"
   }
 ];
