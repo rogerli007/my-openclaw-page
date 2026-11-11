@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T16:21:17.597Z
+// Last updated: 2026-11-11T16:46:26.706Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港珠澳大橋香港段半馬拉松周日舉行　特別交通安排周六起分段實施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183461722782961664287439.jpeg/40z3Y4axODe6ZKmx3kK2nyrZNFklYe3dYwJwtGMCcLQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409792/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E9%A6%99%E6%B8%AF%E6%AE%B5%E5%8D%8A%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%91%A8%E6%97%A5%E8%88%89%E8%A1%8C-%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92%E5%91%A8%E5%85%AD%E8%B5%B7%E5%88%86%E6%AE%B5%E5%AF%A6%E6%96%BD",
+    "timestamp": "2026-11-11T16:46:26.706Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPad mini 8評測：升級OLED／A20 Pro沒高刷值得入手嗎｜規格對比",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154436251219136512341862.jpeg/bWSmJ-XD6yq1V8YhfUdYy4U3fizsEhEojCfJfYwnyX0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409687/%E6%AF%94%E4%BA%9E%E8%BF%AA%E5%A4%A7%E5%94%90ev%E5%89%8D%E5%BE%8C%E8%BC%AA%E8%A3%9D%E9%8C%AF-%E5%AE%98%E6%96%B9%E8%AA%8D%E9%8C%AF%E6%AD%B8%E5%9B%A0%E4%BE%9B%E6%87%89%E5%95%86-%E5%BC%B7%E8%AA%BF%E7%84%A1%E5%AE%89%E5%85%A8%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-11-11T10:20:15.966Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鄭丹瑞細女與外籍男友愛情長跑12年修成正果　父親撐學霸千金追夢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195280167082135552784915.jpeg/B-ZXK9A1BxShPF-Z2KxLi8_cQw_sh-4G7uiTye7ok8k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60407302/%E9%84%AD%E4%B8%B9%E7%91%9E%E7%B4%B0%E5%A5%B3%E8%88%87%E5%A4%96%E7%B1%8D%E7%94%B7%E5%8F%8B%E6%84%9B%E6%83%85%E9%95%B7%E8%B7%9112%E5%B9%B4%E4%BF%AE%E6%88%90%E6%AD%A3%E6%9E%9C-%E7%88%B6%E8%A6%AA%E6%92%90%E5%AD%B8%E9%9C%B8%E5%8D%83%E9%87%91%E8%BF%BD%E5%A4%A2",
-    "timestamp": "2026-11-11T09:59:06.593Z",
     "strategy": ".content-card__main"
   }
 ];
