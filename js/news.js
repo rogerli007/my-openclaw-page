@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T05:19:15.823Z
+// Last updated: 2026-11-11T05:30:11.141Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "獸醫管理局今年收66宗投訴五年新高　涉無牌行醫舉報0檢控或定罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197168150794211328830579.png/efIqKJmuybn2Q78I0KW2uUxw9CgGF7Y2X0JLU19CS1M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409506/%E7%8D%B8%E9%86%AB%E7%AE%A1%E7%90%86%E5%B1%80%E4%BB%8A%E5%B9%B4%E6%94%B666%E5%AE%97%E6%8A%95%E8%A8%B4%E4%BA%94%E5%B9%B4%E6%96%B0%E9%AB%98-%E6%B6%89%E7%84%A1%E7%89%8C%E8%A1%8C%E9%86%AB%E8%88%89%E5%A0%B10%E6%AA%A2%E6%8E%A7%E6%88%96%E5%AE%9A%E7%BD%AA",
+    "timestamp": "2026-11-11T05:30:11.141Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌廣場$15單餸飯實測　一盒有13件排骨有驚喜　網民讚糧尾恩物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196939226621415424867952.jpeg/9kwPO2nT2VAob1ofyjvR2Y7A-rCuvKre3YBR2t2AUdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408879/%E4%BD%95%E6%85%88%E8%8C%B5%E7%B5%82%E6%A5%B5%E5%8F%8D%E6%93%8A%E5%94%94%E8%AA%8D-%E5%93%8E%E5%90%94%E9%98%BF%E5%AA%BD-%E6%93%AC%E8%A8%B4%E8%AB%B8%E6%B3%95%E5%BE%8B%E7%88%86%E5%B8%AB%E6%AF%8D%E5%87%BA%E6%89%8B%E5%88%AA%E5%B8%96",
     "timestamp": "2026-11-10T22:59:14.131Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何慈茵終極反擊唔認「哎吔阿媽」　擬訴諸法律爆師母出手刪帖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196939226621415424867952.jpeg/9kwPO2nT2VAob1ofyjvR2Y7A-rCuvKre3YBR2t2AUdo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408879/%E4%BD%95%E6%85%88%E8%8C%B5%E7%B5%82%E6%A5%B5%E5%8F%8D%E6%93%8A%E5%94%94%E8%AA%8D-%E5%93%8E%E5%90%94%E9%98%BF%E5%AA%BD-%E6%93%AC%E8%A8%B4%E8%AB%B8%E6%B3%95%E5%BE%8B%E7%88%86%E5%B8%AB%E6%AF%8D%E5%87%BA%E6%89%8B%E5%88%AA%E5%B8%96",
-    "timestamp": "2026-11-10T22:41:18.811Z",
     "strategy": ".content-card__main"
   }
 ];
