@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T13:20:02.288Z
+// Last updated: 2026-11-11T13:45:36.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普凱旋門項目遇阻　甘迺迪家族入稟促叫停：破壞國家公墓景觀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1173028050686971904432578.jpeg/efDKbzHJnHGiZF9t6w0VEixoV9KtMmWcXlIWQ15SFkM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409770/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%B1%E6%97%8B%E9%96%80%E9%A0%85%E7%9B%AE%E9%81%87%E9%98%BB-%E7%94%98%E8%BF%BA%E8%BF%AA%E5%AE%B6%E6%97%8F%E5%85%A5%E7%A8%9F%E4%BF%83%E5%8F%AB%E5%81%9C-%E7%A0%B4%E5%A3%9E%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%A2%93%E6%99%AF%E8%A7%80",
+    "timestamp": "2026-11-11T13:45:36.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國網紅孟加拉貧民窟拍片謊稱新德里　印外交部促當局嚴懲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196779287319941120243576.jpeg/1Ses_D06q80dGT4-6vrzcT3295S8-ivL90u3qvdLt6o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60403921/%E9%9B%9911%E5%84%AA%E6%83%A02026-30-%E7%B6%B2%E8%B3%BC%E5%84%AA%E6%83%A0%E7%A2%BC%E5%90%88%E9%9B%86-iherb-lululemon-nike-%E8%B1%90%E6%BE%A4",
     "timestamp": "2026-11-11T07:45:29.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳欣健偕嫩女買餸傳黃昏戀　親揭真相否認有新歡：我得一個老婆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197183967376183296758243.jpeg/186vcgno1yEMvSRYdLEqkZRaDC0SZDcaTxes608XrOs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409469/%E9%99%B3%E6%AC%A3%E5%81%A5%E5%81%95%E5%AB%A9%E5%A5%B3%E8%B2%B7%E9%A4%B8%E5%82%B3%E9%BB%83%E6%98%8F%E6%88%80-%E8%A6%AA%E6%8F%AD%E7%9C%9F%E7%9B%B8%E5%90%A6%E8%AA%8D%E6%9C%89%E6%96%B0%E6%AD%A1-%E6%88%91%E5%BE%97%E4%B8%80%E5%80%8B%E8%80%81%E5%A9%86",
-    "timestamp": "2026-11-11T07:21:42.535Z",
     "strategy": ".content-card__main"
   }
 ];
