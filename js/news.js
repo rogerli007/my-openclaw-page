@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T19:45:07.302Z
+// Last updated: 2026-11-11T19:59:03.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙田女子屋內暈倒　母親報案求助　送院搶救不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197393449398046720785269.jpeg/IYv1TYfgIp-SKo5lKoHzcEKaoyw_jU9I-gfqCcAH6gk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409806/%E6%B2%99%E7%94%B0%E5%A5%B3%E5%AD%90%E5%B1%8B%E5%85%A7%E6%9A%88%E5%80%92-%E6%AF%8D%E8%A6%AA%E5%A0%B1%E6%A1%88%E6%B1%82%E5%8A%A9-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-11-11T19:59:03.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田女子屋內暈倒　母親報案求助　送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197290647564849152304751.jpeg/eka4ZbfzYQZRi5Pbn69YRkSHbfUhjOvKVzu3nlc7t54?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409771/%E7%81%A3%E4%BB%94%E9%8C%AB%E5%85%8B%E6%95%99%E5%BB%9F%E4%BA%AE%E8%97%8D%E7%87%88%E8%AE%8A-%E5%86%B0%E9%9B%AA%E5%A5%87%E7%B7%A3-%E9%80%BE%E7%99%BE%E4%BA%BA%E5%8C%85%E5%9C%8D%E6%89%93%E5%8D%A1-%E4%BA%AE%E7%87%88%E8%87%B311-24",
     "timestamp": "2026-11-11T13:59:08.984Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普凱旋門項目遇阻　甘迺迪家族入稟促叫停：破壞國家公墓景觀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1173028050686971904432578.jpeg/efDKbzHJnHGiZF9t6w0VEixoV9KtMmWcXlIWQ15SFkM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409770/%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%B1%E6%97%8B%E9%96%80%E9%A0%85%E7%9B%AE%E9%81%87%E9%98%BB-%E7%94%98%E8%BF%BA%E8%BF%AA%E5%AE%B6%E6%97%8F%E5%85%A5%E7%A8%9F%E4%BF%83%E5%8F%AB%E5%81%9C-%E7%A0%B4%E5%A3%9E%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%A2%93%E6%99%AF%E8%A7%80",
-    "timestamp": "2026-11-11T13:45:36.709Z",
     "strategy": ".content-card__main"
   }
 ];
