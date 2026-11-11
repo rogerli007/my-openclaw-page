@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T09:21:38.876Z
+// Last updated: 2026-11-11T09:45:31.057Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜鄺港傑稱在咖啡室與弟相會有動作　只在談論健身話題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196448728576167936839026.jpeg/D0rf7YdtvkS1wswOOoNvNNqiTNDlQ9i9vmmOSr5pjko?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409688/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E5%82%91%E7%A8%B1%E5%9C%A8%E5%92%96%E5%95%A1%E5%AE%A4%E8%88%87%E5%BC%9F%E7%9B%B8%E6%9C%83%E6%9C%89%E5%8B%95%E4%BD%9C-%E5%8F%AA%E5%9C%A8%E8%AB%87%E8%AB%96%E5%81%A5%E8%BA%AB%E8%A9%B1%E9%A1%8C",
+    "timestamp": "2026-11-11T09:45:31.057Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "叱咤2026｜「我最喜愛」12強名單出爐！古天樂相隔8年再度入圍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221102/664464292556312576034621.jpeg/teEr2-L-r6N__eLYS402onYmNwu-Rtqcy3SNAst0jQI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60409451/%E5%8F%B0%E7%81%A3%E6%88%96%E6%94%B6%E7%B7%8A%E5%85%A9%E9%A1%9E%E6%B8%AF%E4%BA%BA%E5%85%A5%E5%A2%83%E5%AF%A9%E6%9F%A5-%E5%90%AB%E5%85%A7%E5%9C%B0%E5%87%BA%E7%94%9F%E8%80%85-%E9%99%B8%E5%A7%94%E6%9C%83-%E4%B8%8D%E6%9C%83%E4%B8%80%E5%88%80%E5%88%87",
     "timestamp": "2026-11-11T03:45:43.736Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：黃仁勳認出軌翌日照返工　早會道歉後扮無事　公司氣氛低落",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192782044292190208125906.png/OeDnD2_lMIdVQ2RE5HstMhrRKBXew0Y1_wP_3v8D_94?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409403/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%8D%E5%87%BA%E8%BB%8C%E7%BF%8C%E6%97%A5%E7%85%A7%E8%BF%94%E5%B7%A5-%E6%97%A9%E6%9C%83%E9%81%93%E6%AD%89%E5%BE%8C%E6%89%AE%E7%84%A1%E4%BA%8B-%E5%85%AC%E5%8F%B8%E6%B0%A3%E6%B0%9B%E4%BD%8E%E8%90%BD",
-    "timestamp": "2026-11-11T03:33:19.352Z",
     "strategy": ".content-card__main"
   }
 ];
