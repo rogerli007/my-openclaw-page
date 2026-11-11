@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T19:18:57.600Z
+// Last updated: 2026-11-11T19:29:30.526Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國中期選舉｜白宮致函民主黨眾議員　部份調查或構成犯罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139719553400442880789035.jpeg/yDC6esZPJttlwG9FGI9CwSADXeGeQjkTr_XOIq_1ziI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409805/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%99%BD%E5%AE%AE%E8%87%B4%E5%87%BD%E6%B0%91%E4%B8%BB%E9%BB%A8%E7%9C%BE%E8%AD%B0%E5%93%A1-%E9%83%A8%E4%BB%BD%E8%AA%BF%E6%9F%A5%E6%88%96%E6%A7%8B%E6%88%90%E7%8A%AF%E7%BD%AA",
+    "timestamp": "2026-11-11T19:29:30.526Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華決定離開TVB主因：角色千篇一律 毫無挑戰性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197295436558241792476280.jpeg/dpV26K5U4Jz0h0Zfed_590KGh1HeYWbxUKvXTiqr104?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60409768/%E4%B8%AD%E5%9C%8B%E7%B6%B2%E7%B4%85%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%B2%A7%E6%B0%91%E7%AA%9F%E6%8B%8D%E7%89%87%E8%AC%8A%E7%A8%B1%E6%96%B0%E5%BE%B7%E9%87%8C-%E5%8D%B0%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BF%83%E7%95%B6%E5%B1%80%E5%9A%B4%E6%87%B2",
     "timestamp": "2026-11-11T13:20:02.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩11.12頭獎2000萬攪珠前必睇攻略！6個號碼老是常出現",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184999302787764224093158.jpeg/J1c_om4mmenbB216SkeLG5Ni7JyKTdlONVZpajVWaWo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409325/%E5%85%AD%E5%90%88%E5%BD%A911-12%E9%A0%AD%E7%8D%8E2000%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E5%BF%85%E7%9D%87%E6%94%BB%E7%95%A5-6%E5%80%8B%E8%99%9F%E7%A2%BC%E8%80%81%E6%98%AF%E5%B8%B8%E5%87%BA%E7%8F%BE",
-    "timestamp": "2026-11-11T12:58:57.606Z",
     "strategy": ".content-card__main"
   }
 ];
