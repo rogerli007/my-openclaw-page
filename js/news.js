@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T10:45:31.504Z
+// Last updated: 2026-11-11T10:59:01.448Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "惠康自家品牌Meadows脫脂奶含菌量超標　食安中心：無流出市面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260227/1104146471483084800736452.jpeg/VJNUe9sfsEJcW0P9p-ItPEJTLAJA7v81oFpRBKBaUQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409721/%E6%83%A0%E5%BA%B7%E8%87%AA%E5%AE%B6%E5%93%81%E7%89%8Cmeadows%E8%84%AB%E8%84%82%E5%A5%B6%E5%90%AB%E8%8F%8C%E9%87%8F%E8%B6%85%E6%A8%99-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83-%E7%84%A1%E6%B5%81%E5%87%BA%E5%B8%82%E9%9D%A2",
+    "timestamp": "2026-11-11T10:59:01.448Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周杰倫巨星傳奇｜旗下全球首間科技Cafe直擊　咖啡師竟唔係人？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/1349028/org/4323130880a986217cbac3b5119f4a37.jpg/2FkRCzk-y1Gr5tMXsNuH7rxr5iLV6bJI3TSKmd00ipk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409491/%E5%A4%A7%E5%9F%94%E6%9C%89%E5%85%AC%E5%8F%B8%E6%8C%87%E6%8C%89%E8%A6%81%E6%B1%82%E6%81%A2%E5%BE%A9%E5%9C%9F%E5%9C%B0%E5%8E%9F%E7%8B%80%E7%96%91%E9%81%AD%E8%AD%A6%E9%98%BB%E6%AD%A2-%E5%85%A5%E7%A8%9F%E7%94%B3%E7%A6%81%E4%BB%A4%E5%8F%8A%E8%BF%BD%E6%90%8D%E5%A4%B1",
     "timestamp": "2026-11-11T04:59:13.802Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雙11優惠2026｜14大必搶!佳寶全場8折/譚仔$11加小食/大家樂減$11",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197158385846325248089361.jpeg/gCM0G6m5CV6rV13ursno56Z6t5Z3Q742MvywajL8sGo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60406140/%E9%9B%9911%E5%84%AA%E6%83%A02026-14%E5%A4%A7%E5%BF%85%E6%90%B6-%E4%BD%B3%E5%AF%B6%E5%85%A8%E5%A0%B48%E6%8A%98-%E8%AD%9A%E4%BB%94-11%E5%8A%A0%E5%B0%8F%E9%A3%9F-%E5%A4%A7%E5%AE%B6%E6%A8%82%E6%B8%9B-11",
-    "timestamp": "2026-11-11T04:45:43.479Z",
     "strategy": ".content-card__main"
   }
 ];
