@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T19:59:03.251Z
+// Last updated: 2026-11-11T20:20:07.732Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華晚年移居溫哥華：享受孫兒圍繞的清閑退休生活",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195783104564826112305769.jpeg/Jj7IErvSfheai11cH-fND-mb90CRZln8JNLIIiTSyCI",
+    "url": "https://www.hk01.com/01TV/60408223/%E5%85%83%E8%8F%AF%E6%99%9A%E5%B9%B4%E7%A7%BB%E5%B1%85%E6%BA%AB%E5%93%A5%E8%8F%AF-%E4%BA%AB%E5%8F%97%E5%AD%AB%E5%85%92%E5%9C%8D%E7%B9%9E%E7%9A%84%E6%B8%85%E9%96%91%E9%80%80%E4%BC%91%E7%94%9F%E6%B4%BB",
+    "timestamp": "2026-11-11T20:20:07.732Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙田女子屋內暈倒　母親報案求助　送院搶救不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197295644088209408357201.png/9qix2C50FwKIvxPHIigUPfZL90-lCcbNYYJVpGGCVaQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409773/%E6%88%90%E4%BA%BA%E5%B1%95%E5%8F%96%E6%B6%88-%E4%B8%BB%E8%BE%A6%E5%8E%BB%E5%B9%B4%E6%88%90%E7%AB%8B%E8%80%81%E9%97%86%E5%81%9A%E8%A8%AD%E8%A8%88%E5%80%89%E5%AD%98%E7%94%9F%E6%84%8F-%E4%B8%8A%E6%9C%88%E5%A2%9E%E4%B8%89%E5%85%A7%E5%9C%B0%E8%82%A1%E6%9D%B1",
     "timestamp": "2026-11-11T14:20:30.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "灣仔錫克教廟亮藍燈變《冰雪奇緣》逾百人包圍打卡　亮燈至11.24",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197290647564849152304751.jpeg/eka4ZbfzYQZRi5Pbn69YRkSHbfUhjOvKVzu3nlc7t54?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409771/%E7%81%A3%E4%BB%94%E9%8C%AB%E5%85%8B%E6%95%99%E5%BB%9F%E4%BA%AE%E8%97%8D%E7%87%88%E8%AE%8A-%E5%86%B0%E9%9B%AA%E5%A5%87%E7%B7%A3-%E9%80%BE%E7%99%BE%E4%BA%BA%E5%8C%85%E5%9C%8D%E6%89%93%E5%8D%A1-%E4%BA%AE%E7%87%88%E8%87%B311-24",
-    "timestamp": "2026-11-11T13:59:08.984Z",
     "strategy": ".content-card__main"
   }
 ];
