@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T11:19:34.443Z
+// Last updated: 2026-11-11T11:44:35.340Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "成人展取消｜參展日本女優包括波多野結衣、河北彩花等　名單一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230914/779066833239412736927356.jpeg/HoDntYVXiMBSeHBZs5DgH4pRPuQgdY-No9Wo7IbVqOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409753/%E6%88%90%E4%BA%BA%E5%B1%95%E5%8F%96%E6%B6%88-%E5%8F%83%E5%B1%95%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%84%AA%E5%8C%85%E6%8B%AC%E6%B3%A2%E5%A4%9A%E9%87%8E%E7%B5%90%E8%A1%A3-%E6%B2%B3%E5%8C%97%E5%BD%A9%E8%8A%B1%E7%AD%89-%E5%90%8D%E5%96%AE%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-11-11T11:44:35.340Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傅穎否認講過與楊千嬅疏遠　反擊炒作陳年是非：只有你們製造是非",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197168150794211328830579.png/efIqKJmuybn2Q78I0KW2uUxw9CgGF7Y2X0JLU19CS1M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409506/%E7%8D%B8%E9%86%AB%E7%AE%A1%E7%90%86%E5%B1%80%E4%BB%8A%E5%B9%B4%E6%94%B666%E5%AE%97%E6%8A%95%E8%A8%B4%E4%BA%94%E5%B9%B4%E6%96%B0%E9%AB%98-%E6%B6%89%E7%84%A1%E7%89%8C%E8%A1%8C%E9%86%AB%E8%88%89%E5%A0%B10%E6%AA%A2%E6%8E%A7%E6%88%96%E5%AE%9A%E7%BD%AA",
     "timestamp": "2026-11-11T05:30:11.141Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葵涌廣場$15單餸飯實測　一盒有13件排骨有驚喜　網民讚糧尾恩物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197172777296072704584297.jpeg/Uxsc4U-Hn-qVzZj3evGnbObbDnEVI9I-QC9PUEAvT1A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60409282/%E8%91%B5%E6%B6%8C%E5%BB%A3%E5%A0%B4-15%E5%96%AE%E9%A4%B8%E9%A3%AF%E5%AF%A6%E6%B8%AC-%E4%B8%80%E7%9B%92%E6%9C%8913%E4%BB%B6%E6%8E%92%E9%AA%A8%E6%9C%89%E9%A9%9A%E5%96%9C-%E7%B6%B2%E6%B0%91%E8%AE%9A%E7%B3%A7%E5%B0%BE%E6%81%A9%E7%89%A9",
-    "timestamp": "2026-11-11T05:19:15.823Z",
     "strategy": ".content-card__main"
   }
 ];
