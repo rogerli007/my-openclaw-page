@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T03:33:19.352Z
+// Last updated: 2026-11-11T03:45:43.736Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣或收緊兩類港人入境審查　含內地出生者　陸委會：不會一刀切",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221102/664464292556312576034621.jpeg/teEr2-L-r6N__eLYS402onYmNwu-Rtqcy3SNAst0jQI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60409451/%E5%8F%B0%E7%81%A3%E6%88%96%E6%94%B6%E7%B7%8A%E5%85%A9%E9%A1%9E%E6%B8%AF%E4%BA%BA%E5%85%A5%E5%A2%83%E5%AF%A9%E6%9F%A5-%E5%90%AB%E5%85%A7%E5%9C%B0%E5%87%BA%E7%94%9F%E8%80%85-%E9%99%B8%E5%A7%94%E6%9C%83-%E4%B8%8D%E6%9C%83%E4%B8%80%E5%88%80%E5%88%87",
+    "timestamp": "2026-11-11T03:45:43.736Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：黃仁勳認出軌翌日照返工　早會道歉後扮無事　公司氣氛低落",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197044397980520448946301.jpeg/7_GkC0_JDktWMS22zg_Dmj9ipyrBOOTVlo8HPKyPBzw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409357/%E7%B4%85%E7%A3%A1%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A-%E5%85%A9%E7%94%B7%E5%A5%B3%E7%96%91%E9%A3%B2%E9%86%89%E9%85%92%E5%8F%A3%E8%A7%92%E8%B7%B3%E6%B5%B7-%E6%B8%85%E9%86%92%E7%8D%B2%E6%95%91%E5%9B%9E%E4%B8%8A%E5%B2%B8",
     "timestamp": "2026-11-10T20:59:08.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：眾議院共和黨人推選Jim Jordan擔任下屆少數黨領袖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197034563306524672795468.jpeg/hHRJ8S4t-cYR7ELwoFh1dSP4BZP2XgofVCpiAVQqYgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409356/%E7%BE%8E%E5%AA%92-%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%8E%A8%E9%81%B8jim-jordan%E6%93%94%E4%BB%BB%E4%B8%8B%E5%B1%86%E5%B0%91%E6%95%B8%E9%BB%A8%E9%A0%98%E8%A2%96",
-    "timestamp": "2026-11-10T20:44:42.111Z",
     "strategy": ".content-card__main"
   }
 ];
