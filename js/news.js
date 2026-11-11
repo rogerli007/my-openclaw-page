@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T22:45:13.796Z
+// Last updated: 2026-11-11T22:59:08.916Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WSJ：英偉達董事會準備罷免黃仁勳　因其存有兩段婚外情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197267012837969920209816.jpeg/po25kr6cCx3ez_JqfTx7ArxHIBYJR6c5E455CBOOeQg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409815/wsj-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E6%BA%96%E5%82%99%E7%BD%B7%E5%85%8D%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%9B%A0%E5%85%B6%E5%AD%98%E6%9C%89%E5%85%A9%E6%AE%B5%E5%A9%9A%E5%A4%96%E6%83%85",
+    "timestamp": "2026-11-11T22:59:08.916Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李添勝手持拐杖罕現身　「掃街茂」變金牌監製捧紅周潤發梁朝偉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183461722782961664287439.jpeg/40z3Y4axODe6ZKmx3kK2nyrZNFklYe3dYwJwtGMCcLQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409792/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E9%A6%99%E6%B8%AF%E6%AE%B5%E5%8D%8A%E9%A6%AC%E6%8B%89%E6%9D%BE%E5%91%A8%E6%97%A5%E8%88%89%E8%A1%8C-%E7%89%B9%E5%88%A5%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92%E5%91%A8%E5%85%AD%E8%B5%B7%E5%88%86%E6%AE%B5%E5%AF%A6%E6%96%BD",
     "timestamp": "2026-11-11T16:46:26.706Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPad mini 8評測：升級OLED／A20 Pro沒高刷值得入手嗎｜規格對比",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196980053976551424741529.jpeg/EJh4Oxs6YLudmuREYwwEC5SKeB2XIZ7xUAm1VlAJtVY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60409339/ipad-mini-8%E8%A9%95%E6%B8%AC-%E5%8D%87%E7%B4%9Aoled-a20-pro%E6%B2%92%E9%AB%98%E5%88%B7%E5%80%BC%E5%BE%97%E5%85%A5%E6%89%8B%E5%97%8E-%E8%A6%8F%E6%A0%BC%E5%B0%8D%E6%AF%94",
-    "timestamp": "2026-11-11T16:21:17.597Z",
     "strategy": ".content-card__main"
   }
 ];
