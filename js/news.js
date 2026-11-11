@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T10:59:01.448Z
+// Last updated: 2026-11-11T11:19:34.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傅穎否認講過與楊千嬅疏遠　反擊炒作陳年是非：只有你們製造是非",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197258340179120128204571.jpeg/ZxvXWMbAy4u8FvsECi6rItQoCc0lO86mj4Xdn4-F3Z8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409596/%E5%82%85%E7%A9%8E%E5%90%A6%E8%AA%8D%E8%AC%9B%E9%81%8E%E8%88%87%E6%A5%8A%E5%8D%83%E5%AC%85%E7%96%8F%E9%81%A0-%E5%8F%8D%E6%93%8A%E7%82%92%E4%BD%9C%E9%99%B3%E5%B9%B4%E6%98%AF%E9%9D%9E-%E5%8F%AA%E6%9C%89%E4%BD%A0%E5%80%91%E8%A3%BD%E9%80%A0%E6%98%AF%E9%9D%9E",
+    "timestamp": "2026-11-11T11:19:34.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "惠康自家品牌Meadows脫脂奶含菌量超標　食安中心：無流出市面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197172777296072704584297.jpeg/Uxsc4U-Hn-qVzZj3evGnbObbDnEVI9I-QC9PUEAvT1A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60409282/%E8%91%B5%E6%B6%8C%E5%BB%A3%E5%A0%B4-15%E5%96%AE%E9%A4%B8%E9%A3%AF%E5%AF%A6%E6%B8%AC-%E4%B8%80%E7%9B%92%E6%9C%8913%E4%BB%B6%E6%8E%92%E9%AA%A8%E6%9C%89%E9%A9%9A%E5%96%9C-%E7%B6%B2%E6%B0%91%E8%AE%9A%E7%B3%A7%E5%B0%BE%E6%81%A9%E7%89%A9",
     "timestamp": "2026-11-11T05:19:15.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔有公司指按要求恢復土地原狀疑遭警阻止　入稟申禁令及追損失",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1349028/org/4323130880a986217cbac3b5119f4a37.jpg/2FkRCzk-y1Gr5tMXsNuH7rxr5iLV6bJI3TSKmd00ipk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409491/%E5%A4%A7%E5%9F%94%E6%9C%89%E5%85%AC%E5%8F%B8%E6%8C%87%E6%8C%89%E8%A6%81%E6%B1%82%E6%81%A2%E5%BE%A9%E5%9C%9F%E5%9C%B0%E5%8E%9F%E7%8B%80%E7%96%91%E9%81%AD%E8%AD%A6%E9%98%BB%E6%AD%A2-%E5%85%A5%E7%A8%9F%E7%94%B3%E7%A6%81%E4%BB%A4%E5%8F%8A%E8%BF%BD%E6%90%8D%E5%A4%B1",
-    "timestamp": "2026-11-11T04:59:13.802Z",
     "strategy": ".content-card__main"
   }
 ];
