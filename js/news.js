@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T04:45:43.479Z
+// Last updated: 2026-11-11T04:59:13.802Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔有公司指按要求恢復土地原狀疑遭警阻止　入稟申禁令及追損失",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1349028/org/4323130880a986217cbac3b5119f4a37.jpg/2FkRCzk-y1Gr5tMXsNuH7rxr5iLV6bJI3TSKmd00ipk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409491/%E5%A4%A7%E5%9F%94%E6%9C%89%E5%85%AC%E5%8F%B8%E6%8C%87%E6%8C%89%E8%A6%81%E6%B1%82%E6%81%A2%E5%BE%A9%E5%9C%9F%E5%9C%B0%E5%8E%9F%E7%8B%80%E7%96%91%E9%81%AD%E8%AD%A6%E9%98%BB%E6%AD%A2-%E5%85%A5%E7%A8%9F%E7%94%B3%E7%A6%81%E4%BB%A4%E5%8F%8A%E8%BF%BD%E6%90%8D%E5%A4%B1",
+    "timestamp": "2026-11-11T04:59:13.802Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雙11優惠2026｜14大必搶!佳寶全場8折/譚仔$11加小食/大家樂減$11",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197067735935356928502341.jpeg/tEvfem36XeV8mPjNlNB9Xm43oHgjZbWjrgTLOq4Eyzo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60409349/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B8%82%E5%8D%80%E7%B4%8418%E5%BA%A6-%E6%96%B0%E7%95%8C%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%8012%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8B-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8425%E5%BA%A6",
     "timestamp": "2026-11-10T22:19:50.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雷扎伊否認將與萬斯會面　伊朗外長：沒有此類會面計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170067481067261952693170.jpeg/_yC_RhoPcHJTNoQyvWjx8VYpZbQPTIH5yLhyDci4cg0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409362/%E9%9B%B7%E6%89%8E%E4%BC%8A%E5%90%A6%E8%AA%8D%E5%B0%87%E8%88%87%E8%90%AC%E6%96%AF%E6%9C%83%E9%9D%A2-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%B2%92%E6%9C%89%E6%AD%A4%E9%A1%9E%E6%9C%83%E9%9D%A2%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-11-10T21:59:00.769Z",
     "strategy": ".content-card__main"
   }
 ];
