@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T04:59:13.802Z
+// Last updated: 2026-11-11T05:19:15.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌廣場$15單餸飯實測　一盒有13件排骨有驚喜　網民讚糧尾恩物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197172777296072704584297.jpeg/Uxsc4U-Hn-qVzZj3evGnbObbDnEVI9I-QC9PUEAvT1A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60409282/%E8%91%B5%E6%B6%8C%E5%BB%A3%E5%A0%B4-15%E5%96%AE%E9%A4%B8%E9%A3%AF%E5%AF%A6%E6%B8%AC-%E4%B8%80%E7%9B%92%E6%9C%8913%E4%BB%B6%E6%8E%92%E9%AA%A8%E6%9C%89%E9%A9%9A%E5%96%9C-%E7%B6%B2%E6%B0%91%E8%AE%9A%E7%B3%A7%E5%B0%BE%E6%81%A9%E7%89%A9",
+    "timestamp": "2026-11-11T05:19:15.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔有公司指按要求恢復土地原狀疑遭警阻止　入稟申禁令及追損失",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196939226621415424867952.jpeg/9kwPO2nT2VAob1ofyjvR2Y7A-rCuvKre3YBR2t2AUdo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60408879/%E4%BD%95%E6%85%88%E8%8C%B5%E7%B5%82%E6%A5%B5%E5%8F%8D%E6%93%8A%E5%94%94%E8%AA%8D-%E5%93%8E%E5%90%94%E9%98%BF%E5%AA%BD-%E6%93%AC%E8%A8%B4%E8%AB%B8%E6%B3%95%E5%BE%8B%E7%88%86%E5%B8%AB%E6%AF%8D%E5%87%BA%E6%89%8B%E5%88%AA%E5%B8%96",
     "timestamp": "2026-11-10T22:41:18.811Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今早市區約18度　新界部份地區12度或以下　日間最高約25度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197067735935356928502341.jpeg/tEvfem36XeV8mPjNlNB9Xm43oHgjZbWjrgTLOq4Eyzo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60409349/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B8%82%E5%8D%80%E7%B4%8418%E5%BA%A6-%E6%96%B0%E7%95%8C%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%8012%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8B-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8425%E5%BA%A6",
-    "timestamp": "2026-11-10T22:19:50.974Z",
     "strategy": ".content-card__main"
   }
 ];
