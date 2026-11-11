@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T04:22:03.061Z
+// Last updated: 2026-11-11T04:45:43.479Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雙11優惠2026｜14大必搶!佳寶全場8折/譚仔$11加小食/大家樂減$11",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197158385846325248089361.jpeg/gCM0G6m5CV6rV13ursno56Z6t5Z3Q742MvywajL8sGo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60406140/%E9%9B%9911%E5%84%AA%E6%83%A02026-14%E5%A4%A7%E5%BF%85%E6%90%B6-%E4%BD%B3%E5%AF%B6%E5%85%A8%E5%A0%B48%E6%8A%98-%E8%AD%9A%E4%BB%94-11%E5%8A%A0%E5%B0%8F%E9%A3%9F-%E5%A4%A7%E5%AE%B6%E6%A8%82%E6%B8%9B-11",
+    "timestamp": "2026-11-11T04:45:43.479Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone Duo炒價雪崩！先達劏舖「反高潮」4個月漲3成　夠買4部機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170067481067261952693170.jpeg/_yC_RhoPcHJTNoQyvWjx8VYpZbQPTIH5yLhyDci4cg0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409362/%E9%9B%B7%E6%89%8E%E4%BC%8A%E5%90%A6%E8%AA%8D%E5%B0%87%E8%88%87%E8%90%AC%E6%96%AF%E6%9C%83%E9%9D%A2-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E6%B2%92%E6%9C%89%E6%AD%A4%E9%A1%9E%E6%9C%83%E9%9D%A2%E8%A8%88%E5%8A%83",
     "timestamp": "2026-11-10T21:59:00.769Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺男工貨車尾上落貨　1米高意外墮下　頭傷清醒送院治理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197056101271474176489236.jpeg/ZANnbcBENEqA8sLpWm4TPyZFFHY5vp0Z--E4msHhOJo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409361/%E7%B2%89%E5%B6%BA%E7%94%B7%E5%B7%A5%E8%B2%A8%E8%BB%8A%E5%B0%BE%E4%B8%8A%E8%90%BD%E8%B2%A8-1%E7%B1%B3%E9%AB%98%E6%84%8F%E5%A4%96%E5%A2%AE%E4%B8%8B-%E9%A0%AD%E5%82%B7%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
-    "timestamp": "2026-11-10T21:44:51.401Z",
     "strategy": ".content-card__main"
   }
 ];
