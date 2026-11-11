@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T12:38:58.839Z
+// Last updated: 2026-11-11T12:58:57.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩11.12頭獎2000萬攪珠前必睇攻略！6個號碼老是常出現",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184999302787764224093158.jpeg/J1c_om4mmenbB216SkeLG5Ni7JyKTdlONVZpajVWaWo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409325/%E5%85%AD%E5%90%88%E5%BD%A911-12%E9%A0%AD%E7%8D%8E2000%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E5%BF%85%E7%9D%87%E6%94%BB%E7%95%A5-6%E5%80%8B%E8%99%9F%E7%A2%BC%E8%80%81%E6%98%AF%E5%B8%B8%E5%87%BA%E7%8F%BE",
+    "timestamp": "2026-11-11T12:58:57.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西醫蕭德華疑處方致敏藥　護士稱病人沒出示過敏卡　研訊小組質疑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230426/727951837528854528184697.jpeg/bcQ9N77djIM6aQRmiUrdYMC0mY1A2_0tbSOhaW0joWk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409555/%E5%BE%B7%E5%AA%92-2024%E5%B9%B4%E6%89%8D%E7%8D%B2%E5%87%86%E6%8E%A1%E8%B3%BCdji%E5%A4%A7%E7%96%86-%E5%BE%B7%E8%BB%8D%E6%86%82%E5%AE%89%E5%85%A8%E7%AA%81%E7%A6%81%E4%B8%AD%E5%9C%8B%E5%95%86%E7%94%A8%E7%84%A1%E4%BA%BA%E6%A9%9F",
     "timestamp": "2026-11-11T06:49:59.562Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "矢板明夫遇襲｜港黑幫收錢跨境施暴　嫌犯認罪求輕判當事人拒和解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197191077086367744248196.jpeg/j5VCYutut6b-LPV0dV1BFCQhKCmOcCJE8h3RTfId0U0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60409547/%E7%9F%A2%E6%9D%BF%E6%98%8E%E5%A4%AB%E9%81%87%E8%A5%B2-%E6%B8%AF%E9%BB%91%E5%B9%AB%E6%94%B6%E9%8C%A2%E8%B7%A8%E5%A2%83%E6%96%BD%E6%9A%B4-%E5%AB%8C%E7%8A%AF%E8%AA%8D%E7%BD%AA%E6%B1%82%E8%BC%95%E5%88%A4%E7%95%B6%E4%BA%8B%E4%BA%BA%E6%8B%92%E5%92%8C%E8%A7%A3",
-    "timestamp": "2026-11-11T06:27:54.299Z",
     "strategy": ".content-card__main"
   }
 ];
