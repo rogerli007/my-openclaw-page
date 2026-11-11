@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T02:57:29.361Z
+// Last updated: 2026-11-11T03:33:19.352Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：黃仁勳認出軌翌日照返工　早會道歉後扮無事　公司氣氛低落",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192782044292190208125906.png/OeDnD2_lMIdVQ2RE5HstMhrRKBXew0Y1_wP_3v8D_94?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409403/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%8D%E5%87%BA%E8%BB%8C%E7%BF%8C%E6%97%A5%E7%85%A7%E8%BF%94%E5%B7%A5-%E6%97%A9%E6%9C%83%E9%81%93%E6%AD%89%E5%BE%8C%E6%89%AE%E7%84%A1%E4%BA%8B-%E5%85%AC%E5%8F%B8%E6%B0%A3%E6%B0%9B%E4%BD%8E%E8%90%BD",
+    "timestamp": "2026-11-11T03:33:19.352Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜美共和民主兩黨急推3法案　限制中國獲取AI晶片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197034563306524672795468.jpeg/hHRJ8S4t-cYR7ELwoFh1dSP4BZP2XgofVCpiAVQqYgE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409356/%E7%BE%8E%E5%AA%92-%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%8E%A8%E9%81%B8jim-jordan%E6%93%94%E4%BB%BB%E4%B8%8B%E5%B1%86%E5%B0%91%E6%95%B8%E9%BB%A8%E9%A0%98%E8%A2%96",
     "timestamp": "2026-11-10T20:44:42.111Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：眾議院共和黨人推選Jim Jordan擔任下屆少數黨領袖",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197034563306524672795468.jpeg/hHRJ8S4t-cYR7ELwoFh1dSP4BZP2XgofVCpiAVQqYgE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409356/%E7%BE%8E%E5%AA%92-%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%8E%A8%E9%81%B8jim-jordan%E6%93%94%E4%BB%BB%E4%B8%8B%E5%B1%86%E5%B0%91%E6%95%B8%E9%BB%A8%E9%A0%98%E8%A2%96",
-    "timestamp": "2026-11-10T20:19:53.895Z",
     "strategy": ".content-card__main"
   }
 ];
