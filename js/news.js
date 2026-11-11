@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T03:45:43.736Z
+// Last updated: 2026-11-11T03:59:08.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜傳黃樂曾遭新加坡問話及限制離境　少報5萬晶片去向",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196841923369766912190253.jpeg/LkLi_IWsWvbg6GvIRmlPJgFXZFXN2k-Gizw7eos8O3o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409431/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%82%B3%E9%BB%83%E6%A8%82%E6%9B%BE%E9%81%AD%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%95%8F%E8%A9%B1%E5%8F%8A%E9%99%90%E5%88%B6%E9%9B%A2%E5%A2%83-%E5%B0%91%E5%A0%B15%E8%90%AC%E6%99%B6%E7%89%87%E5%8E%BB%E5%90%91",
+    "timestamp": "2026-11-11T03:59:08.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣或收緊兩類港人入境審查　含內地出生者　陸委會：不會一刀切",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250304/973565974785560576867052.jpeg/o0lVe1pS5cEyj87eL4cLfKYEEpXtufXL2Hwlath8JWo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409360/%E7%BE%8E%E9%99%B8%E8%BB%8D41%E6%AD%B2%E9%AB%98%E7%B4%9A%E5%A3%AB%E5%85%B5%E6%B6%89%E5%8D%94%E5%8A%A9%E4%BF%84%E7%BE%85%E6%96%AF%E6%83%85%E5%A0%B1%E9%83%A8%E9%96%80-%E5%9C%A8%E8%8B%B1%E5%9C%8B%E9%81%AD%E7%95%B6%E5%9C%B0%E8%AD%A6%E6%96%B9%E9%80%AE%E6%8D%95",
     "timestamp": "2026-11-10T21:19:26.853Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡海濱長廊　兩男女疑飲醉酒口角跳海　清醒獲救回上岸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197044397980520448946301.jpeg/7_GkC0_JDktWMS22zg_Dmj9ipyrBOOTVlo8HPKyPBzw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409357/%E7%B4%85%E7%A3%A1%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A-%E5%85%A9%E7%94%B7%E5%A5%B3%E7%96%91%E9%A3%B2%E9%86%89%E9%85%92%E5%8F%A3%E8%A7%92%E8%B7%B3%E6%B5%B7-%E6%B8%85%E9%86%92%E7%8D%B2%E6%95%91%E5%9B%9E%E4%B8%8A%E5%B2%B8",
-    "timestamp": "2026-11-10T20:59:08.731Z",
     "strategy": ".content-card__main"
   }
 ];
