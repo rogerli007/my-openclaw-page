@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T15:59:11.401Z
+// Last updated: 2026-11-11T16:21:17.597Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPad mini 8評測：升級OLED／A20 Pro沒高刷值得入手嗎｜規格對比",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1196980053976551424741529.jpeg/EJh4Oxs6YLudmuREYwwEC5SKeB2XIZ7xUAm1VlAJtVY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60409339/ipad-mini-8%E8%A9%95%E6%B8%AC-%E5%8D%87%E7%B4%9Aoled-a20-pro%E6%B2%92%E9%AB%98%E5%88%B7%E5%80%BC%E5%BE%97%E5%85%A5%E6%89%8B%E5%97%8E-%E8%A6%8F%E6%A0%BC%E5%B0%8D%E6%AF%94",
+    "timestamp": "2026-11-11T16:21:17.597Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新冠｜防護中心：新成份疫苗生產及運送需時　不會擴展疫苗接種點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195280167082135552784915.jpeg/B-ZXK9A1BxShPF-Z2KxLi8_cQw_sh-4G7uiTye7ok8k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60407302/%E9%84%AD%E4%B8%B9%E7%91%9E%E7%B4%B0%E5%A5%B3%E8%88%87%E5%A4%96%E7%B1%8D%E7%94%B7%E5%8F%8B%E6%84%9B%E6%83%85%E9%95%B7%E8%B7%9112%E5%B9%B4%E4%BF%AE%E6%88%90%E6%AD%A3%E6%9E%9C-%E7%88%B6%E8%A6%AA%E6%92%90%E5%AD%B8%E9%9C%B8%E5%8D%83%E9%87%91%E8%BF%BD%E5%A4%A2",
     "timestamp": "2026-11-11T09:59:06.593Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜鄺港傑稱在咖啡室與弟相會有動作　只在談論健身話題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196448728576167936839026.jpeg/D0rf7YdtvkS1wswOOoNvNNqiTNDlQ9i9vmmOSr5pjko?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409688/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E5%82%91%E7%A8%B1%E5%9C%A8%E5%92%96%E5%95%A1%E5%AE%A4%E8%88%87%E5%BC%9F%E7%9B%B8%E6%9C%83%E6%9C%89%E5%8B%95%E4%BD%9C-%E5%8F%AA%E5%9C%A8%E8%AB%87%E8%AB%96%E5%81%A5%E8%BA%AB%E8%A9%B1%E9%A1%8C",
-    "timestamp": "2026-11-11T09:45:31.057Z",
     "strategy": ".content-card__main"
   }
 ];
