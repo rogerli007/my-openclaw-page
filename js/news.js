@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T05:45:51.191Z
+// Last updated: 2026-11-11T05:59:26.778Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西貢貨倉男工遭約300公斤巨型紙卷壓傷腳　受傷送院治理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197180409448763392918364.jpeg/xHVl48lr4bbhVVDM4l1aK10njcE-lOdnQzzVPGk81Tw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409524/%E8%A5%BF%E8%B2%A2%E8%B2%A8%E5%80%89%E7%94%B7%E5%B7%A5%E9%81%AD%E7%B4%84300%E5%85%AC%E6%96%A4%E5%B7%A8%E5%9E%8B%E7%B4%99%E5%8D%B7%E5%A3%93%E5%82%B7%E8%85%B3-%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86",
+    "timestamp": "2026-11-11T05:59:26.778Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金發局提三大建議助港吸耐心資本　籲內地退休基金納入債券南向通",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197006195831869440653870.jpeg/GccIG43-zsiWwWqQc92ir18MMEj3dEN1opmazaKZms0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409350/%E9%AB%98%E6%B5%B7%E5%AF%A7%E8%90%BD%E5%AF%A6%E5%87%BA%E6%BC%94-%E6%96%B0%E8%81%9E%E5%A5%B3%E7%8E%8B3-%E7%8D%B2%E5%BB%A3%E5%91%8A%E5%95%86%E7%98%8B%E7%8B%82%E9%9B%86%E9%83%B5%E9%80%BC%E7%88%86%E9%80%9A%E9%81%93",
     "timestamp": "2026-11-10T23:26:08.155Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梁文廣提公屋議案引爆政黨路線角力　隨時陰溝翻船?｜政圈風聲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177244331761733632325716.jpeg/MMnQka3jDxXPMbHG2SSNo1EMDYgIyzBCpInIt4GJyLc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60409297/%E6%A2%81%E6%96%87%E5%BB%A3%E6%8F%90%E5%85%AC%E5%B1%8B%E8%AD%B0%E6%A1%88%E5%BC%95%E7%88%86%E6%94%BF%E9%BB%A8%E8%B7%AF%E7%B7%9A%E8%A7%92%E5%8A%9B-%E9%9A%A8%E6%99%82%E9%99%B0%E6%BA%9D%E7%BF%BB%E8%88%B9-%E6%94%BF%E5%9C%88%E9%A2%A8%E8%81%B2",
-    "timestamp": "2026-11-10T23:18:22.290Z",
     "strategy": ".content-card__main"
   }
 ];
