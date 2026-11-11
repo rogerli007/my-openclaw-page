@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T09:59:06.593Z
+// Last updated: 2026-11-11T10:20:15.966Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "比亞迪大唐EV前後輪裝錯　官方認錯歸因供應商　強調無安全風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260716/1154436251219136512341862.jpeg/bWSmJ-XD6yq1V8YhfUdYy4U3fizsEhEojCfJfYwnyX0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409687/%E6%AF%94%E4%BA%9E%E8%BF%AA%E5%A4%A7%E5%94%90ev%E5%89%8D%E5%BE%8C%E8%BC%AA%E8%A3%9D%E9%8C%AF-%E5%AE%98%E6%96%B9%E8%AA%8D%E9%8C%AF%E6%AD%B8%E5%9B%A0%E4%BE%9B%E6%87%89%E5%95%86-%E5%BC%B7%E8%AA%BF%E7%84%A1%E5%AE%89%E5%85%A8%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-11-11T10:20:15.966Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鄭丹瑞細女與外籍男友愛情長跑12年修成正果　父親撐學霸千金追夢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190258103929671680243719.jpeg/dTrn9ep6OsZCXeGqEAczvSIdEzcCTZY7q-K6qI7iuqg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60409427/iphone-duo%E7%82%92%E5%83%B9%E9%9B%AA%E5%B4%A9-%E5%85%88%E9%81%94%E5%8A%8F%E8%88%96-%E5%8F%8D%E9%AB%98%E6%BD%AE-4%E5%80%8B%E6%9C%88%E6%BC%B23%E6%88%90%E5%A4%A0%E8%B2%B74%E9%83%A8%E6%96%B0%E6%A9%9F",
     "timestamp": "2026-11-11T04:22:03.061Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜傳黃樂曾遭新加坡問話及限制離境　少報5萬晶片去向",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196841923369766912190253.jpeg/LkLi_IWsWvbg6GvIRmlPJgFXZFXN2k-Gizw7eos8O3o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409431/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%82%B3%E9%BB%83%E6%A8%82%E6%9B%BE%E9%81%AD%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%95%8F%E8%A9%B1%E5%8F%8A%E9%99%90%E5%88%B6%E9%9B%A2%E5%A2%83-%E5%B0%91%E5%A0%B15%E8%90%AC%E6%99%B6%E7%89%87%E5%8E%BB%E5%90%91",
-    "timestamp": "2026-11-11T03:59:08.596Z",
     "strategy": ".content-card__main"
   }
 ];
