@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T17:59:08.437Z
+// Last updated: 2026-11-11T18:20:45.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華爆拍TVB劇崩潰日常：對白極多 片場罕見發火甩頭套",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195781104208973824498107.jpeg/PUuESvz6TJRhmMhRapBeQc5QlIa7Z6RVGQmv2RkJr9k",
+    "url": "https://www.hk01.com/01TV/60408219/%E5%85%83%E8%8F%AF%E7%88%86%E6%8B%8Dtvb%E5%8A%87%E5%B4%A9%E6%BD%B0%E6%97%A5%E5%B8%B8-%E5%B0%8D%E7%99%BD%E6%A5%B5%E5%A4%9A-%E7%89%87%E5%A0%B4%E7%BD%95%E8%A6%8B%E7%99%BC%E7%81%AB%E7%94%A9%E9%A0%AD%E5%A5%97",
+    "timestamp": "2026-11-11T18:20:45.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "猴痘｜26歲男確診　潛伏期內曾與社交App結識男子性接觸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197249019248644096729586.jpeg/kqNAHcIOzVFXKqiKDZVqCydeElCBMaYQ0mZ9QfdmfUE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409704/%E7%B6%B2%E8%B3%BC%E8%B5%B0%E7%A7%81%E5%85%A7%E5%9C%B0%E5%87%8D%E8%82%89%E7%84%A1%E5%86%B7%E8%97%8F4%E5%B0%8F%E6%99%82%E9%81%8B%E6%8A%B5%E4%B9%9D%E9%BE%8D-%E8%B7%A8%E9%83%A8%E9%96%80%E6%8B%989%E4%BA%BA%E6%AA%A2%E9%80%BE%E5%8D%83%E5%85%AC%E6%96%A4%E8%B2%A8",
     "timestamp": "2026-11-11T11:59:03.465Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "成人展取消｜參展日本女優包括波多野結衣、河北彩花等　名單一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230914/779066833239412736927356.jpeg/HoDntYVXiMBSeHBZs5DgH4pRPuQgdY-No9Wo7IbVqOw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409753/%E6%88%90%E4%BA%BA%E5%B1%95%E5%8F%96%E6%B6%88-%E5%8F%83%E5%B1%95%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%84%AA%E5%8C%85%E6%8B%AC%E6%B3%A2%E5%A4%9A%E9%87%8E%E7%B5%90%E8%A1%A3-%E6%B2%B3%E5%8C%97%E5%BD%A9%E8%8A%B1%E7%AD%89-%E5%90%8D%E5%96%AE%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-11-11T11:44:35.340Z",
     "strategy": ".content-card__main"
   }
 ];
