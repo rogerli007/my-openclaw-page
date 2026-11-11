@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T14:45:32.581Z
+// Last updated: 2026-11-11T14:59:05.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "再婚皇后｜申敏兒李鍾碩曖昧升溫遇危機！李世榮心機認筆友引眾怒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197247547115048960043512.png/UAdLmr8ZuoO-FXuCe6k-dBtsrRnpyxVS2zQG1ts0BtY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409672/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E7%94%B3%E6%95%8F%E5%85%92%E6%9D%8E%E9%8D%BE%E7%A2%A9%E6%9B%96%E6%98%A7%E5%8D%87%E6%BA%AB%E9%81%87%E5%8D%B1%E6%A9%9F-%E6%9D%8E%E4%B8%96%E6%A6%AE%E5%BF%83%E6%A9%9F%E8%AA%8D%E7%AD%86%E5%8F%8B%E5%BC%95%E7%9C%BE%E6%80%92",
+    "timestamp": "2026-11-11T14:59:05.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "谷雨選角挨轟｜張頌文張雪迎21歲年齡差演夫妻　喊同齡李小冉岳母",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197225698868072448725491.jpeg/yQE7xNEN3ZMGCGH29cZyubMLxLsGtpnSMo3PSTKNz0k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409605/%E9%A6%96%E5%B1%86%E6%B7%98%E5%AF%B6%E9%9B%9911%E5%83%8527%E5%93%81%E7%89%8C-%E6%88%90%E4%BA%A4%E9%A1%8D12%E5%B9%B4%E5%BE%8C%E6%BC%B2%E9%80%BE%E8%90%AC%E5%80%8D-%E7%82%BA%E4%BD%95%E8%A6%81%E9%81%B811-11",
     "timestamp": "2026-11-11T08:45:01.968Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地青年失業潮催生商機　30元即可租工位「假上班」還包拍工作照",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197182288509538304789364.png/0MHmXFj1DbpeCjiuVgcgDv2SP1y5aLNeISOwXiEjsF4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409530/%E5%85%A7%E5%9C%B0%E9%9D%92%E5%B9%B4%E5%A4%B1%E6%A5%AD%E6%BD%AE%E5%82%AC%E7%94%9F%E5%95%86%E6%A9%9F-30%E5%85%83%E5%8D%B3%E5%8F%AF%E7%A7%9F%E5%B7%A5%E4%BD%8D-%E5%81%87%E4%B8%8A%E7%8F%AD-%E9%82%84%E5%8C%85%E6%8B%8D%E5%B7%A5%E4%BD%9C%E7%85%A7",
-    "timestamp": "2026-11-11T08:34:35.509Z",
     "strategy": ".content-card__main"
   }
 ];
