@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T08:24:05.168Z
+// Last updated: 2026-11-11T08:34:35.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地青年失業潮催生商機　30元即可租工位「假上班」還包拍工作照",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197182288509538304789364.png/0MHmXFj1DbpeCjiuVgcgDv2SP1y5aLNeISOwXiEjsF4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409530/%E5%85%A7%E5%9C%B0%E9%9D%92%E5%B9%B4%E5%A4%B1%E6%A5%AD%E6%BD%AE%E5%82%AC%E7%94%9F%E5%95%86%E6%A9%9F-30%E5%85%83%E5%8D%B3%E5%8F%AF%E7%A7%9F%E5%B7%A5%E4%BD%8D-%E5%81%87%E4%B8%8A%E7%8F%AD-%E9%82%84%E5%8C%85%E6%8B%8D%E5%B7%A5%E4%BD%9C%E7%85%A7",
+    "timestamp": "2026-11-11T08:34:35.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中國17歲美少女青奧100米欄破紀錄奪金　張可依拒做「新吳艷妮」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197117369307107328385071.jpeg/nwit0EMq_Pwt4PFutzb632GzDJIDccj8kd7UiJHe1Ig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409377/%E7%81%A3%E4%BB%94%E9%8C%AB%E5%85%8B%E6%95%99%E5%BB%9F%E4%BA%AE%E8%97%8D%E7%87%88-%E5%A6%82-%E5%86%B0%E9%9B%AA%E5%A5%87%E7%B7%A3-%E5%BB%BA%E7%AF%89-%E7%B6%B2%E6%B0%91-elsa%E4%BC%BC%E9%9A%A8%E6%99%82%E5%87%BA%E9%BB%8E",
     "timestamp": "2026-11-11T02:22:48.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "OpenAI第三季度營收達百億美元　逆勢飆五成　冀估值衝1.3萬億",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261004/1183310702383730688201347.jpeg/ISIkZZGCRgo4SG7ps18mFAfYrDUdLydBV3xfnVd8X50?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409376/openai%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E7%87%9F%E6%94%B6%E9%81%94%E7%99%BE%E5%84%84%E7%BE%8E%E5%85%83-%E9%80%86%E5%8B%A2%E9%A3%86%E4%BA%94%E6%88%90-%E5%86%80%E4%BC%B0%E5%80%BC%E8%A1%9D1-3%E8%90%AC%E5%84%84",
-    "timestamp": "2026-11-11T01:59:13.867Z",
     "strategy": ".content-card__main"
   }
 ];
