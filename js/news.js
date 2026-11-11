@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T17:45:45.364Z
+// Last updated: 2026-11-11T17:59:08.437Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "猴痘｜26歲男確診　潛伏期內曾與社交App結識男子性接觸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186854639698448384047613.jpeg/75OcYmXkfhyj2Eu0p8elHLMARWYtSCkkBxMUBwcTFAc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409797/%E7%8C%B4%E7%97%98-26%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E6%9B%BE%E8%88%87%E7%A4%BE%E4%BA%A4app%E7%B5%90%E8%AD%98%E7%94%B7%E5%AD%90%E6%80%A7%E6%8E%A5%E8%A7%B8",
+    "timestamp": "2026-11-11T17:59:08.437Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "猴痘｜26歲男確診　潛伏期內曾與社交App結識男子性接觸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230914/779066833239412736927356.jpeg/HoDntYVXiMBSeHBZs5DgH4pRPuQgdY-No9Wo7IbVqOw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409753/%E6%88%90%E4%BA%BA%E5%B1%95%E5%8F%96%E6%B6%88-%E5%8F%83%E5%B1%95%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%84%AA%E5%8C%85%E6%8B%AC%E6%B3%A2%E5%A4%9A%E9%87%8E%E7%B5%90%E8%A1%A3-%E6%B2%B3%E5%8C%97%E5%BD%A9%E8%8A%B1%E7%AD%89-%E5%90%8D%E5%96%AE%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-11-11T11:44:35.340Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傅穎否認講過與楊千嬅疏遠　反擊炒作陳年是非：只有你們製造是非",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197258340179120128204571.jpeg/ZxvXWMbAy4u8FvsECi6rItQoCc0lO86mj4Xdn4-F3Z8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409596/%E5%82%85%E7%A9%8E%E5%90%A6%E8%AA%8D%E8%AC%9B%E9%81%8E%E8%88%87%E6%A5%8A%E5%8D%83%E5%AC%85%E7%96%8F%E9%81%A0-%E5%8F%8D%E6%93%8A%E7%82%92%E4%BD%9C%E9%99%B3%E5%B9%B4%E6%98%AF%E9%9D%9E-%E5%8F%AA%E6%9C%89%E4%BD%A0%E5%80%91%E8%A3%BD%E9%80%A0%E6%98%AF%E9%9D%9E",
-    "timestamp": "2026-11-11T11:19:34.443Z",
     "strategy": ".content-card__main"
   }
 ];
