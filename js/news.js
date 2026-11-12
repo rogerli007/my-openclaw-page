@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T02:35:35.901Z
+// Last updated: 2026-11-12T02:59:09.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG香港演唱會11.13入啟德體育園　政府籲勿坐非法跨境白牌車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197500057599873024713920.jpeg/6ja5mepSNcbP8p5vKH0dpsACVjO75vXpBYz9bAWM_Ww?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409874/bigbang%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%8311-13%E5%85%A5%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92-%E6%94%BF%E5%BA%9C%E7%B1%B2%E5%8B%BF%E5%9D%90%E9%9D%9E%E6%B3%95%E8%B7%A8%E5%A2%83%E7%99%BD%E7%89%8C%E8%BB%8A",
+    "timestamp": "2026-11-12T02:59:09.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三代同糖｜吳若希告別劇組引角色變動 關曜儁爆心情忐忑急問監製",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195783104564826112305769.jpeg/Jj7IErvSfheai11cH-fND-mb90CRZln8JNLIIiTSyCI",
     "url": "https://www.hk01.com/01TV/60408223/%E5%85%83%E8%8F%AF%E6%99%9A%E5%B9%B4%E7%A7%BB%E5%B1%85%E6%BA%AB%E5%93%A5%E8%8F%AF-%E4%BA%AB%E5%8F%97%E5%AD%AB%E5%85%92%E5%9C%8D%E7%B9%9E%E7%9A%84%E6%B8%85%E9%96%91%E9%80%80%E4%BC%91%E7%94%9F%E6%B4%BB",
     "timestamp": "2026-11-11T20:20:07.732Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田女子屋內暈倒　母親報案求助　送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197393449398046720785269.jpeg/IYv1TYfgIp-SKo5lKoHzcEKaoyw_jU9I-gfqCcAH6gk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409806/%E6%B2%99%E7%94%B0%E5%A5%B3%E5%AD%90%E5%B1%8B%E5%85%A7%E6%9A%88%E5%80%92-%E6%AF%8D%E8%A6%AA%E5%A0%B1%E6%A1%88%E6%B1%82%E5%8A%A9-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-11-11T19:59:03.251Z",
     "strategy": ".content-card__main"
   }
 ];
