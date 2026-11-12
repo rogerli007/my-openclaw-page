@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T22:19:20.642Z
+// Last updated: 2026-11-12T22:45:31.702Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "霍家兩公子齊娶體藝界女神　盤點港圈四大筍盤內地太太過人魅力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197581528964534272524683.jpeg/pBA41cstQ7RxbjaLq1tEqcMR606iUYIdcmL6lnJi-pY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409990/%E9%9C%8D%E5%95%9F%E5%89%9B%E9%9C%8D%E5%95%9F%E5%B1%B1%E9%BD%8A%E5%A8%B6%E9%AB%94%E8%97%9D%E7%95%8C%E5%A5%B3%E7%A5%9E-%E7%9B%A4%E9%BB%9E%E6%B8%AF%E5%9C%88%E5%9B%9B%E5%A4%A7%E7%AD%8D%E7%9B%A4%E5%85%A7%E5%9C%B0%E5%A4%AA%E5%A4%AA%E9%81%8E%E4%BA%BA%E9%AD%85%E5%8A%9B",
+    "timestamp": "2026-11-12T22:45:31.702Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜今晚驟雨增多　有幾陣狂風雷暴　氣溫介乎23至26度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538052075950080152078.jpeg/H4v9ZSAUYlgYdPR4iUhgk6JoYhwR0Lg8ioZ-2IqGftg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410242/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%90%8C%E6%84%8F%E6%84%9F%E6%81%A9%E7%AF%80%E5%89%8D%E5%88%B0%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89-%E5%85%AC%E5%8F%B8%E9%96%8B%E5%A7%8B%E5%B0%8B%E5%85%A7%E5%A4%96%E9%83%A8%E4%BA%BA%E9%81%B8%E6%8E%A5%E6%9B%BF",
     "timestamp": "2026-11-12T16:59:00.501Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "器官捐贈｜今年首9月2600人輪候　成功肺移植僅3宗　醫管局籲登記",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197631426216857600602984.jpeg/ovWC0WU4ztkwpPHxNgmSL6GbWJqEMVcXL8Pcwi_D3MI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410201/%E5%99%A8%E5%AE%98%E6%8D%90%E8%B4%88-%E4%BB%8A%E5%B9%B4%E9%A6%969%E6%9C%882600%E4%BA%BA%E8%BC%AA%E5%80%99-%E6%88%90%E5%8A%9F%E8%82%BA%E7%A7%BB%E6%A4%8D%E5%83%853%E5%AE%97-%E9%86%AB%E7%AE%A1%E5%B1%80%E7%B1%B2%E7%99%BB%E8%A8%98",
-    "timestamp": "2026-11-12T16:45:03.895Z",
     "strategy": ".content-card__main"
   }
 ];
