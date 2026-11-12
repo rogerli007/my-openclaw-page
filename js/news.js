@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T13:55:58.265Z
+// Last updated: 2026-11-12T14:20:49.364Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "1600億跨境稅單落地：中國富豪面臨痛苦抉擇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151144060019281920654918.jpeg/A0Gl5T0DIR6APTREXzBSfGhKKIFG6t-snnYu4p52LuI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60410059/1600%E5%84%84%E8%B7%A8%E5%A2%83%E7%A8%85%E5%96%AE%E8%90%BD%E5%9C%B0-%E4%B8%AD%E5%9C%8B%E5%AF%8C%E8%B1%AA%E9%9D%A2%E8%87%A8%E7%97%9B%E8%8B%A6%E6%8A%89%E6%93%87",
+    "timestamp": "2026-11-12T14:20:49.364Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬天洗澡小心熱休克　長者死亡人數多過交通意外　年輕人也有風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197555523516370944198543.jpeg/H1rx64k1e24r-FsWEpcqq4c9SFKN1VlrazbdrGs23aw?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60409978/nba-38%E6%AD%B2%E5%B1%85%E9%87%8C%E4%BB%8A%E5%AD%A3%E5%A0%B4%E5%9D%8728%E5%88%86%E9%90%98%E8%BD%9F30%E5%88%86-%E6%95%88%E7%8E%87%E8%B6%85%E8%B6%8A10%E5%B9%B4%E5%89%8Dmvp%E8%B3%BD%E5%AD%A3",
     "timestamp": "2026-11-12T07:59:16.887Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吃石榴能加速燃脂？解密超級食物3大消脂機制 運動前這樣吃最有效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196420484804120576875249.jpeg/oOY1YqF_FiKdQ5s2AK6BYcjWWE8pSRx1w5LPfMOSz3w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60408489/%E5%90%83%E7%9F%B3%E6%A6%B4%E8%83%BD%E5%8A%A0%E9%80%9F%E7%87%83%E8%84%82-%E8%A7%A3%E5%AF%86%E8%B6%85%E7%B4%9A%E9%A3%9F%E7%89%A93%E5%A4%A7%E6%B6%88%E8%84%82%E6%A9%9F%E5%88%B6-%E9%81%8B%E5%8B%95%E5%89%8D%E9%80%99%E6%A8%A3%E5%90%83%E6%9C%80%E6%9C%89%E6%95%88",
-    "timestamp": "2026-11-12T07:45:25.269Z",
     "strategy": ".content-card__main"
   }
 ];
