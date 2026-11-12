@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T18:59:05.910Z
+// Last updated: 2026-11-12T19:18:26.506Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前甲一MVP陳張敏爆婚變！　方泳琳決定分開列多宗罪千字文狂轟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197734796927700992102739.jpeg/Zghp_5EzMzu-tk7af7iQV19kMXHPwOmCvE6zwLxOs8A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410251/%E5%89%8D%E7%94%B2%E4%B8%80mvp%E9%99%B3%E5%BC%B5%E6%95%8F%E7%88%86%E5%A9%9A%E8%AE%8A-%E6%96%B9%E6%B3%B3%E7%90%B3%E6%B1%BA%E5%AE%9A%E5%88%86%E9%96%8B%E5%88%97%E5%A4%9A%E5%AE%97%E7%BD%AA%E5%8D%83%E5%AD%97%E6%96%87%E7%8B%82%E8%BD%9F",
+    "timestamp": "2026-11-12T19:18:26.506Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前甲一MVP陳張敏爆婚變！　方泳琳決定分開列多宗罪千字文狂轟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191341883603816448128736.jpeg/hnddsbb5FEimndCxELulA2Mx1P8REpa_H5yUQR-clEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60299247/%E5%86%AC%E5%A4%A9%E6%B4%97%E6%BE%A1%E5%B0%8F%E5%BF%83%E7%86%B1%E4%BC%91%E5%85%8B-%E9%95%B7%E8%80%85%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8%E5%A4%9A%E9%81%8E%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%B9%B4%E8%BC%95%E4%BA%BA%E4%B9%9F%E6%9C%89%E9%A2%A8%E9%9A%AA",
     "timestamp": "2026-11-12T13:45:35.315Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蕭景鴻出道24年圓夢發片　化身「阿鴻師」下廚令歌迷大喊幸福",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197600934985732096927614.jpeg/Cu_XjfeO2iaOBdw_JsscHADiehCzJOxBEJb1fRCW9X0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410127/%E8%95%AD%E6%99%AF%E9%B4%BB%E5%87%BA%E9%81%9324%E5%B9%B4%E5%9C%93%E5%A4%A2%E7%99%BC%E7%89%87-%E5%8C%96%E8%BA%AB-%E9%98%BF%E9%B4%BB%E5%B8%AB-%E4%B8%8B%E5%BB%9A%E4%BB%A4%E6%AD%8C%E8%BF%B7%E5%A4%A7%E5%96%8A%E5%B9%B8%E7%A6%8F",
-    "timestamp": "2026-11-12T13:19:55.962Z",
     "strategy": ".content-card__main"
   }
 ];
