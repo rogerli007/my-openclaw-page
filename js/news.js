@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T11:20:12.867Z
+// Last updated: 2026-11-12T11:45:20.476Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樂風集團旗下食肆公司被指欠439萬　周佩賢等被追439萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1131011731749867520076258.jpeg/0udoO2dO6KOKlLmDLaxLzWSium3XUh-Z4F8HiuBfB4o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410204/%E6%A8%82%E9%A2%A8%E9%9B%86%E5%9C%98%E6%97%97%E4%B8%8B%E9%A3%9F%E8%82%86%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%8C%87%E6%AC%A0439%E8%90%AC-%E5%91%A8%E4%BD%A9%E8%B3%A2%E7%AD%89%E8%A2%AB%E8%BF%BD439%E8%90%AC",
+    "timestamp": "2026-11-12T11:45:20.476Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會智能手錶測試｜$1,269小米力壓$5,498三星？附高分推介名單",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197531036452392960695074.jpeg/InGHJcwgLC7Mm03PpF8Esn5B6MadLfzSzP6tpsz-raY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409953/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C%E7%8F%BE%E5%81%87-%E5%A4%A7%E7%89%9B-%E8%AD%A6%E6%AA%A2%E8%B5%B0-2500%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-12T05:00:39.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "潘焯鴻涉打商場職員　被捕稱行使公民拘捕權　認過分用武罰2400元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197528250482429952716459.jpeg/IQg15tsaAI2_Lhtz9ejBKUQRu8m99b3y24o05f6KNOU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409949/%E6%BD%98%E7%84%AF%E9%B4%BB%E6%B6%89%E6%89%93%E5%95%86%E5%A0%B4%E8%81%B7%E5%93%A1-%E8%A2%AB%E6%8D%95%E7%A8%B1%E8%A1%8C%E4%BD%BF%E5%85%AC%E6%B0%91%E6%8B%98%E6%8D%95%E6%AC%8A-%E8%AA%8D%E9%81%8E%E5%88%86%E7%94%A8%E6%AD%A6%E7%BD%B02400%E5%85%83",
-    "timestamp": "2026-11-12T04:45:33.667Z",
     "strategy": ".content-card__main"
   }
 ];
