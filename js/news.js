@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T04:45:33.667Z
+// Last updated: 2026-11-12T05:00:39.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "九龍城滙豐銀行現假「大牛」　警檢走$2500調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197531036452392960695074.jpeg/InGHJcwgLC7Mm03PpF8Esn5B6MadLfzSzP6tpsz-raY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409953/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C%E7%8F%BE%E5%81%87-%E5%A4%A7%E7%89%9B-%E8%AD%A6%E6%AA%A2%E8%B5%B0-2500%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-12T05:00:39.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "潘焯鴻涉打商場職員　被捕稱行使公民拘捕權　認過分用武罰2400元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189258463486676992684015.jpeg/qTLKSOe6FPDtih_vnOcUKeqEh9RU7K20L1yaVi9cmlY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409816/%E7%BE%8E%E5%AA%92-%E8%90%AC%E6%96%AF%E8%A8%88%E5%8A%83%E8%88%87%E4%BC%8A%E6%9C%97%E5%BC%B7%E7%A1%AC%E6%B4%BE%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1",
     "timestamp": "2026-11-11T23:18:40.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WSJ：英偉達董事會準備罷免黃仁勳　因其存有兩段婚外情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197267012837969920209816.jpeg/po25kr6cCx3ez_JqfTx7ArxHIBYJR6c5E455CBOOeQg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409815/wsj-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E6%BA%96%E5%82%99%E7%BD%B7%E5%85%8D%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%9B%A0%E5%85%B6%E5%AD%98%E6%9C%89%E5%85%A9%E6%AE%B5%E5%A9%9A%E5%A4%96%E6%83%85",
-    "timestamp": "2026-11-11T22:59:08.916Z",
     "strategy": ".content-card__main"
   }
 ];
