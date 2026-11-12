@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T23:45:33.122Z
+// Last updated: 2026-11-12T23:59:05.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜英偉達V彈、埋單跌4%　散戶搶貨金額超平日40倍！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197212005572808704175024.jpeg/DP3sEhJ34sYQZXSwAt7Mn9xWI81-sunDWXukSll7pEo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409955/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94v%E5%BD%88-%E5%9F%8B%E5%96%AE%E8%B7%8C4-%E6%95%A3%E6%88%B6%E6%90%B6%E8%B2%A8%E9%87%91%E9%A1%8D%E8%B6%85%E5%B9%B3%E6%97%A540%E5%80%8D",
+    "timestamp": "2026-11-12T23:59:05.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中期選舉之後　特朗普還有兩年時間轉戰國外……｜Jack Talk・去片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197734796927700992102739.jpeg/Zghp_5EzMzu-tk7af7iQV19kMXHPwOmCvE6zwLxOs8A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410251/%E5%89%8D%E7%94%B2%E4%B8%80mvp%E9%99%B3%E5%BC%B5%E6%95%8F%E7%88%86%E5%A9%9A%E8%AE%8A-%E6%96%B9%E6%B3%B3%E7%90%B3%E6%B1%BA%E5%AE%9A%E5%88%86%E9%96%8B%E5%88%97%E5%A4%9A%E5%AE%97%E7%BD%AA%E5%8D%83%E5%AD%97%E6%96%87%E7%8B%82%E8%BD%9F",
     "timestamp": "2026-11-12T18:33:34.278Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前甲一MVP陳張敏爆婚變！　方泳琳決定分開列多宗罪千字文狂轟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197734796927700992102739.jpeg/Zghp_5EzMzu-tk7af7iQV19kMXHPwOmCvE6zwLxOs8A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410251/%E5%89%8D%E7%94%B2%E4%B8%80mvp%E9%99%B3%E5%BC%B5%E6%95%8F%E7%88%86%E5%A9%9A%E8%AE%8A-%E6%96%B9%E6%B3%B3%E7%90%B3%E6%B1%BA%E5%AE%9A%E5%88%86%E9%96%8B%E5%88%97%E5%A4%9A%E5%AE%97%E7%BD%AA%E5%8D%83%E5%AD%97%E6%96%87%E7%8B%82%E8%BD%9F",
-    "timestamp": "2026-11-12T18:22:14.765Z",
     "strategy": ".content-card__main"
   }
 ];
