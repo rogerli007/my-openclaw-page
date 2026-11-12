@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T09:46:48.325Z
+// Last updated: 2026-11-12T09:59:16.148Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "安徽女遊泰遭賣豬仔禁錮妙瓦底3個月　身心受創回國｢天天發噩夢｣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197607599118225408206431.png/dpShfFIl4o7cq2SHcAEHU_w2EIMZkIFMuLlZ07i5WdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60410137/%E5%AE%89%E5%BE%BD%E5%A5%B3%E9%81%8A%E6%B3%B0%E9%81%AD%E8%B3%A3%E8%B1%AC%E4%BB%94%E7%A6%81%E9%8C%AE%E5%A6%99%E7%93%A6%E5%BA%953%E5%80%8B%E6%9C%88-%E8%BA%AB%E5%BF%83%E5%8F%97%E5%89%B5%E5%9B%9E%E5%9C%8B-%E5%A4%A9%E5%A4%A9%E7%99%BC%E5%99%A9%E5%A4%A2",
+    "timestamp": "2026-11-12T09:59:16.148Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《尚公主》收官抱憾！揭《嫁金釵》田曦薇替嫁宅鬥大勝孟子義關鍵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197496705075908608426108.png/cSsXVmcVaqSKpDWW-GS-AfNaTuVs6hyUXP1_ZVz9f2U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60409832/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E9%81%93%E6%AD%89%E4%BF%A1%E8%AE%8A%E8%8B%B1%E6%96%87%E5%8A%9F%E8%AA%B2-%E8%80%81%E5%B8%AB%E7%95%B6%E6%B4%BB%E6%95%99%E6%9D%90%E5%AE%B6%E9%95%B7%E5%9C%8D%E8%A7%80-%E9%99%84%E5%A1%AB%E5%AD%97%E9%81%8A%E6%88%B2",
     "timestamp": "2026-11-12T03:45:20.488Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉德華親自包辦曲詞剖白心聲  實體碟《About Life》浸會現場錄音",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197509667937325056279560.jpeg/9D4r1lIarMVhB3eGgX5FrvxQO8BvTB_7ZfF7d2Xxe3c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409910/%E5%8A%89%E5%BE%B7%E8%8F%AF%E8%A6%AA%E8%87%AA%E5%8C%85%E8%BE%A6%E6%9B%B2%E8%A9%9E%E5%89%96%E7%99%BD%E5%BF%83%E8%81%B2-%E5%AF%A6%E9%AB%94%E7%A2%9F-about-life-%E6%B5%B8%E6%9C%83%E7%8F%BE%E5%A0%B4%E9%8C%84%E9%9F%B3",
-    "timestamp": "2026-11-12T03:33:20.659Z",
     "strategy": ".content-card__main"
   }
 ];
