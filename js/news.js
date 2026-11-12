@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T15:59:13.311Z
+// Last updated: 2026-11-12T16:22:05.341Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜英偉達利空出盡？郭明錤拆解接班震盪　Google成贏家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197157048433774592126984.jpeg/-IOIT6ebGWtUSBArVJUf4os2yeyN_2HESzMi50szIuc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410240/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E5%88%A9%E7%A9%BA%E5%87%BA%E7%9B%A1-%E9%83%AD%E6%98%8E%E9%8C%A4%E6%8B%86%E8%A7%A3%E6%8E%A5%E7%8F%AD%E9%9C%87%E7%9B%AA-google%E6%88%90%E8%B4%8F%E5%AE%B6",
+    "timestamp": "2026-11-12T16:22:05.341Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "衛蘭Janice演唱會2026香港加位｜門票公售攻略＋連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197607599118225408206431.png/dpShfFIl4o7cq2SHcAEHU_w2EIMZkIFMuLlZ07i5WdM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60410137/%E5%AE%89%E5%BE%BD%E5%A5%B3%E9%81%8A%E6%B3%B0%E9%81%AD%E8%B3%A3%E8%B1%AC%E4%BB%94%E7%A6%81%E9%8C%AE%E5%A6%99%E7%93%A6%E5%BA%953%E5%80%8B%E6%9C%88-%E8%BA%AB%E5%BF%83%E5%8F%97%E5%89%B5%E5%9B%9E%E5%9C%8B-%E5%A4%A9%E5%A4%A9%E7%99%BC%E5%99%A9%E5%A4%A2",
     "timestamp": "2026-11-12T09:59:16.148Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《尚公主》收官抱憾！揭《嫁金釵》田曦薇替嫁宅鬥大勝孟子義關鍵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197584056141746176107289.png/l9i9I8tWg8BPKJEl5BhhAUdmZad4Jjzfxtzz2cbc89k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410045/%E5%B0%9A%E5%85%AC%E4%B8%BB-%E6%94%B6%E5%AE%98%E6%8A%B1%E6%86%BE-%E6%8F%AD-%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B0%E6%9B%A6%E8%96%87%E6%9B%BF%E5%AB%81%E5%AE%85%E9%AC%A5%E5%A4%A7%E5%8B%9D%E5%AD%9F%E5%AD%90%E7%BE%A9%E9%97%9C%E9%8D%B5",
-    "timestamp": "2026-11-12T09:46:48.325Z",
     "strategy": ".content-card__main"
   }
 ];
