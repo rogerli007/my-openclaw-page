@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T17:45:03.104Z
+// Last updated: 2026-11-12T17:59:21.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG演唱會｜旅遊業界指港九多間酒店爆滿　料多日韓旅客留港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197726487214559232132497.jpeg/-KDV1tkRNnkjk_yFnS0MKO5FOJevCCh-YnScA2J0nAM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410195/bigbang%E6%BC%94%E5%94%B1%E6%9C%83-%E6%97%85%E9%81%8A%E6%A5%AD%E7%95%8C%E6%8C%87%E6%B8%AF%E4%B9%9D%E5%A4%9A%E9%96%93%E9%85%92%E5%BA%97%E7%88%86%E6%BB%BF-%E6%96%99%E5%A4%9A%E6%97%A5%E9%9F%93%E6%97%85%E5%AE%A2%E7%95%99%E6%B8%AF",
+    "timestamp": "2026-11-12T17:59:21.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：黃仁勳同意感恩節前到國會作證　公司開始尋內外部人選接替",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197637708059512832153829.jpeg/wDTd4OtsdMxF60dKVAWU1B318rJDsVAHSz2Y5Es9mOQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60410173/%E8%94%AC%E8%8F%9C%E4%BF%9D%E9%AE%AE-%E7%95%AA%E8%8C%84%E5%80%92%E8%BD%89%E9%98%B2%E8%84%AB%E6%B0%B4-%E8%98%86%E7%AD%8D%E7%9B%B4%E7%AB%8B%E6%94%BE%E6%9B%B4%E7%94%9C-%E8%94%AC%E8%8F%9C%E5%BB%B6%E9%95%B7%E4%BF%9D%E9%AE%AE5%E6%96%B9%E6%B3%95",
     "timestamp": "2026-11-12T11:59:02.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "樂風集團旗下食肆公司被指欠439萬　周佩賢等被追439萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260512/1131011731749867520076258.jpeg/0udoO2dO6KOKlLmDLaxLzWSium3XUh-Z4F8HiuBfB4o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410204/%E6%A8%82%E9%A2%A8%E9%9B%86%E5%9C%98%E6%97%97%E4%B8%8B%E9%A3%9F%E8%82%86%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%8C%87%E6%AC%A0439%E8%90%AC-%E5%91%A8%E4%BD%A9%E8%B3%A2%E7%AD%89%E8%A2%AB%E8%BF%BD439%E8%90%AC",
-    "timestamp": "2026-11-12T11:45:20.476Z",
     "strategy": ".content-card__main"
   }
 ];
