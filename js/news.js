@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T23:18:13.044Z
+// Last updated: 2026-11-12T23:29:41.672Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "乳癌│19歲女洗澡摸胸現硬塊確診　無家族史不痛不癢　醫列5大症狀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194319135165648896428519.jpeg/0FPQNtgEZaYdKy1UGI2jJZSFd3ZhonEHHXOBix1zgYs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404322/%E4%B9%B3%E7%99%8C-19%E6%AD%B2%E5%A5%B3%E6%B4%97%E6%BE%A1%E6%91%B8%E8%83%B8%E7%8F%BE%E7%A1%AC%E5%A1%8A%E7%A2%BA%E8%A8%BA-%E7%84%A1%E5%AE%B6%E6%97%8F%E5%8F%B2%E4%B8%8D%E7%97%9B%E4%B8%8D%E7%99%A2-%E9%86%AB%E5%88%975%E5%A4%A7%E7%97%87%E7%8B%80",
+    "timestamp": "2026-11-12T23:29:41.672Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "舟山碼頭鯊魚4條¥70賤賣無人要│專家拆解尿素臊味+肉質粗成蝕本貨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197726487214559232132497.jpeg/-KDV1tkRNnkjk_yFnS0MKO5FOJevCCh-YnScA2J0nAM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410195/bigbang%E6%BC%94%E5%94%B1%E6%9C%83-%E6%97%85%E9%81%8A%E6%A5%AD%E7%95%8C%E6%8C%87%E6%B8%AF%E4%B9%9D%E5%A4%9A%E9%96%93%E9%85%92%E5%BA%97%E7%88%86%E6%BB%BF-%E6%96%99%E5%A4%9A%E6%97%A5%E9%9F%93%E6%97%85%E5%AE%A2%E7%95%99%E6%B8%AF",
     "timestamp": "2026-11-12T17:59:21.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：黃仁勳同意感恩節前到國會作證　公司開始尋內外部人選接替",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538052075950080152078.jpeg/H4v9ZSAUYlgYdPR4iUhgk6JoYhwR0Lg8ioZ-2IqGftg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410242/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%90%8C%E6%84%8F%E6%84%9F%E6%81%A9%E7%AF%80%E5%89%8D%E5%88%B0%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89-%E5%85%AC%E5%8F%B8%E9%96%8B%E5%A7%8B%E5%B0%8B%E5%85%A7%E5%A4%96%E9%83%A8%E4%BA%BA%E9%81%B8%E6%8E%A5%E6%9B%BF",
-    "timestamp": "2026-11-12T17:45:03.104Z",
     "strategy": ".content-card__main"
   }
 ];
