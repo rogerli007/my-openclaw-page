@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T17:59:21.533Z
+// Last updated: 2026-11-12T18:22:14.765Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "前甲一MVP陳張敏爆婚變！　方泳琳決定分開列多宗罪千字文狂轟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197734796927700992102739.jpeg/Zghp_5EzMzu-tk7af7iQV19kMXHPwOmCvE6zwLxOs8A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410251/%E5%89%8D%E7%94%B2%E4%B8%80mvp%E9%99%B3%E5%BC%B5%E6%95%8F%E7%88%86%E5%A9%9A%E8%AE%8A-%E6%96%B9%E6%B3%B3%E7%90%B3%E6%B1%BA%E5%AE%9A%E5%88%86%E9%96%8B%E5%88%97%E5%A4%9A%E5%AE%97%E7%BD%AA%E5%8D%83%E5%AD%97%E6%96%87%E7%8B%82%E8%BD%9F",
+    "timestamp": "2026-11-12T18:22:14.765Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG演唱會｜旅遊業界指港九多間酒店爆滿　料多日韓旅客留港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250911/1042830734907150336834516.jpeg/4CinUppKgSACFW5h3LIz15wl3LhV15o2qdA6PanQOj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410207/%E6%B8%AF%E5%A4%A7%E5%B1%95%E8%81%98%E6%96%B0%E6%A0%A1%E9%95%B7%E7%A8%8B%E5%BA%8F2028%E5%B9%B4%E6%8E%A5%E6%9B%BF%E5%8D%B8%E4%BB%BB%E5%BC%B5%E7%BF%94-%E6%9E%97%E5%A4%A9%E7%A6%8F%E4%BB%BB%E7%89%A9%E8%89%B2%E5%A7%94%E5%93%A1%E6%9C%83%E4%B8%BB%E5%B8%AD",
     "timestamp": "2026-11-12T12:25:17.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔬菜保鮮｜番茄倒轉防脫水？蘆筍直立放更甜？蔬菜延長保鮮5方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197637708059512832153829.jpeg/wDTd4OtsdMxF60dKVAWU1B318rJDsVAHSz2Y5Es9mOQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60410173/%E8%94%AC%E8%8F%9C%E4%BF%9D%E9%AE%AE-%E7%95%AA%E8%8C%84%E5%80%92%E8%BD%89%E9%98%B2%E8%84%AB%E6%B0%B4-%E8%98%86%E7%AD%8D%E7%9B%B4%E7%AB%8B%E6%94%BE%E6%9B%B4%E7%94%9C-%E8%94%AC%E8%8F%9C%E5%BB%B6%E9%95%B7%E4%BF%9D%E9%AE%AE5%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-11-12T11:59:02.824Z",
     "strategy": ".content-card__main"
   }
 ];
