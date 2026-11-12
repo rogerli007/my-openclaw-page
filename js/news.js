@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T20:45:45.823Z
+// Last updated: 2026-11-12T20:59:00.150Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "也門胡塞武裝持續襲擊沙特　東西輸油管泵站與沙特阿美大樓成目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183143546631491584249015.jpeg/oBo3sa4Qo3TSaMnh3Y4Z0wxmXzlSrLUjcowS_HKMEvw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410254/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E6%8C%81%E7%BA%8C%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E6%9D%B1%E8%A5%BF%E8%BC%B8%E6%B2%B9%E7%AE%A1%E6%B3%B5%E7%AB%99%E8%88%87%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E%E5%A4%A7%E6%A8%93%E6%88%90%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-11-12T20:59:00.150Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG啟德演唱會｜30人通宵排隊等買周邊商品　女粉絲：無預算",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122205158214733824957348.jpeg/u_6WbZnCQTqQ9sG6a9JKYqvs_WgujQMaVIaRBFSGkQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410236/%E7%BE%8E%E5%95%86%E5%8B%99%E9%83%A8%E9%95%B7%E8%A2%AB%E6%8C%87%E9%98%BB%E6%92%93%E5%B0%8D%E8%8F%AF%E6%99%B6%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%8D%E5%B0%8D%E5%85%B6%E5%85%85%E6%BB%BF%E4%BF%A1%E5%BF%83",
     "timestamp": "2026-11-12T15:45:33.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角毒品車衝路障撞私家車　再剷行人路撞竹棚　地上遺多包毒品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197685081133551616965381.jpeg/FRS5QxWv3A0DNU_7NxyVG58w34nnZHyIE6EguBOhILg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410234/%E6%97%BA%E8%A7%92%E6%AF%92%E5%93%81%E8%BB%8A%E8%A1%9D%E8%B7%AF%E9%9A%9C%E6%92%9E%E7%A7%81%E5%AE%B6%E8%BB%8A-%E5%86%8D%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E7%AB%B9%E6%A3%9A-%E5%9C%B0%E4%B8%8A%E9%81%BA%E5%A4%9A%E5%8C%85%E6%AF%92%E5%93%81",
-    "timestamp": "2026-11-12T15:20:03.522Z",
     "strategy": ".content-card__main"
   }
 ];
