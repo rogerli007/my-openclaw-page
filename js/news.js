@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T14:45:37.982Z
+// Last updated: 2026-11-12T14:59:10.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "崇光百貨爆會員資料外泄涉姓名、電話等　私隱公署調查料涉82萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251015/1055072965923704832523981.jpeg/AVrPiqoTLlrWXsXF5V1Tz4RpzjGU9YcVP6-qtT-vqrU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410231/%E5%B4%87%E5%85%89%E7%99%BE%E8%B2%A8%E7%88%86%E6%9C%83%E5%93%A1%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84%E6%B6%89%E5%A7%93%E5%90%8D-%E9%9B%BB%E8%A9%B1%E7%AD%89-%E7%A7%81%E9%9A%B1%E5%85%AC%E7%BD%B2%E8%AA%BF%E6%9F%A5%E6%96%99%E6%B6%8982%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-11-12T14:59:10.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "器官捐贈｜肺纖維化病人曾走10分鐘要回氣　移植肺臟後開心可行山",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197582654950608896698102.jpeg/OqLOeeN0JfweTcaJ5gtP4J_2kk8hpgx0Pcpfyj3KX8o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410072/%E6%B5%B7%E9%97%9C%E9%A9%974%E5%80%8B%E8%B5%B4%E9%9F%93%E9%81%A0%E6%B4%8B%E8%88%B9%E8%B2%A8%E6%AB%83-%E6%AA%A2-1%E5%84%84%E9%AD%9A%E7%BF%85-%E9%B1%B7%E9%AD%9A%E7%9A%AE%E5%8F%8A%E6%B5%B7%E9%A6%AC%E7%AD%89%E8%B5%B0%E7%A7%81%E8%B2%A8",
     "timestamp": "2026-11-12T08:35:56.376Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜英偉達爆接班危機　傳部份董事傾向CFO柯蕾絲暫代CEO",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197580569760763904260753.jpeg/efFaDHIPLSrELVNs3JxVusLu_VcQiw2BUkA0eFJANHg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410022/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%8B%B1%E5%81%89%E9%81%94%E7%88%86%E6%8E%A5%E7%8F%AD%E5%8D%B1%E6%A9%9F-%E5%82%B3%E9%83%A8%E4%BB%BD%E8%91%A3%E4%BA%8B%E5%82%BE%E5%90%91cfo%E6%9F%AF%E8%95%BE%E7%B5%B2%E6%9A%AB%E4%BB%A3ceo",
-    "timestamp": "2026-11-12T08:24:17.912Z",
     "strategy": ".content-card__main"
   }
 ];
