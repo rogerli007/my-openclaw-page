@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T08:24:17.912Z
+// Last updated: 2026-11-12T08:35:56.376Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關驗4個赴韓遠洋船貨櫃　檢$1億魚翅、鱷魚皮及海馬等走私貨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197582654950608896698102.jpeg/OqLOeeN0JfweTcaJ5gtP4J_2kk8hpgx0Pcpfyj3KX8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410072/%E6%B5%B7%E9%97%9C%E9%A9%974%E5%80%8B%E8%B5%B4%E9%9F%93%E9%81%A0%E6%B4%8B%E8%88%B9%E8%B2%A8%E6%AB%83-%E6%AA%A2-1%E5%84%84%E9%AD%9A%E7%BF%85-%E9%B1%B7%E9%AD%9A%E7%9A%AE%E5%8F%8A%E6%B5%B7%E9%A6%AC%E7%AD%89%E8%B5%B0%E7%A7%81%E8%B2%A8",
+    "timestamp": "2026-11-12T08:35:56.376Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜英偉達爆接班危機　傳部份董事傾向CFO柯蕾絲暫代CEO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197334251209494528129435.jpeg/6O8O83Znh5q7I9H_xGDN7b3sUHfZtKGRZonfK1yJ3ys?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409791/%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%90%B3%E8%8B%A5%E5%B8%8C%E5%91%8A%E5%88%A5%E5%8A%87%E7%B5%84%E5%BC%95%E8%A7%92%E8%89%B2%E8%AE%8A%E5%8B%95-%E9%97%9C%E6%9B%9C%E5%84%81%E7%88%86%E5%BF%83%E6%83%85%E5%BF%90%E5%BF%91%E6%80%A5%E5%95%8F%E7%9B%A3%E8%A3%BD",
     "timestamp": "2026-11-12T02:35:35.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜紐時：英偉達內部早有議論其與下屬發展婚外情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197438611251793920053718.jpeg/Kwc_ZTsIgw3DFaucwQU3uxP4MNJs54WDiy7GIYsuxiE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409841/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%B4%90%E6%99%82-%E8%8B%B1%E5%81%89%E9%81%94%E5%85%A7%E9%83%A8%E6%97%A9%E6%9C%89%E8%AD%B0%E8%AB%96%E5%85%B6%E8%88%87%E4%B8%8B%E5%B1%AC%E7%99%BC%E5%B1%95%E5%A9%9A%E5%A4%96%E6%83%85",
-    "timestamp": "2026-11-12T02:23:51.428Z",
     "strategy": ".content-card__main"
   }
 ];
