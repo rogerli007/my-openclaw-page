@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T04:32:48.331Z
+// Last updated: 2026-11-12T04:45:33.667Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "潘焯鴻涉打商場職員　被捕稱行使公民拘捕權　認過分用武罰2400元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197528250482429952716459.jpeg/IQg15tsaAI2_Lhtz9ejBKUQRu8m99b3y24o05f6KNOU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409949/%E6%BD%98%E7%84%AF%E9%B4%BB%E6%B6%89%E6%89%93%E5%95%86%E5%A0%B4%E8%81%B7%E5%93%A1-%E8%A2%AB%E6%8D%95%E7%A8%B1%E8%A1%8C%E4%BD%BF%E5%85%AC%E6%B0%91%E6%8B%98%E6%8D%95%E6%AC%8A-%E8%AA%8D%E9%81%8E%E5%88%86%E7%94%A8%E6%AD%A6%E7%BD%B02400%E5%85%83",
+    "timestamp": "2026-11-12T04:45:33.667Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜阿里巴巴瀉半成、邁5連跌　 分析稱或受累英偉達事件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197267012837969920209816.jpeg/po25kr6cCx3ez_JqfTx7ArxHIBYJR6c5E455CBOOeQg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409815/wsj-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E6%BA%96%E5%82%99%E7%BD%B7%E5%85%8D%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%9B%A0%E5%85%B6%E5%AD%98%E6%9C%89%E5%85%A9%E6%AE%B5%E5%A9%9A%E5%A4%96%E6%83%85",
     "timestamp": "2026-11-11T22:59:08.916Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李添勝手持拐杖罕現身　「掃街茂」變金牌監製捧紅周潤發梁朝偉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197268163624964096138976.jpeg/c8E_xV-H4srh6EXOyYw5seKbAEdobLkTdsp_d3bKf3c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409678/%E6%9D%8E%E6%B7%BB%E5%8B%9D%E6%89%8B%E6%8C%81%E6%8B%90%E6%9D%96%E7%BD%95%E7%8F%BE%E8%BA%AB-%E6%8E%83%E8%A1%97%E8%8C%82-%E8%AE%8A%E9%87%91%E7%89%8C%E7%9B%A3%E8%A3%BD%E6%8D%A7%E7%B4%85%E5%91%A8%E6%BD%A4%E7%99%BC%E6%A2%81%E6%9C%9D%E5%81%89",
-    "timestamp": "2026-11-11T22:45:13.796Z",
     "strategy": ".content-card__main"
   }
 ];
