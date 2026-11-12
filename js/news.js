@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T19:58:53.581Z
+// Last updated: 2026-11-12T20:19:58.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘男子捱斬倒地遺血路　一度昏迷送院治理　警到場調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197749258174861312612970.jpeg/yLBfpV15Azs7yR7rX1OsR8afZYu-_Xo30QyDQOsMg0A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410252/%E8%A7%80%E5%A1%98%E7%94%B7%E5%AD%90%E6%8D%B1%E6%96%AC%E5%80%92%E5%9C%B0%E9%81%BA%E8%A1%80%E8%B7%AF-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-12T20:19:58.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘男子捱斬倒地遺血路　一度昏迷送院治理　警到場調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251015/1055072965923704832523981.jpeg/AVrPiqoTLlrWXsXF5V1Tz4RpzjGU9YcVP6-qtT-vqrU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410231/%E5%B4%87%E5%85%89%E7%99%BE%E8%B2%A8%E7%88%86%E6%9C%83%E5%93%A1%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84%E6%B6%89%E5%A7%93%E5%90%8D-%E9%9B%BB%E8%A9%B1%E7%AD%89-%E7%A7%81%E9%9A%B1%E5%85%AC%E7%BD%B2%E8%AA%BF%E6%9F%A5%E6%96%99%E6%B6%8982%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-11-12T14:59:10.964Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "器官捐贈｜肺纖維化病人曾走10分鐘要回氣　移植肺臟後開心可行山",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197623450781356032430829.jpeg/UszJ4hcG2RvbNXOR0OOuDKtcnkVHePicNYs_TTWLP00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410189/%E5%99%A8%E5%AE%98%E6%8D%90%E8%B4%88-%E8%82%BA%E7%BA%96%E7%B6%AD%E5%8C%96%E7%97%85%E4%BA%BA%E6%9B%BE%E8%B5%B010%E5%88%86%E9%90%98%E8%A6%81%E5%9B%9E%E6%B0%A3-%E7%A7%BB%E6%A4%8D%E8%82%BA%E8%87%9F%E5%BE%8C%E9%96%8B%E5%BF%83%E5%8F%AF%E8%A1%8C%E5%B1%B1",
-    "timestamp": "2026-11-12T14:45:37.982Z",
     "strategy": ".content-card__main"
   }
 ];
