@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T07:59:16.887Z
+// Last updated: 2026-11-12T08:24:17.912Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜英偉達爆接班危機　傳部份董事傾向CFO柯蕾絲暫代CEO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197580569760763904260753.jpeg/efFaDHIPLSrELVNs3JxVusLu_VcQiw2BUkA0eFJANHg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410022/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%8B%B1%E5%81%89%E9%81%94%E7%88%86%E6%8E%A5%E7%8F%AD%E5%8D%B1%E6%A9%9F-%E5%82%B3%E9%83%A8%E4%BB%BD%E8%91%A3%E4%BA%8B%E5%82%BE%E5%90%91cfo%E6%9F%AF%E8%95%BE%E7%B5%B2%E6%9A%AB%E4%BB%A3ceo",
+    "timestamp": "2026-11-12T08:24:17.912Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜38歲居里今季場均28分鐘轟30分　效率超越10年前MVP賽季",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197438611251793920053718.jpeg/Kwc_ZTsIgw3DFaucwQU3uxP4MNJs54WDiy7GIYsuxiE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409841/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%B4%90%E6%99%82-%E8%8B%B1%E5%81%89%E9%81%94%E5%85%A7%E9%83%A8%E6%97%A9%E6%9C%89%E8%AD%B0%E8%AB%96%E5%85%B6%E8%88%87%E4%B8%8B%E5%B1%AC%E7%99%BC%E5%B1%95%E5%A9%9A%E5%A4%96%E6%83%85",
     "timestamp": "2026-11-12T02:23:51.428Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌公信力受重挫：一場可能衝擊全球地緣政治的婚外情",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197488853758251008539810.jpeg/jrSfSghkxPTLjJKB_M3m0aoT7C3QPs76FN9CUhTfQlI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60409834/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%8F%97%E9%87%8D%E6%8C%AB-%E4%B8%80%E5%A0%B4%E5%8F%AF%E8%83%BD%E8%A1%9D%E6%93%8A%E5%85%A8%E7%90%83%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E7%9A%84%E5%A9%9A%E5%A4%96%E6%83%85",
-    "timestamp": "2026-11-12T01:59:05.400Z",
     "strategy": ".content-card__main"
   }
 ];
