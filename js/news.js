@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T16:45:03.895Z
+// Last updated: 2026-11-12T16:59:00.501Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：黃仁勳同意感恩節前到國會作證　公司開始尋內外部人選接替",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538052075950080152078.jpeg/H4v9ZSAUYlgYdPR4iUhgk6JoYhwR0Lg8ioZ-2IqGftg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410242/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%90%8C%E6%84%8F%E6%84%9F%E6%81%A9%E7%AF%80%E5%89%8D%E5%88%B0%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89-%E5%85%AC%E5%8F%B8%E9%96%8B%E5%A7%8B%E5%B0%8B%E5%85%A7%E5%A4%96%E9%83%A8%E4%BA%BA%E9%81%B8%E6%8E%A5%E6%9B%BF",
+    "timestamp": "2026-11-12T16:59:00.501Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "器官捐贈｜今年首9月2600人輪候　成功肺移植僅3宗　醫管局籲登記",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197549087449157632385972.jpeg/QEgrG9j2uFJernLVwribSuMzYQi8cjUXwXBgXsFwYF4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410183/%E5%B6%BA%E5%8D%97%E4%B8%AD%E5%AD%B8%E7%96%91%E6%AC%BA%E5%87%8C-13%E6%AD%B2%E4%BB%94%E6%82%A3%E8%81%BD%E9%9A%9C%E5%8F%8A%E8%87%AA%E9%96%89%E7%AD%89-%E7%96%91%E9%81%AD%E5%90%8C%E7%AA%97%E6%8B%B3%E6%89%93%E5%8F%8A%E8%B8%A2%E4%B8%8B%E5%8D%8A%E8%BA%AB",
     "timestamp": "2026-11-12T10:59:02.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "肯尼亞女傭沙特未婚生子判100下鞭刑　生父早離境　事主憂捱唔住",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197615481641504768651387.jpeg/-I9STpF_e7Uj-UUhunDK8BASq8o5wPnM25m55duZueU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410098/%E8%82%AF%E5%B0%BC%E4%BA%9E%E5%A5%B3%E5%82%AD%E6%B2%99%E7%89%B9%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%AD%90%E5%88%A4100%E4%B8%8B%E9%9E%AD%E5%88%91-%E7%94%9F%E7%88%B6%E6%97%A9%E9%9B%A2%E5%A2%83-%E4%BA%8B%E4%B8%BB%E6%86%82%E6%8D%B1%E5%94%94%E4%BD%8F",
-    "timestamp": "2026-11-12T10:45:50.194Z",
     "strategy": ".content-card__main"
   }
 ];
