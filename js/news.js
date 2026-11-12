@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T06:28:20.644Z
+// Last updated: 2026-11-12T06:50:33.953Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜美媒：康偉竟是黃仁勳結識黃樂牽線人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197267012837969920209816.jpeg/po25kr6cCx3ez_JqfTx7ArxHIBYJR6c5E455CBOOeQg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410006/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%BE%8E%E5%AA%92-%E5%BA%B7%E5%81%89%E7%AB%9F%E6%98%AF%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B5%90%E8%AD%98%E9%BB%83%E6%A8%82%E7%89%BD%E7%B7%9A%E4%BA%BA",
+    "timestamp": "2026-11-12T06:50:33.953Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中大畢業禮｜盧煜明稱AI時代人類判斷力重要　寄語秉持目標和熱誠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197467365890068480385046.jpeg/UNHwE1GIwBbeJSwQCnj87xQXcilVeFuvw_GUZsPxlGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409820/%E5%85%83%E6%9C%97%E8%AD%A6%E5%8D%80%E8%81%AF%E5%90%8C%E5%85%A5%E5%A2%83%E8%99%95%E6%89%93%E6%93%8A%E8%B3%A3%E6%B7%AB-%E6%8B%9821%E5%90%8D%E9%9B%99%E7%A8%8B%E8%AD%89%E5%A5%B3%E5%AD%90-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%A4%A773%E6%AD%B2",
     "timestamp": "2026-11-12T00:58:42.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "傳俞可程妒忌爭寵驚動高層　何沛珈親解假帳號抹黑背後真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197269222833524736327195.jpeg/JwJEwUSRGLAuH461yL3bfe5Dshot8IL6k2OWYqljlmI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409754/%E5%82%B3%E4%BF%9E%E5%8F%AF%E7%A8%8B%E5%A6%92%E5%BF%8C%E7%88%AD%E5%AF%B5%E9%A9%9A%E5%8B%95%E9%AB%98%E5%B1%A4-%E4%BD%95%E6%B2%9B%E7%8F%88%E8%A6%AA%E8%A7%A3%E5%81%87%E5%B8%B3%E8%99%9F%E6%8A%B9%E9%BB%91%E8%83%8C%E5%BE%8C%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-11-12T00:38:25.255Z",
     "strategy": ".content-card__main"
   }
 ];
