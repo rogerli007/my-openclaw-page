@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T13:45:35.315Z
+// Last updated: 2026-11-12T13:55:58.265Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "冬天洗澡小心熱休克　長者死亡人數多過交通意外　年輕人也有風險",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261026/1191341883603816448128736.jpeg/hnddsbb5FEimndCxELulA2Mx1P8REpa_H5yUQR-clEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60299247/%E5%86%AC%E5%A4%A9%E6%B4%97%E6%BE%A1%E5%B0%8F%E5%BF%83%E7%86%B1%E4%BC%91%E5%85%8B-%E9%95%B7%E8%80%85%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8%E5%A4%9A%E9%81%8E%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%B9%B4%E8%BC%95%E4%BA%BA%E4%B9%9F%E6%9C%89%E9%A2%A8%E9%9A%AA",
+    "timestamp": "2026-11-12T13:55:58.265Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬天洗澡小心熱休克　長者死亡人數多過交通意外　年輕人也有風險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196420484804120576875249.jpeg/oOY1YqF_FiKdQ5s2AK6BYcjWWE8pSRx1w5LPfMOSz3w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60408489/%E5%90%83%E7%9F%B3%E6%A6%B4%E8%83%BD%E5%8A%A0%E9%80%9F%E7%87%83%E8%84%82-%E8%A7%A3%E5%AF%86%E8%B6%85%E7%B4%9A%E9%A3%9F%E7%89%A93%E5%A4%A7%E6%B6%88%E8%84%82%E6%A9%9F%E5%88%B6-%E9%81%8B%E5%8B%95%E5%89%8D%E9%80%99%E6%A8%A3%E5%90%83%E6%9C%80%E6%9C%89%E6%95%88",
     "timestamp": "2026-11-12T07:45:25.269Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "半島酒店人氣抹茶拿鐵驚喜回歸！聖誕限定士多啤梨抹茶拿鐵登場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197567658950660096596084.jpeg/YcCAnuEZbpe6hlJqNTIUlOaouVdQ0v1RnFlRGZxZURk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60409961/%E5%8D%8A%E5%B3%B6%E9%85%92%E5%BA%97%E4%BA%BA%E6%B0%A3%E6%8A%B9%E8%8C%B6%E6%8B%BF%E9%90%B5%E9%A9%9A%E5%96%9C%E5%9B%9E%E6%AD%B8-%E8%81%96%E8%AA%95%E9%99%90%E5%AE%9A%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8%E6%8A%B9%E8%8C%B6%E6%8B%BF%E9%90%B5%E7%99%BB%E5%A0%B4",
-    "timestamp": "2026-11-12T07:21:45.143Z",
     "strategy": ".content-card__main"
   }
 ];
