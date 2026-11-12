@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T01:21:22.881Z
+// Last updated: 2026-11-12T01:47:32.279Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜傳英偉達已委託外部機構物色繼任人　白宮並未干預",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196881913348886528831625.jpeg/6GevrY03pLRx-930ht71dU8UOwo4XVp8c4TLxnOEy8Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409827/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%82%B3%E8%8B%B1%E5%81%89%E9%81%94%E5%B7%B2%E5%A7%94%E8%A8%97%E5%A4%96%E9%83%A8%E6%A9%9F%E6%A7%8B%E7%89%A9%E8%89%B2%E7%B9%BC%E4%BB%BB%E4%BA%BA-%E7%99%BD%E5%AE%AE%E4%B8%A6%E6%9C%AA%E5%B9%B2%E9%A0%90",
+    "timestamp": "2026-11-12T01:47:32.279Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山迎海兩房758萬蝕沽　高位接火棒輸逾一球　新盤向隅客接貨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195782254400376832567319.jpeg/oZwN4sF9-9E63dPQ9omynTdfNAvnM2oYaYSUzmmElM4",
     "url": "https://www.hk01.com/01TV/60408222/%E5%85%83%E8%8F%AF%E6%B1%BA%E5%AE%9A%E9%9B%A2%E9%96%8Btvb%E4%B8%BB%E5%9B%A0-%E8%A7%92%E8%89%B2%E5%8D%83%E7%AF%87%E4%B8%80%E5%BE%8B-%E6%AF%AB%E7%84%A1%E6%8C%91%E6%88%B0%E6%80%A7",
     "timestamp": "2026-11-11T19:18:57.600Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門油尖掃黃和打擊黑工　突擊搜查多處　31男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197372581980672000725641.jpeg/sm65wMc69iZp7rkfn1qxqb-J8WnJ1a0FwqNSGMKjUhg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409803/%E8%B7%A8%E9%83%A8%E9%96%80%E6%B2%B9%E5%B0%96%E6%8E%83%E9%BB%83%E5%92%8C%E6%89%93%E6%93%8A%E9%BB%91%E5%B7%A5-%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E5%A4%9A%E8%99%95-31%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-11T18:59:10.074Z",
     "strategy": ".content-card__main"
   }
 ];
