@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T03:22:10.031Z
+// Last updated: 2026-11-12T03:33:20.659Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉德華親自包辦曲詞剖白心聲  實體碟《About Life》浸會現場錄音",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197509667937325056279560.jpeg/9D4r1lIarMVhB3eGgX5FrvxQO8BvTB_7ZfF7d2Xxe3c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409910/%E5%8A%89%E5%BE%B7%E8%8F%AF%E8%A6%AA%E8%87%AA%E5%8C%85%E8%BE%A6%E6%9B%B2%E8%A9%9E%E5%89%96%E7%99%BD%E5%BF%83%E8%81%B2-%E5%AF%A6%E9%AB%94%E7%A2%9F-about-life-%E6%B5%B8%E6%9C%83%E7%8F%BE%E5%A0%B4%E9%8C%84%E9%9F%B3",
+    "timestamp": "2026-11-12T03:33:20.659Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "走過嚴重車禍失語失憶逆境重生　37歲影后Bar Belfer驟逝遺留幼女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409807/%E9%81%AD%E6%B2%99%E7%89%B9%E6%94%94%E6%88%AA%E5%B0%8E%E5%BD%88%E5%8F%8A%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%A6%E8%AA%8D%E4%BB%A5%E9%BA%A5%E5%8A%A0%E7%82%BA%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-11-11T21:31:06.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遭沙特攔截導彈及無人機　胡塞武裝否認以麥加為目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409807/%E9%81%AD%E6%B2%99%E7%89%B9%E6%94%94%E6%88%AA%E5%B0%8E%E5%BD%88%E5%8F%8A%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%A6%E8%AA%8D%E4%BB%A5%E9%BA%A5%E5%8A%A0%E7%82%BA%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-11-11T21:17:11.389Z",
     "strategy": ".content-card__main"
   }
 ];
