@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T06:50:33.953Z
+// Last updated: 2026-11-12T07:21:45.143Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "半島酒店人氣抹茶拿鐵驚喜回歸！聖誕限定士多啤梨抹茶拿鐵登場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197567658950660096596084.jpeg/YcCAnuEZbpe6hlJqNTIUlOaouVdQ0v1RnFlRGZxZURk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60409961/%E5%8D%8A%E5%B3%B6%E9%85%92%E5%BA%97%E4%BA%BA%E6%B0%A3%E6%8A%B9%E8%8C%B6%E6%8B%BF%E9%90%B5%E9%A9%9A%E5%96%9C%E5%9B%9E%E6%AD%B8-%E8%81%96%E8%AA%95%E9%99%90%E5%AE%9A%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8%E6%8A%B9%E8%8C%B6%E6%8B%BF%E9%90%B5%E7%99%BB%E5%A0%B4",
+    "timestamp": "2026-11-12T07:21:45.143Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜美媒：康偉竟是黃仁勳結識黃樂牽線人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196499107531722752029638.jpeg/N5edIdPypySH_Ph1sjEL_ZWQgJDKJJn2PUgXmz1IF5s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60408739/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%BF%8E%E6%B5%B7%E5%85%A9%E6%88%BF758%E8%90%AC%E8%9D%95%E6%B2%BD-%E9%AB%98%E4%BD%8D%E6%8E%A5%E7%81%AB%E6%A3%92%E8%BC%B8%E9%80%BE%E4%B8%80%E7%90%83-%E6%96%B0%E7%9B%A4%E5%90%91%E9%9A%85%E5%AE%A2%E6%8E%A5%E8%B2%A8",
     "timestamp": "2026-11-12T01:21:22.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元朗警區聯同入境處打擊賣淫　拘21名雙程證女子　年紀最大73歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197467365890068480385046.jpeg/UNHwE1GIwBbeJSwQCnj87xQXcilVeFuvw_GUZsPxlGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409820/%E5%85%83%E6%9C%97%E8%AD%A6%E5%8D%80%E8%81%AF%E5%90%8C%E5%85%A5%E5%A2%83%E8%99%95%E6%89%93%E6%93%8A%E8%B3%A3%E6%B7%AB-%E6%8B%9821%E5%90%8D%E9%9B%99%E7%A8%8B%E8%AD%89%E5%A5%B3%E5%AD%90-%E5%B9%B4%E7%B4%80%E6%9C%80%E5%A4%A773%E6%AD%B2",
-    "timestamp": "2026-11-12T00:58:42.533Z",
     "strategy": ".content-card__main"
   }
 ];
