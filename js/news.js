@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T10:59:02.641Z
+// Last updated: 2026-11-12T11:20:12.867Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會智能手錶測試｜$1,269小米力壓$5,498三星？附高分推介名單",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197577549949964288069531.jpeg/0-1O7tZ2j-FXAN2Cmtua7flKOmRslSNZZKZ5YGSmeWA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60409991/%E6%B6%88%E5%A7%94%E6%9C%83%E6%99%BA%E8%83%BD%E6%89%8B%E9%8C%B6%E6%B8%AC%E8%A9%A6-1-269%E5%B0%8F%E7%B1%B3%E5%8A%9B%E5%A3%93-5-498%E4%B8%89%E6%98%9F-%E9%99%84%E9%AB%98%E5%88%86%E6%8E%A8%E4%BB%8B%E5%90%8D%E5%96%AE",
+    "timestamp": "2026-11-12T11:20:12.867Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "嶺南中學疑欺凌｜13歲仔患聽障及自閉等　疑遭同窗拳打及踢下半身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197528250482429952716459.jpeg/IQg15tsaAI2_Lhtz9ejBKUQRu8m99b3y24o05f6KNOU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409949/%E6%BD%98%E7%84%AF%E9%B4%BB%E6%B6%89%E6%89%93%E5%95%86%E5%A0%B4%E8%81%B7%E5%93%A1-%E8%A2%AB%E6%8D%95%E7%A8%B1%E8%A1%8C%E4%BD%BF%E5%85%AC%E6%B0%91%E6%8B%98%E6%8D%95%E6%AC%8A-%E8%AA%8D%E9%81%8E%E5%88%86%E7%94%A8%E6%AD%A6%E7%BD%B02400%E5%85%83",
     "timestamp": "2026-11-12T04:45:33.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜阿里巴巴瀉半成、邁5連跌　 分析稱或受累英偉達事件",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193283853419024384416305.png/rK0Ji87sdPP8GXmy0b3Ay2GqKHCxjcOZrhoToq4aE6I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409944/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%80%89%E5%8D%8A%E6%88%90-%E9%82%815%E9%80%A3%E8%B7%8C-%E5%88%86%E6%9E%90%E7%A8%B1%E6%88%96%E5%8F%97%E7%B4%AF%E8%8B%B1%E5%81%89%E9%81%94%E4%BA%8B%E4%BB%B6",
-    "timestamp": "2026-11-12T04:32:48.331Z",
     "strategy": ".content-card__main"
   }
 ];
