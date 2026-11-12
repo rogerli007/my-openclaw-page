@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T08:35:56.376Z
+// Last updated: 2026-11-12T08:59:12.717Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SHINee泰民智利開唱滿場狂奔喊：我是女生！經紀人落台揭爆笑真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197522710092058624462019.png/szght0LbWIuDBtZiiviBdXZYuARSWwFlwMHqFcDB6hU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409915/shinee%E6%B3%B0%E6%B0%91%E6%99%BA%E5%88%A9%E9%96%8B%E5%94%B1%E6%BB%BF%E5%A0%B4%E7%8B%82%E5%A5%94%E5%96%8A-%E6%88%91%E6%98%AF%E5%A5%B3%E7%94%9F-%E7%B6%93%E7%B4%80%E4%BA%BA%E8%90%BD%E5%8F%B0%E6%8F%AD%E7%88%86%E7%AC%91%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-11-12T08:59:12.717Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關驗4個赴韓遠洋船貨櫃　檢$1億魚翅、鱷魚皮及海馬等走私貨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197500057599873024713920.jpeg/6ja5mepSNcbP8p5vKH0dpsACVjO75vXpBYz9bAWM_Ww?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409874/bigbang%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%8311-13%E5%85%A5%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92-%E6%94%BF%E5%BA%9C%E7%B1%B2%E5%8B%BF%E5%9D%90%E9%9D%9E%E6%B3%95%E8%B7%A8%E5%A2%83%E7%99%BD%E7%89%8C%E8%BB%8A",
     "timestamp": "2026-11-12T02:59:09.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三代同糖｜吳若希告別劇組引角色變動 關曜儁爆心情忐忑急問監製",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197334251209494528129435.jpeg/6O8O83Znh5q7I9H_xGDN7b3sUHfZtKGRZonfK1yJ3ys?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409791/%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%90%B3%E8%8B%A5%E5%B8%8C%E5%91%8A%E5%88%A5%E5%8A%87%E7%B5%84%E5%BC%95%E8%A7%92%E8%89%B2%E8%AE%8A%E5%8B%95-%E9%97%9C%E6%9B%9C%E5%84%81%E7%88%86%E5%BF%83%E6%83%85%E5%BF%90%E5%BF%91%E6%80%A5%E5%95%8F%E7%9B%A3%E8%A3%BD",
-    "timestamp": "2026-11-12T02:35:35.901Z",
     "strategy": ".content-card__main"
   }
 ];
