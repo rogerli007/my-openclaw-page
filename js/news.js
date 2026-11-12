@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T08:59:12.717Z
+// Last updated: 2026-11-12T09:21:44.360Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜二號女主角已婚育2孩　丈夫為醫療技術專家",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197438611251793920053718.jpeg/Kwc_ZTsIgw3DFaucwQU3uxP4MNJs54WDiy7GIYsuxiE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410066/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E4%BA%8C%E8%99%9F%E5%A5%B3%E4%B8%BB%E8%A7%92kimberly-powell%E5%B7%B2%E5%A9%9A-%E4%B8%88%E5%A4%AB%E7%82%BA%E9%86%AB%E7%99%82%E5%B0%88%E5%AE%B6",
+    "timestamp": "2026-11-12T09:21:44.360Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SHINee泰民智利開唱滿場狂奔喊：我是女生！經紀人落台揭爆笑真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197502235244761088637150.png/mUTtmePFR89dIWHS_Gt9-NKRugFhWnG4FN9R3RTfUd0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409879/%E8%B5%B0%E9%81%8E%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E5%A4%B1%E8%AA%9E%E5%A4%B1%E6%86%B6%E9%80%86%E5%A2%83%E9%87%8D%E7%94%9F-37%E6%AD%B2%E5%BD%B1%E5%90%8Ebar-belfer%E9%A9%9F%E9%80%9D%E9%81%BA%E7%95%99%E5%B9%BC%E5%A5%B3",
     "timestamp": "2026-11-12T03:22:10.031Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG香港演唱會11.13入啟德體育園　政府籲勿坐非法跨境白牌車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197500057599873024713920.jpeg/6ja5mepSNcbP8p5vKH0dpsACVjO75vXpBYz9bAWM_Ww?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409874/bigbang%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%8311-13%E5%85%A5%E5%95%9F%E5%BE%B7%E9%AB%94%E8%82%B2%E5%9C%92-%E6%94%BF%E5%BA%9C%E7%B1%B2%E5%8B%BF%E5%9D%90%E9%9D%9E%E6%B3%95%E8%B7%A8%E5%A2%83%E7%99%BD%E7%89%8C%E8%BB%8A",
-    "timestamp": "2026-11-12T02:59:09.525Z",
     "strategy": ".content-card__main"
   }
 ];
