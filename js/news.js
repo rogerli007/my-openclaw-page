@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T05:44:51.114Z
+// Last updated: 2026-11-12T05:59:18.214Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台下調11.20市區氣溫至最低18度　冷鋒前周日維港泳上水30度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196868107269050368037952.jpeg/WzXEu4HTz8m4SD4qUldMx8rFm_ZknvDe3ALHhvkCx4Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60409959/%E5%A4%A9%E6%96%87%E5%8F%B0%E4%B8%8B%E8%AA%BF11-20%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E8%87%B3%E6%9C%80%E4%BD%8E18%E5%BA%A6-%E5%86%B7%E9%8B%92%E5%89%8D%E5%91%A8%E6%97%A5%E7%B6%AD%E6%B8%AF%E6%B3%B3%E4%B8%8A%E6%B0%B430%E5%BA%A6",
+    "timestamp": "2026-11-12T05:59:18.214Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIG BANG啟德演唱會入場指南｜一文看清周邊商品、入場和交通安排",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197453962366685184239547.jpeg/5UP2th0OX1S14GNhQ_KnHZQNiuvIdqOYZ1bBqmdWwao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409818/%E7%B2%89%E5%B6%BA%E4%B8%80%E9%B3%B4%E8%B7%AF%E5%96%AE%E8%BB%8A%E6%8D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%93%E8%BB%8A%E5%BA%95-%E7%94%B7%E9%A8%8E%E6%89%8B%E6%93%A6%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-11-11T23:59:17.726Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達盤後瀉逾8%　美媒︰黃仁勳涉另一單婚外情　董事局擬罷免他",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197262918719115264107492.jpeg/1UhVrXJSrDeJ4Ol_fo0NMPSTkelXJWHb5d-S1OXfktQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409817/%E9%BB%83%E4%BB%81%E5%8B%B3l%E6%93%9A%E5%A0%B1%E6%B6%89%E5%8F%A6%E4%B8%80%E5%96%AE%E5%A9%9A%E5%A4%96%E6%83%85-%E8%91%A3%E4%BA%8B%E5%B1%80%E8%80%83%E6%85%AE%E7%BD%B7%E5%85%8D%E4%BB%96-%E8%8B%B1%E5%81%89%E9%81%94%E7%9B%A4%E5%BE%8C%E7%80%898",
-    "timestamp": "2026-11-11T23:45:06.091Z",
     "strategy": ".content-card__main"
   }
 ];
