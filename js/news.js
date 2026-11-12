@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T01:47:32.279Z
+// Last updated: 2026-11-12T01:59:05.400Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌公信力受重挫：一場可能衝擊全球地緣政治的婚外情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197488853758251008539810.jpeg/jrSfSghkxPTLjJKB_M3m0aoT7C3QPs76FN9CUhTfQlI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60409834/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%8F%97%E9%87%8D%E6%8C%AB-%E4%B8%80%E5%A0%B4%E5%8F%AF%E8%83%BD%E8%A1%9D%E6%93%8A%E5%85%A8%E7%90%83%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E7%9A%84%E5%A9%9A%E5%A4%96%E6%83%85",
+    "timestamp": "2026-11-12T01:59:05.400Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜傳英偉達已委託外部機構物色繼任人　白宮並未干預",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260606/1139719553400442880789035.jpeg/yDC6esZPJttlwG9FGI9CwSADXeGeQjkTr_XOIq_1ziI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409805/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E7%99%BD%E5%AE%AE%E8%87%B4%E5%87%BD%E6%B0%91%E4%B8%BB%E9%BB%A8%E7%9C%BE%E8%AD%B0%E5%93%A1-%E9%83%A8%E4%BB%BD%E8%AA%BF%E6%9F%A5%E6%88%96%E6%A7%8B%E6%88%90%E7%8A%AF%E7%BD%AA",
     "timestamp": "2026-11-11T19:29:30.526Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華決定離開TVB主因：角色千篇一律 毫無挑戰性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195782254400376832567319.jpeg/oZwN4sF9-9E63dPQ9omynTdfNAvnM2oYaYSUzmmElM4",
-    "url": "https://www.hk01.com/01TV/60408222/%E5%85%83%E8%8F%AF%E6%B1%BA%E5%AE%9A%E9%9B%A2%E9%96%8Btvb%E4%B8%BB%E5%9B%A0-%E8%A7%92%E8%89%B2%E5%8D%83%E7%AF%87%E4%B8%80%E5%BE%8B-%E6%AF%AB%E7%84%A1%E6%8C%91%E6%88%B0%E6%80%A7",
-    "timestamp": "2026-11-11T19:18:57.600Z",
     "strategy": ".content-card__main"
   }
 ];
