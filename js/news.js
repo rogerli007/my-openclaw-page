@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T16:59:00.501Z
+// Last updated: 2026-11-12T17:19:24.484Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：黃仁勳同意感恩節前到國會作證　公司開始尋內外部人選接替",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538052075950080152078.jpeg/H4v9ZSAUYlgYdPR4iUhgk6JoYhwR0Lg8ioZ-2IqGftg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410242/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%90%8C%E6%84%8F%E6%84%9F%E6%81%A9%E7%AF%80%E5%89%8D%E5%88%B0%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89-%E5%85%AC%E5%8F%B8%E9%96%8B%E5%A7%8B%E5%B0%8B%E5%85%A7%E5%A4%96%E9%83%A8%E4%BA%BA%E9%81%B8%E6%8E%A5%E6%9B%BF",
+    "timestamp": "2026-11-12T17:19:24.484Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：黃仁勳同意感恩節前到國會作證　公司開始尋內外部人選接替",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197577549949964288069531.jpeg/0-1O7tZ2j-FXAN2Cmtua7flKOmRslSNZZKZ5YGSmeWA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60409991/%E6%B6%88%E5%A7%94%E6%9C%83%E6%99%BA%E8%83%BD%E6%89%8B%E9%8C%B6%E6%B8%AC%E8%A9%A6-1-269%E5%B0%8F%E7%B1%B3%E5%8A%9B%E5%A3%93-5-498%E4%B8%89%E6%98%9F-%E9%99%84%E9%AB%98%E5%88%86%E6%8E%A8%E4%BB%8B%E5%90%8D%E5%96%AE",
     "timestamp": "2026-11-12T11:20:12.867Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "嶺南中學疑欺凌｜13歲仔患聽障及自閉等　疑遭同窗拳打及踢下半身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197549087449157632385972.jpeg/QEgrG9j2uFJernLVwribSuMzYQi8cjUXwXBgXsFwYF4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410183/%E5%B6%BA%E5%8D%97%E4%B8%AD%E5%AD%B8%E7%96%91%E6%AC%BA%E5%87%8C-13%E6%AD%B2%E4%BB%94%E6%82%A3%E8%81%BD%E9%9A%9C%E5%8F%8A%E8%87%AA%E9%96%89%E7%AD%89-%E7%96%91%E9%81%AD%E5%90%8C%E7%AA%97%E6%8B%B3%E6%89%93%E5%8F%8A%E8%B8%A2%E4%B8%8B%E5%8D%8A%E8%BA%AB",
-    "timestamp": "2026-11-12T10:59:02.641Z",
     "strategy": ".content-card__main"
   }
 ];
