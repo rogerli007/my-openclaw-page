@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T19:45:12.238Z
+// Last updated: 2026-11-12T19:58:53.581Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘男子捱斬倒地遺血路　一度昏迷送院治理　警到場調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197749258174861312612970.jpeg/yLBfpV15Azs7yR7rX1OsR8afZYu-_Xo30QyDQOsMg0A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410252/%E8%A7%80%E5%A1%98%E7%94%B7%E5%AD%90%E6%8D%B1%E6%96%AC%E5%80%92%E5%9C%B0%E9%81%BA%E8%A1%80%E8%B7%AF-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-12T19:58:53.581Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "前甲一MVP陳張敏爆婚變！　方泳琳決定分開列多宗罪千字文狂轟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197623450781356032430829.jpeg/UszJ4hcG2RvbNXOR0OOuDKtcnkVHePicNYs_TTWLP00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410189/%E5%99%A8%E5%AE%98%E6%8D%90%E8%B4%88-%E8%82%BA%E7%BA%96%E7%B6%AD%E5%8C%96%E7%97%85%E4%BA%BA%E6%9B%BE%E8%B5%B010%E5%88%86%E9%90%98%E8%A6%81%E5%9B%9E%E6%B0%A3-%E7%A7%BB%E6%A4%8D%E8%82%BA%E8%87%9F%E5%BE%8C%E9%96%8B%E5%BF%83%E5%8F%AF%E8%A1%8C%E5%B1%B1",
     "timestamp": "2026-11-12T14:45:37.982Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "1600億跨境稅單落地：中國富豪面臨痛苦抉擇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260707/1151144060019281920654918.jpeg/A0Gl5T0DIR6APTREXzBSfGhKKIFG6t-snnYu4p52LuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60410059/1600%E5%84%84%E8%B7%A8%E5%A2%83%E7%A8%85%E5%96%AE%E8%90%BD%E5%9C%B0-%E4%B8%AD%E5%9C%8B%E5%AF%8C%E8%B1%AA%E9%9D%A2%E8%87%A8%E7%97%9B%E8%8B%A6%E6%8A%89%E6%93%87",
-    "timestamp": "2026-11-12T14:20:49.364Z",
     "strategy": ".content-card__main"
   }
 ];
