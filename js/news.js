@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T05:59:18.214Z
+// Last updated: 2026-11-12T06:28:20.644Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中大畢業禮｜盧煜明稱AI時代人類判斷力重要　寄語秉持目標和熱誠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197548262417502208319650.jpeg/gUbu0Q0Dzk6xkmy79ye_sfhX6VvBoxkzGVdJMTxXSTE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409979/%E4%B8%AD%E5%A4%A7%E7%95%A2%E6%A5%AD%E7%A6%AE-%E7%9B%A7%E7%85%9C%E6%98%8E%E7%A8%B1ai%E6%99%82%E4%BB%A3%E4%BA%BA%E9%A1%9E%E5%88%A4%E6%96%B7%E5%8A%9B%E9%87%8D%E8%A6%81-%E5%AF%84%E8%AA%9E%E7%A7%89%E6%8C%81%E7%9B%AE%E6%A8%99%E5%92%8C%E7%86%B1%E8%AA%A0",
+    "timestamp": "2026-11-12T06:28:20.644Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台下調11.20市區氣溫至最低18度　冷鋒前周日維港泳上水30度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197269222833524736327195.jpeg/JwJEwUSRGLAuH461yL3bfe5Dshot8IL6k2OWYqljlmI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409754/%E5%82%B3%E4%BF%9E%E5%8F%AF%E7%A8%8B%E5%A6%92%E5%BF%8C%E7%88%AD%E5%AF%B5%E9%A9%9A%E5%8B%95%E9%AB%98%E5%B1%A4-%E4%BD%95%E6%B2%9B%E7%8F%88%E8%A6%AA%E8%A7%A3%E5%81%87%E5%B8%B3%E8%99%9F%E6%8A%B9%E9%BB%91%E8%83%8C%E5%BE%8C%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-11-12T00:38:25.255Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺一鳴路單車捱私家車撞壓車底　男騎手擦傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197453962366685184239547.jpeg/5UP2th0OX1S14GNhQ_KnHZQNiuvIdqOYZ1bBqmdWwao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409818/%E7%B2%89%E5%B6%BA%E4%B8%80%E9%B3%B4%E8%B7%AF%E5%96%AE%E8%BB%8A%E6%8D%B1%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%92%9E%E5%A3%93%E8%BB%8A%E5%BA%95-%E7%94%B7%E9%A8%8E%E6%89%8B%E6%93%A6%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-11-11T23:59:17.726Z",
     "strategy": ".content-card__main"
   }
 ];
