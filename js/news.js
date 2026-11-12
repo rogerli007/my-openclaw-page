@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T22:59:11.995Z
+// Last updated: 2026-11-12T23:18:13.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "舟山碼頭鯊魚4條¥70賤賣無人要│專家拆解尿素臊味+肉質粗成蝕本貨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197588332008181760546189.png/KGwxGwpEOF13DzX8ii2mHoa5uF9So4AvTY5rB02Oawc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409489/%E8%88%9F%E5%B1%B1%E7%A2%BC%E9%A0%AD%E9%AF%8A%E9%AD%9A4%E6%A2%9D-70%E8%B3%A4%E8%B3%A3%E7%84%A1%E4%BA%BA%E8%A6%81-%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E5%B0%BF%E7%B4%A0%E8%87%8A%E5%91%B3-%E8%82%89%E8%B3%AA%E7%B2%97%E6%88%90%E8%9D%95%E6%9C%AC%E8%B2%A8",
+    "timestamp": "2026-11-12T23:18:13.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳再被爆第三宗婚外情　美司法部稱尚未認定黃樂是間諜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538052075950080152078.jpeg/H4v9ZSAUYlgYdPR4iUhgk6JoYhwR0Lg8ioZ-2IqGftg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410242/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%90%8C%E6%84%8F%E6%84%9F%E6%81%A9%E7%AF%80%E5%89%8D%E5%88%B0%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89-%E5%85%AC%E5%8F%B8%E9%96%8B%E5%A7%8B%E5%B0%8B%E5%85%A7%E5%A4%96%E9%83%A8%E4%BA%BA%E9%81%B8%E6%8E%A5%E6%9B%BF",
     "timestamp": "2026-11-12T17:45:03.104Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：黃仁勳同意感恩節前到國會作證　公司開始尋內外部人選接替",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538052075950080152078.jpeg/H4v9ZSAUYlgYdPR4iUhgk6JoYhwR0Lg8ioZ-2IqGftg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410242/%E7%BE%8E%E5%AA%92-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%90%8C%E6%84%8F%E6%84%9F%E6%81%A9%E7%AF%80%E5%89%8D%E5%88%B0%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89-%E5%85%AC%E5%8F%B8%E9%96%8B%E5%A7%8B%E5%B0%8B%E5%85%A7%E5%A4%96%E9%83%A8%E4%BA%BA%E9%81%B8%E6%8E%A5%E6%9B%BF",
-    "timestamp": "2026-11-12T17:19:24.484Z",
     "strategy": ".content-card__main"
   }
 ];
