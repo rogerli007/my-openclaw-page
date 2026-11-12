@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T03:45:20.488Z
+// Last updated: 2026-11-12T03:58:57.263Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊思琦14歲大女罕亮相！首挑戰獨自買餸下廚　母女檔同框溫馨互寸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197441429597589504862359.jpeg/mk_JoP7gz-sKid1T4I22KX7r3lrrn_Os84zcufOM3Lk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60409359/%E6%A5%8A%E6%80%9D%E7%90%A614%E6%AD%B2%E5%A4%A7%E5%A5%B3%E7%BD%95%E4%BA%AE%E7%9B%B8-%E9%A6%96%E6%8C%91%E6%88%B0%E7%8D%A8%E8%87%AA%E8%B2%B7%E9%A4%B8%E4%B8%8B%E5%BB%9A-%E6%AF%8D%E5%A5%B3%E6%AA%94%E5%90%8C%E6%A1%86%E6%BA%AB%E9%A6%A8%E4%BA%92%E5%AF%B8",
+    "timestamp": "2026-11-12T03:58:57.263Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌道歉信變英文功課！老師當「活教材」貼堂　附填字遊戲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241220/946675621386260480912856.jpeg/0rBQDQEMSsraOGh8QYcmbSKnmSsrYD8adT68yHU-vMg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409810/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%BE%8E%E7%9C%BE%E8%AD%B0%E9%99%A2%E5%A7%94%E5%93%A1%E6%9C%83%E6%93%AC%E7%99%BC%E5%82%B3%E7%A5%A8-%E8%A6%81%E6%B1%82%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%AA%E6%98%8E%E9%96%93%E8%AB%9C%E9%A2%A8%E6%B3%A2",
     "timestamp": "2026-11-11T21:59:03.147Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "遭沙特攔截導彈及無人機　胡塞武裝否認以麥加為目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409807/%E9%81%AD%E6%B2%99%E7%89%B9%E6%94%94%E6%88%AA%E5%B0%8E%E5%BD%88%E5%8F%8A%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%A6%E8%AA%8D%E4%BB%A5%E9%BA%A5%E5%8A%A0%E7%82%BA%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-11-11T21:45:24.327Z",
     "strategy": ".content-card__main"
   }
 ];
