@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T09:21:44.360Z
+// Last updated: 2026-11-12T09:46:48.325Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《尚公主》收官抱憾！揭《嫁金釵》田曦薇替嫁宅鬥大勝孟子義關鍵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197584056141746176107289.png/l9i9I8tWg8BPKJEl5BhhAUdmZad4Jjzfxtzz2cbc89k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410045/%E5%B0%9A%E5%85%AC%E4%B8%BB-%E6%94%B6%E5%AE%98%E6%8A%B1%E6%86%BE-%E6%8F%AD-%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B0%E6%9B%A6%E8%96%87%E6%9B%BF%E5%AB%81%E5%AE%85%E9%AC%A5%E5%A4%A7%E5%8B%9D%E5%AD%9F%E5%AD%90%E7%BE%A9%E9%97%9C%E9%8D%B5",
+    "timestamp": "2026-11-12T09:46:48.325Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜二號女主角已婚育2孩　丈夫為醫療技術專家",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197509667937325056279560.jpeg/9D4r1lIarMVhB3eGgX5FrvxQO8BvTB_7ZfF7d2Xxe3c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409910/%E5%8A%89%E5%BE%B7%E8%8F%AF%E8%A6%AA%E8%87%AA%E5%8C%85%E8%BE%A6%E6%9B%B2%E8%A9%9E%E5%89%96%E7%99%BD%E5%BF%83%E8%81%B2-%E5%AF%A6%E9%AB%94%E7%A2%9F-about-life-%E6%B5%B8%E6%9C%83%E7%8F%BE%E5%A0%B4%E9%8C%84%E9%9F%B3",
     "timestamp": "2026-11-12T03:33:20.659Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "走過嚴重車禍失語失憶逆境重生　37歲影后Bar Belfer驟逝遺留幼女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197502235244761088637150.png/mUTtmePFR89dIWHS_Gt9-NKRugFhWnG4FN9R3RTfUd0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409879/%E8%B5%B0%E9%81%8E%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E5%A4%B1%E8%AA%9E%E5%A4%B1%E6%86%B6%E9%80%86%E5%A2%83%E9%87%8D%E7%94%9F-37%E6%AD%B2%E5%BD%B1%E5%90%8Ebar-belfer%E9%A9%9F%E9%80%9D%E9%81%BA%E7%95%99%E5%B9%BC%E5%A5%B3",
-    "timestamp": "2026-11-12T03:22:10.031Z",
     "strategy": ".content-card__main"
   }
 ];
