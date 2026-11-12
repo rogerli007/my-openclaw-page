@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T09:59:16.148Z
+// Last updated: 2026-11-12T10:20:21.559Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港交所︰ETP規模衝破6100億　日均成交465億破紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197580420271575040495310.jpeg/UuI52RlcMSUFCDGVce0uzW1nz-rIDnXZ21zGWttcxlo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410067/%E6%B8%AF%E4%BA%A4%E6%89%80-etp%E8%A6%8F%E6%A8%A1%E8%A1%9D%E7%A0%B46100%E5%84%84-%E6%97%A5%E5%9D%87%E6%88%90%E4%BA%A4465%E5%84%84%E7%A0%B4%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-11-12T10:20:21.559Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "安徽女遊泰遭賣豬仔禁錮妙瓦底3個月　身心受創回國｢天天發噩夢｣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197441429597589504862359.jpeg/mk_JoP7gz-sKid1T4I22KX7r3lrrn_Os84zcufOM3Lk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60409359/%E6%A5%8A%E6%80%9D%E7%90%A614%E6%AD%B2%E5%A4%A7%E5%A5%B3%E7%BD%95%E4%BA%AE%E7%9B%B8-%E9%A6%96%E6%8C%91%E6%88%B0%E7%8D%A8%E8%87%AA%E8%B2%B7%E9%A4%B8%E4%B8%8B%E5%BB%9A-%E6%AF%8D%E5%A5%B3%E6%AA%94%E5%90%8C%E6%A1%86%E6%BA%AB%E9%A6%A8%E4%BA%92%E5%AF%B8",
     "timestamp": "2026-11-12T03:58:57.263Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌道歉信變英文功課！老師當「活教材」貼堂　附填字遊戲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197496705075908608426108.png/cSsXVmcVaqSKpDWW-GS-AfNaTuVs6hyUXP1_ZVz9f2U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60409832/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E9%81%93%E6%AD%89%E4%BF%A1%E8%AE%8A%E8%8B%B1%E6%96%87%E5%8A%9F%E8%AA%B2-%E8%80%81%E5%B8%AB%E7%95%B6%E6%B4%BB%E6%95%99%E6%9D%90%E5%AE%B6%E9%95%B7%E5%9C%8D%E8%A7%80-%E9%99%84%E5%A1%AB%E5%AD%97%E9%81%8A%E6%88%B2",
-    "timestamp": "2026-11-12T03:45:20.488Z",
     "strategy": ".content-card__main"
   }
 ];
