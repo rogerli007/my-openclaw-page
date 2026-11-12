@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T05:20:37.843Z
+// Last updated: 2026-11-12T05:44:51.114Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIG BANG啟德演唱會入場指南｜一文看清周邊商品、入場和交通安排",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538515630428160012856.jpeg/u1woqVAq59pLDXeGA92rhXlIdBG2Cc6SugmMo7oJjKM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409968/big-bang%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83%E5%85%A5%E5%A0%B4%E6%8C%87%E5%8D%97-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%91%A8%E9%82%8A%E5%95%86%E5%93%81-%E5%85%A5%E5%A0%B4%E5%92%8C%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92",
+    "timestamp": "2026-11-12T05:44:51.114Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "朱智賢翻舊帳暗指謝東閔偷食在先　網民怒轟：好似自己被迫咁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197262918719115264107492.jpeg/1UhVrXJSrDeJ4Ol_fo0NMPSTkelXJWHb5d-S1OXfktQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409817/%E9%BB%83%E4%BB%81%E5%8B%B3l%E6%93%9A%E5%A0%B1%E6%B6%89%E5%8F%A6%E4%B8%80%E5%96%AE%E5%A9%9A%E5%A4%96%E6%83%85-%E8%91%A3%E4%BA%8B%E5%B1%80%E8%80%83%E6%85%AE%E7%BD%B7%E5%85%8D%E4%BB%96-%E8%8B%B1%E5%81%89%E9%81%94%E7%9B%A4%E5%BE%8C%E7%80%898",
     "timestamp": "2026-11-11T23:45:06.091Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大腸癌年輕化｜23歲女運動員無家族史　持續腹痛照腸鏡揭患原位癌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192515136326209536786059.jpeg/aEj203ZWcSGemKO94jguUFYPAx8SZSgDjoRicY6EYnE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60403896/%E5%A4%A7%E8%85%B8%E7%99%8C%E5%B9%B4%E8%BC%95%E5%8C%96-23%E6%AD%B2%E5%A5%B3%E9%81%8B%E5%8B%95%E5%93%A1%E7%84%A1%E5%AE%B6%E6%97%8F%E5%8F%B2-%E6%8C%81%E7%BA%8C%E8%85%B9%E7%97%9B%E7%85%A7%E8%85%B8%E9%8F%A1%E6%8F%AD%E6%82%A3%E5%8E%9F%E4%BD%8D%E7%99%8C",
-    "timestamp": "2026-11-11T23:29:55.349Z",
     "strategy": ".content-card__main"
   }
 ];
