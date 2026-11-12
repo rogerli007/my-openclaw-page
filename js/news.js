@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T05:00:39.911Z
+// Last updated: 2026-11-12T05:20:37.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱智賢翻舊帳暗指謝東閔偷食在先　網民怒轟：好似自己被迫咁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197518091576152064942351.jpeg/ByOy7bj-QYIRkC4vOVHauFYAoTCoI8XRfpAFyX6QBck?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409923/%E6%9C%B1%E6%99%BA%E8%B3%A2%E7%BF%BB%E8%88%8A%E5%B8%B3%E6%9A%97%E6%8C%87%E8%AC%9D%E6%9D%B1%E9%96%94%E5%81%B7%E9%A3%9F%E5%9C%A8%E5%85%88-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F-%E5%A5%BD%E4%BC%BC%E8%87%AA%E5%B7%B1%E8%A2%AB%E8%BF%AB%E5%92%81",
+    "timestamp": "2026-11-12T05:20:37.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍城滙豐銀行現假「大牛」　警檢走$2500調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261029/1192515136326209536786059.jpeg/aEj203ZWcSGemKO94jguUFYPAx8SZSgDjoRicY6EYnE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60403896/%E5%A4%A7%E8%85%B8%E7%99%8C%E5%B9%B4%E8%BC%95%E5%8C%96-23%E6%AD%B2%E5%A5%B3%E9%81%8B%E5%8B%95%E5%93%A1%E7%84%A1%E5%AE%B6%E6%97%8F%E5%8F%B2-%E6%8C%81%E7%BA%8C%E8%85%B9%E7%97%9B%E7%85%A7%E8%85%B8%E9%8F%A1%E6%8F%AD%E6%82%A3%E5%8E%9F%E4%BD%8D%E7%99%8C",
     "timestamp": "2026-11-11T23:29:55.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：萬斯計劃與伊朗強硬派直接對話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189258463486676992684015.jpeg/qTLKSOe6FPDtih_vnOcUKeqEh9RU7K20L1yaVi9cmlY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409816/%E7%BE%8E%E5%AA%92-%E8%90%AC%E6%96%AF%E8%A8%88%E5%8A%83%E8%88%87%E4%BC%8A%E6%9C%97%E5%BC%B7%E7%A1%AC%E6%B4%BE%E7%9B%B4%E6%8E%A5%E5%B0%8D%E8%A9%B1",
-    "timestamp": "2026-11-11T23:18:40.615Z",
     "strategy": ".content-card__main"
   }
 ];
