@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T14:59:10.964Z
+// Last updated: 2026-11-12T15:20:03.522Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角毒品車衝路障撞私家車　再剷行人路撞竹棚　地上遺多包毒品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197685081133551616965381.jpeg/FRS5QxWv3A0DNU_7NxyVG58w34nnZHyIE6EguBOhILg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410234/%E6%97%BA%E8%A7%92%E6%AF%92%E5%93%81%E8%BB%8A%E8%A1%9D%E8%B7%AF%E9%9A%9C%E6%92%9E%E7%A7%81%E5%AE%B6%E8%BB%8A-%E5%86%8D%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E7%AB%B9%E6%A3%9A-%E5%9C%B0%E4%B8%8A%E9%81%BA%E5%A4%9A%E5%8C%85%E6%AF%92%E5%93%81",
+    "timestamp": "2026-11-12T15:20:03.522Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "崇光百貨爆會員資料外泄涉姓名、電話等　私隱公署調查料涉82萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197522710092058624462019.png/szght0LbWIuDBtZiiviBdXZYuARSWwFlwMHqFcDB6hU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409915/shinee%E6%B3%B0%E6%B0%91%E6%99%BA%E5%88%A9%E9%96%8B%E5%94%B1%E6%BB%BF%E5%A0%B4%E7%8B%82%E5%A5%94%E5%96%8A-%E6%88%91%E6%98%AF%E5%A5%B3%E7%94%9F-%E7%B6%93%E7%B4%80%E4%BA%BA%E8%90%BD%E5%8F%B0%E6%8F%AD%E7%88%86%E7%AC%91%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-11-12T08:59:12.717Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關驗4個赴韓遠洋船貨櫃　檢$1億魚翅、鱷魚皮及海馬等走私貨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197582654950608896698102.jpeg/OqLOeeN0JfweTcaJ5gtP4J_2kk8hpgx0Pcpfyj3KX8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410072/%E6%B5%B7%E9%97%9C%E9%A9%974%E5%80%8B%E8%B5%B4%E9%9F%93%E9%81%A0%E6%B4%8B%E8%88%B9%E8%B2%A8%E6%AB%83-%E6%AA%A2-1%E5%84%84%E9%AD%9A%E7%BF%85-%E9%B1%B7%E9%AD%9A%E7%9A%AE%E5%8F%8A%E6%B5%B7%E9%A6%AC%E7%AD%89%E8%B5%B0%E7%A7%81%E8%B2%A8",
-    "timestamp": "2026-11-12T08:35:56.376Z",
     "strategy": ".content-card__main"
   }
 ];
