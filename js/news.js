@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T00:58:42.533Z
+// Last updated: 2026-11-12T01:21:22.881Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山迎海兩房758萬蝕沽　高位接火棒輸逾一球　新盤向隅客接貨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196499107531722752029638.jpeg/N5edIdPypySH_Ph1sjEL_ZWQgJDKJJn2PUgXmz1IF5s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60408739/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%BF%8E%E6%B5%B7%E5%85%A9%E6%88%BF758%E8%90%AC%E8%9D%95%E6%B2%BD-%E9%AB%98%E4%BD%8D%E6%8E%A5%E7%81%AB%E6%A3%92%E8%BC%B8%E9%80%BE%E4%B8%80%E7%90%83-%E6%96%B0%E7%9B%A4%E5%90%91%E9%9A%85%E5%AE%A2%E6%8E%A5%E8%B2%A8",
+    "timestamp": "2026-11-12T01:21:22.881Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗警區聯同入境處打擊賣淫　拘21名雙程證女子　年紀最大73歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197372581980672000725641.jpeg/sm65wMc69iZp7rkfn1qxqb-J8WnJ1a0FwqNSGMKjUhg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409803/%E8%B7%A8%E9%83%A8%E9%96%80%E6%B2%B9%E5%B0%96%E6%8E%83%E9%BB%83%E5%92%8C%E6%89%93%E6%93%8A%E9%BB%91%E5%B7%A5-%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E5%A4%9A%E8%99%95-31%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-11T18:59:10.074Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門油尖掃黃和打擊黑工　突擊搜查多處　31男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197372581980672000725641.jpeg/sm65wMc69iZp7rkfn1qxqb-J8WnJ1a0FwqNSGMKjUhg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409803/%E8%B7%A8%E9%83%A8%E9%96%80%E6%B2%B9%E5%B0%96%E6%8E%83%E9%BB%83%E5%92%8C%E6%89%93%E6%93%8A%E9%BB%91%E5%B7%A5-%E7%AA%81%E6%93%8A%E6%90%9C%E6%9F%A5%E5%A4%9A%E8%99%95-31%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-11T18:45:38.191Z",
     "strategy": ".content-card__main"
   }
 ];
