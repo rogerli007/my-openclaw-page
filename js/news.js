@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T21:57:14.322Z
+// Last updated: 2026-11-12T22:19:20.642Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜今晚驟雨增多　有幾陣狂風雷暴　氣溫介乎23至26度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197790052579545088379250.jpeg/DtJ3JrqQVAKlKYcpncg6eNFkX4U_0mpJhr6dlby-nZU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60410245/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%99%9A%E9%A9%9F%E9%9B%A8%E5%A2%9E%E5%A4%9A-%E6%9C%89%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E6%B0%A3%E6%BA%AB%E4%BB%8B%E4%B9%8E23%E8%87%B326%E5%BA%A6",
+    "timestamp": "2026-11-12T22:19:20.642Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柴灣興華邨母子錢銀問題爭執　31歲兒子擸雙刀傷母被捕　重案跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197631426216857600602984.jpeg/ovWC0WU4ztkwpPHxNgmSL6GbWJqEMVcXL8Pcwi_D3MI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410201/%E5%99%A8%E5%AE%98%E6%8D%90%E8%B4%88-%E4%BB%8A%E5%B9%B4%E9%A6%969%E6%9C%882600%E4%BA%BA%E8%BC%AA%E5%80%99-%E6%88%90%E5%8A%9F%E8%82%BA%E7%A7%BB%E6%A4%8D%E5%83%853%E5%AE%97-%E9%86%AB%E7%AE%A1%E5%B1%80%E7%B1%B2%E7%99%BB%E8%A8%98",
     "timestamp": "2026-11-12T16:45:03.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜英偉達利空出盡？郭明錤拆解接班震盪　Google成贏家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197157048433774592126984.jpeg/-IOIT6ebGWtUSBArVJUf4os2yeyN_2HESzMi50szIuc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410240/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E5%88%A9%E7%A9%BA%E5%87%BA%E7%9B%A1-%E9%83%AD%E6%98%8E%E9%8C%A4%E6%8B%86%E8%A7%A3%E6%8E%A5%E7%8F%AD%E9%9C%87%E7%9B%AA-google%E6%88%90%E8%B4%8F%E5%AE%B6",
-    "timestamp": "2026-11-12T16:34:06.404Z",
     "strategy": ".content-card__main"
   }
 ];
