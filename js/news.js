@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T07:45:25.269Z
+// Last updated: 2026-11-12T07:59:16.887Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA｜38歲居里今季場均28分鐘轟30分　效率超越10年前MVP賽季",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197555523516370944198543.jpeg/H1rx64k1e24r-FsWEpcqq4c9SFKN1VlrazbdrGs23aw?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60409978/nba-38%E6%AD%B2%E5%B1%85%E9%87%8C%E4%BB%8A%E5%AD%A3%E5%A0%B4%E5%9D%8728%E5%88%86%E9%90%98%E8%BD%9F30%E5%88%86-%E6%95%88%E7%8E%87%E8%B6%85%E8%B6%8A10%E5%B9%B4%E5%89%8Dmvp%E8%B3%BD%E5%AD%A3",
+    "timestamp": "2026-11-12T07:59:16.887Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "吃石榴能加速燃脂？解密超級食物3大消脂機制 運動前這樣吃最有效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197488853758251008539810.jpeg/jrSfSghkxPTLjJKB_M3m0aoT7C3QPs76FN9CUhTfQlI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60409834/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C%E5%85%AC%E4%BF%A1%E5%8A%9B%E5%8F%97%E9%87%8D%E6%8C%AB-%E4%B8%80%E5%A0%B4%E5%8F%AF%E8%83%BD%E8%A1%9D%E6%93%8A%E5%85%A8%E7%90%83%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E7%9A%84%E5%A9%9A%E5%A4%96%E6%83%85",
     "timestamp": "2026-11-12T01:59:05.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜傳英偉達已委託外部機構物色繼任人　白宮並未干預",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196881913348886528831625.jpeg/6GevrY03pLRx-930ht71dU8UOwo4XVp8c4TLxnOEy8Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409827/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%82%B3%E8%8B%B1%E5%81%89%E9%81%94%E5%B7%B2%E5%A7%94%E8%A8%97%E5%A4%96%E9%83%A8%E6%A9%9F%E6%A7%8B%E7%89%A9%E8%89%B2%E7%B9%BC%E4%BB%BB%E4%BA%BA-%E7%99%BD%E5%AE%AE%E4%B8%A6%E6%9C%AA%E5%B9%B2%E9%A0%90",
-    "timestamp": "2026-11-12T01:47:32.279Z",
     "strategy": ".content-card__main"
   }
 ];
