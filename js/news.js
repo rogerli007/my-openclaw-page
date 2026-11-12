@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T12:59:02.538Z
+// Last updated: 2026-11-12T13:19:55.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蕭景鴻出道24年圓夢發片　化身「阿鴻師」下廚令歌迷大喊幸福",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197600934985732096927614.jpeg/Cu_XjfeO2iaOBdw_JsscHADiehCzJOxBEJb1fRCW9X0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410127/%E8%95%AD%E6%99%AF%E9%B4%BB%E5%87%BA%E9%81%9324%E5%B9%B4%E5%9C%93%E5%A4%A2%E7%99%BC%E7%89%87-%E5%8C%96%E8%BA%AB-%E9%98%BF%E9%B4%BB%E5%B8%AB-%E4%B8%8B%E5%BB%9A%E4%BB%A4%E6%AD%8C%E8%BF%B7%E5%A4%A7%E5%96%8A%E5%B9%B8%E7%A6%8F",
+    "timestamp": "2026-11-12T13:19:55.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恬妞《嫁金釵》再翻紅　與萬梓良離婚30年堅持單身：一個人多逍遙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197267012837969920209816.jpeg/po25kr6cCx3ez_JqfTx7ArxHIBYJR6c5E455CBOOeQg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410006/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%BE%8E%E5%AA%92-%E5%BA%B7%E5%81%89%E7%AB%9F%E6%98%AF%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B5%90%E8%AD%98%E9%BB%83%E6%A8%82%E7%89%BD%E7%B7%9A%E4%BA%BA",
     "timestamp": "2026-11-12T06:50:33.953Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中大畢業禮｜盧煜明稱AI時代人類判斷力重要　寄語秉持目標和熱誠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197548262417502208319650.jpeg/gUbu0Q0Dzk6xkmy79ye_sfhX6VvBoxkzGVdJMTxXSTE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409979/%E4%B8%AD%E5%A4%A7%E7%95%A2%E6%A5%AD%E7%A6%AE-%E7%9B%A7%E7%85%9C%E6%98%8E%E7%A8%B1ai%E6%99%82%E4%BB%A3%E4%BA%BA%E9%A1%9E%E5%88%A4%E6%96%B7%E5%8A%9B%E9%87%8D%E8%A6%81-%E5%AF%84%E8%AA%9E%E7%A7%89%E6%8C%81%E7%9B%AE%E6%A8%99%E5%92%8C%E7%86%B1%E8%AA%A0",
-    "timestamp": "2026-11-12T06:28:20.644Z",
     "strategy": ".content-card__main"
   }
 ];
