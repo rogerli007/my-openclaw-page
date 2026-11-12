@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T02:59:09.525Z
+// Last updated: 2026-11-12T03:22:10.031Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "走過嚴重車禍失語失憶逆境重生　37歲影后Bar Belfer驟逝遺留幼女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197502235244761088637150.png/mUTtmePFR89dIWHS_Gt9-NKRugFhWnG4FN9R3RTfUd0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409879/%E8%B5%B0%E9%81%8E%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E5%A4%B1%E8%AA%9E%E5%A4%B1%E6%86%B6%E9%80%86%E5%A2%83%E9%87%8D%E7%94%9F-37%E6%AD%B2%E5%BD%B1%E5%90%8Ebar-belfer%E9%A9%9F%E9%80%9D%E9%81%BA%E7%95%99%E5%B9%BC%E5%A5%B3",
+    "timestamp": "2026-11-12T03:22:10.031Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG香港演唱會11.13入啟德體育園　政府籲勿坐非法跨境白牌車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186144071429656576752046.png/Mf1FK_7W2K3JW2j80p_9NjoYtbnZQrYXyMz3IcjM9yE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409807/%E9%81%AD%E6%B2%99%E7%89%B9%E6%94%94%E6%88%AA%E5%B0%8E%E5%BD%88%E5%8F%8A%E7%84%A1%E4%BA%BA%E6%A9%9F-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E5%90%A6%E8%AA%8D%E4%BB%A5%E9%BA%A5%E5%8A%A0%E7%82%BA%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-11-11T21:17:11.389Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華晚年移居溫哥華：享受孫兒圍繞的清閑退休生活",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195783104564826112305769.jpeg/Jj7IErvSfheai11cH-fND-mb90CRZln8JNLIIiTSyCI",
-    "url": "https://www.hk01.com/01TV/60408223/%E5%85%83%E8%8F%AF%E6%99%9A%E5%B9%B4%E7%A7%BB%E5%B1%85%E6%BA%AB%E5%93%A5%E8%8F%AF-%E4%BA%AB%E5%8F%97%E5%AD%AB%E5%85%92%E5%9C%8D%E7%B9%9E%E7%9A%84%E6%B8%85%E9%96%91%E9%80%80%E4%BC%91%E7%94%9F%E6%B4%BB",
-    "timestamp": "2026-11-11T20:20:07.732Z",
     "strategy": ".content-card__main"
   }
 ];
