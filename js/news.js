@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T07:21:45.143Z
+// Last updated: 2026-11-12T07:45:25.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吃石榴能加速燃脂？解密超級食物3大消脂機制 運動前這樣吃最有效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196420484804120576875249.jpeg/oOY1YqF_FiKdQ5s2AK6BYcjWWE8pSRx1w5LPfMOSz3w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60408489/%E5%90%83%E7%9F%B3%E6%A6%B4%E8%83%BD%E5%8A%A0%E9%80%9F%E7%87%83%E8%84%82-%E8%A7%A3%E5%AF%86%E8%B6%85%E7%B4%9A%E9%A3%9F%E7%89%A93%E5%A4%A7%E6%B6%88%E8%84%82%E6%A9%9F%E5%88%B6-%E9%81%8B%E5%8B%95%E5%89%8D%E9%80%99%E6%A8%A3%E5%90%83%E6%9C%80%E6%9C%89%E6%95%88",
+    "timestamp": "2026-11-12T07:45:25.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "半島酒店人氣抹茶拿鐵驚喜回歸！聖誕限定士多啤梨抹茶拿鐵登場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196881913348886528831625.jpeg/6GevrY03pLRx-930ht71dU8UOwo4XVp8c4TLxnOEy8Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60409827/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%82%B3%E8%8B%B1%E5%81%89%E9%81%94%E5%B7%B2%E5%A7%94%E8%A8%97%E5%A4%96%E9%83%A8%E6%A9%9F%E6%A7%8B%E7%89%A9%E8%89%B2%E7%B9%BC%E4%BB%BB%E4%BA%BA-%E7%99%BD%E5%AE%AE%E4%B8%A6%E6%9C%AA%E5%B9%B2%E9%A0%90",
     "timestamp": "2026-11-12T01:47:32.279Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山迎海兩房758萬蝕沽　高位接火棒輸逾一球　新盤向隅客接貨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196499107531722752029638.jpeg/N5edIdPypySH_Ph1sjEL_ZWQgJDKJJn2PUgXmz1IF5s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60408739/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E8%BF%8E%E6%B5%B7%E5%85%A9%E6%88%BF758%E8%90%AC%E8%9D%95%E6%B2%BD-%E9%AB%98%E4%BD%8D%E6%8E%A5%E7%81%AB%E6%A3%92%E8%BC%B8%E9%80%BE%E4%B8%80%E7%90%83-%E6%96%B0%E7%9B%A4%E5%90%91%E9%9A%85%E5%AE%A2%E6%8E%A5%E8%B2%A8",
-    "timestamp": "2026-11-12T01:21:22.881Z",
     "strategy": ".content-card__main"
   }
 ];
