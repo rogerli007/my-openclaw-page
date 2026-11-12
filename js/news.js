@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T20:19:58.267Z
+// Last updated: 2026-11-12T20:45:45.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG啟德演唱會｜30人通宵排隊等買周邊商品　女粉絲：無預算",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197766158288162816438975.jpeg/ddLbv0qohIwZYSaI-w07aeASjdHibWXpQqlcHnipXB4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410253/bigbang%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83-30%E4%BA%BA%E9%80%9A%E5%AE%B5%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7%E5%91%A8%E9%82%8A%E5%95%86%E5%93%81-%E5%A5%B3%E7%B2%89%E7%B5%B2-%E7%84%A1%E9%A0%90%E7%AE%97",
+    "timestamp": "2026-11-12T20:45:45.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘男子捱斬倒地遺血路　一度昏迷送院治理　警到場調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197685081133551616965381.jpeg/FRS5QxWv3A0DNU_7NxyVG58w34nnZHyIE6EguBOhILg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410234/%E6%97%BA%E8%A7%92%E6%AF%92%E5%93%81%E8%BB%8A%E8%A1%9D%E8%B7%AF%E9%9A%9C%E6%92%9E%E7%A7%81%E5%AE%B6%E8%BB%8A-%E5%86%8D%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%92%9E%E7%AB%B9%E6%A3%9A-%E5%9C%B0%E4%B8%8A%E9%81%BA%E5%A4%9A%E5%8C%85%E6%AF%92%E5%93%81",
     "timestamp": "2026-11-12T15:20:03.522Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "崇光百貨爆會員資料外泄涉姓名、電話等　私隱公署調查料涉82萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251015/1055072965923704832523981.jpeg/AVrPiqoTLlrWXsXF5V1Tz4RpzjGU9YcVP6-qtT-vqrU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410231/%E5%B4%87%E5%85%89%E7%99%BE%E8%B2%A8%E7%88%86%E6%9C%83%E5%93%A1%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84%E6%B6%89%E5%A7%93%E5%90%8D-%E9%9B%BB%E8%A9%B1%E7%AD%89-%E7%A7%81%E9%9A%B1%E5%85%AC%E7%BD%B2%E8%AA%BF%E6%9F%A5%E6%96%99%E6%B6%8982%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-11-12T14:59:10.964Z",
     "strategy": ".content-card__main"
   }
 ];
