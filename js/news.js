@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T04:22:00.718Z
+// Last updated: 2026-11-12T04:32:48.331Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜阿里巴巴瀉半成、邁5連跌　 分析稱或受累英偉達事件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193283853419024384416305.png/rK0Ji87sdPP8GXmy0b3Ay2GqKHCxjcOZrhoToq4aE6I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409944/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%80%89%E5%8D%8A%E6%88%90-%E9%82%815%E9%80%A3%E8%B7%8C-%E5%88%86%E6%9E%90%E7%A8%B1%E6%88%96%E5%8F%97%E7%B4%AF%E8%8B%B1%E5%81%89%E9%81%94%E4%BA%8B%E4%BB%B6",
+    "timestamp": "2026-11-12T04:32:48.331Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "渣打藝趣嘉年華2026是什麼？11.14睇夜光巡遊與4米高木偶封路安排",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197268163624964096138976.jpeg/c8E_xV-H4srh6EXOyYw5seKbAEdobLkTdsp_d3bKf3c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409678/%E6%9D%8E%E6%B7%BB%E5%8B%9D%E6%89%8B%E6%8C%81%E6%8B%90%E6%9D%96%E7%BD%95%E7%8F%BE%E8%BA%AB-%E6%8E%83%E8%A1%97%E8%8C%82-%E8%AE%8A%E9%87%91%E7%89%8C%E7%9B%A3%E8%A3%BD%E6%8D%A7%E7%B4%85%E5%91%A8%E6%BD%A4%E7%99%BC%E6%A2%81%E6%9C%9D%E5%81%89",
     "timestamp": "2026-11-11T22:45:13.796Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地健身室MMA｜女子亂扔啞鈴惹不滿　男客勸阻無果連揮2拳擊倒地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197235173880500224683059.jpeg/PRz9uTX9UIdw-5UcQjBmO1aMvRLtk1ZMMACBDDAAgQw",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409487/%E5%85%A7%E5%9C%B0%E5%81%A5%E8%BA%AB%E5%AE%A4mma-%E5%A5%B3%E5%AD%90%E4%BA%82%E6%89%94%E5%95%9E%E9%88%B4%E6%83%B9%E4%B8%8D%E6%BB%BF-%E7%94%B7%E5%AE%A2%E5%8B%B8%E9%98%BB%E7%84%A1%E6%9E%9C%E9%80%A3%E6%8F%AE2%E6%8B%B3%E6%93%8A%E5%80%92%E5%9C%B0",
-    "timestamp": "2026-11-11T22:19:32.921Z",
     "strategy": ".content-card__main"
   }
 ];
