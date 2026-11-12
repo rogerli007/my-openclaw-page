@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T15:45:33.797Z
+// Last updated: 2026-11-12T15:59:13.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "衛蘭Janice演唱會2026香港加位｜門票公售攻略＋連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260901/1171417393885351936028953.png/PXs0XdRi7qyWCZZIozLpF7aImU_H7XuVMirQkDIq0JA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60385563/%E8%A1%9B%E8%98%ADjanice%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E5%8A%A0%E4%BD%8D-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-11-12T15:59:13.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美商務部長被指阻撓對華晶片出口管制　特朗普：仍對其充滿信心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197584056141746176107289.png/l9i9I8tWg8BPKJEl5BhhAUdmZad4Jjzfxtzz2cbc89k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410045/%E5%B0%9A%E5%85%AC%E4%B8%BB-%E6%94%B6%E5%AE%98%E6%8A%B1%E6%86%BE-%E6%8F%AD-%E5%AB%81%E9%87%91%E9%87%B5-%E7%94%B0%E6%9B%A6%E8%96%87%E6%9B%BF%E5%AB%81%E5%AE%85%E9%AC%A5%E5%A4%A7%E5%8B%9D%E5%AD%9F%E5%AD%90%E7%BE%A9%E9%97%9C%E9%8D%B5",
     "timestamp": "2026-11-12T09:46:48.325Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜二號女主角已婚育2孩　丈夫為醫療技術專家",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197438611251793920053718.jpeg/Kwc_ZTsIgw3DFaucwQU3uxP4MNJs54WDiy7GIYsuxiE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410066/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E4%BA%8C%E8%99%9F%E5%A5%B3%E4%B8%BB%E8%A7%92kimberly-powell%E5%B7%B2%E5%A9%9A-%E4%B8%88%E5%A4%AB%E7%82%BA%E9%86%AB%E7%99%82%E5%B0%88%E5%AE%B6",
-    "timestamp": "2026-11-12T09:21:44.360Z",
     "strategy": ".content-card__main"
   }
 ];
