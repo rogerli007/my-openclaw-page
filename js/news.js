@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T14:20:49.364Z
+// Last updated: 2026-11-12T14:45:37.982Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "器官捐贈｜肺纖維化病人曾走10分鐘要回氣　移植肺臟後開心可行山",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197623450781356032430829.jpeg/UszJ4hcG2RvbNXOR0OOuDKtcnkVHePicNYs_TTWLP00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410189/%E5%99%A8%E5%AE%98%E6%8D%90%E8%B4%88-%E8%82%BA%E7%BA%96%E7%B6%AD%E5%8C%96%E7%97%85%E4%BA%BA%E6%9B%BE%E8%B5%B010%E5%88%86%E9%90%98%E8%A6%81%E5%9B%9E%E6%B0%A3-%E7%A7%BB%E6%A4%8D%E8%82%BA%E8%87%9F%E5%BE%8C%E9%96%8B%E5%BF%83%E5%8F%AF%E8%A1%8C%E5%B1%B1",
+    "timestamp": "2026-11-12T14:45:37.982Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "1600億跨境稅單落地：中國富豪面臨痛苦抉擇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197580569760763904260753.jpeg/efFaDHIPLSrELVNs3JxVusLu_VcQiw2BUkA0eFJANHg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410022/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E8%8B%B1%E5%81%89%E9%81%94%E7%88%86%E6%8E%A5%E7%8F%AD%E5%8D%B1%E6%A9%9F-%E5%82%B3%E9%83%A8%E4%BB%BD%E8%91%A3%E4%BA%8B%E5%82%BE%E5%90%91cfo%E6%9F%AF%E8%95%BE%E7%B5%B2%E6%9A%AB%E4%BB%A3ceo",
     "timestamp": "2026-11-12T08:24:17.912Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜38歲居里今季場均28分鐘轟30分　效率超越10年前MVP賽季",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197555523516370944198543.jpeg/H1rx64k1e24r-FsWEpcqq4c9SFKN1VlrazbdrGs23aw?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60409978/nba-38%E6%AD%B2%E5%B1%85%E9%87%8C%E4%BB%8A%E5%AD%A3%E5%A0%B4%E5%9D%8728%E5%88%86%E9%90%98%E8%BD%9F30%E5%88%86-%E6%95%88%E7%8E%87%E8%B6%85%E8%B6%8A10%E5%B9%B4%E5%89%8Dmvp%E8%B3%BD%E5%AD%A3",
-    "timestamp": "2026-11-12T07:59:16.887Z",
     "strategy": ".content-card__main"
   }
 ];
