@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T02:23:51.428Z
+// Last updated: 2026-11-12T02:35:35.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "三代同糖｜吳若希告別劇組引角色變動 關曜儁爆心情忐忑急問監製",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197334251209494528129435.jpeg/6O8O83Znh5q7I9H_xGDN7b3sUHfZtKGRZonfK1yJ3ys?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409791/%E4%B8%89%E4%BB%A3%E5%90%8C%E7%B3%96-%E5%90%B3%E8%8B%A5%E5%B8%8C%E5%91%8A%E5%88%A5%E5%8A%87%E7%B5%84%E5%BC%95%E8%A7%92%E8%89%B2%E8%AE%8A%E5%8B%95-%E9%97%9C%E6%9B%9C%E5%84%81%E7%88%86%E5%BF%83%E6%83%85%E5%BF%90%E5%BF%91%E6%80%A5%E5%95%8F%E7%9B%A3%E8%A3%BD",
+    "timestamp": "2026-11-12T02:35:35.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜紐時：英偉達內部早有議論其與下屬發展婚外情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197393449398046720785269.jpeg/IYv1TYfgIp-SKo5lKoHzcEKaoyw_jU9I-gfqCcAH6gk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409806/%E6%B2%99%E7%94%B0%E5%A5%B3%E5%AD%90%E5%B1%8B%E5%85%A7%E6%9A%88%E5%80%92-%E6%AF%8D%E8%A6%AA%E5%A0%B1%E6%A1%88%E6%B1%82%E5%8A%A9-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-11-11T19:59:03.251Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙田女子屋內暈倒　母親報案求助　送院搶救不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197393449398046720785269.jpeg/IYv1TYfgIp-SKo5lKoHzcEKaoyw_jU9I-gfqCcAH6gk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409806/%E6%B2%99%E7%94%B0%E5%A5%B3%E5%AD%90%E5%B1%8B%E5%85%A7%E6%9A%88%E5%80%92-%E6%AF%8D%E8%A6%AA%E5%A0%B1%E6%A1%88%E6%B1%82%E5%8A%A9-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-11-11T19:45:07.302Z",
     "strategy": ".content-card__main"
   }
 ];
