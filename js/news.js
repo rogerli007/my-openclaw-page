@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T15:20:03.522Z
+// Last updated: 2026-11-12T15:45:33.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美商務部長被指阻撓對華晶片出口管制　特朗普：仍對其充滿信心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260418/1122205158214733824957348.jpeg/u_6WbZnCQTqQ9sG6a9JKYqvs_WgujQMaVIaRBFSGkQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410236/%E7%BE%8E%E5%95%86%E5%8B%99%E9%83%A8%E9%95%B7%E8%A2%AB%E6%8C%87%E9%98%BB%E6%92%93%E5%B0%8D%E8%8F%AF%E6%99%B6%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%8D%E5%B0%8D%E5%85%B6%E5%85%85%E6%BB%BF%E4%BF%A1%E5%BF%83",
+    "timestamp": "2026-11-12T15:45:33.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角毒品車衝路障撞私家車　再剷行人路撞竹棚　地上遺多包毒品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197438611251793920053718.jpeg/Kwc_ZTsIgw3DFaucwQU3uxP4MNJs54WDiy7GIYsuxiE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410066/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E4%BA%8C%E8%99%9F%E5%A5%B3%E4%B8%BB%E8%A7%92kimberly-powell%E5%B7%B2%E5%A9%9A-%E4%B8%88%E5%A4%AB%E7%82%BA%E9%86%AB%E7%99%82%E5%B0%88%E5%AE%B6",
     "timestamp": "2026-11-12T09:21:44.360Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SHINee泰民智利開唱滿場狂奔喊：我是女生！經紀人落台揭爆笑真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197522710092058624462019.png/szght0LbWIuDBtZiiviBdXZYuARSWwFlwMHqFcDB6hU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409915/shinee%E6%B3%B0%E6%B0%91%E6%99%BA%E5%88%A9%E9%96%8B%E5%94%B1%E6%BB%BF%E5%A0%B4%E7%8B%82%E5%A5%94%E5%96%8A-%E6%88%91%E6%98%AF%E5%A5%B3%E7%94%9F-%E7%B6%93%E7%B4%80%E4%BA%BA%E8%90%BD%E5%8F%B0%E6%8F%AD%E7%88%86%E7%AC%91%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-11-12T08:59:12.717Z",
     "strategy": ".content-card__main"
   }
 ];
