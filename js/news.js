@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T12:39:53.420Z
+// Last updated: 2026-11-12T12:59:02.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恬妞《嫁金釵》再翻紅　與萬梓良離婚30年堅持單身：一個人多逍遙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197602559510974464794251.png/8_WMrkSid8iwumW3H1jx9wsP-jhCF33gKNWeeyjVnns?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410106/%E6%81%AC%E5%A6%9E-%E5%AB%81%E9%87%91%E9%87%B5-%E5%86%8D%E7%BF%BB%E7%B4%85-%E8%88%87%E8%90%AC%E6%A2%93%E8%89%AF%E9%9B%A2%E5%A9%9A30%E5%B9%B4%E5%A0%85%E6%8C%81%E5%96%AE%E8%BA%AB-%E4%B8%80%E5%80%8B%E4%BA%BA%E5%A4%9A%E9%80%8D%E9%81%99",
+    "timestamp": "2026-11-12T12:59:02.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周慧賢案　被告認新女友大他15歲　曾收對方5萬回520元表達我愛你",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197548262417502208319650.jpeg/gUbu0Q0Dzk6xkmy79ye_sfhX6VvBoxkzGVdJMTxXSTE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409979/%E4%B8%AD%E5%A4%A7%E7%95%A2%E6%A5%AD%E7%A6%AE-%E7%9B%A7%E7%85%9C%E6%98%8E%E7%A8%B1ai%E6%99%82%E4%BB%A3%E4%BA%BA%E9%A1%9E%E5%88%A4%E6%96%B7%E5%8A%9B%E9%87%8D%E8%A6%81-%E5%AF%84%E8%AA%9E%E7%A7%89%E6%8C%81%E7%9B%AE%E6%A8%99%E5%92%8C%E7%86%B1%E8%AA%A0",
     "timestamp": "2026-11-12T06:28:20.644Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台下調11.20市區氣溫至最低18度　冷鋒前周日維港泳上水30度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196868107269050368037952.jpeg/WzXEu4HTz8m4SD4qUldMx8rFm_ZknvDe3ALHhvkCx4Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60409959/%E5%A4%A9%E6%96%87%E5%8F%B0%E4%B8%8B%E8%AA%BF11-20%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E8%87%B3%E6%9C%80%E4%BD%8E18%E5%BA%A6-%E5%86%B7%E9%8B%92%E5%89%8D%E5%91%A8%E6%97%A5%E7%B6%AD%E6%B8%AF%E6%B3%B3%E4%B8%8A%E6%B0%B430%E5%BA%A6",
-    "timestamp": "2026-11-12T05:59:18.214Z",
     "strategy": ".content-card__main"
   }
 ];
