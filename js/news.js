@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T12:25:17.341Z
+// Last updated: 2026-11-12T12:39:53.420Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周慧賢案　被告認新女友大他15歲　曾收對方5萬回520元表達我愛你",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194012137656160256724109.jpeg/_WcjmQCGzB84vlwzBNCpoX9d0wAqngZFEe31MjTt9TI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410208/%E5%91%A8%E6%85%A7%E8%B3%A2%E6%A1%88-%E8%A2%AB%E5%91%8A%E8%AA%8D%E6%96%B0%E5%A5%B3%E5%8F%8B%E5%A4%A7%E4%BB%9615%E6%AD%B2-%E6%9B%BE%E6%94%B6%E5%B0%8D%E6%96%B95%E8%90%AC%E5%9B%9E520%E5%85%83%E8%A1%A8%E9%81%94%E6%88%91%E6%84%9B%E4%BD%A0",
+    "timestamp": "2026-11-12T12:39:53.420Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港大展聘新校長程序2028年接替卸任張翔　林天福任物色委員會主席",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196868107269050368037952.jpeg/WzXEu4HTz8m4SD4qUldMx8rFm_ZknvDe3ALHhvkCx4Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60409959/%E5%A4%A9%E6%96%87%E5%8F%B0%E4%B8%8B%E8%AA%BF11-20%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E8%87%B3%E6%9C%80%E4%BD%8E18%E5%BA%A6-%E5%86%B7%E9%8B%92%E5%89%8D%E5%91%A8%E6%97%A5%E7%B6%AD%E6%B8%AF%E6%B3%B3%E4%B8%8A%E6%B0%B430%E5%BA%A6",
     "timestamp": "2026-11-12T05:59:18.214Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIG BANG啟德演唱會入場指南｜一文看清周邊商品、入場和交通安排",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538515630428160012856.jpeg/u1woqVAq59pLDXeGA92rhXlIdBG2Cc6SugmMo7oJjKM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409968/big-bang%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83%E5%85%A5%E5%A0%B4%E6%8C%87%E5%8D%97-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%91%A8%E9%82%8A%E5%95%86%E5%93%81-%E5%85%A5%E5%A0%B4%E5%92%8C%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92",
-    "timestamp": "2026-11-12T05:44:51.114Z",
     "strategy": ".content-card__main"
   }
 ];
