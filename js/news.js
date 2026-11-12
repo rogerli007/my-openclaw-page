@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T11:59:02.824Z
+// Last updated: 2026-11-12T12:25:17.341Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港大展聘新校長程序2028年接替卸任張翔　林天福任物色委員會主席",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250911/1042830734907150336834516.jpeg/4CinUppKgSACFW5h3LIz15wl3LhV15o2qdA6PanQOj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410207/%E6%B8%AF%E5%A4%A7%E5%B1%95%E8%81%98%E6%96%B0%E6%A0%A1%E9%95%B7%E7%A8%8B%E5%BA%8F2028%E5%B9%B4%E6%8E%A5%E6%9B%BF%E5%8D%B8%E4%BB%BB%E5%BC%B5%E7%BF%94-%E6%9E%97%E5%A4%A9%E7%A6%8F%E4%BB%BB%E7%89%A9%E8%89%B2%E5%A7%94%E5%93%A1%E6%9C%83%E4%B8%BB%E5%B8%AD",
+    "timestamp": "2026-11-12T12:25:17.341Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔬菜保鮮｜番茄倒轉防脫水？蘆筍直立放更甜？蔬菜延長保鮮5方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538515630428160012856.jpeg/u1woqVAq59pLDXeGA92rhXlIdBG2Cc6SugmMo7oJjKM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409968/big-bang%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83%E5%85%A5%E5%A0%B4%E6%8C%87%E5%8D%97-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E5%91%A8%E9%82%8A%E5%95%86%E5%93%81-%E5%85%A5%E5%A0%B4%E5%92%8C%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92",
     "timestamp": "2026-11-12T05:44:51.114Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "朱智賢翻舊帳暗指謝東閔偷食在先　網民怒轟：好似自己被迫咁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197518091576152064942351.jpeg/ByOy7bj-QYIRkC4vOVHauFYAoTCoI8XRfpAFyX6QBck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409923/%E6%9C%B1%E6%99%BA%E8%B3%A2%E7%BF%BB%E8%88%8A%E5%B8%B3%E6%9A%97%E6%8C%87%E8%AC%9D%E6%9D%B1%E9%96%94%E5%81%B7%E9%A3%9F%E5%9C%A8%E5%85%88-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F-%E5%A5%BD%E4%BC%BC%E8%87%AA%E5%B7%B1%E8%A2%AB%E8%BF%AB%E5%92%81",
-    "timestamp": "2026-11-12T05:20:37.843Z",
     "strategy": ".content-card__main"
   }
 ];
