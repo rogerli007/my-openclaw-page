@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-12T11:45:20.476Z
+// Last updated: 2026-11-12T11:59:02.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔬菜保鮮｜番茄倒轉防脫水？蘆筍直立放更甜？蔬菜延長保鮮5方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197637708059512832153829.jpeg/wDTd4OtsdMxF60dKVAWU1B318rJDsVAHSz2Y5Es9mOQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60410173/%E8%94%AC%E8%8F%9C%E4%BF%9D%E9%AE%AE-%E7%95%AA%E8%8C%84%E5%80%92%E8%BD%89%E9%98%B2%E8%84%AB%E6%B0%B4-%E8%98%86%E7%AD%8D%E7%9B%B4%E7%AB%8B%E6%94%BE%E6%9B%B4%E7%94%9C-%E8%94%AC%E8%8F%9C%E5%BB%B6%E9%95%B7%E4%BF%9D%E9%AE%AE5%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-11-12T11:59:02.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樂風集團旗下食肆公司被指欠439萬　周佩賢等被追439萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197518091576152064942351.jpeg/ByOy7bj-QYIRkC4vOVHauFYAoTCoI8XRfpAFyX6QBck?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409923/%E6%9C%B1%E6%99%BA%E8%B3%A2%E7%BF%BB%E8%88%8A%E5%B8%B3%E6%9A%97%E6%8C%87%E8%AC%9D%E6%9D%B1%E9%96%94%E5%81%B7%E9%A3%9F%E5%9C%A8%E5%85%88-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F-%E5%A5%BD%E4%BC%BC%E8%87%AA%E5%B7%B1%E8%A2%AB%E8%BF%AB%E5%92%81",
     "timestamp": "2026-11-12T05:20:37.843Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍城滙豐銀行現假「大牛」　警檢走$2500調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197531036452392960695074.jpeg/InGHJcwgLC7Mm03PpF8Esn5B6MadLfzSzP6tpsz-raY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60409953/%E4%B9%9D%E9%BE%8D%E5%9F%8E%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C%E7%8F%BE%E5%81%87-%E5%A4%A7%E7%89%9B-%E8%AD%A6%E6%AA%A2%E8%B5%B0-2500%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-12T05:00:39.911Z",
     "strategy": ".content-card__main"
   }
 ];
