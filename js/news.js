@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-11T23:59:17.726Z
+// Last updated: 2026-11-12T00:38:25.255Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傳俞可程妒忌爭寵驚動高層　何沛珈親解假帳號抹黑背後真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197269222833524736327195.jpeg/JwJEwUSRGLAuH461yL3bfe5Dshot8IL6k2OWYqljlmI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409754/%E5%82%B3%E4%BF%9E%E5%8F%AF%E7%A8%8B%E5%A6%92%E5%BF%8C%E7%88%AD%E5%AF%B5%E9%A9%9A%E5%8B%95%E9%AB%98%E5%B1%A4-%E4%BD%95%E6%B2%9B%E7%8F%88%E8%A6%AA%E8%A7%A3%E5%81%87%E5%B8%B3%E8%99%9F%E6%8A%B9%E9%BB%91%E8%83%8C%E5%BE%8C%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-11-12T00:38:25.255Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺一鳴路單車捱私家車撞壓車底　男騎手擦傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261107/1195781104208973824498107.jpeg/PUuESvz6TJRhmMhRapBeQc5QlIa7Z6RVGQmv2RkJr9k",
     "url": "https://www.hk01.com/01TV/60408219/%E5%85%83%E8%8F%AF%E7%88%86%E6%8B%8Dtvb%E5%8A%87%E5%B4%A9%E6%BD%B0%E6%97%A5%E5%B8%B8-%E5%B0%8D%E7%99%BD%E6%A5%B5%E5%A4%9A-%E7%89%87%E5%A0%B4%E7%BD%95%E8%A6%8B%E7%99%BC%E7%81%AB%E7%94%A9%E9%A0%AD%E5%A5%97",
     "timestamp": "2026-11-11T18:20:45.515Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "猴痘｜26歲男確診　潛伏期內曾與社交App結識男子性接觸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1186854639698448384047613.jpeg/75OcYmXkfhyj2Eu0p8elHLMARWYtSCkkBxMUBwcTFAc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60409797/%E7%8C%B4%E7%97%98-26%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E6%9B%BE%E8%88%87%E7%A4%BE%E4%BA%A4app%E7%B5%90%E8%AD%98%E7%94%B7%E5%AD%90%E6%80%A7%E6%8E%A5%E8%A7%B8",
-    "timestamp": "2026-11-11T17:59:08.437Z",
     "strategy": ".content-card__main"
   }
 ];
