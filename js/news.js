@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T14:45:24.394Z
+// Last updated: 2026-11-13T14:59:12.430Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡楓華洗脫污名合體翁靜晶講奇案　亮2005年口供自證：講唔出大話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198006012737490944205361.jpeg/OODpLh4WBJMy2cL-R2mYxuKCsDjRz1pwm-aVRZvmlUU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410617/%E8%94%A1%E6%A5%93%E8%8F%AF%E6%B4%97%E8%84%AB%E6%B1%A1%E5%90%8D%E5%90%88%E9%AB%94%E7%BF%81%E9%9D%9C%E6%99%B6%E8%AC%9B%E5%A5%87%E6%A1%88-%E4%BA%AE2005%E5%B9%B4%E5%8F%A3%E4%BE%9B%E8%87%AA%E8%AD%89-%E8%AC%9B%E5%94%94%E5%87%BA%E5%A4%A7%E8%A9%B1",
+    "timestamp": "2026-11-13T14:59:12.430Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG演唱會｜香港站開鑼GD型爆登場　太陽大聲用廣東話打招呼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183761313516490752843706.jpeg/oo_ZOBYwXbU3mBbFzyNWiyjuXfr3m5RLbT6GJW0-hiU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60360703/%E5%AE%B9%E7%A5%96%E5%85%92%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%85%AC%E9%96%8B%E7%99%BC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-11-13T08:35:41.565Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃錦公路法籍漢擲硬物毀寶馬私家車　警查天眼鎖定身份機場拉人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197944864432459776974251.jpeg/hEc5Xr3ObQgjlyl9Nh1DY5-UxnnDQrw0aoP-uGqD_rg",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410502/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E6%B3%95%E7%B1%8D%E6%BC%A2%E6%93%B2%E7%A1%AC%E7%89%A9%E6%AF%80%E5%AF%B6%E9%A6%AC%E7%A7%81%E5%AE%B6%E8%BB%8A-%E8%AD%A6%E6%9F%A5%E5%A4%A9%E7%9C%BC%E9%8E%96%E5%AE%9A%E8%BA%AB%E4%BB%BD%E6%A9%9F%E5%A0%B4%E6%8B%89%E4%BA%BA",
-    "timestamp": "2026-11-13T08:23:39.957Z",
     "strategy": ".content-card__main"
   }
 ];
