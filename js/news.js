@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T09:58:59.361Z
+// Last updated: 2026-11-13T10:29:36.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北都｜洪水橋現代物流圈截收16份意向書　來自發展商、物流營運商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164629370157928448179852.jpeg/CQrY39LGfYTUa0jHIag8X2X5oz7hhp8LbWgRHm1oER4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60410582/%E5%8C%97%E9%83%BD-%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%8F%BE%E4%BB%A3%E7%89%A9%E6%B5%81%E5%9C%88%E6%88%AA%E6%94%B616%E4%BB%BD%E6%84%8F%E5%90%91%E6%9B%B8-%E4%BE%86%E8%87%AA%E7%99%BC%E5%B1%95%E5%95%86-%E7%89%A9%E6%B5%81%E7%87%9F%E9%81%8B%E5%95%86",
+    "timestamp": "2026-11-13T10:29:36.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "啤酒支裝長頸有何用？以為是造型就錯了！釀酒專家揭3關鍵防變苦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197871495947227136539164.jpeg/jnIifUR1OGyGKHW34J8Ef2pj_lSkLXxX0xioK9MYqCs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60410255/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%92%90%E5%AD%90%E5%A5%B3%E8%BF%BD%E5%A4%A2%E5%A5%B3%E5%85%92%E6%9B%BE%E5%9B%A0%E4%B8%80%E5%8F%A5%E8%A9%B1%E6%94%B9%E8%AE%80%E7%83%B9%E9%A3%AA-%E7%95%B6%E5%BB%9A%E5%B8%AB%E8%B5%B4%E8%97%8D%E5%B8%B6%E5%AD%B8%E9%99%A2%E9%80%B2%E4%BF%AE",
     "timestamp": "2026-11-13T03:45:27.252Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柴灣興華邨血案｜31歲男疑屢被罵失業擸雙刀追斬　母頭頸傷入ICU",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197868566410432512632091.png/2MMFOSX5jyS86wJCwQnt3rCm4TdQs9CNrFbjVqxW41Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410327/%E6%9F%B4%E7%81%A3%E8%88%88%E8%8F%AF%E9%82%A8%E8%A1%80%E6%A1%88-31%E6%AD%B2%E7%94%B7%E7%96%91%E5%B1%A2%E8%A2%AB%E7%BD%B5%E5%A4%B1%E6%A5%AD%E6%93%B8%E9%9B%99%E5%88%80%E8%BF%BD%E6%96%AC-%E6%AF%8D%E9%A0%AD%E9%A0%B8%E5%82%B7%E5%85%A5icu",
-    "timestamp": "2026-11-13T03:33:36.639Z",
     "strategy": ".content-card__main"
   }
 ];
