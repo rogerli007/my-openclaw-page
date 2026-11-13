@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T12:24:19.024Z
+// Last updated: 2026-11-13T12:38:30.542Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羅艷卿盛傳坐擁半條街物業及商廈　自認孤寒：借一毫子都冇得傾",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197970576354840576016543.jpeg/KMknyzcMBp9Gai_MHFxl0Xb2IJfQeZ5Za3ugrWt7oK0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410399/%E7%BE%85%E8%89%B7%E5%8D%BF%E7%9B%9B%E5%82%B3%E5%9D%90%E6%93%81%E5%8D%8A%E6%A2%9D%E8%A1%97%E7%89%A9%E6%A5%AD%E5%8F%8A%E5%95%86%E5%BB%88-%E8%87%AA%E8%AA%8D%E5%AD%A4%E5%AF%92-%E5%80%9F%E4%B8%80%E6%AF%AB%E5%AD%90%E9%83%BD%E5%86%87%E5%BE%97%E5%82%BE",
+    "timestamp": "2026-11-13T12:38:30.542Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "驚悚畫面!男子大樓高空走鋼線？ 廣西百色學院：教練測試扁帶運動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197900950287683584658034.jpeg/LVBkNWpc5IZ0lgNqMruzEURvxPxZViI7aSGsFmkhrBY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410280/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E9%AB%98%E8%81%B2%E8%AC%9B%E8%A9%B1%E9%81%AD%E5%93%A8%E5%85%B5%E5%96%9D%E6%AD%A2-%E5%8F%8D%E9%A0%92%E8%A1%A8%E6%8F%9A%E5%A5%AC%E7%AB%A0%E8%AE%9A-%E5%81%9A%E5%BE%97%E5%A5%BD",
     "timestamp": "2026-11-13T05:45:33.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "PokeFest 3萬呎卡展D2舉行｜01空間獨家預售通行證提早2小時進場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197901053555642368871539.jpeg/4UVuSavG4St5WOLSNf3uNuKEf2di-yfGtKDFz7Sgxc8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60406116/pokefest-3%E8%90%AC%E5%91%8E%E5%8D%A1%E5%B1%95d2%E8%88%89%E8%A1%8C-01%E7%A9%BA%E9%96%93%E7%8D%A8%E5%AE%B6%E9%A0%90%E5%94%AE%E9%80%9A%E8%A1%8C%E8%AD%89%E6%8F%90%E6%97%A92%E5%B0%8F%E6%99%82%E9%80%B2%E5%A0%B4",
-    "timestamp": "2026-11-13T05:20:30.987Z",
     "strategy": ".content-card__main"
   }
 ];
