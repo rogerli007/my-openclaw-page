@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T19:18:36.231Z
+// Last updated: 2026-11-13T19:29:14.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲五國將參與下輪俄烏會談　美方指已就歐洲安全架構問題展磋商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187951703438135296253140.jpeg/pfDnT_5Qxh6EsNTpu74mJyIvySTZ5Vb-6lseX-pbHl8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410662/%E6%AD%90%E6%B4%B2%E4%BA%94%E5%9C%8B%E5%B0%87%E5%8F%83%E8%88%87%E4%B8%8B%E8%BC%AA%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87-%E7%BE%8E%E6%96%B9%E6%8C%87%E5%B7%B2%E5%B0%B1%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%A7%8B%E5%95%8F%E9%A1%8C%E5%B1%95%E7%A3%8B%E5%95%86",
+    "timestamp": "2026-11-13T19:29:14.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲五國將參與下輪俄烏會談　美方指已就歐洲安全架構問題展磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197922944529993728307945.png/Z_f0wXdPV3z0BtlGLLb2tLVkSAhfdbU0bal_b22pf28?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410391/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E7%AC%AC6%E9%9B%86%E7%88%86%E8%BA%AB%E4%B8%96-%E6%9D%8E%E4%B8%96%E6%A6%AE%E5%85%A5%E5%AE%AE%E5%89%8D%E8%82%B2%E4%B8%80%E5%AD%90-%E6%B7%AA%E5%BE%8C%E5%AE%AE%E4%B8%8A%E4%BD%8D%E8%A8%88%E6%99%82%E7%82%B8%E5%BD%88",
     "timestamp": "2026-11-13T13:19:55.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港交所12.14推數碼港元交按金　夜期支付延至凌晨1時半",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197977122287652864325894.jpeg/ug99W5cve5hU-vy4EGbgSxmagC4odZEKLiyXqy4sl6s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410583/%E6%B8%AF%E4%BA%A4%E6%89%8012-14%E6%8E%A8%E6%95%B8%E7%A2%BC%E6%B8%AF%E5%85%83%E4%BA%A4%E6%8C%89%E9%87%91-%E5%A4%9C%E6%9C%9F%E6%94%AF%E4%BB%98%E5%BB%B6%E8%87%B3%E5%87%8C%E6%99%A81%E6%99%82%E5%8D%8A",
-    "timestamp": "2026-11-13T12:59:12.052Z",
     "strategy": ".content-card__main"
   }
 ];
