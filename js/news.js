@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T07:59:01.623Z
+// Last updated: 2026-11-13T08:23:39.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃錦公路法籍漢擲硬物毀寶馬私家車　警查天眼鎖定身份機場拉人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197944864432459776974251.jpeg/hEc5Xr3ObQgjlyl9Nh1DY5-UxnnDQrw0aoP-uGqD_rg",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410502/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E6%B3%95%E7%B1%8D%E6%BC%A2%E6%93%B2%E7%A1%AC%E7%89%A9%E6%AF%80%E5%AF%B6%E9%A6%AC%E7%A7%81%E5%AE%B6%E8%BB%8A-%E8%AD%A6%E6%9F%A5%E5%A4%A9%E7%9C%BC%E9%8E%96%E5%AE%9A%E8%BA%AB%E4%BB%BD%E6%A9%9F%E5%A0%B4%E6%8B%89%E4%BA%BA",
+    "timestamp": "2026-11-13T08:23:39.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜鄺港傑稱廚房見青紅蘿蔔　垃圾有湯渣及類似豬骨咁嘅嘢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108413007123451904796058.jpeg/pAsCJ0mBjF6ZJbpvm_ClEagabEqhTna7-_fZOfv32Tk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410279/%E6%96%B0%E4%B8%96%E7%95%8C0017%E5%81%9C%E7%89%8C-%E5%A4%96%E9%9B%BB%E7%A8%B1%E8%80%83%E6%85%AE%E4%BE%9B%E8%82%A1%E7%B1%8C%E6%9C%80%E5%A4%9A250%E5%84%84-%E6%84%8F%E5%91%B3-%E4%B8%80%E4%BE%9B%E4%BA%8C",
     "timestamp": "2026-11-13T01:59:12.560Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪麗醫院壞𨋢｜郭芙蓉批不可思議　甯漢豪答政府監管制度有板有眼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193902621207826432761358.png/WZ3tlIDObKfLRt2SEkmA7C5be17YBHfkLIDklAmA5JQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410264/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E9%83%AD%E8%8A%99%E8%93%89%E6%89%B9%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0-%E7%94%AF%E6%BC%A2%E8%B1%AA%E7%AD%94%E6%94%BF%E5%BA%9C%E7%9B%A3%E7%AE%A1%E5%88%B6%E5%BA%A6%E6%9C%89%E6%9D%BF%E6%9C%89%E7%9C%BC",
-    "timestamp": "2026-11-13T01:48:02.963Z",
     "strategy": ".content-card__main"
   }
 ];
