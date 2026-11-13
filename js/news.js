@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T07:45:50.178Z
+// Last updated: 2026-11-13T07:59:01.623Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜鄺港傑稱廚房見青紅蘿蔔　垃圾有湯渣及類似豬骨咁嘅嘢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187114276620341248358706.jpeg/-J7F2l069nBgAO9W-bOl1J7eznLIlfygUQ7uE1EO7hM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410462/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E5%82%91%E7%A8%B1%E5%BB%9A%E6%88%BF%E8%A6%8B%E9%9D%92%E7%B4%85%E8%98%BF%E8%94%94-%E5%9E%83%E5%9C%BE%E6%9C%89%E6%B9%AF%E6%B8%A3%E5%8F%8A%E9%A1%9E%E4%BC%BC%E8%B1%AC%E9%AA%A8%E5%92%81%E5%98%85%E5%98%A2",
+    "timestamp": "2026-11-13T07:59:01.623Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "強積金修例草案刊憲　擬引入兩級附加費機制　增僱主拖供款阻嚇力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193902621207826432761358.png/WZ3tlIDObKfLRt2SEkmA7C5be17YBHfkLIDklAmA5JQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410264/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E9%83%AD%E8%8A%99%E8%93%89%E6%89%B9%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0-%E7%94%AF%E6%BC%A2%E8%B1%AA%E7%AD%94%E6%94%BF%E5%BA%9C%E7%9B%A3%E7%AE%A1%E5%88%B6%E5%BA%A6%E6%9C%89%E6%9D%BF%E6%9C%89%E7%9C%BC",
     "timestamp": "2026-11-13T01:48:02.963Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "清代科舉考生困3尺闊號舍　屈膝吃睡捱三天　近廁所崩潰│歷史奇趣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197737914918768640164532.png/1ExtQErhADr7n8XpE1lzSTzcjgXC18RXnWt86J1rfOg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405780/%E6%B8%85%E4%BB%A3%E7%A7%91%E8%88%89%E8%80%83%E7%94%9F%E5%9B%B03%E5%B0%BA%E9%97%8A%E8%99%9F%E8%88%8D-%E5%B1%88%E8%86%9D%E5%90%83%E7%9D%A1%E6%8D%B1%E4%B8%89%E5%A4%A9-%E8%BF%91%E5%BB%81%E6%89%80%E5%B4%A9%E6%BD%B0-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
-    "timestamp": "2026-11-13T01:20:13.763Z",
     "strategy": ".content-card__main"
   }
 ];
