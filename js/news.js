@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T02:45:56.213Z
+// Last updated: 2026-11-13T02:59:21.756Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉歡並非「不死癌症」奪命　秘抗膀胱癌14年　遺孀淚灑8千字長文",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197861655552200704653489.jpeg/eReX0jnoMLuHdcisbitLeXti54yuDNx5UB899VAfPfU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60410298/%E5%8A%89%E6%AD%A1%E4%B8%A6%E9%9D%9E-%E4%B8%8D%E6%AD%BB%E7%99%8C%E7%97%87-%E5%A5%AA%E5%91%BD-%E7%A7%98%E6%8A%97%E8%86%80%E8%83%B1%E7%99%8C14%E5%B9%B4-%E9%81%BA%E5%AD%80%E6%B7%9A%E7%81%918%E5%8D%83%E5%AD%97%E9%95%B7%E6%96%87",
+    "timestamp": "2026-11-13T02:59:21.756Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜英偉達V彈有救？　Fund佬拆局　黃國英一原因戒抄底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197749258174861312612970.jpeg/yLBfpV15Azs7yR7rX1OsR8afZYu-_Xo30QyDQOsMg0A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410252/%E8%A7%80%E5%A1%98%E7%94%B7%E5%AD%90%E6%8D%B1%E6%96%AC%E5%80%92%E5%9C%B0%E9%81%BA%E8%A1%80%E8%B7%AF-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-12T20:19:58.267Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘男子捱斬倒地遺血路　一度昏迷送院治理　警到場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197749258174861312612970.jpeg/yLBfpV15Azs7yR7rX1OsR8afZYu-_Xo30QyDQOsMg0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410252/%E8%A7%80%E5%A1%98%E7%94%B7%E5%AD%90%E6%8D%B1%E6%96%AC%E5%80%92%E5%9C%B0%E9%81%BA%E8%A1%80%E8%B7%AF-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-12T19:58:53.581Z",
     "strategy": ".content-card__main"
   }
 ];
