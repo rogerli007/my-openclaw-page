@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T11:59:11.178Z
+// Last updated: 2026-11-13T12:24:19.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "驚悚畫面!男子大樓高空走鋼線？ 廣西百色學院：教練測試扁帶運動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197982371916288000328904.png/k1sfcEEl-Qe_O4bRt_bcBimpSNtpqY5Bo7_yWqO_8lo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60410599/%E9%A9%9A%E6%82%9A%E7%95%AB%E9%9D%A2-%E7%94%B7%E5%AD%90%E5%A4%A7%E6%A8%93%E9%AB%98%E7%A9%BA%E8%B5%B0%E9%8B%BC%E7%B7%9A-%E5%BB%A3%E8%A5%BF%E7%99%BE%E8%89%B2%E5%AD%B8%E9%99%A2-%E6%95%99%E7%B7%B4%E6%B8%AC%E8%A9%A6%E6%89%81%E5%B8%B6%E9%81%8B%E5%8B%95",
+    "timestamp": "2026-11-13T12:24:19.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗大陂頭徑五旬漢隨女子上樓按摩　失$5萬金鏈報警求助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197901053555642368871539.jpeg/4UVuSavG4St5WOLSNf3uNuKEf2di-yfGtKDFz7Sgxc8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60406116/pokefest-3%E8%90%AC%E5%91%8E%E5%8D%A1%E5%B1%95d2%E8%88%89%E8%A1%8C-01%E7%A9%BA%E9%96%93%E7%8D%A8%E5%AE%B6%E9%A0%90%E5%94%AE%E9%80%9A%E8%A1%8C%E8%AD%89%E6%8F%90%E6%97%A92%E5%B0%8F%E6%99%82%E9%80%B2%E5%A0%B4",
     "timestamp": "2026-11-13T05:20:30.987Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Roger Dubuis 湖中仙子山楂花腕錶登場！微雕珍珠貝母售69萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196796801374490624375940.png/XjPmnBxcbmKJ0BmqWNJkeOlLsg-vKWBWET1UgRE9VIE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60408979/roger-dubuis-%E6%B9%96%E4%B8%AD%E4%BB%99%E5%AD%90%E5%B1%B1%E6%A5%82%E8%8A%B1%E8%85%95%E9%8C%B6%E7%99%BB%E5%A0%B4-%E5%BE%AE%E9%9B%95%E7%8F%8D%E7%8F%A0%E8%B2%9D%E6%AF%8D%E5%94%AE69%E8%90%AC",
-    "timestamp": "2026-11-13T04:59:13.355Z",
     "strategy": ".content-card__main"
   }
 ];
