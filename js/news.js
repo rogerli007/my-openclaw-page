@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T20:45:30.723Z
+// Last updated: 2026-11-13T20:59:11.798Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其與卡塔爾簽署共同防禦協議　承諾對外部武裝攻擊採統一立場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198121468198653952341967.jpeg/MabJoe8cRKuze2MrbR03wlCbxNaZ3btCciGY9XIhmPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410665/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E7%B0%BD%E7%BD%B2%E5%85%B1%E5%90%8C%E9%98%B2%E7%A6%A6%E5%8D%94%E8%AD%B0-%E6%89%BF%E8%AB%BE%E5%B0%8D%E5%A4%96%E9%83%A8%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E6%8E%A1%E7%B5%B1%E4%B8%80%E7%AB%8B%E5%A0%B4",
+    "timestamp": "2026-11-13T20:59:11.798Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土耳其與卡塔爾簽署共同防禦協議　承諾對外部武裝攻擊採統一立場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198006012737490944205361.jpeg/OODpLh4WBJMy2cL-R2mYxuKCsDjRz1pwm-aVRZvmlUU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410617/%E8%94%A1%E6%A5%93%E8%8F%AF%E6%B4%97%E8%84%AB%E6%B1%A1%E5%90%8D%E5%90%88%E9%AB%94%E7%BF%81%E9%9D%9C%E6%99%B6%E8%AC%9B%E5%A5%87%E6%A1%88-%E4%BA%AE2005%E5%B9%B4%E5%8F%A3%E4%BE%9B%E8%87%AA%E8%AD%89-%E8%AC%9B%E5%94%94%E5%87%BA%E5%A4%A7%E8%A9%B1",
     "timestamp": "2026-11-13T14:59:12.430Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG演唱會｜香港站開鑼GD型爆登場　太陽大聲用廣東話打招呼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198042695239471104375246.jpeg/tVCnm8Qio35CV_3SLmK2vHdC21rhxXiIwZpHz8GaR88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60410639/bigbang%E6%BC%94%E5%94%B1%E6%9C%83-%E9%A6%99%E6%B8%AF%E7%AB%99%E9%96%8B%E9%91%BCgd%E5%9E%8B%E7%88%86%E7%99%BB%E5%A0%B4-%E5%A4%AA%E9%99%BD%E5%A4%A7%E8%81%B2%E7%94%A8%E5%BB%A3%E6%9D%B1%E8%A9%B1%E6%89%93%E6%8B%9B%E5%91%BC",
-    "timestamp": "2026-11-13T14:45:24.394Z",
     "strategy": ".content-card__main"
   }
 ];
