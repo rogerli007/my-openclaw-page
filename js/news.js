@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T13:59:02.264Z
+// Last updated: 2026-11-13T14:20:42.401Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鼓鼓呂思緯新歌《Bubbling》MV登場　邀得男團F.F.O編舞助陣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197987278748651520798263.jpeg/rK6ptJE7jDnMjt-_fmT_P1hLJvLdCK4ggYb_a4GG_2s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60410604/%E9%BC%93%E9%BC%93%E5%91%82%E6%80%9D%E7%B7%AF%E6%96%B0%E6%AD%8C-bubbling-mv%E7%99%BB%E5%A0%B4-%E9%82%80%E5%BE%97%E7%94%B7%E5%9C%98f-f-o%E7%B7%A8%E8%88%9E%E5%8A%A9%E9%99%A3",
+    "timestamp": "2026-11-13T14:20:42.401Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劍指盧特尼克？美財長：一直支持限制Megaspeed　惟由商務部負責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187114276620341248358706.jpeg/-J7F2l069nBgAO9W-bOl1J7eznLIlfygUQ7uE1EO7hM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410462/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E5%82%91%E7%A8%B1%E5%BB%9A%E6%88%BF%E8%A6%8B%E9%9D%92%E7%B4%85%E8%98%BF%E8%94%94-%E5%9E%83%E5%9C%BE%E6%9C%89%E6%B9%AF%E6%B8%A3%E5%8F%8A%E9%A1%9E%E4%BC%BC%E8%B1%AC%E9%AA%A8%E5%92%81%E5%98%85%E5%98%A2",
     "timestamp": "2026-11-13T07:59:01.623Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "強積金修例草案刊憲　擬引入兩級附加費機制　增僱主拖供款阻嚇力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197926674721673216374062.jpeg/2SoCMweSc1jM3SDT1A3H8IH-2fCIC2mB_6pa-f-qWvk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410446/%E5%BC%B7%E7%A9%8D%E9%87%91%E4%BF%AE%E4%BE%8B%E8%8D%89%E6%A1%88%E5%88%8A%E6%86%B2-%E6%93%AC%E5%BC%95%E5%85%A5%E5%85%A9%E7%B4%9A%E9%99%84%E5%8A%A0%E8%B2%BB%E6%A9%9F%E5%88%B6-%E5%A2%9E%E5%83%B1%E4%B8%BB%E6%8B%96%E4%BE%9B%E6%AC%BE%E9%98%BB%E5%9A%87%E5%8A%9B",
-    "timestamp": "2026-11-13T07:45:50.178Z",
     "strategy": ".content-card__main"
   }
 ];
