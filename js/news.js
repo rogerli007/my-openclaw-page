@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T04:32:54.696Z
+// Last updated: 2026-11-13T04:44:40.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭羨妮珍藏90年代空姐舊照曝光　零濾鏡甜美清純神顏驚艷全網",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197614208980619264694235.jpeg/-2VjVDbsr3CZIxMJSd33tsNd23e1X_TBY9ULcGPVC3A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410120/%E9%83%AD%E7%BE%A8%E5%A6%AE%E7%8F%8D%E8%97%8F90%E5%B9%B4%E4%BB%A3%E7%A9%BA%E5%A7%90%E8%88%8A%E7%85%A7%E6%9B%9D%E5%85%89-%E9%9B%B6%E6%BF%BE%E9%8F%A1%E7%94%9C%E7%BE%8E%E6%B8%85%E7%B4%94%E7%A5%9E%E9%A1%8F%E9%A9%9A%E8%89%B7%E5%85%A8%E7%B6%B2",
+    "timestamp": "2026-11-13T04:44:40.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不能報時的錶 盤點韓國品牌EGNARTS以柯根紗大玩錯視的怪誕單品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197581528964534272524683.jpeg/pBA41cstQ7RxbjaLq1tEqcMR606iUYIdcmL6lnJi-pY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409990/%E9%9C%8D%E5%95%9F%E5%89%9B%E9%9C%8D%E5%95%9F%E5%B1%B1%E9%BD%8A%E5%A8%B6%E9%AB%94%E8%97%9D%E7%95%8C%E5%A5%B3%E7%A5%9E-%E7%9B%A4%E9%BB%9E%E6%B8%AF%E5%9C%88%E5%9B%9B%E5%A4%A7%E7%AD%8D%E7%9B%A4%E5%85%A7%E5%9C%B0%E5%A4%AA%E5%A4%AA%E9%81%8E%E4%BA%BA%E9%AD%85%E5%8A%9B",
     "timestamp": "2026-11-12T22:45:31.702Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜今晚驟雨增多　有幾陣狂風雷暴　氣溫介乎23至26度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197790052579545088379250.jpeg/DtJ3JrqQVAKlKYcpncg6eNFkX4U_0mpJhr6dlby-nZU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60410245/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%99%9A%E9%A9%9F%E9%9B%A8%E5%A2%9E%E5%A4%9A-%E6%9C%89%E5%B9%BE%E9%99%A3%E7%8B%82%E9%A2%A8%E9%9B%B7%E6%9A%B4-%E6%B0%A3%E6%BA%AB%E4%BB%8B%E4%B9%8E23%E8%87%B326%E5%BA%A6",
-    "timestamp": "2026-11-12T22:19:20.642Z",
     "strategy": ".content-card__main"
   }
 ];
