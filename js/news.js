@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T19:29:14.843Z
+// Last updated: 2026-11-13T19:44:54.131Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲五國將參與下輪俄烏會談　美方指已就歐洲安全架構問題展磋商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187951703438135296253140.jpeg/pfDnT_5Qxh6EsNTpu74mJyIvySTZ5Vb-6lseX-pbHl8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410662/%E6%AD%90%E6%B4%B2%E4%BA%94%E5%9C%8B%E5%B0%87%E5%8F%83%E8%88%87%E4%B8%8B%E8%BC%AA%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87-%E7%BE%8E%E6%96%B9%E6%8C%87%E5%B7%B2%E5%B0%B1%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%A7%8B%E5%95%8F%E9%A1%8C%E5%B1%95%E7%A3%8B%E5%95%86",
+    "timestamp": "2026-11-13T19:44:54.131Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲五國將參與下輪俄烏會談　美方指已就歐洲安全架構問題展磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198012701712846848258374.jpeg/SoLiZCm790OJPp1vnoq9DlP42nHzEkVqLvqb5y76m-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410603/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E8%A8%AD%E9%A6%96%E4%BD%8D%E8%91%A3%E4%BA%8B%E6%9C%83%E4%B8%BB%E5%B8%AD-33%E5%B9%B4%E5%85%83%E8%80%81%E5%8A%A9%E7%A9%A9%E5%A4%A7%E5%B1%80",
     "timestamp": "2026-11-13T13:45:26.733Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "再婚皇后｜第6集爆身世!李世榮入宮前育一子　淪後宮上位計時炸彈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197922944529993728307945.png/Z_f0wXdPV3z0BtlGLLb2tLVkSAhfdbU0bal_b22pf28?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410391/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E7%AC%AC6%E9%9B%86%E7%88%86%E8%BA%AB%E4%B8%96-%E6%9D%8E%E4%B8%96%E6%A6%AE%E5%85%A5%E5%AE%AE%E5%89%8D%E8%82%B2%E4%B8%80%E5%AD%90-%E6%B7%AA%E5%BE%8C%E5%AE%AE%E4%B8%8A%E4%BD%8D%E8%A8%88%E6%99%82%E7%82%B8%E5%BD%88",
-    "timestamp": "2026-11-13T13:19:55.601Z",
     "strategy": ".content-card__main"
   }
 ];
