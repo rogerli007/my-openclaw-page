@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T19:59:08.371Z
+// Last updated: 2026-11-13T20:19:56.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "土耳其與卡塔爾簽署共同防禦協議　承諾對外部武裝攻擊採統一立場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198121468198653952341967.jpeg/MabJoe8cRKuze2MrbR03wlCbxNaZ3btCciGY9XIhmPU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410665/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E7%B0%BD%E7%BD%B2%E5%85%B1%E5%90%8C%E9%98%B2%E7%A6%A6%E5%8D%94%E8%AD%B0-%E6%89%BF%E8%AB%BE%E5%B0%8D%E5%A4%96%E9%83%A8%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E6%8E%A1%E7%B5%B1%E4%B8%80%E7%AB%8B%E5%A0%B4",
+    "timestamp": "2026-11-13T20:19:56.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲五國將參與下輪俄烏會談　美方指已就歐洲安全架構問題展磋商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197987278748651520798263.jpeg/rK6ptJE7jDnMjt-_fmT_P1hLJvLdCK4ggYb_a4GG_2s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60410604/%E9%BC%93%E9%BC%93%E5%91%82%E6%80%9D%E7%B7%AF%E6%96%B0%E6%AD%8C-bubbling-mv%E7%99%BB%E5%A0%B4-%E9%82%80%E5%BE%97%E7%94%B7%E5%9C%98f-f-o%E7%B7%A8%E8%88%9E%E5%8A%A9%E9%99%A3",
     "timestamp": "2026-11-13T14:20:42.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劍指盧特尼克？美財長：一直支持限制Megaspeed　惟由商務部負責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186258374208000000369182.jpeg/3-qWy-wyqjBlg5MaMq5PEnTqrov0Bl6kIogq6SKIKuk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410632/%E5%8A%8D%E6%8C%87%E7%9B%A7%E7%89%B9%E5%B0%BC%E5%85%8B-%E7%BE%8E%E8%B2%A1%E9%95%B7-%E4%B8%80%E7%9B%B4%E6%94%AF%E6%8C%81%E9%99%90%E5%88%B6megaspeed-%E6%83%9F%E7%94%B1%E5%95%86%E5%8B%99%E9%83%A8%E8%B2%A0%E8%B2%AC",
-    "timestamp": "2026-11-13T13:59:02.264Z",
     "strategy": ".content-card__main"
   }
 ];
