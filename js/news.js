@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T05:45:33.400Z
+// Last updated: 2026-11-13T06:27:45.317Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廉政公署｜廉署「二哥」丘樹春退休　蔡樹強11.17起任副廉政專員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230615/746106206589816832917850.jpeg/yisp8USg2V6I5HMgxIzQ32iy0Fup5Y_2EKVGuhClRro?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410413/%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2-%E5%BB%89%E7%BD%B2-%E4%BA%8C%E5%93%A5-%E4%B8%98%E6%A8%B9%E6%98%A5%E9%80%80%E4%BC%91-%E8%94%A1%E6%A8%B9%E5%BC%B711-17%E8%B5%B7%E4%BB%BB%E5%89%AF%E5%BB%89%E6%94%BF%E5%B0%88%E5%93%A1",
+    "timestamp": "2026-11-13T06:27:45.317Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美防長赫格塞思高聲講話遭哨兵喝止　反頒表揚奬章讚「做得好」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197598040366518272807546.jpeg/1H7tKHPn_vTTGFs7zvyPec_sskGs7tgEkZ6afJGemnw",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60409902/%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E4%B9%8B%E5%BE%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%84%E6%9C%89%E5%85%A9%E5%B9%B4%E6%99%82%E9%96%93%E8%BD%89%E6%88%B0%E5%9C%8B%E5%A4%96-jack-talk-%E5%8E%BB%E7%89%87",
     "timestamp": "2026-11-12T23:45:33.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "乳癌│19歲女洗澡摸胸現硬塊確診　無家族史不痛不癢　醫列5大症狀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194319135165648896428519.jpeg/0FPQNtgEZaYdKy1UGI2jJZSFd3ZhonEHHXOBix1zgYs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404322/%E4%B9%B3%E7%99%8C-19%E6%AD%B2%E5%A5%B3%E6%B4%97%E6%BE%A1%E6%91%B8%E8%83%B8%E7%8F%BE%E7%A1%AC%E5%A1%8A%E7%A2%BA%E8%A8%BA-%E7%84%A1%E5%AE%B6%E6%97%8F%E5%8F%B2%E4%B8%8D%E7%97%9B%E4%B8%8D%E7%99%A2-%E9%86%AB%E5%88%975%E5%A4%A7%E7%97%87%E7%8B%80",
-    "timestamp": "2026-11-12T23:29:41.672Z",
     "strategy": ".content-card__main"
   }
 ];
