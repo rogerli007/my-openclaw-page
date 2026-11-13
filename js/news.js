@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T21:29:37.060Z
+// Last updated: 2026-11-13T21:45:22.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英偉達董事會：尚未正式接觸任何潛在候選人　亦未選定獵頭公司",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410667/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83-%E5%B0%9A%E6%9C%AA%E6%AD%A3%E5%BC%8F%E6%8E%A5%E8%A7%B8%E4%BB%BB%E4%BD%95%E6%BD%9B%E5%9C%A8%E5%80%99%E9%81%B8%E4%BA%BA-%E4%BA%A6%E6%9C%AA%E9%81%B8%E5%AE%9A%E7%8D%B5%E9%A0%AD%E5%85%AC%E5%8F%B8",
+    "timestamp": "2026-11-13T21:45:22.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英偉達董事會：尚未正式接觸任何潛在候選人　亦未選定獵頭公司",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198058701718556672512689.jpeg/PeDIonEolq203itn_duKWE6RUm9JgaNH2yWQOdslkDk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410647/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-65%E6%AD%B2%E6%A2%81%E4%BD%A9%E8%98%AD%E9%95%B7%E6%B4%B2%E6%B8%A1%E8%BC%AA%E7%A2%BC%E9%A0%AD%E6%9C%80%E5%BE%8C%E9%9C%B2%E9%9D%A2%E5%A4%B1%E8%B9%A4-%E5%AE%B6%E4%BA%BA%E7%84%A6%E6%80%A5%E5%B0%8B%E4%BA%BA",
     "timestamp": "2026-11-13T15:59:05.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "微軟死機│Microsoft 365、Outlook故障　為何等大半天仍未修好？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198058010220433408743612.jpeg/trx9zl899wWle-y2VWbHg5CNUNNV2X56q-VH06vlR9M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410646/%E5%BE%AE%E8%BB%9F%E6%AD%BB%E6%A9%9F-microsoft-365-outlook%E6%95%85%E9%9A%9C-%E7%82%BA%E4%BD%95%E7%AD%89%E5%A4%A7%E5%8D%8A%E5%A4%A9%E4%BB%8D%E6%9C%AA%E4%BF%AE%E5%A5%BD",
-    "timestamp": "2026-11-13T15:45:09.509Z",
     "strategy": ".content-card__main"
   }
 ];
