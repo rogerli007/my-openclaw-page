@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T01:20:13.763Z
+// Last updated: 2026-11-13T01:48:02.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院壞𨋢｜郭芙蓉批不可思議　甯漢豪答政府監管制度有板有眼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1193902621207826432761358.png/WZ3tlIDObKfLRt2SEkmA7C5be17YBHfkLIDklAmA5JQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410264/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2-%E9%83%AD%E8%8A%99%E8%93%89%E6%89%B9%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0-%E7%94%AF%E6%BC%A2%E8%B1%AA%E7%AD%94%E6%94%BF%E5%BA%9C%E7%9B%A3%E7%AE%A1%E5%88%B6%E5%BA%A6%E6%9C%89%E6%9D%BF%E6%9C%89%E7%9C%BC",
+    "timestamp": "2026-11-13T01:48:02.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "清代科舉考生困3尺闊號舍　屈膝吃睡捱三天　近廁所崩潰│歷史奇趣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197734796927700992102739.jpeg/Zghp_5EzMzu-tk7af7iQV19kMXHPwOmCvE6zwLxOs8A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410251/%E5%89%8D%E7%94%B2%E4%B8%80mvp%E9%99%B3%E5%BC%B5%E6%95%8F%E7%88%86%E5%A9%9A%E8%AE%8A-%E6%96%B9%E6%B3%B3%E7%90%B3%E6%B1%BA%E5%AE%9A%E5%88%86%E9%96%8B%E5%88%97%E5%A4%9A%E5%AE%97%E7%BD%AA%E5%8D%83%E5%AD%97%E6%96%87%E7%8B%82%E8%BD%9F",
     "timestamp": "2026-11-12T19:18:26.506Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前甲一MVP陳張敏爆婚變！　方泳琳決定分開列多宗罪千字文狂轟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197734796927700992102739.jpeg/Zghp_5EzMzu-tk7af7iQV19kMXHPwOmCvE6zwLxOs8A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410251/%E5%89%8D%E7%94%B2%E4%B8%80mvp%E9%99%B3%E5%BC%B5%E6%95%8F%E7%88%86%E5%A9%9A%E8%AE%8A-%E6%96%B9%E6%B3%B3%E7%90%B3%E6%B1%BA%E5%AE%9A%E5%88%86%E9%96%8B%E5%88%97%E5%A4%9A%E5%AE%97%E7%BD%AA%E5%8D%83%E5%AD%97%E6%96%87%E7%8B%82%E8%BD%9F",
-    "timestamp": "2026-11-12T18:59:05.910Z",
     "strategy": ".content-card__main"
   }
 ];
