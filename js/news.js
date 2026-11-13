@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T13:45:26.733Z
+// Last updated: 2026-11-13T13:59:02.264Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劍指盧特尼克？美財長：一直支持限制Megaspeed　惟由商務部負責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186258374208000000369182.jpeg/3-qWy-wyqjBlg5MaMq5PEnTqrov0Bl6kIogq6SKIKuk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410632/%E5%8A%8D%E6%8C%87%E7%9B%A7%E7%89%B9%E5%B0%BC%E5%85%8B-%E7%BE%8E%E8%B2%A1%E9%95%B7-%E4%B8%80%E7%9B%B4%E6%94%AF%E6%8C%81%E9%99%90%E5%88%B6megaspeed-%E6%83%9F%E7%94%B1%E5%95%86%E5%8B%99%E9%83%A8%E8%B2%A0%E8%B2%AC",
+    "timestamp": "2026-11-13T13:59:02.264Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜英偉達設首位董事會主席　33年元老助穩大局",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197926674721673216374062.jpeg/2SoCMweSc1jM3SDT1A3H8IH-2fCIC2mB_6pa-f-qWvk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410446/%E5%BC%B7%E7%A9%8D%E9%87%91%E4%BF%AE%E4%BE%8B%E8%8D%89%E6%A1%88%E5%88%8A%E6%86%B2-%E6%93%AC%E5%BC%95%E5%85%A5%E5%85%A9%E7%B4%9A%E9%99%84%E5%8A%A0%E8%B2%BB%E6%A9%9F%E5%88%B6-%E5%A2%9E%E5%83%B1%E4%B8%BB%E6%8B%96%E4%BE%9B%E6%AC%BE%E9%98%BB%E5%9A%87%E5%8A%9B",
     "timestamp": "2026-11-13T07:45:50.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長者日交通優惠2026攻略｜11大交通免費搭！港鐵/巴士/小巴/電車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197881283229782016346128.png/0FZ7I-6mFv2B5uukeGiQvF2oZDylj1tAq2iLIatoiyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60410328/%E9%95%B7%E8%80%85%E6%97%A5%E4%BA%A4%E9%80%9A%E5%84%AA%E6%83%A02026%E6%94%BB%E7%95%A5-11%E5%A4%A7%E4%BA%A4%E9%80%9A%E5%85%8D%E8%B2%BB%E6%90%AD-%E6%B8%AF%E9%90%B5-%E5%B7%B4%E5%A3%AB-%E5%B0%8F%E5%B7%B4-%E9%9B%BB%E8%BB%8A",
-    "timestamp": "2026-11-13T07:21:17.015Z",
     "strategy": ".content-card__main"
   }
 ];
