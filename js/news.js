@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T09:22:01.901Z
+// Last updated: 2026-11-13T09:44:57.959Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港第三季GDP按年增5.2%　出口飆逾三成　全年預測調升至4.8%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250722/1024295713200148480156427.jpeg/qPkTa2HVMpKm5a_HMy3rl26BcEcBkpsAusyTVbrMk1U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410541/%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%89%E5%AD%A3gdp%E6%8C%89%E5%B9%B4%E5%A2%9E5-2-%E5%87%BA%E5%8F%A3%E9%A3%86%E9%80%BE%E4%B8%89%E6%88%90-%E5%85%A8%E5%B9%B4%E9%A0%90%E6%B8%AC%E8%AA%BF%E5%8D%87%E8%87%B34-8",
+    "timestamp": "2026-11-13T09:44:57.959Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜同意鄺球是簡單踏實普通人　鄺港傑指父無投訴要賣樓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197868566410432512632091.png/2MMFOSX5jyS86wJCwQnt3rCm4TdQs9CNrFbjVqxW41Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410327/%E6%9F%B4%E7%81%A3%E8%88%88%E8%8F%AF%E9%82%A8%E8%A1%80%E6%A1%88-31%E6%AD%B2%E7%94%B7%E7%96%91%E5%B1%A2%E8%A2%AB%E7%BD%B5%E5%A4%B1%E6%A5%AD%E6%93%B8%E9%9B%99%E5%88%80%E8%BF%BD%E6%96%AC-%E6%AF%8D%E9%A0%AD%E9%A0%B8%E5%82%B7%E5%85%A5icu",
     "timestamp": "2026-11-13T03:19:46.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉歡並非「不死癌症」奪命　秘抗膀胱癌14年　遺孀淚灑8千字長文",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197861655552200704653489.jpeg/eReX0jnoMLuHdcisbitLeXti54yuDNx5UB899VAfPfU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60410298/%E5%8A%89%E6%AD%A1%E4%B8%A6%E9%9D%9E-%E4%B8%8D%E6%AD%BB%E7%99%8C%E7%97%87-%E5%A5%AA%E5%91%BD-%E7%A7%98%E6%8A%97%E8%86%80%E8%83%B1%E7%99%8C14%E5%B9%B4-%E9%81%BA%E5%AD%80%E6%B7%9A%E7%81%918%E5%8D%83%E5%AD%97%E9%95%B7%E6%96%87",
-    "timestamp": "2026-11-13T02:59:21.756Z",
     "strategy": ".content-card__main"
   }
 ];
