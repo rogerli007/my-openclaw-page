@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T23:19:35.823Z
+// Last updated: 2026-11-13T23:44:48.194Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "減肥│極端節食體重不降反升響警號　拆解身體「代謝適應」機制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194320930751385600184062.jpeg/dHbleAO4z07RpGdvRhnxHlo0MA_l9XEQS1z9mUtc_Zk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405181/%E6%B8%9B%E8%82%A5-%E6%A5%B5%E7%AB%AF%E7%AF%80%E9%A3%9F%E9%AB%94%E9%87%8D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87%E9%9F%BF%E8%AD%A6%E8%99%9F-%E6%8B%86%E8%A7%A3%E8%BA%AB%E9%AB%94-%E4%BB%A3%E8%AC%9D%E9%81%A9%E6%87%89-%E6%A9%9F%E5%88%B6",
+    "timestamp": "2026-11-13T23:44:48.194Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超級月亮10年前今天創68年最近紀錄　下次要等到2034年｜當年熱話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197130037531250688346597.jpeg/7h3pDgk8Tgrd1D0JRlcEqekWyRX-hSQ1s9mgAbPZoAE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410655/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E6%94%BF%E5%BA%9C4%E9%83%A8%E9%96%80%E6%94%AF%E6%8C%81%E5%B0%87megaspeed%E5%88%97%E9%BB%91%E5%90%8D%E5%96%AE-%E6%9C%80%E7%B5%82%E6%B1%BA%E5%AE%9A%E6%AC%8A%E5%9C%A8%E5%95%86%E5%8B%99%E9%83%A8",
     "timestamp": "2026-11-13T17:58:53.856Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油尖單日849張牛肉乾3人被捕　首10個月13萬張　庫房進帳$5525萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198077530062458880514729.jpeg/vOGFyqQRnqyHw2Tssbqw7oDso8dFCDBuVJjzcFSY83A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410654/%E6%B2%B9%E5%B0%96%E5%96%AE%E6%97%A5849%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE3%E4%BA%BA%E8%A2%AB%E6%8D%95-%E9%A6%9610%E5%80%8B%E6%9C%8813%E8%90%AC%E5%BC%B5-%E5%BA%AB%E6%88%BF%E9%80%B2%E5%B8%B3-5525%E8%90%AC",
-    "timestamp": "2026-11-13T17:19:11.489Z",
     "strategy": ".content-card__main"
   }
 ];
