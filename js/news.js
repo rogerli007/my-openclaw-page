@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T14:20:42.401Z
+// Last updated: 2026-11-13T14:45:24.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG演唱會｜香港站開鑼GD型爆登場　太陽大聲用廣東話打招呼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198042695239471104375246.jpeg/tVCnm8Qio35CV_3SLmK2vHdC21rhxXiIwZpHz8GaR88?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60410639/bigbang%E6%BC%94%E5%94%B1%E6%9C%83-%E9%A6%99%E6%B8%AF%E7%AB%99%E9%96%8B%E9%91%BCgd%E5%9E%8B%E7%88%86%E7%99%BB%E5%A0%B4-%E5%A4%AA%E9%99%BD%E5%A4%A7%E8%81%B2%E7%94%A8%E5%BB%A3%E6%9D%B1%E8%A9%B1%E6%89%93%E6%8B%9B%E5%91%BC",
+    "timestamp": "2026-11-13T14:45:24.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鼓鼓呂思緯新歌《Bubbling》MV登場　邀得男團F.F.O編舞助陣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197944864432459776974251.jpeg/hEc5Xr3ObQgjlyl9Nh1DY5-UxnnDQrw0aoP-uGqD_rg",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410502/%E8%8D%83%E9%8C%A6%E5%85%AC%E8%B7%AF%E6%B3%95%E7%B1%8D%E6%BC%A2%E6%93%B2%E7%A1%AC%E7%89%A9%E6%AF%80%E5%AF%B6%E9%A6%AC%E7%A7%81%E5%AE%B6%E8%BB%8A-%E8%AD%A6%E6%9F%A5%E5%A4%A9%E7%9C%BC%E9%8E%96%E5%AE%9A%E8%BA%AB%E4%BB%BD%E6%A9%9F%E5%A0%B4%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-11-13T08:23:39.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜鄺港傑稱廚房見青紅蘿蔔　垃圾有湯渣及類似豬骨咁嘅嘢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187114276620341248358706.jpeg/-J7F2l069nBgAO9W-bOl1J7eznLIlfygUQ7uE1EO7hM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410462/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E5%82%91%E7%A8%B1%E5%BB%9A%E6%88%BF%E8%A6%8B%E9%9D%92%E7%B4%85%E8%98%BF%E8%94%94-%E5%9E%83%E5%9C%BE%E6%9C%89%E6%B9%AF%E6%B8%A3%E5%8F%8A%E9%A1%9E%E4%BC%BC%E8%B1%AC%E9%AA%A8%E5%92%81%E5%98%85%E5%98%A2",
-    "timestamp": "2026-11-13T07:59:01.623Z",
     "strategy": ".content-card__main"
   }
 ];
