@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T10:59:04.709Z
+// Last updated: 2026-11-13T11:19:25.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "容祖兒啟德演唱會｜半小時售罄即宣布加兩場　祖兒食魚蛋粉慶祝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197988943916699648527840.jpeg/ZK_SIhCK_7DMECShpL8KHFdC1tjX6MBOb0sCz29LAs8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60410608/%E5%AE%B9%E7%A5%96%E5%85%92%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8D%8A%E5%B0%8F%E6%99%82%E5%94%AE%E7%BD%84%E5%8D%B3%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A9%E5%A0%B4-%E7%A5%96%E5%85%92%E9%A3%9F%E9%AD%9A%E8%9B%8B%E7%B2%89%E6%85%B6%E7%A5%9D",
+    "timestamp": "2026-11-13T11:19:25.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG演唱會開騷　啟德人山人海　惠州粉絲硬食黃牛價仍感幸福",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197224008332873728736840.jpeg/YjzoYEXPbHbrM0JwBiDuE03u1kOnUBQD4fNBduHzQXY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60409478/%E4%B8%8D%E8%83%BD%E5%A0%B1%E6%99%82%E7%9A%84%E9%8C%B6-%E7%9B%A4%E9%BB%9E%E9%9F%93%E5%9C%8B%E5%93%81%E7%89%8Cegnarts%E4%BB%A5%E6%9F%AF%E6%A0%B9%E7%B4%97%E5%A4%A7%E7%8E%A9%E9%8C%AF%E8%A6%96%E7%9A%84%E6%80%AA%E8%AA%95%E5%96%AE%E5%93%81",
     "timestamp": "2026-11-13T04:32:54.696Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪麗醫院報告點名建築署缺失　署長李翹彥立會沒回應記者追問問責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197883833966399488187503.jpeg/-4wcXuKZKSsVmU5vphwEH6BSPtGnny1aAFCezABQnsw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410353/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E9%BB%9E%E5%90%8D%E5%BB%BA%E7%AF%89%E7%BD%B2%E7%BC%BA%E5%A4%B1-%E7%BD%B2%E9%95%B7%E6%9D%8E%E7%BF%B9%E5%BD%A5%E7%AB%8B%E6%9C%83%E6%B2%92%E5%9B%9E%E6%87%89%E8%A8%98%E8%80%85%E8%BF%BD%E5%95%8F%E5%95%8F%E8%B2%AC",
-    "timestamp": "2026-11-13T04:22:12.560Z",
     "strategy": ".content-card__main"
   }
 ];
