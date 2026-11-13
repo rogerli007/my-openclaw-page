@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T18:59:11.363Z
+// Last updated: 2026-11-13T19:18:36.231Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲五國將參與下輪俄烏會談　美方指已就歐洲安全架構問題展磋商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187951703438135296253140.jpeg/pfDnT_5Qxh6EsNTpu74mJyIvySTZ5Vb-6lseX-pbHl8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410662/%E6%AD%90%E6%B4%B2%E4%BA%94%E5%9C%8B%E5%B0%87%E5%8F%83%E8%88%87%E4%B8%8B%E8%BC%AA%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87-%E7%BE%8E%E6%96%B9%E6%8C%87%E5%B7%B2%E5%B0%B1%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%A7%8B%E5%95%8F%E9%A1%8C%E5%B1%95%E7%A3%8B%E5%95%86",
+    "timestamp": "2026-11-13T19:18:36.231Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七旬男誤中投資騙案失近$1800萬　警一周接40宗同類案涉款$5000萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197977122287652864325894.jpeg/ug99W5cve5hU-vy4EGbgSxmagC4odZEKLiyXqy4sl6s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410583/%E6%B8%AF%E4%BA%A4%E6%89%8012-14%E6%8E%A8%E6%95%B8%E7%A2%BC%E6%B8%AF%E5%85%83%E4%BA%A4%E6%8C%89%E9%87%91-%E5%A4%9C%E6%9C%9F%E6%94%AF%E4%BB%98%E5%BB%B6%E8%87%B3%E5%87%8C%E6%99%A81%E6%99%82%E5%8D%8A",
     "timestamp": "2026-11-13T12:59:12.052Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅艷卿盛傳坐擁半條街物業及商廈　自認孤寒：借一毫子都冇得傾",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197970576354840576016543.jpeg/KMknyzcMBp9Gai_MHFxl0Xb2IJfQeZ5Za3ugrWt7oK0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410399/%E7%BE%85%E8%89%B7%E5%8D%BF%E7%9B%9B%E5%82%B3%E5%9D%90%E6%93%81%E5%8D%8A%E6%A2%9D%E8%A1%97%E7%89%A9%E6%A5%AD%E5%8F%8A%E5%95%86%E5%BB%88-%E8%87%AA%E8%AA%8D%E5%AD%A4%E5%AF%92-%E5%80%9F%E4%B8%80%E6%AF%AB%E5%AD%90%E9%83%BD%E5%86%87%E5%BE%97%E5%82%BE",
-    "timestamp": "2026-11-13T12:38:30.542Z",
     "strategy": ".content-card__main"
   }
 ];
