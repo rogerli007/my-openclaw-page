@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T10:45:26.841Z
+// Last updated: 2026-11-13T10:59:04.709Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG演唱會開騷　啟德人山人海　惠州粉絲硬食黃牛價仍感幸福",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197971432970129408502731.jpeg/FR5v8uXL1-2pkkdstKiUL8XHTCGnNfkL54UkrueFJK4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410566/bigbang%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%8B%E9%A8%B7-%E5%95%9F%E5%BE%B7%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7-%E6%83%A0%E5%B7%9E%E7%B2%89%E7%B5%B2%E7%A1%AC%E9%A3%9F%E9%BB%83%E7%89%9B%E5%83%B9%E4%BB%8D%E6%84%9F%E5%B9%B8%E7%A6%8F",
+    "timestamp": "2026-11-13T10:59:04.709Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "漁護署明起連續兩周六特別巡查狗隻　若狗主無妥善控制會即時執法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197883833966399488187503.jpeg/-4wcXuKZKSsVmU5vphwEH6BSPtGnny1aAFCezABQnsw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410353/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E9%BB%9E%E5%90%8D%E5%BB%BA%E7%AF%89%E7%BD%B2%E7%BC%BA%E5%A4%B1-%E7%BD%B2%E9%95%B7%E6%9D%8E%E7%BF%B9%E5%BD%A5%E7%AB%8B%E6%9C%83%E6%B2%92%E5%9B%9E%E6%87%89%E8%A8%98%E8%80%85%E8%BF%BD%E5%95%8F%E5%95%8F%E8%B2%AC",
     "timestamp": "2026-11-13T04:22:12.560Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "幫手搵人︱馬鞍山14歲蕭樂瑤離開耀安邨住所後失蹤　家人心急尋人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197879685871046656061539.jpeg/zPHuxRI2dVEF7RF-z7YdHjIIJoW-wRgK0UVrvNFFa7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410354/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E9%A6%AC%E9%9E%8D%E5%B1%B114%E6%AD%B2%E8%95%AD%E6%A8%82%E7%91%A4%E9%9B%A2%E9%96%8B%E8%80%80%E5%AE%89%E9%82%A8%E4%BD%8F%E6%89%80%E5%BE%8C%E5%A4%B1%E8%B9%A4-%E5%AE%B6%E4%BA%BA%E5%BF%83%E6%80%A5%E5%B0%8B%E4%BA%BA",
-    "timestamp": "2026-11-13T03:59:10.575Z",
     "strategy": ".content-card__main"
   }
 ];
