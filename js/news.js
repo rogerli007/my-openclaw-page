@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T05:20:30.987Z
+// Last updated: 2026-11-13T05:45:33.400Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美防長赫格塞思高聲講話遭哨兵喝止　反頒表揚奬章讚「做得好」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197900950287683584658034.jpeg/LVBkNWpc5IZ0lgNqMruzEURvxPxZViI7aSGsFmkhrBY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410280/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E9%AB%98%E8%81%B2%E8%AC%9B%E8%A9%B1%E9%81%AD%E5%93%A8%E5%85%B5%E5%96%9D%E6%AD%A2-%E5%8F%8D%E9%A0%92%E8%A1%A8%E6%8F%9A%E5%A5%AC%E7%AB%A0%E8%AE%9A-%E5%81%9A%E5%BE%97%E5%A5%BD",
+    "timestamp": "2026-11-13T05:45:33.400Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "PokeFest 3萬呎卡展D2舉行｜01空間獨家預售通行證提早2小時進場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194319135165648896428519.jpeg/0FPQNtgEZaYdKy1UGI2jJZSFd3ZhonEHHXOBix1zgYs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60404322/%E4%B9%B3%E7%99%8C-19%E6%AD%B2%E5%A5%B3%E6%B4%97%E6%BE%A1%E6%91%B8%E8%83%B8%E7%8F%BE%E7%A1%AC%E5%A1%8A%E7%A2%BA%E8%A8%BA-%E7%84%A1%E5%AE%B6%E6%97%8F%E5%8F%B2%E4%B8%8D%E7%97%9B%E4%B8%8D%E7%99%A2-%E9%86%AB%E5%88%975%E5%A4%A7%E7%97%87%E7%8B%80",
     "timestamp": "2026-11-12T23:29:41.672Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "舟山碼頭鯊魚4條¥70賤賣無人要│專家拆解尿素臊味+肉質粗成蝕本貨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197588332008181760546189.png/KGwxGwpEOF13DzX8ii2mHoa5uF9So4AvTY5rB02Oawc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409489/%E8%88%9F%E5%B1%B1%E7%A2%BC%E9%A0%AD%E9%AF%8A%E9%AD%9A4%E6%A2%9D-70%E8%B3%A4%E8%B3%A3%E7%84%A1%E4%BA%BA%E8%A6%81-%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3%E5%B0%BF%E7%B4%A0%E8%87%8A%E5%91%B3-%E8%82%89%E8%B3%AA%E7%B2%97%E6%88%90%E8%9D%95%E6%9C%AC%E8%B2%A8",
-    "timestamp": "2026-11-12T23:18:13.044Z",
     "strategy": ".content-card__main"
   }
 ];
