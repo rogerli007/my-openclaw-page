@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T01:59:12.560Z
+// Last updated: 2026-11-13T02:22:54.727Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長者日消費優惠2026｜149推介！百佳送奇異果／AEON送餐具／送米",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194975884432379904631094.jpeg/dqdBwhcorg9Y5clvO167XltjOAHeGglssU7jd7FO43c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60407106/%E9%95%B7%E8%80%85%E6%97%A5%E6%B6%88%E8%B2%BB%E5%84%AA%E6%83%A02026-149%E6%8E%A8%E4%BB%8B-%E7%99%BE%E4%BD%B3%E9%80%81%E5%A5%87%E7%95%B0%E6%9E%9C-aeon%E9%80%81%E9%A4%90%E5%85%B7-%E9%80%81%E7%B1%B3",
+    "timestamp": "2026-11-13T02:22:54.727Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新世界0017停牌｜外電稱考慮供股籌最多250億　意味「一供二」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197734796927700992102739.jpeg/Zghp_5EzMzu-tk7af7iQV19kMXHPwOmCvE6zwLxOs8A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410251/%E5%89%8D%E7%94%B2%E4%B8%80mvp%E9%99%B3%E5%BC%B5%E6%95%8F%E7%88%86%E5%A9%9A%E8%AE%8A-%E6%96%B9%E6%B3%B3%E7%90%B3%E6%B1%BA%E5%AE%9A%E5%88%86%E9%96%8B%E5%88%97%E5%A4%9A%E5%AE%97%E7%BD%AA%E5%8D%83%E5%AD%97%E6%96%87%E7%8B%82%E8%BD%9F",
     "timestamp": "2026-11-12T19:45:12.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "前甲一MVP陳張敏爆婚變！　方泳琳決定分開列多宗罪千字文狂轟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197734796927700992102739.jpeg/Zghp_5EzMzu-tk7af7iQV19kMXHPwOmCvE6zwLxOs8A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410251/%E5%89%8D%E7%94%B2%E4%B8%80mvp%E9%99%B3%E5%BC%B5%E6%95%8F%E7%88%86%E5%A9%9A%E8%AE%8A-%E6%96%B9%E6%B3%B3%E7%90%B3%E6%B1%BA%E5%AE%9A%E5%88%86%E9%96%8B%E5%88%97%E5%A4%9A%E5%AE%97%E7%BD%AA%E5%8D%83%E5%AD%97%E6%96%87%E7%8B%82%E8%BD%9F",
-    "timestamp": "2026-11-12T19:29:47.845Z",
     "strategy": ".content-card__main"
   }
 ];
