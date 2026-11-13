@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T12:38:30.542Z
+// Last updated: 2026-11-13T12:59:12.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港交所12.14推數碼港元交按金　夜期支付延至凌晨1時半",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197977122287652864325894.jpeg/ug99W5cve5hU-vy4EGbgSxmagC4odZEKLiyXqy4sl6s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410583/%E6%B8%AF%E4%BA%A4%E6%89%8012-14%E6%8E%A8%E6%95%B8%E7%A2%BC%E6%B8%AF%E5%85%83%E4%BA%A4%E6%8C%89%E9%87%91-%E5%A4%9C%E6%9C%9F%E6%94%AF%E4%BB%98%E5%BB%B6%E8%87%B3%E5%87%8C%E6%99%A81%E6%99%82%E5%8D%8A",
+    "timestamp": "2026-11-13T12:59:12.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅艷卿盛傳坐擁半條街物業及商廈　自認孤寒：借一毫子都冇得傾",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230615/746106206589816832917850.jpeg/yisp8USg2V6I5HMgxIzQ32iy0Fup5Y_2EKVGuhClRro?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410413/%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2-%E5%BB%89%E7%BD%B2-%E4%BA%8C%E5%93%A5-%E4%B8%98%E6%A8%B9%E6%98%A5%E9%80%80%E4%BC%91-%E8%94%A1%E6%A8%B9%E5%BC%B711-17%E8%B5%B7%E4%BB%BB%E5%89%AF%E5%BB%89%E6%94%BF%E5%B0%88%E5%93%A1",
     "timestamp": "2026-11-13T06:27:45.317Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美防長赫格塞思高聲講話遭哨兵喝止　反頒表揚奬章讚「做得好」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197900950287683584658034.jpeg/LVBkNWpc5IZ0lgNqMruzEURvxPxZViI7aSGsFmkhrBY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410280/%E7%BE%8E%E9%98%B2%E9%95%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E9%AB%98%E8%81%B2%E8%AC%9B%E8%A9%B1%E9%81%AD%E5%93%A8%E5%85%B5%E5%96%9D%E6%AD%A2-%E5%8F%8D%E9%A0%92%E8%A1%A8%E6%8F%9A%E5%A5%AC%E7%AB%A0%E8%AE%9A-%E5%81%9A%E5%BE%97%E5%A5%BD",
-    "timestamp": "2026-11-13T05:45:33.400Z",
     "strategy": ".content-card__main"
   }
 ];
