@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T22:44:46.754Z
+// Last updated: 2026-11-13T22:59:08.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重慶2歲半女童獨留在家！睡醒尋親2樓護欄間隙墮樓　奇蹟僅受輕傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197527023912751104873296.png/c9ZzK6o3b_og9uHvWZo6aKBuJBepzEmvxSx5XsUseV4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409866/%E9%87%8D%E6%85%B62%E6%AD%B2%E5%8D%8A%E5%A5%B3%E7%AB%A5%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E7%9D%A1%E9%86%92%E5%B0%8B%E8%A6%AA2%E6%A8%93%E8%AD%B7%E6%AC%84%E9%96%93%E9%9A%99%E5%A2%AE%E6%A8%93-%E5%A5%87%E8%B9%9F%E5%83%85%E5%8F%97%E8%BC%95%E5%82%B7",
+    "timestamp": "2026-11-13T22:59:08.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重慶2歲半女童獨留在家！睡醒尋親2樓護欄間隙墮樓　奇蹟僅受輕傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198073249741672448327640.jpeg/25TtI_i7GKbvNX0y7hL3wDPrTS8X4P9PeXdLHnl3Sx4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410653/%E5%A4%A7%E5%9F%94%E5%BB%A3%E7%A6%8F%E9%81%93%E5%96%AE%E4%BD%8D%E8%AE%8A%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E8%AD%A6%E6%AA%A2%E8%AD%89%E7%89%A9%E5%8C%85%E6%8B%AC%E9%9B%BB%E5%8B%95%E9%BA%BB%E9%9B%80%E6%9E%B1-11%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-13T16:59:11.476Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強訪泰晤總理阿努廷　冀兩國拓展新能源、半導體、AI等合作",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198068831549919232504382.png/YvTEdVqTXd5bmPH2N55V1ZRIBXJTrCs7P8mcqj_JnKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410651/%E6%9D%8E%E5%BC%B7%E8%A8%AA%E6%B3%B0%E6%99%A4%E7%B8%BD%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7-%E5%86%80%E5%85%A9%E5%9C%8B%E6%8B%93%E5%B1%95%E6%96%B0%E8%83%BD%E6%BA%90-%E5%8D%8A%E5%B0%8E%E9%AB%94-ai%E7%AD%89%E5%90%88%E4%BD%9C",
-    "timestamp": "2026-11-13T16:45:49.852Z",
     "strategy": ".content-card__main"
   }
 ];
