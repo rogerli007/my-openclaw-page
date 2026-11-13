@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T13:19:55.601Z
+// Last updated: 2026-11-13T13:45:26.733Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜英偉達設首位董事會主席　33年元老助穩大局",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198012701712846848258374.jpeg/SoLiZCm790OJPp1vnoq9DlP42nHzEkVqLvqb5y76m-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410603/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E8%A8%AD%E9%A6%96%E4%BD%8D%E8%91%A3%E4%BA%8B%E6%9C%83%E4%B8%BB%E5%B8%AD-33%E5%B9%B4%E5%85%83%E8%80%81%E5%8A%A9%E7%A9%A9%E5%A4%A7%E5%B1%80",
+    "timestamp": "2026-11-13T13:45:26.733Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再婚皇后｜第6集爆身世!李世榮入宮前育一子　淪後宮上位計時炸彈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197881283229782016346128.png/0FZ7I-6mFv2B5uukeGiQvF2oZDylj1tAq2iLIatoiyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60410328/%E9%95%B7%E8%80%85%E6%97%A5%E4%BA%A4%E9%80%9A%E5%84%AA%E6%83%A02026%E6%94%BB%E7%95%A5-11%E5%A4%A7%E4%BA%A4%E9%80%9A%E5%85%8D%E8%B2%BB%E6%90%AD-%E6%B8%AF%E9%90%B5-%E5%B7%B4%E5%A3%AB-%E5%B0%8F%E5%B7%B4-%E9%9B%BB%E8%BB%8A",
     "timestamp": "2026-11-13T07:21:17.015Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "C朗跨界出資開拍電視劇《Day 1s》　傳法國名宿亨利亦在劇中出演",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146278997810745344732608.jpeg/iK8-OB9UklsXI-xrMoIt-WHto81Vtd8nPSYD5j0mA-Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60410396/c%E6%9C%97%E8%B7%A8%E7%95%8C%E5%87%BA%E8%B3%87%E9%96%8B%E6%8B%8D%E9%9B%BB%E8%A6%96%E5%8A%87-day-1s-%E5%82%B3%E6%B3%95%E5%9C%8B%E5%90%8D%E5%AE%BF%E4%BA%A8%E5%88%A9%E4%BA%A6%E5%9C%A8%E5%8A%87%E4%B8%AD%E5%87%BA%E6%BC%94",
-    "timestamp": "2026-11-13T06:50:29.207Z",
     "strategy": ".content-card__main"
   }
 ];
