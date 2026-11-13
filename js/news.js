@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T17:19:11.489Z
+// Last updated: 2026-11-13T17:58:53.856Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "貝森特：政府4部門支持將Megaspeed列黑名單　最終決定權在商務部",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197130037531250688346597.jpeg/7h3pDgk8Tgrd1D0JRlcEqekWyRX-hSQ1s9mgAbPZoAE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410655/%E8%B2%9D%E6%A3%AE%E7%89%B9-%E6%94%BF%E5%BA%9C4%E9%83%A8%E9%96%80%E6%94%AF%E6%8C%81%E5%B0%87megaspeed%E5%88%97%E9%BB%91%E5%90%8D%E5%96%AE-%E6%9C%80%E7%B5%82%E6%B1%BA%E5%AE%9A%E6%AC%8A%E5%9C%A8%E5%95%86%E5%8B%99%E9%83%A8",
+    "timestamp": "2026-11-13T17:58:53.856Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油尖單日849張牛肉乾3人被捕　首10個月13萬張　庫房進帳$5525萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197919449483579392081956.jpeg/xBZK7_31-FniL3kljlNOL5YIGF6ruPlkyUB55slAeeY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410612/%E6%9F%B4%E7%81%A3%E8%81%96%E7%B1%B3%E8%BF%A6%E5%8B%92%E5%B0%8F%E5%AD%B8%E6%AC%BA%E5%87%8C-%E6%A0%A1%E6%96%B9-%E9%85%8D%E5%90%88%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5-%E6%83%85%E7%B7%92%E6%94%AF%E6%8F%B4%E5%8F%8A%E8%BC%94%E5%B0%8E%E5%AD%B8%E7%94%9F",
     "timestamp": "2026-11-13T11:45:16.893Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "容祖兒啟德演唱會｜半小時售罄即宣布加兩場　祖兒食魚蛋粉慶祝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197988943916699648527840.jpeg/ZK_SIhCK_7DMECShpL8KHFdC1tjX6MBOb0sCz29LAs8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60410608/%E5%AE%B9%E7%A5%96%E5%85%92%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8D%8A%E5%B0%8F%E6%99%82%E5%94%AE%E7%BD%84%E5%8D%B3%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A9%E5%A0%B4-%E7%A5%96%E5%85%92%E9%A3%9F%E9%AD%9A%E8%9B%8B%E7%B2%89%E6%85%B6%E7%A5%9D",
-    "timestamp": "2026-11-13T11:19:25.036Z",
     "strategy": ".content-card__main"
   }
 ];
