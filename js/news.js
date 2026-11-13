@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T15:45:09.509Z
+// Last updated: 2026-11-13T15:59:05.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幫手搵人｜65歲梁佩蘭長洲渡輪碼頭最後露面失蹤　家人焦急尋人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198058701718556672512689.jpeg/PeDIonEolq203itn_duKWE6RUm9JgaNH2yWQOdslkDk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410647/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-65%E6%AD%B2%E6%A2%81%E4%BD%A9%E8%98%AD%E9%95%B7%E6%B4%B2%E6%B8%A1%E8%BC%AA%E7%A2%BC%E9%A0%AD%E6%9C%80%E5%BE%8C%E9%9C%B2%E9%9D%A2%E5%A4%B1%E8%B9%A4-%E5%AE%B6%E4%BA%BA%E7%84%A6%E6%80%A5%E5%B0%8B%E4%BA%BA",
+    "timestamp": "2026-11-13T15:59:05.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "微軟死機│Microsoft 365、Outlook故障　為何等大半天仍未修好？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250722/1024295713200148480156427.jpeg/qPkTa2HVMpKm5a_HMy3rl26BcEcBkpsAusyTVbrMk1U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410541/%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%89%E5%AD%A3gdp%E6%8C%89%E5%B9%B4%E5%A2%9E5-2-%E5%87%BA%E5%8F%A3%E9%A3%86%E9%80%BE%E4%B8%89%E6%88%90-%E5%85%A8%E5%B9%B4%E9%A0%90%E6%B8%AC%E8%AA%BF%E5%8D%87%E8%87%B34-8",
     "timestamp": "2026-11-13T09:44:57.959Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜同意鄺球是簡單踏實普通人　鄺港傑指父無投訴要賣樓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197576560995995648042983.jpeg/zLapcO9Yl5Vg_WrgDKWsuIZYSxJXv8pw3P44Vdz-OFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410536/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E5%90%8C%E6%84%8F%E9%84%BA%E7%90%83%E6%98%AF%E7%B0%A1%E5%96%AE%E8%B8%8F%E5%AF%A6%E6%99%AE%E9%80%9A%E4%BA%BA-%E9%84%BA%E6%B8%AF%E5%82%91%E6%8C%87%E7%88%B6%E7%84%A1%E6%8A%95%E8%A8%B4%E8%A6%81%E8%B3%A3%E6%A8%93",
-    "timestamp": "2026-11-13T09:22:01.901Z",
     "strategy": ".content-card__main"
   }
 ];
