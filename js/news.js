@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T22:59:08.457Z
+// Last updated: 2026-11-13T23:19:35.823Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超級月亮10年前今天創68年最近紀錄　下次要等到2034年｜當年熱話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198116109367119872123465.png/dLo6nNZco-nN2H4RhzYJaW4-6GpdClVlolvTKqJb0yo",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410661/%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE10%E5%B9%B4%E5%89%8D%E4%BB%8A%E5%A4%A9%E5%89%B568%E5%B9%B4%E6%9C%80%E8%BF%91%E7%B4%80%E9%8C%84-%E4%B8%8B%E6%AC%A1%E8%A6%81%E7%AD%89%E5%88%B02034%E5%B9%B4-%E7%95%B6%E5%B9%B4%E7%86%B1%E8%A9%B1",
+    "timestamp": "2026-11-13T23:19:35.823Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重慶2歲半女童獨留在家！睡醒尋親2樓護欄間隙墮樓　奇蹟僅受輕傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198077530062458880514729.jpeg/vOGFyqQRnqyHw2Tssbqw7oDso8dFCDBuVJjzcFSY83A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410654/%E6%B2%B9%E5%B0%96%E5%96%AE%E6%97%A5849%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE3%E4%BA%BA%E8%A2%AB%E6%8D%95-%E9%A6%9610%E5%80%8B%E6%9C%8813%E8%90%AC%E5%BC%B5-%E5%BA%AB%E6%88%BF%E9%80%B2%E5%B8%B3-5525%E8%90%AC",
     "timestamp": "2026-11-13T17:19:11.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔廣福道單位變地下竹館　警檢證物包括電動麻雀枱　11人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198073249741672448327640.jpeg/25TtI_i7GKbvNX0y7hL3wDPrTS8X4P9PeXdLHnl3Sx4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410653/%E5%A4%A7%E5%9F%94%E5%BB%A3%E7%A6%8F%E9%81%93%E5%96%AE%E4%BD%8D%E8%AE%8A%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E8%AD%A6%E6%AA%A2%E8%AD%89%E7%89%A9%E5%8C%85%E6%8B%AC%E9%9B%BB%E5%8B%95%E9%BA%BB%E9%9B%80%E6%9E%B1-11%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-13T16:59:11.476Z",
     "strategy": ".content-card__main"
   }
 ];
