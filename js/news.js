@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T08:23:39.957Z
+// Last updated: 2026-11-13T08:35:41.565Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "容祖兒演唱會2027香港加場｜門票公開發售攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183761313516490752843706.jpeg/oo_ZOBYwXbU3mBbFzyNWiyjuXfr3m5RLbT6GJW0-hiU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60360703/%E5%AE%B9%E7%A5%96%E5%85%92%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%85%AC%E9%96%8B%E7%99%BC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-11-13T08:35:41.565Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃錦公路法籍漢擲硬物毀寶馬私家車　警查天眼鎖定身份機場拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194975884432379904631094.jpeg/dqdBwhcorg9Y5clvO167XltjOAHeGglssU7jd7FO43c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60407106/%E9%95%B7%E8%80%85%E6%97%A5%E6%B6%88%E8%B2%BB%E5%84%AA%E6%83%A02026-149%E6%8E%A8%E4%BB%8B-%E7%99%BE%E4%BD%B3%E9%80%81%E5%A5%87%E7%95%B0%E6%9E%9C-aeon%E9%80%81%E9%A4%90%E5%85%B7-%E9%80%81%E7%B1%B3",
     "timestamp": "2026-11-13T02:22:54.727Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新世界0017停牌｜外電稱考慮供股籌最多250億　意味「一供二」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260311/1108413007123451904796058.jpeg/pAsCJ0mBjF6ZJbpvm_ClEagabEqhTna7-_fZOfv32Tk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410279/%E6%96%B0%E4%B8%96%E7%95%8C0017%E5%81%9C%E7%89%8C-%E5%A4%96%E9%9B%BB%E7%A8%B1%E8%80%83%E6%85%AE%E4%BE%9B%E8%82%A1%E7%B1%8C%E6%9C%80%E5%A4%9A250%E5%84%84-%E6%84%8F%E5%91%B3-%E4%B8%80%E4%BE%9B%E4%BA%8C",
-    "timestamp": "2026-11-13T01:59:12.560Z",
     "strategy": ".content-card__main"
   }
 ];
