@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T18:45:39.642Z
+// Last updated: 2026-11-13T18:59:11.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七旬男誤中投資騙案失近$1800萬　警一周接40宗同類案涉款$5000萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198095410523017216803425.jpeg/IWJqePe9L0tLH6ZQxExGE-Pfav9UFPjpWD70jlg-9I4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410658/%E4%B8%83%E6%97%AC%E7%94%B7%E8%AA%A4%E4%B8%AD%E6%8A%95%E8%B3%87%E9%A8%99%E6%A1%88%E5%A4%B1%E8%BF%91-1800%E8%90%AC-%E8%AD%A6%E4%B8%80%E5%91%A8%E6%8E%A540%E5%AE%97%E5%90%8C%E9%A1%9E%E6%A1%88%E6%B6%89%E6%AC%BE-5000%E8%90%AC",
+    "timestamp": "2026-11-13T18:59:11.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七旬男誤中投資騙案失近$1800萬　警一周接40宗同類案涉款$5000萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197970576354840576016543.jpeg/KMknyzcMBp9Gai_MHFxl0Xb2IJfQeZ5Za3ugrWt7oK0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410399/%E7%BE%85%E8%89%B7%E5%8D%BF%E7%9B%9B%E5%82%B3%E5%9D%90%E6%93%81%E5%8D%8A%E6%A2%9D%E8%A1%97%E7%89%A9%E6%A5%AD%E5%8F%8A%E5%95%86%E5%BB%88-%E8%87%AA%E8%AA%8D%E5%AD%A4%E5%AF%92-%E5%80%9F%E4%B8%80%E6%AF%AB%E5%AD%90%E9%83%BD%E5%86%87%E5%BE%97%E5%82%BE",
     "timestamp": "2026-11-13T12:38:30.542Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "驚悚畫面!男子大樓高空走鋼線？ 廣西百色學院：教練測試扁帶運動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197982371916288000328904.png/k1sfcEEl-Qe_O4bRt_bcBimpSNtpqY5Bo7_yWqO_8lo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60410599/%E9%A9%9A%E6%82%9A%E7%95%AB%E9%9D%A2-%E7%94%B7%E5%AD%90%E5%A4%A7%E6%A8%93%E9%AB%98%E7%A9%BA%E8%B5%B0%E9%8B%BC%E7%B7%9A-%E5%BB%A3%E8%A5%BF%E7%99%BE%E8%89%B2%E5%AD%B8%E9%99%A2-%E6%95%99%E7%B7%B4%E6%B8%AC%E8%A9%A6%E6%89%81%E5%B8%B6%E9%81%8B%E5%8B%95",
-    "timestamp": "2026-11-13T12:24:19.024Z",
     "strategy": ".content-card__main"
   }
 ];
