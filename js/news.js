@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T21:59:06.531Z
+// Last updated: 2026-11-13T22:29:23.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重慶2歲半女童獨留在家！睡醒尋親2樓護欄間隙墮樓　奇蹟僅受輕傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197527023912751104873296.png/c9ZzK6o3b_og9uHvWZo6aKBuJBepzEmvxSx5XsUseV4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409866/%E9%87%8D%E6%85%B62%E6%AD%B2%E5%8D%8A%E5%A5%B3%E7%AB%A5%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E7%9D%A1%E9%86%92%E5%B0%8B%E8%A6%AA2%E6%A8%93%E8%AD%B7%E6%AC%84%E9%96%93%E9%9A%99%E5%A2%AE%E6%A8%93-%E5%A5%87%E8%B9%9F%E5%83%85%E5%8F%97%E8%BC%95%E5%82%B7",
+    "timestamp": "2026-11-13T22:29:23.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國聯邦航空管理局發布全國航班停飛令　運輸部稱因通訊問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157685684517998592870592.jpeg/i0kEpNORihyC7JeOdjdSj5lzVKptfLiJ4wCP0ckAj9E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410650/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92%E6%8F%AD%E7%B6%B2%E7%B5%A1%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E5%B0%87%E9%80%9A%E7%9F%A5%E7%A7%81%E9%9A%B1%E5%85%AC%E7%BD%B2-%E5%BB%BA%E8%AD%B0%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93%E8%B3%BC%E7%A5%A8",
     "timestamp": "2026-11-13T16:31:18.954Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日圓兌4.9算｜iPhone預建多張Suica卡教學｜破增值上限賺簽帳回贈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156676558346260480065329.jpeg/yZTKP_PmE5xDy8i7LJmAyOR64Yb_Hu2x0USHYtFEh2I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60363643/%E6%97%A5%E5%9C%93%E5%85%8C4-8%E7%AE%97-iphone%E9%A0%90%E5%BB%BA%E5%A4%9A%E5%BC%B5suica%E5%8D%A1%E6%95%99%E5%AD%B8-%E7%A0%B4%E5%A2%9E%E5%80%BC%E4%B8%8A%E9%99%90%E8%B3%BA%E7%B0%BD%E5%B8%B3%E5%9B%9E%E8%B4%88",
-    "timestamp": "2026-11-13T16:19:19.032Z",
     "strategy": ".content-card__main"
   }
 ];
