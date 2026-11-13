@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T09:44:57.959Z
+// Last updated: 2026-11-13T09:58:59.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "啤酒支裝長頸有何用？以為是造型就錯了！釀酒專家揭3關鍵防變苦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197958566728699904301457.jpeg/yao2Ac72Q8GgVFT2FpODkc8ScmjZ2J8L4Th5ceE4eXE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60410511/%E5%95%A4%E9%85%92%E6%94%AF%E8%A3%9D%E9%95%B7%E9%A0%B8%E6%9C%89%E4%BD%95%E7%94%A8-%E4%BB%A5%E7%82%BA%E6%98%AF%E9%80%A0%E5%9E%8B%E5%B0%B1%E9%8C%AF%E4%BA%86-%E9%87%80%E9%85%92%E5%B0%88%E5%AE%B6%E6%8F%AD3%E9%97%9C%E9%8D%B5%E9%98%B2%E8%AE%8A%E8%8B%A6",
+    "timestamp": "2026-11-13T09:58:59.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港第三季GDP按年增5.2%　出口飆逾三成　全年預測調升至4.8%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197868566410432512632091.png/2MMFOSX5jyS86wJCwQnt3rCm4TdQs9CNrFbjVqxW41Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410327/%E6%9F%B4%E7%81%A3%E8%88%88%E8%8F%AF%E9%82%A8%E8%A1%80%E6%A1%88-31%E6%AD%B2%E7%94%B7%E7%96%91%E5%B1%A2%E8%A2%AB%E7%BD%B5%E5%A4%B1%E6%A5%AD%E6%93%B8%E9%9B%99%E5%88%80%E8%BF%BD%E6%96%AC-%E6%AF%8D%E9%A0%AD%E9%A0%B8%E5%82%B7%E5%85%A5icu",
     "timestamp": "2026-11-13T03:33:36.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柴灣興華邨血案｜31歲男疑屢被罵失業擸雙刀追斬　母頭頸傷入ICU",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197868566410432512632091.png/2MMFOSX5jyS86wJCwQnt3rCm4TdQs9CNrFbjVqxW41Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410327/%E6%9F%B4%E7%81%A3%E8%88%88%E8%8F%AF%E9%82%A8%E8%A1%80%E6%A1%88-31%E6%AD%B2%E7%94%B7%E7%96%91%E5%B1%A2%E8%A2%AB%E7%BD%B5%E5%A4%B1%E6%A5%AD%E6%93%B8%E9%9B%99%E5%88%80%E8%BF%BD%E6%96%AC-%E6%AF%8D%E9%A0%AD%E9%A0%B8%E5%82%B7%E5%85%A5icu",
-    "timestamp": "2026-11-13T03:19:46.366Z",
     "strategy": ".content-card__main"
   }
 ];
