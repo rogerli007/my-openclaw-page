@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T14:59:12.430Z
+// Last updated: 2026-11-13T15:19:35.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梁敏巧積極備戰台慶激減8磅　自爆曾於街頭遭低角度偷拍拒啞忍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198004314950340608512406.jpeg/vw27o3C5CU0YN56nu5q1DE0pbYR_2Iwx34xCn-WMQp8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410620/%E6%A2%81%E6%95%8F%E5%B7%A7%E7%A9%8D%E6%A5%B5%E5%82%99%E6%88%B0%E5%8F%B0%E6%85%B6%E6%BF%80%E6%B8%9B8%E7%A3%85-%E8%87%AA%E7%88%86%E6%9B%BE%E6%96%BC%E8%A1%97%E9%A0%AD%E9%81%AD%E4%BD%8E%E8%A7%92%E5%BA%A6%E5%81%B7%E6%8B%8D%E6%8B%92%E5%95%9E%E5%BF%8D",
+    "timestamp": "2026-11-13T15:19:35.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡楓華洗脫污名合體翁靜晶講奇案　亮2005年口供自證：講唔出大話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196448728576167936839026.jpeg/D0rf7YdtvkS1wswOOoNvNNqiTNDlQ9i9vmmOSr5pjko?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410521/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E7%8D%84%E4%B8%AD%E4%BF%A1%E6%8F%90%E7%84%A1%E7%95%99%E6%84%8F%E7%88%B8%E6%98%AF%E5%90%A6%E6%9C%89%E6%AD%A6%E5%99%A8-%E9%84%BA%E6%B8%AF%E5%82%91%E8%AA%8D%E6%9B%BE%E6%83%B3%E8%88%87%E5%BC%9F%E5%A4%BE%E5%8F%A3%E4%BE%9B",
     "timestamp": "2026-11-13T08:59:11.117Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "容祖兒演唱會2027香港加場｜門票公開發售攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261005/1183761313516490752843706.jpeg/oo_ZOBYwXbU3mBbFzyNWiyjuXfr3m5RLbT6GJW0-hiU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60360703/%E5%AE%B9%E7%A5%96%E5%85%92%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%85%AC%E9%96%8B%E7%99%BC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-11-13T08:35:41.565Z",
     "strategy": ".content-card__main"
   }
 ];
