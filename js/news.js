@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T15:59:05.617Z
+// Last updated: 2026-11-13T16:19:19.032Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日圓兌4.9算｜iPhone預建多張Suica卡教學｜破增值上限賺簽帳回贈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156676558346260480065329.jpeg/yZTKP_PmE5xDy8i7LJmAyOR64Yb_Hu2x0USHYtFEh2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60363643/%E6%97%A5%E5%9C%93%E5%85%8C4-8%E7%AE%97-iphone%E9%A0%90%E5%BB%BA%E5%A4%9A%E5%BC%B5suica%E5%8D%A1%E6%95%99%E5%AD%B8-%E7%A0%B4%E5%A2%9E%E5%80%BC%E4%B8%8A%E9%99%90%E8%B3%BA%E7%B0%BD%E5%B8%B3%E5%9B%9E%E8%B4%88",
+    "timestamp": "2026-11-13T16:19:19.032Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幫手搵人｜65歲梁佩蘭長洲渡輪碼頭最後露面失蹤　家人焦急尋人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197958566728699904301457.jpeg/yao2Ac72Q8GgVFT2FpODkc8ScmjZ2J8L4Th5ceE4eXE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60410511/%E5%95%A4%E9%85%92%E6%94%AF%E8%A3%9D%E9%95%B7%E9%A0%B8%E6%9C%89%E4%BD%95%E7%94%A8-%E4%BB%A5%E7%82%BA%E6%98%AF%E9%80%A0%E5%9E%8B%E5%B0%B1%E9%8C%AF%E4%BA%86-%E9%87%80%E9%85%92%E5%B0%88%E5%AE%B6%E6%8F%AD3%E9%97%9C%E9%8D%B5%E9%98%B2%E8%AE%8A%E8%8B%A6",
     "timestamp": "2026-11-13T09:58:59.361Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港第三季GDP按年增5.2%　出口飆逾三成　全年預測調升至4.8%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250722/1024295713200148480156427.jpeg/qPkTa2HVMpKm5a_HMy3rl26BcEcBkpsAusyTVbrMk1U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410541/%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%89%E5%AD%A3gdp%E6%8C%89%E5%B9%B4%E5%A2%9E5-2-%E5%87%BA%E5%8F%A3%E9%A3%86%E9%80%BE%E4%B8%89%E6%88%90-%E5%85%A8%E5%B9%B4%E9%A0%90%E6%B8%AC%E8%AA%BF%E5%8D%87%E8%87%B34-8",
-    "timestamp": "2026-11-13T09:44:57.959Z",
     "strategy": ".content-card__main"
   }
 ];
