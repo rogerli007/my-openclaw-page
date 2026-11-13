@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T10:29:36.787Z
+// Last updated: 2026-11-13T10:45:26.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "漁護署明起連續兩周六特別巡查狗隻　若狗主無妥善控制會即時執法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197978316221452288589742.jpeg/vN3gpnP9G-b06rVFC4J_5sSX5NzRxeOMQJ0R_UCdEf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410588/%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%98%8E%E8%B5%B7%E9%80%A3%E7%BA%8C%E5%85%A9%E5%91%A8%E5%85%AD%E7%89%B9%E5%88%A5%E5%B7%A1%E6%9F%A5%E7%8B%97%E9%9A%BB-%E8%8B%A5%E7%8B%97%E4%B8%BB%E7%84%A1%E5%A6%A5%E5%96%84%E6%8E%A7%E5%88%B6%E6%9C%83%E5%8D%B3%E6%99%82%E5%9F%B7%E6%B3%95",
+    "timestamp": "2026-11-13T10:45:26.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北都｜洪水橋現代物流圈截收16份意向書　來自發展商、物流營運商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197879685871046656061539.jpeg/zPHuxRI2dVEF7RF-z7YdHjIIJoW-wRgK0UVrvNFFa7w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410354/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E9%A6%AC%E9%9E%8D%E5%B1%B114%E6%AD%B2%E8%95%AD%E6%A8%82%E7%91%A4%E9%9B%A2%E9%96%8B%E8%80%80%E5%AE%89%E9%82%A8%E4%BD%8F%E6%89%80%E5%BE%8C%E5%A4%B1%E8%B9%A4-%E5%AE%B6%E4%BA%BA%E5%BF%83%E6%80%A5%E5%B0%8B%E4%BA%BA",
     "timestamp": "2026-11-13T03:59:10.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳撐子女追夢女兒曾因一句話改讀烹飪　當廚師赴藍帶學院進修",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197871495947227136539164.jpeg/jnIifUR1OGyGKHW34J8Ef2pj_lSkLXxX0xioK9MYqCs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60410255/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%92%90%E5%AD%90%E5%A5%B3%E8%BF%BD%E5%A4%A2%E5%A5%B3%E5%85%92%E6%9B%BE%E5%9B%A0%E4%B8%80%E5%8F%A5%E8%A9%B1%E6%94%B9%E8%AE%80%E7%83%B9%E9%A3%AA-%E7%95%B6%E5%BB%9A%E5%B8%AB%E8%B5%B4%E8%97%8D%E5%B8%B6%E5%AD%B8%E9%99%A2%E9%80%B2%E4%BF%AE",
-    "timestamp": "2026-11-13T03:45:27.252Z",
     "strategy": ".content-card__main"
   }
 ];
