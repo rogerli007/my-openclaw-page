@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T16:19:19.032Z
+// Last updated: 2026-11-13T16:31:18.954Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "迪士尼樂園揭網絡事件已報警　將通知私隱公署　建議官方渠道購票",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157685684517998592870592.jpeg/i0kEpNORihyC7JeOdjdSj5lzVKptfLiJ4wCP0ckAj9E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410650/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92%E6%8F%AD%E7%B6%B2%E7%B5%A1%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E5%B0%87%E9%80%9A%E7%9F%A5%E7%A7%81%E9%9A%B1%E5%85%AC%E7%BD%B2-%E5%BB%BA%E8%AD%B0%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93%E8%B3%BC%E7%A5%A8",
+    "timestamp": "2026-11-13T16:31:18.954Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日圓兌4.9算｜iPhone預建多張Suica卡教學｜破增值上限賺簽帳回贈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164629370157928448179852.jpeg/CQrY39LGfYTUa0jHIag8X2X5oz7hhp8LbWgRHm1oER4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60410582/%E5%8C%97%E9%83%BD-%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%8F%BE%E4%BB%A3%E7%89%A9%E6%B5%81%E5%9C%88%E6%88%AA%E6%94%B616%E4%BB%BD%E6%84%8F%E5%90%91%E6%9B%B8-%E4%BE%86%E8%87%AA%E7%99%BC%E5%B1%95%E5%95%86-%E7%89%A9%E6%B5%81%E7%87%9F%E9%81%8B%E5%95%86",
     "timestamp": "2026-11-13T10:29:36.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "啤酒支裝長頸有何用？以為是造型就錯了！釀酒專家揭3關鍵防變苦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197958566728699904301457.jpeg/yao2Ac72Q8GgVFT2FpODkc8ScmjZ2J8L4Th5ceE4eXE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60410511/%E5%95%A4%E9%85%92%E6%94%AF%E8%A3%9D%E9%95%B7%E9%A0%B8%E6%9C%89%E4%BD%95%E7%94%A8-%E4%BB%A5%E7%82%BA%E6%98%AF%E9%80%A0%E5%9E%8B%E5%B0%B1%E9%8C%AF%E4%BA%86-%E9%87%80%E9%85%92%E5%B0%88%E5%AE%B6%E6%8F%AD3%E9%97%9C%E9%8D%B5%E9%98%B2%E8%AE%8A%E8%8B%A6",
-    "timestamp": "2026-11-13T09:58:59.361Z",
     "strategy": ".content-card__main"
   }
 ];
