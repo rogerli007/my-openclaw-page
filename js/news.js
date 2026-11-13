@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T17:58:53.856Z
+// Last updated: 2026-11-13T18:21:17.434Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七旬男誤中投資騙案失近$1800萬　警一周接40宗同類案涉款$5000萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198095410523017216803425.jpeg/IWJqePe9L0tLH6ZQxExGE-Pfav9UFPjpWD70jlg-9I4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410658/%E4%B8%83%E6%97%AC%E7%94%B7%E8%AA%A4%E4%B8%AD%E6%8A%95%E8%B3%87%E9%A8%99%E6%A1%88%E5%A4%B1%E8%BF%91-1800%E8%90%AC-%E8%AD%A6%E4%B8%80%E5%91%A8%E6%8E%A540%E5%AE%97%E5%90%8C%E9%A1%9E%E6%A1%88%E6%B6%89%E6%AC%BE-5000%E8%90%AC",
+    "timestamp": "2026-11-13T18:21:17.434Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "貝森特：政府4部門支持將Megaspeed列黑名單　最終決定權在商務部",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241120/936053840132706304058369.jpeg/wYAscwq5f8VGbdYKkxZK4U26Qpm9HFuzw9cVNfnXFTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410615/%E5%85%83%E6%9C%97%E5%A4%A7%E9%99%82%E9%A0%AD%E5%BE%91%E4%BA%94%E6%97%AC%E6%BC%A2%E9%9A%A8%E5%A5%B3%E5%AD%90%E4%B8%8A%E6%A8%93%E6%8C%89%E6%91%A9-%E5%A4%B1-5%E8%90%AC%E9%87%91%E9%8F%88%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9",
     "timestamp": "2026-11-13T11:59:11.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "柴灣聖米迦勒小學欺凌｜校方：配合警方調查　情緒支援及輔導學生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197919449483579392081956.jpeg/xBZK7_31-FniL3kljlNOL5YIGF6ruPlkyUB55slAeeY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410612/%E6%9F%B4%E7%81%A3%E8%81%96%E7%B1%B3%E8%BF%A6%E5%8B%92%E5%B0%8F%E5%AD%B8%E6%AC%BA%E5%87%8C-%E6%A0%A1%E6%96%B9-%E9%85%8D%E5%90%88%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5-%E6%83%85%E7%B7%92%E6%94%AF%E6%8F%B4%E5%8F%8A%E8%BC%94%E5%B0%8E%E5%AD%B8%E7%94%9F",
-    "timestamp": "2026-11-13T11:45:16.893Z",
     "strategy": ".content-card__main"
   }
 ];
