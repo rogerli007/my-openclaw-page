@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T12:59:12.052Z
+// Last updated: 2026-11-13T13:19:55.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "再婚皇后｜第6集爆身世!李世榮入宮前育一子　淪後宮上位計時炸彈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197922944529993728307945.png/Z_f0wXdPV3z0BtlGLLb2tLVkSAhfdbU0bal_b22pf28?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410391/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E7%AC%AC6%E9%9B%86%E7%88%86%E8%BA%AB%E4%B8%96-%E6%9D%8E%E4%B8%96%E6%A6%AE%E5%85%A5%E5%AE%AE%E5%89%8D%E8%82%B2%E4%B8%80%E5%AD%90-%E6%B7%AA%E5%BE%8C%E5%AE%AE%E4%B8%8A%E4%BD%8D%E8%A8%88%E6%99%82%E7%82%B8%E5%BD%88",
+    "timestamp": "2026-11-13T13:19:55.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港交所12.14推數碼港元交按金　夜期支付延至凌晨1時半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146278997810745344732608.jpeg/iK8-OB9UklsXI-xrMoIt-WHto81Vtd8nPSYD5j0mA-Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60410396/c%E6%9C%97%E8%B7%A8%E7%95%8C%E5%87%BA%E8%B3%87%E9%96%8B%E6%8B%8D%E9%9B%BB%E8%A6%96%E5%8A%87-day-1s-%E5%82%B3%E6%B3%95%E5%9C%8B%E5%90%8D%E5%AE%BF%E4%BA%A8%E5%88%A9%E4%BA%A6%E5%9C%A8%E5%8A%87%E4%B8%AD%E5%87%BA%E6%BC%94",
     "timestamp": "2026-11-13T06:50:29.207Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廉政公署｜廉署「二哥」丘樹春退休　蔡樹強11.17起任副廉政專員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230615/746106206589816832917850.jpeg/yisp8USg2V6I5HMgxIzQ32iy0Fup5Y_2EKVGuhClRro?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410413/%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2-%E5%BB%89%E7%BD%B2-%E4%BA%8C%E5%93%A5-%E4%B8%98%E6%A8%B9%E6%98%A5%E9%80%80%E4%BC%91-%E8%94%A1%E6%A8%B9%E5%BC%B711-17%E8%B5%B7%E4%BB%BB%E5%89%AF%E5%BB%89%E6%94%BF%E5%B0%88%E5%93%A1",
-    "timestamp": "2026-11-13T06:27:45.317Z",
     "strategy": ".content-card__main"
   }
 ];
