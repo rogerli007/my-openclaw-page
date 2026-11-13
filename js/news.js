@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T02:59:21.756Z
+// Last updated: 2026-11-13T03:19:46.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柴灣興華邨血案｜31歲男疑屢被罵失業擸雙刀追斬　母頭頸傷入ICU",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197868566410432512632091.png/2MMFOSX5jyS86wJCwQnt3rCm4TdQs9CNrFbjVqxW41Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410327/%E6%9F%B4%E7%81%A3%E8%88%88%E8%8F%AF%E9%82%A8%E8%A1%80%E6%A1%88-31%E6%AD%B2%E7%94%B7%E7%96%91%E5%B1%A2%E8%A2%AB%E7%BD%B5%E5%A4%B1%E6%A5%AD%E6%93%B8%E9%9B%99%E5%88%80%E8%BF%BD%E6%96%AC-%E6%AF%8D%E9%A0%AD%E9%A0%B8%E5%82%B7%E5%85%A5icu",
+    "timestamp": "2026-11-13T03:19:46.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉歡並非「不死癌症」奪命　秘抗膀胱癌14年　遺孀淚灑8千字長文",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197766158288162816438975.jpeg/ddLbv0qohIwZYSaI-w07aeASjdHibWXpQqlcHnipXB4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410253/bigbang%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83-30%E4%BA%BA%E9%80%9A%E5%AE%B5%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7%E5%91%A8%E9%82%8A%E5%95%86%E5%93%81-%E5%A5%B3%E7%B2%89%E7%B5%B2-%E7%84%A1%E9%A0%90%E7%AE%97",
     "timestamp": "2026-11-12T20:45:45.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘男子捱斬倒地遺血路　一度昏迷送院治理　警到場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197749258174861312612970.jpeg/yLBfpV15Azs7yR7rX1OsR8afZYu-_Xo30QyDQOsMg0A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410252/%E8%A7%80%E5%A1%98%E7%94%B7%E5%AD%90%E6%8D%B1%E6%96%AC%E5%80%92%E5%9C%B0%E9%81%BA%E8%A1%80%E8%B7%AF-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-12T20:19:58.267Z",
     "strategy": ".content-card__main"
   }
 ];
