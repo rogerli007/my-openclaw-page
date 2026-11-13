@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T03:45:27.252Z
+// Last updated: 2026-11-13T03:59:10.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幫手搵人︱馬鞍山14歲蕭樂瑤離開耀安邨住所後失蹤　家人心急尋人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197879685871046656061539.jpeg/zPHuxRI2dVEF7RF-z7YdHjIIJoW-wRgK0UVrvNFFa7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410354/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E9%A6%AC%E9%9E%8D%E5%B1%B114%E6%AD%B2%E8%95%AD%E6%A8%82%E7%91%A4%E9%9B%A2%E9%96%8B%E8%80%80%E5%AE%89%E9%82%A8%E4%BD%8F%E6%89%80%E5%BE%8C%E5%A4%B1%E8%B9%A4-%E5%AE%B6%E4%BA%BA%E5%BF%83%E6%80%A5%E5%B0%8B%E4%BA%BA",
+    "timestamp": "2026-11-13T03:59:10.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳撐子女追夢女兒曾因一句話改讀烹飪　當廚師赴藍帶學院進修",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197783630907183104460512.jpeg/q7PTfAiyFA8Pfe1sLWNv8fhF4a3kkZIvtEO-bI5Dvmw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410257/%E6%9F%B4%E7%81%A3%E8%88%88%E8%8F%AF%E9%82%A8%E6%AF%8D%E5%AD%90%E9%8C%A2%E9%8A%80%E5%95%8F%E9%A1%8C%E7%88%AD%E5%9F%B7-31%E6%AD%B2%E5%85%92%E5%AD%90%E6%93%B8%E9%9B%99%E5%88%80%E5%82%B7%E6%AF%8D%E8%A2%AB%E6%8D%95-%E9%87%8D%E6%A1%88%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-11-12T21:45:15.699Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關粉嶺華明邨偵破兩宗私煙案　檢獲$110萬貨　5人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197778659952300032418605.jpeg/kQO0ncveH4aQU6jUj9OQGZB36E9Ry_ssmi3XHaAt1x0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410256/%E6%B5%B7%E9%97%9C%E7%B2%89%E5%B6%BA%E8%8F%AF%E6%98%8E%E9%82%A8%E5%81%B5%E7%A0%B4%E5%85%A9%E5%AE%97%E7%A7%81%E7%85%99%E6%A1%88-%E6%AA%A2%E7%8D%B2-110%E8%90%AC%E8%B2%A8-5%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-12T21:19:13.914Z",
     "strategy": ".content-card__main"
   }
 ];
