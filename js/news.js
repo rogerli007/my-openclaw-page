@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T11:19:25.036Z
+// Last updated: 2026-11-13T11:45:16.893Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "柴灣聖米迦勒小學欺凌｜校方：配合警方調查　情緒支援及輔導學生",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197919449483579392081956.jpeg/xBZK7_31-FniL3kljlNOL5YIGF6ruPlkyUB55slAeeY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410612/%E6%9F%B4%E7%81%A3%E8%81%96%E7%B1%B3%E8%BF%A6%E5%8B%92%E5%B0%8F%E5%AD%B8%E6%AC%BA%E5%87%8C-%E6%A0%A1%E6%96%B9-%E9%85%8D%E5%90%88%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5-%E6%83%85%E7%B7%92%E6%94%AF%E6%8F%B4%E5%8F%8A%E8%BC%94%E5%B0%8E%E5%AD%B8%E7%94%9F",
+    "timestamp": "2026-11-13T11:45:16.893Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "容祖兒啟德演唱會｜半小時售罄即宣布加兩場　祖兒食魚蛋粉慶祝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197614208980619264694235.jpeg/-2VjVDbsr3CZIxMJSd33tsNd23e1X_TBY9ULcGPVC3A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410120/%E9%83%AD%E7%BE%A8%E5%A6%AE%E7%8F%8D%E8%97%8F90%E5%B9%B4%E4%BB%A3%E7%A9%BA%E5%A7%90%E8%88%8A%E7%85%A7%E6%9B%9D%E5%85%89-%E9%9B%B6%E6%BF%BE%E9%8F%A1%E7%94%9C%E7%BE%8E%E6%B8%85%E7%B4%94%E7%A5%9E%E9%A1%8F%E9%A9%9A%E8%89%B7%E5%85%A8%E7%B6%B2",
     "timestamp": "2026-11-13T04:44:40.129Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "不能報時的錶 盤點韓國品牌EGNARTS以柯根紗大玩錯視的怪誕單品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197224008332873728736840.jpeg/YjzoYEXPbHbrM0JwBiDuE03u1kOnUBQD4fNBduHzQXY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60409478/%E4%B8%8D%E8%83%BD%E5%A0%B1%E6%99%82%E7%9A%84%E9%8C%B6-%E7%9B%A4%E9%BB%9E%E9%9F%93%E5%9C%8B%E5%93%81%E7%89%8Cegnarts%E4%BB%A5%E6%9F%AF%E6%A0%B9%E7%B4%97%E5%A4%A7%E7%8E%A9%E9%8C%AF%E8%A6%96%E7%9A%84%E6%80%AA%E8%AA%95%E5%96%AE%E5%93%81",
-    "timestamp": "2026-11-13T04:32:54.696Z",
     "strategy": ".content-card__main"
   }
 ];
