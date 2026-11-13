@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T21:45:22.639Z
+// Last updated: 2026-11-13T21:59:06.531Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國聯邦航空管理局發布全國航班停飛令　運輸部稱因通訊問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251109/1064206217972289536357296.jpeg/dmnqdsEX6aMDheBtXy20afNSPGLyoLuKC_tX0gv7V9I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410669/%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E8%88%AA%E7%A9%BA%E7%AE%A1%E7%90%86%E5%B1%80%E7%99%BC%E5%B8%83%E5%85%A8%E5%9C%8B%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B%E4%BB%A4-%E9%81%8B%E8%BC%B8%E9%83%A8%E7%A8%B1%E5%9B%A0%E9%80%9A%E8%A8%8A%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-11-13T21:59:06.531Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英偉達董事會：尚未正式接觸任何潛在候選人　亦未選定獵頭公司",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260722/1156676558346260480065329.jpeg/yZTKP_PmE5xDy8i7LJmAyOR64Yb_Hu2x0USHYtFEh2I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60363643/%E6%97%A5%E5%9C%93%E5%85%8C4-8%E7%AE%97-iphone%E9%A0%90%E5%BB%BA%E5%A4%9A%E5%BC%B5suica%E5%8D%A1%E6%95%99%E5%AD%B8-%E7%A0%B4%E5%A2%9E%E5%80%BC%E4%B8%8A%E9%99%90%E8%B3%BA%E7%B0%BD%E5%B8%B3%E5%9B%9E%E8%B4%88",
     "timestamp": "2026-11-13T16:19:19.032Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "幫手搵人｜65歲梁佩蘭長洲渡輪碼頭最後露面失蹤　家人焦急尋人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198058701718556672512689.jpeg/PeDIonEolq203itn_duKWE6RUm9JgaNH2yWQOdslkDk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410647/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-65%E6%AD%B2%E6%A2%81%E4%BD%A9%E8%98%AD%E9%95%B7%E6%B4%B2%E6%B8%A1%E8%BC%AA%E7%A2%BC%E9%A0%AD%E6%9C%80%E5%BE%8C%E9%9C%B2%E9%9D%A2%E5%A4%B1%E8%B9%A4-%E5%AE%B6%E4%BA%BA%E7%84%A6%E6%80%A5%E5%B0%8B%E4%BA%BA",
-    "timestamp": "2026-11-13T15:59:05.617Z",
     "strategy": ".content-card__main"
   }
 ];
