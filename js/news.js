@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T16:31:18.954Z
+// Last updated: 2026-11-13T16:45:49.852Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強訪泰晤總理阿努廷　冀兩國拓展新能源、半導體、AI等合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198068831549919232504382.png/YvTEdVqTXd5bmPH2N55V1ZRIBXJTrCs7P8mcqj_JnKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410651/%E6%9D%8E%E5%BC%B7%E8%A8%AA%E6%B3%B0%E6%99%A4%E7%B8%BD%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7-%E5%86%80%E5%85%A9%E5%9C%8B%E6%8B%93%E5%B1%95%E6%96%B0%E8%83%BD%E6%BA%90-%E5%8D%8A%E5%B0%8E%E9%AB%94-ai%E7%AD%89%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-11-13T16:45:49.852Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "迪士尼樂園揭網絡事件已報警　將通知私隱公署　建議官方渠道購票",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197978316221452288589742.jpeg/vN3gpnP9G-b06rVFC4J_5sSX5NzRxeOMQJ0R_UCdEf0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410588/%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%98%8E%E8%B5%B7%E9%80%A3%E7%BA%8C%E5%85%A9%E5%91%A8%E5%85%AD%E7%89%B9%E5%88%A5%E5%B7%A1%E6%9F%A5%E7%8B%97%E9%9A%BB-%E8%8B%A5%E7%8B%97%E4%B8%BB%E7%84%A1%E5%A6%A5%E5%96%84%E6%8E%A7%E5%88%B6%E6%9C%83%E5%8D%B3%E6%99%82%E5%9F%B7%E6%B3%95",
     "timestamp": "2026-11-13T10:45:26.841Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北都｜洪水橋現代物流圈截收16份意向書　來自發展商、物流營運商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260813/1164629370157928448179852.jpeg/CQrY39LGfYTUa0jHIag8X2X5oz7hhp8LbWgRHm1oER4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60410582/%E5%8C%97%E9%83%BD-%E6%B4%AA%E6%B0%B4%E6%A9%8B%E7%8F%BE%E4%BB%A3%E7%89%A9%E6%B5%81%E5%9C%88%E6%88%AA%E6%94%B616%E4%BB%BD%E6%84%8F%E5%90%91%E6%9B%B8-%E4%BE%86%E8%87%AA%E7%99%BC%E5%B1%95%E5%95%86-%E7%89%A9%E6%B5%81%E7%87%9F%E9%81%8B%E5%95%86",
-    "timestamp": "2026-11-13T10:29:36.787Z",
     "strategy": ".content-card__main"
   }
 ];
