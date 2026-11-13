@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T07:21:17.015Z
+// Last updated: 2026-11-13T07:45:50.178Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "強積金修例草案刊憲　擬引入兩級附加費機制　增僱主拖供款阻嚇力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197926674721673216374062.jpeg/2SoCMweSc1jM3SDT1A3H8IH-2fCIC2mB_6pa-f-qWvk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410446/%E5%BC%B7%E7%A9%8D%E9%87%91%E4%BF%AE%E4%BE%8B%E8%8D%89%E6%A1%88%E5%88%8A%E6%86%B2-%E6%93%AC%E5%BC%95%E5%85%A5%E5%85%A9%E7%B4%9A%E9%99%84%E5%8A%A0%E8%B2%BB%E6%A9%9F%E5%88%B6-%E5%A2%9E%E5%83%B1%E4%B8%BB%E6%8B%96%E4%BE%9B%E6%AC%BE%E9%98%BB%E5%9A%87%E5%8A%9B",
+    "timestamp": "2026-11-13T07:45:50.178Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長者日交通優惠2026攻略｜11大交通免費搭！港鐵/巴士/小巴/電車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197737914918768640164532.png/1ExtQErhADr7n8XpE1lzSTzcjgXC18RXnWt86J1rfOg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60405780/%E6%B8%85%E4%BB%A3%E7%A7%91%E8%88%89%E8%80%83%E7%94%9F%E5%9B%B03%E5%B0%BA%E9%97%8A%E8%99%9F%E8%88%8D-%E5%B1%88%E8%86%9D%E5%90%83%E7%9D%A1%E6%8D%B1%E4%B8%89%E5%A4%A9-%E8%BF%91%E5%BB%81%E6%89%80%E5%B4%A9%E6%BD%B0-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
     "timestamp": "2026-11-13T01:20:13.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "微軟死機｜Outlook與Teams突發大規模故障　或影響港人發電郵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197833201293201408491062.jpeg/o14S_urdmXGJyf8fLZF4x_kIJ_zFfxanNJ2tDzSdrQ8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410263/%E5%BE%AE%E8%BB%9F%E6%AD%BB%E6%A9%9F-outlook%E8%88%87teams%E7%AA%81%E7%99%BC%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%95%85%E9%9A%9C-%E6%88%96%E5%BD%B1%E9%9F%BF%E6%B8%AF%E4%BA%BA%E7%99%BC%E9%9B%BB%E9%83%B5",
-    "timestamp": "2026-11-13T00:57:58.772Z",
     "strategy": ".content-card__main"
   }
 ];
