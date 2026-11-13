@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T08:59:11.117Z
+// Last updated: 2026-11-13T09:22:01.901Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜同意鄺球是簡單踏實普通人　鄺港傑指父無投訴要賣樓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197576560995995648042983.jpeg/zLapcO9Yl5Vg_WrgDKWsuIZYSxJXv8pw3P44Vdz-OFU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410536/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E5%90%8C%E6%84%8F%E9%84%BA%E7%90%83%E6%98%AF%E7%B0%A1%E5%96%AE%E8%B8%8F%E5%AF%A6%E6%99%AE%E9%80%9A%E4%BA%BA-%E9%84%BA%E6%B8%AF%E5%82%91%E6%8C%87%E7%88%B6%E7%84%A1%E6%8A%95%E8%A8%B4%E8%A6%81%E8%B3%A3%E6%A8%93",
+    "timestamp": "2026-11-13T09:22:01.901Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜獄中信提無留意爸是否有武器　鄺港傑認曾想與弟夾口供",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197861655552200704653489.jpeg/eReX0jnoMLuHdcisbitLeXti54yuDNx5UB899VAfPfU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60410298/%E5%8A%89%E6%AD%A1%E4%B8%A6%E9%9D%9E-%E4%B8%8D%E6%AD%BB%E7%99%8C%E7%97%87-%E5%A5%AA%E5%91%BD-%E7%A7%98%E6%8A%97%E8%86%80%E8%83%B1%E7%99%8C14%E5%B9%B4-%E9%81%BA%E5%AD%80%E6%B7%9A%E7%81%918%E5%8D%83%E5%AD%97%E9%95%B7%E6%96%87",
     "timestamp": "2026-11-13T02:59:21.756Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜英偉達V彈有救？　Fund佬拆局　黃國英一原因戒抄底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197683875434729472172853.jpeg/WoCtUNK2SIppf0LP2NJr3eBYQrutJriVP2BYDz9gWA8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410105/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94v%E5%BD%88%E6%9C%89%E6%95%91-fund%E4%BD%AC%E6%8B%86%E5%B1%80-%E9%BB%83%E5%9C%8B%E8%8B%B1%E4%B8%80%E5%8E%9F%E5%9B%A0%E6%88%92%E6%8A%84%E5%BA%95",
-    "timestamp": "2026-11-13T02:45:56.213Z",
     "strategy": ".content-card__main"
   }
 ];
