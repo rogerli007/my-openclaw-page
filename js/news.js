@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T20:59:11.798Z
+// Last updated: 2026-11-13T21:12:44.202Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英偉達董事會：尚未正式接觸任何潛在候選人　亦未選定獵頭公司",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410667/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83-%E5%B0%9A%E6%9C%AA%E6%AD%A3%E5%BC%8F%E6%8E%A5%E8%A7%B8%E4%BB%BB%E4%BD%95%E6%BD%9B%E5%9C%A8%E5%80%99%E9%81%B8%E4%BA%BA-%E4%BA%A6%E6%9C%AA%E9%81%B8%E5%AE%9A%E7%8D%B5%E9%A0%AD%E5%85%AC%E5%8F%B8",
+    "timestamp": "2026-11-13T21:12:44.202Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "土耳其與卡塔爾簽署共同防禦協議　承諾對外部武裝攻擊採統一立場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198004314950340608512406.jpeg/vw27o3C5CU0YN56nu5q1DE0pbYR_2Iwx34xCn-WMQp8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410620/%E6%A2%81%E6%95%8F%E5%B7%A7%E7%A9%8D%E6%A5%B5%E5%82%99%E6%88%B0%E5%8F%B0%E6%85%B6%E6%BF%80%E6%B8%9B8%E7%A3%85-%E8%87%AA%E7%88%86%E6%9B%BE%E6%96%BC%E8%A1%97%E9%A0%AD%E9%81%AD%E4%BD%8E%E8%A7%92%E5%BA%A6%E5%81%B7%E6%8B%8D%E6%8B%92%E5%95%9E%E5%BF%8D",
     "timestamp": "2026-11-13T15:19:35.198Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡楓華洗脫污名合體翁靜晶講奇案　亮2005年口供自證：講唔出大話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198006012737490944205361.jpeg/OODpLh4WBJMy2cL-R2mYxuKCsDjRz1pwm-aVRZvmlUU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410617/%E8%94%A1%E6%A5%93%E8%8F%AF%E6%B4%97%E8%84%AB%E6%B1%A1%E5%90%8D%E5%90%88%E9%AB%94%E7%BF%81%E9%9D%9C%E6%99%B6%E8%AC%9B%E5%A5%87%E6%A1%88-%E4%BA%AE2005%E5%B9%B4%E5%8F%A3%E4%BE%9B%E8%87%AA%E8%AD%89-%E8%AC%9B%E5%94%94%E5%87%BA%E5%A4%A7%E8%A9%B1",
-    "timestamp": "2026-11-13T14:59:12.430Z",
     "strategy": ".content-card__main"
   }
 ];
