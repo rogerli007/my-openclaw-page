@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T06:27:45.317Z
+// Last updated: 2026-11-13T06:50:29.207Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "C朗跨界出資開拍電視劇《Day 1s》　傳法國名宿亨利亦在劇中出演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260624/1146278997810745344732608.jpeg/iK8-OB9UklsXI-xrMoIt-WHto81Vtd8nPSYD5j0mA-Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60410396/c%E6%9C%97%E8%B7%A8%E7%95%8C%E5%87%BA%E8%B3%87%E9%96%8B%E6%8B%8D%E9%9B%BB%E8%A6%96%E5%8A%87-day-1s-%E5%82%B3%E6%B3%95%E5%9C%8B%E5%90%8D%E5%AE%BF%E4%BA%A8%E5%88%A9%E4%BA%A6%E5%9C%A8%E5%8A%87%E4%B8%AD%E5%87%BA%E6%BC%94",
+    "timestamp": "2026-11-13T06:50:29.207Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廉政公署｜廉署「二哥」丘樹春退休　蔡樹強11.17起任副廉政專員",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197212005572808704175024.jpeg/DP3sEhJ34sYQZXSwAt7Mn9xWI81-sunDWXukSll7pEo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409955/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94v%E5%BD%88-%E5%9F%8B%E5%96%AE%E8%B7%8C4-%E6%95%A3%E6%88%B6%E6%90%B6%E8%B2%A8%E9%87%91%E9%A1%8D%E8%B6%85%E5%B9%B3%E6%97%A540%E5%80%8D",
     "timestamp": "2026-11-12T23:59:05.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中期選舉之後　特朗普還有兩年時間轉戰國外……｜Jack Talk・去片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197598040366518272807546.jpeg/1H7tKHPn_vTTGFs7zvyPec_sskGs7tgEkZ6afJGemnw",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60409902/%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E4%B9%8B%E5%BE%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%84%E6%9C%89%E5%85%A9%E5%B9%B4%E6%99%82%E9%96%93%E8%BD%89%E6%88%B0%E5%9C%8B%E5%A4%96-jack-talk-%E5%8E%BB%E7%89%87",
-    "timestamp": "2026-11-12T23:45:33.122Z",
     "strategy": ".content-card__main"
   }
 ];
