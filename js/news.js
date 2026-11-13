@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T15:19:35.198Z
+// Last updated: 2026-11-13T15:45:09.509Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "微軟死機│Microsoft 365、Outlook故障　為何等大半天仍未修好？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198058010220433408743612.jpeg/trx9zl899wWle-y2VWbHg5CNUNNV2X56q-VH06vlR9M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410646/%E5%BE%AE%E8%BB%9F%E6%AD%BB%E6%A9%9F-microsoft-365-outlook%E6%95%85%E9%9A%9C-%E7%82%BA%E4%BD%95%E7%AD%89%E5%A4%A7%E5%8D%8A%E5%A4%A9%E4%BB%8D%E6%9C%AA%E4%BF%AE%E5%A5%BD",
+    "timestamp": "2026-11-13T15:45:09.509Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁敏巧積極備戰台慶激減8磅　自爆曾於街頭遭低角度偷拍拒啞忍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197576560995995648042983.jpeg/zLapcO9Yl5Vg_WrgDKWsuIZYSxJXv8pw3P44Vdz-OFU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410536/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E5%90%8C%E6%84%8F%E9%84%BA%E7%90%83%E6%98%AF%E7%B0%A1%E5%96%AE%E8%B8%8F%E5%AF%A6%E6%99%AE%E9%80%9A%E4%BA%BA-%E9%84%BA%E6%B8%AF%E5%82%91%E6%8C%87%E7%88%B6%E7%84%A1%E6%8A%95%E8%A8%B4%E8%A6%81%E8%B3%A3%E6%A8%93",
     "timestamp": "2026-11-13T09:22:01.901Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜獄中信提無留意爸是否有武器　鄺港傑認曾想與弟夾口供",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196448728576167936839026.jpeg/D0rf7YdtvkS1wswOOoNvNNqiTNDlQ9i9vmmOSr5pjko?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410521/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E7%8D%84%E4%B8%AD%E4%BF%A1%E6%8F%90%E7%84%A1%E7%95%99%E6%84%8F%E7%88%B8%E6%98%AF%E5%90%A6%E6%9C%89%E6%AD%A6%E5%99%A8-%E9%84%BA%E6%B8%AF%E5%82%91%E8%AA%8D%E6%9B%BE%E6%83%B3%E8%88%87%E5%BC%9F%E5%A4%BE%E5%8F%A3%E4%BE%9B",
-    "timestamp": "2026-11-13T08:59:11.117Z",
     "strategy": ".content-card__main"
   }
 ];
