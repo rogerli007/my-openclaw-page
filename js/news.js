@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T16:59:11.476Z
+// Last updated: 2026-11-13T17:19:11.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油尖單日849張牛肉乾3人被捕　首10個月13萬張　庫房進帳$5525萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198077530062458880514729.jpeg/vOGFyqQRnqyHw2Tssbqw7oDso8dFCDBuVJjzcFSY83A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410654/%E6%B2%B9%E5%B0%96%E5%96%AE%E6%97%A5849%E5%BC%B5%E7%89%9B%E8%82%89%E4%B9%BE3%E4%BA%BA%E8%A2%AB%E6%8D%95-%E9%A6%9610%E5%80%8B%E6%9C%8813%E8%90%AC%E5%BC%B5-%E5%BA%AB%E6%88%BF%E9%80%B2%E5%B8%B3-5525%E8%90%AC",
+    "timestamp": "2026-11-13T17:19:11.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔廣福道單位變地下竹館　警檢證物包括電動麻雀枱　11人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197988943916699648527840.jpeg/ZK_SIhCK_7DMECShpL8KHFdC1tjX6MBOb0sCz29LAs8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60410608/%E5%AE%B9%E7%A5%96%E5%85%92%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83-%E5%8D%8A%E5%B0%8F%E6%99%82%E5%94%AE%E7%BD%84%E5%8D%B3%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A9%E5%A0%B4-%E7%A5%96%E5%85%92%E9%A3%9F%E9%AD%9A%E8%9B%8B%E7%B2%89%E6%85%B6%E7%A5%9D",
     "timestamp": "2026-11-13T11:19:25.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG演唱會開騷　啟德人山人海　惠州粉絲硬食黃牛價仍感幸福",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197971432970129408502731.jpeg/FR5v8uXL1-2pkkdstKiUL8XHTCGnNfkL54UkrueFJK4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410566/bigbang%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%8B%E9%A8%B7-%E5%95%9F%E5%BE%B7%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7-%E6%83%A0%E5%B7%9E%E7%B2%89%E7%B5%B2%E7%A1%AC%E9%A3%9F%E9%BB%83%E7%89%9B%E5%83%B9%E4%BB%8D%E6%84%9F%E5%B9%B8%E7%A6%8F",
-    "timestamp": "2026-11-13T10:59:04.709Z",
     "strategy": ".content-card__main"
   }
 ];
