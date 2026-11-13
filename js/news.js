@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T03:33:36.639Z
+// Last updated: 2026-11-13T03:45:27.252Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳撐子女追夢女兒曾因一句話改讀烹飪　當廚師赴藍帶學院進修",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197871495947227136539164.jpeg/jnIifUR1OGyGKHW34J8Ef2pj_lSkLXxX0xioK9MYqCs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60410255/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%92%90%E5%AD%90%E5%A5%B3%E8%BF%BD%E5%A4%A2%E5%A5%B3%E5%85%92%E6%9B%BE%E5%9B%A0%E4%B8%80%E5%8F%A5%E8%A9%B1%E6%94%B9%E8%AE%80%E7%83%B9%E9%A3%AA-%E7%95%B6%E5%BB%9A%E5%B8%AB%E8%B5%B4%E8%97%8D%E5%B8%B6%E5%AD%B8%E9%99%A2%E9%80%B2%E4%BF%AE",
+    "timestamp": "2026-11-13T03:45:27.252Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "柴灣興華邨血案｜31歲男疑屢被罵失業擸雙刀追斬　母頭頸傷入ICU",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197778659952300032418605.jpeg/kQO0ncveH4aQU6jUj9OQGZB36E9Ry_ssmi3XHaAt1x0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410256/%E6%B5%B7%E9%97%9C%E7%B2%89%E5%B6%BA%E8%8F%AF%E6%98%8E%E9%82%A8%E5%81%B5%E7%A0%B4%E5%85%A9%E5%AE%97%E7%A7%81%E7%85%99%E6%A1%88-%E6%AA%A2%E7%8D%B2-110%E8%90%AC%E8%B2%A8-5%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-12T21:19:13.914Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "也門胡塞武裝持續襲擊沙特　東西輸油管泵站與沙特阿美大樓成目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183143546631491584249015.jpeg/oBo3sa4Qo3TSaMnh3Y4Z0wxmXzlSrLUjcowS_HKMEvw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410254/%E4%B9%9F%E9%96%80%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E6%8C%81%E7%BA%8C%E8%A5%B2%E6%93%8A%E6%B2%99%E7%89%B9-%E6%9D%B1%E8%A5%BF%E8%BC%B8%E6%B2%B9%E7%AE%A1%E6%B3%B5%E7%AB%99%E8%88%87%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E%E5%A4%A7%E6%A8%93%E6%88%90%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-11-12T20:59:00.150Z",
     "strategy": ".content-card__main"
   }
 ];
