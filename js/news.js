@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T16:45:49.852Z
+// Last updated: 2026-11-13T16:59:11.476Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔廣福道單位變地下竹館　警檢證物包括電動麻雀枱　11人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198073249741672448327640.jpeg/25TtI_i7GKbvNX0y7hL3wDPrTS8X4P9PeXdLHnl3Sx4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410653/%E5%A4%A7%E5%9F%94%E5%BB%A3%E7%A6%8F%E9%81%93%E5%96%AE%E4%BD%8D%E8%AE%8A%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E8%AD%A6%E6%AA%A2%E8%AD%89%E7%89%A9%E5%8C%85%E6%8B%AC%E9%9B%BB%E5%8B%95%E9%BA%BB%E9%9B%80%E6%9E%B1-11%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-13T16:59:11.476Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強訪泰晤總理阿努廷　冀兩國拓展新能源、半導體、AI等合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197971432970129408502731.jpeg/FR5v8uXL1-2pkkdstKiUL8XHTCGnNfkL54UkrueFJK4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410566/bigbang%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%8B%E9%A8%B7-%E5%95%9F%E5%BE%B7%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7-%E6%83%A0%E5%B7%9E%E7%B2%89%E7%B5%B2%E7%A1%AC%E9%A3%9F%E9%BB%83%E7%89%9B%E5%83%B9%E4%BB%8D%E6%84%9F%E5%B9%B8%E7%A6%8F",
     "timestamp": "2026-11-13T10:59:04.709Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "漁護署明起連續兩周六特別巡查狗隻　若狗主無妥善控制會即時執法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197978316221452288589742.jpeg/vN3gpnP9G-b06rVFC4J_5sSX5NzRxeOMQJ0R_UCdEf0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410588/%E6%BC%81%E8%AD%B7%E7%BD%B2%E6%98%8E%E8%B5%B7%E9%80%A3%E7%BA%8C%E5%85%A9%E5%91%A8%E5%85%AD%E7%89%B9%E5%88%A5%E5%B7%A1%E6%9F%A5%E7%8B%97%E9%9A%BB-%E8%8B%A5%E7%8B%97%E4%B8%BB%E7%84%A1%E5%A6%A5%E5%96%84%E6%8E%A7%E5%88%B6%E6%9C%83%E5%8D%B3%E6%99%82%E5%9F%B7%E6%B3%95",
-    "timestamp": "2026-11-13T10:45:26.841Z",
     "strategy": ".content-card__main"
   }
 ];
