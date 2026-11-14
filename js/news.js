@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T02:24:19.361Z
+// Last updated: 2026-11-14T02:35:28.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《再婚皇后》李鍾碩全裸變身戲險露臀！自爆向導演求饒：畀條褲我",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197930868996313088920785.png/5I3s4pauzCdWsBBmx6-PYfX3BFbaTGZYBNBq5QTQauU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410426/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E6%9D%8E%E9%8D%BE%E7%A2%A9%E5%85%A8%E8%A3%B8%E8%AE%8A%E8%BA%AB%E6%88%B2%E9%9A%AA%E9%9C%B2%E8%87%80-%E8%87%AA%E7%88%86%E5%90%91%E5%B0%8E%E6%BC%94%E6%B1%82%E9%A5%92-%E7%95%80%E6%A2%9D%E8%A4%B2%E6%88%91",
+    "timestamp": "2026-11-14T02:35:28.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "40歲女指甲異常確診腎衰竭　醫：警惕3情況　半紅半白恐是尿毒症",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198121468198653952341967.jpeg/MabJoe8cRKuze2MrbR03wlCbxNaZ3btCciGY9XIhmPU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410665/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E7%B0%BD%E7%BD%B2%E5%85%B1%E5%90%8C%E9%98%B2%E7%A6%A6%E5%8D%94%E8%AD%B0-%E6%89%BF%E8%AB%BE%E5%B0%8D%E5%A4%96%E9%83%A8%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E6%8E%A1%E7%B5%B1%E4%B8%80%E7%AB%8B%E5%A0%B4",
     "timestamp": "2026-11-13T20:45:30.723Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土耳其與卡塔爾簽署共同防禦協議　承諾對外部武裝攻擊採統一立場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198121468198653952341967.jpeg/MabJoe8cRKuze2MrbR03wlCbxNaZ3btCciGY9XIhmPU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410665/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E7%B0%BD%E7%BD%B2%E5%85%B1%E5%90%8C%E9%98%B2%E7%A6%A6%E5%8D%94%E8%AD%B0-%E6%89%BF%E8%AB%BE%E5%B0%8D%E5%A4%96%E9%83%A8%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E6%8E%A1%E7%B5%B1%E4%B8%80%E7%AB%8B%E5%A0%B4",
-    "timestamp": "2026-11-13T20:19:56.626Z",
     "strategy": ".content-card__main"
   }
 ];
