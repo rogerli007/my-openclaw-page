@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T18:58:59.353Z
+// Last updated: 2026-11-14T19:17:21.747Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正因《玻璃之城》考港大：理想與現實的超大落差",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198312582214062080489231.jpeg/_ZIXFip5-DrXxCsYG3EltsbhsAzuclywd6a8ynemvMo",
+    "url": "https://www.hk01.com/01TV/60410788/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%9B%A0-%E7%8E%BB%E7%92%83%E4%B9%8B%E5%9F%8E-%E8%80%83%E6%B8%AF%E5%A4%A7-%E7%90%86%E6%83%B3%E8%88%87%E7%8F%BE%E5%AF%A6%E7%9A%84%E8%B6%85%E5%A4%A7%E8%90%BD%E5%B7%AE",
+    "timestamp": "2026-11-14T19:17:21.747Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強會見泰王哇集拉隆功　指中泰經貿合作逆勢增長難能可貴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194600125352120320493087.jpeg/av2-OB8T5GcKXyOtWt3qSDAtoCgLzlBWTa-47k2vuO4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410838/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E5%B0%88%E5%AE%B6%E6%96%99%E8%B7%AF%E9%9D%A2%E6%8E%92%E6%B0%B4%E9%98%B2%E6%BB%91%E6%AC%A0%E4%BD%B3%E8%87%B4%E8%B7%A3%E8%83%8E-%E7%95%B6%E5%B1%80%E6%93%AC%E4%B8%8B%E5%91%A8%E5%8A%A0%E9%8B%AA%E7%89%A9%E6%96%99",
     "timestamp": "2026-11-14T13:27:00.772Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Apple攬雙11手機榜前四　iPhone 18 Pro Max奪冠　國產旗艦消失？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198383000765599744649753.jpeg/c507u5HrnUA7ya7XSIO_9qUT6mA9KcDrEuDJJxLgySc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60410866/apple%E6%94%AC%E9%9B%9911%E6%89%8B%E6%A9%9F%E6%A6%9C%E5%89%8D%E5%9B%9B-iphone-18-pro-max%E5%A5%AA%E5%86%A0-%E5%9C%8B%E7%94%A2%E6%97%97%E8%89%A6%E6%B6%88%E5%A4%B1",
-    "timestamp": "2026-11-14T13:18:47.414Z",
     "strategy": ".content-card__main"
   }
 ];
