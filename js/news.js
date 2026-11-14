@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T07:19:46.961Z
+// Last updated: 2026-11-14T07:45:03.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西乙門將奧禾奴撞死特內里費前鋒　西班牙足協處罰禁賽12場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194358890934833152016754.jpeg/X4-bkoFv5VMeIts1FgYxWs1vTXF4gFyLaiyAUmosgFI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410749/%E8%A5%BF%E4%B9%99%E9%96%80%E5%B0%87%E5%A5%A7%E7%A6%BE%E5%A5%B4%E6%92%9E%E6%AD%BB%E7%89%B9%E5%85%A7%E9%87%8C%E8%B2%BB%E5%89%8D%E9%8B%92-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B6%B3%E5%8D%94%E8%99%95%E7%BD%B0%E7%A6%81%E8%B3%BD12%E5%A0%B4",
+    "timestamp": "2026-11-14T07:45:03.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic上市｜彭博︰中港大戶被拒認購新股　情況如SpaceX上市",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196865012988121088495816.png/3Ta7pmrRy2SCBHY50EXmPeRLTeMGOnvX0Xd8vtF3fL4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409101/%E6%B4%97%E8%A1%A3%E7%B2%89%E6%B4%97%E9%A6%AC%E6%A1%B63%E5%80%8B%E6%9C%88%E4%B8%8D%E7%94%A8%E5%88%B7-%E6%8B%86%E8%A7%A3%E7%9C%9F%E7%9B%B8-%E9%9A%A8%E6%99%82%E8%9D%95%E5%A3%9E%E6%B0%B4%E7%AE%B1%E6%81%90%E8%8A%B1%E5%B7%A8%E6%AC%BE%E4%BF%AE%E7%B9%95",
     "timestamp": "2026-11-14T01:20:34.040Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜紅磡寶來街女子墮樓亡　警停車場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198193468426424320068349.jpeg/ffCoMe05uAXhEOM3UFfO55Ic6hLH-AtEui06UrotOlI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410675/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%B4%85%E7%A3%A1%E5%AF%B6%E4%BE%86%E8%A1%97%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-14T01:02:31.957Z",
     "strategy": ".content-card__main"
   }
 ];
