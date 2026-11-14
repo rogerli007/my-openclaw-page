@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-13T23:59:12.293Z
+// Last updated: 2026-11-14T00:36:11.305Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "吳嘉儀老公開腔逐點反擊　驚爆女方徹夜不歸：佢話同男人樓梯傾偈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198034307050901504789106.jpeg/13N59IeAP1b9JsaQksoVN9a6FNWKhsEmRYS5JEWEuSQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410600/%E5%90%B3%E5%98%89%E5%84%80%E8%80%81%E5%85%AC%E9%96%8B%E8%85%94%E9%80%90%E9%BB%9E%E5%8F%8D%E6%93%8A-%E9%A9%9A%E7%88%86%E5%A5%B3%E6%96%B9%E5%BE%B9%E5%A4%9C%E4%B8%8D%E6%AD%B8-%E4%BD%A2%E8%A9%B1%E5%90%8C%E7%94%B7%E4%BA%BA%E6%A8%93%E6%A2%AF%E5%82%BE%E5%81%88",
+    "timestamp": "2026-11-14T00:36:11.305Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥│極端節食體重不降反升響警號　拆解身體「代謝適應」機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198095410523017216803425.jpeg/IWJqePe9L0tLH6ZQxExGE-Pfav9UFPjpWD70jlg-9I4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410658/%E4%B8%83%E6%97%AC%E7%94%B7%E8%AA%A4%E4%B8%AD%E6%8A%95%E8%B3%87%E9%A8%99%E6%A1%88%E5%A4%B1%E8%BF%91-1800%E8%90%AC-%E8%AD%A6%E4%B8%80%E5%91%A8%E6%8E%A540%E5%AE%97%E5%90%8C%E9%A1%9E%E6%A1%88%E6%B6%89%E6%AC%BE-5000%E8%90%AC",
     "timestamp": "2026-11-13T18:45:39.642Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七旬男誤中投資騙案失近$1800萬　警一周接40宗同類案涉款$5000萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198095410523017216803425.jpeg/IWJqePe9L0tLH6ZQxExGE-Pfav9UFPjpWD70jlg-9I4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410658/%E4%B8%83%E6%97%AC%E7%94%B7%E8%AA%A4%E4%B8%AD%E6%8A%95%E8%B3%87%E9%A8%99%E6%A1%88%E5%A4%B1%E8%BF%91-1800%E8%90%AC-%E8%AD%A6%E4%B8%80%E5%91%A8%E6%8E%A540%E5%AE%97%E5%90%8C%E9%A1%9E%E6%A1%88%E6%B6%89%E6%AC%BE-5000%E8%90%AC",
-    "timestamp": "2026-11-13T18:21:17.434Z",
     "strategy": ".content-card__main"
   }
 ];
