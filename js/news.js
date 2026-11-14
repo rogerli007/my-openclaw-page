@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T09:19:30.251Z
+// Last updated: 2026-11-14T09:44:58.474Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓劇推薦｜《鬼怪》初雪重逢最浪漫！盤點8部必睇的高甜冬日韓劇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198257387186688000365219.png/8BOjw_SKeJw7EAad9TYpnsXTXkCzyDW-rLn3dqy593Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410707/%E9%9F%93%E5%8A%87%E6%8E%A8%E8%96%A6-%E9%AC%BC%E6%80%AA-%E5%88%9D%E9%9B%AA%E9%87%8D%E9%80%A2%E6%9C%80%E6%B5%AA%E6%BC%AB-%E7%9B%A4%E9%BB%9E8%E9%83%A8%E5%BF%85%E7%9D%87%E7%9A%84%E9%AB%98%E7%94%9C%E5%86%AC%E6%97%A5%E9%9F%93%E5%8A%87",
+    "timestamp": "2026-11-14T09:44:58.474Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜馬斯克轉發米高佐敦片　暗示摯友傳奇將被銘記｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198098418895949824061784.jpeg/feg6jXQqVrRvPl2SZYsmIDmab2sMJEkhuMSrPLjEqzw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60410594/44%E6%AD%B2%E6%9B%B9%E6%95%8F%E8%8E%89%E6%94%9C%E5%AD%90%E5%A5%B3%E9%81%8A%E7%B4%90%E7%B4%84-%E6%AF%8D%E5%A5%B3%E5%90%88%E7%85%A7%E7%8C%B6%E5%A6%82%E5%A7%8A%E5%A6%B9-%E6%AF%8F%E5%B9%B4%E7%99%BE%E8%90%AC%E4%BE%9B%E5%AD%90%E5%A5%B3%E8%AE%80%E6%BC%A2%E5%9F%BA",
     "timestamp": "2026-11-14T03:21:21.796Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG啟德演唱會｜園方指吸引大批樂迷到訪　商戶營業額增三成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198222996527910912410753.jpeg/f_oRgRU5GnDMvyr6vpFXjZa6Au2w0oj0_2YO0f9mDtE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410697/bigbang%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83-%E5%9C%92%E6%96%B9%E6%8C%87%E5%90%B8%E5%BC%95%E5%A4%A7%E6%89%B9%E6%A8%82%E8%BF%B7%E5%88%B0%E8%A8%AA-%E5%95%86%E6%88%B6%E7%87%9F%E6%A5%AD%E9%A1%8D%E5%A2%9E%E4%B8%89%E6%88%90",
-    "timestamp": "2026-11-14T02:59:10.403Z",
     "strategy": ".content-card__main"
   }
 ];
