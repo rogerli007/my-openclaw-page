@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T19:57:21.826Z
+// Last updated: 2026-11-14T20:18:56.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正的大學生活社交：讀大學不交朋友談戀愛就白讀了",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198313090333020160075814.jpeg/VAd-1wJtwWDMgRnKYJhU8cnlCJOZ6MB5srxQA7K8UAM",
+    "url": "https://www.hk01.com/01TV/60410790/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%9A%84%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%B4%BB%E7%A4%BE%E4%BA%A4-%E8%AE%80%E5%A4%A7%E5%AD%B8%E4%B8%8D%E4%BA%A4%E6%9C%8B%E5%8F%8B%E8%AB%87%E6%88%80%E6%84%9B%E5%B0%B1%E7%99%BD%E8%AE%80%E4%BA%86",
+    "timestamp": "2026-11-14T20:18:56.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角鬧市人來人往　藍衣男當眾小便　網民批：報警捉人啦｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198323592304005120621573.jpeg/6SVjCnfRyhf1j157usqb8nqkAtnXgCOQiZxfJomcXyY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60410792/lisa%E8%B3%AD%E5%9F%8E%E7%A9%BF%E9%AB%98%E8%A1%A9%E6%88%B0%E8%A1%A3%E6%8F%AE%E7%9A%AE%E9%9E%AD%E8%B2%BC%E8%BA%AB%E7%86%B1%E8%88%9E-%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9%E9%9C%B2%E9%AA%A8%E4%BC%BC%E7%98%8B%E9%A6%AC%E9%A8%B7%E7%BF%BB%E7%89%88",
     "timestamp": "2026-11-14T14:29:24.511Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "升至3倍　日媒：美國促日本投放3萬億日圓到駐日美軍維修及工資",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251028/1059894347345956864834071.jpeg/nq1UVXKLDHhXKFVEDMGpD9d42wxJdem5_dnQtP3Z0LQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410867/%E5%8D%87%E8%87%B33%E5%80%8D-%E6%97%A5%E5%AA%92-%E7%BE%8E%E5%9C%8B%E4%BF%83%E6%97%A5%E6%9C%AC%E6%8A%95%E6%94%BE3%E8%90%AC%E5%84%84%E6%97%A5%E5%9C%93%E5%88%B0%E9%A7%90%E6%97%A5%E7%BE%8E%E8%BB%8D%E7%B6%AD%E4%BF%AE%E5%8F%8A%E5%B7%A5%E8%B3%87",
-    "timestamp": "2026-11-14T14:18:35.725Z",
     "strategy": ".content-card__main"
   }
 ];
