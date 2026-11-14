@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T12:59:00.270Z
+// Last updated: 2026-11-14T13:18:47.414Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Apple攬雙11手機榜前四　iPhone 18 Pro Max奪冠　國產旗艦消失？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198383000765599744649753.jpeg/c507u5HrnUA7ya7XSIO_9qUT6mA9KcDrEuDJJxLgySc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60410866/apple%E6%94%AC%E9%9B%9911%E6%89%8B%E6%A9%9F%E6%A6%9C%E5%89%8D%E5%9B%9B-iphone-18-pro-max%E5%A5%AA%E5%86%A0-%E5%9C%8B%E7%94%A2%E6%97%97%E8%89%A6%E6%B6%88%E5%A4%B1",
+    "timestamp": "2026-11-14T13:18:47.414Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普料出席四方安全對話　據報考慮拉攏東盟加入「矽和平」倡議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194358890934833152016754.jpeg/X4-bkoFv5VMeIts1FgYxWs1vTXF4gFyLaiyAUmosgFI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410749/%E8%A5%BF%E4%B9%99%E9%96%80%E5%B0%87%E5%A5%A7%E7%A6%BE%E5%A5%B4%E6%92%9E%E6%AD%BB%E7%89%B9%E5%85%A7%E9%87%8C%E8%B2%BB%E5%89%8D%E9%8B%92-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B6%B3%E5%8D%94%E8%99%95%E7%BD%B0%E7%A6%81%E8%B3%BD12%E5%A0%B4",
     "timestamp": "2026-11-14T07:45:03.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Anthropic上市｜彭博︰中港大戶被拒認購新股　情況如SpaceX上市",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174746456439918592836104.jpeg/CGl8Q4xU56Fcz0EOHpQAkcdwEzYK_8aIza6nz82up88?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410757/anthropic%E4%B8%8A%E5%B8%82-%E5%BD%AD%E5%8D%9A-%E4%B8%AD%E6%B8%AF%E5%A4%A7%E6%88%B6%E8%A2%AB%E6%8B%92%E8%AA%8D%E8%B3%BC%E6%96%B0%E8%82%A1-%E6%83%85%E6%B3%81%E5%A6%82spacex%E4%B8%8A%E5%B8%82",
-    "timestamp": "2026-11-14T07:19:46.961Z",
     "strategy": ".content-card__main"
   }
 ];
