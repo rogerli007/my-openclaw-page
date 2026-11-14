@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T13:44:47.349Z
+// Last updated: 2026-11-14T13:57:40.851Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "今天是太陽雨｜董思成護花全身而退！對比白敬亭《夏至未至》催淚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198342708368773120501638.png/xTgil2a5xM-YDqr8SkVQa23FoH83ah4JYbyJRmG8iUY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410791/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E8%91%A3%E6%80%9D%E6%88%90%E8%AD%B7%E8%8A%B1%E5%85%A8%E8%BA%AB%E8%80%8C%E9%80%80-%E5%B0%8D%E6%AF%94%E7%99%BD%E6%95%AC%E4%BA%AD-%E5%A4%8F%E8%87%B3%E6%9C%AA%E8%87%B3-%E5%82%AC%E6%B7%9A",
+    "timestamp": "2026-11-14T13:57:40.851Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角彌敦道兩巴士相撞　城巴下層爆玻璃　女童受傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198305933860540416584721.jpeg/LyrsWmpWdn2u_DUR2L2nbdayOtDVZxFJhr7_64a-_-s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410778/%E5%85%A9%E7%94%B7%E5%88%92%E7%8D%A8%E6%9C%A8%E8%88%9F%E9%81%87%E9%A2%A8%E6%B5%AA%E8%A2%AB%E5%9B%B0%E5%90%8A%E9%90%98%E6%B4%B2-%E7%8D%B2%E6%B0%B4%E8%AD%A6%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7-%E4%BA%8B%E5%BE%8C%E7%99%BC%E6%84%9F%E8%AC%9D%E4%BF%A1",
     "timestamp": "2026-11-14T08:45:22.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘通明街車禍｜八旬過路婦捱客貨車撞昏迷　40歲司機涉危駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198259626693365760423095.jpeg/UwYgSBN1kKts1W8t4a8DtdXK4UkdiUpjgyJNw4MiTcM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410776/%E8%A7%80%E5%A1%98%E9%80%9A%E6%98%8E%E8%A1%97%E8%BB%8A%E7%A6%8D-%E5%85%AB%E6%97%AC%E9%81%8E%E8%B7%AF%E5%A9%A6%E6%8D%B1%E5%AE%A2%E8%B2%A8%E8%BB%8A%E6%92%9E%E6%98%8F%E8%BF%B7-40%E6%AD%B2%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-14T08:21:37.523Z",
     "strategy": ".content-card__main"
   }
 ];
