@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T01:20:34.040Z
+// Last updated: 2026-11-14T01:47:55.037Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜路透：黃仁勳曾就其與黃樂關係誤導英偉達高層",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197119664019214336978345.png/5tcqX_S_n_Yxn87i5evnI8yp0fL-CQqVnSIqC50iKgs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410682/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%B7%AF%E9%80%8F-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9B%BE%E5%B0%B1%E5%85%B6%E8%88%87%E9%BB%83%E6%A8%82%E9%97%9C%E4%BF%82%E8%AA%A4%E5%B0%8E%E8%8B%B1%E5%81%89%E9%81%94%E9%AB%98%E5%B1%A4",
+    "timestamp": "2026-11-14T01:47:55.037Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "洗衣粉洗馬桶3個月不用刷？拆解真相：隨時蝕壞水箱恐花巨款修繕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187951703438135296253140.jpeg/pfDnT_5Qxh6EsNTpu74mJyIvySTZ5Vb-6lseX-pbHl8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410662/%E6%AD%90%E6%B4%B2%E4%BA%94%E5%9C%8B%E5%B0%87%E5%8F%83%E8%88%87%E4%B8%8B%E8%BC%AA%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87-%E7%BE%8E%E6%96%B9%E6%8C%87%E5%B7%B2%E5%B0%B1%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%A7%8B%E5%95%8F%E9%A1%8C%E5%B1%95%E7%A3%8B%E5%95%86",
     "timestamp": "2026-11-13T19:44:54.131Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲五國將參與下輪俄烏會談　美方指已就歐洲安全架構問題展磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187951703438135296253140.jpeg/pfDnT_5Qxh6EsNTpu74mJyIvySTZ5Vb-6lseX-pbHl8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410662/%E6%AD%90%E6%B4%B2%E4%BA%94%E5%9C%8B%E5%B0%87%E5%8F%83%E8%88%87%E4%B8%8B%E8%BC%AA%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87-%E7%BE%8E%E6%96%B9%E6%8C%87%E5%B7%B2%E5%B0%B1%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%A7%8B%E5%95%8F%E9%A1%8C%E5%B1%95%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-11-13T19:29:14.843Z",
     "strategy": ".content-card__main"
   }
 ];
