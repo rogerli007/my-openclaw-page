@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T09:59:11.201Z
+// Last updated: 2026-11-14T10:18:57.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜張家輝防誘惑金句翻Hit　Tyson Yoshi：打X機冷靜下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198293944669048832478302.jpeg/4oPpWwK43Hnfd_69YJJ5UzSZxXeqcuJXbx1nxm8dZ8Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410750/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%98%B2%E8%AA%98%E6%83%91%E9%87%91%E5%8F%A5%E7%BF%BBhit-tyson-yoshi-%E6%89%93x%E6%A9%9F%E5%86%B7%E9%9D%9C%E4%B8%8B",
+    "timestamp": "2026-11-14T10:18:57.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "皇崗口岸｜港方公共交滙處被指路面不夠防滑　直通巴的士跣胎撞牆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198236467382456320493057.png/VECc3QyUrxl_we1zSxJMy6ce8ULZI943l_QAGpf0ABo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410703/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%BE%8E%E5%AA%92-%E9%BB%83%E6%A8%82%E8%B5%B4%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8F%97%E6%9F%A5-%E8%AD%B7%E7%85%A7%E6%9B%BE%E8%A2%AB%E6%89%A3%E8%B5%B78%E5%80%8B%E6%9C%88%E9%98%BB%E9%9B%A2%E5%A2%83",
     "timestamp": "2026-11-14T03:59:19.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "腕錶｜3款方形女錶職場穿搭必收　Hermès入門款彰顯品味戴出貴氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194697211393347584162378.png/YTLgLBXr3ipOtm0dZj9Va_P81g2XtXznRYRgkkWEYJI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60407086/%E8%85%95%E9%8C%B6-3%E6%AC%BE%E6%96%B9%E5%BD%A2%E5%A5%B3%E9%8C%B6%E8%81%B7%E5%A0%B4%E7%A9%BF%E6%90%AD%E5%BF%85%E6%94%B6-herm%C3%A8s%E5%85%A5%E9%96%80%E6%AC%BE%E5%BD%B0%E9%A1%AF%E5%93%81%E5%91%B3%E6%88%B4%E5%87%BA%E8%B2%B4%E6%B0%A3",
-    "timestamp": "2026-11-14T03:43:45.133Z",
     "strategy": ".content-card__main"
   }
 ];
