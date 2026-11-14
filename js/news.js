@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T10:18:57.335Z
+// Last updated: 2026-11-14T10:29:34.153Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新加坡24歲AI科企創辦人撞名「黃仁勳」　遭點錯相爆紅因禍得福",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198333352210337792807419.jpeg/xIK1x0q7XGLUvVA6ssNQOpJrOYd5ZmSCKlbLpipWy6Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60410820/%E6%96%B0%E5%8A%A0%E5%9D%A124%E6%AD%B2ai%E7%A7%91%E4%BC%81%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%92%9E%E5%90%8D-%E9%BB%83%E4%BB%81%E5%8B%B3-%E9%81%AD%E9%BB%9E%E9%8C%AF%E7%9B%B8%E7%88%86%E7%B4%85%E5%9B%A0%E7%A6%8D%E5%BE%97%E7%A6%8F",
+    "timestamp": "2026-11-14T10:29:34.153Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳出軌｜張家輝防誘惑金句翻Hit　Tyson Yoshi：打X機冷靜下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198243603256709120624710.jpeg/ALOUFyGayhlOp-ZC0WjkpBIYoxy9_9ZMmjAHFpowBxY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410712/bigbang%E9%96%8B%E9%A8%B7-%E5%91%A8%E4%B8%80%E9%B3%B4-%E6%89%93%E6%93%8A%E7%99%BD%E7%89%8C%E8%BB%8A%E6%8B%9812%E4%BA%BA-%E8%88%87%E5%85%A7%E5%9C%B0%E8%81%AF%E7%B9%AB%E5%8D%94%E8%AA%BF%E7%9B%BC%E6%94%B9%E5%96%84",
     "timestamp": "2026-11-14T04:21:37.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜美媒：黃樂赴新加坡受查　護照曾被扣起8個月阻離境",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198236467382456320493057.png/VECc3QyUrxl_we1zSxJMy6ce8ULZI943l_QAGpf0ABo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410703/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%BE%8E%E5%AA%92-%E9%BB%83%E6%A8%82%E8%B5%B4%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8F%97%E6%9F%A5-%E8%AD%B7%E7%85%A7%E6%9B%BE%E8%A2%AB%E6%89%A3%E8%B5%B78%E5%80%8B%E6%9C%88%E9%98%BB%E9%9B%A2%E5%A2%83",
-    "timestamp": "2026-11-14T03:59:19.216Z",
     "strategy": ".content-card__main"
   }
 ];
