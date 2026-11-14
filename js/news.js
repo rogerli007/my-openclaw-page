@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T07:45:03.291Z
+// Last updated: 2026-11-14T07:59:12.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全美航班停飛4小時　交通部長澄清非新AI空管系統惹禍　議員促查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198293548391206912638217.jpeg/zydf2VyCpUqHlkf-9Z6dOg5jrfoCv5XzEglBjxIJQY8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410754/%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B4%E5%B0%8F%E6%99%82-%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7%E6%BE%84%E6%B8%85%E9%9D%9E%E6%96%B0ai%E7%A9%BA%E7%AE%A1%E7%B3%BB%E7%B5%B1%E6%83%B9%E7%A6%8D-%E8%AD%B0%E5%93%A1%E4%BF%83%E6%9F%A5",
+    "timestamp": "2026-11-14T07:59:12.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西乙門將奧禾奴撞死特內里費前鋒　西班牙足協處罰禁賽12場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197119664019214336978345.png/5tcqX_S_n_Yxn87i5evnI8yp0fL-CQqVnSIqC50iKgs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410682/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%B7%AF%E9%80%8F-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9B%BE%E5%B0%B1%E5%85%B6%E8%88%87%E9%BB%83%E6%A8%82%E9%97%9C%E4%BF%82%E8%AA%A4%E5%B0%8E%E8%8B%B1%E5%81%89%E9%81%94%E9%AB%98%E5%B1%A4",
     "timestamp": "2026-11-14T01:47:55.037Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "洗衣粉洗馬桶3個月不用刷？拆解真相：隨時蝕壞水箱恐花巨款修繕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196865012988121088495816.png/3Ta7pmrRy2SCBHY50EXmPeRLTeMGOnvX0Xd8vtF3fL4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409101/%E6%B4%97%E8%A1%A3%E7%B2%89%E6%B4%97%E9%A6%AC%E6%A1%B63%E5%80%8B%E6%9C%88%E4%B8%8D%E7%94%A8%E5%88%B7-%E6%8B%86%E8%A7%A3%E7%9C%9F%E7%9B%B8-%E9%9A%A8%E6%99%82%E8%9D%95%E5%A3%9E%E6%B0%B4%E7%AE%B1%E6%81%90%E8%8A%B1%E5%B7%A8%E6%AC%BE%E4%BF%AE%E7%B9%95",
-    "timestamp": "2026-11-14T01:20:34.040Z",
     "strategy": ".content-card__main"
   }
 ];
