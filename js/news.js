@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T05:45:29.591Z
+// Last updated: 2026-11-14T05:59:12.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重劍世界盃｜佘繕妡闖無錫站16強　連續兩場一分險勝過關",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198271541129777152391540.png/44CDCqlPb7oWyzZko3_zWhodUAhWLj8g5i8YduYvGHY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60410728/%E9%87%8D%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BD%98%E7%B9%95%E5%A6%A1%E9%97%96%E7%84%A1%E9%8C%AB%E7%AB%9916%E5%BC%B7-%E9%80%A3%E7%BA%8C%E5%85%A9%E5%A0%B4%E4%B8%80%E5%88%86%E9%9A%AA%E5%8B%9D%E9%81%8E%E9%97%9C",
+    "timestamp": "2026-11-14T05:59:12.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元華與移加藝人聚舊「日本仔」罕現身　高雄澄清死訊：我仲喺度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194320930751385600184062.jpeg/dHbleAO4z07RpGdvRhnxHlo0MA_l9XEQS1z9mUtc_Zk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405181/%E6%B8%9B%E8%82%A5-%E6%A5%B5%E7%AB%AF%E7%AF%80%E9%A3%9F%E9%AB%94%E9%87%8D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87%E9%9F%BF%E8%AD%A6%E8%99%9F-%E6%8B%86%E8%A7%A3%E8%BA%AB%E9%AB%94-%E4%BB%A3%E8%AC%9D%E9%81%A9%E6%87%89-%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-11-13T23:44:48.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "超級月亮10年前今天創68年最近紀錄　下次要等到2034年｜當年熱話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198116109367119872123465.png/dLo6nNZco-nN2H4RhzYJaW4-6GpdClVlolvTKqJb0yo",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410661/%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE10%E5%B9%B4%E5%89%8D%E4%BB%8A%E5%A4%A9%E5%89%B568%E5%B9%B4%E6%9C%80%E8%BF%91%E7%B4%80%E9%8C%84-%E4%B8%8B%E6%AC%A1%E8%A6%81%E7%AD%89%E5%88%B02034%E5%B9%B4-%E7%95%B6%E5%B9%B4%E7%86%B1%E8%A9%B1",
-    "timestamp": "2026-11-13T23:19:35.823Z",
     "strategy": ".content-card__main"
   }
 ];
