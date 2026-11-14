@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T07:59:12.293Z
+// Last updated: 2026-11-14T08:21:37.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘通明街車禍｜八旬過路婦捱客貨車撞昏迷　40歲司機涉危駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198259626693365760423095.jpeg/UwYgSBN1kKts1W8t4a8DtdXK4UkdiUpjgyJNw4MiTcM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410776/%E8%A7%80%E5%A1%98%E9%80%9A%E6%98%8E%E8%A1%97%E8%BB%8A%E7%A6%8D-%E5%85%AB%E6%97%AC%E9%81%8E%E8%B7%AF%E5%A9%A6%E6%8D%B1%E5%AE%A2%E8%B2%A8%E8%BB%8A%E6%92%9E%E6%98%8F%E8%BF%B7-40%E6%AD%B2%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-14T08:21:37.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全美航班停飛4小時　交通部長澄清非新AI空管系統惹禍　議員促查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197119664019214336978345.png/5tcqX_S_n_Yxn87i5evnI8yp0fL-CQqVnSIqC50iKgs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410682/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%B7%AF%E9%80%8F-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9B%BE%E5%B0%B1%E5%85%B6%E8%88%87%E9%BB%83%E6%A8%82%E9%97%9C%E4%BF%82%E8%AA%A4%E5%B0%8E%E8%8B%B1%E5%81%89%E9%81%94%E9%AB%98%E5%B1%A4",
     "timestamp": "2026-11-14T01:59:08.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜路透：黃仁勳曾就其與黃樂關係誤導英偉達高層",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197119664019214336978345.png/5tcqX_S_n_Yxn87i5evnI8yp0fL-CQqVnSIqC50iKgs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410682/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%B7%AF%E9%80%8F-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9B%BE%E5%B0%B1%E5%85%B6%E8%88%87%E9%BB%83%E6%A8%82%E9%97%9C%E4%BF%82%E8%AA%A4%E5%B0%8E%E8%8B%B1%E5%81%89%E9%81%94%E9%AB%98%E5%B1%A4",
-    "timestamp": "2026-11-14T01:47:55.037Z",
     "strategy": ".content-card__main"
   }
 ];
