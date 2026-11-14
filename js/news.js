@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T08:59:02.452Z
+// Last updated: 2026-11-14T09:19:30.251Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜馬斯克轉發米高佐敦片　暗示摯友傳奇將被銘記｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198317871097188352267518.jpeg/KlwoVJ2Ss01eaYI0HhJnTS0KwLPU44GyNDaDFjQ2gxY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410786/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E9%A6%AC%E6%96%AF%E5%85%8B%E8%BD%89%E7%99%BC%E7%B1%B3%E9%AB%98%E4%BD%90%E6%95%A6%E7%89%87-%E6%9A%97%E7%A4%BA%E6%91%AF%E5%8F%8B%E5%82%B3%E5%A5%87%E5%B0%87%E8%A2%AB%E9%8A%98%E8%A8%98-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-14T09:19:30.251Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "微軟全球服務中斷長達一日後恢復　系統伺服器超負荷出事官方致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198222996527910912410753.jpeg/f_oRgRU5GnDMvyr6vpFXjZa6Au2w0oj0_2YO0f9mDtE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410697/bigbang%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83-%E5%9C%92%E6%96%B9%E6%8C%87%E5%90%B8%E5%BC%95%E5%A4%A7%E6%89%B9%E6%A8%82%E8%BF%B7%E5%88%B0%E8%A8%AA-%E5%95%86%E6%88%B6%E7%87%9F%E6%A5%AD%E9%A1%8D%E5%A2%9E%E4%B8%89%E6%88%90",
     "timestamp": "2026-11-14T02:59:10.403Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《再婚皇后》李鍾碩全裸變身戲險露臀！自爆向導演求饒：畀條褲我",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197930868996313088920785.png/5I3s4pauzCdWsBBmx6-PYfX3BFbaTGZYBNBq5QTQauU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410426/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E6%9D%8E%E9%8D%BE%E7%A2%A9%E5%85%A8%E8%A3%B8%E8%AE%8A%E8%BA%AB%E6%88%B2%E9%9A%AA%E9%9C%B2%E8%87%80-%E8%87%AA%E7%88%86%E5%90%91%E5%B0%8E%E6%BC%94%E6%B1%82%E9%A5%92-%E7%95%80%E6%A2%9D%E8%A4%B2%E6%88%91",
-    "timestamp": "2026-11-14T02:35:28.301Z",
     "strategy": ".content-card__main"
   }
 ];
