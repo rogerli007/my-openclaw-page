@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T05:19:41.113Z
+// Last updated: 2026-11-14T05:45:29.591Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元華與移加藝人聚舊「日本仔」罕現身　高雄澄清死訊：我仲喺度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198255923206819840906573.jpeg/inrRsMaWjFyJmujWjqO1QDFPNs6j-rEi8DyDevA8g3o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410580/%E5%85%83%E8%8F%AF%E8%88%87%E7%A7%BB%E5%8A%A0%E8%97%9D%E4%BA%BA%E8%81%9A%E8%88%8A-%E6%97%A5%E6%9C%AC%E4%BB%94-%E7%BD%95%E7%8F%BE%E8%BA%AB-%E9%AB%98%E9%9B%84%E6%BE%84%E6%B8%85%E6%AD%BB%E8%A8%8A-%E6%88%91%E4%BB%B2%E5%96%BA%E5%BA%A6",
+    "timestamp": "2026-11-14T05:45:29.591Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "夏建芳｜香港耐心資本的進退智慧",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198116109367119872123465.png/dLo6nNZco-nN2H4RhzYJaW4-6GpdClVlolvTKqJb0yo",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410661/%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE10%E5%B9%B4%E5%89%8D%E4%BB%8A%E5%A4%A9%E5%89%B568%E5%B9%B4%E6%9C%80%E8%BF%91%E7%B4%80%E9%8C%84-%E4%B8%8B%E6%AC%A1%E8%A6%81%E7%AD%89%E5%88%B02034%E5%B9%B4-%E7%95%B6%E5%B9%B4%E7%86%B1%E8%A9%B1",
     "timestamp": "2026-11-13T23:19:35.823Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重慶2歲半女童獨留在家！睡醒尋親2樓護欄間隙墮樓　奇蹟僅受輕傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197527023912751104873296.png/c9ZzK6o3b_og9uHvWZo6aKBuJBepzEmvxSx5XsUseV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409866/%E9%87%8D%E6%85%B62%E6%AD%B2%E5%8D%8A%E5%A5%B3%E7%AB%A5%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E7%9D%A1%E9%86%92%E5%B0%8B%E8%A6%AA2%E6%A8%93%E8%AD%B7%E6%AC%84%E9%96%93%E9%9A%99%E5%A2%AE%E6%A8%93-%E5%A5%87%E8%B9%9F%E5%83%85%E5%8F%97%E8%BC%95%E5%82%B7",
-    "timestamp": "2026-11-13T22:59:08.457Z",
     "strategy": ".content-card__main"
   }
 ];
