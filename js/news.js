@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T21:29:32.697Z
+// Last updated: 2026-11-14T21:45:01.567Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
+    "timestamp": "2026-11-14T21:45:01.567Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198380809820573696517294.jpeg/TLTc4ihMVrHTN2PLhBch9-g2rrsPYBRaRF1UFkRdVBY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410868/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E4%BB%9811%E8%90%AC%E6%95%B4%E8%BB%8A-%E5%8F%A6%E8%A6%93%E8%BB%8A%E6%88%BF%E6%AA%A2%E6%9F%A5%E9%A9%9A%E6%8F%AD%E9%9B%B6%E4%BB%B6%E5%AE%8C%E5%85%A8%E7%84%A1%E6%8F%9B",
     "timestamp": "2026-11-14T15:29:25.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重慶暖心檔主以物換物幫扶菜農　¥7炸醬麵換¥2剩菜　網民讚換真心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198243312406892544283475.png/b0XV1e9BoVoj4ItrNKDCDQIytQmnqij7-pju1_qY7tc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410685/%E9%87%8D%E6%85%B6%E6%9A%96%E5%BF%83%E6%AA%94%E4%B8%BB%E4%BB%A5%E7%89%A9%E6%8F%9B%E7%89%A9%E5%B9%AB%E6%89%B6%E8%8F%9C%E8%BE%B2-7%E7%82%B8%E9%86%AC%E9%BA%B5%E6%8F%9B-2%E5%89%A9%E8%8F%9C-%E7%B6%B2%E6%B0%91%E8%AE%9A%E6%8F%9B%E7%9C%9F%E5%BF%83",
-    "timestamp": "2026-11-14T15:18:30.591Z",
     "strategy": ".content-card__main"
   }
 ];
