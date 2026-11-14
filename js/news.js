@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T19:17:21.747Z
+// Last updated: 2026-11-14T19:29:22.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角鬧市人來人往　藍衣男當眾小便　網民批：報警捉人啦｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198473533030666240154732.jpeg/uiWsnVa2czdUI3k73JT3RuA4W7nJief_SzTdtEs03bQ",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410894/%E6%97%BA%E8%A7%92%E9%AC%A7%E5%B8%82%E4%BA%BA%E4%BE%86%E4%BA%BA%E5%BE%80-%E8%97%8D%E8%A1%A3%E7%94%B7%E7%95%B6%E7%9C%BE%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E6%89%B9-%E5%A0%B1%E8%AD%A6%E6%8D%89%E4%BA%BA%E5%95%A6-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-14T19:29:22.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正因《玻璃之城》考港大：理想與現實的超大落差",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198387234798047232129743.jpeg/TwvliWVnGyKEyPFwLK9xxut6o2jTcUcjrQlXv60JV78?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410870/%E6%97%BA%E8%A7%92%E5%BD%8C%E6%95%A6%E9%81%93%E5%85%A9%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E-%E5%9F%8E%E5%B7%B4%E4%B8%8B%E5%B1%A4%E7%88%86%E7%8E%BB%E7%92%83-%E5%A5%B3%E7%AB%A5%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-11-14T13:44:47.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新皇崗口岸｜專家料路面排水防滑欠佳致跣胎　當局擬下周加鋪物料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194600125352120320493087.jpeg/av2-OB8T5GcKXyOtWt3qSDAtoCgLzlBWTa-47k2vuO4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410838/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E5%B0%88%E5%AE%B6%E6%96%99%E8%B7%AF%E9%9D%A2%E6%8E%92%E6%B0%B4%E9%98%B2%E6%BB%91%E6%AC%A0%E4%BD%B3%E8%87%B4%E8%B7%A3%E8%83%8E-%E7%95%B6%E5%B1%80%E6%93%AC%E4%B8%8B%E5%91%A8%E5%8A%A0%E9%8B%AA%E7%89%A9%E6%96%99",
-    "timestamp": "2026-11-14T13:27:00.772Z",
     "strategy": ".content-card__main"
   }
 ];
