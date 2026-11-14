@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T02:59:10.403Z
+// Last updated: 2026-11-14T03:21:21.796Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "44歲曹敏莉攜子女遊紐約 母女合照猶如姊妹 每年百萬供子女讀漢基",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198098418895949824061784.jpeg/feg6jXQqVrRvPl2SZYsmIDmab2sMJEkhuMSrPLjEqzw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60410594/44%E6%AD%B2%E6%9B%B9%E6%95%8F%E8%8E%89%E6%94%9C%E5%AD%90%E5%A5%B3%E9%81%8A%E7%B4%90%E7%B4%84-%E6%AF%8D%E5%A5%B3%E5%90%88%E7%85%A7%E7%8C%B6%E5%A6%82%E5%A7%8A%E5%A6%B9-%E6%AF%8F%E5%B9%B4%E7%99%BE%E8%90%AC%E4%BE%9B%E5%AD%90%E5%A5%B3%E8%AE%80%E6%BC%A2%E5%9F%BA",
+    "timestamp": "2026-11-14T03:21:21.796Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG啟德演唱會｜園方指吸引大批樂迷到訪　商戶營業額增三成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410667/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83-%E5%B0%9A%E6%9C%AA%E6%AD%A3%E5%BC%8F%E6%8E%A5%E8%A7%B8%E4%BB%BB%E4%BD%95%E6%BD%9B%E5%9C%A8%E5%80%99%E9%81%B8%E4%BA%BA-%E4%BA%A6%E6%9C%AA%E9%81%B8%E5%AE%9A%E7%8D%B5%E9%A0%AD%E5%85%AC%E5%8F%B8",
     "timestamp": "2026-11-13T21:12:44.202Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土耳其與卡塔爾簽署共同防禦協議　承諾對外部武裝攻擊採統一立場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198121468198653952341967.jpeg/MabJoe8cRKuze2MrbR03wlCbxNaZ3btCciGY9XIhmPU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410665/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E7%B0%BD%E7%BD%B2%E5%85%B1%E5%90%8C%E9%98%B2%E7%A6%A6%E5%8D%94%E8%AD%B0-%E6%89%BF%E8%AB%BE%E5%B0%8D%E5%A4%96%E9%83%A8%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E6%8E%A1%E7%B5%B1%E4%B8%80%E7%AB%8B%E5%A0%B4",
-    "timestamp": "2026-11-13T20:59:11.798Z",
     "strategy": ".content-card__main"
   }
 ];
