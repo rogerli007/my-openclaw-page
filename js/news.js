@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T20:59:01.556Z
+// Last updated: 2026-11-14T21:18:12.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
+    "timestamp": "2026-11-14T21:18:12.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198401055944085504493015.jpeg/VkBNiriqZxpTn_aVnqg59YpC0BwBSxyEq7l7tKu5e7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410879/%E6%92%AC%E9%96%80%E7%AA%97%E9%97%96%E5%85%AB%E9%84%89%E5%85%A9%E6%9D%91%E5%B1%8B%E5%9C%96%E7%88%86%E7%AB%8A-%E8%AD%A6%E6%9F%A5%E5%A4%A9%E7%9C%BC%E6%8B%98%E7%94%B7%E8%B3%8A-%E7%B1%B2%E8%A3%9D%E9%AB%98%E6%B8%85cctv%E9%98%B2%E7%9B%9C",
     "timestamp": "2026-11-14T14:59:03.962Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Lisa賭城穿高衩戰衣揮皮鞭貼身熱舞　網民狠批露骨似瘋馬騷翻版",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198323592304005120621573.jpeg/6SVjCnfRyhf1j157usqb8nqkAtnXgCOQiZxfJomcXyY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60410792/lisa%E8%B3%AD%E5%9F%8E%E7%A9%BF%E9%AB%98%E8%A1%A9%E6%88%B0%E8%A1%A3%E6%8F%AE%E7%9A%AE%E9%9E%AD%E8%B2%BC%E8%BA%AB%E7%86%B1%E8%88%9E-%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9%E9%9C%B2%E9%AA%A8%E4%BC%BC%E7%98%8B%E9%A6%AC%E9%A8%B7%E7%BF%BB%E7%89%88",
-    "timestamp": "2026-11-14T14:44:53.650Z",
     "strategy": ".content-card__main"
   }
 ];
