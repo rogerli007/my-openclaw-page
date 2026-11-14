@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T18:45:03.470Z
+// Last updated: 2026-11-14T18:58:59.353Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強會見泰王哇集拉隆功　指中泰經貿合作逆勢增長難能可貴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198467065069965312016327.png/YQzw-1wF1SdFWxQB0z3_FK1rHzQ5coDrzFQOEMxUDhA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410893/%E6%9D%8E%E5%BC%B7%E6%9C%83%E8%A6%8B%E6%B3%B0%E7%8E%8B%E5%93%87%E9%9B%86%E6%8B%89%E9%9A%86%E5%8A%9F-%E6%8C%87%E4%B8%AD%E6%B3%B0%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C%E9%80%86%E5%8B%A2%E5%A2%9E%E9%95%B7%E9%9B%A3%E8%83%BD%E5%8F%AF%E8%B2%B4",
+    "timestamp": "2026-11-14T18:58:59.353Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角兩的士迎頭相撞　6人受傷　警不排除其中一車衝燈肇禍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198383000765599744649753.jpeg/c507u5HrnUA7ya7XSIO_9qUT6mA9KcDrEuDJJxLgySc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60410866/apple%E6%94%AC%E9%9B%9911%E6%89%8B%E6%A9%9F%E6%A6%9C%E5%89%8D%E5%9B%9B-iphone-18-pro-max%E5%A5%AA%E5%86%A0-%E5%9C%8B%E7%94%A2%E6%97%97%E8%89%A6%E6%B6%88%E5%A4%B1",
     "timestamp": "2026-11-14T13:18:47.414Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普料出席四方安全對話　據報考慮拉攏東盟加入「矽和平」倡議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196771668186370048914082.jpeg/Mx9Xfv4LoprygrO_0LlZ6jGlBIX7YgOns_rYD7P62A8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410821/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%99%E5%87%BA%E5%B8%AD%E5%9B%9B%E6%96%B9%E5%AE%89%E5%85%A8%E5%B0%8D%E8%A9%B1-%E6%93%9A%E5%A0%B1%E8%80%83%E6%85%AE%E6%8B%89%E6%94%8F%E6%9D%B1%E7%9B%9F%E5%8A%A0%E5%85%A5-%E7%9F%BD%E5%92%8C%E5%B9%B3-%E5%80%A1%E8%AD%B0",
-    "timestamp": "2026-11-14T12:59:00.270Z",
     "strategy": ".content-card__main"
   }
 ];
