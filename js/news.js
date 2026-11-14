@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T22:59:03.146Z
+// Last updated: 2026-11-14T23:18:28.697Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青樓女子有錢就能贖身？　名妓董小宛離開前還要過幾關｜歷史奇趣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198299653154541568693128.png/wKkrzLr087iZdN9Ggc2OKDJhYWVJ_uu3bYGS8W2BkvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408425/%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E6%9C%89%E9%8C%A2%E5%B0%B1%E8%83%BD%E8%B4%96%E8%BA%AB-%E5%90%8D%E5%A6%93%E8%91%A3%E5%B0%8F%E5%AE%9B%E9%9B%A2%E9%96%8B%E5%89%8D%E9%82%84%E8%A6%81%E9%81%8E%E5%B9%BE%E9%97%9C-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
+    "timestamp": "2026-11-14T23:18:28.697Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長者日優惠懶人包｜今日免費坐巴士港鐵　海洋公園等景點免費入場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198400012619354112746321.jpeg/h7ZzzEvOyhIxuyHt6-baZ4C9tjxLQzMgtLtMyrS7TMo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410874/%E5%8F%B0%E6%85%B6-%E5%8F%B8%E5%84%80%E5%A4%A7%E5%90%88%E7%85%A7%E9%A9%9A%E8%A6%8B%E4%B8%80%E4%BA%BA%E8%A2%AB%E9%81%AE%E6%A8%A3-%E9%BA%A5%E7%BE%8E%E6%81%A9%E4%BC%BC%E6%88%90%E5%8A%9F%E9%80%83%E9%9B%A2-%E9%9B%AA%E6%AB%83",
     "timestamp": "2026-11-14T17:17:43.443Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "余文樂45歲生日甩婚變陰霾生活超愜意　恢復單身獲好友慶生不寂寞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198359948807901184248039.jpeg/_3zWTj3OuTT2jFwIDI15LOTc6jB2_SbCSM4it0jOIrc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410847/%E4%BD%99%E6%96%87%E6%A8%8245%E6%AD%B2%E7%94%9F%E6%97%A5%E7%94%A9%E5%A9%9A%E8%AE%8A%E9%99%B0%E9%9C%BE%E7%94%9F%E6%B4%BB%E8%B6%85%E6%84%9C%E6%84%8F-%E6%81%A2%E5%BE%A9%E5%96%AE%E8%BA%AB%E7%8D%B2%E5%A5%BD%E5%8F%8B%E6%85%B6%E7%94%9F%E4%B8%8D%E5%AF%82%E5%AF%9E",
-    "timestamp": "2026-11-14T16:59:01.054Z",
     "strategy": ".content-card__main"
   }
 ];
