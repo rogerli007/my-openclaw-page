@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T06:24:52.745Z
+// Last updated: 2026-11-14T06:39:49.085Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "觀塘37歲菲傭疑掌摑7歲少主　涉虐兒被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172037301522403328071892.jpeg/jaEXCLfACY1vlwi2xDrOIIgrj3kENqovvjBWGoQwVho?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410727/%E8%A7%80%E5%A1%9837%E6%AD%B2%E8%8F%B2%E5%82%AD%E7%96%91%E6%8E%8C%E6%91%917%E6%AD%B2%E5%B0%91%E4%B8%BB-%E6%B6%89%E8%99%90%E5%85%92%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-14T06:39:49.085Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長者日2026｜7大超市優惠：惠康、大生9折+百佳每人送3個金奇異果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198034307050901504789106.jpeg/13N59IeAP1b9JsaQksoVN9a6FNWKhsEmRYS5JEWEuSQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410600/%E5%90%B3%E5%98%89%E5%84%80%E8%80%81%E5%85%AC%E9%96%8B%E8%85%94%E9%80%90%E9%BB%9E%E5%8F%8D%E6%93%8A-%E9%A9%9A%E7%88%86%E5%A5%B3%E6%96%B9%E5%BE%B9%E5%A4%9C%E4%B8%8D%E6%AD%B8-%E4%BD%A2%E8%A9%B1%E5%90%8C%E7%94%B7%E4%BA%BA%E6%A8%93%E6%A2%AF%E5%82%BE%E5%81%88",
     "timestamp": "2026-11-14T00:36:11.305Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥│極端節食體重不降反升響警號　拆解身體「代謝適應」機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194320930751385600184062.jpeg/dHbleAO4z07RpGdvRhnxHlo0MA_l9XEQS1z9mUtc_Zk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405181/%E6%B8%9B%E8%82%A5-%E6%A5%B5%E7%AB%AF%E7%AF%80%E9%A3%9F%E9%AB%94%E9%87%8D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87%E9%9F%BF%E8%AD%A6%E8%99%9F-%E6%8B%86%E8%A7%A3%E8%BA%AB%E9%AB%94-%E4%BB%A3%E8%AC%9D%E9%81%A9%E6%87%89-%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-11-13T23:59:12.293Z",
     "strategy": ".content-card__main"
   }
 ];
