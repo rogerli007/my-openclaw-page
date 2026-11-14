@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T12:44:51.758Z
+// Last updated: 2026-11-14T12:59:00.270Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普料出席四方安全對話　據報考慮拉攏東盟加入「矽和平」倡議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196771668186370048914082.jpeg/Mx9Xfv4LoprygrO_0LlZ6jGlBIX7YgOns_rYD7P62A8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410821/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%99%E5%87%BA%E5%B8%AD%E5%9B%9B%E6%96%B9%E5%AE%89%E5%85%A8%E5%B0%8D%E8%A9%B1-%E6%93%9A%E5%A0%B1%E8%80%83%E6%85%AE%E6%8B%89%E6%94%8F%E6%9D%B1%E7%9B%9F%E5%8A%A0%E5%85%A5-%E7%9F%BD%E5%92%8C%E5%B9%B3-%E5%80%A1%E8%AD%B0",
+    "timestamp": "2026-11-14T12:59:00.270Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "湯怡帶5歲囡囡「母女裝」面試　「11年一條龍」真道書院競爭激烈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174746456439918592836104.jpeg/CGl8Q4xU56Fcz0EOHpQAkcdwEzYK_8aIza6nz82up88?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410757/anthropic%E4%B8%8A%E5%B8%82-%E5%BD%AD%E5%8D%9A-%E4%B8%AD%E6%B8%AF%E5%A4%A7%E6%88%B6%E8%A2%AB%E6%8B%92%E8%AA%8D%E8%B3%BC%E6%96%B0%E8%82%A1-%E6%83%85%E6%B3%81%E5%A6%82spacex%E4%B8%8A%E5%B8%82",
     "timestamp": "2026-11-14T07:19:46.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳下台等於NVIDIA技術霸權瓦解？　兩大對手動向惹關注｜莊主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131602020432613376390478.jpeg/6r2Mq-TEdO7xYOCGa593oitvzFSF6mRgxD5YUMQ-WFA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410733/%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8B%E5%8F%B0%E7%AD%89%E6%96%BCnvidia%E6%8A%80%E8%A1%93%E9%9C%B8%E6%AC%8A%E7%93%A6%E8%A7%A3-%E5%85%A9%E5%A4%A7%E5%B0%8D%E6%89%8B%E5%8B%95%E5%90%91%E6%83%B9%E9%97%9C%E6%B3%A8-%E8%8E%8A%E4%B8%BB",
-    "timestamp": "2026-11-14T06:59:03.831Z",
     "strategy": ".content-card__main"
   }
 ];
