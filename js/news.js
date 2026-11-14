@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T01:59:08.437Z
+// Last updated: 2026-11-14T02:24:19.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "40歲女指甲異常確診腎衰竭　醫：警惕3情況　半紅半白恐是尿毒症",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196426150801313792425937.jpeg/DFCqefym9-WoHkmVFJfIP1gyIBcytmdhcaHBXnGhwV4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405311/40%E6%AD%B2%E5%A5%B3%E6%8C%87%E7%94%B2%E7%95%B0%E5%B8%B8%E7%A2%BA%E8%A8%BA%E8%85%8E%E8%A1%B0%E7%AB%AD-%E9%86%AB-%E8%AD%A6%E6%83%953%E6%83%85%E6%B3%81-%E5%8D%8A%E7%B4%85%E5%8D%8A%E7%99%BD%E6%81%90%E6%98%AF%E5%B0%BF%E6%AF%92%E7%97%87",
+    "timestamp": "2026-11-14T02:24:19.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜路透：黃仁勳曾就其與黃樂關係誤導英偉達高層",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198121468198653952341967.jpeg/MabJoe8cRKuze2MrbR03wlCbxNaZ3btCciGY9XIhmPU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410665/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E7%B0%BD%E7%BD%B2%E5%85%B1%E5%90%8C%E9%98%B2%E7%A6%A6%E5%8D%94%E8%AD%B0-%E6%89%BF%E8%AB%BE%E5%B0%8D%E5%A4%96%E9%83%A8%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E6%8E%A1%E7%B5%B1%E4%B8%80%E7%AB%8B%E5%A0%B4",
     "timestamp": "2026-11-13T20:19:56.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲五國將參與下輪俄烏會談　美方指已就歐洲安全架構問題展磋商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187951703438135296253140.jpeg/pfDnT_5Qxh6EsNTpu74mJyIvySTZ5Vb-6lseX-pbHl8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410662/%E6%AD%90%E6%B4%B2%E4%BA%94%E5%9C%8B%E5%B0%87%E5%8F%83%E8%88%87%E4%B8%8B%E8%BC%AA%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87-%E7%BE%8E%E6%96%B9%E6%8C%87%E5%B7%B2%E5%B0%B1%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%A7%8B%E5%95%8F%E9%A1%8C%E5%B1%95%E7%A3%8B%E5%95%86",
-    "timestamp": "2026-11-13T19:59:08.371Z",
     "strategy": ".content-card__main"
   }
 ];
