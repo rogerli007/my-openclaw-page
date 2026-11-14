@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T21:45:01.567Z
+// Last updated: 2026-11-14T21:59:03.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
+    "timestamp": "2026-11-14T21:59:03.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198320653153865728315928.jpeg/1CpgRRsnIvLsOlZZC1_smJ-86sR9inzSsayxjrGssY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410885/%E9%A6%AC%E6%96%AF%E5%85%8B-%E6%B2%92%E6%9C%89%E9%BB%83%E4%BB%81%E5%8B%B3%E8%A8%B1%E5%A4%9A%E9%97%9C%E9%8D%B5%E4%BA%A4%E6%98%93%E5%B0%87%E5%A4%B1%E6%95%97-%E5%83%85%E6%9C%89%E5%8F%A3%E9%A0%AD%E6%89%BF%E8%AB%BE%E7%84%A1%E6%9B%B8%E9%9D%A2%E5%90%88%E7%B4%84",
     "timestamp": "2026-11-14T16:19:34.065Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜苦主付11萬整車　另覓車房檢查驚揭零件完全無換",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198380809820573696517294.jpeg/TLTc4ihMVrHTN2PLhBch9-g2rrsPYBRaRF1UFkRdVBY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410868/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E4%BB%9811%E8%90%AC%E6%95%B4%E8%BB%8A-%E5%8F%A6%E8%A6%93%E8%BB%8A%E6%88%BF%E6%AA%A2%E6%9F%A5%E9%A9%9A%E6%8F%AD%E9%9B%B6%E4%BB%B6%E5%AE%8C%E5%85%A8%E7%84%A1%E6%8F%9B",
-    "timestamp": "2026-11-14T15:29:25.576Z",
     "strategy": ".content-card__main"
   }
 ];
