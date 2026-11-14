@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T02:35:28.301Z
+// Last updated: 2026-11-14T02:59:10.403Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG啟德演唱會｜園方指吸引大批樂迷到訪　商戶營業額增三成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198222996527910912410753.jpeg/f_oRgRU5GnDMvyr6vpFXjZa6Au2w0oj0_2YO0f9mDtE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410697/bigbang%E5%95%9F%E5%BE%B7%E6%BC%94%E5%94%B1%E6%9C%83-%E5%9C%92%E6%96%B9%E6%8C%87%E5%90%B8%E5%BC%95%E5%A4%A7%E6%89%B9%E6%A8%82%E8%BF%B7%E5%88%B0%E8%A8%AA-%E5%95%86%E6%88%B6%E7%87%9F%E6%A5%AD%E9%A1%8D%E5%A2%9E%E4%B8%89%E6%88%90",
+    "timestamp": "2026-11-14T02:59:10.403Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《再婚皇后》李鍾碩全裸變身戲險露臀！自爆向導演求饒：畀條褲我",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198121468198653952341967.jpeg/MabJoe8cRKuze2MrbR03wlCbxNaZ3btCciGY9XIhmPU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410665/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E7%B0%BD%E7%BD%B2%E5%85%B1%E5%90%8C%E9%98%B2%E7%A6%A6%E5%8D%94%E8%AD%B0-%E6%89%BF%E8%AB%BE%E5%B0%8D%E5%A4%96%E9%83%A8%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E6%8E%A1%E7%B5%B1%E4%B8%80%E7%AB%8B%E5%A0%B4",
     "timestamp": "2026-11-13T20:59:11.798Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "土耳其與卡塔爾簽署共同防禦協議　承諾對外部武裝攻擊採統一立場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198121468198653952341967.jpeg/MabJoe8cRKuze2MrbR03wlCbxNaZ3btCciGY9XIhmPU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410665/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%88%87%E5%8D%A1%E5%A1%94%E7%88%BE%E7%B0%BD%E7%BD%B2%E5%85%B1%E5%90%8C%E9%98%B2%E7%A6%A6%E5%8D%94%E8%AD%B0-%E6%89%BF%E8%AB%BE%E5%B0%8D%E5%A4%96%E9%83%A8%E6%AD%A6%E8%A3%9D%E6%94%BB%E6%93%8A%E6%8E%A1%E7%B5%B1%E4%B8%80%E7%AB%8B%E5%A0%B4",
-    "timestamp": "2026-11-13T20:45:30.723Z",
     "strategy": ".content-card__main"
   }
 ];
