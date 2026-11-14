@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T14:44:53.650Z
+// Last updated: 2026-11-14T14:59:03.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "撬門窗闖八鄉兩村屋圖爆竊　警查天眼拘男賊　籲裝高清CCTV防盜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198401055944085504493015.jpeg/VkBNiriqZxpTn_aVnqg59YpC0BwBSxyEq7l7tKu5e7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410879/%E6%92%AC%E9%96%80%E7%AA%97%E9%97%96%E5%85%AB%E9%84%89%E5%85%A9%E6%9D%91%E5%B1%8B%E5%9C%96%E7%88%86%E7%AB%8A-%E8%AD%A6%E6%9F%A5%E5%A4%A9%E7%9C%BC%E6%8B%98%E7%94%B7%E8%B3%8A-%E7%B1%B2%E8%A3%9D%E9%AB%98%E6%B8%85cctv%E9%98%B2%E7%9B%9C",
+    "timestamp": "2026-11-14T14:59:03.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Lisa賭城穿高衩戰衣揮皮鞭貼身熱舞　網民狠批露骨似瘋馬騷翻版",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198318756384739328407961.jpeg/NTDSMWGRwN0fKLoPB0upkAPjm6zKiNQf3v6_k97-v5M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410796/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%B8%AF%E6%96%B9%E5%85%AC%E5%85%B1%E4%BA%A4%E6%BB%99%E8%99%95%E8%A2%AB%E6%8C%87%E8%B7%AF%E9%9D%A2%E4%B8%8D%E5%A4%A0%E9%98%B2%E6%BB%91-%E7%9B%B4%E9%80%9A%E5%B7%B4%E7%9A%84%E5%A3%AB%E8%B7%A3%E8%83%8E%E6%92%9E%E7%89%86",
     "timestamp": "2026-11-14T09:59:11.201Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓劇推薦｜《鬼怪》初雪重逢最浪漫！盤點8部必睇的高甜冬日韓劇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198257387186688000365219.png/8BOjw_SKeJw7EAad9TYpnsXTXkCzyDW-rLn3dqy593Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410707/%E9%9F%93%E5%8A%87%E6%8E%A8%E8%96%A6-%E9%AC%BC%E6%80%AA-%E5%88%9D%E9%9B%AA%E9%87%8D%E9%80%A2%E6%9C%80%E6%B5%AA%E6%BC%AB-%E7%9B%A4%E9%BB%9E8%E9%83%A8%E5%BF%85%E7%9D%87%E7%9A%84%E9%AB%98%E7%94%9C%E5%86%AC%E6%97%A5%E9%9F%93%E5%8A%87",
-    "timestamp": "2026-11-14T09:44:58.474Z",
     "strategy": ".content-card__main"
   }
 ];
