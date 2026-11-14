@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T14:59:03.962Z
+// Last updated: 2026-11-14T15:18:30.591Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "重慶暖心檔主以物換物幫扶菜農　¥7炸醬麵換¥2剩菜　網民讚換真心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198243312406892544283475.png/b0XV1e9BoVoj4ItrNKDCDQIytQmnqij7-pju1_qY7tc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410685/%E9%87%8D%E6%85%B6%E6%9A%96%E5%BF%83%E6%AA%94%E4%B8%BB%E4%BB%A5%E7%89%A9%E6%8F%9B%E7%89%A9%E5%B9%AB%E6%89%B6%E8%8F%9C%E8%BE%B2-7%E7%82%B8%E9%86%AC%E9%BA%B5%E6%8F%9B-2%E5%89%A9%E8%8F%9C-%E7%B6%B2%E6%B0%91%E8%AE%9A%E6%8F%9B%E7%9C%9F%E5%BF%83",
+    "timestamp": "2026-11-14T15:18:30.591Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "撬門窗闖八鄉兩村屋圖爆竊　警查天眼拘男賊　籲裝高清CCTV防盜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198293944669048832478302.jpeg/4oPpWwK43Hnfd_69YJJ5UzSZxXeqcuJXbx1nxm8dZ8Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410750/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%98%B2%E8%AA%98%E6%83%91%E9%87%91%E5%8F%A5%E7%BF%BBhit-tyson-yoshi-%E6%89%93x%E6%A9%9F%E5%86%B7%E9%9D%9C%E4%B8%8B",
     "timestamp": "2026-11-14T10:18:57.335Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "皇崗口岸｜港方公共交滙處被指路面不夠防滑　直通巴的士跣胎撞牆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198318756384739328407961.jpeg/NTDSMWGRwN0fKLoPB0upkAPjm6zKiNQf3v6_k97-v5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410796/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%B8%AF%E6%96%B9%E5%85%AC%E5%85%B1%E4%BA%A4%E6%BB%99%E8%99%95%E8%A2%AB%E6%8C%87%E8%B7%AF%E9%9D%A2%E4%B8%8D%E5%A4%A0%E9%98%B2%E6%BB%91-%E7%9B%B4%E9%80%9A%E5%B7%B4%E7%9A%84%E5%A3%AB%E8%B7%A3%E8%83%8E%E6%92%9E%E7%89%86",
-    "timestamp": "2026-11-14T09:59:11.201Z",
     "strategy": ".content-card__main"
   }
 ];
