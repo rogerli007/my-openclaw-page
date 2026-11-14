@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T22:18:46.019Z
+// Last updated: 2026-11-14T22:59:03.146Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長者日優惠懶人包｜今日免費坐巴士港鐵　海洋公園等景點免費入場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198073812772458496078912.jpeg/K4Mvcnx97Y7pyLtDLDp0dP-LoSVGmGJVczq3EXM6txE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410534/%E9%95%B7%E8%80%85%E6%97%A5%E5%84%AA%E6%83%A0%E6%87%B6%E4%BA%BA%E5%8C%85-%E4%BB%8A%E6%97%A5%E5%85%8D%E8%B2%BB%E5%9D%90%E5%B7%B4%E5%A3%AB%E6%B8%AF%E9%90%B5-%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E7%AD%89%E6%99%AF%E9%BB%9E%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4",
+    "timestamp": "2026-11-14T22:59:03.146Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特使庫什納：美國將促進歐洲與俄羅斯之間的直接接觸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198359948807901184248039.jpeg/_3zWTj3OuTT2jFwIDI15LOTc6jB2_SbCSM4it0jOIrc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410847/%E4%BD%99%E6%96%87%E6%A8%8245%E6%AD%B2%E7%94%9F%E6%97%A5%E7%94%A9%E5%A9%9A%E8%AE%8A%E9%99%B0%E9%9C%BE%E7%94%9F%E6%B4%BB%E8%B6%85%E6%84%9C%E6%84%8F-%E6%81%A2%E5%BE%A9%E5%96%AE%E8%BA%AB%E7%8D%B2%E5%A5%BD%E5%8F%8B%E6%85%B6%E7%94%9F%E4%B8%8D%E5%AF%82%E5%AF%9E",
     "timestamp": "2026-11-14T16:59:01.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "余文樂45歲生日甩婚變陰霾生活超愜意　恢復單身獲好友慶生不寂寞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198359948807901184248039.jpeg/_3zWTj3OuTT2jFwIDI15LOTc6jB2_SbCSM4it0jOIrc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410847/%E4%BD%99%E6%96%87%E6%A8%8245%E6%AD%B2%E7%94%9F%E6%97%A5%E7%94%A9%E5%A9%9A%E8%AE%8A%E9%99%B0%E9%9C%BE%E7%94%9F%E6%B4%BB%E8%B6%85%E6%84%9C%E6%84%8F-%E6%81%A2%E5%BE%A9%E5%96%AE%E8%BA%AB%E7%8D%B2%E5%A5%BD%E5%8F%8B%E6%85%B6%E7%94%9F%E4%B8%8D%E5%AF%82%E5%AF%9E",
-    "timestamp": "2026-11-14T16:44:55.760Z",
     "strategy": ".content-card__main"
   }
 ];
