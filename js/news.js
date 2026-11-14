@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T17:45:04.538Z
+// Last updated: 2026-11-14T17:59:10.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張家輝憑《絕命法官》奪得《亞洲電視大獎》視帝  上台晒流利英文",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198432740517613568074639.jpeg/KpNcUttFPiCZEeYD812_849-HEqZnx5W_1BmWf9QZlk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410889/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E6%86%91-%E7%B5%95%E5%91%BD%E6%B3%95%E5%AE%98-%E5%A5%AA%E5%BE%97-%E4%BA%9E%E6%B4%B2%E9%9B%BB%E8%A6%96%E5%A4%A7%E7%8D%8E-%E8%A6%96%E5%B8%9D-%E4%B8%8A%E5%8F%B0%E6%99%92%E6%B5%81%E5%88%A9%E8%8B%B1%E6%96%87",
+    "timestamp": "2026-11-14T17:59:10.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美交通部長：全國停飛因更換舊銅線所致　已請求國會撥款改善系統",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198362303221731328024139.png/W8KLpLdb3KNb6PWw0G73xt62ytLaBs3JmdjkoZnY5KE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410834/bigbang-%E9%BB%83%E7%89%9B%E9%BB%A8%E7%82%92%E9%A3%9B%E8%B2%B4%E4%B8%80%E5%80%8D-%E9%96%8B%E5%A0%B4%E5%BE%8C%E4%BB%8D%E6%8B%92%E6%B8%9B%E5%83%B9-%E5%8D%81%E5%B9%BE%E5%88%86%E9%90%98%E8%B3%A3%E5%8D%81%E5%B9%BE%E5%BC%B5",
     "timestamp": "2026-11-14T12:34:11.663Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本Skyliner遭網絡攻擊或泄露337萬個人資訊　預約系統暫停",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221010/656206227172233216821054.jpeg/irK-gnhjMUaIH0J9gfIqSFvLuecpCIzb-XyVsfl8lbE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410849/%E6%97%A5%E6%9C%ACskyliner%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E6%88%96%E6%B3%84%E9%9C%B2337%E8%90%AC%E5%80%8B%E4%BA%BA%E8%B3%87%E8%A8%8A-%E9%A0%90%E7%B4%84%E7%B3%BB%E7%B5%B1%E6%9A%AB%E5%81%9C",
-    "timestamp": "2026-11-14T11:59:04.166Z",
     "strategy": ".content-card__main"
   }
 ];
