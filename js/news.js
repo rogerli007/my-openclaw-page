@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T10:59:01.310Z
+// Last updated: 2026-11-14T11:18:17.621Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《沙丘瀚戰》系列重映馬拉松開跑　一氣呵成重溫保羅復仇之路",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240404/852642434503413760032168.jpeg/P7S1NHymxR4yo6isyKeBC_QfLCgzfX145VeNl-VXjZc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410842/%E6%B2%99%E4%B8%98%E7%80%9A%E6%88%B0-%E7%B3%BB%E5%88%97%E9%87%8D%E6%98%A0%E9%A6%AC%E6%8B%89%E6%9D%BE%E9%96%8B%E8%B7%91-%E4%B8%80%E6%B0%A3%E5%91%B5%E6%88%90%E9%87%8D%E6%BA%AB%E4%BF%9D%E7%BE%85%E5%BE%A9%E4%BB%87%E4%B9%8B%E8%B7%AF",
+    "timestamp": "2026-11-14T11:18:17.621Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "騙徒$400放兩迪士尼門票　投資顧問上當轉帳　警籲官方渠道購票",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194271603676942336094865.jpeg/gz289JDdsG0B0WIkuUQSKDTSLOzuCH-JiGXX3Ihl19w?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E5%B0%88%E6%AC%84/60406496/%E5%A4%8F%E5%BB%BA%E8%8A%B3-%E9%A6%99%E6%B8%AF%E8%80%90%E5%BF%83%E8%B3%87%E6%9C%AC%E7%9A%84%E9%80%B2%E9%80%80%E6%99%BA%E6%85%A7",
     "timestamp": "2026-11-14T05:19:41.113Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台再下調11.20市區氣溫至17度　新界一區13度　或破入秋最涼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231217/813161980788740096201975.jpeg/Oz8FroEkSxW-IijQojlpM6TrUkkwMB4d5cXdpMDF3aQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60410719/%E5%A4%A9%E6%96%87%E5%8F%B0%E5%86%8D%E4%B8%8B%E8%AA%BF11-20%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E8%87%B317%E5%BA%A6-%E6%96%B0%E7%95%8C%E4%B8%80%E5%8D%8013%E5%BA%A6-%E6%88%96%E7%A0%B4%E5%85%A5%E7%A7%8B%E6%9C%80%E6%B6%BC",
-    "timestamp": "2026-11-14T04:59:13.577Z",
     "strategy": ".content-card__main"
   }
 ];
