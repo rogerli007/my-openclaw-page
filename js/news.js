@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T21:59:03.792Z
+// Last updated: 2026-11-14T22:18:46.019Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特使庫什納：美國將促進歐洲與俄羅斯之間的直接接觸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198515136969576448385971.jpeg/ThkgIKws_gLCWLSPf1-HQdoLbuFiM742mvVwe5r1cHs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410899/%E7%89%B9%E4%BD%BF%E5%BA%AB%E4%BB%80%E7%B4%8D-%E7%BE%8E%E5%9C%8B%E5%B0%87%E4%BF%83%E9%80%B2%E6%AD%90%E6%B4%B2%E8%88%87%E4%BF%84%E7%BE%85%E6%96%AF%E4%B9%8B%E9%96%93%E7%9A%84%E7%9B%B4%E6%8E%A5%E6%8E%A5%E8%A7%B8",
+    "timestamp": "2026-11-14T22:18:46.019Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198359948807901184248039.jpeg/_3zWTj3OuTT2jFwIDI15LOTc6jB2_SbCSM4it0jOIrc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410847/%E4%BD%99%E6%96%87%E6%A8%8245%E6%AD%B2%E7%94%9F%E6%97%A5%E7%94%A9%E5%A9%9A%E8%AE%8A%E9%99%B0%E9%9C%BE%E7%94%9F%E6%B4%BB%E8%B6%85%E6%84%9C%E6%84%8F-%E6%81%A2%E5%BE%A9%E5%96%AE%E8%BA%AB%E7%8D%B2%E5%A5%BD%E5%8F%8B%E6%85%B6%E7%94%9F%E4%B8%8D%E5%AF%82%E5%AF%9E",
     "timestamp": "2026-11-14T16:44:55.760Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬斯克：沒有黃仁勳許多關鍵交易將失敗　僅有口頭承諾無書面合約",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198320653153865728315928.jpeg/1CpgRRsnIvLsOlZZC1_smJ-86sR9inzSsayxjrGssY4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410885/%E9%A6%AC%E6%96%AF%E5%85%8B-%E6%B2%92%E6%9C%89%E9%BB%83%E4%BB%81%E5%8B%B3%E8%A8%B1%E5%A4%9A%E9%97%9C%E9%8D%B5%E4%BA%A4%E6%98%93%E5%B0%87%E5%A4%B1%E6%95%97-%E5%83%85%E6%9C%89%E5%8F%A3%E9%A0%AD%E6%89%BF%E8%AB%BE%E7%84%A1%E6%9B%B8%E9%9D%A2%E5%90%88%E7%B4%84",
-    "timestamp": "2026-11-14T16:19:34.065Z",
     "strategy": ".content-card__main"
   }
 ];
