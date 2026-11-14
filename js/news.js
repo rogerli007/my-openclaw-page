@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T15:29:25.576Z
+// Last updated: 2026-11-14T16:19:34.065Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬斯克：沒有黃仁勳許多關鍵交易將失敗　僅有口頭承諾無書面合約",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198320653153865728315928.jpeg/1CpgRRsnIvLsOlZZC1_smJ-86sR9inzSsayxjrGssY4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410885/%E9%A6%AC%E6%96%AF%E5%85%8B-%E6%B2%92%E6%9C%89%E9%BB%83%E4%BB%81%E5%8B%B3%E8%A8%B1%E5%A4%9A%E9%97%9C%E9%8D%B5%E4%BA%A4%E6%98%93%E5%B0%87%E5%A4%B1%E6%95%97-%E5%83%85%E6%9C%89%E5%8F%A3%E9%A0%AD%E6%89%BF%E8%AB%BE%E7%84%A1%E6%9B%B8%E9%9D%A2%E5%90%88%E7%B4%84",
+    "timestamp": "2026-11-14T16:19:34.065Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜苦主付11萬整車　另覓車房檢查驚揭零件完全無換",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198339493388619776673945.jpeg/ZFJMu2CGPPAbNMYMUJEe0PZObSyDOwj9lKiy1ZSostU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410832/%E6%BE%B3%E9%96%80%E6%B3%A5%E9%A0%AD%E8%BB%8A%E6%92%9E%E5%86%A7-%E9%BE%8D%E9%96%80%E6%9E%B6-%E5%A3%93%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%82%B7%E5%8F%B8%E6%A9%9F-%E9%9D%92%E8%8C%82%E5%8F%A3%E5%B2%B8%E9%99%84%E8%BF%91%E5%A4%A7%E5%A1%9E%E8%BB%8A",
     "timestamp": "2026-11-14T10:44:50.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新加坡24歲AI科企創辦人撞名「黃仁勳」　遭點錯相爆紅因禍得福",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198333352210337792807419.jpeg/xIK1x0q7XGLUvVA6ssNQOpJrOYd5ZmSCKlbLpipWy6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60410820/%E6%96%B0%E5%8A%A0%E5%9D%A124%E6%AD%B2ai%E7%A7%91%E4%BC%81%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%92%9E%E5%90%8D-%E9%BB%83%E4%BB%81%E5%8B%B3-%E9%81%AD%E9%BB%9E%E9%8C%AF%E7%9B%B8%E7%88%86%E7%B4%85%E5%9B%A0%E7%A6%8D%E5%BE%97%E7%A6%8F",
-    "timestamp": "2026-11-14T10:29:34.153Z",
     "strategy": ".content-card__main"
   }
 ];
