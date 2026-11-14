@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T10:29:34.153Z
+// Last updated: 2026-11-14T10:44:50.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澳門泥頭車撞冧「龍門架」　壓私家車傷司機　青茂口岸附近大塞車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198339493388619776673945.jpeg/ZFJMu2CGPPAbNMYMUJEe0PZObSyDOwj9lKiy1ZSostU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410832/%E6%BE%B3%E9%96%80%E6%B3%A5%E9%A0%AD%E8%BB%8A%E6%92%9E%E5%86%A7-%E9%BE%8D%E9%96%80%E6%9E%B6-%E5%A3%93%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%82%B7%E5%8F%B8%E6%A9%9F-%E9%9D%92%E8%8C%82%E5%8F%A3%E5%B2%B8%E9%99%84%E8%BF%91%E5%A4%A7%E5%A1%9E%E8%BB%8A",
+    "timestamp": "2026-11-14T10:44:50.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新加坡24歲AI科企創辦人撞名「黃仁勳」　遭點錯相爆紅因禍得福",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198039455168991232128043.jpeg/_hB6Gzgo6gAkiu45V2QbnRLr0_elR-xO2IooJtiKKCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410638/%E5%BC%B5%E7%B9%BC%E8%81%B0%E9%9C%B8%E6%B0%A3%E8%AD%B7%E7%B2%89%E7%B5%B2%E5%96%9D%E6%96%A5%E6%8E%A8%E6%92%9E%E8%80%85%E7%8D%B2%E5%85%A8%E7%B6%B2%E6%BF%80%E8%AE%9A-%E7%B6%B2%E6%B0%91%E9%80%A3%E7%92%B0%E5%A4%A7%E7%88%86%E7%A7%81%E4%B8%8B%E7%9C%9F%E9%9D%A2%E7%9B%AE",
     "timestamp": "2026-11-14T04:45:20.833Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG開騷｜周一鳴：打擊白牌車拘12人　與內地聯繫協調盼改善",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198243603256709120624710.jpeg/ALOUFyGayhlOp-ZC0WjkpBIYoxy9_9ZMmjAHFpowBxY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410712/bigbang%E9%96%8B%E9%A8%B7-%E5%91%A8%E4%B8%80%E9%B3%B4-%E6%89%93%E6%93%8A%E7%99%BD%E7%89%8C%E8%BB%8A%E6%8B%9812%E4%BA%BA-%E8%88%87%E5%85%A7%E5%9C%B0%E8%81%AF%E7%B9%AB%E5%8D%94%E8%AA%BF%E7%9B%BC%E6%94%B9%E5%96%84",
-    "timestamp": "2026-11-14T04:21:37.450Z",
     "strategy": ".content-card__main"
   }
 ];
