@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T13:18:47.414Z
+// Last updated: 2026-11-14T13:27:00.772Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新皇崗口岸｜專家料路面排水防滑欠佳致跣胎　當局擬下周加鋪物料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194600125352120320493087.jpeg/av2-OB8T5GcKXyOtWt3qSDAtoCgLzlBWTa-47k2vuO4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410838/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E5%B0%88%E5%AE%B6%E6%96%99%E8%B7%AF%E9%9D%A2%E6%8E%92%E6%B0%B4%E9%98%B2%E6%BB%91%E6%AC%A0%E4%BD%B3%E8%87%B4%E8%B7%A3%E8%83%8E-%E7%95%B6%E5%B1%80%E6%93%AC%E4%B8%8B%E5%91%A8%E5%8A%A0%E9%8B%AA%E7%89%A9%E6%96%99",
+    "timestamp": "2026-11-14T13:27:00.772Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Apple攬雙11手機榜前四　iPhone 18 Pro Max奪冠　國產旗艦消失？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198293548391206912638217.jpeg/zydf2VyCpUqHlkf-9Z6dOg5jrfoCv5XzEglBjxIJQY8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410754/%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B4%E5%B0%8F%E6%99%82-%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7%E6%BE%84%E6%B8%85%E9%9D%9E%E6%96%B0ai%E7%A9%BA%E7%AE%A1%E7%B3%BB%E7%B5%B1%E6%83%B9%E7%A6%8D-%E8%AD%B0%E5%93%A1%E4%BF%83%E6%9F%A5",
     "timestamp": "2026-11-14T07:59:12.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西乙門將奧禾奴撞死特內里費前鋒　西班牙足協處罰禁賽12場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194358890934833152016754.jpeg/X4-bkoFv5VMeIts1FgYxWs1vTXF4gFyLaiyAUmosgFI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410749/%E8%A5%BF%E4%B9%99%E9%96%80%E5%B0%87%E5%A5%A7%E7%A6%BE%E5%A5%B4%E6%92%9E%E6%AD%BB%E7%89%B9%E5%85%A7%E9%87%8C%E8%B2%BB%E5%89%8D%E9%8B%92-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B6%B3%E5%8D%94%E8%99%95%E7%BD%B0%E7%A6%81%E8%B3%BD12%E5%A0%B4",
-    "timestamp": "2026-11-14T07:45:03.291Z",
     "strategy": ".content-card__main"
   }
 ];
