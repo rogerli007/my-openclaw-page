@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T11:59:04.166Z
+// Last updated: 2026-11-14T12:34:11.663Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG｜黃牛黨炒飛貴一倍　開場後仍拒減價：十幾分鐘賣十幾張",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198362303221731328024139.png/W8KLpLdb3KNb6PWw0G73xt62ytLaBs3JmdjkoZnY5KE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410834/bigbang-%E9%BB%83%E7%89%9B%E9%BB%A8%E7%82%92%E9%A3%9B%E8%B2%B4%E4%B8%80%E5%80%8D-%E9%96%8B%E5%A0%B4%E5%BE%8C%E4%BB%8D%E6%8B%92%E6%B8%9B%E5%83%B9-%E5%8D%81%E5%B9%BE%E5%88%86%E9%90%98%E8%B3%A3%E5%8D%81%E5%B9%BE%E5%BC%B5",
+    "timestamp": "2026-11-14T12:34:11.663Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本Skyliner遭網絡攻擊或泄露337萬個人資訊　預約系統暫停",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172037301522403328071892.jpeg/jaEXCLfACY1vlwi2xDrOIIgrj3kENqovvjBWGoQwVho?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410727/%E8%A7%80%E5%A1%9837%E6%AD%B2%E8%8F%B2%E5%82%AD%E7%96%91%E6%8E%8C%E6%91%917%E6%AD%B2%E5%B0%91%E4%B8%BB-%E6%B6%89%E8%99%90%E5%85%92%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-14T06:39:49.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長者日2026｜7大超市優惠：惠康、大生9折+百佳每人送3個金奇異果",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197951859571036160039862.jpeg/OVcRKJq7lrcsk0RZeKHS9mdFnNpBjnCSrT0aWa09Glk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60410454/%E9%95%B7%E8%80%85%E6%97%A52026-7%E5%A4%A7%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E6%83%A0%E5%BA%B7-%E5%A4%A7%E7%94%9F9%E6%8A%98-%E7%99%BE%E4%BD%B3%E6%AF%8F%E4%BA%BA%E9%80%813%E5%80%8B%E9%87%91%E5%A5%87%E7%95%B0%E6%9E%9C",
-    "timestamp": "2026-11-14T06:24:52.745Z",
     "strategy": ".content-card__main"
   }
 ];
