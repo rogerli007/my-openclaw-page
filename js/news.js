@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T15:18:30.591Z
+// Last updated: 2026-11-14T15:29:25.576Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜苦主付11萬整車　另覓車房檢查驚揭零件完全無換",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198380809820573696517294.jpeg/TLTc4ihMVrHTN2PLhBch9-g2rrsPYBRaRF1UFkRdVBY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410868/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%8B%A6%E4%B8%BB%E4%BB%9811%E8%90%AC%E6%95%B4%E8%BB%8A-%E5%8F%A6%E8%A6%93%E8%BB%8A%E6%88%BF%E6%AA%A2%E6%9F%A5%E9%A9%9A%E6%8F%AD%E9%9B%B6%E4%BB%B6%E5%AE%8C%E5%85%A8%E7%84%A1%E6%8F%9B",
+    "timestamp": "2026-11-14T15:29:25.576Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重慶暖心檔主以物換物幫扶菜農　¥7炸醬麵換¥2剩菜　網民讚換真心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198333352210337792807419.jpeg/xIK1x0q7XGLUvVA6ssNQOpJrOYd5ZmSCKlbLpipWy6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60410820/%E6%96%B0%E5%8A%A0%E5%9D%A124%E6%AD%B2ai%E7%A7%91%E4%BC%81%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%92%9E%E5%90%8D-%E9%BB%83%E4%BB%81%E5%8B%B3-%E9%81%AD%E9%BB%9E%E9%8C%AF%E7%9B%B8%E7%88%86%E7%B4%85%E5%9B%A0%E7%A6%8D%E5%BE%97%E7%A6%8F",
     "timestamp": "2026-11-14T10:29:34.153Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜張家輝防誘惑金句翻Hit　Tyson Yoshi：打X機冷靜下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198293944669048832478302.jpeg/4oPpWwK43Hnfd_69YJJ5UzSZxXeqcuJXbx1nxm8dZ8Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410750/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%98%B2%E8%AA%98%E6%83%91%E9%87%91%E5%8F%A5%E7%BF%BBhit-tyson-yoshi-%E6%89%93x%E6%A9%9F%E5%86%B7%E9%9D%9C%E4%B8%8B",
-    "timestamp": "2026-11-14T10:18:57.335Z",
     "strategy": ".content-card__main"
   }
 ];
