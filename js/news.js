@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T04:21:37.450Z
+// Last updated: 2026-11-14T04:45:20.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張繼聰霸氣護粉絲喝斥推撞者獲全網激讚　網民連環大爆私下真面目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198039455168991232128043.jpeg/_hB6Gzgo6gAkiu45V2QbnRLr0_elR-xO2IooJtiKKCY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410638/%E5%BC%B5%E7%B9%BC%E8%81%B0%E9%9C%B8%E6%B0%A3%E8%AD%B7%E7%B2%89%E7%B5%B2%E5%96%9D%E6%96%A5%E6%8E%A8%E6%92%9E%E8%80%85%E7%8D%B2%E5%85%A8%E7%B6%B2%E6%BF%80%E8%AE%9A-%E7%B6%B2%E6%B0%91%E9%80%A3%E7%92%B0%E5%A4%A7%E7%88%86%E7%A7%81%E4%B8%8B%E7%9C%9F%E9%9D%A2%E7%9B%AE",
+    "timestamp": "2026-11-14T04:45:20.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG開騷｜周一鳴：打擊白牌車拘12人　與內地聯繫協調盼改善",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197527023912751104873296.png/c9ZzK6o3b_og9uHvWZo6aKBuJBepzEmvxSx5XsUseV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409866/%E9%87%8D%E6%85%B62%E6%AD%B2%E5%8D%8A%E5%A5%B3%E7%AB%A5%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E7%9D%A1%E9%86%92%E5%B0%8B%E8%A6%AA2%E6%A8%93%E8%AD%B7%E6%AC%84%E9%96%93%E9%9A%99%E5%A2%AE%E6%A8%93-%E5%A5%87%E8%B9%9F%E5%83%85%E5%8F%97%E8%BC%95%E5%82%B7",
     "timestamp": "2026-11-13T22:29:23.497Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國聯邦航空管理局發布全國航班停飛令　運輸部稱因通訊問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251109/1064206217972289536357296.jpeg/dmnqdsEX6aMDheBtXy20afNSPGLyoLuKC_tX0gv7V9I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410669/%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E8%88%AA%E7%A9%BA%E7%AE%A1%E7%90%86%E5%B1%80%E7%99%BC%E5%B8%83%E5%85%A8%E5%9C%8B%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B%E4%BB%A4-%E9%81%8B%E8%BC%B8%E9%83%A8%E7%A8%B1%E5%9B%A0%E9%80%9A%E8%A8%8A%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-11-13T21:59:06.531Z",
     "strategy": ".content-card__main"
   }
 ];
