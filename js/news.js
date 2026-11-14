@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T17:59:10.199Z
+// Last updated: 2026-11-14T18:20:58.595Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正破解讀書迷思：學習本是樂趣 家長不應該傳播痛苦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198311968851628032831790.jpeg/mMth_Svt07E-J_d3z01SJzG7fmJvIG5quXx-X7l8fl8",
+    "url": "https://www.hk01.com/01TV/60410787/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%A0%B4%E8%A7%A3%E8%AE%80%E6%9B%B8%E8%BF%B7%E6%80%9D-%E5%AD%B8%E7%BF%92%E6%9C%AC%E6%98%AF%E6%A8%82%E8%B6%A3-%E5%AE%B6%E9%95%B7%E4%B8%8D%E6%87%89%E8%A9%B2%E5%82%B3%E6%92%AD%E7%97%9B%E8%8B%A6",
+    "timestamp": "2026-11-14T18:20:58.595Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張家輝憑《絕命法官》奪得《亞洲電視大獎》視帝  上台晒流利英文",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198351640386605056496021.jpeg/noFHEtW7zPBv53xzum_nESm5KrRRDl5KJWUttyVlLbc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410781/%E6%B9%AF%E6%80%A1%E5%B8%B65%E6%AD%B2%E5%9B%A1%E5%9B%A1-%E6%AF%8D%E5%A5%B3%E8%A3%9D-%E9%9D%A2%E8%A9%A6-11%E5%B9%B4%E4%B8%80%E6%A2%9D%E9%BE%8D-%E7%9C%9F%E9%81%93%E6%9B%B8%E9%99%A2%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88",
     "timestamp": "2026-11-14T12:44:51.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG｜黃牛黨炒飛貴一倍　開場後仍拒減價：十幾分鐘賣十幾張",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198362303221731328024139.png/W8KLpLdb3KNb6PWw0G73xt62ytLaBs3JmdjkoZnY5KE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410834/bigbang-%E9%BB%83%E7%89%9B%E9%BB%A8%E7%82%92%E9%A3%9B%E8%B2%B4%E4%B8%80%E5%80%8D-%E9%96%8B%E5%A0%B4%E5%BE%8C%E4%BB%8D%E6%8B%92%E6%B8%9B%E5%83%B9-%E5%8D%81%E5%B9%BE%E5%88%86%E9%90%98%E8%B3%A3%E5%8D%81%E5%B9%BE%E5%BC%B5",
-    "timestamp": "2026-11-14T12:34:11.663Z",
     "strategy": ".content-card__main"
   }
 ];
