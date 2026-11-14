@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T00:52:12.160Z
+// Last updated: 2026-11-14T01:02:31.957Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命｜紅磡寶來街女子墮樓亡　警停車場調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198193468426424320068349.jpeg/ffCoMe05uAXhEOM3UFfO55Ic6hLH-AtEui06UrotOlI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410675/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%B4%85%E7%A3%A1%E5%AF%B6%E4%BE%86%E8%A1%97%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-14T01:02:31.957Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命｜紅磡寶來街女子墮樓亡　警停車場調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1187951703438135296253140.jpeg/pfDnT_5Qxh6EsNTpu74mJyIvySTZ5Vb-6lseX-pbHl8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410662/%E6%AD%90%E6%B4%B2%E4%BA%94%E5%9C%8B%E5%B0%87%E5%8F%83%E8%88%87%E4%B8%8B%E8%BC%AA%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87-%E7%BE%8E%E6%96%B9%E6%8C%87%E5%B7%B2%E5%B0%B1%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%A7%8B%E5%95%8F%E9%A1%8C%E5%B1%95%E7%A3%8B%E5%95%86",
     "timestamp": "2026-11-13T19:18:36.231Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七旬男誤中投資騙案失近$1800萬　警一周接40宗同類案涉款$5000萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198095410523017216803425.jpeg/IWJqePe9L0tLH6ZQxExGE-Pfav9UFPjpWD70jlg-9I4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410658/%E4%B8%83%E6%97%AC%E7%94%B7%E8%AA%A4%E4%B8%AD%E6%8A%95%E8%B3%87%E9%A8%99%E6%A1%88%E5%A4%B1%E8%BF%91-1800%E8%90%AC-%E8%AD%A6%E4%B8%80%E5%91%A8%E6%8E%A540%E5%AE%97%E5%90%8C%E9%A1%9E%E6%A1%88%E6%B6%89%E6%AC%BE-5000%E8%90%AC",
-    "timestamp": "2026-11-13T18:59:11.363Z",
     "strategy": ".content-card__main"
   }
 ];
