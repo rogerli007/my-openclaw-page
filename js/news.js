@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T19:29:22.163Z
+// Last updated: 2026-11-14T19:44:52.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角鬧市人來人往　藍衣男當眾小便　網民批：報警捉人啦｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198473533030666240154732.jpeg/uiWsnVa2czdUI3k73JT3RuA4W7nJief_SzTdtEs03bQ",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410894/%E6%97%BA%E8%A7%92%E9%AC%A7%E5%B8%82%E4%BA%BA%E4%BE%86%E4%BA%BA%E5%BE%80-%E8%97%8D%E8%A1%A3%E7%94%B7%E7%95%B6%E7%9C%BE%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E6%89%B9-%E5%A0%B1%E8%AD%A6%E6%8D%89%E4%BA%BA%E5%95%A6-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-14T19:44:52.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角鬧市人來人往　藍衣男當眾小便　網民批：報警捉人啦｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198342708368773120501638.png/xTgil2a5xM-YDqr8SkVQa23FoH83ah4JYbyJRmG8iUY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410791/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E8%91%A3%E6%80%9D%E6%88%90%E8%AD%B7%E8%8A%B1%E5%85%A8%E8%BA%AB%E8%80%8C%E9%80%80-%E5%B0%8D%E6%AF%94%E7%99%BD%E6%95%AC%E4%BA%AD-%E5%A4%8F%E8%87%B3%E6%9C%AA%E8%87%B3-%E5%82%AC%E6%B7%9A",
     "timestamp": "2026-11-14T13:57:40.851Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角彌敦道兩巴士相撞　城巴下層爆玻璃　女童受傷送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198387234798047232129743.jpeg/TwvliWVnGyKEyPFwLK9xxut6o2jTcUcjrQlXv60JV78?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410870/%E6%97%BA%E8%A7%92%E5%BD%8C%E6%95%A6%E9%81%93%E5%85%A9%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E-%E5%9F%8E%E5%B7%B4%E4%B8%8B%E5%B1%A4%E7%88%86%E7%8E%BB%E7%92%83-%E5%A5%B3%E7%AB%A5%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2",
-    "timestamp": "2026-11-14T13:44:47.349Z",
     "strategy": ".content-card__main"
   }
 ];
