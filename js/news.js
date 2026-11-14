@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T08:45:22.426Z
+// Last updated: 2026-11-14T08:59:02.452Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "微軟全球服務中斷長達一日後恢復　系統伺服器超負荷出事官方致歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198057733736108032471268.jpeg/12tZ2Snw-igrcdnem81lD-UOwBHEF7OEtr37Fra9-xY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410767/%E5%BE%AE%E8%BB%9F%E5%85%A8%E7%90%83%E6%9C%8D%E5%8B%99%E4%B8%AD%E6%96%B7%E9%95%B7%E9%81%94%E4%B8%80%E6%97%A5%E5%BE%8C%E6%81%A2%E5%BE%A9-%E7%B3%BB%E7%B5%B1%E4%BC%BA%E6%9C%8D%E5%99%A8%E8%B6%85%E8%B2%A0%E8%8D%B7%E5%87%BA%E4%BA%8B%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89",
+    "timestamp": "2026-11-14T08:59:02.452Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩男划獨木舟遇風浪被困吊鐘洲　獲水警消防救起　事後發感謝信",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197930868996313088920785.png/5I3s4pauzCdWsBBmx6-PYfX3BFbaTGZYBNBq5QTQauU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410426/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E6%9D%8E%E9%8D%BE%E7%A2%A9%E5%85%A8%E8%A3%B8%E8%AE%8A%E8%BA%AB%E6%88%B2%E9%9A%AA%E9%9C%B2%E8%87%80-%E8%87%AA%E7%88%86%E5%90%91%E5%B0%8E%E6%BC%94%E6%B1%82%E9%A5%92-%E7%95%80%E6%A2%9D%E8%A4%B2%E6%88%91",
     "timestamp": "2026-11-14T02:35:28.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "40歲女指甲異常確診腎衰竭　醫：警惕3情況　半紅半白恐是尿毒症",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196426150801313792425937.jpeg/DFCqefym9-WoHkmVFJfIP1gyIBcytmdhcaHBXnGhwV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405311/40%E6%AD%B2%E5%A5%B3%E6%8C%87%E7%94%B2%E7%95%B0%E5%B8%B8%E7%A2%BA%E8%A8%BA%E8%85%8E%E8%A1%B0%E7%AB%AD-%E9%86%AB-%E8%AD%A6%E6%83%953%E6%83%85%E6%B3%81-%E5%8D%8A%E7%B4%85%E5%8D%8A%E7%99%BD%E6%81%90%E6%98%AF%E5%B0%BF%E6%AF%92%E7%97%87",
-    "timestamp": "2026-11-14T02:24:19.361Z",
     "strategy": ".content-card__main"
   }
 ];
