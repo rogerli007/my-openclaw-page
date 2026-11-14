@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T16:59:01.054Z
+// Last updated: 2026-11-14T17:17:43.443Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台慶｜司儀大合照驚見一人被遮樣　麥美恩似成功逃離「雪櫃」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198400012619354112746321.jpeg/h7ZzzEvOyhIxuyHt6-baZ4C9tjxLQzMgtLtMyrS7TMo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410874/%E5%8F%B0%E6%85%B6-%E5%8F%B8%E5%84%80%E5%A4%A7%E5%90%88%E7%85%A7%E9%A9%9A%E8%A6%8B%E4%B8%80%E4%BA%BA%E8%A2%AB%E9%81%AE%E6%A8%A3-%E9%BA%A5%E7%BE%8E%E6%81%A9%E4%BC%BC%E6%88%90%E5%8A%9F%E9%80%83%E9%9B%A2-%E9%9B%AA%E6%AB%83",
+    "timestamp": "2026-11-14T17:17:43.443Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "余文樂45歲生日甩婚變陰霾生活超愜意　恢復單身獲好友慶生不寂寞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240714/889178493659648000539486.jpeg/NpL6OKZe3po8pw0ICNPDkKO6N7QOAHzmJbnwqSW58Kk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410736/%E4%B8%89%E9%9A%A7%E5%88%86%E6%B5%81-%E8%A5%BF%E9%9A%A7%E4%BB%8A%E5%B9%B4%E9%A6%969%E5%80%8B%E6%9C%88%E9%9B%99%E5%90%91%E8%BB%8A%E6%B5%81%E5%8D%8734-%E7%B4%85%E9%9A%A7%E6%9D%B1%E9%9A%A7%E8%BB%8A%E6%B5%81%E8%B7%8C%E8%BF%91%E4%B8%80%E6%88%90",
     "timestamp": "2026-11-14T11:29:18.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《沙丘瀚戰》系列重映馬拉松開跑　一氣呵成重溫保羅復仇之路",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240404/852642434503413760032168.jpeg/P7S1NHymxR4yo6isyKeBC_QfLCgzfX145VeNl-VXjZc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410842/%E6%B2%99%E4%B8%98%E7%80%9A%E6%88%B0-%E7%B3%BB%E5%88%97%E9%87%8D%E6%98%A0%E9%A6%AC%E6%8B%89%E6%9D%BE%E9%96%8B%E8%B7%91-%E4%B8%80%E6%B0%A3%E5%91%B5%E6%88%90%E9%87%8D%E6%BA%AB%E4%BF%9D%E7%BE%85%E5%BE%A9%E4%BB%87%E4%B9%8B%E8%B7%AF",
-    "timestamp": "2026-11-14T11:18:17.621Z",
     "strategy": ".content-card__main"
   }
 ];
