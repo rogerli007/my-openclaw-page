@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T03:21:21.796Z
+// Last updated: 2026-11-14T03:43:45.133Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "腕錶｜3款方形女錶職場穿搭必收　Hermès入門款彰顯品味戴出貴氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194697211393347584162378.png/YTLgLBXr3ipOtm0dZj9Va_P81g2XtXznRYRgkkWEYJI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60407086/%E8%85%95%E9%8C%B6-3%E6%AC%BE%E6%96%B9%E5%BD%A2%E5%A5%B3%E9%8C%B6%E8%81%B7%E5%A0%B4%E7%A9%BF%E6%90%AD%E5%BF%85%E6%94%B6-herm%C3%A8s%E5%85%A5%E9%96%80%E6%AC%BE%E5%BD%B0%E9%A1%AF%E5%93%81%E5%91%B3%E6%88%B4%E5%87%BA%E8%B2%B4%E6%B0%A3",
+    "timestamp": "2026-11-14T03:43:45.133Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "44歲曹敏莉攜子女遊紐約 母女合照猶如姊妹 每年百萬供子女讀漢基",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410667/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83-%E5%B0%9A%E6%9C%AA%E6%AD%A3%E5%BC%8F%E6%8E%A5%E8%A7%B8%E4%BB%BB%E4%BD%95%E6%BD%9B%E5%9C%A8%E5%80%99%E9%81%B8%E4%BA%BA-%E4%BA%A6%E6%9C%AA%E9%81%B8%E5%AE%9A%E7%8D%B5%E9%A0%AD%E5%85%AC%E5%8F%B8",
     "timestamp": "2026-11-13T21:29:37.060Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達董事會：尚未正式接觸任何潛在候選人　亦未選定獵頭公司",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410667/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83-%E5%B0%9A%E6%9C%AA%E6%AD%A3%E5%BC%8F%E6%8E%A5%E8%A7%B8%E4%BB%BB%E4%BD%95%E6%BD%9B%E5%9C%A8%E5%80%99%E9%81%B8%E4%BA%BA-%E4%BA%A6%E6%9C%AA%E9%81%B8%E5%AE%9A%E7%8D%B5%E9%A0%AD%E5%85%AC%E5%8F%B8",
-    "timestamp": "2026-11-13T21:12:44.202Z",
     "strategy": ".content-card__main"
   }
 ];
