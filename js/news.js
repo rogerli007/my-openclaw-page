@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T11:29:18.216Z
+// Last updated: 2026-11-14T11:44:45.825Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港迪士尼停購票及訂酒店服務　據悉內部系統1.7萬個二維碼被盜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989591775293345792603174.jpeg/3H_elv8z-FizyFqFN0OrIGKCN39Gr1QUeawbElysGxI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410846/%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%81%9C%E8%B3%BC%E7%A5%A8%E5%8F%8A%E8%A8%82%E9%85%92%E5%BA%97%E6%9C%8D%E5%8B%99-%E6%93%9A%E6%82%89%E5%85%A7%E9%83%A8%E7%B3%BB%E7%B5%B11-7%E8%90%AC%E5%80%8B%E4%BA%8C%E7%B6%AD%E7%A2%BC%E8%A2%AB%E7%9B%9C",
+    "timestamp": "2026-11-14T11:44:45.825Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "三隧分流｜西隧今年首9個月雙向車流升34%　紅隧東隧車流跌近一成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198271541129777152391540.png/44CDCqlPb7oWyzZko3_zWhodUAhWLj8g5i8YduYvGHY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60410728/%E9%87%8D%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BD%98%E7%B9%95%E5%A6%A1%E9%97%96%E7%84%A1%E9%8C%AB%E7%AB%9916%E5%BC%B7-%E9%80%A3%E7%BA%8C%E5%85%A9%E5%A0%B4%E4%B8%80%E5%88%86%E9%9A%AA%E5%8B%9D%E9%81%8E%E9%97%9C",
     "timestamp": "2026-11-14T05:59:12.595Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "元華與移加藝人聚舊「日本仔」罕現身　高雄澄清死訊：我仲喺度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198255923206819840906573.jpeg/inrRsMaWjFyJmujWjqO1QDFPNs6j-rEi8DyDevA8g3o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410580/%E5%85%83%E8%8F%AF%E8%88%87%E7%A7%BB%E5%8A%A0%E8%97%9D%E4%BA%BA%E8%81%9A%E8%88%8A-%E6%97%A5%E6%9C%AC%E4%BB%94-%E7%BD%95%E7%8F%BE%E8%BA%AB-%E9%AB%98%E9%9B%84%E6%BE%84%E6%B8%85%E6%AD%BB%E8%A8%8A-%E6%88%91%E4%BB%B2%E5%96%BA%E5%BA%A6",
-    "timestamp": "2026-11-14T05:45:29.591Z",
     "strategy": ".content-card__main"
   }
 ];
