@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T17:17:43.443Z
+// Last updated: 2026-11-14T17:29:27.808Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台慶｜司儀大合照驚見一人被遮樣　麥美恩似成功逃離「雪櫃」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198400012619354112746321.jpeg/h7ZzzEvOyhIxuyHt6-baZ4C9tjxLQzMgtLtMyrS7TMo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410874/%E5%8F%B0%E6%85%B6-%E5%8F%B8%E5%84%80%E5%A4%A7%E5%90%88%E7%85%A7%E9%A9%9A%E8%A6%8B%E4%B8%80%E4%BA%BA%E8%A2%AB%E9%81%AE%E6%A8%A3-%E9%BA%A5%E7%BE%8E%E6%81%A9%E4%BC%BC%E6%88%90%E5%8A%9F%E9%80%83%E9%9B%A2-%E9%9B%AA%E6%AB%83",
+    "timestamp": "2026-11-14T17:29:27.808Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台慶｜司儀大合照驚見一人被遮樣　麥美恩似成功逃離「雪櫃」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989591775293345792603174.jpeg/3H_elv8z-FizyFqFN0OrIGKCN39Gr1QUeawbElysGxI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410846/%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%81%9C%E8%B3%BC%E7%A5%A8%E5%8F%8A%E8%A8%82%E9%85%92%E5%BA%97%E6%9C%8D%E5%8B%99-%E6%93%9A%E6%82%89%E5%85%A7%E9%83%A8%E7%B3%BB%E7%B5%B11-7%E8%90%AC%E5%80%8B%E4%BA%8C%E7%B6%AD%E7%A2%BC%E8%A2%AB%E7%9B%9C",
     "timestamp": "2026-11-14T11:44:45.825Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "三隧分流｜西隧今年首9個月雙向車流升34%　紅隧東隧車流跌近一成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240714/889178493659648000539486.jpeg/NpL6OKZe3po8pw0ICNPDkKO6N7QOAHzmJbnwqSW58Kk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410736/%E4%B8%89%E9%9A%A7%E5%88%86%E6%B5%81-%E8%A5%BF%E9%9A%A7%E4%BB%8A%E5%B9%B4%E9%A6%969%E5%80%8B%E6%9C%88%E9%9B%99%E5%90%91%E8%BB%8A%E6%B5%81%E5%8D%8734-%E7%B4%85%E9%9A%A7%E6%9D%B1%E9%9A%A7%E8%BB%8A%E6%B5%81%E8%B7%8C%E8%BF%91%E4%B8%80%E6%88%90",
-    "timestamp": "2026-11-14T11:29:18.216Z",
     "strategy": ".content-card__main"
   }
 ];
