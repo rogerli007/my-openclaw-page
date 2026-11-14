@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T12:34:11.663Z
+// Last updated: 2026-11-14T12:44:51.758Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "湯怡帶5歲囡囡「母女裝」面試　「11年一條龍」真道書院競爭激烈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198351640386605056496021.jpeg/noFHEtW7zPBv53xzum_nESm5KrRRDl5KJWUttyVlLbc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410781/%E6%B9%AF%E6%80%A1%E5%B8%B65%E6%AD%B2%E5%9B%A1%E5%9B%A1-%E6%AF%8D%E5%A5%B3%E8%A3%9D-%E9%9D%A2%E8%A9%A6-11%E5%B9%B4%E4%B8%80%E6%A2%9D%E9%BE%8D-%E7%9C%9F%E9%81%93%E6%9B%B8%E9%99%A2%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88",
+    "timestamp": "2026-11-14T12:44:51.758Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG｜黃牛黨炒飛貴一倍　開場後仍拒減價：十幾分鐘賣十幾張",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131602020432613376390478.jpeg/6r2Mq-TEdO7xYOCGa593oitvzFSF6mRgxD5YUMQ-WFA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410733/%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8B%E5%8F%B0%E7%AD%89%E6%96%BCnvidia%E6%8A%80%E8%A1%93%E9%9C%B8%E6%AC%8A%E7%93%A6%E8%A7%A3-%E5%85%A9%E5%A4%A7%E5%B0%8D%E6%89%8B%E5%8B%95%E5%90%91%E6%83%B9%E9%97%9C%E6%B3%A8-%E8%8E%8A%E4%B8%BB",
     "timestamp": "2026-11-14T06:59:03.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "觀塘37歲菲傭疑掌摑7歲少主　涉虐兒被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260903/1172037301522403328071892.jpeg/jaEXCLfACY1vlwi2xDrOIIgrj3kENqovvjBWGoQwVho?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410727/%E8%A7%80%E5%A1%9837%E6%AD%B2%E8%8F%B2%E5%82%AD%E7%96%91%E6%8E%8C%E6%91%917%E6%AD%B2%E5%B0%91%E4%B8%BB-%E6%B6%89%E8%99%90%E5%85%92%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-14T06:39:49.085Z",
     "strategy": ".content-card__main"
   }
 ];
