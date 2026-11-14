@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T10:44:50.902Z
+// Last updated: 2026-11-14T10:59:01.310Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "騙徒$400放兩迪士尼門票　投資顧問上當轉帳　警籲官方渠道購票",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157685684517998592870592.jpeg/i0kEpNORihyC7JeOdjdSj5lzVKptfLiJ4wCP0ckAj9E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410829/%E9%A8%99%E5%BE%92-400%E6%94%BE%E5%85%A9%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%96%80%E7%A5%A8-%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F%E4%B8%8A%E7%95%B6%E8%BD%89%E5%B8%B3-%E8%AD%A6%E7%B1%B2%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93%E8%B3%BC%E7%A5%A8",
+    "timestamp": "2026-11-14T10:59:01.310Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澳門泥頭車撞冧「龍門架」　壓私家車傷司機　青茂口岸附近大塞車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231217/813161980788740096201975.jpeg/Oz8FroEkSxW-IijQojlpM6TrUkkwMB4d5cXdpMDF3aQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60410719/%E5%A4%A9%E6%96%87%E5%8F%B0%E5%86%8D%E4%B8%8B%E8%AA%BF11-20%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E8%87%B317%E5%BA%A6-%E6%96%B0%E7%95%8C%E4%B8%80%E5%8D%8013%E5%BA%A6-%E6%88%96%E7%A0%B4%E5%85%A5%E7%A7%8B%E6%9C%80%E6%B6%BC",
     "timestamp": "2026-11-14T04:59:13.577Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張繼聰霸氣護粉絲喝斥推撞者獲全網激讚　網民連環大爆私下真面目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198039455168991232128043.jpeg/_hB6Gzgo6gAkiu45V2QbnRLr0_elR-xO2IooJtiKKCY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410638/%E5%BC%B5%E7%B9%BC%E8%81%B0%E9%9C%B8%E6%B0%A3%E8%AD%B7%E7%B2%89%E7%B5%B2%E5%96%9D%E6%96%A5%E6%8E%A8%E6%92%9E%E8%80%85%E7%8D%B2%E5%85%A8%E7%B6%B2%E6%BF%80%E8%AE%9A-%E7%B6%B2%E6%B0%91%E9%80%A3%E7%92%B0%E5%A4%A7%E7%88%86%E7%A7%81%E4%B8%8B%E7%9C%9F%E9%9D%A2%E7%9B%AE",
-    "timestamp": "2026-11-14T04:45:20.833Z",
     "strategy": ".content-card__main"
   }
 ];
