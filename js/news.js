@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T04:45:20.833Z
+// Last updated: 2026-11-14T04:59:13.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台再下調11.20市區氣溫至17度　新界一區13度　或破入秋最涼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231217/813161980788740096201975.jpeg/Oz8FroEkSxW-IijQojlpM6TrUkkwMB4d5cXdpMDF3aQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60410719/%E5%A4%A9%E6%96%87%E5%8F%B0%E5%86%8D%E4%B8%8B%E8%AA%BF11-20%E5%B8%82%E5%8D%80%E6%B0%A3%E6%BA%AB%E8%87%B317%E5%BA%A6-%E6%96%B0%E7%95%8C%E4%B8%80%E5%8D%8013%E5%BA%A6-%E6%88%96%E7%A0%B4%E5%85%A5%E7%A7%8B%E6%9C%80%E6%B6%BC",
+    "timestamp": "2026-11-14T04:59:13.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張繼聰霸氣護粉絲喝斥推撞者獲全網激讚　網民連環大爆私下真面目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197527023912751104873296.png/c9ZzK6o3b_og9uHvWZo6aKBuJBepzEmvxSx5XsUseV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409866/%E9%87%8D%E6%85%B62%E6%AD%B2%E5%8D%8A%E5%A5%B3%E7%AB%A5%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E7%9D%A1%E9%86%92%E5%B0%8B%E8%A6%AA2%E6%A8%93%E8%AD%B7%E6%AC%84%E9%96%93%E9%9A%99%E5%A2%AE%E6%A8%93-%E5%A5%87%E8%B9%9F%E5%83%85%E5%8F%97%E8%BC%95%E5%82%B7",
     "timestamp": "2026-11-13T22:44:46.754Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重慶2歲半女童獨留在家！睡醒尋親2樓護欄間隙墮樓　奇蹟僅受輕傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197527023912751104873296.png/c9ZzK6o3b_og9uHvWZo6aKBuJBepzEmvxSx5XsUseV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409866/%E9%87%8D%E6%85%B62%E6%AD%B2%E5%8D%8A%E5%A5%B3%E7%AB%A5%E7%8D%A8%E7%95%99%E5%9C%A8%E5%AE%B6-%E7%9D%A1%E9%86%92%E5%B0%8B%E8%A6%AA2%E6%A8%93%E8%AD%B7%E6%AC%84%E9%96%93%E9%9A%99%E5%A2%AE%E6%A8%93-%E5%A5%87%E8%B9%9F%E5%83%85%E5%8F%97%E8%BC%95%E5%82%B7",
-    "timestamp": "2026-11-13T22:29:23.497Z",
     "strategy": ".content-card__main"
   }
 ];
