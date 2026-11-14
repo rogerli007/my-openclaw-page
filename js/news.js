@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T08:21:37.523Z
+// Last updated: 2026-11-14T08:45:22.426Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩男划獨木舟遇風浪被困吊鐘洲　獲水警消防救起　事後發感謝信",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198305933860540416584721.jpeg/LyrsWmpWdn2u_DUR2L2nbdayOtDVZxFJhr7_64a-_-s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410778/%E5%85%A9%E7%94%B7%E5%88%92%E7%8D%A8%E6%9C%A8%E8%88%9F%E9%81%87%E9%A2%A8%E6%B5%AA%E8%A2%AB%E5%9B%B0%E5%90%8A%E9%90%98%E6%B4%B2-%E7%8D%B2%E6%B0%B4%E8%AD%A6%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7-%E4%BA%8B%E5%BE%8C%E7%99%BC%E6%84%9F%E8%AC%9D%E4%BF%A1",
+    "timestamp": "2026-11-14T08:45:22.426Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘通明街車禍｜八旬過路婦捱客貨車撞昏迷　40歲司機涉危駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196426150801313792425937.jpeg/DFCqefym9-WoHkmVFJfIP1gyIBcytmdhcaHBXnGhwV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405311/40%E6%AD%B2%E5%A5%B3%E6%8C%87%E7%94%B2%E7%95%B0%E5%B8%B8%E7%A2%BA%E8%A8%BA%E8%85%8E%E8%A1%B0%E7%AB%AD-%E9%86%AB-%E8%AD%A6%E6%83%953%E6%83%85%E6%B3%81-%E5%8D%8A%E7%B4%85%E5%8D%8A%E7%99%BD%E6%81%90%E6%98%AF%E5%B0%BF%E6%AF%92%E7%97%87",
     "timestamp": "2026-11-14T02:24:19.361Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜路透：黃仁勳曾就其與黃樂關係誤導英偉達高層",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197119664019214336978345.png/5tcqX_S_n_Yxn87i5evnI8yp0fL-CQqVnSIqC50iKgs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410682/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%B7%AF%E9%80%8F-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9B%BE%E5%B0%B1%E5%85%B6%E8%88%87%E9%BB%83%E6%A8%82%E9%97%9C%E4%BF%82%E8%AA%A4%E5%B0%8E%E8%8B%B1%E5%81%89%E9%81%94%E9%AB%98%E5%B1%A4",
-    "timestamp": "2026-11-14T01:59:08.437Z",
     "strategy": ".content-card__main"
   }
 ];
