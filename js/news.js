@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T03:43:45.133Z
+// Last updated: 2026-11-14T03:59:19.216Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜美媒：黃樂赴新加坡受查　護照曾被扣起8個月阻離境",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198236467382456320493057.png/VECc3QyUrxl_we1zSxJMy6ce8ULZI943l_QAGpf0ABo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410703/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%BE%8E%E5%AA%92-%E9%BB%83%E6%A8%82%E8%B5%B4%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8F%97%E6%9F%A5-%E8%AD%B7%E7%85%A7%E6%9B%BE%E8%A2%AB%E6%89%A3%E8%B5%B78%E5%80%8B%E6%9C%88%E9%98%BB%E9%9B%A2%E5%A2%83",
+    "timestamp": "2026-11-14T03:59:19.216Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "腕錶｜3款方形女錶職場穿搭必收　Hermès入門款彰顯品味戴出貴氣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410667/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83-%E5%B0%9A%E6%9C%AA%E6%AD%A3%E5%BC%8F%E6%8E%A5%E8%A7%B8%E4%BB%BB%E4%BD%95%E6%BD%9B%E5%9C%A8%E5%80%99%E9%81%B8%E4%BA%BA-%E4%BA%A6%E6%9C%AA%E9%81%B8%E5%AE%9A%E7%8D%B5%E9%A0%AD%E5%85%AC%E5%8F%B8",
     "timestamp": "2026-11-13T21:45:22.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達董事會：尚未正式接觸任何潛在候選人　亦未選定獵頭公司",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410667/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83-%E5%B0%9A%E6%9C%AA%E6%AD%A3%E5%BC%8F%E6%8E%A5%E8%A7%B8%E4%BB%BB%E4%BD%95%E6%BD%9B%E5%9C%A8%E5%80%99%E9%81%B8%E4%BA%BA-%E4%BA%A6%E6%9C%AA%E9%81%B8%E5%AE%9A%E7%8D%B5%E9%A0%AD%E5%85%AC%E5%8F%B8",
-    "timestamp": "2026-11-13T21:29:37.060Z",
     "strategy": ".content-card__main"
   }
 ];
