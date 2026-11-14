@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T09:44:58.474Z
+// Last updated: 2026-11-14T09:59:11.201Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇崗口岸｜港方公共交滙處被指路面不夠防滑　直通巴的士跣胎撞牆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198318756384739328407961.jpeg/NTDSMWGRwN0fKLoPB0upkAPjm6zKiNQf3v6_k97-v5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410796/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%B8%AF%E6%96%B9%E5%85%AC%E5%85%B1%E4%BA%A4%E6%BB%99%E8%99%95%E8%A2%AB%E6%8C%87%E8%B7%AF%E9%9D%A2%E4%B8%8D%E5%A4%A0%E9%98%B2%E6%BB%91-%E7%9B%B4%E9%80%9A%E5%B7%B4%E7%9A%84%E5%A3%AB%E8%B7%A3%E8%83%8E%E6%92%9E%E7%89%86",
+    "timestamp": "2026-11-14T09:59:11.201Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓劇推薦｜《鬼怪》初雪重逢最浪漫！盤點8部必睇的高甜冬日韓劇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194697211393347584162378.png/YTLgLBXr3ipOtm0dZj9Va_P81g2XtXznRYRgkkWEYJI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60407086/%E8%85%95%E9%8C%B6-3%E6%AC%BE%E6%96%B9%E5%BD%A2%E5%A5%B3%E9%8C%B6%E8%81%B7%E5%A0%B4%E7%A9%BF%E6%90%AD%E5%BF%85%E6%94%B6-herm%C3%A8s%E5%85%A5%E9%96%80%E6%AC%BE%E5%BD%B0%E9%A1%AF%E5%93%81%E5%91%B3%E6%88%B4%E5%87%BA%E8%B2%B4%E6%B0%A3",
     "timestamp": "2026-11-14T03:43:45.133Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "44歲曹敏莉攜子女遊紐約 母女合照猶如姊妹 每年百萬供子女讀漢基",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198098418895949824061784.jpeg/feg6jXQqVrRvPl2SZYsmIDmab2sMJEkhuMSrPLjEqzw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60410594/44%E6%AD%B2%E6%9B%B9%E6%95%8F%E8%8E%89%E6%94%9C%E5%AD%90%E5%A5%B3%E9%81%8A%E7%B4%90%E7%B4%84-%E6%AF%8D%E5%A5%B3%E5%90%88%E7%85%A7%E7%8C%B6%E5%A6%82%E5%A7%8A%E5%A6%B9-%E6%AF%8F%E5%B9%B4%E7%99%BE%E8%90%AC%E4%BE%9B%E5%AD%90%E5%A5%B3%E8%AE%80%E6%BC%A2%E5%9F%BA",
-    "timestamp": "2026-11-14T03:21:21.796Z",
     "strategy": ".content-card__main"
   }
 ];
