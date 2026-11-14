@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T23:44:28.372Z
+// Last updated: 2026-11-14T23:59:10.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "骨癌｜11歲男童喊腳痛當扭傷　確診骨腫瘤　拆解夜間劇痛4大症狀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196520611904491520687340.jpeg/X3n2X2fhkZI47n-51shduvRkF8BAATvgpVQjyqVUI8o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407504/%E9%AA%A8%E7%99%8C-11%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%96%8A%E8%85%B3%E7%97%9B%E7%95%B6%E6%89%AD%E5%82%B7-%E7%A2%BA%E8%A8%BA%E9%AA%A8%E8%85%AB%E7%98%A4-%E6%8B%86%E8%A7%A3%E5%A4%9C%E9%96%93%E5%8A%87%E7%97%9B4%E5%A4%A7%E7%97%87%E7%8B%80",
+    "timestamp": "2026-11-14T23:59:10.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青樓女子有錢就能贖身？　名妓董小宛離開前還要過幾關｜歷史奇趣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198432740517613568074639.jpeg/KpNcUttFPiCZEeYD812_849-HEqZnx5W_1BmWf9QZlk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410889/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E6%86%91-%E7%B5%95%E5%91%BD%E6%B3%95%E5%AE%98-%E5%A5%AA%E5%BE%97-%E4%BA%9E%E6%B4%B2%E9%9B%BB%E8%A6%96%E5%A4%A7%E7%8D%8E-%E8%A6%96%E5%B8%9D-%E4%B8%8A%E5%8F%B0%E6%99%92%E6%B5%81%E5%88%A9%E8%8B%B1%E6%96%87",
     "timestamp": "2026-11-14T17:59:10.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美交通部長：全國停飛因更換舊銅線所致　已請求國會撥款改善系統",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198445743212335104840572.jpeg/PCtvCpTc2SMZnP25uklhIIewZKn0mA2hxpRjLcaUYy0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410890/%E7%BE%8E%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7-%E5%85%A8%E5%9C%8B%E5%81%9C%E9%A3%9B%E5%9B%A0%E6%9B%B4%E6%8F%9B%E8%88%8A%E9%8A%85%E7%B7%9A%E6%89%80%E8%87%B4-%E5%B7%B2%E8%AB%8B%E6%B1%82%E5%9C%8B%E6%9C%83%E6%92%A5%E6%AC%BE%E6%94%B9%E5%96%84%E7%B3%BB%E7%B5%B1",
-    "timestamp": "2026-11-14T17:45:04.538Z",
     "strategy": ".content-card__main"
   }
 ];
