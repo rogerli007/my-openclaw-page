@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T11:44:45.825Z
+// Last updated: 2026-11-14T11:59:04.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本Skyliner遭網絡攻擊或泄露337萬個人資訊　預約系統暫停",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20221010/656206227172233216821054.jpeg/irK-gnhjMUaIH0J9gfIqSFvLuecpCIzb-XyVsfl8lbE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410849/%E6%97%A5%E6%9C%ACskyliner%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E6%88%96%E6%B3%84%E9%9C%B2337%E8%90%AC%E5%80%8B%E4%BA%BA%E8%B3%87%E8%A8%8A-%E9%A0%90%E7%B4%84%E7%B3%BB%E7%B5%B1%E6%9A%AB%E5%81%9C",
+    "timestamp": "2026-11-14T11:59:04.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港迪士尼停購票及訂酒店服務　據悉內部系統1.7萬個二維碼被盜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197951859571036160039862.jpeg/OVcRKJq7lrcsk0RZeKHS9mdFnNpBjnCSrT0aWa09Glk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60410454/%E9%95%B7%E8%80%85%E6%97%A52026-7%E5%A4%A7%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E6%83%A0%E5%BA%B7-%E5%A4%A7%E7%94%9F9%E6%8A%98-%E7%99%BE%E4%BD%B3%E6%AF%8F%E4%BA%BA%E9%80%813%E5%80%8B%E9%87%91%E5%A5%87%E7%95%B0%E6%9E%9C",
     "timestamp": "2026-11-14T06:24:52.745Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "重劍世界盃｜佘繕妡闖無錫站16強　連續兩場一分險勝過關",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198271541129777152391540.png/44CDCqlPb7oWyzZko3_zWhodUAhWLj8g5i8YduYvGHY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60410728/%E9%87%8D%E5%8A%8D%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BD%98%E7%B9%95%E5%A6%A1%E9%97%96%E7%84%A1%E9%8C%AB%E7%AB%9916%E5%BC%B7-%E9%80%A3%E7%BA%8C%E5%85%A9%E5%A0%B4%E4%B8%80%E5%88%86%E9%9A%AA%E5%8B%9D%E9%81%8E%E9%97%9C",
-    "timestamp": "2026-11-14T05:59:12.595Z",
     "strategy": ".content-card__main"
   }
 ];
