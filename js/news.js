@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T16:44:55.760Z
+// Last updated: 2026-11-14T16:59:01.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "余文樂45歲生日甩婚變陰霾生活超愜意　恢復單身獲好友慶生不寂寞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198359948807901184248039.jpeg/_3zWTj3OuTT2jFwIDI15LOTc6jB2_SbCSM4it0jOIrc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410847/%E4%BD%99%E6%96%87%E6%A8%8245%E6%AD%B2%E7%94%9F%E6%97%A5%E7%94%A9%E5%A9%9A%E8%AE%8A%E9%99%B0%E9%9C%BE%E7%94%9F%E6%B4%BB%E8%B6%85%E6%84%9C%E6%84%8F-%E6%81%A2%E5%BE%A9%E5%96%AE%E8%BA%AB%E7%8D%B2%E5%A5%BD%E5%8F%8B%E6%85%B6%E7%94%9F%E4%B8%8D%E5%AF%82%E5%AF%9E",
+    "timestamp": "2026-11-14T16:59:01.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "余文樂45歲生日甩婚變陰霾生活超愜意　恢復單身獲好友慶生不寂寞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240404/852642434503413760032168.jpeg/P7S1NHymxR4yo6isyKeBC_QfLCgzfX145VeNl-VXjZc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410842/%E6%B2%99%E4%B8%98%E7%80%9A%E6%88%B0-%E7%B3%BB%E5%88%97%E9%87%8D%E6%98%A0%E9%A6%AC%E6%8B%89%E6%9D%BE%E9%96%8B%E8%B7%91-%E4%B8%80%E6%B0%A3%E5%91%B5%E6%88%90%E9%87%8D%E6%BA%AB%E4%BF%9D%E7%BE%85%E5%BE%A9%E4%BB%87%E4%B9%8B%E8%B7%AF",
     "timestamp": "2026-11-14T11:18:17.621Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "騙徒$400放兩迪士尼門票　投資顧問上當轉帳　警籲官方渠道購票",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157685684517998592870592.jpeg/i0kEpNORihyC7JeOdjdSj5lzVKptfLiJ4wCP0ckAj9E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410829/%E9%A8%99%E5%BE%92-400%E6%94%BE%E5%85%A9%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%96%80%E7%A5%A8-%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F%E4%B8%8A%E7%95%B6%E8%BD%89%E5%B8%B3-%E8%AD%A6%E7%B1%B2%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93%E8%B3%BC%E7%A5%A8",
-    "timestamp": "2026-11-14T10:59:01.310Z",
     "strategy": ".content-card__main"
   }
 ];
