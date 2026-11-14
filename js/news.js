@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T06:39:49.085Z
+// Last updated: 2026-11-14T06:59:03.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳下台等於NVIDIA技術霸權瓦解？　兩大對手動向惹關注｜莊主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260514/1131602020432613376390478.jpeg/6r2Mq-TEdO7xYOCGa593oitvzFSF6mRgxD5YUMQ-WFA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410733/%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8B%E5%8F%B0%E7%AD%89%E6%96%BCnvidia%E6%8A%80%E8%A1%93%E9%9C%B8%E6%AC%8A%E7%93%A6%E8%A7%A3-%E5%85%A9%E5%A4%A7%E5%B0%8D%E6%89%8B%E5%8B%95%E5%90%91%E6%83%B9%E9%97%9C%E6%B3%A8-%E8%8E%8A%E4%B8%BB",
+    "timestamp": "2026-11-14T06:59:03.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "觀塘37歲菲傭疑掌摑7歲少主　涉虐兒被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198193468426424320068349.jpeg/ffCoMe05uAXhEOM3UFfO55Ic6hLH-AtEui06UrotOlI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410675/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%B4%85%E7%A3%A1%E5%AF%B6%E4%BE%86%E8%A1%97%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-14T00:52:12.160Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "吳嘉儀老公開腔逐點反擊　驚爆女方徹夜不歸：佢話同男人樓梯傾偈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1198034307050901504789106.jpeg/13N59IeAP1b9JsaQksoVN9a6FNWKhsEmRYS5JEWEuSQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410600/%E5%90%B3%E5%98%89%E5%84%80%E8%80%81%E5%85%AC%E9%96%8B%E8%85%94%E9%80%90%E9%BB%9E%E5%8F%8D%E6%93%8A-%E9%A9%9A%E7%88%86%E5%A5%B3%E6%96%B9%E5%BE%B9%E5%A4%9C%E4%B8%8D%E6%AD%B8-%E4%BD%A2%E8%A9%B1%E5%90%8C%E7%94%B7%E4%BA%BA%E6%A8%93%E6%A2%AF%E5%82%BE%E5%81%88",
-    "timestamp": "2026-11-14T00:36:11.305Z",
     "strategy": ".content-card__main"
   }
 ];
