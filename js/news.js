@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T18:20:58.595Z
+// Last updated: 2026-11-14T18:45:03.470Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角兩的士迎頭相撞　6人受傷　警不排除其中一車衝燈肇禍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198458387491196928697814.jpeg/VS6U8OKkhQTxtNRHvSGJL2NhxJ19b1gV-u0MYMDtDGA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410891/%E6%97%BA%E8%A7%92%E5%85%A9%E7%9A%84%E5%A3%AB%E8%BF%8E%E9%A0%AD%E7%9B%B8%E6%92%9E-6%E4%BA%BA%E5%8F%97%E5%82%B7-%E8%AD%A6%E4%B8%8D%E6%8E%92%E9%99%A4%E5%85%B6%E4%B8%AD%E4%B8%80%E8%BB%8A%E8%A1%9D%E7%87%88%E8%82%87%E7%A6%8D",
+    "timestamp": "2026-11-14T18:45:03.470Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正破解讀書迷思：學習本是樂趣 家長不應該傳播痛苦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196771668186370048914082.jpeg/Mx9Xfv4LoprygrO_0LlZ6jGlBIX7YgOns_rYD7P62A8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410821/%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%99%E5%87%BA%E5%B8%AD%E5%9B%9B%E6%96%B9%E5%AE%89%E5%85%A8%E5%B0%8D%E8%A9%B1-%E6%93%9A%E5%A0%B1%E8%80%83%E6%85%AE%E6%8B%89%E6%94%8F%E6%9D%B1%E7%9B%9F%E5%8A%A0%E5%85%A5-%E7%9F%BD%E5%92%8C%E5%B9%B3-%E5%80%A1%E8%AD%B0",
     "timestamp": "2026-11-14T12:59:00.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "湯怡帶5歲囡囡「母女裝」面試　「11年一條龍」真道書院競爭激烈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198351640386605056496021.jpeg/noFHEtW7zPBv53xzum_nESm5KrRRDl5KJWUttyVlLbc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410781/%E6%B9%AF%E6%80%A1%E5%B8%B65%E6%AD%B2%E5%9B%A1%E5%9B%A1-%E6%AF%8D%E5%A5%B3%E8%A3%9D-%E9%9D%A2%E8%A9%A6-11%E5%B9%B4%E4%B8%80%E6%A2%9D%E9%BE%8D-%E7%9C%9F%E9%81%93%E6%9B%B8%E9%99%A2%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88",
-    "timestamp": "2026-11-14T12:44:51.758Z",
     "strategy": ".content-card__main"
   }
 ];
