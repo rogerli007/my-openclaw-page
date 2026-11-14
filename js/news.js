@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T17:29:27.808Z
+// Last updated: 2026-11-14T17:45:04.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美交通部長：全國停飛因更換舊銅線所致　已請求國會撥款改善系統",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198445743212335104840572.jpeg/PCtvCpTc2SMZnP25uklhIIewZKn0mA2hxpRjLcaUYy0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410890/%E7%BE%8E%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7-%E5%85%A8%E5%9C%8B%E5%81%9C%E9%A3%9B%E5%9B%A0%E6%9B%B4%E6%8F%9B%E8%88%8A%E9%8A%85%E7%B7%9A%E6%89%80%E8%87%B4-%E5%B7%B2%E8%AB%8B%E6%B1%82%E5%9C%8B%E6%9C%83%E6%92%A5%E6%AC%BE%E6%94%B9%E5%96%84%E7%B3%BB%E7%B5%B1",
+    "timestamp": "2026-11-14T17:45:04.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台慶｜司儀大合照驚見一人被遮樣　麥美恩似成功逃離「雪櫃」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221010/656206227172233216821054.jpeg/irK-gnhjMUaIH0J9gfIqSFvLuecpCIzb-XyVsfl8lbE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410849/%E6%97%A5%E6%9C%ACskyliner%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E6%88%96%E6%B3%84%E9%9C%B2337%E8%90%AC%E5%80%8B%E4%BA%BA%E8%B3%87%E8%A8%8A-%E9%A0%90%E7%B4%84%E7%B3%BB%E7%B5%B1%E6%9A%AB%E5%81%9C",
     "timestamp": "2026-11-14T11:59:04.166Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港迪士尼停購票及訂酒店服務　據悉內部系統1.7萬個二維碼被盜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250417/989591775293345792603174.jpeg/3H_elv8z-FizyFqFN0OrIGKCN39Gr1QUeawbElysGxI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410846/%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%81%9C%E8%B3%BC%E7%A5%A8%E5%8F%8A%E8%A8%82%E9%85%92%E5%BA%97%E6%9C%8D%E5%8B%99-%E6%93%9A%E6%82%89%E5%85%A7%E9%83%A8%E7%B3%BB%E7%B5%B11-7%E8%90%AC%E5%80%8B%E4%BA%8C%E7%B6%AD%E7%A2%BC%E8%A2%AB%E7%9B%9C",
-    "timestamp": "2026-11-14T11:44:45.825Z",
     "strategy": ".content-card__main"
   }
 ];
