@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T06:59:03.831Z
+// Last updated: 2026-11-14T07:19:46.961Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Anthropic上市｜彭博︰中港大戶被拒認購新股　情況如SpaceX上市",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260910/1174746456439918592836104.jpeg/CGl8Q4xU56Fcz0EOHpQAkcdwEzYK_8aIza6nz82up88?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410757/anthropic%E4%B8%8A%E5%B8%82-%E5%BD%AD%E5%8D%9A-%E4%B8%AD%E6%B8%AF%E5%A4%A7%E6%88%B6%E8%A2%AB%E6%8B%92%E8%AA%8D%E8%B3%BC%E6%96%B0%E8%82%A1-%E6%83%85%E6%B3%81%E5%A6%82spacex%E4%B8%8A%E5%B8%82",
+    "timestamp": "2026-11-14T07:19:46.961Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳下台等於NVIDIA技術霸權瓦解？　兩大對手動向惹關注｜莊主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198193468426424320068349.jpeg/ffCoMe05uAXhEOM3UFfO55Ic6hLH-AtEui06UrotOlI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410675/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%B4%85%E7%A3%A1%E5%AF%B6%E4%BE%86%E8%A1%97%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-14T01:02:31.957Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命｜紅磡寶來街女子墮樓亡　警停車場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198193468426424320068349.jpeg/ffCoMe05uAXhEOM3UFfO55Ic6hLH-AtEui06UrotOlI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410675/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%B4%85%E7%A3%A1%E5%AF%B6%E4%BE%86%E8%A1%97%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%AD%A6%E5%81%9C%E8%BB%8A%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-14T00:52:12.160Z",
     "strategy": ".content-card__main"
   }
 ];
