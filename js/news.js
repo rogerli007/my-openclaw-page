@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-14T05:59:12.595Z
+// Last updated: 2026-11-14T06:24:52.745Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長者日2026｜7大超市優惠：惠康、大生9折+百佳每人送3個金奇異果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197951859571036160039862.jpeg/OVcRKJq7lrcsk0RZeKHS9mdFnNpBjnCSrT0aWa09Glk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60410454/%E9%95%B7%E8%80%85%E6%97%A52026-7%E5%A4%A7%E8%B6%85%E5%B8%82%E5%84%AA%E6%83%A0-%E6%83%A0%E5%BA%B7-%E5%A4%A7%E7%94%9F9%E6%8A%98-%E7%99%BE%E4%BD%B3%E6%AF%8F%E4%BA%BA%E9%80%813%E5%80%8B%E9%87%91%E5%A5%87%E7%95%B0%E6%9E%9C",
+    "timestamp": "2026-11-14T06:24:52.745Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "重劍世界盃｜佘繕妡闖無錫站16強　連續兩場一分險勝過關",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194320930751385600184062.jpeg/dHbleAO4z07RpGdvRhnxHlo0MA_l9XEQS1z9mUtc_Zk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405181/%E6%B8%9B%E8%82%A5-%E6%A5%B5%E7%AB%AF%E7%AF%80%E9%A3%9F%E9%AB%94%E9%87%8D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87%E9%9F%BF%E8%AD%A6%E8%99%9F-%E6%8B%86%E8%A7%A3%E8%BA%AB%E9%AB%94-%E4%BB%A3%E8%AC%9D%E9%81%A9%E6%87%89-%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-11-13T23:59:12.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥│極端節食體重不降反升響警號　拆解身體「代謝適應」機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261103/1194320930751385600184062.jpeg/dHbleAO4z07RpGdvRhnxHlo0MA_l9XEQS1z9mUtc_Zk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60405181/%E6%B8%9B%E8%82%A5-%E6%A5%B5%E7%AB%AF%E7%AF%80%E9%A3%9F%E9%AB%94%E9%87%8D%E4%B8%8D%E9%99%8D%E5%8F%8D%E5%8D%87%E9%9F%BF%E8%AD%A6%E8%99%9F-%E6%8B%86%E8%A7%A3%E8%BA%AB%E9%AB%94-%E4%BB%A3%E8%AC%9D%E9%81%A9%E6%87%89-%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-11-13T23:44:48.194Z",
     "strategy": ".content-card__main"
   }
 ];
