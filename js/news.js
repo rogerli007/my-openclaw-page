@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T05:19:54.435Z
+// Last updated: 2026-11-15T05:59:08.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港演出突取消曲目　鋼琴家王羽佳反駁主辦方：演出數周前已通知",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197279694622298112581473.jpeg/kskK95MGykXDtHHRqavHenHgqFEMh8N4aDVezmg1Xs4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410972/%E9%A6%99%E6%B8%AF%E6%BC%94%E5%87%BA%E7%AA%81%E5%8F%96%E6%B6%88%E6%9B%B2%E7%9B%AE-%E9%8B%BC%E7%90%B4%E5%AE%B6%E7%8E%8B%E7%BE%BD%E4%BD%B3%E5%8F%8D%E9%A7%81%E4%B8%BB%E8%BE%A6%E6%96%B9-%E6%BC%94%E5%87%BA%E6%95%B8%E5%91%A8%E5%89%8D%E5%B7%B2%E9%80%9A%E7%9F%A5",
+    "timestamp": "2026-11-15T05:59:08.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【今日當年】梅艷芳告別演唱會完美落幕　披上絕美婚紗嫁給舞台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198299653154541568693128.png/wKkrzLr087iZdN9Ggc2OKDJhYWVJ_uu3bYGS8W2BkvE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408425/%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E6%9C%89%E9%8C%A2%E5%B0%B1%E8%83%BD%E8%B4%96%E8%BA%AB-%E5%90%8D%E5%A6%93%E8%91%A3%E5%B0%8F%E5%AE%9B%E9%9B%A2%E9%96%8B%E5%89%8D%E9%82%84%E8%A6%81%E9%81%8E%E5%B9%BE%E9%97%9C-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
     "timestamp": "2026-11-14T23:18:28.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長者日優惠懶人包｜今日免費坐巴士港鐵　海洋公園等景點免費入場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198073812772458496078912.jpeg/K4Mvcnx97Y7pyLtDLDp0dP-LoSVGmGJVczq3EXM6txE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410534/%E9%95%B7%E8%80%85%E6%97%A5%E5%84%AA%E6%83%A0%E6%87%B6%E4%BA%BA%E5%8C%85-%E4%BB%8A%E6%97%A5%E5%85%8D%E8%B2%BB%E5%9D%90%E5%B7%B4%E5%A3%AB%E6%B8%AF%E9%90%B5-%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E7%AD%89%E6%99%AF%E9%BB%9E%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4",
-    "timestamp": "2026-11-14T22:59:03.146Z",
     "strategy": ".content-card__main"
   }
 ];
