@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T11:29:20.134Z
+// Last updated: 2026-11-15T11:44:53.448Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新世界供股｜千億負債、折讓八成籌250億　分析︰短痛換融資空間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198694636483252224643950.jpeg/HWDIdYBW2WGUMHG0tQeFp197q2J9NVkQVmvGrlZrxq4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411009/%E6%96%B0%E4%B8%96%E7%95%8C%E4%BE%9B%E8%82%A1-%E5%8D%83%E5%84%84%E8%B2%A0%E5%82%B5-%E6%8A%98%E8%AE%93%E5%85%AB%E6%88%90%E7%B1%8C250%E5%84%84-%E5%88%86%E6%9E%90-%E7%9F%AD%E7%97%9B%E6%8F%9B%E8%9E%8D%E8%B3%87%E7%A9%BA%E9%96%93",
+    "timestamp": "2026-11-15T11:44:53.448Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙下邨龍和樓失火冒煙　消防開喉撲熄　有居民需戴氧氣罩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198617037937577984024391.jpeg/3xUelzcl9Q-4A5T4fRkuBm3NdHdDMuS0WeOLjFnji4w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410955/spacex%E9%A6%96%E6%AC%A1%E6%88%90%E5%8A%9F%E4%BB%A5%E5%B7%A8%E5%9E%8B%E6%A9%9F%E6%A2%B0%E8%87%82%E5%9B%9E%E6%94%B6%E6%98%9F%E8%89%A6%E9%A3%9B%E8%88%B9-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%99%BC%E6%96%87%E7%A5%9D%E8%B3%80-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-15T04:45:28.501Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳茂波：人民幣點心債首超美元債券　香港金融與貿易由量到值提升",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198612746715795456213547.jpeg/ZSi8d5tmIhqIDGGVlC3cu_Br9I-9O3EopdWdSaXVnUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60410959/%E9%99%B3%E8%8C%82%E6%B3%A2-%E4%BA%BA%E6%B0%91%E5%B9%A3%E9%BB%9E%E5%BF%83%E5%82%B5%E9%A6%96%E8%B6%85%E7%BE%8E%E5%85%83%E5%82%B5%E5%88%B8-%E9%A6%99%E6%B8%AF%E9%87%91%E8%9E%8D%E8%88%87%E8%B2%BF%E6%98%93%E7%94%B1%E9%87%8F%E5%88%B0%E5%80%BC%E6%8F%90%E5%8D%87",
-    "timestamp": "2026-11-15T04:31:52.435Z",
     "strategy": ".content-card__main"
   }
 ];
