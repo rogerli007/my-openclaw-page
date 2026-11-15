@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T04:31:52.435Z
+// Last updated: 2026-11-15T04:45:28.501Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SpaceX首次成功以巨型機械臂回收星艦飛船　馬斯克發文祝賀｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198617037937577984024391.jpeg/3xUelzcl9Q-4A5T4fRkuBm3NdHdDMuS0WeOLjFnji4w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410955/spacex%E9%A6%96%E6%AC%A1%E6%88%90%E5%8A%9F%E4%BB%A5%E5%B7%A8%E5%9E%8B%E6%A9%9F%E6%A2%B0%E8%87%82%E5%9B%9E%E6%94%B6%E6%98%9F%E8%89%A6%E9%A3%9B%E8%88%B9-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%99%BC%E6%96%87%E7%A5%9D%E8%B3%80-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-15T04:45:28.501Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳茂波：人民幣點心債首超美元債券　香港金融與貿易由量到值提升",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
     "timestamp": "2026-11-14T21:59:03.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
-    "timestamp": "2026-11-14T21:45:01.567Z",
     "strategy": ".content-card__main"
   }
 ];
