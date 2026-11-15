@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T08:22:34.471Z
+// Last updated: 2026-11-15T08:45:10.535Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一周星星丨胡楓霸氣回應與羅蘭黃昏戀：你夠膽問我就夠膽答",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198633968493137920256904.png/Ntl8jbHrYDDu-XSsNl9jQ8roQzT25HjJvz6oRL8-qEQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410976/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E8%83%A1%E6%A5%93%E9%9C%B8%E6%B0%A3%E5%9B%9E%E6%87%89%E8%88%87%E7%BE%85%E8%98%AD%E9%BB%83%E6%98%8F%E6%88%80-%E4%BD%A0%E5%A4%A0%E8%86%BD%E5%95%8F%E6%88%91%E5%B0%B1%E5%A4%A0%E8%86%BD%E7%AD%94",
+    "timestamp": "2026-11-15T08:45:10.535Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普政府計劃縮小歐洲駐軍裁減規模　或只減約5000人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198243966647013376397815.png/ayiCp4_HE9o-iF9WfiE8GgFvFfvKBKAIEcTCahHEwmo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410659/12%E6%98%9F%E5%BA%A7%E7%B2%BE%E7%A5%9E%E5%87%BA%E8%BB%8C%E6%8C%87%E6%95%B8%E6%8E%92%E5%90%8D-%E6%B0%B4%E7%93%B6%E5%BA%A7%E9%AB%98%E9%81%9490-%E5%A4%9A%E6%83%85%E9%9B%99%E9%AD%9A%E7%AB%9F%E8%B7%8C%E5%87%BA%E4%B8%89%E7%94%B2",
     "timestamp": "2026-11-15T01:29:33.753Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：美國首次提出烏克蘭割讓頓巴斯　以換取加入北約",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190861607933054976815794.jpeg/CF-HDBnuAKdsO-bmz6SA9QWZr4yn88jUsvnwfLL58Hw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410901/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E5%9C%8B%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA%E7%83%8F%E5%85%8B%E8%98%AD%E5%89%B2%E8%AE%93%E9%A0%93%E5%B7%B4%E6%96%AF-%E4%BB%A5%E6%8F%9B%E5%8F%96%E5%8A%A0%E5%85%A5%E5%8C%97%E7%B4%84",
-    "timestamp": "2026-11-15T01:00:36.209Z",
     "strategy": ".content-card__main"
   }
 ];
