@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T06:25:46.710Z
+// Last updated: 2026-11-15T06:59:08.792Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗醫院壞𨋢涉3工師程簽發安全　1人已停牌　2人待調查後決定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197927538966401024754261.jpeg/MdTVpxKi0iZmNdBj4Y2Es110bknvJUVVe4mtwnuJrcI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410991/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2%E6%B6%893%E5%B7%A5%E5%B8%AB%E7%A8%8B%E7%B0%BD%E7%99%BC%E5%AE%89%E5%85%A8-1%E4%BA%BA%E5%B7%B2%E5%81%9C%E7%89%8C-2%E4%BA%BA%E5%BE%85%E8%AA%BF%E6%9F%A5%E5%BE%8C%E6%B1%BA%E5%AE%9A",
+    "timestamp": "2026-11-15T06:59:08.792Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Pokémon GO活動數十人聚集尖東　看中街頭多「道館」捉「鋁鋼龍」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198299653154541568693128.png/wKkrzLr087iZdN9Ggc2OKDJhYWVJ_uu3bYGS8W2BkvE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408425/%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E6%9C%89%E9%8C%A2%E5%B0%B1%E8%83%BD%E8%B4%96%E8%BA%AB-%E5%90%8D%E5%A6%93%E8%91%A3%E5%B0%8F%E5%AE%9B%E9%9B%A2%E9%96%8B%E5%89%8D%E9%82%84%E8%A6%81%E9%81%8E%E5%B9%BE%E9%97%9C-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
     "timestamp": "2026-11-14T23:44:28.372Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青樓女子有錢就能贖身？　名妓董小宛離開前還要過幾關｜歷史奇趣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198299653154541568693128.png/wKkrzLr087iZdN9Ggc2OKDJhYWVJ_uu3bYGS8W2BkvE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408425/%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E6%9C%89%E9%8C%A2%E5%B0%B1%E8%83%BD%E8%B4%96%E8%BA%AB-%E5%90%8D%E5%A6%93%E8%91%A3%E5%B0%8F%E5%AE%9B%E9%9B%A2%E9%96%8B%E5%89%8D%E9%82%84%E8%A6%81%E9%81%8E%E5%B9%BE%E9%97%9C-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
-    "timestamp": "2026-11-14T23:29:14.022Z",
     "strategy": ".content-card__main"
   }
 ];
