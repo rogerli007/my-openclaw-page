@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T07:19:53.950Z
+// Last updated: 2026-11-15T07:58:42.678Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【今日當年】梅艷芳告別演唱會完美落幕　蘇永康曾爆後備方案救場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198623763210440704624708.jpeg/qhUH8SCXRFsAwrqstGg2EYUv4lW8LTXlzFE-eMxRPng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410746/%E4%BB%8A%E6%97%A5%E7%95%B6%E5%B9%B4-%E6%A2%85%E8%89%B7%E8%8A%B3%E5%91%8A%E5%88%A5%E6%BC%94%E5%94%B1%E6%9C%83%E5%AE%8C%E7%BE%8E%E8%90%BD%E5%B9%95-%E8%98%87%E6%B0%B8%E5%BA%B7%E6%9B%BE%E7%88%86%E5%BE%8C%E5%82%99%E6%96%B9%E6%A1%88%E6%95%91%E5%A0%B4",
+    "timestamp": "2026-11-15T07:58:42.678Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上海58歲漢性侵上門推拿技師　曾轉帳¥2000辯稱嫖資判囚三年半",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330517565476864986513.jpeg/CufeeLMmyL0E6VNWhTuZVgxelckEGg4lxGFaosRhWqI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409272/%E4%BD%95%E4%BE%9D%E5%A9%B7%E5%AF%8C%E8%B2%B4%E8%A1%8C%E9%A0%AD%E5%87%BA%E5%B8%AD%E9%A6%AC%E4%B8%BB%E5%8D%94%E6%9C%83%E6%99%9A%E5%AE%B4-%E8%87%AA%E7%88%86%E6%8A%BD%E4%B8%AD%E5%A4%A7%E7%8D%8E%E9%91%BD%E7%9F%B3%E5%90%8D%E9%8C%B6%E6%89%8B%E6%B0%A3%E6%A5%B5%E6%97%BA",
     "timestamp": "2026-11-15T00:39:28.920Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "骨癌｜11歲男童喊腳痛當扭傷　確診骨腫瘤　拆解夜間劇痛4大症狀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196520611904491520687340.jpeg/X3n2X2fhkZI47n-51shduvRkF8BAATvgpVQjyqVUI8o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407504/%E9%AA%A8%E7%99%8C-11%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%96%8A%E8%85%B3%E7%97%9B%E7%95%B6%E6%89%AD%E5%82%B7-%E7%A2%BA%E8%A8%BA%E9%AA%A8%E8%85%AB%E7%98%A4-%E6%8B%86%E8%A7%A3%E5%A4%9C%E9%96%93%E5%8A%87%E7%97%9B4%E5%A4%A7%E7%97%87%E7%8B%80",
-    "timestamp": "2026-11-14T23:59:10.115Z",
     "strategy": ".content-card__main"
   }
 ];
