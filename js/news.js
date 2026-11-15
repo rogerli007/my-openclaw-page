@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T23:19:06.908Z
+// Last updated: 2026-11-15T23:32:09.546Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "許正宇專訪｜繁忙爸爸講親子質量 　AI時代著重培育發掘的能力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198703676760264704517689.jpeg/YHlSmPNJqQM2nbmvOlqei58yy8VoH5bCBvNVQQbzVUE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/60410494/%E8%A8%B1%E6%AD%A3%E5%AE%87%E5%B0%88%E8%A8%AA-%E7%B9%81%E5%BF%99%E7%88%B8%E7%88%B8%E8%AC%9B%E8%A6%AA%E5%AD%90%E8%B3%AA%E9%87%8F-ai%E6%99%82%E4%BB%A3%E8%91%97%E9%87%8D%E5%9F%B9%E8%82%B2%E7%99%BC%E6%8E%98%E7%9A%84%E8%83%BD%E5%8A%9B",
+    "timestamp": "2026-11-15T23:32:09.546Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許正宇專訪｜再多160間家辦擬落戶香港 　擬拓闊稅務優惠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198317578703867904814605.jpeg/JMXNQUJ6PXwI0s6qtqHZuR5_QhxQKvV9PNEqsjzRKrI",
     "url": "https://www.hk01.com/01TV/60410799/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E5%BB%BA%E7%AF%89%E7%B3%BB%E7%9A%84%E7%84%A1%E5%A5%88-%E6%B2%92%E9%8C%A2%E8%B2%B7%E6%9D%90%E6%96%99%E6%A8%A1%E5%9E%8B%E5%8F%AA%E8%83%BD%E7%86%AC%E5%A4%9C%E8%A6%AA%E6%89%8B%E7%A0%8C",
     "timestamp": "2026-11-15T18:21:19.975Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正做補習老師的獨特哲學：對小朋友越凶越有紀律",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198316804124971008380624.jpeg/ik2osB0k0IYt7hetJm10RijycbPkITGh95qaVfeamlU",
-    "url": "https://www.hk01.com/01TV/60410797/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%81%9A%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E7%9A%84%E7%8D%A8%E7%89%B9%E5%93%B2%E5%AD%B8-%E5%B0%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B6%8A%E5%87%B6%E8%B6%8A%E6%9C%89%E7%B4%80%E5%BE%8B",
-    "timestamp": "2026-11-15T17:59:01.243Z",
     "strategy": ".content-card__main"
   }
 ];
