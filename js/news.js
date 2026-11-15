@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T12:59:01.019Z
+// Last updated: 2026-11-15T13:18:42.535Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩結果｜今期11.15頭獎800萬即時攪珠｜中獎號碼+派彩獎金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411085/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F11-15%E9%A0%AD%E7%8D%8E800%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
+    "timestamp": "2026-11-15T13:18:42.535Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳｜《紐時》兩篇文章竟將中美網友團結起來　連馬斯克也發聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197927538966401024754261.jpeg/MdTVpxKi0iZmNdBj4Y2Es110bknvJUVVe4mtwnuJrcI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410991/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2%E6%B6%893%E5%B7%A5%E5%B8%AB%E7%A8%8B%E7%B0%BD%E7%99%BC%E5%AE%89%E5%85%A8-1%E4%BA%BA%E5%B7%B2%E5%81%9C%E7%89%8C-2%E4%BA%BA%E5%BE%85%E8%AA%BF%E6%9F%A5%E5%BE%8C%E6%B1%BA%E5%AE%9A",
     "timestamp": "2026-11-15T06:59:08.792Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Pokémon GO活動數十人聚集尖東　看中街頭多「道館」捉「鋁鋼龍」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198639284698091520629531.jpeg/ChgcNoOS38mgaOzc7XweyxtI6Wc3AMbAWhAkT38QJE8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410979/pok%C3%A9mon-go%E6%B4%BB%E5%8B%95%E6%95%B8%E5%8D%81%E4%BA%BA%E8%81%9A%E9%9B%86%E5%B0%96%E6%9D%B1-%E7%9C%8B%E4%B8%AD%E8%A1%97%E9%A0%AD%E5%A4%9A-%E9%81%93%E9%A4%A8-%E6%8D%89-%E9%8B%81%E9%8B%BC%E9%BE%8D",
-    "timestamp": "2026-11-15T06:25:46.710Z",
     "strategy": ".content-card__main"
   }
 ];
