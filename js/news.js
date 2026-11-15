@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T08:45:10.535Z
+// Last updated: 2026-11-15T08:59:02.524Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳爆開會飆罵英偉達高層「我希望你去死！」　還朝主管丟水樽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198655144665812992617583.jpeg/7o-gX8_juo8zVr0PZUcVNRBQdyqKRJMtfrKAMH6ygDA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410982/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%88%86%E9%96%8B%E6%9C%83%E9%A3%86%E7%BD%B5%E8%8B%B1%E5%81%89%E9%81%94%E9%AB%98%E5%B1%A4-%E6%88%91%E5%B8%8C%E6%9C%9B%E4%BD%A0%E5%8E%BB%E6%AD%BB-%E9%82%84%E6%9C%9D%E4%B8%BB%E7%AE%A1%E4%B8%9F%E6%B0%B4%E6%A8%BD",
+    "timestamp": "2026-11-15T08:59:02.524Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一周星星丨胡楓霸氣回應與羅蘭黃昏戀：你夠膽問我就夠膽答",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240214/834449220193751040706159.jpeg/zkMZ3ISmefeMIYJV0cd2um8xLuDG9O7cQVftcEFX7XA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410909/%E5%A4%A7%E8%A1%8C%E8%A7%80%E9%BB%9E-%E9%AB%98%E7%9B%9B-%E6%A8%99%E6%99%AE500%E6%8C%87%E6%95%B8%E6%98%8E%E5%B9%B4%E5%8F%AF%E6%9C%9B%E5%86%8D%E6%BC%B216-%E9%BB%9E%E5%90%8D%E4%B8%89%E5%A4%A7%E5%B8%83%E5%B1%80%E6%96%B9%E5%90%91",
     "timestamp": "2026-11-15T01:45:38.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "12星座精神出軌指數排名　水瓶座高達90%　多情雙魚竟跌出三甲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198243966647013376397815.png/ayiCp4_HE9o-iF9WfiE8GgFvFfvKBKAIEcTCahHEwmo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410659/12%E6%98%9F%E5%BA%A7%E7%B2%BE%E7%A5%9E%E5%87%BA%E8%BB%8C%E6%8C%87%E6%95%B8%E6%8E%92%E5%90%8D-%E6%B0%B4%E7%93%B6%E5%BA%A7%E9%AB%98%E9%81%9490-%E5%A4%9A%E6%83%85%E9%9B%99%E9%AD%9A%E7%AB%9F%E8%B7%8C%E5%87%BA%E4%B8%89%E7%94%B2",
-    "timestamp": "2026-11-15T01:29:33.753Z",
     "strategy": ".content-card__main"
   }
 ];
