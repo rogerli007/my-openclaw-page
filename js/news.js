@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T14:29:30.944Z
+// Last updated: 2026-11-15T14:45:00.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "再婚皇后第6集｜朱智勛錯喊李世榮名！申敏兒哥哥河道權拔劍護妹",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198635867191644160865413.png/jvv_Ata7DQjmBWSkRlM8h-rfFkQKwMFPe-xIgXvsSIE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410967/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E%E7%AC%AC6%E9%9B%86-%E6%9C%B1%E6%99%BA%E5%8B%9B%E9%8C%AF%E5%96%8A%E6%9D%8E%E4%B8%96%E6%A6%AE%E5%90%8D-%E7%94%B3%E6%95%8F%E5%85%92%E5%93%A5%E5%93%A5%E6%B2%B3%E9%81%93%E6%AC%8A%E6%8B%94%E5%8A%8D%E8%AD%B7%E5%A6%B9",
+    "timestamp": "2026-11-15T14:45:00.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG｜警第3晚土瓜灣戒備　鐵馬膠帶封圍欄缺口　啟欣苑外趕車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198676700217479168490127.png/ptUtluzTWIQ3TImn3v-yhpgglSpsm17rP_iypz_4sqc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411021/%E9%97%9C%E5%98%89%E6%95%8F%E8%87%AA%E7%88%86%E9%81%AD%E5%89%8D%E8%BC%A9%E6%93%85%E5%8A%A0%E8%A6%AA%E7%86%B1%E6%88%B2-%E6%BE%84%E6%B8%85%E5%94%94%E4%BF%82%E9%84%A7%E8%8B%B1%E6%95%8F-%E5%8D%83%E7%A5%88%E5%94%94%E5%A5%BD%E8%AA%A4%E6%9C%83",
     "timestamp": "2026-11-15T09:19:51.500Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳爆開會飆罵英偉達高層「我希望你去死！」　還朝主管丟水樽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198655144665812992617583.jpeg/7o-gX8_juo8zVr0PZUcVNRBQdyqKRJMtfrKAMH6ygDA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410982/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%88%86%E9%96%8B%E6%9C%83%E9%A3%86%E7%BD%B5%E8%8B%B1%E5%81%89%E9%81%94%E9%AB%98%E5%B1%A4-%E6%88%91%E5%B8%8C%E6%9C%9B%E4%BD%A0%E5%8E%BB%E6%AD%BB-%E9%82%84%E6%9C%9D%E4%B8%BB%E7%AE%A1%E4%B8%9F%E6%B0%B4%E6%A8%BD",
-    "timestamp": "2026-11-15T08:59:02.524Z",
     "strategy": ".content-card__main"
   }
 ];
