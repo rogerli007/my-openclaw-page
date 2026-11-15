@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T12:35:33.290Z
+// Last updated: 2026-11-15T12:59:01.019Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳｜《紐時》兩篇文章竟將中美網友團結起來　連馬斯克也發聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198296912957018112493160.jpeg/fVlUXQUtbNH0qEAoxO8jjRx-4dNrnMqcuCielrgonpY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411091/%E9%BB%83%E4%BB%81%E5%8B%B3-%E7%B4%90%E6%99%82-%E5%85%A9%E7%AF%87%E6%96%87%E7%AB%A0%E7%AB%9F%E5%B0%87%E4%B8%AD%E7%BE%8E%E7%B6%B2%E5%8F%8B%E5%9C%98%E7%B5%90%E8%B5%B7%E4%BE%86-%E9%80%A3%E9%A6%AC%E6%96%AF%E5%85%8B%E4%B9%9F%E7%99%BC%E8%81%B2",
+    "timestamp": "2026-11-15T12:59:01.019Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北京地鐵爆老年旅遊團集體逃票　地鐵：對長者無免費政策｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198639284698091520629531.jpeg/ChgcNoOS38mgaOzc7XweyxtI6Wc3AMbAWhAkT38QJE8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410979/pok%C3%A9mon-go%E6%B4%BB%E5%8B%95%E6%95%B8%E5%8D%81%E4%BA%BA%E8%81%9A%E9%9B%86%E5%B0%96%E6%9D%B1-%E7%9C%8B%E4%B8%AD%E8%A1%97%E9%A0%AD%E5%A4%9A-%E9%81%93%E9%A4%A8-%E6%8D%89-%E9%8B%81%E9%8B%BC%E9%BE%8D",
     "timestamp": "2026-11-15T06:25:46.710Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港演出突取消曲目　鋼琴家王羽佳反駁主辦方：演出數周前已通知",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197279694622298112581473.jpeg/kskK95MGykXDtHHRqavHenHgqFEMh8N4aDVezmg1Xs4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410972/%E9%A6%99%E6%B8%AF%E6%BC%94%E5%87%BA%E7%AA%81%E5%8F%96%E6%B6%88%E6%9B%B2%E7%9B%AE-%E9%8B%BC%E7%90%B4%E5%AE%B6%E7%8E%8B%E7%BE%BD%E4%BD%B3%E5%8F%8D%E9%A7%81%E4%B8%BB%E8%BE%A6%E6%96%B9-%E6%BC%94%E5%87%BA%E6%95%B8%E5%91%A8%E5%89%8D%E5%B7%B2%E9%80%9A%E7%9F%A5",
-    "timestamp": "2026-11-15T05:59:08.607Z",
     "strategy": ".content-card__main"
   }
 ];
