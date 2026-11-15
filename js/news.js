@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T01:00:36.209Z
+// Last updated: 2026-11-15T01:29:33.753Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "12星座精神出軌指數排名　水瓶座高達90%　多情雙魚竟跌出三甲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198243966647013376397815.png/ayiCp4_HE9o-iF9WfiE8GgFvFfvKBKAIEcTCahHEwmo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410659/12%E6%98%9F%E5%BA%A7%E7%B2%BE%E7%A5%9E%E5%87%BA%E8%BB%8C%E6%8C%87%E6%95%B8%E6%8E%92%E5%90%8D-%E6%B0%B4%E7%93%B6%E5%BA%A7%E9%AB%98%E9%81%9490-%E5%A4%9A%E6%83%85%E9%9B%99%E9%AD%9A%E7%AB%9F%E8%B7%8C%E5%87%BA%E4%B8%89%E7%94%B2",
+    "timestamp": "2026-11-15T01:29:33.753Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：美國首次提出烏克蘭割讓頓巴斯　以換取加入北約",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198467065069965312016327.png/YQzw-1wF1SdFWxQB0z3_FK1rHzQ5coDrzFQOEMxUDhA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410893/%E6%9D%8E%E5%BC%B7%E6%9C%83%E8%A6%8B%E6%B3%B0%E7%8E%8B%E5%93%87%E9%9B%86%E6%8B%89%E9%9A%86%E5%8A%9F-%E6%8C%87%E4%B8%AD%E6%B3%B0%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C%E9%80%86%E5%8B%A2%E5%A2%9E%E9%95%B7%E9%9B%A3%E8%83%BD%E5%8F%AF%E8%B2%B4",
     "timestamp": "2026-11-14T18:58:59.353Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角兩的士迎頭相撞　6人受傷　警不排除其中一車衝燈肇禍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198458387491196928697814.jpeg/VS6U8OKkhQTxtNRHvSGJL2NhxJ19b1gV-u0MYMDtDGA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410891/%E6%97%BA%E8%A7%92%E5%85%A9%E7%9A%84%E5%A3%AB%E8%BF%8E%E9%A0%AD%E7%9B%B8%E6%92%9E-6%E4%BA%BA%E5%8F%97%E5%82%B7-%E8%AD%A6%E4%B8%8D%E6%8E%92%E9%99%A4%E5%85%B6%E4%B8%AD%E4%B8%80%E8%BB%8A%E8%A1%9D%E7%87%88%E8%82%87%E7%A6%8D",
-    "timestamp": "2026-11-14T18:45:03.470Z",
     "strategy": ".content-card__main"
   }
 ];
