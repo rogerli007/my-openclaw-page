@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T21:18:44.243Z
+// Last updated: 2026-11-15T21:29:33.734Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "順天邨男子疑因金錢爭執遭多人刀襲　手及面受傷流血送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411126/%E9%A0%86%E5%A4%A9%E9%82%A8%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E9%87%91%E9%8C%A2%E7%88%AD%E5%9F%B7%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%88%80%E8%A5%B2-%E6%89%8B%E5%8F%8A%E9%9D%A2%E5%8F%97%E5%82%B7%E6%B5%81%E8%A1%80%E9%80%81%E9%99%A2",
+    "timestamp": "2026-11-15T21:29:33.734Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "順天邨男子疑因金錢爭執遭多人刀襲　手及面受傷流血送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198718321197846528257609.jpeg/aPG2Yktd-yB-9qPvwe8EjTfDTZJLcpSGuivWDYAr1g0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411080/%E9%99%B3%E5%B1%B1%E8%81%B0%E6%8F%AD%E4%BC%8D%E8%A9%A0%E8%96%87%E5%BF%83%E7%90%86%E7%8B%80%E6%B3%81-%E7%88%86%E8%88%87%E9%99%B3%E6%95%8F%E4%B9%8B%E7%A7%81%E4%B8%8B%E9%97%9C%E4%BF%82-%E5%89%8D%E5%B9%BE%E6%97%A5%E9%80%9A%E5%AE%8C%E9%9B%BB%E8%A9%B1",
     "timestamp": "2026-11-15T15:59:01.462Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "79歲汪明荃佛山開酒樓騷被指自降身價　人均六百嘆鮑魚金豬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198767608212492288812079.jpeg/kGqpMMo4yUW6PrnI5t23ysWh9pBREGkSgbBZl4GwWZc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411105/79%E6%AD%B2%E6%B1%AA%E6%98%8E%E8%8D%83%E4%BD%9B%E5%B1%B1%E9%96%8B%E9%85%92%E6%A8%93%E9%A8%B7%E8%A2%AB%E6%8C%87%E8%87%AA%E9%99%8D%E8%BA%AB%E5%83%B9-%E4%BA%BA%E5%9D%87%E5%85%AD%E7%99%BE%E5%98%86%E9%AE%91%E9%AD%9A%E9%87%91%E8%B1%AC",
-    "timestamp": "2026-11-15T15:44:50.885Z",
     "strategy": ".content-card__main"
   }
 ];
