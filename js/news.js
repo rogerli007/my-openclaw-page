@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T09:19:51.500Z
+// Last updated: 2026-11-15T09:45:07.971Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地豬肉價格暴跌創10年新低　仲平過蔬菜　有超市驚現每斤1.98元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198677543947866112795084.jpeg/JKKUd8juTjDvuRzC0BDxOjFgO5jJp9iD-sWZpvrFmaY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411023/%E5%85%A7%E5%9C%B0%E8%B1%AC%E8%82%89%E5%83%B9%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%89%B510%E5%B9%B4%E6%96%B0%E4%BD%8E-%E4%BB%B2%E5%B9%B3%E9%81%8E%E8%94%AC%E8%8F%9C-%E6%9C%89%E8%B6%85%E5%B8%82%E9%A9%9A%E7%8F%BE%E6%AF%8F%E6%96%A41-98%E5%85%83",
+    "timestamp": "2026-11-15T09:45:07.971Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "關嘉敏自爆遭前輩擅加親熱戲　澄清唔係鄧英敏：千祈唔好誤會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190200186371051520953124.jpeg/7TGIUEPn423O7Tu4aYS_Hh4PHrmF9mADpYIAmqWCAJo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410917/%E9%A6%AC%E5%85%8B%E9%BE%8D%E8%AD%A6%E5%91%8A%E8%A9%A6%E5%9C%96%E9%99%90%E5%88%B6%E5%B0%8D%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%B4%E5%8A%A9-%E5%B0%87%E7%82%BA-%E4%B8%8B%E4%B8%80%E5%A0%B4%E6%88%B0%E7%88%AD-%E5%9F%8B%E9%9A%A0%E6%82%A3",
     "timestamp": "2026-11-15T02:24:17.695Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長者日優惠2026｜食肆/景點/娛樂86大推介　山頂纜車/海洋公園",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194705710647087104196582.png/iJUnrut920cmkU6-_b9pX1GqGZLW0fWBKha04yoWtOM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60407008/%E9%95%B7%E8%80%85%E6%97%A5%E5%84%AA%E6%83%A02026-%E9%A3%9F%E8%82%86-%E6%99%AF%E9%BB%9E-%E5%A8%9B%E6%A8%8286%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A-%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92",
-    "timestamp": "2026-11-15T01:59:09.159Z",
     "strategy": ".content-card__main"
   }
 ];
