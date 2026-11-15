@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T10:44:55.137Z
+// Last updated: 2026-11-15T10:59:03.678Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "楊茜堯讚羅子溢睇劇俾足情緒價值　陳豪拒睇陳茵媺親熱戲：冇眼睇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198702307315814400579614.jpeg/ScUyG8FKzFAZ302oyZbuCE06dCfnNJ-jCPlRmgj5UZo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411053/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E8%AE%9A%E7%BE%85%E5%AD%90%E6%BA%A2%E7%9D%87%E5%8A%87%E4%BF%BE%E8%B6%B3%E6%83%85%E7%B7%92%E5%83%B9%E5%80%BC-%E9%99%B3%E8%B1%AA%E6%8B%92%E7%9D%87%E9%99%B3%E8%8C%B5%E5%AA%BA%E8%A6%AA%E7%86%B1%E6%88%B2-%E5%86%87%E7%9C%BC%E7%9D%87",
+    "timestamp": "2026-11-15T10:59:03.678Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美日才達防範犯罪協議　沖繩美軍繼上尉酒駕　兵長涉露下體再被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240831/906526127755890688169075.jpeg/sqM6eqXHhJRif7RWcJkV3uMd5O71dODcFOj6SRTo-kk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60410943/%E7%91%AA%E9%BA%97%E5%A3%9E%F0%A8%8B%A2%E7%9B%A3%E7%AE%A1%E4%B8%8D%E5%8A%9B%E9%81%B2%E5%85%AC%E9%96%8B-%E6%9E%97%E8%B6%85%E8%8B%B1-%E5%B0%88%E6%A5%AD%E5%B4%A9%E6%BD%B0%E6%98%AF%E5%A4%A7%E4%BA%8B%E8%AE%93%E6%B0%91%E7%9C%BE%E7%9F%A5%E6%9C%89%E4%BD%95%E6%80%95",
     "timestamp": "2026-11-15T03:59:15.671Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "皇崗口岸兩車跣胎撞牆　政府：相關路段無鋪防滑物料　本周初加鋪",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198318756384739328407961.jpeg/NTDSMWGRwN0fKLoPB0upkAPjm6zKiNQf3v6_k97-v5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410938/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%85%A9%E8%BB%8A%E8%B7%A3%E8%83%8E%E6%92%9E%E7%89%86-%E6%94%BF%E5%BA%9C-%E7%9B%B8%E9%97%9C%E8%B7%AF%E6%AE%B5%E7%84%A1%E9%8B%AA%E9%98%B2%E6%BB%91%E7%89%A9%E6%96%99-%E6%9C%AC%E5%91%A8%E5%88%9D%E5%8A%A0%E9%8B%AA",
-    "timestamp": "2026-11-15T03:33:39.160Z",
     "strategy": ".content-card__main"
   }
 ];
