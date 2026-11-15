@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T04:16:20.537Z
+// Last updated: 2026-11-15T04:31:52.435Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳茂波：人民幣點心債首超美元債券　香港金融與貿易由量到值提升",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198612746715795456213547.jpeg/ZSi8d5tmIhqIDGGVlC3cu_Br9I-9O3EopdWdSaXVnUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60410959/%E9%99%B3%E8%8C%82%E6%B3%A2-%E4%BA%BA%E6%B0%91%E5%B9%A3%E9%BB%9E%E5%BF%83%E5%82%B5%E9%A6%96%E8%B6%85%E7%BE%8E%E5%85%83%E5%82%B5%E5%88%B8-%E9%A6%99%E6%B8%AF%E9%87%91%E8%9E%8D%E8%88%87%E8%B2%BF%E6%98%93%E7%94%B1%E9%87%8F%E5%88%B0%E5%80%BC%E6%8F%90%E5%8D%87",
+    "timestamp": "2026-11-15T04:31:52.435Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "人情公價2026│去婚宴封幾多？高級酒店/酒店/酒樓/收餅卡公價一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
     "timestamp": "2026-11-14T21:45:01.567Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
-    "timestamp": "2026-11-14T21:29:32.697Z",
     "strategy": ".content-card__main"
   }
 ];
