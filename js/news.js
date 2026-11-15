@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T16:19:53.250Z
+// Last updated: 2026-11-15T16:44:45.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "男子購BIGBANG演唱會門票　即場交收揭假飛　34歲男斷正被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250606/1007578670941868032741530.jpeg/bIKs_kS9OMHxo63mHJ22-dJQnBJUEtZuLuRppS7kaaU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411118/%E7%94%B7%E5%AD%90%E8%B3%BCbigbang%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%80%E7%A5%A8-%E5%8D%B3%E5%A0%B4%E4%BA%A4%E6%94%B6%E6%8F%AD%E5%81%87%E9%A3%9B-34%E6%AD%B2%E7%94%B7%E6%96%B7%E6%AD%A3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-15T16:44:45.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃德花園疑電錶房總掣故障　5座大廈升降機停電　中電人員到場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198709392011169792502613.png/xGFdZpTYcBlFttvxOeUivBMrbKPuxq8xjqWtG46lrRs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411031/%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B1%9F%E8%98%87%E4%BA%8C%E6%89%8B%E5%BA%97%E8%8A%B157-5%E8%90%AC%E8%B2%B7herm%C3%A8s%E6%89%8B%E8%A2%8B-%E7%AB%9F%E7%84%B6%E5%8F%AF%E8%83%BD%E6%98%AF-%E7%B5%84%E8%A3%9D%E5%8C%85",
     "timestamp": "2026-11-15T11:18:28.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊茜堯讚羅子溢睇劇俾足情緒價值　陳豪拒睇陳茵媺親熱戲：冇眼睇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198702307315814400579614.jpeg/ScUyG8FKzFAZ302oyZbuCE06dCfnNJ-jCPlRmgj5UZo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411053/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E8%AE%9A%E7%BE%85%E5%AD%90%E6%BA%A2%E7%9D%87%E5%8A%87%E4%BF%BE%E8%B6%B3%E6%83%85%E7%B7%92%E5%83%B9%E5%80%BC-%E9%99%B3%E8%B1%AA%E6%8B%92%E7%9D%87%E9%99%B3%E8%8C%B5%E5%AA%BA%E8%A6%AA%E7%86%B1%E6%88%B2-%E5%86%87%E7%9C%BC%E7%9D%87",
-    "timestamp": "2026-11-15T10:59:03.678Z",
     "strategy": ".content-card__main"
   }
 ];
