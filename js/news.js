@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T13:59:05.814Z
+// Last updated: 2026-11-15T14:18:45.790Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃大仙下邨火警｜死者遺體傍晚舁送殮房　單位外走廊燒焦漆黑一片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198756762019172352457329.jpeg/zPNviZDiBcwS9NNWbSOfdyUbMASJEReaKi5g7CouYOw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411103/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8B%E9%82%A8%E7%81%AB%E8%AD%A6-%E6%AD%BB%E8%80%85%E9%81%BA%E9%AB%94%E5%82%8D%E6%99%9A%E8%88%81%E9%80%81%E6%AE%AE%E6%88%BF-%E5%96%AE%E4%BD%8D%E5%A4%96%E8%B5%B0%E5%BB%8A%E7%87%92%E7%84%A6%E6%BC%86%E9%BB%91%E4%B8%80%E7%89%87",
+    "timestamp": "2026-11-15T14:18:45.790Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "旺角霓虹招牌｜The Weeknd新歌MV掀打卡潮　德國客為拍攝霓虹訪港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198633968493137920256904.png/Ntl8jbHrYDDu-XSsNl9jQ8roQzT25HjJvz6oRL8-qEQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410976/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E8%83%A1%E6%A5%93%E9%9C%B8%E6%B0%A3%E5%9B%9E%E6%87%89%E8%88%87%E7%BE%85%E8%98%AD%E9%BB%83%E6%98%8F%E6%88%80-%E4%BD%A0%E5%A4%A0%E8%86%BD%E5%95%8F%E6%88%91%E5%B0%B1%E5%A4%A0%E8%86%BD%E7%AD%94",
     "timestamp": "2026-11-15T08:45:10.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普政府計劃縮小歐洲駐軍裁減規模　或只減約5000人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220212/569142793755168768791234.jpeg/CSGxGxQAtn0Rdvt1CCGOMvJVxr4mmtfHaN5PvmjeT74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411018/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A8%88%E5%8A%83%E7%B8%AE%E5%B0%8F%E6%AD%90%E6%B4%B2%E9%A7%90%E8%BB%8D%E8%A3%81%E6%B8%9B%E8%A6%8F%E6%A8%A1-%E6%88%96%E5%8F%AA%E6%B8%9B%E7%B4%845000%E4%BA%BA",
-    "timestamp": "2026-11-15T08:22:34.471Z",
     "strategy": ".content-card__main"
   }
 ];
