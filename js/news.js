@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T01:29:33.753Z
+// Last updated: 2026-11-15T01:45:38.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大行觀點｜高盛：標普500指數明年可望再漲16%　點名三大布局方向",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240214/834449220193751040706159.jpeg/zkMZ3ISmefeMIYJV0cd2um8xLuDG9O7cQVftcEFX7XA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410909/%E5%A4%A7%E8%A1%8C%E8%A7%80%E9%BB%9E-%E9%AB%98%E7%9B%9B-%E6%A8%99%E6%99%AE500%E6%8C%87%E6%95%B8%E6%98%8E%E5%B9%B4%E5%8F%AF%E6%9C%9B%E5%86%8D%E6%BC%B216-%E9%BB%9E%E5%90%8D%E4%B8%89%E5%A4%A7%E5%B8%83%E5%B1%80%E6%96%B9%E5%90%91",
+    "timestamp": "2026-11-15T01:45:38.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "12星座精神出軌指數排名　水瓶座高達90%　多情雙魚竟跌出三甲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198312582214062080489231.jpeg/_ZIXFip5-DrXxCsYG3EltsbhsAzuclywd6a8ynemvMo",
     "url": "https://www.hk01.com/01TV/60410788/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%9B%A0-%E7%8E%BB%E7%92%83%E4%B9%8B%E5%9F%8E-%E8%80%83%E6%B8%AF%E5%A4%A7-%E7%90%86%E6%83%B3%E8%88%87%E7%8F%BE%E5%AF%A6%E7%9A%84%E8%B6%85%E5%A4%A7%E8%90%BD%E5%B7%AE",
     "timestamp": "2026-11-14T19:17:21.747Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強會見泰王哇集拉隆功　指中泰經貿合作逆勢增長難能可貴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198467065069965312016327.png/YQzw-1wF1SdFWxQB0z3_FK1rHzQ5coDrzFQOEMxUDhA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410893/%E6%9D%8E%E5%BC%B7%E6%9C%83%E8%A6%8B%E6%B3%B0%E7%8E%8B%E5%93%87%E9%9B%86%E6%8B%89%E9%9A%86%E5%8A%9F-%E6%8C%87%E4%B8%AD%E6%B3%B0%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C%E9%80%86%E5%8B%A2%E5%A2%9E%E9%95%B7%E9%9B%A3%E8%83%BD%E5%8F%AF%E8%B2%B4",
-    "timestamp": "2026-11-14T18:58:59.353Z",
     "strategy": ".content-card__main"
   }
 ];
