@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T11:44:53.448Z
+// Last updated: 2026-11-15T11:59:05.446Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2丨何沛珈方智弘神同步甜到漏　侯建民爆曾想退賽惹哭俞可程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198681497901469696768930.jpeg/GL06dYua-seXt_ewmdbIXYO5O8Y8xb0DaagzsmmoM7I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411019/%E5%A5%B3%E7%A5%9E2-%E4%BD%95%E6%B2%9B%E7%8F%88%E6%96%B9%E6%99%BA%E5%BC%98%E7%A5%9E%E5%90%8C%E6%AD%A5%E7%94%9C%E5%88%B0%E6%BC%8F-%E4%BE%AF%E5%BB%BA%E6%B0%91%E7%88%86%E6%9B%BE%E6%83%B3%E9%80%80%E8%B3%BD%E6%83%B9%E5%93%AD%E4%BF%9E%E5%8F%AF%E7%A8%8B",
+    "timestamp": "2026-11-15T11:59:05.446Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新世界供股｜千億負債、折讓八成籌250億　分析︰短痛換融資空間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198615169245122560549782.jpeg/W06NzcdJbhqDuub9o2LqJJOgPbTtBV1k90gpVfdIKVU?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410951/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8B%E9%82%A8%E7%81%AB%E8%AD%A6-%E7%9B%B4%E6%92%AD-%E8%B5%B7%E7%81%AB%E5%96%AE%E4%BD%8D%E7%99%BC%E7%8F%BE%E5%A5%B3%E5%B1%8D-%E8%AD%A6%E6%96%B9%E6%B6%88%E9%98%B2%E4%BA%A4%E4%BB%A3%E8%A9%B3%E6%83%85",
     "timestamp": "2026-11-15T04:59:09.190Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SpaceX首次成功以巨型機械臂回收星艦飛船　馬斯克發文祝賀｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198617037937577984024391.jpeg/3xUelzcl9Q-4A5T4fRkuBm3NdHdDMuS0WeOLjFnji4w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410955/spacex%E9%A6%96%E6%AC%A1%E6%88%90%E5%8A%9F%E4%BB%A5%E5%B7%A8%E5%9E%8B%E6%A9%9F%E6%A2%B0%E8%87%82%E5%9B%9E%E6%94%B6%E6%98%9F%E8%89%A6%E9%A3%9B%E8%88%B9-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%99%BC%E6%96%87%E7%A5%9D%E8%B3%80-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-15T04:45:28.501Z",
     "strategy": ".content-card__main"
   }
 ];
