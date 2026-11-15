@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T22:29:43.044Z
+// Last updated: 2026-11-15T22:45:04.348Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王喜患腎衰竭遭暗寸體力差　不忿爆鬧：成世人成日遇到呢啲X家剷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198726032861958144154972.jpeg/29msi225dPgXQ2h4hVvSmt6TuyPgruKFhXGSwIVxksA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411076/%E7%8E%8B%E5%96%9C%E6%82%A3%E8%85%8E%E8%A1%B0%E7%AB%AD%E9%81%AD%E6%9A%97%E5%AF%B8%E9%AB%94%E5%8A%9B%E5%B7%AE-%E4%B8%8D%E5%BF%BF%E7%88%86%E9%AC%A7-%E6%88%90%E4%B8%96%E4%BA%BA%E6%88%90%E6%97%A5%E9%81%87%E5%88%B0%E5%91%A2%E5%95%B2x%E5%AE%B6%E5%89%B7",
+    "timestamp": "2026-11-15T22:45:04.348Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐國聯｜英格蘭作客3：2破西班牙金身　小組首名晉級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198316804124971008380624.jpeg/ik2osB0k0IYt7hetJm10RijycbPkITGh95qaVfeamlU",
     "url": "https://www.hk01.com/01TV/60410797/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%81%9A%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E7%9A%84%E7%8D%A8%E7%89%B9%E5%93%B2%E5%AD%B8-%E5%B0%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B6%8A%E5%87%B6%E8%B6%8A%E6%9C%89%E7%B4%80%E5%BE%8B",
     "timestamp": "2026-11-15T17:28:06.961Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正做補習老師的獨特哲學：對小朋友越凶越有紀律",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198316804124971008380624.jpeg/ik2osB0k0IYt7hetJm10RijycbPkITGh95qaVfeamlU",
-    "url": "https://www.hk01.com/01TV/60410797/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%81%9A%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E7%9A%84%E7%8D%A8%E7%89%B9%E5%93%B2%E5%AD%B8-%E5%B0%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B6%8A%E5%87%B6%E8%B6%8A%E6%9C%89%E7%B4%80%E5%BE%8B",
-    "timestamp": "2026-11-15T17:17:53.454Z",
     "strategy": ".content-card__main"
   }
 ];
