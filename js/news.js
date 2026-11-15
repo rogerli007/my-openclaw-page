@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T02:24:17.695Z
+// Last updated: 2026-11-15T02:36:19.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江蘇興化油脂廠罐車爆炸致1傷　現場火光衝周邊門窗震碎｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198584778685681664031682.jpeg/Et3MNPBtxPh8YYzJXcdFhMNG9NGsf_LrtZrKbbWaym0",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60410906/%E6%B1%9F%E8%98%87%E8%88%88%E5%8C%96%E6%B2%B9%E8%84%82%E5%BB%A0%E7%BD%90%E8%BB%8A%E7%88%86%E7%82%B8%E8%87%B41%E5%82%B7-%E7%8F%BE%E5%A0%B4%E7%81%AB%E5%85%89%E8%A1%9D%E5%91%A8%E9%82%8A%E9%96%80%E7%AA%97%E9%9C%87%E7%A2%8E-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-15T02:36:19.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬克龍警告試圖限制對烏克蘭援助　將為「下一場戰爭」埋隠患",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198473533030666240154732.jpeg/uiWsnVa2czdUI3k73JT3RuA4W7nJief_SzTdtEs03bQ",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410894/%E6%97%BA%E8%A7%92%E9%AC%A7%E5%B8%82%E4%BA%BA%E4%BE%86%E4%BA%BA%E5%BE%80-%E8%97%8D%E8%A1%A3%E7%94%B7%E7%95%B6%E7%9C%BE%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E6%89%B9-%E5%A0%B1%E8%AD%A6%E6%8D%89%E4%BA%BA%E5%95%A6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-14T19:57:21.826Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角鬧市人來人往　藍衣男當眾小便　網民批：報警捉人啦｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198473533030666240154732.jpeg/uiWsnVa2czdUI3k73JT3RuA4W7nJief_SzTdtEs03bQ",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410894/%E6%97%BA%E8%A7%92%E9%AC%A7%E5%B8%82%E4%BA%BA%E4%BE%86%E4%BA%BA%E5%BE%80-%E8%97%8D%E8%A1%A3%E7%94%B7%E7%95%B6%E7%9C%BE%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E6%89%B9-%E5%A0%B1%E8%AD%A6%E6%8D%89%E4%BA%BA%E5%95%A6-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-14T19:44:52.366Z",
     "strategy": ".content-card__main"
   }
 ];
