@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T04:45:28.501Z
+// Last updated: 2026-11-15T04:59:09.190Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃大仙下邨火警．直播｜起火單位發現女屍　警方消防交代詳情",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198615169245122560549782.jpeg/W06NzcdJbhqDuub9o2LqJJOgPbTtBV1k90gpVfdIKVU?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410951/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8B%E9%82%A8%E7%81%AB%E8%AD%A6-%E7%9B%B4%E6%92%AD-%E8%B5%B7%E7%81%AB%E5%96%AE%E4%BD%8D%E7%99%BC%E7%8F%BE%E5%A5%B3%E5%B1%8D-%E8%AD%A6%E6%96%B9%E6%B6%88%E9%98%B2%E4%BA%A4%E4%BB%A3%E8%A9%B3%E6%83%85",
+    "timestamp": "2026-11-15T04:59:09.190Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SpaceX首次成功以巨型機械臂回收星艦飛船　馬斯克發文祝賀｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198515136969576448385971.jpeg/ThkgIKws_gLCWLSPf1-HQdoLbuFiM742mvVwe5r1cHs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410899/%E7%89%B9%E4%BD%BF%E5%BA%AB%E4%BB%80%E7%B4%8D-%E7%BE%8E%E5%9C%8B%E5%B0%87%E4%BF%83%E9%80%B2%E6%AD%90%E6%B4%B2%E8%88%87%E4%BF%84%E7%BE%85%E6%96%AF%E4%B9%8B%E9%96%93%E7%9A%84%E7%9B%B4%E6%8E%A5%E6%8E%A5%E8%A7%B8",
     "timestamp": "2026-11-14T22:18:46.019Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
-    "timestamp": "2026-11-14T21:59:03.792Z",
     "strategy": ".content-card__main"
   }
 ];
