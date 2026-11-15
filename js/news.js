@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T09:45:07.971Z
+// Last updated: 2026-11-15T09:59:07.581Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "央視首曝無偵-7黃岩島｢威懾巡航｣　兩萬米高空監控菲美基地｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198694700530274304453217.jpeg/_4X8OrUj2_vjv4kP0gvqVXl_qWV3wLgrPfkXeD35F3g",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411051/%E5%A4%AE%E8%A6%96%E9%A6%96%E6%9B%9D%E7%84%A1%E5%81%B5-7%E9%BB%83%E5%B2%A9%E5%B3%B6-%E5%A8%81%E6%87%BE%E5%B7%A1%E8%88%AA-%E5%85%A9%E8%90%AC%E7%B1%B3%E9%AB%98%E7%A9%BA%E7%9B%A3%E6%8E%A7%E8%8F%B2%E7%BE%8E%E5%9F%BA%E5%9C%B0-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-15T09:59:07.581Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地豬肉價格暴跌創10年新低　仲平過蔬菜　有超市驚現每斤1.98元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198584778685681664031682.jpeg/Et3MNPBtxPh8YYzJXcdFhMNG9NGsf_LrtZrKbbWaym0",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60410906/%E6%B1%9F%E8%98%87%E8%88%88%E5%8C%96%E6%B2%B9%E8%84%82%E5%BB%A0%E7%BD%90%E8%BB%8A%E7%88%86%E7%82%B8%E8%87%B41%E5%82%B7-%E7%8F%BE%E5%A0%B4%E7%81%AB%E5%85%89%E8%A1%9D%E5%91%A8%E9%82%8A%E9%96%80%E7%AA%97%E9%9C%87%E7%A2%8E-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-15T02:36:19.001Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬克龍警告試圖限制對烏克蘭援助　將為「下一場戰爭」埋隠患",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190200186371051520953124.jpeg/7TGIUEPn423O7Tu4aYS_Hh4PHrmF9mADpYIAmqWCAJo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410917/%E9%A6%AC%E5%85%8B%E9%BE%8D%E8%AD%A6%E5%91%8A%E8%A9%A6%E5%9C%96%E9%99%90%E5%88%B6%E5%B0%8D%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%B4%E5%8A%A9-%E5%B0%87%E7%82%BA-%E4%B8%8B%E4%B8%80%E5%A0%B4%E6%88%B0%E7%88%AD-%E5%9F%8B%E9%9A%A0%E6%82%A3",
-    "timestamp": "2026-11-15T02:24:17.695Z",
     "strategy": ".content-card__main"
   }
 ];
