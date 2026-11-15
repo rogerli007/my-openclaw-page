@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T21:59:07.836Z
+// Last updated: 2026-11-15T22:15:47.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "不良一族尋愛記2｜網紅彩朱被捕　涉無牌經營陪酒酒吧被搜出80萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198805729541099520096123.jpeg/1N5mZLociDnuq9ijAJM1tG6h7X0uPn2w5sfjLubH4y4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411116/%E4%B8%8D%E8%89%AF%E4%B8%80%E6%97%8F%E5%B0%8B%E6%84%9B%E8%A8%982-%E7%B6%B2%E7%B4%85%E5%BD%A9%E6%9C%B1%E8%A2%AB%E6%8D%95-%E6%B6%89%E7%84%A1%E7%89%8C%E7%B6%93%E7%87%9F%E9%99%AA%E9%85%92%E9%85%92%E5%90%A7%E8%A2%AB%E6%90%9C%E5%87%BA80%E8%90%AC",
+    "timestamp": "2026-11-15T22:15:47.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "順天邨男子疑因金錢爭執遭多人刀襲　手及面受傷流血送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250606/1007578670941868032741530.jpeg/bIKs_kS9OMHxo63mHJ22-dJQnBJUEtZuLuRppS7kaaU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411118/%E7%94%B7%E5%AD%90%E8%B3%BCbigbang%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%80%E7%A5%A8-%E5%8D%B3%E5%A0%B4%E4%BA%A4%E6%94%B6%E6%8F%AD%E5%81%87%E9%A3%9B-34%E6%AD%B2%E7%94%B7%E6%96%B7%E6%AD%A3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-15T16:59:05.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男子購BIGBANG演唱會門票　即場交收揭假飛　34歲男斷正被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250606/1007578670941868032741530.jpeg/bIKs_kS9OMHxo63mHJ22-dJQnBJUEtZuLuRppS7kaaU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411118/%E7%94%B7%E5%AD%90%E8%B3%BCbigbang%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%80%E7%A5%A8-%E5%8D%B3%E5%A0%B4%E4%BA%A4%E6%94%B6%E6%8F%AD%E5%81%87%E9%A3%9B-34%E6%AD%B2%E7%94%B7%E6%96%B7%E6%AD%A3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-15T16:44:45.718Z",
     "strategy": ".content-card__main"
   }
 ];
