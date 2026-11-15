@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T12:23:35.178Z
+// Last updated: 2026-11-15T12:35:33.290Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北京地鐵爆老年旅遊團集體逃票　地鐵：對長者無免費政策｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198733659469778944047518.jpeg/fHeitO4d2vFSPPSK6QqK_UyV_-WVqjBuyHEW3shxFt4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411083/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%90%B5%E7%88%86%E8%80%81%E5%B9%B4%E6%97%85%E9%81%8A%E5%9C%98%E9%9B%86%E9%AB%94%E9%80%83%E7%A5%A8-%E5%9C%B0%E9%90%B5-%E5%B0%8D%E9%95%B7%E8%80%85%E7%84%A1%E5%85%8D%E8%B2%BB%E6%94%BF%E7%AD%96-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-15T12:35:33.290Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "好心借¥10竟惹禍　江蘇婦10年後重遇債仔追數掌摑　反遭踢斷胸骨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197279694622298112581473.jpeg/kskK95MGykXDtHHRqavHenHgqFEMh8N4aDVezmg1Xs4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410972/%E9%A6%99%E6%B8%AF%E6%BC%94%E5%87%BA%E7%AA%81%E5%8F%96%E6%B6%88%E6%9B%B2%E7%9B%AE-%E9%8B%BC%E7%90%B4%E5%AE%B6%E7%8E%8B%E7%BE%BD%E4%BD%B3%E5%8F%8D%E9%A7%81%E4%B8%BB%E8%BE%A6%E6%96%B9-%E6%BC%94%E5%87%BA%E6%95%B8%E5%91%A8%E5%89%8D%E5%B7%B2%E9%80%9A%E7%9F%A5",
     "timestamp": "2026-11-15T05:59:08.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【今日當年】梅艷芳告別演唱會完美落幕　披上絕美婚紗嫁給舞台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198623763210440704624708.jpeg/qhUH8SCXRFsAwrqstGg2EYUv4lW8LTXlzFE-eMxRPng?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410746/%E4%BB%8A%E6%97%A5%E7%95%B6%E5%B9%B4-%E6%A2%85%E8%89%B7%E8%8A%B3%E5%91%8A%E5%88%A5%E6%BC%94%E5%94%B1%E6%9C%83%E5%AE%8C%E7%BE%8E%E8%90%BD%E5%B9%95-%E6%8A%AB%E4%B8%8A%E7%B5%95%E7%BE%8E%E5%A9%9A%E7%B4%97%E5%AB%81%E7%B5%A6%E8%88%9E%E5%8F%B0",
-    "timestamp": "2026-11-15T05:19:54.435Z",
     "strategy": ".content-card__main"
   }
 ];
