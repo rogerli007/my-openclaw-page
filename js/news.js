@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T17:28:06.961Z
+// Last updated: 2026-11-15T17:44:48.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正做補習老師的獨特哲學：對小朋友越凶越有紀律",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198316804124971008380624.jpeg/ik2osB0k0IYt7hetJm10RijycbPkITGh95qaVfeamlU",
+    "url": "https://www.hk01.com/01TV/60410797/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%81%9A%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E7%9A%84%E7%8D%A8%E7%89%B9%E5%93%B2%E5%AD%B8-%E5%B0%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B6%8A%E5%87%B6%E8%B6%8A%E6%9C%89%E7%B4%80%E5%BE%8B",
+    "timestamp": "2026-11-15T17:44:48.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正做補習老師的獨特哲學：對小朋友越凶越有紀律",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198603762965417984235947.png/5k3lHhNWsOKoNFTd9X5FCN7OLL_sMJLXwRm3NcEZtzU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60410919/%E5%A5%BD%E5%BF%83%E5%80%9F-10%E7%AB%9F%E6%83%B9%E7%A6%8D-%E6%B1%9F%E8%98%87%E5%A9%A610%E5%B9%B4%E5%BE%8C%E9%87%8D%E9%81%87%E5%82%B5%E4%BB%94%E8%BF%BD%E6%95%B8%E6%8E%8C%E6%91%91-%E5%8F%8D%E9%81%AD%E8%B8%A2%E6%96%B7%E8%83%B8%E9%AA%A8",
     "timestamp": "2026-11-15T12:23:35.178Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女神2丨何沛珈方智弘神同步甜到漏　侯建民爆曾想退賽惹哭俞可程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198681497901469696768930.jpeg/GL06dYua-seXt_ewmdbIXYO5O8Y8xb0DaagzsmmoM7I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411019/%E5%A5%B3%E7%A5%9E2-%E4%BD%95%E6%B2%9B%E7%8F%88%E6%96%B9%E6%99%BA%E5%BC%98%E7%A5%9E%E5%90%8C%E6%AD%A5%E7%94%9C%E5%88%B0%E6%BC%8F-%E4%BE%AF%E5%BB%BA%E6%B0%91%E7%88%86%E6%9B%BE%E6%83%B3%E9%80%80%E8%B3%BD%E6%83%B9%E5%93%AD%E4%BF%9E%E5%8F%AF%E7%A8%8B",
-    "timestamp": "2026-11-15T11:59:05.446Z",
     "strategy": ".content-card__main"
   }
 ];
