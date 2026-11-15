@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T19:59:05.502Z
+// Last updated: 2026-11-15T20:19:35.405Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正逃跑至南美放浪：遇洗劫被迫「清空荷包」返港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319907985428480481567.jpeg/c4LHjystEwABSA5EXwJC-dk0A0ieweMmtMUp-rTFKfo",
+    "url": "https://www.hk01.com/01TV/60410802/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%80%83%E8%B7%91%E8%87%B3%E5%8D%97%E7%BE%8E%E6%94%BE%E6%B5%AA-%E9%81%87%E6%B4%97%E5%8A%AB%E8%A2%AB%E8%BF%AB-%E6%B8%85%E7%A9%BA%E8%8D%B7%E5%8C%85-%E8%BF%94%E6%B8%AF",
+    "timestamp": "2026-11-15T20:19:35.405Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "菲外長：《南海行為準則》草案完成八成　新加坡明年續推進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198635867191644160865413.png/jvv_Ata7DQjmBWSkRlM8h-rfFkQKwMFPe-xIgXvsSIE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410967/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E%E7%AC%AC6%E9%9B%86-%E6%9C%B1%E6%99%BA%E5%8B%9B%E9%8C%AF%E5%96%8A%E6%9D%8E%E4%B8%96%E6%A6%AE%E5%90%8D-%E7%94%B3%E6%95%8F%E5%85%92%E5%93%A5%E5%93%A5%E6%B2%B3%E9%81%93%E6%AC%8A%E6%8B%94%E5%8A%8D%E8%AD%B7%E5%A6%B9",
     "timestamp": "2026-11-15T14:45:00.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BIGBANG｜警第3晚土瓜灣戒備　鐵馬膠帶封圍欄缺口　啟欣苑外趕車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198757368381313024329054.jpeg/skSI-GpUbaVdTODNACmAJYGCv0nfAad2XYDaBF2A2gQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411098/bigbang-%E8%AD%A6%E7%AC%AC3%E6%99%9A%E5%9C%9F%E7%93%9C%E7%81%A3%E6%88%92%E5%82%99-%E9%90%B5%E9%A6%AC%E8%86%A0%E5%B8%B6%E5%B0%81%E5%9C%8D%E6%AC%84%E7%BC%BA%E5%8F%A3-%E5%95%9F%E6%AC%A3%E8%8B%91%E5%A4%96%E8%B6%95%E8%BB%8A",
-    "timestamp": "2026-11-15T14:29:30.944Z",
     "strategy": ".content-card__main"
   }
 ];
