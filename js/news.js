@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T20:19:35.405Z
+// Last updated: 2026-11-15T20:43:18.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正逃跑至南美放浪：遇洗劫被迫「清空荷包」返港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319907985428480481567.jpeg/c4LHjystEwABSA5EXwJC-dk0A0ieweMmtMUp-rTFKfo",
+    "url": "https://www.hk01.com/01TV/60410802/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%80%83%E8%B7%91%E8%87%B3%E5%8D%97%E7%BE%8E%E6%94%BE%E6%B5%AA-%E9%81%87%E6%B4%97%E5%8A%AB%E8%A2%AB%E8%BF%AB-%E6%B8%85%E7%A9%BA%E8%8D%B7%E5%8C%85-%E8%BF%94%E6%B8%AF",
+    "timestamp": "2026-11-15T20:43:18.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正逃跑至南美放浪：遇洗劫被迫「清空荷包」返港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198739411852857344782610.jpeg/qtynMMKA5BLKICmeZcWgjp4NyVTAkB1v14fMQdeHzEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411087/%E8%96%9B%E5%AE%B6%E7%87%95%E6%8B%8D-%E7%9C%9F%E6%83%85-%E5%83%8546%E6%AD%B2%E8%88%87%E5%A7%9A%E5%AD%90%E7%BE%9A%E5%90%8C%E9%BD%A1-%E5%90%B3%E5%AD%9F%E9%81%94%E6%BC%94%E8%83%A1%E9%90%B5%E8%8A%B1%E6%9C%AA%E6%BB%BF30%E6%AD%B2",
     "timestamp": "2026-11-15T14:59:00.122Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "再婚皇后第6集｜朱智勛錯喊李世榮名！申敏兒哥哥河道權拔劍護妹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198635867191644160865413.png/jvv_Ata7DQjmBWSkRlM8h-rfFkQKwMFPe-xIgXvsSIE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410967/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E%E7%AC%AC6%E9%9B%86-%E6%9C%B1%E6%99%BA%E5%8B%9B%E9%8C%AF%E5%96%8A%E6%9D%8E%E4%B8%96%E6%A6%AE%E5%90%8D-%E7%94%B3%E6%95%8F%E5%85%92%E5%93%A5%E5%93%A5%E6%B2%B3%E9%81%93%E6%AC%8A%E6%8B%94%E5%8A%8D%E8%AD%B7%E5%A6%B9",
-    "timestamp": "2026-11-15T14:45:00.842Z",
     "strategy": ".content-card__main"
   }
 ];
