@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T22:15:47.605Z
+// Last updated: 2026-11-15T22:29:43.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐國聯｜英格蘭作客3：2破西班牙金身　小組首名晉級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250609/1008629191932907520892653.jpeg/TL3_ACISckqdQyZ-WEd27EPb4GO7BPxPlwm4OZcJuDk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411128/%E6%AD%90%E5%9C%8B%E8%81%AF-%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%BD%9C%E5%AE%A23-2%E7%A0%B4%E8%A5%BF%E7%8F%AD%E7%89%99%E9%87%91%E8%BA%AB-%E5%B0%8F%E7%B5%84%E9%A6%96%E5%90%8D%E6%99%89%E7%B4%9A",
+    "timestamp": "2026-11-15T22:29:43.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "不良一族尋愛記2｜網紅彩朱被捕　涉無牌經營陪酒酒吧被搜出80萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198316804124971008380624.jpeg/ik2osB0k0IYt7hetJm10RijycbPkITGh95qaVfeamlU",
     "url": "https://www.hk01.com/01TV/60410797/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%81%9A%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E7%9A%84%E7%8D%A8%E7%89%B9%E5%93%B2%E5%AD%B8-%E5%B0%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B6%8A%E5%87%B6%E8%B6%8A%E6%9C%89%E7%B4%80%E5%BE%8B",
     "timestamp": "2026-11-15T17:17:53.454Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "男子購BIGBANG演唱會門票　即場交收揭假飛　34歲男斷正被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250606/1007578670941868032741530.jpeg/bIKs_kS9OMHxo63mHJ22-dJQnBJUEtZuLuRppS7kaaU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411118/%E7%94%B7%E5%AD%90%E8%B3%BCbigbang%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%80%E7%A5%A8-%E5%8D%B3%E5%A0%B4%E4%BA%A4%E6%94%B6%E6%8F%AD%E5%81%87%E9%A3%9B-34%E6%AD%B2%E7%94%B7%E6%96%B7%E6%AD%A3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-15T16:59:05.101Z",
     "strategy": ".content-card__main"
   }
 ];
