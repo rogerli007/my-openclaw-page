@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T10:59:03.678Z
+// Last updated: 2026-11-15T11:18:28.630Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女子在江蘇二手店花57.5萬買Hermès手袋　竟然可能是「組裝包」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198709392011169792502613.png/xGFdZpTYcBlFttvxOeUivBMrbKPuxq8xjqWtG46lrRs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411031/%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B1%9F%E8%98%87%E4%BA%8C%E6%89%8B%E5%BA%97%E8%8A%B157-5%E8%90%AC%E8%B2%B7herm%C3%A8s%E6%89%8B%E8%A2%8B-%E7%AB%9F%E7%84%B6%E5%8F%AF%E8%83%BD%E6%98%AF-%E7%B5%84%E8%A3%9D%E5%8C%85",
+    "timestamp": "2026-11-15T11:18:28.630Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "楊茜堯讚羅子溢睇劇俾足情緒價值　陳豪拒睇陳茵媺親熱戲：冇眼睇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196874943493574656172803.jpeg/BwDJK5PnXB74xhdqqqMy7a48OYl9Sip1_mcaBf5nGgU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409198/%E4%BA%BA%E6%83%85%E5%85%AC%E5%83%B92026-%E5%8E%BB%E5%A9%9A%E5%AE%B4%E5%B0%81%E5%B9%BE%E5%A4%9A-%E9%AB%98%E7%B4%9A%E9%85%92%E5%BA%97-%E9%85%92%E5%BA%97-%E9%85%92%E6%A8%93-%E6%94%B6%E9%A4%85%E5%8D%A1%E5%85%AC%E5%83%B9%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-11-15T04:16:20.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪麗壞𨋢監管不力遲公開　林超英：專業崩潰是大事讓民眾知有何怕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240831/906526127755890688169075.jpeg/sqM6eqXHhJRif7RWcJkV3uMd5O71dODcFOj6SRTo-kk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60410943/%E7%91%AA%E9%BA%97%E5%A3%9E%F0%A8%8B%A2%E7%9B%A3%E7%AE%A1%E4%B8%8D%E5%8A%9B%E9%81%B2%E5%85%AC%E9%96%8B-%E6%9E%97%E8%B6%85%E8%8B%B1-%E5%B0%88%E6%A5%AD%E5%B4%A9%E6%BD%B0%E6%98%AF%E5%A4%A7%E4%BA%8B%E8%AE%93%E6%B0%91%E7%9C%BE%E7%9F%A5%E6%9C%89%E4%BD%95%E6%80%95",
-    "timestamp": "2026-11-15T03:59:15.671Z",
     "strategy": ".content-card__main"
   }
 ];
