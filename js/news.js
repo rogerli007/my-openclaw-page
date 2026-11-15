@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T04:59:09.190Z
+// Last updated: 2026-11-15T05:19:54.435Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【今日當年】梅艷芳告別演唱會完美落幕　披上絕美婚紗嫁給舞台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198623763210440704624708.jpeg/qhUH8SCXRFsAwrqstGg2EYUv4lW8LTXlzFE-eMxRPng?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410746/%E4%BB%8A%E6%97%A5%E7%95%B6%E5%B9%B4-%E6%A2%85%E8%89%B7%E8%8A%B3%E5%91%8A%E5%88%A5%E6%BC%94%E5%94%B1%E6%9C%83%E5%AE%8C%E7%BE%8E%E8%90%BD%E5%B9%95-%E6%8A%AB%E4%B8%8A%E7%B5%95%E7%BE%8E%E5%A9%9A%E7%B4%97%E5%AB%81%E7%B5%A6%E8%88%9E%E5%8F%B0",
+    "timestamp": "2026-11-15T05:19:54.435Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙下邨火警．直播｜起火單位發現女屍　警方消防交代詳情",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198073812772458496078912.jpeg/K4Mvcnx97Y7pyLtDLDp0dP-LoSVGmGJVczq3EXM6txE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410534/%E9%95%B7%E8%80%85%E6%97%A5%E5%84%AA%E6%83%A0%E6%87%B6%E4%BA%BA%E5%8C%85-%E4%BB%8A%E6%97%A5%E5%85%8D%E8%B2%BB%E5%9D%90%E5%B7%B4%E5%A3%AB%E6%B8%AF%E9%90%B5-%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E7%AD%89%E6%99%AF%E9%BB%9E%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4",
     "timestamp": "2026-11-14T22:59:03.146Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特使庫什納：美國將促進歐洲與俄羅斯之間的直接接觸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198515136969576448385971.jpeg/ThkgIKws_gLCWLSPf1-HQdoLbuFiM742mvVwe5r1cHs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410899/%E7%89%B9%E4%BD%BF%E5%BA%AB%E4%BB%80%E7%B4%8D-%E7%BE%8E%E5%9C%8B%E5%B0%87%E4%BF%83%E9%80%B2%E6%AD%90%E6%B4%B2%E8%88%87%E4%BF%84%E7%BE%85%E6%96%AF%E4%B9%8B%E9%96%93%E7%9A%84%E7%9B%B4%E6%8E%A5%E6%8E%A5%E8%A7%B8",
-    "timestamp": "2026-11-14T22:18:46.019Z",
     "strategy": ".content-card__main"
   }
 ];
