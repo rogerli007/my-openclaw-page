@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T20:43:18.157Z
+// Last updated: 2026-11-15T20:59:07.997Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛沙尼亞指俄攻擊國防企業　12月起全面關閉兩國邊境口岸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198841859053457408182359.jpeg/2zNvlVE2akZ6DkFXEjo2NKBZaFo7kXQCxvp-8cb6fvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411124/%E6%84%9B%E6%B2%99%E5%B0%BC%E4%BA%9E%E6%8C%87%E4%BF%84%E6%94%BB%E6%93%8A%E5%9C%8B%E9%98%B2%E4%BC%81%E6%A5%AD-12%E6%9C%88%E8%B5%B7%E5%85%A8%E9%9D%A2%E9%97%9C%E9%96%89%E5%85%A9%E5%9C%8B%E9%82%8A%E5%A2%83%E5%8F%A3%E5%B2%B8",
+    "timestamp": "2026-11-15T20:59:07.997Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正逃跑至南美放浪：遇洗劫被迫「清空荷包」返港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198703206994022400236098.jpeg/hfP6trQug2NTVaidmj6PVDRFdQOS1XKfgjLlDYIy5Q0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411041/%E6%9E%97%E5%AD%90%E7%A5%A5%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E6%9C%83%E6%8E%80%E8%90%AC%E4%BA%BA%E5%A4%A7%E5%90%88%E5%94%B1-%E8%91%89%E8%92%A8%E6%96%87%E8%A6%AA%E8%A7%A3%E8%B7%8C%E5%80%92%E9%A9%9A%E9%AD%82-%E6%88%91%E5%8F%AA%E4%BF%82%E8%80%81%E5%92%97",
     "timestamp": "2026-11-15T15:26:12.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "薛家燕拍《真情》僅46歲與姚子羚同齡　吳孟達演胡鐵花未滿30歲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198739411852857344782610.jpeg/qtynMMKA5BLKICmeZcWgjp4NyVTAkB1v14fMQdeHzEE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411087/%E8%96%9B%E5%AE%B6%E7%87%95%E6%8B%8D-%E7%9C%9F%E6%83%85-%E5%83%8546%E6%AD%B2%E8%88%87%E5%A7%9A%E5%AD%90%E7%BE%9A%E5%90%8C%E9%BD%A1-%E5%90%B3%E5%AD%9F%E9%81%94%E6%BC%94%E8%83%A1%E9%90%B5%E8%8A%B1%E6%9C%AA%E6%BB%BF30%E6%AD%B2",
-    "timestamp": "2026-11-15T14:59:00.122Z",
     "strategy": ".content-card__main"
   }
 ];
