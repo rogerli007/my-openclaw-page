@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T14:18:45.790Z
+// Last updated: 2026-11-15T14:29:30.944Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG｜警第3晚土瓜灣戒備　鐵馬膠帶封圍欄缺口　啟欣苑外趕車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198757368381313024329054.jpeg/skSI-GpUbaVdTODNACmAJYGCv0nfAad2XYDaBF2A2gQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411098/bigbang-%E8%AD%A6%E7%AC%AC3%E6%99%9A%E5%9C%9F%E7%93%9C%E7%81%A3%E6%88%92%E5%82%99-%E9%90%B5%E9%A6%AC%E8%86%A0%E5%B8%B6%E5%B0%81%E5%9C%8D%E6%AC%84%E7%BC%BA%E5%8F%A3-%E5%95%9F%E6%AC%A3%E8%8B%91%E5%A4%96%E8%B6%95%E8%BB%8A",
+    "timestamp": "2026-11-15T14:29:30.944Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃大仙下邨火警｜死者遺體傍晚舁送殮房　單位外走廊燒焦漆黑一片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198655144665812992617583.jpeg/7o-gX8_juo8zVr0PZUcVNRBQdyqKRJMtfrKAMH6ygDA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410982/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%88%86%E9%96%8B%E6%9C%83%E9%A3%86%E7%BD%B5%E8%8B%B1%E5%81%89%E9%81%94%E9%AB%98%E5%B1%A4-%E6%88%91%E5%B8%8C%E6%9C%9B%E4%BD%A0%E5%8E%BB%E6%AD%BB-%E9%82%84%E6%9C%9D%E4%B8%BB%E7%AE%A1%E4%B8%9F%E6%B0%B4%E6%A8%BD",
     "timestamp": "2026-11-15T08:59:02.524Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "一周星星丨胡楓霸氣回應與羅蘭黃昏戀：你夠膽問我就夠膽答",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198633968493137920256904.png/Ntl8jbHrYDDu-XSsNl9jQ8roQzT25HjJvz6oRL8-qEQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60410976/%E4%B8%80%E5%91%A8%E6%98%9F%E6%98%9F-%E8%83%A1%E6%A5%93%E9%9C%B8%E6%B0%A3%E5%9B%9E%E6%87%89%E8%88%87%E7%BE%85%E8%98%AD%E9%BB%83%E6%98%8F%E6%88%80-%E4%BD%A0%E5%A4%A0%E8%86%BD%E5%95%8F%E6%88%91%E5%B0%B1%E5%A4%A0%E8%86%BD%E7%AD%94",
-    "timestamp": "2026-11-15T08:45:10.535Z",
     "strategy": ".content-card__main"
   }
 ];
