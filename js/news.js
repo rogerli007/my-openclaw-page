@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T14:45:00.842Z
+// Last updated: 2026-11-15T14:59:00.122Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "薛家燕拍《真情》僅46歲與姚子羚同齡　吳孟達演胡鐵花未滿30歲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198739411852857344782610.jpeg/qtynMMKA5BLKICmeZcWgjp4NyVTAkB1v14fMQdeHzEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411087/%E8%96%9B%E5%AE%B6%E7%87%95%E6%8B%8D-%E7%9C%9F%E6%83%85-%E5%83%8546%E6%AD%B2%E8%88%87%E5%A7%9A%E5%AD%90%E7%BE%9A%E5%90%8C%E9%BD%A1-%E5%90%B3%E5%AD%9F%E9%81%94%E6%BC%94%E8%83%A1%E9%90%B5%E8%8A%B1%E6%9C%AA%E6%BB%BF30%E6%AD%B2",
+    "timestamp": "2026-11-15T14:59:00.122Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再婚皇后第6集｜朱智勛錯喊李世榮名！申敏兒哥哥河道權拔劍護妹",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198677543947866112795084.jpeg/JKKUd8juTjDvuRzC0BDxOjFgO5jJp9iD-sWZpvrFmaY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411023/%E5%85%A7%E5%9C%B0%E8%B1%AC%E8%82%89%E5%83%B9%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%89%B510%E5%B9%B4%E6%96%B0%E4%BD%8E-%E4%BB%B2%E5%B9%B3%E9%81%8E%E8%94%AC%E8%8F%9C-%E6%9C%89%E8%B6%85%E5%B8%82%E9%A9%9A%E7%8F%BE%E6%AF%8F%E6%96%A41-98%E5%85%83",
     "timestamp": "2026-11-15T09:45:07.971Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "關嘉敏自爆遭前輩擅加親熱戲　澄清唔係鄧英敏：千祈唔好誤會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198676700217479168490127.png/ptUtluzTWIQ3TImn3v-yhpgglSpsm17rP_iypz_4sqc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411021/%E9%97%9C%E5%98%89%E6%95%8F%E8%87%AA%E7%88%86%E9%81%AD%E5%89%8D%E8%BC%A9%E6%93%85%E5%8A%A0%E8%A6%AA%E7%86%B1%E6%88%B2-%E6%BE%84%E6%B8%85%E5%94%94%E4%BF%82%E9%84%A7%E8%8B%B1%E6%95%8F-%E5%8D%83%E7%A5%88%E5%94%94%E5%A5%BD%E8%AA%A4%E6%9C%83",
-    "timestamp": "2026-11-15T09:19:51.500Z",
     "strategy": ".content-card__main"
   }
 ];
