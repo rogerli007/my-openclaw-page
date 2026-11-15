@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T01:45:38.349Z
+// Last updated: 2026-11-15T01:59:09.159Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長者日優惠2026｜食肆/景點/娛樂86大推介　山頂纜車/海洋公園",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194705710647087104196582.png/iJUnrut920cmkU6-_b9pX1GqGZLW0fWBKha04yoWtOM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60407008/%E9%95%B7%E8%80%85%E6%97%A5%E5%84%AA%E6%83%A02026-%E9%A3%9F%E8%82%86-%E6%99%AF%E9%BB%9E-%E5%A8%9B%E6%A8%8286%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A-%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92",
+    "timestamp": "2026-11-15T01:59:09.159Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大行觀點｜高盛：標普500指數明年可望再漲16%　點名三大布局方向",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198473533030666240154732.jpeg/uiWsnVa2czdUI3k73JT3RuA4W7nJief_SzTdtEs03bQ",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410894/%E6%97%BA%E8%A7%92%E9%AC%A7%E5%B8%82%E4%BA%BA%E4%BE%86%E4%BA%BA%E5%BE%80-%E8%97%8D%E8%A1%A3%E7%94%B7%E7%95%B6%E7%9C%BE%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E6%89%B9-%E5%A0%B1%E8%AD%A6%E6%8D%89%E4%BA%BA%E5%95%A6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-14T19:29:22.163Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正因《玻璃之城》考港大：理想與現實的超大落差",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198312582214062080489231.jpeg/_ZIXFip5-DrXxCsYG3EltsbhsAzuclywd6a8ynemvMo",
-    "url": "https://www.hk01.com/01TV/60410788/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%9B%A0-%E7%8E%BB%E7%92%83%E4%B9%8B%E5%9F%8E-%E8%80%83%E6%B8%AF%E5%A4%A7-%E7%90%86%E6%83%B3%E8%88%87%E7%8F%BE%E5%AF%A6%E7%9A%84%E8%B6%85%E5%A4%A7%E8%90%BD%E5%B7%AE",
-    "timestamp": "2026-11-14T19:17:21.747Z",
     "strategy": ".content-card__main"
   }
 ];
