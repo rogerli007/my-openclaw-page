@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T05:59:08.607Z
+// Last updated: 2026-11-15T06:25:46.710Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Pokémon GO活動數十人聚集尖東　看中街頭多「道館」捉「鋁鋼龍」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198639284698091520629531.jpeg/ChgcNoOS38mgaOzc7XweyxtI6Wc3AMbAWhAkT38QJE8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410979/pok%C3%A9mon-go%E6%B4%BB%E5%8B%95%E6%95%B8%E5%8D%81%E4%BA%BA%E8%81%9A%E9%9B%86%E5%B0%96%E6%9D%B1-%E7%9C%8B%E4%B8%AD%E8%A1%97%E9%A0%AD%E5%A4%9A-%E9%81%93%E9%A4%A8-%E6%8D%89-%E9%8B%81%E9%8B%BC%E9%BE%8D",
+    "timestamp": "2026-11-15T06:25:46.710Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港演出突取消曲目　鋼琴家王羽佳反駁主辦方：演出數周前已通知",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198299653154541568693128.png/wKkrzLr087iZdN9Ggc2OKDJhYWVJ_uu3bYGS8W2BkvE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408425/%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E6%9C%89%E9%8C%A2%E5%B0%B1%E8%83%BD%E8%B4%96%E8%BA%AB-%E5%90%8D%E5%A6%93%E8%91%A3%E5%B0%8F%E5%AE%9B%E9%9B%A2%E9%96%8B%E5%89%8D%E9%82%84%E8%A6%81%E9%81%8E%E5%B9%BE%E9%97%9C-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
     "timestamp": "2026-11-14T23:29:14.022Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青樓女子有錢就能贖身？　名妓董小宛離開前還要過幾關｜歷史奇趣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198299653154541568693128.png/wKkrzLr087iZdN9Ggc2OKDJhYWVJ_uu3bYGS8W2BkvE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60408425/%E9%9D%92%E6%A8%93%E5%A5%B3%E5%AD%90%E6%9C%89%E9%8C%A2%E5%B0%B1%E8%83%BD%E8%B4%96%E8%BA%AB-%E5%90%8D%E5%A6%93%E8%91%A3%E5%B0%8F%E5%AE%9B%E9%9B%A2%E9%96%8B%E5%89%8D%E9%82%84%E8%A6%81%E9%81%8E%E5%B9%BE%E9%97%9C-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
-    "timestamp": "2026-11-14T23:18:28.697Z",
     "strategy": ".content-card__main"
   }
 ];
