@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T15:44:50.885Z
+// Last updated: 2026-11-15T15:59:01.462Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳山聰揭伍詠薇心理狀況　爆與陳敏之私下關係：前幾日通完電話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198718321197846528257609.jpeg/aPG2Yktd-yB-9qPvwe8EjTfDTZJLcpSGuivWDYAr1g0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411080/%E9%99%B3%E5%B1%B1%E8%81%B0%E6%8F%AD%E4%BC%8D%E8%A9%A0%E8%96%87%E5%BF%83%E7%90%86%E7%8B%80%E6%B3%81-%E7%88%86%E8%88%87%E9%99%B3%E6%95%8F%E4%B9%8B%E7%A7%81%E4%B8%8B%E9%97%9C%E4%BF%82-%E5%89%8D%E5%B9%BE%E6%97%A5%E9%80%9A%E5%AE%8C%E9%9B%BB%E8%A9%B1",
+    "timestamp": "2026-11-15T15:59:01.462Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "79歲汪明荃佛山開酒樓騷被指自降身價　人均六百嘆鮑魚金豬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250609/1008714725447438336578613.jpeg/CuVTBaEkbHaAKppSKftY8xRw3BS5kELPMfeipzH3oqc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411057/%E7%BE%8E%E6%97%A5%E6%89%8D%E9%81%94%E9%98%B2%E7%AF%84%E7%8A%AF%E7%BD%AA%E5%8D%94%E8%AD%B0-%E6%B2%96%E7%B9%A9%E7%BE%8E%E8%BB%8D%E7%B9%BC%E4%B8%8A%E5%B0%89%E9%85%92%E9%A7%95-%E5%85%B5%E9%95%B7%E6%B6%89%E9%9C%B2%E4%B8%8B%E9%AB%94%E5%86%8D%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-15T10:44:55.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗鴨寮街金屬物高處墮下　婦偕母途經遭擊傷頭　地面遺血跡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198699098870386688784065.jpeg/--5dwbP-0xCfo6Bjsyp1ymhFzLfK2FPEZAWOT2QFjk8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411056/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%B4%A8%E5%AF%AE%E8%A1%97%E9%87%91%E5%B1%AC%E7%89%A9%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E5%A9%A6%E5%81%95%E6%AF%8D%E9%80%94%E7%B6%93%E9%81%AD%E6%93%8A%E5%82%B7%E9%A0%AD-%E5%9C%B0%E9%9D%A2%E9%81%BA%E8%A1%80%E8%B7%A1",
-    "timestamp": "2026-11-15T10:19:16.624Z",
     "strategy": ".content-card__main"
   }
 ];
