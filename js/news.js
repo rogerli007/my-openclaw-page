@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T21:29:33.734Z
+// Last updated: 2026-11-15T21:44:56.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "順天邨男子疑因金錢爭執遭多人刀襲　手及面受傷流血送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411126/%E9%A0%86%E5%A4%A9%E9%82%A8%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E9%87%91%E9%8C%A2%E7%88%AD%E5%9F%B7%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%88%80%E8%A5%B2-%E6%89%8B%E5%8F%8A%E9%9D%A2%E5%8F%97%E5%82%B7%E6%B5%81%E8%A1%80%E9%80%81%E9%99%A2",
+    "timestamp": "2026-11-15T21:44:56.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "順天邨男子疑因金錢爭執遭多人刀襲　手及面受傷流血送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198789046302674944156704.jpeg/6tNm2xrsvGaZEq6fTz3w1NYhjDzlxtfHK3KDbQFyg20?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411115/%E8%8D%83%E5%BE%B7%E8%8A%B1%E5%9C%92%E7%96%91%E9%9B%BB%E9%8C%B6%E6%88%BF%E7%B8%BD%E6%8E%A3%E6%95%85%E9%9A%9C-5%E5%BA%A7%E5%A4%A7%E5%BB%88%E5%8D%87%E9%99%8D%E6%A9%9F%E5%81%9C%E9%9B%BB-%E4%B8%AD%E9%9B%BB%E4%BA%BA%E5%93%A1%E5%88%B0%E5%A0%B4",
     "timestamp": "2026-11-15T16:19:53.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳山聰揭伍詠薇心理狀況　爆與陳敏之私下關係：前幾日通完電話",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198718321197846528257609.jpeg/aPG2Yktd-yB-9qPvwe8EjTfDTZJLcpSGuivWDYAr1g0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411080/%E9%99%B3%E5%B1%B1%E8%81%B0%E6%8F%AD%E4%BC%8D%E8%A9%A0%E8%96%87%E5%BF%83%E7%90%86%E7%8B%80%E6%B3%81-%E7%88%86%E8%88%87%E9%99%B3%E6%95%8F%E4%B9%8B%E7%A7%81%E4%B8%8B%E9%97%9C%E4%BF%82-%E5%89%8D%E5%B9%BE%E6%97%A5%E9%80%9A%E5%AE%8C%E9%9B%BB%E8%A9%B1",
-    "timestamp": "2026-11-15T15:59:01.462Z",
     "strategy": ".content-card__main"
   }
 ];
