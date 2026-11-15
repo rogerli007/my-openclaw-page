@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T00:39:28.920Z
+// Last updated: 2026-11-15T01:00:36.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：美國首次提出烏克蘭割讓頓巴斯　以換取加入北約",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190861607933054976815794.jpeg/CF-HDBnuAKdsO-bmz6SA9QWZr4yn88jUsvnwfLL58Hw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410901/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E5%9C%8B%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA%E7%83%8F%E5%85%8B%E8%98%AD%E5%89%B2%E8%AE%93%E9%A0%93%E5%B7%B4%E6%96%AF-%E4%BB%A5%E6%8F%9B%E5%8F%96%E5%8A%A0%E5%85%A5%E5%8C%97%E7%B4%84",
+    "timestamp": "2026-11-15T01:00:36.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "何依婷富貴行頭出席馬主協會晚宴　自爆抽中大獎鑽石名錶手氣極旺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198458387491196928697814.jpeg/VS6U8OKkhQTxtNRHvSGJL2NhxJ19b1gV-u0MYMDtDGA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410891/%E6%97%BA%E8%A7%92%E5%85%A9%E7%9A%84%E5%A3%AB%E8%BF%8E%E9%A0%AD%E7%9B%B8%E6%92%9E-6%E4%BA%BA%E5%8F%97%E5%82%B7-%E8%AD%A6%E4%B8%8D%E6%8E%92%E9%99%A4%E5%85%B6%E4%B8%AD%E4%B8%80%E8%BB%8A%E8%A1%9D%E7%87%88%E8%82%87%E7%A6%8D",
     "timestamp": "2026-11-14T18:45:03.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正破解讀書迷思：學習本是樂趣 家長不應該傳播痛苦",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198311968851628032831790.jpeg/mMth_Svt07E-J_d3z01SJzG7fmJvIG5quXx-X7l8fl8",
-    "url": "https://www.hk01.com/01TV/60410787/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%A0%B4%E8%A7%A3%E8%AE%80%E6%9B%B8%E8%BF%B7%E6%80%9D-%E5%AD%B8%E7%BF%92%E6%9C%AC%E6%98%AF%E6%A8%82%E8%B6%A3-%E5%AE%B6%E9%95%B7%E4%B8%8D%E6%87%89%E8%A9%B2%E5%82%B3%E6%92%AD%E7%97%9B%E8%8B%A6",
-    "timestamp": "2026-11-14T18:20:58.595Z",
     "strategy": ".content-card__main"
   }
 ];
