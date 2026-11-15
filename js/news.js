@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T03:59:15.671Z
+// Last updated: 2026-11-15T04:16:20.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "人情公價2026│去婚宴封幾多？高級酒店/酒店/酒樓/收餅卡公價一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196874943493574656172803.jpeg/BwDJK5PnXB74xhdqqqMy7a48OYl9Sip1_mcaBf5nGgU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409198/%E4%BA%BA%E6%83%85%E5%85%AC%E5%83%B92026-%E5%8E%BB%E5%A9%9A%E5%AE%B4%E5%B0%81%E5%B9%BE%E5%A4%9A-%E9%AB%98%E7%B4%9A%E9%85%92%E5%BA%97-%E9%85%92%E5%BA%97-%E9%85%92%E6%A8%93-%E6%94%B6%E9%A4%85%E5%8D%A1%E5%85%AC%E5%83%B9%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-11-15T04:16:20.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "瑪麗壞𨋢監管不力遲公開　林超英：專業崩潰是大事讓民眾知有何怕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
     "timestamp": "2026-11-14T21:29:32.697Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
-    "timestamp": "2026-11-14T21:18:12.101Z",
     "strategy": ".content-card__main"
   }
 ];
