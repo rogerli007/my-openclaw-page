@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T15:26:12.158Z
+// Last updated: 2026-11-15T15:44:50.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "79歲汪明荃佛山開酒樓騷被指自降身價　人均六百嘆鮑魚金豬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198767608212492288812079.jpeg/kGqpMMo4yUW6PrnI5t23ysWh9pBREGkSgbBZl4GwWZc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411105/79%E6%AD%B2%E6%B1%AA%E6%98%8E%E8%8D%83%E4%BD%9B%E5%B1%B1%E9%96%8B%E9%85%92%E6%A8%93%E9%A8%B7%E8%A2%AB%E6%8C%87%E8%87%AA%E9%99%8D%E8%BA%AB%E5%83%B9-%E4%BA%BA%E5%9D%87%E5%85%AD%E7%99%BE%E5%98%86%E9%AE%91%E9%AD%9A%E9%87%91%E8%B1%AC",
+    "timestamp": "2026-11-15T15:44:50.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林子祥南京演唱會掀萬人大合唱　葉蒨文親解跌倒驚魂：我只係老咗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198699098870386688784065.jpeg/--5dwbP-0xCfo6Bjsyp1ymhFzLfK2FPEZAWOT2QFjk8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411056/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%B4%A8%E5%AF%AE%E8%A1%97%E9%87%91%E5%B1%AC%E7%89%A9%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E5%A9%A6%E5%81%95%E6%AF%8D%E9%80%94%E7%B6%93%E9%81%AD%E6%93%8A%E5%82%B7%E9%A0%AD-%E5%9C%B0%E9%9D%A2%E9%81%BA%E8%A1%80%E8%B7%A1",
     "timestamp": "2026-11-15T10:19:16.624Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "央視首曝無偵-7黃岩島｢威懾巡航｣　兩萬米高空監控菲美基地｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198694700530274304453217.jpeg/_4X8OrUj2_vjv4kP0gvqVXl_qWV3wLgrPfkXeD35F3g",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411051/%E5%A4%AE%E8%A6%96%E9%A6%96%E6%9B%9D%E7%84%A1%E5%81%B5-7%E9%BB%83%E5%B2%A9%E5%B3%B6-%E5%A8%81%E6%87%BE%E5%B7%A1%E8%88%AA-%E5%85%A9%E8%90%AC%E7%B1%B3%E9%AB%98%E7%A9%BA%E7%9B%A3%E6%8E%A7%E8%8F%B2%E7%BE%8E%E5%9F%BA%E5%9C%B0-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-15T09:59:07.581Z",
     "strategy": ".content-card__main"
   }
 ];
