@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T03:33:39.160Z
+// Last updated: 2026-11-15T03:59:15.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "瑪麗壞𨋢監管不力遲公開　林超英：專業崩潰是大事讓民眾知有何怕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240831/906526127755890688169075.jpeg/sqM6eqXHhJRif7RWcJkV3uMd5O71dODcFOj6SRTo-kk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60410943/%E7%91%AA%E9%BA%97%E5%A3%9E%F0%A8%8B%A2%E7%9B%A3%E7%AE%A1%E4%B8%8D%E5%8A%9B%E9%81%B2%E5%85%AC%E9%96%8B-%E6%9E%97%E8%B6%85%E8%8B%B1-%E5%B0%88%E6%A5%AD%E5%B4%A9%E6%BD%B0%E6%98%AF%E5%A4%A7%E4%BA%8B%E8%AE%93%E6%B0%91%E7%9C%BE%E7%9F%A5%E6%9C%89%E4%BD%95%E6%80%95",
+    "timestamp": "2026-11-15T03:59:15.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "皇崗口岸兩車跣胎撞牆　政府：相關路段無鋪防滑物料　本周初加鋪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
     "timestamp": "2026-11-14T21:18:12.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "意大利對Meta罰款8.05億歐元　指其未經用戶同意存取相簿",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
-    "timestamp": "2026-11-14T20:59:01.556Z",
     "strategy": ".content-card__main"
   }
 ];
