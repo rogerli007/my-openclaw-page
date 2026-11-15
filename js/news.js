@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T02:36:19.001Z
+// Last updated: 2026-11-15T03:22:18.729Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九M+博物館男女不雅影片瘋傳！伸手入褲邊行邊摸　身份曝光更誇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198593245072855040593087.jpeg/2WmiE9B-TS3NO9Tar9urmBqwfoHbLfG2M6ZZ_TOmWf0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60410924/%E8%A5%BF%E4%B9%9Dm-%E5%8D%9A%E7%89%A9%E9%A4%A8%E7%94%B7%E5%A5%B3%E4%B8%8D%E9%9B%85%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E4%BC%B8%E6%89%8B%E5%85%A5%E8%A4%B2%E9%82%8A%E8%A1%8C%E9%82%8A%E6%91%B8-%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89%E6%9B%B4%E8%AA%87",
+    "timestamp": "2026-11-15T03:22:18.729Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江蘇興化油脂廠罐車爆炸致1傷　現場火光衝周邊門窗震碎｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198313090333020160075814.jpeg/VAd-1wJtwWDMgRnKYJhU8cnlCJOZ6MB5srxQA7K8UAM",
     "url": "https://www.hk01.com/01TV/60410790/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%9A%84%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%B4%BB%E7%A4%BE%E4%BA%A4-%E8%AE%80%E5%A4%A7%E5%AD%B8%E4%B8%8D%E4%BA%A4%E6%9C%8B%E5%8F%8B%E8%AB%87%E6%88%80%E6%84%9B%E5%B0%B1%E7%99%BD%E8%AE%80%E4%BA%86",
     "timestamp": "2026-11-14T20:18:56.424Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "旺角鬧市人來人往　藍衣男當眾小便　網民批：報警捉人啦｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198473533030666240154732.jpeg/uiWsnVa2czdUI3k73JT3RuA4W7nJief_SzTdtEs03bQ",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410894/%E6%97%BA%E8%A7%92%E9%AC%A7%E5%B8%82%E4%BA%BA%E4%BE%86%E4%BA%BA%E5%BE%80-%E8%97%8D%E8%A1%A3%E7%94%B7%E7%95%B6%E7%9C%BE%E5%B0%8F%E4%BE%BF-%E7%B6%B2%E6%B0%91%E6%89%B9-%E5%A0%B1%E8%AD%A6%E6%8D%89%E4%BA%BA%E5%95%A6-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-14T19:57:21.826Z",
     "strategy": ".content-card__main"
   }
 ];
