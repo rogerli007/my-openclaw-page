@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T11:18:28.630Z
+// Last updated: 2026-11-15T11:29:20.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃大仙下邨龍和樓失火冒煙　消防開喉撲熄　有居民需戴氧氣罩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198715026442031104043729.jpeg/Y1Dj7uz7hTCMCcy38JXStu3lF6Fqf6W7YGHu7kVh7u4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411077/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8B%E9%82%A8%E9%BE%8D%E5%92%8C%E6%A8%93%E5%A4%B1%E7%81%AB%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E9%96%8B%E5%96%89%E6%92%B2%E7%86%84-%E6%9C%89%E5%B1%85%E6%B0%91%E9%9C%80%E6%88%B4%E6%B0%A7%E6%B0%A3%E7%BD%A9",
+    "timestamp": "2026-11-15T11:29:20.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女子在江蘇二手店花57.5萬買Hermès手袋　竟然可能是「組裝包」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198612746715795456213547.jpeg/ZSi8d5tmIhqIDGGVlC3cu_Br9I-9O3EopdWdSaXVnUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60410959/%E9%99%B3%E8%8C%82%E6%B3%A2-%E4%BA%BA%E6%B0%91%E5%B9%A3%E9%BB%9E%E5%BF%83%E5%82%B5%E9%A6%96%E8%B6%85%E7%BE%8E%E5%85%83%E5%82%B5%E5%88%B8-%E9%A6%99%E6%B8%AF%E9%87%91%E8%9E%8D%E8%88%87%E8%B2%BF%E6%98%93%E7%94%B1%E9%87%8F%E5%88%B0%E5%80%BC%E6%8F%90%E5%8D%87",
     "timestamp": "2026-11-15T04:31:52.435Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "人情公價2026│去婚宴封幾多？高級酒店/酒店/酒樓/收餅卡公價一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196874943493574656172803.jpeg/BwDJK5PnXB74xhdqqqMy7a48OYl9Sip1_mcaBf5nGgU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60409198/%E4%BA%BA%E6%83%85%E5%85%AC%E5%83%B92026-%E5%8E%BB%E5%A9%9A%E5%AE%B4%E5%B0%81%E5%B9%BE%E5%A4%9A-%E9%AB%98%E7%B4%9A%E9%85%92%E5%BA%97-%E9%85%92%E5%BA%97-%E9%85%92%E6%A8%93-%E6%94%B6%E9%A4%85%E5%8D%A1%E5%85%AC%E5%83%B9%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-11-15T04:16:20.537Z",
     "strategy": ".content-card__main"
   }
 ];
