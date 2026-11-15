@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T08:59:02.524Z
+// Last updated: 2026-11-15T09:19:51.500Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "關嘉敏自爆遭前輩擅加親熱戲　澄清唔係鄧英敏：千祈唔好誤會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198676700217479168490127.png/ptUtluzTWIQ3TImn3v-yhpgglSpsm17rP_iypz_4sqc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411021/%E9%97%9C%E5%98%89%E6%95%8F%E8%87%AA%E7%88%86%E9%81%AD%E5%89%8D%E8%BC%A9%E6%93%85%E5%8A%A0%E8%A6%AA%E7%86%B1%E6%88%B2-%E6%BE%84%E6%B8%85%E5%94%94%E4%BF%82%E9%84%A7%E8%8B%B1%E6%95%8F-%E5%8D%83%E7%A5%88%E5%94%94%E5%A5%BD%E8%AA%A4%E6%9C%83",
+    "timestamp": "2026-11-15T09:19:51.500Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳爆開會飆罵英偉達高層「我希望你去死！」　還朝主管丟水樽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261104/1194705710647087104196582.png/iJUnrut920cmkU6-_b9pX1GqGZLW0fWBKha04yoWtOM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60407008/%E9%95%B7%E8%80%85%E6%97%A5%E5%84%AA%E6%83%A02026-%E9%A3%9F%E8%82%86-%E6%99%AF%E9%BB%9E-%E5%A8%9B%E6%A8%8286%E5%A4%A7%E6%8E%A8%E4%BB%8B-%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A-%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92",
     "timestamp": "2026-11-15T01:59:09.159Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大行觀點｜高盛：標普500指數明年可望再漲16%　點名三大布局方向",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240214/834449220193751040706159.jpeg/zkMZ3ISmefeMIYJV0cd2um8xLuDG9O7cQVftcEFX7XA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410909/%E5%A4%A7%E8%A1%8C%E8%A7%80%E9%BB%9E-%E9%AB%98%E7%9B%9B-%E6%A8%99%E6%99%AE500%E6%8C%87%E6%95%B8%E6%98%8E%E5%B9%B4%E5%8F%AF%E6%9C%9B%E5%86%8D%E6%BC%B216-%E9%BB%9E%E5%90%8D%E4%B8%89%E5%A4%A7%E5%B8%83%E5%B1%80%E6%96%B9%E5%90%91",
-    "timestamp": "2026-11-15T01:45:38.349Z",
     "strategy": ".content-card__main"
   }
 ];
