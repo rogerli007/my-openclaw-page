@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T19:17:38.881Z
+// Last updated: 2026-11-15T19:29:13.254Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正適應不良致精神崩潰：意識到自己缺乏「香港人精神」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319096509239296601954.jpeg/WblfDP1S1JeerxvRBB0KYCyYPN-dV5tiB__baAf_22g",
+    "url": "https://www.hk01.com/01TV/60410800/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%A9%E6%87%89%E4%B8%8D%E8%89%AF%E8%87%B4%E7%B2%BE%E7%A5%9E%E5%B4%A9%E6%BD%B0-%E6%84%8F%E8%AD%98%E5%88%B0%E8%87%AA%E5%B7%B1%E7%BC%BA%E4%B9%8F-%E9%A6%99%E6%B8%AF%E4%BA%BA%E7%B2%BE%E7%A5%9E",
+    "timestamp": "2026-11-15T19:29:13.254Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正適應不良致精神崩潰：意識到自己缺乏「香港人精神」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198752533078872064678239.jpeg/hY6y_PyuplCKiXbBJV2vyK2aWjYuK7PzosmRsYfJkbE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411100/%E6%97%BA%E8%A7%92%E9%9C%93%E8%99%B9%E6%8B%9B%E7%89%8C-the-weeknd%E6%96%B0%E6%AD%8Cmv%E6%8E%80%E6%89%93%E5%8D%A1%E6%BD%AE-%E5%BE%B7%E5%9C%8B%E5%AE%A2%E7%82%BA%E6%8B%8D%E6%94%9D%E9%9C%93%E8%99%B9%E8%A8%AA%E6%B8%AF",
     "timestamp": "2026-11-15T13:59:05.814Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "楊超越《今天是太陽雨》Netflix熱播！零濾鏡真實膚質獲網民激讚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198603466134523904147968.png/f-uS8Cz_3443TI9rBNTFB0F1urXhIGc7A-7XMQPu1zE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410925/%E6%A5%8A%E8%B6%85%E8%B6%8A-%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-netflix%E7%86%B1%E6%92%AD-%E9%9B%B6%E6%BF%BE%E9%8F%A1%E7%9C%9F%E5%AF%A6%E8%86%9A%E8%B3%AA%E7%8D%B2%E7%B6%B2%E6%B0%91%E6%BF%80%E8%AE%9A",
-    "timestamp": "2026-11-15T13:44:47.469Z",
     "strategy": ".content-card__main"
   }
 ];
