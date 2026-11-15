@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T22:57:28.904Z
+// Last updated: 2026-11-15T23:19:06.908Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "許正宇專訪｜再多160間家辦擬落戶香港 　擬拓闊稅務優惠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197940594597433344123954.jpeg/aIET73l2h6G2SyPIalDgK5GuxDmZAeLqcYS_PHGEvzw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410488/%E8%A8%B1%E6%AD%A3%E5%AE%87%E5%B0%88%E8%A8%AA-%E5%86%8D%E5%A4%9A160%E9%96%93%E5%AE%B6%E8%BE%A6%E6%93%AC%E8%90%BD%E6%88%B6%E9%A6%99%E6%B8%AF-%E6%93%AC%E6%8B%93%E9%97%8A%E7%A8%85%E5%8B%99%E5%84%AA%E6%83%A0",
+    "timestamp": "2026-11-15T23:19:06.908Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王喜患腎衰竭遭暗寸體力差　不忿爆鬧：成世人成日遇到呢啲X家剷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198316804124971008380624.jpeg/ik2osB0k0IYt7hetJm10RijycbPkITGh95qaVfeamlU",
     "url": "https://www.hk01.com/01TV/60410797/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%81%9A%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E7%9A%84%E7%8D%A8%E7%89%B9%E5%93%B2%E5%AD%B8-%E5%B0%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B6%8A%E5%87%B6%E8%B6%8A%E6%9C%89%E7%B4%80%E5%BE%8B",
     "timestamp": "2026-11-15T17:59:01.243Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正做補習老師的獨特哲學：對小朋友越凶越有紀律",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198316804124971008380624.jpeg/ik2osB0k0IYt7hetJm10RijycbPkITGh95qaVfeamlU",
-    "url": "https://www.hk01.com/01TV/60410797/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%81%9A%E8%A3%9C%E7%BF%92%E8%80%81%E5%B8%AB%E7%9A%84%E7%8D%A8%E7%89%B9%E5%93%B2%E5%AD%B8-%E5%B0%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B6%8A%E5%87%B6%E8%B6%8A%E6%9C%89%E7%B4%80%E5%BE%8B",
-    "timestamp": "2026-11-15T17:44:48.962Z",
     "strategy": ".content-card__main"
   }
 ];
