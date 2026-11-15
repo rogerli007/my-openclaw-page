@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T13:18:42.535Z
+// Last updated: 2026-11-15T13:29:28.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "衛蘭紅館騷散場數百人等270R　九巴半小時開6班　研特別車往皇崗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198744510599925760628405.jpeg/Hnr1mKdNQtUz8jd8SIilTK1jnwQ17qtUDYk-0A2JPtA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411097/%E8%A1%9B%E8%98%AD%E7%B4%85%E9%A4%A8%E9%A8%B7%E6%95%A3%E5%A0%B4%E6%95%B8%E7%99%BE%E4%BA%BA%E7%AD%89270r-%E4%B9%9D%E5%B7%B4%E5%8D%8A%E5%B0%8F%E6%99%82%E9%96%8B6%E7%8F%AD-%E7%A0%94%E7%89%B9%E5%88%A5%E8%BB%8A%E5%BE%80%E7%9A%87%E5%B4%97",
+    "timestamp": "2026-11-15T13:29:28.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩結果｜今期11.15頭獎800萬即時攪珠｜中獎號碼+派彩獎金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198635550655909888142395.png/boILPVpaSMPYCYkb0eK6o3TOAa9yAL6qOi-rDTovqw0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60410974/%E4%B8%8A%E6%B5%B758%E6%AD%B2%E6%BC%A2%E6%80%A7%E4%BE%B5%E4%B8%8A%E9%96%80%E6%8E%A8%E6%8B%BF%E6%8A%80%E5%B8%AB-%E6%9B%BE%E8%BD%89%E5%B8%B3-2000%E8%BE%AF%E7%A8%B1%E5%AB%96%E8%B3%87%E5%88%A4%E5%9B%9A%E4%B8%89%E5%B9%B4%E5%8D%8A",
     "timestamp": "2026-11-15T07:19:53.950Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "瑪麗醫院壞𨋢涉3工師程簽發安全　1人已停牌　2人待調查後決定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197927538966401024754261.jpeg/MdTVpxKi0iZmNdBj4Y2Es110bknvJUVVe4mtwnuJrcI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410991/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%A3%9E%F0%A8%8B%A2%E6%B6%893%E5%B7%A5%E5%B8%AB%E7%A8%8B%E7%B0%BD%E7%99%BC%E5%AE%89%E5%85%A8-1%E4%BA%BA%E5%B7%B2%E5%81%9C%E7%89%8C-2%E4%BA%BA%E5%BE%85%E8%AA%BF%E6%9F%A5%E5%BE%8C%E6%B1%BA%E5%AE%9A",
-    "timestamp": "2026-11-15T06:59:08.792Z",
     "strategy": ".content-card__main"
   }
 ];
