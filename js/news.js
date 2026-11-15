@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T15:59:01.462Z
+// Last updated: 2026-11-15T16:19:53.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃德花園疑電錶房總掣故障　5座大廈升降機停電　中電人員到場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198789046302674944156704.jpeg/6tNm2xrsvGaZEq6fTz3w1NYhjDzlxtfHK3KDbQFyg20?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411115/%E8%8D%83%E5%BE%B7%E8%8A%B1%E5%9C%92%E7%96%91%E9%9B%BB%E9%8C%B6%E6%88%BF%E7%B8%BD%E6%8E%A3%E6%95%85%E9%9A%9C-5%E5%BA%A7%E5%A4%A7%E5%BB%88%E5%8D%87%E9%99%8D%E6%A9%9F%E5%81%9C%E9%9B%BB-%E4%B8%AD%E9%9B%BB%E4%BA%BA%E5%93%A1%E5%88%B0%E5%A0%B4",
+    "timestamp": "2026-11-15T16:19:53.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳山聰揭伍詠薇心理狀況　爆與陳敏之私下關係：前幾日通完電話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198702307315814400579614.jpeg/ScUyG8FKzFAZ302oyZbuCE06dCfnNJ-jCPlRmgj5UZo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411053/%E6%A5%8A%E8%8C%9C%E5%A0%AF%E8%AE%9A%E7%BE%85%E5%AD%90%E6%BA%A2%E7%9D%87%E5%8A%87%E4%BF%BE%E8%B6%B3%E6%83%85%E7%B7%92%E5%83%B9%E5%80%BC-%E9%99%B3%E8%B1%AA%E6%8B%92%E7%9D%87%E9%99%B3%E8%8C%B5%E5%AA%BA%E8%A6%AA%E7%86%B1%E6%88%B2-%E5%86%87%E7%9C%BC%E7%9D%87",
     "timestamp": "2026-11-15T10:59:03.678Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美日才達防範犯罪協議　沖繩美軍繼上尉酒駕　兵長涉露下體再被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250609/1008714725447438336578613.jpeg/CuVTBaEkbHaAKppSKftY8xRw3BS5kELPMfeipzH3oqc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411057/%E7%BE%8E%E6%97%A5%E6%89%8D%E9%81%94%E9%98%B2%E7%AF%84%E7%8A%AF%E7%BD%AA%E5%8D%94%E8%AD%B0-%E6%B2%96%E7%B9%A9%E7%BE%8E%E8%BB%8D%E7%B9%BC%E4%B8%8A%E5%B0%89%E9%85%92%E9%A7%95-%E5%85%B5%E9%95%B7%E6%B6%89%E9%9C%B2%E4%B8%8B%E9%AB%94%E5%86%8D%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-15T10:44:55.137Z",
     "strategy": ".content-card__main"
   }
 ];
