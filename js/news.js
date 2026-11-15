@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T23:45:06.101Z
+// Last updated: 2026-11-15T23:59:08.882Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基促美方解除「星盾」限制　籲站在歷史正確一邊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190861607933054976815794.jpeg/CF-HDBnuAKdsO-bmz6SA9QWZr4yn88jUsvnwfLL58Hw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411129/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E4%BF%83%E7%BE%8E%E6%96%B9%E8%A7%A3%E9%99%A4-%E6%98%9F%E7%9B%BE-%E9%99%90%E5%88%B6-%E7%B1%B2%E7%AB%99%E5%9C%A8%E6%AD%B7%E5%8F%B2%E6%AD%A3%E7%A2%BA%E4%B8%80%E9%82%8A",
+    "timestamp": "2026-11-15T23:59:08.882Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玫瑰戰爭劇情｜鄺潔楹迷幻接客遭偷拍　援交片香艷畫面極震撼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198317578703867904814605.jpeg/JMXNQUJ6PXwI0s6qtqHZuR5_QhxQKvV9PNEqsjzRKrI",
     "url": "https://www.hk01.com/01TV/60410799/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E5%BB%BA%E7%AF%89%E7%B3%BB%E7%9A%84%E7%84%A1%E5%A5%88-%E6%B2%92%E9%8C%A2%E8%B2%B7%E6%9D%90%E6%96%99%E6%A8%A1%E5%9E%8B%E5%8F%AA%E8%83%BD%E7%86%AC%E5%A4%9C%E8%A6%AA%E6%89%8B%E7%A0%8C",
     "timestamp": "2026-11-15T18:56:14.375Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正談建築系的無奈：沒錢買材料模型只能熬夜親手砌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198317578703867904814605.jpeg/JMXNQUJ6PXwI0s6qtqHZuR5_QhxQKvV9PNEqsjzRKrI",
-    "url": "https://www.hk01.com/01TV/60410799/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E5%BB%BA%E7%AF%89%E7%B3%BB%E7%9A%84%E7%84%A1%E5%A5%88-%E6%B2%92%E9%8C%A2%E8%B2%B7%E6%9D%90%E6%96%99%E6%A8%A1%E5%9E%8B%E5%8F%AA%E8%83%BD%E7%86%AC%E5%A4%9C%E8%A6%AA%E6%89%8B%E7%A0%8C",
-    "timestamp": "2026-11-15T18:45:19.658Z",
     "strategy": ".content-card__main"
   }
 ];
