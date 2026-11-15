@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T03:22:18.729Z
+// Last updated: 2026-11-15T03:33:39.160Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "皇崗口岸兩車跣胎撞牆　政府：相關路段無鋪防滑物料　本周初加鋪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198318756384739328407961.jpeg/NTDSMWGRwN0fKLoPB0upkAPjm6zKiNQf3v6_k97-v5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410938/%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E5%85%A9%E8%BB%8A%E8%B7%A3%E8%83%8E%E6%92%9E%E7%89%86-%E6%94%BF%E5%BA%9C-%E7%9B%B8%E9%97%9C%E8%B7%AF%E6%AE%B5%E7%84%A1%E9%8B%AA%E9%98%B2%E6%BB%91%E7%89%A9%E6%96%99-%E6%9C%AC%E5%91%A8%E5%88%9D%E5%8A%A0%E9%8B%AA",
+    "timestamp": "2026-11-15T03:33:39.160Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西九M+博物館男女不雅影片瘋傳！伸手入褲邊行邊摸　身份曝光更誇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195412069311057920164978.jpeg/tMj2mFXqG4qMYZxvNlb3IUCtjmss73bEY6NMgGOjTIA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410898/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8Dmeta%E7%BD%B0%E6%AC%BE8-05%E5%84%84%E6%AD%90%E5%85%83-%E6%8C%87%E5%85%B6%E6%9C%AA%E7%B6%93%E7%94%A8%E6%88%B6%E5%90%8C%E6%84%8F%E5%AD%98%E5%8F%96%E7%9B%B8%E7%B0%BF",
     "timestamp": "2026-11-14T20:59:01.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正的大學生活社交：讀大學不交朋友談戀愛就白讀了",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198313090333020160075814.jpeg/VAd-1wJtwWDMgRnKYJhU8cnlCJOZ6MB5srxQA7K8UAM",
-    "url": "https://www.hk01.com/01TV/60410790/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%9A%84%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%B4%BB%E7%A4%BE%E4%BA%A4-%E8%AE%80%E5%A4%A7%E5%AD%B8%E4%B8%8D%E4%BA%A4%E6%9C%8B%E5%8F%8B%E8%AB%87%E6%88%80%E6%84%9B%E5%B0%B1%E7%99%BD%E8%AE%80%E4%BA%86",
-    "timestamp": "2026-11-14T20:18:56.424Z",
     "strategy": ".content-card__main"
   }
 ];
