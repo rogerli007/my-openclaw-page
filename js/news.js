@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T18:45:19.658Z
+// Last updated: 2026-11-15T18:56:14.375Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正談建築系的無奈：沒錢買材料模型只能熬夜親手砌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198317578703867904814605.jpeg/JMXNQUJ6PXwI0s6qtqHZuR5_QhxQKvV9PNEqsjzRKrI",
+    "url": "https://www.hk01.com/01TV/60410799/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E5%BB%BA%E7%AF%89%E7%B3%BB%E7%9A%84%E7%84%A1%E5%A5%88-%E6%B2%92%E9%8C%A2%E8%B2%B7%E6%9D%90%E6%96%99%E6%A8%A1%E5%9E%8B%E5%8F%AA%E8%83%BD%E7%86%AC%E5%A4%9C%E8%A6%AA%E6%89%8B%E7%A0%8C",
+    "timestamp": "2026-11-15T18:56:14.375Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正談建築系的無奈：沒錢買材料模型只能熬夜親手砌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198744510599925760628405.jpeg/Hnr1mKdNQtUz8jd8SIilTK1jnwQ17qtUDYk-0A2JPtA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411097/%E8%A1%9B%E8%98%AD%E7%B4%85%E9%A4%A8%E9%A8%B7%E6%95%A3%E5%A0%B4%E6%95%B8%E7%99%BE%E4%BA%BA%E7%AD%89270r-%E4%B9%9D%E5%B7%B4%E5%8D%8A%E5%B0%8F%E6%99%82%E9%96%8B6%E7%8F%AD-%E7%A0%94%E7%89%B9%E5%88%A5%E8%BB%8A%E5%BE%80%E7%9A%87%E5%B4%97",
     "timestamp": "2026-11-15T13:29:28.394Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "六合彩結果｜今期11.15頭獎800萬即時攪珠｜中獎號碼+派彩獎金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162087277900337152218754.png/aDSWdXWhOmWC1NfKczj_tfHQX3yog8jaMcfvwTHH78E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411085/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-%E4%BB%8A%E6%9C%9F11-15%E9%A0%AD%E7%8D%8E800%E8%90%AC%E5%8D%B3%E6%99%82%E6%94%AA%E7%8F%A0-%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC-%E6%B4%BE%E5%BD%A9%E7%8D%8E%E9%87%91",
-    "timestamp": "2026-11-15T13:18:42.535Z",
     "strategy": ".content-card__main"
   }
 ];
