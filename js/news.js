@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T17:59:01.243Z
+// Last updated: 2026-11-15T18:21:19.975Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正談建築系的無奈：沒錢買材料模型只能熬夜親手砌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198317578703867904814605.jpeg/JMXNQUJ6PXwI0s6qtqHZuR5_QhxQKvV9PNEqsjzRKrI",
+    "url": "https://www.hk01.com/01TV/60410799/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E5%BB%BA%E7%AF%89%E7%B3%BB%E7%9A%84%E7%84%A1%E5%A5%88-%E6%B2%92%E9%8C%A2%E8%B2%B7%E6%9D%90%E6%96%99%E6%A8%A1%E5%9E%8B%E5%8F%AA%E8%83%BD%E7%86%AC%E5%A4%9C%E8%A6%AA%E6%89%8B%E7%A0%8C",
+    "timestamp": "2026-11-15T18:21:19.975Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正做補習老師的獨特哲學：對小朋友越凶越有紀律",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198296912957018112493160.jpeg/fVlUXQUtbNH0qEAoxO8jjRx-4dNrnMqcuCielrgonpY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411091/%E9%BB%83%E4%BB%81%E5%8B%B3-%E7%B4%90%E6%99%82-%E5%85%A9%E7%AF%87%E6%96%87%E7%AB%A0%E7%AB%9F%E5%B0%87%E4%B8%AD%E7%BE%8E%E7%B6%B2%E5%8F%8B%E5%9C%98%E7%B5%90%E8%B5%B7%E4%BE%86-%E9%80%A3%E9%A6%AC%E6%96%AF%E5%85%8B%E4%B9%9F%E7%99%BC%E8%81%B2",
     "timestamp": "2026-11-15T12:59:01.019Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北京地鐵爆老年旅遊團集體逃票　地鐵：對長者無免費政策｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198733659469778944047518.jpeg/fHeitO4d2vFSPPSK6QqK_UyV_-WVqjBuyHEW3shxFt4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411083/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%90%B5%E7%88%86%E8%80%81%E5%B9%B4%E6%97%85%E9%81%8A%E5%9C%98%E9%9B%86%E9%AB%94%E9%80%83%E7%A5%A8-%E5%9C%B0%E9%90%B5-%E5%B0%8D%E9%95%B7%E8%80%85%E7%84%A1%E5%85%8D%E8%B2%BB%E6%94%BF%E7%AD%96-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-15T12:35:33.290Z",
     "strategy": ".content-card__main"
   }
 ];
