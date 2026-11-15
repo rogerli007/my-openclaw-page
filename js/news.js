@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T14:59:00.122Z
+// Last updated: 2026-11-15T15:26:12.158Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林子祥南京演唱會掀萬人大合唱　葉蒨文親解跌倒驚魂：我只係老咗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198703206994022400236098.jpeg/hfP6trQug2NTVaidmj6PVDRFdQOS1XKfgjLlDYIy5Q0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411041/%E6%9E%97%E5%AD%90%E7%A5%A5%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E6%9C%83%E6%8E%80%E8%90%AC%E4%BA%BA%E5%A4%A7%E5%90%88%E5%94%B1-%E8%91%89%E8%92%A8%E6%96%87%E8%A6%AA%E8%A7%A3%E8%B7%8C%E5%80%92%E9%A9%9A%E9%AD%82-%E6%88%91%E5%8F%AA%E4%BF%82%E8%80%81%E5%92%97",
+    "timestamp": "2026-11-15T15:26:12.158Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "薛家燕拍《真情》僅46歲與姚子羚同齡　吳孟達演胡鐵花未滿30歲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198694700530274304453217.jpeg/_4X8OrUj2_vjv4kP0gvqVXl_qWV3wLgrPfkXeD35F3g",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411051/%E5%A4%AE%E8%A6%96%E9%A6%96%E6%9B%9D%E7%84%A1%E5%81%B5-7%E9%BB%83%E5%B2%A9%E5%B3%B6-%E5%A8%81%E6%87%BE%E5%B7%A1%E8%88%AA-%E5%85%A9%E8%90%AC%E7%B1%B3%E9%AB%98%E7%A9%BA%E7%9B%A3%E6%8E%A7%E8%8F%B2%E7%BE%8E%E5%9F%BA%E5%9C%B0-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-15T09:59:07.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地豬肉價格暴跌創10年新低　仲平過蔬菜　有超市驚現每斤1.98元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198677543947866112795084.jpeg/JKKUd8juTjDvuRzC0BDxOjFgO5jJp9iD-sWZpvrFmaY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411023/%E5%85%A7%E5%9C%B0%E8%B1%AC%E8%82%89%E5%83%B9%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%89%B510%E5%B9%B4%E6%96%B0%E4%BD%8E-%E4%BB%B2%E5%B9%B3%E9%81%8E%E8%94%AC%E8%8F%9C-%E6%9C%89%E8%B6%85%E5%B8%82%E9%A9%9A%E7%8F%BE%E6%AF%8F%E6%96%A41-98%E5%85%83",
-    "timestamp": "2026-11-15T09:45:07.971Z",
     "strategy": ".content-card__main"
   }
 ];
