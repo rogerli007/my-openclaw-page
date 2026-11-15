@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T23:32:09.546Z
+// Last updated: 2026-11-15T23:45:06.101Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "玫瑰戰爭劇情｜鄺潔楹迷幻接客遭偷拍　援交片香艷畫面極震撼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198797418204762112890174.jpeg/6l1nfY1WVZA0STgTJf-_YWDdM8M9-2ALD2_44w9v-OM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411120/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD%E5%8A%87%E6%83%85-%E9%84%BA%E6%BD%94%E6%A5%B9%E8%BF%B7%E5%B9%BB%E6%8E%A5%E5%AE%A2%E9%81%AD%E5%81%B7%E6%8B%8D-%E6%8F%B4%E4%BA%A4%E7%89%87%E9%A6%99%E8%89%B7%E7%95%AB%E9%9D%A2%E6%A5%B5%E9%9C%87%E6%92%BC",
+    "timestamp": "2026-11-15T23:45:06.101Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許正宇專訪｜繁忙爸爸講親子質量 　AI時代著重培育發掘的能力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198317578703867904814605.jpeg/JMXNQUJ6PXwI0s6qtqHZuR5_QhxQKvV9PNEqsjzRKrI",
     "url": "https://www.hk01.com/01TV/60410799/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E5%BB%BA%E7%AF%89%E7%B3%BB%E7%9A%84%E7%84%A1%E5%A5%88-%E6%B2%92%E9%8C%A2%E8%B2%B7%E6%9D%90%E6%96%99%E6%A8%A1%E5%9E%8B%E5%8F%AA%E8%83%BD%E7%86%AC%E5%A4%9C%E8%A6%AA%E6%89%8B%E7%A0%8C",
     "timestamp": "2026-11-15T18:45:19.658Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正談建築系的無奈：沒錢買材料模型只能熬夜親手砌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198317578703867904814605.jpeg/JMXNQUJ6PXwI0s6qtqHZuR5_QhxQKvV9PNEqsjzRKrI",
-    "url": "https://www.hk01.com/01TV/60410799/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E5%BB%BA%E7%AF%89%E7%B3%BB%E7%9A%84%E7%84%A1%E5%A5%88-%E6%B2%92%E9%8C%A2%E8%B2%B7%E6%9D%90%E6%96%99%E6%A8%A1%E5%9E%8B%E5%8F%AA%E8%83%BD%E7%86%AC%E5%A4%9C%E8%A6%AA%E6%89%8B%E7%A0%8C",
-    "timestamp": "2026-11-15T18:21:19.975Z",
     "strategy": ".content-card__main"
   }
 ];
