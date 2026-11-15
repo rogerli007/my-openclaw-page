@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T07:58:42.678Z
+// Last updated: 2026-11-15T08:22:34.471Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普政府計劃縮小歐洲駐軍裁減規模　或只減約5000人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220212/569142793755168768791234.jpeg/CSGxGxQAtn0Rdvt1CCGOMvJVxr4mmtfHaN5PvmjeT74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411018/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A8%88%E5%8A%83%E7%B8%AE%E5%B0%8F%E6%AD%90%E6%B4%B2%E9%A7%90%E8%BB%8D%E8%A3%81%E6%B8%9B%E8%A6%8F%E6%A8%A1-%E6%88%96%E5%8F%AA%E6%B8%9B%E7%B4%845000%E4%BA%BA",
+    "timestamp": "2026-11-15T08:22:34.471Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【今日當年】梅艷芳告別演唱會完美落幕　蘇永康曾爆後備方案救場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190861607933054976815794.jpeg/CF-HDBnuAKdsO-bmz6SA9QWZr4yn88jUsvnwfLL58Hw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60410901/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%BE%8E%E5%9C%8B%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA%E7%83%8F%E5%85%8B%E8%98%AD%E5%89%B2%E8%AE%93%E9%A0%93%E5%B7%B4%E6%96%AF-%E4%BB%A5%E6%8F%9B%E5%8F%96%E5%8A%A0%E5%85%A5%E5%8C%97%E7%B4%84",
     "timestamp": "2026-11-15T01:00:36.209Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "何依婷富貴行頭出席馬主協會晚宴　自爆抽中大獎鑽石名錶手氣極旺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330517565476864986513.jpeg/CufeeLMmyL0E6VNWhTuZVgxelckEGg4lxGFaosRhWqI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60409272/%E4%BD%95%E4%BE%9D%E5%A9%B7%E5%AF%8C%E8%B2%B4%E8%A1%8C%E9%A0%AD%E5%87%BA%E5%B8%AD%E9%A6%AC%E4%B8%BB%E5%8D%94%E6%9C%83%E6%99%9A%E5%AE%B4-%E8%87%AA%E7%88%86%E6%8A%BD%E4%B8%AD%E5%A4%A7%E7%8D%8E%E9%91%BD%E7%9F%B3%E5%90%8D%E9%8C%B6%E6%89%8B%E6%B0%A3%E6%A5%B5%E6%97%BA",
-    "timestamp": "2026-11-15T00:39:28.920Z",
     "strategy": ".content-card__main"
   }
 ];
