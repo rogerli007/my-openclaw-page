@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T02:44:05.156Z
+// Last updated: 2026-11-16T03:24:22.752Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜英偉達主管發長文揭私下人品：動用人脈助我抗癌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198949662363488256409785.jpeg/aBJ5bzoLpjzg4kekcsvoDv0fMP3Ij1wKCevtCgnr7Qo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411170/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E4%B8%BB%E7%AE%A1%E7%99%BC%E9%95%B7%E6%96%87%E6%8F%AD%E7%A7%81%E4%B8%8B%E4%BA%BA%E5%93%81-%E5%8B%95%E7%94%A8%E4%BA%BA%E8%84%88%E5%8A%A9%E6%88%91%E6%8A%97%E7%99%8C",
+    "timestamp": "2026-11-16T03:24:22.752Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李政宰停工1年近況曝光　嚴重爛臉無法拍戲　拒曬病照怕粉絲離開",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319907985428480481567.jpeg/c4LHjystEwABSA5EXwJC-dk0A0ieweMmtMUp-rTFKfo",
     "url": "https://www.hk01.com/01TV/60410802/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%80%83%E8%B7%91%E8%87%B3%E5%8D%97%E7%BE%8E%E6%94%BE%E6%B5%AA-%E9%81%87%E6%B4%97%E5%8A%AB%E8%A2%AB%E8%BF%AB-%E6%B8%85%E7%A9%BA%E8%8D%B7%E5%8C%85-%E8%BF%94%E6%B8%AF",
     "timestamp": "2026-11-15T20:43:18.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正逃跑至南美放浪：遇洗劫被迫「清空荷包」返港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319907985428480481567.jpeg/c4LHjystEwABSA5EXwJC-dk0A0ieweMmtMUp-rTFKfo",
-    "url": "https://www.hk01.com/01TV/60410802/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%80%83%E8%B7%91%E8%87%B3%E5%8D%97%E7%BE%8E%E6%94%BE%E6%B5%AA-%E9%81%87%E6%B4%97%E5%8A%AB%E8%A2%AB%E8%BF%AB-%E6%B8%85%E7%A9%BA%E8%8D%B7%E5%8C%85-%E8%BF%94%E6%B8%AF",
-    "timestamp": "2026-11-15T20:19:35.405Z",
     "strategy": ".content-card__main"
   }
 ];
