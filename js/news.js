@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T22:45:12.952Z
+// Last updated: 2026-11-16T22:59:00.418Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC｜俄方：中美俄峰會主要議題確定　正安排俄美雙邊會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197600237774966784593148.jpeg/hu4YPWtHRcN9f_56vD03GOhIOu_nm8LHzUssHc1LLB0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411521/apec-%E4%BF%84%E6%96%B9-%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%B3%B0%E6%9C%83%E4%B8%BB%E8%A6%81%E8%AD%B0%E9%A1%8C%E7%A2%BA%E5%AE%9A-%E6%AD%A3%E5%AE%89%E6%8E%92%E4%BF%84%E7%BE%8E%E9%9B%99%E9%82%8A%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-11-16T22:59:00.418Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角宜安大廈單位失火　冒烈焰濃煙滾滾　消防升雲梯救熄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197975815686459392953406.jpeg/a7WPK9iRLvDxj-tMUBRHU0MWK-0C3ivvzIkY-syJGPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411489/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%B6%B2%E4%B8%8A%E9%80%BE18%E8%90%AC%E4%BA%BA%E8%81%AF%E7%BD%B2-%E7%B1%B2%E6%81%A2%E5%BE%A9%E9%BB%83%E4%BB%81%E5%8B%B3ceo%E8%81%B7%E5%8B%99",
     "timestamp": "2026-11-16T16:45:17.819Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜網上逾18萬人聯署　籲恢復黃仁勳CEO職務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197975815686459392953406.jpeg/a7WPK9iRLvDxj-tMUBRHU0MWK-0C3ivvzIkY-syJGPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411489/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%B6%B2%E4%B8%8A%E9%80%BE18%E8%90%AC%E4%BA%BA%E8%81%AF%E7%BD%B2-%E7%B1%B2%E6%81%A2%E5%BE%A9%E9%BB%83%E4%BB%81%E5%8B%B3ceo%E8%81%B7%E5%8B%99",
-    "timestamp": "2026-11-16T16:33:11.851Z",
     "strategy": ".content-card__main"
   }
 ];
