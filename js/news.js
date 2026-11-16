@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T17:59:20.605Z
+// Last updated: 2026-11-16T18:35:00.044Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC直擊｜工商領導人峰會前夕　前海會場鐵欄杆戒備群眾聚集拍攝",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199184230655987712349675.png/YaivM7tPiYnqK4qKzay25kMdl4g4HnPt7zp4Oe86eDk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411498/apec%E7%9B%B4%E6%93%8A-%E5%B7%A5%E5%95%86%E9%A0%98%E5%B0%8E%E4%BA%BA%E5%B3%B0%E6%9C%83%E5%89%8D%E5%A4%95-%E5%89%8D%E6%B5%B7%E6%9C%83%E5%A0%B4%E9%90%B5%E6%AC%84%E6%9D%86%E6%88%92%E5%82%99%E7%BE%A4%E7%9C%BE%E8%81%9A%E9%9B%86%E6%8B%8D%E6%94%9D",
+    "timestamp": "2026-11-16T18:35:00.044Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜特朗普：不介意黃仁勳復任CEO　不知道黃樂是否間諜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199062467280375808173450.jpeg/Pw78qQTSfImPYW4DQlEC2eEXIRWT7WnG-D9w2fg_cNk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411394/%E9%BB%83%E6%97%A5%E8%8F%AF%E5%8C%97%E4%B8%8A%E8%B7%9F%E6%98%8E%E6%98%9F%E8%B6%B3%E7%90%83%E9%9A%8A%E4%BD%9C%E8%B3%BD-%E7%AB%9F%E5%AB%8C%E6%A3%84%E7%95%B6%E5%9C%B0%E7%B2%89%E7%B5%B2%E6%87%89%E6%8F%B4%E7%89%A9-%E9%80%99%E5%80%8B%E5%A4%9A%E9%9B%A3%E7%9C%8B",
     "timestamp": "2026-11-16T11:05:20.117Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "aespa剛捧MMA大賞即遭批「似中學生才藝匯演」 　拆解舞台3大災難",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198961801186775040692785.png/fIPPGoE5Zt9P1XYWci9rXMgn8CHkRQ_q8WCfWvFgn1o",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411155/aespa%E5%89%9B%E6%8D%A7mma%E5%A4%A7%E8%B3%9E%E5%8D%B3%E9%81%AD%E6%89%B9-%E4%BC%BC%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%89%8D%E8%97%9D%E5%8C%AF%E6%BC%94-%E6%8B%86%E8%A7%A3%E8%88%9E%E5%8F%B03%E5%A4%A7%E7%81%BD%E9%9B%A3",
-    "timestamp": "2026-11-16T10:49:25.185Z",
     "strategy": ".content-card__main"
   }
 ];
