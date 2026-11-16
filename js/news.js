@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T10:37:45.673Z
+// Last updated: 2026-11-16T10:49:25.185Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "aespa剛捧MMA大賞即遭批「似中學生才藝匯演」 　拆解舞台3大災難",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198961801186775040692785.png/fIPPGoE5Zt9P1XYWci9rXMgn8CHkRQ_q8WCfWvFgn1o",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411155/aespa%E5%89%9B%E6%8D%A7mma%E5%A4%A7%E8%B3%9E%E5%8D%B3%E9%81%AD%E6%89%B9-%E4%BC%BC%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%89%8D%E8%97%9D%E5%8C%AF%E6%BC%94-%E6%8B%86%E8%A7%A3%E8%88%9E%E5%8F%B03%E5%A4%A7%E7%81%BD%E9%9B%A3",
+    "timestamp": "2026-11-16T10:49:25.185Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本電訊商DOCOMO本月第三次故障　5G服務癱瘓達6小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198683185941057536492136.png/Dv0LJznC_G90e5MHzfUziNxhnx1qClknt3e3CLd3twg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411035/%E6%9D%8E%E6%94%BF%E5%AE%B0%E5%81%9C%E5%B7%A51%E5%B9%B4%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E5%9A%B4%E9%87%8D%E7%88%9B%E8%87%89%E7%84%A1%E6%B3%95%E6%8B%8D%E6%88%B2-%E6%8B%92%E6%9B%AC%E7%97%85%E7%85%A7%E6%80%95%E7%B2%89%E7%B5%B2%E9%9B%A2%E9%96%8B",
     "timestamp": "2026-11-16T02:44:05.156Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普首談全美航班停飛事故：都怪拜登政府留爛攤子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196771561852375040263098.jpeg/et_ewFq4QiP-s6VFu5cXm9JuOKd_hYU9yj5oW8o-aFs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411140/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%AB%87%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B%E4%BA%8B%E6%95%85-%E9%83%BD%E6%80%AA%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%95%99%E7%88%9B%E6%94%A4%E5%AD%90",
-    "timestamp": "2026-11-16T01:51:16.783Z",
     "strategy": ".content-card__main"
   }
 ];
