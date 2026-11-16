@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T11:48:29.733Z
+// Last updated: 2026-11-16T12:01:39.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑改革｜督導委員會首次開會　陳國基要求迅速落實獨委會建議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199084134337613824057629.jpeg/skxUdGWzcZNmfaese7fToksnglxm5wpbKdabZCnWm2Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411458/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%94%B9%E9%9D%A9-%E7%9D%A3%E5%B0%8E%E5%A7%94%E5%93%A1%E6%9C%83%E9%A6%96%E6%AC%A1%E9%96%8B%E6%9C%83-%E9%99%B3%E5%9C%8B%E5%9F%BA%E8%A6%81%E6%B1%82%E8%BF%85%E9%80%9F%E8%90%BD%E5%AF%A6%E7%8D%A8%E5%A7%94%E6%9C%83%E5%BB%BA%E8%AD%B0",
+    "timestamp": "2026-11-16T12:01:39.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "恒地50周年免費睇展覽！　7.5米長Central Yards模型首曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250606/1007578670941868032741530.jpeg/bIKs_kS9OMHxo63mHJ22-dJQnBJUEtZuLuRppS7kaaU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411168/bigbang%E6%BC%94%E5%94%B1%E6%9C%83%E5%81%87%E9%A3%9B%E5%85%A7%E6%83%85-%E8%8B%A6%E4%B8%BB%E4%B8%8D%E5%BF%BF%E8%B2%B7%E4%BD%9C%E5%BB%A2%E9%96%80%E7%A5%A8-%E6%89%AE%E5%86%8D%E8%B2%B7%E9%A3%9B%E5%A0%B1%E8%AD%A6%E6%8B%89%E4%BA%BA",
     "timestamp": "2026-11-16T04:23:18.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本新移民政策掀日語考證潮　永居門檻提高　留學生憂無法續留下",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198936886517698560814065.jpeg/5lWlZxIDx-jA16PyhKtrP0jxPNAIMR_n492UA-PdlAM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411149/%E6%97%A5%E6%9C%AC%E6%96%B0%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96%E6%8E%80%E6%97%A5%E8%AA%9E%E8%80%83%E8%AD%89%E6%BD%AE-%E6%B0%B8%E5%B1%85%E9%96%80%E6%AA%BB%E6%8F%90%E9%AB%98-%E7%95%99%E5%AD%B8%E7%94%9F%E6%86%82%E7%84%A1%E6%B3%95%E7%BA%8C%E7%95%99%E4%B8%8B",
-    "timestamp": "2026-11-16T03:56:10.058Z",
     "strategy": ".content-card__main"
   }
 ];
