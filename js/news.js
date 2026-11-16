@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T04:23:18.680Z
+// Last updated: 2026-11-16T04:39:45.307Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本手機定位資料流海外　日經：首相官邸自衛隊設施等遭起底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231216/812723455790157824168407.jpeg/ejCg7V1T083tprPsTACtf1ljrqYl1aHlygsZpMoLGaQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411227/%E6%97%A5%E6%9C%AC%E6%89%8B%E6%A9%9F%E5%AE%9A%E4%BD%8D%E8%B3%87%E6%96%99%E6%B5%81%E6%B5%B7%E5%A4%96-%E6%97%A5%E7%B6%93-%E9%A6%96%E7%9B%B8%E5%AE%98%E9%82%B8%E8%87%AA%E8%A1%9B%E9%9A%8A%E8%A8%AD%E6%96%BD%E7%AD%89%E9%81%AD%E8%B5%B7%E5%BA%95",
+    "timestamp": "2026-11-16T04:39:45.307Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG演唱會假飛內情｜苦主不忿買作廢門票　扮再買飛報警拉人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411126/%E9%A0%86%E5%A4%A9%E9%82%A8%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E9%87%91%E9%8C%A2%E7%88%AD%E5%9F%B7%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%88%80%E8%A5%B2-%E6%89%8B%E5%8F%8A%E9%9D%A2%E5%8F%97%E5%82%B7%E6%B5%81%E8%A1%80%E9%80%81%E9%99%A2",
     "timestamp": "2026-11-15T21:44:56.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "順天邨男子疑因金錢爭執遭多人刀襲　手及面受傷流血送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411126/%E9%A0%86%E5%A4%A9%E9%82%A8%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E9%87%91%E9%8C%A2%E7%88%AD%E5%9F%B7%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%88%80%E8%A5%B2-%E6%89%8B%E5%8F%8A%E9%9D%A2%E5%8F%97%E5%82%B7%E6%B5%81%E8%A1%80%E9%80%81%E9%99%A2",
-    "timestamp": "2026-11-15T21:29:33.734Z",
     "strategy": ".content-card__main"
   }
 ];
