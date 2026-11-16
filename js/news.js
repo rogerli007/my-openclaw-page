@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T11:33:11.455Z
+// Last updated: 2026-11-16T11:48:29.733Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恒地50周年免費睇展覽！　7.5米長Central Yards模型首曝光",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199075585083576320254860.jpeg/ImQk8BZ4di5SBV3Xo3tlCK4YMSR3sQ0aky8coZMvHKE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411447/%E6%81%92%E5%9C%B050%E5%91%A8%E5%B9%B4%E5%85%8D%E8%B2%BB%E7%9D%87%E5%B1%95%E8%A6%BD-7-5%E7%B1%B3%E9%95%B7central-yards%E6%A8%A1%E5%9E%8B%E9%A6%96%E6%9B%9D%E5%85%89",
+    "timestamp": "2026-11-16T11:48:29.733Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "曾錦燊拒戰半馬寧跑住採訪　黃庭鋒勸陳星妤玩遊戲勿太投入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198936886517698560814065.jpeg/5lWlZxIDx-jA16PyhKtrP0jxPNAIMR_n492UA-PdlAM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411149/%E6%97%A5%E6%9C%AC%E6%96%B0%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96%E6%8E%80%E6%97%A5%E8%AA%9E%E8%80%83%E8%AD%89%E6%BD%AE-%E6%B0%B8%E5%B1%85%E9%96%80%E6%AA%BB%E6%8F%90%E9%AB%98-%E7%95%99%E5%AD%B8%E7%94%9F%E6%86%82%E7%84%A1%E6%B3%95%E7%BA%8C%E7%95%99%E4%B8%8B",
     "timestamp": "2026-11-16T03:56:10.058Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓團偶像熬10年回流變身男主角！董思成閆桉轉型演員迎事業第二春",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198681966140985344872109.png/R0fGaCVfRr_rPPD00oeLQqPllF3G131uEIUyChCFMgo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60411016/%E9%9F%93%E5%9C%98%E5%81%B6%E5%83%8F%E7%86%AC10%E5%B9%B4%E5%9B%9E%E6%B5%81%E8%AE%8A%E8%BA%AB%E7%94%B7%E4%B8%BB%E8%A7%92-%E8%91%A3%E6%80%9D%E6%88%90%E9%96%86%E6%A1%89%E8%BD%89%E5%9E%8B%E6%BC%94%E5%93%A1%E8%BF%8E%E4%BA%8B%E6%A5%AD%E7%AC%AC%E4%BA%8C%E6%98%A5",
-    "timestamp": "2026-11-16T03:40:56.601Z",
     "strategy": ".content-card__main"
   }
 ];
