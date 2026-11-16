@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T03:24:22.752Z
+// Last updated: 2026-11-16T03:40:56.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓團偶像熬10年回流變身男主角！董思成閆桉轉型演員迎事業第二春",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198681966140985344872109.png/R0fGaCVfRr_rPPD00oeLQqPllF3G131uEIUyChCFMgo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60411016/%E9%9F%93%E5%9C%98%E5%81%B6%E5%83%8F%E7%86%AC10%E5%B9%B4%E5%9B%9E%E6%B5%81%E8%AE%8A%E8%BA%AB%E7%94%B7%E4%B8%BB%E8%A7%92-%E8%91%A3%E6%80%9D%E6%88%90%E9%96%86%E6%A1%89%E8%BD%89%E5%9E%8B%E6%BC%94%E5%93%A1%E8%BF%8E%E4%BA%8B%E6%A5%AD%E7%AC%AC%E4%BA%8C%E6%98%A5",
+    "timestamp": "2026-11-16T03:40:56.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜英偉達主管發長文揭私下人品：動用人脈助我抗癌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198841859053457408182359.jpeg/2zNvlVE2akZ6DkFXEjo2NKBZaFo7kXQCxvp-8cb6fvE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411124/%E6%84%9B%E6%B2%99%E5%B0%BC%E4%BA%9E%E6%8C%87%E4%BF%84%E6%94%BB%E6%93%8A%E5%9C%8B%E9%98%B2%E4%BC%81%E6%A5%AD-12%E6%9C%88%E8%B5%B7%E5%85%A8%E9%9D%A2%E9%97%9C%E9%96%89%E5%85%A9%E5%9C%8B%E9%82%8A%E5%A2%83%E5%8F%A3%E5%B2%B8",
     "timestamp": "2026-11-15T20:59:07.997Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正逃跑至南美放浪：遇洗劫被迫「清空荷包」返港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319907985428480481567.jpeg/c4LHjystEwABSA5EXwJC-dk0A0ieweMmtMUp-rTFKfo",
-    "url": "https://www.hk01.com/01TV/60410802/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%80%83%E8%B7%91%E8%87%B3%E5%8D%97%E7%BE%8E%E6%94%BE%E6%B5%AA-%E9%81%87%E6%B4%97%E5%8A%AB%E8%A2%AB%E8%BF%AB-%E6%B8%85%E7%A9%BA%E8%8D%B7%E5%8C%85-%E8%BF%94%E6%B8%AF",
-    "timestamp": "2026-11-15T20:43:18.157Z",
     "strategy": ".content-card__main"
   }
 ];
