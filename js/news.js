@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T18:59:08.442Z
+// Last updated: 2026-11-16T19:18:55.179Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正遇貴人林海峰：寬容的掌舵者成就了他的冷面風格",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
+    "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
+    "timestamp": "2026-11-16T19:18:55.179Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴西多宗槍擊至少8死5傷　警方疑案件有關連",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199075585083576320254860.jpeg/ImQk8BZ4di5SBV3Xo3tlCK4YMSR3sQ0aky8coZMvHKE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411447/%E6%81%92%E5%9C%B050%E5%91%A8%E5%B9%B4%E5%85%8D%E8%B2%BB%E7%9D%87%E5%B1%95%E8%A6%BD-7-5%E7%B1%B3%E9%95%B7central-yards%E6%A8%A1%E5%9E%8B%E9%A6%96%E6%9B%9D%E5%85%89",
     "timestamp": "2026-11-16T11:48:29.733Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "曾錦燊拒戰半馬寧跑住採訪　黃庭鋒勸陳星妤玩遊戲勿太投入",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198784165311418368937016.jpeg/xF-7hVqsgzTaiiW7K9Xi-ZqxgVB8lcO0zIWw2faFsNk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411113/%E6%9B%BE%E9%8C%A6%E7%87%8A%E6%8B%92%E6%88%B0%E5%8D%8A%E9%A6%AC%E5%AF%A7%E8%B7%91%E4%BD%8F%E6%8E%A1%E8%A8%AA-%E9%BB%83%E5%BA%AD%E9%8B%92%E5%8B%B8%E9%99%B3%E6%98%9F%E5%A6%A4%E7%8E%A9%E9%81%8A%E6%88%B2%E5%8B%BF%E5%A4%AA%E6%8A%95%E5%85%A5",
-    "timestamp": "2026-11-16T11:33:11.455Z",
     "strategy": ".content-card__main"
   }
 ];
