@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T17:30:54.768Z
+// Last updated: 2026-11-16T17:46:06.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紅磡灣中心車庫風管塌下　壓中保時捷、平治私家車　警到場調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199174063910555648736589.jpeg/g_vBxMmXyaPnIUaUUEnax1IG6jTVzMo4x5qYL-2amC8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411504/%E7%B4%85%E7%A3%A1%E7%81%A3%E4%B8%AD%E5%BF%83%E8%BB%8A%E5%BA%AB%E9%A2%A8%E7%AE%A1%E5%A1%8C%E4%B8%8B-%E5%A3%93%E4%B8%AD%E4%BF%9D%E6%99%82%E6%8D%B7-%E5%B9%B3%E6%B2%BB%E7%A7%81%E5%AE%B6%E8%BB%8A-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-16T17:46:06.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "習近平出席APEC工商峰會發表演講　將首次以倡議形式發布成果文件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199042568432652288935187.jpeg/ougOyUnAoe89OnVgV7MapenvqOzDt4twBjb_BwY2_wc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411373/%E6%97%A5%E6%9C%AC%E9%9B%BB%E8%A8%8A%E5%95%86docomo%E6%9C%AC%E6%9C%88%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%95%85%E9%9A%9C-5g%E6%9C%8D%E5%8B%99%E7%99%B1%E7%98%93%E9%81%946%E5%B0%8F%E6%99%82",
     "timestamp": "2026-11-16T10:37:45.673Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本國寶級歌姬中島美嘉宣佈2027來港開唱！25週年唯一海外專場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199063972288925696284963.jpeg/rzNoXWzZCvzt0QdVAWtHLM8Ut9AV7oiVPwL0fT8C9H0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60411392/%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E7%B4%9A%E6%AD%8C%E5%A7%AC%E4%B8%AD%E5%B3%B6%E7%BE%8E%E5%98%89%E5%AE%A3%E4%BD%882027%E4%BE%86%E6%B8%AF%E9%96%8B%E5%94%B1-25%E9%80%B1%E5%B9%B4%E5%94%AF%E4%B8%80%E6%B5%B7%E5%A4%96%E5%B0%88%E5%A0%B4",
-    "timestamp": "2026-11-16T10:21:10.349Z",
     "strategy": ".content-card__main"
   }
 ];
