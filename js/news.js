@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T16:59:21.287Z
+// Last updated: 2026-11-16T17:19:36.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正談被打劫的心得：學會尊重別人的生存需要",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198320705066766336571948.jpeg/Yw_UerCIwfn4S6i5SveINdYLUuFtlYfIFCLe1BQi3tQ",
+    "url": "https://www.hk01.com/01TV/60410803/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E8%A2%AB%E6%89%93%E5%8A%AB%E7%9A%84%E5%BF%83%E5%BE%97-%E5%AD%B8%E6%9C%83%E5%B0%8A%E9%87%8D%E5%88%A5%E4%BA%BA%E7%9A%84%E7%94%9F%E5%AD%98%E9%9C%80%E8%A6%81",
+    "timestamp": "2026-11-16T17:19:36.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周潤發首戰毅行者自爆怕蛇怕鬼　美食打動鄭則仕加入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199056181990002688820735.jpeg/ATOpfLyE0yjkVZSri0AbyTgLybzq-DiRmtlmKJrZZig?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411404/%E8%BC%95%E9%90%B5%E6%96%B0%E5%9C%8D%E7%AB%99mma-%E5%85%A9%E8%80%86%E8%8B%B1%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B-%E7%81%B0%E9%AB%AE%E7%BF%81%E4%BA%BA%E4%BB%B0%E9%A6%AC%E7%BF%BB-%E7%B6%B2%E8%AC%94-%E7%B7%B4%E6%AD%A6",
     "timestamp": "2026-11-16T10:01:52.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳超市¥9.9藍莓愈大愈好？內地母子吞巨莓腹瀉　醫生揭致病陷阱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199054056941686784964578.jpeg/9vUiCBjxTDcJmQCGa8y3dG5s8jKeoeROOm3Dnjptw54?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60411310/%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82-9-9%E8%97%8D%E8%8E%93%E6%84%88%E5%A4%A7%E6%84%88%E5%A5%BD-%E5%85%A7%E5%9C%B0%E6%AF%8D%E5%AD%90%E5%90%9E%E5%B7%A8%E8%8E%93%E8%85%B9%E7%80%89-%E9%86%AB%E7%94%9F%E6%8F%AD%E8%87%B4%E7%97%85%E9%99%B7%E9%98%B1",
-    "timestamp": "2026-11-16T09:46:42.870Z",
     "strategy": ".content-card__main"
   }
 ];
