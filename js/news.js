@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T04:57:50.382Z
+// Last updated: 2026-11-16T05:20:15.529Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "IVE張員瑛今空降香港迪士尼點燈！　周一樂園打蛇餅入場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198971642240307200894073.jpeg/CYJN_F3gZtnax-ffV6sGKQ9_iUiaZ-_S_Y0pyf2NKck?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411230/ive%E5%BC%B5%E5%93%A1%E7%91%9B%E4%BB%8A%E7%A9%BA%E9%99%8D%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%BB%9E%E7%87%88-%E5%91%A8%E4%B8%80%E6%A8%82%E5%9C%92%E6%89%93%E8%9B%87%E9%A4%85%E5%85%A5%E5%A0%B4",
+    "timestamp": "2026-11-16T05:20:15.529Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜聲稱只清潔廁所因不想認曾切割蔡天鳳　鄺港傑否認其事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198805729541099520096123.jpeg/1N5mZLociDnuq9ijAJM1tG6h7X0uPn2w5sfjLubH4y4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411116/%E4%B8%8D%E8%89%AF%E4%B8%80%E6%97%8F%E5%B0%8B%E6%84%9B%E8%A8%982-%E7%B6%B2%E7%B4%85%E5%BD%A9%E6%9C%B1%E8%A2%AB%E6%8D%95-%E6%B6%89%E7%84%A1%E7%89%8C%E7%B6%93%E7%87%9F%E9%99%AA%E9%85%92%E9%85%92%E5%90%A7%E8%A2%AB%E6%90%9C%E5%87%BA80%E8%90%AC",
     "timestamp": "2026-11-15T22:15:47.605Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "順天邨男子疑因金錢爭執遭多人刀襲　手及面受傷流血送院",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260725/1157532713624801280014382.jpeg/TFgh7_gwGUiyxhG8LZnr8C50lkmFBxCRydNWqPPTVqg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411126/%E9%A0%86%E5%A4%A9%E9%82%A8%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E9%87%91%E9%8C%A2%E7%88%AD%E5%9F%B7%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%88%80%E8%A5%B2-%E6%89%8B%E5%8F%8A%E9%9D%A2%E5%8F%97%E5%82%B7%E6%B5%81%E8%A1%80%E9%80%81%E9%99%A2",
-    "timestamp": "2026-11-15T21:59:07.836Z",
     "strategy": ".content-card__main"
   }
 ];
