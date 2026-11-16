@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T14:35:20.196Z
+// Last updated: 2026-11-16T15:27:00.804Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "盧鎮業盧慧敏演新婚夫婦場場激吻　龔慈恩爆排戲偷聽年輕人講潮語",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199079230369959936576083.jpeg/dWqQTVxnGpLlLVMf3fX43BxL5UQ4wNPkBWgyXzxoMl8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411452/%E7%9B%A7%E9%8E%AE%E6%A5%AD%E7%9B%A7%E6%85%A7%E6%95%8F%E6%BC%94%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A9%A6%E5%A0%B4%E5%A0%B4%E6%BF%80%E5%90%BB-%E9%BE%94%E6%85%88%E6%81%A9%E7%88%86%E6%8E%92%E6%88%B2%E5%81%B7%E8%81%BD%E5%B9%B4%E8%BC%95%E4%BA%BA%E8%AC%9B%E6%BD%AE%E8%AA%9E",
+    "timestamp": "2026-11-16T15:27:00.804Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林愷鈴擁「皇室血統」曝光恐生命受威脅　龔慈恩：唔關個女事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199013623322644480374569.jpeg/OgjJTFGsyvCPeZHYZRie7dd65vqFI34YimUw_YplMP0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411306/%E6%B3%B0%E5%9C%8B%E5%B8%83%E5%90%89%E5%B3%B6%E5%87%8C%E6%99%A8%E5%A4%A7%E7%81%AB%E9%87%8011%E6%AD%BB36%E5%82%B7-%E9%80%BE%E7%99%BE%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%8A%A9%E7%87%83%E7%85%99%E5%9B%AA%E6%95%88%E6%87%89%E5%A5%AA%E5%91%BD",
     "timestamp": "2026-11-16T07:30:20.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜當錫傷癒復出狂轟43分　湖人末節鬆懈險翻船　挫太陽奪8連勝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198995292360282112630872.jpeg/B3JbQZKLJqtSmEJyJYhcGuJo174ULmTf8QRR8_EEUfM?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60411225/nba-%E7%95%B6%E9%8C%AB%E5%82%B7%E7%99%92%E5%BE%A9%E5%87%BA%E7%8B%82%E8%BD%9F43%E5%88%86-%E6%B9%96%E4%BA%BA%E6%9C%AB%E7%AF%80%E9%AC%86%E6%87%88%E9%9A%AA%E7%BF%BB%E8%88%B9-%E6%8C%AB%E5%A4%AA%E9%99%BD%E5%A5%AA8%E9%80%A3%E5%8B%9D",
-    "timestamp": "2026-11-16T06:36:47.875Z",
     "strategy": ".content-card__main"
   }
 ];
