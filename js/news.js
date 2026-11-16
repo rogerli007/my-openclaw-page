@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T19:58:55.485Z
+// Last updated: 2026-11-16T20:20:20.837Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正被周星馳青睞：一句「你好有趣」獲得喜劇大師認可",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198324495245381632218395.jpeg/k38OZ5yITnIzBe5oLaKqRdVe6CBrtTryjnWvqY51r6k",
+    "url": "https://www.hk01.com/01TV/60410808/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%A2%AB%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9D%92%E7%9D%9E-%E4%B8%80%E5%8F%A5-%E4%BD%A0%E5%A5%BD%E6%9C%89%E8%B6%A3-%E7%8D%B2%E5%BE%97%E5%96%9C%E5%8A%87%E5%A4%A7%E5%B8%AB%E8%AA%8D%E5%8F%AF",
+    "timestamp": "2026-11-16T20:20:20.837Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正遇貴人林海峰：寬容的掌舵者成就了他的冷面風格",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198941657580441600730892.png/osU2ixjBEhxi_F6YA7w0_vSZzoJs8yoKU_71WFP-9Vg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411144/%E5%B7%B4%E5%A1%9E%E6%96%B0%E6%98%9F%E8%80%B6%E9%A6%AC%E7%96%91%E8%BD%89%E7%99%BC%E8%BE%B1%E8%8F%AF%E7%89%87%E6%83%B9%E8%AD%B0-%E5%A4%AE%E8%A6%96-%E8%A5%BF%E7%94%B2%E6%BE%84%E6%B8%85%E8%A9%B2%E5%85%A7%E5%AE%B9%E6%98%AF%E5%81%BD%E9%80%A0",
     "timestamp": "2026-11-16T13:35:10.718Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "壽桃牌蝦子麵醬汁有玻璃？品牌方：生產線沒用玻璃、料為食鹽結晶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199096676221063168172450.png/V-FnTu3JLd_NfqWNxyB1FIRumK7nm5Fc_LpYRvy6WEY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411464/%E5%A3%BD%E6%A1%83%E7%89%8C%E8%9D%A6%E5%AD%90%E9%BA%B5%E9%86%AC%E6%B1%81%E6%9C%89%E7%8E%BB%E7%92%83-%E5%93%81%E7%89%8C%E6%96%B9-%E7%94%9F%E7%94%A2%E7%B7%9A%E6%B2%92%E7%94%A8%E7%8E%BB%E7%92%83-%E6%96%99%E7%82%BA%E9%A3%9F%E9%B9%BD%E7%B5%90%E6%99%B6",
-    "timestamp": "2026-11-16T12:58:38.115Z",
     "strategy": ".content-card__main"
   }
 ];
