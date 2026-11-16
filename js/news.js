@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T08:36:49.423Z
+// Last updated: 2026-11-16T08:58:10.965Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林溥來棄喇沙情意結安排兒子入讀CAIS 為何CAIS成藝人家長首選？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199043063343747072361278.jpeg/HCyJP1NzDwI0cEkEi14nM2vWDyj3rMmw5mSv4uZkr-I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60411309/%E6%9E%97%E6%BA%A5%E4%BE%86%E6%A3%84%E5%96%87%E6%B2%99%E6%83%85%E6%84%8F%E7%B5%90%E5%AE%89%E6%8E%92%E5%85%92%E5%AD%90%E5%85%A5%E8%AE%80cais-%E7%82%BA%E4%BD%95cais%E6%88%90%E8%97%9D%E4%BA%BA%E5%AE%B6%E9%95%B7%E9%A6%96%E9%81%B8",
+    "timestamp": "2026-11-16T08:58:10.965Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀孖準百億闊太廖碧兒飯敘　懶理假善心風波心情勁靚嘟嘴賣萌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198797418204762112890174.jpeg/6l1nfY1WVZA0STgTJf-_YWDdM8M9-2ALD2_44w9v-OM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411120/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD%E5%8A%87%E6%83%85-%E9%84%BA%E6%BD%94%E6%A5%B9%E8%BF%B7%E5%B9%BB%E6%8E%A5%E5%AE%A2%E9%81%AD%E5%81%B7%E6%8B%8D-%E6%8F%B4%E4%BA%A4%E7%89%87%E9%A6%99%E8%89%B7%E7%95%AB%E9%9D%A2%E6%A5%B5%E9%9C%87%E6%92%BC",
     "timestamp": "2026-11-15T23:45:06.101Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許正宇專訪｜繁忙爸爸講親子質量 　AI時代著重培育發掘的能力",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198703676760264704517689.jpeg/YHlSmPNJqQM2nbmvOlqei58yy8VoH5bCBvNVQQbzVUE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/60410494/%E8%A8%B1%E6%AD%A3%E5%AE%87%E5%B0%88%E8%A8%AA-%E7%B9%81%E5%BF%99%E7%88%B8%E7%88%B8%E8%AC%9B%E8%A6%AA%E5%AD%90%E8%B3%AA%E9%87%8F-ai%E6%99%82%E4%BB%A3%E8%91%97%E9%87%8D%E5%9F%B9%E8%82%B2%E7%99%BC%E6%8E%98%E7%9A%84%E8%83%BD%E5%8A%9B",
-    "timestamp": "2026-11-15T23:32:09.546Z",
     "strategy": ".content-card__main"
   }
 ];
