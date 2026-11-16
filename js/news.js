@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T12:29:31.764Z
+// Last updated: 2026-11-16T12:58:38.115Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "壽桃牌蝦子麵醬汁有玻璃？品牌方：生產線沒用玻璃、料為食鹽結晶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199096676221063168172450.png/V-FnTu3JLd_NfqWNxyB1FIRumK7nm5Fc_LpYRvy6WEY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411464/%E5%A3%BD%E6%A1%83%E7%89%8C%E8%9D%A6%E5%AD%90%E9%BA%B5%E9%86%AC%E6%B1%81%E6%9C%89%E7%8E%BB%E7%92%83-%E5%93%81%E7%89%8C%E6%96%B9-%E7%94%9F%E7%94%A2%E7%B7%9A%E6%B2%92%E7%94%A8%E7%8E%BB%E7%92%83-%E6%96%99%E7%82%BA%E9%A3%9F%E9%B9%BD%E7%B5%90%E6%99%B6",
+    "timestamp": "2026-11-16T12:58:38.115Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「御用警察」陸應康移加做教車師傅　合體「日本仔」談幕後秘聞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187114276620341248358706.jpeg/-J7F2l069nBgAO9W-bOl1J7eznLIlfygUQ7uE1EO7hM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411238/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%81%B2%E7%A8%B1%E5%8F%AA%E6%B8%85%E6%BD%94%E5%BB%81%E6%89%80%E5%9B%A0%E4%B8%8D%E6%83%B3%E8%AA%8D%E6%9B%BE%E5%88%87%E5%89%B2%E8%94%A1%E5%A4%A9%E9%B3%B3-%E9%84%BA%E6%B8%AF%E5%82%91%E5%90%A6%E8%AA%8D%E5%85%B6%E4%BA%8B",
     "timestamp": "2026-11-16T04:57:50.382Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本手機定位資料流海外　日經：首相官邸自衛隊設施等遭起底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231216/812723455790157824168407.jpeg/ejCg7V1T083tprPsTACtf1ljrqYl1aHlygsZpMoLGaQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411227/%E6%97%A5%E6%9C%AC%E6%89%8B%E6%A9%9F%E5%AE%9A%E4%BD%8D%E8%B3%87%E6%96%99%E6%B5%81%E6%B5%B7%E5%A4%96-%E6%97%A5%E7%B6%93-%E9%A6%96%E7%9B%B8%E5%AE%98%E9%82%B8%E8%87%AA%E8%A1%9B%E9%9A%8A%E8%A8%AD%E6%96%BD%E7%AD%89%E9%81%AD%E8%B5%B7%E5%BA%95",
-    "timestamp": "2026-11-16T04:39:45.307Z",
     "strategy": ".content-card__main"
   }
 ];
