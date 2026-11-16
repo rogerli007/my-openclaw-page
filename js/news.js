@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T16:33:11.851Z
+// Last updated: 2026-11-16T16:45:17.819Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜網上逾18萬人聯署　籲恢復黃仁勳CEO職務",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197975815686459392953406.jpeg/a7WPK9iRLvDxj-tMUBRHU0MWK-0C3ivvzIkY-syJGPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411489/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%B6%B2%E4%B8%8A%E9%80%BE18%E8%90%AC%E4%BA%BA%E8%81%AF%E7%BD%B2-%E7%B1%B2%E6%81%A2%E5%BE%A9%E9%BB%83%E4%BB%81%E5%8B%B3ceo%E8%81%B7%E5%8B%99",
+    "timestamp": "2026-11-16T16:45:17.819Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜網上逾18萬人聯署　籲恢復黃仁勳CEO職務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199027116138565632618754.jpeg/xmLEdy2fqRoqC8Zw8H1IbPHQKmLcp2UdrEqpCqxKqQo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60411295/2026%E9%9B%BB%E8%85%A6cpu%E6%8E%A8%E8%96%A6-amd-vs-intel%E6%95%88%E8%83%BD%E6%AF%94%E8%BC%83%E8%88%87%E9%81%B8%E8%B3%BC%E5%A0%B1%E5%83%B9-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E9%BB%9E%E6%8F%80",
     "timestamp": "2026-11-16T09:25:16.129Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林溥來棄喇沙情意結安排兒子入讀CAIS 為何CAIS成藝人家長首選？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199043063343747072361278.jpeg/HCyJP1NzDwI0cEkEi14nM2vWDyj3rMmw5mSv4uZkr-I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60411309/%E6%9E%97%E6%BA%A5%E4%BE%86%E6%A3%84%E5%96%87%E6%B2%99%E6%83%85%E6%84%8F%E7%B5%90%E5%AE%89%E6%8E%92%E5%85%92%E5%AD%90%E5%85%A5%E8%AE%80cais-%E7%82%BA%E4%BD%95cais%E6%88%90%E8%97%9D%E4%BA%BA%E5%AE%B6%E9%95%B7%E9%A6%96%E9%81%B8",
-    "timestamp": "2026-11-16T08:58:10.965Z",
     "strategy": ".content-card__main"
   }
 ];
