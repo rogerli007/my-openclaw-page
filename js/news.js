@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T09:46:42.870Z
+// Last updated: 2026-11-16T10:01:52.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "輕鐵新圍站MMA｜兩耆英大打出手　灰髮翁人仰馬翻　網謔：練武？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199056181990002688820735.jpeg/ATOpfLyE0yjkVZSri0AbyTgLybzq-DiRmtlmKJrZZig?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411404/%E8%BC%95%E9%90%B5%E6%96%B0%E5%9C%8D%E7%AB%99mma-%E5%85%A9%E8%80%86%E8%8B%B1%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B-%E7%81%B0%E9%AB%AE%E7%BF%81%E4%BA%BA%E4%BB%B0%E9%A6%AC%E7%BF%BB-%E7%B6%B2%E8%AC%94-%E7%B7%B4%E6%AD%A6",
+    "timestamp": "2026-11-16T10:01:52.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳超市¥9.9藍莓愈大愈好？內地母子吞巨莓腹瀉　醫生揭致病陷阱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194960521565048832280675.jpeg/Gt8YSSvXX-KzMhihvm6x7XovenZC-VI_iT-laIk_pWg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60407345/%E6%8F%9B%E5%AD%A3%E8%A1%A3%E7%89%A9%E9%9A%94%E5%B9%B4%E7%8F%BE%E9%BB%83%E6%BC%AC-%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%9A%AE%E8%84%82%E6%83%B9%E7%A6%8D-%E6%95%99%E6%94%B6%E7%B4%8D%E9%97%9C%E9%8D%B5-%E5%8E%BB%E6%BC%AC%E6%96%B9%E6%B3%95",
     "timestamp": "2026-11-16T01:08:58.034Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《再婚皇后》朱智勛為申敏兒決鬥李鍾碩！秒奔李世榮被轟世紀渣男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198652622945390592258930.png/eX4RR0c-MUOZrBAIUFoBeo4hri_PtdQUeFgkTXhYJE0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410988/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E6%9C%B1%E6%99%BA%E5%8B%9B%E7%82%BA%E7%94%B3%E6%95%8F%E5%85%92%E6%B1%BA%E9%AC%A5%E6%9D%8E%E9%8D%BE%E7%A2%A9-%E7%A7%92%E5%A5%94%E6%9D%8E%E4%B8%96%E6%A6%AE%E8%A2%AB%E8%BD%9F%E4%B8%96%E7%B4%80%E6%B8%A3%E7%94%B7",
-    "timestamp": "2026-11-16T00:43:16.404Z",
     "strategy": ".content-card__main"
   }
 ];
