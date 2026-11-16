@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T08:58:10.965Z
+// Last updated: 2026-11-16T09:25:16.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026電腦CPU推薦：AMD vs Intel效能比較與選購報價 一文看清點揀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199027116138565632618754.jpeg/xmLEdy2fqRoqC8Zw8H1IbPHQKmLcp2UdrEqpCqxKqQo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60411295/2026%E9%9B%BB%E8%85%A6cpu%E6%8E%A8%E8%96%A6-amd-vs-intel%E6%95%88%E8%83%BD%E6%AF%94%E8%BC%83%E8%88%87%E9%81%B8%E8%B3%BC%E5%A0%B1%E5%83%B9-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E9%BB%9E%E6%8F%80",
+    "timestamp": "2026-11-16T09:25:16.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林溥來棄喇沙情意結安排兒子入讀CAIS 為何CAIS成藝人家長首選？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261025/1190861607933054976815794.jpeg/CF-HDBnuAKdsO-bmz6SA9QWZr4yn88jUsvnwfLL58Hw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411129/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E4%BF%83%E7%BE%8E%E6%96%B9%E8%A7%A3%E9%99%A4-%E6%98%9F%E7%9B%BE-%E9%99%90%E5%88%B6-%E7%B1%B2%E7%AB%99%E5%9C%A8%E6%AD%B7%E5%8F%B2%E6%AD%A3%E7%A2%BA%E4%B8%80%E9%82%8A",
     "timestamp": "2026-11-15T23:59:08.882Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "玫瑰戰爭劇情｜鄺潔楹迷幻接客遭偷拍　援交片香艷畫面極震撼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198797418204762112890174.jpeg/6l1nfY1WVZA0STgTJf-_YWDdM8M9-2ALD2_44w9v-OM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411120/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD%E5%8A%87%E6%83%85-%E9%84%BA%E6%BD%94%E6%A5%B9%E8%BF%B7%E5%B9%BB%E6%8E%A5%E5%AE%A2%E9%81%AD%E5%81%B7%E6%8B%8D-%E6%8F%B4%E4%BA%A4%E7%89%87%E9%A6%99%E8%89%B7%E7%95%AB%E9%9D%A2%E6%A5%B5%E9%9C%87%E6%92%BC",
-    "timestamp": "2026-11-15T23:45:06.101Z",
     "strategy": ".content-card__main"
   }
 ];
