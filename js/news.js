@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T18:35:00.044Z
+// Last updated: 2026-11-16T18:59:08.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴西多宗槍擊至少8死5傷　警方疑案件有關連",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240805/897155846784421888265410.jpeg/QN9YVAVnd0kSnbvFsZTW1guoWP-Pb4y5UXjCklF4wpI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411515/%E5%B7%B4%E8%A5%BF%E5%A4%9A%E5%AE%97%E6%A7%8D%E6%93%8A%E8%87%B3%E5%B0%918%E6%AD%BB5%E5%82%B7-%E8%AD%A6%E6%96%B9%E7%96%91%E6%A1%88%E4%BB%B6%E6%9C%89%E9%97%9C%E9%80%A3",
+    "timestamp": "2026-11-16T18:59:08.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC直擊｜工商領導人峰會前夕　前海會場鐵欄杆戒備群眾聚集拍攝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198784165311418368937016.jpeg/xF-7hVqsgzTaiiW7K9Xi-ZqxgVB8lcO0zIWw2faFsNk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411113/%E6%9B%BE%E9%8C%A6%E7%87%8A%E6%8B%92%E6%88%B0%E5%8D%8A%E9%A6%AC%E5%AF%A7%E8%B7%91%E4%BD%8F%E6%8E%A1%E8%A8%AA-%E9%BB%83%E5%BA%AD%E9%8B%92%E5%8B%B8%E9%99%B3%E6%98%9F%E5%A6%A4%E7%8E%A9%E9%81%8A%E6%88%B2%E5%8B%BF%E5%A4%AA%E6%8A%95%E5%85%A5",
     "timestamp": "2026-11-16T11:33:11.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃日華北上跟明星足球隊作賽　竟嫌棄當地粉絲應援物：這個多難看",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199062467280375808173450.jpeg/Pw78qQTSfImPYW4DQlEC2eEXIRWT7WnG-D9w2fg_cNk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411394/%E9%BB%83%E6%97%A5%E8%8F%AF%E5%8C%97%E4%B8%8A%E8%B7%9F%E6%98%8E%E6%98%9F%E8%B6%B3%E7%90%83%E9%9A%8A%E4%BD%9C%E8%B3%BD-%E7%AB%9F%E5%AB%8C%E6%A3%84%E7%95%B6%E5%9C%B0%E7%B2%89%E7%B5%B2%E6%87%89%E6%8F%B4%E7%89%A9-%E9%80%99%E5%80%8B%E5%A4%9A%E9%9B%A3%E7%9C%8B",
-    "timestamp": "2026-11-16T11:05:20.117Z",
     "strategy": ".content-card__main"
   }
 ];
