@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T17:19:36.963Z
+// Last updated: 2026-11-16T17:30:54.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "習近平出席APEC工商峰會發表演講　將首次以倡議形式發布成果文件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197311856113356800859643.jpeg/EDOYBitjxSJKPsamPSrghVbZ9Qv9eykZr-EBva_hAb0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411502/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%ADapec%E5%B7%A5%E5%95%86%E5%B3%B0%E6%9C%83%E7%99%BC%E8%A1%A8%E6%BC%94%E8%AC%9B-%E5%B0%87%E9%A6%96%E6%AC%A1%E4%BB%A5%E5%80%A1%E8%AD%B0%E5%BD%A2%E5%BC%8F%E7%99%BC%E5%B8%83%E6%88%90%E6%9E%9C%E6%96%87%E4%BB%B6",
+    "timestamp": "2026-11-16T17:30:54.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正談被打劫的心得：學會尊重別人的生存需要",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199063972288925696284963.jpeg/rzNoXWzZCvzt0QdVAWtHLM8Ut9AV7oiVPwL0fT8C9H0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60411392/%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E7%B4%9A%E6%AD%8C%E5%A7%AC%E4%B8%AD%E5%B3%B6%E7%BE%8E%E5%98%89%E5%AE%A3%E4%BD%882027%E4%BE%86%E6%B8%AF%E9%96%8B%E5%94%B1-25%E9%80%B1%E5%B9%B4%E5%94%AF%E4%B8%80%E6%B5%B7%E5%A4%96%E5%B0%88%E5%A0%B4",
     "timestamp": "2026-11-16T10:21:10.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "輕鐵新圍站MMA｜兩耆英大打出手　灰髮翁人仰馬翻　網謔：練武？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199056181990002688820735.jpeg/ATOpfLyE0yjkVZSri0AbyTgLybzq-DiRmtlmKJrZZig?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411404/%E8%BC%95%E9%90%B5%E6%96%B0%E5%9C%8D%E7%AB%99mma-%E5%85%A9%E8%80%86%E8%8B%B1%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B-%E7%81%B0%E9%AB%AE%E7%BF%81%E4%BA%BA%E4%BB%B0%E9%A6%AC%E7%BF%BB-%E7%B6%B2%E8%AC%94-%E7%B7%B4%E6%AD%A6",
-    "timestamp": "2026-11-16T10:01:52.885Z",
     "strategy": ".content-card__main"
   }
 ];
