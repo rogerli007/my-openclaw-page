@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T10:01:52.885Z
+// Last updated: 2026-11-16T10:21:10.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本國寶級歌姬中島美嘉宣佈2027來港開唱！25週年唯一海外專場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199063972288925696284963.jpeg/rzNoXWzZCvzt0QdVAWtHLM8Ut9AV7oiVPwL0fT8C9H0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60411392/%E6%97%A5%E6%9C%AC%E5%9C%8B%E5%AF%B6%E7%B4%9A%E6%AD%8C%E5%A7%AC%E4%B8%AD%E5%B3%B6%E7%BE%8E%E5%98%89%E5%AE%A3%E4%BD%882027%E4%BE%86%E6%B8%AF%E9%96%8B%E5%94%B1-25%E9%80%B1%E5%B9%B4%E5%94%AF%E4%B8%80%E6%B5%B7%E5%A4%96%E5%B0%88%E5%A0%B4",
+    "timestamp": "2026-11-16T10:21:10.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "輕鐵新圍站MMA｜兩耆英大打出手　灰髮翁人仰馬翻　網謔：練武？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189225373884354560934826.jpeg/kXn7v-lj1kbAT5XgLQMTNvRG4C6cV69UosiaZqLImmY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411130/%E6%96%B0%E4%B8%96%E7%95%8C%E5%BE%A9%E7%89%8C%E5%8D%B3%E5%86%A7%E8%BF%9146-1%E4%BE%9B11-%E9%9C%87%E6%92%BC%E5%B8%82%E5%A0%B4-%E4%B8%80%E6%89%8B2655%E8%9A%8A-%E4%BE%9B%E8%BF%91%E8%90%AC%E5%85%83",
     "timestamp": "2026-11-16T01:26:15.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "換季衣物隔年現黃漬？日本專家揭皮脂惹禍　教收納關鍵+去漬方法",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194960521565048832280675.jpeg/Gt8YSSvXX-KzMhihvm6x7XovenZC-VI_iT-laIk_pWg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60407345/%E6%8F%9B%E5%AD%A3%E8%A1%A3%E7%89%A9%E9%9A%94%E5%B9%B4%E7%8F%BE%E9%BB%83%E6%BC%AC-%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%9A%AE%E8%84%82%E6%83%B9%E7%A6%8D-%E6%95%99%E6%94%B6%E7%B4%8D%E9%97%9C%E9%8D%B5-%E5%8E%BB%E6%BC%AC%E6%96%B9%E6%B3%95",
-    "timestamp": "2026-11-16T01:08:58.034Z",
     "strategy": ".content-card__main"
   }
 ];
