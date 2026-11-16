@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T10:21:10.349Z
+// Last updated: 2026-11-16T10:37:45.673Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本電訊商DOCOMO本月第三次故障　5G服務癱瘓達6小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199042568432652288935187.jpeg/ougOyUnAoe89OnVgV7MapenvqOzDt4twBjb_BwY2_wc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411373/%E6%97%A5%E6%9C%AC%E9%9B%BB%E8%A8%8A%E5%95%86docomo%E6%9C%AC%E6%9C%88%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%95%85%E9%9A%9C-5g%E6%9C%8D%E5%8B%99%E7%99%B1%E7%98%93%E9%81%946%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-11-16T10:37:45.673Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本國寶級歌姬中島美嘉宣佈2027來港開唱！25週年唯一海外專場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261110/1196771561852375040263098.jpeg/et_ewFq4QiP-s6VFu5cXm9JuOKd_hYU9yj5oW8o-aFs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411140/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%AB%87%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B%E4%BA%8B%E6%95%85-%E9%83%BD%E6%80%AA%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%95%99%E7%88%9B%E6%94%A4%E5%AD%90",
     "timestamp": "2026-11-16T01:51:16.783Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新世界復牌即冧近46%　「1供11」震撼市場　一手2655蚊、供近萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189225373884354560934826.jpeg/kXn7v-lj1kbAT5XgLQMTNvRG4C6cV69UosiaZqLImmY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411130/%E6%96%B0%E4%B8%96%E7%95%8C%E5%BE%A9%E7%89%8C%E5%8D%B3%E5%86%A7%E8%BF%9146-1%E4%BE%9B11-%E9%9C%87%E6%92%BC%E5%B8%82%E5%A0%B4-%E4%B8%80%E6%89%8B2655%E8%9A%8A-%E4%BE%9B%E8%BF%91%E8%90%AC%E5%85%83",
-    "timestamp": "2026-11-16T01:26:15.463Z",
     "strategy": ".content-card__main"
   }
 ];
