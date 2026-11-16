@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T12:58:38.115Z
+// Last updated: 2026-11-16T13:35:10.718Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴塞新星耶馬疑轉發辱華片惹議？　央視：西甲澄清該內容是偽造",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198941657580441600730892.png/osU2ixjBEhxi_F6YA7w0_vSZzoJs8yoKU_71WFP-9Vg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411144/%E5%B7%B4%E5%A1%9E%E6%96%B0%E6%98%9F%E8%80%B6%E9%A6%AC%E7%96%91%E8%BD%89%E7%99%BC%E8%BE%B1%E8%8F%AF%E7%89%87%E6%83%B9%E8%AD%B0-%E5%A4%AE%E8%A6%96-%E8%A5%BF%E7%94%B2%E6%BE%84%E6%B8%85%E8%A9%B2%E5%85%A7%E5%AE%B9%E6%98%AF%E5%81%BD%E9%80%A0",
+    "timestamp": "2026-11-16T13:35:10.718Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "壽桃牌蝦子麵醬汁有玻璃？品牌方：生產線沒用玻璃、料為食鹽結晶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198971642240307200894073.jpeg/CYJN_F3gZtnax-ffV6sGKQ9_iUiaZ-_S_Y0pyf2NKck?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411230/ive%E5%BC%B5%E5%93%A1%E7%91%9B%E4%BB%8A%E7%A9%BA%E9%99%8D%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%BB%9E%E7%87%88-%E5%91%A8%E4%B8%80%E6%A8%82%E5%9C%92%E6%89%93%E8%9B%87%E9%A4%85%E5%85%A5%E5%A0%B4",
     "timestamp": "2026-11-16T05:20:15.529Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜聲稱只清潔廁所因不想認曾切割蔡天鳳　鄺港傑否認其事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187114276620341248358706.jpeg/-J7F2l069nBgAO9W-bOl1J7eznLIlfygUQ7uE1EO7hM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411238/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E8%81%B2%E7%A8%B1%E5%8F%AA%E6%B8%85%E6%BD%94%E5%BB%81%E6%89%80%E5%9B%A0%E4%B8%8D%E6%83%B3%E8%AA%8D%E6%9B%BE%E5%88%87%E5%89%B2%E8%94%A1%E5%A4%A9%E9%B3%B3-%E9%84%BA%E6%B8%AF%E5%82%91%E5%90%A6%E8%AA%8D%E5%85%B6%E4%BA%8B",
-    "timestamp": "2026-11-16T04:57:50.382Z",
     "strategy": ".content-card__main"
   }
 ];
