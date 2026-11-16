@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T01:08:58.034Z
+// Last updated: 2026-11-16T01:26:15.463Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新世界復牌即冧近46%　「1供11」震撼市場　一手2655蚊、供近萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261020/1189225373884354560934826.jpeg/kXn7v-lj1kbAT5XgLQMTNvRG4C6cV69UosiaZqLImmY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411130/%E6%96%B0%E4%B8%96%E7%95%8C%E5%BE%A9%E7%89%8C%E5%8D%B3%E5%86%A7%E8%BF%9146-1%E4%BE%9B11-%E9%9C%87%E6%92%BC%E5%B8%82%E5%A0%B4-%E4%B8%80%E6%89%8B2655%E8%9A%8A-%E4%BE%9B%E8%BF%91%E8%90%AC%E5%85%83",
+    "timestamp": "2026-11-16T01:26:15.463Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "換季衣物隔年現黃漬？日本專家揭皮脂惹禍　教收納關鍵+去漬方法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260929/1181540576743395328726085.jpeg/LUsFWa3DHaPgD0pEFNT4uhVdm84L2QCuWvCUXFrwlFw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411125/%E5%B1%AF%E9%96%80%E8%BC%95%E8%B2%A8%E8%BB%8A%E8%87%AA%E7%82%92%E6%92%9E%E6%AC%84-%E8%AD%A6%E5%88%B0%E5%A0%B4%E6%8F%AD%E5%8F%B8%E6%A9%9F%E6%9C%89%E9%85%92%E6%B0%A3-41%E6%AD%B2%E7%94%B7%E6%B6%89%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-15T19:45:01.891Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正適應不良致精神崩潰：意識到自己缺乏「香港人精神」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319096509239296601954.jpeg/WblfDP1S1JeerxvRBB0KYCyYPN-dV5tiB__baAf_22g",
-    "url": "https://www.hk01.com/01TV/60410800/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%A9%E6%87%89%E4%B8%8D%E8%89%AF%E8%87%B4%E7%B2%BE%E7%A5%9E%E5%B4%A9%E6%BD%B0-%E6%84%8F%E8%AD%98%E5%88%B0%E8%87%AA%E5%B7%B1%E7%BC%BA%E4%B9%8F-%E9%A6%99%E6%B8%AF%E4%BA%BA%E7%B2%BE%E7%A5%9E",
-    "timestamp": "2026-11-15T19:29:13.254Z",
     "strategy": ".content-card__main"
   }
 ];
