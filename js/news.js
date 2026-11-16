@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T22:19:18.902Z
+// Last updated: 2026-11-16T22:45:12.952Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角宜安大廈單位失火　冒烈焰濃煙滾滾　消防升雲梯救熄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199120784170160128068954.jpeg/RTdAl9ne9T0hB7-gSbKpnKaligFI7IhZUltY-lJbWPo",
+    "url": "https://www.hk01.com/01TV/60411475/%E5%8C%97%E8%A7%92%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-%E5%86%92%E7%83%88%E7%84%B0%E6%BF%83%E7%85%99%E6%BB%BE%E6%BB%BE-%E6%B6%88%E9%98%B2%E5%8D%87%E9%9B%B2%E6%A2%AF%E6%95%91%E7%86%84",
+    "timestamp": "2026-11-16T22:45:12.952Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜天文台：今日最高27度　初時有一兩陣微雨　明日稍後迎冷鋒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197975815686459392953406.jpeg/a7WPK9iRLvDxj-tMUBRHU0MWK-0C3ivvzIkY-syJGPo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411489/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%B6%B2%E4%B8%8A%E9%80%BE18%E8%90%AC%E4%BA%BA%E8%81%AF%E7%BD%B2-%E7%B1%B2%E6%81%A2%E5%BE%A9%E9%BB%83%E4%BB%81%E5%8B%B3ceo%E8%81%B7%E5%8B%99",
     "timestamp": "2026-11-16T16:33:11.851Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "55歲李英愛曬MMA後台合照　逆齡狀態同框aespa被封「第5位成員」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199050011959103488539170.png/pEcdAzwpMKf51rufup1a_eJwPpXlbfJMvoB-Zb6AfmU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411396/55%E6%AD%B2%E6%9D%8E%E8%8B%B1%E6%84%9B%E6%9B%ACmma%E5%BE%8C%E5%8F%B0%E5%90%88%E7%85%A7-%E9%80%86%E9%BD%A1%E7%8B%80%E6%85%8B%E5%90%8C%E6%A1%86aespa%E8%A2%AB%E5%B0%81-%E7%AC%AC5%E4%BD%8D%E6%88%90%E5%93%A1",
-    "timestamp": "2026-11-16T16:04:15.715Z",
     "strategy": ".content-card__main"
   }
 ];
