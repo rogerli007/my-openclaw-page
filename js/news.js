@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T10:49:25.185Z
+// Last updated: 2026-11-16T11:05:20.117Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃日華北上跟明星足球隊作賽　竟嫌棄當地粉絲應援物：這個多難看",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199062467280375808173450.jpeg/Pw78qQTSfImPYW4DQlEC2eEXIRWT7WnG-D9w2fg_cNk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411394/%E9%BB%83%E6%97%A5%E8%8F%AF%E5%8C%97%E4%B8%8A%E8%B7%9F%E6%98%8E%E6%98%9F%E8%B6%B3%E7%90%83%E9%9A%8A%E4%BD%9C%E8%B3%BD-%E7%AB%9F%E5%AB%8C%E6%A3%84%E7%95%B6%E5%9C%B0%E7%B2%89%E7%B5%B2%E6%87%89%E6%8F%B4%E7%89%A9-%E9%80%99%E5%80%8B%E5%A4%9A%E9%9B%A3%E7%9C%8B",
+    "timestamp": "2026-11-16T11:05:20.117Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "aespa剛捧MMA大賞即遭批「似中學生才藝匯演」 　拆解舞台3大災難",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198949662363488256409785.jpeg/aBJ5bzoLpjzg4kekcsvoDv0fMP3Ij1wKCevtCgnr7Qo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411170/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E4%B8%BB%E7%AE%A1%E7%99%BC%E9%95%B7%E6%96%87%E6%8F%AD%E7%A7%81%E4%B8%8B%E4%BA%BA%E5%93%81-%E5%8B%95%E7%94%A8%E4%BA%BA%E8%84%88%E5%8A%A9%E6%88%91%E6%8A%97%E7%99%8C",
     "timestamp": "2026-11-16T03:24:22.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李政宰停工1年近況曝光　嚴重爛臉無法拍戲　拒曬病照怕粉絲離開",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198683185941057536492136.png/Dv0LJznC_G90e5MHzfUziNxhnx1qClknt3e3CLd3twg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411035/%E6%9D%8E%E6%94%BF%E5%AE%B0%E5%81%9C%E5%B7%A51%E5%B9%B4%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-%E5%9A%B4%E9%87%8D%E7%88%9B%E8%87%89%E7%84%A1%E6%B3%95%E6%8B%8D%E6%88%B2-%E6%8B%92%E6%9B%AC%E7%97%85%E7%85%A7%E6%80%95%E7%B2%89%E7%B5%B2%E9%9B%A2%E9%96%8B",
-    "timestamp": "2026-11-16T02:44:05.156Z",
     "strategy": ".content-card__main"
   }
 ];
