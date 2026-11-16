@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T00:43:16.404Z
+// Last updated: 2026-11-16T01:08:58.034Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "換季衣物隔年現黃漬？日本專家揭皮脂惹禍　教收納關鍵+去漬方法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1194960521565048832280675.jpeg/Gt8YSSvXX-KzMhihvm6x7XovenZC-VI_iT-laIk_pWg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A5%BD%E7%94%9F%E6%B4%BB/60407345/%E6%8F%9B%E5%AD%A3%E8%A1%A3%E7%89%A9%E9%9A%94%E5%B9%B4%E7%8F%BE%E9%BB%83%E6%BC%AC-%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%9A%AE%E8%84%82%E6%83%B9%E7%A6%8D-%E6%95%99%E6%94%B6%E7%B4%8D%E9%97%9C%E9%8D%B5-%E5%8E%BB%E6%BC%AC%E6%96%B9%E6%B3%95",
+    "timestamp": "2026-11-16T01:08:58.034Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《再婚皇后》朱智勛為申敏兒決鬥李鍾碩！秒奔李世榮被轟世紀渣男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319096509239296601954.jpeg/WblfDP1S1JeerxvRBB0KYCyYPN-dV5tiB__baAf_22g",
     "url": "https://www.hk01.com/01TV/60410800/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%A9%E6%87%89%E4%B8%8D%E8%89%AF%E8%87%B4%E7%B2%BE%E7%A5%9E%E5%B4%A9%E6%BD%B0-%E6%84%8F%E8%AD%98%E5%88%B0%E8%87%AA%E5%B7%B1%E7%BC%BA%E4%B9%8F-%E9%A6%99%E6%B8%AF%E4%BA%BA%E7%B2%BE%E7%A5%9E",
     "timestamp": "2026-11-15T19:29:13.254Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正適應不良致精神崩潰：意識到自己缺乏「香港人精神」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319096509239296601954.jpeg/WblfDP1S1JeerxvRBB0KYCyYPN-dV5tiB__baAf_22g",
-    "url": "https://www.hk01.com/01TV/60410800/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%A9%E6%87%89%E4%B8%8D%E8%89%AF%E8%87%B4%E7%B2%BE%E7%A5%9E%E5%B4%A9%E6%BD%B0-%E6%84%8F%E8%AD%98%E5%88%B0%E8%87%AA%E5%B7%B1%E7%BC%BA%E4%B9%8F-%E9%A6%99%E6%B8%AF%E4%BA%BA%E7%B2%BE%E7%A5%9E",
-    "timestamp": "2026-11-15T19:17:38.881Z",
     "strategy": ".content-card__main"
   }
 ];
