@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T21:59:14.192Z
+// Last updated: 2026-11-16T22:19:18.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜天文台：今日最高27度　初時有一兩陣微雨　明日稍後迎冷鋒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199241403302023168824705.jpeg/3r861VUzIqf88SQez4QvCBM6zg6_AYLfZL7QzGS-0Mw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60411517/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%9827%E5%BA%A6-%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%98%8E%E6%97%A5%E7%A8%8D%E5%BE%8C%E8%BF%8E%E5%86%B7%E9%8B%92",
+    "timestamp": "2026-11-16T22:19:18.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄方：三方會談將繼續舉行　尚未協商歐洲參與問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199050011959103488539170.png/pEcdAzwpMKf51rufup1a_eJwPpXlbfJMvoB-Zb6AfmU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411396/55%E6%AD%B2%E6%9D%8E%E8%8B%B1%E6%84%9B%E6%9B%ACmma%E5%BE%8C%E5%8F%B0%E5%90%88%E7%85%A7-%E9%80%86%E9%BD%A1%E7%8B%80%E6%85%8B%E5%90%8C%E6%A1%86aespa%E8%A2%AB%E5%B0%81-%E7%AC%AC5%E4%BD%8D%E6%88%90%E5%93%A1",
     "timestamp": "2026-11-16T16:04:15.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關元朗及荃灣搗私煙儲存倉　拘2人檢值180萬未完稅香煙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199144837824122880734806.jpeg/hSwlciklbx-5jUp944AlG6B5V4tR2oQxrNpVV6zaVVc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411491/%E6%B5%B7%E9%97%9C%E5%85%83%E6%9C%97%E5%8F%8A%E8%8D%83%E7%81%A3%E6%90%97%E7%A7%81%E7%85%99%E5%84%B2%E5%AD%98%E5%80%89-%E6%8B%982%E4%BA%BA%E6%AA%A2%E5%80%BC180%E8%90%AC%E6%9C%AA%E5%AE%8C%E7%A8%85%E9%A6%99%E7%85%99",
-    "timestamp": "2026-11-16T15:52:04.211Z",
     "strategy": ".content-card__main"
   }
 ];
