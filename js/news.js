@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T15:52:04.211Z
+// Last updated: 2026-11-16T16:04:15.715Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "55歲李英愛曬MMA後台合照　逆齡狀態同框aespa被封「第5位成員」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199050011959103488539170.png/pEcdAzwpMKf51rufup1a_eJwPpXlbfJMvoB-Zb6AfmU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411396/55%E6%AD%B2%E6%9D%8E%E8%8B%B1%E6%84%9B%E6%9B%ACmma%E5%BE%8C%E5%8F%B0%E5%90%88%E7%85%A7-%E9%80%86%E9%BD%A1%E7%8B%80%E6%85%8B%E5%90%8C%E6%A1%86aespa%E8%A2%AB%E5%B0%81-%E7%AC%AC5%E4%BD%8D%E6%88%90%E5%93%A1",
+    "timestamp": "2026-11-16T16:04:15.715Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關元朗及荃灣搗私煙儲存倉　拘2人檢值180萬未完稅香煙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199000407611805696201346.png/-H9webR-7oWvQrVIjbfp4NWKU8-gLJ3rTyo2GU8qNhk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411277/%E6%B1%9F%E7%BE%8E%E5%84%80%E5%AD%96%E6%BA%96%E7%99%BE%E5%84%84%E9%97%8A%E5%A4%AA%E5%BB%96%E7%A2%A7%E5%85%92%E9%A3%AF%E6%95%98-%E6%87%B6%E7%90%86%E5%81%87%E5%96%84%E5%BF%83%E9%A2%A8%E6%B3%A2%E5%BF%83%E6%83%85%E5%8B%81%E9%9D%9A%E5%98%9F%E5%98%B4%E8%B3%A3%E8%90%8C",
     "timestamp": "2026-11-16T08:36:49.423Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC｜中美俄峰會   外交部：歷史首次面對面會晤，具開創性意義",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260526/1136052834756726784123748.png/J5_0vP64pN1D4EVnEVMTrPPoxva0lUfnS7oDvEu6A7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411331/apec-%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%B3%B0%E6%9C%83-%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%AD%B7%E5%8F%B2%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%B0%8D%E9%9D%A2%E6%9C%83%E6%99%A4-%E5%85%B7%E9%96%8B%E5%89%B5%E6%80%A7%E6%84%8F%E7%BE%A9",
-    "timestamp": "2026-11-16T07:59:31.779Z",
     "strategy": ".content-card__main"
   }
 ];
