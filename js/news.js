@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T23:45:10.817Z
+// Last updated: 2026-11-16T23:59:01.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "久坐飲黑咖啡消水腫？PubMed與哈佛揭水分赤字　小腿腫脹成代價",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195050162699898880795648.jpeg/33Z0qqYoJz-ET2T9vvyinRJ6c-c0eALpygIkGMoCJBg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406660/%E4%B9%85%E5%9D%90%E9%A3%B2%E9%BB%91%E5%92%96%E5%95%A1%E6%B6%88%E6%B0%B4%E8%85%AB-pubmed%E8%88%87%E5%93%88%E4%BD%9B%E6%8F%AD%E6%B0%B4%E5%88%86%E8%B5%A4%E5%AD%97-%E5%B0%8F%E8%85%BF%E8%85%AB%E8%84%B9%E6%88%90%E4%BB%A3%E5%83%B9",
+    "timestamp": "2026-11-16T23:59:01.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "久坐飲黑咖啡消水腫？PubMed與哈佛揭水分赤字　小腿腫脹成代價",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197311856113356800859643.jpeg/EDOYBitjxSJKPsamPSrghVbZ9Qv9eykZr-EBva_hAb0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411502/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%ADapec%E5%B7%A5%E5%95%86%E5%B3%B0%E6%9C%83%E7%99%BC%E8%A1%A8%E6%BC%94%E8%AC%9B-%E5%B0%87%E9%A6%96%E6%AC%A1%E4%BB%A5%E5%80%A1%E8%AD%B0%E5%BD%A2%E5%BC%8F%E7%99%BC%E5%B8%83%E6%88%90%E6%9E%9C%E6%96%87%E4%BB%B6",
     "timestamp": "2026-11-16T17:30:54.768Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正談被打劫的心得：學會尊重別人的生存需要",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198320705066766336571948.jpeg/Yw_UerCIwfn4S6i5SveINdYLUuFtlYfIFCLe1BQi3tQ",
-    "url": "https://www.hk01.com/01TV/60410803/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E8%A2%AB%E6%89%93%E5%8A%AB%E7%9A%84%E5%BF%83%E5%BE%97-%E5%AD%B8%E6%9C%83%E5%B0%8A%E9%87%8D%E5%88%A5%E4%BA%BA%E7%9A%84%E7%94%9F%E5%AD%98%E9%9C%80%E8%A6%81",
-    "timestamp": "2026-11-16T17:19:36.963Z",
     "strategy": ".content-card__main"
   }
 ];
