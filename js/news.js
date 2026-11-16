@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T13:35:10.718Z
+// Last updated: 2026-11-16T14:02:03.269Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "崔建春：香港要進一步制定放寬政策　以更好地歡迎國際人士來港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199119296278564864823156.jpeg/6dDhk0JA6TpY99X3D2ddCwkcajczSutYH_8xLR__MS0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411474/%E5%B4%94%E5%BB%BA%E6%98%A5-%E9%A6%99%E6%B8%AF%E8%A6%81%E9%80%B2%E4%B8%80%E6%AD%A5%E5%88%B6%E5%AE%9A%E6%94%BE%E5%AF%AC%E6%94%BF%E7%AD%96-%E4%BB%A5%E6%9B%B4%E5%A5%BD%E5%9C%B0%E6%AD%A1%E8%BF%8E%E5%9C%8B%E9%9A%9B%E4%BA%BA%E5%A3%AB%E4%BE%86%E6%B8%AF",
+    "timestamp": "2026-11-16T14:02:03.269Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴塞新星耶馬疑轉發辱華片惹議？　央視：西甲澄清該內容是偽造",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198232407522676736203971.jpeg/hG82a_bY7ZZOAbyvfa4gvqajpJH3oBerx5t5OsebeTo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60410683/%E9%81%8A%E6%97%A5%E5%BF%85%E7%9C%8B-payme%E9%8A%80%E8%81%AF%E5%8D%A110-%E5%9B%9E%E8%B4%88-%E7%AB%8B%E6%B8%9B-300-4-22%E7%AE%97%E5%A2%9E%E5%80%BCsuica-%E6%95%99%E5%AD%B8",
     "timestamp": "2026-11-16T05:33:05.408Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "IVE張員瑛今空降香港迪士尼點燈！　周一樂園打蛇餅入場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198971642240307200894073.jpeg/CYJN_F3gZtnax-ffV6sGKQ9_iUiaZ-_S_Y0pyf2NKck?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411230/ive%E5%BC%B5%E5%93%A1%E7%91%9B%E4%BB%8A%E7%A9%BA%E9%99%8D%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%BB%9E%E7%87%88-%E5%91%A8%E4%B8%80%E6%A8%82%E5%9C%92%E6%89%93%E8%9B%87%E9%A4%85%E5%85%A5%E5%A0%B4",
-    "timestamp": "2026-11-16T05:20:15.529Z",
     "strategy": ".content-card__main"
   }
 ];
