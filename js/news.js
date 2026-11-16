@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T19:18:55.179Z
+// Last updated: 2026-11-16T19:29:47.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正遇貴人林海峰：寬容的掌舵者成就了他的冷面風格",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
+    "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
+    "timestamp": "2026-11-16T19:29:47.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正遇貴人林海峰：寬容的掌舵者成就了他的冷面風格",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199084134337613824057629.jpeg/skxUdGWzcZNmfaese7fToksnglxm5wpbKdabZCnWm2Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411458/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%94%B9%E9%9D%A9-%E7%9D%A3%E5%B0%8E%E5%A7%94%E5%93%A1%E6%9C%83%E9%A6%96%E6%AC%A1%E9%96%8B%E6%9C%83-%E9%99%B3%E5%9C%8B%E5%9F%BA%E8%A6%81%E6%B1%82%E8%BF%85%E9%80%9F%E8%90%BD%E5%AF%A6%E7%8D%A8%E5%A7%94%E6%9C%83%E5%BB%BA%E8%AD%B0",
     "timestamp": "2026-11-16T12:01:39.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恒地50周年免費睇展覽！　7.5米長Central Yards模型首曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199075585083576320254860.jpeg/ImQk8BZ4di5SBV3Xo3tlCK4YMSR3sQ0aky8coZMvHKE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411447/%E6%81%92%E5%9C%B050%E5%91%A8%E5%B9%B4%E5%85%8D%E8%B2%BB%E7%9D%87%E5%B1%95%E8%A6%BD-7-5%E7%B1%B3%E9%95%B7central-yards%E6%A8%A1%E5%9E%8B%E9%A6%96%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-11-16T11:48:29.733Z",
     "strategy": ".content-card__main"
   }
 ];
