@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T22:59:00.418Z
+// Last updated: 2026-11-16T23:18:51.151Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國聯合航空：系統一度故障已經修復　部份航班延誤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250416/989183642397839360689403.jpeg/4-2t5Kl7vkSgMva8oWyvr8kVWRp-nPWXNeW0PDXltDw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411522/%E7%BE%8E%E5%9C%8B%E8%81%AF%E5%90%88%E8%88%AA%E7%A9%BA-%E7%B3%BB%E7%B5%B1%E4%B8%80%E5%BA%A6%E6%95%85%E9%9A%9C%E5%B7%B2%E7%B6%93%E4%BF%AE%E5%BE%A9-%E9%83%A8%E4%BB%BD%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AA%A4",
+    "timestamp": "2026-11-16T23:18:51.151Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC｜俄方：中美俄峰會主要議題確定　正安排俄美雙邊會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199163119096565760653780.jpeg/SCKaGOHGtQsqhuZlOyE9N5Nw6h9_6NFpXF7wilxe8Io?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411493/%E5%91%A8%E6%BD%A4%E7%99%BC%E9%A6%96%E6%88%B0%E6%AF%85%E8%A1%8C%E8%80%85%E8%87%AA%E7%88%86%E6%80%95%E8%9B%87%E6%80%95%E9%AC%BC-%E7%BE%8E%E9%A3%9F%E6%89%93%E5%8B%95%E9%84%AD%E5%89%87%E4%BB%95%E5%8A%A0%E5%85%A5",
     "timestamp": "2026-11-16T16:59:21.287Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜網上逾18萬人聯署　籲恢復黃仁勳CEO職務",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197975815686459392953406.jpeg/a7WPK9iRLvDxj-tMUBRHU0MWK-0C3ivvzIkY-syJGPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411489/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%B6%B2%E4%B8%8A%E9%80%BE18%E8%90%AC%E4%BA%BA%E8%81%AF%E7%BD%B2-%E7%B1%B2%E6%81%A2%E5%BE%A9%E9%BB%83%E4%BB%81%E5%8B%B3ceo%E8%81%B7%E5%8B%99",
-    "timestamp": "2026-11-16T16:45:17.819Z",
     "strategy": ".content-card__main"
   }
 ];
