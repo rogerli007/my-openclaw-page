@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T11:05:20.117Z
+// Last updated: 2026-11-16T11:33:11.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "曾錦燊拒戰半馬寧跑住採訪　黃庭鋒勸陳星妤玩遊戲勿太投入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198784165311418368937016.jpeg/xF-7hVqsgzTaiiW7K9Xi-ZqxgVB8lcO0zIWw2faFsNk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411113/%E6%9B%BE%E9%8C%A6%E7%87%8A%E6%8B%92%E6%88%B0%E5%8D%8A%E9%A6%AC%E5%AF%A7%E8%B7%91%E4%BD%8F%E6%8E%A1%E8%A8%AA-%E9%BB%83%E5%BA%AD%E9%8B%92%E5%8B%B8%E9%99%B3%E6%98%9F%E5%A6%A4%E7%8E%A9%E9%81%8A%E6%88%B2%E5%8B%BF%E5%A4%AA%E6%8A%95%E5%85%A5",
+    "timestamp": "2026-11-16T11:33:11.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃日華北上跟明星足球隊作賽　竟嫌棄當地粉絲應援物：這個多難看",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198681966140985344872109.png/R0fGaCVfRr_rPPD00oeLQqPllF3G131uEIUyChCFMgo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60411016/%E9%9F%93%E5%9C%98%E5%81%B6%E5%83%8F%E7%86%AC10%E5%B9%B4%E5%9B%9E%E6%B5%81%E8%AE%8A%E8%BA%AB%E7%94%B7%E4%B8%BB%E8%A7%92-%E8%91%A3%E6%80%9D%E6%88%90%E9%96%86%E6%A1%89%E8%BD%89%E5%9E%8B%E6%BC%94%E5%93%A1%E8%BF%8E%E4%BA%8B%E6%A5%AD%E7%AC%AC%E4%BA%8C%E6%98%A5",
     "timestamp": "2026-11-16T03:40:56.601Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜英偉達主管發長文揭私下人品：動用人脈助我抗癌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198949662363488256409785.jpeg/aBJ5bzoLpjzg4kekcsvoDv0fMP3Ij1wKCevtCgnr7Qo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411170/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E4%B8%BB%E7%AE%A1%E7%99%BC%E9%95%B7%E6%96%87%E6%8F%AD%E7%A7%81%E4%B8%8B%E4%BA%BA%E5%93%81-%E5%8B%95%E7%94%A8%E4%BA%BA%E8%84%88%E5%8A%A9%E6%88%91%E6%8A%97%E7%99%8C",
-    "timestamp": "2026-11-16T03:24:22.752Z",
     "strategy": ".content-card__main"
   }
 ];
