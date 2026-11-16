@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T16:45:17.819Z
+// Last updated: 2026-11-16T16:59:21.287Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周潤發首戰毅行者自爆怕蛇怕鬼　美食打動鄭則仕加入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199163119096565760653780.jpeg/SCKaGOHGtQsqhuZlOyE9N5Nw6h9_6NFpXF7wilxe8Io?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411493/%E5%91%A8%E6%BD%A4%E7%99%BC%E9%A6%96%E6%88%B0%E6%AF%85%E8%A1%8C%E8%80%85%E8%87%AA%E7%88%86%E6%80%95%E8%9B%87%E6%80%95%E9%AC%BC-%E7%BE%8E%E9%A3%9F%E6%89%93%E5%8B%95%E9%84%AD%E5%89%87%E4%BB%95%E5%8A%A0%E5%85%A5",
+    "timestamp": "2026-11-16T16:59:21.287Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜網上逾18萬人聯署　籲恢復黃仁勳CEO職務",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199054056941686784964578.jpeg/9vUiCBjxTDcJmQCGa8y3dG5s8jKeoeROOm3Dnjptw54?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60411310/%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82-9-9%E8%97%8D%E8%8E%93%E6%84%88%E5%A4%A7%E6%84%88%E5%A5%BD-%E5%85%A7%E5%9C%B0%E6%AF%8D%E5%AD%90%E5%90%9E%E5%B7%A8%E8%8E%93%E8%85%B9%E7%80%89-%E9%86%AB%E7%94%9F%E6%8F%AD%E8%87%B4%E7%97%85%E9%99%B7%E9%98%B1",
     "timestamp": "2026-11-16T09:46:42.870Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026電腦CPU推薦：AMD vs Intel效能比較與選購報價 一文看清點揀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199027116138565632618754.jpeg/xmLEdy2fqRoqC8Zw8H1IbPHQKmLcp2UdrEqpCqxKqQo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60411295/2026%E9%9B%BB%E8%85%A6cpu%E6%8E%A8%E8%96%A6-amd-vs-intel%E6%95%88%E8%83%BD%E6%AF%94%E8%BC%83%E8%88%87%E9%81%B8%E8%B3%BC%E5%A0%B1%E5%83%B9-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E9%BB%9E%E6%8F%80",
-    "timestamp": "2026-11-16T09:25:16.129Z",
     "strategy": ".content-card__main"
   }
 ];
