@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-15T23:59:08.882Z
+// Last updated: 2026-11-16T00:43:16.404Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《再婚皇后》朱智勛為申敏兒決鬥李鍾碩！秒奔李世榮被轟世紀渣男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198652622945390592258930.png/eX4RR0c-MUOZrBAIUFoBeo4hri_PtdQUeFgkTXhYJE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60410988/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E6%9C%B1%E6%99%BA%E5%8B%9B%E7%82%BA%E7%94%B3%E6%95%8F%E5%85%92%E6%B1%BA%E9%AC%A5%E6%9D%8E%E9%8D%BE%E7%A2%A9-%E7%A7%92%E5%A5%94%E6%9D%8E%E4%B8%96%E6%A6%AE%E8%A2%AB%E8%BD%9F%E4%B8%96%E7%B4%80%E6%B8%A3%E7%94%B7",
+    "timestamp": "2026-11-16T00:43:16.404Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基促美方解除「星盾」限制　籲站在歷史正確一邊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198319096509239296601954.jpeg/WblfDP1S1JeerxvRBB0KYCyYPN-dV5tiB__baAf_22g",
     "url": "https://www.hk01.com/01TV/60410800/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%A9%E6%87%89%E4%B8%8D%E8%89%AF%E8%87%B4%E7%B2%BE%E7%A5%9E%E5%B4%A9%E6%BD%B0-%E6%84%8F%E8%AD%98%E5%88%B0%E8%87%AA%E5%B7%B1%E7%BC%BA%E4%B9%8F-%E9%A6%99%E6%B8%AF%E4%BA%BA%E7%B2%BE%E7%A5%9E",
     "timestamp": "2026-11-15T19:17:38.881Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正談建築系的無奈：沒錢買材料模型只能熬夜親手砌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198317578703867904814605.jpeg/JMXNQUJ6PXwI0s6qtqHZuR5_QhxQKvV9PNEqsjzRKrI",
-    "url": "https://www.hk01.com/01TV/60410799/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%AB%87%E5%BB%BA%E7%AF%89%E7%B3%BB%E7%9A%84%E7%84%A1%E5%A5%88-%E6%B2%92%E9%8C%A2%E8%B2%B7%E6%9D%90%E6%96%99%E6%A8%A1%E5%9E%8B%E5%8F%AA%E8%83%BD%E7%86%AC%E5%A4%9C%E8%A6%AA%E6%89%8B%E7%A0%8C",
-    "timestamp": "2026-11-15T18:56:14.375Z",
     "strategy": ".content-card__main"
   }
 ];
