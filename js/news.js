@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T07:59:31.779Z
+// Last updated: 2026-11-16T08:36:49.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀孖準百億闊太廖碧兒飯敘　懶理假善心風波心情勁靚嘟嘴賣萌",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199000407611805696201346.png/-H9webR-7oWvQrVIjbfp4NWKU8-gLJ3rTyo2GU8qNhk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411277/%E6%B1%9F%E7%BE%8E%E5%84%80%E5%AD%96%E6%BA%96%E7%99%BE%E5%84%84%E9%97%8A%E5%A4%AA%E5%BB%96%E7%A2%A7%E5%85%92%E9%A3%AF%E6%95%98-%E6%87%B6%E7%90%86%E5%81%87%E5%96%84%E5%BF%83%E9%A2%A8%E6%B3%A2%E5%BF%83%E6%83%85%E5%8B%81%E9%9D%9A%E5%98%9F%E5%98%B4%E8%B3%A3%E8%90%8C",
+    "timestamp": "2026-11-16T08:36:49.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC｜中美俄峰會   外交部：歷史首次面對面會晤，具開創性意義",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198703676760264704517689.jpeg/YHlSmPNJqQM2nbmvOlqei58yy8VoH5bCBvNVQQbzVUE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/60410494/%E8%A8%B1%E6%AD%A3%E5%AE%87%E5%B0%88%E8%A8%AA-%E7%B9%81%E5%BF%99%E7%88%B8%E7%88%B8%E8%AC%9B%E8%A6%AA%E5%AD%90%E8%B3%AA%E9%87%8F-ai%E6%99%82%E4%BB%A3%E8%91%97%E9%87%8D%E5%9F%B9%E8%82%B2%E7%99%BC%E6%8E%98%E7%9A%84%E8%83%BD%E5%8A%9B",
     "timestamp": "2026-11-15T23:32:09.546Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許正宇專訪｜再多160間家辦擬落戶香港 　擬拓闊稅務優惠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197940594597433344123954.jpeg/aIET73l2h6G2SyPIalDgK5GuxDmZAeLqcYS_PHGEvzw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60410488/%E8%A8%B1%E6%AD%A3%E5%AE%87%E5%B0%88%E8%A8%AA-%E5%86%8D%E5%A4%9A160%E9%96%93%E5%AE%B6%E8%BE%A6%E6%93%AC%E8%90%BD%E6%88%B6%E9%A6%99%E6%B8%AF-%E6%93%AC%E6%8B%93%E9%97%8A%E7%A8%85%E5%8B%99%E5%84%AA%E6%83%A0",
-    "timestamp": "2026-11-15T23:19:06.908Z",
     "strategy": ".content-card__main"
   }
 ];
