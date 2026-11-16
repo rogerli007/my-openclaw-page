@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T06:36:47.875Z
+// Last updated: 2026-11-16T07:30:20.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國布吉島凌晨大火釀11死36傷　逾百電單車助燃煙囪效應奪命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199013623322644480374569.jpeg/OgjJTFGsyvCPeZHYZRie7dd65vqFI34YimUw_YplMP0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411306/%E6%B3%B0%E5%9C%8B%E5%B8%83%E5%90%89%E5%B3%B6%E5%87%8C%E6%99%A8%E5%A4%A7%E7%81%AB%E9%87%8011%E6%AD%BB36%E5%82%B7-%E9%80%BE%E7%99%BE%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%8A%A9%E7%87%83%E7%85%99%E5%9B%AA%E6%95%88%E6%87%89%E5%A5%AA%E5%91%BD",
+    "timestamp": "2026-11-16T07:30:20.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜當錫傷癒復出狂轟43分　湖人末節鬆懈險翻船　挫太陽奪8連勝",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198726032861958144154972.jpeg/29msi225dPgXQ2h4hVvSmt6TuyPgruKFhXGSwIVxksA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411076/%E7%8E%8B%E5%96%9C%E6%82%A3%E8%85%8E%E8%A1%B0%E7%AB%AD%E9%81%AD%E6%9A%97%E5%AF%B8%E9%AB%94%E5%8A%9B%E5%B7%AE-%E4%B8%8D%E5%BF%BF%E7%88%86%E9%AC%A7-%E6%88%90%E4%B8%96%E4%BA%BA%E6%88%90%E6%97%A5%E9%81%87%E5%88%B0%E5%91%A2%E5%95%B2x%E5%AE%B6%E5%89%B7",
     "timestamp": "2026-11-15T22:57:28.904Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王喜患腎衰竭遭暗寸體力差　不忿爆鬧：成世人成日遇到呢啲X家剷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261115/1198726032861958144154972.jpeg/29msi225dPgXQ2h4hVvSmt6TuyPgruKFhXGSwIVxksA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411076/%E7%8E%8B%E5%96%9C%E6%82%A3%E8%85%8E%E8%A1%B0%E7%AB%AD%E9%81%AD%E6%9A%97%E5%AF%B8%E9%AB%94%E5%8A%9B%E5%B7%AE-%E4%B8%8D%E5%BF%BF%E7%88%86%E9%AC%A7-%E6%88%90%E4%B8%96%E4%BA%BA%E6%88%90%E6%97%A5%E9%81%87%E5%88%B0%E5%91%A2%E5%95%B2x%E5%AE%B6%E5%89%B7",
-    "timestamp": "2026-11-15T22:45:04.348Z",
     "strategy": ".content-card__main"
   }
 ];
