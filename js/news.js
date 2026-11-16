@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T20:45:01.242Z
+// Last updated: 2026-11-16T21:19:32.949Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正被周星馳青睞：一句「你好有趣」獲得喜劇大師認可",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198324495245381632218395.jpeg/k38OZ5yITnIzBe5oLaKqRdVe6CBrtTryjnWvqY51r6k",
+    "url": "https://www.hk01.com/01TV/60410808/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%A2%AB%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9D%92%E7%9D%9E-%E4%B8%80%E5%8F%A5-%E4%BD%A0%E5%A5%BD%E6%9C%89%E8%B6%A3-%E7%8D%B2%E5%BE%97%E5%96%9C%E5%8A%87%E5%A4%A7%E5%B8%AB%E8%AA%8D%E5%8F%AF",
+    "timestamp": "2026-11-16T21:19:32.949Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正被周星馳青睞：一句「你好有趣」獲得喜劇大師認可",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199077791325229056574089.jpeg/inyiIrKoG6iPeVWsMtx0aXDArQ2QJR3JbwzUO28M1Ds?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411431/%E6%9E%97%E6%84%B7%E9%88%B4%E6%93%81-%E7%9A%87%E5%AE%A4%E8%A1%80%E7%B5%B1-%E6%9B%9D%E5%85%89%E6%81%90%E7%94%9F%E5%91%BD%E5%8F%97%E5%A8%81%E8%84%85-%E9%BE%94%E6%85%88%E6%81%A9-%E5%94%94%E9%97%9C%E5%80%8B%E5%A5%B3%E4%BA%8B",
     "timestamp": "2026-11-16T14:35:20.196Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "崔建春：香港要進一步制定放寬政策　以更好地歡迎國際人士來港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199119296278564864823156.jpeg/6dDhk0JA6TpY99X3D2ddCwkcajczSutYH_8xLR__MS0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411474/%E5%B4%94%E5%BB%BA%E6%98%A5-%E9%A6%99%E6%B8%AF%E8%A6%81%E9%80%B2%E4%B8%80%E6%AD%A5%E5%88%B6%E5%AE%9A%E6%94%BE%E5%AF%AC%E6%94%BF%E7%AD%96-%E4%BB%A5%E6%9B%B4%E5%A5%BD%E5%9C%B0%E6%AD%A1%E8%BF%8E%E5%9C%8B%E9%9A%9B%E4%BA%BA%E5%A3%AB%E4%BE%86%E6%B8%AF",
-    "timestamp": "2026-11-16T14:02:03.269Z",
     "strategy": ".content-card__main"
   }
 ];
