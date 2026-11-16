@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-16T17:46:06.639Z
+// Last updated: 2026-11-16T17:59:20.605Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜特朗普：不介意黃仁勳復任CEO　不知道黃樂是否間諜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199164704958713856840961.jpeg/Z-MBA4CI1MZLjgdIkgRRpccW-oSytrqhW6Zqq1umaqs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411500/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E4%BB%8B%E6%84%8F%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E4%BB%BBceo-%E4%B8%8D%E7%9F%A5%E9%81%93%E9%BB%83%E6%A8%82%E6%98%AF%E5%90%A6%E9%96%93%E8%AB%9C",
+    "timestamp": "2026-11-16T17:59:20.605Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紅磡灣中心車庫風管塌下　壓中保時捷、平治私家車　警到場調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198961801186775040692785.png/fIPPGoE5Zt9P1XYWci9rXMgn8CHkRQ_q8WCfWvFgn1o",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411155/aespa%E5%89%9B%E6%8D%A7mma%E5%A4%A7%E8%B3%9E%E5%8D%B3%E9%81%AD%E6%89%B9-%E4%BC%BC%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%89%8D%E8%97%9D%E5%8C%AF%E6%BC%94-%E6%8B%86%E8%A7%A3%E8%88%9E%E5%8F%B03%E5%A4%A7%E7%81%BD%E9%9B%A3",
     "timestamp": "2026-11-16T10:49:25.185Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本電訊商DOCOMO本月第三次故障　5G服務癱瘓達6小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199042568432652288935187.jpeg/ougOyUnAoe89OnVgV7MapenvqOzDt4twBjb_BwY2_wc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411373/%E6%97%A5%E6%9C%AC%E9%9B%BB%E8%A8%8A%E5%95%86docomo%E6%9C%AC%E6%9C%88%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%95%85%E9%9A%9C-5g%E6%9C%8D%E5%8B%99%E7%99%B1%E7%98%93%E9%81%946%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-11-16T10:37:45.673Z",
     "strategy": ".content-card__main"
   }
 ];
