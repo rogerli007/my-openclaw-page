@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T17:45:20.526Z
+// Last updated: 2026-11-17T17:59:18.670Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BIGBANG演唱會｜高仿門票符合快達票3大防偽特徵　照紫光燈也中招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199230453517651968028154.jpeg/Rk_Z_k53OnimQvbMQFVykraWdp05c12N_NXes9XV3rM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411348/bigbang%E6%BC%94%E5%94%B1%E6%9C%83-%E9%AB%98%E4%BB%BF%E9%96%80%E7%A5%A8%E7%AC%A6%E5%90%88%E5%BF%AB%E9%81%94%E7%A5%A83%E5%A4%A7%E9%98%B2%E5%81%BD%E7%89%B9%E5%BE%B5-%E7%85%A7%E7%B4%AB%E5%85%89%E7%87%88%E4%B9%9F%E4%B8%AD%E6%8B%9B",
+    "timestamp": "2026-11-17T17:59:18.670Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角途人舉報毒品快餐車　疑犯遭按地制服　警拘兩男",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199387681960759296286935.jpeg/OE8VVLGtYLEOm_7Bx7lxQ2goBW5Zp-fXrE9xW6xPcVs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411752/%E8%B0%B7%E5%A9%AD%E6%BA%A6%E5%9B%9E%E9%A1%A711%E5%B9%B4-%E6%B8%AF%E6%BC%82-%E8%BE%9B%E9%85%B8%E5%8F%B2-%E5%85%A9%E5%B9%B4%E5%89%8D%E5%B7%B2%E7%B0%BD%E6%96%B0%E5%85%AC%E5%8F%B8-%E5%94%94%E4%BF%82%E9%9B%A2%E9%96%8B%E6%A8%82%E5%A3%87",
     "timestamp": "2026-11-17T11:19:29.663Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬浚偉履新半年交出亮眼成績表　收入較去年同期增長約5,500萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199417240416423936623578.jpeg/h453SYL5ZSqirzlq9277LOWadTkQ5xBE6Wb-e-lm_ns?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411867/%E9%A6%AC%E6%B5%9A%E5%81%89%E5%B1%A5%E6%96%B0%E5%8D%8A%E5%B9%B4%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%B8%BE%E8%A1%A8-%E6%94%B6%E5%85%A5%E8%BC%83%E5%8E%BB%E5%B9%B4%E5%90%8C%E6%9C%9F%E5%A2%9E%E9%95%B7%E7%B4%845-500%E8%90%AC%E5%85%83",
-    "timestamp": "2026-11-17T10:58:55.018Z",
     "strategy": ".content-card__main"
   }
 ];
