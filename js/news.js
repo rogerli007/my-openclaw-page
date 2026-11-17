@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T12:24:47.924Z
+// Last updated: 2026-11-17T12:38:53.832Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普訪亞洲代表團：內閣三巨頭壓陣　普京帶30企業代表去深圳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199297529754161152730548.jpeg/w8esAZCQaaMiW26wDb4WdGSqbxrEMe1GT4AYTU-AGE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411946/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E4%BA%9E%E6%B4%B2%E4%BB%A3%E8%A1%A8%E5%9C%98-%E5%85%A7%E9%96%A3%E4%B8%89%E5%B7%A8%E9%A0%AD%E5%A3%93%E9%99%A3-%E6%99%AE%E4%BA%AC%E5%B8%B630%E4%BC%81%E6%A5%AD%E4%BB%A3%E8%A1%A8%E5%8E%BB%E6%B7%B1%E5%9C%B3",
+    "timestamp": "2026-11-17T12:38:53.832Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC深圳直擊·有片｜機械人變「街坊」　記者實測共舞、沖咖啡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199323087217102848935108.png/p3f3MpPpeRtG18HdV9yCuBf1vKzLrY_rsPtm7bD7Zu0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60411611/%E6%B3%B0%E5%9C%8B%E6%B5%B7%E7%81%98%E9%A9%9A%E7%8F%BE%E7%A5%9E%E7%A7%98%E5%9C%93%E7%90%83-%E7%96%91%E5%A4%AA%E7%A9%BA%E7%A2%8E%E7%89%87%E5%A2%9C%E6%B5%B7%E5%AE%98%E6%96%B9%E8%AD%A6%E5%91%8A%E5%8B%BF%E8%A7%B8%E6%91%B8",
     "timestamp": "2026-11-17T05:45:44.751Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳奇景！海濱驚現逾百片「神秘白物」　網民揭真身是平民美食",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199347679738466304823140.jpeg/rix3mASaYD5qxZE7uMPdiKXL4XvD7LSkKce8TSnHvE0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411649/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%A5%87%E6%99%AF-%E6%B5%B7%E6%BF%B1%E9%A9%9A%E7%8F%BE%E9%80%BE%E7%99%BE%E7%89%87-%E7%A5%9E%E7%A7%98%E7%99%BD%E7%89%A9-%E7%B6%B2%E6%B0%91%E6%8F%AD%E7%9C%9F%E8%BA%AB%E6%98%AF%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F",
-    "timestamp": "2026-11-17T05:20:51.366Z",
     "strategy": ".content-card__main"
   }
 ];
