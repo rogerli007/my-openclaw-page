@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T00:37:46.415Z
+// Last updated: 2026-11-17T00:58:06.293Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜呈祥道七人車連掃兩盞工程燈　片主：人哋放龜你就放燈",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199274524718141440804732.png/0_S1zJTbdv-vt2UMsSpEcqtl_JnDn5ZQdTkTnHU5E5w",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411524/%E6%9C%89%E7%89%87-%E5%91%88%E7%A5%A5%E9%81%93%E4%B8%83%E4%BA%BA%E8%BB%8A%E9%80%A3%E6%8E%83%E5%85%A9%E7%9B%9E%E5%B7%A5%E7%A8%8B%E7%87%88-%E7%89%87%E4%B8%BB-%E4%BA%BA%E5%93%8B%E6%94%BE%E9%BE%9C%E4%BD%A0%E5%B0%B1%E6%94%BE%E7%87%88",
+    "timestamp": "2026-11-17T00:58:06.293Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜呈祥道七人車連掃兩盞工程燈　片主：人哋放龜你就放燈",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199164704958713856840961.jpeg/Z-MBA4CI1MZLjgdIkgRRpccW-oSytrqhW6Zqq1umaqs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411500/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E4%BB%8B%E6%84%8F%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E4%BB%BBceo-%E4%B8%8D%E7%9F%A5%E9%81%93%E9%BB%83%E6%A8%82%E6%98%AF%E5%90%A6%E9%96%93%E8%AB%9C",
     "timestamp": "2026-11-16T17:59:20.605Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紅磡灣中心車庫風管塌下　壓中保時捷、平治私家車　警到場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199174063910555648736589.jpeg/g_vBxMmXyaPnIUaUUEnax1IG6jTVzMo4x5qYL-2amC8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411504/%E7%B4%85%E7%A3%A1%E7%81%A3%E4%B8%AD%E5%BF%83%E8%BB%8A%E5%BA%AB%E9%A2%A8%E7%AE%A1%E5%A1%8C%E4%B8%8B-%E5%A3%93%E4%B8%AD%E4%BF%9D%E6%99%82%E6%8D%B7-%E5%B9%B3%E6%B2%BB%E7%A7%81%E5%AE%B6%E8%BB%8A-%E8%AD%A6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-16T17:46:06.639Z",
     "strategy": ".content-card__main"
   }
 ];
