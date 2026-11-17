@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T08:21:14.090Z
+// Last updated: 2026-11-17T08:36:13.632Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北京同仁堂｢一捻金｣抽檢含水量不合格　公司回應：正溯源核查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199397886446538752076859.jpeg/HplD27QNpqTBPCu3G9ETHzl070Okkv3sIPnjzSD5480?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411754/%E5%8C%97%E4%BA%AC%E5%90%8C%E4%BB%81%E5%A0%82-%E4%B8%80%E6%8D%BB%E9%87%91-%E6%8A%BD%E6%AA%A2%E5%90%AB%E6%B0%B4%E9%87%8F%E4%B8%8D%E5%90%88%E6%A0%BC-%E5%85%AC%E5%8F%B8%E5%9B%9E%E6%87%89-%E6%AD%A3%E6%BA%AF%E6%BA%90%E6%A0%B8%E6%9F%A5",
+    "timestamp": "2026-11-17T08:36:13.632Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球香港賽｜謝影雪夥17歲禹智睿過關　對啟德新場讚不絕口",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198400187274366976956308.jpeg/zj7tHLH5Cko08anbI_XjimQz2YPHocVV3b2FM929hTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411537/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-wsj%E7%99%BC%E7%A4%BE%E8%AB%96%E7%A8%B1%E4%B8%AD%E5%9C%8B%E7%82%BA%E9%96%93%E8%AB%9C%E5%9C%8B%E5%AE%B6-%E5%85%A7%E5%AA%92%E6%89%B9%E9%87%8D%E6%BC%94%E9%BA%A5%E5%8D%A1%E9%8C%AB%E7%8D%B5%E5%B7%AB",
     "timestamp": "2026-11-17T02:24:38.735Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC工商峰會深圳揭幕　逾2000政商代表齊聚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199294258729717760735902.png/7bOLqi6-YrqLgBKZPK0YniQl0XJW-4Mkkgvcm5IL3Js?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411530/apec%E5%B7%A5%E5%95%86%E5%B3%B0%E6%9C%83%E6%B7%B1%E5%9C%B3%E6%8F%AD%E5%B9%95-%E9%80%BE2000%E6%94%BF%E5%95%86%E4%BB%A3%E8%A1%A8%E9%BD%8A%E8%81%9A",
-    "timestamp": "2026-11-17T01:48:37.872Z",
     "strategy": ".content-card__main"
   }
 ];
