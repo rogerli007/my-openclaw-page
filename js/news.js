@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T01:21:39.581Z
+// Last updated: 2026-11-17T01:48:37.872Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC工商峰會深圳揭幕　逾2000政商代表齊聚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199294258729717760735902.png/7bOLqi6-YrqLgBKZPK0YniQl0XJW-4Mkkgvcm5IL3Js?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411530/apec%E5%B7%A5%E5%95%86%E5%B3%B0%E6%9C%83%E6%B7%B1%E5%9C%B3%E6%8F%AD%E5%B9%95-%E9%80%BE2000%E6%94%BF%E5%95%86%E4%BB%A3%E8%A1%A8%E9%BD%8A%E8%81%9A",
+    "timestamp": "2026-11-17T01:48:37.872Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳卸下「副書記標配」：特區人事的動態校準與治理新考",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240805/897155846784421888265410.jpeg/QN9YVAVnd0kSnbvFsZTW1guoWP-Pb4y5UXjCklF4wpI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411515/%E5%B7%B4%E8%A5%BF%E5%A4%9A%E5%AE%97%E6%A7%8D%E6%93%8A%E8%87%B3%E5%B0%918%E6%AD%BB5%E5%82%B7-%E8%AD%A6%E6%96%B9%E7%96%91%E6%A1%88%E4%BB%B6%E6%9C%89%E9%97%9C%E9%80%A3",
     "timestamp": "2026-11-16T18:59:08.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC直擊｜工商領導人峰會前夕　前海會場鐵欄杆戒備群眾聚集拍攝",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199184230655987712349675.png/YaivM7tPiYnqK4qKzay25kMdl4g4HnPt7zp4Oe86eDk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411498/apec%E7%9B%B4%E6%93%8A-%E5%B7%A5%E5%95%86%E9%A0%98%E5%B0%8E%E4%BA%BA%E5%B3%B0%E6%9C%83%E5%89%8D%E5%A4%95-%E5%89%8D%E6%B5%B7%E6%9C%83%E5%A0%B4%E9%90%B5%E6%AC%84%E6%9D%86%E6%88%92%E5%82%99%E7%BE%A4%E7%9C%BE%E8%81%9A%E9%9B%86%E6%8B%8D%E6%94%9D",
-    "timestamp": "2026-11-16T18:35:00.044Z",
     "strategy": ".content-card__main"
   }
 ];
