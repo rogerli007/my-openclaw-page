@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T11:59:13.766Z
+// Last updated: 2026-11-17T12:24:47.924Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC深圳直擊·有片｜機械人變「街坊」　記者實測共舞、沖咖啡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199455110753685504059146.png/yA6BJ1wUolq6qV5TRr2gdS0gSzoG6vp_fVVsmEdVbJg?v=w1920",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411677/apec%E6%B7%B1%E5%9C%B3%E7%9B%B4%E6%93%8A-%E6%9C%89%E7%89%87-%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%AE%8A-%E8%A1%97%E5%9D%8A-%E8%A8%98%E8%80%85%E5%AF%A6%E6%B8%AC%E5%85%B1%E8%88%9E-%E6%B2%96%E5%92%96%E5%95%A1",
+    "timestamp": "2026-11-17T12:24:47.924Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李秀滿女團A2O LITE「3人僅13歲」陷低齡爭議　政府出手開啟調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199347679738466304823140.jpeg/rix3mASaYD5qxZE7uMPdiKXL4XvD7LSkKce8TSnHvE0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411649/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%A5%87%E6%99%AF-%E6%B5%B7%E6%BF%B1%E9%A9%9A%E7%8F%BE%E9%80%BE%E7%99%BE%E7%89%87-%E7%A5%9E%E7%A7%98%E7%99%BD%E7%89%A9-%E7%B6%B2%E6%B0%91%E6%8F%AD%E7%9C%9F%E8%BA%AB%E6%98%AF%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F",
     "timestamp": "2026-11-17T05:20:51.366Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "凍肉解凍｜浸水解凍細菌激增百倍！食安教3大安全解凍法＋忌再凍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199341865007058944143785.jpeg/fJqOEvYNIX-GyK_FFsWnvMM7K3Jq-BFjud4uurneLro?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60411448/%E5%87%8D%E8%82%89%E8%A7%A3%E5%87%8D-%E6%B5%B8%E6%B0%B4%E8%A7%A3%E5%87%8D%E7%B4%B0%E8%8F%8C%E6%BF%80%E5%A2%9E%E7%99%BE%E5%80%8D-%E9%A3%9F%E5%AE%89%E6%95%993%E5%A4%A7%E5%AE%89%E5%85%A8%E8%A7%A3%E5%87%8D%E6%B3%95-%E5%BF%8C%E5%86%8D%E5%87%8D",
-    "timestamp": "2026-11-17T04:59:06.108Z",
     "strategy": ".content-card__main"
   }
 ];
