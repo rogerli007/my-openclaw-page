@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T16:45:22.262Z
+// Last updated: 2026-11-17T16:59:02.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鋼琴家王羽佳香港演出取消曲目　文體旅局促主辦方說明及審視資助",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197279694622298112581473.jpeg/kskK95MGykXDtHHRqavHenHgqFEMh8N4aDVezmg1Xs4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411973/%E9%8B%BC%E7%90%B4%E5%AE%B6%E7%8E%8B%E7%BE%BD%E4%BD%B3%E9%A6%99%E6%B8%AF%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88%E6%9B%B2%E7%9B%AE-%E6%96%87%E9%AB%94%E6%97%85%E5%B1%80%E4%BF%83%E4%B8%BB%E8%BE%A6%E6%96%B9%E8%AA%AA%E6%98%8E%E5%8F%8A%E5%AF%A9%E8%A6%96%E8%B3%87%E5%8A%A9",
+    "timestamp": "2026-11-17T16:59:02.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珀麗灣沙灘現老鼠藥　專家斥危害小童健康　管理處稱已提醒承辦商",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199378268046757888528143.png/pQFb7P-m88RuyoN_Dr7ZYNZSaXm42veIrD7HRaw-x0U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411700/ive%E5%BC%B5%E5%93%A1%E7%91%9B%E6%B8%AF%E8%BF%AA%E9%BB%9E%E7%87%88%E5%BE%8C%E5%87%8C%E6%99%A8%E6%90%AD%E6%A9%9F%E8%BF%94%E9%9F%93-%E7%B2%89%E7%B5%B2%E7%BF%BB%E8%88%8A%E5%B8%B3%E7%97%9B%E6%89%B9%E5%85%AC%E5%8F%B8%E4%BD%9C%E6%81%AF%E9%9D%9E%E4%BA%BA",
     "timestamp": "2026-11-17T10:20:26.246Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《甄嬛傳》溫太醫張曉龍爆秘婚已升格三寶爸　神秘圈外妻子首露面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199353794366803968463891.png/Rlb1C0M8qybIy_jk_OUQ1HfaEmveUQE5NUGY1zVBmNc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411576/%E7%94%84%E5%AC%9B%E5%82%B3-%E6%BA%AB%E5%A4%AA%E9%86%AB%E5%BC%B5%E6%9B%89%E9%BE%8D%E7%88%86%E7%A7%98%E5%A9%9A%E5%B7%B2%E5%8D%87%E6%A0%BC%E4%B8%89%E5%AF%B6%E7%88%B8-%E7%A5%9E%E7%A7%98%E5%9C%88%E5%A4%96%E5%A6%BB%E5%AD%90%E9%A6%96%E9%9C%B2%E9%9D%A2",
-    "timestamp": "2026-11-17T09:45:26.496Z",
     "strategy": ".content-card__main"
   }
 ];
