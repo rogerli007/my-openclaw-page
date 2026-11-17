@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T19:59:08.754Z
+// Last updated: 2026-11-17T20:30:04.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗指美軍空襲格什姆島　路透：導彈發射場為目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199576122858147840728051.png/_cyK6cTw2ROa91oNIwarsIFfp4ZmOYIF9ANvqPQDb6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411992/%E4%BC%8A%E6%9C%97%E6%8C%87%E7%BE%8E%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B3%B6-%E8%B7%AF%E9%80%8F-%E5%B0%8E%E5%BD%88%E7%99%BC%E5%B0%84%E5%A0%B4%E7%82%BA%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-11-17T20:30:04.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美國家安全局內部高度機密通訊網絡癱瘓　尚無網絡攻擊證據",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230116/691764302884900864140537.jpeg/YesGd_Gx8eOetGU6GkjpX3hHBGSjYx0hPdEOzD3RDsw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411970/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E5%A4%A7%E5%9F%94%E4%B8%8A%E6%B0%B4%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E8%B3%A3%E6%B7%AB-%E6%8B%9811%E5%85%A7%E5%9C%B0%E5%A9%A6%E6%B6%89%E9%81%95%E5%8F%8D%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6",
     "timestamp": "2026-11-17T14:45:39.562Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "萬千星輝賀台慶｜盤點過去30年壓軸大獎得主　薛家燕中190萬稱冠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199407183830192128296750.jpeg/kY_-BCx5nNHB-06fsfgYpfK25bGrk309hQDOnoUAzp4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411842/%E8%90%AC%E5%8D%83%E6%98%9F%E8%BC%9D%E8%B3%80%E5%8F%B0%E6%85%B6-%E7%9B%A4%E9%BB%9E%E9%81%8E%E5%8E%BB30%E5%B9%B4%E5%A3%93%E8%BB%B8%E5%A4%A7%E7%8D%8E%E5%BE%97%E4%B8%BB-%E8%96%9B%E5%AE%B6%E7%87%95%E4%B8%AD190%E8%90%AC%E7%A8%B1%E5%86%A0",
-    "timestamp": "2026-11-17T14:20:29.435Z",
     "strategy": ".content-card__main"
   }
 ];
