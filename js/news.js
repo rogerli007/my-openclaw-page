@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T05:59:27.050Z
+// Last updated: 2026-11-17T06:28:12.852Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT香港總決賽｜王楚欽入圍與孫穎莎分戰單打　混雙外卡有待公布",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199366405410000896758234.jpeg/nS-QlaoGz8-HmfSGal-uuiJT9ru0AJuYw_Ax-sPwMfo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411687/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E7%8E%8B%E6%A5%9A%E6%AC%BD%E5%85%A5%E5%9C%8D%E8%88%87%E5%AD%AB%E7%A9%8E%E8%8E%8E%E5%88%86%E6%88%B0%E5%96%AE%E6%89%93-%E6%B7%B7%E9%9B%99%E5%A4%96%E5%8D%A1%E6%9C%89%E5%BE%85%E5%85%AC%E5%B8%83",
+    "timestamp": "2026-11-17T06:28:12.852Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT香港總決賽2026球員名單持續更新　附售票連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195050162699898880795648.jpeg/33Z0qqYoJz-ET2T9vvyinRJ6c-c0eALpygIkGMoCJBg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406660/%E4%B9%85%E5%9D%90%E9%A3%B2%E9%BB%91%E5%92%96%E5%95%A1%E6%B6%88%E6%B0%B4%E8%85%AB-pubmed%E8%88%87%E5%93%88%E4%BD%9B%E6%8F%AD%E6%B0%B4%E5%88%86%E8%B5%A4%E5%AD%97-%E5%B0%8F%E8%85%BF%E8%85%AB%E8%84%B9%E6%88%90%E4%BB%A3%E5%83%B9",
     "timestamp": "2026-11-16T23:45:10.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國聯合航空：系統一度故障已經修復　部份航班延誤",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250416/989183642397839360689403.jpeg/4-2t5Kl7vkSgMva8oWyvr8kVWRp-nPWXNeW0PDXltDw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411522/%E7%BE%8E%E5%9C%8B%E8%81%AF%E5%90%88%E8%88%AA%E7%A9%BA-%E7%B3%BB%E7%B5%B1%E4%B8%80%E5%BA%A6%E6%95%85%E9%9A%9C%E5%B7%B2%E7%B6%93%E4%BF%AE%E5%BE%A9-%E9%83%A8%E4%BB%BD%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AA%A4",
-    "timestamp": "2026-11-16T23:18:51.151Z",
     "strategy": ".content-card__main"
   }
 ];
