@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T10:20:26.246Z
+// Last updated: 2026-11-17T10:45:45.177Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Nike投資者日公布創新研發　兩大系列重啟肌肉感知　開創運動新章",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199431105330024448082534.jpeg/S7XY_WIy6WHz-TcOs3iUiYkOZ2IuL-tIGHjAHBh4wBw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411908/nike%E6%8A%95%E8%B3%87%E8%80%85%E6%97%A5%E5%85%AC%E5%B8%83%E5%89%B5%E6%96%B0%E7%A0%94%E7%99%BC-%E5%85%A9%E5%A4%A7%E7%B3%BB%E5%88%97%E9%87%8D%E5%95%9F%E8%82%8C%E8%82%89%E6%84%9F%E7%9F%A5-%E9%96%8B%E5%89%B5%E9%81%8B%E5%8B%95%E6%96%B0%E7%AB%A0",
+    "timestamp": "2026-11-17T10:45:45.177Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "IVE張員瑛港迪點燈後凌晨搭機返韓！粉絲翻舊帳痛批公司作息非人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220601/608682552173137920961520.jpeg/HmQ1wcpY_rA8UFWaIzV-2sQm436whZM18xA5LfMQOS0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411614/%E6%B8%AF%E7%94%B7%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%A8%9F%E5%AE%9C%E6%A9%9F%E5%A0%B4%E6%B6%89%E5%81%B7-2000%E8%80%B3%E6%A9%9F-%E5%86%8D%E5%85%A5%E5%A2%83%E8%A2%AB%E6%8D%95-%E7%BD%AA%E6%88%90%E6%9C%80%E9%AB%98%E5%8F%AF%E5%9B%9A7%E5%B9%B4",
     "timestamp": "2026-11-17T03:43:36.485Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Bottega Veneta2026假日新作Verde登場！最低入手價$30,500",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198309951081025536438605.png/kU-1W9gECR341s-pAQmPD0n9SG0kGY64wCR5nsAkeZ4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60410769/bottega-veneta2026%E5%81%87%E6%97%A5%E6%96%B0%E4%BD%9Cverde%E7%99%BB%E5%A0%B4-%E6%9C%80%E4%BD%8E%E5%85%A5%E6%89%8B%E5%83%B9-30-500",
-    "timestamp": "2026-11-17T03:32:04.412Z",
     "strategy": ".content-card__main"
   }
 ];
