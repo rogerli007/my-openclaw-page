@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T14:45:39.562Z
+// Last updated: 2026-11-17T14:59:17.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中國商務部：中加延長豁免措施2年　中方將調整針對農水產品措施",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199332330607480832390817.jpeg/objs6TRXszxqBXpu9wmJ3qApZ5vH-IQKrhQ7s64UO7M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411971/%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E4%B8%AD%E5%8A%A0%E5%BB%B6%E9%95%B7%E8%B1%81%E5%85%8D%E6%8E%AA%E6%96%BD2%E5%B9%B4-%E4%B8%AD%E6%96%B9%E5%B0%87%E8%AA%BF%E6%95%B4%E9%87%9D%E5%B0%8D%E8%BE%B2%E6%B0%B4%E7%94%A2%E5%93%81%E6%8E%AA%E6%96%BD",
+    "timestamp": "2026-11-17T14:59:17.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警聯入境處大埔上水打擊非法賣淫　拘11內地婦涉違反逗留條件",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199351064025894912713524.jpeg/lw4FQXp-dUIDPRMUhDiVQkQslml-6-CFOPlfajj5X2o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411602/%E8%B6%B3%E7%90%83-%E7%9B%A7%E5%8D%A1%E5%8F%A4%E9%80%80%E5%87%BA%E6%AF%94%E5%88%A9%E6%99%82%E5%9C%8B%E5%AE%B6%E9%9A%8A-%E7%B4%80%E9%8C%84%E5%B0%84%E6%89%8B%E4%B8%8D%E7%8D%B2%E9%9B%B2%E9%82%A6%E7%BE%8E%E9%87%8D%E7%94%A8%E6%84%8F%E8%88%88%E9%97%8C%E7%8F%8A",
     "timestamp": "2026-11-17T07:59:09.466Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜勇士3連敗淨負66分　居里缺陣骨牌效應　進攻體系癱瘓",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199369869678612480918370.jpeg/glXAfcPGdhaEOnRe1Tru0HZA4FWaZ0oyGUL5khlC-ZI?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60411698/nba-%E5%8B%87%E5%A3%AB3%E9%80%A3%E6%95%97%E6%B7%A8%E8%B2%A066%E5%88%86-%E5%B1%85%E9%87%8C%E7%BC%BA%E9%99%A3%E9%AA%A8%E7%89%8C%E6%95%88%E6%87%89-%E9%80%B2%E6%94%BB%E9%AB%94%E7%B3%BB%E7%99%B1%E7%98%93",
-    "timestamp": "2026-11-17T07:45:34.291Z",
     "strategy": ".content-card__main"
   }
 ];
