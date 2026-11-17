@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T08:36:13.632Z
+// Last updated: 2026-11-17T09:21:48.097Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金智媛《Doctor X》大結局｜3大伏筆全拆解：惡魔為何術中痛醒？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199385793706070016091627.png/V-LwGxpx_0Iqqz6PZhQz6P5lqcQCtzn2MNaILzDWiC8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60411577/%E9%87%91%E6%99%BA%E5%AA%9B-doctor-x-%E5%A4%A7%E7%B5%90%E5%B1%80-3%E5%A4%A7%E4%BC%8F%E7%AD%86%E5%85%A8%E6%8B%86%E8%A7%A3-%E6%83%A1%E9%AD%94%E7%82%BA%E4%BD%95%E8%A1%93%E4%B8%AD%E7%97%9B%E9%86%92",
+    "timestamp": "2026-11-17T09:21:48.097Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北京同仁堂｢一捻金｣抽檢含水量不合格　公司回應：正溯源核查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923711325069119488568310.jpeg/qgd9eT4llifzXcSxBJRoaZEASkFypls1vfLMe73yzHs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411554/%E5%86%8D%E5%B0%B1%E6%A5%AD%E6%B4%A5%E8%B2%BC%E8%A9%A6%E8%A1%8C%E8%A8%88%E5%8A%83-4-7%E8%90%AC%E4%B8%AD%E8%80%81%E5%B9%B4%E6%88%90%E5%8A%9F%E5%86%8D%E5%B0%B1%E6%A5%AD-60%E6%AD%B2%E4%BB%A5%E4%B8%8A%E9%80%BE1-1%E8%90%AC%E4%BA%BA",
     "timestamp": "2026-11-17T02:36:38.473Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜WSJ發社論稱中國為間諜國家　內媒批重演麥卡錫獵巫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198400187274366976956308.jpeg/zj7tHLH5Cko08anbI_XjimQz2YPHocVV3b2FM929hTM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411537/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-wsj%E7%99%BC%E7%A4%BE%E8%AB%96%E7%A8%B1%E4%B8%AD%E5%9C%8B%E7%82%BA%E9%96%93%E8%AB%9C%E5%9C%8B%E5%AE%B6-%E5%85%A7%E5%AA%92%E6%89%B9%E9%87%8D%E6%BC%94%E9%BA%A5%E5%8D%A1%E9%8C%AB%E7%8D%B5%E5%B7%AB",
-    "timestamp": "2026-11-17T02:24:38.735Z",
     "strategy": ".content-card__main"
   }
 ];
