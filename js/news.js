@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T17:59:18.670Z
+// Last updated: 2026-11-17T18:22:38.040Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《聽海浪》親熱片廣傳　歌手Byejack借熱度到海心公園開騷惹公憤",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199538462651322368320189.png/8w3-FedPJVsLYjD8B8i0ZnpAd7ofyyPQQ_ZVUEP2VVA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411988/%E8%81%BD%E6%B5%B7%E6%B5%AA-%E8%A6%AA%E7%86%B1%E7%89%87%E5%BB%A3%E5%82%B3-%E6%AD%8C%E6%89%8Bbyejack%E5%80%9F%E7%86%B1%E5%BA%A6%E5%88%B0%E6%B5%B7%E5%BF%83%E5%85%AC%E5%9C%92%E9%96%8B%E9%A8%B7%E6%83%B9%E5%85%AC%E6%86%A4",
+    "timestamp": "2026-11-17T18:22:38.040Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BIGBANG演唱會｜高仿門票符合快達票3大防偽特徵　照紫光燈也中招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199437952657133568850749.jpeg/8JXkS-jYQs_0quQ2GuB2jt7z9y6izirpbwYrxG8GK8Q?v=w1920",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411927/%E6%9C%89%E7%89%87-%E6%96%B0%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%86%92%E9%9A%AA%E4%BC%81%E9%A6%AC%E8%B7%AF%E5%9F%B7%E6%89%8B%E6%A9%9F-%E7%89%87%E4%B8%BB-%E9%9B%BB%E8%A9%B1%E5%AE%9A%E6%A2%9D%E5%91%BD%E9%87%8D%E8%A6%81",
     "timestamp": "2026-11-17T11:44:44.270Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "谷婭溦回顧11年「港漂」辛酸史　兩年前已簽新公司：唔係離開樂壇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199387681960759296286935.jpeg/OE8VVLGtYLEOm_7Bx7lxQ2goBW5Zp-fXrE9xW6xPcVs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411752/%E8%B0%B7%E5%A9%AD%E6%BA%A6%E5%9B%9E%E9%A1%A711%E5%B9%B4-%E6%B8%AF%E6%BC%82-%E8%BE%9B%E9%85%B8%E5%8F%B2-%E5%85%A9%E5%B9%B4%E5%89%8D%E5%B7%B2%E7%B0%BD%E6%96%B0%E5%85%AC%E5%8F%B8-%E5%94%94%E4%BF%82%E9%9B%A2%E9%96%8B%E6%A8%82%E5%A3%87",
-    "timestamp": "2026-11-17T11:19:29.663Z",
     "strategy": ".content-card__main"
   }
 ];
