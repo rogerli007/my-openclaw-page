@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T15:20:35.927Z
+// Last updated: 2026-11-17T15:45:32.075Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳將於12月1日出席聽證會　英偉達總法律顧問2日國會作證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198400187274366976956308.jpeg/zj7tHLH5Cko08anbI_XjimQz2YPHocVV3b2FM929hTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411978/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%B0%87%E6%96%BC12%E6%9C%881%E6%97%A5%E5%87%BA%E5%B8%AD%E8%81%BD%E8%AD%89%E6%9C%83-%E8%8B%B1%E5%81%89%E9%81%94%E7%B8%BD%E6%B3%95%E5%BE%8B%E9%A1%A7%E5%95%8F2%E6%97%A5%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89",
+    "timestamp": "2026-11-17T15:45:32.075Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許志安任TVB台慶壓軸表演嘉賓　「安心事件」7年後恐同場馬國明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199397886446538752076859.jpeg/HplD27QNpqTBPCu3G9ETHzl070Okkv3sIPnjzSD5480?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411754/%E5%8C%97%E4%BA%AC%E5%90%8C%E4%BB%81%E5%A0%82-%E4%B8%80%E6%8D%BB%E9%87%91-%E6%8A%BD%E6%AA%A2%E5%90%AB%E6%B0%B4%E9%87%8F%E4%B8%8D%E5%90%88%E6%A0%BC-%E5%85%AC%E5%8F%B8%E5%9B%9E%E6%87%89-%E6%AD%A3%E6%BA%AF%E6%BA%90%E6%A0%B8%E6%9F%A5",
     "timestamp": "2026-11-17T08:36:13.632Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球香港賽｜謝影雪夥17歲禹智睿過關　對啟德新場讚不絕口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199390409730560000961780.jpeg/wd4cwos3pXN9CFtmcysElCEBGiXCC2ShmN0e8ZjdHvE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411693/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E8%AC%9D%E5%BD%B1%E9%9B%AA%E5%A4%A517%E6%AD%B2%E7%A6%B9%E6%99%BA%E7%9D%BF%E9%81%8E%E9%97%9C-%E5%B0%8D%E5%95%9F%E5%BE%B7%E6%96%B0%E5%A0%B4%E8%AE%9A%E4%B8%8D%E7%B5%95%E5%8F%A3",
-    "timestamp": "2026-11-17T08:21:14.090Z",
     "strategy": ".content-card__main"
   }
 ];
