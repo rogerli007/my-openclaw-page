@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T19:18:39.057Z
+// Last updated: 2026-11-17T19:29:27.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正參與電影創作：無意間的點子總能啟發星爺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198327044857925632458729.jpeg/Ow7JAmfU3OhsEBNALXisotUB7yXgZxo3abncMGm53DA",
+    "url": "https://www.hk01.com/01TV/60410814/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%8F%83%E8%88%87%E9%9B%BB%E5%BD%B1%E5%89%B5%E4%BD%9C-%E7%84%A1%E6%84%8F%E9%96%93%E7%9A%84%E9%BB%9E%E5%AD%90%E7%B8%BD%E8%83%BD%E5%95%9F%E7%99%BC%E6%98%9F%E7%88%BA",
+    "timestamp": "2026-11-17T19:29:27.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正參與電影創作：無意間的點子總能啟發星爺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199397595915489280194028.png/KOtAcXYeVasFnI6FZrBf_1RIh92zgvoZR4UTjUeFE40?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411765/%E7%AC%AC69%E5%B1%86%E6%A0%BC%E6%9E%97%E7%BE%8E%E7%8D%8E%E5%85%A5%E5%9C%8D%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%91%A8%E6%9D%B0%E5%80%AB%E7%84%A1%E7%B7%A3%E6%8F%90%E5%90%8D%E6%97%A5%E9%9F%93%E8%8F%B2%E5%8C%85%E8%BE%A6%E4%BA%9E%E6%B4%B2%E6%96%B0%E7%8D%8E",
     "timestamp": "2026-11-17T13:20:31.085Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "多喜一家人｜梁冠華蔣欣演繹拆遷分產風波　盤點5大看點+追劇日曆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199422299904675840516734.png/CUKHU4O9JVvibc294sOEektp_Oh-h9_RjIf14YyH9eE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60411655/%E5%A4%9A%E5%96%9C%E4%B8%80%E5%AE%B6%E4%BA%BA-%E6%A2%81%E5%86%A0%E8%8F%AF%E8%94%A3%E6%AC%A3%E6%BC%94%E7%B9%B9%E6%8B%86%E9%81%B7%E5%88%86%E7%94%A2%E9%A2%A8%E6%B3%A2-%E7%9B%A4%E9%BB%9E5%E5%A4%A7%E7%9C%8B%E9%BB%9E-%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86",
-    "timestamp": "2026-11-17T12:59:15.534Z",
     "strategy": ".content-card__main"
   }
 ];
