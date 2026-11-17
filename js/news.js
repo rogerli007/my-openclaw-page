@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T01:48:37.872Z
+// Last updated: 2026-11-17T02:24:38.735Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜WSJ發社論稱中國為間諜國家　內媒批重演麥卡錫獵巫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198400187274366976956308.jpeg/zj7tHLH5Cko08anbI_XjimQz2YPHocVV3b2FM929hTM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411537/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-wsj%E7%99%BC%E7%A4%BE%E8%AB%96%E7%A8%B1%E4%B8%AD%E5%9C%8B%E7%82%BA%E9%96%93%E8%AB%9C%E5%9C%8B%E5%AE%B6-%E5%85%A7%E5%AA%92%E6%89%B9%E9%87%8D%E6%BC%94%E9%BA%A5%E5%8D%A1%E9%8C%AB%E7%8D%B5%E5%B7%AB",
+    "timestamp": "2026-11-17T02:24:38.735Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC工商峰會深圳揭幕　逾2000政商代表齊聚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
     "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
     "timestamp": "2026-11-16T19:18:55.179Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴西多宗槍擊至少8死5傷　警方疑案件有關連",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240805/897155846784421888265410.jpeg/QN9YVAVnd0kSnbvFsZTW1guoWP-Pb4y5UXjCklF4wpI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411515/%E5%B7%B4%E8%A5%BF%E5%A4%9A%E5%AE%97%E6%A7%8D%E6%93%8A%E8%87%B3%E5%B0%918%E6%AD%BB5%E5%82%B7-%E8%AD%A6%E6%96%B9%E7%96%91%E6%A1%88%E4%BB%B6%E6%9C%89%E9%97%9C%E9%80%A3",
-    "timestamp": "2026-11-16T18:59:08.442Z",
     "strategy": ".content-card__main"
   }
 ];
