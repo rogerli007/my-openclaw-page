@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T20:58:58.974Z
+// Last updated: 2026-11-17T21:19:28.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜輪椅男誤闖啟德隧道逆線行駛　車輛減慢車速扭軚避開",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199584111950303232789624.jpeg/WSr3JwAm3N6gUH4zAJ4yGGQon-fsMFAIOhnXtjoZ17Y",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411993/%E8%BB%8Acam-%E8%BC%AA%E6%A4%85%E7%94%B7%E8%AA%A4%E9%97%96%E5%95%9F%E5%BE%B7%E9%9A%A7%E9%81%93%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E8%BC%9B%E6%B8%9B%E6%85%A2%E8%BB%8A%E9%80%9F%E6%89%AD%E8%BB%9A%E9%81%BF%E9%96%8B",
+    "timestamp": "2026-11-17T21:19:28.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗指美軍空襲格什姆島　路透：導彈發射場為目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198400187274366976956308.jpeg/zj7tHLH5Cko08anbI_XjimQz2YPHocVV3b2FM929hTM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411978/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%B0%87%E6%96%BC12%E6%9C%881%E6%97%A5%E5%87%BA%E5%B8%AD%E8%81%BD%E8%AD%89%E6%9C%83-%E8%8B%B1%E5%81%89%E9%81%94%E7%B8%BD%E6%B3%95%E5%BE%8B%E9%A1%A7%E5%95%8F2%E6%97%A5%E5%9C%8B%E6%9C%83%E4%BD%9C%E8%AD%89",
     "timestamp": "2026-11-17T15:45:32.075Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許志安任TVB台慶壓軸表演嘉賓　「安心事件」7年後恐同場馬國明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199409268982288384946732.jpeg/ObKAo4VnvcCLuFbT09JYXqnpIA5pyx1f-7jD6Pu4w-g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411810/%E8%A8%B1%E5%BF%97%E5%AE%89%E4%BB%BBtvb%E5%8F%B0%E6%85%B6%E5%A3%93%E8%BB%B8%E8%A1%A8%E6%BC%94%E5%98%89%E8%B3%93-%E5%AE%89%E5%BF%83%E4%BA%8B%E4%BB%B6-7%E5%B9%B4%E5%BE%8C%E6%81%90%E5%90%8C%E5%A0%B4%E9%A6%AC%E5%9C%8B%E6%98%8E",
-    "timestamp": "2026-11-17T15:20:35.927Z",
     "strategy": ".content-card__main"
   }
 ];
