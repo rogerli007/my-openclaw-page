@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T23:19:17.064Z
+// Last updated: 2026-11-17T23:45:15.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飲水愈多愈好？日灌數公升恐致「水中毒」　3大補水陷阱一文看清",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196515926623653888416089.jpeg/XwFL5EdWo--e5bS8YQgoRHZubO-G9geAbDrTq2w606s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407111/%E9%A3%B2%E6%B0%B4%E6%84%88%E5%A4%9A%E6%84%88%E5%A5%BD-%E6%97%A5%E7%81%8C%E6%95%B8%E5%85%AC%E5%8D%87%E6%81%90%E8%87%B4-%E6%B0%B4%E4%B8%AD%E6%AF%92-3%E5%A4%A7%E8%A3%9C%E6%B0%B4%E9%99%B7%E9%98%B1%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
+    "timestamp": "2026-11-17T23:45:15.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜重溫鄺球首日作供　給蔡3000萬買樓　解釋涉案工具用途",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199230453517651968028154.jpeg/Rk_Z_k53OnimQvbMQFVykraWdp05c12N_NXes9XV3rM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411348/bigbang%E6%BC%94%E5%94%B1%E6%9C%83-%E9%AB%98%E4%BB%BF%E9%96%80%E7%A5%A8%E7%AC%A6%E5%90%88%E5%BF%AB%E9%81%94%E7%A5%A83%E5%A4%A7%E9%98%B2%E5%81%BD%E7%89%B9%E5%BE%B5-%E7%85%A7%E7%B4%AB%E5%85%89%E7%87%88%E4%B9%9F%E4%B8%AD%E6%8B%9B",
     "timestamp": "2026-11-17T17:59:18.670Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角途人舉報毒品快餐車　疑犯遭按地制服　警拘兩男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199532819169153024058749.jpeg/ovULoljya-4fcyDAX7uIy6hARxbBB4-hQ0Jx3kNCcd4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411987/%E5%8C%97%E8%A7%92%E9%80%94%E4%BA%BA%E8%88%89%E5%A0%B1%E6%AF%92%E5%93%81%E5%BF%AB%E9%A4%90%E8%BB%8A-%E7%96%91%E7%8A%AF%E9%81%AD%E6%8C%89%E5%9C%B0%E5%88%B6%E6%9C%8D-%E8%AD%A6%E6%8B%98%E5%85%A9%E7%94%B7",
-    "timestamp": "2026-11-17T17:45:20.526Z",
     "strategy": ".content-card__main"
   }
 ];
