@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T13:20:31.085Z
+// Last updated: 2026-11-17T13:59:20.963Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鍾嘉欣汕頭跨年演唱會突宣取消　因交通住宿緊張順延至2027年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199392960366514176941358.jpeg/DUJjUWsAsbsvszqOQh2ScogzzRKPYSH7K85SeivOUno?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411736/%E9%8D%BE%E5%98%89%E6%AC%A3%E6%B1%95%E9%A0%AD%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E6%9C%83%E7%AA%81%E5%AE%A3%E5%8F%96%E6%B6%88-%E5%9B%A0%E4%BA%A4%E9%80%9A%E4%BD%8F%E5%AE%BF%E7%B7%8A%E5%BC%B5%E9%A0%86%E5%BB%B6%E8%87%B32027%E5%B9%B4",
+    "timestamp": "2026-11-17T13:59:20.963Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "第69屆格林美獎入圍名單出爐！周杰倫無緣提名日韓菲包辦亞洲新獎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177473090179829760380924.jpeg/Bc7TGYl8dViAybVcSWYTWVJhcOtZowKvg6E_IYOhPyE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411692/%E5%B0%81%E6%AE%BA%E6%99%B6%E7%89%87%E5%8F%8D%E6%88%90%E5%82%AC%E5%8C%96%E5%8A%91-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD-%E8%92%B8%E9%A4%BE-%E7%BE%8Eai%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E6%A8%A1%E5%9E%8B",
     "timestamp": "2026-11-17T06:51:02.935Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WTT香港總決賽｜王楚欽入圍與孫穎莎分戰單打　混雙外卡有待公布",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199366405410000896758234.jpeg/nS-QlaoGz8-HmfSGal-uuiJT9ru0AJuYw_Ax-sPwMfo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411687/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E7%8E%8B%E6%A5%9A%E6%AC%BD%E5%85%A5%E5%9C%8D%E8%88%87%E5%AD%AB%E7%A9%8E%E8%8E%8E%E5%88%86%E6%88%B0%E5%96%AE%E6%89%93-%E6%B7%B7%E9%9B%99%E5%A4%96%E5%8D%A1%E6%9C%89%E5%BE%85%E5%85%AC%E5%B8%83",
-    "timestamp": "2026-11-17T06:28:12.852Z",
     "strategy": ".content-card__main"
   }
 ];
