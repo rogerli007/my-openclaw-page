@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T09:45:26.496Z
+// Last updated: 2026-11-17T10:20:26.246Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "IVE張員瑛港迪點燈後凌晨搭機返韓！粉絲翻舊帳痛批公司作息非人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199378268046757888528143.png/pQFb7P-m88RuyoN_Dr7ZYNZSaXm42veIrD7HRaw-x0U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411700/ive%E5%BC%B5%E5%93%A1%E7%91%9B%E6%B8%AF%E8%BF%AA%E9%BB%9E%E7%87%88%E5%BE%8C%E5%87%8C%E6%99%A8%E6%90%AD%E6%A9%9F%E8%BF%94%E9%9F%93-%E7%B2%89%E7%B5%B2%E7%BF%BB%E8%88%8A%E5%B8%B3%E7%97%9B%E6%89%B9%E5%85%AC%E5%8F%B8%E4%BD%9C%E6%81%AF%E9%9D%9E%E4%BA%BA",
+    "timestamp": "2026-11-17T10:20:26.246Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《甄嬛傳》溫太醫張曉龍爆秘婚已升格三寶爸　神秘圈外妻子首露面",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198309951081025536438605.png/kU-1W9gECR341s-pAQmPD0n9SG0kGY64wCR5nsAkeZ4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60410769/bottega-veneta2026%E5%81%87%E6%97%A5%E6%96%B0%E4%BD%9Cverde%E7%99%BB%E5%A0%B4-%E6%9C%80%E4%BD%8E%E5%85%A5%E6%89%8B%E5%83%B9-30-500",
     "timestamp": "2026-11-17T03:32:04.412Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國際賽出擊｜國足主場對巴林　蓄「細」待發",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199319983708966912351609.jpeg/muZXj6Aqa1-eD6BTpUHsoCD7ILHb76sjcjYmlXI2JpU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411403/%E5%9C%8B%E9%9A%9B%E8%B3%BD%E5%87%BA%E6%93%8A-%E5%9C%8B%E8%B6%B3%E4%B8%BB%E5%A0%B4%E5%B0%8D%E5%B7%B4%E6%9E%97-%E8%93%84-%E7%B4%B0-%E5%BE%85%E7%99%BC",
-    "timestamp": "2026-11-17T03:22:24.600Z",
     "strategy": ".content-card__main"
   }
 ];
