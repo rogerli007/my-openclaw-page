@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T07:21:42.999Z
+// Last updated: 2026-11-17T07:45:34.291Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA｜勇士3連敗淨負66分　居里缺陣骨牌效應　進攻體系癱瘓",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199369869678612480918370.jpeg/glXAfcPGdhaEOnRe1Tru0HZA4FWaZ0oyGUL5khlC-ZI?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60411698/nba-%E5%8B%87%E5%A3%AB3%E9%80%A3%E6%95%97%E6%B7%A8%E8%B2%A066%E5%88%86-%E5%B1%85%E9%87%8C%E7%BC%BA%E9%99%A3%E9%AA%A8%E7%89%8C%E6%95%88%E6%87%89-%E9%80%B2%E6%94%BB%E9%AB%94%E7%B3%BB%E7%99%B1%E7%98%93",
+    "timestamp": "2026-11-17T07:45:34.291Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "嘉華西營盤醫院道新盤命名「嘉榕莊」　全盤提供62伙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199274524718141440804732.png/0_S1zJTbdv-vt2UMsSpEcqtl_JnDn5ZQdTkTnHU5E5w",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411524/%E6%9C%89%E7%89%87-%E5%91%88%E7%A5%A5%E9%81%93%E4%B8%83%E4%BA%BA%E8%BB%8A%E9%80%A3%E6%8E%83%E5%85%A9%E7%9B%9E%E5%B7%A5%E7%A8%8B%E7%87%88-%E7%89%87%E4%B8%BB-%E4%BA%BA%E5%93%8B%E6%94%BE%E9%BE%9C%E4%BD%A0%E5%B0%B1%E6%94%BE%E7%87%88",
     "timestamp": "2026-11-17T00:58:06.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜呈祥道七人車連掃兩盞工程燈　片主：人哋放龜你就放燈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199274524718141440804732.png/0_S1zJTbdv-vt2UMsSpEcqtl_JnDn5ZQdTkTnHU5E5w",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411524/%E6%9C%89%E7%89%87-%E5%91%88%E7%A5%A5%E9%81%93%E4%B8%83%E4%BA%BA%E8%BB%8A%E9%80%A3%E6%8E%83%E5%85%A9%E7%9B%9E%E5%B7%A5%E7%A8%8B%E7%87%88-%E7%89%87%E4%B8%BB-%E4%BA%BA%E5%93%8B%E6%94%BE%E9%BE%9C%E4%BD%A0%E5%B0%B1%E6%94%BE%E7%87%88",
-    "timestamp": "2026-11-17T00:37:46.415Z",
     "strategy": ".content-card__main"
   }
 ];
