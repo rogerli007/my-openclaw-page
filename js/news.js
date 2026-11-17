@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T04:21:49.998Z
+// Last updated: 2026-11-17T04:45:18.426Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "燃動灣區跨年演唱會2026江門｜門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199315219583602688176089.jpeg/qOyXdN4kN7wEpvV4eqiCbvyZUT8tuyFaUtZfEFLWXxA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411591/%E7%87%83%E5%8B%95%E7%81%A3%E5%8D%80%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E6%B1%9F%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-11-17T04:45:18.426Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "今天是太陽雨線上看結局劇情｜最新追劇日曆/更新時間+簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197126607370719232019865.jpeg/nCBIRQmaB8g9WtisHoHxHwSeZm9-JQwzGg_tRRoP7UU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411513/%E4%BF%84%E6%96%B9-%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%88%89%E8%A1%8C-%E5%B0%9A%E6%9C%AA%E5%8D%94%E5%95%86%E6%AD%90%E6%B4%B2%E5%8F%83%E8%88%87%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-11-16T21:59:14.192Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正被周星馳青睞：一句「你好有趣」獲得喜劇大師認可",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198324495245381632218395.jpeg/k38OZ5yITnIzBe5oLaKqRdVe6CBrtTryjnWvqY51r6k",
-    "url": "https://www.hk01.com/01TV/60410808/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%A2%AB%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9D%92%E7%9D%9E-%E4%B8%80%E5%8F%A5-%E4%BD%A0%E5%A5%BD%E6%9C%89%E8%B6%A3-%E7%8D%B2%E5%BE%97%E5%96%9C%E5%8A%87%E5%A4%A7%E5%B8%AB%E8%AA%8D%E5%8F%AF",
-    "timestamp": "2026-11-16T21:44:27.469Z",
     "strategy": ".content-card__main"
   }
 ];
