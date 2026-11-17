@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T18:34:19.765Z
+// Last updated: 2026-11-17T18:45:26.754Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幻彩詠香江謝幕夜　洋紫荊維港遊推告別班次　永安號8時船票售罄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199545313635864576570183.jpeg/AYXc95qQrsogd3L9gK21ZC8gIiu2vb71a-rkq2vq5Ks?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411939/%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F%E8%AC%9D%E5%B9%95%E5%A4%9C-%E6%B4%8B%E7%B4%AB%E8%8D%8A%E7%B6%AD%E6%B8%AF%E9%81%8A%E6%8E%A8%E5%91%8A%E5%88%A5%E7%8F%AD%E6%AC%A1-%E6%B0%B8%E5%AE%89%E8%99%9F8%E6%99%82%E8%88%B9%E7%A5%A8%E5%94%AE%E7%BD%84",
+    "timestamp": "2026-11-17T18:45:26.754Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幻彩詠香江謝幕夜　洋紫荊維港遊推告別班次　永安號8時船票售罄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199455110753685504059146.png/yA6BJ1wUolq6qV5TRr2gdS0gSzoG6vp_fVVsmEdVbJg?v=w1920",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411677/apec%E6%B7%B1%E5%9C%B3%E7%9B%B4%E6%93%8A-%E6%9C%89%E7%89%87-%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%AE%8A-%E8%A1%97%E5%9D%8A-%E8%A8%98%E8%80%85%E5%AF%A6%E6%B8%AC%E5%85%B1%E8%88%9E-%E6%B2%96%E5%92%96%E5%95%A1",
     "timestamp": "2026-11-17T12:24:47.924Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李秀滿女團A2O LITE「3人僅13歲」陷低齡爭議　政府出手開啟調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199414283188834304423987.png/Zc9kB6t8QeJyWu-HAKYG0joPf85Ez5YOeb_7v3m_-78",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411813/%E6%9D%8E%E7%A7%80%E6%BB%BF%E5%A5%B3%E5%9C%98a2o-lite-3%E4%BA%BA%E5%83%8513%E6%AD%B2-%E9%99%B7%E4%BD%8E%E9%BD%A1%E7%88%AD%E8%AD%B0-%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E9%96%8B%E5%95%9F%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-17T11:59:13.766Z",
     "strategy": ".content-card__main"
   }
 ];
