@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T11:19:29.663Z
+// Last updated: 2026-11-17T11:44:44.270Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜新清水灣道鐵騎士冒險企馬路執手機　片主:電話定條命重要?",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199437952657133568850749.jpeg/8JXkS-jYQs_0quQ2GuB2jt7z9y6izirpbwYrxG8GK8Q?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411927/%E6%9C%89%E7%89%87-%E6%96%B0%E6%B8%85%E6%B0%B4%E7%81%A3%E9%81%93%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%86%92%E9%9A%AA%E4%BC%81%E9%A6%AC%E8%B7%AF%E5%9F%B7%E6%89%8B%E6%A9%9F-%E7%89%87%E4%B8%BB-%E9%9B%BB%E8%A9%B1%E5%AE%9A%E6%A2%9D%E5%91%BD%E9%87%8D%E8%A6%81",
+    "timestamp": "2026-11-17T11:44:44.270Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "谷婭溦回顧11年「港漂」辛酸史　兩年前已簽新公司：唔係離開樂壇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199315219583602688176089.jpeg/qOyXdN4kN7wEpvV4eqiCbvyZUT8tuyFaUtZfEFLWXxA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411591/%E7%87%83%E5%8B%95%E7%81%A3%E5%8D%80%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E6%B1%9F%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-11-17T04:45:18.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "今天是太陽雨線上看結局劇情｜最新追劇日曆/更新時間+簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195384126362882048387246.jpeg/uDAxlljyAis_U_WON7ui6j8j3_6F0E93gH8s7YB_LO0",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407880/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8%E7%B7%9A%E4%B8%8A%E7%9C%8B%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-11-17T04:21:49.998Z",
     "strategy": ".content-card__main"
   }
 ];
