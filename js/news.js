@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T07:59:09.466Z
+// Last updated: 2026-11-17T08:21:14.090Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球香港賽｜謝影雪夥17歲禹智睿過關　對啟德新場讚不絕口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199390409730560000961780.jpeg/wd4cwos3pXN9CFtmcysElCEBGiXCC2ShmN0e8ZjdHvE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411693/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E8%AC%9D%E5%BD%B1%E9%9B%AA%E5%A4%A517%E6%AD%B2%E7%A6%B9%E6%99%BA%E7%9D%BF%E9%81%8E%E9%97%9C-%E5%B0%8D%E5%95%9F%E5%BE%B7%E6%96%B0%E5%A0%B4%E8%AE%9A%E4%B8%8D%E7%B5%95%E5%8F%A3",
+    "timestamp": "2026-11-17T08:21:14.090Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "足球｜盧卡古退出比利時國家隊　紀錄射手不獲雲邦美重用意興闌珊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199294258729717760735902.png/7bOLqi6-YrqLgBKZPK0YniQl0XJW-4Mkkgvcm5IL3Js?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411530/apec%E5%B7%A5%E5%95%86%E5%B3%B0%E6%9C%83%E6%B7%B1%E5%9C%B3%E6%8F%AD%E5%B9%95-%E9%80%BE2000%E6%94%BF%E5%95%86%E4%BB%A3%E8%A1%A8%E9%BD%8A%E8%81%9A",
     "timestamp": "2026-11-17T01:48:37.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳卸下「副書記標配」：特區人事的動態校準與治理新考",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124328893822537728641205.jpeg/XECro-O_l6hJEhFHC76ZOuLiD7NGB2xWpK6cOaSunDk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60411388/%E6%B7%B1%E5%9C%B3%E5%8D%B8%E4%B8%8B-%E5%89%AF%E6%9B%B8%E8%A8%98%E6%A8%99%E9%85%8D-%E7%89%B9%E5%8D%80%E4%BA%BA%E4%BA%8B%E7%9A%84%E5%8B%95%E6%85%8B%E6%A0%A1%E6%BA%96%E8%88%87%E6%B2%BB%E7%90%86%E6%96%B0%E8%80%83",
-    "timestamp": "2026-11-17T01:21:39.581Z",
     "strategy": ".content-card__main"
   }
 ];
