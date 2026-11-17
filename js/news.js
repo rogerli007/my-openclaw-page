@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T02:36:38.473Z
+// Last updated: 2026-11-17T02:59:14.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中大醫院涉切錯病人雙側卵巢　醫生：若輸卵管卵巢有黏連或難分辨",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199302806624800768573984.jpeg/qf5SHl7CKpoW_9OsAOa__UYX71uAWVtfH2r4Ux9q-FM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411552/%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%E6%B6%89%E5%88%87%E9%8C%AF%E7%97%85%E4%BA%BA%E9%9B%99%E5%81%B4%E5%8D%B5%E5%B7%A2-%E9%86%AB%E7%94%9F-%E8%8B%A5%E8%BC%B8%E5%8D%B5%E7%AE%A1%E5%8D%B5%E5%B7%A2%E6%9C%89%E9%BB%8F%E9%80%A3%E6%88%96%E9%9B%A3%E5%88%86%E8%BE%A8",
+    "timestamp": "2026-11-17T02:59:14.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再就業津貼試行計劃｜4.7萬中老年成功再就業　60歲以上逾1.1萬人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
     "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
     "timestamp": "2026-11-16T19:45:03.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正遇貴人林海峰：寬容的掌舵者成就了他的冷面風格",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
-    "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
-    "timestamp": "2026-11-16T19:29:47.047Z",
     "strategy": ".content-card__main"
   }
 ];
