@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T11:44:44.270Z
+// Last updated: 2026-11-17T11:59:13.766Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李秀滿女團A2O LITE「3人僅13歲」陷低齡爭議　政府出手開啟調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199414283188834304423987.png/Zc9kB6t8QeJyWu-HAKYG0joPf85Ez5YOeb_7v3m_-78",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411813/%E6%9D%8E%E7%A7%80%E6%BB%BF%E5%A5%B3%E5%9C%98a2o-lite-3%E4%BA%BA%E5%83%8513%E6%AD%B2-%E9%99%B7%E4%BD%8E%E9%BD%A1%E7%88%AD%E8%AD%B0-%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%E9%96%8B%E5%95%9F%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-17T11:59:13.766Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜新清水灣道鐵騎士冒險企馬路執手機　片主:電話定條命重要?",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199341865007058944143785.jpeg/fJqOEvYNIX-GyK_FFsWnvMM7K3Jq-BFjud4uurneLro?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60411448/%E5%87%8D%E8%82%89%E8%A7%A3%E5%87%8D-%E6%B5%B8%E6%B0%B4%E8%A7%A3%E5%87%8D%E7%B4%B0%E8%8F%8C%E6%BF%80%E5%A2%9E%E7%99%BE%E5%80%8D-%E9%A3%9F%E5%AE%89%E6%95%993%E5%A4%A7%E5%AE%89%E5%85%A8%E8%A7%A3%E5%87%8D%E6%B3%95-%E5%BF%8C%E5%86%8D%E5%87%8D",
     "timestamp": "2026-11-17T04:59:06.108Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "燃動灣區跨年演唱會2026江門｜門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199315219583602688176089.jpeg/qOyXdN4kN7wEpvV4eqiCbvyZUT8tuyFaUtZfEFLWXxA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411591/%E7%87%83%E5%8B%95%E7%81%A3%E5%8D%80%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E6%B1%9F%E9%96%80-%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-11-17T04:45:18.426Z",
     "strategy": ".content-card__main"
   }
 ];
