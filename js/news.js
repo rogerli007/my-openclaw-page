@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T17:19:59.394Z
+// Last updated: 2026-11-17T17:45:20.526Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角途人舉報毒品快餐車　疑犯遭按地制服　警拘兩男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199532819169153024058749.jpeg/ovULoljya-4fcyDAX7uIy6hARxbBB4-hQ0Jx3kNCcd4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411987/%E5%8C%97%E8%A7%92%E9%80%94%E4%BA%BA%E8%88%89%E5%A0%B1%E6%AF%92%E5%93%81%E5%BF%AB%E9%A4%90%E8%BB%8A-%E7%96%91%E7%8A%AF%E9%81%AD%E6%8C%89%E5%9C%B0%E5%88%B6%E6%9C%8D-%E8%AD%A6%E6%8B%98%E5%85%A9%E7%94%B7",
+    "timestamp": "2026-11-17T17:45:20.526Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正揭星爺工作日常：天天追問「有無橋」的高壓創作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199417240416423936623578.jpeg/h453SYL5ZSqirzlq9277LOWadTkQ5xBE6Wb-e-lm_ns?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411867/%E9%A6%AC%E6%B5%9A%E5%81%89%E5%B1%A5%E6%96%B0%E5%8D%8A%E5%B9%B4%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%B8%BE%E8%A1%A8-%E6%94%B6%E5%85%A5%E8%BC%83%E5%8E%BB%E5%B9%B4%E5%90%8C%E6%9C%9F%E5%A2%9E%E9%95%B7%E7%B4%845-500%E8%90%AC%E5%85%83",
     "timestamp": "2026-11-17T10:58:55.018Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Nike投資者日公布創新研發　兩大系列重啟肌肉感知　開創運動新章",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199431105330024448082534.jpeg/S7XY_WIy6WHz-TcOs3iUiYkOZ2IuL-tIGHjAHBh4wBw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411908/nike%E6%8A%95%E8%B3%87%E8%80%85%E6%97%A5%E5%85%AC%E5%B8%83%E5%89%B5%E6%96%B0%E7%A0%94%E7%99%BC-%E5%85%A9%E5%A4%A7%E7%B3%BB%E5%88%97%E9%87%8D%E5%95%9F%E8%82%8C%E8%82%89%E6%84%9F%E7%9F%A5-%E9%96%8B%E5%89%B5%E9%81%8B%E5%8B%95%E6%96%B0%E7%AB%A0",
-    "timestamp": "2026-11-17T10:45:45.177Z",
     "strategy": ".content-card__main"
   }
 ];
