@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T05:45:44.751Z
+// Last updated: 2026-11-17T05:59:27.050Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WTT香港總決賽2026球員名單持續更新　附售票連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188919450443714560659348.jpeg/5Zd2-YAR2_wQ74KAwGuoQgfbuPleol3TLmm2ZC5ptmQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398874/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD2026%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E9%99%84%E5%94%AE%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-11-17T05:59:27.050Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國海灘驚現神秘圓球　疑太空碎片墜海官方警告勿觸摸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250416/989183642397839360689403.jpeg/4-2t5Kl7vkSgMva8oWyvr8kVWRp-nPWXNeW0PDXltDw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411522/%E7%BE%8E%E5%9C%8B%E8%81%AF%E5%90%88%E8%88%AA%E7%A9%BA-%E7%B3%BB%E7%B5%B1%E4%B8%80%E5%BA%A6%E6%95%85%E9%9A%9C%E5%B7%B2%E7%B6%93%E4%BF%AE%E5%BE%A9-%E9%83%A8%E4%BB%BD%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AA%A4",
     "timestamp": "2026-11-16T23:18:51.151Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC｜俄方：中美俄峰會主要議題確定　正安排俄美雙邊會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197600237774966784593148.jpeg/hu4YPWtHRcN9f_56vD03GOhIOu_nm8LHzUssHc1LLB0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411521/apec-%E4%BF%84%E6%96%B9-%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%B3%B0%E6%9C%83%E4%B8%BB%E8%A6%81%E8%AD%B0%E9%A1%8C%E7%A2%BA%E5%AE%9A-%E6%AD%A3%E5%AE%89%E6%8E%92%E4%BF%84%E7%BE%8E%E9%9B%99%E9%82%8A%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-11-16T22:59:00.418Z",
     "strategy": ".content-card__main"
   }
 ];
