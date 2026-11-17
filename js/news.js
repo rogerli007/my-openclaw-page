@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T03:59:05.326Z
+// Last updated: 2026-11-17T04:21:49.998Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "今天是太陽雨線上看結局劇情｜最新追劇日曆/更新時間+簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261106/1195384126362882048387246.jpeg/uDAxlljyAis_U_WON7ui6j8j3_6F0E93gH8s7YB_LO0",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60407880/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8%E7%B7%9A%E4%B8%8A%E7%9C%8B%E7%B5%90%E5%B1%80%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-11-17T04:21:49.998Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "摩根大通系統故障　波及美多間大型銀行服務　公司：軟件漏洞引致",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198324495245381632218395.jpeg/k38OZ5yITnIzBe5oLaKqRdVe6CBrtTryjnWvqY51r6k",
     "url": "https://www.hk01.com/01TV/60410808/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%A2%AB%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9D%92%E7%9D%9E-%E4%B8%80%E5%8F%A5-%E4%BD%A0%E5%A5%BD%E6%9C%89%E8%B6%A3-%E7%8D%B2%E5%BE%97%E5%96%9C%E5%8A%87%E5%A4%A7%E5%B8%AB%E8%AA%8D%E5%8F%AF",
     "timestamp": "2026-11-16T21:44:27.469Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正被周星馳青睞：一句「你好有趣」獲得喜劇大師認可",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198324495245381632218395.jpeg/k38OZ5yITnIzBe5oLaKqRdVe6CBrtTryjnWvqY51r6k",
-    "url": "https://www.hk01.com/01TV/60410808/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%A2%AB%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9D%92%E7%9D%9E-%E4%B8%80%E5%8F%A5-%E4%BD%A0%E5%A5%BD%E6%9C%89%E8%B6%A3-%E7%8D%B2%E5%BE%97%E5%96%9C%E5%8A%87%E5%A4%A7%E5%B8%AB%E8%AA%8D%E5%8F%AF",
-    "timestamp": "2026-11-16T21:19:32.949Z",
     "strategy": ".content-card__main"
   }
 ];
