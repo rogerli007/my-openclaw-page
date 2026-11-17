@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T04:45:18.426Z
+// Last updated: 2026-11-17T04:59:06.108Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "凍肉解凍｜浸水解凍細菌激增百倍！食安教3大安全解凍法＋忌再凍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199341865007058944143785.jpeg/fJqOEvYNIX-GyK_FFsWnvMM7K3Jq-BFjud4uurneLro?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60411448/%E5%87%8D%E8%82%89%E8%A7%A3%E5%87%8D-%E6%B5%B8%E6%B0%B4%E8%A7%A3%E5%87%8D%E7%B4%B0%E8%8F%8C%E6%BF%80%E5%A2%9E%E7%99%BE%E5%80%8D-%E9%A3%9F%E5%AE%89%E6%95%993%E5%A4%A7%E5%AE%89%E5%85%A8%E8%A7%A3%E5%87%8D%E6%B3%95-%E5%BF%8C%E5%86%8D%E5%87%8D",
+    "timestamp": "2026-11-17T04:59:06.108Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "燃動灣區跨年演唱會2026江門｜門票攻略＋購票連結＋座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199241403302023168824705.jpeg/3r861VUzIqf88SQez4QvCBM6zg6_AYLfZL7QzGS-0Mw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60411517/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%9827%E5%BA%A6-%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%98%8E%E6%97%A5%E7%A8%8D%E5%BE%8C%E8%BF%8E%E5%86%B7%E9%8B%92",
     "timestamp": "2026-11-16T22:19:18.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄方：三方會談將繼續舉行　尚未協商歐洲參與問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197126607370719232019865.jpeg/nCBIRQmaB8g9WtisHoHxHwSeZm9-JQwzGg_tRRoP7UU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411513/%E4%BF%84%E6%96%B9-%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%88%89%E8%A1%8C-%E5%B0%9A%E6%9C%AA%E5%8D%94%E5%95%86%E6%AD%90%E6%B4%B2%E5%8F%83%E8%88%87%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-11-16T21:59:14.192Z",
     "strategy": ".content-card__main"
   }
 ];
