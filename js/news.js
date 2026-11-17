@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T04:59:06.108Z
+// Last updated: 2026-11-17T05:20:51.366Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳奇景！海濱驚現逾百片「神秘白物」　網民揭真身是平民美食",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199347679738466304823140.jpeg/rix3mASaYD5qxZE7uMPdiKXL4XvD7LSkKce8TSnHvE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411649/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%A5%87%E6%99%AF-%E6%B5%B7%E6%BF%B1%E9%A9%9A%E7%8F%BE%E9%80%BE%E7%99%BE%E7%89%87-%E7%A5%9E%E7%A7%98%E7%99%BD%E7%89%A9-%E7%B6%B2%E6%B0%91%E6%8F%AD%E7%9C%9F%E8%BA%AB%E6%98%AF%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F",
+    "timestamp": "2026-11-17T05:20:51.366Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "凍肉解凍｜浸水解凍細菌激增百倍！食安教3大安全解凍法＋忌再凍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199120784170160128068954.jpeg/RTdAl9ne9T0hB7-gSbKpnKaligFI7IhZUltY-lJbWPo",
     "url": "https://www.hk01.com/01TV/60411475/%E5%8C%97%E8%A7%92%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-%E5%86%92%E7%83%88%E7%84%B0%E6%BF%83%E7%85%99%E6%BB%BE%E6%BB%BE-%E6%B6%88%E9%98%B2%E5%8D%87%E9%9B%B2%E6%A2%AF%E6%95%91%E7%86%84",
     "timestamp": "2026-11-16T22:45:12.952Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜天文台：今日最高27度　初時有一兩陣微雨　明日稍後迎冷鋒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199241403302023168824705.jpeg/3r861VUzIqf88SQez4QvCBM6zg6_AYLfZL7QzGS-0Mw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60411517/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%9827%E5%BA%A6-%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%98%8E%E6%97%A5%E7%A8%8D%E5%BE%8C%E8%BF%8E%E5%86%B7%E9%8B%92",
-    "timestamp": "2026-11-16T22:19:18.902Z",
     "strategy": ".content-card__main"
   }
 ];
