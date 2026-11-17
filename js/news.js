@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T16:59:02.442Z
+// Last updated: 2026-11-17T17:19:59.394Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正揭星爺工作日常：天天追問「有無橋」的高壓創作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198325368918904832824693.jpeg/4X1v4fDrJrZLSnPPuGug59LTBuXIgsArYYgK1mGICtY",
+    "url": "https://www.hk01.com/01TV/60410810/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E6%8F%AD%E6%98%9F%E7%88%BA%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%B8%B8-%E5%A4%A9%E5%A4%A9%E8%BF%BD%E5%95%8F-%E6%9C%89%E7%84%A1%E6%A9%8B-%E7%9A%84%E9%AB%98%E5%A3%93%E5%89%B5%E4%BD%9C",
+    "timestamp": "2026-11-17T17:19:59.394Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鋼琴家王羽佳香港演出取消曲目　文體旅局促主辦方說明及審視資助",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199431105330024448082534.jpeg/S7XY_WIy6WHz-TcOs3iUiYkOZ2IuL-tIGHjAHBh4wBw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411908/nike%E6%8A%95%E8%B3%87%E8%80%85%E6%97%A5%E5%85%AC%E5%B8%83%E5%89%B5%E6%96%B0%E7%A0%94%E7%99%BC-%E5%85%A9%E5%A4%A7%E7%B3%BB%E5%88%97%E9%87%8D%E5%95%9F%E8%82%8C%E8%82%89%E6%84%9F%E7%9F%A5-%E9%96%8B%E5%89%B5%E9%81%8B%E5%8B%95%E6%96%B0%E7%AB%A0",
     "timestamp": "2026-11-17T10:45:45.177Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "IVE張員瑛港迪點燈後凌晨搭機返韓！粉絲翻舊帳痛批公司作息非人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199378268046757888528143.png/pQFb7P-m88RuyoN_Dr7ZYNZSaXm42veIrD7HRaw-x0U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411700/ive%E5%BC%B5%E5%93%A1%E7%91%9B%E6%B8%AF%E8%BF%AA%E9%BB%9E%E7%87%88%E5%BE%8C%E5%87%8C%E6%99%A8%E6%90%AD%E6%A9%9F%E8%BF%94%E9%9F%93-%E7%B2%89%E7%B5%B2%E7%BF%BB%E8%88%8A%E5%B8%B3%E7%97%9B%E6%89%B9%E5%85%AC%E5%8F%B8%E4%BD%9C%E6%81%AF%E9%9D%9E%E4%BA%BA",
-    "timestamp": "2026-11-17T10:20:26.246Z",
     "strategy": ".content-card__main"
   }
 ];
