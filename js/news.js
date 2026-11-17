@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T15:59:16.833Z
+// Last updated: 2026-11-17T16:22:20.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳辭職｜英偉達季績出爐前夕　黃教主暗示願重返英偉達任CEO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411529/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E5%AD%A3%E7%B8%BE%E5%87%BA%E7%88%90%E5%89%8D%E5%A4%95-%E9%BB%83%E6%95%99%E4%B8%BB%E6%9A%97%E7%A4%BA%E9%A1%98%E9%87%8D%E8%BF%94%E8%8B%B1%E5%81%89%E9%81%94%E4%BB%BBceo",
+    "timestamp": "2026-11-17T16:22:20.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣新之城「青春無限」3部日式貼紙相機正移除　店員稱相紙停產",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199353794366803968463891.png/Rlb1C0M8qybIy_jk_OUQ1HfaEmveUQE5NUGY1zVBmNc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411576/%E7%94%84%E5%AC%9B%E5%82%B3-%E6%BA%AB%E5%A4%AA%E9%86%AB%E5%BC%B5%E6%9B%89%E9%BE%8D%E7%88%86%E7%A7%98%E5%A9%9A%E5%B7%B2%E5%8D%87%E6%A0%BC%E4%B8%89%E5%AF%B6%E7%88%B8-%E7%A5%9E%E7%A7%98%E5%9C%88%E5%A4%96%E5%A6%BB%E5%AD%90%E9%A6%96%E9%9C%B2%E9%9D%A2",
     "timestamp": "2026-11-17T09:32:23.977Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金智媛《Doctor X》大結局｜3大伏筆全拆解：惡魔為何術中痛醒？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199385793706070016091627.png/V-LwGxpx_0Iqqz6PZhQz6P5lqcQCtzn2MNaILzDWiC8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60411577/%E9%87%91%E6%99%BA%E5%AA%9B-doctor-x-%E5%A4%A7%E7%B5%90%E5%B1%80-3%E5%A4%A7%E4%BC%8F%E7%AD%86%E5%85%A8%E6%8B%86%E8%A7%A3-%E6%83%A1%E9%AD%94%E7%82%BA%E4%BD%95%E8%A1%93%E4%B8%AD%E7%97%9B%E9%86%92",
-    "timestamp": "2026-11-17T09:21:48.097Z",
     "strategy": ".content-card__main"
   }
 ];
