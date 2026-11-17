@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T21:45:31.535Z
+// Last updated: 2026-11-17T21:59:12.482Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜輪椅男誤闖啟德隧道逆線行駛　車輛減慢車速扭軚避開",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199597191954436096802716.jpeg/G6sp9J9uFT2GG808Cdp_KKl4Dslq-rWr49Bjs-PQY7M",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411993/%E8%BB%8Acam-%E8%BC%AA%E6%A4%85%E7%94%B7%E8%AA%A4%E9%97%96%E5%95%9F%E5%BE%B7%E9%9A%A7%E9%81%93%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E8%BC%9B%E6%B8%9B%E6%85%A2%E8%BB%8A%E9%80%9F%E6%89%AD%E8%BB%9A%E9%81%BF%E9%96%8B",
+    "timestamp": "2026-11-17T21:59:12.482Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜輪椅男誤闖啟德隧道逆線行駛　車輛減慢車速扭軚避開",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411529/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E5%AD%A3%E7%B8%BE%E5%87%BA%E7%88%90%E5%89%8D%E5%A4%95-%E9%BB%83%E6%95%99%E4%B8%BB%E6%9A%97%E7%A4%BA%E9%A1%98%E9%87%8D%E8%BF%94%E8%8B%B1%E5%81%89%E9%81%94%E4%BB%BBceo",
     "timestamp": "2026-11-17T16:22:20.407Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣新之城「青春無限」3部日式貼紙相機正移除　店員稱相紙停產",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199428637468659712936285.jpeg/EIFXwszZIBIbVRJOfSrBPQ5dvExgWyZAD-ia4SromuE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411884/%E8%8D%83%E7%81%A3%E6%96%B0%E4%B9%8B%E5%9F%8E-%E9%9D%92%E6%98%A5%E7%84%A1%E9%99%90-3%E9%83%A8%E6%97%A5%E5%BC%8F%E8%B2%BC%E7%B4%99%E7%9B%B8%E6%A9%9F%E6%AD%A3%E7%A7%BB%E9%99%A4-%E5%BA%97%E5%93%A1%E7%A8%B1%E7%9B%B8%E7%B4%99%E5%81%9C%E7%94%A2",
-    "timestamp": "2026-11-17T15:59:16.833Z",
     "strategy": ".content-card__main"
   }
 ];
