@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T14:20:29.435Z
+// Last updated: 2026-11-17T14:45:39.562Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警聯入境處大埔上水打擊非法賣淫　拘11內地婦涉違反逗留條件",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230116/691764302884900864140537.jpeg/YesGd_Gx8eOetGU6GkjpX3hHBGSjYx0hPdEOzD3RDsw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411970/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E5%A4%A7%E5%9F%94%E4%B8%8A%E6%B0%B4%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E8%B3%A3%E6%B7%AB-%E6%8B%9811%E5%85%A7%E5%9C%B0%E5%A9%A6%E6%B6%89%E9%81%95%E5%8F%8D%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6",
+    "timestamp": "2026-11-17T14:45:39.562Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "萬千星輝賀台慶｜盤點過去30年壓軸大獎得主　薛家燕中190萬稱冠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199369869678612480918370.jpeg/glXAfcPGdhaEOnRe1Tru0HZA4FWaZ0oyGUL5khlC-ZI?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60411698/nba-%E5%8B%87%E5%A3%AB3%E9%80%A3%E6%95%97%E6%B7%A8%E8%B2%A066%E5%88%86-%E5%B1%85%E9%87%8C%E7%BC%BA%E9%99%A3%E9%AA%A8%E7%89%8C%E6%95%88%E6%87%89-%E9%80%B2%E6%94%BB%E9%AB%94%E7%B3%BB%E7%99%B1%E7%98%93",
     "timestamp": "2026-11-17T07:45:34.291Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "嘉華西營盤醫院道新盤命名「嘉榕莊」　全盤提供62伙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199380895761436672413567.jpeg/7oRZhXZFnDgZYjHwh81qcK_hw_MyzhXwl-jEyJfoxMg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60411631/%E5%98%89%E8%8F%AF%E8%A5%BF%E7%87%9F%E7%9B%A4%E9%86%AB%E9%99%A2%E9%81%93%E6%96%B0%E7%9B%A4%E5%91%BD%E5%90%8D-%E5%98%89%E6%A6%95%E8%8E%8A-%E5%85%A8%E7%9B%A4%E6%8F%90%E4%BE%9B62%E4%BC%99",
-    "timestamp": "2026-11-17T07:21:42.999Z",
     "strategy": ".content-card__main"
   }
 ];
