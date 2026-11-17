@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T02:24:38.735Z
+// Last updated: 2026-11-17T02:36:38.473Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "再就業津貼試行計劃｜4.7萬中老年成功再就業　60歲以上逾1.1萬人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923711325069119488568310.jpeg/qgd9eT4llifzXcSxBJRoaZEASkFypls1vfLMe73yzHs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411554/%E5%86%8D%E5%B0%B1%E6%A5%AD%E6%B4%A5%E8%B2%BC%E8%A9%A6%E8%A1%8C%E8%A8%88%E5%8A%83-4-7%E8%90%AC%E4%B8%AD%E8%80%81%E5%B9%B4%E6%88%90%E5%8A%9F%E5%86%8D%E5%B0%B1%E6%A5%AD-60%E6%AD%B2%E4%BB%A5%E4%B8%8A%E9%80%BE1-1%E8%90%AC%E4%BA%BA",
+    "timestamp": "2026-11-17T02:36:38.473Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜WSJ發社論稱中國為間諜國家　內媒批重演麥卡錫獵巫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
     "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
     "timestamp": "2026-11-16T19:29:47.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正遇貴人林海峰：寬容的掌舵者成就了他的冷面風格",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
-    "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
-    "timestamp": "2026-11-16T19:18:55.179Z",
     "strategy": ".content-card__main"
   }
 ];
