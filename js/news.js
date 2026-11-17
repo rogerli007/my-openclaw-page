@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T18:45:26.754Z
+// Last updated: 2026-11-17T18:59:16.407Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳APEC｜新界北變臨時禁飛區　警再拘1男　涉未經許可飛無人機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199552020617367552830257.jpeg/H5jXDWugikSPYejbHWWNpMVQab8HcWPQnfMtU53zLVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411989/%E6%B7%B1%E5%9C%B3apec-%E6%96%B0%E7%95%8C%E5%8C%97%E8%AE%8A%E8%87%A8%E6%99%82%E7%A6%81%E9%A3%9B%E5%8D%80-%E8%AD%A6%E5%86%8D%E6%8B%981%E7%94%B7-%E6%B6%89%E6%9C%AA%E7%B6%93%E8%A8%B1%E5%8F%AF%E9%A3%9B%E7%84%A1%E4%BA%BA%E6%A9%9F",
+    "timestamp": "2026-11-17T18:59:16.407Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幻彩詠香江謝幕夜　洋紫荊維港遊推告別班次　永安號8時船票售罄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199297529754161152730548.jpeg/w8esAZCQaaMiW26wDb4WdGSqbxrEMe1GT4AYTU-AGE0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411946/%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E4%BA%9E%E6%B4%B2%E4%BB%A3%E8%A1%A8%E5%9C%98-%E5%85%A7%E9%96%A3%E4%B8%89%E5%B7%A8%E9%A0%AD%E5%A3%93%E9%99%A3-%E6%99%AE%E4%BA%AC%E5%B8%B630%E4%BC%81%E6%A5%AD%E4%BB%A3%E8%A1%A8%E5%8E%BB%E6%B7%B1%E5%9C%B3",
     "timestamp": "2026-11-17T12:38:53.832Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC深圳直擊·有片｜機械人變「街坊」　記者實測共舞、沖咖啡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199455110753685504059146.png/yA6BJ1wUolq6qV5TRr2gdS0gSzoG6vp_fVVsmEdVbJg?v=w1920",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60411677/apec%E6%B7%B1%E5%9C%B3%E7%9B%B4%E6%93%8A-%E6%9C%89%E7%89%87-%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%AE%8A-%E8%A1%97%E5%9D%8A-%E8%A8%98%E8%80%85%E5%AF%A6%E6%B8%AC%E5%85%B1%E8%88%9E-%E6%B2%96%E5%92%96%E5%95%A1",
-    "timestamp": "2026-11-17T12:24:47.924Z",
     "strategy": ".content-card__main"
   }
 ];
