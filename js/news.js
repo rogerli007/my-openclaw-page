@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T19:39:41.079Z
+// Last updated: 2026-11-17T19:59:08.754Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美國家安全局內部高度機密通訊網絡癱瘓　尚無網絡攻擊證據",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230525/738396491143450624713482.jpeg/KUGQFjVXPfyhzqaG53x3EFJDTptuEBPDVRNkQVUTZEE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411990/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80%E5%85%A7%E9%83%A8%E9%AB%98%E5%BA%A6%E6%A9%9F%E5%AF%86%E9%80%9A%E8%A8%8A%E7%B6%B2%E7%B5%A1%E7%99%B1%E7%98%93-%E5%B0%9A%E7%84%A1%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E8%AD%89%E6%93%9A",
+    "timestamp": "2026-11-17T19:59:08.754Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正參與電影創作：無意間的點子總能啟發星爺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199407183830192128296750.jpeg/kY_-BCx5nNHB-06fsfgYpfK25bGrk309hQDOnoUAzp4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411842/%E8%90%AC%E5%8D%83%E6%98%9F%E8%BC%9D%E8%B3%80%E5%8F%B0%E6%85%B6-%E7%9B%A4%E9%BB%9E%E9%81%8E%E5%8E%BB30%E5%B9%B4%E5%A3%93%E8%BB%B8%E5%A4%A7%E7%8D%8E%E5%BE%97%E4%B8%BB-%E8%96%9B%E5%AE%B6%E7%87%95%E4%B8%AD190%E8%90%AC%E7%A8%B1%E5%86%A0",
     "timestamp": "2026-11-17T14:20:29.435Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鍾嘉欣汕頭跨年演唱會突宣取消　因交通住宿緊張順延至2027年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199392960366514176941358.jpeg/DUJjUWsAsbsvszqOQh2ScogzzRKPYSH7K85SeivOUno?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411736/%E9%8D%BE%E5%98%89%E6%AC%A3%E6%B1%95%E9%A0%AD%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E6%9C%83%E7%AA%81%E5%AE%A3%E5%8F%96%E6%B6%88-%E5%9B%A0%E4%BA%A4%E9%80%9A%E4%BD%8F%E5%AE%BF%E7%B7%8A%E5%BC%B5%E9%A0%86%E5%BB%B6%E8%87%B32027%E5%B9%B4",
-    "timestamp": "2026-11-17T13:59:20.963Z",
     "strategy": ".content-card__main"
   }
 ];
