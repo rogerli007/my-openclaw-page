@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T19:29:27.330Z
+// Last updated: 2026-11-17T19:39:41.079Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正參與電影創作：無意間的點子總能啟發星爺",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198327044857925632458729.jpeg/Ow7JAmfU3OhsEBNALXisotUB7yXgZxo3abncMGm53DA",
+    "url": "https://www.hk01.com/01TV/60410814/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%8F%83%E8%88%87%E9%9B%BB%E5%BD%B1%E5%89%B5%E4%BD%9C-%E7%84%A1%E6%84%8F%E9%96%93%E7%9A%84%E9%BB%9E%E5%AD%90%E7%B8%BD%E8%83%BD%E5%95%9F%E7%99%BC%E6%98%9F%E7%88%BA",
+    "timestamp": "2026-11-17T19:39:41.079Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正參與電影創作：無意間的點子總能啟發星爺",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199392960366514176941358.jpeg/DUJjUWsAsbsvszqOQh2ScogzzRKPYSH7K85SeivOUno?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411736/%E9%8D%BE%E5%98%89%E6%AC%A3%E6%B1%95%E9%A0%AD%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E6%9C%83%E7%AA%81%E5%AE%A3%E5%8F%96%E6%B6%88-%E5%9B%A0%E4%BA%A4%E9%80%9A%E4%BD%8F%E5%AE%BF%E7%B7%8A%E5%BC%B5%E9%A0%86%E5%BB%B6%E8%87%B32027%E5%B9%B4",
     "timestamp": "2026-11-17T13:59:20.963Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "第69屆格林美獎入圍名單出爐！周杰倫無緣提名日韓菲包辦亞洲新獎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199397595915489280194028.png/KOtAcXYeVasFnI6FZrBf_1RIh92zgvoZR4UTjUeFE40?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60411765/%E7%AC%AC69%E5%B1%86%E6%A0%BC%E6%9E%97%E7%BE%8E%E7%8D%8E%E5%85%A5%E5%9C%8D%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E5%91%A8%E6%9D%B0%E5%80%AB%E7%84%A1%E7%B7%A3%E6%8F%90%E5%90%8D%E6%97%A5%E9%9F%93%E8%8F%B2%E5%8C%85%E8%BE%A6%E4%BA%9E%E6%B4%B2%E6%96%B0%E7%8D%8E",
-    "timestamp": "2026-11-17T13:20:31.085Z",
     "strategy": ".content-card__main"
   }
 ];
