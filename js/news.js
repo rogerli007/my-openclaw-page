@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T07:45:34.291Z
+// Last updated: 2026-11-17T07:59:09.466Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "足球｜盧卡古退出比利時國家隊　紀錄射手不獲雲邦美重用意興闌珊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199351064025894912713524.jpeg/lw4FQXp-dUIDPRMUhDiVQkQslml-6-CFOPlfajj5X2o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411602/%E8%B6%B3%E7%90%83-%E7%9B%A7%E5%8D%A1%E5%8F%A4%E9%80%80%E5%87%BA%E6%AF%94%E5%88%A9%E6%99%82%E5%9C%8B%E5%AE%B6%E9%9A%8A-%E7%B4%80%E9%8C%84%E5%B0%84%E6%89%8B%E4%B8%8D%E7%8D%B2%E9%9B%B2%E9%82%A6%E7%BE%8E%E9%87%8D%E7%94%A8%E6%84%8F%E8%88%88%E9%97%8C%E7%8F%8A",
+    "timestamp": "2026-11-17T07:59:09.466Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜勇士3連敗淨負66分　居里缺陣骨牌效應　進攻體系癱瘓",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260424/1124328893822537728641205.jpeg/XECro-O_l6hJEhFHC76ZOuLiD7NGB2xWpK6cOaSunDk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60411388/%E6%B7%B1%E5%9C%B3%E5%8D%B8%E4%B8%8B-%E5%89%AF%E6%9B%B8%E8%A8%98%E6%A8%99%E9%85%8D-%E7%89%B9%E5%8D%80%E4%BA%BA%E4%BA%8B%E7%9A%84%E5%8B%95%E6%85%8B%E6%A0%A1%E6%BA%96%E8%88%87%E6%B2%BB%E7%90%86%E6%96%B0%E8%80%83",
     "timestamp": "2026-11-17T01:21:39.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜呈祥道七人車連掃兩盞工程燈　片主：人哋放龜你就放燈",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199274524718141440804732.png/0_S1zJTbdv-vt2UMsSpEcqtl_JnDn5ZQdTkTnHU5E5w",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411524/%E6%9C%89%E7%89%87-%E5%91%88%E7%A5%A5%E9%81%93%E4%B8%83%E4%BA%BA%E8%BB%8A%E9%80%A3%E6%8E%83%E5%85%A9%E7%9B%9E%E5%B7%A5%E7%A8%8B%E7%87%88-%E7%89%87%E4%B8%BB-%E4%BA%BA%E5%93%8B%E6%94%BE%E9%BE%9C%E4%BD%A0%E5%B0%B1%E6%94%BE%E7%87%88",
-    "timestamp": "2026-11-17T00:58:06.293Z",
     "strategy": ".content-card__main"
   }
 ];
