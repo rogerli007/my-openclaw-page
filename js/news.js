@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T22:29:42.714Z
+// Last updated: 2026-11-17T22:45:47.052Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗貓隻被困簷篷　消防升雲梯救貓　目擊者：上到7層樓｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199609404089962496987362.jpeg/EjTYGw5fPAZ4N4a9HeENALlRkTjDnIGBdSPiWXUj4lk",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411999/%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%B2%93%E9%9A%BB%E8%A2%AB%E5%9B%B0%E7%B0%B7%E7%AF%B7-%E6%B6%88%E9%98%B2%E5%8D%87%E9%9B%B2%E6%A2%AF%E6%95%91%E8%B2%93-%E7%9B%AE%E6%93%8A%E8%80%85-%E4%B8%8A%E5%88%B07%E5%B1%A4%E6%A8%93-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-17T22:45:47.052Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜天文台：冷鋒稍後橫過　今晚降溫至約21度　隨後顯著轉涼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197279694622298112581473.jpeg/kskK95MGykXDtHHRqavHenHgqFEMh8N4aDVezmg1Xs4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411973/%E9%8B%BC%E7%90%B4%E5%AE%B6%E7%8E%8B%E7%BE%BD%E4%BD%B3%E9%A6%99%E6%B8%AF%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88%E6%9B%B2%E7%9B%AE-%E6%96%87%E9%AB%94%E6%97%85%E5%B1%80%E4%BF%83%E4%B8%BB%E8%BE%A6%E6%96%B9%E8%AA%AA%E6%98%8E%E5%8F%8A%E5%AF%A9%E8%A6%96%E8%B3%87%E5%8A%A9",
     "timestamp": "2026-11-17T16:59:02.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珀麗灣沙灘現老鼠藥　專家斥危害小童健康　管理處稱已提醒承辦商",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199521819086819328683752.jpeg/LQKA3jsNZwlGjqkRBj48KJpKehxOMHHlab71T2m-9U8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411883/%E7%8F%80%E9%BA%97%E7%81%A3%E6%B2%99%E7%81%98%E7%8F%BE%E8%80%81%E9%BC%A0%E8%97%A5-%E5%B0%88%E5%AE%B6%E6%96%A5%E5%8D%B1%E5%AE%B3%E5%B0%8F%E7%AB%A5%E5%81%A5%E5%BA%B7-%E7%AE%A1%E7%90%86%E8%99%95%E7%A8%B1%E5%B7%B2%E6%8F%90%E9%86%92%E6%89%BF%E8%BE%A6%E5%95%86",
-    "timestamp": "2026-11-17T16:45:22.262Z",
     "strategy": ".content-card__main"
   }
 ];
