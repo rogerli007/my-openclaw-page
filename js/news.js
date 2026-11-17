@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T21:59:12.482Z
+// Last updated: 2026-11-17T22:29:42.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜天文台：冷鋒稍後橫過　今晚降溫至約21度　隨後顯著轉涼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199604663012429824478123.jpeg/RvVfHtNf92Vpxc2o8j8avEogwzsg3Rpm9aPaWvWj2lo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60411984/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%86%B7%E9%8B%92%E7%A8%8D%E5%BE%8C%E6%A9%AB%E9%81%8E-%E4%BB%8A%E6%99%9A%E9%99%8D%E6%BA%AB%E8%87%B3%E7%B4%8421%E5%BA%A6-%E9%9A%A8%E5%BE%8C%E9%A1%AF%E8%91%97%E8%BD%89%E6%B6%BC",
+    "timestamp": "2026-11-17T22:29:42.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜輪椅男誤闖啟德隧道逆線行駛　車輛減慢車速扭軚避開",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199521819086819328683752.jpeg/LQKA3jsNZwlGjqkRBj48KJpKehxOMHHlab71T2m-9U8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411883/%E7%8F%80%E9%BA%97%E7%81%A3%E6%B2%99%E7%81%98%E7%8F%BE%E8%80%81%E9%BC%A0%E8%97%A5-%E5%B0%88%E5%AE%B6%E6%96%A5%E5%8D%B1%E5%AE%B3%E5%B0%8F%E7%AB%A5%E5%81%A5%E5%BA%B7-%E7%AE%A1%E7%90%86%E8%99%95%E7%A8%B1%E5%B7%B2%E6%8F%90%E9%86%92%E6%89%BF%E8%BE%A6%E5%95%86",
     "timestamp": "2026-11-17T16:45:22.262Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜英偉達季績出爐前夕　黃教主暗示願重返英偉達任CEO",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197902886894309376768319.jpeg/IKl7GgynKOIiCsYe9M8NoprMuPq0oek9ZZHhN2WR4Tc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60411529/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E5%AD%A3%E7%B8%BE%E5%87%BA%E7%88%90%E5%89%8D%E5%A4%95-%E9%BB%83%E6%95%99%E4%B8%BB%E6%9A%97%E7%A4%BA%E9%A1%98%E9%87%8D%E8%BF%94%E8%8B%B1%E5%81%89%E9%81%94%E4%BB%BBceo",
-    "timestamp": "2026-11-17T16:22:20.407Z",
     "strategy": ".content-card__main"
   }
 ];
