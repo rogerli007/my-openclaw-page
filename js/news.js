@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T06:28:12.852Z
+// Last updated: 2026-11-17T06:51:02.935Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "封殺晶片反成催化劑？路透社：中國企業「蒸餾」美AI模型訓練模型",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177473090179829760380924.jpeg/Bc7TGYl8dViAybVcSWYTWVJhcOtZowKvg6E_IYOhPyE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411692/%E5%B0%81%E6%AE%BA%E6%99%B6%E7%89%87%E5%8F%8D%E6%88%90%E5%82%AC%E5%8C%96%E5%8A%91-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD-%E8%92%B8%E9%A4%BE-%E7%BE%8Eai%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E6%A8%A1%E5%9E%8B",
+    "timestamp": "2026-11-17T06:51:02.935Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WTT香港總決賽｜王楚欽入圍與孫穎莎分戰單打　混雙外卡有待公布",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195050162699898880795648.jpeg/33Z0qqYoJz-ET2T9vvyinRJ6c-c0eALpygIkGMoCJBg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406660/%E4%B9%85%E5%9D%90%E9%A3%B2%E9%BB%91%E5%92%96%E5%95%A1%E6%B6%88%E6%B0%B4%E8%85%AB-pubmed%E8%88%87%E5%93%88%E4%BD%9B%E6%8F%AD%E6%B0%B4%E5%88%86%E8%B5%A4%E5%AD%97-%E5%B0%8F%E8%85%BF%E8%85%AB%E8%84%B9%E6%88%90%E4%BB%A3%E5%83%B9",
     "timestamp": "2026-11-16T23:59:01.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "久坐飲黑咖啡消水腫？PubMed與哈佛揭水分赤字　小腿腫脹成代價",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195050162699898880795648.jpeg/33Z0qqYoJz-ET2T9vvyinRJ6c-c0eALpygIkGMoCJBg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60406660/%E4%B9%85%E5%9D%90%E9%A3%B2%E9%BB%91%E5%92%96%E5%95%A1%E6%B6%88%E6%B0%B4%E8%85%AB-pubmed%E8%88%87%E5%93%88%E4%BD%9B%E6%8F%AD%E6%B0%B4%E5%88%86%E8%B5%A4%E5%AD%97-%E5%B0%8F%E8%85%BF%E8%85%AB%E8%84%B9%E6%88%90%E4%BB%A3%E5%83%B9",
-    "timestamp": "2026-11-16T23:45:10.817Z",
     "strategy": ".content-card__main"
   }
 ];
