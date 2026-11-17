@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T15:45:32.075Z
+// Last updated: 2026-11-17T15:59:16.833Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣新之城「青春無限」3部日式貼紙相機正移除　店員稱相紙停產",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199428637468659712936285.jpeg/EIFXwszZIBIbVRJOfSrBPQ5dvExgWyZAD-ia4SromuE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411884/%E8%8D%83%E7%81%A3%E6%96%B0%E4%B9%8B%E5%9F%8E-%E9%9D%92%E6%98%A5%E7%84%A1%E9%99%90-3%E9%83%A8%E6%97%A5%E5%BC%8F%E8%B2%BC%E7%B4%99%E7%9B%B8%E6%A9%9F%E6%AD%A3%E7%A7%BB%E9%99%A4-%E5%BA%97%E5%93%A1%E7%A8%B1%E7%9B%B8%E7%B4%99%E5%81%9C%E7%94%A2",
+    "timestamp": "2026-11-17T15:59:16.833Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳將於12月1日出席聽證會　英偉達總法律顧問2日國會作證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199385793706070016091627.png/V-LwGxpx_0Iqqz6PZhQz6P5lqcQCtzn2MNaILzDWiC8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60411577/%E9%87%91%E6%99%BA%E5%AA%9B-doctor-x-%E5%A4%A7%E7%B5%90%E5%B1%80-3%E5%A4%A7%E4%BC%8F%E7%AD%86%E5%85%A8%E6%8B%86%E8%A7%A3-%E6%83%A1%E9%AD%94%E7%82%BA%E4%BD%95%E8%A1%93%E4%B8%AD%E7%97%9B%E9%86%92",
     "timestamp": "2026-11-17T09:21:48.097Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北京同仁堂｢一捻金｣抽檢含水量不合格　公司回應：正溯源核查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199397886446538752076859.jpeg/HplD27QNpqTBPCu3G9ETHzl070Okkv3sIPnjzSD5480?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60411754/%E5%8C%97%E4%BA%AC%E5%90%8C%E4%BB%81%E5%A0%82-%E4%B8%80%E6%8D%BB%E9%87%91-%E6%8A%BD%E6%AA%A2%E5%90%AB%E6%B0%B4%E9%87%8F%E4%B8%8D%E5%90%88%E6%A0%BC-%E5%85%AC%E5%8F%B8%E5%9B%9E%E6%87%89-%E6%AD%A3%E6%BA%AF%E6%BA%90%E6%A0%B8%E6%9F%A5",
-    "timestamp": "2026-11-17T08:36:13.632Z",
     "strategy": ".content-card__main"
   }
 ];
