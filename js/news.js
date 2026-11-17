@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T13:59:20.963Z
+// Last updated: 2026-11-17T14:20:29.435Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "萬千星輝賀台慶｜盤點過去30年壓軸大獎得主　薛家燕中190萬稱冠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199407183830192128296750.jpeg/kY_-BCx5nNHB-06fsfgYpfK25bGrk309hQDOnoUAzp4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411842/%E8%90%AC%E5%8D%83%E6%98%9F%E8%BC%9D%E8%B3%80%E5%8F%B0%E6%85%B6-%E7%9B%A4%E9%BB%9E%E9%81%8E%E5%8E%BB30%E5%B9%B4%E5%A3%93%E8%BB%B8%E5%A4%A7%E7%8D%8E%E5%BE%97%E4%B8%BB-%E8%96%9B%E5%AE%B6%E7%87%95%E4%B8%AD190%E8%90%AC%E7%A8%B1%E5%86%A0",
+    "timestamp": "2026-11-17T14:20:29.435Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鍾嘉欣汕頭跨年演唱會突宣取消　因交通住宿緊張順延至2027年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199380895761436672413567.jpeg/7oRZhXZFnDgZYjHwh81qcK_hw_MyzhXwl-jEyJfoxMg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60411631/%E5%98%89%E8%8F%AF%E8%A5%BF%E7%87%9F%E7%9B%A4%E9%86%AB%E9%99%A2%E9%81%93%E6%96%B0%E7%9B%A4%E5%91%BD%E5%90%8D-%E5%98%89%E6%A6%95%E8%8E%8A-%E5%85%A8%E7%9B%A4%E6%8F%90%E4%BE%9B62%E4%BC%99",
     "timestamp": "2026-11-17T07:21:42.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "封殺晶片反成催化劑？路透社：中國企業「蒸餾」美AI模型訓練模型",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260918/1177473090179829760380924.jpeg/Bc7TGYl8dViAybVcSWYTWVJhcOtZowKvg6E_IYOhPyE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411692/%E5%B0%81%E6%AE%BA%E6%99%B6%E7%89%87%E5%8F%8D%E6%88%90%E5%82%AC%E5%8C%96%E5%8A%91-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD-%E8%92%B8%E9%A4%BE-%E7%BE%8Eai%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E6%A8%A1%E5%9E%8B",
-    "timestamp": "2026-11-17T06:51:02.935Z",
     "strategy": ".content-card__main"
   }
 ];
