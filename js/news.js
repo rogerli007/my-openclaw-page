@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T03:22:24.600Z
+// Last updated: 2026-11-17T03:32:04.412Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Bottega Veneta2026假日新作Verde登場！最低入手價$30,500",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198309951081025536438605.png/kU-1W9gECR341s-pAQmPD0n9SG0kGY64wCR5nsAkeZ4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A9%BF%E6%90%AD%E7%AD%86%E8%A8%98/60410769/bottega-veneta2026%E5%81%87%E6%97%A5%E6%96%B0%E4%BD%9Cverde%E7%99%BB%E5%A0%B4-%E6%9C%80%E4%BD%8E%E5%85%A5%E6%89%8B%E5%83%B9-30-500",
+    "timestamp": "2026-11-17T03:32:04.412Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國際賽出擊｜國足主場對巴林　蓄「細」待發",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198324495245381632218395.jpeg/k38OZ5yITnIzBe5oLaKqRdVe6CBrtTryjnWvqY51r6k",
     "url": "https://www.hk01.com/01TV/60410808/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%A2%AB%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9D%92%E7%9D%9E-%E4%B8%80%E5%8F%A5-%E4%BD%A0%E5%A5%BD%E6%9C%89%E8%B6%A3-%E7%8D%B2%E5%BE%97%E5%96%9C%E5%8A%87%E5%A4%A7%E5%B8%AB%E8%AA%8D%E5%8F%AF",
     "timestamp": "2026-11-16T20:20:20.837Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正遇貴人林海峰：寬容的掌舵者成就了他的冷面風格",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
-    "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
-    "timestamp": "2026-11-16T19:58:55.485Z",
     "strategy": ".content-card__main"
   }
 ];
