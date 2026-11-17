@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T05:20:51.366Z
+// Last updated: 2026-11-17T05:45:44.751Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國海灘驚現神秘圓球　疑太空碎片墜海官方警告勿觸摸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199323087217102848935108.png/p3f3MpPpeRtG18HdV9yCuBf1vKzLrY_rsPtm7bD7Zu0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60411611/%E6%B3%B0%E5%9C%8B%E6%B5%B7%E7%81%98%E9%A9%9A%E7%8F%BE%E7%A5%9E%E7%A7%98%E5%9C%93%E7%90%83-%E7%96%91%E5%A4%AA%E7%A9%BA%E7%A2%8E%E7%89%87%E5%A2%9C%E6%B5%B7%E5%AE%98%E6%96%B9%E8%AD%A6%E5%91%8A%E5%8B%BF%E8%A7%B8%E6%91%B8",
+    "timestamp": "2026-11-17T05:45:44.751Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳奇景！海濱驚現逾百片「神秘白物」　網民揭真身是平民美食",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197600237774966784593148.jpeg/hu4YPWtHRcN9f_56vD03GOhIOu_nm8LHzUssHc1LLB0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411521/apec-%E4%BF%84%E6%96%B9-%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%B3%B0%E6%9C%83%E4%B8%BB%E8%A6%81%E8%AD%B0%E9%A1%8C%E7%A2%BA%E5%AE%9A-%E6%AD%A3%E5%AE%89%E6%8E%92%E4%BF%84%E7%BE%8E%E9%9B%99%E9%82%8A%E6%9C%83%E8%AB%87",
     "timestamp": "2026-11-16T22:59:00.418Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角宜安大廈單位失火　冒烈焰濃煙滾滾　消防升雲梯救熄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199120784170160128068954.jpeg/RTdAl9ne9T0hB7-gSbKpnKaligFI7IhZUltY-lJbWPo",
-    "url": "https://www.hk01.com/01TV/60411475/%E5%8C%97%E8%A7%92%E5%AE%9C%E5%AE%89%E5%A4%A7%E5%BB%88%E5%96%AE%E4%BD%8D%E5%A4%B1%E7%81%AB-%E5%86%92%E7%83%88%E7%84%B0%E6%BF%83%E7%85%99%E6%BB%BE%E6%BB%BE-%E6%B6%88%E9%98%B2%E5%8D%87%E9%9B%B2%E6%A2%AF%E6%95%91%E7%86%84",
-    "timestamp": "2026-11-16T22:45:12.952Z",
     "strategy": ".content-card__main"
   }
 ];
