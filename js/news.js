@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T20:45:35.024Z
+// Last updated: 2026-11-17T20:58:58.974Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗指美軍空襲格什姆島　路透：導彈發射場為目標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199576122858147840728051.png/_cyK6cTw2ROa91oNIwarsIFfp4ZmOYIF9ANvqPQDb6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411992/%E4%BC%8A%E6%9C%97%E6%8C%87%E7%BE%8E%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B3%B6-%E8%B7%AF%E9%80%8F-%E5%B0%8E%E5%BD%88%E7%99%BC%E5%B0%84%E5%A0%B4%E7%82%BA%E7%9B%AE%E6%A8%99",
+    "timestamp": "2026-11-17T20:58:58.974Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗指美軍空襲格什姆島　路透：導彈發射場為目標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199409268982288384946732.jpeg/ObKAo4VnvcCLuFbT09JYXqnpIA5pyx1f-7jD6Pu4w-g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411810/%E8%A8%B1%E5%BF%97%E5%AE%89%E4%BB%BBtvb%E5%8F%B0%E6%85%B6%E5%A3%93%E8%BB%B8%E8%A1%A8%E6%BC%94%E5%98%89%E8%B3%93-%E5%AE%89%E5%BF%83%E4%BA%8B%E4%BB%B6-7%E5%B9%B4%E5%BE%8C%E6%81%90%E5%90%8C%E5%A0%B4%E9%A6%AC%E5%9C%8B%E6%98%8E",
     "timestamp": "2026-11-17T15:20:35.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中國商務部：中加延長豁免措施2年　中方將調整針對農水產品措施",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199332330607480832390817.jpeg/objs6TRXszxqBXpu9wmJ3qApZ5vH-IQKrhQ7s64UO7M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411971/%E4%B8%AD%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8-%E4%B8%AD%E5%8A%A0%E5%BB%B6%E9%95%B7%E8%B1%81%E5%85%8D%E6%8E%AA%E6%96%BD2%E5%B9%B4-%E4%B8%AD%E6%96%B9%E5%B0%87%E8%AA%BF%E6%95%B4%E9%87%9D%E5%B0%8D%E8%BE%B2%E6%B0%B4%E7%94%A2%E5%93%81%E6%8E%AA%E6%96%BD",
-    "timestamp": "2026-11-17T14:59:17.238Z",
     "strategy": ".content-card__main"
   }
 ];
