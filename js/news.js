@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T02:59:14.054Z
+// Last updated: 2026-11-17T03:22:24.600Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國際賽出擊｜國足主場對巴林　蓄「細」待發",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199319983708966912351609.jpeg/muZXj6Aqa1-eD6BTpUHsoCD7ILHb76sjcjYmlXI2JpU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60411403/%E5%9C%8B%E9%9A%9B%E8%B3%BD%E5%87%BA%E6%93%8A-%E5%9C%8B%E8%B6%B3%E4%B8%BB%E5%A0%B4%E5%B0%8D%E5%B7%B4%E6%9E%97-%E8%93%84-%E7%B4%B0-%E5%BE%85%E7%99%BC",
+    "timestamp": "2026-11-17T03:22:24.600Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中大醫院涉切錯病人雙側卵巢　醫生：若輸卵管卵巢有黏連或難分辨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
     "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
     "timestamp": "2026-11-16T19:58:55.485Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正遇貴人林海峰：寬容的掌舵者成就了他的冷面風格",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198322994431135744315496.jpeg/MW0Iek2D5upQ8GDpXa44nad8P23kCLhO4ZpqzeGaas0",
-    "url": "https://www.hk01.com/01TV/60410805/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E9%81%87%E8%B2%B4%E4%BA%BA%E6%9E%97%E6%B5%B7%E5%B3%B0-%E5%AF%AC%E5%AE%B9%E7%9A%84%E6%8E%8C%E8%88%B5%E8%80%85%E6%88%90%E5%B0%B1%E4%BA%86%E4%BB%96%E7%9A%84%E5%86%B7%E9%9D%A2%E9%A2%A8%E6%A0%BC",
-    "timestamp": "2026-11-16T19:45:03.865Z",
     "strategy": ".content-card__main"
   }
 ];
