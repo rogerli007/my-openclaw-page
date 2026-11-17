@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T03:32:04.412Z
+// Last updated: 2026-11-17T03:43:36.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港男新加坡樟宜機場涉偷$2000耳機　再入境被捕　罪成最高可囚7年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220601/608682552173137920961520.jpeg/HmQ1wcpY_rA8UFWaIzV-2sQm436whZM18xA5LfMQOS0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411614/%E6%B8%AF%E7%94%B7%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%A8%9F%E5%AE%9C%E6%A9%9F%E5%A0%B4%E6%B6%89%E5%81%B7-2000%E8%80%B3%E6%A9%9F-%E5%86%8D%E5%85%A5%E5%A2%83%E8%A2%AB%E6%8D%95-%E7%BD%AA%E6%88%90%E6%9C%80%E9%AB%98%E5%8F%AF%E5%9B%9A7%E5%B9%B4",
+    "timestamp": "2026-11-17T03:43:36.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Bottega Veneta2026假日新作Verde登場！最低入手價$30,500",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198324495245381632218395.jpeg/k38OZ5yITnIzBe5oLaKqRdVe6CBrtTryjnWvqY51r6k",
     "url": "https://www.hk01.com/01TV/60410808/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%A2%AB%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9D%92%E7%9D%9E-%E4%B8%80%E5%8F%A5-%E4%BD%A0%E5%A5%BD%E6%9C%89%E8%B6%A3-%E7%8D%B2%E5%BE%97%E5%96%9C%E5%8A%87%E5%A4%A7%E5%B8%AB%E8%AA%8D%E5%8F%AF",
     "timestamp": "2026-11-16T20:45:01.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正被周星馳青睞：一句「你好有趣」獲得喜劇大師認可",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198324495245381632218395.jpeg/k38OZ5yITnIzBe5oLaKqRdVe6CBrtTryjnWvqY51r6k",
-    "url": "https://www.hk01.com/01TV/60410808/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E8%A2%AB%E5%91%A8%E6%98%9F%E9%A6%B3%E9%9D%92%E7%9D%9E-%E4%B8%80%E5%8F%A5-%E4%BD%A0%E5%A5%BD%E6%9C%89%E8%B6%A3-%E7%8D%B2%E5%BE%97%E5%96%9C%E5%8A%87%E5%A4%A7%E5%B8%AB%E8%AA%8D%E5%8F%AF",
-    "timestamp": "2026-11-16T20:20:20.837Z",
     "strategy": ".content-card__main"
   }
 ];
