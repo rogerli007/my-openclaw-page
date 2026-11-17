@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T09:21:48.097Z
+// Last updated: 2026-11-17T09:32:23.977Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《甄嬛傳》溫太醫張曉龍爆秘婚已升格三寶爸　神秘圈外妻子首露面",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199353794366803968463891.png/Rlb1C0M8qybIy_jk_OUQ1HfaEmveUQE5NUGY1zVBmNc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411576/%E7%94%84%E5%AC%9B%E5%82%B3-%E6%BA%AB%E5%A4%AA%E9%86%AB%E5%BC%B5%E6%9B%89%E9%BE%8D%E7%88%86%E7%A7%98%E5%A9%9A%E5%B7%B2%E5%8D%87%E6%A0%BC%E4%B8%89%E5%AF%B6%E7%88%B8-%E7%A5%9E%E7%A7%98%E5%9C%88%E5%A4%96%E5%A6%BB%E5%AD%90%E9%A6%96%E9%9C%B2%E9%9D%A2",
+    "timestamp": "2026-11-17T09:32:23.977Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金智媛《Doctor X》大結局｜3大伏筆全拆解：惡魔為何術中痛醒？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199302806624800768573984.jpeg/qf5SHl7CKpoW_9OsAOa__UYX71uAWVtfH2r4Ux9q-FM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411552/%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%E6%B6%89%E5%88%87%E9%8C%AF%E7%97%85%E4%BA%BA%E9%9B%99%E5%81%B4%E5%8D%B5%E5%B7%A2-%E9%86%AB%E7%94%9F-%E8%8B%A5%E8%BC%B8%E5%8D%B5%E7%AE%A1%E5%8D%B5%E5%B7%A2%E6%9C%89%E9%BB%8F%E9%80%A3%E6%88%96%E9%9B%A3%E5%88%86%E8%BE%A8",
     "timestamp": "2026-11-17T02:59:14.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "再就業津貼試行計劃｜4.7萬中老年成功再就業　60歲以上逾1.1萬人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241017/923711325069119488568310.jpeg/qgd9eT4llifzXcSxBJRoaZEASkFypls1vfLMe73yzHs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411554/%E5%86%8D%E5%B0%B1%E6%A5%AD%E6%B4%A5%E8%B2%BC%E8%A9%A6%E8%A1%8C%E8%A8%88%E5%8A%83-4-7%E8%90%AC%E4%B8%AD%E8%80%81%E5%B9%B4%E6%88%90%E5%8A%9F%E5%86%8D%E5%B0%B1%E6%A5%AD-60%E6%AD%B2%E4%BB%A5%E4%B8%8A%E9%80%BE1-1%E8%90%AC%E4%BA%BA",
-    "timestamp": "2026-11-17T02:36:38.473Z",
     "strategy": ".content-card__main"
   }
 ];
