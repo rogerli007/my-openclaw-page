@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T12:38:53.832Z
+// Last updated: 2026-11-17T12:59:15.534Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "多喜一家人｜梁冠華蔣欣演繹拆遷分產風波　盤點5大看點+追劇日曆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199422299904675840516734.png/CUKHU4O9JVvibc294sOEektp_Oh-h9_RjIf14YyH9eE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60411655/%E5%A4%9A%E5%96%9C%E4%B8%80%E5%AE%B6%E4%BA%BA-%E6%A2%81%E5%86%A0%E8%8F%AF%E8%94%A3%E6%AC%A3%E6%BC%94%E7%B9%B9%E6%8B%86%E9%81%B7%E5%88%86%E7%94%A2%E9%A2%A8%E6%B3%A2-%E7%9B%A4%E9%BB%9E5%E5%A4%A7%E7%9C%8B%E9%BB%9E-%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86",
+    "timestamp": "2026-11-17T12:59:15.534Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普訪亞洲代表團：內閣三巨頭壓陣　普京帶30企業代表去深圳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261019/1188919450443714560659348.jpeg/5Zd2-YAR2_wQ74KAwGuoQgfbuPleol3TLmm2ZC5ptmQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60398874/wtt%E9%A6%99%E6%B8%AF%E7%B8%BD%E6%B1%BA%E8%B3%BD2026%E7%90%83%E5%93%A1%E5%90%8D%E5%96%AE%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E9%99%84%E5%94%AE%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-11-17T05:59:27.050Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國海灘驚現神秘圓球　疑太空碎片墜海官方警告勿觸摸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199323087217102848935108.png/p3f3MpPpeRtG18HdV9yCuBf1vKzLrY_rsPtm7bD7Zu0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60411611/%E6%B3%B0%E5%9C%8B%E6%B5%B7%E7%81%98%E9%A9%9A%E7%8F%BE%E7%A5%9E%E7%A7%98%E5%9C%93%E7%90%83-%E7%96%91%E5%A4%AA%E7%A9%BA%E7%A2%8E%E7%89%87%E5%A2%9C%E6%B5%B7%E5%AE%98%E6%96%B9%E8%AD%A6%E5%91%8A%E5%8B%BF%E8%A7%B8%E6%91%B8",
-    "timestamp": "2026-11-17T05:45:44.751Z",
     "strategy": ".content-card__main"
   }
 ];
