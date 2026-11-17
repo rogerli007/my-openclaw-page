@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T16:22:20.407Z
+// Last updated: 2026-11-17T16:45:22.262Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珀麗灣沙灘現老鼠藥　專家斥危害小童健康　管理處稱已提醒承辦商",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199521819086819328683752.jpeg/LQKA3jsNZwlGjqkRBj48KJpKehxOMHHlab71T2m-9U8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411883/%E7%8F%80%E9%BA%97%E7%81%A3%E6%B2%99%E7%81%98%E7%8F%BE%E8%80%81%E9%BC%A0%E8%97%A5-%E5%B0%88%E5%AE%B6%E6%96%A5%E5%8D%B1%E5%AE%B3%E5%B0%8F%E7%AB%A5%E5%81%A5%E5%BA%B7-%E7%AE%A1%E7%90%86%E8%99%95%E7%A8%B1%E5%B7%B2%E6%8F%90%E9%86%92%E6%89%BF%E8%BE%A6%E5%95%86",
+    "timestamp": "2026-11-17T16:45:22.262Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜英偉達季績出爐前夕　黃教主暗示願重返英偉達任CEO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199353794366803968463891.png/Rlb1C0M8qybIy_jk_OUQ1HfaEmveUQE5NUGY1zVBmNc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411576/%E7%94%84%E5%AC%9B%E5%82%B3-%E6%BA%AB%E5%A4%AA%E9%86%AB%E5%BC%B5%E6%9B%89%E9%BE%8D%E7%88%86%E7%A7%98%E5%A9%9A%E5%B7%B2%E5%8D%87%E6%A0%BC%E4%B8%89%E5%AF%B6%E7%88%B8-%E7%A5%9E%E7%A7%98%E5%9C%88%E5%A4%96%E5%A6%BB%E5%AD%90%E9%A6%96%E9%9C%B2%E9%9D%A2",
     "timestamp": "2026-11-17T09:45:26.496Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《甄嬛傳》溫太醫張曉龍爆秘婚已升格三寶爸　神秘圈外妻子首露面",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199353794366803968463891.png/Rlb1C0M8qybIy_jk_OUQ1HfaEmveUQE5NUGY1zVBmNc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411576/%E7%94%84%E5%AC%9B%E5%82%B3-%E6%BA%AB%E5%A4%AA%E9%86%AB%E5%BC%B5%E6%9B%89%E9%BE%8D%E7%88%86%E7%A7%98%E5%A9%9A%E5%B7%B2%E5%8D%87%E6%A0%BC%E4%B8%89%E5%AF%B6%E7%88%B8-%E7%A5%9E%E7%A7%98%E5%9C%88%E5%A4%96%E5%A6%BB%E5%AD%90%E9%A6%96%E9%9C%B2%E9%9D%A2",
-    "timestamp": "2026-11-17T09:32:23.977Z",
     "strategy": ".content-card__main"
   }
 ];
