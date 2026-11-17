@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-17T22:45:47.052Z
+// Last updated: 2026-11-17T22:59:10.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英偉達董事會主席：公司不考慮重新聘用黃仁勳任CEO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085978068763283456869237.jpeg/qUp5Mz3TpI18H8xkoi5JJoyBchAdUKXtKjr5Fyo6-Rc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412001/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E4%B8%BB%E5%B8%AD-%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%80%83%E6%85%AE%E9%87%8D%E6%96%B0%E8%81%98%E7%94%A8%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BB%BBceo",
+    "timestamp": "2026-11-17T22:59:10.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗貓隻被困簷篷　消防升雲梯救貓　目擊者：上到7層樓｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198325368918904832824693.jpeg/4X1v4fDrJrZLSnPPuGug59LTBuXIgsArYYgK1mGICtY",
     "url": "https://www.hk01.com/01TV/60410810/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E6%8F%AD%E6%98%9F%E7%88%BA%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%B8%B8-%E5%A4%A9%E5%A4%A9%E8%BF%BD%E5%95%8F-%E6%9C%89%E7%84%A1%E6%A9%8B-%E7%9A%84%E9%AB%98%E5%A3%93%E5%89%B5%E4%BD%9C",
     "timestamp": "2026-11-17T17:19:59.394Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鋼琴家王羽佳香港演出取消曲目　文體旅局促主辦方說明及審視資助",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261111/1197279694622298112581473.jpeg/kskK95MGykXDtHHRqavHenHgqFEMh8N4aDVezmg1Xs4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411973/%E9%8B%BC%E7%90%B4%E5%AE%B6%E7%8E%8B%E7%BE%BD%E4%BD%B3%E9%A6%99%E6%B8%AF%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88%E6%9B%B2%E7%9B%AE-%E6%96%87%E9%AB%94%E6%97%85%E5%B1%80%E4%BF%83%E4%B8%BB%E8%BE%A6%E6%96%B9%E8%AA%AA%E6%98%8E%E5%8F%8A%E5%AF%A9%E8%A6%96%E8%B3%87%E5%8A%A9",
-    "timestamp": "2026-11-17T16:59:02.442Z",
     "strategy": ".content-card__main"
   }
 ];
