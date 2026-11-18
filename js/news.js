@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T06:50:55.932Z
+// Last updated: 2026-11-18T07:32:52.134Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "騙徒潛匹克球運動群組　電訊公司退休高層墮投資騙局　被呃$600萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199717340887912448157384.png/3JDxqoZlPUjvL6QI6eH0X0eeCwD9zccYyUNdSclDXUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412167/%E9%A8%99%E5%BE%92%E6%BD%9B%E5%8C%B9%E5%85%8B%E7%90%83%E9%81%8B%E5%8B%95%E7%BE%A4%E7%B5%84-%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%80%80%E4%BC%91%E9%AB%98%E5%B1%A4%E5%A2%AE%E6%8A%95%E8%B3%87%E9%A8%99%E5%B1%80-%E8%A2%AB%E5%91%83-600%E8%90%AC",
+    "timestamp": "2026-11-18T07:32:52.134Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幫手搵人︱跑馬地77歲黃木榮離開禮頓道院舍後失蹤　職員報警尋人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199652622525534208854761.png/8XLgPcDyYIEPytrYLO45BBl-9l1G-rUqRnmUEUZ5lBE",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412013/%E6%9C%89%E7%89%87-%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E4%BF%A1%E8%99%9F%E8%A8%AD%E5%82%99%E6%95%85%E9%9A%9C-%E6%B8%AF%E5%B3%B6%E7%B6%AB%E7%8F%BE%E5%80%99%E8%BB%8A%E4%BA%BA%E6%BD%AE-%E7%B6%B2%E6%B0%91-%E5%B7%B2%E6%B7%AA%E9%99%B7",
     "timestamp": "2026-11-18T01:21:22.437Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵香港大學站附近有信號設備故障　行車時間需額外5至8分鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199645962356658176437019.jpeg/Ms0ZfnYOzmHtzYapg_a99F6VMkrfIfiCkizbPJIs2zw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412012/%E6%B8%AF%E9%90%B5%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E9%99%84%E8%BF%91%E6%9C%89%E4%BF%A1%E8%99%9F%E8%A8%AD%E5%82%99%E6%95%85%E9%9A%9C-%E8%A1%8C%E8%BB%8A%E6%99%82%E9%96%93%E9%9C%80%E9%A1%8D%E5%A4%965%E8%87%B38%E5%88%86%E9%90%98",
-    "timestamp": "2026-11-18T00:58:53.973Z",
     "strategy": ".content-card__main"
   }
 ];
