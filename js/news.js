@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T04:45:11.301Z
+// Last updated: 2026-11-18T04:59:19.662Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "iPhone 20 Pro微曲屏實物蓋板流出 | 2D平面面板配光學四曲面玻璃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199686434231947264135760.jpeg/Ngko4lqFzBupnnirjEelNmrPUG2j_uWfRoA7DkaAOw4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60412067/iphone-20-pro%E5%BE%AE%E6%9B%B2%E5%B1%8F%E5%AF%A6%E7%89%A9%E8%93%8B%E6%9D%BF%E6%B5%81%E5%87%BA-2d%E5%B9%B3%E9%9D%A2%E9%9D%A2%E6%9D%BF%E9%85%8D%E5%85%89%E5%AD%B8%E5%9B%9B%E6%9B%B2%E9%9D%A2%E7%8E%BB%E7%92%83",
+    "timestamp": "2026-11-18T04:59:19.662Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "出街唔使帶尿袋！盤點7款10,000mAh續航神機 狂操5小時仲剩八成電",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085978068763283456869237.jpeg/qUp5Mz3TpI18H8xkoi5JJoyBchAdUKXtKjr5Fyo6-Rc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412001/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E4%B8%BB%E5%B8%AD-%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%80%83%E6%85%AE%E9%87%8D%E6%96%B0%E8%81%98%E7%94%A8%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BB%BBceo",
     "timestamp": "2026-11-17T22:59:10.379Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗貓隻被困簷篷　消防升雲梯救貓　目擊者：上到7層樓｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199609404089962496987362.jpeg/EjTYGw5fPAZ4N4a9HeENALlRkTjDnIGBdSPiWXUj4lk",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411999/%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%B2%93%E9%9A%BB%E8%A2%AB%E5%9B%B0%E7%B0%B7%E7%AF%B7-%E6%B6%88%E9%98%B2%E5%8D%87%E9%9B%B2%E6%A2%AF%E6%95%91%E8%B2%93-%E7%9B%AE%E6%93%8A%E8%80%85-%E4%B8%8A%E5%88%B07%E5%B1%A4%E6%A8%93-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-17T22:45:47.052Z",
     "strategy": ".content-card__main"
   }
 ];
