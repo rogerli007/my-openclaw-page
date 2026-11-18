@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T19:59:16.772Z
+// Last updated: 2026-11-18T20:20:21.036Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國特使威特科夫庫什納將抵柏林　晤烏克蘭與歐洲談判團隊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173247770190942208290467.jpeg/zjP-9w39ncBvCu1YDkg8E2gJBMIzL4gKoyWs_6MlrP8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412455/%E7%BE%8E%E5%9C%8B%E7%89%B9%E4%BD%BF%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E5%BA%AB%E4%BB%80%E7%B4%8D%E5%B0%87%E6%8A%B5%E6%9F%8F%E6%9E%97-%E6%99%A4%E7%83%8F%E5%85%8B%E8%98%AD%E8%88%87%E6%AD%90%E6%B4%B2%E8%AB%87%E5%88%A4%E5%9C%98%E9%9A%8A",
+    "timestamp": "2026-11-18T20:20:21.036Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美防長突訪委內瑞拉　宣布兩國達成新軍事合作協議涉情報共享",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199783851405086720435290.jpeg/455Xte0GHHJyUP5QnR9dAod6mpt8adswRWQlQ0VkJUM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412177/%E5%A5%B3%E7%A5%9E2-%E9%98%AE%E5%98%89%E6%95%8F%E5%89%96%E7%99%BD%E5%9B%9B%E6%AE%B5%E6%83%85%E5%82%B7%E6%9B%BE%E8%90%8C%E8%BC%95%E7%94%9F%E5%BF%B5%E9%A0%AD-%E8%A8%88%E5%8A%83%E6%98%8E%E5%B9%B4%E9%9B%AA%E5%8D%B5%E6%81%A8%E7%94%9Fb",
     "timestamp": "2026-11-18T13:45:51.619Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內地女上班開直播唱歌！遭公司斥嚴重違紀解僱　索賠1原因遭駁回",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199750308767469568086792.png/W7IHlGjzOPMULATKaoSUuXMuQ0TZ0PxEs7XRYrO10WI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412023/%E5%8D%97%E4%BA%AC%E5%A5%B3%E4%B8%8A%E7%8F%AD%E9%96%8B%E7%9B%B4%E6%92%AD%E5%94%B1%E6%AD%8C%E9%81%AD%E8%A7%A3%E5%83%B1-%E5%AE%A2%E6%88%B6%E8%A8%82%E8%A3%BD%E7%94%A2%E5%93%81%E5%85%A5%E9%8F%A1-%E7%B4%A2%E8%B3%A0%E5%84%9F%E9%81%AD%E9%A7%81%E5%9B%9E",
-    "timestamp": "2026-11-18T13:20:06.843Z",
     "strategy": ".content-card__main"
   }
 ];
