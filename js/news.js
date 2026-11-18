@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T09:45:35.775Z
+// Last updated: 2026-11-18T09:59:07.428Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "FANCL代理商老闆放售中環皇九全層　同步招租　兩年前斥3.1億買入",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199755533951700992745386.jpeg/WfMR6pGII8NuhDWBC7e4qcTYv4JxZax1TJf560yX-es?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60412267/fancl%E4%BB%A3%E7%90%86%E5%95%86%E8%80%81%E9%97%86%E6%94%BE%E5%94%AE%E4%B8%AD%E7%92%B0%E7%9A%87%E4%B9%9D%E5%85%A8%E5%B1%A4-%E5%90%8C%E6%AD%A5%E6%8B%9B%E7%A7%9F-%E5%85%A9%E5%B9%B4%E5%89%8D%E6%96%A53-1%E5%84%84%E8%B2%B7%E5%85%A5",
+    "timestamp": "2026-11-18T09:59:07.428Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "加州亞裔女教授跨校狂兼9職　教30門課學生逾千人　年賺80萬美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199666580020006912027458.png/a5nRTZ0ORF82qPIwLGsTxakpSsk0NlKYLUFc6i1BXOo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412041/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E6%9D%B1%E5%8C%97%E9%83%A8%E7%88%86%E6%AD%A6%E8%A3%9D%E8%A5%B2%E6%93%8A-%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E8%BA%AB%E4%BA%A1",
     "timestamp": "2026-11-18T02:59:04.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "五旬男女赴滙豐總行圖開戶　出示2000億元月結單　職員感可疑報警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172584627269799936814260.jpeg/7NfyXHXgLq5Kfv_O5mRbxK25VRovOctu2mWTh9plk4c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412027/%E4%BA%94%E6%97%AC%E7%94%B7%E5%A5%B3%E8%B5%B4%E6%BB%99%E8%B1%90%E7%B8%BD%E8%A1%8C%E5%9C%96%E9%96%8B%E6%88%B6-%E5%87%BA%E7%A4%BA2000%E5%84%84%E5%85%83%E6%9C%88%E7%B5%90%E5%96%AE-%E8%81%B7%E5%93%A1%E6%84%9F%E5%8F%AF%E7%96%91%E5%A0%B1%E8%AD%A6",
-    "timestamp": "2026-11-18T02:45:45.910Z",
     "strategy": ".content-card__main"
   }
 ];
