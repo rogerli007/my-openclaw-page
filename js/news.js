@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T05:59:15.757Z
+// Last updated: 2026-11-18T06:28:07.311Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球香港賽｜謝影雪夥小將激戰止步　總結今年起伏好比過山車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199710971237502976398720.png/x743ZBbTCdTE4R4HI5eTao1WdbPop_BPvFdl17xXZdc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60412160/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E8%AC%9D%E5%BD%B1%E9%9B%AA%E5%A4%A5%E5%B0%8F%E5%B0%87%E6%BF%80%E6%88%B0%E6%AD%A2%E6%AD%A5-%E7%B8%BD%E7%B5%90%E4%BB%8A%E5%B9%B4%E8%B5%B7%E4%BC%8F%E5%A5%BD%E6%AF%94%E9%81%8E%E5%B1%B1%E8%BB%8A",
+    "timestamp": "2026-11-18T06:28:07.311Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本熊出沒｜群馬縣5旬男遇襲　幼崽遭捕母熊在逃　全市70校停課",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199412240399208448673241.png/z-rIk7vQ_lAKlGdqsID3ad8U856YuNm1Iz3IuSM9yLk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60411783/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E5%BE%B7%E5%9C%8B%E7%AF%87%E7%AA%81%E8%AE%8A%E9%AB%98%E7%94%9C%E6%83%B9%E8%AD%B0-%E6%A5%8A%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90%E8%A2%AB%E6%89%B9%E4%BA%BA%E8%A8%AD%E5%B4%A9%E5%A3%9E",
     "timestamp": "2026-11-18T00:38:00.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飲水愈多愈好？日灌數公升恐致「水中毒」　3大補水陷阱一文看清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196515926623653888416089.jpeg/XwFL5EdWo--e5bS8YQgoRHZubO-G9geAbDrTq2w606s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407111/%E9%A3%B2%E6%B0%B4%E6%84%88%E5%A4%9A%E6%84%88%E5%A5%BD-%E6%97%A5%E7%81%8C%E6%95%B8%E5%85%AC%E5%8D%87%E6%81%90%E8%87%B4-%E6%B0%B4%E4%B8%AD%E6%AF%92-3%E5%A4%A7%E8%A3%9C%E6%B0%B4%E9%99%B7%E9%98%B1%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
-    "timestamp": "2026-11-17T23:59:04.774Z",
     "strategy": ".content-card__main"
   }
 ];
