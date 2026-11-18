@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T07:45:54.749Z
+// Last updated: 2026-11-18T08:24:05.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "減壓變傷身？「脆皮捏捏」玩具甲醛超標恐損神經 拆解3大健康隱患",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199734941890383872163089.jpeg/uDkVawDzJeuxmCy3v33l0RaUTPQhRoITSK6jHUiuox0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60412129/%E6%B8%9B%E5%A3%93%E8%AE%8A%E5%82%B7%E8%BA%AB-%E8%84%86%E7%9A%AE%E6%8D%8F%E6%8D%8F-%E7%8E%A9%E5%85%B7%E7%94%B2%E9%86%9B%E8%B6%85%E6%A8%99%E6%81%90%E6%90%8D%E7%A5%9E%E7%B6%93-%E6%8B%86%E8%A7%A33%E5%A4%A7%E5%81%A5%E5%BA%B7%E9%9A%B1%E6%82%A3",
+    "timestamp": "2026-11-18T08:24:05.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC深圳開幕！美中俄三方會談成焦點　特朗普直言「金正恩想來」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197872551527714816721483.jpeg/FhJvMjMx0_BNzf4JG0XztVfvEfivB6hhA1EviQNRL4k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412024/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E5%A0%85%E6%8B%92%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E6%AD%B8-%E4%B8%BB%E5%8B%95%E5%B0%8D%E8%8F%AF%E5%81%9C%E5%94%AE%E6%8E%88%E6%AC%8A%E7%94%A2%E5%93%81",
     "timestamp": "2026-11-18T01:59:17.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：美國是「太平洋國家」　與東盟為共同塑造區域未來夥伴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199658334303555584392054.jpeg/qTXn60lgC_oVnNC-k95AhmyFvbaAbCoh3GCk8NxgpPA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412019/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E6%98%AF-%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%9C%8B%E5%AE%B6-%E8%88%87%E6%9D%B1%E7%9B%9F%E7%82%BA%E5%85%B1%E5%90%8C%E5%A1%91%E9%80%A0%E5%8D%80%E5%9F%9F%E6%9C%AA%E4%BE%86%E5%A4%A5%E4%BC%B4",
-    "timestamp": "2026-11-18T01:48:13.297Z",
     "strategy": ".content-card__main"
   }
 ];
