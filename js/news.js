@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T20:45:04.946Z
+// Last updated: 2026-11-18T20:59:05.198Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
+    "timestamp": "2026-11-18T20:59:05.198Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199848821975158784427018.jpeg/EkamboByeGknPX-GpR6r9sB-7ZY-HQc3Mv-utTL_rrU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60412322/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E5%A4%A7%E5%90%8D%E7%90%83%E6%98%9F%E9%BD%8A%E7%99%BB%E5%A0%B4-%E5%BF%97%E7%94%B0%E5%8D%83%E9%99%BD%E5%86%8D%E8%A8%AA%E6%B8%AF%E5%8F%83%E8%B3%BD%E4%BB%8D%E5%8F%97%E6%AD%A1%E8%BF%8E",
     "timestamp": "2026-11-18T14:20:29.152Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC深圳｜墨西哥總統在深圳吃上家鄉菜　頒親筆簽名榮譽證書表彰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199832455268274176316759.jpeg/abyPkAFMon0zs9yh2YwNaVJBDktN6Aoc_F-F0_xfhdM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412405/apec%E6%B7%B1%E5%9C%B3-%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%90%83%E4%B8%8A%E5%AE%B6%E9%84%89%E8%8F%9C-%E9%A0%92%E8%A6%AA%E7%AD%86%E7%B0%BD%E5%90%8D%E6%A6%AE%E8%AD%BD%E8%AD%89%E6%9B%B8%E8%A1%A8%E5%BD%B0",
-    "timestamp": "2026-11-18T13:59:18.402Z",
     "strategy": ".content-card__main"
   }
 ];
