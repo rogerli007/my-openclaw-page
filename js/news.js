@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T09:59:07.428Z
+// Last updated: 2026-11-18T10:20:22.265Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "傅嘉莉談掌摑戲羅生門　反駁陳自瑤「下下真打」：啪爆微絲血管啦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199784405741080576938716.jpeg/iNlqYdjI9QrB8biijXOv-w_gUh-VaSPCO7hLYju4S2I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412346/%E5%82%85%E5%98%89%E8%8E%89%E8%AB%87%E6%8E%8C%E6%91%91%E6%88%B2%E7%BE%85%E7%94%9F%E9%96%80-%E5%8F%8D%E9%A7%81%E9%99%B3%E8%87%AA%E7%91%A4-%E4%B8%8B%E4%B8%8B%E7%9C%9F%E6%89%93-%E5%95%AA%E7%88%86%E5%BE%AE%E7%B5%B2%E8%A1%80%E7%AE%A1%E5%95%A6",
+    "timestamp": "2026-11-18T10:20:22.265Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "FANCL代理商老闆放售中環皇九全層　同步招租　兩年前斥3.1億買入",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199674377927397376387695.jpeg/l16UrXHl7NrgtIGirYTUfnSg8ZU6MCbojA2bw4wNm8M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412063/%E7%B1%B3%E8%8A%9D%E8%93%AE%E6%8E%A8%E4%BB%8B%E5%90%8D%E5%BA%97%E4%B9%9F%E9%9B%A2%E5%A0%B4-%E4%B8%8A%E7%92%B0%E6%BD%AE%E5%AE%B6%E5%AE%B4%E9%A0%90%E5%91%8A%E5%B9%B3%E5%AE%89%E5%A4%9C%E7%B5%90%E6%A5%AD-%E5%8D%81%E5%B9%B4%E5%9B%9E%E6%86%B6%E8%90%BD%E5%B9%95",
     "timestamp": "2026-11-18T03:22:26.794Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尼日利亞東北部爆武裝襲擊　一名中國公民身亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199666580020006912027458.png/a5nRTZ0ORF82qPIwLGsTxakpSsk0NlKYLUFc6i1BXOo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412041/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9E%E6%9D%B1%E5%8C%97%E9%83%A8%E7%88%86%E6%AD%A6%E8%A3%9D%E8%A5%B2%E6%93%8A-%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E8%BA%AB%E4%BA%A1",
-    "timestamp": "2026-11-18T02:59:04.116Z",
     "strategy": ".content-card__main"
   }
 ];
