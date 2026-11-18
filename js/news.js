@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T13:59:18.402Z
+// Last updated: 2026-11-18T14:20:29.152Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球香港賽｜大名球星齊登場　志田千陽再訪港參賽仍受歡迎",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199848821975158784427018.jpeg/EkamboByeGknPX-GpR6r9sB-7ZY-HQc3Mv-utTL_rrU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60412322/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E5%A4%A7%E5%90%8D%E7%90%83%E6%98%9F%E9%BD%8A%E7%99%BB%E5%A0%B4-%E5%BF%97%E7%94%B0%E5%8D%83%E9%99%BD%E5%86%8D%E8%A8%AA%E6%B8%AF%E5%8F%83%E8%B3%BD%E4%BB%8D%E5%8F%97%E6%AD%A1%E8%BF%8E",
+    "timestamp": "2026-11-18T14:20:29.152Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC深圳｜墨西哥總統在深圳吃上家鄉菜　頒親筆簽名榮譽證書表彰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199710971237502976398720.png/x743ZBbTCdTE4R4HI5eTao1WdbPop_BPvFdl17xXZdc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60412160/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E8%AC%9D%E5%BD%B1%E9%9B%AA%E5%A4%A5%E5%B0%8F%E5%B0%87%E6%BF%80%E6%88%B0%E6%AD%A2%E6%AD%A5-%E7%B8%BD%E7%B5%90%E4%BB%8A%E5%B9%B4%E8%B5%B7%E4%BC%8F%E5%A5%BD%E6%AF%94%E9%81%8E%E5%B1%B1%E8%BB%8A",
     "timestamp": "2026-11-18T06:28:07.311Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本熊出沒｜群馬縣5旬男遇襲　幼崽遭捕母熊在逃　全市70校停課",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199720806137991168172069.jpeg/m51cZjShphbEKWwlYTXtm6kESO_NXVu54VIpOuFSKTo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412144/%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%92-%E7%BE%A4%E9%A6%AC%E7%B8%A35%E6%97%AC%E7%94%B7%E9%81%87%E8%A5%B2-%E5%B9%BC%E5%B4%BD%E9%81%AD%E6%8D%95%E6%AF%8D%E7%86%8A%E5%9C%A8%E9%80%83-%E5%85%A8%E5%B8%8270%E6%A0%A1%E5%81%9C%E8%AA%B2",
-    "timestamp": "2026-11-18T05:59:15.757Z",
     "strategy": ".content-card__main"
   }
 ];
