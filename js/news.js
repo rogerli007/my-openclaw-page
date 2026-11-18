@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T12:49:14.630Z
+// Last updated: 2026-11-18T13:20:06.843Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地女上班開直播唱歌！遭公司斥嚴重違紀解僱　索賠1原因遭駁回",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199750308767469568086792.png/W7IHlGjzOPMULATKaoSUuXMuQ0TZ0PxEs7XRYrO10WI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412023/%E5%8D%97%E4%BA%AC%E5%A5%B3%E4%B8%8A%E7%8F%AD%E9%96%8B%E7%9B%B4%E6%92%AD%E5%94%B1%E6%AD%8C%E9%81%AD%E8%A7%A3%E5%83%B1-%E5%AE%A2%E6%88%B6%E8%A8%82%E8%A3%BD%E7%94%A2%E5%93%81%E5%85%A5%E9%8F%A1-%E7%B4%A2%E8%B3%A0%E5%84%9F%E9%81%AD%E9%A7%81%E5%9B%9E",
+    "timestamp": "2026-11-18T13:20:06.843Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幻彩詠香江｜謝幕夜逼爆尖沙咀　影友下班飛奔霸位為見證時代落幕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199712638800498688240951.jpeg/Ni5Pp61-glIvVDa7JFxFFoLp1Y50xPHYk08u8JNPLvA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412139/%E7%BE%8E%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80%E6%A9%9F%E5%AF%86%E7%B6%B2%E7%B5%A1%E7%99%B1%E7%98%93-%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3-%E4%BF%AE%E8%A3%9C%E6%BC%8F%E6%B4%9E%E9%87%80%E7%A6%8D-%E9%9D%9E%E9%BB%91%E5%AE%A2%E6%94%BB%E6%93%8A",
     "timestamp": "2026-11-18T05:21:17.563Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone 20 Pro微曲屏實物蓋板流出 | 2D平面面板配光學四曲面玻璃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199686434231947264135760.jpeg/Ngko4lqFzBupnnirjEelNmrPUG2j_uWfRoA7DkaAOw4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60412067/iphone-20-pro%E5%BE%AE%E6%9B%B2%E5%B1%8F%E5%AF%A6%E7%89%A9%E8%93%8B%E6%9D%BF%E6%B5%81%E5%87%BA-2d%E5%B9%B3%E9%9D%A2%E9%9D%A2%E6%9D%BF%E9%85%8D%E5%85%89%E5%AD%B8%E5%9B%9B%E6%9B%B2%E9%9D%A2%E7%8E%BB%E7%92%83",
-    "timestamp": "2026-11-18T04:59:19.662Z",
     "strategy": ".content-card__main"
   }
 ];
