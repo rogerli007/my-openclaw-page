@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T16:20:25.602Z
+// Last updated: 2026-11-18T16:59:12.429Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026公廁選舉｜食環署：目標2028年底前為餘下110公廁開展翻新",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199763263869423616032751.jpeg/FbXjNQfMTwQzQbZSgFo4SVDqfd4PSnjJdELR-VFC0fk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412446/2026%E5%85%AC%E5%BB%81%E9%81%B8%E8%88%89-%E9%A3%9F%E7%92%B0%E7%BD%B2-%E7%9B%AE%E6%A8%992028%E5%B9%B4%E5%BA%95%E5%89%8D%E7%82%BA%E9%A4%98%E4%B8%8B110%E5%85%AC%E5%BB%81%E9%96%8B%E5%B1%95%E7%BF%BB%E6%96%B0",
+    "timestamp": "2026-11-18T16:59:12.429Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "克宮發言人：普京特朗普19日並未安排全面會談　三方會晤約1小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199726961476243456953627.jpeg/JJzvWzO13Bdyj2iQ8iGKhKFgde7z50Q1fbVWa321Vms?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411907/%E5%8A%A0%E5%B7%9E%E4%BA%9E%E8%A3%94%E5%A5%B3%E6%95%99%E6%8E%88%E8%B7%A8%E6%A0%A1%E7%8B%82%E5%85%BC9%E8%81%B7-%E6%95%9930%E9%96%80%E8%AA%B2%E5%AD%B8%E7%94%9F%E9%80%BE%E5%8D%83%E4%BA%BA-%E5%B9%B4%E8%B3%BA80%E8%90%AC%E7%BE%8E%E5%85%83",
     "timestamp": "2026-11-18T09:45:35.775Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NBA｜勇士球星居里認「籃球壽命將盡」？2028再戰奧運仍留懸念",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199756139613392896708943.jpeg/1H3txKkdYVdXrWk6YDsAJMq8hyw5zePT3_4-vd_-Pr0?v=w1920r16_9",
-    "url": "https://www.hk01.com/Jumper/60412261/nba-%E5%8B%87%E5%A3%AB%E7%90%83%E6%98%9F%E5%B1%85%E9%87%8C%E8%AA%8D-%E7%B1%83%E7%90%83%E5%A3%BD%E5%91%BD%E5%B0%87%E7%9B%A1-2028%E5%86%8D%E6%88%B0%E5%A5%A7%E9%81%8B%E4%BB%8D%E7%95%99%E6%87%B8%E5%BF%B5",
-    "timestamp": "2026-11-18T08:36:11.162Z",
     "strategy": ".content-card__main"
   }
 ];
