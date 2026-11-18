@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T21:19:18.329Z
+// Last updated: 2026-11-18T21:59:16.489Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
+    "timestamp": "2026-11-18T21:59:16.489Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199809166831521792934816.jpeg/mHaqGUJRykgpi9NyDk5OTB3i5fj6BszYwwxeAMMMXgA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412426/%E6%A8%82%E6%98%9F-vootic%E7%96%91%E8%B5%B0%E6%95%B8-%E5%93%A1%E5%B7%A5%E8%A6%AA%E8%BF%B0%E7%AA%81%E8%A2%AB%E6%8C%87%E7%A4%BA%E6%94%B6%E8%88%96-%E5%90%8C%E9%81%AD%E6%8B%96%E7%B3%A7%E6%AC%A0%E5%AF%84%E8%B3%A3%E6%AC%BE%E9%A0%85",
     "timestamp": "2026-11-18T15:20:06.804Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李佳芯挑戰地獄二揀一　出軌男定爛賭二？　衰男人吸引過蠢男人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199805098566356992168530.jpeg/yQpTxlahYCFh5NOjPadCvCINRSVgUX3kmE4XEZhOFxE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412382/%E6%9D%8E%E4%BD%B3%E8%8A%AF%E6%8C%91%E6%88%B0%E5%9C%B0%E7%8D%84%E4%BA%8C%E6%8F%80%E4%B8%80-%E5%87%BA%E8%BB%8C%E7%94%B7%E5%AE%9A%E7%88%9B%E8%B3%AD%E4%BA%8C-%E8%A1%B0%E7%94%B7%E4%BA%BA%E5%90%B8%E5%BC%95%E9%81%8E%E8%A0%A2%E7%94%B7%E4%BA%BA",
-    "timestamp": "2026-11-18T14:40:16.371Z",
     "strategy": ".content-card__main"
   }
 ];
