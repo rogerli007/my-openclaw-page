@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T08:36:11.162Z
+// Last updated: 2026-11-18T09:45:35.775Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "加州亞裔女教授跨校狂兼9職　教30門課學生逾千人　年賺80萬美元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199726961476243456953627.jpeg/JJzvWzO13Bdyj2iQ8iGKhKFgde7z50Q1fbVWa321Vms?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411907/%E5%8A%A0%E5%B7%9E%E4%BA%9E%E8%A3%94%E5%A5%B3%E6%95%99%E6%8E%88%E8%B7%A8%E6%A0%A1%E7%8B%82%E5%85%BC9%E8%81%B7-%E6%95%9930%E9%96%80%E8%AA%B2%E5%AD%B8%E7%94%9F%E9%80%BE%E5%8D%83%E4%BA%BA-%E5%B9%B4%E8%B3%BA80%E8%90%AC%E7%BE%8E%E5%85%83",
+    "timestamp": "2026-11-18T09:45:35.775Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NBA｜勇士球星居里認「籃球壽命將盡」？2028再戰奧運仍留懸念",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172584627269799936814260.jpeg/7NfyXHXgLq5Kfv_O5mRbxK25VRovOctu2mWTh9plk4c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412027/%E4%BA%94%E6%97%AC%E7%94%B7%E5%A5%B3%E8%B5%B4%E6%BB%99%E8%B1%90%E7%B8%BD%E8%A1%8C%E5%9C%96%E9%96%8B%E6%88%B6-%E5%87%BA%E7%A4%BA2000%E5%84%84%E5%85%83%E6%9C%88%E7%B5%90%E5%96%AE-%E8%81%B7%E5%93%A1%E6%84%9F%E5%8F%AF%E7%96%91%E5%A0%B1%E8%AD%A6",
     "timestamp": "2026-11-18T02:45:45.910Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "鋼琴家王羽佳北京巡演因｢未調整到最佳狀態｣遲到　全場呆等17分鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199666915027456000549236.png/JdfjvV9MhQWltpS75ZZqL51oe9uw_uW5kYGTgJGBk4A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412016/%E9%8B%BC%E7%90%B4%E5%AE%B6%E7%8E%8B%E7%BE%BD%E4%BD%B3%E5%8C%97%E4%BA%AC%E5%B7%A1%E6%BC%94%E5%9B%A0-%E6%9C%AA%E8%AA%BF%E6%95%B4%E5%88%B0%E6%9C%80%E4%BD%B3%E7%8B%80%E6%85%8B-%E9%81%B2%E5%88%B0-%E5%85%A8%E5%A0%B4%E5%91%86%E7%AD%8917%E5%88%86%E9%90%98",
-    "timestamp": "2026-11-18T02:22:59.151Z",
     "strategy": ".content-card__main"
   }
 ];
