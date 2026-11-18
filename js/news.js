@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T00:58:53.973Z
+// Last updated: 2026-11-18T01:21:22.437Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜香港大學站信號設備故障　港島綫現候車人潮　網民：已淪陷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199652622525534208854761.png/8XLgPcDyYIEPytrYLO45BBl-9l1G-rUqRnmUEUZ5lBE",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412013/%E6%9C%89%E7%89%87-%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E4%BF%A1%E8%99%9F%E8%A8%AD%E5%82%99%E6%95%85%E9%9A%9C-%E6%B8%AF%E5%B3%B6%E7%B6%AB%E7%8F%BE%E5%80%99%E8%BB%8A%E4%BA%BA%E6%BD%AE-%E7%B6%B2%E6%B0%91-%E5%B7%B2%E6%B7%AA%E9%99%B7",
+    "timestamp": "2026-11-18T01:21:22.437Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵香港大學站附近有信號設備故障　行車時間需額外5至8分鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199552020617367552830257.jpeg/H5jXDWugikSPYejbHWWNpMVQab8HcWPQnfMtU53zLVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411989/%E6%B7%B1%E5%9C%B3apec-%E6%96%B0%E7%95%8C%E5%8C%97%E8%AE%8A%E8%87%A8%E6%99%82%E7%A6%81%E9%A3%9B%E5%8D%80-%E8%AD%A6%E5%86%8D%E6%8B%981%E7%94%B7-%E6%B6%89%E6%9C%AA%E7%B6%93%E8%A8%B1%E5%8F%AF%E9%A3%9B%E7%84%A1%E4%BA%BA%E6%A9%9F",
     "timestamp": "2026-11-17T18:59:16.407Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "幻彩詠香江謝幕夜　洋紫荊維港遊推告別班次　永安號8時船票售罄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199545313635864576570183.jpeg/AYXc95qQrsogd3L9gK21ZC8gIiu2vb71a-rkq2vq5Ks?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411939/%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F%E8%AC%9D%E5%B9%95%E5%A4%9C-%E6%B4%8B%E7%B4%AB%E8%8D%8A%E7%B6%AD%E6%B8%AF%E9%81%8A%E6%8E%A8%E5%91%8A%E5%88%A5%E7%8F%AD%E6%AC%A1-%E6%B0%B8%E5%AE%89%E8%99%9F8%E6%99%82%E8%88%B9%E7%A5%A8%E5%94%AE%E7%BD%84",
-    "timestamp": "2026-11-17T18:45:26.754Z",
     "strategy": ".content-card__main"
   }
 ];
