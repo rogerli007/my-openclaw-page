@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T23:19:12.249Z
+// Last updated: 2026-11-18T23:45:41.126Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "【今日當年】無綫電視六七年啟播　首創免費廣播打破麗的壟斷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199799387933380608108395.jpeg/IItkyQiFZtOKp0ZUrnvDV2n2psSJAs_GdIHlDUKB5Q0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412318/%E4%BB%8A%E6%97%A5%E7%95%B6%E5%B9%B4-%E7%84%A1%E7%B6%AB%E9%9B%BB%E8%A6%96%E5%85%AD%E4%B8%83%E5%B9%B4%E5%95%9F%E6%92%AD-%E9%A6%96%E5%89%B5%E5%85%8D%E8%B2%BB%E5%BB%A3%E6%92%AD%E6%89%93%E7%A0%B4%E9%BA%97%E7%9A%84%E5%A3%9F%E6%96%B7",
+    "timestamp": "2026-11-18T23:45:41.126Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "相戀19年男友竟是「女兒身」　刻意入男廁掩飾　騙女友¥46萬判7年",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199763263869423616032751.jpeg/FbXjNQfMTwQzQbZSgFo4SVDqfd4PSnjJdELR-VFC0fk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412446/2026%E5%85%AC%E5%BB%81%E9%81%B8%E8%88%89-%E9%A3%9F%E7%92%B0%E7%BD%B2-%E7%9B%AE%E6%A8%992028%E5%B9%B4%E5%BA%95%E5%89%8D%E7%82%BA%E9%A4%98%E4%B8%8B110%E5%85%AC%E5%BB%81%E9%96%8B%E5%B1%95%E7%BF%BB%E6%96%B0",
     "timestamp": "2026-11-18T16:59:12.429Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "克宮發言人：普京特朗普19日並未安排全面會談　三方會晤約1小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199839522234306560980672.jpeg/6l58bo_m02uBuksCkEAfzDSn4TonuTlj1Cssw9QrLMM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412442/%E5%85%8B%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA-%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE19%E6%97%A5%E4%B8%A6%E6%9C%AA%E5%AE%89%E6%8E%92%E5%85%A8%E9%9D%A2%E6%9C%83%E8%AB%87-%E4%B8%89%E6%96%B9%E6%9C%83%E6%99%A4%E7%B4%841%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-11-18T16:20:25.602Z",
     "strategy": ".content-card__main"
   }
 ];
