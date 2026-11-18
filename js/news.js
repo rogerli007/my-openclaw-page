@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T22:45:39.194Z
+// Last updated: 2026-11-18T22:59:09.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜天文台：今早普遍較昨低兩三度　晚上降至18度　明早約15度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199966594701201408620478.jpeg/QsjQMxXQDr4nUV4H0O938o-4Z78AmJOsS1V1gUtVdYE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60412448/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A9%E6%99%AE%E9%81%8D%E8%BC%83%E6%98%A8%E4%BD%8E%E5%85%A9%E4%B8%89%E5%BA%A6-%E6%99%9A%E4%B8%8A%E9%99%8D%E8%87%B318%E5%BA%A6-%E6%98%8E%E6%97%A9%E7%B4%8415%E5%BA%A6",
+    "timestamp": "2026-11-18T22:59:09.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜天文台：今早普遍較昨低兩三度　晚上降至18度　明早約15度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199866357374783488417986.jpeg/7vhAj32tEysrVTYlCUBoDeKhB-MKzrvzk9ErT7bRK08?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412438/%E7%B9%BD%E7%B4%9B%E5%86%AC%E6%97%A5%E5%B7%A1%E7%A6%AE-%E5%A4%9A%E5%9C%96-%E5%86%AC%E6%97%A5%E5%B0%8F%E9%8E%AE%E6%8F%AD%E5%B9%95-%E5%B0%96%E6%B2%99%E5%92%80%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83%E4%B8%8A%E6%BC%94%E5%85%89%E5%BD%B1%E5%8C%AF%E6%BC%94",
     "timestamp": "2026-11-18T15:59:04.231Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜九龍塘客貨車疑路滑　左搖右擺撞壆翻側　女司機有驚無險",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199868141010685952049632.jpeg/88a_wXHI227KkuHa8JYZ6nxvS2e0NX8gcm7xznJu8c4",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412436/%E8%BB%8Acam-%E4%B9%9D%E9%BE%8D%E5%A1%98%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%96%91%E8%B7%AF%E6%BB%91-%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E6%9C%89%E9%A9%9A%E7%84%A1%E9%9A%AA",
-    "timestamp": "2026-11-18T15:45:33.699Z",
     "strategy": ".content-card__main"
   }
 ];
