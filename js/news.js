@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T00:38:00.421Z
+// Last updated: 2026-11-18T00:58:53.973Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵香港大學站附近有信號設備故障　行車時間需額外5至8分鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199645962356658176437019.jpeg/Ms0ZfnYOzmHtzYapg_a99F6VMkrfIfiCkizbPJIs2zw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412012/%E6%B8%AF%E9%90%B5%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E9%99%84%E8%BF%91%E6%9C%89%E4%BF%A1%E8%99%9F%E8%A8%AD%E5%82%99%E6%95%85%E9%9A%9C-%E8%A1%8C%E8%BB%8A%E6%99%82%E9%96%93%E9%9C%80%E9%A1%8D%E5%A4%965%E8%87%B38%E5%88%86%E9%90%98",
+    "timestamp": "2026-11-18T00:58:53.973Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《今天是太陽雨》德國篇突變高甜惹議！楊超越董思成被批人設崩壞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199545313635864576570183.jpeg/AYXc95qQrsogd3L9gK21ZC8gIiu2vb71a-rkq2vq5Ks?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411939/%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F%E8%AC%9D%E5%B9%95%E5%A4%9C-%E6%B4%8B%E7%B4%AB%E8%8D%8A%E7%B6%AD%E6%B8%AF%E9%81%8A%E6%8E%A8%E5%91%8A%E5%88%A5%E7%8F%AD%E6%AC%A1-%E6%B0%B8%E5%AE%89%E8%99%9F8%E6%99%82%E8%88%B9%E7%A5%A8%E5%94%AE%E7%BD%84",
     "timestamp": "2026-11-17T18:45:26.754Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "幻彩詠香江謝幕夜　洋紫荊維港遊推告別班次　永安號8時船票售罄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199545313635864576570183.jpeg/AYXc95qQrsogd3L9gK21ZC8gIiu2vb71a-rkq2vq5Ks?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411939/%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F%E8%AC%9D%E5%B9%95%E5%A4%9C-%E6%B4%8B%E7%B4%AB%E8%8D%8A%E7%B6%AD%E6%B8%AF%E9%81%8A%E6%8E%A8%E5%91%8A%E5%88%A5%E7%8F%AD%E6%AC%A1-%E6%B0%B8%E5%AE%89%E8%99%9F8%E6%99%82%E8%88%B9%E7%A5%A8%E5%94%AE%E7%BD%84",
-    "timestamp": "2026-11-17T18:34:19.765Z",
     "strategy": ".content-card__main"
   }
 ];
