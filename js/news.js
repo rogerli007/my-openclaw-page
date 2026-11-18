@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T16:59:12.429Z
+// Last updated: 2026-11-18T17:19:25.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正因壓力爆煲裸辭：被星爺一句「靠你啦」壓垮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198329346910064640416083.jpeg/LZHBdsuZ28q5EIeIsvJKnPCSH3DFVeLlheIGxYXiBsU",
+    "url": "https://www.hk01.com/01TV/60410818/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%9B%A0%E5%A3%93%E5%8A%9B%E7%88%86%E7%85%B2%E8%A3%B8%E8%BE%AD-%E8%A2%AB%E6%98%9F%E7%88%BA%E4%B8%80%E5%8F%A5-%E9%9D%A0%E4%BD%A0%E5%95%A6-%E5%A3%93%E5%9E%AE",
+    "timestamp": "2026-11-18T17:19:25.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026公廁選舉｜食環署：目標2028年底前為餘下110公廁開展翻新",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199755533951700992745386.jpeg/WfMR6pGII8NuhDWBC7e4qcTYv4JxZax1TJf560yX-es?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60412267/fancl%E4%BB%A3%E7%90%86%E5%95%86%E8%80%81%E9%97%86%E6%94%BE%E5%94%AE%E4%B8%AD%E7%92%B0%E7%9A%87%E4%B9%9D%E5%85%A8%E5%B1%A4-%E5%90%8C%E6%AD%A5%E6%8B%9B%E7%A7%9F-%E5%85%A9%E5%B9%B4%E5%89%8D%E6%96%A53-1%E5%84%84%E8%B2%B7%E5%85%A5",
     "timestamp": "2026-11-18T09:59:07.428Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "加州亞裔女教授跨校狂兼9職　教30門課學生逾千人　年賺80萬美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199726961476243456953627.jpeg/JJzvWzO13Bdyj2iQ8iGKhKFgde7z50Q1fbVWa321Vms?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411907/%E5%8A%A0%E5%B7%9E%E4%BA%9E%E8%A3%94%E5%A5%B3%E6%95%99%E6%8E%88%E8%B7%A8%E6%A0%A1%E7%8B%82%E5%85%BC9%E8%81%B7-%E6%95%9930%E9%96%80%E8%AA%B2%E5%AD%B8%E7%94%9F%E9%80%BE%E5%8D%83%E4%BA%BA-%E5%B9%B4%E8%B3%BA80%E8%90%AC%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-11-18T09:45:35.775Z",
     "strategy": ".content-card__main"
   }
 ];
