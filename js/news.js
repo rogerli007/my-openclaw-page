@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T04:59:19.662Z
+// Last updated: 2026-11-18T05:21:17.563Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國家安全局機密網絡癱瘓　情報總監：修補漏洞釀禍　非黑客攻擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199712638800498688240951.jpeg/Ni5Pp61-glIvVDa7JFxFFoLp1Y50xPHYk08u8JNPLvA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412139/%E7%BE%8E%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80%E6%A9%9F%E5%AF%86%E7%B6%B2%E7%B5%A1%E7%99%B1%E7%98%93-%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3-%E4%BF%AE%E8%A3%9C%E6%BC%8F%E6%B4%9E%E9%87%80%E7%A6%8D-%E9%9D%9E%E9%BB%91%E5%AE%A2%E6%94%BB%E6%93%8A",
+    "timestamp": "2026-11-18T05:21:17.563Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone 20 Pro微曲屏實物蓋板流出 | 2D平面面板配光學四曲面玻璃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197576560995995648042983.jpeg/zLapcO9Yl5Vg_WrgDKWsuIZYSxJXv8pw3P44Vdz-OFU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411932/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%87%8D%E6%BA%AB%E9%84%BA%E7%90%83%E9%A6%96%E6%97%A5%E4%BD%9C%E4%BE%9B-%E7%B5%A6%E8%94%A13000%E8%90%AC%E8%B2%B7%E6%A8%93-%E8%A7%A3%E9%87%8B%E6%B6%89%E6%A1%88%E5%B7%A5%E5%85%B7%E7%94%A8%E9%80%94",
     "timestamp": "2026-11-17T23:19:17.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英偉達董事會主席：公司不考慮重新聘用黃仁勳任CEO",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260108/1085978068763283456869237.jpeg/qUp5Mz3TpI18H8xkoi5JJoyBchAdUKXtKjr5Fyo6-Rc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412001/%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E4%B8%BB%E5%B8%AD-%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%80%83%E6%85%AE%E9%87%8D%E6%96%B0%E8%81%98%E7%94%A8%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BB%BBceo",
-    "timestamp": "2026-11-17T22:59:10.379Z",
     "strategy": ".content-card__main"
   }
 ];
