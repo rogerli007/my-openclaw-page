@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T13:20:06.843Z
+// Last updated: 2026-11-18T13:45:51.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女神2丨阮嘉敏剖白四段情傷曾萌輕生念頭　計劃明年雪卵恨生B",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199783851405086720435290.jpeg/455Xte0GHHJyUP5QnR9dAod6mpt8adswRWQlQ0VkJUM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412177/%E5%A5%B3%E7%A5%9E2-%E9%98%AE%E5%98%89%E6%95%8F%E5%89%96%E7%99%BD%E5%9B%9B%E6%AE%B5%E6%83%85%E5%82%B7%E6%9B%BE%E8%90%8C%E8%BC%95%E7%94%9F%E5%BF%B5%E9%A0%AD-%E8%A8%88%E5%8A%83%E6%98%8E%E5%B9%B4%E9%9B%AA%E5%8D%B5%E6%81%A8%E7%94%9Fb",
+    "timestamp": "2026-11-18T13:45:51.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地女上班開直播唱歌！遭公司斥嚴重違紀解僱　索賠1原因遭駁回",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197951708798652416175236.jpeg/y5uVhxAssuz6v2he-QIWar39caQx7Nk1wW_eHcFv3h0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412170/apec%E6%B7%B1%E5%9C%B3%E7%9B%B4%E6%93%8A-%E9%80%BE150%E8%90%AC%E8%BB%8A%E4%B8%BB%E7%94%B3%E5%A0%B1%E5%81%9C%E9%A7%9B-%E5%B8%82%E6%B0%91%E7%85%A7%E5%B8%B8%E6%8F%B8%E8%BB%8A%E8%BF%94%E5%B7%A5%E6%94%B6%E4%BA%A4%E8%AD%A6%E6%8F%90%E7%A4%BA",
     "timestamp": "2026-11-18T05:45:53.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國家安全局機密網絡癱瘓　情報總監：修補漏洞釀禍　非黑客攻擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199712638800498688240951.jpeg/Ni5Pp61-glIvVDa7JFxFFoLp1Y50xPHYk08u8JNPLvA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412139/%E7%BE%8E%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80%E6%A9%9F%E5%AF%86%E7%B6%B2%E7%B5%A1%E7%99%B1%E7%98%93-%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3-%E4%BF%AE%E8%A3%9C%E6%BC%8F%E6%B4%9E%E9%87%80%E7%A6%8D-%E9%9D%9E%E9%BB%91%E5%AE%A2%E6%94%BB%E6%93%8A",
-    "timestamp": "2026-11-18T05:21:17.563Z",
     "strategy": ".content-card__main"
   }
 ];
