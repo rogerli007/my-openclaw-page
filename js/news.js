@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T03:22:26.794Z
+// Last updated: 2026-11-18T03:34:03.428Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜樓下裝修工疑鑿穿喉反屈樓上漏水　樓上企硬：我哋冇錯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199465154689896448539268.jpeg/wXrS0hL_txVuY5IyXV78EtpCJKMG1m2s2HpcFth6XBY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411954/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%A8%93%E4%B8%8B%E8%A3%9D%E4%BF%AE%E5%B7%A5%E7%96%91%E9%91%BF%E7%A9%BF%E5%96%89%E5%8F%8D%E5%B1%88%E6%A8%93%E4%B8%8A%E6%BC%8F%E6%B0%B4-%E6%A8%93%E4%B8%8A%E4%BC%81%E7%A1%AC-%E6%88%91%E5%93%8B%E5%86%87%E9%8C%AF",
+    "timestamp": "2026-11-18T03:34:03.428Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "米芝蓮推介名店也離場？上環潮家宴預告平安夜結業　十年回憶落幕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199576122858147840728051.png/_cyK6cTw2ROa91oNIwarsIFfp4ZmOYIF9ANvqPQDb6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411992/%E4%BC%8A%E6%9C%97%E6%8C%87%E7%BE%8E%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B3%B6-%E8%B7%AF%E9%80%8F-%E5%B0%8E%E5%BD%88%E7%99%BC%E5%B0%84%E5%A0%B4%E7%82%BA%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-11-17T20:58:58.974Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗指美軍空襲格什姆島　路透：導彈發射場為目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199576122858147840728051.png/_cyK6cTw2ROa91oNIwarsIFfp4ZmOYIF9ANvqPQDb6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411992/%E4%BC%8A%E6%9C%97%E6%8C%87%E7%BE%8E%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B3%B6-%E8%B7%AF%E9%80%8F-%E5%B0%8E%E5%BD%88%E7%99%BC%E5%B0%84%E5%A0%B4%E7%82%BA%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-11-17T20:45:35.024Z",
     "strategy": ".content-card__main"
   }
 ];
