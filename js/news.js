@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T18:59:07.301Z
+// Last updated: 2026-11-18T19:18:00.909Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴拿馬總審計長：對長和子公司及海事局前高層提刑事訴訟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250206/964103362196803584738251.jpeg/Ll58T2H4XvAvQ5_mL2rnSf9xp3yyje_XgfwFSoH8BUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412453/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%B8%BD%E5%AF%A9%E8%A8%88%E9%95%B7-%E5%B0%8D%E9%95%B7%E5%92%8C%E5%AD%90%E5%85%AC%E5%8F%B8%E5%8F%8A%E6%B5%B7%E4%BA%8B%E5%B1%80%E5%89%8D%E9%AB%98%E5%B1%A4%E6%8F%90%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F",
+    "timestamp": "2026-11-18T19:18:00.909Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正經歷嚴重車禍：鎖骨脊骨全碎 死裡逃生重新學站立",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199754165488717824904385.jpeg/qQeO3Ea00B41IJOwyD_hEn-wUEzglJMht8yYcbfMmHE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412270/%E7%BE%8E%E5%9C%8B%E7%B4%A2%E9%A6%AC%E9%87%8C%E8%A3%94uber%E5%8F%B8%E6%A9%9F%E9%81%AD%E4%B9%98%E5%AE%A2%E5%8B%92%E9%A0%B8%E5%86%8D%E9%96%8B%E8%BB%8A%E7%A2%BE%E5%A3%93-%E6%A1%88%E4%BB%B6%E6%9B%9D%E5%85%89%E6%B0%91%E7%9C%BE%E6%8A%97%E8%AD%B0",
     "timestamp": "2026-11-18T12:24:17.938Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "幻彩詠香江．直播｜上演近23年今晚8時最後一舞　加設煙火表演",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199812323724759040496372.jpeg/CFrbcNSKNxVEaXKJkclOPC2B_RWkYzAcDEKOwQxCjsE",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412308/%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F-%E7%9B%B4%E6%92%AD-%E4%B8%8A%E6%BC%94%E8%BF%9123%E5%B9%B4%E4%BB%8A%E6%99%9A8%E6%99%82%E6%9C%80%E5%BE%8C%E4%B8%80%E8%88%9E-%E5%8A%A0%E8%A8%AD%E7%85%99%E7%81%AB%E8%A1%A8%E6%BC%94",
-    "timestamp": "2026-11-18T11:59:12.445Z",
     "strategy": ".content-card__main"
   }
 ];
