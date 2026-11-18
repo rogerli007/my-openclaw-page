@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T05:21:17.563Z
+// Last updated: 2026-11-18T05:45:53.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC深圳直擊|逾150萬車主申報停駛　市民照常揸車返工收交警提示",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197951708798652416175236.jpeg/y5uVhxAssuz6v2he-QIWar39caQx7Nk1wW_eHcFv3h0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412170/apec%E6%B7%B1%E5%9C%B3%E7%9B%B4%E6%93%8A-%E9%80%BE150%E8%90%AC%E8%BB%8A%E4%B8%BB%E7%94%B3%E5%A0%B1%E5%81%9C%E9%A7%9B-%E5%B8%82%E6%B0%91%E7%85%A7%E5%B8%B8%E6%8F%B8%E8%BB%8A%E8%BF%94%E5%B7%A5%E6%94%B6%E4%BA%A4%E8%AD%A6%E6%8F%90%E7%A4%BA",
+    "timestamp": "2026-11-18T05:45:53.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國家安全局機密網絡癱瘓　情報總監：修補漏洞釀禍　非黑客攻擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196515926623653888416089.jpeg/XwFL5EdWo--e5bS8YQgoRHZubO-G9geAbDrTq2w606s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407111/%E9%A3%B2%E6%B0%B4%E6%84%88%E5%A4%9A%E6%84%88%E5%A5%BD-%E6%97%A5%E7%81%8C%E6%95%B8%E5%85%AC%E5%8D%87%E6%81%90%E8%87%B4-%E6%B0%B4%E4%B8%AD%E6%AF%92-3%E5%A4%A7%E8%A3%9C%E6%B0%B4%E9%99%B7%E9%98%B1%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
     "timestamp": "2026-11-17T23:45:15.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜重溫鄺球首日作供　給蔡3000萬買樓　解釋涉案工具用途",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197576560995995648042983.jpeg/zLapcO9Yl5Vg_WrgDKWsuIZYSxJXv8pw3P44Vdz-OFU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411932/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%87%8D%E6%BA%AB%E9%84%BA%E7%90%83%E9%A6%96%E6%97%A5%E4%BD%9C%E4%BE%9B-%E7%B5%A6%E8%94%A13000%E8%90%AC%E8%B2%B7%E6%A8%93-%E8%A7%A3%E9%87%8B%E6%B6%89%E6%A1%88%E5%B7%A5%E5%85%B7%E7%94%A8%E9%80%94",
-    "timestamp": "2026-11-17T23:19:17.064Z",
     "strategy": ".content-card__main"
   }
 ];
