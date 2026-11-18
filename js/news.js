@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T15:59:04.231Z
+// Last updated: 2026-11-18T16:20:25.602Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "克宮發言人：普京特朗普19日並未安排全面會談　三方會晤約1小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199839522234306560980672.jpeg/6l58bo_m02uBuksCkEAfzDSn4TonuTlj1Cssw9QrLMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412442/%E5%85%8B%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA-%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE19%E6%97%A5%E4%B8%A6%E6%9C%AA%E5%AE%89%E6%8E%92%E5%85%A8%E9%9D%A2%E6%9C%83%E8%AB%87-%E4%B8%89%E6%96%B9%E6%9C%83%E6%99%A4%E7%B4%841%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-11-18T16:20:25.602Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "繽紛冬日巡禮．多圖｜冬日小鎮揭幕　尖沙咀文化中心上演光影匯演",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199756139613392896708943.jpeg/1H3txKkdYVdXrWk6YDsAJMq8hyw5zePT3_4-vd_-Pr0?v=w1920r16_9",
     "url": "https://www.hk01.com/Jumper/60412261/nba-%E5%8B%87%E5%A3%AB%E7%90%83%E6%98%9F%E5%B1%85%E9%87%8C%E8%AA%8D-%E7%B1%83%E7%90%83%E5%A3%BD%E5%91%BD%E5%B0%87%E7%9B%A1-2028%E5%86%8D%E6%88%B0%E5%A5%A7%E9%81%8B%E4%BB%8D%E7%95%99%E6%87%B8%E5%BF%B5",
     "timestamp": "2026-11-18T08:36:11.162Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減壓變傷身？「脆皮捏捏」玩具甲醛超標恐損神經 拆解3大健康隱患",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199734941890383872163089.jpeg/uDkVawDzJeuxmCy3v33l0RaUTPQhRoITSK6jHUiuox0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60412129/%E6%B8%9B%E5%A3%93%E8%AE%8A%E5%82%B7%E8%BA%AB-%E8%84%86%E7%9A%AE%E6%8D%8F%E6%8D%8F-%E7%8E%A9%E5%85%B7%E7%94%B2%E9%86%9B%E8%B6%85%E6%A8%99%E6%81%90%E6%90%8D%E7%A5%9E%E7%B6%93-%E6%8B%86%E8%A7%A33%E5%A4%A7%E5%81%A5%E5%BA%B7%E9%9A%B1%E6%82%A3",
-    "timestamp": "2026-11-18T08:24:05.455Z",
     "strategy": ".content-card__main"
   }
 ];
