@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T04:21:47.921Z
+// Last updated: 2026-11-18T04:32:55.071Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃浩然與億萬愛妻結婚21年零緋聞　絕情拒跟女星交換電話防誘惑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199686370008764416570492.jpeg/A-LdiyCMx4ZrGU9rfcG3X4x4RR50RW7SeSzv53ks7-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412049/%E9%BB%83%E6%B5%A9%E7%84%B6%E8%88%87%E5%84%84%E8%90%AC%E6%84%9B%E5%A6%BB%E7%B5%90%E5%A9%9A21%E5%B9%B4%E9%9B%B6%E7%B7%8B%E8%81%9E-%E7%B5%95%E6%83%85%E6%8B%92%E8%B7%9F%E5%A5%B3%E6%98%9F%E4%BA%A4%E6%8F%9B%E9%9B%BB%E8%A9%B1%E9%98%B2%E8%AA%98%E6%83%91",
+    "timestamp": "2026-11-18T04:32:55.071Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "河南理髮師靠碎髮畫關公項羽爆紅　網民：被理髮耽誤的畫家｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199604663012429824478123.jpeg/RvVfHtNf92Vpxc2o8j8avEogwzsg3Rpm9aPaWvWj2lo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60411984/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%86%B7%E9%8B%92%E7%A8%8D%E5%BE%8C%E6%A9%AB%E9%81%8E-%E4%BB%8A%E6%99%9A%E9%99%8D%E6%BA%AB%E8%87%B3%E7%B4%8421%E5%BA%A6-%E9%9A%A8%E5%BE%8C%E9%A1%AF%E8%91%97%E8%BD%89%E6%B6%BC",
     "timestamp": "2026-11-17T22:29:42.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜輪椅男誤闖啟德隧道逆線行駛　車輛減慢車速扭軚避開",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199597191954436096802716.jpeg/G6sp9J9uFT2GG808Cdp_KKl4Dslq-rWr49Bjs-PQY7M",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411993/%E8%BB%8Acam-%E8%BC%AA%E6%A4%85%E7%94%B7%E8%AA%A4%E9%97%96%E5%95%9F%E5%BE%B7%E9%9A%A7%E9%81%93%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E8%BC%9B%E6%B8%9B%E6%85%A2%E8%BB%8A%E9%80%9F%E6%89%AD%E8%BB%9A%E9%81%BF%E9%96%8B",
-    "timestamp": "2026-11-17T21:59:12.482Z",
     "strategy": ".content-card__main"
   }
 ];
