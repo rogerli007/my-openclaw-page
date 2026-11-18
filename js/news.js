@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T12:24:17.938Z
+// Last updated: 2026-11-18T12:38:23.593Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡少芬DIY戰衣助7歲仔奪最佳服裝獎　讀星級國際學校年學費逾15萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199744325626368000912574.jpeg/9RTBrAX_8ZSdK7COkBKzuvTkLBBq7XkVFfq0JRX6tCU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412211/%E8%94%A1%E5%B0%91%E8%8A%ACdiy%E6%88%B0%E8%A1%A3%E5%8A%A97%E6%AD%B2%E4%BB%94%E5%A5%AA%E6%9C%80%E4%BD%B3%E6%9C%8D%E8%A3%9D%E7%8D%8E-%E8%AE%80%E6%98%9F%E7%B4%9A%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1%E5%B9%B4%E5%AD%B8%E8%B2%BB%E9%80%BE15%E8%90%AC",
+    "timestamp": "2026-11-18T12:38:23.593Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國索馬里裔Uber司機遭乘客勒頸再開車碾壓　案件曝光民眾抗議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199704623812710400897406.jpeg/vSBazTdqK80vCSdLPAes56pwevx2JI-2UZQ8WlGUPFo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60412121/7%E5%A4%A710000mah%E5%A4%A7%E9%9B%BB%E6%B1%A0%E6%89%8B%E6%A9%9F%E6%8E%A8%E8%96%A6-%E5%91%8A%E5%88%A52%E6%97%A51%E5%85%85-oppo-%E6%A6%AE%E8%80%80-vivo-%E5%B0%8F%E7%B1%B3",
     "timestamp": "2026-11-18T04:45:11.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃浩然與億萬愛妻結婚21年零緋聞　絕情拒跟女星交換電話防誘惑",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199686370008764416570492.jpeg/A-LdiyCMx4ZrGU9rfcG3X4x4RR50RW7SeSzv53ks7-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412049/%E9%BB%83%E6%B5%A9%E7%84%B6%E8%88%87%E5%84%84%E8%90%AC%E6%84%9B%E5%A6%BB%E7%B5%90%E5%A9%9A21%E5%B9%B4%E9%9B%B6%E7%B7%8B%E8%81%9E-%E7%B5%95%E6%83%85%E6%8B%92%E8%B7%9F%E5%A5%B3%E6%98%9F%E4%BA%A4%E6%8F%9B%E9%9B%BB%E8%A9%B1%E9%98%B2%E8%AA%98%E6%83%91",
-    "timestamp": "2026-11-18T04:32:55.071Z",
     "strategy": ".content-card__main"
   }
 ];
