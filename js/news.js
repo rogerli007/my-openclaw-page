@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T19:29:29.087Z
+// Last updated: 2026-11-18T19:45:24.035Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴拿馬總審計長：對長和子公司及海事局前高層提刑事訴訟",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250206/964103362196803584738251.jpeg/Ll58T2H4XvAvQ5_mL2rnSf9xp3yyje_XgfwFSoH8BUo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412453/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%B8%BD%E5%AF%A9%E8%A8%88%E9%95%B7-%E5%B0%8D%E9%95%B7%E5%92%8C%E5%AD%90%E5%85%AC%E5%8F%B8%E5%8F%8A%E6%B5%B7%E4%BA%8B%E5%B1%80%E5%89%8D%E9%AB%98%E5%B1%A4%E6%8F%90%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F",
+    "timestamp": "2026-11-18T19:45:24.035Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "巴拿馬總審計長：對長和子公司及海事局前高層提刑事訴訟",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199822456429219840619258.jpeg/JoPCfpFi9mXu-9abRj3dtgdJ2Vu1HtNK1wbfqvIG36o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412398/%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F-%E8%AC%9D%E5%B9%95%E5%A4%9C%E9%80%BC%E7%88%86%E5%B0%96%E6%B2%99%E5%92%80-%E5%BD%B1%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%A3%9B%E5%A5%94%E9%9C%B8%E4%BD%8D%E7%82%BA%E8%A6%8B%E8%AD%89%E6%99%82%E4%BB%A3%E8%90%BD%E5%B9%95",
     "timestamp": "2026-11-18T12:49:14.630Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡少芬DIY戰衣助7歲仔奪最佳服裝獎　讀星級國際學校年學費逾15萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199744325626368000912574.jpeg/9RTBrAX_8ZSdK7COkBKzuvTkLBBq7XkVFfq0JRX6tCU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412211/%E8%94%A1%E5%B0%91%E8%8A%ACdiy%E6%88%B0%E8%A1%A3%E5%8A%A97%E6%AD%B2%E4%BB%94%E5%A5%AA%E6%9C%80%E4%BD%B3%E6%9C%8D%E8%A3%9D%E7%8D%8E-%E8%AE%80%E6%98%9F%E7%B4%9A%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1%E5%B9%B4%E5%AD%B8%E8%B2%BB%E9%80%BE15%E8%90%AC",
-    "timestamp": "2026-11-18T12:38:23.593Z",
     "strategy": ".content-card__main"
   }
 ];
