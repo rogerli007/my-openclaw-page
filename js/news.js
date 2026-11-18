@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T10:20:22.265Z
+// Last updated: 2026-11-18T10:45:47.658Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Jrink尖沙咀店將結業　12年前大坑拼配茶起家　下周派周年紀念品",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199777010335879168680412.jpeg/tqx4TaEGBm9gY7zS_WTnjaP-8FDUHWdHHmdqsB5narA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412342/jrink%E5%B0%96%E6%B2%99%E5%92%80%E5%BA%97%E5%B0%87%E7%B5%90%E6%A5%AD-12%E5%B9%B4%E5%89%8D%E5%A4%A7%E5%9D%91%E6%8B%BC%E9%85%8D%E8%8C%B6%E8%B5%B7%E5%AE%B6-%E4%B8%8B%E5%91%A8%E6%B4%BE%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5%E5%93%81",
+    "timestamp": "2026-11-18T10:45:47.658Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "傅嘉莉談掌摑戲羅生門　反駁陳自瑤「下下真打」：啪爆微絲血管啦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199465154689896448539268.jpeg/wXrS0hL_txVuY5IyXV78EtpCJKMG1m2s2HpcFth6XBY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411954/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%A8%93%E4%B8%8B%E8%A3%9D%E4%BF%AE%E5%B7%A5%E7%96%91%E9%91%BF%E7%A9%BF%E5%96%89%E5%8F%8D%E5%B1%88%E6%A8%93%E4%B8%8A%E6%BC%8F%E6%B0%B4-%E6%A8%93%E4%B8%8A%E4%BC%81%E7%A1%AC-%E6%88%91%E5%93%8B%E5%86%87%E9%8C%AF",
     "timestamp": "2026-11-18T03:34:03.428Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "米芝蓮推介名店也離場？上環潮家宴預告平安夜結業　十年回憶落幕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199674377927397376387695.jpeg/l16UrXHl7NrgtIGirYTUfnSg8ZU6MCbojA2bw4wNm8M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412063/%E7%B1%B3%E8%8A%9D%E8%93%AE%E6%8E%A8%E4%BB%8B%E5%90%8D%E5%BA%97%E4%B9%9F%E9%9B%A2%E5%A0%B4-%E4%B8%8A%E7%92%B0%E6%BD%AE%E5%AE%B6%E5%AE%B4%E9%A0%90%E5%91%8A%E5%B9%B3%E5%AE%89%E5%A4%9C%E7%B5%90%E6%A5%AD-%E5%8D%81%E5%B9%B4%E5%9B%9E%E6%86%B6%E8%90%BD%E5%B9%95",
-    "timestamp": "2026-11-18T03:22:26.794Z",
     "strategy": ".content-card__main"
   }
 ];
