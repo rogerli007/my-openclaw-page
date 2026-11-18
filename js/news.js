@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T23:45:41.126Z
+// Last updated: 2026-11-18T23:59:00.653Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳APEC｜警拘20歲男涉未經許可禁飛區飛無人機　累計3人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199991381351731200957830.jpeg/fy3lzBLW1_KQFbQ0TbSoR35W0gETKRSb1TrXTtU6104?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412469/%E6%B7%B1%E5%9C%B3apec-%E8%AD%A6%E6%8B%9820%E6%AD%B2%E7%94%B7%E6%B6%89%E6%9C%AA%E7%B6%93%E8%A8%B1%E5%8F%AF%E7%A6%81%E9%A3%9B%E5%8D%80%E9%A3%9B%E7%84%A1%E4%BA%BA%E6%A9%9F-%E7%B4%AF%E8%A8%883%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-18T23:59:00.653Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【今日當年】無綫電視六七年啟播　首創免費廣播打破麗的壟斷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198329346910064640416083.jpeg/LZHBdsuZ28q5EIeIsvJKnPCSH3DFVeLlheIGxYXiBsU",
     "url": "https://www.hk01.com/01TV/60410818/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%9B%A0%E5%A3%93%E5%8A%9B%E7%88%86%E7%85%B2%E8%A3%B8%E8%BE%AD-%E8%A2%AB%E6%98%9F%E7%88%BA%E4%B8%80%E5%8F%A5-%E9%9D%A0%E4%BD%A0%E5%95%A6-%E5%A3%93%E5%9E%AE",
     "timestamp": "2026-11-18T17:19:25.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026公廁選舉｜食環署：目標2028年底前為餘下110公廁開展翻新",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199763263869423616032751.jpeg/FbXjNQfMTwQzQbZSgFo4SVDqfd4PSnjJdELR-VFC0fk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412446/2026%E5%85%AC%E5%BB%81%E9%81%B8%E8%88%89-%E9%A3%9F%E7%92%B0%E7%BD%B2-%E7%9B%AE%E6%A8%992028%E5%B9%B4%E5%BA%95%E5%89%8D%E7%82%BA%E9%A4%98%E4%B8%8B110%E5%85%AC%E5%BB%81%E9%96%8B%E5%B1%95%E7%BF%BB%E6%96%B0",
-    "timestamp": "2026-11-18T16:59:12.429Z",
     "strategy": ".content-card__main"
   }
 ];
