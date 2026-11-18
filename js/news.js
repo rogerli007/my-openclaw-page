@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T12:38:23.593Z
+// Last updated: 2026-11-18T12:49:14.630Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幻彩詠香江｜謝幕夜逼爆尖沙咀　影友下班飛奔霸位為見證時代落幕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199822456429219840619258.jpeg/JoPCfpFi9mXu-9abRj3dtgdJ2Vu1HtNK1wbfqvIG36o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412398/%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F-%E8%AC%9D%E5%B9%95%E5%A4%9C%E9%80%BC%E7%88%86%E5%B0%96%E6%B2%99%E5%92%80-%E5%BD%B1%E5%8F%8B%E4%B8%8B%E7%8F%AD%E9%A3%9B%E5%A5%94%E9%9C%B8%E4%BD%8D%E7%82%BA%E8%A6%8B%E8%AD%89%E6%99%82%E4%BB%A3%E8%90%BD%E5%B9%95",
+    "timestamp": "2026-11-18T12:49:14.630Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡少芬DIY戰衣助7歲仔奪最佳服裝獎　讀星級國際學校年學費逾15萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199686434231947264135760.jpeg/Ngko4lqFzBupnnirjEelNmrPUG2j_uWfRoA7DkaAOw4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60412067/iphone-20-pro%E5%BE%AE%E6%9B%B2%E5%B1%8F%E5%AF%A6%E7%89%A9%E8%93%8B%E6%9D%BF%E6%B5%81%E5%87%BA-2d%E5%B9%B3%E9%9D%A2%E9%9D%A2%E6%9D%BF%E9%85%8D%E5%85%89%E5%AD%B8%E5%9B%9B%E6%9B%B2%E9%9D%A2%E7%8E%BB%E7%92%83",
     "timestamp": "2026-11-18T04:59:19.662Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "出街唔使帶尿袋！盤點7款10,000mAh續航神機 狂操5小時仲剩八成電",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199704623812710400897406.jpeg/vSBazTdqK80vCSdLPAes56pwevx2JI-2UZQ8WlGUPFo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60412121/7%E5%A4%A710000mah%E5%A4%A7%E9%9B%BB%E6%B1%A0%E6%89%8B%E6%A9%9F%E6%8E%A8%E8%96%A6-%E5%91%8A%E5%88%A52%E6%97%A51%E5%85%85-oppo-%E6%A6%AE%E8%80%80-vivo-%E5%B0%8F%E7%B1%B3",
-    "timestamp": "2026-11-18T04:45:11.301Z",
     "strategy": ".content-card__main"
   }
 ];
