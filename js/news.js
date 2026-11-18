@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T04:32:55.071Z
+// Last updated: 2026-11-18T04:45:11.301Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "出街唔使帶尿袋！盤點7款10,000mAh續航神機 狂操5小時仲剩八成電",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199704623812710400897406.jpeg/vSBazTdqK80vCSdLPAes56pwevx2JI-2UZQ8WlGUPFo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60412121/7%E5%A4%A710000mah%E5%A4%A7%E9%9B%BB%E6%B1%A0%E6%89%8B%E6%A9%9F%E6%8E%A8%E8%96%A6-%E5%91%8A%E5%88%A52%E6%97%A51%E5%85%85-oppo-%E6%A6%AE%E8%80%80-vivo-%E5%B0%8F%E7%B1%B3",
+    "timestamp": "2026-11-18T04:45:11.301Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃浩然與億萬愛妻結婚21年零緋聞　絕情拒跟女星交換電話防誘惑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199609404089962496987362.jpeg/EjTYGw5fPAZ4N4a9HeENALlRkTjDnIGBdSPiWXUj4lk",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411999/%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%B2%93%E9%9A%BB%E8%A2%AB%E5%9B%B0%E7%B0%B7%E7%AF%B7-%E6%B6%88%E9%98%B2%E5%8D%87%E9%9B%B2%E6%A2%AF%E6%95%91%E8%B2%93-%E7%9B%AE%E6%93%8A%E8%80%85-%E4%B8%8A%E5%88%B07%E5%B1%A4%E6%A8%93-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-17T22:45:47.052Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜天文台：冷鋒稍後橫過　今晚降溫至約21度　隨後顯著轉涼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199604663012429824478123.jpeg/RvVfHtNf92Vpxc2o8j8avEogwzsg3Rpm9aPaWvWj2lo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60411984/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%86%B7%E9%8B%92%E7%A8%8D%E5%BE%8C%E6%A9%AB%E9%81%8E-%E4%BB%8A%E6%99%9A%E9%99%8D%E6%BA%AB%E8%87%B3%E7%B4%8421%E5%BA%A6-%E9%9A%A8%E5%BE%8C%E9%A1%AF%E8%91%97%E8%BD%89%E6%B6%BC",
-    "timestamp": "2026-11-17T22:29:42.714Z",
     "strategy": ".content-card__main"
   }
 ];
