@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T01:59:17.527Z
+// Last updated: 2026-11-18T02:22:59.151Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鋼琴家王羽佳北京巡演因｢未調整到最佳狀態｣遲到　全場呆等17分鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199666915027456000549236.png/JdfjvV9MhQWltpS75ZZqL51oe9uw_uW5kYGTgJGBk4A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412016/%E9%8B%BC%E7%90%B4%E5%AE%B6%E7%8E%8B%E7%BE%BD%E4%BD%B3%E5%8C%97%E4%BA%AC%E5%B7%A1%E6%BC%94%E5%9B%A0-%E6%9C%AA%E8%AA%BF%E6%95%B4%E5%88%B0%E6%9C%80%E4%BD%B3%E7%8B%80%E6%85%8B-%E9%81%B2%E5%88%B0-%E5%85%A8%E5%A0%B4%E5%91%86%E7%AD%8917%E5%88%86%E9%90%98",
+    "timestamp": "2026-11-18T02:22:59.151Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳辭職｜英偉達董事會堅拒黃仁勳回歸　主動對華停售授權產品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198327044857925632458729.jpeg/Ow7JAmfU3OhsEBNALXisotUB7yXgZxo3abncMGm53DA",
     "url": "https://www.hk01.com/01TV/60410814/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%8F%83%E8%88%87%E9%9B%BB%E5%BD%B1%E5%89%B5%E4%BD%9C-%E7%84%A1%E6%84%8F%E9%96%93%E7%9A%84%E9%BB%9E%E5%AD%90%E7%B8%BD%E8%83%BD%E5%95%9F%E7%99%BC%E6%98%9F%E7%88%BA",
     "timestamp": "2026-11-17T19:39:41.079Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正參與電影創作：無意間的點子總能啟發星爺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198327044857925632458729.jpeg/Ow7JAmfU3OhsEBNALXisotUB7yXgZxo3abncMGm53DA",
-    "url": "https://www.hk01.com/01TV/60410814/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%8F%83%E8%88%87%E9%9B%BB%E5%BD%B1%E5%89%B5%E4%BD%9C-%E7%84%A1%E6%84%8F%E9%96%93%E7%9A%84%E9%BB%9E%E5%AD%90%E7%B8%BD%E8%83%BD%E5%95%9F%E7%99%BC%E6%98%9F%E7%88%BA",
-    "timestamp": "2026-11-17T19:29:27.330Z",
     "strategy": ".content-card__main"
   }
 ];
