@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T15:45:33.699Z
+// Last updated: 2026-11-18T15:59:04.231Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "繽紛冬日巡禮．多圖｜冬日小鎮揭幕　尖沙咀文化中心上演光影匯演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199866357374783488417986.jpeg/7vhAj32tEysrVTYlCUBoDeKhB-MKzrvzk9ErT7bRK08?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412438/%E7%B9%BD%E7%B4%9B%E5%86%AC%E6%97%A5%E5%B7%A1%E7%A6%AE-%E5%A4%9A%E5%9C%96-%E5%86%AC%E6%97%A5%E5%B0%8F%E9%8E%AE%E6%8F%AD%E5%B9%95-%E5%B0%96%E6%B2%99%E5%92%80%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83%E4%B8%8A%E6%BC%94%E5%85%89%E5%BD%B1%E5%8C%AF%E6%BC%94",
+    "timestamp": "2026-11-18T15:59:04.231Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜九龍塘客貨車疑路滑　左搖右擺撞壆翻側　女司機有驚無險",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199734941890383872163089.jpeg/uDkVawDzJeuxmCy3v33l0RaUTPQhRoITSK6jHUiuox0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60412129/%E6%B8%9B%E5%A3%93%E8%AE%8A%E5%82%B7%E8%BA%AB-%E8%84%86%E7%9A%AE%E6%8D%8F%E6%8D%8F-%E7%8E%A9%E5%85%B7%E7%94%B2%E9%86%9B%E8%B6%85%E6%A8%99%E6%81%90%E6%90%8D%E7%A5%9E%E7%B6%93-%E6%8B%86%E8%A7%A33%E5%A4%A7%E5%81%A5%E5%BA%B7%E9%9A%B1%E6%82%A3",
     "timestamp": "2026-11-18T08:24:05.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC深圳開幕！美中俄三方會談成焦點　特朗普直言「金正恩想來」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199745564720369664715293.jpeg/YEiUyuw1hI7DHvYxbITYlqvmuWP140ySXnaRJ152kSc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412198/apec%E6%B7%B1%E5%9C%B3%E9%96%8B%E5%B9%95-%E7%BE%8E%E4%B8%AD%E4%BF%84%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E6%88%90%E7%84%A6%E9%BB%9E-%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B4%E8%A8%80-%E9%87%91%E6%AD%A3%E6%81%A9%E6%83%B3%E4%BE%86",
-    "timestamp": "2026-11-18T07:45:54.749Z",
     "strategy": ".content-card__main"
   }
 ];
