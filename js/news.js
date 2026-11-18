@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T05:45:53.885Z
+// Last updated: 2026-11-18T05:59:15.757Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本熊出沒｜群馬縣5旬男遇襲　幼崽遭捕母熊在逃　全市70校停課",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199720806137991168172069.jpeg/m51cZjShphbEKWwlYTXtm6kESO_NXVu54VIpOuFSKTo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412144/%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%92-%E7%BE%A4%E9%A6%AC%E7%B8%A35%E6%97%AC%E7%94%B7%E9%81%87%E8%A5%B2-%E5%B9%BC%E5%B4%BD%E9%81%AD%E6%8D%95%E6%AF%8D%E7%86%8A%E5%9C%A8%E9%80%83-%E5%85%A8%E5%B8%8270%E6%A0%A1%E5%81%9C%E8%AA%B2",
+    "timestamp": "2026-11-18T05:59:15.757Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC深圳直擊|逾150萬車主申報停駛　市民照常揸車返工收交警提示",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196515926623653888416089.jpeg/XwFL5EdWo--e5bS8YQgoRHZubO-G9geAbDrTq2w606s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407111/%E9%A3%B2%E6%B0%B4%E6%84%88%E5%A4%9A%E6%84%88%E5%A5%BD-%E6%97%A5%E7%81%8C%E6%95%B8%E5%85%AC%E5%8D%87%E6%81%90%E8%87%B4-%E6%B0%B4%E4%B8%AD%E6%AF%92-3%E5%A4%A7%E8%A3%9C%E6%B0%B4%E9%99%B7%E9%98%B1%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
     "timestamp": "2026-11-17T23:59:04.774Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飲水愈多愈好？日灌數公升恐致「水中毒」　3大補水陷阱一文看清",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196515926623653888416089.jpeg/XwFL5EdWo--e5bS8YQgoRHZubO-G9geAbDrTq2w606s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407111/%E9%A3%B2%E6%B0%B4%E6%84%88%E5%A4%9A%E6%84%88%E5%A5%BD-%E6%97%A5%E7%81%8C%E6%95%B8%E5%85%AC%E5%8D%87%E6%81%90%E8%87%B4-%E6%B0%B4%E4%B8%AD%E6%AF%92-3%E5%A4%A7%E8%A3%9C%E6%B0%B4%E9%99%B7%E9%98%B1%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85",
-    "timestamp": "2026-11-17T23:45:15.538Z",
     "strategy": ".content-card__main"
   }
 ];
