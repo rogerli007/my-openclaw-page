@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T13:45:51.619Z
+// Last updated: 2026-11-18T13:59:18.402Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC深圳｜墨西哥總統在深圳吃上家鄉菜　頒親筆簽名榮譽證書表彰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199832455268274176316759.jpeg/abyPkAFMon0zs9yh2YwNaVJBDktN6Aoc_F-F0_xfhdM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412405/apec%E6%B7%B1%E5%9C%B3-%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B8%BD%E7%B5%B1%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%90%83%E4%B8%8A%E5%AE%B6%E9%84%89%E8%8F%9C-%E9%A0%92%E8%A6%AA%E7%AD%86%E7%B0%BD%E5%90%8D%E6%A6%AE%E8%AD%BD%E8%AD%89%E6%9B%B8%E8%A1%A8%E5%BD%B0",
+    "timestamp": "2026-11-18T13:59:18.402Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女神2丨阮嘉敏剖白四段情傷曾萌輕生念頭　計劃明年雪卵恨生B",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199720806137991168172069.jpeg/m51cZjShphbEKWwlYTXtm6kESO_NXVu54VIpOuFSKTo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412144/%E6%97%A5%E6%9C%AC%E7%86%8A%E5%87%BA%E6%B2%92-%E7%BE%A4%E9%A6%AC%E7%B8%A35%E6%97%AC%E7%94%B7%E9%81%87%E8%A5%B2-%E5%B9%BC%E5%B4%BD%E9%81%AD%E6%8D%95%E6%AF%8D%E7%86%8A%E5%9C%A8%E9%80%83-%E5%85%A8%E5%B8%8270%E6%A0%A1%E5%81%9C%E8%AA%B2",
     "timestamp": "2026-11-18T05:59:15.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC深圳直擊|逾150萬車主申報停駛　市民照常揸車返工收交警提示",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197951708798652416175236.jpeg/y5uVhxAssuz6v2he-QIWar39caQx7Nk1wW_eHcFv3h0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412170/apec%E6%B7%B1%E5%9C%B3%E7%9B%B4%E6%93%8A-%E9%80%BE150%E8%90%AC%E8%BB%8A%E4%B8%BB%E7%94%B3%E5%A0%B1%E5%81%9C%E9%A7%9B-%E5%B8%82%E6%B0%91%E7%85%A7%E5%B8%B8%E6%8F%B8%E8%BB%8A%E8%BF%94%E5%B7%A5%E6%94%B6%E4%BA%A4%E8%AD%A6%E6%8F%90%E7%A4%BA",
-    "timestamp": "2026-11-18T05:45:53.885Z",
     "strategy": ".content-card__main"
   }
 ];
