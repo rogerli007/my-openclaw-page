@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T11:19:46.639Z
+// Last updated: 2026-11-18T11:59:12.445Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "幻彩詠香江．直播｜上演近23年今晚8時最後一舞　加設煙火表演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199812323724759040496372.jpeg/CFrbcNSKNxVEaXKJkclOPC2B_RWkYzAcDEKOwQxCjsE",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412308/%E5%B9%BB%E5%BD%A9%E8%A9%A0%E9%A6%99%E6%B1%9F-%E7%9B%B4%E6%92%AD-%E4%B8%8A%E6%BC%94%E8%BF%9123%E5%B9%B4%E4%BB%8A%E6%99%9A8%E6%99%82%E6%9C%80%E5%BE%8C%E4%B8%80%E8%88%9E-%E5%8A%A0%E8%A8%AD%E7%85%99%E7%81%AB%E8%A1%A8%E6%BC%94",
+    "timestamp": "2026-11-18T11:59:12.445Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宋宛穎香檳金魚尾裙大騷玲瓏身段　任慈善司儀遭即場點唱直呼緊張",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199697310385180672729480.png/jYom7E22FmXhzrqA2_sGwjNd1eNBYJIdoR5uSqEebko?v=w1920",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412113/%E6%B2%B3%E5%8D%97%E7%90%86%E9%AB%AE%E5%B8%AB%E9%9D%A0%E7%A2%8E%E9%AB%AE%E7%95%AB%E9%97%9C%E5%85%AC%E9%A0%85%E7%BE%BD%E7%88%86%E7%B4%85-%E7%B6%B2%E6%B0%91-%E8%A2%AB%E7%90%86%E9%AB%AE%E8%80%BD%E8%AA%A4%E7%9A%84%E7%95%AB%E5%AE%B6-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-18T04:21:47.921Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "壽司郎聯乘《咒術迴戰》食蛋糕送卡　客狂點10份不吃做「大嘥鬼」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199690177346277376847309.png/61YazsR6vola-XbJOqK5CFmOyXmEzzQP5bugr-W7oK8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412101/%E5%A3%BD%E5%8F%B8%E9%83%8E%E8%81%AF%E4%B9%98-%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0-%E9%A3%9F%E8%9B%8B%E7%B3%95%E9%80%81%E5%8D%A1-%E5%AE%A2%E7%8B%82%E9%BB%9E10%E4%BB%BD%E4%B8%8D%E5%90%83%E5%81%9A-%E5%A4%A7%E5%98%A5%E9%AC%BC",
-    "timestamp": "2026-11-18T03:59:04.432Z",
     "strategy": ".content-card__main"
   }
 ];
