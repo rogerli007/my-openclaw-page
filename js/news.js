@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T10:59:05.885Z
+// Last updated: 2026-11-18T11:19:46.639Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宋宛穎香檳金魚尾裙大騷玲瓏身段　任慈善司儀遭即場點唱直呼緊張",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199752558273368064967314.jpeg/n0eSUUOUtE0gpW0p-xN1ogYGU5Axg4euaUt3xGlLd8Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412203/%E5%AE%8B%E5%AE%9B%E7%A9%8E%E9%A6%99%E6%AA%B3%E9%87%91%E9%AD%9A%E5%B0%BE%E8%A3%99%E5%A4%A7%E9%A8%B7%E7%8E%B2%E7%93%8F%E8%BA%AB%E6%AE%B5-%E4%BB%BB%E6%85%88%E5%96%84%E5%8F%B8%E5%84%80%E9%81%AD%E5%8D%B3%E5%A0%B4%E9%BB%9E%E5%94%B1%E7%9B%B4%E5%91%BC%E7%B7%8A%E5%BC%B5",
+    "timestamp": "2026-11-18T11:19:46.639Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "泰國總理阿努廷受訪大講廣東話　返鄉好開心但嘆冇時間｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199690177346277376847309.png/61YazsR6vola-XbJOqK5CFmOyXmEzzQP5bugr-W7oK8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412101/%E5%A3%BD%E5%8F%B8%E9%83%8E%E8%81%AF%E4%B9%98-%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0-%E9%A3%9F%E8%9B%8B%E7%B3%95%E9%80%81%E5%8D%A1-%E5%AE%A2%E7%8B%82%E9%BB%9E10%E4%BB%BD%E4%B8%8D%E5%90%83%E5%81%9A-%E5%A4%A7%E5%98%A5%E9%AC%BC",
     "timestamp": "2026-11-18T03:59:04.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "烏克蘭襲克里米亞大橋　拱門倒塌墜海　俄方：2人死亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199688628750520320084752.jpeg/0wAWaMDJ1E2-Hy2-Dv8cE0KqIPYEcnflL8NiZS_DYmU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412055/%E7%83%8F%E5%85%8B%E8%98%AD%E8%A5%B2%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9E%E5%A4%A7%E6%A9%8B-%E6%8B%B1%E9%96%80%E5%80%92%E5%A1%8C%E5%A2%9C%E6%B5%B7-%E4%BF%84%E6%96%B9-2%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "timestamp": "2026-11-18T03:45:42.530Z",
     "strategy": ".content-card__main"
   }
 ];
