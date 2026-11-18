@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T01:21:22.437Z
+// Last updated: 2026-11-18T01:48:13.297Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：美國是「太平洋國家」　與東盟為共同塑造區域未來夥伴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199658334303555584392054.jpeg/qTXn60lgC_oVnNC-k95AhmyFvbaAbCoh3GCk8NxgpPA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412019/%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9C%8B%E6%98%AF-%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%9C%8B%E5%AE%B6-%E8%88%87%E6%9D%B1%E7%9B%9F%E7%82%BA%E5%85%B1%E5%90%8C%E5%A1%91%E9%80%A0%E5%8D%80%E5%9F%9F%E6%9C%AA%E4%BE%86%E5%A4%A5%E4%BC%B4",
+    "timestamp": "2026-11-18T01:48:13.297Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜香港大學站信號設備故障　港島綫現候車人潮　網民：已淪陷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198327044857925632458729.jpeg/Ow7JAmfU3OhsEBNALXisotUB7yXgZxo3abncMGm53DA",
     "url": "https://www.hk01.com/01TV/60410814/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%8F%83%E8%88%87%E9%9B%BB%E5%BD%B1%E5%89%B5%E4%BD%9C-%E7%84%A1%E6%84%8F%E9%96%93%E7%9A%84%E9%BB%9E%E5%AD%90%E7%B8%BD%E8%83%BD%E5%95%9F%E7%99%BC%E6%98%9F%E7%88%BA",
     "timestamp": "2026-11-17T19:18:39.057Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳APEC｜新界北變臨時禁飛區　警再拘1男　涉未經許可飛無人機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199552020617367552830257.jpeg/H5jXDWugikSPYejbHWWNpMVQab8HcWPQnfMtU53zLVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411989/%E6%B7%B1%E5%9C%B3apec-%E6%96%B0%E7%95%8C%E5%8C%97%E8%AE%8A%E8%87%A8%E6%99%82%E7%A6%81%E9%A3%9B%E5%8D%80-%E8%AD%A6%E5%86%8D%E6%8B%981%E7%94%B7-%E6%B6%89%E6%9C%AA%E7%B6%93%E8%A8%B1%E5%8F%AF%E9%A3%9B%E7%84%A1%E4%BA%BA%E6%A9%9F",
-    "timestamp": "2026-11-17T18:59:16.407Z",
     "strategy": ".content-card__main"
   }
 ];
