@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T03:34:03.428Z
+// Last updated: 2026-11-18T03:45:42.530Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "烏克蘭襲克里米亞大橋　拱門倒塌墜海　俄方：2人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199688628750520320084752.jpeg/0wAWaMDJ1E2-Hy2-Dv8cE0KqIPYEcnflL8NiZS_DYmU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412055/%E7%83%8F%E5%85%8B%E8%98%AD%E8%A5%B2%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9E%E5%A4%A7%E6%A9%8B-%E6%8B%B1%E9%96%80%E5%80%92%E5%A1%8C%E5%A2%9C%E6%B5%B7-%E4%BF%84%E6%96%B9-2%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-11-18T03:45:42.530Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜樓下裝修工疑鑿穿喉反屈樓上漏水　樓上企硬：我哋冇錯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199584111950303232789624.jpeg/WSr3JwAm3N6gUH4zAJ4yGGQon-fsMFAIOhnXtjoZ17Y",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411993/%E8%BB%8Acam-%E8%BC%AA%E6%A4%85%E7%94%B7%E8%AA%A4%E9%97%96%E5%95%9F%E5%BE%B7%E9%9A%A7%E9%81%93%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E8%BC%9B%E6%B8%9B%E6%85%A2%E8%BB%8A%E9%80%9F%E6%89%AD%E8%BB%9A%E9%81%BF%E9%96%8B",
     "timestamp": "2026-11-17T21:19:28.811Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗指美軍空襲格什姆島　路透：導彈發射場為目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199576122858147840728051.png/_cyK6cTw2ROa91oNIwarsIFfp4ZmOYIF9ANvqPQDb6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411992/%E4%BC%8A%E6%9C%97%E6%8C%87%E7%BE%8E%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B3%B6-%E8%B7%AF%E9%80%8F-%E5%B0%8E%E5%BD%88%E7%99%BC%E5%B0%84%E5%A0%B4%E7%82%BA%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-11-17T20:58:58.974Z",
     "strategy": ".content-card__main"
   }
 ];
