@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T18:21:48.027Z
+// Last updated: 2026-11-18T18:45:51.010Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正經歷嚴重車禍：鎖骨脊骨全碎 死裡逃生重新學站立",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330323331452928468952.jpeg/3l9qtCLgF6jcIaN8ACVMxQkcxxTU-EcV73VI4e91SOE",
+    "url": "https://www.hk01.com/01TV/60410819/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%B6%93%E6%AD%B7%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E9%8E%96%E9%AA%A8%E8%84%8A%E9%AA%A8%E5%85%A8%E7%A2%8E-%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E9%87%8D%E6%96%B0%E5%AD%B8%E7%AB%99%E7%AB%8B",
+    "timestamp": "2026-11-18T18:45:51.010Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正經歷嚴重車禍：鎖骨脊骨全碎 死裡逃生重新學站立",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199752558273368064967314.jpeg/n0eSUUOUtE0gpW0p-xN1ogYGU5Axg4euaUt3xGlLd8Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412203/%E5%AE%8B%E5%AE%9B%E7%A9%8E%E9%A6%99%E6%AA%B3%E9%87%91%E9%AD%9A%E5%B0%BE%E8%A3%99%E5%A4%A7%E9%A8%B7%E7%8E%B2%E7%93%8F%E8%BA%AB%E6%AE%B5-%E4%BB%BB%E6%85%88%E5%96%84%E5%8F%B8%E5%84%80%E9%81%AD%E5%8D%B3%E5%A0%B4%E9%BB%9E%E5%94%B1%E7%9B%B4%E5%91%BC%E7%B7%8A%E5%BC%B5",
     "timestamp": "2026-11-18T11:19:46.639Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "泰國總理阿努廷受訪大講廣東話　返鄉好開心但嘆冇時間｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199783739056459776201678.png/gpjau6UYh0l1JnCT5a22ti8KTGHAkrexl7Abb5ewG28",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412362/%E6%B3%B0%E5%9C%8B%E7%B8%BD%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E5%8F%97%E8%A8%AA%E5%A4%A7%E8%AC%9B%E5%BB%A3%E6%9D%B1%E8%A9%B1-%E8%BF%94%E9%84%89%E5%A5%BD%E9%96%8B%E5%BF%83%E4%BD%86%E5%98%86%E5%86%87%E6%99%82%E9%96%93-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-18T10:59:05.885Z",
     "strategy": ".content-card__main"
   }
 ];
