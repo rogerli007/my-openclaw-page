@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T17:59:16.302Z
+// Last updated: 2026-11-18T18:21:48.027Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李尚正經歷嚴重車禍：鎖骨脊骨全碎 死裡逃生重新學站立",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330323331452928468952.jpeg/3l9qtCLgF6jcIaN8ACVMxQkcxxTU-EcV73VI4e91SOE",
+    "url": "https://www.hk01.com/01TV/60410819/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%B6%93%E6%AD%B7%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E9%8E%96%E9%AA%A8%E8%84%8A%E9%AA%A8%E5%85%A8%E7%A2%8E-%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E9%87%8D%E6%96%B0%E5%AD%B8%E7%AB%99%E7%AB%8B",
+    "timestamp": "2026-11-18T18:21:48.027Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地廟街唐樓單位淪毒品倉　警檢$50萬K仔和可卡因　25歲男被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199783739056459776201678.png/gpjau6UYh0l1JnCT5a22ti8KTGHAkrexl7Abb5ewG28",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412362/%E6%B3%B0%E5%9C%8B%E7%B8%BD%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E5%8F%97%E8%A8%AA%E5%A4%A7%E8%AC%9B%E5%BB%A3%E6%9D%B1%E8%A9%B1-%E8%BF%94%E9%84%89%E5%A5%BD%E9%96%8B%E5%BF%83%E4%BD%86%E5%98%86%E5%86%87%E6%99%82%E9%96%93-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-18T10:59:05.885Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Jrink尖沙咀店將結業　12年前大坑拼配茶起家　下周派周年紀念品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199777010335879168680412.jpeg/tqx4TaEGBm9gY7zS_WTnjaP-8FDUHWdHHmdqsB5narA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412342/jrink%E5%B0%96%E6%B2%99%E5%92%80%E5%BA%97%E5%B0%87%E7%B5%90%E6%A5%AD-12%E5%B9%B4%E5%89%8D%E5%A4%A7%E5%9D%91%E6%8B%BC%E9%85%8D%E8%8C%B6%E8%B5%B7%E5%AE%B6-%E4%B8%8B%E5%91%A8%E6%B4%BE%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5%E5%93%81",
-    "timestamp": "2026-11-18T10:45:47.658Z",
     "strategy": ".content-card__main"
   }
 ];
