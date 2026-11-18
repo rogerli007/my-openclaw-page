@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T03:45:42.530Z
+// Last updated: 2026-11-18T03:59:04.432Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "壽司郎聯乘《咒術迴戰》食蛋糕送卡　客狂點10份不吃做「大嘥鬼」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199690177346277376847309.png/61YazsR6vola-XbJOqK5CFmOyXmEzzQP5bugr-W7oK8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412101/%E5%A3%BD%E5%8F%B8%E9%83%8E%E8%81%AF%E4%B9%98-%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0-%E9%A3%9F%E8%9B%8B%E7%B3%95%E9%80%81%E5%8D%A1-%E5%AE%A2%E7%8B%82%E9%BB%9E10%E4%BB%BD%E4%B8%8D%E5%90%83%E5%81%9A-%E5%A4%A7%E5%98%A5%E9%AC%BC",
+    "timestamp": "2026-11-18T03:59:04.432Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "烏克蘭襲克里米亞大橋　拱門倒塌墜海　俄方：2人死亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199597191954436096802716.jpeg/G6sp9J9uFT2GG808Cdp_KKl4Dslq-rWr49Bjs-PQY7M",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411993/%E8%BB%8Acam-%E8%BC%AA%E6%A4%85%E7%94%B7%E8%AA%A4%E9%97%96%E5%95%9F%E5%BE%B7%E9%9A%A7%E9%81%93%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E8%BC%9B%E6%B8%9B%E6%85%A2%E8%BB%8A%E9%80%9F%E6%89%AD%E8%BB%9A%E9%81%BF%E9%96%8B",
     "timestamp": "2026-11-17T21:45:31.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜輪椅男誤闖啟德隧道逆線行駛　車輛減慢車速扭軚避開",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199584111950303232789624.jpeg/WSr3JwAm3N6gUH4zAJ4yGGQon-fsMFAIOhnXtjoZ17Y",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411993/%E8%BB%8Acam-%E8%BC%AA%E6%A4%85%E7%94%B7%E8%AA%A4%E9%97%96%E5%95%9F%E5%BE%B7%E9%9A%A7%E9%81%93%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E8%BC%9B%E6%B8%9B%E6%85%A2%E8%BB%8A%E9%80%9F%E6%89%AD%E8%BB%9A%E9%81%BF%E9%96%8B",
-    "timestamp": "2026-11-17T21:19:28.811Z",
     "strategy": ".content-card__main"
   }
 ];
