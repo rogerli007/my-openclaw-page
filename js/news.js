@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T17:19:25.468Z
+// Last updated: 2026-11-18T17:45:51.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地廟街唐樓單位淪毒品倉　警檢$50萬K仔和可卡因　25歲男被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199892021955792896128479.jpeg/Jpz7tldWJA5dOCs3EGDfznghOcRoeKnevghJUr4ISVI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412450/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BB%9F%E8%A1%97%E5%94%90%E6%A8%93%E5%96%AE%E4%BD%8D%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%AA%A2-50%E8%90%ACk%E4%BB%94%E5%92%8C%E5%8F%AF%E5%8D%A1%E5%9B%A0-25%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-18T17:45:51.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李尚正因壓力爆煲裸辭：被星爺一句「靠你啦」壓垮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199784405741080576938716.jpeg/iNlqYdjI9QrB8biijXOv-w_gUh-VaSPCO7hLYju4S2I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412346/%E5%82%85%E5%98%89%E8%8E%89%E8%AB%87%E6%8E%8C%E6%91%91%E6%88%B2%E7%BE%85%E7%94%9F%E9%96%80-%E5%8F%8D%E9%A7%81%E9%99%B3%E8%87%AA%E7%91%A4-%E4%B8%8B%E4%B8%8B%E7%9C%9F%E6%89%93-%E5%95%AA%E7%88%86%E5%BE%AE%E7%B5%B2%E8%A1%80%E7%AE%A1%E5%95%A6",
     "timestamp": "2026-11-18T10:20:22.265Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "FANCL代理商老闆放售中環皇九全層　同步招租　兩年前斥3.1億買入",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199755533951700992745386.jpeg/WfMR6pGII8NuhDWBC7e4qcTYv4JxZax1TJf560yX-es?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60412267/fancl%E4%BB%A3%E7%90%86%E5%95%86%E8%80%81%E9%97%86%E6%94%BE%E5%94%AE%E4%B8%AD%E7%92%B0%E7%9A%87%E4%B9%9D%E5%85%A8%E5%B1%A4-%E5%90%8C%E6%AD%A5%E6%8B%9B%E7%A7%9F-%E5%85%A9%E5%B9%B4%E5%89%8D%E6%96%A53-1%E5%84%84%E8%B2%B7%E5%85%A5",
-    "timestamp": "2026-11-18T09:59:07.428Z",
     "strategy": ".content-card__main"
   }
 ];
