@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T14:20:29.152Z
+// Last updated: 2026-11-18T14:40:16.371Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李佳芯挑戰地獄二揀一　出軌男定爛賭二？　衰男人吸引過蠢男人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199805098566356992168530.jpeg/yQpTxlahYCFh5NOjPadCvCINRSVgUX3kmE4XEZhOFxE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412382/%E6%9D%8E%E4%BD%B3%E8%8A%AF%E6%8C%91%E6%88%B0%E5%9C%B0%E7%8D%84%E4%BA%8C%E6%8F%80%E4%B8%80-%E5%87%BA%E8%BB%8C%E7%94%B7%E5%AE%9A%E7%88%9B%E8%B3%AD%E4%BA%8C-%E8%A1%B0%E7%94%B7%E4%BA%BA%E5%90%B8%E5%BC%95%E9%81%8E%E8%A0%A2%E7%94%B7%E4%BA%BA",
+    "timestamp": "2026-11-18T14:40:16.371Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球香港賽｜大名球星齊登場　志田千陽再訪港參賽仍受歡迎",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199729457678520320163047.jpeg/Se2VcgPE83xPq0tP5oHAEkMzV4iHZF8BeE-4ZnhPuGY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412197/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E8%B7%91%E9%A6%AC%E5%9C%B077%E6%AD%B2%E9%BB%83%E6%9C%A8%E6%A6%AE%E9%9B%A2%E9%96%8B%E7%A6%AE%E9%A0%93%E9%81%93%E9%99%A2%E8%88%8D%E5%BE%8C%E5%A4%B1%E8%B9%A4-%E8%81%B7%E5%93%A1%E5%A0%B1%E8%AD%A6%E5%B0%8B%E4%BA%BA",
     "timestamp": "2026-11-18T06:50:55.932Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球香港賽｜謝影雪夥小將激戰止步　總結今年起伏好比過山車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199710971237502976398720.png/x743ZBbTCdTE4R4HI5eTao1WdbPop_BPvFdl17xXZdc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60412160/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E8%AC%9D%E5%BD%B1%E9%9B%AA%E5%A4%A5%E5%B0%8F%E5%B0%87%E6%BF%80%E6%88%B0%E6%AD%A2%E6%AD%A5-%E7%B8%BD%E7%B5%90%E4%BB%8A%E5%B9%B4%E8%B5%B7%E4%BC%8F%E5%A5%BD%E6%AF%94%E9%81%8E%E5%B1%B1%E8%BB%8A",
-    "timestamp": "2026-11-18T06:28:07.311Z",
     "strategy": ".content-card__main"
   }
 ];
