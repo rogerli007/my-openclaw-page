@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T22:59:09.456Z
+// Last updated: 2026-11-18T23:19:12.249Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "相戀19年男友竟是「女兒身」　刻意入男廁掩飾　騙女友¥46萬判7年",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199698428636958720794320.png/iiwMumpXqDtaDXxVI5Xsq_RWXR9qAbJP0DUQ0tA1ENI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412025/%E7%9B%B8%E6%88%8019%E5%B9%B4%E7%94%B7%E5%8F%8B%E7%AB%9F%E6%98%AF-%E5%A5%B3%E5%85%92%E8%BA%AB-%E5%88%BB%E6%84%8F%E5%85%A5%E7%94%B7%E5%BB%81%E6%8E%A9%E9%A3%BE-%E9%A8%99%E5%A5%B3%E5%8F%8B-46%E8%90%AC%E5%88%A47%E5%B9%B4",
+    "timestamp": "2026-11-18T23:19:12.249Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜天文台：今早普遍較昨低兩三度　晚上降至18度　明早約15度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199839522234306560980672.jpeg/6l58bo_m02uBuksCkEAfzDSn4TonuTlj1Cssw9QrLMM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412442/%E5%85%8B%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA-%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE19%E6%97%A5%E4%B8%A6%E6%9C%AA%E5%AE%89%E6%8E%92%E5%85%A8%E9%9D%A2%E6%9C%83%E8%AB%87-%E4%B8%89%E6%96%B9%E6%9C%83%E6%99%A4%E7%B4%841%E5%B0%8F%E6%99%82",
     "timestamp": "2026-11-18T16:20:25.602Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "繽紛冬日巡禮．多圖｜冬日小鎮揭幕　尖沙咀文化中心上演光影匯演",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199866357374783488417986.jpeg/7vhAj32tEysrVTYlCUBoDeKhB-MKzrvzk9ErT7bRK08?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412438/%E7%B9%BD%E7%B4%9B%E5%86%AC%E6%97%A5%E5%B7%A1%E7%A6%AE-%E5%A4%9A%E5%9C%96-%E5%86%AC%E6%97%A5%E5%B0%8F%E9%8E%AE%E6%8F%AD%E5%B9%95-%E5%B0%96%E6%B2%99%E5%92%80%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83%E4%B8%8A%E6%BC%94%E5%85%89%E5%BD%B1%E5%8C%AF%E6%BC%94",
-    "timestamp": "2026-11-18T15:59:04.231Z",
     "strategy": ".content-card__main"
   }
 ];
