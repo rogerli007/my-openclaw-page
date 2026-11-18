@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T03:59:04.432Z
+// Last updated: 2026-11-18T04:21:47.921Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "河南理髮師靠碎髮畫關公項羽爆紅　網民：被理髮耽誤的畫家｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199697310385180672729480.png/jYom7E22FmXhzrqA2_sGwjNd1eNBYJIdoR5uSqEebko?v=w1920",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412113/%E6%B2%B3%E5%8D%97%E7%90%86%E9%AB%AE%E5%B8%AB%E9%9D%A0%E7%A2%8E%E9%AB%AE%E7%95%AB%E9%97%9C%E5%85%AC%E9%A0%85%E7%BE%BD%E7%88%86%E7%B4%85-%E7%B6%B2%E6%B0%91-%E8%A2%AB%E7%90%86%E9%AB%AE%E8%80%BD%E8%AA%A4%E7%9A%84%E7%95%AB%E5%AE%B6-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-18T04:21:47.921Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "壽司郎聯乘《咒術迴戰》食蛋糕送卡　客狂點10份不吃做「大嘥鬼」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199597191954436096802716.jpeg/G6sp9J9uFT2GG808Cdp_KKl4Dslq-rWr49Bjs-PQY7M",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411993/%E8%BB%8Acam-%E8%BC%AA%E6%A4%85%E7%94%B7%E8%AA%A4%E9%97%96%E5%95%9F%E5%BE%B7%E9%9A%A7%E9%81%93%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E8%BC%9B%E6%B8%9B%E6%85%A2%E8%BB%8A%E9%80%9F%E6%89%AD%E8%BB%9A%E9%81%BF%E9%96%8B",
     "timestamp": "2026-11-17T21:59:12.482Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜輪椅男誤闖啟德隧道逆線行駛　車輛減慢車速扭軚避開",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199597191954436096802716.jpeg/G6sp9J9uFT2GG808Cdp_KKl4Dslq-rWr49Bjs-PQY7M",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411993/%E8%BB%8Acam-%E8%BC%AA%E6%A4%85%E7%94%B7%E8%AA%A4%E9%97%96%E5%95%9F%E5%BE%B7%E9%9A%A7%E9%81%93%E9%80%86%E7%B7%9A%E8%A1%8C%E9%A7%9B-%E8%BB%8A%E8%BC%9B%E6%B8%9B%E6%85%A2%E8%BB%8A%E9%80%9F%E6%89%AD%E8%BB%9A%E9%81%BF%E9%96%8B",
-    "timestamp": "2026-11-17T21:45:31.535Z",
     "strategy": ".content-card__main"
   }
 ];
