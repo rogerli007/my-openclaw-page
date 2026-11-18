@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T02:22:59.151Z
+// Last updated: 2026-11-18T02:45:45.910Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "五旬男女赴滙豐總行圖開戶　出示2000億元月結單　職員感可疑報警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172584627269799936814260.jpeg/7NfyXHXgLq5Kfv_O5mRbxK25VRovOctu2mWTh9plk4c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412027/%E4%BA%94%E6%97%AC%E7%94%B7%E5%A5%B3%E8%B5%B4%E6%BB%99%E8%B1%90%E7%B8%BD%E8%A1%8C%E5%9C%96%E9%96%8B%E6%88%B6-%E5%87%BA%E7%A4%BA2000%E5%84%84%E5%85%83%E6%9C%88%E7%B5%90%E5%96%AE-%E8%81%B7%E5%93%A1%E6%84%9F%E5%8F%AF%E7%96%91%E5%A0%B1%E8%AD%A6",
+    "timestamp": "2026-11-18T02:45:45.910Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "鋼琴家王羽佳北京巡演因｢未調整到最佳狀態｣遲到　全場呆等17分鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230525/738396491143450624713482.jpeg/KUGQFjVXPfyhzqaG53x3EFJDTptuEBPDVRNkQVUTZEE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411990/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80%E5%85%A7%E9%83%A8%E9%AB%98%E5%BA%A6%E6%A9%9F%E5%AF%86%E9%80%9A%E8%A8%8A%E7%B6%B2%E7%B5%A1%E7%99%B1%E7%98%93-%E5%B0%9A%E7%84%A1%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E8%AD%89%E6%93%9A",
     "timestamp": "2026-11-17T19:59:08.754Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正參與電影創作：無意間的點子總能啟發星爺",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198327044857925632458729.jpeg/Ow7JAmfU3OhsEBNALXisotUB7yXgZxo3abncMGm53DA",
-    "url": "https://www.hk01.com/01TV/60410814/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%8F%83%E8%88%87%E9%9B%BB%E5%BD%B1%E5%89%B5%E4%BD%9C-%E7%84%A1%E6%84%8F%E9%96%93%E7%9A%84%E9%BB%9E%E5%AD%90%E7%B8%BD%E8%83%BD%E5%95%9F%E7%99%BC%E6%98%9F%E7%88%BA",
-    "timestamp": "2026-11-17T19:39:41.079Z",
     "strategy": ".content-card__main"
   }
 ];
