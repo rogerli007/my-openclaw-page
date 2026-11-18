@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T11:59:12.445Z
+// Last updated: 2026-11-18T12:24:17.938Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國索馬里裔Uber司機遭乘客勒頸再開車碾壓　案件曝光民眾抗議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199754165488717824904385.jpeg/qQeO3Ea00B41IJOwyD_hEn-wUEzglJMht8yYcbfMmHE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412270/%E7%BE%8E%E5%9C%8B%E7%B4%A2%E9%A6%AC%E9%87%8C%E8%A3%94uber%E5%8F%B8%E6%A9%9F%E9%81%AD%E4%B9%98%E5%AE%A2%E5%8B%92%E9%A0%B8%E5%86%8D%E9%96%8B%E8%BB%8A%E7%A2%BE%E5%A3%93-%E6%A1%88%E4%BB%B6%E6%9B%9D%E5%85%89%E6%B0%91%E7%9C%BE%E6%8A%97%E8%AD%B0",
+    "timestamp": "2026-11-18T12:24:17.938Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "幻彩詠香江．直播｜上演近23年今晚8時最後一舞　加設煙火表演",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199686370008764416570492.jpeg/A-LdiyCMx4ZrGU9rfcG3X4x4RR50RW7SeSzv53ks7-c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412049/%E9%BB%83%E6%B5%A9%E7%84%B6%E8%88%87%E5%84%84%E8%90%AC%E6%84%9B%E5%A6%BB%E7%B5%90%E5%A9%9A21%E5%B9%B4%E9%9B%B6%E7%B7%8B%E8%81%9E-%E7%B5%95%E6%83%85%E6%8B%92%E8%B7%9F%E5%A5%B3%E6%98%9F%E4%BA%A4%E6%8F%9B%E9%9B%BB%E8%A9%B1%E9%98%B2%E8%AA%98%E6%83%91",
     "timestamp": "2026-11-18T04:32:55.071Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "河南理髮師靠碎髮畫關公項羽爆紅　網民：被理髮耽誤的畫家｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199697310385180672729480.png/jYom7E22FmXhzrqA2_sGwjNd1eNBYJIdoR5uSqEebko?v=w1920",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412113/%E6%B2%B3%E5%8D%97%E7%90%86%E9%AB%AE%E5%B8%AB%E9%9D%A0%E7%A2%8E%E9%AB%AE%E7%95%AB%E9%97%9C%E5%85%AC%E9%A0%85%E7%BE%BD%E7%88%86%E7%B4%85-%E7%B6%B2%E6%B0%91-%E8%A2%AB%E7%90%86%E9%AB%AE%E8%80%BD%E8%AA%A4%E7%9A%84%E7%95%AB%E5%AE%B6-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-18T04:21:47.921Z",
     "strategy": ".content-card__main"
   }
 ];
