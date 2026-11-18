@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T21:59:16.489Z
+// Last updated: 2026-11-18T22:45:39.194Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜天文台：今早普遍較昨低兩三度　晚上降至18度　明早約15度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199966594701201408620478.jpeg/QsjQMxXQDr4nUV4H0O938o-4Z78AmJOsS1V1gUtVdYE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60412448/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A9%E6%99%AE%E9%81%8D%E8%BC%83%E6%98%A8%E4%BD%8E%E5%85%A9%E4%B8%89%E5%BA%A6-%E6%99%9A%E4%B8%8A%E9%99%8D%E8%87%B318%E5%BA%A6-%E6%98%8E%E6%97%A9%E7%B4%8415%E5%BA%A6",
+    "timestamp": "2026-11-18T22:45:39.194Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199868141010685952049632.jpeg/88a_wXHI227KkuHa8JYZ6nxvS2e0NX8gcm7xznJu8c4",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412436/%E8%BB%8Acam-%E4%B9%9D%E9%BE%8D%E5%A1%98%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%96%91%E8%B7%AF%E6%BB%91-%E5%B7%A6%E6%90%96%E5%8F%B3%E6%93%BA%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E6%9C%89%E9%A9%9A%E7%84%A1%E9%9A%AA",
     "timestamp": "2026-11-18T15:45:33.699Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "樂星、Vootic疑走數｜員工親述突被指示收舖　同遭拖糧欠寄賣款項",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199809166831521792934816.jpeg/mHaqGUJRykgpi9NyDk5OTB3i5fj6BszYwwxeAMMMXgA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412426/%E6%A8%82%E6%98%9F-vootic%E7%96%91%E8%B5%B0%E6%95%B8-%E5%93%A1%E5%B7%A5%E8%A6%AA%E8%BF%B0%E7%AA%81%E8%A2%AB%E6%8C%87%E7%A4%BA%E6%94%B6%E8%88%96-%E5%90%8C%E9%81%AD%E6%8B%96%E7%B3%A7%E6%AC%A0%E5%AF%84%E8%B3%A3%E6%AC%BE%E9%A0%85",
-    "timestamp": "2026-11-18T15:20:06.804Z",
     "strategy": ".content-card__main"
   }
 ];
