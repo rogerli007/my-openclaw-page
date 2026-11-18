@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T02:59:04.116Z
+// Last updated: 2026-11-18T03:22:26.794Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "米芝蓮推介名店也離場？上環潮家宴預告平安夜結業　十年回憶落幕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199674377927397376387695.jpeg/l16UrXHl7NrgtIGirYTUfnSg8ZU6MCbojA2bw4wNm8M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412063/%E7%B1%B3%E8%8A%9D%E8%93%AE%E6%8E%A8%E4%BB%8B%E5%90%8D%E5%BA%97%E4%B9%9F%E9%9B%A2%E5%A0%B4-%E4%B8%8A%E7%92%B0%E6%BD%AE%E5%AE%B6%E5%AE%B4%E9%A0%90%E5%91%8A%E5%B9%B3%E5%AE%89%E5%A4%9C%E7%B5%90%E6%A5%AD-%E5%8D%81%E5%B9%B4%E5%9B%9E%E6%86%B6%E8%90%BD%E5%B9%95",
+    "timestamp": "2026-11-18T03:22:26.794Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尼日利亞東北部爆武裝襲擊　一名中國公民身亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199576122858147840728051.png/_cyK6cTw2ROa91oNIwarsIFfp4ZmOYIF9ANvqPQDb6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411992/%E4%BC%8A%E6%9C%97%E6%8C%87%E7%BE%8E%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B3%B6-%E8%B7%AF%E9%80%8F-%E5%B0%8E%E5%BD%88%E7%99%BC%E5%B0%84%E5%A0%B4%E7%82%BA%E7%9B%AE%E6%A8%99",
     "timestamp": "2026-11-17T20:45:35.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "伊朗指美軍空襲格什姆島　路透：導彈發射場為目標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199576122858147840728051.png/_cyK6cTw2ROa91oNIwarsIFfp4ZmOYIF9ANvqPQDb6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60411992/%E4%BC%8A%E6%9C%97%E6%8C%87%E7%BE%8E%E8%BB%8D%E7%A9%BA%E8%A5%B2%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B3%B6-%E8%B7%AF%E9%80%8F-%E5%B0%8E%E5%BD%88%E7%99%BC%E5%B0%84%E5%A0%B4%E7%82%BA%E7%9B%AE%E6%A8%99",
-    "timestamp": "2026-11-17T20:30:04.633Z",
     "strategy": ".content-card__main"
   }
 ];
