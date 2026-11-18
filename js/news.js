@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T08:24:05.455Z
+// Last updated: 2026-11-18T08:36:11.162Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NBA｜勇士球星居里認「籃球壽命將盡」？2028再戰奧運仍留懸念",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199756139613392896708943.jpeg/1H3txKkdYVdXrWk6YDsAJMq8hyw5zePT3_4-vd_-Pr0?v=w1920r16_9",
+    "url": "https://www.hk01.com/Jumper/60412261/nba-%E5%8B%87%E5%A3%AB%E7%90%83%E6%98%9F%E5%B1%85%E9%87%8C%E8%AA%8D-%E7%B1%83%E7%90%83%E5%A3%BD%E5%91%BD%E5%B0%87%E7%9B%A1-2028%E5%86%8D%E6%88%B0%E5%A5%A7%E9%81%8B%E4%BB%8D%E7%95%99%E6%87%B8%E5%BF%B5",
+    "timestamp": "2026-11-18T08:36:11.162Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減壓變傷身？「脆皮捏捏」玩具甲醛超標恐損神經 拆解3大健康隱患",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199666915027456000549236.png/JdfjvV9MhQWltpS75ZZqL51oe9uw_uW5kYGTgJGBk4A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60412016/%E9%8B%BC%E7%90%B4%E5%AE%B6%E7%8E%8B%E7%BE%BD%E4%BD%B3%E5%8C%97%E4%BA%AC%E5%B7%A1%E6%BC%94%E5%9B%A0-%E6%9C%AA%E8%AA%BF%E6%95%B4%E5%88%B0%E6%9C%80%E4%BD%B3%E7%8B%80%E6%85%8B-%E9%81%B2%E5%88%B0-%E5%85%A8%E5%A0%B4%E5%91%86%E7%AD%8917%E5%88%86%E9%90%98",
     "timestamp": "2026-11-18T02:22:59.151Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳辭職｜英偉達董事會堅拒黃仁勳回歸　主動對華停售授權產品",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197872551527714816721483.jpeg/FhJvMjMx0_BNzf4JG0XztVfvEfivB6hhA1EviQNRL4k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412024/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BE%AD%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E5%A0%85%E6%8B%92%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E6%AD%B8-%E4%B8%BB%E5%8B%95%E5%B0%8D%E8%8F%AF%E5%81%9C%E5%94%AE%E6%8E%88%E6%AC%8A%E7%94%A2%E5%93%81",
-    "timestamp": "2026-11-18T01:59:17.527Z",
     "strategy": ".content-card__main"
   }
 ];
