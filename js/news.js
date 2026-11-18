@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T14:40:16.371Z
+// Last updated: 2026-11-18T15:20:06.804Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樂星、Vootic疑走數｜員工親述突被指示收舖　同遭拖糧欠寄賣款項",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199809166831521792934816.jpeg/mHaqGUJRykgpi9NyDk5OTB3i5fj6BszYwwxeAMMMXgA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412426/%E6%A8%82%E6%98%9F-vootic%E7%96%91%E8%B5%B0%E6%95%B8-%E5%93%A1%E5%B7%A5%E8%A6%AA%E8%BF%B0%E7%AA%81%E8%A2%AB%E6%8C%87%E7%A4%BA%E6%94%B6%E8%88%96-%E5%90%8C%E9%81%AD%E6%8B%96%E7%B3%A7%E6%AC%A0%E5%AF%84%E8%B3%A3%E6%AC%BE%E9%A0%85",
+    "timestamp": "2026-11-18T15:20:06.804Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李佳芯挑戰地獄二揀一　出軌男定爛賭二？　衰男人吸引過蠢男人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199717340887912448157384.png/3JDxqoZlPUjvL6QI6eH0X0eeCwD9zccYyUNdSclDXUk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412167/%E9%A8%99%E5%BE%92%E6%BD%9B%E5%8C%B9%E5%85%8B%E7%90%83%E9%81%8B%E5%8B%95%E7%BE%A4%E7%B5%84-%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%80%80%E4%BC%91%E9%AB%98%E5%B1%A4%E5%A2%AE%E6%8A%95%E8%B3%87%E9%A8%99%E5%B1%80-%E8%A2%AB%E5%91%83-600%E8%90%AC",
     "timestamp": "2026-11-18T07:32:52.134Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "幫手搵人︱跑馬地77歲黃木榮離開禮頓道院舍後失蹤　職員報警尋人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199729457678520320163047.jpeg/Se2VcgPE83xPq0tP5oHAEkMzV4iHZF8BeE-4ZnhPuGY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412197/%E5%B9%AB%E6%89%8B%E6%90%B5%E4%BA%BA-%E8%B7%91%E9%A6%AC%E5%9C%B077%E6%AD%B2%E9%BB%83%E6%9C%A8%E6%A6%AE%E9%9B%A2%E9%96%8B%E7%A6%AE%E9%A0%93%E9%81%93%E9%99%A2%E8%88%8D%E5%BE%8C%E5%A4%B1%E8%B9%A4-%E8%81%B7%E5%93%A1%E5%A0%B1%E8%AD%A6%E5%B0%8B%E4%BA%BA",
-    "timestamp": "2026-11-18T06:50:55.932Z",
     "strategy": ".content-card__main"
   }
 ];
