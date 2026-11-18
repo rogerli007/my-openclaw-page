@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T10:45:47.658Z
+// Last updated: 2026-11-18T10:59:05.885Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "泰國總理阿努廷受訪大講廣東話　返鄉好開心但嘆冇時間｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199783739056459776201678.png/gpjau6UYh0l1JnCT5a22ti8KTGHAkrexl7Abb5ewG28",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412362/%E6%B3%B0%E5%9C%8B%E7%B8%BD%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E5%8F%97%E8%A8%AA%E5%A4%A7%E8%AC%9B%E5%BB%A3%E6%9D%B1%E8%A9%B1-%E8%BF%94%E9%84%89%E5%A5%BD%E9%96%8B%E5%BF%83%E4%BD%86%E5%98%86%E5%86%87%E6%99%82%E9%96%93-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-18T10:59:05.885Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Jrink尖沙咀店將結業　12年前大坑拼配茶起家　下周派周年紀念品",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199688628750520320084752.jpeg/0wAWaMDJ1E2-Hy2-Dv8cE0KqIPYEcnflL8NiZS_DYmU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412055/%E7%83%8F%E5%85%8B%E8%98%AD%E8%A5%B2%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9E%E5%A4%A7%E6%A9%8B-%E6%8B%B1%E9%96%80%E5%80%92%E5%A1%8C%E5%A2%9C%E6%B5%B7-%E4%BF%84%E6%96%B9-2%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-11-18T03:45:42.530Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜樓下裝修工疑鑿穿喉反屈樓上漏水　樓上企硬：我哋冇錯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199465154689896448539268.jpeg/wXrS0hL_txVuY5IyXV78EtpCJKMG1m2s2HpcFth6XBY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60411954/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%A8%93%E4%B8%8B%E8%A3%9D%E4%BF%AE%E5%B7%A5%E7%96%91%E9%91%BF%E7%A9%BF%E5%96%89%E5%8F%8D%E5%B1%88%E6%A8%93%E4%B8%8A%E6%BC%8F%E6%B0%B4-%E6%A8%93%E4%B8%8A%E4%BC%81%E7%A1%AC-%E6%88%91%E5%93%8B%E5%86%87%E9%8C%AF",
-    "timestamp": "2026-11-18T03:34:03.428Z",
     "strategy": ".content-card__main"
   }
 ];
