@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T12:38:32.127Z
+// Last updated: 2026-11-19T13:20:09.247Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "IVE張員瑛旋風襲港曬迪士尼靚相　身後窗簾離奇變形遭質疑P圖過度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200124975206371328071438.jpeg/uB2mBPi7BOzKCz1DRrscFNjffYlj6-91ZbyYV2W8mFc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412663/ive%E5%BC%B5%E5%93%A1%E7%91%9B%E6%97%8B%E9%A2%A8%E8%A5%B2%E6%B8%AF%E6%9B%AC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%9D%9A%E7%9B%B8-%E8%BA%AB%E5%BE%8C%E7%AA%97%E7%B0%BE%E9%9B%A2%E5%A5%87%E8%AE%8A%E5%BD%A2%E9%81%AD%E8%B3%AA%E7%96%91p%E5%9C%96%E9%81%8E%E5%BA%A6",
+    "timestamp": "2026-11-19T13:20:09.247Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「金融科技前瞻研討會暨01金融科技卓領大獎頒獎禮2026」圓滿舉行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200067407146651648920736.jpeg/VK-7azjBO9cTY4kwy2Wo3mmilSfJKZYTA22JtQNtibU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60412616/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E5%AE%AE%E5%B4%8E%E5%8F%8B%E8%8A%B1%E6%8C%AB%E9%82%B1%E5%93%81%E8%92%A8%E9%80%A3%E7%BA%8C3%E5%B9%B4%E5%85%A58%E5%BC%B7-%E5%8A%9B%E7%88%AD%E8%B6%85%E7%B4%9A500%E9%8C%A6%E6%A8%99",
     "timestamp": "2026-11-19T05:45:41.985Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台料周六分區10℃　保暖6禁忌　醫生：搓手腳無用恐致心肌梗塞",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200074720993611776907685.jpeg/FKs9lqaSFeARnq1nKlHz0p4uUxrJaJsqk1QBEJNUARA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60412520/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E5%85%AD%E5%88%86%E5%8D%8010-%E4%BF%9D%E6%9A%966%E7%A6%81%E5%BF%8C-%E9%86%AB%E7%94%9F-%E6%90%93%E6%89%8B%E8%85%B3%E7%84%A1%E7%94%A8%E6%81%90%E8%87%B4%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E",
-    "timestamp": "2026-11-19T05:21:03.533Z",
     "strategy": ".content-card__main"
   }
 ];
