@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T09:45:25.994Z
+// Last updated: 2026-11-19T09:59:19.391Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "信置夥鷹君26.88億中標市建局土瓜灣道/榮光街項目",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220629/618874580643090432058193.png/k8ap_sgC0lVSHI-xNABSaupQmqNZuuceWDtX_Vg7V_0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60412796/%E4%BF%A1%E7%BD%AE%E5%A4%A5%E9%B7%B9%E5%90%9B26-88%E5%84%84%E4%B8%AD%E6%A8%99%E5%B8%82%E5%BB%BA%E5%B1%80%E5%9C%9F%E7%93%9C%E7%81%A3%E9%81%93-%E6%A6%AE%E5%85%89%E8%A1%97%E9%A0%85%E7%9B%AE",
+    "timestamp": "2026-11-19T09:59:19.391Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "窩打老道的士司機與女乘客爭執報警　司機發文指醉酒女狂喝令減速",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200030715039715328452098.jpeg/H7l5sSTOa4W_FPSczRHSPQD8p-_pNcDj9vsHtPb7B7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60412508/%E5%BB%A3%E6%9D%B1%E6%AD%8C%E6%AE%BA%E5%85%A5gta-6-%E6%9E%97%E5%AD%90%E7%A5%A5-%E6%95%A2%E6%84%9B%E6%95%A2%E5%81%9A-%E6%AE%BA%E5%85%A5%E9%81%8A%E6%88%B2%E9%9B%BB%E5%8F%B0%E6%8F%9A%E5%A8%81%E6%B5%B7%E5%A4%96",
     "timestamp": "2026-11-19T02:23:57.666Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "01直擊｜深圳大芬村特朗普畫像成打卡點？畫家：盼他本人親眼見到",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199905944377495552608751.png/WsPuNVDTMKHOZiJI-laIxMcE8WjYZV-WSEvy8khL8vI",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60412447/01%E7%9B%B4%E6%93%8A-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E8%8A%AC%E6%9D%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%AB%E5%83%8F%E6%88%90%E6%89%93%E5%8D%A1%E9%BB%9E-%E7%95%AB%E5%AE%B6-%E7%9B%BC%E4%BB%96%E6%9C%AC%E4%BA%BA%E8%A6%AA%E7%9C%BC%E8%A6%8B%E5%88%B0",
-    "timestamp": "2026-11-19T01:48:27.083Z",
     "strategy": ".content-card__main"
   }
 ];
