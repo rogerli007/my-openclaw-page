@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T09:59:19.391Z
+// Last updated: 2026-11-19T10:20:04.037Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB台慶2026紅地氈二｜一文睇靚相　李芷晴葉蒨文騷胸硬撼廖慧儀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200149818928795648869430.jpeg/JTlXj8z9R7A8AIc_q301GanDtL87cpht-Yp6StyKeko?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412803/tvb%E5%8F%B0%E6%85%B62026%E7%B4%85%E5%9C%B0%E6%B0%88%E4%BA%8C-%E4%B8%80%E6%96%87%E7%9D%87%E9%9D%9A%E7%9B%B8-%E6%9D%8E%E8%8A%B7%E6%99%B4%E8%91%89%E8%92%A8%E6%96%87%E9%A8%B7%E8%83%B8%E7%A1%AC%E6%92%BC%E5%BB%96%E6%85%A7%E5%84%80",
+    "timestamp": "2026-11-19T10:20:04.037Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "信置夥鷹君26.88億中標市建局土瓜灣道/榮光街項目",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199788167197102080156480.png/Z6pH-0T3XAAioZ7eFf8dT_10vdQ9f8ytQBuRUkAbkVI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412324/%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA-%E4%BB%BB%E6%99%82%E5%AE%8C%E6%BC%94%E6%B4%BB%E9%AB%98%E5%86%B7%E8%B2%A1%E9%96%A5-%E6%93%BA%E8%84%AB%E8%80%81%E5%9C%9F%E9%AB%98%E4%B8%AD%E7%94%9F%E5%91%B3%E8%A2%AB%E8%AE%9A%E5%8A%87%E6%8B%8B%E8%87%89",
     "timestamp": "2026-11-19T02:36:34.482Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣東歌殺入GTA 6！林子祥《敢愛敢做》殺入遊戲電台揚威海外",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200030715039715328452098.jpeg/H7l5sSTOa4W_FPSczRHSPQD8p-_pNcDj9vsHtPb7B7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60412508/%E5%BB%A3%E6%9D%B1%E6%AD%8C%E6%AE%BA%E5%85%A5gta-6-%E6%9E%97%E5%AD%90%E7%A5%A5-%E6%95%A2%E6%84%9B%E6%95%A2%E5%81%9A-%E6%AE%BA%E5%85%A5%E9%81%8A%E6%88%B2%E9%9B%BB%E5%8F%B0%E6%8F%9A%E5%A8%81%E6%B5%B7%E5%A4%96",
-    "timestamp": "2026-11-19T02:23:57.666Z",
     "strategy": ".content-card__main"
   }
 ];
