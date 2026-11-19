@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T04:21:55.641Z
+// Last updated: 2026-11-19T04:45:36.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "元朗花海免費睇｜歐洲童話波斯菊！$0入場泊車　交通花期攻略",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200067236434284544865023.jpeg/Buqr3x3MBH7Jg8GkA7ZUkZNrzFaOQe-tPQtpyD0Lacg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60412546/%E5%85%83%E6%9C%97%E8%8A%B1%E6%B5%B7%E5%85%8D%E8%B2%BB%E7%9D%87-%E6%AD%90%E6%B4%B2%E7%AB%A5%E8%A9%B1%E6%B3%A2%E6%96%AF%E8%8F%8A-0%E5%85%A5%E5%A0%B4%E6%B3%8A%E8%BB%8A-%E4%BA%A4%E9%80%9A%E8%8A%B1%E6%9C%9F%E6%94%BB%E7%95%A5",
+    "timestamp": "2026-11-19T04:45:36.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "好人好事．有片｜火炭男子OT外出食飯變救火　邊拍片邊淡定灌救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173247770190942208290467.jpeg/zjP-9w39ncBvCu1YDkg8E2gJBMIzL4gKoyWs_6MlrP8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412455/%E7%BE%8E%E5%9C%8B%E7%89%B9%E4%BD%BF%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E5%BA%AB%E4%BB%80%E7%B4%8D%E5%B0%87%E6%8A%B5%E6%9F%8F%E6%9E%97-%E6%99%A4%E7%83%8F%E5%85%8B%E8%98%AD%E8%88%87%E6%AD%90%E6%B4%B2%E8%AB%87%E5%88%A4%E5%9C%98%E9%9A%8A",
     "timestamp": "2026-11-18T20:20:21.036Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美防長突訪委內瑞拉　宣布兩國達成新軍事合作協議涉情報共享",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199925864356122624451832.jpeg/w1l8jZxfRTwEWkaDsfIpdKUQ_QyJQCY2V1i4SldYuEo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412454/%E7%BE%8E%E9%98%B2%E9%95%B7%E7%AA%81%E8%A8%AA%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89-%E5%AE%A3%E5%B8%83%E5%85%A9%E5%9C%8B%E9%81%94%E6%88%90%E6%96%B0%E8%BB%8D%E4%BA%8B%E5%90%88%E4%BD%9C%E5%8D%94%E8%AD%B0%E6%B6%89%E6%83%85%E5%A0%B1%E5%85%B1%E4%BA%AB",
-    "timestamp": "2026-11-18T19:59:16.772Z",
     "strategy": ".content-card__main"
   }
 ];
