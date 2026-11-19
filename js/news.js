@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T18:46:00.246Z
+// Last updated: 2026-11-19T18:59:27.590Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國總理：雅爾塔模式無法為烏克蘭帶來和平　歐洲不接受再分裂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200271576071671808247396.jpeg/ZE-EmzAtfp3_1MJF-BEDvl4x588klIfuY4w8kWOMPJE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412934/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86-%E9%9B%85%E7%88%BE%E5%A1%94%E6%A8%A1%E5%BC%8F%E7%84%A1%E6%B3%95%E7%82%BA%E7%83%8F%E5%85%8B%E8%98%AD%E5%B8%B6%E4%BE%86%E5%92%8C%E5%B9%B3-%E6%AD%90%E6%B4%B2%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%86%8D%E5%88%86%E8%A3%82",
+    "timestamp": "2026-11-19T18:59:27.590Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國總理：雅爾塔模式無法為烏克蘭帶來和平　歐洲不接受再分裂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250714/1021470891512434688827413.jpeg/pVyFx_05pyj6QxKzZPTi2ExZg6wpycIfa6ZQJl2mUCY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412891/%E4%B8%AD%E7%92%B0%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%A9%A6%E7%96%91%E6%8C%81%E5%81%87%E6%96%87%E4%BB%B6%E8%A2%AB%E6%8D%95-%E6%93%9A%E6%82%89%E8%A6%81%E6%B1%82%E8%BD%89%E9%8C%A2-390%E5%84%84",
     "timestamp": "2026-11-19T13:45:46.959Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "IVE張員瑛旋風襲港曬迪士尼靚相　身後窗簾離奇變形遭質疑P圖過度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200124975206371328071438.jpeg/uB2mBPi7BOzKCz1DRrscFNjffYlj6-91ZbyYV2W8mFc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412663/ive%E5%BC%B5%E5%93%A1%E7%91%9B%E6%97%8B%E9%A2%A8%E8%A5%B2%E6%B8%AF%E6%9B%AC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%9D%9A%E7%9B%B8-%E8%BA%AB%E5%BE%8C%E7%AA%97%E7%B0%BE%E9%9B%A2%E5%A5%87%E8%AE%8A%E5%BD%A2%E9%81%AD%E8%B3%AA%E7%96%91p%E5%9C%96%E9%81%8E%E5%BA%A6",
-    "timestamp": "2026-11-19T13:20:09.247Z",
     "strategy": ".content-card__main"
   }
 ];
