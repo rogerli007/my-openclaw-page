@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T19:29:53.591Z
+// Last updated: 2026-11-19T19:59:05.535Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：不會就伊朗問題倉促做決定　將觀察新年後局勢發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199735494456381440470325.jpeg/B5vWuLTA4WtawCo_Jy0cGWjgNTpWiTk342R8j-NkfI8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412935/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E6%9C%83%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E5%80%89%E4%BF%83%E5%81%9A%E6%B1%BA%E5%AE%9A-%E5%B0%87%E8%A7%80%E5%AF%9F%E6%96%B0%E5%B9%B4%E5%BE%8C%E5%B1%80%E5%8B%A2%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-11-19T19:59:05.535Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國總理：雅爾塔模式無法為烏克蘭帶來和平　歐洲不接受再分裂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200215796354125824028397.jpeg/lVuyGfKzmSttrWQr2yEfRI4ml8eCQsaTnmn6lJ5p-pQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412907/%E8%A8%B1%E5%BF%97%E5%AE%89%E8%99%9B%E5%BF%83%E6%84%9F%E8%AC%9D%E5%91%A8%E5%95%9F%E7%94%9F%E6%89%B9%E8%A9%95%E7%88%B5%E5%A3%AB%E6%BC%94%E5%94%B1%E6%9C%83-%E4%B8%8B%E6%AC%A1%E5%8A%AA%E5%8A%9B%E5%B8%8C%E6%9C%9B%E5%94%94%E4%BB%A4%E4%BD%A2%E5%A4%B1%E6%9C%9B",
     "timestamp": "2026-11-19T14:45:32.581Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "韓資深女星裴宗玉怒斥後輩工作態度差　宋慧喬超敬業舉動成示範",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200144376693526528273645.png/slDp8JEqpnTh2PzDVYbHHEWaXvEdtHfHz9TYK8_U2Cs",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412788/%E9%9F%93%E8%B3%87%E6%B7%B1%E5%A5%B3%E6%98%9F%E8%A3%B4%E5%AE%97%E7%8E%89%E6%80%92%E6%96%A5%E5%BE%8C%E8%BC%A9%E5%B7%A5%E4%BD%9C%E6%85%8B%E5%BA%A6%E5%B7%AE-%E5%AE%8B%E6%85%A7%E5%96%AC%E8%B6%85%E6%95%AC%E6%A5%AD%E8%88%89%E5%8B%95%E6%88%90%E7%A4%BA%E7%AF%84",
-    "timestamp": "2026-11-19T14:20:52.647Z",
     "strategy": ".content-card__main"
   }
 ];
