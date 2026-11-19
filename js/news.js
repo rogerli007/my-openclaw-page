@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T20:45:25.622Z
+// Last updated: 2026-11-19T20:58:58.330Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地男子街頭暈倒　朋友報警　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200298686102376448042518.jpeg/KWla63Papw3LivNPagO9kkgfaxkUyvbgubdrTbm3a00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412936/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E8%AD%A6-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-11-19T20:58:58.330Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地男子街頭暈倒　朋友報警　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200146074572951552297531.jpeg/kO6YZOY-JeOPwc1rU5jHWmBRFNiQ_USPRDxcwkQ8XMI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60412743/%E7%B4%90%E7%B4%84%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90%E7%A0%8D%E7%88%B6%E5%BE%8C%E6%8C%81%E5%88%80%E9%80%BC%E8%BF%91%E8%AD%A6%E5%AF%9F%E9%81%AD%E6%93%8A%E6%96%83-%E5%9F%B7%E6%B3%95%E9%8C%84%E5%83%8F%E6%9B%9D%E5%85%89%E8%A1%80%E6%9F%93%E6%A2%AF%E9%96%93",
     "timestamp": "2026-11-19T15:45:32.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀冬日小鎮揭幕第二日人頭湧　江西旅客讚光影匯氣氛更勝內地",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200211004445691904157482.jpeg/m0VgAgBwXebXjUG0UA4EaYqldlPfWO3gND16FjQ9ehY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412903/%E5%B0%96%E6%B2%99%E5%92%80%E5%86%AC%E6%97%A5%E5%B0%8F%E9%8E%AE%E6%8F%AD%E5%B9%95%E7%AC%AC%E4%BA%8C%E6%97%A5%E4%BA%BA%E9%A0%AD%E6%B9%A7-%E6%B1%9F%E8%A5%BF%E6%97%85%E5%AE%A2%E8%AE%9A%E5%85%89%E5%BD%B1%E5%8C%AF%E6%B0%A3%E6%B0%9B%E6%9B%B4%E5%8B%9D%E5%85%A7%E5%9C%B0",
-    "timestamp": "2026-11-19T15:30:02.357Z",
     "strategy": ".content-card__main"
   }
 ];
