@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T04:45:36.018Z
+// Last updated: 2026-11-19T04:59:16.485Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台北女童16年前跨年倒數離奇失蹤！網民用AI製「20歲照片」助尋人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200054652079443968074512.jpeg/-AAiytNZM424B6cqj2PJgM6qdWSBiN3RzjhW0c44VtE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60412558/%E5%8F%B0%E5%8C%97%E5%A5%B3%E7%AB%A516%E5%B9%B4%E5%89%8D%E8%B7%A8%E5%B9%B4%E5%80%92%E6%95%B8%E9%9B%A2%E5%A5%87%E5%A4%B1%E8%B9%A4-%E7%B6%B2%E6%B0%91%E7%94%A8ai%E8%A3%BD-20%E6%AD%B2%E7%85%A7%E7%89%87-%E5%8A%A9%E5%B0%8B%E4%BA%BA",
+    "timestamp": "2026-11-19T04:59:16.485Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "元朗花海免費睇｜歐洲童話波斯菊！$0入場泊車　交通花期攻略",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
     "timestamp": "2026-11-18T20:45:04.946Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國特使威特科夫庫什納將抵柏林　晤烏克蘭與歐洲談判團隊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260906/1173247770190942208290467.jpeg/zjP-9w39ncBvCu1YDkg8E2gJBMIzL4gKoyWs_6MlrP8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412455/%E7%BE%8E%E5%9C%8B%E7%89%B9%E4%BD%BF%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E5%BA%AB%E4%BB%80%E7%B4%8D%E5%B0%87%E6%8A%B5%E6%9F%8F%E6%9E%97-%E6%99%A4%E7%83%8F%E5%85%8B%E8%98%AD%E8%88%87%E6%AD%90%E6%B4%B2%E8%AB%87%E5%88%A4%E5%9C%98%E9%9A%8A",
-    "timestamp": "2026-11-18T20:20:21.036Z",
     "strategy": ".content-card__main"
   }
 ];
