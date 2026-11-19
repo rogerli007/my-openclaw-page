@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T10:59:08.746Z
+// Last updated: 2026-11-19T11:19:46.789Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《GTA 6》鎖30FPS有得救！免費補幀軟件設定教學：最高推上240FPS",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200152594509467648678590.jpeg/59VEC-3NBkZIlPG5acnYC7Z57FazFif93GoPftxqD34",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60412781/gta-6-%E9%8E%9630fps%E6%9C%89%E5%BE%97%E6%95%91-%E5%85%8D%E8%B2%BB%E8%A3%9C%E5%B9%80%E8%BB%9F%E4%BB%B6%E8%A8%AD%E5%AE%9A%E6%95%99%E5%AD%B8-%E6%9C%80%E9%AB%98%E6%8E%A8%E4%B8%8A240fps",
+    "timestamp": "2026-11-19T11:19:46.789Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中俄美元首和平宣言：三國元首重申核戰爭打不贏也打不得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200052429731663872745623.jpeg/iY84BS-t95FBJbMkiOvts3MlEAAXVsY5bt1J2m7dSdo",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412570/%E5%A5%BD%E4%BA%BA%E5%A5%BD%E4%BA%8B-%E6%9C%89%E7%89%87-%E7%81%AB%E7%82%AD%E7%94%B7%E5%AD%90ot%E5%A4%96%E5%87%BA%E9%A3%9F%E9%A3%AF%E8%AE%8A%E6%95%91%E7%81%AB-%E9%82%8A%E6%8B%8D%E7%89%87%E9%82%8A%E6%B7%A1%E5%AE%9A%E7%81%8C%E6%95%91",
     "timestamp": "2026-11-19T04:21:55.641Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC深圳｜與會領袖披「鯤鵬展翅」圍巾合照　李家超佩紅色",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200051545610129408245071.jpeg/KcSbPABHqj2fNSx0tCQK0l-qgemIKcZs2GZUqdhmVKk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60412578/apec%E6%B7%B1%E5%9C%B3-%E8%88%87%E6%9C%83%E9%A0%98%E8%A2%96%E6%8A%AB-%E9%AF%A4%E9%B5%AC%E5%B1%95%E7%BF%85-%E5%9C%8D%E5%B7%BE%E5%90%88%E7%85%A7-%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%BD%A9%E7%B4%85%E8%89%B2",
-    "timestamp": "2026-11-19T03:59:03.868Z",
     "strategy": ".content-card__main"
   }
 ];
