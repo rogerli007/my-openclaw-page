@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T08:59:01.512Z
+// Last updated: 2026-11-19T09:21:49.583Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "藍田啓田道聖公會基孝中學疑有「尿袋」起火　14歲男學生燒傷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200135128026714112875642.jpeg/9biQ1yqgYu6unWaefq52cfI87Uh86Fzr7KW5acmluWk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412763/%E8%97%8D%E7%94%B0%E5%95%93%E7%94%B0%E9%81%93%E8%81%96%E5%85%AC%E6%9C%83%E5%9F%BA%E5%AD%9D%E4%B8%AD%E5%AD%B8%E7%96%91%E6%9C%89-%E5%B0%BF%E8%A2%8B-%E8%B5%B7%E7%81%AB-14%E6%AD%B2%E7%94%B7%E5%AD%B8%E7%94%9F%E7%87%92%E5%82%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-11-19T09:21:49.583Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC｜特朗普訪華最後一日　金正恩南下　韓媒：仍不排除會晤可能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199763520510496768860419.jpeg/mBhQGGafJAXf0aSJX6VhfySZ_0xoxvSRoYqAz6GKgM8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60401286/%E7%99%BE%E9%81%94%E7%BF%A1%E9%BA%97pp%E5%85%A9%E4%BB%A3%E6%98%9F%E7%A9%BA%E9%8C%B6%E5%85%A8%E6%AF%94%E5%B0%8D-6105%E6%97%A5%E5%87%BA%E6%97%A5%E8%90%BD%E6%96%B0%E5%8A%9F%E8%83%BD%E7%B2%BE%E5%BA%A6%E7%A2%BE%E5%A3%93%E5%90%8C%E7%B4%9A",
     "timestamp": "2026-11-19T01:20:16.493Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC｜習近平晚宴與台代表施振榮握手合影　現場播歌曲《高山青》",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200006028616273920381907.png/XUSoN7S30kvJzoToqiOKPbyV6apeYDzBab75g2m--YM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60412474/apec-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%9A%E5%AE%B4%E8%88%87%E5%8F%B0%E4%BB%A3%E8%A1%A8%E6%96%BD%E6%8C%AF%E6%A6%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1-%E7%8F%BE%E5%A0%B4%E6%92%AD%E6%AD%8C%E6%9B%B2-%E9%AB%98%E5%B1%B1%E9%9D%92",
-    "timestamp": "2026-11-19T00:58:37.210Z",
     "strategy": ".content-card__main"
   }
 ];
