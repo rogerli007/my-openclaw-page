@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T13:59:13.456Z
+// Last updated: 2026-11-19T14:20:52.647Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "韓資深女星裴宗玉怒斥後輩工作態度差　宋慧喬超敬業舉動成示範",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200144376693526528273645.png/slDp8JEqpnTh2PzDVYbHHEWaXvEdtHfHz9TYK8_U2Cs",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412788/%E9%9F%93%E8%B3%87%E6%B7%B1%E5%A5%B3%E6%98%9F%E8%A3%B4%E5%AE%97%E7%8E%89%E6%80%92%E6%96%A5%E5%BE%8C%E8%BC%A9%E5%B7%A5%E4%BD%9C%E6%85%8B%E5%BA%A6%E5%B7%AE-%E5%AE%8B%E6%85%A7%E5%96%AC%E8%B6%85%E6%95%AC%E6%A5%AD%E8%88%89%E5%8B%95%E6%88%90%E7%A4%BA%E7%AF%84",
+    "timestamp": "2026-11-19T14:20:52.647Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "六合彩11.24頭獎6800萬攪珠前攻略！6個最旺號碼+2招增中獎機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200105041424289792652817.jpeg/TkRX_wkpeOl8ws_OTIATRJBfF3ET5Xo4i9o76YvaO-k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412685/%E5%AE%B9%E7%A5%96%E5%85%92-%E9%84%A7%E7%B4%AB%E6%A3%8B%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%81%A9%E5%B8%AB%E6%A2%81%E6%9C%88%E7%8E%B2%E9%9B%A2%E4%B8%96-%E9%A6%99%E6%B8%AF%E6%A8%82%E5%A3%87%E7%97%9B%E5%A4%B1%E5%B9%95%E5%BE%8C%E5%8A%9F%E8%87%A3",
     "timestamp": "2026-11-19T07:21:49.002Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜鄺港智指蔡為錢下嫁譚方駿　形容三人關係複雜但可接受",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230310/710879488624431104381427.jpeg/uOdDVRYzXtNBuG-eMffPmdAzBSEN8fCuqXP9jqlz_Y4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412660/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E6%99%BA%E6%8C%87%E8%94%A1%E7%82%BA%E9%8C%A2%E4%B8%8B%E5%AB%81%E8%AD%9A%E6%96%B9%E9%A7%BF-%E5%BD%A2%E5%AE%B9%E4%B8%89%E4%BA%BA%E9%97%9C%E4%BF%82%E8%A4%87%E9%9B%9C%E4%BD%86%E5%8F%AF%E6%8E%A5%E5%8F%97",
-    "timestamp": "2026-11-19T06:51:29.280Z",
     "strategy": ".content-card__main"
   }
 ];
