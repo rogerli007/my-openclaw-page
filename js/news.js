@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T11:19:46.789Z
+// Last updated: 2026-11-19T11:45:16.070Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俞可程被爆搭上《魔音女團》導演捲搞人夫疑雲　莊子璇開腔爆料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200169712063877120271694.jpeg/aTA_ShL88_gSzZzldPe_ztNsJXpSMOQGwXWkaPt1pGg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412856/%E4%BF%9E%E5%8F%AF%E7%A8%8B%E8%A2%AB%E7%88%86%E6%90%AD%E4%B8%8A-%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-%E5%B0%8E%E6%BC%94%E6%8D%B2%E6%90%9E%E4%BA%BA%E5%A4%AB%E7%96%91%E9%9B%B2-%E8%8E%8A%E5%AD%90%E7%92%87%E9%96%8B%E8%85%94%E7%88%86%E6%96%99",
+    "timestamp": "2026-11-19T11:45:16.070Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《GTA 6》鎖30FPS有得救！免費補幀軟件設定教學：最高推上240FPS",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200067236434284544865023.jpeg/Buqr3x3MBH7Jg8GkA7ZUkZNrzFaOQe-tPQtpyD0Lacg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60412546/%E5%85%83%E6%9C%97%E8%8A%B1%E6%B5%B7%E5%85%8D%E8%B2%BB%E7%9D%87-%E6%AD%90%E6%B4%B2%E7%AB%A5%E8%A9%B1%E6%B3%A2%E6%96%AF%E8%8F%8A-0%E5%85%A5%E5%A0%B4%E6%B3%8A%E8%BB%8A-%E4%BA%A4%E9%80%9A%E8%8A%B1%E6%9C%9F%E6%94%BB%E7%95%A5",
     "timestamp": "2026-11-19T04:45:36.018Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "好人好事．有片｜火炭男子OT外出食飯變救火　邊拍片邊淡定灌救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200052429731663872745623.jpeg/iY84BS-t95FBJbMkiOvts3MlEAAXVsY5bt1J2m7dSdo",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412570/%E5%A5%BD%E4%BA%BA%E5%A5%BD%E4%BA%8B-%E6%9C%89%E7%89%87-%E7%81%AB%E7%82%AD%E7%94%B7%E5%AD%90ot%E5%A4%96%E5%87%BA%E9%A3%9F%E9%A3%AF%E8%AE%8A%E6%95%91%E7%81%AB-%E9%82%8A%E6%8B%8D%E7%89%87%E9%82%8A%E6%B7%A1%E5%AE%9A%E7%81%8C%E6%95%91",
-    "timestamp": "2026-11-19T04:21:55.641Z",
     "strategy": ".content-card__main"
   }
 ];
