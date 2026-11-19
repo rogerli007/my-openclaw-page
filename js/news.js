@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T20:58:58.330Z
+// Last updated: 2026-11-19T21:19:24.797Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丹麥議會通過格陵蘭安全協議　擴大美國軍事准入範圍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179230764449927168495813.jpeg/qrwhRXlWsdYnN01qNzt3YZ8lVKsRQHx4wPrVkMD61ZA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412938/%E4%B8%B9%E9%BA%A5%E8%AD%B0%E6%9C%83%E9%80%9A%E9%81%8E%E6%A0%BC%E9%99%B5%E8%98%AD%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E6%93%B4%E5%A4%A7%E7%BE%8E%E5%9C%8B%E8%BB%8D%E4%BA%8B%E5%87%86%E5%85%A5%E7%AF%84%E5%9C%8D",
+    "timestamp": "2026-11-19T21:19:24.797Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地男子街頭暈倒　朋友報警　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198971119617445888094685.jpeg/AWGFzvYRY_cQBiFVo9c0ei7BUqgTVx98QaDMiUGgzIk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412919/%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90-%E8%8B%A5%E6%9C%89%E9%9C%80%E8%A6%81-%E9%A1%98%E5%86%8D%E6%AC%A1%E5%A0%B1%E5%90%8D%E5%8F%83%E8%BB%8D%E5%B0%8D%E6%8A%97%E4%BF%84%E7%BE%85%E6%96%AF",
     "timestamp": "2026-11-19T15:58:56.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "紐約華裔男子砍父後持刀逼近警察遭擊斃　執法錄像曝光血染梯間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200146074572951552297531.jpeg/kO6YZOY-JeOPwc1rU5jHWmBRFNiQ_USPRDxcwkQ8XMI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60412743/%E7%B4%90%E7%B4%84%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90%E7%A0%8D%E7%88%B6%E5%BE%8C%E6%8C%81%E5%88%80%E9%80%BC%E8%BF%91%E8%AD%A6%E5%AF%9F%E9%81%AD%E6%93%8A%E6%96%83-%E5%9F%B7%E6%B3%95%E9%8C%84%E5%83%8F%E6%9B%9D%E5%85%89%E8%A1%80%E6%9F%93%E6%A2%AF%E9%96%93",
-    "timestamp": "2026-11-19T15:45:32.752Z",
     "strategy": ".content-card__main"
   }
 ];
