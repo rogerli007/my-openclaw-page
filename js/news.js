@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T23:29:27.763Z
+// Last updated: 2026-11-19T23:45:26.701Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中美「極致禮遇」背後，大國博弈走向何方？｜深圳APEC",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200100339236212736849567.jpeg/3QPVWN5U4rWJ-G7oGSdmc08ayfDwmj192kmzrtpJs64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60412759/%E4%B8%AD%E7%BE%8E-%E6%A5%B5%E8%87%B4%E7%A6%AE%E9%81%87-%E8%83%8C%E5%BE%8C-%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9-%E6%B7%B1%E5%9C%B3apec",
+    "timestamp": "2026-11-19T23:45:26.701Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飯後即刷牙反易爛牙！喝黑咖啡恐磨蝕琺瑯質　牙醫揭黃金護齒時間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412536/anthropic%E4%B8%8A%E5%B8%82-ant%E9%A6%96%E6%8E%9B%E9%AB%98%E9%96%8B34-%E9%9B%86%E8%B3%87%E9%A1%8D%E8%B6%85spacex%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo",
     "timestamp": "2026-11-19T17:59:15.689Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Anthropic上市｜ANT首掛高開34%！　集資額超SpaceX成史上最大IPO",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412536/anthropic%E4%B8%8A%E5%B8%82-ant%E9%A6%96%E6%8E%9B%E9%AB%98%E9%96%8B34-%E9%9B%86%E8%B3%87%E9%A1%8D%E8%B6%85spacex%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo",
-    "timestamp": "2026-11-19T17:45:32.933Z",
     "strategy": ".content-card__main"
   }
 ];
