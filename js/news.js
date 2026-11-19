@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-18T23:59:00.653Z
+// Last updated: 2026-11-19T00:37:53.556Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港大學站連續兩日信號故障　港島綫整體行車時間需額外5至8分鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199645962356658176437019.jpeg/Ms0ZfnYOzmHtzYapg_a99F6VMkrfIfiCkizbPJIs2zw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412472/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E4%BF%A1%E8%99%9F%E6%95%85%E9%9A%9C-%E6%B8%AF%E5%B3%B6%E7%B6%AB%E6%95%B4%E9%AB%94%E8%A1%8C%E8%BB%8A%E6%99%82%E9%96%93%E9%9C%80%E9%A1%8D%E5%A4%965%E8%87%B38%E5%88%86%E9%90%98",
+    "timestamp": "2026-11-19T00:37:53.556Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳APEC｜警拘20歲男涉未經許可禁飛區飛無人機　累計3人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199892021955792896128479.jpeg/Jpz7tldWJA5dOCs3EGDfznghOcRoeKnevghJUr4ISVI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412450/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BB%9F%E8%A1%97%E5%94%90%E6%A8%93%E5%96%AE%E4%BD%8D%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%AA%A2-50%E8%90%ACk%E4%BB%94%E5%92%8C%E5%8F%AF%E5%8D%A1%E5%9B%A0-25%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-18T17:45:51.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正因壓力爆煲裸辭：被星爺一句「靠你啦」壓垮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198329346910064640416083.jpeg/LZHBdsuZ28q5EIeIsvJKnPCSH3DFVeLlheIGxYXiBsU",
-    "url": "https://www.hk01.com/01TV/60410818/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E5%9B%A0%E5%A3%93%E5%8A%9B%E7%88%86%E7%85%B2%E8%A3%B8%E8%BE%AD-%E8%A2%AB%E6%98%9F%E7%88%BA%E4%B8%80%E5%8F%A5-%E9%9D%A0%E4%BD%A0%E5%95%A6-%E5%A3%93%E5%9E%AE",
-    "timestamp": "2026-11-18T17:19:25.468Z",
     "strategy": ".content-card__main"
   }
 ];
