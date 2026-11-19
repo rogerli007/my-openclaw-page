@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T05:21:03.533Z
+// Last updated: 2026-11-19T05:45:41.985Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "羽毛球香港賽︱宮崎友花挫邱品蒨連續3年入8強　力爭超級500錦標",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200067407146651648920736.jpeg/VK-7azjBO9cTY4kwy2Wo3mmilSfJKZYTA22JtQNtibU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60412616/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E5%AE%AE%E5%B4%8E%E5%8F%8B%E8%8A%B1%E6%8C%AB%E9%82%B1%E5%93%81%E8%92%A8%E9%80%A3%E7%BA%8C3%E5%B9%B4%E5%85%A58%E5%BC%B7-%E5%8A%9B%E7%88%AD%E8%B6%85%E7%B4%9A500%E9%8C%A6%E6%A8%99",
+    "timestamp": "2026-11-19T05:45:41.985Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台料周六分區10℃　保暖6禁忌　醫生：搓手腳無用恐致心肌梗塞",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
     "timestamp": "2026-11-18T21:19:18.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
-    "timestamp": "2026-11-18T20:59:05.198Z",
     "strategy": ".content-card__main"
   }
 ];
