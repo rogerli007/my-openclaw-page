@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T05:59:17.227Z
+// Last updated: 2026-11-19T06:51:29.280Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜鄺港智指蔡為錢下嫁譚方駿　形容三人關係複雜但可接受",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230310/710879488624431104381427.jpeg/uOdDVRYzXtNBuG-eMffPmdAzBSEN8fCuqXP9jqlz_Y4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412660/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E6%99%BA%E6%8C%87%E8%94%A1%E7%82%BA%E9%8C%A2%E4%B8%8B%E5%AB%81%E8%AD%9A%E6%96%B9%E9%A7%BF-%E5%BD%A2%E5%AE%B9%E4%B8%89%E4%BA%BA%E9%97%9C%E4%BF%82%E8%A4%87%E9%9B%9C%E4%BD%86%E5%8F%AF%E6%8E%A5%E5%8F%97",
+    "timestamp": "2026-11-19T06:51:29.280Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "山藥功效｜健脾補腎4類人不宜  揀山藥4招粗或幼好？與淮山3不同",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199966594701201408620478.jpeg/QsjQMxXQDr4nUV4H0O938o-4Z78AmJOsS1V1gUtVdYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60412448/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A9%E6%99%AE%E9%81%8D%E8%BC%83%E6%98%A8%E4%BD%8E%E5%85%A9%E4%B8%89%E5%BA%A6-%E6%99%9A%E4%B8%8A%E9%99%8D%E8%87%B318%E5%BA%A6-%E6%98%8E%E6%97%A9%E7%B4%8415%E5%BA%A6",
     "timestamp": "2026-11-18T22:45:39.194Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
-    "timestamp": "2026-11-18T21:59:16.489Z",
     "strategy": ".content-card__main"
   }
 ];
