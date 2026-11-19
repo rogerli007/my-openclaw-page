@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T16:45:33.274Z
+// Last updated: 2026-11-19T16:58:56.084Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC｜特朗普：有與習主席討論AI　雙方一致認為設部份限制是好事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200105216934940672764328.jpeg/vtvGl-816cRLS7EWVBj320EeULEXijAqLlFqLy5Rai8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412925/apec-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%9C%89%E8%88%87%E7%BF%92%E4%B8%BB%E5%B8%AD%E8%A8%8E%E8%AB%96ai-%E9%9B%99%E6%96%B9%E4%B8%80%E8%87%B4%E8%AA%8D%E7%82%BA%E8%A8%AD%E9%83%A8%E4%BB%BD%E9%99%90%E5%88%B6%E6%98%AF%E5%A5%BD%E4%BA%8B",
+    "timestamp": "2026-11-19T16:58:56.084Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB台慶2026｜黃劍文食雞髀失10萬眼泛淚光　羨慕肥媽地位超然",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200149818928795648869430.jpeg/JTlXj8z9R7A8AIc_q301GanDtL87cpht-Yp6StyKeko?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412803/tvb%E5%8F%B0%E6%85%B62026%E7%B4%85%E5%9C%B0%E6%B0%88%E4%BA%8C-%E4%B8%80%E6%96%87%E7%9D%87%E9%9D%9A%E7%9B%B8-%E6%9D%8E%E8%8A%B7%E6%99%B4%E8%91%89%E8%92%A8%E6%96%87%E9%A8%B7%E8%83%B8%E7%A1%AC%E6%92%BC%E5%BB%96%E6%85%A7%E5%84%80",
     "timestamp": "2026-11-19T10:20:04.037Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "信置夥鷹君26.88億中標市建局土瓜灣道/榮光街項目",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220629/618874580643090432058193.png/k8ap_sgC0lVSHI-xNABSaupQmqNZuuceWDtX_Vg7V_0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60412796/%E4%BF%A1%E7%BD%AE%E5%A4%A5%E9%B7%B9%E5%90%9B26-88%E5%84%84%E4%B8%AD%E6%A8%99%E5%B8%82%E5%BB%BA%E5%B1%80%E5%9C%9F%E7%93%9C%E7%81%A3%E9%81%93-%E6%A6%AE%E5%85%89%E8%A1%97%E9%A0%85%E7%9B%AE",
-    "timestamp": "2026-11-19T09:59:19.391Z",
     "strategy": ".content-card__main"
   }
 ];
