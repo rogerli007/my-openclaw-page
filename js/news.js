@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T13:20:09.247Z
+// Last updated: 2026-11-19T13:45:46.959Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中環滙豐銀行菲律賓婦疑持假文件被捕　據悉要求轉錢$390億",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250714/1021470891512434688827413.jpeg/pVyFx_05pyj6QxKzZPTi2ExZg6wpycIfa6ZQJl2mUCY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412891/%E4%B8%AD%E7%92%B0%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%A9%A6%E7%96%91%E6%8C%81%E5%81%87%E6%96%87%E4%BB%B6%E8%A2%AB%E6%8D%95-%E6%93%9A%E6%82%89%E8%A6%81%E6%B1%82%E8%BD%89%E9%8C%A2-390%E5%84%84",
+    "timestamp": "2026-11-19T13:45:46.959Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "IVE張員瑛旋風襲港曬迪士尼靚相　身後窗簾離奇變形遭質疑P圖過度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250702/1017135596147052544273648.jpeg/hQIzOuC0jEIz75GO2oJ5ShgXx4qUhjcInK7WzZyu1s0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60409585/%E5%B1%B1%E8%97%A5%E5%8A%9F%E6%95%88-%E5%81%A5%E8%84%BE%E8%A3%9C%E8%85%8E4%E9%A1%9E%E4%BA%BA%E4%B8%8D%E5%AE%9C-%E6%8F%80%E5%B1%B1%E8%97%A54%E6%8B%9B%E7%B2%97%E6%88%96%E5%B9%BC%E5%A5%BD-%E8%88%87%E6%B7%AE%E5%B1%B13%E4%B8%8D%E5%90%8C",
     "timestamp": "2026-11-19T05:59:17.227Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羽毛球香港賽︱宮崎友花挫邱品蒨連續3年入8強　力爭超級500錦標",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200067407146651648920736.jpeg/VK-7azjBO9cTY4kwy2Wo3mmilSfJKZYTA22JtQNtibU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60412616/%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A6%99%E6%B8%AF%E8%B3%BD-%E5%AE%AE%E5%B4%8E%E5%8F%8B%E8%8A%B1%E6%8C%AB%E9%82%B1%E5%93%81%E8%92%A8%E9%80%A3%E7%BA%8C3%E5%B9%B4%E5%85%A58%E5%BC%B7-%E5%8A%9B%E7%88%AD%E8%B6%85%E7%B4%9A500%E9%8C%A6%E6%A8%99",
-    "timestamp": "2026-11-19T05:45:41.985Z",
     "strategy": ".content-card__main"
   }
 ];
