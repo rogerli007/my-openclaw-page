@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T05:45:41.985Z
+// Last updated: 2026-11-19T05:59:17.227Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山藥功效｜健脾補腎4類人不宜  揀山藥4招粗或幼好？與淮山3不同",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250702/1017135596147052544273648.jpeg/hQIzOuC0jEIz75GO2oJ5ShgXx4qUhjcInK7WzZyu1s0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60409585/%E5%B1%B1%E8%97%A5%E5%8A%9F%E6%95%88-%E5%81%A5%E8%84%BE%E8%A3%9C%E8%85%8E4%E9%A1%9E%E4%BA%BA%E4%B8%8D%E5%AE%9C-%E6%8F%80%E5%B1%B1%E8%97%A54%E6%8B%9B%E7%B2%97%E6%88%96%E5%B9%BC%E5%A5%BD-%E8%88%87%E6%B7%AE%E5%B1%B13%E4%B8%8D%E5%90%8C",
+    "timestamp": "2026-11-19T05:59:17.227Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羽毛球香港賽︱宮崎友花挫邱品蒨連續3年入8強　力爭超級500錦標",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
     "timestamp": "2026-11-18T21:59:16.489Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
-    "timestamp": "2026-11-18T21:19:18.329Z",
     "strategy": ".content-card__main"
   }
 ];
