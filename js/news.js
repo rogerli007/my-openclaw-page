@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T00:37:53.556Z
+// Last updated: 2026-11-19T00:58:37.210Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC｜習近平晚宴與台代表施振榮握手合影　現場播歌曲《高山青》",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200006028616273920381907.png/XUSoN7S30kvJzoToqiOKPbyV6apeYDzBab75g2m--YM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60412474/apec-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%9A%E5%AE%B4%E8%88%87%E5%8F%B0%E4%BB%A3%E8%A1%A8%E6%96%BD%E6%8C%AF%E6%A6%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1-%E7%8F%BE%E5%A0%B4%E6%92%AD%E6%AD%8C%E6%9B%B2-%E9%AB%98%E5%B1%B1%E9%9D%92",
+    "timestamp": "2026-11-19T00:58:37.210Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港大學站連續兩日信號故障　港島綫整體行車時間需額外5至8分鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199892021955792896128479.jpeg/Jpz7tldWJA5dOCs3EGDfznghOcRoeKnevghJUr4ISVI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412450/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BB%9F%E8%A1%97%E5%94%90%E6%A8%93%E5%96%AE%E4%BD%8D%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%AA%A2-50%E8%90%ACk%E4%BB%94%E5%92%8C%E5%8F%AF%E5%8D%A1%E5%9B%A0-25%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-18T17:59:16.302Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地廟街唐樓單位淪毒品倉　警檢$50萬K仔和可卡因　25歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199892021955792896128479.jpeg/Jpz7tldWJA5dOCs3EGDfznghOcRoeKnevghJUr4ISVI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412450/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BB%9F%E8%A1%97%E5%94%90%E6%A8%93%E5%96%AE%E4%BD%8D%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%AA%A2-50%E8%90%ACk%E4%BB%94%E5%92%8C%E5%8F%AF%E5%8D%A1%E5%9B%A0-25%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-18T17:45:51.442Z",
     "strategy": ".content-card__main"
   }
 ];
