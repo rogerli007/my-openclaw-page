@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T16:31:51.872Z
+// Last updated: 2026-11-19T16:45:33.274Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB台慶2026｜黃劍文食雞髀失10萬眼泛淚光　羨慕肥媽地位超然",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200242095940440064821657.jpeg/0huynk0zdN3ZYBkZHib3jCXO2A-4kEV_HO9PQRzvT0E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412924/tvb%E5%8F%B0%E6%85%B62026-%E9%BB%83%E5%8A%8D%E6%96%87%E9%A3%9F%E9%9B%9E%E9%AB%80%E5%A4%B110%E8%90%AC%E7%9C%BC%E6%B3%9B%E6%B7%9A%E5%85%89-%E7%BE%A8%E6%85%95%E8%82%A5%E5%AA%BD%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6",
+    "timestamp": "2026-11-19T16:45:33.274Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB台慶2026｜黃劍文食雞髀失10萬眼泛淚光　羨慕肥媽地位超然",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220629/618874580643090432058193.png/k8ap_sgC0lVSHI-xNABSaupQmqNZuuceWDtX_Vg7V_0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60412796/%E4%BF%A1%E7%BD%AE%E5%A4%A5%E9%B7%B9%E5%90%9B26-88%E5%84%84%E4%B8%AD%E6%A8%99%E5%B8%82%E5%BB%BA%E5%B1%80%E5%9C%9F%E7%93%9C%E7%81%A3%E9%81%93-%E6%A6%AE%E5%85%89%E8%A1%97%E9%A0%85%E7%9B%AE",
     "timestamp": "2026-11-19T09:59:19.391Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "窩打老道的士司機與女乘客爭執報警　司機發文指醉酒女狂喝令減速",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200140370151739392971853.jpeg/Od9PeWxIMUJ65TE6fturalcwKZV2b44Tvmi1R75otUc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412740/%E7%AA%A9%E6%89%93%E8%80%81%E9%81%93%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E8%88%87%E5%A5%B3%E4%B9%98%E5%AE%A2%E7%88%AD%E5%9F%B7%E5%A0%B1%E8%AD%A6-%E5%8F%B8%E6%A9%9F%E7%99%BC%E6%96%87%E6%8C%87%E9%86%89%E9%85%92%E5%A5%B3%E7%8B%82%E5%96%9D%E4%BB%A4%E6%B8%9B%E9%80%9F",
-    "timestamp": "2026-11-19T09:45:25.994Z",
     "strategy": ".content-card__main"
   }
 ];
