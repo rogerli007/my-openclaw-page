@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T07:59:00.601Z
+// Last updated: 2026-11-19T08:24:10.598Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "今天是太陽雨｜董思成楊超越貼臉宣傳惹怒7年忠粉！引集體脫粉潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200102328078700544257430.png/yxAFdC8fE1m1aRptNmQjoK-MZ_JpI1FTbl6kmm5epJo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412611/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E8%91%A3%E6%80%9D%E6%88%90%E6%A5%8A%E8%B6%85%E8%B6%8A%E8%B2%BC%E8%87%89%E5%AE%A3%E5%82%B3%E6%83%B9%E6%80%927%E5%B9%B4%E5%BF%A0%E7%B2%89-%E5%BC%95%E9%9B%86%E9%AB%94%E8%84%AB%E7%B2%89%E6%BD%AE",
+    "timestamp": "2026-11-19T08:24:10.598Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬斯克稱踼走黃仁勳不智：如球隊連勝時將米高佐敦趕出球隊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199991381351731200957830.jpeg/fy3lzBLW1_KQFbQ0TbSoR35W0gETKRSb1TrXTtU6104?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412469/%E6%B7%B1%E5%9C%B3apec-%E8%AD%A6%E6%8B%9820%E6%AD%B2%E7%94%B7%E6%B6%89%E6%9C%AA%E7%B6%93%E8%A8%B1%E5%8F%AF%E7%A6%81%E9%A3%9B%E5%8D%80%E9%A3%9B%E7%84%A1%E4%BA%BA%E6%A9%9F-%E7%B4%AF%E8%A8%883%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-18T23:59:00.653Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【今日當年】無綫電視六七年啟播　首創免費廣播打破麗的壟斷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199799387933380608108395.jpeg/IItkyQiFZtOKp0ZUrnvDV2n2psSJAs_GdIHlDUKB5Q0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412318/%E4%BB%8A%E6%97%A5%E7%95%B6%E5%B9%B4-%E7%84%A1%E7%B6%AB%E9%9B%BB%E8%A6%96%E5%85%AD%E4%B8%83%E5%B9%B4%E5%95%9F%E6%92%AD-%E9%A6%96%E5%89%B5%E5%85%8D%E8%B2%BB%E5%BB%A3%E6%92%AD%E6%89%93%E7%A0%B4%E9%BA%97%E7%9A%84%E5%A3%9F%E6%96%B7",
-    "timestamp": "2026-11-18T23:45:41.126Z",
     "strategy": ".content-card__main"
   }
 ];
