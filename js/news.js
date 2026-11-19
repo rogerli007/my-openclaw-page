@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T17:59:15.689Z
+// Last updated: 2026-11-19T18:22:22.631Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "山頂柯士甸山道獨立屋遇竊　賊人撬窗潛入　偷走$15萬Hermès手袋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200263525558128640561209.jpeg/uCbCJog-4zoxzfryDPpp_1oPqapQ4JtmRolw-EaJcPg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412933/%E5%B1%B1%E9%A0%82%E6%9F%AF%E5%A3%AB%E7%94%B8%E5%B1%B1%E9%81%93%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%87%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%BD%9B%E5%85%A5-%E5%81%B7%E8%B5%B0-15%E8%90%ACherm%C3%A8s%E6%89%8B%E8%A2%8B",
+    "timestamp": "2026-11-19T18:22:22.631Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic上市｜ANT首掛高開34%！　集資額超SpaceX成史上最大IPO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200163273509441536985016.jpeg/XxCpRylX_17FFtJYYVOyDqD-YW-F_JD6GUf58xlH-fM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412820/%E5%A4%A9%E6%B0%A3%E8%BD%89%E6%B6%BC%E5%B0%96%E6%B2%99%E5%92%80%E7%85%B2%E4%BB%94%E9%A3%AF%E5%BA%97%E9%8A%B7%E9%87%8F%E7%AA%81%E5%A2%9E%E4%B8%89%E6%88%90-%E7%A0%82%E7%85%B2-%E6%B4%97%E5%94%94%E5%88%87-%E9%9C%80%E7%B7%8A%E6%80%A5%E8%A8%82%E8%B3%BC",
     "timestamp": "2026-11-19T12:24:35.119Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俞可程被爆搭上《魔音女團》導演捲搞人夫疑雲　莊子璇開腔爆料",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200169712063877120271694.jpeg/aTA_ShL88_gSzZzldPe_ztNsJXpSMOQGwXWkaPt1pGg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412856/%E4%BF%9E%E5%8F%AF%E7%A8%8B%E8%A2%AB%E7%88%86%E6%90%AD%E4%B8%8A-%E9%AD%94%E9%9F%B3%E5%A5%B3%E5%9C%98-%E5%B0%8E%E6%BC%94%E6%8D%B2%E6%90%9E%E4%BA%BA%E5%A4%AB%E7%96%91%E9%9B%B2-%E8%8E%8A%E5%AD%90%E7%92%87%E9%96%8B%E8%85%94%E7%88%86%E6%96%99",
-    "timestamp": "2026-11-19T11:45:16.070Z",
     "strategy": ".content-card__main"
   }
 ];
