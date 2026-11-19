@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T00:58:37.210Z
+// Last updated: 2026-11-19T01:20:16.493Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "百達翡麗PP兩代星空錶全比對　6105日出日落新功能精度碾壓同級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199763520510496768860419.jpeg/mBhQGGafJAXf0aSJX6VhfySZ_0xoxvSRoYqAz6GKgM8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60401286/%E7%99%BE%E9%81%94%E7%BF%A1%E9%BA%97pp%E5%85%A9%E4%BB%A3%E6%98%9F%E7%A9%BA%E9%8C%B6%E5%85%A8%E6%AF%94%E5%B0%8D-6105%E6%97%A5%E5%87%BA%E6%97%A5%E8%90%BD%E6%96%B0%E5%8A%9F%E8%83%BD%E7%B2%BE%E5%BA%A6%E7%A2%BE%E5%A3%93%E5%90%8C%E7%B4%9A",
+    "timestamp": "2026-11-19T01:20:16.493Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC｜習近平晚宴與台代表施振榮握手合影　現場播歌曲《高山青》",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330323331452928468952.jpeg/3l9qtCLgF6jcIaN8ACVMxQkcxxTU-EcV73VI4e91SOE",
     "url": "https://www.hk01.com/01TV/60410819/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%B6%93%E6%AD%B7%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E9%8E%96%E9%AA%A8%E8%84%8A%E9%AA%A8%E5%85%A8%E7%A2%8E-%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E9%87%8D%E6%96%B0%E5%AD%B8%E7%AB%99%E7%AB%8B",
     "timestamp": "2026-11-18T18:21:48.027Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地廟街唐樓單位淪毒品倉　警檢$50萬K仔和可卡因　25歲男被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199892021955792896128479.jpeg/Jpz7tldWJA5dOCs3EGDfznghOcRoeKnevghJUr4ISVI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412450/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BB%9F%E8%A1%97%E5%94%90%E6%A8%93%E5%96%AE%E4%BD%8D%E6%B7%AA%E6%AF%92%E5%93%81%E5%80%89-%E8%AD%A6%E6%AA%A2-50%E8%90%ACk%E4%BB%94%E5%92%8C%E5%8F%AF%E5%8D%A1%E5%9B%A0-25%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-18T17:59:16.302Z",
     "strategy": ".content-card__main"
   }
 ];
