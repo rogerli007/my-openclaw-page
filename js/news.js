@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T06:51:29.280Z
+// Last updated: 2026-11-19T07:21:49.002Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "容祖兒、鄧紫棋古天樂恩師梁月玲離世　香港樂壇痛失幕後功臣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200105041424289792652817.jpeg/TkRX_wkpeOl8ws_OTIATRJBfF3ET5Xo4i9o76YvaO-k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412685/%E5%AE%B9%E7%A5%96%E5%85%92-%E9%84%A7%E7%B4%AB%E6%A3%8B%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%81%A9%E5%B8%AB%E6%A2%81%E6%9C%88%E7%8E%B2%E9%9B%A2%E4%B8%96-%E9%A6%99%E6%B8%AF%E6%A8%82%E5%A3%87%E7%97%9B%E5%A4%B1%E5%B9%95%E5%BE%8C%E5%8A%9F%E8%87%A3",
+    "timestamp": "2026-11-19T07:21:49.002Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜鄺港智指蔡為錢下嫁譚方駿　形容三人關係複雜但可接受",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199966594701201408620478.jpeg/QsjQMxXQDr4nUV4H0O938o-4Z78AmJOsS1V1gUtVdYE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60412448/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A9%E6%99%AE%E9%81%8D%E8%BC%83%E6%98%A8%E4%BD%8E%E5%85%A9%E4%B8%89%E5%BA%A6-%E6%99%9A%E4%B8%8A%E9%99%8D%E8%87%B318%E5%BA%A6-%E6%98%8E%E6%97%A9%E7%B4%8415%E5%BA%A6",
     "timestamp": "2026-11-18T22:59:09.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜天文台：今早普遍較昨低兩三度　晚上降至18度　明早約15度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199966594701201408620478.jpeg/QsjQMxXQDr4nUV4H0O938o-4Z78AmJOsS1V1gUtVdYE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60412448/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A9%E6%99%AE%E9%81%8D%E8%BC%83%E6%98%A8%E4%BD%8E%E5%85%A9%E4%B8%89%E5%BA%A6-%E6%99%9A%E4%B8%8A%E9%99%8D%E8%87%B318%E5%BA%A6-%E6%98%8E%E6%97%A9%E7%B4%8415%E5%BA%A6",
-    "timestamp": "2026-11-18T22:45:39.194Z",
     "strategy": ".content-card__main"
   }
 ];
