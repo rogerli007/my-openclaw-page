@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T04:59:16.485Z
+// Last updated: 2026-11-19T05:21:03.533Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台料周六分區10℃　保暖6禁忌　醫生：搓手腳無用恐致心肌梗塞",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200074720993611776907685.jpeg/FKs9lqaSFeARnq1nKlHz0p4uUxrJaJsqk1QBEJNUARA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60412520/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E5%85%AD%E5%88%86%E5%8D%8010-%E4%BF%9D%E6%9A%966%E7%A6%81%E5%BF%8C-%E9%86%AB%E7%94%9F-%E6%90%93%E6%89%8B%E8%85%B3%E7%84%A1%E7%94%A8%E6%81%90%E8%87%B4%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E",
+    "timestamp": "2026-11-19T05:21:03.533Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台北女童16年前跨年倒數離奇失蹤！網民用AI製「20歲照片」助尋人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
     "timestamp": "2026-11-18T20:59:05.198Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯儲局10月議息會議紀錄：幾乎所有決策者預期12月加息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230503/730461825912541184610984.jpeg/CXpn16I0KuEm_WPiQ9o4f_CrHq2l1kriH496uB-Perg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412459/%E8%81%AF%E5%84%B2%E5%B1%8010%E6%9C%88%E8%AD%B0%E6%81%AF%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84-%E5%B9%BE%E4%B9%8E%E6%89%80%E6%9C%89%E6%B1%BA%E7%AD%96%E8%80%85%E9%A0%90%E6%9C%9F12%E6%9C%88%E5%8A%A0%E6%81%AF",
-    "timestamp": "2026-11-18T20:45:04.946Z",
     "strategy": ".content-card__main"
   }
 ];
