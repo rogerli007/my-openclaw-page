@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T08:24:10.598Z
+// Last updated: 2026-11-19T08:36:37.626Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西醫李志良醉駕罪成未及時上報　醫委會裁專業失當發警告信",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200105835372482560716832.jpeg/z6-LrVQ8EPaLDKEB9DGmUOF-lzwzbFqzHPwJxBz8CcQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412688/%E8%A5%BF%E9%86%AB%E6%9D%8E%E5%BF%97%E8%89%AF%E9%86%89%E9%A7%95%E7%BD%AA%E6%88%90%E6%9C%AA%E5%8F%8A%E6%99%82%E4%B8%8A%E5%A0%B1-%E9%86%AB%E5%A7%94%E6%9C%83%E8%A3%81%E5%B0%88%E6%A5%AD%E5%A4%B1%E7%95%B6%E7%99%BC%E8%AD%A6%E5%91%8A%E4%BF%A1",
+    "timestamp": "2026-11-19T08:36:37.626Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "今天是太陽雨｜董思成楊超越貼臉宣傳惹怒7年忠粉！引集體脫粉潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199645962356658176437019.jpeg/Ms0ZfnYOzmHtzYapg_a99F6VMkrfIfiCkizbPJIs2zw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412472/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E4%BF%A1%E8%99%9F%E6%95%85%E9%9A%9C-%E6%B8%AF%E5%B3%B6%E7%B6%AB%E6%95%B4%E9%AB%94%E8%A1%8C%E8%BB%8A%E6%99%82%E9%96%93%E9%9C%80%E9%A1%8D%E5%A4%965%E8%87%B38%E5%88%86%E9%90%98",
     "timestamp": "2026-11-19T00:37:53.556Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳APEC｜警拘20歲男涉未經許可禁飛區飛無人機　累計3人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199991381351731200957830.jpeg/fy3lzBLW1_KQFbQ0TbSoR35W0gETKRSb1TrXTtU6104?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412469/%E6%B7%B1%E5%9C%B3apec-%E8%AD%A6%E6%8B%9820%E6%AD%B2%E7%94%B7%E6%B6%89%E6%9C%AA%E7%B6%93%E8%A8%B1%E5%8F%AF%E7%A6%81%E9%A3%9B%E5%8D%80%E9%A3%9B%E7%84%A1%E4%BA%BA%E6%A9%9F-%E7%B4%AF%E8%A8%883%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-18T23:59:00.653Z",
     "strategy": ".content-card__main"
   }
 ];
