@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T14:20:52.647Z
+// Last updated: 2026-11-19T14:45:32.581Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "許志安虛心感謝周啟生批評爵士演唱會：下次努力希望唔令佢失望",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200215796354125824028397.jpeg/lVuyGfKzmSttrWQr2yEfRI4ml8eCQsaTnmn6lJ5p-pQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412907/%E8%A8%B1%E5%BF%97%E5%AE%89%E8%99%9B%E5%BF%83%E6%84%9F%E8%AC%9D%E5%91%A8%E5%95%9F%E7%94%9F%E6%89%B9%E8%A9%95%E7%88%B5%E5%A3%AB%E6%BC%94%E5%94%B1%E6%9C%83-%E4%B8%8B%E6%AC%A1%E5%8A%AA%E5%8A%9B%E5%B8%8C%E6%9C%9B%E5%94%94%E4%BB%A4%E4%BD%A2%E5%A4%B1%E6%9C%9B",
+    "timestamp": "2026-11-19T14:45:32.581Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "韓資深女星裴宗玉怒斥後輩工作態度差　宋慧喬超敬業舉動成示範",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187011106795687936791540.jpeg/3SgluN2VyRsLmxxWv-crZw6kkyJFgp9xeaLfKVyi3yk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412694/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E6%99%BA%E5%BD%A2%E5%AE%B9%E8%AD%9A%E6%96%B9%E9%A7%BF%E4%B8%8D%E6%98%AF%E6%9C%8B%E5%8F%8B%E8%80%8C%E6%98%AF%E5%AE%B6%E4%BA%BA-%E6%9B%BE%E4%B8%89%E4%BA%BA%E5%90%8C%E7%9D%A1%E4%B8%80%E5%BA%8A",
     "timestamp": "2026-11-19T07:45:28.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "容祖兒、鄧紫棋古天樂恩師梁月玲離世　香港樂壇痛失幕後功臣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200105041424289792652817.jpeg/TkRX_wkpeOl8ws_OTIATRJBfF3ET5Xo4i9o76YvaO-k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412685/%E5%AE%B9%E7%A5%96%E5%85%92-%E9%84%A7%E7%B4%AB%E6%A3%8B%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%81%A9%E5%B8%AB%E6%A2%81%E6%9C%88%E7%8E%B2%E9%9B%A2%E4%B8%96-%E9%A6%99%E6%B8%AF%E6%A8%82%E5%A3%87%E7%97%9B%E5%A4%B1%E5%B9%95%E5%BE%8C%E5%8A%9F%E8%87%A3",
-    "timestamp": "2026-11-19T07:21:49.002Z",
     "strategy": ".content-card__main"
   }
 ];
