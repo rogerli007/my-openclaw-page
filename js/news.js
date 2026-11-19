@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T01:48:27.083Z
+// Last updated: 2026-11-19T02:23:57.666Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣東歌殺入GTA 6！林子祥《敢愛敢做》殺入遊戲電台揚威海外",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200030715039715328452098.jpeg/H7l5sSTOa4W_FPSczRHSPQD8p-_pNcDj9vsHtPb7B7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60412508/%E5%BB%A3%E6%9D%B1%E6%AD%8C%E6%AE%BA%E5%85%A5gta-6-%E6%9E%97%E5%AD%90%E7%A5%A5-%E6%95%A2%E6%84%9B%E6%95%A2%E5%81%9A-%E6%AE%BA%E5%85%A5%E9%81%8A%E6%88%B2%E9%9B%BB%E5%8F%B0%E6%8F%9A%E5%A8%81%E6%B5%B7%E5%A4%96",
+    "timestamp": "2026-11-19T02:23:57.666Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "01直擊｜深圳大芬村特朗普畫像成打卡點？畫家：盼他本人親眼見到",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330323331452928468952.jpeg/3l9qtCLgF6jcIaN8ACVMxQkcxxTU-EcV73VI4e91SOE",
     "url": "https://www.hk01.com/01TV/60410819/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%B6%93%E6%AD%B7%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E9%8E%96%E9%AA%A8%E8%84%8A%E9%AA%A8%E5%85%A8%E7%A2%8E-%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E9%87%8D%E6%96%B0%E5%AD%B8%E7%AB%99%E7%AB%8B",
     "timestamp": "2026-11-18T18:59:07.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正經歷嚴重車禍：鎖骨脊骨全碎 死裡逃生重新學站立",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330323331452928468952.jpeg/3l9qtCLgF6jcIaN8ACVMxQkcxxTU-EcV73VI4e91SOE",
-    "url": "https://www.hk01.com/01TV/60410819/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%B6%93%E6%AD%B7%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E9%8E%96%E9%AA%A8%E8%84%8A%E9%AA%A8%E5%85%A8%E7%A2%8E-%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E9%87%8D%E6%96%B0%E5%AD%B8%E7%AB%99%E7%AB%8B",
-    "timestamp": "2026-11-18T18:45:51.010Z",
     "strategy": ".content-card__main"
   }
 ];
