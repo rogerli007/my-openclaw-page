@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T10:45:49.836Z
+// Last updated: 2026-11-19T10:59:08.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中俄美元首和平宣言：三國元首重申核戰爭打不贏也打不得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200132164021391360031697.jpeg/xuZQxm-b6atqRzP1NRlUxf8eXSyNyE7QJqI8AyaiPAM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60412846/%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80-%E4%B8%89%E5%9C%8B%E5%85%83%E9%A6%96%E9%87%8D%E7%94%B3%E6%A0%B8%E6%88%B0%E7%88%AD%E6%89%93%E4%B8%8D%E8%B4%8F%E4%B9%9F%E6%89%93%E4%B8%8D%E5%BE%97",
+    "timestamp": "2026-11-19T10:59:08.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "管浩鳴接電騙被點去政總　表露身份一招「KO」｜政壇諸事町",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200051545610129408245071.jpeg/KcSbPABHqj2fNSx0tCQK0l-qgemIKcZs2GZUqdhmVKk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60412578/apec%E6%B7%B1%E5%9C%B3-%E8%88%87%E6%9C%83%E9%A0%98%E8%A2%96%E6%8A%AB-%E9%AF%A4%E9%B5%AC%E5%B1%95%E7%BF%85-%E5%9C%8D%E5%B7%BE%E5%90%88%E7%85%A7-%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%BD%A9%E7%B4%85%E8%89%B2",
     "timestamp": "2026-11-19T03:59:03.868Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "GTA6電台驚現林子祥《敢愛敢做》　歌詞神配合飛車網民大讚有Feel",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200034906936184832152380.jpeg/Y0i4Ww3i1uP_8kJ3Gf86tXZJLcX6R02XGAkhdBgJIXQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60412496/gta6%E9%9B%BB%E5%8F%B0%E9%A9%9A%E7%8F%BE%E6%9E%97%E5%AD%90%E7%A5%A5-%E6%95%A2%E6%84%9B%E6%95%A2%E5%81%9A-%E6%AD%8C%E8%A9%9E%E7%A5%9E%E9%85%8D%E5%90%88%E9%A3%9B%E8%BB%8A%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E6%9C%89feel",
-    "timestamp": "2026-11-19T02:53:41.398Z",
     "strategy": ".content-card__main"
   }
 ];
