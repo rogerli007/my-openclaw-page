@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T21:45:19.184Z
+// Last updated: 2026-11-19T21:59:06.362Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丹麥議會通過格陵蘭安全協議　擴大美國軍事准入範圍",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179230764449927168495813.jpeg/qrwhRXlWsdYnN01qNzt3YZ8lVKsRQHx4wPrVkMD61ZA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412938/%E4%B8%B9%E9%BA%A5%E8%AD%B0%E6%9C%83%E9%80%9A%E9%81%8E%E6%A0%BC%E9%99%B5%E8%98%AD%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E6%93%B4%E5%A4%A7%E7%BE%8E%E5%9C%8B%E8%BB%8D%E4%BA%8B%E5%87%86%E5%85%A5%E7%AF%84%E5%9C%8D",
+    "timestamp": "2026-11-19T21:59:06.362Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丹麥議會通過格陵蘭安全協議　擴大美國軍事准入範圍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200242095940440064821657.jpeg/0huynk0zdN3ZYBkZHib3jCXO2A-4kEV_HO9PQRzvT0E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412924/tvb%E5%8F%B0%E6%85%B62026-%E9%BB%83%E5%8A%8D%E6%96%87%E9%A3%9F%E9%9B%9E%E9%AB%80%E5%A4%B110%E8%90%AC%E7%9C%BC%E6%B3%9B%E6%B7%9A%E5%85%89-%E7%BE%A8%E6%85%95%E8%82%A5%E5%AA%BD%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6",
     "timestamp": "2026-11-19T16:31:51.872Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "咒術迴戰x壽司郎香港之旅系列超正：滿$200換購立牌產量極少速換",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200134703353434112283704.png/zjxl8w2fhkXRzlsKva4CCD-CzvM2K2iCwvA438LwON8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60412709/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0x%E5%A3%BD%E5%8F%B8%E9%83%8E%E9%A6%99%E6%B8%AF%E4%B9%8B%E6%97%85%E7%B3%BB%E5%88%97%E8%B6%85%E6%AD%A3-%E6%BB%BF-200%E6%8F%9B%E8%B3%BC%E7%AB%8B%E7%89%8C%E7%94%A2%E9%87%8F%E6%A5%B5%E5%B0%91%E9%80%9F%E6%8F%9B",
-    "timestamp": "2026-11-19T16:15:52.132Z",
     "strategy": ".content-card__main"
   }
 ];
