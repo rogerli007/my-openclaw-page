@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T07:21:49.002Z
+// Last updated: 2026-11-19T07:45:28.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜鄺港智形容譚方駿不是朋友而是家人　曾三人同睡一床",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261014/1187011106795687936791540.jpeg/3SgluN2VyRsLmxxWv-crZw6kkyJFgp9xeaLfKVyi3yk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412694/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E6%99%BA%E5%BD%A2%E5%AE%B9%E8%AD%9A%E6%96%B9%E9%A7%BF%E4%B8%8D%E6%98%AF%E6%9C%8B%E5%8F%8B%E8%80%8C%E6%98%AF%E5%AE%B6%E4%BA%BA-%E6%9B%BE%E4%B8%89%E4%BA%BA%E5%90%8C%E7%9D%A1%E4%B8%80%E5%BA%8A",
+    "timestamp": "2026-11-19T07:45:28.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "容祖兒、鄧紫棋古天樂恩師梁月玲離世　香港樂壇痛失幕後功臣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199698428636958720794320.png/iiwMumpXqDtaDXxVI5Xsq_RWXR9qAbJP0DUQ0tA1ENI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412025/%E7%9B%B8%E6%88%8019%E5%B9%B4%E7%94%B7%E5%8F%8B%E7%AB%9F%E6%98%AF-%E5%A5%B3%E5%85%92%E8%BA%AB-%E5%88%BB%E6%84%8F%E5%85%A5%E7%94%B7%E5%BB%81%E6%8E%A9%E9%A3%BE-%E9%A8%99%E5%A5%B3%E5%8F%8B-46%E8%90%AC%E5%88%A47%E5%B9%B4",
     "timestamp": "2026-11-18T23:19:12.249Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜天文台：今早普遍較昨低兩三度　晚上降至18度　明早約15度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199966594701201408620478.jpeg/QsjQMxXQDr4nUV4H0O938o-4Z78AmJOsS1V1gUtVdYE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60412448/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A9%E6%99%AE%E9%81%8D%E8%BC%83%E6%98%A8%E4%BD%8E%E5%85%A9%E4%B8%89%E5%BA%A6-%E6%99%9A%E4%B8%8A%E9%99%8D%E8%87%B318%E5%BA%A6-%E6%98%8E%E6%97%A9%E7%B4%8415%E5%BA%A6",
-    "timestamp": "2026-11-18T22:59:09.456Z",
     "strategy": ".content-card__main"
   }
 ];
