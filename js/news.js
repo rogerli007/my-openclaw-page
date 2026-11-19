@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T14:59:11.556Z
+// Last updated: 2026-11-19T15:30:02.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀冬日小鎮揭幕第二日人頭湧　江西旅客讚光影匯氣氛更勝內地",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200211004445691904157482.jpeg/m0VgAgBwXebXjUG0UA4EaYqldlPfWO3gND16FjQ9ehY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412903/%E5%B0%96%E6%B2%99%E5%92%80%E5%86%AC%E6%97%A5%E5%B0%8F%E9%8E%AE%E6%8F%AD%E5%B9%95%E7%AC%AC%E4%BA%8C%E6%97%A5%E4%BA%BA%E9%A0%AD%E6%B9%A7-%E6%B1%9F%E8%A5%BF%E6%97%85%E5%AE%A2%E8%AE%9A%E5%85%89%E5%BD%B1%E5%8C%AF%E6%B0%A3%E6%B0%9B%E6%9B%B4%E5%8B%9D%E5%85%A7%E5%9C%B0",
+    "timestamp": "2026-11-19T15:30:02.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "再婚皇后｜申敏兒不孕真相曝光！朱智勛偏信小三李世榮決意離婚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200102328078700544257430.png/yxAFdC8fE1m1aRptNmQjoK-MZ_JpI1FTbl6kmm5epJo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412611/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E8%91%A3%E6%80%9D%E6%88%90%E6%A5%8A%E8%B6%85%E8%B6%8A%E8%B2%BC%E8%87%89%E5%AE%A3%E5%82%B3%E6%83%B9%E6%80%927%E5%B9%B4%E5%BF%A0%E7%B2%89-%E5%BC%95%E9%9B%86%E9%AB%94%E8%84%AB%E7%B2%89%E6%BD%AE",
     "timestamp": "2026-11-19T08:24:10.598Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬斯克稱踼走黃仁勳不智：如球隊連勝時將米高佐敦趕出球隊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200099617807536128856371.jpeg/f-wYRT-xr29d7K234kq0V6wSbenX8jkzSrH2VUqx9lU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412680/%E9%A6%AC%E6%96%AF%E5%85%8B%E7%A8%B1%E8%B8%BC%E8%B5%B0%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8D%E6%99%BA-%E5%A6%82%E7%90%83%E9%9A%8A%E9%80%A3%E5%8B%9D%E6%99%82%E5%B0%87%E7%B1%B3%E9%AB%98%E4%BD%90%E6%95%A6%E8%B6%95%E5%87%BA%E7%90%83%E9%9A%8A",
-    "timestamp": "2026-11-19T07:59:00.601Z",
     "strategy": ".content-card__main"
   }
 ];
