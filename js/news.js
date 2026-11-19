@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T22:45:10.046Z
+// Last updated: 2026-11-19T22:59:06.783Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特首都最高建築遭胡塞武裝襲擊　暫無人員傷亡報告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200334820131999744098761.jpeg/ZxfhTl79mYv2m4NYM-mPaqse3yTlfb3xWr9mkFq_ZpA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412944/%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E6%9C%80%E9%AB%98%E5%BB%BA%E7%AF%89%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E6%93%8A-%E6%9A%AB%E7%84%A1%E4%BA%BA%E5%93%A1%E5%82%B7%E4%BA%A1%E5%A0%B1%E5%91%8A",
+    "timestamp": "2026-11-19T22:59:06.783Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "沙特首都最高建築遭胡塞武裝襲擊　暫無人員傷亡報告",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412536/anthropic%E4%B8%8A%E5%B8%82-ant%E9%A6%96%E6%8E%9B%E9%AB%98%E9%96%8B34-%E9%9B%86%E8%B3%87%E9%A1%8D%E8%B6%85spacex%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo",
     "timestamp": "2026-11-19T17:18:49.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC｜特朗普：有與習主席討論AI　雙方一致認為設部份限制是好事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200105216934940672764328.jpeg/vtvGl-816cRLS7EWVBj320EeULEXijAqLlFqLy5Rai8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412925/apec-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%9C%89%E8%88%87%E7%BF%92%E4%B8%BB%E5%B8%AD%E8%A8%8E%E8%AB%96ai-%E9%9B%99%E6%96%B9%E4%B8%80%E8%87%B4%E8%AA%8D%E7%82%BA%E8%A8%AD%E9%83%A8%E4%BB%BD%E9%99%90%E5%88%B6%E6%98%AF%E5%A5%BD%E4%BA%8B",
-    "timestamp": "2026-11-19T16:58:56.084Z",
     "strategy": ".content-card__main"
   }
 ];
