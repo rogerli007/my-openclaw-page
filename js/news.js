@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T15:30:02.357Z
+// Last updated: 2026-11-19T15:45:32.752Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "紐約華裔男子砍父後持刀逼近警察遭擊斃　執法錄像曝光血染梯間",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200146074572951552297531.jpeg/kO6YZOY-JeOPwc1rU5jHWmBRFNiQ_USPRDxcwkQ8XMI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60412743/%E7%B4%90%E7%B4%84%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90%E7%A0%8D%E7%88%B6%E5%BE%8C%E6%8C%81%E5%88%80%E9%80%BC%E8%BF%91%E8%AD%A6%E5%AF%9F%E9%81%AD%E6%93%8A%E6%96%83-%E5%9F%B7%E6%B3%95%E9%8C%84%E5%83%8F%E6%9B%9D%E5%85%89%E8%A1%80%E6%9F%93%E6%A2%AF%E9%96%93",
+    "timestamp": "2026-11-19T15:45:32.752Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀冬日小鎮揭幕第二日人頭湧　江西旅客讚光影匯氣氛更勝內地",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200105835372482560716832.jpeg/z6-LrVQ8EPaLDKEB9DGmUOF-lzwzbFqzHPwJxBz8CcQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412688/%E8%A5%BF%E9%86%AB%E6%9D%8E%E5%BF%97%E8%89%AF%E9%86%89%E9%A7%95%E7%BD%AA%E6%88%90%E6%9C%AA%E5%8F%8A%E6%99%82%E4%B8%8A%E5%A0%B1-%E9%86%AB%E5%A7%94%E6%9C%83%E8%A3%81%E5%B0%88%E6%A5%AD%E5%A4%B1%E7%95%B6%E7%99%BC%E8%AD%A6%E5%91%8A%E4%BF%A1",
     "timestamp": "2026-11-19T08:36:37.626Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "今天是太陽雨｜董思成楊超越貼臉宣傳惹怒7年忠粉！引集體脫粉潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200102328078700544257430.png/yxAFdC8fE1m1aRptNmQjoK-MZ_JpI1FTbl6kmm5epJo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412611/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%99%BD%E9%9B%A8-%E8%91%A3%E6%80%9D%E6%88%90%E6%A5%8A%E8%B6%85%E8%B6%8A%E8%B2%BC%E8%87%89%E5%AE%A3%E5%82%B3%E6%83%B9%E6%80%927%E5%B9%B4%E5%BF%A0%E7%B2%89-%E5%BC%95%E9%9B%86%E9%AB%94%E8%84%AB%E7%B2%89%E6%BD%AE",
-    "timestamp": "2026-11-19T08:24:10.598Z",
     "strategy": ".content-card__main"
   }
 ];
