@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T01:20:16.493Z
+// Last updated: 2026-11-19T01:48:27.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "01直擊｜深圳大芬村特朗普畫像成打卡點？畫家：盼他本人親眼見到",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199905944377495552608751.png/WsPuNVDTMKHOZiJI-laIxMcE8WjYZV-WSEvy8khL8vI",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60412447/01%E7%9B%B4%E6%93%8A-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E8%8A%AC%E6%9D%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%AB%E5%83%8F%E6%88%90%E6%89%93%E5%8D%A1%E9%BB%9E-%E7%95%AB%E5%AE%B6-%E7%9B%BC%E4%BB%96%E6%9C%AC%E4%BA%BA%E8%A6%AA%E7%9C%BC%E8%A6%8B%E5%88%B0",
+    "timestamp": "2026-11-19T01:48:27.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "百達翡麗PP兩代星空錶全比對　6105日出日落新功能精度碾壓同級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330323331452928468952.jpeg/3l9qtCLgF6jcIaN8ACVMxQkcxxTU-EcV73VI4e91SOE",
     "url": "https://www.hk01.com/01TV/60410819/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%B6%93%E6%AD%B7%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E9%8E%96%E9%AA%A8%E8%84%8A%E9%AA%A8%E5%85%A8%E7%A2%8E-%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E9%87%8D%E6%96%B0%E5%AD%B8%E7%AB%99%E7%AB%8B",
     "timestamp": "2026-11-18T18:45:51.010Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正經歷嚴重車禍：鎖骨脊骨全碎 死裡逃生重新學站立",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330323331452928468952.jpeg/3l9qtCLgF6jcIaN8ACVMxQkcxxTU-EcV73VI4e91SOE",
-    "url": "https://www.hk01.com/01TV/60410819/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%B6%93%E6%AD%B7%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E9%8E%96%E9%AA%A8%E8%84%8A%E9%AA%A8%E5%85%A8%E7%A2%8E-%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E9%87%8D%E6%96%B0%E5%AD%B8%E7%AB%99%E7%AB%8B",
-    "timestamp": "2026-11-18T18:21:48.027Z",
     "strategy": ".content-card__main"
   }
 ];
