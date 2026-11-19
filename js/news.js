@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T02:53:41.398Z
+// Last updated: 2026-11-19T03:59:03.868Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC深圳｜與會領袖披「鯤鵬展翅」圍巾合照　李家超佩紅色",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200051545610129408245071.jpeg/KcSbPABHqj2fNSx0tCQK0l-qgemIKcZs2GZUqdhmVKk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60412578/apec%E6%B7%B1%E5%9C%B3-%E8%88%87%E6%9C%83%E9%A0%98%E8%A2%96%E6%8A%AB-%E9%AF%A4%E9%B5%AC%E5%B1%95%E7%BF%85-%E5%9C%8D%E5%B7%BE%E5%90%88%E7%85%A7-%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%BD%A9%E7%B4%85%E8%89%B2",
+    "timestamp": "2026-11-19T03:59:03.868Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "GTA6電台驚現林子祥《敢愛敢做》　歌詞神配合飛車網民大讚有Feel",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250206/964103362196803584738251.jpeg/Ll58T2H4XvAvQ5_mL2rnSf9xp3yyje_XgfwFSoH8BUo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412453/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%B8%BD%E5%AF%A9%E8%A8%88%E9%95%B7-%E5%B0%8D%E9%95%B7%E5%92%8C%E5%AD%90%E5%85%AC%E5%8F%B8%E5%8F%8A%E6%B5%B7%E4%BA%8B%E5%B1%80%E5%89%8D%E9%AB%98%E5%B1%A4%E6%8F%90%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F",
     "timestamp": "2026-11-18T19:45:24.035Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴拿馬總審計長：對長和子公司及海事局前高層提刑事訴訟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250206/964103362196803584738251.jpeg/Ll58T2H4XvAvQ5_mL2rnSf9xp3yyje_XgfwFSoH8BUo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412453/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%B8%BD%E5%AF%A9%E8%A8%88%E9%95%B7-%E5%B0%8D%E9%95%B7%E5%92%8C%E5%AD%90%E5%85%AC%E5%8F%B8%E5%8F%8A%E6%B5%B7%E4%BA%8B%E5%B1%80%E5%89%8D%E9%AB%98%E5%B1%A4%E6%8F%90%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F",
-    "timestamp": "2026-11-18T19:29:29.087Z",
     "strategy": ".content-card__main"
   }
 ];
