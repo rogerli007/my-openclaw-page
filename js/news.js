@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T10:20:04.037Z
+// Last updated: 2026-11-19T10:45:49.836Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "管浩鳴接電騙被點去政總　表露身份一招「KO」｜政壇諸事町",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136311745111920640319657.png/1xOGFdXteR6vjdNP4b-_6pCpGvAvwsWhMTKvvTEyr70?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60412836/%E7%AE%A1%E6%B5%A9%E9%B3%B4%E6%8E%A5%E9%9B%BB%E9%A8%99%E8%A2%AB%E9%BB%9E%E5%8E%BB%E6%94%BF%E7%B8%BD-%E8%A1%A8%E9%9C%B2%E8%BA%AB%E4%BB%BD%E4%B8%80%E6%8B%9B-ko-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
+    "timestamp": "2026-11-19T10:45:49.836Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB台慶2026紅地氈二｜一文睇靚相　李芷晴葉蒨文騷胸硬撼廖慧儀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200034906936184832152380.jpeg/Y0i4Ww3i1uP_8kJ3Gf86tXZJLcX6R02XGAkhdBgJIXQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60412496/gta6%E9%9B%BB%E5%8F%B0%E9%A9%9A%E7%8F%BE%E6%9E%97%E5%AD%90%E7%A5%A5-%E6%95%A2%E6%84%9B%E6%95%A2%E5%81%9A-%E6%AD%8C%E8%A9%9E%E7%A5%9E%E9%85%8D%E5%90%88%E9%A3%9B%E8%BB%8A%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E6%9C%89feel",
     "timestamp": "2026-11-19T02:53:41.398Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "我的有罪之人｜任時完演活高冷財閥！擺脫老土高中生味被讚劇拋臉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199788167197102080156480.png/Z6pH-0T3XAAioZ7eFf8dT_10vdQ9f8ytQBuRUkAbkVI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412324/%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA-%E4%BB%BB%E6%99%82%E5%AE%8C%E6%BC%94%E6%B4%BB%E9%AB%98%E5%86%B7%E8%B2%A1%E9%96%A5-%E6%93%BA%E8%84%AB%E8%80%81%E5%9C%9F%E9%AB%98%E4%B8%AD%E7%94%9F%E5%91%B3%E8%A2%AB%E8%AE%9A%E5%8A%87%E6%8B%8B%E8%87%89",
-    "timestamp": "2026-11-19T02:36:34.482Z",
     "strategy": ".content-card__main"
   }
 ];
