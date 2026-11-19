@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T22:14:20.734Z
+// Last updated: 2026-11-19T22:45:10.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "沙特首都最高建築遭胡塞武裝襲擊　暫無人員傷亡報告",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200334820131999744098761.jpeg/ZxfhTl79mYv2m4NYM-mPaqse3yTlfb3xWr9mkFq_ZpA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412944/%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E6%9C%80%E9%AB%98%E5%BB%BA%E7%AF%89%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E6%93%8A-%E6%9A%AB%E7%84%A1%E4%BA%BA%E5%93%A1%E5%82%B7%E4%BA%A1%E5%A0%B1%E5%91%8A",
+    "timestamp": "2026-11-19T22:45:10.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「閉月」貂蟬連環計　如何改寫董卓之死與呂布命運｜四大美人之三",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200105216934940672764328.jpeg/vtvGl-816cRLS7EWVBj320EeULEXijAqLlFqLy5Rai8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412925/apec-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%9C%89%E8%88%87%E7%BF%92%E4%B8%BB%E5%B8%AD%E8%A8%8E%E8%AB%96ai-%E9%9B%99%E6%96%B9%E4%B8%80%E8%87%B4%E8%AA%8D%E7%82%BA%E8%A8%AD%E9%83%A8%E4%BB%BD%E9%99%90%E5%88%B6%E6%98%AF%E5%A5%BD%E4%BA%8B",
     "timestamp": "2026-11-19T16:58:56.084Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB台慶2026｜黃劍文食雞髀失10萬眼泛淚光　羨慕肥媽地位超然",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200242095940440064821657.jpeg/0huynk0zdN3ZYBkZHib3jCXO2A-4kEV_HO9PQRzvT0E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412924/tvb%E5%8F%B0%E6%85%B62026-%E9%BB%83%E5%8A%8D%E6%96%87%E9%A3%9F%E9%9B%9E%E9%AB%80%E5%A4%B110%E8%90%AC%E7%9C%BC%E6%B3%9B%E6%B7%9A%E5%85%89-%E7%BE%A8%E6%85%95%E8%82%A5%E5%AA%BD%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6",
-    "timestamp": "2026-11-19T16:45:33.274Z",
     "strategy": ".content-card__main"
   }
 ];
