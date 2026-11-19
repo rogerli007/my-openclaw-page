@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T07:45:28.237Z
+// Last updated: 2026-11-19T07:59:00.601Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬斯克稱踼走黃仁勳不智：如球隊連勝時將米高佐敦趕出球隊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200099617807536128856371.jpeg/f-wYRT-xr29d7K234kq0V6wSbenX8jkzSrH2VUqx9lU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412680/%E9%A6%AC%E6%96%AF%E5%85%8B%E7%A8%B1%E8%B8%BC%E8%B5%B0%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8D%E6%99%BA-%E5%A6%82%E7%90%83%E9%9A%8A%E9%80%A3%E5%8B%9D%E6%99%82%E5%B0%87%E7%B1%B3%E9%AB%98%E4%BD%90%E6%95%A6%E8%B6%95%E5%87%BA%E7%90%83%E9%9A%8A",
+    "timestamp": "2026-11-19T07:59:00.601Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜鄺港智形容譚方駿不是朋友而是家人　曾三人同睡一床",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199799387933380608108395.jpeg/IItkyQiFZtOKp0ZUrnvDV2n2psSJAs_GdIHlDUKB5Q0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412318/%E4%BB%8A%E6%97%A5%E7%95%B6%E5%B9%B4-%E7%84%A1%E7%B6%AB%E9%9B%BB%E8%A6%96%E5%85%AD%E4%B8%83%E5%B9%B4%E5%95%9F%E6%92%AD-%E9%A6%96%E5%89%B5%E5%85%8D%E8%B2%BB%E5%BB%A3%E6%92%AD%E6%89%93%E7%A0%B4%E9%BA%97%E7%9A%84%E5%A3%9F%E6%96%B7",
     "timestamp": "2026-11-18T23:45:41.126Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "相戀19年男友竟是「女兒身」　刻意入男廁掩飾　騙女友¥46萬判7年",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199698428636958720794320.png/iiwMumpXqDtaDXxVI5Xsq_RWXR9qAbJP0DUQ0tA1ENI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412025/%E7%9B%B8%E6%88%8019%E5%B9%B4%E7%94%B7%E5%8F%8B%E7%AB%9F%E6%98%AF-%E5%A5%B3%E5%85%92%E8%BA%AB-%E5%88%BB%E6%84%8F%E5%85%A5%E7%94%B7%E5%BB%81%E6%8E%A9%E9%A3%BE-%E9%A8%99%E5%A5%B3%E5%8F%8B-46%E8%90%AC%E5%88%A47%E5%B9%B4",
-    "timestamp": "2026-11-18T23:19:12.249Z",
     "strategy": ".content-card__main"
   }
 ];
