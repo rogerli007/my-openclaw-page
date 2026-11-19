@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T09:21:49.583Z
+// Last updated: 2026-11-19T09:45:25.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "窩打老道的士司機與女乘客爭執報警　司機發文指醉酒女狂喝令減速",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200140370151739392971853.jpeg/Od9PeWxIMUJ65TE6fturalcwKZV2b44Tvmi1R75otUc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412740/%E7%AA%A9%E6%89%93%E8%80%81%E9%81%93%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E8%88%87%E5%A5%B3%E4%B9%98%E5%AE%A2%E7%88%AD%E5%9F%B7%E5%A0%B1%E8%AD%A6-%E5%8F%B8%E6%A9%9F%E7%99%BC%E6%96%87%E6%8C%87%E9%86%89%E9%85%92%E5%A5%B3%E7%8B%82%E5%96%9D%E4%BB%A4%E6%B8%9B%E9%80%9F",
+    "timestamp": "2026-11-19T09:45:25.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "藍田啓田道聖公會基孝中學疑有「尿袋」起火　14歲男學生燒傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199905944377495552608751.png/WsPuNVDTMKHOZiJI-laIxMcE8WjYZV-WSEvy8khL8vI",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60412447/01%E7%9B%B4%E6%93%8A-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E8%8A%AC%E6%9D%91%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%AB%E5%83%8F%E6%88%90%E6%89%93%E5%8D%A1%E9%BB%9E-%E7%95%AB%E5%AE%B6-%E7%9B%BC%E4%BB%96%E6%9C%AC%E4%BA%BA%E8%A6%AA%E7%9C%BC%E8%A6%8B%E5%88%B0",
     "timestamp": "2026-11-19T01:48:27.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "百達翡麗PP兩代星空錶全比對　6105日出日落新功能精度碾壓同級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199763520510496768860419.jpeg/mBhQGGafJAXf0aSJX6VhfySZ_0xoxvSRoYqAz6GKgM8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60401286/%E7%99%BE%E9%81%94%E7%BF%A1%E9%BA%97pp%E5%85%A9%E4%BB%A3%E6%98%9F%E7%A9%BA%E9%8C%B6%E5%85%A8%E6%AF%94%E5%B0%8D-6105%E6%97%A5%E5%87%BA%E6%97%A5%E8%90%BD%E6%96%B0%E5%8A%9F%E8%83%BD%E7%B2%BE%E5%BA%A6%E7%A2%BE%E5%A3%93%E5%90%8C%E7%B4%9A",
-    "timestamp": "2026-11-19T01:20:16.493Z",
     "strategy": ".content-card__main"
   }
 ];
