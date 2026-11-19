@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T20:20:22.385Z
+// Last updated: 2026-11-19T20:45:25.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "油麻地男子街頭暈倒　朋友報警　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200298686102376448042518.jpeg/KWla63Papw3LivNPagO9kkgfaxkUyvbgubdrTbm3a00?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412936/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E8%AD%A6-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-11-19T20:45:25.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油麻地男子街頭暈倒　朋友報警　當場不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200211004445691904157482.jpeg/m0VgAgBwXebXjUG0UA4EaYqldlPfWO3gND16FjQ9ehY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412903/%E5%B0%96%E6%B2%99%E5%92%80%E5%86%AC%E6%97%A5%E5%B0%8F%E9%8E%AE%E6%8F%AD%E5%B9%95%E7%AC%AC%E4%BA%8C%E6%97%A5%E4%BA%BA%E9%A0%AD%E6%B9%A7-%E6%B1%9F%E8%A5%BF%E6%97%85%E5%AE%A2%E8%AE%9A%E5%85%89%E5%BD%B1%E5%8C%AF%E6%B0%A3%E6%B0%9B%E6%9B%B4%E5%8B%9D%E5%85%A7%E5%9C%B0",
     "timestamp": "2026-11-19T15:30:02.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "再婚皇后｜申敏兒不孕真相曝光！朱智勛偏信小三李世榮決意離婚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200154459959726080371205.png/kv7YYGtgyYcoKG8iLAv_WtdUxGlgHOC3g6WQ04OlkNM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412818/%E5%86%8D%E5%A9%9A%E7%9A%87%E5%90%8E-%E7%94%B3%E6%95%8F%E5%85%92%E4%B8%8D%E5%AD%95%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89-%E6%9C%B1%E6%99%BA%E5%8B%9B%E5%81%8F%E4%BF%A1%E5%B0%8F%E4%B8%89%E6%9D%8E%E4%B8%96%E6%A6%AE%E6%B1%BA%E6%84%8F%E9%9B%A2%E5%A9%9A",
-    "timestamp": "2026-11-19T14:59:11.556Z",
     "strategy": ".content-card__main"
   }
 ];
