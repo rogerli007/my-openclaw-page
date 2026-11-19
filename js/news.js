@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T17:29:24.763Z
+// Last updated: 2026-11-19T17:45:32.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Anthropic上市｜ANT首掛高開34%！　集資額超SpaceX成史上最大IPO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412536/anthropic%E4%B8%8A%E5%B8%82-ant%E9%A6%96%E6%8E%9B%E9%AB%98%E9%96%8B34-%E9%9B%86%E8%B3%87%E9%A1%8D%E8%B6%85spacex%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo",
+    "timestamp": "2026-11-19T17:45:32.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic上市｜ANT首掛高開34%！　集資額超SpaceX成史上最大IPO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200152594509467648678590.jpeg/59VEC-3NBkZIlPG5acnYC7Z57FazFif93GoPftxqD34",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60412781/gta-6-%E9%8E%9630fps%E6%9C%89%E5%BE%97%E6%95%91-%E5%85%8D%E8%B2%BB%E8%A3%9C%E5%B9%80%E8%BB%9F%E4%BB%B6%E8%A8%AD%E5%AE%9A%E6%95%99%E5%AD%B8-%E6%9C%80%E9%AB%98%E6%8E%A8%E4%B8%8A240fps",
     "timestamp": "2026-11-19T11:19:46.789Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中俄美元首和平宣言：三國元首重申核戰爭打不贏也打不得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200132164021391360031697.jpeg/xuZQxm-b6atqRzP1NRlUxf8eXSyNyE7QJqI8AyaiPAM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60412846/%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80-%E4%B8%89%E5%9C%8B%E5%85%83%E9%A6%96%E9%87%8D%E7%94%B3%E6%A0%B8%E6%88%B0%E7%88%AD%E6%89%93%E4%B8%8D%E8%B4%8F%E4%B9%9F%E6%89%93%E4%B8%8D%E5%BE%97",
-    "timestamp": "2026-11-19T10:59:08.746Z",
     "strategy": ".content-card__main"
   }
 ];
