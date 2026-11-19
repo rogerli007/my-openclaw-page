@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T15:45:32.752Z
+// Last updated: 2026-11-19T15:58:56.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈里王子：若有需要　願再次報名參軍對抗俄羅斯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198971119617445888094685.jpeg/AWGFzvYRY_cQBiFVo9c0ei7BUqgTVx98QaDMiUGgzIk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412919/%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90-%E8%8B%A5%E6%9C%89%E9%9C%80%E8%A6%81-%E9%A1%98%E5%86%8D%E6%AC%A1%E5%A0%B1%E5%90%8D%E5%8F%83%E8%BB%8D%E5%B0%8D%E6%8A%97%E4%BF%84%E7%BE%85%E6%96%AF",
+    "timestamp": "2026-11-19T15:58:56.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "紐約華裔男子砍父後持刀逼近警察遭擊斃　執法錄像曝光血染梯間",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200120053257736192720864.jpeg/QVY_FT6GjPuG7P8VZQ5-iYEoYqyD5JCKwDjLOsA4yzo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412728/apec-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%97%A5-%E9%87%91%E6%AD%A3%E6%81%A9%E5%8D%97%E4%B8%8B-%E9%9F%93%E5%AA%92-%E4%BB%8D%E4%B8%8D%E6%8E%92%E9%99%A4%E6%9C%83%E6%99%A4%E5%8F%AF%E8%83%BD",
     "timestamp": "2026-11-19T08:59:01.512Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西醫李志良醉駕罪成未及時上報　醫委會裁專業失當發警告信",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200105835372482560716832.jpeg/z6-LrVQ8EPaLDKEB9DGmUOF-lzwzbFqzHPwJxBz8CcQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412688/%E8%A5%BF%E9%86%AB%E6%9D%8E%E5%BF%97%E8%89%AF%E9%86%89%E9%A7%95%E7%BD%AA%E6%88%90%E6%9C%AA%E5%8F%8A%E6%99%82%E4%B8%8A%E5%A0%B1-%E9%86%AB%E5%A7%94%E6%9C%83%E8%A3%81%E5%B0%88%E6%A5%AD%E5%A4%B1%E7%95%B6%E7%99%BC%E8%AD%A6%E5%91%8A%E4%BF%A1",
-    "timestamp": "2026-11-19T08:36:37.626Z",
     "strategy": ".content-card__main"
   }
 ];
