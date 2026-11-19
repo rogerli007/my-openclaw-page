@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T16:58:56.084Z
+// Last updated: 2026-11-19T17:18:49.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Anthropic上市｜ANT首掛高開34%！　集資額超SpaceX成史上最大IPO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412536/anthropic%E4%B8%8A%E5%B8%82-ant%E9%A6%96%E6%8E%9B%E9%AB%98%E9%96%8B34-%E9%9B%86%E8%B3%87%E9%A1%8D%E8%B6%85spacex%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo",
+    "timestamp": "2026-11-19T17:18:49.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC｜特朗普：有與習主席討論AI　雙方一致認為設部份限制是好事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136311745111920640319657.png/1xOGFdXteR6vjdNP4b-_6pCpGvAvwsWhMTKvvTEyr70?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60412836/%E7%AE%A1%E6%B5%A9%E9%B3%B4%E6%8E%A5%E9%9B%BB%E9%A8%99%E8%A2%AB%E9%BB%9E%E5%8E%BB%E6%94%BF%E7%B8%BD-%E8%A1%A8%E9%9C%B2%E8%BA%AB%E4%BB%BD%E4%B8%80%E6%8B%9B-ko-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
     "timestamp": "2026-11-19T10:45:49.836Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB台慶2026紅地氈二｜一文睇靚相　李芷晴葉蒨文騷胸硬撼廖慧儀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200149818928795648869430.jpeg/JTlXj8z9R7A8AIc_q301GanDtL87cpht-Yp6StyKeko?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412803/tvb%E5%8F%B0%E6%85%B62026%E7%B4%85%E5%9C%B0%E6%B0%88%E4%BA%8C-%E4%B8%80%E6%96%87%E7%9D%87%E9%9D%9A%E7%9B%B8-%E6%9D%8E%E8%8A%B7%E6%99%B4%E8%91%89%E8%92%A8%E6%96%87%E9%A8%B7%E8%83%B8%E7%A1%AC%E6%92%BC%E5%BB%96%E6%85%A7%E5%84%80",
-    "timestamp": "2026-11-19T10:20:04.037Z",
     "strategy": ".content-card__main"
   }
 ];
