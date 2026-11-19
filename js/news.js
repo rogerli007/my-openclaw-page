@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T02:23:57.666Z
+// Last updated: 2026-11-19T02:36:34.482Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "我的有罪之人｜任時完演活高冷財閥！擺脫老土高中生味被讚劇拋臉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199788167197102080156480.png/Z6pH-0T3XAAioZ7eFf8dT_10vdQ9f8ytQBuRUkAbkVI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412324/%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA-%E4%BB%BB%E6%99%82%E5%AE%8C%E6%BC%94%E6%B4%BB%E9%AB%98%E5%86%B7%E8%B2%A1%E9%96%A5-%E6%93%BA%E8%84%AB%E8%80%81%E5%9C%9F%E9%AB%98%E4%B8%AD%E7%94%9F%E5%91%B3%E8%A2%AB%E8%AE%9A%E5%8A%87%E6%8B%8B%E8%87%89",
+    "timestamp": "2026-11-19T02:36:34.482Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣東歌殺入GTA 6！林子祥《敢愛敢做》殺入遊戲電台揚威海外",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250206/964103362196803584738251.jpeg/Ll58T2H4XvAvQ5_mL2rnSf9xp3yyje_XgfwFSoH8BUo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412453/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%B8%BD%E5%AF%A9%E8%A8%88%E9%95%B7-%E5%B0%8D%E9%95%B7%E5%92%8C%E5%AD%90%E5%85%AC%E5%8F%B8%E5%8F%8A%E6%B5%B7%E4%BA%8B%E5%B1%80%E5%89%8D%E9%AB%98%E5%B1%A4%E6%8F%90%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F",
     "timestamp": "2026-11-18T19:18:00.909Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李尚正經歷嚴重車禍：鎖骨脊骨全碎 死裡逃生重新學站立",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261114/1198330323331452928468952.jpeg/3l9qtCLgF6jcIaN8ACVMxQkcxxTU-EcV73VI4e91SOE",
-    "url": "https://www.hk01.com/01TV/60410819/%E6%9D%8E%E5%B0%9A%E6%AD%A3%E7%B6%93%E6%AD%B7%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D-%E9%8E%96%E9%AA%A8%E8%84%8A%E9%AA%A8%E5%85%A8%E7%A2%8E-%E6%AD%BB%E8%A3%A1%E9%80%83%E7%94%9F%E9%87%8D%E6%96%B0%E5%AD%B8%E7%AB%99%E7%AB%8B",
-    "timestamp": "2026-11-18T18:59:07.301Z",
     "strategy": ".content-card__main"
   }
 ];
