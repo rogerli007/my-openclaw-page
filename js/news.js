@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T21:59:06.362Z
+// Last updated: 2026-11-19T22:14:20.734Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「閉月」貂蟬連環計　如何改寫董卓之死與呂布命運｜四大美人之三",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200150695618023424953016.png/C5CsXBodP1KtOBgY_IJz39E2sWe33ILBJETf9iRE3_Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411587/%E9%96%89%E6%9C%88-%E8%B2%82%E8%9F%AC%E9%80%A3%E7%92%B0%E8%A8%88-%E5%A6%82%E4%BD%95%E6%94%B9%E5%AF%AB%E8%91%A3%E5%8D%93%E4%B9%8B%E6%AD%BB%E8%88%87%E5%91%82%E5%B8%83%E5%91%BD%E9%81%8B-%E5%9B%9B%E5%A4%A7%E7%BE%8E%E4%BA%BA%E4%B9%8B%E4%B8%89",
+    "timestamp": "2026-11-19T22:14:20.734Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丹麥議會通過格陵蘭安全協議　擴大美國軍事准入範圍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200242095940440064821657.jpeg/0huynk0zdN3ZYBkZHib3jCXO2A-4kEV_HO9PQRzvT0E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412924/tvb%E5%8F%B0%E6%85%B62026-%E9%BB%83%E5%8A%8D%E6%96%87%E9%A3%9F%E9%9B%9E%E9%AB%80%E5%A4%B110%E8%90%AC%E7%9C%BC%E6%B3%9B%E6%B7%9A%E5%85%89-%E7%BE%A8%E6%85%95%E8%82%A5%E5%AA%BD%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6",
     "timestamp": "2026-11-19T16:45:33.274Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB台慶2026｜黃劍文食雞髀失10萬眼泛淚光　羨慕肥媽地位超然",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200242095940440064821657.jpeg/0huynk0zdN3ZYBkZHib3jCXO2A-4kEV_HO9PQRzvT0E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412924/tvb%E5%8F%B0%E6%85%B62026-%E9%BB%83%E5%8A%8D%E6%96%87%E9%A3%9F%E9%9B%9E%E9%AB%80%E5%A4%B110%E8%90%AC%E7%9C%BC%E6%B3%9B%E6%B7%9A%E5%85%89-%E7%BE%A8%E6%85%95%E8%82%A5%E5%AA%BD%E5%9C%B0%E4%BD%8D%E8%B6%85%E7%84%B6",
-    "timestamp": "2026-11-19T16:31:51.872Z",
     "strategy": ".content-card__main"
   }
 ];
