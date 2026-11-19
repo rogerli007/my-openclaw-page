@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T13:45:46.959Z
+// Last updated: 2026-11-19T13:59:13.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩11.24頭獎6800萬攪珠前攻略！6個最旺號碼+2招增中獎機會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261031/1193319918834028544678529.jpeg/RlTOdEqqWGPYm8CAFhc3CA6aTz1PsQjkQREnO0ERJzs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412895/%E5%85%AD%E5%90%88%E5%BD%A911-24%E9%A0%AD%E7%8D%8E6800%E8%90%AC%E6%94%AA%E7%8F%A0%E5%89%8D%E6%94%BB%E7%95%A5-6%E5%80%8B%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E7%8D%8E%E6%A9%9F%E6%9C%83",
+    "timestamp": "2026-11-19T13:59:13.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中環滙豐銀行菲律賓婦疑持假文件被捕　據悉要求轉錢$390億",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230310/710879488624431104381427.jpeg/uOdDVRYzXtNBuG-eMffPmdAzBSEN8fCuqXP9jqlz_Y4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412660/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E6%B8%AF%E6%99%BA%E6%8C%87%E8%94%A1%E7%82%BA%E9%8C%A2%E4%B8%8B%E5%AB%81%E8%AD%9A%E6%96%B9%E9%A7%BF-%E5%BD%A2%E5%AE%B9%E4%B8%89%E4%BA%BA%E9%97%9C%E4%BF%82%E8%A4%87%E9%9B%9C%E4%BD%86%E5%8F%AF%E6%8E%A5%E5%8F%97",
     "timestamp": "2026-11-19T06:51:29.280Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山藥功效｜健脾補腎4類人不宜  揀山藥4招粗或幼好？與淮山3不同",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250702/1017135596147052544273648.jpeg/hQIzOuC0jEIz75GO2oJ5ShgXx4qUhjcInK7WzZyu1s0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60409585/%E5%B1%B1%E8%97%A5%E5%8A%9F%E6%95%88-%E5%81%A5%E8%84%BE%E8%A3%9C%E8%85%8E4%E9%A1%9E%E4%BA%BA%E4%B8%8D%E5%AE%9C-%E6%8F%80%E5%B1%B1%E8%97%A54%E6%8B%9B%E7%B2%97%E6%88%96%E5%B9%BC%E5%A5%BD-%E8%88%87%E6%B7%AE%E5%B1%B13%E4%B8%8D%E5%90%8C",
-    "timestamp": "2026-11-19T05:59:17.227Z",
     "strategy": ".content-card__main"
   }
 ];
