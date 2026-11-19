@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T03:59:03.868Z
+// Last updated: 2026-11-19T04:21:55.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "好人好事．有片｜火炭男子OT外出食飯變救火　邊拍片邊淡定灌救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200052429731663872745623.jpeg/iY84BS-t95FBJbMkiOvts3MlEAAXVsY5bt1J2m7dSdo",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412570/%E5%A5%BD%E4%BA%BA%E5%A5%BD%E4%BA%8B-%E6%9C%89%E7%89%87-%E7%81%AB%E7%82%AD%E7%94%B7%E5%AD%90ot%E5%A4%96%E5%87%BA%E9%A3%9F%E9%A3%AF%E8%AE%8A%E6%95%91%E7%81%AB-%E9%82%8A%E6%8B%8D%E7%89%87%E9%82%8A%E6%B7%A1%E5%AE%9A%E7%81%8C%E6%95%91",
+    "timestamp": "2026-11-19T04:21:55.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC深圳｜與會領袖披「鯤鵬展翅」圍巾合照　李家超佩紅色",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1199925864356122624451832.jpeg/w1l8jZxfRTwEWkaDsfIpdKUQ_QyJQCY2V1i4SldYuEo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412454/%E7%BE%8E%E9%98%B2%E9%95%B7%E7%AA%81%E8%A8%AA%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89-%E5%AE%A3%E5%B8%83%E5%85%A9%E5%9C%8B%E9%81%94%E6%88%90%E6%96%B0%E8%BB%8D%E4%BA%8B%E5%90%88%E4%BD%9C%E5%8D%94%E8%AD%B0%E6%B6%89%E6%83%85%E5%A0%B1%E5%85%B1%E4%BA%AB",
     "timestamp": "2026-11-18T19:59:16.772Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴拿馬總審計長：對長和子公司及海事局前高層提刑事訴訟",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250206/964103362196803584738251.jpeg/Ll58T2H4XvAvQ5_mL2rnSf9xp3yyje_XgfwFSoH8BUo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412453/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E7%B8%BD%E5%AF%A9%E8%A8%88%E9%95%B7-%E5%B0%8D%E9%95%B7%E5%92%8C%E5%AD%90%E5%85%AC%E5%8F%B8%E5%8F%8A%E6%B5%B7%E4%BA%8B%E5%B1%80%E5%89%8D%E9%AB%98%E5%B1%A4%E6%8F%90%E5%88%91%E4%BA%8B%E8%A8%B4%E8%A8%9F",
-    "timestamp": "2026-11-18T19:45:24.035Z",
     "strategy": ".content-card__main"
   }
 ];
