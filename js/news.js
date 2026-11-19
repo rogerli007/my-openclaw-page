@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T15:58:56.281Z
+// Last updated: 2026-11-19T16:15:52.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "咒術迴戰x壽司郎香港之旅系列超正：滿$200換購立牌產量極少速換",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200134703353434112283704.png/zjxl8w2fhkXRzlsKva4CCD-CzvM2K2iCwvA438LwON8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60412709/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0x%E5%A3%BD%E5%8F%B8%E9%83%8E%E9%A6%99%E6%B8%AF%E4%B9%8B%E6%97%85%E7%B3%BB%E5%88%97%E8%B6%85%E6%AD%A3-%E6%BB%BF-200%E6%8F%9B%E8%B3%BC%E7%AB%8B%E7%89%8C%E7%94%A2%E9%87%8F%E6%A5%B5%E5%B0%91%E9%80%9F%E6%8F%9B",
+    "timestamp": "2026-11-19T16:15:52.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈里王子：若有需要　願再次報名參軍對抗俄羅斯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200135128026714112875642.jpeg/9biQ1yqgYu6unWaefq52cfI87Uh86Fzr7KW5acmluWk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412763/%E8%97%8D%E7%94%B0%E5%95%93%E7%94%B0%E9%81%93%E8%81%96%E5%85%AC%E6%9C%83%E5%9F%BA%E5%AD%9D%E4%B8%AD%E5%AD%B8%E7%96%91%E6%9C%89-%E5%B0%BF%E8%A2%8B-%E8%B5%B7%E7%81%AB-14%E6%AD%B2%E7%94%B7%E5%AD%B8%E7%94%9F%E7%87%92%E5%82%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-11-19T09:21:49.583Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC｜特朗普訪華最後一日　金正恩南下　韓媒：仍不排除會晤可能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200120053257736192720864.jpeg/QVY_FT6GjPuG7P8VZQ5-iYEoYqyD5JCKwDjLOsA4yzo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412728/apec-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%AA%E8%8F%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%97%A5-%E9%87%91%E6%AD%A3%E6%81%A9%E5%8D%97%E4%B8%8B-%E9%9F%93%E5%AA%92-%E4%BB%8D%E4%B8%8D%E6%8E%92%E9%99%A4%E6%9C%83%E6%99%A4%E5%8F%AF%E8%83%BD",
-    "timestamp": "2026-11-19T08:59:01.512Z",
     "strategy": ".content-card__main"
   }
 ];
