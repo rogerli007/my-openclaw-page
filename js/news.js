@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T12:24:35.119Z
+// Last updated: 2026-11-19T12:38:32.127Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「金融科技前瞻研討會暨01金融科技卓領大獎頒獎禮2026」圓滿舉行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200151760413396992530429.jpeg/jkDwg1rcUPbuxdsA9NcNcaGZ4uN3s9o9yT3yw8k98sM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412834/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%89%8D%E7%9E%BB%E7%A0%94%E8%A8%8E%E6%9C%83%E6%9A%A801%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%8D%93%E9%A0%98%E5%A4%A7%E7%8D%8E%E9%A0%92%E7%8D%8E%E7%A6%AE2026-%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C",
+    "timestamp": "2026-11-19T12:38:32.127Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣轉涼尖沙咀煲仔飯店銷量突增三成　砂煲「洗唔切」需緊急訂購",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200074720993611776907685.jpeg/FKs9lqaSFeARnq1nKlHz0p4uUxrJaJsqk1QBEJNUARA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60412520/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E5%91%A8%E5%85%AD%E5%88%86%E5%8D%8010-%E4%BF%9D%E6%9A%966%E7%A6%81%E5%BF%8C-%E9%86%AB%E7%94%9F-%E6%90%93%E6%89%8B%E8%85%B3%E7%84%A1%E7%94%A8%E6%81%90%E8%87%B4%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E",
     "timestamp": "2026-11-19T05:21:03.533Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台北女童16年前跨年倒數離奇失蹤！網民用AI製「20歲照片」助尋人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200054652079443968074512.jpeg/-AAiytNZM424B6cqj2PJgM6qdWSBiN3RzjhW0c44VtE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60412558/%E5%8F%B0%E5%8C%97%E5%A5%B3%E7%AB%A516%E5%B9%B4%E5%89%8D%E8%B7%A8%E5%B9%B4%E5%80%92%E6%95%B8%E9%9B%A2%E5%A5%87%E5%A4%B1%E8%B9%A4-%E7%B6%B2%E6%B0%91%E7%94%A8ai%E8%A3%BD-20%E6%AD%B2%E7%85%A7%E7%89%87-%E5%8A%A9%E5%B0%8B%E4%BA%BA",
-    "timestamp": "2026-11-19T04:59:16.485Z",
     "strategy": ".content-card__main"
   }
 ];
