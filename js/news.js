@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T17:18:49.256Z
+// Last updated: 2026-11-19T17:29:24.763Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Anthropic上市｜ANT首掛高開34%！　集資額超SpaceX成史上最大IPO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260919/1178020784317140992906745.jpeg/Rvv-vmrCaPMz3Ap-jlYTAMbyNVUes917N2z3cjds93I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412536/anthropic%E4%B8%8A%E5%B8%82-ant%E9%A6%96%E6%8E%9B%E9%AB%98%E9%96%8B34-%E9%9B%86%E8%B3%87%E9%A1%8D%E8%B6%85spacex%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo",
+    "timestamp": "2026-11-19T17:29:24.763Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic上市｜ANT首掛高開34%！　集資額超SpaceX成史上最大IPO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200132164021391360031697.jpeg/xuZQxm-b6atqRzP1NRlUxf8eXSyNyE7QJqI8AyaiPAM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60412846/%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80-%E4%B8%89%E5%9C%8B%E5%85%83%E9%A6%96%E9%87%8D%E7%94%B3%E6%A0%B8%E6%88%B0%E7%88%AD%E6%89%93%E4%B8%8D%E8%B4%8F%E4%B9%9F%E6%89%93%E4%B8%8D%E5%BE%97",
     "timestamp": "2026-11-19T10:59:08.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "管浩鳴接電騙被點去政總　表露身份一招「KO」｜政壇諸事町",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260527/1136311745111920640319657.png/1xOGFdXteR6vjdNP4b-_6pCpGvAvwsWhMTKvvTEyr70?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60412836/%E7%AE%A1%E6%B5%A9%E9%B3%B4%E6%8E%A5%E9%9B%BB%E9%A8%99%E8%A2%AB%E9%BB%9E%E5%8E%BB%E6%94%BF%E7%B8%BD-%E8%A1%A8%E9%9C%B2%E8%BA%AB%E4%BB%BD%E4%B8%80%E6%8B%9B-ko-%E6%94%BF%E5%A3%87%E8%AB%B8%E4%BA%8B%E7%94%BA",
-    "timestamp": "2026-11-19T10:45:49.836Z",
     "strategy": ".content-card__main"
   }
 ];
