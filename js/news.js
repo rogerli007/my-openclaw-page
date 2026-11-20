@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T03:45:27.260Z
+// Last updated: 2026-11-20T03:59:14.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台媽攜感染諾如病毒女兒訪日 網民批行為自私 附6大症狀及預防6招",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200262733660950528851079.jpeg/-D6B-tsslP3Ap6C6WzBgXmQ1M2Zw5O3ekVkQOJFZEDg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60412932/%E5%8F%B0%E5%AA%BD%E6%94%9C%E6%84%9F%E6%9F%93%E8%AB%BE%E5%A6%82%E7%97%85%E6%AF%92%E5%A5%B3%E5%85%92%E8%A8%AA%E6%97%A5-%E7%B6%B2%E6%B0%91%E6%89%B9%E8%A1%8C%E7%82%BA%E8%87%AA%E7%A7%81-%E9%99%846%E5%A4%A7%E7%97%87%E7%8B%80%E5%8F%8A%E9%A0%90%E9%98%B26%E6%8B%9B",
+    "timestamp": "2026-11-20T03:59:14.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "第三屆DALA Awards：聚焦數據素養與負責任人工智能",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200298686102376448042518.jpeg/KWla63Papw3LivNPagO9kkgfaxkUyvbgubdrTbm3a00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412936/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E8%AD%A6-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-11-19T20:58:58.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地男子街頭暈倒　朋友報警　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200298686102376448042518.jpeg/KWla63Papw3LivNPagO9kkgfaxkUyvbgubdrTbm3a00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412936/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E8%AD%A6-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-11-19T20:45:25.622Z",
     "strategy": ".content-card__main"
   }
 ];
