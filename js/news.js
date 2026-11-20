@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T08:36:31.651Z
+// Last updated: 2026-11-20T08:59:13.169Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新地委任葉劉淑儀為獨立非執董　年收30萬元董事袍金",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155165396249219072675039.jpeg/pmKGGpACsB0du2ipp21pHaVvRH1WEUiTQ5mBxkOZgcY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413215/%E6%96%B0%E5%9C%B0%E5%A7%94%E4%BB%BB%E8%91%89%E5%8A%89%E6%B7%91%E5%84%80%E7%82%BA%E7%8D%A8%E7%AB%8B%E9%9D%9E%E5%9F%B7%E8%91%A3-%E5%B9%B4%E6%94%B630%E8%90%AC%E5%85%83%E8%91%A3%E4%BA%8B%E8%A2%8D%E9%87%91",
+    "timestamp": "2026-11-20T08:59:13.169Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳｜庭上俚語考起傳譯員　臨老入花叢、M底、弱雞點翻譯？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250502/994910190564282368420167.jpeg/_OIzNIN6QE8jBpyU4MNlTzJMwDk6NDQZx13TSsdd00o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412978/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%BE%8E%E6%9B%BE%E6%89%B9%E8%BF%9190%E8%90%AC%E9%A1%86ai%E6%99%B6%E7%89%87%E5%85%A5%E8%8F%AF-%E9%A8%B0%E8%A8%8A-%E9%98%BF%E9%87%8C%E5%85%B1%E7%8D%B2%E9%80%BE20%E8%90%AC%E9%A1%86",
     "timestamp": "2026-11-20T02:24:06.849Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天文台：今早9時錄最低15.1度　入秋以來最低　日間續降至約13度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200373266800185344276584.jpeg/qdEFQhSrXw4ULaC_OZO0PKoUkA9W3upjuLump7i7pqc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412959/%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A99%E6%99%82%E9%8C%84%E6%9C%80%E4%BD%8E15-1%E5%BA%A6-%E5%85%A5%E7%A7%8B%E4%BB%A5%E4%BE%86%E6%9C%80%E4%BD%8E-%E6%97%A5%E9%96%93%E7%BA%8C%E9%99%8D%E8%87%B3%E7%B4%8413%E5%BA%A6",
-    "timestamp": "2026-11-20T01:20:17.607Z",
     "strategy": ".content-card__main"
   }
 ];
