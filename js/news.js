@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T18:45:46.004Z
+// Last updated: 2026-11-20T18:59:03.097Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：企業海外建數據中心將被徵巨額稅　中美同意設AI防護機制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200633165870272512129856.jpeg/CJfDCqUPkBcQRt-SsbZMfwyORY3yQ5KNpwLq96cC6vc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413336/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%81%E6%A5%AD%E6%B5%B7%E5%A4%96%E5%BB%BA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%B0%87%E8%A2%AB%E5%BE%B5%E5%B7%A8%E9%A1%8D%E7%A8%85-%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E8%A8%ADai%E9%98%B2%E8%AD%B7%E6%A9%9F%E5%88%B6",
+    "timestamp": "2026-11-20T18:59:03.097Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：企業海外建數據中心將被徵巨額稅　中美同意設AI防護機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200152372391841792028659.jpeg/vzkAMh9A7XI6AFY2a9pDsN87PtAiKFdOzavaFs2r2hY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413292/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%89%8D%E7%9E%BB%E7%A0%94%E8%A8%8E%E6%9C%83-%E5%AD%AB%E6%9D%B1-%E4%BC%81%E6%A5%AD%E9%9C%80%E6%93%81%E6%8A%B1%E7%A7%91%E6%8A%80-%E7%A2%BA%E4%BF%9D%E9%A0%98%E8%B7%91%E6%95%B8%E5%AD%97%E5%8C%96%E6%B5%AA%E6%BD%AE",
     "timestamp": "2026-11-20T11:58:57.323Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "假冒機構職員扮退款呃錢呃資料　警:或源自資料外洩　即學4招自保",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200530337948504064867190.jpeg/HOAeDSSJKeQjV_P5ZkIwdxMM-7FbrXho9JPG7fSTxu0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413287/%E5%81%87%E5%86%92%E6%A9%9F%E6%A7%8B%E8%81%B7%E5%93%A1%E6%89%AE%E9%80%80%E6%AC%BE%E5%91%83%E9%8C%A2%E5%91%83%E8%B3%87%E6%96%99-%E8%AD%A6-%E6%88%96%E6%BA%90%E8%87%AA%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9-%E5%8D%B3%E5%AD%B84%E6%8B%9B%E8%87%AA%E4%BF%9D",
-    "timestamp": "2026-11-20T11:45:34.420Z",
     "strategy": ".content-card__main"
   }
 ];
