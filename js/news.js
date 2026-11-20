@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T17:29:38.928Z
+// Last updated: 2026-11-20T17:45:44.610Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寒冷天氣警告｜羊腩煲大賣　有餐廳傍晚宣布提早收工　外賣停三日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200590299080953856352971.jpeg/LQnE7ZNDSkwmRJjOlJk3inAHRrQkK8Y5CEzLxwhMy8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413324/%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A-%E7%BE%8A%E8%85%A9%E7%85%B2%E5%A4%A7%E8%B3%A3-%E6%9C%89%E9%A4%90%E5%BB%B3%E5%82%8D%E6%99%9A%E5%AE%A3%E5%B8%83%E6%8F%90%E6%97%A9%E6%94%B6%E5%B7%A5-%E5%A4%96%E8%B3%A3%E5%81%9C%E4%B8%89%E6%97%A5",
+    "timestamp": "2026-11-20T17:45:44.610Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寒冷天氣警告｜羊腩煲大賣　有餐廳傍晚宣布提早收工　外賣停三日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200518032745566208845096.png/n_fGMy-0T4QsV6gbynDXYNB699gtmm6d9jbDivY2w4o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413271/%E6%A8%82%E5%AF%8C%E5%94%90%E6%A8%93%E6%A2%AF%E9%96%93%E8%97%8F%E6%AF%92%E6%96%B7%E6%AD%A3-%E8%AD%A6%E6%90%9C%E5%B1%8B%E5%85%B1%E6%AA%A2-47-8%E8%90%AC%E8%B2%A8-29%E6%AD%B2%E7%94%B7%E6%8E%A7%E5%85%A9%E8%B2%A9%E6%AF%92%E7%BD%AA",
     "timestamp": "2026-11-20T10:45:43.919Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃澤林攜新歡赴名門飯局　譚旻萱生日晒英文被起底學歷嘲：好Kam",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200505445429547008614079.png/n9jeZo1FrJR1izMXhXIPen9cWkxIyMxr11__utdf_7o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413236/%E9%BB%83%E6%BE%A4%E6%9E%97%E6%94%9C%E6%96%B0%E6%AD%A1%E8%B5%B4%E5%90%8D%E9%96%80%E9%A3%AF%E5%B1%80-%E8%AD%9A%E6%97%BB%E8%90%B1%E7%94%9F%E6%97%A5%E6%99%92%E8%8B%B1%E6%96%87%E8%A2%AB%E8%B5%B7%E5%BA%95%E5%AD%B8%E6%AD%B7%E5%98%B2-%E5%A5%BDkam",
-    "timestamp": "2026-11-20T10:20:12.398Z",
     "strategy": ".content-card__main"
   }
 ];
