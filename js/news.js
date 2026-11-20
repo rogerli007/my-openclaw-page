@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T10:45:43.919Z
+// Last updated: 2026-11-20T10:59:07.703Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廠商會換屆　CATALO老闆陳家偉當選會長　明年起接棒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200521876112150528140327.png/KSShEQRcGjd6X6Omk24JMHXuliErXSkHyFVvk8hVb5M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413279/%E5%BB%A0%E5%95%86%E6%9C%83%E6%8F%9B%E5%B1%86-catalo%E8%80%81%E9%97%86%E9%99%B3%E5%AE%B6%E5%81%89%E7%95%B6%E9%81%B8%E6%9C%83%E9%95%B7-%E6%98%8E%E5%B9%B4%E8%B5%B7%E6%8E%A5%E6%A3%92",
+    "timestamp": "2026-11-20T10:59:07.703Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樂富唐樓梯間藏毒斷正　警搜屋共檢$47.8萬貨　29歲男控兩販毒罪",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197906161110618112974523.jpeg/Bo4Z1Ib03Q1T__A48pje8oOsbYniflYVCWslRwlrJUc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413050/%E5%84%84%E4%B8%96%E5%AE%B6echome%E4%B8%80%E6%AC%BE%E9%9B%BB%E7%A3%81%E7%88%90%E8%83%BD%E6%BA%90%E6%95%88%E7%9B%8A%E6%88%96%E8%A1%A8%E7%8F%BE%E6%9C%AA%E9%81%94%E6%A8%99-%E5%8D%B3%E6%97%A5%E8%B5%B7%E7%A6%81%E5%9C%A8%E6%B8%AF%E4%BE%9B%E6%87%89",
     "timestamp": "2026-11-20T04:22:03.665Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台媽攜感染諾如病毒女兒訪日 網民批行為自私 附6大症狀及預防6招",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200262733660950528851079.jpeg/-D6B-tsslP3Ap6C6WzBgXmQ1M2Zw5O3ekVkQOJFZEDg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60412932/%E5%8F%B0%E5%AA%BD%E6%94%9C%E6%84%9F%E6%9F%93%E8%AB%BE%E5%A6%82%E7%97%85%E6%AF%92%E5%A5%B3%E5%85%92%E8%A8%AA%E6%97%A5-%E7%B6%B2%E6%B0%91%E6%89%B9%E8%A1%8C%E7%82%BA%E8%87%AA%E7%A7%81-%E9%99%846%E5%A4%A7%E7%97%87%E7%8B%80%E5%8F%8A%E9%A0%90%E9%98%B26%E6%8B%9B",
-    "timestamp": "2026-11-20T03:59:14.232Z",
     "strategy": ".content-card__main"
   }
 ];
