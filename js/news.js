@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T13:19:56.787Z
+// Last updated: 2026-11-20T14:20:51.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江若琳代班做DJ壓力爆煲　驚揭工人姐姐廁紙盒當飯盒：好生面口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200513955823357952056128.jpeg/zUFFZ7W4_zJqbiDLYL8TLKJre3pQqshwsXRLpbF0S6U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413266/%E6%B1%9F%E8%8B%A5%E7%90%B3%E4%BB%A3%E7%8F%AD%E5%81%9Adj%E5%A3%93%E5%8A%9B%E7%88%86%E7%85%B2-%E9%A9%9A%E6%8F%AD%E5%B7%A5%E4%BA%BA%E5%A7%90%E5%A7%90%E5%BB%81%E7%B4%99%E7%9B%92%E7%95%B6%E9%A3%AF%E7%9B%92-%E5%A5%BD%E7%94%9F%E9%9D%A2%E5%8F%A3",
+    "timestamp": "2026-11-20T14:20:51.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山富寶花園停水｜管理處：各座食水陸續恢復　續安排修鹹水管",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200458394268340224580361.jpeg/9iY4RX_POn51gNFwly_PYNEYjxc42U-uGAOPZxgDj2c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413111/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%81%8B%E5%8B%95%E5%A0%B4%E5%A4%96%E5%9C%B0%E7%9B%A4-%E7%99%BC%E7%8F%BE%E6%87%B7%E7%96%91%E7%88%86%E7%82%B8%E5%93%81-eod%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-20T06:51:42.244Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳案｜看報道始知蔡被分屍　鄺港智：好驚囉唔知佢咁樣處理",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250604/1006952193934233600674305.jpeg/gNaglV6yGx_G7WC0_FnmA0hjDMBIBPz1KHCdgg1wnYI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413112/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E7%9C%8B%E5%A0%B1%E9%81%93%E5%A7%8B%E7%9F%A5%E8%94%A1%E8%A2%AB%E5%88%86%E5%B1%8D-%E9%84%BA%E6%B8%AF%E6%99%BA-%E5%A5%BD%E9%A9%9A%E5%9B%89%E5%94%94%E7%9F%A5%E4%BD%A2%E5%92%81%E6%A8%A3%E8%99%95%E7%90%86",
-    "timestamp": "2026-11-20T06:27:56.767Z",
     "strategy": ".content-card__main"
   }
 ];
