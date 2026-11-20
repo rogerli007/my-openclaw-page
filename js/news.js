@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T00:56:58.508Z
+// Last updated: 2026-11-20T01:20:17.607Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天文台：今早9時錄最低15.1度　入秋以來最低　日間續降至約13度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200373266800185344276584.jpeg/qdEFQhSrXw4ULaC_OZO0PKoUkA9W3upjuLump7i7pqc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412959/%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A99%E6%99%82%E9%8C%84%E6%9C%80%E4%BD%8E15-1%E5%BA%A6-%E5%85%A5%E7%A7%8B%E4%BB%A5%E4%BE%86%E6%9C%80%E4%BD%8E-%E6%97%A5%E9%96%93%E7%BA%8C%E9%99%8D%E8%87%B3%E7%B4%8413%E5%BA%A6",
+    "timestamp": "2026-11-20T01:20:17.607Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國際金銀價格續大幅下跌　現貨黃金盤中一度跌破3620美元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200271576071671808247396.jpeg/ZE-EmzAtfp3_1MJF-BEDvl4x588klIfuY4w8kWOMPJE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412934/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86-%E9%9B%85%E7%88%BE%E5%A1%94%E6%A8%A1%E5%BC%8F%E7%84%A1%E6%B3%95%E7%82%BA%E7%83%8F%E5%85%8B%E8%98%AD%E5%B8%B6%E4%BE%86%E5%92%8C%E5%B9%B3-%E6%AD%90%E6%B4%B2%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%86%8D%E5%88%86%E8%A3%82",
     "timestamp": "2026-11-19T18:59:27.590Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國總理：雅爾塔模式無法為烏克蘭帶來和平　歐洲不接受再分裂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200271576071671808247396.jpeg/ZE-EmzAtfp3_1MJF-BEDvl4x588klIfuY4w8kWOMPJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412934/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86-%E9%9B%85%E7%88%BE%E5%A1%94%E6%A8%A1%E5%BC%8F%E7%84%A1%E6%B3%95%E7%82%BA%E7%83%8F%E5%85%8B%E8%98%AD%E5%B8%B6%E4%BE%86%E5%92%8C%E5%B9%B3-%E6%AD%90%E6%B4%B2%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%86%8D%E5%88%86%E8%A3%82",
-    "timestamp": "2026-11-19T18:46:00.246Z",
     "strategy": ".content-card__main"
   }
 ];
