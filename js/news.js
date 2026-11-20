@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T12:38:54.454Z
+// Last updated: 2026-11-20T12:59:22.087Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：以色列美國考慮短期內再攻擊伊朗　以方冀聯手行動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150329383488065536243057.jpeg/mjT6u3oTiD7mF2PAJFJ7SYLxH0CtO01G8BvYrvAb2K4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413301/%E7%BE%8E%E5%AA%92-%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%9C%8B%E8%80%83%E6%85%AE%E7%9F%AD%E6%9C%9F%E5%85%A7%E5%86%8D%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BB%A5%E6%96%B9%E5%86%80%E8%81%AF%E6%89%8B%E8%A1%8C%E5%8B%95",
+    "timestamp": "2026-11-20T12:59:22.087Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC紅藍圍巾領導人自由選色　5千米布料可製萬條最終嚴選42條",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200444959946182656576413.jpeg/QTvr_Q5hZnjGVJ1aNqhQlBkTiJsT50YrzOXiWczl4lk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60410681/%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E9%A4%90%E9%A3%B2%E5%84%AA%E6%83%A0%E6%94%BB%E7%95%A5-70-%E6%A9%9F%E5%A0%B4%E9%A4%90%E5%BB%B3%E6%95%B4%E5%90%88%E5%95%86%E5%BA%97%E5%84%AA%E6%83%A0-%E5%85%8D%E8%B2%BB%E6%B4%BB%E5%8B%95%E5%B7%A5%E4%BD%9C%E5%9D%8A",
     "timestamp": "2026-11-20T05:59:08.442Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "減肥｜42歲媽媽決定為自己而活！8月減掉25kg乾淨飲食燃脂操秘訣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200429115371425792104768.jpeg/3CPabD9q9Vr0LHKDOOe44YesJnqljy7lrLEkKKyxJCg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413011/%E6%B8%9B%E8%82%A5-42%E6%AD%B2%E5%AA%BD%E5%AA%BD%E6%B1%BA%E5%AE%9A%E7%82%BA%E8%87%AA%E5%B7%B1%E8%80%8C%E6%B4%BB-8%E6%9C%88%E6%B8%9B%E6%8E%8925kg%E4%B9%BE%E6%B7%A8%E9%A3%B2%E9%A3%9F%E7%87%83%E8%84%82%E6%93%8D%E7%A7%98%E8%A8%A3",
-    "timestamp": "2026-11-20T05:45:50.719Z",
     "strategy": ".content-card__main"
   }
 ];
