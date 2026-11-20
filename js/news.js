@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T21:19:00.799Z
+// Last updated: 2026-11-20T21:44:39.335Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股又爆股災！納指暴瀉逾5% 　英偉達再插水14%連跌7日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200685390978093056038625.jpeg/434l3kQnc2HVYf2GfhOt2Waw-UlTGDH_F1MCLRdTAi0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413109/%E7%BE%8E%E8%82%A1%E5%8F%88%E7%88%86%E8%82%A1%E7%81%BD-%E7%B4%8D%E6%8C%87%E6%9A%B4%E7%80%89%E9%80%BE5-%E8%8B%B1%E5%81%89%E9%81%94%E5%86%8D%E6%8F%92%E6%B0%B414-%E9%80%A3%E8%B7%8C7%E6%97%A5",
+    "timestamp": "2026-11-20T21:44:39.335Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強晤澳洲總理阿爾巴尼斯　指願同澳方推動AI等新興領域合作亮點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200569000468549632520316.jpeg/wxbu9z-uOOEpb8t6xRfpEtOC0mlzSTj0KHLdWw1y3Vs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413318/%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A-%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%86%9F%E9%A3%9F%E5%B8%82%E5%A0%B4%E7%81%AB%E9%8D%8B%E9%A6%99%E6%B0%A3%E6%BF%83-%E5%85%A7%E5%9C%B0%E5%AE%A2%E7%A9%BF%E7%9F%AD%E8%A2%96%E5%87%8D%E5%88%B0%E5%80%9F%E8%A1%AB",
     "timestamp": "2026-11-20T15:20:01.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC深圳直擊・一片看清｜中美俄元首歷史性同框釋放什麼訊號？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200514869875445760806142.jpeg/kTEFmRNDkjbs9Y1MwmF0X85aTMV_0RXdbYBVwm2AVcI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413156/apec%E6%B7%B1%E5%9C%B3%E7%9B%B4%E6%93%8A-%E4%B8%80%E7%89%87%E7%9C%8B%E6%B8%85-%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E6%AD%B7%E5%8F%B2%E6%80%A7%E5%90%8C%E6%A1%86%E9%87%8B%E6%94%BE%E4%BB%80%E9%BA%BC%E8%A8%8A%E8%99%9F",
-    "timestamp": "2026-11-20T14:59:02.739Z",
     "strategy": ".content-card__main"
   }
 ];
