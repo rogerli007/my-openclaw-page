@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T09:45:40.363Z
+// Last updated: 2026-11-20T09:59:20.014Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "JOLIN蔡依林演唱會2027台北｜門票優先公售攻略+搶票連結+座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200484229494870016591472.jpeg/9_tLlux1xx4-BlRwWB9d9Bl9KvkQPR677VH1y-1R9cs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60413194/jolin%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E6%9C%832027%E5%8F%B0%E5%8C%97-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E6%90%B6%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-11-20T09:59:20.014Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "解辣方法｜日本專家教食1種水果　比牛奶更解辣　營養高超市易買",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200397278423027712396714.jpeg/_Ec_m8Kvt2_4vcpDHPf-QAVzMIUgv1RCEr3FUxK9xVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412980/%E5%85%A8%E7%BE%8E%E7%B3%BB%E7%B5%B1%E9%80%A3%E7%92%B0%E7%99%B1%E7%98%93%E9%9D%9E%E5%B7%A7%E5%90%88-%E6%A5%8A%E5%AE%89%E6%BE%A4%E8%AD%A6%E5%91%8Aai%E5%8D%B1%E6%A9%9F-%E9%98%B2%E9%BB%91%E5%AE%A2%E9%80%9F%E5%81%9A3%E4%BB%B6%E4%BA%8B",
     "timestamp": "2026-11-20T03:33:55.682Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周慧賢被殺前男友謀殺罪成　官稱若深愛應放手　手法兇殘判囚終身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194021669023256576348597.jpeg/GZV9f82Q71sCnVfc5zgdbpM76j8_2NNsr0RbAq9EWwI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412599/%E5%91%A8%E6%85%A7%E8%B3%A2%E8%A2%AB%E6%AE%BA%E5%89%8D%E7%94%B7%E5%8F%8B%E8%AC%80%E6%AE%BA%E7%BD%AA%E6%88%90-%E5%AE%98%E7%A8%B1%E8%8B%A5%E6%B7%B1%E6%84%9B%E6%87%89%E6%94%BE%E6%89%8B-%E6%89%8B%E6%B3%95%E5%85%87%E6%AE%98%E5%88%A4%E5%9B%9A%E7%B5%82%E8%BA%AB",
-    "timestamp": "2026-11-20T03:22:04.841Z",
     "strategy": ".content-card__main"
   }
 ];
