@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T09:59:20.014Z
+// Last updated: 2026-11-20T10:20:12.398Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃澤林攜新歡赴名門飯局　譚旻萱生日晒英文被起底學歷嘲：好Kam",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200505445429547008614079.png/n9jeZo1FrJR1izMXhXIPen9cWkxIyMxr11__utdf_7o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413236/%E9%BB%83%E6%BE%A4%E6%9E%97%E6%94%9C%E6%96%B0%E6%AD%A1%E8%B5%B4%E5%90%8D%E9%96%80%E9%A3%AF%E5%B1%80-%E8%AD%9A%E6%97%BB%E8%90%B1%E7%94%9F%E6%97%A5%E6%99%92%E8%8B%B1%E6%96%87%E8%A2%AB%E8%B5%B7%E5%BA%95%E5%AD%B8%E6%AD%B7%E5%98%B2-%E5%A5%BDkam",
+    "timestamp": "2026-11-20T10:20:12.398Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "JOLIN蔡依林演唱會2027台北｜門票優先公售攻略+搶票連結+座位表",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199405086833381376657902.jpeg/vQEEmw1kvb_8pWLnxvHZv8eb1T-ZIR-REB9K2RAfStk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60411854/%E7%AC%AC%E4%B8%89%E5%B1%86dala-awards-%E8%81%9A%E7%84%A6%E6%95%B8%E6%93%9A%E7%B4%A0%E9%A4%8A%E8%88%87%E8%B2%A0%E8%B2%AC%E4%BB%BB%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
     "timestamp": "2026-11-20T03:45:27.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全美系統連環癱瘓非巧合？楊安澤警告AI危機：防黑客速做3件事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200397278423027712396714.jpeg/_Ec_m8Kvt2_4vcpDHPf-QAVzMIUgv1RCEr3FUxK9xVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412980/%E5%85%A8%E7%BE%8E%E7%B3%BB%E7%B5%B1%E9%80%A3%E7%92%B0%E7%99%B1%E7%98%93%E9%9D%9E%E5%B7%A7%E5%90%88-%E6%A5%8A%E5%AE%89%E6%BE%A4%E8%AD%A6%E5%91%8Aai%E5%8D%B1%E6%A9%9F-%E9%98%B2%E9%BB%91%E5%AE%A2%E9%80%9F%E5%81%9A3%E4%BB%B6%E4%BA%8B",
-    "timestamp": "2026-11-20T03:33:55.682Z",
     "strategy": ".content-card__main"
   }
 ];
