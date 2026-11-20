@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T17:59:00.745Z
+// Last updated: 2026-11-20T18:34:22.962Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：企業海外建數據中心將被徵巨額稅　中美同意設AI防護機制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200633165870272512129856.jpeg/CJfDCqUPkBcQRt-SsbZMfwyORY3yQ5KNpwLq96cC6vc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413336/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%81%E6%A5%AD%E6%B5%B7%E5%A4%96%E5%BB%BA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%B0%87%E8%A2%AB%E5%BE%B5%E5%B7%A8%E9%A1%8D%E7%A8%85-%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E8%A8%ADai%E9%98%B2%E8%AD%B7%E6%A9%9F%E5%88%B6",
+    "timestamp": "2026-11-20T18:34:22.962Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寒冷天氣警告｜羊腩煲大賣　有餐廳傍晚宣布提早收工　外賣停三日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230912/778405303557296128096785.jpeg/XjTpXo53ArUKUii55Q7zWxNLZ0q6H9MJj5UdFY-VHRU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60413269/%E7%99%BC%E5%B1%95%E5%B1%80%E6%93%AC%E4%BF%AE%E8%A8%82-%E5%BB%BA%E7%AF%89%E7%89%A9%E6%A2%9D%E4%BE%8B-%E6%89%93%E6%92%83%E5%9A%B4%E9%87%8D%E5%83%AD%E5%BB%BA-%E8%B2%B7%E5%83%AD%E5%BB%BA%E7%89%A9%E7%89%A9%E6%A5%AD%E5%90%8C%E5%B1%AC%E9%81%95%E6%B3%95",
     "timestamp": "2026-11-20T11:19:33.913Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廠商會換屆　CATALO老闆陳家偉當選會長　明年起接棒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200521876112150528140327.png/KSShEQRcGjd6X6Omk24JMHXuliErXSkHyFVvk8hVb5M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413279/%E5%BB%A0%E5%95%86%E6%9C%83%E6%8F%9B%E5%B1%86-catalo%E8%80%81%E9%97%86%E9%99%B3%E5%AE%B6%E5%81%89%E7%95%B6%E9%81%B8%E6%9C%83%E9%95%B7-%E6%98%8E%E5%B9%B4%E8%B5%B7%E6%8E%A5%E6%A3%92",
-    "timestamp": "2026-11-20T10:59:07.703Z",
     "strategy": ".content-card__main"
   }
 ];
