@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T11:58:57.323Z
+// Last updated: 2026-11-20T12:24:28.257Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新世界鄭氏家族持有雲浮仙觀　獲批重置3824未售龕位　料獲利豐厚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200544264489013248302589.jpeg/PQDezg_Vvvmu-QHuODyPUmtmayfz8rqklWMmj5VjJo8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413234/%E6%96%B0%E4%B8%96%E7%95%8C%E9%84%AD%E6%B0%8F%E5%AE%B6%E6%97%8F%E6%8C%81%E6%9C%89%E9%9B%B2%E6%B5%AE%E4%BB%99%E8%A7%80-%E7%8D%B2%E6%89%B9%E9%87%8D%E7%BD%AE3824%E6%9C%AA%E5%94%AE%E9%BE%95%E4%BD%8D-%E6%96%99%E7%8D%B2%E5%88%A9%E8%B1%90%E5%8E%9A",
+    "timestamp": "2026-11-20T12:24:28.257Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金融科技前瞻研討會｜孫東：企業需擁抱科技　確保領跑數字化浪潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200436707153940480209413.jpeg/G3TO7J3KZfwgmwkEj-eDmDsYe2Gcq8fRhlG0NIZRtDQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413080/%E5%8C%97%E8%A7%92%E8%8B%B1%E7%9A%87%E9%81%93%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E8%81%B7%E5%93%A1%E6%8F%AD100%E5%BC%B5%E7%99%BE%E5%85%83%E7%BE%8E%E9%88%94%E5%B1%AC%E5%81%87%E9%88%94-%E8%AD%A6%E6%8B%98%E5%85%A9%E7%94%B7%E5%A5%B3",
     "timestamp": "2026-11-20T05:21:01.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AEON Black Friday優惠低至5折！限時放題任裝、$189起掃超值福車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200420048418639872890736.jpeg/wnp6pzouQXx4rBZgN08ofdPp3EJHMgcyd7cWX3e3Fl8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60412965/aeon-black-friday%E5%84%AA%E6%83%A0%E4%BD%8E%E8%87%B35%E6%8A%98-%E9%99%90%E6%99%82%E6%94%BE%E9%A1%8C%E4%BB%BB%E8%A3%9D-189%E8%B5%B7%E6%8E%83%E8%B6%85%E5%80%BC%E7%A6%8F%E8%BB%8A",
-    "timestamp": "2026-11-20T04:59:19.898Z",
     "strategy": ".content-card__main"
   }
 ];
