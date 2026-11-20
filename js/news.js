@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T12:24:28.257Z
+// Last updated: 2026-11-20T12:38:54.454Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC紅藍圍巾領導人自由選色　5千米布料可製萬條最終嚴選42條",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200111793167405056873426.jpeg/68pWaQBavo9_QHEGXP3YeHtaBrc2y5lxry6nvK8up7w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413276/apec%E7%B4%85%E8%97%8D%E5%9C%8D%E5%B7%BE%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%87%AA%E7%94%B1%E9%81%B8%E8%89%B2-5%E5%8D%83%E7%B1%B3%E5%B8%83%E6%96%99%E5%8F%AF%E8%A3%BD%E8%90%AC%E6%A2%9D%E6%9C%80%E7%B5%82%E5%9A%B4%E9%81%B842%E6%A2%9D",
+    "timestamp": "2026-11-20T12:38:54.454Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新世界鄭氏家族持有雲浮仙觀　獲批重置3824未售龕位　料獲利豐厚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200429115371425792104768.jpeg/3CPabD9q9Vr0LHKDOOe44YesJnqljy7lrLEkKKyxJCg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413011/%E6%B8%9B%E8%82%A5-42%E6%AD%B2%E5%AA%BD%E5%AA%BD%E6%B1%BA%E5%AE%9A%E7%82%BA%E8%87%AA%E5%B7%B1%E8%80%8C%E6%B4%BB-8%E6%9C%88%E6%B8%9B%E6%8E%8925kg%E4%B9%BE%E6%B7%A8%E9%A3%B2%E9%A3%9F%E7%87%83%E8%84%82%E6%93%8D%E7%A7%98%E8%A8%A3",
     "timestamp": "2026-11-20T05:45:50.719Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角英皇道中國銀行職員揭100張百元美鈔屬假鈔　警拘兩男女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200436707153940480209413.jpeg/G3TO7J3KZfwgmwkEj-eDmDsYe2Gcq8fRhlG0NIZRtDQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413080/%E5%8C%97%E8%A7%92%E8%8B%B1%E7%9A%87%E9%81%93%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E8%81%B7%E5%93%A1%E6%8F%AD100%E5%BC%B5%E7%99%BE%E5%85%83%E7%BE%8E%E9%88%94%E5%B1%AC%E5%81%87%E9%88%94-%E8%AD%A6%E6%8B%98%E5%85%A9%E7%94%B7%E5%A5%B3",
-    "timestamp": "2026-11-20T05:21:01.047Z",
     "strategy": ".content-card__main"
   }
 ];
