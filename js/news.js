@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T19:45:10.319Z
+// Last updated: 2026-11-20T19:59:05.826Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普指普京明確表達結束戰爭意願　未達協議前不談烏安全保證",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200092780735500288395864.jpeg/ZqT7VP6YTj5-FvQkqPyoxsi6jc1jChzoZteCCWbXggk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413338/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E6%99%AE%E4%BA%AC%E6%98%8E%E7%A2%BA%E8%A1%A8%E9%81%94%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E6%84%8F%E9%A1%98-%E6%9C%AA%E9%81%94%E5%8D%94%E8%AD%B0%E5%89%8D%E4%B8%8D%E8%AB%87%E7%83%8F%E5%AE%89%E5%85%A8%E4%BF%9D%E8%AD%89",
+    "timestamp": "2026-11-20T19:59:05.826Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普指普京明確表達結束戰爭意願　未達協議前不談烏安全保證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260705/1150329383488065536243057.jpeg/mjT6u3oTiD7mF2PAJFJ7SYLxH0CtO01G8BvYrvAb2K4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413301/%E7%BE%8E%E5%AA%92-%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%9C%8B%E8%80%83%E6%85%AE%E7%9F%AD%E6%9C%9F%E5%85%A7%E5%86%8D%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E4%BB%A5%E6%96%B9%E5%86%80%E8%81%AF%E6%89%8B%E8%A1%8C%E5%8B%95",
     "timestamp": "2026-11-20T12:59:22.087Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC紅藍圍巾領導人自由選色　5千米布料可製萬條最終嚴選42條",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200111793167405056873426.jpeg/68pWaQBavo9_QHEGXP3YeHtaBrc2y5lxry6nvK8up7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413276/apec%E7%B4%85%E8%97%8D%E5%9C%8D%E5%B7%BE%E9%A0%98%E5%B0%8E%E4%BA%BA%E8%87%AA%E7%94%B1%E9%81%B8%E8%89%B2-5%E5%8D%83%E7%B1%B3%E5%B8%83%E6%96%99%E5%8F%AF%E8%A3%BD%E8%90%AC%E6%A2%9D%E6%9C%80%E7%B5%82%E5%9A%B4%E9%81%B842%E6%A2%9D",
-    "timestamp": "2026-11-20T12:38:54.454Z",
     "strategy": ".content-card__main"
   }
 ];
