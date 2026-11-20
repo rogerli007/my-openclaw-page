@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T22:19:12.402Z
+// Last updated: 2026-11-20T22:29:56.183Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "武漢63歲婦長江輕生　23歲女警暗中守候20分鐘　衝江中扯衣領救人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200056618016837632360498.png/UD_5TLgruUHbzs-Qm56qh--CX8orRQp7toyCCraMggo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412484/%E6%AD%A6%E6%BC%A263%E6%AD%B2%E5%A9%A6%E9%95%B7%E6%B1%9F%E8%BC%95%E7%94%9F-23%E6%AD%B2%E5%A5%B3%E8%AD%A6%E6%9A%97%E4%B8%AD%E5%AE%88%E5%80%9920%E5%88%86%E9%90%98-%E8%A1%9D%E6%B1%9F%E4%B8%AD%E6%89%AF%E8%A1%A3%E9%A0%98%E6%95%91%E4%BA%BA",
+    "timestamp": "2026-11-20T22:29:56.183Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "武漢63歲婦長江輕生　23歲女警暗中守候20分鐘　衝江中扯衣領救人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200480299062923264574302.jpeg/PQPi7qgt455AmY7j7NeXuIsc2tsFUTBj9wymPfcMpj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60413135/%E5%81%87%E9%A9%97%E8%AD%89%E7%A2%BC%E9%87%A3%E9%AD%9A%E9%99%B7%E9%98%B1%E6%BF%80%E5%A2%9E8%E5%80%8D-%E6%88%91%E4%B8%8D%E6%98%AF%E6%A9%9F%E5%99%A8%E4%BA%BA-%E6%8C%89%E9%8C%AF3%E5%80%8B%E9%8D%B5%E5%8D%B3%E6%B8%85%E7%A9%BA%E5%B8%B3%E8%99%9F",
     "timestamp": "2026-11-20T16:20:08.513Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "食環署精準打擊鼠患　全港揭282個鼠洞　文化中心檢獲逾百隻老鼠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200564393755021312687143.png/TKjbUINFu1PUK5NoriBMqRiOCAl3bXXZ8_2vjfP9r40?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413315/%E9%A3%9F%E7%92%B0%E7%BD%B2%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A%E9%BC%A0%E6%82%A3-%E5%85%A8%E6%B8%AF%E6%8F%AD282%E5%80%8B%E9%BC%A0%E6%B4%9E-%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83%E6%AA%A2%E7%8D%B2%E9%80%BE%E7%99%BE%E9%9A%BB%E8%80%81%E9%BC%A0",
-    "timestamp": "2026-11-20T15:59:04.685Z",
     "strategy": ".content-card__main"
   }
 ];
