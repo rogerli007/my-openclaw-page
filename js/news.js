@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T05:59:08.442Z
+// Last updated: 2026-11-20T06:27:56.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳案｜看報道始知蔡被分屍　鄺港智：好驚囉唔知佢咁樣處理",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250604/1006952193934233600674305.jpeg/gNaglV6yGx_G7WC0_FnmA0hjDMBIBPz1KHCdgg1wnYI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413112/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E7%9C%8B%E5%A0%B1%E9%81%93%E5%A7%8B%E7%9F%A5%E8%94%A1%E8%A2%AB%E5%88%86%E5%B1%8D-%E9%84%BA%E6%B8%AF%E6%99%BA-%E5%A5%BD%E9%A9%9A%E5%9B%89%E5%94%94%E7%9F%A5%E4%BD%A2%E5%92%81%E6%A8%A3%E8%99%95%E7%90%86",
+    "timestamp": "2026-11-20T06:27:56.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港機場餐飲優惠攻略｜70+機場餐廳整合商店優惠/免費活動工作坊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196513548776247296834791.jpeg/jn9nONEJNa01xyOdxgPZby6wOdB8HKiSkuK_vJLiv7w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407922/%E9%A3%AF%E5%BE%8C%E5%8D%B3%E5%88%B7%E7%89%99%E5%8F%8D%E6%98%93%E7%88%9B%E7%89%99-%E5%96%9D%E9%BB%91%E5%92%96%E5%95%A1%E6%81%90%E7%A3%A8%E8%9D%95%E7%90%BA%E7%91%AF%E8%B3%AA-%E7%89%99%E9%86%AB%E6%8F%AD%E9%BB%83%E9%87%91%E8%AD%B7%E9%BD%92%E6%99%82%E9%96%93",
     "timestamp": "2026-11-19T23:29:27.763Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印尼幼童爬6米「巨蟒滑梯」　家長站旁舉機拍　網民怒轟專家警告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199742360506863616284530.png/Q9Quv1RjKm0LPRV11CL_sYgkjC1n8JDNfTYaan02Gmo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412018/%E5%8D%B0%E5%B0%BC%E5%B9%BC%E7%AB%A5%E7%88%AC6%E7%B1%B3-%E5%B7%A8%E8%9F%92%E6%BB%91%E6%A2%AF-%E5%AE%B6%E9%95%B7%E7%AB%99%E6%97%81%E8%88%89%E6%A9%9F%E6%8B%8D-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F%E5%B0%88%E5%AE%B6%E8%AD%A6%E5%91%8A",
-    "timestamp": "2026-11-19T23:18:11.455Z",
     "strategy": ".content-card__main"
   }
 ];
