@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T15:20:01.999Z
+// Last updated: 2026-11-20T15:45:31.475Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樂易玲慈善晚宴開金口唱《季候風》籌40萬　鄭衍峰李爾晨全程傍實",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200592924430045184961725.jpeg/ZrvLWvRdF5vU5hQrh9jKr_ewaPod9hYXZJXwhGSV8IQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413327/%E6%A8%82%E6%98%93%E7%8E%B2%E6%85%88%E5%96%84%E6%99%9A%E5%AE%B4%E9%96%8B%E9%87%91%E5%8F%A3%E5%94%B1-%E5%AD%A3%E5%80%99%E9%A2%A8-%E7%B1%8C40%E8%90%AC-%E9%84%AD%E8%A1%8D%E5%B3%B0%E6%9D%8E%E7%88%BE%E6%99%A8%E5%85%A8%E7%A8%8B%E5%82%8D%E5%AF%A6",
+    "timestamp": "2026-11-20T15:45:31.475Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寒冷天氣警告｜油麻地熟食市場火鍋香氣濃　內地客穿短袖凍到借衫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250606/1007662410753904640263709.jpeg/Ma2DA8vDz1Ae8R-PbI4dszsseHVUCWJ7M6whOjOsITo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413158/%E8%94%A1%E5%A4%A9%E9%B3%B3-%E5%BA%AD%E4%B8%8A%E4%BF%9A%E8%AA%9E%E8%80%83%E8%B5%B7%E5%82%B3%E8%AD%AF%E5%93%A1-%E8%87%A8%E8%80%81%E5%85%A5%E8%8A%B1%E5%8F%A2-m%E5%BA%95-%E5%BC%B1%E9%9B%9E%E9%BB%9E%E7%BF%BB%E8%AD%AF",
     "timestamp": "2026-11-20T08:36:31.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "CCL連跌6周最新157.56點 　樓價升幅收窄至不足一成　料下試155點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200482944511119360163045.jpeg/EUi-PPnHInAHPW38uxIG9pP6R2_gfHMBxfyAz8X8gM8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60413187/ccl%E9%80%A3%E8%B7%8C6%E5%91%A8%E6%9C%80%E6%96%B0157-56%E9%BB%9E-%E6%A8%93%E5%83%B9%E5%8D%87%E5%B9%85%E6%94%B6%E7%AA%84%E8%87%B3%E4%B8%8D%E8%B6%B3%E4%B8%80%E6%88%90-%E6%96%99%E4%B8%8B%E8%A9%A6155%E9%BB%9E",
-    "timestamp": "2026-11-20T08:23:58.161Z",
     "strategy": ".content-card__main"
   }
 ];
