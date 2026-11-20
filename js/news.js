@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T02:35:52.429Z
+// Last updated: 2026-11-20T03:22:04.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周慧賢被殺前男友謀殺罪成　官稱若深愛應放手　手法兇殘判囚終身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194021669023256576348597.jpeg/GZV9f82Q71sCnVfc5zgdbpM76j8_2NNsr0RbAq9EWwI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412599/%E5%91%A8%E6%85%A7%E8%B3%A2%E8%A2%AB%E6%AE%BA%E5%89%8D%E7%94%B7%E5%8F%8B%E8%AC%80%E6%AE%BA%E7%BD%AA%E6%88%90-%E5%AE%98%E7%A8%B1%E8%8B%A5%E6%B7%B1%E6%84%9B%E6%87%89%E6%94%BE%E6%89%8B-%E6%89%8B%E6%B3%95%E5%85%87%E6%AE%98%E5%88%A4%E5%9B%9A%E7%B5%82%E8%BA%AB",
+    "timestamp": "2026-11-20T03:22:04.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林子祥GTA 6爆紅　原定演《家有囍事》周星馳臨時頂上始末曝光",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199735494456381440470325.jpeg/B5vWuLTA4WtawCo_Jy0cGWjgNTpWiTk342R8j-NkfI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412935/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E6%9C%83%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E5%80%89%E4%BF%83%E5%81%9A%E6%B1%BA%E5%AE%9A-%E5%B0%87%E8%A7%80%E5%AF%9F%E6%96%B0%E5%B9%B4%E5%BE%8C%E5%B1%80%E5%8B%A2%E7%99%BC%E5%B1%95",
     "timestamp": "2026-11-19T19:59:05.535Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國總理：雅爾塔模式無法為烏克蘭帶來和平　歐洲不接受再分裂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200271576071671808247396.jpeg/ZE-EmzAtfp3_1MJF-BEDvl4x588klIfuY4w8kWOMPJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412934/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86-%E9%9B%85%E7%88%BE%E5%A1%94%E6%A8%A1%E5%BC%8F%E7%84%A1%E6%B3%95%E7%82%BA%E7%83%8F%E5%85%8B%E8%98%AD%E5%B8%B6%E4%BE%86%E5%92%8C%E5%B9%B3-%E6%AD%90%E6%B4%B2%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%86%8D%E5%88%86%E8%A3%82",
-    "timestamp": "2026-11-19T19:29:53.591Z",
     "strategy": ".content-card__main"
   }
 ];
