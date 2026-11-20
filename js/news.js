@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-19T23:59:10.191Z
+// Last updated: 2026-11-20T00:35:16.569Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "學生愈用AI愈擔心學習退步　青協調查揭過度依賴削弱自主思考",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200344939423076352246013.jpeg/WQrzG9Y6HzvX-HPbhoR2Y2UUXYDVdOkn_zFrAP8xawA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60412945/%E5%AD%B8%E7%94%9F%E6%84%88%E7%94%A8ai%E6%84%88%E6%93%94%E5%BF%83%E5%AD%B8%E7%BF%92%E9%80%80%E6%AD%A5-%E9%9D%92%E5%8D%94%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%81%8E%E5%BA%A6%E4%BE%9D%E8%B3%B4%E5%89%8A%E5%BC%B1%E8%87%AA%E4%B8%BB%E6%80%9D%E8%80%83",
+    "timestamp": "2026-11-20T00:35:16.569Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "中美「極致禮遇」背後，大國博弈走向何方？｜深圳APEC",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200263525558128640561209.jpeg/uCbCJog-4zoxzfryDPpp_1oPqapQ4JtmRolw-EaJcPg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412933/%E5%B1%B1%E9%A0%82%E6%9F%AF%E5%A3%AB%E7%94%B8%E5%B1%B1%E9%81%93%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%87%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%BD%9B%E5%85%A5-%E5%81%B7%E8%B5%B0-15%E8%90%ACherm%C3%A8s%E6%89%8B%E8%A2%8B",
     "timestamp": "2026-11-19T18:34:45.120Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "山頂柯士甸山道獨立屋遇竊　賊人撬窗潛入　偷走$15萬Hermès手袋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200263525558128640561209.jpeg/uCbCJog-4zoxzfryDPpp_1oPqapQ4JtmRolw-EaJcPg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412933/%E5%B1%B1%E9%A0%82%E6%9F%AF%E5%A3%AB%E7%94%B8%E5%B1%B1%E9%81%93%E7%8D%A8%E7%AB%8B%E5%B1%8B%E9%81%87%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%BD%9B%E5%85%A5-%E5%81%B7%E8%B5%B0-15%E8%90%ACherm%C3%A8s%E6%89%8B%E8%A2%8B",
-    "timestamp": "2026-11-19T18:22:22.631Z",
     "strategy": ".content-card__main"
   }
 ];
