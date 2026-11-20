@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T03:22:04.841Z
+// Last updated: 2026-11-20T03:33:55.682Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全美系統連環癱瘓非巧合？楊安澤警告AI危機：防黑客速做3件事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200397278423027712396714.jpeg/_Ec_m8Kvt2_4vcpDHPf-QAVzMIUgv1RCEr3FUxK9xVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412980/%E5%85%A8%E7%BE%8E%E7%B3%BB%E7%B5%B1%E9%80%A3%E7%92%B0%E7%99%B1%E7%98%93%E9%9D%9E%E5%B7%A7%E5%90%88-%E6%A5%8A%E5%AE%89%E6%BE%A4%E8%AD%A6%E5%91%8Aai%E5%8D%B1%E6%A9%9F-%E9%98%B2%E9%BB%91%E5%AE%A2%E9%80%9F%E5%81%9A3%E4%BB%B6%E4%BA%8B",
+    "timestamp": "2026-11-20T03:33:55.682Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周慧賢被殺前男友謀殺罪成　官稱若深愛應放手　手法兇殘判囚終身",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200298686102376448042518.jpeg/KWla63Papw3LivNPagO9kkgfaxkUyvbgubdrTbm3a00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412936/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E8%AD%A6-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-11-19T20:20:22.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：不會就伊朗問題倉促做決定　將觀察新年後局勢發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199735494456381440470325.jpeg/B5vWuLTA4WtawCo_Jy0cGWjgNTpWiTk342R8j-NkfI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412935/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8D%E6%9C%83%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E5%80%89%E4%BF%83%E5%81%9A%E6%B1%BA%E5%AE%9A-%E5%B0%87%E8%A7%80%E5%AF%9F%E6%96%B0%E5%B9%B4%E5%BE%8C%E5%B1%80%E5%8B%A2%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-11-19T19:59:05.535Z",
     "strategy": ".content-card__main"
   }
 ];
