@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T04:22:03.665Z
+// Last updated: 2026-11-20T04:33:36.703Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張曦雯台慶性感戰衣無需吳卓羲過目　全程難掩甜笑：佢只可以話靚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200368085362544640716940.jpeg/9Jw5-OXWlM4-pq9ggOJNJslFWDtHfJhwcSyhinEsoYo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412949/%E5%BC%B5%E6%9B%A6%E9%9B%AF%E5%8F%B0%E6%85%B6%E6%80%A7%E6%84%9F%E6%88%B0%E8%A1%A3%E7%84%A1%E9%9C%80%E5%90%B3%E5%8D%93%E7%BE%B2%E9%81%8E%E7%9B%AE-%E5%85%A8%E7%A8%8B%E9%9B%A3%E6%8E%A9%E7%94%9C%E7%AC%91-%E4%BD%A2%E5%8F%AA%E5%8F%AF%E4%BB%A5%E8%A9%B1%E9%9D%9A",
+    "timestamp": "2026-11-20T04:33:36.703Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "億世家ecHome一款電磁爐能源效益或表現未達標　即日起禁在港供應",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179230764449927168495813.jpeg/qrwhRXlWsdYnN01qNzt3YZ8lVKsRQHx4wPrVkMD61ZA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412938/%E4%B8%B9%E9%BA%A5%E8%AD%B0%E6%9C%83%E9%80%9A%E9%81%8E%E6%A0%BC%E9%99%B5%E8%98%AD%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E6%93%B4%E5%A4%A7%E7%BE%8E%E5%9C%8B%E8%BB%8D%E4%BA%8B%E5%87%86%E5%85%A5%E7%AF%84%E5%9C%8D",
     "timestamp": "2026-11-19T21:45:19.184Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "丹麥議會通過格陵蘭安全協議　擴大美國軍事准入範圍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179230764449927168495813.jpeg/qrwhRXlWsdYnN01qNzt3YZ8lVKsRQHx4wPrVkMD61ZA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412938/%E4%B8%B9%E9%BA%A5%E8%AD%B0%E6%9C%83%E9%80%9A%E9%81%8E%E6%A0%BC%E9%99%B5%E8%98%AD%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E6%93%B4%E5%A4%A7%E7%BE%8E%E5%9C%8B%E8%BB%8D%E4%BA%8B%E5%87%86%E5%85%A5%E7%AF%84%E5%9C%8D",
-    "timestamp": "2026-11-19T21:19:24.797Z",
     "strategy": ".content-card__main"
   }
 ];
