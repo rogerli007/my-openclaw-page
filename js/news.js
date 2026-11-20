@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T12:59:22.087Z
+// Last updated: 2026-11-20T13:19:56.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "馬鞍山富寶花園停水｜管理處：各座食水陸續恢復　續安排修鹹水管",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200554275990671360498567.jpeg/UxaawGP-OKSMKWfKDPnNyD-msKte9Ip_OF1ZQjhdWUI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413306/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%AF%8C%E5%AF%B6%E8%8A%B1%E5%9C%92%E5%81%9C%E6%B0%B4-%E7%AE%A1%E7%90%86%E8%99%95-%E5%90%84%E5%BA%A7%E9%A3%9F%E6%B0%B4%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9-%E7%BA%8C%E5%AE%89%E6%8E%92%E4%BF%AE%E9%B9%B9%E6%B0%B4%E7%AE%A1",
+    "timestamp": "2026-11-20T13:19:56.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：以色列美國考慮短期內再攻擊伊朗　以方冀聯手行動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250604/1006952193934233600674305.jpeg/gNaglV6yGx_G7WC0_FnmA0hjDMBIBPz1KHCdgg1wnYI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413112/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E7%9C%8B%E5%A0%B1%E9%81%93%E5%A7%8B%E7%9F%A5%E8%94%A1%E8%A2%AB%E5%88%86%E5%B1%8D-%E9%84%BA%E6%B8%AF%E6%99%BA-%E5%A5%BD%E9%A9%9A%E5%9B%89%E5%94%94%E7%9F%A5%E4%BD%A2%E5%92%81%E6%A8%A3%E8%99%95%E7%90%86",
     "timestamp": "2026-11-20T06:27:56.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港機場餐飲優惠攻略｜70+機場餐廳整合商店優惠/免費活動工作坊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200444959946182656576413.jpeg/QTvr_Q5hZnjGVJ1aNqhQlBkTiJsT50YrzOXiWczl4lk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60410681/%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E9%A4%90%E9%A3%B2%E5%84%AA%E6%83%A0%E6%94%BB%E7%95%A5-70-%E6%A9%9F%E5%A0%B4%E9%A4%90%E5%BB%B3%E6%95%B4%E5%90%88%E5%95%86%E5%BA%97%E5%84%AA%E6%83%A0-%E5%85%8D%E8%B2%BB%E6%B4%BB%E5%8B%95%E5%B7%A5%E4%BD%9C%E5%9D%8A",
-    "timestamp": "2026-11-20T05:59:08.442Z",
     "strategy": ".content-card__main"
   }
 ];
