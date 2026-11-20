@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T11:45:34.420Z
+// Last updated: 2026-11-20T11:58:57.323Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金融科技前瞻研討會｜孫東：企業需擁抱科技　確保領跑數字化浪潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200152372391841792028659.jpeg/vzkAMh9A7XI6AFY2a9pDsN87PtAiKFdOzavaFs2r2hY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413292/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%89%8D%E7%9E%BB%E7%A0%94%E8%A8%8E%E6%9C%83-%E5%AD%AB%E6%9D%B1-%E4%BC%81%E6%A5%AD%E9%9C%80%E6%93%81%E6%8A%B1%E7%A7%91%E6%8A%80-%E7%A2%BA%E4%BF%9D%E9%A0%98%E8%B7%91%E6%95%B8%E5%AD%97%E5%8C%96%E6%B5%AA%E6%BD%AE",
+    "timestamp": "2026-11-20T11:58:57.323Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "假冒機構職員扮退款呃錢呃資料　警:或源自資料外洩　即學4招自保",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200420048418639872890736.jpeg/wnp6pzouQXx4rBZgN08ofdPp3EJHMgcyd7cWX3e3Fl8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60412965/aeon-black-friday%E5%84%AA%E6%83%A0%E4%BD%8E%E8%87%B35%E6%8A%98-%E9%99%90%E6%99%82%E6%94%BE%E9%A1%8C%E4%BB%BB%E8%A3%9D-189%E8%B5%B7%E6%8E%83%E8%B6%85%E5%80%BC%E7%A6%8F%E8%BB%8A",
     "timestamp": "2026-11-20T04:59:19.898Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀Audi遇路障拒查逃遁｜兩男涉狂亂駕駛及行使虛假文書被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200428148164923392925781.jpeg/l_WUzC7o5X3cWMBGX9l5jclp5wKXGGl5CCgwMggoMDI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412995/%E5%B0%96%E6%B2%99%E5%92%80audi%E9%81%87%E8%B7%AF%E9%9A%9C%E6%8B%92%E6%9F%A5%E9%80%83%E9%81%81-%E5%85%A9%E7%94%B7%E6%B6%89%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E5%8F%8A%E8%A1%8C%E4%BD%BF%E8%99%9B%E5%81%87%E6%96%87%E6%9B%B8%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-20T04:45:32.457Z",
     "strategy": ".content-card__main"
   }
 ];
