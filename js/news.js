@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T14:45:46.769Z
+// Last updated: 2026-11-20T14:59:02.739Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC深圳直擊・一片看清｜中美俄元首歷史性同框釋放什麼訊號？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200514869875445760806142.jpeg/kTEFmRNDkjbs9Y1MwmF0X85aTMV_0RXdbYBVwm2AVcI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413156/apec%E6%B7%B1%E5%9C%B3%E7%9B%B4%E6%93%8A-%E4%B8%80%E7%89%87%E7%9C%8B%E6%B8%85-%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E6%AD%B7%E5%8F%B2%E6%80%A7%E5%90%8C%E6%A1%86%E9%87%8B%E6%94%BE%E4%BB%80%E9%BA%BC%E8%A8%8A%E8%99%9F",
+    "timestamp": "2026-11-20T14:59:02.739Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "許志安與馬國明同場不尷尬　呼籲向前看：以前錯過痛過沉澱過改過",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200454812588576768174309.jpeg/0tI2jOLz2g1Trb0-Q8eiHy3RKJPZId87fnBlp35wZac?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60409714/%E7%B6%A0%E8%8C%B6%E7%9C%9F%E8%83%BD%E6%B6%88%E8%84%82%E6%8E%92%E6%B2%B9-%E5%AF%A6%E6%B8%AC3%E5%80%8B%E6%9C%88%E5%83%85%E6%B8%9B0-2kg-%E6%AC%8A%E5%A8%81%E9%86%AB%E5%AD%B8%E6%8B%86%E8%A7%A3%E7%9C%9F%E7%9B%B8",
     "timestamp": "2026-11-20T07:45:09.166Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳立新湖公園｜漫步8.8km環湖綠道　空中廊橋遠眺湖光人少安靜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199768709082648576897054.jpeg/Ng1T5tiG9UFvvAHZoUBlFfjtI-4NVKAxebXd8Hm13fA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60411912/%E6%B7%B1%E5%9C%B3%E7%AB%8B%E6%96%B0%E6%B9%96%E5%85%AC%E5%9C%92-%E6%BC%AB%E6%AD%A58-8km%E7%92%B0%E6%B9%96%E7%B6%A0%E9%81%93-%E7%A9%BA%E4%B8%AD%E5%BB%8A%E6%A9%8B%E9%81%A0%E7%9C%BA%E6%B9%96%E5%85%89%E4%BA%BA%E5%B0%91%E5%AE%89%E9%9D%9C",
-    "timestamp": "2026-11-20T07:21:56.847Z",
     "strategy": ".content-card__main"
   }
 ];
