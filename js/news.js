@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T04:33:36.703Z
+// Last updated: 2026-11-20T04:45:32.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀Audi遇路障拒查逃遁｜兩男涉狂亂駕駛及行使虛假文書被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200428148164923392925781.jpeg/l_WUzC7o5X3cWMBGX9l5jclp5wKXGGl5CCgwMggoMDI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412995/%E5%B0%96%E6%B2%99%E5%92%80audi%E9%81%87%E8%B7%AF%E9%9A%9C%E6%8B%92%E6%9F%A5%E9%80%83%E9%81%81-%E5%85%A9%E7%94%B7%E6%B6%89%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E5%8F%8A%E8%A1%8C%E4%BD%BF%E8%99%9B%E5%81%87%E6%96%87%E6%9B%B8%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-20T04:45:32.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張曦雯台慶性感戰衣無需吳卓羲過目　全程難掩甜笑：佢只可以話靚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179230764449927168495813.jpeg/qrwhRXlWsdYnN01qNzt3YZ8lVKsRQHx4wPrVkMD61ZA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412938/%E4%B8%B9%E9%BA%A5%E8%AD%B0%E6%9C%83%E9%80%9A%E9%81%8E%E6%A0%BC%E9%99%B5%E8%98%AD%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E6%93%B4%E5%A4%A7%E7%BE%8E%E5%9C%8B%E8%BB%8D%E4%BA%8B%E5%87%86%E5%85%A5%E7%AF%84%E5%9C%8D",
     "timestamp": "2026-11-19T21:59:06.362Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "丹麥議會通過格陵蘭安全協議　擴大美國軍事准入範圍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179230764449927168495813.jpeg/qrwhRXlWsdYnN01qNzt3YZ8lVKsRQHx4wPrVkMD61ZA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412938/%E4%B8%B9%E9%BA%A5%E8%AD%B0%E6%9C%83%E9%80%9A%E9%81%8E%E6%A0%BC%E9%99%B5%E8%98%AD%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E6%93%B4%E5%A4%A7%E7%BE%8E%E5%9C%8B%E8%BB%8D%E4%BA%8B%E5%87%86%E5%85%A5%E7%AF%84%E5%9C%8D",
-    "timestamp": "2026-11-19T21:45:19.184Z",
     "strategy": ".content-card__main"
   }
 ];
