@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T06:27:56.767Z
+// Last updated: 2026-11-20T06:51:42.244Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗運動場外地盤　發現懷疑爆炸品　EOD到場調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200458394268340224580361.jpeg/9iY4RX_POn51gNFwly_PYNEYjxc42U-uGAOPZxgDj2c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413111/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%81%8B%E5%8B%95%E5%A0%B4%E5%A4%96%E5%9C%B0%E7%9B%A4-%E7%99%BC%E7%8F%BE%E6%87%B7%E7%96%91%E7%88%86%E7%82%B8%E5%93%81-eod%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-20T06:51:42.244Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蔡天鳳案｜看報道始知蔡被分屍　鄺港智：好驚囉唔知佢咁樣處理",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200100339236212736849567.jpeg/3QPVWN5U4rWJ-G7oGSdmc08ayfDwmj192kmzrtpJs64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60412759/%E4%B8%AD%E7%BE%8E-%E6%A5%B5%E8%87%B4%E7%A6%AE%E9%81%87-%E8%83%8C%E5%BE%8C-%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9-%E6%B7%B1%E5%9C%B3apec",
     "timestamp": "2026-11-19T23:45:26.701Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飯後即刷牙反易爛牙！喝黑咖啡恐磨蝕琺瑯質　牙醫揭黃金護齒時間",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261109/1196513548776247296834791.jpeg/jn9nONEJNa01xyOdxgPZby6wOdB8HKiSkuK_vJLiv7w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60407922/%E9%A3%AF%E5%BE%8C%E5%8D%B3%E5%88%B7%E7%89%99%E5%8F%8D%E6%98%93%E7%88%9B%E7%89%99-%E5%96%9D%E9%BB%91%E5%92%96%E5%95%A1%E6%81%90%E7%A3%A8%E8%9D%95%E7%90%BA%E7%91%AF%E8%B3%AA-%E7%89%99%E9%86%AB%E6%8F%AD%E9%BB%83%E9%87%91%E8%AD%B7%E9%BD%92%E6%99%82%E9%96%93",
-    "timestamp": "2026-11-19T23:29:27.763Z",
     "strategy": ".content-card__main"
   }
 ];
