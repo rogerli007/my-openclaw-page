@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T11:19:33.913Z
+// Last updated: 2026-11-20T11:45:34.420Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "假冒機構職員扮退款呃錢呃資料　警:或源自資料外洩　即學4招自保",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200530337948504064867190.jpeg/HOAeDSSJKeQjV_P5ZkIwdxMM-7FbrXho9JPG7fSTxu0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413287/%E5%81%87%E5%86%92%E6%A9%9F%E6%A7%8B%E8%81%B7%E5%93%A1%E6%89%AE%E9%80%80%E6%AC%BE%E5%91%83%E9%8C%A2%E5%91%83%E8%B3%87%E6%96%99-%E8%AD%A6-%E6%88%96%E6%BA%90%E8%87%AA%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9-%E5%8D%B3%E5%AD%B84%E6%8B%9B%E8%87%AA%E4%BF%9D",
+    "timestamp": "2026-11-20T11:45:34.420Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "發展局擬修訂《建築物條例》打撃嚴重僭建　買僭建物物業同屬違法",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200428148164923392925781.jpeg/l_WUzC7o5X3cWMBGX9l5jclp5wKXGGl5CCgwMggoMDI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412995/%E5%B0%96%E6%B2%99%E5%92%80audi%E9%81%87%E8%B7%AF%E9%9A%9C%E6%8B%92%E6%9F%A5%E9%80%83%E9%81%81-%E5%85%A9%E7%94%B7%E6%B6%89%E7%8B%82%E4%BA%82%E9%A7%95%E9%A7%9B%E5%8F%8A%E8%A1%8C%E4%BD%BF%E8%99%9B%E5%81%87%E6%96%87%E6%9B%B8%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-20T04:45:32.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張曦雯台慶性感戰衣無需吳卓羲過目　全程難掩甜笑：佢只可以話靚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200368085362544640716940.jpeg/9Jw5-OXWlM4-pq9ggOJNJslFWDtHfJhwcSyhinEsoYo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412949/%E5%BC%B5%E6%9B%A6%E9%9B%AF%E5%8F%B0%E6%85%B6%E6%80%A7%E6%84%9F%E6%88%B0%E8%A1%A3%E7%84%A1%E9%9C%80%E5%90%B3%E5%8D%93%E7%BE%B2%E9%81%8E%E7%9B%AE-%E5%85%A8%E7%A8%8B%E9%9B%A3%E6%8E%A9%E7%94%9C%E7%AC%91-%E4%BD%A2%E5%8F%AA%E5%8F%AF%E4%BB%A5%E8%A9%B1%E9%9D%9A",
-    "timestamp": "2026-11-20T04:33:36.703Z",
     "strategy": ".content-card__main"
   }
 ];
