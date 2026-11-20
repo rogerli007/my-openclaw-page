@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T03:33:55.682Z
+// Last updated: 2026-11-20T03:45:27.260Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "第三屆DALA Awards：聚焦數據素養與負責任人工智能",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199405086833381376657902.jpeg/vQEEmw1kvb_8pWLnxvHZv8eb1T-ZIR-REB9K2RAfStk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60411854/%E7%AC%AC%E4%B8%89%E5%B1%86dala-awards-%E8%81%9A%E7%84%A6%E6%95%B8%E6%93%9A%E7%B4%A0%E9%A4%8A%E8%88%87%E8%B2%A0%E8%B2%AC%E4%BB%BB%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+    "timestamp": "2026-11-20T03:45:27.260Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全美系統連環癱瘓非巧合？楊安澤警告AI危機：防黑客速做3件事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200298686102376448042518.jpeg/KWla63Papw3LivNPagO9kkgfaxkUyvbgubdrTbm3a00?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412936/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E8%AD%A6-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
     "timestamp": "2026-11-19T20:45:25.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地男子街頭暈倒　朋友報警　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200298686102376448042518.jpeg/KWla63Papw3LivNPagO9kkgfaxkUyvbgubdrTbm3a00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412936/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E8%AD%A6-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-11-19T20:20:22.385Z",
     "strategy": ".content-card__main"
   }
 ];
