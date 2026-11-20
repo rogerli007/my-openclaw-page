@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T04:59:19.898Z
+// Last updated: 2026-11-20T05:21:01.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角英皇道中國銀行職員揭100張百元美鈔屬假鈔　警拘兩男女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200436707153940480209413.jpeg/G3TO7J3KZfwgmwkEj-eDmDsYe2Gcq8fRhlG0NIZRtDQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413080/%E5%8C%97%E8%A7%92%E8%8B%B1%E7%9A%87%E9%81%93%E4%B8%AD%E5%9C%8B%E9%8A%80%E8%A1%8C%E8%81%B7%E5%93%A1%E6%8F%AD100%E5%BC%B5%E7%99%BE%E5%85%83%E7%BE%8E%E9%88%94%E5%B1%AC%E5%81%87%E9%88%94-%E8%AD%A6%E6%8B%98%E5%85%A9%E7%94%B7%E5%A5%B3",
+    "timestamp": "2026-11-20T05:21:01.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AEON Black Friday優惠低至5折！限時放題任裝、$189起掃超值福車",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200334820131999744098761.jpeg/ZxfhTl79mYv2m4NYM-mPaqse3yTlfb3xWr9mkFq_ZpA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412944/%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E6%9C%80%E9%AB%98%E5%BB%BA%E7%AF%89%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E6%93%8A-%E6%9A%AB%E7%84%A1%E4%BA%BA%E5%93%A1%E5%82%B7%E4%BA%A1%E5%A0%B1%E5%91%8A",
     "timestamp": "2026-11-19T22:45:10.046Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「閉月」貂蟬連環計　如何改寫董卓之死與呂布命運｜四大美人之三",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200150695618023424953016.png/C5CsXBodP1KtOBgY_IJz39E2sWe33ILBJETf9iRE3_Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411587/%E9%96%89%E6%9C%88-%E8%B2%82%E8%9F%AC%E9%80%A3%E7%92%B0%E8%A8%88-%E5%A6%82%E4%BD%95%E6%94%B9%E5%AF%AB%E8%91%A3%E5%8D%93%E4%B9%8B%E6%AD%BB%E8%88%87%E5%91%82%E5%B8%83%E5%91%BD%E9%81%8B-%E5%9B%9B%E5%A4%A7%E7%BE%8E%E4%BA%BA%E4%B9%8B%E4%B8%89",
-    "timestamp": "2026-11-19T22:14:20.734Z",
     "strategy": ".content-card__main"
   }
 ];
