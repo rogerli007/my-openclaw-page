@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T07:45:09.166Z
+// Last updated: 2026-11-20T08:23:58.161Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "CCL連跌6周最新157.56點 　樓價升幅收窄至不足一成　料下試155點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200482944511119360163045.jpeg/EUi-PPnHInAHPW38uxIG9pP6R2_gfHMBxfyAz8X8gM8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60413187/ccl%E9%80%A3%E8%B7%8C6%E5%91%A8%E6%9C%80%E6%96%B0157-56%E9%BB%9E-%E6%A8%93%E5%83%B9%E5%8D%87%E5%B9%85%E6%94%B6%E7%AA%84%E8%87%B3%E4%B8%8D%E8%B6%B3%E4%B8%80%E6%88%90-%E6%96%99%E4%B8%8B%E8%A9%A6155%E9%BB%9E",
+    "timestamp": "2026-11-20T08:23:58.161Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "綠茶真能消脂排油？實測3個月僅減0.2kg！權威醫學拆解真相",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412955/%E5%9C%8B%E9%9A%9B%E9%87%91%E9%8A%80%E5%83%B9%E6%A0%BC%E7%BA%8C%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C-%E7%8F%BE%E8%B2%A8%E9%BB%83%E9%87%91%E7%9B%A4%E4%B8%AD%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A0%B43620%E7%BE%8E%E5%85%83",
     "timestamp": "2026-11-20T00:56:58.508Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "學生愈用AI愈擔心學習退步　青協調查揭過度依賴削弱自主思考",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200344939423076352246013.jpeg/WQrzG9Y6HzvX-HPbhoR2Y2UUXYDVdOkn_zFrAP8xawA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60412945/%E5%AD%B8%E7%94%9F%E6%84%88%E7%94%A8ai%E6%84%88%E6%93%94%E5%BF%83%E5%AD%B8%E7%BF%92%E9%80%80%E6%AD%A5-%E9%9D%92%E5%8D%94%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%81%8E%E5%BA%A6%E4%BE%9D%E8%B3%B4%E5%89%8A%E5%BC%B1%E8%87%AA%E4%B8%BB%E6%80%9D%E8%80%83",
-    "timestamp": "2026-11-20T00:35:16.569Z",
     "strategy": ".content-card__main"
   }
 ];
