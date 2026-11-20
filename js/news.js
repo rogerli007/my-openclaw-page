@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T14:20:51.329Z
+// Last updated: 2026-11-20T14:45:46.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "許志安與馬國明同場不尷尬　呼籲向前看：以前錯過痛過沉澱過改過",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200493404136411136412563.jpeg/xcUim_8zXE9CBY4vTQvdlaxkt2Md_75ec0ZwO3NGcDs",
+    "url": "https://www.hk01.com/01TV/60413219/%E8%A8%B1%E5%BF%97%E5%AE%89%E8%88%87%E9%A6%AC%E5%9C%8B%E6%98%8E%E5%90%8C%E5%A0%B4%E4%B8%8D%E5%B0%B7%E5%B0%AC-%E5%91%BC%E7%B1%B2%E5%90%91%E5%89%8D%E7%9C%8B-%E4%BB%A5%E5%89%8D%E9%8C%AF%E9%81%8E%E7%97%9B%E9%81%8E%E6%B2%89%E6%BE%B1%E9%81%8E%E6%94%B9%E9%81%8E",
+    "timestamp": "2026-11-20T14:45:46.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江若琳代班做DJ壓力爆煲　驚揭工人姐姐廁紙盒當飯盒：好生面口",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199768709082648576897054.jpeg/Ng1T5tiG9UFvvAHZoUBlFfjtI-4NVKAxebXd8Hm13fA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60411912/%E6%B7%B1%E5%9C%B3%E7%AB%8B%E6%96%B0%E6%B9%96%E5%85%AC%E5%9C%92-%E6%BC%AB%E6%AD%A58-8km%E7%92%B0%E6%B9%96%E7%B6%A0%E9%81%93-%E7%A9%BA%E4%B8%AD%E5%BB%8A%E6%A9%8B%E9%81%A0%E7%9C%BA%E6%B9%96%E5%85%89%E4%BA%BA%E5%B0%91%E5%AE%89%E9%9D%9C",
     "timestamp": "2026-11-20T07:21:56.847Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深水埗運動場外地盤　發現懷疑爆炸品　EOD到場調查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200458394268340224580361.jpeg/9iY4RX_POn51gNFwly_PYNEYjxc42U-uGAOPZxgDj2c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413111/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%81%8B%E5%8B%95%E5%A0%B4%E5%A4%96%E5%9C%B0%E7%9B%A4-%E7%99%BC%E7%8F%BE%E6%87%B7%E7%96%91%E7%88%86%E7%82%B8%E5%93%81-eod%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5",
-    "timestamp": "2026-11-20T06:51:42.244Z",
     "strategy": ".content-card__main"
   }
 ];
