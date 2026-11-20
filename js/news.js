@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T21:44:39.335Z
+// Last updated: 2026-11-20T21:59:02.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股又爆股災！納指暴瀉逾5% 　英偉達再插水14%連跌7日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200687809166315520469103.jpeg/WLOefWrrptYZowDzRLqpJ2WlAC1oLFqhWfde3ln3Xt4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413109/%E7%BE%8E%E8%82%A1%E5%8F%88%E7%88%86%E8%82%A1%E7%81%BD-%E7%B4%8D%E6%8C%87%E6%9A%B4%E7%80%89%E9%80%BE5-%E8%8B%B1%E5%81%89%E9%81%94%E5%86%8D%E6%8F%92%E6%B0%B414-%E9%80%A3%E8%B7%8C7%E6%97%A5",
+    "timestamp": "2026-11-20T21:59:02.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股又爆股災！納指暴瀉逾5% 　英偉達再插水14%連跌7日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200592924430045184961725.jpeg/ZrvLWvRdF5vU5hQrh9jKr_ewaPod9hYXZJXwhGSV8IQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413327/%E6%A8%82%E6%98%93%E7%8E%B2%E6%85%88%E5%96%84%E6%99%9A%E5%AE%B4%E9%96%8B%E9%87%91%E5%8F%A3%E5%94%B1-%E5%AD%A3%E5%80%99%E9%A2%A8-%E7%B1%8C40%E8%90%AC-%E9%84%AD%E8%A1%8D%E5%B3%B0%E6%9D%8E%E7%88%BE%E6%99%A8%E5%85%A8%E7%A8%8B%E5%82%8D%E5%AF%A6",
     "timestamp": "2026-11-20T15:45:31.475Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒冷天氣警告｜油麻地熟食市場火鍋香氣濃　內地客穿短袖凍到借衫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200569000468549632520316.jpeg/wxbu9z-uOOEpb8t6xRfpEtOC0mlzSTj0KHLdWw1y3Vs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413318/%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A-%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%86%9F%E9%A3%9F%E5%B8%82%E5%A0%B4%E7%81%AB%E9%8D%8B%E9%A6%99%E6%B0%A3%E6%BF%83-%E5%85%A7%E5%9C%B0%E5%AE%A2%E7%A9%BF%E7%9F%AD%E8%A2%96%E5%87%8D%E5%88%B0%E5%80%9F%E8%A1%AB",
-    "timestamp": "2026-11-20T15:20:01.999Z",
     "strategy": ".content-card__main"
   }
 ];
