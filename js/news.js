@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T07:21:56.847Z
+// Last updated: 2026-11-20T07:45:09.166Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "綠茶真能消脂排油？實測3個月僅減0.2kg！權威醫學拆解真相",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200454812588576768174309.jpeg/0tI2jOLz2g1Trb0-Q8eiHy3RKJPZId87fnBlp35wZac?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60409714/%E7%B6%A0%E8%8C%B6%E7%9C%9F%E8%83%BD%E6%B6%88%E8%84%82%E6%8E%92%E6%B2%B9-%E5%AF%A6%E6%B8%AC3%E5%80%8B%E6%9C%88%E5%83%85%E6%B8%9B0-2kg-%E6%AC%8A%E5%A8%81%E9%86%AB%E5%AD%B8%E6%8B%86%E8%A7%A3%E7%9C%9F%E7%9B%B8",
+    "timestamp": "2026-11-20T07:45:09.166Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳立新湖公園｜漫步8.8km環湖綠道　空中廊橋遠眺湖光人少安靜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200344939423076352246013.jpeg/WQrzG9Y6HzvX-HPbhoR2Y2UUXYDVdOkn_zFrAP8xawA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E8%82%B2%E7%99%BC%E5%B1%95/60412945/%E5%AD%B8%E7%94%9F%E6%84%88%E7%94%A8ai%E6%84%88%E6%93%94%E5%BF%83%E5%AD%B8%E7%BF%92%E9%80%80%E6%AD%A5-%E9%9D%92%E5%8D%94%E8%AA%BF%E6%9F%A5%E6%8F%AD%E9%81%8E%E5%BA%A6%E4%BE%9D%E8%B3%B4%E5%89%8A%E5%BC%B1%E8%87%AA%E4%B8%BB%E6%80%9D%E8%80%83",
     "timestamp": "2026-11-20T00:35:16.569Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美「極致禮遇」背後，大國博弈走向何方？｜深圳APEC",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200100339236212736849567.jpeg/3QPVWN5U4rWJ-G7oGSdmc08ayfDwmj192kmzrtpJs64?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60412759/%E4%B8%AD%E7%BE%8E-%E6%A5%B5%E8%87%B4%E7%A6%AE%E9%81%87-%E8%83%8C%E5%BE%8C-%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9-%E6%B7%B1%E5%9C%B3apec",
-    "timestamp": "2026-11-19T23:59:10.191Z",
     "strategy": ".content-card__main"
   }
 ];
