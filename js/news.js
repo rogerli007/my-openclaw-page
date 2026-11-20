@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T08:23:58.161Z
+// Last updated: 2026-11-20T08:36:31.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蔡天鳳｜庭上俚語考起傳譯員　臨老入花叢、M底、弱雞點翻譯？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250606/1007662410753904640263709.jpeg/Ma2DA8vDz1Ae8R-PbI4dszsseHVUCWJ7M6whOjOsITo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413158/%E8%94%A1%E5%A4%A9%E9%B3%B3-%E5%BA%AD%E4%B8%8A%E4%BF%9A%E8%AA%9E%E8%80%83%E8%B5%B7%E5%82%B3%E8%AD%AF%E5%93%A1-%E8%87%A8%E8%80%81%E5%85%A5%E8%8A%B1%E5%8F%A2-m%E5%BA%95-%E5%BC%B1%E9%9B%9E%E9%BB%9E%E7%BF%BB%E8%AD%AF",
+    "timestamp": "2026-11-20T08:36:31.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "CCL連跌6周最新157.56點 　樓價升幅收窄至不足一成　料下試155點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200373266800185344276584.jpeg/qdEFQhSrXw4ULaC_OZO0PKoUkA9W3upjuLump7i7pqc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412959/%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A99%E6%99%82%E9%8C%84%E6%9C%80%E4%BD%8E15-1%E5%BA%A6-%E5%85%A5%E7%A7%8B%E4%BB%A5%E4%BE%86%E6%9C%80%E4%BD%8E-%E6%97%A5%E9%96%93%E7%BA%8C%E9%99%8D%E8%87%B3%E7%B4%8413%E5%BA%A6",
     "timestamp": "2026-11-20T01:20:17.607Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國際金銀價格續大幅下跌　現貨黃金盤中一度跌破3620美元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412955/%E5%9C%8B%E9%9A%9B%E9%87%91%E9%8A%80%E5%83%B9%E6%A0%BC%E7%BA%8C%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C-%E7%8F%BE%E8%B2%A8%E9%BB%83%E9%87%91%E7%9B%A4%E4%B8%AD%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A0%B43620%E7%BE%8E%E5%85%83",
-    "timestamp": "2026-11-20T00:56:58.508Z",
     "strategy": ".content-card__main"
   }
 ];
