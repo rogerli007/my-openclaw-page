@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T08:59:13.169Z
+// Last updated: 2026-11-20T09:21:26.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜陳國基：不會阻止合法悼念　籲小心選擇免被有心人利用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177356478667821056326584.jpeg/DSPTb2VtlrAcGT4mrEa7c08w373_fih9xDQu-d40Lvk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413228/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E4%B8%8D%E6%9C%83%E9%98%BB%E6%AD%A2%E5%90%88%E6%B3%95%E6%82%BC%E5%BF%B5-%E7%B1%B2%E5%B0%8F%E5%BF%83%E9%81%B8%E6%93%87%E5%85%8D%E8%A2%AB%E6%9C%89%E5%BF%83%E4%BA%BA%E5%88%A9%E7%94%A8",
+    "timestamp": "2026-11-20T09:21:26.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新地委任葉劉淑儀為獨立非執董　年收30萬元董事袍金",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200143840938299392681520.jpeg/5bBIN0JumM8JSmNuqD19TmEUCwGnfPxilqOrupajq7o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412794/%E6%9E%97%E5%AD%90%E7%A5%A5gta-6%E7%88%86%E7%B4%85-%E5%8E%9F%E5%AE%9A%E6%BC%94-%E5%AE%B6%E6%9C%89%E5%9B%8D%E4%BA%8B-%E5%91%A8%E6%98%9F%E9%A6%B3%E8%87%A8%E6%99%82%E9%A0%82%E4%B8%8A%E5%A7%8B%E6%9C%AB%E6%9B%9D%E5%85%89",
     "timestamp": "2026-11-20T02:35:52.429Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳出軌｜美曾批近90萬顆AI晶片入華　騰訊、阿里共獲逾20萬顆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250502/994910190564282368420167.jpeg/_OIzNIN6QE8jBpyU4MNlTzJMwDk6NDQZx13TSsdd00o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412978/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%BE%8E%E6%9B%BE%E6%89%B9%E8%BF%9190%E8%90%AC%E9%A1%86ai%E6%99%B6%E7%89%87%E5%85%A5%E8%8F%AF-%E9%A8%B0%E8%A8%8A-%E9%98%BF%E9%87%8C%E5%85%B1%E7%8D%B2%E9%80%BE20%E8%90%AC%E9%A1%86",
-    "timestamp": "2026-11-20T02:24:06.849Z",
     "strategy": ".content-card__main"
   }
 ];
