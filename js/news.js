@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T03:59:14.232Z
+// Last updated: 2026-11-20T04:22:03.665Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "億世家ecHome一款電磁爐能源效益或表現未達標　即日起禁在港供應",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197906161110618112974523.jpeg/Bo4Z1Ib03Q1T__A48pje8oOsbYniflYVCWslRwlrJUc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413050/%E5%84%84%E4%B8%96%E5%AE%B6echome%E4%B8%80%E6%AC%BE%E9%9B%BB%E7%A3%81%E7%88%90%E8%83%BD%E6%BA%90%E6%95%88%E7%9B%8A%E6%88%96%E8%A1%A8%E7%8F%BE%E6%9C%AA%E9%81%94%E6%A8%99-%E5%8D%B3%E6%97%A5%E8%B5%B7%E7%A6%81%E5%9C%A8%E6%B8%AF%E4%BE%9B%E6%87%89",
+    "timestamp": "2026-11-20T04:22:03.665Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台媽攜感染諾如病毒女兒訪日 網民批行為自私 附6大症狀及預防6招",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179230764449927168495813.jpeg/qrwhRXlWsdYnN01qNzt3YZ8lVKsRQHx4wPrVkMD61ZA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412938/%E4%B8%B9%E9%BA%A5%E8%AD%B0%E6%9C%83%E9%80%9A%E9%81%8E%E6%A0%BC%E9%99%B5%E8%98%AD%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E6%93%B4%E5%A4%A7%E7%BE%8E%E5%9C%8B%E8%BB%8D%E4%BA%8B%E5%87%86%E5%85%A5%E7%AF%84%E5%9C%8D",
     "timestamp": "2026-11-19T21:19:24.797Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "油麻地男子街頭暈倒　朋友報警　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200298686102376448042518.jpeg/KWla63Papw3LivNPagO9kkgfaxkUyvbgubdrTbm3a00?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412936/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%94%B7%E5%AD%90%E8%A1%97%E9%A0%AD%E6%9A%88%E5%80%92-%E6%9C%8B%E5%8F%8B%E5%A0%B1%E8%AD%A6-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-11-19T20:58:58.330Z",
     "strategy": ".content-card__main"
   }
 ];
