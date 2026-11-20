@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T16:20:08.513Z
+// Last updated: 2026-11-20T16:46:05.172Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寒冷天氣警告｜羊腩煲大賣　有餐廳傍晚宣布提早收工　外賣停三日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200590299080953856352971.jpeg/LQnE7ZNDSkwmRJjOlJk3inAHRrQkK8Y5CEzLxwhMy8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413324/%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A-%E7%BE%8A%E8%85%A9%E7%85%B2%E5%A4%A7%E8%B3%A3-%E6%9C%89%E9%A4%90%E5%BB%B3%E5%82%8D%E6%99%9A%E5%AE%A3%E5%B8%83%E6%8F%90%E6%97%A9%E6%94%B6%E5%B7%A5-%E5%A4%96%E8%B3%A3%E5%81%9C%E4%B8%89%E6%97%A5",
+    "timestamp": "2026-11-20T16:46:05.172Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "假驗證碼釣魚陷阱激增8倍！「我不是機器人」按錯3個鍵即清空帳號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200432070854184960280795.jpeg/YqXIb9qr3FIact3A2vlvLUDGz1QUFDm9zoenqc6Hp6k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60413077/%E8%A7%A3%E8%BE%A3%E6%96%B9%E6%B3%95-%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%E6%95%99%E9%A3%9F1%E7%A8%AE%E6%B0%B4%E6%9E%9C-%E6%AF%94%E7%89%9B%E5%A5%B6%E6%9B%B4%E8%A7%A3%E8%BE%A3-%E7%87%9F%E9%A4%8A%E9%AB%98%E8%B6%85%E5%B8%82%E6%98%93%E8%B2%B7",
     "timestamp": "2026-11-20T09:45:40.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜陳國基：不會阻止合法悼念　籲小心選擇免被有心人利用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177356478667821056326584.jpeg/DSPTb2VtlrAcGT4mrEa7c08w373_fih9xDQu-d40Lvk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413228/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E4%B8%8D%E6%9C%83%E9%98%BB%E6%AD%A2%E5%90%88%E6%B3%95%E6%82%BC%E5%BF%B5-%E7%B1%B2%E5%B0%8F%E5%BF%83%E9%81%B8%E6%93%87%E5%85%8D%E8%A2%AB%E6%9C%89%E5%BF%83%E4%BA%BA%E5%88%A9%E7%94%A8",
-    "timestamp": "2026-11-20T09:21:26.787Z",
     "strategy": ".content-card__main"
   }
 ];
