@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T09:21:26.787Z
+// Last updated: 2026-11-20T09:45:40.363Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "解辣方法｜日本專家教食1種水果　比牛奶更解辣　營養高超市易買",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200432070854184960280795.jpeg/YqXIb9qr3FIact3A2vlvLUDGz1QUFDm9zoenqc6Hp6k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60413077/%E8%A7%A3%E8%BE%A3%E6%96%B9%E6%B3%95-%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%E6%95%99%E9%A3%9F1%E7%A8%AE%E6%B0%B4%E6%9E%9C-%E6%AF%94%E7%89%9B%E5%A5%B6%E6%9B%B4%E8%A7%A3%E8%BE%A3-%E7%87%9F%E9%A4%8A%E9%AB%98%E8%B6%85%E5%B8%82%E6%98%93%E8%B2%B7",
+    "timestamp": "2026-11-20T09:45:40.363Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜陳國基：不會阻止合法悼念　籲小心選擇免被有心人利用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261102/1194021669023256576348597.jpeg/GZV9f82Q71sCnVfc5zgdbpM76j8_2NNsr0RbAq9EWwI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412599/%E5%91%A8%E6%85%A7%E8%B3%A2%E8%A2%AB%E6%AE%BA%E5%89%8D%E7%94%B7%E5%8F%8B%E8%AC%80%E6%AE%BA%E7%BD%AA%E6%88%90-%E5%AE%98%E7%A8%B1%E8%8B%A5%E6%B7%B1%E6%84%9B%E6%87%89%E6%94%BE%E6%89%8B-%E6%89%8B%E6%B3%95%E5%85%87%E6%AE%98%E5%88%A4%E5%9B%9A%E7%B5%82%E8%BA%AB",
     "timestamp": "2026-11-20T03:22:04.841Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林子祥GTA 6爆紅　原定演《家有囍事》周星馳臨時頂上始末曝光",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200143840938299392681520.jpeg/5bBIN0JumM8JSmNuqD19TmEUCwGnfPxilqOrupajq7o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412794/%E6%9E%97%E5%AD%90%E7%A5%A5gta-6%E7%88%86%E7%B4%85-%E5%8E%9F%E5%AE%9A%E6%BC%94-%E5%AE%B6%E6%9C%89%E5%9B%8D%E4%BA%8B-%E5%91%A8%E6%98%9F%E9%A6%B3%E8%87%A8%E6%99%82%E9%A0%82%E4%B8%8A%E5%A7%8B%E6%9C%AB%E6%9B%9D%E5%85%89",
-    "timestamp": "2026-11-20T02:35:52.429Z",
     "strategy": ".content-card__main"
   }
 ];
