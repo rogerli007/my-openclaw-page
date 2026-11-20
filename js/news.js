@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T01:20:17.607Z
+// Last updated: 2026-11-20T02:24:06.849Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳出軌｜美曾批近90萬顆AI晶片入華　騰訊、阿里共獲逾20萬顆",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250502/994910190564282368420167.jpeg/_OIzNIN6QE8jBpyU4MNlTzJMwDk6NDQZx13TSsdd00o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412978/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E8%BB%8C-%E7%BE%8E%E6%9B%BE%E6%89%B9%E8%BF%9190%E8%90%AC%E9%A1%86ai%E6%99%B6%E7%89%87%E5%85%A5%E8%8F%AF-%E9%A8%B0%E8%A8%8A-%E9%98%BF%E9%87%8C%E5%85%B1%E7%8D%B2%E9%80%BE20%E8%90%AC%E9%A1%86",
+    "timestamp": "2026-11-20T02:24:06.849Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天文台：今早9時錄最低15.1度　入秋以來最低　日間續降至約13度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200271576071671808247396.jpeg/ZE-EmzAtfp3_1MJF-BEDvl4x588klIfuY4w8kWOMPJE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412934/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86-%E9%9B%85%E7%88%BE%E5%A1%94%E6%A8%A1%E5%BC%8F%E7%84%A1%E6%B3%95%E7%82%BA%E7%83%8F%E5%85%8B%E8%98%AD%E5%B8%B6%E4%BE%86%E5%92%8C%E5%B9%B3-%E6%AD%90%E6%B4%B2%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%86%8D%E5%88%86%E8%A3%82",
     "timestamp": "2026-11-19T19:18:01.766Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國總理：雅爾塔模式無法為烏克蘭帶來和平　歐洲不接受再分裂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200271576071671808247396.jpeg/ZE-EmzAtfp3_1MJF-BEDvl4x588klIfuY4w8kWOMPJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412934/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86-%E9%9B%85%E7%88%BE%E5%A1%94%E6%A8%A1%E5%BC%8F%E7%84%A1%E6%B3%95%E7%82%BA%E7%83%8F%E5%85%8B%E8%98%AD%E5%B8%B6%E4%BE%86%E5%92%8C%E5%B9%B3-%E6%AD%90%E6%B4%B2%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%86%8D%E5%88%86%E8%A3%82",
-    "timestamp": "2026-11-19T18:59:27.590Z",
     "strategy": ".content-card__main"
   }
 ];
