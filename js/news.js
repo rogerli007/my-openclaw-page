@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T20:19:47.667Z
+// Last updated: 2026-11-20T20:45:07.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強晤澳洲總理阿爾巴尼斯　指願同澳方推動AI等新興領域合作亮點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200664490316664832315429.png/8K_No18pfG6hCNCPG3p4_42xAydMSpbGRcz4UUXM-FE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413340/%E6%9D%8E%E5%BC%B7%E6%99%A4%E6%BE%B3%E6%B4%B2%E7%B8%BD%E7%90%86%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E6%96%AF-%E6%8C%87%E9%A1%98%E5%90%8C%E6%BE%B3%E6%96%B9%E6%8E%A8%E5%8B%95ai%E7%AD%89%E6%96%B0%E8%88%88%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E4%BA%AE%E9%BB%9E",
+    "timestamp": "2026-11-20T20:45:07.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普指普京明確表達結束戰爭意願　未達協議前不談烏安全保證",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200513955823357952056128.jpeg/zUFFZ7W4_zJqbiDLYL8TLKJre3pQqshwsXRLpbF0S6U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413266/%E6%B1%9F%E8%8B%A5%E7%90%B3%E4%BB%A3%E7%8F%AD%E5%81%9Adj%E5%A3%93%E5%8A%9B%E7%88%86%E7%85%B2-%E9%A9%9A%E6%8F%AD%E5%B7%A5%E4%BA%BA%E5%A7%90%E5%A7%90%E5%BB%81%E7%B4%99%E7%9B%92%E7%95%B6%E9%A3%AF%E7%9B%92-%E5%A5%BD%E7%94%9F%E9%9D%A2%E5%8F%A3",
     "timestamp": "2026-11-20T14:20:51.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山富寶花園停水｜管理處：各座食水陸續恢復　續安排修鹹水管",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200554275990671360498567.jpeg/UxaawGP-OKSMKWfKDPnNyD-msKte9Ip_OF1ZQjhdWUI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413306/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%AF%8C%E5%AF%B6%E8%8A%B1%E5%9C%92%E5%81%9C%E6%B0%B4-%E7%AE%A1%E7%90%86%E8%99%95-%E5%90%84%E5%BA%A7%E9%A3%9F%E6%B0%B4%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9-%E7%BA%8C%E5%AE%89%E6%8E%92%E4%BF%AE%E9%B9%B9%E6%B0%B4%E7%AE%A1",
-    "timestamp": "2026-11-20T13:19:56.787Z",
     "strategy": ".content-card__main"
   }
 ];
