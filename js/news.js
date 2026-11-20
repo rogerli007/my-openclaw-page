@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T05:21:01.047Z
+// Last updated: 2026-11-20T05:45:50.719Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "減肥｜42歲媽媽決定為自己而活！8月減掉25kg乾淨飲食燃脂操秘訣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200429115371425792104768.jpeg/3CPabD9q9Vr0LHKDOOe44YesJnqljy7lrLEkKKyxJCg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413011/%E6%B8%9B%E8%82%A5-42%E6%AD%B2%E5%AA%BD%E5%AA%BD%E6%B1%BA%E5%AE%9A%E7%82%BA%E8%87%AA%E5%B7%B1%E8%80%8C%E6%B4%BB-8%E6%9C%88%E6%B8%9B%E6%8E%8925kg%E4%B9%BE%E6%B7%A8%E9%A3%B2%E9%A3%9F%E7%87%83%E8%84%82%E6%93%8D%E7%A7%98%E8%A8%A3",
+    "timestamp": "2026-11-20T05:45:50.719Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角英皇道中國銀行職員揭100張百元美鈔屬假鈔　警拘兩男女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200334820131999744098761.jpeg/ZxfhTl79mYv2m4NYM-mPaqse3yTlfb3xWr9mkFq_ZpA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412944/%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E6%9C%80%E9%AB%98%E5%BB%BA%E7%AF%89%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E6%93%8A-%E6%9A%AB%E7%84%A1%E4%BA%BA%E5%93%A1%E5%82%B7%E4%BA%A1%E5%A0%B1%E5%91%8A",
     "timestamp": "2026-11-19T22:59:06.783Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特首都最高建築遭胡塞武裝襲擊　暫無人員傷亡報告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200334820131999744098761.jpeg/ZxfhTl79mYv2m4NYM-mPaqse3yTlfb3xWr9mkFq_ZpA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412944/%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E6%9C%80%E9%AB%98%E5%BB%BA%E7%AF%89%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E6%93%8A-%E6%9A%AB%E7%84%A1%E4%BA%BA%E5%93%A1%E5%82%B7%E4%BA%A1%E5%A0%B1%E5%91%8A",
-    "timestamp": "2026-11-19T22:45:10.046Z",
     "strategy": ".content-card__main"
   }
 ];
