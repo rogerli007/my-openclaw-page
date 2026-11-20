@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T05:45:50.719Z
+// Last updated: 2026-11-20T05:59:08.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港機場餐飲優惠攻略｜70+機場餐廳整合商店優惠/免費活動工作坊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200444959946182656576413.jpeg/QTvr_Q5hZnjGVJ1aNqhQlBkTiJsT50YrzOXiWczl4lk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60410681/%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4%E9%A4%90%E9%A3%B2%E5%84%AA%E6%83%A0%E6%94%BB%E7%95%A5-70-%E6%A9%9F%E5%A0%B4%E9%A4%90%E5%BB%B3%E6%95%B4%E5%90%88%E5%95%86%E5%BA%97%E5%84%AA%E6%83%A0-%E5%85%8D%E8%B2%BB%E6%B4%BB%E5%8B%95%E5%B7%A5%E4%BD%9C%E5%9D%8A",
+    "timestamp": "2026-11-20T05:59:08.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "減肥｜42歲媽媽決定為自己而活！8月減掉25kg乾淨飲食燃脂操秘訣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199742360506863616284530.png/Q9Quv1RjKm0LPRV11CL_sYgkjC1n8JDNfTYaan02Gmo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412018/%E5%8D%B0%E5%B0%BC%E5%B9%BC%E7%AB%A5%E7%88%AC6%E7%B1%B3-%E5%B7%A8%E8%9F%92%E6%BB%91%E6%A2%AF-%E5%AE%B6%E9%95%B7%E7%AB%99%E6%97%81%E8%88%89%E6%A9%9F%E6%8B%8D-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F%E5%B0%88%E5%AE%B6%E8%AD%A6%E5%91%8A",
     "timestamp": "2026-11-19T23:18:11.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "沙特首都最高建築遭胡塞武裝襲擊　暫無人員傷亡報告",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200334820131999744098761.jpeg/ZxfhTl79mYv2m4NYM-mPaqse3yTlfb3xWr9mkFq_ZpA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60412944/%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E6%9C%80%E9%AB%98%E5%BB%BA%E7%AF%89%E9%81%AD%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E8%A5%B2%E6%93%8A-%E6%9A%AB%E7%84%A1%E4%BA%BA%E5%93%A1%E5%82%B7%E4%BA%A1%E5%A0%B1%E5%91%8A",
-    "timestamp": "2026-11-19T22:59:06.783Z",
     "strategy": ".content-card__main"
   }
 ];
