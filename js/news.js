@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T15:59:04.685Z
+// Last updated: 2026-11-20T16:20:08.513Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "假驗證碼釣魚陷阱激增8倍！「我不是機器人」按錯3個鍵即清空帳號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200480299062923264574302.jpeg/PQPi7qgt455AmY7j7NeXuIsc2tsFUTBj9wymPfcMpj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60413135/%E5%81%87%E9%A9%97%E8%AD%89%E7%A2%BC%E9%87%A3%E9%AD%9A%E9%99%B7%E9%98%B1%E6%BF%80%E5%A2%9E8%E5%80%8D-%E6%88%91%E4%B8%8D%E6%98%AF%E6%A9%9F%E5%99%A8%E4%BA%BA-%E6%8C%89%E9%8C%AF3%E5%80%8B%E9%8D%B5%E5%8D%B3%E6%B8%85%E7%A9%BA%E5%B8%B3%E8%99%9F",
+    "timestamp": "2026-11-20T16:20:08.513Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "食環署精準打擊鼠患　全港揭282個鼠洞　文化中心檢獲逾百隻老鼠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260917/1177356478667821056326584.jpeg/DSPTb2VtlrAcGT4mrEa7c08w373_fih9xDQu-d40Lvk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413228/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E4%B8%8D%E6%9C%83%E9%98%BB%E6%AD%A2%E5%90%88%E6%B3%95%E6%82%BC%E5%BF%B5-%E7%B1%B2%E5%B0%8F%E5%BF%83%E9%81%B8%E6%93%87%E5%85%8D%E8%A2%AB%E6%9C%89%E5%BF%83%E4%BA%BA%E5%88%A9%E7%94%A8",
     "timestamp": "2026-11-20T09:21:26.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新地委任葉劉淑儀為獨立非執董　年收30萬元董事袍金",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155165396249219072675039.jpeg/pmKGGpACsB0du2ipp21pHaVvRH1WEUiTQ5mBxkOZgcY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413215/%E6%96%B0%E5%9C%B0%E5%A7%94%E4%BB%BB%E8%91%89%E5%8A%89%E6%B7%91%E5%84%80%E7%82%BA%E7%8D%A8%E7%AB%8B%E9%9D%9E%E5%9F%B7%E8%91%A3-%E5%B9%B4%E6%94%B630%E8%90%AC%E5%85%83%E8%91%A3%E4%BA%8B%E8%A2%8D%E9%87%91",
-    "timestamp": "2026-11-20T08:59:13.169Z",
     "strategy": ".content-card__main"
   }
 ];
