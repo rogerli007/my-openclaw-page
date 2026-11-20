@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T06:51:42.244Z
+// Last updated: 2026-11-20T07:21:56.847Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深圳立新湖公園｜漫步8.8km環湖綠道　空中廊橋遠眺湖光人少安靜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199768709082648576897054.jpeg/Ng1T5tiG9UFvvAHZoUBlFfjtI-4NVKAxebXd8Hm13fA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60411912/%E6%B7%B1%E5%9C%B3%E7%AB%8B%E6%96%B0%E6%B9%96%E5%85%AC%E5%9C%92-%E6%BC%AB%E6%AD%A58-8km%E7%92%B0%E6%B9%96%E7%B6%A0%E9%81%93-%E7%A9%BA%E4%B8%AD%E5%BB%8A%E6%A9%8B%E9%81%A0%E7%9C%BA%E6%B9%96%E5%85%89%E4%BA%BA%E5%B0%91%E5%AE%89%E9%9D%9C",
+    "timestamp": "2026-11-20T07:21:56.847Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗運動場外地盤　發現懷疑爆炸品　EOD到場調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200100339236212736849567.jpeg/3QPVWN5U4rWJ-G7oGSdmc08ayfDwmj192kmzrtpJs64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60412759/%E4%B8%AD%E7%BE%8E-%E6%A5%B5%E8%87%B4%E7%A6%AE%E9%81%87-%E8%83%8C%E5%BE%8C-%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9-%E6%B7%B1%E5%9C%B3apec",
     "timestamp": "2026-11-19T23:59:10.191Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "中美「極致禮遇」背後，大國博弈走向何方？｜深圳APEC",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200100339236212736849567.jpeg/3QPVWN5U4rWJ-G7oGSdmc08ayfDwmj192kmzrtpJs64?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60412759/%E4%B8%AD%E7%BE%8E-%E6%A5%B5%E8%87%B4%E7%A6%AE%E9%81%87-%E8%83%8C%E5%BE%8C-%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9-%E6%B7%B1%E5%9C%B3apec",
-    "timestamp": "2026-11-19T23:45:26.701Z",
     "strategy": ".content-card__main"
   }
 ];
