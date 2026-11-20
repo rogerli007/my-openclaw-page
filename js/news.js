@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T10:59:07.703Z
+// Last updated: 2026-11-20T11:19:33.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "發展局擬修訂《建築物條例》打撃嚴重僭建　買僭建物物業同屬違法",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230912/778405303557296128096785.jpeg/XjTpXo53ArUKUii55Q7zWxNLZ0q6H9MJj5UdFY-VHRU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60413269/%E7%99%BC%E5%B1%95%E5%B1%80%E6%93%AC%E4%BF%AE%E8%A8%82-%E5%BB%BA%E7%AF%89%E7%89%A9%E6%A2%9D%E4%BE%8B-%E6%89%93%E6%92%83%E5%9A%B4%E9%87%8D%E5%83%AD%E5%BB%BA-%E8%B2%B7%E5%83%AD%E5%BB%BA%E7%89%A9%E7%89%A9%E6%A5%AD%E5%90%8C%E5%B1%AC%E9%81%95%E6%B3%95",
+    "timestamp": "2026-11-20T11:19:33.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廠商會換屆　CATALO老闆陳家偉當選會長　明年起接棒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200368085362544640716940.jpeg/9Jw5-OXWlM4-pq9ggOJNJslFWDtHfJhwcSyhinEsoYo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412949/%E5%BC%B5%E6%9B%A6%E9%9B%AF%E5%8F%B0%E6%85%B6%E6%80%A7%E6%84%9F%E6%88%B0%E8%A1%A3%E7%84%A1%E9%9C%80%E5%90%B3%E5%8D%93%E7%BE%B2%E9%81%8E%E7%9B%AE-%E5%85%A8%E7%A8%8B%E9%9B%A3%E6%8E%A9%E7%94%9C%E7%AC%91-%E4%BD%A2%E5%8F%AA%E5%8F%AF%E4%BB%A5%E8%A9%B1%E9%9D%9A",
     "timestamp": "2026-11-20T04:33:36.703Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "億世家ecHome一款電磁爐能源效益或表現未達標　即日起禁在港供應",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197906161110618112974523.jpeg/Bo4Z1Ib03Q1T__A48pje8oOsbYniflYVCWslRwlrJUc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413050/%E5%84%84%E4%B8%96%E5%AE%B6echome%E4%B8%80%E6%AC%BE%E9%9B%BB%E7%A3%81%E7%88%90%E8%83%BD%E6%BA%90%E6%95%88%E7%9B%8A%E6%88%96%E8%A1%A8%E7%8F%BE%E6%9C%AA%E9%81%94%E6%A8%99-%E5%8D%B3%E6%97%A5%E8%B5%B7%E7%A6%81%E5%9C%A8%E6%B8%AF%E4%BE%9B%E6%87%89",
-    "timestamp": "2026-11-20T04:22:03.665Z",
     "strategy": ".content-card__main"
   }
 ];
