@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T23:18:56.463Z
+// Last updated: 2026-11-20T23:45:21.360Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "脂肪肝血脂高｜微糖手搖飲加飯後果盤成元兇　權威機構教控血脂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199345421055430656479682.jpeg/HKnOEHSpPkIGphLeFozx-ei8zYiUwIxnTb2mnE29ppw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60410689/%E8%84%82%E8%82%AA%E8%82%9D%E8%A1%80%E8%84%82%E9%AB%98-%E5%BE%AE%E7%B3%96%E6%89%8B%E6%90%96%E9%A3%B2%E5%8A%A0%E9%A3%AF%E5%BE%8C%E6%9E%9C%E7%9B%A4%E6%88%90%E5%85%83%E5%85%87-%E6%AC%8A%E5%A8%81%E6%A9%9F%E6%A7%8B%E6%95%99%E6%8E%A7%E8%A1%80%E8%84%82",
+    "timestamp": "2026-11-20T23:45:21.360Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "老婦穿$16鞋到銀行轉賬千萬　職員憂受騙報警　揭驚人身份狂致敬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200590299080953856352971.jpeg/LQnE7ZNDSkwmRJjOlJk3inAHRrQkK8Y5CEzLxwhMy8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413324/%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A-%E7%BE%8A%E8%85%A9%E7%85%B2%E5%A4%A7%E8%B3%A3-%E6%9C%89%E9%A4%90%E5%BB%B3%E5%82%8D%E6%99%9A%E5%AE%A3%E5%B8%83%E6%8F%90%E6%97%A9%E6%94%B6%E5%B7%A5-%E5%A4%96%E8%B3%A3%E5%81%9C%E4%B8%89%E6%97%A5",
     "timestamp": "2026-11-20T17:45:44.610Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒冷天氣警告｜羊腩煲大賣　有餐廳傍晚宣布提早收工　外賣停三日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200590299080953856352971.jpeg/LQnE7ZNDSkwmRJjOlJk3inAHRrQkK8Y5CEzLxwhMy8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413324/%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A-%E7%BE%8A%E8%85%A9%E7%85%B2%E5%A4%A7%E8%B3%A3-%E6%9C%89%E9%A4%90%E5%BB%B3%E5%82%8D%E6%99%9A%E5%AE%A3%E5%B8%83%E6%8F%90%E6%97%A9%E6%94%B6%E5%B7%A5-%E5%A4%96%E8%B3%A3%E5%81%9C%E4%B8%89%E6%97%A5",
-    "timestamp": "2026-11-20T17:29:38.928Z",
     "strategy": ".content-card__main"
   }
 ];
