@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T14:59:02.739Z
+// Last updated: 2026-11-20T15:20:01.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寒冷天氣警告｜油麻地熟食市場火鍋香氣濃　內地客穿短袖凍到借衫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200569000468549632520316.jpeg/wxbu9z-uOOEpb8t6xRfpEtOC0mlzSTj0KHLdWw1y3Vs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413318/%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A-%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%86%9F%E9%A3%9F%E5%B8%82%E5%A0%B4%E7%81%AB%E9%8D%8B%E9%A6%99%E6%B0%A3%E6%BF%83-%E5%85%A7%E5%9C%B0%E5%AE%A2%E7%A9%BF%E7%9F%AD%E8%A2%96%E5%87%8D%E5%88%B0%E5%80%9F%E8%A1%AB",
+    "timestamp": "2026-11-20T15:20:01.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC深圳直擊・一片看清｜中美俄元首歷史性同框釋放什麼訊號？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200482944511119360163045.jpeg/EUi-PPnHInAHPW38uxIG9pP6R2_gfHMBxfyAz8X8gM8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60413187/ccl%E9%80%A3%E8%B7%8C6%E5%91%A8%E6%9C%80%E6%96%B0157-56%E9%BB%9E-%E6%A8%93%E5%83%B9%E5%8D%87%E5%B9%85%E6%94%B6%E7%AA%84%E8%87%B3%E4%B8%8D%E8%B6%B3%E4%B8%80%E6%88%90-%E6%96%99%E4%B8%8B%E8%A9%A6155%E9%BB%9E",
     "timestamp": "2026-11-20T08:23:58.161Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "綠茶真能消脂排油？實測3個月僅減0.2kg！權威醫學拆解真相",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200454812588576768174309.jpeg/0tI2jOLz2g1Trb0-Q8eiHy3RKJPZId87fnBlp35wZac?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%86%AB%E7%BE%8EEasy/60409714/%E7%B6%A0%E8%8C%B6%E7%9C%9F%E8%83%BD%E6%B6%88%E8%84%82%E6%8E%92%E6%B2%B9-%E5%AF%A6%E6%B8%AC3%E5%80%8B%E6%9C%88%E5%83%85%E6%B8%9B0-2kg-%E6%AC%8A%E5%A8%81%E9%86%AB%E5%AD%B8%E6%8B%86%E8%A7%A3%E7%9C%9F%E7%9B%B8",
-    "timestamp": "2026-11-20T07:45:09.166Z",
     "strategy": ".content-card__main"
   }
 ];
