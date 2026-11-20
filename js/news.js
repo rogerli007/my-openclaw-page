@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T15:45:31.475Z
+// Last updated: 2026-11-20T15:59:04.685Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "食環署精準打擊鼠患　全港揭282個鼠洞　文化中心檢獲逾百隻老鼠",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200564393755021312687143.png/TKjbUINFu1PUK5NoriBMqRiOCAl3bXXZ8_2vjfP9r40?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413315/%E9%A3%9F%E7%92%B0%E7%BD%B2%E7%B2%BE%E6%BA%96%E6%89%93%E6%93%8A%E9%BC%A0%E6%82%A3-%E5%85%A8%E6%B8%AF%E6%8F%AD282%E5%80%8B%E9%BC%A0%E6%B4%9E-%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83%E6%AA%A2%E7%8D%B2%E9%80%BE%E7%99%BE%E9%9A%BB%E8%80%81%E9%BC%A0",
+    "timestamp": "2026-11-20T15:59:04.685Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樂易玲慈善晚宴開金口唱《季候風》籌40萬　鄭衍峰李爾晨全程傍實",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260718/1155165396249219072675039.jpeg/pmKGGpACsB0du2ipp21pHaVvRH1WEUiTQ5mBxkOZgcY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413215/%E6%96%B0%E5%9C%B0%E5%A7%94%E4%BB%BB%E8%91%89%E5%8A%89%E6%B7%91%E5%84%80%E7%82%BA%E7%8D%A8%E7%AB%8B%E9%9D%9E%E5%9F%B7%E8%91%A3-%E5%B9%B4%E6%94%B630%E8%90%AC%E5%85%83%E8%91%A3%E4%BA%8B%E8%A2%8D%E9%87%91",
     "timestamp": "2026-11-20T08:59:13.169Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蔡天鳳｜庭上俚語考起傳譯員　臨老入花叢、M底、弱雞點翻譯？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250606/1007662410753904640263709.jpeg/Ma2DA8vDz1Ae8R-PbI4dszsseHVUCWJ7M6whOjOsITo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413158/%E8%94%A1%E5%A4%A9%E9%B3%B3-%E5%BA%AD%E4%B8%8A%E4%BF%9A%E8%AA%9E%E8%80%83%E8%B5%B7%E5%82%B3%E8%AD%AF%E5%93%A1-%E8%87%A8%E8%80%81%E5%85%A5%E8%8A%B1%E5%8F%A2-m%E5%BA%95-%E5%BC%B1%E9%9B%9E%E9%BB%9E%E7%BF%BB%E8%AD%AF",
-    "timestamp": "2026-11-20T08:36:31.651Z",
     "strategy": ".content-card__main"
   }
 ];
