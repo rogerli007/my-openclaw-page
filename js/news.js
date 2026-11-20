@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T20:59:09.576Z
+// Last updated: 2026-11-20T21:19:00.799Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李強晤澳洲總理阿爾巴尼斯　指願同澳方推動AI等新興領域合作亮點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200664490316664832315429.png/8K_No18pfG6hCNCPG3p4_42xAydMSpbGRcz4UUXM-FE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413340/%E6%9D%8E%E5%BC%B7%E6%99%A4%E6%BE%B3%E6%B4%B2%E7%B8%BD%E7%90%86%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E6%96%AF-%E6%8C%87%E9%A1%98%E5%90%8C%E6%BE%B3%E6%96%B9%E6%8E%A8%E5%8B%95ai%E7%AD%89%E6%96%B0%E8%88%88%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E4%BA%AE%E9%BB%9E",
+    "timestamp": "2026-11-20T21:19:00.799Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李強晤澳洲總理阿爾巴尼斯　指願同澳方推動AI等新興領域合作亮點",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200514869875445760806142.jpeg/kTEFmRNDkjbs9Y1MwmF0X85aTMV_0RXdbYBVwm2AVcI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413156/apec%E6%B7%B1%E5%9C%B3%E7%9B%B4%E6%93%8A-%E4%B8%80%E7%89%87%E7%9C%8B%E6%B8%85-%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E6%AD%B7%E5%8F%B2%E6%80%A7%E5%90%8C%E6%A1%86%E9%87%8B%E6%94%BE%E4%BB%80%E9%BA%BC%E8%A8%8A%E8%99%9F",
     "timestamp": "2026-11-20T14:59:02.739Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "許志安與馬國明同場不尷尬　呼籲向前看：以前錯過痛過沉澱過改過",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200493404136411136412563.jpeg/xcUim_8zXE9CBY4vTQvdlaxkt2Md_75ec0ZwO3NGcDs",
-    "url": "https://www.hk01.com/01TV/60413219/%E8%A8%B1%E5%BF%97%E5%AE%89%E8%88%87%E9%A6%AC%E5%9C%8B%E6%98%8E%E5%90%8C%E5%A0%B4%E4%B8%8D%E5%B0%B7%E5%B0%AC-%E5%91%BC%E7%B1%B2%E5%90%91%E5%89%8D%E7%9C%8B-%E4%BB%A5%E5%89%8D%E9%8C%AF%E9%81%8E%E7%97%9B%E9%81%8E%E6%B2%89%E6%BE%B1%E9%81%8E%E6%94%B9%E9%81%8E",
-    "timestamp": "2026-11-20T14:45:46.769Z",
     "strategy": ".content-card__main"
   }
 ];
