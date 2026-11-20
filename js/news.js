@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T10:20:12.398Z
+// Last updated: 2026-11-20T10:45:43.919Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "樂富唐樓梯間藏毒斷正　警搜屋共檢$47.8萬貨　29歲男控兩販毒罪",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200518032745566208845096.png/n_fGMy-0T4QsV6gbynDXYNB699gtmm6d9jbDivY2w4o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413271/%E6%A8%82%E5%AF%8C%E5%94%90%E6%A8%93%E6%A2%AF%E9%96%93%E8%97%8F%E6%AF%92%E6%96%B7%E6%AD%A3-%E8%AD%A6%E6%90%9C%E5%B1%8B%E5%85%B1%E6%AA%A2-47-8%E8%90%AC%E8%B2%A8-29%E6%AD%B2%E7%94%B7%E6%8E%A7%E5%85%A9%E8%B2%A9%E6%AF%92%E7%BD%AA",
+    "timestamp": "2026-11-20T10:45:43.919Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃澤林攜新歡赴名門飯局　譚旻萱生日晒英文被起底學歷嘲：好Kam",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200262733660950528851079.jpeg/-D6B-tsslP3Ap6C6WzBgXmQ1M2Zw5O3ekVkQOJFZEDg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60412932/%E5%8F%B0%E5%AA%BD%E6%94%9C%E6%84%9F%E6%9F%93%E8%AB%BE%E5%A6%82%E7%97%85%E6%AF%92%E5%A5%B3%E5%85%92%E8%A8%AA%E6%97%A5-%E7%B6%B2%E6%B0%91%E6%89%B9%E8%A1%8C%E7%82%BA%E8%87%AA%E7%A7%81-%E9%99%846%E5%A4%A7%E7%97%87%E7%8B%80%E5%8F%8A%E9%A0%90%E9%98%B26%E6%8B%9B",
     "timestamp": "2026-11-20T03:59:14.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "第三屆DALA Awards：聚焦數據素養與負責任人工智能",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199405086833381376657902.jpeg/vQEEmw1kvb_8pWLnxvHZv8eb1T-ZIR-REB9K2RAfStk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60411854/%E7%AC%AC%E4%B8%89%E5%B1%86dala-awards-%E8%81%9A%E7%84%A6%E6%95%B8%E6%93%9A%E7%B4%A0%E9%A4%8A%E8%88%87%E8%B2%A0%E8%B2%AC%E4%BB%BB%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
-    "timestamp": "2026-11-20T03:45:27.260Z",
     "strategy": ".content-card__main"
   }
 ];
