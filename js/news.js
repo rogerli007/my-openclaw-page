@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T09:20:07.322Z
+// Last updated: 2026-11-21T09:45:23.329Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周潤發睇BIGBANG獲GD點名致謝　爆無得揸機自拍：我自己機都唔得",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200864978068836352079254.jpeg/zA6OqPkLREUXnCu-LhD5DVt77VFUJXI7w8_-ucPP_rk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413473/%E5%91%A8%E6%BD%A4%E7%99%BC%E7%9D%87bigbang%E7%8D%B2gd%E9%BB%9E%E5%90%8D%E8%87%B4%E8%AC%9D-%E7%88%86%E7%84%A1%E5%BE%97%E6%8F%B8%E6%A9%9F%E8%87%AA%E6%8B%8D-%E6%88%91%E8%87%AA%E5%B7%B1%E6%A9%9F%E9%83%BD%E5%94%94%E5%BE%97",
+    "timestamp": "2026-11-21T09:45:23.329Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "新型詐騙｜廣州女誤信｢訂婚請喝奶茶｣帖文　1小時被騙逾1.4萬元",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200107348371181568986145.png/3E5Os9Ot6jYFvXnTMoWkFJIWLqpWCAT-vQtiSL0LYkg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412583/%E6%98%93%E7%83%8A%E5%8D%83%E7%92%BD6%E5%A4%A7%E5%8F%8D%E5%B7%AE%E8%90%8C-%E9%8D%BE%E6%83%85%E7%B2%89%E8%89%B2%E6%84%9B%E7%8E%A9%E6%A0%B8%E6%A1%83-%E6%9B%BE%E5%85%BC%E8%81%B7%E9%80%81%E5%A4%96%E8%B3%A3%E6%8E%A56%E5%96%AE%E5%85%A8%E8%B6%85%E6%99%82",
     "timestamp": "2026-11-21T02:35:27.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東華三院周演森小學呈分試疑通水　校方指各班溫習差異　毋須重考",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200082026821062656814793.jpeg/3qvGgQ49FYYSr2-xW2etskz40f5kC0Hk8Gd9O_BnfTs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412606/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E5%91%A8%E6%BC%94%E6%A3%AE%E5%B0%8F%E5%AD%B8%E5%91%88%E5%88%86%E8%A9%A6%E7%96%91%E9%80%9A%E6%B0%B4-%E6%A0%A1%E6%96%B9%E6%8C%87%E5%90%84%E7%8F%AD%E6%BA%AB%E7%BF%92%E5%B7%AE%E7%95%B0-%E6%AF%8B%E9%A0%88%E9%87%8D%E8%80%83",
-    "timestamp": "2026-11-21T02:23:33.538Z",
     "strategy": ".content-card__main"
   }
 ];
