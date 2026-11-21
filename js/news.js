@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T15:18:42.209Z
+// Last updated: 2026-11-21T15:29:29.235Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣工廈20歲男暈倒　當場不治",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200949590690369536485603.jpeg/Xt3vAUs5lJgYZEMU2fR5LQ_8_wct1iwSqJ6yOaiesjk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413543/%E8%8D%83%E7%81%A3%E5%B7%A5%E5%BB%8820%E6%AD%B2%E7%94%B7%E6%9A%88%E5%80%92-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
+    "timestamp": "2026-11-21T15:29:29.235Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內地女快餐店內低頭玩手機　遭陌生男「加冰可樂」砸臉：無冤無仇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200840302848380928103947.png/T-pN7Td428VxVjdSlfes8YIorcoHlfp-VXElFVVxJRU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413424/%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E6%88%90%E6%AF%85%E6%B3%A5%E6%BC%BF%E9%80%A3%E6%BB%BE17%E6%AC%A1%E7%81%BC%E5%82%B7%E7%9C%BC-%E6%B0%B4%E7%89%A2%E9%96%89%E6%B0%A3%E6%B5%81%E9%BC%BB%E8%A1%80%E7%8D%B2%E8%AE%9A%E6%88%B2%E7%98%8B%E5%AD%90",
     "timestamp": "2026-11-21T10:19:12.360Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜消防處檢控中華發展董事　涉虛假文書　明年1月提堂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200815861124829184374908.jpeg/97nUTPchQomciHqGjHtAI2-lX6FUSk4ow-VbnOblW5w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413416/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E9%98%B2%E8%99%95%E6%AA%A2%E6%8E%A7%E4%B8%AD%E8%8F%AF%E7%99%BC%E5%B1%95%E8%91%A3%E4%BA%8B-%E6%B6%89%E8%99%9B%E5%81%87%E6%96%87%E6%9B%B8-%E6%98%8E%E5%B9%B41%E6%9C%88%E6%8F%90%E5%A0%82",
-    "timestamp": "2026-11-21T09:59:02.681Z",
     "strategy": ".content-card__main"
   }
 ];
