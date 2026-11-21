@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T22:29:41.808Z
+// Last updated: 2026-11-21T22:45:12.447Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「羞花」楊玉環從道士到貴妃　馬嵬坡為何成絕路？｜四大美人之四",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200886730681487360279635.png/gtDNIWU_2o5QaDToz2VqMJ4hz2n35zgESNaJj0jWiY8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411583/%E7%BE%9E%E8%8A%B1-%E6%A5%8A%E7%8E%89%E7%92%B0%E5%BE%9E%E9%81%93%E5%A3%AB%E5%88%B0%E8%B2%B4%E5%A6%83-%E9%A6%AC%E5%B5%AC%E5%9D%A1%E7%82%BA%E4%BD%95%E6%88%90%E7%B5%95%E8%B7%AF-%E5%9B%9B%E5%A4%A7%E7%BE%8E%E4%BA%BA%E4%B9%8B%E5%9B%9B",
+    "timestamp": "2026-11-21T22:45:12.447Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「羞花」楊玉環從道士到貴妃　馬嵬坡為何成絕路？｜四大美人之四",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1200968382275391488549126.jpeg/pRGOcj2BzKxpzIMMc_hQrVYms-psjgRoi3PF7otzxe4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413548/%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%BB%8D%E6%96%B9%E9%80%AE%E6%8D%95%E5%A4%A7%E6%AF%92%E6%A2%9Fel-chapo-isidro-fbi%E5%88%97%E5%85%B6%E7%82%BA%E5%8D%81%E5%A4%A7%E9%80%9A%E7%B7%9D%E7%8A%AF%E4%B9%8B%E4%B8%80",
     "timestamp": "2026-11-21T16:45:06.219Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026電動車能耗排行！屋企無叉電位點揀好？平治、Tesla各有千秋",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200514225106063360258013.jpeg/Uig5adU2QFywPpmLC5JeWj0WqG--SuyN-rCz8vqws_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60413232/2026%E9%9B%BB%E5%8B%95%E8%BB%8A%E8%83%BD%E8%80%97%E6%8E%92%E8%A1%8C-%E5%B1%8B%E4%BC%81%E7%84%A1%E5%8F%89%E9%9B%BB%E4%BD%8D%E9%BB%9E%E6%8F%80%E5%A5%BD-%E5%B9%B3%E6%B2%BB-tesla%E5%90%84%E6%9C%89%E5%8D%83%E7%A7%8B",
-    "timestamp": "2026-11-21T16:19:50.180Z",
     "strategy": ".content-card__main"
   }
 ];
