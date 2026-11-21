@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T02:23:33.538Z
+// Last updated: 2026-11-21T02:35:27.787Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "易烊千璽6大反差萌！鍾情粉色愛玩核桃　曾兼職送外賣接6單全超時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200107348371181568986145.png/3E5Os9Ot6jYFvXnTMoWkFJIWLqpWCAT-vQtiSL0LYkg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412583/%E6%98%93%E7%83%8A%E5%8D%83%E7%92%BD6%E5%A4%A7%E5%8F%8D%E5%B7%AE%E8%90%8C-%E9%8D%BE%E6%83%85%E7%B2%89%E8%89%B2%E6%84%9B%E7%8E%A9%E6%A0%B8%E6%A1%83-%E6%9B%BE%E5%85%BC%E8%81%B7%E9%80%81%E5%A4%96%E8%B3%A3%E6%8E%A56%E5%96%AE%E5%85%A8%E8%B6%85%E6%99%82",
+    "timestamp": "2026-11-21T02:35:27.787Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東華三院周演森小學呈分試疑通水　校方指各班溫習差異　毋須重考",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200092780735500288395864.jpeg/ZqT7VP6YTj5-FvQkqPyoxsi6jc1jChzoZteCCWbXggk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413338/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E6%99%AE%E4%BA%AC%E6%98%8E%E7%A2%BA%E8%A1%A8%E9%81%94%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E6%84%8F%E9%A1%98-%E6%9C%AA%E9%81%94%E5%8D%94%E8%AD%B0%E5%89%8D%E4%B8%8D%E8%AB%87%E7%83%8F%E5%AE%89%E5%85%A8%E4%BF%9D%E8%AD%89",
     "timestamp": "2026-11-20T19:59:05.826Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普指普京明確表達結束戰爭意願　未達協議前不談烏安全保證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200092780735500288395864.jpeg/ZqT7VP6YTj5-FvQkqPyoxsi6jc1jChzoZteCCWbXggk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413338/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E6%99%AE%E4%BA%AC%E6%98%8E%E7%A2%BA%E8%A1%A8%E9%81%94%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E6%84%8F%E9%A1%98-%E6%9C%AA%E9%81%94%E5%8D%94%E8%AD%B0%E5%89%8D%E4%B8%8D%E8%AB%87%E7%83%8F%E5%AE%89%E5%85%A8%E4%BF%9D%E8%AD%89",
-    "timestamp": "2026-11-20T19:45:10.319Z",
     "strategy": ".content-card__main"
   }
 ];
