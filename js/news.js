@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T15:44:58.153Z
+// Last updated: 2026-11-21T15:59:06.589Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葵涌道葵芳廣場外九巴疑車轆起火冒煙　乘客：差啲以為自己會燒死",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200935564480614400057892.jpeg/4c3RgMd0QlvPdSzmLJlhRNdmxcqDUcELBx14LQcdeC0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413541/%E8%91%B5%E6%B6%8C%E9%81%93%E8%91%B5%E8%8A%B3%E5%BB%A3%E5%A0%B4%E5%A4%96%E4%B9%9D%E5%B7%B4%E7%96%91%E8%BB%8A%E8%BD%86%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E4%B9%98%E5%AE%A2-%E5%B7%AE%E5%95%B2%E4%BB%A5%E7%82%BA%E8%87%AA%E5%B7%B1%E6%9C%83%E7%87%92%E6%AD%BB",
+    "timestamp": "2026-11-21T15:59:06.589Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台慶中年好聲音致敬韓國經典舞步  韓國網民讚小舞蹈員勁爆睇上癮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220311/579001302554906624402958.jpeg/A-qPEF-rJ5ver4zT9yVcnuXD8tceRXBe8NzHfOrcx3w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413505/%E9%A0%86%E8%B1%90%E9%80%9F%E9%81%8B%E8%A2%AB%E6%8C%87%E6%B6%89%E9%81%95%E8%A6%8F-%E8%BB%8D%E6%96%B9-%E6%9A%AB%E5%81%9C%E5%8F%83%E5%8A%A0%E5%85%A8%E8%BB%8D%E7%89%A9%E8%B3%87%E5%B7%A5%E7%A8%8B%E5%92%8C%E6%9C%8D%E5%8B%99%E6%8E%A1%E8%B3%BC%E6%B4%BB%E5%8B%95",
     "timestamp": "2026-11-21T10:45:19.854Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩京十五日｜成毅泥漿連滾17次灼傷眼　水牢閉氣流鼻血獲讚戲瘋子",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200840302848380928103947.png/T-pN7Td428VxVjdSlfes8YIorcoHlfp-VXElFVVxJRU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413424/%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E6%88%90%E6%AF%85%E6%B3%A5%E6%BC%BF%E9%80%A3%E6%BB%BE17%E6%AC%A1%E7%81%BC%E5%82%B7%E7%9C%BC-%E6%B0%B4%E7%89%A2%E9%96%89%E6%B0%A3%E6%B5%81%E9%BC%BB%E8%A1%80%E7%8D%B2%E8%AE%9A%E6%88%B2%E7%98%8B%E5%AD%90",
-    "timestamp": "2026-11-21T10:29:50.855Z",
     "strategy": ".content-card__main"
   }
 ];
