@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T17:45:03.841Z
+// Last updated: 2026-11-21T17:59:13.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱尋求與伊朗達成「永久性」協議　指從未在意對方政權更迭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200749872957886464731946.jpeg/vIgs7YWjkolAPFkVZLj3B0hLoEA9uUfvtlZPoLZWT6A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413549/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%8B%E6%B1%82%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90-%E6%B0%B8%E4%B9%85%E6%80%A7-%E5%8D%94%E8%AD%B0-%E6%8C%87%E5%BE%9E%E6%9C%AA%E5%9C%A8%E6%84%8F%E5%B0%8D%E6%96%B9%E6%94%BF%E6%AC%8A%E6%9B%B4%E8%BF%AD",
+    "timestamp": "2026-11-21T17:59:13.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀談錯失百萬獎金：因父親反對而放棄參選亞姐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200902450635083776235916.jpeg/qkS-zglkrphavy7IqSIXrHzetoj4zS4XfPlQ0Hz5UNA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413521/%E5%BE%B7%E7%94%B2-%E5%8D%A1%E5%B0%BC%E9%87%8D%E5%89%B5%E5%BE%8C%E6%89%8B%E8%A1%93%E6%88%90%E5%8A%9F%E6%96%99%E7%BC%BA%E9%99%A33%E5%80%8B%E6%9C%88-%E6%8B%9C%E4%BB%81%E9%AC%A5%E8%AD%B7%E7%B4%9A%E9%9A%8A%E5%A4%B1%E5%88%86%E5%85%BC%E6%8A%98%E5%85%B5",
     "timestamp": "2026-11-21T12:23:57.067Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳廣場餐廳垃圾桶墮樓險砸途人　職員報案　警考慮票控｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200203250637213696084275.png/ptOM4hizdPHcZCbDdNLbXb3KpgwXNiNredntWXnZ7Vk",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413518/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4%E9%A4%90%E5%BB%B3%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%A2%AE%E6%A8%93%E9%9A%AA%E7%A0%B8%E9%80%94%E4%BA%BA-%E8%81%B7%E5%93%A1%E5%A0%B1%E6%A1%88-%E8%AD%A6%E8%80%83%E6%85%AE%E7%A5%A8%E6%8E%A7-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-21T11:59:07.831Z",
     "strategy": ".content-card__main"
   }
 ];
