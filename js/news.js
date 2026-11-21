@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T05:45:31.628Z
+// Last updated: 2026-11-21T06:59:12.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金價跳水民眾瘋買　深圳水貝排單到3天後　商戶慘蝕4萬嘆摸不準底",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200818773615972352481092.jpeg/1Ba0KcjN2y4NORo-OmLJVR84jpoBiWGOT1m91k9ZvdY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413413/%E9%87%91%E5%83%B9%E8%B7%B3%E6%B0%B4%E6%B0%91%E7%9C%BE%E7%98%8B%E8%B2%B7-%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B2%9D%E6%8E%92%E5%96%AE%E5%88%B03%E5%A4%A9%E5%BE%8C-%E5%95%86%E6%88%B6%E6%85%98%E8%9D%954%E8%90%AC%E5%98%86%E6%91%B8%E4%B8%8D%E6%BA%96%E5%BA%95",
+    "timestamp": "2026-11-21T06:59:12.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《賭聖》原定李力持執導但嫌片酬少　劉鎮偉︰佢係堅持多嗰少到……",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200167848903708672914582.jpeg/3neEBoxj-G9XCcYaJZLIzmpKJunOJnqTQKtWtkCrVrY",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412850/%E8%80%81%E5%A9%A6%E7%A9%BF-16%E9%9E%8B%E5%88%B0%E9%8A%80%E8%A1%8C%E8%BD%89%E8%B3%AC%E5%8D%83%E8%90%AC-%E8%81%B7%E5%93%A1%E6%86%82%E5%8F%97%E9%A8%99%E5%A0%B1%E8%AD%A6-%E6%8F%AD%E9%A9%9A%E4%BA%BA%E8%BA%AB%E4%BB%BD%E7%8B%82%E8%87%B4%E6%95%AC",
     "timestamp": "2026-11-20T23:18:56.463Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒警生效期間　荃灣住宅暖爐焫被鋪起火　鄰居逃生遭受驚家貓抓傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200698999883960320657841.jpeg/6BSqa3T3aZIzHJukKdkyNJ2_Ybz84-UM5REHgt8RB4I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413341/%E5%AF%92%E8%AD%A6%E7%94%9F%E6%95%88%E6%9C%9F%E9%96%93-%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E6%9A%96%E7%88%90%E7%84%AB%E8%A2%AB%E9%8B%AA%E8%B5%B7%E7%81%AB-%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E9%81%AD%E5%8F%97%E9%A9%9A%E5%AE%B6%E8%B2%93%E6%8A%93%E5%82%B7",
-    "timestamp": "2026-11-20T22:59:02.876Z",
     "strategy": ".content-card__main"
   }
 ];
