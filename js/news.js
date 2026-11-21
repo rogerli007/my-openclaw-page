@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T00:36:32.257Z
+// Last updated: 2026-11-21T00:57:02.812Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秘魯中部6.7級地震　首都利馬有明顯震感",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170001880227516416893710.jpeg/buxAe6Q-JPg3OPYkbO4wsxkG4it1FlWlBnUJywZ1Ccs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413353/%E7%A7%98%E9%AD%AF%E4%B8%AD%E9%83%A86-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E9%A6%96%E9%83%BD%E5%88%A9%E9%A6%AC%E6%9C%89%E6%98%8E%E9%A1%AF%E9%9C%87%E6%84%9F",
+    "timestamp": "2026-11-21T00:57:02.812Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張與辰自揭20年血淚史　曾在學校遭嚴重欺凌遭詐騙戶口剩$100",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200633165870272512129856.jpeg/CJfDCqUPkBcQRt-SsbZMfwyORY3yQ5KNpwLq96cC6vc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413336/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%81%E6%A5%AD%E6%B5%B7%E5%A4%96%E5%BB%BA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%B0%87%E8%A2%AB%E5%BE%B5%E5%B7%A8%E9%A1%8D%E7%A8%85-%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E8%A8%ADai%E9%98%B2%E8%AD%B7%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-11-20T18:45:46.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：企業海外建數據中心將被徵巨額稅　中美同意設AI防護機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200633165870272512129856.jpeg/CJfDCqUPkBcQRt-SsbZMfwyORY3yQ5KNpwLq96cC6vc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413336/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%81%E6%A5%AD%E6%B5%B7%E5%A4%96%E5%BB%BA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%B0%87%E8%A2%AB%E5%BE%B5%E5%B7%A8%E9%A1%8D%E7%A8%85-%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E8%A8%ADai%E9%98%B2%E8%AD%B7%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-11-20T18:34:22.962Z",
     "strategy": ".content-card__main"
   }
 ];
