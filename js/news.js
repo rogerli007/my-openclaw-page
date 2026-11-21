@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-20T23:59:01.685Z
+// Last updated: 2026-11-21T00:36:32.257Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張與辰自揭20年血淚史　曾在學校遭嚴重欺凌遭詐騙戶口剩$100",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200568108679434240316940.jpeg/8FLx6Wcqh7xK6qGkU-UKBwBOVbaDcP74K3MD9StzA_U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412275/%E5%BC%B5%E8%88%87%E8%BE%B0%E8%87%AA%E6%8F%AD20%E5%B9%B4%E8%A1%80%E6%B7%9A%E5%8F%B2-%E6%9B%BE%E5%9C%A8%E5%AD%B8%E6%A0%A1%E9%81%AD%E5%9A%B4%E9%87%8D%E6%AC%BA%E5%87%8C%E9%81%AD%E8%A9%90%E9%A8%99%E6%88%B6%E5%8F%A3%E5%89%A9-100",
+    "timestamp": "2026-11-21T00:36:32.257Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "脂肪肝血脂高｜微糖手搖飲加飯後果盤成元兇　權威機構教控血脂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200633165870272512129856.jpeg/CJfDCqUPkBcQRt-SsbZMfwyORY3yQ5KNpwLq96cC6vc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413336/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%81%E6%A5%AD%E6%B5%B7%E5%A4%96%E5%BB%BA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%B0%87%E8%A2%AB%E5%BE%B5%E5%B7%A8%E9%A1%8D%E7%A8%85-%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E8%A8%ADai%E9%98%B2%E8%AD%B7%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-11-20T18:34:22.962Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寒冷天氣警告｜羊腩煲大賣　有餐廳傍晚宣布提早收工　外賣停三日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200590299080953856352971.jpeg/LQnE7ZNDSkwmRJjOlJk3inAHRrQkK8Y5CEzLxwhMy8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413324/%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A-%E7%BE%8A%E8%85%A9%E7%85%B2%E5%A4%A7%E8%B3%A3-%E6%9C%89%E9%A4%90%E5%BB%B3%E5%82%8D%E6%99%9A%E5%AE%A3%E5%B8%83%E6%8F%90%E6%97%A9%E6%94%B6%E5%B7%A5-%E5%A4%96%E8%B3%A3%E5%81%9C%E4%B8%89%E6%97%A5",
-    "timestamp": "2026-11-20T17:59:00.745Z",
     "strategy": ".content-card__main"
   }
 ];
