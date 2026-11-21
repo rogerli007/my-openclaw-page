@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T16:45:06.219Z
+// Last updated: 2026-11-21T17:18:02.475Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀談錯失百萬獎金：因父親反對而放棄參選亞姐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200478881392365568451098.jpeg/pBadLFTLC6Z9MWh9vkNXaGKnCGBhVfjzoWHWBqFh1gY",
+    "url": "https://www.hk01.com/01TV/60413183/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AB%87%E9%8C%AF%E5%A4%B1%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E5%9B%A0%E7%88%B6%E8%A6%AA%E5%8F%8D%E5%B0%8D%E8%80%8C%E6%94%BE%E6%A3%84%E5%8F%83%E9%81%B8%E4%BA%9E%E5%A7%90",
+    "timestamp": "2026-11-21T17:18:02.475Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "墨西哥軍方逮捕大毒梟El Chapo Isidro　FBI列其為十大通緝犯之一",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200882955908550656982736.jpeg/CmBx26Y_M9qWf_fCSl4_T4SXAvWoYra-VDOvwlQzr8I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60413506/%E5%8A%89%E5%BE%B7%E8%8F%AF-%E6%88%91%E5%B9%B4%E8%BC%95%E9%81%8E-youtube%E4%B8%8A%E6%9E%B67%E6%97%A5-%E9%BB%9E%E6%93%8A%E9%81%8E100%E8%90%AC%E7%A0%B4%E5%80%8B%E4%BA%BA%E6%9C%80%E5%BF%AB%E7%B4%80%E9%8C%84",
     "timestamp": "2026-11-21T11:29:32.464Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周潤發首戰毅行者逾6小時完走20公里　「辛苦到不得了」｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200859437691047936816750.jpeg/e0r5dgg1oQaZpjGoAs7EFMFIDJBAtu9cG-MHqBvjB6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413435/%E5%91%A8%E6%BD%A4%E7%99%BC%E9%A6%96%E6%88%B0%E6%AF%85%E8%A1%8C%E8%80%85%E9%80%BE6%E5%B0%8F%E6%99%82%E5%AE%8C%E8%B5%B020%E5%85%AC%E9%87%8C-%E8%BE%9B%E8%8B%A6%E5%88%B0%E4%B8%8D%E5%BE%97%E4%BA%86-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-21T11:18:38.501Z",
     "strategy": ".content-card__main"
   }
 ];
