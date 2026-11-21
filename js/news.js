@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T13:45:01.413Z
+// Last updated: 2026-11-21T13:59:05.227Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "環球資產拋售潮　股市以外金銅價也暴跌　加密貨幣29萬人「爆倉」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5e598d576f91ff14194bf003.jpg/sGgyWZb_q-xai9ZoGdehXPIPWpE3q5NFigpdYIoKXWA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413528/%E7%92%B0%E7%90%83%E8%B3%87%E7%94%A2%E6%8B%8B%E5%94%AE%E6%BD%AE-%E8%82%A1%E5%B8%82%E4%BB%A5%E5%A4%96%E9%87%91%E9%8A%85%E5%83%B9%E4%B9%9F%E6%9A%B4%E8%B7%8C-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A329%E8%90%AC%E4%BA%BA-%E7%88%86%E5%80%89",
+    "timestamp": "2026-11-21T13:59:05.227Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王菲攜竇靖童李嫣唱《愛笑的天使》　聲線太似網民驚嘆：三個王菲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200845930341863424263754.jpeg/AVI4WPgG-7t6HbGTOI8Gy5DME-Al0qcjsxnupLMZ7qQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413447/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89%E6%98%8E%E6%97%A5%E8%88%89%E8%A1%8C-31%E7%B5%84%E5%88%A5856%E4%BA%BA%E7%88%AD723%E5%B8%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%A6%96%E5%AF%9F%E7%A5%A8%E7%AB%99%E6%89%93%E6%B0%A3",
     "timestamp": "2026-11-21T08:33:05.824Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李子柒當選四川省文聯副主席　親揭近況：在拍紀錄片和陪奶奶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200833194295824384681345.jpeg/zOp-WuNNCbr8Irl88ZEv8mWD_ma3oPMPoABpdqAAaXY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413433/%E6%9D%8E%E5%AD%90%E6%9F%92%E7%95%B6%E9%81%B8%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%96%87%E8%81%AF%E5%89%AF%E4%B8%BB%E5%B8%AD-%E8%A6%AA%E6%8F%AD%E8%BF%91%E6%B3%81-%E5%9C%A8%E6%8B%8D%E7%B4%80%E9%8C%84%E7%89%87%E5%92%8C%E9%99%AA%E5%A5%B6%E5%A5%B6",
-    "timestamp": "2026-11-21T08:22:05.848Z",
     "strategy": ".content-card__main"
   }
 ];
