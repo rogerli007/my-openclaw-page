@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T10:29:50.855Z
+// Last updated: 2026-11-21T10:45:19.854Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "順豐速運被指涉違規　軍方：暫停參加全軍物資工程和服務採購活動",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220311/579001302554906624402958.jpeg/A-qPEF-rJ5ver4zT9yVcnuXD8tceRXBe8NzHfOrcx3w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413505/%E9%A0%86%E8%B1%90%E9%80%9F%E9%81%8B%E8%A2%AB%E6%8C%87%E6%B6%89%E9%81%95%E8%A6%8F-%E8%BB%8D%E6%96%B9-%E6%9A%AB%E5%81%9C%E5%8F%83%E5%8A%A0%E5%85%A8%E8%BB%8D%E7%89%A9%E8%B3%87%E5%B7%A5%E7%A8%8B%E5%92%8C%E6%9C%8D%E5%8B%99%E6%8E%A1%E8%B3%BC%E6%B4%BB%E5%8B%95",
+    "timestamp": "2026-11-21T10:45:19.854Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩京十五日｜成毅泥漿連滾17次灼傷眼　水牢閉氣流鼻血獲讚戲瘋子",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200766029949702144532710.png/vdsi6zwCkZSW1gqhijTEzknjDMbOcaFrmctOuZnLTrk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413382/%E4%BF%84%E8%BB%8D%E5%B0%8E%E5%BD%88%E5%A2%9C%E5%85%A5%E6%B3%A2%E8%98%AD-%E8%B7%9D%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E8%BB%8D%E6%BC%94%E5%83%8550%E5%85%AC%E9%87%8C-%E8%8F%AF%E6%B2%99%E6%96%A5%E8%93%84%E6%84%8F%E6%8C%91%E9%87%81",
     "timestamp": "2026-11-21T03:45:29.990Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳獲特朗普力挺回巢Nvidia　《紐約時報》再羅列18宗罪追擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197975815686459392953406.jpeg/a7WPK9iRLvDxj-tMUBRHU0MWK-0C3ivvzIkY-syJGPo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60413359/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%8D%B2%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8C%BA%E5%9B%9E%E5%B7%A2nvidia-%E7%B4%90%E7%B4%84%E6%99%82%E5%A0%B1-%E5%86%8D%E7%BE%85%E5%88%9718%E5%AE%97%E7%BD%AA%E8%BF%BD%E6%93%8A",
-    "timestamp": "2026-11-21T03:27:37.839Z",
     "strategy": ".content-card__main"
   }
 ];
