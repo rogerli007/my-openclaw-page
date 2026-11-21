@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T13:18:55.611Z
+// Last updated: 2026-11-21T13:29:46.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方力申渡海｜體育學者分析︰消耗如跑兩次馬拉松　兩原因順利挑戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200784524015833088125864.jpeg/LAuKvMcTvvLW0dw44XslRHHS_p_M4PmggzHzI4Mx8yM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413468/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%A1%E6%B5%B7-%E9%AB%94%E8%82%B2%E5%AD%B8%E8%80%85%E5%88%86%E6%9E%90-%E6%B6%88%E8%80%97%E5%A6%82%E8%B7%91%E5%85%A9%E6%AC%A1%E9%A6%AC%E6%8B%89%E6%9D%BE-%E5%85%A9%E5%8E%9F%E5%9B%A0%E9%A0%86%E5%88%A9%E6%8C%91%E6%88%B0",
+    "timestamp": "2026-11-21T13:29:46.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方力申渡海｜體育學者分析︰消耗如跑兩次馬拉松　兩原因順利挑戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200834672028815360580436.jpeg/_Xw-UKTBUvSlrSL9--hunQryOL-Ic2EQZ_dJIGf3SSA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413428/%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E8%88%9E%E8%B9%88%E5%9C%98%E6%9D%B1%E4%BA%AC%E7%A5%9E%E7%A4%BE%E6%8B%8D%E8%B7%B3%E8%88%9E%E7%89%87%E6%8D%B1%E8%BD%9F-%E9%A7%90%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A4%A8%E6%80%A5%E8%87%B4%E6%AD%89-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-21T07:59:10.418Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "毅行者2026｜周潤發偕跑友逾6小時走完20公里　「辛苦到不得了」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200833591169257472089314.jpeg/9Ft0aREiQ3Mgx0rxrmGJSUjKAH17Mnw-TM0S90zNEvc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413435/%E6%AF%85%E8%A1%8C%E8%80%852026-%E5%91%A8%E6%BD%A4%E7%99%BC%E5%81%95%E8%B7%91%E5%8F%8B%E9%80%BE6%E5%B0%8F%E6%99%82%E8%B5%B0%E5%AE%8C20%E5%85%AC%E9%87%8C-%E8%BE%9B%E8%8B%A6%E5%88%B0%E4%B8%8D%E5%BE%97%E4%BA%86",
-    "timestamp": "2026-11-21T07:45:16.738Z",
     "strategy": ".content-card__main"
   }
 ];
