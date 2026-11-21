@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T05:19:58.093Z
+// Last updated: 2026-11-21T05:45:31.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《賭聖》原定李力持執導但嫌片酬少　劉鎮偉︰佢係堅持多嗰少到……",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200778718444785664975328.jpeg/G4D7job2Bwe_03cR09vD0xQPVr0byfp9TpoZHU6aGR0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413380/%E8%B3%AD%E8%81%96-%E5%8E%9F%E5%AE%9A%E6%9D%8E%E5%8A%9B%E6%8C%81%E5%9F%B7%E5%B0%8E%E4%BD%86%E5%AB%8C%E7%89%87%E9%85%AC%E5%B0%91-%E5%8A%89%E9%8E%AE%E5%81%89-%E4%BD%A2%E4%BF%82%E5%A0%85%E6%8C%81%E5%A4%9A%E5%97%B0%E5%B0%91%E5%88%B0",
+    "timestamp": "2026-11-21T05:45:31.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本最勤力除草員胃口太好　JR東特聘山羊食曬雜草提前退休｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200698999883960320657841.jpeg/6BSqa3T3aZIzHJukKdkyNJ2_Ybz84-UM5REHgt8RB4I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413341/%E5%AF%92%E8%AD%A6%E7%94%9F%E6%95%88%E6%9C%9F%E9%96%93-%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E6%9A%96%E7%88%90%E7%84%AB%E8%A2%AB%E9%8B%AA%E8%B5%B7%E7%81%AB-%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E9%81%AD%E5%8F%97%E9%A9%9A%E5%AE%B6%E8%B2%93%E6%8A%93%E5%82%B7",
     "timestamp": "2026-11-20T22:59:02.876Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "武漢63歲婦長江輕生　23歲女警暗中守候20分鐘　衝江中扯衣領救人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200056618016837632360498.png/UD_5TLgruUHbzs-Qm56qh--CX8orRQp7toyCCraMggo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412484/%E6%AD%A6%E6%BC%A263%E6%AD%B2%E5%A9%A6%E9%95%B7%E6%B1%9F%E8%BC%95%E7%94%9F-23%E6%AD%B2%E5%A5%B3%E8%AD%A6%E6%9A%97%E4%B8%AD%E5%AE%88%E5%80%9920%E5%88%86%E9%90%98-%E8%A1%9D%E6%B1%9F%E4%B8%AD%E6%89%AF%E8%A1%A3%E9%A0%98%E6%95%91%E4%BA%BA",
-    "timestamp": "2026-11-20T22:45:10.363Z",
     "strategy": ".content-card__main"
   }
 ];
