@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T03:59:06.355Z
+// Last updated: 2026-11-21T04:21:42.054Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "APEC深圳｜丘應樺稱深圳峰會與港財會取得成功　兩地相輔相成",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148319707284115456139526.jpeg/gbktmAdJNooo5jlBHuVlPmkbqFOc9-KtCc1C6AnNQug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413395/apec%E6%B7%B1%E5%9C%B3-%E4%B8%98%E6%87%89%E6%A8%BA%E7%A8%B1%E6%B7%B1%E5%9C%B3%E5%B3%B0%E6%9C%83%E8%88%87%E6%B8%AF%E8%B2%A1%E6%9C%83%E5%8F%96%E5%BE%97%E6%88%90%E5%8A%9F-%E5%85%A9%E5%9C%B0%E7%9B%B8%E8%BC%94%E7%9B%B8%E6%88%90",
+    "timestamp": "2026-11-21T04:21:42.054Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "樓宇維修圍標擬刑事化　丘應樺指不排除引吹哨者寬待機制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200687809166315520469103.jpeg/WLOefWrrptYZowDzRLqpJ2WlAC1oLFqhWfde3ln3Xt4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413109/%E7%BE%8E%E8%82%A1%E5%8F%88%E7%88%86%E8%82%A1%E7%81%BD-%E7%B4%8D%E6%8C%87%E6%9A%B4%E7%80%89%E9%80%BE5-%E8%8B%B1%E5%81%89%E9%81%94%E5%86%8D%E6%8F%92%E6%B0%B414-%E9%80%A3%E8%B7%8C7%E6%97%A5",
     "timestamp": "2026-11-20T21:59:02.787Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股又爆股災！納指暴瀉逾5% 　英偉達再插水14%連跌7日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200685390978093056038625.jpeg/434l3kQnc2HVYf2GfhOt2Waw-UlTGDH_F1MCLRdTAi0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413109/%E7%BE%8E%E8%82%A1%E5%8F%88%E7%88%86%E8%82%A1%E7%81%BD-%E7%B4%8D%E6%8C%87%E6%9A%B4%E7%80%89%E9%80%BE5-%E8%8B%B1%E5%81%89%E9%81%94%E5%86%8D%E6%8F%92%E6%B0%B414-%E9%80%A3%E8%B7%8C7%E6%97%A5",
-    "timestamp": "2026-11-20T21:44:39.335Z",
     "strategy": ".content-card__main"
   }
 ];
