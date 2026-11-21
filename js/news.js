@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T17:59:13.025Z
+// Last updated: 2026-11-21T18:21:07.281Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀街頭被星探發掘：買三文治意外拿到廣告入場券",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200852039844761600763045.jpeg/YPg4HvUKySELIows7b5ytBT_8AS_6C5w28P4WdvD-Fk",
+    "url": "https://www.hk01.com/01TV/60413458/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%A1%97%E9%A0%AD%E8%A2%AB%E6%98%9F%E6%8E%A2%E7%99%BC%E6%8E%98-%E8%B2%B7%E4%B8%89%E6%96%87%E6%B2%BB%E6%84%8F%E5%A4%96%E6%8B%BF%E5%88%B0%E5%BB%A3%E5%91%8A%E5%85%A5%E5%A0%B4%E5%88%B8",
+    "timestamp": "2026-11-21T18:21:07.281Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱尋求與伊朗達成「永久性」協議　指從未在意對方政權更迭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200907564418600960851634.jpeg/07TrpV9crg8YYRMt5Y4z93wLpesVjpQtjaRfJY2kXyU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413455/anthropic-ceo%E9%98%BF%E8%8E%AB%E8%BF%AA-%E6%9C%80%E6%80%95ai%E5%8D%B1%E5%AE%B3%E4%B8%96%E7%95%8C%E7%9A%84%E4%BA%BA%E8%A6%AA%E6%89%8B%E7%B7%A0%E9%80%A0%E8%90%AC%E5%84%84ipo",
     "timestamp": "2026-11-21T12:36:14.021Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德甲｜卡尼重創後手術成功料缺陣3個月　拜仁鬥護級隊失分兼折兵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200902450635083776235916.jpeg/qkS-zglkrphavy7IqSIXrHzetoj4zS4XfPlQ0Hz5UNA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413521/%E5%BE%B7%E7%94%B2-%E5%8D%A1%E5%B0%BC%E9%87%8D%E5%89%B5%E5%BE%8C%E6%89%8B%E8%A1%93%E6%88%90%E5%8A%9F%E6%96%99%E7%BC%BA%E9%99%A33%E5%80%8B%E6%9C%88-%E6%8B%9C%E4%BB%81%E9%AC%A5%E8%AD%B7%E7%B4%9A%E9%9A%8A%E5%A4%B1%E5%88%86%E5%85%BC%E6%8A%98%E5%85%B5",
-    "timestamp": "2026-11-21T12:23:57.067Z",
     "strategy": ".content-card__main"
   }
 ];
