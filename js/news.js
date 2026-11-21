@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T03:21:52.201Z
+// Last updated: 2026-11-21T03:27:37.839Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳獲特朗普力挺回巢Nvidia　《紐約時報》再羅列18宗罪追擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261113/1197975815686459392953406.jpeg/a7WPK9iRLvDxj-tMUBRHU0MWK-0C3ivvzIkY-syJGPo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60413359/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%8D%B2%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8C%BA%E5%9B%9E%E5%B7%A2nvidia-%E7%B4%90%E7%B4%84%E6%99%82%E5%A0%B1-%E5%86%8D%E7%BE%85%E5%88%9718%E5%AE%97%E7%BD%AA%E8%BF%BD%E6%93%8A",
+    "timestamp": "2026-11-21T03:27:37.839Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩種「頭肩頂」會否易混淆　京東案例解說清晰易明｜聶振邦",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200664490316664832315429.png/8K_No18pfG6hCNCPG3p4_42xAydMSpbGRcz4UUXM-FE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413340/%E6%9D%8E%E5%BC%B7%E6%99%A4%E6%BE%B3%E6%B4%B2%E7%B8%BD%E7%90%86%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E6%96%AF-%E6%8C%87%E9%A1%98%E5%90%8C%E6%BE%B3%E6%96%B9%E6%8E%A8%E5%8B%95ai%E7%AD%89%E6%96%B0%E8%88%88%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E4%BA%AE%E9%BB%9E",
     "timestamp": "2026-11-20T20:59:09.576Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強晤澳洲總理阿爾巴尼斯　指願同澳方推動AI等新興領域合作亮點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200664490316664832315429.png/8K_No18pfG6hCNCPG3p4_42xAydMSpbGRcz4UUXM-FE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413340/%E6%9D%8E%E5%BC%B7%E6%99%A4%E6%BE%B3%E6%B4%B2%E7%B8%BD%E7%90%86%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E6%96%AF-%E6%8C%87%E9%A1%98%E5%90%8C%E6%BE%B3%E6%96%B9%E6%8E%A8%E5%8B%95ai%E7%AD%89%E6%96%B0%E8%88%88%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E4%BA%AE%E9%BB%9E",
-    "timestamp": "2026-11-20T20:45:07.999Z",
     "strategy": ".content-card__main"
   }
 ];
