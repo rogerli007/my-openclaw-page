@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T04:59:06.940Z
+// Last updated: 2026-11-21T05:19:58.093Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本最勤力除草員胃口太好　JR東特聘山羊食曬雜草提前退休｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200796256369119232520438.png/j53HUwoIXTt4MceWdWJRRZWk3-Ri-PwnJjDutCYw7rQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60413397/%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8B%A4%E5%8A%9B%E9%99%A4%E8%8D%89%E5%93%A1%E8%83%83%E5%8F%A3%E5%A4%AA%E5%A5%BD-jr%E6%9D%B1%E7%89%B9%E8%81%98%E5%B1%B1%E7%BE%8A%E9%A3%9F%E6%9B%AC%E9%9B%9C%E8%8D%89%E6%8F%90%E5%89%8D%E9%80%80%E4%BC%91-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-21T05:19:58.093Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方力申港澳慈善游今早9時起步　至中午奮戰逾十公里　未見疲態",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200056618016837632360498.png/UD_5TLgruUHbzs-Qm56qh--CX8orRQp7toyCCraMggo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412484/%E6%AD%A6%E6%BC%A263%E6%AD%B2%E5%A9%A6%E9%95%B7%E6%B1%9F%E8%BC%95%E7%94%9F-23%E6%AD%B2%E5%A5%B3%E8%AD%A6%E6%9A%97%E4%B8%AD%E5%AE%88%E5%80%9920%E5%88%86%E9%90%98-%E8%A1%9D%E6%B1%9F%E4%B8%AD%E6%89%AF%E8%A1%A3%E9%A0%98%E6%95%91%E4%BA%BA",
     "timestamp": "2026-11-20T22:45:10.363Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "武漢63歲婦長江輕生　23歲女警暗中守候20分鐘　衝江中扯衣領救人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200056618016837632360498.png/UD_5TLgruUHbzs-Qm56qh--CX8orRQp7toyCCraMggo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412484/%E6%AD%A6%E6%BC%A263%E6%AD%B2%E5%A9%A6%E9%95%B7%E6%B1%9F%E8%BC%95%E7%94%9F-23%E6%AD%B2%E5%A5%B3%E8%AD%A6%E6%9A%97%E4%B8%AD%E5%AE%88%E5%80%9920%E5%88%86%E9%90%98-%E8%A1%9D%E6%B1%9F%E4%B8%AD%E6%89%AF%E8%A1%A3%E9%A0%98%E6%95%91%E4%BA%BA",
-    "timestamp": "2026-11-20T22:29:56.183Z",
     "strategy": ".content-card__main"
   }
 ];
