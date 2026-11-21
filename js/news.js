@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T02:35:27.787Z
+// Last updated: 2026-11-21T02:58:58.937Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普對獲習近平接機深感榮幸　讚深圳乾淨批美國城市骯髒｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200757568956272640345827.jpeg/Cvt8ZEuJGtkSSAXHcyLkd6YUUdVDGmKfiPdB8Ij3QfA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413365/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E7%8D%B2%E7%BF%92%E8%BF%91%E5%B9%B3%E6%8E%A5%E6%A9%9F%E6%B7%B1%E6%84%9F%E6%A6%AE%E5%B9%B8-%E8%AE%9A%E6%B7%B1%E5%9C%B3%E4%B9%BE%E6%B7%A8%E6%89%B9%E7%BE%8E%E5%9C%8B%E5%9F%8E%E5%B8%82%E9%AA%AF%E9%AB%92-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-21T02:58:58.937Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "易烊千璽6大反差萌！鍾情粉色愛玩核桃　曾兼職送外賣接6單全超時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200092780735500288395864.jpeg/ZqT7VP6YTj5-FvQkqPyoxsi6jc1jChzoZteCCWbXggk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413338/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E6%99%AE%E4%BA%AC%E6%98%8E%E7%A2%BA%E8%A1%A8%E9%81%94%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E6%84%8F%E9%A1%98-%E6%9C%AA%E9%81%94%E5%8D%94%E8%AD%B0%E5%89%8D%E4%B8%8D%E8%AB%87%E7%83%8F%E5%AE%89%E5%85%A8%E4%BF%9D%E8%AD%89",
     "timestamp": "2026-11-20T20:19:47.667Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普指普京明確表達結束戰爭意願　未達協議前不談烏安全保證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200092780735500288395864.jpeg/ZqT7VP6YTj5-FvQkqPyoxsi6jc1jChzoZteCCWbXggk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413338/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E6%99%AE%E4%BA%AC%E6%98%8E%E7%A2%BA%E8%A1%A8%E9%81%94%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E6%84%8F%E9%A1%98-%E6%9C%AA%E9%81%94%E5%8D%94%E8%AD%B0%E5%89%8D%E4%B8%8D%E8%AB%87%E7%83%8F%E5%AE%89%E5%85%A8%E4%BF%9D%E8%AD%89",
-    "timestamp": "2026-11-20T19:59:05.826Z",
     "strategy": ".content-card__main"
   }
 ];
