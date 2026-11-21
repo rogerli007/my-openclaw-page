@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T11:29:32.464Z
+// Last updated: 2026-11-21T11:45:03.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方力申渡海泳至澳門｜回顧心路歷程︰腳掌失知覺、憂暈低遭遇不測",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200843373309595648570348.jpeg/lj_379Ha9Cq2PK1Ko7cz3TlyUe9l4LrhmJZQH5iWUB8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413507/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%A1%E6%B5%B7%E6%B3%B3%E8%87%B3%E6%BE%B3%E9%96%80-%E5%9B%9E%E9%A1%A7%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B-%E8%85%B3%E6%8E%8C%E5%A4%B1%E7%9F%A5%E8%A6%BA-%E6%86%82%E6%9A%88%E4%BD%8E%E9%81%AD%E9%81%87%E4%B8%8D%E6%B8%AC",
+    "timestamp": "2026-11-21T11:45:03.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "劉德華《我年輕過》YouTube上架7日　點擊過100萬破個人最快紀錄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200785612769071104814792.jpeg/hHq_TfjffFcEkBrreTESePS-Bn-hvBTzwI03JMCNNyQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413389/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%AF%E6%BE%B3%E6%85%88%E5%96%84%E6%B8%B8%E4%BB%8A%E6%97%A99%E6%99%82%E8%B5%B7%E6%AD%A5-%E8%87%B3%E4%B8%AD%E5%8D%88%E5%A5%AE%E6%88%B0%E9%80%BE%E5%8D%81%E5%85%AC%E9%87%8C-%E6%9C%AA%E8%A6%8B%E7%96%B2%E6%85%8B",
     "timestamp": "2026-11-21T04:59:06.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方力申港澳慈善游今早9時起步　至中午奮戰逾十公里　未見疲態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200785612769071104814792.jpeg/hHq_TfjffFcEkBrreTESePS-Bn-hvBTzwI03JMCNNyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413389/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%AF%E6%BE%B3%E6%85%88%E5%96%84%E6%B8%B8%E4%BB%8A%E6%97%A99%E6%99%82%E8%B5%B7%E6%AD%A5-%E8%87%B3%E4%B8%AD%E5%8D%88%E5%A5%AE%E6%88%B0%E9%80%BE%E5%8D%81%E5%85%AC%E9%87%8C-%E6%9C%AA%E8%A6%8B%E7%96%B2%E6%85%8B",
-    "timestamp": "2026-11-21T04:45:26.164Z",
     "strategy": ".content-card__main"
   }
 ];
