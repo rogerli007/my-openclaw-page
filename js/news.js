@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T11:18:38.501Z
+// Last updated: 2026-11-21T11:29:32.464Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉德華《我年輕過》YouTube上架7日　點擊過100萬破個人最快紀錄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200882955908550656982736.jpeg/CmBx26Y_M9qWf_fCSl4_T4SXAvWoYra-VDOvwlQzr8I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60413506/%E5%8A%89%E5%BE%B7%E8%8F%AF-%E6%88%91%E5%B9%B4%E8%BC%95%E9%81%8E-youtube%E4%B8%8A%E6%9E%B67%E6%97%A5-%E9%BB%9E%E6%93%8A%E9%81%8E100%E8%90%AC%E7%A0%B4%E5%80%8B%E4%BA%BA%E6%9C%80%E5%BF%AB%E7%B4%80%E9%8C%84",
+    "timestamp": "2026-11-21T11:29:32.464Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周潤發首戰毅行者逾6小時完走20公里　「辛苦到不得了」｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200785612769071104814792.jpeg/hHq_TfjffFcEkBrreTESePS-Bn-hvBTzwI03JMCNNyQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413389/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%AF%E6%BE%B3%E6%85%88%E5%96%84%E6%B8%B8%E4%BB%8A%E6%97%A99%E6%99%82%E8%B5%B7%E6%AD%A5-%E8%87%B3%E4%B8%AD%E5%8D%88%E5%A5%AE%E6%88%B0%E9%80%BE%E5%8D%81%E5%85%AC%E9%87%8C-%E6%9C%AA%E8%A6%8B%E7%96%B2%E6%85%8B",
     "timestamp": "2026-11-21T04:45:26.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "APEC深圳｜丘應樺稱深圳峰會與港財會取得成功　兩地相輔相成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148319707284115456139526.jpeg/gbktmAdJNooo5jlBHuVlPmkbqFOc9-KtCc1C6AnNQug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413395/apec%E6%B7%B1%E5%9C%B3-%E4%B8%98%E6%87%89%E6%A8%BA%E7%A8%B1%E6%B7%B1%E5%9C%B3%E5%B3%B0%E6%9C%83%E8%88%87%E6%B8%AF%E8%B2%A1%E6%9C%83%E5%8F%96%E5%BE%97%E6%88%90%E5%8A%9F-%E5%85%A9%E5%9C%B0%E7%9B%B8%E8%BC%94%E7%9B%B8%E6%88%90",
-    "timestamp": "2026-11-21T04:21:42.054Z",
     "strategy": ".content-card__main"
   }
 ];
