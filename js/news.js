@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T08:22:05.848Z
+// Last updated: 2026-11-21T08:33:05.824Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "選委會選舉明日舉行　31組別856人爭723席　李家超視察票站打氣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200845930341863424263754.jpeg/AVI4WPgG-7t6HbGTOI8Gy5DME-Al0qcjsxnupLMZ7qQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413447/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89%E6%98%8E%E6%97%A5%E8%88%89%E8%A1%8C-31%E7%B5%84%E5%88%A5856%E4%BA%BA%E7%88%AD723%E5%B8%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%A6%96%E5%AF%9F%E7%A5%A8%E7%AB%99%E6%89%93%E6%B0%A3",
+    "timestamp": "2026-11-21T08:33:05.824Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李子柒當選四川省文聯副主席　親揭近況：在拍紀錄片和陪奶奶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200711177831714816240871.png/RMnrMv1C_qoXMqKaXJ8eB23H0PiMnnJOm3-ldZt_pXU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60413333/%E5%8F%B0%E5%B8%A5%E5%93%A5%E8%AD%A6%E5%93%A1%E8%B5%B0%E9%8C%AF%E9%96%8040%E7%A7%92-%E9%81%AD%E7%B4%A2%E5%84%9F%E7%99%BE%E8%90%AC%E7%BA%8F%E8%A8%9F8%E5%B9%B4%E5%88%A4%E5%85%8D%E8%B3%A0-%E9%9D%88%E9%AD%82%E6%94%AF%E9%9B%A2%E7%A0%B4%E7%A2%8E",
     "timestamp": "2026-11-21T01:20:52.983Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秘魯中部6.7級地震　首都利馬有明顯震感",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170001880227516416893710.jpeg/buxAe6Q-JPg3OPYkbO4wsxkG4it1FlWlBnUJywZ1Ccs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413353/%E7%A7%98%E9%AD%AF%E4%B8%AD%E9%83%A86-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E9%A6%96%E9%83%BD%E5%88%A9%E9%A6%AC%E6%9C%89%E6%98%8E%E9%A1%AF%E9%9C%87%E6%84%9F",
-    "timestamp": "2026-11-21T00:57:02.812Z",
     "strategy": ".content-card__main"
   }
 ];
