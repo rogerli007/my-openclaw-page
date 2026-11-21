@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T07:45:16.738Z
+// Last updated: 2026-11-21T07:59:10.418Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "斯洛伐克舞蹈團東京神社拍跳舞片捱轟　駐日大使館急致歉｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200834672028815360580436.jpeg/_Xw-UKTBUvSlrSL9--hunQryOL-Ic2EQZ_dJIGf3SSA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413428/%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E8%88%9E%E8%B9%88%E5%9C%98%E6%9D%B1%E4%BA%AC%E7%A5%9E%E7%A4%BE%E6%8B%8D%E8%B7%B3%E8%88%9E%E7%89%87%E6%8D%B1%E8%BD%9F-%E9%A7%90%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A4%A8%E6%80%A5%E8%87%B4%E6%AD%89-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-21T07:59:10.418Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "毅行者2026｜周潤發偕跑友逾6小時走完20公里　「辛苦到不得了」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200568108679434240316940.jpeg/8FLx6Wcqh7xK6qGkU-UKBwBOVbaDcP74K3MD9StzA_U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412275/%E5%BC%B5%E8%88%87%E8%BE%B0%E8%87%AA%E6%8F%AD20%E5%B9%B4%E8%A1%80%E6%B7%9A%E5%8F%B2-%E6%9B%BE%E5%9C%A8%E5%AD%B8%E6%A0%A1%E9%81%AD%E5%9A%B4%E9%87%8D%E6%AC%BA%E5%87%8C%E9%81%AD%E8%A9%90%E9%A8%99%E6%88%B6%E5%8F%A3%E5%89%A9-100",
     "timestamp": "2026-11-21T00:36:32.257Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "脂肪肝血脂高｜微糖手搖飲加飯後果盤成元兇　權威機構教控血脂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199345421055430656479682.jpeg/HKnOEHSpPkIGphLeFozx-ei8zYiUwIxnTb2mnE29ppw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60410689/%E8%84%82%E8%82%AA%E8%82%9D%E8%A1%80%E8%84%82%E9%AB%98-%E5%BE%AE%E7%B3%96%E6%89%8B%E6%90%96%E9%A3%B2%E5%8A%A0%E9%A3%AF%E5%BE%8C%E6%9E%9C%E7%9B%A4%E6%88%90%E5%85%83%E5%85%87-%E6%AC%8A%E5%A8%81%E6%A9%9F%E6%A7%8B%E6%95%99%E6%8E%A7%E8%A1%80%E8%84%82",
-    "timestamp": "2026-11-20T23:59:01.685Z",
     "strategy": ".content-card__main"
   }
 ];
