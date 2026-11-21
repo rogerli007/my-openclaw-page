@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T22:59:02.145Z
+// Last updated: 2026-11-21T23:18:49.426Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026年底4星座將財運翻盤！進帳暴增迎新機　榜首靠表現加薪升職",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200484016441004032893150.png/vxmpwVe7yJbKPkIeDu_k_jTmbX2sGrOgasSn-2rEp_s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60413102/2026%E5%B9%B4%E5%BA%954%E6%98%9F%E5%BA%A7%E5%B0%87%E8%B2%A1%E9%81%8B%E7%BF%BB%E7%9B%A4-%E9%80%B2%E5%B8%B3%E6%9A%B4%E5%A2%9E%E8%BF%8E%E6%96%B0%E6%A9%9F-%E6%A6%9C%E9%A6%96%E9%9D%A0%E8%A1%A8%E7%8F%BE%E5%8A%A0%E8%96%AA%E5%8D%87%E8%81%B7",
+    "timestamp": "2026-11-21T23:18:49.426Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「羞花」楊玉環從道士到貴妃　馬嵬坡為何成絕路？｜四大美人之四",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200478881392365568451098.jpeg/pBadLFTLC6Z9MWh9vkNXaGKnCGBhVfjzoWHWBqFh1gY",
     "url": "https://www.hk01.com/01TV/60413183/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AB%87%E9%8C%AF%E5%A4%B1%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E5%9B%A0%E7%88%B6%E8%A6%AA%E5%8F%8D%E5%B0%8D%E8%80%8C%E6%94%BE%E6%A3%84%E5%8F%83%E9%81%B8%E4%BA%9E%E5%A7%90",
     "timestamp": "2026-11-21T17:29:19.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀談錯失百萬獎金：因父親反對而放棄參選亞姐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200478881392365568451098.jpeg/pBadLFTLC6Z9MWh9vkNXaGKnCGBhVfjzoWHWBqFh1gY",
-    "url": "https://www.hk01.com/01TV/60413183/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AB%87%E9%8C%AF%E5%A4%B1%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E5%9B%A0%E7%88%B6%E8%A6%AA%E5%8F%8D%E5%B0%8D%E8%80%8C%E6%94%BE%E6%A3%84%E5%8F%83%E9%81%B8%E4%BA%9E%E5%A7%90",
-    "timestamp": "2026-11-21T17:18:02.475Z",
     "strategy": ".content-card__main"
   }
 ];
