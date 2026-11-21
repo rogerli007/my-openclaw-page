@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T19:29:11.841Z
+// Last updated: 2026-11-21T19:59:03.408Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜紐卡素2:2阿仙奴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201017431900819456257168.jpeg/BDSkxfOtYU9g6E3w0EiwGoZcnwRK3IppbVwhyG1cIcg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413558/%E8%8B%B1%E8%B6%85-%E7%B4%90%E5%8D%A1%E7%B4%A02-2%E9%98%BF%E4%BB%99%E5%A5%B4",
+    "timestamp": "2026-11-21T19:59:03.408Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀稱霸90年代廣告圈：拍兩日廣告等於秘書整月薪水",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200804176410447872913287.jpeg/cDzUO6WotZIuGulTeqyjnlfERnUvawBb17TYyNe02Mg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60413388/%E7%8E%8B%E8%8F%B2%E6%94%9C%E7%AB%87%E9%9D%96%E7%AB%A5%E6%9D%8E%E5%AB%A3%E5%94%B1-%E6%84%9B%E7%AC%91%E7%9A%84%E5%A4%A9%E4%BD%BF-%E8%81%B2%E7%B7%9A%E5%A4%AA%E4%BC%BC%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%98%86-%E4%B8%89%E5%80%8B%E7%8E%8B%E8%8F%B2",
     "timestamp": "2026-11-21T13:45:01.413Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方力申渡海｜體育學者分析︰消耗如跑兩次馬拉松　兩原因順利挑戰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200784524015833088125864.jpeg/LAuKvMcTvvLW0dw44XslRHHS_p_M4PmggzHzI4Mx8yM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413468/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%A1%E6%B5%B7-%E9%AB%94%E8%82%B2%E5%AD%B8%E8%80%85%E5%88%86%E6%9E%90-%E6%B6%88%E8%80%97%E5%A6%82%E8%B7%91%E5%85%A9%E6%AC%A1%E9%A6%AC%E6%8B%89%E6%9D%BE-%E5%85%A9%E5%8E%9F%E5%9B%A0%E9%A0%86%E5%88%A9%E6%8C%91%E6%88%B0",
-    "timestamp": "2026-11-21T13:29:46.137Z",
     "strategy": ".content-card__main"
   }
 ];
