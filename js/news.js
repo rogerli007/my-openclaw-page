@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T14:39:18.419Z
+// Last updated: 2026-11-21T14:58:56.858Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "伊朗軍稱發射導彈致美軍F-16戰機損壞緊急降落　美方否認｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200941431108145152570329.jpeg/3uBtbmna1Ipip0642Zky_Lt5QJkKDQh8D056FA9OehQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E7%A8%B1%E7%99%BC%E5%B0%84%E5%B0%8E%E5%BD%88%E8%87%B4%E7%BE%8E%E8%BB%8Df-16%E6%88%B0%E6%A9%9F%E6%90%8D%E5%A3%9E%E7%B7%8A%E6%80%A5%E9%99%8D%E8%90%BD-%E7%BE%8E%E6%96%B9%E5%90%A6%E8%AA%8D-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-21T14:58:56.858Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女友外型滿分卻有「臭味」　親密接觸兩度被掃興　他萌生逃避念頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200864978068836352079254.jpeg/zA6OqPkLREUXnCu-LhD5DVt77VFUJXI7w8_-ucPP_rk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413473/%E5%91%A8%E6%BD%A4%E7%99%BC%E7%9D%87bigbang%E7%8D%B2gd%E9%BB%9E%E5%90%8D%E8%87%B4%E8%AC%9D-%E7%88%86%E7%84%A1%E5%BE%97%E6%8F%B8%E6%A9%9F%E8%87%AA%E6%8B%8D-%E6%88%91%E8%87%AA%E5%B7%B1%E6%A9%9F%E9%83%BD%E5%94%94%E5%BE%97",
     "timestamp": "2026-11-21T09:45:23.329Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新型詐騙｜廣州女誤信｢訂婚請喝奶茶｣帖文　1小時被騙逾1.4萬元",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200851846327963648023984.jpeg/uNmASyu7uWaXRKd7NVOxmT2ZeYNvFgqE5XlNMeV5TTE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413449/%E6%96%B0%E5%9E%8B%E8%A9%90%E9%A8%99-%E5%BB%A3%E5%B7%9E%E5%A5%B3%E8%AA%A4%E4%BF%A1-%E8%A8%82%E5%A9%9A%E8%AB%8B%E5%96%9D%E5%A5%B6%E8%8C%B6-%E5%B8%96%E6%96%87-1%E5%B0%8F%E6%99%82%E8%A2%AB%E9%A8%99%E9%80%BE1-4%E8%90%AC%E5%85%83",
-    "timestamp": "2026-11-21T09:20:07.322Z",
     "strategy": ".content-card__main"
   }
 ];
