@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T20:29:23.448Z
+// Last updated: 2026-11-21T20:45:05.294Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯導彈侵犯波蘭領空　北約秘書長呂特指將捍衛波蘭每一寸領土",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151809168370307072307245.jpeg/Huh2TYTSVy5yji2xV6LBo7nWUjWHtzW2V102xFddNsQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413559/%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%8E%E5%BD%88%E4%BE%B5%E7%8A%AF%E6%B3%A2%E8%98%AD%E9%A0%98%E7%A9%BA-%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E5%91%82%E7%89%B9%E6%8C%87%E5%B0%87%E6%8D%8D%E8%A1%9B%E6%B3%A2%E8%98%AD%E6%AF%8F%E4%B8%80%E5%AF%B8%E9%A0%98%E5%9C%9F",
+    "timestamp": "2026-11-21T20:45:05.294Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯導彈侵犯波蘭領空　北約秘書長呂特指將捍衛波蘭每一寸領土",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200879492323610624723490.jpeg/dlJ6DB6CBQvBwHFyKIWCrDFuTGU2gsbpfHWDAnx1gwI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413504/%E8%B7%9F%E9%A2%A8%E6%97%85%E8%A1%8C%E5%9C%98-%E6%9D%9C%E5%A6%82%E9%A2%A8%E6%BF%80%E8%AE%9A4%E8%90%AC%E5%9C%9C%E6%AD%BB%E5%89%8D%E5%BF%85%E9%A3%9Fpizza-%E8%B2%AA%E7%8E%A9%E7%8E%A9%E5%87%BA%E7%81%AB%E8%B7%AA%E5%9C%B0%E6%B1%82%E9%A5%92",
     "timestamp": "2026-11-21T14:19:22.742Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "環球資產拋售潮　股市以外金銅價也暴跌　加密貨幣29萬人「爆倉」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/cis/5e598d576f91ff14194bf003.jpg/sGgyWZb_q-xai9ZoGdehXPIPWpE3q5NFigpdYIoKXWA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413528/%E7%92%B0%E7%90%83%E8%B3%87%E7%94%A2%E6%8B%8B%E5%94%AE%E6%BD%AE-%E8%82%A1%E5%B8%82%E4%BB%A5%E5%A4%96%E9%87%91%E9%8A%85%E5%83%B9%E4%B9%9F%E6%9A%B4%E8%B7%8C-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A329%E8%90%AC%E4%BA%BA-%E7%88%86%E5%80%89",
-    "timestamp": "2026-11-21T13:59:05.227Z",
     "strategy": ".content-card__main"
   }
 ];
