@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T14:58:56.858Z
+// Last updated: 2026-11-21T15:18:42.209Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "內地女快餐店內低頭玩手機　遭陌生男「加冰可樂」砸臉：無冤無仇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200146530921615360925671.png/AxuiAUhh9OYHsLlpJnPsqIaAFEf1HrRphCszNIQrMzQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412488/%E5%85%A7%E5%9C%B0%E5%A5%B3%E5%BF%AB%E9%A4%90%E5%BA%97%E5%85%A7%E4%BD%8E%E9%A0%AD%E7%8E%A9%E6%89%8B%E6%A9%9F-%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7-%E5%8A%A0%E5%86%B0%E5%8F%AF%E6%A8%82-%E7%A0%B8%E8%87%89-%E7%84%A1%E5%86%A4%E7%84%A1%E4%BB%87",
+    "timestamp": "2026-11-21T15:18:42.209Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "伊朗軍稱發射導彈致美軍F-16戰機損壞緊急降落　美方否認｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200815861124829184374908.jpeg/97nUTPchQomciHqGjHtAI2-lX6FUSk4ow-VbnOblW5w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413416/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E9%98%B2%E8%99%95%E6%AA%A2%E6%8E%A7%E4%B8%AD%E8%8F%AF%E7%99%BC%E5%B1%95%E8%91%A3%E4%BA%8B-%E6%B6%89%E8%99%9B%E5%81%87%E6%96%87%E6%9B%B8-%E6%98%8E%E5%B9%B41%E6%9C%88%E6%8F%90%E5%A0%82",
     "timestamp": "2026-11-21T09:59:02.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周潤發睇BIGBANG獲GD點名致謝　爆無得揸機自拍：我自己機都唔得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200864978068836352079254.jpeg/zA6OqPkLREUXnCu-LhD5DVt77VFUJXI7w8_-ucPP_rk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413473/%E5%91%A8%E6%BD%A4%E7%99%BC%E7%9D%87bigbang%E7%8D%B2gd%E9%BB%9E%E5%90%8D%E8%87%B4%E8%AC%9D-%E7%88%86%E7%84%A1%E5%BE%97%E6%8F%B8%E6%A9%9F%E8%87%AA%E6%8B%8D-%E6%88%91%E8%87%AA%E5%B7%B1%E6%A9%9F%E9%83%BD%E5%94%94%E5%BE%97",
-    "timestamp": "2026-11-21T09:45:23.329Z",
     "strategy": ".content-card__main"
   }
 ];
