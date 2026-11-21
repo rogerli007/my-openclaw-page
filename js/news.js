@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T12:59:14.242Z
+// Last updated: 2026-11-21T13:18:55.611Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方力申渡海｜體育學者分析︰消耗如跑兩次馬拉松　兩原因順利挑戰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200784524015833088125864.jpeg/LAuKvMcTvvLW0dw44XslRHHS_p_M4PmggzHzI4Mx8yM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413468/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%A1%E6%B5%B7-%E9%AB%94%E8%82%B2%E5%AD%B8%E8%80%85%E5%88%86%E6%9E%90-%E6%B6%88%E8%80%97%E5%A6%82%E8%B7%91%E5%85%A9%E6%AC%A1%E9%A6%AC%E6%8B%89%E6%9D%BE-%E5%85%A9%E5%8E%9F%E5%9B%A0%E9%A0%86%E5%88%A9%E6%8C%91%E6%88%B0",
+    "timestamp": "2026-11-21T13:18:55.611Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方力申完成35公里港澳橫渡無縫接力直奔開騷　台上中氣十足零疲態",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200833591169257472089314.jpeg/9Ft0aREiQ3Mgx0rxrmGJSUjKAH17Mnw-TM0S90zNEvc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413435/%E6%AF%85%E8%A1%8C%E8%80%852026-%E5%91%A8%E6%BD%A4%E7%99%BC%E5%81%95%E8%B7%91%E5%8F%8B%E9%80%BE6%E5%B0%8F%E6%99%82%E8%B5%B0%E5%AE%8C20%E5%85%AC%E9%87%8C-%E8%BE%9B%E8%8B%A6%E5%88%B0%E4%B8%8D%E5%BE%97%E4%BA%86",
     "timestamp": "2026-11-21T07:45:16.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SpaceX抵押AI晶片借3354億港元　傳貸款方禁馬斯克送晶片上太空",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200825303505571840824039.jpeg/ZR4JVmJ0NO-RYym9Kiw9ehv_mTeoX-TzaeGcj2nhnI8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413427/spacex%E6%8A%B5%E6%8A%BCai%E6%99%B6%E7%89%87%E5%80%9F3354%E5%84%84%E6%B8%AF%E5%85%83-%E5%82%B3%E8%B2%B8%E6%AC%BE%E6%96%B9%E7%A6%81%E9%A6%AC%E6%96%AF%E5%85%8B%E9%80%81%E6%99%B6%E7%89%87%E4%B8%8A%E5%A4%AA%E7%A9%BA",
-    "timestamp": "2026-11-21T07:19:50.596Z",
     "strategy": ".content-card__main"
   }
 ];
