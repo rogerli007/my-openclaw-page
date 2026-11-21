@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T11:59:07.831Z
+// Last updated: 2026-11-21T12:23:57.067Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德甲｜卡尼重創後手術成功料缺陣3個月　拜仁鬥護級隊失分兼折兵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200902450635083776235916.jpeg/qkS-zglkrphavy7IqSIXrHzetoj4zS4XfPlQ0Hz5UNA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413521/%E5%BE%B7%E7%94%B2-%E5%8D%A1%E5%B0%BC%E9%87%8D%E5%89%B5%E5%BE%8C%E6%89%8B%E8%A1%93%E6%88%90%E5%8A%9F%E6%96%99%E7%BC%BA%E9%99%A33%E5%80%8B%E6%9C%88-%E6%8B%9C%E4%BB%81%E9%AC%A5%E8%AD%B7%E7%B4%9A%E9%9A%8A%E5%A4%B1%E5%88%86%E5%85%BC%E6%8A%98%E5%85%B5",
+    "timestamp": "2026-11-21T12:23:57.067Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳廣場餐廳垃圾桶墮樓險砸途人　職員報案　警考慮票控｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200778718444785664975328.jpeg/G4D7job2Bwe_03cR09vD0xQPVr0byfp9TpoZHU6aGR0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413380/%E8%B3%AD%E8%81%96-%E5%8E%9F%E5%AE%9A%E6%9D%8E%E5%8A%9B%E6%8C%81%E5%9F%B7%E5%B0%8E%E4%BD%86%E5%AB%8C%E7%89%87%E9%85%AC%E5%B0%91-%E5%8A%89%E9%8E%AE%E5%81%89-%E4%BD%A2%E4%BF%82%E5%A0%85%E6%8C%81%E5%A4%9A%E5%97%B0%E5%B0%91%E5%88%B0",
     "timestamp": "2026-11-21T05:45:31.628Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本最勤力除草員胃口太好　JR東特聘山羊食曬雜草提前退休｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200796256369119232520438.png/j53HUwoIXTt4MceWdWJRRZWk3-Ri-PwnJjDutCYw7rQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60413397/%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8B%A4%E5%8A%9B%E9%99%A4%E8%8D%89%E5%93%A1%E8%83%83%E5%8F%A3%E5%A4%AA%E5%A5%BD-jr%E6%9D%B1%E7%89%B9%E8%81%98%E5%B1%B1%E7%BE%8A%E9%A3%9F%E6%9B%AC%E9%9B%9C%E8%8D%89%E6%8F%90%E5%89%8D%E9%80%80%E4%BC%91-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-21T05:19:58.093Z",
     "strategy": ".content-card__main"
   }
 ];
