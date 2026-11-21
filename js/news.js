@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T03:27:37.839Z
+// Last updated: 2026-11-21T03:45:29.990Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄軍導彈墜入波蘭　距歐洲多國軍演僅50公里　華沙斥蓄意挑釁",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200766029949702144532710.png/vdsi6zwCkZSW1gqhijTEzknjDMbOcaFrmctOuZnLTrk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413382/%E4%BF%84%E8%BB%8D%E5%B0%8E%E5%BD%88%E5%A2%9C%E5%85%A5%E6%B3%A2%E8%98%AD-%E8%B7%9D%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E8%BB%8D%E6%BC%94%E5%83%8550%E5%85%AC%E9%87%8C-%E8%8F%AF%E6%B2%99%E6%96%A5%E8%93%84%E6%84%8F%E6%8C%91%E9%87%81",
+    "timestamp": "2026-11-21T03:45:29.990Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳獲特朗普力挺回巢Nvidia　《紐約時報》再羅列18宗罪追擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200664490316664832315429.png/8K_No18pfG6hCNCPG3p4_42xAydMSpbGRcz4UUXM-FE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413340/%E6%9D%8E%E5%BC%B7%E6%99%A4%E6%BE%B3%E6%B4%B2%E7%B8%BD%E7%90%86%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E6%96%AF-%E6%8C%87%E9%A1%98%E5%90%8C%E6%BE%B3%E6%96%B9%E6%8E%A8%E5%8B%95ai%E7%AD%89%E6%96%B0%E8%88%88%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E4%BA%AE%E9%BB%9E",
     "timestamp": "2026-11-20T21:19:00.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李強晤澳洲總理阿爾巴尼斯　指願同澳方推動AI等新興領域合作亮點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200664490316664832315429.png/8K_No18pfG6hCNCPG3p4_42xAydMSpbGRcz4UUXM-FE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413340/%E6%9D%8E%E5%BC%B7%E6%99%A4%E6%BE%B3%E6%B4%B2%E7%B8%BD%E7%90%86%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E6%96%AF-%E6%8C%87%E9%A1%98%E5%90%8C%E6%BE%B3%E6%96%B9%E6%8E%A8%E5%8B%95ai%E7%AD%89%E6%96%B0%E8%88%88%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E4%BA%AE%E9%BB%9E",
-    "timestamp": "2026-11-20T20:59:09.576Z",
     "strategy": ".content-card__main"
   }
 ];
