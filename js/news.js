@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T13:29:46.137Z
+// Last updated: 2026-11-21T13:45:01.413Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王菲攜竇靖童李嫣唱《愛笑的天使》　聲線太似網民驚嘆：三個王菲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200804176410447872913287.jpeg/cDzUO6WotZIuGulTeqyjnlfERnUvawBb17TYyNe02Mg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60413388/%E7%8E%8B%E8%8F%B2%E6%94%9C%E7%AB%87%E9%9D%96%E7%AB%A5%E6%9D%8E%E5%AB%A3%E5%94%B1-%E6%84%9B%E7%AC%91%E7%9A%84%E5%A4%A9%E4%BD%BF-%E8%81%B2%E7%B7%9A%E5%A4%AA%E4%BC%BC%E7%B6%B2%E6%B0%91%E9%A9%9A%E5%98%86-%E4%B8%89%E5%80%8B%E7%8E%8B%E8%8F%B2",
+    "timestamp": "2026-11-21T13:45:01.413Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方力申渡海｜體育學者分析︰消耗如跑兩次馬拉松　兩原因順利挑戰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200833194295824384681345.jpeg/zOp-WuNNCbr8Irl88ZEv8mWD_ma3oPMPoABpdqAAaXY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413433/%E6%9D%8E%E5%AD%90%E6%9F%92%E7%95%B6%E9%81%B8%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%96%87%E8%81%AF%E5%89%AF%E4%B8%BB%E5%B8%AD-%E8%A6%AA%E6%8F%AD%E8%BF%91%E6%B3%81-%E5%9C%A8%E6%8B%8D%E7%B4%80%E9%8C%84%E7%89%87%E5%92%8C%E9%99%AA%E5%A5%B6%E5%A5%B6",
     "timestamp": "2026-11-21T08:22:05.848Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "斯洛伐克舞蹈團東京神社拍跳舞片捱轟　駐日大使館急致歉｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200834672028815360580436.jpeg/_Xw-UKTBUvSlrSL9--hunQryOL-Ic2EQZ_dJIGf3SSA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413428/%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E8%88%9E%E8%B9%88%E5%9C%98%E6%9D%B1%E4%BA%AC%E7%A5%9E%E7%A4%BE%E6%8B%8D%E8%B7%B3%E8%88%9E%E7%89%87%E6%8D%B1%E8%BD%9F-%E9%A7%90%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A4%A8%E6%80%A5%E8%87%B4%E6%AD%89-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-21T07:59:10.418Z",
     "strategy": ".content-card__main"
   }
 ];
