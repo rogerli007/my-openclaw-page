@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T15:59:06.589Z
+// Last updated: 2026-11-21T16:19:50.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026電動車能耗排行！屋企無叉電位點揀好？平治、Tesla各有千秋",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200514225106063360258013.jpeg/Uig5adU2QFywPpmLC5JeWj0WqG--SuyN-rCz8vqws_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60413232/2026%E9%9B%BB%E5%8B%95%E8%BB%8A%E8%83%BD%E8%80%97%E6%8E%92%E8%A1%8C-%E5%B1%8B%E4%BC%81%E7%84%A1%E5%8F%89%E9%9B%BB%E4%BD%8D%E9%BB%9E%E6%8F%80%E5%A5%BD-%E5%B9%B3%E6%B2%BB-tesla%E5%90%84%E6%9C%89%E5%8D%83%E7%A7%8B",
+    "timestamp": "2026-11-21T16:19:50.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葵涌道葵芳廣場外九巴疑車轆起火冒煙　乘客：差啲以為自己會燒死",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200877194377695232098347.jpeg/B2xS4SXbSAi4HJFCocIsU_9Oh7u8SQxQF3RmcRd0ZnE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413488/%E6%AF%85%E8%A1%8C%E8%80%85-71%E6%AD%B2%E5%91%A8%E6%BD%A4%E7%99%BC6%E5%B0%8F%E6%99%8223%E5%88%86%E5%AE%8C%E6%88%9020%E5%85%AC%E9%87%8C%E8%B3%BD-%E4%B8%8D%E6%96%B7%E8%90%BD%E6%96%9C%E8%86%9D%E8%93%8B%E6%84%9F%E5%90%83%E5%8A%9B",
     "timestamp": "2026-11-21T10:59:05.591Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "順豐速運被指涉違規　軍方：暫停參加全軍物資工程和服務採購活動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220311/579001302554906624402958.jpeg/A-qPEF-rJ5ver4zT9yVcnuXD8tceRXBe8NzHfOrcx3w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413505/%E9%A0%86%E8%B1%90%E9%80%9F%E9%81%8B%E8%A2%AB%E6%8C%87%E6%B6%89%E9%81%95%E8%A6%8F-%E8%BB%8D%E6%96%B9-%E6%9A%AB%E5%81%9C%E5%8F%83%E5%8A%A0%E5%85%A8%E8%BB%8D%E7%89%A9%E8%B3%87%E5%B7%A5%E7%A8%8B%E5%92%8C%E6%9C%8D%E5%8B%99%E6%8E%A1%E8%B3%BC%E6%B4%BB%E5%8B%95",
-    "timestamp": "2026-11-21T10:45:19.854Z",
     "strategy": ".content-card__main"
   }
 ];
