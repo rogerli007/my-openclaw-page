@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T08:59:01.408Z
+// Last updated: 2026-11-21T09:20:07.322Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新型詐騙｜廣州女誤信｢訂婚請喝奶茶｣帖文　1小時被騙逾1.4萬元",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200851846327963648023984.jpeg/uNmASyu7uWaXRKd7NVOxmT2ZeYNvFgqE5XlNMeV5TTE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413449/%E6%96%B0%E5%9E%8B%E8%A9%90%E9%A8%99-%E5%BB%A3%E5%B7%9E%E5%A5%B3%E8%AA%A4%E4%BF%A1-%E8%A8%82%E5%A9%9A%E8%AB%8B%E5%96%9D%E5%A5%B6%E8%8C%B6-%E5%B8%96%E6%96%87-1%E5%B0%8F%E6%99%82%E8%A2%AB%E9%A8%99%E9%80%BE1-4%E8%90%AC%E5%85%83",
+    "timestamp": "2026-11-21T09:20:07.322Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "APEC秘書長見證香港青聯青企聯手　推師友計劃助港青拓展亞太網絡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200082026821062656814793.jpeg/3qvGgQ49FYYSr2-xW2etskz40f5kC0Hk8Gd9O_BnfTs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412606/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E5%91%A8%E6%BC%94%E6%A3%AE%E5%B0%8F%E5%AD%B8%E5%91%88%E5%88%86%E8%A9%A6%E7%96%91%E9%80%9A%E6%B0%B4-%E6%A0%A1%E6%96%B9%E6%8C%87%E5%90%84%E7%8F%AD%E6%BA%AB%E7%BF%92%E5%B7%AE%E7%95%B0-%E6%AF%8B%E9%A0%88%E9%87%8D%E8%80%83",
     "timestamp": "2026-11-21T02:23:33.538Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "冬天穿高領毛衣頭暈頭痛？可能是衣領綜合症　5類人不宜穿樽領衫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192870919882674176238469.jpeg/L1LQAEl_zcE9j7N5FiKRQgUeP8xjsYArr0Hz569B8-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60306124/%E5%86%AC%E5%A4%A9%E7%A9%BF%E9%AB%98%E9%A0%98%E6%AF%9B%E8%A1%A3%E9%A0%AD%E6%9A%88%E9%A0%AD%E7%97%9B-%E5%8F%AF%E8%83%BD%E6%98%AF%E8%A1%A3%E9%A0%98%E7%B6%9C%E5%90%88%E7%97%87-5%E9%A1%9E%E4%BA%BA%E4%B8%8D%E5%AE%9C%E7%A9%BF%E6%A8%BD%E9%A0%98%E8%A1%AB",
-    "timestamp": "2026-11-21T01:48:11.572Z",
     "strategy": ".content-card__main"
   }
 ];
