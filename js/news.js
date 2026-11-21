@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T02:58:58.937Z
+// Last updated: 2026-11-21T03:21:52.201Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩種「頭肩頂」會否易混淆　京東案例解說清晰易明｜聶振邦",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152319283301191680740918.jpeg/AgGi5lSHMINFk3tUdLaDz2uuVDHz-wcz7KQfmOykH5g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413376/%E5%85%A9%E7%A8%AE-%E9%A0%AD%E8%82%A9%E9%A0%82-%E6%9C%83%E5%90%A6%E6%98%93%E6%B7%B7%E6%B7%86-%E4%BA%AC%E6%9D%B1%E6%A1%88%E4%BE%8B%E8%A7%A3%E8%AA%AA%E6%B8%85%E6%99%B0%E6%98%93%E6%98%8E-%E8%81%B6%E6%8C%AF%E9%82%A6",
+    "timestamp": "2026-11-21T03:21:52.201Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普對獲習近平接機深感榮幸　讚深圳乾淨批美國城市骯髒｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200664490316664832315429.png/8K_No18pfG6hCNCPG3p4_42xAydMSpbGRcz4UUXM-FE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413340/%E6%9D%8E%E5%BC%B7%E6%99%A4%E6%BE%B3%E6%B4%B2%E7%B8%BD%E7%90%86%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E6%96%AF-%E6%8C%87%E9%A1%98%E5%90%8C%E6%BE%B3%E6%96%B9%E6%8E%A8%E5%8B%95ai%E7%AD%89%E6%96%B0%E8%88%88%E9%A0%98%E5%9F%9F%E5%90%88%E4%BD%9C%E4%BA%AE%E9%BB%9E",
     "timestamp": "2026-11-20T20:45:07.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普指普京明確表達結束戰爭意願　未達協議前不談烏安全保證",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200092780735500288395864.jpeg/ZqT7VP6YTj5-FvQkqPyoxsi6jc1jChzoZteCCWbXggk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413338/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E6%99%AE%E4%BA%AC%E6%98%8E%E7%A2%BA%E8%A1%A8%E9%81%94%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E6%84%8F%E9%A1%98-%E6%9C%AA%E9%81%94%E5%8D%94%E8%AD%B0%E5%89%8D%E4%B8%8D%E8%AB%87%E7%83%8F%E5%AE%89%E5%85%A8%E4%BF%9D%E8%AD%89",
-    "timestamp": "2026-11-20T20:19:47.667Z",
     "strategy": ".content-card__main"
   }
 ];
