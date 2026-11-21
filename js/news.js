@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T12:36:14.021Z
+// Last updated: 2026-11-21T12:59:14.242Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方力申完成35公里港澳橫渡無縫接力直奔開騷　台上中氣十足零疲態",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200915449332633600124036.jpeg/vNlKqbm37gf3RqpQWhyXu83JiMgCtFXhFwCwJRcAsCU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413531/%E6%96%B9%E5%8A%9B%E7%94%B3%E5%AE%8C%E6%88%9035%E5%85%AC%E9%87%8C%E6%B8%AF%E6%BE%B3%E6%A9%AB%E6%B8%A1%E7%84%A1%E7%B8%AB%E6%8E%A5%E5%8A%9B%E7%9B%B4%E5%A5%94%E9%96%8B%E9%A8%B7-%E5%8F%B0%E4%B8%8A%E4%B8%AD%E6%B0%A3%E5%8D%81%E8%B6%B3%E9%9B%B6%E7%96%B2%E6%85%8B",
+    "timestamp": "2026-11-21T12:59:14.242Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Anthropic CEO阿莫迪：最怕AI危害世界的人親手締造萬億IPO",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200825303505571840824039.jpeg/ZR4JVmJ0NO-RYym9Kiw9ehv_mTeoX-TzaeGcj2nhnI8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413427/spacex%E6%8A%B5%E6%8A%BCai%E6%99%B6%E7%89%87%E5%80%9F3354%E5%84%84%E6%B8%AF%E5%85%83-%E5%82%B3%E8%B2%B8%E6%AC%BE%E6%96%B9%E7%A6%81%E9%A6%AC%E6%96%AF%E5%85%8B%E9%80%81%E6%99%B6%E7%89%87%E4%B8%8A%E5%A4%AA%E7%A9%BA",
     "timestamp": "2026-11-21T07:19:50.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金價跳水民眾瘋買　深圳水貝排單到3天後　商戶慘蝕4萬嘆摸不準底",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200818773615972352481092.jpeg/1Ba0KcjN2y4NORo-OmLJVR84jpoBiWGOT1m91k9ZvdY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413413/%E9%87%91%E5%83%B9%E8%B7%B3%E6%B0%B4%E6%B0%91%E7%9C%BE%E7%98%8B%E8%B2%B7-%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B2%9D%E6%8E%92%E5%96%AE%E5%88%B03%E5%A4%A9%E5%BE%8C-%E5%95%86%E6%88%B6%E6%85%98%E8%9D%954%E8%90%AC%E5%98%86%E6%91%B8%E4%B8%8D%E6%BA%96%E5%BA%95",
-    "timestamp": "2026-11-21T06:59:12.281Z",
     "strategy": ".content-card__main"
   }
 ];
