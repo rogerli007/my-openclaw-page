@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T21:39:15.014Z
+// Last updated: 2026-11-21T21:59:15.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "巴林民用工業設施遭伊朗襲擊起火　政府指防空系統攔截多次攻擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201047153451995136106453.png/7rME5cUR894ujX36fAZNNjEHHZyUUFtkub5vUbm-b1E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413563/%E5%B7%B4%E6%9E%97%E6%B0%91%E7%94%A8%E5%B7%A5%E6%A5%AD%E8%A8%AD%E6%96%BD%E9%81%AD%E4%BC%8A%E6%9C%97%E8%A5%B2%E6%93%8A%E8%B5%B7%E7%81%AB-%E6%94%BF%E5%BA%9C%E6%8C%87%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%B5%B1%E6%94%94%E6%88%AA%E5%A4%9A%E6%AC%A1%E6%94%BB%E6%93%8A",
+    "timestamp": "2026-11-21T21:59:15.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警東九龍設路障扣留2車　2司機分別涉不小心駕駛和醉駕被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200955607226519552481036.jpeg/wmZMznv0nywN-9rgo8xAsoy-9lCAjy6ccFIu4HBSLuA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413545/%E5%8F%B0%E6%85%B6%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3%E8%87%B4%E6%95%AC%E9%9F%93%E5%9C%8B%E7%B6%93%E5%85%B8%E8%88%9E%E6%AD%A5-%E9%9F%93%E5%9C%8B%E7%B6%B2%E6%B0%91%E8%AE%9A%E5%B0%8F%E8%88%9E%E8%B9%88%E5%93%A1%E5%8B%81%E7%88%86%E7%9D%87%E4%B8%8A%E7%99%AE",
     "timestamp": "2026-11-21T15:44:58.153Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣工廈20歲男暈倒　當場不治",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200949590690369536485603.jpeg/Xt3vAUs5lJgYZEMU2fR5LQ_8_wct1iwSqJ6yOaiesjk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413543/%E8%8D%83%E7%81%A3%E5%B7%A5%E5%BB%8820%E6%AD%B2%E7%94%B7%E6%9A%88%E5%80%92-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB",
-    "timestamp": "2026-11-21T15:29:29.235Z",
     "strategy": ".content-card__main"
   }
 ];
