@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T17:29:19.355Z
+// Last updated: 2026-11-21T17:45:03.841Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀談錯失百萬獎金：因父親反對而放棄參選亞姐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200478881392365568451098.jpeg/pBadLFTLC6Z9MWh9vkNXaGKnCGBhVfjzoWHWBqFh1gY",
+    "url": "https://www.hk01.com/01TV/60413183/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AB%87%E9%8C%AF%E5%A4%B1%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E5%9B%A0%E7%88%B6%E8%A6%AA%E5%8F%8D%E5%B0%8D%E8%80%8C%E6%94%BE%E6%A3%84%E5%8F%83%E9%81%B8%E4%BA%9E%E5%A7%90",
+    "timestamp": "2026-11-21T17:45:03.841Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀談錯失百萬獎金：因父親反對而放棄參選亞姐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200203250637213696084275.png/ptOM4hizdPHcZCbDdNLbXb3KpgwXNiNredntWXnZ7Vk",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413518/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4%E9%A4%90%E5%BB%B3%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%A2%AE%E6%A8%93%E9%9A%AA%E7%A0%B8%E9%80%94%E4%BA%BA-%E8%81%B7%E5%93%A1%E5%A0%B1%E6%A1%88-%E8%AD%A6%E8%80%83%E6%85%AE%E7%A5%A8%E6%8E%A7-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-21T11:59:07.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方力申渡海泳至澳門｜回顧心路歷程︰腳掌失知覺、憂暈低遭遇不測",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200843373309595648570348.jpeg/lj_379Ha9Cq2PK1Ko7cz3TlyUe9l4LrhmJZQH5iWUB8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413507/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%A1%E6%B5%B7%E6%B3%B3%E8%87%B3%E6%BE%B3%E9%96%80-%E5%9B%9E%E9%A1%A7%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B-%E8%85%B3%E6%8E%8C%E5%A4%B1%E7%9F%A5%E8%A6%BA-%E6%86%82%E6%9A%88%E4%BD%8E%E9%81%AD%E9%81%87%E4%B8%8D%E6%B8%AC",
-    "timestamp": "2026-11-21T11:45:03.999Z",
     "strategy": ".content-card__main"
   }
 ];
