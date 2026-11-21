@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T11:45:03.999Z
+// Last updated: 2026-11-21T11:59:07.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "將軍澳廣場餐廳垃圾桶墮樓險砸途人　職員報案　警考慮票控｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200203250637213696084275.png/ptOM4hizdPHcZCbDdNLbXb3KpgwXNiNredntWXnZ7Vk",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413518/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4%E9%A4%90%E5%BB%B3%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%A2%AE%E6%A8%93%E9%9A%AA%E7%A0%B8%E9%80%94%E4%BA%BA-%E8%81%B7%E5%93%A1%E5%A0%B1%E6%A1%88-%E8%AD%A6%E8%80%83%E6%85%AE%E7%A5%A8%E6%8E%A7-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-21T11:59:07.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方力申渡海泳至澳門｜回顧心路歷程︰腳掌失知覺、憂暈低遭遇不測",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200796256369119232520438.png/j53HUwoIXTt4MceWdWJRRZWk3-Ri-PwnJjDutCYw7rQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60413397/%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8B%A4%E5%8A%9B%E9%99%A4%E8%8D%89%E5%93%A1%E8%83%83%E5%8F%A3%E5%A4%AA%E5%A5%BD-jr%E6%9D%B1%E7%89%B9%E8%81%98%E5%B1%B1%E7%BE%8A%E9%A3%9F%E6%9B%AC%E9%9B%9C%E8%8D%89%E6%8F%90%E5%89%8D%E9%80%80%E4%BC%91-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-21T05:19:58.093Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方力申港澳慈善游今早9時起步　至中午奮戰逾十公里　未見疲態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200785612769071104814792.jpeg/hHq_TfjffFcEkBrreTESePS-Bn-hvBTzwI03JMCNNyQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413389/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%AF%E6%BE%B3%E6%85%88%E5%96%84%E6%B8%B8%E4%BB%8A%E6%97%A99%E6%99%82%E8%B5%B7%E6%AD%A5-%E8%87%B3%E4%B8%AD%E5%8D%88%E5%A5%AE%E6%88%B0%E9%80%BE%E5%8D%81%E5%85%AC%E9%87%8C-%E6%9C%AA%E8%A6%8B%E7%96%B2%E6%85%8B",
-    "timestamp": "2026-11-21T04:59:06.940Z",
     "strategy": ".content-card__main"
   }
 ];
