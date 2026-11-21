@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T18:59:10.337Z
+// Last updated: 2026-11-21T19:17:51.434Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀稱霸90年代廣告圈：拍兩日廣告等於秘書整月薪水",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200853237670875136526087.jpeg/lwDnhxw8GUj5RW_h0WRL4wONhfuBSOsmuUIMcblCDHE",
+    "url": "https://www.hk01.com/01TV/60413461/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%A8%B1%E9%9C%B890%E5%B9%B4%E4%BB%A3%E5%BB%A3%E5%91%8A%E5%9C%88-%E6%8B%8D%E5%85%A9%E6%97%A5%E5%BB%A3%E5%91%8A%E7%AD%89%E6%96%BC%E7%A7%98%E6%9B%B8%E6%95%B4%E6%9C%88%E8%96%AA%E6%B0%B4",
+    "timestamp": "2026-11-21T19:17:51.434Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "凱特王妃抗癌紀錄片《Heal》將播出　挑戰攀登三峰分享康復歷程",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200784524015833088125864.jpeg/LAuKvMcTvvLW0dw44XslRHHS_p_M4PmggzHzI4Mx8yM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413468/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%A1%E6%B5%B7-%E9%AB%94%E8%82%B2%E5%AD%B8%E8%80%85%E5%88%86%E6%9E%90-%E6%B6%88%E8%80%97%E5%A6%82%E8%B7%91%E5%85%A9%E6%AC%A1%E9%A6%AC%E6%8B%89%E6%9D%BE-%E5%85%A9%E5%8E%9F%E5%9B%A0%E9%A0%86%E5%88%A9%E6%8C%91%E6%88%B0",
     "timestamp": "2026-11-21T13:18:55.611Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "方力申完成35公里港澳橫渡無縫接力直奔開騷　台上中氣十足零疲態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200915449332633600124036.jpeg/vNlKqbm37gf3RqpQWhyXu83JiMgCtFXhFwCwJRcAsCU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413531/%E6%96%B9%E5%8A%9B%E7%94%B3%E5%AE%8C%E6%88%9035%E5%85%AC%E9%87%8C%E6%B8%AF%E6%BE%B3%E6%A9%AB%E6%B8%A1%E7%84%A1%E7%B8%AB%E6%8E%A5%E5%8A%9B%E7%9B%B4%E5%A5%94%E9%96%8B%E9%A8%B7-%E5%8F%B0%E4%B8%8A%E4%B8%AD%E6%B0%A3%E5%8D%81%E8%B6%B3%E9%9B%B6%E7%96%B2%E6%85%8B",
-    "timestamp": "2026-11-21T12:59:14.242Z",
     "strategy": ".content-card__main"
   }
 ];
