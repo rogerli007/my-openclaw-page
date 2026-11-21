@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T10:59:05.591Z
+// Last updated: 2026-11-21T11:18:38.501Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周潤發首戰毅行者逾6小時完走20公里　「辛苦到不得了」｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200859437691047936816750.jpeg/e0r5dgg1oQaZpjGoAs7EFMFIDJBAtu9cG-MHqBvjB6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413435/%E5%91%A8%E6%BD%A4%E7%99%BC%E9%A6%96%E6%88%B0%E6%AF%85%E8%A1%8C%E8%80%85%E9%80%BE6%E5%B0%8F%E6%99%82%E5%AE%8C%E8%B5%B020%E5%85%AC%E9%87%8C-%E8%BE%9B%E8%8B%A6%E5%88%B0%E4%B8%8D%E5%BE%97%E4%BA%86-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-21T11:18:38.501Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "毅行者｜71歲周潤發6小時23分完成20公里賽︰不斷落斜膝蓋感吃力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260629/1148319707284115456139526.jpeg/gbktmAdJNooo5jlBHuVlPmkbqFOc9-KtCc1C6AnNQug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413395/apec%E6%B7%B1%E5%9C%B3-%E4%B8%98%E6%87%89%E6%A8%BA%E7%A8%B1%E6%B7%B1%E5%9C%B3%E5%B3%B0%E6%9C%83%E8%88%87%E6%B8%AF%E8%B2%A1%E6%9C%83%E5%8F%96%E5%BE%97%E6%88%90%E5%8A%9F-%E5%85%A9%E5%9C%B0%E7%9B%B8%E8%BC%94%E7%9B%B8%E6%88%90",
     "timestamp": "2026-11-21T04:21:42.054Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "樓宇維修圍標擬刑事化　丘應樺指不排除引吹哨者寬待機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118703063256010752019376.jpeg/V-OZlC93Rf8Tq5Vybz9hc675pyuP2EVUb2Ty9nVk8vY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413381/%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E5%9C%8D%E6%A8%99%E6%93%AC%E5%88%91%E4%BA%8B%E5%8C%96-%E4%B8%98%E6%87%89%E6%A8%BA%E6%8C%87%E4%B8%8D%E6%8E%92%E9%99%A4%E5%BC%95%E5%90%B9%E5%93%A8%E8%80%85%E5%AF%AC%E5%BE%85%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-11-21T03:59:06.355Z",
     "strategy": ".content-card__main"
   }
 ];
