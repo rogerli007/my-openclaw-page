@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T09:45:23.329Z
+// Last updated: 2026-11-21T09:59:02.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜消防處檢控中華發展董事　涉虛假文書　明年1月提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200815861124829184374908.jpeg/97nUTPchQomciHqGjHtAI2-lX6FUSk4ow-VbnOblW5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413416/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%B6%88%E9%98%B2%E8%99%95%E6%AA%A2%E6%8E%A7%E4%B8%AD%E8%8F%AF%E7%99%BC%E5%B1%95%E8%91%A3%E4%BA%8B-%E6%B6%89%E8%99%9B%E5%81%87%E6%96%87%E6%9B%B8-%E6%98%8E%E5%B9%B41%E6%9C%88%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-11-21T09:59:02.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周潤發睇BIGBANG獲GD點名致謝　爆無得揸機自拍：我自己機都唔得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200757568956272640345827.jpeg/Cvt8ZEuJGtkSSAXHcyLkd6YUUdVDGmKfiPdB8Ij3QfA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413365/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E7%8D%B2%E7%BF%92%E8%BF%91%E5%B9%B3%E6%8E%A5%E6%A9%9F%E6%B7%B1%E6%84%9F%E6%A6%AE%E5%B9%B8-%E8%AE%9A%E6%B7%B1%E5%9C%B3%E4%B9%BE%E6%B7%A8%E6%89%B9%E7%BE%8E%E5%9C%8B%E5%9F%8E%E5%B8%82%E9%AA%AF%E9%AB%92-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-21T02:58:58.937Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "易烊千璽6大反差萌！鍾情粉色愛玩核桃　曾兼職送外賣接6單全超時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200107348371181568986145.png/3E5Os9Ot6jYFvXnTMoWkFJIWLqpWCAT-vQtiSL0LYkg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60412583/%E6%98%93%E7%83%8A%E5%8D%83%E7%92%BD6%E5%A4%A7%E5%8F%8D%E5%B7%AE%E8%90%8C-%E9%8D%BE%E6%83%85%E7%B2%89%E8%89%B2%E6%84%9B%E7%8E%A9%E6%A0%B8%E6%A1%83-%E6%9B%BE%E5%85%BC%E8%81%B7%E9%80%81%E5%A4%96%E8%B3%A3%E6%8E%A56%E5%96%AE%E5%85%A8%E8%B6%85%E6%99%82",
-    "timestamp": "2026-11-21T02:35:27.787Z",
     "strategy": ".content-card__main"
   }
 ];
