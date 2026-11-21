@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T04:45:26.164Z
+// Last updated: 2026-11-21T04:59:06.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "方力申港澳慈善游今早9時起步　至中午奮戰逾十公里　未見疲態",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200785612769071104814792.jpeg/hHq_TfjffFcEkBrreTESePS-Bn-hvBTzwI03JMCNNyQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413389/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%AF%E6%BE%B3%E6%85%88%E5%96%84%E6%B8%B8%E4%BB%8A%E6%97%A99%E6%99%82%E8%B5%B7%E6%AD%A5-%E8%87%B3%E4%B8%AD%E5%8D%88%E5%A5%AE%E6%88%B0%E9%80%BE%E5%8D%81%E5%85%AC%E9%87%8C-%E6%9C%AA%E8%A6%8B%E7%96%B2%E6%85%8B",
+    "timestamp": "2026-11-21T04:59:06.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "方力申港澳慈善游今早9時起步　至中午奮戰逾十公里　未見疲態",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200056618016837632360498.png/UD_5TLgruUHbzs-Qm56qh--CX8orRQp7toyCCraMggo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412484/%E6%AD%A6%E6%BC%A263%E6%AD%B2%E5%A9%A6%E9%95%B7%E6%B1%9F%E8%BC%95%E7%94%9F-23%E6%AD%B2%E5%A5%B3%E8%AD%A6%E6%9A%97%E4%B8%AD%E5%AE%88%E5%80%9920%E5%88%86%E9%90%98-%E8%A1%9D%E6%B1%9F%E4%B8%AD%E6%89%AF%E8%A1%A3%E9%A0%98%E6%95%91%E4%BA%BA",
     "timestamp": "2026-11-20T22:29:56.183Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "武漢63歲婦長江輕生　23歲女警暗中守候20分鐘　衝江中扯衣領救人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200056618016837632360498.png/UD_5TLgruUHbzs-Qm56qh--CX8orRQp7toyCCraMggo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412484/%E6%AD%A6%E6%BC%A263%E6%AD%B2%E5%A9%A6%E9%95%B7%E6%B1%9F%E8%BC%95%E7%94%9F-23%E6%AD%B2%E5%A5%B3%E8%AD%A6%E6%9A%97%E4%B8%AD%E5%AE%88%E5%80%9920%E5%88%86%E9%90%98-%E8%A1%9D%E6%B1%9F%E4%B8%AD%E6%89%AF%E8%A1%A3%E9%A0%98%E6%95%91%E4%BA%BA",
-    "timestamp": "2026-11-20T22:19:12.402Z",
     "strategy": ".content-card__main"
   }
 ];
