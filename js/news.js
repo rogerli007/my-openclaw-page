@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T01:48:11.572Z
+// Last updated: 2026-11-21T02:23:33.538Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東華三院周演森小學呈分試疑通水　校方指各班溫習差異　毋須重考",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200082026821062656814793.jpeg/3qvGgQ49FYYSr2-xW2etskz40f5kC0Hk8Gd9O_BnfTs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412606/%E6%9D%B1%E8%8F%AF%E4%B8%89%E9%99%A2%E5%91%A8%E6%BC%94%E6%A3%AE%E5%B0%8F%E5%AD%B8%E5%91%88%E5%88%86%E8%A9%A6%E7%96%91%E9%80%9A%E6%B0%B4-%E6%A0%A1%E6%96%B9%E6%8C%87%E5%90%84%E7%8F%AD%E6%BA%AB%E7%BF%92%E5%B7%AE%E7%95%B0-%E6%AF%8B%E9%A0%88%E9%87%8D%E8%80%83",
+    "timestamp": "2026-11-21T02:23:33.538Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "冬天穿高領毛衣頭暈頭痛？可能是衣領綜合症　5類人不宜穿樽領衫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200092780735500288395864.jpeg/ZqT7VP6YTj5-FvQkqPyoxsi6jc1jChzoZteCCWbXggk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413338/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E6%99%AE%E4%BA%AC%E6%98%8E%E7%A2%BA%E8%A1%A8%E9%81%94%E7%B5%90%E6%9D%9F%E6%88%B0%E7%88%AD%E6%84%8F%E9%A1%98-%E6%9C%AA%E9%81%94%E5%8D%94%E8%AD%B0%E5%89%8D%E4%B8%8D%E8%AB%87%E7%83%8F%E5%AE%89%E5%85%A8%E4%BF%9D%E8%AD%89",
     "timestamp": "2026-11-20T19:45:10.319Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：企業海外建數據中心將被徵巨額稅　中美同意設AI防護機制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200633165870272512129856.jpeg/CJfDCqUPkBcQRt-SsbZMfwyORY3yQ5KNpwLq96cC6vc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413336/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BC%81%E6%A5%AD%E6%B5%B7%E5%A4%96%E5%BB%BA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%B0%87%E8%A2%AB%E5%BE%B5%E5%B7%A8%E9%A1%8D%E7%A8%85-%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E8%A8%ADai%E9%98%B2%E8%AD%B7%E6%A9%9F%E5%88%B6",
-    "timestamp": "2026-11-20T19:18:53.645Z",
     "strategy": ".content-card__main"
   }
 ];
