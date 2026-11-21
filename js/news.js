@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T12:23:57.067Z
+// Last updated: 2026-11-21T12:36:14.021Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Anthropic CEO阿莫迪：最怕AI危害世界的人親手締造萬億IPO",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200907564418600960851634.jpeg/07TrpV9crg8YYRMt5Y4z93wLpesVjpQtjaRfJY2kXyU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413455/anthropic-ceo%E9%98%BF%E8%8E%AB%E8%BF%AA-%E6%9C%80%E6%80%95ai%E5%8D%B1%E5%AE%B3%E4%B8%96%E7%95%8C%E7%9A%84%E4%BA%BA%E8%A6%AA%E6%89%8B%E7%B7%A0%E9%80%A0%E8%90%AC%E5%84%84ipo",
+    "timestamp": "2026-11-21T12:36:14.021Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德甲｜卡尼重創後手術成功料缺陣3個月　拜仁鬥護級隊失分兼折兵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200818773615972352481092.jpeg/1Ba0KcjN2y4NORo-OmLJVR84jpoBiWGOT1m91k9ZvdY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413413/%E9%87%91%E5%83%B9%E8%B7%B3%E6%B0%B4%E6%B0%91%E7%9C%BE%E7%98%8B%E8%B2%B7-%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B2%9D%E6%8E%92%E5%96%AE%E5%88%B03%E5%A4%A9%E5%BE%8C-%E5%95%86%E6%88%B6%E6%85%98%E8%9D%954%E8%90%AC%E5%98%86%E6%91%B8%E4%B8%8D%E6%BA%96%E5%BA%95",
     "timestamp": "2026-11-21T06:59:12.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《賭聖》原定李力持執導但嫌片酬少　劉鎮偉︰佢係堅持多嗰少到……",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200778718444785664975328.jpeg/G4D7job2Bwe_03cR09vD0xQPVr0byfp9TpoZHU6aGR0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413380/%E8%B3%AD%E8%81%96-%E5%8E%9F%E5%AE%9A%E6%9D%8E%E5%8A%9B%E6%8C%81%E5%9F%B7%E5%B0%8E%E4%BD%86%E5%AB%8C%E7%89%87%E9%85%AC%E5%B0%91-%E5%8A%89%E9%8E%AE%E5%81%89-%E4%BD%A2%E4%BF%82%E5%A0%85%E6%8C%81%E5%A4%9A%E5%97%B0%E5%B0%91%E5%88%B0",
-    "timestamp": "2026-11-21T05:45:31.628Z",
     "strategy": ".content-card__main"
   }
 ];
