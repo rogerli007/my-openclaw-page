@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T13:59:05.227Z
+// Last updated: 2026-11-21T14:19:22.742Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跟風旅行團｜杜如風激讚4萬圜死前必食Pizza　貪玩玩出火跪地求饒",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200879492323610624723490.jpeg/dlJ6DB6CBQvBwHFyKIWCrDFuTGU2gsbpfHWDAnx1gwI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413504/%E8%B7%9F%E9%A2%A8%E6%97%85%E8%A1%8C%E5%9C%98-%E6%9D%9C%E5%A6%82%E9%A2%A8%E6%BF%80%E8%AE%9A4%E8%90%AC%E5%9C%9C%E6%AD%BB%E5%89%8D%E5%BF%85%E9%A3%9Fpizza-%E8%B2%AA%E7%8E%A9%E7%8E%A9%E5%87%BA%E7%81%AB%E8%B7%AA%E5%9C%B0%E6%B1%82%E9%A5%92",
+    "timestamp": "2026-11-21T14:19:22.742Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "環球資產拋售潮　股市以外金銅價也暴跌　加密貨幣29萬人「爆倉」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200842501599006720167950.jpeg/YiQFQZsGY8eZsfjskcI_NUIhA-ANDsek2-ze3tvs3t4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413460/apec%E7%A7%98%E6%9B%B8%E9%95%B7%E8%A6%8B%E8%AD%89%E9%A6%99%E6%B8%AF%E9%9D%92%E8%81%AF%E9%9D%92%E4%BC%81%E8%81%AF%E6%89%8B-%E6%8E%A8%E5%B8%AB%E5%8F%8B%E8%A8%88%E5%8A%83%E5%8A%A9%E6%B8%AF%E9%9D%92%E6%8B%93%E5%B1%95%E4%BA%9E%E5%A4%AA%E7%B6%B2%E7%B5%A1",
     "timestamp": "2026-11-21T08:59:01.408Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "選委會選舉明日舉行　31組別856人爭723席　李家超視察票站打氣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200845930341863424263754.jpeg/AVI4WPgG-7t6HbGTOI8Gy5DME-Al0qcjsxnupLMZ7qQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413447/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89%E6%98%8E%E6%97%A5%E8%88%89%E8%A1%8C-31%E7%B5%84%E5%88%A5856%E4%BA%BA%E7%88%AD723%E5%B8%AD-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%A6%96%E5%AF%9F%E7%A5%A8%E7%AB%99%E6%89%93%E6%B0%A3",
-    "timestamp": "2026-11-21T08:33:05.824Z",
     "strategy": ".content-card__main"
   }
 ];
