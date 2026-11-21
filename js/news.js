@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T10:45:19.854Z
+// Last updated: 2026-11-21T10:59:05.591Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "毅行者｜71歲周潤發6小時23分完成20公里賽︰不斷落斜膝蓋感吃力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200877194377695232098347.jpeg/B2xS4SXbSAi4HJFCocIsU_9Oh7u8SQxQF3RmcRd0ZnE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413488/%E6%AF%85%E8%A1%8C%E8%80%85-71%E6%AD%B2%E5%91%A8%E6%BD%A4%E7%99%BC6%E5%B0%8F%E6%99%8223%E5%88%86%E5%AE%8C%E6%88%9020%E5%85%AC%E9%87%8C%E8%B3%BD-%E4%B8%8D%E6%96%B7%E8%90%BD%E6%96%9C%E8%86%9D%E8%93%8B%E6%84%9F%E5%90%83%E5%8A%9B",
+    "timestamp": "2026-11-21T10:59:05.591Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "順豐速運被指涉違規　軍方：暫停參加全軍物資工程和服務採購活動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260409/1118703063256010752019376.jpeg/V-OZlC93Rf8Tq5Vybz9hc675pyuP2EVUb2Ty9nVk8vY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413381/%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E5%9C%8D%E6%A8%99%E6%93%AC%E5%88%91%E4%BA%8B%E5%8C%96-%E4%B8%98%E6%87%89%E6%A8%BA%E6%8C%87%E4%B8%8D%E6%8E%92%E9%99%A4%E5%BC%95%E5%90%B9%E5%93%A8%E8%80%85%E5%AF%AC%E5%BE%85%E6%A9%9F%E5%88%B6",
     "timestamp": "2026-11-21T03:59:06.355Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄軍導彈墜入波蘭　距歐洲多國軍演僅50公里　華沙斥蓄意挑釁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200766029949702144532710.png/vdsi6zwCkZSW1gqhijTEzknjDMbOcaFrmctOuZnLTrk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413382/%E4%BF%84%E8%BB%8D%E5%B0%8E%E5%BD%88%E5%A2%9C%E5%85%A5%E6%B3%A2%E8%98%AD-%E8%B7%9D%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E8%BB%8D%E6%BC%94%E5%83%8550%E5%85%AC%E9%87%8C-%E8%8F%AF%E6%B2%99%E6%96%A5%E8%93%84%E6%84%8F%E6%8C%91%E9%87%81",
-    "timestamp": "2026-11-21T03:45:29.990Z",
     "strategy": ".content-card__main"
   }
 ];
