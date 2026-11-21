@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T20:45:05.294Z
+// Last updated: 2026-11-21T20:58:55.648Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯導彈侵犯波蘭領空　北約秘書長呂特指將捍衛波蘭每一寸領土",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151809168370307072307245.jpeg/Huh2TYTSVy5yji2xV6LBo7nWUjWHtzW2V102xFddNsQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413559/%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%8E%E5%BD%88%E4%BE%B5%E7%8A%AF%E6%B3%A2%E8%98%AD%E9%A0%98%E7%A9%BA-%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E5%91%82%E7%89%B9%E6%8C%87%E5%B0%87%E6%8D%8D%E8%A1%9B%E6%B3%A2%E8%98%AD%E6%AF%8F%E4%B8%80%E5%AF%B8%E9%A0%98%E5%9C%9F",
+    "timestamp": "2026-11-21T20:58:55.648Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯導彈侵犯波蘭領空　北約秘書長呂特指將捍衛波蘭每一寸領土",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200147185065267200486735.png/ohuwxgeaBH5__M72Lix-CmcipLuPp3zzttX49t_V-PY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60412819/%E5%A5%B3%E5%8F%8B%E5%A4%96%E5%9E%8B%E6%BB%BF%E5%88%86%E5%8D%BB%E6%9C%89-%E8%87%AD%E5%91%B3-%E8%A6%AA%E5%AF%86%E6%8E%A5%E8%A7%B8%E5%85%A9%E5%BA%A6%E8%A2%AB%E6%8E%83%E8%88%88-%E4%BB%96%E8%90%8C%E7%94%9F%E9%80%83%E9%81%BF%E5%BF%B5%E9%A0%AD",
     "timestamp": "2026-11-21T14:39:18.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跟風旅行團｜杜如風激讚4萬圜死前必食Pizza　貪玩玩出火跪地求饒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200879492323610624723490.jpeg/dlJ6DB6CBQvBwHFyKIWCrDFuTGU2gsbpfHWDAnx1gwI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413504/%E8%B7%9F%E9%A2%A8%E6%97%85%E8%A1%8C%E5%9C%98-%E6%9D%9C%E5%A6%82%E9%A2%A8%E6%BF%80%E8%AE%9A4%E8%90%AC%E5%9C%9C%E6%AD%BB%E5%89%8D%E5%BF%85%E9%A3%9Fpizza-%E8%B2%AA%E7%8E%A9%E7%8E%A9%E5%87%BA%E7%81%AB%E8%B7%AA%E5%9C%B0%E6%B1%82%E9%A5%92",
-    "timestamp": "2026-11-21T14:19:22.742Z",
     "strategy": ".content-card__main"
   }
 ];
