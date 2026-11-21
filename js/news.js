@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T07:59:10.418Z
+// Last updated: 2026-11-21T08:22:05.848Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李子柒當選四川省文聯副主席　親揭近況：在拍紀錄片和陪奶奶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200833194295824384681345.jpeg/zOp-WuNNCbr8Irl88ZEv8mWD_ma3oPMPoABpdqAAaXY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413433/%E6%9D%8E%E5%AD%90%E6%9F%92%E7%95%B6%E9%81%B8%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%96%87%E8%81%AF%E5%89%AF%E4%B8%BB%E5%B8%AD-%E8%A6%AA%E6%8F%AD%E8%BF%91%E6%B3%81-%E5%9C%A8%E6%8B%8D%E7%B4%80%E9%8C%84%E7%89%87%E5%92%8C%E9%99%AA%E5%A5%B6%E5%A5%B6",
+    "timestamp": "2026-11-21T08:22:05.848Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "斯洛伐克舞蹈團東京神社拍跳舞片捱轟　駐日大使館急致歉｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260828/1170001880227516416893710.jpeg/buxAe6Q-JPg3OPYkbO4wsxkG4it1FlWlBnUJywZ1Ccs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413353/%E7%A7%98%E9%AD%AF%E4%B8%AD%E9%83%A86-7%E7%B4%9A%E5%9C%B0%E9%9C%87-%E9%A6%96%E9%83%BD%E5%88%A9%E9%A6%AC%E6%9C%89%E6%98%8E%E9%A1%AF%E9%9C%87%E6%84%9F",
     "timestamp": "2026-11-21T00:57:02.812Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張與辰自揭20年血淚史　曾在學校遭嚴重欺凌遭詐騙戶口剩$100",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200568108679434240316940.jpeg/8FLx6Wcqh7xK6qGkU-UKBwBOVbaDcP74K3MD9StzA_U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412275/%E5%BC%B5%E8%88%87%E8%BE%B0%E8%87%AA%E6%8F%AD20%E5%B9%B4%E8%A1%80%E6%B7%9A%E5%8F%B2-%E6%9B%BE%E5%9C%A8%E5%AD%B8%E6%A0%A1%E9%81%AD%E5%9A%B4%E9%87%8D%E6%AC%BA%E5%87%8C%E9%81%AD%E8%A9%90%E9%A8%99%E6%88%B6%E5%8F%A3%E5%89%A9-100",
-    "timestamp": "2026-11-21T00:36:32.257Z",
     "strategy": ".content-card__main"
   }
 ];
