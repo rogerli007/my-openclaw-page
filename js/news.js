@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T09:59:02.681Z
+// Last updated: 2026-11-21T10:19:12.360Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩京十五日｜成毅泥漿連滾17次灼傷眼　水牢閉氣流鼻血獲讚戲瘋子",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200840302848380928103947.png/T-pN7Td428VxVjdSlfes8YIorcoHlfp-VXElFVVxJRU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413424/%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E6%88%90%E6%AF%85%E6%B3%A5%E6%BC%BF%E9%80%A3%E6%BB%BE17%E6%AC%A1%E7%81%BC%E5%82%B7%E7%9C%BC-%E6%B0%B4%E7%89%A2%E9%96%89%E6%B0%A3%E6%B5%81%E9%BC%BB%E8%A1%80%E7%8D%B2%E8%AE%9A%E6%88%B2%E7%98%8B%E5%AD%90",
+    "timestamp": "2026-11-21T10:19:12.360Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜消防處檢控中華發展董事　涉虛假文書　明年1月提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260710/1152319283301191680740918.jpeg/AgGi5lSHMINFk3tUdLaDz2uuVDHz-wcz7KQfmOykH5g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413376/%E5%85%A9%E7%A8%AE-%E9%A0%AD%E8%82%A9%E9%A0%82-%E6%9C%83%E5%90%A6%E6%98%93%E6%B7%B7%E6%B7%86-%E4%BA%AC%E6%9D%B1%E6%A1%88%E4%BE%8B%E8%A7%A3%E8%AA%AA%E6%B8%85%E6%99%B0%E6%98%93%E6%98%8E-%E8%81%B6%E6%8C%AF%E9%82%A6",
     "timestamp": "2026-11-21T03:21:52.201Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普對獲習近平接機深感榮幸　讚深圳乾淨批美國城市骯髒｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200757568956272640345827.jpeg/Cvt8ZEuJGtkSSAXHcyLkd6YUUdVDGmKfiPdB8Ij3QfA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413365/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E7%8D%B2%E7%BF%92%E8%BF%91%E5%B9%B3%E6%8E%A5%E6%A9%9F%E6%B7%B1%E6%84%9F%E6%A6%AE%E5%B9%B8-%E8%AE%9A%E6%B7%B1%E5%9C%B3%E4%B9%BE%E6%B7%A8%E6%89%B9%E7%BE%8E%E5%9C%8B%E5%9F%8E%E5%B8%82%E9%AA%AF%E9%AB%92-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-21T02:58:58.937Z",
     "strategy": ".content-card__main"
   }
 ];
