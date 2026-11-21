@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T20:58:55.648Z
+// Last updated: 2026-11-21T21:18:42.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警東九龍設路障扣留2車　2司機分別涉不小心駕駛和醉駕被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201038924605034496403198.jpeg/_i596IgRvoCdJeyR2yxZ3-t8l5t1oamT9IHHOvSBxzo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413561/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%89%A3%E7%95%992%E8%BB%8A-2%E5%8F%B8%E6%A9%9F%E5%88%86%E5%88%A5%E6%B6%89%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B%E5%92%8C%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-21T21:18:42.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯導彈侵犯波蘭領空　北約秘書長呂特指將捍衛波蘭每一寸領土",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200941431108145152570329.jpeg/3uBtbmna1Ipip0642Zky_Lt5QJkKDQh8D056FA9OehQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413542/%E4%BC%8A%E6%9C%97%E8%BB%8D%E7%A8%B1%E7%99%BC%E5%B0%84%E5%B0%8E%E5%BD%88%E8%87%B4%E7%BE%8E%E8%BB%8Df-16%E6%88%B0%E6%A9%9F%E6%90%8D%E5%A3%9E%E7%B7%8A%E6%80%A5%E9%99%8D%E8%90%BD-%E7%BE%8E%E6%96%B9%E5%90%A6%E8%AA%8D-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-21T14:58:56.858Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女友外型滿分卻有「臭味」　親密接觸兩度被掃興　他萌生逃避念頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200147185065267200486735.png/ohuwxgeaBH5__M72Lix-CmcipLuPp3zzttX49t_V-PY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60412819/%E5%A5%B3%E5%8F%8B%E5%A4%96%E5%9E%8B%E6%BB%BF%E5%88%86%E5%8D%BB%E6%9C%89-%E8%87%AD%E5%91%B3-%E8%A6%AA%E5%AF%86%E6%8E%A5%E8%A7%B8%E5%85%A9%E5%BA%A6%E8%A2%AB%E6%8E%83%E8%88%88-%E4%BB%96%E8%90%8C%E7%94%9F%E9%80%83%E9%81%BF%E5%BF%B5%E9%A0%AD",
-    "timestamp": "2026-11-21T14:39:18.419Z",
     "strategy": ".content-card__main"
   }
 ];
