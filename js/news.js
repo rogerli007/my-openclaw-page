@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T22:45:12.447Z
+// Last updated: 2026-11-21T22:59:02.145Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「羞花」楊玉環從道士到貴妃　馬嵬坡為何成絕路？｜四大美人之四",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200886730681487360279635.png/gtDNIWU_2o5QaDToz2VqMJ4hz2n35zgESNaJj0jWiY8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411583/%E7%BE%9E%E8%8A%B1-%E6%A5%8A%E7%8E%89%E7%92%B0%E5%BE%9E%E9%81%93%E5%A3%AB%E5%88%B0%E8%B2%B4%E5%A6%83-%E9%A6%AC%E5%B5%AC%E5%9D%A1%E7%82%BA%E4%BD%95%E6%88%90%E7%B5%95%E8%B7%AF-%E5%9B%9B%E5%A4%A7%E7%BE%8E%E4%BA%BA%E4%B9%8B%E5%9B%9B",
+    "timestamp": "2026-11-21T22:59:02.145Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「羞花」楊玉環從道士到貴妃　馬嵬坡為何成絕路？｜四大美人之四",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200478881392365568451098.jpeg/pBadLFTLC6Z9MWh9vkNXaGKnCGBhVfjzoWHWBqFh1gY",
     "url": "https://www.hk01.com/01TV/60413183/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AB%87%E9%8C%AF%E5%A4%B1%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E5%9B%A0%E7%88%B6%E8%A6%AA%E5%8F%8D%E5%B0%8D%E8%80%8C%E6%94%BE%E6%A3%84%E5%8F%83%E9%81%B8%E4%BA%9E%E5%A7%90",
     "timestamp": "2026-11-21T17:18:02.475Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "墨西哥軍方逮捕大毒梟El Chapo Isidro　FBI列其為十大通緝犯之一",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1200968382275391488549126.jpeg/pRGOcj2BzKxpzIMMc_hQrVYms-psjgRoi3PF7otzxe4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413548/%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%BB%8D%E6%96%B9%E9%80%AE%E6%8D%95%E5%A4%A7%E6%AF%92%E6%A2%9Fel-chapo-isidro-fbi%E5%88%97%E5%85%B6%E7%82%BA%E5%8D%81%E5%A4%A7%E9%80%9A%E7%B7%9D%E7%8A%AF%E4%B9%8B%E4%B8%80",
-    "timestamp": "2026-11-21T16:45:06.219Z",
     "strategy": ".content-card__main"
   }
 ];
