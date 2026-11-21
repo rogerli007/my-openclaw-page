@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T06:59:12.281Z
+// Last updated: 2026-11-21T07:19:50.596Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SpaceX抵押AI晶片借3354億港元　傳貸款方禁馬斯克送晶片上太空",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200825303505571840824039.jpeg/ZR4JVmJ0NO-RYym9Kiw9ehv_mTeoX-TzaeGcj2nhnI8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413427/spacex%E6%8A%B5%E6%8A%BCai%E6%99%B6%E7%89%87%E5%80%9F3354%E5%84%84%E6%B8%AF%E5%85%83-%E5%82%B3%E8%B2%B8%E6%AC%BE%E6%96%B9%E7%A6%81%E9%A6%AC%E6%96%AF%E5%85%8B%E9%80%81%E6%99%B6%E7%89%87%E4%B8%8A%E5%A4%AA%E7%A9%BA",
+    "timestamp": "2026-11-21T07:19:50.596Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金價跳水民眾瘋買　深圳水貝排單到3天後　商戶慘蝕4萬嘆摸不準底",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199345421055430656479682.jpeg/HKnOEHSpPkIGphLeFozx-ei8zYiUwIxnTb2mnE29ppw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60410689/%E8%84%82%E8%82%AA%E8%82%9D%E8%A1%80%E8%84%82%E9%AB%98-%E5%BE%AE%E7%B3%96%E6%89%8B%E6%90%96%E9%A3%B2%E5%8A%A0%E9%A3%AF%E5%BE%8C%E6%9E%9C%E7%9B%A4%E6%88%90%E5%85%83%E5%85%87-%E6%AC%8A%E5%A8%81%E6%A9%9F%E6%A7%8B%E6%95%99%E6%8E%A7%E8%A1%80%E8%84%82",
     "timestamp": "2026-11-20T23:45:21.360Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "老婦穿$16鞋到銀行轉賬千萬　職員憂受騙報警　揭驚人身份狂致敬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200167848903708672914582.jpeg/3neEBoxj-G9XCcYaJZLIzmpKJunOJnqTQKtWtkCrVrY",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412850/%E8%80%81%E5%A9%A6%E7%A9%BF-16%E9%9E%8B%E5%88%B0%E9%8A%80%E8%A1%8C%E8%BD%89%E8%B3%AC%E5%8D%83%E8%90%AC-%E8%81%B7%E5%93%A1%E6%86%82%E5%8F%97%E9%A8%99%E5%A0%B1%E8%AD%A6-%E6%8F%AD%E9%A9%9A%E4%BA%BA%E8%BA%AB%E4%BB%BD%E7%8B%82%E8%87%B4%E6%95%AC",
-    "timestamp": "2026-11-20T23:18:56.463Z",
     "strategy": ".content-card__main"
   }
 ];
