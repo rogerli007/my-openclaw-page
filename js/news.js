@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T18:21:07.281Z
+// Last updated: 2026-11-21T18:59:10.337Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "凱特王妃抗癌紀錄片《Heal》將播出　挑戰攀登三峰分享康復歷程",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1200993398119469056807645.png/qm-FikXoIlSnJd4hz6NEJDOKtK8ozZMjpKcS6KSnEug?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413552/%E5%87%B1%E7%89%B9%E7%8E%8B%E5%A6%83%E6%8A%97%E7%99%8C%E7%B4%80%E9%8C%84%E7%89%87-heal-%E5%B0%87%E6%92%AD%E5%87%BA-%E6%8C%91%E6%88%B0%E6%94%80%E7%99%BB%E4%B8%89%E5%B3%B0%E5%88%86%E4%BA%AB%E5%BA%B7%E5%BE%A9%E6%AD%B7%E7%A8%8B",
+    "timestamp": "2026-11-21T18:59:10.337Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀街頭被星探發掘：買三文治意外拿到廣告入場券",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200915449332633600124036.jpeg/vNlKqbm37gf3RqpQWhyXu83JiMgCtFXhFwCwJRcAsCU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413531/%E6%96%B9%E5%8A%9B%E7%94%B3%E5%AE%8C%E6%88%9035%E5%85%AC%E9%87%8C%E6%B8%AF%E6%BE%B3%E6%A9%AB%E6%B8%A1%E7%84%A1%E7%B8%AB%E6%8E%A5%E5%8A%9B%E7%9B%B4%E5%A5%94%E9%96%8B%E9%A8%B7-%E5%8F%B0%E4%B8%8A%E4%B8%AD%E6%B0%A3%E5%8D%81%E8%B6%B3%E9%9B%B6%E7%96%B2%E6%85%8B",
     "timestamp": "2026-11-21T12:59:14.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Anthropic CEO阿莫迪：最怕AI危害世界的人親手締造萬億IPO",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200907564418600960851634.jpeg/07TrpV9crg8YYRMt5Y4z93wLpesVjpQtjaRfJY2kXyU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413455/anthropic-ceo%E9%98%BF%E8%8E%AB%E8%BF%AA-%E6%9C%80%E6%80%95ai%E5%8D%B1%E5%AE%B3%E4%B8%96%E7%95%8C%E7%9A%84%E4%BA%BA%E8%A6%AA%E6%89%8B%E7%B7%A0%E9%80%A0%E8%90%AC%E5%84%84ipo",
-    "timestamp": "2026-11-21T12:36:14.021Z",
     "strategy": ".content-card__main"
   }
 ];
