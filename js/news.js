@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T17:18:02.475Z
+// Last updated: 2026-11-21T17:29:19.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀談錯失百萬獎金：因父親反對而放棄參選亞姐",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200478881392365568451098.jpeg/pBadLFTLC6Z9MWh9vkNXaGKnCGBhVfjzoWHWBqFh1gY",
+    "url": "https://www.hk01.com/01TV/60413183/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AB%87%E9%8C%AF%E5%A4%B1%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E5%9B%A0%E7%88%B6%E8%A6%AA%E5%8F%8D%E5%B0%8D%E8%80%8C%E6%94%BE%E6%A3%84%E5%8F%83%E9%81%B8%E4%BA%9E%E5%A7%90",
+    "timestamp": "2026-11-21T17:29:19.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀談錯失百萬獎金：因父親反對而放棄參選亞姐",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200843373309595648570348.jpeg/lj_379Ha9Cq2PK1Ko7cz3TlyUe9l4LrhmJZQH5iWUB8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413507/%E6%96%B9%E5%8A%9B%E7%94%B3%E6%B8%A1%E6%B5%B7%E6%B3%B3%E8%87%B3%E6%BE%B3%E9%96%80-%E5%9B%9E%E9%A1%A7%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B-%E8%85%B3%E6%8E%8C%E5%A4%B1%E7%9F%A5%E8%A6%BA-%E6%86%82%E6%9A%88%E4%BD%8E%E9%81%AD%E9%81%87%E4%B8%8D%E6%B8%AC",
     "timestamp": "2026-11-21T11:45:03.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉德華《我年輕過》YouTube上架7日　點擊過100萬破個人最快紀錄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200882955908550656982736.jpeg/CmBx26Y_M9qWf_fCSl4_T4SXAvWoYra-VDOvwlQzr8I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60413506/%E5%8A%89%E5%BE%B7%E8%8F%AF-%E6%88%91%E5%B9%B4%E8%BC%95%E9%81%8E-youtube%E4%B8%8A%E6%9E%B67%E6%97%A5-%E9%BB%9E%E6%93%8A%E9%81%8E100%E8%90%AC%E7%A0%B4%E5%80%8B%E4%BA%BA%E6%9C%80%E5%BF%AB%E7%B4%80%E9%8C%84",
-    "timestamp": "2026-11-21T11:29:32.464Z",
     "strategy": ".content-card__main"
   }
 ];
