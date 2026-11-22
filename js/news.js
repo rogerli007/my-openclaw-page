@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-21T23:18:49.426Z
+// Last updated: 2026-11-22T01:00:27.527Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱俄烏停火可助歐洲發展　澤連斯基：普京恐拖延談判",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183110510866862080539276.jpeg/fPwlhaWk0Sd9OskmDDDHq0MWHA2AA6G6GkDqmhpA6po?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413573/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BF%84%E7%83%8F%E5%81%9C%E7%81%AB%E5%8F%AF%E5%8A%A9%E6%AD%90%E6%B4%B2%E7%99%BC%E5%B1%95-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%99%AE%E4%BA%AC%E6%81%90%E6%8B%96%E5%BB%B6%E8%AB%87%E5%88%A4",
+    "timestamp": "2026-11-22T01:00:27.527Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026年底4星座將財運翻盤！進帳暴增迎新機　榜首靠表現加薪升職",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200478881392365568451098.jpeg/pBadLFTLC6Z9MWh9vkNXaGKnCGBhVfjzoWHWBqFh1gY",
     "url": "https://www.hk01.com/01TV/60413183/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AB%87%E9%8C%AF%E5%A4%B1%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E5%9B%A0%E7%88%B6%E8%A6%AA%E5%8F%8D%E5%B0%8D%E8%80%8C%E6%94%BE%E6%A3%84%E5%8F%83%E9%81%B8%E4%BA%9E%E5%A7%90",
     "timestamp": "2026-11-21T17:45:03.841Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀談錯失百萬獎金：因父親反對而放棄參選亞姐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200478881392365568451098.jpeg/pBadLFTLC6Z9MWh9vkNXaGKnCGBhVfjzoWHWBqFh1gY",
-    "url": "https://www.hk01.com/01TV/60413183/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AB%87%E9%8C%AF%E5%A4%B1%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E5%9B%A0%E7%88%B6%E8%A6%AA%E5%8F%8D%E5%B0%8D%E8%80%8C%E6%94%BE%E6%A3%84%E5%8F%83%E9%81%B8%E4%BA%9E%E5%A7%90",
-    "timestamp": "2026-11-21T17:29:19.355Z",
     "strategy": ".content-card__main"
   }
 ];
