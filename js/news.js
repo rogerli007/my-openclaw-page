@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T01:59:12.758Z
+// Last updated: 2026-11-22T02:24:21.024Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "朱咪咪專訪｜與周星馳多次合作　直認識時務：千祈唔好去惹佢！",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200936615820660736436895.jpeg/z8w2P4D8M4txFsAu095QN7sRQMcLPNOkxXX3rMV196w",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413330/%E6%9C%B1%E5%92%AA%E5%92%AA%E5%B0%88%E8%A8%AA-%E8%88%87%E5%91%A8%E6%98%9F%E9%A6%B3%E5%A4%9A%E6%AC%A1%E5%90%88%E4%BD%9C-%E7%9B%B4%E8%AA%8D%E8%AD%98%E6%99%82%E5%8B%99-%E5%8D%83%E7%A5%88%E5%94%94%E5%A5%BD%E5%8E%BB%E6%83%B9%E4%BD%A2",
+    "timestamp": "2026-11-22T02:24:21.024Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華人不全是炎黃子孫？學者揭4姓氏屬蚩尤後裔　粵港常見姓氏入列",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200853237670875136526087.jpeg/lwDnhxw8GUj5RW_h0WRL4wONhfuBSOsmuUIMcblCDHE",
     "url": "https://www.hk01.com/01TV/60413461/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%A8%B1%E9%9C%B890%E5%B9%B4%E4%BB%A3%E5%BB%A3%E5%91%8A%E5%9C%88-%E6%8B%8D%E5%85%A9%E6%97%A5%E5%BB%A3%E5%91%8A%E7%AD%89%E6%96%BC%E7%A7%98%E6%9B%B8%E6%95%B4%E6%9C%88%E8%96%AA%E6%B0%B4",
     "timestamp": "2026-11-21T19:17:51.434Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "凱特王妃抗癌紀錄片《Heal》將播出　挑戰攀登三峰分享康復歷程",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1200993398119469056807645.png/qm-FikXoIlSnJd4hz6NEJDOKtK8ozZMjpKcS6KSnEug?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413552/%E5%87%B1%E7%89%B9%E7%8E%8B%E5%A6%83%E6%8A%97%E7%99%8C%E7%B4%80%E9%8C%84%E7%89%87-heal-%E5%B0%87%E6%92%AD%E5%87%BA-%E6%8C%91%E6%88%B0%E6%94%80%E7%99%BB%E4%B8%89%E5%B3%B0%E5%88%86%E4%BA%AB%E5%BA%B7%E5%BE%A9%E6%AD%B7%E7%A8%8B",
-    "timestamp": "2026-11-21T18:59:10.337Z",
     "strategy": ".content-card__main"
   }
 ];
