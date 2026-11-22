@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T15:29:42.937Z
+// Last updated: 2026-11-22T15:45:05.164Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "選委會選舉｜李家超祝賀選委當選　形容選舉展現愛國者良性競爭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199434665409122304854032.png/8uYZRZkpoW1CMAe0idEKqnhB42lR2eukbpnbim6Z24o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413775/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%A5%9D%E8%B3%80%E9%81%B8%E5%A7%94%E7%95%B6%E9%81%B8-%E5%BD%A2%E5%AE%B9%E9%81%B8%E8%88%89%E5%B1%95%E7%8F%BE%E6%84%9B%E5%9C%8B%E8%80%85%E8%89%AF%E6%80%A7%E7%AB%B6%E7%88%AD",
+    "timestamp": "2026-11-22T15:45:05.164Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜6中學女生吸煙片揭校園欺凌　雙方各執一詞爆羅生門",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201136839709167616947203.jpeg/-7CyJfZUR00hmWBWD44Sj8W4eYGuw0s7iEAmxohAJsY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413601/%E8%8B%B1%E8%B6%85%E9%9B%99%E7%B4%85%E6%9C%83-%E6%9B%BC%E8%81%AF%E6%96%B0%E5%B8%A5%E6%99%AE%E6%8D%B7%E5%A4%A9%E5%A5%B4%E7%AC%AC%E4%B8%80%E6%93%8A-%E9%A0%98%E8%BB%8D%E4%BD%9C%E5%AE%A2%E5%88%A9%E7%89%A9%E6%B5%A6%E5%BE%80%E7%B8%BE%E5%8D%BB%E5%A5%87%E5%B7%AE",
     "timestamp": "2026-11-22T08:59:06.076Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "西環山道住宅後巷冒煙　消防拖喉撲熄　疑電掣起火波及雜物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201210479771389952716290.png/HiOC7c2adlmZF2acCZDbCASdj4nDEugPsf86QbH_OkE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413674/%E8%A5%BF%E7%92%B0%E5%B1%B1%E9%81%93%E4%BD%8F%E5%AE%85%E5%BE%8C%E5%B7%B7%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E6%8B%96%E5%96%89%E6%92%B2%E7%86%84-%E7%96%91%E9%9B%BB%E6%8E%A3%E8%B5%B7%E7%81%AB%E6%B3%A2%E5%8F%8A%E9%9B%9C%E7%89%A9",
-    "timestamp": "2026-11-22T08:45:01.268Z",
     "strategy": ".content-card__main"
   }
 ];
