@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T01:48:06.229Z
+// Last updated: 2026-11-22T01:59:12.758Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華人不全是炎黃子孫？學者揭4姓氏屬蚩尤後裔　粵港常見姓氏入列",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200126338913013760975836.png/U3-Iq37Jv6BVuBievHMlYg6J7Lqj7SQTFDCBBBQwgQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412723/%E8%8F%AF%E4%BA%BA%E4%B8%8D%E5%85%A8%E6%98%AF%E7%82%8E%E9%BB%83%E5%AD%90%E5%AD%AB-%E5%AD%B8%E8%80%85%E6%8F%AD4%E5%A7%93%E6%B0%8F%E5%B1%AC%E8%9A%A9%E5%B0%A4%E5%BE%8C%E8%A3%94-%E7%B2%B5%E6%B8%AF%E5%B8%B8%E8%A6%8B%E5%A7%93%E6%B0%8F%E5%85%A5%E5%88%97",
+    "timestamp": "2026-11-22T01:59:12.758Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華人不全是炎黃子孫？學者揭4姓氏屬蚩尤後裔　粵港常見姓氏入列",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1200993398119469056807645.png/qm-FikXoIlSnJd4hz6NEJDOKtK8ozZMjpKcS6KSnEug?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413552/%E5%87%B1%E7%89%B9%E7%8E%8B%E5%A6%83%E6%8A%97%E7%99%8C%E7%B4%80%E9%8C%84%E7%89%87-heal-%E5%B0%87%E6%92%AD%E5%87%BA-%E6%8C%91%E6%88%B0%E6%94%80%E7%99%BB%E4%B8%89%E5%B3%B0%E5%88%86%E4%BA%AB%E5%BA%B7%E5%BE%A9%E6%AD%B7%E7%A8%8B",
     "timestamp": "2026-11-21T18:59:10.337Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀街頭被星探發掘：買三文治意外拿到廣告入場券",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200852039844761600763045.jpeg/YPg4HvUKySELIows7b5ytBT_8AS_6C5w28P4WdvD-Fk",
-    "url": "https://www.hk01.com/01TV/60413458/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%A1%97%E9%A0%AD%E8%A2%AB%E6%98%9F%E6%8E%A2%E7%99%BC%E6%8E%98-%E8%B2%B7%E4%B8%89%E6%96%87%E6%B2%BB%E6%84%8F%E5%A4%96%E6%8B%BF%E5%88%B0%E5%BB%A3%E5%91%8A%E5%85%A5%E5%A0%B4%E5%88%B8",
-    "timestamp": "2026-11-21T18:21:07.281Z",
     "strategy": ".content-card__main"
   }
 ];
