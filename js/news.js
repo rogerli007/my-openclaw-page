@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T08:22:25.829Z
+// Last updated: 2026-11-22T08:45:01.268Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西環山道住宅後巷冒煙　消防拖喉撲熄　疑電掣起火波及雜物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201210479771389952716290.png/HiOC7c2adlmZF2acCZDbCASdj4nDEugPsf86QbH_OkE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413674/%E8%A5%BF%E7%92%B0%E5%B1%B1%E9%81%93%E4%BD%8F%E5%AE%85%E5%BE%8C%E5%B7%B7%E5%86%92%E7%85%99-%E6%B6%88%E9%98%B2%E6%8B%96%E5%96%89%E6%92%B2%E7%86%84-%E7%96%91%E9%9B%BB%E6%8E%A3%E8%B5%B7%E7%81%AB%E6%B3%A2%E5%8F%8A%E9%9B%9C%E7%89%A9",
+    "timestamp": "2026-11-22T08:45:01.268Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "智利工作假期計劃最快明年上半年推行　孫玉菡：為年輕人提供選擇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200126338913013760975836.png/U3-Iq37Jv6BVuBievHMlYg6J7Lqj7SQTFDCBBBQwgQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412723/%E8%8F%AF%E4%BA%BA%E4%B8%8D%E5%85%A8%E6%98%AF%E7%82%8E%E9%BB%83%E5%AD%90%E5%AD%AB-%E5%AD%B8%E8%80%85%E6%8F%AD4%E5%A7%93%E6%B0%8F%E5%B1%AC%E8%9A%A9%E5%B0%A4%E5%BE%8C%E8%A3%94-%E7%B2%B5%E6%B8%AF%E5%B8%B8%E8%A6%8B%E5%A7%93%E6%B0%8F%E5%85%A5%E5%88%97",
     "timestamp": "2026-11-22T01:48:06.229Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "AEON信用卡網上及手機APP死機逾兩日　公司：系統遭未經授權查閱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200465051027247104047385.png/8w00g01PoopxaOYkK8YQo_Qb9dzQXyAKAssFXgLLBV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413576/aeon%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B6%B2%E4%B8%8A%E5%8F%8A%E6%89%8B%E6%A9%9Fapp%E6%AD%BB%E6%A9%9F%E9%80%BE%E5%85%A9%E6%97%A5-%E5%85%AC%E5%8F%B8-%E7%B3%BB%E7%B5%B1%E9%81%AD%E6%9C%AA%E7%B6%93%E6%8E%88%E6%AC%8A%E6%9F%A5%E9%96%B1",
-    "timestamp": "2026-11-22T01:20:18.374Z",
     "strategy": ".content-card__main"
   }
 ];
