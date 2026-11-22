@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T13:44:56.584Z
+// Last updated: 2026-11-22T13:59:03.436Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日媒：日本擬縮減導彈及軍艦採購　無人機與AI預算不減",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2482707/org/63fd1e7666552b19bbb23990c24d403f.jpg/LI2Js1zkzJPcenCg4RSNwv5hG0EHW5cXP86i_z_Oov8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413758/%E6%97%A5%E5%AA%92-%E6%97%A5%E6%9C%AC%E6%93%AC%E7%B8%AE%E6%B8%9B%E5%B0%8E%E5%BD%88%E5%8F%8A%E8%BB%8D%E8%89%A6%E6%8E%A1%E8%B3%BC-%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%88%87ai%E9%A0%90%E7%AE%97%E4%B8%8D%E6%B8%9B",
+    "timestamp": "2026-11-22T13:59:03.436Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "選委會選舉｜李澤楷、黃永光當選選委　法律界僅湯文龍會長一人輸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201138220641816576578412.jpeg/D8jCtJNKLqQn_iur0WhLxdso_0ConqVKnKwHAJysBwA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60413536/%E7%BE%8E%E8%82%A111-20%E8%82%A1%E7%81%BD%E6%87%B6%E4%BA%BA%E5%8C%85-ai%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E6%8A%91%E6%88%96%E9%87%8D%E6%96%B0%E5%AE%9A%E5%83%B9-%E6%8B%86%E8%A7%A37%E5%A4%A7%E5%8E%9F%E5%9B%A0",
     "timestamp": "2026-11-22T06:25:56.681Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "渠務署推多項防洪措施　坪輋蓄洪池已落成　AI駁「銳眼」預警水浸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201167961331732480954723.jpeg/uTaJjI8JhZdKMuKEQWJ6msMibHRad1GjZ9CL9WfQi_U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413622/%E6%B8%A0%E5%8B%99%E7%BD%B2%E6%8E%A8%E5%A4%9A%E9%A0%85%E9%98%B2%E6%B4%AA%E6%8E%AA%E6%96%BD-%E5%9D%AA%E8%BC%8B%E8%93%84%E6%B4%AA%E6%B1%A0%E5%B7%B2%E8%90%BD%E6%88%90-ai%E9%A7%81-%E9%8A%B3%E7%9C%BC-%E9%A0%90%E8%AD%A6%E6%B0%B4%E6%B5%B8",
-    "timestamp": "2026-11-22T05:59:15.576Z",
     "strategy": ".content-card__main"
   }
 ];
