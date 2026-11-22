@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T17:18:11.829Z
+// Last updated: 2026-11-22T17:29:30.349Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀移民加拿大失業：一通電話接演《肥貓正傳》回港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200855366418567168710286.jpeg/0v2N17Fi2hAFIAVileBTI4rj9BIdXix9awhtImsIbSI",
+    "url": "https://www.hk01.com/01TV/60413464/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%A7%BB%E6%B0%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%B1%E6%A5%AD-%E4%B8%80%E9%80%9A%E9%9B%BB%E8%A9%B1%E6%8E%A5%E6%BC%94-%E8%82%A5%E8%B2%93%E6%AD%A3%E5%82%B3-%E5%9B%9E%E6%B8%AF",
+    "timestamp": "2026-11-22T17:29:30.349Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀移民加拿大失業：一通電話接演《肥貓正傳》回港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201232658487840768146852.jpeg/2NATBOdYfiCtdvlQVlqixlYeAxKRf3w-UjVefHc1Xnw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413708/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E7%A0%B4%E5%85%A9%E8%B2%A9%E6%AF%92%E6%A1%88-%E4%BF%9D%E9%91%A3%E8%A1%8C%E6%9D%8E%E8%97%8F%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E5%85%A7%E5%9C%B0%E7%94%B7%E6%A3%84%E8%A1%8C%E6%9D%8E%E5%86%8D%E5%85%A5%E5%A2%83%E8%A2%AB%E6%93%92",
     "timestamp": "2026-11-22T10:29:40.564Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "海關機場破兩販毒案　保鑣行李藏大麻花　內地男棄行李再入境被擒",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201232658487840768146852.jpeg/2NATBOdYfiCtdvlQVlqixlYeAxKRf3w-UjVefHc1Xnw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413708/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E7%A0%B4%E5%85%A9%E8%B2%A9%E6%AF%92%E6%A1%88-%E4%BF%9D%E9%91%A3%E8%A1%8C%E6%9D%8E%E8%97%8F%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E5%85%A7%E5%9C%B0%E7%94%B7%E6%A3%84%E8%A1%8C%E6%9D%8E%E5%86%8D%E5%85%A5%E5%A2%83%E8%A2%AB%E6%93%92",
-    "timestamp": "2026-11-22T10:19:02.063Z",
     "strategy": ".content-card__main"
   }
 ];
