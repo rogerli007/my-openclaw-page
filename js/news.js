@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T10:29:40.564Z
+// Last updated: 2026-11-22T10:45:05.949Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寶勒巷車禍｜警方押解被捕男子返回現場蒐證　警犬搜索涉案私家車",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201240145349578752721609.jpeg/wW-ZwJ7bItKjb1KDhrpGKZl7KRLEaS5DRCECSmEhAko?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413719/%E5%AF%B6%E5%8B%92%E5%B7%B7%E8%BB%8A%E7%A6%8D-%E8%AD%A6%E6%96%B9%E6%8A%BC%E8%A7%A3%E8%A2%AB%E6%8D%95%E7%94%B7%E5%AD%90%E8%BF%94%E5%9B%9E%E7%8F%BE%E5%A0%B4%E8%92%90%E8%AD%89-%E8%AD%A6%E7%8A%AC%E6%90%9C%E7%B4%A2%E6%B6%89%E6%A1%88%E7%A7%81%E5%AE%B6%E8%BB%8A",
+    "timestamp": "2026-11-22T10:45:05.949Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關機場破兩販毒案　保鑣行李藏大麻花　內地男棄行李再入境被擒",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149033087330947072713482.jpeg/eEJn22NICy-la6uVo2X0cZywKGmK3HCekgZPfbcGT30?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413587/gawc-2026%E4%B8%96%E7%95%8C%E5%9F%8E%E5%B8%82%E6%8E%92%E5%90%8D-%E9%A6%99%E6%B8%AF%E5%85%A8%E7%90%83%E7%AC%AC3-%E5%8A%9B%E5%A3%93%E5%8C%97%E4%BA%AC%E4%B8%8A%E6%B5%B7%E6%8B%8B%E9%9B%A2%E5%BB%A3%E5%B7%9E%E6%B7%B1%E5%9C%B3",
     "timestamp": "2026-11-22T03:34:37.195Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳茂波：香港有獨特價值　身處世界灣區經濟合作聯盟有助更好發揮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201130230043906048874306.jpeg/Hz2dOPEmNJGQX6Jn5frdZvcXx0ns-srIEkJR6RJCUek?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413593/%E9%99%B3%E8%8C%82%E6%B3%A2-%E9%A6%99%E6%B8%AF%E6%9C%89%E7%8D%A8%E7%89%B9%E5%83%B9%E5%80%BC-%E8%BA%AB%E8%99%95%E4%B8%96%E7%95%8C%E7%81%A3%E5%8D%80%E7%B6%93%E6%BF%9F%E5%90%88%E4%BD%9C%E8%81%AF%E7%9B%9F%E6%9C%89%E5%8A%A9%E6%9B%B4%E5%A5%BD%E7%99%BC%E6%8F%AE",
-    "timestamp": "2026-11-22T03:22:46.011Z",
     "strategy": ".content-card__main"
   }
 ];
