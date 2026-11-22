@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T01:20:18.374Z
+// Last updated: 2026-11-22T01:48:06.229Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華人不全是炎黃子孫？學者揭4姓氏屬蚩尤後裔　粵港常見姓氏入列",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200126338913013760975836.png/U3-Iq37Jv6BVuBievHMlYg6J7Lqj7SQTFDCBBBQwgQQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412723/%E8%8F%AF%E4%BA%BA%E4%B8%8D%E5%85%A8%E6%98%AF%E7%82%8E%E9%BB%83%E5%AD%90%E5%AD%AB-%E5%AD%B8%E8%80%85%E6%8F%AD4%E5%A7%93%E6%B0%8F%E5%B1%AC%E8%9A%A9%E5%B0%A4%E5%BE%8C%E8%A3%94-%E7%B2%B5%E6%B8%AF%E5%B8%B8%E8%A6%8B%E5%A7%93%E6%B0%8F%E5%85%A5%E5%88%97",
+    "timestamp": "2026-11-22T01:48:06.229Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "AEON信用卡網上及手機APP死機逾兩日　公司：系統遭未經授權查閱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200852039844761600763045.jpeg/YPg4HvUKySELIows7b5ytBT_8AS_6C5w28P4WdvD-Fk",
     "url": "https://www.hk01.com/01TV/60413458/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%A1%97%E9%A0%AD%E8%A2%AB%E6%98%9F%E6%8E%A2%E7%99%BC%E6%8E%98-%E8%B2%B7%E4%B8%89%E6%96%87%E6%B2%BB%E6%84%8F%E5%A4%96%E6%8B%BF%E5%88%B0%E5%BB%A3%E5%91%8A%E5%85%A5%E5%A0%B4%E5%88%B8",
     "timestamp": "2026-11-21T18:21:07.281Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱尋求與伊朗達成「永久性」協議　指從未在意對方政權更迭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200749872957886464731946.jpeg/vIgs7YWjkolAPFkVZLj3B0hLoEA9uUfvtlZPoLZWT6A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413549/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%8B%E6%B1%82%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90-%E6%B0%B8%E4%B9%85%E6%80%A7-%E5%8D%94%E8%AD%B0-%E6%8C%87%E5%BE%9E%E6%9C%AA%E5%9C%A8%E6%84%8F%E5%B0%8D%E6%96%B9%E6%94%BF%E6%AC%8A%E6%9B%B4%E8%BF%AD",
-    "timestamp": "2026-11-21T17:59:13.025Z",
     "strategy": ".content-card__main"
   }
 ];
