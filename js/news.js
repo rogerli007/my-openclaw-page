@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T15:45:05.164Z
+// Last updated: 2026-11-22T15:59:10.696Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金馬獎2026得獎名單｜《善男信女》奪劇情片　AK、袁澧林首獲金馬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201311133143666688437206.jpeg/KQN_K7l6sEm1G5XCtNwxxLK-tYesDqP64VA5z-FQOc8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413721/%E9%87%91%E9%A6%AC%E7%8D%8E2026%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-%E5%96%84%E7%94%B7%E4%BF%A1%E5%A5%B3-%E5%A5%AA%E5%8A%87%E6%83%85%E7%89%87-ak-%E8%A2%81%E6%BE%A7%E6%9E%97%E9%A6%96%E7%8D%B2%E9%87%91%E9%A6%AC",
+    "timestamp": "2026-11-22T15:59:10.696Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "選委會選舉｜李家超祝賀選委當選　形容選舉展現愛國者良性競爭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201223612221100032492370.jpeg/kxXRRZ3zLOXwuqccEnRoj2hkBjIJXWMRWrOWyVqzlsk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413698/%E6%96%B0%E7%96%86%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E7%B8%A3%E7%99%BC%E7%94%9F4-5%E7%B4%9A%E5%9C%B0%E9%9C%87-%E9%9C%87%E6%BA%90%E6%B7%B1%E5%BA%A630%E5%85%AC%E9%87%8C",
     "timestamp": "2026-11-22T09:29:44.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超雙紅會︱曼聯新帥普捷天奴第一擊　領軍作客利物浦往績卻奇差",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201136839709167616947203.jpeg/-7CyJfZUR00hmWBWD44Sj8W4eYGuw0s7iEAmxohAJsY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413601/%E8%8B%B1%E8%B6%85%E9%9B%99%E7%B4%85%E6%9C%83-%E6%9B%BC%E8%81%AF%E6%96%B0%E5%B8%A5%E6%99%AE%E6%8D%B7%E5%A4%A9%E5%A5%B4%E7%AC%AC%E4%B8%80%E6%93%8A-%E9%A0%98%E8%BB%8D%E4%BD%9C%E5%AE%A2%E5%88%A9%E7%89%A9%E6%B5%A6%E5%BE%80%E7%B8%BE%E5%8D%BB%E5%A5%87%E5%B7%AE",
-    "timestamp": "2026-11-22T08:59:06.076Z",
     "strategy": ".content-card__main"
   }
 ];
