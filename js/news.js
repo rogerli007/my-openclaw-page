@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T17:45:04.989Z
+// Last updated: 2026-11-22T17:59:03.224Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丁薛祥訪新加坡晤黃循財　稱中方願深化AI等領域互利合作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201343280449589248978514.jpeg/nJ7JL7PLdiN3LASF1Ma5hZU_mpXshcnE3rm29t65tvY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413784/%E4%B8%81%E8%96%9B%E7%A5%A5%E8%A8%AA%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%99%A4%E9%BB%83%E5%BE%AA%E8%B2%A1-%E7%A8%B1%E4%B8%AD%E6%96%B9%E9%A1%98%E6%B7%B1%E5%8C%96ai%E7%AD%89%E9%A0%98%E5%9F%9F%E4%BA%92%E5%88%A9%E5%90%88%E4%BD%9C",
+    "timestamp": "2026-11-22T17:59:03.224Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀移民加拿大失業：一通電話接演《肥貓正傳》回港",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201241935386644480954082.jpeg/FdxXlxkyctuXQlXtdqRNAREN_tiZ_oD1eRkfPlwZHz4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413724/%E4%B9%9D%E9%BE%8D%E7%81%A3megabox-omart%E9%96%8B%E5%B9%95%E4%BA%BA%E9%BE%8D%E8%B7%A86%E5%B1%A4-%E7%8F%BE%E5%A0%B4%E6%9C%89%E5%88%86%E6%B5%81-%E5%B8%82%E6%B0%91%E7%A8%B1%E6%9C%AA%E8%A6%8B%E6%B7%B7%E4%BA%82",
     "timestamp": "2026-11-22T10:59:04.088Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "寶勒巷車禍｜警方押解被捕男子返回現場蒐證　警犬搜索涉案私家車",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201240145349578752721609.jpeg/wW-ZwJ7bItKjb1KDhrpGKZl7KRLEaS5DRCECSmEhAko?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413719/%E5%AF%B6%E5%8B%92%E5%B7%B7%E8%BB%8A%E7%A6%8D-%E8%AD%A6%E6%96%B9%E6%8A%BC%E8%A7%A3%E8%A2%AB%E6%8D%95%E7%94%B7%E5%AD%90%E8%BF%94%E5%9B%9E%E7%8F%BE%E5%A0%B4%E8%92%90%E8%AD%89-%E8%AD%A6%E7%8A%AC%E6%90%9C%E7%B4%A2%E6%B6%89%E6%A1%88%E7%A7%81%E5%AE%B6%E8%BB%8A",
-    "timestamp": "2026-11-22T10:45:05.949Z",
     "strategy": ".content-card__main"
   }
 ];
