@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T04:59:04.658Z
+// Last updated: 2026-11-22T05:19:59.389Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜倖存外籍傭工出書寫劇記經歷解創傷　主辦方盼擇日再分享",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200959885244633088963012.png/60DC8Xw0owYt8HnZMl_pO-e8Q5sUj9gHG7D3mBuw95g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413426/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%80%96%E5%AD%98%E5%A4%96%E7%B1%8D%E5%82%AD%E5%B7%A5%E5%87%BA%E6%9B%B8%E5%AF%AB%E5%8A%87%E8%A8%98%E7%B6%93%E6%AD%B7%E8%A7%A3%E5%89%B5%E5%82%B7-%E4%B8%BB%E8%BE%A6%E6%96%B9%E7%9B%BC%E6%93%87%E6%97%A5%E5%86%8D%E5%88%86%E4%BA%AB",
+    "timestamp": "2026-11-22T05:19:59.389Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "選委會選舉︱政商界投票關注北都發展　盛智文冀下屆政府着重創科",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201051427363885056219067.jpeg/UB-c-lMfLh-iJKxKJdxrOD7nD9qJdL4BAl6pwzheqcM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60413556/%E5%B0%8F%E9%9B%AA%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%9A%E9%9B%B2-%E7%A8%8D%E5%BE%8C%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E9%A0%90%E6%96%99%E5%91%A8%E4%B8%89%E6%B0%A3%E6%BA%AB%E8%B7%8C%E8%87%B316%E5%BA%A6",
     "timestamp": "2026-11-21T22:18:52.523Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "巴林民用工業設施遭伊朗襲擊起火　政府指防空系統攔截多次攻擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201047153451995136106453.png/7rME5cUR894ujX36fAZNNjEHHZyUUFtkub5vUbm-b1E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413563/%E5%B7%B4%E6%9E%97%E6%B0%91%E7%94%A8%E5%B7%A5%E6%A5%AD%E8%A8%AD%E6%96%BD%E9%81%AD%E4%BC%8A%E6%9C%97%E8%A5%B2%E6%93%8A%E8%B5%B7%E7%81%AB-%E6%94%BF%E5%BA%9C%E6%8C%87%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%B5%B1%E6%94%94%E6%88%AA%E5%A4%9A%E6%AC%A1%E6%94%BB%E6%93%8A",
-    "timestamp": "2026-11-21T21:59:15.970Z",
     "strategy": ".content-card__main"
   }
 ];
