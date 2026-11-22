@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T03:34:37.195Z
+// Last updated: 2026-11-22T03:45:18.716Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜孫玉菡：「一戶一社工」不會退場　精神支援將數以十年計",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200481578036236288379185.jpeg/7U32DgHRfG-LuEt3UXSb8GdnQGqMqsxKhqDKZ4agymc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413600/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E4%B8%80%E6%88%B6%E4%B8%80%E7%A4%BE%E5%B7%A5-%E4%B8%8D%E6%9C%83%E9%80%80%E5%A0%B4-%E7%B2%BE%E7%A5%9E%E6%94%AF%E6%8F%B4%E5%B0%87%E6%95%B8%E4%BB%A5%E5%8D%81%E5%B9%B4%E8%A8%88",
+    "timestamp": "2026-11-22T03:45:18.716Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "GaWC 2026世界城市排名｜香港全球第3　力壓北京上海拋離廣州深圳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151809168370307072307245.jpeg/Huh2TYTSVy5yji2xV6LBo7nWUjWHtzW2V102xFddNsQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413559/%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%8E%E5%BD%88%E4%BE%B5%E7%8A%AF%E6%B3%A2%E8%98%AD%E9%A0%98%E7%A9%BA-%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E5%91%82%E7%89%B9%E6%8C%87%E5%B0%87%E6%8D%8D%E8%A1%9B%E6%B3%A2%E8%98%AD%E6%AF%8F%E4%B8%80%E5%AF%B8%E9%A0%98%E5%9C%9F",
     "timestamp": "2026-11-21T20:58:55.648Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯導彈侵犯波蘭領空　北約秘書長呂特指將捍衛波蘭每一寸領土",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151809168370307072307245.jpeg/Huh2TYTSVy5yji2xV6LBo7nWUjWHtzW2V102xFddNsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413559/%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%8E%E5%BD%88%E4%BE%B5%E7%8A%AF%E6%B3%A2%E8%98%AD%E9%A0%98%E7%A9%BA-%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E5%91%82%E7%89%B9%E6%8C%87%E5%B0%87%E6%8D%8D%E8%A1%9B%E6%B3%A2%E8%98%AD%E6%AF%8F%E4%B8%80%E5%AF%B8%E9%A0%98%E5%9C%9F",
-    "timestamp": "2026-11-21T20:45:05.294Z",
     "strategy": ".content-card__main"
   }
 ];
