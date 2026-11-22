@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T08:59:06.076Z
+// Last updated: 2026-11-22T09:29:44.715Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "新疆烏魯木齊縣發生4.5級地震　震源深度30公里",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201223612221100032492370.jpeg/kxXRRZ3zLOXwuqccEnRoj2hkBjIJXWMRWrOWyVqzlsk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413698/%E6%96%B0%E7%96%86%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E7%B8%A3%E7%99%BC%E7%94%9F4-5%E7%B4%9A%E5%9C%B0%E9%9C%87-%E9%9C%87%E6%BA%90%E6%B7%B1%E5%BA%A630%E5%85%AC%E9%87%8C",
+    "timestamp": "2026-11-22T09:29:44.715Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超雙紅會︱曼聯新帥普捷天奴第一擊　領軍作客利物浦往績卻奇差",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200936615820660736436895.jpeg/z8w2P4D8M4txFsAu095QN7sRQMcLPNOkxXX3rMV196w",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413330/%E6%9C%B1%E5%92%AA%E5%92%AA%E5%B0%88%E8%A8%AA-%E8%88%87%E5%91%A8%E6%98%9F%E9%A6%B3%E5%A4%9A%E6%AC%A1%E5%90%88%E4%BD%9C-%E7%9B%B4%E8%AA%8D%E8%AD%98%E6%99%82%E5%8B%99-%E5%8D%83%E7%A5%88%E5%94%94%E5%A5%BD%E5%8E%BB%E6%83%B9%E4%BD%A2",
     "timestamp": "2026-11-22T02:24:21.024Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華人不全是炎黃子孫？學者揭4姓氏屬蚩尤後裔　粵港常見姓氏入列",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200126338913013760975836.png/U3-Iq37Jv6BVuBievHMlYg6J7Lqj7SQTFDCBBBQwgQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412723/%E8%8F%AF%E4%BA%BA%E4%B8%8D%E5%85%A8%E6%98%AF%E7%82%8E%E9%BB%83%E5%AD%90%E5%AD%AB-%E5%AD%B8%E8%80%85%E6%8F%AD4%E5%A7%93%E6%B0%8F%E5%B1%AC%E8%9A%A9%E5%B0%A4%E5%BE%8C%E8%A3%94-%E7%B2%B5%E6%B8%AF%E5%B8%B8%E8%A6%8B%E5%A7%93%E6%B0%8F%E5%85%A5%E5%88%97",
-    "timestamp": "2026-11-22T01:59:12.758Z",
     "strategy": ".content-card__main"
   }
 ];
