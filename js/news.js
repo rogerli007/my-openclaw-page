@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T23:19:04.799Z
+// Last updated: 2026-11-22T23:44:56.380Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "COP31｜聯合國氣候峰會閉幕　談判破裂未能達成協議",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201420426345975808687901.jpeg/Hc3mzfwAiF_OCXLFInA1xQ6AJZ9HZsRjEAI5wRACOcE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413795/cop31-%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%B3%B0%E6%9C%83%E9%96%89%E5%B9%95-%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82%E6%9C%AA%E8%83%BD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
+    "timestamp": "2026-11-22T23:44:56.380Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑大火一周年｜嚴重傷者艱難康復　穿壓力衣學握拳　終可步行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200855366418567168710286.jpeg/0v2N17Fi2hAFIAVileBTI4rj9BIdXix9awhtImsIbSI",
     "url": "https://www.hk01.com/01TV/60413464/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%A7%BB%E6%B0%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%B1%E6%A5%AD-%E4%B8%80%E9%80%9A%E9%9B%BB%E8%A9%B1%E6%8E%A5%E6%BC%94-%E8%82%A5%E8%B2%93%E6%AD%A3%E5%82%B3-%E5%9B%9E%E6%B8%AF",
     "timestamp": "2026-11-22T17:29:30.349Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀移民加拿大失業：一通電話接演《肥貓正傳》回港",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200855366418567168710286.jpeg/0v2N17Fi2hAFIAVileBTI4rj9BIdXix9awhtImsIbSI",
-    "url": "https://www.hk01.com/01TV/60413464/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%A7%BB%E6%B0%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%B1%E6%A5%AD-%E4%B8%80%E9%80%9A%E9%9B%BB%E8%A9%B1%E6%8E%A5%E6%BC%94-%E8%82%A5%E8%B2%93%E6%AD%A3%E5%82%B3-%E5%9B%9E%E6%B8%AF",
-    "timestamp": "2026-11-22T17:18:11.829Z",
     "strategy": ".content-card__main"
   }
 ];
