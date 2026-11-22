@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T12:23:30.143Z
+// Last updated: 2026-11-22T12:36:44.776Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳偉霆升呢人父無損頂流魅力　澳門開騷中門大開任摸腹肌極寵粉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201228738277150720265987.jpeg/zYk3ZqAaReMU5JT6ZRrerosl2AHwjnzbhsiuUobIrlI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60413658/%E9%99%B3%E5%81%89%E9%9C%86%E5%8D%87%E5%91%A2%E4%BA%BA%E7%88%B6%E7%84%A1%E6%90%8D%E9%A0%82%E6%B5%81%E9%AD%85%E5%8A%9B-%E6%BE%B3%E9%96%80%E9%96%8B%E9%A8%B7%E4%B8%AD%E9%96%80%E5%A4%A7%E9%96%8B%E4%BB%BB%E6%91%B8%E8%85%B9%E8%82%8C%E6%A5%B5%E5%AF%B5%E7%B2%89",
+    "timestamp": "2026-11-22T12:36:44.776Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李澤楷IG百人追蹤名單涉政商藝術名流　只得兩位藝人皆為男歌手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20200429/332261470664527872.jpeg/DCdfTmYMCNY-BkkN5paT18MGWAiyqvajKRwh_ykcIf8",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60413616/%E6%A2%B3%E4%B9%8E%E5%8E%98%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%933%E7%A7%98%E8%A8%A3%E5%AE%8C%E7%BE%8E%E5%8D%87%E9%AB%98%E4%B8%8D%E6%AD%AA%E6%96%9C-%E5%8D%87%E9%AB%98%E9%97%9C%E9%8D%B5%E9%9D%9E%E6%89%93%E8%9B%8B",
     "timestamp": "2026-11-22T05:45:35.047Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜倖存外籍傭工出書寫劇記經歷解創傷　主辦方盼擇日再分享",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200959885244633088963012.png/60DC8Xw0owYt8HnZMl_pO-e8Q5sUj9gHG7D3mBuw95g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413426/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%80%96%E5%AD%98%E5%A4%96%E7%B1%8D%E5%82%AD%E5%B7%A5%E5%87%BA%E6%9B%B8%E5%AF%AB%E5%8A%87%E8%A8%98%E7%B6%93%E6%AD%B7%E8%A7%A3%E5%89%B5%E5%82%B7-%E4%B8%BB%E8%BE%A6%E6%96%B9%E7%9B%BC%E6%93%87%E6%97%A5%E5%86%8D%E5%88%86%E4%BA%AB",
-    "timestamp": "2026-11-22T05:19:59.389Z",
     "strategy": ".content-card__main"
   }
 ];
