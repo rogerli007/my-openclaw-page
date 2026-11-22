@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T07:20:13.921Z
+// Last updated: 2026-11-22T08:22:25.829Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "智利工作假期計劃最快明年上半年推行　孫玉菡：為年輕人提供選擇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201198475958554624147302.jpeg/brRY2mZ4_xP8wLcnstKz_BQGH5fvV91PNMv2BxHL9gc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413659/%E6%99%BA%E5%88%A9%E5%B7%A5%E4%BD%9C%E5%81%87%E6%9C%9F%E8%A8%88%E5%8A%83%E6%9C%80%E5%BF%AB%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%8E%A8%E8%A1%8C-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E7%82%BA%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%8F%90%E4%BE%9B%E9%81%B8%E6%93%87",
+    "timestamp": "2026-11-22T08:22:25.829Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金秀賢十年代言遭索賠破億！法院一審判所屬公司賠8.75億本人免責",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200465051027247104047385.png/8w00g01PoopxaOYkK8YQo_Qb9dzQXyAKAssFXgLLBV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413576/aeon%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B6%B2%E4%B8%8A%E5%8F%8A%E6%89%8B%E6%A9%9Fapp%E6%AD%BB%E6%A9%9F%E9%80%BE%E5%85%A9%E6%97%A5-%E5%85%AC%E5%8F%B8-%E7%B3%BB%E7%B5%B1%E9%81%AD%E6%9C%AA%E7%B6%93%E6%8E%88%E6%AC%8A%E6%9F%A5%E9%96%B1",
     "timestamp": "2026-11-22T01:20:18.374Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱俄烏停火可助歐洲發展　澤連斯基：普京恐拖延談判",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183110510866862080539276.jpeg/fPwlhaWk0Sd9OskmDDDHq0MWHA2AA6G6GkDqmhpA6po?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413573/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BF%84%E7%83%8F%E5%81%9C%E7%81%AB%E5%8F%AF%E5%8A%A9%E6%AD%90%E6%B4%B2%E7%99%BC%E5%B1%95-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%99%AE%E4%BA%AC%E6%81%90%E6%8B%96%E5%BB%B6%E8%AB%87%E5%88%A4",
-    "timestamp": "2026-11-22T01:00:27.527Z",
     "strategy": ".content-card__main"
   }
 ];
