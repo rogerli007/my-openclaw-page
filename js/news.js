@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T22:29:50.096Z
+// Last updated: 2026-11-22T22:59:06.412Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜曼聯新帥普捷天奴首擊吞利物浦4蛋  起用迪歷特成致命傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201421899364569088359761.jpeg/saOAr5ocfJ0V4CxwpR3Een6zs2iqmVS4pZiwXaWYsF0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413797/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E6%96%B0%E5%B8%A5%E6%99%AE%E6%8D%B7%E5%A4%A9%E5%A5%B4%E9%A6%96%E6%93%8A%E5%90%9E%E5%88%A9%E7%89%A9%E6%B5%A64%E8%9B%8B-%E8%B5%B7%E7%94%A8%E8%BF%AA%E6%AD%B7%E7%89%B9%E6%88%90%E8%87%B4%E5%91%BD%E5%82%B7",
+    "timestamp": "2026-11-22T22:59:06.412Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣大壩街爆鹹水管　水柱一度激噴3層樓高　水務署急關掣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201334202113462272176805.jpeg/YJ9ItG1FeP56Q9WgVU8evex4l5Tw0uzo6OjJUejoyVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413781/%E9%81%94%E7%BE%8E%E8%88%AA%E7%A9%BA%E8%BC%89%E9%87%8D%E8%A8%88%E7%AE%97%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E5%85%A8%E7%BE%8E%E6%95%B8%E7%99%BE%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AA%A4-%E4%BA%9E%E7%89%B9%E8%98%AD%E5%A4%A7%E4%BD%94%E6%9C%80%E5%A4%9A",
     "timestamp": "2026-11-22T16:59:10.540Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金馬獎2026得獎名單｜《善男信女》奪劇情片　AK、袁澧林首獲金馬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201311133143666688437206.jpeg/KQN_K7l6sEm1G5XCtNwxxLK-tYesDqP64VA5z-FQOc8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413721/%E9%87%91%E9%A6%AC%E7%8D%8E2026%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-%E5%96%84%E7%94%B7%E4%BF%A1%E5%A5%B3-%E5%A5%AA%E5%8A%87%E6%83%85%E7%89%87-ak-%E8%A2%81%E6%BE%A7%E6%9E%97%E9%A6%96%E7%8D%B2%E9%87%91%E9%A6%AC",
-    "timestamp": "2026-11-22T15:59:10.696Z",
     "strategy": ".content-card__main"
   }
 ];
