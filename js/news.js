@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T19:43:51.950Z
+// Last updated: 2026-11-22T19:59:02.455Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "選委會選舉｜立法會發言人：彰顯完善選舉制度後新選制優越性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201277863362695168310429.jpeg/V95JqZ2lfAE4GLd7Atot669mCgDdNT2-6de0gczXtIE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413791/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E7%AB%8B%E6%B3%95%E6%9C%83%E7%99%BC%E8%A8%80%E4%BA%BA-%E5%BD%B0%E9%A1%AF%E5%AE%8C%E5%96%84%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6%E5%BE%8C%E6%96%B0%E9%81%B8%E5%88%B6%E5%84%AA%E8%B6%8A%E6%80%A7",
+    "timestamp": "2026-11-22T19:59:02.455Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄船停靠利比亞港口爆炸10人傷　疑無人機攻擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201251200784142336049382.jpeg/16MD57llfd2wCd0QaaRnP4TIPw7o-feH8qaTXvKmk14?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413727/%E6%9D%8E%E6%BE%A4%E6%A5%B7ig%E7%99%BE%E4%BA%BA%E8%BF%BD%E8%B9%A4%E5%90%8D%E5%96%AE%E6%B6%89%E6%94%BF%E5%95%86%E8%97%9D%E8%A1%93%E5%90%8D%E6%B5%81-%E5%8F%AA%E5%BE%97%E5%85%A9%E4%BD%8D%E8%97%9D%E4%BA%BA%E7%9A%86%E7%82%BA%E7%94%B7%E6%AD%8C%E6%89%8B",
     "timestamp": "2026-11-22T12:23:30.143Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "向太認郭碧婷手握「兩張王牌」唔敢兇　尊重新抱意願絕不催生",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201234328009314304015473.jpeg/PvkgPILit2UtqMaQLwrNUqbM8GuzcAtv-pjx4vqY8eI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413686/%E5%90%91%E5%A4%AA%E8%AA%8D%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%89%8B%E6%8F%A1-%E5%85%A9%E5%BC%B5%E7%8E%8B%E7%89%8C-%E5%94%94%E6%95%A2%E5%85%87-%E5%B0%8A%E9%87%8D%E6%96%B0%E6%8A%B1%E6%84%8F%E9%A1%98%E7%B5%95%E4%B8%8D%E5%82%AC%E7%94%9F",
-    "timestamp": "2026-11-22T11:59:06.714Z",
     "strategy": ".content-card__main"
   }
 ];
