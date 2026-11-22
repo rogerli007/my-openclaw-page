@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T11:18:36.668Z
+// Last updated: 2026-11-22T11:29:24.633Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "恐慌指數逼近極值！　高盛︰美股拋售未完｜大行觀點",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200687809166315520469103.jpeg/WLOefWrrptYZowDzRLqpJ2WlAC1oLFqhWfde3ln3Xt4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413570/%E6%81%90%E6%85%8C%E6%8C%87%E6%95%B8%E9%80%BC%E8%BF%91%E6%A5%B5%E5%80%BC-%E9%AB%98%E7%9B%9B-%E7%BE%8E%E8%82%A1%E6%8B%8B%E5%94%AE%E6%9C%AA%E5%AE%8C-%E5%A4%A7%E8%A1%8C%E8%A7%80%E9%BB%9E",
+    "timestamp": "2026-11-22T11:29:24.633Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金馬獎2026即時更新｜跟兒子齊奪最佳音效　杜篤之︰最高興的一次",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201140557343100928653182.jpeg/-9LqlAWqxBgV_aCogxx3QXPxVCHLmdk3TcPvnE3D75w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413578/45%E6%AD%B2%E4%BD%99%E6%96%87%E6%A8%82%E8%87%AA%E7%88%86%E6%82%A3%E5%9A%B4%E9%87%8D%E6%81%90%E6%85%8C%E7%97%87-%E6%80%95%E5%85%A5%E5%8C%96%E5%A6%9D%E9%96%93%E6%9B%B4%E6%9B%BE%E9%A7%95%E8%BB%8A%E7%AA%81%E7%97%85%E7%99%BC%E6%80%A5%E5%81%9C%E8%B7%AF%E9%82%8A",
     "timestamp": "2026-11-22T04:32:46.165Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜車路士領先下1：4不敵列斯聯　沙比阿朗素蜜月期完跌至第8",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201132396292870144796581.jpeg/KlDvpek_Qs-ZMJ6HeNe3NpBiAuWBeWv1Ve12tVXtdrU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413582/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E9%A0%98%E5%85%88%E4%B8%8B1-4%E4%B8%8D%E6%95%B5%E5%88%97%E6%96%AF%E8%81%AF-%E6%B2%99%E6%AF%94%E9%98%BF%E6%9C%97%E7%B4%A0%E8%9C%9C%E6%9C%88%E6%9C%9F%E5%AE%8C%E8%B7%8C%E8%87%B3%E7%AC%AC8",
-    "timestamp": "2026-11-22T03:59:09.361Z",
     "strategy": ".content-card__main"
   }
 ];
