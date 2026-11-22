@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T05:19:59.389Z
+// Last updated: 2026-11-22T05:45:35.047Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梳乎厘食譜｜做法簡易3秘訣完美升高不歪斜、升高關鍵非打蛋？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20200429/332261470664527872.jpeg/DCdfTmYMCNY-BkkN5paT18MGWAiyqvajKRwh_ykcIf8",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60413616/%E6%A2%B3%E4%B9%8E%E5%8E%98%E9%A3%9F%E8%AD%9C-%E5%81%9A%E6%B3%95%E7%B0%A1%E6%98%933%E7%A7%98%E8%A8%A3%E5%AE%8C%E7%BE%8E%E5%8D%87%E9%AB%98%E4%B8%8D%E6%AD%AA%E6%96%9C-%E5%8D%87%E9%AB%98%E9%97%9C%E9%8D%B5%E9%9D%9E%E6%89%93%E8%9B%8B",
+    "timestamp": "2026-11-22T05:45:35.047Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜倖存外籍傭工出書寫劇記經歷解創傷　主辦方盼擇日再分享",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200886730681487360279635.png/gtDNIWU_2o5QaDToz2VqMJ4hz2n35zgESNaJj0jWiY8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411583/%E7%BE%9E%E8%8A%B1-%E6%A5%8A%E7%8E%89%E7%92%B0%E5%BE%9E%E9%81%93%E5%A3%AB%E5%88%B0%E8%B2%B4%E5%A6%83-%E9%A6%AC%E5%B5%AC%E5%9D%A1%E7%82%BA%E4%BD%95%E6%88%90%E7%B5%95%E8%B7%AF-%E5%9B%9B%E5%A4%A7%E7%BE%8E%E4%BA%BA%E4%B9%8B%E5%9B%9B",
     "timestamp": "2026-11-21T22:29:41.808Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小雪天氣｜今日多雲　稍後有一兩陣微雨　預料周三氣溫跌至16度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201051427363885056219067.jpeg/UB-c-lMfLh-iJKxKJdxrOD7nD9qJdL4BAl6pwzheqcM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60413556/%E5%B0%8F%E9%9B%AA%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E5%A4%9A%E9%9B%B2-%E7%A8%8D%E5%BE%8C%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E9%A0%90%E6%96%99%E5%91%A8%E4%B8%89%E6%B0%A3%E6%BA%AB%E8%B7%8C%E8%87%B316%E5%BA%A6",
-    "timestamp": "2026-11-21T22:18:52.523Z",
     "strategy": ".content-card__main"
   }
 ];
