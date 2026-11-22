@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T19:17:54.250Z
+// Last updated: 2026-11-22T19:43:51.950Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄船停靠利比亞港口爆炸10人傷　疑無人機攻擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201373429354205184892530.jpeg/AbNuVrAT63kkotajx5eonEnWRpyhbHAL8fPHgfHzx4E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413789/%E4%BF%84%E8%88%B9%E5%81%9C%E9%9D%A0%E5%88%A9%E6%AF%94%E4%BA%9E%E6%B8%AF%E5%8F%A3%E7%88%86%E7%82%B810%E4%BA%BA%E5%82%B7-%E7%96%91%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%94%BB%E6%93%8A",
+    "timestamp": "2026-11-22T19:43:51.950Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀遭亞視臨門取消合約：零收入遇斷糧與供樓雙重打擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201234328009314304015473.jpeg/PvkgPILit2UtqMaQLwrNUqbM8GuzcAtv-pjx4vqY8eI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413686/%E5%90%91%E5%A4%AA%E8%AA%8D%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%89%8B%E6%8F%A1-%E5%85%A9%E5%BC%B5%E7%8E%8B%E7%89%8C-%E5%94%94%E6%95%A2%E5%85%87-%E5%B0%8A%E9%87%8D%E6%96%B0%E6%8A%B1%E6%84%8F%E9%A1%98%E7%B5%95%E4%B8%8D%E5%82%AC%E7%94%9F",
     "timestamp": "2026-11-22T11:59:06.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俞可程爆戀TVB導演火速復工拍《東張》　林盛斌揭台慶避風頭內幕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201252018258186240703456.png/Y9VsNgMX34eMaHOuJHn25DMBDDC5ZmjdmzmS85s5kvM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413734/%E4%BF%9E%E5%8F%AF%E7%A8%8B%E7%88%86%E6%88%80tvb%E5%B0%8E%E6%BC%94%E7%81%AB%E9%80%9F%E5%BE%A9%E5%B7%A5%E6%8B%8D-%E6%9D%B1%E5%BC%B5-%E6%9E%97%E7%9B%9B%E6%96%8C%E6%8F%AD%E5%8F%B0%E6%85%B6%E9%81%BF%E9%A2%A8%E9%A0%AD%E5%85%A7%E5%B9%95",
-    "timestamp": "2026-11-22T11:45:01.715Z",
     "strategy": ".content-card__main"
   }
 ];
