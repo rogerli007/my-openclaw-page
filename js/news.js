@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T06:25:56.681Z
+// Last updated: 2026-11-22T06:49:10.306Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗西九龍中心婦人扶手梯跌倒　一度昏迷送院",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201181125741907968854720.jpeg/3e4C_FMuu2oBPXtOymzWGTcQq11yLqDyzeHObc3hzm0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413632/%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%A5%BF%E4%B9%9D%E9%BE%8D%E4%B8%AD%E5%BF%83%E5%A9%A6%E4%BA%BA%E6%89%B6%E6%89%8B%E6%A2%AF%E8%B7%8C%E5%80%92-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
+    "timestamp": "2026-11-22T06:49:10.306Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股11.20股災懶人包！AI泡沫爆破抑或重新定價？ 　拆解7大原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200484016441004032893150.png/vxmpwVe7yJbKPkIeDu_k_jTmbX2sGrOgasSn-2rEp_s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60413102/2026%E5%B9%B4%E5%BA%954%E6%98%9F%E5%BA%A7%E5%B0%87%E8%B2%A1%E9%81%8B%E7%BF%BB%E7%9B%A4-%E9%80%B2%E5%B8%B3%E6%9A%B4%E5%A2%9E%E8%BF%8E%E6%96%B0%E6%A9%9F-%E6%A6%9C%E9%A6%96%E9%9D%A0%E8%A1%A8%E7%8F%BE%E5%8A%A0%E8%96%AA%E5%8D%87%E8%81%B7",
     "timestamp": "2026-11-21T23:18:49.426Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「羞花」楊玉環從道士到貴妃　馬嵬坡為何成絕路？｜四大美人之四",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200886730681487360279635.png/gtDNIWU_2o5QaDToz2VqMJ4hz2n35zgESNaJj0jWiY8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411583/%E7%BE%9E%E8%8A%B1-%E6%A5%8A%E7%8E%89%E7%92%B0%E5%BE%9E%E9%81%93%E5%A3%AB%E5%88%B0%E8%B2%B4%E5%A6%83-%E9%A6%AC%E5%B5%AC%E5%9D%A1%E7%82%BA%E4%BD%95%E6%88%90%E7%B5%95%E8%B7%AF-%E5%9B%9B%E5%A4%A7%E7%BE%8E%E4%BA%BA%E4%B9%8B%E5%9B%9B",
-    "timestamp": "2026-11-21T22:59:02.145Z",
     "strategy": ".content-card__main"
   }
 ];
