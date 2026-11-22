@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T01:00:27.527Z
+// Last updated: 2026-11-22T01:20:18.374Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "AEON信用卡網上及手機APP死機逾兩日　公司：系統遭未經授權查閱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200465051027247104047385.png/8w00g01PoopxaOYkK8YQo_Qb9dzQXyAKAssFXgLLBV4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413576/aeon%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B6%B2%E4%B8%8A%E5%8F%8A%E6%89%8B%E6%A9%9Fapp%E6%AD%BB%E6%A9%9F%E9%80%BE%E5%85%A9%E6%97%A5-%E5%85%AC%E5%8F%B8-%E7%B3%BB%E7%B5%B1%E9%81%AD%E6%9C%AA%E7%B6%93%E6%8E%88%E6%AC%8A%E6%9F%A5%E9%96%B1",
+    "timestamp": "2026-11-22T01:20:18.374Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱俄烏停火可助歐洲發展　澤連斯基：普京恐拖延談判",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200749872957886464731946.jpeg/vIgs7YWjkolAPFkVZLj3B0hLoEA9uUfvtlZPoLZWT6A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413549/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B0%8B%E6%B1%82%E8%88%87%E4%BC%8A%E6%9C%97%E9%81%94%E6%88%90-%E6%B0%B8%E4%B9%85%E6%80%A7-%E5%8D%94%E8%AD%B0-%E6%8C%87%E5%BE%9E%E6%9C%AA%E5%9C%A8%E6%84%8F%E5%B0%8D%E6%96%B9%E6%94%BF%E6%AC%8A%E6%9B%B4%E8%BF%AD",
     "timestamp": "2026-11-21T17:59:13.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀談錯失百萬獎金：因父親反對而放棄參選亞姐",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200478881392365568451098.jpeg/pBadLFTLC6Z9MWh9vkNXaGKnCGBhVfjzoWHWBqFh1gY",
-    "url": "https://www.hk01.com/01TV/60413183/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AB%87%E9%8C%AF%E5%A4%B1%E7%99%BE%E8%90%AC%E7%8D%8E%E9%87%91-%E5%9B%A0%E7%88%B6%E8%A6%AA%E5%8F%8D%E5%B0%8D%E8%80%8C%E6%94%BE%E6%A3%84%E5%8F%83%E9%81%B8%E4%BA%9E%E5%A7%90",
-    "timestamp": "2026-11-21T17:45:03.841Z",
     "strategy": ".content-card__main"
   }
 ];
