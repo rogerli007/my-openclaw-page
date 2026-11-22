@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T22:59:06.412Z
+// Last updated: 2026-11-22T23:19:04.799Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑大火一周年｜嚴重傷者艱難康復　穿壓力衣學握拳　終可步行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199096139744284672168257.jpeg/LBE8wR0Aq-gzbJQ19Yit1T48R7LHR381THL9Nkxy_TY",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408771/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%9A%B4%E9%87%8D%E5%82%B7%E8%80%85%E8%89%B1%E9%9B%A3%E5%BA%B7%E5%BE%A9-%E7%A9%BF%E5%A3%93%E5%8A%9B%E8%A1%A3%E5%AD%B8%E6%8F%A1%E6%8B%B3-%E7%B5%82%E5%8F%AF%E6%AD%A5%E8%A1%8C",
+    "timestamp": "2026-11-22T23:19:04.799Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英超｜曼聯新帥普捷天奴首擊吞利物浦4蛋  起用迪歷特成致命傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200855366418567168710286.jpeg/0v2N17Fi2hAFIAVileBTI4rj9BIdXix9awhtImsIbSI",
     "url": "https://www.hk01.com/01TV/60413464/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%A7%BB%E6%B0%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%B1%E6%A5%AD-%E4%B8%80%E9%80%9A%E9%9B%BB%E8%A9%B1%E6%8E%A5%E6%BC%94-%E8%82%A5%E8%B2%93%E6%AD%A3%E5%82%B3-%E5%9B%9E%E6%B8%AF",
     "timestamp": "2026-11-22T17:18:11.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "達美航空載重計算系統故障　全美數百航班延誤　亞特蘭大佔最多",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201334202113462272176805.jpeg/YJ9ItG1FeP56Q9WgVU8evex4l5Tw0uzo6OjJUejoyVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413781/%E9%81%94%E7%BE%8E%E8%88%AA%E7%A9%BA%E8%BC%89%E9%87%8D%E8%A8%88%E7%AE%97%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E5%85%A8%E7%BE%8E%E6%95%B8%E7%99%BE%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AA%A4-%E4%BA%9E%E7%89%B9%E8%98%AD%E5%A4%A7%E4%BD%94%E6%9C%80%E5%A4%9A",
-    "timestamp": "2026-11-22T16:59:10.540Z",
     "strategy": ".content-card__main"
   }
 ];
