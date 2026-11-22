@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T03:22:46.011Z
+// Last updated: 2026-11-22T03:34:37.195Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "GaWC 2026世界城市排名｜香港全球第3　力壓北京上海拋離廣州深圳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260701/1149033087330947072713482.jpeg/eEJn22NICy-la6uVo2X0cZywKGmK3HCekgZPfbcGT30?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413587/gawc-2026%E4%B8%96%E7%95%8C%E5%9F%8E%E5%B8%82%E6%8E%92%E5%90%8D-%E9%A6%99%E6%B8%AF%E5%85%A8%E7%90%83%E7%AC%AC3-%E5%8A%9B%E5%A3%93%E5%8C%97%E4%BA%AC%E4%B8%8A%E6%B5%B7%E6%8B%8B%E9%9B%A2%E5%BB%A3%E5%B7%9E%E6%B7%B1%E5%9C%B3",
+    "timestamp": "2026-11-22T03:34:37.195Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳茂波：香港有獨特價值　身處世界灣區經濟合作聯盟有助更好發揮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151809168370307072307245.jpeg/Huh2TYTSVy5yji2xV6LBo7nWUjWHtzW2V102xFddNsQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413559/%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%8E%E5%BD%88%E4%BE%B5%E7%8A%AF%E6%B3%A2%E8%98%AD%E9%A0%98%E7%A9%BA-%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E5%91%82%E7%89%B9%E6%8C%87%E5%B0%87%E6%8D%8D%E8%A1%9B%E6%B3%A2%E8%98%AD%E6%AF%8F%E4%B8%80%E5%AF%B8%E9%A0%98%E5%9C%9F",
     "timestamp": "2026-11-21T20:45:05.294Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯導彈侵犯波蘭領空　北約秘書長呂特指將捍衛波蘭每一寸領土",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151809168370307072307245.jpeg/Huh2TYTSVy5yji2xV6LBo7nWUjWHtzW2V102xFddNsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413559/%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%8E%E5%BD%88%E4%BE%B5%E7%8A%AF%E6%B3%A2%E8%98%AD%E9%A0%98%E7%A9%BA-%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E5%91%82%E7%89%B9%E6%8C%87%E5%B0%87%E6%8D%8D%E8%A1%9B%E6%B3%A2%E8%98%AD%E6%AF%8F%E4%B8%80%E5%AF%B8%E9%A0%98%E5%9C%9F",
-    "timestamp": "2026-11-21T20:29:23.448Z",
     "strategy": ".content-card__main"
   }
 ];
