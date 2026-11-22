@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T10:59:04.088Z
+// Last updated: 2026-11-22T11:18:36.668Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金馬獎2026即時更新｜跟兒子齊奪最佳音效　杜篤之︰最高興的一次",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201252136764051456680194.jpeg/hJIMDTJP3QqwqGu5Yh_pwuxwprBkhag5mXrpkpl66ZI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413721/%E9%87%91%E9%A6%AC%E7%8D%8E2026%E5%8D%B3%E6%99%82%E6%9B%B4%E6%96%B0-%E8%B7%9F%E5%85%92%E5%AD%90%E9%BD%8A%E5%A5%AA%E6%9C%80%E4%BD%B3%E9%9F%B3%E6%95%88-%E6%9D%9C%E7%AF%A4%E4%B9%8B-%E6%9C%80%E9%AB%98%E8%88%88%E7%9A%84%E4%B8%80%E6%AC%A1",
+    "timestamp": "2026-11-22T11:18:36.668Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "九龍灣MegaBox Omart開幕人龍跨6層　現場有分流　市民稱未見混亂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201132396292870144796581.jpeg/KlDvpek_Qs-ZMJ6HeNe3NpBiAuWBeWv1Ve12tVXtdrU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413582/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E9%A0%98%E5%85%88%E4%B8%8B1-4%E4%B8%8D%E6%95%B5%E5%88%97%E6%96%AF%E8%81%AF-%E6%B2%99%E6%AF%94%E9%98%BF%E6%9C%97%E7%B4%A0%E8%9C%9C%E6%9C%88%E6%9C%9F%E5%AE%8C%E8%B7%8C%E8%87%B3%E7%AC%AC8",
     "timestamp": "2026-11-22T03:59:09.361Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜孫玉菡：「一戶一社工」不會退場　精神支援將數以十年計",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200481578036236288379185.jpeg/7U32DgHRfG-LuEt3UXSb8GdnQGqMqsxKhqDKZ4agymc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413600/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E4%B8%80%E6%88%B6%E4%B8%80%E7%A4%BE%E5%B7%A5-%E4%B8%8D%E6%9C%83%E9%80%80%E5%A0%B4-%E7%B2%BE%E7%A5%9E%E6%94%AF%E6%8F%B4%E5%B0%87%E6%95%B8%E4%BB%A5%E5%8D%81%E5%B9%B4%E8%A8%88",
-    "timestamp": "2026-11-22T03:45:18.716Z",
     "strategy": ".content-card__main"
   }
 ];
