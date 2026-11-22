@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T03:45:18.716Z
+// Last updated: 2026-11-22T03:59:09.361Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超｜車路士領先下1：4不敵列斯聯　沙比阿朗素蜜月期完跌至第8",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201132396292870144796581.jpeg/KlDvpek_Qs-ZMJ6HeNe3NpBiAuWBeWv1Ve12tVXtdrU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413582/%E8%8B%B1%E8%B6%85-%E8%BB%8A%E8%B7%AF%E5%A3%AB%E9%A0%98%E5%85%88%E4%B8%8B1-4%E4%B8%8D%E6%95%B5%E5%88%97%E6%96%AF%E8%81%AF-%E6%B2%99%E6%AF%94%E9%98%BF%E6%9C%97%E7%B4%A0%E8%9C%9C%E6%9C%88%E6%9C%9F%E5%AE%8C%E8%B7%8C%E8%87%B3%E7%AC%AC8",
+    "timestamp": "2026-11-22T03:59:09.361Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜孫玉菡：「一戶一社工」不會退場　精神支援將數以十年計",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201038924605034496403198.jpeg/_i596IgRvoCdJeyR2yxZ3-t8l5t1oamT9IHHOvSBxzo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413561/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%89%A3%E7%95%992%E8%BB%8A-2%E5%8F%B8%E6%A9%9F%E5%88%86%E5%88%A5%E6%B6%89%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B%E5%92%8C%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-21T21:18:42.357Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄羅斯導彈侵犯波蘭領空　北約秘書長呂特指將捍衛波蘭每一寸領土",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151809168370307072307245.jpeg/Huh2TYTSVy5yji2xV6LBo7nWUjWHtzW2V102xFddNsQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413559/%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%8E%E5%BD%88%E4%BE%B5%E7%8A%AF%E6%B3%A2%E8%98%AD%E9%A0%98%E7%A9%BA-%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E5%91%82%E7%89%B9%E6%8C%87%E5%B0%87%E6%8D%8D%E8%A1%9B%E6%B3%A2%E8%98%AD%E6%AF%8F%E4%B8%80%E5%AF%B8%E9%A0%98%E5%9C%9F",
-    "timestamp": "2026-11-21T20:58:55.648Z",
     "strategy": ".content-card__main"
   }
 ];
