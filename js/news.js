@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T17:59:03.224Z
+// Last updated: 2026-11-22T18:21:24.155Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀首拍電視劇震撼：從公主般模特待遇落入雜務地獄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200856587476930560016793.jpeg/2LjLws6iZTGSJ8CBfxm_IilquPsYYeo3N8N3TTfDd00",
+    "url": "https://www.hk01.com/01TV/60413466/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%A6%96%E6%8B%8D%E9%9B%BB%E8%A6%96%E5%8A%87%E9%9C%87%E6%92%BC-%E5%BE%9E%E5%85%AC%E4%B8%BB%E8%88%AC%E6%A8%A1%E7%89%B9%E5%BE%85%E9%81%87%E8%90%BD%E5%85%A5%E9%9B%9C%E5%8B%99%E5%9C%B0%E7%8D%84",
+    "timestamp": "2026-11-22T18:21:24.155Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丁薛祥訪新加坡晤黃循財　稱中方願深化AI等領域互利合作",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201252136764051456680194.jpeg/hJIMDTJP3QqwqGu5Yh_pwuxwprBkhag5mXrpkpl66ZI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413721/%E9%87%91%E9%A6%AC%E7%8D%8E2026%E5%8D%B3%E6%99%82%E6%9B%B4%E6%96%B0-%E8%B7%9F%E5%85%92%E5%AD%90%E9%BD%8A%E5%A5%AA%E6%9C%80%E4%BD%B3%E9%9F%B3%E6%95%88-%E6%9D%9C%E7%AF%A4%E4%B9%8B-%E6%9C%80%E9%AB%98%E8%88%88%E7%9A%84%E4%B8%80%E6%AC%A1",
     "timestamp": "2026-11-22T11:18:36.668Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "九龍灣MegaBox Omart開幕人龍跨6層　現場有分流　市民稱未見混亂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201241935386644480954082.jpeg/FdxXlxkyctuXQlXtdqRNAREN_tiZ_oD1eRkfPlwZHz4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413724/%E4%B9%9D%E9%BE%8D%E7%81%A3megabox-omart%E9%96%8B%E5%B9%95%E4%BA%BA%E9%BE%8D%E8%B7%A86%E5%B1%A4-%E7%8F%BE%E5%A0%B4%E6%9C%89%E5%88%86%E6%B5%81-%E5%B8%82%E6%B0%91%E7%A8%B1%E6%9C%AA%E8%A6%8B%E6%B7%B7%E4%BA%82",
-    "timestamp": "2026-11-22T10:59:04.088Z",
     "strategy": ".content-card__main"
   }
 ];
