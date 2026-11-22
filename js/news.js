@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T20:14:02.571Z
+// Last updated: 2026-11-22T20:29:32.940Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀踏入TVB契機：吳君如牽線飯局促成轉台",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200859309638946816045196.jpeg/ImLknqD5IwNHhGGiEGcICTYH8xCgNkVhiVldkYlZXZE",
+    "url": "https://www.hk01.com/01TV/60413472/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%B8%8F%E5%85%A5tvb%E5%A5%91%E6%A9%9F-%E5%90%B3%E5%90%9B%E5%A6%82%E7%89%BD%E7%B7%9A%E9%A3%AF%E5%B1%80%E4%BF%83%E6%88%90%E8%BD%89%E5%8F%B0",
+    "timestamp": "2026-11-22T20:29:32.940Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀踏入TVB契機：吳君如牽線飯局促成轉台",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201284633572937728286415.jpeg/mXZbSICeaJZbrHGtIQ33_HmdbQHzP31GzfTzAej08wE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413757/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E6%9D%8E%E6%BE%A4%E6%A5%B7-%E9%BB%83%E6%B0%B8%E5%85%89%E7%95%B6%E9%81%B8%E9%81%B8%E5%A7%94-%E6%B3%95%E5%BE%8B%E7%95%8C%E5%83%85%E6%B9%AF%E6%96%87%E9%BE%8D%E6%9C%83%E9%95%B7%E4%B8%80%E4%BA%BA%E8%BC%B8",
     "timestamp": "2026-11-22T13:44:56.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳偉霆升呢人父無損頂流魅力　澳門開騷中門大開任摸腹肌極寵粉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201228738277150720265987.jpeg/zYk3ZqAaReMU5JT6ZRrerosl2AHwjnzbhsiuUobIrlI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60413658/%E9%99%B3%E5%81%89%E9%9C%86%E5%8D%87%E5%91%A2%E4%BA%BA%E7%88%B6%E7%84%A1%E6%90%8D%E9%A0%82%E6%B5%81%E9%AD%85%E5%8A%9B-%E6%BE%B3%E9%96%80%E9%96%8B%E9%A8%B7%E4%B8%AD%E9%96%80%E5%A4%A7%E9%96%8B%E4%BB%BB%E6%91%B8%E8%85%B9%E8%82%8C%E6%A5%B5%E5%AF%B5%E7%B2%89",
-    "timestamp": "2026-11-22T12:36:44.776Z",
     "strategy": ".content-card__main"
   }
 ];
