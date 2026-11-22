@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T14:58:59.909Z
+// Last updated: 2026-11-22T15:18:44.370Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜6中學女生吸煙片揭校園欺凌　雙方各執一詞爆羅生門",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201282805871415296076521.jpeg/xKmcrblpxWX7Lapb1-FO6HfyhVbbP22JkjGa3pIxmt4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413755/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-6%E4%B8%AD%E5%AD%B8%E5%A5%B3%E7%94%9F%E5%90%B8%E7%85%99%E7%89%87%E6%8F%AD%E6%A0%A1%E5%9C%92%E6%AC%BA%E5%87%8C-%E9%9B%99%E6%96%B9%E5%90%84%E5%9F%B7%E4%B8%80%E8%A9%9E%E7%88%86%E7%BE%85%E7%94%9F%E9%96%80",
+    "timestamp": "2026-11-22T15:18:44.370Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "選委會選舉2026｜投票結果全名單　誰人當選、爆冷墮馬一文看清",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201198475958554624147302.jpeg/brRY2mZ4_xP8wLcnstKz_BQGH5fvV91PNMv2BxHL9gc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413659/%E6%99%BA%E5%88%A9%E5%B7%A5%E4%BD%9C%E5%81%87%E6%9C%9F%E8%A8%88%E5%8A%83%E6%9C%80%E5%BF%AB%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%8E%A8%E8%A1%8C-%E5%AD%AB%E7%8E%89%E8%8F%A1-%E7%82%BA%E5%B9%B4%E8%BC%95%E4%BA%BA%E6%8F%90%E4%BE%9B%E9%81%B8%E6%93%87",
     "timestamp": "2026-11-22T08:22:25.829Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金秀賢十年代言遭索賠破億！法院一審判所屬公司賠8.75億本人免責",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201177231116734464982561.png/_V8KXq71drq0AVHfBDu9PSBa2Xk4_CbBTnkW-U55Fvk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413617/%E9%87%91%E7%A7%80%E8%B3%A2%E5%8D%81%E5%B9%B4%E4%BB%A3%E8%A8%80%E9%81%AD%E7%B4%A2%E8%B3%A0%E7%A0%B4%E5%84%84-%E6%B3%95%E9%99%A2%E4%B8%80%E5%AF%A9%E5%88%A4%E6%89%80%E5%B1%AC%E5%85%AC%E5%8F%B8%E8%B3%A08-75%E5%84%84%E6%9C%AC%E4%BA%BA%E5%85%8D%E8%B2%AC",
-    "timestamp": "2026-11-22T07:20:13.921Z",
     "strategy": ".content-card__main"
   }
 ];
