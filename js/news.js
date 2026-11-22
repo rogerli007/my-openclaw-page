@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T21:58:59.340Z
+// Last updated: 2026-11-22T22:19:08.478Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "荃灣大壩街爆鹹水管　水柱一度激噴3層樓高　水務署急關掣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201414665087750144132754.jpeg/J43y8P3jcdT6X00_GDNnAPkhFkXNfIlljJsvA4ybLwM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413793/%E8%8D%83%E7%81%A3%E5%A4%A7%E5%A3%A9%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E6%9F%B1%E4%B8%80%E5%BA%A6%E6%BF%80%E5%99%B43%E5%B1%A4%E6%A8%93%E9%AB%98-%E6%B0%B4%E5%8B%99%E7%BD%B2%E6%80%A5%E9%97%9C%E6%8E%A3",
+    "timestamp": "2026-11-22T22:19:08.478Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳風波｜美財長：追查英偉達合規責任　情報總監：查涉嫌間諜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261117/1199434665409122304854032.png/8uYZRZkpoW1CMAe0idEKqnhB42lR2eukbpnbim6Z24o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413775/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%A5%9D%E8%B3%80%E9%81%B8%E5%A7%94%E7%95%B6%E9%81%B8-%E5%BD%A2%E5%AE%B9%E9%81%B8%E8%88%89%E5%B1%95%E7%8F%BE%E6%84%9B%E5%9C%8B%E8%80%85%E8%89%AF%E6%80%A7%E7%AB%B6%E7%88%AD",
     "timestamp": "2026-11-22T15:45:05.164Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜6中學女生吸煙片揭校園欺凌　雙方各執一詞爆羅生門",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201282805871415296076521.jpeg/xKmcrblpxWX7Lapb1-FO6HfyhVbbP22JkjGa3pIxmt4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413755/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-6%E4%B8%AD%E5%AD%B8%E5%A5%B3%E7%94%9F%E5%90%B8%E7%85%99%E7%89%87%E6%8F%AD%E6%A0%A1%E5%9C%92%E6%AC%BA%E5%87%8C-%E9%9B%99%E6%96%B9%E5%90%84%E5%9F%B7%E4%B8%80%E8%A9%9E%E7%88%86%E7%BE%85%E7%94%9F%E9%96%80",
-    "timestamp": "2026-11-22T15:29:42.937Z",
     "strategy": ".content-card__main"
   }
 ];
