@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T18:59:09.322Z
+// Last updated: 2026-11-22T19:17:54.250Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀遭亞視臨門取消合約：零收入遇斷糧與供樓雙重打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200857874352312320861357.jpeg/QUd8P1v2DPfytMG6llSiM3yz2S1C6dSrtu0naLbtJ2g",
+    "url": "https://www.hk01.com/01TV/60413470/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%81%AD%E4%BA%9E%E8%A6%96%E8%87%A8%E9%96%80%E5%8F%96%E6%B6%88%E5%90%88%E7%B4%84-%E9%9B%B6%E6%94%B6%E5%85%A5%E9%81%87%E6%96%B7%E7%B3%A7%E8%88%87%E4%BE%9B%E6%A8%93%E9%9B%99%E9%87%8D%E6%89%93%E6%93%8A",
+    "timestamp": "2026-11-22T19:17:54.250Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大埔私家車遭途人舉報　警到場拘42歲男司機涉酒後駕駛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201252018258186240703456.png/Y9VsNgMX34eMaHOuJHn25DMBDDC5ZmjdmzmS85s5kvM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413734/%E4%BF%9E%E5%8F%AF%E7%A8%8B%E7%88%86%E6%88%80tvb%E5%B0%8E%E6%BC%94%E7%81%AB%E9%80%9F%E5%BE%A9%E5%B7%A5%E6%8B%8D-%E6%9D%B1%E5%BC%B5-%E6%9E%97%E7%9B%9B%E6%96%8C%E6%8F%AD%E5%8F%B0%E6%85%B6%E9%81%BF%E9%A2%A8%E9%A0%AD%E5%85%A7%E5%B9%95",
     "timestamp": "2026-11-22T11:45:01.715Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "恐慌指數逼近極值！　高盛︰美股拋售未完｜大行觀點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200687809166315520469103.jpeg/WLOefWrrptYZowDzRLqpJ2WlAC1oLFqhWfde3ln3Xt4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60413570/%E6%81%90%E6%85%8C%E6%8C%87%E6%95%B8%E9%80%BC%E8%BF%91%E6%A5%B5%E5%80%BC-%E9%AB%98%E7%9B%9B-%E7%BE%8E%E8%82%A1%E6%8B%8B%E5%94%AE%E6%9C%AA%E5%AE%8C-%E5%A4%A7%E8%A1%8C%E8%A7%80%E9%BB%9E",
-    "timestamp": "2026-11-22T11:29:24.633Z",
     "strategy": ".content-card__main"
   }
 ];
