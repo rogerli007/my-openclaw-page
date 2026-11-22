@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T04:32:46.165Z
+// Last updated: 2026-11-22T04:45:19.386Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "選委會選舉︱政商界投票關注北都發展　盛智文冀下屆政府着重創科",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201152830317006848489103.jpeg/Zeh5A8xel85MtfRaNhixvvsJDMOfzp2dcmvYxnJr2MY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413604/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E6%94%BF%E5%95%86%E7%95%8C%E6%8A%95%E7%A5%A8%E9%97%9C%E6%B3%A8%E5%8C%97%E9%83%BD%E7%99%BC%E5%B1%95-%E7%9B%9B%E6%99%BA%E6%96%87%E5%86%80%E4%B8%8B%E5%B1%86%E6%94%BF%E5%BA%9C%E7%9D%80%E9%87%8D%E5%89%B5%E7%A7%91",
+    "timestamp": "2026-11-22T04:45:19.386Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "45歲余文樂自爆患嚴重恐慌症　怕入化妝間更曾駕車突病發急停路邊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201038924605034496403198.jpeg/_i596IgRvoCdJeyR2yxZ3-t8l5t1oamT9IHHOvSBxzo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413561/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%89%A3%E7%95%992%E8%BB%8A-2%E5%8F%B8%E6%A9%9F%E5%88%86%E5%88%A5%E6%B6%89%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B%E5%92%8C%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-21T21:39:15.014Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警東九龍設路障扣留2車　2司機分別涉不小心駕駛和醉駕被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201038924605034496403198.jpeg/_i596IgRvoCdJeyR2yxZ3-t8l5t1oamT9IHHOvSBxzo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413561/%E8%AD%A6%E6%9D%B1%E4%B9%9D%E9%BE%8D%E8%A8%AD%E8%B7%AF%E9%9A%9C%E6%89%A3%E7%95%992%E8%BB%8A-2%E5%8F%B8%E6%A9%9F%E5%88%86%E5%88%A5%E6%B6%89%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B%E5%92%8C%E9%86%89%E9%A7%95%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-21T21:29:30.805Z",
     "strategy": ".content-card__main"
   }
 ];
