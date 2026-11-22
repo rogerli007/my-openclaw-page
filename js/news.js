@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T15:59:10.696Z
+// Last updated: 2026-11-22T16:59:10.540Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "達美航空載重計算系統故障　全美數百航班延誤　亞特蘭大佔最多",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201334202113462272176805.jpeg/YJ9ItG1FeP56Q9WgVU8evex4l5Tw0uzo6OjJUejoyVE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413781/%E9%81%94%E7%BE%8E%E8%88%AA%E7%A9%BA%E8%BC%89%E9%87%8D%E8%A8%88%E7%AE%97%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E5%85%A8%E7%BE%8E%E6%95%B8%E7%99%BE%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AA%A4-%E4%BA%9E%E7%89%B9%E8%98%AD%E5%A4%A7%E4%BD%94%E6%9C%80%E5%A4%9A",
+    "timestamp": "2026-11-22T16:59:10.540Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金馬獎2026得獎名單｜《善男信女》奪劇情片　AK、袁澧林首獲金馬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201230060510515200358097.jpeg/sKeKBNs4DzKGIWp1Yj1hmww-TeRYOYMEZ2lGKGdpRig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413688/%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%BB%8D%E6%93%92%E6%8B%BF%E5%A4%A7%E6%AF%92%E6%A2%9F-%E5%87%BA%E5%8B%95%E9%BB%91%E9%B7%B9%E7%9B%B4%E5%8D%87%E6%A9%9F%E6%8E%83%E5%B0%84-%E7%88%86%E6%BF%80%E7%83%88%E6%A7%8D%E6%88%B011%E6%AD%BB-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-22T09:58:59.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "新疆烏魯木齊縣發生4.5級地震　震源深度30公里",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201223612221100032492370.jpeg/kxXRRZ3zLOXwuqccEnRoj2hkBjIJXWMRWrOWyVqzlsk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413698/%E6%96%B0%E7%96%86%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E7%B8%A3%E7%99%BC%E7%94%9F4-5%E7%B4%9A%E5%9C%B0%E9%9C%87-%E9%9C%87%E6%BA%90%E6%B7%B1%E5%BA%A630%E5%85%AC%E9%87%8C",
-    "timestamp": "2026-11-22T09:29:44.715Z",
     "strategy": ".content-card__main"
   }
 ];
