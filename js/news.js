@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T02:59:13.412Z
+// Last updated: 2026-11-22T03:22:46.011Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳茂波：香港有獨特價值　身處世界灣區經濟合作聯盟有助更好發揮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201130230043906048874306.jpeg/Hz2dOPEmNJGQX6Jn5frdZvcXx0ns-srIEkJR6RJCUek?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413593/%E9%99%B3%E8%8C%82%E6%B3%A2-%E9%A6%99%E6%B8%AF%E6%9C%89%E7%8D%A8%E7%89%B9%E5%83%B9%E5%80%BC-%E8%BA%AB%E8%99%95%E4%B8%96%E7%95%8C%E7%81%A3%E5%8D%80%E7%B6%93%E6%BF%9F%E5%90%88%E4%BD%9C%E8%81%AF%E7%9B%9F%E6%9C%89%E5%8A%A9%E6%9B%B4%E5%A5%BD%E7%99%BC%E6%8F%AE",
+    "timestamp": "2026-11-22T03:22:46.011Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北京雍和宮旁23呎迷你住宅開價60萬　水電齊全　引500萬網友圍觀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260709/1151809168370307072307245.jpeg/Huh2TYTSVy5yji2xV6LBo7nWUjWHtzW2V102xFddNsQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413559/%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%8E%E5%BD%88%E4%BE%B5%E7%8A%AF%E6%B3%A2%E8%98%AD%E9%A0%98%E7%A9%BA-%E5%8C%97%E7%B4%84%E7%A7%98%E6%9B%B8%E9%95%B7%E5%91%82%E7%89%B9%E6%8C%87%E5%B0%87%E6%8D%8D%E8%A1%9B%E6%B3%A2%E8%98%AD%E6%AF%8F%E4%B8%80%E5%AF%B8%E9%A0%98%E5%9C%9F",
     "timestamp": "2026-11-21T20:29:23.448Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜紐卡素2:2阿仙奴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201017431900819456257168.jpeg/BDSkxfOtYU9g6E3w0EiwGoZcnwRK3IppbVwhyG1cIcg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413558/%E8%8B%B1%E8%B6%85-%E7%B4%90%E5%8D%A1%E7%B4%A02-2%E9%98%BF%E4%BB%99%E5%A5%B4",
-    "timestamp": "2026-11-21T19:59:03.408Z",
     "strategy": ".content-card__main"
   }
 ];
