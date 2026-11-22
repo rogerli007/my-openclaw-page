@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T13:59:03.436Z
+// Last updated: 2026-11-22T14:19:01.641Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "選委會選舉・持續更新｜前局長陳家強落選　陳智思兄長低票落馬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201276557663014912631809.jpeg/IOpyv-x8DLOQAGgS5fW_uI7wTC0HT3htldHMubDRzLk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413715/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0-%E9%BB%9E%E7%A5%A8%E6%96%99%E5%8D%88%E5%A4%9C%E5%89%8D%E5%AE%8C%E6%88%90-%E9%8C%84%E5%BE%971%E5%AE%97%E9%81%B8%E8%88%89%E5%BB%A3%E5%91%8A%E6%8A%95%E8%A8%B4",
+    "timestamp": "2026-11-22T14:19:01.641Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日媒：日本擬縮減導彈及軍艦採購　無人機與AI預算不減",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201181125741907968854720.jpeg/3e4C_FMuu2oBPXtOymzWGTcQq11yLqDyzeHObc3hzm0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413632/%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%A5%BF%E4%B9%9D%E9%BE%8D%E4%B8%AD%E5%BF%83%E5%A9%A6%E4%BA%BA%E6%89%B6%E6%89%8B%E6%A2%AF%E8%B7%8C%E5%80%92-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2",
     "timestamp": "2026-11-22T06:49:10.306Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股11.20股災懶人包！AI泡沫爆破抑或重新定價？ 　拆解7大原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201138220641816576578412.jpeg/D8jCtJNKLqQn_iur0WhLxdso_0ConqVKnKwHAJysBwA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60413536/%E7%BE%8E%E8%82%A111-20%E8%82%A1%E7%81%BD%E6%87%B6%E4%BA%BA%E5%8C%85-ai%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E6%8A%91%E6%88%96%E9%87%8D%E6%96%B0%E5%AE%9A%E5%83%B9-%E6%8B%86%E8%A7%A37%E5%A4%A7%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-11-22T06:25:56.681Z",
     "strategy": ".content-card__main"
   }
 ];
