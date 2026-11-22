@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T05:59:15.576Z
+// Last updated: 2026-11-22T06:25:56.681Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股11.20股災懶人包！AI泡沫爆破抑或重新定價？ 　拆解7大原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201138220641816576578412.jpeg/D8jCtJNKLqQn_iur0WhLxdso_0ConqVKnKwHAJysBwA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60413536/%E7%BE%8E%E8%82%A111-20%E8%82%A1%E7%81%BD%E6%87%B6%E4%BA%BA%E5%8C%85-ai%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E6%8A%91%E6%88%96%E9%87%8D%E6%96%B0%E5%AE%9A%E5%83%B9-%E6%8B%86%E8%A7%A37%E5%A4%A7%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-11-22T06:25:56.681Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "渠務署推多項防洪措施　坪輋蓄洪池已落成　AI駁「銳眼」預警水浸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200886730681487360279635.png/gtDNIWU_2o5QaDToz2VqMJ4hz2n35zgESNaJj0jWiY8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411583/%E7%BE%9E%E8%8A%B1-%E6%A5%8A%E7%8E%89%E7%92%B0%E5%BE%9E%E9%81%93%E5%A3%AB%E5%88%B0%E8%B2%B4%E5%A6%83-%E9%A6%AC%E5%B5%AC%E5%9D%A1%E7%82%BA%E4%BD%95%E6%88%90%E7%B5%95%E8%B7%AF-%E5%9B%9B%E5%A4%A7%E7%BE%8E%E4%BA%BA%E4%B9%8B%E5%9B%9B",
     "timestamp": "2026-11-21T22:59:02.145Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "「羞花」楊玉環從道士到貴妃　馬嵬坡為何成絕路？｜四大美人之四",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200886730681487360279635.png/gtDNIWU_2o5QaDToz2VqMJ4hz2n35zgESNaJj0jWiY8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60411583/%E7%BE%9E%E8%8A%B1-%E6%A5%8A%E7%8E%89%E7%92%B0%E5%BE%9E%E9%81%93%E5%A3%AB%E5%88%B0%E8%B2%B4%E5%A6%83-%E9%A6%AC%E5%B5%AC%E5%9D%A1%E7%82%BA%E4%BD%95%E6%88%90%E7%B5%95%E8%B7%AF-%E5%9B%9B%E5%A4%A7%E7%BE%8E%E4%BA%BA%E4%B9%8B%E5%9B%9B",
-    "timestamp": "2026-11-21T22:45:12.447Z",
     "strategy": ".content-card__main"
   }
 ];
