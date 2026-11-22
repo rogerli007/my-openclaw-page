@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T06:49:10.306Z
+// Last updated: 2026-11-22T07:20:13.921Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金秀賢十年代言遭索賠破億！法院一審判所屬公司賠8.75億本人免責",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201177231116734464982561.png/_V8KXq71drq0AVHfBDu9PSBa2Xk4_CbBTnkW-U55Fvk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413617/%E9%87%91%E7%A7%80%E8%B3%A2%E5%8D%81%E5%B9%B4%E4%BB%A3%E8%A8%80%E9%81%AD%E7%B4%A2%E8%B3%A0%E7%A0%B4%E5%84%84-%E6%B3%95%E9%99%A2%E4%B8%80%E5%AF%A9%E5%88%A4%E6%89%80%E5%B1%AC%E5%85%AC%E5%8F%B8%E8%B3%A08-75%E5%84%84%E6%9C%AC%E4%BA%BA%E5%85%8D%E8%B2%AC",
+    "timestamp": "2026-11-22T07:20:13.921Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗西九龍中心婦人扶手梯跌倒　一度昏迷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261003/1183110510866862080539276.jpeg/fPwlhaWk0Sd9OskmDDDHq0MWHA2AA6G6GkDqmhpA6po?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413573/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%BF%84%E7%83%8F%E5%81%9C%E7%81%AB%E5%8F%AF%E5%8A%A9%E6%AD%90%E6%B4%B2%E7%99%BC%E5%B1%95-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%99%AE%E4%BA%AC%E6%81%90%E6%8B%96%E5%BB%B6%E8%AB%87%E5%88%A4",
     "timestamp": "2026-11-22T01:00:27.527Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026年底4星座將財運翻盤！進帳暴增迎新機　榜首靠表現加薪升職",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200484016441004032893150.png/vxmpwVe7yJbKPkIeDu_k_jTmbX2sGrOgasSn-2rEp_s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60413102/2026%E5%B9%B4%E5%BA%954%E6%98%9F%E5%BA%A7%E5%B0%87%E8%B2%A1%E9%81%8B%E7%BF%BB%E7%9B%A4-%E9%80%B2%E5%B8%B3%E6%9A%B4%E5%A2%9E%E8%BF%8E%E6%96%B0%E6%A9%9F-%E6%A6%9C%E9%A6%96%E9%9D%A0%E8%A1%A8%E7%8F%BE%E5%8A%A0%E8%96%AA%E5%8D%87%E8%81%B7",
-    "timestamp": "2026-11-21T23:18:49.426Z",
     "strategy": ".content-card__main"
   }
 ];
