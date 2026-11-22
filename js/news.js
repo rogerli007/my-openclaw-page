@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T11:59:06.714Z
+// Last updated: 2026-11-22T12:23:30.143Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李澤楷IG百人追蹤名單涉政商藝術名流　只得兩位藝人皆為男歌手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201251200784142336049382.jpeg/16MD57llfd2wCd0QaaRnP4TIPw7o-feH8qaTXvKmk14?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413727/%E6%9D%8E%E6%BE%A4%E6%A5%B7ig%E7%99%BE%E4%BA%BA%E8%BF%BD%E8%B9%A4%E5%90%8D%E5%96%AE%E6%B6%89%E6%94%BF%E5%95%86%E8%97%9D%E8%A1%93%E5%90%8D%E6%B5%81-%E5%8F%AA%E5%BE%97%E5%85%A9%E4%BD%8D%E8%97%9D%E4%BA%BA%E7%9A%86%E7%82%BA%E7%94%B7%E6%AD%8C%E6%89%8B",
+    "timestamp": "2026-11-22T12:23:30.143Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "向太認郭碧婷手握「兩張王牌」唔敢兇　尊重新抱意願絕不催生",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200959885244633088963012.png/60DC8Xw0owYt8HnZMl_pO-e8Q5sUj9gHG7D3mBuw95g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413426/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%80%96%E5%AD%98%E5%A4%96%E7%B1%8D%E5%82%AD%E5%B7%A5%E5%87%BA%E6%9B%B8%E5%AF%AB%E5%8A%87%E8%A8%98%E7%B6%93%E6%AD%B7%E8%A7%A3%E5%89%B5%E5%82%B7-%E4%B8%BB%E8%BE%A6%E6%96%B9%E7%9B%BC%E6%93%87%E6%97%A5%E5%86%8D%E5%88%86%E4%BA%AB",
     "timestamp": "2026-11-22T05:19:59.389Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "選委會選舉︱政商界投票關注北都發展　盛智文冀下屆政府着重創科",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201152830317006848489103.jpeg/Zeh5A8xel85MtfRaNhixvvsJDMOfzp2dcmvYxnJr2MY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413604/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E6%94%BF%E5%95%86%E7%95%8C%E6%8A%95%E7%A5%A8%E9%97%9C%E6%B3%A8%E5%8C%97%E9%83%BD%E7%99%BC%E5%B1%95-%E7%9B%9B%E6%99%BA%E6%96%87%E5%86%80%E4%B8%8B%E5%B1%86%E6%94%BF%E5%BA%9C%E7%9D%80%E9%87%8D%E5%89%B5%E7%A7%91",
-    "timestamp": "2026-11-22T04:59:04.658Z",
     "strategy": ".content-card__main"
   }
 ];
