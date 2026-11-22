@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-22T08:45:01.268Z
+// Last updated: 2026-11-22T08:59:06.076Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英超雙紅會︱曼聯新帥普捷天奴第一擊　領軍作客利物浦往績卻奇差",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201136839709167616947203.jpeg/-7CyJfZUR00hmWBWD44Sj8W4eYGuw0s7iEAmxohAJsY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413601/%E8%8B%B1%E8%B6%85%E9%9B%99%E7%B4%85%E6%9C%83-%E6%9B%BC%E8%81%AF%E6%96%B0%E5%B8%A5%E6%99%AE%E6%8D%B7%E5%A4%A9%E5%A5%B4%E7%AC%AC%E4%B8%80%E6%93%8A-%E9%A0%98%E8%BB%8D%E4%BD%9C%E5%AE%A2%E5%88%A9%E7%89%A9%E6%B5%A6%E5%BE%80%E7%B8%BE%E5%8D%BB%E5%A5%87%E5%B7%AE",
+    "timestamp": "2026-11-22T08:59:06.076Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西環山道住宅後巷冒煙　消防拖喉撲熄　疑電掣起火波及雜物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200126338913013760975836.png/U3-Iq37Jv6BVuBievHMlYg6J7Lqj7SQTFDCBBBQwgQQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412723/%E8%8F%AF%E4%BA%BA%E4%B8%8D%E5%85%A8%E6%98%AF%E7%82%8E%E9%BB%83%E5%AD%90%E5%AD%AB-%E5%AD%B8%E8%80%85%E6%8F%AD4%E5%A7%93%E6%B0%8F%E5%B1%AC%E8%9A%A9%E5%B0%A4%E5%BE%8C%E8%A3%94-%E7%B2%B5%E6%B8%AF%E5%B8%B8%E8%A6%8B%E5%A7%93%E6%B0%8F%E5%85%A5%E5%88%97",
     "timestamp": "2026-11-22T01:59:12.758Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華人不全是炎黃子孫？學者揭4姓氏屬蚩尤後裔　粵港常見姓氏入列",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200126338913013760975836.png/U3-Iq37Jv6BVuBievHMlYg6J7Lqj7SQTFDCBBBQwgQQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412723/%E8%8F%AF%E4%BA%BA%E4%B8%8D%E5%85%A8%E6%98%AF%E7%82%8E%E9%BB%83%E5%AD%90%E5%AD%AB-%E5%AD%B8%E8%80%85%E6%8F%AD4%E5%A7%93%E6%B0%8F%E5%B1%AC%E8%9A%A9%E5%B0%A4%E5%BE%8C%E8%A3%94-%E7%B2%B5%E6%B8%AF%E5%B8%B8%E8%A6%8B%E5%A7%93%E6%B0%8F%E5%85%A5%E5%88%97",
-    "timestamp": "2026-11-22T01:48:06.229Z",
     "strategy": ".content-card__main"
   }
 ];
