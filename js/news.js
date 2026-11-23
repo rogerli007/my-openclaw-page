@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T05:22:09.124Z
+// Last updated: 2026-11-23T05:28:25.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "帆船｜國際帆船大獎賽香港站1.23-24上演　兩日門票已售罄",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186702189955911680524017.jpeg/PdsB9ZVMG7nZSx4BphfNM8IJd3d_I3yumnpqsJp6arA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399196/%E5%B8%86%E8%88%B9-%E5%9C%8B%E9%9A%9B%E5%B8%86%E8%88%B9%E5%A4%A7%E7%8D%8E%E8%B3%BD%E9%A6%99%E6%B8%AF%E7%AB%991-23-24%E4%B8%8A%E6%BC%94-%E5%85%A9%E6%97%A5%E9%96%80%E7%A5%A8%E5%B7%B2%E5%94%AE%E7%BD%84",
+    "timestamp": "2026-11-23T05:28:25.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "國產郵輪愛達‧花城號今抵港　羅淑佩：上船即感受到國家郵輪實力",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201414665087750144132754.jpeg/J43y8P3jcdT6X00_GDNnAPkhFkXNfIlljJsvA4ybLwM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413793/%E8%8D%83%E7%81%A3%E5%A4%A7%E5%A3%A9%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E6%9F%B1%E4%B8%80%E5%BA%A6%E6%BF%80%E5%99%B43%E5%B1%A4%E6%A8%93%E9%AB%98-%E6%B0%B4%E5%8B%99%E7%BD%B2%E6%80%A5%E9%97%9C%E6%8E%A3",
     "timestamp": "2026-11-22T22:29:50.096Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣大壩街爆鹹水管　水柱一度激噴3層樓高　水務署急關掣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201414665087750144132754.jpeg/J43y8P3jcdT6X00_GDNnAPkhFkXNfIlljJsvA4ybLwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413793/%E8%8D%83%E7%81%A3%E5%A4%A7%E5%A3%A9%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E6%9F%B1%E4%B8%80%E5%BA%A6%E6%BF%80%E5%99%B43%E5%B1%A4%E6%A8%93%E9%AB%98-%E6%B0%B4%E5%8B%99%E7%BD%B2%E6%80%A5%E9%97%9C%E6%8E%A3",
-    "timestamp": "2026-11-22T22:19:08.478Z",
     "strategy": ".content-card__main"
   }
 ];
