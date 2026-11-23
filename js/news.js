@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T05:45:55.927Z
+// Last updated: 2026-11-23T05:59:22.722Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "30內地處級官來港交流1至3個月　楊何蓓茵：共同深化以民為本文化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201531107741274112107489.jpeg/g-LcLL7lD2d5bvhhrbZroJcXECGG4fs_EBaVVhAWlVY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413939/30%E5%85%A7%E5%9C%B0%E8%99%95%E7%B4%9A%E5%AE%98%E4%BE%86%E6%B8%AF%E4%BA%A4%E6%B5%811%E8%87%B33%E5%80%8B%E6%9C%88-%E6%A5%8A%E4%BD%95%E8%93%93%E8%8C%B5-%E5%85%B1%E5%90%8C%E6%B7%B1%E5%8C%96%E4%BB%A5%E6%B0%91%E7%82%BA%E6%9C%AC%E6%96%87%E5%8C%96",
+    "timestamp": "2026-11-23T05:59:22.722Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "容祖兒啟德個唱終極加開第六場　19次殺入叱咤我最喜愛女歌手五強",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199096139744284672168257.jpeg/LBE8wR0Aq-gzbJQ19Yit1T48R7LHR381THL9Nkxy_TY",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408771/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%9A%B4%E9%87%8D%E5%82%B7%E8%80%85%E8%89%B1%E9%9B%A3%E5%BA%B7%E5%BE%A9-%E7%A9%BF%E5%A3%93%E5%8A%9B%E8%A1%A3%E5%AD%B8%E6%8F%A1%E6%8B%B3-%E7%B5%82%E5%8F%AF%E6%AD%A5%E8%A1%8C",
     "timestamp": "2026-11-22T23:19:04.799Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英超｜曼聯新帥普捷天奴首擊吞利物浦4蛋  起用迪歷特成致命傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201421899364569088359761.jpeg/saOAr5ocfJ0V4CxwpR3Een6zs2iqmVS4pZiwXaWYsF0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413797/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E6%96%B0%E5%B8%A5%E6%99%AE%E6%8D%B7%E5%A4%A9%E5%A5%B4%E9%A6%96%E6%93%8A%E5%90%9E%E5%88%A9%E7%89%A9%E6%B5%A64%E8%9B%8B-%E8%B5%B7%E7%94%A8%E8%BF%AA%E6%AD%B7%E7%89%B9%E6%88%90%E8%87%B4%E5%91%BD%E5%82%B7",
-    "timestamp": "2026-11-22T22:59:06.412Z",
     "strategy": ".content-card__main"
   }
 ];
