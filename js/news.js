@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T03:23:54.525Z
+// Last updated: 2026-11-23T03:38:43.767Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "｢300元你給我X一下｣女遊客遭上海司機性騷　翻譯後始知危險｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201486606515572736803174.png/ZStGiN4HYrom1aXxad90CncAav1kUF-C3t76xN7e-sQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413853/300%E5%85%83%E4%BD%A0%E7%B5%A6%E6%88%91x%E4%B8%80%E4%B8%8B-%E5%A5%B3%E9%81%8A%E5%AE%A2%E9%81%AD%E4%B8%8A%E6%B5%B7%E5%8F%B8%E6%A9%9F%E6%80%A7%E9%A8%B7-%E7%BF%BB%E8%AD%AF%E5%BE%8C%E5%A7%8B%E7%9F%A5%E5%8D%B1%E9%9A%AA-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-23T03:38:43.767Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "陳健波12.1起接任醫管局主席　任期兩年　范鴻齡在任七年正式卸任",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200859309638946816045196.jpeg/ImLknqD5IwNHhGGiEGcICTYH8xCgNkVhiVldkYlZXZE",
     "url": "https://www.hk01.com/01TV/60413472/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%B8%8F%E5%85%A5tvb%E5%A5%91%E6%A9%9F-%E5%90%B3%E5%90%9B%E5%A6%82%E7%89%BD%E7%B7%9A%E9%A3%AF%E5%B1%80%E4%BF%83%E6%88%90%E8%BD%89%E5%8F%B0",
     "timestamp": "2026-11-22T20:59:05.260Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀踏入TVB契機：吳君如牽線飯局促成轉台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200859309638946816045196.jpeg/ImLknqD5IwNHhGGiEGcICTYH8xCgNkVhiVldkYlZXZE",
-    "url": "https://www.hk01.com/01TV/60413472/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%B8%8F%E5%85%A5tvb%E5%A5%91%E6%A9%9F-%E5%90%B3%E5%90%9B%E5%A6%82%E7%89%BD%E7%B7%9A%E9%A3%AF%E5%B1%80%E4%BF%83%E6%88%90%E8%BD%89%E5%8F%B0",
-    "timestamp": "2026-11-22T20:29:32.940Z",
     "strategy": ".content-card__main"
   }
 ];
