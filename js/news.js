@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T05:28:25.237Z
+// Last updated: 2026-11-23T05:45:55.927Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "容祖兒啟德個唱終極加開第六場　19次殺入叱咤我最喜愛女歌手五強",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201528922529861632765824.jpeg/RKT1k1pkWmdAh1FlBpK_FHyepuTKs1qkgEzRKYBM0Sk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413931/%E5%AE%B9%E7%A5%96%E5%85%92%E5%95%9F%E5%BE%B7%E5%80%8B%E5%94%B1%E7%B5%82%E6%A5%B5%E5%8A%A0%E9%96%8B%E7%AC%AC%E5%85%AD%E5%A0%B4-19%E6%AC%A1%E6%AE%BA%E5%85%A5%E5%8F%B1%E5%92%A4%E6%88%91%E6%9C%80%E5%96%9C%E6%84%9B%E5%A5%B3%E6%AD%8C%E6%89%8B%E4%BA%94%E5%BC%B7",
+    "timestamp": "2026-11-23T05:45:55.927Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "帆船｜國際帆船大獎賽香港站1.23-24上演　兩日門票已售罄",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201421899364569088359761.jpeg/saOAr5ocfJ0V4CxwpR3Een6zs2iqmVS4pZiwXaWYsF0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60413797/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E6%96%B0%E5%B8%A5%E6%99%AE%E6%8D%B7%E5%A4%A9%E5%A5%B4%E9%A6%96%E6%93%8A%E5%90%9E%E5%88%A9%E7%89%A9%E6%B5%A64%E8%9B%8B-%E8%B5%B7%E7%94%A8%E8%BF%AA%E6%AD%B7%E7%89%B9%E6%88%90%E8%87%B4%E5%91%BD%E5%82%B7",
     "timestamp": "2026-11-22T22:59:06.412Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "荃灣大壩街爆鹹水管　水柱一度激噴3層樓高　水務署急關掣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201414665087750144132754.jpeg/J43y8P3jcdT6X00_GDNnAPkhFkXNfIlljJsvA4ybLwM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413793/%E8%8D%83%E7%81%A3%E5%A4%A7%E5%A3%A9%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E6%9F%B1%E4%B8%80%E5%BA%A6%E6%BF%80%E5%99%B43%E5%B1%A4%E6%A8%93%E9%AB%98-%E6%B0%B4%E5%8B%99%E7%BD%B2%E6%80%A5%E9%97%9C%E6%8E%A3",
-    "timestamp": "2026-11-22T22:29:50.096Z",
     "strategy": ".content-card__main"
   }
 ];
