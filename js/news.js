@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T04:23:38.819Z
+// Last updated: 2026-11-23T04:37:43.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珠海航展將首設海上展區　055及075艦開放　殲-35升空獻技",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201513111014608896873256.jpeg/n85RZ2rhUlz5wSjy4zrGrdE3S2Uz_667AhHOxAIRzsQ",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413871/%E7%8F%A0%E6%B5%B7%E8%88%AA%E5%B1%95%E5%B0%87%E9%A6%96%E8%A8%AD%E6%B5%B7%E4%B8%8A%E5%B1%95%E5%8D%80-055%E5%8F%8A075%E8%89%A6%E9%96%8B%E6%94%BE-%E6%AE%B2-35%E5%8D%87%E7%A9%BA%E7%8D%BB%E6%8A%80",
+    "timestamp": "2026-11-23T04:37:43.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "雲南主播私闖果園帶貨切開逾200斤蘋果棄地　官方：誤入相鄰果園",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538052075950080152078.jpeg/H4v9ZSAUYlgYdPR4iUhgk6JoYhwR0Lg8ioZ-2IqGftg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413792/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%B3%A2-%E7%BE%8E%E8%B2%A1%E9%95%B7-%E8%BF%BD%E6%9F%A5%E8%8B%B1%E5%81%89%E9%81%94%E5%90%88%E8%A6%8F%E8%B2%AC%E4%BB%BB-%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3-%E6%9F%A5%E6%B6%89%E5%AB%8C%E9%96%93%E8%AB%9C",
     "timestamp": "2026-11-22T21:45:06.617Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳風波｜美財長：追查英偉達合規責任　情報總監：查涉嫌間諜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538052075950080152078.jpeg/H4v9ZSAUYlgYdPR4iUhgk6JoYhwR0Lg8ioZ-2IqGftg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413792/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%B3%A2-%E7%BE%8E%E8%B2%A1%E9%95%B7-%E8%BF%BD%E6%9F%A5%E8%8B%B1%E5%81%89%E9%81%94%E5%90%88%E8%A6%8F%E8%B2%AC%E4%BB%BB-%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3-%E6%9F%A5%E6%B6%89%E5%AB%8C%E9%96%93%E8%AB%9C",
-    "timestamp": "2026-11-22T21:29:31.375Z",
     "strategy": ".content-card__main"
   }
 ];
