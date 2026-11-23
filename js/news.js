@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T22:29:55.882Z
+// Last updated: 2026-11-23T22:45:21.427Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "澤連斯基：爭取聖誕前促成烏俄美歐四方會談",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414182/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%88%AD%E5%8F%96%E8%81%96%E8%AA%95%E5%89%8D%E4%BF%83%E6%88%90%E7%83%8F%E4%BF%84%E7%BE%8E%E6%AD%90%E5%9B%9B%E6%96%B9%E6%9C%83%E8%AB%87",
+    "timestamp": "2026-11-23T22:45:21.427Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：料中國將同意再買250架波音飛機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201684936021512192185920.jpeg/dTHHznv-RgJL51hPYHx51qLXh_LSsa6NIjYafiI2Gn4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414172/%E9%BB%83%E4%BB%81%E5%8B%B3speedrun%E6%89%93%E7%88%86gta-6%E5%9B%9E%E6%AD%B8nvidia-%E5%BC%B7%E5%8B%A2%E5%BE%A9%E8%81%B7ceo%E8%AA%93%E4%BF%9Dai%E6%99%B6%E7%89%87%E9%9C%B8%E6%A5%AD",
     "timestamp": "2026-11-23T16:20:28.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "NVIDIA黃仁勳迅速回歸內幕？　美媒：特朗普親自致電英偉達董事會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185085209931157504291573.jpeg/OrFy1YUQ_e-2AgXnXrXRDuvY-T0coAy3LTPkTi0z5E4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414170/nvidia%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BF%85%E9%80%9F%E5%9B%9E%E6%AD%B8%E5%85%A7%E5%B9%95-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%AA%E8%87%AA%E8%87%B4%E9%9B%BB%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83",
-    "timestamp": "2026-11-23T15:59:13.831Z",
     "strategy": ".content-card__main"
   }
 ];
