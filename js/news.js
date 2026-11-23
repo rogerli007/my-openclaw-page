@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T17:19:47.933Z
+// Last updated: 2026-11-23T17:45:06.434Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "BBC以「另一面」為題報道深圳　環球時報批：應向被冒犯市民道歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121395966113484800807641.jpeg/bZKqbzLptK_vV7W4P2PYf6A0tRuxl1t7kYTcr5GE3K8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414180/bbc%E4%BB%A5-%E5%8F%A6%E4%B8%80%E9%9D%A2-%E7%82%BA%E9%A1%8C%E5%A0%B1%E9%81%93%E6%B7%B1%E5%9C%B3-%E7%92%B0%E7%90%83%E6%99%82%E5%A0%B1%E6%89%B9-%E6%87%89%E5%90%91%E8%A2%AB%E5%86%92%E7%8A%AF%E5%B8%82%E6%B0%91%E9%81%93%E6%AD%89",
+    "timestamp": "2026-11-23T17:45:06.434Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀讚劉松仁演戲神導師：電話遙控劇本鍛鍊心態",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201571665385885696543706.jpeg/t_xn-O-_TOJ7QH9WAv5O9qTpf1l_9NNrMxx1jjMcdY4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414013/%E5%BB%A3%E5%B7%9E%E7%94%B7%E6%88%80%E4%B8%8A%E5%89%8D%E5%A6%BB%E6%83%85%E5%A4%AB%E7%9A%84%E5%89%8D%E5%A6%BB-%E5%85%A9%E8%80%81%E6%81%90%E9%81%AD%E5%88%86%E8%BA%AB%E5%AE%B6%E8%A8%82%E5%8D%94%E8%AD%B0400%E8%90%AC%E6%A8%93%E5%82%B3%E5%AD%AB%E5%A5%B3",
     "timestamp": "2026-11-23T10:21:09.341Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "葬送的芙莉蓮特香港展旺角直擊｜欣梅爾像／鏡蓮華／寶箱怪實體化",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192880193094553600943705.jpeg/OlFjO5tqA0mxZ_JCmZWSXmSm05Jx6xcJhZgrroWYK64?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60405240/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%E7%89%B9%E5%B1%95%E7%99%BB%E9%99%B8%E6%97%BA%E8%A7%92",
-    "timestamp": "2026-11-23T09:59:23.913Z",
     "strategy": ".content-card__main"
   }
 ];
