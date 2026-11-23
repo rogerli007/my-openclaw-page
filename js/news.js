@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T22:45:21.427Z
+// Last updated: 2026-11-23T22:58:57.419Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "粉嶺公路3車串燒相撞釀2傷　往上水方向部份行車線封閉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201789424292073472531649.jpeg/R2pnabILKLHCk22bbGgScG_fDgVS-TQDBXTfbwV0328?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414195/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF3%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E5%BE%80%E4%B8%8A%E6%B0%B4%E6%96%B9%E5%90%91%E9%83%A8%E4%BB%BD%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%B0%81%E9%96%89",
+    "timestamp": "2026-11-23T22:58:57.419Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "澤連斯基：爭取聖誕前促成烏俄美歐四方會談",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201654755336654848186749.png/ecJb8vTcybmSDUIabxSXKYb-Pa6MYQS82WLsntli7J4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60414147/gta-6%E6%94%BB%E7%95%A5-%E7%B9%81%E4%B8%AD%E4%BA%92%E5%8B%95%E5%9C%B0%E5%9C%96-95%E5%80%8B%E8%97%8F%E5%8D%A1%E4%BD%8D%E7%BD%AE-85%E5%80%8B%E7%89%B9%E8%89%B2%E8%BC%89%E5%85%B7%E5%9C%B0%E9%BB%9E%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-11-23T16:46:08.995Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳Speedrun打爆GTA 6回歸NVIDIA？強勢復職CEO誓保AI晶片霸業",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201684936021512192185920.jpeg/dTHHznv-RgJL51hPYHx51qLXh_LSsa6NIjYafiI2Gn4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414172/%E9%BB%83%E4%BB%81%E5%8B%B3speedrun%E6%89%93%E7%88%86gta-6%E5%9B%9E%E6%AD%B8nvidia-%E5%BC%B7%E5%8B%A2%E5%BE%A9%E8%81%B7ceo%E8%AA%93%E4%BF%9Dai%E6%99%B6%E7%89%87%E9%9C%B8%E6%A5%AD",
-    "timestamp": "2026-11-23T16:20:28.525Z",
     "strategy": ".content-card__main"
   }
 ];
