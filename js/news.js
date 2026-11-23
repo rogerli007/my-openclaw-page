@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T11:19:18.343Z
+// Last updated: 2026-11-23T11:45:44.842Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "4大生肖天生具備不老心態　勇敢追夢活得精彩　從來不被年齡限制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168947734770618368169402.jpeg/07K-RoYLCZQpRg0ljcdUgOL7pm3wT-O5bw6Tx28Ok8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60383443/4%E5%A4%A7%E7%94%9F%E8%82%96%E5%A4%A9%E7%94%9F%E5%85%B7%E5%82%99%E4%B8%8D%E8%80%81%E5%BF%83%E6%85%8B-%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E6%B4%BB%E5%BE%97%E7%B2%BE%E5%BD%A9-%E5%BE%9E%E4%BE%86%E4%B8%8D%E8%A2%AB%E5%B9%B4%E9%BD%A1%E9%99%90%E5%88%B6",
+    "timestamp": "2026-11-23T11:45:44.842Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "舒淇奪金馬獎自嘲50歲「差點要演外婆」　透露下一部作品創作方向",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201508567228616704193750.png/3nijcDID3q5tq9lSTVer227mspWd1DfYmr8Atpq_ALY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413881/%E9%9B%B2%E5%8D%97%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%96%E6%9E%9C%E5%9C%92%E5%B8%B6%E8%B2%A8%E5%88%87%E9%96%8B%E9%80%BE200%E6%96%A4%E8%98%8B%E6%9E%9C%E6%A3%84%E5%9C%B0-%E5%AE%98%E6%96%B9-%E8%AA%A4%E5%85%A5%E7%9B%B8%E9%84%B0%E6%9E%9C%E5%9C%92",
     "timestamp": "2026-11-23T04:23:38.819Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "政府擬修訂建築物條例　發展局：大型維修審批時間預計較以往長",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168565617800777728062391.png/8E3kePal3mLxaR2NRSJvzC7efkOmYGCPTtRY7k7UWO4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413850/%E6%94%BF%E5%BA%9C%E6%93%AC%E4%BF%AE%E8%A8%82%E5%BB%BA%E7%AF%89%E7%89%A9%E6%A2%9D%E4%BE%8B-%E7%99%BC%E5%B1%95%E5%B1%80-%E5%A4%A7%E5%9E%8B%E7%B6%AD%E4%BF%AE%E5%AF%A9%E6%89%B9%E6%99%82%E9%96%93%E9%A0%90%E8%A8%88%E8%BC%83%E4%BB%A5%E5%BE%80%E9%95%B7",
-    "timestamp": "2026-11-23T03:59:25.330Z",
     "strategy": ".content-card__main"
   }
 ];
