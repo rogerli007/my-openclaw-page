@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T21:59:18.486Z
+// Last updated: 2026-11-23T22:29:55.882Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普：料中國將同意再買250架波音飛機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250822/1035509377739526144521469.jpeg/VsRfjCHlN3CFefOtt87fgADtQobRWyzAsEmwm7BJsJs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414188/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%96%99%E4%B8%AD%E5%9C%8B%E5%B0%87%E5%90%8C%E6%84%8F%E5%86%8D%E8%B2%B7250%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9B%E6%A9%9F",
+    "timestamp": "2026-11-23T22:29:55.882Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀乘客司機疑爆爭執　的士絕塵而去　兩醉酒內地女跌傷送院",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185085209931157504291573.jpeg/OrFy1YUQ_e-2AgXnXrXRDuvY-T0coAy3LTPkTi0z5E4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414170/nvidia%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BF%85%E9%80%9F%E5%9B%9E%E6%AD%B8%E5%85%A7%E5%B9%95-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%AA%E8%87%AA%E8%87%B4%E9%9B%BB%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83",
     "timestamp": "2026-11-23T15:59:13.831Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《順風婦產科》權五重愛兒曾判活不過15歲　瞞妻10年日日偷探鼻息",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201582913859096576502473.png/8-f4kjWFgLk6fA0g8fu97gbdM8Ajyj4N7Hzs4ex87OE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414022/%E9%A0%86%E9%A2%A8%E5%A9%A6%E7%94%A2%E7%A7%91-%E6%AC%8A%E4%BA%94%E9%87%8D%E6%84%9B%E5%85%92%E6%9B%BE%E5%88%A4%E6%B4%BB%E4%B8%8D%E9%81%8E15%E6%AD%B2-%E7%9E%9E%E5%A6%BB10%E5%B9%B4%E6%97%A5%E6%97%A5%E5%81%B7%E6%8E%A2%E9%BC%BB%E6%81%AF",
-    "timestamp": "2026-11-23T15:45:42.158Z",
     "strategy": ".content-card__main"
   }
 ];
