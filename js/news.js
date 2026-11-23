@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T23:19:56.116Z
+// Last updated: 2026-11-23T23:58:57.998Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐洲孤注一擲援助烏克蘭的真相：現實、幻覺與虛偽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188046433828212736309764.jpeg/vBBVGMA0C4Rl2jagpLz_UdqUxWjTac7BC_0-sAv9PrA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60413909/%E6%AD%90%E6%B4%B2%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%93%B2%E6%8F%B4%E5%8A%A9%E7%83%8F%E5%85%8B%E8%98%AD%E7%9A%84%E7%9C%9F%E7%9B%B8-%E7%8F%BE%E5%AF%A6-%E5%B9%BB%E8%A6%BA%E8%88%87%E8%99%9B%E5%81%BD",
+    "timestamp": "2026-11-23T23:58:57.998Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "家居機械人當遛狗員是賊喊報警！主人通話要解答考題防AI電話詐騙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200862974223323136541093.jpeg/1eVUTgOz6in5l-ETyjhxHH9vzgOIlAEUpLpgY6S6YGM",
     "url": "https://www.hk01.com/01TV/60413474/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AE%9A%E5%8A%89%E6%9D%BE%E4%BB%81%E6%BC%94%E6%88%B2%E7%A5%9E%E5%B0%8E%E5%B8%AB-%E9%9B%BB%E8%A9%B1%E9%81%99%E6%8E%A7%E5%8A%87%E6%9C%AC%E9%8D%9B%E9%8D%8A%E5%BF%83%E6%85%8B",
     "timestamp": "2026-11-23T17:19:47.933Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "哈林籃球隊成軍百年壓軸襲港　葛民輝送潮牛陳湛文囡囡衝入場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201694514461282304518604.jpeg/hfv4i6QIYRxb3jnvXblN4oic4UwHRBKL_zfsR_837Ec?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414177/%E5%93%88%E6%9E%97%E7%B1%83%E7%90%83%E9%9A%8A%E6%88%90%E8%BB%8D%E7%99%BE%E5%B9%B4%E5%A3%93%E8%BB%B8%E8%A5%B2%E6%B8%AF-%E8%91%9B%E6%B0%91%E8%BC%9D%E9%80%81%E6%BD%AE%E7%89%9B%E9%99%B3%E6%B9%9B%E6%96%87%E5%9B%A1%E5%9B%A1%E8%A1%9D%E5%85%A5%E5%A0%B4",
-    "timestamp": "2026-11-23T16:59:34.193Z",
     "strategy": ".content-card__main"
   }
 ];
