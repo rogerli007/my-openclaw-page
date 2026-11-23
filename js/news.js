@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T08:26:02.067Z
+// Last updated: 2026-11-23T08:42:10.218Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "袁澧林首奪金馬影后｜感激家人支持並赴台見證 曾一招將家庭破冰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201575310059900928891627.jpeg/cHQizk3pHKCCyE0DTZ78GaazbsLp0CCrVxr6n1ca-p8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60413907/%E8%A2%81%E6%BE%A7%E6%9E%97%E9%A6%96%E5%A5%AA%E9%87%91%E9%A6%AC%E5%BD%B1%E5%90%8E-%E6%84%9F%E6%BF%80%E5%AE%B6%E4%BA%BA%E6%94%AF%E6%8C%81%E4%B8%A6%E8%B5%B4%E5%8F%B0%E8%A6%8B%E8%AD%89-%E6%9B%BE%E4%B8%80%E6%8B%9B%E5%B0%87%E5%AE%B6%E5%BA%AD%E7%A0%B4%E5%86%B0",
+    "timestamp": "2026-11-23T08:42:10.218Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金馬獎｜AK江𤒹生稱市道不景氣　奪男配不急加片酬：先看合作機會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184878654975381504607542.jpeg/UqGswYqyr2R5-yyEup9c3l1FkwtXl8Mk5tOsdebTrHU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60307866/%E5%A5%B3%E7%B6%B2%E5%8F%8B%E8%87%AA%E7%88%86-%E5%8D%8A%E5%B9%B4%E5%8E%BB8%E6%AC%A1%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A-%E6%97%85%E8%B2%BB%E5%8F%8A%E9%A0%BB%E9%A3%9B%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89%E6%83%B9%E6%BF%80%E8%BE%AF",
     "timestamp": "2026-11-23T01:48:34.537Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國FAA發停飛令嚴重影響航班　交通部長：料11.23運作恢復正常",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198790708127862784574810.jpeg/GgUTrupbBfot61Yp4FTlK8A1fuZulgMVnrxhs568YbM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413814/%E7%BE%8E%E5%9C%8Bfaa%E7%99%BC%E5%81%9C%E9%A3%9B%E4%BB%A4%E5%9A%B4%E9%87%8D%E5%BD%B1%E9%9F%BF%E8%88%AA%E7%8F%AD-%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7-%E6%96%9911-23%E9%81%8B%E4%BD%9C%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8",
-    "timestamp": "2026-11-23T01:21:43.083Z",
     "strategy": ".content-card__main"
   }
 ];
