@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T13:59:15.390Z
+// Last updated: 2026-11-23T14:32:34.553Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳：很榮幸重返NVIDIA英偉達　迫不及待想回去工作",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200027228566458368078645.jpeg/H_BOTbuKtv4FdMTqXfD7rhncXZToj2UIx0BujsdAbo4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414158/%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%BE%88%E6%A6%AE%E5%B9%B8%E9%87%8D%E8%BF%94nvidia%E8%8B%B1%E5%81%89%E9%81%94-%E8%BF%AB%E4%B8%8D%E5%8F%8A%E5%BE%85%E6%83%B3%E5%9B%9E%E5%8E%BB%E5%B7%A5%E4%BD%9C",
+    "timestamp": "2026-11-23T14:32:34.553Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門東九龍反黑工　搜多個罪案黑點拘11人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201531107741274112107489.jpeg/g-LcLL7lD2d5bvhhrbZroJcXECGG4fs_EBaVVhAWlVY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413939/30%E5%85%A7%E5%9C%B0%E8%99%95%E7%B4%9A%E5%AE%98%E4%BE%86%E6%B8%AF%E4%BA%A4%E6%B5%811%E8%87%B33%E5%80%8B%E6%9C%88-%E6%A5%8A%E4%BD%95%E8%93%93%E8%8C%B5-%E5%85%B1%E5%90%8C%E6%B7%B1%E5%8C%96%E4%BB%A5%E6%B0%91%E7%82%BA%E6%9C%AC%E6%96%87%E5%8C%96",
     "timestamp": "2026-11-23T05:59:22.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "容祖兒啟德個唱終極加開第六場　19次殺入叱咤我最喜愛女歌手五強",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201528922529861632765824.jpeg/RKT1k1pkWmdAh1FlBpK_FHyepuTKs1qkgEzRKYBM0Sk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413931/%E5%AE%B9%E7%A5%96%E5%85%92%E5%95%9F%E5%BE%B7%E5%80%8B%E5%94%B1%E7%B5%82%E6%A5%B5%E5%8A%A0%E9%96%8B%E7%AC%AC%E5%85%AD%E5%A0%B4-19%E6%AC%A1%E6%AE%BA%E5%85%A5%E5%8F%B1%E5%92%A4%E6%88%91%E6%9C%80%E5%96%9C%E6%84%9B%E5%A5%B3%E6%AD%8C%E6%89%8B%E4%BA%94%E5%BC%B7",
-    "timestamp": "2026-11-23T05:45:55.927Z",
     "strategy": ".content-card__main"
   }
 ];
