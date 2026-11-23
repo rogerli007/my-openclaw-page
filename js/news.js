@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T14:45:40.196Z
+// Last updated: 2026-11-23T14:59:19.216Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NVIDIA｜黃仁勳恢復CEO職務　資本和政治的雙重夾擊結果",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200027228566458368078645.jpeg/H_BOTbuKtv4FdMTqXfD7rhncXZToj2UIx0BujsdAbo4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60414161/nvidia-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%81%A2%E5%BE%A9ceo%E8%81%B7%E5%8B%99-%E8%B3%87%E6%9C%AC%E5%92%8C%E6%94%BF%E6%B2%BB%E7%9A%84%E9%9B%99%E9%87%8D%E5%A4%BE%E6%93%8A%E7%B5%90%E6%9E%9C",
+    "timestamp": "2026-11-23T14:59:19.216Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李嘉欣與許晉亨慶祝結婚18周年　曬深情對視照大騷凍齡美貌",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201522379407233024962713.jpeg/zMcd3zSfjC7PDXKZOvD8chcHHDR1V20adTNEOnUzRDo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60413841/%E8%A2%81%E6%BE%A7%E6%9E%97%E9%87%91%E9%A6%AC%E9%A6%96%E5%A5%AA%E5%BD%B1%E5%90%8E-%E7%94%A9%E8%8A%B1%E7%93%B6%E6%A8%99%E7%B1%A4-%E7%9B%A4%E9%BB%9E5%E4%BD%8D%E6%92%90%E8%B5%B7%E6%B8%AF%E7%89%8790%E5%BE%8C%E5%AF%A6%E5%8A%9B%E5%A5%B3%E6%98%9F",
     "timestamp": "2026-11-23T07:22:53.157Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Omart MegaBox開幕第二日仍迫爆　下午人龍跨三層　隊尾需等1小時",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201539753061650432096372.jpeg/P1Qm_Rt_XvUMB9KCYHGAu7MDbB6WAk5NCJnvNyKZ7zc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413950/omart-megabox%E9%96%8B%E5%B9%95%E7%AC%AC%E4%BA%8C%E6%97%A5%E4%BB%8D%E8%BF%AB%E7%88%86-%E4%B8%8B%E5%8D%88%E4%BA%BA%E9%BE%8D%E8%B7%A8%E4%B8%89%E5%B1%A4-%E9%9A%8A%E5%B0%BE%E9%9C%80%E7%AD%891%E5%B0%8F%E6%99%82",
-    "timestamp": "2026-11-23T06:35:00.926Z",
     "strategy": ".content-card__main"
   }
 ];
