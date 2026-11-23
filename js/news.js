@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T06:35:00.926Z
+// Last updated: 2026-11-23T07:22:53.157Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "袁澧林金馬首奪影后！甩花瓶標籤　盤點5位撐起港片90後實力女星",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201522379407233024962713.jpeg/zMcd3zSfjC7PDXKZOvD8chcHHDR1V20adTNEOnUzRDo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60413841/%E8%A2%81%E6%BE%A7%E6%9E%97%E9%87%91%E9%A6%AC%E9%A6%96%E5%A5%AA%E5%BD%B1%E5%90%8E-%E7%94%A9%E8%8A%B1%E7%93%B6%E6%A8%99%E7%B1%A4-%E7%9B%A4%E9%BB%9E5%E4%BD%8D%E6%92%90%E8%B5%B7%E6%B8%AF%E7%89%8790%E5%BE%8C%E5%AF%A6%E5%8A%9B%E5%A5%B3%E6%98%9F",
+    "timestamp": "2026-11-23T07:22:53.157Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Omart MegaBox開幕第二日仍迫爆　下午人龍跨三層　隊尾需等1小時",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201420426345975808687901.jpeg/Hc3mzfwAiF_OCXLFInA1xQ6AJZ9HZsRjEAI5wRACOcE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413795/cop31-%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%B3%B0%E6%9C%83%E9%96%89%E5%B9%95-%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82%E6%9C%AA%E8%83%BD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-11-22T23:59:09.757Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "COP31｜聯合國氣候峰會閉幕　談判破裂未能達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201420426345975808687901.jpeg/Hc3mzfwAiF_OCXLFInA1xQ6AJZ9HZsRjEAI5wRACOcE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413795/cop31-%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%B3%B0%E6%9C%83%E9%96%89%E5%B9%95-%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82%E6%9C%AA%E8%83%BD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-11-22T23:44:56.380Z",
     "strategy": ".content-card__main"
   }
 ];
