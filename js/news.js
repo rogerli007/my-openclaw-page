@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T08:42:10.218Z
+// Last updated: 2026-11-23T08:59:10.432Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金價暴跌內地掀搶金潮　民眾各出奇招　電梯逼爆不惜爬十幾層樓梯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414053/%E9%87%91%E5%83%B9%E6%9A%B4%E8%B7%8C%E5%85%A7%E5%9C%B0%E6%8E%80%E6%90%B6%E9%87%91%E6%BD%AE-%E6%B0%91%E7%9C%BE%E5%90%84%E5%87%BA%E5%A5%87%E6%8B%9B-%E9%9B%BB%E6%A2%AF%E9%80%BC%E7%88%86%E4%B8%8D%E6%83%9C%E7%88%AC%E5%8D%81%E5%B9%BE%E5%B1%A4%E6%A8%93%E6%A2%AF",
+    "timestamp": "2026-11-23T08:59:10.432Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "袁澧林首奪金馬影后｜感激家人支持並赴台見證 曾一招將家庭破冰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200517679190904832094237.jpeg/aPXzjLa6GSiZZlBOlN1iIlKsyDe_JxqnvSA_Ub0gP1E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60413060/%E9%A6%99%E6%B8%AFspa%E6%8E%A8%E4%BB%8B11%E5%A4%A7%E5%84%AA%E6%83%A0-%E8%B2%B71%E9%80%811%E6%AD%8E%E7%84%A1%E9%82%8A%E9%9A%9B%E6%B3%B3%E6%B1%A0%E6%B5%B7%E6%99%AF-%E6%8C%87%E5%AE%9A%E5%BF%AB%E9%96%83-11%E8%B5%B7",
     "timestamp": "2026-11-23T02:26:00.615Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "女網友自爆「半年去8次日本旅遊」　旅費及頻飛原因曝光惹激辯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184878654975381504607542.jpeg/UqGswYqyr2R5-yyEup9c3l1FkwtXl8Mk5tOsdebTrHU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60307866/%E5%A5%B3%E7%B6%B2%E5%8F%8B%E8%87%AA%E7%88%86-%E5%8D%8A%E5%B9%B4%E5%8E%BB8%E6%AC%A1%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A-%E6%97%85%E8%B2%BB%E5%8F%8A%E9%A0%BB%E9%A3%9B%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89%E6%83%B9%E6%BF%80%E8%BE%AF",
-    "timestamp": "2026-11-23T01:48:34.537Z",
     "strategy": ".content-card__main"
   }
 ];
