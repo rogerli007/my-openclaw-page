@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T16:46:08.995Z
+// Last updated: 2026-11-23T16:59:34.193Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈林籃球隊成軍百年壓軸襲港　葛民輝送潮牛陳湛文囡囡衝入場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201694514461282304518604.jpeg/hfv4i6QIYRxb3jnvXblN4oic4UwHRBKL_zfsR_837Ec?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414177/%E5%93%88%E6%9E%97%E7%B1%83%E7%90%83%E9%9A%8A%E6%88%90%E8%BB%8D%E7%99%BE%E5%B9%B4%E5%A3%93%E8%BB%B8%E8%A5%B2%E6%B8%AF-%E8%91%9B%E6%B0%91%E8%BC%9D%E9%80%81%E6%BD%AE%E7%89%9B%E9%99%B3%E6%B9%9B%E6%96%87%E5%9B%A1%E5%9B%A1%E8%A1%9D%E5%85%A5%E5%A0%B4",
+    "timestamp": "2026-11-23T16:59:34.193Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "GTA 6攻略｜繁中互動地圖　95個藏卡位置、85個特色載具地點一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201566687090970624983756.jpeg/ilErKClMuq402aL-r0cNddnxdiwD2V0DbFXFKGxVxSg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413638/tvb%E5%8F%B0%E6%85%B6-%E6%9E%97%E7%A7%80%E6%80%A1%E6%95%B4%E8%A3%99%E5%AD%94%E5%BE%B7%E8%B3%A2%E6%97%81%E8%A7%80%E9%81%AD%E7%B6%B2%E6%B0%91%E7%8B%82%E8%BD%9F-%E9%87%8D%E6%8F%90%E8%88%87%E5%BB%96%E6%85%A7%E5%84%80%E9%BB%91%E6%AD%B7%E5%8F%B2",
     "timestamp": "2026-11-23T09:39:06.176Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金價暴跌內地掀搶金潮　民眾各出奇招　電梯逼爆不惜爬十幾層樓梯",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414053/%E9%87%91%E5%83%B9%E6%9A%B4%E8%B7%8C%E5%85%A7%E5%9C%B0%E6%8E%80%E6%90%B6%E9%87%91%E6%BD%AE-%E6%B0%91%E7%9C%BE%E5%90%84%E5%87%BA%E5%A5%87%E6%8B%9B-%E9%9B%BB%E6%A2%AF%E9%80%BC%E7%88%86%E4%B8%8D%E6%83%9C%E7%88%AC%E5%8D%81%E5%B9%BE%E5%B1%A4%E6%A8%93%E6%A2%AF",
-    "timestamp": "2026-11-23T08:59:10.432Z",
     "strategy": ".content-card__main"
   }
 ];
