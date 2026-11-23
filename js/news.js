@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T14:59:19.216Z
+// Last updated: 2026-11-23T15:20:27.352Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜10歲童歷劫性情變唯獨愛打鼓　機構資助買電子鼓重拾生活",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201669870195052544108764.jpeg/xS9I2kCCXnGUGLZvQuGuOOJx-Pv3W0RdzDqKtMw6irQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414165/%E5%AE%8F%E7%A6%8F%E8%8B%91-10%E6%AD%B2%E7%AB%A5%E6%AD%B7%E5%8A%AB%E6%80%A7%E6%83%85%E8%AE%8A%E5%94%AF%E7%8D%A8%E6%84%9B%E6%89%93%E9%BC%93-%E6%A9%9F%E6%A7%8B%E8%B3%87%E5%8A%A9%E8%B2%B7%E9%9B%BB%E5%AD%90%E9%BC%93%E9%87%8D%E6%8B%BE%E7%94%9F%E6%B4%BB",
+    "timestamp": "2026-11-23T15:20:27.352Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NVIDIA｜黃仁勳恢復CEO職務　資本和政治的雙重夾擊結果",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230112/690234110639083520492370.jpeg/dpjhmGDkpe7_3LeU1ydVO6_spQMcHO6W0xbehtMW3oY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413984/%E5%A4%A7%E5%9F%94%E5%94%90%E7%8B%97%E8%A2%AB%E5%90%8A%E6%A8%B9%E6%85%98%E6%AD%BB-%E6%84%9B%E5%8D%94-%E7%8B%97%E9%9A%BB%E7%84%A1%E6%A4%8D%E5%85%A5%E6%99%B6%E7%89%87-%E5%85%A9%E5%BE%8C%E8%85%BF%E6%9C%89%E5%82%B7%E7%97%95",
     "timestamp": "2026-11-23T07:45:34.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "袁澧林金馬首奪影后！甩花瓶標籤　盤點5位撐起港片90後實力女星",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201522379407233024962713.jpeg/zMcd3zSfjC7PDXKZOvD8chcHHDR1V20adTNEOnUzRDo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60413841/%E8%A2%81%E6%BE%A7%E6%9E%97%E9%87%91%E9%A6%AC%E9%A6%96%E5%A5%AA%E5%BD%B1%E5%90%8E-%E7%94%A9%E8%8A%B1%E7%93%B6%E6%A8%99%E7%B1%A4-%E7%9B%A4%E9%BB%9E5%E4%BD%8D%E6%92%90%E8%B5%B7%E6%B8%AF%E7%89%8790%E5%BE%8C%E5%AF%A6%E5%8A%9B%E5%A5%B3%E6%98%9F",
-    "timestamp": "2026-11-23T07:22:53.157Z",
     "strategy": ".content-card__main"
   }
 ];
