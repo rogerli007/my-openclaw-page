@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T02:59:15.811Z
+// Last updated: 2026-11-23T03:23:54.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳健波12.1起接任醫管局主席　任期兩年　范鴻齡在任七年正式卸任",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118660502629912576216375.jpeg/xHbmiozDcWka-Ntr6DJNzaqfC3n9qmL4VPKKmU7yipk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413862/%E9%99%B3%E5%81%A5%E6%B3%A212-1%E8%B5%B7%E6%8E%A5%E4%BB%BB%E9%86%AB%E7%AE%A1%E5%B1%80%E4%B8%BB%E5%B8%AD-%E4%BB%BB%E6%9C%9F%E5%85%A9%E5%B9%B4-%E8%8C%83%E9%B4%BB%E9%BD%A1%E5%9C%A8%E4%BB%BB%E4%B8%83%E5%B9%B4%E6%AD%A3%E5%BC%8F%E5%8D%B8%E4%BB%BB",
+    "timestamp": "2026-11-23T03:23:54.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Puma優惠｜滿$1500減$200！ROSÉ同款Speedcat Ballet　1招免運費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200859309638946816045196.jpeg/ImLknqD5IwNHhGGiEGcICTYH8xCgNkVhiVldkYlZXZE",
     "url": "https://www.hk01.com/01TV/60413472/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%B8%8F%E5%85%A5tvb%E5%A5%91%E6%A9%9F-%E5%90%B3%E5%90%9B%E5%A6%82%E7%89%BD%E7%B7%9A%E9%A3%AF%E5%B1%80%E4%BF%83%E6%88%90%E8%BD%89%E5%8F%B0",
     "timestamp": "2026-11-22T20:29:32.940Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀踏入TVB契機：吳君如牽線飯局促成轉台",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200859309638946816045196.jpeg/ImLknqD5IwNHhGGiEGcICTYH8xCgNkVhiVldkYlZXZE",
-    "url": "https://www.hk01.com/01TV/60413472/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%B8%8F%E5%85%A5tvb%E5%A5%91%E6%A9%9F-%E5%90%B3%E5%90%9B%E5%A6%82%E7%89%BD%E7%B7%9A%E9%A3%AF%E5%B1%80%E4%BF%83%E6%88%90%E8%BD%89%E5%8F%B0",
-    "timestamp": "2026-11-22T20:14:02.571Z",
     "strategy": ".content-card__main"
   }
 ];
