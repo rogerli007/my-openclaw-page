@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T17:58:58.725Z
+// Last updated: 2026-11-23T18:22:08.055Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀銘記劉松仁座右銘：演員要無所不用其極誘引對手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200863998858235904724569.jpeg/mDcmP-uU-hoSNM5LlOTh6ChhqwjPDjOJtXJNWLVyTVg",
+    "url": "https://www.hk01.com/01TV/60413477/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%8A%98%E8%A8%98%E5%8A%89%E6%9D%BE%E4%BB%81%E5%BA%A7%E5%8F%B3%E9%8A%98-%E6%BC%94%E5%93%A1%E8%A6%81%E7%84%A1%E6%89%80%E4%B8%8D%E7%94%A8%E5%85%B6%E6%A5%B5%E8%AA%98%E5%BC%95%E5%B0%8D%E6%89%8B",
+    "timestamp": "2026-11-23T18:22:08.055Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳復職｜美兩黨議員批評英偉達決定　促立法收緊晶片對華出口",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201566927516864512791630.png/6w-Zv4D7v8mTroRscovoWZ-tIK4k20cy9_DLh_fwy4c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414002/%E8%88%92%E6%B7%87%E5%A5%AA%E9%87%91%E9%A6%AC%E7%8D%8E%E8%87%AA%E5%98%B250%E6%AD%B2-%E5%B7%AE%E9%BB%9E%E8%A6%81%E6%BC%94%E5%A4%96%E5%A9%86-%E9%80%8F%E9%9C%B2%E4%B8%8B%E4%B8%80%E9%83%A8%E4%BD%9C%E5%93%81%E5%89%B5%E4%BD%9C%E6%96%B9%E5%90%91",
     "timestamp": "2026-11-23T11:19:18.343Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長者血壓｜冬天陽光少易高血壓！降血壓5食物 早餐2奇異果7周見效",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201606593938984960489527.png/J9wekknDc20Irt6zysi1f0-cCMMg1H3q9HH2k_Rx9pM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60414089/%E9%95%B7%E8%80%85%E8%A1%80%E5%A3%93-%E5%86%AC%E5%A4%A9%E9%99%BD%E5%85%89%E5%B0%91%E6%98%93%E9%AB%98%E8%A1%80%E5%A3%93-%E9%99%8D%E8%A1%80%E5%A3%935%E9%A3%9F%E7%89%A9-%E6%97%A9%E9%A4%902%E5%A5%87%E7%95%B0%E6%9E%9C7%E5%91%A8%E8%A6%8B%E6%95%88",
-    "timestamp": "2026-11-23T10:45:58.915Z",
     "strategy": ".content-card__main"
   }
 ];
