@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T09:39:06.176Z
+// Last updated: 2026-11-23T09:59:23.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "葬送的芙莉蓮特香港展旺角直擊｜欣梅爾像／鏡蓮華／寶箱怪實體化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192880193094553600943705.jpeg/OlFjO5tqA0mxZ_JCmZWSXmSm05Jx6xcJhZgrroWYK64?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60405240/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%E7%89%B9%E5%B1%95%E7%99%BB%E9%99%B8%E6%97%BA%E8%A7%92",
+    "timestamp": "2026-11-23T09:59:23.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB台慶｜林秀怡整裙孔德賢旁觀遭網民狂轟　重提與廖慧儀黑歷史",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200416673547423744520438.jpeg/Lbcsq12jq_vJbSDVnA7DPdD56nEJ89B0lu4flpbuH5Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60412772/puma%E5%84%AA%E6%83%A0-%E6%BB%BF-1500%E6%B8%9B-200-ros%C3%A9%E5%90%8C%E6%AC%BEspeedcat-ballet-1%E6%8B%9B%E5%85%8D%E9%81%8B%E8%B2%BB",
     "timestamp": "2026-11-23T02:59:15.811Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "八馬茶業回應被解放軍暫停採購資格：不涉產品質量、食品安全",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201486604422615040105639.png/dW2Px6RwYbXx6TZjaFonE5zyzZLVa87Le1foE3tX6BM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413849/%E5%85%AB%E9%A6%AC%E8%8C%B6%E6%A5%AD%E5%9B%9E%E6%87%89%E8%A2%AB%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%9A%AB%E5%81%9C%E6%8E%A1%E8%B3%BC%E8%B3%87%E6%A0%BC-%E4%B8%8D%E6%B6%89%E7%94%A2%E5%93%81%E8%B3%AA%E9%87%8F-%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8",
-    "timestamp": "2026-11-23T02:47:29.712Z",
     "strategy": ".content-card__main"
   }
 ];
