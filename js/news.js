@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T01:48:34.537Z
+// Last updated: 2026-11-23T02:26:00.615Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港SPA推介11大優惠｜買1送1歎無邊際泳池海景　指定快閃$11起",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200517679190904832094237.jpeg/aPXzjLa6GSiZZlBOlN1iIlKsyDe_JxqnvSA_Ub0gP1E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60413060/%E9%A6%99%E6%B8%AFspa%E6%8E%A8%E4%BB%8B11%E5%A4%A7%E5%84%AA%E6%83%A0-%E8%B2%B71%E9%80%811%E6%AD%8E%E7%84%A1%E9%82%8A%E9%9A%9B%E6%B3%B3%E6%B1%A0%E6%B5%B7%E6%99%AF-%E6%8C%87%E5%AE%9A%E5%BF%AB%E9%96%83-11%E8%B5%B7",
+    "timestamp": "2026-11-23T02:26:00.615Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "女網友自爆「半年去8次日本旅遊」　旅費及頻飛原因曝光惹激辯",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201373429354205184892530.jpeg/AbNuVrAT63kkotajx5eonEnWRpyhbHAL8fPHgfHzx4E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413789/%E4%BF%84%E8%88%B9%E5%81%9C%E9%9D%A0%E5%88%A9%E6%AF%94%E4%BA%9E%E6%B8%AF%E5%8F%A3%E7%88%86%E7%82%B810%E4%BA%BA%E5%82%B7-%E7%96%91%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%94%BB%E6%93%8A",
     "timestamp": "2026-11-22T19:43:51.950Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀遭亞視臨門取消合約：零收入遇斷糧與供樓雙重打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200857874352312320861357.jpeg/QUd8P1v2DPfytMG6llSiM3yz2S1C6dSrtu0naLbtJ2g",
-    "url": "https://www.hk01.com/01TV/60413470/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%81%AD%E4%BA%9E%E8%A6%96%E8%87%A8%E9%96%80%E5%8F%96%E6%B6%88%E5%90%88%E7%B4%84-%E9%9B%B6%E6%94%B6%E5%85%A5%E9%81%87%E6%96%B7%E7%B3%A7%E8%88%87%E4%BE%9B%E6%A8%93%E9%9B%99%E9%87%8D%E6%89%93%E6%93%8A",
-    "timestamp": "2026-11-22T19:17:54.250Z",
     "strategy": ".content-card__main"
   }
 ];
