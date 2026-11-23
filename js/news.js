@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T13:32:41.577Z
+// Last updated: 2026-11-23T13:59:15.390Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門東九龍反黑工　搜多個罪案黑點拘11人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201652437379715072932684.jpeg/Lolp35bIHndCe3u5FrdwdfdvhUDeWLgBg_BSMIPwUjA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414149/%E8%B7%A8%E9%83%A8%E9%96%80%E6%9D%B1%E4%B9%9D%E9%BE%8D%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%90%9C%E5%A4%9A%E5%80%8B%E7%BD%AA%E6%A1%88%E9%BB%91%E9%BB%9E%E6%8B%9811%E4%BA%BA",
+    "timestamp": "2026-11-23T13:59:15.390Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林子祥葉蒨文2027年載譽重臨紅館　 本周末維港戶外派對率先預熱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201528922529861632765824.jpeg/RKT1k1pkWmdAh1FlBpK_FHyepuTKs1qkgEzRKYBM0Sk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413931/%E5%AE%B9%E7%A5%96%E5%85%92%E5%95%9F%E5%BE%B7%E5%80%8B%E5%94%B1%E7%B5%82%E6%A5%B5%E5%8A%A0%E9%96%8B%E7%AC%AC%E5%85%AD%E5%A0%B4-19%E6%AC%A1%E6%AE%BA%E5%85%A5%E5%8F%B1%E5%92%A4%E6%88%91%E6%9C%80%E5%96%9C%E6%84%9B%E5%A5%B3%E6%AD%8C%E6%89%8B%E4%BA%94%E5%BC%B7",
     "timestamp": "2026-11-23T05:45:55.927Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "帆船｜國際帆船大獎賽香港站1.23-24上演　兩日門票已售罄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186702189955911680524017.jpeg/PdsB9ZVMG7nZSx4BphfNM8IJd3d_I3yumnpqsJp6arA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60399196/%E5%B8%86%E8%88%B9-%E5%9C%8B%E9%9A%9B%E5%B8%86%E8%88%B9%E5%A4%A7%E7%8D%8E%E8%B3%BD%E9%A6%99%E6%B8%AF%E7%AB%991-23-24%E4%B8%8A%E6%BC%94-%E5%85%A9%E6%97%A5%E9%96%80%E7%A5%A8%E5%B7%B2%E5%94%AE%E7%BD%84",
-    "timestamp": "2026-11-23T05:28:25.237Z",
     "strategy": ".content-card__main"
   }
 ];
