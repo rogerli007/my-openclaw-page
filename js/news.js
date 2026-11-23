@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T04:49:07.470Z
+// Last updated: 2026-11-23T05:22:09.124Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "國產郵輪愛達‧花城號今抵港　羅淑佩：上船即感受到國家郵輪實力",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201517766650105856924650.jpeg/3saSfz07wLQqm7JTNuKFib80p5r1PqBlTuKbamvim2o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413891/%E5%9C%8B%E7%94%A2%E9%83%B5%E8%BC%AA%E6%84%9B%E9%81%94-%E8%8A%B1%E5%9F%8E%E8%99%9F%E4%BB%8A%E6%8A%B5%E6%B8%AF-%E7%BE%85%E6%B7%91%E4%BD%A9-%E4%B8%8A%E8%88%B9%E5%8D%B3%E6%84%9F%E5%8F%97%E5%88%B0%E5%9C%8B%E5%AE%B6%E9%83%B5%E8%BC%AA%E5%AF%A6%E5%8A%9B",
+    "timestamp": "2026-11-23T05:22:09.124Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "【今日當年】李嘉欣與許晉亨豪宅大婚　八卡巨鑽一億打造奢華婚宴",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201414665087750144132754.jpeg/J43y8P3jcdT6X00_GDNnAPkhFkXNfIlljJsvA4ybLwM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413793/%E8%8D%83%E7%81%A3%E5%A4%A7%E5%A3%A9%E8%A1%97%E7%88%86%E9%B9%B9%E6%B0%B4%E7%AE%A1-%E6%B0%B4%E6%9F%B1%E4%B8%80%E5%BA%A6%E6%BF%80%E5%99%B43%E5%B1%A4%E6%A8%93%E9%AB%98-%E6%B0%B4%E5%8B%99%E7%BD%B2%E6%80%A5%E9%97%9C%E6%8E%A3",
     "timestamp": "2026-11-22T22:19:08.478Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳風波｜美財長：追查英偉達合規責任　情報總監：查涉嫌間諜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261112/1197538052075950080152078.jpeg/H4v9ZSAUYlgYdPR4iUhgk6JoYhwR0Lg8ioZ-2IqGftg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413792/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%B3%A2-%E7%BE%8E%E8%B2%A1%E9%95%B7-%E8%BF%BD%E6%9F%A5%E8%8B%B1%E5%81%89%E9%81%94%E5%90%88%E8%A6%8F%E8%B2%AC%E4%BB%BB-%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3-%E6%9F%A5%E6%B6%89%E5%AB%8C%E9%96%93%E8%AB%9C",
-    "timestamp": "2026-11-22T21:58:59.340Z",
     "strategy": ".content-card__main"
   }
 ];
