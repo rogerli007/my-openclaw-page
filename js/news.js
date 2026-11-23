@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T10:21:09.341Z
+// Last updated: 2026-11-23T10:45:58.915Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長者血壓｜冬天陽光少易高血壓！降血壓5食物 早餐2奇異果7周見效",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201606593938984960489527.png/J9wekknDc20Irt6zysi1f0-cCMMg1H3q9HH2k_Rx9pM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60414089/%E9%95%B7%E8%80%85%E8%A1%80%E5%A3%93-%E5%86%AC%E5%A4%A9%E9%99%BD%E5%85%89%E5%B0%91%E6%98%93%E9%AB%98%E8%A1%80%E5%A3%93-%E9%99%8D%E8%A1%80%E5%A3%935%E9%A3%9F%E7%89%A9-%E6%97%A9%E9%A4%902%E5%A5%87%E7%95%B0%E6%9E%9C7%E5%91%A8%E8%A6%8B%E6%95%88",
+    "timestamp": "2026-11-23T10:45:58.915Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "廣州男戀上前妻情夫的前妻！兩老恐遭分身家訂協議400萬樓傳孫女",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201486606515572736803174.png/ZStGiN4HYrom1aXxad90CncAav1kUF-C3t76xN7e-sQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413853/300%E5%85%83%E4%BD%A0%E7%B5%A6%E6%88%91x%E4%B8%80%E4%B8%8B-%E5%A5%B3%E9%81%8A%E5%AE%A2%E9%81%AD%E4%B8%8A%E6%B5%B7%E5%8F%B8%E6%A9%9F%E6%80%A7%E9%A8%B7-%E7%BF%BB%E8%AD%AF%E5%BE%8C%E5%A7%8B%E7%9F%A5%E5%8D%B1%E9%9A%AA-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-23T03:38:43.767Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳健波12.1起接任醫管局主席　任期兩年　范鴻齡在任七年正式卸任",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118660502629912576216375.jpeg/xHbmiozDcWka-Ntr6DJNzaqfC3n9qmL4VPKKmU7yipk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413862/%E9%99%B3%E5%81%A5%E6%B3%A212-1%E8%B5%B7%E6%8E%A5%E4%BB%BB%E9%86%AB%E7%AE%A1%E5%B1%80%E4%B8%BB%E5%B8%AD-%E4%BB%BB%E6%9C%9F%E5%85%A9%E5%B9%B4-%E8%8C%83%E9%B4%BB%E9%BD%A1%E5%9C%A8%E4%BB%BB%E4%B8%83%E5%B9%B4%E6%AD%A3%E5%BC%8F%E5%8D%B8%E4%BB%BB",
-    "timestamp": "2026-11-23T03:23:54.525Z",
     "strategy": ".content-card__main"
   }
 ];
