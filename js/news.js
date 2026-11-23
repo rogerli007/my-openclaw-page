@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T18:33:25.913Z
+// Last updated: 2026-11-23T18:45:34.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會教揀羽絨6大要訣 必學看標籤羽毛成份比例 買前要細心觸摸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201718547022090240415078.jpeg/XfRd863uvjDQa8xrws-hQO3fDX2o8QQoFcr9_BXK_fw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414186/%E6%B6%88%E5%A7%94%E6%9C%83%E6%95%99%E6%8F%80%E7%BE%BD%E7%B5%A86%E5%A4%A7%E8%A6%81%E8%A8%A3-%E5%BF%85%E5%AD%B8%E7%9C%8B%E6%A8%99%E7%B1%A4%E7%BE%BD%E6%AF%9B%E6%88%90%E4%BB%BD%E6%AF%94%E4%BE%8B-%E8%B2%B7%E5%89%8D%E8%A6%81%E7%B4%B0%E5%BF%83%E8%A7%B8%E6%91%B8",
+    "timestamp": "2026-11-23T18:45:34.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會教揀羽絨6大要訣 必學看標籤羽毛成份比例 買前要細心觸摸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201593819573784576239541.jpeg/joOAkn0cuCtjYV6oVl1lsTy70YRhGr3E4LVAhMW1QIQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414077/omart-megabox%E5%8D%83%E5%85%83%E6%9E%95%E9%A0%AD%E8%B3%A3-299%E5%AF%A6%E5%B1%AC%E7%BE%8E%E7%89%88-%E9%9D%9E%E4%B8%B9%E9%BA%A5%E8%A3%BD-costco%E8%B3%A3-250",
     "timestamp": "2026-11-23T11:59:05.545Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "4大生肖天生具備不老心態　勇敢追夢活得精彩　從來不被年齡限制",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168947734770618368169402.jpeg/07K-RoYLCZQpRg0ljcdUgOL7pm3wT-O5bw6Tx28Ok8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60383443/4%E5%A4%A7%E7%94%9F%E8%82%96%E5%A4%A9%E7%94%9F%E5%85%B7%E5%82%99%E4%B8%8D%E8%80%81%E5%BF%83%E6%85%8B-%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E6%B4%BB%E5%BE%97%E7%B2%BE%E5%BD%A9-%E5%BE%9E%E4%BE%86%E4%B8%8D%E8%A2%AB%E5%B9%B4%E9%BD%A1%E9%99%90%E5%88%B6",
-    "timestamp": "2026-11-23T11:45:44.842Z",
     "strategy": ".content-card__main"
   }
 ];
