@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T05:59:22.722Z
+// Last updated: 2026-11-23T06:35:00.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Omart MegaBox開幕第二日仍迫爆　下午人龍跨三層　隊尾需等1小時",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201539753061650432096372.jpeg/P1Qm_Rt_XvUMB9KCYHGAu7MDbB6WAk5NCJnvNyKZ7zc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413950/omart-megabox%E9%96%8B%E5%B9%95%E7%AC%AC%E4%BA%8C%E6%97%A5%E4%BB%8D%E8%BF%AB%E7%88%86-%E4%B8%8B%E5%8D%88%E4%BA%BA%E9%BE%8D%E8%B7%A8%E4%B8%89%E5%B1%A4-%E9%9A%8A%E5%B0%BE%E9%9C%80%E7%AD%891%E5%B0%8F%E6%99%82",
+    "timestamp": "2026-11-23T06:35:00.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "30內地處級官來港交流1至3個月　楊何蓓茵：共同深化以民為本文化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201420426345975808687901.jpeg/Hc3mzfwAiF_OCXLFInA1xQ6AJZ9HZsRjEAI5wRACOcE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413795/cop31-%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%B3%B0%E6%9C%83%E9%96%89%E5%B9%95-%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82%E6%9C%AA%E8%83%BD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
     "timestamp": "2026-11-22T23:44:56.380Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑大火一周年｜嚴重傷者艱難康復　穿壓力衣學握拳　終可步行",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1199096139744284672168257.jpeg/LBE8wR0Aq-gzbJQ19Yit1T48R7LHR381THL9Nkxy_TY",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408771/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%9A%B4%E9%87%8D%E5%82%B7%E8%80%85%E8%89%B1%E9%9B%A3%E5%BA%B7%E5%BE%A9-%E7%A9%BF%E5%A3%93%E5%8A%9B%E8%A1%A3%E5%AD%B8%E6%8F%A1%E6%8B%B3-%E7%B5%82%E5%8F%AF%E6%AD%A5%E8%A1%8C",
-    "timestamp": "2026-11-22T23:19:04.799Z",
     "strategy": ".content-card__main"
   }
 ];
