@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T16:59:34.193Z
+// Last updated: 2026-11-23T17:19:47.933Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀讚劉松仁演戲神導師：電話遙控劇本鍛鍊心態",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200862974223323136541093.jpeg/1eVUTgOz6in5l-ETyjhxHH9vzgOIlAEUpLpgY6S6YGM",
+    "url": "https://www.hk01.com/01TV/60413474/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AE%9A%E5%8A%89%E6%9D%BE%E4%BB%81%E6%BC%94%E6%88%B2%E7%A5%9E%E5%B0%8E%E5%B8%AB-%E9%9B%BB%E8%A9%B1%E9%81%99%E6%8E%A7%E5%8A%87%E6%9C%AC%E9%8D%9B%E9%8D%8A%E5%BF%83%E6%85%8B",
+    "timestamp": "2026-11-23T17:19:47.933Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈林籃球隊成軍百年壓軸襲港　葛民輝送潮牛陳湛文囡囡衝入場",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261030/1192880193094553600943705.jpeg/OlFjO5tqA0mxZ_JCmZWSXmSm05Jx6xcJhZgrroWYK64?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60405240/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%E7%89%B9%E5%B1%95%E7%99%BB%E9%99%B8%E6%97%BA%E8%A7%92",
     "timestamp": "2026-11-23T09:59:23.913Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB台慶｜林秀怡整裙孔德賢旁觀遭網民狂轟　重提與廖慧儀黑歷史",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201566687090970624983756.jpeg/ilErKClMuq402aL-r0cNddnxdiwD2V0DbFXFKGxVxSg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413638/tvb%E5%8F%B0%E6%85%B6-%E6%9E%97%E7%A7%80%E6%80%A1%E6%95%B4%E8%A3%99%E5%AD%94%E5%BE%B7%E8%B3%A2%E6%97%81%E8%A7%80%E9%81%AD%E7%B6%B2%E6%B0%91%E7%8B%82%E8%BD%9F-%E9%87%8D%E6%8F%90%E8%88%87%E5%BB%96%E6%85%A7%E5%84%80%E9%BB%91%E6%AD%B7%E5%8F%B2",
-    "timestamp": "2026-11-23T09:39:06.176Z",
     "strategy": ".content-card__main"
   }
 ];
