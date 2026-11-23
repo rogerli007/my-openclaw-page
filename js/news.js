@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T01:21:43.083Z
+// Last updated: 2026-11-23T01:48:34.537Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "女網友自爆「半年去8次日本旅遊」　旅費及頻飛原因曝光惹激辯",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261008/1184878654975381504607542.jpeg/UqGswYqyr2R5-yyEup9c3l1FkwtXl8Mk5tOsdebTrHU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60307866/%E5%A5%B3%E7%B6%B2%E5%8F%8B%E8%87%AA%E7%88%86-%E5%8D%8A%E5%B9%B4%E5%8E%BB8%E6%AC%A1%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A-%E6%97%85%E8%B2%BB%E5%8F%8A%E9%A0%BB%E9%A3%9B%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89%E6%83%B9%E6%BF%80%E8%BE%AF",
+    "timestamp": "2026-11-23T01:48:34.537Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國FAA發停飛令嚴重影響航班　交通部長：料11.23運作恢復正常",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200857874352312320861357.jpeg/QUd8P1v2DPfytMG6llSiM3yz2S1C6dSrtu0naLbtJ2g",
     "url": "https://www.hk01.com/01TV/60413470/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%81%AD%E4%BA%9E%E8%A6%96%E8%87%A8%E9%96%80%E5%8F%96%E6%B6%88%E5%90%88%E7%B4%84-%E9%9B%B6%E6%94%B6%E5%85%A5%E9%81%87%E6%96%B7%E7%B3%A7%E8%88%87%E4%BE%9B%E6%A8%93%E9%9B%99%E9%87%8D%E6%89%93%E6%93%8A",
     "timestamp": "2026-11-22T19:17:54.250Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大埔私家車遭途人舉報　警到場拘42歲男司機涉酒後駕駛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201185557007306752367841.jpeg/8hHFBPeheeihlqKBOSVJNftf1lTfwDvvbmdCp25nQqc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413787/%E5%A4%A7%E5%9F%94%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%AD%E9%80%94%E4%BA%BA%E8%88%89%E5%A0%B1-%E8%AD%A6%E5%88%B0%E5%A0%B4%E6%8B%9842%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B",
-    "timestamp": "2026-11-22T18:59:09.322Z",
     "strategy": ".content-card__main"
   }
 ];
