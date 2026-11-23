@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T11:59:05.545Z
+// Last updated: 2026-11-23T12:26:05.869Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李城璧中學推強制晚間自習　學生批不合理　校方稱應學生反映推行",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201619863529852928576390.jpeg/3hqancDKR57yO09D3SaW06mJ5rP2Ev1TR2-TEkdvkxI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413168/%E6%9D%8E%E5%9F%8E%E7%92%A7%E4%B8%AD%E5%AD%B8%E6%8E%A8%E5%BC%B7%E5%88%B6%E6%99%9A%E9%96%93%E8%87%AA%E7%BF%92-%E5%AD%B8%E7%94%9F%E6%89%B9%E4%B8%8D%E5%90%88%E7%90%86-%E6%A0%A1%E6%96%B9%E7%A8%B1%E6%87%89%E5%AD%B8%E7%94%9F%E5%8F%8D%E6%98%A0%E6%8E%A8%E8%A1%8C",
+    "timestamp": "2026-11-23T12:26:05.869Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Omart Megabox千元枕頭賣$299實屬美版　非丹麥製　Costco賣$250",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201498262083735552651978.jpeg/ovaNaZsTHTXcjT5_4F-2lX8anPDRdtJuFMu_aRTLv2k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413730/%E4%BB%8A%E6%97%A5%E7%95%B6%E5%B9%B4-%E6%9D%8E%E5%98%89%E6%AC%A3%E8%88%87%E8%A8%B1%E6%99%89%E4%BA%A8%E8%B1%AA%E5%AE%85%E5%A4%A7%E5%A9%9A-%E5%85%AB%E5%8D%A1%E5%B7%A8%E9%91%BD%E4%B8%80%E5%84%84%E6%89%93%E9%80%A0%E5%A5%A2%E8%8F%AF%E5%A9%9A%E5%AE%B4",
     "timestamp": "2026-11-23T04:49:07.470Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珠海航展將首設海上展區　055及075艦開放　殲-35升空獻技",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201513111014608896873256.jpeg/n85RZ2rhUlz5wSjy4zrGrdE3S2Uz_667AhHOxAIRzsQ",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413871/%E7%8F%A0%E6%B5%B7%E8%88%AA%E5%B1%95%E5%B0%87%E9%A6%96%E8%A8%AD%E6%B5%B7%E4%B8%8A%E5%B1%95%E5%8D%80-055%E5%8F%8A075%E8%89%A6%E9%96%8B%E6%94%BE-%E6%AE%B2-35%E5%8D%87%E7%A9%BA%E7%8D%BB%E6%8A%80",
-    "timestamp": "2026-11-23T04:37:43.383Z",
     "strategy": ".content-card__main"
   }
 ];
