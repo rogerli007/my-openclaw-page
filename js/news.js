@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T01:01:58.958Z
+// Last updated: 2026-11-23T01:21:43.083Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國FAA發停飛令嚴重影響航班　交通部長：料11.23運作恢復正常",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198790708127862784574810.jpeg/GgUTrupbBfot61Yp4FTlK8A1fuZulgMVnrxhs568YbM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413814/%E7%BE%8E%E5%9C%8Bfaa%E7%99%BC%E5%81%9C%E9%A3%9B%E4%BB%A4%E5%9A%B4%E9%87%8D%E5%BD%B1%E9%9F%BF%E8%88%AA%E7%8F%AD-%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%B7-%E6%96%9911-23%E9%81%8B%E4%BD%9C%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8",
+    "timestamp": "2026-11-23T01:21:43.083Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "玫瑰戰爭｜鹽花血腥接連登場　姚子羚被影裸照陳豪被割喉最重口味",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201185557007306752367841.jpeg/8hHFBPeheeihlqKBOSVJNftf1lTfwDvvbmdCp25nQqc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413787/%E5%A4%A7%E5%9F%94%E7%A7%81%E5%AE%B6%E8%BB%8A%E9%81%AD%E9%80%94%E4%BA%BA%E8%88%89%E5%A0%B1-%E8%AD%A6%E5%88%B0%E5%A0%B4%E6%8B%9842%E6%AD%B2%E7%94%B7%E5%8F%B8%E6%A9%9F%E6%B6%89%E9%85%92%E5%BE%8C%E9%A7%95%E9%A7%9B",
     "timestamp": "2026-11-22T18:59:09.322Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀首拍電視劇震撼：從公主般模特待遇落入雜務地獄",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200856587476930560016793.jpeg/2LjLws6iZTGSJ8CBfxm_IilquPsYYeo3N8N3TTfDd00",
-    "url": "https://www.hk01.com/01TV/60413466/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%A6%96%E6%8B%8D%E9%9B%BB%E8%A6%96%E5%8A%87%E9%9C%87%E6%92%BC-%E5%BE%9E%E5%85%AC%E4%B8%BB%E8%88%AC%E6%A8%A1%E7%89%B9%E5%BE%85%E9%81%87%E8%90%BD%E5%85%A5%E9%9B%9C%E5%8B%99%E5%9C%B0%E7%8D%84",
-    "timestamp": "2026-11-22T18:21:24.155Z",
     "strategy": ".content-card__main"
   }
 ];
