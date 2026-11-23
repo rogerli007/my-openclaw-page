@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T19:45:59.921Z
+// Last updated: 2026-11-23T20:19:40.817Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀經歷《名媛望族》網暴：當年被罵重口味 13年後鹹魚翻身",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200865798550196224753048.jpeg/ZSfHYuLegiiuvdCjo_LeI8IZqDqOCpQxwHHAq8BxwKs",
+    "url": "https://www.hk01.com/01TV/60413481/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%B6%93%E6%AD%B7-%E5%90%8D%E5%AA%9B%E6%9C%9B%E6%97%8F-%E7%B6%B2%E6%9A%B4-%E7%95%B6%E5%B9%B4%E8%A2%AB%E7%BD%B5%E9%87%8D%E5%8F%A3%E5%91%B3-13%E5%B9%B4%E5%BE%8C%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB",
+    "timestamp": "2026-11-23T20:19:40.817Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普：促成黃仁勳復職防中國延攬　未問習近平「黃樂是否間諜」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201652437379715072932684.jpeg/Lolp35bIHndCe3u5FrdwdfdvhUDeWLgBg_BSMIPwUjA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414149/%E8%B7%A8%E9%83%A8%E9%96%80%E6%9D%B1%E4%B9%9D%E9%BE%8D%E5%8F%8D%E9%BB%91%E5%B7%A5-%E6%90%9C%E5%A4%9A%E5%80%8B%E7%BD%AA%E6%A1%88%E9%BB%91%E9%BB%9E%E6%8B%9811%E4%BA%BA",
     "timestamp": "2026-11-23T13:59:15.390Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林子祥葉蒨文2027年載譽重臨紅館　 本周末維港戶外派對率先預熱",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201561813758513152369408.jpeg/MOQnSDbPlmZFRGM-1vwx3Pdttbaa_PsSnRYwQp0WMEI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60413998/%E6%9E%97%E5%AD%90%E7%A5%A5%E8%91%89%E8%92%A8%E6%96%872027%E5%B9%B4%E8%BC%89%E8%AD%BD%E9%87%8D%E8%87%A8%E7%B4%85%E9%A4%A8-%E6%9C%AC%E5%91%A8%E6%9C%AB%E7%B6%AD%E6%B8%AF%E6%88%B6%E5%A4%96%E6%B4%BE%E5%B0%8D%E7%8E%87%E5%85%88%E9%A0%90%E7%86%B1",
-    "timestamp": "2026-11-23T13:32:41.577Z",
     "strategy": ".content-card__main"
   }
 ];
