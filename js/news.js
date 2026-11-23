@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T18:22:08.055Z
+// Last updated: 2026-11-23T18:33:25.913Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會教揀羽絨6大要訣 必學看標籤羽毛成份比例 買前要細心觸摸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201718547022090240415078.jpeg/XfRd863uvjDQa8xrws-hQO3fDX2o8QQoFcr9_BXK_fw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414186/%E6%B6%88%E5%A7%94%E6%9C%83%E6%95%99%E6%8F%80%E7%BE%BD%E7%B5%A86%E5%A4%A7%E8%A6%81%E8%A8%A3-%E5%BF%85%E5%AD%B8%E7%9C%8B%E6%A8%99%E7%B1%A4%E7%BE%BD%E6%AF%9B%E6%88%90%E4%BB%BD%E6%AF%94%E4%BE%8B-%E8%B2%B7%E5%89%8D%E8%A6%81%E7%B4%B0%E5%BF%83%E8%A7%B8%E6%91%B8",
+    "timestamp": "2026-11-23T18:33:25.913Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀銘記劉松仁座右銘：演員要無所不用其極誘引對手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260825/1168947734770618368169402.jpeg/07K-RoYLCZQpRg0ljcdUgOL7pm3wT-O5bw6Tx28Ok8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9F%A5%E6%80%A7%E5%A5%B3%E7%94%9F/60383443/4%E5%A4%A7%E7%94%9F%E8%82%96%E5%A4%A9%E7%94%9F%E5%85%B7%E5%82%99%E4%B8%8D%E8%80%81%E5%BF%83%E6%85%8B-%E5%8B%87%E6%95%A2%E8%BF%BD%E5%A4%A2%E6%B4%BB%E5%BE%97%E7%B2%BE%E5%BD%A9-%E5%BE%9E%E4%BE%86%E4%B8%8D%E8%A2%AB%E5%B9%B4%E9%BD%A1%E9%99%90%E5%88%B6",
     "timestamp": "2026-11-23T11:45:44.842Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "舒淇奪金馬獎自嘲50歲「差點要演外婆」　透露下一部作品創作方向",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201566927516864512791630.png/6w-Zv4D7v8mTroRscovoWZ-tIK4k20cy9_DLh_fwy4c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414002/%E8%88%92%E6%B7%87%E5%A5%AA%E9%87%91%E9%A6%AC%E7%8D%8E%E8%87%AA%E5%98%B250%E6%AD%B2-%E5%B7%AE%E9%BB%9E%E8%A6%81%E6%BC%94%E5%A4%96%E5%A9%86-%E9%80%8F%E9%9C%B2%E4%B8%8B%E4%B8%80%E9%83%A8%E4%BD%9C%E5%93%81%E5%89%B5%E4%BD%9C%E6%96%B9%E5%90%91",
-    "timestamp": "2026-11-23T11:19:18.343Z",
     "strategy": ".content-card__main"
   }
 ];
