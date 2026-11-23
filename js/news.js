@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T16:20:28.525Z
+// Last updated: 2026-11-23T16:46:08.995Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "GTA 6攻略｜繁中互動地圖　95個藏卡位置、85個特色載具地點一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201654755336654848186749.png/ecJb8vTcybmSDUIabxSXKYb-Pa6MYQS82WLsntli7J4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60414147/gta-6%E6%94%BB%E7%95%A5-%E7%B9%81%E4%B8%AD%E4%BA%92%E5%8B%95%E5%9C%B0%E5%9C%96-95%E5%80%8B%E8%97%8F%E5%8D%A1%E4%BD%8D%E7%BD%AE-85%E5%80%8B%E7%89%B9%E8%89%B2%E8%BC%89%E5%85%B7%E5%9C%B0%E9%BB%9E%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-11-23T16:46:08.995Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳Speedrun打爆GTA 6回歸NVIDIA？強勢復職CEO誓保AI晶片霸業",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260126/1092491013101981696413579.jpeg/duofH0bkMyZ8ddjvNiTZQHx1SbZiga0xDaB_pg2gf6Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414053/%E9%87%91%E5%83%B9%E6%9A%B4%E8%B7%8C%E5%85%A7%E5%9C%B0%E6%8E%80%E6%90%B6%E9%87%91%E6%BD%AE-%E6%B0%91%E7%9C%BE%E5%90%84%E5%87%BA%E5%A5%87%E6%8B%9B-%E9%9B%BB%E6%A2%AF%E9%80%BC%E7%88%86%E4%B8%8D%E6%83%9C%E7%88%AC%E5%8D%81%E5%B9%BE%E5%B1%A4%E6%A8%93%E6%A2%AF",
     "timestamp": "2026-11-23T08:59:10.432Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "袁澧林首奪金馬影后｜感激家人支持並赴台見證 曾一招將家庭破冰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201575310059900928891627.jpeg/cHQizk3pHKCCyE0DTZ78GaazbsLp0CCrVxr6n1ca-p8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60413907/%E8%A2%81%E6%BE%A7%E6%9E%97%E9%A6%96%E5%A5%AA%E9%87%91%E9%A6%AC%E5%BD%B1%E5%90%8E-%E6%84%9F%E6%BF%80%E5%AE%B6%E4%BA%BA%E6%94%AF%E6%8C%81%E4%B8%A6%E8%B5%B4%E5%8F%B0%E8%A6%8B%E8%AD%89-%E6%9B%BE%E4%B8%80%E6%8B%9B%E5%B0%87%E5%AE%B6%E5%BA%AD%E7%A0%B4%E5%86%B0",
-    "timestamp": "2026-11-23T08:42:10.218Z",
     "strategy": ".content-card__main"
   }
 ];
