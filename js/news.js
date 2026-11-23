@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T10:45:58.915Z
+// Last updated: 2026-11-23T11:19:18.343Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "舒淇奪金馬獎自嘲50歲「差點要演外婆」　透露下一部作品創作方向",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201566927516864512791630.png/6w-Zv4D7v8mTroRscovoWZ-tIK4k20cy9_DLh_fwy4c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414002/%E8%88%92%E6%B7%87%E5%A5%AA%E9%87%91%E9%A6%AC%E7%8D%8E%E8%87%AA%E5%98%B250%E6%AD%B2-%E5%B7%AE%E9%BB%9E%E8%A6%81%E6%BC%94%E5%A4%96%E5%A9%86-%E9%80%8F%E9%9C%B2%E4%B8%8B%E4%B8%80%E9%83%A8%E4%BD%9C%E5%93%81%E5%89%B5%E4%BD%9C%E6%96%B9%E5%90%91",
+    "timestamp": "2026-11-23T11:19:18.343Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "長者血壓｜冬天陽光少易高血壓！降血壓5食物 早餐2奇異果7周見效",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260824/1168565617800777728062391.png/8E3kePal3mLxaR2NRSJvzC7efkOmYGCPTtRY7k7UWO4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413850/%E6%94%BF%E5%BA%9C%E6%93%AC%E4%BF%AE%E8%A8%82%E5%BB%BA%E7%AF%89%E7%89%A9%E6%A2%9D%E4%BE%8B-%E7%99%BC%E5%B1%95%E5%B1%80-%E5%A4%A7%E5%9E%8B%E7%B6%AD%E4%BF%AE%E5%AF%A9%E6%89%B9%E6%99%82%E9%96%93%E9%A0%90%E8%A8%88%E8%BC%83%E4%BB%A5%E5%BE%80%E9%95%B7",
     "timestamp": "2026-11-23T03:59:25.330Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "｢300元你給我X一下｣女遊客遭上海司機性騷　翻譯後始知危險｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201486606515572736803174.png/ZStGiN4HYrom1aXxad90CncAav1kUF-C3t76xN7e-sQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60413853/300%E5%85%83%E4%BD%A0%E7%B5%A6%E6%88%91x%E4%B8%80%E4%B8%8B-%E5%A5%B3%E9%81%8A%E5%AE%A2%E9%81%AD%E4%B8%8A%E6%B5%B7%E5%8F%B8%E6%A9%9F%E6%80%A7%E9%A8%B7-%E7%BF%BB%E8%AD%AF%E5%BE%8C%E5%A7%8B%E7%9F%A5%E5%8D%B1%E9%9A%AA-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-23T03:38:43.767Z",
     "strategy": ".content-card__main"
   }
 ];
