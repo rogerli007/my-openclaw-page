@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T02:47:29.712Z
+// Last updated: 2026-11-23T02:59:15.811Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Puma優惠｜滿$1500減$200！ROSÉ同款Speedcat Ballet　1招免運費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200416673547423744520438.jpeg/Lbcsq12jq_vJbSDVnA7DPdD56nEJ89B0lu4flpbuH5Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60412772/puma%E5%84%AA%E6%83%A0-%E6%BB%BF-1500%E6%B8%9B-200-ros%C3%A9%E5%90%8C%E6%AC%BEspeedcat-ballet-1%E6%8B%9B%E5%85%8D%E9%81%8B%E8%B2%BB",
+    "timestamp": "2026-11-23T02:59:15.811Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "八馬茶業回應被解放軍暫停採購資格：不涉產品質量、食品安全",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200859309638946816045196.jpeg/ImLknqD5IwNHhGGiEGcICTYH8xCgNkVhiVldkYlZXZE",
     "url": "https://www.hk01.com/01TV/60413472/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%B8%8F%E5%85%A5tvb%E5%A5%91%E6%A9%9F-%E5%90%B3%E5%90%9B%E5%A6%82%E7%89%BD%E7%B7%9A%E9%A3%AF%E5%B1%80%E4%BF%83%E6%88%90%E8%BD%89%E5%8F%B0",
     "timestamp": "2026-11-22T20:14:02.571Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "選委會選舉｜立法會發言人：彰顯完善選舉制度後新選制優越性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201277863362695168310429.jpeg/V95JqZ2lfAE4GLd7Atot669mCgDdNT2-6de0gczXtIE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413791/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E7%AB%8B%E6%B3%95%E6%9C%83%E7%99%BC%E8%A8%80%E4%BA%BA-%E5%BD%B0%E9%A1%AF%E5%AE%8C%E5%96%84%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6%E5%BE%8C%E6%96%B0%E9%81%B8%E5%88%B6%E5%84%AA%E8%B6%8A%E6%80%A7",
-    "timestamp": "2026-11-22T19:59:02.455Z",
     "strategy": ".content-card__main"
   }
 ];
