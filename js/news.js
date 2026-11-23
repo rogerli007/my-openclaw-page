@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T12:26:05.869Z
+// Last updated: 2026-11-23T12:49:10.965Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "西九文化區與國泰續三年策略夥伴協議 　合推套票吸客延長留港",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201571843102740480429751.jpeg/-KLb8t-khEtccNBI_8wYdmA2Zd0NrDMprVPF561Txec?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414033/%E8%A5%BF%E4%B9%9D%E6%96%87%E5%8C%96%E5%8D%80%E8%88%87%E5%9C%8B%E6%B3%B0%E7%BA%8C%E4%B8%89%E5%B9%B4%E7%AD%96%E7%95%A5%E5%A4%A5%E4%BC%B4%E5%8D%94%E8%AD%B0-%E5%90%88%E6%8E%A8%E5%A5%97%E7%A5%A8%E5%90%B8%E5%AE%A2%E5%BB%B6%E9%95%B7%E7%95%99%E6%B8%AF",
+    "timestamp": "2026-11-23T12:49:10.965Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李城璧中學推強制晚間自習　學生批不合理　校方稱應學生反映推行",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201517766650105856924650.jpeg/3saSfz07wLQqm7JTNuKFib80p5r1PqBlTuKbamvim2o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413891/%E5%9C%8B%E7%94%A2%E9%83%B5%E8%BC%AA%E6%84%9B%E9%81%94-%E8%8A%B1%E5%9F%8E%E8%99%9F%E4%BB%8A%E6%8A%B5%E6%B8%AF-%E7%BE%85%E6%B7%91%E4%BD%A9-%E4%B8%8A%E8%88%B9%E5%8D%B3%E6%84%9F%E5%8F%97%E5%88%B0%E5%9C%8B%E5%AE%B6%E9%83%B5%E8%BC%AA%E5%AF%A6%E5%8A%9B",
     "timestamp": "2026-11-23T05:22:09.124Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "【今日當年】李嘉欣與許晉亨豪宅大婚　八卡巨鑽一億打造奢華婚宴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201498262083735552651978.jpeg/ovaNaZsTHTXcjT5_4F-2lX8anPDRdtJuFMu_aRTLv2k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413730/%E4%BB%8A%E6%97%A5%E7%95%B6%E5%B9%B4-%E6%9D%8E%E5%98%89%E6%AC%A3%E8%88%87%E8%A8%B1%E6%99%89%E4%BA%A8%E8%B1%AA%E5%AE%85%E5%A4%A7%E5%A9%9A-%E5%85%AB%E5%8D%A1%E5%B7%A8%E9%91%BD%E4%B8%80%E5%84%84%E6%89%93%E9%80%A0%E5%A5%A2%E8%8F%AF%E5%A9%9A%E5%AE%B4",
-    "timestamp": "2026-11-23T04:49:07.470Z",
     "strategy": ".content-card__main"
   }
 ];
