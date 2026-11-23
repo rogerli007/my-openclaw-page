@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T09:59:23.913Z
+// Last updated: 2026-11-23T10:21:09.341Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "廣州男戀上前妻情夫的前妻！兩老恐遭分身家訂協議400萬樓傳孫女",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201571665385885696543706.jpeg/t_xn-O-_TOJ7QH9WAv5O9qTpf1l_9NNrMxx1jjMcdY4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414013/%E5%BB%A3%E5%B7%9E%E7%94%B7%E6%88%80%E4%B8%8A%E5%89%8D%E5%A6%BB%E6%83%85%E5%A4%AB%E7%9A%84%E5%89%8D%E5%A6%BB-%E5%85%A9%E8%80%81%E6%81%90%E9%81%AD%E5%88%86%E8%BA%AB%E5%AE%B6%E8%A8%82%E5%8D%94%E8%AD%B0400%E8%90%AC%E6%A8%93%E5%82%B3%E5%AD%AB%E5%A5%B3",
+    "timestamp": "2026-11-23T10:21:09.341Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "葬送的芙莉蓮特香港展旺角直擊｜欣梅爾像／鏡蓮華／寶箱怪實體化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260408/1118660502629912576216375.jpeg/xHbmiozDcWka-Ntr6DJNzaqfC3n9qmL4VPKKmU7yipk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413862/%E9%99%B3%E5%81%A5%E6%B3%A212-1%E8%B5%B7%E6%8E%A5%E4%BB%BB%E9%86%AB%E7%AE%A1%E5%B1%80%E4%B8%BB%E5%B8%AD-%E4%BB%BB%E6%9C%9F%E5%85%A9%E5%B9%B4-%E8%8C%83%E9%B4%BB%E9%BD%A1%E5%9C%A8%E4%BB%BB%E4%B8%83%E5%B9%B4%E6%AD%A3%E5%BC%8F%E5%8D%B8%E4%BB%BB",
     "timestamp": "2026-11-23T03:23:54.525Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Puma優惠｜滿$1500減$200！ROSÉ同款Speedcat Ballet　1招免運費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200416673547423744520438.jpeg/Lbcsq12jq_vJbSDVnA7DPdD56nEJ89B0lu4flpbuH5Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/60412772/puma%E5%84%AA%E6%83%A0-%E6%BB%BF-1500%E6%B8%9B-200-ros%C3%A9%E5%90%8C%E6%AC%BEspeedcat-ballet-1%E6%8B%9B%E5%85%8D%E9%81%8B%E8%B2%BB",
-    "timestamp": "2026-11-23T02:59:15.811Z",
     "strategy": ".content-card__main"
   }
 ];
