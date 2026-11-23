@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T02:26:00.615Z
+// Last updated: 2026-11-23T02:47:29.712Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "八馬茶業回應被解放軍暫停採購資格：不涉產品質量、食品安全",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201486604422615040105639.png/dW2Px6RwYbXx6TZjaFonE5zyzZLVa87Le1foE3tX6BM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60413849/%E5%85%AB%E9%A6%AC%E8%8C%B6%E6%A5%AD%E5%9B%9E%E6%87%89%E8%A2%AB%E8%A7%A3%E6%94%BE%E8%BB%8D%E6%9A%AB%E5%81%9C%E6%8E%A1%E8%B3%BC%E8%B3%87%E6%A0%BC-%E4%B8%8D%E6%B6%89%E7%94%A2%E5%93%81%E8%B3%AA%E9%87%8F-%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8",
+    "timestamp": "2026-11-23T02:47:29.712Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港SPA推介11大優惠｜買1送1歎無邊際泳池海景　指定快閃$11起",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201277863362695168310429.jpeg/V95JqZ2lfAE4GLd7Atot669mCgDdNT2-6de0gczXtIE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413791/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E7%AB%8B%E6%B3%95%E6%9C%83%E7%99%BC%E8%A8%80%E4%BA%BA-%E5%BD%B0%E9%A1%AF%E5%AE%8C%E5%96%84%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6%E5%BE%8C%E6%96%B0%E9%81%B8%E5%88%B6%E5%84%AA%E8%B6%8A%E6%80%A7",
     "timestamp": "2026-11-22T19:59:02.455Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄船停靠利比亞港口爆炸10人傷　疑無人機攻擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201373429354205184892530.jpeg/AbNuVrAT63kkotajx5eonEnWRpyhbHAL8fPHgfHzx4E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413789/%E4%BF%84%E8%88%B9%E5%81%9C%E9%9D%A0%E5%88%A9%E6%AF%94%E4%BA%9E%E6%B8%AF%E5%8F%A3%E7%88%86%E7%82%B810%E4%BA%BA%E5%82%B7-%E7%96%91%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%94%BB%E6%93%8A",
-    "timestamp": "2026-11-22T19:43:51.950Z",
     "strategy": ".content-card__main"
   }
 ];
