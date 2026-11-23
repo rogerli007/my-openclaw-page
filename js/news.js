@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T07:22:53.157Z
+// Last updated: 2026-11-23T07:45:34.193Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大埔唐狗被吊樹慘死｜愛協：狗隻無植入晶片　兩後腿有傷痕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230112/690234110639083520492370.jpeg/dpjhmGDkpe7_3LeU1ydVO6_spQMcHO6W0xbehtMW3oY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413984/%E5%A4%A7%E5%9F%94%E5%94%90%E7%8B%97%E8%A2%AB%E5%90%8A%E6%A8%B9%E6%85%98%E6%AD%BB-%E6%84%9B%E5%8D%94-%E7%8B%97%E9%9A%BB%E7%84%A1%E6%A4%8D%E5%85%A5%E6%99%B6%E7%89%87-%E5%85%A9%E5%BE%8C%E8%85%BF%E6%9C%89%E5%82%B7%E7%97%95",
+    "timestamp": "2026-11-23T07:45:34.193Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "袁澧林金馬首奪影后！甩花瓶標籤　盤點5位撐起港片90後實力女星",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201346832748253184513962.jpeg/jN5B_GdpWOLa2LpzopfYlDWnMo8jETdTj8Q-no_EPp4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60413786/%E7%8E%AB%E7%91%B0%E6%88%B0%E7%88%AD-%E9%B9%BD%E8%8A%B1%E8%A1%80%E8%85%A5%E6%8E%A5%E9%80%A3%E7%99%BB%E5%A0%B4-%E5%A7%9A%E5%AD%90%E7%BE%9A%E8%A2%AB%E5%BD%B1%E8%A3%B8%E7%85%A7%E9%99%B3%E8%B1%AA%E8%A2%AB%E5%89%B2%E5%96%89%E6%9C%80%E9%87%8D%E5%8F%A3%E5%91%B3",
     "timestamp": "2026-11-23T00:39:38.301Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "COP31｜聯合國氣候峰會閉幕　談判破裂未能達成協議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201420426345975808687901.jpeg/Hc3mzfwAiF_OCXLFInA1xQ6AJZ9HZsRjEAI5wRACOcE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60413795/cop31-%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%B3%B0%E6%9C%83%E9%96%89%E5%B9%95-%E8%AB%87%E5%88%A4%E7%A0%B4%E8%A3%82%E6%9C%AA%E8%83%BD%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0",
-    "timestamp": "2026-11-22T23:59:09.757Z",
     "strategy": ".content-card__main"
   }
 ];
