@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T15:45:42.158Z
+// Last updated: 2026-11-23T15:59:13.831Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "NVIDIA黃仁勳迅速回歸內幕？　美媒：特朗普親自致電英偉達董事會",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261009/1185085209931157504291573.jpeg/OrFy1YUQ_e-2AgXnXrXRDuvY-T0coAy3LTPkTi0z5E4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414170/nvidia%E9%BB%83%E4%BB%81%E5%8B%B3%E8%BF%85%E9%80%9F%E5%9B%9E%E6%AD%B8%E5%85%A7%E5%B9%95-%E7%BE%8E%E5%AA%92-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%AA%E8%87%AA%E8%87%B4%E9%9B%BB%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83",
+    "timestamp": "2026-11-23T15:59:13.831Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《順風婦產科》權五重愛兒曾判活不過15歲　瞞妻10年日日偷探鼻息",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201542819395670016857094.png/i1mq5tBGzXyuyiWoBoHHNNy5LgwBEoAf5rmeg-a5noM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413959/%E9%87%91%E9%A6%AC%E7%8D%8E-ak%E6%B1%9F%F0%A4%92%B9%E7%94%9F%E7%A8%B1%E5%B8%82%E9%81%93%E4%B8%8D%E6%99%AF%E6%B0%A3-%E5%A5%AA%E7%94%B7%E9%85%8D%E4%B8%8D%E6%80%A5%E5%8A%A0%E7%89%87%E9%85%AC-%E5%85%88%E7%9C%8B%E5%90%88%E4%BD%9C%E6%A9%9F%E6%9C%83",
     "timestamp": "2026-11-23T08:26:02.067Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "國際刑警全體大會下周會展舉行　灣仔北一帶封路　全港禁飛無人機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201550117396549632180942.jpeg/pWch9W-R6RnujmFHnWvobdy-ymyexMlxNLuHWjS7h1o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413968/%E5%9C%8B%E9%9A%9B%E5%88%91%E8%AD%A6%E5%85%A8%E9%AB%94%E5%A4%A7%E6%9C%83%E4%B8%8B%E5%91%A8%E6%9C%83%E5%B1%95%E8%88%89%E8%A1%8C-%E7%81%A3%E4%BB%94%E5%8C%97%E4%B8%80%E5%B8%B6%E5%B0%81%E8%B7%AF-%E5%85%A8%E6%B8%AF%E7%A6%81%E9%A3%9B%E7%84%A1%E4%BA%BA%E6%A9%9F",
-    "timestamp": "2026-11-23T07:59:12.470Z",
     "strategy": ".content-card__main"
   }
 ];
