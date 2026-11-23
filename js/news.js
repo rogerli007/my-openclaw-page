@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T17:45:06.434Z
+// Last updated: 2026-11-23T17:58:58.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳復職｜美兩黨議員批評英偉達決定　促立法收緊晶片對華出口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201709410729070592085613.jpeg/oi8Is_KvCDSrpBEEtjtPf9rzs8nTXdvPaONxU2jjcVM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414185/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E7%BE%8E%E5%85%A9%E9%BB%A8%E8%AD%B0%E5%93%A1%E6%89%B9%E8%A9%95%E8%8B%B1%E5%81%89%E9%81%94%E6%B1%BA%E5%AE%9A-%E4%BF%83%E7%AB%8B%E6%B3%95%E6%94%B6%E7%B7%8A%E6%99%B6%E7%89%87%E5%B0%8D%E8%8F%AF%E5%87%BA%E5%8F%A3",
+    "timestamp": "2026-11-23T17:58:58.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "BBC以「另一面」為題報道深圳　環球時報批：應向被冒犯市民道歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201606593938984960489527.png/J9wekknDc20Irt6zysi1f0-cCMMg1H3q9HH2k_Rx9pM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60414089/%E9%95%B7%E8%80%85%E8%A1%80%E5%A3%93-%E5%86%AC%E5%A4%A9%E9%99%BD%E5%85%89%E5%B0%91%E6%98%93%E9%AB%98%E8%A1%80%E5%A3%93-%E9%99%8D%E8%A1%80%E5%A3%935%E9%A3%9F%E7%89%A9-%E6%97%A9%E9%A4%902%E5%A5%87%E7%95%B0%E6%9E%9C7%E5%91%A8%E8%A6%8B%E6%95%88",
     "timestamp": "2026-11-23T10:45:58.915Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "廣州男戀上前妻情夫的前妻！兩老恐遭分身家訂協議400萬樓傳孫女",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201571665385885696543706.jpeg/t_xn-O-_TOJ7QH9WAv5O9qTpf1l_9NNrMxx1jjMcdY4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414013/%E5%BB%A3%E5%B7%9E%E7%94%B7%E6%88%80%E4%B8%8A%E5%89%8D%E5%A6%BB%E6%83%85%E5%A4%AB%E7%9A%84%E5%89%8D%E5%A6%BB-%E5%85%A9%E8%80%81%E6%81%90%E9%81%AD%E5%88%86%E8%BA%AB%E5%AE%B6%E8%A8%82%E5%8D%94%E8%AD%B0400%E8%90%AC%E6%A8%93%E5%82%B3%E5%AD%AB%E5%A5%B3",
-    "timestamp": "2026-11-23T10:21:09.341Z",
     "strategy": ".content-card__main"
   }
 ];
