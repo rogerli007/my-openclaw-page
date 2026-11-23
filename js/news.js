@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T22:58:57.419Z
+// Last updated: 2026-11-23T23:19:56.116Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "家居機械人當遛狗員是賊喊報警！主人通話要解答考題防AI電話詐騙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201588216537288704532478.png/o9-7Mjp6x6HXli64te_s40alFqV3pMAnEymHqBMph6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60396192/%E5%AE%B6%E5%B1%85%E6%A9%9F%E6%A2%B0%E4%BA%BA%E7%95%B6%E9%81%9B%E7%8B%97%E5%93%A1%E6%98%AF%E8%B3%8A%E5%96%8A%E5%A0%B1%E8%AD%A6-%E4%B8%BB%E4%BA%BA%E9%80%9A%E8%A9%B1%E8%A6%81%E8%A7%A3%E7%AD%94%E8%80%83%E9%A1%8C%E9%98%B2ai%E9%9B%BB%E8%A9%B1%E8%A9%90%E9%A8%99",
+    "timestamp": "2026-11-23T23:19:56.116Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺公路3車串燒相撞釀2傷　往上水方向部份行車線封閉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201694514461282304518604.jpeg/hfv4i6QIYRxb3jnvXblN4oic4UwHRBKL_zfsR_837Ec?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414177/%E5%93%88%E6%9E%97%E7%B1%83%E7%90%83%E9%9A%8A%E6%88%90%E8%BB%8D%E7%99%BE%E5%B9%B4%E5%A3%93%E8%BB%B8%E8%A5%B2%E6%B8%AF-%E8%91%9B%E6%B0%91%E8%BC%9D%E9%80%81%E6%BD%AE%E7%89%9B%E9%99%B3%E6%B9%9B%E6%96%87%E5%9B%A1%E5%9B%A1%E8%A1%9D%E5%85%A5%E5%A0%B4",
     "timestamp": "2026-11-23T16:59:34.193Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "GTA 6攻略｜繁中互動地圖　95個藏卡位置、85個特色載具地點一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201654755336654848186749.png/ecJb8vTcybmSDUIabxSXKYb-Pa6MYQS82WLsntli7J4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60414147/gta-6%E6%94%BB%E7%95%A5-%E7%B9%81%E4%B8%AD%E4%BA%92%E5%8B%95%E5%9C%B0%E5%9C%96-95%E5%80%8B%E8%97%8F%E5%8D%A1%E4%BD%8D%E7%BD%AE-85%E5%80%8B%E7%89%B9%E8%89%B2%E8%BC%89%E5%85%B7%E5%9C%B0%E9%BB%9E%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-11-23T16:46:08.995Z",
     "strategy": ".content-card__main"
   }
 ];
