@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T15:59:13.831Z
+// Last updated: 2026-11-23T16:20:28.525Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳Speedrun打爆GTA 6回歸NVIDIA？強勢復職CEO誓保AI晶片霸業",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201684936021512192185920.jpeg/dTHHznv-RgJL51hPYHx51qLXh_LSsa6NIjYafiI2Gn4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414172/%E9%BB%83%E4%BB%81%E5%8B%B3speedrun%E6%89%93%E7%88%86gta-6%E5%9B%9E%E6%AD%B8nvidia-%E5%BC%B7%E5%8B%A2%E5%BE%A9%E8%81%B7ceo%E8%AA%93%E4%BF%9Dai%E6%99%B6%E7%89%87%E9%9C%B8%E6%A5%AD",
+    "timestamp": "2026-11-23T16:20:28.525Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "NVIDIA黃仁勳迅速回歸內幕？　美媒：特朗普親自致電英偉達董事會",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201575310059900928891627.jpeg/cHQizk3pHKCCyE0DTZ78GaazbsLp0CCrVxr6n1ca-p8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60413907/%E8%A2%81%E6%BE%A7%E6%9E%97%E9%A6%96%E5%A5%AA%E9%87%91%E9%A6%AC%E5%BD%B1%E5%90%8E-%E6%84%9F%E6%BF%80%E5%AE%B6%E4%BA%BA%E6%94%AF%E6%8C%81%E4%B8%A6%E8%B5%B4%E5%8F%B0%E8%A6%8B%E8%AD%89-%E6%9B%BE%E4%B8%80%E6%8B%9B%E5%B0%87%E5%AE%B6%E5%BA%AD%E7%A0%B4%E5%86%B0",
     "timestamp": "2026-11-23T08:42:10.218Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金馬獎｜AK江𤒹生稱市道不景氣　奪男配不急加片酬：先看合作機會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201542819395670016857094.png/i1mq5tBGzXyuyiWoBoHHNNy5LgwBEoAf5rmeg-a5noM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413959/%E9%87%91%E9%A6%AC%E7%8D%8E-ak%E6%B1%9F%F0%A4%92%B9%E7%94%9F%E7%A8%B1%E5%B8%82%E9%81%93%E4%B8%8D%E6%99%AF%E6%B0%A3-%E5%A5%AA%E7%94%B7%E9%85%8D%E4%B8%8D%E6%80%A5%E5%8A%A0%E7%89%87%E9%85%AC-%E5%85%88%E7%9C%8B%E5%90%88%E4%BD%9C%E6%A9%9F%E6%9C%83",
-    "timestamp": "2026-11-23T08:26:02.067Z",
     "strategy": ".content-card__main"
   }
 ];
