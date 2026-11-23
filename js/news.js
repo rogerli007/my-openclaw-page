@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T20:59:02.503Z
+// Last updated: 2026-11-23T21:29:50.869Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳復職｜即日重返公司獲員工歡迎　稱第二次任CEO會做得更好",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201751960647110656730124.png/I5Y1LMBGV3Uw-gWuQpYsf5kkmX9BUiZdMyOf7TMjn-0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414192/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E5%8D%B3%E6%97%A5%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E7%8D%B2%E5%93%A1%E5%B7%A5%E6%AD%A1%E8%BF%8E-%E7%A8%B1%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BB%BBceo%E6%9C%83%E5%81%9A%E5%BE%97%E6%9B%B4%E5%A5%BD",
+    "timestamp": "2026-11-23T21:29:50.869Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳復職｜即日重返公司獲員工歡迎　稱第二次任CEO會做得更好",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200027228566458368078645.jpeg/H_BOTbuKtv4FdMTqXfD7rhncXZToj2UIx0BujsdAbo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60414161/nvidia-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%81%A2%E5%BE%A9ceo%E8%81%B7%E5%8B%99-%E8%B3%87%E6%9C%AC%E5%92%8C%E6%94%BF%E6%B2%BB%E7%9A%84%E9%9B%99%E9%87%8D%E5%A4%BE%E6%93%8A%E7%B5%90%E6%9E%9C",
     "timestamp": "2026-11-23T14:59:19.216Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "李嘉欣與許晉亨慶祝結婚18周年　曬深情對視照大騷凍齡美貌",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201600052330500096951207.jpeg/0ryPGK8YFs_j8f6hcr8-Ox1LQTB35zwXpqe8iKanvIg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414095/%E6%9D%8E%E5%98%89%E6%AC%A3%E8%88%87%E8%A8%B1%E6%99%89%E4%BA%A8%E6%85%B6%E7%A5%9D%E7%B5%90%E5%A9%9A18%E5%91%A8%E5%B9%B4-%E6%9B%AC%E6%B7%B1%E6%83%85%E5%B0%8D%E8%A6%96%E7%85%A7%E5%A4%A7%E9%A8%B7%E5%87%8D%E9%BD%A1%E7%BE%8E%E8%B2%8C",
-    "timestamp": "2026-11-23T14:45:40.196Z",
     "strategy": ".content-card__main"
   }
 ];
