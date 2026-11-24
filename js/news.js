@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T08:18:19.253Z
+// Last updated: 2026-11-24T08:47:05.577Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秘書公司前總監涉收賄逾3.4萬元轉介兩客戶　今認罪還押下月判刑",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260908/1174093567870636032029185.jpeg/lsHuqKkSgatNybtY9Drg3KzV8XS91Nw67040Re9ONEU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414430/%E7%A7%98%E6%9B%B8%E5%85%AC%E5%8F%B8%E5%89%8D%E7%B8%BD%E7%9B%A3%E6%B6%89%E6%94%B6%E8%B3%84%E9%80%BE3-4%E8%90%AC%E5%85%83%E8%BD%89%E4%BB%8B%E5%85%A9%E5%AE%A2%E6%88%B6-%E4%BB%8A%E8%AA%8D%E7%BD%AA%E9%82%84%E6%8A%BC%E4%B8%8B%E6%9C%88%E5%88%A4%E5%88%91",
+    "timestamp": "2026-11-24T08:47:05.577Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳復職｜黃仁勳12月3日出席國會聽證　民主黨人揚言擴大調查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199752339364253696079581.jpeg/UhCI-riIme8ondIV1G6EqBsdCvjkFfCMAzTXsQM017E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60391093/%E5%85%A7%E8%A4%B2%E8%A5%AA%E5%AD%90%E5%8F%AF%E4%BB%A5%E4%B8%80%E8%B5%B7%E6%B7%B7%E6%B4%97-%E7%9A%AE%E8%86%9A%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%9C%9F%E7%9B%B8-%E6%BB%BF%E8%B6%B33%E6%A2%9D%E4%BB%B6%E8%A1%A3%E7%89%A9%E6%9B%B4%E4%B9%BE%E6%B7%A8",
     "timestamp": "2026-11-24T02:18:52.691Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張家輝開《大娛樂騷》演唱會2027｜門票公售攻略+座位表+連結",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195005759952261120941083.jpeg/0667-WZKpXKvNRqtMgxK2CXDJmrlulxBa5LurWuS7q0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60407457/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%96%8B-%E5%A4%A7%E5%A8%9B%E6%A8%82%E9%A8%B7-%E6%BC%94%E5%94%B1%E6%9C%832027-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E9%80%A3%E7%B5%90",
-    "timestamp": "2026-11-24T01:59:08.816Z",
     "strategy": ".content-card__main"
   }
 ];
