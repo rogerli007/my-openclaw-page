@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T22:19:30.803Z
+// Last updated: 2026-11-24T22:45:27.325Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "莊思敏豪送LV手鏈BIGBANG周邊氹細妹　曾被斥消費亡母傳姊妹決裂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201980973663653888043967.jpeg/FpmadR01uWgMzAQEQ_UO8t0p4W9wuCjkyfgA1Mn4ANQ",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414433/%E8%8E%8A%E6%80%9D%E6%95%8F%E8%B1%AA%E9%80%81lv%E6%89%8B%E9%8F%88bigbang%E5%91%A8%E9%82%8A%E6%B0%B9%E7%B4%B0%E5%A6%B9-%E6%9B%BE%E8%A2%AB%E6%96%A5%E6%B6%88%E8%B2%BB%E4%BA%A1%E6%AF%8D%E5%82%B3%E5%A7%8A%E5%A6%B9%E6%B1%BA%E8%A3%82",
+    "timestamp": "2026-11-24T22:45:27.325Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "北角男子受傷倒地　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240420/858405902040961024216057.jpeg/yFZ6md-bQ-HqhtArZBSjXbLsDkwDBGicoHNIH6BzSB8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414618/%E7%A6%BD%E6%B5%81%E6%84%9F-%E7%BE%8E%E8%8F%AF%E7%9B%9B%E9%A0%93%E5%B7%9E3%E5%90%8D%E4%B9%B3%E7%89%9B%E5%A0%B4%E5%B7%A5%E4%BA%BA%E7%A2%BA%E8%A8%BA-%E4%B8%80%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "timestamp": "2026-11-24T16:33:32.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會5大使用電熱氈安全指南 長時間接觸或有機會造成燙傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202038460081246208384972.jpeg/9s-TSP9tsbsx80qyXk6k4aLsPgR8-sroV2sOYVdrDmE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414612/%E6%B6%88%E5%A7%94%E6%9C%835%E5%A4%A7%E4%BD%BF%E7%94%A8%E9%9B%BB%E7%86%B1%E6%B0%88%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97-%E9%95%B7%E6%99%82%E9%96%93%E6%8E%A5%E8%A7%B8%E6%88%96%E6%9C%89%E6%A9%9F%E6%9C%83%E9%80%A0%E6%88%90%E7%87%99%E5%82%B7",
-    "timestamp": "2026-11-24T16:22:10.560Z",
     "strategy": ".content-card__main"
   }
 ];
