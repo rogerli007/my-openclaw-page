@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T02:18:52.691Z
+// Last updated: 2026-11-24T02:47:53.926Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳復職｜英偉達員工列隊歡迎回歸　女員工衝上前擁抱｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201847288972972032647381.jpeg/5-JoaLarfAyly4MeIU-G5rgtQNtMA8L0jIHn4oyB5-I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414214/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E5%93%A1%E5%B7%A5%E5%88%97%E9%9A%8A%E6%AD%A1%E8%BF%8E%E5%9B%9E%E6%AD%B8-%E5%A5%B3%E5%93%A1%E5%B7%A5%E8%A1%9D%E4%B8%8A%E5%89%8D%E6%93%81%E6%8A%B1-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-24T02:47:53.926Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內褲襪子可以一起混洗？皮膚專家揭真相　滿足3條件衣物更乾淨",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137065359006765056345269.jpeg/UmBt394C6VBJl5_JcQtPYl1rCWu92viE-OopUfjqKVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414190/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BF%83%E6%88%90%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7%E9%98%B2%E4%B8%AD%E5%9C%8B%E5%BB%B6%E6%94%AC-%E6%9C%AA%E5%95%8F%E7%BF%92%E8%BF%91%E5%B9%B3-%E9%BB%83%E6%A8%82%E6%98%AF%E5%90%A6%E9%96%93%E8%AB%9C",
     "timestamp": "2026-11-23T19:29:29.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會教揀羽絨6大要訣 必學看標籤羽毛成份比例 買前要細心觸摸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201718547022090240415078.jpeg/XfRd863uvjDQa8xrws-hQO3fDX2o8QQoFcr9_BXK_fw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414186/%E6%B6%88%E5%A7%94%E6%9C%83%E6%95%99%E6%8F%80%E7%BE%BD%E7%B5%A86%E5%A4%A7%E8%A6%81%E8%A8%A3-%E5%BF%85%E5%AD%B8%E7%9C%8B%E6%A8%99%E7%B1%A4%E7%BE%BD%E6%AF%9B%E6%88%90%E4%BB%BD%E6%AF%94%E4%BE%8B-%E8%B2%B7%E5%89%8D%E8%A6%81%E7%B4%B0%E5%BF%83%E8%A7%B8%E6%91%B8",
-    "timestamp": "2026-11-23T18:59:13.338Z",
     "strategy": ".content-card__main"
   }
 ];
