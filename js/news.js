@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T18:33:12.708Z
+// Last updated: 2026-11-24T18:45:10.313Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993999691550720630471.jpeg/k3JSWZ0DXm7_nW9w9YVWJPVYtfMFjBdpL5Nvny-Tb58?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414621/wsj-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A7%E6%95%B8%E5%8D%81%E5%9C%8B%E5%AE%B6%E5%8A%A0%E9%97%9C%E7%A8%85-%E8%8F%AF%E5%BA%9C%E7%A8%B1%E5%9B%A0%E6%90%8D%E5%AE%B3%E7%BE%8E%E4%BC%81%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-11-24T18:45:10.313Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201971095930933248643018.jpeg/QB6OM7gn4UfhkSZ9OXBUA1fYaY2EyWGcEvTtfBL07Xw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414558/pok%C3%A9mon-x-casetify-30%E9%80%B1%E5%B9%B4%E8%81%AF%E4%B9%98%E5%A4%A7%E5%83%8F%E7%B4%A0%E9%A2%A8%E6%A0%BC-%E7%B2%BE%E9%9D%88%E7%90%83airpods%E5%A5%97%E5%BF%85%E6%90%B6",
     "timestamp": "2026-11-24T10:59:09.377Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高考450分入釜山大學！5件事起底《我的有罪之人》任時完學霸履歷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201925666639974400015247.png/0XcTiLhCmbHycVLQ4zwq4N1nxhySH-CmT8HkJ0_B5Cc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414374/%E9%AB%98%E8%80%83450%E5%88%86%E5%85%A5%E9%87%9C%E5%B1%B1%E5%A4%A7%E5%AD%B8-5%E4%BB%B6%E4%BA%8B%E8%B5%B7%E5%BA%95-%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA-%E4%BB%BB%E6%99%82%E5%AE%8C%E5%AD%B8%E9%9C%B8%E5%B1%A5%E6%AD%B7",
-    "timestamp": "2026-11-24T10:20:09.656Z",
     "strategy": ".content-card__main"
   }
 ];
