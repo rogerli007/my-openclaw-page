@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T21:19:21.271Z
+// Last updated: 2026-11-24T21:45:23.153Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直播｜神舟二十四號載人飛船08時18分發射　航天員前往發射場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202133199476494336678340.png/8_Pl37eAUJrrx_WpOZZsmOBntXXpab85-tMREvrTERI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414588/%E7%9B%B4%E6%92%AD-%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%88%B908%E6%99%8218%E5%88%86%E7%99%BC%E5%B0%84-%E8%88%AA%E5%A4%A9%E5%93%A1%E5%89%8D%E5%BE%80%E7%99%BC%E5%B0%84%E5%A0%B4",
+    "timestamp": "2026-11-24T21:45:23.153Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳全體員工大會致歉　坦承違反公司行為準則　正接受心理治療",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201960072909950976341298.jpeg/yU4ptoE4IGL2GH9_zYcnLmQ7bYEKTa9sZa3CjWWtwo0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60414481/%E9%BB%83%E6%B7%91%E8%94%93%E9%A6%96%E9%96%8B%E5%80%8B%E5%94%B1%E5%8C%96%E8%BA%AB%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB-%E8%87%AA%E7%88%86%E5%85%A5%E8%A1%8C11%E5%B9%B4%E5%B1%A2%E9%99%B7%E5%AE%B9%E8%B2%8C%E7%84%A6%E6%85%AE",
     "timestamp": "2026-11-24T15:20:10.680Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "代考風暴開播｜車強玧淪裴賢聖「代考槍手」　追劇時間+角色介紹",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201957600971722752087964.png/s9bZVqCiLIchHEZEwqnDQAy0O9cw26dgNuU2JzblNic",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414498/%E4%BB%A3%E8%80%83%E9%A2%A8%E6%9A%B4%E9%96%8B%E6%92%AD-%E8%BB%8A%E5%BC%B7%E7%8E%A7%E6%B7%AA%E8%A3%B4%E8%B3%A2%E8%81%96-%E4%BB%A3%E8%80%83%E6%A7%8D%E6%89%8B-%E8%BF%BD%E5%8A%87%E6%99%82%E9%96%93-%E8%A7%92%E8%89%B2%E4%BB%8B%E7%B4%B9",
-    "timestamp": "2026-11-24T14:59:09.456Z",
     "strategy": ".content-card__main"
   }
 ];
