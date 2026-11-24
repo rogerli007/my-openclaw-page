@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T15:20:10.680Z
+// Last updated: 2026-11-24T15:46:04.086Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美股｜英偉達早段回吐逾6%　道指最新升逾百點　納指挫逾1%",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004894676605472768376024.jpeg/iqzPKOj7JcSNx3oGiU4TGDGAQwgoE4OSf6dts3-nbbM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414609/%E7%BE%8E%E8%82%A1-%E8%8B%B1%E5%81%89%E9%81%94%E6%97%A9%E6%AE%B5%E5%9B%9E%E5%90%90%E9%80%BE6-%E9%81%93%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87%E9%80%BE%E7%99%BE%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%8C%AB%E9%80%BE1",
+    "timestamp": "2026-11-24T15:46:04.086Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃淑蔓首開個唱化身美少女戰士　自爆入行11年屢陷容貌焦慮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200053413308534784612835.jpeg/Q2-gk0A-g-MUQWaVkNRUixE1FLJ2PSaErFecMaxXnDE?v=w1920",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412573/%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
     "timestamp": "2026-11-24T07:45:30.153Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石壁監獄43歲在囚男被打傷面額　懲教人員制止37歲施襲囚友",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2064521/org/31ee8c1d0f8835f59f17ac7e7bc6c7fe.JPG/DUvXjeX8LeRIIHQyscZuL58BFa_6-IDwzZD8aM2Q_Gg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414411/%E7%9F%B3%E5%A3%81%E7%9B%A3%E7%8D%8443%E6%AD%B2%E5%9C%A8%E5%9B%9A%E7%94%B7%E8%A2%AB%E6%89%93%E5%82%B7%E9%9D%A2%E9%A1%8D-%E6%87%B2%E6%95%99%E4%BA%BA%E5%93%A1%E5%88%B6%E6%AD%A237%E6%AD%B2%E6%96%BD%E8%A5%B2%E5%9B%9A%E5%8F%8B",
-    "timestamp": "2026-11-24T07:32:18.883Z",
     "strategy": ".content-card__main"
   }
 ];
