@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T01:48:27.612Z
+// Last updated: 2026-11-24T01:59:08.816Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張家輝開《大娛樂騷》演唱會2027｜門票公售攻略+座位表+連結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195005759952261120941083.jpeg/0667-WZKpXKvNRqtMgxK2CXDJmrlulxBa5LurWuS7q0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60407457/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%96%8B-%E5%A4%A7%E5%A8%9B%E6%A8%82%E9%A8%B7-%E6%BC%94%E5%94%B1%E6%9C%832027-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E9%80%A3%E7%B5%90",
+    "timestamp": "2026-11-24T01:59:08.816Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "張國強專訪｜讚內地短劇製作規格香港未必有　勉港星「以戰養戰」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201718547022090240415078.jpeg/XfRd863uvjDQa8xrws-hQO3fDX2o8QQoFcr9_BXK_fw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414186/%E6%B6%88%E5%A7%94%E6%9C%83%E6%95%99%E6%8F%80%E7%BE%BD%E7%B5%A86%E5%A4%A7%E8%A6%81%E8%A8%A3-%E5%BF%85%E5%AD%B8%E7%9C%8B%E6%A8%99%E7%B1%A4%E7%BE%BD%E6%AF%9B%E6%88%90%E4%BB%BD%E6%AF%94%E4%BE%8B-%E8%B2%B7%E5%89%8D%E8%A6%81%E7%B4%B0%E5%BF%83%E8%A7%B8%E6%91%B8",
     "timestamp": "2026-11-23T18:45:34.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "消委會教揀羽絨6大要訣 必學看標籤羽毛成份比例 買前要細心觸摸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201718547022090240415078.jpeg/XfRd863uvjDQa8xrws-hQO3fDX2o8QQoFcr9_BXK_fw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414186/%E6%B6%88%E5%A7%94%E6%9C%83%E6%95%99%E6%8F%80%E7%BE%BD%E7%B5%A86%E5%A4%A7%E8%A6%81%E8%A8%A3-%E5%BF%85%E5%AD%B8%E7%9C%8B%E6%A8%99%E7%B1%A4%E7%BE%BD%E6%AF%9B%E6%88%90%E4%BB%BD%E6%AF%94%E4%BE%8B-%E8%B2%B7%E5%89%8D%E8%A6%81%E7%B4%B0%E5%BF%83%E8%A7%B8%E6%91%B8",
-    "timestamp": "2026-11-23T18:33:25.913Z",
     "strategy": ".content-card__main"
   }
 ];
