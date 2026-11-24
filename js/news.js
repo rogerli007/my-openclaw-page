@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T14:21:10.187Z
+// Last updated: 2026-11-24T14:45:40.694Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "劉兆銘追思會｜汪明荃致敬恩師　場刊公開與亡妻珍貴復古結婚照",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202020112710766592175968.jpeg/k2Z-_ZO8GGgtY_p3Ub6FP2qvrDHFM9h1Fngb_RZ4G_0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414601/%E5%8A%89%E5%85%86%E9%8A%98%E8%BF%BD%E6%80%9D%E6%9C%83-%E6%B1%AA%E6%98%8E%E8%8D%83%E8%87%B4%E6%95%AC%E6%81%A9%E5%B8%AB-%E5%A0%B4%E5%88%8A%E5%85%AC%E9%96%8B%E8%88%87%E4%BA%A1%E5%A6%BB%E7%8F%8D%E8%B2%B4%E5%BE%A9%E5%8F%A4%E7%B5%90%E5%A9%9A%E7%85%A7",
+    "timestamp": "2026-11-24T14:45:40.694Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩京十五日｜林更新降格男二為成毅太子改劇本！劇版改編惹怒書迷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201892424641679360035478.jpeg/cDOzOZenMU_PvnVQdv9tiigi-RjI1mZS_Qabx_0Gm8c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414280/%E5%A4%A7%E6%89%B9%E6%B8%AF%E8%BF%B7weverse%E5%B8%B3%E8%99%9F%E9%81%AD%E6%B5%B7%E5%A4%96ip%E5%85%A5%E4%BE%B5-%E6%81%90%E8%A2%AB%E7%9B%9C%E6%9C%83%E5%93%A1%E6%90%B6%E6%BC%94%E5%94%B1%E6%9C%83%E5%84%AA%E5%85%88%E9%A3%9B",
     "timestamp": "2026-11-24T06:52:30.038Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本兩男女墮軌死亡　南海電鐵停駛2小時13萬人受影響",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201897148933738496268439.jpeg/4vdWzxHgHHHhCOw60qqP_L7BNHcCqhlUCo6hNQqOoTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414353/%E6%97%A5%E6%9C%AC%E5%85%A9%E7%94%B7%E5%A5%B3%E5%A2%AE%E8%BB%8C%E6%AD%BB%E4%BA%A1-%E5%8D%97%E6%B5%B7%E9%9B%BB%E9%90%B5%E5%81%9C%E9%A7%9B2%E5%B0%8F%E6%99%8213%E8%90%AC%E4%BA%BA%E5%8F%97%E5%BD%B1%E9%9F%BF",
-    "timestamp": "2026-11-24T06:28:12.046Z",
     "strategy": ".content-card__main"
   }
 ];
