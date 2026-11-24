@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T20:59:04.882Z
+// Last updated: 2026-11-24T21:19:21.271Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳全體員工大會致歉　坦承違反公司行為準則　正接受心理治療",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200747655756517376291873.jpeg/q2UgI4vQBtQ_P2Xhpf0ZgLnKbo85a_L-YcrS8GHK0vA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414628/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%85%A8%E9%AB%94%E5%93%A1%E5%B7%A5%E5%A4%A7%E6%9C%83%E8%87%B4%E6%AD%89-%E5%9D%A6%E6%89%BF%E9%81%95%E5%8F%8D%E5%85%AC%E5%8F%B8%E8%A1%8C%E7%82%BA%E6%BA%96%E5%89%87-%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82",
+    "timestamp": "2026-11-24T21:19:21.271Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀《親親我好媽》收視破30點：劇集大捷後主動向編導致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201957600971722752087964.png/s9bZVqCiLIchHEZEwqnDQAy0O9cw26dgNuU2JzblNic",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414498/%E4%BB%A3%E8%80%83%E9%A2%A8%E6%9A%B4%E9%96%8B%E6%92%AD-%E8%BB%8A%E5%BC%B7%E7%8E%A7%E6%B7%AA%E8%A3%B4%E8%B3%A2%E8%81%96-%E4%BB%A3%E8%80%83%E6%A7%8D%E6%89%8B-%E8%BF%BD%E5%8A%87%E6%99%82%E9%96%93-%E8%A7%92%E8%89%B2%E4%BB%8B%E7%B4%B9",
     "timestamp": "2026-11-24T14:59:09.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "劉兆銘追思會｜汪明荃致敬恩師　場刊公開與亡妻珍貴復古結婚照",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202020112710766592175968.jpeg/k2Z-_ZO8GGgtY_p3Ub6FP2qvrDHFM9h1Fngb_RZ4G_0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414601/%E5%8A%89%E5%85%86%E9%8A%98%E8%BF%BD%E6%80%9D%E6%9C%83-%E6%B1%AA%E6%98%8E%E8%8D%83%E8%87%B4%E6%95%AC%E6%81%A9%E5%B8%AB-%E5%A0%B4%E5%88%8A%E5%85%AC%E9%96%8B%E8%88%87%E4%BA%A1%E5%A6%BB%E7%8F%8D%E8%B2%B4%E5%BE%A9%E5%8F%A4%E7%B5%90%E5%A9%9A%E7%85%A7",
-    "timestamp": "2026-11-24T14:45:40.694Z",
     "strategy": ".content-card__main"
   }
 ];
