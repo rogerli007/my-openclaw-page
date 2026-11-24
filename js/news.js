@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T02:59:10.584Z
+// Last updated: 2026-11-24T03:22:53.930Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "寶勒巷車禍｜死者獨立經營鐘錶生意　職員哀慟：一班同事如家人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201852248544514048170365.jpeg/Xn9K4mziK0j1QC0lKM2xPHXm49jalsk3rYyX0q2Ml9I",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414255/%E5%AF%B6%E5%8B%92%E5%B7%B7%E8%BB%8A%E7%A6%8D-%E6%AD%BB%E8%80%85%E7%8D%A8%E7%AB%8B%E7%B6%93%E7%87%9F%E9%90%98%E9%8C%B6%E7%94%9F%E6%84%8F-%E8%81%B7%E5%93%A1%E5%93%80%E6%85%9F-%E4%B8%80%E7%8F%AD%E5%90%8C%E4%BA%8B%E5%A6%82%E5%AE%B6%E4%BA%BA",
+    "timestamp": "2026-11-24T03:22:53.930Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復仇者聯盟5｜最終預告美國隊長兒子首曝光　新舊復仇者全員集結",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200865798550196224753048.jpeg/ZSfHYuLegiiuvdCjo_LeI8IZqDqOCpQxwHHAq8BxwKs",
     "url": "https://www.hk01.com/01TV/60413481/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%B6%93%E6%AD%B7-%E5%90%8D%E5%AA%9B%E6%9C%9B%E6%97%8F-%E7%B6%B2%E6%9A%B4-%E7%95%B6%E5%B9%B4%E8%A2%AB%E7%BD%B5%E9%87%8D%E5%8F%A3%E5%91%B3-13%E5%B9%B4%E5%BE%8C%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB",
     "timestamp": "2026-11-23T20:19:40.817Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：促成黃仁勳復職防中國延攬　未問習近平「黃樂是否間諜」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137065359006765056345269.jpeg/UmBt394C6VBJl5_JcQtPYl1rCWu92viE-OopUfjqKVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414190/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BF%83%E6%88%90%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7%E9%98%B2%E4%B8%AD%E5%9C%8B%E5%BB%B6%E6%94%AC-%E6%9C%AA%E5%95%8F%E7%BF%92%E8%BF%91%E5%B9%B3-%E9%BB%83%E6%A8%82%E6%98%AF%E5%90%A6%E9%96%93%E8%AB%9C",
-    "timestamp": "2026-11-23T19:45:59.921Z",
     "strategy": ".content-card__main"
   }
 ];
