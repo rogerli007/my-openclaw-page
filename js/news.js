@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T20:29:07.456Z
+// Last updated: 2026-11-24T20:45:33.276Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀《親親我好媽》收視破30點：劇集大捷後主動向編導致歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869491584536576907461.jpeg/5PTZPKEVzhfeJS6xDX2uVrlihv6cEj3zf3CnE39wpxM",
+    "url": "https://www.hk01.com/01TV/60413490/%E6%B1%9F%E7%BE%8E%E5%84%80-%E8%A6%AA%E8%A6%AA%E6%88%91%E5%A5%BD%E5%AA%BD-%E6%94%B6%E8%A6%96%E7%A0%B430%E9%BB%9E-%E5%8A%87%E9%9B%86%E5%A4%A7%E6%8D%B7%E5%BE%8C%E4%B8%BB%E5%8B%95%E5%90%91%E7%B7%A8%E5%B0%8E%E8%87%B4%E6%AD%89",
+    "timestamp": "2026-11-24T20:45:33.276Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀《親親我好媽》收視破30點：劇集大捷後主動向編導致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201935162414206976427815.png/S2WcF7DIKw4foYd3V-0kx5c4UADzUb7rhMfGlYTHxpU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414423/%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E6%9E%97%E6%9B%B4%E6%96%B0%E9%99%8D%E6%A0%BC%E7%94%B7%E4%BA%8C%E7%82%BA%E6%88%90%E6%AF%85%E5%A4%AA%E5%AD%90%E6%94%B9%E5%8A%87%E6%9C%AC-%E5%8A%87%E7%89%88%E6%94%B9%E7%B7%A8%E6%83%B9%E6%80%92%E6%9B%B8%E8%BF%B7",
     "timestamp": "2026-11-24T14:21:10.187Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港與內地海關合作　機場日破兩宗販毒案　檢$400萬大麻花拘4男",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202011300482256896710265.jpeg/OQkqecIrE91_LaQwDTdUCrf8G47wvmTR2n1zi-B9c4s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414594/%E9%A6%99%E6%B8%AF%E8%88%87%E5%85%A7%E5%9C%B0%E6%B5%B7%E9%97%9C%E5%90%88%E4%BD%9C-%E6%A9%9F%E5%A0%B4%E6%97%A5%E7%A0%B4%E5%85%A9%E5%AE%97%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2-400%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E6%8B%984%E7%94%B7",
-    "timestamp": "2026-11-24T13:45:52.622Z",
     "strategy": ".content-card__main"
   }
 ];
