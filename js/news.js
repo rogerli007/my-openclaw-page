@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T13:29:55.006Z
+// Last updated: 2026-11-24T13:45:52.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港與內地海關合作　機場日破兩宗販毒案　檢$400萬大麻花拘4男",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202011300482256896710265.jpeg/OQkqecIrE91_LaQwDTdUCrf8G47wvmTR2n1zi-B9c4s?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414594/%E9%A6%99%E6%B8%AF%E8%88%87%E5%85%A7%E5%9C%B0%E6%B5%B7%E9%97%9C%E5%90%88%E4%BD%9C-%E6%A9%9F%E5%A0%B4%E6%97%A5%E7%A0%B4%E5%85%A9%E5%AE%97%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2-400%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E6%8B%984%E7%94%B7",
+    "timestamp": "2026-11-24T13:45:52.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜為癌母搵快錢墮假飛騙局　女事主慘變替死鬼囚18月",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198957309783445504015927.jpeg/Yhokvppip8AgV46ojB-4bKJpB6ojIJSeUgXUMVIF1DE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414350/%E6%8E%A5%E9%80%A3%E5%A4%9A%E9%96%93%E6%A9%9F%E6%A7%8B%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84-%E7%A7%81%E9%9A%B1%E7%BD%B2%E7%B1%B2%E5%8A%A0%E5%BC%B7%E4%BF%9D%E5%AE%89-%E5%B8%82%E6%B0%91%E6%8F%90%E9%98%B2%E7%B2%BE%E6%BA%96%E8%A9%90%E9%A8%99",
     "timestamp": "2026-11-24T05:59:07.163Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "易烊千璽蒙語新歌《Namuuhan》明日上線！歌名疑與經典名曲有淵源",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201866563804729344720845.png/bFwkcHU3Zlvg5WWk8Ezf4edX01GaNiWNxCkRScQpEUk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414257/%E6%98%93%E7%83%8A%E5%8D%83%E7%92%BD%E8%92%99%E8%AA%9E%E6%96%B0%E6%AD%8C-namuuhan-%E6%98%8E%E6%97%A5%E4%B8%8A%E7%B7%9A-%E6%AD%8C%E5%90%8D%E7%96%91%E8%88%87%E7%B6%93%E5%85%B8%E5%90%8D%E6%9B%B2%E6%9C%89%E6%B7%B5%E6%BA%90",
-    "timestamp": "2026-11-24T05:45:50.296Z",
     "strategy": ".content-card__main"
   }
 ];
