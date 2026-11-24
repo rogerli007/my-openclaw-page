@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T06:28:12.046Z
+// Last updated: 2026-11-24T06:52:30.038Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大批港迷Weverse帳號遭海外IP入侵　恐被盜會員搶演唱會優先飛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201892424641679360035478.jpeg/cDOzOZenMU_PvnVQdv9tiigi-RjI1mZS_Qabx_0Gm8c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414280/%E5%A4%A7%E6%89%B9%E6%B8%AF%E8%BF%B7weverse%E5%B8%B3%E8%99%9F%E9%81%AD%E6%B5%B7%E5%A4%96ip%E5%85%A5%E4%BE%B5-%E6%81%90%E8%A2%AB%E7%9B%9C%E6%9C%83%E5%93%A1%E6%90%B6%E6%BC%94%E5%94%B1%E6%9C%83%E5%84%AA%E5%85%88%E9%A3%9B",
+    "timestamp": "2026-11-24T06:52:30.038Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本兩男女墮軌死亡　南海電鐵停駛2小時13萬人受影響",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188046433828212736309764.jpeg/vBBVGMA0C4Rl2jagpLz_UdqUxWjTac7BC_0-sAv9PrA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60413909/%E6%AD%90%E6%B4%B2%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%93%B2%E6%8F%B4%E5%8A%A9%E7%83%8F%E5%85%8B%E8%98%AD%E7%9A%84%E7%9C%9F%E7%9B%B8-%E7%8F%BE%E5%AF%A6-%E5%B9%BB%E8%A6%BA%E8%88%87%E8%99%9B%E5%81%BD",
     "timestamp": "2026-11-23T23:58:57.998Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "家居機械人當遛狗員是賊喊報警！主人通話要解答考題防AI電話詐騙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201588216537288704532478.png/o9-7Mjp6x6HXli64te_s40alFqV3pMAnEymHqBMph6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60396192/%E5%AE%B6%E5%B1%85%E6%A9%9F%E6%A2%B0%E4%BA%BA%E7%95%B6%E9%81%9B%E7%8B%97%E5%93%A1%E6%98%AF%E8%B3%8A%E5%96%8A%E5%A0%B1%E8%AD%A6-%E4%B8%BB%E4%BA%BA%E9%80%9A%E8%A9%B1%E8%A6%81%E8%A7%A3%E7%AD%94%E8%80%83%E9%A1%8C%E9%98%B2ai%E9%9B%BB%E8%A9%B1%E8%A9%90%E9%A8%99",
-    "timestamp": "2026-11-23T23:19:56.116Z",
     "strategy": ".content-card__main"
   }
 ];
