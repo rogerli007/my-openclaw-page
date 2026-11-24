@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T03:22:53.930Z
+// Last updated: 2026-11-24T03:30:46.468Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "快樂蜂老闆1.6億購嘉慧園　夠買727萬件炸雞　影帝張家輝曾為業主",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1357392/org/34d2a80838719dadbfddff6668fa559e.jpg/b2-BMJjOcfM8BiEmLUlJQ_aymN5wSyxPdTcw3HU3MNw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60414260/jollibee%E5%BF%AB%E6%A8%82%E8%9C%82%E8%80%81%E9%97%861-6%E5%84%84%E8%B3%BC%E5%98%89%E6%85%A7%E5%9C%92-%E5%A4%A0%E8%B2%B7727%E8%90%AC%E4%BB%B6%E7%82%B8%E9%9B%9E",
+    "timestamp": "2026-11-24T03:30:46.468Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "寶勒巷車禍｜死者獨立經營鐘錶生意　職員哀慟：一班同事如家人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201751960647110656730124.png/I5Y1LMBGV3Uw-gWuQpYsf5kkmX9BUiZdMyOf7TMjn-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414192/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%8D%B3%E6%97%A5%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E7%B8%BD%E9%83%A8-%E5%93%A1%E5%B7%A5%E7%86%B1%E7%83%88%E6%AD%A1%E8%BF%8E",
     "timestamp": "2026-11-23T20:45:33.242Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀經歷《名媛望族》網暴：當年被罵重口味 13年後鹹魚翻身",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200865798550196224753048.jpeg/ZSfHYuLegiiuvdCjo_LeI8IZqDqOCpQxwHHAq8BxwKs",
-    "url": "https://www.hk01.com/01TV/60413481/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%B6%93%E6%AD%B7-%E5%90%8D%E5%AA%9B%E6%9C%9B%E6%97%8F-%E7%B6%B2%E6%9A%B4-%E7%95%B6%E5%B9%B4%E8%A2%AB%E7%BD%B5%E9%87%8D%E5%8F%A3%E5%91%B3-13%E5%B9%B4%E5%BE%8C%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB",
-    "timestamp": "2026-11-23T20:19:40.817Z",
     "strategy": ".content-card__main"
   }
 ];
