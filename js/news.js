@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T03:30:46.468Z
+// Last updated: 2026-11-24T03:59:13.893Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "譚詠麟因一事憂心失眠勁嚴重：老闆和管理層真係有好大問題",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201864137894793216935718.jpeg/RfGlXGeyMOrSPnalFpCkbQebnvVnTPz-tynFabcpxWk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414299/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%9B%A0%E4%B8%80%E4%BA%8B%E6%86%82%E5%BF%83%E5%A4%B1%E7%9C%A0%E5%8B%81%E5%9A%B4%E9%87%8D-%E8%80%81%E9%97%86%E5%92%8C%E7%AE%A1%E7%90%86%E5%B1%A4%E7%9C%9F%E4%BF%82%E6%9C%89%E5%A5%BD%E5%A4%A7%E5%95%8F%E9%A1%8C",
+    "timestamp": "2026-11-24T03:59:13.893Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "快樂蜂老闆1.6億購嘉慧園　夠買727萬件炸雞　影帝張家輝曾為業主",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201751960647110656730124.png/I5Y1LMBGV3Uw-gWuQpYsf5kkmX9BUiZdMyOf7TMjn-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414192/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E5%8D%B3%E6%97%A5%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E7%8D%B2%E5%93%A1%E5%B7%A5%E6%AD%A1%E8%BF%8E-%E7%A8%B1%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BB%BBceo%E6%9C%83%E5%81%9A%E5%BE%97%E6%9B%B4%E5%A5%BD",
     "timestamp": "2026-11-23T20:59:02.503Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳復職｜黃仁勳即日重返公司總部　員工熱烈歡迎",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201751960647110656730124.png/I5Y1LMBGV3Uw-gWuQpYsf5kkmX9BUiZdMyOf7TMjn-0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414192/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%8D%B3%E6%97%A5%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E7%B8%BD%E9%83%A8-%E5%93%A1%E5%B7%A5%E7%86%B1%E7%83%88%E6%AD%A1%E8%BF%8E",
-    "timestamp": "2026-11-23T20:45:33.242Z",
     "strategy": ".content-card__main"
   }
 ];
