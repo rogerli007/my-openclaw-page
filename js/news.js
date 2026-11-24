@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T00:35:21.740Z
+// Last updated: 2026-11-24T00:54:54.419Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑援助基金推新生活支援補助　業主獲30萬　罹難者家屬獲20萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200815861124829184374908.jpeg/97nUTPchQomciHqGjHtAI2-lX6FUSk4ow-VbnOblW5w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414200/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91%E6%8E%A8%E6%96%B0%E7%94%9F%E6%B4%BB%E6%94%AF%E6%8F%B4%E8%A3%9C%E5%8A%A9-%E6%A5%AD%E4%B8%BB%E7%8D%B230%E8%90%AC-%E7%BD%B9%E9%9B%A3%E8%80%85%E5%AE%B6%E5%B1%AC%E7%8D%B220%E8%90%AC",
+    "timestamp": "2026-11-24T00:54:54.419Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "金馬獎2026｜袁澧林早在日本打響名堂　曾獲封頂級模特今榮膺影后",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201709410729070592085613.jpeg/oi8Is_KvCDSrpBEEtjtPf9rzs8nTXdvPaONxU2jjcVM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414185/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E7%BE%8E%E5%85%A9%E9%BB%A8%E8%AD%B0%E5%93%A1%E6%89%B9%E8%A9%95%E8%8B%B1%E5%81%89%E9%81%94%E6%B1%BA%E5%AE%9A-%E4%BF%83%E7%AB%8B%E6%B3%95%E6%94%B6%E7%B7%8A%E6%99%B6%E7%89%87%E5%B0%8D%E8%8F%AF%E5%87%BA%E5%8F%A3",
     "timestamp": "2026-11-23T17:58:58.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "BBC以「另一面」為題報道深圳　環球時報批：應向被冒犯市民道歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121395966113484800807641.jpeg/bZKqbzLptK_vV7W4P2PYf6A0tRuxl1t7kYTcr5GE3K8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414180/bbc%E4%BB%A5-%E5%8F%A6%E4%B8%80%E9%9D%A2-%E7%82%BA%E9%A1%8C%E5%A0%B1%E9%81%93%E6%B7%B1%E5%9C%B3-%E7%92%B0%E7%90%83%E6%99%82%E5%A0%B1%E6%89%B9-%E6%87%89%E5%90%91%E8%A2%AB%E5%86%92%E7%8A%AF%E5%B8%82%E6%B0%91%E9%81%93%E6%AD%89",
-    "timestamp": "2026-11-23T17:45:06.434Z",
     "strategy": ".content-card__main"
   }
 ];
