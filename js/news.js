@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-23T23:58:57.998Z
+// Last updated: 2026-11-24T00:35:21.740Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "金馬獎2026｜袁澧林早在日本打響名堂　曾獲封頂級模特今榮膺影后",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201316392586973184379240.jpeg/8vQlbiWAo2Wz6PQ4D-W8estcivAC2-fMuBmJBrgZiQY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413774/%E9%87%91%E9%A6%AC%E7%8D%8E2026-%E8%A2%81%E6%BE%A7%E6%9E%97%E6%97%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%89%93%E9%9F%BF%E5%90%8D%E5%A0%82-%E6%9B%BE%E7%8D%B2%E5%B0%81%E9%A0%82%E7%B4%9A%E6%A8%A1%E7%89%B9%E4%BB%8A%E6%A6%AE%E8%86%BA%E5%BD%B1%E5%90%8E",
+    "timestamp": "2026-11-24T00:35:21.740Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐洲孤注一擲援助烏克蘭的真相：現實、幻覺與虛偽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260416/1121395966113484800807641.jpeg/bZKqbzLptK_vV7W4P2PYf6A0tRuxl1t7kYTcr5GE3K8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414180/bbc%E4%BB%A5-%E5%8F%A6%E4%B8%80%E9%9D%A2-%E7%82%BA%E9%A1%8C%E5%A0%B1%E9%81%93%E6%B7%B1%E5%9C%B3-%E7%92%B0%E7%90%83%E6%99%82%E5%A0%B1%E6%89%B9-%E6%87%89%E5%90%91%E8%A2%AB%E5%86%92%E7%8A%AF%E5%B8%82%E6%B0%91%E9%81%93%E6%AD%89",
     "timestamp": "2026-11-23T17:45:06.434Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀讚劉松仁演戲神導師：電話遙控劇本鍛鍊心態",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200862974223323136541093.jpeg/1eVUTgOz6in5l-ETyjhxHH9vzgOIlAEUpLpgY6S6YGM",
-    "url": "https://www.hk01.com/01TV/60413474/%E6%B1%9F%E7%BE%8E%E5%84%80%E8%AE%9A%E5%8A%89%E6%9D%BE%E4%BB%81%E6%BC%94%E6%88%B2%E7%A5%9E%E5%B0%8E%E5%B8%AB-%E9%9B%BB%E8%A9%B1%E9%81%99%E6%8E%A7%E5%8A%87%E6%9C%AC%E9%8D%9B%E9%8D%8A%E5%BF%83%E6%85%8B",
-    "timestamp": "2026-11-23T17:19:47.933Z",
     "strategy": ".content-card__main"
   }
 ];
