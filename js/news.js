@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T19:18:32.781Z
+// Last updated: 2026-11-24T19:29:30.860Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車Cam｜深水埗鐵騎士捱撞倒地　的士切線再撼車　共5車撞釀2傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202092425967833088327459.jpeg/jRKJ5D7pMKFwkjNQtJ_dzb8bg___r5toZHx042R8dOM",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414626/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%8D%B1%E6%92%9E%E5%80%92%E5%9C%B0-%E7%9A%84%E5%A3%AB%E5%88%87%E7%B7%9A%E5%86%8D%E6%92%BC%E8%BB%8A-%E5%85%B15%E8%BB%8A%E6%92%9E%E9%87%802%E5%82%B7",
+    "timestamp": "2026-11-24T19:29:30.860Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：美軍與福特、通用汽車等洽談　尋求協助生產無人機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201566787603271680130478.jpeg/J3zti1XjZ8-uDUoer1NR2oAeJQkHCo7_HAeijRwHoo0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414326/%E5%85%AD%E5%90%88%E5%BD%A9%E5%B9%B8%E9%81%8B%E4%BA%8C%E9%87%91%E5%A4%9A%E5%AF%B6-%E5%8A%A0%E7%A2%BC%E5%88%B6%E4%BB%8A%E6%99%9A9%E6%99%82%E5%8D%8A%E6%94%AA%E7%8F%A0-%E4%B8%80%E6%B3%A8%E7%8D%A8%E4%B8%AD%E5%8F%AF%E5%BE%977300%E8%90%AC",
     "timestamp": "2026-11-24T12:48:48.958Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "尖沙咀IKEA美食站雪糕樣本大腸菌群含量超標五成　食安中心令停售",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201983544117694464316540.jpeg/gbsnxyITnlbmQGrjhj1jKXma5ywXJIjYEffnchH353I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414572/%E5%B0%96%E6%B2%99%E5%92%80ikea%E7%BE%8E%E9%A3%9F%E7%AB%99%E9%9B%AA%E7%B3%95%E6%A8%A3%E6%9C%AC%E5%A4%A7%E8%85%B8%E8%8F%8C%E7%BE%A4%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%99%E4%BA%94%E6%88%90-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E4%BB%A4%E5%81%9C%E5%94%AE",
-    "timestamp": "2026-11-24T11:59:06.236Z",
     "strategy": ".content-card__main"
   }
 ];
