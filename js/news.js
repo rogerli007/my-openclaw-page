@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T19:45:24.083Z
+// Last updated: 2026-11-24T20:29:07.456Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀《親親我好媽》收視破30點：劇集大捷後主動向編導致歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869491584536576907461.jpeg/5PTZPKEVzhfeJS6xDX2uVrlihv6cEj3zf3CnE39wpxM",
+    "url": "https://www.hk01.com/01TV/60413490/%E6%B1%9F%E7%BE%8E%E5%84%80-%E8%A6%AA%E8%A6%AA%E6%88%91%E5%A5%BD%E5%AA%BD-%E6%94%B6%E8%A6%96%E7%A0%B430%E9%BB%9E-%E5%8A%87%E9%9B%86%E5%A4%A7%E6%8D%B7%E5%BE%8C%E4%B8%BB%E5%8B%95%E5%90%91%E7%B7%A8%E5%B0%8E%E8%87%B4%E6%AD%89",
+    "timestamp": "2026-11-24T20:29:07.456Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車Cam｜深水埗鐵騎士捱撞倒地　的士切線再撼車　共5車撞釀2傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202011300482256896710265.jpeg/OQkqecIrE91_LaQwDTdUCrf8G47wvmTR2n1zi-B9c4s?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414594/%E9%A6%99%E6%B8%AF%E8%88%87%E5%85%A7%E5%9C%B0%E6%B5%B7%E9%97%9C%E5%90%88%E4%BD%9C-%E6%A9%9F%E5%A0%B4%E6%97%A5%E7%A0%B4%E5%85%A9%E5%AE%97%E8%B2%A9%E6%AF%92%E6%A1%88-%E6%AA%A2-400%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E6%8B%984%E7%94%B7",
     "timestamp": "2026-11-24T13:45:52.622Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜為癌母搵快錢墮假飛騙局　女事主慘變替死鬼囚18月",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201998449189326848380792.jpeg/IixRXJiAfZloaBh3hSAWNSlx7VvP8hmA6CSef-gknn8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414591/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%82%BA%E7%99%8C%E6%AF%8D%E6%90%B5%E5%BF%AB%E9%8C%A2%E5%A2%AE%E5%81%87%E9%A3%9B%E9%A8%99%E5%B1%80-%E5%A5%B3%E4%BA%8B%E4%B8%BB%E6%85%98%E8%AE%8A%E6%9B%BF%E6%AD%BB%E9%AC%BC%E5%9B%9A18%E6%9C%88",
-    "timestamp": "2026-11-24T13:29:55.006Z",
     "strategy": ".content-card__main"
   }
 ];
