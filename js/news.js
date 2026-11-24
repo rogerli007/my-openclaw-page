@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T07:45:30.153Z
+// Last updated: 2026-11-24T07:59:25.789Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大阪拉麵名店敗走！NEXT Shikaku12.15結業　牡蠣湯曾掀排隊潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201902051215282176597462.jpeg/QirDoq7m9lJSelEExI9BjopeH3_sv5Pq5lGCt-ZRgrc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414375/%E5%A4%A7%E9%98%AA%E6%8B%89%E9%BA%B5%E5%90%8D%E5%BA%97%E6%95%97%E8%B5%B0-next-shikaku12-15%E7%B5%90%E6%A5%AD-%E7%89%A1%E8%A0%A3%E6%B9%AF%E6%9B%BE%E6%8E%80%E6%8E%92%E9%9A%8A%E6%BD%AE",
+    "timestamp": "2026-11-24T07:59:25.789Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "兩京十五日線上看分集劇情｜最新更新時間+追劇日曆+演員簡介",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201586618729762816341682.png/S4LvLBOEElW-d4KIXhN8u1CH7yaCPj2vyvuKbMr7imw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414060/%E5%BC%B5%E5%9C%8B%E5%BC%B7%E5%B0%88%E8%A8%AA-%E8%AE%9A%E5%85%A7%E5%9C%B0%E7%9F%AD%E5%8A%87%E8%A3%BD%E4%BD%9C%E8%A6%8F%E6%A0%BC%E9%A6%99%E6%B8%AF%E6%9C%AA%E5%BF%85%E6%9C%89-%E5%8B%89%E6%B8%AF%E6%98%9F-%E4%BB%A5%E6%88%B0%E9%A4%8A%E6%88%B0",
     "timestamp": "2026-11-24T01:48:27.612Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "俄招聘網驚現40名北韓女工打包出租　標榜擅長包飯卷九成薪被抽佣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201513484676763648048291.png/eBOQxMyvi4voFQdA0Kd2zCK3jdLHP0MpeeLXb3ni128?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382060/%E4%BF%84%E6%8B%9B%E8%81%98%E7%B6%B2%E9%A9%9A%E7%8F%BE40%E5%90%8D%E5%8C%97%E9%9F%93%E5%A5%B3%E5%B7%A5%E6%89%93%E5%8C%85%E5%87%BA%E7%A7%9F-%E6%A8%99%E6%A6%9C%E6%93%85%E9%95%B7%E5%8C%85%E9%A3%AF%E5%8D%B7%E4%B9%9D%E6%88%90%E8%96%AA%E8%A2%AB%E6%8A%BD%E4%BD%A3",
-    "timestamp": "2026-11-24T01:31:09.137Z",
     "strategy": ".content-card__main"
   }
 ];
