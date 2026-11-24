@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T09:45:34.570Z
+// Last updated: 2026-11-24T10:20:09.656Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高考450分入釜山大學！5件事起底《我的有罪之人》任時完學霸履歷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201925666639974400015247.png/0XcTiLhCmbHycVLQ4zwq4N1nxhySH-CmT8HkJ0_B5Cc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414374/%E9%AB%98%E8%80%83450%E5%88%86%E5%85%A5%E9%87%9C%E5%B1%B1%E5%A4%A7%E5%AD%B8-5%E4%BB%B6%E4%BA%8B%E8%B5%B7%E5%BA%95-%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA-%E4%BB%BB%E6%99%82%E5%AE%8C%E5%AD%B8%E9%9C%B8%E5%B1%A5%E6%AD%B7",
+    "timestamp": "2026-11-24T10:20:09.656Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深圳衞健委警告勿用納米海綿洗碗 每磨損1克釋放650萬微塑膠",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201864137894793216935718.jpeg/RfGlXGeyMOrSPnalFpCkbQebnvVnTPz-tynFabcpxWk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414299/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%9B%A0%E4%B8%80%E4%BA%8B%E6%86%82%E5%BF%83%E5%A4%B1%E7%9C%A0%E5%8B%81%E5%9A%B4%E9%87%8D-%E8%80%81%E9%97%86%E5%92%8C%E7%AE%A1%E7%90%86%E5%B1%A4%E7%9C%9F%E4%BF%82%E6%9C%89%E5%A5%BD%E5%A4%A7%E5%95%8F%E9%A1%8C",
     "timestamp": "2026-11-24T03:59:13.893Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "快樂蜂老闆1.6億購嘉慧園　夠買727萬件炸雞　影帝張家輝曾為業主",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1357392/org/34d2a80838719dadbfddff6668fa559e.jpg/b2-BMJjOcfM8BiEmLUlJQ_aymN5wSyxPdTcw3HU3MNw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60414260/jollibee%E5%BF%AB%E6%A8%82%E8%9C%82%E8%80%81%E9%97%861-6%E5%84%84%E8%B3%BC%E5%98%89%E6%85%A7%E5%9C%92-%E5%A4%A0%E8%B2%B7727%E8%90%AC%E4%BB%B6%E7%82%B8%E9%9B%9E",
-    "timestamp": "2026-11-24T03:30:46.468Z",
     "strategy": ".content-card__main"
   }
 ];
