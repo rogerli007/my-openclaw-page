@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T18:59:04.497Z
+// Last updated: 2026-11-24T19:18:32.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：美軍與福特、通用汽車等洽談　尋求協助生產無人機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202091408966553600386407.jpeg/4ykATihGwEvQu_stXMC9i9EQssABEgbNOi24ujotuLo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414625/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E8%88%87%E7%A6%8F%E7%89%B9-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BB%8A%E7%AD%89%E6%B4%BD%E8%AB%87-%E5%B0%8B%E6%B1%82%E5%8D%94%E5%8A%A9%E7%94%9F%E7%94%A2%E7%84%A1%E4%BA%BA%E6%A9%9F",
+    "timestamp": "2026-11-24T19:18:32.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201983544117694464316540.jpeg/gbsnxyITnlbmQGrjhj1jKXma5ywXJIjYEffnchH353I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414572/%E5%B0%96%E6%B2%99%E5%92%80ikea%E7%BE%8E%E9%A3%9F%E7%AB%99%E9%9B%AA%E7%B3%95%E6%A8%A3%E6%9C%AC%E5%A4%A7%E8%85%B8%E8%8F%8C%E7%BE%A4%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%99%E4%BA%94%E6%88%90-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E4%BB%A4%E5%81%9C%E5%94%AE",
     "timestamp": "2026-11-24T11:59:06.236Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梁洪元爆開房醜聞唱情歌求復合失敗！模特妻IG證結束37天閃電婚姻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201965422480461824671502.png/_JyU-zqPmwJWKECv1Lr-eQzh25X2F7E2MGfLGDBnyxg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414464/%E6%A2%81%E6%B4%AA%E5%85%83%E7%88%86%E9%96%8B%E6%88%BF%E9%86%9C%E8%81%9E%E5%94%B1%E6%83%85%E6%AD%8C%E6%B1%82%E5%BE%A9%E5%90%88%E5%A4%B1%E6%95%97-%E6%A8%A1%E7%89%B9%E5%A6%BBig%E8%AD%89%E7%B5%90%E6%9D%9F37%E5%A4%A9%E9%96%83%E9%9B%BB%E5%A9%9A%E5%A7%BB",
-    "timestamp": "2026-11-24T11:19:57.339Z",
     "strategy": ".content-card__main"
   }
 ];
