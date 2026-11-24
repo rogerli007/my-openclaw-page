@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T15:46:04.086Z
+// Last updated: 2026-11-24T16:22:10.560Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "消委會5大使用電熱氈安全指南 長時間接觸或有機會造成燙傷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202038460081246208384972.jpeg/9s-TSP9tsbsx80qyXk6k4aLsPgR8-sroV2sOYVdrDmE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414612/%E6%B6%88%E5%A7%94%E6%9C%835%E5%A4%A7%E4%BD%BF%E7%94%A8%E9%9B%BB%E7%86%B1%E6%B0%88%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97-%E9%95%B7%E6%99%82%E9%96%93%E6%8E%A5%E8%A7%B8%E6%88%96%E6%9C%89%E6%A9%9F%E6%9C%83%E9%80%A0%E6%88%90%E7%87%99%E5%82%B7",
+    "timestamp": "2026-11-24T16:22:10.560Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美股｜英偉達早段回吐逾6%　道指最新升逾百點　納指挫逾1%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201902051215282176597462.jpeg/QirDoq7m9lJSelEExI9BjopeH3_sv5Pq5lGCt-ZRgrc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414375/%E5%A4%A7%E9%98%AA%E6%8B%89%E9%BA%B5%E5%90%8D%E5%BA%97%E6%95%97%E8%B5%B0-next-shikaku12-15%E7%B5%90%E6%A5%AD-%E7%89%A1%E8%A0%A3%E6%B9%AF%E6%9B%BE%E6%8E%80%E6%8E%92%E9%9A%8A%E6%BD%AE",
     "timestamp": "2026-11-24T07:59:25.789Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩京十五日線上看分集劇情｜最新更新時間+追劇日曆+演員簡介",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200053413308534784612835.jpeg/Q2-gk0A-g-MUQWaVkNRUixE1FLJ2PSaErFecMaxXnDE?v=w1920",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412573/%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
-    "timestamp": "2026-11-24T07:45:30.153Z",
     "strategy": ".content-card__main"
   }
 ];
