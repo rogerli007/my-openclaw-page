@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T08:47:05.577Z
+// Last updated: 2026-11-24T08:59:16.813Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "超壯觀！人妻產子獲霸氣奶奶送10萬人仔　鈔票串成花環鋪滿病床",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201902003911921664375298.jpeg/3PQk7ru0DpYX0ugrSr_rwcjBhl1zAVnlDeSGIg3khiI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414363/%E8%B6%85%E5%A3%AF%E8%A7%80-%E4%BA%BA%E5%A6%BB%E7%94%A2%E5%AD%90%E7%8D%B2%E9%9C%B8%E6%B0%A3%E5%A5%B6%E5%A5%B6%E9%80%8110%E8%90%AC%E4%BA%BA%E4%BB%94-%E9%88%94%E7%A5%A8%E4%B8%B2%E6%88%90%E8%8A%B1%E7%92%B0%E9%8B%AA%E6%BB%BF%E7%97%85%E5%BA%8A",
+    "timestamp": "2026-11-24T08:59:16.813Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秘書公司前總監涉收賄逾3.4萬元轉介兩客戶　今認罪還押下月判刑",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201847288972972032647381.jpeg/5-JoaLarfAyly4MeIU-G5rgtQNtMA8L0jIHn4oyB5-I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414214/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E5%93%A1%E5%B7%A5%E5%88%97%E9%9A%8A%E6%AD%A1%E8%BF%8E%E5%9B%9E%E6%AD%B8-%E5%A5%B3%E5%93%A1%E5%B7%A5%E8%A1%9D%E4%B8%8A%E5%89%8D%E6%93%81%E6%8A%B1-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-24T02:47:53.926Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內褲襪子可以一起混洗？皮膚專家揭真相　滿足3條件衣物更乾淨",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199752339364253696079581.jpeg/UhCI-riIme8ondIV1G6EqBsdCvjkFfCMAzTXsQM017E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60391093/%E5%85%A7%E8%A4%B2%E8%A5%AA%E5%AD%90%E5%8F%AF%E4%BB%A5%E4%B8%80%E8%B5%B7%E6%B7%B7%E6%B4%97-%E7%9A%AE%E8%86%9A%E5%B0%88%E5%AE%B6%E6%8F%AD%E7%9C%9F%E7%9B%B8-%E6%BB%BF%E8%B6%B33%E6%A2%9D%E4%BB%B6%E8%A1%A3%E7%89%A9%E6%9B%B4%E4%B9%BE%E6%B7%A8",
-    "timestamp": "2026-11-24T02:18:52.691Z",
     "strategy": ".content-card__main"
   }
 ];
