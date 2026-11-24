@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T11:19:57.339Z
+// Last updated: 2026-11-24T11:59:06.236Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "尖沙咀IKEA美食站雪糕樣本大腸菌群含量超標五成　食安中心令停售",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201983544117694464316540.jpeg/gbsnxyITnlbmQGrjhj1jKXma5ywXJIjYEffnchH353I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414572/%E5%B0%96%E6%B2%99%E5%92%80ikea%E7%BE%8E%E9%A3%9F%E7%AB%99%E9%9B%AA%E7%B3%95%E6%A8%A3%E6%9C%AC%E5%A4%A7%E8%85%B8%E8%8F%8C%E7%BE%A4%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%99%E4%BA%94%E6%88%90-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E4%BB%A4%E5%81%9C%E5%94%AE",
+    "timestamp": "2026-11-24T11:59:06.236Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁洪元爆開房醜聞唱情歌求復合失敗！模特妻IG證結束37天閃電婚姻",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091524120337715200694120.jpeg/7EuwYChn-CXUbImttmkAXDusa0AngMFvYVMjjWFTI40?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414329/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%B3%A2-%E9%98%BF%E9%87%8C%E6%98%9F%E6%B4%B2%E5%AD%90%E5%85%AC%E5%8F%B8%E9%81%AD%E7%BE%8E%E5%88%97%E9%BB%91%E5%90%8D%E5%96%AE-%E6%80%A5%E5%90%A6%E8%AA%8D%E8%BD%89%E5%94%AE%E5%8F%97%E9%99%90%E6%99%B6%E7%89%87",
     "timestamp": "2026-11-24T04:59:04.062Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黎紀君迎33歲生日劉愷威全程黏實女友　被友人戲稱：劉總理黎師奶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201845276596244480286439.jpeg/U4sJKNrSCAhz4jMQ8sUuUzrpFPCypYld_mUv-f5lL_k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414232/%E9%BB%8E%E7%B4%80%E5%90%9B%E8%BF%8E33%E6%AD%B2%E7%94%9F%E6%97%A5%E5%8A%89%E6%84%B7%E5%A8%81%E5%85%A8%E7%A8%8B%E9%BB%8F%E5%AF%A6%E5%A5%B3%E5%8F%8B-%E8%A2%AB%E5%8F%8B%E4%BA%BA%E6%88%B2%E7%A8%B1-%E5%8A%89%E7%B8%BD%E7%90%86%E9%BB%8E%E5%B8%AB%E5%A5%B6",
-    "timestamp": "2026-11-24T04:34:03.660Z",
     "strategy": ".content-card__main"
   }
 ];
