@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T10:20:09.656Z
+// Last updated: 2026-11-24T10:59:09.377Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Pokémon CASETiFY 30週年聯乘12.1開賣！像素精靈球AirPods套超靚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201971095930933248643018.jpeg/QB6OM7gn4UfhkSZ9OXBUA1fYaY2EyWGcEvTtfBL07Xw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414558/pok%C3%A9mon-x-casetify-30%E9%80%B1%E5%B9%B4%E8%81%AF%E4%B9%98%E5%A4%A7%E5%83%8F%E7%B4%A0%E9%A2%A8%E6%A0%BC-%E7%B2%BE%E9%9D%88%E7%90%83airpods%E5%A5%97%E5%BF%85%E6%90%B6",
+    "timestamp": "2026-11-24T10:59:09.377Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高考450分入釜山大學！5件事起底《我的有罪之人》任時完學霸履歷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260103/1084252006119378944795140.jpeg/A3-HKDKs1mdlddg6Vm19liOEUFVg9ZzAfUL2IFhC9iA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60414311/%E9%A6%99%E6%B8%AF%E5%A4%A9%E6%96%87%E5%8F%B0%E5%A4%A9%E6%B0%A3-%E7%89%B9%E5%88%A5%E6%8F%90%E7%A4%BA-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E6%99%9A%E6%B8%85%E6%B6%BC-%E4%BD%8E%E7%AA%AA%E6%98%8E%E6%99%9A%E6%88%96%E6%B0%B4%E6%B5%B8",
     "timestamp": "2026-11-24T04:22:27.884Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "譚詠麟因一事憂心失眠勁嚴重：老闆和管理層真係有好大問題",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201864137894793216935718.jpeg/RfGlXGeyMOrSPnalFpCkbQebnvVnTPz-tynFabcpxWk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414299/%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%9B%A0%E4%B8%80%E4%BA%8B%E6%86%82%E5%BF%83%E5%A4%B1%E7%9C%A0%E5%8B%81%E5%9A%B4%E9%87%8D-%E8%80%81%E9%97%86%E5%92%8C%E7%AE%A1%E7%90%86%E5%B1%A4%E7%9C%9F%E4%BF%82%E6%9C%89%E5%A5%BD%E5%A4%A7%E5%95%8F%E9%A1%8C",
-    "timestamp": "2026-11-24T03:59:13.893Z",
     "strategy": ".content-card__main"
   }
 ];
