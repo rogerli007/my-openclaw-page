@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T01:31:09.137Z
+// Last updated: 2026-11-24T01:48:27.612Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "張國強專訪｜讚內地短劇製作規格香港未必有　勉港星「以戰養戰」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201586618729762816341682.png/S4LvLBOEElW-d4KIXhN8u1CH7yaCPj2vyvuKbMr7imw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414060/%E5%BC%B5%E5%9C%8B%E5%BC%B7%E5%B0%88%E8%A8%AA-%E8%AE%9A%E5%85%A7%E5%9C%B0%E7%9F%AD%E5%8A%87%E8%A3%BD%E4%BD%9C%E8%A6%8F%E6%A0%BC%E9%A6%99%E6%B8%AF%E6%9C%AA%E5%BF%85%E6%9C%89-%E5%8B%89%E6%B8%AF%E6%98%9F-%E4%BB%A5%E6%88%B0%E9%A4%8A%E6%88%B0",
+    "timestamp": "2026-11-24T01:48:27.612Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄招聘網驚現40名北韓女工打包出租　標榜擅長包飯卷九成薪被抽佣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201718547022090240415078.jpeg/XfRd863uvjDQa8xrws-hQO3fDX2o8QQoFcr9_BXK_fw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414186/%E6%B6%88%E5%A7%94%E6%9C%83%E6%95%99%E6%8F%80%E7%BE%BD%E7%B5%A86%E5%A4%A7%E8%A6%81%E8%A8%A3-%E5%BF%85%E5%AD%B8%E7%9C%8B%E6%A8%99%E7%B1%A4%E7%BE%BD%E6%AF%9B%E6%88%90%E4%BB%BD%E6%AF%94%E4%BE%8B-%E8%B2%B7%E5%89%8D%E8%A6%81%E7%B4%B0%E5%BF%83%E8%A7%B8%E6%91%B8",
     "timestamp": "2026-11-23T18:33:25.913Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀銘記劉松仁座右銘：演員要無所不用其極誘引對手",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200863998858235904724569.jpeg/mDcmP-uU-hoSNM5LlOTh6ChhqwjPDjOJtXJNWLVyTVg",
-    "url": "https://www.hk01.com/01TV/60413477/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%8A%98%E8%A8%98%E5%8A%89%E6%9D%BE%E4%BB%81%E5%BA%A7%E5%8F%B3%E9%8A%98-%E6%BC%94%E5%93%A1%E8%A6%81%E7%84%A1%E6%89%80%E4%B8%8D%E7%94%A8%E5%85%B6%E6%A5%B5%E8%AA%98%E5%BC%95%E5%B0%8D%E6%89%8B",
-    "timestamp": "2026-11-23T18:22:08.055Z",
     "strategy": ".content-card__main"
   }
 ];
