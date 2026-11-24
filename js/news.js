@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T07:32:18.883Z
+// Last updated: 2026-11-24T07:45:30.153Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "兩京十五日線上看分集劇情｜最新更新時間+追劇日曆+演員簡介",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200053413308534784612835.jpeg/Q2-gk0A-g-MUQWaVkNRUixE1FLJ2PSaErFecMaxXnDE?v=w1920",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60412573/%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8A%87%E6%83%85-%E6%9C%80%E6%96%B0%E8%BF%BD%E5%8A%87%E6%97%A5%E6%9B%86-%E6%9B%B4%E6%96%B0%E6%99%82%E9%96%93-%E6%BC%94%E5%93%A1%E9%97%9C%E4%BF%82%E5%9C%96-%E7%B0%A1%E4%BB%8B",
+    "timestamp": "2026-11-24T07:45:30.153Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石壁監獄43歲在囚男被打傷面額　懲教人員制止37歲施襲囚友",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201513484676763648048291.png/eBOQxMyvi4voFQdA0Kd2zCK3jdLHP0MpeeLXb3ni128?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382060/%E4%BF%84%E6%8B%9B%E8%81%98%E7%B6%B2%E9%A9%9A%E7%8F%BE40%E5%90%8D%E5%8C%97%E9%9F%93%E5%A5%B3%E5%B7%A5%E6%89%93%E5%8C%85%E5%87%BA%E7%A7%9F-%E6%A8%99%E6%A6%9C%E6%93%85%E9%95%B7%E5%8C%85%E9%A3%AF%E5%8D%B7%E4%B9%9D%E6%88%90%E8%96%AA%E8%A2%AB%E6%8A%BD%E4%BD%A3",
     "timestamp": "2026-11-24T01:31:09.137Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑援助基金推新生活支援補助　業主獲30萬　罹難者家屬獲20萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200815861124829184374908.jpeg/97nUTPchQomciHqGjHtAI2-lX6FUSk4ow-VbnOblW5w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414200/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91%E6%8E%A8%E6%96%B0%E7%94%9F%E6%B4%BB%E6%94%AF%E6%8F%B4%E8%A3%9C%E5%8A%A9-%E6%A5%AD%E4%B8%BB%E7%8D%B230%E8%90%AC-%E7%BD%B9%E9%9B%A3%E8%80%85%E5%AE%B6%E5%B1%AC%E7%8D%B220%E8%90%AC",
-    "timestamp": "2026-11-24T00:54:54.419Z",
     "strategy": ".content-card__main"
   }
 ];
