@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T17:19:54.902Z
+// Last updated: 2026-11-24T17:59:02.076Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王毅通話英國外交大臣　願同英方一道推動兩國關係成熟穩健發展",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20230302/707919364883484672503174.jpeg/Sgx0c322iVVxmABA_8zDdN1HQM3nhNbAy6X2osul9qI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414620/%E7%8E%8B%E6%AF%85%E9%80%9A%E8%A9%B1%E8%8B%B1%E5%9C%8B%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3-%E9%A1%98%E5%90%8C%E8%8B%B1%E6%96%B9%E4%B8%80%E9%81%93%E6%8E%A8%E5%8B%95%E5%85%A9%E5%9C%8B%E9%97%9C%E4%BF%82%E6%88%90%E7%86%9F%E7%A9%A9%E5%81%A5%E7%99%BC%E5%B1%95",
+    "timestamp": "2026-11-24T17:59:02.076Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅通話英國外交大臣　願同英方一道推動兩國關係成熟穩健發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240209/832561132546822144324187.jpeg/yHvt8grYinwtNVE5G7pVnoq0rVXprtUuxonVR8aJ1Uc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414444/129%E6%AC%BE%E6%96%B0%E8%BB%8A%E4%BB%8D%E8%B3%A3%E4%B8%8D%E5%8B%95-%E5%85%A7%E5%9C%B0%E8%BB%8A%E5%B8%82%E4%BB%8A%E5%B9%B4%E6%96%99%E5%B0%91%E8%B3%A3524%E8%90%AC%E8%BC%9B-%E5%9B%9E%E5%88%B012%E5%B9%B4%E5%89%8D",
     "timestamp": "2026-11-24T09:33:46.309Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港怡醫院手機程式外泄49萬病人資料　據悉院方已報警　暫沒接勒索",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/1376329/org/8ea09f820945d7a020b0a27bde18f5ba.JPG/8q8ZDlHwinjytpAHjBFb3xyHN4AlZb2fWgZHvloGR74?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414487/%E6%B8%AF%E6%80%A1%E9%86%AB%E9%99%A2%E6%89%8B%E6%A9%9F%E7%A8%8B%E5%BC%8F%E5%A4%96%E6%B3%8449%E8%90%AC%E7%97%85%E4%BA%BA%E8%B3%87%E6%96%99-%E6%93%9A%E6%82%89%E9%99%A2%E6%96%B9%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E6%9A%AB%E6%B2%92%E6%8E%A5%E5%8B%92%E7%B4%A2",
-    "timestamp": "2026-11-24T09:22:10.299Z",
     "strategy": ".content-card__main"
   }
 ];
