@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T03:59:13.893Z
+// Last updated: 2026-11-24T04:22:27.884Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "香港天文台天氣｜特別提示：未來一兩日早晚清涼　低窪明晚或水浸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260103/1084252006119378944795140.jpeg/A3-HKDKs1mdlddg6Vm19liOEUFVg9ZzAfUL2IFhC9iA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60414311/%E9%A6%99%E6%B8%AF%E5%A4%A9%E6%96%87%E5%8F%B0%E5%A4%A9%E6%B0%A3-%E7%89%B9%E5%88%A5%E6%8F%90%E7%A4%BA-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E6%99%9A%E6%B8%85%E6%B6%BC-%E4%BD%8E%E7%AA%AA%E6%98%8E%E6%99%9A%E6%88%96%E6%B0%B4%E6%B5%B8",
+    "timestamp": "2026-11-24T04:22:27.884Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "譚詠麟因一事憂心失眠勁嚴重：老闆和管理層真係有好大問題",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201751960647110656730124.png/I5Y1LMBGV3Uw-gWuQpYsf5kkmX9BUiZdMyOf7TMjn-0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414192/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E5%8D%B3%E6%97%A5%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E7%8D%B2%E5%93%A1%E5%B7%A5%E6%AD%A1%E8%BF%8E-%E7%A8%B1%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BB%BBceo%E6%9C%83%E5%81%9A%E5%BE%97%E6%9B%B4%E5%A5%BD",
     "timestamp": "2026-11-23T21:29:50.869Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳復職｜即日重返公司獲員工歡迎　稱第二次任CEO會做得更好",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201751960647110656730124.png/I5Y1LMBGV3Uw-gWuQpYsf5kkmX9BUiZdMyOf7TMjn-0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414192/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E5%8D%B3%E6%97%A5%E9%87%8D%E8%BF%94%E5%85%AC%E5%8F%B8%E7%8D%B2%E5%93%A1%E5%B7%A5%E6%AD%A1%E8%BF%8E-%E7%A8%B1%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BB%BBceo%E6%9C%83%E5%81%9A%E5%BE%97%E6%9B%B4%E5%A5%BD",
-    "timestamp": "2026-11-23T20:59:02.503Z",
     "strategy": ".content-card__main"
   }
 ];
