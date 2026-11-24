@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T10:59:09.377Z
+// Last updated: 2026-11-24T11:19:57.339Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "梁洪元爆開房醜聞唱情歌求復合失敗！模特妻IG證結束37天閃電婚姻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201965422480461824671502.png/_JyU-zqPmwJWKECv1Lr-eQzh25X2F7E2MGfLGDBnyxg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414464/%E6%A2%81%E6%B4%AA%E5%85%83%E7%88%86%E9%96%8B%E6%88%BF%E9%86%9C%E8%81%9E%E5%94%B1%E6%83%85%E6%AD%8C%E6%B1%82%E5%BE%A9%E5%90%88%E5%A4%B1%E6%95%97-%E6%A8%A1%E7%89%B9%E5%A6%BBig%E8%AD%89%E7%B5%90%E6%9D%9F37%E5%A4%A9%E9%96%83%E9%9B%BB%E5%A9%9A%E5%A7%BB",
+    "timestamp": "2026-11-24T11:19:57.339Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Pokémon CASETiFY 30週年聯乘12.1開賣！像素精靈球AirPods套超靚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201845276596244480286439.jpeg/U4sJKNrSCAhz4jMQ8sUuUzrpFPCypYld_mUv-f5lL_k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414232/%E9%BB%8E%E7%B4%80%E5%90%9B%E8%BF%8E33%E6%AD%B2%E7%94%9F%E6%97%A5%E5%8A%89%E6%84%B7%E5%A8%81%E5%85%A8%E7%A8%8B%E9%BB%8F%E5%AF%A6%E5%A5%B3%E5%8F%8B-%E8%A2%AB%E5%8F%8B%E4%BA%BA%E6%88%B2%E7%A8%B1-%E5%8A%89%E7%B8%BD%E7%90%86%E9%BB%8E%E5%B8%AB%E5%A5%B6",
     "timestamp": "2026-11-24T04:34:03.660Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港天文台天氣｜特別提示：未來一兩日早晚清涼　低窪明晚或水浸",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260103/1084252006119378944795140.jpeg/A3-HKDKs1mdlddg6Vm19liOEUFVg9ZzAfUL2IFhC9iA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60414311/%E9%A6%99%E6%B8%AF%E5%A4%A9%E6%96%87%E5%8F%B0%E5%A4%A9%E6%B0%A3-%E7%89%B9%E5%88%A5%E6%8F%90%E7%A4%BA-%E6%9C%AA%E4%BE%86%E4%B8%80%E5%85%A9%E6%97%A5%E6%97%A9%E6%99%9A%E6%B8%85%E6%B6%BC-%E4%BD%8E%E7%AA%AA%E6%98%8E%E6%99%9A%E6%88%96%E6%B0%B4%E6%B5%B8",
-    "timestamp": "2026-11-24T04:22:27.884Z",
     "strategy": ".content-card__main"
   }
 ];
