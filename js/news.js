@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T05:21:35.781Z
+// Last updated: 2026-11-24T05:45:50.296Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "易烊千璽蒙語新歌《Namuuhan》明日上線！歌名疑與經典名曲有淵源",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201866563804729344720845.png/bFwkcHU3Zlvg5WWk8Ezf4edX01GaNiWNxCkRScQpEUk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414257/%E6%98%93%E7%83%8A%E5%8D%83%E7%92%BD%E8%92%99%E8%AA%9E%E6%96%B0%E6%AD%8C-namuuhan-%E6%98%8E%E6%97%A5%E4%B8%8A%E7%B7%9A-%E6%AD%8C%E5%90%8D%E7%96%91%E8%88%87%E7%B6%93%E5%85%B8%E5%90%8D%E6%9B%B2%E6%9C%89%E6%B7%B5%E6%BA%90",
+    "timestamp": "2026-11-24T05:45:50.296Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "油價飆升救鋰價？中國電動貨車銷量增68%　寧德時代看好未來商機",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414182/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%88%AD%E5%8F%96%E8%81%96%E8%AA%95%E5%89%8D%E4%BF%83%E6%88%90%E7%83%8F%E4%BF%84%E7%BE%8E%E6%AD%90%E5%9B%9B%E6%96%B9%E6%9C%83%E8%AB%87",
     "timestamp": "2026-11-23T22:45:21.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：料中國將同意再買250架波音飛機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250822/1035509377739526144521469.jpeg/VsRfjCHlN3CFefOtt87fgADtQobRWyzAsEmwm7BJsJs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414188/%E7%89%B9%E6%9C%97%E6%99%AE-%E6%96%99%E4%B8%AD%E5%9C%8B%E5%B0%87%E5%90%8C%E6%84%8F%E5%86%8D%E8%B2%B7250%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9B%E6%A9%9F",
-    "timestamp": "2026-11-23T22:29:55.882Z",
     "strategy": ".content-card__main"
   }
 ];
