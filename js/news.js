@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T17:59:02.076Z
+// Last updated: 2026-11-24T18:22:16.993Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993999691550720630471.jpeg/k3JSWZ0DXm7_nW9w9YVWJPVYtfMFjBdpL5Nvny-Tb58?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414621/wsj-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A7%E6%95%B8%E5%8D%81%E5%9C%8B%E5%AE%B6%E5%8A%A0%E9%97%9C%E7%A8%85-%E8%8F%AF%E5%BA%9C%E7%A8%B1%E5%9B%A0%E6%90%8D%E5%AE%B3%E7%BE%8E%E4%BC%81%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-11-24T18:22:16.993Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王毅通話英國外交大臣　願同英方一道推動兩國關係成熟穩健發展",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201953127675203584019426.jpeg/PPuX23HA_Q85BFfdb0Y712wG0853ClTvO91-_Dvdfvw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414445/%E6%B7%B1%E5%9C%B3%E8%A1%9E%E5%81%A5%E5%A7%94%E8%AD%A6%E5%91%8A%E5%8B%BF%E7%94%A8%E7%B4%8D%E7%B1%B3%E6%B5%B7%E7%B6%BF%E6%B4%97%E7%A2%97-%E6%AF%8F%E7%A3%A8%E6%90%8D1%E5%85%8B%E9%87%8B%E6%94%BE650%E8%90%AC%E5%BE%AE%E5%A1%91%E8%86%A0",
     "timestamp": "2026-11-24T09:45:34.570Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "129款新車仍賣不動　內地車市今年料少賣524萬輛　回到12年前？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240209/832561132546822144324187.jpeg/yHvt8grYinwtNVE5G7pVnoq0rVXprtUuxonVR8aJ1Uc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414444/129%E6%AC%BE%E6%96%B0%E8%BB%8A%E4%BB%8D%E8%B3%A3%E4%B8%8D%E5%8B%95-%E5%85%A7%E5%9C%B0%E8%BB%8A%E5%B8%82%E4%BB%8A%E5%B9%B4%E6%96%99%E5%B0%91%E8%B3%A3524%E8%90%AC%E8%BC%9B-%E5%9B%9E%E5%88%B012%E5%B9%B4%E5%89%8D",
-    "timestamp": "2026-11-24T09:33:46.309Z",
     "strategy": ".content-card__main"
   }
 ];
