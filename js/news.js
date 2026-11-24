@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T05:59:07.163Z
+// Last updated: 2026-11-24T06:28:12.046Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本兩男女墮軌死亡　南海電鐵停駛2小時13萬人受影響",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201897148933738496268439.jpeg/4vdWzxHgHHHhCOw60qqP_L7BNHcCqhlUCo6hNQqOoTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414353/%E6%97%A5%E6%9C%AC%E5%85%A9%E7%94%B7%E5%A5%B3%E5%A2%AE%E8%BB%8C%E6%AD%BB%E4%BA%A1-%E5%8D%97%E6%B5%B7%E9%9B%BB%E9%90%B5%E5%81%9C%E9%A7%9B2%E5%B0%8F%E6%99%8213%E8%90%AC%E4%BA%BA%E5%8F%97%E5%BD%B1%E9%9F%BF",
+    "timestamp": "2026-11-24T06:28:12.046Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "接連多間機構客戶資料外泄　私隱署籲加強保安　市民提防精準詐騙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201588216537288704532478.png/o9-7Mjp6x6HXli64te_s40alFqV3pMAnEymHqBMph6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60396192/%E5%AE%B6%E5%B1%85%E6%A9%9F%E6%A2%B0%E4%BA%BA%E7%95%B6%E9%81%9B%E7%8B%97%E5%93%A1%E6%98%AF%E8%B3%8A%E5%96%8A%E5%A0%B1%E8%AD%A6-%E4%B8%BB%E4%BA%BA%E9%80%9A%E8%A9%B1%E8%A6%81%E8%A7%A3%E7%AD%94%E8%80%83%E9%A1%8C%E9%98%B2ai%E9%9B%BB%E8%A9%B1%E8%A9%90%E9%A8%99",
     "timestamp": "2026-11-23T23:19:56.116Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺公路3車串燒相撞釀2傷　往上水方向部份行車線封閉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201789424292073472531649.jpeg/R2pnabILKLHCk22bbGgScG_fDgVS-TQDBXTfbwV0328?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414195/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF3%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E5%BE%80%E4%B8%8A%E6%B0%B4%E6%96%B9%E5%90%91%E9%83%A8%E4%BB%BD%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%B0%81%E9%96%89",
-    "timestamp": "2026-11-23T22:58:57.419Z",
     "strategy": ".content-card__main"
   }
 ];
