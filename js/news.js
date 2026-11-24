@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T21:59:12.383Z
+// Last updated: 2026-11-24T22:19:30.803Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "北角男子受傷倒地　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202142516082642944976148.jpeg/frc05GbNnbqB2PF4CzDFrTggCChsCbfuzPb31vb299Y?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414632/%E5%8C%97%E8%A7%92%E7%94%B7%E5%AD%90%E5%8F%97%E5%82%B7%E5%80%92%E5%9C%B0-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-11-24T22:19:30.803Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "路透：Shein被美FTC指控誤導消費者　願支付1億美元和解",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202038460081246208384972.jpeg/9s-TSP9tsbsx80qyXk6k4aLsPgR8-sroV2sOYVdrDmE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414612/%E6%B6%88%E5%A7%94%E6%9C%835%E5%A4%A7%E4%BD%BF%E7%94%A8%E9%9B%BB%E7%86%B1%E6%B0%88%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97-%E9%95%B7%E6%99%82%E9%96%93%E6%8E%A5%E8%A7%B8%E6%88%96%E6%9C%89%E6%A9%9F%E6%9C%83%E9%80%A0%E6%88%90%E7%87%99%E5%82%B7",
     "timestamp": "2026-11-24T16:22:10.560Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美股｜英偉達早段回吐逾6%　道指最新升逾百點　納指挫逾1%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250529/1004894676605472768376024.jpeg/iqzPKOj7JcSNx3oGiU4TGDGAQwgoE4OSf6dts3-nbbM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414609/%E7%BE%8E%E8%82%A1-%E8%8B%B1%E5%81%89%E9%81%94%E6%97%A9%E6%AE%B5%E5%9B%9E%E5%90%90%E9%80%BE6-%E9%81%93%E6%8C%87%E6%9C%80%E6%96%B0%E5%8D%87%E9%80%BE%E7%99%BE%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%8C%AB%E9%80%BE1",
-    "timestamp": "2026-11-24T15:46:04.086Z",
     "strategy": ".content-card__main"
   }
 ];
