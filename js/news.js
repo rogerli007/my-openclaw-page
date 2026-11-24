@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T18:22:16.993Z
+// Last updated: 2026-11-24T18:33:12.708Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993999691550720630471.jpeg/k3JSWZ0DXm7_nW9w9YVWJPVYtfMFjBdpL5Nvny-Tb58?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414621/wsj-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A7%E6%95%B8%E5%8D%81%E5%9C%8B%E5%AE%B6%E5%8A%A0%E9%97%9C%E7%A8%85-%E8%8F%AF%E5%BA%9C%E7%A8%B1%E5%9B%A0%E6%90%8D%E5%AE%B3%E7%BE%8E%E4%BC%81%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-11-24T18:33:12.708Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201925666639974400015247.png/0XcTiLhCmbHycVLQ4zwq4N1nxhySH-CmT8HkJ0_B5Cc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414374/%E9%AB%98%E8%80%83450%E5%88%86%E5%85%A5%E9%87%9C%E5%B1%B1%E5%A4%A7%E5%AD%B8-5%E4%BB%B6%E4%BA%8B%E8%B5%B7%E5%BA%95-%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA-%E4%BB%BB%E6%99%82%E5%AE%8C%E5%AD%B8%E9%9C%B8%E5%B1%A5%E6%AD%B7",
     "timestamp": "2026-11-24T10:20:09.656Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "深圳衞健委警告勿用納米海綿洗碗 每磨損1克釋放650萬微塑膠",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201953127675203584019426.jpeg/PPuX23HA_Q85BFfdb0Y712wG0853ClTvO91-_Dvdfvw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414445/%E6%B7%B1%E5%9C%B3%E8%A1%9E%E5%81%A5%E5%A7%94%E8%AD%A6%E5%91%8A%E5%8B%BF%E7%94%A8%E7%B4%8D%E7%B1%B3%E6%B5%B7%E7%B6%BF%E6%B4%97%E7%A2%97-%E6%AF%8F%E7%A3%A8%E6%90%8D1%E5%85%8B%E9%87%8B%E6%94%BE650%E8%90%AC%E5%BE%AE%E5%A1%91%E8%86%A0",
-    "timestamp": "2026-11-24T09:45:34.570Z",
     "strategy": ".content-card__main"
   }
 ];
