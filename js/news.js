@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T05:45:50.296Z
+// Last updated: 2026-11-24T05:59:07.163Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "接連多間機構客戶資料外泄　私隱署籲加強保安　市民提防精準詐騙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261116/1198957309783445504015927.jpeg/Yhokvppip8AgV46ojB-4bKJpB6ojIJSeUgXUMVIF1DE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414350/%E6%8E%A5%E9%80%A3%E5%A4%9A%E9%96%93%E6%A9%9F%E6%A7%8B%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84-%E7%A7%81%E9%9A%B1%E7%BD%B2%E7%B1%B2%E5%8A%A0%E5%BC%B7%E4%BF%9D%E5%AE%89-%E5%B8%82%E6%B0%91%E6%8F%90%E9%98%B2%E7%B2%BE%E6%BA%96%E8%A9%90%E9%A8%99",
+    "timestamp": "2026-11-24T05:59:07.163Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "易烊千璽蒙語新歌《Namuuhan》明日上線！歌名疑與經典名曲有淵源",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201789424292073472531649.jpeg/R2pnabILKLHCk22bbGgScG_fDgVS-TQDBXTfbwV0328?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414195/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF3%E8%BB%8A%E4%B8%B2%E7%87%92%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E5%BE%80%E4%B8%8A%E6%B0%B4%E6%96%B9%E5%90%91%E9%83%A8%E4%BB%BD%E8%A1%8C%E8%BB%8A%E7%B7%9A%E5%B0%81%E9%96%89",
     "timestamp": "2026-11-23T22:58:57.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "澤連斯基：爭取聖誕前促成烏俄美歐四方會談",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261023/1190153411257962496276458.jpeg/H4ICs4hx_AnEtrcd5PUvYIAZo4h64UZqHWJFOR1iRTk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414182/%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%88%AD%E5%8F%96%E8%81%96%E8%AA%95%E5%89%8D%E4%BF%83%E6%88%90%E7%83%8F%E4%BF%84%E7%BE%8E%E6%AD%90%E5%9B%9B%E6%96%B9%E6%9C%83%E8%AB%87",
-    "timestamp": "2026-11-23T22:45:21.427Z",
     "strategy": ".content-card__main"
   }
 ];
