@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T07:21:28.129Z
+// Last updated: 2026-11-24T07:32:18.883Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石壁監獄43歲在囚男被打傷面額　懲教人員制止37歲施襲囚友",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2064521/org/31ee8c1d0f8835f59f17ac7e7bc6c7fe.JPG/DUvXjeX8LeRIIHQyscZuL58BFa_6-IDwzZD8aM2Q_Gg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414411/%E7%9F%B3%E5%A3%81%E7%9B%A3%E7%8D%8443%E6%AD%B2%E5%9C%A8%E5%9B%9A%E7%94%B7%E8%A2%AB%E6%89%93%E5%82%B7%E9%9D%A2%E9%A1%8D-%E6%87%B2%E6%95%99%E4%BA%BA%E5%93%A1%E5%88%B6%E6%AD%A237%E6%AD%B2%E6%96%BD%E8%A5%B2%E5%9B%9A%E5%8F%8B",
+    "timestamp": "2026-11-24T07:32:18.883Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高市早苗陷學歷造假疑雲　遲1年取得大學學位　舊同學揭背後辛酸",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200815861124829184374908.jpeg/97nUTPchQomciHqGjHtAI2-lX6FUSk4ow-VbnOblW5w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414200/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%8F%B4%E5%8A%A9%E5%9F%BA%E9%87%91%E6%8E%A8%E6%96%B0%E7%94%9F%E6%B4%BB%E6%94%AF%E6%8F%B4%E8%A3%9C%E5%8A%A9-%E6%A5%AD%E4%B8%BB%E7%8D%B230%E8%90%AC-%E7%BD%B9%E9%9B%A3%E8%80%85%E5%AE%B6%E5%B1%AC%E7%8D%B220%E8%90%AC",
     "timestamp": "2026-11-24T00:54:54.419Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "金馬獎2026｜袁澧林早在日本打響名堂　曾獲封頂級模特今榮膺影后",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201316392586973184379240.jpeg/8vQlbiWAo2Wz6PQ4D-W8estcivAC2-fMuBmJBrgZiQY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413774/%E9%87%91%E9%A6%AC%E7%8D%8E2026-%E8%A2%81%E6%BE%A7%E6%9E%97%E6%97%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%89%93%E9%9F%BF%E5%90%8D%E5%A0%82-%E6%9B%BE%E7%8D%B2%E5%B0%81%E9%A0%82%E7%B4%9A%E6%A8%A1%E7%89%B9%E4%BB%8A%E6%A6%AE%E8%86%BA%E5%BD%B1%E5%90%8E",
-    "timestamp": "2026-11-24T00:35:21.740Z",
     "strategy": ".content-card__main"
   }
 ];
