@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T11:59:06.236Z
+// Last updated: 2026-11-24T12:48:48.958Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "六合彩幸運二金多寶｜加碼制今晚9時半攪珠　一注獨中可得7300萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201566787603271680130478.jpeg/J3zti1XjZ8-uDUoer1NR2oAeJQkHCo7_HAeijRwHoo0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414326/%E5%85%AD%E5%90%88%E5%BD%A9%E5%B9%B8%E9%81%8B%E4%BA%8C%E9%87%91%E5%A4%9A%E5%AF%B6-%E5%8A%A0%E7%A2%BC%E5%88%B6%E4%BB%8A%E6%99%9A9%E6%99%82%E5%8D%8A%E6%94%AA%E7%8F%A0-%E4%B8%80%E6%B3%A8%E7%8D%A8%E4%B8%AD%E5%8F%AF%E5%BE%977300%E8%90%AC",
+    "timestamp": "2026-11-24T12:48:48.958Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "尖沙咀IKEA美食站雪糕樣本大腸菌群含量超標五成　食安中心令停售",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201882978674806784483150.png/wfM8Rs9wFT-8sAdvWBppqTrBXV7WlwA7uYeo1rmHqNY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414339/%E6%B2%B9%E5%83%B9%E9%A3%86%E5%8D%87%E6%95%91%E9%8B%B0%E5%83%B9-%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%8B%95%E8%B2%A8%E8%BB%8A%E9%8A%B7%E9%87%8F%E5%A2%9E68-%E5%AF%A7%E5%BE%B7%E6%99%82%E4%BB%A3%E7%9C%8B%E5%A5%BD%E6%9C%AA%E4%BE%86%E5%95%86%E6%A9%9F",
     "timestamp": "2026-11-24T05:21:35.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳風波｜阿里星洲子公司遭美列黑名單！ 急否認轉售受限晶片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260124/1091524120337715200694120.jpeg/7EuwYChn-CXUbImttmkAXDusa0AngMFvYVMjjWFTI40?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414329/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%B3%A2-%E9%98%BF%E9%87%8C%E6%98%9F%E6%B4%B2%E5%AD%90%E5%85%AC%E5%8F%B8%E9%81%AD%E7%BE%8E%E5%88%97%E9%BB%91%E5%90%8D%E5%96%AE-%E6%80%A5%E5%90%A6%E8%AA%8D%E8%BD%89%E5%94%AE%E5%8F%97%E9%99%90%E6%99%B6%E7%89%87",
-    "timestamp": "2026-11-24T04:59:04.062Z",
     "strategy": ".content-card__main"
   }
 ];
