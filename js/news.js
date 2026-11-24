@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T20:45:33.276Z
+// Last updated: 2026-11-24T20:59:04.882Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀《親親我好媽》收視破30點：劇集大捷後主動向編導致歉",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869491584536576907461.jpeg/5PTZPKEVzhfeJS6xDX2uVrlihv6cEj3zf3CnE39wpxM",
+    "url": "https://www.hk01.com/01TV/60413490/%E6%B1%9F%E7%BE%8E%E5%84%80-%E8%A6%AA%E8%A6%AA%E6%88%91%E5%A5%BD%E5%AA%BD-%E6%94%B6%E8%A6%96%E7%A0%B430%E9%BB%9E-%E5%8A%87%E9%9B%86%E5%A4%A7%E6%8D%B7%E5%BE%8C%E4%B8%BB%E5%8B%95%E5%90%91%E7%B7%A8%E5%B0%8E%E8%87%B4%E6%AD%89",
+    "timestamp": "2026-11-24T20:59:04.882Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀《親親我好媽》收視破30點：劇集大捷後主動向編導致歉",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202020112710766592175968.jpeg/k2Z-_ZO8GGgtY_p3Ub6FP2qvrDHFM9h1Fngb_RZ4G_0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414601/%E5%8A%89%E5%85%86%E9%8A%98%E8%BF%BD%E6%80%9D%E6%9C%83-%E6%B1%AA%E6%98%8E%E8%8D%83%E8%87%B4%E6%95%AC%E6%81%A9%E5%B8%AB-%E5%A0%B4%E5%88%8A%E5%85%AC%E9%96%8B%E8%88%87%E4%BA%A1%E5%A6%BB%E7%8F%8D%E8%B2%B4%E5%BE%A9%E5%8F%A4%E7%B5%90%E5%A9%9A%E7%85%A7",
     "timestamp": "2026-11-24T14:45:40.694Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "兩京十五日｜林更新降格男二為成毅太子改劇本！劇版改編惹怒書迷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201935162414206976427815.png/S2WcF7DIKw4foYd3V-0kx5c4UADzUb7rhMfGlYTHxpU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414423/%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E6%9E%97%E6%9B%B4%E6%96%B0%E9%99%8D%E6%A0%BC%E7%94%B7%E4%BA%8C%E7%82%BA%E6%88%90%E6%AF%85%E5%A4%AA%E5%AD%90%E6%94%B9%E5%8A%87%E6%9C%AC-%E5%8A%87%E7%89%88%E6%94%B9%E7%B7%A8%E6%83%B9%E6%80%92%E6%9B%B8%E8%BF%B7",
-    "timestamp": "2026-11-24T14:21:10.187Z",
     "strategy": ".content-card__main"
   }
 ];
