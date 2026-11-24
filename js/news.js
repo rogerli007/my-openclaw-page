@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T07:59:25.789Z
+// Last updated: 2026-11-24T08:18:19.253Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳復職｜黃仁勳12月3日出席國會聽證　民主黨人揚言擴大調查",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200747655756517376291873.jpeg/q2UgI4vQBtQ_P2Xhpf0ZgLnKbo85a_L-YcrS8GHK0vA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414399/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E9%BB%83%E4%BB%81%E5%8B%B312%E6%9C%883%E6%97%A5%E5%87%BA%E5%B8%AD%E5%9C%8B%E6%9C%83%E8%81%BD%E8%AD%89-%E6%B0%91%E4%B8%BB%E9%BB%A8%E4%BA%BA%E6%8F%9A%E8%A8%80%E6%93%B4%E5%A4%A7%E8%AA%BF%E6%9F%A5",
+    "timestamp": "2026-11-24T08:18:19.253Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大阪拉麵名店敗走！NEXT Shikaku12.15結業　牡蠣湯曾掀排隊潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261105/1195005759952261120941083.jpeg/0667-WZKpXKvNRqtMgxK2CXDJmrlulxBa5LurWuS7q0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60407457/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E9%96%8B-%E5%A4%A7%E5%A8%9B%E6%A8%82%E9%A8%B7-%E6%BC%94%E5%94%B1%E6%9C%832027-%E9%96%80%E7%A5%A8%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E5%BA%A7%E4%BD%8D%E8%A1%A8-%E9%80%A3%E7%B5%90",
     "timestamp": "2026-11-24T01:59:08.816Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "張國強專訪｜讚內地短劇製作規格香港未必有　勉港星「以戰養戰」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201586618729762816341682.png/S4LvLBOEElW-d4KIXhN8u1CH7yaCPj2vyvuKbMr7imw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414060/%E5%BC%B5%E5%9C%8B%E5%BC%B7%E5%B0%88%E8%A8%AA-%E8%AE%9A%E5%85%A7%E5%9C%B0%E7%9F%AD%E5%8A%87%E8%A3%BD%E4%BD%9C%E8%A6%8F%E6%A0%BC%E9%A6%99%E6%B8%AF%E6%9C%AA%E5%BF%85%E6%9C%89-%E5%8B%89%E6%B8%AF%E6%98%9F-%E4%BB%A5%E6%88%B0%E9%A4%8A%E6%88%B0",
-    "timestamp": "2026-11-24T01:48:27.612Z",
     "strategy": ".content-card__main"
   }
 ];
