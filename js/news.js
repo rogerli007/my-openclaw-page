@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T06:52:30.038Z
+// Last updated: 2026-11-24T07:21:28.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高市早苗陷學歷造假疑雲　遲1年取得大學學位　舊同學揭背後辛酸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260923/1179456436132909056561270.jpeg/oEDn5nM0ot62AmdKMk_b5z-OTL5QO8t6U-6iqlPuoqo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414379/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%99%B7%E5%AD%B8%E6%AD%B7%E9%80%A0%E5%81%87%E7%96%91%E9%9B%B2-%E9%81%B21%E5%B9%B4%E5%8F%96%E5%BE%97%E5%A4%A7%E5%AD%B8%E5%AD%B8%E4%BD%8D-%E8%88%8A%E5%90%8C%E5%AD%B8%E6%8F%AD%E8%83%8C%E5%BE%8C%E8%BE%9B%E9%85%B8",
+    "timestamp": "2026-11-24T07:21:28.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大批港迷Weverse帳號遭海外IP入侵　恐被盜會員搶演唱會優先飛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201316392586973184379240.jpeg/8vQlbiWAo2Wz6PQ4D-W8estcivAC2-fMuBmJBrgZiQY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60413774/%E9%87%91%E9%A6%AC%E7%8D%8E2026-%E8%A2%81%E6%BE%A7%E6%9E%97%E6%97%A9%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%89%93%E9%9F%BF%E5%90%8D%E5%A0%82-%E6%9B%BE%E7%8D%B2%E5%B0%81%E9%A0%82%E7%B4%9A%E6%A8%A1%E7%89%B9%E4%BB%8A%E6%A6%AE%E8%86%BA%E5%BD%B1%E5%90%8E",
     "timestamp": "2026-11-24T00:35:21.740Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐洲孤注一擲援助烏克蘭的真相：現實、幻覺與虛偽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261017/1188046433828212736309764.jpeg/vBBVGMA0C4Rl2jagpLz_UdqUxWjTac7BC_0-sAv9PrA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60413909/%E6%AD%90%E6%B4%B2%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%93%B2%E6%8F%B4%E5%8A%A9%E7%83%8F%E5%85%8B%E8%98%AD%E7%9A%84%E7%9C%9F%E7%9B%B8-%E7%8F%BE%E5%AF%A6-%E5%B9%BB%E8%A6%BA%E8%88%87%E8%99%9B%E5%81%BD",
-    "timestamp": "2026-11-23T23:58:57.998Z",
     "strategy": ".content-card__main"
   }
 ];
