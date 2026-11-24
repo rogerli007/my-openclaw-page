@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T18:45:10.313Z
+// Last updated: 2026-11-24T18:59:04.497Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993999691550720630471.jpeg/k3JSWZ0DXm7_nW9w9YVWJPVYtfMFjBdpL5Nvny-Tb58?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414621/wsj-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A7%E6%95%B8%E5%8D%81%E5%9C%8B%E5%AE%B6%E5%8A%A0%E9%97%9C%E7%A8%85-%E8%8F%AF%E5%BA%9C%E7%A8%B1%E5%9B%A0%E6%90%8D%E5%AE%B3%E7%BE%8E%E4%BC%81%E5%88%A9%E7%9B%8A",
+    "timestamp": "2026-11-24T18:59:04.497Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201965422480461824671502.png/_JyU-zqPmwJWKECv1Lr-eQzh25X2F7E2MGfLGDBnyxg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414464/%E6%A2%81%E6%B4%AA%E5%85%83%E7%88%86%E9%96%8B%E6%88%BF%E9%86%9C%E8%81%9E%E5%94%B1%E6%83%85%E6%AD%8C%E6%B1%82%E5%BE%A9%E5%90%88%E5%A4%B1%E6%95%97-%E6%A8%A1%E7%89%B9%E5%A6%BBig%E8%AD%89%E7%B5%90%E6%9D%9F37%E5%A4%A9%E9%96%83%E9%9B%BB%E5%A9%9A%E5%A7%BB",
     "timestamp": "2026-11-24T11:19:57.339Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Pokémon CASETiFY 30週年聯乘12.1開賣！像素精靈球AirPods套超靚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201971095930933248643018.jpeg/QB6OM7gn4UfhkSZ9OXBUA1fYaY2EyWGcEvTtfBL07Xw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414558/pok%C3%A9mon-x-casetify-30%E9%80%B1%E5%B9%B4%E8%81%AF%E4%B9%98%E5%A4%A7%E5%83%8F%E7%B4%A0%E9%A2%A8%E6%A0%BC-%E7%B2%BE%E9%9D%88%E7%90%83airpods%E5%A5%97%E5%BF%85%E6%90%B6",
-    "timestamp": "2026-11-24T10:59:09.377Z",
     "strategy": ".content-card__main"
   }
 ];
