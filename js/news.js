@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T00:54:54.419Z
+// Last updated: 2026-11-24T01:31:09.137Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄招聘網驚現40名北韓女工打包出租　標榜擅長包飯卷九成薪被抽佣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261123/1201513484676763648048291.png/eBOQxMyvi4voFQdA0Kd2zCK3jdLHP0MpeeLXb3ni128?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60382060/%E4%BF%84%E6%8B%9B%E8%81%98%E7%B6%B2%E9%A9%9A%E7%8F%BE40%E5%90%8D%E5%8C%97%E9%9F%93%E5%A5%B3%E5%B7%A5%E6%89%93%E5%8C%85%E5%87%BA%E7%A7%9F-%E6%A8%99%E6%A6%9C%E6%93%85%E9%95%B7%E5%8C%85%E9%A3%AF%E5%8D%B7%E4%B9%9D%E6%88%90%E8%96%AA%E8%A2%AB%E6%8A%BD%E4%BD%A3",
+    "timestamp": "2026-11-24T01:31:09.137Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑援助基金推新生活支援補助　業主獲30萬　罹難者家屬獲20萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200863998858235904724569.jpeg/mDcmP-uU-hoSNM5LlOTh6ChhqwjPDjOJtXJNWLVyTVg",
     "url": "https://www.hk01.com/01TV/60413477/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%8A%98%E8%A8%98%E5%8A%89%E6%9D%BE%E4%BB%81%E5%BA%A7%E5%8F%B3%E9%8A%98-%E6%BC%94%E5%93%A1%E8%A6%81%E7%84%A1%E6%89%80%E4%B8%8D%E7%94%A8%E5%85%B6%E6%A5%B5%E8%AA%98%E5%BC%95%E5%B0%8D%E6%89%8B",
     "timestamp": "2026-11-23T18:22:08.055Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳復職｜美兩黨議員批評英偉達決定　促立法收緊晶片對華出口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201709410729070592085613.jpeg/oi8Is_KvCDSrpBEEtjtPf9rzs8nTXdvPaONxU2jjcVM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414185/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E7%BE%8E%E5%85%A9%E9%BB%A8%E8%AD%B0%E5%93%A1%E6%89%B9%E8%A9%95%E8%8B%B1%E5%81%89%E9%81%94%E6%B1%BA%E5%AE%9A-%E4%BF%83%E7%AB%8B%E6%B3%95%E6%94%B6%E7%B7%8A%E6%99%B6%E7%89%87%E5%B0%8D%E8%8F%AF%E5%87%BA%E5%8F%A3",
-    "timestamp": "2026-11-23T17:58:58.725Z",
     "strategy": ".content-card__main"
   }
 ];
