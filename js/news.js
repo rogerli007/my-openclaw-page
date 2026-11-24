@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T08:59:16.813Z
+// Last updated: 2026-11-24T09:22:10.299Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港怡醫院手機程式外泄49萬病人資料　據悉院方已報警　暫沒接勒索",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/1376329/org/8ea09f820945d7a020b0a27bde18f5ba.JPG/8q8ZDlHwinjytpAHjBFb3xyHN4AlZb2fWgZHvloGR74?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414487/%E6%B8%AF%E6%80%A1%E9%86%AB%E9%99%A2%E6%89%8B%E6%A9%9F%E7%A8%8B%E5%BC%8F%E5%A4%96%E6%B3%8449%E8%90%AC%E7%97%85%E4%BA%BA%E8%B3%87%E6%96%99-%E6%93%9A%E6%82%89%E9%99%A2%E6%96%B9%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E6%9A%AB%E6%B2%92%E6%8E%A5%E5%8B%92%E7%B4%A2",
+    "timestamp": "2026-11-24T09:22:10.299Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "超壯觀！人妻產子獲霸氣奶奶送10萬人仔　鈔票串成花環鋪滿病床",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201850368640684032759236.jpeg/bZEkkIxDaIT0P9V6kSEB9rtUSpRVjQA66vKbV-rym1c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414253/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%9C%80%E7%B5%82%E9%A0%90%E5%91%8A%E7%BE%8E%E5%9C%8B%E9%9A%8A%E9%95%B7%E5%85%92%E5%AD%90%E9%A6%96%E6%9B%9D%E5%85%89-%E6%96%B0%E8%88%8A%E5%BE%A9%E4%BB%87%E8%80%85%E5%85%A8%E5%93%A1%E9%9B%86%E7%B5%90",
     "timestamp": "2026-11-24T02:59:10.584Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳復職｜英偉達員工列隊歡迎回歸　女員工衝上前擁抱｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201847288972972032647381.jpeg/5-JoaLarfAyly4MeIU-G5rgtQNtMA8L0jIHn4oyB5-I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414214/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E8%8B%B1%E5%81%89%E9%81%94%E5%93%A1%E5%B7%A5%E5%88%97%E9%9A%8A%E6%AD%A1%E8%BF%8E%E5%9B%9E%E6%AD%B8-%E5%A5%B3%E5%93%A1%E5%B7%A5%E8%A1%9D%E4%B8%8A%E5%89%8D%E6%93%81%E6%8A%B1-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-24T02:47:53.926Z",
     "strategy": ".content-card__main"
   }
 ];
