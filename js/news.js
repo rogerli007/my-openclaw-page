@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T16:22:10.560Z
+// Last updated: 2026-11-24T16:33:32.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "禽流感｜美華盛頓州3名乳牛場工人確診　一人死亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240420/858405902040961024216057.jpeg/yFZ6md-bQ-HqhtArZBSjXbLsDkwDBGicoHNIH6BzSB8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414618/%E7%A6%BD%E6%B5%81%E6%84%9F-%E7%BE%8E%E8%8F%AF%E7%9B%9B%E9%A0%93%E5%B7%9E3%E5%90%8D%E4%B9%B3%E7%89%9B%E5%A0%B4%E5%B7%A5%E4%BA%BA%E7%A2%BA%E8%A8%BA-%E4%B8%80%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "timestamp": "2026-11-24T16:33:32.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "消委會5大使用電熱氈安全指南 長時間接觸或有機會造成燙傷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200747655756517376291873.jpeg/q2UgI4vQBtQ_P2Xhpf0ZgLnKbo85a_L-YcrS8GHK0vA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414399/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E9%BB%83%E4%BB%81%E5%8B%B312%E6%9C%883%E6%97%A5%E5%87%BA%E5%B8%AD%E5%9C%8B%E6%9C%83%E8%81%BD%E8%AD%89-%E6%B0%91%E4%B8%BB%E9%BB%A8%E4%BA%BA%E6%8F%9A%E8%A8%80%E6%93%B4%E5%A4%A7%E8%AA%BF%E6%9F%A5",
     "timestamp": "2026-11-24T08:18:19.253Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大阪拉麵名店敗走！NEXT Shikaku12.15結業　牡蠣湯曾掀排隊潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201902051215282176597462.jpeg/QirDoq7m9lJSelEExI9BjopeH3_sv5Pq5lGCt-ZRgrc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414375/%E5%A4%A7%E9%98%AA%E6%8B%89%E9%BA%B5%E5%90%8D%E5%BA%97%E6%95%97%E8%B5%B0-next-shikaku12-15%E7%B5%90%E6%A5%AD-%E7%89%A1%E8%A0%A3%E6%B9%AF%E6%9B%BE%E6%8E%80%E6%8E%92%E9%9A%8A%E6%BD%AE",
-    "timestamp": "2026-11-24T07:59:25.789Z",
     "strategy": ".content-card__main"
   }
 ];
