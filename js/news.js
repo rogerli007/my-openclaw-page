@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T23:45:05.574Z
+// Last updated: 2026-11-24T23:59:11.378Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "行樓梯腳軟手現紫紅疹　46歲女確診「皮肌炎」　醫揭3大奪命警號",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200507282287235072769283.jpeg/Wb_0Q3mTwjwnGrM0zNys0SRcrCpL71VlVz8CZ1c_Amc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413145/%E8%A1%8C%E6%A8%93%E6%A2%AF%E8%85%B3%E8%BB%9F%E6%89%8B%E7%8F%BE%E7%B4%AB%E7%B4%85%E7%96%B9-46%E6%AD%B2%E5%A5%B3%E7%A2%BA%E8%A8%BA-%E7%9A%AE%E8%82%8C%E7%82%8E-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%A5%AA%E5%91%BD%E8%AD%A6%E8%99%9F",
+    "timestamp": "2026-11-24T23:59:11.378Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行樓梯腳軟手現紫紅疹　46歲女確診「皮肌炎」　醫揭3大奪命警號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20230302/707919364883484672503174.jpeg/Sgx0c322iVVxmABA_8zDdN1HQM3nhNbAy6X2osul9qI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414620/%E7%8E%8B%E6%AF%85%E9%80%9A%E8%A9%B1%E8%8B%B1%E5%9C%8B%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3-%E9%A1%98%E5%90%8C%E8%8B%B1%E6%96%B9%E4%B8%80%E9%81%93%E6%8E%A8%E5%8B%95%E5%85%A9%E5%9C%8B%E9%97%9C%E4%BF%82%E6%88%90%E7%86%9F%E7%A9%A9%E5%81%A5%E7%99%BC%E5%B1%95",
     "timestamp": "2026-11-24T17:59:02.076Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅通話英國外交大臣　願同英方一道推動兩國關係成熟穩健發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230302/707919364883484672503174.jpeg/Sgx0c322iVVxmABA_8zDdN1HQM3nhNbAy6X2osul9qI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414620/%E7%8E%8B%E6%AF%85%E9%80%9A%E8%A9%B1%E8%8B%B1%E5%9C%8B%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3-%E9%A1%98%E5%90%8C%E8%8B%B1%E6%96%B9%E4%B8%80%E9%81%93%E6%8E%A8%E5%8B%95%E5%85%A9%E5%9C%8B%E9%97%9C%E4%BF%82%E6%88%90%E7%86%9F%E7%A9%A9%E5%81%A5%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-11-24T17:19:54.902Z",
     "strategy": ".content-card__main"
   }
 ];
