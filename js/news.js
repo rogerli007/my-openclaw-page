@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T02:47:53.926Z
+// Last updated: 2026-11-24T02:59:10.584Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復仇者聯盟5｜最終預告美國隊長兒子首曝光　新舊復仇者全員集結",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201850368640684032759236.jpeg/bZEkkIxDaIT0P9V6kSEB9rtUSpRVjQA66vKbV-rym1c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414253/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%9C%80%E7%B5%82%E9%A0%90%E5%91%8A%E7%BE%8E%E5%9C%8B%E9%9A%8A%E9%95%B7%E5%85%92%E5%AD%90%E9%A6%96%E6%9B%9D%E5%85%89-%E6%96%B0%E8%88%8A%E5%BE%A9%E4%BB%87%E8%80%85%E5%85%A8%E5%93%A1%E9%9B%86%E7%B5%90",
+    "timestamp": "2026-11-24T02:59:10.584Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳復職｜英偉達員工列隊歡迎回歸　女員工衝上前擁抱｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137065359006765056345269.jpeg/UmBt394C6VBJl5_JcQtPYl1rCWu92viE-OopUfjqKVE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414190/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BF%83%E6%88%90%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7%E9%98%B2%E4%B8%AD%E5%9C%8B%E5%BB%B6%E6%94%AC-%E6%9C%AA%E5%95%8F%E7%BF%92%E8%BF%91%E5%B9%B3-%E9%BB%83%E6%A8%82%E6%98%AF%E5%90%A6%E9%96%93%E8%AB%9C",
     "timestamp": "2026-11-23T19:45:59.921Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普：促成黃仁勳復職防中國延攬　未問習近平「黃樂是否間諜」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260529/1137065359006765056345269.jpeg/UmBt394C6VBJl5_JcQtPYl1rCWu92viE-OopUfjqKVE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414190/%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BF%83%E6%88%90%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7%E9%98%B2%E4%B8%AD%E5%9C%8B%E5%BB%B6%E6%94%AC-%E6%9C%AA%E5%95%8F%E7%BF%92%E8%BF%91%E5%B9%B3-%E9%BB%83%E6%A8%82%E6%98%AF%E5%90%A6%E9%96%93%E8%AB%9C",
-    "timestamp": "2026-11-23T19:29:29.336Z",
     "strategy": ".content-card__main"
   }
 ];
