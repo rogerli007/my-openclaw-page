@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T18:59:06.943Z
+// Last updated: 2026-11-25T19:18:17.422Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林俊傑認愛後罕有放閃　為細21歲女友七七慶生送上生日蛋糕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202445165734662144269805.jpeg/m9emRddbh3BX4gAjFX0a3nWBWuqp_o3-sJ2GgLCdhoA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415050/%E6%9E%97%E4%BF%8A%E5%82%91%E8%AA%8D%E6%84%9B%E5%BE%8C%E7%BD%95%E6%9C%89%E6%94%BE%E9%96%83-%E7%82%BA%E7%B4%B021%E6%AD%B2%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E6%85%B6%E7%94%9F%E9%80%81%E4%B8%8A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95",
+    "timestamp": "2026-11-25T19:18:17.422Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "飛鵝山自殺崖眾女無視危險　長髮女徒手攀山打卡　網民怒轟｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202225436952629248347580.jpeg/-qzLDO8nX-a5xie_SKGNDAgAO_cQZXmTdIewW3SHsFs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415027/%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E6%BC%8F%E9%A0%81%E9%A2%A8%E6%B3%A2-%E5%85%A5%E5%A2%83%E8%99%95-%E8%AD%B7%E7%85%A7%E7%96%91%E8%A2%AB%E4%B8%8D%E6%B3%95%E6%94%B9%E5%8B%95-%E8%BD%89%E4%BA%A4%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E8%B7%9F%E9%80%B2",
     "timestamp": "2026-11-25T13:45:26.336Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "七人車走私孕婦血赴港驗性別　深圳海關破案拘37人涉4萬份血樣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202300648968687616078591.jpeg/Qs4z59nURuDuPluYMh5ir0W40yB40hnb0FLO99BSzvc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414917/%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%B5%B0%E7%A7%81%E5%AD%95%E5%A9%A6%E8%A1%80%E8%B5%B4%E6%B8%AF%E9%A9%97%E6%80%A7%E5%88%A5-%E6%B7%B1%E5%9C%B3%E6%B5%B7%E9%97%9C%E7%A0%B4%E6%A1%88%E6%8B%9837%E4%BA%BA%E6%B6%894%E8%90%AC%E4%BB%BD%E8%A1%80%E6%A8%A3",
-    "timestamp": "2026-11-25T13:31:51.750Z",
     "strategy": ".content-card__main"
   }
 ];
