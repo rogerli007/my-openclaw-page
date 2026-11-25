@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T10:46:04.868Z
+// Last updated: 2026-11-25T10:59:06.305Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "身處權力深水區的風險：上海市委書記陳吉寧落馬的深層背景",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860130504719077376236570.jpeg/VfbsR8EME-KFAcJhEsFuRMVeCZWztAcHOnREvjp0RL4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60414994/%E8%BA%AB%E8%99%95%E6%AC%8A%E5%8A%9B%E6%B7%B1%E6%B0%B4%E5%8D%80%E7%9A%84%E9%A2%A8%E9%9A%AA-%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E6%9B%B8%E8%A8%98%E9%99%B3%E5%90%89%E5%AF%A7%E8%90%BD%E9%A6%AC%E7%9A%84%E6%B7%B1%E5%B1%A4%E8%83%8C%E6%99%AF",
+    "timestamp": "2026-11-25T10:59:06.305Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "買錶前要先睇瑞士天氣？OMEGA聯乘MoonSwatch黑雪花 11.27開賣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1092997606159683584498172.jpeg/t8UHxPUes21jwK9pYLtD4Yq-csaegk817b-qGe2_qhk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414726/%E7%BE%8E%E5%AA%92-cia%E5%8F%8A%E5%9C%8B%E5%AE%B6%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3%E8%BE%A6%E5%85%AC%E5%AE%A4%E9%81%AD%E7%B6%B2%E7%B5%A1%E5%85%A5%E4%BE%B5-%E9%9D%9E%E6%A9%9F%E5%AF%86%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9",
     "timestamp": "2026-11-25T04:34:19.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港女生遊日慶生變悲劇　特區護照漏4頁遭拒入境遣返　教1招自保",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202233862520836096530176.jpeg/95zIw0qhmAh2w593kpmiPwykAGuVnKJClO2AjJTtgIw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60414673/%E6%B8%AF%E5%A5%B3%E7%94%9F%E9%81%8A%E6%97%A5%E6%85%B6%E7%94%9F%E8%AE%8A%E6%82%B2%E5%8A%87-%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E6%BC%8F4%E9%A0%81%E9%81%AD%E6%8B%92%E5%85%A5%E5%A2%83%E9%81%A3%E8%BF%94-%E6%95%991%E6%8B%9B%E8%87%AA%E4%BF%9D",
-    "timestamp": "2026-11-25T04:16:48.660Z",
     "strategy": ".content-card__main"
   }
 ];
