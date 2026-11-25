@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T22:19:45.902Z
+// Last updated: 2026-11-25T22:59:10.553Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐聯｜曼聯作客遭士砵亭逼和2：2　利物浦作客3：0勝布魯日",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202504903646253056187234.jpeg/xVGaadTnTVdIup6ywIaohc2Yu5lrmsyI6G-Zquhvmao?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415065/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%E9%81%AD%E5%A3%AB%E7%A0%B5%E4%BA%AD%E9%80%BC%E5%92%8C2-2-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A23-0%E5%8B%9D%E5%B8%83%E9%AD%AF%E6%97%A5",
+    "timestamp": "2026-11-25T22:59:10.553Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "天氣｜天文台：今日初時有一兩陣微雨　早上清涼市區約17度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220914/646691761523003392504271.jpeg/0bszwRFFtgxOhY7_0ZozJHsIluSCYI5A0o60SNKOtEg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415028/%E8%81%96%E5%85%AC%E6%9C%833%E9%96%93%E5%B0%8F%E5%AD%B8%E5%90%8C%E4%B8%80%E4%BE%9B%E6%87%89%E5%95%86%E9%A3%AF%E7%9B%92%E8%A2%AB%E6%8C%87%E6%9C%89%E9%A0%AD%E9%AB%AE%E6%98%86%E8%9F%B2-%E9%A3%9F%E7%92%B0%E7%BD%B2%E6%9B%BE%E6%8E%A53%E5%AE%97%E6%8A%95%E8%A8%B4",
     "timestamp": "2026-11-25T16:36:45.457Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Therabody新品登場｜肩頸按摩器、雙槍頭肩頸按摩器、掌心降溫儀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202044637724807168526107.jpeg/cKyH-mcdWIKJp892rZKg54gR2FmnchZXM7-Y_zO_mP8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414614/therabody%E6%96%B0%E5%93%81%E7%99%BB%E5%A0%B4-%E8%82%A9%E9%A0%B8%E6%8C%89%E6%91%A9%E5%99%A8-%E9%9B%99%E6%A7%8D%E9%A0%AD%E8%82%A9%E9%A0%B8%E6%8C%89%E6%91%A9%E5%99%A8-%E6%8E%8C%E5%BF%83%E9%99%8D%E6%BA%AB%E5%84%80",
-    "timestamp": "2026-11-25T16:23:58.960Z",
     "strategy": ".content-card__main"
   }
 ];
