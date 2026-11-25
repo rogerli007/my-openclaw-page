@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T06:53:10.939Z
+// Last updated: 2026-11-25T07:22:11.740Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "連詩雅忙工作冷落兩歲半愛女Camila　一句童言童語令媽媽超內疚",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202264873564639232349528.jpeg/e5CYZqrtpExlRaY_D2PpCLZvzUG6Ptk-A9E-2gPRPto?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414803/%E9%80%A3%E8%A9%A9%E9%9B%85%E5%BF%99%E5%B7%A5%E4%BD%9C%E5%86%B7%E8%90%BD%E5%85%A9%E6%AD%B2%E5%8D%8A%E6%84%9B%E5%A5%B3camila-%E4%B8%80%E5%8F%A5%E7%AB%A5%E8%A8%80%E7%AB%A5%E8%AA%9E%E4%BB%A4%E5%AA%BD%E5%AA%BD%E8%B6%85%E5%85%A7%E7%96%9A",
+    "timestamp": "2026-11-25T07:22:11.740Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國封堵中國獲取AI算力漏洞後　銀行紛嚴查東南亞數據中心客戶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202175304093667328203791.png/Ct0J2brscyXhZB56sVBvex3KVVe-4FVXyh-sYMofrGA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414588/%E7%9B%B4%E6%92%AD-%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%88%B9%E7%99%BC%E5%B0%84-%E4%B8%AD%E5%9C%8B%E7%A9%BA%E9%96%93%E7%AB%99%E5%B0%87%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%93%A1",
     "timestamp": "2026-11-25T00:37:31.064Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "行樓梯腳軟手現紫紅疹　46歲女確診「皮肌炎」　醫揭3大奪命警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200507282287235072769283.jpeg/Wb_0Q3mTwjwnGrM0zNys0SRcrCpL71VlVz8CZ1c_Amc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413145/%E8%A1%8C%E6%A8%93%E6%A2%AF%E8%85%B3%E8%BB%9F%E6%89%8B%E7%8F%BE%E7%B4%AB%E7%B4%85%E7%96%B9-46%E6%AD%B2%E5%A5%B3%E7%A2%BA%E8%A8%BA-%E7%9A%AE%E8%82%8C%E7%82%8E-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%A5%AA%E5%91%BD%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-11-24T23:59:11.378Z",
     "strategy": ".content-card__main"
   }
 ];
