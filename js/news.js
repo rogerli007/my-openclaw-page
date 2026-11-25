@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T09:33:40.911Z
+// Last updated: 2026-11-25T09:59:03.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "復仇者聯盟5｜最終預告3大解構！全員對抗哨兵　開彩虹橋疑尋洛基",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202294210762379264704315.png/aDS78UY52OeVW8ER3vBkvQiYc-p5MR4lEmtckRJrXJE",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414842/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%9C%80%E7%B5%82%E9%A0%90%E5%91%8A3%E5%A4%A7%E8%A7%A3%E6%A7%8B-%E5%85%A8%E5%93%A1%E5%B0%8D%E6%8A%97%E5%93%A8%E5%85%B5-%E9%96%8B%E5%BD%A9%E8%99%B9%E6%A9%8B%E7%96%91%E5%B0%8B%E6%B4%9B%E5%9F%BA",
+    "timestamp": "2026-11-25T09:59:03.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "民政署3年接1342宗大廈管理投訴　廉署接1940宗樓宇管理、涉貪案",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202208529595764736769142.jpeg/l87ValBiKU_wFtiwjvwNlyP3QuuLbpVQaLHn8mix5_I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414684/%E6%97%A5%E6%9C%AC%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%90%B5%E9%81%AD%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E8%A5%B2%E6%93%8A-%E6%9C%80%E5%A4%9A1108%E8%90%AC%E4%BA%BA%E5%90%AB%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B3%87%E6%96%99%E6%88%96%E5%A4%96%E6%B4%A9",
     "timestamp": "2026-11-25T03:37:22.308Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青光眼症狀｜9成人沒察覺嚴重可失明！5大成因+治療方法+手術費用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202219933467938816962385.png/60GS9MfVeMEKMK48pZqJBzeizammPYoAd3QEEXd0BBE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60396829/%E9%9D%92%E5%85%89%E7%9C%BC%E7%97%87%E7%8B%80-9%E6%88%90%E4%BA%BA%E6%B2%92%E5%AF%9F%E8%A6%BA%E5%9A%B4%E9%87%8D%E5%8F%AF%E5%A4%B1%E6%98%8E-5%E5%A4%A7%E6%88%90%E5%9B%A0-%E6%B2%BB%E7%99%82%E6%96%B9%E6%B3%95-%E6%89%8B%E8%A1%93%E8%B2%BB%E7%94%A8",
-    "timestamp": "2026-11-25T03:23:09.970Z",
     "strategy": ".content-card__main"
   }
 ];
