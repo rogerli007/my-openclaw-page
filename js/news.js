@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T20:40:05.853Z
+// Last updated: 2026-11-25T20:59:24.199Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李成鋼：中國堅持多邊主義　堅定維護多邊貿易體制",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250915/1044403949949423616593718.jpeg/_YJR-43AWKvK3m9q3HoGj07Kpw377yJyJgUcTSYFHE0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415063/%E6%9D%8E%E6%88%90%E9%8B%BC-%E4%B8%AD%E5%9C%8B%E5%A0%85%E6%8C%81%E5%A4%9A%E9%82%8A%E4%B8%BB%E7%BE%A9-%E5%A0%85%E5%AE%9A%E7%B6%AD%E8%AD%B7%E5%A4%9A%E9%82%8A%E8%B2%BF%E6%98%93%E9%AB%94%E5%88%B6",
+    "timestamp": "2026-11-25T20:59:24.199Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門連鎖快餐店巨鼠爬天花　女聲驚呼：死啦！爬到過嚟｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202390513286647808907628.jpeg/ULjYjpwVhw0RRmdL9ZyPoKIQ4cQb875LYAbqtGAG6rQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415014/2026%E7%BE%BD%E6%AF%9B%E7%90%83%E5%B9%B4%E7%B5%82%E8%B3%BD-%E5%AE%89%E6%B4%97%E7%91%A9%E5%8A%9B%E7%88%AD%E7%A0%B4%E7%B4%80%E9%8C%84%E5%B9%B4%E5%BA%A6%E7%AC%AC12%E5%86%A0-%E7%94%B7%E5%96%AE%E6%88%90%E9%96%8B%E6%94%BE%E7%AB%B6%E7%88%AD",
     "timestamp": "2026-11-25T14:53:49.951Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026羽毛球年終賽︱安洗瑩力爭破紀錄年度第12冠　男單成開放競爭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202390513286647808907628.jpeg/ULjYjpwVhw0RRmdL9ZyPoKIQ4cQb875LYAbqtGAG6rQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415014/2026%E7%BE%BD%E6%AF%9B%E7%90%83%E5%B9%B4%E7%B5%82%E8%B3%BD-%E5%AE%89%E6%B4%97%E7%91%A9%E5%8A%9B%E7%88%AD%E7%A0%B4%E7%B4%80%E9%8C%84%E5%B9%B4%E5%BA%A6%E7%AC%AC12%E5%86%A0-%E7%94%B7%E5%96%AE%E6%88%90%E9%96%8B%E6%94%BE%E7%AB%B6%E7%88%AD",
-    "timestamp": "2026-11-25T14:45:54.631Z",
     "strategy": ".content-card__main"
   }
 ];
