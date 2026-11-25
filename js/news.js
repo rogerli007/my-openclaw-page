@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T10:59:06.305Z
+// Last updated: 2026-11-25T11:19:43.357Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "城巴通宵客驚擺豪邁姿勢！躺平伸腳跨通道照片瘋傳：當自己屋企？",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202045284717170688137426.png/NxJg7ajBlcNZRBQbG0z330DpRCsvnN-L8TjiAvE44gI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414595/%E5%9F%8E%E5%B7%B4%E9%80%9A%E5%AE%B5%E5%AE%A2%E9%A9%9A%E6%93%BA%E8%B1%AA%E9%82%81%E5%A7%BF%E5%8B%A2-%E8%BA%BA%E5%B9%B3%E4%BC%B8%E8%85%B3%E8%B7%A8%E9%80%9A%E9%81%93%E7%85%A7%E7%89%87%E7%98%8B%E5%82%B3-%E7%95%B6%E8%87%AA%E5%B7%B1%E5%B1%8B%E4%BC%81",
+    "timestamp": "2026-11-25T11:19:43.357Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "身處權力深水區的風險：上海市委書記陳吉寧落馬的深層背景",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202240241272885248147823.jpeg/AzBtyG1WJqJ6zH8t21g_Wv0fvWgSnR1IAn4GLQJ-Bi0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414742/%E7%8E%8B%E4%B8%B9%E5%A6%AE%E7%BE%85%E5%AD%9D%E5%8B%87%E7%B5%90%E5%A9%9A%E4%B8%89%E5%91%A8%E5%B9%B4%E6%9B%ACbb%E8%B6%85%E8%81%B2%E6%B3%A2-%E5%BE%9E%E6%AD%A4%E9%80%99%E5%80%8B%E5%AE%B6%E8%AE%8A%E6%88%90%E4%BA%863-1-4",
     "timestamp": "2026-11-25T04:45:35.292Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：CIA及國家情報總監辦公室遭網絡入侵　非機密資料外洩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1092997606159683584498172.jpeg/t8UHxPUes21jwK9pYLtD4Yq-csaegk817b-qGe2_qhk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414726/%E7%BE%8E%E5%AA%92-cia%E5%8F%8A%E5%9C%8B%E5%AE%B6%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3%E8%BE%A6%E5%85%AC%E5%AE%A4%E9%81%AD%E7%B6%B2%E7%B5%A1%E5%85%A5%E4%BE%B5-%E9%9D%9E%E6%A9%9F%E5%AF%86%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9",
-    "timestamp": "2026-11-25T04:34:19.383Z",
     "strategy": ".content-card__main"
   }
 ];
