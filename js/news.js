@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T21:58:57.182Z
+// Last updated: 2026-11-25T22:19:45.902Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "天氣｜天文台：今日初時有一兩陣微雨　早上清涼市區約17度",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202503107620114432086432.jpeg/EmUpSm1M2D-TM5b5z7h2ducul3UWzaDxAF7KPQBeyj0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60415044/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC%E5%B8%82%E5%8D%80%E7%B4%8417%E5%BA%A6",
+    "timestamp": "2026-11-25T22:19:45.902Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵：天水圍站工程車設備故障　屯馬綫候車時間多10至15分鐘",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202044637724807168526107.jpeg/cKyH-mcdWIKJp892rZKg54gR2FmnchZXM7-Y_zO_mP8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414614/therabody%E6%96%B0%E5%93%81%E7%99%BB%E5%A0%B4-%E8%82%A9%E9%A0%B8%E6%8C%89%E6%91%A9%E5%99%A8-%E9%9B%99%E6%A7%8D%E9%A0%AD%E8%82%A9%E9%A0%B8%E6%8C%89%E6%91%A9%E5%99%A8-%E6%8E%8C%E5%BF%83%E9%99%8D%E6%BA%AB%E5%84%80",
     "timestamp": "2026-11-25T16:23:58.960Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "丁噹實力獻唱《兩京十五日》插曲　挑戰文言文歌詞直呼難唱到崩潰",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202315961122689024137602.jpeg/pqkHnDvN0mBcBqyehCxdz0_E8TG286HLKstJayrLSWs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60414911/%E4%B8%81%E5%99%B9%E5%AF%A6%E5%8A%9B%E7%8D%BB%E5%94%B1-%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E6%8F%92%E6%9B%B2-%E6%8C%91%E6%88%B0%E6%96%87%E8%A8%80%E6%96%87%E6%AD%8C%E8%A9%9E%E7%9B%B4%E5%91%BC%E9%9B%A3%E5%94%B1%E5%88%B0%E5%B4%A9%E6%BD%B0",
-    "timestamp": "2026-11-25T15:59:12.778Z",
     "strategy": ".content-card__main"
   }
 ];
