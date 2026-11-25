@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T18:45:13.769Z
+// Last updated: 2026-11-25T18:59:06.943Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "飛鵝山自殺崖眾女無視危險　長髮女徒手攀山打卡　網民怒轟｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202448973944590336748915.jpeg/VWl1CQtiAIp8wphUiMoN2puWB2Q18pjFVAq5J1QKuSc",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415048/%E9%A3%9B%E9%B5%9D%E5%B1%B1%E8%87%AA%E6%AE%BA%E5%B4%96%E7%9C%BE%E5%A5%B3%E7%84%A1%E8%A6%96%E5%8D%B1%E9%9A%AA-%E9%95%B7%E9%AB%AE%E5%A5%B3%E5%BE%92%E6%89%8B%E6%94%80%E5%B1%B1%E6%89%93%E5%8D%A1-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-25T18:59:06.943Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "跨部門多區打擊非法勞工及掃黃　19男女被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202300648968687616078591.jpeg/Qs4z59nURuDuPluYMh5ir0W40yB40hnb0FLO99BSzvc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414917/%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%B5%B0%E7%A7%81%E5%AD%95%E5%A9%A6%E8%A1%80%E8%B5%B4%E6%B8%AF%E9%A9%97%E6%80%A7%E5%88%A5-%E6%B7%B1%E5%9C%B3%E6%B5%B7%E9%97%9C%E7%A0%B4%E6%A1%88%E6%8B%9837%E4%BA%BA%E6%B6%894%E8%90%AC%E4%BB%BD%E8%A1%80%E6%A8%A3",
     "timestamp": "2026-11-25T13:31:51.750Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《復仇者5》上映時間撞《沙丘3》　世紀搶客對決掀「Dunesday」潮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202320774476599296752640.png/QujKjsyXvidLey9-2UYzlce-l_zSDgCjYwcrz2MHK88",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414891/%E5%BE%A9%E4%BB%87%E8%80%855-%E4%B8%8A%E6%98%A0%E6%99%82%E9%96%93%E6%92%9E-%E6%B2%99%E4%B8%983-%E4%B8%96%E7%B4%80%E6%90%B6%E5%AE%A2%E5%B0%8D%E6%B1%BA%E6%8E%80-dunesday-%E6%BD%AE",
-    "timestamp": "2026-11-25T13:20:59.931Z",
     "strategy": ".content-card__main"
   }
 ];
