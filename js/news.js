@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T06:28:32.714Z
+// Last updated: 2026-11-25T06:53:10.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國封堵中國獲取AI算力漏洞後　銀行紛嚴查東南亞數據中心客戶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200409829739335680782163.jpeg/UikQgT5w9GoOUCiXa9GP5X3k0wvkciz-ol9W0qJfVtI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414827/%E7%BE%8E%E5%9C%8B%E5%B0%81%E5%A0%B5%E4%B8%AD%E5%9C%8B%E7%8D%B2%E5%8F%96ai%E7%AE%97%E5%8A%9B%E6%BC%8F%E6%B4%9E%E5%BE%8C-%E9%8A%80%E8%A1%8C%E7%B4%9B%E5%9A%B4%E6%9F%A5%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%AE%A2%E6%88%B6",
+    "timestamp": "2026-11-25T06:53:10.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "結婚8年3女均非親生　陝西男崩潰提告　法院判妻賠償22萬",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200507282287235072769283.jpeg/Wb_0Q3mTwjwnGrM0zNys0SRcrCpL71VlVz8CZ1c_Amc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413145/%E8%A1%8C%E6%A8%93%E6%A2%AF%E8%85%B3%E8%BB%9F%E6%89%8B%E7%8F%BE%E7%B4%AB%E7%B4%85%E7%96%B9-46%E6%AD%B2%E5%A5%B3%E7%A2%BA%E8%A8%BA-%E7%9A%AE%E8%82%8C%E7%82%8E-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%A5%AA%E5%91%BD%E8%AD%A6%E8%99%9F",
     "timestamp": "2026-11-24T23:59:11.378Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "行樓梯腳軟手現紫紅疹　46歲女確診「皮肌炎」　醫揭3大奪命警號",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200507282287235072769283.jpeg/Wb_0Q3mTwjwnGrM0zNys0SRcrCpL71VlVz8CZ1c_Amc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413145/%E8%A1%8C%E6%A8%93%E6%A2%AF%E8%85%B3%E8%BB%9F%E6%89%8B%E7%8F%BE%E7%B4%AB%E7%B4%85%E7%96%B9-46%E6%AD%B2%E5%A5%B3%E7%A2%BA%E8%A8%BA-%E7%9A%AE%E8%82%8C%E7%82%8E-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%A5%AA%E5%91%BD%E8%AD%A6%E8%99%9F",
-    "timestamp": "2026-11-24T23:45:05.574Z",
     "strategy": ".content-card__main"
   }
 ];
