@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T02:38:27.214Z
+// Last updated: 2026-11-25T02:59:16.451Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "華為遭美國法院裁定10項罪名成立　涉隱瞞伊朗業務和竊取商業機密",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20231002/785556276363923456081234.jpeg/toxpgYnkdbzkrDFwYhOxdu-YXccMMu75frpuT366bk8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414681/%E8%8F%AF%E7%82%BA%E9%81%AD%E7%BE%8E%E5%9C%8B%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A10%E9%A0%85%E7%BD%AA%E5%90%8D%E6%88%90%E7%AB%8B-%E6%B6%89%E9%9A%B1%E7%9E%9E%E4%BC%8A%E6%9C%97%E6%A5%AD%E5%8B%99%E5%92%8C%E7%AB%8A%E5%8F%96%E5%95%86%E6%A5%AD%E6%A9%9F%E5%AF%86",
+    "timestamp": "2026-11-25T02:59:16.451Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "解放軍告別純空戰！殲-10C罕掛Kh-29重彈　複製美軍F-16對地打擊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202092425967833088327459.jpeg/jRKJ5D7pMKFwkjNQtJ_dzb8bg___r5toZHx042R8dOM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414626/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%8D%B1%E6%92%9E%E5%80%92%E5%9C%B0-%E7%9A%84%E5%A3%AB%E5%88%87%E7%B7%9A%E5%86%8D%E6%92%BC%E8%BB%8A-%E5%85%B15%E8%BB%8A%E6%92%9E%E9%87%802%E5%82%B7",
     "timestamp": "2026-11-24T19:45:24.083Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜深水埗鐵騎士捱撞倒地　的士切線再撼車　共5車撞釀2傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202092425967833088327459.jpeg/jRKJ5D7pMKFwkjNQtJ_dzb8bg___r5toZHx042R8dOM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414626/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%8D%B1%E6%92%9E%E5%80%92%E5%9C%B0-%E7%9A%84%E5%A3%AB%E5%88%87%E7%B7%9A%E5%86%8D%E6%92%BC%E8%BB%8A-%E5%85%B15%E8%BB%8A%E6%92%9E%E9%87%802%E5%82%B7",
-    "timestamp": "2026-11-24T19:29:30.860Z",
     "strategy": ".content-card__main"
   }
 ];
