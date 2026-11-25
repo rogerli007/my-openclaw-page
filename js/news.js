@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T15:59:12.778Z
+// Last updated: 2026-11-25T16:23:58.960Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "Therabody新品登場｜肩頸按摩器、雙槍頭肩頸按摩器、掌心降溫儀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202044637724807168526107.jpeg/cKyH-mcdWIKJp892rZKg54gR2FmnchZXM7-Y_zO_mP8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414614/therabody%E6%96%B0%E5%93%81%E7%99%BB%E5%A0%B4-%E8%82%A9%E9%A0%B8%E6%8C%89%E6%91%A9%E5%99%A8-%E9%9B%99%E6%A7%8D%E9%A0%AD%E8%82%A9%E9%A0%B8%E6%8C%89%E6%91%A9%E5%99%A8-%E6%8E%8C%E5%BF%83%E9%99%8D%E6%BA%AB%E5%84%80",
+    "timestamp": "2026-11-25T16:23:58.960Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "丁噹實力獻唱《兩京十五日》插曲　挑戰文言文歌詞直呼難唱到崩潰",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202294210762379264704315.png/aDS78UY52OeVW8ER3vBkvQiYc-p5MR4lEmtckRJrXJE",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414842/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%9C%80%E7%B5%82%E9%A0%90%E5%91%8A3%E5%A4%A7%E8%A7%A3%E6%A7%8B-%E5%85%A8%E5%93%A1%E5%B0%8D%E6%8A%97%E5%93%A8%E5%85%B5-%E9%96%8B%E5%BD%A9%E8%99%B9%E6%A9%8B%E7%96%91%E5%B0%8B%E6%B4%9B%E5%9F%BA",
     "timestamp": "2026-11-25T09:59:03.629Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "民政署3年接1342宗大廈管理投訴　廉署接1940宗樓宇管理、涉貪案",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250416/989196512766857216973428.jpeg/nnvjwxA-TEBp9-WHvK2WEb6kTxCzCPZuDpPE7g6TxO4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60414875/%E6%B0%91%E6%94%BF%E7%BD%B23%E5%B9%B4%E6%8E%A51342%E5%AE%97%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%8A%95%E8%A8%B4-%E5%BB%89%E7%BD%B2%E6%8E%A51940%E5%AE%97%E6%A8%93%E5%AE%87%E7%AE%A1%E7%90%86-%E6%B6%89%E8%B2%AA%E6%A1%88",
-    "timestamp": "2026-11-25T09:33:40.911Z",
     "strategy": ".content-card__main"
   }
 ];
