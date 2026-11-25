@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T14:21:16.684Z
+// Last updated: 2026-11-25T14:45:54.631Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026羽毛球年終賽︱安洗瑩力爭破紀錄年度第12冠　男單成開放競爭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202390513286647808907628.jpeg/ULjYjpwVhw0RRmdL9ZyPoKIQ4cQb875LYAbqtGAG6rQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415014/2026%E7%BE%BD%E6%AF%9B%E7%90%83%E5%B9%B4%E7%B5%82%E8%B3%BD-%E5%AE%89%E6%B4%97%E7%91%A9%E5%8A%9B%E7%88%AD%E7%A0%B4%E7%B4%80%E9%8C%84%E5%B9%B4%E5%BA%A6%E7%AC%AC12%E5%86%A0-%E7%94%B7%E5%96%AE%E6%88%90%E9%96%8B%E6%94%BE%E7%AB%B6%E7%88%AD",
+    "timestamp": "2026-11-25T14:45:54.631Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "微信支付｜官媒2018年已揭陌生人綁定帳戶　名下5個帳戶4個不認得",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172966745942528000124863.jpeg/LQCWfmtwU6oBkOXgXRZsOkNZqzsSTQ_XGVJztBlSc7Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414855/%E5%BE%B7%E5%9C%8B%E5%B0%88%E5%AE%B6%E7%B1%B2%E8%B6%81%E9%AB%98%E5%83%B9%E8%B3%A3%E7%A6%8F%E5%A3%AB%E4%BA%88%E4%B8%AD%E5%9C%8B-%E7%A8%B1%E8%8B%A5%E4%B8%8D%E6%94%B9%E9%9D%A9%E4%B8%AD%E7%BE%8E%E5%B0%87-%E5%90%9E%E4%BD%B5%E6%AD%90%E6%B4%B2",
     "timestamp": "2026-11-25T07:59:22.025Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "內房君豪石金禹中環中心頂層索價4億　呎價3萬較買入價低46%",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20241105/930528199262474240862491.jpeg/JJGjO277oOhDeNVQN6urolMiYgITkPKD78TDx-_Ew8c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60414865/%E5%85%A7%E6%88%BF%E5%90%9B%E8%B1%AA%E7%9F%B3%E9%87%91%E7%A6%B9%E4%B8%AD%E7%92%B0%E4%B8%AD%E5%BF%83%E9%A0%82%E5%B1%A4%E7%B4%A2%E5%83%B94%E5%84%84-%E5%91%8E%E5%83%B93%E8%90%AC%E8%BC%83%E8%B2%B7%E5%85%A5%E5%83%B9%E4%BD%8E46",
-    "timestamp": "2026-11-25T07:45:42.784Z",
     "strategy": ".content-card__main"
   }
 ];
