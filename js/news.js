@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T20:19:36.643Z
+// Last updated: 2026-11-25T20:40:05.853Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門連鎖快餐店巨鼠爬天花　女聲驚呼：死啦！爬到過嚟｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202477751664119808897356.jpeg/ixlLvBE4IAdVvtowKI6A18hYj75CZbI7S9QaP0vUGj8",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415062/%E5%B1%AF%E9%96%80%E9%80%A3%E9%8E%96%E5%BF%AB%E9%A4%90%E5%BA%97%E5%B7%A8%E9%BC%A0%E7%88%AC%E5%A4%A9%E8%8A%B1-%E5%A5%B3%E8%81%B2%E9%A9%9A%E5%91%BC-%E6%AD%BB%E5%95%A6-%E7%88%AC%E5%88%B0%E9%81%8E%E5%9A%9F-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-25T20:40:05.853Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀前往泰國拍劇：目睹寇納海嘯後的慘狀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202390513286647808907628.jpeg/ULjYjpwVhw0RRmdL9ZyPoKIQ4cQb875LYAbqtGAG6rQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415014/2026%E7%BE%BD%E6%AF%9B%E7%90%83%E5%B9%B4%E7%B5%82%E8%B3%BD-%E5%AE%89%E6%B4%97%E7%91%A9%E5%8A%9B%E7%88%AD%E7%A0%B4%E7%B4%80%E9%8C%84%E5%B9%B4%E5%BA%A6%E7%AC%AC12%E5%86%A0-%E7%94%B7%E5%96%AE%E6%88%90%E9%96%8B%E6%94%BE%E7%AB%B6%E7%88%AD",
     "timestamp": "2026-11-25T14:45:54.631Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "微信支付｜官媒2018年已揭陌生人綁定帳戶　名下5個帳戶4個不認得",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2581381/org/8c9977edd46f3740e4b6b73e09b433f4.jpg/jspSeHEPBdIYCrnsXLfJCxxVM4pUKzwac3dLonN3S6I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415023/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98-%E5%AE%98%E5%AA%922018%E5%B9%B4%E5%B7%B2%E6%8F%AD%E9%99%8C%E7%94%9F%E4%BA%BA%E7%B6%81%E5%AE%9A%E5%B8%B3%E6%88%B6-%E5%90%8D%E4%B8%8B5%E5%80%8B%E5%B8%B3%E6%88%B64%E5%80%8B%E4%B8%8D%E8%AA%8D%E5%BE%97",
-    "timestamp": "2026-11-25T14:21:16.684Z",
     "strategy": ".content-card__main"
   }
 ];
