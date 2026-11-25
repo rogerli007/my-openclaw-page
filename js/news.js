@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T17:29:36.385Z
+// Last updated: 2026-11-25T17:45:12.299Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀非TVB「親生女」奪視后：憑《下流上車族》打破常規",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869829792239616879652.jpeg/h_bnuZOl7-uvVNmsf_YP5cZ_QbUC1e8IEUJwSBFCcEg",
+    "url": "https://www.hk01.com/01TV/60413491/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%9D%9Etvb-%E8%A6%AA%E7%94%9F%E5%A5%B3-%E5%A5%AA%E8%A6%96%E5%90%8E-%E6%86%91-%E4%B8%8B%E6%B5%81%E4%B8%8A%E8%BB%8A%E6%97%8F-%E6%89%93%E7%A0%B4%E5%B8%B8%E8%A6%8F",
+    "timestamp": "2026-11-25T17:45:12.299Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀非TVB「親生女」奪視后：憑《下流上車族》打破常規",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103152165989912576792840.jpeg/euD60lBBjj0rYuKkZhWz1SVuSWhEOB5t6pbx0vCW8dI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414963/%E5%AF%A9%E8%A8%88%E5%A0%B1%E5%91%8A-%E7%A8%85%E5%8B%99%E4%B8%AD%E5%BF%83%E8%B3%BC%E5%AE%B6%E5%85%B7%E9%A0%90%E7%AE%97%E9%81%8E%E9%AB%98-%E7%84%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E5%80%BC%E5%8B%A4%E6%9C%AA%E6%89%A3%E6%89%BF%E8%BE%A6%E5%95%86%E6%9C%88%E8%B2%BB",
     "timestamp": "2026-11-25T11:45:35.746Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "城巴通宵客驚擺豪邁姿勢！躺平伸腳跨通道照片瘋傳：當自己屋企？",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1202045284717170688137426.png/NxJg7ajBlcNZRBQbG0z330DpRCsvnN-L8TjiAvE44gI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414595/%E5%9F%8E%E5%B7%B4%E9%80%9A%E5%AE%B5%E5%AE%A2%E9%A9%9A%E6%93%BA%E8%B1%AA%E9%82%81%E5%A7%BF%E5%8B%A2-%E8%BA%BA%E5%B9%B3%E4%BC%B8%E8%85%B3%E8%B7%A8%E9%80%9A%E9%81%93%E7%85%A7%E7%89%87%E7%98%8B%E5%82%B3-%E7%95%B6%E8%87%AA%E5%B7%B1%E5%B1%8B%E4%BC%81",
-    "timestamp": "2026-11-25T11:19:43.357Z",
     "strategy": ".content-card__main"
   }
 ];
