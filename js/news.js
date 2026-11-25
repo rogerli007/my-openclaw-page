@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T03:23:09.970Z
+// Last updated: 2026-11-25T03:37:22.308Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "日本京王電鐵遭勒索軟件襲擊　最多1108萬人含信用卡資料或外洩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202208529595764736769142.jpeg/l87ValBiKU_wFtiwjvwNlyP3QuuLbpVQaLHn8mix5_I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414684/%E6%97%A5%E6%9C%AC%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%90%B5%E9%81%AD%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E8%A5%B2%E6%93%8A-%E6%9C%80%E5%A4%9A1108%E8%90%AC%E4%BA%BA%E5%90%AB%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B3%87%E6%96%99%E6%88%96%E5%A4%96%E6%B4%A9",
+    "timestamp": "2026-11-25T03:37:22.308Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青光眼症狀｜9成人沒察覺嚴重可失明！5大成因+治療方法+手術費用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869491584536576907461.jpeg/5PTZPKEVzhfeJS6xDX2uVrlihv6cEj3zf3CnE39wpxM",
     "url": "https://www.hk01.com/01TV/60413490/%E6%B1%9F%E7%BE%8E%E5%84%80-%E8%A6%AA%E8%A6%AA%E6%88%91%E5%A5%BD%E5%AA%BD-%E6%94%B6%E8%A6%96%E7%A0%B430%E9%BB%9E-%E5%8A%87%E9%9B%86%E5%A4%A7%E6%8D%B7%E5%BE%8C%E4%B8%BB%E5%8B%95%E5%90%91%E7%B7%A8%E5%B0%8E%E8%87%B4%E6%AD%89",
     "timestamp": "2026-11-24T20:45:33.276Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀《親親我好媽》收視破30點：劇集大捷後主動向編導致歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869491584536576907461.jpeg/5PTZPKEVzhfeJS6xDX2uVrlihv6cEj3zf3CnE39wpxM",
-    "url": "https://www.hk01.com/01TV/60413490/%E6%B1%9F%E7%BE%8E%E5%84%80-%E8%A6%AA%E8%A6%AA%E6%88%91%E5%A5%BD%E5%AA%BD-%E6%94%B6%E8%A6%96%E7%A0%B430%E9%BB%9E-%E5%8A%87%E9%9B%86%E5%A4%A7%E6%8D%B7%E5%BE%8C%E4%B8%BB%E5%8B%95%E5%90%91%E7%B7%A8%E5%B0%8E%E8%87%B4%E6%AD%89",
-    "timestamp": "2026-11-24T20:29:07.456Z",
     "strategy": ".content-card__main"
   }
 ];
