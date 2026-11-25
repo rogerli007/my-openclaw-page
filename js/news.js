@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T03:37:22.308Z
+// Last updated: 2026-11-25T03:59:09.994Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「幟哥」黃永幟復出！坐鎮圍方中菜館　戴白框眼鏡、重振3大名菜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202219788605067264039726.jpeg/FVBauVIJiOJXnJw4Pj66wdNpI88CFzh0kFjJdpBYyXY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414721/%E5%B9%9F%E5%93%A5-%E9%BB%83%E6%B0%B8%E5%B9%9F%E5%BE%A9%E5%87%BA-%E5%9D%90%E9%8E%AE%E5%9C%8D%E6%96%B9%E4%B8%AD%E8%8F%9C%E9%A4%A8-%E6%88%B4%E7%99%BD%E6%A1%86%E7%9C%BC%E9%8F%A1-%E9%87%8D%E6%8C%AF3%E5%A4%A7%E5%90%8D%E8%8F%9C",
+    "timestamp": "2026-11-25T03:59:09.994Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本京王電鐵遭勒索軟件襲擊　最多1108萬人含信用卡資料或外洩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869491584536576907461.jpeg/5PTZPKEVzhfeJS6xDX2uVrlihv6cEj3zf3CnE39wpxM",
     "url": "https://www.hk01.com/01TV/60413490/%E6%B1%9F%E7%BE%8E%E5%84%80-%E8%A6%AA%E8%A6%AA%E6%88%91%E5%A5%BD%E5%AA%BD-%E6%94%B6%E8%A6%96%E7%A0%B430%E9%BB%9E-%E5%8A%87%E9%9B%86%E5%A4%A7%E6%8D%B7%E5%BE%8C%E4%B8%BB%E5%8B%95%E5%90%91%E7%B7%A8%E5%B0%8E%E8%87%B4%E6%AD%89",
     "timestamp": "2026-11-24T20:59:04.882Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀《親親我好媽》收視破30點：劇集大捷後主動向編導致歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869491584536576907461.jpeg/5PTZPKEVzhfeJS6xDX2uVrlihv6cEj3zf3CnE39wpxM",
-    "url": "https://www.hk01.com/01TV/60413490/%E6%B1%9F%E7%BE%8E%E5%84%80-%E8%A6%AA%E8%A6%AA%E6%88%91%E5%A5%BD%E5%AA%BD-%E6%94%B6%E8%A6%96%E7%A0%B430%E9%BB%9E-%E5%8A%87%E9%9B%86%E5%A4%A7%E6%8D%B7%E5%BE%8C%E4%B8%BB%E5%8B%95%E5%90%91%E7%B7%A8%E5%B0%8E%E8%87%B4%E6%AD%89",
-    "timestamp": "2026-11-24T20:45:33.276Z",
     "strategy": ".content-card__main"
   }
 ];
