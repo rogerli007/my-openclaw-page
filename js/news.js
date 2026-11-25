@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T02:24:55.180Z
+// Last updated: 2026-11-25T02:38:27.214Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "解放軍告別純空戰！殲-10C罕掛Kh-29重彈　複製美軍F-16對地打擊",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201961425501687808752809.png/feJATXGBfPKKSh8KrLI5P5tfDAwfvYoQjEpmUYxKZlE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414486/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%91%8A%E5%88%A5%E7%B4%94%E7%A9%BA%E6%88%B0-%E6%AE%B2-10c%E7%BD%95%E6%8E%9Bkh-29%E9%87%8D%E5%BD%88-%E8%A4%87%E8%A3%BD%E7%BE%8E%E8%BB%8Df-16%E5%B0%8D%E5%9C%B0%E6%89%93%E6%93%8A",
+    "timestamp": "2026-11-25T02:38:27.214Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑│大火一年前夕　廣福休憩現白花追悼",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202092425967833088327459.jpeg/jRKJ5D7pMKFwkjNQtJ_dzb8bg___r5toZHx042R8dOM",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414626/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%8D%B1%E6%92%9E%E5%80%92%E5%9C%B0-%E7%9A%84%E5%A3%AB%E5%88%87%E7%B7%9A%E5%86%8D%E6%92%BC%E8%BB%8A-%E5%85%B15%E8%BB%8A%E6%92%9E%E9%87%802%E5%82%B7",
     "timestamp": "2026-11-24T19:29:30.860Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美媒：美軍與福特、通用汽車等洽談　尋求協助生產無人機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202091408966553600386407.jpeg/4ykATihGwEvQu_stXMC9i9EQssABEgbNOi24ujotuLo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414625/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E8%88%87%E7%A6%8F%E7%89%B9-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BB%8A%E7%AD%89%E6%B4%BD%E8%AB%87-%E5%B0%8B%E6%B1%82%E5%8D%94%E5%8A%A9%E7%94%9F%E7%94%A2%E7%84%A1%E4%BA%BA%E6%A9%9F",
-    "timestamp": "2026-11-24T19:18:32.781Z",
     "strategy": ".content-card__main"
   }
 ];
