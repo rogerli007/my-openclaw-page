@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T14:45:54.631Z
+// Last updated: 2026-11-25T14:53:49.951Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "2026羽毛球年終賽︱安洗瑩力爭破紀錄年度第12冠　男單成開放競爭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202390513286647808907628.jpeg/ULjYjpwVhw0RRmdL9ZyPoKIQ4cQb875LYAbqtGAG6rQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415014/2026%E7%BE%BD%E6%AF%9B%E7%90%83%E5%B9%B4%E7%B5%82%E8%B3%BD-%E5%AE%89%E6%B4%97%E7%91%A9%E5%8A%9B%E7%88%AD%E7%A0%B4%E7%B4%80%E9%8C%84%E5%B9%B4%E5%BA%A6%E7%AC%AC12%E5%86%A0-%E7%94%B7%E5%96%AE%E6%88%90%E9%96%8B%E6%94%BE%E7%AB%B6%E7%88%AD",
+    "timestamp": "2026-11-25T14:53:49.951Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026羽毛球年終賽︱安洗瑩力爭破紀錄年度第12冠　男單成開放競爭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202281819727204352051392.jpeg/ix2ESdPTGwCufbL7DqBKdU3zl7OsBFzVN1WqjTdVqo0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60414822/%E7%9F%B3%E5%B7%9D%E4%BD%B3%E7%B4%94%E7%AA%81%E5%AE%A3%E5%B8%83%E7%B5%90%E5%A9%9A-3%E5%B1%86%E5%A5%A7%E9%81%8B%E5%90%8D%E5%B0%87%E6%83%85%E5%AE%9A%E5%9C%88%E5%A4%96%E4%BA%BA-ig%E8%A6%AA%E7%AD%86%E4%BF%A1%E8%A8%B4%E5%BF%83%E8%81%B2",
     "timestamp": "2026-11-25T08:24:10.606Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "德國專家籲趁高價賣福士予中國　稱若不改革中美將「吞併歐洲」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172966745942528000124863.jpeg/LQCWfmtwU6oBkOXgXRZsOkNZqzsSTQ_XGVJztBlSc7Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414855/%E5%BE%B7%E5%9C%8B%E5%B0%88%E5%AE%B6%E7%B1%B2%E8%B6%81%E9%AB%98%E5%83%B9%E8%B3%A3%E7%A6%8F%E5%A3%AB%E4%BA%88%E4%B8%AD%E5%9C%8B-%E7%A8%B1%E8%8B%A5%E4%B8%8D%E6%94%B9%E9%9D%A9%E4%B8%AD%E7%BE%8E%E5%B0%87-%E5%90%9E%E4%BD%B5%E6%AD%90%E6%B4%B2",
-    "timestamp": "2026-11-25T07:59:22.025Z",
     "strategy": ".content-card__main"
   }
 ];
