@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T15:45:12.427Z
+// Last updated: 2026-11-25T15:59:12.778Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "丁噹實力獻唱《兩京十五日》插曲　挑戰文言文歌詞直呼難唱到崩潰",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202315961122689024137602.jpeg/pqkHnDvN0mBcBqyehCxdz0_E8TG286HLKstJayrLSWs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60414911/%E4%B8%81%E5%99%B9%E5%AF%A6%E5%8A%9B%E7%8D%BB%E5%94%B1-%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E6%8F%92%E6%9B%B2-%E6%8C%91%E6%88%B0%E6%96%87%E8%A8%80%E6%96%87%E6%AD%8C%E8%A9%9E%E7%9B%B4%E5%91%BC%E9%9B%A3%E5%94%B1%E5%88%B0%E5%B4%A9%E6%BD%B0",
+    "timestamp": "2026-11-25T15:59:12.778Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Just Makeup 2｜化妝師生存戰　太妍允兒娜璉Winter神級女團主持",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250416/989196512766857216973428.jpeg/nnvjwxA-TEBp9-WHvK2WEb6kTxCzCPZuDpPE7g6TxO4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60414875/%E6%B0%91%E6%94%BF%E7%BD%B23%E5%B9%B4%E6%8E%A51342%E5%AE%97%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%8A%95%E8%A8%B4-%E5%BB%89%E7%BD%B2%E6%8E%A51940%E5%AE%97%E6%A8%93%E5%AE%87%E7%AE%A1%E7%90%86-%E6%B6%89%E8%B2%AA%E6%A1%88",
     "timestamp": "2026-11-25T09:33:40.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蟲草大王陳恩德又破產丨李佳芯曾拒愛聞訊感驚訝　首開腔劃清界線",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202301809440329728340569.png/dfpJEjkWu9k_NjeEXd6Bg9LdvA3gLz7Ld0Ei7ndBIu4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414919/%E8%9F%B2%E8%8D%89%E5%A4%A7%E7%8E%8B%E9%99%B3%E6%81%A9%E5%BE%B7%E5%8F%88%E7%A0%B4%E7%94%A2-%E6%9D%8E%E4%BD%B3%E8%8A%AF%E6%9B%BE%E6%8B%92%E6%84%9B%E8%81%9E%E8%A8%8A%E6%84%9F%E9%A9%9A%E8%A8%9D-%E9%A6%96%E9%96%8B%E8%85%94%E5%8A%83%E6%B8%85%E7%95%8C%E7%B7%9A",
-    "timestamp": "2026-11-25T08:59:29.627Z",
     "strategy": ".content-card__main"
   }
 ];
