@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T12:26:15.450Z
+// Last updated: 2026-11-25T12:49:17.781Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳復職前夕私訊曝光　500萬網紅曝受邀重機橫跨美國",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202327453289156608304286.png/5Q_bWJY-wNukaLkA_LNuOYNzZlmVCJmK3mE_qN5hP6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414987/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7%E5%89%8D%E5%A4%95%E7%A7%81%E8%A8%8A%E6%9B%9D%E5%85%89-500%E8%90%AC%E7%B6%B2%E7%B4%85%E6%9B%9D%E5%8F%97%E9%82%80%E9%87%8D%E6%A9%9F%E6%A9%AB%E8%B7%A8%E7%BE%8E%E5%9C%8B",
+    "timestamp": "2026-11-25T12:49:17.781Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB綠葉王李鴻杰慶結婚49周年　與太太罕有咀嘴放閃：感恩有妳",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202225704704413696796312.jpeg/UErA-9h4zMRM0gSP6UUON1rjpFQd9tVzAPfF8AD3xfA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414701/%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE-%E7%84%A1%E7%BF%BC%E9%A3%9B%E8%BB%8A-%E9%A6%96%E9%A3%9B%E6%94%BB%E6%95%91%E7%81%BD-%E6%AF%94%E9%A6%AC%E6%96%AF%E5%85%8B-%E9%A3%9B%E5%A4%A9%E8%B7%91%E8%BB%8A-%E6%9B%B4%E5%AF%A6%E7%94%A8",
     "timestamp": "2026-11-25T05:59:22.004Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑｜合安12.8開最後一次業主大會？　麥美娟：視乎業權收購",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202247786838364160278540.jpeg/uobPnMrYkGiizjzBTGC90Ilz26fZi4VXvfoHgr36B4I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414776/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%90%88%E5%AE%8912-8%E9%96%8B%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E8%A6%96%E4%B9%8E%E6%A5%AD%E6%AC%8A%E6%94%B6%E8%B3%BC",
-    "timestamp": "2026-11-25T05:45:36.706Z",
     "strategy": ".content-card__main"
   }
 ];
