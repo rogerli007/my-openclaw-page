@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T00:59:37.916Z
+// Last updated: 2026-11-25T01:31:11.302Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雲南女移花盆見粗過手臂巨蟒！震撼影片瘋傳　網民看細節疑AI造假",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201984774776819712183297.png/EobmrzyDA--OdIEl_j0f1gIJivrtZyFrROvvekTr73o",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414574/%E9%9B%B2%E5%8D%97%E5%A5%B3%E7%A7%BB%E8%8A%B1%E7%9B%86%E8%A6%8B%E7%B2%97%E9%81%8E%E6%89%8B%E8%87%82%E5%B7%A8%E8%9F%92-%E9%9C%87%E6%92%BC%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91%E7%9C%8B%E7%B4%B0%E7%AF%80%E7%96%91ai%E9%80%A0%E5%81%87",
+    "timestamp": "2026-11-25T01:31:11.302Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳復職｜重返英偉達　美國開源AI政策爭論升溫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993999691550720630471.jpeg/k3JSWZ0DXm7_nW9w9YVWJPVYtfMFjBdpL5Nvny-Tb58?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414621/wsj-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A7%E6%95%B8%E5%8D%81%E5%9C%8B%E5%AE%B6%E5%8A%A0%E9%97%9C%E7%A8%85-%E8%8F%AF%E5%BA%9C%E7%A8%B1%E5%9B%A0%E6%90%8D%E5%AE%B3%E7%BE%8E%E4%BC%81%E5%88%A9%E7%9B%8A",
     "timestamp": "2026-11-24T18:45:10.313Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993999691550720630471.jpeg/k3JSWZ0DXm7_nW9w9YVWJPVYtfMFjBdpL5Nvny-Tb58?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414621/wsj-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A7%E6%95%B8%E5%8D%81%E5%9C%8B%E5%AE%B6%E5%8A%A0%E9%97%9C%E7%A8%85-%E8%8F%AF%E5%BA%9C%E7%A8%B1%E5%9B%A0%E6%90%8D%E5%AE%B3%E7%BE%8E%E4%BC%81%E5%88%A9%E7%9B%8A",
-    "timestamp": "2026-11-24T18:33:12.708Z",
     "strategy": ".content-card__main"
   }
 ];
