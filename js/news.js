@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T01:48:43.780Z
+// Last updated: 2026-11-25T02:24:55.180Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑│大火一年前夕　廣福休憩現白花追悼",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202202098444275712236904.jpeg/5VK_tn9v98AlSL3UiEvldUTMIOXCRJC4rcyN363Mjd8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414661/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4%E5%89%8D%E5%A4%95-%E5%BB%A3%E7%A6%8F%E4%BC%91%E6%86%A9%E7%8F%BE%E7%99%BD%E8%8A%B1%E8%BF%BD%E6%82%BC",
+    "timestamp": "2026-11-25T02:24:55.180Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普稱如有需要願特赦黃仁勳　對政府入股英偉達持開放態度",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202091408966553600386407.jpeg/4ykATihGwEvQu_stXMC9i9EQssABEgbNOi24ujotuLo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414625/%E7%BE%8E%E5%AA%92-%E7%BE%8E%E8%BB%8D%E8%88%87%E7%A6%8F%E7%89%B9-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BB%8A%E7%AD%89%E6%B4%BD%E8%AB%87-%E5%B0%8B%E6%B1%82%E5%8D%94%E5%8A%A9%E7%94%9F%E7%94%A2%E7%84%A1%E4%BA%BA%E6%A9%9F",
     "timestamp": "2026-11-24T19:18:32.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WSJ：美國擬對中國在內數十國家加關稅　華府稱因損害美企利益",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993999691550720630471.jpeg/k3JSWZ0DXm7_nW9w9YVWJPVYtfMFjBdpL5Nvny-Tb58?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414621/wsj-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A7%E6%95%B8%E5%8D%81%E5%9C%8B%E5%AE%B6%E5%8A%A0%E9%97%9C%E7%A8%85-%E8%8F%AF%E5%BA%9C%E7%A8%B1%E5%9B%A0%E6%90%8D%E5%AE%B3%E7%BE%8E%E4%BC%81%E5%88%A9%E7%9B%8A",
-    "timestamp": "2026-11-24T18:59:04.497Z",
     "strategy": ".content-card__main"
   }
 ];
