@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T17:45:12.299Z
+// Last updated: 2026-11-25T17:59:02.514Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國第三季GDP上修至4.3%　核心PCE升幅三年來最高",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117409874314006528073618.jpeg/OvxOIouUDaFRKr_xPh-9zL49TalNkvdgAQl39QEJd_U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415047/%E7%BE%8E%E5%9C%8B%E7%AC%AC%E4%B8%89%E5%AD%A3gdp%E4%B8%8A%E4%BF%AE%E8%87%B34-3-%E6%A0%B8%E5%BF%83pce%E5%8D%87%E5%B9%85%E4%B8%89%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98",
+    "timestamp": "2026-11-25T17:59:02.514Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀非TVB「親生女」奪視后：憑《下流上車族》打破常規",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/4656601/org/aa2199e2a6a3938927493b6c43f7c7ab.jpg/V_1KQQqJKZGLYYbRyZC5spiMZZhCaPVr_sGZ2P7Bmdg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415012/%E5%9F%8E%E5%B8%82%E5%94%AE%E7%A5%A8%E7%B6%B2%E8%A2%AB%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%B6%89%E7%B4%84130%E8%90%AC%E4%BD%BF%E7%94%A8%E8%80%85%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99-%E5%BA%B7%E6%96%87%E7%BD%B2%E5%B7%B2%E5%A0%B1%E8%AD%A6",
     "timestamp": "2026-11-25T11:59:21.023Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "審計報告｜稅務中心購家具預算過高　無清潔工值勤未扣承辦商月費",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103152165989912576792840.jpeg/euD60lBBjj0rYuKkZhWz1SVuSWhEOB5t6pbx0vCW8dI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414963/%E5%AF%A9%E8%A8%88%E5%A0%B1%E5%91%8A-%E7%A8%85%E5%8B%99%E4%B8%AD%E5%BF%83%E8%B3%BC%E5%AE%B6%E5%85%B7%E9%A0%90%E7%AE%97%E9%81%8E%E9%AB%98-%E7%84%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E5%80%BC%E5%8B%A4%E6%9C%AA%E6%89%A3%E6%89%BF%E8%BE%A6%E5%95%86%E6%9C%88%E8%B2%BB",
-    "timestamp": "2026-11-25T11:45:35.746Z",
     "strategy": ".content-card__main"
   }
 ];
