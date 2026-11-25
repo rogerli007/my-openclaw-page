@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T11:59:21.023Z
+// Last updated: 2026-11-25T12:26:15.450Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB綠葉王李鴻杰慶結婚49周年　與太太罕有咀嘴放閃：感恩有妳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202294240688738304705649.jpeg/X4WxO6aMLwUEmu7ezB61pNAMJ-_zVmKNnQPryp0D68o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414854/tvb%E7%B6%A0%E8%91%89%E7%8E%8B%E6%9D%8E%E9%B4%BB%E6%9D%B0%E6%85%B6%E7%B5%90%E5%A9%9A49%E5%91%A8%E5%B9%B4-%E8%88%87%E5%A4%AA%E5%A4%AA%E7%BD%95%E6%9C%89%E5%92%80%E5%98%B4%E6%94%BE%E9%96%83-%E6%84%9F%E6%81%A9%E6%9C%89%E5%A6%B3",
+    "timestamp": "2026-11-25T12:26:15.450Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "城市售票網被黑客入侵　涉約130萬使用者個人資料　康文署已報警",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202247786838364160278540.jpeg/uobPnMrYkGiizjzBTGC90Ilz26fZi4VXvfoHgr36B4I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414776/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%90%88%E5%AE%8912-8%E9%96%8B%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E8%A6%96%E4%B9%8E%E6%A5%AD%E6%AC%8A%E6%94%B6%E8%B3%BC",
     "timestamp": "2026-11-25T05:45:36.706Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "氣溫急降宜補氣暖胃養血 附中醫推介11款袪寒茶飲 小孩適用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20240124/826883950919028736023467.jpeg/IGuAnYNQ8uPVoZIhgC1sUv2G6jJfMgu9kS4qD5EuKg8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/984190/%E6%B0%A3%E6%BA%AB%E6%80%A5%E9%99%8D%E5%AE%9C%E8%A3%9C%E6%B0%A3%E6%9A%96%E8%83%83%E9%A4%8A%E8%A1%80-%E9%99%84%E4%B8%AD%E9%86%AB%E6%8E%A8%E4%BB%8B11%E6%AC%BE%E8%A2%AA%E5%AF%92%E8%8C%B6%E9%A3%B2-%E5%B0%8F%E5%AD%A9%E9%81%A9%E7%94%A8",
-    "timestamp": "2026-11-25T05:21:28.020Z",
     "strategy": ".content-card__main"
   }
 ];
