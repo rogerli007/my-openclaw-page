@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T04:16:48.660Z
+// Last updated: 2026-11-25T04:34:19.383Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美媒：CIA及國家情報總監辦公室遭網絡入侵　非機密資料外洩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260128/1092997606159683584498172.jpeg/t8UHxPUes21jwK9pYLtD4Yq-csaegk817b-qGe2_qhk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414726/%E7%BE%8E%E5%AA%92-cia%E5%8F%8A%E5%9C%8B%E5%AE%B6%E6%83%85%E5%A0%B1%E7%B8%BD%E7%9B%A3%E8%BE%A6%E5%85%AC%E5%AE%A4%E9%81%AD%E7%B6%B2%E7%B5%A1%E5%85%A5%E4%BE%B5-%E9%9D%9E%E6%A9%9F%E5%AF%86%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9",
+    "timestamp": "2026-11-25T04:34:19.383Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港女生遊日慶生變悲劇　特區護照漏4頁遭拒入境遣返　教1招自保",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202133199476494336678340.png/8_Pl37eAUJrrx_WpOZZsmOBntXXpab85-tMREvrTERI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414588/%E7%9B%B4%E6%92%AD-%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%88%B908%E6%99%8218%E5%88%86%E7%99%BC%E5%B0%84-%E8%88%AA%E5%A4%A9%E5%93%A1%E5%89%8D%E5%BE%80%E7%99%BC%E5%B0%84%E5%A0%B4",
     "timestamp": "2026-11-24T21:45:23.153Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳全體員工大會致歉　坦承違反公司行為準則　正接受心理治療",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200747655756517376291873.jpeg/q2UgI4vQBtQ_P2Xhpf0ZgLnKbo85a_L-YcrS8GHK0vA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414628/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%85%A8%E9%AB%94%E5%93%A1%E5%B7%A5%E5%A4%A7%E6%9C%83%E8%87%B4%E6%AD%89-%E5%9D%A6%E6%89%BF%E9%81%95%E5%8F%8D%E5%85%AC%E5%8F%B8%E8%A1%8C%E7%82%BA%E6%BA%96%E5%89%87-%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82",
-    "timestamp": "2026-11-24T21:19:21.271Z",
     "strategy": ".content-card__main"
   }
 ];
