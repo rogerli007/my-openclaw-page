@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T07:59:22.025Z
+// Last updated: 2026-11-25T08:24:10.606Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "石川佳純突宣布結婚　3屆奧運名將情定圈外人　IG親筆信訴心聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202281819727204352051392.jpeg/ix2ESdPTGwCufbL7DqBKdU3zl7OsBFzVN1WqjTdVqo0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60414822/%E7%9F%B3%E5%B7%9D%E4%BD%B3%E7%B4%94%E7%AA%81%E5%AE%A3%E5%B8%83%E7%B5%90%E5%A9%9A-3%E5%B1%86%E5%A5%A7%E9%81%8B%E5%90%8D%E5%B0%87%E6%83%85%E5%AE%9A%E5%9C%88%E5%A4%96%E4%BA%BA-ig%E8%A6%AA%E7%AD%86%E4%BF%A1%E8%A8%B4%E5%BF%83%E8%81%B2",
+    "timestamp": "2026-11-25T08:24:10.606Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "德國專家籲趁高價賣福士予中國　稱若不改革中美將「吞併歐洲」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202202098444275712236904.jpeg/5VK_tn9v98AlSL3UiEvldUTMIOXCRJC4rcyN363Mjd8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414661/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4%E5%89%8D%E5%A4%95-%E5%BB%A3%E7%A6%8F%E4%BC%91%E6%86%A9%E7%8F%BE%E7%99%BD%E8%8A%B1%E8%BF%BD%E6%82%BC",
     "timestamp": "2026-11-25T02:24:55.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱如有需要願特赦黃仁勳　對政府入股英偉達持開放態度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202191293178974208723159.jpeg/W_EBMM2ANZ6mJxZZ3N2MydeHTh08rfuO6e4DhOnuA4Q?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414643/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%A6%82%E6%9C%89%E9%9C%80%E8%A6%81%E9%A1%98%E7%89%B9%E8%B5%A6%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%B0%8D%E6%94%BF%E5%BA%9C%E5%85%A5%E8%82%A1%E8%8B%B1%E5%81%89%E9%81%94%E6%8C%81%E9%96%8B%E6%94%BE%E6%85%8B%E5%BA%A6",
-    "timestamp": "2026-11-25T01:48:43.780Z",
     "strategy": ".content-card__main"
   }
 ];
