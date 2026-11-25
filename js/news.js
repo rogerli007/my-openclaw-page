@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T04:34:19.383Z
+// Last updated: 2026-11-25T04:45:35.292Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "王丹妮羅孝勇結婚三周年曬BB超聲波：「從此這個家變成了3+1=4」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202240241272885248147823.jpeg/AzBtyG1WJqJ6zH8t21g_Wv0fvWgSnR1IAn4GLQJ-Bi0?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414742/%E7%8E%8B%E4%B8%B9%E5%A6%AE%E7%BE%85%E5%AD%9D%E5%8B%87%E7%B5%90%E5%A9%9A%E4%B8%89%E5%91%A8%E5%B9%B4%E6%9B%ACbb%E8%B6%85%E8%81%B2%E6%B3%A2-%E5%BE%9E%E6%AD%A4%E9%80%99%E5%80%8B%E5%AE%B6%E8%AE%8A%E6%88%90%E4%BA%863-1-4",
+    "timestamp": "2026-11-25T04:45:35.292Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美媒：CIA及國家情報總監辦公室遭網絡入侵　非機密資料外洩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250704/1017764113704554496074968.jpeg/pF3Yqy0wjmvsn946cFBJZWJVlKAdwDk2WMYZpljGGaY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414631/%E8%B7%AF%E9%80%8F-shein%E8%A2%AB%E7%BE%8Eftc%E6%8C%87%E6%8E%A7%E8%AA%A4%E5%B0%8E%E6%B6%88%E8%B2%BB%E8%80%85-%E9%A1%98%E6%94%AF%E4%BB%981%E5%84%84%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3",
     "timestamp": "2026-11-24T21:59:12.383Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播｜神舟二十四號載人飛船08時18分發射　航天員前往發射場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202133199476494336678340.png/8_Pl37eAUJrrx_WpOZZsmOBntXXpab85-tMREvrTERI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414588/%E7%9B%B4%E6%92%AD-%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%88%B908%E6%99%8218%E5%88%86%E7%99%BC%E5%B0%84-%E8%88%AA%E5%A4%A9%E5%93%A1%E5%89%8D%E5%BE%80%E7%99%BC%E5%B0%84%E5%A0%B4",
-    "timestamp": "2026-11-24T21:45:23.153Z",
     "strategy": ".content-card__main"
   }
 ];
