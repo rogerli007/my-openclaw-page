@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T09:59:03.629Z
+// Last updated: 2026-11-25T10:21:03.976Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "旺角妹記生滾粥品倘覓址不成　明年初停業　食客暫別招牌銅煲魚粥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202312479284137984378124.jpeg/tLfysGkx1zweu9yFxn6roFt2v2zYUboxnFAS1pxQEtY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414957/%E6%97%BA%E8%A7%92%E5%A6%B9%E8%A8%98%E7%94%9F%E6%BB%BE%E7%B2%A5%E5%93%81%E5%80%98%E8%A6%93%E5%9D%80%E4%B8%8D%E6%88%90-%E6%98%8E%E5%B9%B4%E5%88%9D%E5%81%9C%E6%A5%AD-%E9%A3%9F%E5%AE%A2%E6%9A%AB%E5%88%A5%E6%8B%9B%E7%89%8C%E9%8A%85%E7%85%B2%E9%AD%9A%E7%B2%A5",
+    "timestamp": "2026-11-25T10:21:03.976Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "復仇者聯盟5｜最終預告3大解構！全員對抗哨兵　開彩虹橋疑尋洛基",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202219788605067264039726.jpeg/FVBauVIJiOJXnJw4Pj66wdNpI88CFzh0kFjJdpBYyXY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414721/%E5%B9%9F%E5%93%A5-%E9%BB%83%E6%B0%B8%E5%B9%9F%E5%BE%A9%E5%87%BA-%E5%9D%90%E9%8E%AE%E5%9C%8D%E6%96%B9%E4%B8%AD%E8%8F%9C%E9%A4%A8-%E6%88%B4%E7%99%BD%E6%A1%86%E7%9C%BC%E9%8F%A1-%E9%87%8D%E6%8C%AF3%E5%A4%A7%E5%90%8D%E8%8F%9C",
     "timestamp": "2026-11-25T03:59:09.994Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本京王電鐵遭勒索軟件襲擊　最多1108萬人含信用卡資料或外洩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202208529595764736769142.jpeg/l87ValBiKU_wFtiwjvwNlyP3QuuLbpVQaLHn8mix5_I?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414684/%E6%97%A5%E6%9C%AC%E4%BA%AC%E7%8E%8B%E9%9B%BB%E9%90%B5%E9%81%AD%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E8%A5%B2%E6%93%8A-%E6%9C%80%E5%A4%9A1108%E8%90%AC%E4%BA%BA%E5%90%AB%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B3%87%E6%96%99%E6%88%96%E5%A4%96%E6%B4%A9",
-    "timestamp": "2026-11-25T03:37:22.308Z",
     "strategy": ".content-card__main"
   }
 ];
