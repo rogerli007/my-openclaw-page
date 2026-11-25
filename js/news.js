@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T22:59:10.553Z
+// Last updated: 2026-11-25T23:19:21.725Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印度男棄名車白馬坐推土機迎親　引多人圍觀拍片　揭當地特殊象徵",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202238965713735680634571.png/rBvoJnu7KxeQX8miN4-ZD9wg_62AXG2qHEJp_xxCaf8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414735/%E5%8D%B0%E5%BA%A6%E7%94%B7%E6%A3%84%E5%90%8D%E8%BB%8A%E7%99%BD%E9%A6%AC%E5%9D%90%E6%8E%A8%E5%9C%9F%E6%A9%9F%E8%BF%8E%E8%A6%AA-%E5%BC%95%E5%A4%9A%E4%BA%BA%E5%9C%8D%E8%A7%80%E6%8B%8D%E7%89%87-%E6%8F%AD%E7%95%B6%E5%9C%B0%E7%89%B9%E6%AE%8A%E8%B1%A1%E5%BE%B5",
+    "timestamp": "2026-11-25T23:19:21.725Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐聯｜曼聯作客遭士砵亭逼和2：2　利物浦作客3：0勝布魯日",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202420717648351232561349.jpeg/R8StWlXOh-e_0dnDvTZop44CYOpqP2S0NxmWmjcZlpo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415043/%E6%A2%81%E9%9D%96%E7%90%AA%E8%80%81%E5%85%AC%E5%85%AC%E9%96%8B7%E6%AD%B2%E4%BB%94%E6%B5%B4%E5%AE%A4%E9%9C%B2%E8%87%80%E7%85%A7-%E5%86%8D%E9%85%8D%E4%B8%8A%E7%96%91%E4%BC%BC%E7%B2%97%E5%8F%A3%E5%AD%97%E7%9C%BC%E6%83%B9%E7%86%B1%E8%AD%B0",
     "timestamp": "2026-11-25T16:59:18.916Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聖公會3間小學同一供應商飯盒被指有頭髮昆蟲　食環署曾接3宗投訴",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220914/646691761523003392504271.jpeg/0bszwRFFtgxOhY7_0ZozJHsIluSCYI5A0o60SNKOtEg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415028/%E8%81%96%E5%85%AC%E6%9C%833%E9%96%93%E5%B0%8F%E5%AD%B8%E5%90%8C%E4%B8%80%E4%BE%9B%E6%87%89%E5%95%86%E9%A3%AF%E7%9B%92%E8%A2%AB%E6%8C%87%E6%9C%89%E9%A0%AD%E9%AB%AE%E6%98%86%E8%9F%B2-%E9%A3%9F%E7%92%B0%E7%BD%B2%E6%9B%BE%E6%8E%A53%E5%AE%97%E6%8A%95%E8%A8%B4",
-    "timestamp": "2026-11-25T16:36:45.457Z",
     "strategy": ".content-card__main"
   }
 ];
