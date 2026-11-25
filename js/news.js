@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T21:45:29.210Z
+// Last updated: 2026-11-25T21:58:57.182Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵：天水圍站工程車設備故障　屯馬綫候車時間多10至15分鐘",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162041753864376320764952.jpeg/pmZ2x7rgeiSgmvDrxeICUVpxE9uSH2tFIYJHUyGCR1M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415066/%E6%B8%AF%E9%90%B5-%E5%A4%A9%E6%B0%B4%E5%9C%8D%E7%AB%99%E5%B7%A5%E7%A8%8B%E8%BB%8A%E8%A8%AD%E5%82%99%E6%95%85%E9%9A%9C-%E5%B1%AF%E9%A6%AC%E7%B6%AB%E5%80%99%E8%BB%8A%E6%99%82%E9%96%93%E5%A4%9A10%E8%87%B315%E5%88%86%E9%90%98",
+    "timestamp": "2026-11-25T21:58:57.182Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀目睹泰國海嘯慘狀：心理創傷引發長達20年的海嘯噩夢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202315961122689024137602.jpeg/pqkHnDvN0mBcBqyehCxdz0_E8TG286HLKstJayrLSWs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60414911/%E4%B8%81%E5%99%B9%E5%AF%A6%E5%8A%9B%E7%8D%BB%E5%94%B1-%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E6%8F%92%E6%9B%B2-%E6%8C%91%E6%88%B0%E6%96%87%E8%A8%80%E6%96%87%E6%AD%8C%E8%A9%9E%E7%9B%B4%E5%91%BC%E9%9B%A3%E5%94%B1%E5%88%B0%E5%B4%A9%E6%BD%B0",
     "timestamp": "2026-11-25T15:59:12.778Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Just Makeup 2｜化妝師生存戰　太妍允兒娜璉Winter神級女團主持",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202393741441110016083761.jpeg/-0ghWgXkAymrR6f_XYMU2uP2fCDHoh1hHYA1Xh2ANV4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415036/just-makeup-2-%E5%8C%96%E5%A6%9D%E5%B8%AB%E7%94%9F%E5%AD%98%E6%88%B0-%E5%A4%AA%E5%A6%8D%E5%85%81%E5%85%92%E5%A8%9C%E7%92%89winter%E7%A5%9E%E7%B4%9A%E5%A5%B3%E5%9C%98%E4%B8%BB%E6%8C%81",
-    "timestamp": "2026-11-25T15:45:12.427Z",
     "strategy": ".content-card__main"
   }
 ];
