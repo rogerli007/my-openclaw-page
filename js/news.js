@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T18:22:00.018Z
+// Last updated: 2026-11-25T18:33:13.754Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "警旺角搗地下竹館　檢獲7張麻雀枱$2萬現金　23人被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202445348727951360362847.jpeg/KpqiQuH_wyqwOQbGXpBY961Hz8Px8GD6hCxE7IQsROw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415053/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E6%AA%A2%E7%8D%B27%E5%BC%B5%E9%BA%BB%E9%9B%80%E6%9E%B1-2%E8%90%AC%E7%8F%BE%E9%87%91-23%E4%BA%BA%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-25T18:33:13.754Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀感念陳煒義氣：經濟困難 對方直接轉帳借錢幫忙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202327453289156608304286.png/5Q_bWJY-wNukaLkA_LNuOYNzZlmVCJmK3mE_qN5hP6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414987/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7%E5%89%8D%E5%A4%95%E7%A7%81%E8%A8%8A%E6%9B%9D%E5%85%89-500%E8%90%AC%E7%B6%B2%E7%B4%85%E6%9B%9D%E5%8F%97%E9%82%80%E9%87%8D%E6%A9%9F%E6%A9%AB%E8%B7%A8%E7%BE%8E%E5%9C%8B",
     "timestamp": "2026-11-25T12:49:17.781Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "TVB綠葉王李鴻杰慶結婚49周年　與太太罕有咀嘴放閃：感恩有妳",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202294240688738304705649.jpeg/X4WxO6aMLwUEmu7ezB61pNAMJ-_zVmKNnQPryp0D68o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414854/tvb%E7%B6%A0%E8%91%89%E7%8E%8B%E6%9D%8E%E9%B4%BB%E6%9D%B0%E6%85%B6%E7%B5%90%E5%A9%9A49%E5%91%A8%E5%B9%B4-%E8%88%87%E5%A4%AA%E5%A4%AA%E7%BD%95%E6%9C%89%E5%92%80%E5%98%B4%E6%94%BE%E9%96%83-%E6%84%9F%E6%81%A9%E6%9C%89%E5%A6%B3",
-    "timestamp": "2026-11-25T12:26:15.450Z",
     "strategy": ".content-card__main"
   }
 ];
