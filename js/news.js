@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T08:59:29.627Z
+// Last updated: 2026-11-25T09:33:40.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "民政署3年接1342宗大廈管理投訴　廉署接1940宗樓宇管理、涉貪案",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250416/989196512766857216973428.jpeg/nnvjwxA-TEBp9-WHvK2WEb6kTxCzCPZuDpPE7g6TxO4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60414875/%E6%B0%91%E6%94%BF%E7%BD%B23%E5%B9%B4%E6%8E%A51342%E5%AE%97%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%8A%95%E8%A8%B4-%E5%BB%89%E7%BD%B2%E6%8E%A51940%E5%AE%97%E6%A8%93%E5%AE%87%E7%AE%A1%E7%90%86-%E6%B6%89%E8%B2%AA%E6%A1%88",
+    "timestamp": "2026-11-25T09:33:40.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蟲草大王陳恩德又破產丨李佳芯曾拒愛聞訊感驚訝　首開腔劃清界線",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202219933467938816962385.png/60GS9MfVeMEKMK48pZqJBzeizammPYoAd3QEEXd0BBE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60396829/%E9%9D%92%E5%85%89%E7%9C%BC%E7%97%87%E7%8B%80-9%E6%88%90%E4%BA%BA%E6%B2%92%E5%AF%9F%E8%A6%BA%E5%9A%B4%E9%87%8D%E5%8F%AF%E5%A4%B1%E6%98%8E-5%E5%A4%A7%E6%88%90%E5%9B%A0-%E6%B2%BB%E7%99%82%E6%96%B9%E6%B3%95-%E6%89%8B%E8%A1%93%E8%B2%BB%E7%94%A8",
     "timestamp": "2026-11-25T03:23:09.970Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "華為遭美國法院裁定10項罪名成立　涉隱瞞伊朗業務和竊取商業機密",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20231002/785556276363923456081234.jpeg/toxpgYnkdbzkrDFwYhOxdu-YXccMMu75frpuT366bk8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414681/%E8%8F%AF%E7%82%BA%E9%81%AD%E7%BE%8E%E5%9C%8B%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A10%E9%A0%85%E7%BD%AA%E5%90%8D%E6%88%90%E7%AB%8B-%E6%B6%89%E9%9A%B1%E7%9E%9E%E4%BC%8A%E6%9C%97%E6%A5%AD%E5%8B%99%E5%92%8C%E7%AB%8A%E5%8F%96%E5%95%86%E6%A5%AD%E6%A9%9F%E5%AF%86",
-    "timestamp": "2026-11-25T02:59:16.451Z",
     "strategy": ".content-card__main"
   }
 ];
