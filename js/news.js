@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T16:23:58.960Z
+// Last updated: 2026-11-25T16:36:45.457Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聖公會3間小學同一供應商飯盒被指有頭髮昆蟲　食環署曾接3宗投訴",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20220914/646691761523003392504271.jpeg/0bszwRFFtgxOhY7_0ZozJHsIluSCYI5A0o60SNKOtEg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415028/%E8%81%96%E5%85%AC%E6%9C%833%E9%96%93%E5%B0%8F%E5%AD%B8%E5%90%8C%E4%B8%80%E4%BE%9B%E6%87%89%E5%95%86%E9%A3%AF%E7%9B%92%E8%A2%AB%E6%8C%87%E6%9C%89%E9%A0%AD%E9%AB%AE%E6%98%86%E8%9F%B2-%E9%A3%9F%E7%92%B0%E7%BD%B2%E6%9B%BE%E6%8E%A53%E5%AE%97%E6%8A%95%E8%A8%B4",
+    "timestamp": "2026-11-25T16:36:45.457Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Therabody新品登場｜肩頸按摩器、雙槍頭肩頸按摩器、掌心降溫儀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202312479284137984378124.jpeg/tLfysGkx1zweu9yFxn6roFt2v2zYUboxnFAS1pxQEtY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414957/%E6%97%BA%E8%A7%92%E5%A6%B9%E8%A8%98%E7%94%9F%E6%BB%BE%E7%B2%A5%E5%93%81%E5%80%98%E8%A6%93%E5%9D%80%E4%B8%8D%E6%88%90-%E6%98%8E%E5%B9%B4%E5%88%9D%E5%81%9C%E6%A5%AD-%E9%A3%9F%E5%AE%A2%E6%9A%AB%E5%88%A5%E6%8B%9B%E7%89%8C%E9%8A%85%E7%85%B2%E9%AD%9A%E7%B2%A5",
     "timestamp": "2026-11-25T10:21:03.976Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "復仇者聯盟5｜最終預告3大解構！全員對抗哨兵　開彩虹橋疑尋洛基",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202294210762379264704315.png/aDS78UY52OeVW8ER3vBkvQiYc-p5MR4lEmtckRJrXJE",
-    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414842/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F5-%E6%9C%80%E7%B5%82%E9%A0%90%E5%91%8A3%E5%A4%A7%E8%A7%A3%E6%A7%8B-%E5%85%A8%E5%93%A1%E5%B0%8D%E6%8A%97%E5%93%A8%E5%85%B5-%E9%96%8B%E5%BD%A9%E8%99%B9%E6%A9%8B%E7%96%91%E5%B0%8B%E6%B4%9B%E5%9F%BA",
-    "timestamp": "2026-11-25T09:59:03.629Z",
     "strategy": ".content-card__main"
   }
 ];
