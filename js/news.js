@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T12:49:17.781Z
+// Last updated: 2026-11-25T13:20:59.931Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《復仇者5》上映時間撞《沙丘3》　世紀搶客對決掀「Dunesday」潮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202320774476599296752640.png/QujKjsyXvidLey9-2UYzlce-l_zSDgCjYwcrz2MHK88",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414891/%E5%BE%A9%E4%BB%87%E8%80%855-%E4%B8%8A%E6%98%A0%E6%99%82%E9%96%93%E6%92%9E-%E6%B2%99%E4%B8%983-%E4%B8%96%E7%B4%80%E6%90%B6%E5%AE%A2%E5%B0%8D%E6%B1%BA%E6%8E%80-dunesday-%E6%BD%AE",
+    "timestamp": "2026-11-25T13:20:59.931Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳復職前夕私訊曝光　500萬網紅曝受邀重機橫跨美國",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202262906192793600501843.jpeg/MA_goyPPSYop3a4hRN_xJtByEm5IkxhNoSH9rKEh_aw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414792/%E7%B5%90%E5%A9%9A8%E5%B9%B43%E5%A5%B3%E5%9D%87%E9%9D%9E%E8%A6%AA%E7%94%9F-%E9%99%9D%E8%A5%BF%E7%94%B7%E5%B4%A9%E6%BD%B0%E6%8F%90%E5%91%8A-%E6%B3%95%E9%99%A2%E5%88%A4%E5%A6%BB%E8%B3%A0%E5%84%9F22%E8%90%AC",
     "timestamp": "2026-11-25T06:28:32.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "全球首款「無翼飛車」首飛攻救災 | 比馬斯克「飛天跑車」更實用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202225704704413696796312.jpeg/UErA-9h4zMRM0gSP6UUON1rjpFQd9tVzAPfF8AD3xfA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414701/%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE-%E7%84%A1%E7%BF%BC%E9%A3%9B%E8%BB%8A-%E9%A6%96%E9%A3%9B%E6%94%BB%E6%95%91%E7%81%BD-%E6%AF%94%E9%A6%AC%E6%96%AF%E5%85%8B-%E9%A3%9B%E5%A4%A9%E8%B7%91%E8%BB%8A-%E6%9B%B4%E5%AF%A6%E7%94%A8",
-    "timestamp": "2026-11-25T05:59:22.004Z",
     "strategy": ".content-card__main"
   }
 ];
