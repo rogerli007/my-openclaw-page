@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T08:47:57.389Z
+// Last updated: 2026-11-25T08:59:29.627Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蟲草大王陳恩德又破產丨李佳芯曾拒愛聞訊感驚訝　首開腔劃清界線",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202301809440329728340569.png/dfpJEjkWu9k_NjeEXd6Bg9LdvA3gLz7Ld0Ei7ndBIu4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414919/%E8%9F%B2%E8%8D%89%E5%A4%A7%E7%8E%8B%E9%99%B3%E6%81%A9%E5%BE%B7%E5%8F%88%E7%A0%B4%E7%94%A2-%E6%9D%8E%E4%BD%B3%E8%8A%AF%E6%9B%BE%E6%8B%92%E6%84%9B%E8%81%9E%E8%A8%8A%E6%84%9F%E9%A9%9A%E8%A8%9D-%E9%A6%96%E9%96%8B%E8%85%94%E5%8A%83%E6%B8%85%E7%95%8C%E7%B7%9A",
+    "timestamp": "2026-11-25T08:59:29.627Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "少爺占自爆曾喝止8歲鄰居「唔好喺走廊玩」 多年後相認竟是林家熙",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20231002/785556276363923456081234.jpeg/toxpgYnkdbzkrDFwYhOxdu-YXccMMu75frpuT366bk8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414681/%E8%8F%AF%E7%82%BA%E9%81%AD%E7%BE%8E%E5%9C%8B%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A10%E9%A0%85%E7%BD%AA%E5%90%8D%E6%88%90%E7%AB%8B-%E6%B6%89%E9%9A%B1%E7%9E%9E%E4%BC%8A%E6%9C%97%E6%A5%AD%E5%8B%99%E5%92%8C%E7%AB%8A%E5%8F%96%E5%95%86%E6%A5%AD%E6%A9%9F%E5%AF%86",
     "timestamp": "2026-11-25T02:59:16.451Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "解放軍告別純空戰！殲-10C罕掛Kh-29重彈　複製美軍F-16對地打擊",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201961425501687808752809.png/feJATXGBfPKKSh8KrLI5P5tfDAwfvYoQjEpmUYxKZlE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414486/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%91%8A%E5%88%A5%E7%B4%94%E7%A9%BA%E6%88%B0-%E6%AE%B2-10c%E7%BD%95%E6%8E%9Bkh-29%E9%87%8D%E5%BD%88-%E8%A4%87%E8%A3%BD%E7%BE%8E%E8%BB%8Df-16%E5%B0%8D%E5%9C%B0%E6%89%93%E6%93%8A",
-    "timestamp": "2026-11-25T02:38:27.214Z",
     "strategy": ".content-card__main"
   }
 ];
