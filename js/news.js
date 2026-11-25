@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T13:45:26.336Z
+// Last updated: 2026-11-25T13:59:17.391Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "G-Dragon鬆口想當爸「有生小孩計劃」　BIGBANG成員齊幫忙取名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202310858164670464852034.png/wMUn1ISf0giwXKgRR1m1dBqqErRpABW_PVbs1D1W7NQ",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414899/g-dragon%E9%AC%86%E5%8F%A3%E6%83%B3%E7%95%B6%E7%88%B8-%E6%9C%89%E7%94%9F%E5%B0%8F%E5%AD%A9%E8%A8%88%E5%8A%83-bigbang%E6%88%90%E5%93%A1%E9%BD%8A%E5%B9%AB%E5%BF%99%E5%8F%96%E5%90%8D",
+    "timestamp": "2026-11-25T13:59:17.391Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特區護照漏頁風波｜入境處：護照疑被不法改動　轉交執法部門跟進",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/cis/5def273dc0c9dc116d9c3107.jpg/3Q7od8TvEsCy1tpIUF07KGYLTWp8Di_hGaQ9_xmkPf8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414837/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E9%9A%A8%E6%99%82%E9%87%8D%E5%95%9F%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E9%80%9A%E4%BF%A1-%E9%87%8D%E8%BF%94%E7%84%A1%E6%A0%B8%E5%8C%96%E8%AB%87%E5%88%A4%E6%81%90%E9%81%87%E6%9C%9D%E9%AE%AE%E5%86%B7%E6%9D%BF%E5%87%B3",
     "timestamp": "2026-11-25T07:33:43.946Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "連詩雅忙工作冷落兩歲半愛女Camila　一句童言童語令媽媽超內疚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202264873564639232349528.jpeg/e5CYZqrtpExlRaY_D2PpCLZvzUG6Ptk-A9E-2gPRPto?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414803/%E9%80%A3%E8%A9%A9%E9%9B%85%E5%BF%99%E5%B7%A5%E4%BD%9C%E5%86%B7%E8%90%BD%E5%85%A9%E6%AD%B2%E5%8D%8A%E6%84%9B%E5%A5%B3camila-%E4%B8%80%E5%8F%A5%E7%AB%A5%E8%A8%80%E7%AB%A5%E8%AA%9E%E4%BB%A4%E5%AA%BD%E5%AA%BD%E8%B6%85%E5%85%A7%E7%96%9A",
-    "timestamp": "2026-11-25T07:22:11.740Z",
     "strategy": ".content-card__main"
   }
 ];
