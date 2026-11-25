@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T23:19:21.725Z
+// Last updated: 2026-11-25T23:45:14.154Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "流清鼻水六年誤當鼻敏感　38歲女揭腦脊液鼻漏　4招辨腦脊液鼻漏",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201924665501552640265071.jpeg/PM3GXvwEPKEphnu7mUEovcNOru7ToA7-kN77TJDe-0w?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413973/%E6%B5%81%E6%B8%85%E9%BC%BB%E6%B0%B4%E5%85%AD%E5%B9%B4%E8%AA%A4%E7%95%B6%E9%BC%BB%E6%95%8F%E6%84%9F-38%E6%AD%B2%E5%A5%B3%E6%8F%AD%E8%85%A6%E8%84%8A%E6%B6%B2%E9%BC%BB%E6%BC%8F-4%E6%8B%9B%E8%BE%A8%E8%85%A6%E8%84%8A%E6%B6%B2%E9%BC%BB%E6%BC%8F",
+    "timestamp": "2026-11-25T23:45:14.154Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印度男棄名車白馬坐推土機迎親　引多人圍觀拍片　揭當地特殊象徵",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869829792239616879652.jpeg/h_bnuZOl7-uvVNmsf_YP5cZ_QbUC1e8IEUJwSBFCcEg",
     "url": "https://www.hk01.com/01TV/60413491/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%9D%9Etvb-%E8%A6%AA%E7%94%9F%E5%A5%B3-%E5%A5%AA%E8%A6%96%E5%90%8E-%E6%86%91-%E4%B8%8B%E6%B5%81%E4%B8%8A%E8%BB%8A%E6%97%8F-%E6%89%93%E7%A0%B4%E5%B8%B8%E8%A6%8F",
     "timestamp": "2026-11-25T17:18:36.998Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "梁靖琪老公公開7歲仔浴室露臀照　再配上疑似粗口字眼惹熱議",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202420717648351232561349.jpeg/R8StWlXOh-e_0dnDvTZop44CYOpqP2S0NxmWmjcZlpo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415043/%E6%A2%81%E9%9D%96%E7%90%AA%E8%80%81%E5%85%AC%E5%85%AC%E9%96%8B7%E6%AD%B2%E4%BB%94%E6%B5%B4%E5%AE%A4%E9%9C%B2%E8%87%80%E7%85%A7-%E5%86%8D%E9%85%8D%E4%B8%8A%E7%96%91%E4%BC%BC%E7%B2%97%E5%8F%A3%E5%AD%97%E7%9C%BC%E6%83%B9%E7%86%B1%E8%AD%B0",
-    "timestamp": "2026-11-25T16:59:18.916Z",
     "strategy": ".content-card__main"
   }
 ];
