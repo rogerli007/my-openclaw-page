@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T04:59:05.503Z
+// Last updated: 2026-11-25T05:21:28.020Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "氣溫急降宜補氣暖胃養血 附中醫推介11款袪寒茶飲 小孩適用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20240124/826883950919028736023467.jpeg/IGuAnYNQ8uPVoZIhgC1sUv2G6jJfMgu9kS4qD5EuKg8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/984190/%E6%B0%A3%E6%BA%AB%E6%80%A5%E9%99%8D%E5%AE%9C%E8%A3%9C%E6%B0%A3%E6%9A%96%E8%83%83%E9%A4%8A%E8%A1%80-%E9%99%84%E4%B8%AD%E9%86%AB%E6%8E%A8%E4%BB%8B11%E6%AC%BE%E8%A2%AA%E5%AF%92%E8%8C%B6%E9%A3%B2-%E5%B0%8F%E5%AD%A9%E9%81%A9%E7%94%A8",
+    "timestamp": "2026-11-25T05:21:28.020Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "高考狀元北大畢業再花30萬讀中大碩士　如今月薪7千相親4次均失敗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201980973663653888043967.jpeg/FpmadR01uWgMzAQEQ_UO8t0p4W9wuCjkyfgA1Mn4ANQ",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414433/%E8%8E%8A%E6%80%9D%E6%95%8F%E8%B1%AA%E9%80%81lv%E6%89%8B%E9%8F%88bigbang%E5%91%A8%E9%82%8A%E6%B0%B9%E7%B4%B0%E5%A6%B9-%E6%9B%BE%E8%A2%AB%E6%96%A5%E6%B6%88%E8%B2%BB%E4%BA%A1%E6%AF%8D%E5%82%B3%E5%A7%8A%E5%A6%B9%E6%B1%BA%E8%A3%82",
     "timestamp": "2026-11-24T22:45:27.325Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "北角男子受傷倒地　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202142516082642944976148.jpeg/frc05GbNnbqB2PF4CzDFrTggCChsCbfuzPb31vb299Y?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414632/%E5%8C%97%E8%A7%92%E7%94%B7%E5%AD%90%E5%8F%97%E5%82%B7%E5%80%92%E5%9C%B0-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-11-24T22:19:30.803Z",
     "strategy": ".content-card__main"
   }
 ];
