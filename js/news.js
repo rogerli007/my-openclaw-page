@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T05:59:22.004Z
+// Last updated: 2026-11-25T06:28:32.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "結婚8年3女均非親生　陝西男崩潰提告　法院判妻賠償22萬",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202262906192793600501843.jpeg/MA_goyPPSYop3a4hRN_xJtByEm5IkxhNoSH9rKEh_aw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414792/%E7%B5%90%E5%A9%9A8%E5%B9%B43%E5%A5%B3%E5%9D%87%E9%9D%9E%E8%A6%AA%E7%94%9F-%E9%99%9D%E8%A5%BF%E7%94%B7%E5%B4%A9%E6%BD%B0%E6%8F%90%E5%91%8A-%E6%B3%95%E9%99%A2%E5%88%A4%E5%A6%BB%E8%B3%A0%E5%84%9F22%E8%90%AC",
+    "timestamp": "2026-11-25T06:28:32.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "全球首款「無翼飛車」首飛攻救災 | 比馬斯克「飛天跑車」更實用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200507282287235072769283.jpeg/Wb_0Q3mTwjwnGrM0zNys0SRcrCpL71VlVz8CZ1c_Amc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413145/%E8%A1%8C%E6%A8%93%E6%A2%AF%E8%85%B3%E8%BB%9F%E6%89%8B%E7%8F%BE%E7%B4%AB%E7%B4%85%E7%96%B9-46%E6%AD%B2%E5%A5%B3%E7%A2%BA%E8%A8%BA-%E7%9A%AE%E8%82%8C%E7%82%8E-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E5%A5%AA%E5%91%BD%E8%AD%A6%E8%99%9F",
     "timestamp": "2026-11-24T23:45:05.574Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "37歲男主管長期加班食外賣無視高血壓7年　冷風夜跑後癱軟險喪命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201962547876466688602957.png/i0jopNZ_jB6gJtqdCQSOj5aE7dgV16uLYCuw1mArsNY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414400/37%E6%AD%B2%E7%94%B7%E4%B8%BB%E7%AE%A1%E9%95%B7%E6%9C%9F%E5%8A%A0%E7%8F%AD%E9%A3%9F%E5%A4%96%E8%B3%A3%E7%84%A1%E8%A6%96%E9%AB%98%E8%A1%80%E5%A3%937%E5%B9%B4-%E5%86%B7%E9%A2%A8%E5%A4%9C%E8%B7%91%E5%BE%8C%E7%99%B1%E8%BB%9F%E9%9A%AA%E5%96%AA%E5%91%BD",
-    "timestamp": "2026-11-24T23:29:42.596Z",
     "strategy": ".content-card__main"
   }
 ];
