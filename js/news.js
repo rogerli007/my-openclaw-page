@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T19:53:27.138Z
+// Last updated: 2026-11-25T20:19:36.643Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀前往泰國拍劇：目睹寇納海嘯後的慘狀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200872936471269376082159.jpeg/glcyj45_hQnvQzCP5Mfhzlu55NgO1ycH7te8-u7XvPo",
+    "url": "https://www.hk01.com/01TV/60413498/%E6%B1%9F%E7%BE%8E%E5%84%80%E5%89%8D%E5%BE%80%E6%B3%B0%E5%9C%8B%E6%8B%8D%E5%8A%87-%E7%9B%AE%E7%9D%B9%E5%AF%87%E7%B4%8D%E6%B5%B7%E5%98%AF%E5%BE%8C%E7%9A%84%E6%85%98%E7%8B%80",
+    "timestamp": "2026-11-25T20:19:36.643Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "大老山隧道3車撞　3人受傷　其中1名司機「吹細機」未能通過酒測",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2581381/org/8c9977edd46f3740e4b6b73e09b433f4.jpg/jspSeHEPBdIYCrnsXLfJCxxVM4pUKzwac3dLonN3S6I?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415023/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98-%E5%AE%98%E5%AA%922018%E5%B9%B4%E5%B7%B2%E6%8F%AD%E9%99%8C%E7%94%9F%E4%BA%BA%E7%B6%81%E5%AE%9A%E5%B8%B3%E6%88%B6-%E5%90%8D%E4%B8%8B5%E5%80%8B%E5%B8%B3%E6%88%B64%E5%80%8B%E4%B8%8D%E8%AA%8D%E5%BE%97",
     "timestamp": "2026-11-25T14:21:16.684Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "G-Dragon鬆口想當爸「有生小孩計劃」　BIGBANG成員齊幫忙取名",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202310858164670464852034.png/wMUn1ISf0giwXKgRR1m1dBqqErRpABW_PVbs1D1W7NQ",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414899/g-dragon%E9%AC%86%E5%8F%A3%E6%83%B3%E7%95%B6%E7%88%B8-%E6%9C%89%E7%94%9F%E5%B0%8F%E5%AD%A9%E8%A8%88%E5%8A%83-bigbang%E6%88%90%E5%93%A1%E9%BD%8A%E5%B9%AB%E5%BF%99%E5%8F%96%E5%90%8D",
-    "timestamp": "2026-11-25T13:59:17.391Z",
     "strategy": ".content-card__main"
   }
 ];
