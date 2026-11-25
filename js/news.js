@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T19:18:17.422Z
+// Last updated: 2026-11-25T19:53:27.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "大老山隧道3車撞　3人受傷　其中1名司機「吹細機」未能通過酒測",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202463860968132608834059.jpeg/5THRVYR6-Fhau2BXq-UDJmTXXS0Fmz7uTk3N6E5Nzeg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415059/%E5%A4%A7%E8%80%81%E5%B1%B1%E9%9A%A7%E9%81%933%E8%BB%8A%E6%92%9E-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%85%B6%E4%B8%AD1%E5%90%8D%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%B4%B0%E6%A9%9F-%E6%9C%AA%E8%83%BD%E9%80%9A%E9%81%8E%E9%85%92%E6%B8%AC",
+    "timestamp": "2026-11-25T19:53:27.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林俊傑認愛後罕有放閃　為細21歲女友七七慶生送上生日蛋糕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202310858164670464852034.png/wMUn1ISf0giwXKgRR1m1dBqqErRpABW_PVbs1D1W7NQ",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414899/g-dragon%E9%AC%86%E5%8F%A3%E6%83%B3%E7%95%B6%E7%88%B8-%E6%9C%89%E7%94%9F%E5%B0%8F%E5%AD%A9%E8%A8%88%E5%8A%83-bigbang%E6%88%90%E5%93%A1%E9%BD%8A%E5%B9%AB%E5%BF%99%E5%8F%96%E5%90%8D",
     "timestamp": "2026-11-25T13:59:17.391Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特區護照漏頁風波｜入境處：護照疑被不法改動　轉交執法部門跟進",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202225436952629248347580.jpeg/-qzLDO8nX-a5xie_SKGNDAgAO_cQZXmTdIewW3SHsFs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415027/%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E6%BC%8F%E9%A0%81%E9%A2%A8%E6%B3%A2-%E5%85%A5%E5%A2%83%E8%99%95-%E8%AD%B7%E7%85%A7%E7%96%91%E8%A2%AB%E4%B8%8D%E6%B3%95%E6%94%B9%E5%8B%95-%E8%BD%89%E4%BA%A4%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E8%B7%9F%E9%80%B2",
-    "timestamp": "2026-11-25T13:45:26.336Z",
     "strategy": ".content-card__main"
   }
 ];
