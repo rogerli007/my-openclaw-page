@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T07:45:42.784Z
+// Last updated: 2026-11-25T07:59:22.025Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "德國專家籲趁高價賣福士予中國　稱若不改革中美將「吞併歐洲」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260905/1172966745942528000124863.jpeg/LQCWfmtwU6oBkOXgXRZsOkNZqzsSTQ_XGVJztBlSc7Q?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414855/%E5%BE%B7%E5%9C%8B%E5%B0%88%E5%AE%B6%E7%B1%B2%E8%B6%81%E9%AB%98%E5%83%B9%E8%B3%A3%E7%A6%8F%E5%A3%AB%E4%BA%88%E4%B8%AD%E5%9C%8B-%E7%A8%B1%E8%8B%A5%E4%B8%8D%E6%94%B9%E9%9D%A9%E4%B8%AD%E7%BE%8E%E5%B0%87-%E5%90%9E%E4%BD%B5%E6%AD%90%E6%B4%B2",
+    "timestamp": "2026-11-25T07:59:22.025Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "內房君豪石金禹中環中心頂層索價4億　呎價3萬較買入價低46%",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202191293178974208723159.jpeg/W_EBMM2ANZ6mJxZZ3N2MydeHTh08rfuO6e4DhOnuA4Q?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414643/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%A6%82%E6%9C%89%E9%9C%80%E8%A6%81%E9%A1%98%E7%89%B9%E8%B5%A6%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%B0%8D%E6%94%BF%E5%BA%9C%E5%85%A5%E8%82%A1%E8%8B%B1%E5%81%89%E9%81%94%E6%8C%81%E9%96%8B%E6%94%BE%E6%85%8B%E5%BA%A6",
     "timestamp": "2026-11-25T01:48:43.780Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雲南女移花盆見粗過手臂巨蟒！震撼影片瘋傳　網民看細節疑AI造假",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201984774776819712183297.png/EobmrzyDA--OdIEl_j0f1gIJivrtZyFrROvvekTr73o",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414574/%E9%9B%B2%E5%8D%97%E5%A5%B3%E7%A7%BB%E8%8A%B1%E7%9B%86%E8%A6%8B%E7%B2%97%E9%81%8E%E6%89%8B%E8%87%82%E5%B7%A8%E8%9F%92-%E9%9C%87%E6%92%BC%E5%BD%B1%E7%89%87%E7%98%8B%E5%82%B3-%E7%B6%B2%E6%B0%91%E7%9C%8B%E7%B4%B0%E7%AF%80%E7%96%91ai%E9%80%A0%E5%81%87",
-    "timestamp": "2026-11-25T01:31:11.302Z",
     "strategy": ".content-card__main"
   }
 ];
