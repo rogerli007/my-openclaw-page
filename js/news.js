@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T16:59:18.916Z
+// Last updated: 2026-11-25T17:18:36.998Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀非TVB「親生女」奪視后：憑《下流上車族》打破常規",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869829792239616879652.jpeg/h_bnuZOl7-uvVNmsf_YP5cZ_QbUC1e8IEUJwSBFCcEg",
+    "url": "https://www.hk01.com/01TV/60413491/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%9D%9Etvb-%E8%A6%AA%E7%94%9F%E5%A5%B3-%E5%A5%AA%E8%A6%96%E5%90%8E-%E6%86%91-%E4%B8%8B%E6%B5%81%E4%B8%8A%E8%BB%8A%E6%97%8F-%E6%89%93%E7%A0%B4%E5%B8%B8%E8%A6%8F",
+    "timestamp": "2026-11-25T17:18:36.998Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "梁靖琪老公公開7歲仔浴室露臀照　再配上疑似粗口字眼惹熱議",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240425/860130504719077376236570.jpeg/VfbsR8EME-KFAcJhEsFuRMVeCZWztAcHOnREvjp0RL4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60414994/%E8%BA%AB%E8%99%95%E6%AC%8A%E5%8A%9B%E6%B7%B1%E6%B0%B4%E5%8D%80%E7%9A%84%E9%A2%A8%E9%9A%AA-%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E6%9B%B8%E8%A8%98%E9%99%B3%E5%90%89%E5%AF%A7%E8%90%BD%E9%A6%AC%E7%9A%84%E6%B7%B1%E5%B1%A4%E8%83%8C%E6%99%AF",
     "timestamp": "2026-11-25T10:59:06.305Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "買錶前要先睇瑞士天氣？OMEGA聯乘MoonSwatch黑雪花 11.27開賣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202331603792039936372140.jpeg/sHPhDgNYB4w9s75IQnfqVdubascbe4wdeGfk7Xhn5O0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%80%E7%89%A9/60414964/%E8%B2%B7%E9%8C%B6%E5%89%8D%E8%A6%81%E5%85%88%E7%9D%87%E7%91%9E%E5%A3%AB%E5%A4%A9%E6%B0%A3-omega%E8%81%AF%E4%B9%98moonswatch%E9%BB%91%E9%9B%AA%E8%8A%B1-11-27%E9%96%8B%E8%B3%A3",
-    "timestamp": "2026-11-25T10:46:04.868Z",
     "strategy": ".content-card__main"
   }
 ];
