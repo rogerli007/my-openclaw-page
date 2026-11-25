@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T07:22:11.740Z
+// Last updated: 2026-11-25T07:33:43.946Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普稱隨時重啟與金正恩通信　重返無核化談判恐遇朝鮮冷板凳",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/cis/5def273dc0c9dc116d9c3107.jpg/3Q7od8TvEsCy1tpIUF07KGYLTWp8Di_hGaQ9_xmkPf8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414837/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E9%9A%A8%E6%99%82%E9%87%8D%E5%95%9F%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E9%80%9A%E4%BF%A1-%E9%87%8D%E8%BF%94%E7%84%A1%E6%A0%B8%E5%8C%96%E8%AB%87%E5%88%A4%E6%81%90%E9%81%87%E6%9C%9D%E9%AE%AE%E5%86%B7%E6%9D%BF%E5%87%B3",
+    "timestamp": "2026-11-25T07:33:43.946Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "連詩雅忙工作冷落兩歲半愛女Camila　一句童言童語令媽媽超內疚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261118/1199702181826400256817563.jpeg/TpjusfB2pacyvydiVwWWYR4rqSXM8GeWzmvvMM5r7zA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414642/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E9%87%8D%E8%BF%94%E8%8B%B1%E5%81%89%E9%81%94-%E7%BE%8E%E5%9C%8B%E9%96%8B%E6%BA%90ai%E6%94%BF%E7%AD%96%E7%88%AD%E8%AB%96%E5%8D%87%E6%BA%AB",
     "timestamp": "2026-11-25T00:59:37.916Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播｜神舟二十四號載人飛船發射　中國空間站將迎首位外籍航天員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202175304093667328203791.png/Ct0J2brscyXhZB56sVBvex3KVVe-4FVXyh-sYMofrGA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414588/%E7%9B%B4%E6%92%AD-%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%88%B9%E7%99%BC%E5%B0%84-%E4%B8%AD%E5%9C%8B%E7%A9%BA%E9%96%93%E7%AB%99%E5%B0%87%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%93%A1",
-    "timestamp": "2026-11-25T00:37:31.064Z",
     "strategy": ".content-card__main"
   }
 ];
