@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T18:33:13.754Z
+// Last updated: 2026-11-25T18:45:13.769Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "跨部門多區打擊非法勞工及掃黃　19男女被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202448298854584320608572.jpeg/IKJEMYNbdNusUL1jxLRV09cO2RHhYZhYJMmOACTJjgA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415055/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%9A%E5%8D%80%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5%E5%8F%8A%E6%8E%83%E9%BB%83-19%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-25T18:45:13.769Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "警旺角搗地下竹館　檢獲7張麻雀枱$2萬現金　23人被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202320774476599296752640.png/QujKjsyXvidLey9-2UYzlce-l_zSDgCjYwcrz2MHK88",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60414891/%E5%BE%A9%E4%BB%87%E8%80%855-%E4%B8%8A%E6%98%A0%E6%99%82%E9%96%93%E6%92%9E-%E6%B2%99%E4%B8%983-%E4%B8%96%E7%B4%80%E6%90%B6%E5%AE%A2%E5%B0%8D%E6%B1%BA%E6%8E%80-dunesday-%E6%BD%AE",
     "timestamp": "2026-11-25T13:20:59.931Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳復職前夕私訊曝光　500萬網紅曝受邀重機橫跨美國",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202327453289156608304286.png/5Q_bWJY-wNukaLkA_LNuOYNzZlmVCJmK3mE_qN5hP6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414987/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7%E5%89%8D%E5%A4%95%E7%A7%81%E8%A8%8A%E6%9B%9D%E5%85%89-500%E8%90%AC%E7%B6%B2%E7%B4%85%E6%9B%9D%E5%8F%97%E9%82%80%E9%87%8D%E6%A9%9F%E6%A9%AB%E8%B7%A8%E7%BE%8E%E5%9C%8B",
-    "timestamp": "2026-11-25T12:49:17.781Z",
     "strategy": ".content-card__main"
   }
 ];
