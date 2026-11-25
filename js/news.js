@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T13:20:59.931Z
+// Last updated: 2026-11-25T13:31:51.750Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "七人車走私孕婦血赴港驗性別　深圳海關破案拘37人涉4萬份血樣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202300648968687616078591.jpeg/Qs4z59nURuDuPluYMh5ir0W40yB40hnb0FLO99BSzvc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414917/%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%B5%B0%E7%A7%81%E5%AD%95%E5%A9%A6%E8%A1%80%E8%B5%B4%E6%B8%AF%E9%A9%97%E6%80%A7%E5%88%A5-%E6%B7%B1%E5%9C%B3%E6%B5%B7%E9%97%9C%E7%A0%B4%E6%A1%88%E6%8B%9837%E4%BA%BA%E6%B6%894%E8%90%AC%E4%BB%BD%E8%A1%80%E6%A8%A3",
+    "timestamp": "2026-11-25T13:31:51.750Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《復仇者5》上映時間撞《沙丘3》　世紀搶客對決掀「Dunesday」潮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200409829739335680782163.jpeg/UikQgT5w9GoOUCiXa9GP5X3k0wvkciz-ol9W0qJfVtI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414827/%E7%BE%8E%E5%9C%8B%E5%B0%81%E5%A0%B5%E4%B8%AD%E5%9C%8B%E7%8D%B2%E5%8F%96ai%E7%AE%97%E5%8A%9B%E6%BC%8F%E6%B4%9E%E5%BE%8C-%E9%8A%80%E8%A1%8C%E7%B4%9B%E5%9A%B4%E6%9F%A5%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%AE%A2%E6%88%B6",
     "timestamp": "2026-11-25T06:53:10.939Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "結婚8年3女均非親生　陝西男崩潰提告　法院判妻賠償22萬",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202262906192793600501843.jpeg/MA_goyPPSYop3a4hRN_xJtByEm5IkxhNoSH9rKEh_aw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414792/%E7%B5%90%E5%A9%9A8%E5%B9%B43%E5%A5%B3%E5%9D%87%E9%9D%9E%E8%A6%AA%E7%94%9F-%E9%99%9D%E8%A5%BF%E7%94%B7%E5%B4%A9%E6%BD%B0%E6%8F%90%E5%91%8A-%E6%B3%95%E9%99%A2%E5%88%A4%E5%A6%BB%E8%B3%A0%E5%84%9F22%E8%90%AC",
-    "timestamp": "2026-11-25T06:28:32.714Z",
     "strategy": ".content-card__main"
   }
 ];
