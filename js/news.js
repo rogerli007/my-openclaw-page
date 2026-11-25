@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-24T23:59:11.378Z
+// Last updated: 2026-11-25T00:37:31.064Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直播｜神舟二十四號載人飛船發射　中國空間站將迎首位外籍航天員",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202175304093667328203791.png/Ct0J2brscyXhZB56sVBvex3KVVe-4FVXyh-sYMofrGA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414588/%E7%9B%B4%E6%92%AD-%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F%E8%BC%89%E4%BA%BA%E9%A3%9B%E8%88%B9%E7%99%BC%E5%B0%84-%E4%B8%AD%E5%9C%8B%E7%A9%BA%E9%96%93%E7%AB%99%E5%B0%87%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%93%A1",
+    "timestamp": "2026-11-25T00:37:31.064Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "行樓梯腳軟手現紫紅疹　46歲女確診「皮肌炎」　醫揭3大奪命警號",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1161993999691550720630471.jpeg/k3JSWZ0DXm7_nW9w9YVWJPVYtfMFjBdpL5Nvny-Tb58?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414621/wsj-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A7%E6%95%B8%E5%8D%81%E5%9C%8B%E5%AE%B6%E5%8A%A0%E9%97%9C%E7%A8%85-%E8%8F%AF%E5%BA%9C%E7%A8%B1%E5%9B%A0%E6%90%8D%E5%AE%B3%E7%BE%8E%E4%BC%81%E5%88%A9%E7%9B%8A",
     "timestamp": "2026-11-24T18:22:16.993Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王毅通話英國外交大臣　願同英方一道推動兩國關係成熟穩健發展",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230302/707919364883484672503174.jpeg/Sgx0c322iVVxmABA_8zDdN1HQM3nhNbAy6X2osul9qI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414620/%E7%8E%8B%E6%AF%85%E9%80%9A%E8%A9%B1%E8%8B%B1%E5%9C%8B%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3-%E9%A1%98%E5%90%8C%E8%8B%B1%E6%96%B9%E4%B8%80%E9%81%93%E6%8E%A8%E5%8B%95%E5%85%A9%E5%9C%8B%E9%97%9C%E4%BF%82%E6%88%90%E7%86%9F%E7%A9%A9%E5%81%A5%E7%99%BC%E5%B1%95",
-    "timestamp": "2026-11-24T17:59:02.076Z",
     "strategy": ".content-card__main"
   }
 ];
