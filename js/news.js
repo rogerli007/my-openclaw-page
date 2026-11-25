@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T11:19:43.357Z
+// Last updated: 2026-11-25T11:45:35.746Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "審計報告｜稅務中心購家具預算過高　無清潔工值勤未扣承辦商月費",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260225/1103152165989912576792840.jpeg/euD60lBBjj0rYuKkZhWz1SVuSWhEOB5t6pbx0vCW8dI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414963/%E5%AF%A9%E8%A8%88%E5%A0%B1%E5%91%8A-%E7%A8%85%E5%8B%99%E4%B8%AD%E5%BF%83%E8%B3%BC%E5%AE%B6%E5%85%B7%E9%A0%90%E7%AE%97%E9%81%8E%E9%AB%98-%E7%84%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E5%80%BC%E5%8B%A4%E6%9C%AA%E6%89%A3%E6%89%BF%E8%BE%A6%E5%95%86%E6%9C%88%E8%B2%BB",
+    "timestamp": "2026-11-25T11:45:35.746Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "城巴通宵客驚擺豪邁姿勢！躺平伸腳跨通道照片瘋傳：當自己屋企？",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202236604219920384481023.jpeg/6nQdn6lz5uxIbAwf3WzQDMnO_H7VXDOIjhnPWo4Zz1o?v=w1920",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414750/%E9%AB%98%E8%80%83%E7%8B%80%E5%85%83%E5%8C%97%E5%A4%A7%E7%95%A2%E6%A5%AD%E5%86%8D%E8%8A%B130%E8%90%AC%E8%AE%80%E4%B8%AD%E5%A4%A7%E7%A2%A9%E5%A3%AB-%E5%A6%82%E4%BB%8A%E6%9C%88%E8%96%AA7%E5%8D%83%E7%9B%B8%E8%A6%AA4%E6%AC%A1%E5%9D%87%E5%A4%B1%E6%95%97",
     "timestamp": "2026-11-25T04:59:05.503Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "王丹妮羅孝勇結婚三周年曬BB超聲波：「從此這個家變成了3+1=4」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202240241272885248147823.jpeg/AzBtyG1WJqJ6zH8t21g_Wv0fvWgSnR1IAn4GLQJ-Bi0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60414742/%E7%8E%8B%E4%B8%B9%E5%A6%AE%E7%BE%85%E5%AD%9D%E5%8B%87%E7%B5%90%E5%A9%9A%E4%B8%89%E5%91%A8%E5%B9%B4%E6%9B%ACbb%E8%B6%85%E8%81%B2%E6%B3%A2-%E5%BE%9E%E6%AD%A4%E9%80%99%E5%80%8B%E5%AE%B6%E8%AE%8A%E6%88%90%E4%BA%863-1-4",
-    "timestamp": "2026-11-25T04:45:35.292Z",
     "strategy": ".content-card__main"
   }
 ];
