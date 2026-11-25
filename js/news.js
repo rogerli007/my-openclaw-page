@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T08:24:10.606Z
+// Last updated: 2026-11-25T08:47:57.389Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "少爺占自爆曾喝止8歲鄰居「唔好喺走廊玩」 多年後相認竟是林家熙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202283580751876096718469.jpeg/ZAYCwF2Kt0MQa4QkrcKK8pJc92HI4dQllMrnA5TK5wM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414848/%E5%B0%91%E7%88%BA%E5%8D%A0%E8%87%AA%E7%88%86%E6%9B%BE%E5%96%9D%E6%AD%A28%E6%AD%B2%E9%84%B0%E5%B1%85-%E5%94%94%E5%A5%BD%E5%96%BA%E8%B5%B0%E5%BB%8A%E7%8E%A9-%E5%A4%9A%E5%B9%B4%E5%BE%8C%E7%9B%B8%E8%AA%8D%E7%AB%9F%E6%98%AF%E6%9E%97%E5%AE%B6%E7%86%99",
+    "timestamp": "2026-11-25T08:47:57.389Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "石川佳純突宣布結婚　3屆奧運名將情定圈外人　IG親筆信訴心聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201961425501687808752809.png/feJATXGBfPKKSh8KrLI5P5tfDAwfvYoQjEpmUYxKZlE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414486/%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%91%8A%E5%88%A5%E7%B4%94%E7%A9%BA%E6%88%B0-%E6%AE%B2-10c%E7%BD%95%E6%8E%9Bkh-29%E9%87%8D%E5%BD%88-%E8%A4%87%E8%A3%BD%E7%BE%8E%E8%BB%8Df-16%E5%B0%8D%E5%9C%B0%E6%89%93%E6%93%8A",
     "timestamp": "2026-11-25T02:38:27.214Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑│大火一年前夕　廣福休憩現白花追悼",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202202098444275712236904.jpeg/5VK_tn9v98AlSL3UiEvldUTMIOXCRJC4rcyN363Mjd8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414661/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4%E5%89%8D%E5%A4%95-%E5%BB%A3%E7%A6%8F%E4%BC%91%E6%86%A9%E7%8F%BE%E7%99%BD%E8%8A%B1%E8%BF%BD%E6%82%BC",
-    "timestamp": "2026-11-25T02:24:55.180Z",
     "strategy": ".content-card__main"
   }
 ];
