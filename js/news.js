@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T20:59:24.199Z
+// Last updated: 2026-11-25T21:20:10.717Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀目睹泰國海嘯慘狀：心理創傷引發長達20年的海嘯噩夢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200874080245387264578420.jpeg/m82WvGUOpaeSd3Ei-yYiCqjyZNhvcnAKKrTPcSq0z3E",
+    "url": "https://www.hk01.com/01TV/60413502/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%9B%AE%E7%9D%B9%E6%B3%B0%E5%9C%8B%E6%B5%B7%E5%98%AF%E6%85%98%E7%8B%80-%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7%E5%BC%95%E7%99%BC%E9%95%B7%E9%81%9420%E5%B9%B4%E7%9A%84%E6%B5%B7%E5%98%AF%E5%99%A9%E5%A4%A2",
+    "timestamp": "2026-11-25T21:20:10.717Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李成鋼：中國堅持多邊主義　堅定維護多邊貿易體制",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202284282198888448376541.jpeg/nynacF0OxYZwXuYJloX6n6O6brnUY_l1ghs3U4IbN1M?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414858/%E9%BB%83%E7%B4%AB%E6%81%A9%E6%9B%AC%E5%B0%91%E5%A5%B3%E8%88%8A%E7%85%A7%E8%87%AA%E6%8F%AD%E6%9B%BE%E9%81%AD%E6%AC%BA%E5%87%8C-%E6%9B%BE%E8%A2%AB%E5%98%B2%E5%A4%96%E8%B2%8C%E6%A5%B5%E9%86%9C%E5%8F%B0%E6%85%B6%E5%96%B1%E5%A3%AB%E6%88%B0%E8%A1%A3%E9%9B%AA%E6%81%A5",
     "timestamp": "2026-11-25T15:20:37.105Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "2026羽毛球年終賽︱安洗瑩力爭破紀錄年度第12冠　男單成開放競爭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202390513286647808907628.jpeg/ULjYjpwVhw0RRmdL9ZyPoKIQ4cQb875LYAbqtGAG6rQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415014/2026%E7%BE%BD%E6%AF%9B%E7%90%83%E5%B9%B4%E7%B5%82%E8%B3%BD-%E5%AE%89%E6%B4%97%E7%91%A9%E5%8A%9B%E7%88%AD%E7%A0%B4%E7%B4%80%E9%8C%84%E5%B9%B4%E5%BA%A6%E7%AC%AC12%E5%86%A0-%E7%94%B7%E5%96%AE%E6%88%90%E9%96%8B%E6%94%BE%E7%AB%B6%E7%88%AD",
-    "timestamp": "2026-11-25T14:53:49.951Z",
     "strategy": ".content-card__main"
   }
 ];
