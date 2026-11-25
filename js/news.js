@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T04:45:35.292Z
+// Last updated: 2026-11-25T04:59:05.503Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "高考狀元北大畢業再花30萬讀中大碩士　如今月薪7千相親4次均失敗",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202236604219920384481023.jpeg/6nQdn6lz5uxIbAwf3WzQDMnO_H7VXDOIjhnPWo4Zz1o?v=w1920",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414750/%E9%AB%98%E8%80%83%E7%8B%80%E5%85%83%E5%8C%97%E5%A4%A7%E7%95%A2%E6%A5%AD%E5%86%8D%E8%8A%B130%E8%90%AC%E8%AE%80%E4%B8%AD%E5%A4%A7%E7%A2%A9%E5%A3%AB-%E5%A6%82%E4%BB%8A%E6%9C%88%E8%96%AA7%E5%8D%83%E7%9B%B8%E8%A6%AA4%E6%AC%A1%E5%9D%87%E5%A4%B1%E6%95%97",
+    "timestamp": "2026-11-25T04:59:05.503Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "王丹妮羅孝勇結婚三周年曬BB超聲波：「從此這個家變成了3+1=4」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202142516082642944976148.jpeg/frc05GbNnbqB2PF4CzDFrTggCChsCbfuzPb31vb299Y?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414632/%E5%8C%97%E8%A7%92%E7%94%B7%E5%AD%90%E5%8F%97%E5%82%B7%E5%80%92%E5%9C%B0-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
     "timestamp": "2026-11-24T22:19:30.803Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "路透：Shein被美FTC指控誤導消費者　願支付1億美元和解",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250704/1017764113704554496074968.jpeg/pF3Yqy0wjmvsn946cFBJZWJVlKAdwDk2WMYZpljGGaY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414631/%E8%B7%AF%E9%80%8F-shein%E8%A2%AB%E7%BE%8Eftc%E6%8C%87%E6%8E%A7%E8%AA%A4%E5%B0%8E%E6%B6%88%E8%B2%BB%E8%80%85-%E9%A1%98%E6%94%AF%E4%BB%981%E5%84%84%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3",
-    "timestamp": "2026-11-24T21:59:12.383Z",
     "strategy": ".content-card__main"
   }
 ];
