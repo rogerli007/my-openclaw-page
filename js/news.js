@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T05:21:28.020Z
+// Last updated: 2026-11-25T05:45:36.706Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑｜合安12.8開最後一次業主大會？　麥美娟：視乎業權收購",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202247786838364160278540.jpeg/uobPnMrYkGiizjzBTGC90Ilz26fZi4VXvfoHgr36B4I?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414776/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%90%88%E5%AE%8912-8%E9%96%8B%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E8%A6%96%E4%B9%8E%E6%A5%AD%E6%AC%8A%E6%94%B6%E8%B3%BC",
+    "timestamp": "2026-11-25T05:45:36.706Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "氣溫急降宜補氣暖胃養血 附中醫推介11款袪寒茶飲 小孩適用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201980973663653888043967.jpeg/FpmadR01uWgMzAQEQ_UO8t0p4W9wuCjkyfgA1Mn4ANQ",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414433/%E8%8E%8A%E6%80%9D%E6%95%8F%E8%B1%AA%E9%80%81lv%E6%89%8B%E9%8F%88bigbang%E5%91%A8%E9%82%8A%E6%B0%B9%E7%B4%B0%E5%A6%B9-%E6%9B%BE%E8%A2%AB%E6%96%A5%E6%B6%88%E8%B2%BB%E4%BA%A1%E6%AF%8D%E5%82%B3%E5%A7%8A%E5%A6%B9%E6%B1%BA%E8%A3%82",
     "timestamp": "2026-11-24T22:59:07.959Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莊思敏豪送LV手鏈BIGBANG周邊氹細妹　曾被斥消費亡母傳姊妹決裂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201980973663653888043967.jpeg/FpmadR01uWgMzAQEQ_UO8t0p4W9wuCjkyfgA1Mn4ANQ",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414433/%E8%8E%8A%E6%80%9D%E6%95%8F%E8%B1%AA%E9%80%81lv%E6%89%8B%E9%8F%88bigbang%E5%91%A8%E9%82%8A%E6%B0%B9%E7%B4%B0%E5%A6%B9-%E6%9B%BE%E8%A2%AB%E6%96%A5%E6%B6%88%E8%B2%BB%E4%BA%A1%E6%AF%8D%E5%82%B3%E5%A7%8A%E5%A6%B9%E6%B1%BA%E8%A3%82",
-    "timestamp": "2026-11-24T22:45:27.325Z",
     "strategy": ".content-card__main"
   }
 ];
