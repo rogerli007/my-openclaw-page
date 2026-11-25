@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T21:20:10.717Z
+// Last updated: 2026-11-25T21:45:29.210Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀目睹泰國海嘯慘狀：心理創傷引發長達20年的海嘯噩夢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200874080245387264578420.jpeg/m82WvGUOpaeSd3Ei-yYiCqjyZNhvcnAKKrTPcSq0z3E",
+    "url": "https://www.hk01.com/01TV/60413502/%E6%B1%9F%E7%BE%8E%E5%84%80%E7%9B%AE%E7%9D%B9%E6%B3%B0%E5%9C%8B%E6%B5%B7%E5%98%AF%E6%85%98%E7%8B%80-%E5%BF%83%E7%90%86%E5%89%B5%E5%82%B7%E5%BC%95%E7%99%BC%E9%95%B7%E9%81%9420%E5%B9%B4%E7%9A%84%E6%B5%B7%E5%98%AF%E5%99%A9%E5%A4%A2",
+    "timestamp": "2026-11-25T21:45:29.210Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "江美儀目睹泰國海嘯慘狀：心理創傷引發長達20年的海嘯噩夢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202393741441110016083761.jpeg/-0ghWgXkAymrR6f_XYMU2uP2fCDHoh1hHYA1Xh2ANV4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415036/just-makeup-2-%E5%8C%96%E5%A6%9D%E5%B8%AB%E7%94%9F%E5%AD%98%E6%88%B0-%E5%A4%AA%E5%A6%8D%E5%85%81%E5%85%92%E5%A8%9C%E7%92%89winter%E7%A5%9E%E7%B4%9A%E5%A5%B3%E5%9C%98%E4%B8%BB%E6%8C%81",
     "timestamp": "2026-11-25T15:45:12.427Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃紫恩曬少女舊照自揭曾遭欺凌　曾被嘲外貌極醜台慶喱士戰衣雪恥",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202284282198888448376541.jpeg/nynacF0OxYZwXuYJloX6n6O6brnUY_l1ghs3U4IbN1M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414858/%E9%BB%83%E7%B4%AB%E6%81%A9%E6%9B%AC%E5%B0%91%E5%A5%B3%E8%88%8A%E7%85%A7%E8%87%AA%E6%8F%AD%E6%9B%BE%E9%81%AD%E6%AC%BA%E5%87%8C-%E6%9B%BE%E8%A2%AB%E5%98%B2%E5%A4%96%E8%B2%8C%E6%A5%B5%E9%86%9C%E5%8F%B0%E6%85%B6%E5%96%B1%E5%A3%AB%E6%88%B0%E8%A1%A3%E9%9B%AA%E6%81%A5",
-    "timestamp": "2026-11-25T15:20:37.105Z",
     "strategy": ".content-card__main"
   }
 ];
