@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T03:59:09.994Z
+// Last updated: 2026-11-25T04:16:48.660Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港女生遊日慶生變悲劇　特區護照漏4頁遭拒入境遣返　教1招自保",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202233862520836096530176.jpeg/95zIw0qhmAh2w593kpmiPwykAGuVnKJClO2AjJTtgIw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%97%85%E9%81%8A/60414673/%E6%B8%AF%E5%A5%B3%E7%94%9F%E9%81%8A%E6%97%A5%E6%85%B6%E7%94%9F%E8%AE%8A%E6%82%B2%E5%8A%87-%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E6%BC%8F4%E9%A0%81%E9%81%AD%E6%8B%92%E5%85%A5%E5%A2%83%E9%81%A3%E8%BF%94-%E6%95%991%E6%8B%9B%E8%87%AA%E4%BF%9D",
+    "timestamp": "2026-11-25T04:16:48.660Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「幟哥」黃永幟復出！坐鎮圍方中菜館　戴白框眼鏡、重振3大名菜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200747655756517376291873.jpeg/q2UgI4vQBtQ_P2Xhpf0ZgLnKbo85a_L-YcrS8GHK0vA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414628/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%85%A8%E9%AB%94%E5%93%A1%E5%B7%A5%E5%A4%A7%E6%9C%83%E8%87%B4%E6%AD%89-%E5%9D%A6%E6%89%BF%E9%81%95%E5%8F%8D%E5%85%AC%E5%8F%B8%E8%A1%8C%E7%82%BA%E6%BA%96%E5%89%87-%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82",
     "timestamp": "2026-11-24T21:19:21.271Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀《親親我好媽》收視破30點：劇集大捷後主動向編導致歉",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869491584536576907461.jpeg/5PTZPKEVzhfeJS6xDX2uVrlihv6cEj3zf3CnE39wpxM",
-    "url": "https://www.hk01.com/01TV/60413490/%E6%B1%9F%E7%BE%8E%E5%84%80-%E8%A6%AA%E8%A6%AA%E6%88%91%E5%A5%BD%E5%AA%BD-%E6%94%B6%E8%A6%96%E7%A0%B430%E9%BB%9E-%E5%8A%87%E9%9B%86%E5%A4%A7%E6%8D%B7%E5%BE%8C%E4%B8%BB%E5%8B%95%E5%90%91%E7%B7%A8%E5%B0%8E%E8%87%B4%E6%AD%89",
-    "timestamp": "2026-11-24T20:59:04.882Z",
     "strategy": ".content-card__main"
   }
 ];
