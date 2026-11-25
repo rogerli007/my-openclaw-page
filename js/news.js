@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T02:59:16.451Z
+// Last updated: 2026-11-25T03:23:09.970Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青光眼症狀｜9成人沒察覺嚴重可失明！5大成因+治療方法+手術費用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202219933467938816962385.png/60GS9MfVeMEKMK48pZqJBzeizammPYoAd3QEEXd0BBE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7/60396829/%E9%9D%92%E5%85%89%E7%9C%BC%E7%97%87%E7%8B%80-9%E6%88%90%E4%BA%BA%E6%B2%92%E5%AF%9F%E8%A6%BA%E5%9A%B4%E9%87%8D%E5%8F%AF%E5%A4%B1%E6%98%8E-5%E5%A4%A7%E6%88%90%E5%9B%A0-%E6%B2%BB%E7%99%82%E6%96%B9%E6%B3%95-%E6%89%8B%E8%A1%93%E8%B2%BB%E7%94%A8",
+    "timestamp": "2026-11-25T03:23:09.970Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "華為遭美國法院裁定10項罪名成立　涉隱瞞伊朗業務和竊取商業機密",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869491584536576907461.jpeg/5PTZPKEVzhfeJS6xDX2uVrlihv6cEj3zf3CnE39wpxM",
     "url": "https://www.hk01.com/01TV/60413490/%E6%B1%9F%E7%BE%8E%E5%84%80-%E8%A6%AA%E8%A6%AA%E6%88%91%E5%A5%BD%E5%AA%BD-%E6%94%B6%E8%A6%96%E7%A0%B430%E9%BB%9E-%E5%8A%87%E9%9B%86%E5%A4%A7%E6%8D%B7%E5%BE%8C%E4%B8%BB%E5%8B%95%E5%90%91%E7%B7%A8%E5%B0%8E%E8%87%B4%E6%AD%89",
     "timestamp": "2026-11-24T20:29:07.456Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車Cam｜深水埗鐵騎士捱撞倒地　的士切線再撼車　共5車撞釀2傷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202092425967833088327459.jpeg/jRKJ5D7pMKFwkjNQtJ_dzb8bg___r5toZHx042R8dOM",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414626/%E8%BB%8Acam-%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%8D%B1%E6%92%9E%E5%80%92%E5%9C%B0-%E7%9A%84%E5%A3%AB%E5%88%87%E7%B7%9A%E5%86%8D%E6%92%BC%E8%BB%8A-%E5%85%B15%E8%BB%8A%E6%92%9E%E9%87%802%E5%82%B7",
-    "timestamp": "2026-11-24T19:45:24.083Z",
     "strategy": ".content-card__main"
   }
 ];
