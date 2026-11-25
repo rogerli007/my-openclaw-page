@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T23:45:14.154Z
+// Last updated: 2026-11-25T23:58:59.491Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "蘇民峰曝港股持倉　莎莎翻倍、阿里愈跌愈買　羊年經濟恐「伏吟」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202389712451407872960312.jpeg/krV_f9EPVR0XJh0H3PTKgGSLPTgZ3NBYo5_w5qOf8OY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414971/%E8%98%87%E6%B0%91%E5%B3%B0%E6%9B%9D%E6%B8%AF%E8%82%A1%E6%8C%81%E5%80%89-%E8%8E%8E%E8%8E%8E%E7%BF%BB%E5%80%8D-%E9%98%BF%E9%87%8C%E6%84%88%E8%B7%8C%E6%84%88%E8%B2%B7-%E7%BE%8A%E5%B9%B4%E7%B6%93%E6%BF%9F%E6%81%90-%E4%BC%8F%E5%90%9F",
+    "timestamp": "2026-11-25T23:58:59.491Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "流清鼻水六年誤當鼻敏感　38歲女揭腦脊液鼻漏　4招辨腦脊液鼻漏",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869829792239616879652.jpeg/h_bnuZOl7-uvVNmsf_YP5cZ_QbUC1e8IEUJwSBFCcEg",
     "url": "https://www.hk01.com/01TV/60413491/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%9D%9Etvb-%E8%A6%AA%E7%94%9F%E5%A5%B3-%E5%A5%AA%E8%A6%96%E5%90%8E-%E6%86%91-%E4%B8%8B%E6%B5%81%E4%B8%8A%E8%BB%8A%E6%97%8F-%E6%89%93%E7%A0%B4%E5%B8%B8%E8%A6%8F",
     "timestamp": "2026-11-25T17:29:36.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀非TVB「親生女」奪視后：憑《下流上車族》打破常規",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869829792239616879652.jpeg/h_bnuZOl7-uvVNmsf_YP5cZ_QbUC1e8IEUJwSBFCcEg",
-    "url": "https://www.hk01.com/01TV/60413491/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%9D%9Etvb-%E8%A6%AA%E7%94%9F%E5%A5%B3-%E5%A5%AA%E8%A6%96%E5%90%8E-%E6%86%91-%E4%B8%8B%E6%B5%81%E4%B8%8A%E8%BB%8A%E6%97%8F-%E6%89%93%E7%A0%B4%E5%B8%B8%E8%A6%8F",
-    "timestamp": "2026-11-25T17:18:36.998Z",
     "strategy": ".content-card__main"
   }
 ];
