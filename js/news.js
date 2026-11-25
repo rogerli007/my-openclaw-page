@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T14:53:49.951Z
+// Last updated: 2026-11-25T15:20:37.105Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃紫恩曬少女舊照自揭曾遭欺凌　曾被嘲外貌極醜台慶喱士戰衣雪恥",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202284282198888448376541.jpeg/nynacF0OxYZwXuYJloX6n6O6brnUY_l1ghs3U4IbN1M?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414858/%E9%BB%83%E7%B4%AB%E6%81%A9%E6%9B%AC%E5%B0%91%E5%A5%B3%E8%88%8A%E7%85%A7%E8%87%AA%E6%8F%AD%E6%9B%BE%E9%81%AD%E6%AC%BA%E5%87%8C-%E6%9B%BE%E8%A2%AB%E5%98%B2%E5%A4%96%E8%B2%8C%E6%A5%B5%E9%86%9C%E5%8F%B0%E6%85%B6%E5%96%B1%E5%A3%AB%E6%88%B0%E8%A1%A3%E9%9B%AA%E6%81%A5",
+    "timestamp": "2026-11-25T15:20:37.105Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "2026羽毛球年終賽︱安洗瑩力爭破紀錄年度第12冠　男單成開放競爭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202283580751876096718469.jpeg/ZAYCwF2Kt0MQa4QkrcKK8pJc92HI4dQllMrnA5TK5wM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414848/%E5%B0%91%E7%88%BA%E5%8D%A0%E8%87%AA%E7%88%86%E6%9B%BE%E5%96%9D%E6%AD%A28%E6%AD%B2%E9%84%B0%E5%B1%85-%E5%94%94%E5%A5%BD%E5%96%BA%E8%B5%B0%E5%BB%8A%E7%8E%A9-%E5%A4%9A%E5%B9%B4%E5%BE%8C%E7%9B%B8%E8%AA%8D%E7%AB%9F%E6%98%AF%E6%9E%97%E5%AE%B6%E7%86%99",
     "timestamp": "2026-11-25T08:47:57.389Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "石川佳純突宣布結婚　3屆奧運名將情定圈外人　IG親筆信訴心聲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202281819727204352051392.jpeg/ix2ESdPTGwCufbL7DqBKdU3zl7OsBFzVN1WqjTdVqo0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60414822/%E7%9F%B3%E5%B7%9D%E4%BD%B3%E7%B4%94%E7%AA%81%E5%AE%A3%E5%B8%83%E7%B5%90%E5%A9%9A-3%E5%B1%86%E5%A5%A7%E9%81%8B%E5%90%8D%E5%B0%87%E6%83%85%E5%AE%9A%E5%9C%88%E5%A4%96%E4%BA%BA-ig%E8%A6%AA%E7%AD%86%E4%BF%A1%E8%A8%B4%E5%BF%83%E8%81%B2",
-    "timestamp": "2026-11-25T08:24:10.606Z",
     "strategy": ".content-card__main"
   }
 ];
