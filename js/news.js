@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T05:45:36.706Z
+// Last updated: 2026-11-25T05:59:22.004Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "全球首款「無翼飛車」首飛攻救災 | 比馬斯克「飛天跑車」更實用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202225704704413696796312.jpeg/UErA-9h4zMRM0gSP6UUON1rjpFQd9tVzAPfF8AD3xfA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414701/%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE-%E7%84%A1%E7%BF%BC%E9%A3%9B%E8%BB%8A-%E9%A6%96%E9%A3%9B%E6%94%BB%E6%95%91%E7%81%BD-%E6%AF%94%E9%A6%AC%E6%96%AF%E5%85%8B-%E9%A3%9B%E5%A4%A9%E8%B7%91%E8%BB%8A-%E6%9B%B4%E5%AF%A6%E7%94%A8",
+    "timestamp": "2026-11-25T05:59:22.004Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑｜合安12.8開最後一次業主大會？　麥美娟：視乎業權收購",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201962547876466688602957.png/i0jopNZ_jB6gJtqdCQSOj5aE7dgV16uLYCuw1mArsNY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414400/37%E6%AD%B2%E7%94%B7%E4%B8%BB%E7%AE%A1%E9%95%B7%E6%9C%9F%E5%8A%A0%E7%8F%AD%E9%A3%9F%E5%A4%96%E8%B3%A3%E7%84%A1%E8%A6%96%E9%AB%98%E8%A1%80%E5%A3%937%E5%B9%B4-%E5%86%B7%E9%A2%A8%E5%A4%9C%E8%B7%91%E5%BE%8C%E7%99%B1%E8%BB%9F%E9%9A%AA%E5%96%AA%E5%91%BD",
     "timestamp": "2026-11-24T23:29:42.596Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "莊思敏豪送LV手鏈BIGBANG周邊氹細妹　曾被斥消費亡母傳姊妹決裂",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201980973663653888043967.jpeg/FpmadR01uWgMzAQEQ_UO8t0p4W9wuCjkyfgA1Mn4ANQ",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414433/%E8%8E%8A%E6%80%9D%E6%95%8F%E8%B1%AA%E9%80%81lv%E6%89%8B%E9%8F%88bigbang%E5%91%A8%E9%82%8A%E6%B0%B9%E7%B4%B0%E5%A6%B9-%E6%9B%BE%E8%A2%AB%E6%96%A5%E6%B6%88%E8%B2%BB%E4%BA%A1%E6%AF%8D%E5%82%B3%E5%A7%8A%E5%A6%B9%E6%B1%BA%E8%A3%82",
-    "timestamp": "2026-11-24T22:59:07.959Z",
     "strategy": ".content-card__main"
   }
 ];
