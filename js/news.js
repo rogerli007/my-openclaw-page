@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T17:59:02.514Z
+// Last updated: 2026-11-25T18:22:00.018Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "江美儀感念陳煒義氣：經濟困難 對方直接轉帳借錢幫忙",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200871591806767104291347.jpeg/YcLjhJwmzivr54HCFn-AczEhzpu9XJjsyj2loMo9paA",
+    "url": "https://www.hk01.com/01TV/60413493/%E6%B1%9F%E7%BE%8E%E5%84%80%E6%84%9F%E5%BF%B5%E9%99%B3%E7%85%92%E7%BE%A9%E6%B0%A3-%E7%B6%93%E6%BF%9F%E5%9B%B0%E9%9B%A3-%E5%B0%8D%E6%96%B9%E7%9B%B4%E6%8E%A5%E8%BD%89%E5%B8%B3%E5%80%9F%E9%8C%A2%E5%B9%AB%E5%BF%99",
+    "timestamp": "2026-11-25T18:22:00.018Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美國第三季GDP上修至4.3%　核心PCE升幅三年來最高",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202294240688738304705649.jpeg/X4WxO6aMLwUEmu7ezB61pNAMJ-_zVmKNnQPryp0D68o?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414854/tvb%E7%B6%A0%E8%91%89%E7%8E%8B%E6%9D%8E%E9%B4%BB%E6%9D%B0%E6%85%B6%E7%B5%90%E5%A9%9A49%E5%91%A8%E5%B9%B4-%E8%88%87%E5%A4%AA%E5%A4%AA%E7%BD%95%E6%9C%89%E5%92%80%E5%98%B4%E6%94%BE%E9%96%83-%E6%84%9F%E6%81%A9%E6%9C%89%E5%A6%B3",
     "timestamp": "2026-11-25T12:26:15.450Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "城市售票網被黑客入侵　涉約130萬使用者個人資料　康文署已報警",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/4656601/org/aa2199e2a6a3938927493b6c43f7c7ab.jpg/V_1KQQqJKZGLYYbRyZC5spiMZZhCaPVr_sGZ2P7Bmdg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415012/%E5%9F%8E%E5%B8%82%E5%94%AE%E7%A5%A8%E7%B6%B2%E8%A2%AB%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%B6%89%E7%B4%84130%E8%90%AC%E4%BD%BF%E7%94%A8%E8%80%85%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99-%E5%BA%B7%E6%96%87%E7%BD%B2%E5%B7%B2%E5%A0%B1%E8%AD%A6",
-    "timestamp": "2026-11-25T11:59:21.023Z",
     "strategy": ".content-card__main"
   }
 ];
