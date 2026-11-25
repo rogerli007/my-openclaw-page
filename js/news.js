@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T11:45:35.746Z
+// Last updated: 2026-11-25T11:59:21.023Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "城市售票網被黑客入侵　涉約130萬使用者個人資料　康文署已報警",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/4656601/org/aa2199e2a6a3938927493b6c43f7c7ab.jpg/V_1KQQqJKZGLYYbRyZC5spiMZZhCaPVr_sGZ2P7Bmdg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415012/%E5%9F%8E%E5%B8%82%E5%94%AE%E7%A5%A8%E7%B6%B2%E8%A2%AB%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%B6%89%E7%B4%84130%E8%90%AC%E4%BD%BF%E7%94%A8%E8%80%85%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99-%E5%BA%B7%E6%96%87%E7%BD%B2%E5%B7%B2%E5%A0%B1%E8%AD%A6",
+    "timestamp": "2026-11-25T11:59:21.023Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "審計報告｜稅務中心購家具預算過高　無清潔工值勤未扣承辦商月費",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20240124/826883950919028736023467.jpeg/IGuAnYNQ8uPVoZIhgC1sUv2G6jJfMgu9kS4qD5EuKg8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/984190/%E6%B0%A3%E6%BA%AB%E6%80%A5%E9%99%8D%E5%AE%9C%E8%A3%9C%E6%B0%A3%E6%9A%96%E8%83%83%E9%A4%8A%E8%A1%80-%E9%99%84%E4%B8%AD%E9%86%AB%E6%8E%A8%E4%BB%8B11%E6%AC%BE%E8%A2%AA%E5%AF%92%E8%8C%B6%E9%A3%B2-%E5%B0%8F%E5%AD%A9%E9%81%A9%E7%94%A8",
     "timestamp": "2026-11-25T05:21:28.020Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "高考狀元北大畢業再花30萬讀中大碩士　如今月薪7千相親4次均失敗",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202236604219920384481023.jpeg/6nQdn6lz5uxIbAwf3WzQDMnO_H7VXDOIjhnPWo4Zz1o?v=w1920",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60414750/%E9%AB%98%E8%80%83%E7%8B%80%E5%85%83%E5%8C%97%E5%A4%A7%E7%95%A2%E6%A5%AD%E5%86%8D%E8%8A%B130%E8%90%AC%E8%AE%80%E4%B8%AD%E5%A4%A7%E7%A2%A9%E5%A3%AB-%E5%A6%82%E4%BB%8A%E6%9C%88%E8%96%AA7%E5%8D%83%E7%9B%B8%E8%A6%AA4%E6%AC%A1%E5%9D%87%E5%A4%B1%E6%95%97",
-    "timestamp": "2026-11-25T04:59:05.503Z",
     "strategy": ".content-card__main"
   }
 ];
