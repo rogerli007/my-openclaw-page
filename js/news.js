@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T13:31:51.750Z
+// Last updated: 2026-11-25T13:45:26.336Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特區護照漏頁風波｜入境處：護照疑被不法改動　轉交執法部門跟進",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202225436952629248347580.jpeg/-qzLDO8nX-a5xie_SKGNDAgAO_cQZXmTdIewW3SHsFs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415027/%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E6%BC%8F%E9%A0%81%E9%A2%A8%E6%B3%A2-%E5%85%A5%E5%A2%83%E8%99%95-%E8%AD%B7%E7%85%A7%E7%96%91%E8%A2%AB%E4%B8%8D%E6%B3%95%E6%94%B9%E5%8B%95-%E8%BD%89%E4%BA%A4%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E8%B7%9F%E9%80%B2",
+    "timestamp": "2026-11-25T13:45:26.336Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "七人車走私孕婦血赴港驗性別　深圳海關破案拘37人涉4萬份血樣",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202264873564639232349528.jpeg/e5CYZqrtpExlRaY_D2PpCLZvzUG6Ptk-A9E-2gPRPto?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60414803/%E9%80%A3%E8%A9%A9%E9%9B%85%E5%BF%99%E5%B7%A5%E4%BD%9C%E5%86%B7%E8%90%BD%E5%85%A9%E6%AD%B2%E5%8D%8A%E6%84%9B%E5%A5%B3camila-%E4%B8%80%E5%8F%A5%E7%AB%A5%E8%A8%80%E7%AB%A5%E8%AA%9E%E4%BB%A4%E5%AA%BD%E5%AA%BD%E8%B6%85%E5%85%A7%E7%96%9A",
     "timestamp": "2026-11-25T07:22:11.740Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國封堵中國獲取AI算力漏洞後　銀行紛嚴查東南亞數據中心客戶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261120/1200409829739335680782163.jpeg/UikQgT5w9GoOUCiXa9GP5X3k0wvkciz-ol9W0qJfVtI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414827/%E7%BE%8E%E5%9C%8B%E5%B0%81%E5%A0%B5%E4%B8%AD%E5%9C%8B%E7%8D%B2%E5%8F%96ai%E7%AE%97%E5%8A%9B%E6%BC%8F%E6%B4%9E%E5%BE%8C-%E9%8A%80%E8%A1%8C%E7%B4%9B%E5%9A%B4%E6%9F%A5%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%AE%A2%E6%88%B6",
-    "timestamp": "2026-11-25T06:53:10.939Z",
     "strategy": ".content-card__main"
   }
 ];
