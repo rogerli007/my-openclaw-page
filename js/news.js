@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T14:31:55.882Z
+// Last updated: 2026-11-26T14:45:38.662Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑一周年・圖輯｜入夜後獻花人潮不絕　廣福公園成一片花海",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202734504662274048245830.jpeg/WR8NObf0h1RoBSDGGYaQEqhDdDSrDlXKvAee7rwHnu4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415434/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%9C%96%E8%BC%AF-%E5%85%A5%E5%A4%9C%E5%BE%8C%E7%8D%BB%E8%8A%B1%E4%BA%BA%E6%BD%AE%E4%B8%8D%E7%B5%95-%E5%BB%A3%E7%A6%8F%E5%85%AC%E5%9C%92%E6%88%90%E4%B8%80%E7%89%87%E8%8A%B1%E6%B5%B7",
+    "timestamp": "2026-11-26T14:45:38.662Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車cam｜屯門良景輕鐵站私家車失控墮草叢　片主：嚇到個心離一離",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1062923665085042688423589.jpeg/lrXJ2pX7-9MLbTSw7zvQxL0rf0c0ZgZjoTbsQJs27EA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415314/%E5%88%91%E4%BA%8B%E6%A1%88%E5%8F%97%E5%AE%B3%E4%BA%BA%E7%96%91%E9%81%AD%E6%BB%8B%E6%93%BE-%E8%AD%A6%E6%8B%9840%E6%AD%B2%E7%94%B7%E6%B6%89%E5%A6%A8%E7%A4%99%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3-%E6%93%9A%E6%82%89%E7%82%BA%E5%A4%A7%E5%BE%8B%E5%B8%AB",
     "timestamp": "2026-11-26T08:47:28.808Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "郭可盈預祝57歲生日狀態佳！凍齡5秘訣愛吃燕窩番茄早午晚必吃1物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202642406080516096679245.jpeg/WZflw0loHPjj9tiFleAke2CILUvmO37XWOM8qljjPKo?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60415188/%E9%83%AD%E5%8F%AF%E7%9B%88%E9%A0%90%E7%A5%9D57%E6%AD%B2%E7%94%9F%E6%97%A5%E7%8B%80%E6%85%8B%E4%BD%B3-%E5%87%8D%E9%BD%A15%E7%A7%98%E8%A8%A3%E6%84%9B%E5%90%83%E7%87%95%E7%AA%A9%E7%95%AA%E8%8C%84%E6%97%A9%E5%8D%88%E6%99%9A%E5%BF%85%E5%90%831%E7%89%A9",
-    "timestamp": "2026-11-26T08:36:51.267Z",
     "strategy": ".content-card__main"
   }
 ];
