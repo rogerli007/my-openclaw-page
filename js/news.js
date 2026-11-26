@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T18:22:14.001Z
+// Last updated: 2026-11-26T18:34:54.611Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科威特遭無人機襲擊致2名意大利人喪生　伊朗否認參與其中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131128791402287104473198.jpeg/7yVq_hMspBXyqwS74ZNcyhGEr9WUDCXM1z3sh9c97Ic?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415459/%E7%A7%91%E5%A8%81%E7%89%B9%E9%81%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E8%87%B42%E5%90%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%BA%E5%96%AA%E7%94%9F-%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AA%8D%E5%8F%83%E8%88%87%E5%85%B6%E4%B8%AD",
+    "timestamp": "2026-11-26T18:34:54.611Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "科威特遭無人機襲擊致2名意大利人喪生　伊朗否認參與其中",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202701040529444864690423.jpeg/5fDkLHp_H5YQChbZQx_eJdNWTWqi7mMULBnlXiwZ5V4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415391/%E6%9E%97%E6%84%B7%E9%88%B4%E7%9D%87ak%E5%BE%97%E9%87%91%E9%A6%AC%E7%8D%8E%E7%9C%BC%E6%BF%95%E6%BF%95-%E8%87%AA%E8%A8%80%E4%B8%8D%E6%95%A2%E5%A5%A2%E6%9C%9B%E7%8D%8E%E9%A0%85-%E6%8B%8D%E5%88%B0%E9%9B%BB%E5%BD%B1%E5%B7%B2%E5%A5%BD%E9%96%8B%E5%BF%83",
     "timestamp": "2026-11-26T13:20:23.256Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "日本Peach樂桃航空：多達944萬客戶資料外泄　稱承辦商未刪數據",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20221221/682303899213762560453067.jpeg/UwAv73XX7k8MyAiiUOBKM_PZo2tbq302rgIj0a4CI9E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415427/%E6%97%A5%E6%9C%ACpeach%E6%A8%82%E6%A1%83%E8%88%AA%E7%A9%BA-%E5%A4%9A%E9%81%94944%E8%90%AC%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84-%E7%A8%B1%E6%89%BF%E8%BE%A6%E5%95%86%E6%9C%AA%E5%88%AA%E6%95%B8%E6%93%9A",
-    "timestamp": "2026-11-26T12:49:00.863Z",
     "strategy": ".content-card__main"
   }
 ];
