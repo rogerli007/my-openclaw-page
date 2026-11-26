@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T22:45:13.671Z
+// Last updated: 2026-11-26T23:19:22.628Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "董卓究竟有多胖？死後成巨型人油燈　肚臍點火真相揭秘｜歷史奇趣",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202333605875945472051247.png/Z11UxMlfWBnSRj1Rptpjkkib0oBqsukjZgLF8WYCxfE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412701/%E8%91%A3%E5%8D%93%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E8%83%96-%E6%AD%BB%E5%BE%8C%E6%88%90%E5%B7%A8%E5%9E%8B%E4%BA%BA%E6%B2%B9%E7%87%88-%E8%82%9A%E8%87%8D%E9%BB%9E%E7%81%AB%E7%9C%9F%E7%9B%B8%E6%8F%AD%E7%A7%98-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
+    "timestamp": "2026-11-26T23:19:22.628Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "阿叻爆影帝古天樂早年未紅往事　一句道破兩人交情：而家冇咁嘅人",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202297016407822336197305.jpeg/3tYZ0Lt7vIgH9Qj4hbvyfQSWtcnWkGd0wMULqMDFC6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414868/gta-6%E4%B8%BB%E7%B7%9A%E7%88%86%E6%A9%9F%E6%B5%81%E7%A8%8B%E6%94%BB%E7%95%A5-%E5%85%A85%E5%A4%A7%E7%AB%A0%E7%AF%80%E6%95%85%E4%BA%8B%E5%A4%A7%E7%B6%B1%E5%8F%8A108%E5%80%8B%E4%BB%BB%E5%8B%99%E5%88%97%E8%A1%A8%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-11-26T16:33:01.197Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "GTA 6主線爆機流程攻略｜全5大章節故事大綱及108個任務列表一覽",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202297016407822336197305.jpeg/3tYZ0Lt7vIgH9Qj4hbvyfQSWtcnWkGd0wMULqMDFC6g?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414868/gta-6%E4%B8%BB%E7%B7%9A%E7%88%86%E6%A9%9F%E6%B5%81%E7%A8%8B%E6%94%BB%E7%95%A5-%E5%85%A85%E5%A4%A7%E7%AB%A0%E7%AF%80%E6%95%85%E4%BA%8B%E5%A4%A7%E7%B6%B1%E5%8F%8A108%E5%80%8B%E4%BB%BB%E5%8B%99%E5%88%97%E8%A1%A8%E4%B8%80%E8%A6%BD",
-    "timestamp": "2026-11-26T16:21:46.579Z",
     "strategy": ".content-card__main"
   }
 ];
