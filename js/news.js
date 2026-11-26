@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T00:36:42.911Z
+// Last updated: 2026-11-26T00:58:28.440Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SpaceX獲批發射最多100萬顆衛星　以推進太空數據中心計劃",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132342327717662720031746.jpeg/9kIneYxH138g6BKsTEDAC5rU6QrTKSQsRRZskUUWbJE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415073/spacex%E7%8D%B2%E6%89%B9%E7%99%BC%E5%B0%84%E6%9C%80%E5%A4%9A100%E8%90%AC%E9%A1%86%E8%A1%9B%E6%98%9F-%E4%BB%A5%E6%8E%A8%E9%80%B2%E5%A4%AA%E7%A9%BA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E8%A8%88%E5%8A%83",
+    "timestamp": "2026-11-26T00:58:28.440Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "小鵬IRON機械人登台演講自嘲不會臉紅　1.7米高配仿生肌肉有體溫",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117409874314006528073618.jpeg/OvxOIouUDaFRKr_xPh-9zL49TalNkvdgAQl39QEJd_U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415047/%E7%BE%8E%E5%9C%8B%E7%AC%AC%E4%B8%89%E5%AD%A3gdp%E4%B8%8A%E4%BF%AE%E8%87%B34-3-%E6%A0%B8%E5%BF%83pce%E5%8D%87%E5%B9%85%E4%B8%89%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98",
     "timestamp": "2026-11-25T17:59:02.514Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀非TVB「親生女」奪視后：憑《下流上車族》打破常規",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869829792239616879652.jpeg/h_bnuZOl7-uvVNmsf_YP5cZ_QbUC1e8IEUJwSBFCcEg",
-    "url": "https://www.hk01.com/01TV/60413491/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%9D%9Etvb-%E8%A6%AA%E7%94%9F%E5%A5%B3-%E5%A5%AA%E8%A6%96%E5%90%8E-%E6%86%91-%E4%B8%8B%E6%B5%81%E4%B8%8A%E8%BB%8A%E6%97%8F-%E6%89%93%E7%A0%B4%E5%B8%B8%E8%A6%8F",
-    "timestamp": "2026-11-25T17:45:12.299Z",
     "strategy": ".content-card__main"
   }
 ];
