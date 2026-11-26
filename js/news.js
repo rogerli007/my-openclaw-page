@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T15:45:31.784Z
+// Last updated: 2026-11-26T15:58:57.396Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "東張西望｜貓咪切錯膀胱慘死　金主變水魚收律師信：明顯想我收聲",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202728175000358912490725.jpeg/UJ-fPp-8WLGrln8e0XeyzaPDpChmQPfrUaGIc1GhiHM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415430/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%B2%93%E5%92%AA%E5%88%87%E9%8C%AF%E8%86%80%E8%83%B1%E6%85%98%E6%AD%BB-%E9%87%91%E4%B8%BB%E8%AE%8A%E6%B0%B4%E9%AD%9A%E6%94%B6%E5%BE%8B%E5%B8%AB%E4%BF%A1-%E6%98%8E%E9%A1%AF%E6%83%B3%E6%88%91%E6%94%B6%E8%81%B2",
+    "timestamp": "2026-11-26T15:58:57.396Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SmarTone數碼通死機｜官方指服務全面恢復正常　不涉網絡保安事故",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202672394607529984027693.jpeg/XCUiuwpRq_ikykDeqKnCPBLfvZIq8lZ5Rjb9REY2_UQ",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60415327/%E7%8F%A0%E6%B5%B7%E8%88%AA%E5%B1%95-%E7%A9%BA%E8%BB%8D%E6%B4%BE33%E5%9E%8B%E8%A3%9D%E5%82%99%E5%8F%83%E5%B1%95-%E9%81%8B-20b%E9%A6%96%E5%B1%95%E5%87%BA-%E6%AE%B2-35a%E5%8D%87%E7%A9%BA%E8%A1%A8%E6%BC%94",
     "timestamp": "2026-11-26T09:45:13.707Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "聯交所讉責中國恒大和恒大物業　兼許家印、夏海鈞在內7名董事",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250812/1032048501069975552462078.jpeg/RNglRK-EXJsM6J7VOC3cS_L62mdWR9Yhgl6vQYJer0E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415359/%E8%81%AF%E4%BA%A4%E6%89%80%E8%AE%89%E8%B2%AC%E4%B8%AD%E5%9C%8B%E6%81%92%E5%A4%A7%E5%92%8C%E6%81%92%E5%A4%A7%E7%89%A9%E6%A5%AD-%E5%85%BC%E8%A8%B1%E5%AE%B6%E5%8D%B0-%E5%A4%8F%E6%B5%B7%E9%88%9E%E5%9C%A8%E5%85%A77%E5%90%8D%E8%91%A3%E4%BA%8B",
-    "timestamp": "2026-11-26T09:33:38.784Z",
     "strategy": ".content-card__main"
   }
 ];
