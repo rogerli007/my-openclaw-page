@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T11:59:12.515Z
+// Last updated: 2026-11-26T12:25:56.138Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "宏福苑大火一年｜李氏一家七口4人罹難　遺屬痛別摯親:你哋好走喇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202704290255212544316587.jpeg/k3tkNSb2_ONi9vN8uYKvUR1cb-Wfj17XMtNVSxfTVUs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415410/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4-%E6%9D%8E%E6%B0%8F%E4%B8%80%E5%AE%B6%E4%B8%83%E5%8F%A34%E4%BA%BA%E7%BD%B9%E9%9B%A3-%E9%81%BA%E5%B1%AC%E7%97%9B%E5%88%A5%E6%91%AF%E8%A6%AA-%E4%BD%A0%E5%93%8B%E5%A5%BD%E8%B5%B0%E5%96%87",
+    "timestamp": "2026-11-26T12:25:56.138Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港台《非凡人物》｜從攀石王到輪椅攀登者 黎志偉再創攀峰傳奇",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180465301737967616364920.jpeg/PKUjxLRRo2n2NB78VW_QhFgYC4aZs0g1Loho5gSIaOY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415229/24-7-fitness%E7%B3%BB%E7%B5%B1%E9%81%AD%E6%9C%AA%E7%B6%93%E6%8E%88%E6%AC%8A%E5%AD%98%E5%8F%96-%E6%B6%89%E5%8F%8A%E9%83%A8%E4%BB%BD%E7%8F%BE%E6%9C%89%E5%8F%8A%E5%89%8D%E6%9C%83%E5%93%A1%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99",
     "timestamp": "2026-11-26T05:59:24.735Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "上海市委書記陳吉寧被查誰接一把手？歷史慣例透視三種可能性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167853048421158912926487.jpeg/ZUHjd6wfCK2btYDN-pooRzFAC50ty175jfmDV435g1c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60415170/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E6%9B%B8%E8%A8%98%E9%99%B3%E5%90%89%E5%AF%A7%E8%A2%AB%E6%9F%A5%E8%AA%B0%E6%8E%A5%E4%B8%80%E6%8A%8A%E6%89%8B-%E6%AD%B7%E5%8F%B2%E6%85%A3%E4%BE%8B%E9%80%8F%E8%A6%96%E4%B8%89%E7%A8%AE%E5%8F%AF%E8%83%BD%E6%80%A7",
-    "timestamp": "2026-11-26T05:21:16.129Z",
     "strategy": ".content-card__main"
   }
 ];
