@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T05:21:16.129Z
+// Last updated: 2026-11-26T05:59:24.735Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "24/7 FITNESS系統遭未經授權存取　涉及部份現有及前會員個人資料",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260926/1180465301737967616364920.jpeg/PKUjxLRRo2n2NB78VW_QhFgYC4aZs0g1Loho5gSIaOY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415229/24-7-fitness%E7%B3%BB%E7%B5%B1%E9%81%AD%E6%9C%AA%E7%B6%93%E6%8E%88%E6%AC%8A%E5%AD%98%E5%8F%96-%E6%B6%89%E5%8F%8A%E9%83%A8%E4%BB%BD%E7%8F%BE%E6%9C%89%E5%8F%8A%E5%89%8D%E6%9C%83%E5%93%A1%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99",
+    "timestamp": "2026-11-26T05:59:24.735Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上海市委書記陳吉寧被查誰接一把手？歷史慣例透視三種可能性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202504903646253056187234.jpeg/xVGaadTnTVdIup6ywIaohc2Yu5lrmsyI6G-Zquhvmao?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415065/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%E9%81%AD%E5%A3%AB%E7%A0%B5%E4%BA%AD%E9%80%BC%E5%92%8C2-2-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A23-0%E5%8B%9D%E5%B8%83%E9%AD%AF%E6%97%A5",
     "timestamp": "2026-11-25T22:59:10.553Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "天氣｜天文台：今日初時有一兩陣微雨　早上清涼市區約17度",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202503107620114432086432.jpeg/EmUpSm1M2D-TM5b5z7h2ducul3UWzaDxAF7KPQBeyj0?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60415044/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC%E5%B8%82%E5%8D%80%E7%B4%8417%E5%BA%A6",
-    "timestamp": "2026-11-25T22:19:45.902Z",
     "strategy": ".content-card__main"
   }
 ];
