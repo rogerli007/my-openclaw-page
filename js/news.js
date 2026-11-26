@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T13:31:03.970Z
+// Last updated: 2026-11-26T13:45:35.865Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "立陶宛新總理下通牒：台灣代表處若拒改名　政府保留撤銷關閉權",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202724334104219648207348.jpeg/gjjjj-hrsYxbVZNmjGbuZIabsnRerm1XYtH4_2LR-P8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415429/%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E7%B8%BD%E7%90%86%E4%B8%8B%E9%80%9A%E7%89%92-%E5%8F%B0%E7%81%A3%E4%BB%A3%E8%A1%A8%E8%99%95%E8%8B%A5%E6%8B%92%E6%94%B9%E5%90%8D-%E6%94%BF%E5%BA%9C%E4%BF%9D%E7%95%99%E6%92%A4%E9%8A%B7%E9%97%9C%E9%96%89%E6%AC%8A",
+    "timestamp": "2026-11-26T13:45:35.865Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "林愷鈴睇AK得金馬獎眼濕濕　自言不敢奢望獎項：拍到電影已好開心",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202645937231499264709485.png/zY0aVhxHUR_tja4F8WT1PlELzg6KxylCR07Gj0dOxo8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415266/44%E6%AD%B2%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%A4%A7%E9%98%AA%E7%B6%93%E7%87%9F%E5%8D%A1%E6%8B%89ok%E7%84%A1%E7%89%8C%E6%8F%90%E4%BE%9B%E9%99%AA%E9%85%92%E6%9C%8D%E5%8B%99-%E5%B1%A2%E5%8B%B8%E4%B8%8D%E6%94%B9%E7%B5%82%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-26T07:59:21.135Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普離華不足一周　美擬對華加徵20%關稅　商務部斥破壞秩序",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202622335807393792256109.jpeg/rS2xgGbTC242Ys-OC5-MAwV_QcZPLw6Y5wSXZ-cEl2c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60415279/%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%A2%E8%8F%AF%E4%B8%8D%E8%B6%B3%E4%B8%80%E5%91%A8-%E7%BE%8E%E6%93%AC%E5%B0%8D%E8%8F%AF%E5%8A%A0%E5%BE%B520-%E9%97%9C%E7%A8%85-%E5%95%86%E5%8B%99%E9%83%A8%E6%96%A5%E7%A0%B4%E5%A3%9E%E7%A7%A9%E5%BA%8F",
-    "timestamp": "2026-11-26T07:33:33.009Z",
     "strategy": ".content-card__main"
   }
 ];
