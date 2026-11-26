@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T14:59:11.110Z
+// Last updated: 2026-11-26T15:20:11.385Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "TVB小花黃瀅仴台慶險闖大禍　弄丟20萬珠寶：咁不幸發生喺我身上",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202680752236400640697541.jpeg/cc6gzkJAyUI5umfFb35lMmnFCaPUBLXDihn2QYoZ9kE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415302/tvb%E5%B0%8F%E8%8A%B1%E9%BB%83%E7%80%85%E4%BB%B4%E5%8F%B0%E6%85%B6%E9%9A%AA%E9%97%96%E5%A4%A7%E7%A6%8D-%E5%BC%84%E4%B8%9F20%E8%90%AC%E7%8F%A0%E5%AF%B6-%E5%92%81%E4%B8%8D%E5%B9%B8%E7%99%BC%E7%94%9F%E5%96%BA%E6%88%91%E8%BA%AB%E4%B8%8A",
+    "timestamp": "2026-11-26T15:20:11.385Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "直播.特區護照漏頁風波｜入境處拘捕兩人　涉非法改動護照",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202664574986227712236980.png/UbD4qYk9zIem_oCFD8l3XgC1YSWbjIr1Qu5m5ELuZuQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415334/%E7%BE%8E60%E6%AD%B2%E6%8A%97%E7%99%8C%E5%A5%B3%E7%B6%B2%E7%B4%85%E4%B9%B3%E7%99%8C%E7%97%85%E9%80%9D-ig%E9%A0%90%E9%8C%84%E5%91%8A%E5%88%A5%E7%89%87%E8%A6%AA%E5%AE%A3%E6%AD%BB%E8%A8%8A-%E6%AD%A3%E8%88%87%E4%BA%A1%E5%A4%AB%E9%87%8D%E9%80%A2",
     "timestamp": "2026-11-26T09:21:59.895Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳復職｜傳英偉達急停東南亞四國供貨　因美限晶片輸華",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201135270192222208106843.jpeg/wg2zvSISJvoFB0FlIzvfdogxEu9mekS3t_BajrfwWo4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415335/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E5%82%B3%E8%8B%B1%E5%81%89%E9%81%94%E6%80%A5%E5%81%9C%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%9B%9B%E5%9C%8B%E4%BE%9B%E8%B2%A8-%E5%9B%A0%E7%BE%8E%E9%99%90%E6%99%B6%E7%89%87%E8%BC%B8%E8%8F%AF",
-    "timestamp": "2026-11-26T08:59:03.671Z",
     "strategy": ".content-card__main"
   }
 ];
