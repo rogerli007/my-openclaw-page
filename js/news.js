@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T10:45:53.424Z
+// Last updated: 2026-11-26T10:59:12.208Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "網約車｜保聯料附加三保保費可低至1至1.3萬元　視司機年齡等而定",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/345145/org/12fb50585daed14b998b6639b3a3ce3f.jpg/9azdw67lfh3nYkyYcIxFirrMKWBuTgyE5WVPLOVlTyw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415386/%E7%B6%B2%E7%B4%84%E8%BB%8A-%E4%BF%9D%E8%81%AF%E6%96%99%E9%99%84%E5%8A%A0%E4%B8%89%E4%BF%9D%E4%BF%9D%E8%B2%BB%E5%8F%AF%E4%BD%8E%E8%87%B31%E8%87%B31-3%E8%90%AC%E5%85%83-%E8%A6%96%E5%8F%B8%E6%A9%9F%E5%B9%B4%E9%BD%A1%E7%AD%89%E8%80%8C%E5%AE%9A",
+    "timestamp": "2026-11-26T10:59:12.208Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "深水埗福榮街天降鋁窗飛墮馬路　警拘一男涉容許物件從高處墮下",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190462332711473152174205.jpeg/iJ3ZJgQYlaUl5kploYhr7tq5s2kmZKFZyMcnlcjHJ5U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415130/%E6%99%AE%E4%BA%AC%E8%A2%AB%E7%88%86%E6%84%9B%E9%A3%9F%E7%B2%B5%E8%8F%9C-%E8%A6%AA%E9%BB%9E%E7%89%9B%E5%9D%91%E8%85%A9%E6%BB%B7%E6%B0%B4%E8%B1%AC%E8%85%B3%E8%86%8F%E8%9F%B9%E8%92%B8%E8%82%89%E9%A4%85-%E4%BB%B2%E6%89%93%E5%8C%85%E4%B8%8A%E9%A3%9B%E6%A9%9F",
     "timestamp": "2026-11-26T04:33:43.358Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "普京被爆愛食粵菜　親點牛坑腩滷水豬腳膏蟹蒸肉餅　仲打包上飛機",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190462332711473152174205.jpeg/iJ3ZJgQYlaUl5kploYhr7tq5s2kmZKFZyMcnlcjHJ5U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415130/%E6%99%AE%E4%BA%AC%E8%A2%AB%E7%88%86%E6%84%9B%E9%A3%9F%E7%B2%B5%E8%8F%9C-%E8%A6%AA%E9%BB%9E%E7%89%9B%E5%9D%91%E8%85%A9%E6%BB%B7%E6%B0%B4%E8%B1%AC%E8%85%B3%E8%86%8F%E8%9F%B9%E8%92%B8%E8%82%89%E9%A4%85-%E4%BB%B2%E6%89%93%E5%8C%85%E4%B8%8A%E9%A3%9B%E6%A9%9F",
-    "timestamp": "2026-11-26T04:22:03.140Z",
     "strategy": ".content-card__main"
   }
 ];
