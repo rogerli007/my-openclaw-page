@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T09:45:13.707Z
+// Last updated: 2026-11-26T09:59:18.421Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "有片｜德國遊客命懸一線　被困智利猛烈搖晃吊橋揸實圍欄保命",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202680430365511680276904.jpeg/84X1qfHVvPi0TUpk7Wff0QIQXYDcW695TKeNc0ynjXM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415354/%E6%9C%89%E7%89%87-%E5%BE%B7%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A-%E8%A2%AB%E5%9B%B0%E6%99%BA%E5%88%A9%E7%8C%9B%E7%83%88%E6%90%96%E6%99%83%E5%90%8A%E6%A9%8B%E6%8F%B8%E5%AF%A6%E5%9C%8D%E6%AC%84%E4%BF%9D%E5%91%BD",
+    "timestamp": "2026-11-26T09:59:18.421Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珠海航展｜空軍派33型裝備參展　運-20B首展出　殲-35A升空表演",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201135270192222208106843.jpeg/wg2zvSISJvoFB0FlIzvfdogxEu9mekS3t_BajrfwWo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415078/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%B3%A2-%E8%8B%B1%E5%81%89%E9%81%94%E9%81%AD%E6%A8%99%E6%99%AE%E5%88%97%E8%B2%A0%E9%9D%A2%E8%A7%80%E5%AF%9F-90%E6%97%A5%E5%85%A7%E6%81%90%E8%A2%AB%E5%89%8A%E7%B4%9A",
     "timestamp": "2026-11-26T03:45:50.400Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "WhatsApp超實用新功能：排定時間發送！可預約最長14天後自動發送",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202584249828380672381695.png/uu9E5EO8-vbgNW_FUoJnkA_FFQhHH7BMTLuwbEy7sGw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60415164/whatsapp%E8%B6%85%E5%AF%A6%E7%94%A8%E6%96%B0%E5%8A%9F%E8%83%BD-%E6%8E%92%E5%AE%9A%E6%99%82%E9%96%93%E7%99%BC%E9%80%81-%E5%8F%AF%E9%A0%90%E7%B4%84%E6%9C%80%E9%95%B714%E5%A4%A9%E5%BE%8C%E8%87%AA%E5%8B%95%E7%99%BC%E9%80%81",
-    "timestamp": "2026-11-26T03:34:46.892Z",
     "strategy": ".content-card__main"
   }
 ];
