@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T09:59:18.421Z
+// Last updated: 2026-11-26T10:20:46.814Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《沙丘瀚戰：第三章》下個月上映忘光前情？入場前必讀極簡懶人包",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202664080226127872915802.png/gZecPNhtghFGNc6x0-S6pLdGkmdkU8O1N4QIlTeECJU",
+    "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60415278/%E6%B2%99%E4%B8%98%E7%80%9A%E6%88%B0-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%B8%8B%E5%80%8B%E6%9C%88%E4%B8%8A%E6%98%A0%E5%BF%98%E5%85%89%E5%89%8D%E6%83%85-%E5%85%A5%E5%A0%B4%E5%89%8D%E5%BF%85%E8%AE%80%E6%A5%B5%E7%B0%A1%E6%87%B6%E4%BA%BA%E5%8C%85",
+    "timestamp": "2026-11-26T10:20:46.814Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "有片｜德國遊客命懸一線　被困智利猛烈搖晃吊橋揸實圍欄保命",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202586286255247360563071.png/ZWGG-ELF3GWYKegMD3w0bC3Lms70rByuneU0cJ3lNHA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415174/1password%E4%B9%9F%E4%B8%AD%E6%8B%9B-%E5%AF%86%E7%A2%BC%E7%AE%A1%E7%90%86%E7%A8%8B%E5%BC%8F%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E7%A8%B1%E5%AF%86%E7%A2%BC%E5%BA%AB%E5%85%A7%E5%AE%B9%E6%9C%AA%E8%A2%AB%E5%8F%96%E7%94%A8",
     "timestamp": "2026-11-26T03:59:03.544Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "黃仁勳風波｜英偉達遭標普列負面觀察！　90日內恐被削級",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201135270192222208106843.jpeg/wg2zvSISJvoFB0FlIzvfdogxEu9mekS3t_BajrfwWo4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415078/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%B3%A2-%E8%8B%B1%E5%81%89%E9%81%94%E9%81%AD%E6%A8%99%E6%99%AE%E5%88%97%E8%B2%A0%E9%9D%A2%E8%A7%80%E5%AF%9F-90%E6%97%A5%E5%85%A7%E6%81%90%E8%A2%AB%E5%89%8A%E7%B4%9A",
-    "timestamp": "2026-11-26T03:45:50.400Z",
     "strategy": ".content-card__main"
   }
 ];
