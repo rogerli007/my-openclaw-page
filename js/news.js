@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T03:22:23.717Z
+// Last updated: 2026-11-26T03:34:46.892Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "WhatsApp超實用新功能：排定時間發送！可預約最長14天後自動發送",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202584249828380672381695.png/uu9E5EO8-vbgNW_FUoJnkA_FFQhHH7BMTLuwbEy7sGw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60415164/whatsapp%E8%B6%85%E5%AF%A6%E7%94%A8%E6%96%B0%E5%8A%9F%E8%83%BD-%E6%8E%92%E5%AE%9A%E6%99%82%E9%96%93%E7%99%BC%E9%80%81-%E5%8F%AF%E9%A0%90%E7%B4%84%E6%9C%80%E9%95%B714%E5%A4%A9%E5%BE%8C%E8%87%AA%E5%8B%95%E7%99%BC%E9%80%81",
+    "timestamp": "2026-11-26T03:34:46.892Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "四川學生小息講四川話被當違紀　怒轟如犯天條　教育局責令廢止",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202463860968132608834059.jpeg/5THRVYR6-Fhau2BXq-UDJmTXXS0Fmz7uTk3N6E5Nzeg?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415059/%E5%A4%A7%E8%80%81%E5%B1%B1%E9%9A%A7%E9%81%933%E8%BB%8A%E6%92%9E-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%85%B6%E4%B8%AD1%E5%90%8D%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%B4%B0%E6%A9%9F-%E6%9C%AA%E8%83%BD%E9%80%9A%E9%81%8E%E9%85%92%E6%B8%AC",
     "timestamp": "2026-11-25T19:53:27.138Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林俊傑認愛後罕有放閃　為細21歲女友七七慶生送上生日蛋糕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202445165734662144269805.jpeg/m9emRddbh3BX4gAjFX0a3nWBWuqp_o3-sJ2GgLCdhoA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415050/%E6%9E%97%E4%BF%8A%E5%82%91%E8%AA%8D%E6%84%9B%E5%BE%8C%E7%BD%95%E6%9C%89%E6%94%BE%E9%96%83-%E7%82%BA%E7%B4%B021%E6%AD%B2%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E6%85%B6%E7%94%9F%E9%80%81%E4%B8%8A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95",
-    "timestamp": "2026-11-25T19:18:17.422Z",
     "strategy": ".content-card__main"
   }
 ];
