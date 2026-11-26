@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T08:59:03.671Z
+// Last updated: 2026-11-26T09:21:59.895Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美60歲抗癌女網紅乳癌病逝　IG預錄告別片親宣死訊：正與亡夫重逢",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202664574986227712236980.png/UbD4qYk9zIem_oCFD8l3XgC1YSWbjIr1Qu5m5ELuZuQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415334/%E7%BE%8E60%E6%AD%B2%E6%8A%97%E7%99%8C%E5%A5%B3%E7%B6%B2%E7%B4%85%E4%B9%B3%E7%99%8C%E7%97%85%E9%80%9D-ig%E9%A0%90%E9%8C%84%E5%91%8A%E5%88%A5%E7%89%87%E8%A6%AA%E5%AE%A3%E6%AD%BB%E8%A8%8A-%E6%AD%A3%E8%88%87%E4%BA%A1%E5%A4%AB%E9%87%8D%E9%80%A2",
+    "timestamp": "2026-11-26T09:21:59.895Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳復職｜傳英偉達急停東南亞四國供貨　因美限晶片輸華",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202286601837744128450618.jpeg/YPNP8Vd6QtP2SCrYdoCLvTt8PMa55vNg-mtkBfprZAU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60414864/%E5%8F%B0%E7%81%A329%E6%AD%B2%E6%83%85%E4%BE%B6%E9%9C%B2%E7%87%9F%E5%B8%B3%E7%AF%B7%E5%85%A7%E7%94%A8%E7%93%A6%E6%96%AF%E6%9A%96%E7%88%90%E5%8F%96%E6%9A%96-%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E9%9B%99%E4%BA%A1",
     "timestamp": "2026-11-26T02:37:08.158Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣29歲情侶露營帳篷內用瓦斯暖爐取暖　一氧化碳中毒雙亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202286601837744128450618.jpeg/YPNP8Vd6QtP2SCrYdoCLvTt8PMa55vNg-mtkBfprZAU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60414864/%E5%8F%B0%E7%81%A329%E6%AD%B2%E6%83%85%E4%BE%B6%E9%9C%B2%E7%87%9F%E5%B8%B3%E7%AF%B7%E5%85%A7%E7%94%A8%E7%93%A6%E6%96%AF%E6%9A%96%E7%88%90%E5%8F%96%E6%9A%96-%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E9%9B%99%E4%BA%A1",
-    "timestamp": "2026-11-26T02:24:09.523Z",
     "strategy": ".content-card__main"
   }
 ];
