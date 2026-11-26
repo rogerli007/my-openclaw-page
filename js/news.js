@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T22:19:52.238Z
+// Last updated: 2026-11-26T22:45:13.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "阿叻爆影帝古天樂早年未紅往事　一句道破兩人交情：而家冇咁嘅人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202729670873714688163879.jpeg/3tPfq9VoQw1jpXr7PGGqU5hO1sMIiQ6obrZGpW62RqU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415333/%E9%98%BF%E5%8F%BB%E7%88%86%E5%BD%B1%E5%B8%9D%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%97%A9%E5%B9%B4%E6%9C%AA%E7%B4%85%E5%BE%80%E4%BA%8B-%E4%B8%80%E5%8F%A5%E9%81%93%E7%A0%B4%E5%85%A9%E4%BA%BA%E4%BA%A4%E6%83%85-%E8%80%8C%E5%AE%B6%E5%86%87%E5%92%81%E5%98%85%E4%BA%BA",
+    "timestamp": "2026-11-26T22:45:13.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "仲點論政｜世界灣區聯盟　香港獲益無窮",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202297016407822336197305.jpeg/3tYZ0Lt7vIgH9Qj4hbvyfQSWtcnWkGd0wMULqMDFC6g?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414868/gta-6%E4%B8%BB%E7%B7%9A%E7%88%86%E6%A9%9F%E6%B5%81%E7%A8%8B%E6%94%BB%E7%95%A5-%E5%85%A85%E5%A4%A7%E7%AB%A0%E7%AF%80%E6%95%85%E4%BA%8B%E5%A4%A7%E7%B6%B1%E5%8F%8A108%E5%80%8B%E4%BB%BB%E5%8B%99%E5%88%97%E8%A1%A8%E4%B8%80%E8%A6%BD",
     "timestamp": "2026-11-26T16:21:46.579Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "東張西望｜貓咪切錯膀胱慘死　金主變水魚收律師信：明顯想我收聲",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202728175000358912490725.jpeg/UJ-fPp-8WLGrln8e0XeyzaPDpChmQPfrUaGIc1GhiHM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415430/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%B2%93%E5%92%AA%E5%88%87%E9%8C%AF%E8%86%80%E8%83%B1%E6%85%98%E6%AD%BB-%E9%87%91%E4%B8%BB%E8%AE%8A%E6%B0%B4%E9%AD%9A%E6%94%B6%E5%BE%8B%E5%B8%AB%E4%BF%A1-%E6%98%8E%E9%A1%AF%E6%83%B3%E6%88%91%E6%94%B6%E8%81%B2",
-    "timestamp": "2026-11-26T15:58:57.396Z",
     "strategy": ".content-card__main"
   }
 ];
