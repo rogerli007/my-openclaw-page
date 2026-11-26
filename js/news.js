@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T02:37:08.158Z
+// Last updated: 2026-11-26T03:22:23.717Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "四川學生小息講四川話被當違紀　怒轟如犯天條　教育局責令廢止",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202581851428884480573068.jpeg/sUXWQ-5iM83Y8CiZ88mxLeVpvB7WgEDE3D-5Nbo_uTU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415123/%E5%9B%9B%E5%B7%9D%E5%AD%B8%E7%94%9F%E5%B0%8F%E6%81%AF%E8%AC%9B%E5%9B%9B%E5%B7%9D%E8%A9%B1%E8%A2%AB%E7%95%B6%E9%81%95%E7%B4%80-%E6%80%92%E8%BD%9F%E5%A6%82%E7%8A%AF%E5%A4%A9%E6%A2%9D-%E6%95%99%E8%82%B2%E5%B1%80%E8%B2%AC%E4%BB%A4%E5%BB%A2%E6%AD%A2",
+    "timestamp": "2026-11-26T03:22:23.717Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣29歲情侶露營帳篷內用瓦斯暖爐取暖　一氧化碳中毒雙亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202445165734662144269805.jpeg/m9emRddbh3BX4gAjFX0a3nWBWuqp_o3-sJ2GgLCdhoA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415050/%E6%9E%97%E4%BF%8A%E5%82%91%E8%AA%8D%E6%84%9B%E5%BE%8C%E7%BD%95%E6%9C%89%E6%94%BE%E9%96%83-%E7%82%BA%E7%B4%B021%E6%AD%B2%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E6%85%B6%E7%94%9F%E9%80%81%E4%B8%8A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95",
     "timestamp": "2026-11-25T19:18:17.422Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "飛鵝山自殺崖眾女無視危險　長髮女徒手攀山打卡　網民怒轟｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202448973944590336748915.jpeg/VWl1CQtiAIp8wphUiMoN2puWB2Q18pjFVAq5J1QKuSc",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415048/%E9%A3%9B%E9%B5%9D%E5%B1%B1%E8%87%AA%E6%AE%BA%E5%B4%96%E7%9C%BE%E5%A5%B3%E7%84%A1%E8%A6%96%E5%8D%B1%E9%9A%AA-%E9%95%B7%E9%AB%AE%E5%A5%B3%E5%BE%92%E6%89%8B%E6%94%80%E5%B1%B1%E6%89%93%E5%8D%A1-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-25T18:59:06.943Z",
     "strategy": ".content-card__main"
   }
 ];
