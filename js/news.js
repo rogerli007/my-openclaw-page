@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T17:59:10.423Z
+// Last updated: 2026-11-26T18:22:14.001Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "科威特遭無人機襲擊致2名意大利人喪生　伊朗否認參與其中",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260513/1131128791402287104473198.jpeg/7yVq_hMspBXyqwS74ZNcyhGEr9WUDCXM1z3sh9c97Ic?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415459/%E7%A7%91%E5%A8%81%E7%89%B9%E9%81%AD%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%E8%87%B42%E5%90%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%BA%E5%96%AA%E7%94%9F-%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AA%8D%E5%8F%83%E8%88%87%E5%85%B6%E4%B8%AD",
+    "timestamp": "2026-11-26T18:22:14.001Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英格蘭一代翼鋒史達寧毒駕罪成　曾風光無限　離開曼城斷崖式滑落",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20221221/682303899213762560453067.jpeg/UwAv73XX7k8MyAiiUOBKM_PZo2tbq302rgIj0a4CI9E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415427/%E6%97%A5%E6%9C%ACpeach%E6%A8%82%E6%A1%83%E8%88%AA%E7%A9%BA-%E5%A4%9A%E9%81%94944%E8%90%AC%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84-%E7%A8%B1%E6%89%BF%E8%BE%A6%E5%95%86%E6%9C%AA%E5%88%AA%E6%95%B8%E6%93%9A",
     "timestamp": "2026-11-26T12:49:00.863Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑大火一年｜李氏一家七口4人罹難　遺屬痛別摯親:你哋好走喇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202704290255212544316587.jpeg/k3tkNSb2_ONi9vN8uYKvUR1cb-Wfj17XMtNVSxfTVUs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415410/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4-%E6%9D%8E%E6%B0%8F%E4%B8%80%E5%AE%B6%E4%B8%83%E5%8F%A34%E4%BA%BA%E7%BD%B9%E9%9B%A3-%E9%81%BA%E5%B1%AC%E7%97%9B%E5%88%A5%E6%91%AF%E8%A6%AA-%E4%BD%A0%E5%93%8B%E5%A5%BD%E8%B5%B0%E5%96%87",
-    "timestamp": "2026-11-26T12:25:56.138Z",
     "strategy": ".content-card__main"
   }
 ];
