@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T03:59:03.544Z
+// Last updated: 2026-11-26T04:22:03.140Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "普京被爆愛食粵菜　親點牛坑腩滷水豬腳膏蟹蒸肉餅　仲打包上飛機",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190462332711473152174205.jpeg/iJ3ZJgQYlaUl5kploYhr7tq5s2kmZKFZyMcnlcjHJ5U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415130/%E6%99%AE%E4%BA%AC%E8%A2%AB%E7%88%86%E6%84%9B%E9%A3%9F%E7%B2%B5%E8%8F%9C-%E8%A6%AA%E9%BB%9E%E7%89%9B%E5%9D%91%E8%85%A9%E6%BB%B7%E6%B0%B4%E8%B1%AC%E8%85%B3%E8%86%8F%E8%9F%B9%E8%92%B8%E8%82%89%E9%A4%85-%E4%BB%B2%E6%89%93%E5%8C%85%E4%B8%8A%E9%A3%9B%E6%A9%9F",
+    "timestamp": "2026-11-26T04:22:03.140Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "1Password也中招　密碼管理程式黑客入侵　稱密碼庫內容未被取用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250915/1044403949949423616593718.jpeg/_YJR-43AWKvK3m9q3HoGj07Kpw377yJyJgUcTSYFHE0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415063/%E6%9D%8E%E6%88%90%E9%8B%BC-%E4%B8%AD%E5%9C%8B%E5%A0%85%E6%8C%81%E5%A4%9A%E9%82%8A%E4%B8%BB%E7%BE%A9-%E5%A0%85%E5%AE%9A%E7%B6%AD%E8%AD%B7%E5%A4%9A%E9%82%8A%E8%B2%BF%E6%98%93%E9%AB%94%E5%88%B6",
     "timestamp": "2026-11-25T20:59:24.199Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門連鎖快餐店巨鼠爬天花　女聲驚呼：死啦！爬到過嚟｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202477751664119808897356.jpeg/ixlLvBE4IAdVvtowKI6A18hYj75CZbI7S9QaP0vUGj8",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415062/%E5%B1%AF%E9%96%80%E9%80%A3%E9%8E%96%E5%BF%AB%E9%A4%90%E5%BA%97%E5%B7%A8%E9%BC%A0%E7%88%AC%E5%A4%A9%E8%8A%B1-%E5%A5%B3%E8%81%B2%E9%A9%9A%E5%91%BC-%E6%AD%BB%E5%95%A6-%E7%88%AC%E5%88%B0%E9%81%8E%E5%9A%9F-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-25T20:40:05.853Z",
     "strategy": ".content-card__main"
   }
 ];
