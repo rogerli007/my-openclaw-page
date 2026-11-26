@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T15:20:11.385Z
+// Last updated: 2026-11-26T15:45:31.784Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SmarTone數碼通死機｜官方指服務全面恢復正常　不涉網絡保安事故",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/349836/org/4a91fccf085f4bd2fef1b9baa902b742.jpg/qbditz0CDw8BSplPYHrTdJvKN4-TrevfkHcXepB3F3o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415449/smartone%E6%95%B8%E7%A2%BC%E9%80%9A%E6%AD%BB%E6%A9%9F-%E5%AE%98%E6%96%B9%E6%8C%87%E6%9C%8D%E5%8B%99%E5%85%A8%E9%9D%A2%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8-%E4%B8%8D%E6%B6%89%E7%B6%B2%E7%B5%A1%E4%BF%9D%E5%AE%89%E4%BA%8B%E6%95%85",
+    "timestamp": "2026-11-26T15:45:31.784Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "TVB小花黃瀅仴台慶險闖大禍　弄丟20萬珠寶：咁不幸發生喺我身上",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20250812/1032048501069975552462078.jpeg/RNglRK-EXJsM6J7VOC3cS_L62mdWR9Yhgl6vQYJer0E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415359/%E8%81%AF%E4%BA%A4%E6%89%80%E8%AE%89%E8%B2%AC%E4%B8%AD%E5%9C%8B%E6%81%92%E5%A4%A7%E5%92%8C%E6%81%92%E5%A4%A7%E7%89%A9%E6%A5%AD-%E5%85%BC%E8%A8%B1%E5%AE%B6%E5%8D%B0-%E5%A4%8F%E6%B5%B7%E9%88%9E%E5%9C%A8%E5%85%A77%E5%90%8D%E8%91%A3%E4%BA%8B",
     "timestamp": "2026-11-26T09:33:38.784Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美60歲抗癌女網紅乳癌病逝　IG預錄告別片親宣死訊：正與亡夫重逢",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202664574986227712236980.png/UbD4qYk9zIem_oCFD8l3XgC1YSWbjIr1Qu5m5ELuZuQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415334/%E7%BE%8E60%E6%AD%B2%E6%8A%97%E7%99%8C%E5%A5%B3%E7%B6%B2%E7%B4%85%E4%B9%B3%E7%99%8C%E7%97%85%E9%80%9D-ig%E9%A0%90%E9%8C%84%E5%91%8A%E5%88%A5%E7%89%87%E8%A6%AA%E5%AE%A3%E6%AD%BB%E8%A8%8A-%E6%AD%A3%E8%88%87%E4%BA%A1%E5%A4%AB%E9%87%8D%E9%80%A2",
-    "timestamp": "2026-11-26T09:21:59.895Z",
     "strategy": ".content-card__main"
   }
 ];
