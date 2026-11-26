@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T01:21:13.981Z
+// Last updated: 2026-11-26T01:48:43.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車CAM直擊︱沙田路私家車失控撞水馬　水花四濺　熱心司機助救援",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202553960083230720824653.jpeg/q1YesqD9gOd705f5RVoS1SWuQeCNVw2HTZU0i02VNIs",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415075/%E8%BB%8Acam%E7%9B%B4%E6%93%8A-%E6%B2%99%E7%94%B0%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%B0%B4%E9%A6%AC-%E6%B0%B4%E8%8A%B1%E5%9B%9B%E6%BF%BA-%E7%86%B1%E5%BF%83%E5%8F%B8%E6%A9%9F%E5%8A%A9%E6%95%91%E6%8F%B4",
+    "timestamp": "2026-11-26T01:48:43.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課　下班開車痛哭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202445348727951360362847.jpeg/KpqiQuH_wyqwOQbGXpBY961Hz8Px8GD6hCxE7IQsROw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415053/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E6%AA%A2%E7%8D%B27%E5%BC%B5%E9%BA%BB%E9%9B%80%E6%9E%B1-2%E8%90%AC%E7%8F%BE%E9%87%91-23%E4%BA%BA%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-25T18:33:13.754Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀感念陳煒義氣：經濟困難 對方直接轉帳借錢幫忙",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200871591806767104291347.jpeg/YcLjhJwmzivr54HCFn-AczEhzpu9XJjsyj2loMo9paA",
-    "url": "https://www.hk01.com/01TV/60413493/%E6%B1%9F%E7%BE%8E%E5%84%80%E6%84%9F%E5%BF%B5%E9%99%B3%E7%85%92%E7%BE%A9%E6%B0%A3-%E7%B6%93%E6%BF%9F%E5%9B%B0%E9%9B%A3-%E5%B0%8D%E6%96%B9%E7%9B%B4%E6%8E%A5%E8%BD%89%E5%B8%B3%E5%80%9F%E9%8C%A2%E5%B9%AB%E5%BF%99",
-    "timestamp": "2026-11-25T18:22:00.018Z",
     "strategy": ".content-card__main"
   }
 ];
