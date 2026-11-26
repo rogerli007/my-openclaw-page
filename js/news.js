@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T03:34:46.892Z
+// Last updated: 2026-11-26T03:45:50.400Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳風波｜英偉達遭標普列負面觀察！　90日內恐被削級",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201135270192222208106843.jpeg/wg2zvSISJvoFB0FlIzvfdogxEu9mekS3t_BajrfwWo4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415078/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%B3%A2-%E8%8B%B1%E5%81%89%E9%81%94%E9%81%AD%E6%A8%99%E6%99%AE%E5%88%97%E8%B2%A0%E9%9D%A2%E8%A7%80%E5%AF%9F-90%E6%97%A5%E5%85%A7%E6%81%90%E8%A2%AB%E5%89%8A%E7%B4%9A",
+    "timestamp": "2026-11-26T03:45:50.400Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "WhatsApp超實用新功能：排定時間發送！可預約最長14天後自動發送",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200872936471269376082159.jpeg/glcyj45_hQnvQzCP5Mfhzlu55NgO1ycH7te8-u7XvPo",
     "url": "https://www.hk01.com/01TV/60413498/%E6%B1%9F%E7%BE%8E%E5%84%80%E5%89%8D%E5%BE%80%E6%B3%B0%E5%9C%8B%E6%8B%8D%E5%8A%87-%E7%9B%AE%E7%9D%B9%E5%AF%87%E7%B4%8D%E6%B5%B7%E5%98%AF%E5%BE%8C%E7%9A%84%E6%85%98%E7%8B%80",
     "timestamp": "2026-11-25T20:19:36.643Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "大老山隧道3車撞　3人受傷　其中1名司機「吹細機」未能通過酒測",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202463860968132608834059.jpeg/5THRVYR6-Fhau2BXq-UDJmTXXS0Fmz7uTk3N6E5Nzeg?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415059/%E5%A4%A7%E8%80%81%E5%B1%B1%E9%9A%A7%E9%81%933%E8%BB%8A%E6%92%9E-3%E4%BA%BA%E5%8F%97%E5%82%B7-%E5%85%B6%E4%B8%AD1%E5%90%8D%E5%8F%B8%E6%A9%9F-%E5%90%B9%E7%B4%B0%E6%A9%9F-%E6%9C%AA%E8%83%BD%E9%80%9A%E9%81%8E%E9%85%92%E6%B8%AC",
-    "timestamp": "2026-11-25T19:53:27.138Z",
     "strategy": ".content-card__main"
   }
 ];
