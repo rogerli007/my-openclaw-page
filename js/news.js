@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T07:33:33.009Z
+// Last updated: 2026-11-26T07:59:21.135Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "44歲中國女大阪經營卡拉OK無牌提供陪酒服務　屢勸不改終被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202645937231499264709485.png/zY0aVhxHUR_tja4F8WT1PlELzg6KxylCR07Gj0dOxo8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415266/44%E6%AD%B2%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%A4%A7%E9%98%AA%E7%B6%93%E7%87%9F%E5%8D%A1%E6%8B%89ok%E7%84%A1%E7%89%8C%E6%8F%90%E4%BE%9B%E9%99%AA%E9%85%92%E6%9C%8D%E5%8B%99-%E5%B1%A2%E5%8B%B8%E4%B8%8D%E6%94%B9%E7%B5%82%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-26T07:59:21.135Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普離華不足一周　美擬對華加徵20%關稅　商務部斥破壞秩序",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202379905489178624267913.jpeg/exKZ1UE25db1TEMnZuw2F_GYhuL5S2iA_Ryg-_0coPs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415030/%E5%B0%8F%E9%B5%ACiron%E6%A9%9F%E6%A2%B0%E4%BA%BA%E7%99%BB%E5%8F%B0%E6%BC%94%E8%AC%9B%E8%87%AA%E5%98%B2%E4%B8%8D%E6%9C%83%E8%87%89%E7%B4%85-1-7%E7%B1%B3%E9%AB%98%E9%85%8D%E4%BB%BF%E7%94%9F%E8%82%8C%E8%82%89%E6%9C%89%E9%AB%94%E6%BA%AB",
     "timestamp": "2026-11-26T00:36:42.911Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "蘇民峰曝港股持倉　莎莎翻倍、阿里愈跌愈買　羊年經濟恐「伏吟」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202389712451407872960312.jpeg/krV_f9EPVR0XJh0H3PTKgGSLPTgZ3NBYo5_w5qOf8OY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414971/%E8%98%87%E6%B0%91%E5%B3%B0%E6%9B%9D%E6%B8%AF%E8%82%A1%E6%8C%81%E5%80%89-%E8%8E%8E%E8%8E%8E%E7%BF%BB%E5%80%8D-%E9%98%BF%E9%87%8C%E6%84%88%E8%B7%8C%E6%84%88%E8%B2%B7-%E7%BE%8A%E5%B9%B4%E7%B6%93%E6%BF%9F%E6%81%90-%E4%BC%8F%E5%90%9F",
-    "timestamp": "2026-11-25T23:58:59.491Z",
     "strategy": ".content-card__main"
   }
 ];
