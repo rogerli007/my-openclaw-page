@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T19:59:04.486Z
+// Last updated: 2026-11-26T20:19:58.379Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐元區推選西班牙德科斯出任新歐洲央行長　明年2月接替拉加德",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
+    "timestamp": "2026-11-26T20:19:58.379Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐元區推選西班牙德科斯出任新歐洲央行長　明年2月接替拉加德",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202734504662274048245830.jpeg/WR8NObf0h1RoBSDGGYaQEqhDdDSrDlXKvAee7rwHnu4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415434/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%9C%96%E8%BC%AF-%E5%85%A5%E5%A4%9C%E5%BE%8C%E7%8D%BB%E8%8A%B1%E4%BA%BA%E6%BD%AE%E4%B8%8D%E7%B5%95-%E5%BB%A3%E7%A6%8F%E5%85%AC%E5%9C%92%E6%88%90%E4%B8%80%E7%89%87%E8%8A%B1%E6%B5%B7",
     "timestamp": "2026-11-26T14:45:38.662Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車cam｜屯門良景輕鐵站私家車失控墮草叢　片主：嚇到個心離一離",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202741581736579072560943.png/gQJpNE-3qomxYKxyIIJjNc6k4P0ovu7g1UiBh9VIgYc?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415439/%E8%BB%8Acam-%E5%B1%AF%E9%96%80%E8%89%AF%E6%99%AF%E8%BC%95%E9%90%B5%E7%AB%99%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7%E5%A2%AE%E8%8D%89%E5%8F%A2-%E7%89%87%E4%B8%BB-%E5%9A%87%E5%88%B0%E5%80%8B%E5%BF%83%E9%9B%A2%E4%B8%80%E9%9B%A2",
-    "timestamp": "2026-11-26T14:31:55.882Z",
     "strategy": ".content-card__main"
   }
 ];
