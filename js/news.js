@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T09:21:59.895Z
+// Last updated: 2026-11-26T09:33:38.784Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "聯交所讉責中國恒大和恒大物業　兼許家印、夏海鈞在內7名董事",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20250812/1032048501069975552462078.jpeg/RNglRK-EXJsM6J7VOC3cS_L62mdWR9Yhgl6vQYJer0E?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415359/%E8%81%AF%E4%BA%A4%E6%89%80%E8%AE%89%E8%B2%AC%E4%B8%AD%E5%9C%8B%E6%81%92%E5%A4%A7%E5%92%8C%E6%81%92%E5%A4%A7%E7%89%A9%E6%A5%AD-%E5%85%BC%E8%A8%B1%E5%AE%B6%E5%8D%B0-%E5%A4%8F%E6%B5%B7%E9%88%9E%E5%9C%A8%E5%85%A77%E5%90%8D%E8%91%A3%E4%BA%8B",
+    "timestamp": "2026-11-26T09:33:38.784Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美60歲抗癌女網紅乳癌病逝　IG預錄告別片親宣死訊：正與亡夫重逢",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202581851428884480573068.jpeg/sUXWQ-5iM83Y8CiZ88mxLeVpvB7WgEDE3D-5Nbo_uTU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415123/%E5%9B%9B%E5%B7%9D%E5%AD%B8%E7%94%9F%E5%B0%8F%E6%81%AF%E8%AC%9B%E5%9B%9B%E5%B7%9D%E8%A9%B1%E8%A2%AB%E7%95%B6%E9%81%95%E7%B4%80-%E6%80%92%E8%BD%9F%E5%A6%82%E7%8A%AF%E5%A4%A9%E6%A2%9D-%E6%95%99%E8%82%B2%E5%B1%80%E8%B2%AC%E4%BB%A4%E5%BB%A2%E6%AD%A2",
     "timestamp": "2026-11-26T03:22:23.717Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣29歲情侶露營帳篷內用瓦斯暖爐取暖　一氧化碳中毒雙亡",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202286601837744128450618.jpeg/YPNP8Vd6QtP2SCrYdoCLvTt8PMa55vNg-mtkBfprZAU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60414864/%E5%8F%B0%E7%81%A329%E6%AD%B2%E6%83%85%E4%BE%B6%E9%9C%B2%E7%87%9F%E5%B8%B3%E7%AF%B7%E5%85%A7%E7%94%A8%E7%93%A6%E6%96%AF%E6%9A%96%E7%88%90%E5%8F%96%E6%9A%96-%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E9%9B%99%E4%BA%A1",
-    "timestamp": "2026-11-26T02:37:08.158Z",
     "strategy": ".content-card__main"
   }
 ];
