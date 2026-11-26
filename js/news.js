@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T04:59:10.739Z
+// Last updated: 2026-11-26T05:21:16.129Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上海市委書記陳吉寧被查誰接一把手？歷史慣例透視三種可能性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167853048421158912926487.jpeg/ZUHjd6wfCK2btYDN-pooRzFAC50ty175jfmDV435g1c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60415170/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E6%9B%B8%E8%A8%98%E9%99%B3%E5%90%89%E5%AF%A7%E8%A2%AB%E6%9F%A5%E8%AA%B0%E6%8E%A5%E4%B8%80%E6%8A%8A%E6%89%8B-%E6%AD%B7%E5%8F%B2%E6%85%A3%E4%BE%8B%E9%80%8F%E8%A6%96%E4%B8%89%E7%A8%AE%E5%8F%AF%E8%83%BD%E6%80%A7",
+    "timestamp": "2026-11-26T05:21:16.129Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣選舉｜沈伯洋封路辦選前之夜捱轟急煞停　蔣萬安讓路權供使用",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202503107620114432086432.jpeg/EmUpSm1M2D-TM5b5z7h2ducul3UWzaDxAF7KPQBeyj0?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60415044/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E5%88%9D%E6%99%82%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E5%BE%AE%E9%9B%A8-%E6%97%A9%E4%B8%8A%E6%B8%85%E6%B6%BC%E5%B8%82%E5%8D%80%E7%B4%8417%E5%BA%A6",
     "timestamp": "2026-11-25T22:19:45.902Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港鐵：天水圍站工程車設備故障　屯馬綫候車時間多10至15分鐘",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260806/1162041753864376320764952.jpeg/pmZ2x7rgeiSgmvDrxeICUVpxE9uSH2tFIYJHUyGCR1M?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415066/%E6%B8%AF%E9%90%B5-%E5%A4%A9%E6%B0%B4%E5%9C%8D%E7%AB%99%E5%B7%A5%E7%A8%8B%E8%BB%8A%E8%A8%AD%E5%82%99%E6%95%85%E9%9A%9C-%E5%B1%AF%E9%A6%AC%E7%B6%AB%E5%80%99%E8%BB%8A%E6%99%82%E9%96%93%E5%A4%9A10%E8%87%B315%E5%88%86%E9%90%98",
-    "timestamp": "2026-11-25T21:58:57.182Z",
     "strategy": ".content-card__main"
   }
 ];
