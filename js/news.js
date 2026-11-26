@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T17:45:34.006Z
+// Last updated: 2026-11-26T17:59:10.423Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英格蘭一代翼鋒史達寧毒駕罪成　曾風光無限　離開曼城斷崖式滑落",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202717829258809344460387.jpeg/KkHIfsUK8LJDjKsHkepvHZPGxg3ch-v0CobCwgqGwsI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415426/%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B8%80%E4%BB%A3%E7%BF%BC%E9%8B%92%E5%8F%B2%E9%81%94%E5%AF%A7%E6%AF%92%E9%A7%95%E7%BD%AA%E6%88%90-%E6%9B%BE%E9%A2%A8%E5%85%89%E7%84%A1%E9%99%90-%E9%9B%A2%E9%96%8B%E6%9B%BC%E5%9F%8E%E6%96%B7%E5%B4%96%E5%BC%8F%E6%BB%91%E8%90%BD",
+    "timestamp": "2026-11-26T17:59:10.423Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英格蘭一代翼鋒史達寧毒駕罪成　曾風光無限　離開曼城斷崖式滑落",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202704290255212544316587.jpeg/k3tkNSb2_ONi9vN8uYKvUR1cb-Wfj17XMtNVSxfTVUs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415410/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%B9%B4-%E6%9D%8E%E6%B0%8F%E4%B8%80%E5%AE%B6%E4%B8%83%E5%8F%A34%E4%BA%BA%E7%BD%B9%E9%9B%A3-%E9%81%BA%E5%B1%AC%E7%97%9B%E5%88%A5%E6%91%AF%E8%A6%AA-%E4%BD%A0%E5%93%8B%E5%A5%BD%E8%B5%B0%E5%96%87",
     "timestamp": "2026-11-26T12:25:56.138Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "港台《非凡人物》｜從攀石王到輪椅攀登者 黎志偉再創攀峰傳奇",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202712585481228288354792.jpeg/kGyfk4hyPmbJcWO7wxOHWvOj0CjtNzxqSXMj6klzI-o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60415422/%E6%B8%AF%E5%8F%B0-%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E5%BE%9E%E6%94%80%E7%9F%B3%E7%8E%8B%E5%88%B0%E8%BC%AA%E6%A4%85%E6%94%80%E7%99%BB%E8%80%85-%E9%BB%8E%E5%BF%97%E5%81%89%E5%86%8D%E5%89%B5%E6%94%80%E5%B3%B0%E5%82%B3%E5%A5%87",
-    "timestamp": "2026-11-26T11:59:12.515Z",
     "strategy": ".content-card__main"
   }
 ];
