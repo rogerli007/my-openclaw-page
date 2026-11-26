@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T07:59:21.135Z
+// Last updated: 2026-11-26T08:24:00.232Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "SmarTone數碼通死機｜陸續恢復正常　網民呻：畀錢就係買你穩定性",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202657669517676544780954.jpeg/8gtV2GXN6uNcSQECkWjXtwWbR08YfVH23AAEA9wABAM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415289/smartone%E6%95%B8%E7%A2%BC%E9%80%9A%E6%AD%BB%E6%A9%9F-%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8-%E7%B6%B2%E6%B0%91%E5%91%BB-%E7%95%80%E9%8C%A2%E5%B0%B1%E4%BF%82%E8%B2%B7%E4%BD%A0%E7%A9%A9%E5%AE%9A%E6%80%A7",
+    "timestamp": "2026-11-26T08:24:00.232Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "44歲中國女大阪經營卡拉OK無牌提供陪酒服務　屢勸不改終被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132342327717662720031746.jpeg/9kIneYxH138g6BKsTEDAC5rU6QrTKSQsRRZskUUWbJE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415073/spacex%E7%8D%B2%E6%89%B9%E7%99%BC%E5%B0%84%E6%9C%80%E5%A4%9A100%E8%90%AC%E9%A1%86%E8%A1%9B%E6%98%9F-%E4%BB%A5%E6%8E%A8%E9%80%B2%E5%A4%AA%E7%A9%BA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E8%A8%88%E5%8A%83",
     "timestamp": "2026-11-26T00:58:28.440Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "小鵬IRON機械人登台演講自嘲不會臉紅　1.7米高配仿生肌肉有體溫",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202379905489178624267913.jpeg/exKZ1UE25db1TEMnZuw2F_GYhuL5S2iA_Ryg-_0coPs?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415030/%E5%B0%8F%E9%B5%ACiron%E6%A9%9F%E6%A2%B0%E4%BA%BA%E7%99%BB%E5%8F%B0%E6%BC%94%E8%AC%9B%E8%87%AA%E5%98%B2%E4%B8%8D%E6%9C%83%E8%87%89%E7%B4%85-1-7%E7%B1%B3%E9%AB%98%E9%85%8D%E4%BB%BF%E7%94%9F%E8%82%8C%E8%82%89%E6%9C%89%E9%AB%94%E6%BA%AB",
-    "timestamp": "2026-11-26T00:36:42.911Z",
     "strategy": ".content-card__main"
   }
 ];
