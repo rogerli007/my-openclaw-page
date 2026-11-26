@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T02:24:09.523Z
+// Last updated: 2026-11-26T02:37:08.158Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣29歲情侶露營帳篷內用瓦斯暖爐取暖　一氧化碳中毒雙亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202286601837744128450618.jpeg/YPNP8Vd6QtP2SCrYdoCLvTt8PMa55vNg-mtkBfprZAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60414864/%E5%8F%B0%E7%81%A329%E6%AD%B2%E6%83%85%E4%BE%B6%E9%9C%B2%E7%87%9F%E5%B8%B3%E7%AF%B7%E5%85%A7%E7%94%A8%E7%93%A6%E6%96%AF%E6%9A%96%E7%88%90%E5%8F%96%E6%9A%96-%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E9%9B%99%E4%BA%A1",
+    "timestamp": "2026-11-26T02:37:08.158Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "台灣29歲情侶露營帳篷內用瓦斯暖爐取暖　一氧化碳中毒雙亡",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202448973944590336748915.jpeg/VWl1CQtiAIp8wphUiMoN2puWB2Q18pjFVAq5J1QKuSc",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415048/%E9%A3%9B%E9%B5%9D%E5%B1%B1%E8%87%AA%E6%AE%BA%E5%B4%96%E7%9C%BE%E5%A5%B3%E7%84%A1%E8%A6%96%E5%8D%B1%E9%9A%AA-%E9%95%B7%E9%AB%AE%E5%A5%B3%E5%BE%92%E6%89%8B%E6%94%80%E5%B1%B1%E6%89%93%E5%8D%A1-%E7%B6%B2%E6%B0%91%E6%80%92%E8%BD%9F-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-25T18:59:06.943Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "跨部門多區打擊非法勞工及掃黃　19男女被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202448298854584320608572.jpeg/IKJEMYNbdNusUL1jxLRV09cO2RHhYZhYJMmOACTJjgA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415055/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%9A%E5%8D%80%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5%E5%8F%8A%E6%8E%83%E9%BB%83-19%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-25T18:45:13.769Z",
     "strategy": ".content-card__main"
   }
 ];
