@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T16:21:46.579Z
+// Last updated: 2026-11-26T16:33:01.197Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "GTA 6主線爆機流程攻略｜全5大章節故事大綱及108個任務列表一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202297016407822336197305.jpeg/3tYZ0Lt7vIgH9Qj4hbvyfQSWtcnWkGd0wMULqMDFC6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414868/gta-6%E4%B8%BB%E7%B7%9A%E7%88%86%E6%A9%9F%E6%B5%81%E7%A8%8B%E6%94%BB%E7%95%A5-%E5%85%A85%E5%A4%A7%E7%AB%A0%E7%AF%80%E6%95%85%E4%BA%8B%E5%A4%A7%E7%B6%B1%E5%8F%8A108%E5%80%8B%E4%BB%BB%E5%8B%99%E5%88%97%E8%A1%A8%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-11-26T16:33:01.197Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "GTA 6主線爆機流程攻略｜全5大章節故事大綱及108個任務列表一覽",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202664080226127872915802.png/gZecPNhtghFGNc6x0-S6pLdGkmdkU8O1N4QIlTeECJU",
     "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60415278/%E6%B2%99%E4%B8%98%E7%80%9A%E6%88%B0-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%B8%8B%E5%80%8B%E6%9C%88%E4%B8%8A%E6%98%A0%E5%BF%98%E5%85%89%E5%89%8D%E6%83%85-%E5%85%A5%E5%A0%B4%E5%89%8D%E5%BF%85%E8%AE%80%E6%A5%B5%E7%B0%A1%E6%87%B6%E4%BA%BA%E5%8C%85",
     "timestamp": "2026-11-26T10:20:46.814Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "有片｜德國遊客命懸一線　被困智利猛烈搖晃吊橋揸實圍欄保命",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202680430365511680276904.jpeg/84X1qfHVvPi0TUpk7Wff0QIQXYDcW695TKeNc0ynjXM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415354/%E6%9C%89%E7%89%87-%E5%BE%B7%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A-%E8%A2%AB%E5%9B%B0%E6%99%BA%E5%88%A9%E7%8C%9B%E7%83%88%E6%90%96%E6%99%83%E5%90%8A%E6%A9%8B%E6%8F%B8%E5%AF%A6%E5%9C%8D%E6%AC%84%E4%BF%9D%E5%91%BD",
-    "timestamp": "2026-11-26T09:59:18.421Z",
     "strategy": ".content-card__main"
   }
 ];
