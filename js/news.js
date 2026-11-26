@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T20:19:58.379Z
+// Last updated: 2026-11-26T20:59:26.390Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門帝灣居單位遭爆竊　賊人撬窗掠走$74萬財物　包括勞力士名錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202844288166137856358092.jpeg/bUc07kgbO5H7bAF0z1N0i9xzk0kK5fNFzsdhwc7HYcE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415471/%E5%B1%AF%E9%96%80%E5%B8%9D%E7%81%A3%E5%B1%85%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%8E%A0%E8%B5%B0-74%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
+    "timestamp": "2026-11-26T20:59:26.390Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐元區推選西班牙德科斯出任新歐洲央行長　明年2月接替拉加德",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202757352894238720496318.jpeg/OA91v4CKiDvkHnwCCvTd_UhwMYulr58lJ8rWMCfK1jA",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415444/%E7%9B%B4%E6%92%AD-%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E6%BC%8F%E9%A0%81%E9%A2%A8%E6%B3%A2-%E5%85%A5%E5%A2%83%E8%99%95%E6%8B%98%E6%8D%95%E5%85%A9%E4%BA%BA-%E6%B6%89%E9%9D%9E%E6%B3%95%E6%94%B9%E5%8B%95%E8%AD%B7%E7%85%A7",
     "timestamp": "2026-11-26T14:59:11.110Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑一周年・圖輯｜入夜後獻花人潮不絕　廣福公園成一片花海",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202734504662274048245830.jpeg/WR8NObf0h1RoBSDGGYaQEqhDdDSrDlXKvAee7rwHnu4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415434/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%9C%96%E8%BC%AF-%E5%85%A5%E5%A4%9C%E5%BE%8C%E7%8D%BB%E8%8A%B1%E4%BA%BA%E6%BD%AE%E4%B8%8D%E7%B5%95-%E5%BB%A3%E7%A6%8F%E5%85%AC%E5%9C%92%E6%88%90%E4%B8%80%E7%89%87%E8%8A%B1%E6%B5%B7",
-    "timestamp": "2026-11-26T14:45:38.662Z",
     "strategy": ".content-card__main"
   }
 ];
