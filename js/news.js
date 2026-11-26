@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T12:49:00.863Z
+// Last updated: 2026-11-26T13:20:23.256Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "林愷鈴睇AK得金馬獎眼濕濕　自言不敢奢望獎項：拍到電影已好開心",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202701040529444864690423.jpeg/5fDkLHp_H5YQChbZQx_eJdNWTWqi7mMULBnlXiwZ5V4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415391/%E6%9E%97%E6%84%B7%E9%88%B4%E7%9D%87ak%E5%BE%97%E9%87%91%E9%A6%AC%E7%8D%8E%E7%9C%BC%E6%BF%95%E6%BF%95-%E8%87%AA%E8%A8%80%E4%B8%8D%E6%95%A2%E5%A5%A2%E6%9C%9B%E7%8D%8E%E9%A0%85-%E6%8B%8D%E5%88%B0%E9%9B%BB%E5%BD%B1%E5%B7%B2%E5%A5%BD%E9%96%8B%E5%BF%83",
+    "timestamp": "2026-11-26T13:20:23.256Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "日本Peach樂桃航空：多達944萬客戶資料外泄　稱承辦商未刪數據",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/4191407/org/d3dfc78a8a2b0c0e137c970bb8c511bb.jpg/LvC_kYS9gn5V5pW7O_G2y51CaibWtBuZ53CKEedwihE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415271/%E9%9B%BB%E8%A8%8A%E5%95%86smartone%E8%A8%8A%E8%99%9F%E7%AA%81%E4%B8%AD%E6%96%B7-%E6%89%8B%E6%A9%9F%E9%A1%AF%E7%A4%BA-%E6%B2%92%E6%9C%89%E6%9C%8D%E5%8B%99-%E7%84%A1%E6%B3%95%E4%B8%8A%E7%B6%B2%E9%80%9A%E8%A9%B1",
     "timestamp": "2026-11-26T07:21:44.613Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "項明生呻Cut寬頻慘過離婚！盤點八大電訊商終止服務條款+記者點評",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202634498143948800598124.jpeg/TQkYiKzg1dAoUoBWfWe8P7t3qjNBxF7HbHUEpGx1BKQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415154/%E9%A0%85%E6%98%8E%E7%94%9F%E5%91%BBcut%E5%AF%AC%E9%A0%BB%E6%85%98%E9%81%8E%E9%9B%A2%E5%A9%9A-%E7%9B%A4%E9%BB%9E%E5%85%AB%E5%A4%A7%E9%9B%BB%E8%A8%8A%E5%95%86%E7%B5%82%E6%AD%A2%E6%9C%8D%E5%8B%99%E6%A2%9D%E6%AC%BE-%E8%A8%98%E8%80%85%E9%BB%9E%E8%A9%95",
-    "timestamp": "2026-11-26T06:53:11.964Z",
     "strategy": ".content-card__main"
   }
 ];
