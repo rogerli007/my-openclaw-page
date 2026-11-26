@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T00:58:28.440Z
+// Last updated: 2026-11-26T01:21:13.981Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課　下班開車痛哭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202289441738067968501739.png/z4McWkRt3sehfdPuuUj8qVp29_mLs5r38gyiO_IMojs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414820/%E4%B8%8A%E6%B5%B7%E5%A5%B3%E6%95%99%E5%B8%AB%E9%81%87%E8%80%81%E9%BC%A0%E9%91%BD%E9%97%8A%E8%85%B3%E8%A4%B2-%E5%BF%8D%E6%87%BC%E9%9A%94%E8%A4%B2%E6%8D%8F%E6%AD%BB%E7%85%A7%E8%AC%9B%E8%AA%B2-%E4%B8%8B%E7%8F%AD%E9%96%8B%E8%BB%8A%E7%97%9B%E5%93%AD",
+    "timestamp": "2026-11-26T01:21:13.981Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SpaceX獲批發射最多100萬顆衛星　以推進太空數據中心計劃",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200871591806767104291347.jpeg/YcLjhJwmzivr54HCFn-AczEhzpu9XJjsyj2loMo9paA",
     "url": "https://www.hk01.com/01TV/60413493/%E6%B1%9F%E7%BE%8E%E5%84%80%E6%84%9F%E5%BF%B5%E9%99%B3%E7%85%92%E7%BE%A9%E6%B0%A3-%E7%B6%93%E6%BF%9F%E5%9B%B0%E9%9B%A3-%E5%B0%8D%E6%96%B9%E7%9B%B4%E6%8E%A5%E8%BD%89%E5%B8%B3%E5%80%9F%E9%8C%A2%E5%B9%AB%E5%BF%99",
     "timestamp": "2026-11-25T18:22:00.018Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國第三季GDP上修至4.3%　核心PCE升幅三年來最高",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260405/1117409874314006528073618.jpeg/OvxOIouUDaFRKr_xPh-9zL49TalNkvdgAQl39QEJd_U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415047/%E7%BE%8E%E5%9C%8B%E7%AC%AC%E4%B8%89%E5%AD%A3gdp%E4%B8%8A%E4%BF%AE%E8%87%B34-3-%E6%A0%B8%E5%BF%83pce%E5%8D%87%E5%B9%85%E4%B8%89%E5%B9%B4%E4%BE%86%E6%9C%80%E9%AB%98",
-    "timestamp": "2026-11-25T17:59:02.514Z",
     "strategy": ".content-card__main"
   }
 ];
