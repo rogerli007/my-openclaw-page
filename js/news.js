@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T01:48:43.714Z
+// Last updated: 2026-11-26T02:24:09.523Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣29歲情侶露營帳篷內用瓦斯暖爐取暖　一氧化碳中毒雙亡",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202286601837744128450618.jpeg/YPNP8Vd6QtP2SCrYdoCLvTt8PMa55vNg-mtkBfprZAU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60414864/%E5%8F%B0%E7%81%A329%E6%AD%B2%E6%83%85%E4%BE%B6%E9%9C%B2%E7%87%9F%E5%B8%B3%E7%AF%B7%E5%85%A7%E7%94%A8%E7%93%A6%E6%96%AF%E6%9A%96%E7%88%90%E5%8F%96%E6%9A%96-%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E9%9B%99%E4%BA%A1",
+    "timestamp": "2026-11-26T02:24:09.523Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "車CAM直擊︱沙田路私家車失控撞水馬　水花四濺　熱心司機助救援",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202448298854584320608572.jpeg/IKJEMYNbdNusUL1jxLRV09cO2RHhYZhYJMmOACTJjgA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415055/%E8%B7%A8%E9%83%A8%E9%96%80%E5%A4%9A%E5%8D%80%E6%89%93%E6%93%8A%E9%9D%9E%E6%B3%95%E5%8B%9E%E5%B7%A5%E5%8F%8A%E6%8E%83%E9%BB%83-19%E7%94%B7%E5%A5%B3%E8%A2%AB%E6%8D%95",
     "timestamp": "2026-11-25T18:45:13.769Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "警旺角搗地下竹館　檢獲7張麻雀枱$2萬現金　23人被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202445348727951360362847.jpeg/KpqiQuH_wyqwOQbGXpBY961Hz8Px8GD6hCxE7IQsROw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415053/%E8%AD%A6%E6%97%BA%E8%A7%92%E6%90%97%E5%9C%B0%E4%B8%8B%E7%AB%B9%E9%A4%A8-%E6%AA%A2%E7%8D%B27%E5%BC%B5%E9%BA%BB%E9%9B%80%E6%9E%B1-2%E8%90%AC%E7%8F%BE%E9%87%91-23%E4%BA%BA%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-25T18:33:13.754Z",
     "strategy": ".content-card__main"
   }
 ];
