@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T09:33:38.784Z
+// Last updated: 2026-11-26T09:45:13.707Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珠海航展｜空軍派33型裝備參展　運-20B首展出　殲-35A升空表演",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202672394607529984027693.jpeg/XCUiuwpRq_ikykDeqKnCPBLfvZIq8lZ5Rjb9REY2_UQ",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60415327/%E7%8F%A0%E6%B5%B7%E8%88%AA%E5%B1%95-%E7%A9%BA%E8%BB%8D%E6%B4%BE33%E5%9E%8B%E8%A3%9D%E5%82%99%E5%8F%83%E5%B1%95-%E9%81%8B-20b%E9%A6%96%E5%B1%95%E5%87%BA-%E6%AE%B2-35a%E5%8D%87%E7%A9%BA%E8%A1%A8%E6%BC%94",
+    "timestamp": "2026-11-26T09:45:13.707Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "聯交所讉責中國恒大和恒大物業　兼許家印、夏海鈞在內7名董事",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202584249828380672381695.png/uu9E5EO8-vbgNW_FUoJnkA_FFQhHH7BMTLuwbEy7sGw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60415164/whatsapp%E8%B6%85%E5%AF%A6%E7%94%A8%E6%96%B0%E5%8A%9F%E8%83%BD-%E6%8E%92%E5%AE%9A%E6%99%82%E9%96%93%E7%99%BC%E9%80%81-%E5%8F%AF%E9%A0%90%E7%B4%84%E6%9C%80%E9%95%B714%E5%A4%A9%E5%BE%8C%E8%87%AA%E5%8B%95%E7%99%BC%E9%80%81",
     "timestamp": "2026-11-26T03:34:46.892Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "四川學生小息講四川話被當違紀　怒轟如犯天條　教育局責令廢止",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202581851428884480573068.jpeg/sUXWQ-5iM83Y8CiZ88mxLeVpvB7WgEDE3D-5Nbo_uTU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415123/%E5%9B%9B%E5%B7%9D%E5%AD%B8%E7%94%9F%E5%B0%8F%E6%81%AF%E8%AC%9B%E5%9B%9B%E5%B7%9D%E8%A9%B1%E8%A2%AB%E7%95%B6%E9%81%95%E7%B4%80-%E6%80%92%E8%BD%9F%E5%A6%82%E7%8A%AF%E5%A4%A9%E6%A2%9D-%E6%95%99%E8%82%B2%E5%B1%80%E8%B2%AC%E4%BB%A4%E5%BB%A2%E6%AD%A2",
-    "timestamp": "2026-11-26T03:22:23.717Z",
     "strategy": ".content-card__main"
   }
 ];
