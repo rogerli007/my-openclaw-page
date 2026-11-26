@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T15:58:57.396Z
+// Last updated: 2026-11-26T16:21:46.579Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "GTA 6主線爆機流程攻略｜全5大章節故事大綱及108個任務列表一覽",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202297016407822336197305.jpeg/3tYZ0Lt7vIgH9Qj4hbvyfQSWtcnWkGd0wMULqMDFC6g?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60414868/gta-6%E4%B8%BB%E7%B7%9A%E7%88%86%E6%A9%9F%E6%B5%81%E7%A8%8B%E6%94%BB%E7%95%A5-%E5%85%A85%E5%A4%A7%E7%AB%A0%E7%AF%80%E6%95%85%E4%BA%8B%E5%A4%A7%E7%B6%B1%E5%8F%8A108%E5%80%8B%E4%BB%BB%E5%8B%99%E5%88%97%E8%A1%A8%E4%B8%80%E8%A6%BD",
+    "timestamp": "2026-11-26T16:21:46.579Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "東張西望｜貓咪切錯膀胱慘死　金主變水魚收律師信：明顯想我收聲",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202680430365511680276904.jpeg/84X1qfHVvPi0TUpk7Wff0QIQXYDcW695TKeNc0ynjXM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415354/%E6%9C%89%E7%89%87-%E5%BE%B7%E5%9C%8B%E9%81%8A%E5%AE%A2%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A-%E8%A2%AB%E5%9B%B0%E6%99%BA%E5%88%A9%E7%8C%9B%E7%83%88%E6%90%96%E6%99%83%E5%90%8A%E6%A9%8B%E6%8F%B8%E5%AF%A6%E5%9C%8D%E6%AC%84%E4%BF%9D%E5%91%BD",
     "timestamp": "2026-11-26T09:59:18.421Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珠海航展｜空軍派33型裝備參展　運-20B首展出　殲-35A升空表演",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202672394607529984027693.jpeg/XCUiuwpRq_ikykDeqKnCPBLfvZIq8lZ5Rjb9REY2_UQ",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60415327/%E7%8F%A0%E6%B5%B7%E8%88%AA%E5%B1%95-%E7%A9%BA%E8%BB%8D%E6%B4%BE33%E5%9E%8B%E8%A3%9D%E5%82%99%E5%8F%83%E5%B1%95-%E9%81%8B-20b%E9%A6%96%E5%B1%95%E5%87%BA-%E6%AE%B2-35a%E5%8D%87%E7%A9%BA%E8%A1%A8%E6%BC%94",
-    "timestamp": "2026-11-26T09:45:13.707Z",
     "strategy": ".content-card__main"
   }
 ];
