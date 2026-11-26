@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T17:19:05.804Z
+// Last updated: 2026-11-26T17:29:47.334Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英格蘭一代翼鋒史達寧毒駕罪成　曾風光無限　離開曼城斷崖式滑落",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202717829258809344460387.jpeg/KkHIfsUK8LJDjKsHkepvHZPGxg3ch-v0CobCwgqGwsI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415426/%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B8%80%E4%BB%A3%E7%BF%BC%E9%8B%92%E5%8F%B2%E9%81%94%E5%AF%A7%E6%AF%92%E9%A7%95%E7%BD%AA%E6%88%90-%E6%9B%BE%E9%A2%A8%E5%85%89%E7%84%A1%E9%99%90-%E9%9B%A2%E9%96%8B%E6%9B%BC%E5%9F%8E%E6%96%B7%E5%B4%96%E5%BC%8F%E6%BB%91%E8%90%BD",
+    "timestamp": "2026-11-26T17:29:47.334Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "英格蘭一代翼鋒史達寧毒駕罪成　曾風光無限　離開曼城斷崖式滑落",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202622031703576576306917.jpeg/mnwoGQgKj3kXoJyiXcO2JM61-6QuaoiCmhQGl5oUBpc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60415171/%E6%9D%8E%E8%8A%B7%E6%99%B4%E9%96%83%E7%9F%B3%E4%BD%8E%E8%83%B8%E6%99%9A%E8%A3%9D-%E8%87%AA%E5%A4%BE-%E6%BE%8E%E6%B9%83%E4%B8%8A%E5%9C%8D-%E7%95%AB%E9%9D%A2%E9%9C%87%E6%92%BC%E4%B8%8D%E8%BC%B8%E8%88%87%E9%BA%A5%E7%BE%8E%E6%81%A9%E6%8A%B1%E6%8A%B1",
     "timestamp": "2026-11-26T11:45:39.375Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "甘比扮靚秘笈｜日瞓2小時都靚　唔識化妝索性唔化：敷水分面膜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200115109410639872542719.jpeg/hQqASGGAvvEpVB_SuzQSA5hslhAXUldoWJQvj1iUL48?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/60412717/%E7%94%98%E6%AF%94%E6%89%AE%E9%9D%9A%E7%A7%98%E7%AC%88-%E6%97%A5%E7%9E%932%E5%B0%8F%E6%99%82%E9%83%BD%E9%9D%9A-%E5%94%94%E8%AD%98%E5%8C%96%E5%A6%9D%E7%B4%A2%E6%80%A7%E5%94%94%E5%8C%96-%E6%95%B7%E6%B0%B4%E5%88%86%E9%9D%A2%E8%86%9C",
-    "timestamp": "2026-11-26T11:19:36.180Z",
     "strategy": ".content-card__main"
   }
 ];
