@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T16:59:10.722Z
+// Last updated: 2026-11-26T17:19:05.804Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "英格蘭一代翼鋒史達寧毒駕罪成　曾風光無限　離開曼城斷崖式滑落",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202717829258809344460387.jpeg/KkHIfsUK8LJDjKsHkepvHZPGxg3ch-v0CobCwgqGwsI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415426/%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B8%80%E4%BB%A3%E7%BF%BC%E9%8B%92%E5%8F%B2%E9%81%94%E5%AF%A7%E6%AF%92%E9%A7%95%E7%BD%AA%E6%88%90-%E6%9B%BE%E9%A2%A8%E5%85%89%E7%84%A1%E9%99%90-%E9%9B%A2%E9%96%8B%E6%9B%BC%E5%9F%8E%E6%96%B7%E5%B4%96%E5%BC%8F%E6%BB%91%E8%90%BD",
+    "timestamp": "2026-11-26T17:19:05.804Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬貫東被揭母親與李家鼎曾是情侶後首度同場　透露台下非零互動",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261119/1200115109410639872542719.jpeg/hQqASGGAvvEpVB_SuzQSA5hslhAXUldoWJQvj1iUL48?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%B0%88%E9%A1%8C%E4%BA%BA%E8%A8%AA/60412717/%E7%94%98%E6%AF%94%E6%89%AE%E9%9D%9A%E7%A7%98%E7%AC%88-%E6%97%A5%E7%9E%932%E5%B0%8F%E6%99%82%E9%83%BD%E9%9D%9A-%E5%94%94%E8%AD%98%E5%8C%96%E5%A6%9D%E7%B4%A2%E6%80%A7%E5%94%94%E5%8C%96-%E6%95%B7%E6%B0%B4%E5%88%86%E9%9D%A2%E8%86%9C",
     "timestamp": "2026-11-26T11:19:36.180Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "網約車｜保聯料附加三保保費可低至1至1.3萬元　視司機年齡等而定",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/345145/org/12fb50585daed14b998b6639b3a3ce3f.jpg/9azdw67lfh3nYkyYcIxFirrMKWBuTgyE5WVPLOVlTyw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415386/%E7%B6%B2%E7%B4%84%E8%BB%8A-%E4%BF%9D%E8%81%AF%E6%96%99%E9%99%84%E5%8A%A0%E4%B8%89%E4%BF%9D%E4%BF%9D%E8%B2%BB%E5%8F%AF%E4%BD%8E%E8%87%B31%E8%87%B31-3%E8%90%AC%E5%85%83-%E8%A6%96%E5%8F%B8%E6%A9%9F%E5%B9%B4%E9%BD%A1%E7%AD%89%E8%80%8C%E5%AE%9A",
-    "timestamp": "2026-11-26T10:59:12.208Z",
     "strategy": ".content-card__main"
   }
 ];
