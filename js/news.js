@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T21:45:27.980Z
+// Last updated: 2026-11-26T22:19:52.238Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "仲點論政｜世界灣區聯盟　香港獲益無窮",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202677955734540288370142.jpeg/duMk58dFy7EKuIBGogjkXLGH-Tqc1m7G9rYipPa2IqQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60415369/%E4%BB%B2%E9%BB%9E%E8%AB%96%E6%94%BF-%E4%B8%96%E7%95%8C%E7%81%A3%E5%8D%80%E8%81%AF%E7%9B%9F-%E9%A6%99%E6%B8%AF%E7%8D%B2%E7%9B%8A%E7%84%A1%E7%AA%AE",
+    "timestamp": "2026-11-26T22:19:52.238Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門帝灣居單位遭爆竊　賊人撬窗掠走$74萬財物　包括勞力士名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202728175000358912490725.jpeg/UJ-fPp-8WLGrln8e0XeyzaPDpChmQPfrUaGIc1GhiHM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415430/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E8%B2%93%E5%92%AA%E5%88%87%E9%8C%AF%E8%86%80%E8%83%B1%E6%85%98%E6%AD%BB-%E9%87%91%E4%B8%BB%E8%AE%8A%E6%B0%B4%E9%AD%9A%E6%94%B6%E5%BE%8B%E5%B8%AB%E4%BF%A1-%E6%98%8E%E9%A1%AF%E6%83%B3%E6%88%91%E6%94%B6%E8%81%B2",
     "timestamp": "2026-11-26T15:58:57.396Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SmarTone數碼通死機｜官方指服務全面恢復正常　不涉網絡保安事故",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/349836/org/4a91fccf085f4bd2fef1b9baa902b742.jpg/qbditz0CDw8BSplPYHrTdJvKN4-TrevfkHcXepB3F3o?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415449/smartone%E6%95%B8%E7%A2%BC%E9%80%9A%E6%AD%BB%E6%A9%9F-%E5%AE%98%E6%96%B9%E6%8C%87%E6%9C%8D%E5%8B%99%E5%85%A8%E9%9D%A2%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8-%E4%B8%8D%E6%B6%89%E7%B6%B2%E7%B5%A1%E4%BF%9D%E5%AE%89%E4%BA%8B%E6%95%85",
-    "timestamp": "2026-11-26T15:45:31.784Z",
     "strategy": ".content-card__main"
   }
 ];
