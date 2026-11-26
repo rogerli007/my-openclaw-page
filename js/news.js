@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T08:47:28.808Z
+// Last updated: 2026-11-26T08:59:03.671Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "黃仁勳復職｜傳英偉達急停東南亞四國供貨　因美限晶片輸華",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201135270192222208106843.jpeg/wg2zvSISJvoFB0FlIzvfdogxEu9mekS3t_BajrfwWo4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415335/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E5%82%B3%E8%8B%B1%E5%81%89%E9%81%94%E6%80%A5%E5%81%9C%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%9B%9B%E5%9C%8B%E4%BE%9B%E8%B2%A8-%E5%9B%A0%E7%BE%8E%E9%99%90%E6%99%B6%E7%89%87%E8%BC%B8%E8%8F%AF",
+    "timestamp": "2026-11-26T08:59:03.671Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "刑事案受害人疑遭滋擾　警拘40歲男涉妨礙司法公正　據悉為大律師",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202286601837744128450618.jpeg/YPNP8Vd6QtP2SCrYdoCLvTt8PMa55vNg-mtkBfprZAU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60414864/%E5%8F%B0%E7%81%A329%E6%AD%B2%E6%83%85%E4%BE%B6%E9%9C%B2%E7%87%9F%E5%B8%B3%E7%AF%B7%E5%85%A7%E7%94%A8%E7%93%A6%E6%96%AF%E6%9A%96%E7%88%90%E5%8F%96%E6%9A%96-%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E9%9B%99%E4%BA%A1",
     "timestamp": "2026-11-26T02:24:09.523Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "車CAM直擊︱沙田路私家車失控撞水馬　水花四濺　熱心司機助救援",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202553960083230720824653.jpeg/q1YesqD9gOd705f5RVoS1SWuQeCNVw2HTZU0i02VNIs",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415075/%E8%BB%8Acam%E7%9B%B4%E6%93%8A-%E6%B2%99%E7%94%B0%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7%E6%92%9E%E6%B0%B4%E9%A6%AC-%E6%B0%B4%E8%8A%B1%E5%9B%9B%E6%BF%BA-%E7%86%B1%E5%BF%83%E5%8F%B8%E6%A9%9F%E5%8A%A9%E6%95%91%E6%8F%B4",
-    "timestamp": "2026-11-26T01:48:43.714Z",
     "strategy": ".content-card__main"
   }
 ];
