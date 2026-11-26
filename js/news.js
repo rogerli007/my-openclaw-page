@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T07:21:44.613Z
+// Last updated: 2026-11-26T07:33:33.009Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "特朗普離華不足一周　美擬對華加徵20%關稅　商務部斥破壞秩序",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202622335807393792256109.jpeg/rS2xgGbTC242Ys-OC5-MAwV_QcZPLw6Y5wSXZ-cEl2c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60415279/%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%A2%E8%8F%AF%E4%B8%8D%E8%B6%B3%E4%B8%80%E5%91%A8-%E7%BE%8E%E6%93%AC%E5%B0%8D%E8%8F%AF%E5%8A%A0%E5%BE%B520-%E9%97%9C%E7%A8%85-%E5%95%86%E5%8B%99%E9%83%A8%E6%96%A5%E7%A0%B4%E5%A3%9E%E7%A7%A9%E5%BA%8F",
+    "timestamp": "2026-11-26T07:33:33.009Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "電訊商SmarTone訊號突中斷　手機顯示「沒有服務」　無法上網通話",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202389712451407872960312.jpeg/krV_f9EPVR0XJh0H3PTKgGSLPTgZ3NBYo5_w5qOf8OY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60414971/%E8%98%87%E6%B0%91%E5%B3%B0%E6%9B%9D%E6%B8%AF%E8%82%A1%E6%8C%81%E5%80%89-%E8%8E%8E%E8%8E%8E%E7%BF%BB%E5%80%8D-%E9%98%BF%E9%87%8C%E6%84%88%E8%B7%8C%E6%84%88%E8%B2%B7-%E7%BE%8A%E5%B9%B4%E7%B6%93%E6%BF%9F%E6%81%90-%E4%BC%8F%E5%90%9F",
     "timestamp": "2026-11-25T23:58:59.491Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "流清鼻水六年誤當鼻敏感　38歲女揭腦脊液鼻漏　4招辨腦脊液鼻漏",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201924665501552640265071.jpeg/PM3GXvwEPKEphnu7mUEovcNOru7ToA7-kN77TJDe-0w?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413973/%E6%B5%81%E6%B8%85%E9%BC%BB%E6%B0%B4%E5%85%AD%E5%B9%B4%E8%AA%A4%E7%95%B6%E9%BC%BB%E6%95%8F%E6%84%9F-38%E6%AD%B2%E5%A5%B3%E6%8F%AD%E8%85%A6%E8%84%8A%E6%B6%B2%E9%BC%BB%E6%BC%8F-4%E6%8B%9B%E8%BE%A8%E8%85%A6%E8%84%8A%E6%B6%B2%E9%BC%BB%E6%BC%8F",
-    "timestamp": "2026-11-25T23:45:14.154Z",
     "strategy": ".content-card__main"
   }
 ];
