@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T14:45:38.662Z
+// Last updated: 2026-11-26T14:59:11.110Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "直播.特區護照漏頁風波｜入境處拘捕兩人　涉非法改動護照",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202757352894238720496318.jpeg/OA91v4CKiDvkHnwCCvTd_UhwMYulr58lJ8rWMCfK1jA",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415444/%E7%9B%B4%E6%92%AD-%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E6%BC%8F%E9%A0%81%E9%A2%A8%E6%B3%A2-%E5%85%A5%E5%A2%83%E8%99%95%E6%8B%98%E6%8D%95%E5%85%A9%E4%BA%BA-%E6%B6%89%E9%9D%9E%E6%B3%95%E6%94%B9%E5%8B%95%E8%AD%B7%E7%85%A7",
+    "timestamp": "2026-11-26T14:59:11.110Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑一周年・圖輯｜入夜後獻花人潮不絕　廣福公園成一片花海",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261122/1201135270192222208106843.jpeg/wg2zvSISJvoFB0FlIzvfdogxEu9mekS3t_BajrfwWo4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415335/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E5%82%B3%E8%8B%B1%E5%81%89%E9%81%94%E6%80%A5%E5%81%9C%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%9B%9B%E5%9C%8B%E4%BE%9B%E8%B2%A8-%E5%9B%A0%E7%BE%8E%E9%99%90%E6%99%B6%E7%89%87%E8%BC%B8%E8%8F%AF",
     "timestamp": "2026-11-26T08:59:03.671Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "刑事案受害人疑遭滋擾　警拘40歲男涉妨礙司法公正　據悉為大律師",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20251106/1062923665085042688423589.jpeg/lrXJ2pX7-9MLbTSw7zvQxL0rf0c0ZgZjoTbsQJs27EA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415314/%E5%88%91%E4%BA%8B%E6%A1%88%E5%8F%97%E5%AE%B3%E4%BA%BA%E7%96%91%E9%81%AD%E6%BB%8B%E6%93%BE-%E8%AD%A6%E6%8B%9840%E6%AD%B2%E7%94%B7%E6%B6%89%E5%A6%A8%E7%A4%99%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3-%E6%93%9A%E6%82%89%E7%82%BA%E5%A4%A7%E5%BE%8B%E5%B8%AB",
-    "timestamp": "2026-11-26T08:47:28.808Z",
     "strategy": ".content-card__main"
   }
 ];
