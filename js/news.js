@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T14:21:17.186Z
+// Last updated: 2026-11-26T14:31:55.882Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "車cam｜屯門良景輕鐵站私家車失控墮草叢　片主：嚇到個心離一離",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202741581736579072560943.png/gQJpNE-3qomxYKxyIIJjNc6k4P0ovu7g1UiBh9VIgYc?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415439/%E8%BB%8Acam-%E5%B1%AF%E9%96%80%E8%89%AF%E6%99%AF%E8%BC%95%E9%90%B5%E7%AB%99%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E6%8E%A7%E5%A2%AE%E8%8D%89%E5%8F%A2-%E7%89%87%E4%B8%BB-%E5%9A%87%E5%88%B0%E5%80%8B%E5%BF%83%E9%9B%A2%E4%B8%80%E9%9B%A2",
+    "timestamp": "2026-11-26T14:31:55.882Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "海關機場破販毒案起$160萬大麻花　拘控23歲抵港內地男　周五提堂",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202642406080516096679245.jpeg/WZflw0loHPjj9tiFleAke2CILUvmO37XWOM8qljjPKo?v=w1920r16_9",
     "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60415188/%E9%83%AD%E5%8F%AF%E7%9B%88%E9%A0%90%E7%A5%9D57%E6%AD%B2%E7%94%9F%E6%97%A5%E7%8B%80%E6%85%8B%E4%BD%B3-%E5%87%8D%E9%BD%A15%E7%A7%98%E8%A8%A3%E6%84%9B%E5%90%83%E7%87%95%E7%AA%A9%E7%95%AA%E8%8C%84%E6%97%A9%E5%8D%88%E6%99%9A%E5%BF%85%E5%90%831%E7%89%A9",
     "timestamp": "2026-11-26T08:36:51.267Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SmarTone數碼通死機｜陸續恢復正常　網民呻：畀錢就係買你穩定性",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202657669517676544780954.jpeg/8gtV2GXN6uNcSQECkWjXtwWbR08YfVH23AAEA9wABAM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415289/smartone%E6%95%B8%E7%A2%BC%E9%80%9A%E6%AD%BB%E6%A9%9F-%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8-%E7%B6%B2%E6%B0%91%E5%91%BB-%E7%95%80%E9%8C%A2%E5%B0%B1%E4%BF%82%E8%B2%B7%E4%BD%A0%E7%A9%A9%E5%AE%9A%E6%80%A7",
-    "timestamp": "2026-11-26T08:24:00.232Z",
     "strategy": ".content-card__main"
   }
 ];
