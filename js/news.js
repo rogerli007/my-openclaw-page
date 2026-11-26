@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T03:45:50.400Z
+// Last updated: 2026-11-26T03:59:03.544Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "1Password也中招　密碼管理程式黑客入侵　稱密碼庫內容未被取用",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202586286255247360563071.png/ZWGG-ELF3GWYKegMD3w0bC3Lms70rByuneU0cJ3lNHA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415174/1password%E4%B9%9F%E4%B8%AD%E6%8B%9B-%E5%AF%86%E7%A2%BC%E7%AE%A1%E7%90%86%E7%A8%8B%E5%BC%8F%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E7%A8%B1%E5%AF%86%E7%A2%BC%E5%BA%AB%E5%85%A7%E5%AE%B9%E6%9C%AA%E8%A2%AB%E5%8F%96%E7%94%A8",
+    "timestamp": "2026-11-26T03:59:03.544Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃仁勳風波｜英偉達遭標普列負面觀察！　90日內恐被削級",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202477751664119808897356.jpeg/ixlLvBE4IAdVvtowKI6A18hYj75CZbI7S9QaP0vUGj8",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415062/%E5%B1%AF%E9%96%80%E9%80%A3%E9%8E%96%E5%BF%AB%E9%A4%90%E5%BA%97%E5%B7%A8%E9%BC%A0%E7%88%AC%E5%A4%A9%E8%8A%B1-%E5%A5%B3%E8%81%B2%E9%A9%9A%E5%91%BC-%E6%AD%BB%E5%95%A6-%E7%88%AC%E5%88%B0%E9%81%8E%E5%9A%9F-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-25T20:40:05.853Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀前往泰國拍劇：目睹寇納海嘯後的慘狀",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200872936471269376082159.jpeg/glcyj45_hQnvQzCP5Mfhzlu55NgO1ycH7te8-u7XvPo",
-    "url": "https://www.hk01.com/01TV/60413498/%E6%B1%9F%E7%BE%8E%E5%84%80%E5%89%8D%E5%BE%80%E6%B3%B0%E5%9C%8B%E6%8B%8D%E5%8A%87-%E7%9B%AE%E7%9D%B9%E5%AF%87%E7%B4%8D%E6%B5%B7%E5%98%AF%E5%BE%8C%E7%9A%84%E6%85%98%E7%8B%80",
-    "timestamp": "2026-11-25T20:19:36.643Z",
     "strategy": ".content-card__main"
   }
 ];
