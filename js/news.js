@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T05:59:24.735Z
+// Last updated: 2026-11-26T06:53:11.964Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "項明生呻Cut寬頻慘過離婚！盤點八大電訊商終止服務條款+記者點評",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202634498143948800598124.jpeg/TQkYiKzg1dAoUoBWfWe8P7t3qjNBxF7HbHUEpGx1BKQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415154/%E9%A0%85%E6%98%8E%E7%94%9F%E5%91%BBcut%E5%AF%AC%E9%A0%BB%E6%85%98%E9%81%8E%E9%9B%A2%E5%A9%9A-%E7%9B%A4%E9%BB%9E%E5%85%AB%E5%A4%A7%E9%9B%BB%E8%A8%8A%E5%95%86%E7%B5%82%E6%AD%A2%E6%9C%8D%E5%8B%99%E6%A2%9D%E6%AC%BE-%E8%A8%98%E8%80%85%E9%BB%9E%E8%A9%95",
+    "timestamp": "2026-11-26T06:53:11.964Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "24/7 FITNESS系統遭未經授權存取　涉及部份現有及前會員個人資料",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202238965713735680634571.png/rBvoJnu7KxeQX8miN4-ZD9wg_62AXG2qHEJp_xxCaf8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414735/%E5%8D%B0%E5%BA%A6%E7%94%B7%E6%A3%84%E5%90%8D%E8%BB%8A%E7%99%BD%E9%A6%AC%E5%9D%90%E6%8E%A8%E5%9C%9F%E6%A9%9F%E8%BF%8E%E8%A6%AA-%E5%BC%95%E5%A4%9A%E4%BA%BA%E5%9C%8D%E8%A7%80%E6%8B%8D%E7%89%87-%E6%8F%AD%E7%95%B6%E5%9C%B0%E7%89%B9%E6%AE%8A%E8%B1%A1%E5%BE%B5",
     "timestamp": "2026-11-25T23:19:21.725Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐聯｜曼聯作客遭士砵亭逼和2：2　利物浦作客3：0勝布魯日",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202504903646253056187234.jpeg/xVGaadTnTVdIup6ywIaohc2Yu5lrmsyI6G-Zquhvmao?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415065/%E6%AD%90%E8%81%AF-%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%E9%81%AD%E5%A3%AB%E7%A0%B5%E4%BA%AD%E9%80%BC%E5%92%8C2-2-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%BD%9C%E5%AE%A23-0%E5%8B%9D%E5%B8%83%E9%AD%AF%E6%97%A5",
-    "timestamp": "2026-11-25T22:59:10.553Z",
     "strategy": ".content-card__main"
   }
 ];
