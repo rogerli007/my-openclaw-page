@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T11:19:36.180Z
+// Last updated: 2026-11-26T11:45:39.375Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "李芷晴閃石低胸晚裝「自夾」澎湃上圍　畫面震撼不輸與麥美恩抱抱",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202622031703576576306917.jpeg/mnwoGQgKj3kXoJyiXcO2JM61-6QuaoiCmhQGl5oUBpc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60415171/%E6%9D%8E%E8%8A%B7%E6%99%B4%E9%96%83%E7%9F%B3%E4%BD%8E%E8%83%B8%E6%99%9A%E8%A3%9D-%E8%87%AA%E5%A4%BE-%E6%BE%8E%E6%B9%83%E4%B8%8A%E5%9C%8D-%E7%95%AB%E9%9D%A2%E9%9C%87%E6%92%BC%E4%B8%8D%E8%BC%B8%E8%88%87%E9%BA%A5%E7%BE%8E%E6%81%A9%E6%8A%B1%E6%8A%B1",
+    "timestamp": "2026-11-26T11:45:39.375Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "甘比扮靚秘笈｜日瞓2小時都靚　唔識化妝索性唔化：敷水分面膜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202604332546002944826147.jpeg/9cXkFemvMyVQTTt4uDjohJ20sA83sP5yWqNe4lqjXuI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60415204/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89-%E6%B2%88%E4%BC%AF%E6%B4%8B%E5%B0%81%E8%B7%AF%E8%BE%A6%E9%81%B8%E5%89%8D%E4%B9%8B%E5%A4%9C%E6%8D%B1%E8%BD%9F%E6%80%A5%E7%85%9E%E5%81%9C-%E8%94%A3%E8%90%AC%E5%AE%89%E8%AE%93%E8%B7%AF%E6%AC%8A%E4%BE%9B%E4%BD%BF%E7%94%A8",
     "timestamp": "2026-11-26T04:59:10.739Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "私隱署：黑客AI攻擊入侵　星日韓同遭殃　籲機構外聘專才檢視系統",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250331/983363219660214272023596.jpeg/iJRUFKb6OcT6z9_pNuzRQltBKYWOvKLYRiGZVmMhmVY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415183/%E7%A7%81%E9%9A%B1%E7%BD%B2-%E9%BB%91%E5%AE%A2ai%E6%94%BB%E6%93%8A%E5%85%A5%E4%BE%B5-%E6%98%9F%E6%97%A5%E9%9F%93%E5%90%8C%E9%81%AD%E6%AE%83-%E7%B1%B2%E6%A9%9F%E6%A7%8B%E5%A4%96%E8%81%98%E5%B0%88%E6%89%8D%E6%AA%A2%E8%A6%96%E7%B3%BB%E7%B5%B1",
-    "timestamp": "2026-11-26T04:45:22.795Z",
     "strategy": ".content-card__main"
   }
 ];
