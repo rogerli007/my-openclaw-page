@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T11:45:39.375Z
+// Last updated: 2026-11-26T11:59:12.515Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港台《非凡人物》｜從攀石王到輪椅攀登者 黎志偉再創攀峰傳奇",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202712585481228288354792.jpeg/kGyfk4hyPmbJcWO7wxOHWvOj0CjtNzxqSXMj6klzI-o?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%97%9D%E6%96%87/60415422/%E6%B8%AF%E5%8F%B0-%E9%9D%9E%E5%87%A1%E4%BA%BA%E7%89%A9-%E5%BE%9E%E6%94%80%E7%9F%B3%E7%8E%8B%E5%88%B0%E8%BC%AA%E6%A4%85%E6%94%80%E7%99%BB%E8%80%85-%E9%BB%8E%E5%BF%97%E5%81%89%E5%86%8D%E5%89%B5%E6%94%80%E5%B3%B0%E5%82%B3%E5%A5%87",
+    "timestamp": "2026-11-26T11:59:12.515Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "李芷晴閃石低胸晚裝「自夾」澎湃上圍　畫面震撼不輸與麥美恩抱抱",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260822/1167853048421158912926487.jpeg/ZUHjd6wfCK2btYDN-pooRzFAC50ty175jfmDV435g1c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60415170/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E6%9B%B8%E8%A8%98%E9%99%B3%E5%90%89%E5%AF%A7%E8%A2%AB%E6%9F%A5%E8%AA%B0%E6%8E%A5%E4%B8%80%E6%8A%8A%E6%89%8B-%E6%AD%B7%E5%8F%B2%E6%85%A3%E4%BE%8B%E9%80%8F%E8%A6%96%E4%B8%89%E7%A8%AE%E5%8F%AF%E8%83%BD%E6%80%A7",
     "timestamp": "2026-11-26T05:21:16.129Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "台灣選舉｜沈伯洋封路辦選前之夜捱轟急煞停　蔣萬安讓路權供使用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202604332546002944826147.jpeg/9cXkFemvMyVQTTt4uDjohJ20sA83sP5yWqNe4lqjXuI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60415204/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89-%E6%B2%88%E4%BC%AF%E6%B4%8B%E5%B0%81%E8%B7%AF%E8%BE%A6%E9%81%B8%E5%89%8D%E4%B9%8B%E5%A4%9C%E6%8D%B1%E8%BD%9F%E6%80%A5%E7%85%9E%E5%81%9C-%E8%94%A3%E8%90%AC%E5%AE%89%E8%AE%93%E8%B7%AF%E6%AC%8A%E4%BE%9B%E4%BD%BF%E7%94%A8",
-    "timestamp": "2026-11-26T04:59:10.739Z",
     "strategy": ".content-card__main"
   }
 ];
