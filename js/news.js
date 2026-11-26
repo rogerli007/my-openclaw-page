@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T13:45:35.865Z
+// Last updated: 2026-11-26T14:21:17.186Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "海關機場破販毒案起$160萬大麻花　拘控23歲抵港內地男　周五提堂",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202740252226097152802614.jpeg/SMJz2WSk4PYF3SUsIopCl0SKrgFUvvfd1mgmEdZoJhE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415441/%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E7%A0%B4%E8%B2%A9%E6%AF%92%E6%A1%88%E8%B5%B7-160%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E6%8B%98%E6%8E%A723%E6%AD%B2%E6%8A%B5%E6%B8%AF%E5%85%A7%E5%9C%B0%E7%94%B7-%E5%91%A8%E4%BA%94%E6%8F%90%E5%A0%82",
+    "timestamp": "2026-11-26T14:21:17.186Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "立陶宛新總理下通牒：台灣代表處若拒改名　政府保留撤銷關閉權",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202657669517676544780954.jpeg/8gtV2GXN6uNcSQECkWjXtwWbR08YfVH23AAEA9wABAM?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415289/smartone%E6%95%B8%E7%A2%BC%E9%80%9A%E6%AD%BB%E6%A9%9F-%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8-%E7%B6%B2%E6%B0%91%E5%91%BB-%E7%95%80%E9%8C%A2%E5%B0%B1%E4%BF%82%E8%B2%B7%E4%BD%A0%E7%A9%A9%E5%AE%9A%E6%80%A7",
     "timestamp": "2026-11-26T08:24:00.232Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "44歲中國女大阪經營卡拉OK無牌提供陪酒服務　屢勸不改終被捕",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202645937231499264709485.png/zY0aVhxHUR_tja4F8WT1PlELzg6KxylCR07Gj0dOxo8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415266/44%E6%AD%B2%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%A4%A7%E9%98%AA%E7%B6%93%E7%87%9F%E5%8D%A1%E6%8B%89ok%E7%84%A1%E7%89%8C%E6%8F%90%E4%BE%9B%E9%99%AA%E9%85%92%E6%9C%8D%E5%8B%99-%E5%B1%A2%E5%8B%B8%E4%B8%8D%E6%94%B9%E7%B5%82%E8%A2%AB%E6%8D%95",
-    "timestamp": "2026-11-26T07:59:21.135Z",
     "strategy": ".content-card__main"
   }
 ];
