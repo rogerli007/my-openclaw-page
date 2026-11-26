@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T08:24:00.232Z
+// Last updated: 2026-11-26T08:36:51.267Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "郭可盈預祝57歲生日狀態佳！凍齡5秘訣愛吃燕窩番茄早午晚必吃1物",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202642406080516096679245.jpeg/WZflw0loHPjj9tiFleAke2CILUvmO37XWOM8qljjPKo?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E6%95%99%E7%85%AE/60415188/%E9%83%AD%E5%8F%AF%E7%9B%88%E9%A0%90%E7%A5%9D57%E6%AD%B2%E7%94%9F%E6%97%A5%E7%8B%80%E6%85%8B%E4%BD%B3-%E5%87%8D%E9%BD%A15%E7%A7%98%E8%A8%A3%E6%84%9B%E5%90%83%E7%87%95%E7%AA%A9%E7%95%AA%E8%8C%84%E6%97%A9%E5%8D%88%E6%99%9A%E5%BF%85%E5%90%831%E7%89%A9",
+    "timestamp": "2026-11-26T08:36:51.267Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "SmarTone數碼通死機｜陸續恢復正常　網民呻：畀錢就係買你穩定性",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202289441738067968501739.png/z4McWkRt3sehfdPuuUj8qVp29_mLs5r38gyiO_IMojs?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414820/%E4%B8%8A%E6%B5%B7%E5%A5%B3%E6%95%99%E5%B8%AB%E9%81%87%E8%80%81%E9%BC%A0%E9%91%BD%E9%97%8A%E8%85%B3%E8%A4%B2-%E5%BF%8D%E6%87%BC%E9%9A%94%E8%A4%B2%E6%8D%8F%E6%AD%BB%E7%85%A7%E8%AC%9B%E8%AA%B2-%E4%B8%8B%E7%8F%AD%E9%96%8B%E8%BB%8A%E7%97%9B%E5%93%AD",
     "timestamp": "2026-11-26T01:21:13.981Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "SpaceX獲批發射最多100萬顆衛星　以推進太空數據中心計劃",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20260516/1132342327717662720031746.jpeg/9kIneYxH138g6BKsTEDAC5rU6QrTKSQsRRZskUUWbJE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415073/spacex%E7%8D%B2%E6%89%B9%E7%99%BC%E5%B0%84%E6%9C%80%E5%A4%9A100%E8%90%AC%E9%A1%86%E8%A1%9B%E6%98%9F-%E4%BB%A5%E6%8E%A8%E9%80%B2%E5%A4%AA%E7%A9%BA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E8%A8%88%E5%8A%83",
-    "timestamp": "2026-11-26T00:58:28.440Z",
     "strategy": ".content-card__main"
   }
 ];
