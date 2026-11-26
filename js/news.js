@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T06:53:11.964Z
+// Last updated: 2026-11-26T07:21:44.613Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "電訊商SmarTone訊號突中斷　手機顯示「沒有服務」　無法上網通話",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/4191407/org/d3dfc78a8a2b0c0e137c970bb8c511bb.jpg/LvC_kYS9gn5V5pW7O_G2y51CaibWtBuZ53CKEedwihE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415271/%E9%9B%BB%E8%A8%8A%E5%95%86smartone%E8%A8%8A%E8%99%9F%E7%AA%81%E4%B8%AD%E6%96%B7-%E6%89%8B%E6%A9%9F%E9%A1%AF%E7%A4%BA-%E6%B2%92%E6%9C%89%E6%9C%8D%E5%8B%99-%E7%84%A1%E6%B3%95%E4%B8%8A%E7%B6%B2%E9%80%9A%E8%A9%B1",
+    "timestamp": "2026-11-26T07:21:44.613Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "項明生呻Cut寬頻慘過離婚！盤點八大電訊商終止服務條款+記者點評",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261124/1201924665501552640265071.jpeg/PM3GXvwEPKEphnu7mUEovcNOru7ToA7-kN77TJDe-0w?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60413973/%E6%B5%81%E6%B8%85%E9%BC%BB%E6%B0%B4%E5%85%AD%E5%B9%B4%E8%AA%A4%E7%95%B6%E9%BC%BB%E6%95%8F%E6%84%9F-38%E6%AD%B2%E5%A5%B3%E6%8F%AD%E8%85%A6%E8%84%8A%E6%B6%B2%E9%BC%BB%E6%BC%8F-4%E6%8B%9B%E8%BE%A8%E8%85%A6%E8%84%8A%E6%B6%B2%E9%BC%BB%E6%BC%8F",
     "timestamp": "2026-11-25T23:45:14.154Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度男棄名車白馬坐推土機迎親　引多人圍觀拍片　揭當地特殊象徵",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202238965713735680634571.png/rBvoJnu7KxeQX8miN4-ZD9wg_62AXG2qHEJp_xxCaf8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414735/%E5%8D%B0%E5%BA%A6%E7%94%B7%E6%A3%84%E5%90%8D%E8%BB%8A%E7%99%BD%E9%A6%AC%E5%9D%90%E6%8E%A8%E5%9C%9F%E6%A9%9F%E8%BF%8E%E8%A6%AA-%E5%BC%95%E5%A4%9A%E4%BA%BA%E5%9C%8D%E8%A7%80%E6%8B%8D%E7%89%87-%E6%8F%AD%E7%95%B6%E5%9C%B0%E7%89%B9%E6%AE%8A%E8%B1%A1%E5%BE%B5",
-    "timestamp": "2026-11-25T23:19:21.725Z",
     "strategy": ".content-card__main"
   }
 ];
