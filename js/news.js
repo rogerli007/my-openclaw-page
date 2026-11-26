@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-25T23:58:59.491Z
+// Last updated: 2026-11-26T00:36:42.911Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "小鵬IRON機械人登台演講自嘲不會臉紅　1.7米高配仿生肌肉有體溫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202379905489178624267913.jpeg/exKZ1UE25db1TEMnZuw2F_GYhuL5S2iA_Ryg-_0coPs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415030/%E5%B0%8F%E9%B5%ACiron%E6%A9%9F%E6%A2%B0%E4%BA%BA%E7%99%BB%E5%8F%B0%E6%BC%94%E8%AC%9B%E8%87%AA%E5%98%B2%E4%B8%8D%E6%9C%83%E8%87%89%E7%B4%85-1-7%E7%B1%B3%E9%AB%98%E9%85%8D%E4%BB%BF%E7%94%9F%E8%82%8C%E8%82%89%E6%9C%89%E9%AB%94%E6%BA%AB",
+    "timestamp": "2026-11-26T00:36:42.911Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "蘇民峰曝港股持倉　莎莎翻倍、阿里愈跌愈買　羊年經濟恐「伏吟」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869829792239616879652.jpeg/h_bnuZOl7-uvVNmsf_YP5cZ_QbUC1e8IEUJwSBFCcEg",
     "url": "https://www.hk01.com/01TV/60413491/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%9D%9Etvb-%E8%A6%AA%E7%94%9F%E5%A5%B3-%E5%A5%AA%E8%A6%96%E5%90%8E-%E6%86%91-%E4%B8%8B%E6%B5%81%E4%B8%8A%E8%BB%8A%E6%97%8F-%E6%89%93%E7%A0%B4%E5%B8%B8%E8%A6%8F",
     "timestamp": "2026-11-25T17:45:12.299Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "江美儀非TVB「親生女」奪視后：憑《下流上車族》打破常規",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261121/1200869829792239616879652.jpeg/h_bnuZOl7-uvVNmsf_YP5cZ_QbUC1e8IEUJwSBFCcEg",
-    "url": "https://www.hk01.com/01TV/60413491/%E6%B1%9F%E7%BE%8E%E5%84%80%E9%9D%9Etvb-%E8%A6%AA%E7%94%9F%E5%A5%B3-%E5%A5%AA%E8%A6%96%E5%90%8E-%E6%86%91-%E4%B8%8B%E6%B5%81%E4%B8%8A%E8%BB%8A%E6%97%8F-%E6%89%93%E7%A0%B4%E5%B8%B8%E8%A6%8F",
-    "timestamp": "2026-11-25T17:29:36.385Z",
     "strategy": ".content-card__main"
   }
 ];
