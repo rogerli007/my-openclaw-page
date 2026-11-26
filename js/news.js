@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T18:59:21.866Z
+// Last updated: 2026-11-26T19:29:37.627Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "歐元區推選西班牙德科斯出任新歐洲央行長　明年2月接替拉加德",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
+    "timestamp": "2026-11-26T19:29:37.627Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "歐元區推選西班牙德科斯出任新歐洲央行長　明年2月接替拉加德",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202724334104219648207348.jpeg/gjjjj-hrsYxbVZNmjGbuZIabsnRerm1XYtH4_2LR-P8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415429/%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E7%B8%BD%E7%90%86%E4%B8%8B%E9%80%9A%E7%89%92-%E5%8F%B0%E7%81%A3%E4%BB%A3%E8%A1%A8%E8%99%95%E8%8B%A5%E6%8B%92%E6%94%B9%E5%90%8D-%E6%94%BF%E5%BA%9C%E4%BF%9D%E7%95%99%E6%92%A4%E9%8A%B7%E9%97%9C%E9%96%89%E6%AC%8A",
     "timestamp": "2026-11-26T13:45:35.865Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "林愷鈴睇AK得金馬獎眼濕濕　自言不敢奢望獎項：拍到電影已好開心",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202701040529444864690423.jpeg/5fDkLHp_H5YQChbZQx_eJdNWTWqi7mMULBnlXiwZ5V4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415391/%E6%9E%97%E6%84%B7%E9%88%B4%E7%9D%87ak%E5%BE%97%E9%87%91%E9%A6%AC%E7%8D%8E%E7%9C%BC%E6%BF%95%E6%BF%95-%E8%87%AA%E8%A8%80%E4%B8%8D%E6%95%A2%E5%A5%A2%E6%9C%9B%E7%8D%8E%E9%A0%85-%E6%8B%8D%E5%88%B0%E9%9B%BB%E5%BD%B1%E5%B7%B2%E5%A5%BD%E9%96%8B%E5%BF%83",
-    "timestamp": "2026-11-26T13:31:03.970Z",
     "strategy": ".content-card__main"
   }
 ];
