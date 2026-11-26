@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T10:20:46.814Z
+// Last updated: 2026-11-26T10:45:53.424Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "深水埗福榮街天降鋁窗飛墮馬路　警拘一男涉容許物件從高處墮下",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202690227987025920209738.jpeg/Hy_REN80VCEC55slDdJpg6VqY4qkqYI2fexdtX3sXbU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415394/%E6%B7%B1%E6%B0%B4%E5%9F%97%E7%A6%8F%E6%A6%AE%E8%A1%97%E5%A4%A9%E9%99%8D%E9%8B%81%E7%AA%97%E9%A3%9B%E5%A2%AE%E9%A6%AC%E8%B7%AF-%E8%AD%A6%E6%8B%98%E4%B8%80%E7%94%B7%E6%B6%89%E5%AE%B9%E8%A8%B1%E7%89%A9%E4%BB%B6%E5%BE%9E%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B",
+    "timestamp": "2026-11-26T10:45:53.424Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《沙丘瀚戰：第三章》下個月上映忘光前情？入場前必讀極簡懶人包",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261024/1190462332711473152174205.jpeg/iJ3ZJgQYlaUl5kploYhr7tq5s2kmZKFZyMcnlcjHJ5U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60415130/%E6%99%AE%E4%BA%AC%E8%A2%AB%E7%88%86%E6%84%9B%E9%A3%9F%E7%B2%B5%E8%8F%9C-%E8%A6%AA%E9%BB%9E%E7%89%9B%E5%9D%91%E8%85%A9%E6%BB%B7%E6%B0%B4%E8%B1%AC%E8%85%B3%E8%86%8F%E8%9F%B9%E8%92%B8%E8%82%89%E9%A4%85-%E4%BB%B2%E6%89%93%E5%8C%85%E4%B8%8A%E9%A3%9B%E6%A9%9F",
     "timestamp": "2026-11-26T04:22:03.140Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "1Password也中招　密碼管理程式黑客入侵　稱密碼庫內容未被取用",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202586286255247360563071.png/ZWGG-ELF3GWYKegMD3w0bC3Lms70rByuneU0cJ3lNHA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415174/1password%E4%B9%9F%E4%B8%AD%E6%8B%9B-%E5%AF%86%E7%A2%BC%E7%AE%A1%E7%90%86%E7%A8%8B%E5%BC%8F%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E7%A8%B1%E5%AF%86%E7%A2%BC%E5%BA%AB%E5%85%A7%E5%AE%B9%E6%9C%AA%E8%A2%AB%E5%8F%96%E7%94%A8",
-    "timestamp": "2026-11-26T03:59:03.544Z",
     "strategy": ".content-card__main"
   }
 ];
