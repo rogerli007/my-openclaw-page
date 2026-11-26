@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T20:59:26.390Z
+// Last updated: 2026-11-26T21:19:09.237Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "屯門帝灣居單位遭爆竊　賊人撬窗掠走$74萬財物　包括勞力士名錶",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202844288166137856358092.jpeg/bUc07kgbO5H7bAF0z1N0i9xzk0kK5fNFzsdhwc7HYcE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415471/%E5%B1%AF%E9%96%80%E5%B8%9D%E7%81%A3%E5%B1%85%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%8E%A0%E8%B5%B0-74%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
+    "timestamp": "2026-11-26T21:19:09.237Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "屯門帝灣居單位遭爆竊　賊人撬窗掠走$74萬財物　包括勞力士名錶",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202680752236400640697541.jpeg/cc6gzkJAyUI5umfFb35lMmnFCaPUBLXDihn2QYoZ9kE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415302/tvb%E5%B0%8F%E8%8A%B1%E9%BB%83%E7%80%85%E4%BB%B4%E5%8F%B0%E6%85%B6%E9%9A%AA%E9%97%96%E5%A4%A7%E7%A6%8D-%E5%BC%84%E4%B8%9F20%E8%90%AC%E7%8F%A0%E5%AF%B6-%E5%92%81%E4%B8%8D%E5%B9%B8%E7%99%BC%E7%94%9F%E5%96%BA%E6%88%91%E8%BA%AB%E4%B8%8A",
     "timestamp": "2026-11-26T15:20:11.385Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "直播.特區護照漏頁風波｜入境處拘捕兩人　涉非法改動護照",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202757352894238720496318.jpeg/OA91v4CKiDvkHnwCCvTd_UhwMYulr58lJ8rWMCfK1jA",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415444/%E7%9B%B4%E6%92%AD-%E7%89%B9%E5%8D%80%E8%AD%B7%E7%85%A7%E6%BC%8F%E9%A0%81%E9%A2%A8%E6%B3%A2-%E5%85%A5%E5%A2%83%E8%99%95%E6%8B%98%E6%8D%95%E5%85%A9%E4%BA%BA-%E6%B6%89%E9%9D%9E%E6%B3%95%E6%94%B9%E5%8B%95%E8%AD%B7%E7%85%A7",
-    "timestamp": "2026-11-26T14:59:11.110Z",
     "strategy": ".content-card__main"
   }
 ];
