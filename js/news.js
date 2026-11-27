@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T09:45:44.999Z
+// Last updated: 2026-11-27T10:20:42.768Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "周志文周志康演唱會麥花臣開鑼　昔日網台音樂節目搬上實體騷",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203021391322943488087916.jpeg/LQibYaRtO7auh24uFtPIg5bMii6phGns8QVXtfEFV7U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60415693/%E5%91%A8%E5%BF%97%E6%96%87%E5%91%A8%E5%BF%97%E5%BA%B7%E6%BC%94%E5%94%B1%E6%9C%83%E9%BA%A5%E8%8A%B1%E8%87%A3%E9%96%8B%E9%91%BC-%E6%98%94%E6%97%A5%E7%B6%B2%E5%8F%B0%E9%9F%B3%E6%A8%82%E7%AF%80%E7%9B%AE%E6%90%AC%E4%B8%8A%E5%AF%A6%E9%AB%94%E9%A8%B7",
+    "timestamp": "2026-11-27T10:20:42.768Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "頤年卡申請｜免費搭車+參觀景點16大福利　申請資格+網上預約教學",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202941198109511680470286.png/Va88UXC0VV8cHghI2uTtg9ceojPKi68D5wuO-ecLjvk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415496/%E5%8D%B0%E5%BA%A6%E6%9C%80%E7%AA%AE%E9%82%A6%E6%94%BF%E5%AE%A2%E6%93%B2850%E8%90%AC%E7%BE%8E%E5%85%83%E5%AB%81%E5%A5%B3-40%E8%90%AC%E4%BA%BA%E8%B5%B4%E5%AE%B4-%E7%8F%BE%E5%A0%B4%E8%B3%93%E5%AE%A2%E6%90%B6%E9%A3%9F%E5%A5%AA%E8%8F%9C",
     "timestamp": "2026-11-27T03:35:54.288Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "秀茂坪寶達邨達祥樓男子墮樓身亡　警追查身份及墮樓原因",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/2139056/org/0b6d6f54c6eac4225751ca757caba7cd.jpg/65ub_sVFOwoM-fjKEGPPft34xH2CVakxeL5D8Hi-Q_A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415478/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AF%B6%E9%81%94%E9%82%A8%E9%81%94%E7%A5%A5%E6%A8%93%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E8%BA%AB%E4%BA%A1-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%BA%AB%E4%BB%BD%E5%8F%8A%E5%A2%AE%E6%A8%93%E5%8E%9F%E5%9B%A0",
-    "timestamp": "2026-11-27T03:22:56.522Z",
     "strategy": ".content-card__main"
   }
 ];
