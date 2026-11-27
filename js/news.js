@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T22:59:03.607Z
+// Last updated: 2026-11-27T23:19:02.174Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "神秘「視覺錯覺圖」瘋傳　你看到什麼數字？　見到這組數字要求醫",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202330758195187712542086.jpeg/BONwkLKLWnkOh_5-2JVBQWZOZ1sqCXQ2tueN0LbnjdA",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60414980/%E7%A5%9E%E7%A7%98-%E8%A6%96%E8%A6%BA%E9%8C%AF%E8%A6%BA%E5%9C%96-%E7%98%8B%E5%82%B3-%E4%BD%A0%E7%9C%8B%E5%88%B0%E4%BB%80%E9%BA%BC%E6%95%B8%E5%AD%97-%E8%A6%8B%E5%88%B0%E9%80%99%E7%B5%84%E6%95%B8%E5%AD%97%E8%A6%81%E6%B1%82%E9%86%AB",
+    "timestamp": "2026-11-27T23:19:02.174Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "荃灣綠楊坊35歲男保安暈倒　同事報案　送院不治",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070831282763599872120394.jpeg/Gxe1_JkmgdH1A0-m4dhZ6GnPBWQj7BSJ3p8lEt6fJRI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415836/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E6%8E%A7%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E9%98%BB%E7%A4%99%E7%B3%A7%E9%A3%9F%E9%81%8E%E5%A2%83-%E6%99%AE%E4%BA%AC%E7%A8%B1%E5%B0%87%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E6%B5%B7%E8%BB%8D%E7%8F%BE%E4%BB%A3%E5%8C%96",
     "timestamp": "2026-11-27T17:19:08.651Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬鞍山兩車撞　兩司機受傷送院　Tesla司機報稱閃避動物越線肇禍",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203146410610921472591803.jpeg/PUvWwfLPtw185uOg1GAte55V0ylYvsbMPLcv6zy3L-s?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415835/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%85%A9%E8%BB%8A%E6%92%9E-%E5%85%A9%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-tesla%E5%8F%B8%E6%A9%9F%E5%A0%B1%E7%A8%B1%E9%96%83%E9%81%BF%E5%8B%95%E7%89%A9%E8%B6%8A%E7%B7%9A%E8%82%87%E7%A6%8D",
-    "timestamp": "2026-11-27T16:59:04.158Z",
     "strategy": ".content-card__main"
   }
 ];
