@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T05:45:56.355Z
+// Last updated: 2026-11-27T05:59:13.815Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "盲目補鋅反致缺銅？32歲女白血球暴跌險失免疫力 鋅銅失衡4大症狀",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202640134764236800782136.jpeg/t_S1x1uTYIR4RfWcOrEkcmusnXYPQYBnGi9iHhovYh4?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60415122/%E7%9B%B2%E7%9B%AE%E8%A3%9C%E9%8B%85%E5%8F%8D%E8%87%B4%E7%BC%BA%E9%8A%85-32%E6%AD%B2%E5%A5%B3%E7%99%BD%E8%A1%80%E7%90%83%E6%9A%B4%E8%B7%8C%E9%9A%AA%E5%A4%B1%E5%85%8D%E7%96%AB%E5%8A%9B-%E9%8B%85%E9%8A%85%E5%A4%B1%E8%A1%A14%E5%A4%A7%E7%97%87%E7%8B%80",
+    "timestamp": "2026-11-27T05:59:13.815Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "青衣撞船｜航拍「新迅隆貳號」　整體損毀不嚴重　集中10米濶船頭",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202333605875945472051247.png/Z11UxMlfWBnSRj1Rptpjkkib0oBqsukjZgLF8WYCxfE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412701/%E8%91%A3%E5%8D%93%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E8%83%96-%E6%AD%BB%E5%BE%8C%E6%88%90%E5%B7%A8%E5%9E%8B%E4%BA%BA%E6%B2%B9%E7%87%88-%E8%82%9A%E8%87%8D%E9%BB%9E%E7%81%AB%E7%9C%9F%E7%9B%B8%E6%8F%AD%E7%A7%98-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
     "timestamp": "2026-11-26T23:19:22.628Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "阿叻爆影帝古天樂早年未紅往事　一句道破兩人交情：而家冇咁嘅人",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202729670873714688163879.jpeg/3tPfq9VoQw1jpXr7PGGqU5hO1sMIiQ6obrZGpW62RqU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415333/%E9%98%BF%E5%8F%BB%E7%88%86%E5%BD%B1%E5%B8%9D%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%97%A9%E5%B9%B4%E6%9C%AA%E7%B4%85%E5%BE%80%E4%BA%8B-%E4%B8%80%E5%8F%A5%E9%81%93%E7%A0%B4%E5%85%A9%E4%BA%BA%E4%BA%A4%E6%83%85-%E8%80%8C%E5%AE%B6%E5%86%87%E5%92%81%E5%98%85%E4%BA%BA",
-    "timestamp": "2026-11-26T22:45:13.671Z",
     "strategy": ".content-card__main"
   }
 ];
