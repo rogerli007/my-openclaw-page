@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T12:48:33.853Z
+// Last updated: 2026-11-27T13:20:19.752Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "圭賢演唱會2027香港｜亞博開2場門票攻略＋購票連結＋座位表",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202995563205758976645182.jpeg/6rdbFiAm_L6CSh78jjZD0OqdWukhxQpIRBEuKEQRLig?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60415620/%E5%9C%AD%E8%B3%A2%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF-%E4%BA%9E%E5%8D%9A%E9%96%8B2%E5%A0%B4%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
+    "timestamp": "2026-11-27T13:20:19.752Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "外媒：哈馬斯領導人之子在加沙遭以軍空襲　狀況未明",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202640134764236800782136.jpeg/t_S1x1uTYIR4RfWcOrEkcmusnXYPQYBnGi9iHhovYh4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60415122/%E7%9B%B2%E7%9B%AE%E8%A3%9C%E9%8B%85%E5%8F%8D%E8%87%B4%E7%BC%BA%E9%8A%85-32%E6%AD%B2%E5%A5%B3%E7%99%BD%E8%A1%80%E7%90%83%E6%9A%B4%E8%B7%8C%E9%9A%AA%E5%A4%B1%E5%85%8D%E7%96%AB%E5%8A%9B-%E9%8B%85%E9%8A%85%E5%A4%B1%E8%A1%A14%E5%A4%A7%E7%97%87%E7%8B%80",
     "timestamp": "2026-11-27T05:59:13.815Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "青衣撞船｜航拍「新迅隆貳號」　整體損毀不嚴重　集中10米濶船頭",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202977717545340928152043.jpeg/o4rbzLhX3nuZRlbNJDTxD0v5sKy6qqxgfJb2R3yW9kc?v=w1920",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415599/%E9%9D%92%E8%A1%A3%E6%92%9E%E8%88%B9-%E8%88%AA%E6%8B%8D-%E6%96%B0%E8%BF%85%E9%9A%86%E8%B2%B3%E8%99%9F-%E6%95%B4%E9%AB%94%E6%90%8D%E6%AF%80%E4%B8%8D%E5%9A%B4%E9%87%8D-%E9%9B%86%E4%B8%AD10%E7%B1%B3%E6%BF%B6%E8%88%B9%E9%A0%AD",
-    "timestamp": "2026-11-27T05:45:56.355Z",
     "strategy": ".content-card__main"
   }
 ];
