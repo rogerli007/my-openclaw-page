@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T17:59:04.210Z
+// Last updated: 2026-11-27T18:21:59.617Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯指控拉脫維亞阻礙糧食過境　普京稱將持續推動海軍現代化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070831282763599872120394.jpeg/Gxe1_JkmgdH1A0-m4dhZ6GnPBWQj7BSJ3p8lEt6fJRI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415836/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E6%8E%A7%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E9%98%BB%E7%A4%99%E7%B3%A7%E9%A3%9F%E9%81%8E%E5%A2%83-%E6%99%AE%E4%BA%AC%E7%A8%B1%E5%B0%87%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E6%B5%B7%E8%BB%8D%E7%8F%BE%E4%BB%A3%E5%8C%96",
+    "timestamp": "2026-11-27T18:21:59.617Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯指控拉脫維亞阻礙糧食過境　普京稱將持續推動海軍現代化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203001992260096000864093.jpeg/qaVH3vIVCarKfwXWPUuyTn0mPOlNmDpAwf7LIsH-yyI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415642/%E7%BE%85%E5%A4%A9%E5%AE%87%E7%88%86%E9%99%AA%E6%9C%AA%E4%BE%86%E5%A4%96%E5%A4%AB%E5%A4%96%E6%AF%8D%E6%89%93golf-%E5%94%94%E4%BD%BF%E8%AE%93%E8%B3%BD-%E4%BD%A2%E5%93%8B%E5%A5%BD%E5%8B%81",
     "timestamp": "2026-11-27T11:46:01.855Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "63歲苑瓊丹大變樣被誤認為「麥玲玲」　苑仔親解原因：有大師指點",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203055212357488640875102.jpeg/1sopA3U7Eh-EEeU3xKTsLEZkUg_jRqTfImrhZiJq4WY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415751/63%E6%AD%B2%E8%8B%91%E7%93%8A%E4%B8%B9%E5%A4%A7%E8%AE%8A%E6%A8%A3%E8%A2%AB%E8%AA%A4%E8%AA%8D%E7%82%BA-%E9%BA%A5%E7%8E%B2%E7%8E%B2-%E8%8B%91%E4%BB%94%E8%A6%AA%E8%A7%A3%E5%8E%9F%E5%9B%A0-%E6%9C%89%E5%A4%A7%E5%B8%AB%E6%8C%87%E9%BB%9E",
-    "timestamp": "2026-11-27T11:19:38.401Z",
     "strategy": ".content-card__main"
   }
 ];
