@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T10:20:42.768Z
+// Last updated: 2026-11-27T10:45:14.928Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港鐵「落馬洲濕地可持續發展項目」獲「亞洲都市景觀獎」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203045649839296512416279.jpeg/rMSbs0xVUg_Hk8POP-cTKpuzbc_UkCZwqc-8bKnPvGw?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415760/%E6%B8%AF%E9%90%B5-%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%BF%95%E5%9C%B0%E5%8F%AF%E6%8C%81%E7%BA%8C%E7%99%BC%E5%B1%95%E9%A0%85%E7%9B%AE-%E7%8D%B2-%E4%BA%9E%E6%B4%B2%E9%83%BD%E5%B8%82%E6%99%AF%E8%A7%80%E7%8D%8E",
+    "timestamp": "2026-11-27T10:45:14.928Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "周志文周志康演唱會麥花臣開鑼　昔日網台音樂節目搬上實體騷",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202945078255947776396180.jpeg/YQkyOU__GOSNnsR2rCvK2kQBzedMRX4Bl5A225eQNts?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415535/%E7%BE%8E%E5%9C%8B%E6%9D%B1%E5%B2%B8%E5%9C%B0%E5%8D%80%E6%84%9F%E6%81%A9%E7%AF%80%E9%81%AD%E9%A2%A8%E6%9A%B4%E5%90%B9%E8%A5%B2%E7%99%B1%E7%98%93-%E9%80%BE90%E8%90%AC%E6%88%B6%E5%81%9C%E9%9B%BB-%E5%A4%A7%E6%89%B9%E8%88%AA%E7%8F%AD%E5%8F%97%E9%98%BB",
     "timestamp": "2026-11-27T03:59:03.410Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "印度最窮邦政客擲850萬美元嫁女　40萬人赴宴　現場賓客搶食奪菜",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202941198109511680470286.png/Va88UXC0VV8cHghI2uTtg9ceojPKi68D5wuO-ecLjvk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415496/%E5%8D%B0%E5%BA%A6%E6%9C%80%E7%AA%AE%E9%82%A6%E6%94%BF%E5%AE%A2%E6%93%B2850%E8%90%AC%E7%BE%8E%E5%85%83%E5%AB%81%E5%A5%B3-40%E8%90%AC%E4%BA%BA%E8%B5%B4%E5%AE%B4-%E7%8F%BE%E5%A0%B4%E8%B3%93%E5%AE%A2%E6%90%B6%E9%A3%9F%E5%A5%AA%E8%8F%9C",
-    "timestamp": "2026-11-27T03:35:54.288Z",
     "strategy": ".content-card__main"
   }
 ];
