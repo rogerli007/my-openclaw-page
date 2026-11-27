@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T07:30:30.799Z
+// Last updated: 2026-11-27T07:59:13.068Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "雀巢奶粉再曝食安風險：澳版檢出嘔吐毒素　官方回應未進大陸市場",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203009501481930752634821.jpeg/lrZV_Y5uDzeLQe6AJz-rfVLnPLM2ENRV_KnjSfyp40k?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60415656/%E9%9B%80%E5%B7%A2%E5%A5%B6%E7%B2%89%E5%86%8D%E6%9B%9D%E9%A3%9F%E5%AE%89%E9%A2%A8%E9%9A%AA-%E6%BE%B3%E7%89%88%E6%AA%A2%E5%87%BA%E5%98%94%E5%90%90%E6%AF%92%E7%B4%A0-%E5%AE%98%E6%96%B9%E5%9B%9E%E6%87%89%E6%9C%AA%E9%80%B2%E5%A4%A7%E9%99%B8%E5%B8%82%E5%A0%B4",
+    "timestamp": "2026-11-27T07:59:13.068Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "趙昭儀上賴冠霖節目揭片場潛規則　通宵拍戲被導演要求「露出來」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202685103046660096309715.png/rukbgkLw2seTFJTnuL5teusjGk6OzmnlRLJjw0SyY8M",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415342/%E6%9F%A5%E7%90%86%E6%96%AF%E7%94%9F%E6%97%A5%E5%AE%B4%E6%8B%92%E9%82%80%E5%93%88%E9%87%8C%E5%85%A8%E5%AE%B6-%E9%96%8B%E6%94%AF%E5%A4%A7%E7%A0%B4%E5%86%B0%E7%84%A1%E6%9C%9B-%E8%8B%B1%E5%AA%92%E5%98%B2%E7%8E%8B%E5%AD%90%E7%84%A1%E5%AE%B6%E5%8F%AF%E6%AD%B8",
     "timestamp": "2026-11-27T01:48:31.806Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "粉嶺萃雲路挖泥機凌晨起火　現場檢天拿水　列縱火案追查",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20230309/710546788108472320582136.jpeg/sUmjW2tj7CnGBxEDl3TvP8RXUdJO0KUWBlLgHgZS4B4?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415480/%E7%B2%89%E5%B6%BA%E8%90%83%E9%9B%B2%E8%B7%AF%E6%8C%96%E6%B3%A5%E6%A9%9F%E5%87%8C%E6%99%A8%E8%B5%B7%E7%81%AB-%E7%8F%BE%E5%A0%B4%E6%AA%A2%E5%A4%A9%E6%8B%BF%E6%B0%B4-%E5%88%97%E7%B8%B1%E7%81%AB%E6%A1%88%E8%BF%BD%E6%9F%A5",
-    "timestamp": "2026-11-27T01:31:04.449Z",
     "strategy": ".content-card__main"
   }
 ];
