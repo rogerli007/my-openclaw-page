@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T19:17:52.442Z
+// Last updated: 2026-11-27T19:29:39.109Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛蝶灣住宅睡房疑拖板過熱起火　男戶主遭燒傷　男鄰居逃生撞傷手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203179617616138240157806.jpeg/ebhVlhs7HlV5hIds6on-S7V4MibPaOI29Rc3fc8XN30?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415841/%E6%84%9B%E8%9D%B6%E7%81%A3%E4%BD%8F%E5%AE%85%E7%9D%A1%E6%88%BF%E7%96%91%E6%8B%96%E6%9D%BF%E9%81%8E%E7%86%B1%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E9%81%AD%E7%87%92%E5%82%B7-%E7%94%B7%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E6%92%9E%E5%82%B7%E6%89%8B",
+    "timestamp": "2026-11-27T19:29:39.109Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "愛蝶灣住宅睡房疑拖板過熱起火　男戶主遭燒傷　男鄰居逃生撞傷手",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20251029/1060122672991571968185306.jpeg/-RAJ4XpBcNJ9t8J4pE7yHggBnJZV3metFzCtbhcwrW4?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415816/%E8%A5%BF%E8%B2%A2%E5%A4%A7%E7%B6%B2%E4%BB%94%E8%B7%AF%E7%9F%B3%E5%B2%B8%E9%96%93%E9%A9%9A%E7%8F%BE%E6%87%B7%E7%96%91%E4%BA%BA%E9%A1%9E%E9%A0%AD%E9%AA%A8-%E8%AD%A6%E6%AA%A2%E8%B5%B0%E5%8C%96%E9%A9%97",
     "timestamp": "2026-11-27T13:59:06.059Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "圭賢演唱會2027香港｜亞博開2場門票攻略＋購票連結＋座位表",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202995563205758976645182.jpeg/6rdbFiAm_L6CSh78jjZD0OqdWukhxQpIRBEuKEQRLig?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60415620/%E5%9C%AD%E8%B3%A2%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF-%E4%BA%9E%E5%8D%9A%E9%96%8B2%E5%A0%B4%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
-    "timestamp": "2026-11-27T13:20:19.752Z",
     "strategy": ".content-card__main"
   }
 ];
