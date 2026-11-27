@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T15:45:37.346Z
+// Last updated: 2026-11-27T15:59:16.104Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "翟威廉陪拉頭馬現身富婆聚會　同框《中年3》兩位千萬身家猛人",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203063145933836288473590.png/hcOsLXgF9XaUkDmwuupGzyXmhNq2TahQtpamO7aWpjs?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415781/%E7%BF%9F%E5%A8%81%E5%BB%89%E9%99%AA%E6%8B%89%E9%A0%AD%E9%A6%AC%E7%8F%BE%E8%BA%AB%E5%AF%8C%E5%A9%86%E8%81%9A%E6%9C%83-%E5%90%8C%E6%A1%86-%E4%B8%AD%E5%B9%B43-%E5%85%A9%E4%BD%8D%E5%8D%83%E8%90%AC%E8%BA%AB%E5%AE%B6%E7%8C%9B%E4%BA%BA",
+    "timestamp": "2026-11-27T15:59:16.104Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "1.02億六合彩周六晚攪珠　一文看清五大最旺號碼及十大幸運投注站",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203005177905287168732159.jpeg/6kLOSqhBF0S4ChDcYt02XSusSm332WpuNbdcZRC3XGU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415651/%E4%B8%AD%E4%B9%9D%E9%BE%8D%E7%B9%9E%E9%81%9312-6%E5%85%A8%E7%B7%9A%E9%96%8B%E9%80%9A-%E5%B7%A5%E7%A8%8B%E9%9B%B6%E8%B6%85%E6%94%AF-%E9%9B%B6%E5%BB%B6%E8%AA%A4-%E6%96%BD%E5%B7%A5%E7%8D%B2%E9%80%BE%E7%99%BE%E5%80%8B%E7%8D%8E%E9%A0%85",
     "timestamp": "2026-11-27T08:47:38.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "Rain驚爆患脂肪肝！有腹肌天天健身照中招 小心5大傷肝食物",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203007755053436928486351.jpeg/RPRHGx3bso-jKOvHj3YsO2EsYlwy-Ultagt1mWoLdZk?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60415580/rain%E9%A9%9A%E7%88%86%E6%82%A3%E8%84%82%E8%82%AA%E8%82%9D-%E6%9C%89%E8%85%B9%E8%82%8C%E5%A4%A9%E5%A4%A9%E5%81%A5%E8%BA%AB%E7%85%A7%E4%B8%AD%E6%8B%9B-%E5%B0%8F%E5%BF%835%E5%A4%A7%E5%82%B7%E8%82%9D%E9%A3%9F%E7%89%A9",
-    "timestamp": "2026-11-27T08:23:47.731Z",
     "strategy": ".content-card__main"
   }
 ];
