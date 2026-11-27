@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T02:59:04.293Z
+// Last updated: 2026-11-27T03:22:56.522Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "秀茂坪寶達邨達祥樓男子墮樓身亡　警追查身份及墮樓原因",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2139056/org/0b6d6f54c6eac4225751ca757caba7cd.jpg/65ub_sVFOwoM-fjKEGPPft34xH2CVakxeL5D8Hi-Q_A?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415478/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AF%B6%E9%81%94%E9%82%A8%E9%81%94%E7%A5%A5%E6%A8%93%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E8%BA%AB%E4%BA%A1-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%BA%AB%E4%BB%BD%E5%8F%8A%E5%A2%AE%E6%A8%93%E5%8E%9F%E5%9B%A0",
+    "timestamp": "2026-11-27T03:22:56.522Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "護照冷知識｜揭全球僅4色背後密碼！古早護照相片可以是全家福",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
     "timestamp": "2026-11-26T19:29:37.627Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐元區推選西班牙德科斯出任新歐洲央行長　明年2月接替拉加德",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
-    "timestamp": "2026-11-26T18:59:21.866Z",
     "strategy": ".content-card__main"
   }
 ];
