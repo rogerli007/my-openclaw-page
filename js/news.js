@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T03:22:56.522Z
+// Last updated: 2026-11-27T03:35:54.288Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "印度最窮邦政客擲850萬美元嫁女　40萬人赴宴　現場賓客搶食奪菜",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202941198109511680470286.png/Va88UXC0VV8cHghI2uTtg9ceojPKi68D5wuO-ecLjvk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415496/%E5%8D%B0%E5%BA%A6%E6%9C%80%E7%AA%AE%E9%82%A6%E6%94%BF%E5%AE%A2%E6%93%B2850%E8%90%AC%E7%BE%8E%E5%85%83%E5%AB%81%E5%A5%B3-40%E8%90%AC%E4%BA%BA%E8%B5%B4%E5%AE%B4-%E7%8F%BE%E5%A0%B4%E8%B3%93%E5%AE%A2%E6%90%B6%E9%A3%9F%E5%A5%AA%E8%8F%9C",
+    "timestamp": "2026-11-27T03:35:54.288Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "秀茂坪寶達邨達祥樓男子墮樓身亡　警追查身份及墮樓原因",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
     "timestamp": "2026-11-26T19:45:58.425Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐元區推選西班牙德科斯出任新歐洲央行長　明年2月接替拉加德",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
-    "timestamp": "2026-11-26T19:29:37.627Z",
     "strategy": ".content-card__main"
   }
 ];
