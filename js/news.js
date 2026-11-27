@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T05:59:13.815Z
+// Last updated: 2026-11-27T06:28:30.889Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "珍惜生命︱尖沙咀重慶大廈男子墮樓　倒臥天井　昏迷送院搶救",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202990211051556864904628.jpeg/qGvLbZxj7YHJd6W6patM6X_a8TocQRmxXnRuol50bqI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415603/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%96%E6%B2%99%E5%92%80%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E5%80%92%E8%87%A5%E5%A4%A9%E4%BA%95-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
+    "timestamp": "2026-11-27T06:28:30.889Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "盲目補鋅反致缺銅？32歲女白血球暴跌險失免疫力 鋅銅失衡4大症狀",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202835074626621440413972.jpeg/_C2n0ZHX5s3lNDG4_iEMgt87RBE58av2C0ejBjFHowY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415468/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%87%8C%E6%99%A8%E6%9C%80%E9%AB%98%E5%B3%B030%E4%BA%BA%E9%80%97%E7%95%99%E6%82%BC%E5%BF%B5-4%E7%94%B7%E8%B7%AF%E6%97%81%E6%90%AC%E8%8A%B1%E6%94%BE%E5%9B%9E%E8%8A%B1%E5%A0%86",
     "timestamp": "2026-11-26T23:58:55.259Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "董卓究竟有多胖？死後成巨型人油燈　肚臍點火真相揭秘｜歷史奇趣",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202333605875945472051247.png/Z11UxMlfWBnSRj1Rptpjkkib0oBqsukjZgLF8WYCxfE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60412701/%E8%91%A3%E5%8D%93%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E8%83%96-%E6%AD%BB%E5%BE%8C%E6%88%90%E5%B7%A8%E5%9E%8B%E4%BA%BA%E6%B2%B9%E7%87%88-%E8%82%9A%E8%87%8D%E9%BB%9E%E7%81%AB%E7%9C%9F%E7%9B%B8%E6%8F%AD%E7%A7%98-%E6%AD%B7%E5%8F%B2%E5%A5%87%E8%B6%A3",
-    "timestamp": "2026-11-26T23:19:22.628Z",
     "strategy": ".content-card__main"
   }
 ];
