@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T04:40:10.891Z
+// Last updated: 2026-11-27T04:59:17.629Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "長者買金｜金價穿3500美元！銀行/金行買金抵？供金會？5大伏位",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202966922350563328804963.png/xiUY-kQ36N2kXTJwWdX1JVm5P5pUX0GRDud8ww7nfMM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/60415353/%E9%95%B7%E8%80%85%E8%B2%B7%E9%87%91-%E9%87%91%E5%83%B9%E7%A9%BF3500%E7%BE%8E%E5%85%83-%E9%8A%80%E8%A1%8C-%E9%87%91%E8%A1%8C%E8%B2%B7%E9%87%91%E6%8A%B5-%E4%BE%9B%E9%87%91%E6%9C%83-5%E5%A4%A7%E4%BC%8F%E4%BD%8D",
+    "timestamp": "2026-11-27T04:59:17.629Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "特朗普承認幕後出手保黃仁勳　稱對方絕非安全威脅",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202844288166137856358092.jpeg/bUc07kgbO5H7bAF0z1N0i9xzk0kK5fNFzsdhwc7HYcE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415471/%E5%B1%AF%E9%96%80%E5%B8%9D%E7%81%A3%E5%B1%85%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%8E%A0%E8%B5%B0-74%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
     "timestamp": "2026-11-26T21:19:09.237Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門帝灣居單位遭爆竊　賊人撬窗掠走$74萬財物　包括勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202844288166137856358092.jpeg/bUc07kgbO5H7bAF0z1N0i9xzk0kK5fNFzsdhwc7HYcE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415471/%E5%B1%AF%E9%96%80%E5%B8%9D%E7%81%A3%E5%B1%85%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%8E%A0%E8%B5%B0-74%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-11-26T20:59:26.390Z",
     "strategy": ".content-card__main"
   }
 ];
