@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T11:46:01.855Z
+// Last updated: 2026-11-27T11:59:05.714Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "股市大跌　韓國女主持為鏡頭前落淚道歉：太多壞消息致淚崩｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203072473885577216193248.jpeg/I6H7S7z_dzWFOe0XR90UmFArlVvEfzTAD5npdQ-Z6XU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415782/%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C-%E9%9F%93%E5%9C%8B%E5%A5%B3%E4%B8%BB%E6%8C%81%E7%82%BA%E9%8F%A1%E9%A0%AD%E5%89%8D%E8%90%BD%E6%B7%9A%E9%81%93%E6%AD%89-%E5%A4%AA%E5%A4%9A%E5%A3%9E%E6%B6%88%E6%81%AF%E8%87%B4%E6%B7%9A%E5%B4%A9-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-27T11:59:05.714Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "羅天宇爆陪未來外夫外母打Golf　唔使讓賽：佢哋好勁",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20220424/594970577882583040354091.jpeg/P1ip_8bKF9NxJylGWxRjDSsyJ2-ssBx7lp_boZaf26E?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415583/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%98%8E%E5%BE%B7%E9%82%A8%E6%98%8E%E9%81%93%E6%A8%93%E4%B8%AD%E5%B9%B4%E5%A9%A6%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E6%8F%AD%E7%99%BC%E6%83%9C%E7%82%BA%E6%99%82%E5%B7%B2%E6%99%9A",
     "timestamp": "2026-11-27T05:21:00.212Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "長者買金｜金價穿3500美元！銀行/金行買金抵？供金會？5大伏位",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202966922350563328804963.png/xiUY-kQ36N2kXTJwWdX1JVm5P5pUX0GRDud8ww7nfMM?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/60415353/%E9%95%B7%E8%80%85%E8%B2%B7%E9%87%91-%E9%87%91%E5%83%B9%E7%A9%BF3500%E7%BE%8E%E5%85%83-%E9%8A%80%E8%A1%8C-%E9%87%91%E8%A1%8C%E8%B2%B7%E9%87%91%E6%8A%B5-%E4%BE%9B%E9%87%91%E6%9C%83-5%E5%A4%A7%E4%BC%8F%E4%BD%8D",
-    "timestamp": "2026-11-27T04:59:17.629Z",
     "strategy": ".content-card__main"
   }
 ];
