@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T13:59:06.059Z
+// Last updated: 2026-11-27T14:20:45.619Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "「Suica企鵝」明年退役　JR東日本證實銅像將拆　同名廣場也改名",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203096292754984960492081.jpeg/HinDcC-7I3Jr8VtNR85C1M60laXoPGOoNHiCDzR4gg8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60415802/suica%E4%BC%81%E9%B5%9D-%E6%98%8E%E5%B9%B4%E9%80%80%E5%BD%B9-jr%E6%9D%B1%E6%97%A5%E6%9C%AC%E8%AD%89%E5%AF%A6%E9%8A%85%E5%83%8F%E5%B0%87%E6%8B%86-%E5%90%8C%E5%90%8D%E5%BB%A3%E5%A0%B4%E4%B9%9F%E6%94%B9%E5%90%8D",
+    "timestamp": "2026-11-27T14:20:45.619Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "西貢大網仔路石岸間驚現懷疑人類頭骨　警檢走化驗",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202993801518387200985260.jpeg/Z1SUI12PZTGkrKL9DN9TmObeL7hwQmZQr-jKwa_oysE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415612/dhl%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%80%81ps5%E7%95%B6%E9%89%9B%E7%90%83%E6%8E%9F%E9%81%8E%E9%AB%98%E7%89%86-%E6%98%93%E7%A2%8E%E5%8C%85%E8%A3%B9%E7%A0%B8%E5%87%B9%E6%83%B9%E7%9C%BE%E6%80%92-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-27T06:53:08.738Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "珍惜生命︱尖沙咀重慶大廈男子墮樓　倒臥天井　昏迷送院搶救",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202990211051556864904628.jpeg/qGvLbZxj7YHJd6W6patM6X_a8TocQRmxXnRuol50bqI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415603/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%96%E6%B2%99%E5%92%80%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E5%80%92%E8%87%A5%E5%A4%A9%E4%BA%95-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91",
-    "timestamp": "2026-11-27T06:28:30.889Z",
     "strategy": ".content-card__main"
   }
 ];
