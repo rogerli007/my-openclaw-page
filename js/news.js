@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T18:59:11.925Z
+// Last updated: 2026-11-27T19:17:52.442Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "愛蝶灣住宅睡房疑拖板過熱起火　男戶主遭燒傷　男鄰居逃生撞傷手",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203179617616138240157806.jpeg/ebhVlhs7HlV5hIds6on-S7V4MibPaOI29Rc3fc8XN30?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415841/%E6%84%9B%E8%9D%B6%E7%81%A3%E4%BD%8F%E5%AE%85%E7%9D%A1%E6%88%BF%E7%96%91%E6%8B%96%E6%9D%BF%E9%81%8E%E7%86%B1%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E9%81%AD%E7%87%92%E5%82%B7-%E7%94%B7%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E6%92%9E%E5%82%B7%E6%89%8B",
+    "timestamp": "2026-11-27T19:17:52.442Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "香港迪士尼樂園遇竊　男子偷取100件商品值$2萬　警拘男賊",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202995563205758976645182.jpeg/6rdbFiAm_L6CSh78jjZD0OqdWukhxQpIRBEuKEQRLig?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60415620/%E5%9C%AD%E8%B3%A2%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF-%E4%BA%9E%E5%8D%9A%E9%96%8B2%E5%A0%B4%E9%96%80%E7%A5%A8%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8",
     "timestamp": "2026-11-27T13:20:19.752Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "外媒：哈馬斯領導人之子在加沙遭以軍空襲　狀況未明",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084664508518400870491.jpeg/fwOzd0wiA5-1YJvKXUCbMRp_jFufoaaKO9ANZzvQDWc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415798/%E5%A4%96%E5%AA%92-%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E5%8A%A0%E6%B2%99%E9%81%AD%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2-%E7%8B%80%E6%B3%81%E6%9C%AA%E6%98%8E",
-    "timestamp": "2026-11-27T12:48:33.853Z",
     "strategy": ".content-card__main"
   }
 ];
