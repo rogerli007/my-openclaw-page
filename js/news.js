@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T21:59:02.105Z
+// Last updated: 2026-11-27T22:19:38.622Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "工廠飲水機貼「餓了坑裡有」侮辱字條！廠方認低俗：職員已寫檢討",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202664341833256960352109.png/ydQJ5Dx9RGCLGkaArkumJnh0C9FimSuYv942Vb_eNlU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60415774/%E5%B7%A5%E5%BB%A0%E9%A3%B2%E6%B0%B4%E6%A9%9F%E8%B2%BC-%E9%A4%93%E4%BA%86%E5%9D%91%E8%A3%A1%E6%9C%89-%E4%BE%AE%E8%BE%B1%E5%AD%97%E6%A2%9D-%E5%BB%A0%E6%96%B9%E8%AA%8D%E4%BD%8E%E4%BF%97-%E8%81%B7%E5%93%A1%E5%B7%B2%E5%AF%AB%E6%AA%A2%E8%A8%8E",
+    "timestamp": "2026-11-27T22:19:38.622Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈馬斯領導人之子在以軍暗殺行動中倖存　另外四子先前皆遭殺害",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203141533033828352610923.jpeg/0EAj2QWNtFoFWRTHUJ9G5xB_BJHIUrpvMz8JnzM_CZ8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60415828/%E9%91%B2%E5%B5%8C%E5%9E%8B%E5%94%90%E6%B0%8F%E7%B6%9C%E5%90%88%E7%97%87-26%E6%AD%B2%E5%9B%9B%E5%AD%A9%E4%B9%8B%E6%AF%8D%E6%87%B7%E7%AC%AC3%E8%83%8E%E5%A7%8B%E7%A2%BA%E8%A8%BA-%E5%A4%96%E8%A7%80%E8%88%87%E5%B8%B8%E4%BA%BA%E7%84%A1%E7%95%B0",
     "timestamp": "2026-11-27T16:45:35.493Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "LE SSERAFIM許允真挑戰性感極限　抹胸布料僅遮重點網民指似口罩",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203017091007909888216978.jpeg/8V_Z_huzVSSeE7PuODPwebJYfdikoqwLV1KooVdSqKE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60415677/le-sserafim%E8%A8%B1%E5%85%81%E7%9C%9F%E6%8C%91%E6%88%B0%E6%80%A7%E6%84%9F%E6%A5%B5%E9%99%90-%E6%8A%B9%E8%83%B8%E5%B8%83%E6%96%99%E5%83%85%E9%81%AE%E9%87%8D%E9%BB%9E%E7%B6%B2%E6%B0%91%E6%8C%87%E4%BC%BC%E5%8F%A3%E7%BD%A9",
-    "timestamp": "2026-11-27T16:31:50.575Z",
     "strategy": ".content-card__main"
   }
 ];
