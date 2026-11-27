@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T08:59:04.772Z
+// Last updated: 2026-11-27T09:32:46.132Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "《我芝訂》15集限定節目光榮結束  「三姐」原來鍾意重型大車輛",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203034024247824384468297.jpeg/ldVDX-cjbBe32auDKHJjl9IDmzh0WE3s4CwUz-AsFM8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415734/%E6%88%91%E8%8A%9D%E8%A8%82-15%E9%9B%86%E9%99%90%E5%AE%9A%E7%AF%80%E7%9B%AE%E5%85%89%E6%A6%AE%E7%B5%90%E6%9D%9F-%E4%B8%89%E5%A7%90-%E5%8E%9F%E4%BE%86%E9%8D%BE%E6%84%8F%E9%87%8D%E5%9E%8B%E5%A4%A7%E8%BB%8A%E8%BC%9B",
+    "timestamp": "2026-11-27T09:32:46.132Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "美團Q3經調整溢利18.5億人幣　按年轉盈　營收增兩成",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202927189004128256352081.jpeg/WSmnZRLO58S6XIww6ySk4hAeGY6H5wLSUKHAYlChwGI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60415337/%E8%AD%B7%E7%85%A7%E5%86%B7%E7%9F%A5%E8%AD%98-%E6%8F%AD%E5%85%A8%E7%90%83%E5%83%854%E8%89%B2%E8%83%8C%E5%BE%8C%E5%AF%86%E7%A2%BC-%E5%8F%A4%E6%97%A9%E8%AD%B7%E7%85%A7%E7%9B%B8%E7%89%87%E5%8F%AF%E4%BB%A5%E6%98%AF%E5%85%A8%E5%AE%B6%E7%A6%8F",
     "timestamp": "2026-11-27T02:59:04.293Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "香港管理專業協會周年晚宴圓滿舉行 《香港01》獲邀為特級會員",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261125/1202337931847536640605149.jpeg/Rhhp_NWPSzGMfQpD1WLAEQ9fs5v67Q26TDk4ckw5OHI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/60415000/%E9%A6%99%E6%B8%AF%E7%AE%A1%E7%90%86%E5%B0%88%E6%A5%AD%E5%8D%94%E6%9C%83%E5%91%A8%E5%B9%B4%E6%99%9A%E5%AE%B4%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C-%E9%A6%99%E6%B8%AF01-%E7%8D%B2%E9%82%80%E7%82%BA%E7%89%B9%E7%B4%9A%E6%9C%83%E5%93%A1",
-    "timestamp": "2026-11-27T02:37:50.331Z",
     "strategy": ".content-card__main"
   }
 ];
