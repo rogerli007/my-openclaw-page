@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-26T23:58:55.259Z
+// Last updated: 2026-11-27T00:37:28.977Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "太古Harvey Nichols、旺角Beauty Avenue明年結業　廸生連關3名店",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202897493247922176079658.jpeg/N6XREIRlAkvUTWM59FNg2fXnH8vYv-b9rfYlcK32JXA?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415476/%E5%A4%AA%E5%8F%A4harvey-nichols-%E6%97%BA%E8%A7%92beauty-avenue%E6%98%8E%E5%B9%B4%E7%B5%90%E6%A5%AD-%E5%BB%B8%E7%94%9F%E9%80%A3%E9%97%9C3%E5%90%8D%E5%BA%97",
+    "timestamp": "2026-11-27T00:37:28.977Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "宏福苑一周年｜凌晨最高峰30人逗留悼念　4男路旁搬花放回花堆",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202742415354499072814376.jpeg/OqKobZukMS1iTRPbeiUMPVYYS03ADoevFIRKHBSEShw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415442/%E9%A6%AC%E8%B2%AB%E6%9D%B1%E8%A2%AB%E6%8F%AD%E6%AF%8D%E8%A6%AA%E8%88%87%E6%9D%8E%E5%AE%B6%E9%BC%8E%E6%9B%BE%E6%98%AF%E6%83%85%E4%BE%B6%E5%BE%8C%E9%A6%96%E5%BA%A6%E5%90%8C%E5%A0%B4-%E9%80%8F%E9%9C%B2%E5%8F%B0%E4%B8%8B%E9%9D%9E%E9%9B%B6%E4%BA%92%E5%8B%95",
     "timestamp": "2026-11-26T16:59:10.722Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "馬貫東被揭母親與李家鼎曾是情侶後首度同場　透露台下非零互動",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202742415354499072814376.jpeg/OqKobZukMS1iTRPbeiUMPVYYS03ADoevFIRKHBSEShw?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415442/%E9%A6%AC%E8%B2%AB%E6%9D%B1%E8%A2%AB%E6%8F%AD%E6%AF%8D%E8%A6%AA%E8%88%87%E6%9D%8E%E5%AE%B6%E9%BC%8E%E6%9B%BE%E6%98%AF%E6%83%85%E4%BE%B6%E5%BE%8C%E9%A6%96%E5%BA%A6%E5%90%8C%E5%A0%B4-%E9%80%8F%E9%9C%B2%E5%8F%B0%E4%B8%8B%E9%9D%9E%E9%9B%B6%E4%BA%92%E5%8B%95",
-    "timestamp": "2026-11-26T16:46:02.564Z",
     "strategy": ".content-card__main"
   }
 ];
