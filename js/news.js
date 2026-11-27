@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T11:59:05.714Z
+// Last updated: 2026-11-27T12:26:08.670Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "神舟廿四號｜巴基斯坦航天員首登天宮　中巴「鐵杆友誼」飛向太空",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203076132400795648435798.jpeg/gJv-0VnLhywLhq-Zexkagq0lt_AHYVjO4MQE3-DEBN8",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60415790/%E7%A5%9E%E8%88%9F%E5%BB%BF%E5%9B%9B%E8%99%9F-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%93%A1%E9%A6%96%E7%99%BB%E5%A4%A9%E5%AE%AE-%E4%B8%AD%E5%B7%B4-%E9%90%B5%E6%9D%86%E5%8F%8B%E8%AA%BC-%E9%A3%9B%E5%90%91%E5%A4%AA%E7%A9%BA",
+    "timestamp": "2026-11-27T12:26:08.670Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "股市大跌　韓國女主持為鏡頭前落淚道歉：太多壞消息致淚崩｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172584627269799936814260.jpeg/7NfyXHXgLq5Kfv_O5mRbxK25VRovOctu2mWTh9plk4c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415582/%E6%B8%AF%E8%82%A1%E6%98%8E%E5%B9%B4%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB-%E6%BB%99%E8%B1%90%E7%A7%81%E9%8A%80%E5%8A%9B%E6%92%90-%E7%9B%AE%E6%A8%993%E8%90%AC%E9%BB%9E-%E7%9C%8B%E5%A5%BDai%E5%8F%8A%E9%AB%98%E6%81%AF%E8%82%A1",
     "timestamp": "2026-11-27T05:31:43.912Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "將軍澳明德邨明道樓中年婦家中暈倒　家人揭發惜為時已晚",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20220424/594970577882583040354091.jpeg/P1ip_8bKF9NxJylGWxRjDSsyJ2-ssBx7lp_boZaf26E?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415583/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%98%8E%E5%BE%B7%E9%82%A8%E6%98%8E%E9%81%93%E6%A8%93%E4%B8%AD%E5%B9%B4%E5%A9%A6%E5%AE%B6%E4%B8%AD%E6%9A%88%E5%80%92-%E5%AE%B6%E4%BA%BA%E6%8F%AD%E7%99%BC%E6%83%9C%E7%82%BA%E6%99%82%E5%B7%B2%E6%99%9A",
-    "timestamp": "2026-11-27T05:21:00.212Z",
     "strategy": ".content-card__main"
   }
 ];
