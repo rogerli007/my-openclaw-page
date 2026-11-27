@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T16:31:50.575Z
+// Last updated: 2026-11-27T16:45:35.493Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "鑲嵌型唐氏綜合症｜26歲四孩之母懷第3胎始確診 外觀與常人無異",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203141533033828352610923.jpeg/0EAj2QWNtFoFWRTHUJ9G5xB_BJHIUrpvMz8JnzM_CZ8?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%A6%AA%E5%AD%90/60415828/%E9%91%B2%E5%B5%8C%E5%9E%8B%E5%94%90%E6%B0%8F%E7%B6%9C%E5%90%88%E7%97%87-26%E6%AD%B2%E5%9B%9B%E5%AD%A9%E4%B9%8B%E6%AF%8D%E6%87%B7%E7%AC%AC3%E8%83%8E%E5%A7%8B%E7%A2%BA%E8%A8%BA-%E5%A4%96%E8%A7%80%E8%88%87%E5%B8%B8%E4%BA%BA%E7%84%A1%E7%95%B0",
+    "timestamp": "2026-11-27T16:45:35.493Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "LE SSERAFIM許允真挑戰性感極限　抹胸布料僅遮重點網民指似口罩",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203040525557436416729035.png/dqapX4CtwuE2gYkGkx3SjIUCYxeCEss1fXpnZ316Z2c?v=w1920r16_9",
     "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60415317/%E9%A0%A4%E5%B9%B4%E5%8D%A1%E7%94%B3%E8%AB%8B-%E5%85%8D%E8%B2%BB%E6%90%AD%E8%BB%8A-%E5%8F%83%E8%A7%80%E6%99%AF%E9%BB%9E16%E5%A4%A7%E7%A6%8F%E5%88%A9-%E7%94%B3%E8%AB%8B%E8%B3%87%E6%A0%BC-%E7%B6%B2%E4%B8%8A%E9%A0%90%E7%B4%84%E6%95%99%E5%AD%B8",
     "timestamp": "2026-11-27T09:45:44.999Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "《我芝訂》15集限定節目光榮結束  「三姐」原來鍾意重型大車輛",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203034024247824384468297.jpeg/ldVDX-cjbBe32auDKHJjl9IDmzh0WE3s4CwUz-AsFM8?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415734/%E6%88%91%E8%8A%9D%E8%A8%82-15%E9%9B%86%E9%99%90%E5%AE%9A%E7%AF%80%E7%9B%AE%E5%85%89%E6%A6%AE%E7%B5%90%E6%9D%9F-%E4%B8%89%E5%A7%90-%E5%8E%9F%E4%BE%86%E9%8D%BE%E6%84%8F%E9%87%8D%E5%9E%8B%E5%A4%A7%E8%BB%8A%E8%BC%9B",
-    "timestamp": "2026-11-27T09:32:46.132Z",
     "strategy": ".content-card__main"
   }
 ];
