@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T15:19:58.827Z
+// Last updated: 2026-11-27T15:45:37.346Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "1.02億六合彩周六晚攪珠　一文看清五大最旺號碼及十大幸運投注站",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/2404007/org/5e100428025bf6ff8e819f1de4bc24b1.jpg/TwzhfsTpyyx8EMDDSGS_xwcqIP_AhG-1raJECa2iRAk?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415824/1-02%E5%84%84%E5%85%AD%E5%90%88%E5%BD%A9%E5%91%A8%E5%85%AD%E6%99%9A%E6%94%AA%E7%8F%A0-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E4%BA%94%E5%A4%A7%E6%9C%80%E6%97%BA%E8%99%9F%E7%A2%BC%E5%8F%8A%E5%8D%81%E5%A4%A7%E5%B9%B8%E9%81%8B%E6%8A%95%E6%B3%A8%E7%AB%99",
+    "timestamp": "2026-11-27T15:45:37.346Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "一年16萬億盧布軍費花哪去？普京揪「大老鼠」　俄空天軍高層被捕",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203007755053436928486351.jpeg/RPRHGx3bso-jKOvHj3YsO2EsYlwy-Ultagt1mWoLdZk?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/60415580/rain%E9%A9%9A%E7%88%86%E6%82%A3%E8%84%82%E8%82%AA%E8%82%9D-%E6%9C%89%E8%85%B9%E8%82%8C%E5%A4%A9%E5%A4%A9%E5%81%A5%E8%BA%AB%E7%85%A7%E4%B8%AD%E6%8B%9B-%E5%B0%8F%E5%BF%835%E5%A4%A7%E5%82%B7%E8%82%9D%E9%A3%9F%E7%89%A9",
     "timestamp": "2026-11-27T08:23:47.731Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "雀巢奶粉再曝食安風險：澳版檢出嘔吐毒素　官方回應未進大陸市場",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203009501481930752634821.jpeg/lrZV_Y5uDzeLQe6AJz-rfVLnPLM2ENRV_KnjSfyp40k?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60415656/%E9%9B%80%E5%B7%A2%E5%A5%B6%E7%B2%89%E5%86%8D%E6%9B%9D%E9%A3%9F%E5%AE%89%E9%A2%A8%E9%9A%AA-%E6%BE%B3%E7%89%88%E6%AA%A2%E5%87%BA%E5%98%94%E5%90%90%E6%AF%92%E7%B4%A0-%E5%AE%98%E6%96%B9%E5%9B%9E%E6%87%89%E6%9C%AA%E9%80%B2%E5%A4%A7%E9%99%B8%E5%B8%82%E5%A0%B4",
-    "timestamp": "2026-11-27T07:59:13.068Z",
     "strategy": ".content-card__main"
   }
 ];
