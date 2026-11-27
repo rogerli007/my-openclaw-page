@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T10:45:14.928Z
+// Last updated: 2026-11-27T10:53:25.475Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "陳吉寧被查：過度考驗官員人性難持久　中國反腐不可錯失時間窗口",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20170309/148905101558c11d87c8aff.jpg/Q14q-Vr0QJD7vQb4w1QISGmDmL_A-4B3wlAP58JQD-c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60415723/%E9%99%B3%E5%90%89%E5%AF%A7%E8%A2%AB%E6%9F%A5-%E9%81%8E%E5%BA%A6%E8%80%83%E9%A9%97%E5%AE%98%E5%93%A1%E4%BA%BA%E6%80%A7%E9%9B%A3%E6%8C%81%E4%B9%85-%E4%B8%AD%E5%9C%8B%E5%8F%8D%E8%85%90%E4%B8%8D%E5%8F%AF%E9%8C%AF%E5%A4%B1%E6%99%82%E9%96%93%E7%AA%97%E5%8F%A3",
+    "timestamp": "2026-11-27T10:53:25.475Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港鐵「落馬洲濕地可持續發展項目」獲「亞洲都市景觀獎」",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202945128189136896208476.jpeg/YImdR9I_eiLZU6x2SJMDU2m0krpCkHf4eVw5lnlcOZY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415532/%E9%9D%92%E8%A1%A3%E5%AE%A2%E8%88%B9%E6%92%9E%E8%88%B9%E5%A1%A2-%E5%A4%9A%E5%90%8D%E5%82%B7%E8%80%85%E7%9B%B8%E7%B9%BC%E9%80%81%E9%99%A2-%E6%9C%89%E4%BA%BA%E8%87%A5%E6%93%94%E6%9E%B6%E5%BA%8A%E5%88%86%E9%A1%9E%E7%82%BA%E5%8D%B1%E6%80%A5",
     "timestamp": "2026-11-27T04:21:55.338Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美國東岸地區感恩節遭風暴吹襲癱瘓　逾90萬戶停電　大批航班受阻",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202945078255947776396180.jpeg/YQkyOU__GOSNnsR2rCvK2kQBzedMRX4Bl5A225eQNts?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415535/%E7%BE%8E%E5%9C%8B%E6%9D%B1%E5%B2%B8%E5%9C%B0%E5%8D%80%E6%84%9F%E6%81%A9%E7%AF%80%E9%81%AD%E9%A2%A8%E6%9A%B4%E5%90%B9%E8%A5%B2%E7%99%B1%E7%98%93-%E9%80%BE90%E8%90%AC%E6%88%B6%E5%81%9C%E9%9B%BB-%E5%A4%A7%E6%89%B9%E8%88%AA%E7%8F%AD%E5%8F%97%E9%98%BB",
-    "timestamp": "2026-11-27T03:59:03.410Z",
     "strategy": ".content-card__main"
   }
 ];
