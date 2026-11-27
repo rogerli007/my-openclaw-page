@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T08:23:47.731Z
+// Last updated: 2026-11-27T08:47:38.731Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "中九龍繞道12.6全線開通　工程零超支、零延誤　施工獲逾百個獎項",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203005177905287168732159.jpeg/6kLOSqhBF0S4ChDcYt02XSusSm332WpuNbdcZRC3XGU?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415651/%E4%B8%AD%E4%B9%9D%E9%BE%8D%E7%B9%9E%E9%81%9312-6%E5%85%A8%E7%B7%9A%E9%96%8B%E9%80%9A-%E5%B7%A5%E7%A8%8B%E9%9B%B6%E8%B6%85%E6%94%AF-%E9%9B%B6%E5%BB%B6%E8%AA%A4-%E6%96%BD%E5%B7%A5%E7%8D%B2%E9%80%BE%E7%99%BE%E5%80%8B%E7%8D%8E%E9%A0%85",
+    "timestamp": "2026-11-27T08:47:38.731Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "Rain驚爆患脂肪肝！有腹肌天天健身照中招 小心5大傷肝食物",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202927440117108736197246.jpeg/18uiOEjJp9RY__ZyMaqPGtw6_wfkHGAfh7WPpYe1j6U?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415494/%E9%AB%98%E9%80%9A%E8%84%B9%E7%B1%A0%E7%BD%A9%E7%BE%8E%E5%9C%8B-%E9%BB%91%E4%BA%94-%E6%B6%88%E8%B2%BB%E8%80%85%E8%BD%89%E8%B6%A8%E7%B2%BE%E6%89%93%E7%B4%B0%E7%AE%97-%E8%97%89ai%E6%AF%94%E5%83%B9%E6%90%B6%E6%97%A5%E7%94%A8%E5%93%81",
     "timestamp": "2026-11-27T02:24:49.857Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "特朗普稱不確定普京會否出席12月G20會議　惟歡迎對方與會",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202918731638902784829761.jpeg/C_edS7LTUUqxqZeJXQnQTm4TQlsY9ZssUOmDp1Dpg6c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415488/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%99%AE%E4%BA%AC%E6%9C%83%E5%90%A6%E5%87%BA%E5%B8%AD12%E6%9C%88g20%E6%9C%83%E8%AD%B0-%E6%83%9F%E6%AD%A1%E8%BF%8E%E5%B0%8D%E6%96%B9%E8%88%87%E6%9C%83",
-    "timestamp": "2026-11-27T01:59:11.450Z",
     "strategy": ".content-card__main"
   }
 ];
