@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T05:31:43.912Z
+// Last updated: 2026-11-27T05:45:56.355Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "青衣撞船｜航拍「新迅隆貳號」　整體損毀不嚴重　集中10米濶船頭",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202977717545340928152043.jpeg/o4rbzLhX3nuZRlbNJDTxD0v5sKy6qqxgfJb2R3yW9kc?v=w1920",
+    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415599/%E9%9D%92%E8%A1%A3%E6%92%9E%E8%88%B9-%E8%88%AA%E6%8B%8D-%E6%96%B0%E8%BF%85%E9%9A%86%E8%B2%B3%E8%99%9F-%E6%95%B4%E9%AB%94%E6%90%8D%E6%AF%80%E4%B8%8D%E5%9A%B4%E9%87%8D-%E9%9B%86%E4%B8%AD10%E7%B1%B3%E6%BF%B6%E8%88%B9%E9%A0%AD",
+    "timestamp": "2026-11-27T05:45:56.355Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "港股明年鹹魚翻身？　滙豐私銀力撐︰目標3萬點　看好AI及高息股",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202729670873714688163879.jpeg/3tPfq9VoQw1jpXr7PGGqU5hO1sMIiQ6obrZGpW62RqU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415333/%E9%98%BF%E5%8F%BB%E7%88%86%E5%BD%B1%E5%B8%9D%E5%8F%A4%E5%A4%A9%E6%A8%82%E6%97%A9%E5%B9%B4%E6%9C%AA%E7%B4%85%E5%BE%80%E4%BA%8B-%E4%B8%80%E5%8F%A5%E9%81%93%E7%A0%B4%E5%85%A9%E4%BA%BA%E4%BA%A4%E6%83%85-%E8%80%8C%E5%AE%B6%E5%86%87%E5%92%81%E5%98%85%E4%BA%BA",
     "timestamp": "2026-11-26T22:45:13.671Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "仲點論政｜世界灣區聯盟　香港獲益無窮",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202677955734540288370142.jpeg/duMk58dFy7EKuIBGogjkXLGH-Tqc1m7G9rYipPa2IqQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60415369/%E4%BB%B2%E9%BB%9E%E8%AB%96%E6%94%BF-%E4%B8%96%E7%95%8C%E7%81%A3%E5%8D%80%E8%81%AF%E7%9B%9F-%E9%A6%99%E6%B8%AF%E7%8D%B2%E7%9B%8A%E7%84%A1%E7%AA%AE",
-    "timestamp": "2026-11-26T22:19:52.238Z",
     "strategy": ".content-card__main"
   }
 ];
