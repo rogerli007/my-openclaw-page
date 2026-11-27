@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T03:35:54.288Z
+// Last updated: 2026-11-27T03:59:03.410Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美國東岸地區感恩節遭風暴吹襲癱瘓　逾90萬戶停電　大批航班受阻",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202945078255947776396180.jpeg/YQkyOU__GOSNnsR2rCvK2kQBzedMRX4Bl5A225eQNts?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415535/%E7%BE%8E%E5%9C%8B%E6%9D%B1%E5%B2%B8%E5%9C%B0%E5%8D%80%E6%84%9F%E6%81%A9%E7%AF%80%E9%81%AD%E9%A2%A8%E6%9A%B4%E5%90%B9%E8%A5%B2%E7%99%B1%E7%98%93-%E9%80%BE90%E8%90%AC%E6%88%B6%E5%81%9C%E9%9B%BB-%E5%A4%A7%E6%89%B9%E8%88%AA%E7%8F%AD%E5%8F%97%E9%98%BB",
+    "timestamp": "2026-11-27T03:59:03.410Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "印度最窮邦政客擲850萬美元嫁女　40萬人赴宴　現場賓客搶食奪菜",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
     "timestamp": "2026-11-26T19:59:04.486Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "歐元區推選西班牙德科斯出任新歐洲央行長　明年2月接替拉加德",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202810628385804288712650.jpeg/l-R4_hiFxY4i0VUkH9eqZtgAoB1L27E6vwqqFL8KqhQ?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415462/%E6%AD%90%E5%85%83%E5%8D%80%E6%8E%A8%E9%81%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E7%A7%91%E6%96%AF%E5%87%BA%E4%BB%BB%E6%96%B0%E6%AD%90%E6%B4%B2%E5%A4%AE%E8%A1%8C%E9%95%B7-%E6%98%8E%E5%B9%B42%E6%9C%88%E6%8E%A5%E6%9B%BF%E6%8B%89%E5%8A%A0%E5%BE%B7",
-    "timestamp": "2026-11-26T19:45:58.425Z",
     "strategy": ".content-card__main"
   }
 ];
