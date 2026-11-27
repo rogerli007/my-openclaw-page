@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T16:21:12.397Z
+// Last updated: 2026-11-27T16:31:50.575Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "LE SSERAFIM許允真挑戰性感極限　抹胸布料僅遮重點網民指似口罩",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203017091007909888216978.jpeg/8V_Z_huzVSSeE7PuODPwebJYfdikoqwLV1KooVdSqKE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60415677/le-sserafim%E8%A8%B1%E5%85%81%E7%9C%9F%E6%8C%91%E6%88%B0%E6%80%A7%E6%84%9F%E6%A5%B5%E9%99%90-%E6%8A%B9%E8%83%B8%E5%B8%83%E6%96%99%E5%83%85%E9%81%AE%E9%87%8D%E9%BB%9E%E7%B6%B2%E6%B0%91%E6%8C%87%E4%BC%BC%E5%8F%A3%E7%BD%A9",
+    "timestamp": "2026-11-27T16:31:50.575Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "iPhone無廣告YouTube神器｜YouPlay限時免費！支援畫中畫AirPlay",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203034024247824384468297.jpeg/ldVDX-cjbBe32auDKHJjl9IDmzh0WE3s4CwUz-AsFM8?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415734/%E6%88%91%E8%8A%9D%E8%A8%82-15%E9%9B%86%E9%99%90%E5%AE%9A%E7%AF%80%E7%9B%AE%E5%85%89%E6%A6%AE%E7%B5%90%E6%9D%9F-%E4%B8%89%E5%A7%90-%E5%8E%9F%E4%BE%86%E9%8D%BE%E6%84%8F%E9%87%8D%E5%9E%8B%E5%A4%A7%E8%BB%8A%E8%BC%9B",
     "timestamp": "2026-11-27T09:32:46.132Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "美團Q3經調整溢利18.5億人幣　按年轉盈　營收增兩成",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20250820/1034850177418006528810235.png/0yr47mMdukgnA_EDueZeTePKQ3zebpq6yNKVZcjSlWU?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415696/%E7%BE%8E%E5%9C%98q3%E7%B6%93%E8%AA%BF%E6%95%B4%E6%BA%A2%E5%88%A918-5%E5%84%84%E4%BA%BA%E5%B9%A3-%E6%8C%89%E5%B9%B4%E8%BD%89%E7%9B%88-%E7%87%9F%E6%94%B6%E5%A2%9E%E5%85%A9%E6%88%90",
-    "timestamp": "2026-11-27T08:59:04.772Z",
     "strategy": ".content-card__main"
   }
 ];
