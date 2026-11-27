@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T06:28:30.889Z
+// Last updated: 2026-11-27T06:53:08.738Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "DHL墨西哥送PS5當鉛球掟過高牆　易碎包裹砸凹惹眾怒｜有片",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202993801518387200985260.jpeg/Z1SUI12PZTGkrKL9DN9TmObeL7hwQmZQr-jKwa_oysE?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415612/dhl%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%80%81ps5%E7%95%B6%E9%89%9B%E7%90%83%E6%8E%9F%E9%81%8E%E9%AB%98%E7%89%86-%E6%98%93%E7%A2%8E%E5%8C%85%E8%A3%B9%E7%A0%B8%E5%87%B9%E6%83%B9%E7%9C%BE%E6%80%92-%E6%9C%89%E7%89%87",
+    "timestamp": "2026-11-27T06:53:08.738Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "珍惜生命︱尖沙咀重慶大廈男子墮樓　倒臥天井　昏迷送院搶救",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202897493247922176079658.jpeg/N6XREIRlAkvUTWM59FNg2fXnH8vYv-b9rfYlcK32JXA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415476/%E5%A4%AA%E5%8F%A4harvey-nichols-%E6%97%BA%E8%A7%92beauty-avenue%E6%98%8E%E5%B9%B4%E7%B5%90%E6%A5%AD-%E5%BB%B8%E7%94%9F%E9%80%A3%E9%97%9C3%E5%90%8D%E5%BA%97",
     "timestamp": "2026-11-27T00:37:28.977Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "宏福苑一周年｜凌晨最高峰30人逗留悼念　4男路旁搬花放回花堆",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202835074626621440413972.jpeg/_C2n0ZHX5s3lNDG4_iEMgt87RBE58av2C0ejBjFHowY?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415468/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%80%E5%91%A8%E5%B9%B4-%E5%87%8C%E6%99%A8%E6%9C%80%E9%AB%98%E5%B3%B030%E4%BA%BA%E9%80%97%E7%95%99%E6%82%BC%E5%BF%B5-4%E7%94%B7%E8%B7%AF%E6%97%81%E6%90%AC%E8%8A%B1%E6%94%BE%E5%9B%9E%E8%8A%B1%E5%A0%86",
-    "timestamp": "2026-11-26T23:58:55.259Z",
     "strategy": ".content-card__main"
   }
 ];
