@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T18:21:59.617Z
+// Last updated: 2026-11-27T18:33:46.614Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "美軍阿曼灣攔阻試圖離開伊朗商船　德黑蘭誓言對抗封鎖",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261128/1203170402860273664564798.png/tVYKi0KeW1L7JPpgoD8n80zWtWl1lm2PzAAr9cwAK_U?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415837/%E7%BE%8E%E8%BB%8D%E9%98%BF%E6%9B%BC%E7%81%A3%E6%94%94%E9%98%BB%E8%A9%A6%E5%9C%96%E9%9B%A2%E9%96%8B%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9-%E5%BE%B7%E9%BB%91%E8%98%AD%E8%AA%93%E8%A8%80%E5%B0%8D%E6%8A%97%E5%B0%81%E9%8E%96",
+    "timestamp": "2026-11-27T18:33:46.614Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯指控拉脫維亞阻礙糧食過境　普京稱將持續推動海軍現代化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203072473885577216193248.jpeg/I6H7S7z_dzWFOe0XR90UmFArlVvEfzTAD5npdQ-Z6XU?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415782/%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C-%E9%9F%93%E5%9C%8B%E5%A5%B3%E4%B8%BB%E6%8C%81%E7%82%BA%E9%8F%A1%E9%A0%AD%E5%89%8D%E8%90%BD%E6%B7%9A%E9%81%93%E6%AD%89-%E5%A4%AA%E5%A4%9A%E5%A3%9E%E6%B6%88%E6%81%AF%E8%87%B4%E6%B7%9A%E5%B4%A9-%E6%9C%89%E7%89%87",
     "timestamp": "2026-11-27T11:59:05.714Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "羅天宇爆陪未來外夫外母打Golf　唔使讓賽：佢哋好勁",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203001992260096000864093.jpeg/qaVH3vIVCarKfwXWPUuyTn0mPOlNmDpAwf7LIsH-yyI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415642/%E7%BE%85%E5%A4%A9%E5%AE%87%E7%88%86%E9%99%AA%E6%9C%AA%E4%BE%86%E5%A4%96%E5%A4%AB%E5%A4%96%E6%AF%8D%E6%89%93golf-%E5%94%94%E4%BD%BF%E8%AE%93%E8%B3%BD-%E4%BD%A2%E5%93%8B%E5%A5%BD%E5%8B%81",
-    "timestamp": "2026-11-27T11:46:01.855Z",
     "strategy": ".content-card__main"
   }
 ];
