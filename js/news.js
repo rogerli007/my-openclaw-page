@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T05:21:00.212Z
+// Last updated: 2026-11-27T05:31:43.912Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "港股明年鹹魚翻身？　滙豐私銀力撐︰目標3萬點　看好AI及高息股",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20260904/1172584627269799936814260.jpeg/7NfyXHXgLq5Kfv_O5mRbxK25VRovOctu2mWTh9plk4c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415582/%E6%B8%AF%E8%82%A1%E6%98%8E%E5%B9%B4%E9%B9%B9%E9%AD%9A%E7%BF%BB%E8%BA%AB-%E6%BB%99%E8%B1%90%E7%A7%81%E9%8A%80%E5%8A%9B%E6%92%90-%E7%9B%AE%E6%A8%993%E8%90%AC%E9%BB%9E-%E7%9C%8B%E5%A5%BDai%E5%8F%8A%E9%AB%98%E6%81%AF%E8%82%A1",
+    "timestamp": "2026-11-27T05:31:43.912Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "將軍澳明德邨明道樓中年婦家中暈倒　家人揭發惜為時已晚",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202677955734540288370142.jpeg/duMk58dFy7EKuIBGogjkXLGH-Tqc1m7G9rYipPa2IqQ?v=w1920r16_9",
     "url": "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60415369/%E4%BB%B2%E9%BB%9E%E8%AB%96%E6%94%BF-%E4%B8%96%E7%95%8C%E7%81%A3%E5%8D%80%E8%81%AF%E7%9B%9F-%E9%A6%99%E6%B8%AF%E7%8D%B2%E7%9B%8A%E7%84%A1%E7%AA%AE",
     "timestamp": "2026-11-26T22:19:52.238Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "屯門帝灣居單位遭爆竊　賊人撬窗掠走$74萬財物　包括勞力士名錶",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202844288166137856358092.jpeg/bUc07kgbO5H7bAF0z1N0i9xzk0kK5fNFzsdhwc7HYcE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415471/%E5%B1%AF%E9%96%80%E5%B8%9D%E7%81%A3%E5%B1%85%E5%96%AE%E4%BD%8D%E9%81%AD%E7%88%86%E7%AB%8A-%E8%B3%8A%E4%BA%BA%E6%92%AC%E7%AA%97%E6%8E%A0%E8%B5%B0-74%E8%90%AC%E8%B2%A1%E7%89%A9-%E5%8C%85%E6%8B%AC%E5%8B%9E%E5%8A%9B%E5%A3%AB%E5%90%8D%E9%8C%B6",
-    "timestamp": "2026-11-26T21:45:27.980Z",
     "strategy": ".content-card__main"
   }
 ];
