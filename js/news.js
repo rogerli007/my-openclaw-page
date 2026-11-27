@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T14:59:02.152Z
+// Last updated: 2026-11-27T15:19:58.827Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "一年16萬億盧布軍費花哪去？普京揪「大老鼠」　俄空天軍高層被捕",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203114368498143232134670.png/_ql9guCk36Z5Sy8uf51UgZ9zZBz_PtpJQzyxg0M8sYM?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415823/%E4%B8%80%E5%B9%B416%E8%90%AC%E5%84%84%E7%9B%A7%E5%B8%83%E8%BB%8D%E8%B2%BB%E8%8A%B1%E5%93%AA%E5%8E%BB-%E6%99%AE%E4%BA%AC%E6%8F%AA-%E5%A4%A7%E8%80%81%E9%BC%A0-%E4%BF%84%E7%A9%BA%E5%A4%A9%E8%BB%8D%E9%AB%98%E5%B1%A4%E8%A2%AB%E6%8D%95",
+    "timestamp": "2026-11-27T15:19:58.827Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "黃建東瑪姬現身沙田校園講座爆笑「互窒」　自揭童年踩單車黑歷史",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203009501481930752634821.jpeg/lrZV_Y5uDzeLQe6AJz-rfVLnPLM2ENRV_KnjSfyp40k?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60415656/%E9%9B%80%E5%B7%A2%E5%A5%B6%E7%B2%89%E5%86%8D%E6%9B%9D%E9%A3%9F%E5%AE%89%E9%A2%A8%E9%9A%AA-%E6%BE%B3%E7%89%88%E6%AA%A2%E5%87%BA%E5%98%94%E5%90%90%E6%AF%92%E7%B4%A0-%E5%AE%98%E6%96%B9%E5%9B%9E%E6%87%89%E6%9C%AA%E9%80%B2%E5%A4%A7%E9%99%B8%E5%B8%82%E5%A0%B4",
     "timestamp": "2026-11-27T07:59:13.068Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "趙昭儀上賴冠霖節目揭片場潛規則　通宵拍戲被導演要求「露出來」",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202994174937272320607148.png/Ij9gX3TQwKnDI9oODJl2cGYSv2lPdh2J03sg59N7IOc?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415601/%E8%B6%99%E6%98%AD%E5%84%80%E4%B8%8A%E8%B3%B4%E5%86%A0%E9%9C%96%E7%AF%80%E7%9B%AE%E6%8F%AD%E7%89%87%E5%A0%B4%E6%BD%9B%E8%A6%8F%E5%89%87-%E9%80%9A%E5%AE%B5%E6%8B%8D%E6%88%B2%E8%A2%AB%E5%B0%8E%E6%BC%94%E8%A6%81%E6%B1%82-%E9%9C%B2%E5%87%BA%E4%BE%86",
-    "timestamp": "2026-11-27T07:30:30.799Z",
     "strategy": ".content-card__main"
   }
 ];
