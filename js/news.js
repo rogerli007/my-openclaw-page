@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T06:53:08.738Z
+// Last updated: 2026-11-27T07:21:57.089Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "趙昭儀上賴冠霖節目揭片場潛規則　通宵拍戲被導演要求「露出來」",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202994174937272320607148.png/Ij9gX3TQwKnDI9oODJl2cGYSv2lPdh2J03sg59N7IOc?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415601/%E8%B6%99%E6%98%AD%E5%84%80%E4%B8%8A%E8%B3%B4%E5%86%A0%E9%9C%96%E7%AF%80%E7%9B%AE%E6%8F%AD%E7%89%87%E5%A0%B4%E6%BD%9B%E8%A6%8F%E5%89%87-%E9%80%9A%E5%AE%B5%E6%8B%8D%E6%88%B2%E8%A2%AB%E5%B0%8E%E6%BC%94%E8%A6%81%E6%B1%82-%E9%9C%B2%E5%87%BA%E4%BE%86",
+    "timestamp": "2026-11-27T07:21:57.089Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "DHL墨西哥送PS5當鉛球掟過高牆　易碎包裹砸凹惹眾怒｜有片",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202897493247922176079658.jpeg/N6XREIRlAkvUTWM59FNg2fXnH8vYv-b9rfYlcK32JXA?v=w1920r16_9",
     "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415476/%E5%A4%AA%E5%8F%A4harvey-nichols-%E6%97%BA%E8%A7%92beauty-avenue%E6%98%8E%E5%B9%B4%E7%B5%90%E6%A5%AD-%E5%BB%B8%E7%94%9F%E9%80%A3%E9%97%9C3%E5%90%8D%E5%BA%97",
     "timestamp": "2026-11-27T00:58:47.468Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "太古Harvey Nichols、旺角Beauty Avenue明年結業　廸生連關3名店",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202897493247922176079658.jpeg/N6XREIRlAkvUTWM59FNg2fXnH8vYv-b9rfYlcK32JXA?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415476/%E5%A4%AA%E5%8F%A4harvey-nichols-%E6%97%BA%E8%A7%92beauty-avenue%E6%98%8E%E5%B9%B4%E7%B5%90%E6%A5%AD-%E5%BB%B8%E7%94%9F%E9%80%A3%E9%97%9C3%E5%90%8D%E5%BA%97",
-    "timestamp": "2026-11-27T00:37:28.977Z",
     "strategy": ".content-card__main"
   }
 ];
