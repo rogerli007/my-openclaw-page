@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T01:31:04.449Z
+// Last updated: 2026-11-27T01:48:31.806Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "查理斯生日宴拒邀哈里全家！開支大破冰無望　英媒嘲王子無家可歸",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202685103046660096309715.png/rukbgkLw2seTFJTnuL5teusjGk6OzmnlRLJjw0SyY8M",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415342/%E6%9F%A5%E7%90%86%E6%96%AF%E7%94%9F%E6%97%A5%E5%AE%B4%E6%8B%92%E9%82%80%E5%93%88%E9%87%8C%E5%85%A8%E5%AE%B6-%E9%96%8B%E6%94%AF%E5%A4%A7%E7%A0%B4%E5%86%B0%E7%84%A1%E6%9C%9B-%E8%8B%B1%E5%AA%92%E5%98%B2%E7%8E%8B%E5%AD%90%E7%84%A1%E5%AE%B6%E5%8F%AF%E6%AD%B8",
+    "timestamp": "2026-11-27T01:48:31.806Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "粉嶺萃雲路挖泥機凌晨起火　現場檢天拿水　列縱火案追查",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202717829258809344460387.jpeg/KkHIfsUK8LJDjKsHkepvHZPGxg3ch-v0CobCwgqGwsI?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415426/%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B8%80%E4%BB%A3%E7%BF%BC%E9%8B%92%E5%8F%B2%E9%81%94%E5%AF%A7%E6%AF%92%E9%A7%95%E7%BD%AA%E6%88%90-%E6%9B%BE%E9%A2%A8%E5%85%89%E7%84%A1%E9%99%90-%E9%9B%A2%E9%96%8B%E6%9B%BC%E5%9F%8E%E6%96%B7%E5%B4%96%E5%BC%8F%E6%BB%91%E8%90%BD",
     "timestamp": "2026-11-26T17:45:34.006Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "英格蘭一代翼鋒史達寧毒駕罪成　曾風光無限　離開曼城斷崖式滑落",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261126/1202717829258809344460387.jpeg/KkHIfsUK8LJDjKsHkepvHZPGxg3ch-v0CobCwgqGwsI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60415426/%E8%8B%B1%E6%A0%BC%E8%98%AD%E4%B8%80%E4%BB%A3%E7%BF%BC%E9%8B%92%E5%8F%B2%E9%81%94%E5%AF%A7%E6%AF%92%E9%A7%95%E7%BD%AA%E6%88%90-%E6%9B%BE%E9%A2%A8%E5%85%89%E7%84%A1%E9%99%90-%E9%9B%A2%E9%96%8B%E6%9B%BC%E5%9F%8E%E6%96%B7%E5%B4%96%E5%BC%8F%E6%BB%91%E8%90%BD",
-    "timestamp": "2026-11-26T17:29:47.334Z",
     "strategy": ".content-card__main"
   }
 ];
