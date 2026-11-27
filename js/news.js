@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T16:59:04.158Z
+// Last updated: 2026-11-27T17:19:08.651Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯指控拉脫維亞阻礙糧食過境　普京稱將持續推動海軍現代化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070831282763599872120394.jpeg/Gxe1_JkmgdH1A0-m4dhZ6GnPBWQj7BSJ3p8lEt6fJRI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415836/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E6%8E%A7%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E9%98%BB%E7%A4%99%E7%B3%A7%E9%A3%9F%E9%81%8E%E5%A2%83-%E6%99%AE%E4%BA%AC%E7%A8%B1%E5%B0%87%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E6%B5%B7%E8%BB%8D%E7%8F%BE%E4%BB%A3%E5%8C%96",
+    "timestamp": "2026-11-27T17:19:08.651Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "馬鞍山兩車撞　兩司機受傷送院　Tesla司機報稱閃避動物越線肇禍",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203045649839296512416279.jpeg/rMSbs0xVUg_Hk8POP-cTKpuzbc_UkCZwqc-8bKnPvGw?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415760/%E6%B8%AF%E9%90%B5-%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%BF%95%E5%9C%B0%E5%8F%AF%E6%8C%81%E7%BA%8C%E7%99%BC%E5%B1%95%E9%A0%85%E7%9B%AE-%E7%8D%B2-%E4%BA%9E%E6%B4%B2%E9%83%BD%E5%B8%82%E6%99%AF%E8%A7%80%E7%8D%8E",
     "timestamp": "2026-11-27T10:45:14.928Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "周志文周志康演唱會麥花臣開鑼　昔日網台音樂節目搬上實體騷",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203021391322943488087916.jpeg/LQibYaRtO7auh24uFtPIg5bMii6phGns8QVXtfEFV7U?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60415693/%E5%91%A8%E5%BF%97%E6%96%87%E5%91%A8%E5%BF%97%E5%BA%B7%E6%BC%94%E5%94%B1%E6%9C%83%E9%BA%A5%E8%8A%B1%E8%87%A3%E9%96%8B%E9%91%BC-%E6%98%94%E6%97%A5%E7%B6%B2%E5%8F%B0%E9%9F%B3%E6%A8%82%E7%AF%80%E7%9B%AE%E6%90%AC%E4%B8%8A%E5%AF%A6%E9%AB%94%E9%A8%B7",
-    "timestamp": "2026-11-27T10:20:42.768Z",
     "strategy": ".content-card__main"
   }
 ];
