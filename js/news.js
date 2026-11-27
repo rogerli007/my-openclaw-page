@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T17:45:24.820Z
+// Last updated: 2026-11-27T17:59:04.210Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "俄羅斯指控拉脫維亞阻礙糧食過境　普京稱將持續推動海軍現代化",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20251127/1070831282763599872120394.jpeg/Gxe1_JkmgdH1A0-m4dhZ6GnPBWQj7BSJ3p8lEt6fJRI?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415836/%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%87%E6%8E%A7%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E9%98%BB%E7%A4%99%E7%B3%A7%E9%A3%9F%E9%81%8E%E5%A2%83-%E6%99%AE%E4%BA%AC%E7%A8%B1%E5%B0%87%E6%8C%81%E7%BA%8C%E6%8E%A8%E5%8B%95%E6%B5%B7%E8%BB%8D%E7%8F%BE%E4%BB%A3%E5%8C%96",
+    "timestamp": "2026-11-27T17:59:04.210Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "俄羅斯指控拉脫維亞阻礙糧食過境　普京稱將持續推動海軍現代化",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203055212357488640875102.jpeg/1sopA3U7Eh-EEeU3xKTsLEZkUg_jRqTfImrhZiJq4WY?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415751/63%E6%AD%B2%E8%8B%91%E7%93%8A%E4%B8%B9%E5%A4%A7%E8%AE%8A%E6%A8%A3%E8%A2%AB%E8%AA%A4%E8%AA%8D%E7%82%BA-%E9%BA%A5%E7%8E%B2%E7%8E%B2-%E8%8B%91%E4%BB%94%E8%A6%AA%E8%A7%A3%E5%8E%9F%E5%9B%A0-%E6%9C%89%E5%A4%A7%E5%B8%AB%E6%8C%87%E9%BB%9E",
     "timestamp": "2026-11-27T11:19:38.401Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "陳吉寧被查：過度考驗官員人性難持久　中國反腐不可錯失時間窗口",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20170309/148905101558c11d87c8aff.jpg/Q14q-Vr0QJD7vQb4w1QISGmDmL_A-4B3wlAP58JQD-c?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60415723/%E9%99%B3%E5%90%89%E5%AF%A7%E8%A2%AB%E6%9F%A5-%E9%81%8E%E5%BA%A6%E8%80%83%E9%A9%97%E5%AE%98%E5%93%A1%E4%BA%BA%E6%80%A7%E9%9B%A3%E6%8C%81%E4%B9%85-%E4%B8%AD%E5%9C%8B%E5%8F%8D%E8%85%90%E4%B8%8D%E5%8F%AF%E9%8C%AF%E5%A4%B1%E6%99%82%E9%96%93%E7%AA%97%E5%8F%A3",
-    "timestamp": "2026-11-27T10:53:25.475Z",
     "strategy": ".content-card__main"
   }
 ];
