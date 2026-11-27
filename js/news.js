@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T21:30:03.463Z
+// Last updated: 2026-11-27T21:59:02.105Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "哈馬斯領導人之子在以軍暗殺行動中倖存　另外四子先前皆遭殺害",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203084812592877568427163.jpeg/pgWizbxvMiVN0bVzXk-ObEptMKIG2pIOm4qwSJuKsEg?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415846/%E5%93%88%E9%A6%AC%E6%96%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E4%B9%8B%E5%AD%90%E5%9C%A8%E4%BB%A5%E8%BB%8D%E6%9A%97%E6%AE%BA%E8%A1%8C%E5%8B%95%E4%B8%AD%E5%80%96%E5%AD%98-%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AD%90%E5%85%88%E5%89%8D%E7%9A%86%E9%81%AD%E6%AE%BA%E5%AE%B3",
+    "timestamp": "2026-11-27T21:59:02.105Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "哈馬斯領導人之子在以軍暗殺行動中倖存　另外四子先前皆遭殺害",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203017091007909888216978.jpeg/8V_Z_huzVSSeE7PuODPwebJYfdikoqwLV1KooVdSqKE?v=w1920r16_9",
     "url": "https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E5%A8%9B%E6%A8%82/60415677/le-sserafim%E8%A8%B1%E5%85%81%E7%9C%9F%E6%8C%91%E6%88%B0%E6%80%A7%E6%84%9F%E6%A5%B5%E9%99%90-%E6%8A%B9%E8%83%B8%E5%B8%83%E6%96%99%E5%83%85%E9%81%AE%E9%87%8D%E9%BB%9E%E7%B6%B2%E6%B0%91%E6%8C%87%E4%BC%BC%E5%8F%A3%E7%BD%A9",
     "timestamp": "2026-11-27T16:31:50.575Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "iPhone無廣告YouTube神器｜YouPlay限時免費！支援畫中畫AirPlay",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203017785031004160150268.jpeg/Hwp4EmjVGQW_uu77hFIDQa6Z_d10_FdyKkffkCpH35A?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60415638/iphone%E7%84%A1%E5%BB%A3%E5%91%8Ayoutube%E7%A5%9E%E5%99%A8-youplay%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB-%E6%94%AF%E6%8F%B4%E7%95%AB%E4%B8%AD%E7%95%ABairplay",
-    "timestamp": "2026-11-27T16:21:12.397Z",
     "strategy": ".content-card__main"
   }
 ];
