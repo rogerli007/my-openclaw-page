@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T09:32:46.132Z
+// Last updated: 2026-11-27T09:45:44.999Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "頤年卡申請｜免費搭車+參觀景點16大福利　申請資格+網上預約教學",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203040525557436416729035.png/dqapX4CtwuE2gYkGkx3SjIUCYxeCEss1fXpnZ316Z2c?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E9%95%B7%E8%80%85%E5%84%AA%E6%83%A0/60415317/%E9%A0%A4%E5%B9%B4%E5%8D%A1%E7%94%B3%E8%AB%8B-%E5%85%8D%E8%B2%BB%E6%90%AD%E8%BB%8A-%E5%8F%83%E8%A7%80%E6%99%AF%E9%BB%9E16%E5%A4%A7%E7%A6%8F%E5%88%A9-%E7%94%B3%E8%AB%8B%E8%B3%87%E6%A0%BC-%E7%B6%B2%E4%B8%8A%E9%A0%90%E7%B4%84%E6%95%99%E5%AD%B8",
+    "timestamp": "2026-11-27T09:45:44.999Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "《我芝訂》15集限定節目光榮結束  「三姐」原來鍾意重型大車輛",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/2139056/org/0b6d6f54c6eac4225751ca757caba7cd.jpg/65ub_sVFOwoM-fjKEGPPft34xH2CVakxeL5D8Hi-Q_A?v=w1920r16_9",
     "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415478/%E7%A7%80%E8%8C%82%E5%9D%AA%E5%AF%B6%E9%81%94%E9%82%A8%E9%81%94%E7%A5%A5%E6%A8%93%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93%E8%BA%AB%E4%BA%A1-%E8%AD%A6%E8%BF%BD%E6%9F%A5%E8%BA%AB%E4%BB%BD%E5%8F%8A%E5%A2%AE%E6%A8%93%E5%8E%9F%E5%9B%A0",
     "timestamp": "2026-11-27T03:22:56.522Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "護照冷知識｜揭全球僅4色背後密碼！古早護照相片可以是全家福",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202927189004128256352081.jpeg/WSmnZRLO58S6XIww6ySk4hAeGY6H5wLSUKHAYlChwGI?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E9%96%8B%E7%BD%90/60415337/%E8%AD%B7%E7%85%A7%E5%86%B7%E7%9F%A5%E8%AD%98-%E6%8F%AD%E5%85%A8%E7%90%83%E5%83%854%E8%89%B2%E8%83%8C%E5%BE%8C%E5%AF%86%E7%A2%BC-%E5%8F%A4%E6%97%A9%E8%AD%B7%E7%85%A7%E7%9B%B8%E7%89%87%E5%8F%AF%E4%BB%A5%E6%98%AF%E5%85%A8%E5%AE%B6%E7%A6%8F",
-    "timestamp": "2026-11-27T02:59:04.293Z",
     "strategy": ".content-card__main"
   }
 ];
