@@ -1,9 +1,17 @@
 // /js/news.js - HK01 News Data
 // This file is auto-updated by scrape-hk01.js script
-// Last updated: 2026-11-27T14:20:45.619Z
+// Last updated: 2026-11-27T14:45:49.939Z
 // Total items: 20
 
 const hk01News = [
+  {
+    "headline": "台灣選舉｜蔣萬安凱道選前之夜湧15萬支持者　沈伯洋轉戰線上直播",
+    "summary": "",
+    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1203111174061690880015249.jpeg/TlaN3xdoXtzl9fry3856tdhzrkTOmDpJK5SfNiuUnzY?v=w1920r16_9",
+    "url": "https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60415822/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89-%E8%94%A3%E8%90%AC%E5%AE%89%E5%87%B1%E9%81%93%E9%81%B8%E5%89%8D%E4%B9%8B%E5%A4%9C%E6%B9%A715%E8%90%AC%E6%94%AF%E6%8C%81%E8%80%85-%E6%B2%88%E4%BC%AF%E6%B4%8B%E8%BD%89%E6%88%B0%E7%B7%9A%E4%B8%8A%E7%9B%B4%E6%92%AD",
+    "timestamp": "2026-11-27T14:45:49.939Z",
+    "strategy": ".content-card__main"
+  },
   {
     "headline": "「Suica企鵝」明年退役　JR東日本證實銅像將拆　同名廣場也改名",
     "summary": "",
@@ -154,14 +162,6 @@ const hk01News = [
     "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202994174937272320607148.png/Ij9gX3TQwKnDI9oODJl2cGYSv2lPdh2J03sg59N7IOc?v=w1920r16_9",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60415601/%E8%B6%99%E6%98%AD%E5%84%80%E4%B8%8A%E8%B3%B4%E5%86%A0%E9%9C%96%E7%AF%80%E7%9B%AE%E6%8F%AD%E7%89%87%E5%A0%B4%E6%BD%9B%E8%A6%8F%E5%89%87-%E9%80%9A%E5%AE%B5%E6%8B%8D%E6%88%B2%E8%A2%AB%E5%B0%8E%E6%BC%94%E8%A6%81%E6%B1%82-%E9%9C%B2%E5%87%BA%E4%BE%86",
     "timestamp": "2026-11-27T07:21:57.089Z",
-    "strategy": ".content-card__main"
-  },
-  {
-    "headline": "DHL墨西哥送PS5當鉛球掟過高牆　易碎包裹砸凹惹眾怒｜有片",
-    "summary": "",
-    "image": "https://cdn.hk01.com/di/media/images/dw/20261127/1202993801518387200985260.jpeg/Z1SUI12PZTGkrKL9DN9TmObeL7hwQmZQr-jKwa_oysE?v=w1920r16_9",
-    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60415612/dhl%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%80%81ps5%E7%95%B6%E9%89%9B%E7%90%83%E6%8E%9F%E9%81%8E%E9%AB%98%E7%89%86-%E6%98%93%E7%A2%8E%E5%8C%85%E8%A3%B9%E7%A0%B8%E5%87%B9%E6%83%B9%E7%9C%BE%E6%80%92-%E6%9C%89%E7%89%87",
-    "timestamp": "2026-11-27T06:53:08.738Z",
     "strategy": ".content-card__main"
   }
 ];
